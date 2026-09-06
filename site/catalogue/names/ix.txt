@@ -9,6 +9,7 @@ Acronyms VII Executive Summary IX Chapter	14033
 Action IX.1.1 Développer	13306
 Action IX.1.2 Renforcer	13306
 African IXP Association	9795,3325,1892
+Amsterdam IX	17823
 Angola IXP View IXP	11470
 Angonix IXP	1011
 Annex IX	13938,2905,5,5,650
@@ -41,12 +42,13 @@ CDNs and IXPs	15480
 CEO IXPN ABU Zaria Communication Plc	11857
 CEO of IXPN	12028
 CFA. TITRE IX	15780
-CHAPITRE IX	14420,473,233,362,197,42,121,769
+CHAPITRE IX	14420,473,233,362,197,42,121,769,1205,3,1,15,20
 CHAPITRE IX DE LA REDEVANCE ANNUELLE	15999
 CHAPITRE IX L’évaluation	17452
 CHAPITRE IX. RISQUES	15848
 CHAPTER IX	14893,14,219,1809
 CHAPTER IX PROTECTION OF CRITICAL DATABASES	11179
+COLLECTIVITES TERRITORIALES TITRE IX	17829
 Central African Republic. IXPc	14897
 Chapitre IX	1581,9999,5876
 Chapitre IX Dispositions	13323
@@ -65,13 +67,17 @@ Dezembro. IX- FORMA PROPOSTA PARA	3519
 Digital Delta IX	12622
 Distance IXP Point	16626
 Doter BENIN IX	15592
+Economie Numérique IXP	17824
 English Section IX	13185
 Eriger BENIN IX	15592
 Europe. The IXP	15372
+France IX	17823
+Franck Simon de France IX	17823
 GOVERNMENT GAZETTE VOL. IX	12930
 Gabonese IXP	15447
 Gaborone IXP	2731
 General Conditions of Contract Section IX	15080
+Gouvernance de France IX	17823
 Gouvernement IX. CADRE LOGIQUE	13341
 Governo da IX Legislatura	15476
 Gross Domestic Product IXP Internet Exchange	14897
@@ -86,7 +92,7 @@ INX-ZA's IX-F	9617
 IOn Part IX	1593,11361
 ISOC Pulse IXP	6967
 ISOC Pulse IXP Tracker	11470
-ITU International Telecommunication Union IXP Internet	11857
+ITU International Telecommunication Union IXP Internet	11857,6013
 IUCEA Inter-University Council for East Africa IXP	13312,2
 IV.4.2.7 AXE STRATÉGIQUE IX	13306
 IX ANALYSIS REPORT	10980
@@ -94,6 +100,7 @@ IX Acronymes	15599
 IX Africa	10261
 IX CADRE LOGIQUE	13341
 IX Djiri	15379
+IX FIGURES Figure	17881
 IX Ibihano	13323
 IX Introduction	10874
 IX OFFICIAL SIGN-OFF	11261
@@ -162,8 +169,11 @@ IXAfrica	887,3263,2641
 IXAfrica Data Centre	887
 IXAfrica Data Centre Limited	887
 IXAfrica Data Centres	6791
+IXP Budget	17835
 IXP Cameroon. City	16551
 IXP Component	15424
+IXP C’est	17823
+IXP Dans	17823
 IXP Data	14069,1975
 IXP Dernière	17488,26
 IXP Equipment	578
@@ -171,19 +181,24 @@ IXP Facilities	12283,3290
 IXP GUINEE	16619
 IXP GUINEE URL	16619
 IXP Ghana	16545
+IXP Il	17823
 IXP Internet Exchange Point KCL Knowledge	11552
 IXP Internet Service Provider Kbit	15424
 IXP KPI MDA NCG NCTG NDIAF	10157
+IXP Layer	17823
 IXP Locations	15573
 IXP M&E MFI MNO PE RIC	15480
 IXP Management	14965
 IXP Manager	14468
+IXP Netnode	17823
 IXP Network Services	16551
 IXP No Les IXP	17488,26
 IXP Operational Support	14468
 IXP Operational Support IXP Operational Support	14468
 IXP Operational Support and Peering Ecosystem Support	14468
 IXP Operator	16545
+IXP SPINX	17823
+IXP Services	17836
 IXP Support	13120
 IXP Support IXP Support	13120
 IXP Tracker	11470,2599,1,488,252,1234,507,937,26
@@ -197,15 +212,27 @@ IXP-GUINEE	16619
 IXP-Guinée	17563
 IXP-Guinée. Cette	17563
 IXP. BFIX	14468
+IXP. Bien	17823
 IXP. Cable	14810,1234
+IXP. Ce	17823
 IXP. Cela	17488,26
+IXP. Cette	17823
+IXP. Dans	17823
 IXP. Educational	17514
-IXP. Il	15592
+IXP. Elle	17823
+IXP. En	17823
+IXP. Il	15592,2231
 IXP. Internet Society Manitoba Chapter	14468
 IXP. Lire	17460
+IXP. L’IXP	17823
+IXP. L’étude	17823
 IXP. M. Beau-Clair Isidore VIEIRA	16545
+IXP. Mali	17870
 IXP. Phase II	16854
+IXP. Pour	17823
 IXP. Rapport WAPF	16545
+IXP. Sans	17823
+IXP. Support	17823
 IXP. TA	14888
 IXP. Une	16545
 IXP. Unknown	17488
@@ -227,19 +254,21 @@ International Telecommunications Union IXP Internet Exchange	13346
 Internet Exchange Point IXPN	16872
 Internet Society IXP Internet Exchange Point	15592
 Ix9U JY	16857
+Ixelles	18068
 Kenya. IXAfrica	887
 LES PLUS GRANDS IXP DU MONDE	15592
 LES PROBLEMES RENCONTRES PAR BENIN IX	15592
 LSK IX	13704
 Le Chapitre IX	14412
 Lei. IX	11461
-Les IXP	15592,953
+Les IXP	15592,953,1278
 Lesotho IXP Peering Community Meeting	12709
 Liberia IXP	16144
 Localise Traffic the IXPs	11857
 Lusaka IXP	13486
 L’institutionnalisation des IXP	16545
 MANRS IXP	14069,741,1234,507
+MTY0NzQyNzIwMS4xLjEuMTY0NzQyNz IxNS4w	17870
 Mapa IX	1338
 Mbps. Dénommé BENIN IX	15592
 Minister of Culture and Information. IX. MEDIA A	14853
@@ -275,6 +304,8 @@ Part IX	1593,11361,333,24,255,869,14,2386,148
 Parte. PARTE IX	11582
 Preâmbulo Objeto O Governo da IX Legislatura	15450
 Programa de Governo IX Leg	15532
+Présentation de France IX	17823
+RM I and IX	17990
 Regional IXP	578
 Regional IXP and Regional Internet Carrier	16854
 Résultat IX.1	13306
@@ -292,8 +323,11 @@ Service IXP Internet Exchange Point Kbps	16942
 Snehar Shah- CEO IX- Africa Data	14508
 State Parties. PART IX TRANSPARENCY Article	15641
 Subsecção IX Caracterização	11901
+Synoptique IXP Layer	17823
+Sécurité. CHAPITRES IX	18003
+TABLEAUX ET ENCADRÉS VII ABRÉVIATIONS IX	17881
 TICS Chapitre IX	16615
-TITRE IX	13293,2112,179,119,24,53
+TITRE IX	13293,2112,179,119,24,53,2039,6,36,142
 TITRE IX COOPERATION AVEC LA LIGUE	15410
 TITRE IX LES COMITES Chapitre	15594
 TRÁFEGO NACIONAL IXP E REDES	11397
@@ -301,6 +335,7 @@ TTRE IX	13781
 Table IX	14773
 Tableau IX	14622,1098
 Technology IXP Internet Exchange Point KBPS	12973
+Telecommunication Union IXP Internet Exchange Point	17862
 Telecommunications Union IXP Internet Exchange Point	1264
 TerdiT. CHAPITRE IX DES CONTENUS ABUSITS	15429
 Through the IX	6238
@@ -312,7 +347,7 @@ Tripoli IXP Peers	16948
 Título IX da Lei	15440
 UMUTWE WA IX	14893,233
 Uganda IXP	9477
-Un IXP	17488,26
+Un IXP	17488,26,309
 Under Chapter IX	14742
 Union IXP Internet Exchange Point LTE	13295
 VI. VII. VIII. IX. X. XI	4260
@@ -322,6 +357,7 @@ VPA Annex IX	16848
 Valuation Tribunal PART IX	12531
 View IXP	11470
 Vol. IX	1261
+Wari IX	17833
 West Africa IXP	16545
 XC IX	14489
 XC IX ANNEXES PGES- DATA CENTER	14488

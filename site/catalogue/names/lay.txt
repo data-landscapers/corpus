@@ -27,6 +27,7 @@ Default Settlement Layer of Choice	9899,4
 Delimits Regulatory Reach Layer	16212
 Deplete the Ozone Layer	14267
 Description Objective Action Details Tech-I3-A1 Lay	15713
+Design Layer	17823
 Design and Layout	12652
 Djibouti Is Laying the Foundations for Universal	13935
 Double Biometric Layer	9390
@@ -39,11 +40,13 @@ High Resolution Settlement Layer	1013
 Hon. Roland Layfette Giddings Minister of Public	17260
 Human Layer	5513,38
 ISSA Laylay Alfaytouri AbdulSalam Baddah	17403
+IXP Layer	17823
 Institutional Layer	6442
 Integration Layer CRVS Database BID	13005
 Integration Layer GWAN	13005
 Integration Layer PKI Infrastructure Document Signer	13005
 Interoperability Layers	13308
+Interoperability Layers and Shared Services	17870
 Jhanré Pretorius Magano Naimbale Layout and Design	13044
 LAYE M	15639
 LAYER Land-border	9399
@@ -58,7 +61,7 @@ Lay-bye	12630
 Laye Kourwéogo Plateau-Central	15715
 Laye Mbunkur	10379,2,310,2792
 Laye Sékou Camara	7978
-Layer	4611,79,81,1002,1235,782,2419,103,276,4362,131,1131,945
+Layer	4611,79,81,1002,1235,782,2419,103,276,4362,131,1131,945,666
 Layer AI	7147
 Layer C Integration Layer	1009
 Layer Component Description References Contextual	9128
@@ -100,6 +103,7 @@ MJC LAYA	14243
 MPEG Layers-3	12260
 Madagascar Lays Groundwork	14544
 Magano Naimbale Layout and Design Arnaud Arends	13108
+Mberry Laye Seck	17896
 Middle Layer	5244
 Ms Layla Zotova	7515
 Mutual Transport Layer Security NCC Nigerian	11952
@@ -140,6 +144,8 @@ Stakeholder and Communication Support Presentation Layout	8999
 Structural Layering	16212
 Sub-National Layer	11952
 Subsea Layer Wholesale	16814
+Switchs Layer	17823
+Synoptique IXP Layer	17823
 TEXT LAYER	6477
 Team Member Layla Mohamed-Kotb Abdel Wahab	15663
 Tech-I3-A1 Lay Groundwork for Indigenous Large Language	15713

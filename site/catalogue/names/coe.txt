@@ -20,10 +20,10 @@ CoEValidationDate	5363
 CoEebr	4790,308
 Cobrança Coerciva	2866
 Coeckelbergh	11050
-Coefficient	7655,231,3410,648,3523,532,231,813
+Coefficient	7655,231,3410,648,3523,532,231,813,902,69
 Coefficient Dialogue	7886
 Coefficient of Variation	14815
-Coefficients	13418
+Coefficients	13418,4527,69
 Coefficients Unstandardised SE Standardised	9129
 Coeficiente de Gini	16898
 Coega	12521
@@ -91,6 +91,7 @@ Sexes Estimates Standard Error Coefficient	14832
 Sons. Coen	11050
 Soumission COE	10876
 Stainchely Coeurnevel	16100
+Supérieur Coefficient	18014
 Treated FCS Coefficient Standard	12978
 TymeBank CEO Coenraad Jonker	3435,1337
 Variable Coefficient Std. Error	236

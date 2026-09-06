@@ -84,7 +84,7 @@ DROUGHT VULN4ERABILITY HOTSPOTS BY LIVELIHOOD ZONES	10763
 DROUGHT VULNERABILITY HOTSPOTS BY LIVELIHOOD ZONES	10763
 DU LIVRE DES PROCÉDURES FISCALES	16328
 DU LIVRE DES PROCÉDURES FISCALES Réforme	16328
-Data for Better Lives	1264,2340,2935,6792
+Data for Better Lives	1264,2340,2935,6792,4539
 Data for Better Lives. Available	15553
 Data for Better Lives. Retrieved	1243
 Data for Better Lives. Washington	1264,5275,5340
@@ -197,6 +197,7 @@ IDREA. Livelihood	10763
 II.1 HOUSEHOLD LIVING CONDITIONS	15574
 IMPROVING LIVING CONDITIONS	11897
 INCLUSION OF LIVELIHOOD AND FOOD SECURITY	16970
+INFORMATION SUR LES DELAIS DE LIVRAISON	17825
 INTEGRATED HOUSEHOLD LIVING CONDITIONS SURVEY REPORT	12403
 IV.1.4.4.3.3 Livraison	10876
 IVA. Livros	12018
@@ -231,7 +232,7 @@ Kenya Agricultural and Livestock Research	6946
 Kenya Agricultural and Livestock Research Organization	14563
 Kenya Ministry of Agriculture and Livestock Development	14563
 Keywords Live Healthcare Console	8603
-L3 du Livre des Procédures Fiscales	10978
+L3 du Livre des Procédures Fiscales	10978,6862
 LEAP Began The Livelihood Empowerment	16253
 LGA Local Government Area LCS Livelihood	17285
 LIBYA LIVE SOON	11002
@@ -243,6 +244,7 @@ LIVE TWEETS	16914
 LIVE UPDATE	9669,84
 LIVE and ET-LITS	8183
 LIVELIHOOD	17285
+LIVELIHOODS CASH AND SOCIAL SAFETY NETS	17971
 LIVELIHOODS Small	418
 LIVELIHOODS Sources	418
 LIVESTOCK	7167,9876
@@ -281,6 +283,7 @@ Learners Living	8327
 Legacy Lives	11131
 Lekgetho Live	12598
 Les Bordereau de Livraison	10876
+Licence Pro Métiers du Livre	17829
 Licences VMware Live Recovery Protected VM	16006
 Lionel Messi Livre Un Message Puissant	4960,62,2035
 Liv Marte Nordhaug	3720,8276
@@ -319,7 +322,7 @@ Lived Poverty Health	10837,1052,263,11,177,1
 Lived Poverty Public Perception of Economic Opportunities	10759
 Lived Poverty Score Rank Public Procurement	11870
 Lived Poverty Sustainable Environment	10759,1395
-Livelihood	10763,1534,86,581,1290,2331,317,212,43,213
+Livelihood	10763,1534,86,581,1290,2331,317,212,43,213,601
 Livelihood Activities	12977
 Livelihood Choices	17127
 Livelihood Coping Strategies Livelihood	17285
@@ -408,7 +411,7 @@ Livestock Sector Intervention Area J12	14818
 Livestock Slaughtered	2775
 Livestock Smallholders	14818
 Livestock Strengthening	14818
-Livestock Support	12373
+Livestock Support	12373,5598
 Livestock Support Livestock	12373
 Livestock Traceability System	14002
 Livestock and Agro Industry	16331
@@ -429,7 +432,7 @@ Livestream	13461
 Livhuwani Makhode	2662,19,11,9294
 Livia Peiser and Matieu Henry. Food and Agriculture	15129
 LiviaSoft	5680
-Living	4972,2371,543,2955,165,630,18,538,309,843,126,1124,650,330,638,675,15,48,346,501
+Living	4972,2371,543,2955,165,630,18,538,309,843,126,1124,650,330,638,675,15,48,346,501,72
 Living Arrangements for Returnees	10841
 Living Drinking	15244
 Living Environment Unit	14738
@@ -460,14 +463,15 @@ Livingstone Towers City	13185
 Livingstone Towers P.O. Box	3678
 Livingstone Zambia	7036
 Livperliohonoed	10763
-Livrable	12043,2494
+Livrable	12043,2494,3478
 Livrable Lien	15542
-Livrables	10975,1068,2494,37,2173
+Livrables	10975,1068,2494,37,2173,1236
+Livrables Attendues	17902
 Livrables Echéance Pourcentage	12043
 Livraison	2342,13594
 Livrant	11652
 Livranças	10755,631
-Livre	8891,2087,954,1840,911,686,60,155,143,9,263,70,417,131
+Livre	8891,2087,954,1840,911,686,60,155,143,9,263,70,417,131,1223
 Livre Blanc	3857,3792,1432
 Livre Continental Africana	11569
 Livre Foncier	15936
@@ -482,7 +486,7 @@ Livre Vl	15429
 Livre de Procédures Fiscales	15419
 Livre de Registre Foncier	13375
 Livre des Procédure	16328
-Livre des Procédures Fiscales	14169,1830,329
+Livre des Procédures Fiscales	14169,1830,329,1512
 Livre' Aux	15429
 Livre' Il	15429
 Livre. Arlicle	15429
@@ -503,11 +507,12 @@ Livre. Toutefois	15584
 Livre. Un	15429,155
 LivreCinquièmeducodedunumériquequitraitede	15525
 Livremente	11898
+Livrer	17872
 Livres	10876,5025,146,1438
 Livres Comptables	15901
 Livret	6146,9853,637
 Livret Genre	14570
-Livrets	15999
+Livrets	15999,1834
 Livro	2816,8553,4027
 Livro Branco	13,2282,116,1108,627,6619,10,604,17,1,5
 Livro Diário	15396
@@ -541,6 +546,7 @@ Madame RATSIMBAZAFY SOLIFARA Hanitranirina Yvette Liva	14537
 Mali Household Living Conditions Survey	15810
 Management of Living Natural Resources Indigenous Peoples	12253
 Maria Livramento	10765,10
+Mauritanie Livrable	18015
 Mayor of Livingstone	13477
 Men Women Men Women Livestock Poultry	17043
 Men Women Women Men Livestock Poultry	17043
@@ -591,6 +597,7 @@ Opção Livre	12019
 Orange Business Live	5163,2051
 Orange Maroc Live Intelligence	6593
 Outlook Live Details	10235
+PANEOTECH Live Mauritania	17969
 PAR LIVRAISON EXPRESSE OR SWIFT CoDIFIÉ	15399
 PERCENTAGE OF LIVESTOCK HOLDINGS EXPERIENCING ANIMAL	17043
 PERCENTAGE OF LIVESTOCK HOLDINGS PURCHASING FEED	17043
@@ -617,6 +624,7 @@ REGISTRATION OF LIVE BIRTH PROCEDURE	12338
 Recorded Live Births	12005
 Registered Live Births	12151
 Release Description Go Live Date	12491
+Resilience and Livelihood Support	17985
 Resilient Livelihoods	12964
 Resilient Livelihoods Resilient	12964
 Responsabilités Livrables	14537
@@ -719,5 +727,6 @@ WhatsApp and Facebook Live. Despite	17037
 WhatsApp and Women’s Livelihoods	11017
 Worker Livelihoods	226
 World Bank Group For Livestream	11839
+World Development Report. Data for Better Lives	17870
 Years of Productive Lives Saved Total Benefits	10829
 Zambia Girls' Education and Women's Empowerment and Liveliho	13332

@@ -23,6 +23,7 @@ Africa’s Food Markets Could Create	11140
 Against GECOL and Food Control Heads French	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
 Agency for International Development World Food Programme	15658
 Agenda for Sustainable Development WFP World Food	16927
+Agreement ANVASAN Food and Nutrition Security Monitoring	17962
 Agricultural Indicators Food Balance Sheet	2775
 Agriculture Food Authority	10313
 Agriculture and Food	1131
@@ -52,6 +53,7 @@ BIO FOOD PRODUCTS LIMITED Data Controller	7167
 BIO FOOD PRODUCTS LIMITED Data Processor	7167
 BUA FOODS PLC	11884
 Bank WFP World Food Program WMO	17157
+Bank WFP World Food Programme	17869
 Basic Education for All Agriculture and Food Accelerating	11469
 Bn Food Security Rs	14830
 Boosting Agriculture and Food System Resilience	16436
@@ -166,6 +168,7 @@ Flesh Food Consumption	15247
 Foo Yun Chee	8596
 Foo Yun Chee BRUSSELS	8596
 Food Act	14742
+Food Assistance	17985
 Food Assistance Grants	12962
 Food Assistance Programme	13123
 Food Balance Sheet	2775,10274
@@ -193,6 +196,7 @@ Food Distribution	12970
 Food Expenditure	17285
 Food Group Diversity Score	17127
 Food Groups	17127
+Food Headline	17909,81
 Food Hygiene	14835
 Food Hygiene Part	13385
 Food Import Ratio	1828
@@ -241,11 +245,16 @@ Food Security CBG Central Bank	17285
 Food Security CHAPTER NINETEEN	14409
 Food Security Classification	17285
 Food Security Cluster After Action Review	15093
+Food Security EWS	17962
 Food Security Following	11185
 Food Security Increase	14818
 Food Security Intervention Needed Visualization	17157
 Food Security Monitoring	15552
+Food Security Monitoring Survey	17849
+Food Security Monitoring System-FSMS	17885
+Food Security Natural Resource Management FY17	17962
 Food Security Nigeria	11469
+Food Security Office	17849
 Food Security Pack	12453,892
 Food Security Programme	7845,6973
 Food Security Project	10841,3988
@@ -350,7 +359,8 @@ Foondamate	818,77
 Foot and Mouth	12640
 Foot and Mouth Disease	5444,7144,535,3920
 Foot-and-Mouth Disease	2626,4610,2525
-Football	1876,3203,3805,1109,43,2375,5176
+Football	1876,3203,3805,1109,43,2375,5176,330
+Football Club Secrétaire	17819
 Football Congo	5079
 Football Field Construction of Talat Dergam School	15578
 Football Shalulile	9779
@@ -385,10 +395,11 @@ General Principles of Food Hygiene1	16900
 General Requirements for Halal Food	16900
 Ghana's Food and Drugs Authority	8479
 Global Agriculture and Food Security Program	13083,4530
-Global Food	12512
+Global Food	12512,5371
 Global Food Crisis	16614
 Global Food Crisis Response Program	16614
 Global Food Security Index	4528,12729
+Global Food Security Strategy	17883
 Graziella Hotels and Fast Foods. En	7496
 HOUSEHOLD DEMOGRAPHIC CHARACTERISTICS FOOD SECURITY	17285
 Halal Food	16900
@@ -416,7 +427,7 @@ Integrated Food Classification	3583
 Integrated Food Security Phase Classification	3583,7553,333,1509,1967,14,1505
 Integrated Food Security Phase Classification System	3583
 International Food Policy Institute	12162
-International Food Policy Research Institute	1507,5441,3820,1390,1173,1807,1909
+International Food Policy Research Institute	1507,5441,3820,1390,1173,1807,1909,859
 International Food Policy Research Institute Investors	12837
 International Food Poverty Research	11986
 International Labor Organization and World Food Program	13332
@@ -466,6 +477,7 @@ Multi-Donor Trust Fund. The Malawi Food	13083
 Multi-Sectoral Food	13474
 NATIONAL FOOD SECURITY SURVEY	17285
 NATIONAL FOOD SECURITY SURVEY TEAM	17285
+National Agency for Food Security	17962
 National Agency for Food and Drug Administration	17652
 National Agency for Food and Nutrition Security	16398
 National Council for Food Security	16384
@@ -497,7 +509,8 @@ National Food and Drug Quality Control	16922
 National Food and Drug Quality Control Laboratory	16922
 National Food and Drug Testing Laboratory	17228
 National Food and Nutrition Commission	13578
-National Food and Nutrition Security Policy	17127
+National Food and Nutrition Security Policy	17127,835
+National Food and Nutrition Security Policy PSC	17962
 National Food-Safety Committee	14818
 National Food-Safety and Nutrition Awareness Campaign	14818
 National Foods	13320
@@ -516,6 +529,7 @@ Northern Lowlands and Foothills	12755
 Not... Senate Warns Wildlife Shortage of Food	4942,664,283,454,183
 Nutrition and Food Safety	17289
 Nutrition and Food Security	16952
+Nutrition and Food Security FY17	17962
 OBJECTIVES Assess Household Food Security	17285
 OK Foods	12977
 Open Access Data Centres Expands Footprint	11243
@@ -537,10 +551,12 @@ Plastic Coat Footwear and Shoe Photo-Illustration	6517
 Poverty.44. Gender.45. Food	14410
 Previous Previous Addressing Food Security	12366
 Professional Services Capital Goods Food	4972
+Project Steering Committee SAP Food Security	17962
 Proof of Delivery Food and Drug Administration	4153
 Propensity Scores Distribution and Common Support for Food	12978
 REGIONAL SERVICE DELIVERY FOOTPRINT	8999
 Rapid Food Security Assessment	16902
+Ready-to-Use Supplementary Food and SuperCereal Plus	17985
 Ready-to-Use Therapeutic Food	16922
 Real Time Food Prices	15620
 Real Time Food Prices Country	15620
@@ -570,7 +586,7 @@ Safe Food Production	14818
 Safe Food Production Inadequate	14818
 Sahel Document Food Security and Humanitarian Implications	17323,1
 Sanitation Provision Food	12373
-Sanitation and Hygiene WFP World Food Programme	12970
+Sanitation and Hygiene WFP World Food Programme	12970,4879
 Satellite Footprint	10407
 Scientific and Cultural Organization WFP World Food	7548
 Sectoral AI Adoption Framework Agriculture and Food	4528,7984
@@ -603,6 +619,7 @@ Sustainable Food Systems	5367,10768
 Sustainable Food Systems. Close	11469
 Sustaining Food Production	6947
 Sweet Food	17127
+System FM Financial Management FSO Food	17849
 Technical Committees of Mauritian Food Standards	14736
 Technology Materials Health Care Food	4972
 Trades Workers Food Preparation Assistants Food	16266
@@ -643,7 +660,7 @@ WB World Bank WFP World Food	15731
 WFP Specialized Nutritious Foods	10841
 WFP World Food Program TABLE	16867
 WFP World Food Program The World	11560
-WFP World Food Programme	15220,1632,433
+WFP World Food Programme	15220,1632,433,621
 WFP World Food Programme Regional Vice	11525
 WFP World Food Programme TABLE	16952
 WFP World Food Programme. BASIC INFORMATION	14976
@@ -660,7 +677,7 @@ World Food Program WHO World Health	15415
 World Food Program WHR Window for Host	10841
 World Food Program and GCA	17257
 World Food Program-operated	11924
-World Food Programme	1828,39,310,935,471,3399,48,117,2337,263,315,448,253,59,7,12,122,1,169,9,1033,45,21,56,626,8,25,19,2,1,102,315,150,47,346,370,588,1,48,3,11,17,48,40,183,95,259,3,16,38,73,795,376,255,15
+World Food Programme	1828,39,310,935,471,3399,48,117,2337,263,315,448,253,59,7,12,122,1,169,9,1033,45,21,56,626,8,25,19,2,1,102,315,150,47,346,370,588,1,48,3,11,17,48,40,183,95,259,3,16,38,73,795,376,255,15,677,57
 World Food Programme Foreword	15604
 World Food Programme Methodology	14141
 World Food Programme Methodology Rainfall	15232

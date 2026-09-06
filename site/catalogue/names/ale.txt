@@ -2,7 +2,7 @@ ADM Alexis Manirambona SAEE3 Responsible	1284
 AI-powered Spam Alert Service	9899
 ALE DE Améliorer	15999
 ALECE	15478
-ALECSO	2958
+ALECSO	2958,15021
 ALECSO Chairman	2958
 ALECSO Charter	2958,202
 ALECSO Charter of Ethics	2958
@@ -45,6 +45,7 @@ Acting Chief Executive Officer Eng. Alex	13488
 Actualité Alexie Alaïs	9620
 Agencia Alemana de Cooperación Internacional. También	15478
 Agriculture Minister J. Alexander Nuetah	9650
+Aioun and Aleg	17862
 Airtel AI Spam Alert Service. Airtel	2558
 Alberto Maria Mongardini and Alessandro Mei	4127
 Ale Abdel Farid	5685
@@ -84,7 +85,10 @@ Aleph Alpha AbthreeC GmbH Alyntoris	8530
 Alers	16996
 Alert	1988,10265,1900,743,2244,17
 Alert Activation Workflow	17157
+Alert Agency CERC Contingent Emergency Response	17962
+Alert Centre	17969
 Alert Communication Management PIXv3 Mobile Care	1009
+Alert Engine and Validation Workflow	17969
 Alert Generation	17157
 Alert Level	17157
 Alert Management	11952
@@ -108,18 +112,24 @@ Alertas CAP Guiné-Bissau INM	17300
 Alertas Formação	12021
 Alertas Personalizadas Envia	16028
 Alertas Precoces	15996
-Alerte	11139,4797,550
+Alerte	11139,4797,550,1359,43,27,117,45
 Alerte Accident Pour	15936
 Alerte Avancée	13290
+Alerte Epidémiologique	17845
+Alerte Epidémiologique DNDS Direction Nationale du Schéma	17845
 Alerte Laabal	16353
 Alerte Labal	16353
 Alerte Météo	5207,554
 Alerte Pastèque	8797
-Alerte Précoce	15999,724
+Alerte Précoce	15999,724,1165,57
+Alerte Précoce Multirisques	17911
+Alerte Précoce SAP	17842
 Alerte Précoce des Crues	15828
+Alerte Précoce. SDS	17945
 Alerte-CESE	8891
 Alerter	15936
 Alertes	2911,7478,5512,294
+Alertes Précoces	17873
 Alertes100	2376
 Alerting	11952
 Alerting Framework Establish	11952
@@ -199,7 +209,7 @@ Alexandra De Waal	13097
 Alexandra K. Zoe	8393
 Alexandra Kormah Zoe	17037
 Alexandra Le Courtois	13897
-Alexandra Norris	10977,4866,1,821,380
+Alexandra Norris	10977,4866,1,821,380,880
 Alexandra Norris EXECUTIVE SUMMARY The Global	10977
 Alexandra Norris World Bank	15844
 Alexandra Thornton and Jean Ross	14932
@@ -266,11 +276,13 @@ Ayieny Aleu. Public Service and Human Resource	14298
 Beni Suef Qena Gharbia Faiyum Alexandria	15578
 Benny Alex Nkurunziza	7955
 Boundia Alexandre THIOMBIANO	7670
+Brakna Aleg	17931
 Build New Satellites for Nigeria Thales Alenia	12130
 Bulgaria ALEKSANDROVA	6613
 CAP Common Alerting Protocol CHD Country	11553
 CAPÍTULO III SUBSÍDIO DE ALEITAMENTO	11467
-Cairo Alexandria Desert Road Giza Governorate	10764,80
+CTA Alert Processing Center DCS National	17962
+Cairo Alexandria Desert Road Giza Governorate	10764,80,7012
 Cairo and Alexandria	15473,252
 Cairo and Alexandria. Later	8828
 Carla Alexandra Oreste	12789
@@ -279,6 +291,7 @@ Charles Alexander Miller	11572
 Chief Director Alexander Yaw Arphul	10736
 Chief Samaila Aleyideino	2552
 Christa Bernice NDAYIHEREJE Alexis NDAYISHIMIYE Eliane	13300
+Cisse Team Member Nikolai Alexei Sviedrys	17962
 Civil M. Somé Alex Directeur Services	10812
 Client Alert	8027
 Clínicas de Porto Alegre	10188
@@ -297,6 +310,7 @@ Copy Link News Alerts WhatsApp South	6286,1986
 Copy Link News Alerts WhatsApp Teraco	9769
 Corinne Alexandrine	15780
 Counsel Legal LEGAM Nikolai Alexei Sviedrys	16922
+Critical Alerts Should Never Auto-Diffuse	17969
 Critical Areas Seed Distribution Orange Alert	17157
 Cultural Cartography By Atwemereireho Alex	8352
 Cultural and Scientific Organization ALECSO Charter	2958
@@ -341,6 +355,7 @@ Germany’s Aleph Alpha and France’s Mistral AI	17780
 Gharbia Damietta Ismailia New Valley Alexandria	15578
 Giza New Valley Asyut Alexandria Ismailia	15578
 Google Africa MD Alex Okosi	6961
+Google Earth Engine. Alerts	17969
 Google Public Alert	16698
 Google Public Alerts	17300
 Google’s MD for Africa Alex Okosi	3619
@@ -381,6 +396,7 @@ Julian Alexander Koschorke	16626
 Jun Written By Alexis Ditkowsky	10967
 KIN ALERTE	4501
 Kafr El Sheikh Damietta Ismailia Alexandria	15578
+Kiffa and Aleg	17934
 Kiira Brian Alex	3005
 Krishnamani Kavita Mathur Victoria Alexeeva IEGSD	14888
 Laura Starita Alexandra Norris	10977
@@ -392,15 +408,18 @@ Likes Alexandre Marie Yomo	16372
 Lincoln Alexander School of Law	8764
 Lower Egypt Alexandria Capital Canal Upper	16266
 Luanda DICKSON ALEXANDRE FRANCISCO JOÃO	10751
+L’Abbé Alexandre DENOU	17829
 L’Administrateur Havyarimana Alexis	13518
 M Alexis NIOMBELA	15685
 M. Alex Cédric SAIZONOU ANGUILET	16099
+M. Alexi KEITA ADC EMGA	17841
 M. Alexis KOUMBA	16175
 M. Alexis KOUMBA. DIRECTION GENERALE	16381
 M. Alexis NGUEMA OBAME	16175
 M. DANA Raphael Alexandre Denis	15780
 M. DANA Raphael Alexandre Denis. CABINET	15780
 M. Héliodore Francis Alex GOULOUBI	7660,1
+M. Roberto Alexandre VEIRA	18061
 Madames Alessandra Heinemann	16012
 Marc Alexandre Doumba	4138,982,2001,9038
 Marcelo Aleman	12132
@@ -487,6 +506,9 @@ Rw-CSIRT Alerts Advisories About NCSA Documentation	9125
 Rwanda With and Without Clinical Alerts	12379
 SCAM ALERT	13477
 SMS ALERTE	16695
+SMS Alert	17833
+SMS Alert Agios	17833
+SMS Alert GAB	17833
 SPAM Alert	4657
 SPI Alert System	17157
 Samuel Alemayehu	7151

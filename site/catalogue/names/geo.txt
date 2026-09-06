@@ -76,7 +76,7 @@ Coordenadas Geográficas	11405
 Country Snapshot Geography The Federal Democratic	12500
 Coverage Geographic Coverage	13084,675,1861,226
 Coverage Geographic Coverage National	15024,2141
-Coverage Geographic Coverage National Coverage	15843,822,380
+Coverage Geographic Coverage National Coverage	15843,822,380,880
 Coverage Geographic Coverage National Coverage Producers	15844
 Coverage Geographic Coverage National Universe All	10862
 Croatia Czech Republic Ecuador Georgia Hungary	10764
@@ -84,6 +84,7 @@ Cronin and George	17773
 Curriculum Coordinating Committee. Geography	12975
 DE L’AVIATION ET DE LA GEOLOGIE	15395
 DECENTRALISATION ET DE LA GEOLOGIE	16100
+DES INFRASTRUCTURES INSTITUT GEOGRAPHIQUE DU MALI	17983
 DES RESSOURCES GEOLOGIQUES	16001
 DStv Mr George	3229
 DU BUDGET ET DE LA GEOLOGIE	15744
@@ -153,6 +154,7 @@ Francois and George	3782
 Fund Gross Domestic Product Geographic Information	13290
 GCF Green Climate Fund GIS Geographic	17260
 GDP Gross Domestic Product GIS Geographic	17149
+GEMS Geo-Enabling	17962
 GENERAL FRAMEWORK A. GEOGRAPHIC	14742
 GEO SDG Awards	13394,81
 GEO-INFORMATION SERVICES I Statement of Publication	16935
@@ -168,6 +170,7 @@ GEOGRAPHIC	16212
 GEOGRAPHIC FOCUS	4972
 GEOGRAPHICAL AND THE CLIMATIC UNITS	17157
 GEOLAB	7686
+GEOLOCALISATION	17982
 GEOLOGIE ET DE LA DIVERSIFICATION ECONOMIQUE	15660
 GEOLOGIQUE ET	15999
 GEOLOGIQUES	16381
@@ -196,13 +199,16 @@ Gabon Gambia Georgia Germany Ghana Gibraltar	11470
 Gen AI for Geospatial Challenge	9561
 Gender-Based Violence Gross Domestic Product Geo-Enabling	15658
 Geo Consult International	16667
+Geo Data Center	17983
+Geo Data Center C’est	17983
 Geo Technical Survey	11131
+Geo-AI	17983
 Geo-Data	16833
 Geo-Demographic Atlas	16921
 Geo-Enabled Monitoring and Supervision	10829
 Geo-Enabled Monitoring and Supervision GFF Global Financing	10829
-Geo-Enabling	10964,903,51
-Geo-Enabling Initiative for Monitoring and Supervision	3604,11949,105,1680
+Geo-Enabling	10964,903,51,6044
+Geo-Enabling Initiative for Monitoring and Supervision	3604,11949,105,1680,568,56
 Geo-Enabling for Monitoring and Supervision	16436
 Geo-Informatics	9115
 Geo-Information	16833,28
@@ -225,8 +231,9 @@ Geo-political Zones	11129
 Geo-redundant	11952
 Geo-referencing	13322
 Geo. J. Int’l Aff	2518
-GeoAI	5226,5535,3945
+GeoAI	5226,5535,3945,3277
 GeoComply	10293
+GeoData Center	17983
 GeoHazards Risk Mapping Initiative	14706
 GeoHub	1043,860,9193
 GeoJSON	1984,3801,8120,3211
@@ -277,13 +284,14 @@ Geografia	414,15358,1331
 Geografia da Conectividade Até	9559
 Geografia1	15772
 Geografía	16875,94
-Geographic	11,546,1539,1508,183,2639,322,84,2927,398,606,5,31,30,108,27,39,132,27,13,20,330,35,135,184,37,411,12,19,678,214,145,605,666,415,48,75,168,101,7,234,318,854,38,215,18,128,26,412
+Geographic	11,546,1539,1508,183,2639,322,84,2927,398,606,5,31,30,108,27,39,132,27,13,20,330,35,135,184,37,411,12,19,678,214,145,605,666,415,48,75,168,101,7,234,318,854,38,215,18,128,26,412,139,7,37
 Geographic Agent	12297
 Geographic Approach	11252
 Geographic Approach The EMR	11252
 Geographic Area	11252
 Geographic Area and Coverage	11252
-Geographic Barriers	12761
+Geographic Barriers	12761,5108
+Geographic Barriers Financial Barriers Urban Rural	17869
 Geographic Clusters	12053
 Geographic Coverage IGAD Member States	14079
 Geographic Coverage of Western Cape Region	8999
@@ -316,6 +324,7 @@ Geographic Scope	7662,4536,4014
 Geographic Scope This Report	4972
 Geographic Scope of Payment Systems	6938
 Geographic and Devolution Scope This Policy	7548
+Geographic and Financial Barriers	17869
 Geographic and Population Coverage	6000
 Geographic and Sectoral Segmentation	15179
 Geographic information system	5785
@@ -370,6 +379,7 @@ Geological Surveys	13093
 Geological and Minerals Development Bill	13387
 Geology	12253,4852
 Geology and Hydrogeology	1988
+Geology and Mineral Resources	18016
 Geometria Analítica	12019
 Geometria Descritiva	15772,1331
 Geometric	11258,5664
@@ -459,13 +469,14 @@ George and Janade du Plessis	7611
 George and Lefevre	9128
 George-Ramsey Benamba	17684
 Georgeline GUETOMBO	16175
-Georges	6731,8724,325,121,1041
+Georges	6731,8724,325,121,1041,928
 Georges Bernard MBAMI NDJAMBO	16175
 Georges Culta	15615
 Georges Damas Aleka	16382
 Georges Elanga Obam	3234,8464,4119
 Georges Elanga Obam. L'événement	15817
 Georges Elanga Obam. Selon	11698
+Georges KONE Secrétaire	17899
 Georges Leclezio Avenue	14847
 Georges MOUSSAVOU	16175
 Georges Mpelé	8737
@@ -513,6 +524,7 @@ Geospatial Information	15473
 Geospatial Information Centre	12588,2
 Geospatial Information Dashboard	11277
 Geospatial Information Expert- Benha University	15473
+Geospatial Information Framework	17983
 Geospatial Information Management Strategy	11275
 Geospatial Information Officer	14090
 Geospatial Information System	15473
@@ -598,6 +610,7 @@ I.1.1 Geografía	16898
 ICT and E-Waste and Geo-Information	16883
 IND KENKORPOL GEO VNMHRV GHA MAR	7655
 INSTITUTO GEOGRAF. Y CATASTRAL.- Concepto	4209
+INTEGREE DE L’INFORMATION GEOSPATIALE	17983
 ISPRS International Journal of Geo-Information	2096
 Ic Georgia Asia Western Asia Tbilisi	10840
 Ic Guyana Americas South America Georgetown	10840
@@ -705,6 +718,7 @@ Minister of Mines and Geology	16649
 Ministry of Mines and Geology	981,1908,6111
 Ministry of Mines and Geology MS Moderately Satisfactory	2889
 Mme Georgina EFFOUA	16381
+Mme Kristalina Georgieva Directrice Fonds	18063
 Mme MENGUE Georgina. MÉMORIAL LÉON MBA	16381
 Monsieur Geoffrey GREENWELL	16400
 Monthly Geothermal Energy Generated	12256
@@ -815,6 +829,8 @@ SITUATION GEOGRAPHIQUE	16195
 SOCIETE GEOWORKS Capital	15786
 ST. George's Primary School	10049
 STATE HON. SAMUEL NARTEY GEORGE	4126
+SYSTEME D’ADRESSAGE NUMERIQUE POSTAL GEOREFERENCE	17902
+SYSTEME D’INFORMATION GEOGRAPHIQUE	17902
 Sam George	2338,1510,1930,628,300
 Sam Nartey George	4706,1072
 Sambus Geospatial Nigeria Limited	14706
@@ -885,6 +901,7 @@ United Nations Global Geospatial Information Management	15129
 United Nations Integrated Geospatial Information Framework	6693,6952
 United States Geological Survey	15129,156,1631,80,161
 United States Geological Survey WB World	17157
+United-Nations’ Integrated Geospatial Information Framework	17983
 Use of Geo-Enabling Initiative	15661
 Use the Geographical Information System	16863
 Using Geospatial Analysis	960,9896,3818

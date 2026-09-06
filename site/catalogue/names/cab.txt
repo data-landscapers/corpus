@@ -22,6 +22,8 @@ ARTIFICIAL INTELLIGENCE Cabinet	3760
 ARTS AND CULTURE Cabinet	13673
 ATU and Cabo Verde	6007
 ATUALIZAÇÃO DO CÓDIGO ADUANEIRO DE CABO	16110
+AU CABINET DU MINISTRE	17841
+AU CABINET DU MINISTRE DES Article	17829
 AUTHORITY AMENDMENT BILL Cabinet	11791
 Abidjan. Cabo Verde	7795
 Accelerator Lab Cabo Verde	11546
@@ -29,6 +31,8 @@ Accounting Standards and Financial Reporting System for Cabo	11955
 Additional Financing CAB4 World Bank Group	162
 Addressing the Cabinet	9242
 Administrador da Sociedade de Cabos da Guiné-Bissau	11531
+Administration Cabinet du Ministre Chargé	17895
+Administration Cabinet du Ministre Chargés	18087
 Administração Pública Cabo-verdiana	15476
 Administração Pública de Cabo Verde	15476
 Administração Pública de Cabo Verde DSP4 DSP6	15532
@@ -93,6 +97,7 @@ Apr-2022 TO The Republic of Cabo Verde	16187
 Arab Submarine Cable Company	15284
 Arma da República de Cabo Verde	15380
 Armas da República de Cabo Verde	15344
+Armée Assimi GOITA CABINET DU MINISTRE	18032
 Arquivo Nacional de Cabo Verde	15572
 Assistant du Directeur de Cabinet	15685
 Association of Submarine Cable Operators of Nigeria	7329
@@ -104,7 +109,7 @@ Associação Cabo-verdiana de Deficientes	15694
 Associações Cabo-verdianas	15380
 Associações Caboverdiana	15380
 Atlantic and Angola Cables	3075
-Attaché de Cabinet	16099,76,206
+Attaché de Cabinet	16099,76,206,1446,72,133
 Attachée de Cabinet	16099,76,206
 Attachés de Cabinet	16099,76
 Atualização Económica de Cabo Verde	7881
@@ -120,6 +125,7 @@ B.5 Cabo Verde	11863
 BAARISTA CABASHOOYINKA IYO JABSASHADA XOGTA	15152
 BAI Cabo Verde	11955
 BANCO DE CABO VERDE Gabinete	16122
+BATIMENT DE LA STATION DE CABLE	17846
 BILL Cabinet	11791
 BLEUE CABINET DU MINISTRE	16175
 BS Bertelsmann Stiftung Cable Cable.co.uk CAHF	10759,78,1052,451
@@ -248,7 +254,7 @@ CABC’s HeCareZA	10729
 CABIN	15584
 CABINDA INAUGURADO PELO MINISTRO DO INTERIOR	11427
 CABINDA To To REGION BOUNDARIES OCEAN	15372
-CABINET	2738,453,135,434,2307,6540,2146,991,157,199
+CABINET	2738,453,135,434,2307,6540,2146,991,157,199,1872
 CABINET APPROVES	13532
 CABINET APPROVES NATIONAL RESEARCH	14286
 CABINET B	15744,157,199
@@ -347,7 +353,8 @@ Cabinda- Os	10366
 Cabinda. Charges	15799
 Cabinda. FF	11837
 Cabinda. Figure	15724
-Cabinet	765,18,1,212,154,4,60,8,61,6,324,95,34,36,89,53,68,116,106,199,137,80,55,139,17,129,23,72,249,227,97,18,62,46,42,122,34,89,7,216,110,12,136,105,20,128,2,285,96,11,69,84,66,56,70,13,93,75,73,124,88,22,168,20,23,255,38,14,1,37,157,71,41,88,109,26,251,9,232,21,191,118,28,28,72,82,162,119,2,178,60,230,58,30,196,119,154,18,380,63,109,280,256,57,153,100,10,80,6,2,54,132,35,3,44,1,3,11,8,14,3,6,6,6,28,1,7,8,5,4,220,92,29,127,32,2,149,46,11,85,150,105,19,2,9,86,47,12,29,5,2,40,58,77,2,61,106,4,13,3,10,24,10,5,1,8,7,5,17,9,7,39,41,23,37,71,66,18,3,3,2,13,1,13,7,32,3,12,4,15,25,1,28,29,141,17,14,12,183,399,19,21,55,48,74,37,25,15,160,21,10,1,21,19,26,20,2,4,13,4,17,3,6,19,28,12,18,19,35,10,206,196,42,1,18,50,42,17,3,54,5,64,53,121,76,70,61,86,8,51,35,6,73,14,105,25,138,32,21,20,113,23,9,5,1,12,30,12,24,15,126,13,123,29,3,293,13,18,63,92,46
+Cabinet	765,18,1,212,154,4,60,8,61,6,324,95,34,36,89,53,68,116,106,199,137,80,55,139,17,129,23,72,249,227,97,18,62,46,42,122,34,89,7,216,110,12,136,105,20,128,2,285,96,11,69,84,66,56,70,13,93,75,73,124,88,22,168,20,23,255,38,14,1,37,157,71,41,88,109,26,251,9,232,21,191,118,28,28,72,82,162,119,2,178,60,230,58,30,196,119,154,18,380,63,109,280,256,57,153,100,10,80,6,2,54,132,35,3,44,1,3,11,8,14,3,6,6,6,28,1,7,8,5,4,220,92,29,127,32,2,149,46,11,85,150,105,19,2,9,86,47,12,29,5,2,40,58,77,2,61,106,4,13,3,10,24,10,5,1,8,7,5,17,9,7,39,41,23,37,71,66,18,3,3,2,13,1,13,7,32,3,12,4,15,25,1,28,29,141,17,14,12,183,399,19,21,55,48,74,37,25,15,160,21,10,1,21,19,26,20,2,4,13,4,17,3,6,19,28,12,18,19,35,10,206,196,42,1,18,50,42,17,3,54,5,64,53,121,76,70,61,86,8,51,35,6,73,14,105,25,138,32,21,20,113,23,9,5,1,12,30,12,24,15,126,13,123,29,3,293,13,18,63,92,46,34,8,2,12,4,16,18,20,9,74,33,17
+Cabinet AU CABINET DE L’ANCIEN PRESIDENT	17861
 Cabinet Affairs	2428
 Cabinet Affairs Central Bureau of Statistics	15244
 Cabinet Affairs Central Bureau of Statistics SUDAN	15244
@@ -376,9 +383,11 @@ Cabinet Director	10829
 Cabinet Dr. Oliver Kalabo	7432
 Cabinet Dr. Roland Msiska	194
 Cabinet ENVAL	1005
+Cabinet Etat	17845
 Cabinet Fault Lines	4535
 Cabinet GEMACOR INTERNATIONAL	15670
 Cabinet IBF	13549
+Cabinet L’ETAT	17861
 Cabinet MEPSIR CSS INS Hypothèse	15580
 Cabinet MEPSIR Hypothèse	15580
 Cabinet MEPSIR INS A3O3R3	15580
@@ -387,6 +396,7 @@ Cabinet MEPSIR INS CASP Hypothèses	15580
 Cabinet MEPSIR INS Comité	15580
 Cabinet MEPSIR INS DEP	15580
 Cabinet MEPSIR INS Hypothèse	15580
+Cabinet MPFEF Pourcentage de SLPFEF	17845
 Cabinet Meeting	2626,5880,6363
 Cabinet Memo	14521
 Cabinet Memorandum	11986,1473
@@ -397,6 +407,7 @@ Cabinet Ministers	13095,551,306,2325
 Cabinet Ministers Alfred Gangata	5906
 Cabinet Ministers Present	17347
 Cabinet Minute Extract	2757
+Cabinet Médical	17819
 Cabinet Nathaniel T. Kwabo	10581
 Cabinet News	10246
 Cabinet No Result View All Result	5774
@@ -408,8 +419,10 @@ Cabinet PTN	15768
 Cabinet Paper and Circular Number	12975
 Cabinet Patrick Kangwa	7223,6419
 Cabinet Postes	2050,2596
+Cabinet Quick Win	17860
 Cabinet Resolution No	8967,8176
 Cabinet Retreat	16858
+Cabinet Référentiel National	17860
 Cabinet Secre	17745
 Cabinet Secretaries	2742,4806,2765,1493,2825,33
 Cabinet Secretary	1131,615,920,43,1443,479,1600,201,156,199,159,602,59,224,1,736,1712,33,934,217,675,12,81,24,24,21,13,1556,169,143,40,48,130,7,3,5,7,5,8,14,11,11,22,12,16,3,22,29,19,5
@@ -459,20 +472,32 @@ Cabinet and Parliamentary	4528,7984,2034,425
 Cabinet and Parliamentary Approval	14546
 Cabinet and Policy Analysis and Coordination Division	12453,892
 Cabinet and Rack Installation	9123
+Cabinet de Annonces	17861
+Cabinet de Défense du Premier	17982
 Cabinet de Géomètre	15349
 Cabinet de Maître Danielle Moukouri	2546
+Cabinet de Soins Infirmier	17819
+Cabinet de Soins Infirmiers	17819
 Cabinet du Chef	15458
 Cabinet du Chef du Gouvernement	17448
+Cabinet du Commissaire	18032
 Cabinet du Conseiller Spécial	15458
 Cabinet du Géomètre	15349
 Cabinet du MDENP	15512
+Cabinet du MSHP	17882
 Cabinet du Maire	13292
-Cabinet du Ministre	2011,14088,282
+Cabinet du Mali	17841
+Cabinet du Mi-	18077
+Cabinet du Ministre	2011,14088,282,1448,53
+Cabinet du Ministre Centres Hospitaliers Généraux	17843
 Cabinet du Ministre Composition du Cabinet Structures	15449
 Cabinet du Ministre. En	16001
 Cabinet du Ministre. Il	15685
-Cabinet du Premier Ministre	9565,2032,1778,2561
-Cabinet du Président	8672,4662,2393,42,268
+Cabinet du Ministère	17872,4
+Cabinet du Premier	17827,1,1,12,58,133
+Cabinet du Premier Ministre	9565,2032,1778,2561,1959
+Cabinet du Président	8672,4662,2393,42,268,1790,1,1,12,58,133
+Cabinet du Président Transmission	17841
 Cabinet du Secrétaire Général Adjoint Secrétaire de Cabinet	16381
 Cabinet du Vice-Président	16381
 Cabinet for Administration Oliver Kalabo. Mr Kangwa	13642
@@ -516,8 +541,10 @@ Cabinet. The Electronic Government Division	12453,892
 Cabinet. The Strategic Plan	12977
 CabinetDecision	14721,53,19,46,6
 Cabinetapproved Digital Transformation Roadmap	11006
-Cabinets	8746,377,7071
+Cabinets	8746,377,7071,1630,3,1,1,12,4,37,17,133
+Cabinets Bamako	17827
 Cabinets GRANT THORTON	10975
+Cabinets PUBLIQUE ET DU DIALOGUE SOCIAL	18032
 Cabinets de Ministres	15973
 Cabinets du Ministre	10712
 Cabinets for PAC Secreta	17180
@@ -536,7 +563,7 @@ Cable Consortium of Liberia CSquared	16876
 Cable Consortium of Liberia Engr. Aaron	17260
 Cable Consortium of Liberia URL	16988
 Cable Infrastructure Licence Fees And Charges	9109
-Cable Landing Station	2677,14437
+Cable Landing Station	2677,14437,732
 Cable Length	14897
 Cable MUST Duty Cycle	34
 Cable Management Solutions Cabling	14921
@@ -559,7 +586,7 @@ Cable Ultramar	16865
 Cable and Wireless	15471
 Cable and Wireless Seychelles	564
 Cable. The Gambia	16705
-Cable.co.uk	969,14581,71,1321
+Cable.co.uk	969,14581,71,1321,928
 Cable.co.uk Internet	16942
 Cablenet	1818
 Cables	1647,1030,1105,666,228,4447,4262,3487,28,70
@@ -598,7 +625,7 @@ Cabo TV	6638,25,1,6524
 Cabo Trabalho	15694
 Cabo Venton	15658
 Cabo Ver	16251
-Cabo Verde	356,46,401,440,13,8,1,73,1,1,2,5,1,61,1,21,1,31,2,271,125,48,15,24,106,26,1,1,7,2,3,33,218,56,99,118,64,8,117,4,5,31,13,5,56,31,127,337,142,45,64,42,12,44,78,113,125,207,123,8,159,5,252,40,137,4,138,111,3,51,36,68,20,11,8,14,33,106,204,65,123,20,10,3,25,126,45,294,20,18,3,221,15,126,5,404,110,255,174,67,95,136,21,124,314,91,447,113,616,89,194,161,242,123,45,5,4,17,50,3,8,10,112,37,103,224,107,22,52,18,2,13,15,4,1,3,286,8,4,2,1,3,13,1,2,2,4,3,3,8,21,1,2,6,2,14,8,2,4,33,6,3,3,2,2,3,18,1,113,1,9,47,68,63,11,1,32,103,347,878,155,457,978,41,11,3,1,21,5,6,1,4,7,1,29,7,5,5,20,1,5,15,12,1,1,4,11,6,5,1,3,15,3,17,2,18,3,28,63,5,5,61,69,15,40,2,11,7,1,10,2,12,31,7,4,16,1,8,5,7,16,3,5,27,2,3,8,22,21,4,20,8,39,5,1,6,6,20,10,22,17,4,8,24,1,16,4,18,33,4,28,76,3,6,17,18,30,21,54,189,120,78,12,30,124,92,45,1,37
+Cabo Verde	356,46,401,440,13,8,1,73,1,1,2,5,1,61,1,21,1,31,2,271,125,48,15,24,106,26,1,1,7,2,3,33,218,56,99,118,64,8,117,4,5,31,13,5,56,31,127,337,142,45,64,42,12,44,78,113,125,207,123,8,159,5,252,40,137,4,138,111,3,51,36,68,20,11,8,14,33,106,204,65,123,20,10,3,25,126,45,294,20,18,3,221,15,126,5,404,110,255,174,67,95,136,21,124,314,91,447,113,616,89,194,161,242,123,45,5,4,17,50,3,8,10,112,37,103,224,107,22,52,18,2,13,15,4,1,3,286,8,4,2,1,3,13,1,2,2,4,3,3,8,21,1,2,6,2,14,8,2,4,33,6,3,3,2,2,3,18,1,113,1,9,47,68,63,11,1,32,103,347,878,155,457,978,41,11,3,1,21,5,6,1,4,7,1,29,7,5,5,20,1,5,15,12,1,1,4,11,6,5,1,3,15,3,17,2,18,3,28,63,5,5,61,69,15,40,2,11,7,1,10,2,12,31,7,4,16,1,8,5,7,16,3,5,27,2,3,8,22,21,4,20,8,39,5,1,6,6,20,10,22,17,4,8,24,1,16,4,18,33,4,28,76,3,6,17,18,30,21,54,189,120,78,12,30,124,92,45,1,37,487,14,74,155
 Cabo Verde A Organização Mundial da Saúde	16484
 Cabo Verde AFR LMI	17743
 Cabo Verde ARN	15526
@@ -710,6 +737,7 @@ Cabo Verde and CAR	5268
 Cabo Verde and Central African Republic	5265
 Cabo Verde and Côte	7452
 Cabo Verde and Guinea	5599
+Cabo Verde and Guinea Bissau	18091
 Cabo Verde and Malawi	6938
 Cabo Verde and Mauritius	13750
 Cabo Verde and São Tomé	7707
@@ -855,10 +883,11 @@ Charting Submarine Cables Is Critical for Maritime	2677
 Chave Móvel Digital de Cabo Verde	7466,4409,64,4088
 Chave Móvel Digital de Cabo Verde Autenticação	16027
 Chave Móvel de Cabo Verde	11869
-Chef de Cabinet	16099,76,206,239
+Chef de Cabinet	16099,76,206,239,1207,72,133
 Chef de Cabinet Militaire	16381
 Chef de Cabinet du Directeur	15676
 Chef de Cabinet du MATD	16702,4
+Chef de Cabinet du Ministre	17961
 Cheffe de Cabinet	16678,9
 Cheffe de Cabinet du Ministre	7403
 Chief Operating Officer of MEDUSA Submarine Cable	16716
@@ -869,6 +898,7 @@ Cibersegurança Cabo Verde	16251
 City Cabinet	10496
 Claudestin Paul IWANGO DE IWANGO. CABINET	16099
 Co-Task Team Leader for CAB3	15372
+Colonel Mohamed SAMAKE Chef du Cabinet de Défense	17982
 Comissão Nacional de Protecção de Dados de Cabo	16408
 Comissão Nacional de Protecção de Dados de Cabo Verde	6568
 Comissão de Fiscalização Cabe	11358
@@ -877,6 +907,7 @@ Comité da Tabanca de Caboxanque	17147
 Comitê Paralímpico de Cabo Verde	15694
 Commandant MBORI Léon. Attachée de Cabinet	16381
 Commissariat CABINET	15901
+Commune VI du D’UN CABINET MEDICAL. District	17819
 Comores Cable	2852
 Comores Cables	13722,33,10
 Comores Cables Comores Cables	13755,10
@@ -968,10 +999,13 @@ Directeur de Cabinet Adjoint	16099,282
 Directeur de Cabinet Civil	16381
 Directeur de Cabinet Militaire	16381
 Directeur de Cabinet du Chef	15458
+Directeur de Cabinet du Gouver-	17978
 Directeur de Cabinet du Ministre	10712,4857,13,973
 Directeur de Cabinet du Ministre des Finances	15712
 Directeur de Cabinet du Ministère	11944,3875
 Directeur de Cabinet du Ministère des Affaires Sociales	15415
+Directeur de Cabinet du Premier	17899
+Directeur de Cabinet du Premier Ministre	17891
 Directeur de Cabinet du Président	7333,8125
 Directeur de Cabinet du Secrétaire Général du Gouvernement	15973
 Directeur de Cabinet du Vice-Président	16099
@@ -990,6 +1024,12 @@ Document Feeder Type Autoload Cables Included	34
 Documentation of Surveys and Censuses of Cabo Verde	16189
 Dolisie Directeur de Cabinet	16012
 Double Cabs	12970
+Développement Cabinet du Ministre	18087
+Développement Durable Cabinet du Ministre	18087
+D’EXPLOITATION D’UN CABINET MEDICAL. Bamako	17819
+D’UN CABINET DE SOINS INFIRMIERS	17819
+D’UN CABINET DE SOINS INFIRMIERS. ARTICLE	17819
+D’UN CABINET MEDICAL	17819
 E NVIRONNEMENTAL ET CULTUREL CABINET	16175
 E- Cable TV	582
 E. Governance The Cabo Verdean	11863
@@ -1031,6 +1071,7 @@ Empresa de Distribuição de Eletricidade de Cabo Verde S.A	15983
 Empresa de Produção de Eletricidade de Cabo Verde	15983
 Enabling Cabo Verde	15491
 Enclave of Cabinda	9399
+Energie Cabinet du Ministre Chargé	17895
 Energy Intensity of Fiber Optic Cables	3604
 Eng. Davi Severiano Goia Cabral D'Almada	12056
 Eng. MsC. José Rodrigues Cabo Verde	7948
@@ -1066,9 +1107,11 @@ Europe Cable System	7329
 Europe Submarine Cable GAMTEL The Gambia	1000
 European Union and Cabo Verde	11909
 Exportação de Cabo Verde	15526
+Extérieure Local Privé Cabinet	17882
 F Angola Bengo Benguela Bié Cabinda	10766
 FIDUCIARY COMPLIANCE Environmental and Social. CAB4	15511
 FOREWORD Cabinet Secretary	7548
+Famille Cabinet du Ministre Chargé	17895
 Fast-tracking the Cabinet Memo	14521
 Federação Cabo-verdiana de Pessoas	15694
 Federações Cabo-verdianas Desportivas	15532
@@ -1076,6 +1119,7 @@ Fibre Optic Cable and Landing Stations	2677
 Fibre Optic Subsea WACS Cable	8679
 Final Highlights of Cabinet Meeting	14774
 Final Highlights of Cabinet Meeting Friday 17.07.2026.pdf	14839
+Finances Cabinet du Ministre	17918
 Finances Directeur de Cabinet Monsieur Alastaire ALINSATO	16485
 Firms Cabo Verde2024 Sub-Saharan Africa	11874
 Firms Cabo Verde2024 Sub-Saharan Africa Lower	11874
@@ -1085,6 +1129,7 @@ Fixed Cable Modem	6946
 Following Cabinet	17745
 Francis Cabrel Mbothak	2513
 Full Restoration of Cables	2677
+Fund WACS West Africa Cable System	17862
 G EM CABO VERDE O Papel	17186
 G. Cabo Verde	16251
 G20. Cabinet	2626
@@ -1149,6 +1194,7 @@ Horizontal Cabling	9123
 Hospital Nacional de Cabo Verde	16019
 Household Electrification Strategy The Cabinet	11890
 Human Resources Cabinet	10775
+I- Chef de Cabinet	17827
 IAEA Chief of Cabinet Briefs Missions	15131
 ICPC International Advisory Body for Submarine Cable	3513
 ICT Cabinet Secretary Eliud Owalo	3983,13724,48
@@ -1158,6 +1204,8 @@ ICT and Digital Economy Cabinet Secretary William	6160
 ICTs. Cabinet Office Cabinet	13346
 ID for All The Cabinet Secretary for Interior	4631
 IDEV Evaluation of Cabo Verde CSPs	11863
+III- ATTACHE DE CABINET	17817
+III- Attaché de Cabinet	17827
 IMA. Cabe	11448
 IMF Cabo Verde	15983
 IMPRENSA NACIONAL DE CABO VERDE IMPRENSA	15689,5
@@ -1207,6 +1255,7 @@ Ivoire Rockya Fofana Directrice de Cabinet Ministère	10708
 J Associação de Surdos de Cabo Verde	15694
 Join America-India Connect Subsea Cable Programme	7366
 Jornalistas de Cabo Verde	15982
+Justice Cabinet du Ministre Chargé	17895
 Kangwa SECRETARY TO THE CABINET	13345
 Kangwa SECRETARY TO THE CABINET ACKNOWLEDGEMENT	12453
 Kanto Kai Okanta Cabo Verde	6037
@@ -1234,6 +1283,7 @@ L Satellite Wide Ra Cable	9781
 LA CONSTRUCTION CABINET DU MINISTRE	16175
 LA LOGISTIQUE CABINET DU MINISTRE	16099
 LA PROSPECTIVE CABINET DU MINISTRE	16175
+LE SYSTÈME Cabo Verde	17848
 LEI ORGÂNICA DO BANCO DE CABO	16089
 LES INSTITUTIONS CABINET DU MINISTRE	16381
 LIQUE DU BURUNDI CABINET DU PRESTD	13334
@@ -1259,6 +1309,7 @@ Liquidação O Sistema de Pagamentos Cabo-Verdiano	11933
 Lista de Normas Cabo-verdianas Referência Título NCV	15645
 Lista de Normas Cabo-verdianas URL	15645
 Localise Traffic IN- Submarine Cable Landing	11857
+Loi Cabinet du Premier Ministre. des Finances	17812
 Long Distance Cable Network	3862
 Lower Middle Income Sub-Saharan Africa Cabo	11874
 Luanda Cabinda ELISA GONZAGA	10751
@@ -1290,11 +1341,13 @@ MEH CAB	15659
 MEKOKE OLENDE Cabinet du Commissaire-Membre Sophie AMBOUNDA	16381
 MICSTI Cabinet Oﬃce	12674
 MINISTERE DE LA SANTE CABINET	16175,206
+MINISTRE Cabinet du Premier	17841
 MM. Secrétaires de Cabinet	16175
 MONET and West Africa Cable System	6270
 MOUSSOUNDA Serge Hervé RGB Directeur de Cabinet	16012
 MTL and Cabinet	4653
 Maareynta Cabashooyinka	14906
+Madame AU CABINET DE L’ANCIEN PRESIDENT	17861
 Main One Cable Company Last	3386
 Main One Cable Company Nigeria Ltd	3862
 MainOne Cable	3782
@@ -1303,6 +1356,7 @@ MainOne Cable Company Ghana	8025
 MainOne Cable Company Ltd	3862
 MainOne Cable Company for US	856
 MainOne's Lagos Cable Landing Station	7329
+Mainone Cable	18091
 Malawi Cabinet Retreat	13095
 Mamadu Cassama Caboxanque	17147
 Manuel Cabral	16067
@@ -1376,6 +1430,8 @@ NATIONAL DE SÉCURITÉ Secrétaire de Cabinet	16381
 NATIONALE CAB MID ET GENDARMERIE NATIONALE	16100
 NCA Holds First Somalia Submarine Cable	15216
 NCC Close Ranks On Submarine Cable	2677
+NOMINATION AU CABINET DE L’ANCIEN N	17861
+NOMINATION AU CABINET DU MINISTRE DES	17982
 NOSI de Cabo Verde	9799
 NOSSA VISÃO PARA CABO VERDE	16487
 NOSi Cabo Verde	11891
@@ -1443,6 +1499,12 @@ PCA da Imprensa Nacional de Cabo Verde	6571
 PHASE II Av. Amílcar Cabral	8166
 PIB de Cabo Verde	15684
 PIB. Cabo Verde	15684
+PORTANT APPROBATION DE L’AVENANT CABINET	17841
+PORTANT NOMINATION AU CABINET DU COMMISSAIRE	18032
+PORTANT NOMINATION AU CABINET DU MINISTRE	17899
+PORTANT NOMINATION AU CABINET DU République	18032
+PORTANT NOMINATION D’UNE SECRETAIRE PARTICULIEREAU CABINET	17861
+PORTANT NOMINATIONAU CABINET DU MINISTRE DELEGUE	18032
 PORTE PAROLE DU GOUVERNEMENT CABINET	16381
 PREPARATION CAB4	15511
 PRESIDENCE DE LA REPUBLIQUE CABINET	16099,76
@@ -1466,6 +1528,8 @@ Pacific Light Cable Network	1766,2910
 Paperless Cabinet	395
 Para Cabo Verde	7948,7736
 Paratus and Angola Cables	10781
+Parlement Cabinet du Ministre Chargé de Mission	17895
+Parlement Cabinet du Ministre Chargés	18087
 Parliament the Cabinet Secretary	14546
 Parque Tecnológico Arquipélago Digital de Cabo Verde	5443
 Parque Tecnológico de Cabo Verde	2281,13195
@@ -1476,6 +1540,8 @@ Pessoas de Condições Especiais de Cabo Verde	15694
 Pharmacie Cabinet	737
 Pilares da Governação Cabo Verde	16487
 Plataforma Chave Móvel Digital de Cabo Verde	15532
+Police Judiciaire de Cabo Verde	17848
+Police Judiciaire du Cabo Verde	17848
 Pont Cabu	15596
 Portal Cabo Verde	11939
 Portal Consular de Cabo Verde	11877
@@ -1489,6 +1555,7 @@ Posicionar Cabo Verde	15476
 Position Cabo Verde	11863
 Poverty Eradication and Social Welfare CABINET DECISION	12923
 Praia Cabo Verde	11863
+Premier Ministère Cabinet Ecole Nationale	17895
 Presidency's Cabinet	4380
 President Forthe Govemment of Cabo Verde	11517
 President and Cabinet	395,1159,1225,272,1477,6208,1055,423,3,295,376,76,29,317,49,184,145,11,1208
@@ -1597,6 +1664,7 @@ República de Cabo Verde Telefone	11941
 Revisão O Banco de Cabo Verde	15440
 Robert Kwaku Annor Cabo Verde Digital	6040
 Rules The Cabinet Secretary	14407
+Rwanda. Le Chef de Cabinet	17961
 Rwandan Cabinet	12424
 Rwanda’s Cabinet	6526,38
 Rádio Televisão Cabo-verdiana PUBLISH DATE	12011
@@ -1615,6 +1683,7 @@ Salto Cabo Verde	11863
 Sanitária de Cabo Verde	16019
 Santiago Island. The Prime Minister of Cabo	15552
 Santiago República de Cabo Verde	15645
+Santé Cabinet du Ministre Inspection Général Interne	17895
 Sargento de Primera Inspector de Tercera Sargento Cabo	4209
 Saudi Arabia. Cable	1741
 Science and Technology CABINET APPROVES NATIONAL RESEARCH	14286
@@ -1640,6 +1709,7 @@ Senator Cabdi Xaashi Cabdullaahi	15070
 Senator Cabdullaahi Cali Xirsi	15070
 Sergent MAVOUNGOU Cerval. CABINET PRIVÉ	16381
 Sergent-Chef OWONO-MBENG Gilles de Verne. CABINET MILITAIRE	16381
+Service Civique Cabinet du Ministre	18087
 Serviços Consulares de Cabo-Verde	15572
 Serviços de Cabo Verde	15912
 Setor Elétrico de Cabo Verde	16059
@@ -1749,6 +1819,10 @@ Supporting the Cabo Verde Digital	11891
 Switches Cabling Network and Communications	9123
 Systematic Country Diagnostic SCGB Sociedade de Cabos	11545
 São Tomé and Cabo Verde	3601
+S’agissant de Cabo Verde	17848
+TECHNIQUE AU CABINET DU PREMIER Communicateur	17841
+TECHNIQUE AU CABINET DU PREMIER MINIS-	17812
+TECHNIQUES AU CABINET DU PREMIER MINISTRE	18032
 TIA-942- A. Cabinet	9123
 TRANSFORMATION LOCALE CABINET DU MINISTRE	16175
 TRE Passaporte Eletrónico Cabo-Verdiano	15470
@@ -1779,9 +1853,13 @@ Thirty-First Cabinet Meeting	3760,9683
 Through the Mauritius and Rodrigues Submarine Cable	14742
 Thulisile Dladla and Cabinet	13008
 Time Cabo Verde2024 Sub-Saharan Africa Lower	11874
+Tourisme Cabinet du Ministre	18087
 TradeMark Africa. The Cabinet Secretary	9333
+Transition Ministre Directeur de Cabinet du Président	17982
 Transmission Lines Project Cabinet	3760,9683
 Transports Directeur de Cabinet Monsieur Valéry Kouandété	16485
+Travail Cabinet	17895
+Travail Cabinet du Ministre	18087
 Treasury Cabinet Secretary	8949
 Treasury Cabinet Secretary John Mbadi	3015,5688,3551
 Treatment Antiretroviral Biosafety Cabinet Biosafety Level	4153
@@ -1835,9 +1913,9 @@ Várzea Cabo Verde	15448
 WACS Cable system.jpg	8679
 WACS West Africa Cable System	11965
 WEST AFRICAN SUBMARINE CABLE CAPACITY	17380
-West Africa Cable System	2677,665,179,261,899,1923,5259,102,636,332,27,2412,83,58,29,11
+West Africa Cable System	2677,665,179,261,899,1923,5259,102,636,332,27,2412,83,58,29,11,2309
 West Africa Data Centre and Cable Entry	856
-West Africa Submarine Cable	2677,3004
+West Africa Submarine Cable	2677,3004,12181,229
 West Indian Ocean Cable Company	517,2,439,2824,1211,2073,6265
 West Indian Ocean Cable Company Ltd	284,216
 West Indian Ocean Cable Company. Earlier	2677
@@ -1862,3 +1940,4 @@ Zambia’s Cabinet	6693
 Zambézia. In Cabo Delgado	7803
 Zimbabwe Cabinet Seventeenth Post-Cabinet Press Briefing	11791
 Zona Franca Comercial de Cabo Verde	15526
+Zone Franche de Nouadhibou CAB Cabinet CCR-AOS	17873

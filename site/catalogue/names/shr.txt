@@ -19,19 +19,22 @@ Grassland Shrub Savannah Grassland Settlement Settlement	17140
 Grassland Shrubs Shrubs	17140
 H.E. Shri Narendra Modi	11183
 Hon'ble Prime Minister Shri Narendra Modi	13744
+Hon’ble Minister of State for External Affairs Shri	18016
 Hon’ble President Shri Ram Nath Kovind	17240
 Hon’ble Prime Minister Shri Narendra Modi	17240
 Housing Budget Shrinks	2428
 Housing and Urban Affairs Shri Hardeep S	2667
 India Hon’ble President of India Shri Ram	17240
 India SHRIRAM	6613
+India’s Defence Secretary Shri Ajay Kumar	18016
 Livestock. Prime Minister Shri Narendra Modi	12979
 Market Share Shrinks Despite Growth	3625
 Minister of Education Shri Dharmendra Pradhan	17240
 Minister of External Affairs Shri S. Jaishankar	17240
-Minister of State for External Affairs Shri M.J	17240
+Minister of State for External Affairs Shri M.J	17240,776
 Minister of State for External Affairs Shri Rajkumar	17241
 Minister of State for External Affairs Shri V	17241
+MoS Shri Anand Sharma	18016
 MoUs. Shri V. Muraleedharan	13561
 Ms SEEBRUN Reedhita Shreeshti Devi Analyst	14770
 Nahla Zeitoun and Dristy Shrestha	15663
@@ -42,9 +45,10 @@ President Shri Ram Nath Kovind	13561
 President Shri Sanjiva Reddy	13561
 President Shri V.V. Giri	13561
 Prime Minister Shri Narasimha Rao	16256
-Prime Minister Shri Narendra Modi	11183,2561
+Prime Minister Shri Narendra Modi	11183,2561,4272
 Prime Minister Shri Rajiv Gandhi	13561
 Prime Minister of India Shri Narendra Modi	14829
+RM Shri Rajnath Singh	18016
 Reference Shrubs	17140
 Remove Her Shroud Rokel Commercial Bank	7964
 Ricci Shryock	11541
@@ -56,7 +60,8 @@ Shram	8515
 Shrestha	11265
 Shreya Suthakar	10977
 Shreyasee Majumder	9921
-Shri Anand Sharma	16331
+Shri Anand Sharma	16331,1685
+Shri Arjun Ram Meghwal	18016
 Shri Arvind Kaushal	16256
 Shri Atal Bihari Vajpayee Tower	14760,37,50
 Shri Baijayant Panda	16331
@@ -64,7 +69,7 @@ Shri Dammu Ravi	2667
 Shri Dileep Ghosh	15457
 Shri Dinesh Singh	17241
 Shri Dinka Asthana	17234
-Shri Hamid Ansari	16331
+Shri Hamid Ansari	16331,1685
 Shri J.P. Nadda	16649
 Shri JK Mishra	16275
 Shri Jaishankar	14808
@@ -72,7 +77,7 @@ Shri Kirti Vardhan Singh	13561
 Shri Konduri Srinivas	16275
 Shri M. Hamid Ansari	12979
 Shri M. Venkaiah Naidu	12979,3306
-Shri M.J. Akbar	16256,19,965
+Shri M.J. Akbar	16256,19,965,776
 Shri Manmohan Singh	16164
 Shri Manoj Sinha	16275
 Shri Mohanbhai Kundaria	16256
@@ -98,7 +103,7 @@ Shri V. Muraleedharan	12979,3296,56,909,1
 Shri V. Somanna and Members of Parliament	12568
 Shri V. Srinivas	17241
 Shri Venkaiah Naidu	13562
-Shri Vishnu Deo Sai	11579
+Shri Vishnu Deo Sai	11579,6437
 Shrinking	13461
 Shriram Finance	12069
 Shrishak	11050

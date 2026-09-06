@@ -9,6 +9,7 @@ EDS I EDS II MICS	15423
 EDS III	13442,2058
 EDS III RDC	7216
 EDS MSBS	16898
+EDS VII	17978
 EDS- III Burundi	13300
 EDS- MICS	15580
 EDS-BF Enquête	15961
@@ -50,6 +51,10 @@ EDSFF	13185
 EDSG-III	16037
 EDSGE-2	4209
 EDSIII	13442
+EDSM Enquête	17843
+EDSM V	17845
+EDSM VII	17845,101
+EDSM-VI	17945
 EDSMD	14570
 EDSMD-V	14442
 EDSON ARI CARDOSO SIMÕES	10751
@@ -65,6 +70,8 @@ Edson Macuácua	12792
 Edson Nkonde	13686
 Edson Ntodwa	12278
 Edson Psico	17570,33
+Enfant EDS Humaines SIH Système	17845
+Enquête EDS	17843
 Error-Correcting Code EDSFF Enterprise and Datacenter SSD	13185
 Informe EDS	16898
 July. Edson Guyai	3027
@@ -76,6 +83,8 @@ Prof. Dr. Edson Macuácua	9227
 Riposte EDSMD	14442
 Santé EDSB-III Troisième Enquête Démographique	13300
 Segundo Edson Psico	17570
+Sources EDS	17843
+Statistique EDSM	17844
 T3 Enquête EDS-MICS	16722
 United Kingdom. Edson Nkonde	13365
 Varton Edson Excellence	16100

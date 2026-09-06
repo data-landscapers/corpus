@@ -37,6 +37,7 @@ CMA GDP	14997
 CMA GDP Account	14997
 CMA GDP Account GDP	14997
 CMA GDP Account Listing	14997
+COUNTRY CONTEXT AT-A-GLANCE GDP	17869
 Cabo Verde GDP	11863
 Cameroon’s GDP	15480
 Cameroon’s GDP Across Sectors	10841
@@ -150,6 +151,7 @@ GBoS Gambia Bureau of Statistics GDP Gross	16867
 GCF Green Climate Funds GDP Gross	2775
 GCI Global Cybersecurity Index GDP Gross	6946
 GCR Global Compact for Refugees GDP Gross	10841
+GD GUIDIMAKHA	17902
 GD Ga South	16604
 GD Satcom	998
 GD WDEHOD LQGLFLiULD HP YLJRU QD	11530
@@ -201,6 +203,7 @@ GDO Global Drought Observer GEE Global	17157
 GDP AT CONSTANT	13060
 GDP Account	14997
 GDP Acknowledgements	13312
+GDP Billion CFAF	18063
 GDP CFAF Billions Figure	16996
 GDP Cameroon	15979
 GDP Citable	11884,321
@@ -231,6 +234,7 @@ GDP Gross	11380,505,4998,1
 GDP Gross Domestic Product	11965,821
 GDP Gross Domestic Product GDUPD General	15473
 GDP Gross Domestic Product GEF Global	7548
+GDP Gross Domestic Product GEI Global	17870
 GDP Gross Domestic Product GIS Geographic	17149
 GDP Gross Domestic Product GIZ Gesellschaft	12923
 GDP Gross Domestic Product GRM Grievance	11525
@@ -245,6 +249,7 @@ GDP Growth and Contributions	17257
 GDP High-income	12369
 GDP High-tech	12205
 GDP ICT	12205
+GDP IMF FAS	17870
 GDP In FY	15023
 GDP Increase of GGHE	15977
 GDP Industry	2775
@@ -335,7 +340,9 @@ GDP. Fiscal	15663
 GDP. Ghana	4905
 GDP. Given	15604
 GDP. Government-funded	17257
+GDP. Gross	17990
 GDP. Higher	11136
+GDP. IMF FAS	17870
 GDP. ITAP	13349
 GDP. Interest	5202
 GDP. Invest	10841
@@ -346,6 +353,7 @@ GDP. Likewise	15518
 GDP. MPC Decisions	17235
 GDP. Male LFP	17458
 GDP. Masiyiwa	3596
+GDP. Modernization	17870
 GDP. Morocco	7655
 GDP. Note	12948
 GDP. Of Libya	16902
@@ -378,6 +386,7 @@ GDP. The MSMEs	940
 GDP. The Mohammed VI Investment Fund	17503
 GDP. The NDPC	2799
 GDP. The World Bank	2374
+GDP. Thereby	17870
 GDP. Though ICT GVA	236
 GDP. Together	17209
 GDP. Total PPG	13868
@@ -393,6 +402,7 @@ GDP.10	11924
 GDP.107 Entrepreneurship	13314
 GDP.11	12948
 GDP.124	13331
+GDP.13 Broadband	17870
 GDP.168 The IFC	14674
 GDP.3 Note	12948
 GDP.31 About	10768
@@ -530,6 +540,7 @@ Kenya GDP	11994
 Kenya's GDP	7989,4221
 Kenya’s GDP. Financial	8782
 Key Acronyms CODI FCS GDP GNA	16902
+Km2 GDP	17870
 Le GdD	747,8659
 Le GdG	16626
 Les GdD	747,1,1236
@@ -544,7 +555,9 @@ M GDP	10822
 M&E for GDU	16971
 Malawi's GDP	12176
 Malawi’s GDP	13095
+Mali’s GDP	17962
 Managed GDC Providers	4434
+Management GDP Gross Domestic Product GoM	17862
 Markets and Developing Economies GDP Gross Domestic	17011
 Measure GDP GDP	10759
 Measure Value Rank Unit GDP	10837,1503
@@ -566,6 +579,7 @@ Nominal GDP USD	5247
 Nominal GDP of K31.5	13122
 Non-Oil GDP	1828
 Non-agricultural Net Exports GDP Growth	17503
+Number of Digital Businesses Per Dollar of GDP	17870
 O GdM	12142
 Observing Network GDM General Directorate of Meteorology	13729
 Oil GDP Non-oil GDP Real GDP	16996
@@ -592,7 +606,7 @@ RUHVWDO H GD IDXQD R UHJLPH	11527
 RWANDA’S GDP GROWS	14873
 Ratio GDP Global Partnership for Education GER	11905
 Ready For Service GDPR General Data	3184,1,1340,6470
-Real GDP	940,888,947,762,1710,408,2040,3086,353,2,135,198,55,57,680,166,1441,233,381,415,88,38,13,336,232,429,940,23,15,94,33,71,26,22,69,38,94,45
+Real GDP	940,888,947,762,1710,408,2040,3086,353,2,135,198,55,57,680,166,1441,233,381,415,88,38,13,336,232,429,940,23,15,94,33,71,26,22,69,38,94,45,367,39,81
 Real GDP Gini	1828
 Real GDP Growth	940,1835,2880,6202,1675,153,3311,239,268
 Real GDP Growth Demand Contribution	17503
@@ -618,6 +632,7 @@ SURYHQLHQWHV GD	11530
 Saharan Africa's GDP. Yet	3691
 Sector GDP	10856
 Sectoral Share of Real GDP Percentage Contribution	17235
+Security Office GDP Gross Domestic Product	17849
 Select African Economies Country GDP	14897
 Selected SADC Countries GDP Growth Projections	13685
 Selected Sub-Saharan African Economies GDP Growth	13685

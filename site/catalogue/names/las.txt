@@ -8,8 +8,8 @@ Africa Last Updated	14522
 Afrikinfos-Mali Last Updated	8577
 Al-Shabaab. Last	5310
 Apple. Last	10090
-Approval Last Approved Rating Proposed Rating	10870,1101,257,39,173,3639,915,85
-Approval Last Approved Rating Risk Category	2712
+Approval Last Approved Rating Proposed Rating	10870,1101,257,39,173,3639,915,85,879
+Approval Last Approved Rating Risk Category	2712,15192
 Articles Last Sync	5691
 Avatar of Lasarus10	12478
 B1o base de las cuentas nacionales Página Oficial	17229
@@ -47,11 +47,13 @@ CONTROLADOR GEN. DE JUNTAS DE LAS	4209
 CRP NA LAS SLO	15363
 CV Las	16962
 Cameroun. Lassés	2534
+Capitaine Sekou Elhadji DIAKITE Capitaine Lassana	17828
 Centrale Thermique de Jorf Lasfar	17502
 Chairman and CEO of Tunisie Telecom Lassâad Ben	3872
 Chiyoko. Last	13387
 Clúster Alimentación Las	1701
 Collect Earth. Las	16875
+Commandant Alou Boï DIARRA Commandant Lassina	17828
 Composition of Tax Revenues Over the Last Five	13053
 Computing LAST Lesotho Academy of Science and Technology	12675
 Concessions LAS Legality Assurance System LEITI	16843
@@ -81,6 +83,7 @@ Develop LAS	16848,5
 Did We Learn Over the Last	12948
 Digital Credit and Financial Behavior Last	10609
 Disclosed Last Updated	12622,121,2135
+Docteur Lassana FOF	17829
 Documento de Identidad Personal. Las	16855
 Does the LAS	16843
 Décla- Lassi	15488
@@ -125,6 +128,7 @@ Increasing Accessibility and Reaching the Last Mile	12663
 Infracciones. Las Infracciones	16855
 International Monetary Fund. Lastly	12701
 Isabelle LASTRA Rue Haute	16747
+Ivoire and Guinea. Lastly	17870
 Jean-Philippe Lasme	10942
 Jesse Lastunen	10856
 John Locke. Last	11650
@@ -196,11 +200,13 @@ LAS. Specifically	16843
 LAS. The JIC	16843
 LAS. The LVD	16843
 LASAC	15888
+LASECURISATION DES TRANSACTIONS	17829
 LASER Synthesis Paper	11006
 LASHMA	12004
 LASIAUSKAS	6613
 LASKARIDOU	6613
 LASODA	10290
+LASPEYRES	17945
 LASR's Tripoli	9091
 LASS A UGANDA	9781
 LASSA FEVER INFECTION	10581
@@ -237,6 +243,7 @@ Las Infracciones	16855
 Las Infracciones Muy Graves	16855
 Las Misiones Diplomáticas	16905
 Las Organizaciones No Gubernamentales	16855
+Las Palmas	17835
 Las Resoluciones	163,16692
 Las Responsabilidades	16855
 Las Sanciones	16855
@@ -262,10 +269,33 @@ Lasker	10481
 Laspeyres	11122,30,4468
 Lassa	16971,318
 Lassaad Ben Dhiab	4650,13,348
+Lassana DIARRA CAL EMGA	17841
+Lassana FAROTA LISTE DES MEMBRES	17982
 Lassana Fati	17278
+Lassana KIMBIRY	17982
+Lassana KONE	17819
+Lassana SISSOKO	17861
+Lassana TOURE Secrétaire	17829
+Lassane KONATE	17882
+Lassi CAMARA	17828
+Lassina DIARRA Secrétaire	18003
 Lassina Fofana	4549
 Lassina Guitti	3411
+Lassina KONE	17982
+Lassina Major ARMEE DE L’AIR	17828
+Lassina TRAORE COL IGAS TRAORE ADC	17841
+Lassina TRAORE Capitaine ARMEE DE L’AIR	17828
 Lassina Yiriba TRAORE	7670
+Lassine	17841
+Lassine BAGAYOKO	18003
+Lassine BOUARE	17819,1,1
+Lassine BOUARE Article	17819
+Lassine BOUARE Lassine BOUARE	17820
+Lassine KONATE	17982
+Lassine SACKO	17829
+Lassine SACKO CPS	17845
+Lassine SANOGO	17845
+Lassine TRAORE	17845
 Lasso	12006
 Lassou PJC	17773
 Lassou and Hopper	17773
@@ -277,7 +307,7 @@ Last Approved International Bank for Reconstruction	15983
 Last Approved International Development Association	2889,12249
 Last Approved Proposed Additional	15983
 Last Approved Rating	11965,23,1932,1060,51,128,578
-Last Approved Rating ISR Seq	6579,349,949,3518,1632,2708,278,987,96,374,35
+Last Approved Rating ISR Seq	6579,349,949,3518,1632,2708,278,987,96,374,35,501
 Last Authorisa	3386
 Last Authorised	4896
 Last Call	9613,2184,261,2107,506
@@ -289,7 +319,8 @@ Last Date	4896
 Last Finalized Date	11965,3173
 Last Guarantee	15905
 Last ISR	11965,3817,616
-Last Mile	4238,6902,717,5069,16,692
+Last Mile	4238,6902,717,5069,16,692,236
+Last Mile A Trusted Web Activity	17969
 Last Mile Access Monitoring	12399
 Last Mile Connectivity	340,14334,223
 Last Mile Connectivity Project	10313,1901,248,2212
@@ -316,6 +347,7 @@ Last Update	10930,2378
 Last Updated	5363,462,356,2029,1644,1012,402,8,15,587,74,425,296,1172,24,218,18,365,377,34,749,1200
 Last Whistle	7814
 Last Word	10104
+Last Year's Score	17967
 Last-	11857
 Last-Mile Access	4993
 Last-Modified	2777,1984,1702,2640,1134,451
@@ -327,13 +359,14 @@ Lasting Legacy ECZ	13477
 Lasting Peace and Security	11154
 Lasting Solutions	16845
 Lastings Sichangwa	12880
-Lastly	28,290,78,371,132,349,306,264,120,155,24,772,715,154,33,641,244,296,272,1277,67,291,990,261,474,233,922,459,95,405,50,44,29,11,49,84,15,140,45,11,32,2,2,745,23,161,27,52,57,18,22,39,69,8,37,218,214,18,6,10,26,23,35,292,13,13,60,43,71,1044,320,50,174,353,7,31,39,54,57,2,481,739,1,1,30,1,11,15,18,51,116,240,406
+Lastly	28,290,78,371,132,349,306,264,120,155,24,772,715,154,33,641,244,296,272,1277,67,291,990,261,474,233,922,459,95,405,50,44,29,11,49,84,15,140,45,11,32,2,2,745,23,161,27,52,57,18,22,39,69,8,37,218,214,18,6,10,26,23,35,292,13,13,60,43,71,1044,320,50,174,353,7,31,39,54,57,2,481,739,1,1,30,1,11,15,18,51,116,240,406,96,1,14
 Lastly Meta	13461
 Lastly the Ombudsman	13097
 Lastmile Connectivity	6019
 Lastoursville	9200,6837
 Lastourville. L'année	2325
 Laszlo	10963,1
+Le Sous-lieutenant Lassana SINGARE de PORTANT MISE	17828
 Ley. TÍTULO IV DE LAS RESPONSABILIDADES	16855
 Leyes. Las	16898
 Liberian LAS	16843
@@ -342,6 +375,7 @@ Liberia’s LAS	16843
 Libya Last Updated	16964
 Litigio. Las	16855
 Logistics and Last-Mile Delivery	15641
+M. Beitallah Ould Ahmed Lassouad	17960
 M. Boumediene Lasri	15943
 M601dn Printer Technology Laser	34
 MAKOSSO LASSI Sis	15455
@@ -349,6 +383,8 @@ MOVIL DE LAS DE PROTOCOLO SEGURIDAD	4209
 MW Omburu Battery Project Last	13139
 Main One Cable Company Last	3386
 Maisha Namba. Last	2447
+Major Lassana TRAORE Mle	17828
+Mali Digital Economy Diagnostic Last	17870
 March. Last	9747
 Market Reform Through Regulatory Training Last	11936
 Masoud Last	17403
@@ -358,14 +394,18 @@ Maître MAKOSSO Lassi Imprimé	15488
 Medios Electrónicos. TÍTULO I DE LAS	16855
 Memoscar Lasuba	3733,921
 Middle Name Last Name Name Qualifier	11129
+Minister Mr. Lassana Traore	18016
 Monsieur Lassa TOSSOU. Fait	14904
 Monsieur Lassané BARGO	16287
 Monsieur Lassané OUEDRAOGO. CONSEIL DES MINISTRES	16287
+Monsieur Lassina SENOU	17991
+Monsieur Lassine COULIBALY	17817
 Mozambique LAST MODIFIED	12294
 Mozambique's Criminal Code. Lastly	12161
 Mr. Lassâad Ben Dhiab	2375,1485
 Mr. Lastone Gulume and Mr. Edmond Babalanda	3005
 Multi-faceted Program Causes Lasting Progress	10964
+NANGA LAS SO	17828
 NATIONAL BACKBONE AND LAST MILE Mozambique	11857
 NATIONAL ENERGY COMPACT FOR NAMIBIA Last	12399
 Name First Last Name Last Email	14797

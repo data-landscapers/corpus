@@ -1,3 +1,4 @@
+ABRÉVIATIONS AfSS Afrique	17881
 ADAM AFRIQUE	2342
 AFRIQUE	15936,259
 AFRIQUE Actualité Mauritanie	9620
@@ -14,14 +15,17 @@ AfriQloud	5249
 Africa Development AfriqueEt Development	16858
 Afriqu... Document Communique de Presse	17323,1
 Afriquc Centrale	15443
-Afrique	357,4,204,78,94,29,232,7,184,52,3,3,40,12,16,276,57,158,70,98,65,222,9,10,32,30,11,24,2,14,6,1,7,11,11,7,6,6,3,63,26,6,10,3,16,7,26,22,63,39,33,77,13,20,5,35,17,6,53,41,1,12,38,16,1,4,1,52,16,5,16,1,54,3,7,52,30,20,7,2,20,5,1,10,37,1,21,7,14,26,14,51,13,14,7,5,14,20,8,25,1,3,11,21,47,23,3,58,25,65,3,24,66,4,2,20,33,35,43,14,24,18,50,11,29,9,9,7,2,24,92,20,178,41,17,1,17,82,104,5,130,28,77,48,64,20,22,11,29,5,15,4,57,2,76,34,6,15,37,81,13,5,63,41,35,35,18,4,25,25,34,9,1,21,19,34,13,2,2,28,88,23,1,11,2,4,11,5,18,4,62,42,12,25,4,31,1,44,155,25,59,11,5,108,14,11,71,73,43,3,19,9,17,26,4,4,29,11,17,1,2,46,6,14,70,1,49,14,32,6,76,40,42,57,5,40,1,106,30,13,1,6,57,27,18,2,1,16,6,67,1,5,8,16,2,34,7,1,22,8,29,20,4,14,60,19,2,11,8,1,17,1,1,97,14,33,6,8,3,38,21,72,24,26,19,7,30,42,2,17,32,43,2,2,11,48,2,63,9,104,1,15,19,6,4,1,8,58,213,26,29,6,1,22,1,26,13,34,1,4,17,1,30,56,2,86,9,26,1,58,55,14,18,10,9,1,23,20,9,5,21,84,30,61,1,20,7,60,3,10,4,8,2,22,1,43,20,1,5,27,7,12,13,72,1,6,4,27,4,45,7,10,3,1,91,17,1,5,10,5,2,6,25,1,1,6,6,26,3,17,1,7,2,20,1,10,5,16,92,11,17,7,170,55,7,167,27,18,55,26,4,21,27,33,28,38,11,4,4,31,56,16,23,80,6,6,7,31,809,2,375,14,16,10,6,19,16,34,15,15,28,9,10,16,14,1,32,10,6,37,6,52,2,15,10,24,12,13,23,12,3,59,19,2,33,11,7,23,20,10,13,5,299,91,9,9,13,38,2,14,8,17,10,7,20,119,20,4,40,4,14,3,13,15,1,137,174,264,8,38,19,5,13,20,5,4,11,1,5,7,3,3,10,13,2,1,19,1,3,1,1,8,5,1,2,4,8,3,4,3,7,17,23,15,3,2,6,1,7,4,12,6,2,1,11,4,5,8,6,12,3,3,6,3,2,11,1,11,1,1,8,2,2,9,24,13,10,5,1,11,2,8,12,1,14,3,4,7,18,2,20,3,4,1,5,27,2,2,4,2,2,6,7,8,40,1,10,14,11,8,2,4,11,7,6,2,22,5,17,5,4,6,3,5,3,6,2,3,16,1,2,18,10,8,8,14,10,4,1,9,15,13,5,17,2,12,4,1,7,1,1,20,2,8,6,8,5,1,14,2,8,4,2,2,2,8,8,9,8,1,1,6,22,2,13,8,16,2,20,1,11,21,37,6,5,1,1,5,6,2,9,7,12,8,1,3,6,1,13,295,5,104,16,202,1,57,67,17,6,7,20,89,66,4,14,23,4,40,25,1
+Afrique	357,4,204,78,94,29,232,7,184,52,3,3,40,12,16,276,57,158,70,98,65,222,9,10,32,30,11,24,2,14,6,1,7,11,11,7,6,6,3,63,26,6,10,3,16,7,26,22,63,39,33,77,13,20,5,35,17,6,53,41,1,12,38,16,1,4,1,52,16,5,16,1,54,3,7,52,30,20,7,2,20,5,1,10,37,1,21,7,14,26,14,51,13,14,7,5,14,20,8,25,1,3,11,21,47,23,3,58,25,65,3,24,66,4,2,20,33,35,43,14,24,18,50,11,29,9,9,7,2,24,92,20,178,41,17,1,17,82,104,5,130,28,77,48,64,20,22,11,29,5,15,4,57,2,76,34,6,15,37,81,13,5,63,41,35,35,18,4,25,25,34,9,1,21,19,34,13,2,2,28,88,23,1,11,2,4,11,5,18,4,62,42,12,25,4,31,1,44,155,25,59,11,5,108,14,11,71,73,43,3,19,9,17,26,4,4,29,11,17,1,2,46,6,14,70,1,49,14,32,6,76,40,42,57,5,40,1,106,30,13,1,6,57,27,18,2,1,16,6,67,1,5,8,16,2,34,7,1,22,8,29,20,4,14,60,19,2,11,8,1,17,1,1,97,14,33,6,8,3,38,21,72,24,26,19,7,30,42,2,17,32,43,2,2,11,48,2,63,9,104,1,15,19,6,4,1,8,58,213,26,29,6,1,22,1,26,13,34,1,4,17,1,30,56,2,86,9,26,1,58,55,14,18,10,9,1,23,20,9,5,21,84,30,61,1,20,7,60,3,10,4,8,2,22,1,43,20,1,5,27,7,12,13,72,1,6,4,27,4,45,7,10,3,1,91,17,1,5,10,5,2,6,25,1,1,6,6,26,3,17,1,7,2,20,1,10,5,16,92,11,17,7,170,55,7,167,27,18,55,26,4,21,27,33,28,38,11,4,4,31,56,16,23,80,6,6,7,31,809,2,375,14,16,10,6,19,16,34,15,15,28,9,10,16,14,1,32,10,6,37,6,52,2,15,10,24,12,13,23,12,3,59,19,2,33,11,7,23,20,10,13,5,299,91,9,9,13,38,2,14,8,17,10,7,20,119,20,4,40,4,14,3,13,15,1,137,174,264,8,38,19,5,13,20,5,4,11,1,5,7,3,3,10,13,2,1,19,1,3,1,1,8,5,1,2,4,8,3,4,3,7,17,23,15,3,2,6,1,7,4,12,6,2,1,11,4,5,8,6,12,3,3,6,3,2,11,1,11,1,1,8,2,2,9,24,13,10,5,1,11,2,8,12,1,14,3,4,7,18,2,20,3,4,1,5,27,2,2,4,2,2,6,7,8,40,1,10,14,11,8,2,4,11,7,6,2,22,5,17,5,4,6,3,5,3,6,2,3,16,1,2,18,10,8,8,14,10,4,1,9,15,13,5,17,2,12,4,1,7,1,1,20,2,8,6,8,5,1,14,2,8,4,2,2,2,8,8,9,8,1,1,6,22,2,13,8,16,2,20,1,11,21,37,6,5,1,1,5,6,2,9,7,12,8,1,3,6,1,13,295,5,104,16,202,1,57,67,17,6,7,20,89,66,4,14,23,4,40,25,1,52,1,6,1,4,2,11,1,1,1,1,3,3,5,3,2,5,1,3,3,6,2,1,6,6,1,1,3,3,5,1,6,12,5,4,6,1,3,10,8,10,5,5,1,23,11,1,12,1,5,18,8,1,6,5,2,13
+Afrique AE	17830
+Afrique ANCD	17824
 Afrique Addis-Abeba	16387
 Afrique Algérie	2448,490,3817
-Afrique Aller	16419
+Afrique Aller	16419,1656
 Afrique Août	9810
 Afrique Aucune	15493
 Afrique Australe	13452
 Afrique Australe Loi	14452
+Afrique Australe SDS	17830
 Afrique Avec	2880
 Afrique BESA	15475
 Afrique BP	16419
@@ -32,6 +36,8 @@ Afrique Burundi Jeunesse	9810
 Afrique CDC	16195
 Afrique CEB Circonscription	15961
 Afrique CEMAC Central African Economic and Monetary	10841
+Afrique CERT	17824
+Afrique CGIG Centre de Gestion	17983
 Afrique CNSS	10875
 Afrique CPIPP DGE Centrale Economic and Monetary	15372
 Afrique Ce	6200
@@ -42,6 +48,7 @@ Afrique Centrale BIC Bureau	11944
 Afrique Centrale BIP Budget	15501
 Afrique Centrale BM Banque	15474
 Afrique Centrale CEMAC	15848
+Afrique Centrale CER	17830
 Afrique Centrale CFE Centre de Formalités des Entreprises	16249
 Afrique Centrale CIF Cellule	11944
 Afrique Centrale CIMA Conférence Interafricaine des Marchés	10965
@@ -81,22 +88,30 @@ Afrique Centrale. TITRE II	15354
 Afrique Centrale. Yaoundé	15482
 Afrique Centraleau Congo	15500
 Afrique Centre	15599
+Afrique Centre Hospitalier Universitaire Mère-Enfant Cadre	17882
+Afrique Comité National de ONG Organisation Non	17845
 Afrique DNSI Direction Nationale des Systèmes	16626
 Afrique DR Dépôt-retrait EIUI	15493
 Afrique Dans	15592
 Afrique EES	15474
 Afrique Enfin	3505
 Afrique Equatoriale Française	1876,13739
+Afrique Ethiopie International Telecommunication Union	17856
+Afrique FMI	17842
+Afrique Francophone	17882
 Afrique GFS Global Forecast System INAM	11553
 Afrique Géolocalisation	16242
+Afrique Hammamet	17978
 Afrique IA	16242
 Afrique INSD	10875
 Afrique IT News	8171
 Afrique Infrastructures	9961
 Afrique Innovation. Ce	16627
 Afrique International	16242
+Afrique Investir	17945
 Afrique L'ère	5373
 Afrique La République Démocratique du Congo	2880
+Afrique Laboratoire National	17845
 Afrique L’Organisation	15724
 Afrique L’avenir	3395
 Afrique MAEP	737
@@ -116,24 +131,28 @@ Afrique RDC	2880
 Afrique Renforcer	15999
 Afrique SIG Système	15479
 Afrique SIG-Stat Système Intégré de Gestion Statistique	15580
+Afrique SNDDS	17844
 Afrique SP	10874
+Afrique Santé	17917
 Afrique Strategie de Coopération	15724
 Afrique Sub-Saharienne	15500
 Afrique Sub-saharienne	15542,2008
-Afrique Subsaharienne	9615,6065,32,538,205
+Afrique Subsaharienne	9615,6065,32,538,205,1389
 Afrique Subsaharienne ANPE	737
+Afrique Subsaharienne ANSADE	17844
 Afrique Subsaharienne ANSSI	10874
 Afrique Subsaharienne APME Agence de Promotion des Petites	15501
 Afrique Subsaharienne. Etude UNESCO	10841
 Afrique TPIg-SP Traitement	15724
 Afrique Tagged	7582
-Afrique URL	13760,2817,804,90
+Afrique URL	13760,2817,804,90,547
 Afrique Umoa-Titres	8673
 Afrique Un	9810
 Afrique WSIS	2842
 Afrique XXI	4127
 Afrique Yaoundé SDG	13628
 Afrique de BSF	13635
+Afrique de Bamako D UT Sciences	17829
 Afrique de Facebook. Ont	10821
 Afrique de FamilySearch	1876
 Afrique de Formation des Avocats Francophones	10821
@@ -143,14 +162,16 @@ Afrique de I'ouesl	15429
 Afrique des Nations	11761,3781,1935
 Afrique des Nations U17	8321
 Afrique du Centre	15965
-Afrique du Droit des Affaires	10829,7,139,547,27,3823,146,117,23,1,2,136,224,307,614
+Afrique du Droit des Affaires	10829,7,139,547,27,3823,146,117,23,1,2,136,224,307,614,1040,21
 Afrique du Droit des Affaires ONG Organisation Non	10876
 Afrique du Droit des Affaires Ordre	15352
 Afrique du Droit des Affokes	15397
-Afrique du Nord	1189,1204,121,643,2002,607,314,952,623,577,659,5789,643,835,1290
+Afrique du Nord	1189,1204,121,643,2002,607,314,952,623,577,659,5789,643,835,1290,431,192
+Afrique du Nord Evolution	17879
 Afrique du Nord MNE Entreprises	7655
 Afrique du Nord Rapport	7655
 Afrique du Nord Safa Korti	5159
+Afrique du Nord de RSF	18054
 Afrique du Nord-Ouest. Cette	8002
 Afrique du Nord-Ouest. Ils	8002
 Afrique du Nord. C'est	5159
@@ -158,7 +179,7 @@ Afrique du Nord. Ce	10483
 Afrique du Nord. Néanmoins	17448
 Afrique du Nord. Vodacom	6241
 Afrique du PNUD	8895,160
-Afrique du Sud	2514,20,198,446,310,71,99,622,63,330,1093,434,41,34,145,193,91,46,282,74,465,15,27,259,57,167,218,411,30,138,239,16,309,26,407,71,443,207,71,4,25,264,536,1763,32,84,52,126,172,25,638,109,110,58,649,4,24,98,19,14,5,49,50,344,222,17,280,90,81,18,177
+Afrique du Sud	2514,20,198,446,310,71,99,622,63,330,1093,434,41,34,145,193,91,46,282,74,465,15,27,259,57,167,218,411,30,138,239,16,309,26,407,71,443,207,71,4,25,264,536,1763,32,84,52,126,172,25,638,109,110,58,649,4,24,98,19,14,5,49,50,344,222,17,280,90,81,18,177,1002,22,62
 Afrique du Sud BVG Bureau du Vérificateur Général	6959
 Afrique du Sud Maroc Kenya EGDI	15936
 Afrique du Sud Pilier	8525
@@ -201,7 +222,7 @@ Afrique. Conditions	16627
 Afrique. Cotonou	2915
 Afrique. C’est	13530
 Afrique. D'un	9518
-Afrique. Dans	4334,9594,1965,302,431
+Afrique. Dans	4334,9594,1965,302,431,1241
 Afrique. Domaine	13325
 Afrique. Détrôner le Rwanda. Et	2629,770,367,55,45,867,580,142,234,14,2,102,70,47,210,371,62,277,263,16,2,157
 Afrique. Développée	17643
@@ -214,7 +235,7 @@ Afrique. Face	7603,8942
 Afrique. Fondée	3395,7072
 Afrique. GRAIN	9541
 Afrique. Grâce	2693
-Afrique. Il	3449,7674,522,2263,1684,953
+Afrique. Il	3449,7674,522,2263,1684,953,1279
 Afrique. Informaticien	10467
 Afrique. Je	15724,909
 Afrique. J’ai	8816
@@ -244,6 +265,7 @@ Afrique. POUR LA REPUBLIQUE DU BURUNDI	13433
 Afrique. Par	2732
 Afrique. Pas	15807
 Afrique. Pendant	2842,7800
+Afrique. Pilier IV	17894
 Afrique. Plus	17381
 Afrique. Plusieurs	16582
 Afrique. Pour	4029,2545,2944,7109
@@ -258,6 +280,7 @@ Afrique. Son	2451
 Afrique. Starlink	2280
 Afrique. Sur	5766
 Afrique. TITRE	15410
+Afrique. Tableau	17879
 Afrique. Tel	3099
 Afrique. Toutefois	3262
 Afrique. Traverser	2514
@@ -274,6 +297,7 @@ Afrique3	10965
 AfriqueEnergie	16691
 AfriqueITNews	7419
 AfriqueYaoundéSDG	8387
+Agence ALIMENTAIRE EN AFRIQUE DE L’OUEST	17861
 Agence Afrique	4127
 Air Afrique	15488
 Assistance Afrique Centrale Copyright	16403
@@ -281,6 +305,7 @@ BM Afrique	14401
 Banque de Développement Shelter Afrique	17584
 CDC Afrique	15712,483
 CDC Afrique44	16195
+CEI Europe Amérique Mauritanie Monde Afrique	17866
 CLASSEMENT EN AFRIQUE	15936
 CROISSANCE AFRIQUE	17355
 CTOD Afrique du Sud	16545
@@ -293,13 +318,16 @@ Commerce Equitable Afrique Data Processor INST-177444314EF	7167
 Communication Corporate Afrique	3009
 Concrete AST EX AIR AFRIQUE	16552
 D'INTERIM DE TRAVAILLEURS EN AFRIQUE SARL	16623
+D. Afrique	18063
 DE SANTE EN AFRIQUE L’initiative	16195
 DG Afrique	3406
 Datacenters Afrique Afrique du Sud Algérie Angola	14683
 Digital Afrique	7677
 Digital Afrique Telecom	3655,20,14
+Directrice Afrique	17848
 Division Afrique	10708
 Dossier Enquête Interview Reportage Archives AFRIQUE	9620
+Droit Afrique	17942
 Droit Afrique-France	3121
 Département Afrique Responsables Svenja BODE	6959
 EDMENS Zaly Innova Porc Afriqcare	16693
@@ -309,6 +337,8 @@ Education Priorité Afrique Mobilize Education	13628
 EducationPriorité AfriqueCountry	8387
 En Afrique	1648,632,156,721,16,2200,39,2481,326,13,1286,206,367,783,2,6,610,4655,48
 En Afrique du Sud	14423
+F Afrique....................................30.000 F	17812
+F Afrique....................................35.000 F	17817,2,8,1,1,4,8,20,38,83,21,29
 FLASH AFRIQUE Traitement	10821
 Forbes Afrique	3395
 GROUPE PLANETE AFRIQUE	998
@@ -316,19 +346,23 @@ Global Gateway Afrique-Europe	1189
 HCR Afrique	17323,1
 Hors Afrique. Pour	16323
 Indicateur Source République Afrique du Congo	15493
+Institut Panos Afrique	17950
 Jeune Afrique	2377,754,996,5356
 Jeune Afrique Media Group	7596
 KPMG Afrique	2441
 Kosovo. En Afrique	15478
+Kwanjai Yoo Afrique	18063
 La Stratégie de Transformation Numérique de CDC Afrique	16195
 Le Monde Afrique	4127,1175
 Le360 Afrique. At GITEX Africa	5760
 L’ Afrique	3658,2617,145
 L’Institut Panos Afrique	7613
 MOOC Afrique	15480
+Mali Afrique	18063
 Manager Afrique	1876
 Managing Director Afrique	15893
 Maroc. Une Afrique	7032
+Mauritanie Monde Afrique Monde	17866
 Membres Afrique du Sud Algérie Angola Bénin	15724
 N COLAS AFRIQUE SUCCURSALE COLAS AFRIQUE	16623
 ND DATACENTER EN AFRIQUE OU EN	14683
@@ -341,8 +375,10 @@ Nova Afrique URL	16226
 ONG ID Sahel Afrique	9866
 OSIANE Afrique Innov	2880
 Orange Afrique	7417
+POUR LE BIODIGESTEUR EN AFRIQUE	17841
 PROJET REGIONAL D’INTEGRATION NUMERIQUE EN AFRIQUE	7977
 Part Afrique	8891
+Planor Afrique SA	17870
 Poste ASS Afrique	15474
 Prix RAEng Afrique	16158
 Publication Infos Culture Afrique	16309
@@ -358,6 +394,7 @@ Russophonie Afrique. See RFI	4127
 Région Afrique	13760
 SHELTER Afrique	15542
 Santé Assistance Afrique Société Teint Lumineux	10821
+Seedstart and Afrique Excelle. Figure	17870
 Société Quipux Afrique S.A. Compte	2342
 Sous-directeur Afrique	16633
 Sport Dossiers Economie Afrique Monde People	9890
@@ -369,7 +406,7 @@ Télécommunications ASS Afrique	16626
 U AST EX AIR AFRIQUE	16552
 U FUDICIAIRE FRANCE AFRIQUE ERNST	16623
 UNHCR Bureau Régional Afrique	17323
-Une Afrique	15848
+Une Afrique	15848,2135
 Une Afrique-là	11622
 Unité Afrique du Centre de Développement	16250
 V AFRIQUE MAINTENANCE ET CONSTRUCTION EN	16623
@@ -378,5 +415,7 @@ VOA Afrique	1911,371
 Vice-Président Huawei Afrique	3177
 Yaovi Galley. En Afrique	5877
 ZONE AFRIQUE Ambassadeur Extraordinaire	16175
+ZONE UEMOA VERS AFRIQUE EST ET	17833
 Zizi Afrique	12196
 Zizi Afrique Foundation	12196
+Zone Afrique	17982

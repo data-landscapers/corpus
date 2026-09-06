@@ -348,6 +348,7 @@ MW Madagascar	14482
 MW Mansa	5247
 MW Mar Apr Dec Annual	11953
 MW Maryland	16978
+MW MegaWatt NNI Numéro National	17907
 MW Megawatt NDP National Development Plan	12399
 MW Megawatt NEP National Electrification Program	12233
 MW Megawatts	14947
@@ -418,6 +419,8 @@ MW Solar PV Farm	14745
 MW Solar PV Mini-grid	14080
 MW Solar PV Power Plants	13123
 MW Solar PV US	12399
+MW Solar Photo-Voltaic Power Plant	18016
+MW Solar Photovoltaic	18016
 MW Solar Power Plant	16468
 MW Solar Project	17327
 MW Sources of Power Generation	14947
@@ -474,7 +477,7 @@ MW. Baseload	12604
 MW. Beyond Lagos	3554
 MW. CROSS-REF	596
 MW. Captive	12256
-MW. Ce	5745
+MW. Ce	5745,12149
 MW. Cela	7715
 MW. Ces	4833,11545
 MW. Cette	2342,11299,2029,367
@@ -502,6 +505,7 @@ MW. Integrating	11136
 MW. LA TRANSPARENCE POUR UN SECTEUR	10975
 MW. La Centrale de Lagdo	10975
 MW. L’ARE	15670
+MW. L’OMVS	17894
 MW. L’évolution	16714
 MW. MTN Group CEO Ralph Mupita	5569
 MW. NBO2	594
@@ -601,6 +605,7 @@ MWh of R	11953
 MWh. Domestic	718
 MWh. Figure	12256
 MWh. Par	16714
+MWiML	18038
 MWp Danzi	10857
 MWp Danzi Solar Power Plant	10857
 MWp Lion Thorn	17679
@@ -637,7 +642,8 @@ Mheshimiwa Deodatus Philip Mwanyika	6019
 Mheshimiwa Dkt. Hussein Ali Mwinyi	2868,3151
 Mheshimiwa Dkt. Mwigulu Lameck Nchemba	6019
 Michael MWEPA	15458
-Michuki Mwangi	6318
+Michuki Mwangi	6318,11505
+Mines MRU Mauritanie Unité Monétaire MW	17873
 Minister Jack Mwiimbu	3434
 Minister Mwanavenkha	13125
 Minister of Finance Joseph Mwanamveka	12081

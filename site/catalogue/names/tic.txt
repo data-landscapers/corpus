@@ -23,6 +23,7 @@ Central Electronic Ticketing System	8888
 Centro de Instrucción de Competencias TIC	16895
 Chrzanowski Consultant TIC TIC GTIDR	10812
 Closed Tickets	14745
+Clubs TIC du Mali	17856
 Col NIBIZI Elias Point Focal TIC	13341
 Commission des TIC	10089
 Competencias TIC	16895
@@ -68,12 +69,15 @@ Hospital Outpatient Tickets	12976
 Hub des TIC	13290
 INDICATETEURS TIC AU BURUNDI	13414
 INDICATEURS TIC	13414
+INFRASTRUCTURES TIC ET SERVICES	17881
 IV.2.2 Infrastructures TIC	13306
+Inaccessibilité des TIC	17882
 Indicateurs des TIC	13531
 Indice de Développement des TIC	1323,742,2015,11919,169
 Indice de Développement des TIC IFRI Institut de Formation	15583
+Indice du Développement TIC	17845
 Infrastructure TIC	15541
-Infrastructures TIC	13306
+Infrastructures TIC	13306,4575
 Iniciativas de TIC	16251
 Instituto Nacional de TIC	12142
 Juste NKENGURUTSE Louis Point Focal TIC	13341
@@ -95,7 +99,7 @@ L’AR- TICLE	15901
 L’application des TIC	13290
 L’infrastructure TIC	15493
 L’intégration des TIC	7926
-L’utilisation des TIC	13290,2432
+L’utilisation des TIC	13290,2432,2108
 MARCHE TIC	13586
 MASS MÉDIA ET TIC	15498
 MSPLS X TIC	13306
@@ -148,6 +152,7 @@ Replace the TIC	13868
 Représentant du Ministère des TIC	13290
 Représentant du Régulateur des TIC	13290
 Référence TIC Technologies	10876
+République du Mali. TIC	17819
 SETIC Secrétariat Exécutif des TIC SIF Land	13312,2
 SITUATION EN MATIERE DE TIC ET	16195
 SSources TIC	13306
@@ -155,7 +160,8 @@ Santé TIC	16195
 Scolarisation TIC Technologies	12
 Secrétariat Exécutif des TIC	13290
 Secrétariat Exécutif des TIC Burundi	5958
-Secteur des TIC	13716
+Secteur des TIC	13716,4331
+Secteur des TIC. Dans	18047
 Secteur des Tic	13717
 Security Operation Center TIC	15512
 Segurança Ocupacional TI Tecnologia de Informação TIC	11413
@@ -175,6 +181,8 @@ Stratégie des TIC	15541
 Supérieure Africaine des TIC	3604
 Syndicat TIC	13290
 TAT ACTUEL DES TIC DANS	15541
+TELECOMMUNICATIONS ET TIC	17819
+TIC AU MALI	18032
 TIC Accès	15542
 TIC Actualité Cameroun	10379,3104
 TIC Afin	13290
@@ -182,6 +190,7 @@ TIC Article	16615
 TIC Au Burundi	13290
 TIC Augmentation	15542
 TIC Avant	13290
+TIC Bamako	18032
 TIC Beaugas Orain DJOYUM	3658,2617,145
 TIC Bureau	15936
 TIC CTD	15542
@@ -210,6 +219,7 @@ TIC L’accessibilité	13290
 TIC L’infrastructure	13341
 TIC L’évolution	17448
 TIC Made-in-CV	15684
+TIC Malienne de Régulation des Télécommunications	17819
 TIC Marketing Volume	15467
 TIC Ministère	13464
 TIC NA AGRICULTURA	11397
@@ -225,14 +235,17 @@ TIC NO EMPODERAMENTO DAS MULHERES	11397
 TIC NO SISTEMA DE ENSINO	11397
 TIC Nombre	13306
 TIC OUVERTS AU PUBLIC ET DES	10898,8
+TIC OUVERTS AU PUBLIC Vu le Décret	17841
 TIC Orientation	16641
 TIC PDI2T Produit Intérieur Brut Public	15583
 TIC Par La Rédaction	556
 TIC Peu	13306
+TIC Profil	17856
 TIC Promotion	13341
 TIC Renforcement	13341
 TIC Régulation	15467
 TIC S	15684
+TIC Secrétariat Permanent Assuré	17824
 TIC Services	15467
 TIC Société	13290
 TIC São	15572
@@ -240,7 +253,7 @@ TIC TI T.V. UIT US VOIP	13290
 TIC TIC	13306
 TIC TVA	7655
 TIC Technologie	15493,468,665
-TIC Technologies	13306,2166,2
+TIC Technologies	13306,2166,2,2433
 TIC Tecnologia de Informação	11555
 TIC Tecnologias de Informação	12787
 TIC URL	16305
@@ -248,20 +261,26 @@ TIC X	13306
 TIC de Cote	10908,4511
 TIC de Côte	2418,958,26,353,120,1805,429,35,97,569,179,28,2,103,795,214,1387,1377,1,1,1,8,5,684,158,3957,226
 TIC des Coupes	15542
+TIC des PME	17824
 TIC des RHS	13306
+TIC des TOYOTA PICK UP	17845
 TIC du Burundi	13306
 TIC'. Guinea	3549
+TIC-Santé	17882
 TIC. A PENSC	795
+TIC. Action N	17824
 TIC. Afin	13341
+TIC. Après	18032
 TIC. Art	15467
 TIC. Artigo	15
 TIC. Au	15493
 TIC. Aucune	15591
 TIC. Axe	15632
+TIC. C	17842
 TIC. Ce	737,8116,4448
 TIC. Cela	13290
 TIC. Ces	13290,51,2137
-TIC. Cette	14423
+TIC. Cette	14423,3401,32
 TIC. Contribuer	7917
 TIC. C’est	737
 TIC. Dans	10604,2737
@@ -275,14 +294,20 @@ TIC. Este Plano Estratégico	17093
 TIC. Existe	11531
 TIC. IV.2.2 INFRASTRUCTURES TIC	13306
 TIC. Il	13290,34,2218,49
+TIC. Indicateurs	17856
 TIC. L'ARPT	16615
 TIC. L'Union Internationale des Télécommunications	13414
+TIC. L'analyse	17856
 TIC. L'autorité	16615
 TIC. L'introduction	13306
 TIC. La Banque Asiatique de Développement	13290
 TIC. La DGDEN	15493
 TIC. L’amélioration	13290
+TIC. L’appelant	18032
+TIC. L’enjeu	17824
+TIC. L’opérationnalisation	17881
 TIC. L’élévation	13290
+TIC. Malgré	17856
 TIC. Mode	16627
 TIC. O Dia	16305
 TIC. Outro	11555
@@ -290,8 +315,10 @@ TIC. Par	17448
 TIC. Para	16325
 TIC. Politiques	15591
 TIC. Pour	13290,2646
+TIC. Quant	17856
 TIC. Quel	17450
 TIC. R6. Soutenir	15474
+TIC. Renforcer	17856
 TIC. Ressources	15632
 TIC. Résumé L'Algérie	3157
 TIC. Rôles	13341
@@ -300,7 +327,7 @@ TIC. Sous-axe	15542
 TIC. TITRE IV	16615
 TIC. Très	8678
 TIC. Un	13306
-TIC. Une	15474,1974
+TIC. Une	15474,1974,408
 TIC. le Fonds National	13290
 TIC11	13301
 TIC2. Le Gouvernement	13290
@@ -324,6 +351,7 @@ TICs. Os CETEM	15684
 TICseed	15476
 TICʹs	17604
 Taux Brut de Fréquentation Scolaire TIC	737
+Threats TIC	17844
 Tic Article	16615
 Tic Tech	15840
 Tic de Côte	3249,1565,567,714,565,871,2504
@@ -340,6 +368,7 @@ Tichaona Kurewa VISITING Registrars General	7879
 Tichaona Kurewa ZIMBABWE'S	7781
 Tichaona Mangwende and Gideon Nimako	961
 Tichenor	6948
+Tichit	17931
 Ticipe	15429
 Ticker	15620
 Ticket	1134,9577,243,4210,1721
@@ -354,6 +383,7 @@ Ticles	15397
 Ticolion	10813
 Ticulières	15429
 Trabalho As TIC	2816
+Télévision Numérique Terrestre TIC	17824
 UN E-Governement Survey Indice de Développement des TIC	16641
 Unidades TIC	15476
 Usage des TIC	15390

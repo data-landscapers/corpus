@@ -73,6 +73,7 @@ Aucune Q23. Connaissez-vous	13390
 Avec Kimba Connect	7268
 Awale Connectivity Provider	10956
 B. Broadband Connectivity	16975
+B. L’AMELIORATION DES CONNAISSANCES	17812
 B1- Connectivity	7548
 BESTWESTERN CELL CONNECTIONS LIMITED Data Processor	7167
 BILLION Connected Uganda	9781
@@ -170,6 +171,7 @@ CONNECTION TO ELECTRICITY SUPPLY	14867
 CONNECTION TO ELECTRICITY SUPPLY Article	14867
 CONNECTION TO RWANDA INTERNET EXCHANGE POINT	15149
 CONNECTIONS	12050
+CONNECTIVITE RURALES ET MODIFICATION	17861
 CONNECTIVITY APPLICATION FORM Part	12364
 CONNECTIVITY Access and Usage Survey	12395
 CONNECTIVITY EXPERIENCE	11004,960
@@ -179,6 +181,8 @@ CONNECTIVITY OPTIONS LIMITED Data Processor INST-3873650750C	7167
 CONNECTIVITY Vision Improve	1885
 CONNECTIVITÉ Dakar	5156
 CONNEKT AFRICA SUMMIT	13673
+CONNEXES	17819
+CONNEXION CLS	17846
 CONNIE ALUOCH STYLING MANAGEMENT Data Controller	7167
 CONNIE ALUOCH STYLING MANAGEMENT Data Processor	7167
 CONNUE ET SI VOUS NE INTERCEPTOR	13300
@@ -232,16 +236,20 @@ Connaissance des IMFs	13390
 Connaissance du Client	15474
 Connaissance du VIH	13300
 Connaissances	17522
+Connaissances-Attitudes-Pratiques CAS	17844
+Connaissant	17882
 Connaissez-vous	13300,90
 Connaitre Ses Clients	15493
 Connatix	6486
 Connaît	13300
-Connaître	10875,3550,63,1,1
+Connaître	10875,3550,63,1,1,3455
+Connaître le Mali	17822
 Conneau	7790
 Connect	958,492,368,593,1329,86,300,40,1241,676,274,202,2044,2,1468,320,255,66,127,176,116,101,122,329,172,95,263,38,106,2315,199,40,9,242,44,1,56,339,380,52,866,73,13,382
 Connect A School	14674
 Connect Africa	292,17290
 Connect African Youth With Jobs	9871
+Connect All African Universities	17870
 Connect Citizens	3306
 Connect Combine Collaborate Collaborate Communicate Figure	8603
 Connect Direct	11298
@@ -272,7 +280,7 @@ ConnectRwanda	12385
 Connecta	3976
 Connectathon	1009
 Connectathons	1009
-Connected	3782,1198,265,1348,614,664,84,649,1433,819,1001,335,93,216,1940,233,78,404,1716,13,343,151
+Connected	3782,1198,265,1348,614,664,84,649,1433,819,1001,335,93,216,1940,233,78,404,1716,13,343,151,491,14
 Connected Africa Summit	2100,3864,42,40
 Connected Africa and Smart Africa	6178
 Connected African Market	7039,25,78
@@ -299,7 +307,7 @@ Connected and Investment-Ready Mbabane	13227
 Connected and Resilient Territories	14627
 Connectedness	8603
 Connecteo	14556
-Connecter	5506,4114,3640,104,11,2123,268
+Connecter	5506,4114,3640,104,11,2123,268,2070,36,111,31
 Connectez-vous	9620,2053,4419,1,37,97,148,111,32,9
 Connectez-vous S'inscrire Incendie	9890
 Connecticut	2816
@@ -359,15 +367,16 @@ Connecting the Other Half	958,15925
 Connecting the Remaining	5606
 Connecting the World Industry Matching Activity	7407
 Connectingthedots	8602
-Connection	395,1229,1,1,1,865,1348,124,202,7691,98,237,197,112,2363,3,54,240,417,12,1549,467,68
+Connection	395,1229,1,1,1,865,1348,124,202,7691,98,237,197,112,2363,3,54,240,417,12,1549,467,68,161
 Connection Agreements	14745
 Connection Requirements	12389
 Connection of BERNET	1284,12047
 Connection of Service	17243
-Connections	2495,2,1415,886,6043,1016,21,499,245,95,26,601,1381,153,3,1307,760
+Connections	2495,2,1415,886,6043,1016,21,499,245,95,26,601,1381,153,3,1307,760,922
 Connections See More Popular Content	6683
+Connectique	17823,23
 Connectivite	15424,307
-Connectivity	34,362,197,306,41,29,226,24,70,598,66,288,118,13,87,40,1,1,1,25,36,25,5,118,5,38,73,95,11,56,65,34,20,130,25,21,16,6,91,61,12,10,11,33,15,39,26,8,24,12,14,40,23,3,12,3,1,52,1,40,22,39,16,1,1,16,20,2,94,8,13,13,39,9,36,5,23,45,4,29,54,202,18,9,20,47,10,53,45,73,22,76,5,58,29,8,66,14,7,20,30,103,3,64,31,30,91,61,7,6,2,12,12,9,38,7,12,46,2,58,20,82,75,2,1,64,26,56,42,4,65,1,8,8,1,14,28,62,8,33,16,28,4,8,71,7,18,54,11,5,3,36,60,47,11,2,12,27,34,3,24,18,1,33,7,1,30,3,42,40,57,50,35,3,6,12,52,4,1,107,52,8,3,6,45,114,5,139,439,81,340,556,17,3,138,31,12,151,304,149,139,404,263,6,20,53,51,12,134,14,151,41,14,16,64,20,326,221,38,7,62,30,131,34,1,32,22,26,1,59,84,19,271,14,223,6,54,11,35,3,17,148,146,275,1,54,326,111,179,88,32,31,42,151,34,19,235,13,43,160,39,22,156,30,52,87,202,224,2,278,195,176,209,75,11,1,58,128,29,27,93,284,49,191
+Connectivity	34,362,197,306,41,29,226,24,70,598,66,288,118,13,87,40,1,1,1,25,36,25,5,118,5,38,73,95,11,56,65,34,20,130,25,21,16,6,91,61,12,10,11,33,15,39,26,8,24,12,14,40,23,3,12,3,1,52,1,40,22,39,16,1,1,16,20,2,94,8,13,13,39,9,36,5,23,45,4,29,54,202,18,9,20,47,10,53,45,73,22,76,5,58,29,8,66,14,7,20,30,103,3,64,31,30,91,61,7,6,2,12,12,9,38,7,12,46,2,58,20,82,75,2,1,64,26,56,42,4,65,1,8,8,1,14,28,62,8,33,16,28,4,8,71,7,18,54,11,5,3,36,60,47,11,2,12,27,34,3,24,18,1,33,7,1,30,3,42,40,57,50,35,3,6,12,52,4,1,107,52,8,3,6,45,114,5,139,439,81,340,556,17,3,138,31,12,151,304,149,139,404,263,6,20,53,51,12,134,14,151,41,14,16,64,20,326,221,38,7,62,30,131,34,1,32,22,26,1,59,84,19,271,14,223,6,54,11,35,3,17,148,146,275,1,54,326,111,179,88,32,31,42,151,34,19,235,13,43,160,39,22,156,30,52,87,202,224,2,278,195,176,209,75,11,1,58,128,29,27,93,284,49,191,127
 Connectivity Access	12971
 Connectivity Additional	12971
 Connectivity Affordability	11964
@@ -451,7 +460,7 @@ Connectivity and Affordability	5676
 Connectivity and Affordability The Guidelines	5676
 Connectivity and Broader Digital Inclusion	899
 Connectivity and Distribution Infrastructure	10157
-Connectivity and Financial Inclusion	10714,263,1226,881,675,2084,1,2,819,380
+Connectivity and Financial Inclusion	10714,263,1226,881,675,2084,1,2,819,380,880
 Connectivity and Fintech	8607,2186
 Connectivity and Fintech. Continued	10793
 Connectivity and Infrastructure Division	12055,1402
@@ -472,7 +481,7 @@ Connectivity. In Cleantech	12339
 Connectivity. Service	15704
 ConnectivityInfrastructure	5871
 ConnectivityType.html	1036
-Connectivité	2448,490,847,351,521,1104,18,2195,1741,278,3267,30,48,196,183,38,10,84,685,89,870,48,179,26,192,220,47,325,96
+Connectivité	2448,490,847,351,521,1104,18,2195,1741,278,3267,30,48,196,183,38,10,84,685,89,870,48,179,26,192,220,47,325,96,1234,21,54
 Connectivité Diagnostic	16641
 Connectivité Haut Débit	3449
 Connectivité Infrastructures Publiques Numériques	14534
@@ -487,7 +496,7 @@ Connectés	10089
 Connekt	15672,5
 Connelly	7278
 Connex Design The President	13911
-Connexion	2874,350,6444,3623,2103,197,668,259,110,1,5
+Connexion	2874,350,6444,3623,2103,197,668,259,110,1,5,1201,11,61,76
 Connexion Email Mot	9481
 Connexion JE N'ARRIVE PAS A SAISIR	16629
 Connexion des Trésors	10711
@@ -551,6 +560,7 @@ E. CONNECTIVITE AUX IMFS Avez-vous	13390
 EBIS. Infrastructure and Connectivity	12971
 EEAS and DG Connect	11155
 ESTABLISHMENTS CONNECTED	15679
+ET CONNEXES	17819
 EU Africa Connect	1704,13208,785
 Ease Cross-Border Connectivity	3986
 East Africa Connecting Europe	4676,576
@@ -566,6 +576,7 @@ Electricity and Connectivity	7151
 Electronic Connections Ltd	3862
 Ellen Connelly	1154
 Emmaüs Connect	15852
+Enabling Environment for Connectivity	17862
 Enabling Environment for Meaningful Connectivity	16046
 Energy and Connectivity Are Essential Beyond	14249
 Energy and Regional Connectivity	7452
@@ -642,6 +653,7 @@ Gates Foundation. The Connected Women	11083
 Generation Awaiting Connection	4535
 Generation Customer Connections Data Dashboard	11236
 Geospatial Urban-Rural Performance Connectivity Report	6051
+Gestion des Connaissances	18077
 Giga Global School Connectivity Initiative Phase	502
 Giga Project School Connectivity. Retrieved	899
 Giga School Internet Connectivity	718
@@ -652,7 +664,7 @@ Global Connect	1469
 Global Connectivity Connectivity	12395
 Global Connectivity Hub	13851
 Global Connectivity Report	4110,2357,4377,580
-Global Findex Digital Connectivity Tracker	10977,2107,675,2084,1,2,819,380
+Global Findex Digital Connectivity Tracker	10977,2107,675,2084,1,2,819,380,880
 Global Grid Connected Technology Trends Levelised	11953
 Global Independent Connect Limited	2284
 Google Nonkqubela Jordan-Dyani SA Connect WhatsApp	6721
@@ -708,17 +720,19 @@ Inclusive Financial Systems and Digital Connectivity	10977
 Increased Demand for Broadband Connectivity	5245
 India Connect	5122
 Individuals Connected	14819
+Industrie Gestion des Connais-	18077
 Industry Connect	11779
 Infrastructure and Connectivity	13005,986,1173,1720
 Infrastructure and Connectivity Infrastructure	13991
 Infrastructure and Connectivity Purpose	15164
 Infrastructure and Connectivity Recovery Project	15731
+Initiatives UEMOA Connaissance	18013
 Installation of Household Sanitation Connections Program	15578
 Installing Household Drinking Water Connections Achieving	15578
 Interbank Financial Telecommunication TCIB Temenos Connect	15023
 Interconnect Connectivity	11209
 Intermodal Connectivity Challenges	17260
-International Connectivity	12536,65,58,2238
+International Connectivity	12536,65,58,2238,2973
 International Connectivity Equatorial Guinea	16942
 International Connectivity P10	5646
 International Cooperation Regarding Connectivity	14470
@@ -738,6 +752,7 @@ Kash Connectivité	6755
 Kenya's National Connectivity Programme	3890
 Kimba Connect	3658,2617,145,848,131,2232
 Kimba Connect. Ces	7399
+LA UNE Connectivité	17935
 LAST MILE CONNECTIVITY	14879
 LEO Satellites and Africa's Connectivity Challenge	8111
 LET’S CONNECT	15799
@@ -871,6 +886,7 @@ Number of Mobile Cellular Connected Subscribers	12395
 O ARSEG Connect	12097
 OBLIGATIONS DE CONNAISSANCE DE LA CLIENTELE	11567
 OPERATIONS CONNEXES Article	14429
+OS1.I2.P2 Connectivité	17860
 Objets Connectées Total IST	15674
 Objets Connectés	16047
 Offering High-Speed Connectivity Across	5289
@@ -903,6 +919,7 @@ Pillar Access Connectivity Affordability Description Promote	5676
 Pillar Connectivity Basic	12214
 Pillars Indicators Universal Connectivity Individuals	14836
 Planned Action Outputs Connected	16885
+Plateforme GIMTEL CONNECT	18010
 Point Internet Connection	14723
 Policy Pillars Universal Access and Connectivity	15629
 Post Connect	4093,18
@@ -1001,6 +1018,7 @@ Seamless Connectivity	11234
 Secure Connectivity and Digital Infrastructure	2156,2083
 Security Layers Colocation Cross Connect	9446
 Service Connection Development	15578
+Services Connexes	17914
 Silicon Connect	2656
 Silicone Connect	14363,1190
 Single Connectivity Market	1243
@@ -1025,7 +1043,7 @@ Starlink Priority Connectivity	4656
 Starlink's Architecture Means for Nigeria's Connectivity	6749
 State Connectivity Infrastructure Modernization Project	4548
 State of Global Connectivity	2677
-State of Mobile Internet Connectivity	11004,960,42,1308,2160,19,1390
+State of Mobile Internet Connectivity	11004,960,42,1308,2160,19,1390,987
 State of Mobile Internet Connectivity Report	1243,12209,1995,33
 Stay Connected	6932,3597
 Stay Connected Facebook Like Twitter	9925,238
@@ -1043,7 +1061,7 @@ Sudan's Battle for Connection By Kassem Mnejja	1887
 Sudan. C. ICT CONNECTIVITY	14853
 Sudan’s Battle for Connection. Tahrir Institute for Middle	6947
 Support Comoros Digital Connectivity Project	9988
-Supporting Connectivity	15424
+Supporting Connectivity	15424,2438
 Supporting Connectivity Indicator Name Unit of Measure	15424
 Supporting Digital Connectivity Infrastructure	14674
 Survey123 Connect	5848

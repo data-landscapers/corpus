@@ -1,4 +1,5 @@
 A. Project Components	11525,3886
+A. RELEVANCE OF PDO Components	17962
 A.2 Intermediate Results Indicators Component	15424,177,62
 ACH Component	3679
 AF Cost GoTG Total Cost Component	16896
@@ -128,7 +129,8 @@ COMPONENTS Component	13859,57,1,1820
 COMPONENTS Current Component Name Current Cost	1284,15612,26
 COMPONENTS DEFINED SN Type	7845
 COMPONENTS Last Approved Proposed Component Name	15138
-COMPONENTS Name	13027,893,1239
+COMPONENTS Name	13027,893,1239,2745
+COMPONENTS Name Accelerating Learning	17958
 COMPONENTS Name Building	12228,39
 COMPONENTS Name Component	2712,3867,349,4467,576,469,3639,626,374,17
 COMPONENTS Name Economic Shock Responsive Cash	11988
@@ -142,6 +144,7 @@ COMPORTEMENT PROCRÉATEUR	13300
 COMPORTEMENT RESPONSABLE	15482
 COMPORTEMENTS VIS-À-VIS DU VIH	13300
 COMPOSANTE	14480,1286,246
+COMPOSANTE OPÉRATIONNELLE	17983
 COMPOSANTES DES VISITES PRÉNATALES Au Burundi	13300
 COMPOSANTES DU PROJET	16646
 COMPOSANTS DU DISPOSITIF NATIONAL DE GOUVERNANCE	4403
@@ -162,9 +165,11 @@ COMPOSIÇÃO DA MISSÃO	17147
 COMPOSIÇÃO DO NIF E LEGITIMIDADE	11383
 COMPOSIÇÃO E PROCEDIMENTO PARA A ATRIBUIÇÃO	11383
 COMPOSTAGE	13300
+COMPOSÉE	17830
 CORE COMPONENTS	1009,16105
 CORE COMPONENTS Components IHE Definition	1009
 CORE COMPONENTS Generally	17114
+COSTS BY COMPONENTS Project Component Cost	17962
 COVID-19 Contingent Emergency Response Component CPF	13331
 COVID-19 MS Composante	16012
 COVID. Composante	16012
@@ -196,10 +201,11 @@ Compoment	15372
 Compoment Total Component Categories Funding	15372
 Compoment Total Component Category Funding	15372
 Componenente	11542
-Component	34,126,161,286,41,113,11,1,79,119,8,17,4,9,219,36,20,6,294,120,66,8,89,121,265,1,37,182,239,120,57,100,261,206,138,10,74,102,579,294,243,474,250,919,40,254,95,2702,592,546,61,3,33,98,1,224,187,5,10,5,22,108,330,8,6,55,41,6,37,129,58,25,168,24,14,14,260,24,18,39,51,148,10,27,37,57,220,1,46,14,67,195,77,56,43,3,4,3,19,57,1,5,16,72,28,42,376,31,29,37,23,334,2,16,38,5,40,6,2,12,49,58,52,182,5,34,13,57,10,20,2,1,1,3,35,48,3,15,2,37,1,2,2,39,2,27,6,6,39,20,2,97,58,10,14,96,65,8,35,184,13,14,38,178,24,16,21,30,63,128,26,4,23,3,8,40,79,17,3,15,66,39,222
+Component	34,126,161,286,41,113,11,1,79,119,8,17,4,9,219,36,20,6,294,120,66,8,89,121,265,1,37,182,239,120,57,100,261,206,138,10,74,102,579,294,243,474,250,919,40,254,95,2702,592,546,61,3,33,98,1,224,187,5,10,5,22,108,330,8,6,55,41,6,37,129,58,25,168,24,14,14,260,24,18,39,51,148,10,27,37,57,220,1,46,14,67,195,77,56,43,3,4,3,19,57,1,5,16,72,28,42,376,31,29,37,23,334,2,16,38,5,40,6,2,12,49,58,52,182,5,34,13,57,10,20,2,1,1,3,35,48,3,15,2,37,1,2,2,39,2,27,6,6,39,20,2,97,58,10,14,96,65,8,35,184,13,14,38,178,24,16,21,30,63,128,26,4,23,3,8,40,79,17,3,15,66,39,222,408,13,42,2,52,4
 Component B	5370,8284,77
 Component Beneficiary Profile	10964
 Component C	13654,77
+Component CGP Local Complaints Management Committees	17962
 Component CHW Community Health Worker CPF	11560
 Component CIF Climate Investment Fund COVID19	11549
 Component CONASUR National Council for Emergency Relief	16384
@@ -225,6 +231,7 @@ Component Minimum Target Type Coverage Coverage	11952
 Component Name	3604,7360,891
 Component Name Cost	11560,4099,84,401,240,565
 Component Name Strengthening	11417
+Component Page	17962
 Component Parent	15511
 Component Regional IDA National UCF	1704
 Component Result	13999
@@ -248,7 +255,8 @@ Componente de Gestao da Receita	574
 Componente de Resposta de Emergência	11406
 Componente de Resposta de Emergência Contingente	11440,1,101
 Componentes	10777,629,7,3,44,109,5617
-Components	236,191,334,503,167,141,132,163,121,158,107,1,37,421,892,74,785,1157,919,40,254,327,1123,785,1700,196,169,242,42,168,205,70,9,55,41,210,20,25,136,3,53,312,108,64,66,65,283,21,47,7,7,131,264,74,588,38,89,166,120,26,22,26,16,2,17,5,41,121,234,39,13,87,7,35,48,57,1,2,2,39,100,99,58,10,175,43,249,202,17,245,52,8,139,137,205
+Components	236,191,334,503,167,141,132,163,121,158,107,1,37,421,892,74,785,1157,919,40,254,327,1123,785,1700,196,169,242,42,168,205,70,9,55,41,210,20,25,136,3,53,312,108,64,66,65,283,21,47,7,7,131,264,74,588,38,89,166,120,26,22,26,16,2,17,5,41,121,234,39,13,87,7,35,48,57,1,2,2,39,100,99,58,10,175,43,249,202,17,245,52,8,139,137,205,408,109,4
+Components Accelerating Learning	17958
 Components Adaptive Safety Nets Youth Economic	10963
 Components Amounts	11924
 Components Baseline Closing Period Strengthening	11417
@@ -256,7 +264,7 @@ Components Baseline Period	1264,603,1737,7164,4890,3,483
 Components Building	12228,39
 Components COMPONENT	10768
 Components Coefficients	13868
-Components Component	2712,1941,1926,349,4467,22,1023,1410,703,23,455,588,42,76,342,1000
+Components Component	2712,1941,1926,349,4467,22,1023,1410,703,23,455,588,42,76,342,1000,783,42
 Components Component Name Cost	1867,8901,757,1806,1,2221,68,37,3,1780
 Components Consumer Services Distribution	4972
 Components Consumer Services Food	4972
@@ -299,6 +307,8 @@ Components US	15514
 Components Unconditional	14980
 Components Value Domestic	236
 Components and Cost	1228,56,11104,4508,26
+Components and Cost Cancellation of Financing Reallocation	17862
+Components and Cost Change	17849,13
 Components and Subcomponents and Subcomponents and Component	15661
 Components for E-Government Index	16876
 Components of Addressing Infrastructure	11129
@@ -316,24 +326,29 @@ Comportamentos	10777
 Comportamentos Relativos	10777
 Comportamentos de Saúde Sexual	10777
 Comportamientos	1701
-Comportement	13300,1189,1,1443
+Comportement	13300,1189,1,1443,1949
+Comportement Centre National	17882
 Comportement-civique-VF-2.pdf	8891
 Comportementales	2625
 Comportements	13300
 Comportements Que Je N'ai Jamais Vus	4960,62,2035
 Comporter	13781
 Composant	16012
-Composante	1649,3721,5510,1163,1600,89,692,1,63,1,1,49,1,859,266,81,155,35,76,201,37,371,12,8,5,35,42
+Composante	1649,3721,5510,1163,1600,89,692,1,63,1,1,49,1,859,266,81,155,35,76,201,37,371,12,8,5,35,42,1120,30,110
 Composante B	5370
 Composante C	5370
 Composante Compétences	15901
 Composante D	5370
 Composante F	5370
 Composante G	5370
-Composante Mauritanie	5983
+Composante Généraliser	17836
+Composante Mauritanie	5983,11980,68
+Composante Mauritanienne	17984
 Composante Niger du Projet	3989
 Composante Numérisation	13635
-Composantes	5370,3521,2074,2335,90,2084,68,13,165,46,135,35
+Composante SIS	17845
+Composante3	17873
+Composantes	5370,3521,2074,2335,90,2084,68,13,165,46,135,35,1883,41
 Composantes Score	14622
 Composantes du Projet	15746
 Composantes du Projet Le PADCI	15746
@@ -346,7 +361,7 @@ Composants Data	15583
 Composants Solution	15583
 Composants Traitement	15583
 Compose	6997
-Composed	3791
+Composed	3791,14079
 Composer	11209,2181
 Composición	16898,71
 Composilion	15429
@@ -359,7 +374,7 @@ Composite Indicator Index and Threshold Tables Final	13868
 Composite Micro Utility License	16978
 Composite Score	2957
 Composite Video	34
-Composition	11,1463,39,281,34,797,582,507,147,126,496,45,1149,230,120,1061,460,1858,1730,724,135,48,313,156,39,92,18,239,400,30,522,557,3,21,55,1,1,3,44,57,70,72,8,46,70,2,1,33,131,29,46,307,179,70,89,101,88,101,10,56,142,370,1,4,5,208,54,109,120,324,87
+Composition	11,1463,39,281,34,797,582,507,147,126,496,45,1149,230,120,1061,460,1858,1730,724,135,48,313,156,39,92,18,239,400,30,522,557,3,21,55,1,1,3,44,57,70,72,8,46,70,2,1,33,131,29,46,307,179,70,89,101,88,101,10,56,142,370,1,4,5,208,54,109,120,324,87,292,244
 Composition Art	16879
 Composition Comité de Pilotage des Projets TIC	13290
 Composition Comités Directeurs Interministériels	13290
@@ -378,7 +393,7 @@ Composition du Comité Exécutif	15027
 Composition du Comité Technique de Suivi Un	13341
 Composition du Comité de Pilotage Il	13341
 Composition du Comité de Stabilité	15102
-Composition du Conseil	15102,387,18,87,1026
+Composition du Conseil	15102,387,18,87,1026,1199
 Composition du Conseil Stratégique	4567
 Composition du Secrétariat Exécutif	14537
 Composition du Secrétariat Exécutif Fonction Secrétaire	14537
@@ -434,14 +449,14 @@ Continency Emergency Response Component	13331
 Contingency Emergency Reconstruction Component	1228
 Contingency Emergency Response Component	2989,7779,195,1002,2611,977,108,76,276,174
 Contingency Emergency Response Component. Following	14576
-Contingent Emergency Response Component	761,235,232,36,20,300,283,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61,990,2,226,353,27,35,66,2,37,1,2,82,39,187,14,96,65,43,197,52,460,26,4,68,6,96,3,15
+Contingent Emergency Response Component	761,235,232,36,20,300,283,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61,990,2,226,353,27,35,66,2,37,1,2,82,39,187,14,96,65,43,197,52,460,26,4,68,6,96,3,15,848
 Contingent Emergency Response Component CERC Country	11417
 Contingent Emergency Response Component CERC Steering	1228
 Contingent Emergency Response Component CPF Comité	10964
 Contingent Emergency Response Component CPF Country	10768
 Contingent Emergency Response Component Community Multimedia	4653
 Contingent Emergency Response Component Indicator Name	4653
-Contingent Emergency Response Component Intermediate Results	16436
+Contingent Emergency Response Component Intermediate Results	16436,1526
 Contingent Emergency Response Component Page	16144
 Contingent Emergency Response Component Proposed Cost	1228,3425
 Contingent Emergency Response Component TOTAL Current	1228,3425
@@ -462,9 +477,11 @@ DA-B for Component	15659
 DATA EXCHANGE COMPONENT	2709
 DATASHEET Component Name Cost	11380,169,3942,24,3
 DE L'INTERCONNEXION DES FICHIERS COMPORTANT DES	15636
-DE LA COMPOSITION	15348
-DE LA COMPOSITION Article	15350,342
+DE LA COMPOSITION	15348,2551
+DE LA COMPOSITION Article	15350,342,2182,25
 DE LA COMPOSITION DU POUVOIR LÉGISLATIF	15703
+DE LA COMPOSITION ET	17812
+DE LA COMPOSITION ET DE L'ORGANISATION	17822
 DE LA COMPOSITION ET DES MODALITES	15439
 DE LA COMPOSITION ET DES Tout	15439
 DE L’ORGANISATION ET DE LA COMPOSITION	15420
@@ -505,7 +522,9 @@ Djibouti Component	13938
 E Component	17180
 E-Health Components E-Health	21
 E-waste Management Plan. Component	1988
+ECOBANK Critères Composition	17833
 ECOWAS Commission Components	17099
+ET COMPOSANTES OPÉRATIONNELLES	17983
 ETSwitch. D. Implementation Progress Component	14010
 Educational Institutions Components	17099
 Emergency Response Component CERT Computer Emergency	1264
@@ -531,6 +550,7 @@ F. IPF Component	17458
 FEES Component Fees	2709
 FID. Component	14553
 FINANCING DEVELOPMENT OBJECTIVES AND COMPONENTS Project	13731
+FIXANT LES DETAILS DE LA COMPOSITION	17899
 FIXED TELEPHONY STAFF COMPOSITION	3862
 FLUID SYSTEMS AND COMPONENTS FOR GENERAL	16900
 Feb-2019 Portal Components Results	11924
@@ -604,6 +624,7 @@ ITU Component	285
 ITU’s Publication Composition Service	26,1,1
 IV. PROGRÈS ET RESULTATS PAR COMPOSANTE	16012
 IXP Component	15424
+Identification des Composants	17899
 Identifie Draft Negotiated Cont Description Component	17180
 Impact Evaluation of Component	15663
 Impact of Component	15411
@@ -618,6 +639,7 @@ Inclusive Component	1818
 Indirect Component	10964
 Industry Components	17099
 Information Components	12041
+Information Géographique CO Composante Opérationnelle IGM	17983
 Infrastructure SLAs Component Availabili Redundancy	11952
 Institutional Coordination and Citizen Engagement Component	1228,1761,1664
 Institutional Strengthening Through Component	15511
@@ -650,7 +672,7 @@ LE COMPORTANT. En	2342
 LRD Component of M2 Broad Money Supply	17235
 La Composante	15850
 La Composante Numérisation	13635
-La Composition	13290
+La Composition	13290,4534
 Laboratoire de Composés Naturels	16627
 Large Composite Micro Utility License	16978
 Layer Component Description References Contextual	9128
@@ -663,6 +685,7 @@ Low-Income Households Components	17099
 M&E for Component	15411
 M. Composition of Steering Committee	14843
 MAIN RESULTS ACHIEVED BY COMPONENT Component	15601
+MALI COMPOSÉE	17830
 MDAP Components Component	1228
 MDAs. Component	15553
 MECHANICAL SYSTEMS AND COMPONENTS FOR GENERAL	16900
@@ -679,6 +702,7 @@ MS. Composante	15766
 Main Financing Components	17257
 Malawi Proposed Components	12980
 Malawi. Components	1595
+Mali. Components C1	17906
 Mbps Components	15511
 Mechanical Components and Minerals Development	3760,9683
 Media Houses Component	17099
@@ -752,9 +776,10 @@ POPULATION DES MÉNAGES ET COMPOSITION Ménage	13300
 POPULAÇÃO E COMPOSIÇÃO DOS AGREGADOS FAMILIARES	10777
 PRIDA Component	285
 PROGRAM DESIGN INDICATORS DECISIONS Component	3604
-PROJECT COST BY COMPONENT	15424,87,90,62,68,1221
+PROJECT COST BY COMPONENT	15424,87,90,62,68,1221,897,13
 PROJECT COST BY COMPONENT ANNEX	15511
 PROJECT COST BY COMPONENT Additional Actual	15663
+PROJECT COST BY COMPONENT Component	17962
 PROJECT COST BY COMPONENT Components	15424
 PROJECT COST BY COMPONENT Original	15601
 PROJECT DEVELOPMENT OBJECTIVE AND COMPONENTS Project	11863,2075
@@ -824,6 +849,7 @@ RESPONSIBILITIES COMPOSITION MEETING FREQUENCY Committee	6432
 REVENUE COMPOSITION	17011
 REVIEW COMPONENT	17157
 REVIS Component	17219
+RIM COMPOST	17853
 RISA. Policy Component	12419
 RTGS Component	3679
 Raccourcis Le Ministre Composition du Cabinet Structure	16248
@@ -852,7 +878,7 @@ Revenue Composition Direct Budget Support	5655
 Review and U Component	17180
 Review and Up Component	17180
 Revised Component	15138,831,927,26
-Revised Components	11924,3500,87,90,835,178
+Revised Components	11924,3500,87,90,835,178,1235,113
 Revised Components Laying the Foundations	15601
 Revised Components and Costs	15663
 Revised Revised Revised Component	1228
@@ -866,6 +892,7 @@ S Component	17180
 S Composante	13737,803
 S MS Composante	16012
 S S Composante	14539,1473
+S-SYSTEMES COMPOSANTES AXE	17845
 S. Composante	15766
 SIDA ET COMPORTEMENTS CHEZ LES JEUNES	13300
 SKILLS COMPONENT The Skills	12941
@@ -888,6 +915,7 @@ Social Accountability Component	14553
 Social Protection System Component	14553
 Software Composition Analysis	11952
 Software Composition Analysis SLA Service Level	11952
+Soil Component Detection	17884
 Southern Africa. Component	9630
 Stakeholder Groups General Composition Language	16926
 Stakeholder Project Component	17099
@@ -916,6 +944,7 @@ TEAM COMPOSITION AND QUALIFICATIONS REQUIRED	15090
 TEAM COMPOSITION AND QUALIFICATIONS REQUIRED PAGEREF	15090
 TECHNICAL WORKING GROUP FUNCTIONAL RESPONSIBILITY Composed	14434
 TWGs Composition Each TWG	7548
+Tarif Observation Composition	17833
 Tax Rate and Composition	17011
 Tax Revenue Composition	10997
 Team Composition	11869,72,3431
@@ -945,6 +974,7 @@ Unserved Energy Composition Unserved	11228
 Use Only Component	17096
 Utility Service Providers Component	17099
 Utilization of Quality Essential PHC Services Component	16922
+V. COMPOSANTES ET ACTIVITES DU PLAN	17873
 V4020 Component	17219
 VALUATION DE FIN DU PROJET COMPOSANTE	13635
 VAS STAFF COMPOSITION	3862

@@ -10,6 +10,7 @@ Administrative Adjudication of Road Traffic Offences	7755
 Air Traffic	261
 Air Traffic Control Tower	14830
 Air Traffic Management System	261
+Année Trafic	17866
 Anti-Human Trafficking Act	2726,5754,4923
 Anti-Human Trafficking Department Director Boris	8480
 Application Service Providers ATCOs Air Traffic	2775
@@ -33,7 +34,7 @@ COMGOV Traffic Doter	13341
 Cardiopulmo- Road Traffic	12151
 Child Prostitution and Trafficking. The DIC	14742
 Combat Human Trafficking	14959
-Combat Trafficking	11900,4974
+Combat Trafficking	11900,4974,1060
 Combating Drug Trafficking Combating	14781
 Combating Drug Trafficking Enhancing	14781
 Combating Illicit Drug Trafficking	14409
@@ -152,6 +153,7 @@ Internet Traffic	11857,5249,81
 Internet Trafic	13324
 July. Traffic-light	14845
 Keep Web Traffic Local	6542
+Khidmaty du Système Numérique du Trafic Routier	17905
 LOCAL AND NATIONAL TELEPHONE TRAFFIC	3862
 LOCALISATION OF INTERNET TRAFFIC IN- Internet	11857
 Local Call Traffic	16992
@@ -215,6 +217,7 @@ NETWORK TRAFFIC	11211,51
 Namibia Traffic Information System	12476
 National Agency Against Trafficking	16874
 National Agency for Prohibition of Trafficking	11928
+National Authority for Combating Trafficking	17934
 National Fixed Voice Traffic	15136
 National Mobile Voice Traffic	15136
 National Plan of Action for Human and Drug Trafficking	16951
@@ -275,6 +278,7 @@ Public Safe City and Smart Traffic Solutions	359
 Quarter-on-Quarter Mobile-to-Fixed Off-Net Traffic	2776
 Quarter-on-Quarter Outbound International Traffic	2776
 Quarterly Domestic Fixed Voice Traffic	6671
+REEL DES DONNEES RELATIVES AU TRAFIC	17841
 ROAD TRAFFIC ACT The Road Traffic	14828
 ROAD TRAFFIC MORTALITY RATE	16892
 ROAMING TRAFFIC Out-bound Out-bound Roaming Voice	2776
@@ -322,7 +326,7 @@ Steering Committee for Combating of Trafficking	14742
 Storage Revenue Container Freight Traffic Developments	2775
 Subscriptions Total Mobile Data Traffic	2776
 Subscriptions Traffic Q3	2776
-Suppress and Punish Trafficking	14039,2835
+Suppress and Punish Trafficking	14039,2835,1060
 TMRSU Traffic Management and Road Safety	14828,3
 TRAFFIC	11211,51,1133
 TRAFFIC ACCIDENTS ALONG THE GREAT EAST	13387
@@ -401,16 +405,20 @@ Traffic Trends Network Infrastructure Broadband Speeds	1944
 Traffic and Road Safety Directorate	10775
 Traffic and Road Safety The Borrower	1988
 Traffic and Usage	3990,5791
-Trafficking	5242,5517,78,4,1311,101,87,33,555,18,38,201,763,60,734,9,30,118,1975,77,7
+Trafficking	5242,5517,78,4,1311,101,87,33,555,18,38,201,763,60,734,9,30,118,1975,77,7,976
 Trafficking Data	1243
 Trafficking In Persons	12373
 Traffrika	15830
-Trafic	9781,3543,90,86,86,1907,214
+Trafic	9781,3543,90,86,86,1907,214,2116,12,31
+Trafic Data	17866
 Trafic International Entrant	11597
-Trafic SMS	13324,2383
+Trafic International Entrant Volumétrie	17866
+Trafic Off	17866
+Trafic SMS	13324,2383,2159
 Trafic SMS Off Net International D’un	15707
 Trafic SMS Troisième	13586
 Trafic SMS Volume	15707
+Trafic SR	17866
 Trafic Voix	15707
 Trafic Voix Volume	15707
 Trafics	13414

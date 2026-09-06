@@ -42,6 +42,7 @@ Commercial FTA TV	6946
 Commission TSA Treasury Single Account TVET	17105
 Commission TVET Technical Vocational Education and Training	12975
 Commission for TVET	789
+Communication TVA	17824
 Communication TVA Taxe	10876
 Community FTA TV	6946
 Community TV	13461
@@ -100,7 +101,7 @@ Global TV	4127
 Goal TIN Tax Identification Number TVET	17139
 Google TV App	17746
 HC2 TV	16014
-HEIs and TVET	6832
+HEIs and TVET	6832,11038
 HEIs and TVETs	13991
 HEIs and TVETs Current Status Update	13991
 HERITAGE TV	13324
@@ -211,6 +212,7 @@ Retrieved Nation TV	899
 Rwanda Polytechnic RTB Rwanda TVET Board	14922
 Rwanda TVET Board	12333,78,2511
 Rwanda TVET Training Institute	14922
+Réalisé DID. TVA	17872
 SABC TV	8999
 SH TVET USD Full	4653
 SMS and TV	12383
@@ -289,11 +291,14 @@ TVA Numéro	16047
 TVA Recettes	16328
 TVA Sortie	15999
 TVA Taxe	7655,6782,1037,1152
+TVA la TVA	17872
 TVA. Article	7346,7112,25
 TVA. Cette	15773
+TVA. Extrant	17872
 TVA. Globalement	15542
 TVA. La TVA	14683
 TVA. Le Ministre	9181
+TVA. Toutefois	17840
 TVA. Une	16747
 TVATL	15797
 TVC Labs and Opus	4884
@@ -363,6 +368,7 @@ TVETs Technical and Vocational Education Training Centers	14947
 TVITFPRAI	15400
 TVM and R	12201
 TVM and RM	12201
+TVRAGH ZEINA	18065
 TVS Trade Verification System VAT	12951
 TVeaty Séries	17438
 TVs. Published	14742

@@ -3,6 +3,7 @@ A1O2R3.3 Actualisation	15580
 A2 Certificado de Actualización PE Libreta	4209
 A2O1R1.3 Actualisation	15580
 A3 Certificado de Actualización PE	4209
+ACCUEIL PRESENTATION Missions ACTUALITES Coupe du Numérique	18079
 ACENTRIA ACTUARIAL	7167
 ACTUAL	4209,5228,5299
 ACTUAL ACTUAL CATEGORÍA Certificado de Actualización PE	4209
@@ -30,12 +31,22 @@ ACTUAL MINISTERIO CONCEPTO CATEGORÍA MINISTERIO CONCEPTO	4209
 ACTUAL MINISTERIO CONCEPTO HACIENDA CMF	4209
 ACTUAL PAYMENTS AS AT JAN	15927
 ACTUALISATION DE LA BASE DE DONNÉES	15670
+ACTUALISATION N	18007
 ACTUALITE	17466
+ACTUALITE DU SYSTÈME STA- TISTIQUE NATIONAL	17978,99
+ACTUALITE DU SYSTÈME STATISTIQUE NATIONAL	17978,99
+ACTUALITE DU SYSTÈME STATISTIQUE NATIONAL Ces	17978,99
+ACTUALITE DU SYSTÈME STATISTIQUE NATIONAL Dans	17978
+ACTUALITE DU SYSTÈME STATISTIQUE NATIONAL Institut	17978,99
+ACTUALITE DU SYSTÈME STATISTIQUE NATIONAL L’Annuaire	17978
+ACTUALITE DU SYSTÈME STATISTIQUE NATIONAL L’objectif	17978
+ACTUALITE DU SYSTÈME STATISTIQUE NATIONAL Mouvement	17978
 ACTUALITE Mozambique	9620
 ACTUALITE.CD	2346,282,7377,6205,1569
 ACTUALITE.CD Lundi	6661
 ACTUALITE.CD Samedi	5117
 ACTUALITES	10941,182
+ACTUALITES Le Général	18079
 ACTUALITES RELATIVES Pour	10660
 ACTUALITÉ	11092,4705
 ACTUALITÉ.CD	3978,1100,39,6,1267
@@ -83,9 +94,10 @@ ActuNon	9925
 Actua	15392
 Actuación Administrativa	16855
 Actuación Administrativa Automati	16855
-Actual	34,173,266,681,834,369,355,63,41,1837,486,516,924,349,949,253,869,438,1281,59,2,14,77,70,191,3,12,41,37,171,529,29,12,6,5,10,2,74,166,39,173,284,247,6,40,36,5,274,410,108,70,50,766,10,89,53,57,35,19,18,14,128,352,108,85,31,2,21,147,64,44,19,47,73,35,249,202,67,217,38,34,6,11,68,17,43,96,15,220,35
+Actual	34,173,266,681,834,369,355,63,41,1837,486,516,924,349,949,253,869,438,1281,59,2,14,77,70,191,3,12,41,37,171,529,29,12,6,5,10,2,74,166,39,173,284,247,6,40,36,5,274,410,108,70,50,766,10,89,53,57,35,19,18,14,128,352,108,85,31,2,21,147,64,44,19,47,73,35,249,202,67,217,38,34,6,11,68,17,43,96,15,220,35,399,54,4,44
 Actual Achieve	11134
-Actual Achieved	11924,3500,177,62,773
+Actual Achieved	11924,3500,177,62,773,1526
+Actual Achieved PDO Indicator	17962
 Actual Actual Prior	10793
 Actual Allowance	14746
 Actual Approval	7877,7282
@@ -101,10 +113,11 @@ Actual Current Year Approved Actual Exec	6422
 Actual Current Year Sub-total	6422
 Actual DSR	11953
 Actual Date	11131,5483
-Actual Date Concept Review	11924
+Actual Date Concept Review	11924,6038
 Actual Deliveries	16971
-Actual Disbursed	11924,1818,1682,177,62,41,27,705
+Actual Disbursed	11924,1818,1682,177,62,41,27,705,1413,113
 Actual Disbursed US	13722,1664
+Actual Disbursements	17849
 Actual Domestic Taxes Net Revenue	12951
 Actual Estimate Estimate Estimate DESCRIPTION Actual	6422
 Actual Estimate Var	6422
@@ -148,16 +161,18 @@ Actual WARDIP-C	17219
 Actual-stage	1732,2
 Actuali	15837
 Actualidade	11388,37
-Actualisation	10712,2721,2147,59,373,183
+Actualisation	10712,2721,2147,59,373,183,1647,30,1
 Actualisation des Données Cadastrales	10876
 Actualisation des Données Cadastrales MTGES Manuel Technique	10876
 Actualisation du Dispatch	10975
-Actualiser	3356,5535,4399,1198,1,1,1248,274,237,458
+Actualisation du INSTAT	17842
+Actualiser	3356,5535,4399,1198,1,1,1248,274,237,458,1138,27,121
 Actualiser le PEES	16012
+Actualiser le Site	17845
 Actualite.cd	6390,2294,3184,5722
 Actualite.cd URL	16210
-Actualites	14492,7
-Actualité	1287,4758,914,1428,331,902,95,563,101,3104,1013,133,43,1147,156,267,72,23,14,13,54,291,6,734,46
+Actualites	14492,7,3369
+Actualité	1287,4758,914,1428,331,902,95,563,101,3104,1013,133,43,1147,156,267,72,23,14,13,54,291,6,734,46,333,87,150
 Actualité Afrique Culture	16242
 Actualité Alexie Alaïs	9620
 Actualité Baisse	9620
@@ -199,7 +214,7 @@ Actualité Une	16657
 Actualité du Gabon	11015,1076,3797,408,136
 ActualitéDernières	6420
 ActualitéPolitique	8718
-Actualités	2534,183,479,479,925,295,1184,2218,16,405,607,240,708,607,47,2410,69,140,33,20,90,1738,39,28,88,4,28,11,1,14,119,22,31,7,54,120,77,42,8,40,13,27,137,2,12,6,7,14,40,2,35,80,104,60,13,21,1,1,1,732,23
+Actualités	2534,183,479,479,925,295,1184,2218,16,405,607,240,708,607,47,2410,69,140,33,20,90,1738,39,28,88,4,28,11,1,14,119,22,31,7,54,120,77,42,8,40,13,27,137,2,12,6,7,14,40,2,35,80,104,60,13,21,1,1,1,732,23,458,42,2,54,15,27
 Actualités Accueil	15993,364
 Actualités Actualités En	16639
 Actualités Agro Le Nigeria	16158
@@ -275,7 +290,7 @@ Actuarial and Financial Mathematics	13078
 Actuação	11441,73
 Actuações	15359
 Actuelle	16012
-Actuellement	737,1533,696,2314,486,316,807,70,321,1893,1009,337,1265,1516,6,18,13,4,49,24,38,1036,1,1,108,26,850,19,49,43,85,15,163,778,2,833,182
+Actuellement	737,1533,696,2314,486,316,807,70,321,1893,1009,337,1265,1516,6,18,13,4,49,24,38,1036,1,1,108,26,850,19,49,43,85,15,163,778,2,833,182,181,18,1,2,11,4,7,15,44
 Actuelles	15766
 Actus	15745
 Administrateur ACTUALITES Afrique Burundi Jeunesse	9810
@@ -299,7 +314,7 @@ Award Planned Actual Planned Actual Planned	17180,39
 B1 Certificado de Actualizacion PE	4209
 BUDGET PERFORMANCE Actual-	9437
 Bachelor of Actuarial Science Honours	13089
-Baseline Actual	2712,1941,6742,833,39,173,3179,350,44,625,362,96,374
+Baseline Actual	2712,1941,6742,833,39,173,3179,350,44,625,362,96,374,434,102
 Baseline Original Target Formally Revised Actual	15424
 Baseline Target Actual Actual	10779
 Bengo. Actualmente	11577
@@ -364,7 +379,7 @@ DEP-MSP A2O1R1.3 Actualisation	15580
 DESCRIPTION Actual Amounts Final Budget Original	16978
 DHIS2 Action VI.1.2 Actualiser	13306
 DIGITALISATION AU BURUNDI Actuellement	13341
-DO Rating IP Rating Actual Disbursements	15511
+DO Rating IP Rating Actual Disbursements	15511,2451
 Dans Actualités	16431
 Date Actual	6579,349
 Dec-2022 Actual Achieved	15601
@@ -383,6 +398,7 @@ EMPREGO Actualmente	10777
 ESTIMATE RELEASED ACTUAL VARIANCE VARIANCE	12971
 Econet InfraCo. Actual	4896
 Economic Inclusion Indicator Name Baseline Actual	12440
+Education System Indicator Name Baseline Actual	17958
 Effectif Actuellement	13300
 Electronic Health Record System Actually	5911
 Ensemble Actuellement	13300
@@ -423,14 +439,15 @@ INDUSTRIA INSPECCION ANUAL ACTUAL	4209
 INSPECCION ANUAL INDUSTRIA Certificado de Actualización PE	4209
 INTER Actualité	9620
 INTIC. Actualmente	12830
-IP Rating Actual Disbursements	11924,3677
+IP Rating Actual Disbursements	11924,3677,2261
 IPv6 Actuellement	13301
 ISRs Actual Disbursements	16614
 Improve Tools Techonlogy and Infrastructure Target Actual	13053
+Improved Quality Indicator Name Baseline Actual	17958
 Inclusion Indicator Name Baseline Actual	11971
 Inclusion and Coverage Baseline Actual	15735
 India Actually Got Right	8206
-Indicator Name Baseline Actual	10870,1101,257,39,173,3529,63,47,108,807,85
+Indicator Name Baseline Actual	10870,1101,257,39,173,3529,63,47,108,807,85,879
 Infrastructures Actualité Nathalie Roy	3658,2617,145
 Instituto Actualmente INEGE	16898
 Insurance and Actuarial Matters	9571
@@ -441,7 +458,7 @@ It's Actually Like	5874
 JAMAIS VÉCU AVEC ACTUELLEMENT EN UNION	13300
 Jul-2019 Original Commitment Revised Commitment Actual	10779
 Jun-2026 Actual Date	16436
-KEY DATES Key Events Planned Actual	2712,1976,6182,1358,39,3468,278,692,295,96,374,35
+KEY DATES Key Events Planned Actual	2712,1976,6182,1358,39,3468,278,692,295,96,374,35,399,54,48
 KPMG. Actuellement	15670
 Kasi Cloud Is Actually Building	5200
 Kenya Has Built Actual Seats	9648
@@ -467,9 +484,11 @@ MENTIONNÉ. PETITE AMIE ACTUELLE	13300
 MINISTERIO CONCEPTO ACTUAL	4209
 MINISTERIO CONCEPTO ACTUAL CATEGORÍA MINISTERIO CONCEPTO	4209
 MINISTERIO CONCEPTO CATEGORÍA MINISTERIO CONCEPTO ACTUAL	4209
+MLE FONCTION ACTUELLE Mahamane Alassane MAIGA	17817
 MON COMPTE S'ABONNER LE KIOSQUE Actualités	2353,47,39,1,1,1,1,35,104,165,81,292,300,1479,308,258,41,255,18,1345,145
 MTR Review Original Closing Actual Closing	15424
 MW Actualisation	13433
+Magazines du CSA Actualités Médias Images Vidéos	17888
 Making Training Actually Work	5551
 Mali Actuel	6969
 Mar-2021 Original Commitment Revised Commitment Actual	10779
@@ -491,6 +510,7 @@ Name Baseline Actual	4653,7318
 National Social Protection System Baseline Actual	17000
 News Actualité	9620
 Nigeria Baseline Actual	4688,3189
+Niveau Actuel Autre	17882
 Nov-2025 Actual	16032
 Novo Jornal. Actualmente	3899
 OMS Amissi G Actualité Liée	10625
@@ -501,7 +521,7 @@ Open Data Baseline Actual	17470
 Organigramme du CNDigit Actuel	15936
 Original Actual Sector Code	16614
 Original Budget Revised Budget Actual Received	14736
-Original Closing Actual Closing	15663
+Original Closing Actual Closing	15663,2186
 Original and Final Approved Budget and Comparison of Actual	16978
 Ouagadougou... Actualité Tunisie	3658,2617,145
 PARTENAIRE ACTUEL	13300
@@ -528,8 +548,9 @@ Plan... Actualités Cameroun Facebook Twitter Pinterest	9916
 Planned Actual Comments Administrative Division Morocco	17441
 Planned Actual LR-MFDP-390672-GO-RFQ	17180
 Planned Actual LR-MFDP-499427-NC-RFP	17180
+Planned Actual Planned Actual	17962
 Planned Actual Planned Actual LR-MFDP-388880-CS-CDS	17180
-Planned Actual Planned Actual Planned Actual	17180,39
+Planned Actual Planned Actual Planned Actual	17180,39,743
 Planned Actual WARDIP-F	17219
 Planned Actual WARDIP-S-001-2025	17219
 Planned Official Use Only Actual Page	6928
@@ -572,6 +593,7 @@ SCOLAIRE ENREGISTREMENT DES LIGNE ACTUELLE	13300
 SECTORS AND THEMES Actual Disbursements	16436
 SEM Actualmente	16898
 SIGE. Actuellement	15673
+SIPL Actualiser le Site	17845
 SITUATION ACTUELLE DE L’ENTREPRENARIAT NUMERIQUE	15493
 SITUATION ACTUELLE DE L’INFRASTRUCTURE NUMERIQUE	15493
 SITUATION ACTUELLE DES PLATEFORMES NUMERIQUES	15493
@@ -582,6 +604,7 @@ Service Public BF Actualités	16338
 Services Actualités	3675
 Services Baseline Actual	15735
 Small Businesses Baseline Actual	17000
+Social Registry Baseline Actual	17904
 SociétéSportTechnologie Actualité Mozambique	9620
 South Africa Actual	11953
 Sub-Saharan Africa. Actual	16876
@@ -613,6 +636,7 @@ Tribunais de Actualmente	10752
 Tunisie... Actualité ICT Africa Summit	3658,2617,145
 UHIS Indicator Name Baseline Actual	16079
 Union Européenne. Actuellement	14451
+Usages Services Demande Actuelle Ateliers Atelier	17836
 V. What You Can Actually Ask	7777
 Variable Actual	236
 Variable Actual Forecast Subscription	236

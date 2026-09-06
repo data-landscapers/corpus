@@ -232,7 +232,7 @@ Archipel	14683,791
 Archipel. Néanmoins	15474
 Archipelago	14742,1236
 Archipelagos	789
-Architect	9124,5317,1771
+Architect	9124,5317,1771,1827
 Architecte	15432,110
 Architecte Blaise Ouo Foromo	16611
 Architecte IA	12079
@@ -256,7 +256,7 @@ Architectural Schematic Diagram FIGURE	13005
 Architectural Schematic Diagram for National	13005
 Architectural and Structural	9123
 Architectural and Structural Design	9123
-Architecture	396,544,69,275,656,1456,821,1343,105,718,40,1247,397,136,1034,1947,768,91,140,176,41,31,900,151,269,90,296,301,228,93,635,161,165,84,97,42,94,258,146,159,9,315,173,340,97
+Architecture	396,544,69,275,656,1456,821,1343,105,718,40,1247,397,136,1034,1947,768,91,140,176,41,31,900,151,269,90,296,301,228,93,635,161,165,84,97,42,94,258,146,159,9,315,173,340,97,289,22,37,20
 Architecture All	10616
 Architecture Building Block	6423
 Architecture Built Around Secure Identification	6581
@@ -270,6 +270,7 @@ Architecture Marketing	16266
 Architecture Numérique Nationale	16609
 Architecture Planning	14441
 Architecture SNIP	12043
+Architecture Technique	17902
 Architecture Tool Architect	9124
 Architecture Was Always	5513
 Architecture Working Group	16924
@@ -281,9 +282,9 @@ Architecture du Plan	15580,381
 Architecture du Réseau Métropolitain	13341
 Architecture of Information Technology	16878
 Architecture of Trust	7471
-Architectures	550,18,20,8017,1552
+Architectures	550,18,20,8017,1552,7725
 Archivado	10487
-Archivage	747,569,724,585,1692,6376,175,8,2427,72,302,806,54,1043,4,136,216,167,49,464,1,4,15,72
+Archivage	747,569,724,585,1692,6376,175,8,2427,72,302,806,54,1043,4,136,216,167,49,464,1,4,15,72,1134,22,114
 Archivage Missions	17446
 Archivage Numérique	9277
 Archivage RESPONSABLE CGP CGP CGP DELAI	14424
@@ -294,20 +295,21 @@ Archive About Us Contact Us Oshiwambo	11122
 Archive Article	15027
 Archive Center	13624
 Archive Subscribe Now Desert Radio Podcast	11122
-Archived	2712,1976,1735,156,254,95,949,2993,41,484,593,240,39,173,284,303,31,801,51,6,1,3,136,924,37,14,128,576,2,342,626,289,6,79,17,374,35
+Archived	2712,1976,1735,156,254,95,949,2993,41,484,593,240,39,173,284,303,31,801,51,6,1,3,136,924,37,14,128,576,2,342,626,289,6,79,17,374,35,399,54,48
 Archived Articles	11220,21
 Archived DO Rating IP Rating Actual	15731
 Archived Documents	11220
 Archived Information National Archives Building	11349
 Archivematica	8021
 Archiver	14440
-Archives	1988,1794,2507,818,833,81,618,111,1274,381,570,583,767,161,353,51,1852,422,391,29,70,24,23,474,70,390,806,93
+Archives	1988,1794,2507,818,833,81,618,111,1274,381,570,583,767,161,353,51,1852,422,391,29,70,24,23,474,70,390,806,93,290,3,61,188
 Archives Act	12890
 Archives Actualité Mémoire de Yamoussoukro	9620
 Archives CEA	10975
 Archives Code	12325
 Archives Et Documentation Chef de Service	16099
 Archives Publiques	4402
+Archives Technicien des Arts	17827
 Archives and Information Science	8022
 Archives and Record	13972
 Archives and Record Management and Statistics	13972
@@ -324,6 +326,7 @@ Archivo Nacional	10438
 Archivos Electrónicos	16855
 Archivée	14537
 Archéologie	15674
+Archéologue	17895
 Arco Cash	8732
 Arctic	6790,4365,136,5984
 Arctic Observing Mission	11291
@@ -369,6 +372,7 @@ CONCEPTUAL VIEW OF THE INTEROPERABILITY ARCHITECTURE	1009
 CONSERVER LES ARCHIVES D'ETAT CIVIL DELIVRER	3381
 CONTROLE DES TELECOMMUNICATIONS ARCT RAPPORT ANNUEL	13301
 Care Record CDA Clinical Document Architecture	1009
+Cellule des Archives	17827
 Census Statistical Archive	16863
 Chagos Archipelago	14714,1,27,6,3,2,40
 Chagos Archipelago Civil	14714,1
@@ -377,6 +381,7 @@ Chagos Archipelago. Chagos Archipelago	14742
 Chairman Phase3 Telecom Arc. Yusuf Kazaure	11857
 Changement de Catégorie SIGNATURE Airtel ARCEP	998
 Changing Global Financial Architecture. Cairo	10718
+Chargés des Archives Administrateur des Arts	17982
 Circular C&Ku ARCEP-111021	998
 Civil and Criminal Identification Archive	10765,10
 Climate of Architects	17260
@@ -415,8 +420,10 @@ DEMOLITION Architecte	14488,1,1
 DES ARCHIVES NUMERIQUES PUBLIQUES Article	15584
 DG ARCT. Ce	13341
 DHA Records and Archive Management Strategy	11986
+DIFFUSION ET ARCHIVAGE DES DONNÉES	17842
 DIRECTION CENTRALE DES ARCHIVES ET	16175
 DISTRIBUTED GOVERNANCE ARCHITECTURE	3861
+DOSSIER DU TRIMESTRE Archivage	17978
 DPI Data Exchange Architecture	3735
 Dahlak Archipelago	14080
 Data ARCT Collection Collection Broadband	13331
@@ -456,12 +463,14 @@ Distributed Governance Architecture	3861
 Division Manager for Enterprise Architecture	15019
 Documentation and Archives URL	14029
 Dossier Enquête Interview Reportage Archives AFRIQUE	9620
+Douanes CELLULE DES ARCHIVES	17827
 Dr. Gustavo Arciniegas of Geo-Col	14162
 Du Service des Archives Météorologiques	15371
 E. International Cooperation Architecture	17745
 E.A.P.C Archers Child Development Centre Data	7167
 EA Enterprise Architecture	11261
 EA Enterprise Architecture GCIO Government Chief	11184
+ENTREPRENEURS Parties Prenantes Teliman Groupe Arc-En-Ciel	17856
 ESWATINI NATIONAL ARCHIVES AND RECORDS SERVICE	12971
 ET DES ARCHIVES	16381
 ETUDE ET REALISATION DES TRAVAUX Architecte	14488,1,1
@@ -577,6 +586,8 @@ INFORMATION ARCHITECTURE Information Architecture	14441
 INTEGRATION ARCHITECTURE	14441
 INTEGRATION ARCHITECTURE Integration Architecture	14441
 ISR Archived	16436
+ISR Archived DO Rating IP Rating	17849
+ISR RATINGS No. Date ISR Archived	17962
 ISRs No. Date ISR Archived	15424,87
 IX.2. Architecture	15936
 Implement Zero Trust Architecture	10721
@@ -609,6 +620,7 @@ Kenya Health Enterprise Architecture	2709,11740
 Kenya Health Enterprise Architecture Blueprint	10641
 L'Institut National des Archives du Congo	15584
 LIST OF ACRONYMS ADM Architecture Development	1009
+La Cellule des Archives	17827
 Land Processes Distributed Active Archive Center	11334
 Le Service des Archives Météorologiques	15371
 LeCun’s Joint Embedding Predictive Architecture	7573
@@ -619,6 +631,7 @@ Liberia Institute of Architects	17260
 Liberia National Common Statistical Production Architecture	17116
 Load Shedding Archives	12213
 Long-term Archiving Standards	16947
+MALI Chef de Section SECTION ARCHIVES	17982
 MENIE MENZOUGHE Fabien Archange	16381
 MONITORING AND COMPLIANCE ARCHITECTURE	3861
 Managing Electronic Records The National Archives	11349
@@ -627,6 +640,7 @@ Mathématiques Electronique Informatique Architecture	15467
 Methodology and Convening Design Trust Architecture	11138
 Microservice Monolithic Architecture UI Business	13042
 Microservices Architecture	13042,3558
+Mines SECTION ARCHIVES Chef de Section Administrateur	17982
 MiniTIC& Rel Parlement ARCT Internet Informatique	13290
 Mininfo ARCT ARCT ARCT ARCT Proposition	13290
 Ministry and ARCEP	2969
@@ -634,6 +648,7 @@ Mme Nadège Arcadie MOUGNANGA	15973
 MoH's System Architecture and Security Unit	12240
 Modelling Notation ArchiMate The Notation	9124
 Modular Architecture	13395
+Mohamed Vadel Hadweni Information Systems Architect	18039
 Monitoring and Compliance Architecture	3861
 Monsieur Arcadius TCHOKPODO	17584
 Monthly Architecture Transaction Weekly	11952
@@ -687,7 +702,7 @@ Nigeria Digital Health Architecture	4301,27
 Nigeria Government Enterprise Architecture	5560,165,2698
 Nigeria. Arc. Sunny S.T. Echono Permanent	11860
 Nigerian National Archives Act	11952
-No. Date ISR Archived DO Rating	11924,3677
+No. Date ISR Archived DO Rating	11924,3677,2261
 Normes Archivistiques	16245
 Northern Chagos Archipelago	14742
 Numérisation des Archives	4025
@@ -708,11 +723,13 @@ PKI Architecture du Réseau Métropolitain	13341
 PRIVACY AND SECURITY ARCHITECTURE	3861
 PalArch’s Journal of Archaeology of Egypt	4432
 Patient Synchronised Application Architecture	1009
+Peace and Security Architecture	17983
 Per ARCEP	5005
 Picture Archiving and Communication System	12606
 Platform APC Article Processing Charge ARC	5246
 Platform-Led Finance Trust Architecture	11138
 Plus-value Cellule CCDA Organisme Archivage	10975
+Portail International Archivistique Francophone	17983
 Poste- ARCEP	969
 Potential Architecture and Interoperability	10819
 Pr. Faustin Archange TOUADERA	4989
@@ -754,7 +771,7 @@ Regulator ARCEP	15424
 Regulatory Architecture	16212
 Regulatory Architecture and Accountability	5574
 Reporting Tools Architect	9124
-Resettlement Action Plan ARCEP Regulatory Authority	15511
+Resettlement Action Plan ARCEP Regulatory Authority	15511,2351
 Robust Network Architecture	13851
 Role of Enterprise Architecture	14441
 Rwanda Architecture	9124
@@ -812,6 +829,8 @@ Specialist Enteprise Architecture Division Manager	15028
 St Brandon Archipelago. Ce	14306
 Standalone Enterprise Architecture	13987
 Starlink's Architecture Means for Nigeria's Connectivity	6749
+Statistique SECTION ARCHIVES Chef de Section Administrateur	17982
+Statistique. Architecture	17844
 Strategic Architecture	10516
 Strategic Architecture AI	7548
 Strategic Defence Architecture	17792
@@ -842,6 +861,7 @@ UHF A SERVICES ARCEP	998
 UHF D PETROLEUM S.A ARCEP	998
 UNE ARCHITECTURE FONCTIONNELLE NOVATRICE Pour	15625
 USF. ARCEP Court Elevée Appuyer	15474
+Une Architecture Africaine	17983
 Unified Digital CRVS Architecture	13589
 Usefulness of ARCEP	5679
 Very High E. Results ArcGIS	17157

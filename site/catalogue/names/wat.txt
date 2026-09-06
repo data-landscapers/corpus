@@ -157,6 +157,7 @@ Drought Resilience Water Holding Capacity	17157
 Drought Risk and Water Availability	17157
 Drought Watch	17157
 EAGB Water and Electricity of Guinea Bissau	11549
+ECOWAS ICT Regulatory Watch	17870
 EU Water Framework Directive	17157
 EWSC Eswatini Water Services Corporation FAO	12970
 East Africa Hazard Watch	14103
@@ -215,6 +216,7 @@ Gambian Standard for Natural Mineral Water	16900
 General Authority of Water Resources	16863
 General Direction for Water Resource	11553
 Ghana Water	11132
+Giga Watt	17873
 Gil Mahé. Rainfall and Water Resources Variability	16135
 Global Information Society Watch	2110,9978
 Global Water Partnership	17157
@@ -338,6 +340,7 @@ Main Source of Drinking Water	16921
 Main Source of Drinking Water for Household	16921,193
 Malawi Watershed Services Improvement Project	13122
 Malindi Water	14546
+Mali’s Minister of Energy and Water	18066
 Manufacturing Male Female Total Water	12445
 Manufacturing Water	12445
 Manzini Integrated Water Supply and Sanitation Project	12922
@@ -398,6 +401,7 @@ Month Water Production	16935
 Moretele North Klipvoor Bulk Water Supply	11248
 Musina Water Transfer Scheme Water	11248
 Mwandi. Water	13387
+Méga Watt ODD Objectifs du Développement Durable	17873
 NAWEC National Water and Electricity Company NBR	17105
 NDVI Anomaly Water Reserve Status Response	17157
 NaFAA. Water	17114
@@ -428,7 +432,7 @@ National Water Utility Company	15969
 National Water and Electric	17152
 National Water and Electricity Company	17152,98
 National Water and Energy Regulatory Agency	13793
-Nations Children’s Fund WASH Water	11560
+Nations Children’s Fund WASH Water	11560,6289
 Nations UN Water	11417
 Natural Mineral Waters	16900
 Natural Nigeria Sustainable Urban and Rural Water	11469
@@ -525,7 +529,7 @@ Recommendations for WATRA and Regional Institutions WATRA	5676
 Reduced Surface Water Flow	17157
 Region Water Board	12241
 Regulatory Institute for Electricity and Water Services	11380
-Regulatory Watch Initiative	1264,10278
+Regulatory Watch Initiative	1264,10278,6328
 Reinforcing Drinking Water Networks	15578
 Reliability and Quality of Water Supply	12389
 Reliability of Water Supply	12389
@@ -556,6 +560,7 @@ Shrubs Waterbodies Settlements Otherlands Forestland	17140
 Sinyamantulwa Potable Water Scheme	13123
 Small Medium Dams Project WHDP Water	12962
 Social Watch Bénin	6750,1413,8292
+Soil and Water Assessment Tool	17969
 Soil and Water Conservation	12229
 Solar Power Water Station for Semi-Urban	16256
 Somalia Land and Water Information Management	15129
@@ -610,7 +615,7 @@ Voluntary National Review WHDP Water Harvesting	12962
 W Water Resources Management	13093
 WAEC West African Examinations Council WAT	11952
 WASAC Water and Sanitation Corporation Limited EXECUTIVE	14947
-WASH Water	15661,1235,218
+WASH Water	15661,1235,218,756
 WASH Water Sanitation and Hygiene WBT Working	970
 WAT DNN FactCheck	8522
 WAT Nigeria	9636,2349
@@ -632,6 +637,7 @@ WATALIYADDA	6613
 WATANI	14232
 WATANIYA TELECOM ALGERIE S.P.A	15885
 WATANIYA TELECOM ALGERIE SPA	15885
+WATENI	17828
 WATER	12389,635,719,930,2587
 WATER AND ELECTRICITY	16935
 WATER AND LAND REFORM DATE	13024
@@ -709,12 +715,12 @@ Watch No	14158
 Watch OEC Observatory for Economic Complexity PTS	10759,78,1052,451
 Watch the Official Launch of Namibia's AI Readiness	12994
 Watched	11043,3854,102
-Watchers	13471,1180
+Watchers	13471,1180,3387
 Watching	8642
 Watching Kona	9007
 Wateja	6019
 Watendaji	2868,3151
-Water	395,23,300,222,30,258,326,270,4,160,440,198,149,276,1477,719,222,100,581,272,481,44,396,205,710,341,524,5,309,705,339,267,11,17,18,41,2,1,130,184,4,36,39,5,9,3,21,14,134,172,131,124,26,16,1,1,1,11,98,154,1,1,9,12,17,37,24,87,1,11,1,36,19,3,34,43,13,10,1,9,410,31,2,6,7,76,143,114,75,2,73,14,88,123,58,44,6,238,2,45,12,13,153,290,20,107,63,9,33,40,12,10,34,48,48,57,58,44,67,176,146,34,22,30,55,72,12,46,467,180,30,397,26,7,4,16,19,108,56,6,9,3,22,10,7,1,93,1,6,32,214,286
+Water	395,23,300,222,30,258,326,270,4,160,440,198,149,276,1477,719,222,100,581,272,481,44,396,205,710,341,524,5,309,705,339,267,11,17,18,41,2,1,130,184,4,36,39,5,9,3,21,14,134,172,131,124,26,16,1,1,1,11,98,154,1,1,9,12,17,37,24,87,1,11,1,36,19,3,34,43,13,10,1,9,410,31,2,6,7,76,143,114,75,2,73,14,88,123,58,44,6,238,2,45,12,13,153,290,20,107,63,9,33,40,12,10,34,48,48,57,58,44,67,176,146,34,22,30,55,72,12,46,467,180,30,397,26,7,4,16,19,108,56,6,9,3,22,10,7,1,93,1,6,32,214,286,78,16,79,9
 Water Abstraction Licensing Regulation	17228
 Water Access	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Water Access Absence of Corruption	10835,3,130,902,16,466,1,135
@@ -753,7 +759,7 @@ Water Harvesting and Small Medium Dams Project	12962
 Water Harvesting for Wildlife	17157
 Water Honourable Members	14748
 Water Information System	9124
-Water Infrastructure	17157
+Water Infrastructure	17157,814
 Water Infrastructure Under Drought Conditions Over-reliance	17157
 Water João Baptista Borges Ministro de Energia	11366
 Water Leakage Detection	593
@@ -784,6 +790,7 @@ Water Quality Monitoring Service	10794
 Water Quality and Availability	1988
 Water Quality and Fauna	1988
 Water Quality and Hydrology	17114
+Water Quantity Prediction for Irrigation	17884
 Water Res	1988
 Water Rescue Activities	14738
 Water Resource	14673,2484
@@ -840,7 +847,7 @@ Water Stress	17157
 Water Summit	2626
 Water Suppliers Agencies	17157
 Water Supplies and Related Services	2775
-Water Supply	1988,787,2472,6222,784,158,712,1962,415,231,1426
+Water Supply	1988,787,2472,6222,784,158,712,1962,415,231,1426,805
 Water Supply Connections Connecting the Natural Gas	15578
 Water Supply Licence	17250
 Water Supply Value Chain	13474
@@ -979,6 +986,7 @@ Watumiaji	2868,1193,1958
 Watumishi	2868,1231,1920,8304
 Watunza	4061
 Watuzemba Frederico	9501
+Watéri	17899
 Weekly Water Dashboard	14673
 West Africa The WATRA Working Group	5675
 West Africa WATRA Working Group	5676,5

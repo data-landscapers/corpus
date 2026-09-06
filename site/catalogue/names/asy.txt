@@ -1,4 +1,5 @@
 ACF and ASYCUDA New Generation	13042
+ADSL Asymmetric Digital Subscriber Line	17862
 ADSL Asymmetric Digital Subscriber Line AML	1818
 APPLICATION FOR ASYLUM	11177
 ASM Asylum Seeker Management BABS Branch	11218
@@ -62,7 +63,7 @@ ASYCUDA TileSW	13042
 ASYCUDA Training	16631
 ASYCUDA Training Session for Turkmenistan Customs Officers	15478
 ASYCUDA WORLD	5077
-ASYCUDA World	969,1143,2452,3488,306,405,2954,669,268,399,261,762,142,1260,1404,62,5,19,43,94,96,166
+ASYCUDA World	969,1143,2452,3488,306,405,2954,669,268,399,261,762,142,1260,1404,62,5,19,43,94,96,166,503
 ASYCUDA World Password Reset Process	12654
 ASYCUDA World Registration Process Table	12654
 ASYCUDA World System	7206
@@ -159,6 +160,7 @@ Asylum Seekers and Special Permit	4667
 Asylum-Seekers	17323,1
 Asylum-Seekers Download	13669
 Asylum-seekers	11900,2565,2229,733
+Asymetric Digital Subscriber Line AMAP	17824
 Asymmetric	11869,4963
 Asymmetric Digital Subscriber	12395
 Asymmetric Digital Subscriber Line	13218,2154

@@ -42,7 +42,9 @@ COMMANDES	16534
 COMMANDES ET ESSAIS GENERAUX	16103
 COMMANDES PARTIELLES	16747
 COMMANDEUR DADET UGP Responsable Sauvegarde	16012
+COMMANDEUR DE L’ORDRE	17841
 COMMANDING OR PROCURING TO COMMIT OFFENCE	11190
+Capitaine de Vaisseaux Cheikh Lahmoud Hemetti Commandant	17895
 Chain of Command	17344
 Chronos des COMMANDES	10975
 Comma	8021
@@ -58,21 +60,49 @@ Command Stations	2775
 Command Stations and Sex	2775
 Command and Control Centre	14729
 Command of His Majesty	15506
-Commandant	7670,3392,3443,1019,220,157
+Commandant	7670,3392,3443,1019,220,157,2081
+Commandant Abdoulaye TOUNKARA DIRECTION CENTRALE DES	17828
+Commandant Alou Boï DIARRA Commandant Lassina	17828
+Commandant Amadou DIALLO	17991,12
+Commandant Amadou DIALLO DIRECTION DES TRANSMISSIONS	17828
 Commandant DIANGOU	15901
 Commandant DULONG	15455
 Commandant Fernand Edgard NZIGOU NZIGOU	16381
 Commandant Fode	15786
+Commandant Housseyni TOGO	17991,12
+Commandant Illeya AG KIBA	18003
+Commandant Illeya AG KIBBA	17991
+Commandant Issa PERGOUROU Armée de Terre. Vu	17982
 Commandant James Blaise OYE NGUEMA	16099
 Commandant James OYE NGUEMA	16381
 Commandant LENDOYE Justibe	16381
+Commandant Lamine TRAORE	17991,12
 Commandant MABIALA KIMI	15744
 Commandant MANIONY MANGAMA Théodore	16381
 Commandant MBORI Léon. Attachée de Cabinet	16381
+Commandant Makono COULIBALY	17991,12
+Commandant Mamadou KANTE	17991,12
+Commandant Mamby KEITA	17991,12
+Commandant Mohamed Boua COULIBALY	18032
+Commandant Naremady KEITA	17991,12
 Commandant OGANDAGA OGANDAGA Wilfried Gaël. ADMINISTRATION	16099
+Commandant Oumar TRAORE Commandant Niagnimé DIARRA	17828
+Commandant Ousmane	17828
+Commandant Ousmane DEMBELE Commandant Yaya DOUCOURE	17828
 Commandant PENDI TSAMBA Avelin	16381
+Commandant Sapeur-pompier Kabaye COULIBALY	17991
+Commandant Sega SISSOKO Commandant Lamine Kapory	17828
+Commandant Souleymane COULIBALY COMMANDANT	17828
 Commandant WOUNDA Jean-Fidèle	16381
+Commandant Youssouf DJIRE Armée de Terre	17982
 Commandant de Police MVINE ANDJAYE Yves	15973
+Commandant de Région	17982
+Commandant de Vu le Décret	17982
+Commandant du Bataillon	17982
+Commandant du CHAPITRE	17982
+Commandant du Groupement	17982
+Commandant du Groupement. LE PRESIDENT	17982
+Commandant du Groupement. Vu le Décret	17982
 Commandants	15703,41,356
 Commande	5907,4786,2831,2409
 Commande N	16534
@@ -86,6 +116,7 @@ Commander	11517,1031,2135,2441
 Commander-in-Chief	13948,1415
 Commandes	16747
 Commandes Publiques	16160,178
+Commandeur	17812,29
 Commandez	14683
 Commands	8278,8739
 Commas	14670
@@ -107,13 +138,16 @@ Deputy Police Commander Major General Kenan	14994
 Direction Télématique du Commandement	15555
 Divisional Commander	14760
 Divisional Commanders. Responding	14760
+Djibril KONE Commandant ABC	17828
 Département de La Likouala Commandant	15524
 Département des Plateaux Commandant	15524
 Département du Pool Commandant	15524
 EQUIPEMENT Commandant	16100
 ET SUD-OUEST EN TROIS COMMANDES	16534
+Economie Maritime Commandant	17895
 Enugu State Command Abia State Command	8471
 Envoi Commande	14480
+Etat Alousséni SANOU Commandeur	18063
 FCT Police Command	11704
 FORCES ARMEES CONGOLAISES Commandant PAMBOU TCHICAYA	15744
 Financial Industry Command Security Operations Centre	14691
@@ -125,6 +159,7 @@ Guinea Bissau Guinea-Bissau's High Military Command	17095
 Guinea-Bissau’s High Military Command	17095
 HOL Danab Commandos	3610
 Haut Commandement	16143
+Houmani CAMARA Commandant Yacoub Ag SIDI	17828
 ICT Command Center	13987
 INFANTERIE COMMANDEMENT DES ECOLES Commandant BOUMPOTOU	15744
 INFANTERIE Commandant OYENGA	15744
@@ -134,7 +169,14 @@ Integrated Command	6866,5444
 Intelligent Command System	259
 Junior Officer's Command Course	13361
 Kano State Command Lagos State Command	8471
+Le Commandant	17982
 Le Commandant Central des Unités Territoriale	15918
+Le Commandant Harouna SANGARE	17982
+Le Commandant de Compagnie	17982
+Le Commandant du Groupement	17982
+Les Commandants de Compagnie	17982
+Les Commandants de Compagnies	17982
+Les Commandants des Groupements Il	17982
 Lettres Commandes	10975
 MAE BELFENDES Faysal Commandement	15472
 MARINE NATIONALE Commandant MONABEKA	15744
@@ -161,6 +203,7 @@ Operationalization of Districts Emergency Command Centre	14935
 Ouvrages de Commandement	15999
 PMSM Commissioner of Police Overall Command	14760
 POLICE GENERALE Commandants	16100
+PORTANT NOMINATION D’UN COMMANDANT DE REGION	17982
 PR Commandants	16100
 PRESIDENCE DE LA REPUBLIQUE A- COMMANDEMENT	16100
 PRESIDENCE DE LA REPUBLIQUE Commandant NAKATOUMA-FILA	16100

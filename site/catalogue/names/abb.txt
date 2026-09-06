@@ -16,9 +16,11 @@ ABBREVIATIONS ADR Adverse Drug Reaction API	9855
 ABBREVIATIONS ADSL Ligne D'abonné Numérique	15541
 ABBREVIATIONS AGO Automotive Gas Oil AI	718
 ABBREVIATIONS AI	14879
+ABBREVIATIONS ANAM National Agency for Medical Assistance	17906
 ABBREVIATIONS AND ACCRONYMS ARFEM Association Rwandaise	14935
 ABBREVIATIONS AND ACRONYMS	13295,2116,282,297,1124
 ABBREVIATIONS AND ACRONYMS ACE Africa Coast	16926
+ABBREVIATIONS AND ACRONYMS ACF Action Against	17849
 ABBREVIATIONS AND ACRONYMS ACNIC Assemblée Congolaise	15372
 ABBREVIATIONS AND ACRONYMS ACTE Agency for Strengthening	15411
 ABBREVIATIONS AND ACRONYMS ACVs Contracting and Auditing	10829
@@ -28,6 +30,7 @@ ABBREVIATIONS AND ACRONYMS AF Additional Financing	11417,507,4972
 ABBREVIATIONS AND ACRONYMS AFD Agence Francaise	15969
 ABBREVIATIONS AND ACRONYMS AFD French Development	15659
 ABBREVIATIONS AND ACRONYMS AI Artificial Intelligence	17114
+ABBREVIATIONS AND ACRONYMS AMA Administrative Master	17962
 ABBREVIATIONS AND ACRONYMS ANE CERC CERC	1228
 ABBREVIATIONS AND ACRONYMS ANSSI National Cybersecurity	16384
 ABBREVIATIONS AND ACRONYMS APL Adaptable Program	16614
@@ -75,7 +78,7 @@ ACRONYMS AND ABBREVIATIONS EXECUTIVE SUMMARY Introduction	12701
 ACRONYMS AND ABBREVIATIONS SECTION	15790
 ACRONYMS Abbreviation Full	11261
 AI List of Abbreviations AI Artiﬁcial Intelligence	1204
-APL Adaptable Program Loan ARAP Abbreviated	15511
+APL Adaptable Program Loan ARAP Abbreviated	15511,2351
 Abba Brice	16545
 Abba Kyari. Akuma	1250
 Abbad Reda	9082
@@ -100,7 +103,7 @@ Abbreviation Description NPA National Prosecuting Authority	11250
 Abbreviation Expansion PPP Public Private Partnerships	12917
 Abbreviation Full	11261,3529
 Abbreviation Full Wording CCS Collective Sudan	6947
-Abbreviations	582,618,614,10,406,3550,646,4288,49,49,107,212,3,124,28,1248,6,362,49,431,340,1174,101,67,65,115,171,103,1113,296,69,144,149
+Abbreviations	582,618,614,10,406,3550,646,4288,49,49,107,212,3,124,28,1248,6,362,49,431,340,1174,101,67,65,115,171,103,1113,296,69,144,149,580
 Abbreviations AACB AFI AI AML AML	11134
 Abbreviations ABN Acknowledgement of Birth Notification AG	12151
 Abbreviations ACF ASYCUDA Cloud Framework AEO	13042
@@ -126,6 +129,7 @@ Abbreviations Chapter	17289
 Abbreviations DQAF Data Quality Assessment Framework	12902
 Abbreviations FAO Food and Agriculture Organization	15129
 Abbreviations HMIS Health Management Information System	3791
+Abbreviations HP Health Post SAM Severe	17869
 Abbreviations Results	10793
 Abbreviations Table	12961
 Abbreviations Term Description ACE Africa Coast	11552
@@ -145,6 +149,7 @@ Abby May for Open Secrets	7910
 Abbès Aïn Berda Eulma Berrahel	15690
 Abbé Venant Mpozako	13405
 Abdallah Wahib Jabbour ABBREVIATIONS AND ACRONYMS	15511
+Abdatt Abba Bouhoubeini	17895
 Abdo Said Abdo. ABBREVIATIONS AND ACRONYMS	13860
 Acronyms and Abbreviations	970,5862,114,4304,901,523,304,368,1509,204,388,33,1495,17,124,144
 Acronyms and Abbreviations ACP Africa	970
@@ -183,7 +188,7 @@ Contents Abbreviations	4127,7425,1396
 Contents Abbreviations and Acronyms	13359
 Contents List of Abbreviations Table of Contents I	17745
 DGEC-EPPNF DGENF DGESS DTICE ABBREVIATIONS	15743
-Digital Economy Abbreviation	13084,675,2084,1,2,819,380
+Digital Economy Abbreviation	13084,675,2084,1,2,819,380,880
 Digital Lilangeni Design Paper List of Abbreviations	11130
 Digital Nation. ABBREVIATIONS AI Artificial	16915
 Djeina Issa Kalidi. ABBREVIATIONS	13897
@@ -318,6 +323,7 @@ SOO UHC WBG ABBREVIATIONS AND ACRONYMS	11468
 STAKEHOLDER ANALYSIS ACRONYMS AND ABBREVIATIONS ATI	12973
 SZI. Abbreviations	13308
 Samuel Lantei Mills ABBREVIATIONS AND ACRONYMS	16922
+Sati Achath ABBREVIATIONS AND ACRONYMS ACE	17862
 Selected Abbreviations MIS	14948
 Shuaib Shamrouk Contents ABBREVIATIONS	15118
 Sidi Bel Abbès	15456,11,396,67,13,287,114
@@ -346,6 +352,7 @@ Table of Contents Acronyms and Abbreviations	6832
 Tanya Savrimootoo ABBREVIATIONS AND ACRONYMS AFD	15661
 Translated Document ABBREVIATIONS AND ACRONYMS AAI	13731
 User Contents List of Abbreviations	14745
+Yahya ABBE	17871
 Yoonyoung Cho ABBREVIATIONS AND ACRONYMS	15138
 Yuri Liman Handem ABBREVIATIONS AND ACRONYMS	11549
 ZAMBIA INSTITUTE TABLE OF CONTENT Abbreviations	13308

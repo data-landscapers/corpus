@@ -58,8 +58,15 @@ Elevada	11448,4087
 Elevado	11557,4127
 Elevado Desempenho	11387
 Elevados	1701,9868,324
-Elevage	737,1887,1,5644,1284,115,1207,2466,34,15,223,230,705,71,3,40,714,124,499,617,4,21,4,939
+Elevage	737,1887,1,5644,1284,115,1207,2466,34,15,223,230,705,71,3,40,714,124,499,617,4,21,4,939,228,5,10,1,13,3,32,10,59,38,20,29
+Elevage Actes Réglementaires Décret	17886
 Elevage Crédit	13390
+Elevage Direction des Stratégies	17844
+Elevage FPSO Floating Production Storage and Offloading	17907
+Elevage Laboratoire du CHU du Point G	17841
+Elevage MEDD Ministère	17873
+Elevage N	18032
+Elevage PTF Partenaires Techniques	17873
 Elevage Sénat	13341
 Elevage des Pêches	15542
 Elevage des Volailles	10830
@@ -67,6 +74,7 @@ Elevage. Au	13375
 Elevar	1701
 Elevate	5551,9196
 Elevate Customer Satisfaction and Experience	3487
+Elevate Mauritanian	18039
 Elevate Nation’s Technological Capacity	12279
 Elevate WASH	17260
 Elevate the EMIS	13310
@@ -92,7 +100,7 @@ Eleventh Review Under the Extended Credit Facility	17326
 Eleventh Revision	12338
 Eleventh Schedule	14809,34
 Eleventh and Twelfth Schedules	14843
-Elever	13290,51
+Elever	13290,51,4522
 Eleveur	737
 Eleveurs	737
 Elevé	6959,8624
@@ -125,6 +133,7 @@ Elevé Lutte	15583
 Elevé Monitoring	15583
 Elevé Moyen	15583
 Elevé Moyen Elevé Filtrage	15583
+Elevé Moyen Faible Tableau	17879
 Elevé Moyen Informatique	15583
 Elevé Moyen Moyen	15583
 Elevé N	15583

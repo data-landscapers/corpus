@@ -1,5 +1,8 @@
 ACCIDENT OR INCIDENT REPORT	14528
 ANSI INCITS	1009,11996
+AVANTAGES ET INCITATIONS ACCORDÉS	17898
+AVANTAGES ET INCITATIONS DU RÉGIME DES	17898
+AVANTAGES ET INCITATIONS POUR LE RÉGIME	17898
 Act. Zambia Cyber Incident Response Team	2727
 African Network of Incident Response Teams	5677
 Algeria Launches Sectoral Cyber Incident Response	6657
@@ -28,7 +31,7 @@ Center Computer Security Incident Response Team	4653
 Central Cyber Incident Reporting and Feedback Framework	6936
 Central Payment Incident	13452
 Central de Incidentes de Cheques CPMI	17032
-Centrale des Incidents de Paiement	13452,3490
+Centrale des Incidents de Paiement	13452,3490,957
 Centrale des Incidents de Paiement La Banque	13452
 Circulação de Veículos Incidência- Taxas-Notas Taxa	17100
 Computer Incidence Response Team	958
@@ -91,12 +94,14 @@ Establish the Incident Response NCC MOPT	1777
 Establish the Incident Response Task Force	1777
 Establishment Of The National Computer Incident	2256
 Exploração Florestal Incidência- Taxas-Notas Taxa Lei	17100
+F7F14F1 Probabilité Incidence	18063
 FORMULÁRIO INCIDENTES	11413
 Faster Incident Response SOC	13532
 Finance CFI Computer Incident Response Team	12444
 Forensics Investigation Incident	9123
 Forum for Incident Response and Security Teams	5780
 Forum of Incident Response and Security Teams	1264,513,3900,5087,147,1714,2879,640,792
+GESTION DES INCIDENTS DE PAIEMENT	17833
 GHG Forum of Incident Response and Security Teams	16144
 Gambia Computer Security Incident Response	1000,16386
 Gambia Computer Security and Incident Response	17386
@@ -133,6 +138,7 @@ INCITS	13005
 INTERPOL Incident Response Teams	17023
 IRPS Incidência Sobre	12018
 IV INCITER LA PARTICIPATION DU SECTEUR	16037
+IV. Inciter	17894
 Identification des Incidents	15472
 Improved Incident Response Capabilities	5677
 Inadequate Incident Detection and Response Capabilities	5677
@@ -140,7 +146,7 @@ Inciativas	11569
 Incibadora InoDevGB	17036
 Incidam	11901
 Incide	12018
-Incidence	737,10680,1529,94,285,1919,480,1,120,56,427
+Incidence	737,10680,1529,94,285,1919,480,1,120,56,427,1539,78
 Incidence Rate	10780
 Incidence Response	10721
 Incidence Response CIRMR-IRP.S3	10721
@@ -150,7 +156,7 @@ Incidence and Intensity for Household	15244
 Incidence and Intensity for Households	15244
 Incidence of Abortion	13040
 Incidences	1988,9998,960,567,2388
-Incident	1777,163,48,724,1175,723,522,1300,147,380,589,753,596,1824,115,1116,301,49,98,605,66,310,151,187,706,429,65,230,15,471,509,226,344
+Incident	1777,163,48,724,1175,723,522,1300,147,380,589,753,596,1824,115,1116,301,49,98,605,66,310,151,187,706,429,65,230,15,471,509,226,344,1119,63
 Incident Coordination Determining	775
 Incident Database	9968
 Incident Handling	14759
@@ -222,7 +228,7 @@ Incidentes de Segurança Cibernética Sectoriais	6970
 Incidentes de Segurança Digital	15899
 Incidentes de Segurança Informática	4218,5008,6278
 Incidentes de Seguridad Informática	16965
-Incidents	1777,161,1645,1950,2489,2741,274,102,701,3040,201,820,7,267,667,128
+Incidents	1777,161,1645,1950,2489,2741,274,102,701,3040,201,820,7,267,667,128,854
 Incidents Cybernétiques	16296
 Incidents Incident	15164
 Incidents Informatiques	2695
@@ -238,14 +244,15 @@ Incinerated	15206
 Incinerators	1988
 Incinerators The Ministry	14746
 Incineração de Materiais Eleitorais	11561
+Inciné	18014
 Incinérateurs	16681
 Incinérer	14488,1,1
 Incipiente	12142
 Inciso	17022
-Incitation	10876,1068,3598,46,740
-Incitations	15588
+Incitation	10876,1068,3598,46,740,1528
+Incitations	15588,2268,42
 Incite	15564
-Inciter	998,7,5822,2064,4399,2184,68,257,2,744
+Inciter	998,7,5822,2064,4399,2184,68,257,2,744,1349,89
 Inciter la Définition	13433
 Incivisme	10858,4684,298
 Incoterms. Incidental	13185
@@ -258,14 +265,17 @@ Intermediate Level GIAC Certified Incident Handler	15662
 JEFATURA TOTAL DIRECTIVO INCIDENTES Y INFRAESTRUCTURAS	4209
 KEY INCIDENTS AND CHALLENGES IDENTIFIED	10049
 Kenya Computer Incident Response Team Coordination	17745
+LE RÉGIME INCITATIF DE BASE Ce	17898
 La Centrale des Incidents de Paiement	11944
 Lack of Efficient Help Desk Mechanisms for Incident	14546
 Launch of National Incident Response Center Somalia	5338
+Le Régime Incitatif de Base	17913
 Lesotho Communications Sector Computer Security Incident	12759
 Lixo Incidência- Taxas-Notas	17100
 Location of Incident	17114
 Lubrificantes Incidência- Taxas-Notas Taxa Gasolina	17100
 MALARIA INCIDENCE	16892
+MALI Probabilité Incidence	18063
 MATTERS INCIDENTAL TO INVESTIGATIONS	3714
 MATTERS INCIDENTAL TO INVESTIGATIONS Expenses	3714
 MDAs. Incident	14674
@@ -328,7 +338,10 @@ Performance Metrics Inciuded	3972
 Pesca Incidência- Taxas-Notas Taxa Lei	17100
 Plan for National Large-Scale Incidents. Develop	1777
 Policy NCIRT National Computer Incidence Response	12973
+Pour le Régime Incitatif de Base	17898
 Poverty Incidence	11998,3246
+Probabilit Incidence	18063
+Probabilité Incidence	18063
 Qe7FtjalG The Namibia Cyber Security Incident	5794
 RESPOSTAS AOS INCIDENTES INFORMÁTICOS	10747
 RW-CSIRT Report Incident	9125
@@ -340,12 +353,14 @@ Republic of Liberia LAA Addresses Runway Incident	16961
 Republic of Liberia National Incident Response Capacity	1777
 Rwanda Computer Security Incident Response	9125
 Rwanda Computer Security Incident Response Team	3243,5882
+Régime Incitatif de Base	17898,15
 SADC Regional Computer Incident Response Team	12918
 SECÇÃO II Notificação de Incidentes de Segurança Cibernética	6970
 SH REPORTING FORMAT INCIDENT DETAILS Nature	17114
 Safety Incident	1988
 Scotland. Incident Ready	3279
 Security Incident Management Maturity Model	7736,1734
+Security Incident Response Team	17862
 Security Incident Response Team Congo Telecom	15553
 Security Operations and Management Incident	9123
 Serious Incidents	16212

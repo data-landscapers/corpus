@@ -5,8 +5,14 @@ ADDED TAX MEASURES	13122
 ADMINISTRATIVE MEASURES THAT SUPPORTED REVENUE COLLECTION	14985
 AI Everything MEA	16131,71
 AI Everything MEA Opens	16131
+AI Measure	17884
+AI Measures	17884
+AI R&D Measures	17884
+AI Research Measures	17884
+AI and Data Science Measures	17884
 AIDS PMT Proxy Means Test SIM	16867
 AISIO Measurable Adoption Grand Challenge	12512
+ANEH Obligatoire Santé ANSSA MEASURE Monitoring	17845
 ANNEX III PROPOSED MEASURES AND INDICATORS	16966
 ANNEX VIII SUPPORTING MEASURES	16843
 ANNUAL MEAN CONCENTRATIONS OF FINE PARTICULATE	16892
@@ -279,6 +285,7 @@ IMPLEMENTATION OF FISCAL POLICY MEASURES	7695
 IMPLEMENTATION OF MEASURES IN THE GOVERNMENT	14773
 IMPLEMENTATION RISKS AND MEASURES FOR MITIGATION	12675
 INCOME TAX MEASURES	13122
+ITN’s Measuring the Information Society Report	17870
 ITU Manual for Measuring ICT Access	17743
 ITU Universal and Meaningful Connectivity	6793,6856
 ITU's Measuring Digital Development	9616
@@ -317,11 +324,13 @@ Indicators Name Measured	13392
 Individual Measures	13992
 Initial Targets Measurable Targets Responsible Ministry	16872
 Installation Phase Measures	17114
+Institut Polytechnique Rural de MEA-SG	17827
 Institute for Health Measurement	13022
 Institutions Time Bound Measurable Target Supporting	1000
 Interim Milestones Target Measure Baseline	11857
 Interim and Preventive Measures	3861
 Interim and Preventive Measures Upon	3861
+International Cooperation Measures	17884
 Interoperability Was Meant	6362
 Interoperable Data Privacy Measures	11956
 Interoperable Data Privacy Measures Article	11956
@@ -369,6 +378,7 @@ MEA03 Managed	9237
 MEACARD	14487,29
 MEAD de Tanger. Dans	17445
 MEADD	11604
+MEADD-SG	17827
 MEADEN	15542
 MEAIndia	17542
 MEAN DISEMPOWERMENT SCORE AMONG DISEMPOWERED	17127
@@ -383,7 +393,8 @@ MEANS TESTS	16867
 MEASLES-CONTAINING-VACCINE SECOND-DOSE	16892
 MEASUR EMENT BASEL INE	13938
 MEASURE	396,11859
-MEASURE Evaluation	771,12543,1120,8,1569
+MEASURE EVALUATION	17882
+MEASURE Evaluation	771,12543,1120,8,1569,1834,248
 MEASURE Evaluation's Knowledge Management	14434
 MEASURE Evaluation. Global	12255
 MEASURE Evaluation. Health Information System Stages	12255
@@ -409,11 +420,12 @@ METHODS AND MEANS OF MAKING REQUESTS	13484
 METROLOGY AND MEASUREMENT. PHYSICAL PHENOMENA	16900
 MITIGATION MEASURES	12253
 MITIGATION MEASURES Data	12253
+Mali Digital Economy Diagnostic Measures	17870
 Management Information System Unit of Measure Baseline	15601
 Management System M&E Monitoring and Evaluation MEAL	15604
 Mandate Mitigation Measures	12675
 Mandatory Coherence Measures	3861
-Manual for Measuring ICT Access and Use	11424,920,1754,1519,1323
+Manual for Measuring ICT Access and Use	11424,920,1754,1519,1323,937,1
 Mary's Meals and Nascent Solutions	12175
 Meacham	11135
 Meaden	3680
@@ -441,7 +453,7 @@ Mean Time To Repair	16195
 Mean Time To Repair NDHSP	16041
 Mean VHI	11762,1988
 Mean for Economic Inclusion	12227
-Meaning	573,12,676,2453,544,2110,267,5535,746,395,76
+Meaning	573,12,676,2453,544,2110,267,5535,746,395,76,4519
 Meaning ABIS Automated Biometric Identification System	11218
 Meaning DPSA Department of Public Service and Administration	11218
 Meaning NRF National Revenue Fund OCSLA	11218
@@ -527,7 +539,7 @@ Measurable Target Supporting Responsibil Agencies	1000
 Measurable Target Supporting Responsibil Agency	1000
 Measurable Targets	16884,91
 Measurable Targets Responsible Ministry	16872
-Measure	899,59,1030,688,1763,3482,2172,742,3,130,36,46,83,724,13,16,3,75,174,16,99,88,11,1,135,186,1,2048,649,269,1298,8,16,136,15,35,8,210
+Measure	899,59,1030,688,1763,3482,2172,742,3,130,36,46,83,724,13,16,3,75,174,16,99,88,11,1,135,186,1,2048,649,269,1298,8,16,136,15,35,8,210,517
 Measure Access	17149
 Measure Baseline Original Target Households	15601
 Measure Description Measure Water	17157
@@ -545,12 +557,12 @@ Measure Type Details Responsible Party Operational	17157
 Measure Value Rank Unit GDP	10837,1503
 Measure and Early Evidence	7151
 Measure the Contractor	12253
-Measured	2775,3470,422,2225,2248,3583,2169
+Measured	2775,3470,422,2225,2248,3583,2169,1077
 Measured Entity	11235
 Measured FSC Financial Services Commission GBC	14777
 Measured Return Early Stage	4972
 Measureme	12360
-Measurement	961,251,72,3148,431,2309,1111,2561,26,286,113,552,619,60,478,75,267,65,7,269,1062,13,44,247,7,96,973,602,138,57,11,168,664
+Measurement	961,251,72,3148,431,2309,1111,2561,26,286,113,552,619,60,478,75,267,65,7,269,1062,13,44,247,7,96,973,602,138,57,11,168,664,226
 Measurement ASYREC ASYCUDA Relief Emergency Consignment	13042
 Measurement Bandwidth Block	14780
 Measurement Base	14736
@@ -577,7 +589,7 @@ Measurement-Lab	11857
 Measurements CHAPTER	12616
 Measurements Record-Keeping CHAPTER	12616
 Measurements of Outages	14867
-Measures	970,294,210,212,91,100,111,1595,598,402,662,288,261,1113,205,436,398,75,660,448,726,909,1,10,5,49,27,76,118,85,42,39,73,180,1,54,333,108,28,208,13,39,103,111,196,12,298,32,31,1,258,15,36,158,120,244,136,405,25,124,116,68,138,13,14,40,50,37,96,19,15,208,39,69,12,26,35,106,101,1079,13,26,5,1,1,2,13,43,8,19,8,18,21,88,9,26,17,8,276,62
+Measures	970,294,210,212,91,100,111,1595,598,402,662,288,261,1113,205,436,398,75,660,448,726,909,1,10,5,49,27,76,118,85,42,39,73,180,1,54,333,108,28,208,13,39,103,111,196,12,298,32,31,1,258,15,36,158,120,244,136,405,25,124,116,68,138,13,14,40,50,37,96,19,15,208,39,69,12,26,35,106,101,1079,13,26,5,1,1,2,13,43,8,19,8,18,21,88,9,26,17,8,276,62,367,14,25,41
 Measures After Spate of Fatal Crashes Big	6077
 Measures Against Privacy Breach Abetment	11956
 Measures Against Privacy Breach Abetment Article	11956
@@ -594,6 +606,7 @@ Measures Mr Speaker	13387
 Measures Responsibility	17114
 Measures Responsibility Fall	17114
 Measures and Constraints	12467
+Measures and Financial Inclusion	17870
 Measures and Instruments	16861
 Measures and Suspends Five	13477
 Measures of Success	8184
@@ -626,7 +639,7 @@ Measuring the Impact of Terrorism. Sydney	15715
 Measuring the Inclusion of DPI Deployments FIGURE	13095
 Measuring the Informal Economy	13624
 Measuring the Information Society	1243,10019
-Measuring the Information Society Report	15480
+Measuring the Information Society Report	15480,2390
 Measuring the Information Society Report. ICT Price	15471
 Measuring the Returns	14723
 Measuring the State of Civil Registration and Legal Identity	10822
@@ -658,6 +671,7 @@ Mitigation Measures and Residual Risks Table A.1	15658
 Mitigation and Control Measures	14761
 Mitigation and Management Measures Environmental	17114
 Moderate. Measures	1264
+Monetary Transfers Program and Accompanying Measures	17906
 Monitoring and Enforcement Measures	15198
 Monitoring and Measuring Digital Success Develop	11231
 Monitoring of Environmental and Social Measures	15411
@@ -665,6 +679,7 @@ Mr. Paul Meadows	16848
 Multidimensional Poverty Measurement Methodology	15244
 Multidimensional Poverty Measurement and Analysis	15244
 N CYBER-ICT CONFIDENCE BUILDING MEASURES CBMs	16594
+NASA’s Global Precipitation Measurement and IMF Staff	17909
 NCA Tower. Greenwich Meantime	775
 NEC Plans Tough Measures	17419
 NON-TAX REVENUE MEASURES	13122
@@ -676,6 +691,7 @@ National Measurement Standards Laboratories	13320
 National Measurement Standards. Future Project	14736
 National Report Measurement	958
 National School Meals	15604
+National School Meals Programme	17934
 Niamey. Measured	15424
 Nimba County Superintendent Kou Meapea Gono	17190
 Nimba County Superintendent Kou Meapeh Gono	17416
@@ -762,6 +778,7 @@ REMEDIAL MEASURES AND ADMINISTRATIVE SANCTIONS	16878
 REMEDIAL MEASURES AND OFFENCES	14728,2
 REMEDIAL MEASURES AND SANCTIONS Prohibition	12938
 REVENUE POLICY AND ADMINISTRATIVE MEASURES	13122
+RSF Reform Measure	17990
 Radio Audience Measures RDP Reconstruction and Development	11192
 Real-Time Review of Country Measures	10763,6139
 Recognition and Measurement IPSAS	14736
@@ -774,9 +791,11 @@ Recurrent Continuous In Progress Measurement Finance	10870
 Redundancy Measures	2677
 Reform Measures	17257
 Regulatory Framework Measurable Targets Responsible Ministry	16872
+Related Measures	17870
 Remarks Risk Mitigating Measures Incorporated	15411
 Remedial Measures and Administrative Sanctions	14647
 Research and Development Time Bound Measurable Target	1000
+Research and Innovation Measures	17884
 Responsibility Timing Completion Measurement Page	16032
 Responsibility Timing Completion Recurrent Measurement CCDB	11905
 Results Framework and Performance Measurement	17116

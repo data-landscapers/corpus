@@ -1,6 +1,6 @@
 ADM STAFF	13722
 ADM STAFF At Approval At ICR	15424
-ADM STAFF Role At Approval	11924,3739,68,1221
+ADM STAFF Role At Approval	11924,3739,68,1221,897,13,100
 AFRINIC Staff Assessment	12058
 AI By Staff Writer	5515
 AI Skills Training for Staff	13095
@@ -23,9 +23,10 @@ Assessment Schedule Workload Staffing Indicator Needs	14622
 Assistant MNCMA Non Bank Staff Name	17441
 Assistant Staff Officer	3691
 Availability of Software and IT Staff	13042
-B. STAFF TIME	11924,4512
+B. STAFF TIME	11924,4512,1526
 B. STAFF TIME AND COST Stage	15424
 B. Staff of National Identity Card Unit	14716
+BCM. Staff	17990
 Bank Staff Name Role Title Specialization	15411
 Bank Team Composition Bank Staff Name	17441
 Bansang General Hospital Staff Quarters	16896,26
@@ -41,7 +42,7 @@ CEO By Staff Writer	7478
 CHAPTER TEN THE SECRETARIAT AND STAFF	14409
 COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT	6477
 CONASUR. UNHCR PRESENCE Staff	10864
-COST Stage of Project Cycle No. of Staff	11924
+COST Stage of Project Cycle No. of Staff	11924,6038
 Cambodia Customs Staff	16631
 Capacity Building Programmes for Staff. CLASSIFICATION	15927
 Care Quality of Care and Clinical Governance Staff	7761
@@ -64,6 +65,7 @@ Communications and Environmental Support. Staff	15372
 Comoros By Staff Writer	5152
 Conditions PROJECT TEAM Bank Staff Name	11525
 Consultancy Staff Hiring	16867
+Copernicus Sentinel-2 and IMF Staff	17909
 Correctional Staff College	13123
 Cost Based Selection REC Strategic Staffing	17441
 Counterpart Staff and Facilities	13037
@@ -91,6 +93,7 @@ EXPENSES Staff	14736
 Eastern Cape By Staff Writer	8077
 Editorial Staff	8246
 Editorial Staff. Last	6629
+En Staff	17827
 End-Of-Year Staff Party	11134
 End-of-Year Staff Party Celebrations	11134
 End-of-year Staff Party	11134
@@ -114,6 +117,7 @@ Gender Distribution Among Management Staff	12951
 Gender Distribution of RGD Staff Figure	14761
 Gender Staffing Proportion	14738,7,1
 General Services Staff	14745
+General Staff	17934
 GovTech. Staff Discussion Note	1828
 Government Staff	11940,313
 Government Technical Staff Lilongwe Weeks	13185
@@ -136,8 +140,9 @@ I STAFF COMPOSITION	3862
 I.6 TRAINING OF COLLECTION STAFF	15574
 ICR DOCUMENT ADM STAFF Role Practice	16436
 IECMS. Staff	13504
-IMF Staff	13624,3633
-IMF Staff Calculations	14777
+IMF Staff	13624,3633,652
+IMF Staff Calculations	14777,3286
+IMF Staff Calculations Note	18063
 IMF Staff Completes	10841
 IMF Staff Country Reports Volume	13624
 IMF Staff Discussion Note	12948
@@ -207,6 +212,7 @@ Minister's Chief of Staff. The PISU	15658
 Minister. Staff	12145,355
 Modou Njie and Chief of Defence Staff Lt	17241
 Municipal Assembly Staff	16163
+NASA’s Global Precipitation Measurement and IMF Staff	17909
 NIDA Staff Council	4534
 NaNA GBoS Number of NaNA Staff	16927
 Name of Staff	13037
@@ -268,6 +274,8 @@ SOE DJIBOUTI DJIBOUTI STAFF REPORT	13868
 SR Staff	16867
 STAFF	12892
 STAFF APPRAISAL	13868,3341,48,69,177
+STAFF APPRAISAL 24 FIGURES	17990
+STAFF APPRAISAL 29 BOXES	17909
 STAFF ASSESSMENT AND PRIORITY RECOMMENDATIONS Approved	14777
 STAFF BOARD	2727
 STAFF COST	14736
@@ -276,7 +284,7 @@ STAFF COSTS	14736
 STAFF LEVELS	13420
 STAFF OF THE COMMISSION	1220
 STAFF PROFILE	3862
-STAFF REPORT	13741,127,1161,444,1736,48,246
+STAFF REPORT	13741,127,1161,444,1736,48,246,406,81
 STAFF REPORTER The Ministry of Justice	13014
 STAFF STATEMENT	17209
 STAFF SUPPLEMENT	17257
@@ -303,7 +311,7 @@ Senior Statistical Officer Support Staff Finance	14835
 Sidie Tunis Suspends Staff Recruitment	6355
 Skills Needed Number of Staff Weeks Number	15659
 South Africa. By Staff Reporter	12662
-Staff	18,16,361,760,65,41,567,840,10,388,612,113,71,476,558,329,160,63,984,715,442,200,301,5,103,801,68,439,409,303,503,72,19,148,42,128,1,3,46,67,24,193,476,15,31,159,63,23,22,60,45,31,56,55,31,228,133,8,20,6,24,12,15,7,21,48,69,188,4,33,34,39,57,27,17,11,1,91,244,123,44,130,126,119,12,71,82,19,142,2,22,1,12,4,118,1,38,51,12,167,208,39,193,55,4,56,313,798,21,7,9,56,4,8,14,14,5,2,1,128,5,10,2,22,11,60,33,15,1,59,9,38,139,116
+Staff	18,16,361,760,65,41,567,840,10,388,612,113,71,476,558,329,160,63,984,715,442,200,301,5,103,801,68,439,409,303,503,72,19,148,42,128,1,3,46,67,24,193,476,15,31,159,63,23,22,60,45,31,56,55,31,228,133,8,20,6,24,12,15,7,21,48,69,188,4,33,34,39,57,27,17,11,1,91,244,123,44,130,126,119,12,71,82,19,142,2,22,1,12,4,118,1,38,51,12,167,208,39,193,55,4,56,313,798,21,7,9,56,4,8,14,14,5,2,1,128,5,10,2,22,11,60,33,15,1,59,9,38,139,116,290,53,28
 Staff Age Distribution	12969
 Staff Age Distribution Figure	12969
 Staff Appraisal	15752
@@ -366,7 +374,7 @@ Staff Profile	3862
 Staff Profile Nigerian Expatriate S	3862
 Staff Profile Staff Categories Staff Gender	12969
 Staff Project	13991
-Staff Report	1830,7061,2106,2627,117,127,1161,723,1457,48,69,177
+Staff Report	1830,7061,2106,2627,117,127,1161,723,1457,48,69,177,406,81
 Staff Reporter	3388,4619,407,1657,555,2044,489,35
 Staff Reporter CABINET	13015
 Staff Reporter Jul	2888,32,354,504,1444,877,6,100,680,129,293,115
@@ -472,6 +480,7 @@ Training of Staff SPS	16867
 Transformation A Deputy Chief of Staff	8371
 Trees Planted Number of Trees Planted Staff	6946
 U.S. Government Staff	4167
+U.S. and Local Staff	17883
 UNHCR PRESENCE Staff	16580
 UTG Staff	17437
 Universal Service Fund and CA Staff Loan	6946
@@ -481,7 +490,7 @@ WCO Gender Training Equips LRA Staff	17258
 WIRED Staff	6517
 WTO Staff Working Papers ERSD-2021-5. World	10718
 Wastewater Renewable Energy Agency Senior Staff	14745
-Weeks Staff Time	11924
+Weeks Staff Time	11924,6038
 Workload Indicators of Staffing Need	14662
 Workload Staffing Indicator Needs	14622
 Yorro Bawol Staff Quarters	16922

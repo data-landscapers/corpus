@@ -1,5 +1,6 @@
 AIDS and TB	771,11958
 Achèvement TBFS	737
+Acute Malnutrition SC Sick Child TB	17869
 Africa TBD	14997
 Angola TB	10784
 Annual TB	4301
@@ -18,7 +19,9 @@ Components RESULT FRAM E TBL IO Indicator Name PBC	15518
 Components RESULT FRAME TBL IO Indicator Name PBC	1284,9545,2503,2221,1343,26
 Components RESULT FRAME TBL IO Indicator Name PBC Baseline	1228
 Components RESULT FRAME TBL IO PBC Baseline Intermediate	10964
+Concept TBS	18014
 Curing TB	4260
+D TBM	17945
 Data Storage TBA TBA	1988
 Desktops TBA	1988
 Document Scanners TBA TBA	1988
@@ -144,6 +147,7 @@ TB Capacity for M365 Backups Software Implementation	11209
 TB Capacity for Production Backups Add Additional	11209
 TB Cases	16971
 TB Commodity	4301
+TB Country Profile	17869
 TB DDR5 ECC RAM	13185
 TB Deaths	4167,50,1135
 TB Dispensaries	10784
@@ -173,6 +177,7 @@ TB TREATMENT SUCCESS RATES	16892
 TB TRIAGE	12678
 TB Treatment Success	12922
 TB Treatment Success Rate	16971
+TB Tuberculose UE Union Européenne UM	17843
 TB Tuberculosis UHC Universal Health Coverage	12729
 TB Tuberculosis WHO World Health Organization	771
 TB and ART	12976
@@ -240,7 +245,11 @@ TBL Molefe	10793
 TBL OLD Overall Achievement of Objectives	10779
 TBMPE	2966
 TBS Filles	2966
+TBS Plus	18014
+TBS Plus Supérieur	18014
+TBS Taux	17885
 TBS Transportable	12911
+TBS. Cela	18014
 TBS. Email	11654
 TBS. Under	5116
 TBSI Tableau de Bord de Suivi des Indicateurs TdC	10712
@@ -269,6 +278,7 @@ Tbps Traffic Milestone	2754
 Tbps. Capacity	4676
 Tbps. Cette	16641
 Tbps. Cybaston	16961
+Tbps. Dans	17823
 Tbps. Financed	627
 Tbps. In the Mediterranean	15941
 Tbps. Medusa	4676
@@ -293,6 +303,7 @@ WTO TBT Committee	13320
 WTO TBT Enquiry Point for The Gambia	16900
 World TB Day	2626
 Year Gap Portable TB	2857,3026,94
+Year TBD	17958
 ZEMA Licence ZRCP TBA	1988
 ZRCP TBA	1988
 ZRCP TBA Occupational	1988

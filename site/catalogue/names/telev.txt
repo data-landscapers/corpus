@@ -22,11 +22,12 @@ Digital Satellite Television ECMS	958
 Digital Terrestrial Free-To-Air Television Programme Channel	236
 Digital Terrestrial Mobile Television Service Digital	2776
 Digital Terrestrial Pay Television	236,2540
-Digital Terrestrial Television	2776,1328,1883,959,5449,2385
+Digital Terrestrial Television	2776,1328,1883,959,5449,2385,3090
 Digital Terrestrial Television Additional	2776
 Digital Terrestrial Television Additional Services	2776
 Digital Terrestrial Television Broadcasting Frequencies	6946
 Digital Terrestrial Television Broadcasting Frequencies FY	6946
+Digital Terrestrial Television ECOWAS Economic Community	17870
 Digital Terrestrial Television Free-To-Air	2776
 Digital Terrestrial Television Network Only	2776
 Digital Terrestrial Television Population Coverage	6946
@@ -46,6 +47,7 @@ Increase Digital Regulatory Frameworks Terrestial Television	6946
 Independent Pension Plans IPTV Internet-Protocol Televisions	2775
 Internet Protocol Televisions	16884
 Loop DTT Digital Terrestrial Television EPTC	12395
+Mauritania National Television	17934
 Media Television	16926
 Media and Public Awareness Television	14566
 NUMBER OF TELEVISION STATIONS	11211,51

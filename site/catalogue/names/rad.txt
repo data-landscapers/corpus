@@ -2,6 +2,7 @@ ACI Radio ACI TV Bulletins	16092,1,37,97,148,111,41
 AERODROME RADIOCOMMUNICATION RADIO COMMUNICATION	17006
 AFRINIC's Legal Counsel B. Radhakissoon	9612
 AIDES DE RADIONAVIGATION ET D'ATTERRISSAGE RADIO	16552,454
+ANFR French National Radio Frequency Agency	17862
 ATRIBUIÇÃO DE LICENÇAS RADIOELÉTRICAS	11531
 ATU Director for Radiocommunications	7793
 ActuNiger L’hôtel Radisson Blu de Niamey	4657
@@ -82,6 +83,7 @@ Conduct Radio Talk	17116
 Conferencia Mundial de Radiocomunicaciones	8881
 Conferência Mundial de Radiocomunicação	8996
 Conferência Mundial de Radiocomunicações	8854,142,240
+Conférence Mondiale des Radiocommunications	17866
 D Radiotherapy and PET	14745
 D.G. DE RADIO	4209
 DE MODIFICATIONS DIVERSES ET DE RADIATIONS	16249
@@ -166,6 +168,7 @@ HIT RADIO	13324
 HSDU. Radiology	15206
 Homeboyz Radio Gukena FM East FM	9646
 Hôtel Radisson Blu Abidjan Airport. Organisée	17635
+Hôtel Radisson Collection	17983
 I'inlérieur CHAPITRE IV DE LA RADIATION	10813
 IGAD and RAD	14434
 II.3.11. Radiodiffuseurs	13324
@@ -275,8 +278,11 @@ Number of Radio Communication Installations Inspected	6946
 Number of Radio Employees	12395
 Number of Radio Stations	12395
 Nyatefe Radio	9111,8472
+N’GA RAD OUGOU	17828
 OFFICE DE PORTS ET RADES	16175
 ONATEL Internet Informatique Postes Radiodiffusion Ministère	13290
+Office de Radio	17841
+Office de Radiodiffusion Télévision du Mali PIB	17824
 Omar Radi	11820
 Oncology and Radiotherapy	14773
 Operational Public Broadcasting Radio Licensee	12395
@@ -290,11 +296,13 @@ PART VI RADIO SPECTRUM MANAGEMENT	16835
 PART VII Amateur Radio Transceiver Stations	736
 PART VIII Radiocommunication Equipment Dealers and Repairers	736
 PMR Private Mobile Radio PRN Premium	6946
+PORTANT RADIATION DU TABLEAU	17982
 Part Five Radio Activities and Frequency Management	13951
 Partage des Fréquences Radioélectriques	998
 Planned Action Reviewing of Radio Communication	16884
 Point Configuration. PART VI Private Radio	736
 Postbank Black Card. Radio	8999
+Poste Département Radio Département Technique Département	17866
 Pre-recorded Radio Broadcast Program	12970
 Presence SABC Radio	8999
 Private Mobile Radio Station	736,11659
@@ -317,9 +325,10 @@ RAD Consortium	14434
 RAD Nacional Nacional	16864
 RAD Ratio Alumno-Docente RAL Ratio Alumno-Libro	16920
 RAD Regional Action	14434
-RADAR	14635
+RADAR	14635,3347
 RADE Direction	10876
 RADIATION Arrêté	15692
+RADIATION DE MAGISTRAT POUR CAUSE	18003
 RADIATION PROTECTION	13673
 RADIO	13300,24,2420,451
 RADIO AGAKIZA	13324
@@ -348,6 +357,7 @@ RADIO KAZOZA FM	13324
 RADIO LA VOIX D’AFRIQUE	13324
 RADIO MAGARA TIMES FM	13324
 RADIO MARIA BDI	13324
+RADIO MILITAIRE	17982
 RADIO Page	12201
 RADIO REMA FM	13324
 RADIO REMESHAMAHORO	13324
@@ -379,6 +389,7 @@ RM Mozambique Radio SADC Southern African	12201
 RTB Radiodiffusion Télévision du Burkina SAIDI System	15769
 Rada Mihalcea	6948
 Radar Interference Detection	736
+Radar Météorologique	17873
 Radar Station	14738
 Radar Technicians. ZMD	13365
 Radargram of Zambian	12376
@@ -448,6 +459,7 @@ Radio CDN CIBITOKE	13414
 Radio CDO AKAZI NI AKAZI BUJUMBURA	13414
 Radio COLOMBE FM BUJUMBURA	13414
 Radio Centrafrique	15591
+Radio Centre de Santé SD-SNISS Régime	17845
 Radio Communautaire Kivu	10097
 Radio Communication System	14738
 Radio Communications	12538
@@ -522,6 +534,7 @@ Radio Malabo	4209
 Radio Mandji	16175
 Radio Massanga	16175
 Radio Masuku	16175
+Radio Mauritanie	18049,2
 Radio Mondiale DSB Digital Sound Broadcasting	6946
 Radio Mozambique	12201
 Radio Mozambique and TVM	12201
@@ -609,7 +622,7 @@ Radiocommunications ANNEXE	5361
 Radiocomunicações	8854,2677
 Radiodetermination	736,12213
 Radiodiffuseurs	13324,90
-Radiodiffusion	8649,2474,2167,124,2522,679
+Radiodiffusion	8649,2474,2167,124,2522,679,1284
 Radiodiffusion MiniTPT Mininfo Téléphonie	13290
 Radiodiffusion Télévision du Burkina	7670,3429
 Radiodiffusion-Télévision du Burkina	15676
@@ -625,7 +638,7 @@ Radiological Hazards	1988
 Radiologist	16922
 Radiology	14120,653,56,377
 Radiomètre	15715
-Radios	1920,11787
+Radios	1920,11787,4165
 Radios Radios	15698
 Radios and TVs	12358
 Radiosondes	16947
@@ -680,7 +693,7 @@ SAKINDI Radjabu Informaticien	13341
 SMAP Radiometer	13094
 SMS and Radio	12383
 Second Draft National Radio Frequency Plan	11259,3
-Sergiy Radonezhsky Str. Moscow	10764,80,719,6180
+Sergiy Radonezhsky Str. Moscow	10764,80,719,6180,113
 Service Assignment Fee Notes FM Radio	17250
 Service RAG Radiocommunication Advisory Group RAO	6946
 Short Range Radars	12949

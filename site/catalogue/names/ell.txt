@@ -2,6 +2,7 @@ A1-em-cabo-verde Cabo Submarino EllaLink	15505
 ABSU-CEP. Elle	15429
 ACE. Elle	16641
 AFRISTAT. Elle	16250
+AIGE. ELECTIONS Elle	17861
 ANADEN. Elles	13719
 ANAIP. Elle	113
 ANCY. Elle	16370
@@ -34,6 +35,8 @@ BARRICK GOLD. Elle	2342
 BCEAO. Elle	10836,4799
 BNFT. Elle	17588
 BRB. Elle	13452
+Bamako. Elles	18014
+Banque. Elle	17908
 Bas-Oubangui. Elle	15603
 Blidi Elliott	16934,136,121
 Bookshare. Elle	15777
@@ -52,7 +55,10 @@ CEMAC. Elle	11944,3530
 CFA. Elle	16047
 CFA. Elles	16047
 CMIL. Elles	14537
+CNI. Elle	17899
 CNPA. Elles	13781
+CPS-SE. Elle	17830
+CPS. Elle	17830
 CSBF. Elle	14417
 CSBF. Elles	14429
 Cabo Submarino EllaLink	15505
@@ -67,10 +73,11 @@ Chef de Projet. Elle	6675
 Chine. Elle	7716
 Cid Mohamed ELLA	16175
 Claude ELLA NZIET	16381
+Collectivité. Elle	17829
 Commission. Elle	14412
 Communauté Est Africaine. Elle	13414
 Commune. Elles	14444
-Communication. Elle	232
+Communication. Elle	232,17599
 Communicotion. Elle	15397
 Comores. Elle	12102,1605
 Conakry. Elle	16627,79
@@ -101,13 +108,16 @@ David A and Elliott	14675
 Deal Technologique. Elle	10795
 Digital Nation. Elle	3675
 Digitalisation. Elle	3682
+Directeur Général. Elle	17819
 Directeur Général. Elles	15412
 Direction Générale des Impôts du Burkina Faso. Elle	16120
 Direction Générale. Elle	16001
+Dispositif National de Sécurité Alimentaire. Elle	17888
 Djibo-Kongoussi. Elle	15715
 Djibouti. Elle	13939
 Djiboutien. Elle	4402
 Douane. Elle	15729
+Développement Durable. Elle	17983
 EEP. Elle	17449
 ELLA EKOGHA Hubert Claude	16381
 ELLALINK	11863
@@ -127,7 +137,7 @@ Ella Holland	10764
 Ella Link	11965,3719
 Ella Sedricha Prudence	15615
 Ella Wama	8713
-EllaLink	2154,1201,1321,1005,366,456,642,4010,708,28,3585,29
+EllaLink	2154,1201,1321,1005,366,456,642,4010,708,28,3585,29,2391,195
 EllaLink Cable	11155
 Ellalink	2813,542,2692,9429,775
 Ellas	16871
@@ -144,7 +154,8 @@ Ellen Mkondya-Senkoro	7321
 Ellen Summey	6048,979
 Ellerine	14366
 Ellerines	14366
-Elles	12,25,399,129,172,6,4,1,37,446,448,5,227,73,79,279,24,27,43,192,67,73,88,76,34,283,77,11,58,1,181,202,298,172,134,19,57,108,104,13,45,50,72,189,672,54,226,41,130,97,19,295,87,298,310,85,216,70,30,43,1,19,36,14,284,17,21,114,178,101,79,144,170,102,9,57,74,44,101,2,145,85,31,1,23,248,9,302,80,296,12,20,110,69,6,96,8,4,1,32,18,47,11,31,1,83,90,428,186,85,106,1,37,54,1238,19,7,23,1,1,9,7,101,10,16,56,7,15,26,2,128,5,3,9,19,43,131,272,55,23,40,82,28,1,11,1,4,52,7,1,1,47,1,11,21,7,32,41,12,200,430,4,53,1,1,1,9,1,17,11,5,2,8,7,2,12,3,3,2,5,16,9,1,4,3,2,8,3,3,5,7,7,1,17,17,16,2,1,7,7,9,4,6,1,4,4,9,3,9,8,7,21,10,3,12,2,16,9,3,5,2,5,17,2,21,2,11,3,14,51,15,38,32,3,2,61,13,14,11,2,8,16,12,10,14,26,52,18,30,20,4,1,9,12,24,33,21,18,3,51,7,28,45,34,58,20,2,2,4,5,2,8,5,40,31,35,336,302,58,4,1,4,33,7,67,25,4,54,29,112,21
+Elles	12,25,399,129,172,6,4,1,37,446,448,5,227,73,79,279,24,27,43,192,67,73,88,76,34,283,77,11,58,1,181,202,298,172,134,19,57,108,104,13,45,50,72,189,672,54,226,41,130,97,19,295,87,298,310,85,216,70,30,43,1,19,36,14,284,17,21,114,178,101,79,144,170,102,9,57,74,44,101,2,145,85,31,1,23,248,9,302,80,296,12,20,110,69,6,96,8,4,1,32,18,47,11,31,1,83,90,428,186,85,106,1,37,54,1238,19,7,23,1,1,9,7,101,10,16,56,7,15,26,2,128,5,3,9,19,43,131,272,55,23,40,82,28,1,11,1,4,52,7,1,1,47,1,11,21,7,32,41,12,200,430,4,53,1,1,1,9,1,17,11,5,2,8,7,2,12,3,3,2,5,16,9,1,4,3,2,8,3,3,5,7,7,1,17,17,16,2,1,7,7,9,4,6,1,4,4,9,3,9,8,7,21,10,3,12,2,16,9,3,5,2,5,17,2,21,2,11,3,14,51,15,38,32,3,2,61,13,14,11,2,8,16,12,10,14,26,52,18,30,20,4,1,9,12,24,33,21,18,3,51,7,28,45,34,58,20,2,2,4,5,2,8,5,40,31,35,336,302,58,4,1,4,33,7,67,25,4,54,29,112,21,8,3,4,3,3,4,1,1,2,8,1,3,1,6,4,5,6,5,9,1,17,2,12,32,52,6,60,2
+Elles L’Etat	17833
 Elles Page	10876
 Ellie	14746
 Elliot	8247
@@ -178,9 +189,10 @@ FED. Elle	13325
 FELIZANDRO ELLIOTE XAVIER MUNZE	10751
 FOSA. Elle	16722
 Faustin Archange Touadéra. Elle	4346
-Finances. Elle	16006
+Finances. Elle	16006,2009
 First Bank of Nigeria Limited. Elle	3849
 Fonction Publique. Elles	16365
+Formation Professionnelle. Elle	17830
 France. Elle	17544
 G. Elle	14187,1756
 GWh. Elle	15670
@@ -192,12 +204,13 @@ Gestion du Réseau de Transport. Elle	10975
 Giscar ASSOUMOU ELLA	16099
 Global Citizen Festival de New York. Elle	11348
 Globeleq Africa. Elle	10975
-Gouvernement. Elle	436,14961,206
+Gouvernement. Elle	436,14961,206,2466
 Groupe CDG. Elle	17512
 Guinée. Elle	10137,6489,1,46,55
 Gwh. Elle	15670
 H.E. Ellen Johnson Sirleaf	15833
 H.E. Mr. Charles MVE ELLAH	16285
+HL73. Elle	17882
 Hermann Immongault. Elle	16502
 Homme. Elle	429,10397,6614
 Hon. Magdalene Ellen Dagoseh Minister of Commerce	17367
@@ -208,11 +221,14 @@ IA Elle	3993
 IA. Elle	2695,499,874,4038,3999,1804
 IA. Elles	9541
 IMF. Elle	15493
+INDS. Elles	17983
 INSAE. Elles	15418
 INSD. Elle	10874
 INSD. Elles	10874
 INTENSITÉ Elle	14488,1,1
 IPv4. Elle	7010
+ITS. Elle	17819
+IXP. Elle	17823
 Ia. Elle	2856
 Inclusion Financière. Elle	13390
 Instance. Elle	436
@@ -220,7 +236,7 @@ Institut. Elle	10874
 Instruction. Elle	11567,5918
 Internet. Elle	11945
 Interopérabilité Numérique. Elle	15936
-Intérieur. Elle	15727
+Intérieur. Elle	15727,2132
 Iran. Elle	15676
 Ivoire. Elle	2342,3742,9627
 Jean de Dieu Ndikumasabo Elle	13531
@@ -264,6 +280,8 @@ MaPCAD. Elle	10876
 Madagascar. Elle	14495
 Maj. Gen. Ellia Kosta	9122,464
 Makoura Ouatara. Elle	3888
+Mali. Elle	17983,49,31
+Mali. Elles	17978
 Mandji-Ndoulou. Elle	16289
 Mandoul. Elle	9448
 Marie Akpotrossou. Elle	6696
@@ -274,6 +292,7 @@ Maud Adjeley Ashong Elliot	10079
 Maud Ashon Elliot	10557
 Maud Ashong Elliot	8247
 Mauritania EllaLink	2154
+Mauritanie. Elle	17865
 Mbaar Ya. Elle	11686
 Melinda Gates. Elle	13390,2891
 Membre. Elle	15724
@@ -285,6 +304,8 @@ Mme Andrée Lizzy ELLESSOGHO ELLA ONDO	16175
 Mme Armelle MBAZOGHE ELLA SOCIETE GABONAISE	16381
 Mme Dieng. Elle	10493
 Mme ELLESSOGHO ELLA ONDO Andrée Lizzy	16099
+Mobilisation de Financements. Elle	17827
+Monde. Elle	17879
 Monsieur Jean Richard ELLA EYA. Directeur	16175
 Moov Africa Togo. Elle	9973,395
 Mouigni Baraka. Elle	8877
@@ -299,7 +320,7 @@ Niger. Elle	3989
 Niger. Elles	2514
 Nigeria. Elle	9993
 Nina Bissoue. Elle	6877
-Numérique. Elle	7641
+Numérique. Elle	7641,10183
 N’Guessan Koffi. Elle	8895
 OCDE. Elle	17448
 ONCF. Elle	17481
@@ -319,21 +340,31 @@ PACTDIGITAL. Elle	1744
 PARIS21. Elles	15961
 PGES DATA CENTER PRINCIPAL Elles	14489
 PGES DATA CENTER SECONDAIRE Elles	14488
+PNDDR-I. Elle	17899
 PNE. Elle	15799
 PNER. Elle	16683
+PORTANT STATUT GENERAL DES FONCTIONNAIRES Elles	18003
+PRESTATION S INTELLECTU ELLES	18007
+PRESTATION S INTELLECTU ELLES Sélection Fondée	18007
+PRESTATION S INTELLECTU ELLES WARDIP	18007
+PRESTATIONS INTELLECTU ELLES	18007
+PRESTATIONS INTELLECTU ELLES Conception	18007
+PRESTATIONS INTELLECTU ELLES Etude	18007
+PRESTATIONS INTELLECTU ELLES WARDIP	18007
 PSRE. Elle	15722
 Pacte. Elle	16037
 Parlement. Elle	17492
 Plan Directeur de Digitalisation des Services Publics. Elle	13341
 Plateau. Elle	6095
 Porto-Novo. Elle	5899
+Premier Ministre. Elle	17831
 Prof. Chiratidzo Ellen Ndhlovu	1554
 Professionnelle. Elles	17584
 Professor Chiratidzo Ellen Ndhlovu	1554
 Programme Terra Bénin. Elle	10876
 Projet. Elle	14425
 Présent Décret. Elle	16616
-Président. Elle	11724
+Président. Elle	11724,6107
 Présidents des Chambres du Parlement. Elle	15703
 Pékin. Elle	10698
 Qwiper. Elle	12128
@@ -342,6 +373,7 @@ RCA. Elle	15474
 RCA. Elles	15474
 RDC. Elle	5573,1047,9050
 RDC. Elles	16441
+RGA. Elle	17945
 RGPH-4. Elle	16673
 RIN. Elle	10975
 Rabat. Elle	308
@@ -354,6 +386,7 @@ Rome Business School. Elle	7496
 Royal Food’s. Elle	15426
 Royaume. Elle	8891,8621
 Royaume. Elles	8891
+Réconciliation. Elle	17899
 République Centrafricaine. Elle	15708
 République Démocratique du Congo. Elle	11934,4436
 République Elle	14408
@@ -373,6 +406,7 @@ SNFI. Elle	10965
 SODEMI. Elle	2342
 SRIF. Elle	11944
 SRMNIA-N. Elle	16681
+SSN. Elle	17828,16
 SaaS. Elle	16545
 Sabane. Elle	10091
 Saint-Siège. Elle	13405
@@ -384,7 +418,8 @@ Simon Ellis	10279
 Solange Amichia. Elle	16153
 Solidaire. Elles	16351
 Somalis. Elles	13928
-Système Statistique National. Elle	16233
+Statistique. Elle	17828
+Système Statistique National. Elle	16233,1712
 Sécurité. Elle	14163
 Sénégal. Elle	1081,378,6393,1424
 TIC Elle	13290
@@ -406,10 +441,12 @@ UA. Elle	15624
 UE. Elle	643,14932
 UEMOA. Elle	15508,751
 UIT. Elle	14319
+UMOA. Elle	17816
 UNICEF. Elles	9448
 USA. Elle	15670
 Uemoa. Elle	6888
 Ulrich Mamfoumbi Mamfoumbi. Elle	9928
+Union Africaine. Elle	17844
 Union des Comores. Elle	743
 Union des Comores. Elles	13721
 Union. Elle	4459,7485

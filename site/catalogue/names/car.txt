@@ -172,6 +172,7 @@ Arrest Arrest Cardio Pul- Cardiorespirato-	12151
 Arrest Cardio Pul-	12151
 Arrest Cardiopulmo-	12151
 Asia Caribbean	11572
+Assist the Poor Carte Nationale	17870
 Association. The World Bank CAR Health	10829
 Associação de Mulheres de Carreiras Jurídicas de Angola	11362
 Atlantic. Ana Carla Sousa	3075
@@ -387,6 +388,7 @@ CARACE TECHNOLOGIES LIMITED Data Controller INST-7120184F6DE	7167
 CARACE TECHNOLOGIES LIMITED Data Processor INST-7120184F6DE	7167
 CARACOLAS KENNYS Antenna	17006
 CARACOLAS SGBGE	17006
+CARACTERE	17822
 CARACTERE PERSONNEL	234,15254,1129
 CARACTERE PERSONNEL Art	436,15200
 CARACTERE PERSONNEL Article	10825,2884
@@ -399,12 +401,14 @@ CARACTERE PERSONNEL L’ASSEMBLEE NATIONALE Vu la Constitution	10825
 CARACTERE PERSONNEL L’Assemblée	436
 CARACTERE PERSONNEL RAPPORT D’ACTIVITES	10821
 CARACTERE PERSONNEL Rue	10821
-CARACTERE PERSONNEL Section	436
+CARACTERE PERSONNEL Section	436,17395
 CARACTERE PERSONNET Article	15429
 CARACTERE PERSONNET CHAPITRE	15429
 CARACTERE PERSONNET CHAPITRE I DES	15429
 CARACTERISTIQUES DES ENTREPRISES	10875
 CARACTERISTIQUES ET ETAT DES LOCAUX	10847
+CARACTERISTIQUES GENERALES DES LOGICIELS	17846
+CARACTERISTIQUES GENERALES DES MATERIELS	17846
 CARACTERISTIQUES SOCIO- DEMOGRAPHIQUES DE LA POPULATION	737
 CARACTERISTIQUES SOCIO-DEMOGRAPHIQUES DE LA POPULATION ET	737
 CARACTERIZAÇÃO AMBIENTAL E SOCIAL DE REFERÊNCIA	11406
@@ -549,11 +553,13 @@ CART EDC-SONATREL	10975
 CART. Cette	10975
 CARTA SANITÁRIA DE CABO VERDE	16019
 CARTA-DE-SERVICOS-INCM.pdf	1526
-CARTE	16026
+CARTE	16026,1905
+CARTE ADMINISTRATIVE DE LA REPUBLIQUE ISLAMIQUE	17843
 CARTE D'ASSURANCE MALADIE	13300
 CARTE DE RESIDENT	2465
 CARTE DE SEJOUR	2465
 CARTE NATIONALE D'IDENTITE	2465
+CARTE PREPAYEE	17833
 CARTES	14490
 CARTES ANNEXE-3. CODE DE CONDUITE POUR	14490
 CARTES ANNEXE-4. TOVANA	14490
@@ -569,12 +575,16 @@ CARTES RELATIVES A L'AERODROME AERODROME CHART	16552,454
 CARTES Tableau	14490
 CARTES VBG	14490
 CARTOGRAPHIC UNIT UN-GGIM Southern Africa Sub-regional	13733
-CARTOGRAPHIE DE L’ANOMALIE DE PRODUCTION	16026
+CARTOGRAPHIE DE L’ANOMALIE DE PRODUCTION	16026,1905
 CARTOGRAPHIE DES OFFRES DE FORMATION ET	15674
 CARTOGRAPHIE DU HAUT DEBIT DANS	13482
+CARTOGRAPHIE DU SYSTÈME	17830
 CARTON	13300
 CARTON EXPERTS LIMITED Data Controller INST-4724864DC91	7167
 CARTON EXPERTS LIMITED Data Processor INST-4724864DC91	7167
+CARTOUCHE PROPULSIVE	17982
+CARTOUCHES ETR AUTRES MUNITIONS ET PROJECTILES	17982
+CARTS ENTRE LES OBJECTIFS INITIAUX ET	18015
 CARTs	10975
 CARTs Dans	10975
 CARTs. Dans	10975
@@ -668,23 +678,30 @@ Características Gerais	11419
 Características da Habitação	10777
 Características-chave	4436
 CaractËre	15394
-Caractère	13524,2361,58,352
+Caractère	13524,2361,58,352,1527,77,104,29
 Caractère Administatif	13329
+Caractère Administratif	17817
 Caractère Non Commercial	2342
-Caractère Personnel	234,202,112,683,94,474,216,1851,289,1924,2202,391,219,68,83,2603,2814,1059,15,177,68,158,681,24,4,969
+Caractère Personnel	234,202,112,683,94,474,216,1851,289,1924,2202,391,219,68,83,2603,2814,1059,15,177,68,158,681,24,4,969,208,117,86,35
 Caractère Personnel La Société de Gestion	16641
+Caractère Personnel Older Réunion	17939,86
+Caractère Personnel Posted	17939,86
 Caractère Personnel République du Bénin Fraternité	10821
-Caractère Personnel Skip	6079
+Caractère Personnel Skip	6079,11786,74,86,35
+Caractère Personnel URL	17865,74,86,35
 Caractère Personnel du Mali	8281
 Caractère Personnel du Togo	10240
+Caractère Personnel. Article	17822
 Caractère Personnel. Autorité de Protection des Données	1325,690,2140
 Caractère Personnel. Ces	16617
 Caractère Personnel. Cette	16617
+Caractère Personnel. Le Commissaire du Gouvernement	17831
 Caractère Personnel. Le Secrétariat Général	548
 Caractère Personnel. Tout	16617
 Caractère Personnel.32	10822
-Caractère Scientifique	12
-Caractérisation	10965,4577
+Caractère Scientifique	12,17833
+Caractères	17972
+Caractérisation	10965,4577,2431
 Caractéristique	13300
 Caractéristique Allaitement Allaitement	13300
 Caractéristique Alphabétisation	13300
@@ -767,7 +784,7 @@ Caractéristique Utilise	13300
 Caractéristique Violence Violence Violence Violence Violence	13300
 Caractéristique Vit	13300
 Caractéristique du DBS	13300
-Caractéristiques	737,494,1797,2333,2648,5291,178,328,618,146,292,636,44,13,44,147,357,219
+Caractéristiques	737,494,1797,2333,2648,5291,178,328,618,146,292,636,44,13,44,147,357,219,1692,79
 Caractéristiques Décès	15599
 Caractéristiques ISF Milieu	15599
 Caractéristiques Inclusivité	15542
@@ -782,7 +799,7 @@ Carahsoft	3303
 Caraterizada	11537
 Caraterísticas Unidades Limites Val-	15503
 Caravana Candonga	17325
-Caravane	8695,196,7116
+Caravane	8695,196,7116,1817
 Caravanes	15848
 Caravanismo	11458
 Caravelle	8999
@@ -816,9 +833,12 @@ Carbon-Environmental Barometer	1264
 Carbon-credit	7456
 Carbon-environmental	1264
 Carbon-environmental Barometer	1264
+Carbonate	18063
+Carbone	17945
 Carboni S	16463
 Carbono Incidência- Taxas-Notas Taxa	17100
 Carburant	13390,2657
+Carburéacteur	17972
 Carbón	4209
 Carcavelos	10378
 Carchidi PJ	1219
@@ -942,6 +962,7 @@ Care Economy	8891
 Care HTP	16951
 Care International CBE Community Based Education	15604
 Care Malawi International	12181
+Care Performance Initiative Assessment Awa Diallo	17869
 Care Quality of Care and Clinical Governance Staff	7761
 Care RMNCAH Reproductive	12729
 Care Record CDA Clinical Document Architecture	1009
@@ -995,6 +1016,7 @@ Carefully	2668
 Caregiver	11180,3958
 Caregivers	10768,4567
 Caregivers Adults and Retirees	14566
+Caregivers Mauritania Mauritania	17969
 Careless	14781
 Careless Investment My	13532
 Carelle	15780
@@ -1034,7 +1056,7 @@ CargäisonS	15999
 Caria	2854
 Caria Tech Village	2854
 Caribbea-n1	11964
-Caribbean	26,1,1,198,336,1252,504,6,103,20,74,20,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,154,105,18,126,31,163,119,78,69,141,37,21,7,273,185,78,103,42,55,32,222,225,32,106,45,60,43,101,181,78,69,47,183,19,44,26,19,178,5,104,1,149,7,16,43,210,294,516,563,730,283,1,185,1066,4,67,61,131,27,145,423,295,27,8,62,198,513,367,186,103,330,68,739,160,850,183,970,180,65,61,100,198,213
+Caribbean	26,1,1,198,336,1252,504,6,103,20,74,20,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,154,105,18,126,31,163,119,78,69,141,37,21,7,273,185,78,103,42,55,32,222,225,32,106,45,60,43,101,181,78,69,47,183,19,44,26,19,178,5,104,1,149,7,16,43,210,294,516,563,730,283,1,185,1066,4,67,61,131,27,145,423,295,27,8,62,198,513,367,186,103,330,68,739,160,850,183,970,180,65,61,100,198,213,474
 Caribbean Africa Asia	11004,960
 Caribbean Digital Transformation Project	13331
 Caribbean Middle East and North Africa South	10977
@@ -1054,7 +1076,7 @@ Caribbean. Today	8978
 Caribbean. Zeepay	1047
 Caribe	2816,1393,7184
 Caribe de Operadores de Puntos de Intercambio de Tráfico	14468
-Caribou	4842,2106,372,537,3149,1,10,1210,5178
+Caribou	4842,2106,372,537,3149,1,10,1210,5178,465
 Caribou Digital	249,10570,1408
 Caribou Publishing	6948,4058,1221
 Caribou and Co-Develop	11006
@@ -1075,8 +1097,11 @@ Carire	13683
 Caritas Communautaire	15712
 Caritas Congo	11982
 Caritas Zambia	8513
+Caritas-Mauritanie	17934
 Carl ANIAMBOSSOU	16545
 Carl Aniambossou	16545
+Carl Christian Dingel	17962
+Carl Cristian Dingel	17962
 Carl Folke	11006
 Carl Irwin	13580
 Carl Prichadin	15901
@@ -1098,7 +1123,7 @@ Carli van Wyk	9250,334,1694
 Carlingford Supplies Data Processor INST-214540E382C NAIROBI	7167
 Carlinhos de Barros Lopes	16290
 Carlitos Djedjo Pedro Barbosa Mendonça Caetano	11544
-Carlo	10763,6139
+Carlo	10763,6139,1004
 Carlo M. Rossoto	15424
 Carlo M. Rossotto	15553
 Carlo Roger	16425
@@ -1190,6 +1215,7 @@ Carnet	10876,2424,2636,306,394,269
 Carnet Mère-enfant	13300
 Carnet de Déclaration	13300
 Carnet de Elector. Artículo	16903
+Carnets	17845
 Carney	5029,15,2198,489
 Carnival	8520
 Carnot	10253,49
@@ -1211,7 +1237,7 @@ Carolina Botero	12088
 Carolina Cerqueira. Promulgada	3519,7890,16
 Carolina Gideon-Krama	16817
 Carolina Glasserman Apicella of DataGénero	7151
-Carolina Population Center	13332
+Carolina Population Center	13332,4550
 Carolina Principles	14686,2742,374
 Carolina Principles for Emerging Technologies	17428
 Caroline	10279,1138,810
@@ -1260,6 +1286,7 @@ Carqaladaha	11136
 Carrao	10964
 Carrefour Jeunesse du Festival	6014
 Carrefour Lieu	15555
+Carrefour des Jeunes	17824
 CarrefourSA	8905
 Carregados	10757,23,637
 Carregamento	11438,580
@@ -1273,10 +1300,10 @@ Carrera Diplomática	16871
 Carretera	4209,13180
 Carreteras	4209
 Carreteras Baney	4209
-Carretero	13314,2160
+Carretero	13314,2160,2396
 Carrey Hotel	14358
 Carried	267,1024,1,1,1,1,1,29,1,1,1,1,1,330,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,255,1,1,1,1,1,1,1,15,50,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,37,1,1,1,1,1,369,87,118,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,728,79,533,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,20,109,1,1,1,1,1,210,1,1,1,1,1,272,984,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,192,706,2161,3150,322,899,1677,1085,1191,199
-Carrier	5226,646,3251,323,1510,4536,1024,323,33
+Carrier	5226,646,3251,323,1510,4536,1024,323,33,990
 Carrier Benchmarking How Infrastructure Choices Overcome	6051
 Carrier Grade NAT	7010
 Carrier Hotel	8542,8260
@@ -1306,11 +1333,12 @@ Carries the ZERA	6492
 Carrim	6151
 Carrim and Transnational Coaches	10263
 Carrington Malin	10246
-Carrière	8436
+Carrière	8436,9436
 Carrière La SEEG	15745,616
 Carrière-Swallow	961
 Carrières	3396,7312,1383,3443,565,437,26
 Carrières MVA Mégavolt-Ampères MWc Mégawatt	15769
+Carrières Sapeurs-pompiers	17899
 Carrières Yacouba Zabré Gouba	16562
 Carrières de Brazzaville	15395
 Carroll	15715
@@ -1360,12 +1388,17 @@ Cartable Numérique	15553
 Cartas	8930
 Cartas Universal	1701
 Cartas da Nigéria	2401
-Carte	643,2809,397,76,199,10,87,1519,219,135,381,3,142,713,385,1019,317,426,264,803,164,3,112,21,28,975,193,1298,34,15,110,68,281,355,238,2,46,59,803,46,109,73,90,3,12,30,202,19,327,18,78,262,20,81,763
+Carte	643,2809,397,76,199,10,87,1519,219,135,381,3,142,713,385,1019,317,426,264,803,164,3,112,21,28,975,193,1298,34,15,110,68,281,355,238,2,46,59,803,46,109,73,90,3,12,30,202,19,327,18,78,262,20,81,763,330,9,9,3,7,13,7,4,3,3,13,10
+Carte Administrateur	17827
+Carte Article	18032
 Carte Business GUCE	5593
+Carte CPS Etat	17845
+Carte Mastercard	17833
 Carte Nationale	547,1420,1614,181,2197,2034,1675,307,739,98,2480,207,743,1,237,956,119,829,1101
 Carte Rose	11934
 Carte SIM	15710
 Carte Salaire	14338
+Carte Sanitaire	17845
 Carte Scolaire	15673
 Carte Scolaire du MINESEC	15480
 Carte Transport Mettre	15936
@@ -1373,6 +1406,7 @@ Carte de Commerçant de Côte	15936
 Carte du Burundi	13300
 Carte du Cameroun	15599
 Carte du Congo Likouala Sangha Pool Niari	15724
+Carte du Numéro	17870
 Carteira Nacional de Projectos	10783
 Carteira Profissional	12311
 Carteira Provincial	10783
@@ -1391,7 +1425,7 @@ Carter	4432,2515,1659,8508
 Carter Center	10776
 Carter Centre	16950
 Carterpillar Hikuama	7671
-Cartes	1576,9271,2477,66,110,349,355,1376,45,90,59,225,159,137,257,454
+Cartes	1576,9271,2477,66,110,349,355,1376,45,90,59,225,159,137,257,454,818,9,34,213
 Cartes CNI Notification	14480
 Cartes CNI Système	14480
 Cartes Carte Administrative du Burundi Carte	13702
@@ -1422,7 +1456,7 @@ Cartografía de INDEFOR	16875
 Cartograma	4044
 Cartographer	13777,3266,84
 Cartographers	11129
-Cartographie	235,952,3138,1523,591,2452,1200,785,26,1141,1439,220,203,520,1133,37,78,39,8,216,101,26,89,43,164,262,5,88,8,724,2,35,11
+Cartographie	235,952,3138,1523,591,2452,1200,785,26,1141,1439,220,203,520,1133,37,78,39,8,216,101,26,89,43,164,262,5,88,8,724,2,35,11,336,37,5,13,88,10
 Cartographie CNLS	15423
 Cartographie Censitaire	13518
 Cartographie HACHETTE Tourisme PLAN STRATEGIQUE	15722
@@ -1433,9 +1467,9 @@ Cartographie du Système	14438
 Cartographie. L'Agence	15375
 Cartographier	1187,7338,2351,89,69,1009,3540,325,733,807
 Cartographies	15720
-Cartographiques	3396
+Cartographiques	3396,14587
 Cartographiques Nombre	3396
-Cartography	4596,6533
+Cartography	4596,6533,6740
 Cartography Unit	5805
 Carton	8606
 Carton Rouge	5082
@@ -1507,6 +1541,7 @@ Central Business Registration Card	14720
 Central Darfur. Carter	6947
 Central Primary Health Care North Central	11857
 Centre Carter	16087
+Centre Universitaire de Cartographie	17911
 Centre de Production de Cartes	10812
 Centre for Cartography and Remote Sensing	10219
 Centre for Primary Health Care Studies	12025
@@ -1610,6 +1645,7 @@ D.G. DE CATASTRO Y CARTOGR	4209
 DAGAHLEY MEDICAL HEALTH CARE SERVICES LIMITED	7167
 DAILY CARD REPLACEMENT RATE	8999
 DAIMA CARE MEDICAL CENTRE-EMBU DALLAS Data	7167
+DE LA CARRIERE	18003
 DE LA CARTE D'ASSURE ET	15361
 DE LA CARTE DE RESIDENT	2465
 DE LA CARTE DE RESIDENT ARTICLE	2465
@@ -1618,8 +1654,10 @@ DE LA CARTE DE SEJOUR ARTICLE	2465
 DE LA CARTE D’ELECTEUR Article	15727
 DE LA CARTE NATIONALE D'IDENTITE	2465
 DE LA CARTE NATIONALE D'IDENTITE ARTICLE	2465
+DE LA CARTE SCOLAIRE Article	17863
 DE LA TARIFICATION Carte Puissance Disponible	15670
 DE PERSONALISATION DES CARTES PGES	14490
+DE PROTEC'TION DES DONNEES A CARACTERE	17822
 DE PRÉVENTION Cartographie	14450
 DENO CARE MEDICAL CENTER Data Controller	7167
 DENOMBREMENT ET DE CARTOGRAPHIE SUPERVISION NTISINZIRA	13300
@@ -1631,10 +1669,13 @@ DES CARACTERISTIQUES DE LA CARTE NATIONALE	2465
 DES CARTES	14490
 DES CARTES ANNEXE-3. CODE DE CONDUITE	14490
 DES CARTES Article	14490
+DES CARTES D’ELECTEUR	17861
 DES DETENTEURS DE CARTES SIM ET	16733,1,1
 DES DONNEES A CARACTERE PERSONNEL	16617
+DES DONNEES A CARACTERE PERSONNEL AVEC	17822
 DES DONNEES A CARACTERE PERSONNEL Article	13709
 DES DONNEES A CARACTERE PERSONNEL Chapitre	15432
+DES DONNEES A CARACTERE PERSONNEL Section	17831
 DES MINES ET DES CARRIERES	8321,7621,345
 DES MINES ET DES CARRIERESLe Conseil	7670
 DG Provincial Engagements Resources Programmes Care	11241
@@ -1650,9 +1691,12 @@ DONNEES A CARACTERE PERSONNEL	16617
 DONNEES A CARACTERE PERSONNEL Art	436,15200
 DONNEES A CARACTERE PERSONNEL Article	10825,2894,1763
 DONNEES A CARACTERE PERSONNEL EN RE	16651
+DONNEES A CARACTERE PERSONNEL FONT L’OBJET	17831
+DONNEES A CARACTERE PERSONNEL Section	17831
 DONNEZ LA CARTE AVEC LES INFORMATIONS	13300
 DP Cargo Enters PF	17367
 DU CARACTERE PROBANT ET	15395
+DU COUT ANNUEL DE LA CARTE	17833
 DURABLE...............................xxxi CARTE DU BURUNDI	13300
 Daddy’s Car	17773
 Daily Card Replacements	8999
@@ -1838,6 +1882,7 @@ Esther Carène SISSA	16381
 Estimates Carbon Tax Volume Specific	17105
 Eswatini National Career Expo	13123
 Eswatini National Identity Card	12404
+Etat. Caractère	18003
 Ethiopian Carbon Market	14122
 Ethiopian Carbon Market Proclamation	14136
 Ethiopian Carbon Market Proclamation No	14136
@@ -1860,6 +1905,7 @@ FM The World Bank CAR Health	10829
 FM. The World Bank CAR Health	10829
 FMIS. Carry	15090
 FORMAÇÃO PROFISSIONAL DOS TITULARES DE CARGOS	11361
+FOURNITURE DES CARBURANTS ET INGREDIENTS AUTO	17982
 FRAUDE AUX CARTES BANCAIRES Arllcle	15429
 FSR FSR- Carga	966
 FSR- Carga	966
@@ -2148,6 +2194,7 @@ International Carbon Markets	13060
 International Card Schemes	12364
 International Carriers	17694
 International Transfers Card Mobile Money	5247
+Internet Banking Carte	17833
 Interventions Plus PHC Primary Health Care	17289
 Investigação A Carta Sanitária	16019
 Iraqi National ID Card	10714
@@ -2173,6 +2220,7 @@ JORGE CARLOS DE ALMEIDA FONSECA. ANEXO	15504
 JOUR' SI LE CARNET MONTRE QU'UNE	13300
 Java Card	6346,9046
 Jean-Christophe Carret Regional Director	11380,1951
+Jigisemejiri Beneficiary Card	17870
 Joana Cardoso de Guerra Matos Albino	10753
 Joana Mourão Carvalho Published	9832
 Joanne Carew	10538
@@ -2216,6 +2264,7 @@ Kofi Woods Leads National ID Card	3239
 Ksh.507 Million for Hospitality and Hired Cars	6588
 L.S.M Kabweza. Carries	1872
 LA CARTE	13300
+LA DISTRIBUTION DE CARBURANT	17982
 LA PROTECTION DES DONNEES A CARACTERE	14412,2205
 LA PROTECTION DES DONNEES A CARACTÈRE	15488
 LATIN AMERICA AND THE CARIBBEAN	10977
@@ -2241,6 +2290,7 @@ Le Carcan	7999
 Le Cardinal Parolin	13405
 Le Service Carte Sanitaire	15678
 Le Service de Cartographie	13702
+Le Super Carburant	17972
 Legal Covenants The World Bank CAR	10829
 Les Cartes	15474
 Liability of Carriers	12389
@@ -2310,6 +2360,9 @@ Materials Energy Health Care Utilities Hardware	4972
 Maternal Care	14067
 Maternal Health Care	13474,1773
 Matteo Caravani	16902
+MauriAppChallange Challenge I. Carrefour	17853
+MauriAppChallenge II. Caravane	17853
+Mauritanie. Caravane	17853
 Mauritius National Identity Card	1379,13342,20
 Mauritius National Identity Card System	14741
 Mauritius National Identity Card URL	14741
@@ -2323,6 +2376,7 @@ Medical Care	1824
 Meeting Waterford KaMhlaba Career Fair Governor	11131
 Meios Auxiliares da Cartografia Cadastral	11384
 Member IDD04 Claudia Cardelli Team Member	1284
+Member Maya Abi Karam Carl Christian	17962
 Mental Health Care Act	11177,877,2689
 Merchants ATMs POS Debit Cards Credit	6978
 Meta-Informação BM Banco Mundial CAE Carta	15535
@@ -2449,7 +2503,7 @@ National ID Card Yes N	10714
 National ID Cards	1920,6900,4255,3893,15
 National ID Cards for Women	15578
 National Ideniification Cards	16983
-National Identification Card	1816,299,8599,1155,3,3,1,1,32,30,389,2319,135,41,2160
+National Identification Card	1816,299,8599,1155,3,3,1,1,32,30,389,2319,135,41,2160,887
 National Identification Card NIN National Identification	12328
 National Identification Card No N	10714
 National Identification Card System	16983
@@ -2601,6 +2655,7 @@ PORTANT INSTITUTION D'UNE CARTE NATIONALE	10812
 PORTANT PROTECTION DES DONNEES A CARACTERE	13540
 POSTNATAL CARE	16971
 PP.2.A.2 Carry	15604
+PRIMARY HEALTH CARE	17869
 PRIMARY HEALTH CARE SERVICES	14773
 PROBLÈME CARDIAQU	13300
 PRODUCTION DES CARTES	15639
@@ -2642,6 +2697,7 @@ Piloter Cartographie	16595
 Pina Cardoso	6461
 Places of Care	12373
 Places of Care Ben	12373
+Plan de Carrière	17872
 Plano de Cargos	15503,1,22
 Plano de Carreias	1268
 Plano de Carreiras	1265,683,14014
@@ -2667,6 +2723,7 @@ Postnatal Care	13454,613,1180,1704
 Postnatal Care Postnatal	16971
 Postpartum Infant Care Program	6423
 Pour le CARE	9497
+Pour le Carburéacteur	17972
 Prepaid Cards	16878
 Prepaid Cards Mobile Banking Subscribers Internet	4517
 Preparation Carlo Del Ninno Kouami Hounsinou	15601
@@ -2676,7 +2733,7 @@ President of CAR	16277
 President of Huawei Southern Africa Region Carrier	13782
 Presidente da CNE Carmem Batista Lobo	10271
 Primary Care BP	16079
-Primary Health Care	21,257,118,375,3530,6475,476,21,695,12,626,1252,915,427,2089
+Primary Health Care	21,257,118,375,3530,6475,476,21,695,12,626,1252,915,427,2089,580
 Primary Health Care Centers	12004
 Primary Health Care Facility	11980
 Primary Health Care Information System	11980
@@ -2685,7 +2742,11 @@ Primary Health Care Operational Framework	13166
 Primary Health Care Oriented HSSDP III	13982
 Primary Health Care PII	11252
 Primary Health Care PLANAPREV-DNT	10776
+Primary Health Care Performance Initiative	17869
+Primary Health Care Progression Model	17869
 Primary Health Care Services Across	1824
+Primary Health Care System of Gujarat	17869
+Primary Health Care System of Mauritania	17869
 Primary Health Care The U.S. Government	4349
 Primary Health Care Unit	12246
 Primary Health Care Units	12246
@@ -2729,6 +2790,7 @@ Qatar Accueil du Cardinal Pietro Parolin	13405
 Qatar Air Cargo	2675
 Qatar Qatari ID Card	10714
 Quality Health Care Circular Economy	4972
+Quality of Antenatal Care	17869
 Quality of Care	13166
 Quarterly Carrier Diversity	15149
 RAL REGLEMEATAIRE FAIRS CARD INDEY SERVICE	15999
@@ -2746,6 +2808,7 @@ RFC5646 Care Services Care Services Discovery	1009
 RGPH-4 Carlton Anosy	14607
 RGPH-4. Car	16673
 RISLATIVEANT STATUITORY AFFAIRS CARD INDEX SR	15530
+RMNCH-N Care-seeking	17869
 ROW Right of Way SIM Card Subscriber	11857
 Rachele Carli	7112
 Ramón Bee ENGONGA Jefe de Servicio de Cartografía	16898
@@ -2815,6 +2878,7 @@ SA ID Card	12041
 SASSA Gold Card	2626,5230,1143
 SASSA Gold Cards	7856
 SASSA Gold Cards Execution	8999
+SECTION DE LA GESTION DES CARRIERES	17899
 SENI Project. The World Bank CAR	10829
 SENI-Plus The World Bank CAR Health	10829
 SEUL CARNET DE VACC. ET AUTRE	13300
@@ -2961,6 +3025,7 @@ Suite FEMMES HOMMES Caractéristique Pourcentage de Effectif	13300
 Suite FEMMES HOMMES Caractéristiques Pourcentage de Effectif	13300
 Suite Hommes Femmes Caractéristique Personne	13300
 Suliman Carrim. Msibi	10263
+Super Carburant	17972
 Survey Methodology and Cartography	12768
 Survey and Cartography	17016
 Sustentabilidade Tecnológica A Carta Sanitária	16019
@@ -2994,6 +3059,7 @@ Technology for Development Policy IDs Identity Cards	16885
 Telecommunication Carrier Interconnections	16412
 Terminals Airport Management Cargo	17006
 Terminals and Cards	11955
+Terminaux de LES CARTES	17833
 Territories AMERICAS AND THE CARIBBEAN ISLANDS	16631
 Tertiary Health Care	3583
 Third-party SIM Cards	4439
@@ -3040,8 +3106,10 @@ UNFPA. The World Bank CAR Health	10829
 UNICEF Careers	13576
 UNICEF's Core Values of Care	13575,1
 URA Defends Reinstated Cargo Seals Uganda	3955
+URBAN RURAL Primary Health Care Vital	17869
 URSB and Caroline Egesa	6121
 USAID Health Care Improvement Project. Community	1219
+USAID. Caravane	17853
 USING A CREDIT CARD INFORMAL	10977
 USING BANK CARDS AND REVOKES NOTICE	12860
 UTITISATION DES DONNEES A CARACTERE PERSONNEL	15429
@@ -3056,7 +3124,7 @@ Under the Primary Health Care	12004
 Understanding NICA National Identity Cards Act	12663
 Unified Government Services Card	6631
 Unit Josyane E. Carmen Costa Team	15372
-United Nations Cartographic Section	12344,3273,1323
+United Nations Cartographic Section	12344,3273,1323,937,1
 United Nations Security Council. The CAR	4127
 United States and CAR	4340,5,7
 Universidade Federal de Santa Carolina	2816
@@ -3117,6 +3185,7 @@ White RFID Plastic Cards	11955
 World Bank CAR Accelerating Results	15661
 World Bank CAR Health Service	10829
 World Bank CAR Health Service Delivery	10829
+World Bank’s Primary Health Care Performance	17869
 Yannick Carrel NDOUKOU	16381
 Year the Ghana Card and Ghana	10822
 Yellow Card	7656,787,708,160,398,194,52,200,4,6,1654,1744

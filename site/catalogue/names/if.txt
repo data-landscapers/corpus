@@ -73,6 +73,7 @@ Financial Instruments and IFRS	10793
 Financial Management Information System IFR Interim	15372
 Fintech Pan-Africa IFU	501
 First IFR	12595
+Fonds Monétaire International IFORD	17842
 Fragmented IFMIS	12214
 G Capital and IFC	9079
 GCR GRF IFC IGAD ILO INSTAD	13938
@@ -84,11 +85,13 @@ Gambia. Supports IFMIS	166
 General IFC Inquiries	16776
 Global Director Ede Jorge Ijjasz-Vasquez Iffath	15731
 Glossary of Terms Abbreviation Expansion IFMIS Integrated	12917
-Google and IFC	16942
+GoM and IFIs	17870
+Google and IFC	16942,928
 Government Procurement Media Center IFMIS News	12322
 Group IFC International Finance Corporation IPF	6539
 Guinea Ecuatorial IFN Inventario Nacional Forestal	16875
 H.E. Mr. Ingele Ifoto	16164
+HCN Haut Conseil du Numérique IFC Société	17881
 HVAC IFRS IMF IR ISO	11134
 High Voltage Direct Current IFRS International	12399
 Huawei Technologies. IFC	13314,2160
@@ -143,6 +146,7 @@ IFC Collaboration No Proposed Program Development	11905
 IFC Communications	16776
 IFC Country Advisory Program Lead Bobby	17153
 IFC Country Advisory and Economics	14017
+IFC Country Manager	17870
 IFC Country Manager for Comoros	3067
 IFC Debt Facility	893,1322
 IFC Disruptive Technologies and Funds	1264
@@ -239,7 +243,7 @@ IFFs. Following	9162
 IFHREC	9128
 IFI Eradication	15901
 IFI Institution	16626
-IFI International Financial Institution IMF International	970
+IFI International Financial Institution IMF International	970,16900
 IFI UNSD Increased	15901
 IFI8zBM6h	6997
 IFIED TRUE COP	15999
@@ -291,9 +295,11 @@ IFNB Institution	15493
 IFOKO	15692
 IFOMU	11573
 IFOMU D UKUSHINTSHWA KWEMIBANDELA Esimeni	11573
-IFORD	10874,5746,278
+IFORD	10874,5746,278,944
 IFORD Institut	15961
+IFORD de Yaoundé	17842
 IFP MP Busaphi Machi	7404,3215
+IFP de Kayes	18079
 IFPB Institut	15961
 IFPIM	13461
 IFPIM.. The Inquiry	13461
@@ -491,6 +497,7 @@ Substantial. The IFSA	11905
 Support for IFMIS	16949
 Supports IFMIS	536
 Survey and IFMIS	7548
+Technology IDA International Development Association IFRs	17862
 Technology IDs Identifications IFMIS Integrated Financial	17011
 Technology IFC International Finance Corporation MFI	13347
 Testing of IFMIS	14185

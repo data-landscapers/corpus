@@ -14,7 +14,7 @@ Angola Violência Doméstica Experiência	10760
 Anti-Gender Based Violence Act	1988,738
 Bande Violette	13300
 Banjul Area GBV Gender Based Violence	16926
-Based Violence	12253,4861
+Based Violence	12253,4861,857
 Based Violence GMIS Geological and Mineral Information	2889
 Based Violence Gender-Based Violence	16951
 Based Violence HALT Hungry	12970
@@ -27,7 +27,7 @@ Centre for Domestic Violence Cases	16600
 Civil Liberties for Women Absence of Violence	10759
 Commission for Combating Violence Against Women	15039
 Complaint Concerning Violation	5113
-Conflict and Violence	969,10499,1,76,322,1445,2,1574,1548,524
+Conflict and Violence	969,10499,1,76,322,1445,2,1574,1548,524,910
 Conflict and Violence FMIS Financial Management Information	969
 Conflict and Violence FSP Financial Service Provider	13312,2
 Conflict and Violence FY17	15731
@@ -104,7 +104,7 @@ Gender Based Violence and Children Protection	16944
 Gender Based Violence and Sexual Exploitation and Abuse	1988
 Gender Based Violence and Social Safety Nets	15601
 Gender- Based Violence	17099
-Gender-Based Violence	1228,5721,2,4279,187,1359,201,497,1268,313,498,106,1292,148,15,472
+Gender-Based Violence	1228,5721,2,4279,187,1359,201,497,1268,313,498,106,1292,148,15,472,376
 Gender-Based Violence GDP Gross Domestic Product	16896
 Gender-Based Violence GIPM	14760
 Gender-Based Violence GPEI	10776
@@ -126,8 +126,10 @@ Genre VCE Violence Contre	15746
 Government Development Index GBV Gender-Based Violence	13731
 Grievance Channel for Gender-Based Violence	17114
 HOMMES Violence	13300
+HUMAN RIGHTS VIOLATIONS	17950
 Human Rights Law and Serious Violations of International	3583
 I- Violation	15393
+ILO Violence and Harassment Convention	17934
 IPV Intimate Partner Violence	11965
 IV- Violation	15393
 Intimate Partner Violence	13454,1793
@@ -135,6 +137,7 @@ Intimate Partner Violence KAP	16951
 J. Baptiste UWIMANA Violette NKURIKIYE Francine	13300
 Joint Gender-Based Violence	12626
 KWIZERA Violette	13390
+Knowledge Brief. Online Violence Against Young	17870
 LA VIOLACIÓN DE LOS DERECHOS FUNDAMENTALES	16965
 LA VIOLENCE	13300
 LA VIOLENCE CONJUGALE Blessures	13300
@@ -177,6 +180,7 @@ Perpetrators of Sexual Violence	15247
 Physical Violence Initiated	15247
 Piracy and Maritime Violence Act	14760
 Political Stability and Absence of Violence	14897,2099
+Political Violence	17870
 Portal for Domestic Violence Survivors Last	2445
 Prevalence of Sexual Violence	15247
 Prevalência da Violência	10777
@@ -184,6 +188,7 @@ Prevalência da Violência Sexual	10777
 Prevent Gender Based Violence. Washington	10964
 Preventing GBV and Violence	17114
 Preventing Violence Against Children	10776
+Preventing Violent Conflict. Washington DC	17870
 Primeira Experiência de Violência Sexual	10777
 Procedures SRGBV School Related Gender-Based Violence	13332
 Project Showcase Video Gender-Based Violence Scenarios	11332
@@ -197,6 +202,7 @@ Reported Cases of Gender-Based Violence	13399
 Respondents Who Have Experienced Violence	15247
 Responsables Violence	14490
 Review of Sexual and Gender-Based Violence Laws. Christine	8948
+Réfugiés VBG Violences Basées	17907
 Répression des Violences Sexuelles Faites	16478
 SAFETY Absence of Armed Conflict Absence of Violence	10759
 SGBV Sexual and Gender-Based Violence SODV Sexual	12939
@@ -222,6 +228,7 @@ Strategies Against Gender-Based Violence	13474
 Strike Hard Campaign Against Violent Terrorism	2518
 Study of Violence and Reconciliation and Others	2307
 Suite Caractéristique Violence Violence Violence Violence	13300
+Suivi-Évaluation Violences Basées	17978
 Surveillance and Privacy Violations Beyond	5215
 Syndrome Immunodéficience Acquise Violences Sexuelles Basées	13442
 TeamEurope Initiatives ZLECAF Violence Basé	643
@@ -239,6 +246,7 @@ V. Violence	6612
 VAC Violence Against Children VAT	2775
 VAC Violence Against Children VDC Village	16926
 VBG Violences Basées	15746
+VIOLATION OF POLITICAL PLURALISM	17950
 VIOLATION OF THE ACT COMPLAINT	3307
 VIOLENCE	12939
 VIOLENCE AGAINST CHILDREN	12253
@@ -268,7 +276,7 @@ Violates	6940
 Violatethe	16833
 Violating	15492
 Violating NDP Act The Nigeria Data	3226
-Violation	1231,398,4036,6567,696,169,538,84,1674,243,131
+Violation	1231,398,4036,6567,696,169,538,84,1674,243,131,2052,131
 Violation of Articles XVI and Article XVII	1243
 Violation of Street Naming Standard and Guidelines	11129
 Violations	3021,1589,753,2053,2439,2306,1963,741,509,1783
@@ -277,7 +285,7 @@ Violators	5696
 Violação	14,525,255,2725,7906,3967,41,17,59
 Violação Fronteiriça Aquela	11528
 Violação da Livre Iniciativa Os Artigos	11436
-Violence	1264,724,6214,1467,84,1006,70,6,2,1,130,501,401,16,1,1,1,263,1,1,9,177,1,11,1,135,451,38,323,12,2,1110,1,63,1,1,470,16,120,94,152,279,122,105,60,476,260,297,10,7,156
+Violence	1264,724,6214,1467,84,1006,70,6,2,1,130,501,401,16,1,1,1,263,1,1,9,177,1,11,1,135,451,38,323,12,2,1110,1,63,1,1,470,16,120,94,152,279,122,105,60,476,260,297,10,7,156,820,49
 Violence Against Children	10776,1477,120,573,31,4122
 Violence Against Children Agriculture	1988
 Violence Against Children Survey	12977
@@ -311,22 +319,25 @@ Violence NATTIC Nhlangano AIDS Testing Treatment	12939
 Violence OVC Orphaned and Vulnerable Children PSS	12939
 Violence Policy	6946
 Violence Prevention Plan Gender Based Violence	12253
+Violence Public Disclosure Authorized Authors	17906
 Violence Report	12977
 Violence SIDA Swedish International Development Agency	16943
 Violence Strategy	10841
+Violence URL	17906
 Violence Violence Effectif	13300
 Violence Violence Violence Effectif	13300
 Violence Violence Violence Violence	13300
 Violence and Dangerous Imitations Pa.- Cae	9781
 Violence and Harassment GHG Greenhouse Gas GIIP	1818
 Violence and Health	12939
-Violences	10137,3163,272,916,1,1,1221,35
-Violences Basées	14424,64,1,1,49,957,177,73,162,104
+Violences	10137,3163,272,916,1,1,1221,35,2334
+Violences Basées	14424,64,1,1,49,957,177,73,162,104,1833
 Violences Contre	14488,1,1
 Violences Sexuelles	13442
 Violencia	16898
 Violencia de Género	6841
-Violent	10841,436,5837
+Violent	10841,436,5837,792
+Violent Contexts	17906
 Violet Nabatanzi	4922
 Violet Nabatanzi and Juliet Waiswa	9784
 VioletNjenga	12330

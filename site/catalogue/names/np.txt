@@ -10,6 +10,7 @@ Awazi NP	16996
 Bantema NPP Chairman	8896
 CBOS Board. A NPSS	14897
 CC Cybersecurity Committee NPKI National Public	6946
+CLOSURE Baseline NPV	17962
 Calculation of Cumulative Expected NPV Financial Analysis	15411
 Calculation of Expected NPV US	15411
 Carrier NPS	6051
@@ -80,7 +81,7 @@ NGO Non-Government Organisation NPTH Namibia Post	12973
 NGO Non-Governmental Organisation NPA National Prosecuting	11188
 NGO Non-Governmental Organization NPV Net Present	969
 NGO Nongovernmental Organization NPF New Procurement	11525
-NGO Nongovernmental Organization NPV Net Present	10768
+NGO Nongovernmental Organization NPV Net Present	10768,7081
 NIR National Identification Registry NPV Net	16949
 NP Digital	13461
 NP EN	15503
@@ -222,7 +223,8 @@ NPV Net Present Value PaaS Platform	15621
 NPV Return	11924
 NPV US	15661
 NPV and EIRR	16949
-NPV and IRR	3604,2935,5426,3696
+NPV and EIRR. Improvements	17962
+NPV and IRR	3604,2935,5426,3696,2301
 NPV of US	1867,8901,61,1095,3500,87
 NPV-RVM	16996
 NPV-of-debt	4801
@@ -265,6 +267,7 @@ Plan NPS National Payment System PDO	13836
 Plan NPV Net Present Value NRC	1867
 Plan NPV Net Present Value O&M	15515
 Police Service NPISHs Non- Profit Institutions	2775
+Policy NPF National Framework for Climate Services	17962
 Population Register IMS Immigration Services NPR	11986
 Port Authority NPA Non-Performing Loans NPLS	17235
 Postal and Courier Services NPA National Prosecuting	13420

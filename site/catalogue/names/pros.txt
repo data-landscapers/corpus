@@ -1,5 +1,7 @@
 AI Prosperity Compact	17428
 AI Prosperity Objectives	17428
+ANALYSE PROSPECTIVE	17882
+ANALYSE PROSPECTIVE D’ici	17882
 ARETE Institute for Sustainable Prosperity	7810
 AUTORISATION DE PROSPECTION Article	15439
 Abbreviation Description NPA National Prosecuting Authority	11250
@@ -12,6 +14,7 @@ African Prosperity Dialogue	4905,3
 Africa’s Development and Prosperity	1814,863
 Agenda for Prosperity and Development PRS Poverty Reduction	16943
 Aimé Prosper Aristide	15901
+Aline Meysonnat and Ignacio Torrano. Prospective	17870
 Alvarez Prost	15692
 Ana Tomičić ARETE Institute for Sustainable Prosperity	7810
 Anti-Corruption Prosecutor’s Office	16958
@@ -47,6 +50,9 @@ Criminal Referral Mechanisms and Prosecutorial Coordination	3861
 Crown Prosecutor	11131,3
 Crown Prosecutors	12972
 DE LA PROSPECTIVE ET	998
+DE L’INFORMATIQUE ET DE LA PROSPECTIVE	17827
+DE PROSPECTION DIRECTE	17841
+DE PROSPERITE PARTAGEE	17907
 DE TA PROSTITUTION Arllcle	15429
 DES FINANCES ET DE LA PROSPECTIVE	15676
 DES INFRACTIONS LIEES A LA PROSPECTION	15643
@@ -68,6 +74,7 @@ Director of Public Prosecutions. Further	14742
 Director of Public Prosecutions. Representatives	6787
 Directorate of Public Prosecutions	10416,2664,7,8
 Dist. Pros Unit	14781
+Division. World Urbanization Prospects	17870
 Divisional Enquiry and Prosecution Supervisor	14760
 Dr. Prosper Behumbiize	12347
 Driving Prosperity	5328
@@ -90,6 +97,7 @@ Future Economic Prospects	14997
 Future Prosperity	13053
 G Prosperity Insight Series GOVTECH MATURITY	10785
 Gambia. Prospective	17226
+Gestionnaire PROSPECTIVE	17841
 Ghana’s Prosper Ahiabu	8896
 Global Economic Prospects	11136,5860,15
 Global Economic Prospects. January	16996
@@ -121,6 +129,7 @@ L’approbation du PROSER II	16415
 M Nigeria Human Capital Opportunities for Prosperity	11469
 M Prosper NGALI OYELET	15685
 M. Prosper Ndangamira	13405
+Mauritania Growth and Shared Prosperity Strategy	17849
 Mexico's Prospera	10028
 Monsieur Prosper KABORE	16287
 Mr. Kofi Ireland PROSPER	16853
@@ -139,6 +148,7 @@ National Prosecuting Authority Act	11190
 National Prosecution Authority	972,12494
 National Prosecution Unit	12459
 National Public Prosecution Authority	12333
+Nationale Prospective	17983
 Number of Prospectuses Lodged	11250
 O Serviço de Prospetiva	15526
 Office of Director of Public Prosecutions	14742
@@ -154,6 +164,7 @@ PROSER II	16368,47
 PROSESSERING VAN SPESIALE PERSOONLIKE INLIGTING DEUR	11255
 PROSPECTING AND MINING	13189
 PROSPECTION DIRECTE Article	15429
+PROSPECTION PAR VOIE ELECTRONIQUE	17829
 PROSPECTIVE	15398
 PROSPECTIVE ET DE LA REFORME ADMINISTRATIVE	16099
 PROSPECTS	12257,40,2736
@@ -174,7 +185,7 @@ PROSTITUÉE	13300
 Panel International de Prospectivistes	15512
 Partnership for Shared Prosperity The EU	14109
 Peace and Prosperity	1814,3765
-Peace and Prosperity for All	11548,5626,47
+Peace and Prosperity for All	11548,5626,47,715
 Peace and Prosperity for All Press Releases ECOWAS	16243
 Performs First Penile Prosthesis Surgery Libya	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
 Person PAPD Pro-Poor Agenda for Prosperity and Development	16876
@@ -184,7 +195,7 @@ Politics and Prose	42
 Porte Parole Prosper NTAHORWAMIYE	13329
 Possibilities and Prospects	17157
 Postal and Courier Services NPA National Prosecuting	13420
-Poverty Reduction and Shared Prosperity	11924,3500,87,90
+Poverty Reduction and Shared Prosperity	11924,3500,87,90,2361
 Poverty Reduction and Shared Prosperity. The Project	16436
 Powering Growth and Prosperity for Businesses and Investors	14674
 Principal Prosecution Counsel Victor Owiti and Prosecution	9188
@@ -228,8 +239,8 @@ Prospect	4896,2990,4309
 Prospect For The Future	12395
 Prospect Pension Owned Vacant Residential	4896
 Prospecting and Mining	13189
-Prospection	436,10389,4604,3,33,23,96,872,161
-Prospective	1231,606,435,394,76,838,178,225,7,135,388,88,509,102,404,95,212,191,46,156,93,107,15,232,24,9,204,134,131,1037,139,1340,931,337,734,1507,1042,665,369,17,92,67,15,82,39,3,48,204,104,23,321,4,447,44
+Prospection	436,10389,4604,3,33,23,96,872,161,1205,7,4,8
+Prospective	1231,606,435,394,76,838,178,225,7,135,388,88,509,102,404,95,212,191,46,156,93,107,15,232,24,9,204,134,131,1037,139,1340,931,337,734,1507,1042,665,369,17,92,67,15,82,39,3,48,204,104,23,321,4,447,44,951,2,12,15
 Prospective AboubaKkar NACANABO L	1837
 Prospective Alexandre BARRO CHAMBRIER Le Ministre	15678,3
 Prospective Applicalion of Tariff Changes Unless	16851
@@ -239,15 +250,17 @@ Prospective DPBEP Document de Programmation Budgétaire	10712
 Prospective DSA Direction des Statistiques Agricoles DSEE	15479
 Prospective DSIO	15475
 Prospective Development Plan	1798,173
+Prospective Département Technique Eau Département Technique	17866
 Prospective Financing	17257
 Prospective MEMC Ministère	15769
+Prospective Technicien	17827
 Prospective des Ministères	15479
 Prospective du Ministère	10712
 Prospective. Il	16381
 Prospective. Pour	11049
 Prospectives	15536
 Prospecto	11405
-Prospects	3583,1313,249,4389,1231,10,205,984,1568,3453,473
+Prospects	3583,1313,249,4389,1231,10,205,984,1568,3453,473,412
 Prospects Despite	16985
 Prospects Development Services. Toutes	17560
 Prospects Diverge. Disponível	2816
@@ -298,6 +311,7 @@ Prosperity Vice Presidencies	10977
 Prosperity Vice Presidency	11149,1935,675,2087
 Prosperity and Equity	11469
 Prosperity and International Cooperation	11288
+Prosperité Partagée	17893
 Prospero	12376
 Prospero and AGS Zambia. Innovation	12376
 Prospero and Premier Credit	12376
@@ -312,6 +326,16 @@ Prosperous and Empowered Upper Middle-Income Society	13685
 Prosperous and Empowered Upper-Middle-Income Society	1154
 Prosperous and Peaceful Africa	12904
 Prosperous and Peaceful Africa AU DATA POLICY	961
+Prospérité	17873
+Prospérité Partagée	17843,1,5,18,6,6,2,13,7
+Prospérité Partagée RESEN Rapport	17885
+Prospérité Partagée SCN	17844
+Prospérité Partagée SCRAPP Stratégie de Croissance Régionale	17873
+Prospérité Partagée SD	18015
+Prospérité Partagée SHaSA	17844
+Prospérité Partagée SI Système Informatique SIE	17907
+Prospérité Partagée SNADEA Stratégie Nationale	17873
+Prospérité Partagée SNIF Stratégie	17881
 Prospérité Traitement	10821
 Prossecução	15385
 Prossecução de Actividades	12774
@@ -336,6 +360,7 @@ Prosus AI Governance and Policy Symposium	8435
 Prosus Ventures	4324
 Public Prosecution	4290,4923,310,200,382,974,65,498,3346,253,152,99,500,54
 Public Prosecution Over Unauthorized SIM Registrations	11642
+Public Prosecution Service	17934
 Public Prosecution and MCIT	15992
 Public Prosecution. Can	9723
 Public Prosecution. NTRA	11079
@@ -354,6 +379,7 @@ Revolution for Prosperity	12669
 Robust Comparisons and Future Prospects	15244
 Roman Proskalovich	11819,214
 SAHWANYA-FRODEBU and Convention for Democracy and Prosperity	6122
+SCAPP Mauritania Growth and Shared Prosperity Strategy	17849
 SFMIS. Prospective	15090
 SGBV Crimes Prosecution Unit	16943
 SGBV Crimes Prosecution Unit and Court	16943
@@ -371,7 +397,9 @@ Special Prosecutor	16574
 Special Prosecutor’s Office	16973,132,123
 St. Gallen Endowment for Prosperity	9422,116
 Strategic Objectives Prosperity for All UNDP Mauritius	11332
+Strategy for Accelerated Growth and Shared Prosperity	17934
 TOVIHEZON Prosper	10712
+TOWARD SHARED PROSPERITY	17870
 Technology Prosperity Deal	6790
 Technology Prosperity Deals	6790
 Technology Prosperity Deals TPDs	6790

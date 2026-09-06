@@ -94,6 +94,7 @@ Conselho de Administração da Administração Geral Tributária	6309
 Conservadora da Direção Geral	11566
 Consider Germany	12265
 Conta Geral	1338,1,1,1,2326,1345,1179,6598,7,2730,436
+Cooperation Dialogue The German	17884
 Coordenador Geral Coordenadora Geral Adjunta José	10757
 Coordenação Geral	10754
 Critérios de Avaliação Geral	11390,16
@@ -119,6 +120,7 @@ DISPOSÍÇÕES GERAIS	11528
 DJOHAN Gerard Adm MCI	2342
 DU NOUVEAU GERANT TRANSFERT DE SIEGE	15455
 Da Direção Geral	17186
+Darmstadt Germany	17922
 Data Controller INST-746010AD626 NAIROBI Germany	7167
 Delegation of German Industry and Commerce Data Controller	7167
 Denmark Egypt Estonia Finland France Germany	10764
@@ -253,8 +255,11 @@ GERGÁCZ	6613
 GERMAN COOPERATION DEUTSCHE ZUSAMMENARBEIT The Skills	8985
 GERME	16384
 GERME Manage	16384
+GERMOSEN	17841
 GERMP	10857,6295
 GERMUE GBAWOQUIYA	16921
+GERS Badi Ould GANFOUD ARTICLE	17812
+GIM-UEMOA Groupement Interbancaire Monétique GIZ German	17870
 GIR and GER	15604
 GIS Geographic Information System GIZ German	13312,2
 GIZ German Corporation for International Cooperation GmbH	1204
@@ -303,6 +308,7 @@ Gerbaudo	17020
 Gereffi	13624
 Geregu 1	12062
 Geregu 2	12062
+Geremi KONE Souleymane DIALLO Secrétaire	18032
 Geremia	10878
 Geremia Palomba	17503
 Gerente de Control Fronterizo	15478
@@ -321,12 +327,13 @@ Geringe Bildung	615
 Gerir	167,2649,1402,2244,4919,1,14,1,33,5,14,78,1247,2617,85,27,23,229,157,464
 Gerishon Gitonga Kithinji	5332
 Germain	5022,10722,104,53
+Germain MOMO	17882
 Germain Vincent de Décret	15395
 Germaine	15744,36
 Germaine Boni	2379,8,632,249
 Germaine Marie Anne	16100
 Germaine NGALA	2655
-German	560,266,189,183,225,670,225,6,33,70,3,17,74,20,25,48,44,62,5,53,41,1,3,50,41,11,18,4,23,47,1,8,35,119,42,63,18,126,31,163,119,78,69,141,20,17,21,280,185,64,14,145,55,254,16,18,191,32,106,45,60,43,101,4,127,50,73,5,116,183,19,70,19,108,46,1,23,5,104,1,14,135,7,16,43,210,294,424,220,206,122,204,348,210,701,1,284,474,396,28,13,133,170,232,393,212,213,558,149,78,1039,47,127,949,251,1291,493,62,382,22
+German	560,266,189,183,225,670,225,6,33,70,3,17,74,20,25,48,44,62,5,53,41,1,3,50,41,11,18,4,23,47,1,8,35,119,42,63,18,126,31,163,119,78,69,141,20,17,21,280,185,64,14,145,55,254,16,18,191,32,106,45,60,43,101,4,127,50,73,5,116,183,19,70,19,108,46,1,23,5,104,1,14,135,7,16,43,210,294,424,220,206,122,204,348,210,701,1,284,474,396,28,13,133,170,232,393,212,213,558,149,78,1039,47,127,949,251,1291,493,62,382,22,82
 German Academic Exchange Service	7955
 German Adaptation Policy	11028
 German Agency for GRM International Cooperation	10964
@@ -361,6 +368,7 @@ German Federal Ministry for Economic Development Cooperation	1264
 German Federal Ministry of Research	4890
 German Federal Statistical Office. Mobile	9149
 German Forestry Mission	17140
+German GIZ	17870
 German Government	6792,6186,1072,302
 German Greens MEP Sergey Lagodinsky	8014
 German Group Deltec	5101,850
@@ -391,7 +399,9 @@ Germanites	17157
 Germann	11585
 Germano Marques da Silva	9176
 Germanwatch	8891
-Germany	402,118,40,229,181,66,174,40,617,36,193,530,76,1,72,387,22,1,181,60,157,204,641,97,92,225,48,82,57,13,118,42,100,26,235,309,61,538,6,40,1,24,71,112,124,82,181,114,16,36,324,77,52,63,127,45,310,70,30,316,535,325,155,108,17,8,250,21,2,60,354,187,67,4,14,20,27,15,3,131,11,1,88,40,5,15,1,135,281,37,313,63,18,87,51,10,50,7,2,55,162,391,47,114,6,57,79,305,34,68,81,15,27,232,218,381,254,229,32,26,84,364,2,7,233,12,269,238,97,251,188,175,68,224,26,325,157,37,4
+Germany	402,118,40,229,181,66,174,40,617,36,193,530,76,1,72,387,22,1,181,60,157,204,641,97,92,225,48,82,57,13,118,42,100,26,235,309,61,538,6,40,1,24,71,112,124,82,181,114,16,36,324,77,52,63,127,45,310,70,30,316,535,325,155,108,17,8,250,21,2,60,354,187,67,4,14,20,27,15,3,131,11,1,88,40,5,15,1,135,281,37,313,63,18,87,51,10,50,7,2,55,162,391,47,114,6,57,79,305,34,68,81,15,27,232,218,381,254,229,32,26,84,364,2,7,233,12,269,238,97,251,188,175,68,224,26,325,157,37,4,100,22,79,95
+Germany AI	17884
+Germany Artificial Intelligence Strategy	17884
 Germany BAMF	4842
 Germany Civil Registry	10714
 Germany Consortium Veridos. Uganda Security Printing	1282
@@ -401,12 +411,14 @@ Germany GTZ	14546
 Germany Ghana Greece Grenada Guatemala Guinea	11765
 Germany Global Cybersecurity Index	10764
 Germany Legal Notice Data	12486
+Germany Population	17884
 Germany Sweden	12151
 Germany T	11156
 Germany Yes Coalition Agreement	11529
 Germany and CELSI	8704
 Germany and Canada	9857
 Germany and Egypt	7358
+Germany and Europe	17884
 Germany and France	13879,3901
 Germany and France. Report	9739
 Germany and Iceland	6879
@@ -550,6 +562,7 @@ Lei Geral Tributária	17004,96
 Lei Geral de Protecção de Dados Pessoais	3519
 Lei de Bases Gerais de Prevenção	15694
 Linhas Gerais	11383
+Littérature Germaniques Sciences Juridiques	17829
 Ludmila Gertrude	15911
 Lúcio Rodrigues Director Geral da Solidariedade Social	11560
 Lüderitz German Hostel Hall	13046

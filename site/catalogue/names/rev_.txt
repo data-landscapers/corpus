@@ -10,13 +10,16 @@ Closing Rev. Closing IBRD-93170 Effective	17470
 Closing Rev. Closing IBRD-93980 Effective	11971
 Closing Rev. Closing IDA-66100 Effective	15735
 Closing Rev. Closing IDA-67180 Effective	16013
+Closing Rev. Closing IDA-68300 Effective	17958
 Closing Rev. Closing IDA-68480 Effective	17000
 Closing Rev. Closing IDA-72060 Effective	12440
 Closing Rev. Closing IDA-72740 Effective	16994
 Closing Rev. Closing IDA-73570 Effective	10870
 Closing Rev. Closing IDA-74440 Effective	16705
 Closing Rev. Closing IDA-74630 Effective	12228,39
+Closing Rev. Closing IDA-75030 Effective	18006
 Closing Rev. Closing IDA-75110 Effective	17079
+Closing Rev. Closing IDA-75340 Effective	17904
 Closing Rev. Closing IDA-79260 Effective	7877
 Closing Rev. Closing Not IBRD-96930	2712
 Closing Rev. Closing Not IDA-79260	4688
@@ -58,6 +61,13 @@ Rev Angol Ciênc	10780
 Rev Int Stud	5242
 Rev Jean Lebrun Street	14847
 Rev Kepha Nyandega	6409
+Rev SMP	18063
+Rev SMP Est	18063
+Rev SMP Prévisions	18063
+Rev SMP Prévisions Avoirs	18063
+Rev SMP Prévisions Besoin	18063
+Rev SMP Prévisions Recettes	18063
+Rev SMP Prévisions Solde	18063
 Rev. Bucharest	10764
 Rev. Closing	11375,1683,2101,322,256
 Rev. Dr John Maphephe	12753

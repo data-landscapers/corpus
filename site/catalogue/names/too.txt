@@ -94,7 +94,7 @@ Digital Community Tools In DRC	10865
 Digital Competency Assessment Tool and Method Phase	16963
 Digital Decision-Making Tools and Forecasting Models	14818
 Digital Decision-Making Tools and Forecasting Models Limited	14818
-Digital Economy for Africa Country Diagnostic Tool	2677
+Digital Economy for Africa Country Diagnostic Tool	2677,15193
 Digital Economy for Africa Toolkit	16876
 Digital Extension Tools	848
 Digital Government Readiness Assessment Tool	16641
@@ -134,6 +134,7 @@ Fieldworker Verification Tool	11341
 Financial Literacy Toolkit UNCDF	11017
 Flows E-Health Solutions Service Delivery Tools	21
 Forensic Tool	26
+Free Mobile Tool for Vulnerable Populations	17969
 Fully Deployed Reconciliation and Attestation Tool	12400
 GBoS Software and Tools Field-testing	16867
 GLOBAL LAND TOOL NETWORK	16916
@@ -159,6 +160,7 @@ Handset Subsidy Toolkit	11004,960
 Handset Subsidy Toolkit E.g. Promote	11964
 Harmonization of Regulatory Tools Related	5676
 Harnessing Responsible AI Toolkit	4126
+Hassaniya Text Normalization Tool	17977
 Health Data Toolkit. Retrieved	16942
 Health Strategy Toolkit	396
 Health Strategy Toolkit23	1009
@@ -172,6 +174,7 @@ ICRC Interagency Triage Tool. Monitored	15206
 ICT Tools	13095
 IDMP. Key Tools for Rapid Deployment	17157
 IPP Toolkit	14745
+ITU ICT Regulation Toolkit	17836
 ITU National E-Health Strategy Toolkit	21
 ITU. National E-Health Strategy Toolkit	21
 Improve Tools Techonlogy and Infrastructure Target Actual	13053
@@ -187,6 +190,7 @@ Intersectionality Mainstreaming Toolkit	1554
 Intersectionality Toolkit	1554
 Intrinsic Risk Assessment Worksheet Tool	11156
 Intrinsic Risk Worksheet Tool	11156
+Introduce Modern AI Tools Put APIs	18039
 Irrigation Performance Assessment and Diagnostic Tool	12828
 KEY STRATEGIC RESULTS Next-Generation Identity Tools	13095
 KOBO Toolbox	10829
@@ -194,7 +198,7 @@ KPIs Data Collection Tools Developme	16963
 Kenyan Citizens Took	4258
 Key Indicators Data Collection Tools Frequency	16975
 Key Tools	17157
-Kobo Toolbox	17185
+Kobo Toolbox	17185,721
 Land Tenure Global Land Tool Network	15473
 Land Tool Network	16916
 Landscape Analysis and Tool Selection	1824
@@ -273,6 +277,8 @@ Purpose and Scope The Reconciliation and Attestation Tool	12400
 QTR Consulting Tools for Firm	1988
 RECONCILIATION AND ATTESTATION TOOL	12400
 RECONCILIATION AND ATTESTATION TOOL FOR INSTANT	12400
+RIICE TOOL FOR AGRICULTURAL	18036
+RIICE Tool for Agricultural Investment Planning and Climate	18036
 Rating SYSTEMATIC OPERATIONS RISK- RATING TOOL	11905,4239
 Realism Tools Gov. Invest	13868
 Reemio Expands Digital Tools for Kenya's Rental	2269,19,45,14,9,24,65,84,4,11,6,12,38,10,6,3,8,49,4,421,243,278,96,422,265,221,430,282,332,124,146,163,355,164,56,209,176,238,23
@@ -305,8 +311,8 @@ SYSTEM INSPECTION AND TESTING TOOL Name	16963
 SYSTEMATIC OPERATIONS RISK- RATING TOOL	1264,603,1737,2935,4229,649,143,4098,3,82
 SYSTEMATIC OPERATIONS RISK-RATING TOOL	969,315,9545,135,416,145,330,110,1366,1,1858,301,62,68,777,498,26
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Last Approved	16705
-SYSTEMATIC OPERATIONS RISK-RATING TOOL Rating	2712,1976,6707
-SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173,587,31,862,1060,51,128,576,2,276,66,915,6,79,17,374,35
+SYSTEMATIC OPERATIONS RISK-RATING TOOL Rating	2712,1976,6707,6509
+SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173,587,31,862,1060,51,128,576,2,276,66,915,6,79,17,374,35,453,48
 Saïd Toorbuth Director	14744
 Saúde STAR Strategic Toolkit for Assessing Risks	15966
 Scam Alert Tool	10580
@@ -319,6 +325,7 @@ Service Delivery Information Tool	11218
 Social Protection Risks and Safeguards Toolkit	11156
 Social Protection Stress Test Tool United	10763
 Social Protection Toolbox	11133
+Soil and Water Assessment Tool	17969
 Somalia. The Data for Solutions Toolkit	15191
 Specific Digital Tools	12948
 Spread of Chinese Surveillance Tools	2518
@@ -330,6 +337,7 @@ Strategic Tool for Assessing Risk	14622
 Strategic Toolkit for Assessing Risks	15966
 Stress Testing Social Protection Tool	10763
 SupTech Tool for LMIC	1491
+Supervision des ASC Toolkit Porteur	17882
 System BI Tools Business Intelligence Tools	15023
 Systematic Operating Risk-Rating Tool TA Technical	15411
 Systematic Operations Risk-Rating Tool	6833,5891,2186
@@ -339,10 +347,11 @@ Systems Must Too	15125
 TADAT Tax Administration Diagnostic Assessment Tool	12948,913,576
 TOOGUEDA	16674
 TOOK CASH OR IN-	17043
+TOOLKIT	17856
 TOOLKIT WORKFLOW	11156
 TOOLS	15023
 TOOLS TO ADDRESS THEM STRUCTURAL RISK	11156
-Tax Administration Diagnostic Assessment Tool	10519,465,1516,448,1489,1596,916
+Tax Administration Diagnostic Assessment Tool	10519,465,1516,448,1489,1596,916,952
 Tax Administration Diagnostic Assessment Tool. African	13314
 Teacher Integration of Digital Tools	16963
 Teachers' Perceptions of Digital Tools	11927
@@ -381,7 +390,7 @@ Toolkit for Facility Data Quality Assessment	11596
 Toolkit. The Cybercrime Bill	12982
 Toolkit.pdf. CGAP	11007
 Toolkits	17260
-Tools	21,1864,211,2432,320,397,104,164,152,1482,565,1001,411,4,488,1164,374,2,138,47,614,31,339,120,67,519,387,1023,480,98,323,262,1239,120,33,120,22,19,248,36,332
+Tools	21,1864,211,2432,320,397,104,164,152,1482,565,1001,411,4,488,1164,374,2,138,47,614,31,339,120,67,519,387,1023,480,98,323,262,1239,120,33,120,22,19,248,36,332,109
 Tools Direct	15473
 Tools PAYE Calculator Legacy TOT Calculator	12454
 Tools Standards	9124
@@ -418,6 +427,7 @@ UNESCO’s Data Governance Toolkit. UNESCO	11439
 UNESCO’s Global Toolkit	4126,11492
 USGS ESI Toolbox	17157
 Unit Cost of Infrastructure Estimator Tool	15845
+Use Modern AI Tools LLMs	18039
 Use of Epidemiological Tools	16971
 Use of Tools for Quality Assessment and Management GSBPM	15760
 Venture Debt Took the Spotlight	4972

@@ -2,6 +2,7 @@ A- Reset	9655
 A- Reset Instructing Cote	10931
 AAUCA. All Rights Reserved	17307
 ABOUT US Centre for Policy and Research	12952
+ACCES AUX RESEAUX ET SERVICES CONTENUS	17824
 ACET Senior Director of Research	12329
 ACKNOWLEDGEMENT Research	8604
 ACKNOWLEDGEMENTS The Reserve Bank of Zimbabwe	940
@@ -9,15 +10,18 @@ ACT-PREP Project Manager. Researchers	17735
 AERC Research Paper	15480
 AFRICAN ISTITUTE OF RESEARCH AND DEVELOPMENT	7167
 AI Artificial Intelligence ARC Academic Research	14747
-AI Research	4528,7984,2431
+AI Research	4528,7984,2431,2941
 AI Research Centers	1363
 AI Research Centres	12675
 AI Research Foundations	5419
 AI Research Fund	6132
+AI Research Investments	17884
 AI Research Labs	4528,7984
+AI Research Measures	17884
 AI Research and Innovation	12210
 AI Research and Innovation Alliance	2142
 AI Research and Innovation Alliance Ostafrikanische Allianz	2142
+AI Researcher	18039
 AI Researchers	4528,7984
 AI Safety Technical Research	8301
 AI Tech Park for Research	14752
@@ -196,6 +200,7 @@ Baacil Institute for Research and Development Keywords	15146
 Backbone System BERNET Burundi Education and Research	13312,2
 Background Links Underline Readable Font Reset	12322
 Balance Sheet Reset	4461
+Bank Policy Research Working Paper No	17962
 Bank of Zambia Two Deputy Governors Research	6938
 Banking Transportation Maritime Legal Business Research	9750,247
 Banks Reserves	17235
@@ -407,6 +412,7 @@ Deputy Minister for Research and Development Planning	16970
 Derechos Reservados	17341
 Description National Space Research and Development Agency	1274,1196,2103
 Description Research and Development	1671,977,2999
+Design Reseau OOB	17823
 Design Science Research	7759,1369
 Desk Research	226,11988,2605,78
 Desktop Research	12376
@@ -416,7 +422,7 @@ Developing Information Society Research Program	16885
 Development Academic Research Public Opinion Education	15713
 Development Research	10721
 Development Research Centre	12138
-Development Research Group	10714,263,2107,675,2084,1,2,819,380
+Development Research Group	10714,263,2107,675,2084,1,2,819,380,880
 Development Standards and Research PLC Programmable Logic	12975
 Diagnostic Study of Higher Education and Scientific Research	11552
 Diagnostic and Prognostic Research	7759
@@ -535,6 +541,7 @@ Enhance ICT Research and Development	13346
 Enhance Research and Development	12384
 Enhance Research and Innovation	12356
 Enhanced Role of Evidence-Based Research	15604
+Enhancement of AI Education and Research	17884
 Enhancing Research Dissemination and Uptake	1554
 Enhancing Research and Development	16884
 Enhancing Research and Development With Broadband D4	16884
@@ -741,7 +748,7 @@ High-Level Education Academic Research Talent	15713
 Higher Education Research Science and Technology	16852
 Higher Education and Research	14747
 Higher Education and Research. Non-formal	15480
-Higher Education and Scientific Research	9703,1849,3697,896
+Higher Education and Scientific Research	9703,1849,3697,896,1725
 Higher Education and Scientific Research Law	11552
 Home Affairs Research	1988
 Hosting of Strategic Events The Research Council	1554
@@ -858,7 +865,7 @@ International Business Research	8021
 International Center for Medical Research	15411
 International Development Research Centre	1154,660,2312,1101,2659,3074,1178,58,82,49,174,225,344,987,1903,1061
 International Experience. World Bank Policy Research	10997
-International Food Policy Research Institute	1507,5441,3820,1390,1173,1807,1909
+International Food Policy Research Institute	1507,5441,3820,1390,1173,1807,1909,859
 International Food Policy Research Institute Investors	12837
 International Food Poverty Research	11986
 International Journal For Multidisciplinary Research	6948
@@ -882,6 +889,7 @@ International Research Centre of Excellence	15321
 International Research Institute for Climate and Society	14551
 International Research Journal of Education and Technology	8022
 International Reserve Position	17257
+International Rice Research Institute	18036
 Internet Research	11006
 Internet Research Task	16963
 Internet Research Task Force	991
@@ -1029,6 +1037,7 @@ Market Research CCF Crime Combating Forum	11188
 Market Research Society	1363
 Masakhane Research Foundation	2179,12
 Master Sponsored Research Agreements	4126
+Mauritania Research	17884
 Mauritius Fintech Ecosystem Mapping Research Mauritius	14819
 Mauritius Police Force Police Research	14760
 Mauritius Research	14819
@@ -1095,7 +1104,9 @@ NCI Cancer Research Data Commons	7313
 NDVI Anomaly Water Reserve Status Response	17157
 NFIS Net International Reserves NIR National	17235
 NIRA Somalia. All Rights Reserved	14978,13,39,31,1,161
+NORMALISATION DES RESEAUX	17819
 NREN National Research and Education Network	15164
+NREN National Research and Education Network P2G	17870
 NREN National Research and Education Networks OBR	13312,2
 NRF Research	7548
 NSI Reserve Account	12364
@@ -1194,7 +1205,7 @@ National Research Universities	7548
 National Research and Academic Network LTA Liberia	1777
 National Research and Education	15164
 National Research and Education Infrastructure	9126
-National Research and Education Network	11552,3895,66,1359,103
+National Research and Education Network	11552,3895,66,1359,103,895
 National Research and Education Network NSA	16975
 National Research and Education Network of Guinea-Bissau	11552
 National Research and Education Networks	251,1013,1552,3006,6096,4226,955,15
@@ -1347,6 +1358,7 @@ Promote Research and Development	12359
 Promoting Cutting-Edge Research	16861
 Promoting Thematic Research Institutes-Networks DLR	17458
 Promotion of Research and Innovation Honourable Chair	12971
+Prospérité Partagée RESEN Rapport	17885
 Protection Regulation GLOPID-R Global Research Collaboration	14434
 Provide Research Support	12675
 Public Research Organizations Technical Assistance	12389
@@ -1373,6 +1385,7 @@ R. Jhurry Research Executive	14835
 RAND Research Report RR-3572-1	11140
 RAP Resettlement Action Plan RCV Republic	11863
 RAP Resettlement Action Plan REDISSE Regional	11380
+RAP Resettlement Action Plan RF Results	17862
 RAP Resettlement Action Plan RPF Resettlement	1988,13523
 RAP Resettlement Action Plans RPF Resettlement	16614
 RBZ Reserve Bank of Zimbabwe RTGS Real-Time	13420
@@ -1419,10 +1432,11 @@ RESEAU SOLIDARITE ENTREPRENEURIALE	15465,991
 RESEAUX	15592
 RESEAUX ET SYSTEMES D'INFORMATION Article	15429
 RESEAUX NON TERRESTRES Article	15654
-RESEN	1679,9844,34,359,1433,2324
+RESEAUX SOUTERRAINS	17819
+RESEN	1679,9844,34,359,1433,2324,2157,55
 RESERVATIONS ARTICLE	12527
 RESERVED	16929
-RESERVES	13053
+RESERVES	13053,4780,8
 RESERVES AND AI Facing	8526
 RESERVES AND LIABILITIES	13053
 RESERVES AND LIABILITIES RESERVES Government	13053
@@ -1436,9 +1450,11 @@ RESETTLEMENT PLANNING AND IMPLEMENTATION PROCESS	17114
 RESMOV Reserve Operation Default TTC	12364
 RF Results Framework RPF Resettlement Policy	13331
 RIA Research	5008
+RIGHTS RESERVED	17869
 RISK COMMITTEE The Research Council of Zimbabwe	1554
 RPF Resettlement Planning Framework RPP Revenue	11380
 RPF Resettlement Policy Framework RPP Revenue	15515
+RPF Resettlement Policy Framework SCD Systematic	17862
 RPF Resettlement Policy Framework SEA Sexual	15621
 RTGS RTGS DIRECT RESERVE BANK	12490
 Real Reserve Africa	10078
@@ -1467,7 +1483,7 @@ Request for Quotations RPF Resettlement Policy Framework	11525
 Required Liquid Asset Reserve	17236
 Required Reserve	17317
 Required Reserves	17236
-Research	24,372,191,179,133,71,30,121,33,42,29,1,141,145,2,40,43,180,37,279,3,222,6,103,20,74,20,25,48,44,19,32,11,5,51,2,41,1,3,50,41,11,18,4,1,10,59,1,8,154,105,18,126,31,163,112,7,18,31,29,39,2,28,141,37,21,38,242,64,1,57,38,25,30,26,22,131,14,55,205,38,11,161,6,58,32,7,99,45,60,43,22,79,181,78,116,154,29,19,70,19,69,102,5,2,5,57,47,1,149,7,16,43,20,50,10,92,38,202,92,177,1,42,169,30,1,88,76,67,1,53,55,171,135,24,142,2,79,64,70,51,147,52,40,1,15,5,1,108,127,395,130,4,202,3,91,381,151,43,12,4,72,117,37,5,6,11,4,47,54,1,1,5,9,7,39,23,8,62,1,30,17,249,26,43,114,87,5,3,16,5,1,10,10,22,13,46,8,31,65,69,1,15,10,20,5,4,13,4,11,36,40,10,23,4,1,20,19,50,22,20,25,32,98,32,1,3,40,184,24,9,36,1,6,4,12,16,27,11,3,26,21,11,100,86,19,7,11,111,18,13,3,79,191,67,157,15,5,13,282,19,50,55,212,44,7,1,49,6,14,4,1,2,2,23,35,2,6,1,5,5,68,25,75,99,68,309,79,4,105,2,50,3,9,40,24,125,1,94,34,1,100,137,186,84,282,19,20,12,1,2,40,34,6,1,3,1,1,23,21,1,50,37,13,20,11,8,23,16,37,2,95,17,111,56,60,81,84
+Research	24,372,191,179,133,71,30,121,33,42,29,1,141,145,2,40,43,180,37,279,3,222,6,103,20,74,20,25,48,44,19,32,11,5,51,2,41,1,3,50,41,11,18,4,1,10,59,1,8,154,105,18,126,31,163,112,7,18,31,29,39,2,28,141,37,21,38,242,64,1,57,38,25,30,26,22,131,14,55,205,38,11,161,6,58,32,7,99,45,60,43,22,79,181,78,116,154,29,19,70,19,69,102,5,2,5,57,47,1,149,7,16,43,20,50,10,92,38,202,92,177,1,42,169,30,1,88,76,67,1,53,55,171,135,24,142,2,79,64,70,51,147,52,40,1,15,5,1,108,127,395,130,4,202,3,91,381,151,43,12,4,72,117,37,5,6,11,4,47,54,1,1,5,9,7,39,23,8,62,1,30,17,249,26,43,114,87,5,3,16,5,1,10,10,22,13,46,8,31,65,69,1,15,10,20,5,4,13,4,11,36,40,10,23,4,1,20,19,50,22,20,25,32,98,32,1,3,40,184,24,9,36,1,6,4,12,16,27,11,3,26,21,11,100,86,19,7,11,111,18,13,3,79,191,67,157,15,5,13,282,19,50,55,212,44,7,1,49,6,14,4,1,2,2,23,35,2,6,1,5,5,68,25,75,99,68,309,79,4,105,2,50,3,9,40,24,125,1,94,34,1,100,137,186,84,282,19,20,12,1,2,40,34,6,1,3,1,1,23,21,1,50,37,13,20,11,8,23,16,37,2,95,17,111,56,60,81,84,131,14,154
 Research Abundant R&D Resource AI Patent	15713
 Research Act	413,741,400
 Research Act. RESEARCH PROMOTION	1154
@@ -1496,7 +1512,7 @@ Research Bulletin	11131
 Research CIHIR Group CyberSecurity	12361
 Research Capacity	12356
 Research Category and Sex	2775
-Research Center	4325,11228,1425
+Research Center	4325,11228,1425,892
 Research Center for Army and Security	15553
 Research Centers and Think Tanks	1814
 Research Centre	7167,3711,2178
@@ -1650,6 +1666,7 @@ Research Square Cite Share Download PDF	12379
 Research Square Preprint	8604
 Research Statistics and Information Management SARA Service	15556
 Research Steering Committee	6947
+Research Strengthening	17884
 Research Symposium Zimbabwe International Trade Fair	1154
 Research Symposium Zimbabwe Parks and Wildlife Management	1554
 Research Team	6947
@@ -1698,6 +1715,7 @@ Research and Education N	17219
 Research and Education Ne	17219
 Research and Education Network	2989,1664,10511
 Research and Education Network Kabale	15164
+Research and Education Network MATD Ministry of Territorial	17870
 Research and Education Network WAEMU West African	16144
 Research and Education Network for Uganda	5413
 Research and Education Networks	13314
@@ -1712,6 +1730,7 @@ Research and Innovation	2335,5213,4808,188,131,1630,340,84,18,2025,213
 Research and Innovation Centers Establishing	17011
 Research and Innovation Directors Forum	1554
 Research and Innovation Mauritius	14747
+Research and Innovation Measures	17884
 Research and Innovation Policy	12675
 Research and Innovation Policy18	12675
 Research and Innovation Publication	11288
@@ -1788,7 +1807,7 @@ Researchand Innovation	14747
 Researched	13094,3782
 Researcher	3162,3645,305,1189,2988,261,4639,274,439,19
 Researcher Dr Nyasha Mlambo	13597
-Researchers	571,328,915,10,268,866,321,85,703,109,256,431,361,78,167,247,782,20,652,851,1,261,68,29,56,241,133,646,513,681,144,175,63,111,122,89,151,153,226,1,10,27,168,69,1,45,5,141,4,14,118,1504,575,181,65,169,1208,674,689,117,121,7
+Researchers	571,328,915,10,268,866,321,85,703,109,256,431,361,78,167,247,782,20,652,851,1,261,68,29,56,241,133,646,513,681,144,175,63,111,122,89,151,153,226,1,10,27,168,69,1,45,5,141,4,14,118,1504,575,181,65,169,1208,674,689,117,121,7,241
 Researchers Academia H H University of Nairobi	12210
 Researchers Thobekile Matimbe	1383
 Researcher’s Own Compilation	14932
@@ -1817,7 +1836,7 @@ Reservada	10753
 Reservadamente	8760
 Reservas	16089
 Reservas Fundiárias	11443
-Reservation	3714,8679,792,888,151,518,338
+Reservation	3714,8679,792,888,151,518,338,2890
 Reservation of Company Name	14891
 Reservation of Erven Erven	13189
 Reservation of Numbering Resources D10	17250
@@ -1900,7 +1919,7 @@ Resetting for Growth	7695
 Resettlement	1988,9875,364,146,539,508,353,58,66,41,3161,15,43
 Resettlement Action	17114
 Resettlement Action Plan	1988,9875,2075,1573,191,952,242,218
-Resettlement Action Plan ARCEP Regulatory Authority	15511
+Resettlement Action Plan ARCEP Regulatory Authority	15511,2351
 Resettlement Action Plan and Resettlement Policy Framework	3456
 Resettlement Action Planning	17099
 Resettlement Action Plans	3604,7921,3847,1242,500
@@ -1916,7 +1935,7 @@ Resettlement Plan	14576,1085,1453
 Resettlement Plan Framework	15372,139
 Resettlement Plans	16144,970
 Resettlement Policy	1988,11036,227
-Resettlement Policy Framework	10964,561,399,329,1078,1581,226,234,181,48,58,955
+Resettlement Policy Framework	10964,561,399,329,1078,1581,226,234,181,48,58,955,1348
 Resettlement Policy Framework RPP Revenue Protection	11549
 Resettlement Policy Framework SDM Single Digital	16926
 Resettlement SCREENING CHECKLIST FOR IDENTIFYING CASES	17114
@@ -1936,6 +1955,7 @@ Roland Banya and Tapiwa Chinembiri Research	9759
 Role of Research and Education	2816
 Role of Research and Extension	11140
 Roseires Reservoir	14897
+Rural Polytechnic Institute of Training and Applied Research	17870
 Rural Resettlement	520,420
 Rwanda NatSwitch Reserve Bank of Malawi	12214
 Rwanda RESEARCH REPORT	12328
@@ -1958,6 +1978,8 @@ SMART Zambia Institute. All Rights Reserved	12375,6
 SPEECH Resetting for Growth	7695
 STUDY MIGHT AFFECT RESEARCH	10881
 SUBMISSION BY RESEARCH ICT AFRICA	6512
+SUR LE DEPLOIEMENT DES RESEAUX	17819
+SUR LES RESEAUX DE Article	18032
 SUR LES RESEAUX DE COMMUNICATIONS ELECTRONIQUES	16617
 SVP for Research	3619
 Safeguarding the National Research Mandate The Committee	1554
@@ -1973,7 +1995,7 @@ Science and Research MoUs Memorandum of Understanding MQCHE	14747
 Science and Research Technical Advisory Committee	5036
 Science and Research The Ministry of Tertiary Education	14747
 Science and Research’s Mission	14747
-Science and Scientific Researchers	14073,1895
+Science and Scientific Researchers	14073,1895,2002
 Science and Technology CABINET APPROVES NATIONAL RESEARCH	14286
 Science and Technology Research Foundations	13952
 Science and Technology Research and Development Institutions	13952
@@ -1986,6 +2008,7 @@ Scientific Research Clear	2958
 Scientific Research Encourage	2958
 Scientific Research Graduate	2958
 Scientific Research Hossam Osman	16255
+Scientific Research MFI Microfinance Institution	17870
 Scientific Research MoI Ministry of Interior MoIT-KRT	14897
 Scientific Research Prior	2958
 Scientific Research Publishing Inc	11927
@@ -2203,7 +2226,7 @@ Unallocated Reserves Transfers	13420
 Under the Reserve Bank	5544
 Underdeveloped Research Infrastructure	12356
 Undertake Research Development and Dissemination	14947
-United Nations Institute for Training and Research	9106,2466,3673
+United Nations Institute for Training and Research	9106,2466,3673,2625
 United Nations University Centre for Policy Research	9616
 Universities and Research	11863
 University Research Partnership Project	8456

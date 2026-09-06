@@ -2,7 +2,7 @@ A- Demand-Linkage Criteria Framework A1- Criteria	7548
 A- Pooled Demand Framework for AI	7548
 A. Policy and Legal Framework Policy	13310
 A. Policy and Legal Frameworks	13310
-A. RESULTS FRAMEWORK PDO Indicators	11924,4512
+A. RESULTS FRAMEWORK PDO Indicators	11924,4512,1526
 A.2 Sampling Frame	15247
 A2- Framework	7548
 A3. Aim of Policy Framework	17017
@@ -408,7 +408,8 @@ Council of Europe Framework Convention	7112,4023
 Council of Europe’s AI Framework Convention. JCMS	17780
 Council of Europe’s Framework Convention	11135
 Country Diagnostic Framework Finance	10841
-Country Partnership Framework	1901,1703,4874,2290,73,123,341,163,7,1,49,330,69,914,130,363,785,511,511,286,87,3,4,32,51,58,2,82,240,310,91,52,7,453,26,27,509
+Country Management Unit Country Partnership Framework	17862
+Country Partnership Framework	1901,1703,4874,2290,73,123,341,163,7,1,49,330,69,914,130,363,785,511,511,286,87,3,4,32,51,58,2,82,240,310,91,52,7,453,26,27,509,404
 Country Partnership Framework Civil Registration Computer	15553
 Country Partnership Framework Corporate Results Indicator	16436
 Country Partnership Framework DA Designated Account	1264,10296
@@ -516,6 +517,7 @@ Data Sovereignty Compliance Framework	11995
 Data. Legal Framework and Personal Data Protection	12533
 De-Identification Decision-Making Framework	14434
 Decision Framework and Available Methods	15138
+Declaration of Assets and Interests Legal Framework	17909
 Definition and Analytical Framework	7966
 Definitions the Alternative Disputes Resolution Framework	12301
 Departments. Initiated Legal and Regulatory Frameworks	14750
@@ -547,7 +549,7 @@ Differentiated Assistance Framework	12297
 DigiAfricaLab Public Education Framework For DigiAfricaLab	10725
 Digital Banking Framework	7341
 Digital Competence Framework	15480
-Digital Competence Framework for Citizens	13314,1583,577,6,13,832
+Digital Competence Framework for Citizens	13314,1583,577,6,13,832,1545
 Digital Competence Framework for Citizens ICT	14915
 Digital Competence Framework for Citizens. Update	15447
 Digital Consumer Protection Framework	12444
@@ -620,6 +622,7 @@ EAC Regional Framework for Trusted Cross Border	8426
 EAC Regional Oversight Framework	13468
 EAC Roaming Framework	13610
 EAG Framework	12359
+ECHO. The Safety Nets Common Framework	17906
 ECOWAS ICT Development Framework	16975
 EFFICIENT SPECTRUM MANAGEMENT FRAMEWORK FOR BROADBAND	16884
 EGYPTIAN Al GOVERNANCE FRAMEWORK- STRUCTURE	16212
@@ -631,7 +634,7 @@ ENVIRONMENTAL AND SOCIAL MANAGEMENT FRAMEWORK	17114
 ESF Environmental and Social Framework ESIA Environmental	15983
 ESF Environmental and Social Framework ESS Environmental	13332
 ESMF Environmental and Social Framework ESMP Environmental	11549
-ESMF Environmental and Social Management Framework ESMP	15621
+ESMF Environmental and Social Management Framework ESMP	15621,2241
 ESP Education Sector Plan FFA Framework	15604
 ESS Environmental and Social Management Framework FM	10964
 ESTABLISHING THE GENERAL FRAMEWORK FOR FINANCIAL	15566
@@ -819,6 +822,7 @@ Forward-Looking Regulatory Framework	17538
 Foundational Strategy and Assessment Frameworks	13095
 Foundations and Framework	17780
 Frame	12090,248,2689,217,2501
+Frame Adapt	17884
 Frame B	12338
 Frame Invest	16996
 Frame Link Module	11209
@@ -843,10 +847,10 @@ Frames Kenya	3617
 Frames ST Digital	3283
 Frames of Mind	2816
 Frames the US-China AI-stack	5257
-Framework	226,347,198,190,9,112,6,61,1,54,39,16,2,553,140,34,136,692,614,30,144,131,388,30,1,10,1,11,250,102,74,231,15,216,68,113,104,201,115,181,506,80,171,187,2,2,127,17,8,445,157,27,185,3,82,579,15,56,114,206,303,6,4,749,92,188,194,370,98,93,52,42,1,124,3,4,18,37,68,4,20,25,141,406,6,89,34,35,193,26,4,89,2,41,13,30,7,18,68,17,29,117,10,16,28,194,12,116,3,6,3,60,83,104,10,27,133,63,142,292,6,284,167,132,105,3,52,10,8,8,2,23,35,7,41,36,39,62,30,102,32,3,283,44,65,27,21,25,85,498,29,12,72,380,162,5,4,66,18,3,5,5,12,26,73,32,22,303
+Framework	226,347,198,190,9,112,6,61,1,54,39,16,2,553,140,34,136,692,614,30,144,131,388,30,1,10,1,11,250,102,74,231,15,216,68,113,104,201,115,181,506,80,171,187,2,2,127,17,8,445,157,27,185,3,82,579,15,56,114,206,303,6,4,749,92,188,194,370,98,93,52,42,1,124,3,4,18,37,68,4,20,25,141,406,6,89,34,35,193,26,4,89,2,41,13,30,7,18,68,17,29,117,10,16,28,194,12,116,3,6,3,60,83,104,10,27,133,63,142,292,6,284,167,132,105,3,52,10,8,8,2,23,35,7,41,36,39,62,30,102,32,3,283,44,65,27,21,25,85,498,29,12,72,380,162,5,4,66,18,3,5,5,12,26,73,32,22,303,461
 Framework AI	7548
 Framework About	10718
-Framework Act	1009
+Framework Act	1009,16925
 Framework Agreement	6921,4180,1288,1023,149,1181,657,857,19,525,441
 Framework Agreements	6432
 Framework All	12512
@@ -888,7 +892,7 @@ Framework Integration Clause Commencement Notwithstanding	5665
 Framework Interchange Format ISO	12360
 Framework Interoperability European	17097
 Framework Launched. Retrieved	1243
-Framework Law	17503
+Framework Law	17503,467
 Framework MV Medium Voltage MW Mega	15515
 Framework NASP National Strategic Plan NDP	11224
 Framework NIST Cybersecurity	12043
@@ -898,6 +902,7 @@ Framework Overall	16942
 Framework PCU Project Coordination Unit PIM	11525
 Framework PIU Project Appraisal Document PRSP	15424
 Framework Published	14018
+Framework RIAS Regional Integration Assistance Strategy	17862
 Framework RPP Revenue Protection Program SAIDI	15659
 Framework RSE	14997
 Framework Review Conduct	12240
@@ -932,6 +937,7 @@ Framework for Compensation of Consumers	9110
 Framework for Conceptualisation and Measurement	5700
 Framework for Digital Taxation	14932
 Framework for Evaluation of Digital Identity	4225
+Framework for Government Intervention	17836
 Framework for HNW and HNI	17011
 Framework for High-Value Intra-Af-	6938
 Framework for Informed Consent	2816
@@ -1028,8 +1034,9 @@ Gender and Social Framework Education Framework. Education	1777
 General Education Framework	12384
 General Framework	14742
 General Information Systems Security Reference Framework	10911
-General Interoperability Framework	15550,71
+General Interoperability Framework	15550,71,2249
 General Security Framework	15550,71
+Geospatial Information Framework	17983
 Gigler’s Alternative Evaluation Framework	10726
 Global AI Governance Frameworks Comparative	16212
 Global AI Governance Frameworks Comparative Study	16202
@@ -1040,10 +1047,10 @@ Global Cybersecurity Cooperation Frameworks	1777
 Global Cybersecurity Cooperation Frameworks. Actions	1777
 Global Digital Health Transformation Framework	15200
 Global Framework Strengthening Project	16942
-Global Framework for Climate Services	14471
+Global Framework for Climate Services	14471,3451
 Global Framework for Refugee Education	11905
 Global Framework of Indicators	3005
-Global Framework of Reference	11879,1435,677,1456,27,19,1470
+Global Framework of Reference	11879,1435,677,1456,27,19,1470,907
 Global Frameworks	1777
 Global Frameworks. Align Liberia	1777
 Global Human Rights Framework Integration	3861
@@ -1098,7 +1105,7 @@ Hands-on Framework	15553
 Hardware Supply Resilience Framework	7548
 Harmonised Implementation Framework	7494,1736
 Harmonization of Cybersecurity Legal Frameworks	14928
-Harmonized Framework	5676
+Harmonized Framework	5676,12228,2
 Harmonized Operational Framework	5677
 Harmonized Operational Framework Given	5677
 Health Check Framework. The Framework	14828,3
@@ -1235,7 +1242,7 @@ Institutional Cooperation Framework	5676
 Institutional Cooperation Framework NRAs	5676
 Institutional Data Governance Framework	15034
 Institutional Data Governance Framework Under	15034
-Institutional Framework	958,6590,4021,820,111,174,243,378,51,1,127,960,1200,80,1171,30,36,163
+Institutional Framework	958,6590,4021,820,111,174,243,378,51,1,127,960,1200,80,1171,30,36,163,756
 Institutional Framework Kenya	7548
 Institutional Framework OBJECTIVE	12674
 Institutional Framework Q1 Q2 Q3 Q4	12917
@@ -1296,6 +1303,7 @@ International Governance Frameworks	13474
 International Legal Framework	14889
 International Legal and Policy Frameworks	7548
 International Legal and Policy Frameworks Internationally	7548
+International Solar Alliance Framework Agreement	18016
 International and Regional Frameworks	16975
 International and Regional Frameworks The National ICT	16975
 Internet Civil Rights Framework	5366
@@ -1475,13 +1483,15 @@ MTEF Medium-Term Expenditure Framework NCB National	17441
 MTF Multi-Tier Framework MWh	11572
 MTF Multi-Tier Framework PDELR Network Extension	16188
 Macro Stress Testing Framework	11134
-Macroeconomic Framework	13685
+Macroeconomic Framework	13685,4224,81
 Macroeconomic Policy Framework Adequacy of Burkina Faso	15621
 Macroprudential Policy Framework	11131
 Madagascar Country Partnership Framework FY23-FY27	14456
 Malabo Convention and AU Data Policy Framework	1814,4657
 Malawi Digital Health Governance Framework	14674
 Malawi Government’s Medium Term Expenditure Framework	13053
+Mali Digital Economy Diagnostic SDM Framework	17870
+Mali PKI Framework	17870
 Management Framework	15236
 Management Framework EU Primary Healthcare Facility	3604
 Management Framework and Strategies for Sustainability	16963
@@ -1523,6 +1533,8 @@ Ministry of Education Student Data Protection Framework	3861
 Ministry of Framework Education	1777
 Ministry's Strategic Performance Framework	10980
 Ministry. The Risk Management Framework	14835
+Mission Strategic Framework	17883
+Mission Strategic Framework Mission Goal	17883
 Model AI Governance Framework and AI Verify	11135
 Model Framework for Building Internet Resilience	2954
 Model Framework. SECTION	17017
@@ -1531,6 +1543,7 @@ Model Policy Framework for Information Integrity	17017
 Model Policy Guidelines and Model Regulatory Frameworks	8995
 Moderate LEGAL COVENANTS2 RESULT FRAME TBL PD	16896
 Modernization Framework	12758
+Modest. The Results Framework	17962
 Modified Legal Framework	10
 Module for Framework Agreement Management	12389
 Monetary Policy Framework	14744
@@ -1709,6 +1722,7 @@ National Master Sample Frame	16833
 National Medium-Term Development Framework	15927
 National Medium-Term Development Policy Framework	15927
 National Medium-term Development Policy Framework	1779
+National Partnership Framework	17962
 National Payment System Framework and Strategy	14997
 National Payment System Framework and Strategy Vision	4824
 National Payments Systems Vision and Strategy Framework	5831
@@ -1811,6 +1825,7 @@ PART II INSTITUTIONAL FRAMEWORK FOR DEVELOPMENT	13318
 PDO and Results Framework	15663
 PEF Program Expenditure Framework PEFA Public	17458
 PHASES OF IMPLEMENTATION FRAMEWORK	961
+PHCPI Framework	17869
 POLICIES AND PROGRAMS FRAMEWORK	17157
 POLICY AND LEGAL FRAMEWORKS	13310
 POLICY COORDINATION AND INSTITUTIONAL FRAMEWORK	16915
@@ -1847,6 +1862,7 @@ Partners MACROECONOMIC FRAMEWORK Implement	11906
 Partners MACROECONOMIC FRAMEWORK World Bank Implement	11906
 Partnership Framework	17196
 Partnership Framework Agreement	11401
+Partnership Framework CP-SNPS National Social Protection	17849
 Partnership Framework CPF Corporate Results Indicator	11417
 Partnership Framework CRI Corporate Results Indicator	15661
 Partnership Framework CSI Corporate Scorecard Indicator	6539
@@ -1890,9 +1906,10 @@ Policy Framework for Information Integrity	17018
 Policy Framework for Integrated Planning	11224
 Policy Framework for Investment	15715
 Policy Framework. States	17018
-Policy Frameworks	12731,826,3557
+Policy Frameworks	12731,826,3557,756
 Policy Implementation Framework	16975
 Policy International Legal Framework	14889
+Policy NPF National Framework for Climate Services	17962
 Policy Planning and Legal Framework	15415
 Policy Statement. THE POLICY THE FRAMEWORK	16861
 Policy and Governance Framework	11195
@@ -1948,7 +1965,7 @@ Project Management Framework	12453,892
 Project Reporting Framework Timely	11857
 Project Results Framework	10963
 Project's Results Framework	15802
-Project’s Results Framework	13392,3044
+Project’s Results Framework	13392,3044,1413
 Promote Open Finance and Data Sharing Frameworks	15130
 Promotional Policy Framework	14754
 Promotional Tariff Framework	14754
@@ -1962,6 +1979,7 @@ Public Sector Emerging Technologies Framework	12453
 Public Service and DHA Disability Policy Frameworks	11986
 Public-Sector AI Adoption and Procurement Framework	14664
 Publication of Final Framework	17212
+Purchasing Power Parity RF Results Framework	17849
 Putting the Framework	11156
 Qualification Framework GTTI Gambia Technical Training	16852
 Qualifications Framework	10280
@@ -1975,7 +1993,7 @@ REFUGEE POLICY REVIEW FRAMEWORK	11900
 REGIONAL LEADERSHIP Governance Framework	14566
 REGULATORY AND INSTITUTIONAL FRAMEWORK	14947
 REGULATORY AND INSTITUTIONAL FRAMEWORK The Rwanda	14947
-REGULATORY AND POLICY FRAMEWORKS AND IMPLEMENTATION	14073
+REGULATORY AND POLICY FRAMEWORKS AND IMPLEMENTATION	14073,3897
 REGULATORY FRAMEWORK	12389,4483
 REGULATORY FRAMEWORK AND ITS GAPS	14673
 REGULATORY FRAMEWORK DESCRIPTION	1988
@@ -1983,6 +2001,7 @@ REGULATORY FRAMEWORK OF BUSINESSES	14828,3
 REGULATORY FRAMEWORK OF THE ACT Enforcement	3714
 REGULATORY FRAMEWORK Strengthen Legislative and Regulatory	16942
 REGULATORY FRAMEWORK THAT GUIDES THE JUDICIARY	12920
+REGULATORY FRAMEWORK The GoM	17870
 REGULATORY FRAMEWORKS Gaps	14879
 REQUIRED INSTITUTIONAL FRAMEWORK FOR POLICY	16883
 RESETTLEMENT FRAMEWORK	17114
@@ -1997,7 +2016,7 @@ RESULT FRAME TBL IO PBC Baseline End Target	13331
 RESULT FRAME TBL IO PBC Baseline Intermediate Targets	10964
 RESULT FRAME TBL PD O Indicator Name PBC	10829,135,4589,1343,26
 RESULTS FRAMEWORK	2889,8974,3880,401,240
-RESULTS FRAMEWORK AND KEY OUTPUTS	11924,3500,87,90,62,68,705,516
+RESULTS FRAMEWORK AND KEY OUTPUTS	11924,3500,87,90,62,68,705,516,897,13,100
 RESULTS FRAMEWORK AND KEY OUTPUTS A	15424,177,62
 RESULTS FRAMEWORK AND KEY OUTPUTS Actual	15511
 RESULTS FRAMEWORK AND MONITORING	11417
@@ -2017,6 +2036,7 @@ RISK GOVERNANCE FRAMEWORK THE BANK RISK	15023
 ROLES AND RESPONSIBILITIES FRAMEWORK	14874
 RPF Resettlement Planning Framework RPP Revenue	11380
 RPF Resettlement Policy Framework RPP Revenue	15515
+RPF Resettlement Policy Framework SCD Systematic	17862
 RPF Resettlement Policy Framework SEA Sexual	15621
 RURA’S OPERATIONAL FRAMEWORK	718
 RURA’S OPERATIONAL FRAMEWORK RURA	718
@@ -2098,7 +2118,7 @@ Research ICT Africa's Just AI Framework	8836
 Resettlement Action Plan and Resettlement Policy Framework	3456
 Resettlement Framework	3604,10949,2561
 Resettlement Plan Framework	15372,139
-Resettlement Policy Framework	10964,561,399,329,1078,1581,226,234,181,48,58,955
+Resettlement Policy Framework	10964,561,399,329,1078,1581,226,234,181,48,58,955,1348
 Resettlement Policy Framework RPP Revenue Protection	11549
 Resettlement Policy Framework SDM Single Digital	16926
 Reshaping the Modern SOC Risk Management Framework	3279
@@ -2108,10 +2128,10 @@ Restructuring the Public Sector Pension Framework Proposed	14828
 Result Framework	13897
 Result Framework And Budget.......66	13999
 Results Based Logical Framework	13005
-Results Framework	1284,1007,598,715,7225,134,1,453,438,8,42,19,41,43,348,558,66,351,1,46,14,439,107,950,250,273,190,57,1,4,41,265,63,112,43,249,239,221,26,21,6,3,8,3
+Results Framework	1284,1007,598,715,7225,134,1,453,438,8,42,19,41,43,348,558,66,351,1,46,14,439,107,950,250,273,190,57,1,4,41,265,63,112,43,249,239,221,26,21,6,3,8,3,999
 Results Framework Adjustments	4653
 Results Framework COUNTRY	10829
-Results Framework Change	15601
+Results Framework Change	15601,2248,13
 Results Framework Intended Outcome	13095
 Results Framework Matrix	12176
 Results Framework Medium Capacity	16943
@@ -2150,6 +2170,7 @@ Review of Tax Policy and Legal Framework Pertaining	17011
 Revised Framework for Strategic Plans and Annual	11986
 Revised Framework for Strategic Plans and Annual Performance	11224
 Revised Migration Policy Framework for Africa	16874
+Revised PDOs and Results Framework	17862
 Rewards and Sanctions Framework	16858
 Rights-Based Framework Aligned	15224
 Risk Assessment Framework	11156
@@ -2208,6 +2229,7 @@ STRATEGY CONCEPTUAL FRAMEWORK Starting the NDS	17157
 SWAZILAND NATIONAL CURRICULUM FRAMEWORK FOR GENERAL	12914
 Safeguard Framework	13080
 Safeguards Framework	13095
+Safety Nets Common Framework	17906
 Safety and Security Framework	11050
 Safety and Systemic Risk Framework	11050
 Salient Stakeholder Framework	11131
@@ -2423,12 +2445,13 @@ U.S.-Kenya Health Framework of Cooperation	4426
 U.S.-Kenyan Health Cooperation Framework	5550
 UASF Framework	12558
 UCC Research Support and Collaboration Framework	9781
-UN Cooperation Framework	8754,8219
+UN Cooperation Framework	8754,8219,1017
 UN Development Assistance Framework	14959
-UN Framework	11925
+UN Framework	11925,6065
 UN Sustainable Development Cooperation Framework	16973
 UN Sustainable Development and Cooperation Framework VDPV2	16941
 UN Universal DPI Safeguards Framework	11007
+UN-Mauritania Cooperation Framework	17909
 UNDP Digital ID Governance Framework	13005
 UNDP Governance Framework	13005
 UNDP Governance Framework for Digital ID	13080
@@ -2474,7 +2497,7 @@ Unified M&E Framework	12563
 Unified Reporting Framework for Terrestrial Infrastructure	5680
 Union’s Risk Management Framework	7938
 Unit Time Frame Remarks Multilevel Green	17157
-United Nations Framework Convention	1264,2166,1,152,1664,2445,1470,262,911,676,199,362,634,50,2486,387,596,311,886,27,191,117,201
+United Nations Framework Convention	1264,2166,1,152,1664,2445,1470,262,911,676,199,362,634,50,2486,387,596,311,886,27,191,117,201,476
 United Nations Framework General Convention	1988
 United Nations Integrated Geospatial Information Framework	6693,6952
 United Nations Interim Cooperation Framework	15039
@@ -2483,12 +2506,14 @@ United Nations Sustainable Development Cooperation Framework	10776,2186,24,2739,
 United Nations Sustainable Development Framework Guidance	16950
 United States. Since the Cooperation Framework	4154
 United States. Under the Framework	4165
+United-Nations’ Integrated Geospatial Information Framework	17983
 Universal DPI Safeguards Framework	2930,1706
 Updated OECD Framework	11007
 Use Case Prioritization Framework	3731
 Use of Borrower's Environmental and Social Framework	1988
 User Rights Framework	12675
 Using the Choice Framework	10726
+Utilisation de Framework	17902
 V. LEGAL FRAMEWORK	12201
 V. RESULTS FRAMEWORK AND MONITORING	11855
 V. RESULTS FRAMEWORK AND MONITORING Results	11855
@@ -2534,7 +2559,7 @@ World Bank Environmental and Social Framework	1988,4551,9897,513,165
 World Bank Environmental and Social Frameworks	12253
 World Bank Group Country Partnership Framework	12176,935,3811
 World Bank Group. Country Partnership Framework	15663
-World Bank Group’s Country Partnership Framework	6539,9119,5
+World Bank Group’s Country Partnership Framework	6539,9119,5,2299
 World Bank ID4D Interoperability Framework	4368
 World Bank's Country Partnership Framework	13431,3005
 World Bank's Country Partnership Framework for Mozambique	4214
@@ -2542,7 +2567,7 @@ World Bank's Environment and Social Framework	1778,11212,1497
 World Bank's Environmental Social Framework	13792
 World Bank's Environmental and Social Framework	15055
 World Bank. Country Partnership Framework	15601
-World Bank’s Country Partnership Framework	16436
+World Bank’s Country Partnership Framework	16436,1413
 World Bank’s Environmental and Social Framework	16144,955,15
 World Bank’s Environmental and Social Framework. Once	16926
 World Bank’s New Procurement Framework	10964

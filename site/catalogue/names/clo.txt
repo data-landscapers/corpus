@@ -81,6 +81,7 @@ Assess The Security Provisions For Cloud	34
 Atlas Cloud Services	3859
 Audited Closing	10793
 Aug-2018 Actual Closing	15601
+Aug-2024 Operation Closing	18006
 Aug-2025. Operation Closing	13058
 Azure and Google Cloud	7173
 Azure for Google Cloud for AWS	6667
@@ -98,6 +99,7 @@ Bank Approval Date Closing Date	14888,2072
 Bank of Nigeria CCTV Closed-Circuit Television CNI	11857
 Baobab Cloud	9239
 Baobab Cloud Services	6299
+Baseline Closing Period	17962
 Baseline Original Revised Closing	15663
 Big Data and Cloud	10948,3781
 Billion Clock Nigeria	9690
@@ -142,13 +144,15 @@ CLOSES IN LAGOS WITH EIGHT CALLS	7039
 CLOSING DATE	11240,1160
 CLOSING THE GAP	10714
 CLOSING TIME	11240
+CLOSURE Baseline NPV	17962
 CLOTHING INDUSTRY	16900
 CLOTURE ACTION Investigation Préparation	14424
 CLOTURE DES TRAVAUX	16233
-CLOUD	6477,3611,786,515
+CLOUD	6477,3611,786,515,6456
 CLOUD Act	4676,416,210,948,171,50,46,4,59,891,1433,8791
 CLOUD Act-bound	5302
 CLOUD Act-bound AI	5302
+CLOUD Assurer	17845
 CLOUD BASED ON DATA CATEGORIZATION	6432
 CLOUD BASED ON DATA CATEGORIZATION Technical	6432
 CLOUD COMPLIANCE SELF	6432
@@ -158,6 +162,7 @@ CLOUD COMPUTING SERVICE MODELS Cloud	11196
 CLOUD COMPUTING STANDARDS AND GUIDELINES	34
 CLOUD DEPLOYMENT MODELS	11196
 CLOUD DEPLOYMENT MODELS Cloud	11196
+CLOUD Finaliser	17845
 CLOUD INNOVATION LTD	1919
 CLOUD IT LIMITED Data Controller INST-222773BD812	7167
 CLOUD IT LIMITED Data Processor INST-222773BD812	7167
@@ -247,7 +252,7 @@ Close Corporations and Companies	12342
 Close Critical Skills Gap	13089
 Close Education Student Services Open Days	15552
 Close Hi	3364
-Close Menu	9769,2433
+Close Menu	9769,2433,5802
 Close Menu Get	5050,494,742,79,194,162
 Close Relatives Friends Were Forced	16902
 Close SpaceX	6467
@@ -258,14 +263,14 @@ Close the Agricultural Data Gap	17043,84
 Close the Continent	17069
 Close the Continent’s Investment Gap Gambia Hosts	17069
 Close the Project	14546
-Closed	35,10,3,13,2,1,16,1,1,1,93,23,1,8,34,42,18,29,48,74,46,1,98,10,45,28,1,1,1,1,1,1,115,87,1,1,1,1,1,1,195,34,1,1,391,1,1,1,1,2,1,3733,1497,842,2137,1552,58,32,839,205,2265,445,573,29,1158,260,96,6
+Closed	35,10,3,13,2,1,16,1,1,1,93,23,1,8,34,42,18,29,48,74,46,1,98,10,45,28,1,1,1,1,1,1,115,87,1,1,1,1,1,1,195,34,1,1,391,1,1,1,1,2,1,3733,1497,842,2137,1552,58,32,839,205,2265,445,573,29,1158,260,96,6,655
 Closed Approval Fiscal Year	13742,1206
 Closed Area	14778
 Closed As Necessary	5246
 Closed Books	5482
 Closed Borrower	15959
 Closed Circuit Television	12467
-Closed Current EA Category Original EA	11924
+Closed Current EA Category Original EA	11924,6038
 Closed Data	12419
 Closed Deadline	16312
 Closed I Page25of35 Table	11180
@@ -293,7 +298,7 @@ Closer Look	1828,3579,676,1505
 Closer and Easier	15260
 Closes	3228,34,677,3026
 Closes Roads	9989
-Closing	543,1161,124,693,69,590,249,353,464,122,195,430,248,101,521,50,208,50,167,201,40,14,121,76,42,34,210,294,144,65,27,49,131,88,2,237,58,179,363,449,44,260,210,22,127,1,262,14,86,136,296,94,4,17,40,18,16,105,83,6,3,1,32,63,29,25,29,55,332,201,141,50,30,3,222,59,19,103,324,144,169,17,63,36,101,538,314,86,32,204,193,162,19,95,25,58,37,14,188,153,52,129,48,136,184,515,109,69,185,179,112,9,15,2,123,21,533
+Closing	543,1161,124,693,69,590,249,353,464,122,195,430,248,101,521,50,208,50,167,201,40,14,121,76,42,34,210,294,144,65,27,49,131,88,2,237,58,179,363,449,44,260,210,22,127,1,262,14,86,136,296,94,4,17,40,18,16,105,83,6,3,1,32,63,29,25,29,55,332,201,141,50,30,3,222,59,19,103,324,144,169,17,63,36,101,538,314,86,32,204,193,162,19,95,25,58,37,14,188,153,52,129,48,136,184,515,109,69,185,179,112,9,15,2,123,21,533,56,21,92,77
 Closing Approval	15663
 Closing Argument	6968
 Closing Civic Space	1250
@@ -309,6 +314,7 @@ Closing Date SANS	11269
 Closing Date and Time	12686,275
 Closing Date. ARTICLE VII FINANCIAL MANAGEMENT	16219
 Closing Details	15424
+Closing Digital Infrastructure Gaps	17870
 Closing Ethiopia	8671
 Closing Learning Gaps Through Inclusive Digital	9120
 Closing Meeting	13381
@@ -317,7 +323,7 @@ Closing Note	14566
 Closing Observation Taken	7151
 Closing Opening Remarks	17104,213
 Closing PDO	15663
-Closing Period	3604,8320,64,240,39,293,498,2101,985,292
+Closing Period	3604,8320,64,240,39,293,498,2101,985,292,1526
 Closing Period Apr	1264
 Closing Period Beneficiaries	16032
 Closing Period Building Policy and Financing Pathways	16144
@@ -330,7 +336,7 @@ Closing Period ID	12228
 Closing Period Improve	11905,3756
 Closing Period Improved	1867
 Closing Period Increase	3604,7164
-Closing Period Indicator Name Value Month	2712,1976,3189,3518,4340,278,692,295,96,374,35
+Closing Period Indicator Name Value Month	2712,1976,3189,3518,4340,278,692,295,96,374,35,399,102
 Closing Period Jun	11971,1949
 Closing Period Mar	1264
 Closing Period Month	6579,349
@@ -343,7 +349,7 @@ Closing Period Revise People	4653
 Closing Period Strengthening the Enabling Environment Number	1867
 Closing Period The World Bank CAR	15661
 Closing Period VAT	17079
-Closing Period Value Month	10870,1101,257,39,173,3639,915,85
+Closing Period Value Month	10870,1101,257,39,173,3639,915,85,879
 Closing Reflections	12315
 Closing Remarks RISA	15028
 Closing Rev. Closing	6928
@@ -353,13 +359,16 @@ Closing Rev. Closing IBRD-93170 Effective	17470
 Closing Rev. Closing IBRD-93980 Effective	11971
 Closing Rev. Closing IDA-66100 Effective	15735
 Closing Rev. Closing IDA-67180 Effective	16013
+Closing Rev. Closing IDA-68300 Effective	17958
 Closing Rev. Closing IDA-68480 Effective	17000
 Closing Rev. Closing IDA-72060 Effective	12440
 Closing Rev. Closing IDA-72740 Effective	16994
 Closing Rev. Closing IDA-73570 Effective	10870
 Closing Rev. Closing IDA-74440 Effective	16705
 Closing Rev. Closing IDA-74630 Effective	12228,39
+Closing Rev. Closing IDA-75030 Effective	18006
 Closing Rev. Closing IDA-75110 Effective	17079
+Closing Rev. Closing IDA-75340 Effective	17904
 Closing Rev. Closing IDA-79260 Effective	7877
 Closing Rev. Closing Not IBRD-96930	2712
 Closing Rev. Closing Not IDA-79260	4688
@@ -374,6 +383,7 @@ Closing for Withdrawal Applications IDA-E0930 Effective	1284
 Closing of Borders	16631
 Closing the Access Gaps	6539
 Closing the Access Gaps Study	13331
+Closing the Access Gaps.104 R2	17870
 Closing the Adoption Gap	7138
 Closing the Awareness Gap	7921
 Closing the Connectivity Gap	17771
@@ -407,7 +417,7 @@ Clothing	13385,89,3461
 Clothing Factory	13361
 Cloture	14662
 Cloture du Projet de Preparation	14662
-Cloud	168,790,3,44,199,11,16,33,99,376,1,26,39,9,71,53,2,163,296,1,25,152,24,2,199,129,444,112,67,82,151,50,20,2,202,58,7,24,109,178,91,55,152,44,54,15,242,110,44,53,129,102,446,6,170,85,184,2,11,13,32,103,111,43,98,114,58,136,68,36,34,193,77,86,39,58,291,108,58,28,28,251,96,14,235,283,6,27,340,15,160,322,67,97,32,532,54,69,17,180,99,16,121,40,72,16,90,173,223,104,26,22,167,217,85,165,16,255,19,53,165,200,497,511,229,52,49,6,21,9,60,78,68,63,30,106,378,26,56,14,41,20,14,223,208,7,178,392,163,39,1,51,462,24,39,34,189,41
+Cloud	168,790,3,44,199,11,16,33,99,376,1,26,39,9,71,53,2,163,296,1,25,152,24,2,199,129,444,112,67,82,151,50,20,2,202,58,7,24,109,178,91,55,152,44,54,15,242,110,44,53,129,102,446,6,170,85,184,2,11,13,32,103,111,43,98,114,58,136,68,36,34,193,77,86,39,58,291,108,58,28,28,251,96,14,235,283,6,27,340,15,160,322,67,97,32,532,54,69,17,180,99,16,121,40,72,16,90,173,223,104,26,22,167,217,85,165,16,255,19,53,165,200,497,511,229,52,49,6,21,9,60,78,68,63,30,106,378,26,56,14,41,20,14,223,208,7,178,392,163,39,1,51,462,24,39,34,189,41,59,37,19,31,2
 Cloud Access	3861
 Cloud Act	6415,72,906
 Cloud Ad7o. CptloioundinAdGoopvteiornnmineGntovernment	10157
@@ -424,7 +434,7 @@ Cloud Architects	6832
 Cloud Certification	16924
 Cloud Collaboration Tools	13502
 Cloud Commercial Efficiency Cloud-by-default Compliance	6432
-Cloud Computing	34,539,1941,417,3501,221,138,1,40,716,3648,671,435,54,611,4,385,45,1273,475,396,1571
+Cloud Computing	34,539,1941,417,3501,221,138,1,40,716,3648,671,435,54,611,4,385,45,1273,475,396,1571,867
 Cloud Computing Act	16923,1
 Cloud Computing Adoption and Data Lozalization	12214
 Cloud Computing BANK OF NAMIBIA No	12967
@@ -450,6 +460,7 @@ Cloud Computing and Data Offshoring	7339
 Cloud Computing and Robotics	13356
 Cloud Connect	1739,2698
 Cloud Consideration	12967
+Cloud Credits Compute	18039
 Cloud Deployment Model	9123
 Cloud ERP	9129,7794,1
 Cloud ERP Adoption	9129
@@ -457,6 +468,7 @@ Cloud ERP Adoption Model	9129
 Cloud ERP Implementation and Technology Integration	9129
 Cloud ERP Implementation and Technology Integration. FIGURE	9129
 Cloud Environment	14522
+Cloud Environment High-speed	17870
 Cloud F25 Aug	10714
 Cloud F7ir.1stCAloduodptFioirnst Adoption	10157
 Cloud First	3857,2575,2807,514,124,280,1,152,731,954,1607,3322
@@ -496,7 +508,7 @@ Cloud Migration and Deployment Framework for FPIs	11995
 Cloud Mobile	14752
 Cloud Nacional	5272,5800,317
 Cloud Nacional de Angola	1192
-Cloud National	15624
+Cloud National	15624,2236,19
 Cloud Native Infrastructure	2528
 Cloud Network	13185
 Cloud Network Limited Email	3386
@@ -628,7 +640,7 @@ CloudWalk	2518,6229
 Cloudandthings.io	12478
 Cloudera	10636
 Cloudera. Johannesburg	10636
-Cloudflare	4259,2385,55,1229,1058,631,1153,1009,12,3375
+Cloudflare	4259,2385,55,1229,1058,631,1153,1009,12,3375,2803
 Cloudflare CDN	13074
 Cloudflare DNS-over-HTTPS	700
 Cloudflare DoH	1,16,718,2081,1045,3186,2435,2458
@@ -652,6 +664,7 @@ Collective Investment Schemes and Closed-end Funds	14844
 Colm Cloonan	3649
 Commercial Cloud Enterprise	6477
 Communications and Technology and Google Cloud EMEA Ltd	5799
+Communities Indicator Name Baseline Closing Period	17962
 Company Closure	11939
 Company and Close Corporation De-registrations	11250
 Competitive Offering of Cloud Services for Export. GOAL	15679
@@ -707,12 +720,14 @@ Data and Cloud Strategy	1912
 Date Closing Period Month	6579,349
 Dec-2020 Closing Date	10779
 Dec-2021 Closing Date	10779
+Dec-2022 TF-B4949 Closed	17958
 Dec-2023 Operation Closing	13742,1206
 Dec-2024. Operation Closing	15702
 Dec-2025 Closing Period Result	16032
 Dec-2025 Closing Period Result Yes Month	16032
 Dec-2026 Operation Closing	10870,1397,173
 Dec-2026 Revised Closing Date	15619
+Dec-2026 TF-B4948 Closed	17958
 Dec-2027 Operation Closing	2712
 Dedicated Cloud Budget Lines	10157
 Dedicated Cloud Interconnect	1363,10999
@@ -726,6 +741,7 @@ Director of Cloud Infrastructure	2103
 Director of Cloud Infrastructure and Offshoring	2103
 Disaster Recovery Cloud	9123
 Disbursed COFN-C2470 Closed	17505
+Disbursed TF-B2030 Closed	17904
 Distributed Cloud	4434
 Distributed Cloud Partner Validation Guide	4434
 Djezzy Unveils AI Cloud Platform	6010
@@ -792,6 +808,7 @@ Feuille de Route Cloud	3857
 FinTechs Cloud	6938
 Final Close Interim Close	4972
 Financial Close	5903
+Financing Approval Effectiveness Closing IDA SASPP	17906
 Financing Loan Closing Date Extension Financial	11924
 Fragile Foundation Kasi Cloud	5200
 Freeway Management System Closest	8603
@@ -841,7 +858,7 @@ Google Cloud Infrastructure	12693
 Google Cloud Interconnect	1739,2698
 Google Cloud Partner Advantage	4434
 Google Cloud Partner Experience Centre	6909
-Google Cloud Platform	3859,1934,11082
+Google Cloud Platform	3859,1934,11082,995
 Google Cloud Platform. Tal	16875
 Google Cloud Ready	4434
 Google Cloud Region	1363
@@ -932,6 +949,7 @@ Huawei Cloud SSA	376
 Huawei Cloud South Africa	376
 Huawei Cloud Stack	6653
 Huawei Cloud Strengthens Egypt’s FinTech Ecosystem	6653
+Hybrid Cloud	17870
 Hybrid Cloud Management Professional	17334
 I-I11-A5 Promotion of Cloud Computing Seminars	15713
 I-I11. Intelligent Cloud and Computing Resource Intelligent	15713
@@ -939,6 +957,7 @@ IA Cloud	6375
 IBM Cloud	7066
 ICT Cloud	899
 IDA-62270. Closing Date	13850
+IDA-75040 Closed	18006
 IDC BID CLOSING DATE	11209
 IDC Cloud Taxonomy	16923,1
 IEC Cybersecurity Cloud	11952
@@ -946,6 +965,7 @@ IFC Collaboration No Expected Closing Date	15553,105
 III. The Statutory Clearance Clock	11036
 IKA CLOUD	8635
 IKA Cloud	8502,546
+IMB Cloud	17870
 INDIA IS COMMITTED TO WORKING CLOSELY	12568
 INTERNAL RELATIONS FOR CLOSELY HELD COMPANIES	3714
 INVESTMENT CLOUD AND DATA CENTER CAPITAL	10861
@@ -955,7 +975,7 @@ ITIL and Cloud Computing	12693
 IV- CLOTURE	16620
 Implement Cloud Policy	6432
 Improved Infrastructure for Cloud	15713
-Indicator Name Baseline Closing Period	11924
+Indicator Name Baseline Closing Period	11924,6038
 Indigenous Cloud Service Providers	11995
 Industry Change Closing the Books	7055
 Infogérance Cloudflare	14683
@@ -975,6 +995,7 @@ Investment Project Financing Current Closing	1228
 Issuance of Data Center and Cloud Computing Services	15282
 JHB Cloud	1363
 Jan-2020 Orig. Closing	11395
+Jan-2023 Operation Closing	17962
 Jan-2024 Operation Closing	16705
 Jan-2027 Operation Closing	12228
 Jean Clotaire	15901
@@ -987,12 +1008,15 @@ Jun-2020. Current Closing Date	15693
 Jun-2021. Closing Date	16398
 Jun-2021. Current Closing Date	14971
 Jun-2023 Closing Date	10779
+Jun-2023 Operation Closing	17904
 Jun-2023 Original Closing Date	16638
 Jun-2024 Revised Closing Date	16638
 Jun-2024 Signing Effectiveness Orig. Closing Rev	6579
 Jun-2025 Closing Period Result Month	4653
 Jun-2026 Operation Closing	16994
+Jun-2026 TF-B2030 Closed	17904
 Jun-2026 Yes Closing Period Month	6928
+Jun-2027 IDA-75040 Closed	18006
 KENYA CLOUD POLICY	6432
 KIBELOLO CLOTIDE	15780
 KIFC Fostered Financial Close	14997
@@ -1037,8 +1061,8 @@ Link CLOSING DATE	11240
 Liquid C2 and Google Cloud	1267,369,4100
 Liquid C2's Secure CloudConnect	7467
 Liquid Google Cloud Experience Centre	5737
-Loan Closing Date	1228,56,14317,62,1233,26
-Loan Closing Date Extension	2473,9451,41,1896
+Loan Closing Date	1228,56,14317,62,1233,26,927,13
+Loan Closing Date Extension	2473,9451,41,1896,4101
 Loan Closing Date Extension Loan Cancellations	16032
 Loan Closing Date Extension No Components	15969
 Local Cloud Is Important	7173
@@ -1088,6 +1112,7 @@ NCC Close Ranks On Submarine Cable	2677
 NITDA's National Cloud Computing Policy	9877
 NOSI Cloud	11867
 NVIDIA Cloud Partner	2607,2704,128,1141
+Name Baseline Closing Period	17962
 Namibians. Cloete	8970
 National AI Compute and Cloud	14566
 National AI Research Cloud	5413
@@ -1156,6 +1181,7 @@ Oct-2015. Original Closing Date	13970
 Oct-2017. Revised Closing Date	13970
 Oct-2022 Operation Closing	17505
 Oct-2023 Rev. Closing	11395
+Oct-2024 Operation Closing	17958
 Oct-2025 Operation Closing	15159
 Oct-2025. Proposed Closing	11965
 Oct-2025. Revised Closing	11965
@@ -1179,13 +1205,13 @@ Orange Cloud	7214
 Organization of Data Center and Cloud Computing Services	14944
 Orig. Closing	11375,1683,2101,322,256
 Original Closing	6833,6889
-Original Closing Actual Closing	15663
+Original Closing Actual Closing	15663,2186
 Original Closing Date	12980,2639
 Osibisa Close	3386
 Overview of Cloud Services	6432
 P Le CLOUD National	15624
 PAPSE II Closing Data. Bangui	16436
-PBC Name Baseline Closing Period	10870,5209,915
+PBC Name Baseline Closing Period	10870,5209,915,964
 PDG de Cloudflare	7010
 PDO Outcomes Baseline Closing Period Strengthen	11417
 PM CLOSING DATE	11240
@@ -1240,13 +1266,14 @@ Private Cloud Services Eritel Nextcloud	14327
 Private Cloud Services Offering	14327
 Private Cloud Silver Tier	14327
 Private Cloud VPN Virtual Private Network	6432
+Private Government Cloud	17870
 Private Networks and Closed User Group	762
 Private Sector Data Closure	3810
 Procurement Cloud Procurement	16924
 Procurements of Government Cloud	16924
 Program MS Current Closing Date Dec	13392
 Project Cloning and Institutional Outreach	1554
-Project Closing	11924
+Project Closing	11924,6038
 Project Closing Date	11863,2075,142,931
 Project Closing Sub-objective	11924
 Project Closure Report	1988
@@ -1255,7 +1282,7 @@ Project Project Closure	1778
 Proposed Deadline Closing	1284
 Provide Cloud	6432
 Provisions Concerning Closely Held Companies	3714
-Public Cloud	1885,3359,7115,4346
+Public Cloud	1885,3359,7115,4346,1165
 Public Cloud Comments	16705
 Public Cloud Operators	12359
 Public Cloud Services	10157
@@ -1309,6 +1336,7 @@ Senior Cloud Infrastructure Expert	12693
 Sep-2014. Operation Closing	15704
 Sep-2021. Current Closing Date	15802
 Sep-2023 Operation Closing	16079
+Sep-2024 TF-B5069 Closed	17904
 Sep-2025 Expected Closing Date	3562,11414
 Sep-2025 Operation Closing	11971
 Server Rooms and Cloud	16144
@@ -1355,6 +1383,9 @@ Sustainability and Autonomy Closely	6947
 Sustainable Food Systems. Close	11469
 Switch Close	4896
 Sécurité des Services Cloud	15472
+TF-B4948 Closed	17958
+TF-B4949 Closed	17958
+TF-B5069 Closed	17904
 TRILLION Closing	11004
 Target Target Closing	15663
 Technologies Cloud	15936

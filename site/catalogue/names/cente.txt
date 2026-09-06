@@ -266,11 +266,13 @@ CIX ANNEXES PGES- DATA CENTER PRINCIPAL	14489
 CIX ANNEXES PGES- DATA CENTER SECONDAIRE	14488
 CLEAR POINT COUNSELLING AND PSYCHO-THERAPEUTIC CENTER	7167
 CNEC National Civil Registration Center	15518
+CNOU National Center for Emergency Operations CREDD	17962
 CNSS National Center for Social Security CPC	10812
 COMMERCIAL DATA CENTER FACILITIES	10861
 COMMON GOAL RESEARCH CENTER Data Controller	7167
 COMPREHENSIVE CARDIOVASCULAR CARE CENTER LTD Data	7167
 CSIRT Security Operations Center and Recovery Site	15019
+CTA Alert Processing Center DCS National	17962
 CURESPRINGS MEDICAL CENTER LIMITED Data Controller	7167
 CUSTOM MEDICAL CENTER LTD Data Processor	7167
 CV ANNEXES PGES- DATA CENTER PRINCIPAL	14489
@@ -295,6 +297,7 @@ Call Center Service License	762
 Call Center The NTRA	11642
 Call Center for NRB Customer	12241
 Call Centers	15283
+Call Processing Center	17962
 Camama. Os Data Centers	11317
 Canadian Police Information Center	10979
 Capital Data Center	15656
@@ -304,7 +307,7 @@ Card Production Centers. Once the CNIB	10812
 Career Center Building	9892,1
 Careysburg and Duport Road Health Centers	17068
 Carlos Centeno	11909
-Carolina Population Center	13332
+Carolina Population Center	13332,4550
 Carter Center	10776
 Cash Center	7535
 Ce Data Center	16438
@@ -334,7 +337,7 @@ Centenary Technology Services	3693,4182
 Centenary Technology Services CEO	3423
 Centenary Technology Services' Chief Executive	3693
 Centennial Vision	14929,57,73
-Center	87,824,2047,334,117,27,1181,1334,706,806,759,860,41,161,1430,51,10,77,124,441,169,277,918,136,27,5,28,2,61,378,206,109,275,347,200,342,261,9,39,31,247,69,25,942,352,74,211,10,21,57,44
+Center	87,824,2047,334,117,27,1181,1334,706,806,759,860,41,161,1430,51,10,77,124,441,169,277,918,136,27,5,28,2,61,378,206,109,275,347,200,342,261,9,39,31,247,69,25,942,352,74,211,10,21,57,44,802
 Center ARTICLE	15484
 Center Africa	6938
 Center Building	15206
@@ -427,9 +430,11 @@ Center for Social Pensions	11855
 Center for Strategic	17780
 Center for Strategic and International Studies	4676,566,2346,1176,140,2406
 Center for Studies and Research	15679
+Center for Systems Science and Engineering	17870
 Center for Technological Innovation	16942
 Center for Technology Innovation	8788
 Center for Transparency and Accountability	8955,5399
+Center of Diamniadio	18091
 Center of Excellence	770,5028,7119,3227
 Center of Government	15553
 Center of Learning	14851
@@ -486,6 +491,7 @@ Citizen and Business Centered	15679
 City Center	11546,1371
 Civic Center	7444
 Civic Event Center	2807,4
+Civil Registration Data Processing Center	17870
 Civil Registry Center	14854
 Civil Servants Training Center	3604
 Civil Service Agency. The Data Center	5244
@@ -581,7 +587,7 @@ DIVINE BIRTH MIDWIFERY CENTER LIMITED Data	7167
 DORK MEDICAL CENTER ANNEX LIMITED Data	7167
 DUPOINT MEDICAL CENTER LIMITED Data Controller	7167
 Data Annual Centers	15553
-Data Center	181,9,2076,4,178,66,301,6,14,52,51,22,165,53,136,20,75,77,196,422,12,77,88,390,108,146,319,501,48,161,20,5,1,7,388,44,336,276,431,1029,379,253,102,573,1135,384,72,32,25,131,132,154,172,882,110,158,121,41,121,287,255,492,120,275,252,190,28,32,77,148,16,94,337,75,12,37,70,173,51,168,85,125,1,4,107
+Data Center	181,9,2076,4,178,66,301,6,14,52,51,22,165,53,136,20,75,77,196,422,12,77,88,390,108,146,319,501,48,161,20,5,1,7,388,44,336,276,431,1029,379,253,102,573,1135,384,72,32,25,131,132,154,172,882,110,158,121,41,121,287,255,492,120,275,252,190,28,32,77,148,16,94,337,75,12,37,70,173,51,168,85,125,1,4,107,903,96,113
 Data Center A NOSi	16146
 Data Center Backup	11389
 Data Center Cabling Pathways Datacenter	9123
@@ -630,6 +636,8 @@ Data Center and Cloud Services Directives	9123
 Data Center and IP Multimedia Subsystem Center	3669
 Data Center de CAMTEL	16195
 Data Center de Constantine	6419,612
+Data Center de Nouakchott	17908
+Data Center de Nouakchott URL	17908
 Data Center de ST Digital Auteur	15764
 Data Center de Sénégal Numérique	10578,573
 Data Center de Zamengoe	9916
@@ -640,7 +648,7 @@ Data Center du Ministère	6240
 Data Center. Ce	16714
 Data Center. Et	2300
 Data Center. Upgrade LIBTELCO’s Data Center	16876
-Data Centers	103,1089,1624,1043,391,2169,900,544,85,1389,2052,474,28,80,24,40,8,2909,197,530,5,5,539,210,1326
+Data Centers	103,1089,1624,1043,391,2169,900,544,85,1389,2052,474,28,80,24,40,8,2909,197,530,5,5,539,210,1326,106,221
 Data Centers Cloud	10861
 Data Centers Modulares	1192
 Data Centers Over	9629
@@ -666,7 +674,7 @@ Development Centers COHA Cost of Hunger Assessment	12923
 Development of Operational Centers of Excellence	5677
 Diamniadio National Data Center	647
 Digital Addressing Competence Center	16915
-Digital Center	1426,4705,11036
+Digital Center	1426,4705,11036,703
 Digital Center Guiné-Bissau	17284
 Digital Centers	10852
 Digital Government Cooperation Center	16046
@@ -703,6 +711,7 @@ Donateurs GAVI Banque Mondiale Carter Center	14622
 Dotation du Data Center	15583
 Drone Operations Center	1043,860
 Duke Global Health Innovation Center RAD	14434
+E-Learning Center	18080
 EAPC Ebenezer Worship Center Data Controller	7167
 EDGE Data Center Certification	1264
 EDUCAUSE Center for Applied Research	9128
@@ -720,6 +729,7 @@ Ebenezer Rehab and Wellness Center Data Controller	7167
 Eburru Modern Medical Center Data Processor	7167
 Edition I-I13. Ensure Data Center Sustainability	15713
 Editorial Dickson N. Williams Center for Media	17260
+Education Development Center’s PACETEM	17870
 Egypt International Exhibition Center	16131
 Egypt. The Center	15484
 Egyptian Center for Economic Studies	15473,793
@@ -729,7 +739,7 @@ El Nadeem Center	11079
 Eldohub Innovation Center Data Processor INST-123035BFEA4	7167
 Emergency Management and Operations Centers	4301
 Emergency Operation Center PIC Project Implementation	11417
-Emergency Operations Center	13080
+Emergency Operations Center	13080,4882
 Emergency Operations Center ENSAN II	10776
 Emerging Technologies Egyptian Center for Responsible AI	16212
 Emirates’ Khazna Data Centers	10861
@@ -760,6 +770,7 @@ Establishing the National Information Center	14853
 Ethio Telecom's Digital Experience Center	3788
 Ethiopian Center for Disability and Development	12236,1783
 European Center for Digital Rights	8436
+European Center for Support of Electoral Processes	17988
 European Family Justice Center Alliance	14793
 Evaluation. Carolina Population Center	15658
 FAa Document and Data Center	16853
@@ -778,6 +789,7 @@ Financial Reporting Center	4278,10602
 First Government Data Center	15002
 First Steps Venture Center	12540
 Fogarty International Center	8604
+Forecasting Center and ICT Upgrades	17962
 Forestry Development Committee CNDRA Center for National	16843
 Foundation Carter Center World Bank GAVI	14622
 Franco-Bissau-Guinean Cultural Center	17164
@@ -793,6 +805,9 @@ GOVERNMENT DATA CENTER	14879
 Gabonese Administration Information Center	15518
 Gartner Says Electricity Demand for Data Centers	7548
 General Administration. Center	14854
+Geo Data Center	17983
+Geo Data Center C’est	17983
+GeoData Center	17983
 Gestão de Data Centers	5319
 Ghana Center for Democratic Development	12192,86,223,4143
 Ghana. XALAM DATA CENTER MARKET BRIEFING	3184
@@ -829,6 +844,7 @@ Green Data Center	9123
 Green Data Center and AI Institute	4032
 Green Data Centers	3604
 Growth Centers Program	5247
+GéoData Center	17983
 HISP Center	9139
 HSE Center for African Studies	4433
 Harel Mallac Technologies Data Center	3292
@@ -1009,6 +1025,8 @@ Makerere Innovation Incubation Center	7248
 Makerere Innovation Incubation CenterAfriventia Group	7248
 Makerere Innovation and Incubation Center	7248
 Malawi E-Government Data Center	12241,839
+Mali Vocational Education Training and Enterprise Center	17870
+Malian Center for CGAP Promotion and Intellectual Property	17870
 Managing Director of Centenary Bank	6311
 Mano River Union Center for Regional	16961
 Market Level Assessment. International Trade Center	15474
@@ -1020,6 +1038,7 @@ Media Center	14685,570,498,58,3,4,58,95,21,54,77,8,71,5,29,19
 Medical Center Service Expansion Feasibility Study	955
 Medium-sized Corporations Center	14952
 Mesob Center	10709
+Meteo Computing Center	17962
 Meteorological Center of MALABO	17006
 Meter Control Center MDMS Meter Data	12717
 Middle East Democracy Center	15926
@@ -1037,6 +1056,7 @@ Mohammadia Data Center	16161
 Morocco Data Center Market	1244
 Morocco Digital Center for Sustainable Development	3880
 Morocco FinTech Center	3007
+Moughataa Health Centers	17869
 Mozambique-China Cultural Center	10300
 Mt. Centers. No Vetted	5244
 Multilateral Cooperation Center for Development Finance	4452,1352,2922,1196,66
@@ -1064,6 +1084,7 @@ National Center for Digital Investigations	3214
 National Center for Disease Control	17157
 National Center for Diseases Control NCDC	16863
 National Center for Educational Research and Development	15604
+National Center for Emergency Operations	17962
 National Center for Examination Education Evaluation	15604
 National Center for Global Health and Medicine	16329
 National Center for HIV	14434
@@ -1083,6 +1104,8 @@ National Centers Equipment	16863
 National Civil Registration Center	15518
 National Civil Registration and Identification Center	14430
 National Civil Service Testing Center	9211,7774
+National Civil Status Center	17870
+National Civil Status Centers	17870
 National Cloud Data Center	359,14315
 National Communication Center	14853
 National Computer Center	2578
@@ -1115,6 +1138,7 @@ National Dispatch Center Component	15659
 National Dispatch Center Modified Subcomponent	15969
 National Distribution Control Center	87
 National Emergency Computer Incident Response Center	7538
+National Emergency Operations Center	17962
 National Emergency Operations Center CGD Citizen-generated	4214
 National Emergency Treatment Center	16922
 National Emergency Treatment Center NFDQCL National	16922
@@ -1153,6 +1177,8 @@ Nine One-Stop Centers	16951
 Nombre de Data Centers	16641
 North Center	10866
 North West InfraCo and Data Center Feasibility	299
+North and Center	17870,36
+North and Center. Based	17906
 Notification ANNEXES PGES- DATA CENTER SECONDAIRE	14488
 Notify the Center	15484
 Nouakchott National Data Center	6910
@@ -1177,12 +1203,15 @@ One-Stop-Shop Service Centers	10346
 One-Stop-Shop Service Centers- The Ministry	10346
 Operation Center	1000
 Operation of Data Center	9123
+Operations Center	17962
 Operations Center NPV Net Present	13331
 Operations Center SSA Sub-Saharan Africa STEM	13312,2
+Operations Coordination Center	17962
 Optimisation du Data Center	1285
 Orange Data Center	16975
-Orange Digital Center	1232,1173,2290,1436,198,695,610,3935,2981,88,1917,515,97,46,71
+Orange Digital Center	1232,1173,2290,1436,198,695,610,3935,2981,88,1917,515,97,46,71,586
 Orange Digital Center Burkina Faso	7024
+Orange Digital Center Formed	17870
 Orange Digital Center Guiné-Bissau O Orange	17284
 Orange Digital Center Guiné-Bissau Orange Bissau	17284
 Orange Digital Center Madagascar	14550
@@ -1356,7 +1385,7 @@ Regional Training Center	11420
 Registration Centers and Places	16860
 Registration Centers and Places Registration	16860
 Report Centering Migrants’ Perspectives	11006,1
-Research Center	4325,11228,1425
+Research Center	4325,11228,1425,892
 Research Center for Army and Security	15553
 Research Centers and Think Tanks	1814
 Research and Documentation Center	14029,18
@@ -1469,6 +1498,7 @@ Technology LCAIT Libyan Center for Artificial Intelligence	17157
 Tele Contact Center	14151
 Telecom Egypt's Regional Data Center Hub	7425
 Tender for Electronic Equipment for Rural Job Centers	8985
+Thailand Post Training Center	17856
 Thirty-two Health Centers	15590
 Tier I Data Center	9123
 Tier I Data Centers	15149

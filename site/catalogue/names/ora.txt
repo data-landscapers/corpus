@@ -16,8 +16,10 @@ Alongside Oracle	8261
 Aminata Sila Cassama Tombali Orange MTN	17147
 Attribution ORABANK NIGER	998
 Azur. Orange	15474
+BANK COFINA ECOBANK UM-ACEP ORABANK UM-PAMECAS	18017
 BANK ECOBANK ORABANK Mise	11588
 BBOXX and Orange	11923
+BIA BOA CORIS BANK ECOBANK ORABANK	18017
 Beaugas Orain DJOYUM	3658,217,2400,145
 Beaugas Orain DJOYUM. Tél	3658,2617,145
 Benedict Oramah	6401
@@ -75,9 +77,11 @@ Digital Skills and Startup Incubation Orange	712
 Décision Attribution ORABANK NIGER	998
 D’IVOIRE UBA MTN ORANGE MONEY BAOBAB	11588
 E SOCIETE ORANGE GUINEE S.A SOCIETE	16623
+ECOBANK AFRIKA BANQUE ORABANK BANQUE ATLANTIQUE	18017
 ECOBANK ORABANK SUNU BANK MIXX TOGO	11588
 ECOBANK ORABANK UBA ORANGE FINANCES MOBILES	11588
 ESCOTEL Solar Energy for Orange Telecom Towers	513
+ET CIETE ORANTO PETROLEUM LIMITED POR-	17817
 EVP Orange International Networks. L’opérateur	15338
 Ebuka Eugene Oraebosim	9718
 Ecobank and Orange Money	969
@@ -90,6 +94,7 @@ Eutelsat and Orange	14674
 Even Orange Bank	4150
 Expand Telecom Network Availability Orange Sierra	4140
 FCFA. Orange Money Sénégal	17559
+FINANCES ECOBANK BAOBAB ORABANK COFINA UBA	18017
 Fibre and Mobile Network Expansion Orange	1548
 Filho Terapia de Reidratação Oral United Nations	10777
 Fink. Oracle Group Eswatini Head of People	13233
@@ -107,6 +112,8 @@ France. Now Orange Marine	7774
 G TELECEL ORANGE	11574
 G-compatible. Orange Sierra Leone	4140
 G. Orange Centrafrique	1949
+GIZ and Orange	17870
+GROUPE ATTIJARIWAFA BANK ORABANK CORIS BANK	18017
 Groupe Orange	14168,2458
 Groupement Orange Service	1005
 Groupement Orange Services S.A	2608
@@ -118,7 +125,9 @@ II. COMMUNICATIONS ORALES II.1	7670,7784,222,441,170
 II. COMMUNICATIONS ORALES PP-G N	8321
 INTER.ENVIADAS TELECEL ORANGE	11574
 INTER.TERMINADAS TELECEL ORANGE	11574
+Industrie du Mali Telecel Orange Mali Groupe	17856
 Integrated Orange Mobile Money Platform	16999
+Internet Orange	17870
 Inwi and Orange	4974
 Inwi and Orange Maroc	5772
 Ivoire's Orange Digital Center	6336
@@ -139,6 +148,7 @@ Lonestar and Orange	16993
 Lüderitz ORANJEMUND	13046
 M Early-Stage Tech Investment Fund Orange	515
 M-PESA Airtel Money Orange Money Afrimoney	11994
+MALI ECOBANK BDM ORABANK BIM UBA	18017
 MANSA BANK NSIA BANQUE ORABANK ORANGE	11588
 MEDEA MOSTAGANEM M'SILA MASCARA OUARGLA ORAN	15456
 MORERI SEJAKGOMO Orange Money	5795
@@ -180,6 +190,7 @@ OIF Ambassade de France PNUD Orange Guinée	16693
 ON-NET TELECEL ORANGE	11574
 OPV Oral Polio Vaccine PENTA Pentavalent	16971
 ORABANK	8303,7151,1902
+ORABANK BOA UBA CORIS BANK ORANGE	18017
 ORABANK SÉNÉGAL	11588
 ORABANK UBA ORANGE MONEY ACEP BAOBAB	11588
 ORACEL	13300
@@ -187,6 +198,7 @@ ORACLE Application Software Security Directives	15161
 ORAL ANSWERS TO QUESTION CASCAVELLE	14753
 ORAN Development Company	4511,1110
 ORANGE	10996,578,3968,398,274,51,449
+ORANGE BANK AFRICA CREDIT DU SENEGAL	18017
 ORANGE Burkina Faso	3670
 ORANGE CAMEROUN	15655
 ORANGE CI	2342
@@ -194,9 +206,14 @@ ORANGE CI LTE	419
 ORANGE CI MTN CI MOOV CI	419
 ORANGE Cm	15480
 ORANGE CÔTE D'IVOIRE	1648
+ORANGE FINANCES MOBILES GUINÉE BISSAU	18017
 ORANGE FINANCES MOBILES TOUCHPOINT FINANCIAL SERVICES	11588
 ORANGE GUINEE S.A	16623
 ORANGE MALI	15471
+ORANGE MALI SA	17824
+ORANGE MALI-SA	18032
+ORANGE MONEY NIGER	18017
+ORANGE MONEY ORANGE BANK AFRICA TOUCHPOINT	18017
 ORANGE. D	15542
 ORANJEMUND Total Eligible	13025
 Officer of Orange Botswana	5717
@@ -270,10 +287,11 @@ Oran-Est	15863
 Oran-Valence	16064
 Orana. L’ambition	5506
 Oranefo	9129
-Orange	173,338,2,199,220,1,4,204,2,500,85,1,89,131,42,287,12,105,53,6,7,118,29,11,9,49,18,35,144,49,15,30,183,389,128,191,17,99,55,25,66,19,10,18,14,7,6,12,26,17,209,87,3,101,26,31,14,67,27,81,35,43,31,17,11,36,140,43,315,23,24,61,481,29,56,67,22,15,126,32,53,37,36,85,41,18,78,43,294,26,203,217,143,30,35,51,106,64,60,1,1,6,299,398,208,85,502,48,52,33,67,45,52,13,66,168,111,33,46,21,69,213,159,42,104,109,458,14,28,68,9,267,42,34,375,232,1586,18,3,42,141,158,89,691,2,2,5,133,3,6,62,322,304,44,276,4,53,81,1,14,100,68,63,4,58,8,30,71,56,58,56,162,92
+Orange	173,338,2,199,220,1,4,204,2,500,85,1,89,131,42,287,12,105,53,6,7,118,29,11,9,49,18,35,144,49,15,30,183,389,128,191,17,99,55,25,66,19,10,18,14,7,6,12,26,17,209,87,3,101,26,31,14,67,27,81,35,43,31,17,11,36,140,43,315,23,24,61,481,29,56,67,22,15,126,32,53,37,36,85,41,18,78,43,294,26,203,217,143,30,35,51,106,64,60,1,1,6,299,398,208,85,502,48,52,33,67,45,52,13,66,168,111,33,46,21,69,213,159,42,104,109,458,14,28,68,9,267,42,34,375,232,1586,18,3,42,141,158,89,691,2,2,5,133,3,6,62,322,304,44,276,4,53,81,1,14,100,68,63,4,58,8,30,71,56,58,56,162,92,400,3,162
 Orange Africa and Middle East and Eutelsat	4721
 Orange Afrique	7417
 Orange Alert	17157
+Orange Après	18032
 Orange BF SA	15621
 Orange Bank	7324,801
 Orange Bank Africa	5324,2567,1062,1391
@@ -313,20 +331,24 @@ Orange Centrafrique. OECD	15474
 Orange Central African Republic	15471
 Orange Cloud	7214
 Orange Connectivity Provider	10956
-Orange Corners	1232,12126,875,664,151
+Orange Corners	1232,12126,875,664,151,3016
 Orange Corners Burundi	13358
-Orange Corners Innovation Fund	13358,875,815
+Orange Corners Innovation Fund	13358,875,815,2884,11
+Orange Corners Innovation Fund Mali	17932
+Orange Corners Mali	17932,11,121
 Orange Corners Program16	14897
 Orange Corners Sudan Batch	15234
 Orange Corners Sudan Demo Day	15048
+Orange Corners URL	18064
 Orange Cote	1543,13928
 Orange Cyber Defense	6985
 Orange Côte	2522,816,188,841,182,78,64,16,14,442,398,375,81,152,31,103,26,7,9,158,201,6,799,4252,5965
 Orange DRC	88,6676
 Orange Data Center	16975
 Orange Democratic Movement	8217
-Orange Digital Center	1232,1173,2290,1436,198,695,610,3935,2981,88,1917,515,97,46,71
+Orange Digital Center	1232,1173,2290,1436,198,695,610,3935,2981,88,1917,515,97,46,71,586
 Orange Digital Center Burkina Faso	7024
+Orange Digital Center Formed	17870
 Orange Digital Center Guiné-Bissau O Orange	17284
 Orange Digital Center Guiné-Bissau Orange Bissau	17284
 Orange Digital Center Madagascar	14550
@@ -364,9 +386,10 @@ Orange GB. Os	11556
 Orange GB. Relativamente	11556
 Orange GMS	17099
 Orange GSM	16872
-Orange Group	1416,105,207,221,2678,511,1031,31,303,201,1420,1,305,1517,4727,2268
+Orange Group	1416,105,207,221,2678,511,1031,31,303,201,1420,1,305,1517,4727,2268,928
 Orange Group CEO	8430
 Orange Group. MTN Guinée	16626
+Orange Group’s West African	17870
 Orange Guinea	1541,1,683,1315,3648,337,7946,1270
 Orange Guinea Chief Executive Ousmane Boly	16741
 Orange Guinea and Guinea Bissau	1541,684
@@ -393,12 +416,18 @@ Orange MEA	515,418,208,588,5688
 Orange MEA Annual Network CapEx Programme	933,208
 Orange Madagascar	2579,1600,10459
 Orange Madagascar Orange Madagascar	4179
-Orange Mali	2810,1174,2854,796,365,7472
+Orange Mali	2810,1174,2854,796,365,7472,2399,45,63,115
 Orange Mali S.A	2214
 Orange Mali S.A. Telecom Infrastructure Loan	2214
-Orange Mali SA	2810,1174
+Orange Mali SA	2810,1174,14048
 Orange Mali and Malitel	9947
 Orange Mali and Moov	6648
+Orange Mali and NSIA	17870
+Orange Mali and SOTELMA	17870
+Orange Mali-SA	18032
+Orange Mali. Any Orange Money	17870
+Orange Mali. Néanmoins	17856
+Orange Mali’s and SOTELMA	17870
 Orange Marine	15331,7
 Orange Maroc	3859,207,1698,8,485,336,121,2769,4722
 Orange Maroc Live Intelligence	6593
@@ -411,7 +440,7 @@ Orange Middle East and Africa CEO Jérôme	1729
 Orange Mobile	4695
 Orange Mobile Money	11651
 Orange Moldova	15471
-Orange Money	1142,1072,98,210,435,26,27,250,390,500,111,24,388,22,629,63,180,10,37,52,129,114,76,909,212,124,39,55,406,47,346,59,295,847,987,33,1307,299,10,34,1458,1025,200,797,6,62,394,552,4,507,544
+Orange Money	1142,1072,98,210,435,26,27,250,390,500,111,24,388,22,629,63,180,10,37,52,129,114,76,909,212,124,39,55,406,47,346,59,295,847,987,33,1307,299,10,34,1458,1025,200,797,6,62,394,552,4,507,544,327,36,172
 Orange Money Bangui	16488
 Orange Money Burkina Faso	2522,461
 Orange Money By Owl	7777
@@ -429,9 +458,11 @@ Orange Money Launches Mastercard	5614
 Orange Money Liberia	9036,8083
 Orange Money Mali and Orabank Mali	3010
 Orange Money Mastercard	5614
+Orange Money Mobile	17870
 Orange Money Mobile Financial Services Rollout	1142
 Orange Money Pro	2579,5151
 Orange Money URL	16488
+Orange Money and AKDN	17870
 Orange Money and Afrimoney	7753
 Orange Money and MTN	10967
 Orange Money and MTN MoMo. Magowe	4931
@@ -474,6 +505,7 @@ Orange Sierra Leone’s Chief Executive Officer	4114
 Orange Sierra Leone’s Chief Technical Officer	4114
 Orange Sierra Leone’s Public Relations Officer	11651
 Orange Slovakia	15471
+Orange Sn Group	17870
 Orange Solidarité Madagascar	14614
 Orange Startup Center and Orange Digital Center	2600
 Orange Street	3386
@@ -503,9 +535,14 @@ Orange and MTN	3089,1944,3098,3421,5324
 Orange and MTN Cameroon	3257
 Orange and Maroc Telecom. Inwi	9868
 Orange and Mascom	5062
+Orange and Moov	17870
 Orange and Moov Africa	4233
+Orange and Moov Africa Malitel	17870
 Orange and Ooredoo	1818
+Orange and SOTELMA	17870
 Orange and Safaricom	4150
+Orange and Sotelma	17870
+Orange and Telecel	17870
 Orange and Vodacom	2278,1697,175,2006,437,5439
 Orange and Vodafone	10861
 Orange and Weast	11923
@@ -550,6 +587,7 @@ PAPSS. To Professor Oramah	16984
 PDRE. ORALE. EFFER	15930
 Par Beaugas Orain DJOYUM	1648
 Pip Yalah Orange Refurbished	7324
+Pr AT ORANGE CMSS HDB CPS	17882
 Preface Orange Corners	13358
 President Oramah	6401
 Prof. Benedict Oramah	999
@@ -565,7 +603,9 @@ Rate Orange Egypt	11642
 Recommendation for Orange Corners	13358
 Recommendation for Orange Corners Innovation Fund	13358
 SAP and Oracle	7746
+SIB ECOBANK UBA FBNBANK MTN ORABANK	18017
 SOL. BUV. PDRE. ORALE EFFER	15930
+SOTELMA and Orange Mali	17870
 SRO OU ORACEL	13300
 Screenshot the Orange Money	7777
 Sector TELECEL ORANGE	11574
@@ -573,6 +613,7 @@ SeneNews. Orange	1143
 Sierra Leone Orange	11651
 Sierra Leone. Orange Sierra Leone	4189,6391
 Social Welfare and Family Welfare and Orange Support	16600
+Société ORANTO PETROLEUM LIMITED	17817
 Sonatel Orange	4367,179,2661
 Sonatel Orange Achieves	4546
 Subscribers Orange Egypt	11642
@@ -591,6 +632,7 @@ Telecom Giant Orange Côte	6017
 Terapia de Reidratação Oral	10777
 Territory Sales Agent of Orange Liberia	17151
 Through Orange	10861
+UBA and ORABANK	17870
 UNDP and Orange Liberia	17078
 UNDP and Orange Liberia Sign MoU	17078
 USD Orange	15474

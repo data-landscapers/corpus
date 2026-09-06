@@ -18,7 +18,7 @@ Africa-1 Sudan	14897
 Africa. Sudan	14271,580,46
 Africa. The South Sudan	4069
 AfricaAlertsSouth SudanMore	2313
-Afrique du Sud	2514,20,198,446,310,71,99,622,63,330,1093,434,41,34,145,193,91,46,282,74,465,15,27,259,57,167,218,411,30,138,239,16,309,26,407,71,443,207,71,4,25,264,536,1763,32,84,52,126,172,25,638,109,110,58,649,4,24,98,19,14,5,49,50,344,222,17,280,90,81,18,177
+Afrique du Sud	2514,20,198,446,310,71,99,622,63,330,1093,434,41,34,145,193,91,46,282,74,465,15,27,259,57,167,218,411,30,138,239,16,309,26,407,71,443,207,71,4,25,264,536,1763,32,84,52,126,172,25,638,109,110,58,649,4,24,98,19,14,5,49,50,344,222,17,280,90,81,18,177,1002,22,62
 Afrique du Sud BVG Bureau du Vérificateur Général	6959
 Afrique du Sud Maroc Kenya EGDI	15936
 Afrique du Sud Pilier	8525
@@ -297,6 +297,7 @@ JUBA South Sudan's President Salva Kiir	4597
 Jan-24 Apr-24 South Sudan Pounds	3583
 Jonglei State. South Sudan Revenue Authority	3583
 Jordan Lebanon Libya Morocco Sudan Syria	16955
+Kalaban Coura Sud-extension	17915
 Kampti Poni Sud-Ouest	15715
 Kei Emmanuel Duku South Sudan	5347
 Kenya and South Sudan	6928,7094
@@ -367,6 +368,7 @@ ND Sud ND ND	15599
 ND Sud-Ouest ND ND	15599
 NGOs and Sudanese	6947
 NORTHERN SUDAN	14855
+NS NOUAKCHOTT SUD	17902
 Nako Poni Sud-Ouest	15715
 National Archives of Sudan	14853
 National Audit Chamber of Sudan Independent Auditor	15169
@@ -385,9 +387,12 @@ North Sudan Poverty Report	15244
 North Sudan--initially	15342
 Northern Sudan	15244
 Northern Sudanese	15342
+Nouakchott Sud	17869
+Nouakchott Sud. Ont	18027
 Noumbiel Sud-Ouest	15715
 Nov Sudan	15016
 Nutrition Sudan	15244
+ONG Santé Sud Médecin	17882
 ONU Sudasiático	16974
 ORD-OUEST ET DU SUD-OUEST	15999
 OSI M-HcI M-TII Africa Sudan Middle	10840
@@ -537,6 +542,7 @@ SUDIA	14897
 Sabri Dibaco South Sudan	7749
 Sahel Sud-Ouest	737,10138
 Sahelian and Sudano-Sahelian	15601
+Santé Sud	17882
 Sao Tome and Principe and Sudan	15372
 Saudi Arabia. The Sudanese	14853
 Saudi Sudanese Bank	4665,10409
@@ -756,7 +762,7 @@ Sud-Africain Keagan Stokoe	11508
 Sud-Cameroun. Au	10996
 Sud-Comoé	747,2822,8212,3930
 Sud-Coréen Naver Cloud	9483
-Sud-Est	15692,28,832,69
+Sud-Est	15692,28,832,69,1286
 Sud-Kivu	2415,3252,6376,1376,2251,630,1338
 Sud-Kivu. NURU SASU	15670
 Sud-Ouest	737,3071,1549,472,998,4020,28,90,10,10,25,4459,73,15,42,50,36,30,28,256,27,142,27,339
@@ -772,7 +778,7 @@ Sud-Ouest. En	15599
 Sud-Ouest. Entre	737
 Sud-Ouest. Il	10975
 Sud-Soudan	15381,77
-Sud-Sud	3403,1430,2709,362,987,611,4742,1339,868,72,948
+Sud-Sud	3403,1430,2709,362,987,611,4742,1339,868,72,948,512
 Sud-Ubangi	9925,5745
 Sud-africaine	16249
 Sud-est	10826
@@ -782,6 +788,7 @@ Sud-soudanienne	15715
 Sud. C'est	16641
 Sud. Cette	5830
 Sud. En	15599
+Sud. Il	17843
 Sud. La Guinée	16641
 Sud. Leur	16381
 Sud. Sa	15711
@@ -794,7 +801,7 @@ SudaPan	14897
 SudaPass	4807,58,5326,391
 Sudalytica	15342
 Sudamérica. Guinea Ecuatorial	3179
-Sudan	158,78,166,113,264,207,27,452,211,175,36,76,350,146,35,22,4,162,55,86,309,316,135,154,165,81,99,175,326,82,142,2,56,27,6,20,17,40,69,820,417,52,280,179,146,9,3,47,444,203,44,19,42,45,15,149,173,2,51,17,276,95,351,49,479,38,1,97,187,1,1,83,148,1,184,21,121,122,126,81,14,82,5,21,8,36,6,3,2,1,7,120,168,74,67,33,262,37,261,13,3,1,2,11,253,1,9,10,54,6,32,68,8,11,1,23,112,668,106,108,193,150,202,6,15,86,17,35,1,4,1,21,2,11,37,7,36,35,42,205,231,143,1,1,1,1,2,1,3,5,12,7,1,5,5,2,1,3,1,3,4,4,7,4,9,3,5,3,1,7,2,1,1,2,1,1,17,3,18,3,7,8,6,2,2,6,1,3,3,5,4,3,13,4,6,2,16,3,3,2,4,11,1,1,1,4,2,1,14,15,5,6,1,3,3,2,5,2,11,2,2,1,6,3,8,1,2,3,9,1,2,2,3,4,3,1,3,1,2,1,1,1,3,3,8,4,6,4,2,2,54,2,129,187,67,747,113,411,161,407,113
+Sudan	158,78,166,113,264,207,27,452,211,175,36,76,350,146,35,22,4,162,55,86,309,316,135,154,165,81,99,175,326,82,142,2,56,27,6,20,17,40,69,820,417,52,280,179,146,9,3,47,444,203,44,19,42,45,15,149,173,2,51,17,276,95,351,49,479,38,1,97,187,1,1,83,148,1,184,21,121,122,126,81,14,82,5,21,8,36,6,3,2,1,7,120,168,74,67,33,262,37,261,13,3,1,2,11,253,1,9,10,54,6,32,68,8,11,1,23,112,668,106,108,193,150,202,6,15,86,17,35,1,4,1,21,2,11,37,7,36,35,42,205,231,143,1,1,1,1,2,1,3,5,12,7,1,5,5,2,1,3,1,3,4,4,7,4,9,3,5,3,1,7,2,1,1,2,1,1,17,3,18,3,7,8,6,2,2,6,1,3,3,5,4,3,13,4,6,2,16,3,3,2,4,11,1,1,1,4,2,1,14,15,5,6,1,3,3,2,5,2,11,2,2,1,6,3,8,1,2,3,9,1,2,2,3,4,3,1,3,1,2,1,1,1,3,3,8,4,6,4,2,2,54,2,129,187,67,747,113,411,161,407,113,202
 Sudan AI	14924
 Sudan API Application Programming Interface ARPU	14897
 Sudan Acting Minister of Finance and Economic	14890
@@ -1312,6 +1319,7 @@ World Vision Sudan	15229
 World Vision Sudan National Director	15229
 X Somalia X South Sudan X	11005
 XI. MILLENNIUM DEVELOPMENT GOALS The Sudanese	14853
+ZONE UEMOA VERS ZONE CEDEAO SUD	17833
 Zain South Sudan	5014,1860,1137
 Zain South Sudan and MTN South Sudan	2313
 Zain Sudan	1887,633,217,12160

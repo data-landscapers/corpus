@@ -70,6 +70,7 @@ Basic ICT Skills	14742
 Basic IT Skills	12445
 Basic IT Skills Solving	12445
 Basic IT Skills and Cybersecurity Awareness	12625
+Basic Skills	17870
 Basic Surgical Skills Course	16922
 Basic and Intermediate Skills	16975
 Bayt.com Middle East Skills Report	17458
@@ -90,11 +91,13 @@ Building Financial Literacy Skills	13938
 Building Industry-led Skills Systems	14576
 Building Skills	9115,1175
 Burundi Skills for Jobs	13331
+Business Development Graduate of SKEMA Business School	18039
 Business Enterprise Managers Impact of Skill Shortages	12445
 Business Enterprise Managers Major Causes of Skill	12445
 Business Enterprise Managers Skill	12445
 Business Enterprise Managers Technical and Practical Skills	12445
 Business Knowledge and Skills Guide	11017
+Business Skills	17870
 Byron Skaftouros	16808
 C.E.O SKLD Integrated Services Ltd	7444
 CCB-CSD.S2 Cybersecurity Skill Development	10721
@@ -106,7 +109,7 @@ COGTA Power Apps Skills Transfer Programme	14694
 COMPETENCY LEVELS AND SKILLS TYPES Digital	1248
 CORE SKILLS	12914
 CRITICAL SKILLS Figure	1940
-CURRENT STATE OF DIGITAL SKILLS	16942
+CURRENT STATE OF DIGITAL SKILLS	16942,928
 CYBERSECURITY SKILLS GAP STATUS IN SOUTH	1940
 CYBERSECURITY SKILLS GAP SURVEY Compiled	1940
 CYBERSECURITY SKILLS GAP SURVEY The CSIR	1940
@@ -119,7 +122,7 @@ Capacity Building and Skills Development Traditional	14818
 Capacity Development and Skills Sustained	10157
 Capacity and Skills Part	7151
 Capital Market Asset Management Skills Gap	14997
-Caractère Personnel Skip	6079
+Caractère Personnel Skip	6079,11786,74,86,35
 Category Points Qualification and Skills	962
 CcHUB GATEWAY Digital Skills Program	11347
 Century Skills	1204
@@ -136,6 +139,7 @@ Community Development Skills Training	13399
 Competency and Skills Based Education. The Executive	13477
 Complexity H1 Compability Skills Trialability H2	9129
 Computer Skills Course	17369
+Confronting the Scarcity of Digital Skills	17870
 Congo Skills Development for Employability Project	15553
 Connect and Enable Skip	12493
 Connectivity and Skills	7637
@@ -154,7 +158,7 @@ Critical Skills List DBE	6832
 Critical Skills Work Visa Calculation	11986
 Critical Skills Work Visa Target	11986
 Cross-Sectional Survey Among Users Skip	10919
-Current State of Digital Skills	13312,2
+Current State of Digital Skills	13312,2,4556
 Current State of Digital Skills Despite	16876
 Cybersecurity Cybersecurity Skill	10721
 Cybersecurity Skill Development CCB-CSD.S1	10721
@@ -168,7 +172,7 @@ DHET’s National Skills Development Plan	6832
 DHIS2 Documentation Skip	12408
 DIGITAL DIGITAL DIGITAL DIGITAL INFRASTRUCTURE SKILLS	13314
 DIGITAL INFRASTRUCTURE DIGITAL INCLUSION AND SKILLS	11586
-DIGITAL SKILLS	11004,960,3483,33,1462
+DIGITAL SKILLS	11004,960,3483,33,1462,928
 DIGITAL SKILLS Advanced	15480
 DIGITAL SKILLS FOR ALL	14752
 DIGITAL SKILLS FOR ALL ECONOMY	14752
@@ -181,8 +185,11 @@ DIGITAL SKILLS IN NIGERIA Device	11879
 DIGITAL SKILLS IN NIGERIA Digital	11879
 DIGITAL SKILLS IN NIGERIA Introduction	11879
 DIGITAL SKILLS IN NIGERIA References References	11879
+DIGITAL SKILLS Increase Internet	17870
+DIGITAL SKILLS Key	17870
 DIGITAL SKILLS PILLAR POLICY ENVIRONMENT Growth	16942
 DIGITAL SKILLS Poor	15447
+DIGITAL SKILLS Quick Improve	17870
 DIGITAL SKILLS RECOMMENDATIONS	16942
 DIGITAL SKILLS RECOMMENDATIONS DEVELOPMENT TYPE	16942
 DS4JI Digital Skills	458
@@ -195,6 +202,7 @@ Demand of Digital Skills	14897
 Description Plan International Digital Skills for Youth	1160
 Develop Human Capital and AI Skills Outcome	12356
 Developing Digital Skills	1584,14037
+Developing Digitally Skilled Labor Human	17870
 Developing Skills Youth	16086
 Development of Advanced and Intermediate Digital Skills	3604
 Development of Employability Skills	6948
@@ -212,7 +220,7 @@ Digital Innovation for Skills and Knowledge	8330
 Digital Job Skills No	15716
 Digital Labour Skills and Digital	4359
 Digital Literacy Skills	11552
-Digital Literacy Skills for Indicator	11879,1435,677,1456,27,19,1449,21
+Digital Literacy Skills for Indicator	11879,1435,677,1456,27,19,1449,21,907
 Digital Literacy Skills for Teachers Operational Strategies	16963
 Digital Literacy and Productivity Skills	12241
 Digital Literacy and Productivity Skills Development	13080
@@ -225,7 +233,7 @@ Digital Skill Development Digital	13358
 Digital Skill and Literacy Programme	12453,892
 Digital Skilled	15679
 Digital Skilling Project	10397
-Digital Skills	458,158,244,98,397,72,383,1794,186,1085,708,1249,716,3237,233,861,12,74,488,40,166,312,341,2,31,2,490,154,561,345,18,635,3,348,975,66,33
+Digital Skills	458,158,244,98,397,72,383,1794,186,1085,708,1249,716,3237,233,861,12,74,488,40,166,312,341,2,31,2,490,154,561,345,18,635,3,348,975,66,33,895
 Digital Skills Accelerator Self-Assessment Tool	11918
 Digital Skills Ambassadors	5386
 Digital Skills Ambassadors Programme	10072
@@ -235,6 +243,7 @@ Digital Skills CHAPTER	14897
 Digital Skills Centres	8330
 Digital Skills Component World Bank Group	959
 Digital Skills Country Action Plan	13991
+Digital Skills Demand	17870
 Digital Skills Development Access	16876
 Digital Skills Development Levy	13602
 Digital Skills Development OBJECTIVE	12674
@@ -264,11 +273,15 @@ Digital Skills Pillar	14897
 Digital Skills Private	6832
 Digital Skills Program Design Workshop and Interactive	17070
 Digital Skills Programs Led	14897
+Digital Skills Pyramid Digital	17870
 Digital Skills Report Card	6832
 Digital Skills Session	17070
 Digital Skills Shortage	16942
+Digital Skills Spectrum	17870
 Digital Skills Statistics	11879
 Digital Skills Strategies	10785
+Digital Skills Sub-Saharan Africa	17870
+Digital Skills Supply	17870
 Digital Skills Support	14897
 Digital Skills Table	14897
 Digital Skills The Government of Zimbabwe	958
@@ -317,6 +330,7 @@ Djibouti Skills Development for Employment Project	13931,7
 DnetvaenlodpSmkeilnlst and Skills	10157
 Dumisha Amani Skills	2857,3026,94
 E Skoplaki	15659
+E-Business Skills	17870
 E-commerce Skills Development	13382
 E.1.2 Digital Skills	14674
 EMPOWER LEARNERS WITH DIGITAL LITERACY SKILLS	899
@@ -413,7 +427,7 @@ Human Skills	5551
 Hypertext Skip	5017
 ICT Professional Skill	16861
 ICT Professional Skills	16861
-ICT Skills	12333
+ICT Skills	12333,5537
 ICT Skills Development	13295
 ICT Skills Development The Government of Zimbabwe	13295
 ICT Skills Enhancement	12917
@@ -424,6 +438,7 @@ II. Demand for Digital Skills	6832
 III. Digital Skills Supply	6832
 IITPSA ICT Skills Survey and Research Report	6832
 IITPSA ICT Skills Survey and Research Report34	6832
+IMPORTANCE OF DIGITAL SKILLS	17870
 INFRASTRUCTURE DIGITAL SKILLS DIGITAL PLATFORMS DIGITAL	13312
 INTERVENTION DIGITAL SKILLS POLICY ENVIRONMENT Develop	16942
 INTERVENTION EXPAND ACCESS TO DIGITAL SKILLS	16942
@@ -437,7 +452,7 @@ Impact Hub Harare’s Digital Skills for Youth	12493
 Impact of Skill Shortages	12445
 Implementation Support Plan Time Focus Skills	10964
 Implementation Support and Skills Required Time Focus	13331
-Importance of Digital Skills	13312,2,1583,1979
+Importance of Digital Skills	13312,2,1583,1979,994
 Importance of Digital Skills The Socioeconomic	16876
 Improve Employee Knowledge and Skills SO7	13053
 Increased Access To Digital Skills	346
@@ -516,6 +531,7 @@ Main Content Skip	10919
 Major Causes of Skill Gaps	12445
 Malagasy Skills Fund	14576
 Malawi24 Skip	3035,253,61,689,520,84,1026,183,181,224,255,42,811,48
+Mali Digital Economy Diagnostic DIGITAL SKILLS	17870
 Management Skills Development	6946
 Management System LSE Life Skills Education	12975
 Managerial Skills	14835
@@ -615,6 +631,7 @@ Presentation Skills Can	16963
 President of Sierra Leone Skip	4114
 Principal Digital Skills Officer Chunga Manzi	9792
 Principal Digital Skills and Capabilities Officer	9137
+Private and Non-profit Providers of Specialist Skills	17870
 Problem-Solving Skills	13356
 Productivity Skills Developing Critical Mass Digital	13080
 Professionals Market-oriented Skilled Agricultural Workers	16266
@@ -794,6 +811,7 @@ Skills Development and Youth Employability Support Project	15411
 Skills Development for Employability Project	11924
 Skills Development for Youth Employment	8985
 Skills Enhancement	14819
+Skills Final WEB 5-7-19.pdf	17870
 Skills Focusing	14997
 Skills Framework	6832,4114,4051
 Skills Fund	16187
@@ -934,10 +952,11 @@ Software Developer Skills Development Hub	13615
 Solar PV MSB Skeleton Coast Trawling	12399
 South Africa’s National AI Skills Director	5551
 South Sudan Safety Nets and Skills Project	15658
-Specialist Skills	11134
+Specialist Skills	11134,6736
 Sports Launch Nationwide Digital Skills Initiative	17187,79
 Standard Zone News Skip	6281
 Stansfield SK	10780
+Startup Skills	17870
 State Department for Labour and Skills Development	14546
 State Minister of Labor and Skills	14050
 State of Digital Skills	14897
@@ -991,6 +1010,7 @@ UNDP Somalia Launches Digital Skills Training	14973
 USING THE AI TO EXPORT SKILLS	14004
 Uganda Mobile for Business Knowledge and Skills Guide	11017
 Under the National Skills Building Program	1204
+Underused Local Talent Skilled	18039
 University of Zambia Skip	12407
 V. Capacity Building and Skill Enhancement	17011
 Vocational Skills	16951

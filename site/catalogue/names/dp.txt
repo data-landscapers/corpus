@@ -1,6 +1,8 @@
 ADMINISTRATION The DPM’S Office Administration Section	12977
 AI and DPI	1481,99,738,6,103,20,94,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,259,18,157,163,119,78,69,141,37,21,465,78,145,55,254,225,138,45,60,43,101,181,78,116,183,19,70,19,178,5,104,1,149,7,16,3896
+AP-01 DP-15 WARDIP-2026	18037
 AP-01 DP-15 WARDIP-2026 Crédit	5983
+AP-01 DP-15 WARDIP-2026 Intitulé du Marché	18037
 API Application Programming Interface DPI Digital	13076
 APPOINTMENT NOTIFICATION FORM DP2 POTRAZ	1877
 ARTICLES THEMATIQUES Flash Infos Le DPPD-PAP	16378
@@ -8,6 +10,7 @@ ASEAN and Africa for DPI	9431
 ATTRIBUTION AND DPI	10852
 AU Continental Data Policy Framework. DPC	1779
 AU DPF	14486
+AVASAN OPAM DPPAM STF Equipe Nous	17888
 Aadhaar DPI	1225
 Account DHS Demographic and Health Survey DP	15515
 Achieved DPME	11224
@@ -110,6 +113,7 @@ Certified DPO	13381
 Certified DPOs	11956
 Citizen Support Portal DPC	14742
 Civil Society Organization DPI Digital Public	7548
+Code de Réalisée Le Code de Déontologie DPFP	17872
 Comptabilité Publique DPP Direction	10712
 Conduct DPIAs	12193
 Conducting DPIAs	13381
@@ -117,14 +121,19 @@ Consent DPI	10719
 Contas Nacionais DPA	10757
 Cooperation Framework CoK City of Kigali DP	14935
 Core DPI	11487
+Couverture DPM Locale DPM Nationale Maintenance	17882
+Coverage of DPT3 Vaccination	17869
 Cybersecurity and AI for DPI Agencies	16144
 D Diplomacy'. Benin's DPI	3803
 DADF DOS DPSR	10858
+DAMMCC DPGCANR DAPPSE Services SAF SCD	17888
 DBS DCNT DHS DIU DMPA-SC DP	10777
 DCD Department of Community Development DPF Development	16952
 DCMIs and DPMIs	11993
 DE4A DGDEN DPC DRC E&S EGDI	15553
 DE4A Digital Economy for Africa DPA Data	12663
+DECE Directorate of Environmental Assessment and Control DPO	17862
+DGI DPFP	17872
 DGUF DI DLC DME DPSR DRI	10858
 DHD Digital Health Division DPPD Department	12240
 DHS Demographic and Health Survey DPI Directorate	16896,26
@@ -179,6 +188,7 @@ DPC. The DPC	12301
 DPC. The General Regulations	12301
 DPC. Under the Data Protection	12301
 DPCI Directorate for Priority Crime Investigation DPCI	11188
+DPCIS Direction	17843
 DPCMS	9603
 DPCOs	1014,7908,59,329,2646
 DPCS Djibouti Port Community Systems DPI	13861
@@ -189,6 +199,7 @@ DPDK Data Plane Development Kit DPM	13185
 DPDP Act	7981
 DPDP Act Jul	6499,44,465
 DPE du MEN	14472
+DPEF Direction	17885
 DPEIEFG	15632
 DPEPN	15411
 DPEPS	15639
@@ -251,6 +262,7 @@ DPF3-PA4b	10779
 DPF3-PA5	10779
 DPF3-PA6	10779
 DPF3. PA4	10779
+DPFP Renforcer	17872
 DPG AMP	13095
 DPG Applicant Toolkit	7921
 DPG Awareness and Certification Programme. Partner	7921
@@ -445,6 +457,10 @@ DPIs. Evaluating Nigeria’s DPI	3735
 DPL Development Policy Loan EU European	17441
 DPL FESTIVE LIMITED Data Controller INST-9494662570E	7167
 DPLoS	5349
+DPM Etat	17845
+DPM Laborex Gestion	17882
+DPM Médecin	17882
+DPM Nationale Extérieure Local	17882
 DPM THULI DLADLA CONDEMNS GBV	13213
 DPM Temesgen	14152
 DPM's Office	10466
@@ -487,7 +503,7 @@ DPOs. Conduct	12193
 DPP Administration	13122
 DPP Details	12058
 DPP Dialogue Public Privé	14437
-DPP Direction	15479
+DPP Direction	15479,2536
 DPP Fin	2966
 DPP Manifesto	13122,1552
 DPP Rec	2966
@@ -506,6 +522,7 @@ DPR DPR	12018
 DPR Direction	14437
 DPR. Excetuando-se	12018
 DPR. Os	12018
+DPRE Direction	18015
 DPRG-01-2024-0003	5349
 DPRG-03-2026-0153	8812
 DPRG-03-2026-0153. URL	8812
@@ -515,6 +532,7 @@ DPRI and DNSI	6593,8081
 DPRQJ	15604
 DPRS Director	11860
 DPS Document de Politique Sectorielle FAI Fournisseurs	16327
+DPS Dépense	17843
 DPS Female	16951
 DPS Manica	2228
 DPS Manneh	4359
@@ -542,6 +560,7 @@ DPSeGM	12354
 DPT ECDI2030 EFD FAO FCR	10777
 DPT-HepB-Hib	10760
 DPT3 Diphtheria	10829
+DPT3 Immunization	17869
 DPT3 Vaccine Stunting	10829
 DPU Support	13185
 DPW&I	11986
@@ -599,6 +618,7 @@ Digital Public Infrastructure DPI Somali	5172
 Digital Public Infrastructure DPPA	5244
 Digital and Human Capital Reform DPF	763,418
 Direction Provinciale DPEPPNF	15639
+Direction de Pilotage Mali Numérique DPGOV	17824
 Directorate of Distance and E-Learning DP	12175
 Disabilities DML Desired Mastery Level DP	13990
 Disaster Risk DPF	15491
@@ -648,6 +668,7 @@ Financial DPI	14997
 Financieres DPE	14472
 Fiscalía DP	4209
 Folha de Rosto Editavel Versão1 0 0.zip DPR DCI	12018
+Fonctionnaires des Impôts DPFP	17872
 Form DP1	1877
 Form DP1. Licences	6181
 Form DP2. Fourth Schedule	1877
@@ -695,6 +716,7 @@ Health-sector DPI	6249
 Home DPO CyberHub Rw-CSIRT Website About	9125
 Hotspot Operators Mao Warns DP Members	4608
 Human Capital Reform DPF World Bank	763
+Hygiène Publique DHIS2 DISC DIU DPM	17882
 ICRR0024415 Country Angola Programmatic DPF Planned	10779
 ID and DPI	1211,2819,338,2921,5791
 ID. DPOs	12328
@@ -753,6 +775,7 @@ Le DPSE Hasina RAKOTOZAFIARISOA	14425
 Leon Vera DP	17773
 Les DPEPPNF	15639
 Les DPEPS	15639
+Les DPFP	17872
 Liberia Resilient Recovery Stand-alone DPL	16949
 Liberia. The DPS	16971
 M Inclusivity Pulse for DPI	13095
@@ -782,6 +805,7 @@ Malawi. DPRI	14674
 Malawi. The DPA	12232
 Management System DPA Data Protection Act	15164
 Mapping DPI	8446
+Mauritania Fiscal Management and Resilience DPF	18006
 Mauritius DPA	6792
 Mauritius DPO	6202
 Meaning DPSA Department of Public Service and Administration	11218
@@ -838,6 +862,7 @@ Nigerian DPI	5072
 Nigeria’s DPA	4583,2209
 Nigeria’s DPI	3735
 Notification DPSS.CO.OD No	11310
+Numérique DPMN	17824
 ODPC. DPOs	12301
 Office of DPP	14829
 Operation Name Angola DPF L	10779
@@ -948,6 +973,7 @@ Uganda's DPI	3572
 Undated DPI Map	7221,1
 Under the DPA	12232
 Understanding DPI	5700
+Une DPFP	17872
 Une DPI	13530
 United Nations Development Programme DPI Safeguards	11940
 Universal AI and DPI	10719

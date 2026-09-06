@@ -90,6 +90,7 @@ Economia Sexta	11479
 Educação Sexta	11429
 Employed Both Sexes	14832
 Employment Both Sexes	14815
+Ensemble Sexe	18014
 Ensemble Sexe Masculin Féminin	13390
 Experience of Sexual Violence	15247
 Experiência de Violência Sexual	10777
@@ -107,6 +108,7 @@ First Sex	15247
 First Sexual Intercourse	13454,1793
 Foreign Births Registration By Sex	12151
 Fungicide Rodenticide Sex	17043
+Féminin Masculin Sexe Rural Urbain Milieu	18014
 G Sexe	13442
 GCC- Sexual	13185
 GE AUX PREMIERS RAPPORTS SEXUELS	13300
@@ -116,6 +118,7 @@ General and Sex-Disaggregated Statistics	12389
 Ghana. Sex	582
 Goal SEA Sexual Exploitation and Abuse SH	15661
 Gross Sexual Imposition	16935
+Groupe Sexe Milieu	18014
 H Sexe	13442
 HABITUELS LIEN AVEC SEXE RÉSIDENCE	13300
 HIV and Sexually Transmitted Infections	14839
@@ -172,6 +175,7 @@ Male Female Both Sexes Students	14815
 Marital Status and Sex	12151
 Market SEA Sexual Exploitation and Abuse SEP	16926
 Market SEAH Sexual Exploitation	17099
+Milieu Typologie Urbain Sexe	18014
 Mitigation Initiative STI Sexually	11549
 Multiple Sexual Partners	15247
 Mundo Sexta	11479
@@ -263,6 +267,7 @@ Review of Sexual and Gender-Based Violence Laws. Christine	8948
 Review the DHA Sexual Harassment Policy	11986
 Rights Sexual Exploitation and Abuse	4653
 Risks of Sexual Exploitation	17099
+Rural Sexe	18014
 Rural Sexe Age Total Nombre	10847
 Répression des Violences Sexuelles Faites	16478
 SDG Sustainable Development Goal SEA Sexual	16896
@@ -365,12 +370,18 @@ Sex-Disaggregated	12389
 Sex-disaggregated	4688,3189,4512,3755,772
 Sex-ratio	12413,2643
 Sexact	8606
+Sexe Diplômé	18014
 Sexe Femme	737
+Sexe Homme	18014
 Sexe Homme Femme Mixte Age Jeune	13390
-Sexe Masculin	737,12563,90,2209
+Sexe Masculin	737,12563,90,2209,2415
+Sexe Masculin Féminin	18014
 Sexe Nationalité Effectif Pourcentage Homme Nationaux	10875
 Sexe Nombre	10847
 Sexe Numéro	13300
+Sexe Paludisme Diarrhée Douleurs	18014
+Sexe Sur	18014
+Sexe Taux	18014
 Sexe du CM	737
 Sexe du CM Homme	737
 Sexe du CM Masculin	737
@@ -489,6 +500,7 @@ Trends of Liberia’s Sex Ratio	16921
 Type of Disability and Sex	2775
 Type of Offence and Sex	2775
 Types of Sex-disaggregated Data Available Online	12389
+Typologie Urbain Sexe	18014
 Unemployed Both Sexes	14832
 Unemployment Both Sexes	14815
 Urbain Rural Ensemble Sexe du CM Masculin	737

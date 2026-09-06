@@ -353,6 +353,7 @@ Explainability Guidelines Technology	7548
 Explanatory Note The Guideline	5665
 Extensibility Guidelines	5665
 External Guide	11276
+FAFT Guidance Anti-Money Laundering and Terrorist Financing	17870
 FAIR GUIDELINES FOR THE DEVELOPMENT	14565
 FAIR Guidelines	5914,8426,225,1
 FAIR Guidelines Purpose	14565
@@ -389,6 +390,7 @@ G Deployment Guidelines	5680
 G National Software Development Guideline Title	5665
 G20 AI Guidelines	7678
 G7 Hiroshima Process International Guiding Principles	12210
+GD GUIDIMAKHA	17902
 GENERAL GUIDELINES FOR COMMON ENTRIES	12338
 GM Guideline and GM	14010
 GSI Guidelines	4848
@@ -405,7 +407,7 @@ GUIDANCE NOTES FOR PUBLIC SECTOR	14524
 GUIDANCE NOTICE	11956
 GUIDANCE ON CROSS-BORDER DATA TRANSFER	11956
 GUIDANCE TO SCHOOLS ON COMMON CAUSES	14670
-GUIDE	942,13891,1379
+GUIDE	942,13891,1379,1659
 GUIDE DU QUESTIONNAIRE	13390
 GUIDE Dâ	16148
 GUIDE FOR DEVELOPING SECTORAL POLICIES	14879
@@ -437,6 +439,9 @@ GUIDELINES26	34
 GUIDES TO THE COST ESTIMATES	16885
 GUIDES TO THE COST ESTIMATES Based	16885
 GUIDES UTILISATEURS	6954
+GUIDIMAKAN KERI KAFFO	17828
+GUIDIMAKHA	18065
+GUIDIME	17828
 GUIDING FRAMEWORK	1000
 GUIDING PRINCIPLES	1009,10207,1459,248,2042,1920,272
 GUIDING PRINCIPLES AND AIMS OF EDUCATION	16852
@@ -493,9 +498,11 @@ Guidance for Generative AI	1814
 Guidance for Other Countries Considering Similar Offers	17695
 Guidance for Policymakers	6948
 Guidance for Use This Standard	16900
-Guide	748,1,438,61,455,111,170,974,17,1467,921,2185,1125,394,339,75,676,80,236,245,46,78,133,31,1,10,112,147,10,12,563,139,143,110,201,222,699,6,4,1049,2,186,44,4,114,1,27,6,21,93,11,544,55,13,25,51,84,9,177,33,100,69,109,306,204,141,4,33,22,4,91,444
+Guide	748,1,438,61,455,111,170,974,17,1467,921,2185,1125,394,339,75,676,80,236,245,46,78,133,31,1,10,112,147,10,12,563,139,143,110,201,222,699,6,4,1049,2,186,44,4,114,1,27,6,21,93,11,544,55,13,25,51,84,9,177,33,100,69,109,306,204,141,4,33,22,4,91,444,369,12,29,1,10,24,39,70
 Guide Alimentaire	15500
+Guide DCM du Trésor Arrêté	18015
 Guide Defines Best Practices for Electronic	3907
+Guide Des Indicateurs Du Secteur Santé	17945
 Guide Digital Transformation	3702
 Guide ESP	15604
 Guide Economie	16103
@@ -503,7 +510,9 @@ Guide Inclusive Digital Transformation	14674
 Guide Investment	11103
 Guide MDG Millennium Development Goals MLA	13960
 Guide MINISTERE DE L’INTERIEUR	15555
+Guide Méthodologique De L’indice Harmonise Des	17945
 Guide National de Fonctionnalité des GAC	15712
+Guide Non	17872
 Guide OMS	15685
 Guide Section VII	13185
 Guide de Passation des Marchés	15901
@@ -547,7 +556,7 @@ Guideline. Government Institutions	5665
 Guideline. Non	5665
 Guideline. Software Certification Renewal Software	5665
 Guideline. Such	17537
-Guidelines	34,553,131,181,62,1,38,204,39,21,613,111,359,380,162,24,691,522,457,530,563,2,1,8,481,20,244,4,103,253,136,18,135,123,268,76,215,538,135,93,61,96,137,3,91,5,187,14,114,618,551,1,316,6,39,3,48,3,7,12,209,79,4,1,1,20,1,84,29,80,68,108,82,247,1,2,3,1,5,58,28,8,33,7,241,14,46,59,29,1,63,6,45,34,4,55,19,301,1,1,30,10,45,1,31,3,1,20,20,15,215,11,10,1,20,29,22,58,13,3,7,82,875,124,1,157,4,9,9,67,12,11,44,68,18,62,7,68,270,39,107,140,1,2,52,188,243,68,631,5,4,1,19,6,7,4,11,8,28,13,26,42,1,96,66,7,4,52,17,70
+Guidelines	34,553,131,181,62,1,38,204,39,21,613,111,359,380,162,24,691,522,457,530,563,2,1,8,481,20,244,4,103,253,136,18,135,123,268,76,215,538,135,93,61,96,137,3,91,5,187,14,114,618,551,1,316,6,39,3,48,3,7,12,209,79,4,1,1,20,1,84,29,80,68,108,82,247,1,2,3,1,5,58,28,8,33,7,241,14,46,59,29,1,63,6,45,34,4,55,19,301,1,1,30,10,45,1,31,3,1,20,20,15,215,11,10,1,20,29,22,58,13,3,7,82,875,124,1,157,4,9,9,67,12,11,44,68,18,62,7,68,270,39,107,140,1,2,52,188,243,68,631,5,4,1,19,6,7,4,11,8,28,13,26,42,1,96,66,7,4,52,17,70,620
 Guidelines Actor Requirements	6432
 Guidelines Advocacy	15604
 Guidelines Article	12616
@@ -613,7 +622,7 @@ Guidelines for Revision Effective	9855
 Guidelines for Setting	318
 Guidelines for Setting Fair and Non Discriminatory Royalties	12389
 Guidelines for Street Naming and Property Numbering	11129
-Guidelines for Task Teams	2677
+Guidelines for Task Teams	2677,15193
 Guidelines for Timber	16848,5
 Guidelines-Data Protection-Act-2017.aspx	2816
 Guidelines-for-ID4D-Diagnostics.pdf	10765,10
@@ -627,7 +636,7 @@ Guidelines. Transparency and Documentation Transparency	14565
 Guidelines.pdf	2677
 Guider	3412,7563,3562,1046
 Guider Transfo	10975
-Guides	8671,735,1630,2513,988,352,725,59,175,151,901
+Guides	8671,735,1630,2513,988,352,725,59,175,151,901,1115
 Guides Guides Documentation	12364
 Guides Learning and Teaching Support Materials Examinations	11241
 Guides Learning and Teaching Support Materials Research	11241
@@ -635,6 +644,11 @@ Guides Pratiques	14436
 Guides Strategic Focus	16858
 Guides de Diagnostic	14622
 Guidi	8606
+Guidimagha	17843
+Guidimaka	18065
+Guidimaka Gorgol Dakhlet Nouadhibou Brakna Assaba	17867
+Guidimakha	17843,42,46,134
+Guidimakha L’hivernage	17931
 Guiding	22,936,3,1721,1846,501,649,1526,5308,50,760,339,788,44,101,80,248,37,6,407,1551,1,15,72,769
 Guiding Enforcement Principles	17249
 Guiding Legal Framework Overview of Namibia’s Social	12373
@@ -680,6 +694,7 @@ Health and Safety Guidelines The WBG Environmental	17114
 Health and Safety Guidelines The World Bank	12253
 Heath and Security Guidelines ESCP Environmental and Social	15518
 ICAO and ICAO Guidelines	10723
+ICR Guidelines	17849
 ICS. Ministerial Guidelines	14947
 ICT Acceptable Use Guidelines and Procedures	12453,892
 ICT Investment Policy and Guidelines	11854
@@ -730,6 +745,7 @@ Implementation Guides	1009
 Implementation Process of Street Addressing Guidelines	11129
 Implementing Regulations and Guidance	3861
 In-App Guidance	13037
+Inchiri Inchiri Trarza Trarza Guidimaka Guidimaka	17867
 India AI Governance Guidelines	9208
 Industry Guidelines	6946
 Industry Guidelines for Child Online Protection and Safety	4583
@@ -979,6 +995,7 @@ Preamble This Guide	16212
 Prepare the Data Protection Guidelines for SADC	962
 Pretoria Proposition and UNESCO’s Guidelines	7709
 Primary School Teacher Management Strategy and Guidelines	12175
+Principles and Guidelines	17950
 Privacy Design Guidelines for Mobile Application Development	11004,960
 Privacy Guidelines	1243,5693
 Private Sector Practical Ethical Guidelines	1204
@@ -1104,6 +1121,7 @@ Secure Coding Guidelines for Java SE	15161
 Secure Procurement Guidelines	6936
 Secure Remote Processing Guidance	3861
 Security Guidelines	9166,5868
+Security Risk Management Guidelines for Monetary Transfer	17906
 Semaine Guide	1187
 Service Provision Guidelines	34
 Setup and Installation Guide	5665
@@ -1235,6 +1253,7 @@ Users’ Guide Version	12255
 V ACKNOWLEDGEMENTS The Guidelines for Integrating Data	1243
 V. POLICY GUIDING PRINCIPLES	12779
 VPN Quick Reference Guide	12364
+Validation Guide	17893
 Vecteezy.com AI Ethics Guidelines for Mauritian HEIs	14812
 Verification Guidance	16843
 Violation of Street Naming Standard and Guidelines	11129
@@ -1249,6 +1268,9 @@ WEBSITE STANDARDS AND GUIDELINES	34
 WG CONSUMER Guidelines	5678
 Web Content Accessibility Guidelines	5665,1601,1173,2567,1,945,929,1459,1596,936,576
 Welcoming the Principles and Guidelines	17017
+Wilaya du Guidimagha	17918
+Wilayas de GUIDIMAKHA	18065
+Wilayas de Guidimagha	18065
 World Bank Anti-Corruption Guidelines	13331,2327
 World Bank Anticorruption Guidelines	16922
 World Bank Disbursement Guidelines for IPF	1264,14880

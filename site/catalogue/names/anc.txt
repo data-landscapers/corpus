@@ -10,6 +10,8 @@ ANC and CHWs	12328
 ANC and EPI	771
 ANC-led	7532,3740
 ANCA-CERT	6450
+ANCC Agence	17881
+ANCCE	17907
 ANCE Socle	8525
 ANCEE	15669
 ANCEMENT DE LA RECONSTRUCTION DES	15999
@@ -32,11 +34,12 @@ ANCIEN- ECHELON ANCIEN- ECHELON NETÉ NETÉ	15524
 ANCIEN- ECHELON NETÉ NETÉ ANCIENNETÉ ECHELON	15524
 ANCIENNE	13300
 ANCIENNETÉ ECHELON ANCIEN- ECHELON ANCIEN- ECHELON	15524
-ANCIENS COMBATTANTS	15999
+ANCIENS COMBATTANTS	15999,1992
 ANCIENS COMBATTANTS Conseiller	8237
 ANCIENS COMBATTANTS Le Conseil	15942
 ANCILLARY ACTIVITIES F1. Own-Use Installations Application	17250
 ANCRAGE INSTITUTIONNEL PROPOSÉ POUR LA MISE	16621
+ANCY National Cybersecurity Agency	17862
 ANCY Sécurité	8525
 ANCY URL	16370
 ANCY. Article	16370
@@ -54,6 +57,7 @@ ASSOCIATION DES ANCIENS ETUDIANTS CONGOLAIS	16456
 Abbreviations ANC	12246
 Abbreviations ANC Antenatal Care DHIS District	771
 Additional Financing AM Accountability Mechanism ANC	15138
+Afrique ANCD	17824
 Agriculture Anchored	16861
 Ancadjedja	11586
 AncdtiBvaatsioenlinaend	10157
@@ -77,14 +81,24 @@ Anchor of Fiat Currency Ultimately	13532
 Anchored	415,548,692,1217,82,533,167,166,611,613,1886,16,2,3240,818,128,81,117,1580,632,141,881,6,467,91,8,466,373,807,754
 Anchoria	11127
 Anchoria Advisory Services	11127
-Anchoring	10834,2171
+Anchoring	10834,2171,4865
 Anchors	4590,648
 Ancia MOMBO	16175
-Ancien	737,6217,680,870,4796,457,1731
+Ancien	737,6217,680,870,4796,457,1731,2324,49
+Ancien Ambassadeur	17861
+Ancien Charte	17861
+Ancien Colonel Assimi GOITA Gouverneur	17861
+Ancien Consul	17812
 Ancien Directeur	14527
+Ancien Député	17812
+Ancien Gouver-	17812
+Ancien Journal	17861
+Ancien Ministre	17812
+Ancien Président	17812,49
 Ancien Secrétaire Général du MEF	14527
 Ancien- Echelon Ancien-	15524
 Ancienne	7496,5804,2486
+Ancienne Directrice	17841
 Ancienne Directrice du Gouvernement Numérique	17448
 Anciennement	737
 Anciennete Echélon	15524
@@ -94,7 +108,9 @@ Ancienneté Echelon INDICES SOLDE MENSUELLE BRUTE	15524
 Ancienneté Echelon SOLDAT	15524
 Ancienneté Echélon COMMANDANT	15524
 Anciens	14863,923,213,8
-Anciens Combattants	3396,9933,12,101
+Anciens Combat-	17812
+Anciens Combat- Assemblée Nationale	17812
+Anciens Combattants	3396,9933,12,101,4375,215
 Anciens Combattants Cette	13329
 Anciens Combattants MINCOTIM Ministère	13341
 Anciens Combattants Ministère	13341
@@ -110,13 +126,14 @@ Ancilliary	13385
 Anclem Urielle Moukoubouka	15493
 Ancrage	765,8126,6957,773
 Ancrages	16037
-Ancrer	15474
+Ancrer	15474,2405
 Ancrée	4107
 Ancrées	10849
 Ancêtre Esclave	14774
 Ancêtres	15703
 Approved Maintenance Organizations ANC Ante-Natal Care	2775
 Archaeological Mission Discovers Ancient Theatre	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
+Association des Anciens	17899
 Australia. Anchored	1363
 Avenue des Anchois	14847
 BANDA ANCHA	16865
@@ -127,9 +144,13 @@ CBSS and ANC	4349
 COLLECTIF DES ANCIEN Année	15439
 Carlyle Group and Anchorage Capital Group	9016
 Central Bank of Nigeria’s Anchor Borrowers’ Programme	14706
+Cercle de Gao ANCAWAD	17828
+DEFENSE ET DES ANCIENS COMBATTANTS Vu	17899
 DEG Anchor Investment	460,161,208,605,716
+DES ANCIENS L’ETAT	18032
 DU STATUT DES ANCIENS DIRIGEANTS	15405
 Doubleday Anchor Books. Google Scholar Gran	8460
+DÉFENSE ET DES ANCIENS COMBATTANTS	18032
 E. SHIKONGO CHAIRPERSON MINERALS AND ANCILLARY	13189
 EAIF Anchor Investment PIDG	518,196,222
 ECOLES CENTRALES DES ANCIENNES PROVINCES	13694
@@ -155,11 +176,13 @@ Kenya. Anchored	7548
 Key Regional Anchors	4130
 LA DEFENSE ET DES ANCIENS COMBATTANTS	15676
 LIST OF ACRONYMS ADAM AI ANC	4153
+Lois de Finance MRO Ancienne Ouguiya	17907
 M. Gustave Benoît ANCHOUEY WANLELE	15973
 Master Plan. Ancillary	958
 Mauritius. Dr Vinaye Ancharaz	14811
 Million Capital Raise Anchored	9735
 Minerals Ancillary Rights Commission	13189
+Monsieur Ousmane Sadou MAÏGA Ancien Surveillant	17841
 NSS. Anchored	17116
 National Anchor	4130
 National Anchor Institutions Connectivity Programme	12045
@@ -172,6 +195,7 @@ R2. Ancrer	15474
 RED NACIONAL DE BANDA ANCHA SÚPER	16865
 Ringfenced Anchor Capacity Funding	10157
 SHIANEE CALCUTTEEA CHETAN ANCHARAZ Partner Associate	12232
+SIPAO. Ancien	17848
 Services ANC Antenatal Care IPT Intermittent	16971
 Servicios de Banda Ancha	9543
 SociedadEstrategia Nacional de Banda Ancha Cyprus	11529

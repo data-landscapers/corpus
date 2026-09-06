@@ -22,6 +22,8 @@ AIC Audit Implementation Committee AIS Automatic	17105
 AIS Automatic Identification System BDEV AfDB	11863
 ALLOYKI AUTO LOGISTICS LIMITED Data Processor	7167
 ANRTIC Autorité Nationale de Régulation Régulation	13716
+API Autorité de Protection des Données Personnelles	17870
+APIM Agence de Promotion des Investissements ARE Autorité	17881
 ARN A Autoridade Reguladora Nacional	11531
 ARN-TIC Autoridade Reguladora Nacional	11552
 ARN. CAPÍTULO IV AUTORIZAÇÃO GERAL ARTIGO	11520
@@ -35,6 +37,7 @@ ASYCUDA Automated System for Customs Data CatIS	13861
 ASYCUDA Automated System for Measurement	15478
 ASYCUDA Automated System for Performance Measurement	15478
 ASYPM The Automated System for Performance Measurement	13042
+ATM Application Programming Interface AU Autonomous	17870
 AU PROFIT DE LA HAUTE AUTORITÉ	15885
 AUTO EDIT SOM ABO&did	5550
 AUTO EXTREME Data Processor INST-856495288C0 KISUMU	7167
@@ -55,10 +58,25 @@ AUTOMATIC1111	11922
 AUTOMILE ASSET MANAGEMENT LIMITED Data Controller	7167
 AUTOMOBILE Articles C	15999
 AUTONOMIA ADMINISTRATIVA E FINANCEIRA DOS TRIBUNAIS	10752
+AUTONOMIE	17815
+AUTONOMIE DIGITALE	18077
+AUTONOMIE DIGITALE D	18077
+AUTONOMISATION DES FEMMES ET DIVIDENDE DEMOGRAPHIQUE	17829
 AUTONOMISATION ECONOMIQUE DES FEMMES Renforcer	15999
 AUTONOMY OF CBL..........4 EXECUTIVE SUMMARY	17235
 AUTORATES AFRICA LIMITED Data Controller INST-5580625BFCE	7167
 AUTORATES AFRICA LIMITED Data Processor INST-5580625BFCE	7167
+AUTORISANT	17833,8,191
+AUTORISANT LA Article	17829
+AUTORISANT LA Le Conseil	17861
+AUTORISANT LA PORTANT REGULARISATION DES MOUVEMENTS	18032
+AUTORISANT LA PT-RM	18032
+AUTORISANT LA RATIFICATION	17820,8,175
+AUTORISANT LA RATIFICATION DE Article	17828
+AUTORISANT LA RATIFICATION DE LA CONVENTION	17829,4
+AUTORISANT LA RATIFICATION DE L’ACCORD	17834,7,20
+AUTORISANT LA RATIFICATION DU PROTOCOLE ADDITIONNEL	18032
+AUTORISANT LA RATIFICATION DU Vu la Charte	18003
 AUTORISATION	15670
 AUTORISATION Arlicle	15429
 AUTORISATION Arrêté	15615,77
@@ -80,10 +98,11 @@ AUTORISATIONS RELATIVES AUX CESSIONS D’ACTIFS	16047
 AUTORISATIONS RELATIVES AUX CESSIONS D’ACTIFS ET	16047
 AUTORISATIONS RÉSEAUX INDÉPENDANTS	998
 AUTORITE DE CONTROLE CHAPITRE	10825
-AUTORITE DE PROTECTION DES DONNEES	10821
+AUTORITE DE PROTECTION DES DONNEES	10821,7001
 AUTORITE DE REGULATION DES COMMUNICATIONS ELECTRONIQUES	15654
 AUTORITE DE REGULATION DES MARCHES PUBLICS	14436
 AUTORITE DE REGULATION DU SECTEUR	15670
+AUTORITE MALIENNE DE REGULATION DES	18032
 AUTORITE NATIONALE INDEPENDANTE DES ELECTIONS Décision	15467
 AUTORITES COMPETENTES	15732
 AUTORIZAÇÃO	794
@@ -174,7 +193,7 @@ Autochek	832
 Autoclaved	15206
 Autoclax	16942
 Autocom	9565
-Autoconsommation	737
+Autoconsommation	737,17208,69
 Autocycles	2775
 Autodeclaram Viver	10777
 Autodeclaração de Infecções de Transmissão Sexual	10777
@@ -194,7 +213,7 @@ Automate EMIS	13310
 Automate GAC	17364
 Automate Spectrum	5245
 Automate the Postal Clearance	13108
-Automated	28,543,649,876,578,977,210,1508,1063,10,496,852,340,306,360,711,274,1,107,381,69,211,295,285,3,5,41,428,332,13,3,1,30,225,22,156,160,102,268,10,1,29,83,279,1114,130,162,34,204,69,130,38,399,112,511,615,68,242,390,253
+Automated	28,543,649,876,578,977,210,1508,1063,10,496,852,340,306,360,711,274,1,107,381,69,211,295,285,3,5,41,428,332,13,3,1,30,225,22,156,160,102,268,10,1,29,83,279,1114,130,162,34,204,69,130,38,399,112,511,615,68,242,390,253,78,14
 Automated Assessment and Feedback	14812
 Automated Biometric	11986
 Automated Biometric Identification	11986
@@ -213,6 +232,7 @@ Automated Clearing House	2358,1299,22,26,8005,576,78,950,138,1605,543,1244,32,66
 Automated Clearing House AML	13452
 Automated Clearing House Related Indicator	7221
 Automated Clearing House of Angola	6938
+Automated Clearing System	17870
 Automated Commercial Environment	11036
 Automated Core Processor. Given	11986
 Automated Corporate Support Services Assumptions NA	11986
@@ -283,7 +303,7 @@ Automated Trading System	10
 Automated Transfer System	4915,1231,7168,203,1506
 Automated Transfer System Plus	13742
 Automated Transfer Systems	12364
-Automated Transfer and Settlement System	10845
+Automated Transfer and Settlement System	10845,7025
 Automated Transfert System	13452
 Automated Vehicle Tracking	3862
 Automated Voter Registration	12054
@@ -351,13 +371,17 @@ Automation of Operational Processes	5677
 Automation of Operational Processes Automation	5677
 Automation of Smart Invoice	12420
 Automationofduplicaterecord	8606
-Automatisation	4913,5111,507,180,2579,11,5,2172,59,12,101,111,286,594,1142
+Automatiques	17833
+Automatiques de Banques	17833
+Automatiques de Billets	17833
+Automatiques de ET	17833
+Automatisation	4913,5111,507,180,2579,11,5,2172,59,12,101,111,286,594,1142,34,84
 Automatisation des Fichiers	4924,36
 Automatisation des STAR-UEMOA	10711
 Automatiser	7390,259,2895,2746,51,172
 Automatisierung	900
 Automatisierung von Prozessen	1531,1
-Automatisé	6146
+Automatisé	6146,11724
 Automatización	15478,1397
 Automatizar	2816,5132,3513
 Automatização	11329
@@ -390,9 +414,9 @@ Autonomia Técnica A Autonomia Técnica	11516
 Autonomie	37,10837,101,2326,141,1354,1052,681,1
 Autonomie Section	37
 Autonomie de RDB RDB	14862
-Autonomisation	822,4808,2596,1430,3685,843,2000,443,821
+Autonomisation	822,4808,2596,1430,3685,843,2000,443,821,381,16,138,62,26
 Autonomisation Economique des Femes	13547
-Autonomisation des Jeunes	16627
+Autonomisation des Jeunes	16627,1320,52,26,62
 Autonomisation des Ménages Pauvres	16384
 Autonomizar	11569
 Autonomous	5700,2680,718,247,1467,1045,2212,741,137,1097,898,546
@@ -405,6 +429,7 @@ Autonomous FIGURE	9616
 Autonomous Fund for Amortization of Public Debt	57
 Autonomous Funds and Services	11939
 Autonomous Generation	14947
+Autonomous ISR	17884
 Autonomous Network Power	5226
 Autonomous Port	10856
 Autonomous Port of Cotonou	9043,232
@@ -538,12 +563,13 @@ Autoriié Toute	15429
 Autorilé	15397,32
 Autorilé' Arllcle	15429
 Autorilé. Ceite	15429
-Autorisation	37,3344,4940,2500,15,40,2557,154,1,221,603,76,1,1,47,333,23,502,4,27,13,25,15,45,34,11,15,10,21,20,25,32,52,36,121,35,63,101,48,1,28,26,46,363,3,2,19,804,60
+Autorisation	37,3344,4940,2500,15,40,2557,154,1,221,603,76,1,1,47,333,23,502,4,27,13,25,15,45,34,11,15,10,21,20,25,32,52,36,121,35,63,101,48,1,28,26,46,363,3,2,19,804,60,319,4,10,13,126,70
 Autorisation Environnementale	15901
 Autorisation Exclusive	2342
 Autorisation Exclusive Ce	2342
-Autorisation Générale	16615
+Autorisation Générale	16615,1204
 Autorisation Générale Sont	16615
+Autorisation Générale Un	17819
 Autorisation L'autorisation	16615
 Autorisation Salubrité	14488,1,1
 Autorisation Temporaire	16249
@@ -553,14 +579,14 @@ Autorisation. Article	16612
 Autorisation. Autorité Concédante	16612
 Autorisation. Celles-ci	16612
 Autorisation. En	16615
-Autorisations	3356,40,155,7270,2480,2268,121,211,32,66,613,3
+Autorisations	3356,40,155,7270,2480,2268,121,211,32,66,613,3,1204,47,147
 Autorisations Au	13301
 Autorisations Environne-	15901
 Autorisations Réseaux Indépendants	998
 Autorisations SÛRETÉS	15901
 Autorisations Temporaires	16249
 Autorisations. Déclaration	16612
-Autoriser	747,10129,1056,1443,1050,1047,21,217
+Autoriser	747,10129,1056,1443,1050,1047,21,217,2112
 Autorisez-vous	13300
 Autorisotion	15429
 Autorisé	10975
@@ -591,21 +617,31 @@ Autorite de Regulation du Nurnertque	15584
 Autoriteit Persoonsgegevens	8436
 Autoritfde	15584
 AutoritÈ	15394
-Autorité	37,76,122,330,200,204,14,25,206,17,53,366,340,77,194,29,224,142,74,62,1,87,58,12,70,49,180,13,88,155,15,31,119,142,30,33,19,165,63,9,74,6,65,4,259,28,116,61,70,60,49,34,120,14,65,14,200,11,34,338,13,125,16,9,33,6,140,139,7,16,22,222,69,90,10,26,43,218,30,23,87,25,27,88,26,29,101,227,48,69,70,110,180,91,125,131,79,2,208,153,5,68,83,17,105,13,150,191,213,216,26,151,35,16,83,29,81,19,2,58,46,1,50,34,69,46,128,4,11,40,18,1,1,12,58,9,117,47,12,416,13,146,35,171,111,1258,418,66,24,352,48,70,1,23,81,28,1,25,50,1,1,22,37,300,277,228,8,4,4,54,5,13,1,1,17,3,18,25,4,7,24,3,40,18,32,35,1,5,11,33,43,4,2,115,1,16,35,6,1,25,52,95,2,31,1,28,18,8,60,32,32,5,28,34,29,155,34,3,2,9,8,2,76,9,732,296,14,32
+Autorité	37,76,122,330,200,204,14,25,206,17,53,366,340,77,194,29,224,142,74,62,1,87,58,12,70,49,180,13,88,155,15,31,119,142,30,33,19,165,63,9,74,6,65,4,259,28,116,61,70,60,49,34,120,14,65,14,200,11,34,338,13,125,16,9,33,6,140,139,7,16,22,222,69,90,10,26,43,218,30,23,87,25,27,88,26,29,101,227,48,69,70,110,180,91,125,131,79,2,208,153,5,68,83,17,105,13,150,191,213,216,26,151,35,16,83,29,81,19,2,58,46,1,50,34,69,46,128,4,11,40,18,1,1,12,58,9,117,47,12,416,13,146,35,171,111,1258,418,66,24,352,48,70,1,23,81,28,1,25,50,1,1,22,37,300,277,228,8,4,4,54,5,13,1,1,17,3,18,25,4,7,24,3,40,18,32,35,1,5,11,33,43,4,2,115,1,16,35,6,1,25,52,95,2,31,1,28,18,8,60,32,32,5,28,34,29,155,34,3,2,9,8,2,76,9,732,296,14,32,24,3,7,2,10,14,5,1,4,11,18,13,6,24,14,32,13,7,16,13
 Autorité Administrative	9565,7052
 Autorité Administrative Indépendante	15636,74,2,224,679
 Autorité Administrative de Tutelle	16615
 Autorité Aéronautique	15542
 Autorité Burundaise de Régulation des Produits Vétérinaires	13329
 Autorité Camerounaise	3233
+Autorité Cette	17819
 Autorité Compétente	15670
 Autorité Concédante	15542,1070
-Autorité Contractante	13524
+Autorité Contractante	13524,4507
+Autorité DECISION N	18032
 Autorité Gouvernementale	15643,972
 Autorité Harcèlement	10821
+Autorité Indépendante	17861
+Autorité Indépendante de Gestion	17989
+Autorité Indépendante de Gestion des Elections	17861
+Autorité Indépendante de Gestion des Elections. Coulibaly	17920
 Autorité Judiciaire	15643
+Autorité L’Autorité	17819
+Autorité L’encadrement	17819
 Autorité L’offre	10965
-Autorité Malienne de Régulation des Télécommunications	7999
+Autorité Malienne de Régulation	17819
+Autorité Malienne de Régulation des	17819
+Autorité Malienne de Régulation des Télécommunications	7999,9825,46
 Autorité Marocaine des Marchés de Capitaux	17485
 Autorité Ministérielle	13334
 Autorité Ministérietle	13334
@@ -625,6 +661,9 @@ Autorité Nationale de Régulation des Technologies	13722,59
 Autorité Nationale de Sécurité des Systèmes	7668
 Autorité Nationale des Elections	2366,13237
 Autorité Nationale des Elections APAI-CRVS African Programme	15415
+Autorité Ne	17829
+Autorité OCTOBRE	17829
+Autorité OPERATEURS DE TELECOMMUNICATIONS	18032
 Autorité Portuaire Nationale	15542
 Autorité Publique	15643
 Autorité Pôrtuaire NatiOñale	15999
@@ -636,20 +675,23 @@ Autorité Statistique Nationale	2625,10709
 Autorité Statistique Nationale. Article	13334
 Autorité Supérieure de Contrôle	3396
 Autorité Supérieure du Contrôle	16384
+Autorité TITRE	17819
 Autorité de ASIN Régulation des Communications	16144
 Autorité de Certification	15378
 Autorité de Contrôle des Assurances	568,16917
 Autorité de Contrôle des Elections	15727
 Autorité de Gestion des Réparations	8237
-Autorité de Protection	1231,9690,5696
-Autorité de Protection des Données	232,1093,690,2140,818,1106,757,1445,678,83,1198,29,552,1059,4065,540,132,25
-Autorité de Protection des Données Personnelles	1231,759,2807,749,277,916,2007,6683
-Autorité de Protection. Article	1231
+Autorité de Protection	1231,9690,5696,1205,38
+Autorité de Protection de Données	17831
+Autorité de Protection des Données	232,1093,690,2140,818,1106,757,1445,678,83,1198,29,552,1059,4065,540,132,25,1180,9,34,74,86,35
+Autorité de Protection des Données Personnelles	1231,759,2807,749,277,916,2007,6683,2393,8,40
+Autorité de Protection. Article	1231,16591
 Autorité de RégulatiDn des Communications Electroniques	37
-Autorité de Régulation	998,1788,2967,10,144,1769,135,188,446,720,760,1040,632,104,342,2118,505,750,48,159,31,16,40,17,12,62,84,18,33,172,95,20,104,5,153,130
+Autorité de Régulation	998,1788,2967,10,144,1769,135,188,446,720,760,1040,632,104,342,2118,505,750,48,159,31,16,40,17,12,62,84,18,33,172,95,20,104,5,153,130,1251,15,13,126,15
 Autorité de Régulation CHAPITRE	13781
 Autorité de Régulation DECISION N	15885
 Autorité de Régulation Multisectorielle de Djibouti	4402,9451
+Autorité de Régulation Multisectorielle. Il	17831
 Autorité de Régulation Postes	16615
 Autorité de Régulation de Communication Electronique	1935,76,2005
 Autorité de Régulation des CCDB Marchés Publics	11905
@@ -657,7 +699,7 @@ Autorité de Régulation des Communications	969,1585,335,430,37,115,1331,20,96,2
 Autorité de Régulation des Communications Electroniques	37,961,5243,4581,245,513,3835,59,38,142,673
 Autorité de Régulation des Communications Eléctroniques	969
 Autorité de Régulation des Jeux de Hasard	16323
-Autorité de Régulation des Marchés	15619
+Autorité de Régulation des Marchés	15619,2363
 Autorité de Régulation des Marchés Publics	969,9860,47,2425,2217,1185
 Autorité de Régulation des Marchés Publics Author	16703
 Autorité de Régulation des Marchés Publics. Cette	16703
@@ -666,7 +708,7 @@ Autorité de Régulation des TIC de Côte	5605,539
 Autorité de Régulation des Technologies de Communication	14549
 Autorité de Régulation des Technologies de Communication CEB	14573
 Autorité de Régulation des Transports Ferroviaires	16175
-Autorité de Régulation des Télécommunications	2418,958,500,1804,15,414,35,97,628,148,2,1112,2764,1,1,1,8,5,240,444,3824,291,226,134
+Autorité de Régulation des Télécommunications	2418,958,500,1804,15,414,35,97,628,148,2,1112,2764,1,1,1,8,5,240,444,3824,291,226,134,1762,34
 Autorité de Régulation des Télécommunications de CBA Côte	3604
 Autorité de Régulation des Télécommunications de Côte	3139,310,155,489,18
 Autorité de Régulation du Marché des Capitaux	13468
@@ -684,26 +726,41 @@ Autorité de Régulation. Le Conseil de Régulation	16327
 Autorité de Régulation. Section	15464
 Autorité de Régulation. Tout	15464
 Autorité de Régulation. Toute	15464
+Autorité de RégulaƟon	17866
 Autorité de Régulotion	15429
+Autorité des Oulémas	17960
 Autorité des Ports	1287,4706
 Autorité des Postes	10691
 Autorité du Bassin du Niger	16621
 Autorité du Bassin du Niger ACMAD	16621
 Autorité du Conseil de Régulation	16587
 Autorité. Arlicle	15429
-Autorité. Article	113,1118,14198
+Autorité. Article	113,1118,14198,2390,3
 Autorité. Avec	14549
+Autorité. Bamako	17819
 Autorité. CHAPITRE VII DES DISPOSIilONS PENATES	15429
 Autorité. Ce	1214
+Autorité. Celle-ci	17819
 Autorité. Ces	15429
+Autorité. Cette	17819
 Autorité. C’est	10821
+Autorité. DE TELECOMMUNICATIONS	17819
 Autorité. En	1231
-Autorité. Le Président	113
+Autorité. Il	17861
+Autorité. Le Président	113,17706
+Autorité. L’agrément	17819
+Autorité. Pour	17819
 Autorité. Section	1231
 Autorité. Sous-section	1231
+Autorité. S’agissant	18032
+Autorité. Un	17819
+Autorité. VOCALE	18032
+Autorité.Les	17822
+Autorité.Si	17822
 AutoritédeProtectiondesDonnéesàcaractèrePersonnel	15525
 Autoritédecertificationdestemps	15525
-Autorités	1214,2045,97,675,771,1880,1161,394,1050,55,1369,1,109,55,99,164,383,227,195,2475,6,63,1,1,871,68,13,1,65,34,101,124,67,3,11,85,104,80,9,486,3,2,8,2
+Autorités	1214,2045,97,675,771,1880,1161,394,1050,55,1369,1,109,55,99,164,383,227,195,2475,6,63,1,1,871,68,13,1,65,34,101,124,67,3,11,85,104,80,9,486,3,2,8,2,1192,3,6,16,2,9,10,118,20,44,16
+Autorités Administratives	18060
 Autorités Administratives Indépendantes	1231,14705,84,155,450
 Autorités Administratives Indépendantes Site	15936
 Autorités Compétentes	15643
@@ -712,6 +769,7 @@ Autorités Inclus	14488,1,1
 Autorités Judiciaires	15643
 Autorités Judiciaires. SECTION	15643
 Autorités Locales	17513
+Autorités Maliennes	18063
 Autorités Nationales	16615
 Autorités Nationales RA	15500
 Autorités Nationales de Régulation	16615
@@ -792,6 +850,7 @@ CAPÍTULO VIII UTILIZAÇÃO DE SISTEMAS AUTOMATIZADOS	11461
 CBN Mandates Automated AML Systems Across	5369
 CENEE AUTO GARAGE	7167
 CHAPITRE IV AUTRES AUTORITES STATISTIQUES Article	15561
+CHAR ET AUTOMOBILE BLINDES DE COMBAT	17982
 CHUI AUTO SPRING INDUSTRIES LIMITED Data	7167
 COMPTES ET DES SIGNATAIRES AUTORISES	15901
 CONSELHO DE MINISTROS Autoriza	11983
@@ -824,6 +883,7 @@ Ces Autorités	16615
 Chargeur Automatisé de Données	13783
 China's Xinjiang Uygur Autonomous Region and Guizhou	12864
 Classification Boundaries Automatic Class A Classification	5665
+Combatting of Financing of Terrorism ANPE Autorité Malienne	17870
 Combined Auto Services Ltd Data Controller	7167
 Commission Electorale Nationale Autonome	10821
 Commission Electorale Nationale Autonome Traitement	10821
@@ -846,6 +906,7 @@ Cotonou. Autour	3591
 Couffo. Autorités	5823
 Counter Financing of Terrorism Automatic Teller Machine	12701
 Cox Automotive	10638
+Critical Alerts Should Never Auto-Diffuse	17969
 Création du Registre National Automatisé	16482
 Crédit Autogérée DSCE Document de Stratégie	10965
 Crédit Signataire Autorisé	15901
@@ -865,9 +926,11 @@ DC Auto-íris	794
 DE COMPTES ET DE SIGNATAIRES AUTORISES	15901
 DE L’ETRANGER Autorisation	16177
 DE L’OBLIGATION DE COMMUNICATION AUX AUTORITES	785
+DE L’OCTROI DES AUTORISA-	17817
 DEE EM AUTO GARAGE LIMITED Data	7167
 DEFINITIONS DES CONCEPTS CLES Autorité	15479
 DEMANDES ET DE DELIVRANCE DES AUTORISATIONS	16203
+DES Autorité	17899
 DES DISPOSITIONS PAR RAPPORT AUX AUTORISATIONS	16612
 DES IMPOTS ET RESSOURCES AUTORISES A-	16020
 DES PEUPLES AUTOCHTONES	15455
@@ -879,6 +942,7 @@ DIREITOS DE AUTOR Consultoria	17093
 DISPONIBILITE Autorisation	16177
 DNCMP Autorise	10876
 DO AUTOR Umaro Seidi	17020
+DROITS ET AUTORISATIONS TABLE DES MATIÈRES	17896
 DU CONGO AUTORISATION D’OUVERTURE Arrêté	16413
 DU CONGO Autorisation	16413
 DUBAI NDOGO AUTO GARAGE LIMITED Data	7167
@@ -894,10 +958,12 @@ Definition ABIS Automated Biometric Identification System	11986
 Derechos de Autor	9303
 Des Organismes Publics Autonomes	16641
 Description Automation	4101
+Design of Autonomous ISR Systems	17884
 Designada Autoridade Reguladora	4274
 Detecção Automática de Interacção Qui-Quadrado	11416
 Development Bank AfDB Automotive Gas Oil	12256
 Development of Automation Boiler	11134
+Diffusion Industrielle Automobile	17817
 Digital Autonomy and Ownership	4430
 Digital Forms Document Upload Workflow Automation	12211
 Digitalisation and Automation of Service Delivery	16511
@@ -909,12 +975,20 @@ Direito de Autor	15554
 Direitos Autorais Online	2816
 Direitos de Autor	8385
 Distributeur Automatique de Billets GABAC Groupe	11944
+Distributeurs Automatiques	17833
+Distributeurs Automatiques de Billets	17833
+Distributeurs Automatiques de Billets Consultation	17833
+Distributeurs Automatiques de FCFA HT POUR	17833
+Distributeurs Automatiques de Frais DHL	17833
+Distributeurs Automatiques de HT	17833
+Distributeurs Automatiques de VISA	17833
 District Autonome	2342
 District Autonome du Grand Lome	4293
 Djibouti Transit Procedure Automation	16631
 Document Feeder Type Autoload Cables Included	34
 Document for Automate	17180
 Don’t Automatic Scheduled Upon	1686
+Douanier Automatisé TPE Terminal	17881
 Duration Automated Scans Monthly	11952
 Durée de I' Autorisation L'autorisation	16615
 Défavorable AUTORISATIONS	10821
@@ -954,8 +1028,11 @@ Evidence Autorité de Régulation des Télécommunications	10911
 Execução Autorizada	10783
 Expand Automate	14997
 Extending the Autopilot	5482
+FCFA HT Automatiques de Banque	17833
+FCFA HT Distributeurs Automatiques de GRATUIT Billets	17833
 FGI STP A Autoridade Geral de Rguladora	8487
 FOSSE D'AISANCES FOSSES D'AISANCES AMÉLIORÉE AUTO-AÉRÉE	13300
+FOURNITURE DES CARBURANTS ET INGREDIENTS AUTO	17982
 Features Automatic Duplexing Consumables	34
 Ferramentas Automatizadas de Decisão de Emprego	2816
 Fichier Automatisé de Recherche	16143
@@ -966,7 +1043,9 @@ Full Nationwide Automation	16520
 Funções da Autoridade Competente	11582
 Fédération Syndicale Autonome des Télécommunications	6284
 G Hybrid Automatically Switched Optical Network	3797
+G Personal Autonomy and Individual Rights G1	17967
 GLOSSARY AI Artificial Intelligence ASN Autonomous	10861
+GRATUIT Distributeurs Automatiques	17833
 GUCE-Douanes-Port Autonome	15936
 Gambia. The Intellectual Property Automation	16873
 Generalized Auto-Regressive Conditional Heteroskedasticity	15620
@@ -979,9 +1058,14 @@ Government of Cameroon's Caisse Autonome	303,36,7250
 Guichet Automatique Bancaire	11944
 Guichet Automatique de Banque GIM-UEMOA	10711
 Guichet Automatiques Bancaires	13390
+Guichets Automatiques	17833
+Guichets Automatiques de Banques	17833
+Guichets GRATUIT Automatiques de Banque	17833
+Guichets GRATUIT Automatiques de Banques	17833
 HAUTE AUTORITE DE TRANSPARENCE	16171
 Haute Autorite	4237
-Haute Autorité	3348,3230,545,332,464,417,555,1935,754,2130,28,1865,109,224,239,98,100,243,25,45,799,7
+Haute Autorité	3348,3230,545,332,464,417,555,1935,754,2130,28,1865,109,224,239,98,100,243,25,45,799,7,349,58,104,41,7
+Haute Autorité Bamako	17899
 Haute Autorité de Communication	15968
 Haute Autorité de Lutte Contre la Corruption	11905
 Haute Autorité de Protection des Données	2514,842,12589
@@ -989,8 +1073,9 @@ Haute Autorité de Régulation	11067
 Haute Autorité de Santé	17456
 Haute Autorité de Transparence	15885
 Haute Autorité des Médias	8772,281
-Hautes Autorités	9668
+Hautes Autorités	9668,8315
 Hautes Autorités Nigériennes	11694
+Hautes Autorités du Mali	17983
 Hautes Autorités du Niger	9668
 HouTe Autorilé de I'Audiovisuel	15397
 Houfe Autorité	15397
@@ -1041,6 +1126,7 @@ Insurers Association ATM Automatic Teller Machine	14997
 Integrated Tax Administration Automation System	15090
 Integration Platform ASYPM Automated System for Performance	13042
 Intelligent Hyper Automation	8974,392
+Interbank Automated Clearing System	17870
 Internet Exchange Point ARCEP Autorité de Régulation	15592
 Internet da Autoridade Reguladora	2866
 Introduction of Autofill	12041
@@ -1068,7 +1154,7 @@ LMIS- Adopted the Automated Therapeutic Coding System	16971
 LOCAL AUTORISATION Décret	15524
 La Caisse Autonome de Retraite des Fonctionnaires	7800
 La Décision des Autorités	10711
-La Haute Autorité	11580,4023,109,302,259
+La Haute Autorité	11580,4023,109,302,259,1771
 La Haute Autorité de Protection des Données	3356
 La Haute Autorité des Médias	8772
 Launch of Vital Statistics and Verbal Autopsy	13095
@@ -1076,7 +1162,7 @@ Le Revenu Maximum Autorisé	10975
 Le Réseau Africain des Autorités de Protection des Données	10821
 Legal Personality and Autonomy	3861
 Legal Personality and Autonomy The NDGC	3861
-Les Autorisations	16612
+Les Autorisations	16612,1234
 Les Autorités	6901,9216,498
 Les Autorités Judiciaires	15643
 Licences Autorisations Agréments	16047
@@ -1100,16 +1186,20 @@ MOGO Auto Limited	10313
 MOGO Auto Limited. Article	10313
 Maisha Digital ID Automation	12165
 Malawi PROJECT DONORS Contents ABIS Automated	13095
+Mali Autorité Malienne de Régulation des Télécommunications	17856
+Mali Digital Economy Diagnostic Autonomous System	17870
 Mali's Autorite de Protection des Donnees	4177
 Mauritius Automated Clearing and Settlement System	6938
 Mauritius Central Automated Switch	1386,13345
 Mauritius Central Automated Switch The Mauritius	14731
 Mean Automatability Index	16266
 Meaning ABIS Automated Biometric Identification System	11218
+Milieu Achats Autoconsommation Cadeau Total Région	18014
 Ministro Autoridad Judicial Militar Autoridad Judicial	4209
 Minor UI Improvements. Auto	15867
 Mme. Doria NDOUTA NDONG. AUTORITE ADMINISTRATIVE	16381
 Modernization and Automation	10550
+Monsieur Fana COULIBALY Chef de Division Autorisation	17841
 Moçambique A Autoridade Reguladora	12835
 Moçambique Autores	12142
 Mr. Konate Zana Gaston Autorité de Régulation	5680
@@ -1122,6 +1212,7 @@ Nana Appiah Acquaye The Autorité de Régulation	5962
 National Crime Automated Biometric Identification System	11081
 National Criminal Automated Biometric Identification System	11062
 Nationale Autonome	10821
+Navigation Aérienne AZFN Autorité	17873
 Nedbank Divisional Executive of Hyper Automation Group	14269
 Needs Assessment for Automated Case Management System	12668
 Net Savings ASYCUDA Automated System for Customs	16996
@@ -1153,6 +1244,7 @@ PEUPLES AUTOCHTONES	16177
 PLATEFORME NUMÉRIQUE DE GESTION DES AUTORISATIONS	13353
 POS RGTS SACU SACCOs WB Automatic	12701
 PRACTICES BY MOGO AUTO LIMITED Hon	10313
+PRODUITS AUTO	17833
 PROMOTION DES PEUPLES AUTOCHTONES	15524,91,752
 PROMOTION DES PEUPLES AUTOCHTONES Acte	15848
 PROMOTION DES PEUPLES AUTOCHTONES Décret	15615
@@ -1204,6 +1296,7 @@ Proyecto de Ley de Derechos de Autor	9303,7891
 Public Service Automated	14729
 R SOC INTER VISITE TECHNIQUE AUTO	16623
 R Une Autorité Administrative Indépendante de DCP	15624
+RACHAD Réseau Automatisé	18015
 REQUISES PAR LES AUTORITES COMPETENTES	16617
 Raciocínio Automático	2816
 Rapidly Developing Thunderstorms. Auto-update. View Today	14256
@@ -1215,6 +1308,9 @@ Reporting Standard IPAS Industrial Property Automation	11250
 Respect for Autonomy	3861
 Responsabilidade Geral da Autoridade Reguladora Nacional	11519
 Retail Automobiles	4972
+Retrait Guichets Automatiques	17833
+Retrait Guichets Automatiques de Gratuit	17833
+Retrait Guichets Automatiques de Guichet Inter	17833
 Revamping of Automated Case Management Systems	17441
 Revenu Maximum Autorisé	10975
 Revenue Automation The Commission	9939
@@ -1233,9 +1329,12 @@ Résultat VI.1 Automatisation	13306
 S AUTORIDADES COMPETENTES Artigo	15
 SAJ Automated	17441
 SCHEDULE OECD STANDARD FOR AUTOMATIC EXCHANGE	11233
+SECTION FICHIER NATIONAL AUTOMATISE DES EMPREINTES	17899
 SECTION WILL BE POSTED AUTOMATICALLY	13618
 SECÇÃO II COMPETÊNCIA PARA A AUTORIZAÇÃO	794
 SERVICE A AUTONOMIE TECHNIQUE OU	16175
+SFD and Financial Services Automation Unit	17870
+SICA-UEMOA Système Interbancaire de Compensation Automatisée	17870
 SISTEMAS AUTOMATIZADOS INTELIGÊNCIA ARTIFICIAL Artigo	11461
 SITUATION D’EXÉCUTION DES AUTORISATIONS D’ENGAGEMENT	3396
 SOMCAS Somali Customs Automated System	14929
@@ -1251,6 +1350,7 @@ Sector Subsector Tipo de Entidade Autoridades	6970
 Segment Strengthen the Automate	14997
 Self Assessment Questionnaire Automation of Air Cargo	12454
 Services Automating	14965
+Services du FMI Autorités	18063
 Serviço de Pagamento Automático	15445
 Setembro AUTORIZAÇÃO PARA REALIZAÇÃO DE DESPESAS	15404
 Signatairc Autorisé	15399
@@ -1313,14 +1413,17 @@ Test Automation	5665,6287
 Test Automation Requirement	11952
 Times of Crisis Automated System for Customs Data	13042
 Titre X. De la Haute Autorité	15603
+Trade and Development Automated Customs System	17870
 Trade and Development VAR Vector Auto-Regression VAT	236
 Tranche Autorisés	15901
 Trans-European Automated Real-time Gross Settlement Express	16219
 Transit Procedure Automation Djibouti	16631
 Tratamento Automatizado de Dados de Carácter Pessoal	15509
+Télévision Automobile Région	18014
 U SOCIETE AUTO SERVICES SARL SAS	16623
 USAGERS ET LES AUTORITES ADMINISTRATIVES ET	15419
 Um Terminal de Pagamento Automático	15445
+Un Autonomous System	17823
 Un Organe Consultatif. LES STRUCTURES AUTONOMES	16641
 Une Autorité	14384
 University Autonomy	17458
@@ -1337,7 +1440,7 @@ Verbal Autopsy Report	13095
 Verbal Autopsy Task Force	12338
 Verbal Autopsy VS	12338
 WAEMU Automated Interbank Clearing System	10853
-WAEMU Automated Transfer and Settlement System	10853
+WAEMU Automated Transfer and Settlement System	10853,7017
 Wh Kilowatt Hour ASN Autonomous System	3184,1,1340,6470
 X X X Résultat VI.1 Automatisation	13306
 Xinjiang Uyghur Autonomous Region	2518

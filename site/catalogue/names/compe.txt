@@ -149,7 +149,7 @@ Compensate Project Affected Persons	14546
 Compensated	7198
 Compensates Customers for Expired Bundles NITA-U Outlines	4608
 Compensating	1828
-Compensation	3,233,1574,965,2758,143,2019,1415,453,1412,156,5,94,18,738,459,90,14,491,82,199,5,135,13,335,19,613,305,89,517,364,211,417,495,63,14,10,188,371
+Compensation	3,233,1574,965,2758,143,2019,1415,453,1412,156,5,94,18,738,459,90,14,491,82,199,5,135,13,335,19,613,305,89,517,364,211,417,495,63,14,10,188,371,487,101
 Compensation Assistance Fund	11900
 Compensation Conditional	4258
 Compensation Fund	14997,1905
@@ -237,7 +237,7 @@ Competing Development Pressures	17139
 Competing Interests	7836,9944
 Competing Paradigms	5349
 Competing Regulatory Frameworks	17745
-Competition	961,282,575,459,658,1215,433,149,240,61,91,76,12,29,3,628,284,265,248,277,310,215,77,183,380,1038,194,168,526,53,465,163,126,291,19,42,328,1,332,137,205,57,120,13,146,122,17,238,139,117,176,117,1,86,403,34,424,314,6,16,135,67,425,39,13,23,13,13,33,1366,70,33,21,15,418
+Competition	961,282,575,459,658,1215,433,149,240,61,91,76,12,29,3,628,284,265,248,277,310,215,77,183,380,1038,194,168,526,53,465,163,126,291,19,42,328,1,332,137,205,57,120,13,146,122,17,238,139,117,176,117,1,86,403,34,424,314,6,16,135,67,425,39,13,23,13,13,33,1366,70,33,21,15,418,433,8
 Competition Act	1638,2076,2158,1049,924,3397,66,1881,272,1,960,397,9,3,2008,389
 Competition Act No.89	13462
 Competition Assessment Framework for Communications Sector	12918
@@ -258,7 +258,7 @@ Competition Commission’s Data Services Market Inquiry	8668
 Competition Commission’s Media and Digital Platforms Market	11308
 Competition Competitiveness Consumers Customs Economy	9067
 Competition Concentration	961
-Competition Council	17503
+Competition Council	17503,503
 Competition Data	961
 Competition Demand Side Access	1161
 Competition Drove Prices Down	14297
@@ -342,13 +342,14 @@ Competitiveness Report	11863
 Competitiveness Report Score	11863
 Competitiveness Security	9067
 Competitiveness Unit	16503
-Competitiveness and Employment	15411
+Competitiveness and Employment	15411,2451
 Competitiveness and Financial Inclusion Programme	12721
 Competitiveness and Financial Inclusion Project	11717
 Competitiveness and Growth	10963,1
 Competitiveness and Innovation	11867,1464,1557,22,640
 Competitiveness and Innovation Eastern And Southern Africa	13742
 Competitiveness and Innovation Practice Area	10964
+Competitiveness and Innovation Practice Manager	17870
 Competitiveness and Innovation Social Protection	16032
 Competitiveness and Investment	16032
 Competitiveness and Investment Global Department	4357
@@ -405,6 +406,7 @@ Cybersecurity Competion Gender Applications	16876
 Câmara de Compensação Automatizada de Angola	11370
 D.G.PROMOCION EMPRESARIAL Y COMPETITIV.- Concepto	4209
 DACC Digital Addressing Competence Centre DAP	16915
+DE LA COMPETENCE DES JURIDICTIONS Article	17826
 DEMANDE DE COMPETENCES NUMERIQUES	15493
 DES COMPETENCES GENERALES DE LA COMMUNE	13292
 DEVELOPING COMPETENT AND ADEQUATE HUMAN RESOURCE	14004
@@ -422,7 +424,7 @@ Develop Digital Trade Competitiveness In Selected	626
 Digital Addressing Competence Center	16915
 Digital Addressing Competence Centre	16915
 Digital Competence Framework	15480
-Digital Competence Framework for Citizens	13314,1583,577,6,13,832
+Digital Competence Framework for Citizens	13314,1583,577,6,13,832,1545
 Digital Competence Framework for Citizens ICT	14915
 Digital Competence Framework for Citizens. Update	15447
 Digital Competence Wheel	11918
@@ -524,10 +526,10 @@ German Competition Act	10090
 Glo Steady Competitive	6051
 Global Competency	16325
 Global Competitiveness	1154,12202
-Global Competitiveness Index	13314,2177,222
+Global Competitiveness Index	13314,2177,222,2157,14
 Global Competitiveness Index GDP Gross Domestic	15491
 Global Competitiveness Rank WEF	11379
-Global Competitiveness Report	4840,8474,1683,450,33,13,111
+Global Competitiveness Report	4840,8474,1683,450,33,13,111,2263
 Global Competitiveness Report. Indicateurs	15474
 Global Competitiveness and Cooperation	12675
 Global Competitiveness and Market Positioning	14819
@@ -625,6 +627,7 @@ Market Competition	12389
 Market Dynamism and Competitive Behaviors	12389
 Market Share and Competition Analysis	12256
 Market Share of Largest Competitor	12389
+Market Structure and Competition	17870
 Market Structure and Competition Environment	12659
 Mauritius. Two Energy Efficiency Competitions	14745
 Max Planck Institute for Innovation and Competition	6521,24
@@ -742,6 +745,7 @@ SECTION IV OES COMPETENCES DES JURIDICTIONS	15429
 SECÇÃO II COMPETÊNCIA PARA A AUTORIZAÇÃO	794
 SECÇÃO III ENTIDADE COMPETENTE	11433
 SEEK OUT A COMPETENT RESPONDENT	17127
+SICA-UEMOA Système Interbancaire de Compensation Automatisée	17870
 SICIL- Sistema Interbancário de Compensação Interbancária	17032
 SISTEMAS INOVAÇÃO E COMPETÊNCIAS DIGITAIS FRAMEWORK	15476
 SITUATION EN TERMES DE COMPETENCES NUMERIQUES	15493
@@ -767,6 +771,7 @@ Skills and Competence	14565
 Skills and Competencies The Consultant	12686
 Social Assistance Benefit Disaster Compensation Benefit	16902
 Social Cohesion NCB National Competitive Bidding	11525
+Social Inclusion and Strengthening Competitiveness	17862
 Software Engineering Competence Center	16212
 South Africa's Competition Commission	4583
 South African Competition Commission	11292
@@ -840,6 +845,8 @@ Workers' Compensation Fund Control Board	13465
 Worker’s Compensation Fund	12964
 Workmen's Compensation Regulations	12737
 Works Open Competition National Market	17180
+World Bank Group Finance Competitiveness and Innovation	17870
+World Bank’s Finance Competitiveness and Innovation	17870
 World Customs Organization’s Single Window Compendium	13042
 World Economic Forum Global Competitiveness Index	15447,33
 World Economic Forum Global Competitiveness Report	15411

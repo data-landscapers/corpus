@@ -40,6 +40,7 @@ Automated Clearing House	2358,1299,22,26,8005,576,78,950,138,1605,543,1244,32,66
 Automated Clearing House AML	13452
 Automated Clearing House Related Indicator	7221
 Automated Clearing House of Angola	6938
+Automated Clearing System	17870
 Automated Interbank Clearing System	10845
 Ave Georges Clemenceau Djibouti	15143
 Avec Clea	10803
@@ -81,6 +82,7 @@ CLEARING	16552,326,128
 CLEARING NIL	15774
 CLEARING OR SETTLEMENT SYSTEMS	12374
 CLEEN Foundation	8471
+CLEFS	17882
 CLEFT- KINDER	998
 CLEFT- KINDER C	998
 CLEMENT	17438
@@ -116,7 +118,7 @@ Circulation Clear	9123
 Civilian and Non-Civilian Uses Require Clear Boundaries	7548
 ClEebr	5098
 Clea Initially	9283
-Clean	789,1199,1063,1921,274,2517,483,360,517,2149,393,588,105,41,318,703,100,1427,259,982,778
+Clean	789,1199,1063,1921,274,2517,483,360,517,2149,393,588,105,41,318,703,100,1427,259,982,778,1005
 Clean Alliance Party of Kenya	7167
 Clean Audit Opinion	11198
 Clean Audit Report	11198
@@ -134,6 +136,10 @@ Clean Energy	14752,452
 Clean Energy Access Transformation	12233
 Clean Energy Access Transformation CKD Completely	12233
 Clean Energy Access Transformation Project ATU	14674
+Clean Energy Cooperation	17880
+Clean Energy Cooperation Country	17880
+Clean Energy Cooperation Document Title Memorandum	17880
+Clean Energy Cooperation URL	17880
 Clean Energy Housing	15244
 Clean Energy Sanitation	15244
 Clean Energy Solutions Transform Lives and Livelihoods	17048
@@ -398,6 +404,7 @@ Improving Clean Renewable Energy	7020
 Infrastructure NCSS National Clearing and Settlement Systems	12444
 Institutional Security Clearance	14113
 Integrated Interbank Clearing and Settlement System	15453
+Interbank Automated Clearing System	17870
 Interbank Clearing	17236
 Interconnect Clearing House Limited	3862
 Interconnect Clearing House Nigeria Limited	3862
@@ -528,6 +535,7 @@ Review Clean Cooking	14947
 Robusta Clean	7763
 Roles and Responsibilities Clearly	12356
 SA-SAMS. Clear	11927
+SCAP RU and GLAM Cleared	17962
 SEALED IN AN ENVELOPE CLEARLY MARKED	12400
 SITOU MASSANGA CLEMENCE	15780
 SPEED UP CARGO CLEARANCE Mambo	12454

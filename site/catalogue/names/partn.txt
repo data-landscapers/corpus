@@ -162,7 +162,7 @@ CHARTAFAI LIMITED LIABILITY PARTNERSHIP Data Controller	7167
 CHARTERED GOVERNANCE CENTRE LIMITED LIABILITY PARTNERSHIP	7167
 CIPESA and UNESCO Partner	11011
 CLOUD POLICY Partnership	10157
-CO-FINANCIER AND OTHER PARTNER	11924,3587,90,62,68,705,516
+CO-FINANCIER AND OTHER PARTNER	11924,3587,90,62,68,705,516,897,13,100
 CO2 Carbon Dioxide CPF Country Partnership	15983
 COBUS VISSER Partner Bowmans Windhoek	12232
 COMPANY B PARTNERSHIP C JOINT	12693
@@ -184,6 +184,7 @@ CPF Country Partnership Framework EIRR Economic	13836
 CPS Country Partnership Framework	13861
 CPS Country Partnership Strategy	15411
 CPS Country Partnership Strategy CQS Selection	17441
+CPS Country Partnership Strategy CSIRT Computer	17862
 CRI Country Partnership Framework CVE Country	11855
 CSIRT Country Partnership Framework DA Country	13331
 CSR and Strategic Partnerships. The Fursa Lab	10732
@@ -266,8 +267,9 @@ Coordination and Partnerships Division	9207
 Core Partners Group	17289
 Corporate Partnerships	5042
 Country Implementing Partners. Disclaimer	15960
+Country Management Unit Country Partnership Framework	17862
 Country Partnership Compacts	17196
-Country Partnership Framework	1901,1703,4874,2290,73,123,341,163,7,1,49,330,69,914,130,363,785,511,511,286,87,3,4,32,51,58,2,82,240,310,91,52,7,453,26,27,509
+Country Partnership Framework	1901,1703,4874,2290,73,123,341,163,7,1,49,330,69,914,130,363,785,511,511,286,87,3,4,32,51,58,2,82,240,310,91,52,7,453,26,27,509,404
 Country Partnership Framework Civil Registration Computer	15553
 Country Partnership Framework Corporate Results Indicator	16436
 Country Partnership Framework DA Designated Account	1264,10296
@@ -277,7 +279,7 @@ Country Partnership Framework and Rationale for Use	11905
 Country Partnership Framework for Burundi	13331
 Country Partnership Framework for Nigeria	11486
 Country Partnership Framework for Togo	2026
-Country Partnership Strategy	15372,139
+Country Partnership Strategy	15372,139,2338
 Country Partnership Strategy for Cabo Verde	11855
 County Development Partner	7548
 County Officials Thank KICTANet Partners Mr	13254
@@ -623,6 +625,7 @@ Global Water Partnership	17157
 Global and Regional Partnerships	13295
 GoG and Development Partners	15845
 GoK Partners	7548
+Gold Partner	18039
 Goodwell Investments and LUN Partners	606
 Google Cloud Partner Advantage	4434
 Google Cloud Partner Experience Centre	6909
@@ -683,6 +686,7 @@ IDPs International Development Partners	11860
 IFC and Equity Bank of Kenya Partner	12297
 IGAD Member States and IGAD Development Partners	14434
 IGAD Member States and Social Partners	14039
+IMPLEMENTATION PARTNERS WASH Coordination Mechanism	17971
 IMPLEMENTING PARTNER	12168
 IMPLEMENTING PARTNERS	4153
 INFRASTRUCTURE FINANCE AND PUBLIC PRIVATE PARTNERSHIPS	14546
@@ -711,10 +715,10 @@ Imports Partner and Percentage	16935
 Increased Digital Literacy and Productivity Partnerships	13095
 India Africa Growth Partnership	13562,2713
 India Africa Growth Partnership Creating Shared	17240
-India Africa Project Partnership	16275
+India Africa Project Partnership	16275,1741
 India Africa Project Partnership. Participation	16285
 India-Africa Growth Partnership	17241
-India-Africa Project Partnership	17240
+India-Africa Project Partnership	17240,776
 India-Africa Project Partnership. CAR	16277
 India-Africa Project Partnership. Zimbabwe	13562
 India-UN Development Partnership Fund	11356,4929,956
@@ -944,12 +948,14 @@ Nasir Ingawa of NADF’s Partnership and Investor Relations	8659
 National Assembly Partnership	11332
 National Partner Cloud	10798
 National Partnership Coalition	14021
+National Partnership Framework	17962
 National Showcase and Partnership Forum	7171
 National and International Partnership	1000
 Naymote Partners for Democratic Development	5475,11562,102
 Neighbourhood Development Partnership Programme	11248
 Netherlands and Kenya Judiciary Partnership	9546
 News Digital Senegal Pushes Public-Private Partnership	5407,676
+News Events People Partners	18036
 News Partnerships Lead	11308
 Nigerian Development Partners Group	11468,1
 Non-intimate Partner	15247
@@ -1036,7 +1042,7 @@ Partech Partners	865,30,160,3793,7528
 Partech Partners Developed	12339
 Partech Partners'. Partech	391
 Partne3rs.7hipP	10157
-Partner	2678,396,361,691,65,95,142,6,94,296,72,92,1187,75,182,35,469,84,375,25,24,152,155,276,873,806,14,30,401,853,136,97,39,45,268,284,7,17,67,246,4,142,58,30,64,4,163,639,147,352,743,262,179,42,91,76,103,138,53,161,52,35,97,299,487,320,67,19,33,69,18,93
+Partner	2678,396,361,691,65,95,142,6,94,296,72,92,1187,75,182,35,469,84,375,25,24,152,155,276,873,806,14,30,401,853,136,97,39,45,268,284,7,17,67,246,4,142,58,30,64,4,163,639,147,352,743,262,179,42,91,76,103,138,53,161,52,35,97,299,487,320,67,19,33,69,18,93,721
 Partner Contributions	11469
 Partner Countries	3760,9683
 Partner Developmental	17364
@@ -1044,6 +1050,7 @@ Partner Ecosystem	7065
 Partner Ecosystems If GCSPs	6432
 Partner Engage	17745
 Partner Engagement	1071,16674
+Partner Event Structure	18039
 Partner Experience Centre	5735,1,1,1172
 Partner Government Agencies	13042
 Partner Government Agency	13042
@@ -1056,6 +1063,7 @@ Partner Management System	6435
 Partner Meetings Across Four Markets	9811
 Partner Nature of Involvement	3604
 Partner Organizations	13051
+Partner Partner With Us	18039
 Partner Piece Co-Written	5863
 Partner Principal Associate Senior Associate Aman	12232
 Partner Programme	13462
@@ -1079,6 +1087,7 @@ Partner States’ National Payment System	3238
 Partner State’s Constitution	14409
 Partner Tel	12855
 Partner Unique Number	11276
+Partner With Nouakchott AI Build	18039
 Partner With Us	13851
 Partner and Ecosystem Management	4528,7984
 Partner and Global Co-Head of Digital Assets	7577,2129
@@ -1090,7 +1099,9 @@ Partner2Connect Digital Coalition	2663,5955
 PartnerAfrica-Project	455,1688
 PartnerAfrika-Projekt	455,1688
 Partnering	786,113,59,3692,13,315,162,300,262,1569,1355,2215,290,249,574,40,246,855,513,270,957,162,77,86,393,292,1128,38
-Partners	249,638,55,322,98,349,17,49,1756,7,64,217,19,107,179,308,548,983,188,874,47,474,1451,23,61,496,1142,108,308,73,135,204,11,97,240,98,180,22,13,30,1,5,110,20,3,216,79,87,202,117,15,71,88,1,59,18,17,1115,42,313,78,61,39,131,2,62,55,6,238,24,3,35,68,37,1,2,89,59,805,17,232,38,34,16,19,1,57,86,2,41,103,14
+Partnering for Africa	17862
+Partnering for Africa’s Regional Integration	17862
+Partners	249,638,55,322,98,349,17,49,1756,7,64,217,19,107,179,308,548,983,188,874,47,474,1451,23,61,496,1142,108,308,73,135,204,11,97,240,98,180,22,13,30,1,5,110,20,3,216,79,87,202,117,15,71,88,1,59,18,17,1115,42,313,78,61,39,131,2,62,55,6,238,24,3,35,68,37,1,2,89,59,805,17,232,38,34,16,19,1,57,86,2,41,103,14,694,3,68
 Partners ASALs	7548
 Partners Accra	12232
 Partners Associazione ScuolaNuova.EU AI AZ DATA	8530
@@ -1113,6 +1124,7 @@ Partners General	7548
 Partners Help Contact Site Map Search	16830
 Partners Hidroeléctrica de Cahora Bassa Comunidade	9409
 Partners ICTA	7548
+Partners Key Partners Ministère	18039
 Partners Kimathi	12232
 Partners LLP	12232
 Partners LLP Addis Ababa	12232
@@ -1156,7 +1168,7 @@ Partnership Agreement	10841,2315,164,676,1510,1337,598
 Partnership BO	11276
 Partnership Behind the System SAADAAL	15178
 Partnership Commission	14674
-Partnership Compact	10704,1471,1815,21,138,1,1511,27,748,760
+Partnership Compact	10704,1471,1815,21,138,1,1511,27,748,760,774
 Partnership Compact Priorities	17196
 Partnership Compact Pursuing	13990
 Partnership Compact. Malawi	12175
@@ -1172,6 +1184,7 @@ Partnership Education Sector Plan for Egypt Education	15604
 Partnership Engagement	14519
 Partnership Framework	17196
 Partnership Framework Agreement	11401
+Partnership Framework CP-SNPS National Social Protection	17849
 Partnership Framework CPF Corporate Results Indicator	11417
 Partnership Framework CRI Corporate Results Indicator	15661
 Partnership Framework CSI Corporate Scorecard Indicator	6539
@@ -1184,6 +1197,7 @@ Partnership Manager	10732
 Partnership Name	11276
 Partnership Negotiation	3840
 Partnership PPR Peste des Petites Ruminants PPR	11197
+Partnership PRSP Poverty Reduction Strategy Paper	17862
 Partnership Pact. Central African Republic	15661
 Partnership PwDs Persons	13991
 Partnership RDB Rwanda Development Board RD&D	14947
@@ -1231,6 +1245,7 @@ Partnerships AI Forums and Science	12356
 Partnerships And Collaborations	958
 Partnerships Collaborative	12210
 Partnerships Directorate	1264
+Partnerships Education	17971
 Partnerships Health Systems Strengthening. The Need	21
 Partnerships Initiate	4528
 Partnerships Institutional Strengthening	13080
@@ -1285,6 +1300,7 @@ Pravinkumar. Partnerships	10489
 Preparation Advance PPP Public Private Partnership	17105
 President and Cabinet PARIS21 Partnership	13359
 Presight Expands Digital Transformation Partnerships Across	16261
+Principal Partner	18039
 Prium Partners	10467
 Private Partner	12917
 Private Partners	16144
@@ -1371,6 +1387,7 @@ Regional Comprehensive Economic Partnership	1243
 Regional Comprehensive Economic Partnership Agreement8	11154
 Regional Organizations and Development Partners	1814
 Regional Partnerships	1554
+Regional Training Institutions and Partnering Institutions	17922
 Regional and International Development Partners Educational	12444
 Regional and International Partnerships	5677
 Register the Partnership	11276
@@ -1423,6 +1440,7 @@ Services Agreement TPP Trans-Pacific Partnership UK	1243
 Showcasing the India-UN Partnership	17241
 Sierra Leone Country Partnership Framework	16144
 Sierra Leone and Afghanistan. Partners	8477
+Silver Partner	18039
 Single Partner Limited Liability Company	11939
 Single Partner Quoted	11939
 Single Window Abbreviations PGA Partner Government	16631
@@ -1448,6 +1466,7 @@ Stakeholder Engagement and Building Partnerships	12642
 Stakeholder Engagement and Partnerships	14464
 Stakeholder Partnerships	16884
 Stakeholders and Partners	13998
+Standby Partners. Dans	18075
 Starlink Partners	15816
 Starlink-Airtel Partnership	4442
 Starlink-Vodacom Partnership	4442
@@ -1459,6 +1478,7 @@ Stop TB Partnership	2816
 Strategic Development and Investment Partner	10518
 Strategic International Partnerships	14819
 Strategic Investment and Partnerships Objective	4528
+Strategic Partner Designed	18039
 Strategic Partner Manager	13461,1
 Strategic Partner News Publishers	13462
 Strategic Partners	11345,1240
@@ -1615,7 +1635,7 @@ Wildlife Management The Partner States	14409
 William Maema Senior Partner IKM Advocates	12301
 Within the Framework of Partnership and Mutual Consultations	17322
 World Bank Country Partnership Framework	1264,2340,7813,3773,431
-World Bank Country Partnership Strategy	11924,3487
+World Bank Country Partnership Strategy	11924,3487,2451
 World Bank Digital Development Partnership	463
 World Bank Digital Development Partnership COVID-19	463
 World Bank Group Country Partnership Framework	12176,935,3811
@@ -1625,7 +1645,7 @@ World Bank Group's Country Partnership Strategy	15704
 World Bank Group's Eswatini Country Partnership	12426
 World Bank Group. Country Partnership Framework	15663
 World Bank Group’s Cameroon Country Partnership	10964
-World Bank Group’s Country Partnership Framework	6539,9119,5
+World Bank Group’s Country Partnership Framework	6539,9119,5,2299
 World Bank Group’s Country Partnership Strategy	11855
 World Bank Group’s FY19-FY24 Country Partnership	16960
 World Bank Launches New Country Partnership	11476
@@ -1636,7 +1656,7 @@ World Bank's Country Partnership Framework for Mozambique	4214
 World Bank's Country Partnership Strategy	11924
 World Bank's Early Learning Partnership	11905
 World Bank. Country Partnership Framework	15601
-World Bank’s Country Partnership Framework	16436
+World Bank’s Country Partnership Framework	16436,1413
 World Bank’s Country Partnership Strategy	15372
 World Bank’s Digital Development Partnership	16144
 World Bank’s Partnering for Africa’s Regional Integration	15424

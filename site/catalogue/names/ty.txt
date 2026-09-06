@@ -75,7 +75,7 @@ Centre Broadcasting Monitoring Centre Type Approval	9109
 Certificate Type	11276
 Certification Policy Type	17534
 Choose Client Type	13333
-Classification Internationale Type	10874
+Classification Internationale Type	10874,6956
 Classification Internationale Type des Professions	14622
 Closing Type	4972
 Cloud Type	13062
@@ -100,6 +100,7 @@ Crop Type and Main Source of Seed Used	17043
 Crop Type and Seed Recyclability	17043
 Customs Publication Type	15065
 DATA CENTER Principal. Répartition Surface Types	14489
+DE CHANGEMENT DE TYPOLOGIE DES SERVICES	17899
 DE SANTÉ CENTRE DE SANTÉ TYPE	13300
 DE TYPE SMS	15885
 DEPOT Type	13390
@@ -199,6 +200,7 @@ Homba Ngejane TYPES OF CYBERATTACKS EXPERIENCED	1938
 Hurricane and Typhoon	13776
 ICR Type	16614
 ICSE-18 Type	11296
+ID Projet Type Coût	17860
 ID Scope System Type Binary	7221
 ID. TymeBank	4772
 ID. Type	12533
@@ -248,10 +250,12 @@ MITIGATION ACTIONS IN LIBYA Indicator Type	17157
 Main Data Types	14857,3
 Main Source Statistics Used Types	17149
 Main Uses of Official Statistics Types	17149
+Mali Région Cercle Arrondissement Type	17993,96
 Manage Tax Type Transfer Facebook X	11276
 Mandatory Type of Information Required for Beneficial Owners	12389
 Mankayane Facility Clients Type Male Female	12977
 Massive Machine Type Communications	5675
+Mauritania Type	17927
 May-2025. Review Type	11965
 Measure Type Details Proposed Responsible Party	17157
 Measure Type Details Responsible Party Operational	17157
@@ -261,6 +265,7 @@ Message Type PAFEN	13452
 Message Type TTC Types MT298 SMT	12364
 Metadata for Official Statistics Statistic Type Ease	17149
 Methods Study Type	14666
+Milieu Typologie Urbain Sexe	18014
 Mini-réseaux de Type B	13809
 Mini-réseaux de Type C	13809
 Ministère Types	13442
@@ -310,9 +315,11 @@ Open Bidding National Commencement Type	13621
 Operation of Various Types of Bodies Performing Inspection	16900
 Operator Type	15136
 Operator Type Compliance	6432
+Ousmane M. Ousmane Dr Tyéri Noms	17882
 Output Type LaserJet Enterprise	34
 Ownership Type	10718,462,1209
 P000692 Financing Type	15905
+PAR SECTEUR ET PAR TYPE	17843
 PHASE CHARACTERISTICS TYPICAL STRATEGIES Phase	6432
 PLOT TYPE	17043
 PLOT TYPE Region Total Agricultural	17043
@@ -349,6 +356,7 @@ Platform Type Web-based	12211
 Polarization Deployment Type Front	736
 Post Clearance Audits Type of Audit	13053
 Post Office Address Type	11129
+Post Type Selectors	17887,5,11
 Poultry Type Total Agricultural Holdings	17043
 Project Card Category Details Type	13395
 Project ESMF Type Responsible Party Development	1988
@@ -420,12 +428,14 @@ Scope System Type Nominal	7221
 Scope System Type Nominal Distinguishes	7221
 Scope System Type Nominal Indicates	7221
 Season and Livestock Type	17043
+Secteurs Type	18063
 Sector and Establishment Type	15085
 Sector and Establishment Type Region Formal Informal	15085
 Security Testing Schedule Test Type Frequenc	11952
 Seismic Source Type	11405
 Select the TRN Tax Type	11298
 Selection Duplex Type TDD TDD TDD	736
+Selon la Classification Internationale Type	17830
 Service Type	14151,3099
 Service Type Average Cost	15120
 Sex and Type of Offence	2775
@@ -480,6 +490,8 @@ TYPE DE LA D'INSECTICIDE	13300
 TYPE DE PARTIES PRENANTES Autorités	14425
 TYPE DE PARTIES PRENANTES Organismes	14425
 TYPE DE PARTIES PRENANTES PARTIES PRENANTES	14425
+TYPE DE SERVICE FRAIS DROITS D’ETUDE	17899
+TYPE DE SERVICE REDEVANCES Bamako	17899
 TYPE DE TOILETTES	13300
 TYPE D’ENTITE ENTITE	15936
 TYPE Erosion	17043
@@ -579,7 +591,7 @@ Tymebank’s US	12339
 Tymtrack Limited	6946
 TypIfBDNZbtD6gW8	15342
 Type Amount Disbursed	15731,705
-Type Amount Disbursed Key Revisions	11924
+Type Amount Disbursed Key Revisions	11924,6038
 Type Amount Drawn	13868
 Type Application Fee	17250
 Type Approval	718,6228,6003,1934,427,902,672
@@ -598,7 +610,10 @@ Type Approval of Electronic Communications Equipment	15261
 Type Approval. NCA	14883
 Type Billion Birr	5655
 Type C	13809
+Type CI-1 CI-2 Recommandation Créer	17856
 Type Code	12360
+Type DI-4 DI-5 Recommandation Accélérer	17856
+Type DI-6 DI-7 DI-8 Recommandation Réviser	17856
 Type Description Effectiveness	11855
 Type Ecosystem Subscriptions	12395
 Type Effectiveness Type Effectiveness Type Disbursement	15553
@@ -612,6 +627,8 @@ Type II Card	34
 Type IIA	16900
 Type III	16900
 Type IIIA	16900
+Type IS-1 IS-2 Recommandation Création	17856
+Type IS-3 IS-4 RE-1 RE-2 Recommandation	17856
 Type IV	9123,7777
 Type Indicative Lead Purpose Timeline	7548
 Type Information Incentives Investment Implementation	12376
@@ -625,8 +642,12 @@ Type Model Gain	736
 Type OF CEREALS	17043
 Type Of License Licensed	718
 Type Of Residence And County	16921
+Type PE	17856
 Type Perturbation	14488,1,1
 Type QR	10900
+Type RE-3 CE-1 Recommandation Sous-recommandations Actions	17856
+Type Recommandation CI-3 Une	17856
+Type Recommandation DI-1 Un Mali	17856
 Type Server	11133
 Type Sheetfed	34
 Type Standardized Precipitation Index Recommended	17157
@@ -641,6 +662,7 @@ Type and Nature	1988
 Type and Net Revenue Effect	13624
 Type and Objects of Company Rationale This Article	8866
 Type and Ownership	2775
+Type and Volume of Mobile Money Transactions	17870
 Type de DMD	13524
 Type de JORD	13835
 Type de Ménages	2624
@@ -727,6 +749,7 @@ Type-Approval-Fees-2021-1.pdf	14883
 Type-Approved-Equipment-List.php	8916
 Type-Approved-Equipment-List.php Buying	8916
 Type-approval	16810,74,366
+TypeORM	17902
 TypeScript	5513,6409,322
 TypeScript and Python	13272
 Types	582,136,529,691,686,4597,569,1616,682,788,99,29,135,55,30,293,439,8,415,81,575,36,228,1,81,37,651,355,64,1,48,273,86,23,104,106,211,89,44,1,18,82,21,127,52,134,28,108,3,504,1,84,78,137,155,37,71,2,33,339,26
@@ -765,7 +788,7 @@ Types of Sex-disaggregated Data Available Online	12389
 Types of TB	16971
 Typhoid	12729
 Typhoid Fever	16935
-Typical	5238,3885,2883,353,590,88,148,1489,323,167,176
+Typical	5238,3885,2883,353,590,88,148,1489,323,167,176,2530
 Typical Bills of Quantities Price Code	13385
 Typical Mediterranean Countries	17157
 Typical SaaS	16923,1
@@ -775,6 +798,8 @@ Typist	13251
 Typographic	8604
 Typologie	5740,3151,2084,969,2479,1006,113,366,28,423,267
 Typologie Coût Bâtiment	16047
+Typologie Région Uniper Couples	18014
+Typologie Urbain Sexe	18014
 Typologie des Ser-	10237
 Typologies	15164,744,1454
 Typologies Within	15164
@@ -789,6 +814,7 @@ Tyrell Sykes	2626
 Tyres	15027,1873
 Tyrolean	14746
 Tyukavina A	16463
+Tyéri DACKOUO	17882
 UNICEF Type	13732
 USED Crops Type of Inorganic	17043
 USED Crops Type of Organic	17043

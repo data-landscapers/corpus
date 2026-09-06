@@ -32,6 +32,7 @@ Case Example of Thailand	226
 Case Studies E.1 Global Implementation Examples	11952
 Category Examples Implementation Stage Preventive	17157
 Census Night. Examples	16921
+Centre National des Examens	17830
 Centred Example	15546
 Cervical Cancer Exam	15247
 Chartered Bankers Certification Examination	17235
@@ -61,8 +62,11 @@ ESI Example	17157
 EU AI Act. Examples	11135
 EX189-SEC Exagrid	11209
 EXA Express	1766
+EXACT	17941
 EXACT AGE	16892
 EXACT NUMBER OF DATA SUBJECTS WHOSE	2709
+EXACTITUDE ET FIABILITÉ Cette	17830
+EXACTITUDE ET FIABILITÉ Dans	17830
 EXAMINATION COUNCIL OF ESWATINI	12975
 EXAMINING HOW ORGANISATIONS MAINTAIN COMPLIANCE	1686
 EXAMPLE	11007,3427
@@ -91,7 +95,7 @@ ExaGrid and HPE The IDC	11209
 Exabeam	2824
 Exacciones Parafiscales	4209
 Exacerbating	14487,236,619
-Exact	379,25,241,5,35,732,724,87,6378,2240,2984,1126,1838
+Exact	379,25,241,5,35,732,724,87,6378,2240,2984,1126,1838,1093,5,11
 Exact CapEx	1174
 Exact KOICA	907
 Exact Omidyar	514
@@ -100,7 +104,7 @@ Exact Rockefeller	521
 Exact SIFEM	945
 Exactement	8848
 Exactitud	16875,23
-Exactitude	14437,100,2099
+Exactitude	14437,100,2099,1192,2,12,59,114
 Exactly	4641,207,2430,2769,1218
 Exactly the Block	1866
 Exactos	15385
@@ -111,15 +115,17 @@ Exam Processing System	13477
 Exame	549,2267,9959,2584,37
 Exame de Saúde Pós-Natal	10777
 Exame de Saúde Pós-natal	10777
-Examen	2377,1715,5420,1364,1106,1318,142,82,900,1,112,324,265,308,40,81,191,102,85,280,1235,86
+Examen	2377,1715,5420,1364,1106,1318,142,82,900,1,112,324,265,308,40,81,191,102,85,280,1235,86,310,55,79,84
 Examen Bienal-2023	16898
 Examen Bienal-2023sobre la Declaración de Malabo	16898
+Examen Commissaires	17899
 Examen Effectif	13300
 Examen Périodique Universel	10826,2912,56
 Examen Périodique Universel. Les Comores	13794
+Examen des Documents	17899
 Examen des Dossiers Programme Résultats	3396
 Examen du Rapport Périodique	10826
-Examens	15639,464,525
+Examens	15639,464,525,1202
 Examens Nationaux Volontaires	15968
 Exames	10777,4995
 Exames da Avaliação Externa	15772
@@ -165,8 +171,9 @@ Examining the Focus Areas	16861
 Examining the Job Creation and Workforce Potential of AI	7588
 Examining the Linkages Between Digitalisation	5349
 Examining the Mediating Role of ICT Regulatory Environment	5349
+Examinons	17856
 Examiné	8735,1,150,1075,3339,2984
-Example	21,878,344,535,2194,556,1216,409,270,243,2333,1765,277,88,62,727,76,308,36,1,21,14,18,120,963,1049,135,11,288,39,17,10,182,265,75,84,95,118,1,821,202,178,94,1,17,7,375
+Example	21,878,344,535,2194,556,1216,409,270,243,2333,1765,277,88,62,727,76,308,36,1,21,14,18,120,963,1049,135,11,288,39,17,10,182,265,75,84,95,118,1,821,202,178,94,1,17,7,375,386
 Example A County Public Service Board	14524
 Example Afya Nzuri National Hospital	14524
 Example Approach	17157
@@ -206,7 +213,7 @@ Example of Rural Addresses	11129
 Example of Rural Addressing	11129
 Example of Urban Addressing	11129
 Example. The Kenya Social Security Agency	14524
-Examples	21,375,36,1,149,379,9,39,252,553,14,160,901,762,210,265,484,15,347,468,158,67,35,453,386,54,121,874,162,1,532,153,563,124,1591,51,10,4,33,7,27,131,30,133,9,47,2,347,27,158,188,34,4,38,1,6,22,67,120,19,24,3,46,26,11,20,60,23,3,89,125,15,267,181,129,47,12,2,2,17,16,14,20,151,92,314,53,443,90,146,53,96,239,27,44,32,3,80,98,105,26,7,124,55,485,700,23,5,4,48,15,3,21,48,26,31,46,2,24,17,103
+Examples	21,375,36,1,149,379,9,39,252,553,14,160,901,762,210,265,484,15,347,468,158,67,35,453,386,54,121,874,162,1,532,153,563,124,1591,51,10,4,33,7,27,131,30,133,9,47,2,347,27,158,188,34,4,38,1,6,22,67,120,19,24,3,46,26,11,20,60,23,3,89,125,15,267,181,129,47,12,2,2,17,16,14,20,151,92,314,53,443,90,146,53,96,239,27,44,32,3,80,98,105,26,7,124,55,485,700,23,5,4,48,15,3,21,48,26,31,46,2,24,17,103,610,14
 Examples for Section	8530
 Examples of Bid	14778
 Examples of Data	14434
@@ -289,8 +296,10 @@ Left-aligned Example Urban	16919
 Level Description Examples Public	11952
 List of Examinations Conducted	14775
 MDAs. Exact	15553
+MGF Examiner	17978
 MOECHE Examination System	15202
 Malawi National Examinations Board	12175,1302
+Mali Examiner	18077
 Matches Exa	3098
 Mauritius Examination Syndicate	14836
 Mauritius Examinations Syndicate	14775,72
@@ -374,6 +383,7 @@ Sudanese Certificate Examinations	15166
 TAPE ACTION ENREGISTREMENT ET EXAMEN PRELIMINAIRE	14424
 TAX EXAMPLES PURPOSE Turnover Digital Market	14932
 TRI DE LA PLAINTE Examen	14424
+TUDES ET DES EXAMENS DE L’INSTITUT	17812
 Technical Description Example Profile Framework	1009
 Technical Examinations Unit	258
 Trade Mark Examiner	10358
@@ -382,6 +392,7 @@ USED INTERCHANGEABLY. FOR EXAMPLE	14816
 Vehicle Examination Centre	14753
 Vehicle Examination Station. With the Axle	14753
 Vehicle Examiner	14770
+Vu le Procès-Verbal des Examens	17812
 WAEC West African Examination Council	11860
 WAEC West African Examinations Council WAT	11952
 WMO. Examples	11553

@@ -171,7 +171,7 @@ Fibre Optic	6671
 Fibre Optic Cable and Landing Stations	2677
 Fibre Optic Rollout	9362
 Fibre Optic Subsea WACS Cable	8679
-Fibre Optique	3469,498,22,3631,5704,90,3227
+Fibre Optique	3469,498,22,3631,5704,90,3227,1182
 Fibre Optique Au Burundi	13324
 Fibre Optique Chiffre Mobile	13324
 Fibre Patch Panel	12681
@@ -231,6 +231,7 @@ GDP. Fiber-Optic Network Expansion	12035
 Gabon Fiber. Le Conseil	16381
 Gb and Fiber Initiative	15713
 Ghana. Fiber	3184
+Giga Ethernet Fibre	17823
 Glass Fiber Network	11529
 Government Fibre Network	14729
 Guinea and Sierra Leone Link National Fibre	3089
@@ -357,6 +358,7 @@ Rede Nacional de Backbone de Fibra	17093
 Rede Nacional de Fibra	11072
 Redundant Fibre Link Between the Lilongwe and Blantyre	12253
 Redundant Undersea Fiber Cable	17260
+Regional Fiber Infrastructure	18091
 Regional Fibre Connectivity Programme	12985
 Régulation des Télécommunications FTTH Fiber	16327
 SHARING OF FIBRE AND DUCT INFRASTRUCTURE	15081
@@ -384,6 +386,7 @@ Through the Last Mile Optic Fibre Connectivity	3524
 TowerCo and Fiberco Markets	14010
 Towers and Fibre Optic Installation Authorization	718
 Trans Kalahari Fibre	1013
+Trans-Sahara Optical Fibre Backbone Project	17940
 Trans-Saharan Fiber Backbone	15937
 Trans-Saharan Fiber Optic Backbone	2533
 Trans-Saharan Optic Fibre Broadband Project	14913

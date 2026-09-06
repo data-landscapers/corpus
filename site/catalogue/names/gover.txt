@@ -17,6 +17,7 @@ ACCESS TO GOVERNMENT SERVICES BY MAFUFIKILE	13223
 ACKNOWLEDGEMENTS The Government	12921,478
 ACTIONS THE CHALLENGE Government	14752
 ADMINISTRATION AND GOVERNANCE OF INSTITUTE Sub-Part	14824
+AF. The Government	17849
 AFRALTI Governing Council	6946
 AFRINIC Governance Committee	10079
 AFRINIC Governance Committee Published	10079
@@ -25,6 +26,7 @@ AGCIH Geneva Governance Series Africa	8628
 AGRICULTURAL DATA GOVERNANCE FRAMEWORK	14575
 AGRICULTURAL DATA GOVERNANCE FRAMEWORK Agricultural	14575
 AI Application for Healthcare The Government of Rwanda	4167
+AI Data Governance for AI	17884
 AI Ethics and Governance	11135
 AI Governance	1814,1002,838,472,402,55,151,568,887,78,175,161,189,94,47,27,78,5,29,26,7,7,24,25,8,5,25,110,11,228,30,10,90,179,256,30,158,327,1,135,497,26,499,103,321,241,270,374,53,6,1056,302,163,533,985,372,1,220,927,499,1559
 AI Governance Act	7547,7117
@@ -459,6 +461,7 @@ Body MALAWI. GOVERNMENT	12900
 Body The Government	13473,189
 Body The Government of Liberia	17021
 Body The Zambian Government	13488
+Bolster Governance	17909,81
 Bom Governo	15391
 Bond Award Governor’s Town Hall CBE	11134
 Border Governance	14511
@@ -512,6 +515,7 @@ Business Process Orchestration The Government Service	12359
 Business and Government-to-Citizen	14729
 Businesses and Government Agencies	10994
 Bybit. The Mauritius Internet Governance Forum	9658
+C Functioning of Government C1	17967
 C. Governance	17209,117
 C. Government	14853
 C. IT Governance and Coordination	16975
@@ -606,7 +610,7 @@ Cabo Verde. O Governo	15922
 Cabo Verdean Government and Diplomatic Community	15825,1555
 Cabo Verde’s USR. The Government of Cabo	11855
 Cadastre Portal Zimbabwe For Government	12511
-Cairo Alexandria Desert Road Giza Governorate	10764,80
+Cairo Alexandria Desert Road Giza Governorate	10764,80,7012
 Cairo Governorate	15473
 Call for Partnerships The Government	16966
 Calls for Stronger Corporate Cybersecurity Governance	5163
@@ -658,7 +662,7 @@ Central Government	11525,414,1017,14,152,129,69,100,54,211,1145,104,1,1228,781,2
 Central Government Debt	10759,153,3865
 Central Government GTMI	11867
 Central Government Institutions	14935
-Central Government Operations	13868
+Central Government Operations	13868,4041,81
 Central Government and Local Government	12606
 Central and Local Government	14858,77
 Central and Local Government Entities	14935
@@ -994,7 +998,7 @@ Data Governance Related Initiatives	5244
 Data Governance Related Initiatives Besides	5244
 Data Governance Risk	15034
 Data Governance Stakeholders	10720
-Data Governance Strategy	3861,10883,1187
+Data Governance Strategy	3861,10883,1187,1953
 Data Governance Strategy and Policy Development	3058
 Data Governance Structures	15034
 Data Governance Toolkit	8043,3396
@@ -1013,6 +1017,7 @@ Data Governance and Digital Public Infrastructure	6725
 Data Governance and Innovation for Sustainable Development	7242
 Data Governance and Management Maturity Model	15034
 Data Governance and Transparency	13080
+Data Governance for AI Objective	17884
 Data Governance. GoTG Institutions	16924
 Data Governance. Politico	11135
 Data Lifecycle Governance Regime	3861
@@ -1281,6 +1286,7 @@ Digital Marketplace No Government AI Digital	7548
 Digital Payment for Government	12214
 Digital Platform Governance	5349
 Digital Product Design for Government	12241,839,15
+Digital Public Platforms Development Government	17870
 Digital Public Services and Marketplace. The Government	12008
 Digital Regulation and AI Governance	4577
 Digital Service Standards for Government Services Guidelines	12674
@@ -1796,7 +1802,7 @@ Five-Year Government Program	4180
 Five-year Government's Plan	12832
 Fixed Broadband Subscriptions The Eswatini Government	12395
 Following Government	13123
-Following the Government	12500
+Following the Government	12500,5349
 Foreign Governments and International Organizations	13122
 Forest Governance Workshop	16853
 Forest Law Enforcement Governance and Trade	17019
@@ -1808,10 +1814,12 @@ Formation GFS Government Finance Statistics GFSM	14777
 Forum The Governor	6938
 Forum of The Mauritius Internet Governance Forum	14772
 Foster Governance and Compliance	11952
+Foundation Governance and Public Sector Capacity	17862
 Foundations Overall Governance	10968
 Frame Strengthen Governance	16996
 Framework de Governança de IA	11451
 Framework de Governação de IA Responsável da Organização	2816
+Framework for Government Intervention	17836
 Framework. Multistakeholder Governance for DPI	11006,1
 Framework. The U.S. Government	4153
 Frameworks for National AI Policy and Regulatory Governance	8710
@@ -2263,7 +2271,7 @@ Governamentais. I Série	15572
 Governamental	1192,14380
 Governamental Interoperability Framework	11371
 Governamental OMS	11387
-Governance	21,147,58,170,21,128,98,1,1,121,195,9,6,33,152,123,96,72,78,100,79,9,56,40,71,80,131,124,37,18,402,98,276,192,21,121,6,112,92,9,156,97,2,128,139,133,171,1,97,238,130,236,112,2,103,136,64,151,125,86,320,121,34,1,45,10,70,6,85,87,64,36,42,114,14,48,52,95,49,16,100,19,19,93,17,45,34,1,48,60,6,89,108,335,89,18,42,56,1,34,1,87,106,1,23,303,148,3,18,5,69,39,128,209,48,59,174,114,277,22,27,45,111,119,1,92,58,54,1,53,6,3,2,72,52,165,1,1,3,1,3,18,23,43,28,2,17,36,96,68,83,1,36,202,16,48,2,3,3,4,19,3,16,43,4,4,44,8,35,132,35,4,26,29,1,19,26,18,19,1,3,9,9,26,13,6,34,35,2,12,10,46,95,21,55,23,147,18,4,14,16,5,5,7,4,5,4,104,10,111,89,17,2,8,9,1,11,1,1,20,16,4,1,1,8,23,25,31,150,8,29,24,44,58,26,66,27,43,33,89,80,283,14,16,101,1,33,22,53,62,8,15,27,26,7,25,36,16,26,12,1,30,11,21,26,11,130,42,2,47,156,36,26,7,70,41,13,17,38,2,52,12,18,15,36,51,201,98,68,185,117,120,218,20,4,8,1,1,16,21,1,27,12,8,2,38,105,23,18,103,29,33,42,39,55,45,36,26,206
+Governance	21,147,58,170,21,128,98,1,1,121,195,9,6,33,152,123,96,72,78,100,79,9,56,40,71,80,131,124,37,18,402,98,276,192,21,121,6,112,92,9,156,97,2,128,139,133,171,1,97,238,130,236,112,2,103,136,64,151,125,86,320,121,34,1,45,10,70,6,85,87,64,36,42,114,14,48,52,95,49,16,100,19,19,93,17,45,34,1,48,60,6,89,108,335,89,18,42,56,1,34,1,87,106,1,23,303,148,3,18,5,69,39,128,209,48,59,174,114,277,22,27,45,111,119,1,92,58,54,1,53,6,3,2,72,52,165,1,1,3,1,3,18,23,43,28,2,17,36,96,68,83,1,36,202,16,48,2,3,3,4,19,3,16,43,4,4,44,8,35,132,35,4,26,29,1,19,26,18,19,1,3,9,9,26,13,6,34,35,2,12,10,46,95,21,55,23,147,18,4,14,16,5,5,7,4,5,4,104,10,111,89,17,2,8,9,1,11,1,1,20,16,4,1,1,8,23,25,31,150,8,29,24,44,58,26,66,27,43,33,89,80,283,14,16,101,1,33,22,53,62,8,15,27,26,7,25,36,16,26,12,1,30,11,21,26,11,130,42,2,47,156,36,26,7,70,41,13,17,38,2,52,12,18,15,36,51,201,98,68,185,117,120,218,20,4,8,1,1,16,21,1,27,12,8,2,38,105,23,18,103,29,33,42,39,55,45,36,26,206,98,121
 Governance AI	15713
 Governance Absence of Medium	16884
 Governance Academy	169,1649,657,3883,1000,1,4035,744,216,4585
@@ -2604,6 +2612,10 @@ Governação. Reconhece-se	11569
 Governaçãodos Serviços Digitais	8487
 Governed	1940,1745,1911,2853,2735,816,269,1,220
 Governed Acceleration	6442
+Governement	17824
+Governement Gouvernement Capital Humain Survey	17824
+Governement To Citizen	17824
+Governement du Mali	17824
 Governemnt Cloud	16924
 Governent Services Overview The Government Service	12359
 Governing	587,795,5130,91,1680,1116,278,873,456,854,2589,653,357,472
@@ -2650,7 +2662,7 @@ Governing the Services	16590
 Governm	4153,107
 Governmen	5352
 GovernmenT PrinTinG Works Will	11213
-Government	1,2,4,4,11,2,3,7,2,3,5,75,62,9,3,15,20,1,9,20,19,24,14,80,22,1,13,2,44,63,44,3,131,18,33,1,5,8,6,14,35,61,41,18,11,1,2,17,11,10,4,5,104,8,23,7,43,18,6,15,18,3,18,1,1,49,47,82,12,61,19,18,21,39,14,58,7,3,37,1,25,1,24,21,5,10,6,23,7,1,5,4,16,53,10,3,22,6,2,5,25,67,3,10,11,3,32,59,33,11,36,1,15,56,18,1,8,26,110,10,41,137,5,8,48,4,40,69,1,31,14,55,16,30,16,7,30,29,68,30,21,9,19,10,1,13,61,20,9,5,4,18,2,30,8,11,37,6,14,49,10,6,5,1,3,11,6,27,1,5,41,36,2,5,20,37,83,21,5,82,3,14,4,48,11,29,19,4,1,24,11,13,3,1,10,3,18,17,12,1,2,18,12,13,41,1,34,4,5,4,43,133,3,8,8,10,4,51,27,6,11,7,12,5,1,18,1,4,55,12,5,5,9,6,72,16,51,22,52,9,18,39,37,12,13,14,16,8,1,2,33,7,7,20,2,1,2,4,17,34,10,16,12,9,3,55,37,12,64,2,11,7,11,3,12,17,14,1,8,3,11,48,19,13,11,60,3,13,6,1,28,3,7,19,21,31,16,56,55,2,34,22,11,6,5,5,6,12,20,23,6,16,4,3,6,1,1,19,7,3,14,17,15,60,44,17,23,10,46,3,1,1,14,4,7,9,12,14,23,1,26,19,43,24,32,13,14,5,23,11,24,10,11,2,4,47,36,1,14,10,3,13,10,25,17,16,5,4,4,23,74,31,33,1,1,16,5,17,34,29,57,1,8,6,33,10,4,6,11,9,1,85,10,8,1,4,5,6,9,21,15,28,14,28,8,7,8,24,5,4,8,4,5,3,18,1,3,47,2,6,1,4,16,13,4,17,5,21,42,10,14,20,18,7,95,39,44,6,5,14,10,1,26,8,4,10,2,67,4,2,24,6,59,22,1,56,11,1,13,13,20,4,1,3,6,30,14,17,35,18,7,12,1,22,2,12,8,75,22,12,38,16,8,18,4,1,23,7,11,8,11,2,4,29,1,5,14,12,19,1,18,23,39,5,4,18,4,14,8,29,1,14,5,2,10,47,23,1,3,1,2,15,7,2,1,15,13,3,5,65,1,1,47,8,17,3,1,1,31,17,24,13,31,7,34,8,12,13,21,16,9,32,33,8,29,12,29,25,8,3,28,8,3,35,6,47,5,6,1,10,1,26,14,1,4,20,46,19,7,4,3,6,11,9,11,13,20,28,14,28,7,3,3,30,6,22,4,8,23,26,13,32,21,97,17,3,7,1,3,2,4,8,19,10,7,11,1,3,12,5,5,4,17,3,11,59,4,1,4,1,5,2,3,11,13,1,1,16,6,68,33,2,2,1,2,18,2,15,8,1,3,1,1,3,5,3,3,17,4,10,5,2,11,5,3,11,4,1,2,3,4,3,1,4,1,42,34,5,23,1,1,1,4,16,47,5,7,48,1,20,5,2,1,26,7,15,10,18,10,16,12,37,16,37,16,5,13,63,1,2,2,1,1,2,3,1,17,1,5,4,1,5,5,1,10,2,4,1,1,3,1,7,3,2,4,12,9,6,5,10,5,2,1,1,2,7,4,17,26,1,14,5,13,1,9,1,34,2,5,1,1,2,1,1,2,1,1,5,8,1,11,4,1,6,2,2,2,4,1,8,4,5,4,3,3,7,5,8,1,5,7,4,23,6,11,2,10,5,7,4,2,1,2,3,2,2,14,3,1,1,2,1,1,4,9,2,1,7,1,8,2,1,4,10,1,5,1,3,3,1,3,5,3,1,9,1,4,4,3,1,2,4,1,3,14,6,13,1,5,6,2,12,1,2,1,3,2,1,3,7,2,6,2,2,4,4,1,9,1,3,8,1,1,7,1,2,2,2,2,14,3,1,1,1,3,5,5,1,4,1,1,1,1,11,1,1,1,1,5,6,1,5,13,7,1,1,4,11,12,5,16,9,2,18,25,2,26,7,4,44,2,2,1,2,2,1,1,2,1,1,1,1,2,1,2,3,4,1,1,3,1,1,5,2,2,4,3,5,1,1,8,1,1,5,1,2,4,2,1,1,5,4,1,5,3,8,3,4,1,1,17,3,4,2,4,3,2,2,4,1,4,1,1,1,2,1,1,4,11,5,13,2,1,1,11,6,2,2,4,1,1,1,2,5,1,8,14,1,10,5,3,3,8,7,1,1,10,3,11,2,3,3,10,5,5,3,3,29,6,1,6,1,10,3,2,1,1,2,3,1,2,1,1,4,2,3,1,3,1,7,1,1,1,1,5,6,1,19,4,2,1,1,1,2,2,1,17,3,6,2,1,13,1,1,3,2,3,4,7,3,3,9,2,1,1,1,2,7,3,6,9,2,5,1,2,9,2,4,1,4,1,10,2,17,13,1,4,11,5,5,6,18,11,3,7,8,7,1,2,1,8,6,6,14,4,28,21,21,3,31,1,53,7,43,27,6,4,2,2,5,3,4,8,5,6,4,2,1,1,17,2,4,7,2,1,7,42,7,16,8,12,9,10,14,1,1,37,5,14,9,35,2,2,3,9,5,23,28,5,12,3,2,13,4,8,10,18,1,8,2,1,12,6,13,14,5,16,8,9,14,17,1,21,9,6,4,1,1,9,18,8,13,25,5,9,19,1,39,4,2,1,2,1,2,1,1,1,1,1,5,1,2,3,1,1,1,1,1,1,1,1,1,1,1,1,7,1,2,3,1,3,1,2,1,3,1,1,7,4,3,4,12,2,8,4,1,2,2,1,1,1,4,3,3,1,1,1,1,2,6,5,3,1,1,8,2,1,2,1,2,9,3,5,1,10,14,1,1,9,3,5,7,18,1,4,15,1,10,1,3,4,3,12,4,11,15,9,8,13,8,3,12,11,13,1,11,10,1,15,17,10,17,1,5,6,4,23,12,1,70,42,21,6,12,13,6,17,10,2,1,2,11,5,2,11,9,11,2,1,4,1,21,10,3,13,8,27,3,15,2,7,31,2,2,7,9,23,2,9,3,9,33,32,12,21,37,2,8,54,7,38,8,6,49,1,46,65,43,1,18,6,7,34,8,5,9,18,91,52,38,6,13,18,36,33,16,18,24,11,5,40,11,11,3,62,8,6,37,1,2,4,1,1,2,5,2,1,1,1,5,2,1,2,4,5,2,2,7,1,1,1,1,9,6,6,7,1,5,1,1,1,2,1,8,4,3,1,1,3,2,1,1,7,2,1,2,3,1,1,2,1,1,1,2,3,4,1,2,11,15,5,2,7,23,31,13,4,5,3,1,3,2,4,2,3,5,3,11,1,1,9,8,2,10,47,12,6,1,1,11,3,8,2,8,21,3,4,8,7,3,2,1,11,6,13,20,9,3,12,3,27,20,7,10,12,77,6,18,8,28,12,39,10,44,6,18,3,7,23,4,7,6,2,1
+Government	1,2,4,4,11,2,3,7,2,3,5,75,62,9,3,15,20,1,9,20,19,24,14,80,22,1,13,2,44,63,44,3,131,18,33,1,5,8,6,14,35,61,41,18,11,1,2,17,11,10,4,5,104,8,23,7,43,18,6,15,18,3,18,1,1,49,47,82,12,61,19,18,21,39,14,58,7,3,37,1,25,1,24,21,5,10,6,23,7,1,5,4,16,53,10,3,22,6,2,5,25,67,3,10,11,3,32,59,33,11,36,1,15,56,18,1,8,26,110,10,41,137,5,8,48,4,40,69,1,31,14,55,16,30,16,7,30,29,68,30,21,9,19,10,1,13,61,20,9,5,4,18,2,30,8,11,37,6,14,49,10,6,5,1,3,11,6,27,1,5,41,36,2,5,20,37,83,21,5,82,3,14,4,48,11,29,19,4,1,24,11,13,3,1,10,3,18,17,12,1,2,18,12,13,41,1,34,4,5,4,43,133,3,8,8,10,4,51,27,6,11,7,12,5,1,18,1,4,55,12,5,5,9,6,72,16,51,22,52,9,18,39,37,12,13,14,16,8,1,2,33,7,7,20,2,1,2,4,17,34,10,16,12,9,3,55,37,12,64,2,11,7,11,3,12,17,14,1,8,3,11,48,19,13,11,60,3,13,6,1,28,3,7,19,21,31,16,56,55,2,34,22,11,6,5,5,6,12,20,23,6,16,4,3,6,1,1,19,7,3,14,17,15,60,44,17,23,10,46,3,1,1,14,4,7,9,12,14,23,1,26,19,43,24,32,13,14,5,23,11,24,10,11,2,4,47,36,1,14,10,3,13,10,25,17,16,5,4,4,23,74,31,33,1,1,16,5,17,34,29,57,1,8,6,33,10,4,6,11,9,1,85,10,8,1,4,5,6,9,21,15,28,14,28,8,7,8,24,5,4,8,4,5,3,18,1,3,47,2,6,1,4,16,13,4,17,5,21,42,10,14,20,18,7,95,39,44,6,5,14,10,1,26,8,4,10,2,67,4,2,24,6,59,22,1,56,11,1,13,13,20,4,1,3,6,30,14,17,35,18,7,12,1,22,2,12,8,75,22,12,38,16,8,18,4,1,23,7,11,8,11,2,4,29,1,5,14,12,19,1,18,23,39,5,4,18,4,14,8,29,1,14,5,2,10,47,23,1,3,1,2,15,7,2,1,15,13,3,5,65,1,1,47,8,17,3,1,1,31,17,24,13,31,7,34,8,12,13,21,16,9,32,33,8,29,12,29,25,8,3,28,8,3,35,6,47,5,6,1,10,1,26,14,1,4,20,46,19,7,4,3,6,11,9,11,13,20,28,14,28,7,3,3,30,6,22,4,8,23,26,13,32,21,97,17,3,7,1,3,2,4,8,19,10,7,11,1,3,12,5,5,4,17,3,11,59,4,1,4,1,5,2,3,11,13,1,1,16,6,68,33,2,2,1,2,18,2,15,8,1,3,1,1,3,5,3,3,17,4,10,5,2,11,5,3,11,4,1,2,3,4,3,1,4,1,42,34,5,23,1,1,1,4,16,47,5,7,48,1,20,5,2,1,26,7,15,10,18,10,16,12,37,16,37,16,5,13,63,1,2,2,1,1,2,3,1,17,1,5,4,1,5,5,1,10,2,4,1,1,3,1,7,3,2,4,12,9,6,5,10,5,2,1,1,2,7,4,17,26,1,14,5,13,1,9,1,34,2,5,1,1,2,1,1,2,1,1,5,8,1,11,4,1,6,2,2,2,4,1,8,4,5,4,3,3,7,5,8,1,5,7,4,23,6,11,2,10,5,7,4,2,1,2,3,2,2,14,3,1,1,2,1,1,4,9,2,1,7,1,8,2,1,4,10,1,5,1,3,3,1,3,5,3,1,9,1,4,4,3,1,2,4,1,3,14,6,13,1,5,6,2,12,1,2,1,3,2,1,3,7,2,6,2,2,4,4,1,9,1,3,8,1,1,7,1,2,2,2,2,14,3,1,1,1,3,5,5,1,4,1,1,1,1,11,1,1,1,1,5,6,1,5,13,7,1,1,4,11,12,5,16,9,2,18,25,2,26,7,4,44,2,2,1,2,2,1,1,2,1,1,1,1,2,1,2,3,4,1,1,3,1,1,5,2,2,4,3,5,1,1,8,1,1,5,1,2,4,2,1,1,5,4,1,5,3,8,3,4,1,1,17,3,4,2,4,3,2,2,4,1,4,1,1,1,2,1,1,4,11,5,13,2,1,1,11,6,2,2,4,1,1,1,2,5,1,8,14,1,10,5,3,3,8,7,1,1,10,3,11,2,3,3,10,5,5,3,3,29,6,1,6,1,10,3,2,1,1,2,3,1,2,1,1,4,2,3,1,3,1,7,1,1,1,1,5,6,1,19,4,2,1,1,1,2,2,1,17,3,6,2,1,13,1,1,3,2,3,4,7,3,3,9,2,1,1,1,2,7,3,6,9,2,5,1,2,9,2,4,1,4,1,10,2,17,13,1,4,11,5,5,6,18,11,3,7,8,7,1,2,1,8,6,6,14,4,28,21,21,3,31,1,53,7,43,27,6,4,2,2,5,3,4,8,5,6,4,2,1,1,17,2,4,7,2,1,7,42,7,16,8,12,9,10,14,1,1,37,5,14,9,35,2,2,3,9,5,23,28,5,12,3,2,13,4,8,10,18,1,8,2,1,12,6,13,14,5,16,8,9,14,17,1,21,9,6,4,1,1,9,18,8,13,25,5,9,19,1,39,4,2,1,2,1,2,1,1,1,1,1,5,1,2,3,1,1,1,1,1,1,1,1,1,1,1,1,7,1,2,3,1,3,1,2,1,3,1,1,7,4,3,4,12,2,8,4,1,2,2,1,1,1,4,3,3,1,1,1,1,2,6,5,3,1,1,8,2,1,2,1,2,9,3,5,1,10,14,1,1,9,3,5,7,18,1,4,15,1,10,1,3,4,3,12,4,11,15,9,8,13,8,3,12,11,13,1,11,10,1,15,17,10,17,1,5,6,4,23,12,1,70,42,21,6,12,13,6,17,10,2,1,2,11,5,2,11,9,11,2,1,4,1,21,10,3,13,8,27,3,15,2,7,31,2,2,7,9,23,2,9,3,9,33,32,12,21,37,2,8,54,7,38,8,6,49,1,46,65,43,1,18,6,7,34,8,5,9,18,91,52,38,6,13,18,36,33,16,18,24,11,5,40,11,11,3,62,8,6,37,1,2,4,1,1,2,5,2,1,1,1,5,2,1,2,4,5,2,2,7,1,1,1,1,9,6,6,7,1,5,1,1,1,2,1,8,4,3,1,1,3,2,1,1,7,2,1,2,3,1,1,2,1,1,1,2,3,4,1,2,11,15,5,2,7,23,31,13,4,5,3,1,3,2,4,2,3,5,3,11,1,1,9,8,2,10,47,12,6,1,1,11,3,8,2,8,21,3,4,8,7,3,2,1,11,6,13,20,9,3,12,3,27,20,7,10,12,77,6,18,8,28,12,39,10,44,6,18,3,7,23,4,7,6,2,1,60,13,7,1,14,9,41,16,12,8,36
 Government A5 Consolidate	12917
 Government AI	7548
 Government AI Adoption Code	7548
@@ -2670,7 +2682,7 @@ Government Accounts	13685
 Government Act	798,6750,5964
 Government Act No	12453,892,2
 Government Action Fair	6606
-Government Action Plan	10775,4740
+Government Action Plan	10775,4740,2378
 Government Action Programme	10856
 Government Actions	16885
 Government Activities	15372,1513
@@ -2725,6 +2737,7 @@ Government Authority Environment	7548
 Government Authority. A BLUEPRINT FOR CREATING	11133
 Government Authority. The Bank	4752
 Government Avenue	11224
+Government Back-Office Systems	17870
 Government Backs Offshoring Expansion Egyptian Prime	11162
 Government Beneficiaries	16884
 Government Blockchain Academy	9170
@@ -2875,8 +2888,9 @@ Government Dept	736,12181
 Government Develop	12453
 Government Development	10852,1601,892
 Government Development Financing	11356
-Government Development Index	2383,146,171,91,13,800,6296,885,67,1015,586,206,655,31,462,1,921,21,871,1264
+Government Development Index	2383,146,171,91,13,800,6296,885,67,1015,586,206,655,31,462,1,921,21,871,1264,985
 Government Development Index Average	15447
+Government Development Index EMI Electronic Money	17870
 Government Development Index FCV Fragility	11545
 Government Development Index GBV Gender-Based Violence	13731
 Government Development Index Gross Domestic Product	15480
@@ -3252,12 +3266,14 @@ Government Portal’s SharePoint	14790
 Government Presents Budget Framework Centered	14873
 Government Press and Nairobi City County	3983
 Government Primary	11857
+Government Primer	17836
 Government Print	12253
 Government Printer	22,714,236,37,214,654,832,3912,300,2838,1437,17,360,474,442,73,757,2,1,28,53,34,33,26,2,3,76,29,53
 Government Printer. Republic of Zambia	12467
 Government Printer. Samsor	12467
 Government Printing	12668,2162
 Government Printing Department	410,373,10801,3137,27,61,12,26
+Government Printing House	17934
 Government Printing Works	2681,11,2841,663,5022,768,61
 Government Printing Works HRM&D Human Resource	11218
 Government Printing Works. Over	11949
@@ -3418,7 +3434,7 @@ Government Support	5247,7428,799,524
 Government Support Agreement	14267,563,993
 Government Support Please	5247
 Government Support Systems	14674
-Government Survey	12777
+Government Survey	12777,5047
 Government System	13387
 Government Systems	5665,6695,228
 Government Systems Automation	958
@@ -3432,6 +3448,7 @@ Government Technical Advisory Centre	5323,5925
 Government Technical Staff Lilongwe Weeks	13185
 Government Technology	14819
 Government Technology Unit	2779,141
+Government Telecommunications Network	17870
 Government The Digital Readiness Assessment	12214
 Government The Economic Recovery and Growth	11854
 Government Town Hall Initiative	17320
@@ -3620,10 +3637,11 @@ Government of Ghana’s Ministry of Finance	358
 Government of Guinea	2159,1800,12655,8,27,5,65,11
 Government of Guinea-Bissau	1264,80,901,3842,1615,3823,20,7,27,7,5442,253,50,38
 Government of His Excellency	10818
-Government of India	2667,1909,6559,132,312,989,49,362,530,53,229,962,52,25,135,391,28,73,799,393,585,6
+Government of India	2667,1909,6559,132,312,989,49,362,530,53,229,962,52,25,135,391,28,73,799,393,585,6,776
 Government of India Cashew	11579
 Government of India Development Partnership LOC Projects	16285
 Government of India Development Partnership Lines of Credit	17241
+Government of India India	18016
 Government of India and Department of Commerce	9749
 Government of India and We-Fi	5921
 Government of India's Duty Free Tariff Preference	13029
@@ -3713,10 +3731,12 @@ Government of Malawi. Republic of South Africa	12240
 Government of Malawi. The MRA	13053
 Government of Malawi. Through	13214
 Government of Malaŵi	12987
-Government of Mali	11186
+Government of Mali	11186,6684,36,56,36,18
 Government of Mali and China Eximbank	319
+Government of Mali. Grant	18016
 Government of Mali. Slug	11187
-Government of Mauritania	619,645
+Government of Mauritania	619,645,16598,109
+Government of Mauritania GoT Government of Togo GRM	17862
 Government of Mauritania and US	1264
 Government of Mauritius	259,59,1083,413,1742,4289,3487,3234,148,1,1,3,2,2,1,1,1,1,1,1,1,10,2,3,3,2,9,2,5,3,5,3,9,18,2,2,1,3,2,4,1,2,7,1,1,1,12,2,2,149
 Government of Mauritius Bond	14828,3
@@ -4058,6 +4078,7 @@ Government. Yet	10651
 Government... Algerian	5951
 Government3	2775
 Government3 County	2775
+Government3 Other CAPACITY PERFORMANCE EQUITY Governance	17869
 GovernmentLeadership	13145
 GovernmentOfEswatini	13213
 GovernmentServices	12381
@@ -4075,7 +4096,7 @@ Governmental Organizations	11905,770
 Governmental Portal	15518
 Governmental and Civil Society Organisations	11857
 Governmentimplementationplans	8301
-Governments	432,1,216,212,100,45,244,113,451,279,366,131,87,98,204,38,415,190,188,355,52,42,304,20,42,49,2,131,99,58,69,51,50,237,92,45,43,47,57,20,25,122,70,164,130,26,20,107,32,14,127,4,15,12,50,10,87,144,114,49,105,15,70,306,52,3,100,219,9,174,191,34,66,156,157,100,33,82,35,32,9,161,13,1,35,461,102,41,73,159,24,13,307,4,216,65,31,63,13,48,10,9,4,42,1,7,129,14,13,1,1,1,36,28,34,30,2,3,14,2,29,114,57,149,67,282,3,3,34,26,44,30,194,26,119,2,25,6,19,10,58,219,276,61,33,143,127,2,6,25,1,36,13,266,20,412,276,40,25,187,53,55,16,5,40,107,35,2,31,407,106,2,234,225,21,560,267,1,73,6,9,8,1,30,8,1,3,15,8,68,87,9,43,166,1,299,113,12,42
+Governments	432,1,216,212,100,45,244,113,451,279,366,131,87,98,204,38,415,190,188,355,52,42,304,20,42,49,2,131,99,58,69,51,50,237,92,45,43,47,57,20,25,122,70,164,130,26,20,107,32,14,127,4,15,12,50,10,87,144,114,49,105,15,70,306,52,3,100,219,9,174,191,34,66,156,157,100,33,82,35,32,9,161,13,1,35,461,102,41,73,159,24,13,307,4,216,65,31,63,13,48,10,9,4,42,1,7,129,14,13,1,1,1,36,28,34,30,2,3,14,2,29,114,57,149,67,282,3,3,34,26,44,30,194,26,119,2,25,6,19,10,58,219,276,61,33,143,127,2,6,25,1,36,13,266,20,412,276,40,25,187,53,55,16,5,40,107,35,2,31,407,106,2,234,225,21,560,267,1,73,6,9,8,1,30,8,1,3,15,8,68,87,9,43,166,1,299,113,12,42,80
 Governments A- Minimum Domestic Hosting Year	7548
 Governments All	13312
 Governments B-AI	7548
@@ -4136,6 +4157,7 @@ Government’s PBF	10829
 Government’s PRSP	11525
 Government’s PSNP. Page	11525
 Government’s Page	15663
+Government’s Poverty Reduction Strategy	17849
 Government’s Prime Minister	16942
 Government’s Social Cash Transfer	8513
 Government’s Social Protection	16867
@@ -4240,7 +4262,7 @@ Governo. Preocupação	15359
 Governo. Resultou	8179
 Governo. Sistema de Registo Civil	12862
 Governo. Também	11963
-Governor	587,353,59,1277,11,108,2,53,87,304,16,726,96,216,62,84,62,193,105,127,315,30,42,491,126,304,173,88,34,122,68,55,18,303,90,31,120,1,402,194,60,64,47,96,13,8,22,85,4,33,38,124,121,590,206,398,482,126,134,43,179,54,263,404,2,3,155,410,122,95,52,8,265,51,72,1,9,26,34,13,65,340,110,5,77,41,121,326,310,202,99,175,426,54,31,51,117,26,79,1395,93,609,36,30,82,31,290,76,1
+Governor	587,353,59,1277,11,108,2,53,87,304,16,726,96,216,62,84,62,193,105,127,315,30,42,491,126,304,173,88,34,122,68,55,18,303,90,31,120,1,402,194,60,64,47,96,13,8,22,85,4,33,38,124,121,590,206,398,482,126,134,43,179,54,263,404,2,3,155,410,122,95,52,8,265,51,72,1,9,26,34,13,65,340,110,5,77,41,121,326,310,202,99,175,426,54,31,51,117,26,79,1395,93,609,36,30,82,31,290,76,1,164,81
 Governor Abdirahman Mohamed Abdullahi	7930
 Governor Abdullah	7536
 Governor Ademola Adeleke	10725
@@ -4645,6 +4667,7 @@ Inclusive and Participatory Governance Enhances Outcomes	11285
 Inclusive and Sustainable Land Governance URL	13896
 Inclusivity. The AI Governance Framework	16212
 Income GoL Government of Liberia GSMA Global	16876
+Income GoM Government of Mali GSMA GSM	17870
 Increase Government Efficiency	14965
 Incubators Government Agencies Foundations Asset Managers	4972
 Independent Government Institute Implementing Agency Country	4653
@@ -4818,6 +4841,7 @@ Journal of Public Policy& Governance	13418
 Judicial Review of Data Governance Decisions	3861
 Jul Political and Governance	16079
 July-25 Ministry of Local Government	14746
+Jun Political and Governance	17958
 June. Centre for International Governance Innovation	15342
 Junior Minister of Local Government	14746
 Justice The Government	14847
@@ -5113,6 +5137,7 @@ Ltd. The Chinese Government	343,18
 Luanda Provincial Government	10775,1
 Lucrezia Vittori The Government of Ethiopia	12173
 Luxor Governorate	15473
+M Government	17962
 M Government Environment	7548
 M-60M Government Authority	7548
 M-70M Government LEAD	7548
@@ -5177,6 +5202,8 @@ Malawi's Overall Governance	12153
 Malawi. Government Tier III	14674
 Malawi. The Government of Malawi	12176
 Malawian Government	12144
+Mali Digital Economy Diagnostic The Government	17870
+Malian Government	17950
 Management Governance	14565
 Management and Governance	13953
 Management for Government Proj A Service Desk	15476
@@ -5338,6 +5365,7 @@ Modernizing Government for Better Service Delivery UNDP	8861
 Moldova Governance	13331
 Moldova’s Modernizing Government Services	15518
 Mombasa County Government	9436
+Mon Argent Malian Government	17950
 Monetary Policy Decisions The Governor	11131,3
 Monetary Policy The Governor	11131,3
 Monitoring Markets and Banking Operations ICT Governance	15023
@@ -5690,7 +5718,8 @@ Open Government Data Index	11379,190,884,892,661,891,1744
 Open Government Data Platform	4098
 Open Government Data Review of Mexico	17448
 Open Government Data Review of Poland	17448
-Open Government Declaration	12932,4105
+Open Government Declaration	12932,4105,842
+Open Government Declaration' Quick Win	17860
 Open Government Information	15641
 Open Government Information Each State Party	15641
 Open Government Initiative	16872
@@ -5747,6 +5776,7 @@ Osun State Governorship Election	10049,676
 Others CF F A RFG Governance	15845
 Outlook WGI Worldwide Governance Indicators	11271
 Outside Government Control	11924
+Outside the Camp Government	17971
 Overall Governance	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Overall Governance African	10759,1395
 Overall Governance Benin’s Overall Governance	10835
@@ -5900,6 +5930,7 @@ Plataforma Eletrónica de Contratação Pública O Governo	5462
 Plataforma Governamental de Análise de Dados DSP9 Não	15532
 Plataforma de Interoperabilidade de Governo Electrónico	12774
 Plateau State Governor	8424
+Plateforme Nationale Open Data Open Government	17860
 Platform Governance	5349,4468
 Platform Governance and Civil Society Organisations	11028
 Platform Governance and Digital Rights Discussions	12104
@@ -5929,7 +5960,7 @@ Policy-Driven Electronic Governance	10840
 Policy. The Federal Government	10157
 Political Economy of Digital Governance	6562
 Political Party Governance and Internal Democracy Beyond	16574
-Political and Governance	969,898,845,892,1084,1851,4229,61,41,94,453,108,35,295,110,211,264,618,273,1,588,990,27,39,55,487,35,68,37,486,254,307
+Political and Governance	969,898,845,892,1084,1851,4229,61,41,94,453,108,35,295,110,211,264,618,273,1,588,990,27,39,55,487,35,68,37,486,254,307,1199
 Political and Governance High	15190
 Political and Governance Moderate B. Overall Risk	15411
 Political and Governance Substantial	11380,525,3756
@@ -5994,6 +6025,7 @@ Priorities for Governments	7648
 Prioritize Heritage and Iconic Government Buildings	17260
 Priority Use Cases The Kenyan Government	12210
 Privacy Concerns Government	16923
+Private Government Cloud	17870
 Procurement Government	14752
 Procurement and Marketplace Framework The Federal Government	10157
 Procurement and Vendor Governance	6442
@@ -6042,7 +6074,7 @@ Proposed Governance	14819
 Proposed Governance Framework	6442
 Proposed Governance Model	11007
 Proposed Governance Model. Multistakeholder Governance	11007
-Proposed Rating Political and Governance	6579,349,949,4111,2992,179,578,276,987,96,374
+Proposed Rating Political and Governance	6579,349,949,4111,2992,179,578,276,987,96,374,536
 Proposed Rating Political and Governance High High	15735
 Proposed Rating Political and Governance Moderate Moderate	13027
 Prospects for Global AI Governance. In M	11135
@@ -6398,7 +6430,7 @@ STRENGTHEN MECHANISMS FOR RELIABLE LOCAL GOVERNMENT	14935
 STRENGTHENING SOE GOVERNANCE Approximately	1810
 STRONG COUNTRY-LED GOVERNANCE OF DATA National	16892
 STRONG TELCO AND CARRIER-NEUTRAL GOVERNMENT PRESENCE	10861
-SUMMARY OF GOVERNMENT ICR	16952
+SUMMARY OF GOVERNMENT ICR	16952,897
 SUMÁRIO EXECUTIVO O Governo de Angola	11406
 SUPREME DATA GOVERNANCE AUTHORITY	3861
 SWAZILAND GOVERNMENT GAZETTE EXTRAORDINARY VOL. LVI	12916
@@ -6587,6 +6619,7 @@ State Government	2552,9424
 State Government Coordinators	17157
 State Government Dr Emmanuel Meribeole	5072
 State Government Prince Enobong Uwah	10229
+State Government of Haryana	18016
 State Governments	3862,439,5856,972,339,389,97,22,5,164
 State Governments and FCTA	11857
 State Governments of Somalia	15014
@@ -6659,6 +6692,7 @@ Strengthening Kenya’s Digital Governance Architecture A	17745
 Strengthening Local Government Capacity	11285
 Strengthening UHIS Governance	16079
 Strengthening the Data Governance and Sharing Framework Bill	1476
+Strengthening the Governance and Resilience	17958
 Strengthening the Government	3604
 Strengthening the Institutional and Governance Framework	17448
 Strong Coordination and Governance	17065
@@ -6772,6 +6806,7 @@ Tool for Stronger Governance	15298
 Topics Pillar Governance Infrastructure Platform Financial	15480
 Track and Analyze Federal Government Spending Over	11866
 Trade Fair The Governor	11134
+Training of UJUEMOA Councilors and Governors	17962
 Training the Governors	5302
 TranscriptsBudgetEvents Government Level- Any	11215
 Transform Health. Health Data Governance Legislative	1364

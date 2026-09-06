@@ -37,6 +37,7 @@ Advanced and Emerging Technologies	17116
 Advanced and Emerging Technologies Adoption	17116
 Africa. CEO Emewulu	4292
 African Public Health Emergency Fund	15966
+Alert Agency CERC Contingent Emergency Response	17962
 Analysis CERC Contingent Emergency Response Component	16922
 Angola Angola Health Emergency Preparedness	11417
 Angola Health Emergency Preparedness	11417
@@ -88,6 +89,7 @@ CERT Computer Emergency Response Team HRMIS	14897
 CERT Malawi Computer Emergency Response Team	12240
 CERT National Health Cybersecurity Emergency Response	12240
 CFE Contingency Fund for Emergencies CID11	15966
+CNOU National Center for Emergency Operations CREDD	17962
 COMPONENTS Name Emergency	16013
 COMPUTER EMERGENCY RESPONSE TEAM	14879
 COMPUTER EMERGENCY RESPONSE TEAM OF MAURITIUS	783
@@ -121,6 +123,7 @@ Co-Head of Emerging Market Alternative Credit	9061
 Combat Emerging Cybercriminal Threats	6426
 Commission Nationale. Emet	547,3,18,20
 Communications and Technology and Google Cloud EMEA Ltd	5799
+Communities Project Management Contingent Emergency Response	17962
 Community CERC Contingency Emergency Response Component	969
 Complex Emergencies. Shabaka Working Paper. Accessed	6947
 Component CONASUR National Council for Emergency Relief	16384
@@ -137,7 +140,9 @@ Computer Emergency Readiness Team CIO	14879
 Computer Emergency Readiness and Response Team	7630,1488
 Computer Emergency Response	783
 Computer Emergency Response Team	587,2750,1273,240,394,1692,2534,1349,3031,340,240,449,576,63,125,1229,103,53
+Computer Emergency Response Team CHU	17824
 Computer Emergency Response Team CIO	16975
+Computer Emergency Response Team CMU CPF	17862
 Computer Emergency Response Team D4WEE	5244
 Computer Emergency Response Team SOC Security	1000
 Computer Emergency Response Team of Mauritius	783,14046
@@ -155,15 +160,15 @@ Contingency Emergency Response Component. Following	14576
 Contingency Emergency Response Part	16936
 Contingency Fund for Emergencies	15966
 Contingent Emergency	1284
-Contingent Emergency Response	1284,3369,2275,4489,554,204,1156,1125,97,357,608,184,442,292
-Contingent Emergency Response Component	761,235,232,36,20,300,283,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61,990,2,226,353,27,35,66,2,37,1,2,82,39,187,14,96,65,43,197,52,460,26,4,68,6,96,3,15
+Contingent Emergency Response	1284,3369,2275,4489,554,204,1156,1125,97,357,608,184,442,292,1522
+Contingent Emergency Response Component	761,235,232,36,20,300,283,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61,990,2,226,353,27,35,66,2,37,1,2,82,39,187,14,96,65,43,197,52,460,26,4,68,6,96,3,15,848
 Contingent Emergency Response Component CERC Country	11417
 Contingent Emergency Response Component CERC Steering	1228
 Contingent Emergency Response Component CPF Comité	10964
 Contingent Emergency Response Component CPF Country	10768
 Contingent Emergency Response Component Community Multimedia	4653
 Contingent Emergency Response Component Indicator Name	4653
-Contingent Emergency Response Component Intermediate Results	16436
+Contingent Emergency Response Component Intermediate Results	16436,1526
 Contingent Emergency Response Component Page	16144
 Contingent Emergency Response Component Proposed Cost	1228,3425
 Contingent Emergency Response Component TOTAL Current	1228,3425
@@ -175,6 +180,7 @@ Contingent Emergency Response Part	16936
 Contingent Emergency Response Provide	16936
 Contracepção de Emergência	10777
 Control Emergency Use Authorisations	4426
+Copernicus Emergency Management Service	17969
 Corporate and Emerging Technologies	7548
 Corporates Emerge Fundraising Leaders Development	4972
 Cost-Benefit Analysis CERC Contingent Emergency Response	16896
@@ -238,6 +244,10 @@ EME IMF TPN TOTAL FinTech Bénin	4459
 EME Innovation Labs	16046
 EME PARTIE	15475
 EME QUESTION	6902
+EME SESSION COLLEGE DES CHEFS D’ETAT	18032
+EME SESSION Décret	18032
+EME SESSION ORDINAIRE DU COLLEGE DES	18032
+EME SESSION ORDINAIRE DU DECEMBRE	18032
 EME TRIMESTRE	15706,1
 EME du Burkina Faso	11826
 EME.CI.025	3650
@@ -260,6 +270,7 @@ EMERGING TECHNOLOGIES POLICY	7548
 EMERGING TRUST EQUATION	11138
 EMERGÊNCIAS SANITÁRIAS	15966
 EMERUSENGEAlice	13390
+EMEs Sélection Fondée	18007
 EMEs and LIDCs	12948
 ERRs Emergency Response Rooms	15220
 ESPAI Emergência de Saúde Pública	11376
@@ -296,7 +307,8 @@ Emeraude	16413
 Emerg-	2775
 Emerge	2355,176,4,1,56,3,339,96,901,1006,1761,673
 Emerge Livelihood	12241
-Emergence	396,847,853,1714,3092,549,392,394,3034,444,3661,1635
+Emergence	396,847,853,1714,3092,549,392,394,3034,444,3661,1635,834,25,12,67,34,31,33
+Emergence Accès	18084
 Emergence Emergence	7451
 Emergence de Madagascar	14452
 Emergence of AI	15713
@@ -311,7 +323,8 @@ Emergencies Cluster	13349
 Emergencies Management Information System	9139
 Emergencies Relatório Anual da OMS	10776
 Emergencies URL	15117
-Emergency	11,567,1410,485,516,1138,526,1779,515,1656,520,595,1,47,89,520,401,68,120,21,151,92,152,37,443,513,48,308,202,18,1725,64,129,29,16,4,29,136,21,90,14,136,176,83,57,1,2,27,25,132,56,58,54,539,287,63,32,2,5,167,6,43,93
+Emergencies and Natural Disasters	17934
+Emergency	11,567,1410,485,516,1138,526,1779,515,1656,520,595,1,47,89,520,401,68,120,21,151,92,152,37,443,513,48,308,202,18,1725,64,129,29,16,4,29,136,21,90,14,136,176,83,57,1,2,27,25,132,56,58,54,539,287,63,32,2,5,167,6,43,93,656
 Emergency Action	6947
 Emergency Action Plan	13331,2327,1,310,175,792,163,15
 Emergency Aid Install	17157
@@ -361,14 +374,16 @@ Emergency Management and Operations Centers	4301
 Emergency Medical Services	12976,1974,1991
 Emergency Medical Services Patient Care Report	17346
 Emergency Medicine	14829
+Emergency No Mar	17962
 Emergency Number After NEC Approval	7110
 Emergency Numbers	16837,145
+Emergency Nutrition Assessment	17945
 Emergency Obstetric and Newborn Care	17289
 Emergency Operation	13733
 Emergency Operation Center PIC Project Implementation	11417
 Emergency Operation Centre. Access	16874
 Emergency Operations	12241
-Emergency Operations Center	13080
+Emergency Operations Center	13080,4882
 Emergency Operations Center ENSAN II	10776
 Emergency Operations Centre	13080,15
 Emergency Operations Coordination	10776
@@ -407,8 +422,11 @@ Emergency Response Team	587,10277
 Emergency Response Teams	318
 Emergency Road Rehabilitation Programme	13685
 Emergency SOS	16934
+Emergency Safety Net Program	17906
+Emergency Safety Net Project	17906
 Emergency Safety Net Transfers	15658
 Emergency Safety Nets	14980
+Emergency Safety Nets Project	17906
 Emergency Services	15081
 Emergency Services Eswatini Royal Police Services	11131
 Emergency Severity Index	8376
@@ -434,7 +452,7 @@ Emergent	4259,180,7775
 Emergent du Sénégal	11529
 Emergentes	2816
 Emergents	16626
-Emerging	21,937,3,200,87,529,47,269,3,238,441,1948,183,226,92,17,1,991,599,106,8,92,260,250,242,156,20,56,179,1,258,145,440,645,19,120,323,19,290,503,42,44,84,1,5,15,170,530,2,353,4,41,42,59,43,45,257,261,108,10,279,946,361,10,53,23,67,146,32,26,11,113,17,208,588,827,115,68,5,42,99,248,94,81,241,9
+Emerging	21,937,3,200,87,529,47,269,3,238,441,1948,183,226,92,17,1,991,599,106,8,92,260,250,242,156,20,56,179,1,258,145,440,645,19,120,323,19,290,503,42,44,84,1,5,15,170,530,2,353,4,41,42,59,43,45,257,261,108,10,279,946,361,10,53,23,67,146,32,26,11,113,17,208,588,827,115,68,5,42,99,248,94,81,241,9,81
 Emerging A1- Classification	7548
 Emerging A1- Framework	7548
 Emerging A1- Guidelines	7548
@@ -502,7 +520,7 @@ Emerging Domestic	7548
 Emerging Dynamics	16266
 Emerging EAC Trade and Customs Committee C1-	7548
 Emerging Early	17157
-Emerging Economies	10,1238,4101,5679
+Emerging Economies	10,1238,4101,5679,7008
 Emerging Economy	226
 Emerging Education	7548
 Emerging Emerging	7548
@@ -560,6 +578,8 @@ Emerging Market and Developing Economies Electricity Supply	11136
 Emerging Markets	226,3703,3227,597,3557,2021,2646
 Emerging Markets . Redmond	11140
 Emerging Markets Economies	1828
+Emerging Markets HEC ParisHarvard Business SchoolGlobal	18039
+Emerging Markets Operators	18039
 Emerging Markets Telecommunication Services	11993
 Emerging Markets Telecommunications Services	330
 Emerging Markets Telecommunications Services Limited	330
@@ -603,6 +623,7 @@ Emerging Standards	7548
 Emerging Talent Grant	14742
 Emerging Tech	7548,4666,27
 Emerging Tech Crosswalk	1422
+Emerging Tech Ecosystem Mauritania	18039
 Emerging Tech Guidance Note	6973
 Emerging Tech Specialist	14812
 Emerging Tech Tech	7548
@@ -748,6 +769,7 @@ Emerging Technology and Privacy Enhancing Technologies	8900
 Emerging Threats' Are Harder	3279
 Emerging Training-of-Trainers and Technologies	7548
 Emerging Treasury	7548
+Emerging Trends	17870
 Emerging Trends and Recommendations for Future Social Policy	16902
 Emerging Uses of PeaceTech	8202
 Emerging Year	7548
@@ -798,6 +820,7 @@ Emetteur	4403,11105,539
 Emetteur- HF	998
 Emetteurs de Monnaie Electronique	13452
 Encourage Innovation and Emerging Tech	16975
+Enhanced Emergency Response and Disaster Management PDO	17962
 Enhanced Health Emergency Prevention	10768
 Entrepreneurship and Emerging Technologies Objective	16975
 Equipment and Emerging Costs	6993
@@ -865,6 +888,7 @@ Health Emergency Preparedness and Response Multi-Donor Trust	16922
 Health Emerging	12240
 Health Sector Emergency and Response Plan	16874
 Henry Emejuo	10262
+Hommes Nations International Children's Emergency Fund	17882
 Hospital TAMBO MEMORIAL HOSPITAL EMERGENCY DEPARTMENT	8603
 Human Behavior and Emerging Technologies	1248,4452,2322
 Humanitarian and Emergency Fund	3583
@@ -954,6 +978,7 @@ Malcom Emery Djenno Ngomanda. Le RBPP	3083
 Maluana Science and Technology Park. Emerging	12786
 Mankind’s Emerging World	2096
 Manual and Emergency Action Plan	15518,1418
+Mauritanie EMEA	17844
 Mauritius Emerging Technologies Council	14735,15,2,60
 Mauritius Emerging Technologies Council Act	14735
 Mauritius Emerging Technologies Council Bill	14735
@@ -999,6 +1024,7 @@ National AI and Emerging Technologies Strategy	6132,5999
 National AI and Emerging Technologies Technologies	7548
 National AI and Other Emerging Technologies Council	7547
 National AI and Other Emerging Technologies Steering	9857
+National Center for Emergency Operations	17962
 National Computer Emergency Response Center	7538
 National Computer Emergency Response Team	587,8720,656,213,2056,5028
 National Computer Emergency Response Team. Functions	587
@@ -1009,6 +1035,7 @@ National Emergency Computer Incident Response Center	7538
 National Emergency Management Agency	7110
 National Emergency Medical Services	17346
 National Emergency Number	5784
+National Emergency Operations Center	17962
 National Emergency Operations Center CGD Citizen-generated	4214
 National Emergency Operations Command	14738,4
 National Emergency Response Council	13038
@@ -1068,6 +1095,7 @@ Plan Comores Emergent	1996,11721
 Plan Emergence Madagascar PME	14472
 Plan Senegal Emergent II	903
 Plan Stratégique Gabon Emergent	15411,89,18
+Policy Options for Emerging Economies. World Bank	17870
 Post Exposure Prophylaxis and Emergency Contraception	14773
 Post-COVID Trends and Emerging Opportunities	10718
 Post-HIPC Risks and Emerging Challenges Somalia	15147
@@ -1086,6 +1114,7 @@ President's Emergency Plan for AIDS Relief	7750,5175
 President's Emergency Plan for AIDS Relief PFM	12962
 Presidents Emergency Plan for AIDS Relief	12240
 President’s Emergency Plan for AIDS Relief	7187,3415
+President’s Emergency Plan for Aids Relief	17883
 Private ISPs Emerging Technologies	7548
 Procurement Law. Emergency	10829
 Professor Emeritus Paul Henry Gundani	13551
@@ -1188,6 +1217,7 @@ Telecommunications Regulations for Emergency Situations	14944
 Telecommunications. Emerging	1777
 Termination of Emergency	13042
 Through the WHO Health Emergencies	17289
+Towards the Emergence	17870
 Traffic Management and Emergency	15659
 Training Emerging Technologies Technologies	7548
 U.S. President's Emergency Fund for AIDS Relief	12334
@@ -1204,7 +1234,7 @@ Uganda’s AI and Emerging Technologies Strategy	6132
 Uganda’s National AI and Emerging Technologies Strategy	6113
 Unified National Network for Emergency Services	15977
 United Nations Central Emergency Resoponse Fund	13003
-United Nations International Children's Emergency Fund	12947,28,1467
+United Nations International Children's Emergency Fund	12947,28,1467,3382
 United Nations International Children’s Emergency Fund	1824,8952,4777
 United Nations Office for Digital and Emerging Technologies	11057
 United States President's Emergency Plan	12944
@@ -1212,6 +1242,7 @@ United States President’s Emergency Plan for AIDS	5165
 Unlike the Contingent Emergency Response Component	15658
 Upgrade Emergency Health Data Management URL	17346
 Use of Emergency Contraception	15247
+VEHICULE ANTI- EMEUTE	17982
 Vantage EMEA	2539
 Vision Burundi Pays Emergent	13433
 WHE WHO Health Emergencies WHO World	17289
@@ -1227,6 +1258,7 @@ World Bank-funded Health Emergency Preparedness	11590
 World Bank’s Zambia Health Emergency Preparedness	1867
 Yemen Emergency Electricity Access Project	11572
 Yemen Emergency Recovery Project	15658
+Youssouf H. Diallo OPERATIONAL UPDATES Emergency	17985
 Youth Emerging	7548
 ZNPHI Director Emergency Preparedness Response	13596
 Zimbabwe Emergency Food Production Facility	12507

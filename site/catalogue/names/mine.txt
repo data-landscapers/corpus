@@ -40,6 +40,7 @@ CODE APPROPRIÉ ENQUÊTÉE MINEURE ENQUÊTÉE MINEURE	13300
 COMIGEM Minerals and Gems Trading Office	4127
 CONSENTEMENT DE L'ENQUÊTÉ MINEUR POUR	13300
 CONSENTEMENT DE L'ENQUÊTÉ MINEUR POUR DES	13300
+CPS Mines	17978
 CRB MINECOFIN	14997
 CSD and MINECOFIN	14997
 Cameroon Tightens Control Over Gold Mines	3768
@@ -53,8 +54,10 @@ Chef de Service de Gestion Fiscale des Mines	16381
 Clúster de Recursos Minerales	1701
 Clúster de Recursos Minerales Para	1701
 Coal Mine	12082
+Communication de Mines	17982
 Concernant le MINEE	15542
 Concession du Titre de Basilique Mineure	13405
+Confection des Plans des Mines	17982
 Conseil de Discipline. MINISTERE DES MINES ET	16001
 Corporate Social Responsibility Lumwana Mines	1988
 Critical Energy Transition Minerals	11210
@@ -62,7 +65,12 @@ DAVID WHITTLE FORTUNA SILVER MINES. Elle	2342
 DEMANDEZ LE CONSENTEMENTDE L'ENQUÊTÉ MINEUR POUR	13300
 DES MINES ET DES CARRIERES	8321,7621,345
 DES MINES ET DES CARRIERESLe Conseil	7670
+DES SUBSTANCES MINERALES DU GROUPE	17827
+DETECTEUR DE MINES	17982
 DEVELOPPEMENT DURABLE MINISTÈRE DES MINES	15999
+DG Mines	18063
+DG Mines du Mali	18063
+DG Mines. Dans	18063
 DU MINERAI PRODUIT. En	2342
 Datacenter de ST Digital Minette Libom Li	3298
 Deal for Glencore’s Kamoto Mine Congolese	5407,676
@@ -80,6 +88,7 @@ Directeur Central du Ministère des Mines	16381
 Direction Générale des Mines	16627
 Direction Nationale des Mines	16719
 Direction des Mines	235
+Documentation des Mines	17899
 Désignation Puissance Unité Luyuan des Mines Congo	15799
 Développer des MINEDUB	10965
 E. SHIKONGO CHAIRPERSON MINERALS AND ANCILLARY	13189
@@ -99,7 +108,7 @@ Economy and Territorial Administration MINESUP	16041
 Education de Base MINEPAT Ministère	10965
 Empresa Minera Nacional	4209
 Energy and Mineral Resources	1228
-Energy and Mines	16973,132,47,76
+Energy and Mines	16973,132,47,76,665
 Energy and Mines Honourable Speaker	17105
 Energy and Mines Ministry of Public Service	16973
 Energy and Mines National Action Plan	16973
@@ -112,6 +121,7 @@ Form SACCO-bank MINECOFIN	14997
 Framework. MINECOFIN and CMA	14997
 Gambian Standard for Natural Mineral Water	16900
 Geological and Minerals Development Bill	13387
+Geology and Mineral Resources	18016
 Gestion Publique Finance Agro Energies Mines	13568
 Government MINEMA Ministry	12328
 Government Spending... Rwanda Tungsten Mine Emerges	14969
@@ -129,11 +139,13 @@ IBBS Mineiros	966
 IRAKOZE Belyse Informaticienne des Mines REGIDESO	13341
 Identify MINECOFIN	14997
 Implementing Agency MINEPAT Project Development Objective	15601
+Incendie des Mines	17899
 Increase MINECOFIN	14997
 Increase the MINECOFIN	14997
 Industry and Minerals	7787,8,1367
 Industry and Minerals MoLG Ministry of Local Government	17157
 Industry and Mines	13899
+Ing. Ind. Mines	17812
 Institut des Mines	16627
 Instituteurs du MINESEC	15850
 Insurance MINECOFIN	14997
@@ -163,6 +175,7 @@ Korea International Cooperation Agency MINEDUC	14915
 Kwango Mines	13419
 L'ENQUÊTÉ MINEUR POUR DES TESTS SUPPLÉMENTAIRES	13300
 LA MINE D’OR	16456
+LE MINISTRE DES MINES	17827
 LERCJ Ministry of Lands. Mines and Energy Rural	16851
 LODA MINECOFIN IFMIS	14935
 LRC. Mineral	17011
@@ -171,10 +184,11 @@ La SOCIETE DES MINES DE FLO-	2342
 La SOCIETE DES MINES DE LA-	2342
 La SOCIETE DES MINES D’ITY	2342
 La SOCIÉTÉ DES MINES	2342
+La Société des Mines	17812
 Land Reform and Mineral Resources	11285
 Le MINEE	10975
 Le MINESEC	10379
-Le Ministre des Mines	15409
+Le Ministre des Mines	15409,2403
 Le Ministère des Mines	16618,9
 Leading MINECOFIN	14997
 Licensing and Public Affairs MME Ministry of Mines	16978
@@ -300,7 +314,7 @@ MINEPOSTEL	15480
 MINERAL SCE	16623
 MINERALS	13189
 MINERALS COMMISSION Ladies and Gentlemen	16511
-MINES	16381
+MINES	16381,1601
 MINES AND ENERGY No	13189
 MINES AND MINING DEVELOPMENT	13420
 MINES ET DES RESSOURCES GEOLOGIQUES ADMINISTRATION	16099,282
@@ -321,12 +335,13 @@ MINICOM MINECOFIN	15130
 MINING AND MINERALS	16900
 MINISTERE DE LíENERGIE ET DES MINES	15360
 MINISTERE DE L’INDUSTRIE ET DES MINES	15456
-MINISTERE DES MINES	15395,44,560
+MINISTERE DES MINES	15395,44,560,1828
 MINISTERE DES MINES ET DES RESSOURCES	16001,174
 MINISTERIO DE HIDROCARBUROS Y DESARROLLO MINERO	4209
 MINISTÈRE DES MINES ET DES RESSOURCES	16381
 Mapapa and Copper Mine	13387
 Mark Minevich	10840
+Mauritanian Copper Mines	17990
 Mechanical Components and Minerals Development	3760,9683
 Member Mr. RUGWABIZA Minega Leonard Board	15023
 Metals and Minerals	13685
@@ -387,15 +402,42 @@ Mineração de Dados Educacionais	2816
 Miners	12597,788
 Minerva	11028
 Minerva Technology Futures	7209
-Mines	235,1753,354,1054,43,192,1185,686,62,107,751,340,3,361,642,169,384,434,199,47,286,55,254,418,859,2,25,697,309,1484,353,523,453,670,20,17,40,6,70,128,4,95,220,31,259,99,126,2,3,27,47,33,2,56,179,113,142,127,25,188,136,40
+Mines	235,1753,354,1054,43,192,1185,686,62,107,751,340,3,361,642,169,384,434,199,47,286,55,254,418,859,2,25,697,309,1484,353,523,453,670,20,17,40,6,70,128,4,95,220,31,259,99,126,2,3,27,47,33,2,56,179,113,142,127,25,188,136,40,188,5,10,11,3,1,2,32,4,13,2,4,2,10,61,6,4,1,20,29,45
 Mines Agriculture des Marchés Eau	2342
 Mines Artisanales	643
+Mines Chargé	17899
+Mines Chargé des Interventions Commissaires	17899
+Mines Chargé des Traces	17899
+Mines Chargé du Traitement des Commissaires	17899
+Mines Chargés	17982
+Mines Chargés des Etudes	17982
+Mines Chargés des Travaux Ingénieur des Constructions	17982
+Mines Chef de Section SECTION CADASTRE	17982
 Mines Commerce Crafts	10763
+Mines Commissaires	17899
 Mines Congo	16177
 Mines Crédit	13390
+Mines DIVISION DE LA BALISTIQUE Chef	17899
+Mines DIVISION DE LA FRAUDE DOCUMENTAIRE	17899
 Mines Directeur	14904,1581
+Mines Données Chef de Section Commissaires	17899
 Mines MESFTP Ministère	15479
+Mines MRU Mauritanie Unité Monétaire MW	17873
+Mines Officiers	17899
+Mines SECTION ARCHIVES Chef de Section Administrateur	17982
+Mines SECTION CADASTRE Chef de Section Ingénieur	17982
+Mines SECTION CONTROLE DE PRODUITS SOUS	17899
+Mines SECTION DES EXPLOSIFS Commissaires	17899
+Mines SECTION DES INCENDIES Chef de Section	17899
+Mines SECTION DOCUMENTATION Commissaires	17899
+Mines SECTION EXPERTISE DES DOCUMENTS Chef	17899
+Mines SECTION IDENTIFICATION DES ARMES	17899
+Mines SECTION RECETTES Chef de Section Planificateur	17982
+Mines SECTION RECETTES Planificateur	17982
+Mines SECTION TRACES PHYSICO-CHIMIQUES Chef de Section	17899
+Mines Signatures Commissaires	17899
 Mines Transport Télécom Comm Formation Ecofin	13568
+Mines UNITE D’INTERVENTIONS INCENDIES Chef	17899
 Mines and Energy	5086,7955,9,38,45,22,34,11,3816,124,120
 Mines and Energy MOU Memorandum of Understanding MSB	12399
 Mines and Energy MoPT Ministry of Post and Telecommunication	17114
@@ -414,6 +456,7 @@ Mines. Cette	16047
 Mines. Il	9819
 Mines. La Direction du Portefeuille des Secteurs Tertiaire	2342
 Minesec	10379
+Mineset le Président du Comité National ITIE	17838
 Minesup	11673
 Minette Barkhuysen	10538
 Minette Libom Li Likeng	2534,161,168,69,298,3,2,5,58,30,910,31,293,503,2893,547,1750,99,5313,97,383,4,18,345,74
@@ -421,8 +464,8 @@ Minette Libom Li Likeng. Ces	5065
 Minette Libom Li Likeng. Une	2932
 Minette Libom Li LikengCAMTEL	7958
 Minette Libom Li-Likeng	4192
-Mineur	13719,1710,59,155,974
-Mineurs	17584
+Mineur	13719,1710,59,155,974,1209,15
+Mineurs	17584,362
 Mineworkers Investment Company	14366
 Mineworkers Provident Fund	12597
 Mineworkers Provident Fund Administrators. Currently	12597
@@ -445,6 +488,7 @@ Minister of Mines and Minerals Development. Mr Katakwe	13387
 Minister of Posts and Telecommunications Minette Libom Li	2303,951
 Minister of Solid Minerals Development	7513
 Minister of State for Mines and Steel	11579
+Minister of State for Steel and Mines	18016
 Ministre des Mines	7978,8140,573
 Ministry of Communication MINEPAT	16041
 Ministry of Energy and Minerals	15132
@@ -472,8 +516,9 @@ Ministry of Mines and Minerals Development. Ensure	13654
 Ministry of Mines and Mining Development	1554
 Ministry of Mines and Quarries	10873
 Ministry of Mines' Export Permit Management System	13688
+Ministry of Petroleum Energies and Mines	17893
 Ministry ofLands. Mines and Energy	16851
-Ministère des Mines	3045,12497,81,47,87,179,65,322,293,10,1,14
+Ministère des Mines	3045,12497,81,47,87,179,65,322,293,10,1,14,1171
 Mme Minette Libom Li Likeng	10524,5615
 Mopani Copper Mine	13387
 Mopani Copper Mines	13362,25
@@ -486,6 +531,7 @@ Mutual Funds MINECOFIN Ministry of Finance and Economic	14997
 Mº DE HIDROCARBUROS Y DESARROLLO MINERO	4209
 Mº HIDROCARBUROS Y DESARROLLO MINERO Servicio	4209
 N CODE APPROPRIÉ ENQUÊTÉ MINEUR ENQUÊTÉ	13300
+N MINISTERE DES MINES Point H	17827
 NBR MINECOFIN	15130
 NBR MINECOFIN Implement	15130
 NGOs MINECOFIN	15130
@@ -561,20 +607,23 @@ SOCIÉTÉ DES MINES DE LAFIGUE Gestion	2342
 SOCIÉTÉ IVOIRE MANGANÈSE MINES SA Gestion	2342
 SOUS TUTELLE SOCIETE EQUATORIALE DES MINES	16099
 SOUS-TUTELLE SOCIETE EQUATORIALE DES MINES	16381
+SUBSTANCES MINERALES DU GROUPE	17827
 Salubrité Mines	4895
 Schéma Directeur SI du Ministère des Mines Guinée	16641
 Secretary General of MINEPAT	15601
+Secteur Mines	17842,136,99
 Selon Minette Libom Li Likeng	3138
 Skorpion Mine	12399
 Small Miners	8639
 Sociedad Minera GEEMINA	4209
-Société des Mines	11597
+Société des Mines	11597,6215
 Solid Minerals	3557
 Somaliland's Ministry of Energy and Minerals	15132
 South Africa. Ivanhoe Mines	15952
 South African Mines	12597
 Statistical Data Analysis Report. MINESUP	15480
 Statistique MINEPAT Ministère	15501
+Statistique du Secteur Mines	17978
 Strategic Minerals	11608
 Strengthen MINEDUC	14922
 Sudanese Mineral Resources Company	15342
@@ -588,8 +637,10 @@ U SOCIETE DES MINES DE FER	16623
 UNHCR and MINEMA	12328
 USD MINECOFIN Development	14997
 Uis Tin Mine Site	13189
+Un Mines	18077
 United States and South Korea. Minerva	11050
 Update the MINEPAT-based PIU PIM	10964
+V DIRECTION Ing. Ind. Mines	17812
 VIH. MINEUR POUR LA COLLECTE	13300
 VIH. N MINEUR POUR	13300
 Vice-Minister of Mines and Hydrocarbons Mr. Santiago Eneme	17240

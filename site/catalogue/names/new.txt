@@ -209,6 +209,7 @@ Eswatini Positive News	7453,5495,24,241,23,16
 Ethiopia News Agency	9801
 Ethiopian News Agency	1798,166,7,481,759,8966,102,1755,17,1,7,1,4,24,33,1,8,3
 Europe Tech News	9608
+Events News	18091
 Every Newborn-Measurement Improvement for Newborn	10878
 Executive Orders News	16961
 Expanding Digital Learning News	14588
@@ -330,6 +331,7 @@ Independent News Eswatini	2885,1650,350,49,187,653,25,474,547,1,222
 Independent Newspaper Nigeria	8241,476
 Information Centre Latest News Press Releases	12515
 Informercials Newsletters Quarterly Sector Reports Gallery	12515
+Innovations Publications Newsletters AICCRA	18036
 Insight Newsletter Get	8499
 Instant Cross-Border Payments TechAfrica News	5263
 Institute Digital News	13461
@@ -357,6 +359,7 @@ Kenya News Agency. Developer	2447
 Kenya News Agency. ICT CS	899
 Kenya Newsletters	2826,901,2016,126
 Kit Library News Refworld Personalization External	16830
+LA NEWSLETTER Nos	17993,96
 LATEST NEWS	10581
 LBR CPI Newsletter Aug 2023	16949
 LE TEMPS All News	2396,3046
@@ -416,6 +419,7 @@ Malawi News Agency	7900
 Mastercard Newsroom	14531
 Maternal and Newborn Health	14031
 Matuga. Kwale County News	12322
+Mauritanian News Agency AMI	17988
 Mauritius Customs News	14789
 May. UN News	15342
 Media Library News Events E-Services Accessibility	14721
@@ -462,6 +466,7 @@ NEWS-1-3-831509	17337
 NEWS-JURITECH	11958
 NEWSFLASH	13533
 NEWSLETTER Portfolio Funds	12339
+NEWSLETTER TRIMESTRIELLE	18013
 NEWSROOM Media	16217
 NEWTELNET CAMEROUN	16551
 NEWU National Early Warning Unit	12931
@@ -512,8 +517,9 @@ Newcastle	2719,677,813,12834
 Newcastle Provincial	11986
 Newco- Reclamação	15526
 Newcomer	8603
-Newer	13312,2,3500
+Newer	13312,2,3500,1096,2
 Newer Purposes	12139
+Newer Réunion	17939,86
 Newfel Ferroudj	15410
 Newgry Money Tree	8732
 Newhouse	10763
@@ -572,6 +578,7 @@ News Editorial	12971
 News Empowering Congolese Judicial Operators	15618
 News Enhanced	3817
 News Eswatini	7030
+News Events People Partners	18036
 News Events Picture Gallery Video Gallery	9109
 News Federal Supreme Court Moves	12260
 News Feed	13461
@@ -641,12 +648,17 @@ News Publishers. Available	13461
 News Publishers. Pg	13461
 News Re-Opening of National Identity Card	14741
 News Reading Time	5121,1152,547
-News Release	10841,1128,2073,104,2338,797
+News Release	10841,1128,2073,104,2338,797,794
 News Release Autoridades	16484
+News Release En	18075
 News Release Huíla	16484
+News Release Le Directeur	18075
+News Release Le Togo	18075
 News Release OMS	16484
+News Release Quand	18075
 News Release São Tomé	16484
 News Release Uganda	16484
+News Release Uganda En	18075
 News Research	13051
 News SINGH	9646
 News Senegal Moves	9964
@@ -758,7 +770,7 @@ Newsletter ISSUE	12625
 Newsletter Keep	3364
 Newsletter N	13051
 Newsletter Pour	15637
-Newsletter Subscription	16243
+Newsletter Subscription	16243,1693
 Newsletter Vol	13062
 Newsletter ZIMSTAT Embarks	12499
 Newsletter de Maliexpress.net	14289
@@ -803,6 +815,7 @@ ORDER ORDER GOOD NEWS FOR SMALL	13044
 Obstetric and Newborn Care GPW14	12729
 Online News Act	13461
 Open Health News	10881
+Ouestaf News	17830
 P.M. News	7003
 P.M. News. Admissible	7003
 PLL Newtec	998
@@ -844,7 +857,7 @@ Reference Li and Newman2022	8436
 Regional News	10025
 Regional News Paper	13017
 Related Articles News LOBAMBA	3331,727,2972,234
-Related News	791,4253,1443,1929,223,2925,2172,1035,1713,724
+Related News	791,4253,1443,1929,223,2925,2172,1035,1713,724,867
 Related News Atiku	10220
 Religion News Service	6231
 Religion News Service and New York Times	6231
@@ -975,6 +988,7 @@ Vatican News	9399
 Verity News	17256
 Vital Strategies Latest Biometrics News Foundational	9804
 WAPIS Newsletter	16633
+WAPIS Newsletter 16 FR.pdf NUMÉRO	17848
 WCO News Magazine	13051
 WebRadio Newsletter Library	17221
 Weekly Newspapers1	2775

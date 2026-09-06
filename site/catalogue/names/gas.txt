@@ -130,6 +130,7 @@ Gas Storage Hydro	11953
 Gas Storage Load Load	11953
 Gas Stove	12383
 Gas Supply	11272,3401
+Gas Tech	17907
 Gas Transport Ltd ROAD ACCIDENT VIVO	14738
 Gas and Downstream	718
 Gas and Downstream Petroleum	718
@@ -168,7 +169,7 @@ Gashu K	10784
 Gashu KD	10780,1475
 Gasinzigwa	12372
 Gasoduto Africano Atlântico Segunda	11429
-Gasoil	15542,1172,186
+Gasoil	15542,1172,186,1072
 Gasoil Price	17177
 Gasoline	16902
 Gasoline Diesel Kerosene Jet	1828
@@ -255,6 +256,7 @@ Gross Domestic Product GHG Greenhouse Gas	16949
 Gross Enrollment Rate GHG Greenhouse Gas	17458
 Guidelines for National Greenhouse Gas Inventories	17140
 Household Drinking Water Connections Natural Gas	15578
+Household Energy Access Cash for Gas	17971
 Household Water Supply Connections Natural Gas	15578
 Huambo MARIA DE FATIMA GASPAR ANTÓNIO	10751
 Hydro Geothermal Natural Gas Thermal Wind	12256
@@ -284,6 +286,7 @@ Landfill Gas	14745
 Landfill Gas BESS	11953
 Ley de Presupuestos de Gastos	4209
 Licenses for Liquefied Petroleum Gas	718
+Lieutenant Ibrahima GASSAMBA	17991
 Limited Mr Mgqibelo Gasela	4896
 Liquefied Natural Gas	11185,30,33,3582
 Liquefied Natural Gas. LPG	16996

@@ -149,7 +149,7 @@ BUY NOW PAY LATER	4824
 Balance of Pay-	2775
 Balance of Payment	13122,3982,213
 Balance of Payment BR	14857
-Balance of Payments	2775,1132,2102,5122,1791,34,167,356,389,3281,60,26,22,60,9,95,82
+Balance of Payments	2775,1132,2102,5122,1791,34,167,356,389,3281,60,26,22,60,9,95,82,406,81
 Balance of Payments Developments	17104,213
 Balance of Payments Eswatini	11134
 Balance of Payments International Investment Position	2775
@@ -199,6 +199,8 @@ Burundi Pay	6605,3857
 Burundi Pays	13390
 Burundi Pays Emergent	13668
 Business Enterprises Pay	12445
+Business and Paying Taxes	17870
+Business and Paying Taxes Country Starting	17870
 Buy Goods and Paybill	5474
 Buy Now Pay Later	11994
 C. Instant Payments	11138
@@ -353,6 +355,7 @@ Delayed Payments Due	14546
 Delayed Payments Review	14546
 Delayed Payments The Ministry of Education	14546
 Deputy Director of Operations for Payments	3964,63
+Des Pays	17860
 Description Care Pay	186
 Description The Payment System and Financial Inclusion	175
 Destiny About Us Tax Payer	12454
@@ -376,7 +379,7 @@ Digital Payment Systems Component World Bank	1003
 Digital Payment Technology	15139
 Digital Payment for Government	12214
 Digital Payment for Polio Campaigns Bill	2184
-Digital Payments	1828,87,1476,6886,488,10,66,1099,20,34,372,1621,1654,1301
+Digital Payments	1828,87,1476,6886,488,10,66,1099,20,34,372,1621,1654,1301,928
 Digital Payments Advocacy	213
 Digital Payments Angola	10775
 Digital Payments Component World Bank Group	416
@@ -472,6 +475,7 @@ Econet’s Fintech Comeback Pays Off	3016
 Economia Aplicativo PayPay	5309
 Efficient Electronic Payments	13532
 Effortless and Cost Effective Payments for All	11940
+Elaboration du Rapport Pays	17842
 Elderly Grant Payments	12977
 Electronic Payment	12389,4455
 Electronic Payment Directive	14014
@@ -511,6 +515,7 @@ Enhancing Cross-Border Payments	13388
 Enhancing Retail Digital Cross-border Payments for Africa	2777
 Enhancing Trade Facilitation and Digital Payments	13042
 Entrepreneurship Activity NPS National Payment System	14897
+Environnemental Pays	17873
 Equal Pay and Employment Opportunities	12389
 Equipe Pays des Nations Unies	15965
 Establish Interoperable Digital Payment Infrastructure	12444
@@ -532,6 +537,7 @@ Eswatini Payments Switch The CBE	11131
 Eswatini’s National Payment System Vision	11130
 Etat. B2G Payeurs Entreprise	10711
 Etat. Programme Pays de Renforcement des Capacités	15712
+Etats Pays	17945
 EthSwitch. Payment	12269
 Ethiopia Digital Payment Conference	8671,3621,1762
 Ethiopia's Digital Payments Performance	1657
@@ -570,6 +576,7 @@ FIRS Revolutionize Tax Payments	2593
 FIRSTCOM Global Payments SA EP.CI.003	17024
 FMI Pays	643
 FMI Rapport Pays	643
+FREEPIK Profil Pays Le Mali	17830
 FTD. Pays Nom	10708
 Facebook Instagram Linkedin Mail Paypal Pinterest	9916
 Fair Pay A1- Fair Pay Reference	7548
@@ -632,6 +639,7 @@ GIMAC Pay	10075,1869
 GIN23009-10070 Pays	16747
 GOV.UK Pay	3922
 Gambia's National Payment Switch Press	17115
+Gao and Timbuktu. Payments	17906
 Gateway Payment System	14674
 Gateway and Payment Originator	12364
 Gender Median Pay Differentials	11131
@@ -738,6 +746,7 @@ India’s Unified Payments Interface	3318,3576,390
 Individuals for PAYE	12452
 Indonesia Payment Systems Blueprint	11994
 Indonesian PayLater User Behavior Report	11994
+Indonésie Pays	17856
 Informal Pay	12445
 Initiative Pays Pauvres Très Endettés	15542
 Innovating Beyond Payments	14054
@@ -797,6 +806,7 @@ Jamii Pay	2868
 July. Payments	1191
 Jumia Pay	5822
 June. Payments	9896
+Juridique PMA Pays	17873
 KERRY Payments Burkina SA EP.BF.002	17024
 KEY STAKEHOLDERS IN THE PAYMENTS	13388,1521
 Kaku Pay	12980
@@ -819,7 +829,7 @@ LES PAYS DE NATIONALITÉ II. RÉPARTITION	17478
 LIBERIA FACES PRESSURE OVER PAY	10581
 LICENSING AND AUTHORISATION OF PAYMENT SERVICE	13085
 LIMITED PAYOUT MACHINE TECHNICIAN	14843
-LISTE DES PAYS QUI ONT SIGNE	4867
+LISTE DES PAYS QUI ONT SIGNE	4867,13008
 LOW-VALUE PAYMENT SYSTEMS	13388
 Labor Payments for Microprojects	10964
 Land Tax Payment Reconciliation System	13179
@@ -829,12 +839,14 @@ Late Payment	16848
 Late Payment Charge	14867
 Late Payment Interest	12629
 Launch of Cross-border QR Payments Linkage	11994
+Le Payeur Général du Trésor	17899
 Learning Mobile Payments	6051
 Leave Payouts	11218
 Lender Date of Payment	15399
 Les Pays-Bas	5899,11790
 Les Trésoriers Payeurs	17485
 Lesotho National Payment Switch	1908
+Level of Digitalization of Payments	17870
 Leveraging Digital Payment System	16876
 Leveraging Digital Payments	14054
 Liberia Interbank Payment and Settlement Systems	11710
@@ -1241,9 +1253,11 @@ PAYS LIMITROPHE DU BURUNDI	13300
 PAYS POLITIQUES ET STRATEGIES NUMERIQUES REGLEMENTATIONS	15936
 PAYS Rwanda POINTS DE CONNEXIONS GASENYI	13324
 PAYS URL	15965
+PAYS VOISINS	17843
 PAYTHEGRANTS Second Applicant and MINISTER OF SOCIAL	2307
 PAYWALL	15880
 PCU. Payment	3604
+PMA Pays	17881
 PMD Provincial Medical Director PMG Paymaster-General	13420
 POLICY FOR ICT The National Payment	958
 POLICY FOR THE ELECTRONIC PAYMENT	16844
@@ -1252,6 +1266,7 @@ PPS Payment Processing Systems	12973
 PRB Pay Research Bureau QDMTT Qualified	14828,3
 PRICING POLICY FOR THE PAYMENT	16844
 PROFIL DU PAYS	15685
+PROFIL PAYS	17830
 PROTECTION LISTE DES PAYS QUI ONT	13370
 PROTECTION OF PAYMENT SERVICES USERS	14919
 PROVIDE PAYMENT SERVICES	16878
@@ -1397,10 +1412,12 @@ Payee	14880,39,480
 Payement	15936
 Payer	3170,854,2780,150,6436,109,1178,203,39,706,649,182
 Payer Day Max Hours	13606
-Payeur	10836,4606,1,192,540
+Payeur	10836,4606,1,192,540,1682
+Payeur Général	17899
+Payeur Général du Trésor	17899
 Payez	5959
 Payhippo	10284
-Paying	6796,1815,2365,898,5,2,465,154,2485,1567,337,228,39,95
+Paying	6796,1815,2365,898,5,2,465,154,2485,1567,337,228,39,95,619
 Paying Customers Article	12616
 Paying Taxes	12376
 Paying for News	13461
@@ -1414,7 +1431,7 @@ Paylogic	11955
 Paymaster	13533
 Paymaster General	6921,2571
 Paymaster's Office	13533
-Payment	822,140,905,908,808,131,1110,300,316,190,61,172,534,16,259,266,176,40,8,11,48,1,473,313,11,6,122,1164,185,407,69,39,2,144,250,98,214,44,22,44,135,13,153,1,38,12,37,332,305,2,12,86,1,4,16,10,14,8,33,170,3,55,1,65,23,1,5,1,9,15,11,2,3,4,38,7,36,181,241,26,93,11,11,24,8,100,103,43,1,1,24,25,13,25,32,22,92,419,29,123,256,29,5,31,4,84,128,43,11,50,4,37,15,9,15,39,22,78,26,97,5,247,106,88,63,29,1,4,238,76,167,109,299,77,213,1,35,7,93,22,11,97,6,24,105,6,1,117,361
+Payment	822,140,905,908,808,131,1110,300,316,190,61,172,534,16,259,266,176,40,8,11,48,1,473,313,11,6,122,1164,185,407,69,39,2,144,250,98,214,44,22,44,135,13,153,1,38,12,37,332,305,2,12,86,1,4,16,10,14,8,33,170,3,55,1,65,23,1,5,1,9,15,11,2,3,4,38,7,36,181,241,26,93,11,11,24,8,100,103,43,1,1,24,25,13,25,32,22,92,419,29,123,256,29,5,31,4,84,128,43,11,50,4,37,15,9,15,39,22,78,26,97,5,247,106,88,63,29,1,4,238,76,167,109,299,77,213,1,35,7,93,22,11,97,6,24,105,6,1,117,361,96,25,57
 Payment A. Ceiling For Services	13037
 Payment Access Devices	4517,2461
 Payment Access Points	4517,2461
@@ -1538,7 +1555,7 @@ Payment System Strategy TMIS Tax Management	14897
 Payment System Subcommittee and Payment System Oversight	12671
 Payment System Vision	7928
 Payment System. Payment Part	12364
-Payment Systems	277,3011,815,2835,283,4734,259,72,78,173,752,99,144,1142,70,175,710,1401,580
+Payment Systems	277,3011,815,2835,283,4734,259,72,78,173,752,99,144,1142,70,175,710,1401,580,260
 Payment Systems Access Points and Devices	4517,2461
 Payment Systems Act	9220,121,3312,82,554,1385,2202,2
 Payment Systems Approval Approved NOT Approved	12364
@@ -1616,7 +1633,7 @@ PaymentSecurity	9452,39
 PaymentSystems	9516,2698
 Paymentology	5795
 Paymentology Enters the Middle East’s Digital Payments	7156
-Payments	573,581,37,52,209,501,377,605,147,79,157,73,192,131,452,211,346,125,48,25,67,136,131,42,92,144,146,12,172,505,567,3,218,65,170,186,24,88,208,31,179,21,1,123,345,130,866,23,287,107,145,537,137,24,48,229,725,85,15,30,1,22,206,38,7,62,14,8,21,25,3,52,10,46,11,17,148,160,79,61,1,60,16,55,39,38,103,26,106,57,533,536,53,185,35,15,63,88,12,83,50,72,170,108,39,139,136,1082,8,1,38,55,33,19,112,93
+Payments	573,581,37,52,209,501,377,605,147,79,157,73,192,131,452,211,346,125,48,25,67,136,131,42,92,144,146,12,172,505,567,3,218,65,170,186,24,88,208,31,179,21,1,123,345,130,866,23,287,107,145,537,137,24,48,229,725,85,15,30,1,22,206,38,7,62,14,8,21,25,3,52,10,46,11,17,148,160,79,61,1,60,16,55,39,38,103,26,106,57,533,536,53,185,35,15,63,88,12,83,50,72,170,108,39,139,136,1082,8,1,38,55,33,19,112,93,671
 Payments ARTICLE	12771
 Payments Across Eastern Africa	3238
 Payments Africa	47,332
@@ -1639,12 +1656,13 @@ Payments Guidelines for Plantation Forests Stakeholder	16853
 Payments Increase	17011
 Payments Infrastructure	10901,1039
 Payments Management	12491
+Payments Mauritania	18039
 Payments Modern Employee Geographic Data State	16040
 Payments Month Number of Number	12252
 Payments National Bank of Malawi	12915
 Payments Orders	17236
 Payments Oversight	11131,3
-Payments Payments	6938
+Payments Payments	6938,10932
 Payments Platform	4095
 Payments Project Manager Tiya Somba Banda	12915
 Payments RATING OPPORTUNISTIC STAGE	12214
@@ -1733,10 +1751,12 @@ Payroll-HRMIS	16436
 Payrolls	3
 Pays Banques	4459
 Pays Bas	13325
+Pays C4	17949
 Pays Développé	13653,15
 Pays Effectif Pourcentage Burkina Faso	10875
 Pays Eligibilité	16627
 Pays Indicateur	13414
+Pays Indice	17856
 Pays Membre De La BID Soumissionnaire	13818
 Pays Part	17485
 Pays Pauvre Très Endetté PVVIH	15685
@@ -1753,9 +1773,10 @@ Pays-Bas	5718,181,714,2278,4434,2257,1866
 Pays-Bas. La Convention Apostille	9086
 Pays-bas	16249
 Pays. Article	15382
+Pays. Ce	17896
 Pays. Il	10900
 Pays. Plus	13442
-Paysage	3242,4413,3310,979
+Paysage	3242,4413,3310,979,5952
 Paysages Prioritaires de Conservation	15500
 Paysans	14425
 Paysdel'Emprunteuretl	15399
@@ -1857,7 +1878,7 @@ RTGS Payment	12364
 RWANDA NATIONAL DIGITAL PAYMENT SYSTEM	15023
 Rajshri Jutton Gopy NATIONAL PAYMENT SYSTEMS	14730
 Rapid Payments Programme	9183,2757
-Rapport Pays	16328
+Rapport Pays	16328,1516
 Rapport du Pays Télécharger	15680
 Real-Time Payment Subsystem	10775
 Real-Time Payments	4848,7421
@@ -1902,7 +1923,9 @@ Review of Teacher Salary Payment System	11916
 Revio Pay	818,77
 Risk Management Executive Committee Eswatini Payment	11131
 Roadmap for Enhancing Cross-border Payments	4894
-Royaume des Pays-Bas	5531,187,11971
+Royaume des Pays Bas	17845
+Royaume des Pays Bas4	17845
+Royaume des Pays-Bas	5531,187,11971,375
 Royaume des Pays-Bas. Au-delà	17689
 Royaume des Pays-Bas. Une	17689
 Rt. Hon. Abuk Payiti Ayik	9585
@@ -2072,6 +2095,7 @@ Tax Payment Solutions	12711
 Tax Payments	16944
 Taxpayers Office NMTRS Ministry of Finance PAYE	12500
 Tech Malawian Fintech PayChangu Targets SME	5940
+Technological Forecasting and Social Change. Payment Aspect	17870
 Tefo Paya	14300
 Telegram Bot Pay-per-use Crisis Mapping QGIS	17157
 Tender Announcement for National Instant Payment System	5864
@@ -2081,6 +2105,7 @@ Terms of Payment. Bidders	14766,314
 Terra Payment Services	1415
 Terra Payment Services South Africa	8840
 TerraPay Payment Services	1419
+Territoriales. Trésorier Payeur Régional	17817
 Through Busha Pay	7465
 Through Visa Pay	8477
 Through the Pan-African Payment and Settlement System	9593
@@ -2103,9 +2128,12 @@ Tresor Pay	2597
 Trust Payment	14897
 Trésor Pay	4347,5646,944,45,742
 Trésor Pay. En	10913
+Trésorier Payeur Régional	17817
+Trésorier- Payeur	17861
 Two-Sided Digital Payments RCT	10277
 Types of Payments	14891
 U.S. Targets Brazil’s Payments Platform Pix	4970
+UEMOA PAYS	17833
 UEMOA Payé	10711
 UGANDA ETRANZACT SALAAM BANK PAYOUT ONLY	17242
 UK Finance Payment Markets Report	13452
@@ -2175,6 +2203,7 @@ WeChat Pay	9431,8036
 Web Payment Transactions	11955
 Whether BRICS Pay	7220
 Wholesale and Retail Payment Systems Country	6938
+Women MSMEs Farmers Youth Payments Credit	17870
 X CSIRT Upgraded NOC X Payment	13331
 Xoom de PayPal	12074
 Year Payment Fee Home Visit Registration	14741

@@ -32,7 +32,10 @@ ALPHALINK COMMUNITY MEDICAL CENTRE Data Controller	7167
 AMINA COMMUNITY HOSPITAL CENTRE LIMITED Data	7167
 ANIJA COMMUNITY MEDICAL HEALTHCARE Data Processor	7167
 ANNEXE AU COMMUNIQUE D’APPEL	13652
+ANNONCES ET COMMUNICATIONS	17829
+ANNONCES ET COMMUNICATIONS Article	17899
 ANNONCES ET COMMUNICATIONS BANQUE D’ALGERIE Situation	15456
+ANNONCES ET COMMUNICATIONS Secrétaire	17819,9
 ANNUAL INFORMATION AND COMMUNICATION TECHNOLOGY SECTOR	12395
 APC Assemblé Populaire CommunaleAPW Assemblé Populaire	15555
 APC Association for Progressive Communications	1556
@@ -43,7 +46,7 @@ ARPT Guinea The National Communications Authority	3986
 ASC Agent de Santé Communautaire BBS Burundy	13306
 ASSEMBLEES POPULAIRES COMMUNALES	15507
 ASYCUDA Community	16631
-AU CHAPITRE DES COMMUNICATIONS	9287,55
+AU CHAPITRE DES COMMUNICATIONS	9287,55,8649,56
 AU CHAPITRE DES COMMUNICATIONS Sur	8237
 AU TITRE DES COMMUNICATIONS DES MINISTRES	8269
 AUDA-NEPAD Communication and Advocacy Unit- Office	7795
@@ -71,6 +74,9 @@ Access Fund ZICTA Zambia Information and Communication	13346
 Accessible Digital Civic Participation for Blind Communities	14284
 Accra AI Community Centre	2209,4721,31,1737,1421
 Accuracy and Reliability The Strategy and Communication	11131,3
+Accès Communautaire CEA	17824
+Accès Communautaires	17824
+Accès Communautaires Mali	17824
 Act GCIS Government Communication and Information System	11188
 Act of Parliament Purpose Electronic Communications Security	396
 Action Communautaire	15712
@@ -99,12 +105,14 @@ Africa Community Advocacy Workshop	9760
 Africa Department of Communications and Digital Technologies	11135
 Africa Digital Public Infrastructure Community of Practice	8446
 Africa Economic Community	13440
+Africa Financial Community	17870
 Africa Frontline First and ECSA Health Community	15833
 Africa Internet Governance Community Engagement Call	9858
 Africa Internet Governance Community Engagement Session	9858
 Africa Mission Services Community Clinic Data	7167
 Africa Mobile Networks Communication Limited	3862
 Africa T20 Communiqué. Yet	7242
+Africa The Minister of Communication and New Information	17940
 Africa's Communication Risk Information	14674
 Africa. Communication Platforms External	10793
 Africa. During the Community Engagement	16553
@@ -139,8 +147,11 @@ Agency CMGs Community Microfinance Groups CMSA	7763
 Agency MoCT Ministry Communications	14965
 Agency for Regulation of Posts and Electronic Communications	5075
 Agenda CA Communications Authority of Kenya CAJ	7548
+Agent de Santé Communautaire	17882
 Agents Communautaires CHRD	14442
 Agents de Santé Communautaire	15712
+Agents de Santé Communautaires	17882
+Agents de Santé Communautaires ASC	18076
 Agents de Santé de Communautaire	15712
 Agriculture and Community Development	13368
 Aileen Mallya Communications Expert Eastern African	7967,3840,1803
@@ -184,20 +195,26 @@ Assemble Populaire Communale	15555
 Assemblé Populaire CommunalePAPW Président	15555
 Assemblée Populaire Communale	15555
 Assert Epistemic Media and Communication Rights Today	11028
+Assistance Communautaire Médicale Cadre Stratégique	17845
 Assistance SPV West Africa Regional Communications	15424
 Assistant Communications Manager	12856
 Assistant Director Communications	13532
 Assistant Director- Communications	13532
 Assistant Minister of Communications and Innovation	5446,7108
 Assoc. of Communications and Technology	4772
+Associate Communication Officer	18080
 Associate Jean-Yan Norbert Communcations Associate Sia	11332
 Associate Professor of Wireless Communication Networks	10383
 Association Nationale des Communes du Bénin	15292
+Association de Santé Communautaire	17945
 Association des Communes du Burundi	13518
+Association des Communicateurs Traditionnels	17819
 Association for Progressive Communications	522,514,201,422,212,6075,301,898,1950,1347
 Association for Progressive Communications and Rhizomatica	9261
 Association of Communications and Technology	4772,2733
+Associations de Santé Communautaire	17845
 Atlantis Sports Club Narraville Community Hall	13046
+Audiovisual Communication5	17970
 Augmentative and Alternative Communication	6832
 Authorisation ITU Mobile Alert Communication Management	1009
 Authorised Communications	11947
@@ -232,6 +249,7 @@ BRICS Information and Communication Technologies	10516
 BROADCASTING MARKET ANNUAL INFORMATION AND COMMUNICATION	12395
 BSD Broadcasting Signal Distributor CA Communications	6946
 BURA COMMUNICATIONS LIMITED Data Controller INST-6871787AB71	7167
+BUREAU DE COMMUNICATION	17972
 Baby Friendly Community Initiative	16867
 Bachelor of Information and Communications Technology	6832,6645
 Background Information and Communication Technology	3678,9658
@@ -245,7 +263,7 @@ Bank. The Zambia Refugee and Host Communities	1988
 Bank’s Stakeholder Engagement and Communication Plan	11131
 Banque Communautaire	13390
 Banyamulenge Community Finally	3245
-Base Communautaire	14622
+Base Communautaire	14622,3193
 Basic Information and Communication Technology	12700
 Behavioral Change Communication CBOs	16951
 Benin IP Information and Communications Technology IRR	15424
@@ -321,6 +339,7 @@ C- Communication G-	582
 C. MULTI-PURPOSE COMMUNITY PUBLIC ACCESS POINTS	14853
 C. Network and Communication Solutions	16975
 CAMPOST Poste Nationale du Cameroun CEEAC Communauté	10965
+CANAM Agent de Santé Communautaire Agence	17882
 CAR ARCEP Electronic Communication and Postal Services	969
 CAR. Communications	15658
 CB-ECD Home and Community Based Early Childhood	15138
@@ -366,6 +385,7 @@ CIS Commonwealth of Independent States CNSP Community	6946
 CM-CIR.S11 Communication Service	10721
 CM-CIR.S3 Communication	10721
 CM-CIR.S6 Communication Infrastructure	10721
+CNI Communauté Financière	17870
 CNPS. Communications	11855
 COA Certificate of Airworthiness COHO Community Oral	2775
 CODE DCI DENOMINATION COMMUNE INTERNATIONALE FORME	15930
@@ -382,9 +402,15 @@ COMMUNAUTE CHRETIENNE BETHESDA	15524
 COMMUNAUTE ECONOMIQUE ET MONETAIRE DE L'AFRIQUE	15482
 COMMUNAUTE ECONOMIQUE ET MONETAIRE DE UNION	15443
 COMMUNAUTE ECONOMIQUE ET REGLEMENT	15443
+COMMUNAUTÉ	17983
+COMMUNE II	17828
+COMMUNE III	17828
 COMMUNE INTERNATIONALE FORME DOSAGE CRITERES	15930
+COMMUNE IV	17828
 COMMUNE Section	13292
 COMMUNE Sexe CP1 CP2 CE1 CE2	15639
+COMMUNE V	17828
+COMMUNE VI	17828
 COMMUNES DE PREVENTION ET DE LUTTE	15456
 COMMUNES ENREGISTRER LES FAITS D'ETAT CIVIL	3381
 COMMUNES ET POSTES CONSULAIRES	3381
@@ -393,13 +419,15 @@ COMMUNICABLES ET NON COMMUNICABLES Section	113
 COMMUNICATE	14434
 COMMUNICATE IGAD REGIONAL HEALTH DATA SHARING	14434
 COMMUNICATIO Nombre	3396
-COMMUNICATION	4402,8528,2612,53,121,283,176,112,94
+COMMUNICATION	4402,8528,2612,53,121,283,176,112,94,1438,22,142
 COMMUNICATION AND INNOVATION	14783
 COMMUNICATION AND INNOVATION File Ref	14759,3
 COMMUNICATION AND PUBLIC RELATIONS	12358
 COMMUNICATION AND TECHNOLOGY ANNUAL PERFORMANCE REPORT	13126
 COMMUNICATION AND TECHNOLOGY PORTFOLIO COMMITTEE	13131
+COMMUNICATION AU PUBLIC PAR VOIE ELECTRONIQUE	17841
 COMMUNICATION AUDIOVISUEItE	15397
+COMMUNICATION AUDIOVISUELLE Article	17899
 COMMUNICATION AUTHORITY OF KENYA	6946
 COMMUNICATION AUTHORITY OF KENYA Acknowledgement	6946
 COMMUNICATION AUTHORITY OF KENYA Acronyms and Abbreviations	6946
@@ -428,10 +456,14 @@ COMMUNICATION AUTHORITY OF KENYA Visit	6946
 COMMUNICATION ArrÍtÈ	15410
 COMMUNICATION CHAPITRE PREMIER DU PTURALISME	15397
 COMMUNICATION Communication	16843
+COMMUNICATION DE DONNÉES AU FMI	18063
 COMMUNICATION DIGITAL ECONOMY	17228
 COMMUNICATION DIRECTORATE Press Release	4123,9506
+COMMUNICATION DIRECTORATE Press Release No. Date	17922
+COMMUNICATION DIRECTORATE URL	17922
 COMMUNICATION DU PREMIER MINISTRE Dans	8269
 COMMUNICATION ET ACCOMPAGNEMENT Objectif Cette	10711
+COMMUNICATION ET DES POSTES Les Opérateurs	18032
 COMMUNICATION ET GESTION DES CONNAISSANCES V.1	15722
 COMMUNICATION En	15643
 COMMUNICATION INFRASTRUCTURE	16883,1,2
@@ -482,6 +514,7 @@ COMMUNIQUE Adopted	5825,3835
 COMMUNIQUE CONJOINT	13669
 COMMUNIQUE DE PRESSE Le Comité Ministériel	16270
 COMMUNIQUE DE PRESSE N	13329
+COMMUNIQUE DU CONSEIL DES MINISTRES	17949,42,56
 COMMUNIQUE INCIDENT SUR CABLE SOUS MARIN	16399
 COMMUNIQUE OFFICIEL N	15970
 COMMUNIQUE Ratification	14733
@@ -490,6 +523,7 @@ COMMUNIQUÉ	12640
 COMMUNIQUÉ DE L'OFFICE TOGOLAIS DES RECETTES	9976
 COMMUNIQUÉ DE PRESSE	2874,13544
 COMMUNIQUÉ DE PRESSE CONJOINT SBPE ET	16125
+COMMUNIQUÉ DE PRESSE ET RAPPORT DES	18063
 COMMUNIQUÉ DE PRESSE La BEAC	10724
 COMMUNIQUÉ DU CONSEIL DES MINISTRES	7333
 COMMUNIQUÉ DU MINISTRE DE LA JUSTICE	8236
@@ -531,8 +565,11 @@ CRASA and Southern African Development Community	6052
 CRF NCS Communication	10721
 CSF Community Safety Forum CSIR Council	11188
 CSO Community	16848
+CULTURAL LIFE OF THE COMMUNITY	17970
 Cabo Verdean Government and Diplomatic Community	15825,1555
 Cadre Commun	15624
+Cadre Commun des Filets Sociaux	17906
+Cadre Réglementaire Commun Ouest- SA	18032
 Cameroon Communauté Financière Africaine	10793
 Cameroon's Crédit Communautaire	2130,2013
 Cameroun COMMUNICATION POUR LA PROMOTION	15999
@@ -553,7 +590,7 @@ Cedarview Communication	1805,14740
 Celeste Nell Acting Head of Communications Western	8564
 Cellplus Mobile Communications	11788
 Cellplus Mobile Communications Ltd	15471
-Cellule de Communication	5471,10547,132,185
+Cellule de Communication	5471,10547,132,185,1537
 CenterThe Joint Communiqué	8167
 Central African Backbone Program- APL3 Communications	15372
 Central African Economic and Monetary Community	969,859,550,484,4076,212,2029,747,149,163,603,1064,112,2190,1240,214,836,445,16,38
@@ -567,11 +604,15 @@ Central Rift Community Development Program Data	7167
 Central and Southern Africa Health Community	7321,1586
 Centre CAP Community Access Points ICT	14723
 Centre SADC Southern African Development Community	5533
+Centre de Santé Communautaire	17964
+Centre de Santé Communautaire CNN	17824
 Centre for Communications Governance NLU Delhi	17771
 Centre for Data and Digital Communications	15318
 Centre for Inclusive Growth Strive Community	11017
 Centre for Information and Communication Technologies	11439
 Centres Communautaires Numériques	9824
+Centres de Santé Communautaire	17882
+Centres de Santé Communautaires	17882
 Chairman Community Management Association	17099
 Chairperson of Guodong Network Communication Group	9938
 Change Communication SDG Sustainable Development Goal	16922
@@ -582,6 +623,7 @@ Chargée de Communication	16693
 Checklist Connect Communicate Combine Collaborate Contain	8603
 Checklist Connect Communicate Combine Collaborate Repository	8603
 Chef du Département des Infrastructures de Communication	8678
+Chef du Service Communication	17965
 Chef-lieu de Commune Position	13375
 Chief Communication Platforms Officer	9380
 Chief of Grafton Community	8820
@@ -628,6 +670,7 @@ Comités Communaux. TITRE	15383
 Comment Zambia Refugee and Host Community Project	1988
 Commercial and Community First Aid Trainings	12977
 Commercial and Community Forestry Departments.Verification	16843
+Commission Communication	18032
 Commission Independent Communications Wholesale	17212
 Commission of European Communities	17105
 Committee Secretary. ISSUED BY PARLIAMENT COMMUNICATIONS	10569
@@ -663,14 +706,16 @@ Communal Sector Third	9485
 Communaut	9616
 Communautai	15999
 Communautaire	10965,2440,2190,117
+Communautaire de Solidarité	17817
 Communautaires	10965,5034,21
-Communaute	16942
-Communauté	2377,59,1504,187,214,1399,209,149,14,344,729,771,43,67,6,151,106,28,158,376,15,267,4,438,616,35,137,1,416,21,8,9,17,1,89,123,856,1346,115,37,10,16,131,90,26,94,532,77,7,990,27,1,9,2,1,19,19,7,11,4,3,24,16,41,4,12,165,121,33,14,89,10,130,28,176,110,54,70,11,7,691,57
+Communaute	16942,1016
+Communauté	2377,59,1504,187,214,1399,209,149,14,344,729,771,43,67,6,151,106,28,158,376,15,267,4,438,616,35,137,1,416,21,8,9,17,1,89,123,856,1346,115,37,10,16,131,90,26,94,532,77,7,990,27,1,9,2,1,19,19,7,11,4,3,24,16,41,4,12,165,121,33,14,89,10,130,28,176,110,54,70,11,7,691,57,447,28,26,14,53
 Communauté Déterminants	15685
 Communauté EGonomique	37
-Communauté Economique	2863,9081,1385,2025,57,31,1,31,8,60,94,23,2,61,126,172,55,195,93,633
+Communauté Economique	2863,9081,1385,2025,57,31,1,31,8,60,94,23,2,61,126,172,55,195,93,633,832
 Communauté Economique Des Etats	15475
-Communauté Economique des Etats	37,15379,84,42,94,163,49,151,328,288,12,998
+Communauté Economique Régionale CITE	17830
+Communauté Economique des Etats	37,15379,84,42,94,163,49,151,328,288,12,998,203,2
 Communauté Est	13689
 Communauté Est Africaine	13293,121,38,16,118
 Communauté Est Africaine Organisation des Nations Unies	13442
@@ -681,7 +726,7 @@ Communauté Est- Africaine	13341
 Communauté Est-Africaine	13341,64,248
 Communauté EstAfricaine	13330
 Communauté EstAfricaine Pacte	13442
-Communauté Financière	15515
+Communauté Financière	15515,2327
 Communauté Financière Africaine	12,11510
 Communauté Financière Africaine CIST	737
 Communauté Financière Africaine GAB Guichet Automatique	4459
@@ -691,12 +736,13 @@ Communauté Internationale	13710
 Communauté Marocaine	8891
 Communauté Monétaire des Etats	15354
 Communauté Presbytérienne	15670
+Communauté Système	17882
 Communauté Urbaine	15441
 Communauté Urbaine de Bertoua	16593
 Communauté Urbaine de Bertoua. Ces	16593
 Communauté Urbaine de Douala. Au	15542
 Communauté Urbaine de Yaoundé	15599
-Communauté de Développement	14452
+Communauté de Développement	14452,3378
 Communauté de Pratiques	5260
 Communauté des Etats	8515,4937
 Communauté. Cette	11944
@@ -706,13 +752,14 @@ Communautés	8237,2,5570,616,1063,111,86,27,675,225
 Communautés Affectées	15658,73
 Communautés Durables L	15542
 Communautés Economiques Européennes CEI	13377
-Communautés Economiques Régionales	14459,1083,1085
+Communautés Economiques Régionales	14459,1083,1085,1203
 Communautés Hôtes	17323,1
 Communautés Urbaines	15542,57
 Communautés Urbaines.- LE PREMIER MINISTRE	15441
 Communautés Villageoises	16646
 Communautés des Etats Indépendants CELAB	13377
-Commune	3682,365,4529,3021,1695,83,15,15,1009,6,3,2,19,44,1,1,979,59,30,112,179,59,533,210,834
+CommunautésMali Auteur	17933
+Commune	3682,365,4529,3021,1695,83,15,15,1009,6,3,2,19,44,1,1,979,59,30,112,179,59,533,210,834,327,5,2,9,1,6,2,8,16,38,51
 Commune Ankazoambo District Ambositra Commune Antoetra	14425
 Commune Anosizato Ouest. Il	14489,1
 Commune Antanimandry District Antsirabe II	14425
@@ -721,9 +768,16 @@ Commune Effectif Pourcentage Ouagadougou Bobo-Dioulasso	10875
 Commune Favoriser	14488,1,1
 Commune Giheta	13390
 Commune I de Bamako	7728
-Commune II	7728
+Commune I du District	17817
+Commune I du District Eglise Protestante	17829
+Commune I du District de Bamako	17819
+Commune I du District de Bamako. ARTICLE	17819
+Commune II	7728,10091
+Commune II du District Bamako	17819
 Commune III	7728
+Commune III du District de Bamako	17828
 Commune IV	7728
+Commune IV du District de Bamako	17961
 Commune Inclus	14488,1,1
 Commune Kiganda	13518
 Commune Kirundo	13518
@@ -739,50 +793,75 @@ Commune Projet Wilaya	15690
 Commune Province Région Baisse	15715
 Commune Rurale	14488
 Commune Rurale Andoharanofotsy	14488
+Commune Rurale de Kalaban-Coro	17819
+Commune Rurale de Kirané- Kaniaga	17829
 Commune Rurale de Nioki	15670
 Commune Rurale de Nioki-Entreprise ELECTRILAC SAS Demande	15670
 Commune Rurale de Nioki-Entreprise ELECTRILAC SAS Traitement	15670
+Commune Rurale de Yognogo Sympathisants	17841
 Commune Ruyigi	13518
 Commune Soaindrana District Vohibato	14425
 Commune Traitement	10821
 Commune Tsianisiha District Tulear II	14425
 Commune Urbaine	11597
 Commune Urbaine de Casablanca	17448
+Commune Urbaine de Kidal	17819
+Commune Urbaine de Ségou. Suivant	17841
 Commune Urbaine de Tétouan	17448
-Commune V	7728
+Commune V	7728,10084,5,2
+Commune V du District de Bamako	17961
+Commune V du District de Bamako du ARTICLE	17819
+Commune VI	17819
 Commune VI de Bamako	7728
+Commune VI du District de Bamako	17819
+Commune VI du D’UN CABINET MEDICAL. District	17819
 Commune de Bertoua	16593
 Commune de Bertoua II. Cette	16593
 Commune de Brazzaville	15615
 Commune de Dolisie	15558,57
 Commune de Dolisie NGANGOYE	15558
+Commune de Fanga	17861
+Commune de Fanga Dagakané	17861
 Commune de Garoua Boulai	16593
 Commune de Kaloum	16681
 Commune de Kaloum Téléphone	16624
 Commune de Kinkala	15558
+Commune de Liberté Dembaya	17819
 Commune de Libreville. Au	15727
 Commune de Mossendjo	15615
 Commune de Mossendjo Vu la Constitution	15558
 Commune de Mouila	16001
 Commune de Nkayi	15615
 Commune de Nkolafamba	10975
+Commune de Nouakchott	18065
 Commune de Ouesso	15615
 Commune de Pointe-Noire	15615,350
 Commune de Pointe-Noire Décret	15558
 Commune de Pointe-Noire Département	15558
 Commune de Ratoma	16619,11,11,51
 Commune de Ratoma-Conakry	7977
-Commune. Article	13292
+Commune du District	17861
+Commune du District de Article	17861
+Commune. Article	13292,4569
 Commune. Elles	14444
 Commune. Investments	11366
 Commune. Section	14444
 Commune... Chinese-Rwandan Traditional Medicine Centre Opens	4942,664,283,454,183
-Communes	2624,1,6424,238,55,1622,2328,126,27,248,721,11,973,71,73,57,4,70,12,27,105,849
+Communes	2624,1,6424,238,55,1622,2328,126,27,248,721,11,973,71,73,57,4,70,12,27,105,849,1151,20,24,59,145,12
+Communes AD ADRAR	17902
 Communes Bubanza	13518
 Communes Des	10858
 Communes INDH	17513
+Communes V	17812
 Communes de Conakry	16666
 Communes de Côte	15712,224
+Communes de NOUAKCHOTT	18065
+Communes de Nouakhott	18065
+Communes du District	17827
+Communes du District de Bamako	17991
+Communes du District de Bamako. La Cour	17861
+Communes du District de Bamako. Nul	17861
+Communes du Mali	17842
 Communes. ARTICLE	15469
 Communes. Devant	15849
 Communes. En	13445
@@ -791,7 +870,7 @@ Communi	14775
 Communi-	2775
 Communic	1457
 Communica	582,17163
-Communicable	12151,262,563,498,1582,150,519,1246
+Communicable	12151,262,563,498,1582,150,519,1246,898
 Communicable Disease Control	16941
 Communicable Diseases	10780,2383,1551,1,2384
 Communicable Sexual and NCD	15206
@@ -806,33 +885,43 @@ Communicate Programme of Action	3264
 Communicate Respectively	13477
 Communicate Roadmap	8668
 Communicate Would	8603
+Communicateur	17861
 Communicateur Communication Information	16621
 Communicati	12972
 Communicating	775,7579,2663,1366,62,2589,1833,54,29,61
 Communicating and Coordinating Mobile	11017
 Communicating and Prospecting	13991
 Communicatio	16963
-Communication	232,4,159,23,18,112,34,154,1,6,5,97,54,41,18,12,28,180,36,17,33,20,1,1,1,15,31,265,84,26,70,162,22,26,6,28,27,7,40,138,58,19,31,34,66,72,4,38,18,121,43,9,28,26,7,32,27,21,43,114,53,18,7,1,100,81,21,11,3,8,8,14,26,62,14,40,14,78,29,18,26,61,44,13,30,142,18,4,50,20,66,1,30,3,1,77,130,17,1,12,248,254,20,4,13,86,61,73,1,50,35,107,25,6,85,8,50,71,116,51,18,87,98,103,13,45,150,39,2,25,91,36,11,132,127,43,51,155,13,68,89,40,206,52,17,29,41,6,86,36,81,8,40,120,58,1,15,6,97,72,56,8,5,32,28,24,15,8,116,37,49,57,14,32,7,68,84,13,10,55,5,108,3,121,98,16,50,37,1,17,64,69,3,31,111,46,2,144,43,35,50,21,32,72,29,162,16,13,38,124,131,23,9,1,4,39,20,17,17,4,9,54,46,4,16,26,3,4,1,20,1,1,1,6,3,4,7,30,14,1,1,11,42,11,22,1,16,24,4,4,24,8,3,5,12,3,25,2,56,164,16,7,105,21,8,22,91,15,8,161,2,23,25,19,8,23,1,30,142,73,40,12,48,27,10,106,13,3,52,7,3,27,112,13,1,14,5,38,18,161,39,21,1,5,28,34,3,11,40,3,194,11,11,1,1,17,10,38,2,14,8,2,9,13,15,32,32,5,23,56,48,18,2,11,41,7,2,3,58,1,18,65,18,47,13,30,19,82,112,79,25,26,2,12,8,77,11,6,32,61,13,1,35,22,3,33,27,56,1,10,2,2,18,43,46,26,8,23,25,3,106,9,3,63,62,17,25,98,38,20,8,2,6,11,8,2,7,5,7,1,4,1,2,5,1,14,1,7,4,6,8,2,5,1,8,8,4,14,4,5,5,5,9,13,25,3,1,7,1,7,4,1,17,10,1,7,4,10,10,11,2,4,5,1,15,11,8,2,5,11,19,12,20,30,15,3,11,2,1,67,15,3,31,1,31,13,2,23,10,52,76,20,8,25,20,23,2,50,4,43,8,3,1,7,106,3,6,101,10,1,1,2,1,1,2,3,1,7,7,5,10,30,17,8,4,10,6,11,5,2,83,7,4,5,5,32,2,20,19,9,8,1,34,39,2,80,7,51,30,73,6,57,1,40,78,6,13,33,69,3,18,21,58,3,7,107,1
+Communication	232,4,159,23,18,112,34,154,1,6,5,97,54,41,18,12,28,180,36,17,33,20,1,1,1,15,31,265,84,26,70,162,22,26,6,28,27,7,40,138,58,19,31,34,66,72,4,38,18,121,43,9,28,26,7,32,27,21,43,114,53,18,7,1,100,81,21,11,3,8,8,14,26,62,14,40,14,78,29,18,26,61,44,13,30,142,18,4,50,20,66,1,30,3,1,77,130,17,1,12,248,254,20,4,13,86,61,73,1,50,35,107,25,6,85,8,50,71,116,51,18,87,98,103,13,45,150,39,2,25,91,36,11,132,127,43,51,155,13,68,89,40,206,52,17,29,41,6,86,36,81,8,40,120,58,1,15,6,97,72,56,8,5,32,28,24,15,8,116,37,49,57,14,32,7,68,84,13,10,55,5,108,3,121,98,16,50,37,1,17,64,69,3,31,111,46,2,144,43,35,50,21,32,72,29,162,16,13,38,124,131,23,9,1,4,39,20,17,17,4,9,54,46,4,16,26,3,4,1,20,1,1,1,6,3,4,7,30,14,1,1,11,42,11,22,1,16,24,4,4,24,8,3,5,12,3,25,2,56,164,16,7,105,21,8,22,91,15,8,161,2,23,25,19,8,23,1,30,142,73,40,12,48,27,10,106,13,3,52,7,3,27,112,13,1,14,5,38,18,161,39,21,1,5,28,34,3,11,40,3,194,11,11,1,1,17,10,38,2,14,8,2,9,13,15,32,32,5,23,56,48,18,2,11,41,7,2,3,58,1,18,65,18,47,13,30,19,82,112,79,25,26,2,12,8,77,11,6,32,61,13,1,35,22,3,33,27,56,1,10,2,2,18,43,46,26,8,23,25,3,106,9,3,63,62,17,25,98,38,20,8,2,6,11,8,2,7,5,7,1,4,1,2,5,1,14,1,7,4,6,8,2,5,1,8,8,4,14,4,5,5,5,9,13,25,3,1,7,1,7,4,1,17,10,1,7,4,10,10,11,2,4,5,1,15,11,8,2,5,11,19,12,20,30,15,3,11,2,1,67,15,3,31,1,31,13,2,23,10,52,76,20,8,25,20,23,2,50,4,43,8,3,1,7,106,3,6,101,10,1,1,2,1,1,2,3,1,7,7,5,10,30,17,8,4,10,6,11,5,2,83,7,4,5,5,32,2,20,19,9,8,1,34,39,2,80,7,51,30,73,6,57,1,40,78,6,13,33,69,3,18,21,58,3,7,107,1,36,2,3,2,2,1,2,1,1,1,4,5,1,3,11,5,9,2,1,1,8,9,6,2,3,11,13,11,7,1,4,10,6,1,6,6,5,4,4,4,4,4,11,18,12,3,4,23,13,3
+Communication ADSL	17824
 Communication AFRINIC	14241
+Communication API	17902
 Communication Act	16968,232
+Communication Act.1.2.2.8	17842
 Communication Active	15738
 Communication Activity Matrix Activity Purpose Audience	15845
+Communication Agence	17856
 Communication All	395
 Communication And Public Relations	12358
-Communication Audiovisuelle	8891,7045,1549
+Communication Article	17899
+Communication Audiovisuelle	8891,7045,1549,485
 Communication Authority	4544
 Communication Authority of Kenya	12170,57
 Communication Authority of Kenya and Register of Companies	6394
 Communication Bill	7650,9550
 Communication Bill. Delivering	7650
 Communication Branch CP	14760
+Communication Bureau Régional	17856
 Communication C	7472
 Communication CAMNOS Cameroon Open School CAMTEL	15541
 Communication CEFORE Business Formalities Center CENI	10812
 Communication Cadre National de Dialogue Inter-	13442
 Communication Campaign IGA Income-Generating Activity IMF	11924
+Communication Cellule de Planification	17978
+Communication Centre	17829
 Communication Channel	17011
 Communication Channels and Tools The Ministry	15845
+Communication Comments	17962
 Communication Commission of Kenya	14460
 Communication Conseil National	13290
 Communication Coordinator	14511
@@ -871,9 +960,15 @@ Communication Langues	15467
 Communication Large Bande Nationale	15399
 Communication Le Président	16273
 Communication L’INSD	10874
+Communication MALIENNE DE TRANSMISSION ET	17841
 Communication MENC	15424
 Communication MNDPT	14573
+Communication MVNO	17824
+Communication Mali	17824
 Communication Management Plan	16943
+Communication Master Gestion	17829
+Communication Master Ingénierie Commerciale	17829
+Communication Master Journalisme	17829
 Communication Matrix	16943
 Communication Mauritius Yes National Broadband Policy	11529
 Communication Mfanfikile Dlamini Chief Operations Officer	11131
@@ -916,6 +1011,7 @@ Communication Présidentielle Afficher	15973,145,38,19
 Communication Présidentielle Audience	16156
 Communication Présidentielle Communiqué	15973,202
 Communication Présidentielle Infrastructures	16489
+Communication Recherche	17845
 Communication Redundancy Time Bound Measurable Target	1000
 Communication Regulators' Association of Southern Africa	26,1,1
 Communication Regulatory Authority of Namibia	2588,5039,623,4671,313
@@ -929,13 +1025,15 @@ Communication Routine	16848
 Communication SCD Systematic Country Diagnostic SEA	16952
 Communication Sciences	7886
 Communication Sciences and Techniques	11658
+Communication Secrétaire	17827
 Communication Sector	12253
 Communication Sector Information Sharing and Analysis Centre	5132
 Communication Service	9076,159
 Communication Service Project	35,9531
-Communication Services	11986,976
+Communication Services	11986,976,4908
 Communication Services Commercial	4972
 Communication Services. InstaDeep’s US	4972
+Communication Société Malienne de Transmission	17856
 Communication Sofiane Hemissi	7769
 Communication Sous	14537
 Communication Specialist	10870
@@ -949,8 +1047,10 @@ Communication Strategy Plan Advocacy	15604
 Communication Strategy and Action Plan	11986
 Communication Strategy and Strategy	11986
 Communication Support for Police Operations	17213
+Communication System	17962
 Communication Systems Administration	9437
 Communication TNFS	737
+Communication TVA	17824
 Communication TVA Taxe	10876
 Communication Technologies	1214,5822,6254
 Communication Technologies Authority	12132,2687,6
@@ -987,6 +1087,7 @@ Communication Transactions	13346
 Communication Transition	4895
 Communication Télécharger le Décret	15451
 Communication UA	15673,522
+Communication UE Union Européenne UNHCR Haut-Commissariat	17907
 Communication UIT	15512
 Communication URL	16273
 Communication USAID	14442
@@ -996,6 +1097,7 @@ Communication Unité de Gestion du Projet	14423
 Communication VIH	13306
 Communication VPG Sur	7541
 Communication Vision	15034
+Communication Vu la Constitution	17827
 Communication World Geodetic System Management	1009
 Communication and Account-	6938
 Communication and Advocacy Plan	15604
@@ -1012,7 +1114,7 @@ Communication and Digital Technologies	11220,3555,37
 Communication and Discourse Theory	11028
 Communication and Engagement	15034
 Communication and Engagement SO	6946
-Communication and External Relations Department	2807,7908,2714
+Communication and External Relations Department	2807,7908,2714,4511,126
 Communication and ICT	1814
 Communication and ICT. The AU Data Policy	961
 Communication and IEC	17099
@@ -1068,22 +1170,29 @@ Communication and Telecommunications	11517,3857
 Communication and Training	1988
 Communication and Transport Minister	3460
 Communication and Visibility	4167
+Communication de Mines	17982
 Communication de République	8168
 Communication des ASC	15500
 Communication des Postes	2514
 Communication du Burundi	13312,2,128
+Communication du Centre National	17830
+Communication du Plan	17873
 Communication du Registre National des Personnes Physiques	13835,11
 Communication du Taux Effectif Global	15901
 Communication du Togo	10698
 Communication for Leadership	16963
 Communication of Personal Data Breach To Data	12185
 Communication of Right	12201
+Communication-AGETIC Annonces	17965
+Communication-AGETIC URL	17966
 Communication-Related Information Act	7576
 Communication. AAM	17605
 Communication. Au	8269
 Communication. CAST	15639
 Communication. Dans	13379
-Communication. Elle	232
+Communication. E1t	17826
+Communication. Elle	232,17599
+Communication. En	18044
 Communication. Enfin	14315
 Communication. L'Autorité	11139
 Communication. L'application	15643
@@ -1095,8 +1204,9 @@ Communication. Nous	2514
 Communication. Quatre	2342
 Communication. Signalons	13379
 Communication. Tous	15637,1
+Communication. Une	17899
 Communication. What3words	13855
-Communications	11,26,199,200,151,374,200,39,31,376,1,1,1,1,1,1,25,106,57,36,26,159,244,4,68,69,169,14,46,22,74,32,12,32,67,21,1,1,1,1,1,1,143,22,279,12,5,33,59,14,88,34,42,32,3,2,34,14,94,13,70,32,19,15,26,6,36,30,152,188,33,253,60,136,9,199,8,11,8,59,6,1,1,1,9,1,4,10,37,29,233,3,76,137,36,4,8,14,183,78,188,198,25,62,104,4,57,1,16,30,20,17,22,156,231,3,47,25,27,27,48,8,79,40,67,2,58,1,1,99,10,106,61,29,1,175,1,2,5,115,16,11,20,110,27,56,31,16,67,2,3,61,15,7,44,21,68,12,7,13,185,41,30,44,116,18,14,64,68,137,28,50,319,58,98,18,42,6,53,16,20,13,33,35,149,60,9,90,33,53,13,29,13,21,42,13,4,7,1,189,82,96,9,49,56,235,146,102,27,50,16,34,230,25,118,36,7,5,19,49,9,14,33,12,117,45,1,10,2,4,3,1,1,6,2,1,3,5,1,1,5,5,2,2,7,15,7,1,3,4,151,13,39,2,5,61,65,57,142,44,116,258,145,222,104,8,73,63,31,40,61,4,51,40,97,178,52,74,3,155,141,49,26,88,40,1,9,19,93,6,40,7,4,22,62,60,33,25,19,20,1,4,13,34,107,115,113,2,66,84,33,29,61,27,44,231,9,15,6,6,1,58,4,294,19,121,56,257,12,10
+Communications	11,26,199,200,151,374,200,39,31,376,1,1,1,1,1,1,25,106,57,36,26,159,244,4,68,69,169,14,46,22,74,32,12,32,67,21,1,1,1,1,1,1,143,22,279,12,5,33,59,14,88,34,42,32,3,2,34,14,94,13,70,32,19,15,26,6,36,30,152,188,33,253,60,136,9,199,8,11,8,59,6,1,1,1,9,1,4,10,37,29,233,3,76,137,36,4,8,14,183,78,188,198,25,62,104,4,57,1,16,30,20,17,22,156,231,3,47,25,27,27,48,8,79,40,67,2,58,1,1,99,10,106,61,29,1,175,1,2,5,115,16,11,20,110,27,56,31,16,67,2,3,61,15,7,44,21,68,12,7,13,185,41,30,44,116,18,14,64,68,137,28,50,319,58,98,18,42,6,53,16,20,13,33,35,149,60,9,90,33,53,13,29,13,21,42,13,4,7,1,189,82,96,9,49,56,235,146,102,27,50,16,34,230,25,118,36,7,5,19,49,9,14,33,12,117,45,1,10,2,4,3,1,1,6,2,1,3,5,1,1,5,5,2,2,7,15,7,1,3,4,151,13,39,2,5,61,65,57,142,44,116,258,145,222,104,8,73,63,31,40,61,4,51,40,97,178,52,74,3,155,141,49,26,88,40,1,9,19,93,6,40,7,4,22,62,60,33,25,19,20,1,4,13,34,107,115,113,2,66,84,33,29,61,27,44,231,9,15,6,6,1,58,4,294,19,121,56,257,12,10,140,127,91
 Communications AU CAS Electronique CEMAC Post	15372
 Communications Act	1209,326,215,97,53,75,5,6,1122,2060,375,996,245,41,1,447,138,2,112,23,1115,554,1227,1770,18,104,123,300,4,143,11,2,2,61,20,46,25,159,229,729,484,214,452
 Communications Act No	5502,6685
@@ -1160,7 +1270,7 @@ Communications Focal Point	14146
 Communications Group	15342
 Communications Il	15474
 Communications Infrastructure	1000
-Communications Infrastructure Program	13341,2251
+Communications Infrastructure Program	13341,2251,2270
 Communications Infrastructure Project WURI West Africa	1264
 Communications Infrastructure Provider	14965
 Communications Infrastructure and Services Provider	14965
@@ -1286,6 +1396,7 @@ Communications and The Digital Economy	5134,1298
 Communications and The Digital Economy Ghana Ministry	11135
 Communications and The Digital Economy. Federal Republic	4528
 Communications and Transparency Measures	16857
+Communications and Visibility	17922
 Communications and Visibility Officer	16371
 Communications and Visibility Strategy	7609
 Communications and Water Infrastructure	13295
@@ -1294,6 +1405,7 @@ Communications for Development Volume	16043
 Communications. Le Conseil des Ministres	3326
 Communications. Main SDG	12843
 Communications. The BOCRA Board	12558
+Communications..................................p1040	17817
 CommunicationsCommunity Development Workers	11215
 Communicators Conference	13044
 Communico1ion	15397
@@ -1337,9 +1449,9 @@ Communique-20.03.2026.pdf Author	14799
 Communique-Final-22-mai-2026-final-1.pdf	16381
 Communique-Final-22-mai-2026-final-1.pdf Libreville	16381
 Communique-final-publiee-du-Conseil-du-29-janvier-2026-1.pdf	16099
-Communiquer	5022,5943,2341,503,728
+Communiquer	5022,5943,2341,503,728,3335,26,165
 Communiquer Implémenter Mesurer Ajuster Etat Final	748
-Communiqué	1650,906,43,281,671,273,303,530,1302,392,459,73,450,273,209,1076,1291,706,297,2260,175,40,29,219,453,64,112,152,134,791,140,16,81,122,64,62,9,4,6,38,19,95,177,71,59,47,699,1,141,44,18
+Communiqué	1650,906,43,281,671,273,303,530,1302,392,459,73,450,273,209,1076,1291,706,297,2260,175,40,29,219,453,64,112,152,134,791,140,16,81,122,64,62,9,4,6,38,19,95,177,71,59,47,699,1,141,44,18,466,96
 Communiqué Final du Conseil des Ministres	15973,28,117,38,19
 Communiqué Le Ministre des Affaires	13908
 Communiqué N	16319,33
@@ -1350,7 +1462,9 @@ Communiqué Wagon	13044,64
 Communiqué du Bureau du Commissaire Electoral	14813
 Communiqué du Centre	2377
 Communiqué du Conseil	2808,237,13412,1020,25
-Communiqué du Conseil des Ministres	12243
+Communiqué du Conseil des Ministres	12243,5652
+Communiqué du Conseil des Ministres Le Conseil des Ministres	17895
+Communiqué du Conseil des Ministres URL	17895
 Communiqué du Ministère	4376
 Communiqué du Ministère des Finances	4363
 Communiqué-Anticipation	16689
@@ -1365,7 +1479,7 @@ Communist	2518
 Communist Party	2518,2158,13126
 Communist Party. Sun and Yan	2518
 Communit	16963
-Communities	899,71,249,648,121,901,146,569,434,520,84,798,228,183,181,199,25,226,29,853,115,542,140,324,143,303,68,262,361,60,631,455,61,12,13,106,3,1,42,128,6,48,337,330,2,3,45,35,25,70,55,120,87,681,117,236,1,86,56,49,569,192,626,27,39,162,43,230,107,35,105,3,70,204,908,9,1,8,90,19,78,66,13,133,15
+Communities	899,71,249,648,121,901,146,569,434,520,84,798,228,183,181,199,25,226,29,853,115,542,140,324,143,303,68,262,361,60,631,455,61,12,13,106,3,1,42,128,6,48,337,330,2,3,45,35,25,70,55,120,87,681,117,236,1,86,56,49,569,192,626,27,39,162,43,230,107,35,105,3,70,204,908,9,1,8,90,19,78,66,13,133,15,687
 Communities Affected	15658,73
 Communities Agree	11857
 Communities Built and What the System Must	6947
@@ -1376,6 +1490,8 @@ Communities Document Language	13669
 Communities Document Type	13669
 Communities ESS	3604,7813,488,3753
 Communities Electronic Government Private Sector Development	16861
+Communities Indicator Name Baseline Closing Period	17962
+Communities Intermediate Results Indicators	17962
 Communities KICTANet	12210
 Communities Lead	6947
 Communities Media Material	7204
@@ -1384,11 +1500,12 @@ Communities Moving	17127
 Communities Not Currently Relevant ESS	11560
 Communities Page	16144
 Communities Project	1778,89,121
+Communities Project Management Contingent Emergency Response	17962
 Communities RTAs Regional Trade Agreements SADC	1243
 Communities Relevant Cultural Heritage Relevant Financial	10829
 Communities Said About GCTs Members	6947
 Communities and Refugees WTO World Trade Organization	10841
-Community	7,4,725,204,18,12,249,70,63,202,224,89,42,79,104,683,69,612,258,24,388,41,486,210,455,168,819,528,113,1,91,100,13,12,29,244,16,309,74,132,80,485,144,144,179,105,19,138,405,52,18,25,11,142,1,44,33,177,144,8,155,300,46,7,25,66,20,66,127,1,54,64,29,15,6,30,15,170,31,33,5,220,51,6,34,30,224,50,13,2,30,9,73,31,36,4,14,31,27,29,2,138,35,37,19,1,230,5,4,6,28,90,296,27,43,71,59,19,4,11,48,8,52,205,66,321,84,1,256,53,62,38,103,13,62,19,39,1,59,91,136,105,26,5,34,92,54,3,52,15,15,102,299,68,101,123,191,49,157,10,5,12,7,29,25,1,4,16,9,19,1,1,1,11,16,11,88,15,25,35,76,73,1,215,137
+Community	7,4,725,204,18,12,249,70,63,202,224,89,42,79,104,683,69,612,258,24,388,41,486,210,455,168,819,528,113,1,91,100,13,12,29,244,16,309,74,132,80,485,144,144,179,105,19,138,405,52,18,25,11,142,1,44,33,177,144,8,155,300,46,7,25,66,20,66,127,1,54,64,29,15,6,30,15,170,31,33,5,220,51,6,34,30,224,50,13,2,30,9,73,31,36,4,14,31,27,29,2,138,35,37,19,1,230,5,4,6,28,90,296,27,43,71,59,19,4,11,48,8,52,205,66,321,84,1,256,53,62,38,103,13,62,19,39,1,59,91,136,105,26,5,34,92,54,3,52,15,15,102,299,68,101,123,191,49,157,10,5,12,7,29,25,1,4,16,9,19,1,1,1,11,16,11,88,15,25,35,76,73,1,215,137,194,34,2,110,23
 Community AI	6948
 Community AI Councils	4528,7984
 Community ARTICLE	14409
@@ -1497,6 +1614,9 @@ Community Disaster Risk Reduction Committees	12977
 Community E&S Committees	13111
 Community EBM Electronic Billing Machine EBM	14985
 Community EU European Union F Forecast	10781,1646,2055
+Community EWS	17962
+Community Early	17962
+Community Early Warning Systems	17962
 Community Edition	17156
 Community Education Committee	14971
 Community Education and Training	6832
@@ -1555,10 +1675,12 @@ Community Hall	13046
 Community Harmony	13097
 Community Headquarters	13610,41,3995
 Community Health	1988,10425,2643,777,1138
+Community Health ASC	17882
 Community Health Assistant	16971
 Community Health Assistant CHV Community Health	16971
 Community Health Assistants	16971
 Community Health Care Officers	14742
+Community Health Centre	18016
 Community Health Centres	14742,31
 Community Health Centres DHU	11252
 Community Health Data Systems Africa Rockefeller	392
@@ -1590,7 +1712,7 @@ Community Health Worker	771
 Community Health Worker COPIL National Health	10829
 Community Health Worker CoD	12338
 Community Health Worker Programs Maturity Toolkit	12255
-Community Health Workers	4260,41,1051,2214,3959,61,3377,870,144,994
+Community Health Workers	4260,41,1051,2214,3959,61,3377,870,144,994,997
 Community Health Workers Year	4202,147
 Community Health Workersl Year U.S. Government	4301
 Community Health and GBV Objective. The Maïngo	10829
@@ -1645,6 +1767,7 @@ Community Livelihood and Agriculture Support CSA Civil	16970
 Community Livelihoods Through Energy Security Financing	5247
 Community Long Left Behind Musikavanhu	11656
 Community Management of Acute Regular	15206
+Community Manager	18039
 Community Manager Social Media Manager Responsable	15512
 Community Markets	12376
 Community Meeting	585,1193
@@ -1702,7 +1825,7 @@ Community Poverty Reduction Fund	12970
 Community Preparedness	17065
 Community Priorities and Recommendations	17099
 Community Process Evaluation Workshop Development	16867
-Community Projects	12965
+Community Projects	12965,5073
 Community Radio	8999
 Community Radio Consortium	10097
 Community Radio D50	17250
@@ -1793,6 +1916,7 @@ Community of Central Africa Centro Nacional de Emisión	16942
 Community of Central Africa DGGT Country Financial	15372
 Community of Central African States	16239
 Community of Central African States EFT	13388
+Community of Democracies	18016
 Community of Friends	11956
 Community of Latin American and Caribbean States	10038
 Community of New Jeshwang Welcome	16926
@@ -1874,7 +1998,8 @@ CommunityBased Voluntary Counselling	11134
 CommunitySafety	12752
 Communoulé	15429
 Communouté	15429
-Communément	17448
+Communément	17448,434
+Commutateur	17819
 Commutations Regulatory Authority	7741
 Commuters	17677
 Comores. Communication	13822
@@ -1919,6 +2044,7 @@ Control of Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,1
 Convergence Partners Communications Infrastructure Fund	53,557
 Cooperating Partners Communities	12978
 Cooperation and Communities For the Government of Cabo Verde	15363
+Coordination des Cellules de Communication	18032
 Copper Springs Community Health Center Data	7167
 Copy Link News Alerts WhatsApp Communications	5050,883,432
 Corporate Communication	6946,5987,27,216,7,5
@@ -1937,7 +2063,7 @@ Council of Arab Ministers of Communication and Information	2958,202,5374
 Council of Arab Ministers of Communications and Information	8645
 Council of Ministers' Communiqué No	10930
 Count Percentage Community	12413
-Cour Commune de Justice	15495
+Cour Commune de Justice	15495,2487
 Creda Communications ISBN	5872,5408
 Crimes Community Safety and Crime Prevention Protecting	14781
 Crisis Communications Plan	6946
@@ -1967,16 +2093,19 @@ DANS LE SOUS-SECTEUR DE LA COMMUNICATION	15999
 DCD Department of Community Development DPF Development	16952
 DE COMMUNICATION	13719,1686
 DE COMMUNICATION AUDIOVISUETTE Artlcle	15397
+DE COMMUNICATION PUBLIQUE CHAPITRE II	17829
+DE COMMUNICATION Section	17829
 DE COMMUNICATIONS ELECTRONIQUES	16047
 DE COMMUNICATIONS ELECTRONIQUES OUVERT AU PUBLIC	15885
 DE COMMUNICATIONS ELECTRONIQUES PARAGRAPHE	16047
 DE COMMUNICATIONS ETECTRONIQUES EN RAISON D'OBSTACTES	15429
 DE COMMUNICATIONS ETECTRONIQUES TITRE PREMIER DES	15429
-DE L'INFORMATION ET DE LA COMMUNICATION	13290,2347,1
+DE Communication	17899
+DE L'INFORMATION ET DE LA COMMUNICATION	13290,2347,1,2394
 DE L'ORGANISATION DE LA COMMUNE CHAPITRE	13292
 DE LA COMMUNAUTE NATIONALE A L'ETRANGER	4658
 DE LA COMMUNE Section	13292
-DE LA COMMUNICATION	7670,8617,94
+DE LA COMMUNICATION	7670,8617,94,1518,171
 DE LA COMMUNICATION AUDIOVISUELLE ET NUMERIQUE	13781
 DE LA COMMUNICATION Art	15643
 DE LA COMMUNICATION Cadre	15542
@@ -1996,12 +2125,15 @@ DES DISPOSITIONS COMMUNES	15727,65
 DES DISPOSITIONS COMMUNES AUX COMMUNICATIONS ELECTRONlfiUES	37
 DES DISPOSITIONS COMMUNES le Président	15405
 DES DÉFIS TECHNIQUES COMMUNS AUX PAYS	16421
+DES MODALITES DE LA COMMUNICATION DES	17814
 DES ORGANES DE LA COMMUNE Article	13292
 DES POSTES ET DES COMMUNICATIONS ELECTRONIQUES	3189,2637,2495,7355,266,175,170
 DES POSTES ET DES COMMUNICATIONS ELECTRONIQUESLe	7670
 DES REGISTRES COMMUNAUX DES PERSONNES PHYSIQUES	10813
 DES REGLES COMMUNES AUX	15792
+DES SCIENCES DE LA COMMUNICATION Vu	17861
 DEVELOPMENT COMMUNICATION STRATEGY	15796
+DEVELOPPEMENT DE LA COMMUNAUTE ECONOMIQUE DES	17828
 DEZZO COMMUNICATION LIMITED Data Controller INST-2379133D535	7167
 DEZZO COMMUNICATION LIMITED Data Processor INST-2379133D535	7167
 DHA Communication DHA	11986
@@ -2016,7 +2148,7 @@ DIRECTION DE LA COMMUNICATION	14537
 DIRECTION DES RESEAUX ET DES COMMUNICATIONS	998
 DIRECTION GENERALE DE LA COMMUNICATION Directeur	16175
 DISASTER RECOVERY FOR THE COMMUNICATIONS SECTOR	12538
-DISPOSITIONS COMMUNES	17485
+DISPOSITIONS COMMUNES	17485,376
 DISPOSITIONS COMMUNES A LA VENTE ET	17439
 DISPOSITIONS COMMUNES A L’IMPOT SUR	16047
 DISPOSITIONS COMMUNES A TOUS LES FOURNISSEURS	15444
@@ -2024,6 +2156,7 @@ DISPOSITIONS COMMUNES AUX ELECTIONS POLITIQUES	13721
 DISPOSITIONS COMMUNES AUX PRESTATAIRES DE SERVICE	10836,4799
 DISPOSITIONS COMMUNES Art	16344
 DISPOSITIONS COMMUNES Dispositions Communes	17485
+DISTRICT DE BAMAKO COMMUNE	17828
 DIVINE MERCY COMMUNITY BASED ORGANIZATION Data	7167
 DLI Communication of Performance Based Grants	17505
 DOSAGE CRITERES DE DISPENSATION DENOMINATION COMMUNE	15930
@@ -2031,7 +2164,9 @@ DPCS Djibouti Port Community Systems DPI	13861
 DRC Dedicated Short-Range Communication DRM Digital	6946
 DROIT DE COMMUNICATION Article L	15999
 DSEMA COMMUNICATIONS LIMITED Data Processor INST-1728958553B	7167
+DU BUREAU ANNONCES ET COMMUNICATIONS Présidente	17817
 DU DEVELOPPEMENT COMMUNAUTAIRE ET	13677
+DU MALI UNION AFRICAINE COMMUNAUTÉ ECONOMIQUE	17830
 DU NIGER COMMUNIQUE FINAL RENCONTRE MINISTERIELLE	1967
 DU PLAN COMMUNAL DE DEVELOPPEMENT COMMUNAUTAIRE	13292
 DU REGISTRE COMMUNAL Arlicle	10813
@@ -2100,6 +2235,7 @@ Development Community SIDS Small Islands Developing	14729
 Development Community Small	12453
 Development Community Special Drawing Rights Small	11131
 Development Partners EAC East African Community	14935
+Development Policy Operation ECOWAS Economic Community	17862
 Development SADC Southern African Development Community	12675
 Development of Desert Communities	17157
 Development of Desert Communities Target	17157
@@ -2126,6 +2262,7 @@ Digital Governance Project Community Workers	15658
 Digital Governance The Nigerian Communications Commission	9667
 Digital Public Infrastructure EMSP Economic Community	3604
 Digital Public Infrastructure and Community Inclusion	5700
+Digital Terrestrial Television ECOWAS Economic Community	17870
 Digital Transformation East African Community Headquarters	15221
 Digital Week. The Ministry of Communication	4859
 Digital and Community Information Centres	11791
@@ -2158,7 +2295,7 @@ Director of Networks and Electronic Communications Services	3805,1270
 Director of Somalia’s National Communications Authority	15120
 Director of Stakeholder Engagement and Communication	9415
 Directorate General of Transport and Commune IV	2597
-Directorate of Communication	16243
+Directorate of Communication	16243,1693
 Directorate of Community Health and Health Promotion	10940
 Directorate of Information and Communication	7794
 Directorate of Information and Communications Technology	12502
@@ -2174,10 +2311,12 @@ Displaced and Host Communities Project	11469
 Dissemination Policy G. Communication	12768
 Dissemination and Communication Strategy	12923
 Distribution of CSO Communities Active Case Search	17289
+Distribution of Communes	17870
 District Ambositra Commune Ilaka Centre District	14425
 District Isandra Commune Sahambavy District Lalangina	14425
 District and Community	12964,14
 District and Community Levels	16860
+Division Communication	17888
 Division for Disability and Marginalised Communities	13033
 Division of PTA and Community Engagement	16963
 Division of PTA and Community Engagement. Currently	16963
@@ -2192,7 +2331,9 @@ Down and Scattered.’ Community Priorities and Perceptions	6947
 Draft Directive Governing Electronic Communications	15825
 Draft Information and Communications Technology	13662
 Draft Satellite Communications Guidelines	17191
+Dramane SAMAKE Commission Communication	18032
 Driven Development CHW Community Health Worker	11525
+Drépanocytose Centre de Santé Communautaire Centre de Santé	17882
 DÉCISION COMMUNE	13300
 DÉPARTEMENT COMMUNICATION En	16714
 Défense Commune	643
@@ -2205,6 +2346,8 @@ Développement Durable Infrastructures Communication	4895
 Développement Economique Communautaire	13390
 Développement des Communes FAP	15475
 Développement des Communications Electroniques	15542
+D’EDUCATION ET DE COMMUNICATION POUR	17827
+D’ORIENTATION ET DE COMMUNICATION Professeur	17827
 E COMMUNAUTAIRE	13300
 E- Communication and Environmental Awareness	17157
 E-I14-A2 AI Investment Communication Platform Egypt	15713
@@ -2244,8 +2387,11 @@ ELECTRONIC COMMUNICATIONS AMENDMENT BILL	5872
 ELECTRONIC COMMUNICATIONS AND TRANSACTIONS ACT	11179,1353
 ELECTRONIC COMMUNICATIONS FACILITIES LEASING AND WHOLESALE	5872
 ELECTRONIC COMMUNICATIONSACT	7850
+ELIRE PAR COMMUNE COMMUNES POPULATIONS NOMBRE	17828
+ELIRE PAR COMMUNE MINISTRE DE LADMINISTRATION	17828
 ENGAGING IN COMMUNITIES	17127
 ENSIA Tech Community	16826
+ENVIRONMENT Community Support	17971
 ERS Director of Communications and Marketing	13000
 ESCCOM Eswatini Communications Commission	12911
 ESCCOM Manager of Consumer Fair and Communications Officer	14257
@@ -2332,8 +2478,9 @@ Economic Community of Central African States EESI	15574
 Economic Community of Central African States ESIA	15511
 Economic Community of Central African States ESO	10841
 Economic Community of Central African States European	9616
+Economic Community of West Africa States	17870
 Economic Community of West African State	16876
-Economic Community of West African States	7,19,1,1,933,282,21,513,1017,9,36,632,133,20,135,824,118,444,218,32,5,179,1,382,101,289,586,134,380,144,936,662,275,163,4,36,259,16,315,247,17,267,26,3,13,74,3,237,375,1,10,1,12,338,3,126,112,1718,293,296,695,234,11,50,56,11,130,204,319,45,12,42,351,3,79,154,44,34,16,2,10,36,39,14,89,60,35,12,14,89,28,1,14,13,365,47
+Economic Community of West African States	7,19,1,1,933,282,21,513,1017,9,36,632,133,20,135,824,118,444,218,32,5,179,1,382,101,289,586,134,380,144,936,662,275,163,4,36,259,16,315,247,17,267,26,3,13,74,3,237,375,1,10,1,12,338,3,126,112,1718,293,296,695,234,11,50,56,11,130,204,319,45,12,42,351,3,79,154,44,34,16,2,10,36,39,14,89,60,35,12,14,89,28,1,14,13,365,47,78,66,155
 Economic Community of West African States EFD	17011
 Economic Community of West African States EGDI	11545
 Economic Community of West African States EIB	17099
@@ -2353,6 +2500,7 @@ Economic and Monetary Community of Central Africa EA	15574
 Economic and Monetary Community of Central Africa IWP	17101
 Economic and Monetary Community of Central Africa. Central	8147
 Economics Editor Communications	14238
+Economie Solidaire Nord CNOS Communauté MSHP	17845
 Economy and Communications	15424
 EduTrac. Community	12037
 Education ICT Information and Communication Technologies IDE	12975
@@ -2464,10 +2612,12 @@ Eswatini Communications Commission Annual ICT Market	13052
 Eswatini Communications Infrastructure Corporation Bill	6539
 Eswatini Electronic Communications Act	8916
 Et De La Communication	1285,1838
+Etablissements MINISTERE DE LA COMMUNICATION	17899
 Etat COMMUNIQUE DE PRESSE N	13329,116
 Etat RCIP2 Regional Communications Infrastructure Program	13341
 Etat. II. COMMUNICATIONS ORALES II.1	15942
 Ethiopia Communications Commission	6946
+Ethiopia Information and Communication	17922
 Ethiopia The Ethiopian Communications Authority	3216
 Ethiopia's Communications Authority	8843
 Ethiopia's Government Communication Service	4560
@@ -2483,6 +2633,7 @@ European Community	15506,1337
 European Economic Community EEE Electrical and Electronic	2775
 European Electronic Communications Code	13512
 European Journal of Communication	8130
+Evénements Application Mobile Communiqués	17993,96
 Exchange ECPC Economic and Monetary Community of Central	10980
 Exclude Rural Communities and Young Women OWN	11677
 Executive Committees CEMAC Economic and Monetary Community	2775
@@ -2503,6 +2654,7 @@ Exécutif Communal	15469
 Eze The Federal Ministry of Communications	12066
 Ezulwini Community	12962
 F CFA. La Cellule de Communication du Ministère	6456,1224
+FACIAL DE COMMUNICATION VOIX MOBILE DES	18032
 FDA Commercial and Community Forestry Departments	16843
 FDA Community Forest Department	16843
 FDA Community Forestry	16843
@@ -2538,6 +2690,7 @@ Federal Ministry of Communications	381,1164,814,35,72,467,523,92,177,217,586,41,
 Federal Ministry of Communications and Digital Economy	2253,5624,3980
 Femme Conjoint PROVINCE COMMUNE Jeune Adulte	13390
 Femme Conjoint Province Commune Jeune Adulte	13390
+Femme Conseillère Communale	17829
 Fight Poverty Communities Push Government	16797
 Final Communiqué	8485,4955
 Finance Communications Section Section	17235
@@ -2545,6 +2698,7 @@ Finance and Communications	11722
 Finance and Zambia Refugee and Host Community Project	1988
 Finance for Rural Communities	11994
 Financement Communautaire FED	15475
+Finances des Entreprises Licence Pro Communication Marketing	17829
 Financial Community of Africa	11905,3610
 Financial Community of Africa TABLE OF CONTENTS	11549
 Financial Services Community	17119
@@ -2575,6 +2729,7 @@ Fulfilling Notification and Communication Requirements	12170
 Fund for Access and Universal Electronic Communications	4798
 Fund for Electronic Communications GO Gross Output	236
 Funk Swing Communication Srl Syneido Tagen	8530
+Fédération Nationale des Associations de Santé Communautaire	17882
 G GLOBAL SYSTEM FOR MOBILE COMMUNICATIONS	14879
 G Global System for Mobile Communications	16872
 G Spectrum Licences The National Communications	14699
@@ -2741,6 +2896,7 @@ Holding Company for Communications	4746
 Home Affairs Head of Communication Service	9076
 Home Affairs and External Communications	7845,6899,9,77,11,6
 Home Affairs and External Communications Ministry of Finance	14753
+Homme Conseiller Communal FC	17829
 Hong Kong. The US Federal Communications	4676
 Honourable Minister for Communication	9422
 Honourable Minister of Communication Technology	11129
@@ -2790,6 +2946,7 @@ ICT Information and Communication Technology ICT Policy	15164
 ICT Information and Communication Technology IT Information	11196
 ICT Information and Communications Technology Figure	582
 ICT Information and Communications Technology SAMRC South	396
+ICT Infrastructure Communications FY17	17962
 ICT Resources All the MoH Information and Communication	34
 ICT and Communication	1814
 ICT and Communications Units	17441
@@ -2860,6 +3017,7 @@ ISTEEBU Communications	13325
 ITP Communications	8563
 ITU Communications Development Office	14917
 Ibis Cotonou Communication	10821
+Ibrahim KATAO ANNONCES ET COMMUNICATIONS Secrétaire	17861
 Iklick Communications	3386,4639
 Immigration The East African Community	12164
 Immigration and Communications	10701
@@ -2883,7 +3041,7 @@ Independent Communications Authority of SouthAfrica	12325
 Index ICT Information and Communication Technologies MCTI	12376
 India Nigerian Communications National	17212
 India the Community Design Agency	10846
-Indian Community	11579,1930,2747,21,8,955
+Indian Community	11579,1930,2747,21,8,955,776
 Indian Community and Diaspora	15119
 Indicator Name End Target Community-based	11525
 Indicator Statistic ANNUAL INFORMATION AND COMMUNICATION	12395
@@ -2895,6 +3053,7 @@ Indigenous and Marginalized Communities	12926
 Individual Electronic Communications Network Service	2946,3945,15,3630,275,6913
 Individual Electronic Communications Network and Service	6152
 Individual Electronic Communications Service	6906,3905,6913
+Information AgTech and Communication Technologies Agency	17870
 Information And Communication Sierra Leonean Passenger	8115
 Information CAP Community Access Point CRAN	12973
 Information Communication	6832,10046
@@ -2926,14 +3085,15 @@ Information Technology and Communication Association	17437
 Information Technology and Social Communication	2411
 Information and Communica	17745
 Information and Communication	236,1751,788,5555,4065,50,501,107,1458,74,255,245
-Information and Communication Directorate	4123,7716,213,1057,371,149,2727,665
+Information and Communication Directorate	4123,7716,213,1057,371,149,2727,665,901
 Information and Communication Sector. Figure	3862
 Information and Communication Services	12942
 Information and Communication Syllabus	288,1699
 Information and Communication Technol-	13347
 Information and Communication Technolgies Act No	13346
-Information and Communication Technologies	21,1,373,1202,391,925,2175,978,1940,177,780,2554,723,120,71,22,188,204,73,3,40,21,313,40,10,1,309,119,204,748,49,61,43,40,16,146,68,214,48,102,108,58,110,190,54,210,629,51,19,7,654
+Information and Communication Technologies	21,1,373,1202,391,925,2175,978,1940,177,780,2554,723,120,71,22,188,204,73,3,40,21,313,40,10,1,309,119,204,748,49,61,43,40,16,146,68,214,48,102,108,58,110,190,54,210,629,51,19,7,654,267
 Information and Communication Technologies Act	22,761,1943,1,186,10392,1412,6,4,27,68
+Information and Communication Technologies Agency	17870
 Information and Communication Technologies Appeal Tribunal	14847
 Information and Communication Technologies Authority	783,6469,1966,812,1618,3066,1,8,6,13,12,20,6,13,26,3,3,11
 Information and Communication Technologies Commission	9970
@@ -2949,6 +3109,7 @@ Information and Communication Technology Commission	7515
 Information and Communication Technology Country	13731
 Information and Communication Technology Department	2958
 Information and Communication Technology Development	12982
+Information and Communication Technology For Développement	17824
 Information and Communication Technology House	11184
 Information and Communication Technology IE	12175
 Information and Communication Technology IFMIS	5244
@@ -2976,7 +3137,7 @@ Information and Communications Act	16839,28,19,38
 Information and Communications Act No	13403
 Information and Communications Directorate	16371
 Information and Communications Technol-	13347
-Information and Communications Technologies	22,373,862,5414,5705,1023,323,265,736,701,1428,435
+Information and Communications Technologies	22,373,862,5414,5705,1023,323,265,736,701,1428,435,575
 Information and Communications Technologies Act	2913
 Information and Communications Technology	236,160,206,189,879,148,828,1,88,2509,84,317,1,1186,239,782,423,759,746,376,1041,18,639,2,596,76,23,122,363,276,32,159,486,465,403,25,628,7,1327,27,103,457
 Information and Communications Technology Agency Act	16924
@@ -3000,11 +3161,13 @@ Information and Communications for Development	15424
 Information and Communications. Establish	13314
 Information and Communications. SETIC	13314
 Information de Communication. Autorisation	13781
+Infrastructure de Communications Régionale	17823
 Infrastructures de Communication	743
 Initial National Communication	3583,13531
 Inkhundla Community No. of Houses Family	12977
 Innovation and Communications	13902
 Innovendi Data Technologies and Communication Ltd	5291
+Inspecteur des Douanes. AU CHAPITRE DES COMMUNICATIONS	17949
 Institute of Communication Sciences and Techniques	3604
 Institute of Communications of Angola	718
 Institute of Social Communication	12201
@@ -3024,16 +3187,18 @@ Interception of Communications Act	736,222
 Interception of CommunicationsAct	972
 Intergenerational Community Dialogue	7990
 Interior and Local Communities	16958
+Intermédiaire Communication	18015
 Internal Communication	12358
 Internal Communication Framework	17364
 Internal and External Communication	10776
-International Communications	15372,52
+International Communications	15372,52,2438
 International Communications Union	13991,3027
 International Communications Union’s Radiocommunication	5245
 International Community	9660,3814,3398
 International Community For Ensuring Free	5390
 International Cooperation and Communities	11579
 International Journal of Communication	226,10802,4314
+International Licence Pro Marketing Communication Licence	17829
 Internet B- Communication	582
 Internet Community	585,8281
 Internet Community. Article	8866
@@ -3047,6 +3212,7 @@ InterviewsUnboxing BUSINESS TECHNOLOGY MEDIA COMMUNITY About	10735
 Introduction The Communications Authority of Kenya	12149
 Introduction The East African Community	14251
 Introduction The Joint Nigerian Communications Commission	6748
+Intérieur Extérieur Commun	18014
 Io Communicotion	15397
 Io Communicotion. Artlcle	15397
 Io Communicotion. Cette	15397
@@ -3072,6 +3238,7 @@ Journal of Communication	8130,330,2675
 Journal of Computer and Communications	9616
 Journal of Computer-Mediated Communication	8460
 Journalism and Mass Communication	4058,6085
+Journalistes-Réalisateurs BUREAU COMMUNICATION Commissaires	17899
 Judiciary and Uganda Communications Commission	10563
 KENYA INFORMATION AND COMMUNICATION REGULATIONS	15261
 KENYA INFORMATION AND COMMUNICATIONS ACT	9335
@@ -3081,6 +3248,7 @@ KICTANet Communications	17781
 KICTANet Dear KICTANet Community	10694
 KPIs. Community	17157
 KWS and WELCOME Community Wi-Fi	6133
+Kadidia PONS Communication	17828
 Kanto Kai Okanta The Botswana Communications	4709
 Karasburg Westerkim Community Hall	13046
 Kehemu Community Hall	13046
@@ -3124,6 +3292,8 @@ LA COMMUNICATION ArrÍtÈ	15410
 LA COMMUNICATION ET DES MEDIAS ADMINISTRATION	16099
 LA COMMUNICATION ET DES NOUVELLES TECHNOLOGIES	11597
 LAA BRINGS SERVICES CLOSER TO COMMUNITIES	12683
+LALIBERTE DE COMMUNICATION ELECTRONIQUE ELECTRONIQUE Article	17829
+LE MINISTRE DE LA COMMUNICATION	17899
 LEC Communications	12674
 LEGAL EFFECT OF ELECTRONIC COMMUNICATIONS	28
 LEGAL EFFECT OF ELECTRONIC COMMUNICATIONS Section	28
@@ -3162,6 +3332,7 @@ Legal and Community Forestry Departments	16843
 Legalising Surveillance and Interception of Communication	13313
 Les Comités Communaux de Promotion du Genre	15383
 Les Communautés	15938
+Les Communes de NOUAKCHOTT	18065
 Les Information and Communication Technologies	10030
 Les Provinces Les Projets Les Communes	13390
 Lesotho Communications Act	5744,7019
@@ -3210,6 +3381,7 @@ Luxury Minister of Communication	2339
 Ländliche Community Network Initiative	9082
 L’AFRIQUE DE L'OUEST ECONOMIC COMMUNITY	15374
 L’Autorité de Régulation des Communications Electroniques	4813
+L’INFORMATION ET DE LA COMMUNICATION	17841
 L’INFORMATION ET DE LA COMMUNICATION Directeur	16175
 L’Information and Communication Technologies	10030
 L’Instruction Commune	17485
@@ -3220,6 +3392,13 @@ MACRA Communications Quality of Services Regulations	14674
 MACRA Malawi Communications Regulatory Authority MDA	14674
 MAITRISE EN COMMUNICATION NUMERIQUE	15529
 MALAWI COMMUNICATIONS REGULATORY AUTHORITY MAREN	12253
+MALI ANNONCES ET COMMUNICATIONS ANNONCE LEGALESCP	18003
+MALI ANNONCES ET COMMUNICATIONS BAOBAB MALI	18032
+MALI ANNONCES ET COMMUNICATIONS Commission Femmes	18032
+MALI ANNONCES ET COMMUNICATIONS ECOBANK	17833
+MALI ANNONCES ET COMMUNICATIONS ETAT	17841
+MALI ANNONCES ET COMMUNICATIONS Trésorier	17982
+MALI Communication	17828
 MALICIOUS COMMUNICATIONS	11190
 MARKET STRUCTURE THE Communications Authority of Kenya	9335
 MCT Ministry of Communication Technologies MVNO Mobile	1818
@@ -3232,7 +3411,7 @@ MINISTER OF COMMUNICATIONS AND DIGITAL TECHNOLOGIES	5872
 MINISTER OF COMMUNICATIONS AND TECHNOLOGY	1694
 MINISTER OF INFORMATION AND COMMUNICATION	12913
 MINISTER The Minister of Communications	12656
-MINISTERE DE LA COMMUNICATION	7977,5931,1878,213
+MINISTERE DE LA COMMUNICATION	7977,5931,1878,213,1900,171
 MINISTERE DE LA COMMUNICATION ArrÍtÈ	15360
 MINISTERE DE LA COMMUNICATION Arrêté	15602
 MINISTERE DE LA COMMUNICATION BURKINA FASO	15454
@@ -3286,6 +3465,7 @@ Malawi Communications Regulatory Authority MDAs Ministries	12241,839,15
 Malawi Communications Regulatory Authority. The Malawi	7201
 Malawi Ministry of Information and Communications Technology	16823
 Mali's Minister of Communication	5348
+Maliens. Réseau de Communication du MSDS	18069
 Mamaila Community Network	8161
 Mamaila Community and Zuri Foundation	8161
 Management and Control of Communicable Diseases	14773
@@ -3312,6 +3492,9 @@ Masterplan East African Community Headquarters	11807
 Maternal Child and Community Health MCCOD	12338
 Mathewos T. Community	1219
 Matsoku Community Council	12697
+Mauritania AI Community World Economic Forum	18039
+Mauritanian Programmers Community Audencia Business School	18039
+Mauritanian Programmers Community Become	18039
 Mauritius COMMUNIQUÉ Responsible Use of Social Media	10134
 Mauritius. Community Projects	14805
 Mauritius. Information and Communication Technologies Act	14752
@@ -3351,7 +3534,7 @@ Minister for East African Community Affairs	3738
 Minister for Energy and Minister for Communications	16277
 Minister for Information and Communication Technology	10377
 Minister for Transport and Communication	2667
-Minister of Communication	2335,599,295,21,293,7,298,102,164,290,505,147,793,1120,259,1868,248,1034,202,552,519,4592,473,14,11
+Minister of Communication	2335,599,295,21,293,7,298,102,164,290,505,147,793,1120,259,1868,248,1034,202,552,519,4592,473,14,11,1129
 Minister of Communication Technologies	2375,203
 Minister of Communication Technologies Nizar Ben Neji	1688
 Minister of Communication Technologies. Organic Laws	1689
@@ -3359,7 +3542,7 @@ Minister of Communication and Digital Economy	16914
 Minister of Communication and Digital Economy Lamin	2255
 Minister of Communication and Information Technology	8884
 Minister of Communication and Media Evelyne Butoyi	12100
-Minister of Communication and New Information Technologies	3467
+Minister of Communication and New Information Technologies	3467,14473
 Minister of Communications	309,1386,589,188,57,280,16,46,128,943,45,252,3,993,10,701,1253,473,121,90,67,60,653,314,140,4,237,4,124,86,308,277,153,76,187,24,571,11,535,24,119,128,11,49,3075,216
 Minister of Communications and Digital Economy	1714,2037,1528,6391,5399,119
 Minister of Communications and Digital Economy By Fatou	17069
@@ -3395,7 +3578,7 @@ Ministries of Communications and Justice	11641
 Ministry Communications and Technology	14965
 Ministry for Information Communication Technology	958
 Ministry of Communicatio	16926
-Ministry of Communication	410,379,1419,131,924,115,572,176,11,354,145,70,521,49,87,161,325,49,34,14,202,207,25,326,14,462,632,301,156,93,5,2,239,186,339,209,12,66,458,535,703,14,622,1142,435,598,4,2,35,995,352,130,64,205,89,183,218,50,32,114,72,256,9
+Ministry of Communication	410,379,1419,131,924,115,572,176,11,354,145,70,521,49,87,161,325,49,34,14,202,207,25,326,14,462,632,301,156,93,5,2,239,186,339,209,12,66,458,535,703,14,622,1142,435,598,4,2,35,995,352,130,64,205,89,183,218,50,32,114,72,256,9,1131
 Ministry of Communication Digital Technology and Innovations	4126
 Ministry of Communication High Strong Maintain	16926
 Ministry of Communication MINEPAT	16041
@@ -3479,6 +3662,7 @@ Ministry of Transport and Communications of Zambia	193
 Ministère Affaires Etrangères Communauté Nationale Affaires	15948
 Ministère de Communication	13341
 Mitigation Measures Zambia Refugee and Host Community	1988
+Mme TRAORE Lalissa DIOUWARA Communication Finances	18032
 MoCDGEC Ministry of Community Development	11133
 MoCDTl Ministry of Communication	6936
 MoETE Community Education Increased	15604
@@ -3488,6 +3672,7 @@ Mobile Communication System	13331
 Mobile Communications	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Mobile Communications Associations GUE Guichet Unique	13312,2
 Mobile Communications GUP Guichet Unique Provincial	13331
+Mobile Communications HDI Human Development Index	17862
 Mobile Communications Networks	14780,45
 Mobile Cross Border Communities	14434
 Mode of Communicating	17149
@@ -3546,6 +3731,7 @@ NEC Approves New Communications Strategy	10345
 NETWORK AND COMMUNICATION INFRASTRUCTURE	14921
 NFIS COMMUNICATION STRATEGY	940
 NFIS Communication Strategy	940
+NGOs. Community	17906
 NIGCOMSAT Communications Satellite SUPEB Resources	11857
 NIGERIAN COMMUNICATION SECTOR	10721
 NIH Communications Manager	12053
@@ -3748,6 +3934,7 @@ OMS-Madagascar Maison Commune des Nations Unies Zone	14622
 OPEN DATA POLICY Federal Ministry of Communications	11854
 Oanob Community Hall	13046
 Objective IFR Information and Communication Technology IGF	3604
+Office Communicateur	17899
 Office Ministry of Communications and Technology. Mogadishu	2800
 Office of Communications	3942
 Officer CDO Community Development Officer CDP	12970
@@ -3762,6 +3949,7 @@ Open Source Community	985
 Open Source Community Africa	985
 Open Source Community Africa and All	11922
 Operational Inet Communications Limited Mob	3386
+Operations ECOWAS Economic Community of West African	17906
 Oponganda Pre-primary School Oshatotwa Community Centre	13046
 Optical Fibre Communications	958
 Optimize Community Health Worker Programmes. Geneva	1219
@@ -3790,6 +3978,7 @@ PDO Level Results International Communications	15372
 PLANTING SUSTAINABLE LAND MANAGEMENT COMMUNITY EMPOWERMENT	11586
 PMU Community	1988
 POLICY DIRECTION TO THE INDEPENDENT COMMUNICATIONS	11235
+PORTANT DISPOSITIONS COMMUNES D’APPLI-	17812
 PORTANT ORGANISATION DE L’ADMINISTRATION COMMUNALE	13292
 PORTANT REGULATION DES COMMUNICATIONS ELECTRONIQUES ET	37
 PORTFOLIO COMMITTEE ON COMMUNICATIONS	10569
@@ -3797,8 +3986,12 @@ POSTE A. SECTEUR DES COMMUNICATIONS ELECTRONIQUES	998
 PPCC’s Director of Communications	17037
 PRAZ Corporate Communications Manager	14295
 PREFERRED MODE OF COMMUNICATION	2709
+PRESTATAIRES DE SERVICES DE COMMUNICATION	17829
 PRESTATAIRES DE SERVICES DE COMMUNICATION AU	15643
+PRIVES DE COMMUNICATION AUDIOVISUELLE	17899
+PRIVES DE COMMUNICATION AUDIOVISUELLE LE MINISTRE	17899
 PROCEDURES DE COMMUNICATION ET DE SENSIBILISATION	14537
+PRODUCTEURS La Communauté	17983
 PROFIL ET COMPETENCES COMMUNICATION ET ACCOMPAGNEMENT	16646
 PROVINCE COMMUNE Jeune Adulte Jeune Adulte	13390
 PTA and Community Engagement Director Enhanced	16963
@@ -3813,12 +4006,14 @@ Pan African Information Communication Technology Association	12926
 Pan-African Data Sharing Community	17539
 Par Abdel Madjid ADELAKOUN Chargé de Communication	16267,30
 Paribas Communications Ltd	3862
+Paris AI Community	18039
 Park SADC Southern African Development Community	12962
 Parti Communiste Chinois	13405
 Partnership and Communication Action Plan SP Org	17101
 Partnerships and Communication	3758
 Past Decade. TWP Community of Practice	11006
 Patient Communication and Access	9855
+Patrimoine Communal	17864
 Pauvreté East Africa Community European Development	13290
 Per Communications Technology Minister Sofiene Hemissi	2475
 Percentage of Community Facilitator	16994
@@ -3892,12 +4087,14 @@ Privé Privé Commun Classiqu Satellite Bilingue	10847
 Privé Privé Communaut Total Privé	10847
 Produce Two Next-generation Communication Satellites Chindeu	12066
 Product ICT Information and Communication Technology IFR	15491
+Professional Community Health Workers	17921
 Professional Learning Communities	16162
 Professor of Information and Communication Studies	12325
 Program for Community Development	15663
 Programme for Accelerated Community Development	16973
 Proj. Southern African Development Community	13685
 Project Community Focal Person	17099,15
+Project Community Health Workers	17968
 Project Coordinator-Zambia Refugee and Host Communities	1778
 Project Eligibility Zambia Refugee and Host Community	1988
 Project and Communications Units	16943
@@ -3919,6 +4116,7 @@ Province Commune Homme Jeune Adulte Mixte	13390
 Province Commune Nombre	13390
 Province Commune Siège Nombre	13390
 Provision of Communication-related Information Act	11190
+Prélèvement Communautaire	17817
 Présidence Communes Fokontany PREA	14425
 Présidents des Assemblées Populaires Communales	15555
 Public Awareness and Communication	11791
@@ -3974,6 +4172,7 @@ ROLE IN THE PROJECT Community	16926
 ROLE OF COMMUNITIES OF TRUST	12574
 ROLE OF INFORMATION AND COMMUNICATIONS	11860
 ROT for Pointe Cotton Desalination Plant Community	14830
+RTA Réseau de Communication Santé SAE	17845
 RURAL COMMUNITIES	940
 Radio Communautaire Kivu	10097
 Radio Communication System	14738
@@ -4007,7 +4206,7 @@ Regional Communications Infrastructure Program	1264,12067,391
 Regional Communications Infrastructure Program Phase	107,11422,4024
 Regional Community Network of African Data Cross-border	961
 Regional Coordinator Economic Community of Central African	16854
-Regional Economic Communities	26,1,1,933,282,14,7,503,47,2309,1240,462,1113,857,540,859,61,354,867,673,134,1659,121,247,170,1006,1155,1316,596,192
+Regional Economic Communities	26,1,1,933,282,14,7,503,47,2309,1240,462,1113,857,540,859,61,354,867,673,134,1659,121,247,170,1006,1155,1316,596,192,177
 Regional Economic Communities and Commissions	1019
 Regional Economic Communities of West Africa	17075
 Regional Economic Communities of West and Central	15939
@@ -4120,6 +4319,8 @@ Régulation des Communications	998
 Régulation des Communications Electroniques	15424
 République. AU TITRE DE LA COMMUNICATION	8269
 Réseau Communautaire	13390
+Réseau Malien des Communicateurs	17982
+Réseau de Communication	17845
 Réseau des Médias Communautaires de Centrafrique	16492
 S Communes	15999
 S102. Southern African Development Community	9759
@@ -4145,6 +4346,7 @@ SEP. Communication Specialist	17099
 SERVICE COMMUNICATION ET RELATIONS PUBLIQUES	16718
 SERVICE COMMUNICATON	16671,2,9,18,13
 SERVICE DE COMMUNICATION ET DES RELATIONS	16678
+SERVICE DE COMMUNICATIONELECTRONIQUE AU PUBLIC Article	17829
 SERVICE DEFINITIONS Community-based IMCI Interventions	15206
 SERVICE UNIVERSET DES COMMUNICATIONS ELECTRONIQUES ET	15429
 SETA Media Information and Communication Technologies Sector	11196
@@ -4171,6 +4373,7 @@ Sante Communautaire	10940
 Sante Communications Enseignements Biens	16708
 Sante Transports Communications Loisirs	16708
 Santé Communautaire	10940,4772
+Santé Communautaire Diplôme Interuniversitaire Direction	17882
 Santé PACS Picture Archiving and Communication System	13306
 Santé Publique du Cameroun. Communiqué	16195
 Sarpo Community	17235
@@ -4219,7 +4422,7 @@ Senior Director for Public Policy and Communications	4906
 Senior Director of Public Policy and Communications	9820
 Serbia Yes Electronic Communications Development Strategy	11529
 Servers Zambia Refugee and Host Community Project	1988
-Service Communication	13799,1613,1273,24,4
+Service Communication	13799,1613,1273,24,4,1169
 Service Communication Conakry	16673
 Service ESMP Economic Community of West African	15424
 Service Foncier Communal	13375
@@ -4268,7 +4471,9 @@ Sociales ICT Information and Communication Technology ID	15415
 Society COMGOV Government Communication CTI Centre	13312,2
 Sociotechnical Imaginaries and Public Communication	11028
 Société Commune	13781
+Soins Essentiels Communautaires	17882
 Solicitor-General. The Zambia Refugee and Host Communities	1988
+Solidarité CNCREE-SDSPF Centres Communaux	17845
 Solly Malatsi. Communications	9935
 Somali Cabinet Approves Crisis Communications Protocol	15235
 Somali Communications Commission	14888
@@ -4282,6 +4487,7 @@ Somalia. The National Communications Authority	15120
 Somalia’s Minister of Communications	3405
 Somalia’s Minister of Communications and Technology	10451
 Somalia’s National Communications Authority	4555,2233,8332
+Sous Direction Santé Communautaire	17968
 South Africa's Association of Communications and Technology	7576
 South Africa's Electronic Communications Act	4244
 South Africa's Independent Communications Authority	10589
@@ -4412,15 +4618,18 @@ System for Mobile Communication IAP Internet Access	13295
 System for Mobile Communications Association GV-AP Virtual	15621
 System for Mobile Communications Association HBW Home-based	16876
 Systems ICT Information Communication Technology IMF	13359
+Sécurité Chef de Cellule CELLULE COMMUNICATION ET	17899
 T DES COMPETENCES DE LA COMMUNE	15348
 T Transport and Communication	13093
 T20 Communique Roadmaps.pdf	7242
 TAXES ENTRE LES COMMUNAUTÉS URBAINES ET	15999
 TB SAS Drive Primary Communication	9475
 TECH COMMUNITY	10852
+TECHNIQUE AU CABINET DU PREMIER Communicateur	17841
 TECHNOLOGIES ET COMMUNICATIONS	16617
 TECHNOLOGY SECTOR REPORT The Information and Communication	12395
 TERMS AND CONDITIONS OFINFORM-ATION AND COMMUNICATIONS	16839
+TION ET DE LA COMMUNICATION	17817
 TITLE Communicable	15206
 TITRE I DISPOSITIONS COMMUNES Article	15350
 TITRE II DE LA COMMUNAUTE EDUCATIVE	15360
@@ -4449,6 +4658,7 @@ Taxe Communautaire	16020
 Tech Accelerator. The Zambia Information and Communications	12376
 Technical Community Colleges	12917
 Technicians Information and Communications Technology	16266
+Technologies L’INFORMATION ET DE LA COMMUNICATION	18032
 Technology NCA National Communications Authority NCC	14965
 Telecommunications and Information Communications Technology	16872
 Telecoms Sector The Nigerian Communications Commission	4937
@@ -4497,7 +4707,7 @@ Treize Communes	13693
 Tribunal. Communications	11
 Trip Communication	13037
 Tripartite Communique	7452
-Tronc Commun	17473
+Tronc Commun	17473,390
 Tses Community Hall ERONGO REGION ARANDIS	13046
 Tulear II Commune Andamasiny Vineta	14425
 Tunisia's Ministry of Communication Technologies	2475
@@ -4595,6 +4805,7 @@ V. WORLD BANK GRIEVANCE REDRESS Communities	16896
 VDSs Formation of Community Committees and Social Welfare	16867
 VDT Communications	11506
 VDT Communications Ltd	3862,2887
+VI. COMMUNICATION	17873
 VI. COMMUNICATIONS Le Conseil des Ministres	11597
 VOIES DE COMMUNICATION ET DÉSENCLAVEMENT	17589
 VP Corporate Communications	14405
@@ -4619,6 +4830,8 @@ Vu le Communiqué	16645
 Vu le Communiqué N	16635,2,8,6
 Vukani Community Radio WS1	13461
 Vulnerable and Marginalized Communities	17114
+WARCIP West Africa Regional Communications Infrastructure	17862
+WEST AFRICA REGIONAL COMMUNICATIONS INFRASTRUCTURE PROGRAM	17862
 WEST AFRICAN FINANCIAL COMMUNITY FRANC	3604
 WFP. Refugees and Host Communities	12297
 WINDOW FOR HOST COMMUNITIES	11905,2191,1647
@@ -4629,7 +4842,8 @@ Web. Community	15512
 Wellness CDCU Communicable Disease Control Unit	14773
 West Africa Communications	5681
 West Africa Project ICT Information and Communication	17149
-West Africa Regional Communications Infrastructure Program	1264,12067
+West Africa Regional Communications Infrastructure	17862
+West Africa Regional Communications Infrastructure Program	1264,12067,4492
 West Africa Regional Communications Infrastructure Project	221,86,957,14286
 West Africa. The Economic Community of West	5351
 West African Regional Communications Infrastructure Program	3461
@@ -4637,6 +4851,7 @@ Western Africa. ECOWAS Regional Communications. Toward	1264
 White Book of Information and Communication Technologies	10765,10
 Wholesale Electronic Communications Infrastructure License	5277
 Wicknell Chivayo's IMC Communications	1817
+Wilaya Moughataa Communes ADRAR	17902
 Window for Host Communities	1867
 Window for Host Communities and Refugees	1867,8965,9,1064,1926,26,40,1846
 Window for Host Communities and Refugees ZRHCP Zambia	1867
@@ -4700,3 +4915,4 @@ Zanzibar Ministry of Communication	10392,6385
 Zealand’s Waihi Community Forum	11006
 Zimbabwe SADC Southern African Development Community	12512
 Zimbabwe’s Minister of Information Communication Technology	8483
+Zusammenarbeit PDC Plan de Développent Communal PIP	17864

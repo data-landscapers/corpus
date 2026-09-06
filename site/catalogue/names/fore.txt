@@ -370,7 +370,7 @@ FOREIGN-OWNED FARMLAND Continues	12912
 FOREIGN-OWNED FARMLAND Interventions	12912
 FOREIGNERS AND THOSE DRAWN UP	12338
 FOREIGNERS WHO ARE ETHIOPIAN BY BIRTH	14004
-FOREMI	2342
+FOREMI	2342,15525
 FOREN	17152
 FORENSIC AUDIT PUBLIC ENGAGEMENT PLATFORM CONTACTS	12557
 FORENSIC SCIENCE SERVICES	12984
@@ -392,7 +392,7 @@ FORETS	15936,163
 FORETS ET DE LA FAUNE	15999
 FOREWARD	16921
 FOREWARD BY THE PRIME MINISTER	14879
-FOREWORD	34,684,291,805,965,3653,506,4042,606,858,85,177,53,143,12,3,6,18,6,17,9,322,25,100,224,321,559,249,84,30,60,116,22,94,68,493,1230,146,22,97,132
+FOREWORD	34,684,291,805,965,3653,506,4042,606,858,85,177,53,143,12,3,6,18,6,17,9,322,25,100,224,321,559,249,84,30,60,116,22,94,68,493,1230,146,22,97,132,503
 FOREWORD AND EXECUTIVE SUMMARY SUMMARY	13420
 FOREWORD As Kenya	6432
 FOREWORD BY THE CHAIRPERSON	16968
@@ -468,11 +468,12 @@ Fonds Spécial de Développement Forestier	15999
 ForEveryChild	12764
 Fore'gn Aflairs and Regional Integration	11517
 Foreachattributepair	8606
-Forecast	236,500,507,188,715,2530,5481,2076,126,2377,2115,100,60,138,106
+Forecast	236,500,507,188,715,2530,5481,2076,126,2377,2115,100,60,138,106,629
 Forecast SSA	17011
 Forecast and data	1013,931
 Forecasted Collection	3583
 Forecasting	236,4064,7120,2347,3390
+Forecasting Center and ICT Upgrades	17962
 Forecasting Floods Google	1363
 Forecasting Programme	15916
 Forecasting Unit	13365
@@ -547,6 +548,7 @@ Foreign Direct Investment Agreements	12512
 Foreign Direct Investment Equatorial Guinea	16972
 Foreign Direct Investment Eritrea	14008
 Foreign Direct Investment FOI Freedom of Information	17139
+Foreign Direct Investment G2B	17870
 Foreign Direct Investment The Eritrean	14008
 Foreign Direct Investment and Development	11310
 Foreign Direct Investment. Agriculture	17216
@@ -560,7 +562,7 @@ Foreign Embassies and High Commissions	11956
 Foreign Embassy	17108
 Foreign Enterprise and Forced Divestment	11310
 Foreign Equity	14997
-Foreign Exchange	4896,2564,338,3333,5841,498
+Foreign Exchange	4896,2564,338,3333,5841,498,439,81
 Foreign Exchange Act	587,6353,820,5300
 Foreign Exchange Bureaus	17235
 Foreign Exchange Development	13122
@@ -606,7 +608,9 @@ Foreign MTN Rwandacell Plc	15136
 Foreign Minister	2667,13618,364
 Foreign Minister Dr. Badr Abdelatty	14657
 Foreign Minister Mr Phenyo Butale	12617
+Foreign Minister Mr. Abdoulaye Diop	18016
 Foreign Minister Mr. Artur Antonio da Silva	11579
+Foreign Minister Mr. Moctor Ouane	18016
 Foreign Minister Osman Saleh	13959
 Foreign Minister Samuel Ablakwa	2796
 Foreign Minister Sara Beysolow Nyanti	16961
@@ -614,6 +618,8 @@ Foreign Minister Sylvie Baipo Temon	4327
 Foreign Minister of Comoros H.E. Mr. Dhoihir	13744
 Foreign Minister of Gabon Mr. Pacome Moubele	16285
 Foreign Minister of Guinea	16649
+Foreign Minister of Mali	18016
+Foreign Minister of Mali Mr. Tiébilé Dramé	18016
 Foreign Minister of Oman	14808
 Foreign Ministers	13744,2905
 Foreign Ministers of Somalia	15119
@@ -631,7 +637,7 @@ Foreign Nationals	12342,682
 Foreign Nationals Committed	2775
 Foreign Nationals Registered	2775
 Foreign Office Consultation	17240,1
-Foreign Office Consultations	2667,9950,944,1,2675,40,54,318,591
+Foreign Office Consultations	2667,9950,944,1,2675,40,54,318,591,776
 Foreign Office Consultations India’s Economic Assistance	16275
 Foreign Office Consultations and Exemption	17240
 Foreign Operations	11005
@@ -710,7 +716,7 @@ Foreign-currency	10718,2164
 Foreign-exchange	10464,254,3489
 Foreign-owned	8458,2280,2174,4060
 Foreign...........................................36	13461
-ForeignRelation	13744,1640,780,92,19,10,364,591,1
+ForeignRelation	13744,1640,780,92,19,10,364,591,1,775
 Foreigner Card	16983
 Foreigner Cards	16983
 Foreigner ID	2770,9471,4742
@@ -899,6 +905,7 @@ Foreword Decentralization	13418
 Foreword Development	14946
 Foreword Doing	11332
 Foreword Dr. Pa Lamin Beyai	14125
+Foreword Draft	17884
 Foreword Every	13681
 Foreword From the Hon Deputy Minister	4528,7984
 Foreword From the Hon Minister	4528,7984
@@ -962,6 +969,7 @@ General Instruction for Foreign Exchange Transactions URL	17487
 German Federal Foreign Office	7794,1676,237
 German Federal Foreign Office Press Release	7794
 German Forestry Mission	17140
+Gestion des Ressources Forestières	17829
 Ghana Digital Economy Policy and Strategy Foreword	15629
 Ghana Forecasting	236
 Gill's Foreword	9025
@@ -1019,6 +1027,7 @@ Impact Based Forecasting	11283,1918
 Impact Based Forecasting and Early Warning Systems	13201
 Improvement and Dissemination of Forecasts	15916
 Increase Foreign Direct Investment	15679
+India-Mali Foreign Office Consultations	18016
 Indian Foreign Minister	14805
 Indicate Foreign Currency	13037
 Indicators of Staffing Needs FOREWORD	12729
@@ -1057,6 +1066,7 @@ Investment and Foreign Trade Minister Hassan El-Khatib	16004
 Investment and Foreign Trade Mohamed Farid	9828
 Investment of Arab and Foreign Funds and Free Zones	15473
 Ireland's Department of Foreign Affairs and Trade	11202,1,1,1,1,1,1
+Isolation Forest	17969
 Issuance of Foreigner Certificate	12227
 Issuance of Forest Law Enforcement	16511
 Japan. Liberia National Forest Definition Conference	17140
@@ -1141,6 +1151,7 @@ Mail The Ministry of Foreign Affairs Government	17025
 Maintenance of Digital Forensic Lab Tools Limited	6946
 Making Foreign Investment Safe	11310
 Malawian Minister of Foreign Affairs	12983
+Mali Digital Economy Diagnostic FOREWORD ABOUT	17870
 Managing Director of Forestry Development Authority	16857
 Mandatory Enrollment of All Citizens and Foreign Residents	16983
 Mandatory VAT Registration for Foreign Digital Service	14785
@@ -1165,6 +1176,7 @@ Minister for Europe and Foreign Affairs	3036
 Minister for Europe and Foreign Affairs Choose Africa	3036
 Minister for Foreign Affairs	16832,122
 Minister for Foreign Affairs and East African Cooperation	17809
+Minister for Foreign Affairs and International	18016
 Minister for Foreign Affairs and International Cooperation	7030
 Minister of Environment and Forestry Thabo Mofosi	8801
 Minister of Foreign Affairs	4345,7,1473,1627,740,1083,1292,1012,759,1224,421,770,21,19,570,129,672,111,2,555,409
@@ -1173,7 +1185,7 @@ Minister of Foreign Affairs Wang Yi	15272
 Minister of Foreign Affairs Yusuf Garaad Omar	15119
 Minister of Foreign Affairs and Cooperation	25,8729,3584,3119,818
 Minister of Foreign Affairs and International Co-operation	13387
-Minister of Foreign Affairs and International Cooperation	3256,911,5594,715,2680,1915
+Minister of Foreign Affairs and International Cooperation	3256,911,5594,715,2680,1915,2945
 Minister of Foreign Affairs and International Relations	12729,1469
 Minister of Foreign Affairs and International Trade	9761,3748,164
 Minister of Foreign Affairs and Minister of Post	4340
@@ -1221,7 +1233,7 @@ Ministry of Foreign Affairs Success Indicator Measurable	4528
 Ministry of Foreign Affairs The Republic	17025
 Ministry of Foreign Affairs and Gambian	16874
 Ministry of Foreign Affairs and International Affairs Review	1161
-Ministry of Foreign Affairs and International Cooperation	4849,5628,708,1153,634,240,228,1507,18,162,108,1723,9
+Ministry of Foreign Affairs and International Cooperation	4849,5628,708,1153,634,240,228,1507,18,162,108,1723,9,1049
 Ministry of Foreign Affairs and International Trade	395,5155,9186
 Ministry of Foreign Affairs and Regional Integration	15430
 Ministry of Foreign Affairs of Benin	15587
@@ -1266,6 +1278,7 @@ Mozambique Forest Investment Project	12137
 Mr. Alberto Menghini European Forestry Institute	16853
 Mr. Edward S. Kamara Forestry Development	16853
 Mr. Hubert Blom European Forestry Institute	16853
+Mr. Madani Traore. Malian Minister for Foreign	18016
 Mr. Myer Jargbah Forestry Development Authority	16853
 Mr. Thomas de Franqueville Forestry Development Authority	16853
 Ms. Marieke Wit Forestry Development Authority	16853
@@ -1388,6 +1401,7 @@ Policy Ministry of Foreign Affairs Ministry of Agriculture	17105
 Political Regimes and Inflows of Foreign Direct Investment	11310
 Population Forecast	10775
 Presidency Foreword	11237
+President Amadou Toumani Traore and Foreign Minister	18016
 Presidential Foreign Intervention Promotion Council	8632
 Presidential Foreign Investment Promotion Council	9400
 Prime Cabinet Secretary and Cabinet Secretary for Foreign	10313,4332
@@ -1468,6 +1482,8 @@ Russian Foreign Affairs Minister Sergey Lavrov	4127
 Rwanda Forensic Laboratory. Functions	12338
 Rwandan Ministry of Foreign Affairs	12338
 S. Foreign	7886
+SACI Flood Forecasting	17962
+SACI Flood Forecasting System	17962
 SADC Ministers of Foreign Affairs	9761,2879
 SADC Model Law Foreword Information	26,1,1
 SADC Model Law Part V Forensic	26
@@ -1568,6 +1584,7 @@ Tatiana Forero Pabón	6948
 Taï National Park and Cavally Classified Forest	17114
 Team Leader of FAO's Forest Monitoring and Data	17054
 Technological Forecasting and Social Change	226,4206,917,1929,1850,1590,1288
+Technological Forecasting and Social Change. Payment Aspect	17870
 Technologies Foreign Affairs Infrastructure Fund	7548
 Terms of Foreign Borrowing	3583
 Third Foreign Office Consultations	13562

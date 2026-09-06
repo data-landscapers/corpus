@@ -46,6 +46,7 @@ Acting Senior Programme Officer for ICT	318
 Address ICT	14897
 Administer ICT	10157
 Administration Through the ICT	11986
+Administration and ICT	17862
 Advance ICT	14752
 Advance ICT-Enabled Learning	12625
 Advanced Broadband ICT Infrastructure Development	16861
@@ -117,7 +118,7 @@ B. INITIATIVES AND PROJECTS FOR ICT	14853
 B. Use of ICT	14853
 B.4 The ICT	11863
 BACKGROUND TO THE ICT4D POLICY STATEMENT	16861
-BARRIERS ICT	12344,4596
+BARRIERS ICT	12344,4596,937
 BOCRA Empowers Schools With ICT Training	12625
 BOCRA Schools ICT Training	12625
 BRICS ICT Working Group Meeting	10516
@@ -233,6 +234,7 @@ Communication and ICT. The AU Data Policy	961
 Communications Matrix ICT Manager	16943
 Communications and ICT	12241
 Community ICT Centres	4126
+Concentrateur ICT4D	17824
 Conclusion Adopting ICT	12327
 Concours Huawei ICT	6235
 Conducive ICT	12453,892
@@ -396,8 +398,9 @@ E. Promoting National ICT Policy Objectives	16975
 E. Promotion of ICT Ecosystem Development	16975
 ECCAS ICT National Authorities	10892
 ECONOMIC PLANNING AND ICT Data Controller	7167
-ECOWAS ICT	16883
+ECOWAS ICT	16883,979
 ECOWAS ICT Development Framework	16975
+ECOWAS ICT Regulatory Watch	17870
 EICV7. ICT	12403
 ELEMENTS OF THE ICT4D POLICY	16861
 EMTEL. When ICTA	12132
@@ -521,6 +524,7 @@ Fit ICT	13295
 Fit of ICT	13295
 Folders- ICT	34
 Force ICT Department	14697
+Forecasting Center and ICT Upgrades	17962
 Foreword ICT	13991
 Formal ICT Benchmarking	12529
 Formal ICT-related	15164
@@ -530,6 +534,7 @@ Fourth National ICT Survey	10412
 Free Open Source Software ICT	13956
 Fund ICT	14856,2404
 Fund Provision of ICT	11857
+G5 Sahel ICT Committee	17870
 GAC ICT Digitalization Strategy	17364
 GAMBIA ICT FOR DEVELOPMENT	16861
 GAMBIA'S ICT INFRASTRUCTURE FOR BROADBAND	16884
@@ -636,6 +641,7 @@ Green ICT and E-Waste	16861
 Green ICT's Build	12453
 Green ICTs	12395
 Grenadines National ICT Strategy and Action Plan	11529
+Group GRM Grievance Redress Mechanism ICT	17962
 Guidelines and Performance. The Somalia ICT Price	15120
 Guidelines for ICT	6946
 Guidelines for ICT Projects	6946
@@ -758,6 +764,7 @@ ICT Association of Malawi	2231,33,1774,7591,612,818,21,15,17,4591
 ICT Association of Uganda	4235
 ICT Association of Zambia	13347
 ICT Association of Zambia Act No	13347
+ICT Attribute	17870
 ICT Authority	899,1843,171,1624,1469,127,145,3,151,74,121,814,39,68,2,1214,314,777,25,2382,2179,84,21,234,42,3,2774,156
 ICT Authority Bill	8382
 ICT Authority CEO	5108
@@ -848,13 +855,14 @@ ICT Develop	1161
 ICT Development	3382,2272,6599,5490
 ICT Development Agency	4132
 ICT Development Foreword	582
-ICT Development Index	582,213,1094,381,113,185,7,644,13,539,35,167,105,6686,660,1871,1541,536,75,33,32,1360,146,389,336
+ICT Development Index	582,213,1094,381,113,185,7,644,13,539,35,167,105,6686,660,1871,1541,536,75,33,32,1360,146,389,336,254
 ICT Development Index ICT Development Index	17743
 ICT Development Index IDI	14836
 ICT Development Index IGF	958
 ICT Development Index IGF Internet Government	13295
 ICT Development Index Ranking	11935
 ICT Development Index This Annex	17743
+ICT Development Indicator	17836
 ICT Development Report	13930,3518
 ICT Development Review Institutional	13295
 ICT Development and Management	12917
@@ -889,6 +897,7 @@ ICT Executive Office Addis Ababa	13994
 ICT Expo	12241,839,1799
 ICT Exports	236
 ICT FOR THE HOUSE	12971
+ICT FY17	17962
 ICT Facts and Figures	17018
 ICT Fair	12361
 ICT Fora	16861
@@ -943,7 +952,7 @@ ICT Implementation Regulation	961
 ICT Imports	236
 ICT Indicator Summary	15164
 ICT Indicators	582,3059,3305,4316,162,139,3908,2272
-ICT Indicators Database	1248,8511,2585,3167,106,1323
+ICT Indicators Database	1248,8511,2585,3167,106,1323,937,1
 ICT Indicators Database. Geneva	16872
 ICT Indicators Quarterly Bulletin	15604
 ICT Indicators Symposium	15471
@@ -966,6 +975,7 @@ ICT Information and Communications Technology SAMRC South	396
 ICT Infrastructure	1824,3519,6637,345,8,563,77,322,427,1007,131,19,285,260,56,236,243,908,5,11,85,10,43,229
 ICT Infrastructure Administration and Support	12961,76
 ICT Infrastructure Assessment	12961
+ICT Infrastructure Communications FY17	17962
 ICT Infrastructure Connectivity	1734
 ICT Infrastructure Development	16975
 ICT Infrastructure Development and Support	11230
@@ -992,6 +1002,7 @@ ICT Infrastructure and Services	13295,87,3565
 ICT Infrastructure and Services Deployment	16861
 ICT Infrastructure and Services Development of ICT Enabled	958
 ICT Infrastructure and Systems	15164
+ICT Infrastructure for Developing Countries	17836
 ICT Infrastructure for National Single Window System	17334
 ICT Initiative	12731,2985
 ICT Initiatives and Projects	14851
@@ -1122,6 +1133,7 @@ ICT Patent Filings	16975
 ICT Penetration	14739
 ICT Planning	12917
 ICT Planning GoM	12917
+ICT Plateforme Analyse	17941
 ICT Platform	13295
 ICT Policies	26,1,1,930,13893
 ICT Policy	958,200,7174,2794,403,1096,49,222,21,378,51,645,974,199,386,1300,22,4,7,1,86,5,212
@@ -1270,18 +1282,19 @@ ICT Service Management	12917
 ICT Service Provider Registration	16866
 ICT Service Providers	12917
 ICT Service-Wide	10063
-ICT Services	6946,6349
+ICT Services	6946,6349,4667
 ICT Services Effectiveness Strategic Objectives	6946
 ICT Services and Resources	14729
 ICT Services for Marginalised Groups	14964
 ICT Short Term Goals Ongoing	6133
-ICT Skills	12333
+ICT Skills	12333,5537
 ICT Skills Development	13295
 ICT Skills Development The Government of Zimbabwe	13295
 ICT Skills Enhancement	12917
 ICT Skills Enhancement Developing	12917
 ICT Society	6946
 ICT Solutions	15959
+ICT Solutions FY17	17962
 ICT Solutions Providers	16975
 ICT Solutions Providers ICT Solutions	16975
 ICT Source Of Funds	13548
@@ -1296,7 +1309,7 @@ ICT Standards and Guidelines	13662
 ICT Startups	6019
 ICT State Security	2117
 ICT State-Owned Entities	11230
-ICT Statistics	3476,3470,7558
+ICT Statistics	3476,3470,7558,3587
 ICT Statistics Tabular Report	13479
 ICT Statistics Year	14836
 ICT Statistics. My	16992
@@ -1417,6 +1430,7 @@ ICT and Open Data	11854
 ICT and Permanent Secretaries Committee	16885
 ICT and Postal Services	3583,499
 ICT and SETIC	13314
+ICT and STEM	17870
 ICT and STEM Equipment	14922
 ICT and Skills	12333
 ICT and Surveillance	15845
@@ -1470,6 +1484,7 @@ ICT-for-SMEs	11032
 ICT-governance	1601
 ICT-in-	15164
 ICT-in- System	15164
+ICT-in-Secondary-Education.pdf. Accessed	17870
 ICT-in-education	14851
 ICT-in-pedagogy	15164
 ICT-in-schools	5
@@ -1504,6 +1519,7 @@ ICT. Despite	9083
 ICT. E-LEARNING	14879
 ICT. Education	16942
 ICT. FINANCING Financing	15704
+ICT. Finally	17870
 ICT. Former Education Minister Mamadou Alpha	3900
 ICT. Government	14748
 ICT. Helios III	82
@@ -1540,7 +1556,7 @@ ICT4AD	236,1653,1834,403,3828,4720,2955
 ICT4AD ICT for Accelerated Development ISP Internet	4126
 ICT4AD Policy	236
 ICT4AD and Digital Financial Services	7954
-ICT4D	226,759,3105,1730,2,2099,2805,2200,1953,1982,11,12,2,37,1,826
+ICT4D	226,759,3105,1730,2,2099,2805,2200,1953,1982,11,12,2,37,1,826,74
 ICT4D Action Plan	16861
 ICT4D Action Plans	16861
 ICT4D Community Should Demand Now	5820
@@ -1741,6 +1757,7 @@ ITU ICT Development Indicator	14836
 ITU ICT Indicators	13312,2
 ITU ICT NOT for NOT for ITU ICT	15901
 ITU ICT Price Basket Questionnaire	15471
+ITU ICT Regulation Toolkit	17836
 ITU ICT-DF CHF	689
 ITU ICTPriceBaskets 2008-2024.xlsx	11563
 ITU ICTPriceBaskets Allowance 2024.xlsx	11563
@@ -1798,6 +1815,7 @@ Innovation. The ICT SEPs	13295
 Installation of ICT	14889
 Institute HIV Human Immunodeficiency Virus ICT	16852
 Institute of ICT Professionals Ghana	6936,3448
+Institution ICT	17870
 Institutional Arrangement The Ministry of ICT	395
 Institutional Structure of ICT Sections of MDAs	12917
 Institutions HSC Higher School Certificate ICT	14747
@@ -1973,9 +1991,10 @@ Malawi's ICT	12241
 Malawi's ICT Minister Henry Mussa	483
 Malawi’s ICT	3102,936,571,1902,6584
 Malaysia’s ICT	236
+Mali’s ICT and Postal Regulatory Authority	17870
 Manages ICT	16975
 Managing Director of Nifty ICT Solutions	7475
-Manual for Measuring ICT Access and Use	11424,920,1754,1519,1323
+Manual for Measuring ICT Access and Use	11424,920,1754,1519,1323,937,1
 Manufacturing Trade ICT Construction Finance Electricity	14985
 Mapping of Digital and ICT Roles and Demand for South	6832
 Market Observatory Framework The ICT Market	15120
@@ -2086,7 +2105,7 @@ Mozambique's ICT	4214,5220,2164
 Multi-year ICT	15164
 N National ICT	16872
 N4gXb6l8 ICT Authority Kenya	899
-NA ICT	3749,8595,3273
+NA ICT	3749,8595,3273,2260,1
 NATIONAL ICT POLICY	14879
 NATIONAL ICT VISION	12529
 NATIONAL PRIORITIES IN THE ICT ANDTELECOMMUNICATION	16872
@@ -2226,6 +2245,7 @@ Ombuds ICT Development	5642
 Ongoing ICT	14888
 Ongoing ICT Director Avoided	16963
 Operating Systems and Office Suite. ICT	12917
+Operationalize the ICT	17870
 Optimizing Africa's ICT Tax Regimes Towards	14674
 Organisation and ICT CFT	899
 Outsourced ICT	15164
@@ -2598,7 +2618,7 @@ Strategic ICT Leadership	12896
 Strategic Projects Director ICT	11857
 Strategies To Mitigate ICT Challenges	958
 Strategy and ICT Board Committee The Committee	15023
-Strategy for ICT	16872
+Strategy for ICT	16872,990
 Stratégie ICT	15670
 Streamline ICT	12453,892
 Strengthen Science and ICT Education	907
@@ -2682,6 +2702,7 @@ Tier III. ICT	1889
 Top ICT	7514,504,2791
 Towards Evidence-based ICT Policy and Regulation Volume	16872
 Tracking ICT Development Progress	12395
+Traditional ICT	17870
 Train ICT	1000,13879
 Training and R&D Basic ICT Infrastructure Axis	15679
 Transform ICT Ministry Operations	11828

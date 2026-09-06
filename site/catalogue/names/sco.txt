@@ -59,6 +59,7 @@ CLIKNET SCOPES LIMITED Data Processor INST-78578115E29	7167
 COMPUTATION OF SOVEREIGNTY SCORE The Contracting	3787
 Cabo Verde Score	11895
 Calculation of Weighted Scores	17114
+Cameron Scott and Thierno Mamadou Bocar Ba	17869
 Cantine Scolaire du Secondaire	10847
 Carte Scolaire	15673
 Carte Scolaire du MINESEC	15480
@@ -83,6 +84,7 @@ Civil Score	12376
 Colour Score Effect	15845
 Comité de Gestion Scolaire CP1	15673
 Comité de Gestion des Etablissements Scolaires CE1	10847
+Comités de Gestion Scolaires	17863
 Committee BISE Bureau for Innovation Scouting and Extension	14747
 Competitiveness Report Score	11863
 Compliance Requirements Compliance Level Score Regulations	5665
@@ -115,6 +117,9 @@ D. Scope of Works	14927
 DARE Index Score	11935
 DARE Index Score Summary	11935
 DARE Index Score. Peer Economic Development	11935
+DE BASE GESTION DE LA SCOLARITE	17941
+DE LA CARTE SCOLAIRE Article	17863
+DE4A High-Level Scorecard Indicators DE4A DE4A	17870
 DE4A Scorecard	15553
 DES STATISTIQUES SCOLAIRES	13478
 DES Scope Subsystem Type Categorical	7221
@@ -184,7 +189,7 @@ Evaluation des Acquis Scolaires	15673
 Evidence P6-19. Scope	12500
 Evolution du Score	15474
 Ewan Orlam Scoops	13044
-Exceeded Score Overall	16719
+Exceeded Score Overall	16719,1174
 Expanded Scope of Application	7391
 F DISPENSAIRE SCOLAIRE	13300
 FC score	10940
@@ -217,6 +222,7 @@ Functional Scope The SFMIS	15090
 Fuzzy Matching Algorithm Good Score	8604
 G A IN IMF-Adapted Readiness Score	17257
 GAC Score	17364
+GESTION DE LA SCOLARITE INFORMATIONS Sécurité	17941
 GII Score	10969,915,1,274,46,146
 GII Score Effectively	12355,132
 General Conditions of Contract and Scope	12400
@@ -226,6 +232,7 @@ Geographic Scope of Payment Systems	6938
 Geographic and Devolution Scope This Policy	7548
 Ghanzi Hospital le Scottish Hospital. Tse	12607
 Global Cybersecurity Index. Score	1878
+Global Freedom Score	17967
 Global Freedom Score18	15926
 Global Influence Score	4528,7984
 Goals SCORE Survey	15556
@@ -268,6 +275,7 @@ Increasing Deterioration Score	10837,1315,188
 Increasing Improvement Score	10837,1315,188
 Increasing Score	10835,3,130,902,16,466,1,135
 Independent Audits and Compliance Scorecards	6936
+Indicator Description Sheet. Scores	17869
 Indicator Indicator Capability Source Scoring Logic	15164
 Indicator Indicator Capability Source Variables Scoring	15164
 Indicator Value Threshold Goalpost Formula Score	17743
@@ -283,8 +291,12 @@ Justice and Anti-Corruption. Trend Measure Score	10838
 Kenya ERI Scores	12256
 Knowledge and ICT Innovation Average Score	15845
 LAA SCOOPS BEST GIS AWARD	12662
+Last Year's Score	17967
 Le Score	15474
+Le Taux Brut de Scolarisation	18014
+Le Taux Net de Scolarisation	18014
 Lecture Scoping Meeting Currency Retailers’ Training	11131
+Lighthouse Score	17902
 Limitations Scope	17127
 Lived Poverty Score Rank Public Procurement	11870
 Low Score	12376
@@ -480,6 +492,7 @@ SCOOP	16249
 SCOOP-CA	16249
 SCOOPAFRIQUE Aller	11673
 SCOOPS	16249
+SCOOPS.OMM	17829
 SCOOTER	13300
 SCOPA	11230
 SCOPA RESOLUTIONS	11218,6
@@ -514,9 +527,13 @@ SCOPE The Minimum Interoperability Standard	11184
 SCORE	10759,76,2,1,130,902,16,3,451,12,1,135,1370,764,934,169,1245,67,252
 SCORE Assessment	16892
 SCORE GLOBAL	10975
+SCORE MOYEN	18077
 SCORE SCORE SCORE SCORE SCORE SCORE	1243
 SCORE Wave	16970
 SCORECARD	14752
+SCORES OBTENUS DANS LE DOMAINE	17830
+SCORES OBTENUS DANS LE DOMAINE DES	17830
+SCORES OBTENUS DANS LE DOMAINE D’INTÉRÊT	17830
 SCoE State Committee	11860
 SDG Index Score Fig	15725
 SERVICE REQUIREMENT AND SCOPE	12681
@@ -529,12 +546,13 @@ SOUS-CATEGORIES SCORE RATING APPRECIATION Bilan Transparence	10975
 STRATEGIC PROGRAMMES SCORECARD	16968
 SUBSTANTIVE SCOPE AND JURISDICTIONAL ARCHITECTURE	3861
 SUMMARY SCORING TABLE Section Max Points	13381
+SYNTHÈSE DES SCORES OBTENUS PAR DOMAINE	17830
 SYSTEM SCORE	17127
 Safety and Anti-Corruption. Measure Score	12152
 Scale Data Level Score Data Characteristics	5665
 Scolaire	13390,2165,118
 Scolaires	16436
-Scolarisation	737,10110,3723
+Scolarisation	737,10110,3723,3444
 Scolarisation TIC Technologies	12
 Scolariser	16106
 Scolarité	13390,2178
@@ -674,23 +692,26 @@ Scopus	766,482,6542,881,566,7230,1306
 Scopus and PubMed	766
 Scopus and Web of Science	10323
 Scopus. Among	766
-Score	643,256,288,631,1578,391,1878,5094,76,2,1,36,38,56,1,7,276,618,4,7,3,1,1,1,1,1,6,3,37,217,2,5,1,3,42,36,99,1,5,5,1,1,2,21,111,1,90,339,268,115,25,33,662,1144,283,27,6,32,44,157,12,211,25,361,400,170,104,118,13,22,8,128
+Score	643,256,288,631,1578,391,1878,5094,76,2,1,36,38,56,1,7,276,618,4,7,3,1,1,1,1,1,6,3,37,217,2,5,1,3,42,36,99,1,5,5,1,1,2,21,111,1,90,339,268,115,25,33,662,1144,283,27,6,32,44,157,12,211,25,361,400,170,104,118,13,22,8,128,585,14,193
 Score Academic	13031
 Score Adoption Situation	17157
 Score Angola	5247
 Score Angola Ghana Kenya Mozambique	5247
 Score Angola’s Overall Governance	10759
 Score Anti-Corruption	11870,282,189,147
+Score Change	17967
 Score Country	10837,1052
 Score Demonstrate	11252
 Score Effectif Pourcent- Pourcent- Pourcent- Score	13300
 Score Extensive	11252
 Score Global	15936
 Score Infrastructure	10835,2
+Score Niveau	18077
 Score ODA	10835,3,130,902,16,466,1,135
 Score OMS	643
 Score Observation Nature	16322
 Score Participation	10968,1384
+Score Poids	18077
 Score Project Team Leader	13185
 Score Provincial EMR	11252
 Score RDQA Qualité	16722
@@ -726,7 +747,7 @@ Scorecard.pdf	6133
 Scored	6214,306,115,9083
 Scorefam	2826
 Scorefit	8125
-Scores	3391,2208,3005,2155,5,73,301,345,404,1,1,9,254,1,1,6,3,177,1,55,914,710,816,328,556,1172,222
+Scores	3391,2208,3005,2155,5,73,301,345,404,1,1,9,254,1,1,6,3,177,1,55,914,710,816,328,556,1172,222,755,13
 Scores Scores Summary Explanation of Assessment	12500
 Scores of Cameroons	2519
 Scoring	1243,2078,1813,1080,4550,1736,2423,1013

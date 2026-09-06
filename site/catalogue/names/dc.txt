@@ -1,6 +1,7 @@
 AC and DC	9123,2146
 ACB Connect App Launch of Malawi’s DCIMS	13080
 ACRONYMS ACRONYMS AI AIA API DCI	11156
+ADJ DCSSA	17841
 AU DCG	15495
 AVIS DE CONSULTATION OUVERTE DCOT N	9339
 Acronyms AOA BRSC CRA DCIM DEMs	16916
@@ -22,6 +23,7 @@ Automatic Teller Machine DCC	11955
 Avg DCEI	11867
 BCMS CAT CGI CT DADF DC	10858
 Bayobab DC	6232
+Boubacar DIALLO ADJ DCSSA SAMAKE ADC	17841
 Brazzaville National DC	1643
 Brazzaville and DC Social	15659
 Burkina Faso. DCRP	3469,12117,950
@@ -33,6 +35,7 @@ CEMAC Economic Barometer. Washington DC	16996
 CENTRO PROM. DCHOS. HUMAN. Y DEMOC.-Concepto	4209
 CGAP and DCI	11819
 CGSI PSDI DCEI GTEI Ilustração	11569
+CNR DAF DCT DTP Electricité	17866
 COC BENIN Référence S DCHSIMG 117735 Date	16395
 CODE DCI	15930
 CODE DCI DENOMINATION COMMUNE INTERNATIONALE FORME	15930
@@ -43,6 +46,7 @@ CRITERES DE DISPENSATION CODE DCI	15930
 CRITERES DE DISPENSATION CODE DCI Dispensé	15930
 CRVS Civil Registration and Vital Statistics DCI	11133
 CSPro Census and Survey Processing DCMQAD Directorate	16927
+CTA Alert Processing Center DCS National	17962
 Central Bank of Nigeria DCMS	11861
 Centre for Security Sector Governance DCD Department	17105
 Chief Technical Advisor DCICs District Census	16921
@@ -55,6 +59,7 @@ Communication DCC	15631
 Connectors for DC-application	11269
 Consulta Conta Corrente DCI	12018
 Contentieux DCRP	15639
+Contrôle Interne DCM Département	18015
 DADF DADF DLC DLC DLC DC	10858
 DBE and DCDT	11220
 DBK Development Bank of Kenya DCS Depository	2775
@@ -68,6 +73,7 @@ DC Byte Global Index Report	8263
 DC Construction	10861
 DC DC DC	10858
 DC DC DC DADF DI DC	10858
+DC DECL	17840
 DC DLC DC DC BCMS BCMS	10858
 DC Data Center DFI Development Finance	10861
 DC Data Centre DCIM Data Centre	13185
@@ -84,6 +90,12 @@ DC X X X X X	10858
 DC and AC	9123
 DC and DR. Networking	15080
 DC and Geneva. WBG	10841
+DC-COMPT	17840
+DC-DECL	17840
+DC-DECL-20	17840
+DC-DELAIS	17840
+DC-FAC	17840
+DC-FACT	17840
 DC-R&D AQCS WELDTEST Expert	16103
 DC-R&D AQCS WELDTEST Expert Abréviations	16103
 DC-based	2158,1324,3052,2589
@@ -219,6 +231,7 @@ DCP Jubilee Wiper DAP-K Other None	7869
 DCP. Such	7869
 DCPMI	12232
 DCPMIs	8078,100,4054
+DCPND	18077
 DCR. Customary	12337
 DCRNPI	1963,2294,579,2808,217,70
 DCRNPI Director General Simon Majur	1963
@@ -237,6 +250,7 @@ DCSS EMP	15901
 DCSS II	15744
 DCSS Sous-lieutenant GOUABA	15744
 DCSS Sous-lieutenant SOUSSA NGANONGO	15901
+DCSSA	17841
 DCSSI	5907
 DCSSIC	3465
 DCTCE	8670
@@ -289,12 +303,15 @@ Digital CFA DCFA	4127
 Digital Dividends. Washington DC	15474,19,1379
 Digital Economy Assessment. Washington DC	15474,19
 Digital Invest DCCP	954
+Direction Générale Adjoint Personnel Comptable DCDR	17873
 Direito de Audição Prévia DCG	11435
 District Sanitaire DC	15685
 Division of Legal Affairs and Litigation DCOOP	16041
 Draft Report. Washington DC	16996
+Développement DCPND Document Cadre	18077
 ECOBLOX’s DCIM and HPC	11502
 EU DC CoC	15149
+Eau DCT DAF	17866
 Emerging DCDT DHET	6832
 Equatorial Guinea. Washington DC	16996
 Every DCSP	6940
@@ -308,7 +325,8 @@ GTMI CGSI PSDI DCEI GTEI Global	16942
 Gachagua’s DCP	11084
 Global Economic Prospects. Washington DC	16996
 Green DC	4833
-H Street NW Washington DC	4214,6571,56,135,295,603,5,467,1049
+Guide DCM du Trésor Arrêté	18015
+H Street NW Washington DC	4214,6571,56,135,295,603,5,467,1049,4511
 IBTC DC Academy	11491
 ICASA and DCoG	5872
 Implement DCI	11133
@@ -326,14 +344,17 @@ Lefaso.net DCRP	4882
 Live DC	3184,1,1340,6256,1646
 L’essentiel des DCS	15685
 M UI CODE DCI DENOMINATION COMMUNE	15930
+M. Ousmane DOUMBIA ADJ DCSSA KONARE	17841
 MIT DCI	12048
 MTN Sifiso Dabengwa DC	6735
 MW DC	1227
 MW DC Campus	1639
 MW NA NA Live DC	10995
+Madikiba TRAORE CDT DCSSA DEMBELE ADC	17841
 Merges Paratus's DC3	1227
 Meteorological Services THE DCCMS Be Wise	13062
 MoFEA. DCIMS	13095
+Moussa KEITA CNE DCA DAGNIOKO ADJ	17841
 Ménages. Les DCS	15685
 NC4 and DCI	3983
 NW Washington DC	10976,898,472
@@ -358,6 +379,7 @@ Power Systems DC	9123
 Preenchimento Manual Consulta Conta Corrente DCI	12018
 Presidency and DCDT. The IDWG	11940
 Presidential Task DCDT	6832
+Preventing Violent Conflict. Washington DC	17870
 PreviousEkumfi DCE Urges Unity and Optimism	16076
 Publishes the Xalam DC	4428
 R Une Autorité Administrative Indépendante de DCP	15624
@@ -401,7 +423,7 @@ V DC	11269,3545
 Visa and MasterCard’s DCC	11955
 W DC	13387
 Wahington DC	5242
-Washington DC	445,577,16,688,588,118,153,11,212,2434,198,822,4452,49,102,36,63,21,164,109,314,295,14,1,603,299,840,1308,1,126,313,102,849,113,340,220,261
+Washington DC	445,577,16,688,588,118,153,11,212,2434,198,822,4452,49,102,36,63,21,164,109,314,295,14,1,603,299,840,1308,1,126,313,102,849,113,340,220,261,612,37
 Washington DC. Liscence	12255
 Washington DC. Support	16403
 Washington DC16	748

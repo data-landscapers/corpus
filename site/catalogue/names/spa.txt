@@ -35,7 +35,7 @@ Africans. Through the Africa-EU Space Partnership Programme	11283
 Africa’s Space Industry Makes Its Case	8275
 Agence Spatiale Africaine	16387
 Agence Spatiale Algérienne	15555
-Agence Spatiale Européenne	16026
+Agence Spatiale Européenne	16026,1905
 Agence Spatiale de Côte	12243
 Agency NSDI National Spatial Data Infrastructure	12907
 Airbus Defence and Space	2242,3163,16,17,735
@@ -105,6 +105,8 @@ Civil Society Space	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Close SpaceX	6467
 Closing Civic Space	1250
 Co-Working Spaces	14024
+Co-working Space	17853
+Co-working Spaces and Other Capacity Development Providers	17870
 Commission NSDF National Spatial Development Framework	11224
 Committee for Spatial Data	12899,8
 Common European Data Space for Cultural Heritage	7313
@@ -138,6 +140,8 @@ Director General of Angola's National Space Programme	6628
 Director General of Nigeria's National Space Research	6628
 Director of Space and Satellite Mohamed Abubakar Ismail	15167
 Disposal of Obsolete Spares	13420
+Données Spatiales	17983
+Données Spatiales Plan	17983
 Draft Regulations. SpaceX	6891
 Duplex Spacing Downlink	14780
 ELECTRONIC TRANSACTIONS AND CYBER SPACE MANAGEMENT	6671
@@ -221,6 +225,9 @@ Improved Maps and Spatial Data Infrastructure	16511
 Indian Space Research Organisation	16331
 Inet Spa	3609
 Information System Libyan Spatial Data Infrastructure	16916
+Infrastructure Nationale de Données Spatiales	17983
+Infrastructure Nationale des Données Spatiales	17983
+Infrastructure Nationale des Données Spatiales du Mali	17983
 Initiative of Libyan Spatial Data Infrastructure	16916
 Innovation Space. Currently	12786
 Institute SANSA South African National Space	5246
@@ -283,6 +290,7 @@ MOBILE SPA POUR L’EXPLOITATION D’UN RESEAU	15885
 MTN Spacetel	10856
 Making All Spaces Safe	6705
 Malawi Spatial Data Platform. Note	12212
+Mali. des Données Spatiales	17983
 Market Participation Without Local Integration SpaceX	6467
 Marthinus Spangenberg	12478
 Measures After Spate of Fatal Crashes Big	6077
@@ -339,6 +347,7 @@ National Statistical and Spatial Data System	16833,102,181,33
 National Statistical and Spatial Database InLiberia. Section	16833
 National Statistical and Spatial System	16833,283
 NationalStatistical and Spatial Database	16833
+Nationale des Données Spatiales	17983
 Nayuta Space	9816
 Need for Physical Space and Networking Assets	16876
 Netherlands and Spain	789
@@ -393,7 +402,7 @@ Policy Initiative Spain Yes Agenda Digital	11529
 Policy. Spatial	12907
 Politics and Space	11028,1199
 Port of Spain	13042
-Portugal and Spain	11536
+Portugal and Spain	11536,6326
 Portuguese Space Agency	6628
 Portuguese and Spanish	15641
 Post Hessequa Spatial Development Framework	11251
@@ -624,6 +633,7 @@ Spain. Ceesay	9020
 Spain. Global Inflation	11131
 Spain. ODPC Roundtable	2668
 Spain. Products	3898
+Spain. Sweden	17985
 Spain. The EU EOM	12201
 Spalding	4676
 Spam Alert	2556
@@ -681,7 +691,7 @@ Spartanforever1	12478
 Sparx Enterprise Architect	9124
 Spate	17043
 Spate Equipped Wetland	17043
-Spatial	7886,3350,39,711,347,574,343,1190,1153,122,644,557,80,47,217
+Spatial	7886,3350,39,711,347,574,343,1190,1153,122,644,557,80,47,217,610
 Spatial Action Areas NSDF National Spatial	11261
 Spatial Coverage Update Frequency License Access	15714
 Spatial Data	4653,12180
@@ -709,6 +719,7 @@ Spatial Planning and Land Use Management Act	9676,4997
 Spatial Planning and Technologies	7548
 Spatial Transformation	11231
 Spatial-abductive AI	7573
+Spatiales	17983
 Spatially	226,7946,5253
 Spatiotemporal	12611
 Spaza	8458
@@ -718,6 +729,7 @@ Star.ai Spatio-temporal Intelligence Technology Co	9238
 Starlink de SpaceX	11116
 Starlink de SpaceX. Dans	3551
 Strategic Objectives Establish Sectoral Data Spaces	14566
+Strengthening Civic Space and Promoting Human Rights	17950
 Strengthening SPACE	11916
 Sudan Spain Sri Lanka Sudan Suriname	11470
 Supporting the National Spatial Data Infrastructure	13998
@@ -761,6 +773,7 @@ University of Botswana Enters VR Space	5852
 Unlock Fiscal Space Paper22nd	7648
 Utilization of Space Services	1131
 Utilizing the Spatial Analyst	17157
+VUES SPATIALES DU PROJET ET IDENTIFICATION	17846
 Vandenberg Space Force Base	6897
 Vice-Presidente Executivo de Space Systems da Airbus	5405
 Vineetha Menon. Study of Spatial	14769

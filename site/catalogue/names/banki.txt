@@ -47,11 +47,11 @@ Banki Kuu SACCO Ltd Data Processor	7167
 Banki Nkuru	5958,8961,183
 Banki Nkurukwinjira	14919
 Banki. Ingingo	15102
-Bankily	4655,5001
+Bankily	4655,5001,8211
 Bankim Brahmbhatt	5033
-Banking	22,396,522,59,129,739,722,260,222,644,813,328,40,759,656,112,404,119,368,3,151,67,1,198,29,145,95,67,854,151,80,619,219,267,194,264,57,37,319,3,2,388,420,12,199,142,68,82,43,22,86,19,232,211,146,184,169,176,203,656,181,44,78,100,26,107,75,337,394,897,45,118,36,87,116,554
+Banking	22,396,522,59,129,739,722,260,222,644,813,328,40,759,656,112,404,119,368,3,151,67,1,198,29,145,95,67,854,151,80,619,219,267,194,264,57,37,319,3,2,388,420,12,199,142,68,82,43,22,86,19,232,211,146,184,169,176,203,656,181,44,78,100,26,107,75,337,394,897,45,118,36,87,116,554,44,48
 Banking Accounting	12231
-Banking Act	5687,1251,907,139,2148,2358,38,70,690,271,139,1019,2,8,1,2,79,10,9,3,3,7,2
+Banking Act	5687,1251,907,139,2148,2358,38,70,690,271,139,1019,2,8,1,2,79,10,9,3,3,7,2,3027
 Banking Act Through Urban Saving Schemes	12297
 Banking Act. Reinforced Steel Contractors Zimbabwe	13698
 Banking Activities and Financing of Economies Department	10967
@@ -120,6 +120,7 @@ Banking Services Achieve	11131
 Banking Services Labour Relations Secure Employment	10759,78,1315,188
 Banking Services Property Rights	10835,3,130,902,16,466,1,135
 Banking Sidney Jele Legal	11131,3
+Banking Soundness Indicators	17909,81
 Banking Strategic	14997
 Banking Subscribers	4517
 Banking Supervision	12444,2400,2392
@@ -234,6 +235,7 @@ Expand Digital Banking Licenses	4848
 Expand Mobile Banking Services	7386
 Expansion of Banking Services	17235
 Expansion of Banking Services The CBL	17235
+FCFA Banking	17833
 FINANCIAL SYSTEM BANKING SECTOR	15023
 FUTURE OF BANKING	2275
 Fast Payments Module. Open Banking	11131
@@ -267,7 +269,8 @@ Interest-Free Banking	10025
 International Banking Finance Institute	17235
 International Finance Corporation. Inclusive Banking	12231
 International Finance and Banking Law	12951
-Internet Banking	4695,7260,332,765,980,787,2088
+Internet Banking	4695,7260,332,765,980,787,2088,926
+Internet Banking Carte	17833
 Internet Banking Interbank Large-Value	6938
 Internet Banking Mobile	15023
 Internet Banking PSPs	13314

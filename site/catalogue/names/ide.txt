@@ -1,6 +1,8 @@
 A. DIAGNOSTIC ET IDENTIFICATION DES NUISIBLES	15999
 A. Identity	12525
 A. National Identity Card Unit	14716
+A.1.4.1 Identification	17882
+A.1.4.2 Identification	17882
 A1.1.1.10.NA Identifier	10858
 A1.1.1.6.NA Identifier	10858
 A1.1.1.8.NA Identifier	10858
@@ -418,9 +420,11 @@ Digital Identification System	12146,82,39
 Digital Identification System and Demographic Data	12146
 Digital Identification Uniqe	12146
 Digital Identification and Rights Realisation	6512
+Digital Identification and Trust	17870
+Digital Identification and Trust Services Mali	17870
 Digital Identification for Development	2253
 Digital Identities	15641
-Digital Identity	364,416,1,1,936,221,1452,203,147,869,197,1055,262,72,191,125,24,608,425,1031,1032,106,913,168,3,18,16,390,694,46,11,212,2,148,73,141,877,984,318,67,596,226
+Digital Identity	364,416,1,1,936,221,1452,203,147,869,197,1055,262,72,191,125,24,608,425,1031,1032,106,913,168,3,18,16,390,694,46,11,212,2,148,73,141,877,984,318,67,596,226,2219,19
 Digital Identity APPENDIX First Edition	10819
 Digital Identity AUTHORISATION REGULATED Brith Certificate	10819
 Digital Identity Alignment Alignment	10819
@@ -760,6 +764,7 @@ ID4D Identification for Development LIC Low-income	10714
 IDA International Development Association IDEA Inclusive	6539
 IDAS Electronic Identification	12663
 IDE Investissement	7655
+IDE Investissements Directs Etrangers MA Ministère	17873
 IDE Lecture Theatre	12361
 IDE Une	8891
 IDE-CV	11862,5
@@ -795,6 +800,7 @@ IDEIA	15305,2256
 IDEMIA	1864,488,1015,57,1585,6106,867
 IDEMOC	2989,1664
 IDEMOC National Infrastructure for Spatial Data INAGE	4214
+IDEN Inspection	17885
 IDENCE DE LA REPUB	15999
 IDENCÈD	15999
 IDENTIC	16942,467
@@ -885,7 +891,7 @@ Ideal Grip Gloves	1988
 Ideal for ISPs	13704
 Idealist	38
 Idealizar	11381
-Ideally	544,222,8357,757,895,1,80,120,881,17,7,26,439,21,46,882,386,1375,368,1443,56,19,315
+Ideally	544,222,8357,757,895,1,80,120,881,17,7,26,439,21,46,882,386,1375,368,1443,56,19,315,613
 Ideas	4964,736,686,2587,5777,2620
 Ideas-Fuerza	1701
 Ideation	9136
@@ -911,6 +917,7 @@ Idemia and Thales	2864
 Idemia. Cependant	3978
 Idemia. Il	5078,39,6,1267
 Idenau	15542
+Idenfier	17845
 Identi	12214
 Identi-	14897
 Identic and Dreams Hub	16942
@@ -933,19 +940,21 @@ Identifi- Solution	15583
 Identifiable	27,1447,10383,1147,1437,2162
 Identifiable Information PPPs Public	12240
 Identifiable Natural Person	12185
-Identifiant	735,496,9590,15,22,17,25,2441,391,693,993,75,118,24,795,1055
+Identifiant	735,496,9590,15,22,17,25,2441,391,693,993,75,118,24,795,1055,334
 Identifiant Bancaire Unique	11944
 Identifiant Digital Civil	557
 Identifiant Fiscal Unique	10823,4595,379
 Identifiant Fiscal Unique. Article	15418
 Identifiant National	16441
 Identifiant National NIN	15555
+Identifiant National de Santé	17882
 Identifiant Patient Unique LIMS Laboratory Information	13306
 Identifiant Social Unique	10544
 Identifiant Unique	10978,4440
 Identifiant Unique du Citoyen	10812
 Identifiant Unique du Foncier de Côte	10937
 Identifiant Unique du Patient	15936
+Identifiant de Santé du Mali	17882
 Identifiants	13772,1147,692,100,404,1333
 Identifiants de Station WIGOS	13783
 Identifica	16651
@@ -959,10 +968,11 @@ Identificadores	10755,1387
 Identificam-se	11569
 Identificar	167,1534,1115,1402,6529,7,23,6,593,10,1,17,26,19,3,90,27,329,3578,28,22,168,627,772,54
 Identificateur	16616
-Identification	33,75,128,237,525,7,4,178,27,78,410,76,36,14,2,109,49,69,361,340,325,389,132,47,24,87,163,53,392,363,1005,35,94,57,462,4,149,143,256,775,183,6,91,25,56,380,443,509,68,163,1,30,49,339,98,83,195,115,165,2,7,43,11,37,2,5,2,33,13,8,1,15,29,18,37,2,179,23,12,4,38,11,21,4,298,290,12,6,2,23,9,1,16,29,5,12,4,10,20,35,2,103,68,13,26,46,34,4,22,5,41,95,7,336,69,14,51,103,15,111,100,34,35,6,4,5,8,5,96,14,10,43,111,4,151,2,1,84,72,252,176,6,14,41,3,5,1,1,47,12,25,48,25,89,114,38,77,32,27,57,163,109,10,30,1,20,1,2,14,13,3,27,19,25,24,5,36,1,55,107,97,1,41,51,7,127,33,14,31,1,40,6,100,27,6,201,2,15,6,89,24,37,4,38,3,94,19,7,5,28,34,21,51,5,34,10,28,16,15,35,8,506,116
+Identification	33,75,128,237,525,7,4,178,27,78,410,76,36,14,2,109,49,69,361,340,325,389,132,47,24,87,163,53,392,363,1005,35,94,57,462,4,149,143,256,775,183,6,91,25,56,380,443,509,68,163,1,30,49,339,98,83,195,115,165,2,7,43,11,37,2,5,2,33,13,8,1,15,29,18,37,2,179,23,12,4,38,11,21,4,298,290,12,6,2,23,9,1,16,29,5,12,4,10,20,35,2,103,68,13,26,46,34,4,22,5,41,95,7,336,69,14,51,103,15,111,100,34,35,6,4,5,8,5,96,14,10,43,111,4,151,2,1,84,72,252,176,6,14,41,3,5,1,1,47,12,25,48,25,89,114,38,77,32,27,57,163,109,10,30,1,20,1,2,14,13,3,27,19,25,24,5,36,1,55,107,97,1,41,51,7,127,33,14,31,1,40,6,100,27,6,201,2,15,6,89,24,37,4,38,3,94,19,7,5,28,34,21,51,5,34,10,28,16,15,35,8,506,116,40,9,1,7,1,4,25,16,2,2,39,53,5,30
 Identification Act	1939,3594,539,52,263,125,4664,37,69,291,413,61,7,273,10,30,580,12,25
 Identification Act.I	6196
 Identification Agency OLA Operational Level Agreement	12359
+Identification Armées	17899
 Identification Article	13832
 Identification Awareness of DFS	11994
 Identification Bancaire Unique	8556
@@ -971,9 +981,10 @@ Identification Card	1655,9120,1553
 Identification Card No N	10714
 Identification Card for Electors	15415
 Identification Cards	1655
+Identification Chercheurs	17899
 Identification Documents	13031,279,1544
 Identification Fiscal Unique	10821
-Identification Fiscale	13390,77,223,119,2938
+Identification Fiscale	13390,77,223,119,2938,1166
 Identification For Development	10819
 Identification France Secure Electronic Titles File	10714
 Identification ID	13804,2
@@ -987,8 +998,14 @@ Identification Management System Analysis of Burkina Faso	10812
 Identification Mission	1778
 Identification Module Card SP Social Protection	16867
 Identification Module UBUDEHE The National	12328
-Identification National	10812,4541
+Identification National	10812,4541,2508
 Identification National Unique	16482
+Identification Nationale	17813,1,3,44,9
+Identification Nationale Article	17861
+Identification Nationale des Personnes	17817
+Identification Nationale des Personnes Physiques	17817
+Identification Nationale. ARTICLE	17813
+Identification Nationale. Article	17814
 Identification No	11976,1357
 Identification Number	3437,9896
 Identification Number DFI Development Finance Institution	12297
@@ -997,6 +1014,7 @@ Identification Number UNCDF United Nations Capital	12241,839,15
 Identification Numérique	2602,508,12475
 Identification Numérique Notification	14480
 Identification OCDE Organisation de Coopération	10712
+Identification ODD Objectifs	17907
 Identification Observatoire du Service Public Projet	15936
 Identification Order	12893,260
 Identification PND	15639
@@ -1018,7 +1036,7 @@ Identification Schemes	15415
 Identification Section Header	11877
 Identification Services	1616,1288,2292,6790
 Identification Stagnant	12214
-Identification Survey ID	10862,2222,675,1265,819,3,819,380,120
+Identification Survey ID	10862,2222,675,1265,819,3,819,380,120,760
 Identification System	2555,8159,1272,160,4730,203
 Identification System ASYCUDA Automated System for Customs	17105
 Identification System NAMPOL Namibian Police Force	12947
@@ -1040,17 +1058,32 @@ Identification and Registration Bill	5533
 Identification and Registration Bill Citizenship	11986
 Identification and Registration Committee	3005
 Identification de Côte	15936
+Identification des Composants	17899
 Identification des Contribuables. Sous	15353
 Identification des Exploitants	10096
 Identification des Incidents	15472
+Identification des Nombre de Logiciel de Non	17872
 Identification des ONG	16328
 Identification des OPP	998
-Identification des Personnes	2623,110,2473,340,192,44,1430,3610,2,43,3375,74,395,720,185,119,46,363,29,926
-Identification des Personnes Physiques	14243,2408,1020
+Identification des Personnes	2623,110,2473,340,192,44,1430,3610,2,43,3375,74,395,720,185,119,46,363,29,926,718
+Identification des Personnes DES RESSOURCES	17899
+Identification des Personnes Physiques	14243,2408,1020,146
 Identification des Personnes Pour	15431
 Identification des Personnes. Article	15431
 Identification des Personnes. Il	15431
-Identification for Development	442,801,539,396,3143,379,1944,3070,51,10,10,27,7,158,30,860,360,108,199,129,421,247,428,675,981,138,290,1,2,819,157,120,103
+Identification des Points	17983
+Identification des Points Focaux	17983
+Identification des Points Focaux Chaque	17983
+Identification des Points Focaux Des	17983
+Identification des Points Focaux Des Points Focaux	17983
+Identification des Points Focaux En	17983
+Identification des Points Focaux Il	17983
+Identification des Points Focaux Pour	17983
+Identification des Points Focaux Un	17983
+Identification des Points Focaux Un Point Focal	17983
+Identification des Prélèvements Chercheurs	17899
+Identification des Victimes de Armées	17899
+Identification for Development	442,801,539,396,3143,379,1944,3070,51,10,10,27,7,158,30,860,360,108,199,129,421,247,428,675,981,138,290,1,2,819,157,120,103,825
 Identification for Development. WBG	15518
 Identification for Regional Integration	3604
 Identification for Regional Integration and Inclusion	4855,5964
@@ -1098,7 +1131,7 @@ Identified Research Gap Global	16266
 Identified Strategic Risks	11218
 Identified Strengths	15796
 Identifient	10876
-Identifier	748,257,182,125,724,2277,2110,4389,63,100,969,99,1247,51,34,15,312,18,63,642,117,356,475,17,82,2,68,41,2,85,42,224,76,182,176,175,101,295
+Identifier	748,257,182,125,724,2277,2110,4389,63,100,969,99,1247,51,34,15,312,18,63,642,117,356,475,17,82,2,68,41,2,85,42,224,76,182,176,175,101,295,883,39,9,10,36,28,67
 Identifier Cross-Reference HL7 Version	1009
 Identifier DPoeslFitviOegrfuyfircSeeer9vi	11129
 Identifier ECTS European Credit Transfer System	14747
@@ -1110,7 +1143,7 @@ Identifiez	13300
 Identifizierung	9062
 Identifiée	15373
 Identifiés	15901
-Identify	899,101,9,122,73,39,137,397,163,48,1690,183,265,402,82,238,396,1,431,4,752,1116,998,192,740,1242,43,197,47,10,168,6,61,13,10,278,244,69,74,12,3,1,28,2,22,47,102,18,20,19,39,103,3,17,23,1,45,8,45,10,4,163,329,49,261,67,131,149,330,19,175,256,83,42,168,16,6,62,61,10,3,30,13,50,12,26,57,5,79,316,233,1,263,719,167,3,1,5,13,36,18,12,12,5,3,40,88,15,35,8,39,64,107
+Identify	899,101,9,122,73,39,137,397,163,48,1690,183,265,402,82,238,396,1,431,4,752,1116,998,192,740,1242,43,197,47,10,168,6,61,13,10,278,244,69,74,12,3,1,28,2,22,47,102,18,20,19,39,103,3,17,23,1,45,8,45,10,4,163,329,49,261,67,131,149,330,19,175,256,83,42,168,16,6,62,61,10,3,30,13,50,12,26,57,5,79,316,233,1,263,719,167,3,1,5,13,36,18,12,12,5,3,40,88,15,35,8,39,64,107,517,37
 Identify A Human Need And Reach	36
 Identify AI	14674
 Identify Areas	12389
@@ -1140,7 +1173,7 @@ Identify and Prioritise Services for Migration	11995
 Identify and Share Promising Practices and Lessons Learned	12939
 Identify the Legal Obligation	14524
 Identify the Target Audience	12675
-Identifying	21,697,525,853,631,231,305,224,1041,1858,517,37,6,1,35,566,211,617,170,657,925,889,112,4,23,29,284,18,375,4,140,2,232,260,12,130,32,634,48,121,204,310,166,408,314,18,100,463,1171,212,18,6,5,12,1,30,51,45,88,15,2,33,8,26,222,36
+Identifying	21,697,525,853,631,231,305,224,1041,1858,517,37,6,1,35,566,211,617,170,657,925,889,112,4,23,29,284,18,375,4,140,2,232,260,12,130,32,634,48,121,204,310,166,408,314,18,100,463,1171,212,18,6,5,12,1,30,51,45,88,15,2,33,8,26,222,36,443,66
 Identifying Eligible Individuals The Imibereho Social	12370
 Identifying Entity Accounts With Respect	11233
 Identifying Focus Areas and Gaps	7588
@@ -1160,7 +1193,7 @@ Identite Malagasy	14574
 Identitication Act	11213
 Identities	12359
 Identities Electronically	16590
-Identity	22,302,443,242,152,50,222,92,289,124,1,379,6,103,20,94,25,42,6,44,62,5,36,17,41,1,3,50,41,11,18,4,48,22,1,8,259,18,88,44,25,72,72,19,119,78,69,141,37,21,39,312,75,39,78,101,41,3,31,24,11,19,35,176,13,28,102,95,11,96,3,28,45,40,20,6,37,101,181,33,45,19,97,35,148,19,70,19,24,28,17,36,73,5,13,34,57,1,149,7,16,123,195,3,31,103,91,109,83,35,43,61,228,59,40,12,786,79,452,52,80,128,54,8,58,119,25,213,207,414,7,44,10,37,4,3,3,8,308,39,4,50,570,185,1,13,47,155,25,64,36,1,9,13,9,8,92,30,35,1,8,1,14,100,245,5,61,18,28,2,30,285,152,207,298,18,48,415,231,68,121,150,134,251,103,854,550,1,1,31,28,396,367
+Identity	22,302,443,242,152,50,222,92,289,124,1,379,6,103,20,94,25,42,6,44,62,5,36,17,41,1,3,50,41,11,18,4,48,22,1,8,259,18,88,44,25,72,72,19,119,78,69,141,37,21,39,312,75,39,78,101,41,3,31,24,11,19,35,176,13,28,102,95,11,96,3,28,45,40,20,6,37,101,181,33,45,19,97,35,148,19,70,19,24,28,17,36,73,5,13,34,57,1,149,7,16,123,195,3,31,103,91,109,83,35,43,61,228,59,40,12,786,79,452,52,80,128,54,8,58,119,25,213,207,414,7,44,10,37,4,3,3,8,308,39,4,50,570,185,1,13,47,155,25,64,36,1,9,13,9,8,92,30,35,1,8,1,14,100,245,5,61,18,28,2,30,285,152,207,298,18,48,415,231,68,121,150,134,251,103,854,550,1,1,31,28,396,367,124
 Identity Access	10721
 Identity Access Management	12165
 Identity Act	7221,5116
@@ -1227,6 +1260,7 @@ Identity Management	11952,407,54,226,1791,624
 Identity Management Agency and Services	12337
 Identity Management Commission	11952
 Identity Management Con	13042
+Identity Management Institutional Applications	17870
 Identity Management Requirement	11952
 Identity Management Services	12337
 Identity Management System	12533,1,425,46,1825
@@ -1288,8 +1322,8 @@ Identity-management	10822
 Identity-related	26,12902
 Identity.com	2778,1042
 Identitätssysteme	9062
-Identité	1231,1334,816,200,7,174,823,1,2,369,589,613,2178,381,104,1892,122,40,704,463,1456,926,6,49,59,10,74,1047,266,2,210,1,190,91,11,168,49,790,37
-Identité Bancaire	10978,2657,1717
+Identité	1231,1334,816,200,7,174,823,1,2,369,589,613,2178,381,104,1892,122,40,704,463,1456,926,6,49,59,10,74,1047,266,2,210,1,190,91,11,168,49,790,37,339,46
+Identité Bancaire	10978,2657,1717,2481
 Identité Biométrique	3925,2034,2034,1675,307,4267,1
 Identité Biométrique AES	15917
 Identité Biométrique Officielle du Gabon	3581
@@ -1301,7 +1335,7 @@ Identité CRVS	12043
 Identité Carte	17485
 Identité Décret	13499
 Identité Dédupliquée	14480
-Identité Electronique	547
+Identité Electronique	547,17277
 Identité Foyers Registre des Foyers	14480
 Identité MalagasY	14488,1,1,12,62,14
 Identité MalagasY PGES POUR LA MISE	14488,1,1
@@ -1310,7 +1344,7 @@ Identité Malagasy Polyvinyl	14423
 Identité Malagasy Structure Locale de Concertation Services	14425
 Identité Malagasy Sécurité	14424
 Identité Marocaine. Dépenses	17485
-Identité Nationale	12043,2401,105
+Identité Nationale	12043,2401,105,3275
 Identité Numérique	14549,1387
 Identité Numérique Unique P	15624
 Identité Ordonnance Ministérielle	13499
@@ -1441,6 +1475,7 @@ Livestock Identification and Traceability Strategy	13060
 Localized Identify	1988
 Locally Identified Priorities Enhanced Lead Institutions	14935
 M Nigeria Digital Identification for Development Education	11469
+M. Haroun Ideighbi du Secrétaire	18030
 MAIN FINDINGS National Identification Card	12328
 MALAWI DIGITAL READINESS ASSESSMENT Identification RATING	12214
 MALE SOCIAL MEDIA USER USER IDENTITIES	12214
@@ -1459,6 +1494,7 @@ Malawi’s Identity Landscape The National ID	13095
 Malawi’s National Registration and Identification System	13005
 Malaysia National Registration and Identification System	10714
 Maldives National Identity Card	10714
+Mali Mali Identification	17837
 Malta National Registration Identity Card	10714
 Management Information System ID Identity IDSR	16922
 Mandate Interoperable Identity Infrastructure The CBN	11138
@@ -1480,6 +1516,7 @@ Measure Food Consumption and Diet Quality Identify	17285
 Measuring the State of Civil Registration and Legal Identity	10822
 Medium Term Period Digital Identity Public	11986
 Microdata Identification Version Coverage Producers	15844
+Mines SECTION IDENTIFICATION DES ARMES	17899
 Minimal Identity	10775
 Minister Identification Registration Bill	11986
 Ministry of Home Affairs’ National Identity and Civil	12663
@@ -1533,6 +1570,7 @@ NIIMS National Integrated Identity Management System	12151
 NIMC Identity Management Standards Annexure	11952
 NIN Naira Value of Trades Counterparty Identity	4602
 NIN National Identification Number	11952
+NINACAD. Identification	17837
 NIP Personal Identification Number	15518
 NIR National Identification Registry NDP National	17011
 NIR National Identification Registry NPV Net	16949
@@ -1605,7 +1643,7 @@ National Identification Authority URL	16374
 National Identification Authority and Margins ID Group	6177
 National Identification Authority of Ghana	2829,739,2824
 National Identification Authority. All Rights Reserved	1263,1045,14066
-National Identification Card	1816,299,8599,1155,3,3,1,1,32,30,389,2319,135,41,2160
+National Identification Card	1816,299,8599,1155,3,3,1,1,32,30,389,2319,135,41,2160,887
 National Identification Card NIN National Identification	12328
 National Identification Card No N	10714
 National Identification Card System	16983
@@ -1618,7 +1656,7 @@ National Identification Day	17025
 National Identification Document NPC	12337
 National Identification Document Systems and Digital ID	16953
 National Identification Needs	2363
-National Identification Number	1655,265,461,1,8,376,4,49,199,12,57,126,359,32,131,203,17,136,29,171,132,179,62,22,108,54,13,170,184,30,39,37,253,29,896,82,108,182,78,192,2,1,75,95,318,19,97,160,6,20,12,174,468,489,19,18,242,34,210,70,95,115,154,231,158,168,83,30,469,295,1,181,265,41,66,27,1,1,6,1276,348,495,186,32,90,163,415,68,549,1243,61,28,608
+National Identification Number	1655,265,461,1,8,376,4,49,199,12,57,126,359,32,131,203,17,136,29,171,132,179,62,22,108,54,13,170,184,30,39,37,253,29,896,82,108,182,78,192,2,1,75,95,318,19,97,160,6,20,12,174,468,489,19,18,242,34,210,70,95,115,154,231,158,168,83,30,469,295,1,181,265,41,66,27,1,1,6,1276,348,495,186,32,90,163,415,68,549,1243,61,28,608,251,101
 National Identification Number Data	15393
 National Identification Number TIN	11861
 National Identification Numbers	2743,80,101,938,1835,604,134,168,86,81,993,372,281,661,619,1401,617,1167,3892
@@ -1915,6 +1953,7 @@ Projet Legal Identity PNUD Cameroun	16593
 Promote Legal Identity for All Decentralization of Services	13080
 Promote Legal Identity for Regulatory Authority	12241
 Promoting Identity	2958
+Proof of Identity Documents Available	17870
 Property Identification Certificate	11862
 Property Identification Numbers	11862
 Proposta de Lei da Identificação Civil	3606,2380
@@ -1924,6 +1963,7 @@ Protection of Personal Draft Official Identity Cybersecurity	1939
 Protection of Personally Identifiable Information	15149
 Provincial Identifier	13298
 Préparation Service Identifier	10876
+Publique Identifiant de Santé du Mali Laboratoire National	17882
 Push Towards Determining Identity Amidst	13313
 Pushes Government Digitisation The National Identity	7371
 QUESTIONS TO ASK TO IDENTIFY RISK	11156
@@ -2009,6 +2049,7 @@ SCREENING CHECKLIST FOR IDENTIFYING CASES	17114
 SECTION TWO Digital Identification System Principles	12146
 SECTORAL DEMAND FOR IDENTIFICATION AND AUTHENTICATION	10775
 SECÇÃO III FACTURAÇÃO DETALHADA E IDENTIFICAÇÃO	15
+SIGRH Identification des Nombre	17872
 SIM CARD Subscriber Identity Module SMMEs	12395
 SIM Subscriber Identification Module Figure	582
 SIM Subscriber Identification Module SIRC Sistema	10765,10
@@ -2031,6 +2072,7 @@ SYNOPSIS OF THE NATIONAL IDENTIFICATION SYSTEM	15430
 Safaricom Idea-to-Cash	5820
 Safe Space for Bold Ideas	4528,7984
 Safeguards for Biometric Identification	14664
+Santé Modèle des Objets de Santé Numéro Identifiant	17882
 Search Code Payment Identification Number	13333
 Search and Identification of Missing Persons	17264
 Section IL.- Identification	11139
@@ -2083,6 +2125,7 @@ Smart Africa Working Group for Digital Identity	10819
 Smart Identity Card Yes BRR Bulgaria	10714
 Smile Identity	832,307
 Social SOGI Sexual Orientation and Gender Identity	11413
+Société IDEMIA FRANCE. Vu le Décret	17841
 Solutions Identification	9237
 Solutions Identification and Lamberton	9237
 Somali National Identification Document	15223
@@ -2140,6 +2183,7 @@ Switzerland Identity Card	10714
 System LOINC Logical Observation Identifiers Names	13306
 System of Identification of Social Programme Beneficiaries	11133
 System. Digital Identity	10819
+Sécurité SECTION IDENTIFICATION DES VICTIMES	17899
 T Identity	12327
 T the Identification Act	12327
 TABLEAU DES SOLUTIONS AUX PROBLEMES IDENTIFIES	15592
@@ -2296,10 +2340,12 @@ V. Identifying	16189
 VALORIZAR A NOSSA IDENTIDADE E ACRESCENTAR	16487
 VIII. CULTURAL DIVERSITY AND IDENTITY	14853
 VRR National Identity Register System	10714
+VUES SPATIALES DU PROJET ET IDENTIFICATION	17846
 Vanuatu Civic Identification	10714
 Vehicle Identification Number	12360
 Verify and Document Beneficial Owners’ Identity	12389
 Verify and Document the Identity of Entrepreneurs	12389
+Via Biometric Identity Management System	17971
 Vision One Unique Identity for All	15062
 Vision The National Identification and Registration	12108
 Vital Events Registration and National Identity Card	12188,38

@@ -75,9 +75,11 @@ ARRANGEMENT OF REGULATIONS Regulations	13307
 ARSEL Electricity Regulatory Agency of Congo	15659
 ARTCI Regulatory Council	7189
 ATU-GSMA African ICT Regulatory Leaders’ Forum	7825
+AUTORISANT LA PORTANT REGULARISATION DES MOUVEMENTS	18032
 AUTORITE DE REGULATION DES COMMUNICATIONS ELECTRONIQUES	15654
 AUTORITE DE REGULATION DES MARCHES PUBLICS	14436
 AUTORITE DE REGULATION DU SECTEUR	15670
+AUTORITE MALIENNE DE REGULATION DES	18032
 AUTRES AUTORITES NATIONALES DE REGULATION	13468
 AUTRES AUTORITES NATIONALES DE REGULATION Il	13468
 About CRAN The Communications Regulatory Authority	13061
@@ -365,6 +367,8 @@ COMMUNICATION REGULATED NON-WDT SACCO SOCIETY LTD	7167
 COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA No	13071
 COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA Notice	13002
 COMPLIANCE STATUS ASSESSMENTS AND REGULATORY HISTORY	17249
+COMPTES DE REGULARISATION	17841
+COMPTES DE REGULARISATIONS	17841
 CONSULTATiVE AND EViDENCE-BASED REGULATiONS	961
 CONSUMER PROTECTION IN REGULATED SECTORS	718
 COORDINATE AND REGULATE SPACE-RELATED ACTIVITIES	1131
@@ -552,7 +556,10 @@ DATA PROTECTION ACT Regulations	11584
 DATA REGULATOR	961
 DE L'AUTORITE DE REGULATION DU NUMERIQUE	15584
 DE LA REGULAITON DES CONTENUS CHAPITRE	13781
+DE LA REGULATION DES	17819
+DE LA REGULATION EN MATIERE	17819
 DE LA TARIFICATION REGULATION TARIFAIRE L’ARE	15670
+DE L’AUTORITE DE REGULATION L’Autorité	17819
 DE PUERTOS Y REGULACIÓN	4209
 DE REGULATION NUMERIQUE	16734
 DEON Consumer Lending Regulation	3538
@@ -618,6 +625,7 @@ Department's Regulatory Functions	13951
 Department's Regulatory Functions The Department	13951
 Departments. Initiated Legal and Regulatory Frameworks	14750
 Depto de Fiscalização da Divisão de Regulação	2784
+Deputy Director of Health Facilities and Regulation	17921
 Deputy Director of Monitoring and Exchange Regulations	6938
 Deputy Director of Regulation	17010
 Describing the National Regulatory Sandbox	11751
@@ -720,6 +728,7 @@ ECONOMIC REGULATION AND STRATEGY	12256
 ECOWAS Community Roaming Regulation	17117
 ECOWAS Data Protection Regulation	16924
 ECOWAS Data Protection Regulations	16924
+ECOWAS ICT Regulatory Watch	17870
 ECOWAS Regional Electricity Regulatory Authority	16978
 ECOWAS Regional Electricity Regulatory Authority ESI	16978
 ECOWAS Roaming Regulation	1909,14796
@@ -751,7 +760,7 @@ EU Regulatory Ambitions	17780
 EU Timber Regulations. Communication	16848
 EU's General Data Protection Regulation	4763,5325
 EUSSC Regulations	4732
-EU’s General Data Protection Regulation	1243,3999,1229,1240,1065,1999,380
+EU’s General Data Protection Regulation	1243,3999,1229,1240,1065,1999,380,6715
 EXECUTIVE SUMMARY The Electricity Regulatory Authority	15670,69
 EXPLANATORY MEMORANDUM PFM E-CITIZEN REGULATIONS	14599
 Economic Regulation	408,7614,4298,4658,99
@@ -1184,9 +1193,12 @@ IRA Insurance Regulatory Authority ISIC International	2775
 IRSEA Instituto Regulador	11380
 ISSUES THE FOLLOWING REGULATION	14919
 ITU Global ICT Regulatory Outlook	16942
+ITU ICT Regulation Toolkit	17836
 ITU Radio Regulations	2913,2448,2489,239,2318,4267
 ITU Radio Regulations. Gateway Earth Station	2913
 ITU Radio Regulations. Licence	736
+ITU Regulatory	17896
+ITU Regulatory Tracker	17870
 ITU and World Bank Digital Regulation Platform	14674
 ITU-R’s Radio Regulations	5245
 ITU’s ICT Regulatory Tracker	15480,1396
@@ -1322,6 +1334,7 @@ LA REGULATION DU MARCHE NATIONAL Arrêté	4658
 LA REPUBLIQUE AGENCE DE REGULATION ET	13324,90
 LD Regulations	16848
 LE CONSEIL DE REGULATION	15654
+LE CONSEIL DE REGULATION DE L’AUTORITÉ	18032
 LEC Klay Substation LIBERIA ELECTRICITY REGULATORY	16978
 LEC Regulatory Levy	16978
 LEG10 Não EST-LEG11 Regulamento	15532
@@ -1488,6 +1501,9 @@ Malawi Communications Regulatory Authority MDAT	12175
 Malawi Communications Regulatory Authority MDAs Ministries	12241,839,15
 Malawi Communications Regulatory Authority. The Malawi	7201
 Malawi Public Service Regulations. Participants	13062
+Malian Regulatory Authority for Telecommunications and Posts	17870
+Malian Telecommunications Regulatory Authority	17870
+Mali’s ICT and Postal Regulatory Authority	17870
 Management Institute ESERA Eswatini Energy Regulatory	12970
 Management Regulatimonasnagement	16884
 Management Regulations Proper	16883
@@ -1638,6 +1654,7 @@ National National AI and Sector Regulators AI	7548
 National Nuclear Regulator	11215,13,44
 National Payment System Regulations	12286,837
 National Payment Systems Regulations	11134,2092
+National Police Regulations Act	17934
 National Policies and Regulatory Framework	12921
 National Public Transport Regulator	11494,57
 National Quality Infrastructure and Technical Regulation	13320
@@ -1764,7 +1781,9 @@ POLICYAND REGULATORY CONTEXT	1009
 PONTO DE SITUAÇÃO Regulamentação	2816
 POPIA Fines Imposed The Regulator	14357
 POR LA QUE SE REGULA	16965
+PORTANT REGULARISATION DES MOUVEMENTS Vu la Charte	18032
 PORTANT REGULATION DES COMMUNICATIONS ELECTRONIQUES ET	37
+PORTANT REGULATION DU SECTEUR DES	17819
 POSTAL AND TELECOMMUNICATIONS REGULATORY AUTHORITY	736,5264
 POSTAL SECTOR REGULATORY FRAMEWORK Aug	10509
 PP.4.A.12 Modify the Capital Project Regulations	15604
@@ -2032,6 +2051,7 @@ REGULATION AND COMPLIANCE Specific	13962
 REGULATION AND LICENSING DEVELOPMENTS IN LICENSING	15023
 REGULATION AND OVERSIGHT	12606
 REGULATION DE L'ELECTRICITE ET DU GAZ	15472
+REGULATION EN MATIERE DE PROTECTION DES	17831
 REGULATION ET	10965
 REGULATION FOSTERING LOCAL	10861
 REGULATION IS PROPORTIONATE TO RISK IMPACT	16212
@@ -2072,7 +2092,7 @@ REGULATORY	13080
 REGULATORY ADHERENCE	5665
 REGULATORY AND INSTITUTIONAL FRAMEWORK	14947
 REGULATORY AND INSTITUTIONAL FRAMEWORK The Rwanda	14947
-REGULATORY AND POLICY FRAMEWORKS AND IMPLEMENTATION	14073
+REGULATORY AND POLICY FRAMEWORKS AND IMPLEMENTATION	14073,3897
 REGULATORY BOARD	718
 REGULATORY BOARD Dr. GATARE IGNACE	718
 REGULATORY BOARD RWANDA UTILITIES REGULATORY AUTHORITY	14867
@@ -2094,6 +2114,7 @@ REGULATORY FRAMEWORK OF BUSINESSES	14828,3
 REGULATORY FRAMEWORK OF THE ACT Enforcement	3714
 REGULATORY FRAMEWORK Strengthen Legislative and Regulatory	16942
 REGULATORY FRAMEWORK THAT GUIDES THE JUDICIARY	12920
+REGULATORY FRAMEWORK The GoM	17870
 REGULATORY FRAMEWORKS Gaps	14879
 REGULATORY FUNCTIONS	12062
 REGULATORY Likelihood	12241
@@ -2347,7 +2368,7 @@ Regularization of Status of Certain Residents of Namibia	12337
 Regularização	539,11362,117
 Regularizações	12018
 Regularize	16188
-Regularly	1686,302,2622,1066,1,4,5535,736,262,39,2,47,81,36,256,645,753,143,458,60,43,142,78,26,11,95,32,443,156,85,1081,1,20,24,4,43,122
+Regularly	1686,302,2622,1066,1,4,5535,736,262,39,2,47,81,36,256,645,753,143,458,60,43,142,78,26,11,95,32,443,156,85,1081,1,20,24,4,43,122,830
 Regularly Assessed	14777
 Regulasiekoerant	11233
 Regulasiekoerant N.B. The Government Printing Works	11196,17,20
@@ -2396,12 +2417,13 @@ Regulating Virtual Asset Business Rwanda Finance	6998
 Regulating Without Hindering Innovation	17335
 Regulating the Activity of Foreign Exchange	11960
 Regulating the Skies	5241
-Regulation	3,4,4,11,6,548,142,44,27,172,48,149,85,340,167,27,30,78,15,88,11,97,211,32,262,18,90,598,5,303,36,71,137,2,108,157,88,518,381,168,201,51,26,59,59,10,178,7,157,23,335,10,79,1,35,91,288,15,31,1,143,117,80,194,66,10,59,156,58,34,232,24,6,319,97,184,52,71,94,133,42,18,272,233,16,19,92,96,132,326,27,165,260,10,44,3,34,194,79,6,19,1,1,28,14,15,17,18,2,300,20,92,195,34,65,30,7,2,5,41,6,47,52,15,3,21,16,13,12,67,1,1,1,6,31,34,9,8,5,10,7,4,5,29,15,83,34,99,104,164,18,20,56,141,109,11,9,40,41,28,46,36,34,6,28,58,362,38,111,87,48,152,13,111,48,5,2,57,16,44,22,2,64,8,5,15,10,23,13,11,6,22,25,3,76,58,68,223,21,54,6,27,35,85,125,176,637,7,49,238,10,1,5,2,1,2,19,6,6,5,13,22,18,7,23,39,8,216,8,6,1,7,3,70,255,124
+Regulation	3,4,4,11,6,548,142,44,27,172,48,149,85,340,167,27,30,78,15,88,11,97,211,32,262,18,90,598,5,303,36,71,137,2,108,157,88,518,381,168,201,51,26,59,59,10,178,7,157,23,335,10,79,1,35,91,288,15,31,1,143,117,80,194,66,10,59,156,58,34,232,24,6,319,97,184,52,71,94,133,42,18,272,233,16,19,92,96,132,326,27,165,260,10,44,3,34,194,79,6,19,1,1,28,14,15,17,18,2,300,20,92,195,34,65,30,7,2,5,41,6,47,52,15,3,21,16,13,12,67,1,1,1,6,31,34,9,8,5,10,7,4,5,29,15,83,34,99,104,164,18,20,56,141,109,11,9,40,41,28,46,36,34,6,28,58,362,38,111,87,48,152,13,111,48,5,2,57,16,44,22,2,64,8,5,15,10,23,13,11,6,22,25,3,76,58,68,223,21,54,6,27,35,85,125,176,637,7,49,238,10,1,5,2,1,2,19,6,6,5,13,22,18,7,23,39,8,216,8,6,1,7,3,70,255,124,161
 Regulation Agency for Post and Electronic Communication	15553
 Regulation Agriculture	16853
 Regulation Authority of Mail and Electronic Communications	3764
 Regulation C	7,16901,102
 Regulation Component	13787
+Regulation Data	17927
 Regulation Federal	11857
 Regulation GW Gigawatt ICT Information	10861
 Regulation Gazette	11249
@@ -2733,6 +2755,7 @@ Regulatory Compliance Monitoring	15120
 Regulatory Compliance Regulatory	15034
 Regulatory Compliance Service	11952
 Regulatory Considerations	8301
+Regulatory Constraints Mali	17870
 Regulatory Control	16843
 Regulatory Conundrum	17731
 Regulatory Convergence and Market Transparency Standardize	6938
@@ -2901,7 +2924,7 @@ Regulatory Update	6792
 Regulatory Use of Consumer Data	5676
 Regulatory Use of Consumer Data Consumer-generated	5676
 Regulatory Verification	5665
-Regulatory Watch Initiative	1264,10278
+Regulatory Watch Initiative	1264,10278,6328
 Regulatory Wheel of Change	961
 Regulatory Window	4848,80
 Regulatory Zimbabwean	12512
@@ -2957,7 +2980,7 @@ Repeals Controversial Telecom Ownership Regulations NetOne	2987
 Reporting Mechanisms Regular	12356
 Republic of Congo's ARPCE Advances Technical and Regulatory	3696
 Requisite Regulatory Approvals	7198
-Resettlement Action Plan ARCEP Regulatory Authority	15511
+Resettlement Action Plan ARCEP Regulatory Authority	15511,2351
 Residential Care Institutions for Children Regulations	14774
 Resilient and Trusted Regulatory Environment	12759
 Responsabilidade Geral da Autoridade Reguladora Nacional	11519

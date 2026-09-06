@@ -2,13 +2,16 @@ ABIS Automated Biometric Identification System AfCFTA	13080
 ABIS Automatic Biometric Identification System AfDB	15518
 ACCIÓN CARTOGRAFÍA SEGUIMIENTO BIOKO SUR PROVINCIAL	4209
 ACF Rapport Biomasse Burkina Faso 2025.pdf	16026
+ACF Rapport Biomasse Mauritanie 2025.pdf	17931
+ACF Rapport Biomasse Mauritanie 2025.pdf Author	17931
+ACF Rapport Biomasse Mauritanie URL	17931
 AES Biometric Identity Card	6448
 AES Passport. Biometric	6448
 AFD Otjikoto Biomass	12399
 AFRICA BIOSYSTEMS LIMITED Data Controller INST-310505F85D8	7167
 AI Artificial Intelligence BOD Biochemical Oxygen	17458
 ANOMALIE DE PRODUCTION DE BIOMASSE ANNÉE	16026
-ANOMALIE NORMALISÉE DE PRODUCTION DE BIOMASSE	16026
+ANOMALIE NORMALISÉE DE PRODUCTION DE BIOMASSE	16026,1905
 ANTROPOMETRIA E OUTROS BIOMARCADORES MEDIDOS	10777
 Abdoul-Aziz Bio Sidi D. Bouko	16135
 Abdoulaye BIO CHANE	16080
@@ -77,6 +80,9 @@ BIOLITE HOLDINGS KENYA LIMITED Data Controller	7167
 BIOLOGIE MEDICALE Analyses Biologiques	15674
 BIOMASS	15740
 BIOMASSE	16026
+BIOMASSE ANNÉE	17931
+BIOMASSE Deux	17931
+BIOMASSE Pour	17931
 BIOMEDICAL ENGINEERING UNIT	14773
 BIOMED’’. Association	15455
 BIOMETRIC DATA	16841
@@ -98,6 +104,7 @@ BIOSCIENCE Chimie	15674
 BIOSTEC	10780
 BIOTHIC INDUSTRIES SA	16117
 BIOTRACK TECH LTD Data Controller INST-861994BC176	7167
+BIOWIN Gestion	17882
 BMCS Biometric Movement Control System CA	5533
 BURKINA FASO PRODUCTION DE BIOMASSE EN	16026
 Bafata Biombo Bissau Bolama Cacheu Gabu	11515
@@ -139,6 +146,7 @@ Biochimiques	15674
 Biodegradable	1988
 Biodiesel	12233
 Biodiesel Biodiesel	12233
+Biodigesteur	17841
 Biodiversidad	6841
 Biodiversidade	11390,152,5605
 Biodiversidade Ministério	11569
@@ -208,6 +216,9 @@ Biological Specimen and Pathogen Sharing	6534
 Biological Weapons Convention	17240
 Biological and Toxin Weapons Crimes Bill	8681
 Biologie	15674,556
+Biologie Moléculaire Appliquée	17829
+Biologie Médicale Appliquée Master Gestion des Ressources	17829
+Biologistes	17845
 Biology	7759,4331,988,894,3024
 Biology and Environmental BioloSgcyieanncdes Environm16e	1154
 Biology and Mathematics	13972
@@ -400,6 +411,7 @@ Biotechnology Institute	14004
 Biotechnology Park	12956
 Biotechnology and Hydrogen Energy Dr Jitendra Singh	6480
 Biotecnología. Los	17415
+Bioénergies	18021
 Bio’s Special Envoy	11608
 Browser Biographic	12270
 Browser. Biographic	12269
@@ -591,10 +603,11 @@ Kevin Kelly Biotechnology	13100
 Kissi Kingdoms Slam Bio’s Government Over	7182
 Kunming-Montreal Global Biodiversity Framework	17054
 Kunming-Montreal Global Biodiversity Framework. On Forestry	17105
-LA BIOMASSE	16026
+LA BIOMASSE	16026,1905
 LA ISLA DE BIOKO	16875
 LCOE Bioenergy	11953
 LICENCE Biologie Médicale	15674
+La Politique Nationale des Laboratoires de Biologie Médicale	17845
 Laboratório Biomédico Híbrido	12846
 Land Use Sub-category Biomass Dead	17140
 Land Use and Involuntary Resettlement Relevant Biodiversity	1284,9545,135,2367,2222,68,1301
@@ -605,15 +618,17 @@ Liberia's National Biometric Identification System	16993
 Liberia-ECOWAS Biometric Passport	17025
 Libyan Biotechnology Institute	17157
 Libyan National Biodiversity Strategy and Action	17157
+Licence Pro Biotechnologie	17829
 Litoral Bioko-Norte Wele Nzas Kie-Ntem Centro	16864
 Lu-Hai Liang Categories Biometrics News	2943,2367,138,896
 Lungi President Bio Leads ECOWAS Leaders	5390,965,827
-L’outil BioGenerator	16026
+L’outil BioGenerator	16026,1905
 M BIO	1420
 M Biometric Drive	4640
 M42 and Mubadala Bio	11748,3514
 MAADA BIO INTERNATIONAL CONVENTION CENTRE Freetown	17347
 MAADA BIO PRESIDENT OF THE REPUBLIC	4114
+MAURITANIE PRODUCTION DE BIOMASSE EN	17931
 MEIO BIOFÍSICO	11390
 MILIEU BIOLOGIQUE	14488,1,1
 MOSIP’s Secure Biometric Interface	5085
@@ -632,6 +647,7 @@ Meaning ABIS Automated Biometric Identification System	11218
 Merges Biometric Update	1906,483,415,1010,111
 Mobile Biometrics	1927
 Monsieur Bio Jérémie GOUROUBERA Au	17584
+Monsieur Ibrahim Izetiégouma MAÏGA Biologiste	17841
 Mot du Ministre Biographie du Ministre Cabinet Structures	3675
 Mot du Ministre Biographie du Ministre Cabinets Strucutres	3675
 Mozambique Latest Biometrics News Foundational ID	9747
@@ -682,8 +698,9 @@ PARENTS BIOLOGIQUES	13300
 PASAPORTES BIOMETRICOS	16871
 PASAPORTES BIOMETRICOS. TITULO V PASAPORTES	16871
 PJ. Biomass	12233
-PRODUCTION DE BIOMASSE ANNUELLE MOYENNE	16026
-PRODUCTION DE BIOMASSE EN	16026
+POUR LE BIODIGESTEUR EN AFRIQUE	17841
+PRODUCTION DE BIOMASSE ANNUELLE MOYENNE	16026,1905
+PRODUCTION DE BIOMASSE EN	16026,1905
 PROV. WELE- PROV. PROV. PROV. BIOKO	4209
 Pasaporte Biométrico	16905
 Pasaporte Biométrico CEMAC	16871
@@ -704,7 +721,7 @@ Provas Ponderação Escola Superior Agrária Biotecnologia	17103
 Provide Biometric Data Press Release	11079
 Province of Bioko Norte	16958
 Province of Bioko Sur. D. Combating	16958
-QU’EST-CE QUE LA BIOMASSE ET COMMENT	16026
+QU’EST-CE QUE LA BIOMASSE ET COMMENT	16026,1905
 Questionnaire Biomarqueur	13300
 Questionário de Biomarcadores. Os	10777
 Questionários de Biomarcadores	10777
@@ -716,8 +733,10 @@ Reduction of Biomass	12358
 Registers Biometrics	2477
 Registration of Biometric Data	12146
 Registre Biométrique des Personnes Physiques	15518
+Registre National Biométrique des Populations	17900
 Regiões de Biombo	11561
 Reimbursable Advisory Services RBPP Biometric Registry	15518
+Renforcement des Laboratoires de Biologie Médicale	17845
 Republic of Senegal H.E. Julius Maada Bio	7452
 Reserva Mundial da Biosfera	4747
 Rwanda Biomedical Cen-	15247
@@ -759,11 +778,13 @@ Sur Bioko-Sur Annobón Nacional	16864
 Sur Bioko-Sur Annobón Nacional Menor	16864
 Sur Bioko-Sur Annobón Nacional Nuevos	16864
 Sustainable Sawmill Waste Biomass Pyrolytic Energy	1154
+Sécurité DIVISION DE BIOLOGIE ET MEDECINE-LEGALE	17899
 TECH5's T5-OmniMatch Face BioSDK	1846
 TEEB The Economics of Ecosystems and Biodiversity UMIC	16996
 TRANSPORT SAVINGS SOLAR-POWERED WATER SYSTEMS BIODIVERSITY	11586
 Tanzania Biometric	3460,2237
 Target Biometric ID Enrolled	17139
+Techniciens de Santé SECTION ANALYSES BIOLOGIQUES Chef	17899
 Tenant Biometric ID Platform Transforms Healthcare	11987
 Through BIOFIN	11586
 Togo Launches Biometric ID Registration	3437
@@ -785,6 +806,7 @@ Utilização Sustentável da Biodiversidade Marinha	5791
 VECTOR BIOLOGY AND CONTROL DIVISION	14773
 VS201505CNIS QUESTIONNAIRE BIOMARQUEUR RÉPUBLIQUE DU BURUNDI	13300
 Verify the Biometric	17537
+Via Biometric Identity Management System	17971
 Vital Strategies Latest Biometrics News Foundational	9804
 WELE-NZAS NTEM BIOKO SUR BIOKO NORTE	4209
 WELE-NZAS NTEM CENTRO SUR BIOKO SUR	4209

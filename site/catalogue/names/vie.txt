@@ -7,6 +7,7 @@ Accept Deny View	9769
 Added Satellite Map View General Improvement	15867
 Aeroporto Internacional Osvaldo Vieira	11566
 Africaine Vie Bénin Traitement	10821
+Agence de Vielle	18032
 All Result No Result View All	4619
 Angola IXP View IXP	11470
 Apply and View Special Votes	7266
@@ -41,11 +42,14 @@ Click View	11298
 Cláudia Rodrigues Vieira. MINISTÉRIO DA SAÚDE	15404
 Columba and Vietnam	12376
 Conditions de PDDSEB PHMECV Vie	737
-Conditions de Vie	737,14401
+Conditions de PNLE Vie des Ménages	17945
+Conditions de Vie	737,14401,2706,243
 Conditions de Vie des Menages Harmonisée	15661
-Conditions de Vie des Ménages	737,6938,3874,11,21,777,45,1343,58,1857,423,281,19,236,58
+Conditions de Vie des Ménages	737,6938,3874,11,21,777,45,1343,58,1857,423,281,19,236,58,1267,33
 Conditions de Vie des Ménages DSSE	10874
 Conditions de Vie des Ménages EIPBF	10874
+Conditions de Vie des Ménages Faculté des Sciences	17978
+Conditions de Vie des Ménages GLPE Groupe	17885
 Conditions de Vie des Ménages Harmonisée	15661
 Conditions de Vie des Ménages Résumé	13804
 Conditions de Vie des Ménages. The Oxford Poverty	16384
@@ -56,12 +60,14 @@ Convention de Vienne. Révision	16328
 Council of Ministers View Profile	5775
 Cycle de Vie du Développement du Système	13341
 DE LA PROTECTION DE LA VIE	15643
+DE LA VIE	17829
 DE LA VIE PRIVEE DES PERSONNES	15643
 DE VIE	13300
 DETTE ET LUTTE CONTRE LA VIE	16381
 DUREE DE VIE DE LA MISSION	13844
 Daniel Paulo Viegas	12478
 Demand-Side View of Mobile Internet	961
+Demand-Side View of Mobile Internet Adoption	17870
 Diamond Bank Bénin SUNU Assurances Vie	10821
 Digital Globe Enhanced View Web Hosting	15285
 Disconnect Beau-Clair Isidore Vieira	16545
@@ -70,6 +76,7 @@ Dr. Roberto Vieira	7702
 Durée de Vie	13300
 Dália de Anunciação Delgado Vieira de Andrade Benholiel	15477
 ECONET- LEO ET VIETTEL	13301
+ESPÉRANCE DE VIE	17843
 ET LES CONDITIONS DE VIE DES	2342
 Econet Econet VIETTEL ONATEL Léo VIETTEL	13414
 EconomicDevelopment Post Views	7453
@@ -122,6 +129,7 @@ Luanda AGOSTINHO VIEIRA DO NASCIMENTO	10751
 Luanda VIEGAS RODRIGUES PEDRO RAMOS	10751
 Lumicash de VIETTEL	13324
 Lumitel Viettel Burundi S.A	13357
+L’Enquête Harmonisée des Conditions de Vie des Ménages	17945
 M. Beau-Clair Isidore VIEIRA	16545
 M. Phuong. Investissement de Viettel	13492
 MOROCCO Authorities’ Views	17503
@@ -150,10 +158,12 @@ ONATEL ET VIETTEL	13324,90
 ORGAN OF STATE TO VIEW	11240
 Ocean View	8161
 Orlando Mendes Viegas	11561
+Oumar Vieux DEMBELE Secrétaire	17841
 PARTICIPATION A LA VIE CULTURELLE ET	15732
 PGR. Viewed	9399
 Pakistan Republic of Korea Singapore Thailand Viet	10764
 Patrick Vieira A Dit	4960,62,2035
+Paul Viet-Minh Nguyen	17896
 Paul Viet-Minh Nguyen Task Team Leaders	3604
 Point of View	14434
 Politics Sports African Newsmakers African View	9989
@@ -209,6 +219,7 @@ Take Viet Nam	11356
 Thailand and Vietnam	11964
 Thailand and Vietnam. RCEP	11154
 Tomas Vieira Mario	5388
+Tracks Apply Now View Schedule Event	18039
 Transaction Viewing	11955
 Trevor Vieweg	7303,828
 Tuberculosis Angola Profiles Claudia Robbiati View	10784
@@ -259,6 +270,7 @@ Vie Etudiante	16175
 Vie Privée	548,683,9590,3020
 Vie Privée. Article	1231
 Vie Privée. Le Secrétariat Général	1231
+Vie des Ménages	18077
 Viebeg Technologies	11140
 Viega	10775
 Vieider FM. Responsibility	10780
@@ -281,7 +293,7 @@ Vienna Programme of Action for LLDCs	10844
 Vienna Telephone	1735
 Vienna University of Technology	11572
 Vienna. Page	15138
-Vienne	10712,5335,281
+Vienne	10712,5335,281,1663
 Viennent	2342,2117,4432,1375,609
 Vient	11826
 Vierge	13405
@@ -362,7 +374,7 @@ Viewer	3972,12917
 Viewer.aspx	15346,5,2184
 Viewing	2096,2336,244,3345,2996
 Viewpoint Comparing National Approaches	1824
-Views	7697,1,1,78,92,45,160,90,202,1065,646,707,220,324,766,1072,1579,32,2500
+Views	7697,1,1,78,92,45,160,90,202,1065,646,707,220,324,766,1072,1579,32,2500,643
 Views of What Comes Next	6947
 Views of What Comes Next International	6947
 Vu Quang Viet	236
@@ -372,7 +384,7 @@ Western Cape View	8999
 Westwood Center Drive Vienna	16832
 WiMAX. Viettel Cameroun Cameroun	15542
 Widely Viewed Content Report	13461
-World Bank Group. Views	13312,1585,550,33,1396
+World Bank Group. Views	13312,1585,550,33,1396,994
 World Bank. Views	10714,51,10,374,1179
 World View the Gambia	16951
 YouTubeMinistère du Cadre de Vie	16112

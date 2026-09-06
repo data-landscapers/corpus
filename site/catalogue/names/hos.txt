@@ -65,8 +65,12 @@ Abdool Gaffoor Jeetoo Hospital MIH Mauritius	14773
 Academic Affairs Hospitality Services Internal Audit	10123
 Academic and Regional Engagements. Hosted	17235
 Add Hosea Kutako International Airport	12984
+Administration du Centre Hospitalier de Kaédi. Par	17895
+Administration du Centre Hospitalier de Kiffa	17895
+Administration du Centre Hospitalier de Nouadhibou	18001
 Affordable Broadband and Secure Data Hosting	12253
 African Regional Cyber Sector Symposium. Hosting	6946
+Afrique Centre Hospitalier Universitaire Mère-Enfant Cadre	17882
 Agriculture Ministry and LIFAAS Host Generative AI	17047
 Al-Hadba Al-Khadra General Hospital	9090
 Al-Hadba Al-Khadra Hospital	5264,53
@@ -200,6 +204,7 @@ CRYSTAL COTTAGE HOSPITAL	7167
 CRYSTALVIEW HOSPITAL LIMITED Data Processor INST-47559477A6B	7167
 CUREMARK HOSPITAL LTD Data Controller INST-76385364442	7167
 CYNERT HOSPITAL AND REHABILITATION CENTRE LIMITED	7167
+Cabinet du Ministre Centres Hospitaliers Généraux	17843
 Caching Hosting Information	11179
 Cacuaco Hospital	10776
 Cancer Hospital	14736
@@ -214,15 +219,22 @@ Central Hospitals and K6	13122
 Central and District Hospitals	13122
 Centre Hospitalier	15357,66,262
 Centre Hospitalier Départemental CHU-MEL	15475
+Centre Hospitalier Mère	18025
+Centre Hospitalier National CHN	17907
 Centre Hospitalier Régional Estuaire	16001
 Centre Hospitalier Régional Estuaire-Melen	16099
-Centre Hospitalier Universitaire	15475,700
+Centre Hospitalier Universitaire	15475,700,1828
+Centre Hospitalier Universitaire CSCOM	17824
 Centre Hospitalier Universitaire Départemental CHUZ	15475
+Centre Hospitalier Universitaire Gabriel TOURE	17882
 Centre Hospitalier Universitaire Mère	16175
+Centre Hospitalier Universitaire Mère-Enfant	17882
 Centre Hospitalier Universitaire de Butare CHUK	12338
+Centre Hospitalier Universitaire de Kati	17882
 Centre Hospitalier Universitaire de Kigali CHW	12338
 Centre Hospitalier Universitaire de Libreville	15973,202
 Centre Hospitalier Universitaire de Zone CI	15475
+Centre Hospitalier Universitaire du Point G	17882
 Centre Hospitalier Universitaires CIM	14442
 Centre Hospitalier de Reference Regional	14662
 Centre Hospitalier de Reference Regionales CHU	14442
@@ -234,7 +246,9 @@ Centre Hospitalo-Universitaire Ibn Sina	17517
 Centre Hospitalo-Universitaire de Kamenge	4363
 Centre National Hospitalier	15475
 Centres Hospitaliers	15936
-Centres Hospitaliers Régionaux	16195
+Centres Hospitaliers Régionaux	16195,1648
+Centres Hospitaliers Spécialisés	17843
+Centres Hospitaliers Universitaires	17845
 Centres Hospitaliers de Reference Regionale	14442
 Centres Hospitaliers de Reference de District	14442
 Centres Hospitaliers de Référence de District	14622
@@ -327,6 +341,7 @@ Domain Hosting	12769
 Dr. Hossam Abdel Ghaffar	17562
 Draft Order Gazetting the Host Country Agreement	10313
 E- Local Content and Hosting Government	11857
+E-Santé Centre Hospitalier Universitaire du Point G	17882
 EASTLIFE HOSPITAL LIMITED Data Processor INST-8023254EC74	7167
 ECOWAS COMMISSION HOSTS EVALUATION COMMITTEE MEETING	17380
 ECZ HOSTS	13477
@@ -400,6 +415,7 @@ Gestão de Resíduos Hospitalares	11390
 Ghana Hostel	3386
 Ghana Hostel Complex	3386
 Ghanzi Hospital le Scottish Hospital. Tse	12607
+Golden Life Hospital	17882
 Government Hospitals	12240
 Government of Namibia. Hosted	12448
 Governments A- Minimum Domestic Hosting Year	7548
@@ -455,7 +471,7 @@ Hospice KOUMONDJI	2623
 Hospitais	11537,5556,7
 Hospitais Amigos	15966
 Hospitais Regionais	16019
-Hospital	4209,1176,1645,353,1,1219,828,757,592,400,249,3,47,378,129,342,648,64,167,107,1232,283,415,160,1496,62
+Hospital	4209,1176,1645,353,1,1219,828,757,592,400,249,3,47,378,129,342,648,64,167,107,1232,283,415,160,1496,62,972
 Hospital Adamawa North East	11857
 Hospital Beds and Cots Available	2775
 Hospital Buildings	11129
@@ -480,7 +496,7 @@ Hospital Geral	11429,3,47
 Hospital Geral da Beira	12821
 Hospital Geral de Mavalane	12821
 Hospital Health Information System	12207
-Hospital Information System	3604,12017
+Hospital Information System	3604,12017,2249
 Hospital Information System Maturity Model	1824,10431
 Hospital Information Systems	14398
 Hospital Josina Machel	11454
@@ -546,7 +562,9 @@ Hospitalar	5020,12080
 Hospitales	4209,12753
 Hospitales Públicos	17282
 Hospitalidad	16898
-Hospitalier	15555
+Hospitalier	15555,2327
+Hospitalier Laboratoires Système	17845
+Hospitalier OHADA Non Disponible Universitaire Centre	17845
 Hospitalier Spécialisés	15555
 Hospitalisation	15434
 Hospitalisation Effective JHP	15475
@@ -555,7 +573,7 @@ Hospitalisations Au	15711
 Hospitality	1877,898,7040,2141,199,146,676,3289,745
 Hospitality Collar White Blue Q1	16266
 Hospitality Customer	14566
-Hospitality Industry	12896
+Hospitality Industry	12896,4974
 Hospitality Managers	16266
 Hospitality Think Tank	7253
 Hospitality and Tourism Activities Management	16996
@@ -677,10 +695,11 @@ IDA20 Window for Host Communities and Refugees	1778,1917
 INTERCONNECTION AND LOCAL HOSTING	14879
 IX. Hosting	16924
 Incident Response and Management for Systems Hosted	12967
-Information Hospitalier	3604,12332,505
+Information Enquête Démographique SIPSES Hospitalier EPST	17845
+Information Hospitalier	3604,12332,505,1401,3,37
 Information Hospitalier SIMR	14442
 Information Hospitalier SIS Système	13306
-Information Hospitaliers	16441
+Information Hospitaliers	16441,1441
 Integrated Population of Refugees and Host Communities	12297
 Interconnection and Local Hosting	14879
 Internal Security MORHCSA Modernization of Refugee and Host	1867
@@ -849,6 +868,7 @@ Opuwo State Hospital	12947
 Osaka Metropolitan University Hospital	3760,9683
 Oshakati State Hospital	12947
 Otjiwarongo New Hospital	12933
+PORTANT LOI HOSPITALIERE	17861
 PREPARATIONS FOR HOSTING	13673
 PURA Hosts ECOWAS Regional Electricity Regulatory	17251
 PURA Hosts Stakeholders	16889,362
@@ -885,9 +905,10 @@ Provincia Hospital	16962
 Provincial Administrations and Hospitals	10780
 Provincial Administrations and Public Hospitals	10780
 Provincial Directorates and National Hospitals	10780
-Public Hospitalier	15555
+Public Hospitalier	15555,2327
 Public Hospitals	11980
 Public Sector Hospital Electronic Medical Record	11980
+Publics Hospitaliers	17882
 QUESTIONS FOR ORAL ANSWER HOSPITAL KIOSKS	12607
 Quarter Hosted	11131
 Queen Elizabeth Central Hospital	13040,82,4589

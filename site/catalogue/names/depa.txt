@@ -3,6 +3,7 @@ ACCOUNTING OFFICER STATEMENT The Department of Home	5533
 ADMINISTRATION DEPARTMENT	12962
 ADMINISTRATION DEPARTMENT The Administration Department	12962
 AFTU2 Country Department	16614
+AGRHYMET LES DEPARTEMENTS DU CENTRE REGIONAL	17941
 AGRITEX Department	520
 AI Cross Departmental Aid	7548
 AI Development Department	7548
@@ -194,7 +195,7 @@ Commission's Legal and Regulatory Services Department	9564
 Commissioner for Refugees Department	1988
 Committee of Departmental Directors’ Retreat	11606
 Communication Department	13985
-Communication and External Relations Department	2807,7908,2714
+Communication and External Relations Department	2807,7908,2714,4511,126
 Communication and Public Affairs Department	10522
 Communications Department	2450,11501,177,3234
 Community Development DSW Department of Social Welfare	16867
@@ -321,6 +322,7 @@ DEPARTMENTS REPORT	12977
 DEPARTMENTS The Ministry	12962
 DEPARTURE OF AN AUDITOR	17534
 DEPAT	4209
+DES DEPARTEMENTS	17861
 DES RAPPORTS PAR DEPARTEMENT EN	15475
 DES RESSOURCES HUMAINES DIRECTIONS DEPARTEMENTALES DETACHES	16100
 DFID Department for International Development	11860
@@ -352,6 +354,7 @@ DOMESTIC National Departments Telecommunications	961
 DP Development Partner DWR Department of Water	16927
 DPSA Department of Public Service and Administration BMCS	11986
 DTIC Department of Trade	11261,725
+DU CENTRE AGRHYMET LES DEPARTEMENTS	17941
 Daniel Tulomba Public Health Department	10784
 Data Protection Authority Department of Lands and Surveys	16926
 Database Management Department	7159
@@ -666,6 +669,7 @@ Department of E-Government for ICT	12917
 Department of E-Government. Project	12917
 Department of E-Government. Taking	12917
 Department of EP&D	12978
+Department of Economic Affairs and Agriculture	17936
 Department of Economic Development and Tourism	9791
 Department of Economic Diplomacy	10592
 Department of Economic Planning and Development	12197,781,166
@@ -688,7 +692,8 @@ Department of Employment and Job Creation	5172
 Department of Employment and Labour	5533,1299,4448,809,779
 Department of Employment and Labour DHET	6832
 Department of Energ	16851
-Department of Energy	11342,548,435,238,4288
+Department of Energy	11342,548,435,238,4288,1029
+Department of Energy URL	17880
 Department of Energy Yiews	16851
 Department of Energy and Electricity	11272
 Department of Engineering	12178
@@ -914,6 +919,7 @@ Department of Statistics	10780,1367,4686
 Department of Statistics and Data Processing	16833,102,214
 Department of Strategic Policy Planning	13310
 Department of Surveyor-General	12511
+Department of Sustainable Environment and Blue Economy	17922
 Department of Technology	11224
 Department of Telecommunications	17240
 Department of Telecommunications and Digital Economy	11965
@@ -990,7 +996,7 @@ Departmental Technical Committee	12138
 Departmental and Agency Information	16885
 Departmental-Papers-Pol-	961
 DepartmentofInformatics	8603
-Departments	969,162,541,1,62,552,244,95,21,1,131,210,615,522,1119,199,349,484,110,45,107,247,45,717,921,200,405,1835,51,225,31,4,17,308,309,3,136,56,96,6,6,57,27,12,92,192,14,93,30,207,81,8,2,15,3,15,55,20,15,27,190,2,6,11,23,5,22,5,63,197,900,128,44,1,2,8,16,1,4,3,8,25,42,3,4,1,10,83,75,86,57,312,14,19,21,5,35,68,613,9,128,230,232,10,17,25,36,2,1,3,24,1,33,114,6,9,35,86,12
+Departments	969,162,541,1,62,552,244,95,21,1,131,210,615,522,1119,199,349,484,110,45,107,247,45,717,921,200,405,1835,51,225,31,4,17,308,309,3,136,56,96,6,6,57,27,12,92,192,14,93,30,207,81,8,2,15,3,15,55,20,15,27,190,2,6,11,23,5,22,5,63,197,900,128,44,1,2,8,16,1,4,3,8,25,42,3,4,1,10,83,75,86,57,312,14,19,21,5,35,68,613,9,128,230,232,10,17,25,36,2,1,3,24,1,33,114,6,9,35,86,12,689
 Departments Accountant General	14847
 Departments Achieved Presidential Hotline Members	11224
 Departments Affected By Supplementary Budget	2428
@@ -1078,6 +1084,7 @@ Development Partners The Department of Human Resource	12972
 Development Police Department and Space Science	17157
 Development UNDESA United Nations Department for Economic	13312,2
 Development. The Department of Home Affairs	11986
+DfID U.K. Department for International Development EFA	17849
 Difusão Departamento de Informação	4044,7377
 Digital Development Department	1264
 Digital Health Department	12291
@@ -1145,6 +1152,7 @@ Electoral Commission's ICT Department	7266
 Electricity Rationing The Department of Energy	16851
 Electronic Signature Law. The Department	15492
 Elon Musk's Department of Government Efficiency	7750
+Employment Promotion Training Department. Interview	17870
 Empower the Department of E-Government	12214
 Empower the Department of E-Government Accelerate	12214
 Energy Systems Department	12178

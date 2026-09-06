@@ -37,6 +37,7 @@ DATE FIX	4964
 DE LA FIXATION DES PLAFONDS DES	15426
 DECISION ON AUTHORISING FIXED BROADBAND INTERNET	2913
 DIGITAL INFRASTUCTURE Malawi Fixed Wireless and Fiber	12937
+Dans le FIXANT LES REGLES SPECIFIQUES APPLICA-	17812
 Development of Fixed Broadband Networks	15471
 Dig Once Policy P-5 Fixed Internet	11857
 Digitalisation of Fixed Penalty Notice	14830
@@ -56,16 +57,35 @@ Enhanced Mobile Broadband and Fixed Wireless Access	2528
 Excise and Preventive Service CFC Consumption of Fixed	236
 F FIXED WIRELESS	14879
 FBB Fixed Broadband FDI Foreign Direct	10781,80,1566,2055
+FCFA HT FIXE	17833
 FIX and Totalsports	16794
+FIXANT	17829,203
+FIXANT LA LISTE DES FILIERES	17829
+FIXANT LA LISTE NOMINATIVE DES MEMBRES	17982
+FIXANT LA REPARTITION DE L’AIDE FINANCIERE	17829
+FIXANT LE CADRE ORGANIQUE	17827
+FIXANT LE CADRE ORGANIQUE DES SERVICES	17982
+FIXANT LE MONTANT ET LES MODALITES	17899
+FIXANT LE REGIME DES MARCHES	17982
 FIXANT LES CONDITIONS D'ETABLISSEMENT ET	10896,10
 FIXANT LES CONDITIONS DE DELIVRANCE ET	15885
 FIXANT LES CONDITIONS DE SECURITE	16651
 FIXANT LES CONDITIONS ET MODALITES DES	16203
+FIXANT LES DETAILS DE LA COMPOSITION	17899
+FIXANT LES Experts	17861
+FIXANT LES MODALITES	17841
 FIXANT LES MODALITES D'APPLICATION	15436
+FIXANT LES MODALITES D’APPLICATION	17814
 FIXANT LES MODALITES D’INSCRIPTION ET	16651
 FIXANT LES MODALITÉS DE LA SURVEILLANCE	15508
 FIXANT LES MODALITÉS DE MISE EN	10897,9
+FIXANT LES MODALITÉS D’APPLICATION	17812
 FIXANT LES REGLES D’OCCUPATION ET Considérant	15439
+FIXANT LES REGLES SPECIFIQUES APPLICA-	17812
+FIXANT L’ORGANISATION ET LES MODALITES	17812,15,72
+FIXANT L’ORGANISATION ET LES MODALITES Vu	17841
+FIXANT Sékou DIAKITE LES MODALITES	17817
+FIXANT Vu le Décret N	17817
 FIXATION DE LOYER D’AVANCE Arrêté	15426
 FIXATION DE PRIX DE CESSION Arrêté	16367
 FIXATION DES PLAFONDS DES	16047
@@ -104,7 +124,9 @@ FIXED WIRELESS ACCESS	6000
 FIXED WIRELESS ACCESS APPLICATION FORM	736
 FIXED and MOBILE X-RAY EQUIPMENT	11269
 FIXED-TO-MOBILE TELEPHONE TRAFFIC	11211,51
+FIXES	17841
 FIXO VIA RÁDIO	11531
+FRAIS FIXE	17833
 FSSES Fixed Satellite Service Earth Stations	6946
 FTA Free-to-Air FTR Fixed Termination Rate	6946
 FWA Fixed Wireless Access GBB Galaxy	11857
@@ -123,7 +145,7 @@ Fixation des Conditions	13313
 Fixation des Conditions de Mise	15497
 Fixação	11518,2,1333,2505
 Fixe Taux	998
-Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58,379,165,94,2,784,53,117,353,215,17,44,223,16,69,167,52,47,40,106,145,105,685,258,73,6,11,40,35,261,14,129,364,12
+Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58,379,165,94,2,784,53,117,353,215,17,44,223,16,69,167,52,47,40,106,145,105,685,258,73,6,11,40,35,261,14,129,364,12,107,8,7,1
 Fixed Annual	13331
 Fixed Asset	13053,2037
 Fixed Asset Management Units	9004
@@ -142,6 +164,7 @@ Fixed Broadband Market Shares	12395
 Fixed Broadband Networks Access	718
 Fixed Broadband Penetration	16975
 Fixed Broadband Plan Ireland Yes National	11529
+Fixed Broadband Retail Market	17870
 Fixed Broadband Revenue Subscriptions Market	12395
 Fixed Broadband Subscription	2776
 Fixed Broadband Subscriptions	2776,9619,2741
@@ -180,6 +203,7 @@ Fixed International Voice Traffic	15136
 Fixed Internet	6000,5211,51,4500
 Fixed Internet Broadband Broadband	12395
 Fixed Internet Data Traffic Market	6085
+Fixed Internet Retail Price	17862
 Fixed Internet Subscription	13346
 Fixed Internet Subscriptions	718,5953
 Fixed Internet Traffic	15136
@@ -316,14 +340,14 @@ Fixed-effects	10852
 Fixed-line	1013,1763,1783,6652,1184,2441,61
 Fixed-speed	11085
 Fixed-tele	10844
-Fixed-telephone	718,6228,3898,1489,11,3273,1323
+Fixed-telephone	718,6228,3898,1489,11,3273,1323,937,1
 Fixed-term	10776,358,162
 Fixed-to-mobile	16839
 Fixed-wired	12395
 Fixed-wireless	1818,5080,5497
 FixedBB	11563
 Fixedsales	12769
-Fixer	7920,971,1985,2425,40,378,62,62,1631,462,609
+Fixer	7920,971,1985,2425,40,378,62,62,1631,462,609,1277
 Fixes	998
 Fixes L’évolution	998
 Fixing	9683,26,2629,118
@@ -336,7 +360,7 @@ Fixing the Frictions. Chapter	11149
 Fixing the Rules	11960
 Fixtures and Fittings	14736
 Fixée	2014
-Formation Brute de Capital Fixe	9276
+Formation Brute de Capital Fixe	9276,8669
 Formation Brute de Capital Fixe FBU	13377
 Frequency Assignments for Non-Protected Fixed Links	6946
 Frequency Assignments for Non-Protected Fixed Links Band	6946
@@ -345,6 +369,8 @@ G Fixed Wireless Access	6100,10710
 G and Mobile Fixed Mobile Fixed Indi-	17743
 G and Mobile Fixed Mobile Fixed Individ-	17743
 GSM FIXED ISP VAS C&I OTHERS	3862
+GSM Fixe	18093
+GSM Fixes	18093
 Gabon Telecom Fixe GVA GBM Comparativement	15706
 General UI Improvement Minor Bug Fixes	15867
 Gigabytes. Fixed	11085
@@ -386,6 +412,7 @@ Internet Fixe Taux	998
 Internet Fixo	11531
 Internet and Broadband Fixed Broadband	12395
 Internet. F Fixed Wireless	16872
+Intégration FIXANT LA LISTE NOMINATIVE DES	17829
 IoT Fixed Service	3898
 IoT Fixed Services and IoT	6100
 Item of Tangible Fixed Assets Years Buildings	11955
@@ -400,6 +427,10 @@ Landlocked Developing Countries Fixed	10844
 Ligne Fixe Téléphone Mobile Ordinateur	15498
 M-PESA and Fixed Services	6100
 M. Mobile and Fixed Operators	1872
+MDSSPA-SG FIXANT L’ORGA- NISATION ET	17812
+MDSSPA-SG Fixant	17812
+MDSSPA-SG Fixant ARTICLE	17812
+MEN-SG FIXANT LES CONDITIONS D’ACCÈS	17812
 MHz Fixed	12949
 MOBILE DATA AND FIXED BROADBAND	11262
 MODALITES D'INTERCONNEXION AVEC LES RESEAUX FIXES	15394
@@ -413,7 +444,7 @@ Mn Fixed	3898,2202
 Mn Fixed Service and IoT	3898
 Mobile Data and Fixed Broadband	11262
 Mobile Drive Test and Fixed Internet Test	12616
-Mobile Fixed	1013
+Mobile Fixed	1013,16857
 Mobile Fixed Mobile Fixed Indi- Indi-	17743
 Mobile Fixed Mobile Fixed Individ- Individu-	17743
 Mobile Network Operators Fixed Network Operators	12395
@@ -423,7 +454,7 @@ Mobile and Fixed Networks	2776
 Mobile and Fixed Telephone Services Mobile	718
 Moov Africa Gabon Telecom Fixe	15706
 MÉTHODE DES JOURS FIXES	13300
-NA Fixed	15617
+NA Fixed	15617,2261
 NETWORK DATA FIXED TELEPHONY	3862
 NETWORK DATA- FIXED TELEPHONY	3862
 NIGER TELECOMS S.A. Fixe	998
@@ -449,13 +480,16 @@ Outgoing Fixed Voice Traffic	6671
 Outgoing and Incoming Fixed Voice Traffic	15136
 Outgoing and Incoming Fixed Voice Traffic- Q4	15136
 P-5 Fixed Internet	11857
+P-RM Fixant	17812
 PAPSS CANNOT FIX Weak	9593
 PART III Light Licence for Broadband Fixed	736
+PORTANT ABROGATION PARTIELLE DU FIXANT	17899
 PORTANT FIXATION DES TAUX DES DROITS	7470
 PROGRESS ACHIEVED IN FIXED AND MOBILE	14853
 PUBLIC PUBLIC Fixed	1818
 Plan Environmental and Social Management Framework Fixed	15372
 Portant Fixation des Conditions	13313
+Public. FIXANT L’ORGANISATION ET LES MODALITÉS	17812
 Purpose of Chapter Part B Fixed	11181
 Quarter-on-Quarter Fixed Broadband	2776
 Quarterly Domestic Fixed Voice Traffic	6671

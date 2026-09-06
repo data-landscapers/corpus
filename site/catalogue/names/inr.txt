@@ -2,6 +2,7 @@ Agency INRAP Monitoring and Evaluation Ministry of Social	11905
 CRAPC ITCMI MADRP ITAFV INRAA DGSN	16103
 CRAPC ITCMI MADRP ITAFV INRAA Révision	16103
 Economie Rurale INR Instituts Nationaux de Recherche	12
+Economie Solidaire INRSP Humain UEMOA INSTAT	17845
 GWAN ICT IFMIS INRIS ISMS ISP	12453
 IFR Interim Financial Report INRIS Integrated	1867
 INR About the Organization Mobile for Development	9072
@@ -16,7 +17,8 @@ INRIA	3465,12471
 INRIS	1867,12,109,266,37,1271,816,1248,2413,2308,2009,50,29,14,4,892,2,78,10,4251
 INRIS API	12453
 INRIS API Manager	4378
-INRSP	12
+INRSP	12,17833
+INRSP Institut	17843
 INRSP Institut National de Recherche	12
 ITAFV INRAA DGSN STAEM UTC BAT	16103
 InReport2	8606
@@ -26,5 +28,6 @@ Inreal-worldsettings	8606
 Inredgiaona	12151
 Inroofwrualpestdarguveecrtauangrede	12351
 PROPOSE PAR ITCMI MADRP ITAFV INRAA	16103
+Santé INRSP Vu la Loi	17841
 Sciences Physiques INRAB Institut de Recherche	15583
 Sustainable Agriculture Making Inroads	10841

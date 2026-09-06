@@ -17,13 +17,16 @@ Closing Date P167478 IDA-D4840 Effective	16638
 Closing Date P174620 IDA-D9950 Effective	15619
 Closing Rev. Closing IDA-66100 Effective	15735
 Closing Rev. Closing IDA-67180 Effective	16013
+Closing Rev. Closing IDA-68300 Effective	17958
 Closing Rev. Closing IDA-68480 Effective	17000
 Closing Rev. Closing IDA-72060 Effective	12440
 Closing Rev. Closing IDA-72740 Effective	16994
 Closing Rev. Closing IDA-73570 Effective	10870
 Closing Rev. Closing IDA-74440 Effective	16705
 Closing Rev. Closing IDA-74630 Effective	12228,39
+Closing Rev. Closing IDA-75030 Effective	18006
 Closing Rev. Closing IDA-75110 Effective	17079
+Closing Rev. Closing IDA-75340 Effective	17904
 Closing Rev. Closing IDA-79260 Effective	7877
 Closing Rev. Closing Not IDA-79260	4688
 Closing for Withdrawal Applications IDA-E0930 Effective	1284
@@ -61,6 +64,7 @@ Disbursed Disbursed IDA-74440 Effective	16705
 Disbursed IDA-66100 Effective	15735
 Disbursed IDA-67180 Effective	16013
 Disbursed IDA-68480 Effective	17000
+Disbursed IDA-75030 Effective	18006
 Disbursed IDA-79260 Effective	7877
 Disbursed IDA-E2940 Effective	17096
 Disbursed Not IDA-79260	4688
@@ -83,16 +87,20 @@ FIN SUMM OLD Financing Source Amount IDA-D3170	11525
 FINANCING World Bank Financing IDA-52240 IDA-D2980	15601
 FM IDA’s FM	3604
 Financial Statements of IDA Grant H5130	11525
+Financing Approval Effectiveness Closing IDA SASPP	17906
 Fund Flows Diagram IDA Account	3604
 Funds Flow IDA Special Commitments and Directs	13331
 Funds GoC Budget Financiers IDA	15372
 Funds IBRD IDA Grants Net	4653,11379
+GCF and IDA	17962
+GCF. While IDA	17962
 GFF IDA	16032
 GIR GPE GRM HRMIS ICR IDA	16436
 GLASS GDT GTS HPV IDA Analyse	14622
 GNU IBRD IDA IDP ISPA LYD	16902
 GP IDA	14897
 GRANT IDA D4300-CF	15702
+GRANT IDA-D0540	17849
 GRM GSMA IA ICT IDA INDG	1228
 Gender Parity Index IDA International Development	14896
 Global Partnership for Education Fund IDA Resources	11905
@@ -179,10 +187,11 @@ IDA Financing Gap	13331,2813
 IDA Financing Gap DETAILS	10963,4590
 IDA Financing Gap DETAILS World Bank	14576,1082
 IDA Financing Gap Total Amount DETAILS	10964
+IDA GCF GoM	17962
 IDA GESDeK-7438-KE	14546
 IDA GRANT Direct	11855
 IDA General Conditions	11855
-IDA Grant	761,503,20,420,163,424,598,673,7267,696,35,577,695,279,220,456,1123,44,22,114,7,93,221,247,3,483,254,524
+IDA Grant	761,503,20,420,163,424,598,673,7267,696,35,577,695,279,220,456,1123,44,22,114,7,93,221,247,3,483,254,524,927,113
 IDA Grant Agreement	16922
 IDA Grant H9080	11525
 IDA Grant IDA Shorter Maturity Loan	11905
@@ -198,6 +207,7 @@ IDA III.B.1	10768,5376
 IDA IPF	3129,1250,11653
 IDA International Development Association	14038,1152
 IDA International Development Association IDEA Inclusive	6539
+IDA International Development Association IDP Internally	17906
 IDA International Development Association IFC International	11560
 IDA International Development Association ISR Implementation	13836
 IDA Investment Project Financing	2840
@@ -241,6 +251,8 @@ IDA WHR	10841,1064
 IDA WHR Grant	11905
 IDA Window for Host Communities and Refugees	1290,10634
 IDA and AIIB	14966
+IDA and FVC	17962
+IDA and GCF	17962
 IDA and GPE	11905
 IDA and GoC	15372
 IDA and Government	15372
@@ -261,6 +273,8 @@ IDA-18	11905,3696
 IDA-20 WHR	11905
 IDA-20 Window for Host Communities and Refugees	11905
 IDA-52240	15601
+IDA-52530	17862
+IDA-52550	17862
 IDA-53040	15386,318
 IDA-53580	11924
 IDA-57510	15990
@@ -280,6 +294,7 @@ IDA-66650	15990
 IDA-67070	13742
 IDA-67410	15386,318
 IDA-67920	11965
+IDA-68300 Effective	17958
 IDA-68480	16891
 IDA-68980 REFERENCE NUMBER	11750
 IDA-69930	15531,452
@@ -294,7 +309,10 @@ IDA-73570 Effective	10870
 IDA-7445-MR Emis	5983
 IDA-74450 Effective	16705
 IDA-74630 Effective	12228,39
+IDA-75040 Closed	18006
 IDA-75110 Effective	17079
+IDA-75340 Effective	17904
+IDA-75350 Effective	17904
 IDA-75370 PROJECT ID No	16493
 IDA-77670-001 Currency	16187
 IDA-77680-001 Currency	16187
@@ -306,10 +324,12 @@ IDA-D2980 ON A CREDIT	15601
 IDA-D3820	13722
 IDA-D4220	11924
 IDA-D4300	15702
+IDA-D4730	17962
 IDA-D5080	15959
 IDA-D5160	15959
 IDA-D5170	15959
 IDA-D5220	15959
+IDA-D5680 Effective	17904
 IDA-D6090 Effective	15735
 IDA-D6100 Effective	15735
 IDA-D6110 Effective	15735
@@ -319,6 +339,7 @@ IDA-D6760	13742
 IDA-D7350	14885,63
 IDA-D7560	15731
 IDA-D7700	14885,63
+IDA-D7730 Effective	17958
 IDA-D7830	16891
 IDA-D7830 Effective	17000
 IDA-D8440	15990
@@ -338,6 +359,7 @@ IDA-E2640 Effective	16705
 IDA-E2670	17287
 IDA-E2670 Effective	16705
 IDA-E2720 Effective	12228,39
+IDA-E3140 Effective	17904
 IDA-E338-MW PROJECT NUMBER	12253
 IDA-E338-MW TERMS OF REFERENCE FOR PROVISION	3678
 IDA-E3450	15737
@@ -366,10 +388,13 @@ IDA-only	1264
 IDA. Critical	3604
 IDA. Effectiveness Deadline	1179
 IDA. En	10876
+IDA. Expenses	17962
 IDA. Financing Gap	15782
+IDA. Further	17962
 IDA. IV.2.2. Mobilisation	10876
 IDA. Looking	12980
 IDA. Page	11525
+IDA. The AFD	17849
 IDA. The IDA	9123
 IDA. Type	1993
 IDA.worldbank.org	13431,1575
@@ -455,10 +480,14 @@ Jul-2026 IDA-D6090 Effective	15735
 Jul-2026 IDA-D6100 Effective	15735
 Jul-2026 IDA-D6110 Effective	15735
 Jul-2026 IDA-D6120 Effective	15735
+Jun-2026 IDA-75350 Effective	17904
+Jun-2026 IDA-D5680 Effective	17904
+Jun-2027 IDA-75040 Closed	18006
+Jun-2027 IDA-D7730 Effective	17958
 Jun-2029. Loan IDA-E4720	14956
 Loans and IDA Credits	15411
 M Disbursed IDA	2989
-M IDA	1024,1102,12893
+M IDA	1024,1102,12893,2943
 MAIORES DE IDADE	11425
 MDAs and HDAs. The IDA	9123
 MIA's Central Office Dec IDA	17180
@@ -497,6 +526,7 @@ Project Financing Allocation Components IDA Financing	3604
 Project Impl IDA	17180
 REALLOCATION NEW IDA-D7310-001	16896
 RESULTS REPORT IDA	11924
+RESULTS REPORT ON AN IDA	17962
 Rais Idara	8411
 Rate of Return IDA International Development Association	11924
 Reallocations IDA-70780-001 Currency	16187
@@ -520,6 +550,7 @@ SUW World Bank IDA Scale-up Facility	15515
 Satellite Earth Observation for IDA Impact	17405
 Satellite IDA IDH ITU ISABU ISO	13290
 Security Operations Cent IDA	17219
+Sep-2025 IDA-E3140 Effective	17904
 Seraphin Kientega Ms. Idani	10845
 Service IDA International Development Association IFC	17099
 Service Providers IDA Transfers	10829
@@ -532,7 +563,9 @@ TDA and IDA	15473
 TDA and IDA.87	15473
 TF IDA-67920-001	11965
 TF073377. The IDA-	13332
+TOR IDAG AKO	17828
 Technology ID Identity Card IDA International	2775
+Technology IDA International Development Association IFRs	17862
 Through IDA	12245
 Tuesday. Idarati X.0	4995
 Turma N.º Nome Idade Contacto	16325
@@ -554,6 +587,7 @@ WAEMU IDA Component	16144
 WB IDA USD	607
 WCD IDA-eligible	11310
 Within the Idarati X.0	5009
+World Bank Financing IDA-D0540	17849
 World Bank Financing IDA-H8780	13722
 World Bank Group's IDA Private Sector	3984
 World Bank Group's IDA19 Commitments	14897

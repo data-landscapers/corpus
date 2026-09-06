@@ -151,7 +151,7 @@ Global Database	13624
 Global Electrification Database	11572
 Global Emerging Markets Risk Database	11310
 Global Emerging Markets Risk Database Consortium	11310
-Global Findex Database	940,4625,974,4175,108,19,136,161,822,243,28,18,835,675,1138,946,1,2,819,277,103
+Global Findex Database	940,4625,974,4175,108,19,136,161,822,243,28,18,835,675,1138,946,1,2,819,277,103,825,55
 Global Household Energy Database	11572
 Global ID4D Database. World Bank	16942
 Global Innovation Index Database	10846
@@ -163,7 +163,7 @@ GlobalComms Database. Figure	16942
 GovTech Projects Database	11867
 HRD Database	12972
 ICASA Database	11259
-ICT Indicators Database	1248,8511,2585,3167,106,1323
+ICT Indicators Database	1248,8511,2585,3167,106,1323,937,1
 ICT Indicators Database. Geneva	16872
 ICT Regulatory Database	11529
 ID for All The National Database and Registration	3623
@@ -173,6 +173,7 @@ ID4D- Global Findex Database	10714
 ID4D-Global Findex Database	10714
 IEA-IRENA Joint Policies and Measures Database	12261
 II. VSLA Mapping and Database Development	17235
+ILO NATLEX Database	17970
 IMF Central Government Debt Database and World	16949
 IMF World Economic Outlook Database	12385
 IMF World Revenue Longitudinal Database	13624
@@ -200,6 +201,7 @@ Libyan Legal Database	0
 Local Addressing Database	11129
 Local Digital Address Databases	16915
 MAISHA INTEGRATED DATABASE	12165
+MRT 2024 FINDEX v01 M Title The Global Findex Database	17925
 MS SQL Database	15478
 Maisha Integrated Database	12165,62
 Maisha Integrated Database.126 Despite	12227
@@ -233,6 +235,7 @@ National Identity Database	4602,972,1567,3,1970,556
 National Identity Database. Under DG Abisoye	3703
 National Identity Management Database and Immigration	7914
 National Master Database	12323,2180
+National Recommendations Tracking Database	17934
 National Research Database System National Research	1554
 National Research Database of Zimbabwe	1554
 National Risk and Import Decision Database	14818

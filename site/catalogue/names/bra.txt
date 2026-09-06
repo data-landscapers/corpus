@@ -5,6 +5,7 @@ AI. Dr Nick Bradshaw	11012
 APP BRAZZAVILLE APPROCHE	16552
 ARCEP Deputy Director General Isra Brahim	6752
 ASM Asylum Seeker Management BABS Branch	11218
+Abdoulaye Brahima COULIBALY	17982
 Absence de Brand	16641
 Acting Branch Manager and Relationship Manager	6946
 Adequacy Decision for Brazil	9067
@@ -43,6 +44,7 @@ B13-00534. Brazzaville	16177
 BAOSTEEL EUROPE GMBH. KE BRANCH Data	7167
 BCB Brazil’s Banco Central	11994
 BFI CONGO BRAZZAVILLE	15901
+BR BRAKNA	17902
 BRA Benadir Regional Administration FMS Federal	14874
 BRAC KENYA COMPANY LIMITED Data Controller	7167
 BRAC KENYA COMPANY LIMITED Data Processor	7167
@@ -65,6 +67,7 @@ BRAINSAT	7097
 BRAINSAT. Sa	7097
 BRAINSTORM INSURANCE BROKERS LIMITED Data Controller	7167
 BRAINSTORM INSURANCE BROKERS LIMITED Data Processor	7167
+BRAKNA	17902
 BRALICO	15685
 BRAMOLYNESS COMPANY LIMITED Data Controller INST-4012832681C	7167
 BRAMOLYNESS COMPANY LIMITED Data Processor INST-4012832681C	7167
@@ -170,7 +173,10 @@ Brahim Mezned	8891
 Brahim Moussa Hassan	6755
 Brahim Ouchene	15608
 Brahim Ouhdi	11742
+Brahim Ould Messoud Ould Belkheir	18087
 Brahim Zidouh	8891
+Brahima COULIBALY	17819
+Brahima GORO CNDIFE	17845
 Brahima Konaté	15264
 Brahima Konaté. Après	15264
 Brahima Konaté. Ingénieur	15264
@@ -207,6 +213,11 @@ Brak and Al-Abrak	1849
 Brakacayaasha Gudaha	15047
 Brake	15027
 Braking	13385,3515
+Brakissa COULIBALY Vice-président	17899
+Brakna	17843,64,24,96,26,12
+Brakna Aleg	17931
+Brakna Brakna Assaba Assaba Hodh	17867
+Brakna. Cependant	17931
 Bralirwa and MTN Rwandacell PLC	14997
 Bram Fudzu	4775
 Bram Thuysbaert	10964
@@ -237,7 +248,7 @@ Branch Operations Room Divisional Operations Room	14781
 Branch Report	12500
 Branch. Substantive	12786
 Branch. The DHA	5533
-Branche	737,10138
+Branche	737,10138,7006
 Branche Aucun SYSCOHADA Cahier de Non	10875
 Branche Dispose	10875
 Branche Effectif Pourcentage	10875
@@ -248,7 +259,7 @@ Branche Micro- Petite Moyenne Grande Non	10875
 Branche Oui Non Non	10875
 Branchements	3396,6628,5518
 Branchements XXV Programme Résultats	3396
-Branches	5533,3524,1769,1804,2130,237,1866
+Branches	5533,3524,1769,1804,2130,237,1866,1115
 Branches Affilié Non	10875
 Branches Capital	10875
 Branches Debt	16968
@@ -257,7 +268,7 @@ Branches On-time	16968
 Branches Police Main Command	14760
 Branches and Units	14760
 Branching Unit	16716
-Brand	5247,2719,289,1200,514,1048,114,753,321,4436,293,9
+Brand	5247,2719,289,1200,514,1048,114,753,321,4436,293,9,1093
 Brand Africa	8919
 Brand Equity	6946
 Brand Equity The Authority	6946
@@ -314,8 +325,9 @@ Brasil Sim Inicial Sim	2816
 Brasil. Em	8760
 Brasil. JurídicoAI. Disponível	2816
 Brasil. Trata-se	8179
-Brasilia	10764,80,719,1532,4648
+Brasilia	10764,80,719,1532,4648,113
 Brasilia and Amman	16902
+Brasleesoarudtoonrintaéns.cement	18063
 Brass	2277,33,1068,3637,6258
 Brassage	747
 Brassilive David Razanantsoa	14644
@@ -440,7 +452,7 @@ Brazza-	15660,379,61
 Brazza- Association	15901
 Brazza- M. OKONDZA EGNIMBA	16039
 Brazzavile	16177
-Brazzaville	117,318,552,159,40,41,70,2,344,72,2,159,466,165,33,24,91,83,25,91,88,249,103,2,6,11,13,80,3,267,87,14,7,1,7,9,35,69,230,34,172,236,30,64,325,25,58,24,185,15,168,424,20,118,34,15,256,118,133,20,155,97,40,36,17,57,141,65,46,33,49,1,315,7,12,27,77,274,741,391,278,49,98,99,104,725,65,168,65,749,68,189,3,8,23,2,14,8,6,13,12,63,13,5,7,3,9,16,2121,1,28,8,1144,18,7,11,5,10,15,3,3,13,10,6,10,9,14,5,20,11,18,11,5,54,3,3,41,1,13,12,7,8,22,2,20,36,6,13,31,18,43,10,7,36,13,8,4,6,37,25,2,8,22,23,1,5,2,21,9,6,39,2,8,42,8,7,2,3,1,1,1,24,1,8,65,19,2,6,6,22,1,3,6,3,3,6,9,3,16,3,6,24,36,5,25,37,19,1,936
+Brazzaville	117,318,552,159,40,41,70,2,344,72,2,159,466,165,33,24,91,83,25,91,88,249,103,2,6,11,13,80,3,267,87,14,7,1,7,9,35,69,230,34,172,236,30,64,325,25,58,24,185,15,168,424,20,118,34,15,256,118,133,20,155,97,40,36,17,57,141,65,46,33,49,1,315,7,12,27,77,274,741,391,278,49,98,99,104,725,65,168,65,749,68,189,3,8,23,2,14,8,6,13,12,63,13,5,7,3,9,16,2121,1,28,8,1144,18,7,11,5,10,15,3,3,13,10,6,10,9,14,5,20,11,18,11,5,54,3,3,41,1,13,12,7,8,22,2,20,36,6,13,31,18,43,10,7,36,13,8,4,6,37,25,2,8,22,23,1,5,2,21,9,6,39,2,8,42,8,7,2,3,1,1,1,24,1,8,65,19,2,6,6,22,1,3,6,3,3,6,9,3,16,3,6,24,36,5,25,37,19,1,936,468
 Brazzaville ABONNEMENTS DESTINATIONS NUMERO	15395,10
 Brazzaville AMO	16552
 Brazzaville Aerodrome Meteorological Office	16552
@@ -533,11 +545,13 @@ Brazzaville. Le Projet	15908
 Brazzaville. Maître Sylvert Bérenger KYMBASSA BOUSSI	15426
 Brazzaville. Page	11905
 Brazzaville. Par le Président	15395,44
+Brazzaville. Rencontres	18013
 Brazzaville. Siège	16425
 Brazzaville. Son	15580
 Brazzaville. Sous	6675
 Brazzaville. Sub	15659
 Brazzaville. Toutefois	435,751,14240
+Brazzaville. Vu le Décret	17827
 Brazzaville55	15493
 Braïma Barro	2074
 Busamed Bram Fischer International Airport Hospital	11986
@@ -581,7 +595,7 @@ Commune de Brazzaville	15615
 Communication Branch CP	14760
 Communications Branch	14760
 Compagnons de De Brazza	16039
-Congo Brazzaville	236,224,56,185,312,421,160,14065
+Congo Brazzaville	236,224,56,185,312,421,160,14065,2354
 Congo Brazzaville and Chad. Malhotra	7942
 Congo Brazzaville and Ghana. EAIF	516
 Congo Brazzaville. Elles	1594
@@ -595,6 +609,7 @@ Cyril Brandt	11916
 DF Brazil Barbados International Telecommunication Union	10764
 DF Brazil Email	11563,6180
 DF Brazil International Telecommunication Union	10844
+DF Brazil La Barbade International Telecommunication	17856
 DHA. The Branch	5533
 DID de Brazzaville	16249
 DISTRICT Long FS Busamed Bram Fischer	11986
@@ -608,6 +623,7 @@ Director of Brand and Public Relations	17467
 Divisional and Branch Training Units	14760
 Divisions and Branches	14760
 Djiri Brazzaville. Date	16367
+Docteur Brahima FOMBA	17861
 Documents Cyril Brandt	11916
 Dolisie Décentralisation Brazza	16527
 Dolisie Dépêches Brazza	16130
@@ -674,7 +690,10 @@ Google Scholar Brause	11028
 Government Branch	1802,10382,51
 Government of Brazil	17017
 Grand Bois Mediclinic and Bramsthan Area Health	14773
+Guidimaka Gorgol Dakhlet Nouadhibou Brakna Assaba	17867
 GÉNÉRAL Département de Brazzaville BRAZZA HOSPITALITY GROUP	16177
+Général de Brigade Brahima DIABATE Membre	17982
+Général de Brigade Brahima DIABATE Sécurité	17982
 H. and Branch	12090
 H.E. Mr. Bramha Kumar	13509
 Harare. Branded	8943
@@ -718,9 +737,11 @@ Kinkala and Brazzaville	15659,310
 Korea Poland Brazil Croatia Chile India	7655
 LCB Bank de Poto-Poto Brazzaville	15426
 LG Ethiopia Branch Leader	15195
+La Branche	17881
 La Brasserie	14742,88
 Lachemi BRAHMI	15507
 Le Congo Brazzaville	15673
+Les Branches	17978
 Les Brasseries du Cameroun	10841
 Les Depeches de Brazzaville	2655
 Les Dépêches de Brazzaville	2436,104,116,198,88,360,104,146,152,81,822,64,1083,141,138,49,373,406,356,57,71,79,643,3957,3,3428,948
@@ -728,6 +749,7 @@ Les Dépêches de Brazzaville. Droits	12024,3
 Les Dépêches de Brazzaville. Tagged	12024,3
 Lessons About Brazil’s PIX	5700
 Libya Branch	3464
+Lieutenant-colonel Sapeur-pompier Brahima KOLO	17861
 Likouala Brazzaville	16249
 Limited Ho Chi Minh City Branch	2836
 Limpopo Taxi Branding	8999
@@ -765,6 +787,7 @@ Ministère des Finances Contactez-nous Brazzaville	15422
 Mme Konan Brah Juliette	8694
 Modification Département de Brazzaville Année	15524
 Mohamed Benkaddour Abderrahim Laabaid Brahim Zidouh	8891
+Monsieur Brahima DIAWARA	17817
 Moungali Brazzaville	15848
 Mr. Philippe Branchat	14021
 Mr. Raphael BRIGANDI and Ms. Enya BRAUN	16888

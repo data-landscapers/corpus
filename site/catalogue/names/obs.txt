@@ -118,6 +118,7 @@ Earth Observation for Agricultural Statistics	13394,81
 Earth Observation-based	15552
 Earth Observations Global Agricultural Monitoring	13094,1046
 Earth-Observation.aspx Earth Observation Turn	11334
+Economie Maritime Observatoire Economique	17844
 Education Nationale OEF Observatoire	12
 Education Section Observatoire	11916
 Educational Pursuits and Obstacles for Urban Refugee	12227
@@ -155,8 +156,9 @@ Global Drought Observer	17157
 Global Earth Observations for Crop Inventory Forecasting	13094
 Global Forest Observation Initiative GEI Gases	16875
 Global Forest Observations Initiative	16036
-Global Health Observatory	8891
+Global Health Observatory	8891,8978
 Global Health Observatory Fig	15725
+Global Heath Observatory	17869
 Global Observatory	1219,6488
 Global Observatory of Science	16627
 HSDUs. Obstetric Care	15206
@@ -171,38 +173,48 @@ ICT Observatory Focal Point Persons	3476
 ID. Obstacles	4439
 II. OBSERVATOIRE DU SERVICE DE L’INTERNET	13586
 III. OBSERVATOIRE DES SERVICES FINANCIERS MOBILES	13586
+INSERTIONS OBSERVATIONS Un	17812,5,2,8,1,1,4,8,20,38,83,21,29
 INT Observatory	8138
 Identification Observatoire du Service Public Projet	15936
 Igolo ACHPR Observer Status No	8713
 Immunization EmONC Emergency Obstetric and Newborn Care	16971
+Indicateur de Résultat Observations Structures	17872
 Indicator Proportion Observation Formal	15164
 Initiative Liberian Observer	3239
 Inquiry Focus Group Observations	13461
 Int J Gynecol Obstet	13040
 Inter. J. of Gynaecology and Obstetrics	13040
 Interior Ministry Says Obstructing Somali Residents	10521
+Intitulé Domaine Observations	17844
+Intitulé Domaine Structures Responsables Observations	17844
 Jornal de Angola and AFRO Health Observatory. Institutional	10776
 KHRO Kenya Health and Research Observatory KIE	2775
 Kenya Agricultural Observatory Platform	14551
 Kenya's Agricultural Observatory Platform	7545
 Kenya’s Agricultural Observatory Platform	11140
 Key Observations	17149
-Kind of Data Observation	15843,1,821,380
+Kind of Data Observation	15843,1,821,380,880
 Kufra Observing Station	16956
 L'ANTENNE Observations	16552
 LA POSTE ET DES TELECOMMUNICATIONS OBSERVATOIRE	16322
+LES RÉSULTATS OBSERVÉS	18015
 LIBERIA Systematic Observations Financing Facility	16947
 La Iniciativa Mundial de Observación Forestal	16875
 Largely Not Observed	14777
 Largely Observed	14777
 Lei da Observação Internacional Eleitoral	11528
 Lei de Observação Eleitoral	5791
+Les Observatoires	17978
 Liberian Observer	2770,238,84,1191,2,366,166,23,158,1196,3458,755,7161
 Liberian Observer Corporation ELWA Junction	4261,13097
 Long-Term Observers	9986
 M. Abdi Abdillahi Obsieh	7714
 M. Mahdi Darar Obsieh	4774
 MENA Observatory	7211
+MLE PRENOMS NOMS GRADES OBSERVATIONS	18003
+MLE PRENOMS NOMS GRADES OBSERVATIONS AG	18003
+MLE PRENOMS NOMS GRADES OBSERVATIONS BALLO	18003
+MLE PRENOMS NOMS GRADES OBSERVATIONS MOSSA	18003
 MOUSTIQUAIRES DU OBSERVÉE	13300
 Main Obstacles	1828
 Map Earth Observation	11762,1988
@@ -211,6 +223,7 @@ Market Observatory Framework	15120
 Market Observatory Framework The ICT Market	15120
 Media Ecosystem Observatory	13461
 Meteorological Observers Refresher Training	13062
+Migrations OMLCC Observatoire Mauritanien de Lutte	17907
 Missão de Observação Eleitoral da União Europeia	3530
 Moroccan Public Procurement Observatory	17470
 NBA Election Observation Group	10049
@@ -223,7 +236,7 @@ National Data Observatory	11261
 National Drug Observatory	14742,39
 National Health Observatory	4260
 National Housing Data Observatory	8087
-National Observatory	15648
+National Observatory	15648,2286
 National Observatory of Artificial Intelligence	11135
 National Observatory of Public Health Technological	11939
 National Policy Observatory	13474
@@ -258,6 +271,7 @@ OBSERVATOIRE DE L'INTERNET CERTIFIE ISO	16326
 OBSERVATOIRE DES MARCHES	15706,1
 OBSERVATOIRE DU MARCHE DES SERVICES	13586
 OBSERVATOIRE-4EME-TRIM-2026.pdf	13586
+OBSERVATOIRES	17978,99
 OBSERVATÓRIO	11428,103
 OBSERVEZ LA PRÉSENCE D'EAU	13300
 OBSERVEZ LA PRÉSENCE DE SAVON	13300
@@ -278,6 +292,7 @@ OBSYDYA URL	16281
 OBSYDYA. Cette	16359
 OBsERVAtIONs INCLUsEs	7655
 ODA Official Development Aid OEC Observatory	16996
+ODHD Observatory	17906
 ODW Open Data Watch OEC Observatory	10835,3,130,902,16,466,1,135
 OEC Observatory for Economic Complexity	11887,266,1,9,178
 OECD AI Policy Observatory	1204,5628,8881
@@ -287,10 +302,12 @@ OECD.AI Policy Observatory	12675
 ONEF Observatoire	15961
 Objectifs de Développement Durable OEF Observatoire	15479
 Obs Emp. Score	17127
+Obs. Transport	17842
 Obscure	12202
 Obser	16250
 Observa	11824,13,4413
 Observa Mais	17540
+Observa-	18077
 Observa-se	2613,8164,610,59,77,51,3
 Observability	13037
 Observable	7451
@@ -304,9 +321,10 @@ Observance of Standards and Codes SDDS Special Data	14777
 Observar	15450,1515
 Observaram-se	11523
 Observateur	8269,7981
-Observation	1988,5,7552,803,1205,648,883,387,288,24,754,318,94,422,22,857
+Observation	1988,5,7552,803,1205,648,883,387,288,24,754,318,94,422,22,857,1661
 Observation Article	15371
 Observation Citoyenne	16210
+Observation Infrastructure	17962
 Observation Instruments	16947
 Observation Maroc Météo	17447
 Observation and Data Management Workstation	16947
@@ -336,22 +354,25 @@ Observations Youth	9616
 Observations and Data Sources	13094
 Observations and Forecasting	16137
 Observations. L'Agence	13825
-Observatoire	324,413,2624,451,426,501,631,446,921,90,62,724,209,7,201,68,40,215,538,1498,447,20,18,1,69,21,721,1615,24,65,52,230,155,110,273,456,152,608,21,33,103,9,43,50,30,9,55,69,36,52,18,14,176,31,75,31,41,4,33,257,10,73,793
+Observatoire	324,413,2624,451,426,501,631,446,921,90,62,724,209,7,201,68,40,215,538,1498,447,20,18,1,69,21,721,1615,24,65,52,230,155,110,273,456,152,608,21,33,103,9,43,50,30,9,55,69,36,52,18,14,176,31,75,31,41,4,33,257,10,73,793,327,25,12,4,6,41,170
 Observatoire ANRT	6737
 Observatoire ARCEP	16326
 Observatoire Annuel des Marchés	16626
 Observatoire Congolais des Droits	15848
-Observatoire Economique	737,8878,1259
+Observatoire Economique	737,8878,1259,6970
 Observatoire Guinéen	16641
 Observatoire Internet T1 2026 TaB.pdf	16326
 Observatoire Marocain	8891
 Observatoire Marocain des Petites	7655
 Observatoire Multimodal	16175
-Observatoire National	10615,2827,130,2276,1757,68
-Observatoire National de Santé	13306
+Observatoire National	10615,2827,130,2276,1757,68,157,12,3,100,132
+Observatoire National de Santé	13306,4539
 Observatoire National du Développement Humain	17489
+Observatoire Nationale	17945
 Observatoire Numérique	16699
+Observatoire ONDD	17842
 Observatoire Pour la Lutte Contre la Corruption	15372
+Observatoire Transport Produit Intérieur Brut Programme	17978
 Observatoire de Digital Nation	16144
 Observatoire des Droits	10365
 Observatoire des Décès Maternels Néonatals	15423
@@ -360,20 +381,31 @@ Observatoire des Forêts	13325
 Observatoire des MArches	15706,1
 Observatoire des Marchés	15706,1
 Observatoire des Technologies	17448
+Observatoire des Transports	17978
 Observatoire du Changement Social	15575
+Observatoire du Commissariat	17844
+Observatoire du Développement Bamako	17827
+Observatoire du Développement Humain	17983
+Observatoire du Développement Humain Durable	17842,40,24
 Observatoire du Marché	13313
+Observatoire du Marché Agricole	17888
 Observatoire du Marché des Services Internet	13312,2,17
+Observatoire du Sahara	17911
 Observatoire du Service Public	15712,224
 Observatoire du Service Site	15936
+Observatoire du Transport Note Technique	17978
 Observatoire. L'institution	8353
 Observatoire. Visite	16250
 Observatoire.La	8353
+Observatoires	17842,3,232
 Observatoires ANRT	6737
+Observatoires L’élaboration du Bul-	18077
+Observatoires Organe	18077
 Observatorio Económico	17349
 Observatorio Guinea Ecuatorial	1701,15192
 Observatorio Nacional	1701
 Observatorio-de-mercado-2-o-trimestre-ano-de-2025.pdf Author	11574
-Observatory	1814,1662,731,1398,212,11653
+Observatory	1814,1662,731,1398,212,11653,464,16
 Observatory Framework	15120
 Observatory NSG National School of Governance NSPDR	11261
 Observatory PADEC Comorian Economic Digitalisation Support	13731
@@ -381,6 +413,7 @@ Observatory SAIAB South African Institute for Biodiversity	5246
 Observatory SAWS South African Weather Service	5246
 Observatory of Economic Complexity	2889,11500,2607
 Observatory of Employment and Professional Training	10963,1
+Observatory of Killed Journalists.8 C. THE RIGHT	17970
 Observatory of Linguistic and Cultural Diversity	7320
 Observatory. OAMDI	15604
 Observatório	10747,819,8,3903,49,158,5,221
@@ -407,7 +440,7 @@ Observed Innovation Performance	12205
 Observed Innovation Performance Relative	12204
 Observed Underlying	15164
 Observemos	12018
-Observer	585,1751,690,189,489,4870,248,1195,636,169,1083,1012,1492,1439,112
+Observer	585,1751,690,189,489,4870,248,1195,636,169,1083,1012,1492,1439,112,1938
 Observer Committees	15393
 Observers	2736,303,179,761,774,281,696,408,39,2434,344,3246,451,880,3415,70
 Observers UNMIL USAID	16853
@@ -419,11 +452,11 @@ Observou	10760
 Observou-se	10777,6370
 Observé	13468
 Obsevatoire National	17605
-Obsolescence	14965,577
+Obsolescence	14965,577,2300
 Obsolete	7548,6185,996
 Obsoletes	12058
 Obstacle	12389,4163,454
-Obstacles	5679,1976,366,1867,2501,936,516,1700,58
+Obstacles	5679,1976,366,1867,2501,936,516,1700,58,2283
 Obstaculizar	16965
 Obste	10881
 Obstetric	12413,2626,17
@@ -463,11 +496,15 @@ Open Observatory of Network Interference.72	13314
 Open Science Observatory	5246
 Osun Election Observation Mission	10054
 Others Obs	17149
+PAN- Observations	17983
+PAN-GIIG Observations	17983
+PAN-GIIG Observations Durable	17983
 PAÍS UNIVERSIDADE OBSERVAÇÃO	2816
 PDC Participation Observing Member	15276
 PDC Participation Observing Member Sitemap	11493,5940
 PDC Participation Participating Member Observing Member	16597
 PERCEIVED MAJOR OBSTACLES	12389
+PORTANT ORGANISATION DES OBSEQUES AU GRADE	18032
 PPE Observations	12253
 Para Ser Observadas A Bolsa de Valores	8003
 Parliamentary Oversight Committee. No. Observation	14546
@@ -483,6 +520,7 @@ Questão Data Classificação Observações Registo	16325
 REALISATION OBSERVATION S ET SOURCES RESULTATS	10975
 REPORT ON THE OBSERVANCE OF STANDARDS	14777
 Rain Gauge Observations	16135
+Recensement des Obs. Transport	17842
 Red de Observación Meteorológica	1701
 Remarks Obstacles	16552,454
 Royal College of Obstetricians and Gynaecologists	13040
@@ -501,6 +539,7 @@ SIGLES ET ABRÉVIATIONS AFRISTAT Observatoire Economique	15501
 SITE WEB DO OBSERVATÓRIO DE DROGA	11531
 SOFRECO INTERNATIONAL OBSERVERS Mr. Zinnah Mulbah	16857
 SUMMARY Meteorological Observers Refresher Training	13062
+SYNTHESE DES PRINCIPALES OBSERVATIONS DE L’EVALUATION	17901
 Sahara and Sahel Observatory	15129,2276
 Sanitaire Soins Obstétricaux	15711
 Santé ONDMNI Observatoire	15724
@@ -508,6 +547,7 @@ Satellite Earth Observation for IDA Impact	17405
 Score Observation Nature	16322
 Signals Digital Government Shift Liberian Observer	5994
 Sistema de Observação da Terra	2242,371
+Site Internet des Observatoires	17842
 Situation Difficultés Observations Concession	10975
 Social OPSA Observatório Político	11390
 Soins Obstétricaux	15711
@@ -526,14 +566,17 @@ System LOINC Logical Observation Identifiers Names	13306
 System SOFF Systematic Observations Financing Facilities	11553
 Systematic Observations Financing Facility	11553,2059,836,1548,418
 Systematic Observing and Financing Facility	14738
+Sécurité Alimentaire Observatoire	17844
 TC Participation Observing Member	11493,5104
 TC Participation Participating Member Observing Member	15276,2157
 TERMINÉE OBSERVATIONS DU CHEF D'ÉQUIPE OBSERVATIONS	13300
 TV EU Election Observation Mission Final	12201
 Tarefa Data Classificação Observações Registo	16325
+Tarif Observation Composition	17833
 Taux Source Observation Consommation	15724
 Taux Source Observation Hypertension	15724
 Team ObserveIT	14434
+Technologie Obsolescence	17983
 Terrestrial Networks Obsolete	10588
 Theoretical Capability and Observed Usage	7151
 Through Earth Observation	13475
@@ -542,6 +585,7 @@ Type of Obstacle Coordonnées Coordinates Altitude	16552,454
 TÂCHES RESULTATS REALISATION OBSERVATIONS ET ATTENDUS	10975
 UK Pounds for Associate and Government Observer Membership	3513
 UNESCO's Global AI Ethics and Governance Observatory	12578
+UNESCO’s Observatory	17970
 Underlying Observations and Data Sources	13094
 United Nations System Observations Financing Facility	14949
 Upper Air Observation Workstation	16947
@@ -551,6 +595,7 @@ Variáveis de Observação Os	10766
 Verifié Observations Sécurité	13468
 Visit Observation	12500
 Vérifié Observations	13468
+WHO’s Global Health Observatory	17869
 WMO Global Observing System	11553
 WMO Hydrological Observing System	16239
 WMO Integrated Global Observing System	16239

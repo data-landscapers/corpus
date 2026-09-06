@@ -10,6 +10,8 @@ ACH Participants Rules	16844
 ACH. A Participant	12364
 ACH. Ce	13452
 ACHACH CONTRACTORS LIMITED Data Processor INST-7658799DE47	7167
+ACHATS DE MARCHANDISES	17833
+ACHATS ET VARIATIONS DE STOCKS Achats	18032
 ACHATS POUR LE MÉNAGE	13300
 ACHEVE OYOMABANG	10975
 ACHIEVE	15679
@@ -70,7 +72,9 @@ Achard F	16463
 Acharya	8283
 Acharya S	12379
 Achas Autorizo	11569
-Achat	737,912,2810,4868,1514,34,100,2415,43,1055,1,1,1180,4,50,42,233,38,115,562,771
+Achat	737,912,2810,4868,1514,34,100,2415,43,1055,1,1,1180,4,50,42,233,38,115,562,771,348,40,159
+Achat Euros Gratuit	17833
+Achat Terminal de Paiement	17833
 Achat Une	10876
 Achat de Médicaments Essentiels du Burundi CDS Centre	13306
 Achat de Services	15999
@@ -79,25 +83,30 @@ Achat des Médicaments	15685
 Achat des Médicaments CFCO	15685
 Achat des Médicaments Essentiels	15423,52,210
 Achat du Gabon	16099
-Achats	8312,2399,2589,90,4095
+Achats	8312,2399,2589,90,4095,360,23
+Achats Dollars	17833
 Achats Publics	15738
 Achats de Biens	15999
 Achats de Médicaments	15423
+Achats de Médicaments Essentiels	17895
 Achats du Gabon	15973
 Ache Kodo	11636
 Acheampong	7491,67
 Acheleur	13524
 Acheminement	10876,4518,491,58,352
 Achetaur	13524
-Acheter	3164,3,595,9628
-Acheteur	5983,7541,31,75,868,2114
+Acheter	3164,3,595,9628,4455
+Acheter des DSGHP ETAT	17845
+Acheteur	5983,7541,31,75,868,2114,1302,123
 Acheteur Sous	13524
 Acheteur. Pour	13524
+Achetez	18054
 Achevement	13669
 Achever	15542
 Achevé	16152
 Achi Joseph	10270
 Achi Uno	6211
+Achibogho	17991,12
 Achidi	2785,1407,89,431,878,167,858,9206,241,738
 Achidi. C’était	2785
 AchiengMS	8376
@@ -123,6 +132,7 @@ Achieve the SDGs	396
 Achieve the Vision of NDTS	3604
 Achieved	649,3191,7030,261,3,64,20,12,907,1119,136,1639,393,87,67,85,30,20,300,66,357,338,204,33,459
 Achieved Achieved	16436
+Achieved Allocated	17958
 Achieved Competency	16885
 Achieved Customs	10870
 Achieved DLI	10870
@@ -134,6 +144,7 @@ Achieved Level	11131
 Achieved No. Target	16978
 Achieved Page	16436
 Achievement	1264,1725,2544,1299,4386,768,370,318,718,793,561,213,413,529,243,292,824
+Achievement Comment Building	17849
 Achievement Fiber Optic Network Installation Installation	15578
 Achievement MNRE Ministry of Natural Resources and Energy	12970
 Achievement Rating	10779
@@ -146,7 +157,7 @@ Achievement of PBCs	15659
 Achievement of Project Development Objective	12980
 Achievement of SDGs.’ Accessed	12376
 Achievement of Vision	3604
-Achievements	1992,6296,1145,1423,278,96,1191,491,38,22,4,54,50,279,408,231,752,85,80,329,1700,19,7,1,264,129
+Achievements	1992,6296,1145,1423,278,96,1191,491,38,22,4,54,50,279,408,231,752,85,80,329,1700,19,7,1,264,129,607,68
 Achievements Administrative Coverage	16971
 Achievements And Impact	9103
 Achievements Appraisal Additional Actual Financing Achieved	15663
@@ -168,7 +179,7 @@ Achievements and Challenges Part II	14835
 Achievements and Progress Part III Financial Performance	14761
 Achievements of NPS Vision	13076
 Achievers	7167
-Achieving	396,832,36,513,1477,64,867,247,257,553,4,31,273,150,989,249,59,280,271,203,295,295,262,342,175,117,524,574,125,359,37,114,15,19,2,125,6,3,9,74,245,104,337,9,46,22,247,24,103,39,14,267,261,23,41,309,218,149,187,21,115,219,290,33,128,70,3,5,29,37,56,5,43,10,65,59,64,10,114,360,428,622,21,177,31,1,1,50,7,1,28,47,239,3,168,10,290
+Achieving	396,832,36,513,1477,64,867,247,257,553,4,31,273,150,989,249,59,280,271,203,295,295,262,342,175,117,524,574,125,359,37,114,15,19,2,125,6,3,9,74,245,104,337,9,46,22,247,24,103,39,14,267,261,23,41,309,218,149,187,21,115,219,290,33,128,70,3,5,29,37,56,5,43,10,65,59,64,10,114,360,428,622,21,177,31,1,1,50,7,1,28,47,239,3,168,10,290,142,13
 Achieving AI	2958
 Achieving B-BBEE Level	7210
 Achieving Botswana's National Vision and Aspirations	12536
@@ -183,6 +194,7 @@ Achieving Semantic Interoperability	12360
 Achieving UMC	10844
 Achieving and Measuring Change	11006
 Achieving the COP28	11572
+Achieving the Management Objective	17883
 Achieving the SDG	11572
 Achieving the Sustainable Development Goals	15578
 Achille	7613,2919,790,585,3873
@@ -202,17 +214,19 @@ Acholi	2928,1929,32,5055
 Achraf Tarsim	17518
 Achuthan	6529
 Achwa	10975
-Achèvement	2342,8475,30,2586,2845,1232
+Achèvement	2342,8475,30,2586,2845,1232,397,6
 Achèvement Garçons Filles G	10847
 Achèvement TBFS	737
 Achèvement du Projet	2342
 Acronyms ACH Automated Clearing House ACE	16876
 Actual Achieve	11134
-Actual Achieved	11924,3500,177,62,773
+Actual Achieved	11924,3500,177,62,773,1526
+Actual Achieved PDO Indicator	17962
 Actual Financing Achieved	15663
 Actual Value Achieved	16614
 Adusei J. Achieving	12231
 Agro-industrie Achat Logistique Transport Total INSG	15674
+Aguissa Acheick	17841
 Aid Coordination and Management Achievements	16944
 Algeria GOAL TO ACHIEVE	15679
 Alphonsus Achomuma	15493
@@ -220,9 +234,9 @@ Alphonsus Nji T Achomuma Team Member	1284
 Alphonsus Nji T. Achomuma	13312,2
 Analysis and Achievements	12987
 Appraisal Additional Actual Financing Achieved Project	15663
-Assessment of Achievement of Each Objective	11924,3500,87,90,62,68,705
+Assessment of Achievement of Each Objective	11924,3500,87,90,62,68,705,1426,100
 B. ACHIEVEMENT OF OBJECTIVES	12560
-B. ACHIEVEMENT OF PDOs	11924,3500,87,90,62,68,228,993
+B. ACHIEVEMENT OF PDOs	11924,3500,87,90,62,68,228,993,897,13
 B. ACHIEVEMENTS Legislative Review	12597
 BANQUE ACHETEES A LA CLIENTELE	17485
 BOARD COMMITTEES AND KEY ACHIEVEMENTS	15023
@@ -261,6 +275,7 @@ DEPARTMENT ACHIEVEMENTS	14760
 DIRECTION DES ACHATS	16714
 DLP. Celebrating DLP Achievements Based	899
 Data Access ACHPR Res	6086
+Davos Achievements	18039
 Debt Management Achievements	16944
 Dec-2022 Actual Achieved	15601
 Dec-2022 Formally Revised Target Actual Achieved	15601
@@ -272,6 +287,7 @@ Digital Identity GOAL TO ACHIEVE	15679
 Digital Leaders GOAL TO ACHIEVE	15679
 Digital Transformation Achieve	11131
 Directeur Contrat Achat	16099
+Dollars Achat	17833
 ESSP. Achieving	14922
 Economie Numérique Acheteur	13567
 Egypt Egypt ACH System CCAA	6938
@@ -376,6 +392,7 @@ Meio de Achada Santo António	15470
 Meriem Benmouloud. Past Achievement	2790
 Mike Achi	10270
 Milestones and Achievements	16963
+Milieu Achats Autoconsommation Cadeau Total Région	18014
 Mobile Network Towers Achieving the Sustainable Development	15578
 Mobile Phone Network Towers Achieving the Sustainable	15578
 Moderately Satisfactory. Achievement Rating	10779
@@ -407,9 +424,11 @@ OUTPUTS ACHIEVED IN THE FINANCIAL YEAR	12971
 Official Use Only Comments Achieved. Training	17470
 On-going Achieve	16872
 Ouganda Fleuve Achwa	10975
+Oum Acheyich	17951
 Overview Achieving the Digital Addressing Policy	16915
 PART II ACHIEVEMENTS BY HEALTH SERVICES	14773
 PBC-based. Achievement of PBC	15659
+PDO. B. ACHIEVEMENT OF PDOs	17962
 PEACEBUILDING KEY ACHIEVEMENTS Together	16973
 PHILIP MARFO ACHEAMPONG GIS GIS	15845
 PLAN Achieving	12399
@@ -419,6 +438,7 @@ PROMOTING VALUES TO ACHIEVE NDP	16884
 PUPILS AND TEACHERS FROM HIGHER ACHIEVERS	13387
 Performance Information and Service Achievements	15148
 Pinamang Acheampong	12090
+Plan Annuel des Achats	17963
 Planned Action Achieving	16884
 Planned Targets and Actual Achievements	11250
 Planned and Achieved Measures Progress Support	11906
@@ -456,6 +476,8 @@ SPACE APPLICATIONS TOWARDS ACHIEVEMENT OF BETA	1131
 SPACE APPLICATIONS TOWARDS ACHIEVEMENT OF SDGS	1131
 SUMMARY OF KEY ACHIEVEMENTS	15927
 SUMMARY OF KEY ACHIEVEMENTS AND CHALLENGES	12976
+SUMMARY OF TARGET ACHIEVEMENT End Target	17962
+Sati Achath ABBREVIATIONS AND ACRONYMS ACE	17862
 Secretary General Mr Achille BASSILEKIN III	10980
 Services GOAL TO ACHIEVE	15679
 Simon Achidi Achidi Achu	5033
@@ -466,6 +488,7 @@ Special Achievement	12662
 State Learning Achievements	11860
 Strategic Achievements and Milestones Over	15120
 Strategic Objectives Achieve	14566
+Substantial Assessment of Achievement of Each Objective	17849
 Surpassed Achieved Surpassed Achieved Substantially	16436
 Surpassed Surpassed Surpassed Surpassed Achieved Achieved	16436
 Surveillance Achieve	14190
@@ -479,6 +502,7 @@ Target Formally Revised Target Actual Achieved	15601
 Targeted RI Achievement Rating Change PDO1	10779
 Tax Administration Achievements and Challenges	10997
 TÉ ACHEVÉE	13300
+Urbain Achats	18014
 V. Achievements	13042
 VPA Key Achievements	16848
 Vallary Acholla of Mzalendo Trust	17745

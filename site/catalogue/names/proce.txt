@@ -786,6 +786,7 @@ Baluba Limited Data Processor INST-51079986546 MERU	7167
 Bandari Dispensary Data Processor INST-40822487397 KILIFI	7167
 Bandari Maritime Academy Data Processor INST-313944219ED	7167
 Banki Kuu SACCO Ltd Data Processor	7167
+Banque Centrale de Mauritanie BPO Business Process	17907
 Barbados. Business Process Realignment	13042
 Barcelona Process	17511
 Base Resources Limited Data Processor INST-5055129782F	7167
@@ -881,8 +882,11 @@ Business Start-Up Process	12389
 Butula Mission Health Centre Data Processor	7167
 Bwari Omwoyo Data Processor INST-828302A2654 TRANSZOIA	7167
 Bylaws Amendment Process Stage	5853
+C DOMAINE D’INTÉRÊT C. PROCESSUS STATISTIQUES	17830
 C. Analytical Hierarchy Process The Analytic	17157
 C. Enhanced Review Procedures for High	11233
+C. PROCESSUS STATISTIQUES	17830
+C. Processus	17830
 C. Sectoral Context Key PFM Processes1	1284
 C. Statistical Processes	13310
 C.C.S Marsabit Clinic Data Processor INST-950367CDC78	7167
@@ -1209,6 +1213,7 @@ CSL SERVICES LIMITED Data Processor INST-876567B49C0	7167
 CSM TECH LIMITED Data Processor INST-966462BF204	7167
 CSPro Census and Survey Processing DCMQAD Directorate	16927
 CSPro Census and Survey Processing System CTA	13300,3621
+CTA Alert Processing Center DCS National	17962
 CTFROOM LIMITED Data Processor INST-4918227A277 NAIROBI	7167
 CUBIQPRINT AND DESIGN LIMITED Data Processor	7167
 CUCI Process Evaluation	12978
@@ -1233,6 +1238,7 @@ CYNTUM LIMITED Data Processor INST-101210CFB41 NAIROBI	7167
 CYPOWER SECURE LIMITED Data Processor INST-481973DCF5E	7167
 CYTONN ASSET MANAGERS LIMITED Data Processor	7167
 Caledonia Customs Process Modernization	16631
+Call Processing Center	17962
 Call for Research Proposal Appeal Process	1554
 Cameroonian Criminal Procedure Code	10979
 Campaign Process Electoral	13248
@@ -1305,6 +1311,7 @@ Civil Procedure Act	14460
 Civil Procedure Law	16943,353
 Civil Procedure Rules	11
 Civil Processual Code	12201
+Civil Registration Data Processing Center	17870
 Civil Registry Rules and Procedures	4257
 Civil and Criminal Proceedings	15393
 Claremont Mediserve Data Processor INST-5186125FEC6 NAIROBI	7167
@@ -1314,8 +1321,9 @@ Cloud. Processes	16923,1
 Co-Creation Process	14819
 Co. Advocates Data Processor INST-4351920F009 NAIROBI	7167
 Code SOP Standard Operating Procedure UHC	9855
+Code of Civil Procedure	17934
 Code of Civil and Commercial Procedure	15393
-Code of Criminal Procedure	11900,1413,2080
+Code of Criminal Procedure	11900,1413,2080,2541
 Code of Criminal Procedure. Law	15393
 Code of Criminal Procedure. Under	13313
 Code of Penal Procedures of Burundi	13313
@@ -1325,6 +1333,7 @@ Colcheccio Limited Data Processor INST-982584F4D6A LAIKIPIA	7167
 Collection and Processing	4951
 Collection and Processing Personal Data	11662
 Collection and Processing Regulations	4951
+Comité de Pilotage Technique du Processus	17983
 Commencement of Formal Reorganization Proceedings	12389
 Commerce Equitable Afrique Data Processor INST-177444314EF	7167
 Committees PART V Proceedings of Council	12531
@@ -1493,6 +1502,7 @@ DAYLIFF FOREX BUREAU LIMITED Data Processor	7167
 DAYLIPA FINANCING LIMITED Data Processor INST-996975D70AE	7167
 DAYTONS VALUERS LIMITED Data Processor INST-639800AFA75	7167
 DE LA PROCEDURE DEVANT LES JURIDICTIONS	13293
+DE LA PROCEDURE D’ATTRIBUTION DU NUMERO	17814
 DE LA PROCEDURE ET DES MOYENS	15643
 DE LA PROCEDURE En	15643
 DE LOS PROCEDIMIENTOS ADMINISTRATIVOS CAPÍTULO	16855
@@ -1524,7 +1534,11 @@ DENTAL DYNAMIX LIMITED Data Processor INST-7250795BEF8	7167
 DENTALDOC SERVICES LIMITED Data Processor INST-48821312A5B	7167
 DERMALLURE SKIN CLINIC LLP Data Processor	7167
 DES DISPOSITIONS DE PROCEDURE ET DES	15727
+DES PROCEDURES DE SANCTIONS En	17819
+DES PROCEDURES DE SECTION IV	17828
 DES PROCEDURES ET DES MODALITES Article	15558
+DES PROCEDURES RELATIVES AU	17819
+DES REGLES DE PROCEDURE Article	17826
 DES REGLES DE PROCEDURE ET	15584
 DESCRIPTION DE LA PROCEDURE	10876
 DESCRIPTION DE LA PROCEDURE Pour	10876
@@ -1617,6 +1631,7 @@ DRIVAX GLOBAL LIMITED Data Processor INST-1285713E3B2	7167
 DRMS. IV. Iterative Process and Continuous Improvement	17011
 DRY ASSOCIATES LIMITED Data Processor INST-216269D8523	7167
 DSEMA COMMUNICATIONS LIMITED Data Processor INST-1728958553B	7167
+DU MALI C. PROCESSUS STATISTIQUES L’évaluation	17830
 DU PROCESSUS D'ADHESION MAIS JE N’AI	16629
 DU PROCESSUS DE R	15999
 DUBU HURU LTD Data Processor INST-176597BA9BB	7167
@@ -1852,6 +1867,7 @@ Development Process	17116
 Development Process The NSDS III	17116
 Development of Processes and Procedures	16867
 Development of Standard Operating Procedures	1154
+Development of Standard Operating Procedures for DGPC	17962
 Devido Procedimento	11388
 Devpart Consult Data Processor INST-910183D2B2B NAIROBI	7167
 Dhig GmbH Data Processor INST-462142FDCF6 NAIROBI	7167
@@ -2020,6 +2036,7 @@ Election Process	8866,1048
 Election Process The Elections and Boundaries	13248
 Election Process and Election Guidelines	8866
 Electoral Process	11909,506
+Electoral Process A1	17967
 Electoral Process Act	12415,890
 Electoral Process Act No	8513
 Electoral Process Voter Registration Regulations	13538
@@ -2060,6 +2077,7 @@ Establish Monitoring and Evaluation Processes	16963
 Establish Procedures for Incident NCC MOPT	1777
 Estimation Procedures and Weighting	17043
 Eurasia Proceedings of Educational and Social Sciences	6948
+European Center for Support of Electoral Processes	17988
 Evaluation Process	11240
 Evaluation of Lawful Bases of Data Processing	11956
 Evaluation of Lawful Bases of Data Processing Article	11956
@@ -2190,6 +2208,7 @@ Human Resource Policies and Procedures	6946
 Human Resource Policies and Procedures Manual for Public	14546
 I INSTRUÇÃO DO PROCESSO DE AUTORIZAÇÃO	794
 I. PROCEDURES DE SUIVI ET D’EVALUATION	15595
+I. Process	17934
 I. Procurement Process	14759
 I.8 DATA PROCESSING AND MANAGEMENT	15574
 IA Manual of Procedures	16843
@@ -2203,7 +2222,9 @@ IDs. Procedure	14045
 IEC Defends Integrity of Process IEC Vice	9315
 IGEPSA Procedure and ENFICE	11905
 IHE Change Proposal Process	1009
+IHE Process Plan Stratégique National de Santé Numérique	17882
 II. PROCEDURES D’ELABORATION DES DOCUMENTS TECHNIQUES	15595
+II. PROCESSUS D’ELABORATION DE LA SNDDS	17844
 II. PROCESSUS D’ELABORATION DE LA SNDS	15580
 II. RAPPEL DU PROCESSUS D'ELABORATION	14442
 II.2.3.1 Processus	10876
@@ -2445,6 +2466,7 @@ M&E Lower-Middle-Income Country Labor Management Procedures	10964
 M&E Process	4528,7984
 M&E Process Flow	13991
 MAC. Quarterly Publish the Technical Clearance Procedure	17394
+MAINTENANCE Processus de Gestion des Anomalies	17902
 MANAGEMENT PROCESSES	11184
 MANUAL DE PROCEDIMENTOS DAS REPARTIÇÕES FISCAIS	11435
 MANUEL DES PROCEDURES DE COLLECTE ET	10876
@@ -2562,6 +2584,7 @@ OGP Process	17037
 OM. Procedures	15663
 OMEGA D.M Data Processor INST-988415D993D	7167
 OMR Processing	13477
+OPTIMISER LES PROCEDURES ET RENFORCER	17901
 OUTCOME OF PROCEEDINGS	15001
 Object and Restrict Processing	3861
 Offer End-to-End Automated Processes	14965
@@ -2639,6 +2662,7 @@ PROCEDURE DE PASSATION DES MARCHES	15901
 PROCEDURE DE TAXATION D'OFFICE Article L	15999
 PROCEDURE D’ENCHERE ELECTRONIQUE Conforme	10876
 PROCEDURE D’HOMOLOGATION ET DE PUBLICATION	15903
+PROCEDURE EN MATIERE DE CRIMES Article	17841
 PROCEDURE FOR ACCESS TO PUBLIC INFORMATION	16843
 PROCEDURE FOR LODGING	2709
 PROCEDURE FOR REGISTERING LEGITIMATION Legitimation	12338
@@ -2671,6 +2695,7 @@ PROCEEDINGS OF DIRECTORS	585,8281
 PROCEEDINGS OF MINI-PLENARY SESSION	11272
 PROCEEDINGS ON BEHALF OF COMPANIES	3714
 PROCEEDINGS ON BEHALF OF COMPANIES Initiation	3714
+PROCEJ	17856
 PROCES-VERBAL DE REUNION	14537
 PROCES-VERBAL DE REUNION DE LA COMMISSION	14537
 PROCESS	762,16099,24
@@ -2863,7 +2888,7 @@ Procedure for Resolution of Complaints and Disputes	17243
 Procedure for Submissions Submission	6748
 Procedure. B. Project	15802
 Procedurefor	16836
-Procedures	969,31,750,238,1690,536,1451,1162,962,1198,868,866,50,410,343,346,294,89,2,97,12,136,810,66,5,4,1152,328,2,59,18,262,96,171,33,153,4,197,576,403,1,3,5,3,2,10,61,2,17,68,103,43
+Procedures	969,31,750,238,1690,536,1451,1162,962,1198,868,866,50,410,343,346,294,89,2,97,12,136,810,66,5,4,1152,328,2,59,18,262,96,171,33,153,4,197,576,403,1,3,5,3,2,10,61,2,17,68,103,43,692
 Procedures Act	14932
 Procedures Article	15393
 Procedures ESCON Environmental and Social Compliance Note	11863
@@ -2944,7 +2969,7 @@ Process Guidelines	5903
 Process History	16853
 Process Indicators	4153
 Process Initiative	12598
-Process Innovation	12389
+Process Innovation	12389,5481
 Process Limitations for Changing Tariffs	16851
 Process Limitations for Changing Tariffs Changes	16851
 Process Management Dispute	11153
@@ -3278,9 +3303,10 @@ Processos de Registos	11537
 Processos. Relativamente	10753
 Processual	11371
 Processual Penal	10747
-Processus	1187,2194,6025,74,1356,40,89,10,1068,1332,58,134,250,606,5,52,57,5,882,48,70,41,16,44,30,39,12,212,386,207,87,86,4,828
+Processus	1187,2194,6025,74,1356,40,89,10,1068,1332,58,134,250,606,5,52,57,5,882,48,70,41,16,44,30,39,12,212,386,207,87,86,4,828,296,14,50,20,59,59
 Processus OGP	15712
 Processus OGP. Ces	15712
+Processus de Gestion des Anomalies	17902
 Processus de Mise	16621
 Procesus	6977
 Procurement Procedures	13420
@@ -3419,7 +3445,9 @@ SOCIEDAD PROCESOS CUENTAS GRAL. DE REG	4209
 SOCIETY LIMITED Data Processor INST-522236DC30F NAIROBI	7167
 SOFTECH LTD Data Processor INST-9063904932D	7167
 SONDU MEDICAL SERVICES LTD Data Processor	7167
+SOP Standard Operating Procedures ToC Theory	17962
 SOPs Standard Operating Procedures TWG Technical	12240
+SOUTIEN AU PROCESSUS ELECTORAL Secrétaire	18032
 SP-SSP ELABORATION PROCESS	14942
 SPECIFIC IMPLEMENTATION PROCEDURES. Following	14879
 SSA. Proceeds	939
@@ -3438,7 +3466,7 @@ SYSTEM The Standard Operating Procedures	12338
 Salaries and Wages Processing	9437
 Sales of Processed Products	17043
 Sampling Procedure	17366
-Sampling Sampling Procedure	13084,675,1265,819,3,819,380,120
+Sampling Sampling Procedure	13084,675,1265,819,3,819,380,120,760
 Sampling Sampling Procedure The WBES	10862
 Samson Wanjala Clinic Data Processor	7167
 Sanctions Procedures	16219
@@ -3492,8 +3520,9 @@ Standard Operating Procedure	1000,9721,2463,1651,114,1998
 Standard Operating Procedure CCMP.S6	10721
 Standard Operating Procedure IFIs	17101
 Standard Operating Procedure UBR Universal Birth	13681
-Standard Operating Procedures	396,758,130,270,434,5416,3317,469,62,165,780,60,81,110,523,6,1,27,75,164,88,1214,196,192,539,184,389,91,834,145
+Standard Operating Procedures	396,758,130,270,434,5416,3317,469,62,165,780,60,81,110,523,6,1,27,75,164,88,1214,196,192,539,184,389,91,834,145,846
 Standard Operating Procedures UN	12338
+Standard Operating Procedures for DGPC	17962
 Standard Operating Procedures. FDA	16853
 Standard Operating Procedures. Goal	17116
 Standard of Procedures	1554
@@ -3550,6 +3579,7 @@ TRANSPARENCY PARTY Data Processor INST-6497049E084 NAIROBI	7167
 TRANSPARENCY Processing	1243
 TRAVEL LIMITED Data Processor INST-447779F24C9 MOMBASA	7167
 TRAVEL LIMITED Data Processor INST-483204DA988 NAIROBI	7167
+TROISIÈME DOMAINE DOMAINE D’INTÉRÊT C. PROCESSUS	17830
 TSCs and PUPs. Procedures	16843
 TYPE APPROVAL PROCEDURE	14883
 TYPE APPROVAL PROCEDURE Type Approval	14883

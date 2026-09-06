@@ -144,6 +144,7 @@ Budget MIOS Minimum Information Interoperability Standards	5533
 Budget and Finance Affairs Standing Committee	7091
 Building Energy Standards	12389
 Building Standards	12389
+Bureau of Indian Standards and Direction Nationale	18016
 Bureau of Standards	16631
 Bureau of Standards HR Human Resources HRH	396
 Bureau of Standards KE-CIRT	7548
@@ -357,6 +358,7 @@ Developing Common Standards and Solutions	16885
 Developing ICT Standards	12241,839
 Development Standards and Research PLC Programmable Logic	12975
 Development of Standard Operating Procedures	1154
+Development of Standard Operating Procedures for DGPC	17962
 Development of Technical Standards	12389
 Digital Health Solutions Standards and Guidelines	10641
 Digital Public Services Standard	11216
@@ -378,6 +380,7 @@ Dissemination Standards SM Statistics Mauritius SNIEG	14777
 Distribution Standards	15659
 Do We Stand	11140
 Does It Stand Now	6487
+Domaines Standards	17882
 Doriane Stangelle	16100
 Double Standard	4258
 Downloads Article Details References Addis Standard	8671
@@ -394,9 +397,11 @@ E. REFERENCED INTERNATIONAL STANDARDS RS	15027
 ECOWAS Standards Harmonization Procedures	16908
 EIB Environmental and Social Standards	15901
 EITI Principles and Standard. Specifically	12932
-EITI Standard	12261,671,722,3065,685
+EITI Standard	12261,671,722,3065,685,489
+EITI Standard URL	17893
 EITI Standard. Below	16719
 EITI Standard. Implementation	13654
+EITI Standard. Members	17893
 EITI Standard. Validation	17404
 ELECTROTECHNICAL STANDARDS	16900
 EMAIL ETIQUETTE STANDARDS AND GUIDELINES	34
@@ -492,6 +497,7 @@ European Union-funded Global Gateway ICT Standards	7985
 Evolution of International Standards	15129
 Evolving Global Standards for Sustainable Trade Finance	10718
 Expected Outcomes of Interoperability The Standard	13308
+Exposure Standout	18039
 F. DELCROS Stanford University	11154
 F. REFERENCED INTERNATIONAL STANDARDS RSB	15027
 F. WITHDRAWN STANDARDS	15027
@@ -1004,7 +1010,7 @@ Ministry of Health Standards	1988
 Ministry of Health Standards and Guidelines	13040
 Ministry of Health Standards for Post Abortion Care	13040
 Ministry. The ICT Standards and Guidelines	34
-Modern Standard Arabic	15717
+Modern Standard Arabic	15717,2321
 Modern Standard Arabic and ECA	15717
 Modernization Through International Standards The Zimbabwe	12499
 Modified Cash Standard	5533,5685
@@ -1120,6 +1126,7 @@ Normative Standards Framework for Interoperability	1009
 Norms Standards and Quality Department	11184
 Norms and Standards Assessment Framework	13310
 Norms and Standards Framework for Schools	13247
+Nouakchott AI Build. Stanford University	18039
 O Ethical Standards	14777
 OADC Standardises	11243
 OASIS Standard	1009
@@ -1147,6 +1154,7 @@ Office of Health Standards Compliance	396
 Office of Professional Standards	12951
 Office of Standards and Compliance	11182
 Office of Standards and Compliance CHAPTER	11182
+Officiers Standardiste	17899
 Oimeke. Standard	12192
 Open Banking Standards	13092
 Open Contracting Data Standard	17037
@@ -1382,6 +1390,7 @@ SOE Statement of Expenditures SRFP Standard Request	15659
 SOFTWARE DEVELOPMENT STANDARDS AND GUIDELINES	34
 SOFTWARE DEVELOPMENT STANDARDS AND GUIDELINES Software	34
 SOFTWARE INSTALLATION REQUEST STANDARDS AND GUIDELINES	34
+SOP Standard Operating Procedures ToC Theory	17962
 SOPs Standard Operating Procedures TWG Technical	12240
 SOUTH AFRICAN EDUCATION INFORMATION STANDARDS	11180
 SPECIFICATIONS STANDARDS	2779
@@ -1412,7 +1421,7 @@ STANDARDISATION DEVELOPMENT Eritrea	13962
 STANDARDISATION REQUIREMENTS	14780,45
 STANDARDIZING THE MASTER'S IN CONFERENCE INTERPRETING	15825
 STANDARDIZING THE MASTER’S IN CONFERENCE INTERPRETING	17380
-STANDARDS	3861,7408,2073,140,1667,2094
+STANDARDS	3861,7408,2073,140,1667,2094,639
 STANDARDS ACT	11269,1626
 STANDARDS AND GUIDELINES	34
 STANDARDS AND INTEROPERABILITY	16041
@@ -1436,6 +1445,7 @@ STANDARDS PILLAR GUIDANCE NOTES ARTIFACTS TIER	10721
 STANDARDS SCHEDULE B.1	11269
 STANDARDS WIDELY USED IN SOUTH AFRICA	1939
 STANDARDS WITHIN THE NATIONAL PAYMENT SYSTEM	13206
+STANDARS	17882
 STANDING COMMITTEE FOR REFUGEE AFFAIRS	11177
 STANDING PAGE UNDER A CAPTURE DATE	10978
 STANDS TO GAIN FROM CEPA	12026
@@ -1573,7 +1583,7 @@ Stand da UNITEL Nelson Malamba	11031
 Stand for Media Freedom	13030
 Stand- of Democratic Republic of Congo	11923
 Stand-By Apr	13868
-Stand-alone	11572,1330,2115
+Stand-alone	11572,1330,2115,2945
 Stand-alone Mini	11572
 Stand-by	17006
 Standaardbedryfsprosedures	11190
@@ -1583,10 +1593,12 @@ Standalone AI	5463
 Standalone Enterprise Architecture	13987
 Standalone Estratégia Nacional de Saúde Digital	7707
 Standalone National Digital Health Strategic Plan	7707
+Standalone Projects	17962
 Standalone Solar Home Systems	15011
 Standalone Systems	12195,2752
 Standalone YTD Retail Volumes	7446
-Standard	21,13,12,1,35,297,630,114,31,484,288,58,4,267,311,102,220,32,354,52,452,83,237,421,156,240,84,132,1,23,57,10,122,1,65,70,60,18,450,43,35,13,6,74,26,35,4,1,179,242,116,1,102,7,54,1,67,32,101,160,51,64,1,125,15,323,100,19,13,283,112,149,308,253,6,516,294,92,69,57,138,18,348,313,1,5,17,132,5,46,4,49,26,51,76,299,220,90,11,41,128,66,12,90,17,34,132,23,132,236,31,50,7,30,5,13,27,15,114,99,2,10,21,44,165,155,520,9,39,34,367,62,79,17,26,30,35,241,170,1,136,187,184,370,416,43,48,120,4,39,18,22,2,23,31,121,15,2,24,9,255,37
+Standard	21,13,12,1,35,297,630,114,31,484,288,58,4,267,311,102,220,32,354,52,452,83,237,421,156,240,84,132,1,23,57,10,122,1,65,70,60,18,450,43,35,13,6,74,26,35,4,1,179,242,116,1,102,7,54,1,67,32,101,160,51,64,1,125,15,323,100,19,13,283,112,149,308,253,6,516,294,92,69,57,138,18,348,313,1,5,17,132,5,46,4,49,26,51,76,299,220,90,11,41,128,66,12,90,17,34,132,23,132,236,31,50,7,30,5,13,27,15,114,99,2,10,21,44,165,155,520,9,39,34,367,62,79,17,26,30,35,241,170,1,136,187,184,370,416,43,48,120,4,39,18,22,2,23,31,121,15,2,24,9,255,37,388,77
+Standard Arabic	17977
 Standard Articles	13299
 Standard Assessment and Evaluation	13392
 Standard Audit File for Tax Proposes-Cabo Verde	16022
@@ -1673,6 +1685,7 @@ Standard Edition	12681
 Standard Environ-	15901
 Standard Environnemental	15901
 Standard Error	14815
+Standard Establish	17884
 Standard Expression of Interest Forms	962
 Standard Fan Kit	12681
 Standard Forms	13037
@@ -1715,8 +1728,9 @@ Standard Operating Procedure	1000,9721,2463,1651,114,1998
 Standard Operating Procedure CCMP.S6	10721
 Standard Operating Procedure IFIs	17101
 Standard Operating Procedure UBR Universal Birth	13681
-Standard Operating Procedures	396,758,130,270,434,5416,3317,469,62,165,780,60,81,110,523,6,1,27,75,164,88,1214,196,192,539,184,389,91,834,145
+Standard Operating Procedures	396,758,130,270,434,5416,3317,469,62,165,780,60,81,110,523,6,1,27,75,164,88,1214,196,192,539,184,389,91,834,145,846
 Standard Operating Procedures UN	12338
+Standard Operating Procedures for DGPC	17962
 Standard Operating Procedures. FDA	16853
 Standard Operating Procedures. Goal	17116
 Standard Performance Specification for Hydraulic Cement1	16900
@@ -1835,7 +1849,7 @@ Standardized Templates	12356
 Standardized Toolkits	12053
 Standardizes	14950
 Standardizing	12255,104,618,4464
-Standards	11,10,13,966,237,587,164,739,324,663,139,8,81,184,76,166,848,312,148,1,234,512,505,18,374,228,223,754,145,453,283,553,484,120,201,55,330,35,38,149,153,566,85,39,26,15,1,100,3,1,29,58,6,59,14,11,138,219,5,8,10,52,8,63,13,27,12,93,121,2,2,10,37,63,41,13,30,28,24,80,69,20,224,55,221,209,7,48,1,246,2,76,53,80,18,69,46,68,96,236,190,43,147,41,275,36,224,205,211,9,11,13,15,8,16,15,10,29,257,133,90,81,146
+Standards	11,10,13,966,237,587,164,739,324,663,139,8,81,184,76,166,848,312,148,1,234,512,505,18,374,228,223,754,145,453,283,553,484,120,201,55,330,35,38,149,153,566,85,39,26,15,1,100,3,1,29,58,6,59,14,11,138,219,5,8,10,52,8,63,13,27,12,93,121,2,2,10,37,63,41,13,30,28,24,80,69,20,224,55,221,209,7,48,1,246,2,76,53,80,18,69,46,68,96,236,190,43,147,41,275,36,224,205,211,9,11,13,15,8,16,15,10,29,257,133,90,81,146,195,2,134
 Standards Act	1988,5560,3721,1257,369,508,1019
 Standards Act. Draft Standard No. and Edition	11269
 Standards Act. Standard No	11269
@@ -1912,6 +1926,7 @@ Standards Pathway	12457
 Standards Publications	13190
 Standards Relevance Given	1867,121,1574,42,2935,4229,649,143,345,3753,3,483,240,565
 Standards Robust	15713
+Standards SIGE	17830
 Standards Sector Speciﬁc Policie THE GUIDE	16212
 Standards Selection Principles	11184
 Standards Service	5676
@@ -1947,6 +1962,8 @@ Standards and Recommended Practises	3326
 Standards and Technical Guidelines	14965
 Standards and Technologies	1200
 Standards and Training Information Alerts Protection Starter	16830
+Standards des SIGE	17830
+Standards du Cadre	17830
 Standards du Numerique	15584
 Standards du Nurnerlque	15584
 Standards for Basic Bank Account	12447
@@ -1976,6 +1993,7 @@ StandardsMatter	13221
 Standart CEN	15392
 Standby	11209,1976
 Standby Letters of Credit	14546
+Standby Partners. Dans	18075
 Standby Servers	15478
 Standby UPS	9123
 Standfirst	786
@@ -2148,6 +2166,7 @@ Unified Social Registry Standard Operating Procedures	14976
 Unified Standard of Truth Khaire	11105
 Union for Telecommunication Standards	12360
 United Kingdom’s Government Digital Service Standards	11216
+United Nations Standard Minimum Rules	17934
 United Nations Standard Minimum Rules for Treatment	14742
 United Nations Standards	13807
 United Nations Standards Manama	13807

@@ -1,18 +1,27 @@
 ACRONYMS CSO Civil Society Organization DNHA	12964
 AFRINIC DNS Support	14810
+AMPPF DNDS	17946
+ATIC BRPI CTRCA DNEN MCEN SMTD	17856
 African DNA	13407
 Afrique DNSI Direction Nationale des Systèmes	16626
 Agriculture DNM	16621
+Agriculture DNPD	17842
+Alerte Epidémiologique DNDS Direction Nationale du Schéma	17845
+Aménagement du Territoire DNPIA	17842
+Attitudes DNDS UNICEF	17946
 Avis DNCMP J	10876
 BASCULE DNS SUR	14683
 Big Data Analytics DNS	958
 CEC CEC CFL CNEPT DME DNASE	10766
 CENORF DNS	15694
 CEO of DNS Africa Media and Communications	5145
+CHU-KATI UMRSS DNPSES REDISSE III ANTIM	17882
+CPS-SS DS DNDS	17946
 CSO Civil Society Organization DNIC National	4214
 Census and DNRN	10765,10
 Chef du Gouvernement. La DNSSI	1185
 Chief Executive Officer of DNS Africa	8627
+Civil Protection DNH National Directorate of Hydrology	17962
 Cloudflare DNS-over-HTTPS	700
 Comptabilité Publique DNCMP Direction Nationale de Contrôle	10876
 Conferência Imprensa DNRE	12018
@@ -22,6 +31,7 @@ DE DECLARATION PAPIER A LA DNI	16629
 DFC Cooperação Financeira Direta DNT	15966
 DFIL Disbursement and Financial Information Letter DNA	11380
 DGIS DNE	15694
+DIAMOUTENE Adama DNPEF	17845
 DN AP	15694
 DN-HepB	15711
 DNA and GPS	10819
@@ -29,6 +39,7 @@ DNAFD	13723
 DNAFLA	6959
 DNAICC	10750,2
 DNAICC Direcção Nacional	10765,10
+DNAMR	17945
 DNCMP	10876,5519
 DNCMP Ajustement du DAO Minimum	10876
 DNCMP Analyse	10876
@@ -50,8 +61,17 @@ DNCMP Valide	10876
 DNCMP. Ce	10876
 DNCMP. Valide	10876
 DNCQF.POL05 Issue No	12574
+DNCTP	17872
 DND DENTAL LIMITED Data Controller INST-52616591004	7167
 DNDIXO	15604
+DNDS Activité	17946
+DNDS CPS-SS DS	17946
+DNDS DNPSES	17946
+DNDS Existence	17845
+DNDS INSTAT	17946
+DNDS ND	17845
+DNDS ND NON NON Oui Oui	17845
+DNDS Résultat	17946
 DNE DGPOG	15694
 DNE Educaçã DD063061-D0E2-4804-8778-73FA945E4D17 EMAEI	15694
 DNE FECAD	15694
@@ -64,8 +84,15 @@ DNEAS	15673,694
 DNEAS. Par	15673
 DNEMIS	7027,5034
 DNEMIS State Implementation Teams	12061
+DNEN Direction Nationale	17870
+DNENum	17824
 DNES-MESCTI Como	11387
+DNESRS	17830
 DNFBPs	14016,782,2239
+DNH and DGPC	17962
+DNH and SAP	17962
+DNH and SAP Key Outputs	17962
+DNH and SAP. Page	17962
 DNI Consortium	10735
 DNI Direction Nationale des Impôts	16614
 DNI Group	14366
@@ -86,8 +113,35 @@ DNN FactCheck	8522
 DNN Media	8522
 DNN Media Foundation LTD	8522
 DNOCP	3118,12408,530
+DNP DRH INSTAT	17946
+DNP Direction Nationale	17845
+DNP INSTAT	17946
+DNP Mali CERCAP	17842
+DNPD National Directorate of Development Planning DTT	17870
+DNPEF	17845,101
+DNPEF CNDIFE	17946
+DNPEF ETAT	17845
+DNPEF SSDSPF	17946
+DNPEF. Des	17845
+DNPF Direction Nationale	17845
+DNPF N	17845
 DNPI Director General Maj. Gen. Elia	4635
+DNPIA	17842
+DNPIA Act.2.3.1.11	17842
+DNPIA Act.4.1.2.17	17842
+DNPIA INSTAT	17842
 DNPIQ	15416
+DNPSES	17845,37,24,40
+DNPSES Equipement	17845
+DNPSES Etat	17845
+DNPSES Existence	17845
+DNPSES Nombre	17845
+DNPSES Non NON	17845
+DNPSES PM Existence	17845
+DNPSES Prendre	17845
+DNPSES SISo	17845
+DNPSES. Nationales	17845
+DNPSES. Proportion	17845
 DNPlo	15416
 DNRE Flyer Restituição IVA Desdobraveis Mod	12018
 DNRE National Directorate of State Revenue	11965
@@ -117,10 +171,12 @@ DNS-resolved	2145
 DNS. Bénin	16545
 DNS. Cependant	4210
 DNS. Des	16545
+DNS. Ils	17823
 DNS. L’ouverture	16545
 DNS. POTRAZ	578
 DNS. Si	16545
 DNS64	7010
+DNSA Présentation Dispositif National CNSA CCSPPSA	17888
 DNSAE	3868,1372,8566
 DNSAN	10763
 DNSCMT	16722
@@ -140,6 +196,8 @@ DNT Fund	13462
 DNT Fund Adjudication Committee. Mainstream Publishers	13462
 DNT Fund and AI Innovation Funding	13462
 DNT Fund. DNT Funding	13462
+DNTCP	17861,9,2,73
+DNTCP. Secrétaire	17861
 DNTIEN	6858,9873
 DNTs. Intervir	15966
 DNTs. ODS	15966
@@ -151,8 +209,12 @@ DNjanja	3782
 DPRI and DNSI	6593,8081
 Deferred Net DNS Participant	12364
 Denial of Service DNS Domain Name System	6946
+Dette Publique DNAT	17842
 Digital Economy DNMAP National Directorate of Public	11863
 Direction Générale DNA	16621
+Direction Générale des Impôts DNI DNP Direction	17842
+Direction Générale du Budget DGI DNA Direction	17842
+Directions DNDS	17845
 Direção Nacional da Modernização Administrativa DNMA	15532
 DnetvaenlodpSmkeilnlst and Skills	10157
 Dnigt	14566
@@ -167,19 +229,31 @@ ETRE VALIDES PAR LA DNI	16629
 Editorial Board Chair of DNN	8522
 Estado A DNME	15572
 Etudes Universitaires Générales DNESRS Direction Nationale	12
+Evaluation des DNAT	17842
 FIs and DNFBP	14016
 FIs and DNFBPs	14016
+Financière DNPSES Promotion	17845
 Fisheries DNA Deoxyribonucleic	11188
 Fund the DNT Fund	13462
 GDP of DNT	17209
 GOV6 Não EST-ADM3 Equipa da DNMA	15532
+GOÏTA Assitan Dédé DOUCOURE DNDS	17845
 GSM Association GSMA DNSI GSMA Digital	14674
 GSMA DNSI	14674
+HRD and DNH	17962
+Habibatou DAOU DNDS	17845
 INSTITUTO NACIONAL DE PREVIDÊNCIA SOCIAL DNAP-DIRECÇÃO	16028
 Improved DNS	4219
+Industrie DNS	17842
+Information DNPEF Administrative	17845
+Informatique DNP	17842
+Integrer DNDS	17845
 Internet da DNME	15572
 Intervenants Tâches Délai DNCMP Analyse	10876
+Inventaire DNEF	17842
 JAAH Investments and DN Invest	14366
+KANTE Almamy DNPF	17845
+Kayes DNP	17842
 LA DNI S’ARRETE DE FONCTIONNER	16629
 La DNCMP	10876
 La DNEHPP	16722
@@ -187,9 +261,18 @@ La DNI	16629
 La DNRST	16627
 Legal Notices Subscribe Home News DNA	7264
 Les DNA	3396
+M. Almamy KANTE DNPEF	17845
+MALI METEO and DNH	17962
+MALI MÉTEO and DNH Key Outputs MALI	17962
+MME DNPD	17842
 Making DNA	3331,91,225,6,324,50,31,115,12,487,194,149,2015,234
+Mali INSTAT DNAT	17842
+Mali Méteo and DNH	17962
+Marie DIARRA DNPSES	17845
 Methodology for Data Collection The DNSP	11417
 Ministères Montant Montant Montant DNA	3396
+Mme Cissé Youma COULIBALY DNH	17983
+Mme DIARRA Abibatou DAOU DNDS	17845
 Modèles-type DNCMP Plateforme SIGMaP	10876
 Météorologie DNPA	16621
 N'Zérékoré DNSHP T2	16722
@@ -197,25 +280,45 @@ NGOs’ DNS	5822
 National DNS Forum	6738,4256
 News DNA	7264
 Novo DNA Profissional	7948
+Organisation des DNDS INSTAT	17946
 Ouest CNT Conseil National de Transition DNAFLA	6959
+PVH DNDS	17946
 Plano DNTs	15966
+Population DNTCP	17842
 Public DNEMIS Portal	12061
 REPÚBLICA DE CABO VERDE DNRE	12021
+RGPH DNP INSTAT	17946
+Rapports du Comité Pourcentage de DRPFEF Technique DNPF	17845
+Renforcement des DNP	17842
+Renforcement des DNPD	17842
+Renforcement des DNPIA	17842
+Renforcement des DNTH	17842
+SIFEF DNPEF	17845
+SIMT DNTH	17842
 STRAÇÃ DNE	15694
 Senegal DND	3598
 Serveurs DNS	15512
 Service Beacon Identi- DNA DNA DNA	6946
+Service DNS	17823
+Sidy Mohamed DEMBELE DNEN ANTIM CHU	17882
 Site da DNRE	12018
+Soumaïla KEITA DNDS	17882
 Strengthening DNS	16545
 Structure of DNSSI	1185
+Suivi des DNPIA	17842
+Suivi-évaluation des DNPD	17842
 System DNSSEC Domain Name System Security	13295
+Sécurité Alimentaire CURES DIN DGSHP DNP	17978
 TOMADY's DNA	14519
+Technique DNPF	17845
 Technologie. La DNRST	16627
 Tecnologias de DNE FECAD	15694
 Telone Join ICANN and INTERPOL for DNS Security	6909
 Top Level Domain DNS Domain Name	13295
 Traitement des DNA	3396
 Transparency And Accountability DNEMIS URL	12061
+UA UNICEF DNEC	18076
 Utérin DNSP	15475
 WAT DNN FactCheck	8522
 Within the DNIRN	10775
+Yehia ABDOU DNPD	17983

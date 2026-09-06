@@ -86,7 +86,7 @@ Comprehensive Planning and Climate Resilience	12399
 Conduct Strategic Workforce Planning Strategic	14997
 Congo's Ministry of Planning and Ministry of Finance	3409
 Congolese Minister of Planning	228,1
-Contingency Planning	12356,2565
+Contingency Planning	12356,2565,2988,81
 Contract Land Use and Planning Executive Youth	14738
 Contract Planned Actual Planned Actual Planned	17180,39
 Contractor During Planning N	12253
@@ -112,6 +112,7 @@ DATA MANAGEMENT PLANNING ACROSS DISCIPLINES	12090
 DEEPCFWP1 Ministry of Finance and Planning	11142
 DEVELOPMENT Ministry of Economic Planning and Development	4247
 DEVELOPMENT PLANNING	17011
+DNPD National Directorate of Development Planning DTT	17870
 DPME National Planning	11193
 Data Centre Capacity Planning	9123
 Data Gender-Responsive Planning	13349
@@ -255,6 +256,7 @@ Ensuring Key Data and Maps for LDN Planning	17157
 Enterprise Planning Resource	16923,1
 Enterprise Resource Planning	3051,491,4445,683,1249,3134,367,571,194,339,22,192
 Enterprise Resource Planning System. Known	14738
+Enterprise Ressource Planning	17882
 Environment and Planning	4676
 Environment and Planning C	11028,1199
 Environment and Planning D	12227
@@ -375,6 +377,7 @@ IEDA Consultant PCA Planning Department Director	2989
 IIEP-UNESCO International Institute for Educational Planning	14916
 INTEGRATED PLANNING	14947
 INTEGRATED PLANNING Issue	14947
+INVESTMENT PLANNING AND CLIMATE RISK MANAGEMENT	18036
 IPPF Indigenous Peoples Planning Framework	11390
 IPPF Indigenous Peoples Planning Framework IPs	15518
 ITAP. Malawi National Planning Commission	12175
@@ -420,8 +423,8 @@ Investment Description Planned	11955
 Joint Financial Planning	17311
 Joint Planning and Construction	12389
 Jul-2020 Planned Mid Term Review Date	16638
-KEY DATES Key Events Planned Actual	2712,1976,6182,1358,39,3468,278,692,295,96,374,35
-KEY DATES Key Events Planned Date	11924
+KEY DATES Key Events Planned Actual	2712,1976,6182,1358,39,3468,278,692,295,96,374,35,399,54,48
+KEY DATES Key Events Planned Date	11924,6038
 KRA Enterprise Resource Planning	1835
 Kenya's Cabinet Secretary for National Treasury and Planning	3867
 Key Events Planned Actual Approval	6579,4816,576,469,3639,915,85
@@ -618,6 +621,7 @@ National Development PlanNelson MandelaNepadPeople	11215
 National Development Planning Achievements	16944
 National Development Planning Commission	582,4793,1133,9337,256
 National Development Planning and Research	2998,400,11599
+National Directorate of Development Planning	17870
 National Directorate of Planning	11863
 National Government Planning	12962
 National Interagency Spatial Planning Platform	12137
@@ -779,8 +783,9 @@ Planned Activities	11866
 Planned Actual Comments Administrative Division Morocco	17441
 Planned Actual LR-MFDP-390672-GO-RFQ	17180
 Planned Actual LR-MFDP-499427-NC-RFP	17180
+Planned Actual Planned Actual	17962
 Planned Actual Planned Actual LR-MFDP-388880-CS-CDS	17180
-Planned Actual Planned Actual Planned Actual	17180,39
+Planned Actual Planned Actual Planned Actual	17180,39,743
 Planned Actual WARDIP-F	17219
 Planned Actual WARDIP-S-001-2025	17219
 Planned Agricultural Development Zones	17613
@@ -813,7 +818,7 @@ Planned and Unplanned HV	14867
 Planners	396,7570,4996
 Planners KM Kilometers KMHFL Kenya Master	2775
 Planners and M&E Officers	16944
-Planning	55,1,50,19,23,36,52,11,92,57,22,540,256,47,516,47,141,23,105,3,679,214,594,21,297,17,1,1,3,291,83,486,892,556,437,280,600,154,388,1033,84,1106,467,49,135,21,144,2,2,3,57,16,7,6,34,5,8,591,47,9,24,36,10,16,23,216,12,44,26,2,33,51,32,4,8,93,128,1,41,201,33,27,354,1,13,73,211,362,145,367,235,7,25,85,66,7,69,23,2,142,309,80,3,23,14,8,3,25,32,2,39,14,66,63,74,299,204,430,6,27,26,5,26,7,14,3,4,1,2,5,18,84,59,10,8,39,37,2,25,71,33
+Planning	55,1,50,19,23,36,52,11,92,57,22,540,256,47,516,47,141,23,105,3,679,214,594,21,297,17,1,1,3,291,83,486,892,556,437,280,600,154,388,1033,84,1106,467,49,135,21,144,2,2,3,57,16,7,6,34,5,8,591,47,9,24,36,10,16,23,216,12,44,26,2,33,51,32,4,8,93,128,1,41,201,33,27,354,1,13,73,211,362,145,367,235,7,25,85,66,7,69,23,2,142,309,80,3,23,14,8,3,25,32,2,39,14,66,63,74,299,204,430,6,27,26,5,26,7,14,3,4,1,2,5,18,84,59,10,8,39,37,2,25,71,33,503
 Planning Act	1988
 Planning Ahead Will Make	10763
 Planning Assumptions The Electoral Commission	7266
@@ -977,6 +982,7 @@ Proposed DARE1 Extension Map Planned DARE1	13869
 Qualifications Framework ERP Enterprise Resource Planning	14747
 Quarter Total Economic Planning	12972
 RESETTLEMENT PLANNING AND IMPLEMENTATION PROCESS	17114
+RIICE Tool for Agricultural Investment Planning and Climate	18036
 RISK MANAGEMENT AND CONTINGENCY PLANNING	5245
 RPF Resettlement Planning Framework RPP Revenue	11380
 Radio Frequency Spectrum Planning	13295
@@ -1047,7 +1053,7 @@ Statistics and Planning	15661
 Steven Mwamba Planner	13392
 Strategic Adaptation Planning	11006
 Strategic Infrastructure Planning	15542
-Strategic Planning	408,3453,5608,2517,3178,1807,14
+Strategic Planning	408,3453,5608,2517,3178,1807,14,986
 Strategic Planning Central Department	15604
 Strategic Planning Committee	16943
 Strategic Planning Exercise	12686

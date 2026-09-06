@@ -32,9 +32,10 @@ Amissi G	10625,6965
 Annex G	3861
 Annexe G Etat	14472
 Annexure G	11240,746,1434
-Appendix G	236
+Appendix G	236,17633
 Appleton G	14666
 Asiki G	771
+Axe G	18015
 B. Anthony McCritty Sr. Maria G	16850
 B. G	5349
 BUNDLING OF TELECOMS SERVICES SECTION G	582
@@ -51,8 +52,12 @@ C. G	1243,11090
 C. G. Reddick	5349
 CAPITOL BUILDI G. CAPITOL HILL	16851
 CBDC. G	12343
+CHU du Point G	17845
+CHU- Point G CHU-CNOS CHU-HDB CHU-IOTA	17882
 CODE G LIBELLE TYPE GESTIONNAIRE ACTIVITE LIBELLE	16623
 Cabo Verde D G A P	6530
+Centre Hospitalier Universitaire du Point G	17882
+Chef Ibrahima G. SIBY Mle	17828
 Chowdhury G	9653
 Citrusdal Ms G Sekhu	11986
 Class G Investor Permit	7406
@@ -100,6 +105,7 @@ E F G H M	13093
 E G Airtel Vodafone Tigo MTN	236
 E G D	12674
 E and G	17017
+E-Santé Centre Hospitalier Universitaire du Point G	17882
 E. G	5349
 ENT G	11178
 ENVIRONMENTAL STATISTICS Table G	11250
@@ -107,6 +113,7 @@ East African Communications Organisation G GB	14879
 Ebrima G. Sankareh Government Spokesperson	12085
 Economic Community of West African States G	16872
 Electricity-Access-nationwide-inauguration-2026.pdf G B	17152
+Elevage Laboratoire du CHU du Point G	17841
 Encargado Grupo G Servicio	4209
 Especialista Grupo G	4209
 Especialista Grupo G Servicio	4209
@@ -170,12 +177,13 @@ G Connectivity	3770
 G Consumer Business Case	5675
 G Continuum	8283
 G Core	2528,15
-G Coverage	10856,2488,3540,355
+G Coverage	10856,2488,3540,355,631
 G Coverage ARCEP	10856
 G Coverage Climbs	5715
 G Coverage GSMA	10856
 G Coverage Gap	6051
 G Coverage and Investment	14674
+G Création	17860
 G Customers	8127
 G D P	17257
 G D P Baseline Multiplier	13868
@@ -319,6 +327,7 @@ G Optical Ethernet Interface	13185
 G Oshikoto	1944
 G PETIT AMI ACTUEL	13300
 G Packages	11259
+G Personal Autonomy and Individual Rights G1	17967
 G Pilot	7998
 G Plans and Test Zones	15713
 G Population	1013
@@ -333,6 +342,7 @@ G Promotion	11259
 G Promotional Packages	11259
 G Prosperity Insight Series GOVTECH MATURITY	10785
 G QoS	14674
+G Qualité	17860
 G Quarterly ARCT Data	13331
 G Quatrième	15493
 G RAN	5675
@@ -394,6 +404,7 @@ G Strategy	3564,1473,638,1833,5474
 G Strategy Development	7508
 G Strategy Execution	15713
 G Stratégie Nationale	15624
+G Stratégique	17860
 G Subscriptions	3862
 G T H E N	11586
 G TCL	5978
@@ -415,7 +426,7 @@ G Transport Network Ericsson	5332
 G Troisième	15493
 G Tunisia	8828
 G URINE FONCÉ	13300
-G URL	14780,45
+G URL	14780,45,3210
 G USIM	5391
 G USSD	4150
 G Ultrawideband	16810
@@ -452,6 +463,7 @@ G and S	16996
 G and Wi-Fi	10047
 G da Lei	15955
 G da Telecel	17093
+G de Chinguitel	17866
 G de MTN	15493
 G de Moov Africa	5978
 G de Moov Africa Bénin	5978
@@ -531,6 +543,7 @@ G. Evaluation of Technical Part of Proposals ITP	15080
 G. Evaluation of Technical Parts of Bids ITB	13185
 G. Every	17127
 G. F	2816
+G. Figure	17823,13
 G. Frempong	236
 G. Funding	17018
 G. G. COMPLAINT	14753
@@ -599,7 +612,7 @@ G. Para	11111
 G. Parallèlement	13531
 G. Paulatinamente	1215
 G. Plank. LASER Synthesis Paper	11006
-G. Pour	10226,5717
+G. Pour	10226,5717,1893
 G. Program Modalities and Other Issues	17257
 G. Public-Private Partnerships	16975
 G. Quality Assurance and Compliance	16975
@@ -621,6 +634,7 @@ G. Selon	7010,8464
 G. Senel	15715
 G. Sher	11140
 G. Siemens	9128
+G. Social	17870
 G. Succès	13492
 G. Tabela	11574
 G. Table	10856
@@ -632,6 +646,7 @@ G. The Postal and Telecommunications Regulatory Authority	16741
 G. The UN Department of Economic and Social	2383
 G. Toledo. Interim Evaluation	11006
 G. Toutefois	3526
+G. Toutes	18020
 G. Transparency	11857
 G. Transparency Variations	17139
 G. Trois	16158
@@ -644,6 +659,7 @@ G. W	2518,14340
 G. WITHDRAWN STANDARDS	15027
 G. Watson Richards The United	17256
 G. Wholesale	13060
+G. Wong	17870
 G. Work	10047
 G. World Bank Grievance Redress	15411
 G. Y	5349
@@ -662,6 +678,7 @@ Gourley G	1219
 Greenleaf G	5242
 Griffin G	17773
 Grupo G Maestro Músico Técnico Disciplina	4209
+Général du CHU du Point G	17841
 Hardavella G	771
 Hon. Gen. Rtd. Dr. C. G	13591
 Honorable Clarence G. Gahr Chairperson	17364
@@ -673,6 +690,7 @@ ICASA Chairperson Mothibi G Ramusi	6906
 INGENIERIE G P	16623
 INSCRIVEZ LE G	13300
 INSCRIVEZ LE NIVEAU D'HÉMOGLOBINE G	13300
+INTEROPERABILITE G	18077
 ISIQEPHU G IMINININGWANE YEMIZILA	11573
 Iaccarino G	14666
 Identificação D G P O G	6530
@@ -699,6 +717,7 @@ L A B O L G	13341
 L G T	13341
 L L I G E N	14565
 L O G	14879
+L'Agence G	18013
 L. G	5349
 LSE G Data&Analytics	12487
 La G de Guinea El Gobierno	14265
@@ -773,6 +792,7 @@ P. G	7886
 PART G	17250
 PART G SERVICE DELIVERY AND ORGASITAIONAL	11250
 PART II G	12920
+POINT G CHU	17882
 Paragraph G	14987
 Part G	11250,6000
 Part Licence G	17250
@@ -780,6 +800,7 @@ Participants By Stephen G. Fellajuah Monrovia	17084
 Patrick G. Phiri	13532
 Perillo G	14666
 Pierre MABIALA G	15558
+Point G	17827,6,49,121
 Porter G	1219
 Pour Fabrice G. Dako	6744
 Pozzi G	17773
@@ -811,6 +832,7 @@ Sarald Aimé NGOUABI G	15423
 Schedule G	12484
 School G- Grand	582
 Scope G	16900
+Secrétariat Permanent. G. OUTILS DE SUIVI	17842
 Section G. Financial Sustainability	15164
 Sitaraman G	5242
 Social Welfare Department. G. Resignation	12977

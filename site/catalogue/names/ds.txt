@@ -2,7 +2,9 @@ AIDS DSSC District Social Support Committee	12964
 ANSIE's DSSI	4255
 API SP.URB.TOTL DS2 fr excel v2 318520	747
 AU DSC	15495
+Acheter des DSGHP ETAT	17845
 Action Prioritaire du DSCRP2	15381
+Activités Responsables Sources de Coûts Chronogramme DSGHP	17845
 Actual DSR	11953
 Administration DMO District Medical Office DSL	34
 Administração Pública DSP9 LIT2 Não	15532
@@ -17,12 +19,19 @@ CA Aprovação Adequação DSF Elaboração	11435
 CERT Computer Emergency Response Team DSO	16883,1
 CMIL CNECI CNIL DPO DSI FP	14549
 CNTS CNRA DITT DGI DSI ENA	15936
+CPS SS DS Etat	17845
+CPS SS DS PF	17845,133
+CPS SS DS PF Etat	17845
+CPS-SS DS DNDS	17946
+CPS-SS DS PF	17842,104
+CPS-SS DS PF Act.3.1.2.16	17842
 CTD DAO DSCE DSRP DSTAT ECAM	15542
 CTE Colleges of Teachers’ Education DSCAP Digital	13991
 Canada’s DST	14932
 Ce DSCE	15542
 Centre de Santé Intégré DS	15423,262
 Certifiée PCI DSS	2312
+Club DSI	17824
 Club Dsi	5260
 Club Dsi Bénin	5260
 Club Dsi. La CoP	5260
@@ -34,6 +43,7 @@ Collection of DST	14932
 Columbia University DSP Digital Society Project	10759,78,1052,451
 Community Development DSW Department of Social Welfare	16867
 Conditions de Vie des Ménages DSSE	10874
+Conduire des DSGHP ETAT	17845
 Congo DSL Digital Subscriber Line. DVCMS	718
 Congo DSQ Domestic Servants Quarters DWT	2775
 Crédit Autogérée DSCE Document de Stratégie	10965
@@ -44,11 +54,15 @@ DE LA DSITRIBUCIÓN DE SUBSIDIOS	4209
 DEP and DSIC	11905
 DFIL Country Partnership Framework DSCE Designated	10964
 DFS Serviço Financeiro Digital DSS Padrões	11555
+DHIS2 DSGHP	17845
 DMA and DSA	8436
 DMU Diesel Multiple Units DSL Digital	2775
+DNDS CPS-SS DS	17946
 DOS DPSR DERF DSF Programmation	10858
 DPSR DSF DADF DOS DC DC	10858
+DRPSIAP DSM EHCVM FSEG Centre Universitaire	17978
 DS District	15724
+DS PF	17946
 DS Tech Namibia	17796
 DS-2 Breadth of Availability	15164
 DS-3 DSX	9123
@@ -104,6 +118,11 @@ DSF SCRP Programmation	10858
 DSFABFE	11944
 DSFABFE Page	11944
 DSFOne	6832
+DSGHP	17845
+DSGHP Activité	17845
+DSGHP Axe	17845
+DSGHP ETAT	17845
+DSGHP OOAS	17845
 DSHNS	723
 DSHP Digital Superhighway Project DSL Digital	6946
 DSHR REEAI	13712
@@ -143,6 +162,7 @@ DSMP Banque des Etats	11944
 DSMP Page	11944
 DSMP-2024	5740
 DSMP.2022. Données	11944
+DSN Mali. Prior	17870
 DSN. Il	3465
 DSNIS	11892,20,1394
 DSNIS Nombre	13306
@@ -155,6 +175,7 @@ DSP AdMob	13461
 DSP DSP	13461
 DSP Digital Society Project	11887,266,1,9,178
 DSP Digital Society Project V-DEM Varieties	10835,3,130,902,16,466,1,135
+DSP Eau Annexes Annexe	17866
 DSP Ovie Ewhubare	4725
 DSP and SSP	13461
 DSP&V-DEM	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1,135
@@ -172,6 +193,7 @@ DSPACE Mémoires	15568
 DSPDP	6361,207,5115
 DSPDP Director Yang Chongwei	6361
 DSPDP de Macau	6568
+DSPE Chapitre	17866
 DSPER	16037
 DSPs and GAM	13461
 DSPs and SSPs	13461
@@ -259,6 +281,7 @@ DSwinhoe	4676
 Data Protection Act DSM Dispute Settlement	1243
 Data Quality Assessment Framework DSBB Dissemination	14777
 Deeds Registration Trading Entity DSBD Department	11261
+Demba DIARRA ADC DSM TRAORE ADC	17841
 Departamento de Procedimentos Fiscais DSF	11435
 Developpment Company DSCE Document de Stratégie	10975
 Digital Single Market DSFOne	6832
@@ -267,8 +290,10 @@ Directeur Régional de Santé DS	15720
 Direction Générale des Routes DSNIS	13377
 Direction des Ressources Humaines DSCVM	10874
 Direction des Ressources Humaines DSI	14472
+Disséminer le Schéma DSGHP ETAT	17845
 Distinguishes DSR-2	15164
 District Sanitaire DSRP	15423
+District de Bamako DSGHP	17845
 Domain Name System DSTV	958
 Double Taxation Agreements. A DST	3161
 Ds Longxuan Zhao	8460
@@ -284,6 +309,7 @@ EletrónicaDSP3 DSP5 IEI1 IEI2 IEI3 IEI4	15532
 Email DSTV Reports Higher Earnings Per	2987
 Emprunteur DSI	15901
 Enterprise Architecture DSUB Electronic Business	1009
+Epi Info DSGHP	17845
 Equipe Cadre du DS FAC	15423
 Equipe de Gestion du DS	15423,262
 EstadoDSP5 DSP1 Não EST-ADM9 Enterprise Architecture	15532
@@ -292,11 +318,13 @@ Exchanges DSL	14853
 Executive Chairman of DS Tech Namibia	17796
 Extension DSTV Digital Satellite Television EDI	13295
 FDGDV HP DSHQDV	11527
+FEMAPH CPS-SS DS PF	17946
 Filing of DST	573
 Financement des Economies DSMP Direction des Systèmes	11944
 France’s DST	14932
 G20 DSSI	238
 GENDARMERIE DSP	16100
+GRH DSGHP ETAT	17845
 Google DSP	13461
 Google DSPs	13461
 Google DSPs. Memorandum Opinion	13461
@@ -326,7 +354,11 @@ Lagos State. DSVA Executive Secretary Vivour-Adeniyi	2445
 Le Club Dsi	5260
 Le Dsi	5516
 Les Dsi	5516
+M. Aboubacar Sidiki TRAORE LCL DSMIL	17841
+M. Fady TRAORE CDT DSSA	17841
+MADO DSGHP ETAT	17845
 MICSTI DSS	14185
+Mahamadou MARA ADJ DSSA	17841
 Maintenance DS	15423
 MultiChoice DStv	8130
 NBC and DSE	14176
@@ -340,17 +372,23 @@ Observations Nombres de DSF Attendus	16328
 Online Maps The DSG	12511
 Opportunité de DSP	2342
 Opportunités de DSP	2342
+Organisation des CPS-SS DS FEMAPH	17946
+Organiser des CPS SS DS PF Etat	17845
+Organiser des DSGHP ETAT	17845
 Organization DS Direct Support E&S Environmental	15138
 P. O. Box DS	3386
-PCI DSS	434,1916,4121,1310,3218,3662,173,2044,46
+PCI DSS	434,1916,4121,1310,3218,3662,173,2044,46,993
 PCI DSS Certified	12285
 PMEs A DSPDP de Macau	6568
+Paramétrage des CPS-SS DS	17946
 Pauvreté DSISR	15685
 Plataforma Governamental de Análise de Dados DSP9 Não	15532
 Policy Financing DSW ELP Department of Social	16952
 Prev. DSA	13868
 Prev. DSA Gov. Invest	13868
 Prev. DSA Priv. Invest	13868
+Production du Bulletin CPS-SS DSPF	17946
+Produire CPS SS DS PF Etat	17845
 Prospective DSA Direction des Statistiques Agricoles DSEE	15479
 Prospective DSIO	15475
 Quality Assessment Framework DSBB Dissemination Standards	14777
@@ -361,11 +399,18 @@ Regulators' Association of Southern Africa DSL Digital	12395
 Republic of Congo DSO Distribution System Operator	15659
 Research Assessment DSI Department of Science and Innovation	5246
 Rockefeller Foundation DSCF	937
+Rural DSF	17945
 Rural Development and Land Reform DSD Department	11188
+Réaliser CPS SS DS PF Etat	17845
 SA for DSPs517 and SSPs518	13461
 SCRP SCRP DSF DSF DSF	10858
 SENEGAL-EDUCATION-NUMERIQUE Par DS	9891
+SI- DSGHP	17845
+SIMR DSGHP ETAT	17845
+SISR DSGHP DSGHP Activité	17845
 SPD10 DSP6 LEG3 Não EST-LEG5 Legislação	15532
+SS DS PF	17845,101
+SS DS PF Act.3.1.2.20	17842
 SSP Performance-based DSPs	13461
 SSPs and DSPs	13461
 Sante Publique DSSB	14442

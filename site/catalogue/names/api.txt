@@ -9,8 +9,10 @@ API Application Programming Interface AU African	12512
 API Application Programming Interface BOZ Bank	13347
 API Application Programming Interface DPI Digital	13076
 API Authentication APIs	11952
+API Autorité de Protection des Données Personnelles	17870
 API Calls	4528,7984
 API Compatibility	5665
+API Credits Access	18039
 API Documentation	5665,9965
 API ENDPOINT PATH PARAMETER NAMING	6423
 API Endpoints Summary Table Legend	15630
@@ -21,6 +23,9 @@ API Gateways	12419
 API Integration for Recurring Debit Orders	15260
 API Interface	11555,3919
 API Interopérabilité Sécurité	15936
+API MALI	17817
+API MALI. TIONS D’EXERCICE ARTICLE	17817
+API Mali	17817
 API Management	15936
 API Management ITIL	15936
 API Medium	12444
@@ -33,7 +38,7 @@ API PNG Gateway	4275
 API Protection All APIs	11952
 API REST	9480,6456,505
 API REST MT-MX	15934
-API RESTful	15624
+API RESTful	15624,2278
 API SFEC	7346,8902
 API SFEC. Ces	7346
 API SFTP	3972
@@ -60,7 +65,9 @@ API for PersonalData	6423
 API-An	3222
 API-Business	3991
 API-IMMATRICULATION	7212
-API-Mali	8808
+API-MALI	17870
+API-Mali	8808,9062,143,3
+API-Mali. Deux	18013
 API-PAIEMENT-FACTURE	7212
 API-ZF	14231
 API-ZF. Il	14231
@@ -70,7 +77,7 @@ API-based EmaSwati	12444
 API-clean	13272
 API-dependency	7151
 API-driven	4973,1174,2285,4610,34,109,356,48,1163,2787
-API-first	2522,2602
+API-first	2522,2602,12845
 API-integrated	10718
 API-integration	5230
 API-level	8182
@@ -78,6 +85,7 @@ API-related	6423
 API-sourced	7885
 API-type	550
 API. Developer	6423
+API. Effica SYS	17969
 API. Every	6603
 API. G. Data Encryption	15161
 API. L. API Versioning	15161
@@ -89,18 +97,26 @@ APICCAM	15542
 APICONGO	15493
 APICULTURE VENTURE LIMITED Data Processor INST-627494A7670	7167
 APIDE	6835
+APIDEV	17933
+APIDEV Catégorie	17933
+APIDEV Français Bureau de Bamako Bureau de Bamako	17933
+APIDEV. Conception DoucSoft Technologies	17933
 APIEX	8246,4602,2568,332
 APIEx	10823,5722
 APIEx Bénin	16545
 APIFA	9333
+APIM Agence de Promotion des Investissements	17907
+APIM Agence de Promotion des Investissements ARE Autorité	17881
 APIMG	16641
 APIMUD	15694
+APIMali	17882
 APIN Public Health Initiatives	15321
 APIN's Dr. Olaposi Olatoregun and US CDC	9444
 APITRE UNIOUE ARTICLE	15348
 APIX-SA	7106
 APIs Close	6387
 APIs Elastic	13676
+APIs Existence	18077
 APIs LISGIS	17116
 APIs National	4848
 APIs and WIS2.0	16947
@@ -124,6 +140,7 @@ AWS-compatible APIs	14508
 Access API	10721
 Achieve API	13005
 Acronyms AfCFTA AI AI4D AISIO API	4528
+Actions API-Mali Actions API-Mali Facilitation	18013
 Adiresy API	14651
 Advanced Encryption Standard API Application Programming	11952
 African API	16809
@@ -174,6 +191,7 @@ Carolina Glasserman Apicella of DataGénero	7151
 Catálogo de APIs Iremos	16030
 Cette API	13306
 Chambers of Commerce and Director of API	16275
+Communication API	17902
 Companies API Application Programming Interface	4214
 Consultant API Chef	16012
 Créer des API	15624
@@ -193,6 +211,8 @@ Directions API	1363
 Disponibilização de APIs	11893
 Dispute Resolution API Business-to-Business IGF Inclusive	12444
 Distributed Denial of Service API Application Programming	6432
+Documentation API	17902
+Documentation des API. Exigences DevOps	17902
 EMIS Schools Stats API	15630
 Ecobank’s APIs	8341
 Enrollment Rates API	15630
@@ -226,17 +246,20 @@ IATI Datastore API	6982
 ID APIs	4911
 INRIS API	12453
 INRIS API Manager	4378
+IR AGETIC AGFEAU AMRTP APEJ API	17856
 Implement API	6432
 Imposing API and PNR	10723
 Inclusion API	14997
 Informatique Médicale API Application Programming Interface	13306
 Integration and API Requirements	13037
 Intelligence AML Anti Money Laundering API	14674
+Introduce Modern AI Tools Put APIs	18039
 IoT and APIs	16968
 JSON API	7885
 JSON JSON API	9480
 JSON. Une API	12024
 Kenya APIYO	6613
+L'association L’ONG APIDEV	17933
 LLM API	11585
 Locations API	15630
 L’agence APICONGO	15493
@@ -277,11 +300,11 @@ Plan and Budget API Application Programming Interface	16949
 Provide APIs	6423
 Pulse API	15166
 Qualquer API	16321
-REST API	9480,2924,3896
+REST API	9480,2924,3896,1669
 REST API Design Standards	11952
 REST APIs	7266,9673
 REST APIs. Using	16939
-RESTful API	9603
+RESTful API	9603,8299
 RESTful APIs	6432,6711,42,3739,15
 RESTful and API	17437
 RESTful. API Gateway	12419

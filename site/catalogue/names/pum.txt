@@ -1,6 +1,7 @@
 Advanced Meteosat Third Generation PUMA and ClimSA	16957
 Alert Restrict Pumping	17157
 CSP Pumped Storage	11953
+ClimSA and PUMA	17922
 EBARA PUMPS EAST AFRICA Data Controller	7167
 Gas Hydro Pumped CSP Wind Solar	11953
 Gas Hydro Pumped Storage Imports	11953
@@ -15,9 +16,10 @@ MTG PUMA and ClimSA Stations	16957
 NAM NSA PHC 2011 V01 PUMS	9485
 NAM NSA PHC 2023 V01 PUMS	9485
 Namibia Population and Housing Census PUMS	9485
-PUMA Stations	16957
+PUMA Stations	16957,965
 PUMA Synergie	16947
 PUMA and ClimSA	16957
+PUMA and ClimSA Infrastructures	17922
 PUMA and ClimSA Stations	16957
 PUMA2025	17075
 PUMA2025 Meteosat Third Generation	17075

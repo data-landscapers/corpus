@@ -1,3 +1,4 @@
+A. MATERIEL ROULANT QUANTITE	17817
 AI Leaders Roundtable	2668
 AI Roundtable	9707
 AU PROFIT DU CROISSANT ROUGE ALGERIEN	15885
@@ -45,10 +46,12 @@ Construction Route Zoétélé	15542
 Construction of Terre Rouge	14830
 ConsumerCentriX. Bridgforte Dialogues Roundtable	11138
 Creation of Route Redundancy	11857
+Croissant Roude de Mauritanie	17904
 Croissant Rouge	16621
 Croissant Rouge Algérien	15885
 Croissant Rouge Algérien. Article	15885
 Croissant Rouge Algérien. Le Directeur des Ressources	15885
+Croissant Rouge Mauritania	17849
 Croix Rouge	13360,3261
 Croix Rouge Conseil National	13442
 Croix Rouge Guinéenne Soins	16621
@@ -65,6 +68,7 @@ DEVELOPPEMENT DU TRANSPORT ROUTIER	15999
 DHIS2. Routine	13805
 DIRECTIVE ON THE ROUTING OF GOVERNMENT	17030
 DQa Routine Data Quality Assessment	15711
+DU FONDS D’ENTRETIEN ROUTIER DU MALI	17899
 DU MINISTERE DEVELOPPEMENT DU TRANSPORT ROUTIER	15999
 Data Routers	6946
 Deep Mediatization. Routledge	11028
@@ -83,6 +87,7 @@ Egypt Round	15604
 Enhanced Interior Gateway Routing EMIS Education	16942
 Enhanced Interior Gateway Routing Protocol	16942
 Entretien Routier	2342,1907,11293,394
+Entretien Routier FAO Organisation	17907
 Entretien Routier Fonds Interprofessionnel	15936
 Entretien Routier MATDDL Ministère	15580
 Entretien Routier du Deuxième FED	15542
@@ -93,14 +98,15 @@ Expert Roundtable	12257
 Exporting Chinese Digital Authoritarianism. In Routledge	2518
 Express Route	7036
 FATF Mutual Evaluation Round Five	8354
-FEUILLE DE ROUTE	13482
+FEUILLE DE ROUTE	13482,4533
 FEUILLE DE ROUTE E-FINANCES PUBLIQUES	15738
 FSCA Regulatory Actions Report Media Roundtable	12867
 Fatma Zohra Rouat	15410
-Feuille de Route	643,14780,1068,150
+Feuille de Route	643,14780,1068,150,1219
 Feuille de Route Cloud	3857
 Feuille de Route Nationale	16491
 Feuille de Route Numérique	14689
+Feuille de Route Orientation	17860
 Feuille de Route du Gouvernement	15936
 Fibre Route	2827
 Finances du Bénin Route de I'Aéroport	15399
@@ -110,18 +116,21 @@ Fonds Routier	10087,5455,457
 Fonds de Roulement	10975
 Fourth Round Eritrea Population and Health Survey	6106
 G SOCIETE TRANSPORT MOTORISE ROULANT SARLUNIP	16623
+GROUPEMENT DE LA SECURITE ROUTIERE	17982
 Garden Route	8999
 Gestion Routière	15542
 Hamza Blida Fréha Chéraga Rouiba Reghaïa	15690
 Heads of Regulators Roundtable	8117,124,1426
 Health Service Data Routine	15556
 High-Level Roundtable	15120
+Hôtel Wassoulou Route	17845
 IPv4 Route Server	14827
 IPv6 Route Server	14827
 Inaugural Western Cape Infrastructure Ministerial Roundtable	8564
 Indian Software Product Industry Roundtable	6692
 Industrie Mer Rouge	13868
 Information Sanitaire de Routine SVSVF	14442
+Interior Routing Protocol	17823
 International Investors Roundtable	5268
 International Perspective. Routledge. Smith	11879
 International Slave Route Monument	14774
@@ -136,6 +145,7 @@ Jean-Louis Le Roux	15338
 KZN Spaza Shop Roundtable	8458
 Kara le Roux	3922
 Key Infrastructure NPRC Number Portability Routing	6946
+Khidmaty du Système Numérique du Trafic Routier	17905
 Kimmo Rousku	8276
 LA ROUTE	15999
 LA SECURITE ROUTIERE	15999
@@ -183,6 +193,7 @@ Overberg Cape Town Garden Route Cape	8999
 Overberg Garden Route Overberg Garden Route	8999
 PHC Primary Health Care RHIS Routine	771
 PK Rouge	16100
+PORT ROUTIER A BAMAKO	17817
 PROCEDURE DE MISE EN ROUTE ET	17006
 Parliamentarians Roundtable	11285
 Patronat des Entreprises des Transports Routiers	15936
@@ -204,8 +215,9 @@ Quay D Roundabout	14742
 RDQA Routine Data Quality Assessment	15961
 RECOMMANDATIONS ET FEUILLE DE ROUTE	15936
 RECOMMANDATIONS ET FEUILLE DE ROUTE Page	15936
+RHA ROU S	17828
 ROUGOU Jean Pierre	16381
-ROUTE	573,5903
+ROUTE	573,5903,11539
 ROUTE Altitude Antenna	736
 ROUTE Name Bearer1	736
 ROUTE Station Name Latitude Longitude	736
@@ -267,12 +279,14 @@ Roundwood	17140
 Roupie NGN	14683
 Rousalova	771
 Rousalova&author	771
-Route	233,776,527,994,94,53,22,209,3545,528,734,36,1372,110,4186,1334,6,163,477,143,10,53,338,331,88,94,1046
+Routage BGP	17823
+Route	233,776,527,994,94,53,22,209,3545,528,734,36,1372,110,4186,1334,6,163,477,143,10,53,338,331,88,94,1046,449,31
 Route B	14922
 Route Mbujimayi-Tshilunde	16701
 Route Militaire	14738
-Route Nationale	4402,10267
+Route Nationale	4402,10267,3150
 Route Nationale N	15542
+Route Orientation	17860
 Route Ouled Fayet	15943
 Route Overberg Overberg City of Cape Town	8999
 Route Q2	11857
@@ -283,6 +297,7 @@ Route Server Service	13704
 Route Server Service Simplify	13704
 Route Voie	15542,13
 Route de Ngor BP	14896
+Route des Almadies Immeuble Rokhaya	17856
 Route du Méridien Président	11563,6180
 Route du Méridien Président Immeuble Rokhaya	10764,80
 Route3 Energy	5247
@@ -294,15 +309,15 @@ Router Configurations	16970
 Router ID	14827
 Router and SIM	12769
 Routers	34,544,6368,3671,104,4162
-Routes	2476,1061,4348,2510,2934,1424,1183
+Routes	2476,1061,4348,2510,2934,1424,1183,1971,112
 Routes Bitumées	15542
-Routeur	16047
+Routeur	16047,1776
 Routeurs	10700
 Routeware	4429
 Routier	3396
 Routier Classe	3396
 Routiers Recettes	10711
-Routine	396,375,1217,690,1113,70,1689,115,2357,648,837,1322,1322,1230,599,140,276,349,178,802,235,9,81,386,407,49,71,151,175
+Routine	396,375,1217,690,1113,70,1689,115,2357,648,837,1322,1322,1230,599,140,276,349,178,802,235,9,81,386,407,49,71,151,175,804
 Routine Administrative Health Service Data Routine	15556
 Routine Cognitive and Technical Work	16266
 Routine Data Quality Assessment	16722
@@ -315,6 +330,7 @@ Routine Planned Assessment	13381
 Routine VPA	16848
 Routinely	14777,467
 Routing	7891,116,333,191,592,1121,1087,1706,3897
+Routing Engines Figure	17823
 Routière	10821
 Routledge	226,1867,3,422,430,1484,917,351,2321,355,4,222,2426,22,3882,2225
 Routledge Google Scholar Hiller M	9739
@@ -327,7 +343,9 @@ Rouzaut	12333
 SADC High Level Ministerial Round Table	12918
 SADC High-Level Ministerial Roundtable Dialogue	13655
 SDN 2025 WMS-R4 v01 M Title Welfare Monitoring Survey Round	15024
+SEMENTS D’UNE ENTREPRISE DE TRANSPORT ROUTIER	17817
 SNNCI STN-CI Significations Agence de Gestion de Route	15936
+SOCIETE DE SERVICES FERROVIAIRES ET ROUTIERES	17817
 SPUR ROUTE Name Bearer	736
 SPUR ROUTE Station	736
 SWITCH-ON CEREMONIES ROUND-UP	13451
@@ -366,6 +384,7 @@ Tricycles Chaises Roulantes Prothèses Béquilles	13442
 UPSA Law School Roundtable	8697
 University of Oregon's Route Views	10037
 VACCIN POLIO INJECTABLE VPI ROUTINE DTCoq-HEP.B-HIB	13300
+VI. FEUILLE DE ROUTE	17867
 VISITES D’INSPECTION DE ROUTINE BAILLEURS	15670
 Voie Route	15555
 Welfare Monitoring Survey Round IV	15024

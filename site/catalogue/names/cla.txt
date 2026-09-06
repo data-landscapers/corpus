@@ -1,4 +1,5 @@
 A.9 Clarify	14723
+ACCESSIBILITÉ ET CLARTÉ	17830
 ACIDE CLAVULANIQUE	15930
 ACIDE CLAVULANIQUE AMOXICILLINE	15930
 ACIDE CLAVULANIQUE AMOXICILLINE AMOXICILLINE	15930
@@ -143,9 +144,10 @@ CLASS	1223,16311
 CLASS B	17534
 CLASS LICENSES	762
 CLASS OF CO-OPERATIVE SOCIETIES WITH TURNOVER	7845
-CLASSE	13300,2224,2010
+CLASSE	13300,2224,2010,469
 CLASSE B	17534
 CLASSE CAPORAL OU QUAR TIER MAITRE	15524
+CLASSE Niveau	18003
 CLASSE O N NIVEAU CLASSE	13300
 CLASSE PREPA	15674
 CLASSEMENT EN AFRIQUE	15936
@@ -166,8 +168,9 @@ CLASSIFIED SECTION	13385
 CLASSROOM CHECKLIST S N Name of School	16963
 CLASSROOMS	11918
 CLAUDE MOMBO	16099
-CLAUDE.md	17,216,147,157,48,95,89,237,37,107,44,24,30,46,1,30,1,1,1,1,1,195,56,79,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,26,69,13,1,1,1,1,1,1,1,1,1,1,1,1,1,1,29,1,125,21,12,30,1,1,1,1,1,39,1,191,40,333,12,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,546,1,1,1,1,1,1,1,1,1,172,92,88,39,5,58,17,45,5,14,65,32,5,147,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,84,17,28,1,1,1,1,1,212,1,94,60,13,44,1,1,1,821,210,13,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,192,179,125,232,8,88,74,41,190,155,17,127,1,1,1,1,1,1,1,1,60,187,164,181,113,30,92,37,35,24,59,7,2,104,16,100,36,89,71,83,60,83,10,20,27,7,20,5,14,144,73,6,64,10,10,5,46,22,176,188,3,35,614,504,31,20,16,181,87,93,54,96,2,2,2,262,45,416,36,1958,439,1283,254,134,135,44,52,71,1
+CLAUDE.md	17,216,147,157,48,95,89,237,23,14,107,44,24,30,46,1,30,1,1,1,1,1,195,56,79,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,26,69,13,1,1,1,1,1,1,1,1,1,1,1,1,1,1,29,1,125,21,12,30,1,1,1,1,1,39,1,191,40,333,12,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,546,1,1,1,1,1,1,1,1,1,172,92,88,39,5,58,17,45,5,14,65,32,5,147,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,84,17,28,1,1,1,1,1,212,1,94,60,13,44,1,1,1,821,210,13,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,192,179,125,232,8,88,74,41,190,155,17,127,1,1,1,1,1,1,1,1,60,187,164,181,113,30,92,37,35,24,59,7,2,104,16,100,36,89,71,83,60,83,10,20,27,7,20,5,14,144,73,6,64,10,10,5,46,22,176,188,3,35,614,504,31,20,16,181,87,93,54,96,2,2,2,262,45,416,36,1958,439,1283,254,134,135,44,52,71,1,1558
 CLAUSE BY CLAUSE ANALYSIS	11280
+CLAUSE DE NON-RESPONSABILITE	18086
 CLAUSE PAR INCORPORATION La RÉPUBLIQUE	15901
 CLAUSES DÉONTHOLOGUIQUES Absence	13635
 CLAUSES FINALES	15901
@@ -179,6 +182,7 @@ COICOP Classes	2775
 COMPENSATION CLAIM AND COMMITMENT FORM	17114
 COMPENSATION CLAIM AND COMMITMENT FORM COMPENSATION	17114
 COMPREHENSIVE DATA DOMAIN CLASSIFICATION	3861
+CONSOMMATEUR CONTRE LES CLAUSES ABUSIVES CHAPITRE	17825
 CONSTITUTIONAL CHALLENGES AND SUPREMACY CLAUSE APPLICATION	3861
 CONTACT Claire Mattei	14445
 CONTACT POINT World Bank Maria Claudia	15513
@@ -256,6 +260,7 @@ Claire Vo and Leveraging AI	11143
 Clairement	3465,9841,422
 Clairfonds	14830
 Clairon	15488,420
+Clairs	17983
 Clairvie-Edouard Yetikoua	15474
 Clairvoyant Business Option Limited	3862
 Claise NKOUKA LEKOGO	16175
@@ -269,6 +274,7 @@ Clanwlliam	8999
 ClapMi	11117
 Clar Weah Hope Foundation	17167
 Clara	9399
+Clara Ana Coutinho De Sousa Franz	17962
 Clara Ana Coutinho De Sousa Practice	15743
 Clara Ana Coutinho De Sousa Regional	15621
 Clara Ana De Sousa	1641
@@ -323,7 +329,7 @@ Clarifies	7972
 Clarifies Vehicle Procurement Amid Public Questions	11054
 Clarify	4126,88,634,2700,3217,10,134,51,173,3,1904,274,1463,41,1,209,136,1693,1,27,214,15,146
 Clarify Ecosystem Expectations	3503
-Clarifying	4848,7449,31,794,1844,136,62,309,577,892,21
+Clarifying	4848,7449,31,794,1844,136,62,309,577,892,21,930
 Clarifying Lawful Overseas Use of Data Act	5302
 Clarifying Patients' Rights	14434
 Clarinval	2096
@@ -352,6 +358,7 @@ Clarke and Dercon	10763
 Claro	163,15308,1384
 Claro Kpemavo	6744
 Clarrio	7482
+Clarté	17828,2,12
 Clase	4209
 Clase Económica	4209
 Clase Económica Técnicos	4209
@@ -427,11 +434,14 @@ Class0wasperfectlypredicted	8606
 Class1	8606
 Class1precisionof98	8606
 Class1withonlyeightfalsepos-	8606
-Classe	737,3830,6199,81,28,1,510,49,360,3920
+Classe	737,3830,6199,81,28,1,510,49,360,3920,2267,21,29
 Classe Acadêmica	11569
 Classe Alunos Angola	10766
 Classe Alunos Angola Bengo Benguela Bié	10766
 Classe C	2866,8929
+Classe ECICA	18003
+Classe Exceptionnelle	18003
+Classe Kodjan Ibrahim DIALLO	18032
 Classe M	10766
 Classe M F	10766
 Classe M F Angola Bengo	10766
@@ -447,14 +457,20 @@ Classe MF M F Novos	10766
 Classe N.º	10766
 Classe O Chefe da RF	11435
 Classe O Chefe da Repartição Fiscal	11435
+Classe Palier	18003
 Classe Professores	10766
 Classe Professores Alunos	10766
 Classe Professores Alunos Angola	10766
 Classe Professores Alunos Angola Bengo Benguela	10766
+Classe SAMAKE	18032
+Classe SIDIBE	18032
+Classe SINAYOKO	18032
+Classe Souleymane SANOGO	17982
+Classe YATTARA	18032
 Classe de CE2	14745
 Classe de Iniciação	10766
 Classe de Transição	11419
-Classement	1247,1095,6549,1985,738,1761,193,969,956,15,595,146,377,10,5,81
+Classement	1247,1095,6549,1985,738,1761,193,969,956,15,595,146,377,10,5,81,1157,136,39
 Classement Asie	15936
 Classement Europe	15936
 Classement Global Open Data Index	16641
@@ -463,10 +479,11 @@ Classement Indice	16641
 Classement Indice Mondial	16641
 Classement Open Government Data Index	16641
 Classement Titre	14438
+Classement Usage	17860
 Classement du Burundi	13325
 Classements Doing Business	17448
 Classer	13781,1726
-Classes	9123,1643,1087,1200,2551,111,1425
+Classes	9123,1643,1087,1200,2551,111,1425,863
 Classes C and D	3651
 Classes Connectées Dir	17497
 Classes Connectées. Pour	17497
@@ -494,12 +511,13 @@ Classificador Intersectorial	10783
 Classificador Orgânico	10783
 Classificador Territorial	10783
 Classificador de Programa	10783
-Classification	747,440,44,96,661,144,13,928,603,170,1,251,1034,533,767,133,886,97,337,436,1836,153,411,233,185,119,309,230,108,90,953,105,18,196,20,506,75,156,399,26,295,253,132,77,38,102,126,1,82,69,89,2,5,4,121,63,28,351,265,348,106,151
+Classification	747,440,44,96,661,144,13,928,603,170,1,251,1034,533,767,133,886,97,337,436,1836,153,411,233,185,119,309,230,108,90,953,105,18,196,20,506,75,156,399,26,295,253,132,77,38,102,126,1,82,69,89,2,5,4,121,63,28,351,265,348,106,151,703,6,16,63
 Classification Activité	15936
 Classification Après	14423
 Classification Boundaries Automatic Class A Classification	5665
 Classification Catégorie Section Niveau	15602
 Classification Definition Examples Residency Security Level	5244
+Classification Décimale de Dewey	17978
 Classification Emballage	14423
 Classification Etablissement	15602
 Classification Expiration Date	1284,15638
@@ -508,8 +526,9 @@ Classification Framework Sovereign	10157
 Classification Framework Technologies	7548
 Classification Guidelines	7548
 Classification Internationale	13341,36,1065
-Classification Internationale Type	10874
+Classification Internationale Type	10874,6956
 Classification Internationale Type des Professions	14622
+Classification Internationale des Maladies	17845
 Classification Internationale des Marchés CITE	10874
 Classification Investment Project Substantial Financing	3604
 Classification Of Goods Temporary Importations	12454
@@ -561,7 +580,7 @@ Classifies	17157
 Classify	34,4092,3155,3950,979,794,1918,2235
 Classifying	13356
 Classique Satellite Bilingue Franco arabe Passerelle	10847
-Classroom	12726,666,1693,519,57,526,249,527
+Classroom	12726,666,1693,519,57,526,249,527,921
 Classroom Availability	12411
 Classroom Conditions	12199
 Classroom Observation Tool	16852
@@ -585,6 +604,7 @@ Claude ELLA NZIET	16381
 Claude J. Katta	16978
 Claude J. Katta Chairman Board of Commissioners	16978
 Claude J. Katta Name	16978
+Claude Jacquelot	17870
 Claude José MARTINS	16175
 Claude K. Migisha and Marie Batista	13747
 Claude KIREZI Remy Bruce SHEMA Fred	12445
@@ -711,6 +731,7 @@ DE TRAVAIL CLASSIFICATION EFFECTIFS	15690
 DEFINITIONS AND OBJECTS OF ACT Clause	12959
 DELAIS ET CLAUSES	16747
 DES CLAUSES CONVENTIONNELLES Art	15747
+DES SALLES DE CLASSE ET DES	17812
 DIGITAL CLASSROOM RENOVATION AND SOLAR POWER	16963
 DIPLO Gnahoa Jean Claude	2342
 DIPLO Gnahoa Jean Claude LIMITED	2342
@@ -822,6 +843,8 @@ Female CLAS	17000
 First Clasp	14760
 Fish Crustaceans Clams	17043
 Food Security Classification	17285
+Formation CLASSE	18003
+Formation CLASSE Niveau	18003
 Framework Integration Clause	5665
 Framework Integration Clause Commencement Notwithstanding	5665
 Franziska Clausius and Nour Barakat	11156
@@ -840,6 +863,7 @@ GCC and SCC Clause	14766,314
 GCI PB 019 CLA-2023-FIN.pdf	645,2,211,2
 GEE Classifier Alert	17157
 GRACE TWS Anomaly Classification	17157
+GRILLE INDICIAIRE Classe Echelon A B2	18003
 Garmien Clarisse HEMA	7670
 Gazette. Clause	14594
 GeneraL Assessment of Classrooms' Readiness	16963
@@ -991,10 +1015,12 @@ Justice. Justice Claassen	12920
 K-16 Classrooms. Springer International Publishing	8460
 KAYIRO Pierre Claver Mr NTISINZIRA	13300
 KAZIHISE Pierre Claver COORDINATION TECHNIQUE Mme	13300
+Kane Clara Ana Coutinho De Sousa	17962
 Kayitesi Claudette	12403
 Kenya Film Classification Board	7957
 Kenya National Qualifications Framework Act. Clause	7832,2448
 Kenya Statistics Authority. Clause	14594
+Khadidja Kadri Rue de Clairvaux	18015
 Kwanonqaba Mb Superspar Clanwilliam PnP Sanbury	8999
 L Licença de Classe	2866
 L3-CROP-TYPE.EGY-MLL Class	16466
@@ -1056,6 +1082,7 @@ Mar-2028 Environmental and Social Risk Classification	14456,1731
 Marguerite Clarke AGIR ABBREVIATIONS AND ACRONYMS	11905
 Maria Claudia Pachon	1264,9450,4779,20
 Maria Claudia Pachon ABBREVIATIONS AND ACRONYMS	15491
+Marie Claire DIALLO	17861
 Master Class	7692,2
 Material Scope and Data Classification Taxonomy	3861
 Matriz de Classificação da Significância	11390
@@ -1158,6 +1185,7 @@ PLANNING COMPONENT Thresholds and Classes	17157
 POLICY STATEMENT Policy Clauses Implementation Guidelines	6432
 POLITIQUE DE SUBVENTION CLAIRE	16037
 POSTS WITH CLASSIFICATIONS	14760
+PROTECTION DU CONSOMMATEUR CONTRE LES CLAUSES	17825
 PRUDENCE CLASS	13300
 PW Classic Labor-Intensive Public Works CRI	15138
 Pacifique NSAGUYE Emmanuel IZOMPA Jean Claude	13300
@@ -1263,6 +1291,7 @@ Second Class Air Mail	1220,10756
 Secretario de Tercera Clase	16871
 Sector Classifications	4972
 Sectoral Data Classifications	3861
+Selon la Classification Internationale Type	17830
 Send Clarification Request	16949
 Severability Clause	3861
 Seychelles Classrooms	8609

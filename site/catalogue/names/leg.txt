@@ -32,7 +32,7 @@ APPLICATION FOR ADMISSION AS LEGAL PRACTITIONER	12920
 APROFORT Legal Aid Service Calle	16972
 ASSEMBLEE LEGISLATIVE DE TRANSITION	15671
 ASSEMBLEE LEGISLATIVE DE TRANSITION TEXTE ISSU	1801,13991
-AU CHAPITRE DES MESURES LEGISLATIVES ET	7843,394,1050,55
+AU CHAPITRE DES MESURES LEGISLATIVES ET	7843,394,1050,55,8649,56
 AU TITRE DES TEXTES LEGISLATIFS ET	8269
 About CALS The Centre for Applied Legal	9889
 About the ILGRP Project The Inclusive Legislatures	9203
@@ -190,7 +190,7 @@ Constitutional and Legal Affairs Minister Dr Juma	4553
 Constitutional and Legal Authority for Enactment	3861
 Constitutional and Legal Authority for Enactment This Policy	3861
 Constitutional and Legal Framework	16943
-Constitutional and Legislative	16951
+Constitutional and Legislative	16951,1019
 Constitutional and Legislative Framework	14073
 Consumo Zero de Legumes	10777
 Conta de Moeda Electrónica Legenda	11404
@@ -258,6 +258,7 @@ Data. Legal Framework and Personal Data Protection	12533
 Decentralizing Legal Identity	13095
 Decentralizing Legal Identity SL. No. Distrct	13095
 Declaration of Assets Act. LEGISLATION	14742
+Declaration of Assets and Interests Legal Framework	17909
 Decreto Legislativo	11875,3505,24,29,121,473
 Decreto Legislativo Presidencial	430,3788,7163,4,23,13,22,134
 Decreto- Legislativo	15526
@@ -432,6 +433,7 @@ GCI. Legal	10764
 GEMERAL SER FICHIER LEGISLATIF	10974
 GENERAL ET REGLEMENTAIRE R LEGISLATIF	15999
 GLOBE Legislators	11285
+Gambia Road Leghar Ethio Telecom Bldg	17856
 Gender and Legal Units	16973
 General Manager of Legal Affairs	15492
 General and Legislative Elections	17358
@@ -498,7 +500,7 @@ IE Legend	17140
 II. LEGAL FRAMEWORK	10765
 II. Legal	3583
 II. Legal Architecture	11036
-II. REVIEW OF LEGISLATIVE	14073
+II. REVIEW OF LEGISLATIVE	14073,3897
 III Prevailing Legal and Regulatory Framework	14947
 INCM's Legislação Institucional	2866
 INDIVIDUAL RIGHTS AND LEGAL STANDING	3861
@@ -553,6 +555,8 @@ Ivoire Warns of Legal Action After Telecom	17726
 Joint Legislative Committee	8393
 Judicial and Legal Provisions Act	14751
 Judiciary Virtual Legal Aid	15713
+Judiciary and Legal Professionals	17934
+Judiciary and Legal Professions	17934
 Justice and Legal Affairs Committee	11115
 KEY LEGISLATIONS	14773
 KICTANet’s Legal Policy Fellow	8380
@@ -652,7 +656,8 @@ LEGISLAT	15485
 LEGISLATIF ET REGLEMENTAIRE SER	15999
 LEGISLATIF ETREGLE COPIHECER	15999
 LEGISLATIFE KID STATUTORY APFAIRS CARD	15999
-LEGISLATION	12580,3461,154,688,1
+LEGISLATION	12580,3461,154,688,1,998,101
+LEGISLATION Cette	17983
 LEGISLATION FOR SIGNIFICANT ECONOMIC PRESENCE	3161
 LEGISLATION FOR SIGNIFICANT ECONOMIC PRESENCE PART	3161
 LEGISLATION Part	573
@@ -730,7 +735,7 @@ Legacy of Impact	11244
 Legados. Servidor	16027
 Legafrik	14396
 Legais	12791
-Legal	28,208,513,212,1,7,40,152,82,21,20,63,250,33,147,41,49,11,1,60,157,10,1,782,69,81,57,130,71,94,203,3,8,73,36,73,74,111,18,136,1,27,13,35,15,43,41,48,19,53,107,29,6,298,112,29,111,19,220,11,170,132,51,176,15,508,8,9,10,366,119,9,2,172,63,105,193,67,10,48,100,67,209,55,19,132,258,1,34,23,109,193,44,48,93,24,77,235,73,83,21,12,97,13,44,67,150,74,80,10,47,128,293,255,1,10,18,19,2,5,3,19,3,67,86,9,37,86,1,1,2,5,2,9,5,2,23,2,41,47,7,95,30,151,17,38,194,6,5,51,35,7,4,10,36,1,4,26,122,43,50,13,5,31,47,5,23,2,11,5,6,7,11,22,4,20,70,29,20,2,15,49,52,24,222,16,7,11,6,26,11,32,9,22,1,11,5,132,114,9,2,1,9,11,12,20,19,36,132,104,27,88,179,16,60,114,68,190,32,65,106,56,74,6,8,7,2,7,9,6,3,13,29,5,10,16,12,17,86,32,22,12,5,19,1,2,15,8,21,62,19,7,152,30,21,6,27,47,38,7,86,17,523,44,55,23,328,3,122,68,52,9,13,2,9,4,8,8,10,13,1,10,10,3,3,36,39,1,1,95,13,12,18,93,1,9,36,73,25,43,148,110,50,28,7
+Legal	28,208,513,212,1,7,40,152,82,21,20,63,250,33,147,41,49,11,1,60,157,10,1,782,69,81,57,130,71,94,203,3,8,73,36,73,74,111,18,136,1,27,13,35,15,43,41,48,19,53,107,29,6,298,112,29,111,19,220,11,170,132,51,176,15,508,8,9,10,366,119,9,2,172,63,105,193,67,10,48,100,67,209,55,19,132,258,1,34,23,109,193,44,48,93,24,77,235,73,83,21,12,97,13,44,67,150,74,80,10,47,128,293,255,1,10,18,19,2,5,3,19,3,67,86,9,37,86,1,1,2,5,2,9,5,2,23,2,41,47,7,95,30,151,17,38,194,6,5,51,35,7,4,10,36,1,4,26,122,43,50,13,5,31,47,5,23,2,11,5,6,7,11,22,4,20,70,29,20,2,15,49,52,24,222,16,7,11,6,26,11,32,9,22,1,11,5,132,114,9,2,1,9,11,12,20,19,36,132,104,27,88,179,16,60,114,68,190,32,65,106,56,74,6,8,7,2,7,9,6,3,13,29,5,10,16,12,17,86,32,22,12,5,19,1,2,15,8,21,62,19,7,152,30,21,6,27,47,38,7,86,17,523,44,55,23,328,3,122,68,52,9,13,2,9,4,8,8,10,13,1,10,10,3,3,36,39,1,1,95,13,12,18,93,1,9,36,73,25,43,148,110,50,28,7,90,64,2,34
 Legal Access	6432
 Legal Action Against Individuals Behind Disinformation	15217
 Legal Adviser	10079,1897
@@ -744,7 +749,7 @@ Legal Affairs and Budget	9341
 Legal Affairs and Budget Sosten Gwengwe	9220
 Legal Affairs and Human Rights	12946
 Legal Affairs. The ECMS	6806
-Legal Agreement	1778,9747,1660,2187,146,141
+Legal Agreement	1778,9747,1660,2187,146,141,2303
 Legal Agreement. All	15372
 Legal Agreement. Project	6539
 Legal Agreements	11855,3746
@@ -1206,7 +1211,7 @@ Legislations and Regulations for Consideration	16883
 Legislations and Regulations for Consideration Based	16884
 Legislativa	8309
 Legislativas	6220,108,36,5173,24,4580
-Legislative	396,562,285,624,1676,318,313,237,8,164,967,856,2264,257,1488,716,3,63,1,52,11,28,235,453,16,145,297,536,349,39,1267,124,235,12,1514,284,48,29,12,91,164,118,3
+Legislative	396,562,285,624,1676,318,313,237,8,164,967,856,2264,257,1488,716,3,63,1,52,11,28,235,453,16,145,297,536,349,39,1267,124,235,12,1514,284,48,29,12,91,164,118,3,674
 Legislative Act	16872
 Legislative Analysis	15473
 Legislative Assemblies	14852
@@ -1339,6 +1344,7 @@ Localisation Requirements Regular Legal	6432
 Low-Cost Legal Assistance Offered	12389
 L’ASSEMBLEE LEGISLATIVE DE TRANSITION Vu la Constitution	1801,13991
 M. Omar Legder	15394
+MALI ANNONCES ET COMMUNICATIONS ANNONCE LEGALESCP	18003
 MANDATE Through Legal Notice Number	12970
 MCM Legal	3352,2381
 MFDP and Legislature	17116
@@ -1348,6 +1354,7 @@ Madzima Chidyausiku Museta Legal Practitioners	3352,2381
 Main Legal	16902
 Main Legislations	14738,8
 Malawi's Foundational Legal Identity System Sets	12144
+Mali Digital Economy Diagnostic LEGAL	17870
 Manager for Data Protection and Legal Advisory	9899
 Mandatory Audit of Legacy Data	3861
 Mandatory Audit of Legacy Data All	3861
@@ -1692,6 +1699,7 @@ South Sudan’s National Legislative Assembly	4583
 South Sudan’s Transitional National Legislative Assembly	10657
 South West Africa Legislative and Executive Authority	12890
 Southern Sudan Legislative Assembly	14852
+Specific Legal ID Systems	17870
 Sr. Counsel LEGAF David Satola Sr	15372
 St Petersburg International Legal Forum	6880
 Staff Officer Publications. The Legal Services	13361
@@ -1753,6 +1761,7 @@ Transitional National Legislative Assembly's First Deputy	3583
 Transitional National Legislature	7932
 Transnational Legal Theory	11028,22
 Transport Legal	16266
+Turk Legally Binding No Description	17880
 Type of Legumes	17043
 Técnica Legislativa	11456
 U FICHIER LEGISLATIF ET REGLONENTAIRE FAND	15999

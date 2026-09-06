@@ -30,6 +30,7 @@ CLOUD MIGRATION ROADMAP AND PHASE	6432
 COUNTY GOVERNMENT OF MIGORI Data Controller	7167
 Cabinda FÁTIMA JOÃO MIGUEL	10751
 Case of Irregular Migrants	12227
+Central Office for Combating the Smuggling of Migrants	17934
 Certification of Cause of Death MIGEPROF Ministère du Genre	15056
 Certification of Cause of Death MIGEPROF Ministère du Gerne	12413
 Challenges for Refugees and Migrants	12227
@@ -139,7 +140,7 @@ International Migration Review Forum	9838,7454
 International Migration Snapshot	12227
 International Organisation for Migration	7165,2673,2307,56,117,913,707,804
 International Organisation for Migration. The Act	14742
-International Organization for Migration	1743,124,1545,690,1070,1876,3793,1027,359,552,826,829,605,686,6,1143,42,241,135
+International Organization for Migration	1743,124,1545,690,1070,1876,3793,1027,359,552,826,829,605,686,6,1143,42,241,135,557,85
 International Organization for Migration. Available	11909
 International Organization of Migration IPV	16951
 Introduction and Migration	5675
@@ -244,7 +245,7 @@ Migrant	4842,4049,3069,2048,734,2132
 Migrant Money	14909
 Migrant Report Round	16916
 Migrant Report. Round	16916
-Migrant Workers	8891,1950,3901
+Migrant Workers	8891,1950,3901,3192
 Migrant Workers and Members	14742
 Migrants	377,4564,28,4647,2239,290,82,3330,408,937,14
 Migrants and Cities	16874
@@ -261,7 +262,8 @@ Migrated Email	11231
 Migrated Legacy System Debts	14546
 Migrating	8603,4663
 Migrating MIX	12965
-Migration	643,146,676,265,15,2,132,830,996,554,1274,200,699,514,51,1894,176,631,140,121,198,167,202,239,10,95,100,10,151,3,58,17,697,54,26,57,102,19,63,156,214,366,79,326,27,45,2,75,707,24,277,69,165,821,265,271,17,117,302,68,213,6,14,21,10,51,170,52,64,71,139,17
+Migration	643,146,676,265,15,2,132,830,996,554,1274,200,699,514,51,1894,176,631,140,121,198,167,202,239,10,95,100,10,151,3,58,17,697,54,26,57,102,19,63,156,214,366,79,326,27,45,2,75,707,24,277,69,165,821,265,271,17,117,302,68,213,6,14,21,10,51,170,52,64,71,139,17,387,1,109
+Migration Act.4.1.2.18	17842
 Migration Assessment	6432
 Migration Authority	10775
 Migration CIM	13377
@@ -279,7 +281,7 @@ Migration NDA Net Domestic Assets NDCS	17105
 Migration Partnership	643
 Migration Policy	14166
 Migration Policy Framework for Africa	16874
-Migration Policy Institute	7351
+Migration Policy Institute	7351,10519
 Migration Profile	16874
 Migration Progress Ahead of IMRF	17292
 Migration Project	11131
@@ -309,6 +311,7 @@ Migration and Health	16874
 Migration and Mortality	12963
 Migration and Remittances	11960
 Migration and Trade	16874
+Migration du Mali	17827
 Migration of Children	16874
 Migration of ECTS	14985
 Migration of Services	13295
@@ -317,6 +320,7 @@ Migration- Faire	15496
 Migration. SECTION	12145
 Migrationand TourismStatistics	16833
 Migrations	6089,2168,634,777,879,294,3729,930,149,1061
+Migrations OMLCC Observatoire Mauritanien de Lutte	17907
 Migrations PAM	10874
 Migratory Fish Stocks	14447
 Migração	6462,3683,632,4795
@@ -386,8 +390,11 @@ Place of Birth and Recent Migration	15247
 PolicyStatement Migrant	16874
 PostgreSQL. Migrate	6432
 Pour Mme Saada Abdillahi Miguil	7713
+Pr Assétou Founè SAMAKE MIGAN	17827
+Pr Assétou Founè SAMAKE MIGAN Point	17827
 Principles The National Migration Policy	16874
 Processor INST-8072861D5E2 MIGORI Kenya	7167
+Professeur Assétou Founè SAMAKE MIGAN	17861
 Progressive Migration of Existing Systems	10157
 Promote the Health of Refugees and Migrants	10776
 Proyecto de Migración Bases	4209
@@ -424,7 +431,7 @@ Serviço Nacional de Migração	2816,5396
 Serviço de Migração	5392,427,4171,1445,684,5422
 Serviço de Migração Estrangeiros	3899
 Serviços de Migração	5819
-Smuggling of Migrants	16874
+Smuggling of Migrants	16874,1060
 Société Mighty Land	15670
 Solar Power for Telecom Towers Guarantee MIGA	704,1
 South Africa Connect and Broadcast Digital Migration	11230

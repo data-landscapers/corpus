@@ -1,3 +1,9 @@
+A1.3.2.1.1 Adopter	17983
+A2.4.1.1.4 Adopter	17983
+A2.6.1.1.2 Adopter	17983
+A2.6.2.1.1 Adopter	17983
+A3.8.3.1.1 A3.8.4.1.1 Adopter	17983
+A3.8b.1.1.1 Adopter	17983
 A4. Adopt Framework Agreements	14729
 A5.1. Adopt	14729
 ACCESSIBILITY AND ADOPTION	16883,1
@@ -20,16 +26,19 @@ ADOPO N’guessan Sylvain Adm MMPE	2342
 ADOPT	9129
 ADOPT SYSQ	9129
 ADOPTA	16898
-ADOPTE	13877,984,1,1,239,262,1256
+ADOPTE	13877,984,1,1,239,262,1256,1383
+ADOPTE A BAMAKO	18003,29
 ADOPTE A L'UNANIMITE LE RBGLEMENT DONT	15443
 ADOPTE A L'UNANIMITE LE REGLEMENT DONT	15442
 ADOPTE LE REGLEMENT DONT LA TENEUR	15482
 ADOPTED	13342,2299
 ADOPTED CHILD	17127
 ADOPTED LE PARLEMENT A ADOPTÉ ET	14870
+ADOPTEE	17829
 ADOPTEE PAR REFERENDUM	15405
 ADOPTER LES SOLUTIONS DES ENERGIES	13433
 ADOPTER LES SOLUTIONS ERD ET	15801,236
+ADOPTES	17841
 ADOPTION	10313,691,2338
 ADOPTION AND UTILI ZATION	14723
 ADOPTION DE DÉCRET PORTANT	2342
@@ -165,7 +174,7 @@ Adonis MBATOUNG	16175
 Adonisi and Others	14673
 Adopción	1701,15197
 Adopon	9129
-Adopt	958,3,39,9,239,529,37,645,1124,291,340,1030,433,675,80,10,390,104,12,1,2,597,61,312,1208,16,1270,360,229,136,16,154,547,49,35,23,22,241,101,71,45,119,31,81,302,318,18,1,17,347,190,123,158,525,77,26,4,37,47,14,10,58,50,133,17,17,80,203,174,92,226,21,228,24,362,289,9,12,40,3,12,36,21,21,97,25,18,78,25,36,399
+Adopt	958,3,39,9,239,529,37,645,1124,291,340,1030,433,675,80,10,390,104,12,1,2,597,61,312,1208,16,1270,360,229,136,16,154,547,49,35,23,22,241,101,71,45,119,31,81,302,318,18,1,17,347,190,123,158,525,77,26,4,37,47,14,10,58,50,133,17,17,80,203,174,92,226,21,228,24,362,289,9,12,40,3,12,36,21,21,97,25,18,78,25,36,399,175
 Adopt AI	12356,2456
 Adopt AI Governance Frameworks Ahead of Regulatory	11138
 Adopt Cloud	13987
@@ -182,15 +191,18 @@ Adopt and Implement Data Governance Guidelines Government	15034
 Adopt and Manage Data Governance Frameworks	17084
 Adopt the Anti-Corruption Action Plan Waiting	11906
 Adopt the International Professional Practices Framework	1155
+Adopt the MALI Startup Act	17870
 Adopt the National Electrification Strategy	12717
 Adopt the SEA	15659
+Adopt the Start Up Act	17870
+Adopt the Startup Act	17870
 Adopt-A-School	5137
 Adoptant	12
 Adoptar	1701,736,379,1330,6609,17,658,5468,67
 Adoptar la ENDE	16898
 Adopte	14432
 Adopte la Loi	16636
-Adopted	582,388,273,349,5,466,895,1104,193,612,811,934,469,21,190,256,159,1953,1444,89,1023,268,503,718,756,290,246,476,77,54,335,900,45,1,132,272,29
+Adopted	582,388,273,349,5,466,895,1104,193,612,811,934,469,21,190,256,159,1953,1444,89,1023,268,503,718,756,290,246,476,77,54,335,900,45,1,132,272,29,557
 Adopted Child	16921
 Adopted Children	12216
 Adopted Children Register	12898,107,281,29
@@ -200,8 +212,8 @@ Adopted Personal Data Protection Proclamation	12184
 Adopted Q2	1777
 Adopted Smart Applications	16885
 Adopted the National QA and Patient Safety Strategic	12729
-Adopter	998,6285,716,892,650,1333,2,1068,1346,11,89,43,376,614,2,104,943,111,41,114,61,2,135,609,81
-Adopting	1000,777,247,72,3149,288,387,1758,81,262,1108,1022,690,355,22,529,208,5,26,215,5,8,119,62,919,32,522,70,843,37,179,167,80,269,40,1280,39,4,8,2,37,1,36,154,43,100,73,420
+Adopter	998,6285,716,892,650,1333,2,1068,1346,11,89,43,376,614,2,104,943,111,41,114,61,2,135,609,81,1198,39,9,22,89
+Adopting	1000,777,247,72,3149,288,387,1758,81,262,1108,1022,690,355,22,529,208,5,26,215,5,8,119,62,919,32,522,70,843,37,179,167,80,269,40,1280,39,4,8,2,37,1,36,154,43,100,73,420,143
 Adopting AI	4126,4869,5791
 Adopting Best Practices	12376
 Adopting Cloud Services	6432
@@ -217,7 +229,7 @@ Adopting the EMIS Norms and Standards	13310
 Adopting the Norms and Standards	13310
 Adopting the Scheme	16908
 Adoptingaprivacy-by-designstrategywould	8606
-Adoption	21,622,100,1034,211,354,237,369,212,2,68,319,55,183,12,60,267,304,98,145,189,370,9,4,41,63,326,2,5,406,344,181,315,210,13,4,305,88,25,82,366,1,104,4,110,827,62,108,951,191,2,310,4,16,101,29,15,18,40,63,29,132,2,627,90,49,58,30,171,23,22,4,51,72,1,18,11,18,28,99,82,135,258,121,182,16,25,1,9,92,9,71,148,789,87,2,10,17,157,13,16,67,178,45,14,108,208,39,63,19,60,30,38,38,2,74,23,2,9,30,49,53,16,19,2,23,8,68,165,17,263,135,19,5,13,60,8,110,16,5,30,1,39,1,18,24,138,12,123,78,77,109,26
+Adoption	21,622,100,1034,211,354,237,369,212,2,68,319,55,183,12,60,267,304,98,145,189,370,9,4,41,63,326,2,5,406,344,181,315,210,13,4,305,88,25,82,366,1,104,4,110,827,62,108,951,191,2,310,4,16,101,29,15,18,40,63,29,132,2,627,90,49,58,30,171,23,22,4,51,72,1,18,11,18,28,99,82,135,258,121,182,16,25,1,9,92,9,71,148,789,87,2,10,17,157,13,16,67,178,45,14,108,208,39,63,19,60,30,38,38,2,74,23,2,9,30,49,53,16,19,2,23,8,68,165,17,263,135,19,5,13,60,8,110,16,5,30,1,39,1,18,24,138,12,123,78,77,109,26,313,18,10,2,10,12,2,11,32,86,35
 Adoption A2-Data Localisation Rates	7548
 Adoption Act Chapter	12449
 Adoption Certificates Unavailable	14045
@@ -254,6 +266,7 @@ Adoption of AI Technologies	16046
 Adoption of Article	9992
 Adoption of Artificial Intelligence Across the Continent	6948
 Adoption of Beneficial Ownership	12987
+Adoption of Broadband Services Despite	17870
 Adoption of CORE-MIS	12335
 Adoption of Children Act and In the Matter of CJ	13040
 Adoption of Cloud Strategy	11986
@@ -279,6 +292,7 @@ Adoption of Package B	15164
 Adoption of Progressive Legislation	13313
 Adoption of Progressive Legislation Between	13313
 Adoption of Public WiFi	226
+Adoption of Sector Platforms	17884
 Adoption of Sudan's Resolution	15032
 Adoption of Sustainability Policy	10718
 Adoption of Technology and Data Systems	15845
@@ -291,7 +305,7 @@ Adoptons	3719,11308,383,424,3
 Adopts	2606
 Adopts AI Governance Framework The National	16202
 Adopts AI Governance Framework URL	16202
-Adopté	3946,5335,2445,1615,1043,1079
+Adopté	3946,5335,2445,1615,1043,1079,2379
 Adoptée	2950,1779,6359,2202,2198,707,537
 Adopção	2816,8544
 Adopção da Computação	11377
@@ -301,6 +315,7 @@ Adossé	2738,2064,7008
 Adotam	11393
 Adotar	11542,3984,799
 Adote Rock Cyber	4690
+Adou TRAORE	17882
 Adoul Karim	16708
 Adouls	8891
 Adoum	17583
@@ -323,6 +338,7 @@ Avatar of Adolf-dev	12478
 Awareness Adopt	14674
 B. ADOPTED REGIONAL STANDARD EDITION S	15027
 B. Pace of Adoption Policies	11140
+BAG UIND ADOUG OU	17828
 BAM.21 ADOPTION DE TECHNOLOGIES DANS	7655
 BFIA. Adoption	17257
 BROADBAND ADOPTION AND UTILISATION	16883
@@ -349,6 +365,7 @@ Business Adoption	16975
 Byron Adonis Mutingwende	10073
 C. ADOPTED INTERNATIONAL STANDARDS EDITION S	15027
 CG-BZV-01-2022 B12-00107. Maître Ado Patricia Marlène	15558
+COLLABORATIF Adopter	17896
 COMESA ZWS HS IEC ADOPTIONS	13385
 COMESA ZWS ISO ADOPTIONS	13385
 COMMUNIQUE Adopted	5825,3835
@@ -408,6 +425,7 @@ DECLARATION DE SOCIETES MAITRE ADO PATRICIA	15615
 DECRETO POR EL QUE SE ADOPTA	16893
 DELIBERE ET ADOPTE	15376
 DELIBERE ET ADOPTE LE PRESIDENT	15636
+DGI. Adopter	17872
 DGSN. Adopters	3635
 DIGITAL TECHNOLOGY ADOPTION AND DEMAND	16942
 DO HEREBY SOLEMNLY ADOPT AND GIVE	13294
@@ -419,6 +437,7 @@ Delphine EMMANUEL ADOUKI	15439
 Delphine Edith EMMANUEL ADOUKI	15660,32,88,6,62,519,89
 Delphine Edith EMMANUEL ADOUKI Article	15660
 Delphine Edith EMMANUEL ADOUKI Par le Président	15660
+Demand-Side View of Mobile Internet Adoption	17870
 Develop and Adopt the Primary Law	1777
 Develop and Adopt the Primary Legislature of MOPT Adopted	1777
 Development and Adoption	15760
@@ -426,12 +445,13 @@ Different Adoption Paths	11140
 Digital Access and Inclusion Adoption	1284
 Digital Adopt	6832
 Digital Adoption Implementation Guidelines	15161
-Digital Adoption Index	13314,2133,1495
+Digital Adoption Index	13314,2133,1495,928
 Digital Adoption Remains Limited Despite Strong	6815
 Digital Financial Services Adoption Mobile	7763
 Digital Infrastructure and Adoption	13344
 Digital Public Service Delivery Enablers Adoption	1284,12047
 Digital Remittances Adoption Report Juniper Research	14819
+Digital Technology Adoption	17870
 Digital Technology Adoption and Skills Development	4653
 Director General Adok	2302
 Directorate General for Children and Adolescents	16958
@@ -450,6 +470,7 @@ ENSURE RESPONSIBLE ADOPTION OF DIGITAL	12165
 ES.5 Adoption	10977
 ESTABLISHING THE AUTHORITY FOR POLICY ADOPTION	14004
 ET ADOPTE LE PRESIDENT	15351
+EXHAUSTIF Adopter	17896
 Educational Curricula. Adopt	1777
 Efficiency Measures Adopted	10864
 Egypt Adonijah Ndege	3737
@@ -492,6 +513,7 @@ GENDER GAP MOBILE INTERNET ADOPTION	11964
 GENDER GENDER MOBILE INTERNET ADOPTION	11004
 GEORGE BROBBEY ASENSO MINTER MAVIS ADOBEA	15845
 GMAO Action V.1.2 Adopter	13306
+GOMITR ADO UGOU	17828
 GRA and Senegal Customs Adopt Three-Month	17063,138
 GSMA Global Adoption Surveys	11994
 Ghana. AI Adoption	4126
@@ -530,6 +552,7 @@ ICT Adoption and Usage ICT	16975
 ICT and Digitalization Adopts the ECOWAS Digital Sector	1909
 IFRS Sustainability Disclosure Standards Rwandan Adoption	14997
 II-3. Adoption	16485
+III. Adopter	17894
 IMAI Integrated Management of Adolescent and Adult Illness	12976
 IMF Exploring the Adoption of Selected Digital Technologies	12948
 INSTITUTIONS FOR ADOPTING E-GOVERNMENT	16885
@@ -542,6 +565,7 @@ Implementation and Adoption	11857
 Improving Malawi's GSMA Digital Adopt	14674
 Indicator Digital Adoption Index	15480
 Individual Adopt	14674
+Information Adoption	17860
 Information Seeking Behaviour and Technology Adoption	5349
 Innovation Adoption	14819
 Innovation Adoption Review	14819
@@ -615,6 +639,7 @@ Malawi's GSMA Digital Adopting	14674
 Manufacturing Diversify Expand Adoption	10856
 Market Demand Addressing Usage and Adoption Gaps	12214
 Market Dynamics and Adoption	15120
+Markets Adoption	17870
 Marriage Adoption	12327
 Maternal Neonatal Child and Adolescent Health Unit	16951
 Maître Ado Et	15660
@@ -640,6 +665,7 @@ Monsieur Sourou Séraphin ADOUNSI Tribunal	17584
 Mr. Adoum Djimet Saboun	4925
 Mr. Adoumtar Noubatour	12052,1577,2727
 Mr. Adoumtar of AU-IPED	17021
+M’Bang Adomngar Degallois Kassoum BAGAYOGO Ousmane	17812
 NA NA NA Adolescent	16260,988,4
 NATIONALE A DELIBERE ET ADOPTE	15643
 NCA Director General Napoleon Adok Gai	2302
@@ -700,6 +726,7 @@ RCP Adopted Codex Recommended Code of Practice	16900
 RECOMENDAÇÕES PARA A ADOPÇÃO EFECTIVA	2816
 REGIONAL LEADERSHIP Adoption	14566
 REGISTRATION OF BIRTHS AND ADOPTED CHILDREN	12898
+RELATIF AUX SESSIONS CONFEDERALES DES ADOPTE	18032
 RIA Zero-Rating Policy Paper - Much ado about nothing.pdf	544
 Raphael Adou	10956
 Registrar Samuel Adom Botchway	3287

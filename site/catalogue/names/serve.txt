@@ -60,7 +60,8 @@ Route Server Service Simplify	13704
 SAN and Servers	14783
 SERVE	14985
 SERVER AND STORAGE INFRASTRUCTURE	11209
-SQL Server	6432,6713,24,16,1905
+SQL Server	6432,6713,24,16,1905,2740
+SQL Serveur	17845
 Salles Serveurs	14537
 Security Server	11952
 Security Servers	17097
@@ -93,7 +94,7 @@ Servers and Storage	14783
 Serves	4130,525,1010,6195,3173,1,1798
 Serves Citizens Opening	8367
 Servest	10279
-Serveur	15548,7,4,111
+Serveur	15548,7,4,111,2153
 Serveur Un	15512
 Serveur Vocal Interactif	14488,1,1
 Serveurs	9049,4475,1013,146,941

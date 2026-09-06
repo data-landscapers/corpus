@@ -12,6 +12,7 @@ Du Toit	8603
 ENFANT A UTILISÉ TOILETTES OU LATRIN	13300
 Facilities Toilet	14778
 Hangar Toit	737
+Immeuble Toilette Bamako	17817
 Mbaé Toimimou	13817
 Merry Toi-Milonon	5516
 Mon Toit	15936
@@ -20,10 +21,12 @@ Mr. Toivo Shilumbu	13102
 Ms M du Toit	11289
 OBSERVEZ LE MATÉRIAU PRINCIPAL DU TOIT	13300
 PAS DE TOILETTES	13300
+PLACES DES TOILETTES UNITÉ CLIENTS HOMMES	17812
 Separate Toilets	14778
 Soundi Abdou Toilib	3753
 TOILETTES	13300
 TOIRE	15558
+TOIRE DU MULTI-COUNTRY HIV	17812
 TYPE DE TOILETTES	13300
 Toidentifythe	8606
 Toiion	15429
@@ -37,7 +40,7 @@ Toilets	14738
 Toilets Facilities	14778
 Toilette	14490
 Toilette Salle	14490
-Toilettes	737,12563
+Toilettes	737,12563,4512
 Toilettes Toilettes	13300
 Toines	15429
 Toire	15429,258

@@ -1,7 +1,9 @@
 AERODROME LOCATION INDICATOR AND NAME FCBB	16552
 AI-powered Nigeria FCV	11468
+ANEH Etat de FCFA	17845
 ASECNATower. FCBB AD	16552
 ATC. FCBB AD	16552
+Abidjan FCFA	17842
 Abuja FCT	11879
 Activités Million de FCFA Gouvernement PTF	15580
 Addressing FCV Drivers and Sources of Resilience	11469
@@ -18,6 +20,7 @@ C0 FCFA	15999
 C00 FCFA	15999
 CAR's FCV	16436
 CFA Franc FCV Fragile	969
+COUVRIR FCFA PRENOMS	18032
 CPF ECD FCV FY IDA IFC	11468
 CPF and FCV	10829
 CPF's FCV-sensitive	11475
@@ -27,6 +30,7 @@ Clash Against Future FC Artificial	7814
 Comes Next The FCCPC	7181
 Command Edo State Command FCT Command	8471
 Compliance for Digital Platforms The FCCPC	11313
+Compte FCFA	17833
 Conclusion The FCCPC	11313
 Congo FCDO Foreign	12006
 DFS EFT FCP FSDS FSAP GDP	12701
@@ -36,11 +40,16 @@ Description Component of FCDO's Somalia Monitoring Programme	650
 Description FCDO	128,235,498,229
 Digital For FCS	195
 Diplomatic Drive FCT	4301
+Direction de Fonds de FCFA Produire	17845
 Director FCPA Rosalind Murithi	6946
 Disease FCV Fragility	16876
+Distributeurs Automatiques de FCFA HT POUR	17833
 Dépositaire du FCPR	15747
 E-learning Sudan FCV Fragility	14897
+EAA FCFA	17833
 EN FC	2561
+EN FCFA	18032
+EN MILLIONS FCFA	17842
 ERR ESP ESPP ESRC FA FCDO	16436
 ESS Environmental and Social Standard FCFA Franc	15515
 EUR and FCFA	16440
@@ -59,14 +68,17 @@ Estimación FCFA Franco	16969
 European Union FCB First Capital Bank	13005
 Exceptional FCS	11867
 F FCA	737
+FAA Funded Activity Agreement FCS Fragile	17962
 FBS Country Procurement Issues Paper FCFA	15372
 FC 17	10940
 FC Alinéa	15999
 FC Canchungo	11587,5447,291,87
+FC HT	17833
 FC Kallon Manager Foday Daboh Donates	7814
 FC Kallon Will Fight Till	7814
 FC O Serviço de Migração	3899
 FC Talanta and Eldoret International Union	6946
+FC YELLEN	17819
 FC score	10940
 FC-1 Edo South South	11857
 FC. Article	13719,53
@@ -75,6 +87,7 @@ FC. Recettes	2561
 FCA JOURNAL OFFICIEL DE LA REPUBLIQUE	15405
 FCA-authorized Electronic Money Institution Bancom Europe	11119
 FCA. Il	15542
+FCAF HT Virements	17833
 FCAPS	13185
 FCB Botswana	5261,2
 FCBB AD	16552
@@ -133,21 +146,24 @@ FCFA AE	15999
 FCFA ARTIGO	17100
 FCFA Agronomique	2342
 FCFA Alinéa	15999
-FCFA Article	16047
+FCFA Article	16047,1781
 FCFA Até	11574
 FCFA BEAC577	2889
 FCFA BT	10975
+FCFA Banking	17833
 FCFA Billions	1828
 FCFA Buit	15999
 FCFA Bureau	16047
 FCFA Bâtiment	16047
 FCFA CHAPITRE	16047
 FCFA CNI	6674
+FCFA COUT TOTAL Responsables Financement	17845
 FCFA Centre-ville	16425
 FCFA Charges	2476
 FCFA Code	16047
 FCFA Comme	1594
 FCFA Conforme	11574
+FCFA Crédit	17833
 FCFA DAAPLEU	2342
 FCFA Des Plans	3396
 FCFA Digital Budget	5458
@@ -159,6 +175,7 @@ FCFA ERGIES	2342
 FCFA Edition	16047
 FCFA En	15786
 FCFA Entreprises	16047
+FCFA FA	17833
 FCFA FCFA Titre	16047
 FCFA FIGUE	2342
 FCFA FINANCEMENT Excédent	16047
@@ -170,8 +187,32 @@ FCFA Frais	16047
 FCFA Franc	4459
 FCFA Free	10823
 FCFA GINEERING	2342
+FCFA GRATUIT	17833
 FCFA Gross Domestic Product Gross Enrollment	11905
-FCFA HT	10876,99
+FCFA HT	10876,99,6858
+FCFA HT Assistance	17833
+FCFA HT Attestation	17833
+FCFA HT Automatiques de Banque	17833
+FCFA HT Confection	17833
+FCFA HT Consultation	17833
+FCFA HT Distributeurs Automatiques de GRATUIT Billets	17833
+FCFA HT ET PARTICULIER	17833
+FCFA HT Expédition	17833
+FCFA HT FIXE	17833
+FCFA HT Frais	17833
+FCFA HT Mini	17833
+FCFA HT N	17833
+FCFA HT PAR AVIS DE PRELEVEMENT	17833
+FCFA HT PAR CHEQUE	17833
+FCFA HT PAR OPPOSITION Frais	17833
+FCFA HT POUR	17833
+FCFA HT POUR INSUFFISANCE	17833
+FCFA HT POUR SIGNATURE	17833
+FCFA HT Par	17833
+FCFA HT Réédition	17833
+FCFA HT SOCIETES	17833
+FCFA HT SUR LES AUTRES GUICHETS	17833
+FCFA HT. Date	17833
 FCFA III. FRAIS DE DELIVRANCE DES	16047
 FCFA IL	16047
 FCFA ITY HOLDINGS SA	2342
@@ -186,18 +227,28 @@ FCFA Mines SA	2342
 FCFA NATURE DES RECETTES ET DES	16047
 FCFA Nature	2476
 FCFA New Deal Technologique	2439
+FCFA OS	17845
+FCFA PAR PIECE	17833
 FCFA PARAGRAPHE	16047
 FCFA PARTAGEZ CET ARTICLE SUR	2439
 FCFA PERSEUS	2342
+FCFA POUR	17833
+FCFA POUR AUTRES	17833
+FCFA POUR TOUT Autres	17833
+FCFA POUR TOUT MONTANT SUPERIEUR	17833
 FCFA PRE	15999
 FCFA Paiement	2476
+FCFA Pourcentage Etat CT Privé PTF	17946
 FCFA Prise	2476
 FCFA Pétroliers de Côte	2342
 FCFA Quatre	15999
 FCFA Redevance	16047
+FCFA Responsables Financement	17845
 FCFA SA	2342
 FCFA SEUS COTE D’IVOIRE Limited	2342
 FCFA SODEMI	2342
+FCFA SUR LES AUTRES	17833
+FCFA SWIFT	17833
 FCFA Siège	15615,77,156,426,93,46,43
 FCFA Siége	15615
 FCFA Société	15786
@@ -206,8 +257,10 @@ FCFA Sous-rotal	16047
 FCFA Sous-total	16047
 FCFA Sécurité	16047
 FCFA TOCI	2342
-FCFA TTC	8577,2398,4998
+FCFA TTC	8577,2398,4998,1860
 FCFA TTC CTD Décision	10975
+FCFA TTC POUR LES Billets Hors	17833
+FCFA TTCPOUR LES RETRAITS INTERFILILALES Distributeurs	17833
 FCFA Tarif	10975
 FCFA Tite	16047
 FCFA Titre	16047
@@ -288,8 +341,8 @@ FCFA. ARTIGO	17100
 FCFA. Ainsi	2342,1054
 FCFA. Ambas	16906
 FCFA. Après	3396
-FCFA. Article	15431,24,592
-FCFA. Au	3396,2896
+FCFA. Article	15431,24,592,1778
+FCFA. Au	3396,2896,11564,16
 FCFA. Au Nigeria	2280
 FCFA. Au-delà	16381
 FCFA. Aussi	3396
@@ -306,6 +359,7 @@ FCFA. Ceux	15643
 FCFA. Chiffre	2342
 FCFA. Chose	3658
 FCFA. Comment	16518
+FCFA. Comparées	17872
 FCFA. Dans	2765,201,7909,5172
 FCFA. Depuis	8329
 FCFA. Derrière	10546
@@ -340,6 +394,7 @@ FCFA. Le Régulateur	10975
 FCFA. Lefaso.net	4124
 FCFA. Lire	10044
 FCFA. L’Etat	2342
+FCFA. L’alimentation	17978
 FCFA. L’analyse	2342,97
 FCFA. L’année	2342
 FCFA. L’argent	2476
@@ -383,6 +438,7 @@ FCFA. VI.1.1. Analyse Globale du Budget	15848
 FCFA.Selon	8518
 FCFA96.7bn	1584
 FCFAF	15999
+FCFAHT Détenteur	17833
 FCFAPublié	8673
 FCFAen	16328
 FCH Housing Unit Under	14835
@@ -406,6 +462,7 @@ FCPF and LFSP	17140
 FCPR. Art	15747
 FCPR. Elle	15747
 FCPR. Tout FCPR	15747
+FCR. Le BVG	18063
 FCS Fragile and Conflict-affected Situations FI Financial	1264
 FCSList-FY22.pdf	1264,14286
 FCT Correspondents Chapel	11704
@@ -416,12 +473,15 @@ FCT Nigeria. P.M.B	5903
 FCT Police Command	11704
 FCT The Federal Government	8350
 FCTA Permits Intervention	11857
+FCV Cette	17896
 FCV Data Platform	15620
 FCV FM GBV GDP GEMS GER	16436
-FCV Fragility	10829,4361,431,763
+FCV Fragility	10829,4361,431,763,1522
 FCV Fragilité	16626
+FCV and Insecurity	17906
 FCV-affected	11572,4418
-FCV-related	16436
+FCV-related	16436,1470
+FCV-specific	17962
 FCash	8732
 FCfa. Contrairement	2911
 FCfa. Dans	2817
@@ -464,6 +524,7 @@ Financial Consumer Protection Directive No. FCP-01-2020	12269
 Focus Area FCFA The Central Africa	969
 Food Consumption Scores The FCS	12978
 Forces Armées Centrafricaines FCR Financial Crime	15415
+Franc CFA FCFA	17962
 Francs CFA FC	15673
 Gambia Dutch Lions FC Expands Football	10070
 Gambia EA Enumeration Area FCS Food	17285
@@ -472,6 +533,8 @@ Google FCA	13461
 Google FCCPC	3538
 Government Development Index FCV Fragility	11545
 Group FCF	10793
+HC FC T Quo	17829
+Homme Conseiller Communal FC	17829
 Honourable Minister of FCT	11129
 Humanitarian Response UK FCDO	195
 IATI-reported FCDO	649
@@ -492,6 +555,7 @@ Kenya Bilateral Phase UK FCDO	1466
 Key Acronyms CODI FCS GDP GNA	16902
 LDCs AND FCV-AFFECTED AREAS	11572
 Lagos and FCT	6051
+Le FCFA	17833
 Le FCPR	15747
 M FCBB AD	16552
 M FCFA	1218,109,5569,989,8443
@@ -507,18 +571,23 @@ Making Technology Work for Malawi UK FCDO	262
 Master of Journalism and Media Technology. FCI	12926
 Mbps Mbps Mbps DIGITAL Internet FCV	16942
 Mds FCFA	3326,13002
-Milliards FCFA	419,1923
+Mds FCFA Capacité	18013
+Milliards FCFA	419,1923,15482
 Milliards FCFA Compensation	10975
 Milliards FCFA Répartition	419
 Milliards FCFA. Figure	10975
 Milliards de FCFA	419
+Milliers de FCFA	17845
+Milliers de FCFA S-SYSTEMES	17845
 Million de FCFA	7885
 Million de FCFA Million	15580
 Millions FCFA	419,1923
+Millions FCFA Pourcentage	18063
 Millions FCFA. PERSPECTIVES	2342
 Mme Valérie Lefebvre Education Programme FCDO	11916
 Mobile for Development Strategic Partnership UK FCDO	129
 Mogadishu City FC	3637
+Montant X FCFA	17833
 Mrds FC	4729
 Mrds FCFA Art	16328
 Mrds de FC	4729
@@ -527,12 +596,14 @@ N FCFA	15999
 N7I2N FCFA	4459
 Nigeria Police Force Headquarters and FCT Command	8662
 Nigerian Communications Act. The FCCPC	7469
+Nombre Actions FCFA	18003
 ONECI. The FCFA	1576
 October. But the FCC	8921
 Only FC	10940
 Oracle FCDB	3279,85
 Organization FBS Food Balance Sheet FCM	2775
 P.A C.E POG FCDA PHCN Plc	11129
+P1S FCFA	18032
 PRI Post-conflict FCS US	11310
 Part of FCDO	128
 Payments of FCFA	10963
@@ -543,6 +614,7 @@ President Tinubu Directs FCCPC To Investigate	11313
 Prevalence of Poor and Borderline FCS Map	17285
 Prevalence of Poor and Borderline FCS Subnational	17285
 Programme UK FCDO	2162
+RAPPORT FCR AU 31102025.pdf	18063
 Remarks NIL FCBB AD	16552
 Representing the UK FCDO	10053
 Risk Management EU European Union FCIM	6946
@@ -554,6 +626,7 @@ Setembro FC Tengueth	11587,5447,291,87
 Social FCT	4302
 Social Management Plan EUR Euros FC	11863
 Somalia UK FCDO	650
+Sous-total GOUVERNANCE ET LEADERSHIP de FCFA	17845
 Southern Africa The FCDO	9697
 Standards EU European Union FCS Fragile	11549
 State Governments and FCTA	11857
@@ -585,3 +658,4 @@ W FCBB AD	16552
 WCD FCS	11310
 Weah FCI Green Advocates Mr. Edward	16857
 World Bank’s FCV Strategy	16876
+X FCFA	17833

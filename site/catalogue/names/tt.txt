@@ -20,10 +20,12 @@ Encaissement TTC	16714
 English and Kiswahili TT Ministry	12138
 Ensino Secundário Província TT	10766
 Ensino Secundário TT	10766
-F CFA TTC	3044,145,5132
+F CFA TTC	3044,145,5132,9711
 F CFA TTC.Le	7670
-FCFA TTC	8577,2398,4998
+FCFA TTC	8577,2398,4998,1860
 FCFA TTC CTD Décision	10975
+FCFA TTC POUR LES Billets Hors	17833
+FCFA TTCPOUR LES RETRAITS INTERFILILALES Distributeurs	17833
 I Tte Agreement	15399
 ILF Drawdown Default TTC	12364
 ILF Reversal Default TTC	12364
@@ -105,6 +107,7 @@ TTRE VII	13781
 TTRE VIII	13781
 TTT Principio	16898
 TTTFP	12918,24
+TTU and UNESCO. State of Broadband Report	17870
 TTaabbllee11	11152
 TTeelleeccoommmmuunniiccaattiioonnss	736
 TTeolewceor	4896

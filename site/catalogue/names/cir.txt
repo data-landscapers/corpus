@@ -33,6 +33,7 @@ CFI-CIRAS. The CFI CIRAS	15553
 CFO Eulogio Oyó Riqueza CFO Ciriaco	4209
 CIR-2026	6488,586,2162,999
 CIR-2026 Nairobi	10235
+CIR-PN	17982
 CIRAD	643,15638,78
 CIRAS	15390,163
 CIRAS CPF CR CSIRT CT	15553
@@ -50,6 +51,7 @@ CIRCONSTANCES IMPREVISIBLES	16747
 CIRCUIT BUSINESS SYSTEMS LIMITED Data Controller	7167
 CIRCUIT BUSINESS SYSTEMS LIMITED Data Processor	7167
 CIRCULAIRE MINISTERIELLE N	15963
+CIRCULAIRES	17859,41
 CIRCULAR IS IMPORTANT AND REQUIRES	4896
 CIRCULAR N	17111
 CIRCULAR N.º	10770
@@ -63,6 +65,7 @@ CIRCUNSTANCIAS NACIONALES Geografía	16875
 CIRCUTATION DES JOURNAUX EI DES	15397
 CIRCUTATION DES JOURNAUX ET DES	15397
 CIRDDOC	11866
+CIRDI	17898,165
 CIREF	14423
 CIREF CIREF Transport	14423
 CIREF CONCLUSION	14423
@@ -133,11 +136,12 @@ COMITE DE LA CIRCONSCRIPTION ADMINISTRATIVE	15456
 Cabinet Paper and Circular Number	12975
 Central Bank of Tunisia Circular No	9494
 Centre de Formation Informatique du CIRAS	15553
+Cf. Circulaire	18015
 Chef CIREF	14423
 Chef Circonscriptions Régionales	14423
 Chef de Circonscription	10847,4792
 Chef de Circonscription Administrative	15599
-Chefs de Circonscription	10847,36
+Chefs de Circonscription	10847,36,7016,104
 Cirad	16281
 Circle	6808,1407,1152,342,944,476
 Circle Credit Limited Data Controller INST-11606275DC9	7167
@@ -153,8 +157,8 @@ Circoncis	13300
 Circoncis Non	13300
 Circoncision	13300
 Circoncision Répartition	13300
-Circonscription	10847,1077,3715,88,285,1473
-Circonscriptions	15639,373
+Circonscription	10847,1077,3715,88,285,1473,376
+Circonscriptions	15639,373,1864,23,104,29
 Circonscriptions Régionales	14423
 Circonscriptions Scolaires COPIL	14472
 Circonstances	14861,1886
@@ -181,7 +185,7 @@ Circuito Elétrico	15772
 Circuitos	11430,89
 Circuits	9123,5319,2501
 Circulaire	557,628,253,9537,2477,1121,2912
-Circulaire N	10975
+Circulaire N	10975,6907
 Circulaire No	13313
 Circulaire Portant Instructions	10975
 Circulaire du Chef du Gouvernement	17461
@@ -202,7 +206,7 @@ Circular Economy Transition	789
 Circular Economy and Development of Green Products	11332
 Circular Energy	9869
 Circular Genome Viewer	9475
-Circular Letter	14835
+Circular Letter	14835,3135
 Circular Letter No	14761
 Circular No	8981,329,697,4828,62,576,1763
 Circular No.4	14830
@@ -225,7 +229,7 @@ Circulars No	17236
 Circulars Publication Topic	15065
 Circulated	1535
 Circulating Vaccine-Derived Poliovirus Digital Health Agency	4153
-Circulation	2775,6348,3859,526,24,1246,695,428,35,266,1033
+Circulation	2775,6348,3859,526,24,1246,695,428,35,266,1033,594,153,81
 Circulation CIBN Certified Information Systems Auditor	17235
 Circulation COMESA Common Market for Eastern and Southern	15023
 Circulation Clear	9123
@@ -264,6 +268,7 @@ Closed Circuit Television	12467
 Community Solutions Circle	13254
 Company Secretary. CIRCULAR TO ECONET WIRELESS	4896
 Continuous Security Monitoring CIRMR- CIRMR-CSM	10721
+Contrôle Circonscriptions	18032
 County Assemblies. Circular No. AG.3	14546
 Cyber CIRMR-RM	10721
 Cyber CIRMR-RM.S6 Management CIRMR-RM.S7 CIRMR-RM	10721
@@ -296,6 +301,7 @@ Estado da Circuncisão Masculina	10777
 Estate Administrators Full Circular	4896
 Europe.13 CIRTs	10764
 Facebook Developer Coders Circles. Google	13314
+Famille. des Circonscriptions	18003
 Federal Government Circular	8922,1235
 First Planning and Budgeting Call Circular	13418
 Forest Management Circulate for Public	16853
@@ -323,6 +329,7 @@ Incidence Response Plan CIRMR-IRP.S1	10721
 Incident Management Framework CIRMR-IRP.S2	10721
 Information Circular	6946,1644
 Information Circular No	9113
+Inspections de Circonscription	17885
 Integrated Mission Circuit	15621
 International Private Leased Circuit	16982
 International Private Leased Circuits	14723
@@ -336,6 +343,7 @@ LA CIRCULATION AÉRIENNE ATS RADIOCOMMUNICATION FACILITIES	16552,454
 LABORÉ PARQUET OU BOIS CIRÉ	13300
 LECOMMERCE LOCAL ET LA CIRCULATION	15999
 LISTE DES ABREVIATIONS AFAPDP ARTEC CIRT	14549
+LOLF Fort Circulaire	18015
 La Circulaire	10975
 Les Circulaires du Premier	16747
 Lettre Circulaire N	15935

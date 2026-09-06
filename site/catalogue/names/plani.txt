@@ -1,13 +1,22 @@
 AFOGO INEGE Jefa de Servicio de Planificación	16875
 Aménagement Agricole Planifiées	8303
 Association Marocaine de Planification Familiale	8891
+CE NTRE DE PLANIFICATION	17827
+CELLULE DE PLANIFICATION ET DE STATISTIQUE	17845
 CONTRACEPTION AVEC DES PRESTATAIRES DE PLANIFICATION	13300
+CPS Cellule de Planification	17882
+CPS-SICAEPIP Cellule de Planification	17978
 Cadre de Planification	15965
-Cellule de Planification	9553
+Cellule de Planification	9553,8274,3,12,3,37,63,33,31,23,45
+Cellules de Planification	17830,148,99
 Central Ministry New Planification Economique Secrétariat	1284
+Centre de Planification	17827
+Chef du Centre de Planification	17827
 Chef du Département Planification Suivi-Evaluation	10876
 Chefs Services de Planification du Développement Local	16646
 Ciencia Dirección General de Planificación	16864
+Communication Cellule de Planification	17978
+Comptabilité Planification	17982
 Conformité Planifier	14537
 Conseil National de Planification	15542
 Consejo Nacional de Planificación	1701,15192
@@ -31,12 +40,18 @@ Dirección General de Planificación	16864,56
 Dirección de Planificación	16864,56
 Director General de Planificación	17215
 Direcção de Planificação	12788
+Division Planificateur	17982
+Développement Durable Unité Planification	17978
 ERP Planification	7655
 EXPOSITION AUX MESSAGES SUR LA PLANIFICATION	13300
+Encaissements Planification	17982
 Encargada de Planificación	6841
 Encargada de Planificación Excelentísima	1855
 Escolástica Nsa AKIEME Jefa de Servicio de Planificación	16898
+Evaluations Planification	17982
+Evaluations de Planification	17982
 FINANZAS ECONOMIA Y PLANIFICACION CONTABILIDAD FINANCIERA	4209
+Femme Cellule de Planification	17978
 Fishing National Grant Planifiation	15500
 Formación Profesional Dirección General de Planificación	16920
 Gabinetes Regional de Planificação	11525
@@ -47,16 +62,27 @@ Information de Planification	13341
 Institut International de Planification	14472
 Institut Malgache des Techniques de Planification	7725
 Institut Malgache des Techniques de Planification INSTAT	14472
+Investissement Privé CPS-SJ Cellule de Planification	17978
+Justice CPS-SME Cellule de Planification	17978
 LA PLANIFICATION ET DE LA PROSPECTIVE	16381
+La Cellule de Planification	17978
 La Dirección General de Planificación	17321
+Le Centre de Planification	17827
+Le Chef du Centre de Document Planification Formation	17845
 Le Service Planification	10876,4802
+Les Cellules de Planification	17978
 Les Directions de Planification	15673
+MALI DIVISION PLANIFICATION ET STATISTIQUE Chef	17982
 MINISTERE DE LA PLANIFICATION ET	16001,98,76
 MINISTÈRE DE LA PLANIFICATION ET	16381
 MOYENNE. Planification	1679
+Mines SECTION RECETTES Chef de Section Planificateur	17982
+Mines SECTION RECETTES Planificateur	17982
 Ministerio de Planificación	16898,27
 Ministério da Planificação	2816
+Nutritionnelle CPS Cellule de Planification	18077
 Onguene Director General De Planificación	16920
+Orientation Cellule de Planification	17978
 PLANIFICA CIÓN Y DIVERSIFICACIÓN ECONÓMICA AYUNTAMIENTO	17101
 PLANIFICACIÓN Y DESARROLLO ECONÓMICO	4209
 PLANIFICACIÓN Y DESARROLLO ECONÓMICO Centro Directivo	4209
@@ -73,6 +99,7 @@ PRISE DE DÉCISION SUR LA PLANIFICATION	13300
 Pedro Esono Nse Director General de Planificación	16864
 PforR. VI.5. Planification	10876
 Phase Planification Déroulement Mise	14537
+Planific	17827
 Planificación	1701,154,2354,11269,1397,18,5,6,65,21,32,51,119,67,3,59,21
 Planificación Asistencia	16898
 Planificación Costo	16898
@@ -92,11 +119,23 @@ Planificación Tasas	16898
 Planificación Territorial Fernando EVUNA MBORO INDEFOR-AP	16875
 Planificación Volumen	16898
 Planificar	11381,1,67
-Planificateur	8269,6258
+Planificateur	8269,6258,3300,34,121
+Planificateur Administrateur	17827
+Planificateur Brevets	17827
+Planificateur Charges	17827
+Planificateur Chargés	17827
+Planificateur Ingénieur	17827
+Planificateur Ouverture Administrateur	17827
+Planificateur Professeur	17827
+Planificateur Relations Professeur	17827
+Planificateur Scie	17827
+Planificateur Section Promotion	17827
 Planificateur-aménageur	7670
+Planificateurs	17899
 Planificatin	14539
 Planificatio	15580
-Planification	311,245,658,465,1717,279,450,13,187,1033,1220,963,114,614,33,139,1603,668,53,10,72,27,2,88,1,84,137,1,718,138,1247,10,25,15,9,28,91,10,35,33,122,6,249,409,110,30,65,85,282,273,184,5,46,3,9,54,15,8,36,4,1,27,11,86,7,5,3,4,27,12,212,65,11,25,10,13,44,146,19,112,4,144,153,31,871
+Planification	311,245,658,465,1717,279,450,13,187,1033,1220,963,114,614,33,139,1603,668,53,10,72,27,2,88,1,84,137,1,718,138,1247,10,25,15,9,28,91,10,35,33,122,6,249,409,110,30,65,85,282,273,184,5,46,3,9,54,15,8,36,4,1,27,11,86,7,5,3,4,27,12,212,65,11,25,10,13,44,146,19,112,4,144,153,31,871,258,1,1,1,3,16,18,3,14,3,76,4,1,49,45
+Planification Analyse Traitement	17845
 Planification CSS Commission Supérieure	15580
 Planification DELM	15685
 Planification DGMEC	10874
@@ -110,9 +149,12 @@ Planification Economique Ministère des Finances	13341
 Planification Economique. Ce	13329
 Planification Familiale Annuaire	15475
 Planification Membres	10712
+Planification Statistique	17982
 Planification Stratégique	10712,4830
 Planification des Ressources	13306
-Planification du Développement	13390
+Planification du Déve-	18077
+Planification du Développement	13390,4437,151
+Planification du Développement DGCC	17842
 Planification du Secteur	15673
 Planification. Il	10712
 Planification. OECD	15493
@@ -129,8 +171,19 @@ Pool Centre. Planification	15670
 Principais Actividades Planificadas	2816
 Proyecto de Planificación	4209
 REA MEDIDAS DE POLÍTICA Planificação	15694
+Renseignements Travaux de Planification	17982
+SDR Cellule de Planification	17978
+SE Cellule de Planification	18077
+SECTION DE LA PLANIFICATION	17899
+SECTION RECETTES Chef de Section Planificateur	17982
+SEEUDE Cellule de Planification	18077
+SICAEPIP Cellule de Planification	18077
+SICAEPIP. la Cellule de Planifica- La CPS	18077
 SIDA DIRECTION GENERALE DE LA PLANIFICATION	13306
+SJ Cellule de Planification	18077
+SME Cellule de Planification	18077
 SRMNEA Planification	15711
+SS-DS-PF Cellule de Planification	17845,232
 Service Planification	15678
 Sistema Nacional de Planificación	4209,12684
 Sistema Nacional de Planificación Territorial	1701
@@ -138,11 +191,22 @@ Sistema Nacional de Planificación. El CONAP	16893
 Sistema Nacional de Planificación. Para	16893
 Sistema de Planificación	1701
 Société Civile. Le Conseil National de Planification	15542
+Statistique CPS-SATFPSI Cellule de Planification	18077
+Statistique Cellule de Planification	17978
+Statistique Chargé de Planificateur	17827
+Statistique Planificateur	17982
 Subsector de Planificación	4209
 Subsector de Planificación Educativa	4209
 Subsistema de Planificação	12789
 Systèmes de Planification des Ressources	14483
+Sécurité Intérieure Cellule de Planification	17978
+Technicien de Planification	17827
+Technicien des Travaux de Planification	17982
+Techniciens des Travaux de Planification Chargé	17899
+Techniciens des Travaux de Planification DIVISION	17899
+Travaux de Planification	17899,83
 UGP Planifier	16012
+Unité Planification	17830
 VI.5. Planification	10876
 VIII. PLANIFICATION ET SUIVI-ÉVALUATION	10876
 VIII. PLANIFICATION ET SUIVI-ÉVALUATION VIII.1 Objectifs	10876

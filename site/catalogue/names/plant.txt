@@ -1,5 +1,7 @@
 AGRICULTURAL AREA AND PLANTED AREA	17043
 ANPMA National Agency of Medicinal and Aromatic Plants	17458
+Administrateur D Planton	17982
+Administrateur Secrétaires Planton	17982
 African Plant Nutrition Institute Data Controller	7167
 African Plant Nutrition Institute Data Processor	7167
 Agence Nationale des Plantes Médicinales	17458
@@ -18,6 +20,7 @@ Canals Solar Power Plant	15578
 Cane Planters and Millers Arbitration and Control	14847
 Case Study of Hwange Power Plant Power	1154
 Cement Plant Project	16275
+Chauffeur Contractuel Planton Contractuel	17812
 Cocoa Planting	17274
 Condicionantes Especiais da Planta de Condicionantes	15380
 Conservation of Plant Genetic Resources	14818
@@ -79,6 +82,7 @@ MW Lower Maguduza Hydropower Plant	13123
 MW Mmadinare Solar Plant	12609
 MW Noor Chad Solar Plant	4934
 MW Solar PV Power Plants	13123
+MW Solar Photo-Voltaic Power Plant	18016
 MW Solar Power Plant	16468
 MW Tedzani Hydro Power Plant	13060
 MWp Danzi Solar Power Plant	10857
@@ -187,7 +191,15 @@ Planting Harvesting Weeding	17043
 Planting Hope	8919
 Planting Weeding Harvesting	17043
 Planting for Food and Jobs	789
+Planton	17812,87
+Planton Contractuel	17827
+Planton Services	17982
+Plantons	17982
+Plantons Chauffeurs Contractuel	17982
+Plantons Militaire	17899
+Plantons. Article	17899
 Plants	12062,2698,1239,1106,52,427
+Plants de Secrétaire	17833
 Power Plant Availability	14867
 Power Plant Launch	13624
 Property and Plant Equipment	1154

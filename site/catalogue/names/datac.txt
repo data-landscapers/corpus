@@ -23,13 +23,15 @@ DataCipation	10720,3027,67
 DataCipation Project	13747
 DataCite	13098
 DataCite's Global Access Fund	13098
-Datacenter	301,943,1155,115,94,334,399,55,10,561,173,202,60,1108,1060,1970,583,1735,16,497,1814,2332,51,76,224,23,115,539,1036
+Datacenter	301,943,1155,115,94,334,399,55,10,561,173,202,60,1108,1060,1970,583,1735,16,497,1814,2332,51,76,224,23,115,539,1036,242,59,125,86
 Datacenter Des	10858
 Datacenter National	15624
 Datacenter Network Specialist	3834
+Datacenter Référentiels	17882
 Datacenter SOP	9123
 Datacenter Taux	10858
 Datacenter Technicians	6832
+Datacenter Tier	17860
 Datacenter Tier III	8540
 Datacenter Tiers	3967,22
 Datacenter Tiers IV	15738
@@ -41,6 +43,7 @@ Datacenter de Yaoundé	16006
 Datacenter du Gabon	6570
 Datacenter. Data	9123
 Datacenter. Pour	10858
+Datacenter. S’agissant du Transit IP	17823
 DatacenterDynamics	1146,3602,1402
 DatacenterDynamics and Ecofin Agency	778
 Datacenters	1244,1331,343,8,263,1153,403,3499,232,573,74,5441,916,240
@@ -77,7 +80,7 @@ Kasi Cloud Datacenters Flags Off West	6376
 Kasi Cloud Datacenters Lagos State Affirms	6376
 Kasi Cloud Datacenters The Kasi Lekki	6376
 L'environnement des Datacenters	1244
-Le Datacenter	6570
+Le Datacenter	6570,11253
 Le Datacenter de ST Digital	2399
 Les Datacenters	1244,1757
 Link Datacenter	3859

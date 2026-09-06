@@ -2,9 +2,11 @@ A.D.F. Struct. Adjust	15758
 A1 Adjuvants	15409
 A3 Cónsul B3 Cónsul General Adjunto	4209
 ADEPT LOSS ADJUSTERS LIMITED Data Processor	7167
+ADJ DCSSA	17841
 ADJACENT POSSIBLE FINANCE LIMITED Data Controller	7167
 ADJAMIRA NDAIDILA LUÍS DE SOUSA	10751
 ADJIBI Claude Edgard Octobre	10876
+ADJOINT DU SPORT MILITAIRE Vu	17899
 ADJOURNMENT QUESTIONS	14753
 ADJOURNMENT The Minister of Home Affairs and Internal	13387
 ADJUDANT CHEF OU MAITRE PRINCIPAL	15524
@@ -19,6 +21,7 @@ ANNOUNCEMENT ADJOURNMENT THE CABINET	14841
 ASUNTOS GRAL ADJUNTA GRAL. ASUNTOS G	4209
 Abilé Gédéon ADJIBOYE	17584
 Adj Chn Selectivity	736
+Adj. D’adm. C	17812
 Adj. R-squared	236
 Adja Ewe	1679
 Adja Satu Camará Pinto	11544
@@ -40,6 +43,7 @@ Adjaha	16362
 Adjal	15886
 Adjamé	9620,1310
 Adjany Garel Bonnet	15901
+Adjara DIABATE Suivant	17899
 Adjarra	6251,11333
 Adjatou Béré TRAORE	1744
 Adjavon Friggens	6252
@@ -48,7 +52,7 @@ Adje Evrard	15615
 Adjebe	4209
 Adjei	2816,2533,3853
 Adjelon	4209
-Adji Ali Salatou	3467,522,50,1335,5577
+Adji Ali Salatou	3467,522,50,1335,5577,6989
 Adji Bousso Dieng	5074,1859
 Adji Bousso Dieng. Situated	5074
 Adji-Yann Pavel	15692
@@ -60,14 +64,28 @@ Adjogou	3361
 Adjogou. Contactées	3361
 Adjohoun	10876,6708
 Adjoining Land Uses	17114
-Adjoint	5221,904,4699,3601,1006,153,86,167,338
+Adjoint	5221,904,4699,3601,1006,153,86,167,338,1652,29,5,34,87
+Adjoint C	17812
+Adjoint Secrétaire	17812
+Adjoint des Encaissements Total Services	17982
+Adjoint des Finances	17982
+Adjoint des Impôts	17982
+Adjoint des Services	17982
+Adjoint du Trésor	17982
+Adjoint du Trésor Contrôleur des Finances	17982
 Adjoint. Il	16099
 Adjoint. Ingingo	15102
 Adjoint. Le Directeur Général	14432
+Adjointe	17841
+Adjoints	17829,13
+Adjoints Techniques	17844
+Adjoints du Trésor	17899
 Adjoumani Kouakou	6591
 Adjournment	3714
+Adjratou DIABATA	17899
+Adjt.Secrét	17812
 Adjuba Rajabu Doe	13542
-Adjudant	16117,58
+Adjudant	16117,58,1653
 Adjudant BOUROBOU Walter	16099
 Adjudant EKWA NDOUMOU Wilfride	16381
 Adjudant GANIYOU ETOUGHE NJIFAKOUO Abdel. Agent	16381
@@ -88,15 +106,24 @@ Adjudant-Chef Major MOMITSERA Olivier	16175
 Adjudant-Chef Major MVOUDJA OSSIBADJOUO Sédric	16381
 Adjudant-Chef Major NDOUMOU Augustin Yannick	16381
 Adjudant-Chef Major OPENDA SIMBOUE Alphonse Willy	16175
+Adjudant-Chef Mamadou Tiécoura NIARE Mle	17828
 Adjudant-Chef NGAYILA DOUSSIN Georges Loic	16381
 Adjudant-Chef NKELE Pierre	16381
 Adjudant-Chef-Major ENI-ELLA Ghislain	16175
 Adjudant-Chef-Major KONDJA Arnaud Modeste	16175
 Adjudant-Chef-Major OKALA Lucien	16099
-Adjudant-chef	16099
+Adjudant-chef	16099,1883
+Adjudant-chef Aliou KONE Mle	17828
+Adjudant-chef Amidou KONE	17982
+Adjudant-chef Broulaye SAMAKE Mle	17828
 Adjudant-chef DUCASSE	15455
 Adjudant-chef Major KOMBILA	16175
 Adjudant-chef Major Yannick MAMBENDA-MOUPENDE	16099
+Adjudant-chef Mamadou DEMBELE Mle	17828
+Adjudant-chef Moussa MARE Mle	17828
+Adjudant-chef Moussa SOGOBA Mle	17828
+Adjudant-chef Seydou KONATE Mle	17828
+Adjudant-chef Thiécoro BENGALY	17982
 Adjudicar	15503
 Adjudicate	7989
 Adjudication	5533,220,10882,291
@@ -122,7 +149,7 @@ Adjunto B2 Cónsul General B2 Ministro	4209
 Adjunto Gobierno Delegado Gobierno Delegado Regional	4209
 Adjunto Letrado Mayor Director General Director	4209
 Adjust	12253,2911,1811,562
-Adjusted	3583,4542,1610,887,117,392,165,1071,46,1710,933,548,23,1369
+Adjusted	3583,4542,1610,887,117,392,165,1071,46,1710,933,548,23,1369,966
 Adjusted Appropriation	11218
 Adjusted Appropriation Bill	11289
 Adjusted Budget	750,540,494,1,2,7,3
@@ -165,8 +192,11 @@ Administradora Municipal Adjunta Todos	10751
 Administration Niger M. Adji Ali Salatou	17017
 Administrative Adjudication of Road Traffic Offences	7755
 AfCFTA Adjustment Fund	9153,1323
+Aguissa DICKO ADJ GNM KONE ADJ	17841
+Alassane Ag ASSAGUID ADJ	17841
 Alexia Lumière-Christina ADJOU-MOUMOUNI	5082,386,1747
 Alexia Lumière-Christina ADJOU-MOUMOUNI Date	9165
+Alfousseyni TRAORE ADJ	17841
 Ali Salatou Adji	2801
 Appointment Booking System BAC Bid Adjudication	11218
 Arellano Director Ejecutivo Adjunto PRODEGE D	16864
@@ -179,10 +209,16 @@ Assisting Labor Market Adjustments. World Bank	15663
 Attributions du Gouverneur Adjoint Le Gouverneur Adjoint	15102
 Augustine Gyawu Adjei	10117
 B2 Cónsul General Adj. B3 Primer	4209
+BAGAYOKO ADJ DGM	17841
 Babatoundé Aloa Adjassa	6977
 Basic Prices Prices Adjusted	2775
 Basile MABIKA. Directeur Adjoint	16175
+Bassidy BELLAH ADC AA BARRY ADJ	17841
+Batio KEITA ADJ AA TRAORE ADJ	17841
 Benin's Country Program Adjustment Responding	15515
+Birama DIARRA ADJ ONAC COULIBALY SCH	17841
+Boubacar DIALLO ADJ DCSSA SAMAKE ADC	17841
+Boubacar SANGARE ADJ EMPPR	17841
 Bénin Djabirou AMADOU Directeur Adjoint de Cabinet	10708
 CONSUL GENERAL ADJUNTO	4209
 CREDIBLE LOSS ADJUSTERS LTD Data Controller	7167
@@ -191,11 +227,14 @@ Cabinet du Secrétaire Général Adjoint Secrétaire de Cabinet	16381
 Celestin Adjalou Niamien	15447
 Central Adjudication	11986
 Central Database CMS Adjudication Print Job	13005
+Cercle de Tessalit ADJELHO C	17828
+Chargés des Adjoint des Services	17982
 Chartered Adjusters Kenya Limited Data Processor	7167
 Chef Adjoint	16250
 Chef de Département Adjoint	16381
 Chef du Département Adjoint du Protocole	16175
 Clase Pueblo Adjunto	4209
+Colonel-major Guédiouma DEMBELE Directeur Général Adjoint	17841
 Comissário Nacional Adjunto	17129
 Commissioner for Refugees VAS Visa Adjudication System	5533
 Committee for Adjudicating Applications	9417
@@ -204,6 +243,7 @@ Consejo de Poblado de Adjab Bata	4209
 Conservador Adjunto	10751
 Consideration of Tariff Adj	16851
 Consul General Adjunto	4209
+Contenu Adjoints	17982
 Coordenador Geral Coordenadora Geral Adjunta José	10757
 Coordinador Adjunto	16864
 Cost Adjustments	2515
@@ -216,6 +256,7 @@ Cónsul General Adjunto B1 Cónsul General	4209
 Cónsul General Adjunto B3 Primer Secretario	4209
 D.G. ADJUNTO DE IMPUESTOS Y CONTRIB	4209
 D.P. Adjunto	4209
+DACKOUO Directeur Général Adjoint ANTIM	17882
 DEFENSOR ADJUNTO PRIMERO	4209
 DEFENSOR ADJUNTO SEGUNDO	4209
 DELEGADO DE GOBIERNO ADJUNTO	4209
@@ -226,12 +267,14 @@ DIRECTOR GENERAL ADJUNTO	4209
 DIRECTOR GENERAL ADJUNTO MINISTER	4209
 DNT Fund Adjudication Committee. Mainstream Publishers	13462
 DU DIRECTEUR GENERAL ADJOINT	15488
+Daouda TOGO Adjoint	18032
 Data Adjustment and Redistribution	12151
 Date of Adjustment	13185
 Delegado Adjunto Gobierno	4209
 Delegado Adjunto Gobierno Servicio	4209
 Delegado de Gobierno Adjunto	4209
-Directeur Adjoint	14432,1667,76,206
+Deuxième Adjoint	17991
+Directeur Adjoint	14432,1667,76,206,1706
 Directeur Adjoint des Actualités	16175
 Directeur Adjoint des Organismes	16175
 Directeur Adjoint des Programmes	16175
@@ -239,7 +282,7 @@ Directeur Adjoint des Stages Professionnels	16175
 Directeur Adjoint du Recrutement	16175
 Directeur Central Adjoint	16099,76
 Directeur Central Adjoint des Affaires Juridiques	16175
-Directeur Général Adjoint	10975,2753,1643,29,199,67,4,8,23,38,234,126,76,75,131,297,21,39
+Directeur Général Adjoint	10975,2753,1643,29,199,67,4,8,23,38,234,126,76,75,131,297,21,39,1106,51
 Directeur Général Adjoint DGAS Direction Générale	10876
 Directeur Général Adjoint DGD	10874
 Directeur Général Adjoint Emmanuel Signou	14587
@@ -256,7 +299,9 @@ Directeur Provincial Adjoint	16381
 Directeur Technique Adjoint	9277,6898
 Directeur Technique Adjoint du RGPH-4	9277
 Directeur de Cabinet Adjoint	16099,282
+Directeurs Adjoints	17861
 Directeurs Généraux Adjoints	10836,4525,274
+Direction Générale Adjoint Personnel Comptable DCDR	17873
 Director Adjunto Ministerio	4209
 Director Adjunto Oscar Ondo Ngomo	3179
 Director General Adjunto	4209,12756
@@ -275,7 +320,7 @@ Directora Geral Adjunta Adão Fernando	10757
 Directora-geral Adjunta	12815
 Directores Generales Adjuntos	16871
 Directores-Gerais Adjuntos	4218
-Directrice Générale Adjointe	15479
+Directrice Générale Adjointe	15479,2351
 Disability Adjusted Life Years	16896,26
 Dr. Adjal	15886
 Dr. Adjoba Françoise KADJA	15712
@@ -284,7 +329,10 @@ Dr. Mourad Adjal	15886,393
 EA. Adjustments	12403
 EAGLE ADJUSTERS LIMITED Data Controller INST-3640402B568	7167
 EBITDAaL. Adjusted	8125
+EN CHEF ADJOINT A L’INSPECTION DES	17841
+ET ADJOINT RM	17861
 EU’s Carbon Border Adjustment Mechanism	11149
+Economie ADJOINT DE LA JUSTICE MILITAIRE	17861
 Edem Adjamagbo	3821,1233
 Embajador Adjunto	4209
 Emission Class Adj Chn Selectivity	736
@@ -295,6 +343,7 @@ Estado Director General Adjunto Ministerio Delegado	4209
 Estado Director General Adjunto Ministerio Director	4209
 Estado Mayor Adjunto Administrador Palacio de Congresos	4209
 European Union's Carbon Border Adjustment Mechanism	10718
+F CFA Trésorière Adjointe	17817
 FISCAL ADJUNTO DE ANTIDROGAS	4209
 FISCAL ADJUNTO DE INVESTIGACIONES ADVAS	4209
 FISCAL ADJUNTO DE LA CORTE SUPREMA	4209
@@ -306,6 +355,7 @@ FISCAL ADJUNTO DEL TRIBUNAL DE CUENTAS	4209
 FISCAL GENERAL ADJUNTO DE LA REPUBLICA	4209
 FISCAL GENERAL ADJUNTO SEGUNDO	4209
 FISCALES ADJUNTOS DE LA AUDIENCIA PROVINCIAL	4209
+Fadjigui DOUMBIA ADJ EMPPR	17841
 Faixa Adjacente	15380
 Fidel SEPA MEBULO Director General Adjunto	16898
 Fiscal Adjunto	4209
@@ -319,7 +369,10 @@ Foire Adjafi	17551
 Foire Adjafi Actuellement	17551
 Foreign Exchange Rate Fluctuation Adjustments	12256
 Forex Adj	12256
+Fousseyni KEITA ADJ EMGA	17841
 Francisca Adjei	5359
+Fédération Adjoint	17841
+GENERAL ADJOINT DE LA GENDARMERIE NATIONALE	17861
 GOUVERNEMENT ADJOINT	16099
 General Adj. B1 Cónsul General Adj	4209
 General Adjunto C. Nac. UNESCO Jefe	4209
@@ -329,6 +382,7 @@ Gobierno Adjunto Delegado Provincial Delegado Distrital	4209
 Gouverneur Adjoint	15102
 Gouverneur Adjoint Le Gouverneur	15102
 Gov’t Adjusts GST Rate	17258
+Général Adjo	17827
 Général Adjoint	16175
 Hon. Kenneth Gilbert Adjei	17260
 Hon. Kenneth Gilbert Adjei of Ghana	17260
@@ -373,10 +427,16 @@ M. Alain PAMBOU. Directeur Adjoint	16175
 M. Ali Salatou Adji	2801
 M. Aristide Guy Adjinacou	4957
 M. Hans FOUNGUES. Directeur Adjoint	16175
+M. Mandjou Adjudant-chef	17982
 M. Michel TSAMBA Secrétaire Général Adjoint	16381
+M. Ousmane DOUMBIA ADJ DCSSA KONARE	17841
+M. Sidi Lamine TANGARA ADJ DGM	17841
 MEYA Macaire CEFA Dolisie Adjoint	16012
 MOUIRI. Directeur Général Adjoint	16175
 Madame Fatou GUEYE DIENG Adjoint	10237
+Madou TOGO ADJ	17841
+Mahamadou MARA ADJ DSSA	17841
+Maman DIAWARA Directeur Technique Adjoint	17899
 Mamie Adjoua de Yamoussoukro	5381
 Mar Adjacente	15388
 Mar Adjacente da Ilha	15388
@@ -390,18 +450,25 @@ Ministra Adjunta	15404
 Ministre Adji	3967
 Ministre Adji Ali Salatou	14315
 Ministro Adjunto	15532
+Mle PRENOMS NOMS GRADES DIARRA Adjudant-chef	17982
+Modibo NIAMBELE ADJ AA TANGARA ADJ	17841
+Mohamed Abdou ZIDOU ADJ	17841
 Monitoring and Adjustment	15120
 Monsieur Agblulu Latevi Massi LAWSON Adjoint	10237
 Monsieur Aristide ADJINACOU	15781
 Monsieur Aristide ADJINACOU GNAHOUI	5206,10967
+Monsieur Boureïma TRAORE Directeur Général Adjoint	17841
 Monsieur Comlan Christian ADJAKAS	17584
 Monsieur Koffi ADJOUMANI	16323
 Monsieur Kuassi Ayikue SATCHIVI Adjoint	10237
 Monsieur Macaire ADJAGBA	16297
 Monsieur Mamoudou Adjassa ABIOLA	17584
 Monsieur Olushegun ADJADI BAKARI	15605
+Monsieur Sidy DIALLO Directeur Général Adjoint	17841
 Monsieur le Secrétaire Général Adjoint du Gouvernement	13737
 Mourad Adjal	15897,382
+Moussa DOUMBIA ADJ	17841
+Moussa KEITA CNE DCA DAGNIOKO ADJ	17841
 Municipal Adjustment Program	16614
 Municipal Adjustment Programs	16614
 Médico Forense Portavoz Adjunto Grupo Parlamentario	4209
@@ -411,6 +478,7 @@ Narrowing Adjusted EBITDA Loss	9735
 National Drama and Film Festivals Adjudicators Forum	6946
 Nestor René Ahoyo Adjovi	16359
 Non-Response Adjustment	11136
+Nouhoum MAIGA ADJ AA KONATE ADJ	17841
 O Ministro Adjunto	15532
 OGNELET Clodia CEMIR Directeur Pays Adjoint	16012
 ONANGA NDIAYE Inspecteur Général des Services Adjoint	16381
@@ -422,6 +490,7 @@ Os Directores-Gerais Adjuntos	4218
 Overpayment Adjustment Voucher	14533
 PAYE Tax Bracket Adjustment	14985
 PDG Edem Adjamagbo	5054
+PORTANT NOMINATION DU DIRECTEUR ADJOINT	17899
 Parlamento Secretario General Adjunto	4209
 Parties' Fund VAS Visa Adjudication System	11986
 Paul Adjei	9202
@@ -433,6 +502,7 @@ Post-Supply Adjustments	12630
 Posts Adjustment Budget	11251
 Pour Guy Aristide Adjinacou	5768
 Pour Me Pacôme Adjourouvi	11067
+Premier Adjoint	17991
 Presidencial Delegado Adjunto Gobierno Delegado Provincial	4209
 Price Adjustment Formula	13185
 Prices Adjusted	2775
@@ -441,6 +511,7 @@ Procuradora-Geral Adjunta de Humanos	10750
 Profit Adjusted	11134
 Project Adjustments	17099
 Pueblo Adjunto	4209
+Rapporteur Adjoint	17861
 Registration and Vital Statistics DALYs Disability Adjusted	16896,26
 Regulatory Cost Adjustment	14997
 Representante Permanente Adjunto	4209
@@ -449,6 +520,10 @@ Republic of Namibia HALE Health Adjusted Life	12923
 Results Framework Adjustments	4653
 Risk Adjusted New Generation Capacity	11228
 Risk Adjusted New Generation Capacity Risk-adjusted	11228
+S1 DEMBELE ADJ EMGA	17841
+S1 DIALLO ADJ EMGA	17841
+S5 BERTHE ADJ EMGA	17841
+S5 COULIBALY ADJ EMGA	17841
 SECRETARIO GENERAL ADJTO DEL CONS. SUPER	4209
 SECRETARIO GENERAL ADJTO. SENADO	4209
 SECRETARIO GENERAL ADJUNTO CAM	4209
@@ -457,6 +532,7 @@ SES ADJOINTS SECTION	15348
 SES ADJOiNTS ARTICLE	15348
 SIGLES ET ABRÉVIATIONS AD Adjoint	15961
 SUD-EST Cotonou- Bohicon Via Adjohoun	15399
+Sallouma MAIGA ADJ DTTA COULIBALY SCH	17841
 Seasonally Adjusted	13930
 Seasonally Adjusted Frequency	13930
 Secretaria Adjunta de Antidrogas	4209
@@ -485,8 +561,10 @@ Selon Aristide Adjinacou Gnahoui	2403
 Selon Dr Kodjo Ndukuma Adjayi	4671
 Serge ADJOVI	10816
 Serge Adjovi	10816
+Seydou TOURE ADJ	17841
 Shegun Adjadi Bakary des Affaires	4162
 Silva Directoras-Gerais Adjuntas Equipa Técnica Ezequiel	11421
+Souleymane TRAORE ADJ	17841
 South Sudan. Adjusted HEPS	10793
 Spread Adjustment Rate	16219
 Statistique Coordonnateur National Adjoint Joseph Guy	15599

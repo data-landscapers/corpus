@@ -10,12 +10,16 @@ DESIGNATION ETAT FIGA FONEA ACPE FNH	16047
 ERS and FNB	13195
 Elèves FNE-PHOTO	15639
 Environmental and Social Review Summary FNE Environmental	10964
+Environnement FMI Fonds Monétaire International FNE	17907
 Epidemiologia de Campo FNUAP Fundo	11376
 Este FND	1701
 FIRR FNPV	11863
 FM Financial Management FNDS National Sustainable	2473
 FMI Fonds Monétaire International FNDS Fonds	15479
 FN UAP	16898
+FNACT	18077
+FNACT du Budget National DIN	17978
+FNAED	17899
 FNAFPP. Divers	2966
 FNAPHB	13442
 FNB ATM	6996
@@ -30,7 +34,10 @@ FNB and Standard Bank	7639
 FNB and Standard Bank's South African	6996
 FNB's Meshack Ndwandwe	2285,9,26,249,245,725,1420,15,4,352,360,114,242,17,15,24,145,11,245,323,24,7
 FND. Será	1701
+FND.STAT	17842
 FNDL FNDL	16994
+FNDSTAT	17842
+FNDSTAT Act.2.1.1.2	17842
 FNE-PHOTO	15639
 FNI Fundo Nacional de Investigação	12786
 FNI-SAMP	414
@@ -40,12 +47,13 @@ FNIA26	7245
 FNIPR	8278
 FNPV Financial Net Present Value ForWE	15983
 FNRB Comptes	2476
+FNRH Fonds National des Revenus des Hydrocarbures. GED	18015
 FNRxv1BX8TkumQZZsI065nG0IcykAXAk2sb3Qu8RY	14673
 FNS Application Information Portal	12227
 FNS Foreign National Services	12227
 FNS-RS	15942
 FNSSA	11288
-FNUAP	1679,22,9076,52,603,1893,117,2282,241,933,114
+FNUAP	1679,22,9076,52,603,1893,117,2282,241,933,114,833
 FNUAP Fonds des Nations Unies	15724
 FNUAP France	15724
 FNUAP. En	16898
@@ -61,6 +69,7 @@ Fonds Monétaire International FNUAP	15848
 Investissements Stratégiques FNEE Fonds National	16037
 Le FNDL	16707
 Matemática FNUAP	11387
+Mauritania’s FNRH	17893
 Mouvement FNL	13329
 O FNI	414
 Online FNB First National Bank FY	12663

@@ -1,5 +1,6 @@
 ABORDABLES Le Gouvernement	16037
 ACTIFS DE LA PROPRIETE INTELLECTUELLE GOUVERNANCE	15999
+ACTIVITÉS OPÉRATIONNELLES Le Gouvernement du Mali	17848
 ANNUAIRE DES SITES WEB GOUVERNEMENTAUX Ministère	3675
 API. Le Gouvernement	15493
 AU DERNIER KILOMETRE Le Gouvernement	15801,236
@@ -8,16 +9,17 @@ AVANT-PROPOS Le Gouvernement	15580
 Accord de Prêt Concessionnel Gouvcruentental	15399
 Accord de Prêt Concessionnel Gouvernemcntal	15399
 Accélérer la Gouvernance Institutionnelle	15908
-Action Gouvernementale	8237,7146,378,212
+Action Gouvernementale	8237,7146,378,212,1940
 Action Gouvernementale du Secrétariat Général	10712
 Action National de Gouvernement Ouvert	15712
-Action du Gouvernement	8237,2618,1,20,4028,575,104,139,79,561
+Action du Gouvernement	8237,2618,1,20,4028,575,104,139,79,561,1531
 Actions du Gouvernement	7812,2900,4863,8,435,309
 Actions du Gouvernement PAP Projet Annuel de Performance	10712
 Actions du Gouvernement PARIS21 Partnership	15479
 Activité Gouvernementales	17468
 Activités Million de FCFA Gouvernement PTF	15580
 Administration Projet de Gouvernance Digitale	14423,1,1
+Administration. Le Gouverneur	17816
 Adresse Avenue Gal. Gouv. PONTY	15918
 Agence Rwandaise de Gouvernance	15936
 Agences Gouvernementales Partenaires	15478
@@ -26,9 +28,14 @@ Agronews Le Gouvernement	16668
 Ahmat Goukouni Mourali	8388
 Algérie. Le Gouverneur	15594
 Ali AOUN Pour le Gouvernement du Royaume Hachémite	15732
+Améliorer la Gouvernance	17983
+Ancien Colonel Assimi GOITA Gouverneur	17861
+Ancien Gouver-	17812
 Ancienne Directrice du Gouvernement Numérique	17448
+Armée Assimi GOITA Gouvernement	18032
 Arrêté du Gouvernement	14423
 Assemblée Nationale. Gouvernement	15474
+Assister le Gouvernement	17876
 Attributions du Gouverneur	15102
 Attributions du Gouverneur Adjoint Le Gouverneur Adjoint	15102
 Au Gouvernement	16620
@@ -38,10 +45,12 @@ Avenue du Gouvernement B.P	13467
 B ORGANISATION NON GOUVERNEMENTALE	13300
 BANQUE CENTRALE DU CONGO LE GOUVERNEUR	15903
 BCEAO. Le Gouverneur	15834,3
+BOU GOULA	17828
 Bangui. Le Gouvernement	15474
+Banque le Gouvernement	17820
 Bernard GOUMOU	16641
 Blanchiment des Capitaux du Gabon. Gouvernement Gabonais	15500
-Bonne Gouvernance	643,7693,281,2364,2309,10,246,295,1558,204,109,8,216,437
+Bonne Gouvernance	643,7693,281,2364,2309,10,246,295,1558,204,109,8,216,437,1526
 Bonne Gouvernance Financière	6260
 Bonne Gouvernance Haute Autorité	15712
 Bonne Gouvernance S-RESINA	15720
@@ -62,6 +71,7 @@ CENTRE DE SANTÉ GOUVERNEMEN	13300
 CENTRE DE SANTÉ GOUVERNEMENT	13300
 CFC Gouvernement	15542
 CHEF DE GOUVERNEMENT	14414
+CHEF DE Gouvernement	18003
 CHEF DU GOUVERNEMENT	10981,2853,584,26,14,25,55,828,7,5,21,17,2,13,5,2,3,84,63,492
 CHEF DU GOUVERNEMENT Arrête	15439
 CHEF DU GOUVERNEMENT LE PRESIDENT	13923
@@ -71,12 +81,17 @@ CI.IEF DU GOUVERNEMENT	15489
 COMPOSANTS DU DISPOSITIF NATIONAL DE GOUVERNANCE	4403
 CONTEXTE GENERAL Le Gouvernement du Burundi	13341
 CONTREPARTIE GOUVER BDI PEAPPJF	13630
+COORD Gouvernance	17845
 COUR CONSTITUTIONNELLE CHEF DU GOUVERNEMENT Décision	15439
 Cabinet du Chef du Gouvernement	17448
 Camarade Yacouba Zabré Gouba	16536
+Caractère Personnel. Le Commissaire du Gouvernement	17831
 Carrières Yacouba Zabré Gouba	16562
 Celine Gouveia	10635
 Cellule Group Expert En Gouvernance	11034
+Cercle de Goundam	17819
+Cercle de Gourma-Rharous BAMBARA MAOUDE	17828
+Cercle de Kolondiéba BOU GOULA	17828
 Chargés de Missions du Vice-Président du Gouvernement	16099
 Chef de Gouvernement	10897,5719,4
 Chef de Gouvernement Chargé	17463
@@ -84,7 +99,7 @@ Chef de Gouvernement Vice-président	16616
 Chef du Gou	16381
 Chef du Gouver	16381
 Chef du Gouverne	16381
-Chef du Gouvernement	17,531,1200,947,43,307,62,66,125,559,545,198,1145,2492,654,252,144,55,295,1,927,248,82,1,2,5,1,1,9,67,599,2306,22,504,2,2,2,13,13,14,1,4,20,17,38,72,23,271,442,1,26,3,2,5,14,2,1,5,4,9,10,1,2,5,5,20,28,18,18,17,19,27,6,8,1,5,16,44,5,5,3,20,2,19,5,9,21,21,123,72,28,19,60,19,19,38,19,7,49,27,13,2,26,23,40,19,108,30,4,13,84,17,3,11,34,2,13,13,5,750,3,12,9
+Chef du Gouvernement	17,531,1200,947,43,307,62,66,125,559,545,198,1145,2492,654,252,144,55,295,1,927,248,82,1,2,5,1,1,9,67,599,2306,22,504,2,2,2,13,13,14,1,4,20,17,38,72,23,271,442,1,26,3,2,5,14,2,1,5,4,9,10,1,2,5,5,20,28,18,18,17,19,27,6,8,1,5,16,44,5,5,3,20,2,19,5,9,21,21,123,72,28,19,60,19,19,38,19,7,49,27,13,2,26,23,40,19,108,30,4,13,84,17,3,11,34,2,13,13,5,750,3,12,9,587
 Chef du Gouvernement Alain-Claude BILIE-BY-NZE Le Ministre	1231,14366
 Chef du Gouvernement Anatole Collinet MAKOSSO	15722
 Chef du Gouvernement Brice Clotaire OLIGUI NGUEMA	11580,4198,242,251,2
@@ -110,8 +125,10 @@ Cheffe du Gouvernement Page	16365
 Chief Innovation Officer Gabrie Gouws	1590
 Chiffres du Gouvernement	15493
 Circulaire du Chef du Gouvernement	17461
+Clinique Gouvernement	17819
+Colonel Tidiani DIARRA. Gouverneur	17861
 Comité de Gouvernance	14483
-Commissaire du Gouvernement	16381
+Commissaire du Gouvernement	16381,1558,86,35
 Commissions. Le Gouvernement	15703
 Commissoire du Gouvernement Un	15429
 Communication Gouvernemental COMGOV	13341
@@ -119,8 +136,10 @@ Communication Gouvernementale	13331,2381,224,37
 Communication ONG Organisation Non Gouvernementale ORM	11944
 Comoriens. Le Gouvernement	13735
 Conccssionrrel Gouleinemcntal	15399
+Confiance Numérique Compétences Numériques Gouvernance	17860
 Congo. Le Gouvernement	3191,12494
 Congolais. Gouvernance	15783
+Conseil de Gouvernance	18087
 Conseil du Gouvernement	747,1,13664
 Conseiller du Commissaire du Gouvernement	16381
 Consulaires Affaires Consulaires GOUVERNANCE ET CONTRÔLE	15936
@@ -133,6 +152,7 @@ D.STRUCTURE ET GOUVENANCE Parmi	13390
 DCSS Sous-lieutenant GOUABA	15744
 DE GOUVERNANCE DES DONNEES Art	4403
 DE LA DECENTRALISATION Gouverneur	8237
+DE LA DOTATION INITIALE ET Gouvernement	17820
 DE LA GOUVERNANCE	15624
 DE LA GOUVERNANCE DES ENTREPRISES PUBLIQUES	2342
 DE MOBILITE DURABLE GOUVERNANCE ET GESTION	15999
@@ -142,8 +162,10 @@ DES DATACENTERS DE L'UNITE DE GOUVERNANCE	14564
 DES LOISIRS GOUVERNANCE ET GESTION DES	15999
 DES MEMBRES DU GOUVERNEMENT Arllcle	15397
 DIRECTION ET COORDINATION DE L'ACTION GOUVERNEMENTALE	15999
+DOUBAGOU GOU	17828
+DOUGA BOU GOU	17828
 DU CADRE DE LA GOUVERNANCE	15643
-DU GOUVERNEMENT	13300
+DU GOUVERNEMENT	13300,4522
 DU GOUVERNEMENT Article	15703
 DU GOUVERNEMENT ET DU CONSEIL DES	15676
 DU GOUVERNEMENT LOI L	16612
@@ -158,7 +180,10 @@ De Gouvernement	13324
 Diabo Gourma Est	15715
 Diapangou Gourma Est	15715
 Digital Economy Minister Justin Gourna Zacko	5461
+Directeur de Cabinet du Gouver-	17978
 Directeur de Cabinet du Secrétaire Général du Gouvernement	15973
+Do- Le Gouvernorat de Sikas-	18077
+Docteur Gouvernement	17829
 Documentation Gouvernance Dans	9406
 Domaines Axes Gouvernance Vision Données	15583
 Don Remboursable du Gouvernement	235
@@ -166,6 +191,7 @@ Du Gouvernement	4567
 Du Gouvernement Article	15603
 Décentralisation En Conseil de Gouvernement	14414
 Décision du Gouverneur	11522
+Déclaration de Politique Générale du Gouvernement	17901
 Décret du Gouvernement	14423
 Délégué du Gouvernement	8388
 Départements de Goudiry	8269
@@ -175,6 +201,12 @@ E Gouvernement	15472
 E du Gouv	15399
 EDOU GOU TUY HOU ET NAH	10847
 EMPRUNTS PROJÉ GOUVERNEMEN ES AU CLUB	15999
+ENTRE LE Abdoulaye DIOP GOUVERNEMENT	17828
+ENTRE LE GOUVERNEMENT	17817,16,28
+ENTRE LE GOUVERNEMENT DE LA REPUBLIQUE	17828,6,7
+ENTRE LE GOUVERNEMENT DE ORDONNANCE N	17820
+ENTRE LE GOUVERNEMENT Le Président	17861
+ENTRE LE GOUVERNEMENT Résilience	17828
 ERES ENvERs LE GouVERNEMENT	14479
 ET A L'ASSAIN LIQUIDE GOUVERNANCE ET	15999
 ET LA GOUVERANCE DES DONNEES	15624
@@ -188,6 +220,9 @@ EUROS Gouvernement PTF Total A2O3R1.2 Elaboration	15580
 EUROS Gouvernement PTF Total A3O1R1	15580
 EUROS Gouvernement PTF Total A3O2R1	15580
 Eau du Gourma	3396
+Economie Numérique Gouvernement	17824
+Economie Numérique Introduction Le Gouvernement du Mali	17824
+Economie Numérique La Gouvernance	17824
 Edouard Normand BIGENDAKO Gouverneur	13468
 Efficacité du Gouvernement	4325
 Efforts du Gouvernement	16620
@@ -214,6 +249,7 @@ Frontières Secretariat Général du Gouvernement Conditions	10821
 G2B Gouvernement	15474
 G2C Gouvernement	15474
 G2P Gouvernement	15474
+GADOU GOU2	17828
 GENIE Le Gouvernement	17442
 GHEF DU GOUVERNEMENT	15383,17
 GIN-1016 Le Gouvernement Guinéen	16662
@@ -222,6 +258,15 @@ GNAGNA GOURMA KOMANDJARI KOMPIENGA TAPOA BF	10847
 GNAGNA Public GOURMA Privé	10847
 GNAGNA Total Total GOURMA KOMONDJARI	10847
 GOM Gouvernement	7655
+GOUADJI KAO	17828
+GOUADJIE SOUGOUNA	17828
+GOUAN	17828
+GOUAN DIAK	17828
+GOUEND	17828
+GOUMERA	17828
+GOUNDAM	17828
+GOUNFAN	17828
+GOUNZO UREYE	17828
 GOURMA	10847
 GOURMA Filles	10847
 GOURMA Garçons	10847
@@ -230,9 +275,10 @@ GOURMA KOMONDJARI	10847
 GOURMA TX Prom	10847
 GOUT OU CANIVEAU	13300
 GOUVERNANC	15999
-GOUVERNANCE	2342,2225,5399,6033,715
+GOUVERNANCE	2342,2225,5399,6033,715,1269
 GOUVERNANCE Coopération	2342
 GOUVERNANCE DE L'ETAT CIVIL	16529
+GOUVERNANCE DE L'INTELLIGENCE ARTIFICIELLE Convoqué	18070
 GOUVERNANCE DES DONNEES SANITAIRES AU SENEGAL	7804
 GOUVERNANCE DES DONNÉES	15624
 GOUVERNANCE ET	15999
@@ -247,6 +293,9 @@ GOUVERNANCE ET GESTION DES Assurer	15999
 GOUVERNANCE ET GESTION DES FONCTIONS SUPPORT	15999
 GOUVERNANCE ET GESTION DES FONCTIONS SUPPORTS	15999
 GOUVERNANCE ET L APPUI INSTITUTIONNEL	15999
+GOUVERNANCE ET LEADERSHIP AXE	17845
+GOUVERNANCE ET LEADERSHIP Axe	17845
+GOUVERNANCE ET PILOTAGE DU PS-DGI2025-2029	17901
 GOUVERNANCE ET SUIVI Déterminés	15938
 GOUVERNANCE ET SUIVI-ÉVALUATION DU SYSTÈME D	14483
 GOUVERNANCE ET SUIVI-ÉVALUATION DU SYSTÈME D'E-	14483
@@ -255,9 +304,11 @@ GOUVERNANCE FONCIÈRE	16225
 GOUVERNANCE Modulation	2342
 GOUVERNANCE OPÉRATIONS EN CAPITAL SIGNATURE DES	2342
 GOUVERNANCE Opérations	2342
+GOUVERNANCE PS1	17983
 GOUVERNANCE Présentation	2342
 GOUVERNANCE Suivi	2342
 GOUVERNAŒÈË.ËÎ Amehor er	15999
+GOUVERNE- VAUX DE REALISATION	17817
 GOUVERNEM NON AFFILIES AU CLUB	15999
 GOUVERNEMENT	13300,1229,9,835
 GOUVERNEMENT ADJOINT	16099
@@ -268,21 +319,27 @@ GOUVERNEMENT OUVERT LOCAL Engagement	15712
 GOUVERNEMENT OUVERT LOCAL Numéro	15712
 GOUVERNEMENT WWW. JORADP. DZ Abonnement	15394,16
 GOUVERNEMENT WWW.JORADP.DZ Abonnement	15690,57,20,166,152,86,59,33,59,22
+GOUVERNEURS DE REGION	17861
 Garantie Gouvernement	14479
 Gaz. Le Gouvernement	16037
 GdG Gouvernement	16626
 Good Financial Gouvernance	6260
 Gou T	9739
+Gouina	17894
 Gould	16996
 Goule Koudji. Abel Maina	5671
 Goulmou	5723,2598,2543
 Goumou	10864
+Goun-	18077
 Goundar	7278
+Goundo DIAWARA	17861
 Goundoul Vikama	7866,358
 Gounghin	10875
 Gounguen Kourittenga Centre-Est	15715
 Gounou DADA DEOL	16485
 Gounwolaila	16921,318
+Gouraye	17969
+Gourbassi	17894,97
 Gourcy	10875,6
 Gourgel Barodit	15780
 Gourley G	1219
@@ -290,10 +347,13 @@ Gourma	3044,5277,2526,28,5151
 Gourma Bindé	10875
 Gourma Est	15715
 Goursi Zondoma Nord	15715
+Gouré TOGO Association des Ressortissants de TOROLI	18032
 Gouthami Padam	11136
+Gouv Projets Projets Projets Mise	17824
 Gouv'Talk	6662,24,24
 Gouv'Talk. Cette	6645
 Gouv-Lab	6228
+Gouv. Mali	17824
 GouvActu	4125,13
 GouvID	10714
 GouvNum	5506,3102,236
@@ -306,19 +366,23 @@ Gouve	15999
 Gouvemement	15397,2
 Gouvemement de La République du Bénin	15399
 Gouver	13325
-Gouver-	13341,64,2153,134,347,61,77
+Gouver-	13341,64,2153,134,347,61,77,1900
 Gouver- Article	16100
 Gouver- Sécurité	16100
 Gouver- Vu	16100
 Gouver- Vu la Constitution	15901
-Gouvernance	643,105,333,137,29,191,904,107,290,12,61,74,46,137,312,15,47,161,35,19,24,136,250,125,374,77,206,230,143,482,547,23,145,311,8,104,59,220,152,59,12,156,169,100,35,81,451,108,273,90,479,55,64,849,124,2,138,123,49,21,114,10,38,2,38,51,10,49,498,197,280,44,235,1012,11,5,35,101,41,17,25,203,4,58,51,100,243,61,75,30,88,1,11,89,83,1,800,35,14,2,14,5,3,4,1,7,4,27,3,41,11,9,20,1,11,31,46,8,18,110,85,3,63,38,131,7,20,127,28,69,7,56,9,130,16,85,25,694,7,1,135,179
+Gouvernance	643,105,333,137,29,191,904,107,290,12,61,74,46,137,312,15,47,161,35,19,24,136,250,125,374,77,206,230,143,482,547,23,145,311,8,104,59,220,152,59,12,156,169,100,35,81,451,108,273,90,479,55,64,849,124,2,138,123,49,21,114,10,38,2,38,51,10,49,498,197,280,44,235,1012,11,5,35,101,41,17,25,203,4,58,51,100,243,61,75,30,88,1,11,89,83,1,800,35,14,2,14,5,3,4,1,7,4,27,3,41,11,9,20,1,11,31,46,8,18,110,85,3,63,38,131,7,20,127,28,69,7,56,9,130,16,85,25,694,7,1,135,179,60,13,6,1,1,1,12,3,4,3,12,3,64,26,11,32
+Gouvernance Administrative	18030
+Gouvernance Article	17857
+Gouvernance Assurer	17824
 Gouvernance Ce Domaine	15500
 Gouvernance Cet	15712
 Gouvernance Digitale	15701
 Gouvernance Digitalisation Qualité des Données SIS	14622
 Gouvernance Electronique	13290,3336
 Gouvernance Engagement	15712
-Gouvernance Financière	3715,627,1472,19,7938,25
+Gouvernance Faible	17983
+Gouvernance Financière	3715,627,1472,19,7938,25,4219
 Gouvernance Financiére des Sociétés	16637
 Gouvernance Gouvernance	15685
 Gouvernance Intégrée des Services Publics	13841
@@ -326,6 +390,7 @@ Gouvernance Locale	15431,124,294,637,160,77
 Gouvernance Locale Barnabé Z. DJIGLI	15431
 Gouvernance Locale Le PAGL2	16723
 Gouvernance Locale MDN Ministère	15479
+Gouvernance MALI	17882
 Gouvernance Nationale des Comm	4020
 Gouvernance Nationale des Communications Electronique	4020
 Gouvernance Numérique	2006
@@ -334,10 +399,15 @@ Gouvernance Ouverte Locale	15712
 Gouvernance Ouverte10	1984
 Gouvernance Ouverte4	748
 Gouvernance Ouverte5	747
+Gouvernance Pilier Nature	17983
+Gouvernance Piste	17983
+Gouvernance Responsable	17864
 Gouvernance Risques	16395
 Gouvernance SPACIA	15936
+Gouvernance de France IX	17823
 Gouvernance des Données	15624
 Gouvernance du Recouvrement	10024
+Gouvernance du SI	17882
 Gouvernance du SSN	16620
 Gouvernance. Ces	15493
 Gouvernance. La Direction des Affaires Juridiques	2342
@@ -359,7 +429,7 @@ Gouvernemeni	15397,32
 Gouvernemenis	15397
 Gouvernemenl	10813,4584,32
 Gouvernemenpour	15603
-Gouvernement	17,20,398,1,112,8,181,10,1,17,20,401,45,56,11,300,239,131,16,358,28,7,65,34,38,141,40,4,39,70,143,9,85,144,1,1,137,13,15,40,279,94,30,37,131,101,24,70,7,104,68,22,20,19,18,461,55,53,168,213,378,66,93,138,22,247,10,17,42,206,86,10,142,32,4,41,55,193,64,47,13,57,13,28,96,198,2,46,67,60,48,25,10,27,25,210,8,32,9,32,67,51,168,21,8,33,16,3,42,7,49,1,1,14,128,8,5,11,110,1,130,38,9,83,4,10,7,1,30,17,64,76,20,10,107,18,1,30,168,54,314,177,97,14,8,24,7,12,22,50,96,1,101,8,2,2,30,3,11,6,1,34,3,52,10,6,109,3,46,12,429,17,79,48,25,183,12,14,24,27,34,1239,8,2,8,1,28,5,7,19,30,15,28,9,3,31,49,27,13,103,4,5,32,6,8,14,14,2,28,5,3,9,11,16,2,16,9,25,5,4,22,15,1,4,12,1,301,1,1,23,14,34,97,2,4,7,6,1,12,6,2,6,5,6,10,2,2,12,34,5,3,1,10,25,25,19,2,3,22,18,34,166,1,41,198,244,1,10,3,1,1,4,2,3,2,2,1,2,5,11,1,2,2,1,5,1,3,1,2,4,2,2,3,3,1,1,1,2,1,4,2,1,2,3,10,1,1,9,1,1,7,4,1,9,1,4,4,3,1,23,1,4,1,7,5,1,8,7,2,9,6,5,2,1,1,1,1,2,3,3,5,3,1,2,2,1,4,3,8,15,1,4,6,1,10,8,2,1,2,5,3,4,1,4,2,8,1,2,7,2,8,2,1,4,2,3,7,5,3,10,4,5,1,1,10,2,1,2,3,13,2,47,6,9,10,28,29,3,3,6,1,11,7,4,28,6,2,17,2,3,14,2,8,5,13,15,5,8,6,1,8,4,4,1,12,1,20,9,6,4,2,2,2,2,18,8,27,5,14,1,7,6,8,2,1,10,3,8,15,12,1,4,8,9,7,14,2,3,8,3,1,8,6,17,1,5,1,1,4,1,1,2,26,1,13,4,2,3,7,6,10,3,2,17,8,4,1,9,15,2,15,28,7,3,1,2,2,1,4,1,1,3,7,3,1,1,4,4,2,9,8,4,7,3,2,2,13,7,4,2,18,1,8,6,692,10,44,43,49,83,4,92
+Gouvernement	17,20,398,1,112,8,181,10,1,17,20,401,45,56,11,300,239,131,16,358,28,7,65,34,38,141,40,4,39,70,143,9,85,144,1,1,137,13,15,40,279,94,30,37,131,101,24,70,7,104,68,22,20,19,18,461,55,53,168,213,378,66,93,138,22,247,10,17,42,206,86,10,142,32,4,41,55,193,64,47,13,57,13,28,96,198,2,46,67,60,48,25,10,27,25,210,8,32,9,32,67,51,168,21,8,33,16,3,42,7,49,1,1,14,128,8,5,11,110,1,130,38,9,83,4,10,7,1,30,17,64,76,20,10,107,18,1,30,168,54,314,177,97,14,8,24,7,12,22,50,96,1,101,8,2,2,30,3,11,6,1,34,3,52,10,6,109,3,46,12,429,17,79,48,25,183,12,14,24,27,34,1239,8,2,8,1,28,5,7,19,30,15,28,9,3,31,49,27,13,103,4,5,32,6,8,14,14,2,28,5,3,9,11,16,2,16,9,25,5,4,22,15,1,4,12,1,301,1,1,23,14,34,97,2,4,7,6,1,12,6,2,6,5,6,10,2,2,12,34,5,3,1,10,25,25,19,2,3,22,18,34,166,1,41,198,244,1,10,3,1,1,4,2,3,2,2,1,2,5,11,1,2,2,1,5,1,3,1,2,4,2,2,3,3,1,1,1,2,1,4,2,1,2,3,10,1,1,9,1,1,7,4,1,9,1,4,4,3,1,23,1,4,1,7,5,1,8,7,2,9,6,5,2,1,1,1,1,2,3,3,5,3,1,2,2,1,4,3,8,15,1,4,6,1,10,8,2,1,2,5,3,4,1,4,2,8,1,2,7,2,8,2,1,4,2,3,7,5,3,10,4,5,1,1,10,2,1,2,3,13,2,47,6,9,10,28,29,3,3,6,1,11,7,4,28,6,2,17,2,3,14,2,8,5,13,15,5,8,6,1,8,4,4,1,12,1,20,9,6,4,2,2,2,2,18,8,27,5,14,1,7,6,8,2,1,10,3,8,15,12,1,4,8,9,7,14,2,3,8,3,1,8,6,17,1,5,1,1,4,1,1,2,26,1,13,4,2,3,7,6,10,3,2,17,8,4,1,9,15,2,15,28,7,3,1,2,2,1,4,1,1,3,7,3,1,1,4,4,2,9,8,4,7,3,2,2,13,7,4,2,18,1,8,6,692,10,44,43,49,83,4,92,49,4,1,2,1,1,1,2,3,1,1,1,1,1,1,1,2,2,3,1,1,2,10,4,1,1,5,6,1,1,5,2,5,2,6,1,4,8,11,11,13,4,1,2,33,1,8,10,2,27,2,15,15,1,6,1,10,9
 Gouvernement A1O1R2	15580
 Gouvernement A1O2R1	15580
 Gouvernement A1O2R2	15580
@@ -374,6 +444,7 @@ Gouvernement A3O3R3.2	15580
 Gouvernement ACTEURS	10965
 Gouvernement Accueil Bilan	4895
 Gouvernement Activités	13341
+Gouvernement Article	17841
 Gouvernement Burundais	13290
 Gouvernement CASP BEAC A1O1R2	15580
 Gouvernement CONAKRY-	11724
@@ -382,6 +453,7 @@ Gouvernement Camerounais	10524,441
 Gouvernement Centrafricain. Nous	1684
 Gouvernement Conformément	10975
 Gouvernement Conseil	6959
+Gouvernement Economique des Etats	17828
 Gouvernement Explorez	9482
 Gouvernement G2P	10711
 Gouvernement GBM Groupe	15493
@@ -393,30 +465,36 @@ Gouvernement ISMAÏL OMAR GUELLEH	13829,597,6
 Gouvernement IX. CADRE LOGIQUE	13341
 Gouvernement Il	13341
 Gouvernement Indien	15357
+Gouvernement Infrastructure	17824
 Gouvernement Ivoirien	15936
 Gouvernement MAKOSSO	15685
 Gouvernement Malagasy	14412,11,127
+Gouvernement Mauritanien	17823,71
 Gouvernement Nombre	15580
 Gouvernement OSC Autres	15712
 Gouvernement OSC Autres Avril	15712
 Gouvernement OSC Autres Ministère	15712
 Gouvernement OSC Autres Présidence Primature Ministère	15712
 Gouvernement OSC Autres Responsable	15712
-Gouvernement Ouvert	1218,6945,33,1714,5665,137,652
+Gouvernement Ouvert	1218,6945,33,1714,5665,137,652,1515
 Gouvernement Ouvert Local	15712
 Gouvernement Ouvert Local Cet	15712
 Gouvernement Ouvert Local Union des Villes	15712
 Gouvernement Ouvert du Benin	11794
 Gouvernement Ouvert. Présent	8196
 Gouvernement SNDP SDAN SDI SN	15512
+Gouvernement Services de Consultants SQC Avril-26 Mai-	17963
 Gouvernement Société	15712
+Gouvernement Sous-indice ONU	17824
 Gouvernement Suminwa	16335
 Gouvernement Suminwa II	16108
+Gouvernement Survey	17824
 Gouvernement Tableau VI	13341
 Gouvernement Tableau VI.30 Calendrier	13341
 Gouvernement Titre	16047
 Gouvernement Tous	15712
 Gouvernement URL	15665,103
+Gouvernement Vu le Décret N	17817
 Gouvernement de BIZIMANA	13405
 Gouvernement de Côte	4895,569,10282
 Gouvernement de Djibouti	11661
@@ -440,7 +518,9 @@ Gouvernement du Congo	15580
 Gouvernement du Gabon	15500
 Gouvernement du Japon	8577,244,74,61
 Gouvernement du Japon. Prenant	8577
-Gouvernement du Mali	8577
+Gouvernement du Mali	8577,9268,9,34,90,5,26,65,12
+Gouvernement du Mali URL	17854
+Gouvernement du Mali. Par	17842
 Gouvernement du Maroc	17441,30
 Gouvernement du Niger	14243
 Gouvernement du Royaume Hachémite de Jordanie	15732
@@ -456,26 +536,30 @@ Gouvernement. Ainsi	4383,9059
 Gouvernement. Article	1231,7959,6205,10,7,191,100,83
 Gouvernement. Artlcle	15429
 Gouvernement. Aucun	13709
+Gouvernement. Bien	17894
 Gouvernement. C'est	2695,5372
-Gouvernement. Ce	2738,10603,2371,10,894,876
+Gouvernement. Ce	2738,10603,2371,10,894,876,332
 Gouvernement. Ce Projet	7263
 Gouvernement. Ce-	13341
 Gouvernement. Cela	13341,2152
 Gouvernement. Celle-ci	15936
 Gouvernement. Celui-ci	15474
-Gouvernement. Ces	13341
+Gouvernement. Certains	17842
+Gouvernement. Ces	13341,4549
 Gouvernement. Cette	4341,1822,4713,2465,2371,387
 Gouvernement. Chacun	15474
 Gouvernement. Chapitre Iv	15362
 Gouvernement. Compte	15493
 Gouvernement. C’est	15685
 Gouvernement. Dans	10876,3672,71,855,19
-Gouvernement. Elle	436,14961,206
-Gouvernement. En	15474,19
+Gouvernement. E-Gouv	17824
+Gouvernement. Elle	436,14961,206,2466
+Gouvernement. En	15474,19,2570
 Gouvernement. En Conseil	15354,134
 Gouvernement. Enfin	15474
 Gouvernement. I. AUDITION DU GOUVERNEMENT	15671
 Gouvernement. Il	5374,7967,1110,1023,129
+Gouvernement. Initiative	17824
 Gouvernement. L'adoption	16117
 Gouvernement. L'approbation du Conseil des Ministres	15431
 Gouvernement. L'e-Gouvernement	13341
@@ -485,25 +569,30 @@ Gouvernement. Le Comité	15603
 Gouvernement. Le Gouvernement	15597,6
 Gouvernement. Le PSRE	15722
 Gouvernement. Le Président	15703
+Gouvernement. Les Etablissements	17812
 Gouvernement. Lo	15429
 Gouvernement. Lo Commission	10813
 Gouvernement. L’amélioration	15685
 Gouvernement. L’autorité	15780
 Gouvernement. L’e-gouvernance	13341
 Gouvernement. L’internet	13341
+Gouvernement. L’objectif	17894
 Gouvernement. L’objectif du Gouvernement	13341
 Gouvernement. L’édition	10975
 Gouvernement. MPT Long Elevée Développer	15474
 Gouvernement. Mes	16732
 Gouvernement. Official Gazette	15126
+Gouvernement. POLITIQUES	18063
 Gouvernement. Par	15768
 Gouvernement. Planification	15712
 Gouvernement. Pour	7660,7833
 Gouvernement. Pour M. Bourouno	11724
 Gouvernement. Pour Monsieur Hermann Orou TAKOU	15582
+Gouvernement. Principe	17828
 Gouvernement. S'agissant	2377
 Gouvernement. SGG	15474
 Gouvernement. SOUS-TITRE III	15405
+Gouvernement. STATUANT EN CONSEIL DES MINISTRES	17814
 Gouvernement. Se	15586
 Gouvernement. Sur	13341
 Gouvernement. Tel	15474
@@ -517,13 +606,15 @@ Gouvernement54	15493
 Gouvernemental	15399
 Gouvernemental Centralisé	4236,11809
 Gouvernemental Centralisé Dec	2611
-Gouvernementale	1461,11870,10
-Gouvernementales	13341,159,2212,929
+Gouvernementale	1461,11870,10,4504
+Gouvernementales	13341,159,2212,929,1186
+Gouvernementales. Domaines	17827
 Gouvernementaux	6827,6514,3300
 Gouvernementaux Le Ministère des Postes	16641
 Gouvernements	8237,1050,55,2563,1436,1083,1,972,13,302,55
 Gouvernements Locaux Unis	15936
 Gouvernements Ouverts Francophones	15712
+Gouvernements des Etats	17816
 Gouvernements du Mali	8956
 Gouvernements. Cette	15410
 Gouvernementôunoulremembredu Gouvernement	15397
@@ -532,7 +623,7 @@ Gouvernemment	15786
 Gouvernent	14479
 Gouverner	2342,4163,2776,1663,3568,2188
 Gouvernernent	13334,2366
-Gouverneur	3341,343,524,1532,303,2,1329,247,326,290,79,1251,101,824,344,686,422,1348,113,112,68,601,56,1,386,473,311,29,1,39,11,49,27,25,41,35,57,20,33,40,14,3,26,79,8,125,236,52,250,4,80,48,636,290
+Gouverneur	3341,343,524,1532,303,2,1329,247,326,290,79,1251,101,824,344,686,422,1348,113,112,68,601,56,1,386,473,311,29,1,39,11,49,27,25,41,35,57,20,33,40,14,3,26,79,8,125,236,52,250,4,80,48,636,290,145,41,1,3,38,92,82
 Gouverneur Adjoint	15102
 Gouverneur Adjoint Le Gouverneur	15102
 Gouverneur Brou	8316
@@ -549,25 +640,37 @@ Gouverneur de Bujumbura	13405
 Gouverneur de Buta-	13405
 Gouverneur de Province	13292
 Gouverneur de Tahoua	11694
+Gouverneur du District de Bamako	17982
 Gouverneur du FMI	16323
 Gouverneur. Art	15594
 Gouverneur. Celles	15594
+Gouverneur. Il	17816
+Gouverneur. Le Gouverneur	17816
 Gouverneure	16658
 Gouverneure de Conakry	16718
-Gouverneurs	6685,6767,329,1788,134
+Gouverneurs	6685,6767,329,1788,134,2158,122
 Gouverneurs de Province	15569
 Gouverneurs de Province. Article	13292
 Gouverneurs de Province. L’enregistrement	13442
+Gouverneurs de Région	17827
 Gouverneurs des Iles	1866
 Gouverneurs. Quant	13405
 Gouverneurs. Une	15703
 Gouvernment	15439,73,389
 Gouvernonce Locole	10813,4625
-Gouvernorat	5275,2953,2264,5178,993,3
+Gouvernorat	5275,2953,2264,5178,993,3,1312,99
+Gouvernorat de Kidal	17978
+Gouvernorat de Mopti	17978
+Gouvernorat de Ménaka	17978
+Gouvernorats	17946
 Gouvernum	9033
 Gouv’Space	15712
 Gouv’Talk	8131,7581
 Gouy-Sor	11686
+Governement Gouvernement Capital Humain Survey	17824
+Général de Brigade Daoud Aly MOHAMMEDINE Gouverneur	17861
+Général de Division Abdoulaye MAIGA du Gouvernement	18032
+Général de Division Daoud Aly MOHAMMEDINE Gouvernement	17899
 Général de Division Kéba SANGARE. Gouverneur	8237
 Général du Gouvernement	16640
 Habitation SGG Secrétariat Général du Gouvernement SHaSA	15580
@@ -599,6 +702,7 @@ IV.2.5 Gouvernance	13306
 IX. GOUVERNANCE ET MISE EN	15624
 Indice National de Gouvernance. La CAPEC	15712
 Information GSI Gouvernance	15472
+Information Gouvernementale du Mali URL	17944,130
 Information du Gouvernement	15820,8,139
 Information du Gouvernement du Burkina Faso	15793,27,122,155,20,170
 Instruction du Gouverneur	16446
@@ -607,6 +711,7 @@ Internet. Le Gouvernement	2695
 Interventions du Gouverneur	15834
 Intérim du Ministre Porte-parole du Gouvernement	5304
 Issa GOUO	8321
+JI Le Gouverneur	17857
 Jane Goudge	12025
 Justice Gouvernance	4895
 Justin GOURNA ZACKO	3368
@@ -626,11 +731,14 @@ L'ambition du Gouvernement	3668
 LA REPUBLIQUE SECRETARIAT GENERAL DU GOUVERNEMENT	16616
 LAME GOUTTE SUR LA LAME GOUTTE	13300
 LE DEVELOPPEMENT SECRETARIAT GENERAL DU GOUVERNEMENT	16637
+LE GOUVERNEMENT DE LA REPUBLIQUE	17829
 LE GOUVERNEMENT DÉFEND UN ENCADREMENT STRICT	5157
 LE GOUVERNEMENT MINISTÈRE DES FINANCES	7470
 LE GOUVERNEMENT MOBILISE PLUS	4895
 LE GOUVERNEMENT POURSUIT LE MAILLAGE	10934
 LE SECRETAIRE GENERAL DU GOUVERNEMENT	14458
+LEADERSHIP ET DE LA GOUVERNANCE OBJECTIF	17882
+LEADERSHIP ET DE LA GOUVERNANCE Responsable	17882
 LEADERSHIP ET GOUVERNANCE	16195
 LEADERSHIP ET GOUVERNANCE PREAMBULE Cet	16195
 LEADERSHIP ET GOUVERNANCE Tâches	16195
@@ -648,7 +756,7 @@ La Notaire le Gouvernement	15660
 Le Chef du Gouvernement	10565,3076,1706,1189
 Le Chef du Gouvernement du Burundi	13638
 Le Conseil du Gouvernement	17464
-Le Gouvernement	2370,325,2079,690,1495,1017,1,599,109,327,993,199,609,11,151,118,58,446,104,342,1249,49,64,28,9,34,79,12,110,58,717,25,2,50,10,1,2,22,43,750,30,8,4,6,50,10,9,1,4,14,7,42,27,6,5,2,2,19,40,28,14,1,17,9,20,67,2,153,45,2,19,17,75,38,44,56,176,30,19,10,15,105,15,6,55
+Le Gouvernement	2370,325,2079,690,1495,1017,1,599,109,327,993,199,609,11,151,118,58,446,104,342,1249,49,64,28,9,34,79,12,110,58,717,25,2,50,10,1,2,22,43,750,30,8,4,6,50,10,9,1,4,14,7,42,27,6,5,2,2,19,40,28,14,1,17,9,20,67,2,153,45,2,19,17,75,38,44,56,176,30,19,10,15,105,15,6,55,1142,1,18,37,15,169
 Le Gouvernement Gabonais	16037
 Le Gouvernement Malagasy	14424,1,77
 Le Gouvernement de Madagascar	9339,4948,1,210,80
@@ -658,9 +766,10 @@ Le Gouvernement du Burundi	13290,10,41,92,9,76,112
 Le Gouvernement du Burundi Gouvernement du Burundi	13433
 Le Gouvernement du Bénin	10876,4706
 Le Gouvernement du Congo	15580,219
-Le Gouvernement du Mali	8577
+Le Gouvernement du Mali	8577,9247,21,9,129
 Le Gouvernementa	16620
-Le Gouverneur	3024,644,16,524,594,2572,1281,1013,824,1030,172,105,1493,420,531,859,406,86,153,87,3,26,138
+Le Gouverneur	3024,644,16,524,594,2572,1281,1013,824,1030,172,105,1493,420,531,859,406,86,153,87,3,26,138,1815,41,1
+Le Gouverneur Article	17816
 Le Gouverneur INSTRUCTION N	11522,3986,127
 Le Gouverneur Jean	15834,3
 Le Gouverneur Mohammed Lamine LEBBOU Page	17385
@@ -669,14 +778,18 @@ Le Gouverneur Souleymane	9567,2127
 Le Gouverneur Yvon SANA BANGUI	10724
 Le Gouverneur de Province	13292
 Le Gouverneur de Tahoua	9567,2127
+Le Gouvernorat	18077
+Le Gouvernorat de Ménaka	17978
+Le Ministre Chargé du Secrétariat Général du Gouvernement	17913
 Le PROjet de Gouvernance DIgitale	14498,66
 Le Porte-parole du Gouvernement	7670,651
-Le Secrétaire Général du Gouvernement	9287,1618,692,3307,1395,63,123,1099
+Le Secrétaire Général du Gouvernement	9287,1618,692,3307,1395,63,123,1099,365,42,56
 Le Secrétariat Général du Gouvernement	3121
 Le Vice-Président du Gouvernement	15703,396
 Les Acteurs Gouvernementaux LES INSTITUTIONS	16641
 Les Acteurs Gouvernementaux Les Opérateurs Télécom	16641
 Les Ministères du Gouvernement	15551
+Lieutenant Gouvernement	18032
 Liptako Gourma	643
 Lobito Le Gouvernement	10204
 Légal Programme de Gouvernance Numérique du Secteur Public	16328
@@ -692,22 +805,27 @@ M. Mahdi Mahamoud Goudone	3795
 M. Raymond GOULA	9277
 M. Yvon JEUNEU Secrétariat Général du Gouvernement	15973
 MAGANGA. CABINET DU VICE-PRESIDENT DU GOUVERNEMENT	16381
+MALI GADOU GOU1	17828
 MATIÈRE DE GOUVERNANCE DES DONNÉES	15624
 MDA. Le Gouvernement	15474
+ME TOUMOU ONDOU GOU	17828
 MINESUP Gouvernance	15999
 MINFI GOUVERNANCE ET APPUI INSTITUTIONNEL	15999
 MINFOPRA GOUVERNANCE ET F	15999
 MNDPT SUR L'AUDIT DE LA GOUVERNANCE	14573
+MO UNTOU GOULA	17828
 MODES DE GESTION Gouvernance Pilotage	2342
 MOT DU GOUVERNEUR	13452
 Madagascar. L'Unité de Gouvernance Digitale	14623
 Madame Claudia Désirée Mahugnon GOUHOUEDE	17584
 Madame le Commissaire du Gouvernement	10821
+Mali. Le Gouvernement du Mali	17882
 Manager du Département Gouvernance	14425
 Matiakoali Gourma Est	15715
 Meilleure Gouvernance Environnementale URL	15997
 Membres du Gouvernement	10895,1,1,1,5,1,1,2938,3,572,1166,19,496,521,15,15
 Membres du Gouvernement. Article	13940
+Ministre Secrétaire Général du Gouvernement	17895
 Ministère Gouvernement	3675
 Ministère Gouvernement Accueil Ministère	3675
 Ministère Gouvernement Adresse	3675
@@ -719,19 +837,24 @@ Mme GOUAMBA	15848
 Mohamed Goura	15732
 Mohamed Sayah Goual	15933
 Monsieur Bio Jérémie GOUROUBERA Au	17584
+Monsieur Boubou Gouro DIALL	17829
 Monsieur le Gouverneur	11522,1945,2016
 Monsieur le Secrétaire Général Adjoint du Gouvernement	13737
 Mot du Gouverneur	5740,6204
 Moyennes Entreprises ONG Organisation Non Gouvernementale	10965
+Mr. Boubacar Gouro Diall	18016
 Mr. Gouled Ahmed Youssouf	16631
 Mr. Justin GOURNA ZAKO	4327
 NON GOUVERNEMENTALES DU CONSEIL CONSULTATIF DES	15405
+NON Gouvernance	17845
 NUMERIQUE EN GUINEE Gouvernance	16641
 NZS LE SECRETAIRE GENERAL DU GOUVERNEMENT	14483
 Nomination des Membres du Gouverne	16645
 Nomination des Membres du Gouvernement	16616,35
 Non Gouvernemental Organisation des Nations Unies Personnel	13290
+Non Gouvernementales ONM Office National	17873
 Notto Gouye Diama	8270
+Numérique Gouvernance	17824
 OMS Gouvernance	15724
 OUB RITEN GA GOUR M	10847
 Open Data Gouv	15936
@@ -744,18 +867,23 @@ Organisation Non Gouvernementale PAEEJ Programme	13341
 Organisation Non Gouvernementale PAM	15423,250,12
 Organisation Non Gouvernementale PASS	15475
 Organisation Non Gouvernementale PDSEB	10847
-Organisations Non Gouvernementales	15703,9
+Organisations Non Gouvernementales	15703,9,2102,68
 Organisations Non Gouvernementales PDSS	14442
 Organismes Non Gouvernementaux	14408,1085
 Ouesso-Pokola-Enyellé-Bétou- Gouga	15558
 Oui. Gouvernement	13390
+P-RM Gouvernement	17828
+PAIEMENT Le Gouverneur	17858
 PLAN D’ACTION NATIONAL DE GOUVERNEMENT OUVERT	15712
 PNDIS II. III.6 GOUVERNANCE En	13306
 POLITIQUE ET GOUVERNANCE	16195
 POLITIQUE ET GOUVERNANCE Le Camero	16195
+PORTANT NOMINATION DES MEMBRES DU GOUVERNEMENT	18032
+PORTANT NOMINATION DU GOUVERNEUR DE PORTANT	17899
 PORTE PAROLE DU GOUVERNEMENT CABINET	16381
 PORTE-PAROLE DU GOUVERNEMENT	16175
 PORTE-PAROLE DU GOUVERNEMENT COMPTE RENDU	15676
+PORTE-PAROLE DU GOUVERNEMENT Général de Division Abdoulaye	18032
 PREFACE Le Gouvernement	13890,1611
 PRODIGY Le PROjet de Gouvernance DIgitale	14480
 PRODUCTIONS HALIEUTIQUES L GOUVERNANCE ET	15999
@@ -765,6 +893,7 @@ PROJET DE GOUVERNANCE DIGITALE ET	14423,2
 PROJET DE GOUVERNANCE DIGITALE ET GESTION	14424
 PROjet de Gouvernance DIgitale	14488,1,1,8,51,15,14
 PROjet de Gouvernance Digitale	14502
+PTF GOUVERNANCE	17845
 Pacte Gouvernement du Burundi	13433
 Pacte. Le Gouvernement	16037
 Palais des Gouverneurs	6292
@@ -778,7 +907,7 @@ Politique de Gouvernance des Données	3064,12674
 Population Gouvernement Réglementation Résumé	14534
 Portail Officiel du Gouvernement de Côte	14689
 Porte-Parole du Gouvernement	16378
-Porte-parole du Gouvernement	2738,70,237,281,1076,1665,1266,1243,5332,1849,566
+Porte-parole du Gouvernement	2738,70,237,281,1076,1665,1266,1243,5332,1849,566,1518,20,171
 Porte-parole du Gouvernement Edgard Anicet MBOUMBOU MIYAKOU	548
 Porte-parole du Gouvernement Madeleine E. BERRE	15533
 Porte-parole du Gouvernement Rigobert IKAMBOUAYAT NDEKA	15464
@@ -803,6 +932,9 @@ Projet de Gouvernance	16583
 Projet de Gouvernance Digitale	14423,1,1,114,1,9,25,49
 Projet de Gouvernance Numérique du Secteur Public	5139,9029
 Préface du Gouvernement	14534
+Préfet Gouverneur Direction	18076
+Préfet du Cercle de Goundam	17991,12
+Préfet du Cercle de Gourma-Rharous	17991,12
 Prôt Gouvcrnemental Assorti de Conditions Préférentiellcs	15399
 Qualité Gouvernance Gouvernance Annexe	2966
 Qualité Gouvernance Primaire Accès	2966
@@ -811,7 +943,9 @@ Qualité Gouvernance Supérieur Accès	2966
 Qualité Gouvernance Technique Accès	2966
 R GOURMA	10847
 R3. Renforcer le Le Gouvernement	15493
+RECOMMANDATIONS GÉNÉRALES AU GOUVERNEMENT DU MALI	17830
 REFORME DE LA GOUVERNANCE TERRITORIALE	15722
+RELATIF A LA Gouvernement	18003
 RELATIVE AU CONTROLE INTERNE Le Gouverneur	16613
 RENFORCEMENT DE LA GOUVERNANCE ET	13306
 RENFORCEMENT DE LA GOUVERNANCE INCLUSIVE DES	15848
@@ -834,8 +968,14 @@ S-le ENTRE Le Gouvernement	15399
 S. Goundar	7278
 SAN- GOUANI	2342
 SECONDAIRES GOUVERNANCE ET APPUI INSTITUTIONNEL DANS	15999
-SECRETARIAT GENERAL DU GOUVERNEMENT	234,13584
+SECRETARIAT GENERAL DU GOUVERNE MENT	17829
+SECRETARIAT GENERAL DU GOUVERNEMENT	234,13584,3994,5,2,8,1,5,8,20,38,83,21,29
 SI L'ENDROIT CENTRE DE SANTÉ GOUVERNEMEN	13300
+SIAF SIAF Gouvernance	17845
+SIFEF SIFEF Gouvernance	17845
+SIREE SIREE Gouvernance	17845
+SIS SAE Gouvernance	17845
+SIS SIH Gouvernance	17845
 SMART GOUV	10856
 SNFI. Le Gouvernement du Cameroun	10965
 SOUMISSION AU DÉFI DU GOUVERNEMENT OUVERT	15712
@@ -843,20 +983,22 @@ SSN. Le Gouvernement	14452
 STRATEGIE NATIONALE DE LA GOUVERNANCE DES	15624
 STRATÉGIE NATIONALE DE LA GOUVERNANCE DES	15624
 STREATEGIE NATIONALE DE LA GOUVERNANCE DES	15624
+STRUCTURE DE GOUVERNANCE ALLOCATION BUDGETAIRE Mali	17824
 SUR LA LAME GOUTTE SUR	13300
 SYDONIAWorld. Le Gouvernement de Guinée	15478
-Santé Organisation Non Gouvernementale Organisations	14425
+Santé Organisation Non Gouvernementale Organisations	14425,3457
 Secretariat Général du Gouvernement	3396
 Secrtaire Gindral du Gouvernement	17441
 Secrétaire General du Gouvernement	16640
 Secrétaire Général Adjoint du Gouvernement	13737
 Secrétaire Général Adjoint du Gouvernement. Cette	13753
-Secrétaire Général du Gouvernement	8750,7349,1664
+Secrétaire Général du Gouvernement	8750,7349,1664,128
 Secrétaire Particulière du Vice-Président du Gouvernement	16099
 Secrétaires Exécutifs du Gouvernement	15353
 Secrétaires de Cabinet du Vice-Président du Gouvernement	16099
-Secrétariat Général du Gouvernement	233,2888,275,5354,1071,1776,2156,1721,39,40,78,81,45,179,387,58,125,135,807
+Secrétariat Général du Gouvernement	233,2888,275,5354,1071,1776,2156,1721,39,40,78,81,45,179,387,58,125,135,807,434
 Secrétariat Général du Gouvernement Dans	3121
+Secrétariat Général du Gouvernement SIC	17824
 Secrétariat Général du Gouvernement. Ce	8750
 Secrétariat Général du Gouvernment	13861
 Selon Héliodore Francis Alex Gouloubi	7424
@@ -867,15 +1009,24 @@ Si le Gouvernement	15469,134,100
 Sida Gouvernance	13300
 Smart Gouv	4077,4423,7075,17
 Sociales Organisation Non Gouvernementale Plan	14423
+Sous-total GOUVERNANCE ET	17845
+Sous-total GOUVERNANCE ET LEADERSHIP	17845
+Sous-total GOUVERNANCE ET LEADERSHIP de FCFA	17845
 Soutien du Gouvernement	14479
 Stade Al-Hadj Hassan Gouled	4402
 Stratégie Gouvernementale	16047
 Stratégie Nationale de Gouvernance des Données	15624,1107
+Structure de Gouvernance	17867
 Structure du Gouvernement	16635,2,8,6
 Suivi des Actions Gouvernementales	2951
+Suivi du CREDD Le Gouvernement	17842
 Super App IA Gouvernementale	5478
 Suzanne GOUMBOU	16175
 Sé Edouard Normand BIGENDAKO Gouverneur Rapport	13452
+Sécrétariat Général du Gouvernement-D.J.O.D	17827,1,1,4,8,20,38,83,21,29
+Sécrétariat Général du Gouvernement-D.J.O.D.I.J	17817,2
+Sécrétariat Général du Gouvernement-DPD	17812
+Sénégal ONG Organisation Non Gouvernementale ONM	17907
 TABLE DE MATIÈRES REVUE DU GOUVERNEMENT	17448
 TAT D’AVANCEMENT PRATIQUES DE GOUVERNANCE	2342
 TIC2. Le Gouvernement	13290
@@ -884,12 +1035,16 @@ TYPE D'ENDROIT. GOUVERNEMENT	13300
 Tibga Gourma Est	15715
 Toma and Gourcy	10881
 Transport Minister Fatima Goukouni Weddeye	3565
+Travail Gouvernemental	17882
+Tunisie Goulelhom.org C’est	17879
 Type URL URL URL Gouvernance	748
 Types Gouvernance	14424
 UNE INTEGRATION REGIONALE ACCRUE Le Gouvernement	16037
 UNE MODERNISATION PROGRESSIVE DE LA GOUVERNANCE	16396
 UNITE DE GOUVERNANCE DIGITALE	14488,1,1
+Un Commissaire du Gouvernement	17831
 Un Gouvernement	17448
+Une Gouvernance	17983
 Union Monétaire Ouest Africaine Le Gouverneur	10836
 Unite de Gouvernance Digitale	14574
 Unité Gouvernance	13476,2173

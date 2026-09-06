@@ -36,7 +36,7 @@ AtlasAI’s Human Settlement	12006
 Authorised Settlement Agent	12364
 Authority. MICT SETA	6832
 Authorized Settlement Agent Facility	12364
-Automated Transfer and Settlement System	10845
+Automated Transfer and Settlement System	10845,7025
 B. Setting	14715
 BIS Bank of International Settlement HIPC Heavily	14897
 BOZ. Settlement System	12364
@@ -57,6 +57,7 @@ Bima Claims Settling Agents Data Controller	7167
 BoM Settlement	12270
 Botswana Interbank Settlement System	12537,42
 Botswana Interbank Settlement System The Bank	12579
+Boulaye Seta HAIDARA	17829
 Burundi SETIC	3172
 BurundiPay Set	5958
 CARICOM Payment and Settlement System	9179
@@ -65,6 +66,7 @@ CENTRAL DEPOSITORY AND SETTLEMENT CORPORATION LIMITED	7167
 CLEARING OR SETTLEMENT SYSTEMS	12374
 CNSI and SETIC	13312,2
 COMESA’s Regional Payment and Settlement System	10372
+CPS SETC	17978
 CRESCIMENTO DE EMPREGO NO SETOR	11531
 CSD Collateral Setup Default TTC	12364
 CTS. Le SETIC	13341
@@ -551,6 +553,7 @@ STANDARD SETTING	11184
 Saniya Ansar and Seth Garz	10977
 SeTIC	13567
 Seamless Setup	13095
+Secondaire Seteur Tertiare	18032
 Secrétaire Exécutif du SETIC	13290,192,108
 Sectoral Arabic Data Sets Open Data	15713
 Securities Settlement	14997
@@ -583,6 +586,7 @@ Set-up	1000,11364,2454
 Set-up Institutional Governance Framework for Cybersecurity	1000
 Set-up Provincial	12453
 Set. Artículo	163
+Setareh Razmara	17906
 Setect	3972
 Setembro	13,417,144,2,219,731,612,678,277,426,8,79,1,433,4,159,2259,390,675,1469,913,416,425,1,21,5,254,286,45,3,3,1,1,3,6,4,3,1,17,4,1,1,5,6,1,3,1,2,7,3,8,7,4,8,8,20,20,3,3,1,3,3,2,9,5,35,5,495,10,33,70,598,3,1,1,19,2495,37,14,9,13,5,7,11,1,435,1165,11,20,112,457
 Setembro AUTORIZAÇÃO PARA REALIZAÇÃO DE DESPESAS	15404
@@ -643,7 +647,7 @@ Setsetse	9466
 Setshwane	12625
 Setswana	8108,2698,374,51,1325,85,4944
 Settat	3375,14066
-Setting	21,552,210,217,885,87,2760,116,852,577,669,1071,113,1337,1352,37,104,17,40,889,336,53,15,190,174,290,331,19,44,649,667,55,19,4,21,8,43,6,6,18,68,75,31,6,68,18,44,122,125,62,188,582,606,23,13,78,12,182
+Setting	21,552,210,217,885,87,2760,116,852,577,669,1071,113,1337,1352,37,104,17,40,889,336,53,15,190,174,290,331,19,44,649,667,55,19,4,21,8,43,6,6,18,68,75,31,6,68,18,44,122,125,62,188,582,606,23,13,78,12,182,859
 Setting Aside Campaign Funds	15393
 Setting Deprivation Cut-offs for Each Indicator	15244
 Setting Zone Setting Gender Mt Kenya	7869
@@ -764,7 +768,7 @@ Urban Settings	14769
 Urbanisation and Rural Settlements Backward Looking Joint	14935
 Use the Authorised Settlement Agent	12364
 VERDE Setembro	15684
-WAEMU Automated Transfer and Settlement System	10853
+WAEMU Automated Transfer and Settlement System	10853,7017
 WG Short Set of Questions	16950
 Washington Group Short Set	10768,2248,29,2199,1665,41
 White Paper. Sets the ICT	2411

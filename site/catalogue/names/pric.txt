@@ -28,7 +28,7 @@ Average Export Prices of Selected Minerals	2775
 Average Fully Indexed Price Biomass	11953
 Average Gross Commodity Prices	2775
 Average Mobile Data Price	6946
-Average Price	6946
+Average Price	6946,10924
 Average Producer Prices of Selected Products	2775
 Average Retail Market Prices of Selected Food	2775
 Average1 Retail Prices of Selected Petroleum Fuels	2775
@@ -146,6 +146,7 @@ Earnings and Consumer Price Indices Overview	2775
 Earnings and Consumer Prices	2775
 Earnings and Consumer Prices Ethiopia	2775
 Earthworks Price Code	13385
+Efficient Spectrum Pricing	17870
 Electricity Price Text Figure	13624
 Electricity Pricing	12256
 Electricity Pricing Policy	11272
@@ -168,6 +169,7 @@ Fair Pricing	6432
 Fair Spectrum Pricing	5245
 Financial Evaluation Price	17068
 First Quarter African Prepaid Pricing Index	236
+Fixed Internet Retail Price	17862
 Floor Price On Mobile Data	17113
 Food Commodities Prices Death	16902
 Food Price Index	15620
@@ -213,6 +215,7 @@ IMF Producer Price Index Manual Theory	11152
 ITU ICT Price Basket Questionnaire	15471
 ITU Price Baskets ICT Price Basket	12395
 ITU and PricewaterhouseCoopers	11917
+Impact of Iron Ore Price Shocks	17990
 Imported Fuel Price	17257
 Increased Prices of Goods and Services	14932
 Increased Prices of Goods and Services Evidence	14932
@@ -222,6 +225,8 @@ Informal Market Solves the Price Problem	16799
 Initial Prices	13037
 Institute for Prices and Competition	11380
 Interconnection Prices and Retail Tariffs	14017
+International Commodity Official and Parallel Market Prices	17909
+International Commodity Prices	17990
 International Price Comparisons I-PRSP	14857
 International Prices	17209
 Internet Prices Slashed	4070
@@ -269,13 +274,15 @@ Methodologies for Calculating ICT Price Basket Indicators	15120
 MetroFibre Go Once-off Pricing	11259
 Migration Rates Food Price Index Table	17157
 Min Rose Pola Pricemou	3959
+Minimum Price	17870
 Minimum Reserve Price	8582
 Minimum Support Price	16234
 Minister Rose Pola Pricemou	4036,579
 Ministre Rose Pola Pricemou	16670
 Mirrors Price Code	13385
-Mme Rose Pola Pricemou	16661
+Mme Rose Pola Pricemou	16661,1274
 Mobile Broadband Pricing	13312,2
+Mobile Internet Retail Price	17862
 Mobile Price Benchmarking	1013,931
 Mobile Price Benchmarking Conclusion	1013
 Mobile Price Benchmarking Mobile Phone Ownership	1944
@@ -324,7 +331,7 @@ Post- Prices	11563
 Postal Market Indicators the Pricing of ICT	12395
 Potential Impact of LTA Price Order	16876
 Prepaid Data Prices	11259
-Price	1284,3150,1245,1058,191,908,346,424,1153,398,606,81,17,291,2,86,12,6,1,12,15,191,86,294,6,137,344,32,19,298,75,210,207,36,93,17,54,576,432,281,103,25,95,100,26,57,46,79,167,39,13,47,146,17,1165,40,24,13,7,1,56,35,36,57,70,11,60,30,18,69
+Price	1284,3150,1245,1058,191,908,346,424,1153,398,606,81,17,291,2,86,12,6,1,12,15,191,86,294,6,137,344,32,19,298,75,210,207,36,93,17,54,576,432,281,103,25,95,100,26,57,46,79,167,39,13,47,146,17,1165,40,24,13,7,1,56,35,36,57,70,11,60,30,18,69,544,7,1
 Price Adjustment Formula	13185
 Price Analysis and Monitoring Division	14839
 Price Caps	16839
@@ -396,7 +403,7 @@ Priced Code	13385
 Pricelist Namibia	12478
 Pricelist for RINEX	14864
 Pricemou	4369
-Prices	970,43,625,213,924,808,837,1454,1372,122,343,40,707,1301,1393,106,305,693,133,11,3,133,426,223,127,2,554,117,609,80,45,4,43,314,40,304,47,2,713,986
+Prices	970,43,625,213,924,808,837,1454,1372,122,343,40,707,1301,1393,106,305,693,133,11,3,133,426,223,127,2,554,117,609,80,45,4,43,314,40,304,47,2,713,986,790
 Prices Adjusted	2775
 Prices CPI	17209
 Prices Inflation	17503
@@ -482,7 +489,7 @@ Rising Prices and Regulatory Scrutiny Starlink	4601
 Risk-Based Credit Pricing Model	9487
 Rose Pola PRICEMOU	16657
 Rose Pola PRICEMOU. Moment	16657
-Rose Pola Pricemou	2442,445,365,70,708,339,246,321,777,3612
+Rose Pola Pricemou	2442,445,365,70,708,339,246,321,777,3612,8610
 Rose Pola Pricemou and Lacina Koné	16679
 Rose Pola Pricemou. Africa	16679
 Rose Pricemou	2887

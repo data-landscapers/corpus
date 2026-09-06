@@ -281,7 +281,9 @@ COMPANY'S OWN ANNOUNCEMENT	9098
 COMPAORE	8321,7350
 COMPAORE Abdou Aziz	737
 COMPAORE PrE.ident of Fa.o MinISter of Foreign AIIa	11517
-COMPARAISON	16026
+COMPARABILITÉ ET INTÉGRATION En	17830
+COMPARABILITÉ ET INTÉGRATION Selon	17830
+COMPARAISON	16026,1905
 COMPARATIVE ANALYSIS OF CAPITAL EXPENDITURE PAYMENTS	16978
 COMPARATIVE ANALYSIS OF ESTIMATED AND ACTUAL	16978
 COMPARATIVE FIGURES OF POLICE FLEET	14760
@@ -353,7 +355,7 @@ Comm Equipment Company	10622
 Communication Authority of Kenya and Register of Companies	6394
 Community Interest Company	1246
 Compability Security Ekurhuruleni	9129
-Compact	87,812,639,1,4721,1853,3355,227,257,262,185,164,32,85,753,1189,52,505,294,101,114,111,178,60,929,294
+Compact	87,812,639,1,4721,1853,3355,227,257,262,185,164,32,85,753,1189,52,505,294,101,114,111,178,60,929,294,634,76
 Compact Delivery Monitoring Unit	12595
 Compact Delivery and Monitoring Unit	12717,3320,151,778
 Compact Delivery and Monitoring Unit CPR Compact	16188
@@ -375,11 +377,12 @@ Compact With Sierra Leone	1539
 Compact's Action Plan	12399
 Compactors Common	12253
 Compacts	13054,3804
-Compagnie	10289,1278,1847,2722
+Compagnie	10289,1278,1847,2722,1846
 Compagnie Air Côte	2342
 Compagnie Financière de Paiement	4459
 Compagnie Française	15848
 Compagnie Ivoirienne	1005,14931
+Compagnie Malienne	17983
 Compagnie Minière du Bafing	2342
 Compagnie Pays de Prix	13414
 Compagnie Sucrière du Tchad	10841
@@ -387,13 +390,14 @@ Compagnie de Bauxites de Guinée	16627
 Compagnie de Gérance de Coton CONFEJES	13377
 Compagnie de Transports	15583
 Compagnie des Bauxites de Kindia	16627
+Compagnie des Motos. Article	17982
 Compagnie sucri	10841
-Compagnies	10934
+Compagnies	10934,7048
 Compagnons de De Brazza	16039
 Companhia Santomense de Telecomunicações	2315
 Companhia São-tomense de Telecomunicações	5557
 Companhias	6970,8534
-Companies	571,165,163,878,110,631,91,769,205,131,193,84,685,296,141,89,22,239,155,182,10,10,44,478,79,250,63,194,18,25,44,283,391,62,263,166,26,10,132,11,27,258,609,31,286,72,39,28,160,542,181,45,101,60,3,40,202,107,12,62,19,33,274,173,131,168,60,260,34,46,118,165,207,65,200,102,158,60,23,686,156,31,235,89,25,3,64,298,175,1,209,447,662,118,92,161,11,291,260,199,47
+Companies	571,165,163,878,110,631,91,769,205,131,193,84,685,296,141,89,22,239,155,182,10,10,44,478,79,250,63,194,18,25,44,283,391,62,263,166,26,10,132,11,27,258,609,31,286,72,39,28,160,542,181,45,101,60,3,40,202,107,12,62,19,33,274,173,131,168,60,260,34,46,118,165,207,65,200,102,158,60,23,686,156,31,235,89,25,3,64,298,175,1,209,447,662,118,92,161,11,291,260,199,47,113
 Companies API Application Programming Interface	4214
 Companies Act	11,574,697,637,1795,919,263,467,509,1068,258,6,492,149,1021,642,270,137,77,801,437,10,10,26,3,762,301,51,133,2,14,20,88,247,9,46,347,12,87,99,40,29,856,33,91,167,4,3,8,40,41,10,16,2,2145
 Companies Act Amendment	11250
@@ -453,10 +457,10 @@ Companies. Outputs	15283
 Companies. Requirements	15283
 Companies’ Act	11240
 Companies’ Register	3714
-Companion	22,13,81,123,169,2,4,3,14,12,2,112,2,19,1,12,22,123,2,4,5,4,19,11,1,16,24,118,23,5,18,9,17,16,126,39,13,5,12,9,1,1,22,6,69,6,5,13,2,1,30,44,33,49,28,12,32,1,98,14,1,3,15,17,39,56,1,9,25,1,47,10,22,20,57,33,12,22,1,9,11,10,27,61,19,59,9,235,31,101,37,84,96,29,117,3,126,8,23,150,4,4,30,57,23,49,35,128,2,33,46,10,53,1,48,10,122,110,10,3,16,264,3,1,1,5,16,39,6,26,1,21,5,23,1,18,148,123,17,83,82,120,66,42,19,90,184,65,32,69,1,228,99,8,4,152,51,72,107,5,10,27,20,51,14,32,119,36,13,110,32,6,41,18,18,1,1,6,230,2,114,41,71,27,332,87,69,60,187,160,1,391,272,78,130,573,431,675,20,907,346,218,226,450,751,373,3,263,15,81,1,81,1707,14,359,1053
+Companion	22,13,81,123,169,2,4,3,14,12,2,112,2,19,1,12,22,123,2,4,5,4,19,11,1,16,24,118,23,5,18,9,17,16,126,39,13,5,12,9,1,1,22,6,69,6,5,13,2,1,30,44,33,49,28,12,32,1,98,14,1,3,15,17,39,56,1,9,25,1,47,10,22,20,57,33,12,22,1,9,11,10,27,61,19,59,9,235,31,101,37,84,96,29,117,3,126,8,23,150,4,4,30,57,23,49,35,128,2,33,46,10,53,1,48,10,122,110,10,3,16,264,3,1,1,5,16,39,6,26,1,21,5,23,1,18,148,123,17,83,82,120,66,42,19,90,184,65,32,69,1,228,99,8,4,152,51,72,107,5,10,27,20,51,14,32,119,36,13,110,32,6,41,18,18,1,1,6,230,2,114,41,71,27,332,87,69,60,187,160,1,391,272,78,130,573,431,675,20,907,346,218,226,450,751,373,3,263,15,81,1,81,1707,14,359,1053,218
 Companion Card	10418
 Companion Guide	11156
-Company	22,551,12,20,131,1082,1,169,417,293,765,251,412,137,633,642,326,39,184,248,15,374,52,162,260,6,124,28,404,285,452,83,12,135,139,73,512,119,165,90,15,74,78,801,68,320,17,11,10,15,16,2,24,22,107,486,6,42,16,21,10,55,212,3,46,40,16,35,7,39,6,33,5,381,18,57,114,132,126,51,23,269,314,17,166,395,121,6,11,39,96,9,3,12,48,6,30,70,172,14,232,32,143,82,5,132,335,122,278,175,57,32,174,86,46,43,103,1,73
+Company	22,551,12,20,131,1082,1,169,417,293,765,251,412,137,633,642,326,39,184,248,15,374,52,162,260,6,124,28,404,285,452,83,12,135,139,73,512,119,165,90,15,74,78,801,68,320,17,11,10,15,16,2,24,22,107,486,6,42,16,21,10,55,212,3,46,40,16,35,7,39,6,33,5,381,18,57,114,132,126,51,23,269,314,17,166,395,121,6,11,39,96,9,3,12,48,6,30,70,172,14,232,32,143,82,5,132,335,122,278,175,57,32,174,86,46,43,103,1,73,559
 Company Act	14891
 Company Address Changes	12041
 Company Advocates Data Controller INST-25860281847 NAIROBI	7167
@@ -533,6 +537,8 @@ Company and Close Corporation De-registrations	11250
 Company and Oranje-Nassau Développement S.C.A	7198
 Company and Trust	11298
 Company for Developing Countries	1419
+Company of Mauritania SIN The Digital Infrastructure	17862
+Company of Togo SMI Mauritanian Information Society	17862
 Company's	4896
 Company's Annual Report	4896
 Company's Articles of Association	4896
@@ -578,6 +584,7 @@ Compaoré	4233,1
 Compara	16898
 Comparability	7204,6106,1854,2203
 Comparability and Integration	13310
+Comparabilité	17828,2
 Comparable	2117,1597,4637,1048,4133,1287,1141,1664
 Comparable Company Multiples	4896
 Comparable Estimates of Returns	16436
@@ -586,7 +593,7 @@ Comparable and Interoperability	170
 Comparably	16950
 Comparación	16898
 Comparado	16969
-Comparaison	4459,3196,5669,66,24,1066,994,241
+Comparaison	4459,3196,5669,66,24,1066,994,241,2121,28
 Comparaison Mali-Mètre	6959
 Comparaison des Dépenses	15670
 Comparaison des Recettes	15670
@@ -631,7 +638,7 @@ Comparativecurve.Class1	8606
 Comparatively	961,1865,6744,1409,1231,45,2641,1988,159
 Comparativement	737,2659,1063,6506,4489,216,1808
 Comparator	1623,433,439,5628
-Comparators	5267,417,779,4534,804,2825
+Comparators	5267,417,779,4534,804,2825,3244
 Comparação	2816,8721
 Compare	1243,1946,2923,1536,732,225,824,12,1336,3893,2293,194
 Compare Guinea	16648
@@ -639,7 +646,7 @@ Comparecencia	16986,236
 Comparecencia de Osa Nsue	17171
 Comparecencia de Simeón Oyono Esono	17305
 Comparecer	4147,11286
-Compared	236,704,888,153,305,1151,931,235,280,528,244,484,808,432,47,325,135,960,238,71,554,568,441,47,10,10,66,5,63,352,25,1,275,9,4,270,8,4,35,16,6,31,9,214,36,13,131,27,578,395,119,46,9,92,454,73,624,40,17,165,26,141,56,191,13,23,24,133,234,1038,9,64,47,108,131,1,267,110,2,128
+Compared	236,704,888,153,305,1151,931,235,280,528,244,484,808,432,47,325,135,960,238,71,554,568,441,47,10,10,66,5,63,352,25,1,275,9,4,270,8,4,35,16,6,31,9,214,36,13,131,27,578,395,119,46,9,92,454,73,624,40,17,165,26,141,56,191,13,23,24,133,234,1038,9,64,47,108,131,1,267,110,2,128,127
 Comparer	9278,6658
 Comparez	13300
 Comparing	236,530,5,1322,723,5053,114,477,1810,444,127,136,978,401,27,1035,114,92,1136,664,180,1346,673,120
@@ -673,6 +680,7 @@ Comparticipações	11382
 Compartilhando	11045
 Compartilhar	11587,5447,291,35,1,51
 Compartilhe	16141
+Compartiments	17812
 Compartment	16843
 Compartmentalization	16923,1
 Comparé	2342,4617,696,8281,1065
@@ -694,6 +702,7 @@ Compatibility Operating Systems	34
 Compatibility Options	3861
 Compatibility Positive	9129
 Compatibility Testing	5665
+Compatibilité	17846
 Compatibilité Tester	15936
 Compatibilizar	10783
 Compatibilização	11520
@@ -899,6 +908,7 @@ Expressed Company	14897
 External Companies	12342
 External Company Name and Amendments	12041
 External Company Registration Understanding External	12041
+FCFA. Comparées	17872
 FDJ. Comparé	4402
 FEES Company Application Fees	12342
 FINANCE SCM COMPANY SECRETARY RISK	11198
@@ -1015,6 +1025,7 @@ Graphic Online The Ghana Grid Company	16586
 Greater Pioneer Operating Company	3583
 Group Company Secretary	4896
 Group Company Secretary and Registered	4896
+Groupe Compagnie Financière Africaine Mali	17856
 Guinean Electronic Payment Company	5787
 Gusii Tea Solar Company Limited Generation	12256
 H COMPAGNIE DU DEVELOPPEMENT DES MINES	16623
@@ -1044,6 +1055,7 @@ Historical Financials for The Company	4896
 Holding Companies Consolidated Income	12483
 Holding Company for Communications	4746
 Home Insights Seychelles Selects NRD Companies	3907
+Human Capital Index and Sub-components Comparison	17870
 Hungarian Association of Digital Companies Kappa404 KeeeX	8530
 IDA Disbursement Project Company	16144
 IDSR Using Individual Case Form Compared	11912
@@ -1156,6 +1168,7 @@ LOCAL ICT COMPANIES ICT	14879
 LPGÂC Compartilhar	17034
 LTD SAU GEM INTELLIGENCE COMPANY LTD	16623
 La COMPAGNIE MINIERE DU BA-	2342
+La Compagnie	17982
 La Compagnie Ivoirienne	2342
 La Compagnie Ivoirienne Capital	2342
 La Compagnie Minière du Littoral Loh-Djiboua. Capital	2342
@@ -1167,9 +1180,13 @@ Large Compagnies	10980
 Large Private Companies Public	13358
 Latin American Companies	226
 Le COMPACT National	13433
+Le Commandant de Compagnie	17982
 Leadership Companion	14566
 Legacy System Migration and Compatibility Requirements	3861
 Leopard Investment Company Chairman	13580
+Les Commandants de Compagnie	17982
+Les Commandants de Compagnies	17982
+Les Compagnies	17982
 Lesotho Electricity Company	12657
 Lesotho National Energy Compact Targets Under	12717
 Lesotho's GPE Compact Partnership	12726
@@ -1235,10 +1252,12 @@ MainOne Company	3782
 Malawi Mining Company	13122
 Malawi Mining Investment Company	13060
 Malaŵi Mining Investment Company	12987
+Mali and Selected Comparators	17870
 Mali. Comparaison Mali-Mètre	6959
 Management Companies	14819
 Management Company	4972
 Managing Director of Data Mining Company	2536
+Manantali Energy Management Company	17870,187
 Maritime Companies	16947
 Mauritania’s Tamkeen Company	8592
 Mauritius Companies Act	9507,1,407,1898
@@ -1381,6 +1400,7 @@ OCT-24 NOV-24 DÉC-24 Comparativement	15707
 ORAN Development Company	4511,1110
 ORC AND PURPLELINE SOLUTIONS LIMITED COMPANY	9728
 OTHERS IN SHARES OF COMPANY	3714
+OUTILS DE COMPARAISON DE DONNÉES LONGITUDINALES	17830
 October. Companies	7209
 Office of Registrar of Companiesn	9842
 Oil Marketing Companies	12256
@@ -1416,7 +1436,7 @@ PURPLELINE SOLUTIONS LIMITED COMPANY SANCTIONED	9728
 Pan-African Venture Capital Belgian Investment Company	612
 Parent Company	12445
 Parliament of Uganda Companion	1283
-Partnership Compact	10704,1471,1815,21,138,1,1511,27,748,760
+Partnership Compact	10704,1471,1815,21,138,1,1511,27,748,760,774
 Partnership Compact Priorities	17196
 Partnership Compact Pursuing	13990
 Partnership Compact. Malawi	12175
@@ -1465,6 +1485,7 @@ Private Sector Companies	12675
 Privinvest Companies	1829
 Procurement Notice- Compact Development Team Liberia	17304
 Producer Kenya Electricity Generating Company EPRA	12256
+Product and Market-Level Constraints Compared	17870
 Professor of Comparative Criminal Law	10270
 Profit Company	11250
 Programa de Comparación Internacional	16898
@@ -1675,10 +1696,12 @@ Tanzania Telecommunications Company Limited	13331
 Tatenda Alice Ngowe Group Company Secretary	4896
 Taxation for Companies	14932
 Teachers Kenya Global Partnership for Education Compact	899
+Team Angele Compaore Ouattara Procurement Team	17962
 Tech Companies	17018
 Tech Venture Capital Belgian Investment Company	454
 Technology Companies	17099,15
 Technology Company for LD	4531
+Telecom Energy Service Companies	17870
 Telecom Namibia Company	1944
 Telecommunication Companies TOR Terms of Reference TRIPS	236
 Telecommunication Company Limited GBA Greater Banjul	17105

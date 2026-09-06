@@ -4,7 +4,7 @@ Agence des Etats Unis	14442
 Arabes Unis	15742,433
 Emirates Arabe Unis	16249
 Emirats Arabes Unis	15742
-Etats Unis	15542
+Etats Unis	15542,2365,10
 Gouvernements Locaux Unis	15936
 Health Coverage UNISA University of South Africa	396
 Instituto Humanitas Unisinos	2816
@@ -12,9 +12,11 @@ Insurance Fund UNISA The University of South	11250
 Mouvement Coeurs Unis	4127
 Mouvement Cœurs Unis	1300
 Mouvement des Cœurs Unis	5929
+Nations Unis	17824
 Service UN United Nations UNISA University	11188
 Solar PV REFIT Unisun Energy	12399
 UNISA	396,4500,1936,446,3910,1137
+UNISDR	17962
 UNISFA	14959
 UNISS	3705
 UNIs. Access	15735

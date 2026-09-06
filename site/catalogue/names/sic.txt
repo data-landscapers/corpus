@@ -1,6 +1,7 @@
 AUGUSTINE SICHULA Government	13417
 AUGUSTINE SICHULA Minister of Community Development	13409
 Action I.4.1 X Action I.4.2 SICS	13306
+Acute Malnutrition SC Sick Child TB	17869
 Adolphe SICE	15780
 Adolphe Sicé	15423
 All SIC and EPZL	17105
@@ -45,11 +46,19 @@ Provision of Sick Bay	16951
 RNx SCDP SDAU SEDA SIC SIGIPES	15542
 Reserve Bank STAR-UEMOA BCEAO SICA-UEMOA	6938
 SDG Sustainable Development Goal SIC Special	16927
+SIAF SICOMAT	17845
 SIC Insurance	10523
-SICA-UEMOA	4,6823,111,3773,134,8,69
+SICA-UEMOA	4,6823,111,3773,134,8,69,6948
 SICA-UEMOA Absence	10711
 SICA-UEMOA Constats	10711
 SICA-UEMOA ET STAR-UEMOA Trésor Public Constats	10711
+SICA-UEMOA Système Interbancaire de Compensation Automatisée	17870
+SICAEPIP	17842,235
+SICAEPIP Act.3.1.2.6	17842
+SICAEPIP Act.4.1.2.19	17842
+SICAEPIP Cellule de Planification	18077
+SICAEPIP. la Cellule de Planifica- La CPS	18077
+SICAIEPIP	18077
 SICAR	15747
 SICAR Art	15747
 SICAR. Art	15747
@@ -68,6 +77,8 @@ SICOM Ltd	14736
 SICOM Tower	14725,31,3,3,1,39,45
 SICOM Tower Ebene	14783
 SICOM Tower Wall Street	14996
+SICOMAT	17845
+SICOMAT Sous-total Diffusion	17845
 SICOMINES	15670
 SICOMINES SA	15670
 SICPA	8719,8531,18
@@ -99,6 +110,7 @@ SICS. Résultat	13306
 SICS. Résultat VII.2	13306
 SICTA	14897
 Santé SICS Système	13306
+Secrétariat Général du Gouvernement SIC	17824
 Senior ICT Advisor Mr. Arthur Sichivula	34
 Senior ICT Officer Mrs Nora Sichilongo	34
 Sica-Uemoa	3259

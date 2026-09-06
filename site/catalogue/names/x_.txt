@@ -64,7 +64,7 @@ CENTAL’s X	17037
 CEO of Collective X	10946
 CEO of Collective X. Non-profit	10946
 CHANSONS A B X	13300
-CHAPITRE X	14420,706,559,42,890
+CHAPITRE X	14420,706,559,42,890,1205,4,15,20
 CHAPITRE X DES INFRACTIONS DE DROIT	15429
 CHAPITRE X Dispositions	17452
 CHAPTER X	15126,1809
@@ -224,6 +224,7 @@ Incubator ZICTA ICT X X X	12376
 Indaba X Namibia	12926
 Indústria X X	11569
 Insolvency Act. PART X	14728
+Instagram X	18036
 Instagram and X	8436,428,3337
 Instituto Camões X	11569
 Insurance Scheme X MINTER Ghana Nationwide	15845
@@ -252,12 +253,15 @@ LX XXI X PGES- CENTRE	14490
 Land Bill Chapter X	12912
 Lei. PARTE X	11582
 Li X	16463
+LinkedIn Youtube WhatsApp Instagram X	18036
 LinkedIn and X	4232,3621,1063
 Linkedin Telegram X TRENDSNAFRICAAFRICAN NEWS PORTAL	3768
 Liu X	5242
 Lorsque Monsieur X	16686
 Luca DELLA ROCCA Coordonnées G.P.S X	15426
 M AUTRE X	13300
+MALI CHAPITRE X	18003
+MALI X	17833
 MENACES X	16195
 MFUMO WA JAMII X	1859
 MINAGRI MINECOFIN X	15130
@@ -321,10 +325,12 @@ Modernização da X X X X Administração	11569
 Modernize Nationwide X X X X	15845
 Moneyweb RFI4. X Corp	13461
 Monsieur Sessédé Comlan A. X. MATRO	17584
+Montant X FCFA	17833
 Moodle X	13306
 Morocco 84 X. Revenue Impact of Recent Tax	17503
 Morocco Chaouia-Ouardigha R6gion de Chaouia- X	17441
 Morocco Gharb-Chrarda- R6gion de Gharb- X	17441
+Motos Jakarta Yamaha Force X	17845
 Mr. X	11129
 Mutasa. Collective X	10946
 N AUTRE X AUTRE X	13300
@@ -402,6 +408,7 @@ Plainte de Mme X	10821
 Plainte de X	10821
 Plainte de X RESPONSABLE DE TRAITEMENT OBJET	10821
 Plan X	16195
+Plans de X X X X X	17882
 Plateformes X du Groupe SONATEL	7634
 Poder X X Local	11569
 Points X	15426,234
@@ -492,8 +499,9 @@ Strengthen the Nationwid X X X X	15845
 Subsecção X Caracterização	11901
 Sudan X Suriname X Tajikistan X	11005
 Sudanese... X	15342
+TABLEAUX ET ENCADRÉS X TABLEAUX Tableau	17881
 TIC X	13306
-TITRE X	13781,1624,298,24,53
+TITRE X	13781,1624,298,24,53,2039,6,4,174
 TITRE X DISPOSITIONS GENERALES Article	15410
 TOTAU X	13325
 TOTAU X Educ	13325
@@ -572,6 +580,7 @@ X BATE	3972
 X BUREAU VERITAS INSPECTION VALUATION ASSESSMENT	16623
 X Blade	11209
 X BusinessDay Home Tax Calculator Companies	9750,247
+X CIB	17841
 X CSIRT Upgraded NOC X Payment	13331
 X Canada	4474
 X Capacités	16195
@@ -585,6 +594,7 @@ X Comoros X Djibouti X Dominican	11005
 X Complaints Investigator	13097
 X Complaints Investigator SUBDIVISION KEETMANSHOOP REGIONAL	13097
 X Congo	11005
+X Conseiller	17899
 X Control Admin Officer	13097
 X Copier	15975
 X Corp	13461,1
@@ -603,6 +613,7 @@ X DATE	3972
 X DC X X X DC	10858
 X DOS DOS DOS DOS X	10858
 X Data	13331
+X Date	17841
 X Deaths	12138
 X Deputy Chief	13097
 X Deputy Director	13097
@@ -621,10 +632,13 @@ X Enfin	16195
 X Enhance	15130
 X Envoyer	16091
 X Espérance	15685
+X Etablissement	17841
+X Evaluation	17882
 X ExaGrid	11209
 X ExaGrid EX63000	11209
 X Executive Leadership X Green	14997
 X Exportaciones XN Exportaciones Netas ZEE	16969
+X FCFA	17833
 X FOREWORD	17235
 X Faciliter	16195
 X Finaliser	13306
@@ -807,6 +821,8 @@ X United Nations E-Government Surveys	10840
 X Urbanismo	11569
 X Validation	16195
 X Valorisation	16195
+X X ANTIM OMS	17882
+X X ANTIM PNUD	17882
 X X Accelerator Lab Growth Africa	12376
 X X Actuarial Skills X X	14997
 X X Adopting	236
@@ -816,13 +832,16 @@ X X Conflict	789
 X X Hubs	12376
 X X LAS	16848
 X X Lead	15130
+X X National	17882
 X X Programmation	10858
 X X Résultat XI.1 Mutualisation	13306
 X X Tax	236
 X X Up	789
 X X VPA	16848
 X X Venture Capital Kukula Capital	12376
-X X X	789,12517,2277,801,464
+X X X	789,12517,2277,801,464,1034
+X X X ANTIM	17882
+X X X ANTIM OMS	17882
 X X X Actions	15673
 X X X Agency Zambia X	12376
 X X X Communication	16848
@@ -831,23 +850,40 @@ X X X Contribution	236
 X X X DC X X	10858
 X X X DOS X X	10858
 X X X Programmation	10858
+X X X Responsable ANTIM	17882
 X X X Résultat VI.1 Automatisation	13306
 X X X Size	236
 X X X Software	236
-X X X X	236,10622,711,807,930,2277,262,1003
+X X X X	236,10622,711,807,930,2277,262,1003,1034
+X X X X ANTIM OMS	17882
 X X X X Cible	13306
+X X X X Compétences	17882
+X X X X DRH	17882
 X X X X Desenvolvimento	11569
 X X X X Implementation	16848
 X X X X Innovation Programme	12376
 X X X X Programmation	10858
 X X X X Telecomunicações	11569
 X X X X The Women	12376
-X X X X X	736,14847,1265
+X X X X X	736,14847,1265,1034
+X X X X X ANTIM	17882
+X X X X X CPS	17882
+X X X X X CPS-	17882
 X X X X X Contribution	236
 X X X X X DC	10858
+X X X X X DGSHP	17882
+X X X X X DRH	17882
+X X X X X NTIM	17882
+X X X X X PTF	17882
 X X X X X TIC	13306
-X X X X X X	10858,2448,3542
+X X X X X Toutes	17882
+X X X X X X	10858,2448,3542,1034
+X XX	17882
+X XX ANTIM OMS	17882
 X XX Key	16848
+X XX SIS Plateforme	17882
+X XX X	17882
+X XX X ANTIM OMS	17882
 X Xº Protecção de Dados República de Angola	10770
 X Yearly	17441
 X Yearly Description of Covenant The Borrower	17441
@@ -860,6 +896,7 @@ X and Netflix	10245
 X and TikTok	9968,3493
 X and TikTok and WhatsApp	13461
 X du MSPLS	13306
+X du SIS	17882
 X train	17157
 X- Ray	13361
 X- Road	14483
@@ -911,6 +948,7 @@ XDS-MS X DS	1009
 XI. REFERENCES XI. REFERENCES X. REFERENCES	13341
 XX X	16848
 XX XX X Detailed	16848
+XXX X DISC-Mali	17882
 Y. X	13991
 YouTube LinkedIn WhatsApp Facebook X	5050,494,389,353,79,194,162,177,2871
 YouTube and X	7602

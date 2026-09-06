@@ -142,7 +142,8 @@ Cabinda Economy Luanda	7667
 Cabinda Luanda Namibe Bengo Zaire Moxico	10775
 Cabinda Society Luanda	8053
 Cabo Verde Telecom Luís Vasconcelos Lopes	11955
-Cadre Stratégique de Lutte	13290
+Cadre Stratégique de Lutte	13290,4537
+Cadre Stratégique de Lutte Contre la Pauvreté CT	17842
 Calai Luanda Matala Dande Luau Revenue	10765
 Cameroun Lutter	15999
 Capital Luanda	10765,17
@@ -155,6 +156,8 @@ Category Author Lucia Nghifindaka	13247
 Catégorie Ecocash Lumicash B-Phone Mobile App	13390
 Catégorie Ecocash Lumicash Mobile App Visa	13390
 Catégorie Ecocash Smart Pesa Lumicash Mcash	13390
+Cellule Sectorielle de Lutte	17882
+Cellule Technique du Cadre Stratégique de Lutte	17842
 Censo de Instituições Sem Fins Lucrativos	9441
 Centro Integrado de Luba Luba	4209
 Certificado de Avisadores Luminosos	15307
@@ -182,6 +185,7 @@ Colegio Nacional Ebenazar Luba	4209
 Colegio Nacional José Luba	4209
 Colegio Nacional Luis Rondo de Niefang Niefang	4209
 Comisión Nacional de Lucha Contra la Corrupción	4209
+Comité Inter-Etats de Lutte	17949
 Comité Inter-États de Lutte	10874
 Comité Nacional de Luxofonía	4209
 Comité National de Lutte	15936
@@ -194,6 +198,7 @@ Conectividade Digital Luanda	11441
 Congolese Luanda.44	9399
 Conseil National de Lutte	15712,224,549
 Conseil National de Lutte Contre la Vie Chère	15712
+Conseil des Ministres du Comité Inter-Etats de Lutte	17949
 Consejo de Luba	4209
 Context Baía de Luanda	11366
 Continental Ilma. Sra. Doña María Luisa	16920
@@ -233,6 +238,7 @@ DE PREVENTION ET DE LUTTE	16177
 DE PREVENTION ET DE LUTTE CONTRE	16171
 DE PRÉVENTION ET DE LUTTE CONTRE	15885
 DETTE ET LUTTE CONTRE LA VIE	16381
+DFM Lutte Contre la RGPH Financiers Drépanocytose	17845
 DIAMATONDO VICTÓRINA AFONSO LUKANO FILIPE	10751
 DIGITAL Luanda	11461
 DIREITOS A Universidade Lusíadas de Angola	10752
@@ -304,7 +310,7 @@ Econet and Lumitel	13312,2
 Econet-Léo Lumitel	13414
 Economie Numérique. Lu	13524
 Economy Luanda	8056
-Ed. Luis Eduardo Magalhães	10764,80
+Ed. Luis Eduardo Magalhães	10764,80,7012
 Ed. Luis Eduardo P.O. Box	11563,6180
 Edgar Lungu	12353
 Edith Lucie BONGO	16413
@@ -316,6 +322,7 @@ Em Luanda	4086
 Emery Patrice Lumumba	16177,279
 Emery Patrice Lumumba. Date	15465,991
 Empowering Lubombo	9305
+Enseignement Technique CSLP Cadre Stratégique de Lutte	17907
 Entidades Sem Fins Lucrativos	2816
 Environmental Specialist Yes Lucienne M. M'Baipor	15983
 Eric A. and Ludger Woessmann	15661
@@ -391,6 +398,7 @@ Guodong Network Communication Group Chairperson Lu	9938
 Guy Lupo	7490
 Gweru Urban and Luveve Constituencies	13420
 Gweru Urban and Luveve Constituencies Audit of Gweru	13420
+H Lun	17933
 H.E. Mr. Leonard She Okitundu Lundula	16164
 HCP. Lutte	8891
 HG Edith Lucie Bongo Odimba	15685
@@ -399,6 +407,7 @@ HON. LUCIA IIPUMBU	12984
 HOUSE OF TRAINING ATTF LUXEMBOURG	10237
 Hajji Obeid Lutale and Captain Denis Oola	8470
 Hans Henric Lundquist	15093
+Harmonisation du Droit la Lutte	17845
 Haute Autorité de Lutte Contre la Corruption	11905
 Health Minister Esperance Luvindao	13141
 Heng Lu	9613,301,1,77,1809,11,1,2352
@@ -431,6 +440,7 @@ Huíla Luanda Lunda Norte	10766
 Huíla Luanda Lunda Norte Lunda Sul	10766
 Huíla Province Lu	11418
 Huíla Province Lua	11418
+Hôpital Mère-Enfant Le Luxembourg	17882,147
 I Emery Patrice LUMUMBA	15379
 IA Luanda	6895,1735
 ICT Minister Lumumba Pays Courtesy Visit	4608
@@ -452,6 +462,7 @@ Inkosi Albert Luthuli International Convention Centre	9959,1316
 Insights After the Learning Visit The Lusaka	13070
 Instituições Sem Fins Lucrativos	9441
 Institution Jordan Eng. Luma Arabiyat Director	2958
+Institutions Sans But Lucratifs	17945
 Int J Tuberc Lung Dis	10784
 Inter Luxury Hotel The Africa-BB-Maps National	14035
 Inter-états de Lutte	16621
@@ -583,7 +594,7 @@ LUTTE CONTRE LES ANTIVALEURS MINISTERE	15660
 LUTTE CONTRE LES ZOONOSES	15999
 LUWSP	17257
 LUX DEV	15639
-LUXEMBOURG	643,3144
+LUXEMBOURG	643,3144,14095
 LUXOFANIA LA ENCARGADO DE DIPLOMAT	4209
 LUZ DA NOVA LEI DE IDENTIFICAÇÃO	12784
 LUÍS MACHAVA	15291
@@ -820,6 +831,7 @@ Luc Missidimbazi. Note the DG	6033
 Luc Okalobé	11344
 Luc Olivier	15524
 Luc Pascal	15901
+Luc SAYE Secrétaire	17833
 Luc Séraphin	15615
 Luca DELLA ROCCA	15426
 Luca DELLA ROCCA Coordonnées G.P.S X	15426
@@ -1121,7 +1133,7 @@ Luna-Reyes	2093,3
 Lunar Economy and International Cooperation	6628
 Lunartech Solutions	8975
 Lunate AI	9561
-Lunch	16545
+Lunch	16545,1494
 Lunch Break	5241,11863,213
 Lunch Voucher	14835
 Lunching Ceremony	16970
@@ -1166,7 +1178,7 @@ Lundas.92 The Huawei	9399
 Lundazi	13611
 Lundberg and Lee	7790
 Lundh	778
-Lundi	2261,85,90,220,133,996,33,853,289,1083,413,601,872,523,250,2620,352,164,3741,58,59,297,358,111,1048
+Lundi	2261,85,90,220,133,996,33,853,289,1083,413,601,872,523,250,2620,352,164,3741,58,59,297,358,111,1048,395
 Lundin	3583
 Lundin Energy AB	3583
 Lundis	8891
@@ -1315,13 +1327,15 @@ Luther Street	12345
 Lutheran Massacre	16970
 Luthuli	8022,3905
 Lutimor	8213
-Lutte	643,1300,858,595,155,136,302,668,1302,135,480,4,324,57,164,60,1567,141,515,866,440,198,7,10,11,185,457,1710,10,1,5,24,11,33,68,193,84,6,56,707,1,1,59,73,40,704,21,36,5,6,38,3,25,80,3,42,1,47,12,27,100,36,37,51,6,76,2,27,19,5,104,96,2,80,28,3,1064,10
+Lutte	643,1300,858,595,155,136,302,668,1302,135,480,4,324,57,164,60,1567,141,515,866,440,198,7,10,11,185,457,1710,10,1,5,24,11,33,68,193,84,6,56,707,1,1,59,73,40,704,21,36,5,6,38,3,25,80,3,42,1,47,12,27,100,36,37,51,6,76,2,27,19,5,104,96,2,80,28,3,1064,10,369,16,1,1,13,24,4,15,46,2,34,43,51
 Lutte Contre la Corruption	3396
 Lutte Contre la Corruption. Mais	14450
-Lutte Contre la Pauvreté	3045,10245,2467,179
+Lutte Contre la Désertification	17941
+Lutte Contre la ODHD	17842
+Lutte Contre la Pauvreté	3045,10245,2467,179,2009
 Lutte Contre la Sécheresse	16621
 Lutte Contre le Chômage Adrien NGUEMA MBA	15681
-Lutter	142,6817,2756,4066,1761,421,365
+Lutter	142,6817,2756,4066,1761,421,365,1535,19,49
 Lutzomyia	15712
 Luvaka	11485
 Luvale	10777
@@ -1338,7 +1352,7 @@ LuxDev. Mis	5882
 LuxDev. Pour le BEN	16105
 Luxbridge International Realty	15323
 Luxem-	17743
-Luxembourg	347,1924,461,872,183,715,910,322,805,28,46,36,245,44,345,87,9,92,111,541,2,2112,548,61,763,501,596,606,2,1683,76,374,24,3,6,13,408,23,181,21,32,685
+Luxembourg	347,1924,461,872,183,715,910,322,805,28,46,36,245,44,345,87,9,92,111,541,2,2112,548,61,763,501,596,606,2,1683,76,374,24,3,6,13,408,23,181,21,32,685,1039,103
 Luxembourg Agency for Development Coordination	12907
 Luxembourg Banque	15901
 Luxembourg Commission de Surveillance du Secteur	14819
@@ -1465,6 +1479,7 @@ Mheshimiwa William Vangimembe Lukuvi	6019
 Micha Bengobesaman National Economist Lucia Evang	17101
 Michael Makuei Lueth	3417,7240
 Michael Sata and Edgar Lungu. FETCH NOTE	7025
+Migrations OMLCC Observatoire Mauritanien de Lutte	17907
 Milingo Lungu	13387
 Minister Lucia Iipumbu	14382
 Minister Lumumba Lumumba	8653
@@ -1563,6 +1578,8 @@ OCLEI Office Central de Lutte	6959
 OPTIMISED BENEFICIAL OWNERSHIP DECLARATION MS. LUCINDA	11219
 OSSAKEDJOMBO KAACK Brigitte Lucette	16381
 Observatoire Pour la Lutte Contre la Corruption	15372
+Office Central de Lutte	17983
+Office Central de Lutte Contre	17872
 Official Use Only Lunch	12253
 Onatel and Lumitel. CBINet	13312,2
 Ondiyaneni and Lushini	12977
@@ -1572,6 +1589,7 @@ OpenAI's GPT-5.6 Luna	10038
 Operateur Lualaba Kolwezi Construction	15670
 Operations Bank of Zambia LUSAKA Dear Sir	12364
 Ossufo Momade and Lutero Simango	12201
+Ouguiyas MRU. Lutte	17866
 Ouverture LUN	16552
 Ouverture LUN-MER-VEN	16552
 Ouverture LUN-VEN	16552
@@ -1632,7 +1650,7 @@ Programa Nacional de Lucha Contra	4209
 Programa de Lucha Contra	4209
 Programas de Lucha	4209
 Programme National Intégré de Lutte	13374,68,71
-Programme National de Lutte	11599,1961,882,180,801,52,210,737,205
+Programme National de Lutte	11599,1961,882,180,801,52,210,737,205,1218,37,63
 Programme Nationale de Lutte	13377
 Programme Santé de Lutte	15475
 Programme de Lutte	16627
@@ -1759,6 +1777,7 @@ Stella Luk	16773
 Stratégie National de Lutte Contre	3396
 Stratégie Nationale de Lutte	13725,1987,773
 Stratégie Nationale de Lutte Contre la Corruption	14450
+Stratégique de Lutte	17827
 Sudan. Luca Renda	15244
 Sudan. Luca Renda Resident Representative UNDP	15179
 Suef Faiyum Qena Giza Qalyubia Luxor	15578

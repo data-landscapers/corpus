@@ -57,7 +57,7 @@ AIC Njoro Town CYDC Data Controller	7167
 AIC Nthangathini Data Processor INST-5713297EE00 KITUI	7167
 AIC Thigio CDC Data Processor INST-70340505EC7	7167
 AIC VOI Data Controller INST-29759426E12 TAITA	7167
-AICCRA	11140,3331,80
+AICCRA	11140,3331,80,3485
 AICCRA Kenya Sidjese Makhoka	14551
 AICCRA Reporting Evidence	11140
 AICCRA Zambia Accelerator	12376
@@ -68,6 +68,7 @@ AICDI-2025-Case-studies.pdf	5618
 AICDN	11057
 AICE AFRICA LIMITED Data Controller INST-651561A499F	7167
 AICE Application	14437
+AICE2	17872
 AICEP	11428
 AICESIS	8891
 AICL-managed	9833
@@ -101,11 +102,15 @@ AICTO	3160,5485,6475,926,424
 AICloudNigeriaRead	2825
 AICoBPA	4432
 AICommons.pdf	7242
+Additional Financing AICD Africa Infrastructure Country	17862
 Aic Namuncha Local Church Data Processor	7167
 Aicha	5844
+Aicha DEMBELE	17882
 Aicha Fall	8725
 Aicha Fall Publié	7570
 Aicha Kerrouche	16171
+Aichetou Mint Decheg	17889
+Aichta DOUMBIA	17899
 Ben Aichouche Yahya EAI Bara Aissa	15690
 Ben Aichouche Yahya Unité	15690
 C08458 Lalla Aicha Youssouf Koné	1183
@@ -115,10 +120,14 @@ CASE STUDIES GUIDANCE AICDI	5618
 Cassava AiCloud	5827,6016
 Code Series AICT000	11235
 Code Series AICT400 and AICT500	11235
+Europe AICD Africa Infrastructure Country Diagnostic	17862
 Flutterwave and AICL	9833
 Head of AIC Ahmed Tantawy	15992
 Innovation Ecosystem AIC	15717
+Innovations Publications Newsletters AICCRA	18036
 Lala Aicha CHERIF Equipe	16708
+MALI Abstract The AICCRA-Mali	18036
+Mme Aicha Sidi Bouna	17881
 Mme BETY AICHATOU HABIBOU OUMANI RAPPORT	998
 Najwa Aichem Hissami Eddine	7991,369
 R SOC AICHFEET ETUDE EXPERTISE ET	16623
@@ -129,5 +138,7 @@ Statement AICT004	11235
 Statement AICT100	11235
 Statement AICT103	11235
 Statement AICT600 of Code Series AICT600	11235
+TIN AICHA	17828
 TRAVAUX SARL AICHFEET	16623
 Through AICCRA	14551
+World Bank. AICCRA	18036

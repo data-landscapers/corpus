@@ -144,7 +144,7 @@ Embakasi South	2666,76,1016,225,530,597,506,95,212,191,46,156,93,107,15,232,24,9
 Embalagem	17100
 Embalagens	17100
 Embalagens-	17100
-Emballage	14423
+Emballage	14423,3400
 Emballages	14488,1,1
 Embalmation	12496
 Embalo	11579
@@ -159,9 +159,10 @@ Embassies	13122,551,1102,54
 Embassies and High Commissions	16921
 Embassies and International Organisations	13954
 Embassies of France and Ireland	13156
-Embassy	31,79,681,2166,1995,213,699,626,364,1032,881,34,61,114,253,955,408,610,432,30,344,184,86,223,476,146,128,107,59,23,69,282,358,327,572,8,37,38,268,77,799,56,318,309,147,481
+Embassy	31,79,681,2166,1995,213,699,626,364,1032,881,34,61,114,253,955,408,610,432,30,344,184,86,223,476,146,128,107,59,23,69,282,358,327,572,8,37,38,268,77,799,56,318,309,147,481,430
 Embassy Abuja	4301
 Embassy Asmara	14045
+Embassy Bamako	17883
 Embassy Kingdom	13358
 Embassy Libreville	1560
 Embassy Office	12898
@@ -175,7 +176,7 @@ Embassy of Canada	9043,232
 Embassy of Finland	1016,9576
 Embassy of France	13312,2
 Embassy of Germany	16730
-Embassy of India	10780,2964,47,2465,984
+Embassy of India	10780,2964,47,2465,984,776
 Embassy of India Algiers	16331
 Embassy of India Algiers INDIA-ALGERIA RELATIONS Diplomatic	16331
 Embassy of India Harare Press Release Embassy	13509
@@ -193,7 +194,7 @@ Embassy of Zambia	4365
 Embassy's Economic Section	10177
 Embassy. Approximately	16275
 Embassy. Similarly	16275
-Embed	899,59,1519,1649,722,1946,38,115,204,445,3410,130,4,9,7,796,447,638,1637,73,71,179,247,716,1007,8,389,30
+Embed	899,59,1519,1649,722,1946,38,115,204,445,3410,130,4,9,7,796,447,638,1637,73,71,179,247,716,1007,8,389,30,512
 Embed AI	4126,402,2304,116,190,13,397,203,3405,1356,2054
 Embed Accountability and Monitoring	11285
 Embed MPI	15244
@@ -231,6 +232,7 @@ Embiveni Biggest Braai	4866
 Emblem	15901
 Emblème	15901
 Embodied	5487
+Embolie Hémorragie	17843
 Embora	2816,518,559,10,1199,2633,758,2273,11,599,11,7,42,12,75,39,7,4778,673,73
 Embosi Primary	12977
 Emboss	14741
@@ -359,6 +361,7 @@ Recepcionista Embajada A2	4209
 Recepcionista Embajada A3	4209
 Representing the German Embassy	6013
 Robotics and Embedded Systems	15718
+Royal Danish Embassy	17870
 Royal Embassy of Denmark	7886
 Royal Norwegian Embassy	4767,7408,1782,1165
 Royal Norwegian Embassy S1-S8	12175

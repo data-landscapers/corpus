@@ -16,6 +16,8 @@ Cabinet MEPSIR INS Comité	15580
 Cabinet MEPSIR INS DEP	15580
 Cabinet MEPSIR INS Hypothèse	15580
 Centre INS Institut National	16104
+Cet INS	17882
+Consommation INS	17842
 DEP INS CASP DEP	15580
 DEP MPFIFD INS	15580
 Directeurs Généraux des INS	16250
@@ -71,6 +73,7 @@ INS INS Gouvernement A3O2	15580
 INS INS Hypothèse	15580
 INS INS Nombre	15580
 INS Institut	15724,896
+INS Institut National	17870
 INS Institut National de Statistique	11944
 INS Instituto Nacional de Saúde INTIC National	4214
 INS Jalashwa	13744
@@ -92,6 +95,7 @@ INS Toutes	15580
 INS de Guinée	16250
 INS des Etats	16250
 INS- SODE	2342
+INS- TAT	17978
 INS. Banque des Etats	11944
 INS. Cependant	15599
 INS. Cet	16416

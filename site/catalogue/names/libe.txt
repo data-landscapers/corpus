@@ -126,6 +126,7 @@ CEO of Orange Money Liberia	4285
 CERC Central Bank of Liberia CII Contingent	16144
 CHAPTER ELEVEN CO-OPERATION IN TRADE LIBERALISATION	14409
 CIO Council The President of Liberia	16872,103
+CL Civil Liberties	17967
 CO-OPERATION IN TRADE LIBERALIZATION AND DEVELOPMENT	14409
 CO2-eq Liberia	17140
 CODE G LIBELLE TYPE GESTIONNAIRE ACTIVITE LIBELLE	16623
@@ -188,7 +189,7 @@ Chief Justice of Liberia	16943
 Childbearing LPHC Liberia Population and Housing Census	16950
 Chimkwita Her Liberty	5851,660,853
 China's People's Liberation Army	7870
-Civil Liberties	2518,12824
+Civil Liberties	2518,12824,2625
 Civil Liberties for Women	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Civil Liberties for Women Absence of Violence	10759
 Civil Liberties for Women. Worst	11887
@@ -196,6 +197,7 @@ Civil Servant Association of Liberia	16985
 Climate Change Institutional Assessment for Liberia	16949
 Climate Change LATA Liberia Agriculture Transformation	17140
 Climate Liberia	17114
+Code LIBELLES Montants	18032
 Collection Liberia	16144
 Combat Cyber Crime Liberia	1777
 Combat Cybercrime. Liberia National	1777
@@ -204,12 +206,14 @@ Combatentes da Liberdade da Pátria Ministério da Economia	11569
 Commercial Code of Liberia	14206
 Commission LIBERIA ELECTRICITY REGULATORY COMMISSION Annual	16978
 Commission of Informatics and Liberties	3536
+Commune de Liberté Dembaya	17819
 Company IMFC Liberia Insurance Commission IPS	17235
 Comparison of Liberian and World Bank Requirements	17114
 Completed Drop-out Liberia Male Female Urban	16921
 Completed LiberTrace	16853
 Composition of Liberia	17011
 Comprehensive Cybercrime Liberia	1777
+Compte Libellé	17972
 Conclusion The Liberia Annual Agriculture Survey	17043
 Conduct Liberia	16971
 Connectivity Liberia	5244
@@ -259,6 +263,8 @@ DHIS2. Liberia	4202
 DONE BY THE LIBERIA TELECOMMUNICATIONS AUTHORITY	4610
 DPI. Related Posts Liberia	10293
 DRAFT NATIONAL DATA GOVERNANCE POLICY LIBERIA	5244
+DROITS ET LIBERTÉ DE L’INVESTISSEUR Sous	17898
+DROITS ET LIBERTÉS	17898
 DU CONSEIL SUPERIEUR DE LA LIBERTE	15405
 Data Liberia	1777
 Data Protection Agency of Liberia	16949
@@ -555,6 +561,8 @@ Key Targets Liberia Posts	16975
 Know Your Taxes Week.’ Liberia Revenue	17011
 L LIBERALIZATION	14879
 L Liberalization	16872
+LA LIBERTE DE PRESTATIONS DE SERVICES	17829
+LA LIBERTE D’EXERCICE DU COMMERCE ELECTRONIQUE	17829
 LA PROMOTION DES LIBERTES PUBLIQUES ET	15999
 LAAPS Liberia Annual Agriculture Production Survey	17043
 LACC Liberia Anti-Corruption Commission LRA Liberia	16949
@@ -567,6 +575,7 @@ LEC Liberia Electricity Corporation LGA Local	17114
 LEC Liberia Electricity Corporation LREN Liberia	1777
 LEGISLATION REFERENCED IN LIBERIAN LEGALITY DEFINITION	16843
 LGA Local Government Act LIPA Liberia	16970
+LIBELES	18032
 LIBELLE	15999
 LIBELLE Améliorer	15999
 LIBELLE Autres Services	15999
@@ -576,6 +585,7 @@ LIBELLE DE LA RECETTE Droits	15999
 LIBELLE DE LA RECETTE FONDS	15999
 LIBELLE DE LA RECETTE Frais	15999
 LIBELLE DEVELOPPEMENT DES	15999
+LIBELLE LFR	17972
 LIBELLE NOMBRE DE PL A SORTIR	10975
 LIBELLE OBJECTF	15999
 LIBELLE OBJECTF INDICATEUR AE	15999
@@ -583,6 +593,8 @@ LIBELLE PREVISIONS REAJUSTEES	15426
 LIBELLE RAR GLOBAL MONTANT RAR RECOUVRES	16328
 LIBELLE SECTION	15999
 LIBELLES	16714
+LIBELLES Amort	18032
+LIBELLES N1A ENGAGEMENT DE FINANCEMENT	18032
 LIBELLÉ Prévision	10712
 LIBENERGY	16978
 LIBERALES DU GOUVERNEMENT	15399
@@ -651,6 +663,8 @@ LIBERIA’S SECOND FOREST REFERENCE LEVEL SUBMISSION	17140
 LIBERIA’S VISION FOR ICT	16872
 LIBERTAÇÃO DE CRÉDITOS DE FUNDOS AUTÓNOMOS	17100
 LIBERTAÇÃO DE CRÉDITOS DE INSTITUIÇÕES NÃO	17100
+LIBERTE DE MBAYA	17828
+LIBERTE ET AGREMENT DES	17819
 LIBERTES ET DEVOIRS DES CITOYENS Article	15405
 LIBERTÉS ET DÉMOCRATIE	5478
 LICENSING Liberia	16843
@@ -690,7 +704,7 @@ Libe Mohale	9304
 Libe-	17367
 Libelia. All	16851
 Libelles TVA IS IRPP Droits	16328
-Libellé	10876,2514
+Libellé	10876,2514,4588,99
 Libellé Factures Janvier	10975
 Libellé Nombre	10975,2349
 Libellé Poids	16708
@@ -735,7 +749,7 @@ Liberdades	11367,26
 Liberdades Fundamentais da Pessoa	12820
 Liberee HABIMANA Emmanuel NIYOYITA Thacienne HABINEZA	12445
 Liberi	16876
-Liberia	31,77,128,163,114,187,4,117,112,80,32,1,95,1,122,92,16,93,72,3,3,104,130,133,342,204,29,63,21,108,5,84,4,176,51,11,81,6,142,48,153,32,167,8,76,265,131,59,26,10,13,36,11,10,3,141,128,29,27,9,12,20,23,64,71,8,23,38,34,34,52,62,169,15,107,11,33,5,33,42,19,35,51,101,11,74,43,194,21,31,8,103,28,8,30,9,130,10,142,11,60,43,51,22,82,34,66,76,219,28,15,63,117,42,33,24,106,1,1,74,16,13,1,1,28,76,275,49,1,44,198,181,181,48,1,31,25,1,94,81,52,74,49,1,126,210,88,13,1,1,1,90,62,56,1,82,103,81,95,44,27,52,1,59,1,1,1,38,38,66,31,13,10,7,33,74,41,5,21,50,3,18,28,84,86,62,24,405,27,37,101,10,26,121,3,16,1,2,30,173,61,1,9,33,60,85,11,1,23,9,103,235,319,328,18,180,113,32,225,103,5,52,33,58,17,6,6,56,44,7,10,4,6,9,293,60,17,700,47,40,112,256,265,44,13,40,435,18,11,66,59,2,1,2,5,1,2,5,1,1,1,2,4,3,10,2,4,2,12,1,5,12,13,1,12,1,8,4,2,1,10,1,2,7,1,4,3,5,1,1,8,6,1,11,3,2,3,2,4,12,6,4,8,2,2,9,2,5,3,1,5,6,2,7,7,4,4,2,1,2,4,4,11,1,1,2,3,4,2,2,2,4,1,3,2,2,6,7,3,4,3,1,7,5,4,6,1,17,2,2,4,16,1,1,1,2,6,8,6,9,5,1,1,10,5,9,3,1,10,12,4,14,1,1,1,3,5,1,4,11,3,1,3,6,12,3,119,22,8,141,34
+Liberia	31,77,128,163,114,187,4,117,112,80,32,1,95,1,122,92,16,93,72,3,3,104,130,133,342,204,29,63,21,108,5,84,4,176,51,11,81,6,142,48,153,32,167,8,76,265,131,59,26,10,13,36,11,10,3,141,128,29,27,9,12,20,23,64,71,8,23,38,34,34,52,62,169,15,107,11,33,5,33,42,19,35,51,101,11,74,43,194,21,31,8,103,28,8,30,9,130,10,142,11,60,43,51,22,82,34,66,76,219,28,15,63,117,42,33,24,106,1,1,74,16,13,1,1,28,76,275,49,1,44,198,181,181,48,1,31,25,1,94,81,52,74,49,1,126,210,88,13,1,1,1,90,62,56,1,82,103,81,95,44,27,52,1,59,1,1,1,38,38,66,31,13,10,7,33,74,41,5,21,50,3,18,28,84,86,62,24,405,27,37,101,10,26,121,3,16,1,2,30,173,61,1,9,33,60,85,11,1,23,9,103,235,319,328,18,180,113,32,225,103,5,52,33,58,17,6,6,56,44,7,10,4,6,9,293,60,17,700,47,40,112,256,265,44,13,40,435,18,11,66,59,2,1,2,5,1,2,5,1,1,1,2,4,3,10,2,4,2,12,1,5,12,13,1,12,1,8,4,2,1,10,1,2,7,1,4,3,5,1,1,8,6,1,11,3,2,3,2,4,12,6,4,8,2,2,9,2,5,3,1,5,6,2,7,7,4,4,2,1,2,4,4,11,1,1,2,3,4,2,2,2,4,1,3,2,2,6,7,3,4,3,1,7,5,4,6,1,17,2,2,4,16,1,1,1,2,6,8,6,9,5,1,1,10,5,9,3,1,10,12,4,14,1,1,1,3,5,1,4,11,3,1,3,6,12,3,119,22,8,141,34,90,29,74,155
 Liberia 2012 Revised Youth Policy Presentation.pdf	16872
 Liberia 76 V. Evaluating Progress Towards Reducing	17257
 Liberia AFR LI	17743
@@ -1696,7 +1710,7 @@ Liberty Life Eswatini	11131,3
 Liberty Life Swaziland Limited	12348
 Liberty and Security	11935,2807
 Liberty. Every	12891
-Liberté	1231,1735,10476,277,705,75,528,402,546
+Liberté	1231,1735,10476,277,705,75,528,402,546,1844,14
 Liberté Internet	7215
 Liberté. Après	8269
 Libertés	1296,766,387,667,280,979,3395,1121,1921,9,1,2887,72,631,1,26,53,2,42,1,12,33,1,40,12,986,18,306
@@ -1827,6 +1841,7 @@ Nigeria and Liberia	16876
 Nigeria. In Liberia	11867
 Nimba County LIBERIA ELECTRICITY REGULATORY COMMISSION	16978
 Nimba Hills. Liberia	17140
+Nomenclature Libellé Droits	17972
 Non Forest. Liberia	17140
 Non-African Other Liberian Ethnic Group Sapo	16921
 Non-Forest. Liberia	17140
@@ -1935,6 +1950,7 @@ Project Description The Liberia	17114
 Project Effective Date. Liberia	16144
 Project LISGS Liberia Institute of Statistics	17140
 Promoting Liberia	17011
+Proposition de Répartition Code LIBELLES	18032
 Protect Liberia’s Historical Heritage	10405
 Province Territoire Libelle	15670
 Province Ville Libelle	15670
@@ -2093,7 +2109,7 @@ Shaping the Future of Liberia’s Telecom Sector Moderator	17070
 Sharing Liberia	10408
 Sierra Leone Guinea Liberia Nigeria SSA	16876
 Sierra Leone Liberia Ghana Gambia Cote	16876
-Sierra Leone and Liberia	513,751,383,15467
+Sierra Leone and Liberia	513,751,383,15467,748
 Sierra Leone and Liberia. CTO	7286
 Signals Digital Government Shift Liberian Observer	5994
 Smart Liberia	16876

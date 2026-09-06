@@ -123,6 +123,8 @@ DGSP GENDARMERIE	16100
 DHA Gender-based Violence and Femicide Plan	11986
 DHA Gender-based Violence and Femicide Plan Insufficient	11986
 DHA Gender-based Violence and Femicide Plan Output	11986
+DIALLO DIRECTION GENERALE DE LA GENDARMERIE	17828
+DIRECTION GENERALE DE LA GENDARMERIE NATIONALE	17828
 Daily Weekly The Mobile Gender Gap	11964
 Data Dissemination Standards GBVIMS Gender Based	13359
 Data Gender-Responsive Planning	13349
@@ -160,6 +162,7 @@ Directorate of Gender Equality and Women Empowerment DHS	16951
 Directorates of Gender Equality	16951
 Directorates of Gender Mainstreaming	13391
 Directorates of Planning and Gender Equality	16951
+Disaster Development and Preparedness Gender FY17	17962
 Division and Ministry of Gender	12978
 Domestic Product GBV Gender-Based Violence IIAG	17139
 E. Gender	11549
@@ -172,6 +175,7 @@ EU Gender Action Plan	789
 EU Gender Action Plan III	789
 Editors The Mobile Gender Gap Report	11003
 Education and Gender Representative	13310
+Effectively They Tackle the Gender Gap	17870
 Elimination of Gender Based Violence	14742
 Elimination of Gender-Based Violence	14742,9
 Embrace Gender Diversity	2668
@@ -232,7 +236,7 @@ GENDARMERIE NATIONALE Décret	15901
 GENDARMERIE NATIONALE SECTION	16100
 GENDARMERIE NATIONALE STRUCTURES RATTACHEES	16100
 GENDARMERIE NATIONALE Sous-lieutenants	15901
-GENDER	11986,1068,420
+GENDER	11986,1068,420,4396
 GENDER ANALYSIS AND ACTION PLAN	13938
 GENDER ANALYSIS AND PROPOSED ACTIONS	16144
 GENDER ANALYSIS AND PROPOSED ACTIONS BARRIERS	16144
@@ -268,6 +272,7 @@ GENDER-BASED VIOLENCE	13399
 GENDER-BASED VIOLENCE AND FEMICIDE	11986
 GENDER-ENERGY NEXUS Access	11572
 GENDRE OU	13300
+GENERAL ADJOINT DE LA GENDARMERIE NATIONALE	17861
 GEWE Gender Equality and Women’s Empowerment KPI	14935
 GHG Gender-Based Violence GIZ Gross Domestic	10964
 GN Gendarmerie	13725
@@ -287,19 +292,21 @@ Gambia. A Gender Dimension Study	16951
 Gend2e0r2g0ap	11964
 Gendana Konti	15023
 Gendarme de Primera Marinero de Primera Soldado de Primera	4209
-Gendarmerie	4960,947,1052,2591,486,101,738,3778,752,198,396,48
+Gendarmerie	4960,947,1052,2591,486,101,738,3778,752,198,396,48,1780,1,33,121,50
 Gendarmerie CTSC	15901
 Gendarmerie Capitaine	15901
 Gendarmerie Education	6959
 Gendarmerie Nationale	3604,816,10233,819,83
 Gendarmerie Nationale Taux	15999
+Gendarmerie Nationale. Général Kafougouna KONE Article	17817
 Gendarmerie Sous-lieutenant ONTIANTSONI	15901
+Gendarmerie Vu la Loi	17828
 Gendarmería	4209,7424,5613
 Gendarmería Nacional	11633
-Gender	322,249,218,151,21,9,291,23,583,10,63,48,181,122,445,143,577,31,75,42,187,70,578,89,355,89,242,32,239,28,20,18,988,113,96,198,716,207,17,265,453,100,332,167,58,280,75,156,437,505,51,3,7,54,15,26,93,1,12,1,27,129,9,38,13,2,23,199,108,32,193,107,4,2,11,5,2,1,20,3,11,2,6,40,1,6,15,64,40,56,53,11,4,6,33,28,16,31,18,53,4,6,17,49,37,39,91,190,107,7,18,13,1,9,18,11,38,26,15,2,88,110,36,1,11,6,9,33,27,447,73,41,17,27,10,561,125,15,13,28,44,16,16,44,1,20,6,23,13,39,118,15,6,288,49,38,3,4,35,48,3,55,2,2,25,37,6,114,299,109,13,170,239,177,9,11,2,4,9,15,14,28,3,2,2,1,14,4,5,10,11,22,81,2,4,9,13,12,96,25,25,156,29,106
+Gender	322,249,218,151,21,9,291,23,583,10,63,48,181,122,445,143,577,31,75,42,187,70,578,89,355,89,242,32,239,28,20,18,988,113,96,198,716,207,17,265,453,100,332,167,58,280,75,156,437,505,51,3,7,54,15,26,93,1,12,1,27,129,9,38,13,2,23,199,108,32,193,107,4,2,11,5,2,1,20,3,11,2,6,40,1,6,15,64,40,56,53,11,4,6,33,28,16,31,18,53,4,6,17,49,37,39,91,190,107,7,18,13,1,9,18,11,38,26,15,2,88,110,36,1,11,6,9,33,27,447,73,41,17,27,10,561,125,15,13,28,44,16,16,44,1,20,6,23,13,39,118,15,6,288,49,38,3,4,35,48,3,55,2,2,25,37,6,114,299,109,13,170,239,177,9,11,2,4,9,15,14,28,3,2,2,1,14,4,5,10,11,22,81,2,4,9,13,12,96,25,25,156,29,106,294,23,69,8,1
 Gender Access	11857
 Gender Action Learning System	13936
-Gender Action Plan	11863,1913,3338
+Gender Action Plan	11863,1913,3338,848
 Gender Action Plan GBV Gender-Based Violence	17114
 Gender Action Plan PROJECT TITLE	13938
 Gender Action Plan of SOFF	16947
@@ -352,7 +359,7 @@ Gender Data Portal Explore the Women	16260,988,4
 Gender Data Portal. Data	16260,988,4
 Gender Data Portal. Retrieved	16144
 Gender Development Fund	12946
-Gender Development Index	15553
+Gender Development Index	15553,2409
 Gender Development Index of Sudan	14897
 Gender Dimension	15473
 Gender Direct Female Total TKP	15663
@@ -407,6 +414,7 @@ Gender Equity Gender	5244
 Gender Equity and Equality Act No	1988
 Gender Equity and Equality Commission	10216
 Gender Equity and Equality The Bureau	13005
+Gender Equity and Equality and U.S. Women	17883
 Gender Eradication of Economic Security	970
 Gender Expenditure	10870
 Gender Expert	11863
@@ -415,6 +423,7 @@ Gender Female	9129
 Gender Female Male	12399
 Gender Figure	14775
 Gender Focal Points	14742,2209
+Gender Focus	17870
 Gender Gap	11004,853,45,62,425,4487,99
 Gender Gap Analysis	11380
 Gender Gap Analysis and Entry Points	15515
@@ -433,7 +442,7 @@ Gender Index	643,11220
 Gender Index. Paris	15604
 Gender Inequalities Index	16951
 Gender Inequality	13332
-Gender Inequality Index	10829,757,1728,1722,479,143,3,64,659,565,17
+Gender Inequality Index	10829,757,1728,1722,479,143,3,64,659,565,17,996
 Gender Inequality Index GMD	16951
 Gender Inequality Index Government of Congo Green	15553
 Gender Inequality Index UN Human Development	11004,960
@@ -443,7 +452,7 @@ Gender Inequality Index. Human Development Reports	15725
 Gender Inequality Index.15	13331
 Gender Inequality Index.17 Gender	15658
 Gender Inequity Governance Weakness Women	12457
-Gender Innovation Lab	15658
+Gender Innovation Lab	15658,2191
 Gender Innovation Lab Policy Brief No	10964
 Gender Issues Gender	13420
 Gender Justice Unit	2993
@@ -472,7 +481,7 @@ Gender Monthly	12253
 Gender Neutrality	16266
 Gender Officer	13938
 Gender Opinions	12409
-Gender Parity	12053,358,3855
+Gender Parity	12053,358,3855,1692
 Gender Parity Index	12199,2717,688,57
 Gender Parity Index ICT	12175
 Gender Parity Index IDA International Development	14896
@@ -588,7 +597,7 @@ Gender- Based Violence	17099
 Gender- High Lack	11916
 Gender-Action-Plan 2020-2023	16947
 Gender-Based Budgeting	16944
-Gender-Based Violence	1228,5721,2,4279,187,1359,201,497,1268,313,498,106,1292,148,15,472
+Gender-Based Violence	1228,5721,2,4279,187,1359,201,497,1268,313,498,106,1292,148,15,472,376
 Gender-Based Violence GDP Gross Domestic Product	16896
 Gender-Based Violence GIPM	14760
 Gender-Based Violence GPEI	10776
@@ -639,7 +648,7 @@ Gender. The Project	15411
 Gender. Women	15658
 GenderEquality	11332
 GenderStrategy	9516
-Gendered	1237,3804,2749,156
+Gendered	1237,3804,2749,156,9924
 Gendered Consequences	4443
 Gendered Impact of Cash Transfers	15663
 Gendered Realities of Digital Inclusion	17771
@@ -651,6 +660,7 @@ Generative AI and Gender	16266
 Ghana's Minister for Gender	6148
 Global Gender Gap	13433
 Global Gender Gap Index	789,2667,8943,2598,728
+Global Gender Gap Index. Boys	17870
 Global Gender Gap Report	11965
 Global Gender Gap Report. Page	3456
 Good Governance and Gender Equality	644
@@ -702,6 +712,7 @@ KICTANet’s Gender and Digital Rights Advisor	7990
 KL STRUCTURES RATTACHEES V- GENDARMERIE NATIONALE	16100
 Key Components for Gender Mainstreaming	5244
 LA GENDARMERIE NATIONALE	14450
+LA GENDARMERIE NATIONALE DU MALI	17828
 LDCs. The Mobile Gender Gap Report	11004
 LMICs Gender	11004
 La Gendarmería	11633
@@ -714,6 +725,7 @@ Level of Study and Gender	14775
 Local Governments Gender Advocacy Strategy	14925
 MAINSTREAMING GENDER AND FAMILY PROMOTION Rwanda	14935
 MAINSTREAMING GENDER AND WOMEN IN ICT	16872
+MALI DIRECTION GENERALE DE LA GENDARMERIE	17828
 MEDIUM for Gender-Responsive Planning	13990
 MGCSP Ministry of Gender	17289
 MIGEPROF Ministry of Gender and Family Promotion MINAGRI	14935
@@ -726,6 +738,7 @@ MOBILE GENDER GAP	11902
 MOBSE Gender Unit	16951
 Mainstreaming Gender Equality and Social Inclusion	14935
 Mainstreaming Gender and Women	16872
+Mali Digital Economy Diagnostic Gender	17870
 Management FY Fiscal Year GBV Gender-Based	15518
 Mauritius. Accelerators of Progress Gender Equality Systemic	11332
 Mauritius’ National Gender Policy	14761
@@ -808,6 +821,8 @@ Nyandarua County Assistant Director for Gender	11086
 Nyandarua County Assistant Director for Gender Immaculate	11086
 OTHERS TOTAL Gender	14761
 OUTPUT Reducing Digital Gender Divide	13095
+Officier de Gendar-	17812
+Officier de Gendarmerie	17812
 Once SG3 SO3 Gender	17116
 Outside of Lomé Gender	5679
 Overview Gender	14572
@@ -962,7 +977,7 @@ Women’s Empowerment and Gender Equality	11193
 Workplace Gender Steering Committee	6946
 World Bank Gender Assessment	13332
 World Bank Gender Data Portal	15658,486,116,988,4
-World Bank Gender Strategy	1867,14517
+World Bank Gender Strategy	1867,14517,1578
 World Bank Group Gender Strategy FY16	10964
 World Bank Group Gender Strategy. PASEL	15659
 World Bank Regional Gender Action Plan	16896,26

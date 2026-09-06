@@ -1,6 +1,7 @@
 A. Paletti	5349,351
 ADMON. PALACIOS Y RESID. MALABO	4209
 ADMON. PALACIOS Y RESID. REG. CONT	4209
+AGENCE DE GESTION DES PALAIS	17972
 ALEXANDRIA CANCER CENTRE AND PALLIATIVE CARE	7167
 AMBENDZA NDIN- Atlantic Palace	15901
 ANPFI Philippe Palenfo	8061
@@ -30,6 +31,7 @@ Cerebral Palsy and Hydrocephalus	12373
 Cerebras and Palo Alto Networks	1843
 Chiefs Palace	13477
 Chiefs Palace ECZ Board Chairperson Professor	13477
+Classe Palier	18003
 Cocoa Oil Palm Rubber Sugar Cane	17043
 Comparing the Palmer	17157
 Consumption of Red Palm	17127
@@ -56,6 +58,7 @@ Dr. Palokinam T. Pitche	7452
 DÉCLARATION POUR REFERENCE POUR PALUDISME GRAVE	13300
 EAGLE PALACE HOTEL LIMITED Data Controller	7167
 EAGLE PALACE HOTEL LIMITED Data Processor	7167
+ENTREPRISES Palais des Congrès de Bamako	18032
 ET INTENDANCE GÉNÉRALE DES PALAIS PRÉSIDENTIELS	16381
 ET PALUDISME. REFUS	13300
 ET TRANSMISSION PALU ET TRANSMISSION PALU	13300
@@ -114,6 +117,8 @@ L Palais	15584
 LAS PALMAS	4209
 LE TEST DE PALUDISME AU	13300
 LEBIKI PALET	16177
+Las Palmas	17835
+Le Palais	18088
 Le Palais Léon Mba	16382
 Le Palais des Congrès de Cotonou	2855
 Livre. Palais	15584
@@ -168,6 +173,7 @@ PALEA N	4209
 PALEA-Co1n2cepto	4209
 PALEKA	12557
 PALEXPO INTERNATIONAL EXHIBITION AND CONVENTION	12760
+PALIER D'INTEGRATION CATEGORIE	18003
 PALMAFRIQUE	2342
 PALME	13300
 PALMES	13300
@@ -205,8 +211,9 @@ Palacio de Justicia de Bata Malabo	4209
 Palacio de Justicia de Malabo	4209
 Palacios-Pacheco	9128
 Palaearctic and Nearctic	17114
-Palais	2808,34,203,630,124,1024,134,148,990,67,1171,222,170,544,618,1126,905,131,987,43,1326,343,72,668,66,934,96,173,26,190,28,98,76,148,39,19
+Palais	2808,34,203,630,124,1024,134,148,990,67,1171,222,170,544,618,1126,905,131,987,43,1326,343,72,668,66,934,96,173,26,190,28,98,76,148,39,19,1443
 Palais Audience	4899
+Palais Moyennes Entreprises	18032
 Palais Ntare Rushatsi Le Chef	13405
 Palais Ntare Rushatsi Présentation	13405
 Palais Royal du Chef de Canton de Tahoua	9567
@@ -217,10 +224,11 @@ Palais de Ia Nation. Avenue Roi Baudouin	15584
 Palais de Justice	16258,1420
 Palais de Justice du Tanganyika	15783
 Palais de Justice du Tanganyika Photo PNUD-RDC	15783
-Palais de Koulouba	7843,394,1050,55
+Palais de Koulouba	7843,394,1050,55,8578,29,42,56
 Palais de Tsimbazaza	14499
 Palais des Anges Transport	16545
-Palais des Congrès	3341,2137,6219,3885,754,198
+Palais des Congrès	3341,2137,6219,3885,754,198,1413
+Palais des Congrès de Bamako	18032
 Palais des Congrès de Cotonou	15583
 Palais des Congrès de Kigobe	13525
 Palais des Congrès de Lomé	11067
@@ -228,7 +236,7 @@ Palais des Congrès de Niamey	2556,785,210,1106,1302,1374
 Palais des Congrès de Niamey. Cette	998
 Palais des Congrès de Yaoundé	3328,6384,1263,723
 Palais des Gouverneurs	6292
-Palais des Nations	2262,7479,3301,2089,347,1149,4
+Palais des Nations	2262,7479,3301,2089,347,1149,4,1431
 Palais des Sports de Treichville LES PLUS LUS	8755,4813
 Palais du DEPAR TEMENTALES Peuple	15488
 Palais du Gouvernement	9498,98,4605
@@ -255,7 +263,7 @@ Palermo Protocol and International Labour Organization	16874
 Palesa	12679
 Palesa Mucivame	13233
 Palesa and Lethabo	12679
-Palestine	1741,3144,49,187,1152,547,1825,1527,557,112,260,84,424,3862,1970,37,265
+Palestine	1741,3144,49,187,1152,547,1825,1527,557,112,260,84,424,3862,1970,37,265,156
 Palestine ARB UMI	17743
 Palestine Monetary Authority	940
 Palestine PSE Papua New Guinea PNG	13082
@@ -276,6 +284,7 @@ Palestinienne	16249
 Palestra	6568
 Palette	10848
 Palexpo	7174,146
+Palexpo Monsieur le Secrétaire Général	18070
 Paleyes	11156
 Palgrave	8022,3006
 Palgrave Handbook of Global Health Data	12255
@@ -286,12 +295,14 @@ Palgrave Macmillan UK	12255
 Palgrave Macmillan. Disponível	2816
 Palgrave-Macmillan	17773
 Palha	10777
+Palier	18003
 Palivamwe	12478
 Pall Mall Process	10949
 Palladino	11028
 Palladium	10641,2546
 Palladium Group	16857
 Palladium Kenya	10641
+Pallawo Raymond Bernard and Dr Ouldzeidoune	17869
 Pallegama	7759
 Pallewatta	11156
 Palm Oil	17235
@@ -329,7 +340,7 @@ Palteli	11135
 Paltieli	11135
 Paltu	4432
 Paltu and Brouwers	4432
-Paludisme	737,10137,725,1701,74,139,47,1062,853,108,16,86,27,773,237
+Paludisme	737,10137,725,1701,74,139,47,1062,853,108,16,86,27,773,237,1121,39,63,148
 Paludisme Affections	15599
 Paludisme Au Burundi	13300
 Paludisme CONNAISSANCE	13300
@@ -354,6 +365,7 @@ Place of Residence Kerosine Palm	16921
 Plan Stratégique Paludisme2023-2027	14622
 Plio-Pleistocene and Palaeoenvironments	1154
 Polyclinique du Palais Le Coordonnateur National du Projet	16534
+Pour le Dr Pallawo Raymond	18075
 Presidential Palace	341
 Pro PALOP	10320
 Pro PALOP-TL ISC	3118
@@ -374,10 +386,12 @@ Robert Palacios	10812
 Roundtable for Sustainable Palm Oil	16853
 Royal Palace Hotel de Bujumbura	13689
 S.E. Presidente República Administrador General de Palacios	4209
+SERVICES ET PRESTATIONS CONCERNANT LES PALAIS	17982
 SUR LA FICHE DE TRANSMISSION PALU	13300
 San Antonio de Palé	17387
 San Francisco and Palo Alto	5224
 Sandpipers and Palaearctic	17114
+Sexe Paludisme Diarrhée Douleurs	18014
 Shapoorji Pallonji Group	13561
 Shapoorji Pallonji International	16331
 Shapoorji Pallonji Mideast	16896,26

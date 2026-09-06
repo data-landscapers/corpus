@@ -166,6 +166,8 @@ Burundi. Taxation	13312
 Business Income Tax	12445,55
 Business Income Tax DES	12445
 Business Profits Tax	16996
+Business and Paying Taxes	17870
+Business and Paying Taxes Country Starting	17870
 Business-to-Consumer Digital Assets Tax B2C	14932
 Buttress Tax Laws	17011
 C. Annual Corporate Income Tax	16955
@@ -780,6 +782,7 @@ Integrated Tax Adminstration System-ITAS	1789,1,1,1
 Integrated Tax Application and Preparation System	15629
 Integrated Tax Management DGI	11906
 Integrated Tax and Duty Management System	11001
+Integrated Tax and Income Tax Management System	17870
 Integrated Taxpayer Databases	17011
 Inter-American Center of Tax Administration	12948
 Inter-American Center of Tax Administrations	17011
@@ -1095,6 +1098,7 @@ Publish Tax Rulings Regular	17011
 Publish What You Pay and Tax Justice	12932
 Pull Out of Kenya Over Proposed Taxes	14932
 PwC’s Taxing Times Survey	8784
+Q1. Tax	17909
 QUOTA DE MERCADO E TAXA	11531
 Qualified Domestic Minimum Top-Up Tax	14828,3
 Qualified Domestic Minimum Top-up Tax	14839
@@ -1185,6 +1189,7 @@ Road Tax	1988
 Royalty Tax	14985
 Rwanda. Mobile Sector Taxation	15205
 Rwanda’s National Green Taxonomy	14997
+S1A IMPOTS ET TAXES Autres	18032
 SARS. Taxpayers	8670
 SCHEDULE AGENCY TAXES	12629
 SCHEDULE TO THE NIGERIA TAX ADMINISTRATION	11976
@@ -1339,7 +1344,11 @@ TAXE DE SEJOUR	15534
 TAXE ENVIRONNEMENTALE SUR CERTAINS PRODUITS	15999
 TAXE FONCIERE SUR	15999
 TAXE SUR LA VALEUR AJOUTEE	16020
+TAXE SUR LES BIENS ET SERVICES	17972
+TAXE SUR LES TRANSACTIONS ELECTRONIQUES Section	17972
 TAXE SUR LES TRANSFERTS DE FONDS	16047
+TAXE TERSOR	17833
+TAXE TRESOR	17833
 TAXES	15149,898,796
 TAXES DIVERSES Chapitre	16020
 TAXES DIVERSES Section	16020,27
@@ -1394,7 +1403,7 @@ Tax Administration Achievements and Challenges	10997
 Tax Administration Act	6921,2769,333,1167,43,30,13,22,1300,31,424,69,32
 Tax Administration Act TRA	13053
 Tax Administration Bill	11947
-Tax Administration Diagnostic Assessment Tool	10519,465,1516,448,1489,1596,916
+Tax Administration Diagnostic Assessment Tool	10519,465,1516,448,1489,1596,916,952
 Tax Administration Diagnostic Assessment Tool. African	13314
 Tax Administration Forum. OECD	13314
 Tax Administration Forum. Platform Sector Type	13314
@@ -1619,7 +1628,7 @@ Tax Policy Reform Prioritization Priority-Low Priority-High	13624
 Tax Policy Reforms	17011
 Tax Policy Risk	13053
 Tax Policy Risk Tax	13053
-Tax Policy Unit	13868
+Tax Policy Unit	13868,4122
 Tax Policy and Administration	11906
 Tax Policy and Legal Division Ministry of Finance	15014
 Tax Policy for Developing Countries	12385
@@ -1837,13 +1846,14 @@ Taxcore Electronic Invoicing System	13171
 Taxe Communautaire	16020
 Taxe Foncière	15797
 Taxe Forfaitaire	16020,79
+Taxe GRATUIT	17833
 Taxe L’Office Burundais des Recettes	13341
 Taxe Pollution	15936
 Taxe Professionnelle Synthétique	15797
 Taxe Spéciale	15999
 Taxe Spécifique Unique	3045,12712,40
 Taxe de Soutien	3045,12712
-Taxes	236,1582,10,646,301,940,915,50,216,421,338,508,430,121,2925,24,785,408,108,12,21,139,389,332,9,8,7,74,45,270,76,39,4,101,7,459,81,16,7,62,1,62,156,283,66,719,487,1,11,24,53,364,23,39,13,2,45,2,24,37,19,30,75,243,8,74,64,667,202,20,60,15,179,45
+Taxes	236,1582,10,646,301,940,915,50,216,421,338,508,430,121,2925,24,785,408,108,12,21,139,389,332,9,8,7,74,45,270,76,39,4,101,7,459,81,16,7,62,1,62,156,283,66,719,487,1,11,24,53,364,23,39,13,2,45,2,24,37,19,30,75,243,8,74,64,667,202,20,60,15,179,45,637,37,36,27,18
 Taxes Edmond Rafaralahy	14584
 Taxes Excise Duty	14932
 Taxes Figure	10976,1370
@@ -1869,6 +1879,7 @@ Taxing	9956,379,4426,171,65,476,1443
 Taxing Cryptocurrencies	14932
 Taxing Digital Firms	3161
 Taxing Digital Profits	14932
+Taxing Mobile Money	18063
 Taxing Property Owners	12948
 Taxing Tech	14932
 Taxing for Growth	16996

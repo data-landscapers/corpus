@@ -5,6 +5,7 @@ ALP- Female Frequency Annual Data	15661
 ANNEX III INCLUSION DES FEMMES	13433
 ANS FEMME	13300
 ASMR- Male ASMR- Female	15056
+AUTONOMISATION DES FEMMES ET DIVIDENDE DEMOGRAPHIQUE	17829
 AUTONOMISATION ECONOMIQUE DES FEMMES Renforcer	15999
 AUTRES FEMMES	13300
 AVCA Female-only	4972
@@ -16,11 +17,14 @@ Activités Rémunératrices des Femmes	6827
 Age Female Male Sex Ratio	12151
 Age Group of Police Officers Male Female	14760
 Age Male Female Total Kenya	12151
+Agriculture FEM Fonds	17907
 Alain Gashaka ONU Femmes Partnership	13547
 All Female Male Percentage Technical Report	10841
 Allied GBVF Gender Based Violence and Femicide	11986
+Ami des Femmes de Médina-Coura	17828
 Architecting Feminist Digital Futures	8713
 Assemblée Générale du Réseau des Femmes Elues Africaines	13518
+Association Benkadi des Femmes	17899
 Association des Femmes	15852
 Association des Femmes Albinos	13442
 Association des Femmes Handicapées du Burundi AFHB	13442
@@ -63,6 +67,7 @@ Catégorie Hommes Femmes Total Cadres	10975
 Caucus des Femmes	11868
 Chrétiens Musulmans Rural Urbain Hommes Femmes	16644
 Chrétiens Musulmans Urbain Rural Hommes Femmes	16644
+Collectif Commission Femmes	18032
 Completed Drop-out Liberia Male Female Urban	16921
 Copa Africana Feminina de Nações	17360,1
 County Male Female LRD USD LRD	16878
@@ -84,6 +89,7 @@ DHA Gender-based Violence and Femicide Plan	11986
 DHA Gender-based Violence and Femicide Plan Insufficient	11986
 DHA Gender-based Violence and Femicide Plan Output	11986
 DPS Female	16951
+DRH-SSDS Direction des Ressources SI-GRH la Femme	17845
 Dec-2023 Female	15663
 Deputada Maria de Lourdes Roque Caposso Femandes	539
 Digital Female Pioneers Initiative	16046
@@ -91,6 +97,7 @@ Distribution of Female MCAs	2775
 District Female Male	12413
 Distrito Masculino Femenino Akonibe	16920
 Droits des Femmes	13442
+EMOP INSTAT FEMAPH	17946
 ENSEMBLE DES FEMMES Groupe	13300
 ET DBS CHEZ LES FEMMES	13300
 ET DE LA FEMME	16175
@@ -131,7 +138,13 @@ FEMALE MALE Banks	15130
 FEMALE MALE UNKNOWN GENDER Figure	16935
 FEMALE SOCIAL MEDIA USER IDENTITIES	12214
 FEMALE STUDENTS AT SCHOOL OF SCIENCE	12358
-FEMME	13300,2480,68
+FEMAPH	17845,101
+FEMAPH Activité	17946
+FEMAPH CPS-SS DS PF	17946
+FEMAPH Résultat	17946
+FEMATH	17845
+FEMAYE KEWA	17828
+FEMME	13300,2480,68,2155
 FEMME ADULTE	13300
 FEMME DU PÈRE	13300
 FEMME ET DE LA FAMILLE	15999
@@ -148,7 +161,7 @@ FEMME SI FEMME SI FEMME SI	13300
 FEMME SÉLECTIONNÉE FEMME POUR CETTE SECTION	13300
 FEMME SÉLECTIONNÉE POUR LE MODULE SUR	13300
 FEMME-	16039
-FEMMES	13300
+FEMMES	13300,4512
 FEMMES ACTUELLEMENT EN UNION	13300
 FEMMES ACTUELLEMENT EN UNION Nombre	13300
 FEMMES ADULTES	13300
@@ -169,7 +182,7 @@ FEMoUS	14124
 FemCode Africa	16942
 FemDataSummit	8713
 FemTech	2239
-Female	582,207,151,18,196,713,226,404,215,892,187,71,130,661,35,34,1857,254,95,19,505,311,106,8,9,244,716,935,855,132,12,32,17,41,70,24,12,28,79,97,12,203,130,28,7,295,19,7,1,20,3,13,6,40,1,6,17,6,12,145,24,24,21,8,18,5,16,61,8,10,33,4,17,9,2,2,18,9,20,33,162,322,355,14,12,34,69,137,322,88,658,79,33,37,17,4,15,71,58,27,16,8,25,29,45,6,108,167,13,36,93,48,3,13,41,3,2,62,120,124,44,19,47,65,43,73,6,170,178,24,214,24,20,6,19,1,13,15,1,20,23,2,4,79,17,3,17,11,22,86,13,4,33
+Female	582,207,151,18,196,713,226,404,215,892,187,71,130,661,35,34,1857,254,95,19,505,311,106,8,9,244,716,935,855,132,12,32,17,41,70,24,12,28,79,97,12,203,130,28,7,295,19,7,1,20,3,13,6,40,1,6,17,6,12,145,24,24,21,8,18,5,16,61,8,10,33,4,17,9,2,2,18,9,20,33,162,322,355,14,12,34,69,137,322,88,658,79,33,37,17,4,15,71,58,27,16,8,25,29,45,6,108,167,13,36,93,48,3,13,41,3,2,62,120,124,44,19,47,65,43,73,6,170,178,24,214,24,20,6,19,1,13,15,1,20,23,2,4,79,17,3,17,11,22,86,13,4,33,593,26,54,4
 Female Across	12409
 Female Address	17099,15
 Female Agripreneurs	5923,191,295,107,247,33,469
@@ -209,7 +222,7 @@ Female Ghana Police	15845
 Female HH	10763
 Female Head	17127
 Female Infant	13040
-Female Internet	15617
+Female Internet	15617,2260,1
 Female Irrigation	15473
 Female Journalists Association of Liberia	16984
 Female Jun	16994
@@ -256,6 +269,7 @@ Female Social	17099
 Female Takaful	15663
 Female Total Percent Liberia	16921
 Female Unadjusted	12413
+Female Workers	17870
 Female and Male	8604
 Female-	3583
 Female-Founded Startups	4972
@@ -298,12 +312,17 @@ Femintech. Femintech	3888
 Femke de Rijk University of Oxford	9739
 Femke de Rijk1	9739
 Femm Homm Femm Homm Femm	13390
-Femme	737,2659,4007,575,174,289,942,610,144,675,64,88,1,10,969,1356,90,501,523,4,6,1,63,1,1,893,45,44,2,1,82,23,19,87,60,104,35,51,193,120,74,58,98,128,121,12
+Femme	737,2659,4007,575,174,289,942,610,144,675,64,88,1,10,969,1356,90,501,523,4,6,1,63,1,1,893,45,44,2,1,82,23,19,87,60,104,35,51,193,120,74,58,98,128,121,12,1077,10,2,12,1,3,101,57,11,33,9,21
 Femme Adulte Mixte Jeune Mixte Adulte	13390
+Femme CRLD CSCom CSRéf Centre de Recherche	17882
+Femme Cellule de Planification	17978
 Femme Conjoint PROVINCE COMMUNE Jeune Adulte	13390
 Femme Conjoint Province Commune Jeune Adulte	13390
 Femme Conjoit Jeune Adulte Jeune Adulte	13390
+Femme Conseillère Communale	17829
 Femme DELM Direction	15580
+Femme Direction Nationale	17845
+Femme Député HC	17829
 Femme Etrangers	10875
 Femme Homme	13300,2949
 Femme Homme Caractéristique Radio Télé- Journal	13300
@@ -332,10 +351,11 @@ Femme Total Indice	13300
 Femme Une	13300
 Femme VIH-positive	13300
 Femme Variations	13300
+Femme de CEDEAO Sécurité Sanitaire	17845
 Femme. Cette	16607
 Femme. Considérant	15885
 Femme. Le Chargé	15885
-Femmes	3549,1832,3510,919,1016,21,128,2315,10,90,240,533,262,145,886,44,99,121,188,22,69,13,466
+Femmes	3549,1832,3510,919,1016,21,128,2315,10,90,240,533,262,145,886,44,99,121,188,22,69,13,466,1339,53,144,18
 Femmes Adulte	13390
 Femmes Clôture	9810
 Femmes Conjoints	13390
@@ -366,6 +386,7 @@ Femmes Une	13300
 Femmes Vertes	16679
 Femmes de Côte	15936
 Femmes des Medias AU African Union CF	14935
+Femmes du Mali	17833
 Femmes-Hommes	14570
 Femmes. Suite	14425
 Femtech	2239
@@ -454,6 +475,7 @@ Implant Female Male Bomi	16971
 Individuals Individuals National Male Female	12251
 Individuals National Male Female	12251
 Indonesia Female	11004
+Information Femme	17845
 Jeune Homme Adulte Mixte Jeune Femme	13390
 Jointly Female	582
 Journée Internationale des Droits des Femmes	17501
@@ -467,10 +489,10 @@ KOURWEOGO Femmes	10847
 LA FEMME Contrôle	13300
 LA FEMME FEMME SÉLECTIONNÉE POUR	13300
 LA FEMME No QUESTIONS ET FILTRES	13300
-LA PROMOTION DE LA FEMME	14418
+LA PROMOTION DE LA FEMME	14418,3573
 LERABA Femmes	10847
 LES BALE Femmes	10847
-LES HOMMES ET LES FEMMES DERRIÈRE	16633
+LES HOMMES ET LES FEMMES DERRIÈRE	16633,1215
 LIGIBLE DERNIER OMBRE TOTAL DE FEMMES	13300
 LISEZ AU PASSÉ UNE FEMME UNE	13300
 LIVRET GENRE FEMMES ET HOMMES	14570
@@ -487,6 +509,7 @@ MALE FEMALE Age	12214
 MALE FEMALE POPULATION	12151
 MALE FEMALE The NRB	13080
 MALES VS FEMALES DEFINITIONS Adult	12409
+MALI ANNONCES ET COMMUNICATIONS Commission Femmes	18032
 MBIF Catégorie Hommes Femmes Conjoints	13390
 MOUHOUN Femmes	10847
 MUTUELLE FEMMES Enceinte SOPECO	15488
@@ -538,6 +561,7 @@ Male Female Zambia Rural Urban	12431
 Male Headed Female Headed Figure	17127
 Male and Female	12253
 Males Female Rank Cause	12413
+Mali FEMAPH	17946
 Mankayane Facility Clients Type Male Female	12977
 Manufacturing Male Female Total Water	12445
 Manzini Hhohho Female	418
@@ -566,7 +590,7 @@ Mr. Femi Akande. The NELFUND	2536
 Mr. Femi Olapegba	9444
 Mutilação Genital Feminina	11562
 N Operators Nigerian Male Nigerian Female	3862
-NA Female	12344,3916,680
+NA Female	12344,3916,680,937
 NA Female Internet	12344
 NA NA Female Internet	16940
 NA NA NA Female	16260,988,4
@@ -596,12 +620,14 @@ Niveau National Femme Homme	13390
 Number Female	15601
 Number of Female	16935
 ONECI Female	3604
-ONU Femmes	1407,8188,3730,222,25,100,1802
+ONU Femmes	1407,8188,3730,222,25,100,1802,2452
 ONU Femmes Burundi	13547,125
 ONU Femmes Entité des Nations Unies	13547
+ONU Femmes Mali	17926
 OU SI FEMME SI FEMME SI	13300
 OUBRITENGA Femmes	10847
 OUDALAN Femmes	10847
+Organisation des CPS-SS DS FEMAPH	17946
 Oui Non Homme Femme Total S6Q02	6959
 Oui Non Homme Femme Total S6Q03	6959
 Oui Non Homme Femme Total S6Q04	6959
@@ -703,8 +729,10 @@ Sexe Femme	737
 Sexe Homme Femme Mixte Age Jeune	13390
 Sexo Masculino Feminino	10777
 Size Band Male Female Total Micro	12445
+Social Femme	17845
 Somalia Female	6928
 South Sudan Female	6928
+Statistique Femme	17845
 Suite FEMMES HOMMES Caractéristique Pourcentage de Effectif	13300
 Suite FEMMES HOMMES Caractéristiques Pourcentage de Effectif	13300
 Suite Hommes Femmes Caractéristique Personne	13300

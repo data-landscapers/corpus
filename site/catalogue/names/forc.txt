@@ -1,6 +1,6 @@
 AACB Task Force	4103
 ADEA Task Force	13310
-ANALYSE DES FORCES	16195
+ANALYSE DES FORCES	16195,1687
 ANNUAL REPORT Mauritius Police Force Publication	14760
 AVCA Trade Buyers Remain Driving Force	4972
 Abolition of Forced Labor Convention	16972
@@ -14,6 +14,7 @@ Absence of Forced Migration1	11870
 Act. The Force Public Relations Officer	3383
 Action Task Force FTTH Fibre	1818
 Action Task Force Transactions Cleared	12444
+Administration Sous-officiers des Forces Armées	17899
 Agri-Food and Foreign... Tunisia’s Extreme Heatwave Forces	7322
 Agricultural Labor Force	17043
 Agricultural Labor Force Agriculture	17043
@@ -24,6 +25,7 @@ Air Force Brigadier General Jean Baptiste	16275
 Air Force Chief of Staff	16275
 Alpha Force Security	10464
 Analyse SWOT FORCES FAIBLESSES	15936
+Analyse des Forces	17860
 Anned Forces	15363
 Arab and Foreign Forces	15492
 Armed Forces	5270,4779,1468,340,2885,256,344,51,80,1366
@@ -55,6 +57,7 @@ COMPETENCES Forces Faiblesses SERVICES Forces Faiblesses	15512
 Capacity Building for Nigeria Police Force	16758
 Central Bank of Egypt Task Force	6938
 Characteristics of Outside the Labour Force	11296
+Chef de Section Hydrauli- Ministère des Forces Armées	17812
 Chef des Forces de Police Nationale	16143
 Chief of Defence Forces	9781,1894
 Chief of Staff-General Deputy of Armed Forces	16649
@@ -66,6 +69,7 @@ Conférence des Forces Vives	10712
 Congo Forces Faiblesses	15724
 Context of Forced Displaceme	10841
 Contract. ARTICLE VIII FORCE MAJEURE	13031
+Contractuels C Sous-officiers des Forces Armées	17899
 Counter-terrorism Force	7452
 Counterterrorism Force	7452
 Courses Participants Mauritius Police Force	14760
@@ -105,6 +109,7 @@ Engineering Task Force	12360
 Equipement des Forces	8321
 Eritrean Air Force	10001
 Eritrean Defense Force	14159
+Espace de Tirs Sous-officiers des Forces Armées	17899
 Establish the Incident Response Task Force	1777
 Etat-Major des Forces Armées	16370
 External Environment Scanning Forces	13005
@@ -120,16 +125,19 @@ FORCE MAJEURE	15149
 FORCE MAJEURE The Licensee	15149
 FORCED DISPLACEMENT IN WEST AND CENTRAL	17323,1
 FORCED DISPLACEMENT TO THE FEDERAL	14096
-FORCES	13306
+FORCES	13306,4595
 FORCES ARMEES CONGOLAISES	15744,157
 FORCES ARMEES CONGOLAISES B	15744
 FORCES ARMEES CONGOLAISES Commandant PAMBOU TCHICAYA	15744
 FORCES ARMEES CONGOLAISES MINISTERE	15744,157
 FORCES DE POLICE NATIONALE	16143
+FORCES DU SSN	17842
 FORCES FAIBLESSES	10712,4830
+FORCES FAIBLESSES OPPORTUNITES MENACES	17844
 FORCES X L’existence	16195
 FORCIBLY	16580
 FORCOM	12201
+FORCÉ Article	17825
 FOSA des Forces Armées Congolaises	15685
 Farmers Face Forced Relocation Zimbabwean	8943
 Female Labor Force Participation	14627,2831
@@ -147,7 +155,7 @@ Fire and Rescue Force	10460
 FoRCEMENT DE L	14479
 Food Security Task Forces	12158
 Forcas	2228
-Force	17,298,328,318,816,607,16,126,1062,273,386,55,31,235,42,129,14,1091,245,870,374,119,885,103,31,136,50,963,1093,123,98,242,869,939,123,222,12,49,1029,1,43,273,9,15,21,86,199,476,93,6,244,16,35,7,160,116,76,369,186,8,509,32
+Force	17,298,328,318,816,607,16,126,1062,273,386,55,31,235,42,129,14,1091,245,870,374,119,885,103,31,136,50,963,1093,123,98,242,869,939,123,222,12,49,1029,1,43,273,9,15,21,86,199,476,93,6,244,16,35,7,160,116,76,369,186,8,509,32,424,22,34,104
 Force ARTICLE	14409
 Force Account	17180
 Force Armée Congolaise	5103
@@ -202,17 +210,21 @@ Forced Marriage	9766
 Forced Migration Review	12227
 Forcepoint	10102
 Forcepoint Web Security	10102
-Forces	17,1950,698,651,80,24,573,1216,698,1052,3588,327,1,1,58,4408,39,98,22,11,36,32,144,3,127,82,63,196,158,104,184
+Forces	17,1950,698,651,80,24,573,1216,698,1052,3588,327,1,1,58,4408,39,98,22,11,36,32,144,3,127,82,63,196,158,104,184,1186,56,99,21
 Forces Agreement	3583
-Forces Armées	7843,394,3663,4465
+Forces Armées	7843,394,3663,4465,1463,13,4,16,21,17,9,74,1,20,29
 Forces Armées Burundaises. Pour	13329
 Forces Armées Centrafricaines FCR Financial Crime	15415
 Forces Armées Congolaises	15405
 Forces Armées Congolaises FHVE	15685
 Forces Armées Congolaises MVE	15423
+Forces Armées Vu la Loi	17982
+Forces Armées. Article	18003
+Forces Contractuel	17899
 Forces Démocratiques	15465,991
 Forces Faiblesse	10874
 Forces Faiblesses	10874,4619,1135
+Forces Faiblesses Analyse des Opportunités	17860
 Forces Faiblesses PNDIS	13306
 Forces Le Conseil	15405
 Forces Optimiser	15999
@@ -222,6 +234,7 @@ Forces de Défense	643,4661,2070,2885,233,1105,1732,913,331,1912,150,2,8,6,1020
 Forces de Défenses	15643
 Forces de Police	7940
 Forces de Police Nationale	16143
+Forces du SSN	17842
 Forces-Faiblesses	15685
 Forces-Faiblesses-Opportunités-Men-	13306
 Forces-Faiblesses-Opportunités-Menaces	10712
@@ -264,6 +277,7 @@ ICT Task Force	1257
 IDAS. The Task Force	10819
 III.1.1 FORCES	13306
 III.1.1 Forces	13306
+INSPECTION GÉNÉRALE DES FORCES ARMÉES	17972
 IR Task Force Members	12935
 IR Task Force Members Supported	12935
 IR Technologies The Task Force	12935
@@ -275,6 +289,7 @@ Inclusion Task Force	15115
 Indian Armed Forces	16331
 Indicator LFP Labor Force Participation M&E	17458
 Information System TFEMPS Task Force	13310
+Inspection des Forces	17972
 Institutional Wall and Forced Asset Sweeps	7909
 Instructed the AACB Task Force	4103
 Inter-Ministerial Task Force for Refugee-Returnees	14874
@@ -312,10 +327,13 @@ Labour Force Survey Report	1867
 Labour Force Surveys	13479
 Le Social Performance Task Force	10965
 Les Forces	15548
+Les Militaires des Forces Armées	17982
+Les Officiers des Forces Armées	17817,82
 Lesotho Defence Force	1200,11463,11
 Linguistique Appliquée FDS Forces de Défense	6959
 MHR Mauritius Police Force	14760
 Malawi Defence Force	7870,5190,62
+Malian Armed Forces	17906
 Manuel Manuel Employé Forces Autre NSP	13300
 Map of Forced Displacement	10841
 Mauritius Police Force	783,1121,463,2483,6973,2915,4,3,15,21,38,10,14,4
@@ -330,9 +348,12 @@ Mauritius Police Force The Mauritius	14760
 Mauritius. Special Mobile Force	14760
 Maxar Technologies The Armed Forces	15473
 Members of Defence Forces	12226
+Militaires des Forces Armées	17982
 Ministre des Forces	5907
+Ministère des Forces Armées	17812
 Misrata Air Force Base	11131,3
 Mobile Force	14760
+Motos Jakarta Yamaha Force X	17845
 NATIONAL DEFENCE FORCE IN SUPPORT	11289
 Namibia Defence Force	12890
 Namibia Labor Force Survey	12399
@@ -364,6 +385,7 @@ Outside Labour Force	14815,17
 Outside Labour Force Both Sexes	14832
 Outside the Labour Force	11296,3536
 POLICY FORCES THE ISSUE	12050
+PORTANT NOMINATION DE MILITAIRES DES FORCES	17828
 PROJECTS AND FORCASTS DIVISION DEPARTMENT	10980
 Pan-African Task Force	1243
 Planned Construction of Mauritius Disciplined Forces Academy	14830
@@ -401,9 +423,13 @@ SADC SR-CIRT Task Force	5780
 SADC2 and COMESA3 the Financial Action Task Force	12444
 SAF Sudanese Armed Forces	15036
 SECURITE Forces Faiblesses	15512
+SERVICES DU MINISTERE DES FORCES ARMEES	17899
 SWOT Forces	15474
+SYNTHESE DES FORCES	17842
+SYNTHÈSE DES FORCES	17842
 Security Forces	13123
 Security Forces Kill Protesters	9399
+Services du Ministère des Forces Armées	17899
 Seychelles Police Force	7760
 Sick and Shipwrecked Members of Armed Forces	14742
 Social Cohesion and Forced Displacement	1867
@@ -411,6 +437,20 @@ Social Performance Task Force	10965
 Somali Police Force	2273,470,12241
 Somali Police Force. Investigator Development Course	14899
 Somali Startup Hubs Join Forces	15239
+Sous-Officiers des Forces Armée	17899
+Sous-Officiers des Forces Armées	17899
+Sous-Officiers des Forces Eléments de Preuves Armées	17899
+Sous-officiers des Forces	17899
+Sous-officiers des Forces Armées	17899
+Sous-officiers des Forces Armées B2	17899
+Sous-officiers des Forces Chargé	17899
+Sous-officiers des Forces Contrôle	17899
+Sous-officiers des Forces Données Armées	17899
+Sous-officiers des Forces Politique de Armées	17899
+Sous-officiers des Forces Résidus	17899
+Sous-officiers des Forces Scellés Armées	17899
+Sous-officiers des Forces la Discipline Armées	17899
+Sous-officiers des Portrait-robot Forces Armées	17899
 South African National Defence Force	11289
 South Sudan People's Defence Forces	3583
 South Sudan Peoples Defence Forces	3583
@@ -461,3 +501,4 @@ Women Absence of Armed Conflict Absence of Forced	10759
 Youth Labour Force	12600
 Zambia Air Force	13472,695
 Zambian Air Force	13365
+des Forces Armées	17982,50

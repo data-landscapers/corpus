@@ -42,6 +42,7 @@ CONSIGNAÇÃO DE CÓDIGOS MMSI	11531
 CONSIGNAÇÃO DE FREQUÊNCIAS	11531
 CONSIGNAÇÃO DE RECEITAS DA TRIBUTAÇÃO	17100
 CONSIGNAÇÃO PARCIAL DA RECEITA DO VISTO	17100
+CONSISTANCE	17830
 CONSISTANCE DES PROJETS D’AMENAGEMENT	14488,1,1
 CONSISTENCY THE IMPLEMENTATION OF BROADBAND STRATEGIES	16883
 CONSTITUTION ET DE TA CONSIATATION	15429
@@ -77,7 +78,7 @@ Consider the Marshall Plan. When Europe	4258
 Consider the Mastercard	5700
 Considera	17554
 Considera-se	549,6421,4394,1,18,3,33,17,31,102,13,3776,731,1011
-Considerable	3004,7991,912,520,1634,421,378,75,31,552,1952
+Considerable	3004,7991,912,520,1634,421,378,75,31,552,1952,400
 Consideración	1701
 Considerada	3558
 Consideram	10428
@@ -86,7 +87,7 @@ Consideram-se Infra-estruturas Públicas	15380
 Considerando	13,2,152,372,205,50,907,1818,628,71,339,6197,1,15,13,577,2,1,5,1,1,1,1,1,4,1,1,2,1,1,1,9,1,3,6,6,21,1,4,5,1,2,6,6,12,53,17,24,8,449,124,3262,46,26,1,55,3,37,122,261,101,33,287,483,61,100,166
 Considerando la Evaluación	16893
 Considerar	1701,15174,272
-Consideration	34,936,1018,721,794,211,1182,349,1953,1925,1670,336,52,3,12,953,84,125,272,33,302,5,411,570,484,393,98,733,1284,445
+Consideration	34,936,1018,721,794,211,1182,349,1953,1925,1670,336,52,3,12,953,84,125,272,33,302,5,411,570,484,393,98,733,1284,445,546
 Consideration Post-Delisting	4896
 Consideration Regarding Information	11956
 Consideration Regulation M-A Item	7198
@@ -103,7 +104,7 @@ Considerações Finais A Carta Sanitária de Cabo	16019
 Considerações Metodológicas	11448
 Considered	7198,2039,920,2168,11,2335,2578,528
 Considered Measures for Communication	16885
-Considering	573,145,71,172,39,9,152,87,13,567,289,796,145,103,1271,1101,944,2646,1595,8,38,1,10,9,9,29,97,60,25,126,24,42,69,271,27,66,226,7,1,17,27,11,6,31,1,8,30,181,26,45,51,36,25,45,10,627,309,128,208,253,66,361,69,320,26,45,33,39,50,109,337,87,38,35,51,54,1,528,661,4,15,60,16,6,14,7,49,95,324,65
+Considering	573,145,71,172,39,9,152,87,13,567,289,796,145,103,1271,1101,944,2646,1595,8,38,1,10,9,9,29,97,60,25,126,24,42,69,271,27,66,226,7,1,17,27,11,6,31,1,8,30,181,26,45,51,36,25,45,10,627,309,128,208,253,66,361,69,320,26,45,33,39,50,109,337,87,38,35,51,54,1,528,661,4,15,60,16,6,14,7,49,95,324,65,406
 Considering MPSLSW	13523
 Considering the PIU	15518
 Considering the Special Investigative Unit	11986
@@ -113,10 +114,10 @@ Considerou-se	11446,131
 Considers	8605
 ConsidÈrant	15410
 ConsidÈrant la Convention	15410
-Considérant	3512,3958,5905,1041,43,41,43,67,772,17,21,6,13,3,1,12,27,6,19,38,2,11,22,19,16,17,100,12,36,19,86,16,33,243,26,44,97,1108
+Considérant	3512,3958,5905,1041,43,41,43,67,772,17,21,6,13,3,1,12,27,6,19,38,2,11,22,19,16,17,100,12,36,19,86,16,33,243,26,44,97,1108,396,41,143
 Considérants	15901
 Considérations	11139,4441,467
-Considérer	13290,2618
+Considérer	13290,2618,1928
 Considérons	5054
 Considéré	14644,911,1066
 Considérée	8501,376,6930
@@ -126,6 +127,7 @@ Consignations	7649,1351,1,5231,1179,36,1300
 Consignations de Côte	4549,78,6315
 Consignations du Bénin	15954,441
 Consignação	11531,4491
+Consigne	17846
 Consignes	2966
 Consignment	12360
 Consignments	12360,1032
@@ -137,7 +139,7 @@ Consisten	16965
 Consistency	2776,875,136,74,1626,564,5207,1279,380,120,273,10,2052,341,330,169,631,41,1,11,123,121
 Consistency and Accuracy	10723
 Consistency the Implementation of Broadband Strategies	16883
-Consistent	585,355,18,866,1759,21,47,787,782,310,1612,553,64,127,468,82,1273,146,302,561,75,192,19,130,2,13,161,271,279,6,39,47,34,566,485,23,401,71,92,61,263,493,230,76,30,387,80,128,840,224,31,164,312,27,169,118,73,37
+Consistent	585,355,18,866,1759,21,47,787,782,310,1612,553,64,127,468,82,1273,146,302,561,75,192,19,130,2,13,161,271,279,6,39,47,34,566,485,23,401,71,92,61,263,493,230,76,30,387,80,128,840,224,31,164,312,27,169,118,73,37,503
 Consistent Growth and Revenue Optimization The Gambia	13042
 Consistent Time	1009
 Consistent Time CSIR Digital Imaging and Communications	1009
@@ -206,6 +208,7 @@ Honourable Minister. Considering	11857
 I. SUR LES FAITS Considérant	15615
 IFMIS. Invoice Consistency	17547
 IHE CORE COMPONENTS Consistent	1009
+II. Considérations	17864
 IMMIGRATION AFFAIRS RESOURCE CONSIDERATIONS Programme	11986
 INFORMATION SAFETY AND CYBER-SECURITY Considering	14879
 INFORMÁTICOS Considerando	10770
@@ -217,6 +220,7 @@ Implementation Considerations for Policymakers	12048
 Include Environmental Considerations	12389
 Infolex Consilia ApS KeeeX ContentLens.ai Kolsetu	8530
 Informatikai Kft. Consilia ApS AustriaContent Moss	8530
+Information Considérant	18032
 Innovative Data Collection Technologies Under Consideration	17116
 Institutional Considerations and Coordination Several	17157
 Institutional Considerations for Sector Strengthening	13532
@@ -248,6 +252,7 @@ Limpopo. Consistent	7759
 L’ELECTION Considérant	16247
 MA CHARGE SANS AUCUNE CONSIDÉRATION D'ORDRE	15603
 MEDIUM TERM Consider	16876
+MESSAGERIE VOCALE Considérant	18032
 MINAGRI MINECOFIN X Consider	15130
 MW. Considering	15983
 Malabo Convention. Consistent	5677
@@ -304,6 +309,7 @@ Relative Valuation Considerations and Peer Comparisons	4896
 Relief Consignments Coordination Platform The ASYREC	13042
 République du Congo Considérant	16177
 SHORT TERM Consider	16876
+SIPAO. Considérant	17848
 SPECIAL CONSIDERATIONS FOR STATE PARTIES17	1243
 Sample Size and Allocation Considering	15244
 Scientific and Industrial Research DSUB Consistent Time	1009

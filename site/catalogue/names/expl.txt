@@ -1,5 +1,6 @@
 A. Overall Risk Rating and Explanation of Key	11525
 A3.3. Exploring	12006
+A3.8b.1.2.1 Exploiter	17983
 ABUS ET EXPLOITATION SEXUELLES	14490
 AI Explainability	7548
 AI Explainable	17329
@@ -9,6 +10,7 @@ APDPVP. Exploité	17795
 Accountability Must Be Explicit	7548
 Accounting Policies Adopted and Explanatory	11855
 Acronym Table Term Explanation AC Air	13185
+Actions Explications Délimiter	17836
 Administração Pública. Explicou	6702
 Altmetric Explore	9739
 Alvará de Exploração de Estabelecimentos de Restauração	11445
@@ -60,6 +62,7 @@ Cvbersecurite Exploitation	15584
 D Explanation	5533
 D. Variance Explanations and Way Forward Actions	12977
 DHRMD C10 Explore	12917
+DIFFUSION ET EXPLOITATION DES DONNEES	17845
 DISPOSITIONS PARTICULIFRES AUX EXPLOITANTS Article	15444
 Da Explóração	11514
 Data Explanation Example Good Poor Definition	12360
@@ -149,7 +152,7 @@ Explanatory Report	11135
 Explicabilité	1231
 Explicar	15564
 Explicar-lhe	15344
-Explications	15295,417
+Explications	15295,417,2124
 Explicit	3861,13,815,7267,39,148,154,1084,1396,387,1879
 Explicit Consent	13381
 Explicit Minimum Best-fit	15164
@@ -164,13 +167,15 @@ Exploit	10821
 Exploit Writing	15662
 Exploita- Participation Financière Publique	2342
 Exploitant	1801,11500,2282,1029
+Exploitant Agricole	17945
 Exploitant Propre Indifférent	737
 Exploitant. Article	16612
-Exploitants	13301,2163,1148
+Exploitants	13301,2163,1148,1200,133
+Exploitants Agricoles ENESI	17844
 Exploitants des Réseaux Publics de Télécommunications	17442
 Exploitants des Services Postaux Article	37
 Exploitatiomdès Insfrastructures	15999
-Exploitation	748,1594,1054,1007,6413,60,648,1247,541,2,27,34,15,197,1,155,92,11,642,1,1,457,595,128,20,56,15,147,28,63,48,57,71,74,1415
+Exploitation	748,1594,1054,1007,6413,60,648,1247,541,2,27,34,15,197,1,155,92,11,642,1,1,457,595,128,20,56,15,147,28,63,48,57,71,74,1415,159,4,18,37,20,43,87
 Exploitation Exclusive des Gisements Pétroliers	2342
 Exploitation Familiale	10830
 Exploitation Forestiere Centrafricaine	10841
@@ -188,6 +193,8 @@ Exploitation and Abuse SH Sexual Harassment STEP	16896
 Exploitation and Distribution of Water	13729
 Exploitation and Harassment SIG-HR Integrated Human Resource	11863
 Exploitation des Carrières Provisions	15542
+Exploitation des Données	17899
+Exploitation des Eléments Santé	17899
 Exploitation des Entreprises	16249
 Exploitation du Backbone	16641
 Exploitation du Backbone Tbps Terabits	16626
@@ -197,10 +204,10 @@ Exploitation du Guichet Unique Intégral	16018
 Exploitation du Guichet Unique du Commerce Exté-	11923
 Exploitation du Port de Bujumbura Ets	13377
 Exploitation du Recensement	16037
-Exploitation of Meteorological Satellites	16077,294
+Exploitation of Meteorological Satellites	16077,294,1551
 Exploitation. Les Sous-directions	15425
-Exploitations	10096,3404
-Exploiter	748,6374,6168,39,12,127,341,1903,26,413
+Exploitations	10096,3404,4445
+Exploiter	748,6374,6168,39,12,127,341,1903,26,413,1721,111
 Exploiting	9616,4008,1574,481,1478
 Exploiting the AI Revolution	1814,5734
 Exploitont	15429
@@ -215,6 +222,7 @@ Exploration Tourisme	2342
 Exploration and Production	12535,2412
 Exploration and Production Sharing Agreements	3583
 Exploration and Use of Space for Peaceful Purposes	11185
+Exploration-Production	17907
 Explorations	2096
 Explorations Diagnostiques	15416
 Explorations Diagnostiques DPP	15475
@@ -228,7 +236,7 @@ Exploração	2816,7939,635,16,7,30,15,1336,4306
 Exploração Florestal Incidência- Taxas-Notas Taxa Lei	17100
 Exploração de Recursos Naturais	2816
 Exploração de Recursos Naturais Na	2816
-Explore	1814,174,516,1,1413,1,207,302,6,373,56,363,110,104,73,164,1155,104,2,10,642,1839,200,110,449,253,286,57,45,30,274,104,64,123,71,94,333,26,12,42,212,51,94,40,42,52,2,13,167,266,23,32,299,15,4,419,43,37,132,580,231,21,41,30,41,6,52,50,133,317,175,338,892,24,67,4,64,4,65,116,64,145
+Explore	1814,174,516,1,1413,1,207,302,6,373,56,363,110,104,73,164,1155,104,2,10,642,1839,200,110,449,253,286,57,45,30,274,104,64,123,71,94,333,26,12,42,212,51,94,40,42,52,2,13,167,266,23,32,299,15,4,419,43,37,132,580,231,21,41,30,41,6,52,50,133,317,175,338,892,24,67,4,64,4,65,116,64,145,565
 Explore AI	12996
 Explore AidData	7590
 Explore Beyond GenAI	2816
@@ -274,8 +282,10 @@ Exploring the Future	12996
 Exploring the Gender Gap	10819
 Exploring the Impacts of Artificial Intelligence	11927
 Exploring the Key AI Sovereignty Enablers	11135
+Exploring the Relationship	17870
 Exploring the Role of Technology	11928
 Exploring the Use of Mobile Technology	195
+Explosifs	17899
 Explosion	4840
 Explosive	11269
 Explosives Act	13060
@@ -310,6 +320,8 @@ IFC and Proparco. Explicitly	2243
 III. IDENTIFICATION ET NOTIFICATION DES EXPLOITANTS	10906
 IMF Exploring the Adoption of Selected Digital Technologies	12948
 INSTALLATION ET EXPLOITATION	16103
+IPM Exploiter	18077
+IV. EXPLOITATION	17913
 Identification des Exploitants	10096
 In-Depth Exploration	6948
 Integrative Model Explaining Community Acceptance	11006
@@ -333,17 +345,25 @@ Literacy and Capability Explore	15130
 Logics of Critical Explanation	11028
 Léon Thévenin. Explicit	1647
 M Explanation	4653
+MALI DIVISION DES INCENDIES ET EXPLOSIFS	17899
 MINISTER JUMOKE ODUWOLE EXPLAINS WHAT NIGERIA	12026
 MIT Exploration of Generative AI	8832
 MOYA INKOMOKO X Explore	15130
 Machine' Exploits Spotted	3279
+Madame Assétou DIARRA Exploitante Agricole	17841
+Madame HAÏDARA Oumou SOW Exploitante Agricole	17841
 Maisha Namba Explained	11994
 Marchés Publics EAS Exploitation	10876
 Maritime Zones Administration and Exploration	14742
 Market SEA Sexual Exploitation and Abuse SEP	16926
 Market SEAH Sexual Exploitation	17099
 Microsoft Internet Explorer	13333
+Mines SECTION DES EXPLOSIFS Commissaires	17899
 Mission Exploit	958,12337
+Monsieur Abdoulaye KEÏTA Exploitant Office Riz	17841
+Monsieur Galy KALAPO Jeune Exploitant Office	17841
+Monsieur Gaoussou BOUARE Exploitant Office Riz	17841
+Monsieur Kokè DIARRA Exploitant Agricole	17841
 Mozambique Explores Strategic Partnership	7044
 NOTE EXPLICATIVE SUR LE PROJET	15102
 National Wholesale Market. Explore	14818

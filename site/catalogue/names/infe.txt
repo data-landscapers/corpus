@@ -24,14 +24,18 @@ INFECTION PREVENTION CONTROL AND ANTIMICROBIAL RESISTANCE	14773
 INFECTIONS SEXUELLEMENT TRANSMISSIBLES DÉCLARÉES Infections	13300
 INFEGE. Ambas	17415
 INIS Infection Prevention and Control IPC Joint	11417
+IRA Infections	17843
 IRAS Infeccao Respiratoria Aguda Ligera IRAS	966
+IST Infections	17843
 Infeccione	16962
 Infecciones	16969
 Infecciones Respiratorias	4209
 Infecciones Respiratorias Agudas	16962
 Infecciones de Transmisión Sexual	4209
 Infecciones de Transmisión Sexual KDI	1701
-Infection	15712,249,980
+Infectiologie Charles Mérieux Master Management	17829
+Infectiologie Office du Développement Charles	17845
+Infection	15712,249,980,902,26
 Infection Disease Specialists	14094
 Infection Prevention and Control	4301,6475,3998
 Infection Prevention and Control IIMS	10776
@@ -62,7 +66,7 @@ Infections Results	12151
 Infections Sexuellement Transmissibles	13300,3185
 Infections Virales Tropicales	16627
 Infections and RUTF Malaria	4217
-Infectious	1988,10425,2301,1,341
+Infectious	1988,10425,2301,1,341,2813
 Infectious Disease	14773
 Infectious Disease Outbreak Response Metrics	4153,14,35,15,43,41,48,1003
 Infectious Disease Preparedness ID Identification	14434

@@ -68,11 +68,15 @@ CAN MDAs OBTAIN DATA CONTROLLING	13381
 CAN.....Ah	5022
 CANA HOSPITAL LTD Data Controller INST-14512254709	7167
 CANAAN MEDICAL CLINIC LIMITED Data Controller	7167
-CANADA	4209
+CANADA	4209,13736
+CANADEM	18075
 CANADENSE	3519
 CANAL	5022,4971,3307
 CANAL D'IRRIGATION	13300
-CANAM	14290
+CANAM	14290,3555,37,41,106,40
+CANAM Agent de Santé Communautaire Agence	17882
+CANAM Nationale	17882
+CANAM130 and ANAM131	17870
 CANARIAN HOLDINGS LIMITED Data Controller INST-7969798477B	7167
 CANARY ISLANDS TRADERS LIMITED Data Controller	7167
 CANARY ISLANDS TRADERS LIMITED Data Processor	7167
@@ -91,6 +95,7 @@ CANCILLER	4209
 CANDESARTAN	15930
 CANDIDATOS INSCRITOS NA	11391
 CANDIDATURAS	11528
+CANDIDATURE	17861
 CANDR	14897
 CANDY BUZZ LIMITED Data Controller INST-1419465DAD3	7167
 CANDY BUZZ LIMITED Data Processor INST-1419465DAD3	7167
@@ -136,6 +141,7 @@ CANYAMA VISSIONS	7167
 CBO9780511803123.008 Government of Canada	17780
 CERVICAL CANCER SCREENING AMONG WOMEN AGED	16892
 CHINA MAURITIUS FTA CANNOT	14816
+CNDIFE CANADA	17845
 COMPTE DU CANDIDAT DENIS SASSOU-N’GUESSO Considérant	16247
 COOPEC CANKUZO	13390
 COUNTRY REASONS Reallocations IDA-D9060-001 Cancellations	2473
@@ -201,7 +207,7 @@ Can't Wait	14897
 Can- Cibi- Ka- Ma- Mu- Mu-	13300
 Can- Cibi- Kayan- Ma- Mu- Mu-	13300
 Can-Drive-Rural-Connectivity-Report-2019.pdf. GSMA	16942
-Canada	643,75,29,1,41,430,24,408,97,236,358,390,84,95,94,58,402,118,68,152,94,33,197,88,44,170,18,170,427,258,268,97,205,202,336,35,54,114,325,59,11,135,4,95,128,101,260,114,76,316,28,62,18,170,114,81,333,24,61,99,48,370,53,117,17,50,75,131,32,117,33,261,233,1,10,10,14,20,27,94,39,22,114,16,4,19,15,122,272,46,285,180,59,18,45,5,9,127,129,352,166,58,392,27,163,149,158,537,236,2,226,33,32,62,140,95,130,3,44,2,21,48,40,88,43,12,123,112,217,290,416,81,57,214,193,13,51,104,147,37
+Canada	643,75,29,1,41,430,24,408,97,236,358,390,84,95,94,58,402,118,68,152,94,33,197,88,44,170,18,170,427,258,268,97,205,202,336,35,54,114,325,59,11,135,4,95,128,101,260,114,76,316,28,62,18,170,114,81,333,24,61,99,48,370,53,117,17,50,75,131,32,117,33,261,233,1,10,10,14,20,27,94,39,22,114,16,4,19,15,122,272,46,285,180,59,18,45,5,9,127,129,352,166,58,392,27,163,149,158,537,236,2,226,33,32,62,140,95,130,3,44,2,21,48,40,88,43,12,123,112,217,290,416,81,57,214,193,13,51,104,147,37,90,115
 Canada AMS HI	17743
 Canada Agreement WEF World Economic Forum	1243
 Canada BM	15724
@@ -257,7 +263,7 @@ Canada’s AI Blueprint Expansion	8629
 Canada’s DST	14932
 Canada’s International Development Research Centre	3654
 Canada’s Pan-Canadian Trust Framework. Rather	10819
-Canadian	2093,3,52,1749,550,597,1971,716,596,1505,50,238,859,156,998,749,30,189,907,1944,1112
+Canadian	2093,3,52,1749,550,597,1971,716,596,1505,50,238,859,156,998,749,30,189,907,1944,1112,926
 Canadian AI Safety Institute	8629
 Canadian AI and Data Act	1814
 Canadian Anti-Monopoly Project	6445,1026
@@ -290,7 +296,7 @@ Canais de Atendimento	1192
 Canais de Disponibilização de Serviços	12774
 Canais de Resolução	11390
 Canais de Subscrição	11412
-Canal	3264,726,468,298,811,235,1627,1610,58,277,1447,154,580,22,1201,2032,326,244,44,23,45,326,448
+Canal	3264,726,468,298,811,235,1627,1610,58,277,1447,154,580,22,1201,2032,326,244,44,23,45,326,448,1553
 Canal Box	15592,953
 Canal Box and Moov	15424
 Canal Dayot	14746
@@ -324,7 +330,7 @@ Canar Telecommunication	14901
 Canar Telecommunication Co. Ltd of Sudan	14901,1
 Canar Telecommunications Co. Ltd	14902
 Canar Telecommunications Company	14853
-Canaries	6200,5882,3414
+Canaries	6200,5882,3414,2339
 Canartel	14853
 Canary	11952
 Canary Islands	789,65,2928,2387,333
@@ -342,7 +348,7 @@ Cancelado	17219
 Cancelamento	11452,130,729,3081
 Cancelar	11587,5447,244,47,35,1,51
 Canceled	17180
-Cancellation	2473,239,15,987,974,1891,349,949,2993,525,529,47,257,5,34,97,25,11,40,184,5,19,3,278,30,99,229,111,344,226,447,301,11,158,63,211,39,286,8,210,2,27,4,2,168,108,66,140,486,289,6,79,17,12,362,35
+Cancellation	2473,239,15,987,974,1891,349,949,2993,525,529,47,257,5,34,97,25,11,40,184,5,19,3,278,30,99,229,111,344,226,447,301,11,158,63,211,39,286,8,210,2,27,4,2,168,108,66,140,486,289,6,79,17,12,362,35,399,54,4,44
 Cancellation ICR	16436
 Cancellation of Data Protection License	13381
 Cancellation of Licence	17249
@@ -422,9 +428,11 @@ Cane Planters and Millers Arbitration and Control	14847
 Caneca	10780
 Caneca AMJ	10780
 Canevas	14488,1,1,1222
+Canevas Cadre	17845
 CanevidencefromanotherAfrican	8301
 Canfora	3604,2935,9605
 Cangioli	8603
+Cani Enfouis	18014
 Canines	12984
 Cankuzo	9173,4127,90,43,9,76
 Cankuzo Cibitoke Gitega Karusi Kayanza Kirundo	13442
@@ -448,6 +456,7 @@ Canoa	17100
 Canon	2096
 Canon Chemicals Ltd Data Controller INST-4516314D16C	7167
 Canon GETESA	4209
+Canon IR3245	17845
 Canon SEGESA	4209
 Canonical	571,677,2125,618,443,2765,124,222
 Canonical URL	3981,1944
@@ -475,6 +484,7 @@ Cantines	643,12799,3192
 Canto Sena Monteiro	15532
 Canto Técnica APIMUD Eurídice Andrade Presidente	15694
 Canton	7026
+Canton de Genève. Une	17824
 Cantonal Chiefs	15735
 Cantonment	3386
 Cantonment-Accra	3386
@@ -514,9 +524,10 @@ Colina CanoL. Assessing	12246
 Community Health Systems Can Support Better	15833
 Community Participation Can't Wait	7147
 Components Results Loan Cancellations Reallocations	11924
+Components and Cost Cancellation of Financing Reallocation	17862
 Computing Can Unlock	4970
 Construction of Cancer Hospital	14736
-Coopération Canadienne	10712
+Coopération Canadienne	10712,7133
 Costs of Transport of Canes for Small Planters	14753
 Countries Sierra Leoneans Can Travel	5390,965,827
 Cristina Caniço	8492,2275
@@ -527,6 +538,7 @@ D. National Cancer Clinical Trials Programme	7845
 D.G. DE MINAS Y CANTERAS	4209
 D906-MZ Partial Cancellation	2474
 DE LA DECLARATION DE CANDIDATURE Article	15727
+DE LA DECLARATION DE NATIONALE CANDIDATURE	17861
 DECLARATION DE CANDIDATURE Vu	16177
 DEVELOPING HUMAN RESOURCE THAT CAN LEAD	14004
 DNCMP Candidats	10876
@@ -566,7 +578,7 @@ Edital de Candidaturas	11472
 Edition of Candonga de Justiça Birth	17369
 Education Can	14924
 Education Cannot UNICEF	15661
-Education Cannot Wait	9139,2761,3217,474
+Education Cannot Wait	9139,2761,3217,474,2489
 Education Cannot Wait FAI Fournisseur	15541
 Electronic Court System Can	13507
 Else Can	14190
@@ -666,8 +678,9 @@ KAIROS Canada	11868
 KAIROS Canada. N.d	11868
 LISTA DOS CANDIDATOS SELECIONADOS BOLSA	17308
 LOANS Cancellations Reason Value Loan	2473
-La CANAM	14290
+La CANAM	14290,3739
 Le Canada	8525
+Le Canard	17950
 Le Canard LIibéré	9615
 Le Kiosque Digital Burkina Faso CAN	9993
 Leaves Francophone Africa Channel-Hopping Canal	5407,676
@@ -691,6 +704,7 @@ MRA CANS	14781
 MRI Cancellation and Register	14533
 MTN Nigeria and Canada	10120
 MTN and Canal	4756
+MTNIMA Canaliser	17860
 Madame Elsa Candide Mondukpè KOKOSSOU	17584
 Malaria Cancer Tuberculosis HIV	12138
 Malaria and Cancer	12151
@@ -804,6 +818,7 @@ Respiratory Cancer	12151
 Retrait du DAO Candidats Retrait	10876
 Revised Cancelled Disbursed Undisbursed	11395
 Rivers and Canals Act	14745
+Rue Caniveau Région	18014
 Réception des Candidats Selon	10876
 République Gabonaise Catégorie CAN2017. The Internet-related	15447
 SA CANAL	16623
@@ -848,7 +863,7 @@ Switzerland and Canada	2626
 Systems Global Affairs Canada	63,136
 T2 Advancing Canada Ecuador Mexico Uruguay	10764
 TF Status Currency Original Revised Cancelled	15619,1019
-TF Status Original Revised Cancelled Disbursed	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35
+TF Status Original Revised Cancelled Disbursed	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48
 TPRA Company Sudatel Canar Zain	14897
 TRADE ARRANGEMENTS CANNOT	14816
 Tanzania. Can	5925

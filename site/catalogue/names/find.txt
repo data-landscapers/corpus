@@ -2,10 +2,10 @@ A. SUMMARY OF KEY FINDINGS	15019
 ACKNOWLEDGEMENTS The ID4D-Global Findex Database	10714
 About the Global Findex Database	10977
 About the Global Findex Database Financial	10977
-Abstract The Global Findex	13084,675,2084,1,821,380
+Abstract The Global Findex	13084,675,2084,1,821,380,880
 Acknowledgments About the Global Findex Database Executive	10977
 Acknowledgments Global Findex	10977
-Acronym FINDEX	15843,1,821,380
+Acronym FINDEX	15843,1,821,380,880
 Adaptation Findings In CAR Possible Options	10829
 Address Findings	11218
 Addressing Prior Year Audit Findings	13420
@@ -59,14 +59,15 @@ DDI Document ID DDI COG 2024 FINDEX v02 M WB Producers Name	15844
 DDI Document ID DDI GAB 2024 FINDEX v02 M WB Producers Date	15843
 DDI Document ID DDI GIN 2024 FINDEX v02 M WB Producers Date	16665
 DDI Document ID DDI GMB 2024 FINDEX v02 M WB Producers Date	17045
+DDI Document ID DDI MRT 2024 FINDEX v01 M WB Producers Date	17925
 DIAGNOSTIC FINDING	6832
-DIAGNOSTIC FINDINGS	16942
+DIAGNOSTIC FINDINGS	16942,928
 DZA 2024 FINDEX v02 M Title	15846
 Description FinDev Canada	263,828,3383
 Detailed Findings	7869,7701
 Diagnostic CAR Table of Summary Findings	15415
 Diagnostic Finding	6832
-Diagnostic Findings	12659,653,2,3562
+Diagnostic Findings	12659,653,2,3562,994
 Diagnostic Findings Current State of Digital Financial	16876
 Diagnostic Findings Current State of Digital Infrastructure	16876
 Diagnostic Findings Current State of Digital Platforms	16876
@@ -93,7 +94,7 @@ Expenditure Findings	13355
 Experts Find Accessing Finance for Digital Transformation	12214
 FIND Foundation	15581
 FIND US	13097
-FINDEX	10963,1,2120,675,2084,1,2,819,211,115,54
+FINDEX	10963,1,2120,675,2084,1,2,819,211,115,54,880
 FINDINGS	236,1702,11372
 FINDINGS A. POLICY AND LEGAL FRAMEWORKS	13310
 FINDINGS AND CHALLENGES A. INFORMATION SYSTEM	16867
@@ -119,13 +120,15 @@ FindHomes	16820
 FindMe	1946,9037
 Finda	11365
 Findable	5246,2884,2058,2487,4441
-Findex	613,1032,1932,2053,4636,448,131,120,173,806,305,1063,2,1583,550,27,6,13,25,35,68,523,482,250,66
+Findex	613,1032,1932,2053,4636,448,131,120,173,806,305,1063,2,1583,550,27,6,13,25,35,68,523,482,250,66,925,3
 Findex Database	10977,1272
+Findex Global	17870
 Findex Microdata 2025 updateKenya	12203
 Findex Page	11944
 Findex Survey	12249
 Findex and Admin	10714
 Findex. En	11944
+Findex. Right	17870
 Findexable	14819
 Finding	431,151,644,515,720,1398,71,1688,1380,589,3430,330,650,213,1888,196,420,1,121,432
 Finding Harmony	1243
@@ -162,6 +165,7 @@ Findjglolegstu.25.1.0187&pages	2096
 Findo	752,1686,9014,76,373,3457,38,693,49
 Finds New GSMA Study. Press Release	10822
 Finds Strangers Listed	10034,231
+Formal and Informal Financial Services. Findex	17870
 Four Main Findings	15244
 France Find	14666
 Fuel Management and Recordings Finding	13420
@@ -176,15 +180,16 @@ GLOBAL FINDEX DATABASE	16991
 GMB 2024 FINDEX v02 M DOI	17045
 GMB 2024 FINDEX v02 M Title The Global Findex Database	17045
 GMB 2024 FINDEX v02 M. Downloaded	17045
+GOAL INDICATOR Interim FINAL Findings	17870
 GSMA Report Finds	6781
 Gambia. Findings	16927,24
 Get Microdata Reference ID COG 2024 FINDEX v02 M DOI	15844
 Ghana FINDINGS	236
 Ghana. Finds	4074
-Global Findex	761,2661,2726,4566,251,12,942,25,50,255,21,30,761,23,230,445,1138,100,450,27,19,25,325,1,2,819,157,120,103
+Global Findex	761,2661,2726,4566,251,12,942,25,50,255,21,30,761,23,230,445,1138,100,450,27,19,25,325,1,2,819,157,120,103,825,55
 Global Findex Africa	11919
-Global Findex Database	940,4625,974,4175,108,19,136,161,822,243,28,18,835,675,1138,946,1,2,819,277,103
-Global Findex Digital Connectivity Tracker	10977,2107,675,2084,1,2,819,380
+Global Findex Database	940,4625,974,4175,108,19,136,161,822,243,28,18,835,675,1138,946,1,2,819,277,103,825,55
+Global Findex Digital Connectivity Tracker	10977,2107,675,2084,1,2,819,380,880
 Global Findex Identification	10714
 Global Findex Microdata	10714
 Global Findex Survey	16942
@@ -201,6 +206,7 @@ I. Key Findings	16955
 I. Key Findings Background	16955
 I. SSRLP Project Implementation and Key Findings	12980
 ID4D Diagnostic Findings Alexandre Amard	17070
+ID4D Global Findex	17870
 ID4D- Global Findex Database	10714
 ID4D-Global Findex	10714
 ID4D-Global Findex Data	10714
@@ -219,6 +225,7 @@ Implementation Arrangement for Chance Find	17114
 Implementation Arrangement for Chance Find Table	17114
 Implementation and Monitoring of Gender Activities Finding	13420
 Inclusive Growth. Summary of Findings. NIST	10819
+International License. Find	18036
 Joint Diagnostics Report and Key Findings	16902
 KENYA Findings	899
 KEY FINDINGS	9399,2503,1490,675
@@ -228,7 +235,7 @@ KEY FINDINGS The Eswatini FinScope	418
 Kenya Housing Survey Findings	2775
 Key Audit Areas and Findings	13420
 Key Finding	16921
-Key Findings	2334,441,3137,1239,2248,131,820,635,19,2,143,904,265,58,602,117,921,948,33,123,36,414,696,655,122,84,22,111
+Key Findings	2334,441,3137,1239,2248,131,820,635,19,2,143,904,265,58,602,117,921,948,33,123,36,414,696,655,122,84,22,111,609
 Key Findings Across Our Six Elements	7313
 Key Findings Namibia Statistics Agency	12383
 Key Findings Pneumonia	12151
@@ -251,6 +258,8 @@ MAIN FINDINGS	15244
 MAIN FINDINGS National Identification Card	12328
 MEDIA MONITORING FINDINGS	12201
 MEDIA MONITORING FINDINGS Methodological	12201
+MRT 2024 FINDEX v01 M Title The Global Findex Database	17925
+MRT 2024 FINDEX v01 M. Downloaded	17925
 MTEF. Findings	11866
 Madame Joséphine Finda MILLIMONO	16651
 Magwegwe Constituency Finding	13420
@@ -313,7 +322,7 @@ SURVEY FINDINGS SURVEY FINDINGS HOUSEHOLD DEMOGRAPHIC	17285
 SURVEY TOPLINE FINDINGS Southern Africa REGISTERED	12409
 Sector Theme Findings Impact Talent	14997
 Selection Rule Child Metric Findex	10714
-Series Information The Global Findex	13084,675,2084,1,821,380
+Series Information The Global Findex	13084,675,2084,1,821,380,880
 Shared AI Findings Exchange	9027
 South Nyaruguru RESEARCH FINDINGS	12328
 Statutory Funds Finding The Ministry	13420

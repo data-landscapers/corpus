@@ -28,6 +28,7 @@ Empowerment Domains Healthy Food Groups Insects	17127
 Equatorial Guinea INSESO Institute of Social Security	16996
 European Commission. INSEAD. WEF	15480
 Extremely Poor and Food Insecure Households	16960
+FCV and Insecurity	17906
 FOOD INSECURITY	17285
 Faye UNICEF Flags Food Insecurity for Children	3768
 Food Insecurity	16384
@@ -40,9 +41,10 @@ Healthy Food Group Insects	17127
 Hospital Nuevo Inseso de Bata Bata	4209
 Human Disease-Corona Virus Insecurity Hh Member	16902
 INSE-UL	2966
-INSEAD	11857,3655
+INSEAD	11857,3655,2348
+INSECURITY..........................................12	17906
 INSEE	648,7478
-INSEED	1635,1802,598,1813,712,2726,999,3422,8,31,58,2,18,2426
+INSEED	1635,1802,598,1813,712,2726,999,3422,8,31,58,2,18,2426,1695
 INSEED and ANID	1635
 INSEED. Cette	9286
 INSERT	5352
@@ -62,6 +64,7 @@ INSERT NAME	4049,1303
 INSERT NAME OF COUNTRY’S FDA EQUIVALENT	5352
 INSERT NANIE	3972
 INSERTION PROFESSIONNELLE ET SOCIALE Art	15732
+INSERTIONS OBSERVATIONS Un	17812,5,2,8,1,1,4,8,20,38,83,21,29
 INSERÇÃO NO MERCADO DE TRABALHO	2816
 INSESO	4209,4163,8570,44,10,31
 INSESO Instituto Nacional de Seguridad Social IP	16969
@@ -83,10 +86,10 @@ Insecticideln	4301
 Insecticides	13385,1237,1425,853
 Insecticides Herbicide	17043
 Insects	17127
-Insecurity	969,2614,856,386,10381,395,783,52,144
+Insecurity	969,2614,856,386,10381,395,783,52,144,1326,79
 Insecurity Insight	15342
 Insecurity Operational Partially	15206
-Insee	16250
+Insee	16250,1695
 Inseego	620
 Inseego Corp Convergence Partners	620
 Inseego SEC	620
@@ -134,6 +137,7 @@ Part B Insert	3714
 Part C Insert	3714
 Part F Insert	3714
 Private Insensitive Data	11995
+Promoting Insertion	17849
 Public Insensitive Data	11995
 Refugees Welcome and Insertion CNR National Refugee	10841
 Regulations C.308 Insertion	5687

@@ -34,10 +34,12 @@ BGFIBank. Grâce	5593
 BGH and RAD	7759
 BGM CIPREL	2342
 BGN. Unlimited	15471
+BGP Multihoming	17823
 BGP PoPs	12058
 BGP. Face	4210
 BGP. Nous	4210
 BGP4. Any	14864
+BGPv4	17823
 BGains	5349
 BGarcia	5349
 BGbambegu	5349
@@ -97,6 +99,7 @@ Land Use BGB Below-ground	17140
 Mr. Justin Bgoni	8626
 Notice No. BG	6940,524,1268
 Representing BGA	9658
+Routage BGP	17823
 Secure BGP	3840
 Sweden. BGFA	11923
 Use BGP	10721

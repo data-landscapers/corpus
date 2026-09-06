@@ -1,6 +1,8 @@
 ASSUMPTION SISTERS OF NAIROBI UPENDO VILLAGE	7167
 AUTRE VILLE	13300
+Abou-Bakar TRAORE VILE Le Ministre	17817
 Africa. Village Capital	9495
+Agents de Déclaration Villageois ADV	18076
 Agglomération Effectif Pourcentage Ville de Ouagadougou	10875
 Agglomération Formel Informel Total Ville de Ouagadougou	10875
 Al-Hisas Village	15578
@@ -10,10 +12,14 @@ Aménagement des Villes	15542
 Annual Calendar of Government. PART VIL NATIONAL	16841
 Artisanal Villages	10980
 Associations Villageoises	13390
+Autre Immeuble Villa	18014
+Autres Villes	18014
+Autres Villes Rural Région Milieu Ensemble	18014
 BAHARI VILLA LTD Data Controller INST-382402FB0C4	7167
 BIRTH PLACE OF BIRTH SEX VILLAGE	12410
 BT DE LA VILLE DE GOMA	15670
 Bairro Vila OnLine	15593
+Bandiagara Bamako Urbain Bamako Autres Villes	18014
 Bell Village	14847
 Bell Village. Figure	14745
 Beneficiaries Development of Village Outskirts	15578
@@ -51,6 +57,7 @@ DU SUD ET VILLE DE YAOUNDE	16534
 Daan Viljoen	3475
 Dec-2025 New Villages	16032
 Declaration of Osona Village Extension	13189
+Des Ressortissants du Village de N’Tiobougou	17899
 Development of Eco-Integrated Tourism Villages	14829
 Digital Embassy Village	10404,3863
 Digital Village	4148,1119
@@ -60,6 +67,7 @@ Digital Villages	15372
 Digital Villages Initiative	12740
 Digital Youth Village	7068,8648
 District Council of Moka Construction of Village Hall	14746
+Développement des Villes Intermédiaires Productives	17895
 Eau Villageoises	2476
 Entlaq and Village Capital	10745
 Filomena Vili	12266
@@ -71,6 +79,7 @@ Gouvernement Ouvert Local Union des Villes	15712
 Green Village	16049
 Green Village Initiative	15578,471
 H.E Moses Vilakati	8192,1417
+H.E. Joaquin Tasso Villalonga	17936
 H.E. Moses Vilakati	11283
 Heritage Village	1554
 Hôtel de Ville de Cotonou	15292
@@ -98,13 +107,18 @@ Le Morne Village	14774
 Liaison Officer Estela Vilanova Núñez Volunteer	17101
 Liapeca Village	10765,10
 Local Units Centers Villages Beneficiaries	15578
+M. Joaquín Tasso Vilallonga	18033
+M. Joaquín Tasso Villalonga	18030
 M. Viboudoulou Vilpoux	1828
 MAIN ACTIVITIES IN VILLAGES AS REPORTED	10763
 Main Villages Demonstrating High Rates	15578
+Manuela Villar Uribe	17869
 Maroc Ville Casablanca	17514
 Maroc Ville Fez	17488
 Matimba Village	4941
 Mbvunguti Village	340
+Millenium Village Evaluation	17882
+Mohamed Yeslem El VILALI	17918
 Mr. Masotja Vilakati	11131,3
 Ms B de Villiers	11289
 Ms. Silvia Villar	26,1,1
@@ -169,7 +183,7 @@ Sections Villageoises	10876
 Settlement Villages	17140
 Shubak Village	15578
 Silikin Village	3888,2128
-Smart Village	12435,2125,1258
+Smart Village	12435,2125,1258,2038
 Smart Village TIC	14573
 Smart Villages	566,13994,13
 Smart Villages and Education for Rural Transformation	14267
@@ -273,6 +287,7 @@ Village Savings and Loans Associations	11900
 Village Support Group	16867
 Village Telco	985
 Village URUGWIRO. The Cabinet Meeting	14869
+Village de N’TOBOUGOU. LISTE DES MEMBRES	17833
 Village de Vitré	1005
 Village des Artisans de Grand-Bassam	16158
 Village des Technologies	1598,820
@@ -284,7 +299,7 @@ Village of Sheikh Marzouk	15578
 Village. The CFP	16867
 Villageoise	10965
 Villageoises	10876
-Villages	1228,410,1932,1083,6632,240,803,30,194,866,2160,327,127,15,1549
+Villages	1228,410,1932,1083,6632,240,803,30,194,866,2160,327,127,15,1549,310
 Villages Connectivity Programme	12589
 Villages Local Units Upper Egypt	15578
 Villages N	15624
@@ -294,11 +309,12 @@ Villages and Highways. Mobile	12552
 Villages. Date	8999
 Villages. TEFLA	11285
 Villamizar	11156
+Villani	17884
 Villano	9128
 Villas	2342,1867
 Villa’s Front-of-Shirt Sponsor	3256
 Villbo Group	8132
-Ville	1232,1095,4264,2300,2009,2998,1477,97,839,204,101,832
+Ville	1232,1095,4264,2300,2009,2998,1477,97,839,204,101,832,379
 Ville LibrevillePays GABON Tel	15368
 Ville de Bangui	15603
 Ville de Bobo-Dioulasso	10875
@@ -317,10 +333,13 @@ Ville de Tahoua	7374,2193
 Ville de Yaoundé	16534
 Villegas-Ch	9128
 Villella	14434
-Villes	3157,5734,2124,2613,1911,3,82,685,1139
+Villes	3157,5734,2124,2613,1911,3,82,685,1139,566
 Villes Africaines	15542
 Villes Budget	16627
 Villes Effectif Pourcentage Ville de Ouagadougou Affilié	10875
+Villes Rural	18014
+Villes Rural Ensemble Electri	18014
+Villes Rural Ensemble Téléphone	18014
 Villes Unies du Cameroun	15542
 Villes de Kribi	15999
 Villet Marsland	15780

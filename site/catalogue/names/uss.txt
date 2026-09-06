@@ -1,8 +1,9 @@
 Add USSD	14997
 America USSD Unstructured Supplementary Service Data	12512
 CSIR’s USS	6365
+Children’s Fund USSD Unstructured Supplementary Service	17870
 Citizen USSD	14533
-Code USSD	15936
+Code USSD	15936,2096
 Develop USSD-based	14997
 Development Fund UE Union Européenne USSD	10965
 ETF USSD	12000
@@ -37,6 +38,7 @@ UNCTAD USF USSD VC WBG Artificial	15480
 UNDP UNESCO USA USSD UZ VC	4528
 UNHCR CEMAC USSD United Nations Capital	11944
 URA USSD	4348
+USAID USSTB United State Agency for International	17882
 USS User Satisfaction Survey WB World	17149
 USSASA	6152
 USSD Alfa Construction	16177
@@ -66,7 +68,9 @@ USSD. SIMOrede	12270
 USSD. Soon Huat Lim	9977
 USSD. The PSP	12270
 USSEIN	8269
+USSGB	17829
 USSJH. L’USSJH	16323
+USSTB	17882
 Unis USSD Données	15474
 United States Dollars USSD Unstructured Supplementary	16876
 Ussel	8606

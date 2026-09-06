@@ -22,6 +22,8 @@ Bureau of Global Health Security and Diplomacy	4165,997
 CAMARA DE DIPUTADOS	4209
 CAMARA DE LOS DIPUTADOS	4209
 CAMARA DE LOS DIPUTADOS Cuentas CONCEPTO	4209
+CATEGORIE B2 Diplômes	18003
+CATEGORIE C Diplôme	18003
 CIBN Professional Chartered Bankers Diploma and Intermediate	17235
 CLORAZEPATE DIPOTASSIQUE DIAZEPAM DIAZEPAM DIAZEPAM DIAZEPAM	15930
 Cabo Verdean Government and Diplomatic Community	15825,1555
@@ -60,11 +62,14 @@ DIPLOMA	3519
 DIPLOMA Tendo	11461
 DIPLOMATIC DATA AND SOVEREIGN IMMUNITY	3861
 DIPLOMATIE	16617
+DIPLOMATIQUE	18003,29
+DIPLOMATIQUES ET CONSULAIRES	17982
 DIPUTADOS	4209
 DO DIPLOMA Constituição da República A Constituição	11461
 DPT3 Diphtheria	10829
 Degree Programs Diploma Programs Short-term Courses	17232
 Department of Economic Diplomacy	10592
+Des Diplômes	17812
 Detalhes Diploma	13,1,153,263,119,195,8,42,9978
 Detalhes. Diploma	11361,1,7,16,60,10,2,1
 DiPES	3710,66
@@ -158,7 +163,7 @@ Diplomatic Service	17108,184
 Diplomatic and Consular Corps	17228,119
 Diplomatic and Official	17240
 Diplomatic and Sovereign Data	3861
-Diplomatie	1876,92,2927,2064,1278,278,4826,2758,22,54
+Diplomatie	1876,92,2927,2064,1278,278,4826,2758,22,54,1814
 Diplomatie Créer	13341
 Diplomatie Culturelle	16099
 Diplomatie L A B O L	13341
@@ -169,12 +174,17 @@ Diplomats	12509,3776
 Diplomats of IORA	13791
 Diplomáticas	16838,236
 Diplomático	16871
-Diplôme	4092,4629,2876,446,2381,480,1592,251,753
+Diplôme	4092,4629,2876,446,2381,480,1592,251,753,503
+Diplôme Supérieur	17812
 Diplôme Universitaire	16195
+Diplôme Universitaire de Technicien	18003
 Diplôme Universitaire de Technologie	15376
+Diplôme de Technicien	18003
+Diplôme de Technicien Supérieur	17812
+Diplôme de Technicien Supérieur L’avertissement	17812
 Diplôme. Clément MUAMBA	4092
 Diplômes	4002,12428
-Diplômé	7390,626,1493,1174,1445
+Diplômé	7390,626,1493,1174,1445,5684,17
 Diplômée	11109
 Dipo Ceremony	17773
 Dipper	17043
@@ -209,6 +219,7 @@ Exemption of Visa Diplomatic and Official	13744
 Flanders Diplomatic Representative	13156
 Foreign Diplomats	17537
 Foreign Ministry Asks Diplomatic Missions for Staff	10496
+Forêts CATEGORIE B1 Diplômes	18003
 Gabonese Diplomats	16285
 General Meteorology. Diploma	14738
 General Nursing Science. The Diploma	12972
@@ -256,6 +267,7 @@ Members Of The Diplomatic Corps	12955
 Mes Sulpsesas Buljaaw DIP	16857
 Misiones Diplomáticas	16871,34,400
 Misión Diplomática	16871,34,156
+Missions Diplomatiques	17929
 Missões Diplomá	15380
 Missões Diplomáticas	10772,653,27,1332,2596,96
 Missões Diplomáticas de Cabo Verde	11893
@@ -315,11 +327,13 @@ Rural Urban Skills Award Diploma	12431
 SERVICIO DIPLOMAT. Y CONSULAR.- Concepto	4209
 SERVICIO DIPLOMATICO. ARTICULO	16871
 SYSTEME INFORMATISE DE SUIVI DES DIPLOMES	16662
+Santé Communautaire Diplôme Interuniversitaire Direction	17882
 Science Diplomacy	4253,100,6935,3459
 Science Diplomacy Capital for Africa	11210
 Science Diplomacy Science	14747
 Seleccionar la Misión Diplomática	16905
 Serviços de Corpo Diplomático	11537
+Sexe Diplômé	18014
 Social Media Post Sparks Diplomatic Exchange	4942
 Specialized Diploma	16046
 Strategic International Collaboration and Diplomacy	3760,9683

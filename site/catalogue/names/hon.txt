@@ -80,6 +80,7 @@ Counterterrorism Hon. Musa Sillah	7452
 Country of Honour	16277
 Culture Madam Speaker Hon. Mrs Shirin	14753
 Cyberport de Hong Kong	6568
+DE MAURITANIE Honneur-Fraternité-Justice Ministère	17902
 Data and Statistics Honourable Speaker	17105
 Dear Honourable	12984
 Dear Rt. Hon. Speaker PERFORMANCE AUDIT	15657
@@ -216,6 +217,8 @@ HON. SENATOR S. MOTSAMAI	12748
 HON. SPEAKER	13591
 HON. STANLEY MUTUMBA SIMATAA	12913
 HON. T. MURWIRA	13526
+HONORIFIQUE	17841,20,38,83,21,29
+HONORIFIQUE A TITRE ETRANGER du Décret N	17817
 HONOURABLE CHIEF JUSTICE SAKOANE PETER SAKOANE	12668
 HONOURABLE CS MATHABATHA	11261
 HONOURABLE DEPUTY PRIME MINISTER	12760
@@ -279,6 +282,7 @@ Hon'ble External Affairs Minister Dr. S	13744
 Hon'ble External Affairs Minister Dr. Subrahmanyam	13744
 Hon'ble Minister of Environment	13562
 Hon'ble Minister of Information	13562
+Hon'ble Minister of State for External Affairs	18016
 Hon'ble Minister of State for External Affairs Mr	13562
 Hon'ble President	16237
 Hon'ble President of India Smt. Droupadi Murmu	12617
@@ -286,7 +290,7 @@ Hon'ble Prime Minister Modi	17241
 Hon'ble Prime Minister Shri Narendra Modi	13744
 Hon'ble Prime Minister of India. Ministerial	16164,113
 Hon'ble Speaker	16256
-Hon'ble Vice President of India	13562
+Hon'ble Vice President of India	13562,4454
 Hon'ble Vice-President of India	13744
 Hon. A.J. Masuka	11791
 Hon. A.J. Masuka. The Principles	11791
@@ -822,6 +826,7 @@ Honduras HND Expired	13082
 Honduras MOLINA CASTRO	6613
 Honduras Middle EGDI M-OSI H-HcI M-TII	10840
 Honduras URTECHO LÓPEZ	6613
+Honduras Unión Internacional de Telecomunicaciones	17856
 Honest	4283,2346
 Honest Ghanaian	7695
 Honest Mudenda	13397
@@ -847,7 +852,7 @@ Hongrie	6613
 HongyuYang Sr.EducationSpecialist	13392
 Honiara Meeting26	11439
 Honnah	7721,2685
-Honneur	15901,283
+Honneur	15901,283,1717,81,9
 Honneur Fraternité Justice	1702
 Honneur des Eaux	16099
 Honneur du Travail	15999
@@ -1153,16 +1158,18 @@ Honʼble President	12979
 Honʼble Presidentʼs State Visit	12979
 Honʼble Rashtrapati	12979
 Honʼble Vice President of India	12979
+Hon’ble External Affairs Minister of India Dr	18016
 Hon’ble MOS V Muraleedharan	16285
 Hon’ble MOS V. Muraleedharan	16285
 Hon’ble Minister of Commerce	16649
 Hon’ble Minister of Road Transport and Highways	16649
+Hon’ble Minister of State for External Affairs Shri	18016
 Hon’ble President	17241
 Hon’ble President Shri Ram Nath Kovind	17240
 Hon’ble President of India	16275,374,592
 Hon’ble Prime Minister Shri Narendra Modi	17240
 Hon’ble Prime Minister of India	17240
-Hon’ble Vice President of India	16285
+Hon’ble Vice President of India	16285,1731
 House of Parliament. Next Order. PAPERS Hon	10313
 House. Hon. Bernard Kitur	10313
 House. Hon. Government Members	13387
@@ -1173,6 +1180,7 @@ House. Hon. Speaker	10313
 Hua Hong Semiconductor and ChangXin Memory Technologies	8892
 INTRODUCTION Hon. F. Sakila Nyumalin	16970
 INTRODUCTION Honourable Speaker	17105
+INVESTISSEMENTS RÉPUBLIQUE ISLAMIQUE DE MAURITANIE Honneur	17898
 ISLAMIQUE DE MAURITANIE Honneur	5983
 Ibeju-Lekki Chairman Hon. Abdullahi Sesan Olowa	9444
 India Hon’ble President Ram Nath Kovind	17241
@@ -1192,6 +1200,7 @@ Judiciary Four Honourable Judges South African	12972
 Judiciary Hon. Winfridah Mokaya	9546
 Justice Honourable Members	14748
 Justice Honourable Speaker	17105
+KEITA HONORIFIQUE	17841
 Kajiado County Governor Hon. Joseph Ole	6946
 Kenya. Hon. Speaker	10313
 Kenyans. Hon. Speaker	10313
@@ -1222,6 +1231,7 @@ M. Kambou Sansan Honkounne	16250
 M.Maurizio SANTINI. Consul Honoraire	16175
 MACROECONOMIC OVERVIEW Honourable Speaker	17105
 MALAWI DIGITAL READINESS ASSESSMENT Foreword Honourable	12214
+MAURITANIE Honneur	17898
 MBOCK Honorables Députés	2695
 MEDIUM TERM POLICY REFORMS Honourable Speaker	17105
 MIGRATION Honourable	11277
@@ -1285,6 +1295,7 @@ Ministry of Finance's First Undersecretary Hon. Garang	3736
 Ministry of Interior The Honourable Minister of Interior	16888
 Ministry of Youth and Sports Hon. Jeror Cole	17260
 Ministry. Hon. Yogida SAWMYNADEN	14729
+Ministère de Finances Honneur	17972
 Mme Honésime BINDZA NGOMA	16381
 Mohlomphehi. HON. SENATOR DR. T. LEBESE	12748
 Monsieur Epiphane HONFO	16485
@@ -1333,6 +1344,8 @@ Optimism and Honour	10399
 Order Honourable Members	14748
 PERFORMING PUBLIC SECTOR Honourable	14748
 POLICING OVERSIGHT AUTHORITY Hon. Gabriel Tongoyo	10313
+PORTANT ATTRIBUTION DE DISTINCTION HONORIFIQUE	17841,141,21
+PORTANT ATTRIBUTION DE DISTINCTION Léprologie HONORIFIQUE	17841
 PRACTICES BY MOGO AUTO LIMITED Hon	10313
 PRAYERS QUORUM Hon. Speaker	10313
 PRESENTED BY NEAL RIJKENBERG THE HONOURABLE	13123
@@ -1366,7 +1379,8 @@ RECOGNISE AND HONOUR	13294
 REGIONAL LEADERSHIP Dr the Hon. Minister	14566
 REGIONAL LEADERSHIP Dr the Hon. Prime	14566
 REMARKS BY HON. HENRY F. SAAMOI	16984
-REPUBLIQUE ISLAMIQUE DE MAURITANIE Honneur	232
+REPUBLIQUE ISLAMIQUE DE MAURITANIE Honneur	232,17591,15,5,21,173
+REPUBLIQUE TSLAMTQUE DE MAURITANIE Honneur-Fraterni	17826
 REQUESTS FOR STATEMENTS Hon. Speaker	10313
 REVENUE ADMINISTRATION Honourable Speaker	17105
 Railway Development Fund. Hon. Temporary Speaker	10313
@@ -1405,6 +1419,7 @@ Rt. Hon. Segepoh Solomon Thomas	9121
 Rt. Hon. Speaker	7695
 Rt. Hon. Speaker of Senate	12955
 Rwanda. Hon. HABIMANA Dominique Minister	13418
+République Islamique de Mauritanie Honneur	17963,9,59
 République Populaire de Chine Consulats Honoraires	15973
 SADC. Honourable Ms Mmamoloko Kubayi	14826
 SAMBURU WEST Hon. Naisula Lesuuda	10313
@@ -1444,6 +1459,7 @@ TABLING OF REPORTS THE HON. SPEAKER	13591
 TRADE AND INDUSTRY HONOURABLE DR. THABISO	12660
 Technical Sessions Honoraria	17260
 Technology National Guidance. Hon. Alioni Yorke	9781
+Tegucigalpa Honduras Courriel	17856
 Tegucigalpa Honduras Email	10764,80
 Thursday. Hon. Owen Baya	10313
 Thursday. Hon. Speaker	10313

@@ -20,7 +20,7 @@ Article Eighteen Provisions	17438
 Article Name Eitzel	1248
 Artificial Intelligence. The EIB	789
 Assessment EI Environmental Impact License EIP	16843
-Assessment of EITI	13654,3065
+Assessment of EITI	13654,3065,1174
 BTS EIRP	14780
 Band Max EIRP	12949
 Band Max Power Max EIRP	12949
@@ -208,22 +208,31 @@ EIT URL	13972
 EIT's College of Science	13972
 EITF Wi-Fi	13079
 EITF2026	11667,1576
-EITI Board	12932,722,3065,685
+EITI Board	12932,722,3065,685,489
+EITI Global Conference	17893
 EITI International Secretariat	12932
+EITI Mauritania	17893
 EITI Open Data	12932
 EITI Principles and Standard. Specifically	12932
-EITI Requirement	13654
+EITI Report	17893
+EITI Reports	17893
+EITI Requirement	13654,4239
+EITI Requirements	17893
 EITI Secretariat	2889
-EITI Standard	12261,671,722,3065,685
+EITI Standard	12261,671,722,3065,685,489
+EITI Standard URL	17893
 EITI Standard. Below	16719
 EITI Standard. Implementation	13654
+EITI Standard. Members	17893
 EITI Standard. Validation	17404
 EITI Supporting	16719
+EITI URL	17893
 EITI and KP	2889
 EITI and Open Government Data	12932
 EITI and Open Ownership	17037
 EITI-related	12932
 EITI-standards	10873
+EITI. High-level	17893
 EIU Digital Inclusion	15447
 EIU Economist Intelligence Unit ES Economic	15118
 EIU Rank	13344
@@ -255,7 +264,7 @@ Eid-ul-Fitr	14742
 Eievage	15999
 Eiffage	7283
 Eigenkapital	692,1
-Eight	718,244,302,262,28,785,1452,19,411,582,80,716,93,119,709,83,86,136,870,83,24,329,543,39,794,54,148,1137,288,1,173,489,349,5,41,9,52,105,143,471,1052,114,635,831,442,283,529,256,203,257
+Eight	718,244,302,262,28,785,1452,19,411,582,80,716,93,119,709,83,86,136,870,83,24,329,543,39,794,54,148,1137,288,1,173,489,349,5,41,9,52,105,143,471,1052,114,635,831,442,283,529,256,203,257,395
 Eight Africans	5074
 Eight Billion	12606
 Eight Calls	7039,103
@@ -348,6 +357,7 @@ Eiêsnteciúaltqiumeosaébienltergreaedsoc	15694
 Employment and Informal Sector Survey EIN	15574
 Energy EC Energy Commission EIFU Energy	12717
 Enquête Multisectorielle Continue EICVM	737
+Ensuring the EITI	17893
 Environmental Impact Assessment EIB European Investment	2775
 Equipment EHR Electronic Health Records EIA	2775
 Escuelas EIP	16864
@@ -365,6 +375,7 @@ Five Hundred and Eighty-Nine Thousand	3862
 Four Hundred and Eighty Pula	12597
 Fund Facility EIRR Economic	11380
 GOV Electronic Government EIRR Economic Internal	11863
+Gestion des Crises EIE Etudes	17907
 Ghana and Benin. Eighteen	9632
 Government Procurement EIRR Economic Internal Rate	16949
 Guinea EITI	16719
@@ -413,6 +424,9 @@ Malawi EITI	12932
 Maputo Mozambique Either Participant	4260
 Marie Eichholtzer	10714,51,10
 Matérielles DRH Direction des Resssources Humaines EiE	15541
+Mauritania EITI	17893
+Mauritania EITI National Coordinator	17893
+Mauritania Six EITI	17893
 Max EIRP	12949
 Mbeki and New Eisleben Road	8999
 Member States. The EIB	789
@@ -421,6 +435,7 @@ Minister of Health Either Participant	4217
 Ministry of Finance Eighty	3583
 Misuse of EIB Group Resources and Assets	15901
 Model Conceptual EIF Governance Service Public	17097
+Moderate Assessment Assessment of EITI Requirements	17893
 Mohammed Eidha TANNAF AL MENHALI. Abu	16118
 Mozambique Either Party	10713
 NCC and EIZ	1988
@@ -433,6 +448,8 @@ NIST Cybersecurity Framework and Australia’s Essential Eight	6936
 NOSi. EIXO	15476
 NOTA PARA A COMUNICAÇÃO SOCIAL Eis	11461
 NPV and EIRR	16949
+NPV and EIRR. Improvements	17962
+Next Einstein Forum. Ouverture	17853
 Nigeria Either Party	4302
 Nine Hundred and Eighty Pula	12597,9
 Nine Hundred and Eighty-Five Thousand	12597
@@ -452,6 +469,7 @@ Physicist Albert Einstein	1810
 Point Max EIRP	12949
 Primary Eight and Senior Four	8940
 Prior EIB	472,379
+Prior EITI	17893
 Priority Area Number Eight	15473
 QUADRO INSTITUCIONAL DA IMPLEMENTAÇÃO DA EIPCD	15694
 REPÚBLICA Eis	3519,7942
@@ -467,6 +485,7 @@ Rwanda’s CRVS and EIR	977
 SCHEDULE SEVENTH SCHEDULE EIGHTH SCHEDULE NINTH	14843
 SECTION EIGHT	15909
 SEVENTH SCHEDULE EIGHTH SCHEDULE NINTH SCHEDULE	14717
+SOEs for EITI	17893
 SOUTENU PAR EISA	9480
 Safety EIA Environmental Impact Assessment EIS	17114
 Scheme Either	10819
@@ -505,6 +524,7 @@ Unlimited Eir	15471
 VAT EIDMS Regulations	14932
 VAT and EIS	13122
 VDPV DHA ONO EID EMR	4153
+West African States EIB European Investment	17862
 Year and Eid	5765
 Year’s and Eid	4725
 Zambia EITI	13654

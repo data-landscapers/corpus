@@ -47,11 +47,17 @@ Amazon’s Elastic Compute Cloud	9123
 Angola Elaborado	11387
 Assembleia Nacional. Elaborar	11376
 Assistance ECO ECOWAS EFT ELA	17235
+Assurer la Existence de Elaborer	17845
+Assurer la Existence de Elaborer le Bulletin CNDIFE ETAT	17845
+Audit Elaborer	17872
 Audit QoS Elaboration	998
 Autárquicas. Ela	11561
+Bamako Elaboration du Glossaire	17978
 Bié LUCINDA TATIANA ELAVOCO SINJENCUMBI KAZEQUENE	10751
 Blueprint Elaboration Process Readiness Assessment Assessed	14752
+Bureau Elaborer	17872
 CA Aprovação Adequação DSF Elaboração	11435
+CPS Elaborer le Plan Stratégique du Système CPS	17845
 CSS INS A2O3R1.4 Elaboration	15580
 Centro Materno Infantil de Bissau. Elas	17015
 Cible A2O2R4.2 Elaboration	15580
@@ -65,6 +71,7 @@ Constitution Elaborate	12201
 DGI A3.1.2.8.NA A3.1.2.9.NA Elaborer	10858
 DGI DGI A3.2.3.3 Elaborer	10858
 DGI Elaborer	10858
+DHIS2. Elaboration	17845
 Danyi Elavanyo	17550
 Direction de Coordination du Programme Elargi de Vaccination	10919
 Départements Elaboration	15848
@@ -86,19 +93,29 @@ Elaborado	11544,5376
 Elaborados	2816
 Elaborar	13,154,1534,2445,1,71,6532,4,29,585,6,2,5,1,48,12,1,5,1,6,1,62,9,371,3460,1,32,59,27,26,1,22,46,122,218,986,32
 Elaborar Planes de Acción	1701
-Elaborate	5677,5152,411,961,2727,625,106,1498
+Elaborate	5677,5152,411,961,2727,625,106,1498,713
 Elaborate the FM	11855
 Elaborating	14211,2946
-Elaboration	998,1344,1014,248,406,2949,2447,1305,1,146,16,1,52,48,518,412,39,1346,11,132,35,970,1,496,602,5,26,12,59,20,26,27,10,126,85,80,182,170,164,112,106
+Elaboration	998,1344,1014,248,406,2949,2447,1305,1,146,16,1,52,48,518,412,39,1346,11,132,35,970,1,496,602,5,26,12,59,20,26,27,10,126,85,80,182,170,164,112,106,1095,2,1,15,13,28,6,38,1,61,70
+Elaboration de La StartUP Act	17907
 Elaboration des DAO	10975
+Elaboration des Equilibres	17945
+Elaboration des INSTAT MSDS	17946
+Elaboration des Rapports	17842
 Elaboration des Stratégies	15542
+Elaboration des Tableaux	17945
 Elaboration du Budget	4870
 Elaboration du Budget Annuel	10876
 Elaboration du Cadre	15673
+Elaboration du Draft du PS-SNISS	17845
 Elaboration du PSNSC	15712
 Elaboration du PTA	10876
+Elaboration du Plan INSTAT	17842
 Elaboration du Plan National de Financement	16195
 Elaboration du Plan Stratégique National	15712
+Elaboration du Rapport ODHD	17842
+Elaboration du Rapport Pays	17842
+Elaboration du SDS	17842
 Elaboration du Schéma Directeur du Numérique SDN	15568
 Elaborations	14438,1
 Elaboração	13,2803,7936,31,580,50,17,14,4,3,5,7,60,3,31,12,452,761,2606,8,139,159,272,1181
@@ -115,9 +132,11 @@ Elaboração de Estudos de Impacte Ambiental	11390
 Elaboração de Lei de Protecção de Dados	2816
 Elaboração de Projetos Educativos	15694
 Elabore	14662
-Elaborer	998,7,1961,390,40,613,6817,32,16,2,89,2325,11,40,2131,2,68,26,56,88,26,47,63,522,159
+Elaborer	998,7,1961,390,40,613,6817,32,16,2,89,2325,11,40,2131,2,68,26,56,88,26,47,63,522,159,1295,21,27,10,195
 Elaborer des PPP	13306
 Elaborer la Stratégie Nationale de Développement	16620
+Elaborer le Bulletin INSTAT	17842
+Elaborer le Glossaire	17978
 Elaborer le PTBA	16012
 Elaborer le RAP	15569
 Elaboré	15474,848
@@ -128,7 +147,7 @@ Elaf Alnayer	15139
 Elanyo Emegnimo	15298
 Elarbi Touahria	16263
 Elargir	1005,12285
-Elargissement	7797,2915,5616,1157
+Elargissement	7797,2915,5616,1157,416
 Elargissement des Exclusions	16328
 Elasha Biyaha	5941
 Elasri Sid Ahmed	15608
@@ -137,15 +156,18 @@ Elastic Scaling	11952
 Elastic Scaling Requirement	11952
 Elasticity	13868
 Elasticity of GDP	14674
-Elasticsearch	13037
+Elasticsearch	13037,4865
 Elastomeric	11269
 Elation	14284
 Elayah	5349
 Elebi Víctor Ele Ela	10361
 Emily Elaine Gardner	11560
+Equipe Elaboration CS CS CS CS	17844
 Etat Moyen Terme Elaborer	15512
+Etude Bamako Elaboration	18077
 Facilité Elargie de Crédit	1300,14540
 Facilité Elargie de Crédit LOLF	15840
+Facilité Elargie de Crédit. En	18063
 Georges Elanga Obam	3234,8464,4119
 Georges Elanga Obam. L'événement	15817
 Georges Elanga Obam. Selon	11698
@@ -163,6 +185,7 @@ INS DEP MEDDBC A2O2R3.4 Elaboration	15580
 IV.2.2 Elaboración	16898
 Ia Elanque Ccntralc	15443
 Instituto de Modernização Administrativa. OE5. Elaborar	11379
+Interventions Elaborer	17845
 JUSTIFICACIÓN Y METODOLOGÍA DE ELABORACIÓN	16898
 M. Farid Elasri	8891
 M. Mohamed Elamine Dridi	15602
@@ -192,10 +215,13 @@ PROCESSO DE ELABORAÇÃO DA ENDE	11526
 PTFs A2O2R2.3 Elaboration	15580
 PTFs A2O2R3.2 Elaboration	15580
 Pour Georges Elanga Obam	11698
-Programme Elargi	15685
+Programme Elargi	15685,2260
 Programme Elargi de Vaccination	13300,1362,1023
+Programme Elargi de Vaccination PEV	17842
 Programme Elargi de Vaccination PFA	15423
 Programme Elargi de Vaccination PHAGEDIS	14442
+Programme Prioritaire Elargi	17873
+Programme Prioritaire Elargi du Président PSA	17844
 Proyecto de Elaboración	4209
 R10. Elargir	15474
 R2. Elaborer	15474,19
@@ -205,12 +231,15 @@ RESULTATS ATTENDUS Elaboration	10712
 Rabea’ Elawal	15492
 Raihan Elahi	11572
 Rehost Elasticity	6432
+Revue Elaborer	18077
 S Elaboration	10829
 SCN2008 Elaborar	16898
 SECTOR STRATEGIC PLAN ELABORATION PROCESS	14935
 SETIC Elaborate	1284
 SP-SSP ELABORATION PROCESS	14942
 SSN A2O3R1.2 Elaboration	15580
+Sahel ProPEP Programme Prioritaire Elargi du Président	17907
 TDR PARA A ELABOARAÇÃO DE PGAS	11390
+Utilisateurs de Elaborer	18077
 VIII.4.3 Elaboration	10876
 Vaccins Le Programme Elargi de Vaccination	15423

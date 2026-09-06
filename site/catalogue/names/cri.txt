@@ -120,6 +120,7 @@ CPA Crime Pattern Analysis CPF Community	11188
 CPF CPP CRI DA DFIL DIME	15658
 CPF Country Partnership Framework CRI Corporate	15621,763
 CRI AIPs	16994
+CRI COVID-19	17904
 CRI CR and ID	11971
 CRI CRI CRI	16187
 CRI Comments	6928,5300,39,3746,174
@@ -130,6 +131,7 @@ CRI Dec	16144
 CRI Description Number	15661
 CRI Disability-Adjusted Life Years DALYs District	11417
 CRI Disaggregated	10768
+CRI Establishment	17962
 CRI Jul	3604
 CRI Jun	3604,2975,349,4489,554
 CRI Mar	11971
@@ -137,7 +139,7 @@ CRI New People	4653,11379
 CRI Number	10768
 CRI Oct	16144
 CRI Official Use Only Page	11417
-CRI People	2712,1976,1891,349,3942,1101,296,4438,289
+CRI People	2712,1976,1891,349,3942,1101,296,4438,289,910,58
 CRI Recipients	10870
 CRI Result Month	4653,11379
 CRI Revise People	4653,11379
@@ -185,6 +187,7 @@ CRITERIA FOR OCCUPATION PERMIT	7845
 CRITERIA FOR OPEN GOVERNMENT DATA	1243
 CRITERIA ISSUES TO BE ADDRESSED Social	15845
 CRITERIA POINTS Price	11209
+CRITICAL	17969
 CRITICAL ACCOUNTING JUDGEMENTS AND ESTIMATES	10793
 CRITICAL CONSIDERATIONS	6432
 CRITICAL INFORMATION INFRASTRUCTURE	2727
@@ -205,11 +208,13 @@ CYBER CRIMES ACT	2726
 Caixa Económica de Cabo Verde Soeli Cristina	11955
 Cameroon. Criminal	10979
 Cameroonian Criminal Procedure Code	10979
+Carl Cristian Dingel	17962
 Carta Direitos da Criança	10750
 Cases of Crises and Natural Disasters	16902
 Central African Republic Emergency Food Crisis	16398
 Central Criminal Investigation Department	14753,7
 Central Criminal Investigation Department CI	14760
+Centre National de Documentation Criminelle	17848
 Centre National de Prévention du Crime	15848
 Certificado de Registo Criminal	2688,3298,10009
 Certificado de Registo Criminal. Edição Nº	10752
@@ -237,7 +242,7 @@ Close Critical Skills Gap	13089
 Co-Criar. In Criolo	11546
 Cocinero B3 Criado A3	4209
 Code Criticité C	15525
-Code of Criminal Procedure	11900,1413,2080
+Code of Criminal Procedure	11900,1413,2080,2541
 Code of Criminal Procedure. Law	15393
 Code of Criminal Procedure. Under	13313
 College of Marine Science and Technology CRA Criteria	13960
@@ -381,7 +386,7 @@ Crimes Reported	2775
 Crimes and Penalties ARTICLE	15484
 Crimes and Penalties Article	15492
 Criminais	10750
-Criminal	180,40,1254,403,1729,9,512,1381,25,453,1480,1805,345,1133,1,1,1,1,12,7,3,204,159,43,96,8,183,139,289,32,15,43,160,187,335,245,7,120,363,545,64,730,67,389,161,213,455,916,387
+Criminal	180,40,1254,403,1729,9,512,1381,25,453,1480,1805,345,1133,1,1,1,1,12,7,3,204,159,43,96,8,183,139,289,32,15,43,160,187,335,245,7,120,363,545,64,730,67,389,161,213,455,916,387,554,66
 Criminal Abortion	16935
 Criminal Act	10192
 Criminal Act. Saleh	10192
@@ -461,6 +466,7 @@ Criminal Procedure Code Law	11857
 Criminal Procedure Law	9064
 Criminal Procedure and Evidence Act	972,7892,4447
 Criminal Procedure and Evidence Code	12174,1838
+Criminal Provisions	17934
 Criminal Record Certificate	11939,2982
 Criminal Record Certificate. MEDIA	12333
 Criminal Record Information Management System	14107
@@ -487,11 +493,13 @@ Criminalidade Organizada Transnacional	15359
 Criminalisation	9231
 Criminalisation of Free Speech and Punitive Responses	13313
 Criminality	16943
-Criminalité	8891
+Criminalité	8891,8950
 Criminalité Transnationale Organisée	13330
 Criminalité Transnationale Organisée Convention	13442
+Criminalization of Discrimination Act	17934
 Criminalizing	11860
 Criminals	4127,2638,1169,990,160,532,148,33,601,1253,190,268,932,1334,3198
+Criminelle	17812
 Criminosos	2816
 Criou	2816
 Crioulo	11525
@@ -505,10 +513,11 @@ Crisantos Eyene Bitegue	11633
 Crisantos Obama Ondo	2432
 Crisantos Ondo	17307
 Criscuolo	2816
-Crise	6959,1838,2078,689,4868,929
+Crise	6959,1838,2078,689,4868,929,652,1,49
 Crise Climática	15962
 Crise Electrique	15702
-Crises	11356,2236,1447,153,1530
+Crises	11356,2236,1447,153,1530,1310
+Crises Alimentaires	17886
 Crises URL	13592
 Crisis	1000,1093,2337,2517,2803,1091,139,156,220,1575,46,103,233,1583,446,373,1187,115,140,15,113
 Crisis Cognition	7151
@@ -599,7 +608,8 @@ Criterion	3321,4227,9376
 Criterion How It’s Proven	15080
 Criterios	414,1287,15154
 Criterios Determinantes	16855
-Critical	26,755,2,116,59,196,130,493,1,109,53,649,138,60,397,1,29,369,21,257,664,100,235,384,3,304,114,12,420,91,85,159,516,225,132,243,40,298,80,21,296,177,663,6,637,89,162,51,131,1,521,44,10,6,210,4,136,4,5,86,46,13,116,68,436,50,31,9,115,122,70,57,62,6,17,9,179,285,125,11,110,43,125,1,819,8,282,41,453,30,32,182,163,211,105,73,481,672,40,15,3,24,45,88,15,26,17,103
+Critical	26,755,2,116,59,196,130,493,1,109,53,649,138,60,397,1,29,369,21,257,664,100,235,384,3,304,114,12,420,91,85,159,516,225,132,243,40,298,80,21,296,177,663,6,637,89,162,51,131,1,521,44,10,6,210,4,136,4,5,86,46,13,116,68,436,50,31,9,115,122,70,57,62,6,17,9,179,285,125,11,110,43,125,1,819,8,282,41,453,30,32,182,163,211,105,73,481,672,40,15,3,24,45,88,15,26,17,103,702
+Critical Alerts Should Never Auto-Diffuse	17969
 Critical Areas Seed Distribution Orange Alert	17157
 Critical Assessment Information	13477
 Critical Bank	11134
@@ -716,16 +726,18 @@ Critiques the Nadella	6808
 Critiquez	4960,62,2035
 Critiquing the Corporate Exploitation of Humanitarian Crises	12227
 Critlres	14479
-Critère	748,439,5767,3754,4721,214
+Critère	748,439,5767,3754,4721,214,2199
 Critère Avant ATS Après ATS Délai	6146
 Critère Données	1187
 Critère Durabilité Transparence Adaptabilité Analyse Faible	16328
 Critère Efficacité Impact	16328
-Critères	1247,3320,1416,4892,264,428,1957,31,160,703,5,703,429,165,27,33,68,75,97,83,478,166
+Critère Preuve P1 Preuve P2 Preuve	18015
+Critères	1247,3320,1416,4892,264,428,1957,31,160,703,5,703,429,165,27,33,68,75,97,83,478,166,1125,73,92,26
 Critères CAD	13635
 Critères Catégorie I II III Compétence	15780
 Critères Coefficient	16322
 Critères D'éligibilité	16438
+Critères de Performance	17902
 Critérios	11373,36,7,726,3947,49,1466
 Critérios de Avaliação	11456
 Critérios de Avaliação Geral	11390,16
@@ -786,6 +798,7 @@ DATA CONTINUITY AS PERPETUAL CRISIS	12090
 DCNI Department of Critical National Infrastructure DML	11857
 DECONTAMINATING THE CRIMINAL JUSTICE SYSTEM	11277
 DENOMINATION COMMUNE INTERNATIONALE FORME DOSAGE CRITERES	15930
+DES CRIMES ET DELITS LIES AUX	17841
 DES DETITS ET CRIMES COMMIS PAR	15397
 DESENVOLVIMENTO INTEGRAL DA CRIANÇA	10777
 DESIGNATION OF CRITICAL INFRASTRUCTURE	12302
@@ -823,6 +836,8 @@ Directive Helped Trigger the Financial Crisis	10
 Director for Critical Information Infrastructure	7308
 Director for Priority Crime Investigation DRDLR Department	11188
 Director of Criminal Investigations	8790
+Directorate General for Civil Security and Crisis	17969
+Directorate General for Civil Security and Crisis Management	17969
 Directorate for Priority Crime	11986
 Directorate for Priority Crime Investigation	5533,2821,3487
 Directorate of Corruption and Economic Crime	3887
@@ -833,15 +848,17 @@ Direitos da Criança O Instituto Nacional de Estudos	10750
 Dishonesty Crime Against Morality Crime Against	14760
 Disponibilização de Criação	15694
 Documentation Crisis Technical Constraints	12457
+Domaine Critères	18077
 Drought Crisis	17157
 Drug and Crime URR Upper River Region	17105
-Drugs and Crime	4810,528,332,1136,954,1591,265,2950,406,122,1648,983,477,741,94
+Drugs and Crime	4810,528,332,1136,954,1591,265,2950,406,122,1648,983,477,741,94,897
 Drugs and Crime Guinea-Bissau	11586
 Drugs and Crime UNSDCF United Nations Sustainable	15725
 Drugs and Crimes UNSDCF United Nations Sustainable	16943
 Désiré-Clitandre Dzonteu Crise	16432
 E CRIAÇÃO DE INCUBADORAS DAS TIC	11397
 EAC Monetary Union Criteria	14986
+ECOBANK Critères Composition	17833
 ELIGIBILITY CRITERIA AND ENTITLEMENT MATRIX	17114
 ELIGIBILITY CRITERIA AND ENTITLEMENT MATRIX Project	17114
 ELIGIBILITY CRITERIA The Ministry	13037
@@ -974,6 +991,9 @@ Gambia’s Criminal Procedure Code	17330
 Gender Based Crimes and Child Protection Department	13466
 Generate and Criteria	12376
 Genocide and Crimes Again	26
+Gestion des Crises	17873,45
+Gestion des Crises Alimentaires	17941
+Gestion des Crises EIE Etudes	17907
 Global Crisis Response Framework	14456
 Global Financial Crisis	10
 Global Financial Crisis. Having	11027
@@ -1069,7 +1089,7 @@ Instrução Criminal	15
 Intensified Water Stress Moderate Agricultural Crisis	17157
 Intermediaries Criteria	12376
 International AI Policy and Governance Crisis	11156
-International Criminal Court	3583,2894,40,8225,259
+International Criminal Court	3583,2894,40,8225,259,2869
 International Criminal Court Act	14742
 International Criminal Police Organisation	9757
 International Criminal Police Organization	9185,431,3337,3935
@@ -1122,6 +1142,7 @@ MAGISTRATES’ COURT CRIMINAL	13504
 MARCHÉS DES INFRASTRUCTURES CRITIQUES	8313
 MATIERES PREMIERES CRITIQUES ET STRATEGIQUES ENTRE	15613
 MDAs. Critical	9123
+MEF and AGETIC. Critical	17870
 MELHORAR E IMPULSIONAR A CRIAÇÃO	11397
 METODOLOGIA E CRITÉRIOS DE AVALIAÇÃO	11390
 MFIS. Criteria	11855
@@ -1145,6 +1166,7 @@ Matthew Crighton	13975
 Micro-Establishments Criteria Micro-establishments	15085
 Micro-Establishments Criteria3	15085
 Ministry of Health Crisis	17157
+Mme Cristina Mateu Gallego	18015
 Money Laundering and Proceeds of Crime Act	13311
 Mozambique's Criminal Code. Lastly	12161
 Ms Maria Cristina Russo	11288
@@ -1197,15 +1219,18 @@ Organized Crime and Violence. Cover	4127
 Orgãos de Polícia Criminal	539
 Orion Critical Mineral Consortium	4447
 Owner of Critical Infrastructure Any	7538
+P2FP Critère Preuve P1 Preuve P2	18015
+PAGFAM. Critère Preuve P1 Preuve P2	18015
 PAN Entry and Participation Criteria for Authorisation	12365
 PART III- CRITICAL NATIONAL INFRASTRUCTURE Designation	12459
 PART IV PROTECTION OF CRITICAL INFORMATION	2727
 PART TWO IDENTIFYING CRITICAL INFRASTRUCTURE	7538
 PASEDE CRIS	14546
-PERFORMANCE CRITERIA	13741,2011
+PERFORMANCE CRITERIA	13741,2011,2238
 PERIODIC REVIEW MANDATES AND EVALUATION CRITERIA	3861
 PLAN DE PROTECTION DES INFRASTRUCTURES CRITIQUES	10906
 PREMIER DES CRIMES ET DETITS COMMIS	15397
+PROCEDURE EN MATIERE DE CRIMES Article	17841
 PROGRESS Leader Blames Electricity Crisis	17208
 PROVOCATION AUX CRIMES ET DETITS	15397
 PW Classic Labor-Intensive Public Works CRI	15138
@@ -1241,6 +1266,8 @@ Preventing Criminal Activities	15120
 Prevention and Combating of ICT-Related Crimes	4755
 Prevention of Genocide and Other Crimes Against Humanity	10841
 Prevention of Organised Crime Act	8840,2337,13
+Principes Critères Accessibilité Principe	17842
+Principes Critères Principe	17842
 Priority Districts Critically Needing Coverage Counties	17239
 Priority Priorities Uses Critical Needs	17157
 Procedures and Criteria for Citizenship Determining Refugee	11986
@@ -1346,9 +1373,11 @@ Scene of Crime	12984
 Scene of Crime Office	14745
 Scene of Crime Office SP	14760
 Scientific and Industrial Research CTA Crime Threat	11188
+Scènes de Crime	17899
 Search Criteria	13333,1314
 Section Evaluation Criteria Points Allocation Weight	11240
 Section III Evaluation and Qualification Criteria	15080
+Section III. Critères	17914
 Sector-Specific Critical Information Infrastructure	11754
 Security And Reliability Of Critical ICT	14879
 Secção I Criação	15359
@@ -1369,6 +1398,7 @@ Silencing Criticism	13313
 Simbarashe Crispen Kanyimo	9794
 Sistema Integrado de Estatísticas Criminais	16487
 Sistema Integrado de Informação Criminal	11540
+Situations de Crise	17945
 Skills and Knowledge. CRITERIA	15460
 Social and Criminal Statute	10765,10
 Somali Cabinet Approves Crisis Communications Protocol	15235
@@ -1410,7 +1440,7 @@ Title Chapter Extent of Repeal Criminal Code	11857
 Trans National Organized Crime	12984
 Transnational Organised Crime Unit	9077
 Transnational Organised Crime. Simultaneously	4583
-Transnational Organized Crime	3583,13291
+Transnational Organized Crime	3583,13291,1060
 Transparency Crisis	17139
 Transparency.org Crimes	16943
 Transport License. CRIMINAL RECORD	12333
@@ -1442,6 +1472,7 @@ WBG CRI. Intermediate Indicator Component	11965
 WBG’s COVID-19 Crisis Response Approach Paper	15518
 WBG’s COVID-19 Crisis Response Approach64	13331
 WEIGHT CRITERIA DESCRIPTION Addressed	11252
+Waiver of Applicability of Performance Criteria	17990
 War Crimes Court	17139
 War and Crisis	12227
 War and Economic Crimes Court	16970,169

@@ -1,6 +1,6 @@
 A. Civil And Political Rights	14742
 A. RIGHT TO EDUCATION	14073
-A. RIGHT TO EDUCATION Discrimination	14073
+A. RIGHT TO EDUCATION Discrimination	14073,3897
 A. Right	1630,1953
 AAUCA. All Rights Reserved	17307
 ADMINISTRATION AND LAND RIGHTS FOR PEACE	16916
@@ -62,11 +62,13 @@ Authority. CHAPTER THREE RIGHTS OF DATA	12185
 Availability of License of Rights Database	12389
 B. Data Subject Rights Requirement	13381
 B. RECENT RATIFICATIONS OF HUMAN RIGHTS	14031
-B. RIGHT TO FREEDOM OF OPINION	14073
+B. RIGHT TO FREEDOM OF OPINION	14073,3897
 B. Right	3583
+BCEAO. Right	17870
 BILITY IS RIGHT	10581
 BMC International Health and Human Rights	12188
 Balancing Rights and Freedoms	2363
+Bamako Civil and Political Rights	17950
 Banking Services Property Rights	10835,3,130,902,16,466,1,135
 Basic Human Right	12336
 Bill of Fundamental Voters’ Rights and Duties	12905
@@ -82,6 +84,7 @@ Business and Human Rights. Modest Activation	17139
 Business and Human Rights.66	11007
 C Right	13189
 C. CULTURAL RIGHTS	14073
+C. RIGHT TO FREELY PARTICIPATE	17970
 C. Right	1630,1953
 C. Violations of User Rights	12333
 CHAPTER IV HUMAN RIGHTS	12891
@@ -102,6 +105,7 @@ CONSTITUTIONAL PRINCIPLES OF DIGITAL RIGHTS	3861
 CONTINUITY OF RIGHTS AND OBLIGATIONS	4360
 CRP.5 A. Right	3583
 CRP.5 C. Right	3583
+CULTURAL RIGHTS	17970
 Cadastral Registration and Property Rights System	12211
 Cairo Institute for Human Rights Studies	11079
 Category Tenure Application Fee Landing Rights	10407
@@ -154,6 +158,7 @@ Click Right Groups	11298
 Coalition of Human Rights Defenders	15007
 Coding and Encoding Rights	11028
 Commission Right	12549
+Commissioner for Human Rights	17934
 Communal Land Rights Act Act No	11261
 Communication Technology INHCR Independent Human Rights	16943
 Communication of Right	12201
@@ -187,6 +192,7 @@ Copyright and Related Rights Bill	8490,78,2
 Copyright and Related Rights Law	12161
 Could Kenya Be the Next Refugee Rights	12227
 Court Must Uphold Constitutional Right of Refugees	12227
+Court. Rights	17934
 Creditor's Rights	12389
 Cultural Rights	16916
 Cultural and Social Rights	13040
@@ -195,7 +201,7 @@ Customary Rights	17114
 Cutting-Edge Innovation Meets Scientific Rigor	7702
 D Right	13189
 D. Rights	3583
-D. THE RIGHT	14073
+D. THE RIGHT	14073,3897
 DATA CENTRES AND HUMAN RIGHTS	14673
 DATA SUBJECT'S RIGHTS Rights	1333
 DATA SUBJECTS RIGHTS	1333
@@ -275,6 +281,7 @@ Drawing Rights Sexual Exploitation	1228
 Duration Quality of Service Consumer Rights Data	5676
 Dynamics and Fate of Media and Free Expression Rights	9660
 Dynamics and Future of Media and Free Expression Rights	9960
+E Associational and Organizational Rights E1	17967
 E. Right	1630
 E.5 and F.1. F.3 Rights	14778
 ENABLING THE RIGHTS OF A DATA	14435
@@ -285,10 +292,11 @@ EUR Rights	970
 EUR Sustainable Human Rights	970
 EURO SPECIAL DRAWING RIGHTS	15743
 EVERYONE ENJOYS SECURE LAND RIGHTS LAND	16916
-EXPRESSION AND RIGHT TO INFORMATION	14073
+EXPRESSION AND RIGHT TO INFORMATION	14073,3897
 East and Horn of Africa Human Rights	15007
 Economic Social and Cultural Rights	13040
 Educate About Rights	12675
+Education and HerAtlas. B. RIGHT TO FREEDOM	17970
 EgyptWide for Human Rights	11079
 Egyptian Commission for Rights and Freedoms	11079
 Egyptian Front for Human Rights	11079
@@ -330,6 +338,7 @@ Farmer Participation and Seed Rights Farmers	14818
 Fate of Media and Free Expression Rights	9661
 File Photo Purchase Licensing Rights	4057,2874
 Finance Bill Should Guarantee Digital Rights	14932
+Findex. Right	17870
 Forced Labour Rights	10835,3,130,902,16,466,1,135
 Foreign Control and Right	14008,28,385,2551
 Former Deputy President Rigathi Gachagua	11084
@@ -347,6 +356,7 @@ Fundamental Rights	3861,667,7984,2453
 Fundamental Rights Enforcement Procedure Rules	11956
 Fundamental Rights Impact Assessments	4689
 Fundamental Rights Protection GUARANTEEING	3861
+G Personal Autonomy and Individual Rights G1	17967
 GENERAL PRINCIPLES AND CONSUMER RIGHTS	17243
 Gender Rights	3654
 Gender and Digital Rights Programme Officer	7990
@@ -357,7 +367,7 @@ Get Kenya's Refugee Act Right. CNBC	12297
 Getting It Right	8088
 Getting Patient Records Right	12458
 Getting the Basics Right	16858
-Global Alliance of National Human Rights Institutions	13097,1654
+Global Alliance of National Human Rights Institutions	13097,1654,3183
 Global Digital Rights Coalition	17771
 Global Human Rights Framework Integration	3861
 Global Human Rights Framework Integration Universal	3861
@@ -374,6 +384,7 @@ HUMAN RIGHTS	13097
 HUMAN RIGHTS INSTITUTIONS The Office	14742
 HUMAN RIGHTS Key	14742
 HUMAN RIGHTS MANDATE	13097
+HUMAN RIGHTS VIOLATIONS	17950
 Harmonized Right of Way	11857
 Health and Rights STD Sexually Transmitted Disease	970
 High Commission for Human Rights PAPD Pro-Poor	16943
@@ -407,12 +418,13 @@ Human Rights Committee	3583,3368,6089,1711,138
 Human Rights Committee’s Working Group	13040
 Human Rights Community Workshop	13097
 Human Rights Consulting Group	9082
-Human Rights Council	3583,1,7626,658,320,13,839,1033,1058,837,990
+Human Rights Council	3583,1,7626,658,320,13,839,1033,1058,837,990,976,36
 Human Rights Council Advisory Committee	3583
 Human Rights Council Resolution	6949
 Human Rights Council Sixtieth	3583
-Human Rights Council Working Group	16958
+Human Rights Council Working Group	16958,976
 Human Rights Crisis	3584
+Human Rights Defender	17950
 Human Rights Defenders	14742,3003
 Human Rights Defenders Network Strategic Plan	11586
 Human Rights Department	16958
@@ -453,7 +465,7 @@ Human Rights Writers Association of Nigeria	10093
 Human Rights and Administrative Justice	3384,4985,2
 Human Rights and Administrative Justice of Ghana	12956
 Human Rights and Constitutional Matters	7650
-Human Rights and Democracy	789
+Human Rights and Democracy	789,17161
 Human Rights and Democracy Thematic Programme	970
 Human Rights and Development	3005
 Human Rights and Disinformation	10729
@@ -501,6 +513,7 @@ Human and People’s Rights AI Artificial Intelligence	1814
 Human and People’s Rights. This Data Policy	961
 ICT Rights Economics	15789
 IDC’S RIGHTS	11209
+III. RECOMMENDATIONS A. RIGHT TO EDUCATION	17970
 IMF Special Drawing Rights. Annual Integrated	11134
 IMF’s Special Drawing Rights	11131
 IMPACT AREA RIGHT OF WAY	11857
@@ -516,6 +529,7 @@ INTERIM REPORTS Right	3714
 INTERNATIONAL HUMAN RIGHTS INSTRUMENTS	14742
 INTERNATIONAL HUMAN RIGHTS NORMS	14742
 IPPMEDIA.COM. ALL RIGHTS RESERVED	2857,3026,94,2907,5333
+IPR Intellectual Property Rights IPRI Intellectual	17870
 ITU All Rights Reserved Back	9434,1990
 ITU Digital Rights Report	12214
 Icyongereza. Rigena	14863
@@ -619,6 +633,7 @@ Liberia’s Land Rights Act	17114
 Life Transitions and Awareness of Rights	17165
 Limitation of Rights JUDGMENT TWALA	2307
 Linear Meter for Right of Way	11857
+LÉMENTS RIGOLE EN	17812
 MALAWI DIGITAL READINESS ASSESSMENT Human Rights	12214
 MENA Startup Digest All Rights Reserved	5322
 MInT. All Rights Reserved	13971
@@ -659,7 +674,7 @@ National Council for Childhood and Motherhood Child Rights	15604
 National Council for Human Rights	17441
 National Council for Human Rights and Civil Liberties	17264
 National High-Commission for Human Rights of Central African	10826
-National Human Rights Commission	7409,2418,384,360,1574,832,1765,9,79,9,8,2040,71,15
+National Human Rights Commission	7409,2418,384,360,1574,832,1765,9,79,9,8,2040,71,15,961,54
 National Human Rights Commission of Equatorial	16958
 National Human Rights Commission. The Commission	17228
 National Human Rights Council	3583
@@ -680,9 +695,10 @@ Notification PART IX RIGHTS	13321
 Notification Right	13321
 Nubian Rights Forum	2024,7058
 O Rigorous Statistics Techniques	14777
-OPINION AND EXPRESSION AND RIGHT	13739
+OPINION AND EXPRESSION AND RIGHT	13739,4231
 OPTIONS AND PREFERENTIAL RIGHTS RELATING	4896
 Objectifs de Développement Durable. C. Cultural Rights	15968
+Observatory of Killed Journalists.8 C. THE RIGHT	17970
 Office de Rigulotion de I'Electricift PAEEP Projet	14479
 Official Documentation and Rights	17043
 Ownership of Results and Intellectual Property Rights	15901
@@ -694,6 +710,7 @@ PART VI Rights of Persons	13470
 PARTICIPATION RIGHTS ANTI-CORRUPTION SUSTAINABLE Rank	10835
 PEOPLES’ RIGHTS	14742,49
 POLITICAL RIGHTS Article	14742
+PR Political Rights	17967
 PRINCIPLES FOR RIGHTS-BASED USE OF AI	11156
 PROTECTING PRIVACY AND USER RIGHTS	10765
 PROTECTION AND PROMOTION OF RIGHTS	14743
@@ -710,27 +727,30 @@ Patients’ Rights Charter	17289
 PeeringDB All Rights Reserved	14881
 PeeringDB. All Rights Reserved	12743
 Peoples' Rights	9399
+Peoples’ Rights	17950
 People’s Rights	10841
 People’s Rights of Persons	14742
 Personal and Family Rights	13948
 Perspective of Human Rights Watch	2518
 Platform Governance and Digital Rights Discussions	12104
 Policy. Rights	7548
-Political Rights	14852
+Political Rights	14852,3115
 Porte-parole du Gouvernement Rigobert IKAMBOUAYAT NDEKA	15464
 Power and Promise of Animal Rights	2518
 Preferred Option for Rigathi Gachagua	7869
 Privacy Rights	12214
 Project Promot- Property Rights	15901
 Prometheus Institute for Democracy and Human Rights	8811
-Promotion and Protection of Human Rights	12956,1786
+Promotion and Protection of Human Rights	12956,1786,3192
 Promotion and Respect of Human Rights	16958
 Promotion of Digital Rights and Online Safety. Media	10725
 Promotion of Human Rights and Democracy	16958
 Promotion of Indigenous Minority Rights	11868
 Promotion of Right	4489
+Promotion of Women's Rights	17862
 Property Rights	5246,5513,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,869,267
 Property Rights Index	14997
+Property Rights Index ISP Internet Service	17870
 Property Rights MARS Mauritius and Rodrigues Submarine	14729
 Property Rights Management	11939
 Property Rights and National Sovereignty. New York	11310
@@ -775,7 +795,7 @@ RIGHTS AND DUTIES OF RECOGNIZED REFUGEES	16830
 RIGHTS AND LEGAL SERVICES	13097
 RIGHTS AND OBLIGATIONS FOR THE PROVISION	14919
 RIGHTS AND OBLIGATIONS OF REFUGEES	11177
-RIGHTS AND PERMISSIONS	10985,2410,3547
+RIGHTS AND PERMISSIONS	10985,2410,3547,927
 RIGHTS AND WELFARE OF THE CHILD	14150
 RIGHTS ARE PROMOTED AT NATIONAL LEVEL	14742
 RIGHTS ATTACHING TO ORDINARY SHARES	4896
@@ -800,6 +820,7 @@ RIGHTS PARTICIPATION Rank	12352
 RIGHTS Personal Liberties	10759,78,1052,451
 RIGHTS Personal Liberties Freedom of Expression	10759
 RIGHTS Public Perception of Health Provision	10835,3,130,902,16,466,1,135
+RIGHTS RESERVED	17869
 RIGHTS Rank	10759,78,1,1502
 RIGHTS TO SELL	17043
 RIGHTS-BASED FOUNDATION FOR AI GOVERNANCE	11156
@@ -828,7 +849,7 @@ Rigathi Gachagua Other Not Sure	7869
 Rigaud	16144
 Rigena	14870
 Rigging	11154
-Right	3,8,14,2,560,149,33,392,59,23,90,141,790,43,32,794,42,200,208,131,88,59,63,202,131,191,41,39,368,101,516,38,127,159,61,143,80,514,173,257,144,339,658,230,49,562,27,679,389,23,176,164,209,71,37,86,133,138,2,12,127,197,383,56,21,49,9,55,55,1,22,17,16,26,67,42,53,123,36,1,112,110,120,8,4,36,26,22,66,42,94,122,10,31,29,80,9,81,15,115,267,3,18,104,361,1,14,75,68,2,133,13,2,119,4,9,19,14,1,57,96,251,81,248,295,32,868,3,8,13,12,15,86,33,12,96,129,84
+Right	3,8,14,2,560,149,33,392,59,23,90,141,790,43,32,794,42,200,208,131,88,59,63,202,131,191,41,39,368,101,516,38,127,159,61,143,80,514,173,257,144,339,658,230,49,562,27,679,389,23,176,164,209,71,37,86,133,138,2,12,127,197,383,56,21,49,9,55,55,1,22,17,16,26,67,42,53,123,36,1,112,110,120,8,4,36,26,22,66,42,94,122,10,31,29,80,9,81,15,115,267,3,18,104,361,1,14,75,68,2,133,13,2,119,4,9,19,14,1,57,96,251,81,248,295,32,868,3,8,13,12,15,86,33,12,96,129,84,543,64,36
 Right Honorable Dr. Justin NSENGIYUMVA	15023
 Right Honorable Prime Minister	12682,274
 Right Honourable Dr. Elijah Ngurare	12984
@@ -868,7 +889,7 @@ Right-sizing	6432
 Right. Journal of Economic Perspectives	13624
 Right. So	7065
 Rightly	4259
-Rights	3,24,485,446,12,241,9,113,648,128,198,370,328,578,46,85,147,1024,11,425,708,26,1092,20,381,435,365,734,657,55,547,29,389,6,10,9,28,7,16,2,1,74,25,23,8,60,43,14,440,82,158,92,13,16,1,1,1,18,232,6,7,1,1,9,3,35,52,74,8,2,3,1,11,1,14,22,99,173,230,3,18,47,18,28,26,2,7,40,17,51,183,13,24,78,24,211,267,3,11,49,398,13,12,59,224,25,99,33,15,18,19,101,9,90,206,42,41,58,131,297,935,3,12,9,14,76,8,13,143,182,34,443,7
+Rights	3,24,485,446,12,241,9,113,648,128,198,370,328,578,46,85,147,1024,11,425,708,26,1092,20,381,435,365,734,657,55,547,29,389,6,10,9,28,7,16,2,1,74,25,23,8,60,43,14,440,82,158,92,13,16,1,1,1,18,232,6,7,1,1,9,3,35,52,74,8,2,3,1,11,1,14,22,99,173,230,3,18,47,18,28,26,2,7,40,17,51,183,13,24,78,24,211,267,3,11,49,398,13,12,59,224,25,99,33,15,18,19,101,9,90,206,42,41,58,131,297,935,3,12,9,14,76,8,13,143,182,34,443,7,154,16
 Rights Action Plan	13097
 Rights Annex III	12241
 Rights Categories Internally Displaced Person	14074,391,2229,733
@@ -876,7 +897,9 @@ Rights Commission	12201,1260,3716
 Rights Commission Office	16973
 Rights Committee's General Comment	9399
 Rights Concern	17745
+Rights Council	17950
 Rights Culture Democracy Education	9067
+Rights Defenders	17950
 Rights Foundation	7983,3045
 Rights Foundation. Cover	6029
 Rights Global Director	13681
@@ -910,7 +933,7 @@ Rights and Innovation Protection	12675
 Rights and Obligations of Infrastructure Provider	15081
 Rights and Obligations of Infrastructure Seeker	15081
 Rights and Permission	10714,51,10,1553
-Rights and Permissions	4214,6571,27,29,135,1,159,13,122,274,27,302,5,2,465,188,778,2,703,880,550,33,1516
+Rights and Permissions	4214,6571,27,29,135,1,159,13,122,274,27,302,5,2,465,188,778,2,703,880,550,33,1516,874,36
 Rights and Permissions Rapid	16876
 Rights and Welfare	1597,1986,6211,971,10,1202,1000,63,991,118,1,592,132,2000
 Rights and Welfare of Children	16860
@@ -939,13 +962,14 @@ Rights of Nations	13948
 Rights of Older Persons	14742
 Rights of PWDs	16950
 Rights of People	11935,3728
-Rights of Persons	940,2065,578,1950,2145,2089,1059,366,573,135,35,40,11,215,30,229,106,126,283,2,16,40,186,170,81,215,273,53,20,118,1,592,1,8,23,115,147,568,59,1209,15,63,8,219,119
+Rights of Persons	940,2065,578,1950,2145,2089,1059,366,573,135,35,40,11,215,30,229,106,126,283,2,16,40,186,170,81,215,273,53,20,118,1,592,1,8,23,115,147,568,59,1209,15,63,8,219,119,638
 Rights of Persons Accused	13948
 Rights of Persons Held	13948
 Rights of Refugees	12227
 Rights of Way	12389,2490,1993
 Rights of Way and Buffer Zones	14947
 Rights of Women	1988,3545,2145,3087,10,418,793,215,738,101,908,83,118,2802,7
+Rights of Women and Girls	17934
 Rights-Based Framework Aligned	15224
 Rights-Based Lesson	17745
 Rights-based	11156,2525
@@ -1024,7 +1048,7 @@ Social Cultural Rights	3583
 Social Economic Rights and Development Centre	11866
 Social Media and Digital Rights	10017
 Social Protection Is the Right Vehicle	17311
-Social and Cultural Rights	2958,47,578,1,2950,4231,10,990,1275,57,851,794,132,162,568,364,983
+Social and Cultural Rights	2958,47,578,1,2950,4231,10,990,1275,57,851,794,132,162,568,364,983,983,36
 Social and Cultural Rights CMO	14742
 Social and Cultural Rights ICT Information and Communication	17114
 Social and Cultural Rights IEC	16951
@@ -1053,6 +1077,7 @@ Strength of Intellectual Property Rights Protection	12389
 Strengthen Disability Rights Implementation	17177
 Strengthen Disability Rights Implementation Feb	17177
 Strengthen Disability Rights Implementation URL	17177
+Strengthening Civic Space and Promoting Human Rights	17950
 Strengthening the Legal Framework for Digital Rights VII	17745
 Stronger Rights Protections	9937
 Stronger Rights Protections By Patricia Ainembabazi	9145
@@ -1080,7 +1105,7 @@ UN High Commissioner for Human Rights	15001,2770
 UN Human Rights	12201
 UN Human Rights Commission	12201
 UN Human Rights Committee	12201,758
-UN Human Rights Council	3584,8617,839
+UN Human Rights Council	3584,8617,839,4853
 UN Human Rights Office	3584,543,6880
 UN REPORTS SERIOUS HUMAN RIGHTS VIOLATIONS	4127
 UN's Human Rights Office	15220
@@ -1091,7 +1116,7 @@ Uganda Digital Rights Dialogue Stakeholders	6113
 Uganda Human Rights Commission	9783
 United Nations Centre for Human Rights and Democracy	16958
 United Nations Commissioner for Human Rights	3583
-United Nations High Commissioner for Human Rights	3583,3368,1853,2352,1575,2020,591,1616,15
+United Nations High Commissioner for Human Rights	3583,3368,1853,2352,1575,2020,591,1616,15,961
 United Nations Human Rights Commission	6776,5425
 United Nations Human Rights Committee	12201
 United Nations Human Rights Council	3583,544,5018,1696,2282
@@ -1100,7 +1125,7 @@ United Nations Human Rights Council. First	3584
 United Nations Human Rights Council’s Universal	14742
 United Nations Human Rights Office	11977
 United Nations Universal Declaration of Human Rights	8747,2430,779
-Universal Declaration of Human Rights	1963,995,47,578,278,892,568,212,3410,1154,722,659,129,97,252,30,215,166,412,226,35,108,800,794,99,20,28,715,364,872,20,14,77,66
+Universal Declaration of Human Rights	1963,995,47,578,278,892,568,212,3410,1154,722,659,129,97,252,30,215,166,412,226,35,108,800,794,99,20,28,715,364,872,20,14,77,66,917,36
 Universal Declaration of Human Rights UN	16951
 Universal Declaration of Human Rights. All	16958
 Universal Declaration of Human Rights. Retrieved	10819

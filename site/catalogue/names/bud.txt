@@ -19,6 +19,7 @@ AWPB Annual Work Plan and Budget BIF	1284
 AWPB Annual Work Plan and Budget BP	15515
 AWPB Annual Work Plan and Budget CAR	10829,4832
 AWPB Annual Work Plan and Budget CBA	16896
+AXES STRATEGIQUE OBJECTIFS SPECIFIQUES Budget	17882
 Accountability and Budget Transparency	12176
 Accounting and Budgeting Division	14744
 Actions Annuel Budgétisé	13349
@@ -54,6 +55,7 @@ Approved Actual YTD YTD Budget YTD	6422
 Approved Budget	750,540,494,1,1,1,1,5,3,1
 Approved Budgets	17634
 Approved Revenue Budget	17011
+Appui Budgétaire	18015
 Appuis Budgétaires PEF	15999
 Area of Project Name Project Description Budget	11986
 Avant-Projet du Budget	16032
@@ -65,7 +67,7 @@ BETWEEN ORIGINAL AND REVISED BUDGET Original	14736
 BN Budget National CDMT Cadre des Dépenses	10712
 BPP Budget	10157
 BUDESONIDE	15930
-BUDGET	962,10003,2157,210,1421,803,234,137,957,42,179
+BUDGET	962,10003,2157,210,1421,803,234,137,957,42,179,722,74
 BUDGET ADDRESS BY HONOURABLE DR. SITUMBEKO	13435
 BUDGET ALLOCATION	11285
 BUDGET ALLOCATION CONTEXT	1810
@@ -76,10 +78,12 @@ BUDGET ARTICLE QUATRE-VINGT-SIXIÈME	15999
 BUDGET AUTONOME	16006
 BUDGET BY INSTITUTION	1756,1,1,1,1,1,1,1,1,1,1375,1,1,1,1,1,1,1,1,3764,1,1,1,1,1,1,1,1
 BUDGET DE L'ETAT	1325,1,1,1,1,1,685,1,1,1,1,1,266,1869,1,1,1,1,1,770,2955
+BUDGET DE L'ETAT PAR TITRE BUDGETAIRE	17972
 BUDGET DE L’ETAT A. BUDGET GENERAL	16047
 BUDGET DE MISE EN	14488,1,1
 BUDGET DEFICIT	5655
 BUDGET DETAILLE DU PSNSN	16195
+BUDGET DU PNDS PAR PROGRAMME EN	17843
 BUDGET ESTIMATES	12606,3321
 BUDGET ESTIMATES BOOK	13126
 BUDGET ET DE L'ECONOMIE NUMERIQUE	13524
@@ -87,7 +91,8 @@ BUDGET EXECUTION Table	12962
 BUDGET Engagement	15712
 BUDGET GENERAL	16047
 BUDGET GENERAL SECTION	16047
-BUDGET GLOBAL	10712
+BUDGET GLOBAL	10712,7271
+BUDGET GLOBAL L’estimation	17983
 BUDGET MEASURES	14828,3
 BUDGET MEASURES ON HEALTH SECTOR	14773
 BUDGET MENAPLN	10847
@@ -173,7 +178,7 @@ Budg. Targ. Targ. Targ. Education	11907
 BudgIT	5155,190,6521,76,54
 Budgei	15429
 Budgel	15429
-Budget	86,123,191,1,162,80,5,50,1,19,4,1,25,17,24,117,45,1,17,186,33,22,41,1,1,1,1,17,1,1,1,6,3,1,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,2,1,1,1,90,2,79,1,21,2,9,1,9,6,1,2,12,18,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,4,2,46,1,1,1,1,22,1,1,1,1,1,1,1,1,1,11,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,9,4,12,6,6,1,31,52,12,1,1,1,1,1,1,1,5,10,3,6,27,5,3,6,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,4,1,1,1,1,1,1,1,1,1,10,1,1,1,1,1,1,1,1,1,1,1,1,44,13,1,16,124,180,1,1,1,1,1,5,84,65,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,85,69,32,50,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,54,3,1,1,1,1,5,18,56,19,17,42,1,16,1,1,1,1,1,1,1,1,15,1,1,1,1,1,1,1,1,1,29,1,1,1,1,1,1,1,1,1,46,126,14,10,177,21,2,32,27,11,1,29,9,4,97,20,10,1,14,106,27,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,11,1,21,4,30,20,1,1,1,1,1,1,8,61,1,18,55,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,18,1,21,7,1,1,1,1,1,1,4,4,1,4,1,1,1,4,1,1,8,1,1,1,1,1,1,1,1,1,1,1,1,2,34,1,1,7,17,1,1,1,1,1,1,1,1,1,16,1,1,1,1,1,8,12,26,13,1,1,1,1,1,10,1,1,1,19,38,1,1,1,1,1,4,49,8,17,12,131,60,66,25,25,5,12,16,24,74,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,4,39,12,139,59,14,62,98,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,152,1,15,27,10,41,113,1,112,127,56,106,6,1,1,1,25,57,11,24,38,1,18,70,19,48,8,7,15,60,64,5,11,1,1,1,1,1,1,1,1,23,68,71,1,1,1,1,1,1,1,1,70,62,22,19,33,69,176,7,122,10,15,105,37,48,16,52,25,16,33,37,99,33,503,24,76,92,271,136,127,12,485,350,228,8,9,76,40,75,4,9,91,58,4,2,1,23,2,14,5,16,28,10,10,20,12,114,3,2,10,69,41,5,13,15,228,7,333,1,8,50,70,26,31,84,49,64,1,2,79,7,62,193,4,1,9,4,6,309,5,34,15,5,1,5,17,54,2,25,13,2,27,1,23,20,137,26,2,3,7,14,8,27,28,18,9,31,6,23,6,8,5,1,24,3,3,10,18,4,1,2,63,5,10,6,11,30,56,1,9,15,112,30,1,2,210,34,27,128,10,44,15,3,2,11,6,57,1,1,132,29,7,84,3,5,3,40,7,19,10,6,6,1,8,5,2,16,23,11,28,50,1,18,15,12,133,178,11,8,10,4,12,24,38,12,13,1,25,42,27,11,17,1,52,8,1,2,7,17,18,9,8,2,2,5,9,8,6,5,1,32,44,3,11,60,61,8,22,7,14,5,7,15,24,28,96,53,22,53,5,42,12,73,20,25,81,2,33,4,7,1,7,10,62,17,109,17,1,12,21,39,3,1,16,1,3,16,8,4,124,6,9,2,22,1,57,32,8,21,3,181,13,5,125,91
+Budget	86,123,191,1,162,80,5,50,1,19,4,1,25,17,24,117,45,1,17,186,33,22,41,1,1,1,1,17,1,1,1,6,3,1,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,2,1,1,1,90,2,79,1,21,2,9,1,9,6,1,2,12,18,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,4,2,46,1,1,1,1,22,1,1,1,1,1,1,1,1,1,11,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,9,4,12,6,6,1,31,52,12,1,1,1,1,1,1,1,5,10,3,6,27,5,3,6,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,4,1,1,1,1,1,1,1,1,1,10,1,1,1,1,1,1,1,1,1,1,1,1,44,13,1,16,124,180,1,1,1,1,1,5,84,65,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,85,69,32,50,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,54,3,1,1,1,1,5,18,56,19,17,42,1,16,1,1,1,1,1,1,1,1,15,1,1,1,1,1,1,1,1,1,29,1,1,1,1,1,1,1,1,1,46,126,14,10,177,21,2,32,27,11,1,29,9,4,97,20,10,1,14,106,27,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,11,1,21,4,30,20,1,1,1,1,1,1,8,61,1,18,55,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,18,1,21,7,1,1,1,1,1,1,4,4,1,4,1,1,1,4,1,1,8,1,1,1,1,1,1,1,1,1,1,1,1,2,34,1,1,7,17,1,1,1,1,1,1,1,1,1,16,1,1,1,1,1,8,12,26,13,1,1,1,1,1,10,1,1,1,19,38,1,1,1,1,1,4,49,8,17,12,131,60,66,25,25,5,12,16,24,74,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,4,39,12,139,59,14,62,98,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,152,1,15,27,10,41,113,1,112,127,56,106,6,1,1,1,25,57,11,24,38,1,18,70,19,48,8,7,15,60,64,5,11,1,1,1,1,1,1,1,1,23,68,71,1,1,1,1,1,1,1,1,70,62,22,19,33,69,176,7,122,10,15,105,37,48,16,52,25,16,33,37,99,33,503,24,76,92,271,136,127,12,485,350,228,8,9,76,40,75,4,9,91,58,4,2,1,23,2,14,5,16,28,10,10,20,12,114,3,2,10,69,41,5,13,15,228,7,333,1,8,50,70,26,31,84,49,64,1,2,79,7,62,193,4,1,9,4,6,309,5,34,15,5,1,5,17,54,2,25,13,2,27,1,23,20,137,26,2,3,7,14,8,27,28,18,9,31,6,23,6,8,5,1,24,3,3,10,18,4,1,2,63,5,10,6,11,30,56,1,9,15,112,30,1,2,210,34,27,128,10,44,15,3,2,11,6,57,1,1,132,29,7,84,3,5,3,40,7,19,10,6,6,1,8,5,2,16,23,11,28,50,1,18,15,12,133,178,11,8,10,4,12,24,38,12,13,1,25,42,27,11,17,1,52,8,1,2,7,17,18,9,8,2,2,5,9,8,6,5,1,32,44,3,11,60,61,8,22,7,14,5,7,15,24,28,96,53,22,53,5,42,12,73,20,25,81,2,33,4,7,1,7,10,62,17,109,17,1,12,21,39,3,1,16,1,3,16,8,4,124,6,9,2,22,1,57,32,8,21,3,181,13,5,125,91,149,3,2,6,1,6,1,21,18,4,48,37,1,6,5,3,46,45
 Budget Actual	13093
 Budget Address	12369,1067
 Budget Alignment Comparison Across Pillar Infrastructure	17139
@@ -182,6 +187,7 @@ Budget Allocation Reported Expenditure	3583
 Budget Allocation Reported Expenditure Legal	3583
 Budget Allocation Reported Expenditure Regional	3583
 Budget Allocations	3176,13687
+Budget Allouer	17824
 Budget Amounts	16978
 Budget Analysts	16524
 Budget And Procurement Management	16944
@@ -201,6 +207,7 @@ Budget Brief. UNICEF	13209
 Budget CAST	10847
 Budget CHF	690,1
 Budget Citoyen	1272,781,1484,10404
+Budget Codioro Moussa N'guénore	17909
 Budget Committee	13420,188
 Budget Committee of Parliament	12987
 Budget Committees	15790
@@ -232,6 +239,7 @@ Budget Division	12176
 Budget Document Number	13122
 Budget Documents	14800
 Budget Documents and Financial Records	17139
+Budget Dépenses RH Dépenses RH Dépenses	17882
 Budget ETAT	10847
 Budget EUR	256,384,2,442,1
 Budget Economic Transformation	17139
@@ -253,7 +261,7 @@ Budget Funding	395
 Budget Funding US	395
 Budget GNU Government of National Unity MINCOMBUD	11986
 Budget Guidelines	15790
-Budget Général	1270,12175,215,1815,524,1524
+Budget Général	1270,12175,215,1815,524,1524,449
 Budget Général MNDPT	14573
 Budget Général. Karim TAJMOUATI	17483
 Budget IATI	450
@@ -275,7 +283,8 @@ Budget Ministère	15712
 Budget Mobile	13395
 Budget Monitoring Committee	14835
 Budget Mr. Speaker Sir	13122
-Budget National	1281,14117,1218
+Budget National	1281,14117,1218,1362
+Budget National BSI	17842
 Budget National CAME	15475
 Budget National de Développement	16645
 Budget National. Article	4420
@@ -323,6 +332,7 @@ Budget Selection Franc CFA CFA	15372
 Budget Speech	1660,1,1,1,1,1,1,1,1,1,1,1,1,1,1,742,221,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,728,1010,540,759,2154,4021,722,2,8,838,1306,3,8,7,14,26,20,8,1,2,4,8,2015
 Budget Speech PDF	13436
 Budget Speech and National Budget Estimates	12956
+Budget Spécial	17842,103
 Budget Statement	970,776,2354,1,290,8560
 Budget Statement and Economic Policy	7695,8234
 Budget Statement and Economic Policy of Government	7695
@@ -341,6 +351,7 @@ Budget Transparency By Kebba A.F. Touray	14212
 Budget Transparency and Accountability	16944
 Budget Transportation Status Report	16970
 Budget Treasury	7548
+Budget URL	17972
 Budget US	3339
 Budget Utilisation and Budgetary Control	13420
 Budget Variance Analysis	9437
@@ -375,6 +386,7 @@ Budget and One Monitoring and Evaluation Framework	13166
 Budget and Procurement	16944
 Budget and Spending	9354
 Budget and Spending Tier	10721
+Budget and Tolmali	17870
 Budget de Fonctionnement BID	15475
 Budget de I'ARPT La Direction Générale de I	16615
 Budget de I'Etat	15419
@@ -400,7 +412,7 @@ Budget-Tables	1672,1,963,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,728,465,1785,1,2,1,1,1,
 Budget-day	1746,1219,50,3415,157
 Budget-de-l'Etat	1776
 Budget-framework	13772
-Budget-programme	15848
+Budget-programme	15848,2167
 Budget. BeSafeMoris	14750
 Budget. Ce	7994
 Budget. Cette	16502
@@ -435,7 +447,7 @@ Budgetary Review and Recommendations Report	11230
 Budgetary State Department	7548
 Budgetary Subventions	16858
 Budgetary Treasury	7548
-Budgeted	17099
+Budgeted	17099,872
 Budgeted Amount K23	13355
 Budgeted Expenditure	10870
 Budgeted K70	13355
@@ -484,6 +496,7 @@ CTA Vehicle Charges The Budget for CTA	12971
 Cadre Budgétaire	15569,271
 Capital Budget	11136
 Cashflow Budget	11209
+Ce Budget	17986
 Central African Republic Ministry of Finance and Budget	4127
 Chef de Service du Budget	16381
 Chief Budget Managers	14935
@@ -519,20 +532,25 @@ Current Financial Year Budget	12962
 D Budgetary	961
 DA Designated Account DBAG Directorate of Budget	17458
 DAMAS Le Ministre du Budget	15533
+DANS LE BUDGET CONFEDERATION DES ETATS	18032
+DANS LE BUDGET Vu le Décret	18032
 DE DIGITALISATION DE LA GESTION BUDGÉTAIRE	16646
 DE L’EQUILIBRE BUDGETAIRE GENERAL Article	16020
 DE L’EVALUATION DES RECETTES BUDGETAIRES Article	16020
 DE SUIVI DU BUDGET DE L’ETAT	16047
 DECLARATION SUR LES RISQUES BUDGETAIRES	15840
 DEPENSES BUDGET GENERAL	15999
-DEPENSES BUDGETAIRES	16047
+DEPENSES BUDGETAIRES	16047,1925
 DEPENSES BUDGETAIRES Article	16047
 DEPENSES DES BUDGETS GENERAL ET ANNEXES	15426
+DEPENSES PAR TITRE BUDGETAIRE DEPENSES	17972
 DES BUDGETS	16047
 DES BUDGETS ANNEXES ET DES COMPTES	16047
+DES CHARGES DU BUDGET	17972
 DES CONDITIONS GENERALES DE L’EQUILIBRE BUDGETAIRE	16020
 DES CREDITS DU BUDGET DE L’ETAT	16020
 DES DEPENSES BUDGETAIRES CHAPITRE	16047
+DES DISPOSITIONS BUDGETAIRES	17819
 DES RESSOURCES DU BUDGET GENERAL	15999
 DESCRIPTION Actual Amounts Final Budget Original	16978
 DEVELOPMENT BUDGET	12597,4508
@@ -541,6 +559,7 @@ DIRECTION GENERALE DU BUDGET ET DES	14436
 DIRECTION GENERALE DU BUDGET Introduction Dans	2476
 DIRECTION GENERALE DU BUDGET RAPPORT	3396
 DISPOSITIONS BUDGETAIRES Article	13772
+DISPOSITIONS BUDGETAIRES ET COMPTABLES Section	17816
 DU BUDGET	15426,132,186,157,276,248
 DU BUDGET B	16425
 DU BUDGET DE L'ETAT	3396
@@ -583,8 +602,9 @@ Directeur Général du Budget	15778
 Directeur Général du Budget Vice-président	16616
 Direction Generale du Budget	11794
 Direction Générale Budget	643
-Direction Générale du Budget	1306,724,531,1746,11054,26,325,85,139
+Direction Générale du Budget	1306,724,531,1746,11054,26,325,85,139,1891,118
 Direction Générale du Budget DGDDI	15840
+Direction Générale du Budget DGI DNA Direction	17842
 Direction du Budget	1536,14039,1883
 Directions Générales Inspection Générale des Finances Budget	15449
 Director of Budget and Economic Affairs	11131,3
@@ -649,6 +669,7 @@ Expenditure Budgeting	15790
 Extra Budgetary Units	14830
 Exécution Budgétaire	4420
 Exécution Budgétaire DLP	14573
+Exécution de Budget	17830
 Exécution du Budget	998,9977
 Exécution du Budget du MCTIT Par Année	13500
 F. Resource Allocation and Budget Management	16975
@@ -659,6 +680,7 @@ FINANCIAL YEAR BUDGET	13122
 FINANCIAL YEAR BUDGET REQUESTS	12597
 FINANCING PLAN AND BUDGET	13965,892
 FIXATION DES PLAFONDS DES BUDGETS ANNEXES	16047
+FNACT du Budget National DIN	17978
 FSPand Budget	17595
 FY-2025 Budget Performance	17235
 FY2017 Budget Proclamation	750,540
@@ -679,6 +701,7 @@ Finance and Budget Minister Essowe Georges Barcola	4395
 Finance and Budget Minister Georges Barcola	7426
 Finance and Budget Oversight	12753
 Finance and Budget of Guinea	5787
+Finances Charge du Budget CODIORO MOUSSA N'GUENOR	17901
 Finances du Budget	13341
 Financial Affairs and Budget Oversight Commission	3901
 Financial Analysis Annual Planned Budget	14058
@@ -726,7 +749,7 @@ General Director of Budget	13314
 General Directorate of Budget and Public Finance	15447
 General State Budget	6694
 General State Budget. HEC	15393
-Gestion Budgétaire	16635,2
+Gestion Budgétaire	16635,2,1378
 GoK Budget B1- Value of NIF	7548
 Government Accounting and Budgeting System	2576
 Government Budget	12420,3612,820
@@ -766,6 +789,7 @@ IX. BUDGET PREVISIONNEL DU PMPP ET	16104
 IX.1.3. Budget du PNDS	15685
 IX.2.1. Budget	15685
 IX.2.2. Budget	15685
+IXP Budget	17835
 Implementation Arrangements and Budget	17114
 Implementation Schedule and Budget	17114
 Implementation Shall Define Budget Outcomes	8723
@@ -805,7 +829,7 @@ LETTRE DE CADRAGE BUDGETAIRE POUR L'EXERCICE	1866
 LG Total Budget Versus OSR	13418
 LG Total Budget Vs. OSR Collections	13418
 Lack of Budgeting	13532
-Le Budget	1281,5476,1349,6319,2220
+Le Budget	1281,5476,1349,6319,2220,1179
 Le Budget du BNM	14451
 Le Cadre Budgétaire	15569
 Le Document de Politique Budgétaire	3396
@@ -855,6 +879,7 @@ MOFEA’s Departments of Budget and Planning	16858
 MPSLS' Ministry of Budget	11905
 MTEF Medium-Term Expenditure WBI Women’s Budget	11193
 Malawi Budget Policy Statement	14674
+Mali- Budget	18077
 Management System SIGOF Integrated Financial and Budget	11863
 Massive Budgetary Boost for Justice	17398
 Mc Hungary Europe Eastern Europe Budapest	10840
@@ -998,6 +1023,8 @@ PGES Mesures du PGES Budget	14488,1,1
 PILLARS Budget Funding	395
 PLAFONDS DES DEPENSES DU BUDGET	16047
 PLAN D'ACTION BUDGETISE DE LA STRATEGIE	15479
+POLITIQUES AU TITRE DE L’EXERCICE BUDGETAIRE	17829
+PREPARATION DU BUDGET Chef de Section Commissaires	17899
 PRESENTATION DES BUDGETS ANNEXES ET DES	16047
 PRESENTATION DU BUDGET GENERAL PAR TITRE	16047
 PRESENTATION DU BUDGET GENERAL SECTION	16047
@@ -1050,6 +1077,7 @@ Program Based Budget Pilot	14626
 Program Based Budgeting	15090,1854
 Program Based Budgets	13005
 Program-Based Budgeting	13060,1944,2360
+Programmation Budgétaire	18047
 Programmation Budgétaire ESU	16365
 Programme Based Budgeting	13685,2105
 Programme Budget	17281
@@ -1063,11 +1091,13 @@ Project Description Budget Allocation District Specific	11986
 Project Management and Citizen Engagement. Budget	4653
 Project PBB Program Base Budgeting PEFA	17105
 Projet de Budget	13923
+Projets Budget	17882,181
 Proposed Budget Reallocations Across Components	16187
 Proposed Capacity Building and Training Budget	12253
 Proposed Recurrent Budget	12606
 Proposed Revised Budget Post Restructuring	2989
 Prospective DPBEP Document de Programmation Budgétaire	10712
+Préparation du Budget Sapeurs-pompiers	17899
 Public Budget	17260
 Public Budget Allocation	14033
 Public Budget Preparation and Execution System	9489
@@ -1088,12 +1118,14 @@ RECURRENT BUDGET AND EXPENDITURE REPORT	12975
 RECURRENT BUDGET ESTIMATES	12606
 RELEASED BUDGET	15927
 REPARTITION DU BUDGET PAR OBJECTIF Objectif	13306
+RESSOURCES FINANCIERES ET BUDGETAIRES Article	17886
 RESUME BUDGET DE L’ETAT RESSOURCES BUDGETAIRES	16047
 RRA BUDGET EXECUTION	14985
 RRA Budget	14985
 RRA Budget and Expenditure	14985
 RUBRIQUE EXECUTION BUDGET	998
 Ratio Budget Santé	15475
+Rechercher Budget	17989
 Recurrent Budget	12598,8
 Recurrent Budget Book	6431
 Recurrent Budget Expenditure Summary	12962
@@ -1126,6 +1158,8 @@ Ring-Fence Maintenance Budgets	17260
 Ring-Fence Ministries Maintenance Budgets	17260
 Risques Budgétaires	15840
 RÉPARTITION DES DÉPENSES DU BUDGET	2476
+RÉPARTITION DU BUDGET PAR CATÉGORIE BUDGÉTAIRE	17843
+RÉPARTITION DU BUDGET PAR SOUS-PROGRAMMES PRIORITAIRES	17843
 Règlement de Gestion des Budgets Publics	13334
 Réforme Budgétaire PF	15475
 Répartition du Budget	15685
@@ -1140,10 +1174,12 @@ SITUATION D'EXÉCUTION DU BUDGET PAR PROGRAMME	6548
 SITUATION DE MOBILISATION DES RECETTES BUDGETAIRES	3396
 SNBS Integrated Household Budget Survey	11136
 SOCIAL PROTECTION AND WELFARE BUDGET ISSUE	11133
+SPD Ministère des Finances Direction du Budget DG	17844
 SSA. Budget EUR	1085
 STAKEHOLDER ENGAGEMENT BUDGET	1778
 STATEMENT OF COMPARISON OF BUDGET	16978
 STATEMENT OF COMPARISON OF BUDGETS	14736
+STRUCTURE DE GOUVERNANCE ALLOCATION BUDGETAIRE Mali	17824
 SUMMARY OF ESTIMATES COMPARATIVE BUDGET SUMMARY	13093
 Sample Budget and Capacity Audit Templates Category	3861
 Sector Plans and Budgets	16858
@@ -1159,6 +1195,7 @@ State Budget Allocations	16032
 State Budgets	11536
 State Security Agency Dept Budget Vote	11277
 States Budgets	14857
+Stratégiques Objectifs Stratégiques Budget	17882
 Sub Department Amount Budgeted	14738
 Subvented Agencies and Budgeting Transfers	16858
 Subvention du Budget Général	15999
@@ -1166,6 +1203,7 @@ Supplementary Budget II	2428
 Supplementary Budget Proclamation No	1784,1,2,10
 Supplementary Budget ZWL	13420
 Supplementary Budget. Correspondence	13420
+Synthèse Budget	17882
 Système Inter-Gouvernemental de Budgétisation	15650
 Système Intégré de Gestion Budgétaire	15650
 Système Intégré de Gestion des Operations Budgétaires	16032
@@ -1187,6 +1225,7 @@ Travail DIRECTION GENERALE DU BUDGET Octobre	15840
 Trillion Birr Budget	3176
 Trillion Birr Budget for Upcoming Ethiopian Fiscal	1798
 Trillion Birr Federal Budget	7091
+UMOA. TITRE IV DISPOSITIONS BUDGETAIRES	17816
 UNDP United Nations Development Budgeting	11193
 Un-named BUDGET SPEECH	13123
 Understanding and Analyzing Public Sector Budget	16978
@@ -1198,6 +1237,7 @@ VII.2 RÉPARTITION DU BUDGET PAR AXE	13306
 VII.3 BUDGET DÉTAILLÉ Type Libellé Indicateurs	13306
 VIII. CARACTERISTIQUES DU BUDGET DE REALISATION	15624
 VIII. PROPOSED MINISTRY BUDGET FOR FINANCIAL	12598
+Variation RESSOURCES BUDGETAIRES DETAILLEES EN MRU	17972
 Vashish Kiranchand Sookrah Le Budget	7994
 Villes Budget	16627
 Volatility Budget	12241

@@ -22,6 +22,8 @@ BI Business Intelligence BM Banque Mondiale	10712
 BM Afrique	14401
 BM Appui Technique	13433
 BM Assainissement	643
+BM Banque	18015
+BM Conception	17896
 BM En	15799
 BM Equipe	16012
 BM Equipe BM	16012
@@ -62,6 +64,7 @@ BMD Births	12970
 BMHTS	12600
 BMI's Sub-Saharan Africa Telecommunications Risk	6152
 BMI-CI FINANCES	15577
+BMICE	17909
 BMIT Knowledge Group	10129
 BMJ Glob. Health	11585
 BMJ Global Health	4781,4347,1737,1548
@@ -79,6 +82,8 @@ BMP Economic Consulting	7345
 BMPA Le Conseil des Ministres	2342
 BMS BNDA BSIC MALI CORIS BANK	11588
 BMS Electronic Border Management System	12947
+BMS MOOV MONEY BNDA CORIS BANK	18017
+BMS SÉNÉGAL	18017
 BMSA CDLM. Admin MMPE	2342
 BMSA En	2342
 BMSC LOGISTIQUE	16623
@@ -164,6 +169,8 @@ BMyth	5349
 BMyths&doi	5700
 Bank of West African States BMI Body	2775
 Banque Africaine de Développement BM Banque Mondiale	10975
+Banque BMCI	17939
+Banque Malienne de Solidarité BMS-SA C	17841
 Benin BMZ	823,1
 Bes BMZ	455
 Bm ARCEP Signal	10856
@@ -172,6 +179,7 @@ Bm Decibel-milliwatts DPP Democratic Progressive Party	14674
 Bm RSCP	10856
 Bm RSRP	10856
 Bm. Aceitável	11556
+Bm. C’est	17866
 Bm. Inexistente	11556
 Bm. Muito Má	11556
 Bm. Má	11556
@@ -274,6 +282,7 @@ Ruanda BMZ	1424
 Rwanda. BMC Digit Heal	8376
 République de Guinée BM	16621
 Réunion du COPIL du PSIPJ BM Equipe BM	16012
+S BMD No25	17853
 SARS and BMA	2681
 SCN2008 INEGE BM	16898
 Sauvegardes BM Immédiat Soumettre	16012

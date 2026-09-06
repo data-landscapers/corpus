@@ -164,6 +164,7 @@ Code of Good Practice	5533,6453,909,4005
 Code of Good SOE Governance	13868
 Code of Transparency and Good Governance	15566
 Cohorts Google	674
+Columbia University AI for Good	18039
 Common Good	5700,5306
 Common Good Economy	5700
 Common Good Framework	11006
@@ -224,6 +225,8 @@ DV360 and Google Ads	13461
 Dakar Chapter Google Scholar Onyekwelu C	9739
 Data Boundary and Google Distributed Cloud	10798
 Data Explanation Example Good Poor Definition	12360
+Data ScienceData for Good AI and Data Science	18039
+Data for Good	18039
 Data for Good In Malawi	12214
 Declaration of Helsinki and Good Clinical Practice	11578
 Democracy and Good Governance	7452,2208,7357
@@ -449,6 +452,7 @@ Good Storage and Distribution Practices	4301
 Good Very	17149
 Good and Services Grants Social Benefits	14835
 Good of All	7548
+Good-faith	17990
 Good. Component	13654
 Good. Licenses	13654
 Good. Multi-stakeholder	13654
@@ -515,7 +519,7 @@ Goodwill	4102
 Goodwood Station Social Housing Project	11248
 Goody Stein	15524
 Googe	13461
-Google	415,156,7,14,81,1,1,1,8,92,123,62,4,39,239,2,19,3,4,91,1,66,7,79,75,46,90,40,77,60,2,83,37,185,78,4,5,36,41,20,23,97,107,5,51,2,46,91,14,41,120,316,5,30,2,31,8,8,11,34,29,5,149,39,34,19,71,69,8,63,25,15,25,58,64,17,24,85,199,59,1,41,141,170,43,16,3,117,17,31,19,30,39,39,15,24,3,10,4,46,62,2,1,46,69,88,4,9,15,84,83,9,15,10,9,14,16,54,77,60,26,69,59,48,1,18,16,1,8,136,9,50,1,6,29,11,4,59,13,10,64,47,22,37,17,18,26,45,15,15,21,1,17,13,44,5,22,7,17,2,8,13,60,3,3,34,2,28,72,48,8,6,205,48,17,118,55,67,122,8,67,45,36,51,17,59,3,69,18,88,24,35,35,8,60,46,48,6,1,6,83,75,153,11,8,50,84,94,58,197,74,16,12,13,38,145,16,52,23,14,39,33,44,82,38,222,2,35,89,20,16,59,91,9,304,13,33,13,77,56,34,62,9,7,2,14,14,6,11,122,101,9,7,74,189,89,18,42,22,13,69,100,29,97,26,33,108,190,224,43,11,138,158,45,1,1,61,83,3,1,21,46,310,85,397,60,10,282,1,14,209,223,270,81,22,19,344,11,117,230,205,207,3,144,99,70,33,59,106,160,25,35,1,51,311
+Google	415,156,7,14,81,1,1,1,8,92,123,62,4,39,239,2,19,3,4,91,1,66,7,79,75,46,90,40,77,60,2,83,37,185,78,4,5,36,41,20,23,97,107,5,51,2,46,91,14,41,120,316,5,30,2,31,8,8,11,34,29,5,149,39,34,19,71,69,8,63,25,15,25,58,64,17,24,85,199,59,1,41,141,170,43,16,3,117,17,31,19,30,39,39,15,24,3,10,4,46,62,2,1,46,69,88,4,9,15,84,83,9,15,10,9,14,16,54,77,60,26,69,59,48,1,18,16,1,8,136,9,50,1,6,29,11,4,59,13,10,64,47,22,37,17,18,26,45,15,15,21,1,17,13,44,5,22,7,17,2,8,13,60,3,3,34,2,28,72,48,8,6,205,48,17,118,55,67,122,8,67,45,36,51,17,59,3,69,18,88,24,35,35,8,60,46,48,6,1,6,83,75,153,11,8,50,84,94,58,197,74,16,12,13,38,145,16,52,23,14,39,33,44,82,38,222,2,35,89,20,16,59,91,9,304,13,33,13,77,56,34,62,9,7,2,14,14,6,11,122,101,9,7,74,189,89,18,42,22,13,69,100,29,97,26,33,108,190,224,43,11,138,158,45,1,1,61,83,3,1,21,46,310,85,397,60,10,282,1,14,209,223,270,81,22,19,344,11,117,230,205,207,3,144,99,70,33,59,106,160,25,35,1,51,311,100,47,174
 Google ABUJA	2841
 Google AI	2394,422,1310,4572,1270,1195,138,2160
 Google AI Centre Accra	4126
@@ -585,7 +589,7 @@ Google Cloud Infrastructure	12693
 Google Cloud Interconnect	1739,2698
 Google Cloud Partner Advantage	4434
 Google Cloud Partner Experience Centre	6909
-Google Cloud Platform	3859,1934,11082
+Google Cloud Platform	3859,1934,11082,995
 Google Cloud Platform. Tal	16875
 Google Cloud Ready	4434
 Google Cloud Region	1363
@@ -635,6 +639,7 @@ Google Deepens	3344
 Google Developer	1363
 Google Developer Experts and Grow	1363
 Google Developer Group	1363
+Google Developer Group Paris	18039
 Google Developer Groups	1363
 Google Developer Student Club	3157
 Google Developers Group	15480
@@ -648,8 +653,9 @@ Google Distributed CloudExtend Google Cloud	4434
 Google Docs	1363,14962
 Google Drive	5256,2350,101,423,660,1931,580,23,153,441,172
 Google Earth	15285,188,551,851
-Google Earth Engine	13925,1090,607,329,924,126,53,103,98
+Google Earth Engine	13925,1090,607,329,924,126,53,103,98,714
 Google Earth Engine Indicators Crop Loss	17157
+Google Earth Engine. Alerts	17969
 Google Earth Engine. ISPRS Journal of Photogrammetry	15715
 Google Earth Maps	10763
 Google Earth Pro	16875,265
@@ -695,7 +701,7 @@ Google Labs	3947
 Google Lens Homework Helper	10525
 Google MOU	5302
 Google Map	9568,5513
-Google Maps	1363,284,337,3586,3240,32,2872,309,18,1186,1479,787,1422,385
+Google Maps	1363,284,337,3586,3240,32,2872,309,18,1186,1479,787,1422,385,602
 Google Maps Contact	3364
 Google Maps and Google Earth	3782
 Google Maps and Waze	10983
@@ -731,8 +737,8 @@ Google Opens Africa AI Lab for Startup	8698
 Google PageSpeed Insights Temps	15936
 Google Pay	7596,1412,2111,2333
 Google Photos	11477
-Google Play	1363,1216,226,461,560,1193,245,78,599,1330,911,2822,249,71,153,400,87,491,1515,1791,1856
-Google Play Store	7266,3804,1139,256,176,91,568,752,1426
+Google Play	1363,1216,226,461,560,1193,245,78,599,1330,911,2822,249,71,153,400,87,491,1515,1791,1856,307,45
+Google Play Store	7266,3804,1139,256,176,91,568,752,1426,2424
 Google Play Store and Apple App Store	2885,11812
 Google Play Store for FREE and Register	12209
 Google Play Store. NIMC	5284
@@ -742,6 +748,7 @@ Google Play and Apple	11124
 Google Play and Apple App	4292
 Google Play and Apple Store	12580
 Google Play. L'application	10941
+Google Play. UNDP Mauritania	17969
 Google Playstore	12209
 Google Plus Code	16915
 Google Plus Codes	16915,442
@@ -869,7 +876,7 @@ Google and Bing.450 Microsoft	13461
 Google and Equinix	3782
 Google and Facebook	2679,1103,11115
 Google and Huawei	14391
-Google and IFC	16942
+Google and IFC	16942,928
 Google and Intel	4434
 Google and Intel Enable Real-time Manufacturing Operations	4434
 Google and Liquid C2. Beyond	5736
@@ -1160,7 +1167,7 @@ PROCUREMENT OF GOODS AND SERVICES	13420
 PS4R Charter of Goo	10841
 Payment for Goods	13185
 Personnel Emoluments. Goods and Services	17105
-Peter Goodridge	15553
+Peter Goodridge	15553,2317
 Philadelphia Google Scholar Wang F	9739
 PhonePe and Google Pay	7468
 Pigg’s Peak Government Hospital and Good Shepherd	12956
