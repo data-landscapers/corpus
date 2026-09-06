@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-06
+period: 2026-08-01 to 2026-09-06
 place: SLE
-ledger_rows: 33
-not_held: 11
-record: 91a9ae96333a
+ledger_rows: 35
+not_held: 6
+record: 4914f251f20a
 ---
 
 # Sierra Leone: monthly update, August – September 2026
@@ -146,6 +146,11 @@ The country held its [first academic exhibition dedicated to Digital Public Good
 
 On the skills side, [eighty young people graduated from a nine-month digital-literacy course at Kenema on 8 August, reporting job retention and promotion](http://www.critiqueecho.com/80-youth-graduate-in-advanced-digital-literacy-as-yad-boosts-employability-in-sierra-leone/). The outcomes are the graduates' own and no tracer study is held.
 <!-- /narrative -->
+### Research institutions
+
+<!-- narrative: capacity--capacity-research -->
+The council that would steer research funding is still writing its own first plan. A three-day workshop opened on 4 August to [support the National Science, Technology and Innovation Council in developing that plan](https://www.sierraleonepress.com/mthe-and-nstic-collaborate-on-workshop-for-research-funding-and-governance/), with digital transformation named among the priorities funded research should answer. No plan, timetable or funding envelope has been published.
+<!-- /narrative -->
 
 ## Inclusion
 
@@ -160,6 +165,11 @@ The cost of the handset is being financed rather than reduced. An operator and a
 
 ## Data
 
+### National statistics
+
+<!-- narrative: data--data-statistics -->
+A second national collection was launched inside nine months. The [2026 Demographic and Health Survey was launched on 4 August](https://sierraleone.unfpa.org/en/news/united-nations-reaffirms-support-sierra-leone-officially-launches-2entity26-demographic-and), after the 2026 census in December. Neither carries a published enumeration date, budget or field methodology.
+<!-- /narrative -->
 ### Use of satellite data
 
 <!-- narrative: data--data-satellite -->
