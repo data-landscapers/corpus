@@ -1,11 +1,11 @@
 ---
 title: Gambia — monthly update, August – September 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-06
+period: 2026-08-01 to 2026-09-06
 place: GMB
-ledger_rows: 23
+ledger_rows: 26
 not_held: 4
-record: 7fb453019166
+record: af61c0eb15f5
 ---
 
 # Gambia: monthly update, August – September 2026
@@ -62,6 +62,14 @@ The finance ministry gave its fullest account yet of what digitalised collection
 Four days later the revenue authority [published a 2026 target of D27.5 billion](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/gambie-la-numerisation-fait-bondir-les-recettes-fiscales-de-127-en-trois-ans) — the first forward number in the series, and the first testable one. The implied step from 2025 is about a tenth, far below the run rate the attribution rests on.
 <!-- /narrative -->
 
+## ICT Infrastructure
+
+### Connectivity
+
+<!-- narrative: ict-infrastructure--infra-connect -->
+The country renumbered its mobile network. [The transition to nine-digit numbers began on 4 September 2026, existing numbers taking a two-digit operator prefix — 87 for Africell, 83 for QCell and 86 for Comium](https://thepoint.gm/africa/gambia/headlines/pura-gambia-transitions-to-9-digit-mobile-numbers-today); [Gamcel numbers are not affected in this phase and keep their seven digits](https://thepoint.gm/africa/gambia/headlines/pura-gambia-transitions-to-9-digit-mobile-numbers-today). The numbering plan instrument is not published, and nothing states when the deferred operator joins.
+<!-- /narrative -->
+
 ## DPI
 
 ### Digital Identity and CRVS
@@ -83,6 +91,11 @@ The country published its first unified land policy, and it is the month's clear
 
 
 A register the country already runs was disputed in the same week. Opposition parties put it to the electoral commission that [212,095 supplementary registrations had been announced against 179,445 records on the data distributed to them](https://gambiaj.com/news/politics/elections/political-parties-renew-concerns-over-iec-voter-register-discrepancies/), a gap the commission attributed to unverified processing outputs. No reconciled figure has been published, and a presidential election is due this year.
+<!-- /narrative -->
+### Sectoral management information systems
+
+<!-- narrative: dpi--dpi-mis -->
+The month's one management system came from outside government. The Gambia Red Cross Society [launched a Volunteer and Membership Management System at its Kanifing headquarters on 31 August 2026, replacing branch paper registers with one record covering registration, profiling, branch assignment, validation, deployment and direct communication](https://standard.gm/grcs-launches-digital-system-to-professionalise-volunteer-membership-management/), its secretary-general putting the cost of the paper system as delay in emergencies. No volunteer count, cost, funder or vendor is published.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -115,7 +128,7 @@ One measured position moved into the record. The Gambia [ranked third in sub-Sah
 ### China activities
 
 <!-- narrative: geopolitics--geopol-china -->
-Chinese engagement remained visible as training rather than infrastructure. The embassy [announced twenty-five further Gambians travelling to China in September under ministry grants, with a vocational workshop and a laboratory planned](https://standard.gm/chinese-embassy-stages-welcome-for-returning-gambian-graduates/). The broadband and fifth-generation work the ambassador [named in 2023](https://gm.china-embassy.gov.cn/eng/sgxw/202310/t20231018_11163300.htm) still carries no contract, value or date.
+Chinese engagement remained visible as training rather than infrastructure. The embassy [announced twenty-five further Gambians travelling to China in September under ministry grants, with a vocational workshop and a laboratory planned](https://standard.gm/chinese-embassy-stages-welcome-for-returning-gambian-graduates/). The broadband and fifth-generation work the ambassador [named in 2023](https://gm.china-embassy.gov.cn/eng/sgxw/202310/t20231018_11163300.htm) still carries no contract, value or date. A second channel opened at official level: on a visit to Guizhou University the country's permanent representative in Geneva [announced four initiatives — the Guizhou Provincial Big Data Laboratory as a data-governance research centre for the UN science and technology commission, a national data laboratory in The Gambia replicating it, scholarships in big data and artificial-intelligence governance, and a joint summer school](https://thepoint.gm/africa/gambia/headlines/ambassador-kah-delivers-keynote-address-at-chinas-big-data-expo-2026-secures-landmark-cooperation-with-guizhou-university). They are announcements, not agreements: no text, funding or timetable is held, and none is a Gambian government instrument.
 <!-- /narrative -->
 ### EU activities
 

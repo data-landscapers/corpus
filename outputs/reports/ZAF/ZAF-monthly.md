@@ -1,11 +1,11 @@
 ---
 title: South Africa — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-06
+period: 2026-08-01 to 2026-09-06
 place: ZAF
 ledger_rows: 129
 not_held: 23
-record: ef9d779b4209
+record: 89afd91e9578
 ---
 
 # South Africa: monthly update, August – September 2026
@@ -95,7 +95,7 @@ The commercial estate is expanding on the operator's own numbers rather than on 
 
 The expansion also drew its first organised objection. A civil-society coalition [submitted concerns to the human rights commission on 10 August calling for a halt on data-centre developments pending transparent public participation, citing strain on scarce water, land and electricity](https://climatejusticecoalition.org/cjc-public-participation-in-south-africas-data-centre-expansion/). No participation process, commission response or moratorium is on record, which is what makes the objection the only thing here that can be dated.
 
-The operators answered it in August. The country's major data-centre companies [defended their electricity and water use publicly, resting on renewable-energy and resource-management programmes, one of them stating science-based climate targets and full clean and renewable coverage locally](https://www.itweb.co.za/article/sa-data-centre-operators-push-back-amid-sustainability-probe/5yONP7EroNQMXWrb); the commission has published no finding, timetable or report date, and no independent measurement of the sector's draw is held either way.
+The operators answered it in August. The country's major data-centre companies [defended their electricity and water use publicly, resting on renewable-energy and resource-management programmes, one of them stating science-based climate targets and full clean and renewable coverage locally](https://www.itweb.co.za/article/sa-data-centre-operators-push-back-amid-sustainability-probe/5yONP7EroNQMXWrb); the commission said in September that it had [received more than 250 submissions and that the issue emerging was the availability, consistency and transparency of information on electricity and water demand, land use, infrastructure requirements and impacts on surrounding communities](https://www.africanews.com/2026/09/04/civil-society-groups-in-south-africa-call-for-temporary-halt-to-new-data-centres/), and civil-society groups renewed the call for construction to stop until that use has been investigated, the municipal approval of a Cape Town hyperscale facility being the immediate trigger in a city that came close to running out of water in 2018. It has published no finding, timetable or report date, and no independent measurement of the sector's draw is held either way.
 
 Two compute announcements closed the month, both making sovereignty the argument and both resting on the announcer's own figures. Three partners [launched what they describe as Africa's most powerful AI cloud, a 7.2 EFLOPS deployment on more than 50 NVIDIA B300 HGX servers carrying over 400 GPUs in carrier-neutral Tier-3+ colocation, pitched as keeping African training and inference workloads, and the data behind them, resident on the continent](https://techafricanews.com/2026/08/27/south-africa-partnership-launches-africas-most-powerful-sovereign-ai-cloud/); no independent benchmark, customer, price or site accompanies the number. Separately the mobile operator group [named the UAE backer of its Africa Data Hub Holding vehicle as Tarek Al Ashram, founder of the Dubai colocation operator Gulf Data Hub](https://www.mtn.com/mtn-group-advances-africas-ai-ready-digital-infrastructure-ecosystem-through-strategic-partnership/), three days after its own half-year results booklet named the vehicle without the partner behind it, [with a first phase targeting 150MW across South Africa and Nigeria](https://capacityglobal.com/news/mtn-targets-150mw-of-ai-data-centre-capacity/) and no split, site, cost or commissioning date stated. Against those, the one deployment in the country with an externally verified figure is the Cape Town artificial-intelligence factory, which [entered the June 2026 global supercomputer list at rank 36 on 285,696 cores and 77.79 PFlop/s measured against a 102.16 PFlop/s theoretical peak](https://www.top500.org/system/180464/).
 <!-- /narrative -->

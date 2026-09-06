@@ -1,11 +1,11 @@
 ---
 title: Madagascar — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-06
+period: 2026-08-01 to 2026-09-06
 place: MDG
 ledger_rows: 25
 not_held: 5
-record: 5791b924629e
+record: 7375725ecf33
 ---
 
 # Madagascar: monthly update, August – September 2026
@@ -15,7 +15,7 @@ record: 5791b924629e
 ## Summary of the month
 
 <!-- narrative: summary -->
-Cybercrime instruments arrived from three directions at once. The country [signed the United Nations Convention against Cybercrime and is revising the 2014 cyber law alongside it](https://2424.mg/cybercriminalite-madagascar-veut-renforcer-son-arsenal-juridique-face-a-la-montee-des-menaces-numeriques-boostees-par-lia/), the Council of Ministers [approved accession to a China-initiated international network against online fraud on 4 August](https://2424.mg/cybercriminalite-madagascar-sallie-a-un-reseau-international-contre-les-escroqueries-en-ligne-initie-par-la-chine/), and the National Assembly's [extraordinary session opened on 25 August with digital bills among seven texts](https://midi-madagasikara.mg/assemblee-nationale-sept-textes-au-menu-dune-session-extraordinaire-a-partir-du-25-aout/). None of it is ratified or in force.
+Cybercrime instruments arrived from three directions at once. The country [signed the United Nations Convention against Cybercrime and is revising the 2014 cyber law alongside it](https://2424.mg/cybercriminalite-madagascar-veut-renforcer-son-arsenal-juridique-face-a-la-montee-des-menaces-numeriques-boostees-par-lia/), the Council of Ministers [approved accession to a China-initiated international network against online fraud on 4 August](https://2424.mg/cybercriminalite-madagascar-sallie-a-un-reseau-international-contre-les-escroqueries-en-ligne-initie-par-la-chine/), and the National Assembly's [extraordinary session opened on 25 August with digital bills among seven texts](https://midi-madagasikara.mg/assemblee-nationale-sept-textes-au-menu-dune-session-extraordinaire-a-partir-du-25-aout/). None of it is ratified or in force, and on 4 September the deputies [deferred the cybercrime recast and the electronic communications bill to a later session](https://www.lexpress.mg/2026/09/tsimbazaza-les-deputes-ajournent-le.html) rather than vote them.
 
 Domestically the record is about what the state can see of itself. An assessment [put digital-health maturity at 55.6%](https://moov.mg/article/120129-sante-numerique-apres-evaluation-madagascar-obtient-un-score-de-maturite-de-556-percent) without naming the instrument or who administered it; the National Assembly's [open-data interface serves five parliamentary datasets under an open licence](https://parlement.mg/opendata/) while [the general portal names no issuing institution and no dataset](https://opendata.mg/); and the dominant mobile-money operator [put the whole national market at six to seven million active users against a population of about thirty million](https://www.lexpress.mg/2026/08/alexandre-castel-directeur-general-de.html).
 <!-- /narrative -->
@@ -25,7 +25,7 @@ Domestically the record is about what the state can see of itself. An assessment
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-Two legislative processes are running and neither has produced a law. The government [signed the United Nations Convention against Cybercrime and reported a revision of the 2014 cyber law alongside it](https://2424.mg/cybercriminalite-madagascar-veut-renforcer-son-arsenal-juridique-face-a-la-montee-des-menaces-numeriques-boostees-par-lia/), the convention signed and not ratified. The National Assembly's [extraordinary session opened on 25 August with seven texts on its agenda, digital bills among them](https://midi-madagasikara.mg/assemblee-nationale-sept-textes-au-menu-dune-session-extraordinaire-a-partir-du-25-aout/); the texts are not published, so which digital instruments are before it cannot be read off the record.
+The extraordinary session ended without passing a digital law. The National Assembly [deferred five bills to a later session on 4 September, the recast cybercrime law and the electronic communications and digital infrastructure bill first among them](https://www.lexpress.mg/2026/09/tsimbazaza-les-deputes-ajournent-le.html), the deputies saying they needed longer on texts turning on both security imperatives and fundamental freedoms and the Assembly's president saying he did not care to imagine what would have followed had they not deferred. The cybercrime bill would create a digital protection and investigation unit and, under article 75, give it permanent round-the-clock technical access to operators' systems; [commentary reads the contested articles as written to suit the state's own control interests](https://newsmada.com/2026/09/05/cybersurveillance/). A third bill, [authorising ratification of the United Nations Convention against Cybercrime, went to parliament on 28 August with the cybercrime recast](https://www.biometricupdate.com/202609/madagascar-strengthens-trust-architecture-for-national-digital-id) and was deferred with it. No resumed date is set and no bill text is published.
 <!-- /narrative -->
 ### Regional collaboration
 
