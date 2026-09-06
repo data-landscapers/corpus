@@ -3,13 +3,13 @@ title: Open data — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: data.open
-places: BEN; COM; DJI; COD; GAB; GMB; GHA; GIN; LBR; LBY; MDG; MLI; MAR; NAM; NGA; TZA; TUN; ZWE
-record: 162cb93628a8
+places: BEN; COM; DJI; COD; GAB; GMB; GHA; GIN; LBR; LBY; MDG; MLI; MAR; NAM; NGA; SEN; TZA; TUN; ZWE
+record: 4e7074ab2f19
 ---
 
 # Open data: monthly update, August 2026
 
-*18 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*19 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -77,6 +77,10 @@ A second dataset arrived from outside government altogether. A privately built a
 ## Nigeria
 
 The month's open-data movement is civil society's rather than government's. A civic-technology foundation [published a 2026-2030 strategy on 3 September to institutionalise participatory budgeting and subnational public-project tracking in 10 to 15 states, building on two existing platforms that let citizens monitor budget implementation and identify completed, delayed or abandoned public projects](https://nannews.ng/promad-unveils-5-year-strategy-to-scale-up-civic-tech-citizen-participation/). No budget, funder, delivery timetable or state is named.
+
+## Senegal
+
+The national data archive is the only Senegalese public-data system that publishes how much its data is used: [4,808,203 views on the 2013 census, 24,422 on the 2024-2025 agricultural survey and 19,910 on the 2023 census](http://anads.ansd.sn/index.php/catalog), with access stated per dataset as either licensed or withheld. Views are not downloads, and a licensed and partly withheld catalogue is not an open-licence portal — which is the finding, since no whole-of-government open-data portal operates behind it.
 
 ## Tanzania
 

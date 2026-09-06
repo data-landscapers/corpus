@@ -3,13 +3,13 @@ title: Data Exchange — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: dpi.exchange
-places: DZA; AGO; BEN; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NGA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: e9658e7eaf8c
+places: DZA; AGO; BEN; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NER; NGA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 96bdfac188bc
 ---
 
 # Data Exchange: monthly update, August 2026
 
-*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -145,6 +145,10 @@ Morocco [promulgated the OECD multilateral competent authority agreement on the 
 The roads fund runs an [open-data portal publishing road, bridge and infrastructure project data under a Creative Commons licence and the open contracting standard for infrastructure](https://www.dadosinfra.co.mz/), validated as a publisher against that standard in 2026. It is the base's clearest instance of Mozambican government data published to an external standard rather than to a page.
 
 A physical exchange broke ground alongside it. Works on the [Ressano Garcia one-stop border post began on 17 August at a stated 980 million meticais](https://aimnews.org/2026/08/17/governo-moderniza-fronteira-de-ressano-garcia-com-980-milhoes/). No completion date, systems specification or customs-integration arrangement is published.
+
+## Niger
+
+Health data began moving between systems on its own. A national interoperability layer [is reported exchanging data automatically between three digital health platforms and the national health information system](https://www.linkedin.com/posts/data-fi-project_niger-dhis2-interoperability-activity-7493677620434288642-RoBC), the first such integration against the 32 or more largely separate platforms the country held in 2023. The e-health directorate had [shown it working with several systems on 8 July, the disease-surveillance platform's data now transferred automatically rather than re-entered each week](https://anp.ne/sante-numerique-ouverture-de-latelier-de-validation-de-la-feuille-de-route-budgetisee-du-schema-directeur-national-de-la-e-sante-2025-2029/). How many of the remaining platforms are connected is not stated.
 
 ## Nigeria
 

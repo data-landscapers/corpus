@@ -3,13 +3,13 @@ title: Domestic budget appropriations and expenditure — monthly update, August
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: finance.budget
-places: AGO; COD; EGY; GMB; SEN; SDN; TUN
-record: 582460a49d10
+places: AGO; COD; EGY; GMB; NER; SEN; SDN; TUN
+record: 17388068dc64
 ---
 
 # Domestic budget appropriations and expenditure: monthly update, August 2026
 
-*7 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*8 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -30,6 +30,10 @@ The sector's own money was put before parliament. The planning minister told the
 The finance ministry gave its fullest account yet of what digitalised collection has recovered. On [30 July 2026 the minister said total tax collected rose from D11 billion in 2022 to D25 billion in 2025](https://thepoint.gm/africa/gambia/headlines/digital-reform-doubles-gambias-tax-revenue-to-d25b-finance-minister), with rate rises only on gambling, alcohol and tobacco, and credited a named stack running from ASYCUDA World and digital excise stamps to fuel marking, rental tax digitalisation and electronic invoicing. He read reforms lifting collections by more than 100% as evidence of prior leakage rather than of under-taxation, and said tax to GDP moved from [9% in 2022 to 13% in 2025](https://www.gra.gm/news/74649367-8629-11f1-b086-029254d29bb1). It is an attribution by the collecting side, not an evaluation.
 
 Four days later the revenue authority [published a 2026 target of D27.5 billion](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/gambie-la-numerisation-fait-bondir-les-recettes-fiscales-de-127-en-trois-ans) — the first forward number in the series, and the first testable one. The implied step from 2025 is about a tenth, far below the run rate the attribution rests on.
+
+## Niger
+
+The budget moved and the digital line did not appear in it. The Council of Ministers [rectified the 2026 finance law on 21 August, raising the general State budget from 2,922.22 to 2,980.54 billion FCFA](https://anp.ne/loi-des-finances-2026-le-budget-general-de-letat-au-titre-de-lannee-2026-passe-a-2-98054-milliards-de-francs-cfa/), citing security spending, the government's new configuration, oil prices and tax simplification. Neither it nor the [ordonnance it amends](https://finances.gouv.ne/index.php/lois-de-finances/file/1303-ordonnance-n-2025-44) names an appropriation for communications or the digital economy, so the base holds the total and still not the line.
 
 ## Senegal
 

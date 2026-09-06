@@ -3,13 +3,13 @@ title: Connectivity — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: infra.connect
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 78740fcfe65b
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 04514f30f538
 ---
 
 # Connectivity: monthly update, August 2026
 
-*44 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*45 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -216,6 +216,8 @@ The largest mobile operator said it [will put N$624.9 million into telecommunica
 
 On 27 July the telecommunications regulator [opened a second drive-test campaign over Niamey, running to 28 August 2026](https://www.lesahel.org/communications-electroniques-larcep-lance-une-campagne-de-controle-de-la-qualite-des-services-offerts-par-les-operateurs-de-telephonie-mobile-et-dinternet/), to verify the corrective actions ordered after the April-May control found voice and mobile-data quality deficient at all four operators, with SMS alone compliant and one operator additionally below the 4G coverage thresholds.
 
+Retail pricing moved without the tariff moving. An operator [announced a night bundle of 3.5GB for 500 FCFA usable between 23:00 and 06:00](https://fr.linkedin.com/posts/moovafricaniger_moovafricaniger-unmondenouveauvousappelle-activity-7500583380221136897-nfFf), about 143 FCFA a gigabyte and the second promotional cut in nine months. The last measured basket the base holds is from 2023.
+
 ## Nigeria
 
 An account published on 29 July puts about [101,000 km of fibre already built](https://businessday.ng/technology/article/how-nigeria-built-101000km-of-fibre-that-bypasses-130m-nigerians/) and finds that it bypasses some 130m Nigerians — a utilisation and last-mile finding sitting directly against the 90,000 km headline of the national fibre programme.
@@ -243,6 +245,12 @@ The legacy-network retirement plan the ministry announced on 28 July fixes third
 
 
 The cross-border route got its operator's own description as the peering forum met in Kigali: [a 2,000km protected corridor from Goma to Mombasa connecting Kigali, Kampala and Nairobi, inside a network the operator puts across sixteen African countries](https://paratus.africa/blog/paratus-rwanda-rings-in-afpif-2026/). Both figures are the operator's own.
+
+## Senegal
+
+The exchange point at Dakar is the month's measurable position: it carries [260 Gbps of member port capacity across six member networks, all six having joined within the preceding twelve months and none having left](https://pulse.internetsociety.org/en/ixp-tracker/ixp/1594/). The figures are registry self-declarations rather than measured traffic. The older [association-run exchange is constituted with its registered office at the telecommunications ministry](https://www.senix.sn/statuts.html) and names no members, traffic or operating site.
+
+On price, the regulator's index was [flat quarter on quarter across all four operators and all nine consumption profiles, and down 15.6% year on year](https://artp.sn/sites/default/files/2026-08/NOTE%20IPSM%20T2%202026_0.pdf), after falls of 5.3% and 10.2% in the two preceding quarters. It is an index, so it carries no franc amount. The regulator also [published a synthesis of 21 contributions to its consultation on deploying and sharing fibre to the end subscriber](https://artp.sn/partage-infrastructures/fttx), setting no rule, obligation or timetable.
 
 ## Somalia
 

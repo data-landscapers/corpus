@@ -4,7 +4,7 @@ compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: dpi.registry
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: fa6ca93e0798
+record: c528cc9c7690
 ---
 
 # Registries (population, land, address, etc.): monthly update, August 2026
@@ -180,7 +180,7 @@ Also on 29 July, the Diffa regional civil-status directorate reported [173,109 b
 
 On 29 July the foreign minister closed the second diaspora forum by [undertaking to build a bank of priority diaspora projects and a data bank of diaspora experts](https://www.lesahel.org/cloture-de-la-2e-edition-du-forum-de-la-diaspora-a-niamey-des-recommandations-et-des-engagements-formules-pour-le-developpement-economique-et-social-du-pays/); no enabling instrument, custodian, data-protection basis or timetable was named.
 
-The population register's public campaign is running ahead of the register itself. A national civil-status and identification sensitisation tour [reached Tillabéri as its third region](https://www.lesahel.org/tillaberi-reformes-de-letat-civil-et-de-lidentification-une-mission-de-sensibilisation-sillonne-la-region/), with officials citing the 2026 civil-status ordinance and describing a forthcoming national population register whose first enrolment phase opens at Niamey ahead of a 2027 rollout to other regions. No enrolment target, budget, supplier or start date accompanies it, so the campaign precedes anything a citizen can yet enrol in.
+The tour reached its fourth region and brought a fourth set of figures. At Agadez the ministry [put timely birth registration at 79.8% and about 3,000,000 of 13 million adults still without a biometric identity card, the register's first phase and its unique identifier still to be issued from Niamey](https://interieur.gouv.ne/agadez-ouverture-de-la-4eme-etape-de-la-tournee-nationale-de-sensibilisation-sur-les-reformes-en-matiere-detat-civil-et-didentification-des-personnes/). It is the first count of adults without the credential, and a fourth registration rate alongside the three above. The tax register was pushed outward instead: a communiqué of 27 July [announced a nationwide census of rental housing and a regularisation drive for landlords and second-home owners](https://airinfoagadez.com/2026/08/01/niger-campagne-de-regularisation-des-impots-fonciers-les-autorites-misent-sur-le-civisme-fiscal/), held only in syndicated copies.
 
 ## Nigeria
 

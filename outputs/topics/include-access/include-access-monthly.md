@@ -4,7 +4,7 @@ compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: include.access
 places: DZA; AGO; BWA; BDI; CMR; CAF; COM; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GHA; KEN; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; UGA; ZMB; ZWE
-record: 2c203717c478
+record: 223e3643a9ee
 ---
 
 # Access to services: monthly update, August 2026
@@ -129,6 +129,8 @@ What that looks like in one region was put to the parliamentary ICT committee on
 ## Niger
 
 A national digital-skills caravan reached the country's far east. About sixty young people [took part over two days in the university's computer room at Diffa, on training covering digital tools, occupations and opportunities](https://anp.ne/diffa-le-niger-digital-day-renforce-les-competences-numeriques-des-jeunes/). It is one stage of a caravan for which no national total, stage list, curriculum or funder is published.
+
+Disability inclusion produced recommendations rather than an instrument. A national review closing on 5 August [called for a disability-inclusion strategy, disability-responsive budget lines, better disability data collection and faster issuance of the equal opportunity card](https://www.lesahel.org/revue-nationale-sur-linclusion-des-personnes-handicapees-des-recommandations-formulees-en-faveur-dune-meilleure-inclusion-socio-professionnelle-des-personnes-handicapees-ph/). Every item on it is a thing not yet built.
 
 ## Nigeria
 

@@ -4,7 +4,7 @@ compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: capacity.training
 places: AGO; BEN; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 06a6772683ec
+record: 6b3c9a5b05ef
 ---
 
 # Training and skills: monthly update, August 2026
@@ -140,6 +140,8 @@ A private provider [opened an artificial-intelligence academy in Windhoek](https
 ## Niger
 
 Skills work travelled rather than sat still. The Niger Digital Day caravan [trained 140 young people at its Tahoua stage on 25 August](https://anp.ne/niger-digital-day-renforce-les-competences-numeriques-de-140-jeunes-a-tahoua/), one leg of a programme its organisers say will run in all eight regions and reach more than 800 young people. Coverage and reach are the organisers' own figures and no completion or follow-up count is published, so the caravan is on record as a plan being executed rather than as a measured outcome.
+
+Two university facilities moved within three days. Dosso [called for projects to incubate at its innovation hub, offering digital fabrication, robotics and artificial-intelligence modules, coworking space and equipment access](https://udo.edu.ne/2026/08/14/appel-a-candidatures-pour-la-selection-de-projets-innovants-a-incuber-a-lunipod-niger-2/), further along than Diffa's, still at project-document validation. Two days earlier a Nigerian university and Université André Salifou at Zinder [signed a five-year memorandum on student and faculty exchange and joint research](https://abu.edu.ng/abu-signs-pact-with-nigerien-varsity-to-promote-partnership-on-education-research-innovation/), naming no computing degree or laboratory.
 
 ## Nigeria
 

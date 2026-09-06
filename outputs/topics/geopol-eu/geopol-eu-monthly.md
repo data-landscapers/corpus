@@ -3,13 +3,13 @@ title: EU activities — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: geopol.eu
-places: GNQ; GMB; KEN; MWI; MLI; MAR; NGA
-record: a104551a7725
+places: GNQ; GMB; KEN; MWI; MLI; MAR; NGA; SEN
+record: 9b89d9d2c68f
 ---
 
 # EU activities: monthly update, August 2026
 
-*7 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*8 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -40,3 +40,7 @@ Morocco holds [no European Union adequacy decision: the Commission's list names 
 ## Nigeria
 
 The European Union [committed EUR 820m to the digital sector](https://www.thisdaylive.com/2026/08/20/eu-commits-e820m-to-support-digital-ecosystem-lauds-nigerias-national-innovation-hub-standard-framework/) at the Abuja workshop that validated a national innovation hub standards framework, which would set one standard across the country's hubs. The envelope is stated at a workshop rather than in an instrument, the framework is validated rather than adopted, and neither carries a disbursement schedule or a hub count.
+
+## Senegal
+
+The delegation's own statement settles what the relationship is not. Cooperation [runs through the union's investment strategy and Team Europe financing rather than a standalone instrument](https://www.eeas.europa.eu/delegations/senegal/global-gateway_fr), and the delegation states it accompanied Senegal in drawing up its data-management and artificial-intelligence strategies and will support implementation of the priority actions those strategies set out. No standalone memorandum on the digital economy, data or digital governance was located.

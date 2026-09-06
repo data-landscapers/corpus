@@ -3,13 +3,13 @@ title: Digitalisation of sub-national government — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: digital.localgov
-places: AGO; BFA; BDI; GHA; MWI; MLI; NAM; NGA; RWA; ZAF; SDN; TZA; TGO; ZMB; ZWE
-record: 961ce85c4a70
+places: AGO; BFA; BDI; GHA; MWI; MLI; NAM; NGA; RWA; SEN; ZAF; SDN; TZA; TGO; ZMB; ZWE
+record: 615a90a82d98
 ---
 
 # Digitalisation of sub-national government: monthly update, August 2026
 
-*15 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*16 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -54,6 +54,10 @@ Anambra began the second phase of its own state strategy, [expanding its OneGov 
 ## Rwanda
 
 The argument about local delivery was made in public. A published commentary [held that Rwanda's next decade of decentralisation requires urgent focus on delivery rather than structure](https://www.newtimes.co.rw/article/38460/opinions/rwandas-next-decade-of-decentralisation-requires-urgent-focus-on-delivery). It is one author's case, not a government position, and the record held carries no measure of service delivery at district level against which to test it.
+
+## Senegal
+
+The one local-records digitisation with a published figure entered the base: through the building-permit platform [more than 200,000 permit files were digitised and the physical archives of the Dakar region's urbanism directorates secured](https://www.adie.sn/projets/teledac). The platform moves the permit procedure online across four Dakar communes, extended to the region's 52 communes and 10 sub-prefectures, and now carries dozens of procedures across other sectors. Coverage is the Dakar region, not the country, and the page carries no date of its own.
 
 ## South Africa
 

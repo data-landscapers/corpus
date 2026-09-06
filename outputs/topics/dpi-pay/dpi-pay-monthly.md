@@ -4,7 +4,7 @@ compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: dpi.pay
 places: DZA; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: f7360b73b51b
+record: 61ed6263e54b
 ---
 
 # Digital Payments and Fintech: monthly update, August 2026
@@ -164,6 +164,8 @@ The system acquired a public name. The instant payment solution is [carried publ
 On 29 July the higher education minister said the grants agency reform consists of [acquiring database software and routing scholarship and social-aid payments through the banking system via the Treasury's application](https://anp.ne/niger-plusieurs-reformes-engagees-pour-ameliorer-le-secteur-de-lenseignement-superieur-et-les-performances-de-lanab/); no budget, vendor, timetable or beneficiary count was published.
 
 The mobile-money issuer opened cross-border corridors. It [launched an international transfer service on 25 August, taking inbound transfers from eight countries directly into the recipient's wallet through five remittance partners and sending outbound transfers to seven West African states](https://actuniger.com/societe/22299-transfert-dargent-airtel-money-niger-lance-son-service-international-pour-des-operations-simples-et-securisees-au-dela-des-frontieres.html); no volume or fee schedule is published.
+
+The public purse's own plumbing was the other movement. The Treasury [reported on 5 August that the single-account reform has connected it to the regional gross-settlement and clearing systems, created a deposits accounting agency and closed most public bodies' commercial bank accounts](https://finances.gouv.ne/index.php/une/644-seminaire-sur-les-etablissements-publics-administratifs-la-gestion-de-tresorerie-et-de-la-gestion-de-la-dette-vers-l-elaboration-d-un-plan-d-action-permettant-de-mettre-en-uvre-le-tresor-public-banquier); no balance or transaction volume is published. The same day the finance minister [required prior authorisation or a local bank's mandate for any money-transfer activity, on penalty of one month to two years' imprisonment and fines of 10 to 100 million FCFA](https://finances.gouv.ne/index.php/une/369-communique-de-presse-transfert-d-argent-dans-la-zone-de-l-union-economique-et-monetaire-ouest-africaine-uemoa), without naming how many operators are affected.
 
 ## Nigeria
 

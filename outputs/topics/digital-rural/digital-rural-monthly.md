@@ -4,7 +4,7 @@ compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: digital.rural
 places: BDI; TCD; COM; SWZ; GHA; GIN; LSO; LBY; MWI; MLI; MUS; NGA; SEN; SLE; TGO; ZMB; ZWE
-record: 497e83e81eab
+record: 4c51057dda6f
 ---
 
 # Rural digital data capture: monthly update, August 2026
@@ -65,7 +65,7 @@ The communications minister told the President on 4 August that [deployment of a
 
 ## Senegal
 
-The head of the deconcentrated service network said the thing his own network runs on is missing. Closing a tour of four regions, he [said that without connectivity there can be no deconcentration of public services, and listed connectivity, workstations, IT equipment, archive and mail management and communications security among the problems found in prefectures and gendarmerie posts](https://aps.sn/dematerialisation-sans-connectivite-pas-de-deconcentration-des-services-publics-selon-le-directeur-de-senegal-services/), while announcing the forthcoming integration of civil registration into the national dematerialisation platform. No centre count, connectivity rate or remediation budget is published against the diagnosis.
+The head of the deconcentrated service network said the thing his own network runs on is missing. Closing a tour of four regions, he [said that without connectivity there can be no deconcentration of public services, and listed connectivity, workstations, IT equipment, archive and mail management and communications security among the problems found in prefectures and gendarmerie posts](https://aps.sn/dematerialisation-sans-connectivite-pas-de-deconcentration-des-services-publics-selon-le-directeur-de-senegal-services/), while announcing the forthcoming integration of civil registration into the national platform for administrative acts. No centre count, connectivity rate or remediation budget is published against the diagnosis.
 
 ## Sierra Leone
 
