@@ -11,6 +11,7 @@ Administração Pública DSP9 LIT2 Não	15532
 Administração Pública de Cabo Verde DSP4 DSP6	15532
 African DSM.5	1243
 Against the DSCE	10963,1
+Agency The DSNISI	19284
 Ambi DS	18787
 Asked DSS for Updates	7176
 Audits of DST	573
@@ -45,6 +46,7 @@ Code Name Assessed DSR-1 Data	15164
 Code Name DS-1 Breadth Extent	15164
 Collection of DST	14932
 Columbia University DSP Digital Society Project	10759,78,1052,451
+Comité des DSI	19362
 Community Development DSW Department of Social Welfare	16867
 Comptabilité Nationale DSISS	18291
 Conditions de Vie des Ménages DSSE	10874
@@ -69,6 +71,7 @@ DMU Diesel Multiple Units DSL Digital	2775
 DNDS CPS-SS DS	17946
 DOS DPSR DERF DSF Programmation	10858
 DPRCH Directorate of Reproductive and Child Health DSTI	18478
+DPS. La DSNISI	19226
 DPSR DSF DADF DOS DC DC	10858
 DRPSIAP DSM EHCVM FSEG Centre Universitaire	17978
 DS District	15724
@@ -115,6 +118,7 @@ DSD and SASSA	2307
 DSD and Sassa	14193,3546
 DSD and Treasury	14193
 DSDIA	18291
+DSDS Direction	19216
 DSDUWLUGDVXDSXEOLFDomRQR	11527
 DSE Chief Executive Officer Peter Nalitolela	14176
 DSE Digital Strategy for Education EDPG Education	17196
@@ -155,10 +159,12 @@ DSI Possession	15512
 DSI Rapporteur Collège Président	14537
 DSI au sein des ministères.pdf	10906
 DSI. Elle	14537
+DSI. Le Directeur SI	19362
 DSI. Pour	15512
 DSIBD	18169
 DSIBs	15023
 DSID D	15936
+DSID Direction	19216,134
 DSIDs	8604
 DSIFI. Attente	8556
 DSIH2	10775
@@ -187,8 +193,16 @@ DSN Mali. Prior	17870
 DSN. Il	3465
 DSNIS	11892,20,1394
 DSNIS Nombre	13306
-DSNISI	11599
+DSNISI	11599,7627,58
+DSNISI Direction	19216,134
+DSNISI L’information	19226
+DSNISI National Health Information System Division	19284
+DSNISI du Ministère	19226
+DSNISI. Il	19226
+DSNISI. PBC Indicator Name	19284
+DSNISI. Toutes	19226
 DSNPQ	11550,216
+DSNSI	19226
 DSNTIC	4025
 DSO Distribution System Operator EAPP East	12233
 DSO EEU	12233
@@ -230,6 +244,9 @@ DSR-3	15164
 DSR-4	15164
 DSR. L’objectif	13360
 DSRP D	2966
+DSRP Direction	19216
+DSRP-C	19216
+DSRP-I	19216
 DSRVHQWDGR GH	11530
 DSRwQ7mwP	18394
 DSS Abducted	7176
@@ -276,6 +293,7 @@ DSTI-led API Governance Framework	18529
 DSTI. Dube TradePort CEO Hamish Erskine	10118
 DSTICA	18794
 DSTIMayor	11221
+DSTRI	19365
 DSTs.137	14932
 DST’s Burden	14932
 DSU Lead Div	14781
@@ -344,6 +362,7 @@ Décentralisés DSTE	18291
 Dénombrement DSDS	18291
 D’ETUDES SUPERIEURES SPECIALISEES DSI DIRECTION DES	18143,27
 EC DS	15423
+ECD DSNISI	19226
 EPC DSDS	18291
 Education DSEE Délégation Scolaire	16626
 EletrónicaDSP3 DSP5 IEI1 IEI2 IEI3 IEI4	15532
@@ -374,6 +393,7 @@ Google DSPs	13461
 Google DSPs. Memorandum Opinion	13461
 Google DSPs.529	13461
 I DSKGIELDLS R AENPODR DTIGITAL DIVIDE	582
+IACV DSNISI	19284
 IDWG PMO and DSU	11940
 IGN INF ABE DGEFC DGAS DSC	10876
 INSTITUANT DSI AU SEIN DES MINISTÈRES	10906
@@ -396,6 +416,7 @@ LQLVWURV DSURYD R SUHVHQWH GHFUHWR	11530
 La DSI	14537,1102
 La DSISS	18297
 La DSMP	8556
+La DSNISI	19226
 Laboratoires DRG Diagnosis Related Groups DSNIS	13306
 Lagos State. DSVA Executive Secretary Vivour-Adeniyi	2445
 Le Club Dsi	5260
@@ -408,6 +429,7 @@ MICSTI DSS	14185
 Mahamadou MARA ADJ DSSA	17841
 Maintenance DS	15423
 Marché du DSTE	18291
+MoH-UHC IACV The DSNISI	19284
 MultiChoice DStv	8130
 NBC and DSE	14176
 NER-MJ DS Base	18111
@@ -417,6 +439,7 @@ Netflix and DStv	8130,7159
 No. Indicates the DS-3	15164
 Nombres de DSF	16328
 OBNL Nombre de DSF Reçus N	16328
+OECD’s Digital DSTRI	19365
 ONSA and DSS	11857
 Observations Nombres de DSF Attendus	16328
 Online Maps The DSG	12511
@@ -476,6 +499,7 @@ SS DS PF Act.3.1.2.20	17842
 SSP Performance-based DSPs	13461
 SSPs and DSPs	13461
 Sante Publique DSSB	14442
+Santé DSNISI	19226
 Scientific and Industrial Research DSUB Consistent Time	1009
 Serviços Fiscais DSFR	11435
 Small Business and Development DSD Department of Social	11261

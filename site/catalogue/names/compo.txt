@@ -11,7 +11,8 @@ ATTITUDES ET COMPORTEMENTS VIS-À-VIS DU VIH	13300
 ATTRIBUTIONS ET COMPOSITIONS DES COMMISSIONS SPECIALISEES	16616
 AU and SAA PIMs. Component	1264
 Acquis Component	17219
-Action Component Name Cost	15138
+Action Component	19284
+Action Component Name Cost	15138,4146
 Action Proposed Component Name No Change	1228
 Action Proposed Component Name Proposed Cost	16896,1463
 Action Proposed Component Proposed Cost	1284,15638
@@ -37,6 +38,7 @@ Appendix B Project Phases and Financing Components	15064
 Appendix D Components	236
 Appliances PCIe Peripheral Component Interconnect Express	13185
 Approach Paper. Component	18301
+Approved Proposed Component Name Cost	19284
 Aq Component	17219
 Aquisi Component	17219
 Aquisiç Component	17219
@@ -54,7 +56,7 @@ B. Composition of NFGC	7845
 B. DETAILED REVIEW OF COMPONENTS Component	15019
 B. KEY OUTPUTS BY COMPONENT Component	15601
 B. KEY OUTPUTS BY COMPONENT Objective	15424,87,152
-B. Project Components	969,295,603,1737,2935,4229,61,135,416,169,11,295,533,943,1,1578,27,554,24,3,35,68,37,1,2,1288,1155,189,8,476
+B. Project Components	969,295,603,1737,2935,4229,61,135,416,169,11,295,533,943,1,1578,27,554,24,3,35,68,37,1,2,1288,1155,189,8,476,462
 B. Project Components Component	10768,4893,1288,1155
 B. Project Components Table	10829
 B. Status of Project Components Note	2989
@@ -84,6 +86,7 @@ C. Project Components	11863,2075
 C. Status of Project Components	15802
 CAGR Compound Annual Growth Rate CCG	1818
 CAGR Compound Annual Growth Rate CapEx	10781,1646,2055
+CAGR Compounded Annual Growth Rate CAPEX	19239
 CAPÍTULO II COMPOSIÇÃO	4147
 CAR Chad Component	18887
 CAR Component African Development Bank	174
@@ -91,6 +94,7 @@ CDI Composite Drought Index CDI Composite	17157
 CEMAC Composante	16250
 CEMAC. Composante	16250
 CERC Component	1228
+CERC Contingent Emergency Response Component CE	19284
 CERC Contingent Emergency Response Component CHW	10829
 CERC Contingent Emergency Response Component CIF	15518
 CERC Contingent Emergency Response Component CIL	15621
@@ -139,7 +143,7 @@ COMPONENTS Last Approved Proposed Component Name	15138
 COMPONENTS Name	13027,893,1239,2745,229,221
 COMPONENTS Name Accelerating Learning	17958
 COMPONENTS Name Building	12228,39
-COMPONENTS Name Component	2712,3867,349,4467,576,469,3639,626,374,17,1254,5
+COMPONENTS Name Component	2712,3867,349,4467,576,469,3639,626,374,17,1254,5,894
 COMPONENTS Name Digital	18817
 COMPONENTS Name Economic Shock Responsive Cash	11988
 COMPONENTS Name Emergency	16013
@@ -167,6 +171,7 @@ COMPOSITION	3861,9506,4734
 COMPOSITION Article	13293,2057,1266
 COMPOSITION DES IMPORTATIONS	18757
 COMPOSITION DU DOSSIER	11139
+COMPOSITION ET FONCTIONNEMENT Art	19209
 COMPOSITION ET FONCTIONNEMENT DE LA COMMISSION	16085
 COMPOSITION ET FONCTIONNEMENT SECTION	15431
 COMPOSITION ET NOVEMBRE	13334
@@ -200,6 +205,7 @@ Cash Component	4896
 Central African Republic. Components Component Name	10829
 Central Bank Composite Index of Economic	17316,105
 Central Bank Composite Index of Economic Activity	17193
+Cf. Component	19245
 Change Component	15969,2390
 Change Contingent Emergency Response Component	16187
 Changement Social de Comportement. CSC	18100
@@ -209,11 +215,14 @@ Changement de Comportement IMF	18100
 Citizen Engagement Component	2989
 Citizen Engagement. Component	18293
 Clients No Appraisal Summary No Components	2473
+Climate Adaptation and Mitigation Action Component Climate	19284
 Climate-Resilient WASH Infrastructure Component	13787
 Closing Date Extension Components Results Legal	11924
 Closing Date Extension No Components	18359
-Closing Period Component	10768,4890
+Closing Period Component	10768,4890,3587
+Collection Component	19245
 Com Component	17219
+Comité de Direction Composé	19295
 Comments Component	13392
 Commission for Component	15411
 Commissioner for Refugees. Component	1778,210
@@ -223,7 +232,7 @@ Compoment	15372
 Compoment Total Component Categories Funding	15372
 Compoment Total Component Category Funding	15372
 Componenente	11542
-Component	34,126,161,286,41,113,11,1,79,119,8,17,4,9,219,36,20,6,294,120,66,8,89,121,265,1,37,182,239,120,57,100,261,206,138,10,74,102,579,294,243,474,250,919,40,254,95,2702,592,546,61,3,33,98,1,224,187,5,10,5,22,108,330,8,6,55,41,6,37,129,58,25,168,24,14,14,260,24,18,39,51,148,10,27,37,57,220,1,46,14,67,195,77,56,43,3,4,3,19,57,1,5,16,72,28,42,376,31,29,37,23,334,2,16,38,5,40,6,2,12,49,58,52,182,5,34,13,57,10,20,2,1,1,3,35,48,3,15,2,37,1,2,2,39,2,27,6,6,39,20,2,97,58,10,14,96,65,8,35,184,13,14,38,178,24,16,21,30,63,128,26,4,23,3,8,40,79,17,3,15,66,39,222,408,13,42,2,52,4,142,189,8,49,5,4,97,48,74,40,5,2,10,26,93,11,44,8,8,62,46
+Component	34,126,161,286,41,113,11,1,79,119,8,17,4,9,219,36,20,6,294,120,66,8,89,121,265,1,37,182,239,120,57,100,261,206,138,10,74,102,579,294,243,474,250,919,40,254,95,2702,592,546,61,3,33,98,1,224,187,5,10,5,22,108,330,8,6,55,41,6,37,129,58,25,168,24,14,14,260,24,18,39,51,148,10,27,37,57,220,1,46,14,67,195,77,56,43,3,4,3,19,57,1,5,16,72,28,42,376,31,29,37,23,334,2,16,38,5,40,6,2,12,49,58,52,182,5,34,13,57,10,20,2,1,1,3,35,48,3,15,2,37,1,2,2,39,2,27,6,6,39,20,2,97,58,10,14,96,65,8,35,184,13,14,38,178,24,16,21,30,63,128,26,4,23,3,8,40,79,17,3,15,66,39,222,408,13,42,2,52,4,142,189,8,49,5,4,97,48,74,40,5,2,10,26,93,11,44,8,8,62,46,312,4,35
 Component Activity	18887
 Component Activity Output Outcome Strengthening	18293
 Component Area	18478
@@ -242,11 +251,13 @@ Component COVID-19 Coronavirus Disease	16896
 Component Calculation	4896
 Component Case	14674
 Component Change	16876
+Component Climate Action	19284
 Component Climate Hazards Group InfraRed Precipitation	10763
 Component Component Sustainability Mechanisms Component	13331
 Component Components Foreign Currency	11863
 Component Costs	16896
 Component D	13731
+Component Dec	19284
 Component Description Appraisal Component	16436
 Component Description Implementation	15034
 Component Diagrams	5665
@@ -258,10 +269,10 @@ Component Manager for DESTA	14050
 Component Managers	1228
 Component Minimum Target Type Coverage Coverage	11952
 Component Name	3604,7360,891
-Component Name Cost	11560,4099,84,401,240,565
+Component Name Cost	11560,4099,84,401,240,565,2290
 Component Name Strengthening	11417
 Component Original Proposed Proposed	18809
-Component Page	17962
+Component Page	17962,1322
 Component Parent	15511
 Component Regional IDA National UCF	1704
 Component Result	13999
@@ -269,6 +280,7 @@ Component Review	14546
 Component Sub-component Activities	14674
 Component Technology Directory	1009
 Component Technology Mapping	1009
+Component The World Bank Additional Financing	19284
 Component and Budgets	15138
 Component and Sub-components	1284
 Component and Use of Financing Component Amount US	15372
@@ -288,21 +300,22 @@ Componente de Gestao da Receita	574
 Componente de Resposta de Emergência	11406
 Componente de Resposta de Emergência Contingente	11440,1,101
 Componentes	10777,629,7,3,44,109,5617,1588
-Components	236,191,334,503,167,141,132,163,121,158,107,1,37,421,892,74,785,1157,919,40,254,327,1123,785,1700,196,169,242,42,168,205,70,9,55,41,210,20,25,136,3,53,312,108,64,66,65,283,21,47,7,7,131,264,74,588,38,89,166,120,26,22,26,16,2,17,5,41,121,234,39,13,87,7,35,48,57,1,2,2,39,100,99,58,10,175,43,249,202,17,245,52,8,139,137,205,408,109,4,171,161,7,53,5,97,78,89,12,26,104,60
+Components	236,191,334,503,167,141,132,163,121,158,107,1,37,421,892,74,785,1157,919,40,254,327,1123,785,1700,196,169,242,42,168,205,70,9,55,41,210,20,25,136,3,53,312,108,64,66,65,283,21,47,7,7,131,264,74,588,38,89,166,120,26,22,26,16,2,17,5,41,121,234,39,13,87,7,35,48,57,1,2,2,39,100,99,58,10,175,43,249,202,17,245,52,8,139,137,205,408,109,4,171,161,7,53,5,97,78,89,12,26,104,60,420,39
 Components Accelerating Learning	17958
 Components Adaptive Safety Nets Youth Economic	10963
 Components Amounts	11924
 Components Baseline Closing Period Strengthening	11417
-Components Baseline Period	1264,603,1737,7164,4890,3,483
+Components Baseline Period	1264,603,1737,7164,4890,3,483,3101,39
 Components Building	12228,39
 Components COMPONENT	10768
 Components Coefficients	13868
-Components Component	2712,1941,1926,349,4467,22,1023,1410,703,23,455,588,42,76,342,1000,783,42,451,4
-Components Component Name Cost	1867,8901,757,1806,1,2221,68,37,3,1780
+Components Component	2712,1941,1926,349,4467,22,1023,1410,703,23,455,588,42,76,342,1000,783,42,451,4,886,4
+Components Component Name Cost	1867,8901,757,1806,1,2221,68,37,3,1780,1804
 Components Consumer Services Distribution	4972
 Components Consumer Services Food	4972
 Components Consumer Services Pharma	4972
 Components Cost	3604,7360,891
+Components Description Increasing	19284
 Components Drives	17539
 Components Economic Shock Responsive Cash Transfer	11988
 Components Enabling	16144
@@ -364,7 +377,7 @@ Comportamentos	10777
 Comportamentos Relativos	10777
 Comportamentos de Saúde Sexual	10777
 Comportamientos	1701
-Comportement	13300,1189,1,1443,1949,430
+Comportement	13300,1189,1,1443,1949,430,1054
 Comportement Centre National	17882
 Comportement-civique-VF-2.pdf	8891
 Comportementales	2625
@@ -396,6 +409,7 @@ Composantes du PANU Ce	18426
 Composantes du Projet	15746
 Composantes du Projet Le PADCI	15746
 Composantes du SNIS	15501
+Composantes du SNIS Le SNIS du Togo	19226
 Composants	13300,1123,1160,520
 Composants Bases	15583
 Composants Capacités	15583
@@ -419,7 +433,7 @@ Composite Indicator Index and Threshold Tables Final	13868
 Composite Micro Utility License	16978
 Composite Score	2957
 Composite Video	34
-Composition	11,1463,39,281,34,797,582,507,147,126,496,45,1149,230,120,1061,460,1858,1730,724,135,48,313,156,39,92,18,239,400,30,522,557,3,21,55,1,1,3,44,57,70,72,8,46,70,2,1,33,131,29,46,307,179,70,89,101,88,101,10,56,142,370,1,4,5,208,54,109,120,324,87,292,244,249,81,44,30,683,11
+Composition	11,1463,39,281,34,797,582,507,147,126,496,45,1149,230,120,1061,460,1858,1730,724,135,48,313,156,39,92,18,239,400,30,522,557,3,21,55,1,1,3,44,57,70,72,8,46,70,2,1,33,131,29,46,307,179,70,89,101,88,101,10,56,142,370,1,4,5,208,54,109,120,324,87,292,244,249,81,44,30,683,11,57,42,35
 Composition Art	16879
 Composition Comité de Pilotage des Projets TIC	13290
 Composition Comités Directeurs Interministériels	13290
@@ -504,10 +518,12 @@ Connectivity and Skills Component	14010
 Cons Component	17219
 Construction Components	17099
 Continency Emergency Response Component	13331
+Contingency Emergency Component	19284
 Contingency Emergency Reconstruction Component	1228
-Contingency Emergency Response Component	2989,7779,195,1002,2611,977,108,76,276,174,2622
+Contingency Emergency Response Component	2989,7779,195,1002,2611,977,108,76,276,174,2622,475
 Contingency Emergency Response Component. Following	14576
-Contingent Emergency Response Component	761,235,232,36,20,300,283,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61,990,2,226,353,27,35,66,2,37,1,2,82,39,187,14,96,65,43,197,52,460,26,4,68,6,96,3,15,848,171,160,8,49,4,5,97,48,30,275,124
+Contingency Response Component Emergency Response Component	19284
+Contingent Emergency Response Component	761,235,232,36,20,300,283,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61,990,2,226,353,27,35,66,2,37,1,2,82,39,187,14,96,65,43,197,52,460,26,4,68,6,96,3,15,848,171,160,8,49,4,5,97,48,30,275,124,312,4,35
 Contingent Emergency Response Component CERC Country	11417
 Contingent Emergency Response Component CERC Steering	1228
 Contingent Emergency Response Component CPF Comité	10964
@@ -530,7 +546,7 @@ Customer Composition	8999
 Cyclone Freddy. COMPONENTS Current Component Name	4653
 D Component	17180
 D. Compounding	14809
-D. Project Components	15743,401,240
+D. Project Components	15743,401,240,2861
 D. Project Components Component	15743
 DA-A for Components	15659
 DA-B for Component	15659
@@ -597,6 +613,7 @@ Emergency Response Component CPCC Critical Information	16144
 Emergency Response Contingent Emergency Component	16922
 Engineering and Supervision Technical Consultant Component	14080
 Enhance Component Synergies	13083
+Environment for Digital Economy Component	19245
 Equip Component	17219
 Equipa Component	17219
 Essential Primary Health Care Services Component	16922
@@ -700,7 +717,7 @@ Identifie Draft Negotiated Cont Description Component	17180
 Impact Evaluation of Component	15663
 Impact of Component	15411
 Implementation Progress and Components	996
-Implementation Status and Key Decisions Component	18350
+Implementation Status and Key Decisions Component	18350,899
 Implementation of Component	14966,445,13,234
 Improve Component	15661
 Improving Service Delivery Performance Component	13787
@@ -752,6 +769,7 @@ Large Composite Micro Utility License	16978
 Layer Component Description References Contextual	9128
 Lega Component	17219
 Leone Council Composition of Council	18435
+Loan Cancellations No Components Yes Procurement	19284
 Loan Closing Date Extension No Components	15969
 Local Components	13474
 Local Development Financing MS MS Component	18494
@@ -822,6 +840,7 @@ Obras Component	17219
 Ocidental. Componente	11542
 Office Furnitur Component	17180
 Officer E&S Officer Component Leads	16949
+Official Use Only COMPONENTS Last	19284
 Official Use Only Component	18359
 Older Persons Component	17099
 On-Budget Expenditure Composition	17257
@@ -903,10 +922,12 @@ Project Components Description of Components Estimates	17441
 Project Components IDA GFF Total Component	10829
 Project Components Parent Project Cost GFATM	16896
 Project Components Parent Project IDA HEPRTF	16922
+Project Components Parent Restructuring AF HSTRF	19284
 Project Components Project Cost	15411
 Project Components Project Cost IDA Financing	11525
 Project Components and Costs Components US	2889,12629
 Project Components and Funds Allocation	1704
+Project Cost and Financing Project Components Parent	19284
 Project Expenditure Schedule Components PY1 PY2	11863
 Project Financing Allocation Components IDA Financing	3604
 Project Implementation Support Component	15659
@@ -969,7 +990,7 @@ Revenue Composition	5655,11602
 Revenue Composition Direct Budget Support	5655
 Review and U Component	17180
 Review and Up Component	17180
-Revised Component	15138,831,927,26,1437
+Revised Component	15138,831,927,26,1437,925
 Revised Components	11924,3500,87,90,835,178,1235,113,792,11
 Revised Components Laying the Foundations	15601
 Revised Components and Costs	15663
@@ -1021,8 +1042,10 @@ Strategic Interventions Target Period Components	396
 Strategic Interventions Target Period Components Build	396
 Strategic Interventions Target Period Components Establish	396
 Strategy Components	17157
+Strengthening the Component	19284
 Structure and Composition	12201
 Sub Total Component	17441
+Substantial. Under Component	19245
 Substantial’. Component	10829
 Sudan. Components	14937
 Suggested Composition	12359
@@ -1054,17 +1077,19 @@ Through Component	6539,11754,8
 Through Vibe Composition	14308
 Throughout Component	18293
 Tilinawo Mkandawire Component	13392
+Togo. Component	19284
 Top-Level Component Sub- Component	12359
 Transfer CERC Contingency Emergency Response Component	18809
 Transporte Componente Especificação Situação Transporte TCP	18774
 Técnico da Difusão COMPOSIÇÃO	10757
 UGP for Component	17441
+UHC. Component	19284
 UNECA Compound	14131
 USD Composante	18942
 Uganda. Components	394
 Un Composante	15901
 Unannualised Cumulative Compounded Daily Rate	16219
-Under Component	1264,20,583,121,901,3650,4290,696,330,1537,1746,45,475,1,84,693,269,191,1397,516
+Under Component	1264,20,583,121,901,3650,4290,696,330,1537,1746,45,475,1,84,693,269,191,1397,516,436
 Under Components	10964,7329
 Unified Social Registry B. Project Components	11855
 Unité de Gestion Composantes du PAFEN	13338

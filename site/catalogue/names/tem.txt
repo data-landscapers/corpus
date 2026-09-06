@@ -171,6 +171,7 @@ Mbps Temps	15943
 Mean Annual Maximum Temperatures	2775
 Mean Annual Maximum and Minimum Temperatures	2775
 Mean Annual Minimum Temperatures	2775
+Measurement Template Comments	19242
 Michelle Chivunga and Alastair Tempest	1006
 Microsoft. Tem	2816
 Mme Sylvie Baipo Temon	4327
@@ -188,6 +189,7 @@ NTP. Templates	3430
 Nahyan and Nancy Tembo	12983
 Nancy Tembo	12983
 News Temporary Closure of National Identity	14741
+Nom Email Message Envoyer Edit Template	19252,21
 Numerical Address Exceptions Temporary	11129
 Nunoo Tema	16544
 O Tempo	2816
@@ -254,6 +256,7 @@ Susan Tembo	13163
 TEM-9 Initiative	16256
 TEM.2023.3319406	2093
 TEMBELY. Cette	17978
+TEMEDJA N	19251
 TEMENT	13300
 TEMERA	17828
 TEMIS	12494
@@ -324,15 +327,15 @@ Temos	1265,596,955,1762,777,3346,3317,5552,1280,20
 Tempa N'TCHA	16485
 Temperatura	794
 Temperatura Média	18757
-Temperature	2775,6348,1846,915,1,10,264,1,44,1,146,4,41,91,444,163,1349,293,1171,1040,101,109,100,1113,387
+Temperature	2775,6348,1846,915,1,10,264,1,44,1,146,4,41,91,444,163,1349,293,1171,1040,101,109,100,1113,387,488
 Temperature Ice Point Reference	14736
 Temperature and Precipitation. Reference Guide	17257
 Temperature and Relative Humidity Control All Tier	9123
 Temperature-measuring	9123
-Temperatures	3456,148,2935,8416,788
+Temperatures	3456,148,2935,8416,788,3502
 Temperatures STBs Set Top Boxes SUA	2775
 Tempering With Criminal Investigation	16935
-Template	236,1542,4654,3991,4064,59,2302,220,46
+Template	236,1542,4654,3991,4064,59,2302,220,46,2128
 Template Indicators Attachment V. Sources of Evidence	12500
 Template Indicators Sources of Evidence P7-24. Time	12500
 Template Integrations Approved Vendor List VSDC	12454
@@ -373,7 +376,7 @@ Temporal	11528,5629
 Temporal Scope and Lifecycle Coverage	7548
 Temporalities	12227
 Temporarily	14760,190,1952
-Temporary	1243,4422,2524,2586,66,67,56,10,206,1,214,426,165,267,376,261,3,260,178,72,203,18,1243,17,42,140,15,48,424,526,535,225,275,26,17,93
+Temporary	1243,4422,2524,2586,66,67,56,10,206,1,214,426,165,267,376,261,3,260,178,72,203,18,1243,17,42,140,15,48,424,526,535,225,275,26,17,93,2034
 Temporary AI	12675
 Temporary Addresses	11129
 Temporary Admission	13042
@@ -415,6 +418,7 @@ Temporary Storage Article	15492
 Temporary Structure Renewal Permits	16276
 Temporary Suspension	17037
 Temporary and Permanent	11218
+Temporel	19226
 Temporellement	10858
 Temporário	5819
 Tempos	18958

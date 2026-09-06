@@ -86,6 +86,8 @@ DOCUMENT ON A PROPOSED LOAN	6539,4878,4136
 DPL Development Policy Loan EU European	17441
 DSR System Load	11953
 Dec Total Manual Load Reduction	11953
+Dec-2025 No Legal Covenants Loan	19284
+Dec-2027 Withdrawal Loan	19284
 Depuÿ General Manager of Concessional Loan Departmen	15399
 Description Framework Loan	473,990
 Development Linked Loan	1818
@@ -177,14 +179,14 @@ IBRD Loan and IDA Credits and Grants	10964
 IBRD Loans	15372,3515
 IBRD Loans and IDA Credit	15411
 IBRD Loans and IDA Credits	15372,3515
-IBRD Loans and IDA Credits and Grants	3604,2299,4865,61,588,108,330,50,19,1407,1,2040,39,107,140,1,2,483,792,13,1249,689
+IBRD Loans and IDA Credits and Grants	3604,2299,4865,61,588,108,330,50,19,1407,1,2040,39,107,140,1,2,483,792,13,1249,689,358
 IBRD Total Loan	12980
 IDA EPTC Loan Agreement	6539
 IDA Effectiveness the Loan Agreement of Effectiveness	11417
 IDA Grant IDA Shorter Maturity Loan	11905
 IDA KOE Loan Agreement	6539
 IDA Scale-Up Window-Shorter Maturity Loan	11905
-IDA Shorter Maturity Loan	15983,671,1
+IDA Shorter Maturity Loan	15983,671,1,2590
 IDA-64990 ON A LOAN	15959
 IFAD LOAN NO	14546
 IFC A Loan	6724
@@ -284,10 +286,11 @@ Loan Allocated	15411
 Loan Authorization Act	483
 Loan Authorization Bills	12987
 Loan Cancellations	11965
+Loan Cancellations No Components Yes Procurement	19284
 Loan Cancellations No Development Objective	15969,2390
 Loan Cancellations No Legal Operational	16187
 Loan Closing Date	1228,56,14317,62,1233,26,927,13
-Loan Closing Date Extension	2473,9451,41,1896,4101,863
+Loan Closing Date Extension	2473,9451,41,1896,4101,863,459
 Loan Closing Date Extension Loan Cancellations	16032
 Loan Closing Date Extension No Components	15969
 Loan Collateral. Despite	18825
@@ -397,8 +400,10 @@ Number of Loan	940
 Number of Loan Disbursements	13532
 Number of Loans	940
 Off-Grid Solar PAYG Loan Norfund	389
+Official Use Only LOANS	19284
 Orange Mali S.A. Telecom Infrastructure Loan	2214
 Original Loan Currency	16219
+Original Revised Proposed Proposed Loan Closing	19284
 Outcome of Loan Applications	12445
 Outstanding Purchases and Loans	13868
 Overnight Loan Facility	12364

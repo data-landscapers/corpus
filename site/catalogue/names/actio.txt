@@ -54,6 +54,7 @@ ACTIONNAIRES OU ASSOCIES	17841
 ACTIONNARIAT	15394
 ACTIONPHYSIO CLINIC Data Controller INST-153064874DF NAIROBI	7167
 ACTIONS	1000,1966,11459,348,780,167,1381,56
+ACTIONS Article	19260
 ACTIONS ET AUTRES TITRES A REVENU	17841
 ACTIONS ET CHANGEMENTS ATTENDUS	15479
 ACTIONS FOR ASSOCIATED THE GOALS	16885
@@ -92,7 +93,7 @@ Abundant R&D Resources Code Action Description	15713
 Accelerate Action	12188
 Accelerate Action for Children	11245
 Act. The Affirmative Action	12961
-Action	252,215,176,146,49,7,125,30,131,87,10,217,3,3,1,2,3,97,76,148,24,186,160,584,157,77,415,15,187,204,4,19,317,34,235,155,615,114,1184,328,144,102,1,103,454,45,29,31,17,140,646,495,23,226,151,1315,115,29,11,5,2,409,132,112,311,17,11,39,6,31,83,26,122,9,1,16,198,153,73,15,35,168,69,73,20,53,12,93,36,91,10,6,26,58,24,132,100,42,31,6,2,264,31,28,4,36,61,31,227,70,194,1,223,35,3,84,101,269,58,28,3,15,19,63,8,75,5,11,46,4,7,68,46,3,178,21,21,12,146,133,52,25,90,81,8,107,162,1,11,26,29,33,27,7,52,44,127,19,71,36,64,39,69,206,82,16,6,24,9,17,5,27,3,36,2,10,1,10,39,71,22,129,1,31,5,2,4,15,27,31,42,46,1,29,68,50,263,18,85,137,74,13
+Action	252,215,176,146,49,7,125,30,131,87,10,217,3,3,1,2,3,97,76,148,24,186,160,584,157,77,415,15,187,204,4,19,317,34,235,155,615,114,1184,328,144,102,1,103,454,45,29,31,17,140,646,495,23,226,151,1315,115,29,11,5,2,409,132,112,311,17,11,39,6,31,83,26,122,9,1,16,198,153,73,15,35,168,69,73,20,53,12,93,36,91,10,6,26,58,24,132,100,42,31,6,2,264,31,28,4,36,61,31,227,70,194,1,223,35,3,84,101,269,58,28,3,15,19,63,8,75,5,11,46,4,7,68,46,3,178,21,21,12,146,133,52,25,90,81,8,107,162,1,11,26,29,33,27,7,52,44,127,19,71,36,64,39,69,206,82,16,6,24,9,17,5,27,3,36,2,10,1,10,39,71,22,129,1,31,5,2,4,15,27,31,42,46,1,29,68,50,263,18,85,137,74,13,25,5,11,15,20
 Action A1.1.1.1.1	17983
 Action A1.3.1.1.2	17983
 Action A2.5.2.1.1	17983
@@ -118,7 +119,8 @@ Action Communautaire Ministère	15712
 Action Communautaires	15712
 Action Compact	17582
 Action Complaint File Date	14675
-Action Component Name Cost	15138
+Action Component	19284
+Action Component Name Cost	15138,4146
 Action Concrète	15287
 Action Contre la Faim	17849
 Action Contre le Blanchiment	4127
@@ -130,14 +132,17 @@ Action Description Adoption	17470
 Action Description Appointment	17470
 Action Description D-I6-A1 Data	15713
 Action Description Develop	10870,6600
+Action Description E&S	19242
 Action Description Ensure	10870,6600
 Action Description Establish	10870
+Action Description FM	19242
 Action Description Implementation	17470,35
 Action Description Improve	17470
 Action Description Maintain	17470
 Action Description Objective Action Details D-I8-A1	15713
 Action Description Objective Action Details G-I1-A1	15713
 Action Description Objective International AI	15713
+Action Description PS	19242
 Action Description Responsible Unit Timeframe Remarks	17157
 Action Description Roll-out	17470
 Action Description STEM	15713
@@ -293,7 +298,7 @@ Action Proposed Component Name No Change	1228
 Action Proposed Component Name Proposed Cost	16896,1463
 Action Proposed Component Proposed Cost	1284,15638
 Action Protocol	13140
-Action Publique	15366,570
+Action Publique	15366,570,3430
 Action Pédagogiques	11905
 Action Pédagogiques INS	15673
 Action Ramener	13306
@@ -313,7 +318,7 @@ Action Sectoriel	5374
 Action Securing Trust In Ghana	6936
 Action Securing Trust In Ghanda	6936
 Action Seidu	9419
-Action Sociale	10812,1112,3949,92,47,604,1211,18,28,22,52,68,121,102,37,11,11,15,572
+Action Sociale	10812,1112,3949,92,47,604,1211,18,28,22,52,68,121,102,37,11,11,15,572,337,14,6,11,21
 Action Sociale Cellule Informatique	18297
 Action Sociale Cellule Informatique Projet PI	18297
 Action Sociale Chargés	17827
@@ -344,6 +349,7 @@ Action Théorique SAMU	15475
 Action Timeline	12761
 Action To Government	17139
 Action Trust ACDO Assistant Community Development	12970
+Action Type Revised	19284
 Action URL	12143
 Action US	395
 Action V.1.1 Former	13306
@@ -458,8 +464,9 @@ Actionnaires	16613,1300
 Actionnariat	2342,13052,549,352
 Actionnariat Populaire	18227
 Actionnariat du Titulaire L'intégralité	15943
-Actions	789,211,218,220,27,312,37,14,160,1001,362,45,465,266,79,361,2379,13,2447,366,1086,16,91,951,111,206,123,33,2,8,276,26,605,14,5,6,131,51,206,6,61,424,269,143,101,274,22,404,89,30,11,15,27,66,17,42,18,110,60,16,12,41,60,151,453,235,9,17,49,15,148,43,128,200,342,9,6,2,1,11,25,65,37,49,64,9,10,7,164,11,234,25,239
+Actions	789,211,218,220,27,312,37,14,160,1001,362,45,465,266,79,361,2379,13,2447,366,1086,16,91,951,111,206,123,33,2,8,276,26,605,14,5,6,131,51,206,6,61,424,269,143,101,274,22,404,89,30,11,15,27,66,17,42,18,110,60,16,12,41,60,151,453,235,9,17,49,15,148,43,128,200,342,9,6,2,1,11,25,65,37,49,64,9,10,7,164,11,234,25,239,496
 Actions A. Climate Vulnerability and Risks	15553
+Actions ANALYSIS ACTIONS INDICATORS	19245
 Actions API-Mali Actions API-Mali Facilitation	18013
 Actions Adaptatif	18122
 Actions Agreed	13392
@@ -470,6 +477,7 @@ Actions Budgétisées	10913
 Actions Communautaires	15712
 Actions Connected	3604
 Actions Correctives	14539
+Actions Délais	19241
 Actions Explications Délimiter	17836
 Actions Humanitaire	17827,18
 Actions Humanitaires	16621
@@ -504,6 +512,7 @@ Actions Sectoriels	15542
 Actions Short-Term	1777
 Actions Sources	13325
 Actions Stakeholder Timeline Measures Targets Conduct	5245
+Actions Subventions Fonds	19221
 Actions Taken	13399
 Actions Taken Take Action More Info	12336
 Actions VR	13325
@@ -690,7 +699,8 @@ Cases Action Steps Impact Strengthening the Design	14997
 Category Description Required Action Complaints	17114
 Category of Grievance Category Description Required Action	17099,15
 Cause Of Action	14675
-Center for Effective Global Action	7282
+Center for Effective Global Action	7282,11990,77
+Center for Effective Global Action. Esaïe Edoh	19302
 Center for Effective Global Action. Tanner	13624
 Central African Republic Ministry of Humanitarian Action	15658
 Chad’s Prevention and Resilience Allocation Action Plan	18933
@@ -711,6 +721,7 @@ Climate Action and Youth Empowerment Malabo	17318
 Climate Action and Youth Empowerment URL	17318
 Climate Action. Create	14752
 Climate Action. In Fulacunda	17164
+Climate Adaptation and Mitigation Action Component Climate	19284
 Climate Change Action Plan	18851
 Climate Change Gender Action Plan	16947
 Code Description Non-Compliance Action	16978
@@ -737,6 +748,7 @@ Compact's Action Plan	12399
 Competition Commission's Remedial Actions	13462
 Complete Follow-up Action	1778
 Compliance and Enforcement Actions	12062,6124,31
+Component Climate Action	19284
 Comprehensive Action Plan	15224
 Comprehensive Mental Health Action Plan	10776
 Conseil des Ministres. Action N	17824
@@ -750,6 +762,7 @@ Core Actions	16985
 Corporate Actions the Companies and Other Business Entities	4896
 Corrective Action Plans	2989,2676
 Corrective Actions	5245,11854,15
+Corrective Actions. The Government	19214
 Costed Action Plan	13219
 Costed Action Portfolio and Budget	17116
 Costed National Disability Action Plan	13219
@@ -786,6 +799,7 @@ DHIS2 Action VI.1.5 Exporter	13306
 DHIS2 Action VI.1.6 Exporter	13306
 DHIS2 Action VI.2.2 Organiser	13306
 DISD. Actions	15936
+DROITS ET OBLIGATIONS ATTACHES AUX ACTIONS	19260
 DROUGHT RESPONSE ACTIONS Response	17157
 DU PROJET WISER ACTION FIRST AU	13613
 Dakar Action Plan	18479
@@ -888,6 +902,8 @@ EdTech Strategy and Action Plan	11918
 Education Action Plan	13990
 Education Action Plan DODeL Directorate of Open	17196
 Educational Action Entities	18125
+Effective Global Action	19237
+Effective Global Actions	19237
 Effective Implementation of Actions and Activities	1777
 Efficiency. Actions	12701
 Egypt Action Details Provide	15713
@@ -928,6 +944,7 @@ European Union's Digital Education Action Plan	6936
 Evaluation MASFAMU Ministry of Social Action	10768
 Evidence Action Plan	10911
 Evidence and Action	11095
+Excellence Evidence Policy Action	19345
 Extrants- Actions IMPACT Elaboration	18286
 FAITS MARQUANTS Actionnariat	2342
 FAITS MARQUANTS REPARTITION DU CAPITAL Actionnariat	2342
@@ -944,6 +961,7 @@ FM Action Plan Issue Remedial Action	3604,7225
 FM Action Plan Responsible Action Deadline	15661
 FM Action Plan Responsible Due Date	11855
 FOCUS ON PRIORITY REFORMS ACTIONS	12717,3471
+FORME DES ACTIONS	19260
 FOSA Action V.5.3 Etablir des PPP	13306
 FOSA Action VII.1.1 Standardiser	13306
 FOSA Action VII.5.1 Réaliser	13306
@@ -1101,6 +1119,7 @@ IMPLEMENTATION AND MONITORING OF KEY ACTIONS	14773
 IMPLEMENTATION AND NATIONAL ACTION PLAN	14874
 INCLUDING REMEDIAL ACTION TAKEN TO ASSIST	2709
 INDICATORS ANALYSIS ACTIONS	15553
+INDIVISIBILITE DES ACTIONS	19260
 INSD Action	10874
 INSP Action VI.4.2 Créer	13306
 INSP Action VI.4.6 Un Centre	13306
@@ -1119,7 +1138,8 @@ IV.1.2. Actions Pour	15848
 IV.2.2. Actions AÞ	15848
 IV.3.2. Actions Pour	15848
 IVOIRE Plan d Actions National pour l	3604
-Identified Gender Barriers and Proposed Actions	969,14584
+Identified Climate Risks and Proposed Actions Aligned	19245
+Identified Gender Barriers and Proposed Actions	969,14584,3692
 Identified Gender Barriers and Proposed Actions INDICATORS	15553
 Identified Gender Barriers and Proposed Actions Table	15553
 Identified Priority Sectors Actions	16885
@@ -1148,7 +1168,7 @@ Initial Action Portfolio	17116
 Initial Strategic Action Portfolio and Costed Activities	17116
 Innovation And Infrastructure Climate Action Achieving	15578
 Innovation for Poverty Action	18215
-Innovations for Poverty Action	76,291,296,446,1,374,6808,1985,861
+Innovations for Poverty Action	76,291,296,446,1,374,6808,1985,861,8099
 Integrated Action for Malaria Prevention	4499,2517
 Integrated Plan of Action	11230
 Integrated Social Action Centers	10768,7
@@ -1198,6 +1218,7 @@ Key Proposed Actions Strengthening Internationalisation	14747
 Key Recommendations and Action Points	17260
 Kigali Action Plan	10764
 LES VALEURS CADRE-DE-REFERENCE DES ACTIONS	14529
+LIBERATION DES ACTIONS	19260
 LICENCE ET ACTIONNARIAT	15394
 LICENSING AND AUTHORIZATION ACTIONS	16884
 LIMS Action II.1 Intégrer le LIMS	13306
@@ -1298,7 +1319,7 @@ Ministry of Health and Social Action. While the MDCEST	18301
 Ministry of Humanitarian Action	10841,4817,73,2394
 Ministry of Humanitarian Action and Disaster Management	18104,21,73
 Ministry of Humanitarian Action and Disaster Management MEF	18198
-Ministry of Social Action	10765,3,7,1,599,5,15
+Ministry of Social Action	10765,3,7,1,599,5,15,7850
 Ministry of Social Action and National Solidarity	10812
 Ministry of State for Social Action	10763
 Mobile Data for Humanitarian Action	6024
@@ -1484,6 +1505,7 @@ PME. Action N	17824
 PNDIS Action VII.5.4 Compenser	13306
 POLICY KEY ACTION AREAS	16872
 POM. Action Description Report	17470
+POUR LES MULTIPLES ACTIONS DE SOLIDARITE	19252,21
 PRIVACY AND DATA PROTECTION ACTIONS	16884
 PROCUREMENT ACTION PLAN	16384
 PROGRAM ACTION PLAN	11905,4127,1426,912
@@ -1648,6 +1670,7 @@ Program A. Actions Taken Under the Program	13756
 Program Action Plan	11905,271,882,2974,1426,912
 Program Action Plan Action	18370
 Program Action Plan Action Description Appointment	10870,6635
+Program Action Plan Action Description FM	19242
 Program Action Plan Action Description Maintain	17470
 Program Action Plan Yes Development Objective	16032
 Program Action Plan and IPF	11905
@@ -1666,6 +1689,7 @@ Promoting Action	8376
 Proposed Actions	1814,1790,10418,796
 Proposed Actions Taken	13331
 Proposed Actions and Relevant Indicators	15621
+Proposed Actions for Addressing Climate Vulnerability	19245
 Proposed Corporate Actions Shareholders	4896
 Proposed Corrective Actions	17101
 Proposed Drought Mitigation Actions	17157
@@ -1732,7 +1756,7 @@ Resettlement Action Plan	1988,9875,2075,1573,191,952,242,218,1106,667
 Resettlement Action Plan ARCEP Regulatory Authority	15511,2351
 Resettlement Action Plan and Resettlement Policy Framework	3456
 Resettlement Action Planning	17099
-Resettlement Action Plans	3604,7921,3847,1242,500,1773
+Resettlement Action Plans	3604,7921,3847,1242,500,1773,397
 ResettlementÂ ActionÂ PlansÂ	18887
 Resilience Action Network Africa	4674,3805
 Resilience Strategy and Action Plan	6539
@@ -1765,7 +1789,7 @@ SGCH. Actions	15936
 SGRHS SGRHS Action III.1.3 Encoder	13306
 SGRHS le SGRHS Action III.1.3 Encoder	13306
 SH Action	1988,10265
-SH Action Plan	10964,3589,585,520,1,1237,26,192
+SH Action Plan	10964,3589,585,520,1,1237,26,192,2125
 SH Action Plan Discrimination	1988
 SH Action Plan Implementation	1988
 SH Action Plan and Accountability Framework	16144
@@ -1797,6 +1821,7 @@ SSN Action	10874
 STAP Short Term Action Plan for Infrastructure	13295
 STRATEGIC ACTION PORTFOLIO AND COSTED ACTIVITIES	17116
 STRATEGIC ACTIONS	16884
+SUIVI DES ACTIONS SOCIALES	19252,21
 SUMMARY Drought Response Actions	17157
 SUMMARY OF RESOURCE MOBILIZATION OPTIONS ACTIONABLE	14879
 SUPERVISORY ACTIONS	14880
@@ -1859,6 +1884,7 @@ Standards IMAP IPSAS Implementation Matrix and Action	13420
 State Action	3456,8013
 State Department for Gender and Affirmative Action	14546
 State. Action	12912
+Statut Actions	19241
 Steering Committees and Joint Action Development Forums	14947
 Strategic Action Plan	1000,13748
 Strategic Action Plan The Gambia National	16861
@@ -1903,12 +1929,14 @@ T-I18-1 Action Description AI	15713
 TAPE ACTION ENREGISTREMENT ET EXAMEN PRELIMINAIRE	14424
 TAPES ET ACTIONS CONVENUES	14539
 TAPES ET ACTIONS CONVENUES Actions Responsables	16012
+TF Description Status Action IDA-D7870 Complied	19284
 TF LEGAL TBL1 Description Status Action	1284
 TIC. Action N	17824
 TRANSFORMATION ACTION PLAN	1818
 TRANSFORMATION ACTION PLAN ANNEX	1818
 TRANSFORMATION ACTION PLAN Tunisia Telecommunications	1818
 TRANSFORMING LIVES IN ACTION	7204
+TRANSMISSION DES ACTIONS	19260
 Table of Agreed Actions	12195
 Tanzania Social Action Fund	136,10997,9
 Tanzania Social Action Fund TZS Tanzania	11133
@@ -1923,6 +1951,8 @@ Thematic Action Track Five	12175
 Theory of Reasoned Action	8130
 Time Bound Action Plan The National	17367
 Time for Action	4301
+Togo Plan d Actions National d	19245
+Togo's National Energy Efficiency Action Plan	19245
 Town Global Action Plan for Sustainable Data	13359
 Trade Mark Official Actions	11250
 TresorPay-TresorMoney. Actions	15936
@@ -1953,6 +1983,7 @@ Use Cases Action Steps Impact Market	14997
 Use Cases Action Steps Impact Scaling	14997
 Use Cases Action Steps Impact Strengthen	14997
 Use Cases Action Steps Impact Strengthening	14997
+Use Only Action Description FM	19242
 Use Only Action Description Maintain E&S	17470
 VASP Act. Enforcement Actions	19145
 VI. CALL TO ACTION	15939
@@ -1964,7 +1995,7 @@ Visasupdate and Action-Visas	14235
 WACS Resettlement Action Plan WLL Republic	15372
 WAY FORWARD Short-Term Actions	6936
 WBG Climate Action Plan	15518
-WBG Climate Change Action Plan	3604,15016
+WBG Climate Change Action Plan	3604,15016,625
 WBG’s Climate Action Plan	15553
 WBG’s Climate Change Action Plan	1867
 WHO’s Framework for Action. Geneva	11596
@@ -1979,7 +2010,9 @@ West Africa Implementation Action Plan	15372,52
 World Bank Climate Action Plan	18198
 World Bank Climate Change Action Plan	13331
 World Bank Comments Appointed Action Description	17505
+World Bank Group Climate Change Action	19245
 World Bank Regional Gender Action Plan	16896,26
+World Bank. Action Description PS	19242
 World Bank. Comments Ongoing Action Description	17470
 World Bank’s Climate Change Action Plan	16922
 World Vision and Action	15581

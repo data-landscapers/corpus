@@ -141,6 +141,11 @@ CHAPTER THREE FUNDAMENTAL RIGHTS AND FREEDOMS	13948
 CHARLES FREDRICK MUGO KIBACHIO Data Controller	7167
 CHINA BY FREEPORT LICENSEE USING	14816
 CHN RE-EXPORT OF GOODS FROM FREEPORT	14816
+CHWs Frequency Biannually Data	19284
+CNSS Description Frequency Revised Persons	19284
+CNSS Description Frequency Revised Pregnant	19284
+CNSS Frequency Revised Children	19284
+CNSS Frequency Revised Newly	19284
 COLONEL Ou CAPITAINE DE FRELATE	15524
 COMESA FREE TRADE AREA	13440
 COMESA-EAC-SADC Free Trade Area	13563
@@ -174,6 +179,7 @@ Civic Freedom Monitor	9022
 Claude KIREZI Remy Bruce SHEMA Fred	12445
 Code of Free and Offshore Activities	18797
 Code of Practice for Packaging and Transport of Fresh Fruit	16900
+Collection Indicator Name MoH-UHC Description Frequency	19284
 Comments Freetown Polytechnic	18547
 Commissioner General Fred Morel	7911
 Commissioner General Frequency	17011
@@ -233,8 +239,14 @@ December. Fresh	6763
 Deep Freeze	8022
 Demographic and Health Survey Freetown	18590
 Department.................................. Free	12489
+Description Annually Frequency Contracts	19284
+Description Biannually Frequency PHC	19284
+Description Biannually Frequency Page	19284
+Description Biannually Frequency Project	19284
 Description Frequency Datasource	15518
 Description Frequency Datasource Collection Collection	1284,12048,3590
+Description MoH-UHC Frequency ReviseWomen	19284
+Description Once Frequency Decree	19284
 Deteriorating State of Internet Freedom	13313
 Development As Freedom. OUP Oxford	961
 Development Fund AfCFTA African Continental Free	13731
@@ -242,6 +254,7 @@ Development Fund AfCFTA African Continental Free-Trade	13885
 Development of Free Zones	10781
 Diagnostic AIGF Ivorian Frequency Management Agency	17862
 Digital Analogue Proposed Frequency Band Proposed	736
+Digital Code Frequency Annual Data	19245
 Digital Freedom	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135
 Digital Freedom Enabling Networks	1566
 Digital Freedom Public Perception of Inclusion	12353
@@ -340,6 +353,7 @@ FCFA Free	10823
 FG Taps French	12130
 FH Freedom House	11887,266,1,9,178
 FINLAND EN.pdf Frempong G	16872
+FM Frequency	19350
 FM Sound Broadcasting Frequencies Assigned	6671
 FM Support Plan Frequency Desk	3604
 FQSE Free Quality School Education JSS	18564
@@ -406,7 +420,7 @@ FTA Free-to-Air GDPR General Data Protection	4126
 Facebook Free Basics	13461
 Fannie Mae and Freddie Mac	10
 Fançony Domingos Pinoca Frederico	11391
-Faroe Islands Fiji Finland France French	11470
+Faroe Islands Fiji Finland France French	11470,7872
 Fate of Media and Free Expression Rights	9661
 Fee Schedule Structure for Free Primary Education	12956
 Female Frequency Annual Data	15661
@@ -573,7 +587,7 @@ Free State. Download	11343
 Free State. Education	11248
 Free State. Restoration	11297
 Free State. Would	5025
-Free Sénégal	241
+Free Sénégal	241,18992
 Free Team Collaboration Slack	17157
 Free Tech Institute	9989,6
 Free Tech Institute Explore Pathways	9989
@@ -629,7 +643,7 @@ FreeBalance	18576,1
 FreeBalance. Critics	4640
 FreeID	9488
 Freebalance	18661
-Freedom	226,735,3792,462,461,190,966,1400,422,368,134,504,277,80,117,82,380,130,489,59,626,301,26,98,8,56,502,422,3,145,9,269,209,794,265,335,21,137,426,917,4,40,29,211,169,638,33,3,214,413,27
+Freedom	226,735,3792,462,461,190,966,1400,422,368,134,504,277,80,117,82,380,130,489,59,626,301,26,98,8,56,502,422,3,145,9,269,209,794,265,335,21,137,426,917,4,40,29,211,169,638,33,3,214,413,27,610
 Freedom C Onuoha	9616
 Freedom Day	2626,2174
 Freedom Day and Freedom Month	2626
@@ -809,7 +823,7 @@ Frejus Thoto	10852
 Freleases	4861,929,900
 Frelick	12227
 Frelimo	5815,6333,53
-French	25,31,69,64,21,25,10,1,14,48,30,99,38,6,225,29,31,195,1,55,26,6,147,269,60,67,136,43,7,59,5,24,19,13,5,49,3,4,3,280,63,119,83,163,12,341,5,6,25,72,3,23,41,1,144,173,44,147,40,87,48,14,72,66,93,5,8,64,33,30,17,9,110,31,162,29,1,36,2,12,3,31,46,4,115,39,12,36,15,18,14,45,2,17,16,33,37,64,29,169,31,5,7,26,25,15,24,2,10,22,87,2,1,1,1,20,45,49,8,44,6,33,34,21,31,30,91,19,43,49,1,76,49,120,22,2,4,4,7,29,4,22,21,17,12,29,56,69,52,16,19,20,30,3,6,92,30,1,22,55,13,21,43,74,39,12,6,23,34,1,20,29,62,125,278,3,45,93,111,6,88,1,62,36,234,46,8,205,32,674,99,117,83,52,179,43,71,40,74,57,176,19,108,57,97,4,8,11,29,21,57,29,14,9,3,4,1,136,14,6,28,307,55,61,207,112,2,3,6,34,53,39,1,87,133,56,387,269,339,44,184,33,1,105,52,6,129,58,277,64,274,15,20,14,15,29,17,15,22,16,10,1,30,15,1,5,160,6,65,152,182,80,13,23,64,42,69,19,18,2,240,131,112,51,29,14,5,42,44,2,27,78,227,180,9,64,26,30,127,28,118,22,20,357,129,7,89,24,13,28,2,102,271,36,25,236,191,114,46,7,21,188
+French	25,31,69,64,21,25,10,1,14,48,30,99,38,6,225,29,31,195,1,55,26,6,147,269,60,67,136,43,7,59,5,24,19,13,5,49,3,4,3,280,63,119,83,163,12,341,5,6,25,72,3,23,41,1,144,173,44,147,40,87,48,14,72,66,93,5,8,64,33,30,17,9,110,31,162,29,1,36,2,12,3,31,46,4,115,39,12,36,15,18,14,45,2,17,16,33,37,64,29,169,31,5,7,26,25,15,24,2,10,22,87,2,1,1,1,20,45,49,8,44,6,33,34,21,31,30,91,19,43,49,1,76,49,120,22,2,4,4,7,29,4,22,21,17,12,29,56,69,52,16,19,20,30,3,6,92,30,1,22,55,13,21,43,74,39,12,6,23,34,1,20,29,62,125,278,3,45,93,111,6,88,1,62,36,234,46,8,205,32,674,99,117,83,52,179,43,71,40,74,57,176,19,108,57,97,4,8,11,29,21,57,29,14,9,3,4,1,136,14,6,28,307,55,61,207,112,2,3,6,34,53,39,1,87,133,56,387,269,339,44,184,33,1,105,52,6,129,58,277,64,274,15,20,14,15,29,17,15,22,16,10,1,30,15,1,5,160,6,65,152,182,80,13,23,64,42,69,19,18,2,240,131,112,51,29,14,5,42,44,2,27,78,227,180,9,64,26,30,127,28,118,22,20,357,129,7,89,24,13,28,2,102,271,36,25,236,191,114,46,7,21,188,64,105
 French AI	10527
 French African	17773
 French Agency for Development	11380,5931
@@ -823,7 +837,7 @@ French Code	15901
 French Colony	16256
 French Consultations	13579
 French Contracting	9134
-French Development Agency	2073,178,52,241,2282,205,73,969,426,644,1041,2657,122,1,572,369,19,1944,1151,499,35,48,58,2,196,1,111,8,1872,21,423,8,8,622
+French Development Agency	2073,178,52,241,2282,205,73,969,426,644,1041,2657,122,1,572,369,19,1944,1151,499,35,48,58,2,196,1,111,8,1872,21,423,8,8,622,306,2
 French Development Agency AfDB African Development	18887
 French Development Agency and African Development Bank	14997
 French Development Agency and UNICEF	15601
@@ -846,6 +860,7 @@ French MEAE	15866
 French Manufacturers	12066
 French Meteorology University	18309
 French Minister	2794
+French Minister for Europe and Foreign Affairs Jean-Noël	19319
 French Ministry for Europe and Foreign Affairs	10275
 French Mistral	11050
 French NGO ACTED	18125
@@ -881,6 +896,7 @@ French and Moroccan	10929
 French and Portuguese	1243
 French and Sango	4886,549
 French and Spanish	6612
+French and Togolese	19319
 French and Wolof	18309
 French original	11868
 French-	3150
@@ -893,7 +909,7 @@ French-language	1049,1349,26,1997,167,4869,5990,296
 French-language Jumia	9733
 French-language We Are Tech	4819
 French-speaking	766,15412,1
-French-speaking Africa	3436,1618,2052,177,8896
+French-speaking Africa	3436,1618,2052,177,8896,3086
 French-speaking Africa. Previous	5159
 French-speaking Africa. The Board of Directors	16178
 French-speaking Central and West Africa. The Bank	16178
@@ -918,13 +934,13 @@ Frente Popular Guiné-Bissau	17020
 Frente Reputacional	10751
 Freque Responsibili Paramet Methodolog Responsibili Impacts	1988
 Frequencies	6818,2311,3250,2961
-Frequency	7,4,571,154,163,59,261,559,2013,181,1707,1267,716,97,1364,6,726,866,42,5,363,64,33,189,438,109,392,23,570,146,429,414,13,826,3,35,10,7,202,130,176,32,39,163,529,740,92,14,62,7,131,8,100,205,1042,25,358,17
+Frequency	7,4,571,154,163,59,261,559,2013,181,1707,1267,716,97,1364,6,726,866,42,5,363,64,33,189,438,109,392,23,570,146,429,414,13,826,3,35,10,7,202,130,176,32,39,163,529,740,92,14,62,7,131,8,100,205,1042,25,358,17,333,47
 Frequency Accounts Broadcast Competition Fund Strategy	6946
 Frequency Address	958
 Frequency Allocation Advisory Committee	16839
 Frequency Angola	11417
 Frequency Annual	11905,4239
-Frequency Annual Data	1867,1737,8301,3754,2,483
+Frequency Annual Data	1867,1737,8301,3754,2,483,3101
 Frequency Annual Datasource Relevant	15553
 Frequency Annual Official	16144
 Frequency Annual Project	15661
@@ -945,13 +961,17 @@ Frequency Band Proposed New Permission	736
 Frequency Band Utilization	6051
 Frequency Bands	18971
 Frequency Based	15661
+Frequency Bi-annually Data	19284
 Frequency Biannual Data	1867
 Frequency Biannual Data Source Consultation	1867
 Frequency Biannual Data Source Project	1867
 Frequency Biannual Data Source Training	1867
+Frequency Biannually Data	19284
 Frequency Bimonthly Data	10768
-Frequency Data	11525,3847
+Frequency Data	11525,3847,3912
+Frequency Denominator	19284
 Frequency Desk	10829,1026,3806
+Frequency Digital	19284
 Frequency Division Duplex	736,15207
 Frequency Every	11417,488
 Frequency Heure	16552,454
@@ -964,6 +984,8 @@ Frequency Modulation FOSS	13956
 Frequency Modulation Radio Stations FM	18485
 Frequency Modulation Radio Stations FTTX	18485
 Frequency Monitoring and Spectrum Regulations	16884
+Frequency Number	19284
+Frequency Numerator	19284
 Frequency Once	11417
 Frequency Once Data	10768
 Frequency Percentage	17149
@@ -973,10 +995,12 @@ Frequency Principles Interoperabili	11952
 Frequency Quarterly	12359,3785
 Frequency Quarterly Annually Continuous	15658
 Frequency Quarterly Data	10768,4890,486
+Frequency Quarterly NSHI	19284
 Frequency Quarterly Network Operations Center	16144
 Frequency Range	736,4509,1646,7889
 Frequency Range Maximum	14780
 Frequency Range Non-AAS	14825
+Frequency RevisePeople	19284
 Frequency Semiannually Data	10768
 Frequency Semianually Data	10768
 Frequency Spectrum	12971,2290,79,3262
@@ -988,6 +1012,7 @@ Frequency Spectrum Management Jan-Mar	6671
 Frequency Spectrum Management Supply Chain Management	6946
 Frequency Survey	14896
 Frequency Target Stakeholders Duty Bearer Proposed	17099
+Frequency The NSHI	19284
 Frequency Twice	10768
 Frequency Type	15845
 Frequency Usage Fees. Fifth Schedule	736
@@ -995,7 +1020,8 @@ Frequency Usage Transmit Duty Channel	736
 Frequency User	736
 Frequency VSAT Very Small Aperture Terminals	6946
 Frequency WEF World Economic Forum	236
-Frequency Yearly Data	15658
+Frequency Yearly Data	15658,3626
+Frequency Yearly NSHI	19284
 Frequency and Attendance of MPCC Meetings	11134
 Frequency and Spectrum	18601
 Frequency and Spectrum Control	18602
@@ -1014,7 +1040,7 @@ Frequency of Publication	17149
 Frequency of Release of Official Statistics	17149
 Frequency of Report	13005
 Frequency of Review	11956
-Frequent	8436,1520,873,12,627,57,24,437,247,712,3,385,85,1324,422,495,186,1077,1,204,133,359,506,353,287,12
+Frequent	8436,1520,873,12,627,57,24,437,247,712,3,385,85,1324,422,495,186,1077,1,204,133,359,506,353,287,12,507
 Frequent Interruptions	18795
 Frequent Terms	13532
 Frequent Traveller Express Pass	17687
@@ -1104,7 +1130,7 @@ Greater Freetown	18533
 Greater Internet Freedom	533,475,217,1
 Gregório Freire de Miranda	15404
 Guarantee Payment Frequency	15905
-Guiana French Polynesia French Southern Territories	11470
+Guiana French Polynesia French Southern Territories	11470,7872
 Guillermo Cano World Press Freedom Prize	14073
 H.E Frederick B. Norkeh	16849
 HF High Frequency ICANN Internet Corporation	6946
@@ -1134,11 +1160,13 @@ INTRODUCTION OF LAND TAX ON FREEHOLD	12912
 IOTA Foundation. The African Continental Free	6344
 Implementation Support Plan FM Activity Frequency	11525,4028
 Index Customer Average Interruption Frequency Index	12969
+Index SAIFI System Average Interruption Frequency	19239
 Index of Economic Freedom	13358
 India's Duty Free Tariff Preference	16256
 India’s Duty Free Tariff Preference	11579,5662
 Indicator Baseline Target Data Source Frequency	13991
 Indicator Definition Data Sources Platforms Frequency	17157
+Indicator Name Description MoH-UHC Frequency Data	19284
 Indicator Name Unit of Measure Baseline Frequency	15601
 Indicator Source of Data Frequency of Report Type	17099
 Industrial Free Zones	5068
@@ -1229,6 +1257,7 @@ M. Freddy NZE EKEKANG. SERVICES EXTERIEURS	16099
 MAADA BIO INTERNATIONAL CONVENTION CENTRE Freetown	17347
 MALONGA Phaelra Fred Lincoln	16177
 MDM Frelimo	12201
+MENTD. Frequency Annual Data	19245
 MEPPSA Frequency Annual Data	11905
 MHZ FREQUENCY BAND AND TO MAKE	14825
 MHZ FREQUENCY BAND The ICT Authority	14780
@@ -1302,6 +1331,7 @@ NAPHS Frequency Every	11417
 NATIONAL RADIO FREQUENCY PLAN	7850
 NBE Banking Supervision Director Frezer Ayalew	7909
 NININAHAZWE Frederic	13390
+NSHI Frequency Every Semester Data	19284
 NTRA’s Frequency Spectrum Control Center	16046
 Name Recurrent Due Date Frequency Partnership	17441
 Name Recurrent Due Date Frequency Project	17441
@@ -1360,6 +1390,9 @@ Orange’s French	10380
 Orçamento da União Europeia António Freitas de Sousa	4938
 Others Free	11017
 Oyo Schoolchildren Regain Freedom	7176
+PBC Frequency Number	19284
+PCU Description Quarterly Frequency Quarterly	19284
+PCU Frequency Revised Newly	19284
 PERGUNTAS FREQUENTES	18799
 PHCs. Free	16329
 PIM. Frequency Annual Data	3604
@@ -1413,6 +1446,7 @@ Program Frequency Annual Data	11905
 Program. Frequency Annual Data	3604
 Program. Frequency Annual. Data	3604
 Programme Free	11347
+Project Implementation Manual. Frequency Quarterly Data	19245
 Project Name Recurrent Due Date Frequency	17441
 Project. Frequency Quarterly Data	15658
 Promote the Freedom of Information Act	5244

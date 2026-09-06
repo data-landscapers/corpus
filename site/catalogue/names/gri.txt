@@ -112,7 +112,7 @@ GRIPS	11109
 GRISE	19196
 GRM Committee EA-RDIP Grievance Redress Committees	15055
 GRM Grievance Redress Mechanism	11965
-GRM Grievance Redress Mechanism GRS Grievance	11549,4110,2
+GRM Grievance Redress Mechanism GRS Grievance	11549,4110,2,3584
 GRM Grievance Redress Mechanism HEA Household	17849
 GRM Grievance Redress Mechanism HIV Human	18504
 GRM Grievance Redress Mechanism ID Operation	18825
@@ -122,6 +122,7 @@ GRS Good Practice Note GTC Grievance	10964
 GRS Government Technology GSMA Grievance Redress	13331
 GRS Grievance	11380
 GRS Grievance Redress Service	11965
+GRS Grievance Redress Service EHR Electronic	19284
 GRS Grievance Redress Service GSMA Global	1264,14357
 GRS Grievance Redress Service GoL Government	17114
 GRS Grievance Redress Service HIV	11560
@@ -146,6 +147,7 @@ GoCV Government of Cabo Verde GRS Grievance	15983
 GoE Government of Egypt GRM Grievance Redress	15663
 GoGB Government of Guinea-Bissau GM Grievance Mechanism	11549
 GoN Government of Niger GRS Grievance Redress	18104
+GoT Government of Togo GRM Grievance Redress	19239
 Government of Ghana GRIDCO Ghana Grid Company	4126
 Government of The Gambia GRM Grievance Redress	16922
 Graphic Online The Ghana Grid Company	16586
@@ -185,7 +187,7 @@ Grids	11016,1217,995
 Gridworx	8025
 Grieco	7731
 Grief	7759
-Grievance	1778,89,121,1616,1084,3189,1331,1555,5,118,247,23,749,348,1771,492,622,483,37,3,2,1259,4,173,15,735,356,260,39,92
+Grievance	1778,89,121,1616,1084,3189,1331,1555,5,118,247,23,749,348,1771,492,622,483,37,3,2,1259,4,173,15,735,356,260,39,92,688
 Grievance Appellate Committees	9208
 Grievance Channel for Gender-Based Violence	17114
 Grievance Channels	15055
@@ -208,7 +210,7 @@ Grievance Management Procedures Figure	17099,15
 Grievance Management Structure The Social Development	15055
 Grievance Management System	17114
 Grievance Management The GRM	17099
-Grievance Mechanism	1264,514,210,14938,173,15,1241,149
+Grievance Mechanism	1264,514,210,14938,173,15,1241,149,780
 Grievance Mechanism A Grievance Mechanism	1778
 Grievance Mechanism Apart	17099
 Grievance Mechanism Assessment	11007
@@ -232,7 +234,7 @@ Grievance Recorded	1778
 Grievance Redress	2889,9293,4418,302,197
 Grievance Redress Committees	17114,1521
 Grievance Redress Management	15019
-Grievance Redress Mechanism	1264,20,583,121,1001,7774,200,892,69,296,33,82,643,12,64,278,60,400,761,357,2,143,456,3,4,35,48,57,1,2,2,119,123,239,292,524,139,15,848,339,54,157,22,101,174
+Grievance Redress Mechanism	1264,20,583,121,1001,7774,200,892,69,296,33,82,643,12,64,278,60,400,761,357,2,143,456,3,4,35,48,57,1,2,2,119,123,239,292,524,139,15,848,339,54,157,22,101,174,436
 Grievance Redress Mechanism Beneficiaries	12182
 Grievance Redress Mechanism Ensure	12253
 Grievance Redress Mechanism GPE Internally Displaced	11905
@@ -244,6 +246,7 @@ Grievance Redress Mechanism MSHP	18370
 Grievance Redress Mechanism Manual	15658
 Grievance Redress Mechanism Manual Description	15658
 Grievance Redress Mechanism Members of Project GRM	12253
+Grievance Redress Mechanism Methodology for Data GRM	19245
 Grievance Redress Mechanism Structures and Processes	12253
 Grievance Redress Mechanisms	11855,398,4846,15,1438
 Grievance Redress Mechanisms. Ensuring	12253
@@ -252,7 +255,7 @@ Grievance Redress Service	11525,330,50,1427,3564,203,15
 Grievance Redress Service GRS General Secretariat	11417
 Grievance Redress Service HCI Human Capital	16896,562
 Grievance Redress Service HR Human Resources	15518
-Grievance Redress Services	16144
+Grievance Redress Services	16144,3101
 Grievance Redress Structure	17099
 Grievance Redress Structure Level Responsible Entity	17099
 Grievance Redress System	17962
@@ -271,7 +274,7 @@ Grievance and Case Management Mechanism	14516
 Grievance and Complaint Redressal	12146
 Grievance and Ethics Committee	16943
 Grievance and Redress Mechanism	18370
-Grievances	1284,420,74,1111,1799,1215,930,95,949,3087,170,90,681,60,6,3547,35,66,350,44,19,112,292,269,191,26,4,170,3,15,683,553,9,145,30,62,221
+Grievances	1284,420,74,1111,1799,1215,930,95,949,3087,170,90,681,60,6,3547,35,66,350,44,19,112,292,269,191,26,4,170,3,15,683,553,9,145,30,62,221,428
 Grievances Logged	11218
 Grievant Gender	17114
 Grievous Bodily Harm	2626
@@ -343,6 +346,7 @@ MINALOC and LODA. The Grievance Redress Mechanism	15138
 MPG Modalities Procedures and Gridlines MRV Monitoring	17140
 Management and Grievance Redressal	12146
 Mechanism GRS Grievance Redress Service HEPR	16922
+Mechanism GRS Grievance Redress Service HFO	19239
 Mechanism GRS Grievance Redress Service ICT	18777
 Mechanism Grievance Redress Service Global System	13331
 Mechanism HQ Grievance Redress Service IBRD	11855
@@ -355,6 +359,7 @@ Monitoring and Grievance Redress	17114
 Morocco GRM Grievance Redress Mechanism GRS	17458
 N Gribingui Doba Pata To BaÃ	18887
 NANA GRIBIZI NANA-GRIBIZI	10829
+NOVISSI PRIORITIZING GRID CELL LEVEL	19237
 NSNP and NDMA Grievance and Case Management	14516
 Name of Person Raising Grievance	17099,15
 National Electricity Grid Code and Section	15904
@@ -376,6 +381,8 @@ Off Grid Solar Policy	17894
 Official Use Only Grievance Redress Mechanism	12253
 Ongoing Grievance Redress PIU	12253
 Oya NANA- Sibut Grimari Bakouma M	18887
+PERECUT Extension of Electric Grid	19239
+PEREL Lomé Power Grid Extension Project	19239
 PIM. V. GRIEVANCE REDRESS SERVICES	1264
 PIU Grievances	13331,2187
 PNAS POS PWD Grievance Redress Mechanism	10763
@@ -404,7 +411,7 @@ Project Grievance Officer	14516
 Project Grievance Redress Committee	12253
 Project Grievance Redress Mechanism	17000
 Project MIS and Quarterly Grievance Redress Mechanism	15658
-Project Management Grievances	1284,2320,9727
+Project Management Grievances	1284,2320,9727,5914
 Project Management and Implementation Support Grievances	16144
 Project-Level Grievance Resolution Committee	18504
 Project-level Grievance Mechanism	11417
@@ -468,9 +475,9 @@ UGPE. Grievances	11965
 ULFASA GRIEVANCES REACH BOAKAI AS UNIVERSITY	10581
 Use Only Grievances	18355
 User GRM Grievance Redressal Mechanism ASSEK	14897
-V. GRIEVANCE REDRESS SERVICES	969,295,603,1737,2935,4229,196,416,37,132,11,1771,1,1578,27,554,24,3,35,68,37,1,2,1288,1352,476
+V. GRIEVANCE REDRESS SERVICES	969,295,603,1737,2935,4229,196,416,37,132,11,1771,1,1578,27,554,24,3,35,68,37,1,2,1288,1352,476,462
 V. Grievance Redress Services	13743
-V. WORLD BANK GRIEVANCE REDRESS	1284,1605,9076,3173,644,201,913,26,1703,184
+V. WORLD BANK GRIEVANCE REDRESS	1284,1605,9076,3173,644,201,913,26,1703,184,475
 V. WORLD BANK GRIEVANCE REDRESS Communities	16896
 Violence Government Communications Network Grievance Redress	4653
 Vobiss Gridworx Nig Ltd	3862
@@ -486,7 +493,7 @@ World Bank Grievance Redress VI. Proposed	13734
 World Bank Grievances Redress System	12990
 World Bank's Electronic Grievance Management	18205
 World Bank's Grievance Redress Service	11905
-World Bank’s Grievance Redress Service	1264,2340,7225,135,453,4101,35,105,1,2,483,778,177,15
+World Bank’s Grievance Redress Service	1264,2340,7225,135,453,4101,35,105,1,2,483,778,177,15,2131,39
 World. Grid-connected RE	11953
 Year Grievances	2712,1941
 Year Value Indicator Name Grievances	6579

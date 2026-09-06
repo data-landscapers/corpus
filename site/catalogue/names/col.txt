@@ -32,6 +32,7 @@ ARCEP Collection	16144
 ARTCI. Collection and Processing Personal	10908
 ARTILLERIE Colonel BINSAMOU	15744
 ASYCUDA Performance Management Program. Collaboration	17011
+ATELIER DE FORMATION SUR LA COLLECTE	19252,21
 AUX COLLECTIVITES TERRITORIALES ARTICLE	15469
 AUX COLLECTIVITES TERRITORIALES TITRE	18096
 AUX OPERATIONS DE COLLECTE DES DONNEES	15485
@@ -99,6 +100,8 @@ Auto Collectif	13390
 Automated Customs Management System. COLEPS Online	15480
 Avatar of Collin-jehonia	12478
 Avenue Colonel Ebeya Tél	10400
+Aviation Civile Col. IDRISSOU Abdou Ahabou	19260
+B COLLECTE ET SUIVI DES	19221
 B. PROCEDURES DE COLLECTE DE DONNEES	15595
 B.4 Pessoa Coletiva	12018
 BGFI Bank Bénin Collecte	10821
@@ -180,6 +183,10 @@ CIPESA Team The Collaboration	14664
 CIVILE DE TOMBOUCTOU Colonel Assimi GOITA	17861
 CNI Clôture Enrôlement Colisage	14480
 CNI Collecte des Justificatifs Impression Carnets Remise	14480
+CNSS Collection Indicator Name The NSHI	19284
+CNSS Collection Reimbursement	19284
+CNSS Collection Results Area Improving	19284
+CNSS Responsibility for Data Collection Establishment	19284
 CODEC Eswatini Cooperative Development College COLA	12975
 COL DTTA	17841
 COL. D'UN NOUVEAU S'IL N'Y	13300
@@ -515,7 +522,7 @@ Collaborates	12639
 Collaborateur	3879,11806,251,1648,419
 Collaborating	1243,850,185,497,829,1244,685,144,359,4805,1145,254,6,130,298,258,45,961,835,78,92,4,50,37,1178,763
 Collaborating To Transform And Improve Education	899
-Collaboration	562,337,41,21,170,30,616,37,393,342,456,157,196,246,37,470,103,25,19,325,223,174,56,208,2,239,66,46,80,203,233,19,162,122,377,1,155,1,9,161,52,226,67,83,203,12,214,45,16,316,64,329,200,52,23,123,307,39,125,269,14,38,220,611,8,58,42,130,1,4,119,8,1,46,100,25,242,353,35,14,11,106,100,122,63,20,37,26,107,6,122,1,86,216,28,65,25,211,7,1,27,49,28,231,106,183,60,6,437,88,8,12,17,98,55,10,44,39,6,61,9,55,3,51,26,16,3,78,222,105,46,111,109,11,124,88,2,54,54,98,240,196,35,257,12,31,11,13,4,20,12,36,105,22,19,103,58,130,25,409,52,191,184,40,127,24,12,101,174
+Collaboration	562,337,41,21,170,30,616,37,393,342,456,157,196,246,37,470,103,25,19,325,223,174,56,208,2,239,66,46,80,203,233,19,162,122,377,1,155,1,9,161,52,226,67,83,203,12,214,45,16,316,64,329,200,52,23,123,307,39,125,269,14,38,220,611,8,58,42,130,1,4,119,8,1,46,100,25,242,353,35,14,11,106,100,122,63,20,37,26,107,6,122,1,86,216,28,65,25,211,7,1,27,49,28,231,106,183,60,6,437,88,8,12,17,98,55,10,44,39,6,61,9,55,3,51,26,16,3,78,222,105,46,111,109,11,124,88,2,54,54,98,240,196,35,257,12,31,11,13,4,20,12,36,105,22,19,103,58,130,25,409,52,191,184,40,127,24,12,101,174,434,24,20,95
 Collaboration Action and Dialogue	13355
 Collaboration Adopting	13347
 Collaboration Age Group	582
@@ -532,8 +539,10 @@ Collaboration Platforms	12356
 Collaboration Public Sector Dimension	14566
 Collaboration Representing the European Union Delegation	14050
 Collaboration Services RISA RISA RISA Cyber	12359
+Collaboration Soutien	19221
 Collaboration Structure High Table	12917
 Collaboration Sym-	6946
+Collaboration Tronc	19221
 Collaboration Unterinstitutionnelle	15848
 Collaboration Updates	1154
 Collaboration Work	18490
@@ -615,7 +624,7 @@ Colleagues	6152,3706,595,803,2131,1307,2581,460
 Collec-	17812
 CollecCteyimmédiate	15999
 Collecdvites Locales	16611
-Collect	940,60,988,3688,1275,597,3175,133,129,12,136,430,622,68,422,656,28,22,610,753,7,30,216,133,130,187,153,88,25,1120,34,54,26,4,60,32,114,23,55,61,70,518,570,86,255
+Collect	940,60,988,3688,1275,597,3175,133,129,12,136,430,622,68,422,656,28,22,610,753,7,30,216,133,130,187,153,88,25,1120,34,54,26,4,60,32,114,23,55,61,70,518,570,86,255,570
 Collect Customs	14076
 Collect Data	12642
 Collect Data for Comprehensive Tax Expenditure Analysis	17011
@@ -630,12 +639,13 @@ Collect Hours	11563
 Collect Prepare Calculate Calculate Optimal	10856
 Collect and Carting	14738
 Collect and Coll Capacity and Openness of S Individual	17180
+Collect and Integrate Feedback	19214
 Collect and Maintain Information	18596
 Collect the VAT	14785
 Collect.android	13375
 Collectables	8494
 Collectant	13341
-Collecte	747,1,9964,109,54,1,99,969,1356,41,36,13,391,550,81,7,4,1,1,55,57,356,536,43,7,6,95,15,75,15,26,1,136,37,51,216,43,54,116,164,1287,12,14,3,1,35,1,91,5,118,16,6,25,26,1,1,33,61,26,21,25
+Collecte	747,1,9964,109,54,1,99,969,1356,41,36,13,391,550,81,7,4,1,1,55,57,356,536,43,7,6,95,15,75,15,26,1,136,37,51,216,43,54,116,164,1287,12,14,3,1,35,1,91,5,118,16,6,25,26,1,1,33,61,26,21,25,884,5,124
 Collecte Données Biographiques Remise NUI Recherche	14480
 Collecte Juin	18170
 Collecte Transport	14423
@@ -645,7 +655,7 @@ CollecteDeDonnées	13904
 Collected	13053,1737,107,309,286,1380,285,1900
 Collected Tax	15492
 Collectent	10876
-Collecter	998,7,9812,158,2315,85,77,16,1020,1,1,916,237,69,136,1598,426,250,49,131
+Collecter	998,7,9812,158,2315,85,77,16,1020,1,1,916,237,69,136,1598,426,250,49,131,924
 Collectes	14622,2006
 Collecteur	15583
 Collecteurs	18337
@@ -661,20 +671,28 @@ Collectif des Femmes	18286
 Collectif des ONG	15712
 Collectif des Organisations	18310
 Collectifs des Associations Féminines	18101
-Collecting	775,165,221,617,997,3914,16,233,813,13,1858,482,671,3659,272,187,141,377,62,240,1150,79,215,561,391
+Collecting	775,165,221,617,997,3914,16,233,813,13,1858,482,671,3659,272,187,141,377,62,240,1150,79,215,561,391,1128
 Collecting Children	12977
 Collecting Taxes	17011
 Collecting Taxes Indicators	16949
 Collecting and Analysis	940
-Collection	26,210,704,60,161,617,89,842,17,282,427,1220,299,1967,924,177,1531,1211,1,3,7,73,281,107,181,100,360,3,36,27,312,39,105,17,52,32,31,112,8,277,1,19,30,26,49,268,1089,136,29,19,5,67,50,3,8,13,21,24,200,54,619,486,730,77,68,97,354,400,423,129,35,426,42,60
+Collection	26,210,704,60,161,617,89,842,17,282,427,1220,299,1967,924,177,1531,1211,1,3,7,73,281,107,181,100,360,3,36,27,312,39,105,17,52,32,31,112,8,277,1,19,30,26,49,268,1089,136,29,19,5,67,50,3,8,13,21,24,200,54,619,486,730,77,68,97,354,400,423,129,35,426,42,60,299
 Collection Account	14546,3991
 Collection Authority	14897
 Collection Average	11417
 Collection Becomes Harder When Ugandans Doubt	3955
+Collection Beneficiaries	19245
 Collection Benin	16144
+Collection Component	19245
 Collection Data Market Development and Integration CSIRTs	16144
 Collection Date	3861
 Collection Efficiency	12062,6124,31
+Collection Enterprises	19245
+Collection Indicator Name MOH-UHC	19284
+Collection Indicator Name MoH-UHC	19284
+Collection Indicator Name MoH-UHC Description Frequency	19284
+Collection Indicator Name MoH-UHC RevisePeople	19284
+Collection Indicator Name Review of PHC	19284
 Collection Individuals	16144
 Collection Liberia	16144
 Collection Loss BEDC Benin Electricity Distribution	12062,6124,31
@@ -682,17 +700,26 @@ Collection MFDP Ministry of Finance and Development Planning	17116
 Collection Mechanism for Peer-to-Peer	8590
 Collection Monitoring	11417,488
 Collection Number	1867
+Collection PDO Outcome MoH-UHC Indicator Name	19284
 Collection PIU	16144
 Collection Page	1867,14277
-Collection People	15658
+Collection People	15658,3587
 Collection Percentage	11417
 Collection Responsibility	15661
+Collection Responsibility for Data	19284
 Collection Responsibility for Data MASFAMU Collection Page	10768
+Collection Responsibility for Data MoH-UHC	19284
 Collection Responsibility for Data MoHAIS	1867
 Collection Responsibility for Data MoHAIS Collection Number	1867
 Collection Responsibility for Data MoHAIS Collection People	1867
 Collection Responsibility for Data PCU	15661
+Collection Responsibility for Data PIU	19245
+Collection Responsibility for Data PIU Collection Page	19245
+Collection Responsibility for Data Review	19284
 Collection Responsibility for Data The MOH	11417
+Collection Revised Newly	19284
+Collection Satisfaction	19284
+Collection Strengthening	19284
 Collection Student	15661
 Collection Sub-indicator Gender Strengthening	11905
 Collection The MOH Number	11417
@@ -759,13 +786,13 @@ Collectively	1154,2316,17,870,75,151,323,66,153,89,30,1,2,197,89,58,202,72,708,2
 Collectives Territoriales	18077
 Collectivites Decentralisees	16611
 Collectivites Locales	16611
-Collectivité	14414,30,1093,166,317,616,1193,32,142,62
+Collectivité	14414,30,1093,166,317,616,1193,32,142,62,1297
 Collectivité Cercle	9287,55
 Collectivité Territoriale	15469,134
 Collectivité Territoriale Décentralisée	15542
 Collectivité. Chaque	14414
 Collectivité. Elle	17829
-Collectivités	1755,1053,573,1336,838,164,110,1053,303,658,53,1391,55,156,109,1104,1,146,18,858,1548,428,454,250,30,352,565,22,154,46,20,100,26,17,23,79,151,100,55,132,63,122,170,844,326,1,5,4,12,8,1,3,16,36,2,2,45,12,3,22,8,12,29,44,24,3,63,120,5,32,4,14,20,12,12,21,6,11,627
+Collectivités	1755,1053,573,1336,838,164,110,1053,303,658,53,1391,55,156,109,1104,1,146,18,858,1548,428,454,250,30,352,565,22,154,46,20,100,26,17,23,79,151,100,55,132,63,122,170,844,326,1,5,4,12,8,1,3,16,36,2,2,45,12,3,22,8,12,29,44,24,3,63,120,5,32,4,14,20,12,12,21,6,11,627,159,41,45
 Collectivités Autonomes	19050
 Collectivités Autonomes. Le Séminaire	19050
 Collectivités CHAPITRE V	17817
@@ -781,7 +808,7 @@ Collectivités Président	17812
 Collectivités Ter-	17812
 Collectivités Territo-	2342,15470,265
 Collectivités Territo- DECRETE	17812
-Collectivités Territoriales	643,1699,13077,50,68,66,1851,357,1,5,44,97,136,72,120,11,709
+Collectivités Territoriales	643,1699,13077,50,68,66,1851,357,1,5,44,97,136,72,120,11,709,214
 Collectivités Territoriales DGDP	17842
 Collectivités Territoriales Décentralisées	10965,10,3450,25,986,106,57,251,149,564
 Collectivités Territoriales Les Collectivités	18286
@@ -853,6 +880,7 @@ Colleta Ngwira	13215
 Colley	5365,6305
 Collez	4960,62,2035,402,182
 Collier	12369,417
+Collier du Cycle Combo3	19226
 Collin Dubignon	17579
 Collin Mashile	10729
 Collin Nehemia	12478
@@ -979,7 +1007,27 @@ Colombo	9487
 Colombo Security Conclave	19060,1
 Colomine	15542
 Colonel	587,4226,4855,5787,69,220,2117
+Colonel ABALO Anani	19251
+Colonel ABLY Talake Bidjareou	19251
+Colonel ADAM Saliou	19251
+Colonel ADJAGBA Djobo	19251
+Colonel ADJANA Pekatchao	19251
+Colonel AGBA Komi	19251
+Colonel AGBA Napo Djorré	19251
+Colonel AGBANAMA Sekim	19251
+Colonel AGBEVOHIA Kossi Nunyava	19251
+Colonel AKPELI Mossoumbou DIRECTION CENTRALE	19251
+Colonel AKPOVY Kossi Gbezondé	19251
+Colonel ALABA Tanah Essohanam	19251
+Colonel ALI Bouwakibe	19251
+Colonel ALLAHARE Rembena Komlan	19251
 Colonel ALLAKOUA	16100
+Colonel AMANA Kodjo	19251
+Colonel AMAYI Kossi Baoumodom	19251
+Colonel AMEGNRAN Komi	19251
+Colonel APEDO Kodjo Ekpé	19251
+Colonel ARADJO Batayama	19251
+Colonel AWOUSSI Sossinou CHEVALIER ARMEE	19251
 Colonel Abdoulaye MAIGA	17861
 Colonel Abdoulaye Moussa TRAORE	17899
 Colonel Abdramane OUATTARA	17961
@@ -998,22 +1046,52 @@ Colonel Assimi GOITA Vu la Charte	17861
 Colonel Assimi GOITA Vu la Loi	17861
 Colonel Assimi GOITA Vu le Décret	17861
 Colonel Assimi GOÏTA	17861
+Colonel Awaté Hodabalo	19268
 Colonel B. B	17614
+Colonel BABATE Atefaimbou	19251
+Colonel BAOULA Sana Kodjo	19251
+Colonel BASSAYI Pesse Egbaré	19251
+Colonel BELEI Bediani	19340
+Colonel BLAO Batana Amegan	19251
+Colonel BOLIDJA Langbatibe	19251
+Colonel BOUGLOUGA Oumboma	19251
 Colonel BOUSSOUGOU Louis Joseph	16381
 Colonel Bediani Belei	9042
 Colonel Boubacar Sidiki SOKONA	17982
 Colonel Bouyagui KEITA	18032
 Colonel Brisset	16456
-Colonel Bédiani BELEI	8281,391
-Colonel Bédiani Béléi	17614
+Colonel Bédiani BELEI	8281,391,10637
+Colonel Bédiani Béléi	17614,1676
+Colonel DJATO-NADJINDO KPANE Dana	19251
+Colonel DJONDO Koassi Anani	19251
 Colonel DONANGUE ROUGOULA Frédé	16381
 Colonel Draper St	14746
 Colonel EDOUADOUA METOULOU Francklin	16381
 Colonel Edouard Yves Didier MOUKAGNI KOMBILA	16175
+Colonel FIAWOFIA DOAGBODZI Kodjo OFFICIER ARMEE	19251
 Colonel Fily FOFANA. Directeur	8237
+Colonel GNASSINGBE Bagoubadi	19251
+Colonel GNASSINGBE Malibada	19251
+Colonel GUMEDZOE Dzidzogbe Kokou Eric	19251
+Colonel IDRISSOU Abdou Ahabou	19251
 Colonel Jean de Dieu MIKALA	16381
 Colonel Jonas SAMBI	16001
+Colonel KADANGA N’guwaki	19251
+Colonel KADANGHA Essodina	19251
+Colonel KANAYEMA Koffi	19251
+Colonel KEDEWOULI Essodo Koudjaki	19251
+Colonel KEMENCE Kokou Oyome	19251
+Colonel KILIMOU Manzama-Esso	19251
+Colonel KODJO Kagnarim	19251
+Colonel KOLANI Monoka	19251
+Colonel KOMBATE Latiembe	19251
+Colonel KOUYELE Bawinepare	19251
+Colonel KPANDJA Napo	19251
+Colonel MADJOULBA Batossie Calixte	19251
 Colonel MAKOUMBA-NZAMBI	15901
+Colonel MAMAH Agnidoufey Essomoulam	19251
+Colonel MAPE M’bada	19251
+Colonel MOUMOUNI Abdel Latif	19251
 Colonel Mahamoud SANOGO	17861
 Colonel Maina Boukar	10547
 Colonel Major Brice Bouagba	16676
@@ -1035,14 +1113,22 @@ Colonel Moustapha SANGARE de Transition	17982
 Colonel Muammar Kaddafi	17438
 Colonel NDINGA	15744
 Colonel OKOGHO Scholastique	16381
+Colonel OKPAOUL Yaovi	19251
 Colonel ONDZEA	16100
 Colonel OSSIBI	15744
+Colonel PANAKINAO Ayawo	19251
+Colonel PIDASSA Bakai	19251
 Colonel PLOT	15455
 Colonel Patrice DEMBELE	17899
 Colonel RANDRIANIRINA Michaël	14538
 Colonel Randrianirina Michaël	7725
 Colonel Raouf Malèhossou Aboudou	8167,332
+Colonel SAPARAPA Ibouraima	19251
 Colonel SCAFELLA	15455
+Colonel SIMLIWA Assoh Bibonawe	19251
+Colonel SODOKPO-AFAN Emongou Kodjo	19251
+Colonel SOGOYOU Cossi OFFICIER ARMEE	19251
+Colonel SOUFOULOUM Adam Kassim	19251
 Colonel Sadio CAMARA	17861
 Colonel Sadio CAMARA Colonel Assimi GOITA	17861
 Colonel Sadio CAMARA DECRET N	17861
@@ -1051,6 +1137,14 @@ Colonel Sapeur-Pompier Thiam SAMAKE	17861
 Colonel Sidi Sadio DIALLO. AU TITRE	8237
 Colonel Sidiki DENON	17861
 Colonel Soumana Boubacar Garanké	2327
+Colonel TABATE Makliwe	19251
+Colonel TAKOUGNADI Alognim	19251
+Colonel TCHAKEBERA Passou	19251
+Colonel TCHAKPELE Akli-Esso	19251
+Colonel TCHALLA Betema Tchadjaou ARMEE	19251
+Colonel TCHAMDJA Sama	19251
+Colonel TCHAMOUZA Arouna MARINE NATIONALE	19251
+Colonel TOGNI Komlavi	19251
 Colonel Tidiani DIARRA. Gouverneur	17861
 Colonel Youssouf Otto DIALLO	17899
 Colonel-Major	18212
@@ -1135,6 +1229,7 @@ Columbia University UPU Universal Postal Union	10835,3,130,902,16,466,1,135
 Column	587,379,862,1734,306,2554,4757,1867,143,1654,1989,1486
 Column B of Schedule	11179
 Column Labels Row Labels REF ANG	11900
+Column-header	19286
 Columnists Leader Star-blogs Cartoon Sports Football	9646
 Columns	1342,123,363,253,2,1,1583,744,2,1,357,4482,2636,2849,2402,1178
 Columns Reading Time	4535
@@ -1202,6 +1297,7 @@ DE LA COLONNE	13300
 DE LA LIBRE ADMINISTRATION DES COLLECTIVITES	18096
 DE LA ORDINAIRE DU COLLEGE DES	18032
 DE No DE COLONNE	13300
+DE PASSAGE DONNEES COLLECTEES TOTAL DONT	19250
 DE POTASSIUM CHLORURE DE POTASSIUM COLECALCIFEROL	15930
 DEP Collection	11905
 DEP Collection Dashboards	11905
@@ -1223,6 +1319,7 @@ DES MODALITES D’ALLOCA- des Collectivités Territoriales	17817
 DGEB Collection Reading	11905
 DGENAF Collection Sub-indicator Schools	11905
 DGSP Colonel MOUNGUI GAMBOU RG-CVO SECTION	16100
+DHIS2 Collection MoH-UHC Page	19284
 DHIS2 Database Responsibility for Data Collection	11417
 DHP Adjust Processes SPS Data Collection	16867
 DIGITAL COLONIALISM Ostensibly for HIV	8479
@@ -1374,6 +1471,7 @@ EME SESSION COLLEGE DES CHEFS D’ETAT	18032
 EME SESSION ORDINAIRE DU COLLEGE DES	18032
 ENERGY DATA COLLECTION AND STATISTICS	14947
 ENERGY DATA COLLECTION AND STATISTICS Issue	14947
+ENSOT COLLEGE MILITAIRE EYADEMA	19251
 EPISTEMIC CULTURES IN TRANSLATIONAL RESEARCH Collaboration	12090
 EQUIPEMENTS COLLECTIFS VII.1.1 Public Bureau	10847
 EQUIPEMENTS COLLECTIFS VII.1.2 Privé Bureau	10847
@@ -1580,7 +1678,7 @@ ID Data Collection Technological	10775
 IEC Chairman Joseph Colley	17654
 IFC Collaboration	3562,42,11333,1959
 IFC Collaboration Disbursement	1284,15638
-IFC Collaboration Joint Level Yes Complementary	15621,523
+IFC Collaboration Joint Level Yes Complementary	15621,523,3101
 IFC Collaboration No Components Component Name	18198
 IFC Collaboration No Expected Approval Date	1284,15638
 IFC Collaboration No Expected Closing Date	15553,105
@@ -1678,7 +1776,7 @@ Investissement des Collectivités Territoriales	17817,10
 Investissement des Collectivités Territoriales. CHAPITRE	17817
 Ir Lt Col Jean Albert	13641
 Irregular Collection of Convenience Fee	14546
-Islands Colombia Comoros Congo Cook Islands	11470
+Islands Colombia Comoros Congo Cook Islands	11470,7872
 Ivoire Collaborate	6646
 Ivoire Coltan	2342
 J SOCIETE STAR DTV GUINEEA COLTD	16623
@@ -1715,6 +1813,7 @@ Kings College	12227
 Koulikoro Collecte	17978
 Kwenda MIS Methodology for Data Collection FAS-IDL	10768
 Kwenda MIS. Responsibility for Data Collection FAS-IDL	10768
+L'ASSAINISSEMENT COLLECTIF DES EAUX USEES DOMESTIQUES	19295
 L'Agence Nationale de Financement des Collectivités Locales	16723
 LA COLONNE	13300
 LA COLONNE JOUR CORRESPONDANTE POUR	13300
@@ -1804,6 +1903,7 @@ MANDAT POUR LA COLLECTE DES DONNEES	785
 MANDAT POUR LA COLLECTE DES DONNÉES	17830
 MANDATE FOR DATA COLLECTION	13310
 MANUEL DES PROCEDURES DE COLLECTE ET	10876
+MCENDA and PIU Collection Responsibility for Data PIU	19245
 MDAs Methodology for Data Collection Data	3604
 MDAs. Methodology for Data Collection	3604
 MEMBRES DU COLLEGE DES COMMISSAIRES AUX	15670
@@ -1880,7 +1980,10 @@ Methodology Diagnostic Methodology Data Collection Financial	14897
 Methodology Measure Data Collection	11525
 Methodology Measure Data Collection Name	11525
 Methodology Responsibility for Data Collection	15411
-Methodology for Data Collection	10768,649
+Methodology for Data Annually Collection Registry	19284
+Methodology for Data Biannually Collection PHC	19284
+Methodology for Data Biannually Collection Project	19284
+Methodology for Data Collection	10768,649,7867
 Methodology for Data Collection ARTCI	3604
 Methodology for Data Collection Analysis	15658
 Methodology for Data Collection Analysis of MIS	15658
@@ -1890,8 +1993,10 @@ Methodology for Data Collection EVM	11417
 Methodology for Data Collection Immunization	11417
 Methodology for Data Collection MOH	11417
 Methodology for Data Collection MOH Reporting Responsibility	11417
+Methodology for Data Collection MoH-UHC	19284
 Methodology for Data Collection One Health Committee	11417
-Methodology for Data Collection Review	15553,105
+Methodology for Data Collection Review	15553,105,3626
+Methodology for Data Collection Review of PHC	19284
 Methodology for Data Collection The DNSP	11417
 Methods of Data Collection CHAPTER	15657
 Michèle Colombe	16100
@@ -2045,23 +2150,32 @@ Orotta College of Medicine and Health Sciences	14120
 Others New Ongoing Lead Collaborating	15845
 Others New Ongoing Lead Collaborating MMDAs	15845
 Own Source Revenue Collections	13418
+P9 P20 Collèges	19221
 PAINT AND COLOUR INDUSTRIES	16900
 PARISH COLLECTION	9696
 PART II Column	14843
 PART IX COLLECTIONS AND STORAGE	16841
 PARTNERSHIP THROUGH COLLABORATION	16885
+PCU Collection Results Area Bringing	19284
 PCU Methodology for Data Collection Data	3604
+PCU Responsibility for Data Collection New Epidemic	19284
 PCU Responsibility for Data Collection PCU Component	3604
 PCU Responsibility for Data Collection PCU Page	3604
 PCU Responsibility for Data Collection PCU. Beneficiaries	3604
+PCU Responsibility for Data Collection Revised Tracer	19284
 PERCENTAGE CONTRIBUTION OF TOTAL REVENUE COLLECTION	14985
 PI Methodology for Data Collection	10768
 PIU Collection Preschools	11905
+PIU Collection Responsibility for Data PIU	19245
+PIU Collection Responsibility for Data PIU Collection	19245
+PIU Collection Responsibility for Data PIU. Collection	19245
+PIU. Collection Responsibility for Data PIU. Collection	19245
 PIUs and Collection	16144
 PLATEFORME DE COLLABORATION	15936
 PORTANT CADRE NATIONAL DE COLLECTE	13303
 PORTANT CODE GENERAL DES COLLECTIVITES TERRITORIALES	15469
 PORTANT Colonel Assimi GOITA RATIFICATION	17861
+POTABLE ET DE L'ASSAINISSEMENT COLLECTIF DES	19295
 PP.3.A.10 Collect	15604
 PP.3.A.12 Collect	15604
 PP.3.A.2 Collaborate	15604
@@ -2168,6 +2282,7 @@ Public Secondary Schools and Teachers Training Colleges	2775
 Public Service Training College	7182
 Public-Private Collaboration	5551
 Pêche MaPCAD Manuel des Procédures de Collecte	10876
+QIP Collection Biannually Responsibility for Data Project	19284
 Qualitative Data Collected	11935
 Quality Assurance and Standards Collaboration	4528,7984
 Queen Elizabeth College	14736
@@ -2241,9 +2356,14 @@ Responsibility for Data Collection MASFAMU	10768
 Responsibility for Data Collection MASFAMU COMPONENT	10768
 Responsibility for Data Collection MEH	15659
 Responsibility for Data Collection MOH	11417
+Responsibility for Data Collection MOH-UHC	19284
+Responsibility for Data Collection MoH-UHC	19284
+Responsibility for Data Collection MoH-UHC Indicator Name	19284
+Responsibility for Data Collection MoH-UHC PDO Outcome	19284
 Responsibility for Data Collection PCU	3604
 Responsibility for Data Collection PCU Graduates of ESATIC	3604
 Responsibility for Data Collection PCU People	3604
+Responsibility for Data Collection PCU Results Area	19284
 Responsibility for Data Collection PISU	15658
 Responsibility for Data Collection PISU Beneficiaries	15658
 Responsibility for Data Collection PISU Complaints	15658
@@ -2259,6 +2379,8 @@ Responsibility for Data Collection PISU Shock-response	15658
 Responsibility for Data Collection PISU Women	15658
 Responsibility for Data Collection PIU	15553
 Responsibility for Data Collection People	10829
+Responsibility for Data Collection Review	19284
+Responsibility for Data Collection Review of PHC	19284
 Responsibility for Data Collection The MOH	11417
 Responsibility for Data Collection The MOH Average	11417
 Responsibility for Data Collection The MOH Cross-border	11417
@@ -2315,6 +2437,7 @@ Rwanda. Collaborating	14997
 Rwanda. Colombia	14997
 Régime Collectif	17448
 Réhabilitation EM Collectivités	643
+République Togolaise Colonel Bédiani Béléi	19290
 République du Niger. Le Code Général des Collectivités	18096
 SAINT MARY'S COLLEGE	18629
 SANTE Colonel IKAPI	15744

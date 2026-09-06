@@ -13,6 +13,7 @@ Burea1u2o.6f PBuubrleicaPuroofcPuurbemlicePnrto	10157
 CAR PBF	10829
 CAR. The PBF	10829
 CHINA EXIMBANK PBC NO	56,302
+CHWs IACV PBC Indicator Name Independent	19284
 CIGI PB226	4846
 CIGI PB232	5239
 China Eximbank PBC No	228,1
@@ -26,9 +27,11 @@ Components RESULT FRAME TBL IO Indicator Name PBC Baseline	1228
 Components RESULT FRAME TBL IO PBC Baseline Intermediate	10964
 Current PBF	10829
 Customer Base Ingestion PB	8999
+DSNISI. PBC Indicator Name	19284
 Dec-2024 New PBRs	16079
+ELIG EXP FOR PBCs	19284
 ELIG PBC EXPENDITURES P2	15969
-Eligible PBC Expenditures	15659
+Eligible PBC Expenditures	15659,3580
 Evaluation NPV Net Present Value PBF	11924
 GCI PB 012 EN FIN.pdf	474,2,2,2,2
 GCI PB 019 CLA-2023-FIN.pdf	645,2,211,2
@@ -38,15 +41,18 @@ Government’s PBF	10829
 HMIS and PBF	10829
 High Commissioner for Human Rights PBF Peace	11586
 Highly Satisfactory. PBF	16896
+IACV PBC Indicator Name	19284
 Identification of PBC	15659
 Incidents Reported By Pbo Field Monitors	16970
 Indicator Name PBC Baseline Intermediate Targets	16896
+Information Exchange PBC Performance-Based Condition PCU	19284
 Kenya.11 The PBB	12143
 LMP Labor Management Plan PBA Performance-Based	1264
 Liberia. The PBO	16970
 MLGRD PBB Estimates	4490
 MOH Report PBF National Technical Unit	10829
 MTEF PBB Estimate	15716
+MoH-UHC General Secretariat. PBC Indicator Name	19284
 NES. PBC	15659
 NGO Non-governmental Organizations PBME Planning	17196
 National Action Plan for Youth PBC Employment	10964
@@ -59,6 +65,8 @@ Netherlands PBF	18615
 O Indicator Name PBC Baseline	15553
 O Indicator Name PBC Baseline Intermediate	10964
 OHCHR PACD PBF RF-NDP TRAC TRRC	16973
+OPGW Optical-fiber Ground Wire PBC Performance-based	19239
+Official Use Only PBC	19284
 Outcomes RESULT FRAME TBL PDO Indicator Name PBC Baseline	1228
 PAP Program Action Plan PbC Performance-based	17458
 PB Enterprise Storage	3487
@@ -85,20 +93,32 @@ PBB-MLGRD .pdf	1514
 PBB-MOCD.pdf	4491
 PBB. Recommendations	16944
 PBBAs	13185
-PBC Allocation	15659
+PBC Allocation	15659,3625
+PBC Allocation The World Bank	19284
 PBC Baseline End Target	1284
 PBC Baseline Intermediate Targets End Target	10829,6093
-PBC Comments	16994
+PBC Comments	16994,2255
 PBC Council of Ministers	15969
+PBC Data	19284
+PBC Description Number	19284
 PBC Female	16079
+PBC Frequency Number	19284
 PBC Governorates	16079
+PBC Indicator Name	19284
+PBC Indicator Name Denominator	19284
+PBC Indicator Name IACV	19284
+PBC Indicator Name Monthly	19284
+PBC Indicator Name NSHI	19284
+PBC Indicator Name Number	19284
+PBC Indicator Name Performance-Based Conditions Formula	19284
 PBC Jan	16079
 PBC Jun	17958
 PBC Name Baseline Closing Period	10870,5209,915,964
 PBC Name Baseline Result Date	15969
 PBC No Dec	15969
 PBC No Feb	15969
-PBC No Nov	15969
+PBC No Nov	15969,3280
+PBC Number	19284
 PBC PBC	13392
 PBC PME PREA PRODIGY RGPD SAMIFIN	14549
 PBC Performance Based Condition PCE Private	15659
@@ -111,6 +131,8 @@ PBC-based. Achievement of PBC	15659
 PBC-linked	15802
 PBC1.1d-1-4	13392
 PBC2B. Textbooks	13392
+PBCs I. STRATEGIC CONTEXT A. Country	19239
+PBCs PTS	19284
 PBCs. Activity	6539
 PBCs. All	15802
 PBCs. Every	15659
@@ -143,6 +165,7 @@ PBF and DFF PBF	10829
 PBF and GBV	10829
 PBF. The World Bank CAR Health	10829
 PBKDF2	6766,3136
+PBR Dec	19284
 PBX IP	14856
 PBoC-Central Bank of Libya	10026
 PD O Indicator Name PBC Baseline	13332

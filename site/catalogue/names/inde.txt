@@ -61,6 +61,7 @@ African Development Bank Group Independent Recourse	11863
 African Development Bank's Electricity Regulatory Index	12192
 African Financial Stability Framework Index	6938
 African Humanitarian AI Citation Index	12105,213
+African Regional Integration Index	19365
 African Regional Integration Synthesized Index	9194,275
 African Regulatory Watch Initiative Index	16876
 African Regulatory Watch Initiative Index Fi	16876
@@ -163,6 +164,9 @@ CENTRAIS Compra da Eletricidade de Produtor Independente	18793
 CENTRAL DARFUR STATE MULTIDIMENSIONAL POVERTY INDEX	15244
 CHAPITRE PREMIER INDEPENDANCE PROTESSIONNETTE Arlicle	15561
 CHAPITRE V L'AUTORITE INDEPENDANTE CHARGEE	14412
+CHWs IACV Description Independent	19284
+CHWs IACV Independent	19284
+CHWs IACV PBC Indicator Name Independent	19284
 CIS Commonwealth of Independent States CNSP Community	6946
 CITY INDEX PILLAR	18476
 CLIQUE AQUI Averbamentos Indeterminado Actos	18835
@@ -262,7 +266,7 @@ Corner of Nationalist and Independence Avenue Lusaka	13527
 Corner of Nationalist and Independence Avenue P.O. Box	13527
 Corporate Tax Haven Index	3279,85
 Correspondence and Independent Colleges	13287
-Corruption Perception Index	789,11809,2299,100
+Corruption Perception Index	789,11809,2299,100,4223
 Corruption Perceptions Index	8891,1202,2576,3972,301,1,30,132,34,731,927
 Corruption Perceptions Index CSC County Service	17139
 Corruption Perceptions Index Country Office Development	16973
@@ -348,7 +352,7 @@ Digital Nations Score Index	6593
 Digital Nations and Society Index	14674
 Digital Nations and Society Index. Figure	14674
 Digital Policy and Regulatory Index	6593,188,80,7813
-Digital Services Trade Restrictiveness Index	13985
+Digital Services Trade Restrictiveness Index	13985,5380
 Digital Wellness Index	9045
 Digitalisation NRI Network Readiness Index SAT3	15592
 Directorate of Planning Health Facility Quality Index	16922
@@ -408,6 +412,7 @@ EdTech Readiness Index	15164,3400
 Edelman Trust Index	7445
 Edition Global Cybersecurity Index	10764
 Education Index	14897
+Effective and Independent Regulator	19214
 Egypt Global Cybersecurity Index	10764
 Egypt Independent	15473
 Egypt. Global Health Security Index	15725
@@ -536,7 +541,7 @@ Gender Gap Index. Inequality	18301
 Gender Index	643,11220
 Gender Index. Paris	15604
 Gender Inequalities Index	16951
-Gender Inequality Index	10829,757,1728,1722,479,143,3,64,659,565,17,996,496,351
+Gender Inequality Index	10829,757,1728,1722,479,143,3,64,659,565,17,996,496,351,430,45
 Gender Inequality Index GMD	16951
 Gender Inequality Index Government of Congo Green	15553
 Gender Inequality Index UN Human Development	11004,960
@@ -566,7 +571,7 @@ Global Competitiveness Index13	18931
 Global Computing Power Index Assessment	15713
 Global Crypto Adoption Index	6679,2551,479
 Global Cyber Security Index	14897,100,1644
-Global Cybersecurity Index	318,1035,21,64,440,5,386,495,840,239,105,267,711,381,31,69,147,116,158,340,597,171,10,3229,419,170,84,531,541,270,388,404,1273,289,200,8,766,14,2089,58,64
+Global Cybersecurity Index	318,1035,21,64,440,5,386,495,840,239,105,267,711,381,31,69,147,116,158,340,597,171,10,3229,419,170,84,531,541,270,388,404,1273,289,200,8,766,14,2089,58,64,1502
 Global Cybersecurity Index Report. Geneva	6936
 Global Cybersecurity Index. Experts	2703
 Global Cybersecurity Index. Link	16942
@@ -625,7 +630,7 @@ Global Security Index	2374
 Global Startup Ecosystem Index	2676,9700,2373,1502
 Global Talent Competitiveness Index	4528,7984
 Global Tech Ecosystem Index	7181
-Global Terrorism Index	15715
+Global Terrorism Index	15715,3505
 Global Transmission System Availability Index	14867
 Global Web Index	2586
 Globalised Crime Index	9399
@@ -664,6 +669,7 @@ Government Readiness Index	15372
 Government Systems Index	11569
 Governments of Independent States of Southern Africa	19185
 Governo Aberto Delivery Index	11569
+Greenhouse Gas GII Gender Inequality Index	19284
 Grenada Global Cybersecurity Index	10764
 Gross Settlement SCI Statistical Capacity Index	18825
 Groupe Consultatif Technique Independent GLPE	18942
@@ -801,6 +807,7 @@ INFRACO INDEPENDENT REPORTING ACCOUNTANT'S REPORT	4896
 INSTRUCTIONS ON THE INDEPENDENT SYSTEM AUDIT	16843
 IPF Investment Project Financing IPP Independent	11549
 IPF Investment Project Financing IPPs Independent	11380
+IPF Investment Project Financing IPR Independent	19245
 IPP Independent Power Producer	16037,2577
 IPP Independent Power Producer IRR Internal	15515
 IPP Independent Power Producer IT Information	10781,1646,2055
@@ -846,9 +853,9 @@ Indecent Content	18667,8
 Indecis Q56 Pensez-vous	13390
 Indecis Q57 Pensez-vous	13390
 Indecisive	10841
-Indeed	27,209,530,23,210,162,51,151,449,213,908,72,432,167,178,138,207,312,108,301,35,87,393,370,159,497,88,357,104,12,429,43,4,45,207,208,52,347,437,256,9,344,321,661,189,212,4,45,1,67,10,15,3,22,59,15,5,5,2,61,22,51,32,3,4,14,1,149,6,114,101,20,18,102,244,7,44,42,168,159,10,30,72,147,367,85,2,225,47,73,10,64,220,535,450,57,21,116,75,480,63,93,3,30,18,36,21,240,270,195,468,20,30,25,15,21,12,105,47,220,266,2,128,127,234,197,4,13,137,9,11,295,161,2
+Indeed	27,209,530,23,210,162,51,151,449,213,908,72,432,167,178,138,207,312,108,301,35,87,393,370,159,497,88,357,104,12,429,43,4,45,207,208,52,347,437,256,9,344,321,661,189,212,4,45,1,67,10,15,3,22,59,15,5,5,2,61,22,51,32,3,4,14,1,149,6,114,101,20,18,102,244,7,44,42,168,159,10,30,72,147,367,85,2,225,47,73,10,64,220,535,450,57,21,116,75,480,63,93,3,30,18,36,21,240,270,195,468,20,30,25,15,21,12,105,47,220,266,2,128,127,234,197,4,13,137,9,11,295,161,2,304,11,77
 Indeed NBR	15023
-Indefeasible Right of Use	7014,5239
+Indefeasible Right of Use	7014,5239,6992
 Indefeasible Rights of Use	4676,10289
 Indeferida	15396
 Indeferimento	11435,4119
@@ -867,7 +874,7 @@ Indemnity Financial and Accountability Provisions	12530
 Indemnity Form Saga	12038
 Indemnity and Insurance Rationale	8866
 Indemnity and Liability	12302
-Indemnité	8891,7010
+Indemnité	8891,7010,3317
 Indemnité de Remboursement Anticipé	15901
 Indemnités	15346,555,106,740,738,334,213,254
 Indemnités Toutes	18429
@@ -926,7 +933,8 @@ Independence of Seychelles	19060
 Independencia	16898
 Independencia Energética	17399
 Independency	16863
-Independent	2423,286,2044,240,463,209,11,711,45,31,353,169,162,26,132,132,529,17,105,213,164,163,208,30,257,276,74,127,60,59,543,51,27,453,213,1,9,115,3,22,24,116,12,277,106,13,123,30,48,7,88,95,261,144,52,501,42,192,174,1619,40,29,514,1170,7,3,5,54,41,75,77,623,27,564,222,454
+Independent	2423,286,2044,240,463,209,11,711,45,31,353,169,162,26,132,132,529,17,105,213,164,163,208,30,257,276,74,127,60,59,543,51,27,453,213,1,9,115,3,22,24,116,12,277,106,13,123,30,48,7,88,95,261,144,52,501,42,192,174,1619,40,29,514,1170,7,3,5,54,41,75,77,623,27,564,222,454,252
+Independent ARCEP CEO	19214
 Independent Administrator	170,17723,546
 Independent Advisory Board of Experts	4528,7984
 Independent Agent	18537
@@ -974,6 +982,9 @@ Independent Complaints Commission Dashboard Output	12241
 Independent Consultant	15183,1828
 Independent Corrupt Practices and Other Related	10530
 Independent Corrupt Practices and Other Related Offences	10054,2082
+Independent Counter- Verification Agency	19284
+Independent Counter-Verification Agency	19284
+Independent Counter-Verification Disbursement Agency	19284
 Independent Curriculum Development Consultant	15183
 Independent Data Analyst	12478
 Independent Data Protection Impact Assessments	9600
@@ -1056,6 +1067,7 @@ Independent Police Complaints Commission. Combating	14751
 Independent Police Investigative Directorate	7096,4183
 Independent Policing Oversight Authority	10313,1997,2236
 Independent Population Estimates Compared	16921
+Independent Post Reviews	19245
 Independent Power Producer	11549,684,166,661,5477,314
 Independent Power Producer CEC	15659
 Independent Power Producer KWH	12358
@@ -1068,6 +1080,7 @@ Independent Producers	10861
 Independent Producers Organisation	10481
 Independent Public Media. See the State Media	13929
 Independent Quality Assessment	11237
+Independent Regulation	19214,65
 Independent Regulatory Authority	718
 Independent Regulatory Board for Auditors	11198
 Independent Reporting Accountant	4896
@@ -1094,11 +1107,11 @@ Independent Tribunal	2307
 Independent Valuation	4896
 Independent Verification Agency	6539,4290,2563,2301,945
 Independent Verification Agency KPI Key Performance	17458
-Independent Verification Agent	6539,5849,3414
+Independent Verification Agent	6539,5849,3414,3440
 Independent and Pluralistic Media	17017
 Independente	18772,124
 Independentemente	2953,7824,653,84,6,41,8,449,835,3236,33,2642
-Independently	1326,1,2,1,686,1,2,1,2136,1,2,1,111,257,3664,4320
+Independently	1326,1,2,1,686,1,2,1,2136,1,2,1,111,257,3664,4320,6725
 Independientemente	16962
 Independência	11416,26,7,69,3826,106,85,952,2307
 Independência Artigo	18751
@@ -1111,7 +1124,7 @@ Indetermin	10847
 Indeterminé BOUCLE DU MOUHOUN	10847
 Indeterminé Total Région	10847
 Indeterminé ZOUNDWEOGO	10847
-Index	10,11,215,377,176,415,8,31,642,87,722,81,939,2879,255,89,725,101,1128,583,285,1005,4,80,4,117,7,3,173,46,60,28,131,152,113,80,101,21,1,10,40,71,153,1,45,9,119,13,5,4,34,21,43,34,170,279,364,12,2,18,13,12,28,76,224,65,111,7,203,43,427,25,108,323,247,247,21,71,38,38,242,285,16,182,492,45,21,7,2,86,60,60,346,240,141,25,81,368,174,24,211
+Index	10,11,215,377,176,415,8,31,642,87,722,81,939,2879,255,89,725,101,1128,583,285,1005,4,80,4,117,7,3,173,46,60,28,131,152,113,80,101,21,1,10,40,71,153,1,45,9,119,13,5,4,34,21,43,34,170,279,364,12,2,18,13,12,28,76,224,65,111,7,203,43,427,25,108,323,247,247,21,71,38,38,242,285,16,182,492,45,21,7,2,86,60,60,346,240,141,25,81,368,174,24,211,472
 Index A. REQUEST FOR PROPOSAL FORM	12400
 Index All Students	13556
 Index Country Policy and Institutional Assessment	643
@@ -1132,11 +1145,14 @@ Index KIFC Annual	14997
 Index KPIs Key Performance Indicators	17157
 Index Maturity Digital-AI	17329
 Index Mauritanie Mali Sénégal Tunisie Telecommunication	17860
+Index Mo Ibrahim	19220
 Index Mundi	12786
 Index NGO Non-governmental Organization NPV Net	11560
 Index Non-Governmental Organisation Near Real-Time National	10763
 Index Obter Eletricidade Aumentar	18767
 Index Overall Engagement	11131
+Index SAIFI System Average Interruption Frequency	19239
+Index SBEE Beninese Electrical Energy Company	19239
 Index Senegal	18293
 Index TFR	15725
 Index Testing	14742
@@ -1207,6 +1223,7 @@ KHARTOUM STATE MULTIDIMENSIONAL POVERTY INDEX	15244
 Kappa Index	17140
 Kazumi Inden	17869
 Kazumi Inden Mohamed Vadel Taleb	17869
+Kazumi Inden Team Member Health Specialist	19284
 Kigali Independent University	17761
 Kololo Independence Grounds	3065,6631
 Kololo Independence Grounds. UCC E.D Nyombi	9781
@@ -1224,6 +1241,7 @@ Lagoon Water Quality Index	14748
 Lao P.D.R. Global Cybersecurity Index	10764
 Lao P.D.R. The ICT Development Index	17743
 Large Ocean State. Indeed	14748
+Law Index84	19245
 Lawyers Hub's Africa AI Governance Index	14680
 Lead Independent Director	10212
 Leaf Area Index	11334
@@ -1379,7 +1397,7 @@ Nos AUTORITE NATIONALE INDEPENDANTE DES ELECTIONS	15467
 Notre Dame Gain Index	17099,15
 Notre Dame Global Adaptation Index	969,2487,8012,1,91,1771,4539,939
 Notre Dame Global Adaptation Index.16 Rising	13331
-Notre Dame Global Adaptation Initiative Index	11965,1146,4146
+Notre Dame Global Adaptation Initiative Index	11965,1146,4146,1988
 Notre Dame Global Adaptation Initiative's Index	6539
 Notre Dame Global Adaptation Initiative’ Index	17458
 NÃO COMPROVADO DE FORMA INDEPENDENTE	17541
@@ -1485,6 +1503,7 @@ Production Index	14777
 Produtores Independentes	18896
 Professional Independence	14777,2339
 Progress DARE Index Score Summary	11935
+Project Financing IPP Independent Power Producer	19239
 Project Targeting Index	17906
 Property Rights Index	14997
 Property Rights Index ISP Internet Service	17870
@@ -1610,10 +1629,12 @@ School Attendance Gender Parity Index	13399
 Security Index	12512,2162
 Senegal Global Cybersecurity Index	10764
 Serbia Global Cybersecurity Index	10764
+Service Availability and Operational Capacity Index	19284
 Service Coverage Index DHS Statcompiler	17869
 Service Delivery Index	18494
 Services Index	1885,9684,3328
 Services Producer Price Index	14777
+Services Trade Restrictiveness Index	19365
 Severity Index CRU TS	17157
 Sexual Exploitation and Abuse Risk Overview Index	15115
 Sierra Leone Global Cybersecurity Index	10764

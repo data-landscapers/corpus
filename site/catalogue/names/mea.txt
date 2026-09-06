@@ -13,6 +13,7 @@ AI and Data Science Measures	17884
 AIDS PMT Proxy Means Test SIM	16867
 AISIO Measurable Adoption Grand Challenge	12512
 ANEH Obligatoire Santé ANSSA MEASURE Monitoring	17845
+ANID. Measurement	19242
 ANNEX III PROPOSED MEASURES AND INDICATORS	16966
 ANNEX VIII SUPPORTING MEASURES	16843
 ANNUAL MEAN CONCENTRATIONS OF FINE PARTICULATE	16892
@@ -20,6 +21,7 @@ ASYCUDA Automated System for Measurement	15478
 ASYCUDA Automated System for Performance Measurement	15478
 ASYCUDA System for Performance Measurement	13042
 ASYPM The Automated System for Performance Measurement	13042
+ATD Recurrent Semi-Annually Completed Completion Measurement	19242
 ATU Pushes for Meaningful Connectivity Africa	8241
 Abolition of Racially Based Land Measures Act	11261
 Absence of Contingent Trade-Protective Measures	12389
@@ -37,6 +39,7 @@ Action Plan Mitigation Measures Risks Mitigation	15553
 Actions Stakeholder Timeline Measures Targets Conduct	5245
 Actually Means	9206
 Actually Means Here Judged	8088
+Adaptation Measure	19284
 Additional CDD Measures	17183
 Additional Preventive Measures	18599
 Administration of Justice Time Bound Measurable Target	1000
@@ -65,6 +68,7 @@ BROADCASTING BLACK ECONOMIC EMPOWERMENT MEASURES	11211,51
 BUDGET MEASURES	14828,3
 BUDGET MEASURES ON HEALTH SECTOR	14773
 BWA. MEA-wide	933
+Bangui Agree- Measures	19365
 Bank Completed Completion Measurement Trainings	17470
 Bank In Progress Completion Measurement Focal	17470
 Bank Not Yet Due Completion Measurement	17470
@@ -127,6 +131,7 @@ Completed Completion Measurement Ministerial	17470
 Completed. Completion Measurement	13058
 Completion Indicator Name Unit of Measure Baseline	15424,87
 Completion Measurement	17505
+Completion Measurement PforR Program	19242
 Conceptualising and Measuring the Digital Economy	226,14706
 Conduct Non-standard Units Measurement Survey LISGIS	17116
 Confidence Building Measures	2117
@@ -231,6 +236,7 @@ FURTHER LEGISLATIVE AND REGULATORY MEASURES	16885
 FX Auction Meant	10025
 Fair Value Measurement	4896
 Feasibility of Intervention Measure	8376
+Feb-2024 Delayed Completion Measurement Framework	19242
 Fertility Measures	12151
 Fertility Other Measures	12383
 Financial Inclusion Measurement Indicators	18770
@@ -419,7 +425,7 @@ MEASURE Evaluation. Mapping	12255
 MEASURE RISK OWNER Social	13938
 MEASUREMENT	11857,759
 MEASUREMENTS OF OUTAGES	14867
-MEASURES	11211,51,1413,2098,2070
+MEASURES	11211,51,1413,2098,2070,2522
 MEASURES FROM BUDGET ANNEX FY	14773
 MEASURES RELATED TO GOOD GOVERNANCE	7845
 MEASURES TO BE IMPLEMENTED BY THIRD-PARTY	13376
@@ -561,6 +567,7 @@ Measles Root Cause Analysis	16971
 Measles Rubella Rabies Streptococcus	15725
 Measles Serology	13454
 Measles Vaccination Campaign Support	16971
+Measles-Rubella	19284
 Measles-Rubella Drive	3707
 Measles-containing	18668
 Measurable	4528,3020,2609,2199,156,2162,78,2132,510
@@ -596,23 +603,27 @@ Measure of Quality Niger Cameroon Central African	18109
 Measure of Quality Note	18109
 Measure of Quality Page	18109
 Measure the Contractor	12253
-Measured	2775,3470,422,2225,2248,3583,2169,1077,340,445
+Measured	2775,3470,422,2225,2248,3583,2169,1077,340,445,483,61
 Measured Entity	11235
 Measured FSC Financial Services Commission GBC	14777
 Measured Return Early Stage	4972
 Measureme	12360
-Measurement	961,251,72,3148,431,2309,1111,2561,26,286,113,552,619,60,478,75,267,65,7,269,1062,13,44,247,7,96,973,602,138,57,11,168,664,226,154
+Measurement	961,251,72,3148,431,2309,1111,2561,26,286,113,552,619,60,478,75,267,65,7,269,1062,13,44,247,7,96,973,602,138,57,11,168,664,226,154,1119
 Measurement ASYREC ASYCUDA Relief Emergency Consignment	13042
 Measurement Bandwidth Block	14780
 Measurement Base	14736
 Measurement Challenges Specific	17043
+Measurement Circular	19242
 Measurement Conflicts	12360
 Measurement Methods	11007
 Measurement Ministry of Comments NA Economy and Recurrent	10870
 Measurement Study Ministry of Energy and Water Resources	11136
+Measurement Systems	19242
+Measurement Template Comments	19242
 Measurement Traceability	13320,1416
 Measurement Training	10421
 Measurement Units and Measurement Standards	13320
+Measurement Upon	19242
 Measurement While Drilling	11405
 Measurement and Accountability for Health	3791
 Measurement and Evaluation	14441
@@ -629,7 +640,7 @@ Measurements	18309
 Measurements CHAPTER	12616
 Measurements Record-Keeping CHAPTER	12616
 Measurements of Outages	14867
-Measures	970,294,210,212,91,100,111,1595,598,402,662,288,261,1113,205,436,398,75,660,448,726,909,1,10,5,49,27,76,118,85,42,39,73,180,1,54,333,108,28,208,13,39,103,111,196,12,298,32,31,1,258,15,36,158,120,244,136,405,25,124,116,68,138,13,14,40,50,37,96,19,15,208,39,69,12,26,35,106,101,1079,13,26,5,1,1,2,13,43,8,19,8,18,21,88,9,26,17,8,276,62,367,14,25,41,550,70,6,57,254,98,196
+Measures	970,294,210,212,91,100,111,1595,598,402,662,288,261,1113,205,436,398,75,660,448,726,909,1,10,5,49,27,76,118,85,42,39,73,180,1,54,333,108,28,208,13,39,103,111,196,12,298,32,31,1,258,15,36,158,120,244,136,405,25,124,116,68,138,13,14,40,50,37,96,19,15,208,39,69,12,26,35,106,101,1079,13,26,5,1,1,2,13,43,8,19,8,18,21,88,9,26,17,8,276,62,367,14,25,41,550,70,6,57,254,98,196,64,39,81
 Measures After Spate of Fatal Crashes Big	6077
 Measures Against Privacy Breach Abetment	11956
 Measures Against Privacy Breach Abetment Article	11956
@@ -703,6 +714,7 @@ Mitigation Measures	12253,1128,2277,1269,187,43
 Mitigation Measures Amid Fuel Subsidies Reform	1828
 Mitigation Measures Official Use Only Liaise	12253
 Mitigation Measures Recruitment	15658
+Mitigation Measures Responsibility and Deadline A PIM	19245
 Mitigation Measures Responsible Party	1988
 Mitigation Measures Responsible Party General	1988
 Mitigation Measures Responsible Party Type	1988
@@ -792,6 +804,7 @@ Priority Measures	15147
 Procedures and Measures	12913
 Processes Measurement Data Quality Measurement Roles	15034
 Procurement Risks and Mitigation Measures	15518
+Procurement Risks and Mitigation Measures Procurement Risk	19245
 Procurement Risks and Mitigation Measures Risks Mitigation	10829
 Productive Inclusion Measures and Adaptive Social Protection	18301
 Progress Completion Measurement	17470
@@ -799,6 +812,7 @@ Progress Completion Measurement E&S	17470
 Progress Completion Measurement Fiduciary	17470
 Progress Completion Measurement Internal	17470
 Progress Completion Measurement Ministerial	17470
+Progress Completion Measurement Receive	19242
 Progress Completion Measurement Report	17470
 Progress Completion Measurement Starting	17505
 Progress Completion Measurement The MEF	17470
@@ -830,6 +844,7 @@ REVENUE POLICY AND ADMINISTRATIVE MEASURES	13122
 RSF Reform Measure	17990
 Radio Audience Measures RDP Reconstruction and Development	11192
 Real-Time Review of Country Measures	10763,6139
+Real-Time Review of Country Measures. Living	19237
 Recognition and Measurement IPSAS	14736
 Recommendations Measures Impact	14674
 Recommendations for Regulatory Measures	6938

@@ -13,6 +13,7 @@ AVANT-PROPOS Ana Fonseca Cheffe de Mission OIM	18265
 Abdul Fonti	18569
 Accelerate Africa’s Prosperity Font ResizerAa Politics	9989
 Acte Fondamental	18094
+Actions Subventions Fonds	19221
 Administration Fonciere	16611
 Administration Foncière PNF Programme National Foncier	10876
 Administration Publique LA FONCTION PUBLIQUE EN	16365
@@ -71,6 +72,7 @@ CADRE STRATEGIQUE III.1. Fondements	15848
 CAPÍTULO IV FONTES E APLICAÇÕES FINANCEIRAS	13
 CAPÍTULO IV Fontes	13
 CATION DU STATUT DES FONCTIONNAIRES DES	17812
+CCF. Le Conseil Consultatif Foncier	19212
 CEDSIF. Fonte	2816
 CEO of Webb Fontaine Group	2392
 CERTIFICATION FONCIERE MASSIVE Section	14444
@@ -88,6 +90,7 @@ CMIL Fonction Secrétaires	14537
 CNPS. Un Fonds	13442
 COGEF Commission de Gestion Foncière COSO Projet	10876
 COMMISSION FONCIERE NATIONALE MANUEL TECHNIQUE	13375
+COMPOSITION ET FONCTIONNEMENT Art	19209
 COMPOSITION ET FONCTIONNEMENT DE LA COMMISSION	16085
 COMPOSITION ET FONCTIONNEMENT SECTION	15431
 COMPOSITION ET REGLES DE FONCTIONNEMENT	13334
@@ -137,13 +140,15 @@ Commission Foncière	18094
 Commission Foncière Nationale	13375
 Commission Foncière. En	18094
 Commission Nationale de Réforme Foncière	18293
+Commission de Gestion Foncière	19212
 Commissions de Gestion Foncière	10876
 Communication Fonds	15936
 Composition du Secrétariat Exécutif Fonction Secrétaire	14537
 Comunidad Financiera Africana FMI Fondo Monetario	16969
 Conservation Fonciere	4034,14075
-Conservation Foncière	9976,7507,11
+Conservation Foncière	9976,7507,11,1756
 Conservation Foncière du Cadastre	17448
+Conservation Foncière du Grand-Lomé	19250
 Conservation Foncière. TITRE III	4420
 Contractuel E SECTION CONSERVATION FONCIERE Inspecteur	17982
 Contribution Foncière Unique	16020
@@ -265,6 +270,7 @@ Dotation de Fonctionnement Recette	15670
 Dotation de Fonctionnement Recettes	15670
 Droits Fondamentaux du Travail	15901
 Droits de Chambre Fonction	15712
+Du Fonds de Dédommagement Foncier	19212
 Du Régime Foncier	18901
 Durée de Fonctionnement VBG	18118
 DÉPENSES ACCIDENTELLES ETIMBRÉVISIBLES EN FONCTIONNEMENT	15999
@@ -279,6 +285,7 @@ EN FONCTION DES AXES ET OBJECTIFS	998
 EN SA QUALITE D’ADMINISTRATEUR DUDIT FONDS	17829
 ENTRAVE AU FONCTIONNEMENT DES SYSTEMES INFORMATIQUES	16617
 ENTREPRENEURIAT ET FONCTION PUBLIQUE	16381
+EPU Examen Périodique Universel FACT Fonds	19220
 ET CREATION DU FONDS DE SOUVERAINETE	16734
 ET DU FONCTIONNEMENT	15786,253,138
 ET FONCTIONNEMENT DE L'AGENCE NATIONALE DES	19050
@@ -314,24 +321,29 @@ Etat Fonds	15999
 Existence du Fonds de Développement	10874
 Exploitation des Fonds Marins DGES	18291
 F. DONNEES FINANCIERES DU POST FONDAMENTAL	13478
+FAIEJ Fonds	19220
 FCFA FONDATION-AFFORESTATION AND ANIMALS Siège	16177
 FCFA LIBELLE PROGRAMME FONDS DE DEVELOPPEMENT	15999
 FDS Fonds	15961
+FED FNAFPP Fonds	19220
 FILOMENA TCHILOMBO FONSECA	10751
 FKDEA Fonds Koweitien	18286
 FMI FONDS MONÉTAIRE INTERNATIONAL	18063
 FMI Fond	16626
-FMI Fonds	7655,6782,3406
+FMI Fonds	7655,6782,3406,1377,130
 FMI Fonds Monétaire International FFOM Forces	10712
 FMI Fonds Monétaire International FNDS Fonds	15479
 FMI Fonds Monétaire International FNE Fonds	18103
 FMI. FONDS MONÉTAIRE INTERNATIONAL	18063
+FNAFPP Fonds	19350
+FNFI Fonds	19220
 FNRH Fonds National des Revenus des Hydrocarbures. GED	18015
 FNUAP Fonds des Nations Unies	15724
 FONA-DR	15942
 FONADA	11906
 FONADEFO	16875
 FONADEFO. Por	16875
+FONADES	19250
 FONAF	7374
 FONAGA	15954
 FONAREDD	16036
@@ -362,10 +374,12 @@ FONCTIONNEMENT Article	15350,1261,5,1216
 FONCTIONNEMENT DE LA COMMISSION	17899
 FONCTIONNEMENT DE LA DIRECTION DECRET N	17827
 FONCTIONNEMENT DE L’AUTORITE	17861
+FONCTIONNEMENT DE L’INSTANCE DE PROTECTION DES	19219
 FONCTIONNEMENT DES ANTENNES	17899
 FONCTIONNEMENT DES COMMISSIONS SPECIALISEES Article	16616
 FONCTIONNEMENT DES SERVICES FONCIERS COMMUNAUX AU	13375
 FONCTIONNEMENT DU COMITE D’ORGANISA-	17817
+FONCTIONNEMENT DU GUFORD Article	19260
 FONCTIONNEMENT DU RCCM	15495
 FONCTIONNEMENT STATUANT EN CONSEIL DES MINISTRES	17812
 FONCTIONNEMENT TOTAL Montants	15670
@@ -451,8 +465,9 @@ Fon Sing Building	14847
 Fon.nulaire du Calendrier de Remboursemcltt	15399
 Fonap	19134
 Fonc-	17812
-Foncier	2354,122,127,2928,3162,2183,26,19,1024,2499,6,82,66,26,958,1,129,224,405,40,287,1149,7,208,261,26,878
+Foncier	2354,122,127,2928,3162,2183,26,19,1024,2499,6,82,66,26,958,1,129,224,405,40,287,1149,7,208,261,26,878,15,48
 Foncier AOR Appel	10876
+Foncier Article	19260
 Foncier BM Banque Mondiale CAGD Caisse	10876
 Foncier Benin	10876
 Foncier Bénin	2354,3177,187,181,4977,4706,2107
@@ -462,6 +477,8 @@ Foncier Bénin Oui	10876
 Foncier Bénin. DLI	10876
 Foncier Bénin. L’AVI	10876
 Foncier Comorien	13723
+Foncier LE PRESIDENT DU CONSEIL	19260
+Foncier Les Bureaux Communaux du Domaine	19260
 Foncier de Côte	10900
 Foncier. Il	10876
 Fonciere	14532,92
@@ -474,7 +491,7 @@ Fonction	737,494,53,398,155,902,502,155,32,205,11,128,1308,200,149,1321,734,171,
 Fonction Observations SOS Docteur Conseil	18105
 Fonction Plateforme	15936
 Fonction Publiqe	8227
-Fonction Publique	548,421,312,3,43,690,497,294,548,40,208,553,241,415,290,2850,56,218,2297,288,9,5,77,2,771,567,1063,8,17,10,49,52,495,526,898,10,4,1,24,16,2,1,6,39,8,2,19,40,20,27,51,8,22,17,3,4,16,11,66,158,65,98,53,213,16,230,5,12,13,44,24,739,364,2,3,16,9,2,51,52,6,25,14,38,47,10,10,4,15,20,52,41,528,127,58
+Fonction Publique	548,421,312,3,43,690,497,294,548,40,208,553,241,415,290,2850,56,218,2297,288,9,5,77,2,771,567,1063,8,17,10,49,52,495,526,898,10,4,1,24,16,2,1,6,39,8,2,19,40,20,27,51,8,22,17,3,4,16,11,66,158,65,98,53,213,16,230,5,12,13,44,24,739,364,2,3,16,9,2,51,52,6,25,14,38,47,10,10,4,15,20,52,41,528,127,58,276,3
 Fonction Publique Act.1.2.2.7	17842
 Fonction Publique Act.4.1.2.4	17842
 Fonction Publique Caractéristique	16365
@@ -511,17 +528,18 @@ Fonctionnaires des Impôts DPFP	17872
 Fonctionnaires67	1594
 Fonctionnalité	1187,2209
 Fonctionnalité du Tests	15936
-Fonctionnalités	15936,141,353
+Fonctionnalités	15936,141,353,2791
 Fonctionnalités KINSHASA Kinshasa	16430
+Fonctionnalités Socle	19221
 Fonctionnant	17856
 Fonctionnel	7917,9928
 Fonctionnel Fonctionnel Fonctionnel Fonctionnel	17845
 Fonctionnel Fonctionnel Fonctionnel le SIREE	17845
 Fonctionnel Fonctionnel Toujours	8718
-Fonctionnelle	17845
+Fonctionnelle	17845,1517
 Fonctionnelle Projet	17972
 Fonctionnels	748
-Fonctionnement	998,1627,341,3180,4701,134,2320,29,4,41,212,1,949,1210,101,53,136,285,1127,407,26,240,169,31,883
+Fonctionnement	998,1627,341,3180,4701,134,2320,29,4,41,212,1,949,1210,101,53,136,285,1127,407,26,240,169,31,883,21,34,35
 Fonctionnement Art	16879,1448
 Fonctionnement En	998
 Fonctionnement La Commission Malagasy	14412
@@ -545,6 +563,7 @@ Fonctionnement du Ministère des Finances	2625,10962,1
 Fonctionnement du RCCM	15495
 Fonctionnement du RCCM URL	15495
 Fonctionnement du Registre Social Unique	13715
+Fonctionnement du SNIS	19226
 Fonctionnement du Secrétariat Exécutif des Technologies	13341
 Fonctionnement du Service du Casier	16635
 Fonctions	1679,9168,3578,1117,131,263,2096,254
@@ -559,7 +578,7 @@ Fondamental	15498,163,2151,202
 Fondamental1	18014
 Fondamental1 Aucun	18014
 Fondamentales	13364
-Fondamentaux	18322
+Fondamentaux	18322,899
 Fondamentaux du S	18322
 Fondateur	10847,501,4545,1750
 Fondateurs	18429
@@ -665,7 +684,7 @@ Fondos Fondos Ejes	16898
 Fondos PYMES	4209
 Fondos Públicos Fondos Privados	16898
 Fondos de Reservas	4209
-Fonds	235,408,51,1,70,135,98,216,83,2,36,1,195,1,147,11,284,103,1,208,129,61,2,133,93,59,203,25,166,74,37,54,24,292,30,371,241,127,1,159,307,197,20,262,355,118,3,66,164,8,1,392,145,222,297,150,8,92,266,30,48,229,52,99,171,315,307,396,10,45,83,39,93,62,4,603,101,30,14,272,65,9,157,2,89,126,467,113,273,38,61,1258,76,13,43,9,3,68,18,758,17,44,87,116,20,8,41,747,21,4,5,27,16,1,21,10,1,18,3,4,13,21,8,9,2,30,1,8,10,19,31,21,3,9,2,24,9,2,2,5,18,36,18,46,1,53,35,6,19,4,28,6,38,10,38,10,4,18,41,19,73,37,35,48,48,32,3,62,97,8,7,7,9,2,37,37,402,322,5,2,2,33,60,39,83,112,33,5,2,5,3,2,7,6,6,8,14,24,5,14,38,4,17,1,10,32,4,2,11,1,9,21,21,12,9,17,39,30,32,32,31,2,3,21,4,11,7,5,56,17,9,485,61,5,16,146,16
+Fonds	235,408,51,1,70,135,98,216,83,2,36,1,195,1,147,11,284,103,1,208,129,61,2,133,93,59,203,25,166,74,37,54,24,292,30,371,241,127,1,159,307,197,20,262,355,118,3,66,164,8,1,392,145,222,297,150,8,92,266,30,48,229,52,99,171,315,307,396,10,45,83,39,93,62,4,603,101,30,14,272,65,9,157,2,89,126,467,113,273,38,61,1258,76,13,43,9,3,68,18,758,17,44,87,116,20,8,41,747,21,4,5,27,16,1,21,10,1,18,3,4,13,21,8,9,2,30,1,8,10,19,31,21,3,9,2,24,9,2,2,5,18,36,18,46,1,53,35,6,19,4,28,6,38,10,38,10,4,18,41,19,73,37,35,48,48,32,3,62,97,8,7,7,9,2,37,37,402,322,5,2,2,33,60,39,83,112,33,5,2,5,3,2,7,6,6,8,14,24,5,14,38,4,17,1,10,32,4,2,11,1,9,21,21,12,9,17,39,30,32,32,31,2,3,21,4,11,7,5,56,17,9,485,61,5,16,146,16,63,7,30,28,17,4,8,46
 Fonds AFRISTAT	16250
 Fonds AFRISTAT. Sur	16250
 Fonds Africain de Développement	3967,11575,2574
@@ -698,6 +717,7 @@ Fonds Interprofessionnel	15936
 Fonds Koweïtien	18988
 Fonds Mohammed VI	8891,8621
 Fonds Mondial	13300,1322,1063,27,483,527,1348,35
+Fonds Mondial. Animé	19354
 Fonds Mondial. Ces	15685
 Fonds Monétaire International	1300,771,271,8370,1232,1508,2090,170,95,33,335,95,111,1435,353,803,16
 Fonds Monétaire International FNUAP	15848
@@ -707,7 +727,7 @@ Fonds Monétaire International IMIS	10874
 Fonds Monétaire JANVIER International	2342
 Fonds Mwinda	15851
 Fonds Natio	18926
-Fonds National	3157,7807,5035,38,68,1712,25,235
+Fonds National	3157,7807,5035,38,68,1712,25,235,1143
 Fonds National Crédit Femme	18286
 Fonds National Foncier	14598
 Fonds National de Développement	18169,757,27
@@ -753,7 +773,7 @@ Fonds de Développement de Formation Professionnelle	15936
 Fonds de Développement des Communes de Conakry	9637,1,7008
 Fonds de Développement des TIC	14573
 Fonds de Développement des Télécommunications	14573
-Fonds de Développement du Secteur	10975,4824
+Fonds de Développement du Secteur	10975,4824,3496
 Fonds de Développement du Service Universel. Article	16370
 Fonds de Financement	18412
 Fonds de Garantie	4893,11061
@@ -766,7 +786,7 @@ Fonds de Promotion	14266
 Fonds de Recherche	18339
 Fonds de Remploi	17470
 Fonds de Roulement	10975
-Fonds de Service Universel	3262,10269,322,1732,960,70
+Fonds de Service Universel	3262,10269,322,1732,960,70,2606
 Fonds de Service Universel. L'ARCT	13482
 Fonds de Solidarité	8269,7227,503,1830,293,34
 Fonds de Solidarité Nationale	4402,13480,419
@@ -800,7 +820,7 @@ FondsdesNationsUniespour laPopulation UNICEF	15685
 Fondé	15893
 Fondé de Pouvoir	16175
 Fondé de Pouvoirs	15361,2456
-Fondée	2851,4539,13,93,107,51,314,48,103,196,169,1136,985,1,77,4,661,7,153,1377,2437,400,2285
+Fondée	2851,4539,13,93,107,51,314,48,103,196,169,1136,985,1,77,4,661,7,153,1377,2437,400,2285,1339
 FoneYam	6368
 Foneciofficiel	4664
 Fongo Tongo	5357
@@ -847,6 +867,8 @@ Fontes de Ajuda	10777
 Fontes de Financiamento	10754,29
 Fontes de Informações Lidar	18767
 Fontes de Receitas	11443
+Fontpartiedudomaineprivédel’Etat	19212
+Fontpartiedudomainepublicartificiel	19212
 Formation Fonds	16627
 G URINE FONCÉ	13300
 GARANTIES DU FONCTIONNAIRE	18003
@@ -893,6 +915,7 @@ I'actualisation du Code Foncier	16611
 I.4 ORGANISATION ET FONCTIONNEMENT DU SERVICE	13500
 IA. Fonte	2816
 II du Fonds	10643
+II.1.1 Fonctionnement	19216
 III Fonction	16613
 III. FONCTIONNEMENT DES INFRASTRUCTURES DE MARCHÉS	10922
 III.1. Fondements	15848
@@ -985,7 +1008,7 @@ La Réforme Foncière Agricole	16668
 Le Directeur Général de Webb Fontaine Niger	18148
 Le Fond	17894
 Le Fondamental	13314
-Le Fonds	1214,122,354,739,652,187,981,318,1141,752,1110,1015,178,576,284,734,351,9,3570,1,1078,108,109,1,409,102,275,257,494,721,57,120,65,243,645
+Le Fonds	1214,122,354,739,652,187,981,318,1141,752,1110,1015,178,576,284,734,351,9,3570,1,1078,108,109,1,409,102,275,257,494,721,57,120,65,243,645,241,140
 Le Fonds Afric’innov	16627
 Le Fonds National	3396
 Le Fonds National de Développement	19205
@@ -1007,6 +1030,7 @@ Les Contributions Foncière des Propriétés Non Bâties	6954
 Les Contributions Foncière des Propriétés Rurales Non	6954
 Les Fonds	18015
 Libreville FONDS BANQUE AFRICAINE DE DEVELOEPPEME	15500
+Licence Fondamentale	19366
 Liliane Fonds	15915
 Liliane Fonds At Liliane Fonds	15915
 Lima Monteiro Fonseca	15491
@@ -1021,6 +1045,7 @@ Lígia Fonseca	2401
 L’AGENCE DE GESTION DU FONDS D’ACCES	18079
 L’IMMEUBLE OBJET DU TITRE FONCIER N	17817
 M Jacques Le Font GOMAH	15685
+M. Fondoké KOUYONE	19209
 MALI SECTION CONSERVATION FONCIERE Chef de Section	17982
 MANIRAKIZA Ferdinand FONCTION Secrétaire Permanent IRAKOZE	13341
 MINISTER ERROL FONSEKA	18964
@@ -1057,6 +1082,7 @@ Ministère des Affaires Foncières	15426
 Ministère des Affaires Foncières URL	16420,6
 Mme Kristalina Georgieva Directrice Fonds	18063
 Mobilidade Urbana. Fonte	2816
+Mobilisation du Fonds	19220
 Monsieur Fono COULIBALY	17830
 Monétaire Ouest-Africaine UNICEF Fonds des Nations Unies	18077
 Mossack Fonseca	3279,85
@@ -1083,6 +1109,8 @@ Numérique Agence de Gestion du Fonds	17856
 OBJECTIFSETRÈGLESDESÉCURITÉ ORG-01 Fonctionsécurité C Règle	15525
 OBJET DU TITRE FONCIER N	17817
 OMS. Fonte	15966
+ORGANISATION ET FONCTIONNEMENT Art	19209
+ORGANISATION ET FONCTIONNEMENT Article	19260
 ORGANISATION ET FONCTIONNEMENT DE L'AGENCE Art	15467
 ORGANISATION ET FONCTIONNEMENT DE L'OBSERVATOIRE	13827
 ORGANISATION ET FONCTIONNEMENT DE LA CENI	18101
@@ -1213,6 +1241,7 @@ Renault Groupe Fondation Maroc	17473
 Renforcement des Fondamentaux du Numérique	15746
 Renouvelable Décentralisée FATE Fonds	16037
 Republic of Benin and Webb Fontaine	2392
+Responsable de Zone Fonctionnelle	19362
 Ressources du Fonds	15999
 Revenus Fonciers	15797
 Risk Classification FAGACE Fonds the Africain de Garantie	18504
@@ -1220,7 +1249,7 @@ RÉGISSANT LE FONDS POUR GISHINZWE GUTERA	1214
 RÉPARTITION DES SONDÉS EN FONCTION	18105
 Règles de Fonctionnement	2625
 Règles de Fonctionnement du Comité National	2625
-Réforme Foncière	18028
+Réforme Foncière	18028,1193
 Réforme Foncière Agricole	16668
 Résultats PFR Plans Fonciers Ruraux PPA	10876
 Réunions de Printemps du Fonds Monétaire International	2808,13515
@@ -1312,6 +1341,7 @@ Transition Energétique FGIS Fonds Gabonais	16037
 UEM. Fonte	2816
 UNE ARCHITECTURE FONCTIONNELLE NOVATRICE Pour	15625
 UNFPA Fonds des Nations Unies	13300
+UNICEF Fonds des Nations	19220
 UNICEF Fonds des Nations Unies	13300,2174,250
 UNIQUE NE FONCTIONNE PAS. COMMENT FAIRE	16629
 UNIVERSITE NUMERIQUE FRANCOPHONE MONDIALE FONDS DES	18105
@@ -1330,6 +1360,7 @@ Urbaines de Gestion Foncière	10876
 Urbains Fonciers	10876
 Usage Gestionnaire Fonds IDA	10876
 Uíge Zaire Fonte	10766
+VALEURS FONDAMENTALES L’OTR	19250,41
 VALEURS PRINCIPES DIRECTEURS FONDAMENTALES	10712
 VICE-PRIMATURE MINISTERE DE LA FONCTION PUBLIQUE	16365
 VUE DE LA CORNICHE FONDATION EDUCATIVE	16456

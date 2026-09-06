@@ -3,6 +3,7 @@ A. Il	17945
 A.3. Il	16047
 A.B.NOR.M. Il	15412
 ABER. Il	13683
+ACED. Il	19345
 ACPH. Il	16515
 ACV. Il	18926
 ADIE Il	18297
@@ -17,6 +18,7 @@ ALGER-GARE Ils	15747
 ALT. Il	3706
 AMANORM. Il	17986
 AMS. Il	18308
+AMU. Il	19225
 ANAIP. Il	113
 ANCY. Il	16370
 ANDF. Il	10876
@@ -29,6 +31,7 @@ AP Ilhan Omar	2719
 APDP. Il	10821
 APDPVP. Il	1231,3452
 APDPVP. Ils	1231
+APGAR. Il	19226
 API-ZF. Il	14231
 ARCEP. Il	16327
 ARCH. Il	10824
@@ -37,6 +40,7 @@ ARE. Il	15670
 ARE. Ils	15670
 ARSE. Il	15769
 ARTF. Ils	16407
+ASC. Il	19226
 AUTO-DENONCIATION ET RESTITUTION D'AVOIRS ILLICITES Art	18327
 AUTRES AUTORITES NATIONALES DE REGULATION Il	13468
 AVEC QUI IL	13300
@@ -106,7 +110,7 @@ Armée Ils	17982
 Arsène Yabré. Il	3472
 Art. IL	15598
 Art. Il	15461
-Article Il	15354
+Article Il	15354,3863
 Artisanat. Il	13500
 Asie. Il	10357
 Asin. Il	2733
@@ -134,7 +138,7 @@ Ayang Director General de Enseñanza Secundaria Ilmo	16920
 Azerbaïdjan. Il	19074
 Añisok Ilma. Sra. Doña Amparo Andeme	16920
 Añisok Ilmo. Sr. Don Deogracias Obama	16920
-B. Il	13300
+B. Il	13300,5926
 BAD. Il	9519
 BARAKA ILDEPHONCE LEONARD	6921
 BCC. Il	9297
@@ -182,6 +186,7 @@ Budget. Ils	15474
 Buhumuza. Il	13405
 Bujumbura. Il	13334
 Bureau. Ils	15727
+Bureautique ILLUSTRATIF NON EXHAUSTIF	19221
 Bureaux. Il	15703
 Burkina Faso. Il	737,7584,2553,4638,99
 Burkina. Il	3666,12111
@@ -213,12 +218,12 @@ CGI. Il	16328,1512
 CGSI PSDI DCEI GTEI Ilustração	11569
 CHAMP D’APPLICATION SECTION Il	15999
 CHAPITRE ILI	13524
-CHAPITRE Il	13292,1,1176,950,1217
+CHAPITRE Il	13292,1,1176,950,1217,2573,4,5,1,16,6
 CHAPITRE Il DE L'EDUCATION ET	15436
 CHAPITRE Il DES MISSIONS DU GUICHET	15441
 CHAPITRE Il Des	15461
 CHAPITRE Il. ADMINISTRATION ET FONCTIONNEMENT Article	15406
-CHAPITRE Ill	13292,1,2291
+CHAPITRE Ill	13292,1,2291,3634,23
 CHAPITRE Ill. DES ATTRIBUTIONS DU PRESIDENT	13293
 CHAPTER Il CIVIL AND PENAL PENALTIES	10974
 CHAPTER Il DEFINITIONS SECTION	10974
@@ -236,6 +241,7 @@ CNIB. Ils	10891
 CNIG. Il	17983
 CNRCEP. Il	18122
 COLEPS. Il	10975
+COMITE DE DIRECTION Il	19260
 COMITÉ TECHNIQUE INTERDÉPARTEMENTAL Il	17898
 COMME IL SE DOIT	13300
 CONCERNING COUNTER ILLICIT TRANSNATIONAL MARITIME ACTIVITY	18914
@@ -249,6 +255,7 @@ CSBF. Il	14429
 CSBF. Ils	14429
 CT. Il	4717
 CUT. Il	15908
+CVJR. Il	19220
 Cabinet du Ministre. Il	15685
 Cabinet. Il	14837
 Cadastro Predial da Ilha de Santiago	15388
@@ -273,13 +280,13 @@ Chapter Ill Management	15340
 Chef de Mission. Il	18310
 Chef du Gouvernement. Il	15703
 Cheikh Bakhoum. Il	18295
-Chine. Il	565,15168
+Chine. Il	565,15168,3619
 Cidade da Praia Ilha de Santiago	15355
 Classrooms Illiteracy	15578
 Cluster Education Il	15936
 Cléopâtre Iluku	5888
 Code Rural. Il	18094
-Code. Il	18332
+Code. Il	18332,880
 Combating Illicit Drug Trafficking	14409
 Comité de Direction. CHAPITR ON IL D'AD	15400
 Comité de Pilotage Open Data. Il	747,1
@@ -353,12 +360,14 @@ DGI. Ils	10712
 DGID. Il	7346
 DGSN. Il	11838
 DH. Il	747
-DHIS2. Il	18297
+DHIS2. Il	18297,929
 DIRECTIONS DES STATISTIQUES SECTORIELLES Il	18169
+DISIC. Il	19362
 DNS. Ils	17823
 DREPPNF. Il	10847
 DS. Il	15685
 DSN. Il	3465
+DSNISI. Il	19226
 DU GUICHET UNIQUE Il	15780
 DU MALI Il	17830
 Dakar. Il	18327
@@ -471,7 +480,7 @@ Eradicate Illiteracy Program	15578
 Etat Civil. Ils	15560
 Etat Il	16627
 Etat Oued Goussine Ifelain Ilmathen Tala	15690
-Etat. Il	2342,10950,2113,27,110,27,34,100,19,643,5,1629,97,38,748
+Etat. Il	2342,10950,2113,27,110,27,34,100,19,643,5,1629,97,38,748,359,121
 Etat. Il. Recettes	15999
 Etat. Ils	113,1463,1469,7428,5230,54,23,267,2244
 Etats Membres. Ils	13324
@@ -480,6 +489,7 @@ Europe Il	11499
 Europe. Ils	5412
 European Union Illegal Unreported and Unregulated	789
 Evaluation ILO International Labour Organization IMF	10759,78,1052,451
+Ex. Il	19226
 F CFA. Il	3836,12106,2180
 F Il	17817,2,8,1,1,4,8,20,38,83,21,29
 FCA. Il	15542
@@ -526,6 +536,7 @@ GP Anse Etoile AE Ile Perseverance	18951
 GPP. Il	15943
 GRM HE HSNP IDREA ILO INAMET	10763
 GUCE. Il	8065
+GUFORD. Il	19260
 Gabon Digital. Il	3581
 Gabon Ghana Ile Maurice Kenya Madagascar	14683
 Gabon. Il	15968,69
@@ -541,7 +552,7 @@ Get IT. Il	6744
 Ghana. Il	12885
 Gouvernement Il	13341
 Gouvernement des Nations Unies. Il	13341
-Gouvernement. Il	5374,7967,1110,1023,129,2515,33
+Gouvernement. Il	5374,7967,1110,1023,129,2515,33,1075
 Gouverneur. Il	17816
 Gouverneurs des Iles	1866
 Graduate School of Business. Il	16820
@@ -592,12 +603,12 @@ I. II. Ill. IV. Implementation Plan	4217
 I. II. Ill. IV. V. Implementation	4217
 I. II. Ill. IV. V. VI	4217
 IA Il	13728,1855
-IA. Il	3107,1958,2241,913,225,2027,4793,31,288,116,448,145,44
+IA. Il	3107,1958,2241,913,225,2027,4793,31,288,116,448,145,44,2922
 IA. Ils	3194,1871
 IDC Industrial Development Corporation ILAS Integrated	11261
 IDC. Il	15512
 IFAD International Fund for Agricultural Development ILO	10841
-II Il	15512
+II Il	15512,3697
 III.1.2 FAIBLESSES Il	13306
 IIP International Investment Position ILO International	2775
 IL M'EST IMPOSSIBLE DE PASSER	16629
@@ -646,6 +657,7 @@ ILLICO	10751
 ILLICO Lda	10751
 ILLIMI	6578,11582,89
 ILLIMI Niger	18160,89
+ILLUSTRATIF	19221
 ILLUSTRATION	18427
 ILLUSTRATOR	9781
 ILLUSTRATOR ANIMATOR	9781
@@ -668,6 +680,7 @@ ILO Internally Displaced Person IPF Income-Generating	10964
 ILO International Labour Organisation IMF International	15604
 ILO International Labour Organisation INT Instance	1818
 ILO International Labour Organization	11887,266,1,9,178
+ILO International Labour Organization IPF Investment	19239
 ILO Modelled	11581
 ILO NATLEX Database	17970
 ILO News	13157,308
@@ -737,6 +750,7 @@ Iavoloha. Il	14488
 Idemia. Il	5078,39,6,1267
 Identification des Personnes. Il	15431
 Identification des Points Focaux Il	17983
+Identification. Il	19218
 Identité Biométrique. Il	18283
 Idriss Ilali	8891
 Idriss Ilali Lahcen Hansali Larbi Belarbi	8891
@@ -777,6 +791,7 @@ Ilagala Ag AMINE ACM GNM	17841
 Ilaha	14859
 Ilala. Hoja	4364
 Ilani	2868,3151
+Ilannuledelamêmefaçonleduplicatumetleplanyannexé	19212
 Ilaria	10878
 Ilaro Primary	11857
 Ilasan. Estate Intel	8045
@@ -785,8 +800,10 @@ Ilayisensi	11573
 Ilazo	10590
 Ilbissil Girls Secondary School	10313
 Ilc Statistician-	11852
+Ilcoordonne	19362
 Ildentlte	15584
 Ildephonse	12445
+Ildressesurlelivrefoncier	19212
 Ile Authority of Heads of State and Government of ECQWAS	11517
 Ile Du Port	19049
 Ile IWAWA Ndaro	12413
@@ -807,6 +824,7 @@ Ileemore Technologies Limited	8327,562
 Ileijing	15399
 Ileka. Some Otjimbingwe	13026
 Ilemela	3791
+Ilenestdemêmeduserment.Art.672	19212
 Ilera Eko	9444
 Iles Caïmans	16249
 Iles Seychelles. L’analyse	18291
@@ -815,8 +833,16 @@ Ilesa East	10049
 Ilesa Grammar School PU	10049
 Ilesa West	10049
 Ilest	18100
+Ilestcessibleetpeutêtreapportéensociété	19212
+Ilestconstituéd’unensemblede	19212
+IlestcrééunFondsdeDédommagementFoncier	19212
+Ilestcrééunfondsdegarantie	19212
+Ilestdonnérécépissédecelle	19212
 Ilestfortementrecommandéquelesprocédures	15525
+Ilestinstitué	19212
+Ilestorganiséàl’échellenationaleetcommunale.Art.38	19212
 Ilestrecommandé	15525
+Ilestétablidanslesmêmesconditions	19212
 Iletha Phini	11573
 Ileux9p5ar	10965
 Ilha Brava	16199
@@ -881,6 +907,7 @@ Illegal Seizure	16935
 Illegal System	26
 Illegal System Interference	26
 Illegal Unreported Unregulated	789
+Illerestitueaupropriétaireàla	19212
 Illiassou MAMOUDOU	2694
 Illicit	4127,5272,310,3275,3965,1965
 Illicit Financial Flows	3691
@@ -910,7 +937,7 @@ Illuminating Kerosene	6921,5335
 Illumination	16929
 Illustrate	5665,6693,2208
 Illustrating	236
-Illustration	3391,1733,133,606,798,794,828,307,13,967,498,788,158,527,37,184,191,53,208,19,95,2152,1179,87,53,1059,1006,114,125,440
+Illustration	3391,1733,133,606,798,794,828,307,13,967,498,788,158,527,37,184,191,53,208,19,95,2152,1179,87,53,1059,1006,114,125,440,683
 Illustration IA	16324
 Illustration of Exit	4896
 Illustration of Key Pillars and Cross-Cutting Issues	18485
@@ -942,6 +969,9 @@ Ilmo. Sr. Don Francisco Nsue Ndong	16920
 Ilmo. Sr. Don Pedro Idjabue Nzee	16920
 Ilmo. Sr. Don Samuel Abaga Elá	16920
 Ilmo. Sr. Secretario General	9302
+Ilnepeutêtreprorogépartacitereconduction.Art.496	19212
+Iln’estpastenucomptedans	19212
+Iln’estprocédéàaucunbornagedes	19212
 Iloard	11852
 Ilokhu	11551
 Ilomba Road	13060
@@ -951,11 +981,18 @@ Ilorin The Kwara State Governor	18155
 Ilot ZRC	5983
 Ilozumba	1219
 Ilozumba&author	1219
+Ilpeut	19212
+Ilpeutcédersondroit	19212
+Ilpeutse	19212
+Ilpeutêtredélivréaudéposant	19212
 Ilpeutêtrenécessaire	15525
+Ilréponddel’incendie	19212
 Ilsa Amado Vaz	6018
 Ilsappuieront	18100
 Ilsauront	18100
 Ilsparticipent	17863
+Ilsycontribuentdanslesmêmesproportions	19212
+Ils’agit	19362
 Iltats	15443
 Iltmo Señor Ricardo Nsue NDEMESOGO OBONO	17259
 Ilumina	18896
@@ -983,6 +1020,7 @@ Ilyas Aden Idriss	17643
 Ilyas Ahmed	15191
 Ilyas Moussa Dawaleh	6777,10867
 Ilyene	4404,944
+Ilyestjointunnombredecopies	19212
 Ilyushchenko	17157
 Ilyène	4909
 Ilza Amado Vaz	2688,16116,4
@@ -997,6 +1035,7 @@ Inani Ilayisha	11573
 Inchtechs Sarl. Il	11355
 Inde. Il	3100
 Index Illuminating Kerosene EHS Independent Power	12256
+Indiquer Indiquer Indiquer Il	19226
 Industrie. Il	16294
 Industrie. Ils	18897
 Information Il	17983
@@ -1011,7 +1050,7 @@ Inspector Distrital de Mongomo Ilmo. Sr. Don	16920
 Inspector Distrital de Riaba Ilmo. Sr. Don	16920
 Instagram. Il	11492
 Institut Pasteur. Il	13290
-Institut. Il	10874
+Institut. Il	10874,8342
 Instruction. Il	17485
 Integrated Management of Childhood Illness	10776,105
 Integrated Management of Childhood Illness IPC	10776
@@ -1087,9 +1126,11 @@ Les Partis Politiques Ils	18100
 Linguère. Il	18304
 Livre' Il	15429
 Livre. SOUS-TITRE Il	15999
-Lomé. Il	16250
+Lomé. Il	16250,2968,1
+Lomé. Ils	19232
 Lumitel. Il	13530
 Léon Juste Ibombo. Il	2942,360
+L’ASC Il	19226
 L’ENRICHJISSEMENT ILICITE	16381
 M EDCF. WB ILMP	354
 M IL TEKNO ILERI TEKNOLOJI MUHENDISLIK	16623
@@ -1117,6 +1158,7 @@ M. Raphael ILOKA	16545
 M. Sall. Il	18348
 M. Saïdou Sankara. Il	4717
 M. Sekele. Il	16567
+M. WINGA Dissaliba. Il	19264
 M. YOBO ILOY	15780
 M. Yabré. Il	3472
 MABAADII’DA HAGAYSA ILAALINTA IYO TAAKULEYNTA EE	15047
@@ -1131,6 +1173,7 @@ MINEPAT. Il	15542
 MINFI. Il	10965
 MINISTRE Il	16001
 MOE. Ils	17846
+MR. Il	19226
 MS. Il	14539
 MTFP. Il	1281
 MV Illala	13060
@@ -1262,9 +1305,12 @@ ONG Ilontsera	14604,74
 ONIP DG Richard Ilunga	1864,1560
 ONIP. Ils	15547
 OU AVOIRS ILLICITES Art	18327
+OUYATA Iletan ADJ	19251
 Offences Illegal Access	26
+Office Central de Répression du Traffic Illicite des Drogues	19227
 Office des Changes. Il	17485
 Offres. Il	13524
+Olivier Kouete. Il	19243
 Olutomiwa Ilori. Editors	3162
 Ondó Mikue Coordinador Distrital de Baney Ilmo	16920
 Onip. Il	14172
@@ -1278,7 +1324,7 @@ Organisation. Il	18090
 Ouagadougou. Il	4059,2709,3603,5041
 Ouakam. Il	11686
 Ouargla Oran El Bayadh Illizi Bordj	16085
-Ouest. Il	8162,2937,5534,1191,281,43
+Ouest. Il	8162,2937,5534,1191,281,43,1079
 Oui. Il	10030
 Ould Ghazouani. Il	8105
 Ousmane Almoudou. Il	17995
@@ -1306,6 +1352,7 @@ PHASAO. Il	10874
 PIB. Il	17945
 PME. Il	17824
 PNDIS I. Il	13306
+PNDS. Il	19226
 PNG. Il	18100
 PNPS. Il	13640
 PNS. Il	15423
@@ -1317,6 +1364,7 @@ PRESTATIONS DE SERVICES Il	16195
 PREVENT THE SCOURGE OF ILLEGAL	11277
 PRICS. Il	16094
 PRMP. Il	10876
+PROCES-VERBAUX Il	19260
 PROGRES. Il	15568
 PROTECTION OF MINORITY AGAINST ILLEGAL	18556
 PS-SNISS. Il	17845
@@ -1328,6 +1376,7 @@ PSSN. Il	15720
 PSSN. Ils	15720
 Pacte. Il	13433
 Page Il	18118
+Paludisme Il	19226
 Pape Jean-Paul II Il	13405
 Par Charles ILBOUDO Temps	10885
 Parakou. Il	17689
@@ -1477,7 +1526,7 @@ SEMAINES OU IL Y A DES	13300
 SEMAINES OU MOIS. SI IL	13300
 SENIX. Il	18429
 SFEC. Ils	7346
-SI. Il	17882
+SI. Il	17882,1480
 SIBIR ILA	17828
 SIFOR-CI. Il	10921
 SIG Santé. Il	18297
@@ -1556,6 +1605,7 @@ Sénégal. Ils	18297
 Sô-Ava. Il	6217
 TALLAABOOYINKA DHEERIGA AH EE ILAALINTA ADEEGGA	14930
 TCE. Il	17945
+TCHAA-DJOBO Ilyas Sabani SCH	19251
 TEKAVOUL Il	17886
 TERRITORIALEMENT COMPETENTS. IL S'AGIT	15970
 TIC. Il	13290,34,2218,49
@@ -1564,6 +1614,7 @@ TITRE Il	13292,1,4562,2,237,807
 TITRE Ill	11567,1725,1,4564,1044
 TOWN OR V ILLAGE AREA LAND	18465
 TRANSFERTS D’ARGENT ET AUTRES AGISSEMENTS ILLICITES	16617
+TRANSFORMATION Il	19260
 TRE ENREGISTRÉE EN ANNÉES. IL	13300
 TVA. Il	18238
 Tallaabooyinka Ilaalinta	15047
@@ -1584,9 +1635,10 @@ Thani. Il	18412
 Thaïlande. Il	15763
 Tinfissi-Joseph Ilboudo	19082
 Tipaza. Il	15456
-Titre Il	14417
+Titre Il	14417,4792
 Titre Ill	17857
-Togo. Il	3821,1233
+Togo Code. Il	19212
+Togo. Il	3821,1233,14228,8
 Toursime Transports Télécommunication Il	15975
 Trade Net. Il	14458
 Trade-Related Illicit Financial Flows	4445
@@ -1619,6 +1671,7 @@ US. Il	15685
 USD Il	18967
 UVRE DU PAN-GIIG Il	17983
 Uganda Begins Nationwide Enforcement Against Illegal	7133
+Umbaji. Il	19346
 Umeanoluue IL	17773
 Underwater Il	8774
 Union des Comores Il	13721
@@ -1635,6 +1688,7 @@ University of Ilorin Teaching Hospital	14706
 Université Alioune Diop de Bambey. Il	18291
 Université Centrale de Tunisie. Il	2851
 Université Gamal Abdel Nasser. Il	16627
+Université de Berkeley. Il	19336
 Université de Kinshasa. Il	3301
 Université des Comores. Ils	5669
 V Nigéria-Bénin. Il	15801

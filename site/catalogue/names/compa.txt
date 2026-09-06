@@ -213,6 +213,8 @@ CAYMAN ISLANDS COMPANIES ACT	7198
 CBoS Officially Revokes Al-Asjad Company's License	15226
 CDACNetwork Companies House Registration	15342
 CDMU Compact Delivery and Monitoring Unit CEEAC	16037
+CEB Compagnie	19220
+CEET Togo Electrical Energy Company	19239
 CENTUM INVESTMENT COMPANY PLC Data Controller	7167
 CENTUM INVESTMENT COMPANY PLC Data Processor	7167
 CEO Boris Compaoré	4233
@@ -242,6 +244,7 @@ COMPACT PROGRESS REPORT	12717
 COMPACT PROGRESS REPORT SECOND CYCLE	16188
 COMPACT TARGETS	12717
 COMPACT TARGETS AND ACTION PLAN	12399,281,6115
+COMPAGNIE ENERGIE ELECTRIQUE DU TOGO	19260
 COMPAGNIE IVOIRIENNE DE PRODUCTION D’ÉLECTRICITÉ Gestion	2342
 COMPAGNIE IVOIRIENNE POUR LE DÉVELOPPEMENT	2342
 COMPAGNIE MINIERE DU BAFING Gestion	2342
@@ -392,12 +395,14 @@ Compact Delivery Monitoring Unit	12595
 Compact Delivery and Monitoring Unit	12717,3320,151,778,1829
 Compact Delivery and Monitoring Unit CPR Compact	16188
 Compact Development Guidelines	12175,1815
+Compact Disk CHR	19226
 Compact Energétique	15851
 Compact Fluorescent Lamp CSOs Civil Society	14947
 Compact Goals	12399
 Compact II. Ce	18324
 Compact MCC	16323
 Compact Private Capital Mobilization Public Private	11468
+Compact Program	19245
 Compact Progress Report	12717,3471
 Compact Progress Reports	12717,3471
 Compact SCG	15688
@@ -414,10 +419,11 @@ Compact. The Government	18795
 Compact. This Compact	18532
 Compactors Common	12253
 Compacts	13054,3804
-Compagnie	10289,1278,1847,2722,1846,340
+Compagnie	10289,1278,1847,2722,1846,340,898,76
 Compagnie Air Côte	2342
 Compagnie Commune de Réassurance des Etats Membres	18182
 Compagnie Electrique Sénégalaise CNH	18322
+Compagnie Energie Electrique du Togo	19224,15,21,35,15
 Compagnie FinanciÃ	18887
 Compagnie Financière de Paiement	4459
 Compagnie Française	15848
@@ -507,7 +513,7 @@ Companies. Requirements	15283
 Companiesand Allied Matters Act	18154
 Companies’ Act	11240
 Companies’ Register	3714
-Companion	22,13,81,123,169,2,4,3,14,12,2,112,2,19,1,12,22,123,2,4,5,4,19,11,1,16,24,118,23,5,18,9,17,16,126,39,13,5,12,9,1,1,22,6,69,6,5,13,2,1,30,44,33,49,28,12,32,1,98,14,1,3,15,17,39,56,1,9,25,1,47,10,22,20,57,33,12,22,1,9,11,10,27,61,19,59,9,235,31,101,37,84,96,29,117,3,126,8,23,150,4,4,30,57,23,49,35,128,2,33,46,10,53,1,48,10,122,110,10,3,16,264,3,1,1,5,16,39,6,26,1,21,5,23,1,18,148,123,17,83,82,120,66,42,19,90,184,65,32,69,1,228,99,8,4,152,51,72,107,5,10,27,20,51,14,32,119,36,13,110,32,6,41,18,18,1,1,6,230,2,114,41,71,27,332,87,69,60,187,160,1,391,272,78,130,573,431,675,20,907,346,218,226,450,751,373,3,263,15,81,1,81,1707,14,359,1053,218,979
+Companion	22,13,81,123,169,2,4,3,14,12,2,112,2,19,1,12,22,123,2,4,5,4,19,11,1,16,24,118,23,5,18,9,17,16,126,39,13,5,12,9,1,1,22,6,69,6,5,13,2,1,30,44,33,49,28,12,32,1,98,14,1,3,15,17,39,56,1,9,25,1,47,10,22,20,57,33,12,22,1,9,11,10,27,61,19,59,9,235,31,101,37,84,96,29,117,3,126,8,23,150,4,4,30,57,23,49,35,128,2,33,46,10,53,1,48,10,122,110,10,3,16,264,3,1,1,5,16,39,6,26,1,21,5,23,1,18,148,123,17,83,82,120,66,42,19,90,184,65,32,69,1,228,99,8,4,152,51,72,107,5,10,27,20,51,14,32,119,36,13,110,32,6,41,18,18,1,1,6,230,2,114,41,71,27,332,87,69,60,187,160,1,391,272,78,130,573,431,675,20,907,346,218,226,450,751,373,3,263,15,81,1,81,1707,14,359,1053,218,979,352
 Companion Card	10418
 Companion Guide	11156
 Company	22,551,12,20,131,1082,1,169,417,293,765,251,412,137,633,642,326,39,184,248,15,374,52,162,260,6,124,28,404,285,452,83,12,135,139,73,512,119,165,90,15,74,78,801,68,320,17,11,10,15,16,2,24,22,107,486,6,42,16,21,10,55,212,3,46,40,16,35,7,39,6,33,5,381,18,57,114,132,126,51,23,269,314,17,166,395,121,6,11,39,96,9,3,12,48,6,30,70,172,14,232,32,143,82,5,132,335,122,278,175,57,32,174,86,46,43,103,1,73,559,537,111,15,351,238
@@ -646,7 +652,7 @@ Comparable and Interoperable SLEITI	18439
 Comparably	16950
 Comparación	16898
 Comparado	16969
-Comparaison	4459,3196,5669,66,24,1066,994,241,2121,28,336,788
+Comparaison	4459,3196,5669,66,24,1066,994,241,2121,28,336,788,245
 Comparaison Mali-Mètre	6959
 Comparaison des Dépenses	15670
 Comparaison des Recettes	15670
@@ -702,7 +708,7 @@ Comparecencia	16986,236
 Comparecencia de Osa Nsue	17171
 Comparecencia de Simeón Oyono Esono	17305
 Comparecer	4147,11286
-Compared	236,704,888,153,305,1151,931,235,280,528,244,484,808,432,47,325,135,960,238,71,554,568,441,47,10,10,66,5,63,352,25,1,275,9,4,270,8,4,35,16,6,31,9,214,36,13,131,27,578,395,119,46,9,92,454,73,624,40,17,165,26,141,56,191,13,23,24,133,234,1038,9,64,47,108,131,1,267,110,2,128,127
+Compared	236,704,888,153,305,1151,931,235,280,528,244,484,808,432,47,325,135,960,238,71,554,568,441,47,10,10,66,5,63,352,25,1,275,9,4,270,8,4,35,16,6,31,9,214,36,13,131,27,578,395,119,46,9,92,454,73,624,40,17,165,26,141,56,191,13,23,24,133,234,1038,9,64,47,108,131,1,267,110,2,128,127,1367,88
 Comparer	9278,6658
 Comparez	13300,5012
 Comparing	236,530,5,1322,723,5053,114,477,1810,444,127,136,978,401,27,1035,114,92,1136,664,180,1346,673,120
@@ -768,7 +774,7 @@ Compatibilité	17846,469
 Compatibilité Tester	15936
 Compatibilizar	10783
 Compatibilização	11520
-Compatible	5533,4499,1787,137,30,260
+Compatible	5533,4499,1787,137,30,260,6986
 Compatible Android	10032
 Compatible Service Delivery and Utilization	16885
 Complaint Unit CEET Compagnie Energie Electrique	12062,6124,31
@@ -922,6 +928,7 @@ Egyptian Mortgage Refinancing Company Finance Program	15473
 Eldoret Water and Sanitation Company Ltd Data	7167
 Electric Company Janjanbureh Area Council Kanifing	16973
 Electric Power Generation and Distribution Company	15480
+Electrical Company of Ghana	19295
 Electricity Company of Ghana	11132,4608,164,692
 Electricity Company of Ghana FDI Foreign	4126
 Electricity Distribution Companies of Nigeria	11129
@@ -1146,6 +1153,7 @@ Historical Financials for The Company	4896
 Holding Companies Consolidated Income	12483
 Holding Company for Communications	4746
 Home Insights Seychelles Selects NRD Companies	3907
+Horizon Data Centre Togo Company Ltd	19245
 Housing Finance Company Limited	18925
 Human Capital Index and Sub-components Comparison	17870
 Hungarian Association of Digital Companies Kappa404 KeeeX	8530
@@ -1179,6 +1187,7 @@ Income Tax Returns for Companies	11976
 Incorporated Company	18604
 Independent Director of Chemelil Sugar Company	6946
 Independent Population Estimates Compared	16921
+Index SBEE Beninese Electrical Energy Company	19239
 India Company	2511
 India-Mozambique Bilateral Relations Companion	2667
 Indian Banks and Payments Companies	5124
@@ -1191,6 +1200,7 @@ Information Technology Company	2837,11148
 Information Technology Development Company	4284
 Infrastructure CDMU Compact Delivery and Monitoring Unit	12717
 Infrastructure Companies	16975
+Infrastructure Company	19239
 Innovative Companies	4972
 Institute CIT Company Income Tax AI	12395
 Insurance Companies	11255
@@ -1392,7 +1402,7 @@ Microfinance Project Financing Company Total Financing	15578
 Microsoft Frontier Company	7007
 Middle East. The Company	16776
 Mighty Land Company	15670
-Millennium Challenge Compact	12645
+Millennium Challenge Compact	12645,6569
 Million MCC Energy Compact	18548
 Million MCC Energy Compact URL	18548
 Mimosa Mining Company	1554
@@ -1543,6 +1553,7 @@ OCT-24 NOV-24 DÉC-24 Comparativement	15707
 ORAN Development Company	4511,1110
 ORC AND PURPLELINE SOLUTIONS LIMITED COMPANY	9728
 OTHERS IN SHARES OF COMPANY	3714
+OTR Comparativement	19250,41
 OUTILS DE COMPARAISON DE DONNÉES LONGITUDINALES	17830
 Objects of Company	18604
 October. Companies	7209
@@ -1556,6 +1567,7 @@ Operating Companies	16872,103
 Orange Basin. This Compact	12399
 Original and Final Approved Budget and Comparison of Actual	16978
 Otima Company Sarlu	15848
+Ouest CEET Compagnie	19220,130
 Overall Performance Comparison	11250
 Own Device CD Compact Disc	34
 Ozon Company	2843
@@ -1599,6 +1611,7 @@ Patents and Companies Registration Agency Act	13299,267
 Patents and Company Registration Agency PAYZ Payments	13347
 Patrice COMPAORE	8321
 Patrice Compaoré	5723
+Patrie Compagnie Energie Electrique du Togo CEET	19260
 Payment Systems.. The Company	11955
 Payment for External Company Registration	12041
 Peace and Security National Water and Electricity Company	16973
@@ -1772,6 +1785,7 @@ Services Personal Cash Parent Company	12445
 Services. Company	13385
 Session of COPUOS Companion	1735
 Sewerage Company	7548
+Sexual Harassment SIN Digital Infrastructure Company	19245
 Seychelles Petroleum Company	7760
 Seychelles-incorporated International Business Company	19145
 Shiroro 1 Others Generation Companies	18217
@@ -1886,6 +1900,8 @@ Through the Compact	18532
 Tinubu's Health Renewal Compact Record	18163
 Togo Data Center Market Briefing Companion	3156
 Togo Digital Economy Diagnostic Report Companion	329
+Togo Electrical Energy Company	19239
+Togolese Electric Energy Company	19275,1
 Top Unicorn Companies	11884,1,320
 Top Verticals Amongst Tech-Enabled Companies	4972
 Topaz Group of Companies	16649
@@ -1965,6 +1981,7 @@ Western Water and Sanitation Company	13387
 Western Water and Sewerage Company	13387
 Winding-up If the Company	3714
 Winding-up and Judicial Management of Companies	3714
+Women’s Decision-Making Power. Phone Data. COMPASS	19237
 Workshops Comparative Analysis	13005
 World Bank Group. Peer Comparison	16260,988,4
 X BusinessDay Home Tax Calculator Companies	9750,247

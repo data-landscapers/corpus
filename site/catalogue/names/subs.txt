@@ -16,13 +16,15 @@ Addressing Substance Abuse	10776
 Advisory Committee SIM Subscriber Identity Module	6946
 Africa Subsea Cable	8679
 Africa. Subsequent	13974
-Afrique Subsaharienne	9615,6065,32,538,205,1389,442
+Afrique Subsaharienne	9615,6065,32,538,205,1389,442,1005
 Afrique Subsaharienne AICD	18291
 Afrique Subsaharienne ANPE	737
 Afrique Subsaharienne ANSADE	17844
 Afrique Subsaharienne ANSSI	10874
 Afrique Subsaharienne APME Agence de Promotion des Petites	15501
 Afrique Subsaharienne. Etude UNESCO	10841
+Afryce Subsaharyjskiej	19328
+Afryce Subsaharyjskiej. Planowana	19328,1
 Agricultural and Marine Media Subsidize	17157
 Allocating Universal Service Subsidies Using Electronic	14674
 Amaury Substation. Following	14745
@@ -96,6 +98,7 @@ Cash Flow Accounting of Fuel Subsidies	1828
 Change Mobile Internet Subscriptions	6000
 Change of Customer Information. Subscribers	18452
 Chemical Substances	18541
+Chimie des Substances Naturelles	19366
 Civil Registration Substantive	10775
 Classification Investment Project Substantial Financing	3604
 Classification Substantial Financing	15553
@@ -185,7 +188,7 @@ End-user and Subscriber Service Charter Regulations	8398,2861
 Energy Subsidy	17105
 Energy Subsidy Reform	1828
 Enhancing Commodity Production for Import Substitution	14818
-Environment and Social Substantial	11380,525,3285,471
+Environment and Social Substantial	11380,525,3285,471,3578
 Environmental And Social Risk Classification Substantial	1704,1752
 Environmental and Social Risk Classification Substantial	15658
 Equatorial Guinea. Subsequent	16942
@@ -211,7 +214,7 @@ Fee Subsidies Low	18512
 Fertilizer Input Subsidy Program	13122
 Fibre Optic Subsea WACS Cable	8679
 Fibre Subscriptions	6000
-Fiduciary Substantial	11380,4281
+Fiduciary Substantial	11380,4281,3578
 Finanças Subsecção	15526
 Fiscal Costs and Distributional Impact of Oil Subsidies	1828
 Fisheries Subsidies Agreement	13042
@@ -316,6 +319,7 @@ IP Multimedia Subsystem	54,2474,15
 ISP Subscriber Rankings	6749
 Icasa's End-User and Subscriber Service Charter Amendment	8841
 Identifying Targeted Areas of Subsequent ICT4D Action	16861
+Importations Afrique Subsaharienne	19250
 Improving Substations System Automation and Security	12358
 Industry Subscription Table	2776
 Information Subscription	10721
@@ -497,6 +501,7 @@ Olkaria and Suswa Substation	14615
 Operador de Subsistema de Compensação	11370
 Operator BWA Subscription Q3	2776
 Overall Efficacy Rating Substantial	14888
+Overall Substantial	19239
 Overall Substantial COMPLIANCE Policy Does	11380
 Overall Substantial Moderate Moderate Results PDO	18473
 Overall Substantial Substantial Substantial	17505
@@ -573,7 +578,7 @@ ROW Right of Way SIM Card Subscriber	11857
 Rating Substantial OBJECTIVE	14888
 Rating Substantial OVERALL EFF TBL OBJ TBL	16960
 Rating Substantial OVERALL EFFICACY Rationale	14888
-Rating Substantial Substantial	18534
+Rating Substantial Substantial	18534,708
 Rating Substantial Substantial For Official Use	18350
 Rating Substantial Substantial Implementation Status and Key	15619,1019
 Real-Time Payment Subsystem	10775
@@ -875,7 +880,7 @@ Subsequent Arrests	14190
 Subsequent Audit	15492
 Subsequent Invitation for Bids	18543
 Subsequentemente	18791
-Subsequently	396,322,299,1100,772,4281,1290,144,2,182,1516,72,505,82,1,166,1,3,57,56,708,206,56,38,78,96,16,226,7,284,17,331,36,278,922,351,8,224,344,190,603,592,38,6,9,11,5,8,7,8,207,859,661,132,122
+Subsequently	396,322,299,1100,772,4281,1290,144,2,182,1516,72,505,82,1,166,1,3,57,56,708,206,56,38,78,96,16,226,7,284,17,331,36,278,922,351,8,224,344,190,603,592,38,6,9,11,5,8,7,8,207,859,661,132,122,306
 Subsidiariedade	11901
 Subsidiaries	1065,376,6027,3325
 Subsidiaries Directors	7204
@@ -883,7 +888,7 @@ Subsidiarity	17019,1966
 Subsidiarity and Proportionality	13308,2232
 Subsidiarité	10712,3129
 Subsidiary	12483,422,382,24,1099,12,27,4013,432
-Subsidiary Agreement	15659,485
+Subsidiary Agreement	15659,485,3140
 Subsidiary Business Names	16601
 Subsidiary ICPS	4791
 Subsidiary Loan Agreement	14546
@@ -958,10 +963,11 @@ Substance Oxyde	14423
 Substances	14267,156,3476,133,86
 Substances Act	13403
 Substances Chimiques	15936
+Substances Naturelles	19366
 Substances Naturelles Technologiques de Bamako	17829
 Substances and Hazardous Wastes	14409
 Substances and Hazardous Wastes. ARTICLE	14409
-Substantial	764,205,27,220,48,13,7,6,480,4,93,188,198,459,177,567,148,176,908,932,919,40,349,949,2891,7,54,3,38,16,78,431,22,52,56,35,295,11,39,19,32,9,6,17,188,79,23,749,27,4,37,236,1,60,342,122,64,50,40,477,89,51,270,13,25,2,11,6,22,4,17,20,2,12,66,41,21,31,221,13,23,33,31,7,35,48,20,37,1,2,41,2,33,45,177,31,23,66,65,240,14,38,178,91,221,23,11,34,6,37,42,17,18,2,354,379,13,42,54,4,44,98,29,65,95,8,54,4,406,12,32,8,8,26,36,95
+Substantial	764,205,27,220,48,13,7,6,480,4,93,188,198,459,177,567,148,176,908,932,919,40,349,949,2891,7,54,3,38,16,78,431,22,52,56,35,295,11,39,19,32,9,6,17,188,79,23,749,27,4,37,236,1,60,342,122,64,50,40,477,89,51,270,13,25,2,11,6,22,4,17,20,2,12,66,41,21,31,221,13,23,33,31,7,35,48,20,37,1,2,41,2,33,45,177,31,23,66,65,240,14,38,178,91,221,23,11,34,6,37,42,17,18,2,354,379,13,42,54,4,44,98,29,65,95,8,54,4,406,12,32,8,8,26,36,95,263,39
 Substantial A.1 Environmental Risk Rating Substantial	18374
 Substantial A.2 Social Risk Rating Overall	18374
 Substantial Adopt	13938
@@ -982,6 +988,7 @@ Substantial Environment and Social	1284,1428,3867,5392,17,1070,862,1111,706,276,
 Substantial Environment and Social Stakeholders Overall	11395
 Substantial Expected Approval Date	14976
 Substantial Fiduciary	6579,1298,2993,2188,862,1111,128,1835,102,910,349,462
+Substantial Fiduciary Environment and Social	19284
 Substantial Financing	1867,8962
 Substantial For Official Use Only	18354,463
 Substantial Implementing Agency	15190
@@ -1019,11 +1026,12 @@ Substantial Substantial Results PDO Indicators	15619
 Substantial Substantial Risk Category Moderate	11905
 Substantial Substantial Stakeholders High Moderate Moderate	15735
 Substantial Substantial Substantial Oct	12267
-Substantial Substantial Substantial Overall Substantial	13027,2592
+Substantial Substantial Substantial Overall Substantial	13027,2592,3623
 Substantial Substantial Technical Design of Project	15619,116
+Substantial Substantial The World Bank Implementation	19242
 Substantial Sustainability	16994
 Substantial Sustainability Fiduciary	1284,3404,7283,4108,626,374
-Substantial Technical Design of Project	1284,1428,1976,1891,1298,4094,257,39,1653,1111,706,276,66,626,374,1276
+Substantial Technical Design of Project	1284,1428,1976,1891,1298,4094,257,39,1653,1111,706,276,66,626,374,1276,929
 Substantial Technically	11525
 Substantial The World Bank CAR Health	10829
 Substantial The World Bank Implementation	7877,8136,987,96,1259
@@ -1064,6 +1072,7 @@ Substantial. I. BACKGROUND AND RATIONALE	16398
 Substantial. Implementation	13331,2328
 Substantial. Indeed	16654
 Substantial. Key	16144
+Substantial. Like	19245
 Substantial. Limited	1284
 Substantial. Lithium-ion	18374
 Substantial. Macroeconomic	12176,4773
@@ -1090,11 +1099,13 @@ Substantial. The M&E	15601
 Substantial. The MCDSS	13332
 Substantial. The MoHAIS	1867
 Substantial. The OBR	1284
+Substantial. The PCU	19284
 Substantial. The Program	3604
 Substantial. The Project	15659
 Substantial. The World Bank	1284,12047
 Substantial. The World Bank Procurement Regulations	11905
 Substantial. Two AFs	11924
+Substantial. Under Component	19245
 Substantial. VII. RESULTS FRAMEWORK AND MONITORING	15518
 Substantial. Weak	1264,14254,141
 Substantial. While the Project	16436
@@ -1161,6 +1172,7 @@ Telesol Subscription	2776
 Temporary Currency Substitution	16219
 Thousand Fixed Line Subscriptions Devices and Terminals	9781
 Toxic Substances	1988
+Toxicologie des Substances Bioactives	19366
 Traffic Act.’’. Substitution	11551
 Transfers and Subsidies	11230
 Trend of Fixed Broadband Subscriptions	15136

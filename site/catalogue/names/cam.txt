@@ -179,6 +179,8 @@ CAMCIH	3730,1841
 CAMCIS	3730,1760,129,40
 CAMEBU	13306
 CAMEC	17895
+CAMEG	19284
+CAMEG-TOGO	19284
 CAMEL CAPTAIN SERVICES LIMITED Data Controller	7167
 CAMEL CAPTAIN SERVICES LIMITED Data Processor	7167
 CAMEN	16436
@@ -336,7 +338,7 @@ CREATIVE CAMEROUN	10960
 CSPH Etat du Cameroun	15542
 CUSTOMER FRAUD AWARENESS CAMPAIGN	14099
 CWEN Cameroon Women Entrepreneurs Network ECCAS	10841
-Cabo Verde Cambodia Cameroon Canada Cayman	11470
+Cabo Verde Cambodia Cameroon Canada Cayman	11470,7872
 Caininvest Etat du Cameroun	15542
 Call for Expressions of Interest. CAMTEL	7598
 CamGSM	11310
@@ -815,7 +817,7 @@ Cameroon2024 Sub-Saharan Africa Lower Middle Income	10976
 Cameroon2024 Sub-Saharan Income	10976
 Cameroon25	18796
 CameroonTel	18846
-Cameroonian	125,1197,1,1,372,250,34,84,1,1,364,31,58,400,163,53,148,796,1,201,281,394,1374,70,180,1221,157,708,134,356,460,1225,119,1,1,1,1,1,2,3,4,5,1,3,1,1,16,696,39,781,1951,888,124,31,60,30,383,24,42,12
+Cameroonian	125,1197,1,1,372,250,34,84,1,1,364,31,58,400,163,53,148,796,1,201,281,394,1374,70,180,1221,157,708,134,356,460,1225,119,1,1,1,1,1,2,3,4,5,1,3,1,1,16,696,39,781,1951,888,124,31,60,30,383,24,42,12,3186
 Cameroonian AI Authority	11000
 Cameroonian Civil Status Registration Ordinance	10979
 Cameroonian Criminal Procedure Code	10979
@@ -870,7 +872,7 @@ Cameroon’s Sugar Market A Closer Look	5407,676
 Cameroon’s Sugar Market Nasco	5407,676
 Cameroon’s VAT	10997
 Cameroon’s VAT Credit Refunds Fall	965,3924,206
-Cameroun	1189,459,32,68,58,128,76,57,213,113,6,66,48,21,12,149,9,47,34,78,63,6,10,165,50,37,36,1,9,58,30,1,39,120,123,47,25,41,55,3,10,148,45,80,38,24,83,28,31,56,30,124,586,17,209,55,11,1,382,89,290,18,26,78,34,145,136,19,38,2,65,197,229,177,288,251,506,179,129,163,92,286,1,95,3,236,104,96,324,8,43,168,99,25,2,22,121,24,143,135,15,8,114,2,10,3,2,1,4,1,6,4,2,12,5,658,25,112,134,86,6,38,1200,209,880,346,648,16,5,30,15,18,14,19,6,13,7,1,29,9,2,1,57,52,1,15,4,5,6,3,39,6,31,3,15,28,10,5,28,73,17,4,21,34,7,19,12,25,13,51,13,8,4,17,1,5,21,19,7,29,15,4,17,42,73,38,1,5,54,19,5,22,18,18,12,788,97,110,361,54,148,140,19,12,597,48,5,16,160
+Cameroun	1189,459,32,68,58,128,76,57,213,113,6,66,48,21,12,149,9,47,34,78,63,6,10,165,50,37,36,1,9,58,30,1,39,120,123,47,25,41,55,3,10,148,45,80,38,24,83,28,31,56,30,124,586,17,209,55,11,1,382,89,290,18,26,78,34,145,136,19,38,2,65,197,229,177,288,251,506,179,129,163,92,286,1,95,3,236,104,96,324,8,43,168,99,25,2,22,121,24,143,135,15,8,114,2,10,3,2,1,4,1,6,4,2,12,5,658,25,112,134,86,6,38,1200,209,880,346,648,16,5,30,15,18,14,19,6,13,7,1,29,9,2,1,57,52,1,15,4,5,6,3,39,6,31,3,15,28,10,5,28,73,17,4,21,34,7,19,12,25,13,51,13,8,4,17,1,5,21,19,7,29,15,4,17,42,73,38,1,5,54,19,5,22,18,18,12,788,97,110,361,54,148,140,19,12,597,48,5,16,160,179,27
 Cameroun Afrique Centrale Gabon Tchad Congo	9916
 Cameroun Assurer	15999
 Cameroun Au	3658,2617,145
@@ -889,7 +891,9 @@ Cameroun DEFENSE Activité	10965
 Cameroun Dans	16250
 Cameroun Des	3808
 Cameroun EMF	10965
+Cameroun En	19250
 Cameroun Fondée	4479
+Cameroun HISP WCA	19354
 Cameroun Health Coverage	16195
 Cameroun Janvier	15541
 Cameroun LE PREMIER MINISTRE	15373
@@ -1073,6 +1077,7 @@ Camp Coordination and Management Cluster	12977
 Camp David	15473
 Camp Flacourt	14625
 Camp Fouquereaux	14830
+Camp Général GNASSINGBE Eyadema	19251
 Camp Ithier	14746,84
 Camp Kokolo	16420
 Camp Le Juge	14830
@@ -1082,7 +1087,7 @@ Camp Tuli Bonse	10374
 Camp des Embrevades	14746
 Camp-based	12328
 Camp-based Physical	12297
-Campagne	17,13283,213,975,1,1,132,1090,15,379,561,19,36,3,1131,77,12,341
+Campagne	17,13283,213,975,1,1,132,1090,15,379,561,19,36,3,1131,77,12,341,935,127
 Campagne Agricole	13746,60,1909
 Campagnes	6827,8885,136,88
 Campagnes SMS. Communication	15474
@@ -1147,7 +1152,7 @@ Camps Map	15129
 Camps and Counterterrorism	12227
 Campsite	1988
 Campsite Management Plan	13392
-Campus	1245,5131,1669,3996,1647,206,1,1269,193,553,72,247,1315,900
+Campus	1245,5131,1669,3996,1647,206,1,1269,193,553,72,247,1315,900,875
 Campus Academic Planning	17232
 Campus Download	15552
 Campus Faso	15550
@@ -1343,7 +1348,7 @@ Deputy Secretary of State Kurt Campbell	2285
 Description Supports Cameroon	773
 Diabba CAMARA	17829
 Digital Cameras External Drives	34
-Digital Cameroon	15480
+Digital Cameroon	15480,3765
 Digital Cameroon Strategic Plan	16050
 Digital Cameroon. IMF	15480
 Digital Continue Campaigns	1777
@@ -2243,6 +2248,7 @@ West and East Africa.14 Government-owned Camtel	15480
 Western Region of Cameroon	16222
 Westville Campus Programme Director	9959
 WhatsApp Facebook Cameroon Chad TikTok Instagram	9616
+Wi-Fi Campus	19245
 WiMAX. Viettel Cameroun Cameroun	15542
 World Aids Day Campaign	12977
 World Bank Cameroon	16436

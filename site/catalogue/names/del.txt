@@ -181,6 +181,7 @@ DE DELEGACIÓN DELEGACIÓN DELEGACIÓN DELEGACIÓN DELEGACIÓN	4209
 DE JUSTICE DELIVRES AUX PARTICULIERS PAR	16635
 DE LA CONCURRENCE DELOYALE	17828
 DE LA DELIMITATION ET DE L’ORGANISATION	13292
+DE LA DELIVRANCE DES COPIES DES	19207
 DE LA DELIVRANCE DES SOINS Section	15361
 DE L’IMPOSITION DE DELAIS DE Article	17828
 DE PAIEMENT DES FRAIS DE DELIVRANCE	17899
@@ -261,14 +262,17 @@ DELEGADO DE GOBIERNO DISTRITO	4209
 DELEGADO DISTRITAL MINISTERIO	4209
 DELEGADO PROVINCIAL MINISTERIO	4209
 DELEGADO REGIONAL MINISTERIO	4209
-DELEGATION	16857
+DELEGATION	16857,2403
 DELEGATION GENERALE A LA SURETE	15999
 DELEGATIONS DEPARTEMENTALES Sécurité Capitaine	15524
 DELEGAÇÃO Paralisação	10753
 DELEGUE	16099
 DELETE THIS BOX ONCE YOU HAVE	13185
+DELFIC	19241
 DELFINA JAMBA NANDONDO	10751
 DELHIT MODERN HEALTHCARE Data Controller INST-725541663D7	7167
+DELIBERATIONS DU CONSEIL D’ADMINISTRATION	19260
+DELIBERATIONS DU CONSEIL D’ADMINISTRATION SOUMISES	19260
 DELIBERATIVA	17312
 DELIBERATIVE PROCESS	5352
 DELIBERATIVE PROCESS Appendix	5352
@@ -295,6 +299,7 @@ DELIVERED TO THE NATIONAL ASSEMBLY	13435
 DELIVERING SAFETY NETS AMID FRAGILITY	17906
 DELIVERY	5032,3642,8297
 DELIVERY AND GOVERNANCE MANAGEMENT	16884
+DELIVERY CHAIN	19237
 DELIVERY CHAIN PHASE Provide Manage EXAMPLE	11156
 DELIVERY CHANNEL	16942
 DELIVERY COMPONENT	11129
@@ -461,6 +466,7 @@ Delegated	6423,10716
 Delegated Entity	12185
 Delegated Legislation	6787,7435,48,329
 Delegated Legislation. Following	6946
+Delegated Minister	19284
 Delegates	1154,400,1233,1951,420,443,226,283,1583,186,4,827,3,684,1888,1739,527,82,3,504,890,901,2592
 Delegating	6512
 Delegation	970,3587,847,1339,795,3035,604,108,4,259,303,85,40,650,264,5,4,17,240,5,9,45,27,45,18,66,47,148,481,102,266,7,71,82,55,97,8,33,56,1077,374,10,558,44,360,50,637,521,12,42,47,332,39,148,81,17
@@ -604,6 +610,17 @@ Deliver Jobs and Respond	13592
 Deliver More and Better Jobs	9985
 Deliver Online Webinars	17287
 Deliver Phase	8726
+Deliver Shock-Responsive Social Protection	19237
+Deliver Shock-Responsive Social Protection Acknowledgments	19237
+Deliver Shock-Responsive Social Protection Annex TABLE	19237
+Deliver Shock-Responsive Social Protection BOX	19237
+Deliver Shock-Responsive Social Protection Cina Lawson	19237
+Deliver Shock-Responsive Social Protection Geospatial	19237
+Deliver Shock-Responsive Social Protection III	19237
+Deliver Shock-Responsive Social Protection Ruhaak	19237
+Deliver Shock-Responsive Social Protection TABLE	19237
+Deliver Shock-Responsive Social Protection URL	19237
+Deliver Shock-Responsive Social Protection V. Going	19237
 Deliver Subsidised Sovereign Cloud Services for Nigerian	6058
 Deliver Thought Leadership	11134
 Deliverable	11869,490,334,2897,1478
@@ -629,6 +646,7 @@ Deliverables Schedule Pagamento	11898
 Deliverables Signed	15713
 Deliverables Training	15713
 Deliverables and Audience	18612
+Deliverables. The Government	19214
 Deliverance	7167
 Deliverance Church Busia Child	7167
 Deliverance Church CYDC Data Controller INST-634784D16B0	7167
@@ -639,7 +657,7 @@ Deliverance Church Olmoran CDC Data Processor	7167
 Delivered	861,872,546,28,1788,24,2363,722,938,1991,514,484,873,441,4,176,470,297,120,232,472,810,1118,699,1319
 Delivered Countrywide Couriers	9781
 Delivered Daily	15255
-Deliveries	1988,787,1905,5523,6768,1192
+Deliveries	1988,787,1905,5523,6768,1192,1121
 Delivering	1870,223,266,625,165,338,96,199,320,180,371,85,277,262,274,28,429,43,239,218,31,223,145,605,33,60,54,61,154,89,158,165,49,8,20,42,305,367,38,67,56,211,292,25,37,49,156,241,114,281,394,206,653,228,241,186,14,22,20,11,56,91,209,269,152,65,51,465,376,26,344,29,389,42,62,52,361,322,263,618,23,172,13,8,29,61,64,105,34,9,789,43,90,48,125,18,20,14,3,3,136
 Delivering A People-Centered Development	14674
 Delivering Education System Transformation	12175
@@ -680,6 +698,7 @@ Delivery Enhanced Output Indicator	14935
 Delivery Handbook	16902
 Delivery Hero	5985,909
 Delivery Improvement Plan SEIAS Socio-Economic Impact	11218
+Delivery Linked Indicators	19284
 Delivery Mechanism	11940
 Delivery Mechanisms for Success	11940
 Delivery Mode	6832
@@ -767,7 +786,7 @@ Dell'Acqua	16266
 Deller B	10881
 Dellil Zouaoui	15456
 Dell’Oro Group	11155
-Deloitte	961,402,1266,770,367,55,45,566,2,299,163,43,84,13,277,142,234,14,2,102,70,6,41,210,371,62,277,263,16,2,157,1825,1,10,1084,79,694,882,286,901,1344,1023,36,2056,367
+Deloitte	961,402,1266,770,367,55,45,566,2,299,163,43,84,13,277,142,234,14,2,102,70,6,41,210,371,62,277,263,16,2,157,1825,1,10,1084,79,694,882,286,901,1344,1023,36,2056,367,1418
 Deloitte Analysis of National Broadband Plans and Country	11857
 Deloitte Audit	7620
 Deloitte Development	15518
@@ -871,6 +890,7 @@ E-governance and Service Delivery	11231
 E.g. Score Score Delay	15845
 EDIT AS NECESSARY. DELETE THIS PART	13618
 EFFECT OF THE DELISTING OF ECONET	4896
+EGUE Koamivi Delali ADJ	19251
 ELECAM Regional Delegate	10988
 ENHANCED AND DIVERSIFIED SERVICE DELIVERY CHANNELS	16885
 ET DE DELIVRANCE DES ACTES DIVERS	16047
@@ -957,6 +977,7 @@ FINANCES ET EQUIPEMENT STRUCTURES RATTACHEES DELEGATIONS	16100
 FIXANT LES CONDITIONS DE DELIVRANCE ET	15885
 Falaba Delemandugu	18464
 Fast-track Lack of Delays	12241
+Feb-2024 Delayed Completion Measurement Framework	19242
 Femme DELM Direction	15580
 Fex Delivery and Drive45 Mobility	14705
 Fight Delays Embedding	7764
@@ -981,6 +1002,7 @@ GPD DELIVERY COMPONENTS	11129
 GRA COMMISSIONER GENERAL LEADS DELEGATION	17201
 GRAL. DE POLÍTICA DELEGACION PROV. REG	4209
 GTMI Public Service Delivery Index	10785
+GWh Electricity Delivered	19239
 Gambia Delegation	16896
 Gambians. Delivering	3066
 Gas Delivery Services Availability of Financial Inclusion	15578
@@ -1174,6 +1196,7 @@ MANDATES AND DHA OUTCOMES VISION Deliver	5533
 MARCHES PUBLICS ET DES DELEGATIONS	17982
 MAURITANIA Taazour General Delegation	17849
 MEMBERS OF THE SIERRA LEONE DELEGATION	18455
+MESSAN Ayaovi Delali SCH	19251
 MINISTERE DELEGUE CHARGE DE L'ECONOMIE NUMERIQUE	13846
 MINISTRO DELEGADO	4209
 MINOR DELAYS	12717,3471
@@ -1194,6 +1217,7 @@ Mandate Delivery and Outcomes The Bank	11134
 Manzini. Delivered	13207
 Maria Benvinda Delfina Levi	4274
 Maria Benvinda Delfina Levi Preço	12823
+Mark for Deletion Implementation Manual	19284
 Marked for Deletion	15138
 Marked for Deletion Component	18359
 Marked for Deletion Rationale	1228
@@ -1308,14 +1332,17 @@ P17240506 Toward More People-Centered Service Delivery	984
 P2G Benin Economic Governance for Service Delivery	10870
 PARAGRAPHE II DE LA GESTION DELEGUEE	15469
 PART G SERVICE DELIVERY AND ORGASITAIONAL	11250
+PCU Delegated Minister	19284
 PDU Delivery Manager for Technology and Innovation	13569
 PENALTIES Delayed Annual	14891
 PIB Delhi	16234
+PIB Delhi A High-Level Panel	19298
 PIB Delhi India and South Africa	6480
 PIB Delhi Raksha Rajya Mantri Shri	18129
 PIB Delhi The President of India	12568
 PIB Delhi. Acquired	6480
 PIB Delhi. The National Centre for Good	19133
+PIU Delays	19245
 PIonsdticOatfofircfeorAdd Delivery Service	11129
 POLICY-MAKING AND SERVICE DELIVERY Lead	11940
 POLITIQUEDESECURITE DESSYSTEMESD'INFORMATION DEL'ETAT	15525
@@ -1406,6 +1433,7 @@ Provincial Statistics Delegation	12839
 Public Administration and Service Delivery	12972
 Public Debt Research and Delivery	18488
 Public Health Facilities With Service Delivery	12379
+Public Procurement and Public Service Delegation Code	19365
 Public Sector Delivery and Capacity Building. Government	14748
 Public Sector Efficiency and Service Delivery Unbiased	12210
 Public Sector Foundations for Service Delivery	12758
@@ -1493,7 +1521,7 @@ Send Delegates and Experts	12675
 Senior AVP Service Delivery	11162
 Seoul and New Delhi	7320
 September. Deliberation N	12201
-Service Delivery	970,2081,1151,7218,531,35,677,284,15,10,4,190,165,87,56,293,1168,1948,1593,18
+Service Delivery	970,2081,1151,7218,531,35,677,284,15,10,4,190,165,87,56,293,1168,1948,1593,18,751
 Service Delivery Among	718
 Service Delivery Blueprint	13646
 Service Delivery Charter	16961
@@ -1543,6 +1571,7 @@ Single Window for Remote Delivery of Public Services	10765,10
 Smart Delinquency Predictor	9487
 Social Assistance Programs and Delivery	16902
 Social Protection Delivery	12049
+Social Protection Delivery Systems	19237
 Social Protection Delivery Systems The Institute	16942
 Social Service Delivery. Country Case Studies	12761
 Social Services Delivery and Empowerment	16861
@@ -1575,6 +1604,7 @@ Sudan Delegations	15001
 Sudatel Group Delivers Record FY2025 Results	15284
 Supply and Delivery of Secondary	13527
 Support Health Delivery	16861
+Support Service Delivery	19284
 Supporting Essential Health Service Delivery	10829
 Supporting Essential Health Service Delivery Children	10829
 System Administrator Deliverable	12693
@@ -1599,6 +1629,7 @@ Terminal Delivery Order TWG	17367
 Tier-1 Sectors Deliver	2957
 Timeline Deliverables	15149
 Tinubu GCFR. What This Agreement Delivers	12026
+Togo Public Sector Strengthening for Service Delivery	19245
 Tool for Fairness Delivering	18526
 Touche Egomaron Jegede Deloitte	11857
 Toward More People-Centered Service Delivery	984,11679,1
@@ -1627,6 +1658,7 @@ Unique Identity Number for Service Delivery	10765,10
 Urban Delivery	11129
 Urban Infrastructure and Service Delivery	15424,307
 Usage and Expansion of Inclusive Digital Service Delivery	14935
+Using the Social Protection Delivery Systems Immediately	19237
 V. FRAIS DE DELIVRANCE DES PERMIS	16047
 VI. FRAIS DE DELIVRANCE CERTIFICAT	16047
 VICE- DELEGACIÓN PRESIDENCIAL BIBLIOTECA Cuentas CONCEPTO	4209

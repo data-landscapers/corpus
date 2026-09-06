@@ -1,9 +1,17 @@
 A. CLASSE DE TERMINALE Objectifs	18099
 A. Objects	12047
 A. PROJECT DEVELOPMENT OBJECTIVE	11863,2075
-A. Project Development Objective	969,295,603,1737,2935,4229,61,551,180,295,1476,1,1578,27,554,24,3,35,68,38,2,82,401,240,565,1155,94,95,8,476
+A. Project Development Objective	969,295,603,1737,2935,4229,61,551,180,295,1476,1,1578,27,554,24,3,35,68,38,2,82,401,240,565,1155,94,95,8,476,462,6
 A. Project Development Objective PDO Statement	10829,6120
 A.1 Objectifs	18312
+A1O1 Objectif	19216
+A1O2 Objectif	19216
+A1O3 Objectif	19216
+A2O1 Objectif	19216
+A2O2 Objectif	19216
+A2O3 Objectif	19216
+A2O4 Objectif	19216
+A3O2 Objectif	19216
 A4. Objectives	17017
 AA. Objection	14717
 ACP. Objectif	15500
@@ -42,6 +50,7 @@ Achieve NDP and ICT4D Policy Objectives	16884
 Achievement of Objectives	10779,4109,2072
 Achievement of Project Development Objective	12980
 Achievement of Project Development Objectives	18754
+Achievement of Project Objectives. The Government	19214
 Achieving the Management Objective	17883
 Act. Objects of Authority. Functions of Authority. No	18440
 Act. Objects of NSI	12895
@@ -75,6 +84,7 @@ Ano OBJETIVOS ESTRATÉGICOS Peso	15535
 Appeals and Objections	9314
 Application Objects	12549
 Appraisal Document PDO Project Development Objective	15511
+Article Objet	19217
 Aspiraciones Objetivos	16898
 Assessment Objectives	18476
 Assessment of Achievement of Each Objective	11924,3500,87,90,62,68,705,1426,100,803,60
@@ -218,6 +228,7 @@ Constitution STRATEGIC OBJECTIVES	17364
 Constitution of Uganda and Objectives	3005
 Constraints Expected Outcomes Policy Area Objective	17138
 Consultation Questionnaire Template Objective	17099
+Contexte Objectifs	19221
 Contract PDO Program Development Objective PdP	17458
 Control Objectives	9237
 Control Objectives for Information and Related	9237
@@ -256,7 +267,7 @@ DES OBJECTIFS STRATÉGIQUES SUIVI	2342
 DES OBJECTIFS STRATÉGIQUES UN PORTEFEUILLE DIVERSIFIÉ	2342
 DESCRIPTION ET OBJECTIFS TECHNOLOGIQUE DONNÉES IMPACT	15583
 DETAILS OF THE STRATEGIC OBJECTIVES	16884,1
-DEVELOPMENT OBJECTIVE	15138
+DEVELOPMENT OBJECTIVE	15138,4146
 DEVELOPMENT OBJECTIVE Original Development Objective	17962
 DEVELOPMENT OBJECTIVES	15424
 DEVELOPMENT OBJECTIVES A. CONTEXT	15511,220
@@ -302,12 +313,13 @@ Description Objective Action Details Tech-I5-A1 Training	15713
 Develop Sustainable Funding Mechanisms Objective	16863
 Develop and Implement Statistical Policies Objective	16863
 Develop and Improve Statistical Operations Objective	16863
-Development Objective	1284,420,70,517,1165,7507,454,446,42,60,759,1018,91,7,98,1252,323,1,36,181,27,24,1114,26,1887
+Development Objective	1284,420,70,517,1165,7507,454,446,42,60,759,1018,91,7,98,1252,323,1,36,181,27,24,1114,26,1887,475
 Development Objective Agreements	4260
 Development Objective Components Results Loan Closing	15731
 Development Objective Development Objective	15138
 Development Objective Grant Agreement	12962
-Development Objective Original Development Objective	2712,1976,1891,349,949,2993,525,576,17,240,39,173,587,31,858,4,136,892,32,51,128,576,2,276,66,626,289,6,79,17,374,35,399,54,48,127,217,4,1,179,258,25,165,101
+Development Objective No Legal Operational	19284
+Development Objective Original Development Objective	2712,1976,1891,349,949,2993,525,576,17,240,39,173,587,31,858,4,136,892,32,51,128,576,2,276,66,626,289,6,79,17,374,35,399,54,48,127,217,4,1,179,258,25,165,101,159,7
 Development Objective PEP Post-exposure Prophylaxis PFM	10829
 Development Objective PEQPT Quality Education for All	18765
 Development Objective PER Public Expenditure Review	15661
@@ -436,8 +448,9 @@ GIM-UEMOA Solution Objectifs Avantages	10711
 GIS and Labour Department Objective	15845
 GM- CSIRT Specific Objectives	1000
 GM- Specific Objectives	1000
-GOAL AND OBJECTIVES	15556
+GOAL AND OBJECTIVES	15556,3658
 GOAL AND OBJECTIVES OF THE SPECTRUM	5245
+GOAL AND OBJECTIVES Section	19214
 GOALS AND OBJECTIVES	12529
 GOALS GOAL DETAILS SPECIFIC OBJECTIVES	16885
 GOVERNANCE OBJECTIVE	1161
@@ -478,19 +491,21 @@ Guiné-Bissau Objetivo	11569
 Général Calculable Mutilation Génitale Féminine Objectifs	17978
 Génération Transmission Distribution Objectifs	13433
 HIV. Objective	16951
+HLO High-Level Objective ICT Information Technology	19245
 HLO Higher-Level Objective HSE Health	17862
 HLO1 Objective	6539,5887
 HYPOTHESES OBJECTIF GLOBAL OG.1. Promouvoir	15722
-Has the Development Objective	2712,3867,254,95,4467,576,17,452,1480,136,1679,2,1257,85,825,54,48,127,217,4,180,258,25
+Has the Development Objective	2712,3867,254,95,4467,576,17,452,1480,136,1679,2,1257,85,825,54,48,127,217,4,180,258,25,432
 Has the Project Development Objective	13970,1649,1019,1835
 Health Centre COBIT CSIR Control Objectives	1009
+Heavy-Fuel Oil HLO Higher Level Objectives	19239
 Heures CLASSE DE PREMIERE CONTENUS OBJECTIFS	18099
 Heures. CLASSE DE TERMINALE CONTENUS OBJECTIFS	18099
 High Commission for Digitalization OBJECTIVE	15679
 High Level Objective	1867
 High-Level Objectives	12968
 High. Objective	16960
-Higher Level Objectives	969,295,603,1737,2935,4229,61,135,416,37,143,1771,1,411,1167,27,554,27,35,68,37,1,2,2,1286,913,242,189,8,476
+Higher Level Objectives	969,295,603,1737,2935,4229,61,135,416,37,143,1771,1,411,1167,27,554,27,35,68,37,1,2,2,1286,913,242,189,8,476,462,6
 Higher Level Objectives Policy Context and Strategic	969
 Higher-Level Objectives	3604,11911
 Higher-level Objectives	11549
@@ -706,6 +721,7 @@ Législation Objectif	17983
 L’IMMEUBLE OBJET DU TITRE FONCIER N	17817
 L’INSTAURATION L’ATTEINTE DES OBJECTIFS CLÉS	2342
 L’Infrastructure Nationale des Objectif	17983
+L’atteinte des Objectifs	19220
 M Project Development Objective	13392
 MAJEURS ET LES OBJECTIFS STRATÉGIQUES Problèmes	15583
 MANGAUNG IDP STRATEGIC DEVELOPMENT OBJECTIVES	11231
@@ -735,6 +751,7 @@ MPT Moyen Elevée Terme Priorité Objectif	15474
 MPT Objectif	15474
 MSAS Objectif	18297
 MULTI-ACTOR OBJECTIVES	10819
+MVP Itérer Lancement Objectifs	19221
 Madigipaie. Objectif	5271
 Main Objective	11866
 Maintenance OMD Objectifs du Millénaire	18103
@@ -883,7 +900,7 @@ OBJECTIFS STRATÉGIQUES TABLEAU	15583
 OBJECTIFSETRÈGLESDESÉCURITÉ	15525
 OBJECTIFSETRÈGLESDESÉCURITÉ ORG-01 Fonctionsécurité C Règle	15525
 OBJECTIONS AND REVIEW OF ASSESSMENTS	14717
-OBJECTIVE	962,199,1551,1976,1891,349,949,3518,467,126,1039,10,879,4,136,924,51,128,397,123,56,2,276,692,295,96,808,102,127,217,4,1,117,62,258,25,266
+OBJECTIVE	962,199,1551,1976,1891,349,949,3518,467,126,1039,10,879,4,136,924,51,128,397,123,56,2,276,692,295,96,808,102,127,217,4,1,117,62,258,25,266,166
 OBJECTIVE AND JURISDICTION OF TAX AUTHORITIES	11976
 OBJECTIVE AND SCOPE OF THE PROJECT	13185
 OBJECTIVE FOUR	15556
@@ -957,7 +974,7 @@ OBJECTS OF BILL	5872
 OBJECTS OF COMPANY FUNDING REGISTERED	585
 OBJECTS OF THE ACCESS TO INFORMATION	13484
 OBJECTS OF THE BILL	12054
-OBJET	14537,862,90,412,1924,73
+OBJET	14537,862,90,412,1924,73,1362
 OBJET Article	15903,709,1482
 OBJET Cet	15732
 OBJET DE LA LICENCE	15394
@@ -998,7 +1015,7 @@ OBJETS DU DEHORS	13300
 OBJETS DU MÉNAGE OU	13300
 OBJtr	15687
 ODD Objectif	15724,237
-ODD Objectifs	17843
+ODD Objectifs	17843,1373,4
 ODD Objectifs de Développement	17983
 ODD Objectifs de Développement Durable PASBAP Projet	16037
 ODP Objectif de Développement du Projet OEV Orphelins	15746
@@ -1007,7 +1024,7 @@ ODS Objectivos de Desenvolvimento Sustentável	18760
 ODS Objetivos de Desenvolvimento Sustentável	11547
 OMD Objectif	17843
 OMD Objectifs	15961
-OPERATION STATUS Development Objective	16032,2777
+OPERATION STATUS Development Objective	16032,2777,475
 OPERATION STATUS Project Development Objective	2473,2180,13706
 OSC Objectifs de Développement Durable P3S Organisations	643
 OU AUTRES OBJETS DURS	13300
@@ -1033,9 +1050,10 @@ Object of Fund Subject	13470
 Object-based	15129
 Object.assign	17188
 Object.do	15631,43,327
-Objectif	12,223,408,103,2,574,1,1,740,1,1,195,19,686,67,50,279,308,409,1,81,235,171,451,87,15,2435,170,66,31,154,1,292,247,179,1512,440,64,1,105,41,18,89,27,57,90,805,99,1282,16,49,43,80,52,858,2,63,1,40,8,2,1,34,48,801,32,17,2,19,49,13,13,12,3,41,46,50,2,16,8,20,3,30,49,96,17,38,71,125,133,217,75,24,23,968,207,3,37,25,38,1,32,5,135,3,83,48,45,18,1,8,664,156
+Objectif	12,223,408,103,2,574,1,1,740,1,1,195,19,686,67,50,279,308,409,1,81,235,171,451,87,15,2435,170,66,31,154,1,292,247,179,1512,440,64,1,105,41,18,89,27,57,90,805,99,1282,16,49,43,80,52,858,2,63,1,40,8,2,1,34,48,801,32,17,2,19,49,13,13,12,3,41,46,50,2,16,8,20,3,30,49,96,17,38,71,125,133,217,75,24,23,968,207,3,37,25,38,1,32,5,135,3,83,48,45,18,1,8,664,156,72,4,1,11,31,20,79
 Objectif Assurer	10876
 Objectif Cette	10711
+Objectif Construction	19221
 Objectif Date de Statut	18063
 Objectif Garantir	14537
 Objectif Global	10965,7018
@@ -1045,6 +1063,7 @@ Objectif Général Créer	16674
 Objectif Général Effets Composante Numérisation	13635
 Objectif L'indicateur	17945
 Objectif L’étape	10711
+Objectif PND	19221
 Objectif Pays	16037
 Objectif Proposition	17845
 Objectif Proposition Activités Respon Sources Coûts	17845
@@ -1053,7 +1072,8 @@ Objectif Proposition Sources de Coûts Couts	17845
 Objectif Proposition Valeur	17845
 Objectif Proposition Valeur de Période No	17845
 Objectif Proposition Valeur de Source Période No	17845
-Objectif Réalisation	14622
+Objectif Réalisation	14622,4628
+Objectif Réalisation Graphique	19291
 Objectif Résultat Objectifs	18063
 Objectif Spécifique	643,10322,979,3552
 Objectif Stratégique	10906,5289,1788
@@ -1075,7 +1095,7 @@ Objectif du Projet	14424,1
 Objectif du Projet L’objectif	14424,1
 Objectif du Référentiel National de Sécurité	15472
 Objectifn	15525
-Objectifs	12,130,93,408,94,11,690,265,1263,53,36,537,19,27,430,39,460,790,1602,165,119,482,97,565,169,956,1200,162,1,1,99,1068,1257,25,16,49,43,80,34,81,97,58,65,575,2,13,4,30,8,49,44,1,3,45,768,39,26,19,13,9,4,41,1,13,20,5,3,2,10,55,20,15,30,5,2,16,8,20,3,30,49,88,2,23,2,55,19,128,30,10,117,6,194,5,18,15,55,5,1,6,14,106,701,51,317,3,4,12,7,3,15,7,12,3,12,52,37,80,14,22,1,3,2,13,3,83,61,21,4,1,6,13,2,4,6,96,524,25,183
+Objectifs	12,130,93,408,94,11,690,265,1263,53,36,537,19,27,430,39,460,790,1602,165,119,482,97,565,169,956,1200,162,1,1,99,1068,1257,25,16,49,43,80,34,81,97,58,65,575,2,13,4,30,8,49,44,1,3,45,768,39,26,19,13,9,4,41,1,13,20,5,3,2,10,55,20,15,30,5,2,16,8,20,3,30,49,88,2,23,2,55,19,128,30,10,117,6,194,5,18,15,55,5,1,6,14,106,701,51,317,3,4,12,7,3,15,7,12,3,12,52,37,80,14,22,1,3,2,13,3,83,61,21,4,1,6,13,2,4,6,96,524,25,183,66,4,1,20,3,88
 Objectifs Actions	15583
 Objectifs Améliorer	8556
 Objectifs Assurer	8556
@@ -1097,9 +1117,12 @@ Objectifs L'objectif	14438,1,49,1,1
 Objectifs L'organe	16615
 Objectifs La MOEUA	18310
 Objectifs Le BDIXP	13291
+Objectifs Le Forum	19363
 Objectifs L’objectif	17902
+Objectifs Ministères	19221
 Objectifs ONU EGDI Taux	17860
 Objectifs PPI Production Privée Indépendante PPP	18103
+Objectifs Permettre	19221
 Objectifs Recouv Taux	3396
 Objectifs Résultats Indicateurs	17842
 Objectifs Santé	17860
@@ -1153,11 +1176,13 @@ Objectifs du Programme Le Programme Terra Bénin	10876
 Objectifs du Projet	15357
 Objectifs du RGE	10875
 Objectifs du RGE Le Recensement	10875
+Objectifs du SNIS	19226
+Objectifs du SNIS L’objectif du SNIS	19226
 Objectifs du Tableau	14529
 Objectifs. Forte	13848
 ObjectifsdelaPSSIE	15525
 Objectifsetrésultat	18297
-Objection	1988,1515,7218,460,1781,430,174,856,13,111,972,1404,27,355
+Objection	1988,1515,7218,460,1781,430,174,856,13,111,972,1404,27,355,1980
 Objection PPCC Phase II TOT	17304
 Objection Unit	14761
 Objection. Once	18887
@@ -1167,7 +1192,7 @@ Objections	3714,1434,7892,333,1173,168,1,3744,8,133,5
 Objections and Appeals	12629
 Objectiv	2948
 Objectiva Artigo	18764
-Objective	26,1,7,202,343,183,238,53,101,7,123,60,18,19,42,15,134,29,5,98,74,46,164,686,331,451,148,697,539,839,511,349,399,1662,472,365,1342,140,45,33,134,286,108,330,14,36,11,8,17,35,49,334,60,34,155,8,56,3,49,199,9,7,39,105,28,74,127,2,17,1,13,3,72,347,207,17,19,14,161,481,95,58,48,21,165,11,83,36,189,2,50,82,5,7,35,48,18,39,1,2,2,39,98,45,138,49,112,254,38,202,37,168,20,11,10,1,37,21,6,2,9,3,12,36,353,77,17,391,13,21,1,409,8,53,16,4,96,3,5,53,86,18,160,30,159,1,57,150
+Objective	26,1,7,202,343,183,238,53,101,7,123,60,18,19,42,15,134,29,5,98,74,46,164,686,331,451,148,697,539,839,511,349,399,1662,472,365,1342,140,45,33,134,286,108,330,14,36,11,8,17,35,49,334,60,34,155,8,56,3,49,199,9,7,39,105,28,74,127,2,17,1,13,3,72,347,207,17,19,14,161,481,95,58,48,21,165,11,83,36,189,2,50,82,5,7,35,48,18,39,1,2,2,39,98,45,138,49,112,254,38,202,37,168,20,11,10,1,37,21,6,2,9,3,12,36,353,77,17,391,13,21,1,409,8,53,16,4,96,3,5,53,86,18,160,30,159,1,57,150,53
 Objective Action Details D-O17 Comprehensive	15713
 Objective Action Details D-O23 Establish	15713
 Objective Action Details Deliverables Tech-O12 Dedicated	15713
@@ -1197,6 +1222,7 @@ Objective No Reallocations Yes Summary Description	2473
 Objective Original Development Objective	6833
 Objective PDO Statement	1264,603,9097,2368,2159,167,2446
 Objective PFM Public	11380
+Objective PFM Public Financial Management PHC	19284
 Objective PGMIS Poverty Graduation Management Information	15138
 Objective PIM Project Implementation Manual PIU	6539
 Objective PIM Project Implementation Manual PMU	1867
@@ -1373,10 +1399,10 @@ Objects of Unit The Unit	14743
 Objeetive	4301
 Objei	15429
 Objel Lo	15687
-Objet	1214,33,554,1595,1171,6269,40,12,251,383,45,476,1280,52,149,224,104,24,587,74,324,1,1,7,49,183,75,172,13,33,4,27,3,10,16,10,23,20,16,34,30,27,20,19,6,32,52,36,6,62,37,16,7,35,96,61,51,26,97,21,27,6,39,46,12,31,160,3,17,111,336,402,334,4,22,1,67,119,87,173,40
+Objet	1214,33,554,1595,1171,6269,40,12,251,383,45,476,1280,52,149,224,104,24,587,74,324,1,1,7,49,183,75,172,13,33,4,27,3,10,16,10,23,20,16,34,30,27,20,19,6,32,52,36,6,62,37,16,7,35,96,61,51,26,97,21,27,6,39,46,12,31,160,3,17,111,336,402,334,4,22,1,67,119,87,173,40,877,4,4,1,4,13,6,10,9
 Objet Acquisition	16395
 Objet Appel	16395
-Objet Art	15346
+Objet Art	15346,3873
 Objet Article	14429,40
 Objet Assurer	14537
 Objet Avis	16395
@@ -1495,6 +1521,7 @@ PAN-GIIG Axes Objectifs	17983
 PART THREE FUNDAMENTAL OBJECTIVES AND GUIDING	18597
 PARTIES PRENANTES IV.1.1. Objectifs IV.1.2. Actions	15848
 PB Object Storage	3487
+PCU for World Bank No Objection	19284
 PDO Outcomes Objective	18354
 PDO Project Development Objective	11965,3225
 PDO Project Development Objective PCU Project	15731
@@ -1503,12 +1530,14 @@ PDO Project Development Objective PHF Public	15663
 PDO Project Development Objective PI Productive	16187
 PDO Project Development Objective PIM Project	1264,17029
 PDO Project Development Objective PIU Project	17849,452
+PDO Project Development Objective PforR Program	19245
 PDO Project Development Objective The World	2473
 PDO Statement. The Project Development Objective	15659
 PDO. The ZEEP's Project Development Objective	13378
 PEI Project Development Objective PIM Partnership	10964
 PGT Objectif	15724
 PIA Objectives and Focus	13998
+PIB Objectif	19221
 PIU Program Development Objective PPSD Program-for-Results	11905
 PLAN D’ACTIONS Objectifs Actions	15583
 PLAN Plan Objective	11857
@@ -1532,7 +1561,7 @@ PRINCIPLES CHAPTER I OBJECTIVES AND PRINCIPLES	18597
 PROGRAM OF ACTIONS FOR THE OBJECTIVES	16885
 PROGRAMMES OBJECTIFS RESULTATS ATTENDUS ACTIONS	10712
 PROJECT DESCRIPTION A. Project Development Objective	11863,1993,82,4355
-PROJECT DEVELOPMENT OBJECTIVE	11863,1195,880,3532,35,1477
+PROJECT DEVELOPMENT OBJECTIVE	11863,1195,880,3532,35,1477,260
 PROJECT DEVELOPMENT OBJECTIVE AND COMPONENTS Project	11863,2075
 PROJECT DEVELOPMENT OBJECTIVE Current PDO	1284,15638
 PROJECT DEVELOPMENT OBJECTIVE Public Disclosure Authorized	10870
@@ -1591,7 +1620,7 @@ Prioritised Issues Goal Objective Aligned Strategies	15845
 Priority Area Specific Objective	970
 Private Sector Digitalisation OBJECTIVE	12674
 Program Action Plan Yes Development Objective	16032
-Program Development Objective	2712,892,2935,40,4291,547,488,3254,576,1723,12,35,501,364,713
+Program Development Objective	2712,892,2935,40,4291,547,488,3254,576,1723,12,35,501,364,713,159
 Program Development Objective PSC Project Steering	6539
 Program Development Objective and Components	17099,15
 Program Objective	17364
@@ -1602,7 +1631,7 @@ Programme Objectives	16253
 Programmes Objectif	15999
 Programmes. Original Development Objective	15990
 Project Appraisal Document Project Development Objective	15601
-Project Development Objective	427,801,639,1022,100,615,1049,967,919,4290,134,1,453,108,440,23,149,91,39,145,312,108,148,47,27,277,47,14,67,367,24,7,60,162,1,376,510,45,6,2,71,48,52,182,39,80,9,11,2,37,3,105,5,30,11,27,51,20,167,14,204,249,218,21,30,191,26,4,26,8,3,37,441,408,13,42,54,4,331,61,5,175,89,2,184
+Project Development Objective	427,801,639,1022,100,615,1049,967,919,4290,134,1,453,108,440,23,149,91,39,145,312,108,148,47,27,277,47,14,67,367,24,7,60,162,1,376,510,45,6,2,71,48,52,182,39,80,9,11,2,37,3,105,5,30,11,27,51,20,167,14,204,249,218,21,30,191,26,4,26,8,3,37,441,408,13,42,54,4,331,61,5,175,89,2,184,475
 Project Development Objective Improved	1988
 Project Development Objective Indicators	1228,56
 Project Development Objective Indicators PBC Baseline	13331
@@ -1619,11 +1648,11 @@ Project Development Objective Public Finance Management	15658
 Project Development Objective and Results Framework	18554
 Project Development Objective for KSEIP	14487
 Project Development Objective. Under	17096
-Project Development Objectives	10829,1095,1973,1514,13,87,90,130,12,693,178,24,1211,13,100,397,145,261,60
+Project Development Objectives	10829,1095,1973,1514,13,87,90,130,12,693,178,24,1211,13,100,397,145,261,60,424
 Project Development Objectives The SOP2	18504
 Project Level Project Development Objective Indicators	15411
-Project Objective	2712,1976,1891,349,949,3518,576,17,240,39,173,1480,50,86,891,33,639,116,2,276,66,559,67,289,6,79,17,808,54,48,127,217,4,1,118,61,258,25
-Project Objectives	12212,733,567
+Project Objective	2712,1976,1891,349,949,3518,576,17,240,39,173,1480,50,86,891,33,639,116,2,276,66,559,67,289,6,79,17,808,54,48,127,217,4,1,118,61,258,25,397,35
+Project Objectives	12212,733,567,5702
 Project Objectives and Components	13850
 Project Objectives and Components DEVOBJ TBL	14888,2072
 Project Objectives for The Gambia	16926
@@ -1633,7 +1662,9 @@ Project Summary and Objectives The USD200	15905
 Project Theory of Change Project Development Objectives	15731
 Project's Development Objectives	1228,56,15612
 Project. The Project Development Objective	17441
-Proposed Development Objective	761,503,2298,7401,1174,251,24,14,2484,26,685,122,401,2707
+Projects and Objectives	19214
+Projects and Objectives. The Program	19214
+Proposed Development Objective	761,503,2298,7401,1174,251,24,14,2484,26,685,122,401,2707,394
 Proposed Development Objective The Project Development	18374
 Proposed New Development Objective	15138
 Protect. Strategic Objective	1777
@@ -1652,6 +1683,7 @@ R Objective	15845
 R Refugee Board Objective	15845
 RAIN OBJET DU TITRE FONCIER N	17812
 REDEFINIR OS OBJETIVOS E ESTABELECER	16487
+REFORMES OBJECTIFS	19250,41
 REGIONAL LEADERSHIP THE STRATEGIC OBJECTIVES	14566
 REILA Project Objectives	13998
 RELTE OBJECTF Contribuer	15999
@@ -1734,6 +1766,7 @@ SEN Objetivo Operacional	18794
 SEN Objetivo Operativo	16898
 SERVICES ET APPLICATIONS Objectif	16195
 SG Strategic Objective Key Activity Area	17116
+SI Objectif	19362
 SIAF No. Objectif	17845
 SIAF Objectif	17845
 SIDA Indicateur Objectif	14622
@@ -1963,6 +1996,7 @@ United Nations Strategic Development Objectives	13320
 Upgrade Physical and Statistical Infrastructures Objective	16863
 V. OBJECTIVOS GERAIS	4146
 V.1. Objectif	13341
+V.3 AXES STRATEGIQUES ET OBJECTIFS OPERATIONNELS	19216
 V.4. OBJECTIF GLOBAL DE LA SNDS	18291
 V.4. Objectif	18291
 VALEURS ET OBJECTIFS II.1 Vision	13341
@@ -1990,6 +2024,7 @@ VISION QUALITY POLICY MISSION STATEMENT Objects	14736
 Valeur Période de No. Objectif	17845
 Values and SMART Objectives	12972
 Vision Globale Objectifs	16641
+Vision Objectif	19221
 Vision and Objective	13053
 Vision and Objectives	15034,2226
 Vision and Objectives Smart Rwanda Master Plan	12359
@@ -2000,7 +2035,7 @@ WATER AND SANITATION REFORM Objective	11236
 Western Africa. Has the Development Objective	16705
 Workforce E-Health Strategy Vision Mission Objectives	21
 Workshop Objectives	14090
-World Bank for No Objection	13332
+World Bank for No Objection	13332,5952
 World Bank for No Objection. Once	18887
 X MINTER All Agencies Objective	15845
 X MINTER Ghana Refugee Board Objective	15845

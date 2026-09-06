@@ -31,6 +31,7 @@ Africa Tech News	14674
 African News	13462
 African News Innovation Forum	13461
 Afrique IT News	8171
+Afrol News	19284
 Akhbar El Youm News Portal	17562
 Al Ain News	10334
 Al-Ahram Newspaper Online Portal	17647
@@ -95,6 +96,7 @@ CENTRE TO FIGHT FAKE NEWS	17277
 CENTRE TO FIGHT FAKE NEWS URL	17277
 CGIAR System News	18336
 CLOSE Online Special City News Entrepreneurship	9878
+CNSS Frequency Revised Newly	19284
 COOPSTAT NEWS	11423
 COOPSTAT NEWS N.º	11423
 CP Newsletter	17323,1
@@ -131,6 +133,8 @@ Citizen Daily Newspaper By Sabri	18723
 Citizen News Sita	7058
 Citizen-Owned Companies TechAfrica News	2735
 Cloud Computing News	2520
+Collection Revised Newly	19284
+Comments Newly	19284
 Comments Oldest Newest Most Voted Kushe	5390,965,827
 Communique Wagon NEWSLETTER From Keetmanshoop	13108
 Communique Wagon NEWSLETTER NamRA Backs Small	13044
@@ -172,6 +176,7 @@ Data-Driven Future News	17331
 Department News China	13309
 Description New-structure	5184
 Description Newly	3604
+Description Revised Newly	19284
 Development News Network	8522
 Development Partners Get Latest REG News	15255
 Digital Future News	7312
@@ -522,6 +527,9 @@ New-born	970,11280
 New.pdf	14830
 NewClimate Institute	8891
 NewDealTechnologique	2442,15933,1,12,31
+NewDigital	19284
+NewEpidemic	19284
+NewEstablishment	19284
 NewExecutive Lawof	16833
 NewFederal Republic Government of Nigeria Funding	4301
 NewFi	1284,15638
@@ -532,18 +540,22 @@ NewFin1 Total Project Cost Total Financing	15553
 NewFin1 WB Fiscal Year	18104,197
 NewFinEn	10963,1,891,3698
 NewFinEnh1 World Bank Group Financing International	13332,2181,37,71
+NewHealth	19284
 NewModels	14932
+NewPeople	19284
+NewReimbursement	19284
 NewSoft Presto	34
 NewSpace	2125,4048,7052
 NewSpace Africa	15167
 NewSpace Africa Conference	15167
 NewSpace Index	13225
+NewThe NSHI	19284
 NewTrails Capital	7015
 NewZimbabwe.com	3352,2381,2686,557
 NewZimbabwe.com Date	13675
 NewZimbabwe.com Facebook Instagram Youtube Sign	5733
 Newbold	236
-Newborn	771,106,3276,107,5928,577,10,1,641,829,194,289,745,537,138,1266,1874,873,465
+Newborn	771,106,3276,107,5928,577,10,1,641,829,194,289,745,537,138,1266,1874,873,465,657
 Newborn and Child Health	200,453
 Newborn and Child Health Services	14033
 Newborns	15725
@@ -558,7 +570,7 @@ Newfel Ferroudj	15410
 Newgry Money Tree	8732
 Newhouse	10763
 Newlegislations- Regulations-	16883
-Newly	718,510,2321,55,1049,7207,1117,441,520,1042,43,1121,816,1399,464,110
+Newly	718,510,2321,55,1049,7207,1117,441,520,1042,43,1121,816,1399,464,110,312,39
 Newly Licenced	15023
 Newly Registered Firms	12389
 Newly Registered Road Motor Vehicles and Motorcycles	2775
@@ -858,6 +870,7 @@ Open Health News	10881
 Ouestaf News	17830
 P.M. News	7003
 P.M. News. Admissible	7003
+PCU Frequency Revised Newly	19284
 PLL Newtec	998
 PR Newswire	16412
 PUBLICATIONS News and Events Laws and Regulations Government	16982
@@ -913,6 +926,7 @@ Reuters Digital News Report	13461
 Reuters Institute Digital News	13461
 Reuters Institute Digital News Report	13461
 Revise Newly	4653
+Revised Newly	19284
 RunyankoleEnglishLuganda English News Cybersecurity	9695
 Ruto News	14535
 SA News	13462
@@ -988,7 +1002,7 @@ Tech News Africa. Ghana	11118
 Tech News How the EU AI Act	8348
 Tech News Poland	9608
 Tech News Uber and China’s Pony AI	9608
-TechAfrica News	853,233,1063,7,1,1,10,83,99,213,92,43,3,352,64,267,25,80,75,18,113,88,82,298,17,17,273,2,25,22,3,1,102,29,10,63,8,162,29,178,29,215,67,10,8,28,63,312,7,25,5,24,8,67,108,56,195,4,188,12,153,11,54,18,44,229,17,133,77,52,27,22,29,439,88,292,1600,763,1,1,2,1,1,2874,107,1067,36,564,589,350,563
+TechAfrica News	853,233,1063,7,1,1,10,83,99,213,92,43,3,352,64,267,25,80,75,18,113,88,82,298,17,17,273,2,25,22,3,1,102,29,10,63,8,162,29,178,29,215,67,10,8,28,63,312,7,25,5,24,8,67,108,56,195,4,188,12,153,11,54,18,44,229,17,133,77,52,27,22,29,439,88,292,1600,763,1,1,2,1,1,2874,107,1067,36,564,589,350,563,2598
 TechAfrica News Camusat	3034
 TechAfrica News Editor	2459,2534,1193,1161,2556
 TechAfrica News Founder Akim Benamara	5752,2359

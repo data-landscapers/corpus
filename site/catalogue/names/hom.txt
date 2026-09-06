@@ -255,6 +255,7 @@ Femme Homme Pourcentage	13300,2299
 Femme Homme Variations	13300
 Femmes Hommes	10847
 Femmes Hommes Caractéristique En	13300
+Femmes Hommes Enfants	19226
 Femmes Hommes Ensemble Caractéristique Pourcentage Effectif	13300
 Femmes Hommes Ensemble Groupe	13300
 Femmes Hommes Ensemble VIH-positif VIH-négatif VIH-positif	13300
@@ -263,6 +264,7 @@ Femmes Hommes Méthode Ensemble des Femme Femme	13300
 Femmes Hommes Pourcentage de Pourcentage	13300
 Femmes Hommes Tabac	13300
 Femmes Hommes Total Départements	10975
+Femmes Hommes Total Pourcentage Appels	19250
 Femmes Hommes Tous	13300
 Fiber To The Home	1885,4399,1444
 Fiber-to-the Home	15136
@@ -313,6 +315,7 @@ HOMEGROWN	16942
 HOMELESSNESS	11192
 HOMENAGEM E REFLEXÃO	11473
 HOMENS	18757
+HOMETOWOU Gninevi SCH	19251
 HOMINDEVE MONDE RECHERCHES	15848
 HOMME	13300
 HOMME ADULTE	13300
@@ -322,7 +325,7 @@ HOMME PLUS NE CONNAÎT PAS L'ANNÉE	13300
 HOMME SEULEMENT ANNÉE	13300
 HOMME SÉLECTIONNÉ HOMME POUR CETTE SECTION	13300
 HOMME SÉLECTIONNÉ POUR LE MODULE SUR	13300
-HOMMES	13300,5457
+HOMMES	13300,5457,529
 HOMMES ET FEMMES Prévalence du VIH	13300
 HOMMES FEMMES MENAGE S	13390
 HOMMES FEMMES MENAGES	13390
@@ -461,7 +464,8 @@ Home Owners Allowance	11218
 Home Owners Allowance and Medical Aid	11218,6
 Home Ownership Scheme and Home Loan Payment	14742
 Home Ownership and Home Loan Payment Schemes	14761
-Home Page	3604,2935,727,6067
+Home Page	3604,2935,727,6067,5912
+Home Page English	19259
 Home Region Radio Television Telephone Fixed	18441
 Home Schemes	14748
 Home Screen	4042,1041,1763
@@ -549,7 +553,7 @@ Homicidio Accidente	16962
 Homm Femm TOT	13390
 Homm Femm TOT Homm Femm TOT	13390
 Hommage	8718,79,6758,672,2112
-Homme	308,429,494,86,1,672,51,1,290,45,415,16,237,74,1199,1,1526,22,996,41,1074,258,1,165,348,1490,125,22,439,15,6,51,68,1016,1282,36,25,5,60,52,316,23,678,402,412,87,5,6,26,3,5,5,16,3,3,29,6,21,8,4,57,45,1,12,88,9,45,10,169,29,284,14,60,156,146,8,2,6,43,768,67,303,7,12,18,4,36,8,42,1,28,5,8,12,29,24,6,16,23,9,59,117,2,22,2,11,4,5
+Homme	308,429,494,86,1,672,51,1,290,45,415,16,237,74,1199,1,1526,22,996,41,1074,258,1,165,348,1490,125,22,439,15,6,51,68,1016,1282,36,25,5,60,52,316,23,678,402,412,87,5,6,26,3,5,5,16,3,3,29,6,21,8,4,57,45,1,12,88,9,45,10,169,29,284,14,60,156,146,8,2,6,43,768,67,303,7,12,18,4,36,8,42,1,28,5,8,12,29,24,6,16,23,9,59,117,2,22,2,11,4,5,887,131,16
 Homme APEBFCI	15712
 Homme Art.29.2	14412
 Homme CNP	15848
@@ -598,6 +602,7 @@ Homme Femme Tableau	15685
 Homme Femme Total Femme Femme	13300
 Homme Femme Total S2Q07 Quelles	6959
 Homme HCA Haut Conseil	18310
+Homme IEE Initiative	19220
 Homme La Guinée-Bissau	16633
 Homme M Sexo	18757
 Homme Medecins	18105
@@ -938,6 +943,7 @@ SA Home Affairs	5326
 SECTION HOMMES ADULTES	13300
 SECÇÃO Homens Mulheres	18775
 SHS Solar Home System	18614,6
+SHS Solar Home System SIN Digital	19239
 SI HOMME	13300
 SIDA Homens	10760
 SME. Manuel Homem	5392

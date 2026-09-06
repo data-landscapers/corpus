@@ -95,7 +95,7 @@ Africa CDC Senior Regional Representative	17627
 Africa Eastern and Southern Region	11918
 Africa Global and Regional West African	16144
 Africa Joint Regional Strategy	17883
-Africa Region	1264,20,1605,895,2755,407,3876,327,268,132,11,405,961,1701,511,234,119,24,468,161,240,14,498,562,835,484,80
+Africa Region	1264,20,1605,895,2755,407,3876,327,268,132,11,405,961,1701,511,234,119,24,468,161,240,14,498,562,835,484,80,382,6
 Africa Region Aparajita Goyal	11149
 Africa Region CURRENCY EQUIVALENTS	3562,13390,910
 Africa Region Cesar Calderon	11149
@@ -135,6 +135,7 @@ African Regional Cooperative Agreement for Research	5756
 African Regional Cyber Sector Symposium. Hosting	6946
 African Regional Data Cube	345
 African Regional Hub	6133
+African Regional Integration Index	19365
 African Regional Integration Synthesized Index	9194,275
 African Regional Intellectual Property Organisation	14748
 African Regional Intellectual Property Organisation B-BBEE	11250
@@ -354,6 +355,7 @@ Cheick Fantamady Kante Regional Director	11924,3677,101,29
 Chief Regional Officer	13118
 Chief Regional Officers	13118
 Children’s Fund URP Regional Office	11525
+Children’s Fund WARCIP West African Regional	19245
 China's Xinjiang Uygur Autonomous Region and Guizhou	12864
 City Tripoli Country LY Continental Region	16948
 City and Regional Gov’t Resident ID	12202
@@ -492,10 +494,12 @@ Developing Regions	93,851,11681
 Development and Regional Planning-Administrative	18305
 Development and Regionalization Project	14997
 Diaspora Regional Networkings	7649
+Digital Health Sector Region Asset EHR	19284
 Digital Regional Payment Platform	10372
 Digital and AI Regional Practice Director	5395
 Dihlabeng Regional Hospital	11248
 Direction Regionale	10940,3502,220
+Direction Regionale des Plateaux	19239
 Direction des Hopitaux des Regions	14442
 Directions Regionales	14472,190
 Directive and Regional Postal Master Plan	10509
@@ -1004,6 +1008,7 @@ Kuakata Cable Landing Station of Regional Submarine	17432
 Kumasi Regional Office	17549
 Kunene Region	12982,2,113,7
 L'ACTION COMMUNALE ET REGIONALE ARTICLE	15469
+LA REGION DES SAVANES SUR LEURS	19252,21
 LABOUR ENVIRONMENT Regional Integration	10759,78,1052,451
 LAND ADMINISTRATION AND REGIONAL	17228
 LAND ADMINISTRATION AND REGIONAL GOVERNANCE	17228
@@ -1260,9 +1265,9 @@ Oti Regions	16346
 Oti and Eastern Regions	16524
 Oti and Volta Regions	16596
 Otjozondjupa Region	12982
-Ousmane Diagana Regional Director	11560,345,3753,1,2,526,197,565,1410
+Ousmane Diagana Regional Director	11560,345,3753,1,2,526,197,565,1410,880,6
 Ousmane Diagana Regional Integration Director	17862
-Ousmane Diagana Regional Practice Director	3604,12139,39,187,14,161,2054
+Ousmane Diagana Regional Practice Director	3604,12139,39,187,14,161,2054,1086
 Ousmane Diagana. Regional Director	15802
 Ousmane Diagana. Regional Practice Director	11965
 Ousmane Dione Regional Director	13856
@@ -1319,8 +1324,10 @@ Planning and Regional Development	103,5234,5504,5699
 Planning and Regional Development Conseil National	15501
 Plano de Acão Regional Africano	15477
 Plano de Ação Regional	17323
+Plateaux Region	19325
 Plateaux Region Land Restoration	3437,3942,47
 Plateaux Region Togo	3437,3942,47
+Plateaux Region URL	19325
 Poder Regional	18751
 Point WARCIP West African Regional Communications	15621
 Police Academy and Regional Police Commanders	11062
@@ -1456,7 +1463,7 @@ REGIONAL FOCUS	4972
 REGIONAL HOSPITAL	18493,15,6,7,45
 REGIONAL ICT REGULATORY FORUM	14022
 REGIONAL IMPLEMENTATION STRATEGIES AND STRUCTURES	17017
-REGIONAL INTEGRATION	18537,394
+REGIONAL INTEGRATION	18537,394,434
 REGIONAL INTEGRATION AND POWER TRADE	12563
 REGIONAL INTEGRATION Decentralization	14935
 REGIONAL INTEGRATION Mali	17870
@@ -1511,6 +1518,7 @@ REGIONAUX ET SUBREGIONAUX DES DOMAINES ET	17982
 REGIONES	4209
 REGIONES CATEGORÍA MINISTERIO CONCEPTO ACTUAL CATEGORÍA	4209
 REGIONES Y JEFATURAS MILITARES.- Concepto	4209
+REGIONS	19286
 REGIONS DE GENDARMERIE	16100
 REGIONS DE GENDARMERIE Capitaines	16100
 REGIONS DE GENDARMERIE SECURITE GENDARMERIE Capitaine	16100
@@ -1524,6 +1532,7 @@ REGISTRO DE PROPIEDAD DE LA REGION	4209
 RELATIONS WITH OTHER REGIONAL AND INTERNATIONAL	14409
 REQUESTS State Parties and Regional Economic Communities	19067
 RESTAURANTES CAPITALES DE REGIONES CAPITALES	4209
+RF Resettlement Framework ROGEAP Regional Off-grid	19239
 RFSs Regional Field Supervisors SA Supervisory	16921
 RHV Added Value MVA Regional Handicrafts	10980
 RIMES Regional Integrated Multi-Risk Early Warning	13729
@@ -1542,7 +1551,7 @@ Recommendations for WATRA and Regional Institutions WATRA	5676
 Rede Regional	11527
 Reform Within the Regional Framework	15298
 Regio	18764
-Region	92,37,20,37,10,17,1,22,14,48,47,3,1,15,99,2,59,58,44,4,48,48,2,105,8,128,94,1,4,2,1,1,1,86,47,1,1,56,180,1,1,1,1,19,90,608,76,534,55,774,258,1110,468,350,642,778,242,24,215,72,87,19,734,124,164,176,694,840,117,41,26,9,18,10,7,6,2,1,2,1,71,52,4,242,24,146,90,55,28,314,3,11,1,4,1,2,6,10,30,211,7,1,6,3,13,23,2,3,22,30,84,1,11,1,12,8,10,17,9,3,14,22,40,62,185,213,14,8,2,5,83,37,92,784,11,21,19,89,123,322,217,70,345,2,438,28,3,11,53,18,7,95,394,2,25,51,279,8,72,22,70,2,1,81,1,4,10,20,39,9,14,79,15,71,38,83,182,53,273,361,197,140,2,21,6,5,159,59,492
+Region	92,37,20,37,10,17,1,22,14,48,47,3,1,15,99,2,59,58,44,4,48,48,2,105,8,128,94,1,4,2,1,1,1,86,47,1,1,56,180,1,1,1,1,19,90,608,76,534,55,774,258,1110,468,350,642,778,242,24,215,72,87,19,734,124,164,176,694,840,117,41,26,9,18,10,7,6,2,1,2,1,71,52,4,242,24,146,90,55,28,314,3,11,1,4,1,2,6,10,30,211,7,1,6,3,13,23,2,3,22,30,84,1,11,1,12,8,10,17,9,3,14,22,40,62,185,213,14,8,2,5,83,37,92,784,11,21,19,89,123,322,217,70,345,2,438,28,3,11,53,18,7,95,394,2,25,51,279,8,72,22,70,2,1,81,1,4,10,20,39,9,14,79,15,71,38,83,182,53,273,361,197,140,2,21,6,5,159,59,492,99,2
 Region ADMINISTRATIVE REGION SENIOR SECONDARY	18461
 Region AFR	10785
 Region AFRICA Conflicts	18358
@@ -1629,6 +1638,7 @@ Region and Rating	2775
 Region and The Secretariat	16867
 Region and Type	8891
 Region of Origin	16935
+Region of Plateaux	19239
 Region&author	1219
 Region-3	16853
 Region-Independent Directors	585
@@ -1643,7 +1653,7 @@ Region. FMOH	1219
 Region. Prime Minister Modi	11183
 Regionai Oo Report	3972
 Regionais	2816,8619,79,5544,1740
-Regional	7,56,108,383,28,127,80,22,83,67,9,78,216,13,323,95,9,73,37,38,254,12,559,99,100,678,29,276,2,111,154,242,63,83,14,16,39,96,55,19,110,26,321,16,90,33,216,53,12,45,2,235,136,45,3,92,51,72,50,61,4,45,68,181,96,26,86,8,1,1,8,171,34,24,46,99,180,48,114,171,132,2,107,69,98,285,2,18,181,109,163,16,52,52,497,6,11,76,50,2,97,111,106,82,1,11,19,72,61,24,43,326,36,90,1,3,8,87,37,28,2,127,1,2,13,42,71,9,146,3,80,24,39,9,14,245,26,10,7,5,2,24,15,32,12,187,34,7,34,7,45,47,21,4,17,16,16,101,1,11,38,82,43,54,177,11,4,51,3,2,5,60,53,73,104,40,2,104,56,20,18,255,177,127,7,59,457,80,46,9,19,10,121,17,14,2,16,69,22,110,35,56,64,58,30,52,6,70,56,45,3,11,150,174,205,116,6,221,218,143,4,1,14,5,2,13,37,12,6,2,3,26,23,21,1,25,56,15,13,30,78,13,4,8,14,13,154,98,106,24,120,73,7,1,64,16,154,19,2,168,12,4,149,74,5,81,26,103,7,46,87,22,54,79,25,124
+Regional	7,56,108,383,28,127,80,22,83,67,9,78,216,13,323,95,9,73,37,38,254,12,559,99,100,678,29,276,2,111,154,242,63,83,14,16,39,96,55,19,110,26,321,16,90,33,216,53,12,45,2,235,136,45,3,92,51,72,50,61,4,45,68,181,96,26,86,8,1,1,8,171,34,24,46,99,180,48,114,171,132,2,107,69,98,285,2,18,181,109,163,16,52,52,497,6,11,76,50,2,97,111,106,82,1,11,19,72,61,24,43,326,36,90,1,3,8,87,37,28,2,127,1,2,13,42,71,9,146,3,80,24,39,9,14,245,26,10,7,5,2,24,15,32,12,187,34,7,34,7,45,47,21,4,17,16,16,101,1,11,38,82,43,54,177,11,4,51,3,2,5,60,53,73,104,40,2,104,56,20,18,255,177,127,7,59,457,80,46,9,19,10,121,17,14,2,16,69,22,110,35,56,64,58,30,52,6,70,56,45,3,11,150,174,205,116,6,221,218,143,4,1,14,5,2,13,37,12,6,2,3,26,23,21,1,25,56,15,13,30,78,13,4,8,14,13,154,98,106,24,120,73,7,1,64,16,154,19,2,168,12,4,149,74,5,81,26,103,7,46,87,22,54,79,25,124,54,39
 Regional AI	6948,6292
 Regional AI Agenda	18705
 Regional AI Capacity Spillover Existing Industry	15713
@@ -1900,6 +1910,7 @@ Regional Dissemination Infographics	16330
 Regional Distribution	17127
 Regional Distribution of Customer Connections Changes	12969
 Regional Distribution of FM Stations	2776
+Regional Distribution of Jobs	19284
 Regional Durable Solutions Secretariat	12227
 Regional EGDI	1893
 Regional Economic Communities	26,1,1,933,282,14,7,503,47,2309,1240,462,1113,857,540,859,61,354,867,673,134,1659,121,247,170,1006,1155,1316,596,192,177,1145
@@ -1928,7 +1939,7 @@ Regional Electricity Distributors	12399,642,92
 Regional Electricity Regulators Association	12969
 Regional Electricity Regulatory Authority	18537
 Regional Emergency Solar Power Intervention	10180,7018
-Regional Emergency Solar Power Intervention Project	6523,12014
+Regional Emergency Solar Power Intervention Project	6523,12014,702
 Regional Emergency Solar Project. Nant Energy	18582
 Regional Energy Governance and Information System for West	16768
 Regional Energy Regulators Association of Southern Africa	12969
@@ -1995,6 +2006,7 @@ Regional Health Data Sharing and Protection Policy	14434
 Regional Health Directors	14773
 Regional Health Information System	3791
 Regional Health Information System SOP Standard	3791
+Regional Health Team	19284
 Regional Health Zones	14742
 Regional Higher Education Transformation	17577
 Regional Hospital	14773
@@ -2009,6 +2021,7 @@ Regional IDA	15372,3382,133
 Regional IDA National IDA GOC	15372
 Regional IPS	5237
 Regional ISAC	13880
+Regional IX	19259
 Regional IXP	578
 Regional IXP and Regional Internet Carrier	16854
 Regional Imperative	17007
@@ -2037,11 +2050,12 @@ Regional Insights and Forecast	10718
 Regional Institute for Population Studies	9312
 Regional Institutions	961,12628
 Regional Institutions No Appraisal Summary	18359
+Regional Institutions No Clients Beneficiary Countries	19284
 Regional Instrument Centre	11553
 Regional Instruments	16951
 Regional Insurance Supervisory Commission	6938
 Regional Integrated Budget	15790
-Regional Integration	1179,2425,510,1127,1696,218,547,3057,76,2,1,74,56,581,321,16,2,1,16,247,1,1,9,177,1,11,1,135,474,601,92,424,72,667,94,641,106,1379,67,226,1423,133
+Regional Integration	1179,2425,510,1127,1696,218,547,3057,76,2,1,74,56,581,321,16,2,1,16,247,1,1,9,177,1,11,1,135,474,601,92,424,72,667,94,641,106,1379,67,226,1423,133,358
 Regional Integration And Employment	17038
 Regional Integration And Inclusion	10909
 Regional Integration Assistance Strategy	15511
@@ -2314,7 +2328,7 @@ Regional Value Chains Pillar	11149
 Regional Value Chains. Chapter	11149
 Regional Verification Officers	16922
 Regional Vetting	16853
-Regional Vice President	969,295,20,583,1022,673,42,2935,126,4103,196,416,37,132,11,279,16,50,19,41,211,605,550,1,127,275,8,1,93,20,5,595,481,39,88,74,52,234,67,20,4,3,35,68,37,1,2,2,39,29,12,39,187,14,49,112,240,14,524,27,3,489,17,391,13,100,236,95,8,324,140,12,32,16
+Regional Vice President	969,295,20,583,1022,673,42,2935,126,4103,196,416,37,132,11,279,16,50,19,41,211,605,550,1,127,275,8,1,93,20,5,595,481,39,88,74,52,234,67,20,4,3,35,68,37,1,2,2,39,29,12,39,187,14,49,112,240,14,524,27,3,489,17,391,13,100,236,95,8,324,140,12,32,16,414,6,39
 Regional Vice President Iffath Anwar Sharif	11924
 Regional Vice President for Eastern and Southern Africa	6539
 Regional Vice President of Sales	5528
@@ -2524,6 +2538,7 @@ Santa Rita Vieira Regional Hospital	15590
 Santé PPP Partenariat Public-Privé RCIP2 Regional	13341
 Sao Tome and Principe. Region	11420
 Satellite and Regional Models Satellite	11191
+Savanes Region	19239
 Savannah Region	17591
 Savannah Region. Mr Iddrisu	17591
 Savannah Regional Office	16511
@@ -2538,6 +2553,7 @@ Secretário Regional	17147
 Secretário Regional Administrativo de Bolama Queba Sanhá	17333
 Sector and Establishment Type Region Formal Informal	15085
 Select the Regional Initiative	578
+Selected Regions	19249
 Senegal Horn of Africa Regional Express	5681,6284
 Senegal’s Rice Regions for National Food and Economic	18336
 Senior Regional Manager of Open Ownership	17037
@@ -2784,17 +2800,18 @@ West Africa Regional Communications Infrastructure Project	221,86,957,14286
 West Africa Regional Communications Program	18456
 West Africa Regional Connectivity Infrastructure Program	18754
 West Africa Regional Digital Inclusion Project	17235
-West Africa Regional Digital Integration Program	5750,1160,4642,5547
+West Africa Regional Digital Integration Program	5750,1160,4642,5547,2146
 West Africa Regional Digital Integration Project	10884,661,5532,28,9,1390
 West Africa Regional Digitalization Integration Program	17114
 West Africa Regional Electricity Market	7426
 West Africa Regional Electricity Market Program	17352,1
 West Africa Regional Infrastructure Program	15424
 West Africa Regional Office	17656
-West Africa Unique Identification for Regional Integration	312,240,665,47,67,596,390,110,354,646,10,415,13,659,1055,512,1335,3396,34,53,4641,185,649,715,75,1116
+West Africa Unique Identification for Regional Integration	312,240,665,47,67,596,390,110,354,646,10,415,13,659,1055,512,1335,3396,34,53,4641,185,649,715,75,1116,955,39
 West Africa. On Regional Trade	7452
 West Africa. The Regional Access Increase	17352,1
 West African Region	4840
+West African Regional Communication Infrastructure Program	19221
 West African Regional Communications Infrastructure Program	3461
 West African Regional Digital Integration Project	16144,2360
 West Coast Region	14260,2606,49,412,20
@@ -2817,7 +2834,7 @@ Western Indian Ocean Region	14845,4215
 Western Region	2776,4919,4561,4601,39,26,1539,3
 Western Region Education Office	16162
 Western Region of Cameroon	16222
-Western and Central Africa Region	17311
+Western and Central Africa Region	17311,1934
 Western and Central Africa Region Task Team	15959
 Western and Central Africa Regional	1264
 Western and Central African Region	15658
@@ -2840,8 +2857,9 @@ World Bank West Africa Regional	17862
 World Bank Western Africa Regional	16144
 World Bank Western Africa Regional Digital	16144
 World Bank Western and Central Africa Region	10964,4589
+World Bank Western and Central Africa Regional	19245
 World Bank's Regional Integration Unit	14022
-World Bank-financed West African Regional Communications	15621
+World Bank-financed West African Regional Communications	15621,3624
 World Bank-financed Western Africa Regional Digital	17380
 World Bank-funded Regional West Africa Unique	4855
 World Bank-funded SADC Regional Statistics Project	3476

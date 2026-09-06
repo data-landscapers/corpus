@@ -80,6 +80,7 @@ CAR Emergency Food Crisis Response	15658
 CBC EMEA Ltd	3862
 CBC Emea	3862
 CBC Emea Ltd	3862
+CERC Contingent Emergency Response Component CE	19284
 CERC Contingent Emergency Response Component CHW	10829
 CERC Contingent Emergency Response Component CIF	15518
 CERC Contingent Emergency Response Component CIL	15621
@@ -164,16 +165,18 @@ Congo Emergency Equity and System	15693
 Congo Emergency Equity and System Strengthening	15693
 Consumer Confidence Emerging Technologies	7548
 Continency Emergency Response Component	13331
+Contingency Emergency Component	19284
 Contingency Emergency Reconstruction Component	1228
 Contingency Emergency Response	13331,4970
 Contingency Emergency Response Comment	13392
-Contingency Emergency Response Component	2989,7779,195,1002,2611,977,108,76,276,174,2622
+Contingency Emergency Response Component	2989,7779,195,1002,2611,977,108,76,276,174,2622,475
 Contingency Emergency Response Component. Following	14576
 Contingency Emergency Response Part	16936
 Contingency Fund for Emergencies	15966
+Contingency Response Component Emergency Response Component	19284
 Contingent Emergency	1284
 Contingent Emergency Response	1284,3369,2275,4489,554,204,1156,1125,97,357,608,184,442,292,1522,397,268,186,8
-Contingent Emergency Response Component	761,235,232,36,20,300,283,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61,990,2,226,353,27,35,66,2,37,1,2,82,39,187,14,96,65,43,197,52,460,26,4,68,6,96,3,15,848,171,160,8,49,4,5,97,48,30,275,124
+Contingent Emergency Response Component	761,235,232,36,20,300,283,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61,990,2,226,353,27,35,66,2,37,1,2,82,39,187,14,96,65,43,197,52,460,26,4,68,6,96,3,15,848,171,160,8,49,4,5,97,48,30,275,124,312,4,35
 Contingent Emergency Response Component CERC Country	11417
 Contingent Emergency Response Component CERC Steering	1228
 Contingent Emergency Response Component CPF Comité	10964
@@ -281,6 +284,7 @@ EMERG.EXPENDITUR	18359
 EMERGENCIES	16835
 EMERGENCY	775,16382
 EMERGENCY CALLS RECEIVED	14760
+EMERGENCY EXPENDITURES PT	19284
 EMERGENCY RESPONSE PLAN E-WASTE	12253
 EMERGING ISSUES Chapter	2775
 EMERGING PRIORITY AREAS	18624
@@ -353,7 +357,7 @@ Emergencies Relatório Anual da OMS	10776
 Emergencies Specialist	19093
 Emergencies URL	15117
 Emergencies and Natural Disasters	17934
-Emergency	11,567,1410,485,516,1138,526,1779,515,1656,520,595,1,47,89,520,401,68,120,21,151,92,152,37,443,513,48,308,202,18,1725,64,129,29,16,4,29,136,21,90,14,136,176,83,57,1,2,27,25,132,56,58,54,539,287,63,32,2,5,167,6,43,93,656,217,75,172,162,79,90,203,150
+Emergency	11,567,1410,485,516,1138,526,1779,515,1656,520,595,1,47,89,520,401,68,120,21,151,92,152,37,443,513,48,308,202,18,1725,64,129,29,16,4,29,136,21,90,14,136,176,83,57,1,2,27,25,132,56,58,54,539,287,63,32,2,5,167,6,43,93,656,217,75,172,162,79,90,203,150,195
 Emergency Action	6947
 Emergency Action Plan	13331,2327,1,310,175,792,163,15,1390
 Emergency Aid Install	17157
@@ -494,7 +498,7 @@ Emergent	4259,180,7775
 Emergent du Sénégal	11529
 Emergentes	2816
 Emergents	16626
-Emerging	21,937,3,200,87,529,47,269,3,238,441,1948,183,226,92,17,1,991,599,106,8,92,260,250,242,156,20,56,179,1,258,145,440,645,19,120,323,19,290,503,42,44,84,1,5,15,170,530,2,353,4,41,42,59,43,45,257,261,108,10,279,946,361,10,53,23,67,146,32,26,11,113,17,208,588,827,115,68,5,42,99,248,94,81,241,9,81,659,165
+Emerging	21,937,3,200,87,529,47,269,3,238,441,1948,183,226,92,17,1,991,599,106,8,92,260,250,242,156,20,56,179,1,258,145,440,645,19,120,323,19,290,503,42,44,84,1,5,15,170,530,2,353,4,41,42,59,43,45,257,261,108,10,279,946,361,10,53,23,67,146,32,26,11,113,17,208,588,827,115,68,5,42,99,248,94,81,241,9,81,659,165,590
 Emerging A1- Classification	7548
 Emerging A1- Framework	7548
 Emerging A1- Guidelines	7548
@@ -933,11 +937,13 @@ Health Emergencies ECOWAS Economic Community of West	18198
 Health Emergencies Preparedness	12729
 Health Emergencies Rapidly Detected And Responded	10776
 Health Emergency Fund BFCI Iniciativa Hospitais	15966
-Health Emergency Preparedness	11417,3249
+Health Emergency Preparedness	11417,3249,4618
 Health Emergency Preparedness and Response	16922
 Health Emergency Preparedness and Response HMIS Health	16922
-Health Emergency Preparedness and Response Multi-Donor Trust	16922
+Health Emergency Preparedness and Response Multi-Donor Trust	16922,2362
+Health Emergency and Preparedness Multi-Donor Trust Fund	19284
 Health Emerging	12240
+Health Record HEPR TF Health Emergency	19284
 Health Sector Emergency and Response Plan	16874
 Henry Emejuo	10262
 Hommes Nations International Children's Emergency Fund	17882
@@ -1022,7 +1028,7 @@ MDAs Public Service Annual Emerging Technologies	7548
 MEASUR EMENT BASEL INE	13938
 MEBAPLN’s Technical Secretariat for Emergency Education	15743
 MEDICAL EMERGENCIES	12976
-MILLION FROM THE HEALTH EMERGENCY PREPAREDNESS	16922
+MILLION FROM THE HEALTH EMERGENCY PREPAREDNESS	16922,2362
 Madam Emelia Arthur	10112
 Maiduguri Emergency Power Plant	12062,6124,31
 Malagasy Emergence Initiative	14421
@@ -1210,7 +1216,7 @@ Public Health Emergencies	14434
 Public Health Emergency Account	4217
 Public Health Emergency Management	4349
 Public Health Emergency Management Information System	4349
-Public Health Emergency Operations Center	12003,4406,848
+Public Health Emergency Operations Center	12003,4406,848,2027
 Public Health Emergency Operations Centers	11417
 Public Health Emergency Operations Centers and Outbreak	4260
 Public Health Emergency Operations Centre	16591,507
@@ -1227,7 +1233,7 @@ Reduction and Emergency	15845
 Referral and Emergency Complex	12976
 Regional Centre of Excellence for Emerging Technologies	18689
 Regional Emergency Solar Power Intervention	10180,7018
-Regional Emergency Solar Power Intervention Project	6523,12014
+Regional Emergency Solar Power Intervention Project	6523,12014,702
 Regional Emergency Solar Project. Nant Energy	18582
 Republic of Zambia HEPRR Health Emergency Preparedness	1867
 Rescue and Emergency Services	11134
@@ -1300,6 +1306,7 @@ Telecommunications Regulations for Emergency Situations	14944
 Telecommunications. Emerging	1777
 Termination of Emergency	13042
 Through the WHO Health Emergencies	17289
+Tools and Capacity Building for Emerging Economies	19245
 Towards the Emergence	17870
 Traffic Management and Emergency	15659
 Training Emerging Technologies Technologies	7548

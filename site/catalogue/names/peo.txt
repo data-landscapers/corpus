@@ -65,7 +65,7 @@ Chinese People’s Republic	2518
 Cisco Executive VP and Chief People	14688
 Climate Resilient Community Infrastructure People	1867
 Closing Period Revise People	4653
-Collection People	15658
+Collection People	15658,3587
 Collection Responsibility for Data MoHAIS Collection People	1867
 Cook Islands Fiji Kiribati Lao People	13042
 Cultural Cooperation and People	18378
@@ -184,7 +184,7 @@ Human and Peoples' Rights. Continued	3583
 Human and Peoples' Rights. Joof	9313
 Human and Peoples' Rights29	3583
 Human and Peoples’ African	17950
-Human and Peoples’ Rights	961,853,1191,2316,212,655,763,727,1404,1647,46,320,5,1940,1369,333,119,13,2077,7,59,1,278,449
+Human and Peoples’ Rights	961,853,1191,2316,212,655,763,727,1404,1647,46,320,5,1940,1369,333,119,13,2077,7,59,1,278,449,1489
 Human and Peoples’ Rights AKRM	14742
 Human and Peoples’ Rights Declaration of Principles	9416
 Human and People’s Right	14742
@@ -212,7 +212,7 @@ Indigenous People Planning Framework	13331,2041
 Indigenous People Policy	15372
 Indigenous People Policy Framework	15518
 Indigenous People and Ethnic Minorities	15663
-Indigenous Peoples	1243,624,121,1616,7164,61,134,1,321,132,143,345,232,1386,1387,462,146,35,48,57,3,483,792,178,1084,176,513
+Indigenous Peoples	1243,624,121,1616,7164,61,134,1,321,132,143,345,232,1386,1387,462,146,35,48,57,3,483,792,178,1084,176,513,352,6,39
 Indigenous Peoples OP	11525,330,282,3274,2693
 Indigenous Peoples Plan	10829,561,3982,139,7
 Indigenous Peoples Planning Framework	10964,4408,139,42,48
@@ -295,6 +295,7 @@ Outputs People	12241
 P Peopodiia	15999
 P17240506 Toward More People-Centered Service Delivery	984
 PBF National Technical Unit People	10829
+PDO Outcomes Description People	19284
 PEOPLE	10719,133,3894,27,3703
 PEOPLE COULD	10977
 PEOPLE Enhance	14734
@@ -325,7 +326,7 @@ PU and PEOU	8130
 Pacific T5 Building Afghanistan Dem. People	10764
 Palestinian Arab People	17438
 Palestinian People	7060
-People	36,535,369,60,4,215,9,36,380,60,110,53,86,140,214,288,117,61,185,21,196,203,57,21,148,87,273,63,274,67,285,35,65,57,53,101,198,159,28,50,75,59,18,19,9,18,3,11,89,2,208,204,204,261,254,95,18,95,38,125,5,69,83,74,11,305,12,14,12,88,33,91,100,29,21,31,110,27,61,78,92,126,30,132,135,129,21,114,138,22,176,35,8,6,44,30,22,54,13,117,11,46,99,41,36,38,15,26,70,29,28,119,29,82,25,43,53,9,13,12,2,40,33,21,7,11,12,4,14,88,19,2,62,59,30,1,25,7,6,47,21,15,80,19,5,113,38,18,38,65,145,39,28,24,13,28,35,24,1,6,15,2,6,12,75,3,6,97,15,6,6,6,7,1,39,33,17,11,5,40,5,6,16,13,54,46,67,382,15,4,18,41,55,16,11,157,108,74,46,101,309,3,10,8,10,41,19,2,21,2,32,86,415,140,17,11,4,4,4,2,12,12,14,49,39,85,6,13,26,3,10,4,13,2,23,56,23,10,11,85,49,49,57,48,31,2,38,1,34,68,37,1,310,44,19,47,7,58,43,1,141,256,120,110,61,7,3,10,26,20,1,6,11,13,21,53,22,10,20,2,13,2,3,38,399,29,98,16,1,18,12,56,83,35,58,171,65,157,4,97,20,9,174,6,78,47,19,7,1,70,46
+People	36,535,369,60,4,215,9,36,380,60,110,53,86,140,214,288,117,61,185,21,196,203,57,21,148,87,273,63,274,67,285,35,65,57,53,101,198,159,28,50,75,59,18,19,9,18,3,11,89,2,208,204,204,261,254,95,18,95,38,125,5,69,83,74,11,305,12,14,12,88,33,91,100,29,21,31,110,27,61,78,92,126,30,132,135,129,21,114,138,22,176,35,8,6,44,30,22,54,13,117,11,46,99,41,36,38,15,26,70,29,28,119,29,82,25,43,53,9,13,12,2,40,33,21,7,11,12,4,14,88,19,2,62,59,30,1,25,7,6,47,21,15,80,19,5,113,38,18,38,65,145,39,28,24,13,28,35,24,1,6,15,2,6,12,75,3,6,97,15,6,6,6,7,1,39,33,17,11,5,40,5,6,16,13,54,46,67,382,15,4,18,41,55,16,11,157,108,74,46,101,309,3,10,8,10,41,19,2,21,2,32,86,415,140,17,11,4,4,4,2,12,12,14,49,39,85,6,13,26,3,10,4,13,2,23,56,23,10,11,85,49,49,57,48,31,2,38,1,34,68,37,1,310,44,19,47,7,58,43,1,141,256,120,110,61,7,3,10,26,20,1,6,11,13,21,53,22,10,20,2,13,2,3,38,399,29,98,16,1,18,12,56,83,35,58,171,65,157,4,97,20,9,174,6,78,47,19,7,1,70,46,287,22,3,39
 People Act	14788
 People Affected	12977
 People Affected Households Affected B. Hailstorms	12977
@@ -512,6 +513,7 @@ Sarker D. Financial Inclusion of Disabled People	12231
 Science and Community People	11332
 Second International Decade for People of African Descent	14751
 Senegalese Federation of Associations of Disabled People	18305
+Sep-2024 People	19242
 Services Provided and People Assisted	12977
 Seychelles People's Defence Forces	18914
 Seychelles People's National Movement	19102
@@ -561,9 +563,10 @@ WardheerNews Everyday People	3615
 Water for People	7849
 Western Africa People	16144
 Windhoek People-Centred Smart City Strategy	4495,2614,1861
+World Bank Group Scorecard. People	19284
 World Bank Group and People's Bank of China	11130
 X Indigenous Peoples OP	17441
-Year People	2712,1976,3189,2993,1101,4734,1650,4,458
+Year People	2712,1976,3189,2993,1101,4734,1650,4,458,425
 Year Revise People	16032
 Year Value Indicator Name People	6579
 Young People	14067,485,695,3194

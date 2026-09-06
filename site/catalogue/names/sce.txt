@@ -36,7 +36,7 @@ Fête Du Travail Sous Le Sceau	15625,1
 GARDE DES SCEAUX	16099,76,206
 GARDE DES SCEAUX RELATIF	8236
 GENERATION SCENARIOS AND OPTIONS	11366
-Garde des Sceaux	1214,1594,237,74,1006,1352,390,1037,1074,87,122,49,166,1434,169,893,682,1684,26,920,204,17,52,378,1,8,23,18,191,24,51,356,27,37,160,36,459,21,108,126,18,91,68,33,1100,24,108,42,12,29,255,705,201
+Garde des Sceaux	1214,1594,237,74,1006,1352,390,1037,1074,87,122,49,166,1434,169,893,682,1684,26,920,204,17,52,378,1,8,23,18,191,24,51,356,27,37,160,36,459,21,108,126,18,91,68,33,1100,24,108,42,12,29,255,705,201,25
 Garde des Sceaux Anicette NANDA OVIGA	15371
 Garde des Sceaux EN	14862
 Garde des Sceaux Edgard Anicet MBOUMBOU MIYAKOU	15464
@@ -67,7 +67,7 @@ International Scene World	2775
 International Scene World Real GDP Growth	2775
 KOUPAKI Le Gorde des Sceoux	10813
 La SCEPAC	13781
-Le Garde des Sceaux	5867,2535,6061
+Le Garde des Sceaux	5867,2535,6061,4755
 Le Garde des Sceaux Youssouf Tom	5671
 Le Gorde des Sceoux	15397,41
 Le Gorde des Sceoux. Minislre	15561
@@ -80,6 +80,7 @@ Manager of Scenious Hub	8330
 Mbaye Scellé	4960,62,2035
 Medium Fertility Scenarios	16935
 Medium Fertility Scenarios. Housing Characteristics	16935
+Modeling Approaches and Future Scenarios	19284
 NATIONAL D’APPUI AUX COLLECTIVITES Garde des Sceaux	17817
 National Security Scenario	19133
 Nationale Catholic Relief Sces Paludisme	18105
@@ -118,7 +119,7 @@ SOCIAL SCENE Chapter	2775
 Sceau	1214,12310,1337,1,8,23,18,191,24,51
 Sceau Institut National	15599
 Sceau de Sa Majesté Hassan II	17535
-Sceaux	9726,279,2517,742,1199,998,1241,882,448
+Sceaux	9726,279,2517,742,1199,998,1241,882,448,1186
 Scellé	10875,5124
 Scellé du Sceau	13323,7
 Scenarii	15685

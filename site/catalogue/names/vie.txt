@@ -31,16 +31,17 @@ CHARGE DE LA VIE ASSOCIATIVE CABINET	16175
 CHARGE DE LA VIE ASSOCIATIVE DIRECTION	16099
 CONCEPTUAL VIEW OF THE INTEROPERABILITY ARCHITECTURE	1009
 CONDITIONS DE VIE	13300
+CONDITIONS DE VIE DES MENAGES Tableau	19350
 CORNER VIEW LIMITED Data Controller INST-237909FEEAA	7167
 CRATER VIEW AUCTIONEERS Data Processor INST-6296581CC35	7167
 Cabinet No Result View All Result	5774
-Cadre de Vie	3045,1824,1431,4614,4603,240,179,176,279,27,67,136,963,695
+Cadre de Vie	3045,1824,1431,4614,4603,240,179,176,279,27,67,136,963,695,934
 Cadre de Vie Culture	4895
 Cadre de Vie Je	15624
 Cadre de Vie Site Officiel	15936
 Camarade Vieux Abdoul Rachid SOULAMA	7800
 Circular Genome Viewer	9475
-City Venezuela Vietnam Virgin Islands	11470
+City Venezuela Vietnam Virgin Islands	11470,7872
 Clair Isidore VIEIRA	16545
 Click View	11298
 Cláudia Rodrigues Vieira. MINISTÉRIO DA SAÚDE	15404
@@ -49,7 +50,7 @@ Conditions de PDDSEB PHMECV Vie	737
 Conditions de PNLE Vie des Ménages	17945
 Conditions de Vie	737,14401,2706,243
 Conditions de Vie des Menages Harmonisée	15661
-Conditions de Vie des Ménages	737,6938,3874,11,21,777,45,1343,58,1857,423,281,19,236,58,1267,33,122
+Conditions de Vie des Ménages	737,6938,3874,11,21,777,45,1343,58,1857,423,281,19,236,58,1267,33,122,1137,106
 Conditions de Vie des Ménages DSSE	10874
 Conditions de Vie des Ménages EIPBF	10874
 Conditions de Vie des Ménages Faculté des Sciences	17978
@@ -239,6 +240,7 @@ Suivi CVDS Cycle de Vie du Développement du Système	13341
 Supplementary Registration of Voters. View	12350
 Suttner's View	6387
 Systems View of Digital Integration. South	11927
+TGIX View IXP	19342
 Table View	8999
 Take Viet Nam	11356
 Thailand and Vietnam	11964
@@ -297,7 +299,7 @@ Vie Privée	548,683,9590,3020
 Vie Privée. Article	1231
 Vie Privée. Le Secrétariat Général	1231
 Vie Universitaire Personnel Administratif	18121
-Vie des Ménages	18077
+Vie des Ménages	18077,1160
 Vie-Publique.sn	18333
 Vie-Publique.sn URL	18333
 Viebeg Technologies	11140
@@ -339,7 +341,7 @@ Viet Nam and Morocco	10846
 Viet Nam's	10985
 Viet Vu Dao	16100
 Viet Vu Dao. Siège	16100
-Vietnam	1962,421,25,39,119,209,150,360,985,406,464,162,654,979,189,803,702,382,366,332,633,122,321,219,67,17,47,20,42,30,695,1570,38,2628,664,48,126,699,1438
+Vietnam	1962,421,25,39,119,209,150,360,985,406,464,162,654,979,189,803,702,382,366,332,633,122,321,219,67,17,47,20,42,30,695,1570,38,2628,664,48,126,699,1438,151
 Vietnam Egypt Oman Yemen Eswatini Pakistan	11005
 Vietnam Georgia Morocco Indonesia Kenya Cambodia	7655
 Vietnam International Digital Week	1962
@@ -379,6 +381,8 @@ Vieux Saïda	16344
 View All	12515
 View All Result	4535
 View Article	12231
+View Comments AVIS AUX OPÉRATEURS	19256,67
+View Comments COMMUNIQUÉ DE L'OFFICE TOGOLAIS	19292
 View Counter	2266,48,70,1204,745,235,171,806,299,245
 View Details Thu	18759
 View Expanded	11140
@@ -422,4 +426,4 @@ World Bank Group. Views	13312,1585,550,33,1396,994,1061
 World Bank. Views	10714,51,10,374,1179
 World View the Gambia	16951
 YouTubeMinistère du Cadre de Vie	16112
-Zimbabwe View	11470,7366
+Zimbabwe View	11470,7366,506

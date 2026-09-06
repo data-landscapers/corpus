@@ -181,7 +181,7 @@ FEMME SI FEMME SI FEMME SI	13300
 FEMME SÉLECTIONNÉE FEMME POUR CETTE SECTION	13300
 FEMME SÉLECTIONNÉE POUR LE MODULE SUR	13300
 FEMME-	16039
-FEMMES	13300,4512
+FEMMES	13300,4512,1474
 FEMMES ACTUELLEMENT EN UNION	13300
 FEMMES ACTUELLEMENT EN UNION Nombre	13300
 FEMMES ADULTES	13300
@@ -203,7 +203,7 @@ FEMoUS	14124
 FemCode Africa	16942
 FemDataSummit	8713
 FemTech	2239
-Female	582,207,151,18,196,713,226,404,215,892,187,71,130,661,35,34,1857,254,95,19,505,311,106,8,9,244,716,935,855,132,12,32,17,41,70,24,12,28,79,97,12,203,130,28,7,295,19,7,1,20,3,13,6,40,1,6,17,6,12,145,24,24,21,8,18,5,16,61,8,10,33,4,17,9,2,2,18,9,20,33,162,322,355,14,12,34,69,137,322,88,658,79,33,37,17,4,15,71,58,27,16,8,25,29,45,6,108,167,13,36,93,48,3,13,41,3,2,62,120,124,44,19,47,65,43,73,6,170,178,24,214,24,20,6,19,1,13,15,1,20,23,2,4,79,17,3,17,11,22,86,13,4,33,593,26,54,4,171,160,57,5,4,78,4,2,91,220,55,8,172,110
+Female	582,207,151,18,196,713,226,404,215,892,187,71,130,661,35,34,1857,254,95,19,505,311,106,8,9,244,716,935,855,132,12,32,17,41,70,24,12,28,79,97,12,203,130,28,7,295,19,7,1,20,3,13,6,40,1,6,17,6,12,145,24,24,21,8,18,5,16,61,8,10,33,4,17,9,2,2,18,9,20,33,162,322,355,14,12,34,69,137,322,88,658,79,33,37,17,4,15,71,58,27,16,8,25,29,45,6,108,167,13,36,93,48,3,13,41,3,2,62,120,124,44,19,47,65,43,73,6,170,178,24,214,24,20,6,19,1,13,15,1,20,23,2,4,79,17,3,17,11,22,86,13,4,33,593,26,54,4,171,160,57,5,4,78,4,2,91,220,55,8,172,110,143,3,4,35
 Female Across	12409
 Female Address	17099,15
 Female Agripreneurs	5923,191,295,107,247,33,469
@@ -311,7 +311,7 @@ Female. Proportion	12383
 Female7	18490
 FemaleMale Age	15721
 FemaleMale Phone Number	15721
-Females	582,376,9810,196,5,162,61,692,1,10,264,1,44,1,146,4,54,4,18,56,152,472,1945,548,59,1308,2,1654,362
+Females	582,376,9810,196,5,162,61,692,1,10,264,1,44,1,146,4,54,4,18,56,152,472,1945,548,59,1308,2,1654,362,295
 Females Board Composition Summary Gender Distribution	11131
 Females Chair	17099
 Females102.7 Males Births	15056
@@ -343,7 +343,7 @@ Femintech. Femintech	3888
 Femke de Rijk University of Oxford	9739
 Femke de Rijk1	9739
 Femm Homm Femm Homm Femm	13390
-Femme	737,2659,4007,575,174,289,942,610,144,675,64,88,1,10,969,1356,90,501,523,4,6,1,63,1,1,893,45,44,2,1,82,23,19,87,60,104,35,51,193,120,74,58,98,128,121,12,1077,10,2,12,1,3,101,57,11,33,9,21,23,5,64,87,9,21,5,5,16,630,46
+Femme	737,2659,4007,575,174,289,942,610,144,675,64,88,1,10,969,1356,90,501,523,4,6,1,63,1,1,893,45,44,2,1,82,23,19,87,60,104,35,51,193,120,74,58,98,128,121,12,1077,10,2,12,1,3,101,57,11,33,9,21,23,5,64,87,9,21,5,5,16,630,46,233,5,9,6,109
 Femme Adulte Mixte Jeune Mixte Adulte	13390
 Femme CRLD CSCom CSRéf Centre de Recherche	17882
 Femme Cellule de Planification	17978
@@ -352,6 +352,7 @@ Femme Conjoint Province Commune Jeune Adulte	13390
 Femme Conjoit Jeune Adulte Jeune Adulte	13390
 Femme Conseillère Communale	17829
 Femme DELM Direction	15580
+Femme DIUPP Type	19226
 Femme Des	18312
 Femme Direction Nationale	17845
 Femme Député HC	17829
@@ -370,6 +371,7 @@ Femme INSTaD Institut National	10876
 Femme Jeune Adulte Mixte Jeune Adulte	13390
 Femme Jeune Adulte Mixte Jeune Mixte	13390
 Femme Jeune Adulte Mixte Mixte S	13390
+Femme Kossiwa ZINSOU-KLASSOU	19241
 Femme Mise	14425
 Femme Mixte F	13390
 Femme Mixte Jeune Adulte Mixte Jeune	13390
@@ -388,17 +390,20 @@ Femme de CEDEAO Sécurité Sanitaire	17845
 Femme. Cette	16607
 Femme. Considérant	15885
 Femme. Le Chargé	15885
-Femmes	3549,1832,3510,919,1016,21,128,2315,10,90,240,533,262,145,886,44,99,121,188,22,69,13,466,1339,53,144,18,68,154,32,26,445
+Femmes	3549,1832,3510,919,1016,21,128,2315,10,90,240,533,262,145,886,44,99,121,188,22,69,13,466,1339,53,144,18,68,154,32,26,445,493
 Femmes Adulte	13390
 Femmes CEP Cellule	18286
 Femmes Clôture	9810
+Femmes Commerçantes du Togo	19267
 Femmes Conjoints	13390
 Femmes Convention	13442
 Femmes Education	18286
 Femmes Effectif de Pourcentage	13300
+Femmes Enceinte FS	19226
 Femmes Enfants	13300
 Femmes Hommes	10847
 Femmes Hommes Caractéristique En	13300
+Femmes Hommes Enfants	19226
 Femmes Hommes Ensemble Caractéristique Pourcentage Effectif	13300
 Femmes Hommes Ensemble Groupe	13300
 Femmes Hommes Ensemble VIH-positif VIH-négatif VIH-positif	13300
@@ -407,6 +412,7 @@ Femmes Hommes Méthode Ensemble des Femme Femme	13300
 Femmes Hommes Pourcentage de Pourcentage	13300
 Femmes Hommes Tabac	13300
 Femmes Hommes Total Départements	10975
+Femmes Hommes Total Pourcentage Appels	19250
 Femmes Hommes Tous	13300
 Femmes Jeune	13390
 Femmes Jeune Mixtes Adulte Mixte Sous	13390
@@ -698,7 +704,7 @@ POUSES ET DES FEMMES AVEC QUI	13300
 POUVOIR D’ACTION DES FEMMES	13300,5012
 PROBLÈME DE FEMME	13300
 PROGRAMME D'APPUI A L'AUTONOMISATION DES FEMMES	15999
-PROMOTION DE LA FEMME	2966
+PROMOTION DE LA FEMME	2966,16275
 PROMOUVOIR LES DROITS DE LA FEMME	18972
 PRÉVALENCE DE L’ANÉMIE CHEZ LES FEMMES	13300
 Paridade de Género3 Masculino Feminino	10777
@@ -722,6 +728,7 @@ Programmes Femmes	14163
 Projet Autonomisation des Femmes	18942
 Projet Régional Autonomisation des Femmes	18100
 Promotion des Droits des Femmes	18286
+Promotion des Femmes	19221
 Promotionde la Femme	18100
 Proportion Femmes	2624,10676
 Prévalence du VIH POUVOIR D’ACTION DES FEMMES	13300
@@ -828,6 +835,7 @@ UNICEF FEMTECH	2239
 UTG Female Students	16926
 Uneducated Primary Secondary Higher Male Female	15574
 Union Européenne FEM Fond	16621
+Union FHH Female-Headed Household FIF Financial	19239
 Union Nationale des Femmes Djiboutiennes	4402
 Unité des Femmes	16039
 Unknown Total Female Male Unknown	16935

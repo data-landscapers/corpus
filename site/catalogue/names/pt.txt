@@ -24,6 +24,7 @@ Coordination PTF	16722
 Coordination des PTF	15724
 Coordonnateur Mi- Projet PTA	10876
 Coordonnateur Mi-Octobre PTA	10876
+Current Proposed PTS	19284
 DAAS Pt	1228,3425
 DFS and TPC Mandatory No Pt	736
 DG Semestriel PTA	10876
@@ -43,6 +44,8 @@ Division of PTA and Community Engagements	16963
 Développement PSF Prestataire de Service Financier PTF	10965
 Développement PTF Partenaire Technique	15580
 EGIE DU REDR PTAN D'ACTION L2	14479
+ELIG EXP PT	19284
+EMERGENCY EXPENDITURES PT	19284
 ERTÉOIBLATIF ET REOLEDE PTE IRT	15999
 ETAT CT PRIVE PTF	17946
 ETAT PTF CT Total Axe	17842
@@ -155,6 +158,7 @@ OSC PTF	18286
 Octobre du PTA	10876
 OreWin Pty Ltd	15952
 PAN-GIIG. Les PTF	17983
+PBCs PTS	19284
 PIUs. This PTC	18198
 PNE Politique Nationale Enseignante PTF Partenaires	17885
 POR Plan Opérationnel des Réformes PTF Partenaires	18015
@@ -236,9 +240,12 @@ PTF Extrant	18286
 PTF GIZ	15712
 PTF GIZ Banque	15712
 PTF GOUVERNANCE	17845
+PTF IDEA IDEA Don BM BM	19241
+PTF IDEA IDEA Etat Etat	19241
 PTF Informatiser	17845
 PTF Laboratoires	17845
 PTF Les OSC	15722
+PTF MEF	19241
 PTF MFFPE	18286
 PTF Operationnaliser	17845
 PTF Organiser	17845
@@ -246,7 +253,7 @@ PTF PM	17845
 PTF Parlement	18286
 PTF Parlement Extrant	18286
 PTF Partenaire	15724,237
-PTF Partenaires	16620,1223,38
+PTF Partenaires	16620,1223,38,1335,4
 PTF Partenaires Techniques	17907
 PTF Plan Stratégique National de Santé Numérique	17882
 PTF Politique de Sécurité	643
@@ -261,12 +268,13 @@ PTF de DHIS2	17845
 PTF du Mali	17830
 PTF du SSN	16620
 PTF. Afin	13306
-PTF. Ainsi	17844
+PTF. Ainsi	17844,1372
 PTF. Analyse	18015
 PTF. Approche	15722
 PTF. BUREAU DE SUIVI STRATEGIQUE	18302
 PTF. Ces	10874
 PTF. En	15722
+PTF. IV.2.3Production	19216
 PTF. Le STG	15673
 PTF. L’utilisation	15961
 PTF. Une	18291
@@ -285,6 +293,7 @@ PTI BANNER-2	9799
 PTI.A	9404
 PTICA DA PROCURA Estudos	11366
 PTICA E A LIDERANÇA DE HUB	11397
+PTME Patient N	19226
 PTME Prévention	15724,2119
 PTML Area Command	8278
 PTML Conference Hall. Deputy Comptroller Nura	8278
@@ -373,6 +382,9 @@ S’agissant des PTF	18291
 TIKTOK PTE. LTD	13462
 TIKTOK PTE. LTD..........................................21	13462
 TITRE VI DES PTAINTES DES UTITISATEURS	15429
+TR&OC PT	19284
+TR&OC PT.1.5 OF PROJ	19284
+TR&OC PTS	19284
 Tags Economie Statistiques Hiswaca Ptba Partager	16130
 Teacher Ratio PTxR Pupils	18460
 Teruza Pty Ltd	12478

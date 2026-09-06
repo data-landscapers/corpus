@@ -123,6 +123,7 @@ Global Anti-Scam Alliance’s State of Scams	8711
 Global Civil Registration and Vital Statistics. Scaling	10819
 Government Scales	10822
 Government Single Portal. Scaled-up	11965
+Guarantee Amount Total Amount Scale-Up Window	19239
 Guidelines Scarce Resource Management	16889
 Guinea Electricity Access Scale Up	16654
 Guinea Electricity Access Scale Up Project	16654,1
@@ -137,6 +138,7 @@ Hunger Scale LIVELIHOOD	17285
 Hunger Scale The Household Hunger Scale	17285
 ID AT POPULATION SCALE	12165
 ID. Scan	12209
+IDA SCALE-UP WINDOW	19239
 IDA Scale-Up Facility	10997
 IDA Scale-Up Window	3604,176,11751
 IDA Scale-Up Window-Shorter Maturity Loan	11905
@@ -219,7 +221,8 @@ Pipeline Scaling Set	6832
 Political Terror Scale RSF Reporters	10759,78,1052,451
 Population Scale for Digital Transformation	19063,1
 Pretoria High Court and SCA	14693
-Procurement SUW Scale-Up Window TA Technical	3604
+Procurement SUF Scale-Up Facility TA Technical	19239
+Procurement SUW Scale-Up Window TA Technical	3604,15641
 Procurement SUW Scale-up Window TSO Transmission	15983
 Production Hydroélectrique SCAF	10975
 Profit Scaling	5869
@@ -262,6 +265,7 @@ SCADD	10812,4825,1,323
 SCADD Stratégie	15961
 SCALE	16751
 SCALE UP AN ESSENTIAL HEALTH	15977
+SCALE-UP WINDOW	19245
 SCALE-UP WINDOW CREDIT-SHORTER MATURITY	15983
 SCALE-UP WINDOW-SHORTER MATURITY LOAN	11905
 SCALED-UP	412,345,2829,9745,1557,269
@@ -273,12 +277,16 @@ SCAN FOR APPENDICES REPUBLIC OF GHANA	4126
 SCAN ICT	9485
 SCANFORM	9273
 SCANFORM. Bien	9273
+SCANTOGO	19296,14
+SCANTOGO Mines SA	19295
 SCAP RU and GLAM Cleared	17962
 SCAP-RU	17962
 SCAP-RU and GLAM	17962
 SCAP-RU and SOS Security	17962
 SCAP-RUs	17962
-SCAPE	11529
+SCAPE	11529,7687,4
+SCAPE Stratégie	19216
+SCAPE Stratégique	19220
 SCAPP	17843,1,5,18,6,6,2,12,1,1,6,6
 SCAPP Mauritania Growth and Shared Prosperity Strategy	17849
 SCAPP PANPA Port	17907
@@ -384,9 +392,9 @@ Scale-Out-Storage-Solution.pdf Invitation for Bids	14763
 Scale-Up	790,11110
 Scale-Up Corridor	4698
 Scale-Up Electricity Access Program	14872
-Scale-Up Window	3604,176,7689,436,4078
+Scale-Up Window	3604,176,7689,436,4078,3262
 Scale-Up Window Credit	784,14182
-Scale-up	6539,4224,89,281,513,319,537,916,719,1053,895,2724
+Scale-up	6539,4224,89,281,513,319,537,916,719,1053,895,2724,475
 Scale-up Financial Education	15130
 Scale-up Financing and Access	16144
 Scale-up Window	15983
@@ -408,7 +416,7 @@ Scaleup Corridor	4194
 Scaleway	5846,1033,1880
 Scaleway and S3NS	5846
 Scaleway. Schwarz Digits	6879
-Scaling	396,1432,1178,1760,2782,332,95,401,722,1059,31,484,30,61,27,3,338,5,86,73,15,262,51,329,85,104,34,35,4,41,42,205,5,182,320,86,300,1,1060,218,144,104,25,50,76,57,330,199,2,104,248,830,123,30,96,197,169,45,287,80,92,508,8
+Scaling	396,1432,1178,1760,2782,332,95,401,722,1059,31,484,30,61,27,3,338,5,86,73,15,262,51,329,85,104,34,35,4,41,42,205,5,182,320,86,300,1,1060,218,144,104,25,50,76,57,330,199,2,104,248,830,123,30,96,197,169,45,287,80,92,508,8,767
 Scaling AI	1467,9668
 Scaling AI Readiness Across Borders	12723
 Scaling AI for SMEs	6886
@@ -478,6 +486,8 @@ Scancom PLC's H1	7491
 Scancom and MMFL	8607
 Scancom-PLC-MTN-Ghana-H1-2026-Results.pdf	8607
 Scandinavia	4432,244
+Scandinavie	19221
+Scandinavie Estimation	19221
 Scandium	9594
 Scanjet Pro	34
 Scanlon	5257
@@ -485,8 +495,8 @@ Scannage	13513
 Scanneador	794
 Scanned	11252
 Scanned Maps	18904
-Scanned PDF	10895,1,1,1,5,1,1
-Scanner	3389,8471,1193,4281,904
+Scanned PDF	10895,1,1,1,5,1,1,8326
+Scanner	3389,8471,1193,4281,904,988
 Scanner Auditor	15662
 Scanner Features Ultrasonic Multi Feed Detection	34
 Scanner Implementation	13053

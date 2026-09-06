@@ -135,6 +135,8 @@ INGENIERIE G P	16623
 INGENIERIE GUINEE PLUS SARL TIG PLUS	16623
 INGENIERIE SECURITE INFORMATIQUE	15529
 INGENIEUR	15674
+INGENIEUR DE CONCEPTION	19350
+INGENIEUR DES TRAVAUX	19350
 INGEST	1718,870,1138,19,1846,3068,148,174,66,51,6,14,26,40,1,213,5,31,12
 INGEST ADJUDICATION	1807,3811,859,1378
 INGEST NOTE	10272
@@ -211,6 +213,7 @@ Ing. Pierre François Kamanou	11073
 Ing. Stat	17812
 Ing. Stat. Plan. Chargé	17812
 Ing.Ind.Mines	17812
+IngEnieur	19350
 Inga Falls	11918
 Inga Falls. Hydropower	11918
 Inga II	15952
@@ -297,14 +300,15 @@ Ingwate	15102
 Ingwe	3791
 Ingwe MM	3791
 Ingénie	17827
-Ingénierie	2961,434,3606,3854,4432,135,2,118,391,170,127,92,163,121,978,553,149,38
+Ingénierie	2961,434,3606,3854,4432,135,2,118,391,170,127,92,163,121,978,553,149,38,929
 Ingénierie Clinique	11892,3595,951,3
+Ingénierie Electrique	19366
 Ingénierie Financière	6163
 Ingénierie Logiciel	15529
 Ingénierie de Développement	17991
 Ingénierie. Il	10893
-Ingénieries	10855,2486
-Ingénieur	3191,2635,1707,137,599,52,357,831,1384,4561,88,60,69,3,2,266,19,326,126,83,49,82,24,849,312,5,10,2,12,20,38,66,17,50,172,87,6,27,76,2,1,9
+Ingénieries	10855,2486,5912
+Ingénieur	3191,2635,1707,137,599,52,357,831,1384,4561,88,60,69,3,2,266,19,326,126,83,49,82,24,849,312,5,10,2,12,20,38,66,17,50,172,87,6,27,76,2,1,9,938,13,3
 Ingénieur Agronome	10914
 Ingénieur Associations	17827
 Ingénieur Chef de Section Professeur	17827
@@ -314,6 +318,7 @@ Ingénieur Exploitation	18395
 Ingénieur Géomètre	18324
 Ingénieur Informaticien. Vu le Décret	18032
 Ingénieur Le Ministre	17817
+Ingénieur Recherche	19366
 Ingénieur Réseaux	18395
 Ingénieur SI	18297
 Ingénieur Statisticien Economiste	18169
@@ -402,6 +407,8 @@ MISSIONS DE RSB Ingingo	14863
 MOUSSOUMOU Goldy RGB Responsable Ingénierie de Formation	16012
 MOUTSIENDI Ingrid Orphise	16381
 MURANDASI Ingingo	15177
+Madame Ingrid AWADE	19264
+Madame Ingrid AWADÉ	19267
 Madame Nadia Ingrid Sènan GNONLONFOUN	17584
 Malijet. Ingested	1968
 Master Ingénierie Editoriale	15674
@@ -416,6 +423,7 @@ Minister of ICT and Innovation Paula Ingabire	2914,3612,38,1002
 Missing Ingredient	14669
 Mme Hornellia Brinda INGUEZA OBOUKA	16099
 Mme INGARA MADJINOU	16274,182
+Mme Ingrid AWADE	19318
 Mme Ingrid Olga Ghislaine EBOUKA- BABACKAS	3326
 Mme Lima Ingrid WALLY ONTALA	16099
 Mme RAIVO Ingrid Anaïs	16381

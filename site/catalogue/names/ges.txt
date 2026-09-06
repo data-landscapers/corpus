@@ -44,6 +44,9 @@ Autonome de Gestion des Dettes CCE	10876
 Autorité Indépendante de Gestion	17989
 Autorité Indépendante de Gestion des Elections	17861
 Autorité Indépendante de Gestion des Elections. Coulibaly	17920
+Autorité Nationale de Gestion des Mécanisme de Carbone	19241
+Autorité Nationale de Gestion des Mécanismes de Carbone	19241
+Autorité Nationale de Gestion des Mécanismes de Carbone. Art	19241
 Autorité de Gestion des Réparations	8237
 BIOWIN Gestion	17882
 BONDOUKOU MANGANÈSE SA Gestion	2342
@@ -104,6 +107,7 @@ Comissões de Gestão	11514
 Comité Sous-préfectoral de Gestion Foncière Rurale	10936
 Comité de Gestion	14424,1,3449
 Comité de Gestion COMEG	15423,262
+Comité de Gestion CPC	19226
 Comité de Gestion Scolaire CP1	15673
 Comité de Gestion des Etablissements Scolaires CE1	10847
 Comité de Gestion des Plaintes	14425
@@ -119,6 +123,7 @@ Comités de Gestion de Santé	15423
 Commerce Gestion Commerciale	15674
 Commission de Gestion	15399
 Commission de Gestion Financière	13518
+Commission de Gestion Foncière	19212
 Commissions de Gestion Foncière	10876
 Communication Gestion Touristique	15674
 Communication Master Gestion	17829
@@ -164,9 +169,11 @@ DE GESTION ENVIRONNEMENTALE ET SOCIALE	14488,1
 DE GESTION IST INSTITUT DES SCIENCES	18170
 DE GESTIÓN Y GENERAL DE GENERAL	4209
 DE L'ADMINISTRATION ET DE LA GESTION	15412
-DE LA GESTION ADMINISTRATIVE	13292
+DE L'ORGANISME DE GESTION	19225
+DE LA GESTION ADMINISTRATIVE	13292,5933
 DE LA GESTION DES RECLAMATIONS Art	15747
 DE LA GESTION EN REGIE DES	15469
+DE LA GESTION FINANCIERE ET COMPTABLE	19225
 DE LA GESTION FINANCIERE ET National	17817
 DE LA GESTION FINANCIERE Section	15361
 DE LA GESTION PAR PROGRAMMES	18015
@@ -211,7 +218,7 @@ Departamento de Gestão	167
 Departamento de Gestão de Conhecimento	18773
 Departamento de Gestão de Infra-Estruturas Tecnológicas	11382
 Detailed Gescmotice	3972
-Deutsche Gesellschaft	1099,162,553,89,1701,107,2549,907,719,660,439,37,243,205,641,2,599,252,6,186,151,265,569,90,9,38,117,32,496,198,78,114,152,282,605,1148,451,193,1726,11,26,578,503
+Deutsche Gesellschaft	1099,162,553,89,1701,107,2549,907,719,660,439,37,243,205,641,2,599,252,6,186,151,265,569,90,9,38,117,32,496,198,78,114,152,282,605,1148,451,193,1726,11,26,578,503,257,39
 Deutsche Gesellschaft for International Cooperation Zambia	13578
 Deutschen Gesellschaft	11316
 Dicionário de Língua Gestual de São Tomé	18811
@@ -285,6 +292,7 @@ Frais de Gestion	15399
 Framework Híbrido de Gestão de Portfólio	11451
 Framework de Gestão de Riscos de IA	2816
 Fundo de Gestão Haliêutico	17100
+GAR Gestion	19220
 GCR-CCC Gestion Communautaire des Risques	13702
 GDP Gross Domestic Product GIZ Gesellschaft	12923
 GEGA GRANDE ECOLE PRIVEE DE GESTION	18170
@@ -305,9 +313,11 @@ GESIMPOT	11906
 GESP FTTB FTTH G2B G2G G2C	15480
 GESTDOC	6530,41,4994,1,5679
 GESTDOC. Da Guiné-Bissau	11566
-GESTION	2959,7853,4783,404,1830,248
+GESTION	2959,7853,4783,404,1830,248,1132
+GESTION ADMINISTRATIVE DU DOMAINE INTERNET NATIONAL	19209
 GESTION ARTICLE	13809
 GESTION BUDGÉTAIRE	15999
+GESTION COMMERCIALE DU DOMAINE INTERNET NATIONAL	19209
 GESTION DE LA BASE DE DONNEES	15670
 GESTION DE LA COLLECTIVITE	15577
 GESTION DE LA SCOLARITE INFORMATIONS Sécurité	17941
@@ -343,6 +353,7 @@ GESTION DU FONDS DE DEVELOPPEMENT Vu	17812
 GESTION DU FONDS Le Ministre	17817
 GESTION DU PATRIMOINE CULTUREL	15999
 GESTION DU PORTEFEUILLE EN	2342
+GESTION DU REGISTRE SOCIAL DES PERSONNES	19235
 GESTION DU SPECTRE Artlcle	15429
 GESTION DU SPECTRE DES	17819
 GESTION DU SPECTRE DES RESSOURCES L’Autorité	17819
@@ -350,10 +361,12 @@ GESTION DU TRÉSOR	15999
 GESTION DURABLE DES SYSTEMES DE PRODUCTION	15999
 GESTION ESCAE ECOLE SUPÉRIEURE DE COMMERCE	18143,27
 GESTION ET CONSER VATION D’UN NUMERO	16651
+GESTION ET CONTROLE DES	19219
 GESTION ET DE FONCTIONNEMENT DES SERVICES	13375
 GESTION ET SÉCURITÉ DES DONNÉES Article	14483
 GESTION HETEC-NI HAUTES ETUDES TECHNOLOGIE ET	18170
 GESTION IPISTLMES INSTITUT PRIVE INTERNATIONAL SPECIALISE	18170
+GESTION TECHNIQUE DU DOMAINE INTERNET NATIONAL	19209
 GESTION TRESORERIE SPECIALE DES FINANCEMENT EXTERIEURS	16175
 GESTIONNAIRE	16230
 GESTIONS	14573
@@ -390,16 +403,19 @@ GESTÃO ECONÓMICA	167
 GESTÃO FINANCEIRA E PATRIMONIAL	4218
 GFP Gestion	18015
 GII-2019 PRINCIPES DIRECTEURS POUR LA GESTION	15624
+GIRE Gestion	19220
 GIS Geographic Information System GMAO Gestion	13306
 GIZ Deutsche Gesellschaft	8985
 GOUVERNANCE ET GESTION DES	15999
 GOUVERNANCE ET GESTION DES Assurer	15999
 GOUVERNANCE ET GESTION DES FONCTIONS SUPPORT	15999
 GOUVERNANCE ET GESTION DES FONCTIONS SUPPORTS	15999
+GRH Gestion	19220
 Gabinete de Gestão	5405,6000,23,9,132,255,3439,2277
 Gabinete de Gestão Espacial Nacional. Assegurou	10366
 Gabinete de Gestão da Qualidade	15503
 Gabinete de Gestão de Qualidade	15503
+GdG Golfe de Guinée GIZ Deutsche Gesellschaft	19220
 Geographical Information Systems GIZ Gesellschaft	17105
 Geschehen	16843
 Geschiere	12227
@@ -407,19 +423,21 @@ Geschiere and Nyamnjoh	12227
 Geschwind	11133,9
 Gesco-Attinguié	2342
 Gescom	15474
-Gesellschaft	1264,7798,175,1582,145,4578,41,522,2188,29
+Gesellschaft	1264,7798,175,1582,145,4578,41,522,2188,29,917
 Gesis	18928
 Gesondheid	1009
 Gesondheidsinligting	11255
 Gesser	15694
 Gessner	15715
+Gest Exo	19261
+Gest-Invest	19220
 Gest-exo	3674
 Gestao	574
 Gestao de Contas	570
 Gestao de Receitas	574
 Gestational Diabetes	14773
 Gestio	17829
-Gestion	12,198,25,408,94,11,250,7,180,85,379,344,349,473,352,102,127,23,263,643,671,374,678,115,664,56,76,696,262,352,118,120,384,158,795,180,248,247,192,1,109,37,16,2,37,12,50,164,585,319,1247,11,5,35,34,15,123,115,74,158,12,26,463,62,1,1,12,21,22,3,5,1,1,8,4,18,17,2,1,9,15,9,1,4,34,10,1,288,8,183,264,33,25,5,38,5,2,13,2,12,11,17,8,5,26,1,6,8,11,45,31,3,1,22,15,9,2,2,8,6,5,2,1,1,19,31,51,60,25,3,76,8,27,97,51,35,131,34,31,59,63,67,6,6,1,1,4,3,78,10,23,694,7,6,130,239,1,3,2,1,3,10,2,1,12,3,3,8,10,3,11,3,2,1,39,31,6,5,8,18,4,2,81,3,6,7,6,4,2,75,5,82,5,6,15,7,13,30,38,2,1,9,530,41,181,12
+Gestion	12,198,25,408,94,11,250,7,180,85,379,344,349,473,352,102,127,23,263,643,671,374,678,115,664,56,76,696,262,352,118,120,384,158,795,180,248,247,192,1,109,37,16,2,37,12,50,164,585,319,1247,11,5,35,34,15,123,115,74,158,12,26,463,62,1,1,12,21,22,3,5,1,1,8,4,18,17,2,1,9,15,9,1,4,34,10,1,288,8,183,264,33,25,5,38,5,2,13,2,12,11,17,8,5,26,1,6,8,11,45,31,3,1,22,15,9,2,2,8,6,5,2,1,1,19,31,51,60,25,3,76,8,27,97,51,35,131,34,31,59,63,67,6,6,1,1,4,3,78,10,23,694,7,6,130,239,1,3,2,1,3,10,2,1,12,3,3,8,10,3,11,3,2,1,39,31,6,5,8,18,4,2,81,3,6,7,6,4,2,75,5,82,5,6,15,7,13,30,38,2,1,9,530,41,181,12,44,1,5,15,9,11,30,4,25,40,6
 Gestion Administrative	15674,767
 Gestion Administrative des Personnels Civils	15936
 Gestion Article	18884
@@ -430,6 +448,7 @@ Gestion Bois	3396
 Gestion Budgétaire	16635,2,1378
 Gestion COVID 19 TUWNIDI	17882
 Gestion Centralisée des Ressources Humaines	18291
+Gestion Commerciale	19366
 Gestion Comptable	17829
 Gestion D UT Hôtellerie Tourisme	17829
 Gestion DUT Finances C	17829
@@ -481,9 +500,11 @@ Gestion de Article	17982
 Gestion de Bamako	17829,153
 Gestion de Coordonnateur du GTGEAP-ADEA	17830
 Gestion de Données X X Services	1984
+Gestion de Désigne	19226
 Gestion de Gestion	17829
 Gestion de Master Management des Collectivités	17829
 Gestion de Plaintes	16065
+Gestion de Portefeuille	19362
 Gestion de Programmes de Suivi	10712
 Gestion de Projet	235,15777
 Gestion de Projets	18324
@@ -511,7 +532,8 @@ Gestion des Crises Alimentaires	17941
 Gestion des Crises EIE Etudes	17907
 Gestion des Crises. En	19006
 Gestion des Domaines Constructions	17982
-Gestion des Données	3604
+Gestion des Données	3604,15756
+Gestion des Déchets	19366
 Gestion des Déchets Biomédicaux GTCV	15685
 Gestion des Décrets	10532
 Gestion des Dépenses	969
@@ -542,12 +564,13 @@ Gestion des Procédures	15936
 Gestion des Projet	18169
 Gestion des Projets	2342
 Gestion des RH	18105
-Gestion des Ressources	7843,2869
+Gestion des Ressources	7843,2869,8654
 Gestion des Ressources Forestières	17829
 Gestion des Ressources GIPAR	14442
-Gestion des Ressources Humaines	1281,9540,2480,1236
+Gestion des Ressources Humaines	1281,9540,2480,1236,4829
 Gestion des Ressources Humaines Licence Pro Réseaux	17829
 Gestion des Risques	2342,8370,5683,1705,300,2,1
+Gestion des Risques de Catastrophe	19366
 Gestion des Routes	18395
 Gestion des Réseaux SCI	10975
 Gestion des Réseaux de Transport SDCB	10975
@@ -555,6 +578,8 @@ Gestion des Services des Ressources Humaines HIA	15475
 Gestion des Structures Aéroportuaire Management	15674
 Gestion des Systèmes	15479
 Gestion des Télécommunications	15936
+Gestion des Universités du Togo	19209
+Gestion des Visas	19221
 Gestion du BDIXP	13291
 Gestion du Cloud	15568
 Gestion du Comité	8269
@@ -571,6 +596,7 @@ Gestion du Projet	15746,2156,510
 Gestion du Projet Cette	15746
 Gestion du Projet Revue	16012
 Gestion du Projet UNFPA Fonds des Nations Unies	16104
+Gestion du RSPM	19235
 Gestion du Réseau	10975
 Gestion du Réseau de Transport	10975
 Gestion du Réseau de Transport. Elle	10975
@@ -594,6 +620,8 @@ Gestionnaires de Données	748,1236,7422,8078
 Gestionnaires de Données Open Data	1984
 Gestionnaires de Données Ouvertes	747
 GestionÊ Lo	18065
+Gestit	19226
+Gestité	19226
 Gestión	758,943,2508,4163,8503,23,82,191
 Gestión Basada	16898
 Gestión Económica	1855
@@ -782,6 +810,7 @@ Industrias Creativas Ejes Estratégicos Sistemas de Gestión	1701
 Industrie Gestion des Connais-	18077
 Information Gestion	2342
 Information Géographique SIGFiP Système Intégré de Gestion	15479
+Information Intégré de Gestion	19327
 Information de Gestion	14472,1201,20,243,1894
 Information de Gestion Logistique	14622
 Information de Gestion Logistique SIH	14442
@@ -797,6 +826,7 @@ Infrastructure de Gestion des Clés	18298
 Infrastructures Numériques SIGFIP Système Intégré de Gestion	15583
 Institut Supérieur de Gestion des Entreprises ISTAU	13377
 Institut Universitaire de Gestion	17829
+Institutions Privées Gestionnaires	19264
 Instituto Nacional de Gestão	9484,5904,205
 Instituto Nacional de Gestão de Bolsas de Estudo	11391,81
 Instituto Superior de Gestão	11552
@@ -807,6 +837,7 @@ Instrumentos de Gestão	4218
 Integrado de Gestão Patrimonial	17100
 Intercommunal de Solidarité GIZ Deutsche Gesellschaft Fur	17864
 International Development OGE Organe de Gestion	18310
+Internationale Zusammenarbeit GFP Gestion	19220
 Intégré de Gestion des Procédures Judiciaires	15936
 Investissement. L’Unité de Gestion du PEAPPJF	13630
 KIMBONGUI Serge Arnaud Gestionnaire	16012
@@ -827,6 +858,7 @@ LA MALADIE ET DE GESTION DES	13306
 LA PROTECTION ET LA GESTION INTEGREE	17812
 LAGUNE EXPLOITATION BONGOUANOU Gestion	2342
 LAs. GESD	5620
+LEUR GESTION L'Assemblée	19209
 LIGNEUSES GOUVERNANCE ET GESTION DES FONCTIONS	15999
 LISUNGUI PHARMA Gestion	17882
 LOGICIEL LA GESTION DES PROGRAMMES TRIENNAUX	15537
@@ -859,6 +891,7 @@ Les Comités Techniques de Gestion de Programmes	10712
 Les Gestionnaires	748
 Les Gestionnaires de Données	747,1,1236
 Les Organes de Gestion du RSU	16645
+Les Organismes Gestionnaires	19264
 Les Services de Gestion des Systèmes	15479
 Letla Mosenene Ambero Consulting Gesellschaft	16853
 Licence Gestion	17829
@@ -879,6 +912,7 @@ L’AUTORITE INDEPENDANTE DE GESTION DES	17861
 L’AUTORITE INDEPENDANTE DE GESTION DES Coordination	17861
 L’AUTORITE INDEPENDANTE DE GESTION DES ELECTIONS	17861
 L’Agence Ivoirienne de Gestion des Fréquences	15710
+L’Autorité Nationale de Gestion des Mécanismes de Carbone	19241
 L’ECONOMIE ET DU SYSTEME DE GESTION	15722
 L’Infrastructure de Gestion des Clés	18298
 L’Unité de Gestion	3715
@@ -961,18 +995,21 @@ ORGANE DE GESTION Article	15431
 ORGANES DE GESTTON Article	15489
 ORGANES DE L’AUTORITE INDEPENDANTE DE GESTION	17861
 ORGANES D’ADMINISTRATION ET DE GESTION	1186
+ORGANISATION ADMINISTRATIVE ET GESTION FINANCIERE	19295
 OSP-Santé Gestion	17882
 Objectif du Mécanisme de Gestion des Plaintes	18118
 Objectifs du Mécanisme de Gestion des Plaintes	15908
 Objectifs du Mécanisme de Gestion des Plaintes Le Mécanisme	15908
 Objectifs du Plan de Gestion	14424
 Obrigações da Entidade Gestora	11443
+Oct Les Organismes Gestionnaires	19264
 Official Use Only UNITE DE GESTION	16104
 Oficial Senior de Gestão	15966
 Omnium de Gestion	10821
 Opérateurs Champions Opportunité Gestion	2342
 Organes de Gestion des Elections	18310
 Organigramme du Mécanisme de Gestion des Plaintes	15746
+Organismes Gestionnaires	19264
 Outil de Gestion ODK	14442
 P169413 Plan de Gestion	14424
 P169413 Plan de Gestion des Déchets	14423
@@ -1101,6 +1138,7 @@ SGG PORTANT MODALITES DE GESTION DES	16616
 SGI Sistema de Gestão de Inquéritos SNA System	15535
 SGSI Service de Gestion du Système	15479
 SIAF SIAF Gestion	17845
+SIE. Gestion	19360
 SIFEF Gestion	17845
 SIFEF SIFEF Gestion	17845
 SIGE Système Intégré de Gestion	15474
@@ -1132,7 +1170,7 @@ SUGF Section Urbaine de Gestion Foncière SVGF	10876
 SYSTEME DE GESTION DES RECETTES DOMANIALES	16581
 Sahel ARGASC Agence de Gestion	6959
 Sauvegarde Environnementale UGP Unité de Gestion du Projet	15746
-Sciences de Gestion	15674,2738
+Sciences de Gestion	15674,2738,954
 Secondaires Le Service des Le Service de Gestion	2342
 Secteur Gestion	16621
 Secteur Informel GAR Gestion Axée	15501
@@ -1298,6 +1336,7 @@ UNIDADE DE GESTÃO DE PROJECTOS ESPECIAI	16493
 UNIDADE DE GESTÃO DE PROJECTOS ESPECIAIS	8166,7944
 UNIDADE DE GESTÃO DE PROJETOS ESPECIAIS	11941
 USAGERS DE L’EAU SUR LA GESTION	17812
+UVRE DU MECANISME DE GESTION DES	19241
 Uitvoerende Gesag	11190
 Unicef. Gestion	16628
 Unidad de Gestión de SYDONIA	4209

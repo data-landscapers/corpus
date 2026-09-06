@@ -18,6 +18,7 @@ AMRO INSURANCE BROKERS LTD Data Controller	7167
 AMRO INSURANCE BROKERS LTD Data Processor	7167
 AMSSURITY INSURANCE AGENCY LIMITED Data Controller	7167
 AMSSURITY INSURANCE AGENCY LIMITED Data Processor	7167
+AMUID National Health Insurance Scheme Identification	19284
 APA Insurance Limtied Data Controller INST-187637344F0	7167
 APA Insurance Limtied Data Processor INST-187637344F0	7167
 ARC Insurance Company Ltd	10819
@@ -131,6 +132,7 @@ DIFFICULTIES NOT NOT INTERNET INSUFFICIENT STRANGERS	11964
 DIFFICULTIES NOT NOT INTERNET IS INSUFFICIENT	11004
 DIFFICULTIES SUPPORT IN INTERNET INSUFFICIENT STRANGERS	11004,960
 DIGI AFRICA INSURANCE BROKERS LIMITED Data	7167
+DIGITALIZATION AND NATIONAL HEALTH INSURANCE SCHEME	19284
 DIRECTORS SECRETARY INDEMNITY AND INSURANCE WINDING-UP	585
 DISNEY INSURANCE BROKERS LIMITED Data Controller	7167
 DISNEY INSURANCE BROKERS LIMITED Data Processor	7167
@@ -206,7 +208,7 @@ Government Sector Insur-	15519
 Gross Domestic Product Financial and Insurance Activities	2775
 Group Cash Value Insurance Contract	11233
 HEALTH INSURANCE ACT	6921
-Health Insurance	13726,307,1630
+Health Insurance	13726,307,1630,3621
 Health Insurance Act	6921
 Health Insurance Authority Ghana	14997
 Health Insurance Bill	12598
@@ -219,7 +221,7 @@ Health Insurance Information System	629
 Health Insurance Management Authority NTBC National	13347
 Health Insurance Organization	17648
 Health Insurance Premium	14717
-Health Insurance Scheme	17934
+Health Insurance Scheme	17934,1350
 Health Insurance Scheme NIN National Identification	16922
 Health Insurance Units	10865
 Health NHIA National Health Insurance Authority	15556
@@ -268,10 +270,11 @@ Increased Insurance	15130
 Indemnity and Insurance Rationale	8866
 Independent Insurance Commission	17138,97
 Inspector General Servicios R. Insular Servicio	4209
+Institute of National Health Insurance	19284
 Insuchcases	8602
 Insuf	15580
 Insufficiency	16863
-Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453,45,217,160,78,183,506,9,70,165,25,25,54,101,2,18,23,46,2,53,123,138,319,15,200,19,104,148,302,123,437,6,53,160,82,89,78,39,12,50,167,42,166,869,156,488,31,7,4,22,11,11,168,18,103,36,827,344,9,11,42,28,57,273
+Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453,45,217,160,78,183,506,9,70,165,25,25,54,101,2,18,23,46,2,53,123,138,319,15,200,19,104,148,302,123,437,6,53,160,82,89,78,39,12,50,167,42,166,869,156,488,31,7,4,22,11,11,168,18,103,36,827,344,9,11,42,28,57,273,358
 Insufficient Collaboration	12356
 Insufficient Data	12376
 Insufficient English	12329
@@ -323,7 +326,7 @@ Insur	6019
 InsurTech	4848,1021,52,6523
 InsurTech-related	10793
 InsurTechs Significant	12444
-Insurance	418,349,173,1769,66,2121,304,465,547,27,759,765,26,236,110,1102,1556,72,112,106,51,2,162,510,147,1,293,124,27,9,36,9,97,502,132,200,135,1065,132,126,48,6,100,26,107,533,1494,259,159,534,374,58
+Insurance	418,349,173,1769,66,2121,304,465,547,27,759,765,26,236,110,1102,1556,72,112,106,51,2,162,510,147,1,293,124,27,9,36,9,97,502,132,200,135,1065,132,126,48,6,100,26,107,533,1494,259,159,534,374,58,673,70
 Insurance Act	6938,4317,1393,412,1749,34,4082,124
 Insurance Act Notice	19049
 Insurance Activity Supervisory Body	6938
@@ -369,6 +372,7 @@ Insurance Revenue	14897
 Insurance Régime de Retraite de Ministry	10985
 Insurance SHIF Social Health Insurance Fund	2775
 Insurance Scheme	14997
+Insurance Scheme Information System	19284
 Insurance Scheme X MINTER Ghana Nationwide	15845
 Insurance Sector	14997,26,107,2105
 Insurance Sector Education and Training Authority IoT	6832
@@ -407,6 +411,8 @@ Insurance and Social Security Fund	15518
 Insurance and Social Security Supervisory Authority	6938
 Insurance for Risk Management	15130
 Insurance-Sector-Coverage-Kenya-vF.pdf. United Nations	6938
+Insurances	19284
+Insurances Mpox Monkeypox	19284
 InsureAI	11511
 Insured	12460,2670
 Insured And Uninsured	16218
@@ -509,7 +515,7 @@ National Health Insurance Management Authority	13465
 National Health Insurance NDoH Non-patient File	1009
 National Health Insurance Policy	11748,3511,3
 National Health Insurance Program	16993
-National Health Insurance Scheme	2714,854,2431,1696,3633,2019,2451,25,22,408,93,550,26,183
+National Health Insurance Scheme	2714,854,2431,1696,3633,2019,2451,25,22,408,93,550,26,183,2179
 National Health Insurance System	16922
 National Health Insurance Tribunal	16896
 National Health Insurance and Social Guarantee Fund	9837
@@ -528,6 +534,8 @@ National Insurance Institutions Outcome	14997
 National Insurance Marketplace	14997
 National Insurance Strategy	15023
 National Organization for Social Insurance	15519
+National Social Health Insurance	19284
+National Social Health Insurance Scheme Information	19284
 National Social Insurance Authority	4944
 National Social Insurance Fund	15883
 National Social Security and Insurance Trust	18440,6
@@ -627,6 +635,7 @@ Social Assistance Social Insurance Q5	10985
 Social Health Insurance Act	8934
 Social Health Insurance Fund	3393,8834,2297
 Social Health Insurance Fund and Affordable Housing	5684
+Social Health Insurance OpenHIE Open Health	19284
 Social Insurance	10785,2689,2045
 Social Insurance Egypt	15519
 Social Insurance Labor Market Social Assistance	10985
@@ -644,6 +653,8 @@ Strengthen Health Insurance Systems Through Digital	9837
 Strengthening the Insurance	14997
 Strengthening the Insurance Association	14997
 Strengthening the Insurance RSSB	14997
+Strengthening the National Social Health Insurance	19284
+Strengthening the National Social Health Insurance Scheme	19284
 Supervisory Authority of Insurance and Social Welfare	5921
 Supporting Egypt's Universal Health Insurance System	16079
 Supporting Egypt’s Universal Health Insurance System	16079
@@ -653,6 +664,10 @@ TIRA Tanzania Insurance Regulatory Authority TISS	7763
 Tanzania Insurance Regulatory Authority	7763,3370
 Tarik Dadi Combats Health Insurance Fraud	2269,19,59,9,173,4,11,6,12,38,10,6,3,57,4,664,278,96,687,933,332,433,355,605,327
 Though the National Health Insurance Coverage	18162
+Togo National Digital Health and Insurance Interoperability	19284
+Togo Social Health Insurance Agency	19284
+Togolese Social Health Insurance Agency	19284
+Togo’s Universal Health Insurance	19284
 Trade CIF Cost Insurance Freight COICOP	16935
 Trans-African Insurance Co Ltd	2307
 Transport Insurance Certificate	16737
@@ -666,6 +681,8 @@ Unemployment Insurance Contributions Act	11181
 Unemployment Insurance Fund	7910,26,531,2818
 United General Insurance Assistant Manager Colleta	7364,5852
 United Insurance	14897
+Universal Health Coverage and Insurance	19284
+Universal Health Coverage and Insurances	19284
 Universal Health Insurance	2419,5288,56,3370,4592,252,964,475
 Universal Health Insurance Act	6921
 Universal Health Insurance Agency	15977

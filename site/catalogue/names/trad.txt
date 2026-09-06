@@ -126,7 +126,7 @@ African Trade	5247,5471,592
 African Trade Insurance Agency	18909
 African Trade Insurance Agency. Becoming	18909
 African Trade Ministers Meeting	18220
-African Trade Policy Centre	1356,9463,917,1621,2474
+African Trade Policy Centre	1356,9463,917,1621,2474,3534
 African Trade Report	7408,3310,6904
 Africa’s Continental Free Trade Area	1264
 Agency for Trade Insurance	18909
@@ -232,6 +232,7 @@ CONAFE Cameroon National Trade Facilitation Committee	10841
 CONRAN TRADERS LIMITED Data Processor INST-579994D5786	7167
 CONTINENTAL TRADE	17745
 COSOMA and COMESA Virtual Trade Facilitation System	13053
+COUNTRY PROFILE African Trade Policy Centre	19365
 CRS Trade Test	11685
 CRS Trade Test Readiness	11685
 CRS Trade Testing Programme	11685
@@ -325,6 +326,7 @@ DG Trade and DG Just	11155
 DGs INTPA MENA and ENEST. DG Trade	11155
 DIGITAL SERVICES TRADE	11550,2435
 DIGITAL TRADE	15641,2991
+DIGITAL TRADE IN TOGO	19365
 DIGITAL TRADE INTEGRATION Restrictiveness	11550
 DIGITAL TRADE REGULATORY INTEGRATION	11550,1807
 DIGITAL TRADE REGULATORY INTEGRATION Burundi	13357
@@ -368,8 +370,8 @@ Digital Economy and Trade Integration	13899
 Digital Interconnectivity for Inclusive Trade URL	16901
 Digital Services Trade Re-	13357
 Digital Services Trade Restrictiveness	11550
-Digital Services Trade Restrictiveness Index	13985
-Digital Trade	1031,212,3340,7,1144,144,593,168,400,25,78,368,12,1,496,279,300,437,387,116,619,398,165,415,5,1226,23,285,783,528,739,69,848,1965,139,1322,68
+Digital Services Trade Restrictiveness Index	13985,5380
+Digital Trade	1031,212,3340,7,1144,144,593,168,400,25,78,368,12,1,496,279,300,437,387,116,619,398,165,415,5,1226,23,285,783,528,739,69,848,1965,139,1322,68,230
 Digital Trade Agenda and Africa	226
 Digital Trade Agreement	7685,3469
 Digital Trade Agreements	11154
@@ -1048,6 +1050,7 @@ Quality Council for Trades and Occupations	6832,1245
 Quality Council for Trades and Occupations SAQA	6832
 Quest for Free Digital Trade	226
 REGIONAL INTEGRATION AND POWER TRADE	12563
+REGULATION AND INTEGRATION OF DIGITAL TRADE	19365
 RESTRICTIONS ON INTERNATIONAL TRADE	12389
 RVICE S TRADE	13357
 Rapid Development Trade	12233
@@ -1078,9 +1081,10 @@ Regional Trade and Digital Services Export	10157
 Regional and Bilateral Trade	13042
 Regional and Bilateral Trade Zimbabwe	13042
 Regional and National Context Trade	13320
+Regulation and Integration of Digital Trade	19365
 Regulation of Data Flows Through Trade	1243
 Relations and Trade	5086
-Relevant Traditional Local Communities ESS	1867,16331
+Relevant Traditional Local Communities ESS	1867,16331,1047
 Religious Leaders and Traditional Elders Stakeholders Held	15004
 Research Symposium Zimbabwe International Trade Fair	1154
 Responsibility MICTPCS RBZ Ministry of Trade Private	958
@@ -1126,6 +1130,7 @@ Securing and Facilitating Trade	4827
 Securities Trading System	14809
 Sensitization of Informal Cross-Border Traders	14935
 Service Commission QCTO Quality Council for Trades	11198
+Services Trade Restrictiveness Index	19365
 Servicos. Traducao	1526
 Seychelles International Trade Zone	18912
 Shape Trade Disciplines	11154
@@ -1211,6 +1216,7 @@ TRADE ARRANGEMENTS CANNOT	14816
 TRADE DIPLOMACY BETWEEN THE CENTRAL AFRICAN	16519
 TRADE FACILITATION	16968
 TRADE IN SERVICES AND E-COMMERCE TITLE	15506
+TRADE IN TOGO	19365
 TRADE OPENNESS Surveyed	5247
 TRADE POLICIES AND PRACTICES BY MEASURE	11524
 TRADE POLICY BY SECTOR	11524
@@ -1224,7 +1230,7 @@ TRADER IDENTIFICATION NUMBER	13067
 TRADERS’ FINANCIAL BEHAVIOUR AND ACCESS	5247
 TRADEX	15542
 TRADICIÓN PROVINCIAL PROVINCIAL PROVINCIAL PROVINCIAL	4209
-TRADING ACROSS BORDERS	17613,2
+TRADING ACROSS BORDERS	17613,2,1710
 TRADING ARRANGEMENTS POST-DELISTING Shareholders	4263
 TRADING DATA	7763
 TRADING SOCIETE SOCIT	16623
@@ -1633,7 +1639,7 @@ Trades Workers Food Preparation Assistants Food	16266
 Tradex	17029
 Tradex de Malabo	17029
 Tradición	16898
-Trading	3437,1810,1951,180,1,47,4431,338,38,167,723,427,318,270,859,208,1051,1357,2,278,216
+Trading	3437,1810,1951,180,1,47,4431,338,38,167,723,427,318,270,859,208,1051,1357,2,278,216,1216
 Trading Across Borders	15478
 Trading Across Borders Score	18109
 Trading Arrangements	13320
@@ -1728,7 +1734,7 @@ Traduction Au	18099
 Traduction SDCRP	10975
 Traductor Consulado B3 Intérprete Traductor Embajada	4209
 Traductor Embajada A2 Jefe Económico Admón	4209
-Traduire	13290,39
+Traduire	13290,39,5892
 Traduites	15777
 Traduzir	11448
 Tradução de Idiomas	2816
@@ -1835,7 +1841,7 @@ World Trade Organisation	961,282,4898,1101,1423,2053,138,180,147,27,816,1294,352
 World Trade Organisation Agreement	12895
 World Trade Organisation Southern African Development	12454
 World Trade Organisation.1.1.3. A National Dialogue	2626
-World Trade Organization	2117,2927,322,205,12,1420,2340,79,509,787,126,125,180,5,370,26,655,767,70,11,304,28,600,23,259,361,191,113,546,756,674,64,24,205,166,426,330,346,18
+World Trade Organization	2117,2927,322,205,12,1420,2340,79,509,787,126,125,180,5,370,26,655,767,70,11,304,28,600,23,259,361,191,113,546,756,674,64,24,205,166,426,330,346,18,727
 World Trade Organization Agreement	11550
 World Trade Organization Digital Trade Policy	16144
 World Trade Organization Global Services Trade	11884,275,328

@@ -80,6 +80,7 @@ Compra de Eletricidade TESLA MWh	18793
 Content Delivery Network MW Megawatts Colo	3184,1,1340,6470
 Copperbelt Permanent Secretary Lawrence Mwanza	5984
 Courtesy Shallon Mwiza	14584
+Critical Power MW	19259
 Cybercrime Act Government Spokesperson Mwaura	6787
 DANSON MWANGI MUGURO Data Controller INST-23824677D56	7167
 DFS EAEF2 Anais Chanelle Mwizero Team	1284
@@ -289,6 +290,7 @@ MW Demande	15799
 MW Développer SONGA Energy Projet	13433
 MW EQUATEUR P	15670
 MW Econet Willowvale	306
+MW Energy Generated and Purchased	19239
 MW Eni	15799
 MW Equinix LG-2 Lagos Expansion	10861
 MW Equinix TBD Abidjan In Construction	10861
@@ -414,6 +416,7 @@ MW PAPN	15799
 MW PICP	15799
 MW PV	10180,3615
 MW Peak	12256,2545
+MW Peak Demand	19239
 MW Peak URL	14801
 MW Pilier	13433,5534
 MW Port Victoria	18947
@@ -488,6 +491,8 @@ MW de Kousseri	10975
 MW de MAPIOPIO	15670
 MW de MYHYDRO	15670
 MW de Ngaoundéré	10975
+MW du Ghana	19341
+MW du Nigeria	19341
 MW for IPPs	12399
 MW for RDH	1956
 MW for Rusumo Networks	12358
@@ -511,18 +516,20 @@ MW. CROSS-REF	596
 MW. Captive	12256
 MW. Ce	5745,12149
 MW. Cela	7715
+MW. Cependant	19341
 MW. Ces	4833,11545
-MW. Cette	2342,11299,2029,367
+MW. Cette	2342,11299,2029,367,3304
 MW. Chiffre	2342
 MW. Combined South Africa	596
 MW. Considering	15983
 MW. DISTRIBUTION Tableau	15670
-MW. Dans	16037
+MW. Dans	16037,3304
 MW. Demand	12604
 MW. Demand Side Response	11953
 MW. Des	13641
 MW. Edited	11904
 MW. Electricity	12256
+MW. Elle	19341
 MW. En	15799
 MW. Ends	14667
 MW. Face	14765
@@ -552,6 +559,7 @@ MW. Outre	15542
 MW. PILLAR II ADOPT DISTRIBUTED RENEWABLE	18795
 MW. PILLAR III ENCOURAGE PRIVATE SECTOR	18795
 MW. Phase	3186
+MW. Pour	19341
 MW. RMB	1404
 MW. Rapport Annuel	15670
 MW. SAME	5627
@@ -735,6 +743,7 @@ MwCERT	5548
 Mwaani Girls High School	10313
 Mwabeza	8888
 Mwabu	13636
+Mwabu Formation	19221
 Mwabukusi	7311
 Mwafwe	1867,121
 Mwafwe River	1867,121

@@ -42,7 +42,7 @@ GFD.226	18774
 GFD.227	18774
 GFD.228	18774
 GFD.229	18774
-GFDRR	12158,2490,3314,825
+GFDRR	12158,2490,3314,825,497
 GFEAI	15763
 GFECRA	11289
 GFF Data Portal	5244
@@ -94,6 +94,7 @@ IDA GF F HSTR F Tot	18370
 IIP. A GFS	13868
 Information du Burkina GF	16562
 Initiative Banque Mondiale GFF	18926
+Internationale Zusammenarbeit GFP Gestion	19220
 KDHS. GFR	12151
 Kenya. The GFGP Standard	14225
 LMIS. The GFATM	16922
@@ -114,4 +115,5 @@ Telecommunication GDP Gross Domestic Product GFCF	236
 UHC. The GFF	10829
 UNEP Copenhagen Climate Centre and GFA Consulting	9393
 UT ES LE L OI GFE	14565
+World Bank and GFDRR	19284
 Year TFR GFR CBR CDR Neonatal	15056

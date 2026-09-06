@@ -2,6 +2,7 @@ ACRONYMS EHCVM IPEQ MEBAPLN PASEC PSDEBS	15743
 AI IP Accelerator	4126
 AI and Emerging Technologies IP AI	7548
 ANE IP	2989
+ANID and IPA for Data Lab	19242
 ANSD IPAR	18306
 ASN IPv6 Capacity Port Location Policy	18579
 AU IPED	16356,2328,1
@@ -65,6 +66,7 @@ Consumo IPI	16898
 Contingent Liabilities and Contingent Assets IPSAS	14736
 Conversor de IP	794
 Cooperation IFR Interim Financial Report IPF	1264
+Core IP	19232
 Core IP Network	14010
 D'ÉTUDES SUPÉRIEURES IPHE INSTITUT PRIVÉ DES	18143
 DE BANQUE ET DE RECYCLAGE IPHEC	18170
@@ -176,6 +178,7 @@ IFRSs and IPSASs	3051
 IGM IFR IPF MAHSRN M&E MEPCI	15658
 IIMS IMC INE INIS IPG IRA	10777
 ILO Internally Displaced Person IPF Income-Generating	10964
+ILO International Labour Organization IPF Investment	19239
 IMF International Monetary Fund IPC Infection	15518
 IMF International Monetary Fund IPF Investment	11560
 IMF International Monetary Fund IPP Independent	10861
@@ -190,6 +193,7 @@ INTIC IP ISR ITU M&E MDA	4653
 IOC Indian Ocean Dipole IP Internet	2775
 IOM International Office for Migration IPF Investment	15731
 IOX Indian Ocean Xchange IPR Intellectual	14729
+IP Accorder	19361
 IP Address Mapping	12041
 IP Anse Royale AR La Digue	18951
 IP BTS	54
@@ -197,6 +201,7 @@ IP Cloud Raccourci	15512
 IP Commercialization C1-Number	7548
 IP Como	18752
 IP Configuration and Assign IPs	13185
+IP Contenu	19361
 IP Core	10721
 IP Core Networks for EthERNet	14010
 IP Core and Metro	5444
@@ -215,6 +220,7 @@ IP MS MS Disbursement	14010
 IP Marketplace	12389
 IP Multimedia Subsystem	54,2474,15
 IP Networks Research Service	1766
+IP Obtenir	19361
 IP Offices	12744
 IP Phone	6946,6395
 IP Phones	14883
@@ -275,6 +281,7 @@ IP. IKE	18774
 IP. Licence Ces	9480
 IP. Mais	15592
 IP. Na	14342
+IP. Par	19361
 IP. Toutes	18288
 IP. Une	15474
 IP2AIR Networks Ltd	3862
@@ -327,13 +334,20 @@ IPCC. Clase	16875
 IPCC6-2006	15669
 IPCE Initiative	16628
 IPCSP INSTITUT PRIVÉ DES CADRES	18143,27
+IPD CP	19365
 IPD de Cabo Verde	15755
 IPD. Artigo	15755
-IPDCP	436,895,1298,1237,371,2607,1437,1,390,370,1198,1405,5969
+IPDCP	436,895,1298,1237,371,2607,1437,1,390,370,1198,1405,5969,1605,22,1,1,2,45,19,30,1,23
+IPDCP Body	19245
 IPDCP Colonel B. B	17614
+IPDCP Lorsque	19241
+IPDCP L’Instance	19219
 IPDCP du Togo	10240
 IPDCP. Any	436
 IPDCP. Après	8672
+IPDCP. Dans	19241
+IPDCP. En	19219
+IPDCP. Lorsque	19219
 IPE Global	13975
 IPE IGAD IRIMP Report	13975
 IPED-AU Skip	17014
@@ -358,6 +372,7 @@ IPF Investment Project Financing	11965,2073
 IPF Investment Project Financing IP Implementation	18825
 IPF Investment Project Financing IPP Independent	11549
 IPF Investment Project Financing IPPs Independent	11380
+IPF Investment Project Financing IPR Independent	19245
 IPF Investment Project Financing IRI Intermediate	13861
 IPF Investment Project Financing IRR Internal	17458
 IPF Investment Project Financing ISP Implementation	11855
@@ -383,6 +398,7 @@ IPM Certified	14818
 IPM Exploiter	18077
 IPM P1	18291
 IPM System	11270
+IPM Typologie	19350
 IPM-Mali	17978
 IPMAT INSTITUT PRIVE DE MANAGEMENT ET	18170
 IPMP Integrated Pest Management Plan LMP	1988
@@ -398,6 +414,7 @@ IPNETP와	11326
 IPNX Ltd	3862
 IPNX Nigeria Ltd	3862
 IPNX Nigeria Ltd and Tizeti Network Ltd	3862
+IPNet	19363
 IPO of Ant Group	10350
 IPO' of Roman	3391
 IPO-related	14997
@@ -434,7 +451,7 @@ IPPAs	14742,77
 IPPC International Plant Protection Convention IRU	13042
 IPPF Indigenous Peoples Planning Framework	11390
 IPPF Indigenous Peoples Planning Framework IPs	15518
-IPPI Indice	15961
+IPPI Indice	15961,3389
 IPPI. Au	16250
 IPPIS	7973,3969,194,2991,2818
 IPPIS Data Harmonization Project	7973
@@ -588,6 +605,7 @@ Invernadero IPCC Panel Intergubernamental de Expertos Sobre	16875
 Ip42aYD	16857
 IpNX Internet	3862
 IpNX for Incoming	3862
+IpPI6	19234
 Ipagala	10590
 Ipassage	15999
 Ipaux	13293
@@ -726,6 +744,7 @@ Producción Industrial IPPI	16898
 Program Action Plan and IPF	11905
 Program IPF	11469
 Program and IPF	11905
+Project Financing IPP Independent Power Producer	19239
 Project IPF	11469
 Project Population IPF Digital Development	11469
 Protecção IP66	794
@@ -853,12 +872,12 @@ World Bank IPF and DPO	15659
 World Bank IPF. Detailed FM	3604
 World Bank Policy and Directive for IPF	11905,3754
 World Bank Procurement Regulations for IPF	13332,2186,141
-World Bank Procurement Regulations for IPF Borrowers	1264,603,1737,2935,3064,1226,135,453,438,50,19,41,1367,2186,140,3,775,500,13,231,39
+World Bank Procurement Regulations for IPF Borrowers	1264,603,1737,2935,3064,1226,135,453,438,50,19,41,1367,2186,140,3,775,500,13,231,39,2026
 World Bank's IPF	11905,3756
 World Bank's Procurement Regulations for IPF Borrowers	9604
 World Bank’s IPF Policy and Directive60	16144
 World Bank’s Procurement Regulations for IPF	18198
-World Bank’s Procurement Regulations for IPF Borrowers	2889,3014,5622,1806,1807,1006,752
+World Bank’s Procurement Regulations for IPF Borrowers	2889,3014,5622,1806,1807,1006,752,2388
 World Wide Web. IP	1036
 YOKUTHUTHA NOMA IPHEMITHI ISIQEPHU	11573
 YOKUTHUTHA NOMA IPHEMITHI. ISIQEPHU	11573

@@ -57,6 +57,9 @@ Avec MaDigiPaie	4208
 Awoodaha Madaxweynaha Jamhuuriyadda Federaalka	14859
 B. Introduction and Context Country Context Madagascar	14553
 BAARLAMAANKA FEDERAALKA Madaxa Koowaad	14859
+BADABO Madoutou CCH	19251
+BADJO Koffi Madombena SGT	19251
+BLEZA Madjalobe Essodina ADJ	19251
 BOUKA Née MADOUNI Céline	16012
 BOUMBA MADELEINE	15780
 Background Made	5744
@@ -100,6 +103,7 @@ CRAPC ITCMI MADRP ITAFV INRAA DGSN	16103
 CRAPC ITCMI MADRP ITAFV INRAA Révision	16103
 CSU Portal. Madam Speaker	14753
 Cabinet Minister. Madam Speaker	14753
+Calixte Madjoulba	19283
 Calls Made	12977
 Capture of INSTAT Madagascar	9481
 Centre de Reeducation Motrice de Madagascar	14442
@@ -113,6 +117,7 @@ Claude Priscille MADOUNGOU BOUDIANGA	16175
 Clement Madale Head of Strategic Planning	11224
 Clement T. Madale	11224
 Club de Madrid	6418
+Colonel MADJOULBA Batossie Calixte	19251
 Comoros and Madagascar	19155
 Context and Progress Made	18564
 Context and Progress Made Sierra Leone	18564
@@ -130,6 +135,7 @@ Céni de Madagascar	3403
 DEMAND WAS MADE	10775
 DEMANDE PERMIS DE DEMOLITION REPOBLIKAN’I MADAGASIKARA	14488,1,1
 DGI Madagascar	14580
+DJATO Madoukou ADJ	19251
 DOMAINE PUBLIC Madame ODOU	15558
 DPO Madagascar	14549
 Dear Madam	7074
@@ -239,6 +245,7 @@ Guinea Guinea-Bissau Lesotho Liberia Libya Madagascar	13042
 Guud XAFWSKA MADAXWEYNAHA JFS BIXID	15047
 Guy Arsène Laroche MADINGA KAMBILOL	16175
 Guy Godel MADAMA	16099,76
+Guy Madjé LORENZO	19210
 H.E. Dr. Mostafa Madbouly	11162,4725
 H.E. Mr. Hugues Judicael MBANDINGA MADIYA	16285
 HAVE TO BE MADE ELECTRONICALLY	14816
@@ -326,6 +333,7 @@ Leader Stewart Madzayo. Government	9545
 Lesotho Djibouti Liberia Liechtenstein Madagascar Mali	10764
 Lesotho The Republic of Madagascar The Republic	19185
 Lieutenant Adama BAMBA Lieutenant Mady SISSOKO	17828
+Lieutenant-colonel MADOUGOU Zongo Amane	19251
 Localisation Madagascar	14683
 Luanda MADALENA DOS ANJOS CARLOS	10751
 Luanda MADALENA JOVATI CORREIA	10751
@@ -340,6 +348,7 @@ M. Kébir Madraghi El Alaoui	17947
 M. MADIELE	15692
 M. MADZOU	15786
 M. Madani	17841
+M.Ghislain MADJOULBA	19363
 M3oo de Madagascar	14479
 MAD. Based	15471
 MAD190	17503
@@ -374,8 +383,10 @@ MADIANA NYANDA SAMBA ACTING CHAIRMAN	18452
 MADIENGUELA	15615
 MADIGA SACKO	17828
 MADIGIPAIE	4227,393,11381
+MADIMINE Bongue Yandja ADJ	19251
 MADINA	17828
 MADINA SACKO	17828
+MADITOMA Abalo Gniou SCH	19251
 MADJINOU MBADINGA. MM	16099
 MADJINOU Mariette Sylviane	16381
 MADJINOU NGADJI Corile Tania	16381
@@ -407,7 +418,7 @@ Madadaalo	15152
 Madagasacar	9480
 Madagascan	14506
 Madagascan President Andry Rajoelina	14517
-Madagascar	172,24,108,14,72,13,77,120,10,91,11,12,89,4,12,61,1,27,15,3,26,51,128,1,57,17,27,191,387,123,36,156,1,2,11,3,83,47,166,120,27,37,30,19,26,67,47,42,65,17,1,44,29,47,118,42,15,37,85,30,9,30,51,38,1,10,26,14,85,79,93,80,12,154,36,150,81,1,24,58,247,1,46,49,19,1,123,148,192,181,96,14,149,110,83,235,121,5,29,139,6,87,73,57,73,114,2,19,93,34,13,65,103,34,28,31,45,2,6,59,1,27,123,46,16,136,18,70,104,83,13,3,62,172,2,582,524,140,2,68,66,143,105,95,44,29,196,126,50,197,113,45,26,50,3,8,122,223,338,43,37,8,62,191,16,1,2,264,1,9,47,36,6,26,63,11,1,32,103,152,31,271,6,14,80,105,1,222,124,69,122,28,27,27,2,18,4,1,10,10,57,134,154,110,74,62,8,1,4,1,1,1,1,1,2,1,4,1,2,6,1,1,1,2,1,1,1,1,1,1,2,2,4,1,2,3,1,2,3,4,5,2,1,1,1,1,3,2,1,1,1,3,2,2,6,2,4,2,1,1,3,2,8,2,2,1,2,4,2,1,1,2,1,2,2,1,2,1,3,1,1,11,1,1,2,1,2,1,4,1,1,1,3,1,2,2,6,4,1,1,5,1,2,1,1,3,1,2,2,1,1,1,3,1,1,2,1,2,1,1,2,4,1,4,1,1,1,1,1,3,1,4,1,7,7,1,1,5,38,53,1,51,70,405,123,23,13,11,9,38,1070,188,2,33,637,215,1,81,32,29,35,29,3,329,89,2,67,62,255,233,45,178,22
+Madagascar	172,24,108,14,72,13,77,120,10,91,11,12,89,4,12,61,1,27,15,3,26,51,128,1,57,17,27,191,387,123,36,156,1,2,11,3,83,47,166,120,27,37,30,19,26,67,47,42,65,17,1,44,29,47,118,42,15,37,85,30,9,30,51,38,1,10,26,14,85,79,93,80,12,154,36,150,81,1,24,58,247,1,46,49,19,1,123,148,192,181,96,14,149,110,83,235,121,5,29,139,6,87,73,57,73,114,2,19,93,34,13,65,103,34,28,31,45,2,6,59,1,27,123,46,16,136,18,70,104,83,13,3,62,172,2,582,524,140,2,68,66,143,105,95,44,29,196,126,50,197,113,45,26,50,3,8,122,223,338,43,37,8,62,191,16,1,2,264,1,9,47,36,6,26,63,11,1,32,103,152,31,271,6,14,80,105,1,222,124,69,122,28,27,27,2,18,4,1,10,10,57,134,154,110,74,62,8,1,4,1,1,1,1,1,2,1,4,1,2,6,1,1,1,2,1,1,1,1,1,1,2,2,4,1,2,3,1,2,3,4,5,2,1,1,1,1,3,2,1,1,1,3,2,2,6,2,4,2,1,1,3,2,8,2,2,1,2,4,2,1,1,2,1,2,2,1,2,1,3,1,1,11,1,1,2,1,2,1,4,1,1,1,3,1,2,2,6,4,1,1,5,1,2,1,1,3,1,2,2,1,1,1,3,1,1,2,1,2,1,1,2,4,1,4,1,1,1,1,1,3,1,4,1,7,7,1,1,5,38,53,1,51,70,405,123,23,13,11,9,38,1070,188,2,33,637,215,1,81,32,29,35,29,3,329,89,2,67,62,255,233,45,178,22,66,24,37,13,58,1,11
 Madagascar A Xalam Analytics Country Report	14482
 Madagascar AFR LI	17743
 Madagascar ASI	15848
@@ -450,7 +461,7 @@ Madagascar Macro Poverty Outlook	14576
 Madagascar Macro Poverty Outlook. Page	14576
 Madagascar Madagascar	14662
 Madagascar Mahajanga	3559
-Madagascar Malawi Malaysia Maldives Mali Malta	11470,295
+Madagascar Malawi Malaysia Maldives Mali Malta	11470,295,7577
 Madagascar Malawi Mali Mauritania Mozambique Namibia	16631
 Madagascar Malawi Yes National ICT Policy	11529
 Madagascar Maritime Single Window	7982
@@ -481,6 +492,7 @@ Madagascar Statistical Capacity Building World Bank	222
 Madagascar Suriname Cameroon Malawi Tajikistan Central	11005
 Madagascar Targets	14513
 Madagascar Tests Biometric ID System	4769
+Madagascar Togo	19245
 Madagascar Under	4762
 Madagascar Web	14662
 Madagascar Youth Employment Rate	14576
@@ -489,6 +501,7 @@ Madagascar Zimbabwe	14775
 Madagascar and Burundi	15471
 Madagascar and Comoros	15658
 Madagascar and Mauritius	14745
+Madagascar and Morocco. Esaïe Edoh	19319
 Madagascar and Mozambique	13744
 Madagascar and Mozambique URL	13744
 Madagascar and Peru	11071
@@ -648,7 +661,7 @@ Madam Trina Haque	17311
 Madam Victoria Y. Cole	16848
 Madam Victoria Y. Cole Forestry Development	16853
 Madam Wang Lei	4536
-Madame	4169,2708,838,5660,1162,216,88,558,241,140,105,16,7,191,386,148,841,110,245,234,125
+Madame	4169,2708,838,5660,1162,216,88,558,241,140,105,16,7,191,386,148,841,110,245,234,125,1111
 Madame AG RHISSA Mariam Djibril KEITA	17961
 Madame AU CABINET DE L’ANCIEN PRESIDENT	17861
 Madame Ablawa Lucie SESSINOU	16485
@@ -671,6 +684,7 @@ Madame Aminata Maïga Keïta	18016
 Madame Aminata TOUNKARA	17819
 Madame Angèle ILBOUDO	16287
 Madame Anita AHOUANDJINOU Borgou Membre	16485
+Madame Anna Bjerde	19347
 Madame Anna Lalasoa RAHARIVONY	14527
 Madame Anne-Marie KONAN PAYNE	15712
 Madame Antoinette Ashley NGUESSO AMBENDET	3326
@@ -697,6 +711,7 @@ Madame Aïssata SACKO	17982
 Madame Aïssata TRAORE	17991
 Madame Aïssatou Yaya Diallo	11725
 Madame BA Awa TOUMAGNON	17827
+Madame BEDRE Pidenam Valérie	19315
 Madame Bangoura Nialen Condé	16620
 Madame Bintou Fatoumata GUINDO Filière Echalote	17841
 Madame Bintou MAIGA	17819
@@ -774,6 +789,7 @@ Madame GAKOU Salamata FOFANA Madame GAKOU	17817
 Madame Georgette SIRIMA	15942
 Madame HAIDARA Nanamoye Moulaye Aly Cheick	17841
 Madame HAÏDARA Oumou SOW Exploitante Agricole	17841
+Madame HOUZOU-MOUZOU Prénam G	19260
 Madame Habibatou	17991
 Madame Habibatou MAIGA	17861
 Madame Hadiaratou DIALLO	17830
@@ -784,6 +800,8 @@ Madame Hannan Sulieman	18334
 Madame Henintsoa	14527
 Madame IBOBI	15744
 Madame IKOUROU YOKA	16367
+Madame Ingrid AWADE	19264
+Madame Ingrid AWADÉ	19267
 Madame Isabelle MIGNANWANDE	17584
 Madame Jacqueline KEÏTA HAIDARA	17829
 Madame Jacqueline N'YUHIRE	13588
@@ -821,11 +839,13 @@ Madame Mariama MAÏGA	17830
 Madame Mariame MAIGA	17982
 Madame Marie Angélique Mame Selbé DIOUF	7641
 Madame Marie Mathilde Vinassé MEKPOH	17584
+Madame Marie-Chantal Uwanyiligira	19347
 Madame Marième DIENG	8269
 Madame Marième Kane DIALLO	8269
 Madame Mariétou TAMBA Collines Membre	16485
 Madame Maïmouna KEITA	17991,12
 Madame Mignonhin Constantine SODINYESSI	17584
+Madame Mila AZIABLEest	19278
 Madame Minafou Fanta COULIBALY-KONE	15712
 Madame Mireille GUEDOU MADODE	17584
 Madame Monique Bassenewindé YARGA	16287
@@ -916,6 +936,7 @@ Madame TRAORE Hawaly KONE	17982
 Madame Tabaski BA	8269
 Madame Thérèse Roseline Sidpayété NANA	16287
 Madame Tonami Sandrine Muriel MONGBO	17584
+Madame Tossou Yawo	19315
 Madame Violène IROUNGUI-LEMBA	16099
 Madame Virginie Dora DIOUF	18400,2,1
 Madame Véronique TOGNIFODE	15466,407
@@ -928,7 +949,7 @@ Madame Zeinab SIDIBE Rapporteur	17982
 Madame Zeinab SIDIBE de Transition	17982
 Madame Zeynab Ganaou	11694
 Madame Zhao Jiang-	13405
-Madame la Directrice	16702,1361
+Madame la Directrice	16702,1361,1204
 Madame la Directrice Générale des Impôts de Guinée	16724
 Madame la Ministre	3328,6309,6236,547,298,1312,157
 Madame la Ministre Aminata	16718
@@ -944,7 +965,8 @@ Madame la Secrétaire	16491
 Madame la Secrétaire Générale	18070
 Madame le Commissaire du Gouvernement	10821
 Madame le Contrôleur Financier Spécialisé	10975
-Madame le Ministre	8103
+Madame le Maire	19280
+Madame le Ministre	8103,11218,22,2
 Madame le Ministre des Affaires Sociales	16012
 Madame le Ministre des Postes	10996
 Madame le Premier Ministre	15739
@@ -1114,6 +1136,7 @@ Madrassah. Tertiary	16852
 Madrassas	16852
 Madrassati	2578
 Madrid	1997,3267,85,2871,671,195,7856,1347
+Madrid Agree	19365
 Madrid Agreement	11550,611
 Madrid Protocol	18797
 Madrid System. Eritrea	13985
@@ -1210,6 +1233,7 @@ Ms. Muriel Treibich EFI Ms. Madam	16857
 Mudane Dr. Xasan Sheekh Maxamuud Madaxweynaha	15047
 Muddada Xilka Madaxweynaha Jamhuuriyadda Federaalka	14859
 Murashax Madaxweyne	14859
+NIMA Madjaboyo SCH	19251
 NMHS of Madagascar	14448
 Nako Madjiasra	19026
 Nathan Nwachuku and Maxwell Maduka	10199
@@ -1243,6 +1267,7 @@ Orange Madagascar	2579,1600,10459
 Orange Madagascar Orange Madagascar	4179
 Orange Solidarité Madagascar	14614
 Oumouri Madi	2978
+PALI Abalo Madidoma SCH	19251
 PAYMENTS MADE ON COMPENSATIONS OF EMPLOYEE	16978
 PAYMENTS MADE ON SUPPLIES AND COMSUMABLES	16978
 PIN MAY ALSO BE MADE	11240
@@ -1275,6 +1300,8 @@ Professor Ben Kiregyera and Dr Norah Madaya	1188
 Progress Is Being Made Despite	5911
 Progress Made	5579,7808
 Progress Made Towards the Achievement	11218
+Protection Civile Amb. Calixte Batossie MADJOULBA	19241
+Protection Civile Calixte Batossie MADJOULBA	19251
 Provisional Register of Voters Approach Madam Speaker	13538
 Provisional Voters Statistics Madam Speaker	13538
 Prueba de Madurez	16864
@@ -1316,6 +1343,7 @@ République de Madagascar. Il	14529
 République de Madagascar. Sont	14429
 République de Madagascar. TITRE II DES DROITS	14408
 République. Madagascar	2449
+S.E Madame la Ministre	19363
 S.E. Madame O'Neige N'Sele Mimpa	16426
 SE Madame Jessica Davis Ba	15640
 SE Madame la Première	12009

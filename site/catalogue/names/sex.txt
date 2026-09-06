@@ -1,5 +1,6 @@
 A. The Sexual Offences and Domestic Violence	12939
 ABUS ET EXPLOITATION SEXUELLES	14490
+ABUS SEXUELS	19252,21
 ACTIVITÉ SEXUELLE RÉCENTE	13300
 AVEC SEXE RÉSIDENCE	13300
 Abus Sexuel	14488,1,1
@@ -74,9 +75,13 @@ County and Sex	2775
 Course and Sex	2775
 DES ELEVES PAR AGE ET SEXE	10847
 DISAGGREGATION BY SEX OF HOUSEHOLD HEAD	15244
+Date Prénom Age Sexe AE	19226
 Description Sex Very Somewhat	12409
 Desporto Sexta	11429,50
+Development SEA Sexual Exploitation and Abuse SH	19245
 Digital Sextortion	6426
+Diplômes Sexe Total Féminin Masculin BT	19350
+Diplômes Sexe Total Féminin Masculin CFA	19350
 Document Contractor During Sexual Exploitation	12253
 Document SEP Sexual Exploitation and Abuse SH	10964
 Drawing Rights SEA Sexual Exploitation and Abuse	1264
@@ -94,6 +99,7 @@ Economia Sexta	11479
 Educação Sexta	11429
 Employed Both Sexes	14832
 Employment Both Sexes	14815
+Engagement Plan SH Sexual Harassment SIAMU	19284
 Ensemble Sexe	18014
 Ensemble Sexe Masculin Féminin	13390
 Experience of Sexual Violence	15247
@@ -189,6 +195,7 @@ Market SEAH Sexual Exploitation	17099
 Men Women Sexually Active Multiple	18441
 Milieu Typologie Urbain Sexe	18014
 Mitigation Initiative STI Sexually	11549
+Mode Sexe Provenance Diagnostic Effets Diagnostic	19226
 Multiple Sexual Partners	15247
 Mundo Sexta	11479
 Múltiplos Parceiros Sexuais	10777
@@ -295,6 +302,7 @@ SDGs Sustainable Development Goals SEAH Sexual	18668
 SDR Special Drawing Rights SEA Sexual	10829
 SEA Sexual Exploitation and Abuse SH Sexual	16922
 SEA Sexual Exploitation and Abuse Se-CNSA Food	18301
+SEA Sexual Exploitation and Assault SEP Stakeholder	19284
 SEA Strategic Environmental Assessment SEAH Sexual	11863
 SECTION II DES INFRACTIONS SEXUEIIES ET	15429
 SEP Stakeholder Engagement Plan SH Sexual	1988,16313,476
@@ -318,7 +326,7 @@ SEXUELS RAPPORTS SEXUELS	13300
 SEXUELS SANS RISQUE AVEC LE MARI	13300
 SGBV Sexual and Gender-Based Violence SODV Sexual	12939
 SH Sexual Exploitation	18809
-SH Sexual Exploitation and Abuse	1867,1737,7164,792,3578,377,1434,509
+SH Sexual Exploitation and Abuse	1867,1737,7164,792,3578,377,1434,509,1781
 SH Sexual Exploitation and Abuse and Sexual Harassment	11417,132,4434,401,568,162
 SH Sexual Harassment SME Small and Medium	1264
 SH Sexual Harassment SMP Security Management	15621
@@ -329,6 +337,7 @@ STI Sexually Transmitted Infection TB Tuberculosis	16971
 Sale and Sexual Exploitation of Children	14742
 Santé Sexuelle	15685
 Satellite PMU and Contractor Sexual	1988
+Savanes PAR COMMUNE ET PAR SEXE	19350
 Saúde Sexual	10777,2020
 Section Couture Menuiserie Soudure Total Sexe	13442
 Self- Generated Sexual Content	12459
@@ -403,8 +412,11 @@ Sex-Disaggregated	12389
 Sex-disaggregated	4688,3189,4512,3755,772
 Sex-ratio	12413,2643
 Sexact	8606
+Sexe Dermatose Lèpre UB N	19226
+Sexe Diabète HTA Noma N	19226
 Sexe Diplômé	18014
 Sexe Femme	737
+Sexe Handicap Handicap	19226
 Sexe Homme	18014
 Sexe Homme Femme Mixte Age Jeune	13390
 Sexe Masculin	737,12563,90,2209,2415,190,108
@@ -418,7 +430,9 @@ Sexe Sur	18014
 Sexe Taux	18014
 Sexe du CM	737
 Sexe du CM Homme	737
+Sexe du CM Incidence	19350
 Sexe du CM Masculin	737
+SexePoids T	19226
 Sexes	12413,242,2160,17,224
 Sexes Country Of Birth N	12151
 Sexes Estimates Standard Error Coefficient	14832
@@ -452,7 +466,7 @@ Sexual Behaviour Sexual Behavior	18441
 Sexual Behaviours	18441
 Sexual Exploitation	9766,1010,2409,1895,2019,190,1215,8
 Sexual Exploitation Abuse and Sexual Harassment Action	14976
-Sexual Exploitation and Abuse	1264,514,89,4036,5514,836,724,134,74,147,1290,433,25,581,1235,26,177,15,1256,295
+Sexual Exploitation and Abuse	1264,514,89,4036,5514,836,724,134,74,147,1290,433,25,581,1235,26,177,15,1256,295,619
 Sexual Exploitation and Abuse Mitigation Plan	2889
 Sexual Exploitation and Abuse Politique Nationale de Santé	14622
 Sexual Exploitation and Abuse Referral Florence Apuri	18665
@@ -465,15 +479,16 @@ Sexual Exploitation and Abuse and Sexual Harassment	1988,13150,1976
 Sexual Exploitation and Abuse and Sexual Harassment Action	13331
 Sexual Extortion	12459
 Sexual Gender-Based Violence	18615
-Sexual Harassment	1264,514,89,121,3915,5514,548,288,858,74,147,1723,25,581,1235,26,13,164,15,51,1205,98,36,66
+Sexual Harassment	1264,514,89,121,3915,5514,548,288,858,74,147,1723,25,581,1235,26,13,164,15,51,1205,98,36,66,714
 Sexual Harassment Compliance Team STD Sexually	16926
 Sexual Harassment Performance Declaration	13185
 Sexual Harassment Policy	16852
 Sexual Harassment Policy. The DHA	11986
 Sexual Harassment SCD Systematic Country Diagnostic	16949
 Sexual Harassment SEN-CSU	18370
-Sexual Harassment SEP Stakeholder Engagement Plan	1867,1737,7956,3578,377
+Sexual Harassment SEP Stakeholder Engagement Plan	1867,1737,7956,3578,377,3724
 Sexual Harassment SIGAS Social Action Management	10768
+Sexual Harassment SIN Digital Infrastructure Company	19245
 Sexual Harassment SMC School Management Committee	15661
 Sexual Harassment SPD Standard Procurement Document	17458
 Sexual Harassment Stakeholders Engagement Plan Behavior	15658
@@ -532,6 +547,7 @@ Sustainable Development Goal Sexual Exploitation and Abuse	15658
 Symptoms of Sexually Transmitted Infections and Prior HIV	15247
 Syndrome Immunodéficience Acquise Violences Sexuelles Basées	13442
 T Infection Sexuellement Transmissible	15711
+TB SexeSignes	19226
 TRENDS COURSE REGISTRATION BY SEX POSTER	13095
 TYPE D'ECOLE ET SEXE III.4.1 Public	10847
 TYPE D'ECOLE ET SEXE III.4.2 Privé	10847
@@ -543,6 +559,7 @@ Tourism ASRH Adolescent Sexual and Reproductive Health	17289
 Transmissão Sexual Lista	10777
 Travelling Child Sex Offending	12459
 Trends of Liberia’s Sex Ratio	16921
+Type de SexeScorePoids	19226
 Type of Disability and Sex	2775
 Type of Offence and Sex	2775
 Types of Sex-disaggregated Data Available Online	12389

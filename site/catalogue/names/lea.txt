@@ -64,13 +64,14 @@ Africa. Learn	13431,1575
 African Capacity Building Foundation's LEAPS	16815
 African Countries Can Learn	1398
 African Leaders Summit	1038
+African Leadership	19221
 African Leadership Academy	8433
 African Leadership Centre Trust Data Controller	7167
 African Leadership Centre Trust Data Processor	7167
 African Leadership Centre. Email	16644
 African Leadership Magazine	36,7292,1878
 African Leadership Meeting	15685
-African Leadership University	415
+African Leadership University	415,18897
 African Least Developed Countries	273,841
 African Union. Lead Entity Ministry of ICT	4528
 Africanhighereducation. Learning	8602
@@ -528,7 +529,7 @@ Experiential Learning Workshop and Field Visits	14057
 Expert Leaders Group	11138
 F. Lessons Learned	11549
 F. Lessons Learned III. IMPLEMENTATION ARRANGEMENTS	14910
-F. Lessons Learned and Reflected	969,295,603,8901,61,135,416,180,295,1477,1605,554,24,3,35,68,37,1,2,82,401,240,565,1155,189,8,476
+F. Lessons Learned and Reflected	969,295,603,8901,61,135,416,180,295,1477,1605,554,24,3,35,68,37,1,2,82,401,240,565,1155,189,8,476,462,6
 FAO Resilience Team Leader for Southern Africa	12507
 FAO-EOSTAT Global Project Leader	13394
 FG Launches First-Ever Nationwide Learner Identification	18219
@@ -540,6 +541,7 @@ Facilitating Learning Continuity	14936,1
 Facilities Leasing Regulations	5872
 Fadila Caillaud. Task Team Leader	13860
 Fairland Lead	10793
+Fatima Barry Team Leader Health	19284
 Federated Learning Analysis	12675
 FiTI Lead Ministry and National Focal Point	10112
 FiTI NMSG Showcases Seychelles' Leadership	19158
@@ -598,6 +600,7 @@ G7 Leaders. EVP Vestager	11154
 G7 Leaders’ Summit	6715
 GENERAL INTERNET LEARNING FOR ME LANGUAGE	11004
 GENERAL USING LEARNING RELEVANT LANGUAGE ME	11964
+GEOSPATIAL DATA MACHINE LEARNING SATELLITE DATA	19237
 GIBS Media Leadership Think Tank	13461
 GIMPA Next KOICA Youth Leadership Programme	10123
 GITEX Nigeria Government Leadership and AI	9117
@@ -731,6 +734,8 @@ Improved Inclusive Foundational Learning	12175
 Improved Inclusive Foundational Learning Low	12175
 Improved Learning Environments	12175
 Improving Learning Outcomes	899
+Improving Quality of Teaching and Learning	19249
+Improving Quality of Teaching and Learning Baseline Actual	19249
 Improving the Quality of Teaching and Learning Conditions	13392
 Improving the Quality of Teaching and Learning. Component	13392
 Inaugural Leaders’ Session	18378
@@ -795,7 +800,7 @@ JESCOR Learning Center	17167
 JHURREE Manoj Kumar Lead Programme	14770
 Jan-2022 Korotoumou Ouattara Task Team Leader	10963
 Jana Kunicova Task Team Leader	18359
-Jana Kunicova Task Team Leaders	16144
+Jana Kunicova Task Team Leaders	16144,3101
 Jana Kunicova. Task Team Leader	11965
 Jana Kunicova. Task Team Leaders	15802
 Jehan Arulpragasam Task Team Leader	11525,330,5994
@@ -845,7 +850,7 @@ Ksh Sources LEAD Millions	7548
 Ksh Sources LEAD Support Millions	7548
 Ksh Sources LEAD Support Support the Millions	7548
 Kwawu Mensan Gaba Task Team Leader	15983
-Kwawu Mensan Gaba Task Team Leaders	11549
+Kwawu Mensan Gaba Task Team Leaders	11549,7690
 L'Association Jeunes Leaders	15712
 LA SANTE IPSTG LEADER INSTITUT PRIVE	18170
 LAN Local Area Network LDC Least	16885
@@ -907,6 +912,7 @@ LEARNING HEALTH GOVERNMENT INCOME ONLINE BANKING	11964
 LEARNING High Priority	899
 LEARNING IN KENYA	899
 LEARNING IS NOT CONTENT CONTACTING CONTENT	11964
+LEARNING RECORDS	19237
 LEARNING SYSTEMS TO DELIVER	12329
 LEARNING TO TEACH	18643
 LEASE PAYMENTS AND CONTINGENT LIABILITIES	4896
@@ -1003,6 +1009,7 @@ Lead Knowledge Partner for NaVALI and Head	9534
 Lead Lead	1988
 Lead Ministries Consolidated	7548
 Lead Ministry	14935,12
+Lead Modern Workplace	19265
 Lead NITDA	10157
 Lead NUP	4175
 Lead National Agency Regulador	16854
@@ -1241,7 +1248,7 @@ Leapa	13388
 Leapfrog Ventures	12376
 Leapfrogging	7233,893,5188,2160,19
 Leapfrogging Potential	4528,7984
-Learn	2318,6,103,20,57,1,16,20,25,48,44,20,42,5,53,41,1,3,50,41,11,18,4,70,1,8,154,99,6,18,126,31,163,119,40,38,69,29,1,1,110,37,21,38,118,124,66,119,78,145,6,49,32,222,225,32,25,81,45,60,43,86,15,181,78,116,183,10,9,44,26,19,5,64,109,5,16,77,11,1,149,7,16,43,81,38,19,72,99,24,11,34,120,6,42,1655,362,132,186,39,15,3,23,468,56,363,13,67,65,2,106,510,112,331,2,249,18,52,95,91,14,54,16,215,19,196,139,15,566,152,164,376,544,102,60,343,270,1408,84,81,124,11,244,725,9,160,10,3,191,253
+Learn	2318,6,103,20,57,1,16,20,25,48,44,20,42,5,53,41,1,3,50,41,11,18,4,70,1,8,154,99,6,18,126,31,163,119,40,38,69,29,1,1,110,37,21,38,118,124,66,119,78,145,6,49,32,222,225,32,25,81,45,60,43,86,15,181,78,116,183,10,9,44,26,19,5,64,109,5,16,77,11,1,149,7,16,43,81,38,19,72,99,24,11,34,120,6,42,1655,362,132,186,39,15,3,23,468,56,363,13,67,65,2,106,510,112,331,2,249,18,52,95,91,14,54,16,215,19,196,139,15,566,152,164,376,544,102,60,343,270,1408,84,81,124,11,244,725,9,160,10,3,191,253,380
 Learn AI. School	14772
 Learn English	13991
 Learn English. Accessed	13991
@@ -1286,7 +1293,7 @@ Learners and Educators	11281
 Learnerships	6832
 Learner’s Identification Number	9114
 Learnfrom Other African Countries	14932
-Learning	396,375,128,878,316,3,1453,312,571,1845,471,84,116,496,104,100,98,565,65,84,142,465,61,210,193,224,482,86,92,193,221,177,11,114,4,45,259,468,9,2,6,16,20,130,85,181,3,54,40,7,69,145,52,246,172,212,172,462,1,574,1,246,39,28,17,26,2,34,39,167,378,62,14,43,82,7,186,324,374,6,65,147,20,12,58,21,12,10,131,80,52,4,35,8,34,15,279,4,631,220
+Learning	396,375,128,878,316,3,1453,312,571,1845,471,84,116,496,104,100,98,565,65,84,142,465,61,210,193,224,482,86,92,193,221,177,11,114,4,45,259,468,9,2,6,16,20,130,85,181,3,54,40,7,69,145,52,246,172,212,172,462,1,574,1,246,39,28,17,26,2,34,39,167,378,62,14,43,82,7,186,324,374,6,65,147,20,12,58,21,12,10,131,80,52,4,35,8,34,15,279,4,631,220,767,4
 Learning AI	6948
 Learning Achievement	14922
 Learning Achievement MML Minimum Mastery Level	13990
@@ -1385,6 +1392,7 @@ Learninganalytics	8602
 LearninganalyticsontheAfricancontinent	8602
 Learningmanagementsystemforgreaterlearnerengage-	8602
 Learnings	7946,3184,1372,4290,1855
+Learns	19237
 Lease	2674,2222,5600,297,1418,436,265,141,345,1223,92,760,3408
 Lease Agreement	14778
 Lease Agreement. F.6 Corrupt	14778
@@ -1529,7 +1537,7 @@ MSMEs Lead	15130
 MUBS Disability Resource and Learning Centre	4028
 MUST SELECT A LEAD ENTITY	11240
 Mach Learn Appl	9739
-Machine Learning	1243,14,1559,168,620,47,877,716,125,910,270,283,502,214,1058,271,1844,419,125,945,30,116,63,93,163,346,56,18,251,1,9,1307,127,474,319,37,96,1400,44,95,728,55,280
+Machine Learning	1243,14,1559,168,620,47,877,716,125,910,270,283,502,214,1058,271,1844,419,125,945,30,116,63,93,163,346,56,18,251,1,9,1307,127,474,319,37,96,1400,44,95,728,55,280,924
 Machine Learning AIX Advanced Interactive	13185
 Machine Learning Approaches	11265
 Machine Learning Basics	11265
@@ -1547,6 +1555,7 @@ Machine Learning Specialists Engineering	6832
 Machine Learning and Artificial Intelligence	12926
 Machine Learning and Big Data	13044
 Machine Learning and Deep Learning. Electronic Markets	11265
+Machine Learning and Mobile Impact of Bolsa Familia	19237
 Machine Learning and Robotics Enthusiast	13074
 Machine Learning and Society	8380
 Machine Learning for Environmental Monitoring	18318
@@ -1647,6 +1656,7 @@ Name Preparation Task Team Leader Boutheina	15424
 Namibia College of Open Learning	12325
 Namibia Learning Passport	9872
 National AI Learning Platform	6757,8072
+National Center for Learning Evaluation	19249
 National Digital Learning Platform	14566
 National Digital Learning Strategy	18564
 National Digital Learning Strategy Theory of Change	18564
@@ -1892,6 +1902,7 @@ Raise Student Learning	15661
 Raluca Georgiana Golumbeanu Team Leader Senior	15983
 Ramesh Govindaraj Task Team Leaders	11417
 Randeep Sudan Project Team Leader	18754
+Random Forests. Machine Learning	19237
 Recognition of Prior Learning	11504,1430,126,1516,243,1856,94
 Recognized for Fair Play THE LEADERSHIP	18576
 Recognizing Digital Leadership The Minister of Information	4535
@@ -2011,6 +2022,7 @@ Servant Leadership	1154
 Servant Leadership Putting	1554
 Set Lead	14997
 Seventh International Learning Analytics	9128
+Showcases Global South Leadership	19298
 Sick Leave	11218
 Sierra Leone Learning Passport	18478,86
 Sierra Leone Learning Passport Figure	18478
@@ -2108,6 +2120,7 @@ Task Team Leader Tounwendé Alain Sawadogo	1641
 Task Team Leader and Senior Social Protection	15006
 Task Team Leader for Social Protection	11855
 Task Team Leaders	11560,405,1494,275,1154,775,119,616
+Task Team Leaders Fatima Barry	19284
 Task Team Leaders Guillaume Kroll	18809
 Tax Compliance Team Leader	12162
 Teacher Learning Circles	12175
@@ -2122,7 +2135,7 @@ Teaching and Learning for All Girls and Boys	12175
 Team Lead	14486,176,3896
 Team Lead Surveillance	14662
 Team Lead WHE	14662
-Team Leader	2549,1129,1870,5322,382,196,8,294,119,72,752,344,21,1870,38,224,400,67,6,951,243,613,1028,484,93
+Team Leader	2549,1129,1870,5322,382,196,8,294,119,72,752,344,21,1870,38,224,400,67,6,951,243,613,1028,484,93,167
 Team Leader Co-Team Leader	17962
 Team Leader Name Team Leader Erkin	11924
 Team Leader Name Team Leader Mare	17962
@@ -2247,6 +2260,8 @@ Values Learning Community	16162
 Venerable Religious Leaders	17347
 Vice President ADM Responsible Team Leader	16436
 Vision Leader	11224
+Voahirana Hanitriniala Rajoela Task Team Leaders	19284
+Voahirana Hanitriniala Team Leader Health	19284
 Vodacom Group Accessibility Lead	15319
 Vulnerable Learners. Statistics	12411
 Vuyiswa Khutlang SA Mine Project Leader	7751
@@ -2297,6 +2312,7 @@ X Lead	15130
 X Leader Cleaner	13097
 X X Lead	15130
 Yadviga Viktorivna Semikolenova. Task Team Leaders	12388
+Year The National Learning Assessment System	19249
 Years of Learning About G2P Choice	12335
 Young African Leaders Initiative	42
 Young African Women Leaders Programme	17101

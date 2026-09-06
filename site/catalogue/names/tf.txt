@@ -1,7 +1,9 @@
 ADDITIONAL GRANT TF-A9151 ON A GRANT	17849
 ADEA TFEMPS Resource Persons	13310
+AF HEPR TF	19284
 AfricaConnect TF	14888
 African TFGBV	1237
+Apr-2028 IDA-79700 IDA-D7870 Not TF-D0682 Effective	19284
 Apr-2029 TF-C3623 Effective	17096
 Bank Administered Financing TF-B5223 Total Original	16436
 Building TF	14888
@@ -29,7 +31,9 @@ GPE Grant TF16391	18765
 GRANT NO. TF0B6810-KE	14546
 GRANT No. TF092930	16614
 GRANT TF-19374	17849
-HEPR TF	16922
+HEPR TF	16922,2362
+HEPR TF Restructuring Parent Project	19284
+Health Record HEPR TF Health Emergency	19284
 I D EML IANUERSI TFIOURS TNHAET	14565
 ITI TF-2X	1009
 ITI TF-2a	1009
@@ -50,6 +54,7 @@ Mahlangatsha and Tfutfukani	13123
 Mme Tfeilaa Mohameden Haden	17994
 OASIS Standard ITI TF-2b	1009
 Occup Sous- Sous- Chômeu Taux TF	737
+Oct-2026 TF-B6287 Effective	19249
 Oct-2030 TF-C5652	15737
 Official Use Only TF-B8649 Effective	18817
 Procurement STI Sexually Transmitted Infection TFP	10829
@@ -59,6 +64,7 @@ Q TRANSPORT FAMILLE NIMAGAN TFN	16623
 RMA SNIS TBM TBN TFA TFT	15599
 Regulatory Authority TFS The Future Society	1204
 Renewable TFEC	12261
+Restructuring AF HSTRF HEPR TF Restructuring	19284
 SASPP TF US	16384
 SGs SDG SMEs TFP TSF UA	13938
 SSE STEP STG TFPs TTL UNHCR	16436
@@ -68,6 +74,7 @@ Sep-2024 TF-B5069 Closed	17904
 Sep-2024 TF-C4543 Effective	17904
 Southern African Development Community TFP Trade	12951
 TDR TFG TGF TIP TLF TMPF	10777
+TF Description Status Action IDA-D7870 Complied	19284
 TF IBRD-90020 Status Effective Approval	11395
 TF IDA-67920-001	11965
 TF IDA-D3080 Status Effective Approval	18792
@@ -79,11 +86,11 @@ TF Risk Assessment Report	14774
 TF Rpeak	9475
 TF Status Approval Date Signing Date	15619,1019,1835
 TF Status Approval IBRD-96930 Effective	6579
-TF Status Approval Signing Effectiveness Orig	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179,283,165
+TF Status Approval Signing Effectiveness Orig	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179,283,165,260,7
 TF Status Currency Original Revised Cancelled	15619,1019,1835
 TF Status IBRD-96930 Effective Original Revised	6579
 TF Status Original	11395
-TF Status Original Revised Cancelled Disbursed	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179,258,25,165
+TF Status Original Revised Cancelled Disbursed	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179,258,25,165,260,7
 TF TF	737
 TF Total Committed	12980
 TF Trust Fund UN United Nations	16384
@@ -102,6 +109,7 @@ TF-B4948 Closed	17958
 TF-B4949 Closed	17958
 TF-B5069 Closed	17904
 TF-B5223	16436
+TF-B6287 Effective	19249
 TF-B6576	15531,452
 TF-B6853	15531,452
 TF-B6885	15531,452
@@ -118,6 +126,7 @@ TF-C9236	13058
 TF-C9269	13058
 TF-CSIRT	10764
 TF-D0339 Assignment Title	13925
+TF-D0726 Not Effective Reallocation Currency	19284
 TF017898	15406
 TF019374	17849
 TF05 ST 05 Equitable Data Gove66d5d7413a57e.pdf	7242

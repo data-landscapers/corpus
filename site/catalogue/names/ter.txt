@@ -64,7 +64,7 @@ Administración Territorial	6841
 Administration TERMINAL AIRPORT MANAGEMENT Adresse	17006
 Administration Territo-	17812
 Administration Territoire	9567
-Administration Territoriale	557,86,649,765,675,664,974,6442,3430,1300,1,986,117,1166,2,3,24,1,441,3
+Administration Territoriale	557,86,649,765,675,664,974,6442,3430,1300,1,986,117,1166,2,3,24,1,441,3,935,14,16,17,12,71
 Administration Territoriale Article	17817
 Administration Territoriale Et des Collectivités Locales	17812
 Administration Territoriale Ferkessedougou	17817
@@ -96,7 +96,7 @@ Aménagement des Terrains Urbains	15542
 Aménagement des Territoires	3381,14912,92,27
 Aménagement des Territoires M. Papa Aliou DIOUF	18361
 Aménagement des TerritoiresMMAD Ministère des Moudjahidines	15555
-Aménagement du Territoire	235,2989,5667,2073,2759,2,52,21,642,4,31,57,80,12,280,462,10,58,38,29,27,14,13,25,86,9,437,279,191,32,2,51,51,730,366,3,24,1,56,4,5,9,62,4,23,27,45,38,54,117,7,31,88,2,614,96
+Aménagement du Territoire	235,2989,5667,2073,2759,2,52,21,642,4,31,57,80,12,280,462,10,58,38,29,27,14,13,25,86,9,437,279,191,32,2,51,51,730,366,3,24,1,56,4,5,9,62,4,23,27,45,38,54,117,7,31,88,2,614,96,176,4
 Aménagement du Territoire Actes Réglementaires Décret	17876
 Aménagement du Territoire Communautaire	17355
 Aménagement du Territoire DNPIA	17842
@@ -136,6 +136,7 @@ Arts and Recreation and Higher and Tertiary Education	13310
 Arts and Recreation. In the Higher and Tertiary	13310
 Assistance TORs Terms	15969
 Assistance ToC Theory of Change ToR Terms	3604
+Atakpamé. Les Termes de Référence	19253
 Atlântico Board of Directors Chairman Teresa Cristina	11955
 Atualmente Terra	2125
 Aucune Collectivité Territoriale	15469
@@ -188,6 +189,7 @@ CEO Engineer Tererai Tinashe Maposa. Ndarama	13688
 CEO Tertiary	12726
 CEO of Terra Industries	8780
 CERTES UNICEF Terre des Hommes Informaticien	17882
+CETAP ARMEE DE TERRE	19251
 CFT Financing of Terrorism ICT Information and Communication	12444
 CFT SOCO Human Resource Pce des Terres	14760
 COLLECTIVITES TERRITORIALES	17861
@@ -219,6 +221,7 @@ CONSULTING TERMS	15590
 CONTAINER TERMINAL	16381
 CONTRA EL TEROR.- Concepto	4209
 CONTRA EL TEROR..- Concepto	4209
+CONTRE LE TERRORISME	19209
 CONTRIBUTION Collectivités Territoriales Décentralisées	14425
 CONTROLE DE TERRAIN PAR	10876
 COUNTER TERRORISM	11277
@@ -251,6 +254,8 @@ Civil Registry MATD Ministry of Territorial Administration	10812
 Classe de Terminale	18099
 Classificador Territorial	10783
 Clear Operational Terms	13532
+Clinical Terms	19284
+Clinical Terms SOP Series of Projects SYCEBNL	19284
 Clôture du Programme Terra Bénin	10876
 Code Général des Collectivités Territoriales	18096
 Code Général des Collectivités Territoriales Décentralisées	10981,4488,726
@@ -265,7 +270,7 @@ Collectivités Collectivités Territoriales	17817
 Collectivités PRESIDENCE DE LA REPUBLIQUE Territoriales	17812
 Collectivités Territo-	2342,15470,265
 Collectivités Territo- DECRETE	17812
-Collectivités Territoriales	643,1699,13077,50,68,66,1851,357,1,5,44,97,136,72,120,11,709
+Collectivités Territoriales	643,1699,13077,50,68,66,1851,357,1,5,44,97,136,72,120,11,709,214
 Collectivités Territoriales DGDP	17842
 Collectivités Territoriales Décentralisées	10965,10,3450,25,986,106,57,251,149,564
 Collectivités Territoriales Les Collectivités	18286
@@ -376,6 +381,7 @@ DE L’ADMINISTRATION TERRITORIALE ET	18032
 DE L’AMENAGEMENT DU TERRITOIRE ET	8237
 DE SAUVEGARDER L'INTÉGRITÉ DU TERRITOIRE	15603
 DE TERRAIN	13300
+DE TERRE	19251
 DEFINITION DES TERMES CLES	10876
 DEFINITION DES TERMES CLES1 Aliénation Transmission	10876
 DEFINITION OF KEY TERMS	17127
@@ -535,6 +541,8 @@ Dégradation des Terres	17941
 Démarré Démarré Démarré Démarré Terminé Terminé	15542
 Démarré Démarré Terminé	15542
 Développement Territorial	17829
+Développement des Territoires	19221
+Développement des Territoires Payadowa BOUKPESSI	19235
 D’ACQUISITION DES TERRES ET TERRAINS la Constitution	15439
 D’APPUI AU DEVELOPPEMENT ECONOMIQUE DES TERRITOIRES	17828
 D’UN OFFICIER DE L’ARMEE DE TERRE	17982
@@ -663,6 +671,8 @@ Fórum Nacional de Terras	11527
 G Service Terms	11878
 G- Digital I Terrestrial TV D	582
 GENERALITIES. TERMINOLOGY. STANDARDIZATION. DOCUMENTATION	16900
+GLOSSAIRE DES PRINCIPAUX TERMES	19226
+GLOSSAIRE DES PRINCIPAUX TERMES Dans	19226
 GLOSSAIRE DES TERMES ET ABREVIATIONS Accès	18204
 GLOSSAIRE DES TERMES TECHNIQUES UTILISES	15685
 GLOSSAIRE DES TERMES TECHNIQUES UTILISES Termes	15685
@@ -697,7 +707,7 @@ Ghana Tertiary Education Council	4126
 Ghana Tertiary Initiative	4126
 Gilead John Teri	10040
 Global South. Terra Industries	10199
-Global Terrorism Index	15715
+Global Terrorism Index	15715,3505
 Glossary Term Definition ABAC Attribute-Based Access	11952
 Glossary of Abbreviations Term Description AI Artificial	14674
 Glossary of Key AI Terms Purpose	4528,7984
@@ -721,7 +731,7 @@ Grant Terms	17441
 Gross Tertiary Enrolment Ratio	14775
 Gross Tertiary Enrolment Ratio HEC	14775
 Gross Tertiary Enrolment Ratio The Gross	14775
-Guiana French Polynesia French Southern Territories	11470
+Guiana French Polynesia French Southern Territories	11470,7872
 Général Direction Générale des Transports Terrestres	10812
 HABITAÇÃO E ORDENAMENTO DO TERRITÓRIO	15380
 HACKTIVISTES CYBERCRIMINELS CYBER TERRORISTES CAPACITÉ CYBER	18317
@@ -730,6 +740,7 @@ HFCoL Minister of Tertiary Education	14747,28
 HIGHER AND TERTIARY EDUCATION	13420
 HON TERENCE MONDON	18964
 HON. EBENEZER O. TERLABI MINTER	15845
+Ha Terres	19221
 Handling Terrorism Cases URL	18233
 Haut Coneil des Collectivités Territoriales	18286
 Haut Conseil des Collectivités Territoriales	18286
@@ -796,6 +807,7 @@ Investissement des Collectivités Territoriales	17817,10
 Investissement des Collectivités Territoriales. CHAPITRE	17817
 Investment Inclusion Term	16942
 Investment Productivity Term	16942
+Investment Project ToR Terms of Reference UEMOA	19239
 Islamic Military Counter Terrorism Coalition	10701
 Island Container Terminal Project	14829
 J'AI TERMINE MA DECLARATION	16629
@@ -874,6 +886,7 @@ Liquid Telecom South Africa Term Loan	686
 List of Figures Glossary of Terms Abbreviation Expansion	12917
 Lista de Termos	18788,157,1
 Location Registry Terminology Repository Business Rules	21
+Lomé Container Terminal SA	19295
 Long Term	1161,11809,1753,2537
 Long Term Agreements	14622
 Long Term Arrangement	14778
@@ -1179,6 +1192,7 @@ PAGE VIII DEFINITION DES TERMES CLES	16195
 PART III EXTRA TERRITORIAL JURISDICTION	12928
 PART IX-TYPE APPROVAL OF TERMINAL EQUIPMENT	16839
 PAS LE TEMPS DE LA TERMINER	16629
+PERFORMANCES EN TERMES DE RECETTES FISCALES	19250,41
 PERSPECTIVES A COURT TERME O6 DIRECTION	15670
 PFHEA Minister of Tertiary Education	14812
 PIB Primaire Second Tertiare	18063
@@ -1271,6 +1285,7 @@ Project TERRA	11727
 Project the Termination Date	15901
 Projet de Restauration des Terres Dégradées	11604,6374
 Projeto Alerta Rápida Relatório de Missão de Terreno	17147
+Prospective Territoriale	19366
 Province Territoire Libelle	15670
 Provincial Minister Tertuis Simmers Email	8564
 Provincial Minister Tertuis SimmersTel	11253
@@ -1443,6 +1458,7 @@ TABLE OF GLOSSARY Term Definition Agent	13333
 TAXE TERSOR	17833
 TDT-Televisión Digital Terrestre	17061
 TELECOMMUNICATIONS TERMINAL EQUIPMENT	14883
+TER.pdf	19241
 TERA N GA Z SA Avis	18322
 TERANGA OIL	18322
 TERCEIROS	11386
@@ -1465,6 +1481,8 @@ TERMINAL	16623
 TERMINAL PASSAGERS Antenna	17006
 TERMINALE	18099
 TERMINATION	14430,482,785,1239
+TERMINATION AND SUSPENSION	19214
+TERMINATION AND SUSPENSION Section	19214
 TERMINATION OF LICENSE	15149
 TERMINATION OF MEMBERSHIP	585,8281
 TERMINEE GET	9480
@@ -1507,6 +1525,7 @@ TERRAIN	13300,2469
 TERRAIN Adresse	14488,1,1
 TERRAIN NUMÉRO	13300
 TERRAIN TERRAIN	13300
+TERRE	19251
 TERRE PAR LE PROPHETE MABOULOU-MA-PANDI VICTOR	15439
 TERRENO REGIÃO	17147
 TERRESTRES AÉREAS MONUMENTO DE ADUANAS	4209
@@ -1739,6 +1758,7 @@ Terminals	3491,150,634
 Terminals Airport Management	17006
 Terminals Airport Management Cargo	17006
 Terminals and Cards	11955
+Terminated	19279
 Terminates	14024
 Termination	22,563,569,2560,258,77,105,93,55,2130,766,1668,1847,1110,541,407,264,5,145,207,1101,285,420,703,938,4,271,1547
 Termination Clauses Every	6432
@@ -1747,6 +1767,7 @@ Termination Fees	7198
 Termination TPRA	14897
 Termination The Client	13037
 Termination and Consequences	12302
+Termination and Suspension	19214
 Termination for Convenience	13185
 Termination for Default	13185
 Termination for Insolvency	13185
@@ -1926,7 +1947,7 @@ Terras	2437,9077,384,6862
 Terras M	17773
 Terrasson	14830
 Terrazzo	13385
-Terre	3526,349,492,3007,3502,5,85,2334,75,2140,66,143,275,48,312,52,1353,64,1,44,38,71,222
+Terre	3526,349,492,3007,3502,5,85,2334,75,2140,66,143,275,48,312,52,1353,64,1,44,38,71,222,1146,16
 Terre APCAM	17841
 Terre Première	15674
 Terre Rouge	14847
@@ -1942,7 +1963,7 @@ Terreno	10777,737,47
 Terreno Dotacional	15380
 Terrenos	4209,7692,3487
 Terrenos Afectos	11443
-Terres	1684,9192,2499,431,1728,246
+Terres	1684,9192,2499,431,1728,246,3441
 Terres Dégradées Programme Triennal	17978
 Terres TCHINDJILI	15780
 Terres des Hommes Médecin	17882
@@ -1971,7 +1992,7 @@ Territoires Frontaliers	18286
 Territoires Indicateur Synthétique de Sortie	17978
 Territorial	1701,1105,1055,4025,3480,161,1,35,335,1520,1209,2216,852,610,154,97
 Territorial Administratio	15553
-Territorial Administration	2427,1158
+Territorial Administration	2427,1158,15660
 Territorial Administration Ministry	10775
 Territorial Administration Program	6093
 Territorial Administration and Governance Reforms	13418
@@ -2010,7 +2031,7 @@ Territorio Na	16855
 Territorio Nacional	163,4046,12646,48,2
 Territorio Nacional. Múltiples Nacional	4209
 Territory	228,1,11628,3,2089,4176,472
-Territory Brunei Bulgaria Burkina Faso Burundi	11470
+Territory Brunei Bulgaria Burkina Faso Burundi	11470,7872
 Territory Director for Africa	5327
 Territory Management Modules	11941
 Territory Management Modules of SIMple	11941
@@ -2059,7 +2080,7 @@ Tertiaire Construction Industrie	10875
 Tertiaire Industrie	10875
 Tertiar	15845
 Tertiar Tertiar Tertiar	15845
-Tertiary	1261,3267,2220,1121,2906,37,157,11,149,728,22,5,1,10,264,1,44,1,146,4,12,16,77,27,25,391,407,4,677,732,92,17,4,43,17,1,1975,12,986,100,508,5
+Tertiary	1261,3267,2220,1121,2906,37,157,11,149,728,22,5,1,10,264,1,44,1,146,4,12,16,77,27,25,391,407,4,677,732,92,17,4,43,17,1,1975,12,986,100,508,5,762
 Tertiary Education	4126,402,6606,745,633,463,335,1432,33,37,7,10,7,960
 Tertiary Education Commission-TEC	14836
 Tertiary Education Entities	18461
@@ -2093,6 +2114,8 @@ Tertiary and University Educational	1000
 Tertio	10965,5455
 Tertul-	16100
 Tertulien Rovyl	15901
+Teruel	19237
+Teruel and Duncan	19237
 Teruza Pty Ltd	12478
 Terventions	15397
 Terça	3093,1886,293,1623,1162,3375,7323
@@ -2104,6 +2127,7 @@ Tipo de Disputas de Terra Disponibilidade de Estatísticas	11898
 Tite Relatório de Missão de Terreno	17147
 ToRs Terms of Reference WB World Bank	1988
 Todo Terreno	16022
+Togo Terminal	19296,14
 Togo’s Ministry of Territorial Administration	11104
 Tombali. Relatório de Missão de Terreno	17147
 Toute Collectivité Territoriale	15469

@@ -182,7 +182,7 @@ C RELATIVE AU TRAITEMENT DES RECLAMATIONS	18292
 C. Climate Change Related Natural Disasters	1828
 C. IMF Relations	18851
 C. Relationship	11905,271,5282
-C. Relevance	969,295,603,1737,2935,4229,61,135,416,37,132,11,1771,1,1578,27,554,24,3,35,68,37,1,2,1288,1155,189,8,476
+C. Relevance	969,295,603,1737,2935,4229,61,135,416,37,132,11,1771,1,1578,27,554,24,3,35,68,37,1,2,1288,1155,189,8,476,462
 C. Relevant	18370
 CAPÍTULO II DISPOSIÇÕES RELATIVAS AO EQUILIBRIO	17100
 CAPÍTULO III Relacionamento	18800
@@ -192,6 +192,8 @@ CAPÍTULO VI INFRACÇÕES RELATIVAS AO RECENSEAMENTO	11528
 CARTES ANNEXE-5. DISPOSITIONS RELATIVES AUX NON-CONFORMITÉS	14490
 CARTES RELATIVES A L'AERODROME AERODROME CHART	16552,454
 CAUTION TO URA Relatedly	17557
+CCDI RELATIF	19256
+CDDI RELATIF	19256
 CEB RE Scheme for Religious Bodies	14745
 CEB Renewable Energy Scheme for Religious Bodies	14745
 CED and RELUFA	10960
@@ -284,11 +286,12 @@ Communication and International Relations	11291
 Communication and Public Relations	9696
 Communications and Public Relations Rolf Kibaja	11026
 Communities Cultural Heritage Not Currently Relevant	15553
-Communities Not Currently Relevant ESS	11560
+Communities Not Currently Relevant ESS	11560,7679
 Communities Relevant Cultural Heritage Relevant Financial	10829
-Community Health and Safety Relevant ESS	1867,1737,2935,4229,649,488,3753,3,483,2054
+Community Health and Safety Relevant ESS	1867,1737,2935,4229,649,488,3753,3,483,2054,1041,6
 Community Health and Safety Relevant ESS4	17114
 Community Health and Safety Relevant Key	18374
+Community Health and Safety Relevant Not Currently	19284
 Community Health and Safety Relevant The World	11560
 Community Organized Relief Effort	6947
 Community Relations Liaison Officers	12510
@@ -338,7 +341,7 @@ Criteria Score Bid Score Relevant Qualifications	13037
 Cultes Religieux	15383
 Cultural Heritage Not Currently Relevant	15658
 Cultural Heritage Not Currently Relevant ESS	10768,792,4101,1288,1249
-Cultural Heritage Relevant ESS	1867,4672,9204,401
+Cultural Heritage Relevant ESS	1867,4672,9204,401,3095,6
 Cultural Heritage Relevant ESS8	17114
 Cultural Heritage Relevant Mar	18374
 Cultural Relations	13562,2675,40,8,364,591,980,737
@@ -347,7 +350,7 @@ Cultural and Related Associate	16266
 Cultural and Religious Diversity	12151
 Cultural and Religious Values Arab	2958
 Currently Relevant	14910,66
-Currently Relevant ESS	13523,2135
+Currently Relevant ESS	13523,2135,3626
 Currently Relevant Financial Intermediaries	13332
 Currently Relevant Indigenous Peoples	10829
 Currently Relevant Legal Operational Policies	13523
@@ -362,6 +365,7 @@ Currently Relevant Resources Relevant Relevant Indigenous	13331
 Currently Relevant. ESS6 Biodiversity Conservation	14937
 Currently Relevant. ESS7 Indigenous Peoples	14937
 Currently Relevant. LEGAL	14976
+Customer Relation Management	19221
 Customer Relations Management	6477
 Customer Relationship Management	4527,2668,5164,623,2954,987,1
 Customs Duties and Related Charges Customs	17011
@@ -383,11 +387,13 @@ D.G. TRANSP.AEREO Y REL. INTERN.- Concepto	4209
 DATA ARE TO BE RELEASED	14726
 DCCF RELATIF AUX DÉPÔTS DES DOSSIERS	9976
 DCDT Media RelationsEmail	11254
+DCF RELATIF	19292
 DE FOURNITURE DES SERVICES POSTAUX RELEVANT	15885
 DE L'INTERCEPTION DE DONNEES INFORMATISEES RELATIVES	15643
 DE LA RELATION ENTRE UN ETABLISSEMENT	14417
 DE LAS DISPOSICIONES RELATIVAS A LAS	4209
 DE LAS DISPOSICIONES RELATIVAS A LOS	4209
+DE L’ACCES AUX INFORMATIONS RELATIVES AUX	19208
 DE L’INTERCEPTION DES DONNEES INFORMATISEES RELATIVES	17841
 DEFINITION OF RELEVANT TELECOMS	16872
 DEPARTAM. RELACIONES PARLAMTO.-Concepto	4209
@@ -409,10 +415,12 @@ DES INFRACTIONS RELATIVES A LA CRYPTOLOGIE	15643
 DES MODALITES RELATIVES A LA RESERVE	16020
 DES PLAFONDS ET DISPOSITIONS RELATIVES AUX	16020
 DES PROCEDURES RELATIVES AU	17819
+DES REGLES GENERALES RELATIVES A L’IDENTIFICATION	19251
 DES RELATIONS INTERNATIONALES ET INTERPARLEMENTAIRES	16381
 DETERMINED BY RELEVANT MACS	14879
 DEVELOPMENT Press Release	18130
 DIFFÉRENDS RELATIFS	17898
+DIM RELATIF	19323
 DIRECTORS' INTERESTS AND RELATED PARTY MATTERS	4896
 DIREITOS E OBRIGAÇÕES RELATIVAMENTE	10755
 DISPOSITIONS RELATIVES A L'EQUILIBRE DES RESSOURCES	17972
@@ -642,6 +650,7 @@ FORMULAIRE D’ENREGISTREMENT DES PLAINTES RELATIVES AUX	15908
 FORPUBLIC RELEASE	4301
 FY2023 RELF	3706
 Facilitation Programme TRS Time Release Study	12951
+Faible Forte Relation	19221
 Fake Profile Computer Related Fraud Computer	18675
 Family Related	11956
 Family Relations Act	12241,839
@@ -650,7 +659,8 @@ Fees and Costs Relating	17243
 Final Cargo Release	17367
 Final Release Authorization	16212
 Financial Intermediaries Not Currently Relevant	15658,2716
-Financial Intermediaries Not Currently Relevant NOTE	1867,1737,2935,4229,649,143,345,3756,82,1206,1249
+Financial Intermediaries Not Currently Relevant NOTE	1867,1737,2935,4229,649,143,345,3756,82,1206,1249,1047
+Financial Intermediaries Not Currently Relevant Page	19239
 Financial Intermediaries Relevant NOTE	16144
 Finds New GSMA Study. Press Release	10822
 First Release	7922
@@ -806,7 +816,7 @@ IV.8. RELEVER LE DEFI DE REVOLUTION	18291
 IV.8. Relever	18291
 Identified Climate Change Related Risks and Proposed	15553
 Immediate Release	4046
-Impacts Relevant ESS	11905
+Impacts Relevant ESS	11905,7379
 Impersonation Sim Swap Related Fraud Remittance	17362
 Implementation of Catastrophe Containment and Relief	13868
 Improve the Quality and Reliability of Classrooms	11918
@@ -912,6 +922,7 @@ JUSTICE AND LABOUR RELATIONS Request for Proposals	13037
 JUSTICE AND LABOUR RELATIONS Windhoek	13189
 Japan Relations	2626
 Jefe Relaciones Internacionales	4209
+Joint Press Release	19284
 Jovens Mulheres Líderes RESEN Relatório	11557
 Joyce Onyeagoro Released	7575
 João Carlos Domingos Relatório Anual da OMS	10776
@@ -947,8 +958,9 @@ LODGER'S RELATIVE	17127
 LOI RÉGISSANT LES RELATIONS ENTRE L’AD-	17812
 La Commission des Relations	15458
 Labor Relations Board	14008
-Labor and Working Conditions Relevant ESS	1867,1737,2935,4229,649,143,345,3753,3,483,970,1084
+Labor and Working Conditions Relevant ESS	1867,1737,2935,4229,649,143,345,3753,3,483,970,1084,1041,6
 Labor and Working Conditions Relevant Key	18374
+Labor and Working Conditions Relevant Not Currently	19284
 Laboratoires DRG Diagnosis Related Groups DSNIS	13306
 Labour Relations	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135
 Labour Relations Act	11182,98
@@ -956,7 +968,7 @@ Labour and Industrial Relations Organisations	12597
 Land Related Matters	12912
 Land Use and Involuntary Resettlement Relevant Biodiversity	1284,9545,135,2367,2222,68,1301
 Land Use and Involuntary Resettlement Relevant Due	18374
-Land Use and Involuntary Resettlement Relevant ESS	1867,13794
+Land Use and Involuntary Resettlement Relevant ESS	1867,13794,3578,6
 Land Use and Involuntary Resettlement Relevant Relevant	3604,12540
 Land Use and Relevant ESS8 Involuntary Resettlement	12253
 Lands and Regional Government and Religious Affairs	17105
@@ -1188,6 +1200,7 @@ OL Relating	12419
 OPERATIONS DU MARCHE MONETAIRE INTERBANCAIRE RELEVANT	15863
 OPTIONS AND PREFERENTIAL RIGHTS RELATING	4896
 ORG-06 Relationsavecles	15525
+OTR Relativement	19250
 OUTROS RISCOS RELACIONADOS COM O RSI	11376
 Objectives for Information and Related Technologies	9237
 Obrigações Relativas	11374,4103
@@ -1306,7 +1319,7 @@ Presidents Emergency Plan for AIDS Relief	12240
 President’s Emergency Plan for AIDS Relief	7187,3415
 President’s Emergency Plan for Aids Relief	17883
 Press Quarterly Public Relations	15845
-Press Release	1830,561,286,155,944,1085,441,659,568,669,1137,556,155,304,1126,242,104,1279,475,1017,148,127,643,92,121,208,97,209,164,350,307,142,296,609,82,5,16,48,1,68,26,151,406,81,452,381,151,171
+Press Release	1830,561,286,155,944,1085,441,659,568,669,1137,556,155,304,1126,242,104,1279,475,1017,148,127,643,92,121,208,97,209,164,350,307,142,296,609,82,5,16,48,1,68,26,151,406,81,452,381,151,171,131,8
 Press Release AfCFTA DIGITAL TRADE FORUM	7039
 Press Release Deployment Final.pdf	17922
 Press Release Djibouti	13915
@@ -1349,7 +1362,7 @@ Projecto Relatório da Consulta Nacional Título da Acção	11387
 Projeto Alerta Rápida Relatório de Missão de Terreno	17147
 Proposed Actions and Relevant Indicators	15621
 Protección Relativas	9543
-Protocol Relating	5533,5644,373,436,159,421,344,1164,4363,475
+Protocol Relating	5533,5644,373,436,159,421,344,1164,4363,475,453
 Provide Biometric Data Press Release	11079
 Provide Reliable and Affordable Energy	14603
 Provide for Matters Arising From and Related	16832
@@ -1385,6 +1398,7 @@ Public Relations and Strategic Communication	12753
 Public Relations. Previously	12249
 Public Release Calendar Publish	17149
 Q2 Estimated Budget Released Expenditure Commitm	12962
+QUE VISE A L'ACTE UNIFORME RELATIF	19209
 Quadro Nacional de Interoperabilidade Relacionam-se	18774
 Quality Essential Health Services Relatório Anual	10776
 Quality and Labor Market Relevance	17458
@@ -1402,6 +1416,7 @@ RECOMENDAÇÕES DO RELATÓRIO DA UNESCO	2816
 REDEVANCE RELATIVE A LA GESTION	15394
 REEL DES DONNEES RELATIVES AU TRAFIC	17841
 REFORME ET DES RELATIONS AVEC	16001
+REGIME DES AUTORISATIONS ET CERTIFICATS RELATIFS	19235
 REGIONAL AND SUB-REGIONAL RELATIONSHIPS AND COOPERATION	14004
 REGLES RELATIFS A L'EXERCICE DES ACTIVITES	14419
 REGLES RELATIVES AU TRAITEMENT DES DONNEES	16617
@@ -1439,6 +1454,7 @@ RELATIF A LA DEFENSE ET	18032
 RELATIF A LA Gouvernement	18003
 RELATIF A LA REGLEMENTATION DES DRONES	18003
 RELATIF AU Article	17861
+RELATIF AU CONTROLE TECHNIQUE	19213
 RELATIF AU FINANCEMENT DU PROGRAMME Article	17841
 RELATIF AU PROJET DE LOI PORTANT	15671
 RELATIF AU SECOND CREDIT D’APPUI	17817
@@ -1447,6 +1463,7 @@ RELATIF AUX FONCTIONS DE MINISTRE	18032
 RELATIF AUX SESSIONS CONFEDERALES DES ADOPTE	18032
 RELATIF AUX TRANSACTIONS ELECTRONIQUES EN REPUBLIQUE	16733,1,1
 RELATIFS A LA CONNECTIVITE LARGE BANDE	15850
+RELATIFS A LA SURETE DE L’ETAT	19208
 RELATING	13461
 RELATING TO ACCESS TO INFORMATION LOI	14861
 RELATING TO ESTABLISHMENT OF OVAMBANDERU COMMUNITY	13189
@@ -1464,6 +1481,7 @@ RELATIONS BETWEEN THE LICENSEE AND SUBSCRIBERS	15149
 RELATIONS DE LA BNR AVEC D’AUTRES	15102
 RELATIONS ECONOMIQUES AVEC EXTERIEUR	18757
 RELATIONS ENTRE LES ETABLISSEMENTS DE CREDIT	17443
+RELATIONS INTERGOUVERNEMENTALES ET AVEC LES ORGANISATIONS	19208
 RELATIONS PRESS OFFICER	11554
 RELATIONS PUBLIQUES	17899
 RELATIONS PUBLIQUES DES ARMEES	18032
@@ -1480,10 +1498,12 @@ RELATIONSHIP TO THE DELISTING AND EXIT	4896
 RELATIONSHIP WITH EXECUTIVE	3861
 RELATIONSHIPS BETWEEN EMPOWERMENT AND DIETARY DIVERSITY	17127
 RELATIVE	10894,3999,2234,330,358
+RELATIVE A L'IDENTIFICATION BIOMETRIQUE DES PERSONNES	19228,2
 RELATIVE A LA CYBERSECURITE ET	15643
 RELATIVE A LA L’Assemblée	17833
 RELATIVE A LA PROTECTION DES DONNEES	436
 RELATIVE A L’ACCES A L’INFORMATION ISHAKIRO	14861
+RELATIVE A L’ORGANISATION DE L’ETAT CIVIL	19207
 RELATIVE AU CONTROLE INTERNE Le Gouverneur	16613
 RELATIVE AU CONTROLE INTERNE URL	16613
 RELATIVE AU DROIT DE CHANGE POUR	17385
@@ -1716,16 +1736,17 @@ Relation Publique	14431
 Relation Unit	15845
 Relational	8604,2534
 Relationally	12333
-Relations	998,187,46,865,1300,46,162,522,1993,76,751,1,12,763,515,32,466,1,150,401,55,548,922,67,96,76,88,12,343,30,603,635,528,85,397,18,624,123,12,187,366,259,38,27,28,59,214,61,5,140,66,48,224,2,22,86,123,347,107,490,77,287,2,13,2,12,3,47,4,42,22,23,13,4,4,29,19,36,3,20,105,185,12,151,32
+Relations	998,187,46,865,1300,46,162,522,1993,76,751,1,12,763,515,32,466,1,150,401,55,548,922,67,96,76,88,12,343,30,603,635,528,85,397,18,624,123,12,187,366,259,38,27,28,59,214,61,5,140,66,48,224,2,22,86,123,347,107,490,77,287,2,13,2,12,3,47,4,42,22,23,13,4,4,29,19,36,3,20,105,185,12,151,32,624
 Relations ARMEES	18032
 Relations Between the Assembly	14409
 Relations Concours Petites ANPE Cabinet de Démarches	737
 Relations DESIR	10975
 Relations Développer	14537
 Relations Economiques	18757
+Relations Economiques Internationales	19366
 Relations Hon. Mahomed Osman Cassam Mahomed	14841
 Relations Institutionnelles	18032
-Relations Internationales	16175,1681,1195
+Relations Internationales	16175,1681,1195,315
 Relations Officer Mwala Kalaluka	4378
 Relations Organisationnelles	13841
 Relations Presses	15639
@@ -1772,8 +1793,8 @@ Relative Strength	15164
 Relative Strength Index	18724
 Relative System-level	15164
 Relative Valuation Considerations and Peer Comparisons	4896
-Relatively	961,2223,942,6655,65,149,1095,337,905,1832,440,1346,166,342
-Relativement	2966,524,3469,3957,59,176,4361,199,612,1780,45,138,53
+Relatively	961,2223,942,6655,65,149,1095,337,905,1832,440,1346,166,342,1779
+Relativement	2966,524,3469,3957,59,176,4361,199,612,1780,45,138,53,911,41
 Relatives	7777,4560,30
 Relativistic Cryptography	9698
 Relativo	18753
@@ -1897,7 +1918,7 @@ Release Date	15089
 Release Date Change Details	16923,1
 Release Description Go Live Date	12491
 Release ELECTORAL COMMISSION OF ZAMBIA COMMENCES	12465
-Release ID	6480,6088,3666,1895
+Release ID	6480,6088,3666,1895,1169
 Release Journalist Zainab Sodiq	7176
 Release Management	11952
 Release Notes and Changelog	5665
@@ -1908,6 +1929,7 @@ Release Utilities Africa Holding B.V	18793
 Release and Type Approval Fees. CHAPTER X	18602
 Release of Labour Force	14832
 Release of Prisoners	14965
+Release of Proceeds	19214
 Release of Revaluation Surplus	14736
 Release of SmartCare Plus SmartCare	2477
 Release of TIFA’s	7869
@@ -1930,7 +1952,7 @@ Relebohile Clinic	11980
 Relecture	10975,5274
 Relecture des Textes du Système Statistique National du CNS	17842
 Relecture du Règlement de Conciliation Dans	10975
-Relevance	1988,787,2776,1226,55,70,646,3231,225,898,62,211,78,2,101,204,115,356,69,210,151,282,247,482,74,177,54,78,80,576,93,154,386,68,224,447,231,35,713,599,96
+Relevance	1988,787,2776,1226,55,70,646,3231,225,898,62,211,78,2,101,204,115,356,69,210,151,282,247,482,74,177,54,78,80,576,93,154,386,68,224,447,231,35,713,599,96,688
 Relevance Collaborate	11004
 Relevance Compliance	1988
 Relevance Date	13824
@@ -2003,7 +2025,7 @@ Relevant Divisions The Digital Health	12240
 Relevant Documents	1988
 Relevant Documents World Bank Related Documents	1988
 Relevant E-VAT Downloads	16038
-Relevant ESS	6539,4229,792,1963,2135,2540
+Relevant ESS	6539,4229,792,1963,2135,2540,1041,45
 Relevant ESS ESS1 Assessment and Management of Environmental	1988
 Relevant ESS1	17114
 Relevant ESS3 Labor and Working Conditions Relevant	12253
@@ -2041,15 +2063,16 @@ Relevant Public Disclosure	18374
 Relevant Qualifications	13037
 Relevant Relevant Financial Intermediaries Not Currently	15553
 Relevant Resources	18374
-Relevant Resources ESS	1867,16331
+Relevant Resources ESS	1867,16331,1047
 Relevant Resources Not Currently Relevant ESS	11417,488
 Relevant Section	3502
 Relevant Sections	3502
+Relevant Sectors	19214
 Relevant Sustainable Development Goals	13999
 Relevant TIN Downloads	16601
 Relevant Tax Authority	11976
 Relevant Track Record	11905
-Relevant Traditional Local Communities ESS	1867,16331
+Relevant Traditional Local Communities ESS	1867,16331,1047
 Relevant Work	13031
 Relevant Work Unit	14113
 Relevant World Bank	3861
@@ -2122,12 +2145,14 @@ ReliefWeb Chad	18911
 ReliefWeb Description	12618
 ReliefWeb URL	13773
 Reliefs and Preferential Tax Rates	14533
+Reliefweb	19284
 Relier	13290
 Relies	3073,10608,3330,146
 Relig Stud	17773
 Religiao	18802
+Religieuses	19366
 Religieux	18177
-Religion	1876,3203,5733,2159,329,58,60,561,1519,1423,193,1483,354
+Religion	1876,3203,5733,2159,329,58,60,561,1519,1423,193,1483,354,399
 Religion Catholique	13300
 Religion Liberia	16921,193
 Religion News Service	6231
@@ -2194,6 +2219,7 @@ Relèvement	17485,412,389,656
 Relèvement Réalisé Réalisé Finaliser	16012
 Relèvements	16552,454
 Relèvent	15999
+Relèventdudomaineforestierdel’Etat	19212
 Renforcement du Cadre Juridique Relatif	15585
 Rep. Canada Japan Release	11135
 Reports Ministry of Security and Public Order Relevant	15553
@@ -2208,6 +2234,7 @@ Request for Rephasing of Access-Press Release	17909
 Reshaping Citizen-Administration Relationships	5349
 Resolution Year Brief Description Relevance	17157
 Resources Not Currently Relevant ESS	11560
+Resources Relevant ESS	19239
 Resources Relevant ESS6	17114
 Resources Relevant Relevant Indigenous Peoples	10964
 Result Indicators Associated PAs RI Relevance	10779
@@ -2218,9 +2245,9 @@ Risks and Impacts Relevant Relevant ESS2-Labor and Working	1988
 Rolling Release Schedule	11854
 Rosa Pedro Relatório Anual da OMS	10776
 S Rely	15411
-S Standards Relevance ESS	1867,4672,4229,649,143,345,3753,3,483,2054
+S Standards Relevance ESS	1867,4672,4229,649,143,345,3753,3,483,2054,1041,6
 S Standards Relevance Page	15138
-S Standards Relevance Relevant ESS	3604
+S Standards Relevance Relevant ESS	3604,15680
 S.Tomé Religião São Tomé	18802
 SADC Citizens. Related	962
 SANCTIONS RELATIVES AUX REFUS DE COMMUNICATIONS	16617
@@ -2307,7 +2334,7 @@ Stakeholder Engagement and Information Disclosure Relevant	12253
 Stakeholder Influence Nature of Relationship	17099
 Standard Terminology Relating	11269
 Standards ESS Standards Relevance ESS	13523
-Standards Relevance Given	1867,121,1574,42,2935,4229,649,143,345,3753,3,483,240,565,1249
+Standards Relevance Given	1867,121,1574,42,2935,4229,649,143,345,3753,3,483,240,565,1249,1041,6
 Standards for Renewable Energy Related Technologies	14745
 Starlink Mini Kit. Related	7509
 State Business Relations	12956

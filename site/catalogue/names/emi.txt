@@ -80,6 +80,7 @@ DE LA STATISTIQUE ET DES EMISSIONS	16381
 DHIS2 EMIS	1017,942,10078,4874
 DHIS2-based EMIS	11970,1075,3866
 DO IVA NA EMISSÃO DE FACTURAS	18845
+DROIT DE COMMUNICATION EMISSIONS DES AVIS	19250
 Danny Eminence	15524
 Deforestation and Reducing Emissions	17140
 Demographic and Health Survey EMIS Education Management	13681
@@ -242,6 +243,7 @@ Emigrant Investor	18797
 Emigration	6832,7913,1301,828
 Emigração	18834
 Emil Ali and Joanna Lim	9026
+Emil D. Tesliuc	19237
 Emil Tesliuc	3427,12174
 Emil Yohana	7250
 Emile	15455,325,397
@@ -353,12 +355,13 @@ Emission Factor	17140
 Emission Factors	17140
 Emission License	1988
 Emission Trading System	12389,2363
+Emission de CO2	19260
 Emission de Monnaie Electronique	16641
 Emission de NOX	1005
 Emission des Départements	14744
 Emission des Titres	15999
 Emission-free	13624
-Emissions	7402,4851,1371,1194,593,18,36,205,377,409,658,26,117
+Emissions	7402,4851,1371,1194,593,18,36,205,377,409,658,26,117,1993
 Emissions Levy	7695
 Emissions Outre	10975
 Emissions Reduc	17101
@@ -450,6 +453,7 @@ Institutionalise EMIS	13310
 Integrated EMIS Platform	15750
 Investidor Emigrante	1265
 Jordan and United Arab Emirates	14897
+Joshua Blumenstock and Emily Aiken	19237
 Kenya's EMIS	12196
 Kumba Emily Fanday	18518
 LGA EMIS	11860
@@ -547,6 +551,7 @@ Review of SADC EMIS Norms and Standards	13310
 Rising Emissions	14673
 Rwanda Directorate General of Immigration and Emigration	12333
 Rwanda's Director General of Immigration and Emigration	8295
+Réduction des Emissions	19241
 SADC EMIS Norms and Standards	13310
 SADC EMIS Norms and Standards Assessment	13310
 SADC EMIS Norms and Standards Assessment Framework	13310
@@ -583,6 +588,7 @@ TBD EMIS K04	15604
 TBD EMIS K08	15604
 TECHNOLOGY IN EMIS	11860
 TITRES EMIS SUBORDONNES	17833
+TYPE DE PRESTATION NOMBRE Emissions	19250
 Technology EMIS Education Management Information System	13991
 Telecommunication Infrastructure Index United Arab Emirates	15634
 Through the DHIS2-based EMIS	13045
@@ -597,7 +603,7 @@ UAE United Arab Emirates University of Madrid	16942
 UNESCO UIS TBD EMIS K05	15604
 UNESCO. An EMIS Strategy	18911
 UNITED ARAB EMIRATES	16935
-Ukraine United Arab Emirates United Kingdom	11470,295
+Ukraine United Arab Emirates United Kingdom	11470,295,7577
 Union EMIS Education Management Information System	14855
 Union des Comores EMICn	13799
 United Arab Emir-	17743

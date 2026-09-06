@@ -5,10 +5,12 @@ AACB Annual Assembly of Governors	6938
 AACB Annual Meetings	4103
 AAID Annual	17139
 ABBREVIATION AND DEFINITION AHSPR Annual Health	16971
-ABONNEMENT ANNUEL	15360
+ABONNEMENT ANNUEL	15360,3858
 ABONNEMENT ANNUEL Edition	15394,16,280,42,131,67,3,10,379,22
 ACCURACY FOR THE ANNUAL REPORT	11218,6
 ACCURACY OF THE ANNUAL REPORT	11198
+ACHAT ABONNEMENT ANNUEL	19251
+ACHAT ABONNEMENT ANNUEL ANNONCES	19209
 ACM SIGPLAN Annual Symposium	8606
 ACP Annual Report	254
 ACRONYMES Rapport Annuel	15670
@@ -48,6 +50,7 @@ ANNUAIRE STATISTIQUE DE L’EDUCATION	13478
 ANNUAIRE STATISTIQUE DE L’ENSEIGNEMENT SUPÉRIEUR	18143
 ANNUAIRE STATISTIQUE DU BURUNDI	13377
 ANNUAIRE STATISTIQUE DU MINISTERE DU COMMERCE	13500
+ANNUAIRE STATISTIQUE NATIONAL	19350
 ANNUAL	11586,1383,1767,99,285,2115
 ANNUAL ACTION PLAN	12843,3002
 ANNUAL ACTION PLANS	15796
@@ -173,6 +176,7 @@ AVERAGE ANNUAL INCREASE IN ACCESS	11572
 AWP Annual Variance Analysis	12241,839,15
 AWP Annual Work Plan	14916
 AWPB Annual Work Plan and Budget BIF	1284
+AWPB Annual Work Plan and Budget BOAD	19239
 AWPB Annual Work Plan and Budget BP	15515
 AWPB Annual Work Plan and Budget CAR	10829,4832
 AWPB Annual Work Plan and Budget CBA	16896
@@ -217,7 +221,7 @@ Annex II AWP Annual Variance Analysis	13080
 Annexes RAPPORT ANNUEL	18322
 Annu Rev Public Health	10881
 Annuai	3972
-Annuaire	643,544,1971,7817,549,1954,22,227,1667,81,67,57,74,47,2,21,200,217,135,1163,384,40,3,60,33,99,16,7,5,64,117
+Annuaire	643,544,1971,7817,549,1954,22,227,1667,81,67,57,74,47,2,21,200,217,135,1163,384,40,3,60,33,99,16,7,5,64,117,940
 Annuaire 2023 2024.pdf	18143
 Annuaire 2023 2024.pdf AVANT-PROPOS	18143
 Annuaire 2024 2025.pdf	18170
@@ -249,7 +253,7 @@ Annuaires Décentralisation	3396
 Annuaires Statis-	18077
 Annuaires Statistiques	13325
 Annuaires Statistiques MEBAPLN	15743
-Annual	11,117,83,25,23,130,1,123,74,121,1,1,26,74,2,112,4,1,17,23,1,43,12,40,72,4,1,72,6,64,73,84,138,163,35,90,37,40,152,679,410,419,110,147,26,51,34,213,32,308,717,291,143,1,423,332,305,95,114,591,11,114,183,439,582,1291,193,409,9,12,1,31,17,6,2,1,18,14,42,27,25,4,8,29,126,2,1,50,14,26,4,8,22,122,21,16,47,61,35,12,190,93,2,3,3,3,4,4,7,1,4,1,2,16,47,1,23,10,159,9,92,93,1,1,5,6,1,5,2,25,14,14,14,17,44,12,8,22,1,4,11,2,14,47,52,80,96,52,1,7,2,10,13,10,6,39,8,20,48,2,68,164,21,3,20,1,7,8,2,22,36,24,48,87,40,18,306,59,421,39,33,11,73,9,19,62,61,10,8,3,5,2,1,15,7,5,4,47,8,3,20,7,1,17,17,13,12,13,2,23,25,12,9,25,3,22,2,44,18,9,9,26,41,135,32,39,80,24,3,35,51,15,2,38,2,64,18,336,65,408,153,131,7,15,5,24,35,5,20,2,21,1,25,10,5,7,61,17,20,23,1,17,36,57,7,3,15,10,4,27,105,10,10,64,388,69,28,114,116,73,8,4,4,9,52,67,1,7,18,2,3,20,44,9,15,101,17,5,9,135,28,36,92,52,11,56,15,48,12
+Annual	11,117,83,25,23,130,1,123,74,121,1,1,26,74,2,112,4,1,17,23,1,43,12,40,72,4,1,72,6,64,73,84,138,163,35,90,37,40,152,679,410,419,110,147,26,51,34,213,32,308,717,291,143,1,423,332,305,95,114,591,11,114,183,439,582,1291,193,409,9,12,1,31,17,6,2,1,18,14,42,27,25,4,8,29,126,2,1,50,14,26,4,8,22,122,21,16,47,61,35,12,190,93,2,3,3,3,4,4,7,1,4,1,2,16,47,1,23,10,159,9,92,93,1,1,5,6,1,5,2,25,14,14,14,17,44,12,8,22,1,4,11,2,14,47,52,80,96,52,1,7,2,10,13,10,6,39,8,20,48,2,68,164,21,3,20,1,7,8,2,22,36,24,48,87,40,18,306,59,421,39,33,11,73,9,19,62,61,10,8,3,5,2,1,15,7,5,4,47,8,3,20,7,1,17,17,13,12,13,2,23,25,12,9,25,3,22,2,44,18,9,9,26,41,135,32,39,80,24,3,35,51,15,2,38,2,64,18,336,65,408,153,131,7,15,5,24,35,5,20,2,21,1,25,10,5,7,61,17,20,23,1,17,36,57,7,3,15,10,4,27,105,10,10,64,388,69,28,114,116,73,8,4,4,9,52,67,1,7,18,2,3,20,44,9,15,101,17,5,9,135,28,36,92,52,11,56,15,48,12,66,6
 Annual A- Data Centre Compute Percentage	7548
 Annual ACIST Proceedings	1248
 Annual AI	4126,3422
@@ -616,7 +620,7 @@ Annual Report. The Annual Report	4896
 Annual Report. The Report	1554
 Annual Report. The Standards Council	14736
 Annual Report. Washington	5700
-Annual Reports	1778,4675,4683,719,501,544,151,46,225,96,3422,121,178
+Annual Reports	1778,4675,4683,719,501,544,151,46,225,96,3422,121,178,2100
 Annual Reports DECM	17441
 Annual Reports Publish	16853
 Annual Reports Report	16848
@@ -785,17 +789,20 @@ Annually Head ICT	13005
 Annually Head ICT NRIS NRIS Re	13005
 Annually IT Director Continuity	16963
 Annually Issuer	15905
+Annually Methodology for Data Contracts	19284
+Annually Methodology for Data Registry	19284
 Annually NACOC	15845
 Annually NADMO	15845
 Annually NADMO Proportion	15845
 Annually NPC	15845
 Annually Number	15845
 Annually PRISONS Percentage	15845
+Annually Page	19284
 Annually Review	10829,696,4028,108
 Annually School	15845
 Annualreport	12325
 Annuel	2342,13328,2198,429
-Annuelle	6954,11215
+Annuelle	6954,11215,1057
 Annuelle APECCAM	10965
 Annuelle BEAC	10965
 Annuelle CNEF	10965
@@ -894,6 +901,7 @@ C2- Annual	7548
 C2- Annual FDI	7548
 CAGR Compound Annual Growth Rate CCG	1818
 CAGR Compound Annual Growth Rate CapEx	10781,1646,2055
+CAGR Compounded Annual Growth Rate CAPEX	19239
 CAGR. Annual	18123
 CBK Annual Reports	17745
 CBL ANNUAL REPORT	17235
@@ -907,6 +915,8 @@ COMMISSION Annual Report	16978
 COMMITTEE COMMUNITY MEETINGS PROCEEDINGS AT ANNUAL	585
 COMMUNICATION AND TECHNOLOGY ANNUAL PERFORMANCE REPORT	13126
 COMPREHENSIVE ANNUAL REPORT	13166
+COMPTES ANNUELS Dans	19260
+COMPTES ANNUELS ET BENEFICES Article	19260
 CONCLUSION ANNUAL INFORMATION AND COMMUNICATION TECHNOLOGY	12395
 CONSOMMATEURS Rapport Annuel	15670
 CONTENTS Page Submission of Annual Report	13420
@@ -986,7 +996,7 @@ DEVELOPMENT ANNUAL PERFORMANCE REPORT	13126
 DGPE Rapport Annuel	2342
 DHA ANNUAL PERFORMANCE INDICATORS AND TARGETS	11285
 DHA Annual Performance Plan	5591,921
-DHIS2 Annual Conference	11589,1152,1064,1395,1100,92,2302,28
+DHIS2 Annual Conference	11589,1152,1064,1395,1100,92,2302,28,633
 DIGITAL DIVIDEND SPECTRUM Band K-Factor Annual	17250
 DIRECTION JURIDIQUE Rapport Annuel	15670
 DISBURSTBL Fiscal Year Annual Cumulative	1284,15612,26
@@ -1010,9 +1020,12 @@ Department Annual	7548
 Department of Home Affairs Annual Report	11977
 Department's Annual Performance Plan	6512
 Deputy Prime Minister’s Office Annual Performance	12977
+Description Annually DHIS2	19284
+Description Annually Frequency Contracts	19284
 Development Bank AWP Annual Work Plan	13990
 Development and Savings Banks. Annual Integrated Report	11134
 Digital Advisory Council Meetings Annual	16963
+Digital Code Frequency Annual Data	19245
 Disability Annual Monitoring Report	13033
 Disability Registered Annually1	2775
 Disaster Risk Management This Annual Report	14738
@@ -1132,7 +1145,7 @@ Formula Annual	17250
 Fragile States Index Annual Report	18931
 Framework for Strategic Plans and Annual Performance Plans	5533
 Frequency Annual	11905,4239
-Frequency Annual Data	1867,1737,8301,3754,2,483
+Frequency Annual Data	1867,1737,8301,3754,2,483,3101
 Frequency Annual Datasource Relevant	15553
 Frequency Annual Official	16144
 Frequency Annual Project	15661
@@ -1262,6 +1275,7 @@ LIST OF ACRONYMS AOP Annual Operational	18478
 LMS Annually	16947
 LODA Annual Reports	14935
 LODA MINALOC LODA Annual Reports Output	14935
+LOME ACHAT ABONNEMENT ANNUEL	19213
 LTA Annual Reports	17106,81
 Labour Force Survey Annual Report	12329
 Labourforce Survey Annual Report	14935
@@ -1299,6 +1313,7 @@ MDAs Public Service Annual Emerging Technologies	7548
 MDAs. Publish Annual Gender Audit Report	18512
 MEBAPLN Annual Statistics Yearbook	15743
 MEBPALN Annual Primary Education Statistics Handbook	15743
+MENTD. Frequency Annual Data	19245
 MEPPSA Frequency Annual Data	11905
 MICDE Annual	7548
 MICT SETA Annual Digital Skills Report	6832
@@ -1341,6 +1356,7 @@ Measurable KNBS Annual Emerging Technologies	7548
 Medium-Term Debt Management Strategy and Annual Borrowing	11136
 Mensual Annual Mensual	4209
 Mensual Mensual Mensual Mensual Repres. Annual	4209
+Methodology for Data Annually Collection Registry	19284
 Mid-Year and Annual Economic Reports	13479
 Minister. Annual	12890
 Ministeres. BUDGET ANNUEL REVISE	3165

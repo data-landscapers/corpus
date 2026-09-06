@@ -77,6 +77,7 @@ D2 INDUSTRIA INSPECCION ANUAL	4209
 DACORE de Banjul Dilma Cruz Inspectrice	16633
 DE INSPECÇÃO	10751
 DE LA COOPERATION INTERNATIONALE Inspecteur	8237
+DES INSPECTIONS	19251
 DES SERVICES Inspecteur Général des Services	16381
 DGSHP INSP	17845
 DOCUMENTS AVAILABLE FOR INSPECTION	4896
@@ -150,6 +151,7 @@ Grupo D Especialista Grupo D Inspector	4209
 Grupo E Habilitado Pagador Inspector Grupo	4209
 Guide for Planning RiskBased Inspections	10776
 Headquarters INSP	14760
+Health General Inspector	19284
 Health Inspectorate	12606
 Humanitarian Response Plan IDEN Inspection Départementale	18911
 IC Inspection	17885
@@ -158,6 +160,7 @@ IDH Indice de Développement Humain IGE Inspection	18286
 IDP General Inspectorate	11905
 IGAE Inspecção-Geral da Administração	11380
 IGE Inspection Générale	16626,1389
+IGF General Finance Inspection	19239
 IGF General Inspectorate of Finance	17458
 IGF Inspection Générale des Finances IGI Inspections	18015
 IGF Inspector General of Finances	18777
@@ -285,13 +288,13 @@ Inspecionar	15526
 Inspect	6423,2257,8198,85,1646
 Inspect ICS	12358
 Inspected Studios	6946
-Inspecteur	2966,78,1545,1318,982,781,564,3,32,52,1544,536,446,878,2175,1532,137,33,74,68,104,94,233,112,1525,5,2,8,14,20,121,50,55,313,2,1,9,15,769
+Inspecteur	2966,78,1545,1318,982,781,564,3,32,52,1544,536,446,878,2175,1532,137,33,74,68,104,94,233,112,1525,5,2,8,14,20,121,50,55,313,2,1,9,15,769,54
 Inspecteur B1	17982
 Inspecteur Bamako	17982
 Inspecteur Central	15415
 Inspecteur Divisionnaire des Contributions Directes	16047
 Inspecteur General des Finances	16381
-Inspecteur Général	13360,4535
+Inspecteur Général	13360,4535,1389
 Inspecteur Général Adjoint des Services	16175
 Inspecteur Général des Services	3191,12984,206,1762,27
 Inspecteur Général des Services Adjoint	16175
@@ -331,7 +334,7 @@ Inspecteur du Collectivités Trésor	17982
 Inspecteur du Travail	18400,2,1
 Inspecteur du Tré	17827
 Inspecteur du Trésor	17827,14,58,83
-Inspecteurs	15474,1968,399,20,38,83,21,1008
+Inspecteurs	15474,1968,399,20,38,83,21,1008,239
 Inspecteurs Contrôleurs	11676
 Inspecteurs Contrôleurs Fiscaux	11676
 Inspecteurs Vérificateurs	16175
@@ -356,7 +359,7 @@ Inspection Général de Division Abdoulaye MAIGA	17899
 Inspection Générale	557,8193,1374,1781,1537,1981,289,224,1980,203,119
 Inspection Générale de Services	18105
 Inspection Générale des Douanes	13809
-Inspection Générale des Finances	969,2635,374,3645,1127,6622,197,89,54,1746,661,119
+Inspection Générale des Finances	969,2635,374,3645,1127,6622,197,89,54,1746,661,119,1001
 Inspection Générale des Finances- IGF	969
 Inspection Générale des Finances. Article	15569
 Inspection Générale des Services	16099,282,1724
@@ -367,7 +370,7 @@ Inspection Manual	16978
 Inspection Manual The Commission	16978
 Inspection PPPC	12253
 Inspection PPPC Quarterly	12253
-Inspection Panel	1264,20,583,1022,715,2935,4229,61,135,453,108,330,50,60,1366,1,1806,273,107,35,105,1,2,483,752,26,27
+Inspection Panel	1264,20,583,1022,715,2935,4229,61,135,453,108,330,50,60,1366,1,1806,273,107,35,105,1,2,483,752,26,27,2296,39
 Inspection Procedures	16978
 Inspection Processes	16978
 Inspection Pédagogique	18911
@@ -425,7 +428,7 @@ Inspector Diplomático	15380
 Inspector Distrital de Evinayong Ilmo. Sr. Don	16920
 Inspector Distrital de Mongomo Ilmo. Sr. Don	16920
 Inspector Distrital de Riaba Ilmo. Sr. Don	16920
-Inspector General	4209,426,4667,2277,96,193,442,787,4116
+Inspector General	4209,426,4667,2277,96,193,442,787,4116,2001
 Inspector General Adjunto	4209
 Inspector General Adjunto Servicio	4209
 Inspector General Adjunto de Servicios	17341
@@ -439,6 +442,7 @@ Inspector General de Peaje Inspector General Servicios	4209
 Inspector General de Servicio	4209
 Inspector General de Servicios Servicio	4209
 Inspector General of Customs	16676
+Inspector General of MCC	19214
 Inspector General of Police	4677,159,660,2975,611,2775,1031,693,3392,240,84,1180,9,101,11,64,51
 Inspector General of Police Douglas Kanja	3320,8990,1954
 Inspector General of Police Gregory O. W	17213

@@ -47,7 +47,7 @@ Agence Nationale de Promotion des TIC	15637,1,590
 Agence Nationale de Promotion des Technologies	15621,16,1,82
 Agence Nigérienne de Promotion	18103,153
 Agence de Promotion	15416,2411,400
-Agence de Promotion des Investissements	3222,3884,3717,2470,2249,46,2330
+Agence de Promotion des Investissements	3222,3884,3717,2470,2249,46,2330,1303
 Agence de Promotion des Petites	15999
 Agencia de Promoción de Inversiones	4209
 Agency Promote	1161
@@ -71,6 +71,7 @@ Associação de Promoção da Saúde Mental	15694
 Assumptions Promote	13938
 Augustus Prom	16922
 Austelino Tavares Correia. Promulgada	16089
+B Promotion	19221
 B. Promoting Competition and Consumer Protection	16975
 BALE TX Prom	10847
 BAM TX Prom	10847
@@ -90,6 +91,7 @@ Basílio Mosso Ramos Promulgada	15385,11
 Beijing Future Entrepreneurs Promotion Association	13666
 Bilateral Investment Promotion and Protection Agreement	18957
 Bilateral Investment Promotion and Protection Agreements	13685
+Boost Private Investment and Promote Job Creation	19276
 Broken Promise of American Democracy. Princeton	2096
 Broken Promises of MFIs	12231
 Burkina Export Promotion Agency	16256
@@ -240,6 +242,7 @@ Djibril Khalil COULIBALY PROMOBILE	18418
 Documents Publics Centre de Promotion des Investissements	15936
 Développement Social Et Promotion	17945
 Développement Social Promotion	17845
+E-Learning Promotion du Digital	19221
 E. Promoting	16958
 E. Promoting National ICT Policy Objectives	16975
 E. Promotion of ICT Ecosystem Development	16975
@@ -646,6 +649,7 @@ Objet Promouvoir	14537
 Observatoire Nationalpour la Promotion du Genre	18100
 Ofertas Promociona	16855
 Ofertas Promocionales	16855
+Official Use Only Promotion	19284
 Olavo Avelino Garcia Correia Promulgado	15440
 Olavo Avelino Garcia Correia. Promulgado	15526,386
 Oliveira. Promulgada	18853
@@ -719,7 +723,7 @@ PROMOTION AND PROTECTION OF INVESTMENTS	13326
 PROMOTION AND RECIPROCAL PROTECTION	13326
 PROMOTION COLONEL DE POLICE EUGENE EPOUERY	15744
 PROMOTION DE LA CYBERSECURITE	15488
-PROMOTION DE LA FEMME	2966
+PROMOTION DE LA FEMME	2966,16275
 PROMOTION DE LA QUALITE Vu la Constitution	17982
 PROMOTION DE LA SANTE DES POPULATIONS	14622
 PROMOTION DE L’INVESTISSEMENT Chapitre	16322
@@ -732,6 +736,7 @@ PROMOTION DES PEUPLES AUTOCHTONES Décret	15615
 PROMOTION DES PEUPLES AUTOCHTONES INTEGRATION ET	16367
 PROMOTION DES PEUPLES AUTOCHTONES NOMINATION	15524
 PROMOTION DU BILINGUISME ET	15999
+PROMOTION DU DIGITAL AUPRÈS DES	19221
 PROMOTION DU PROJET GRAND INGA	15670
 PROMOTION DU SECTEUR PRIVE Article	15558
 PROMOTION DU STATUT SOCIAL	15999
@@ -766,6 +771,7 @@ PROMOÇÃO DE PESSOAL	17100
 PROMOÇÃO DO COMÉRCIO ELECTRÓNICO	11397
 PROMOÇÃO E ACOMPANHAMENTO DO DESENVOLVIMENTO	11397
 PROMPTITUDE ET PONCTUALITÉ Selon	17830
+PROMULATION DE LA LOI STATISTIQUE AU	19223
 PROMULGADA	11582
 PROMULGATE SANCTIONNONS	14870
 PROMULGATE THE FOLLOWING LAW AND ORDER	14926
@@ -889,7 +895,7 @@ Promoción de Inversiones. Okoume	10361
 Promoción de Inversión	6841
 Promoción de Pequeñas	16898
 Promoción de Trabajo Decente	4209
-Promote	170,225,394,151,18,3,39,131,30,43,39,14,7,513,37,126,506,13,90,964,70,543,27,527,564,2,1,428,1,1,3,1,94,400,177,80,4,6,362,132,2,2,8,3,544,53,1349,248,515,195,586,279,55,44,22,15,273,2,3,6,56,2,37,40,582,48,11,32,4,42,149,42,25,4,13,6,7,1,12,33,70,4,24,15,22,23,9,45,14,162,1,257,7,2,21,2,7,6,1,64,38,15,126,74,25,25,1,1,12,4,18,106,3,54,134,74,116,11,59,118,372,6,7,23,2,100,108,49,6,5,10,3,4,1,25,4,31,6,1,16,34,5,5,4,39,13,7,5,50,24,2,11,74,12,10,19,56,1,38,128,39,69,31,93,109,1,2,9,35,85,94,21,17,63,10,94,68,41,580,18,1,9,5,6,4,8,2,1,13,15,11,10,3,3,1,8,17,2,5,21,15,6,1,12,13,56,15,2,11,12,1,9,8,78,25,25,11,68,175,411,8,347,65,99,9,2,1,6,3,39,8,65,21,51,96,115,2,2,14,34,105,93
+Promote	170,225,394,151,18,3,39,131,30,43,39,14,7,513,37,126,506,13,90,964,70,543,27,527,564,2,1,428,1,1,3,1,94,400,177,80,4,6,362,132,2,2,8,3,544,53,1349,248,515,195,586,279,55,44,22,15,273,2,3,6,56,2,37,40,582,48,11,32,4,42,149,42,25,4,13,6,7,1,12,33,70,4,24,15,22,23,9,45,14,162,1,257,7,2,21,2,7,6,1,64,38,15,126,74,25,25,1,1,12,4,18,106,3,54,134,74,116,11,59,118,372,6,7,23,2,100,108,49,6,5,10,3,4,1,25,4,31,6,1,16,34,5,5,4,39,13,7,5,50,24,2,11,74,12,10,19,56,1,38,128,39,69,31,93,109,1,2,9,35,85,94,21,17,63,10,94,68,41,580,18,1,9,5,6,4,8,2,1,13,15,11,10,3,3,1,8,17,2,5,21,15,6,1,12,13,56,15,2,11,12,1,9,8,78,25,25,11,68,175,411,8,347,65,99,9,2,1,6,3,39,8,65,21,51,96,115,2,2,14,34,105,93,110,39
 Promote AI	1814,2312,3422,4808,2210
 Promote AI Adoption	4126
 Promote AI Education	4126
@@ -1048,7 +1054,7 @@ Promoteur le Promoteur du Projet	15901
 Promoteurs	15542
 Promoteurs Etat du Cameroun	15542
 Promoteurs Recherche	15542
-Promoting	470,488,12,81,80,112,182,385,4,14,947,321,417,105,243,116,963,192,112,289,145,243,495,327,205,80,520,635,498,2095,65,15,109,15,216,2,32,306,50,271,40,8,81,203,21,23,7,5,189,174,67,266,21,7,4,4,10,18,106,307,105,52,1,428,444,22,96,108,49,21,1,3,4,25,13,28,94,35,18,69,308,149,172,62,199,7,281,105,67,477,11,10,1,1,1,4,26,27,1,30,2,36,67,36,3,39,95,67,113,27,45,277,90,14,409,8,48,109,27,2,1,2,42,61,15
+Promoting	470,488,12,81,80,112,182,385,4,14,947,321,417,105,243,116,963,192,112,289,145,243,495,327,205,80,520,635,498,2095,65,15,109,15,216,2,32,306,50,271,40,8,81,203,21,23,7,5,189,174,67,266,21,7,4,4,10,18,106,307,105,52,1,428,444,22,96,108,49,21,1,3,4,25,13,28,94,35,18,69,308,149,172,62,199,7,281,105,67,477,11,10,1,1,1,4,26,27,1,30,2,36,67,36,3,39,95,67,113,27,45,277,90,14,409,8,48,109,27,2,1,2,42,61,15,637
 Promoting Action	8376
 Promoting CSA	970
 Promoting Clean Energy for All	11332
@@ -1117,7 +1123,7 @@ Promoting and Small	11017
 Promoting the Export	5216,557
 Promoting the Internet	11935
 Promotio	17827
-Promotion	578,65,146,151,18,173,290,261,132,82,92,585,235,81,507,358,107,105,436,844,98,107,220,4,339,570,52,323,589,721,368,118,136,6,9,558,192,1056,100,11,3,15,6,53,40,4,20,1,15,5,146,128,277,230,91,59,28,270,159,16,24,149,360,42,13,10,108,27,168,3,8,40,77,24,326,13,55,578,4,4,2,1,12,51,1,1,132,22,79,6,31,1,236,37,22,316,9,2,7,9,12,1,4,10,2,1,5,21,17,2,1,4,21,18,24,11,27,8,11,5,19,38,24,25,2,8,2,2,20,33,22,49,88,18,11,34,21,27,148,189,61,40,136,5,8,218,32,58,9,150,13,470,228,1,4,4,6,2,12,1,2,1,4,7,4,1,6,9,3,3,2,1,9,6,1,5,7,3,2,9,51,4,4,15,2,10,29,5,3,27,10,5,8,1,2,2,16,1,21,26,1,86,30,1,4,6,19,3,20,146,302,139,61,1,17,1,46
+Promotion	578,65,146,151,18,173,290,261,132,82,92,585,235,81,507,358,107,105,436,844,98,107,220,4,339,570,52,323,589,721,368,118,136,6,9,558,192,1056,100,11,3,15,6,53,40,4,20,1,15,5,146,128,277,230,91,59,28,270,159,16,24,149,360,42,13,10,108,27,168,3,8,40,77,24,326,13,55,578,4,4,2,1,12,51,1,1,132,22,79,6,31,1,236,37,22,316,9,2,7,9,12,1,4,10,2,1,5,21,17,2,1,4,21,18,24,11,27,8,11,5,19,38,24,25,2,8,2,2,20,33,22,49,88,18,11,34,21,27,148,189,61,40,136,5,8,218,32,58,9,150,13,470,228,1,4,4,6,2,12,1,2,1,4,7,4,1,6,9,3,3,2,1,9,6,1,5,7,3,2,9,51,4,4,15,2,10,29,5,3,27,10,5,8,1,2,2,16,1,21,26,1,86,30,1,4,6,19,3,20,146,302,139,61,1,17,1,46,157,7,4,1,5,9,6,4
 Promotion Agencies	17157
 Promotion Agency2nd Floor	14848
 Promotion Civique	18911,253
@@ -1134,6 +1140,7 @@ Promotion Exercise	14760
 Promotion Feu Ammo AZIZA BAROUD	19032
 Promotion Fé	16645
 Promotion Féminine	15428,1188,5,20,4
+Promotion Genre	19295
 Promotion Industrielle	17913
 Promotion Mission	8485
 Promotion Mr Mvouba Isidore	16275
@@ -1168,9 +1175,10 @@ Promotion des EnR	16621,1695
 Promotion des Energies Domestiques DPER Direction	18103
 Promotion des Energies Renouvelables EEEOA Système	18103
 Promotion des Enseignantes-	18286
+Promotion des Femmes	19221
 Promotion des FinTech	10237
 Promotion des Initiatives Communautaires	18931
-Promotion des Investissements	4567,8726,434,109,3978,3,39,14,12,131,280
+Promotion des Investissements	4567,8726,434,109,3978,3,39,14,12,131,280,916
 Promotion des Investissements du Mali	17817
 Promotion des Investissements. Article	13293
 Promotion des Investissements. Ils	13293
@@ -1204,7 +1212,7 @@ Promotion du Genre PCLCP	18100
 Promotion du Genre. Le RSU	13715
 Promotion du Partenariat Public Privé MCM Ministère	15580
 Promotion du Patrimoine Naturel du Gabon	16175
-Promotion du Secteur	18905
+Promotion du Secteur	18905,304
 Promotion du Secteur Privé	15474,1142,2285
 Promotion du Secteur Privé MEDDB Ministère	15580
 Promotion du Secteur Privé. Dans	18901
@@ -1264,7 +1272,7 @@ Promotion of Social Justice	2958
 Promotion of Social Justice and Inclusion	18809
 Promotion of TVET	503
 Promotion of Value Chains and Private Initiative	16540
-Promotion of Women	10964,7140
+Promotion of Women	10964,7140,1141
 Promotion of Women and Gender Equity	16958
 Promotion of Women's Rights	17862
 Promotion of Young Entrepreneurial Innovation	10841
@@ -1282,11 +1290,12 @@ Promotions	6368,464,3023,1363,6,35,1713,150
 Promotions and Special Offer	6671
 Promotions and Special Offers	6671
 Promotores	11571
-Promouvoir	643,355,220,1898,114,787,550,3989,10,325,515,135,1167,4,146,16,40,51,10,969,1346,35,16,49,78,167,146,642,1,1,25,38,1,1,5,42,937,26,39,3,26,7,49,43,3,40,2,8,2,2,75,49,88,2,61,38,102,56,334,91,7,43,4,774,37,334,5,9,3,5,1,2,1,11,4,3,3,13,3,3,1,15,44,1,36,1,20,29,31,42,17,169,11,4,13,15,12,538,13,45,46
+Promouvoir	643,355,220,1898,114,787,550,3989,10,325,515,135,1167,4,146,16,40,51,10,969,1346,35,16,49,78,167,146,642,1,1,25,38,1,1,5,42,937,26,39,3,26,7,49,43,3,40,2,8,2,2,75,49,88,2,61,38,102,56,334,91,7,43,4,774,37,334,5,9,3,5,1,2,1,11,4,3,3,13,3,3,1,15,44,1,36,1,20,29,31,42,17,169,11,4,13,15,12,538,13,45,46,228,144,2,1
 Promouvoir Marché	17836
 Promouvoir des Consommateurs Activité	10965
 Promouvoir des Des Activité	10965
 Promouvoir le Burundi	13290
+Promouvoir le PPP	19361
 Promovam	17100
 Promove	12833
 Promover	15,152,1534,437,678,703,627,72,1445,799,4288,33,577,11,5,3,2,1,6,6,2,1,33,13,6,12,55,2,1,7,1,10,5,13,2,12,1208,2567,14,1,21,5,6,59,26,27,1,22,6,3,149,5,5,61,157,107,9,61,49,349,388,18,5,67,107,75,39,1563,2,4,5,7,6,1,4,16,6,1,36,33,26
@@ -1344,7 +1353,7 @@ Promulgate	13357,3476,25
 Promulgating the Law	15393
 Promulgating the Personal Data Protection Law	15484
 Promulgating the Personal Data Protection Law URL	15484
-Promulgation	17879
+Promulgation	17879,1342
 Promulgation of Access	1025
 Promulgation of Amendment Act	12912
 Promulgation of Community	16843
@@ -1455,6 +1464,7 @@ TAPOA TX Prom	10847
 TAUX DE PROMOTION	10847
 TGF TGF TGF T TX Prom	10847
 TIC Promotion	13341
+TITRE II PROMOTION DE LA CYBERSECURITE	19213
 TWIZERIMANA Promesse	15056
 TX Aban KOSSI TX Prom	10847
 TX Aban NORD TX Prom	10847

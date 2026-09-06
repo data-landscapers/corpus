@@ -204,7 +204,7 @@ COMMENTS ON ECONOMICS	16854
 COMMENTS ON FINANCE	16854
 COMMENTS PROGRAMMES	12971
 COMMENTS Policy and Define	11857
-COMMERCE	13293,207,3442,392,547,289,254
+COMMERCE	13293,207,3442,392,547,289,254,862
 COMMERCE AND INDUSTRY No	14891
 COMMERCE AND TRADE	12894
 COMMERCE Article	13293,4146
@@ -214,8 +214,10 @@ COMMERCE ELECTRONIQUE DU BURUNDI	13616
 COMMERCE ET DE L'INDUSTRIE Le Conseil	18151,5,71
 COMMERCE ET DE L'INDUSTRIELe Conseil des Ministres	18191
 COMMERCE ET DES CHAMBRES COMMER CIALES	18106
+COMMERCE ET DU CREDIT MOBILIER	19209
 COMMERCE ET LE DÉVELOPPEMENT C N	17881
 COMMERCE ET LE DÉVELOPPEMENT Genève	17881
+COMMERCE EXTERIEUR	19288,43,13
 COMMERCE EXTÉRIEUR	18757
 COMMERCE SERVICE PUBLIC	18319
 COMMERCIAL	13390
@@ -261,7 +263,7 @@ Central African Republic Commercial Forests Briefing	10841
 Central Bank of Liberia Commercial	17235
 Centre National du Registre de Commerce	15614
 Certification Commence Business CM46	12342
-Chamber of Commerce	1000,4172,692,6648,149,1277,782,177,188,191,135,36,1521,102,464,901,362
+Chamber of Commerce	1000,4172,692,6648,149,1277,782,177,188,191,135,36,1521,102,464,901,362,448
 Chamber of Commerce Bureau of Standards	12376
 Chamber of Commerce Civil Society Organizations Gambia	16973
 Chamber of Commerce Data Controller INST-585749569B8 NAIROBI	7167
@@ -272,7 +274,7 @@ Chamber of Commerce. Entrepreneurs	15411
 Chambers of Commerce	5247,5882,3768,2202,15
 Chambers of Commerce and Director of API	16275
 Chambers of Commerce and Industry	12894
-Chambre de Commerce	2418,2132,1446,304,1430,2529,562,54,3594,380,563,81,219,595,178,1413,84,112,54,757,83
+Chambre de Commerce	2418,2132,1446,304,1430,2529,562,54,3594,380,563,81,219,595,178,1413,84,112,54,757,83,221,41,36
 Chambre de Commerce Américaine. L'ensemble	17498
 Chambre de Commerce de Djibouti	13894
 Chambre de Commerce. Article	13843
@@ -305,7 +307,7 @@ Code of Civil and Commercial Procedure	15393
 Collaboration and Commercialisation. Commercialisation	10098
 Combining Commerce And Finance By Okey	8107
 CommVel Commercial	10733
-Comme	747,1,439,492,305,85,273,35,36,30,33,37,1,45,136,68,2,121,65,206,171,33,582,125,142,20,50,179,42,232,289,7,251,597,82,86,914,51,259,63,281,42,58,24,128,202,569,59,196,102,1096,137,13,20,26,94,10,428,9,42,55,52,105,534,47,8,31,26,1564,10,24,1,4,8,4,34,15,15,1,36,3,31,98,146,4,4,113,367,31,184,58,7,50,303,511,38,84,19,49,13,39,79,38,4,18,31,168,29,76,25,67,199,72,130,96,1,6,38,35,41,701,315,49,11,7,13,5,8,10,13,3,12,51,16,22,80,12,24,22,1,31,35,24,37,16,21,4,1,6,7,6,2,69,51,1,509,30,15,161,5
+Comme	747,1,439,492,305,85,273,35,36,30,33,37,1,45,136,68,2,121,65,206,171,33,582,125,142,20,50,179,42,232,289,7,251,597,82,86,914,51,259,63,281,42,58,24,128,202,569,59,196,102,1096,137,13,20,26,94,10,428,9,42,55,52,105,534,47,8,31,26,1564,10,24,1,4,8,4,34,15,15,1,36,3,31,98,146,4,4,113,367,31,184,58,7,50,303,511,38,84,19,49,13,39,79,38,4,18,31,168,29,76,25,67,199,72,130,96,1,6,38,35,41,701,315,49,11,7,13,5,8,10,13,3,12,51,16,22,80,12,24,22,1,31,35,24,37,16,21,4,1,6,7,6,2,69,51,1,509,30,15,161,5,63,99,21
 Comme Dia	7106
 Comme Directeur	8678
 Comme Merveille Manuella	2513
@@ -376,7 +378,7 @@ Commends CRSG For Skills Transfer	18547
 Commends CRSG For Skills Transfer URL	18547
 Commends Progress RAIC Signs MOU	18442
 Commensurate	1828
-Comment	747,1130,111,379,391,274,73,143,217,297,46,921,164,129,7,130,121,393,473,277,410,56,70,360,13,23,300,20,39,155,130,99,417,210,91,177,59,201,73,156,9,28,78,439,195,158,11,94,21,50,133,10,109,10,15,136,56,40,518,10,84,115,13,910,247,103,226,60,30,416,140,601,136,13,379,111,52,54,3,129,151,4,53,39,41,34,162,20,219,79,39,69,51,45,74,14,27,83,16,240,1,300,138,1,290,49,86,221,9,44,53,229,7,3,61,29,27,1,458
+Comment	747,1130,111,379,391,274,73,143,217,297,46,921,164,129,7,130,121,393,473,277,410,56,70,360,13,23,300,20,39,155,130,99,417,210,91,177,59,201,73,156,9,28,78,439,195,158,11,94,21,50,133,10,109,10,15,136,56,40,518,10,84,115,13,910,247,103,226,60,30,416,140,601,136,13,379,111,52,54,3,129,151,4,53,39,41,34,162,20,219,79,39,69,51,45,74,14,27,83,16,240,1,300,138,1,290,49,86,221,9,44,53,229,7,3,61,29,27,1,458,330,115,12
 Comment Annuler	17903
 Comment Bédié	9620
 Comment CITADEL	2732
@@ -436,7 +438,8 @@ Commenter Partager Facebook X WhatsApp Linkedin	10625
 Commenter Une	10401
 Commentez	4960,62,2035,9185
 Commenting	1196,440,978,1308,681,104,18,139,288,173,300,918,354,360,188,340,437,188,32,210,316,3,630,88,137,45,262,1615,174,210,371,10,63,464,58,96,221,219,447,152,172,289,568,325,161,1356,11,88,114,102
-Comments	2712,1941,35,702,92,92,279,502,224,328,21,99,155,62,8,445,1,1,88,67,6,17,1,488,501,299,894,75,158,85,401,91,120,144,75,119,67,406,123,47,17,106,134,27,12,173,104,16,295,116,66,21,74,226,128,118,143,30,9,26,2,8,36,52,10,50,134,784,285,26,11,22,179,13,177,18,44,72,23,2,123,86,36,8,19,47,108,96,114,39,106,11,61,3,21,67,143,75,28,9,3,31,6,11,27,25,1,10,5,17,89,6,10,49,27,7,80,22,84,35,399,54,4,44,127,46,99,1,5,66,4,1,4,2,27,11,94,8,7,6,7,13,18,1,13,7,9,2,2,3,165,38,14,11,165,3,104
+Comments	2712,1941,35,702,92,92,279,502,224,328,21,99,155,62,8,445,1,1,88,67,6,17,1,488,501,299,894,75,158,85,401,91,120,144,75,119,67,406,123,47,17,106,134,27,12,173,104,16,295,116,66,21,74,226,128,118,143,30,9,26,2,8,36,52,10,50,134,784,285,26,11,22,179,13,177,18,44,72,23,2,123,86,36,8,19,47,108,96,114,39,106,11,61,3,21,67,143,75,28,9,3,31,6,11,27,25,1,10,5,17,89,6,10,49,27,7,80,22,84,35,399,54,4,44,127,46,99,1,5,66,4,1,4,2,27,11,94,8,7,6,7,13,18,1,13,7,9,2,2,3,165,38,14,11,165,3,104,153,7
+Comments ANID	19242
 Comments Academic	17099
 Comments Achieved. Integrated	17470
 Comments Action Description Development	17470,35
@@ -454,7 +457,9 @@ Comments Completion Measurement The Government of Morocco	17505
 Comments Component	13392
 Comments Cost	18754
 Comments DRAFT GUIDELINES FOR DIGITAL PHARMACY	9854
+Comments Dans	19273
 Comments Davos	18546
+Comments Depuis	19252
 Comments Due	19080
 Comments E&S	17505
 Comments Expected Pre Domestic Review	18887
@@ -479,10 +484,12 @@ Comments Mohamed LUKMAN	14982
 Comments Molla Hunegnaw Asmare	19162
 Comments NII	11131
 Comments NetOne	7312
+Comments Newly	19284
 Comments No. Assignment Cost	18887
 Comments No. Cost	18887
 Comments Oldest Newest Most Voted Kushe	5390,965,827
 Comments Ongoing	17470
+Comments Original	19284
 Comments Overall the Ministry	12971
 Comments PBC	13392
 Comments PBC2A. Improved	13392
@@ -513,7 +520,7 @@ Commenté	10966
 Commer	13053,272,3551
 Commerc	12256
 Commercant	16518
-Commerce	28,94,104,169,64,103,81,94,9,215,39,53,399,230,302,112,61,296,61,115,239,488,40,3,87,172,108,55,45,226,458,183,547,33,138,4,138,96,14,2,102,70,6,41,210,15,126,145,85,62,277,19,65,179,16,2,84,59,14,259,190,247,241,18,328,72,171,83,444,129,18,33,40,264,480,228,294,54,25,234,390,26,260,45,2,499,20,19,134,442,1,80,41,197,3,2,19,29,25,22,37,5,1,12,55,60,2,98,67,22,94,25,142,71,370,32,5,1,1,58,2,69,156,66,56,15,458,2,4,40,2,8,3,25,24,17,38,50,1,87,71,105,54,35,79,5,27,10,48,39,105,7,19,210,132,6,12,70,138,29,267,121,185,3,13,13,9,43,58,228,5,3,1,3,3,2,4,9,1,29,4,5,18,31,19,29,4,1,3,17,10,19,31,14,29,50,48,23,20,10,8,54,142,57,239,39,101,13,57,21,81,125
+Commerce	28,94,104,169,64,103,81,94,9,215,39,53,399,230,302,112,61,296,61,115,239,488,40,3,87,172,108,55,45,226,458,183,547,33,138,4,138,96,14,2,102,70,6,41,210,15,126,145,85,62,277,19,65,179,16,2,84,59,14,259,190,247,241,18,328,72,171,83,444,129,18,33,40,264,480,228,294,54,25,234,390,26,260,45,2,499,20,19,134,442,1,80,41,197,3,2,19,29,25,22,37,5,1,12,55,60,2,98,67,22,94,25,142,71,370,32,5,1,1,58,2,69,156,66,56,15,458,2,4,40,2,8,3,25,24,17,38,50,1,87,71,105,54,35,79,5,27,10,48,39,105,7,19,210,132,6,12,70,138,29,267,121,185,3,13,13,9,43,58,228,5,3,1,3,3,2,4,9,1,29,4,5,18,31,19,29,4,1,3,17,10,19,31,14,29,50,48,23,20,10,8,54,142,57,239,39,101,13,57,21,81,125,15,4,8,29,38,43,13,6,2,14
 Commerce Act	15936
 Commerce Advertisement Connect	5264
 Commerce Agriculture	10763
@@ -536,6 +543,7 @@ Commerce Equitable Afrique Data Processor INST-177444314EF	7167
 Commerce Explorez	9482
 Commerce Expo	4630,50,637
 Commerce Extérieur	13341,2716,1785,67
+Commerce Extérieur Cadrage	19221
 Commerce Extérieur FAO	15848
 Commerce Extérieur H	13341
 Commerce Framework of Standards	15478
@@ -580,8 +588,10 @@ Commerce and Treasury	10444
 Commerce des Etats-Unis	15901
 Commerce du Bois Délégué Médical LICENCE	15674
 Commerce extérieur Vers	5452
+Commerce. Art	19209
 Commerce. Au	18169
 Commerce. Bamako	17817
+Commerce. CHAPITRE	19209
 Commerce. Ces	17825
 Commerce. Enfin	18148
 Commerce. Le Ministre	14432
@@ -591,7 +601,7 @@ Commerce. The PIU	17099
 Commerce’s BIS	10444
 Commercia Base Station	17250
 Commerciai Contract	15399
-Commercial	226,76,962,603,909,51,412,1713,172,409,58,84,189,386,182,514,258,17,78,728,98,9,274,28,244,637,355,30,48,592,8,57,263,123,48,20,1,111,132,24,1,1,3,2,44,43,17,31,526,159,38,6,62,162,32,30,11,61,11,7,13,101,10,133,279,112,29,242,17,2,38,33,3,91,254,135,156,182,536,4,145,6,100,208,167,232,55,54,224,694,212,9,24,59,7,24,18,27,128,1,95,1,21,57,872,31,218,3,6,10,7,6,18,19,334,205
+Commercial	226,76,962,603,909,51,412,1713,172,409,58,84,189,386,182,514,258,17,78,728,98,9,274,28,244,637,355,30,48,592,8,57,263,123,48,20,1,111,132,24,1,1,3,2,44,43,17,31,526,159,38,6,62,162,32,30,11,61,11,7,13,101,10,133,279,112,29,242,17,2,38,33,3,91,254,135,156,182,536,4,145,6,100,208,167,232,55,54,224,694,212,9,24,59,7,24,18,27,128,1,95,1,21,57,872,31,218,3,6,10,7,6,18,19,334,205,322
 Commercial Affairs	17441
 Commercial Agriculture Development Project	11380,517
 Commercial Bank	1867,7959
@@ -827,7 +837,7 @@ DES TRANSACTIONS DU COMMERCE ELECTRONIQUE ARTICLE	15373
 DETENTION D’UN EQUIPEMENT POUR COMMETTRE DES	16617
 DG Commends Tribal Heads for Strengthening Civil	18519
 DJAHNIT ABDESSELAM Ministère du Commerce	15472
-DLI Comments	10870,6635
+DLI Comments	10870,6635,1737
 DOCUMENT Chapter Section Heading Comments Number	236
 DOMESTIC AND COMMERCIAL EQUIPMENT. ENTERTAINMENT. SPORTS	16900
 DRAFTS FOR COMMENTS	11269
@@ -885,7 +895,7 @@ Djibouti. Le Ministère du Commerce	13843
 Domestic Small Commercial	12256
 Domestic Small Commercial Street	12256
 Draft Standards for Public Comment Stakeholders	13705
-Droit Commercial Général	15352,143
+Droit Commercial Général	15352,143,3714
 Droit Commercial International	14411
 Droit des Sociétés Commerciales	16249
 Dubai Chamber of Commerce	14476
@@ -1002,7 +1012,7 @@ FOREWORD MINISTER OF COMMERCE AND INDUSTRY	17367
 FORMANT CODE DE COMMERCE	17439
 FORMANT CODE DE COMMERCE PROMULGUEE PAR	17439
 FORMATION EN AGRO INDUSTRIE ET COMMERCE	18170
-FORSETI COMMERCIAL	3437,3942,47,10187,2
+FORSETI COMMERCIAL	3437,3942,47,10187,2,1710
 Facebook CommentsFollow Us	6385
 Facilitate the Use of Electronic Transactions for Commercial	16832
 Facilitator of Electronic Government and Electronic Commerce	16861
@@ -1017,6 +1027,7 @@ Feb-2024 In Progress Comments Economy	10870
 Federation of Employers and Chambers of Commerce	12896
 Federation of Saudi Chambers of Commerce	13432
 Federation of Saudi Chambers of Commerce Secretary-General	13432
+Femmes Commerçantes du Togo	19267
 Finance Commerciales Master Audit	17829
 Financement du Commerce	17833
 Financial Incentives for Commercializing Research	12389
@@ -1041,6 +1052,7 @@ GAHAR Comments	16079
 GAHAR and Comments	16079
 GCCI Gambia Chamber of Commerce and Industry GIEPA	16926
 GDP. Commerce	14259
+GESTION COMMERCIALE DU DOMAINE INTERNET NATIONAL	19209
 GESTION ESCAE ECOLE SUPÉRIEURE DE COMMERCE	18143,27
 GROSSESSE COMME DES POINTS DE RÉFÉRENCE	13300
 GUICHET. COMMENT FAIRE	16629
@@ -1061,6 +1073,7 @@ General Union of Chambers of Commerce	5264,1895,3486
 General Union of Chambers of Commerce The Libyan	5264
 Genre Ministère de Commerce	13341
 Geopolitics and Commerce	13313
+Gestion Commerciale	19366
 Ghana Gazette Commenced	15562
 Gildas SANAWAGOU KOMBI. MINISTERE DU COMMERE	16381
 Girls Secondary Commercial	15604
@@ -1189,6 +1202,7 @@ KAMWI COMMENTS Former	14343
 KCB Bank South Sudan and Buffalo Commercial	18748
 KEY RISKS Risks Probability Comments	1818
 KORI. Comme	9510
+Kara Savanes Togo Commerce	19350
 Kenya Chinese Chamber of Commerce	10539
 Kenya Commercial Bank	10618,693,2002,909,775
 Kenya Commercial Bank Burundi Limited	13390
@@ -1227,14 +1241,14 @@ LIBERIAN COMMERCIAL CODE	14647
 LIST OF LIVE COMMERCIAL BANKS	18489
 LIST OF LIVE COMMERCIAL BANKS 04082025 URL	17242
 LOGISTIQUE DU COMMERCE ET FACILITATION DES	17881
-La Chambre de Commerce	8106,1759
+La Chambre de Commerce	8106,1759,9355
 Lagos Chamber of Commerce and Industry	5215,3171,860
 Lagos. Q2. Comment	16545
 Le Commerce Electronique L’activité	15488
 Le Guichet Unique du Commerce Extérieur de Côte	6149
 Le Ministre du Commerce	13290,2122,2464
 Le Ministère du Commerce	15474
-Le Registre du Commerce	17847
+Le Registre du Commerce	17847,1362
 Le Tribunal de Commerce	14417
 Leadership Comment	9360
 Leave A Comment Annuler	17839,135
@@ -1309,6 +1323,7 @@ Mauritius Chamber of Commerce and Industry	8240,3092,3404
 Mauritius Commercial Bank	4673,14306
 Mauritius Commercial Bank Limited	12252
 Measurement Ministry of Comments NA Economy and Recurrent	10870
+Measurement Template Comments	19242
 Medium Chambers of Commerce	17099
 Memorandum of Understanding and Commercial Terms Agreement	6664,6524
 Meteorological Comments	17962
@@ -1352,7 +1367,7 @@ Ministry of Industry and Commerce	395,3819,7509,1597,62,3,216
 Ministry of Industry and Commerce Zimbabwe National Quality	13320
 Ministry of Professional Training and Micro Commerce	18911
 Ministry of Public Service. Commending	8032
-Ministère du Commerce	2514,531,8899,299,1098,159,343,568,6,15,1042,68,63,107,45,179,313,45,322,25,12,1174,289,170,764,139
+Ministère du Commerce	2514,531,8899,299,1098,159,343,568,6,15,1042,68,63,107,45,179,313,45,322,25,12,1174,289,170,764,139,32
 Ministère du Commerce Article	17827
 Ministère du Commerce. Article	14432,3396
 Ministère du Commerce. III. AU TITRE	18116
@@ -1408,7 +1423,7 @@ No. Description of Assignment Bank Comments	18887
 Nokia. Commenting	3357
 Non Commercial	11596
 Non Commerciales	2342
-Non-World Bank Group Financing Commercial Financing	1704,587,1271,9769,3323
+Non-World Bank Group Financing Commercial Financing	1704,587,1271,9769,3323,2591
 None Comments	14045
 Number Comments	16705,289
 Number of Comments	17079
@@ -1426,7 +1441,7 @@ Offres Commerciales	18122
 Oman Chamber of Commerce and Industry	8592
 OmniRetail Digital B2B Commerce and Embedded Finance	2232
 Open Bidding National Commencement Type	13621
-Organisation Mondiale du Commerce	15542,3348
+Organisation Mondiale du Commerce	15542,3348,319
 Organisation Mondiale du Commerce OMS	15848
 Organisations Professionnelles de Commerçants	14302
 Overall Risk Rating During Comments Implementation	15372
@@ -1435,8 +1450,9 @@ Overspent Comments Generally	12971
 Overview The Ministry of Commerce	12393
 P SOC DE COMMERCE ET	16623
 PART IV ELECTRONIC COMMERCE	12930
-PBC Comments	16994
+PBC Comments	16994,2255
 PHASAOC. Commerce	18077
+PIEs Comments ANID	19242
 PLATFORM COMMENDED	13440
 PORTANT CODE DE COMMERCE LE PRESIDENT	13293
 PORTANT NOMINATION AU MINISTERE DU COMMERCE	17827
@@ -1466,12 +1482,14 @@ Phase I Comments	16079
 Planned Actual Comments Administrative Division Morocco	17441
 Plus the Matrix of Comments	15261
 Policy Comments	11971
+Policy Operation DRP Commercial Direction	19239
 Postbank Chief Commercial Officer Thamsanqa Cele	7856
 PoweringZambia Comments	13647
 Pre-commencement and Commencement Standards	12389
 Press Release No Comments The Electoral	12465
 Principles of Commerce Civics	18461
 Pro-government CommentatorsYes	15926
+Program Comments ATD	19242
 Programme. Comme	18972
 Project Sponsoring Project Commencement Completion	13031
 Project. Comments	16638
@@ -1515,7 +1533,7 @@ Regional Development Plans Comments	16994
 Registre Central du Commerce	17847
 Registre Commerce	13524
 Registre de Commerce	5478,8331,1775,213,452,1236,428
-Registre du Commerce	6942,404,3490,26,17,643,45,2242,674,869,77,159,47,301,313,368,1200,12,12,6,156,117,796
+Registre du Commerce	6942,404,3490,26,17,643,45,2242,674,869,77,159,47,301,313,368,1200,12,12,6,156,117,796,344
 Registre du Commerce En Côte	15495
 Registre du Commerce de Casablanca	17502
 Registre du Commerce. Services	18916
@@ -1551,6 +1569,7 @@ SATION DES TRIBUNAUX DE COMMERCE ET	18106
 SCIENCES DE GESTION Action Commerciale	15674
 SECTION IV DES TELEVISIONS PRIVEES COMMERCIALES	15397
 SEMI COMMERCIAL AQUACULTURE PERIOD FEES	18450
+SH Comments	19242
 SIEGEANT EN MATIERE COMMERCIALE Article	13293
 SIERRA LEONE COMMERCIAL BANK	18489
 SLE Comments	12440
@@ -1626,6 +1645,7 @@ Submission of Written Comments Within	17212
 Submit Your Comments	5853
 Subsistence and Commercial	12383
 Substantial Comments	14056
+Sud. Comme	19350
 Sudan's Commercial Registrar	15045
 Supérieure de Commerce	9357
 Système Commerce	17829
@@ -1700,7 +1720,7 @@ UTILISEZ DES QUESTIONNAIRES SUPPLÉMENTAIRES EN COMMENCANT	13300
 Uganda China Ministry of Commerce	184
 Uganda and Rwanda. Commenting	4612
 Under Secretary of Commerce for International Trade	5773
-Unguaranteed Commercial Financing	1704,587,1271,11348,1744
+Unguaranteed Commercial Financing	1704,587,1271,11348,1744,2591
 Unguaranteed Commercial Financing IDA Resources	13331,2813
 Unguaranteed Commercial Financing US	3604
 Unified Digital System for Chambers of Commerce	5264
@@ -1723,6 +1743,8 @@ Vendor Module Vendor Comments	13037
 Vendor's Comments	17068
 Vice Minister of Commerce	184
 Victor Kyalo. Comments	14017
+View Comments AVIS AUX OPÉRATEURS	19256,67
+View Comments COMMUNIQUÉ DE L'OFFICE TOGOLAIS	19292
 Vulamasango School and Ngwenya Town Board. Commemoration	12977
 W4P MARGE COMMERCIALE W4Q	18032
 WACREN Comments	16705

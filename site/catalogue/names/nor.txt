@@ -62,6 +62,9 @@ Agence Nigérienne de Normalisation	18238
 Agence Norvégienne de Coopération	16644
 Agence Tchadienne de Normalisation	18890,299
 Agence Tchadienne de Normalisation URL	18890,299
+Agence Togolaise de Normalisation Membership	19359
+Agence Togolaise de Normalisation Ministère	19359
+Agence Togolaise de Normalisation URL	19359
 Agence des Normes	15542
 Agencia Nacional de Normalización	16981
 Agencia de Normalización	4209,12772
@@ -339,6 +342,7 @@ Ecole Normale Supérieure EPT	15673
 Ecole Normale Supérieure de Yaoundé	15480
 Ecole Normale de Toulouse	17873
 Ecoles Normale des Instituteurs	11905
+Ecoles Normales de Formation des Professeurs	19249
 Economie Solidaire Nord CNOS Communauté MSHP	17845
 Economy and Finance MENA Middle East and North	17458
 Ede North	10254
@@ -375,6 +379,7 @@ Evaluation des Normes du SIGE GTGEAP	17830
 Except for Northern Cape	11192
 Exit North Africa	4972
 Expansion Nord	5745,1
+Exploitation Nord	19295
 Extreme Nord	10985
 Extrême Nord	10965,4577,57
 Extrême Nord Mini	10975
@@ -533,7 +538,7 @@ Instrumentos Normativos Secundários	11448
 Internal North-South	789
 Irishaid and Norway	14402
 Irlande du Nord	6613
-Islands Norway Oman Pakistan Palau Palestine	11470
+Islands Norway Oman Pakistan Palau Palestine	11470,7872
 Ituri and North Kivu	11900
 Ituri and North Kivu Provinces	16383
 Ivoire Gulf of Guinea Northern Regions Social	3604
@@ -884,7 +889,7 @@ Near Normal Typical	17157
 Neil Nortje	13691
 Net Present Value NRC Norwegian Refugee	15661
 Next Post Northern Bahr	5428
-Nicaragua Niger Nigeria Niue Norfolk Island	11470
+Nicaragua Niger Nigeria Niue Norfolk Island	11470,7872
 Nicaragua Niger Nigeria Niue North Macedonia	11765
 Niger North Niger Central	11857
 Nigeria NGWANA ENTERPRISES Botswana Northern Innovation	15460
@@ -947,18 +952,22 @@ Nord- Oue3	15999
 Nord- Ouest	15999
 Nord-Africain	17836
 Nord-Est	15399,200,93,28,475,357
+Nord-Est. Ces	19350
 Nord-Kivu	2628,2441,140,458,2221,4,863,3288,3627,750,1218
+Nord-Nigeria	19220
 Nord-Ouest	3157,651,1549,472,5136,10,10,4414,143,57,86,35,279,169,27,339,2408,46
 Nord-Ouest Ouest Sud Sud-Ouest Ensemble	15599
 Nord-Ouest Postes Transfo P	10975
 Nord-Ouest de BANGUI	15774
 Nord-Ouest. Ces	15599
-Nord-Sud	10395,5160,482,1946
+Nord-Sud	10395,5160,482,1946,1238
 Nord-Ubangi	10291,5379
 Nord-Ubangi. Cette	10291
 Nord-ouest	15599,596
 Nord-soudanniene	15715
+Nord-sud	19221
 Nord. Copenhagen	10841
+Nord. Deux	19350
 Nord. En	737,11047
 Nord. Face	3680
 Nord. Tableau	15599
@@ -990,6 +999,7 @@ Norfund. FX	864
 Norfund. WeLight	390
 Noriana Muneku	13571
 Noriana Muneku Permanent Secretary	13392
+Noristerat	19226
 Norleo Space Investments	10162,37,1
 Norleo Space Investments and Grant Gordon	10162
 Norm Average	13310
@@ -1007,8 +1017,9 @@ Norma de Aplicação	10755
 Norma de Pequenos Alojamentos Turísticos	15645
 Norma de Sustentabilidade	15645
 Normahomed Tomás Banze Elis Manuela Artur	2989
-Normal	5267,4863,663,730,429,544,481,131,192,90,134,1947,837,244,346,259,1284,393
+Normal	5267,4863,663,730,429,544,481,131,192,90,134,1947,837,244,346,259,1284,393,392
 Normal Early	17157
+Normal Enregistrer	19226
 Normal Entre	13300
 Normal Manuais de Utilizador Formação Assinatura	12021
 Normal Mode	13524
@@ -1180,7 +1191,7 @@ North African	2673,4,291,960,124,32,84,27,433,346,366,36,577,612,127,2136,378,14
 North African Context	17745
 North African Power Pool	11149
 North Africa’s Digital Health Push Tunisia	7766
-North America	144,846,1,45,1800,600,346,644,88,349,109,850,252,327,97,192,142,165,105,54,52,194,171,180,510,85,803,4,554,106,15,258,32,83,18,471,22,4,46,21,355,888,367,2424,178,1415,401,183,239,538
+North America	144,846,1,45,1800,600,346,644,88,349,109,850,252,327,97,192,142,165,105,54,52,194,171,180,510,85,803,4,554,106,15,258,32,83,18,471,22,4,46,21,355,888,367,2424,178,1415,401,183,239,538,1486
 North America and Asia	8936,4596
 North America and Europe	2948,2622,1135,5217,5192
 North America and Europe. Africa	7281
@@ -1257,7 +1268,7 @@ North Kordofan SNAPSHOT	15206
 North Kordofan State	14955
 North Kordofan and East Nile Khartoum	15342
 North Korea	6825,646,4138,2505
-North Korea North Macedonia Northern Mariana	11470
+North Korea North Macedonia Northern Mariana	11470,7872
 North Korea-linked	4127
 North Korean-backed	4127
 North Macedo-	17743
@@ -1458,7 +1469,7 @@ Northern Guéra Region	10841
 Northern Integrated Development Agency	12779
 Northern Ireland	6866,6056,118
 Northern Kafue National Park	1988
-Northern Kenya	2324,395,2415,7093
+Northern Kenya	2324,395,2415,7093,7057
 Northern Kenya and Nairobi	7833
 Northern Local Division	12920
 Northern Lowlands	12755
@@ -1495,6 +1506,7 @@ Northern Sector	14158
 Northern State	14853,92,10,387
 Northern Sudan	15244,3375
 Northern Sudanese	15342
+Northern Togo	19284
 Northern Transmission Corridor	18537
 Northern Tuli Game Reserve	5879
 Northern Uganda	9382
@@ -1539,6 +1551,7 @@ Northwest and North-Central	11469
 Northwest and Southwest	10841,4941
 Northwestern	1988
 Northwestern Coastal Strip	17157
+Northwestern Facilitated	19237
 Northwestern Libya	17157
 Northwestern Province	1867,121,11390
 Northwestern Province and Mayukwayukwa	1988

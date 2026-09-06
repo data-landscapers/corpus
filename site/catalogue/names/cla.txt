@@ -238,7 +238,7 @@ Claiming	8949,8178
 Claiming Rights	17127
 Claiming Rights Awareness	17127
 Claiming Rights Dimensions	17127
-Claims	1348,1048,1255,63,892,614,222,378,4280,629,64,338,3,96,1279,817,1671,26,1164,1048,22,246,192,901,318
+Claims	1348,1048,1255,63,892,614,222,378,4280,629,64,338,3,96,1279,817,1671,26,1164,1048,22,246,192,901,318,370
 Claims Check Code	16218
 Claims Exchange	18162
 Claims Ratio	17235
@@ -487,7 +487,7 @@ Classe de CE2	14745
 Classe de Iniciação	10766
 Classe de Terminale	18099
 Classe de Transição	11419
-Classement	1247,1095,6549,1985,738,1761,193,969,956,15,595,146,377,10,5,81,1157,136,39,265
+Classement	1247,1095,6549,1985,738,1761,193,969,956,15,595,146,377,10,5,81,1157,136,39,265,902
 Classement Asie	15936
 Classement Europe	15936
 Classement Global Open Data Index	16641
@@ -499,8 +499,8 @@ Classement Titre	14438
 Classement Usage	17860
 Classement du Burundi	13325
 Classements Doing Business	17448
-Classer	13781,1726,2592
-Classes	9123,1643,1087,1200,2551,111,1425,863
+Classer	13781,1726,2592,1127
+Classes	9123,1643,1087,1200,2551,111,1425,863,1252
 Classes C and D	3651
 Classes Connectées Dir	17497
 Classes Connectées. Pour	17497
@@ -552,6 +552,7 @@ Classification Internationale Type des Professions	14622
 Classification Internationale des Maladies	17845
 Classification Internationale des Marchés CITE	10874
 Classification Investment Project Financing	18198
+Classification Investment Project P179138 Moderate Financing	19245
 Classification Investment Project Substantial Financing	3604
 Classification Of Goods Temporary Importations	12454
 Classification RS ISO	15027
@@ -614,7 +615,7 @@ Classroom Size	18460
 Classrooms	11469,436,13,9,1465,1530,656,26,832
 Classrooms Illiteracy	15578
 Classy	13434
-Classé	10907,3627
+Classé	10907,3627,4686
 Classée	6479,5200
 Classées	15864
 Claud John Kumalija	771
@@ -703,7 +704,7 @@ Claus Thustrup Kreiner	18318
 Clause	2530,1208,8,986,1140,137,1823,2448,835,165,697,77,265,640,78,148,208,131,1022,48,7,165,118,7,411,109,313,177,846,93,13,47,1437,206
 Clause-by-clause	3746
 Clause-level	3974
-Clauses	1231,5178,5752,798,1635,7,165,569,431,378,518,452
+Clauses	1231,5178,5752,798,1635,7,165,569,431,378,518,452,2139
 Clauses Environnementales	14488,1,1
 Clauses Exigence	15525
 Clauses-Type Cloud	3857
@@ -855,7 +856,7 @@ Environmental And Social Risk Classification	13787,1167,1700
 Environmental And Social Risk Classification Moderate	2291,12285
 Environmental And Social Risk Classification Substantial	1704,1752
 Environmental and Social Clauses	1988
-Environmental and Social Risk Classification	761,2801,42,8361,255,168,24,14,243,1065,9,113,159,895,27,39,121,93,592,250,261,105,2411
+Environmental and Social Risk Classification	761,2801,42,8361,255,168,24,14,243,1065,9,113,159,895,27,39,121,93,592,250,261,105,2411,475
 Environmental and Social Risk Classification Concept Review	13111,2402,37,1125
 Environmental and Social Risk Classification Investment	15621,122
 Environmental and Social Risk Classification Substantial	15658
@@ -982,6 +983,7 @@ ITB Clause	13037,1729
 ITB Clauses	14766
 IX. CLARIFICATION DES ROLES ET RESPONSABILITES	13482
 Imagery Classification. IEEE Journal of Selected Topics	14769
+Impact Classement	19221
 Importance Classification	16266
 Improve the Quality and Reliability of Classrooms	11918
 Includes GitHub Classroom	11922
@@ -1150,6 +1152,7 @@ Member IDD04 Claudia Cardelli Team Member	1284
 Mike Clare	2677
 Minister. Clause	12959
 Mlle Clairia Mugisha	13547
+Mlle Clarisse AGBEGNENOU	19209
 Mme ABANA BILOA Claudine	16195
 Mme Clarisse LELANGHA	16175
 Mme Claudette EWORET	16175
@@ -1196,6 +1199,7 @@ NIYONSAVYE Vianney HATUNGIMANA Jean Claude NJEKWIZERA	13300
 NO. OF OFFENCES CLASSIFIED AS CRIME	14760
 NOTIFICATION AND REGISTRATION OF BIRTHS Clause	12959
 NOTIFICATION AND REGISTRATION OF DEATHS Clause	12959
+NSHI Claims	19284
 NW4495 Clarke	11980
 Name Size Code LULC classification.R	16463
 Name of Assessment Team DIGITAL CLASSROOM RENOVATION	16963
@@ -1383,6 +1387,7 @@ Social Claim	15901
 Social Risk Classification	11965
 Social Risk Classification Environmental Risk Rating	15138
 Social Risk Classification Financing Agreement Foreign	16436
+Social Risk Classification For Official Use	19284
 Social Risk Classification P175363 Substantial Investment	10964
 Social Risk Classification P179509 Investment Project	11560
 Social Risk Classification Road Fund	1228
@@ -1414,6 +1419,7 @@ Subproject Category Classification	17114
 Subproject Category Classification Based	17114
 Sudan Classification	14898
 Sunset Clauses and Review Triggers	3861
+Support SHIS Claims Training and Total Management	19284
 Supremacy Clause	3861
 Supremacy Clause Application	3861
 TB Hack Claim Secondary	5146

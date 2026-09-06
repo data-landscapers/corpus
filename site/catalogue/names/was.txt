@@ -1,5 +1,6 @@
 AFE. Washington	14642
 AI Era for Africa . Washington	11140
+ALIASSIM Wassiou SCH	19251
 Abel. The Washington	6929
 Accelerated and Inclusive Growth. Washington	10841
 Added Tax WASAC	12445
@@ -158,6 +159,7 @@ Food Loss and Waste Reduction	14818
 Food Loss and Waste Reduction Around	14818
 Food Wastage	14835
 Form S-1. Washington	6467
+Fortune. Washington	19237
 Forum. Washington	10763
 Fragility and Conflict. Washington	10841
 Freetown WASH and Aquatic Environment Revamping Project	18533
@@ -199,12 +201,14 @@ Hassabis's Washington-facing	7857
 Hazardous Materials and Waste	17114
 Hazardous Waste	1988,10265,136
 Hazardous Waste Management Licence	1988
-Hazardous Waste Management Plan	1988
+Hazardous Waste Management Plan	1988,17296
 Hazardous Waste Management and Monitoring Plan	1988
 Hazardous Waste Regulations	1988
 Hazardous Waste and Materials	17114
 Health Coverage WASH Water	16922
+Healthcare Waste Management Plan	19284
 Help Washington Secure Durable AI Partnerships	6790
+High Potential Value Chains. Washington	19284
 Higher Dairy Supplement for Reduced Wasting	11525
 Hirgalin Waxaa Wasaaradda Arrimaha Gudaha	14930
 Human Capital Project. Washington	16626
@@ -235,10 +239,12 @@ Jabal Marra Wasat	15244
 Jobs Report Washington	7655
 Jolly Joe Wasswa	8285
 Jolly Wasambo	11283,5088,1551
+KOKOU Assenam Wassirma SCH	19251
 Ka-qaybgalka Wasiirrada	14859
 Kenya Solar Waste Collective	12191
 L Street Northwest Washington	42
 L'intégration WASH	16722
+LEWAGUENA Wassounkou SCH	19251
 Land Policies for Growth and Poverty Reduction. Washington	18293
 Landscape and Waste Management Agency	19081,15
 Lanseria Wastewater Treatment Works PPP Project	11248
@@ -259,7 +265,7 @@ Mauritanie. Washington	17896
 Mauritius Wastewater Master Plan-	14745
 May. Washington	11310
 Mazhar Waseem	18318
-Medical Waste Management Plan	13938,1038
+Medical Waste Management Plan	13938,1038,4308
 Micro1-3 Small4-30 Medium31-100 WASAC	12445
 Ministry of Environment and Solid Waste Management	14738
 Mission Cell and Wastewater Sector	14745
@@ -288,6 +294,7 @@ Non-hazardous Waste Management Plan Activity	1988
 O WASH	18768
 Old Dilemmas. Washington	15601
 Operational Guidelines. Washington	10997
+Outlook. Washington	19237
 PAD4638. Washington	15601
 PM Where NYU Washington	42
 PREVALENCE OF WASTING IN CHILDREN UNDER	16892
@@ -301,6 +308,7 @@ Poliomielite Inactivada The Washington Group	10777
 Polokwane Regional Wastewater Treatment Programme	11248
 Pool WASSCE West African Senior School	16876
 Population Division WASH Water Sanitation and Hygiene	14896
+Population HWMP Hazardous Waste Management Plan	19284
 Pour Dr Wassila Mamadou Thiaw	18360
 Pour Washington	11014
 Poverty Assessment. Washington	18104
@@ -329,6 +337,7 @@ Rehabilitation of WASH	1988
 Remaining NDMA-PR-05 WASH Initiatives for COVID-19	12977
 Report. Washington	11417
 Reuters. Washington	10068
+Review. Washington	19237
 Road WASH	17260
 Rose Wasike	14641
 Rwanda. Washington DC	16996
@@ -426,7 +435,7 @@ WASH-FIT	17289
 WASH. Component	1778
 WASH. Following the World Bank's Environmental Health	1988
 WASHFIT	14622
-WASHINGTON	1579,447,1695,488,51,2807,785,1142,1719,1143,2236,511,39,1412,5,142,234,8,909,1,171,710,264,318,146
+WASHINGTON	1579,447,1695,488,51,2807,785,1142,1719,1143,2236,511,39,1412,5,142,234,8,909,1,171,710,264,318,146,314
 WASPAN	6296,1173,91,40,176,887
 WASSA	17819
 WASSCE	7171,5025,4656,24,561,1018,6,51,52,14
@@ -437,6 +446,7 @@ WASSCE. Beyond	18461
 WASSCE. Instead	18461
 WASSCE. Learners	18461
 WASSE	17817
+WASSIDEMA Sim-Tita SCH	19251
 WASTE MANAGEMENT BILL	17388
 WASTE MANAGEMENT Issues	18476
 WASTE OF RESOURCES Parliamentary	10148
@@ -482,25 +492,27 @@ Waseem	7790
 Waseem Shahzad	15251
 Waseem and Hovy	7790
 Wash Basin	14738
-Wash-	14932
+Wash-	14932,4305
 Washable	1988
 Washili	4386
 Washing	1210
 Washing Machine	12383
-Washington	969,292,3,315,141,108,330,126,1,189,107,167,38,3,4,153,45,260,190,15,26,4,118,49,129,371,1,10,3,93,6,69,5,86,13,8,170,52,5,60,301,9,40,57,7,14,1,2,48,3,8,18,15,45,64,74,110,142,8,16,57,35,35,20,37,101,40,109,33,48,35,90,64,162,208,107,32,9,236,24,11,221,154,4,67,95,107,491,131,16,15,182,10,86,74,29,13,17,94,10,2,581,37,14,75,5,93,206,30,20,355,1,1,154,3,111,1,4,45,2,3,7,5,5,27,29,122,1,12,1,8,12,17,76,43,1,2,4,9,7,115,39,107,128,7,2,18,168,134,5,2,28,3,6,6,264,39,28,42,31,18,188,7,42,76,141,38,102,8,92,250,10,12,2,12,5,1,99,193,117,127,113,36,413,218,38,88,3,120,15,20,74,23,109,286,15,8,26,1,6,11,2,18,7,35,51,17,37,1,2,2,52,10,1,25,1,118,5,41,121,96,11,31,26,95,265,65,250,26,20,20,7,6,41,114,99,26,2,20,69,13,66,98,21,33,12,126,107,60,7,1,26,10,3,81,73,41,174,23,17,21,71,97,113,82,77,30,14,28,36,27,17
+Washing-	19237
+Washington	969,292,3,315,141,108,330,126,1,189,107,167,38,3,4,153,45,260,190,15,26,4,118,49,129,371,1,10,3,93,6,69,5,86,13,8,170,52,5,60,301,9,40,57,7,14,1,2,48,3,8,18,15,45,64,74,110,142,8,16,57,35,35,20,37,101,40,109,33,48,35,90,64,162,208,107,32,9,236,24,11,221,154,4,67,95,107,491,131,16,15,182,10,86,74,29,13,17,94,10,2,581,37,14,75,5,93,206,30,20,355,1,1,154,3,111,1,4,45,2,3,7,5,5,27,29,122,1,12,1,8,12,17,76,43,1,2,4,9,7,115,39,107,128,7,2,18,168,134,5,2,28,3,6,6,264,39,28,42,31,18,188,7,42,76,141,38,102,8,92,250,10,12,2,12,5,1,99,193,117,127,113,36,413,218,38,88,3,120,15,20,74,23,109,286,15,8,26,1,6,11,2,18,7,35,51,17,37,1,2,2,52,10,1,25,1,118,5,41,121,96,11,31,26,95,265,65,250,26,20,20,7,6,41,114,99,26,2,20,69,13,66,98,21,33,12,126,107,60,7,1,26,10,3,81,73,41,174,23,17,21,71,97,113,82,77,30,14,28,36,27,17,283,23,2,6
 Washington Charles Tembo	4365
 Washington College of Law	9632
 Washington D.C	1722,1876,4254,4379,3193,69,888,245,473,15,301
 Washington D.C.-headquartered	12517
-Washington DC	445,577,16,688,588,118,153,11,212,2434,198,822,4452,49,102,36,63,21,164,109,314,295,14,1,603,299,840,1308,1,126,313,102,849,113,340,220,261,612,37
+Washington DC	445,577,16,688,588,118,153,11,212,2434,198,822,4452,49,102,36,63,21,164,109,314,295,14,1,603,299,840,1308,1,126,313,102,849,113,340,220,261,612,37,1339
 Washington DC. Liscence	12255
 Washington DC. Support	16403
 Washington DC16	748
-Washington Group	16921,29,346,373,277
+Washington Group	16921,29,346,373,277,1288
 Washington Group Short Set	10768,2248,29,2199,1665,41
 Washington Groupe	17946
 Washington HOL No US	3463
 Washington Mushore	520
+Washington Panel	19284
 Washington Post	18777
 Washington Published	10445
 Washington Quarterly	4676
@@ -568,7 +580,7 @@ Wassim AlJuneidi	10764
 Wassimagnon	10944
 Wassu Gambia Kafo	10314
 Wassu Stone Circle	17105
-Waste	1988,4844,89,25,4317,600,328,62,664,468,1361,201,80,179,205,250,1213,225,15,43,952,261
+Waste	1988,4844,89,25,4317,600,328,62,664,468,1361,201,80,179,205,250,1213,225,15,43,952,261,875
 Waste Audit	1988
 Waste Best Practice Manual	2989
 Waste Best Practice Procedure Manual Sign	2989

@@ -32,7 +32,7 @@ Affordability Targets	16872
 Afreximbank-AfCFTA Partnership Targets	7523
 Africa Tunisia Targets Data Centers	3768
 Africa. Tarik Dadi Combats Health Insurance	3101
-Agency Target	17157
+Agency Target	17157,2127
 Agriculture Fertilizer Target	11469
 Ajustement Tarifaire	14479
 Algiers Targets Export Growth With National	5452
@@ -67,9 +67,11 @@ Average Mobile Tariff	2776
 Average Mobile Tariffs	2776
 Average Mobile Voice Tariff	15136
 Average Tariff	11136
+Average Tariff XOF	19239
 B RESULTS MATRIX UNIT BASELINE TARGET	11863
 B. Tariffs for Industrial Customers	12436
 B. Theory of Change and PDO Indicators Target	15743
+BANDES TARIFAIRES	19250,41
 BASELINE TARGET TARGET DEVELOPMENT	16942
 BOTSWANA TECH FUND LAUNCHES TARGETED	5879
 BPC Targets	12609
@@ -201,6 +203,7 @@ DGU. Target	12419
 DHA ANNUAL PERFORMANCE INDICATORS AND TARGETS	11285
 DISABILITY By Francis Kabia Umaru Tarawally	18443
 DLI Baseline Intermediate Targets End Target	11855
+DONNANT DROIT AUX TARIFS PRÉFÉRENTIELS DANS	19256
 DPPL. Target	12419
 DSP. Target	12419
 Data Privacy and Targeted Advertising	9855
@@ -220,6 +223,7 @@ Denis Tarlembaye	19026
 Department of Social Development Community Based Targeting	12697
 Deportations Target	11986
 Description Baseline Original End Target Revised	18825
+Description Target	19284
 Description Targets	11135
 Detail Targets and Dates of Sierra Leone Broadband	18485
 Detailed Targets and Date	18485
@@ -648,6 +652,7 @@ Poverty Targeting Index	3604
 Power Taken. The High Voltage Tariff	9409
 Presidential Decree for Targeted Free Healthcare	10829
 Principal Programme Officer for Tariffs and Customs Regimes	4827
+Procedure Target	19284
 Process Limitations for Changing Tariffs	16851
 Process Limitations for Changing Tariffs Changes	16851
 Procurement Targets	7548
@@ -828,6 +833,7 @@ TARMS	12509
 TARN. Support	14833
 TARS. The Committee	11289
 TARURA	6019
+TARV Guérison Traitement	19226
 TARmANigSoPs OdeRCTrEiaSn	15694
 THRESHOLD TARGET EXCEPTIONAL COMMENTS Optimize Collections	16968
 TR-1 Taraba North East	11857
@@ -848,6 +854,7 @@ TaRMS and FDMS	12509
 TaRMS. Public Notice	12491,882
 Table of Contents Tarrif Reductions	12625
 Tanzania’s State Telecom Targets	6083
+Tar- De Brauw	19237
 Tara Brady	5735,1,1
 Tara Nutley and Heidi W. Reynolds	14434
 Tara Tarakiyee	12088
@@ -876,7 +883,7 @@ Taremwa	10416
 Tarente-2026	10688
 Tareq Ahmed Al Ameri	18663
 Tareq Muhmood	6126
-Target	146,236,4,209,28,15,60,5,86,121,1,29,18,4,8,258,15,41,420,74,1586,167,52,21,258,264,527,442,150,528,1775,373,192,886,1078,80,250,405,32,120,53,114,2,1,102,39,194,103,282,1,2,5,62,28,34,172,44,156,7,2,7,17,4,4,20,141,115,237,5,47,89,42,4,49,199,45,3,286,188,101,21,683,72,35,106,98,38,11,5,125,80,128,39,4,9,56,73,21,45,44,62,244,44,66,65,44,248,178,24,234,6,6,12,26,5,12,4,23,2,3,2,45,25,106,8,82,21,245,344,21,101,152,355,26,8,20,115,240,98
+Target	146,236,4,209,28,15,60,5,86,121,1,29,18,4,8,258,15,41,420,74,1586,167,52,21,258,264,527,442,150,528,1775,373,192,886,1078,80,250,405,32,120,53,114,2,1,102,39,194,103,282,1,2,5,62,28,34,172,44,156,7,2,7,17,4,4,20,141,115,237,5,47,89,42,4,49,199,45,3,286,188,101,21,683,72,35,106,98,38,11,5,125,80,128,39,4,9,56,73,21,45,44,62,244,44,66,65,44,248,178,24,234,6,6,12,26,5,12,4,23,2,3,2,45,25,106,8,82,21,245,344,21,101,152,355,26,8,20,115,240,98,260,4,35
 Target ATC&C Actual ATC&C Figure D	18217
 Target ATC&C Actual ATC&C Variance	12062,6124
 Target Access	15424
@@ -993,7 +1000,7 @@ Target for Nationwide Digital ID Rollout	2922
 Target of Frw	14985
 Target the Tech Sector	15979
 Target-70	18512
-Targeted	789,151,274,614,39,1221,186,330,257,1103,64,258,247,1248,155,612,215,58,847,460,631,292,667,46,29,36,12,123,16,24,136,715,47,62,22,209,19,114,45,26,333,86,277,219,17,350,4,182,699,253,103,37,38,42,125,283,154,57,3,64,120,205,94,109,183,407,5,5,49,9,83,43,62,17,141,32,152,408,13,508,107,27,577
+Targeted	789,151,274,614,39,1221,186,330,257,1103,64,258,247,1248,155,612,215,58,847,460,631,292,667,46,29,36,12,123,16,24,136,715,47,62,22,209,19,114,45,26,333,86,277,219,17,350,4,182,699,253,103,37,38,42,125,283,154,57,3,64,120,205,94,109,183,407,5,5,49,9,83,43,62,17,141,32,152,408,13,508,107,27,577,164
 Targeted CVM	10793
 Targeted Campaigns	16971
 Targeted Circuits Project	11918
@@ -1072,7 +1079,7 @@ Targets. Chapter	18485
 Tarhini	9128
 Tarhini Construction	17260
 Tarhini and Khan	9128
-Tarif	9975,1000,2439,86,309,627,43,881,34,16,22,24,11,40,27,60,8,6,82,42,15,20,32,64,67,3,10,56,86,86,59,33,59,6,16,1688,300
+Tarif	9975,1000,2439,86,309,627,43,881,34,16,22,24,11,40,27,60,8,6,82,42,15,20,32,64,67,3,10,56,86,86,59,33,59,6,16,1688,300,918,41
 Tarif Extérieur Com	15999
 Tarif Extérieur Commun	10712
 Tarif Mles	15999
@@ -1159,7 +1166,7 @@ Tarification Département Reporting	17866
 Tarification Rapid	17833
 Tarification SAJ	10975
 Tarification SPC	10975
-Tarifs	13414,2120,8,168,175,53,1881,80
+Tarifs	13414,2120,8,168,175,53,1881,80,1396
 Tarifária de Interligação	11519
 Tarifário	2866
 Tarifários Internet	18830

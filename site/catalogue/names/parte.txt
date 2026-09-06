@@ -50,6 +50,7 @@ DIRECTION GENERALE DES PARTENARIATS D’EVALUATIONS ET	16175
 De la Direction des Partenariats Article	15678
 Description Partech Africa	293,98,543,1
 Description Partech Africa and Enza Capital	713
+Dialogue Social Partenaires	19221
 Diaspora Partenaire	15936
 Direction Générale des Partenariats Internationaux	17848
 Direction des Partenariats	15678
@@ -57,11 +58,13 @@ Disclosure The Partech Africa Report	12339
 Défense Commune RAMU Partenaires Techniques	643
 Développement PPP Partenariat Public Privé PPR	17907
 Développement PTF Partenaire Technique	15580
+EN PARTENARIAT AVEC LE UNHCR	19252,21
 ENVOLVIMENTO COM PARTES INTERESSADAS E DIVULGAÇÃO	11390
 Education PTF Partenaires Techniques	12
 Elevage PTF Partenaires Techniques	17873
 Enfance. Partenaires Techniques	16641
 Engagement des Partenaires Techniques	17882
+Engagements MENTD Partenaires	19221
 Estado Parte	11374,4103
 Estado Parte. Pode	11376
 Estados Parte	11376
@@ -102,6 +105,7 @@ Justification PACTE DE PARTENARIAT POUR	15673
 Kyosk Partech Africa	934
 L..JI PARTENAIRE PRIVE	18901
 LE SÉNÉGAL RENFORCE SES PARTENARIATS STRATÉGIQUES	7852
+LES PARTENAIRES DE L'INSEED	19223
 LES PRINCIPAUX PARTENAIRES EN	18169
 La Direction des Partenariats	15678
 Le Comité de Concertation des Partenaires Techniques	11944
@@ -116,8 +120,10 @@ Lei. PARTE X	11582
 Les Partenaires	14549,3737
 Les Partenaires Techniques	18100
 Ley de Partenariado Público-Privado. Transportes	17089
+Lomé PARIS21 Partenariat	19216
 MARIAGE ET ACTIVITÉ SEXUELLE DERNIER PARTENAIRE	13300
 MARIAGE ET ACTIVITÉ SEXUELLE DERNIÈRE PARTENAIRE	13300
+Mines Partenaires	19221
 Ministère des Transports Partenaire	15936
 Missions Partenaires Conditions	17993,96
 Mobilisation des Partenariats Catégories	15851
@@ -131,10 +137,11 @@ NOMBRE DE PARTENAIRES SUR LA DURÉE	13300
 NOS PARTENAIRES	16704,34,1685
 NOS PARTENAIRES TECHNIQUES ET FINANCIERS	18265
 Nations-Unies PACTE DE PARTENARIAT POUR	15673
-Nos Partenaires	17853,1348
+Nos Partenaires	17853,1348,162
 Nos Partenaires Hôte	15494
 Nouveau Partenariat	737,3230,11512,63,2558,186
 O Conselho Consultivo. PARTE I CONSELHO	11518
+Organisation du Secteur Informel Partenaires	19221
 Os Estados Partes	15477
 PACTE DE PARTENARIAT POUR LE SECTEUR	15673
 PARTE	11388,155,26,13
@@ -210,7 +217,7 @@ PSDC Partenariats	643
 PSE Plan Sénégal Emergent PTF Partenaires	18286
 PSRE Les Partenaires	15722
 PTF Partenaire	15724,237
-PTF Partenaires	16620,1223,38
+PTF Partenaires	16620,1223,38,1335,4
 PTF Partenaires Techniques	17907
 Pacte Partenaire	18967
 Pacte Partenariat SSE Base SSE Base	15673
@@ -243,10 +250,11 @@ Partech. EUR	188
 Parteiras	11429,7339
 Partenaire	3766,603,4099,50,4782,1124,198,820,1,65,87,341,685,1022,239,434,585
 Partenaire Appui	16722
+Partenaire Proposition	19221
 Partenaire Russe	6959
 Partenaire Technique	10965,3477,30,951,2419,40,63,346
 Partenaire du MINSAN Contribue	14425
-Partenaires	737,310,1295,713,1917,2382,1364,920,1203,33,2,99,969,1356,1,5,58,69,9,132,115,27,128,75,506,54,58,85,857,15,19,29,40,103,35,2,2,124,88,25,320,200,139,1,20,33,1168,28,16,10,50,131,12,16,83,50,48,5,21,95,608
+Partenaires	737,310,1295,713,1917,2382,1364,920,1203,33,2,99,969,1356,1,5,58,69,9,132,115,27,128,75,506,54,58,85,857,15,19,29,40,103,35,2,2,124,88,25,320,200,139,1,20,33,1168,28,16,10,50,131,12,16,83,50,48,5,21,95,608,201,4,1
 Partenaires Agence	18346
 Partenaires Annuel SNEEG	18286
 Partenaires Banque Mondiale Union Européenne UNION	19043
@@ -255,13 +263,13 @@ Partenaires Chine	15542
 Partenaires Externes	15936
 Partenaires Institut	16205
 Partenaires Rapport WAPF	16545
-Partenaires Techniques	2971,7741,162,2,89,979,1362,19,1163,1,1,893,92,4,153,36,5,12,26,35,582,53,235,4,1,1209,12,2,1,138,117,3,2,61,3,117,681
+Partenaires Techniques	2971,7741,162,2,89,979,1362,19,1163,1,1,893,92,4,153,36,5,12,26,35,582,53,235,4,1,1209,12,2,1,138,117,3,2,61,3,117,681,259
 Partenaires Techniques Financiers RAR Restes	10712
 Partenaires Un	18286
 Partenaires de Nom	13433
 Partenaires du Secteur	15474
 Partenariado Público Privado	17282
-Partenariat	643,340,235,1182,76,490,390,302,2617,145,35,206,507,971,24,33,191,1019,504,926,38,878,42,1507,23,441,666,118,925,19,49,17,16,5,11,22,22,77,12,184,25,3,25,76,327,264,6,814,394,1,1,12,4,19,104,30,41,237,16,5,10,68,4,507,263,12
+Partenariat	643,340,235,1182,76,490,390,302,2617,145,35,206,507,971,24,33,191,1019,504,926,38,878,42,1507,23,441,666,118,925,19,49,17,16,5,11,22,22,77,12,184,25,3,25,76,327,264,6,814,394,1,1,12,4,19,104,30,41,237,16,5,10,68,4,507,263,12,45,29,41
 Partenariat APD	17865
 Partenariat EDIFIS Egalité	18346
 Partenariat Gabon-Visa	3311
@@ -278,11 +286,13 @@ Partenariat Public-Privé	2602,2689,6721,1421,2109,505,334,57,1146,1317
 Partenariat Public-Privé En	15488
 Partenariat Public-Privé PRASE Programme	18103
 Partenariat SDEVT	10975
+Partenariat ST DIGITAL	19332
 Partenariat Statistique	15501,2343
+Partenariat Togo-Nations Unies	19274
 Partenariat UE	13325
 Partenariat- Public-Privé	18901
 Partenariat. Ainsi	15712
-Partenariats	1189,29,2725,4326,368,184,2046,7,1070,1356,25,436,1808,109,34,12,124,433,125,1178,252,147,86,91,756,51,21
+Partenariats	1189,29,2725,4326,368,184,2046,7,1070,1356,25,436,1808,109,34,12,124,433,125,1178,252,147,86,91,756,51,21,233
 Partenariats Public- Privés	17824
 Partenariats Public-Privé	10975,6849,70,425
 Partenariats Public-Privé. Journal Officiel	16037
@@ -312,10 +322,12 @@ Privé Partenaire Technique	15542
 Promotion du Partenariat Public Privé MCM Ministère	15580
 Proposta Financeira Parte da Proposta	18753
 Proposta Técnica Parte da Proposta	18753
+Protection Côtière Partenaires	19221
 Président du Partenariat National	17955
 RAMED Partenaires Techniques	17845
 REMISE DES PACKS AUX PARTENAIRES L’Observatoire	16250
 RESUMO DO ENVOLVIMENTO DA PARTES INTERESSADAS	11406
+Recherche Partenaires	19221
 Renforcement des Partenariats Stratégiques	18122
 Renforcement du Partenariat Public Privé	17843
 Responsable ANTIM ANTIM Partenaire OMS	17882
@@ -344,6 +356,7 @@ Stratégie VIII.6. Partenariats	15848
 Stratégie de Partenariat Pays	15411
 Símbolos Nacionais PARTE II Direitos Fundamentais	18751
 TradeDepot Partech Africa	293
+Transformation Digitale Partenaires	19221
 TÍTULO II PARTES EN EL ACCESO	16855
 UN PARTENARIAT BCEAO COFEB	10237
 VC Fund Managers United States Partech	4972

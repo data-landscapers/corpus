@@ -23,7 +23,7 @@ Authentic Texts This Protocol	15641
 Authenticate	16983
 Authenticated	6423,4707,1081,4632
 Authenticates NIRA Authenticates	15061
-Authentication	1009,930,410,1512,749,253,381,1143,36,855,2151,309,983,54,37,7,334,28,691,80,4,190,213,45,126,429,352,840,699,204,7,457,1323,37,1091,480,298,136,290
+Authentication	1009,930,410,1512,749,253,381,1143,36,855,2151,309,983,54,37,7,334,28,691,80,4,190,213,45,126,429,352,840,699,204,7,457,1323,37,1091,480,298,136,290,64
 Authentication Article	14911
 Authentication Authentication	12364
 Authentication Code and QR Code	13606
@@ -60,7 +60,7 @@ Authenticator	9902
 Authenticity	5665,1613,3447,2597
 AuthenticityAuthenticity	7278
 Authenticité	14483
-Authentification	735,2646,7455,731,476,1676,761,431,700,24,56,45,200,673,1290,3,396,19,2,597
+Authentification	735,2646,7455,731,476,1676,761,431,700,24,56,45,200,673,1290,3,396,19,2,597,297,4,11,2
 Authentification Article	14911
 Authentification Authentification Perspectives Validation	3381
 Authentification Hebergement	18317

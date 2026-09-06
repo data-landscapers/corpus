@@ -203,6 +203,7 @@ Comite Nacional de Inclusao Financeira	2138
 Comité Nacional de Inclusão Financeira	2138
 Comments The Financial Inclusion Framework	11134
 Commune Inclus	14488,1,1
+Communications IDEA Inclusive Development	19245
 Community Digital Inclusion Implementers	1914
 Community Digital Inclusion Model	12702,2
 Community-Based Inclusive Development	13389
@@ -336,7 +337,7 @@ Digital Public Infrastructure and Community Inclusion	5700
 Digital Rights and Inclusion	1375,283
 Digital Rights and Inclusion Board Learning Experience	7101
 Digital Rights and Inclusion Forum	7101,845
-Digital Senegal for Inclusive Growth	17870
+Digital Senegal for Inclusive Growth	17870,1375
 Digital Skills and Inclusion Honourable Chair	12971
 Digital Transformation and Social Inclusion	5349
 Digital and Energy Connectivity for Inclusion	1199,5625,226,7406,147,66
@@ -378,6 +379,8 @@ Driving Financial Inclusion	13314
 Driving Inclusion	4856
 Driving Inclusive Usage	14054
 Driving Inclusive and Sustainable Energy Access	13614
+Driving Inclusive and Trustworthy AI	19298
+Driving Inclusive and Trustworthy AI URL	19298
 Driving Local Economic Inclusion Through Trade	13042
 DÉVELOPPEMENT INCLUSIF ET DURABLE POUR	15624
 Développement Humain Inclusif Objectif	643
@@ -410,6 +413,7 @@ Economic Inclusion and Empowerment Services Pilot. DLI	15663
 Economic Inclusion and Livelihoods	18125
 Economic Inclusion of Youth	10964
 Economic Inclusion of Youth Beneficiaries	10964
+Economic Inclusion of Youth and Women	19284
 Economic Stabilisation and Inclusive Development	14674
 Economic and Financial Inclusion	18269
 Economist. Inclusive Internet Index	16144
@@ -519,7 +523,7 @@ Facility for Energy Inclusion Off-Grid Energy Ac-	11923
 Family and Social Inclusion MIS Management Information	11855
 Female Empowerment for Inclusion and Financial Literacy	10774
 Female Financial Inclusion	12122
-Finance Inclusive	6827,4138
+Finance Inclusive	6827,4138,8255
 Finance Inclusive Développement	10965
 Finance Inclusive PNUD Programme des Nations Unies	10965
 Finance Inclusive TEG Taux Effectif Global	10965
@@ -688,6 +692,7 @@ Growth and Inclusion Developing Policy Financing	11380
 Guide Inclusive Digital Transformation	14674
 Guideline for Inclusion of Persons	14082
 HIGH Priority. Sector Coordination Inclusive Sector	13349
+HV High Voltage IDEA Inclusive Development	19239
 Harnessing AI for Inclusive National Development	5386
 Harnessing Artificial Intelligence and Digital Inclusion	10598
 Harnessing ICT for Inclusive Growth	14293,54
@@ -748,6 +753,7 @@ INCLUSIVE AND SUSTAINABLE FINANCE Ensuring FinTech	12444
 INCLUSIVE AND SUSTAINABLE JUDICIAL SERVICE	13504
 INCLUSIVE AND SUSTAINABLE JUDICIAL SERVICE DISTRIBUTED	13504
 INCLUSIVE DEVELOPMENT	18624
+INCLUSIVE DEVELOPMENT THROUGH ELECTRICITY ACCESS	19239
 INCLUSIVE DIGITAL ECONOMY SCORECARD	12941
 INCLUSIVE DIGITAL ECOSYSTEM Promote	16942
 INCLUSIVE DIGITAL FINANCIAL FUTURE Policy Insight	4848
@@ -791,7 +797,7 @@ Incl. Off-Budget Transactions	17257
 Incl. VAT	11259
 Inclam	4209
 Inclinação	11405
-Incluant	15901
+Incluant	15901,3320
 Include	899,62,924,103,638,1500,722,685,132,767,1116,3173,42,244,546,10,291,3,95,4,52,56,93,84,61,62,136,175,405,15,225,829,292,233,103,41,179,84,73,29,159,138,387,110,242,665,31,32,16,8,128,15,35,8,1213,120,421
 Include AI	4126
 Include Continuous Learning Opportunities	12675
@@ -864,7 +870,7 @@ Incluindo	11514
 Incluir	1701,2445,12713,39,249
 Incluir Populações Vulneráveis	15684,5
 Incluiu	15476
-Inclure	10817,3671,1,1,1456,382,217,1300,138
+Inclure	10817,3671,1,1,1456,382,217,1300,138,1238
 Incluront	15901
 Inclus	8201,6287,1,1,2995,1411
 Inclus Dans	14488,1,1
@@ -873,7 +879,7 @@ Inclusao Social	11855
 Incluse	10876
 InclusiFI	789
 Inclusif	7621,8505,2281
-Inclusion	312,106,134,91,123,133,41,21,120,136,47,20,47,483,14,99,348,42,125,35,304,176,143,159,168,10,50,117,1,45,202,13,261,211,212,6,70,169,214,83,130,20,216,28,94,98,375,39,321,4,84,332,105,9,3,469,130,215,27,260,61,226,117,174,184,79,587,10,53,314,44,38,770,14,38,60,3,7,6,2,1,38,33,5,54,38,11,176,290,372,15,16,1,1,1,8,47,27,35,146,1,1,9,47,4,22,5,16,34,42,7,1,11,1,13,13,32,77,187,17,279,6,10,18,11,64,15,165,71,1,58,52,247,152,90,165,328,1,4,9,1,148,35,44,8,213,10,100,118,15,94,294,32,3,37,39,10,96,75,126,47,29,25,66,281,52,59,39,12,34,10,51,33,62,131,5,15,55,10,23,36,85,3,2,4,69,65,105,104,33,24,21,58,87,72,3,90,43,3,65,24,61,164,5,89,29,27,13,102,22,260,66,179,26,109
+Inclusion	312,106,134,91,123,133,41,21,120,136,47,20,47,483,14,99,348,42,125,35,304,176,143,159,168,10,50,117,1,45,202,13,261,211,212,6,70,169,214,83,130,20,216,28,94,98,375,39,321,4,84,332,105,9,3,469,130,215,27,260,61,226,117,174,184,79,587,10,53,314,44,38,770,14,38,60,3,7,6,2,1,38,33,5,54,38,11,176,290,372,15,16,1,1,1,8,47,27,35,146,1,1,9,47,4,22,5,16,34,42,7,1,11,1,13,13,32,77,187,17,279,6,10,18,11,64,15,165,71,1,58,52,247,152,90,165,328,1,4,9,1,148,35,44,8,213,10,100,118,15,94,294,32,3,37,39,10,96,75,126,47,29,25,66,281,52,59,39,12,34,10,51,33,62,131,5,15,55,10,23,36,85,3,2,4,69,65,105,104,33,24,21,58,87,72,3,90,43,3,65,24,61,164,5,89,29,27,13,102,22,260,66,179,26,109,121,1,12,27,66,10
 Inclusion API	14997
 Inclusion Access	13042
 Inclusion Africa	7283
@@ -887,7 +893,7 @@ Inclusion Component	15553
 Inclusion Create	14997
 Inclusion Economique	16626
 Inclusion Facility	12269
-Inclusion Financière	613,136,73,4808,298,899,1489,2649,979,1446,2546,208,1723
+Inclusion Financière	613,136,73,4808,298,899,1489,2649,979,1446,2546,208,1723,1354,20
 Inclusion Financière Agricole	13390
 Inclusion Financière Banque des Etats	11944
 Inclusion Financière L’ENIF	13390
@@ -929,6 +935,7 @@ Inclusion Productive des Jeunes	16012
 Inclusion Productive des Jeunes Vulnérables	16012
 Inclusion Productive des Jeunes Vulnérables Finaliser	16012
 Inclusion Project	2427,1177,920,2902,4498,2563,1114,412
+Inclusion Project The World Bank Togo	19245
 Inclusion Promoting	12210
 Inclusion Reforms	16942
 Inclusion Reforms Term	16942
@@ -1011,7 +1018,7 @@ Inclusive Data Playbook	6963
 Inclusive Data Use and FAIR Principles Ensuring	17116
 Inclusive Democratic Governance	18558
 Inclusive Design	17260
-Inclusive Development	1264,3290,4020,1077,2580,3427,1258,200,282,903
+Inclusive Development	1264,3290,4020,1077,2580,3427,1258,200,282,903,938,6
 Inclusive Development GRM Grievance Redress Mechanism	1264,14357,2680
 Inclusive Development Goal Rationale Emerging	17116
 Inclusive Development Grievance Redress Mechanism Gross	15553
@@ -1019,8 +1026,10 @@ Inclusive Development HLO Grievance Redress Mechanism	3604
 Inclusive Development Policies	12333
 Inclusive Development Policies Contents	12333
 Inclusive Development Strategy	17116
+Inclusive Development Through Electricity Access Project	19284
 Inclusive Development and Digital Equity	4528,7984
 Inclusive Development and Innovation Open Data Objectives	170
+Inclusive Development. Available	19245
 Inclusive Dialogue and Coordinated Action Coordination	11907,1442
 Inclusive Digital	12214
 Inclusive Digital Economy	12202,401
@@ -1245,6 +1254,7 @@ Increased Uptake and Usage of Financial Inclusion	940
 Increasing Financial Inclusion	10774
 Indicadores de Inclusão Financeira	2138
 Indonesia National Financial Inclusion Council	11994
+Indonesia and Egypt Emphasise Inclusivity	19298
 Informal FINANCIAL INCLUSION	418
 Informal Inclusion	12409
 Informal Sector and Inclusive AI	16050
@@ -1537,6 +1547,7 @@ Proyecto de Implementación de Educación Inclusiva	4209
 Public Debt. Included	14546
 Public Perception of Freedom of Speech Inclusion	10759,1130,265,9,178
 Public Perception of Inclusion	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
+Public Privé Hypothèse Incluant	19221
 Public Procurement Specialized Oversight Authority Inclusive	7548
 Public Services Public Perception of Inclusion	10759,78,1315,188
 Pursue CBE Financial Inclusion	11131

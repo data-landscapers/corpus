@@ -1,5 +1,6 @@
 A1 FERRETRIAS	4209
 ACIDE FOLIQUE COMPLEXE FER III HYDROXYDE	15930
+AERIENS ET FERROVIAIRES	19260
 AFRICA FERTILIZER	7167
 AGEROUTE CI-ENERGIES FER CIPREL OIC PAA	2342
 ANTI-ANEMIQUES ACIDE FOLIQUE CYANOCOBALAMINE FEREDETATE	15930
@@ -154,7 +155,8 @@ Fermeture	15432,1120,1758
 Fermetures	18063
 Fermi	8049
 Fermi Inc	8049
-Fermier	15969
+Fermier	15969,3326
+Fermé Issue Date	19253
 Fermé Notice Type Pays Membre	16662
 Fernand	15901
 Fernand Emmanuel	15744
@@ -221,7 +223,8 @@ Ferriol	15524
 Ferro	2096,8681,379
 Ferrous	13385,3515
 Ferroviaire	10395,5147
-Ferroviaires	3396
+Ferroviaires	3396,15825
+Ferroviaires Agence Nationale	19251
 Ferry	16927
 Ferry Junction Freetown	18469
 Ferryse Armel MICKALA NDJEGOU	16175
@@ -308,6 +311,7 @@ Luís Fernando Vitagliano	11006
 Lúcio Fernandes	7342
 M May Fernandez BIYOUDI BANTSIMBA	15685
 M. Eric Fernand Tigue NDOMBA	16175
+M. Ferdinand BATANA	19363
 M. Fernand EPIGAT. DIRECTION GENERALE	16381
 M. Mustapha Ferhaoui	15930
 M. NDJOMO Ferdinand	16195
@@ -409,6 +413,7 @@ Telma Fernandes	8882
 Trans fertç	15999
 Trends of Fertility Rates	15604
 U SOCIETE DES MINES DE FER	16623
+UNE RÉPONSE FERME POUR PROTÉGER	19252,21
 WFA No Fernando Simao Baptista Team	18809
 Wagner Soares Pires Fernandes	18823
 Wanted Fertility Rates	15247

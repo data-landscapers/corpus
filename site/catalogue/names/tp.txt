@@ -36,6 +36,7 @@ Ministry of Public Health TPF	16041
 Nombre de TPE	11944
 OI TI QO QE TP TG	16325
 Outils Digitaux des TPME	6567
+PF Nutritionnel CPN TPI MID CPoN	19226
 PME TPE Enquêtes	643
 Partnership The TPD	6790
 Pax Silica TPDs	6790
@@ -81,6 +82,7 @@ TPE-PME	11944,4683
 TPE. Avec	17495
 TPE. En	8891
 TPE. Pour	15483
+TPI Age	19226
 TPI de Yaoundé- Centre Administratif	15599
 TPI-Dixinn	11019
 TPI. Dans	15599
@@ -94,9 +96,14 @@ TPIg1	13300
 TPIg2	13300
 TPIg3	13300
 TPIs and CdAs	17441
+TPME Activités	19221
+TPME Extension	19221
+TPME P8 Augmentation	19221
+TPME Toutes	19220
 TPME. Accessible	6567
 TPME. Cela	8891
 TPME. Dans	8891
+TPME. Deux	19324
 TPME. En	8891,5459
 TPN de Côte	4459
 TPN du Burkina	4459
@@ -108,6 +115,7 @@ TPRC49	1264
 TPS Taxe Professionnelle Synthétique TVA Taxe	10712
 TPT Apparition	13290
 TPT Teacher Proficiency Testing TSS Technical	14896
+TPU Taxe	19350
 TPU and Patente	16614
 TPWRD.2017.2751563	15659
 Taux de Mortalité Néo-Natale TPM	15475

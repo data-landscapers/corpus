@@ -106,7 +106,7 @@ Applicant Signature Position Held Date Area	736
 Application Firewall WAN Wide Area Network	13185
 Approval Date Practice Area	1704
 Appui Institutionnel ARES	16606
-Apr-2026 Practice Area	15097
+Apr-2026 Practice Area	15097,4187
 Apr-2026. Practice Area	13793
 Arandis Town Hall Open Area Near	13046
 Area ADi	17140
@@ -183,7 +183,7 @@ Area of Origin	10841
 Area of Project Name Project Description Budget	11986
 Area of Weakness Description Ideal State Infrastructure	11986
 Area-based	10864,1505
-Areas	718,836,3570,553,1155,106,9,1019,798,670,210,379,741,77,48,240,6,53,669,16,301,1,80,129,291,96,207,25,1019,912,100,95,35,92,224,31,1332,120,33,144,7,10,284,18,52,798,70,51,28,243,357
+Areas	718,836,3570,553,1155,106,9,1019,798,670,210,379,741,77,48,240,6,53,669,16,301,1,80,129,291,96,207,25,1019,912,100,95,35,92,224,31,1332,120,33,144,7,10,284,18,52,798,70,51,28,243,357,179
 Areas Beyond National Jurisdiction	8681
 Areas Demonstrating Progress	14022
 Areas Lacking Sufficient Commercial Interest for Investments	11529
@@ -266,6 +266,7 @@ CATEGORY AREA AND MAIN CHARACTERISTICS POPULATION	15473
 CC Practice Area	1284
 CENTRAL AREA	8590
 CEO of ARED Group	11834
+CNSS Collection Results Area Improving	19284
 COMESA FREE TRADE AREA	13440
 COMESA-EAC-SADC Free Trade Area	13563
 CONCLUSIONS AND FURTHER AREAS OF RESEARCH	12445
@@ -314,10 +315,11 @@ Contributing Practice Areas Agriculture and Food	1867,16331
 Contributing Practice Areas Digital Development Education	15491,130
 Contributing Practice Areas Digital Development Finance	1264,14880
 Contributing Practice Areas Digital Development Governance	3604
+Contributing Practice Areas Education	19245
 Contributing Practice Areas Education CLIMATE	11905
 Contributing Practice Areas Education CLIMATE Climate	15661,1797
 Contributing Practice Areas Education Digital Development	15743
-Contributing Practice Areas Energy	11380,4279
+Contributing Practice Areas Energy	11380,4279,3580
 Contributing Practice Areas Gender	16032
 Contributing Practice Areas Governance CLIMATE Climate	16949
 Contributing Practice Areas Governance Digital Development	969
@@ -375,7 +377,7 @@ Directorate General and Area Chiefs	1382
 Disaster Prone Area	18470
 Disaster Prone Areas	18470
 Disputed Area	15138
-Disputed Area OP	1867,1589,148,7164,649,488,521,685,412,1030,23,1082,3,483,531
+Disputed Area OP	1867,1589,148,7164,649,488,521,685,412,1030,23,1082,3,483,531,2570,39
 Disputed Areas	15372,3515
 Disputed Areas No B.3 Other Salient	18374
 Disputed Areas OP	1284,9545,134,1,561,330,110,172,1194,1,2079,102,40,1369,519,663
@@ -468,6 +470,7 @@ Functional Areas	18904
 Future Focus Areas	11134
 GA-059- Digital Arena Limited	3386
 GEG Priority Area	970
+GNON Aregba Tchemate CCH	19251
 GOVERNMENT LOCAL AREA NETWORK GRC	12253
 GOVERNMENT WIDE AREA NETWORKS Official Use	12253
 GUINEE SA AREEBA GUINEE	16623
@@ -872,6 +875,7 @@ Outstanding Areas	18488
 Overcome Areas of Underperformance	11218
 Overview Of Key Thematic Focus Areas	6936
 Owerri North Local Government Area	18243
+PCU Collection Results Area Bringing	19284
 PDO Area RA PDO Indicators Labor	17458
 PLANTED AREA	17043
 PLOS One Browse Subject Areas	12231
@@ -885,7 +889,7 @@ POLICY PRIORITY AREAS	958
 POLICY PROGRAMME AREAS	18889
 POPULATION IN URBAN AND RURAL AREAS	11572
 PORT LOKO WESTERN AREA RURAL DISTRICT	18476
-PRACTICE AREA	1264,603,1695,42,7164,649,143,345,3032,721,1,2,82,401,805,509,740
+PRACTICE AREA	1264,603,1695,42,7164,649,143,345,3032,721,1,2,82,401,805,509,740,1041,6
 PRIORITY AREAS	418
 PS4R Area	10841
 PS4R Area PS4R	10841
@@ -900,6 +904,7 @@ Performance Outcome Areas	10984
 Phase II Country Practice Area	14888
 Philanthropic Aren't	38
 Pillars Area	14935
+Planned Agricultural Development Areas	19214
 Planted Area	2775,14268
 Play Area Table	18460
 Pledges Aren't Enough	12227
@@ -926,7 +931,7 @@ Port Area. Conformity Assessment	14736
 Postal Area	13081
 Postcode Area	11129
 Potential Research Questions and Priority Areas	12445
-Practice Area	1264,603,1695,42,7164,11,638,143,345,232,275,14,243,163,1744,334,66,577,105,1,2,82,289,112,778,27,11,498,740
+Practice Area	1264,603,1695,42,7164,11,638,143,345,232,275,14,243,163,1744,334,66,577,105,1,2,82,289,112,778,27,11,498,740,1041,6
 Preferential Trade Area	13563
 Preparation of ToRs for Subject Area Specialist	17114
 Presidential Priorities Areas of President Bola Ahmed	12308
@@ -1006,11 +1011,14 @@ Research Area Fig	1554
 Research Areas	12675
 Resettlement Area Liberian Law World Bank	17114
 Residential Area	17285
+Responsibility for Data Collection PCU Results Area	19284
 Rest of Urban Areas	2775
 Result Area	13005,4465,900
 Result Areas	16032,2338
 Results Area	11905,4127
 Results Area Description	11905
+Results Area Monitoring	19284
+Results Area RevisedEstablished	19284
 Results Areas	12176,3856,1426,1524
 Results Areas Baseline Period	11905
 Results Areas Developing	17505
@@ -1018,6 +1026,7 @@ Results Areas Improving	11905
 Results Areas Increased	10870
 Results Areas RA1	17470
 Results Areas Strengthened	16032
+Results Areas The World Bank Implementation	19242
 Results Areas Transformed	13058
 Retail Rural Area	18541
 Retail Urban Area	18541
@@ -1213,6 +1222,7 @@ Wireless Local Area Network Glossaire CMMI	15512
 Wologizi Protected Area	16970
 Workshop Participants Focus Areas Output Outcome	6946
 World Area Forecast System	18128
+YAO Arere Balakimwe SCH	19251
 Zambia Police Service Local Area Network	12462
 Zimbabwe. This Priority Area	970
 Zita Jean Louis Area Health Centre	14830

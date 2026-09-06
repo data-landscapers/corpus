@@ -298,6 +298,8 @@ CABINET DU MINISTRE	7470,8705
 CABINET DU MINISTRE Conseillers Techniques	16175
 CABINET DU MINISTRE Directeur	16381
 CABINET DU MINISTRE Directeur de Cabinet	16381
+CABINET DU PRESIDENT DE LA REPUBLIQUE	19209,4,5,17,6,10
+CABINET DU PRESIDENT DU CONSEIL	19260
 CABINET DU PRESIDENT DU SENAT	16381
 CABINET DU PRESIDENT LOI N	13293
 CABINET ERIC M. OKOKO NIU	16425
@@ -613,7 +615,7 @@ Cabinets du Ministre	10712
 Cabinets for PAC Secreta	17180
 Cabinets for PAC Secretariat	17180
 Cabiri	4044,7532,1
-Cable	398,456,96,791,247,523,166,341,493,125,146,894,317,259,69,351,1274,2177,1636,76,2,1,130,301,601,16,2,1,264,1,9,90,87,1,11,1,50,85,532,365,684,82,659,111,534,589,100,407,391,546,932,84,75,175,133,45,32,27,100,15
+Cable	398,456,96,791,247,523,166,341,493,125,146,894,317,259,69,351,1274,2177,1636,76,2,1,130,301,601,16,2,1,264,1,9,90,87,1,11,1,50,85,532,365,684,82,659,111,534,589,100,407,391,546,932,84,75,175,133,45,32,27,100,15,236
 Cable Address	2474
 Cable Cable	6671
 Cable Cable.co.uk	11887,266,1,9,178
@@ -708,7 +710,7 @@ Cabo Verde CNI	7466
 Cabo Verde CPV Implementing	13082
 Cabo Verde Cabo Verde	11461,4505
 Cabo Verde Cabo Verde Human Capital	16187
-Cabo Verde Cambodia Cameroon Canada Cayman	11470
+Cabo Verde Cambodia Cameroon Canada Cayman	11470,7872
 Cabo Verde Central African Republic Chad	16631
 Cabo Verde Central Bank	11855
 Cabo Verde Central Bank. During Project	11855
@@ -953,7 +955,7 @@ Charting Submarine Cables Is Critical for Maritime	2677
 Chave Móvel Digital de Cabo Verde	7466,4409,64,4088
 Chave Móvel Digital de Cabo Verde Autenticação	16027
 Chave Móvel de Cabo Verde	11869
-Chef de Cabinet	16099,76,206,239,1207,72,133,111,27
+Chef de Cabinet	16099,76,206,239,1207,72,133,111,27,1049
 Chef de Cabinet Conseillers	18170
 Chef de Cabinet Militaire	16381
 Chef de Cabinet du Directeur	15676
@@ -1381,6 +1383,7 @@ Kuakata Cable Landing Station of Regional Submarine	17432
 L Satellite Wide Ra Cable	9781
 LA CONSTRUCTION CABINET DU MINISTRE	16175
 LA LOGISTIQUE CABINET DU MINISTRE	16099
+LA POSE DE CABLES SOUS-MARINS	19235
 LA PROSPECTIVE CABINET DU MINISTRE	16175
 LE SYSTÈME Cabo Verde	17848
 LEI ORGÂNICA DO BANCO DE CABO	16089
@@ -2046,10 +2049,11 @@ Várzea Cabo Verde	15448
 WACS Cable system.jpg	8679
 WACS West Africa Cable System	11965
 WEST AFRICAN SUBMARINE CABLE CAPACITY	17380
-West Africa Cable System	2677,665,179,261,899,1923,5259,102,636,332,27,2412,83,58,29,11,2309
+West Africa Cable System	2677,665,179,261,899,1923,5259,102,636,332,27,2412,83,58,29,11,2309,1359
 West Africa Cable System WiLL Wireless	18887
 West Africa Data Centre and Cable Entry	856
 West Africa Submarine Cable	2677,3004,12181,229
+West African Cable de Maroc Telecom	19221
 West Indian Ocean Cable Company	517,2,439,2824,1211,2073,6265
 West Indian Ocean Cable Company Ltd	284,216
 West Indian Ocean Cable Company. Earlier	2677

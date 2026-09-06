@@ -22,7 +22,7 @@ Africa-1 Sudan	14897
 Africa. Sudan	14271,580,46
 Africa. The South Sudan	4069
 AfricaAlertsSouth SudanMore	2313
-Afrique du Sud	2514,20,198,446,310,71,99,622,63,330,1093,434,41,34,145,193,91,46,282,74,465,15,27,259,57,167,218,411,30,138,239,16,309,26,407,71,443,207,71,4,25,264,536,1763,32,84,52,126,172,25,638,109,110,58,649,4,24,98,19,14,5,49,50,344,222,17,280,90,81,18,177,1002,22,62,384,19,12,34,570
+Afrique du Sud	2514,20,198,446,310,71,99,622,63,330,1093,434,41,34,145,193,91,46,282,74,465,15,27,259,57,167,218,411,30,138,239,16,309,26,407,71,443,207,71,4,25,264,536,1763,32,84,52,126,172,25,638,109,110,58,649,4,24,98,19,14,5,49,50,344,222,17,280,90,81,18,177,1002,22,62,384,19,12,34,570,295
 Afrique du Sud BVG Bureau du Vérificateur Général	6959
 Afrique du Sud Maroc Kenya EGDI	15936
 Afrique du Sud Pilier	8525
@@ -91,6 +91,7 @@ Bank of South Sudan’s Department of Communication and Public	3442
 Bank of Sudan	14850,47
 Bank's Sudanese	15154
 BannedBlockedMTN South SudanZain South Sudan	2313
+Barkoissi Oti Sud Oti Sud1	19350
 Batié Noumbiel Sud-Ouest	15715
 Bilmari Sud	18191
 BizEx Ltd. the Cooperative Bank of South Sudan	18641
@@ -279,6 +280,7 @@ European Union's EDF Programme for Sudan	14855
 Executive Summary South Sudan	18607,9
 Executive Summary Sudan	14877
 Existence de Coopération Sud-Sud	10874
+Exploitation Sud	19295
 Eye Radio South Sudan	5428
 FAST-NUCES Joint Programme Seventeen Sudanese	15251
 FOREWORD The Government of Sudan	15036
@@ -293,6 +295,7 @@ First India-South Sudan Foreign Office Consultations	18658
 First Sudanese-Arab Smart Transport Forum	8133
 Friends of Sudan	14897
 GPE KIX Focal Point for South Sudan	18684,1
+Gando Oti Sud2	19350
 Gaoua Poni Sud-Ouest	15715
 Gbomblora Poni Sud-Ouest	15715
 Gbondjigui Bougouriba Sud-Ouest	15715
@@ -341,6 +344,7 @@ Huawei's Chief Executive Officer for South Sudan	18671
 Hub Kenya Impact Hub Khartoum Sudan	15460
 Humanitarian Operations SLA Sudan Liberation Army	6947
 Hybrid Court for South Sudan	3583
+I'Télécom SudParis	19250
 ICT Sudan	14897
 ID for All Sudan	10582
 IIFFM for Sudan	15001
@@ -500,6 +504,7 @@ ONG Santé Sud Médecin	17882
 ONU Sudasiático	16974
 ORD-OUEST ET DU SUD-OUEST	15999
 OSI M-HcI M-TII Africa Sudan Middle	10840
+OTI SUD	19350
 Office for Sudan	15001
 Omdena Sudan	15253
 Open University of Sudan	14851
@@ -713,7 +718,7 @@ Social and Cultural Rights. South Sudan	3583
 Société Sud-Kivu	10278
 Somalia State of Palestine Sudan Syrian Arab	10764
 Somalia and South Sudan	1216,5712,5369,1639
-Soudan du Sud	1680,1688,2873,372,3108,37,1068,1279,1347,911,1444,1671,1510
+Soudan du Sud	1680,1688,2873,372,3108,37,1068,1279,1347,911,1444,1671,1510,365
 Sous Bureau Grand Sud	14622
 Sous Bureau Grand Sud Est	14622
 Sous-Bureau Grand Sud	14662
@@ -1065,7 +1070,7 @@ Sud-Coréen Naver Cloud	9483
 Sud-Est	15692,28,832,69,1286,457
 Sud-Kivu	2415,3252,6376,1376,2251,630,1338
 Sud-Kivu. NURU SASU	15670
-Sud-Ouest	737,3071,1549,472,998,4020,28,90,10,10,25,4459,73,15,42,50,36,30,28,256,27,142,27,339,2454
+Sud-Ouest	737,3071,1549,472,998,4020,28,90,10,10,25,4459,73,15,42,50,36,30,28,256,27,142,27,339,2454,362
 Sud-Ouest Certains	10975
 Sud-Ouest Ensemble	10875
 Sud-Ouest Postes Transfo P	10975
@@ -1088,6 +1093,7 @@ Sud-ouest. Cette	15720
 Sud-soudanienne	15715
 Sud. C'est	16641
 Sud. Cette	5830
+Sud. Comme	19350
 Sud. En	15599
 Sud. Il	17843
 Sud. La Guinée	16641
@@ -1254,7 +1260,7 @@ Sudan Social Development Organization	6947
 Sudan Social Safety Net Project USSD	14948
 Sudan South Sudan Ghana Financial	10793
 Sudan South Sudan Ghana Six	10793
-Sudan Spain Sri Lanka Sudan Suriname	11470
+Sudan Spain Sri Lanka Sudan Suriname	11470,7872
 Sudan Tamboul	1676
 Sudan Tanzania Uganda Africa	14897
 Sudan Taxation Chamber	14897,55,223,9

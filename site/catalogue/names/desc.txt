@@ -28,14 +28,17 @@ Action Description Adoption	17470
 Action Description Appointment	17470
 Action Description D-I6-A1 Data	15713
 Action Description Develop	10870,6600
+Action Description E&S	19242
 Action Description Ensure	10870,6600
 Action Description Establish	10870
+Action Description FM	19242
 Action Description Implementation	17470,35
 Action Description Improve	17470
 Action Description Maintain	17470
 Action Description Objective Action Details D-I8-A1	15713
 Action Description Objective Action Details G-I1-A1	15713
 Action Description Objective International AI	15713
+Action Description PS	19242
 Action Description Responsible Unit Timeframe Remarks	17157
 Action Description Roll-out	17470
 Action Description STEM	15713
@@ -53,6 +56,7 @@ Ai Description	15129
 Akilimali Bamwisho Descartes	7888
 Akilimali Bamwisho Descartes. Selon	7888
 Alteration of Sex Description and Sex Status Act	5533,6453
+Ambition Description	19221
 Annexe A DESCRIPTION TECHNIQUE	15901
 Applications License Process Description	15283
 Appreciation Brief Description of Grievance	17114
@@ -98,6 +102,14 @@ C. Summary Description of Proposed Project	18374
 CAPÍTULO II DESCRIÇÃO DA CODIFICAÇÃO	11409
 CARTES III. DESCRIPTION DU MILIEU	14490
 CC Description	15658
+CHWs IACV Description Independent	19284
+CNSS Description Frequency Revised Persons	19284
+CNSS Description Frequency Revised Pregnant	19284
+CNSS Description Health	19284
+CNSS Description IACV Data	19284
+CNSS Indicator Name Description Digital	19284
+CNSS Indicator Name Description Revised School-aged	19284
+CNSS Indicator Name Description The NSHI	19284
 COMPONENT Factors Description Example	17157
 COMPONENT Field Action Name Action Description	17157
 COMPONENT Field Long Term Measure Description	17157
@@ -111,6 +123,7 @@ CSI Description	3604
 Capital Gains Tax Act Description Date	4896
 Category Description Required Action Complaints	17114
 Category of Grievance Category Description Required Action	17099,15
+Catégorie Mécanisme Incitations Description	19221
 Cf Description	15129
 Checker Approver Description Document	16628
 Chronologie Description	13433
@@ -118,6 +131,7 @@ Ci Description	15129
 Clerk of Parliament. No HS Code Description	18541
 Closing Date Extension No Summary Description	16187
 Cloud Services Description TelOne	9455
+Code CAD Description	19220
 Code Date Issued Licensee Description Non-Compliance	16978
 Code Descri	11180
 Code DescriDtion	11180
@@ -126,6 +140,7 @@ Code Description Non-Compliance Action	16978
 Code Description Page27of35	11180
 Code Description Table	11180
 Code I Description	11180
+Collection Indicator Name MoH-UHC Description Frequency	19284
 Collège Description Rédiger	14537
 Colonne Type Description Exemple	747
 Comments Action Description Development	17470,35
@@ -134,7 +149,8 @@ Comments Action Description Timely	17505
 Comments Ref. No. Description of Assignment Estimated	15372
 Component Description Appraisal Component	16436
 Component Description Implementation	15034
-Conditions Type Citation Description Financing	1264,603,1737,2935,4229,649,143,345,3753,1,2,483,240,565,509
+Components Description Increasing	19284
+Conditions Type Citation Description Financing	1264,603,1737,2935,4229,649,143,345,3753,1,2,483,240,565,509,1781,6
 Contract Complet Description Component Review Type	17180,39
 Conventions Description Relevance ESS3	17114
 Cooperation Acronym Description	11218
@@ -192,6 +208,7 @@ DESCRIPTION OF THE REQUESTED MICRODATA	16189
 DESCRIPTION RATING MITIGATION MEASURE RISK MACROECONOMIC	11863
 DESCRIPTION The AXIS Project	16854
 DESCRIPTION Unit	2775
+DESCRIPTION Unless the Parties	19214
 DESCRIPTIONS	5655
 DESCRIÇÃO DO PROJECTO	11390,23
 DESCRIÇÃO DO PROJECTO Com	11413
@@ -262,7 +279,7 @@ Descripción Códig	16875
 Descriptif	15583,318
 Descriptif Ce	15583
 Descriptif L'observatoire OBSYDYA	16281
-Description	29,1,3,2,4,5,5,1,1,1,2,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,2,1,6,6,12,1,1,1,5,4,3,3,1,2,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,24,9,2,4,1,1,1,1,1,4,1,1,1,1,1,7,1,1,1,1,23,1,7,2,3,3,1,1,1,5,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,1,2,13,1,2,13,1,1,3,1,1,1,1,1,1,5,1,4,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,3,4,38,1,30,1,7,6,2,1,2,5,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,4,53,2,2,8,4,13,1,14,4,1,2,1,1,3,1,10,1,9,1,4,1,1,11,6,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,39,22,8,47,13,2,1,6,3,21,3,3,4,1,4,6,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,5,58,93,1,1,22,6,6,6,1,6,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,27,27,11,7,57,1,1,1,1,17,29,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,1,1,2,66,4,1,2,2,1,15,1,1,13,10,1,1,5,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3,6,16,17,15,1,1,38,41,52,28,47,56,1,32,10,53,1,1,1,1,1,1,1,5,46,14,1,1,1,1,1,1,1,1,1,1,1,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,11,1,1,10,3,1,2,3,1,1,1,40,1,1,1,1,1,1,1,2,7,1,1,2,1,3,1,1,2,2,3,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,2,1,1,1,4,4,8,2,4,2,1,4,2,2,2,2,1,1,1,2,269,36,330,73,468,173,2,59,11,170,1,39,86,22,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,53,1,49,83,10,44,38,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,35,31,1,1,1,14,4,2,3,1,1,1,34,2,1,1,1,1,3,1,1,4,1,1,1,1,1,1,2,1,1,1,3,1,2,2,2,5,1,1,1,1,1,1,3,1,2,1,1,1,1,1,1,1,6,1,1,2,1,1,2,1,3,26,28,1,1,1,19,38,1,1,1,1,1,4,74,169,285,12,2,3,305,107,21,3,112,67,207,1,219,183,5,1,1,1,13,46,34,28,34,108,30,767,145,346,579,1,41,1,1,33,138,161,231,130,21,114,30,136,12,23,63,109,19,30,74,839,7,61,40,67,118,119,22,1,2,1,90,79,24,18,52,56,344,4,32,50,40,18,162,60,67,58,19,30,168,34,169,137,31,87,2,42,58,3,65,170,23,184,39,66,139,4,1,2,7,17,134,164,55,14,201,9,7,42,5,1,1,47,37,4,24,46,27,9,122,8,58,13,16,35,20,27,27,13,18,17,71,154,73,28,2,15,80,50,49,3,26,49,1,2,9,3,4,35,3,11,23,109,4,4,29,6,7,27,1,51,16,100,41,35,8,85,44,6,6,26,14,67,4,1,2,24,142,13,75,31,20,4,2,1,1,1,2,10,3,11,3,31,24,3,5,36,7,50,27,43,57,46,2,19,5,40,80,93,493,21,16,2,9,8,30,66,55,24,14,8,6,13,41,16,111,11,8,11,54,80,17,64,10,346,98
+Description	29,1,3,2,4,5,5,1,1,1,2,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,2,1,6,6,12,1,1,1,5,4,3,3,1,2,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,24,9,2,4,1,1,1,1,1,4,1,1,1,1,1,7,1,1,1,1,23,1,7,2,3,3,1,1,1,5,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,1,2,13,1,2,13,1,1,3,1,1,1,1,1,1,5,1,4,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,3,4,38,1,30,1,7,6,2,1,2,5,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,4,53,2,2,8,4,13,1,14,4,1,2,1,1,3,1,10,1,9,1,4,1,1,11,6,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,39,22,8,47,13,2,1,6,3,21,3,3,4,1,4,6,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,5,58,93,1,1,22,6,6,6,1,6,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,27,27,11,7,57,1,1,1,1,17,29,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,1,1,2,66,4,1,2,2,1,15,1,1,13,10,1,1,5,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3,6,16,17,15,1,1,38,41,52,28,47,56,1,32,10,53,1,1,1,1,1,1,1,5,46,14,1,1,1,1,1,1,1,1,1,1,1,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,11,1,1,10,3,1,2,3,1,1,1,40,1,1,1,1,1,1,1,2,7,1,1,2,1,3,1,1,2,2,3,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,2,1,1,1,4,4,8,2,4,2,1,4,2,2,2,2,1,1,1,2,269,36,330,73,468,173,2,59,11,170,1,39,86,22,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,53,1,49,83,10,44,38,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,35,31,1,1,1,14,4,2,3,1,1,1,34,2,1,1,1,1,3,1,1,4,1,1,1,1,1,1,2,1,1,1,3,1,2,2,2,5,1,1,1,1,1,1,3,1,2,1,1,1,1,1,1,1,6,1,1,2,1,1,2,1,3,26,28,1,1,1,19,38,1,1,1,1,1,4,74,169,285,12,2,3,305,107,21,3,112,67,207,1,219,183,5,1,1,1,13,46,34,28,34,108,30,767,145,346,579,1,41,1,1,33,138,161,231,130,21,114,30,136,12,23,63,109,19,30,74,839,7,61,40,67,118,119,22,1,2,1,90,79,24,18,52,56,344,4,32,50,40,18,162,60,67,58,19,30,168,34,169,137,31,87,2,42,58,3,65,170,23,184,39,66,139,4,1,2,7,17,134,164,55,14,201,9,7,42,5,1,1,47,37,4,24,46,27,9,122,8,58,13,16,35,20,27,27,13,18,17,71,154,73,28,2,15,80,50,49,3,26,49,1,2,9,3,4,35,3,11,23,109,4,4,29,6,7,27,1,51,16,100,41,35,8,85,44,6,6,26,14,67,4,1,2,24,142,13,75,31,20,4,2,1,1,1,2,10,3,11,3,31,24,3,5,36,7,50,27,43,57,46,2,19,5,40,80,93,493,21,16,2,9,8,30,66,55,24,14,8,6,13,41,16,111,11,8,11,54,80,17,64,10,346,98,236,24,30,9,45,35
 Description ADC	594,2
 Description AF Additional Financing AGETIP Public	15731
 Description AFC	240,90,119,593
@@ -301,6 +318,8 @@ Description Aggregate of USTDA	1172
 Description All	14931
 Description An ICT for Education Policy	13991
 Description Announced	9504
+Description Annually DHIS2	19284
+Description Annually Frequency Contracts	19284
 Description AoJ Computerisation	1667,977,2996
 Description Appraisal-Stage Project Information Document	1572
 Description Article	1157
@@ -314,7 +333,12 @@ Description Average	15661
 Description Axian Telecom	813,1323
 Description B5-2024	1607
 Description BII	45,1,1,1,194,1,92,274,1,205,1,2,1,231,365,1,1,1,722,1
+Description Baseline	19284
 Description Baseline Original End Target Revised	18825
+Description Beneficiaries	19245
+Description Biannually Frequency PHC	19284
+Description Biannually Frequency Page	19284
+Description Biannually Frequency Project	19284
 Description Boosts	1128
 Description Bpifrance LP	1428
 Description Brief Description	11866
@@ -381,6 +405,7 @@ Description DRC	11916
 Description Dairy Association of Zambia Digital Information	295
 Description Das FZ-Vorhaben PROMOGEF	504,399
 Description Das Modul	902
+Description Data	19284
 Description Data Protection And Privacy	1760,1383,3772
 Description Data4Change	4999
 Description Dataset	15714
@@ -392,7 +417,7 @@ Description Delivers	262
 Description Department of Digital Communications	1672,977,2999
 Description Department of Shared Digital Services	1673,977,2999
 Description Der Verdant Capital Hybrid Fund	692,1
-Description Development	632,15029
+Description Development	632,15029,3584
 Description Development Fund	2636
 Description Development Partners International	347,488,604
 Description Develops	160
@@ -446,9 +471,11 @@ Description Equity LP	1153
 Description Establish	15713
 Description Establishes	230,520,243
 Description Establishing	16752
+Description Establishment	19284
 Description European Union	16144,955
+Description Evaluation	19221
 Description Evaluation of Swedish	497
-Description Every	13991
+Description Every	13991,5293
 Description Expands	788,411
 Description Expands Digital Opportunity Trust	62
 Description Expands Uganda	756
@@ -554,7 +581,7 @@ Description Liberia’s and Sierra Leone	16144
 Description L’objet	13694
 Description MASSIF	1471
 Description MASSIF USD	1472
-Description MCC	87,123
+Description MCC	87,123,19035
 Description MCF	385,2,120,1,1,193,207,2,222,407,684
 Description MCF Scholars Program	146,240,317,207
 Description MCWBE Computerisation	2641,2996
@@ -590,6 +617,7 @@ Description MoA Computerisation	1663
 Description MoE Computerisation	1675
 Description MoF Computerisation	1661,977,2995
 Description MoH Computerisation	1666,977,2996
+Description MoH-UHC Frequency ReviseWomen	19284
 Description MoHE Computerisation	5652
 Description MoSA Computerisation	2654,2999
 Description Mots-clés Fréquence	747
@@ -631,10 +659,11 @@ Description Norrsken22	1138,1,1,407
 Description Norway	689
 Description Notes Paid-In Capital Issuance Premiums	11955
 Description Novastar Ventures	711,219,1
-Description Number	1867,9550,488,3756
+Description Number	1867,9550,488,3756,3623
 Description Number of IDs	1867
+Description Number of PHC	19284
 Description Number of Shares	4896
-Description Numerator	11417
+Description Numerator	11417,7867
 Description O Presidente da República	5046,158
 Description OPHI	206
 Description OPIC	90,57,144,1
@@ -647,6 +676,7 @@ Description Objective Action Details Tech-I3-A1 Lay	15713
 Description Objective Action Details Tech-I5-A1 Training	15713
 Description Ombuds ICT Development	5642
 Description Omidyar Network	289,1,224
+Description Once Frequency Decree	19284
 Description One Health Action Plan	11417
 Description Orange	712,221,208
 Description Orange Digital Ventures Africa	515
@@ -674,11 +704,13 @@ Description Phase	653,754
 Description Phase II of Digital Earth Africa	345
 Description Phase-out	944
 Description Plan International Digital Skills for Youth	1160
+Description Plateforme	19221
 Description Postal	11180
 Description Preferential Export Buyer's Credit	480
-Description Price	3604
+Description Price	3604,15641
 Description Prisons	3382,2272
 Description Privacy International	720
+Description Prix Dream Pour	19232
 Description Produce	400
 Description Programme	626,670,29,1,1,1,1,1,456,2,5,2,1,219,1,1,1,1,1,42,1141,2,1,2,1,946,1,1,1,1,1,215,105,3,2601,2,1,2
 Description Project Appraisal Document	538,196,1520
@@ -698,6 +730,7 @@ Description Quantity Received Lubo	12977
 Description Quel	10817
 Description RISED	14027
 Description Rate Imported	18450
+Description Rationnel Portail	19221
 Description Recettes	2077,2330
 Description Reference Quantification	16328
 Description Registers	64
@@ -708,6 +741,11 @@ Description Retards	16328
 Description Retrieves	15630
 Description Retrieves National Standardized Test	15630
 Description Review of Electoral Processes	5641
+Description ReviseHealth	19284
+Description ReviseTracer	19284
+Description Revised Newly	19284
+Description Revised Persons	19284
+Description Revised Primary	19284
 Description Rivers	17140
 Description Rockefeller Foundation	392,129,421
 Description Rural Transformation Centres Digital Platform	584
@@ -734,6 +772,7 @@ Description Sont	13452
 Description Sovereign	450,351,1325
 Description Space Program	1757
 Description Statistical	15661
+Description Strategic	19245
 Description Strengthen	1561
 Description Strengthening	16759,2,1,1,1,1,1,1
 Description Strengthens	112,45,65,1,1,1943
@@ -771,6 +810,7 @@ Description TDB	398,552
 Description TLcom Capital	296,103,130
 Description Table	11180
 Description Tanzania	1132
+Description Target	19284
 Description Targets	11135
 Description TaxDev	1123
 Description Teachers	13991
@@ -806,6 +846,7 @@ Description The Ministry of Education	13991
 Description The Moroccan InsurTech	5921
 Description The Multinational Statistical Capacity Building	43
 Description The NASIA	15630
+Description The NSHI	19284
 Description The PAASF-UEMOA	1412
 Description The Payment System and Financial Inclusion	175
 Description The Project	1075
@@ -890,6 +931,7 @@ Description Wehubit	256,829
 Description While ICT-vote	2962
 Description Whole	1784,1,2,7,3,1404,1,2,3,3,3872,1,2,3,2
 Description Works	195
+Description World Bank	19284
 Description World Bank Digital Development Partnership	525,634
 Description World Bank Program Appraisal Document	1573
 Description World Bank Program Document	537
@@ -940,8 +982,13 @@ Description of Use	34
 Description of Work	12400
 Description. Recording	4455
 Description1 Unit Unit Cost2 Per	13037
-Descriptions	5773,6473,4868
+Descriptions	5773,6473,4868,2112
 Descriptions Demande	15908
+Descriptions Prix Box Harvilon	19232
+Descriptions Prix Fibres	19232
+Descriptions Prix MoovPocket	19232
+Descriptions Prix Routeur Extérieur	19232
+Descriptions Prix Résidentiel Silver Jusqu’à	19232
 Descriptive	2948,5428,2505,1122,376,4770,594
 Descriptive Statistics	17007,1311
 Descriptive Statistics for Civil Registry Professionals	17007
@@ -964,6 +1011,7 @@ Detailed Project Description	15372,39,2030,852,594
 Detailed Project Description AFRICA	15372,3515
 Detailed Project Description GABON	15411
 Detailed Safeguards Descriptions	18293
+Development Partners Project Brief Description Links	19245
 Diagram Number Property Description GP Number	12511
 Diego HP Descande	12478
 Digit DESCRIPTION Postcode Zone Group of Postal	11129
@@ -971,6 +1019,7 @@ Dignity Job Description Writing	11131
 Direção-Geral de Descen	11527
 Discovery and Descriptive Metadata Management	16947
 Document Control No Author Description Date	13037
+Document Descriptif	19241
 Document Description	18286
 Durée Description	18967
 Dus Description	15129
@@ -1056,6 +1105,7 @@ Hda Description	15129
 Hdt Description	15129
 Heading H.S Code No. Description Unit	6921
 Heading HS Code No. Description Unit	6921
+Health Description Information Exchange	19284
 I Code Description	11180
 I. DESCRIPTION COMPLÈTE DU PROJET	18118
 I. Description	16924
@@ -1065,6 +1115,7 @@ I.1.2 Description du Programme Terra Bénin	10876
 I.1.2 Description du Programme Terra Bénin I.1.2.1	10876
 I.2 DESCRIPTION DU PROJET	16104
 IA Description	15583
+IACV Description	19284
 IAF CODE DESCRIPTION	13068
 ID General Security Requirement Description Compliant	13037
 IDA Description Disbursement Schedule	13331
@@ -1076,8 +1127,8 @@ IHE Profile IHE Profile Descriotion Referenced	1009
 IHE Profile IHE Profile Description	1009
 II. DESCRIPTION DU PROJET	14490
 II. DESCRIPTION DU PROJET ET	15746
-II. DESCRIPTION OF ADDITIONAL FINANCING	1284,1605,9076,3173,644,201,913,26,1703,184
-II. DESCRIPTION OF ADDITIONAL FINANCING A	16896,26
+II. DESCRIPTION OF ADDITIONAL FINANCING	1284,1605,9076,3173,644,201,913,26,1703,184,475
+II. DESCRIPTION OF ADDITIONAL FINANCING A	16896,26,2362
 II. DESCRIPTION OF ADDITIONAL FINANCING Proposed	15782
 II. DESCRIPTION OF PROPOSED CHANGES	1228,1245,2180,10313,5,831,167,63,155,2172
 II. DESCRIPTION OF PROPOSED CHANGES A	16032,2327
@@ -1085,8 +1136,8 @@ II. Description	12220,4178
 II. Description of Proposed Changes	15693
 II. PROGRAM DESCRIPTION	11905,271,5282
 II. PROGRAM DESCRIPTION A. Government Program	11905,5553
-II. PROJECT DESCRIPTION	969,295,603,1737,2935,4229,61,551,169,11,1772,1605,554,24,3,35,68,38,2,82,401,240,565,1155,197,476
-II. PROJECT DESCRIPTION A. Project Development	1264,603,1737,2935,4229,196,453,1914,1,2159,27,35,105,1,2,483,1960,197
+II. PROJECT DESCRIPTION	969,295,603,1737,2935,4229,61,551,169,11,1772,1605,554,24,3,35,68,38,2,82,401,240,565,1155,197,476,462,6
+II. PROJECT DESCRIPTION A. Project Development	1264,603,1737,2935,4229,196,453,1914,1,2159,27,35,105,1,2,483,1960,197,944
 II. Project Description	13743
 III. DESCRIPTION DES ASPECTS TECHNIQUES	10836
 III. DESCRIPTION DES METHODOLOGIES DES PRINCIPALES	17945
@@ -1121,6 +1172,13 @@ Indicator Description Indicator Baseline Year	13991
 Indicator Description Sheet	17869
 Indicator Description Sheet. Scores	17869
 Indicator Name Description	15411
+Indicator Name Description MOH-UHC	19284
+Indicator Name Description MoH-UHC	19284
+Indicator Name Description MoH-UHC Frequency Data	19284
+Indicator Name MoH-UHC Description ReviseChildren	19284
+Indicator Name MoH-UHC Description RevisePeople	19284
+Indicator Name MoH-UHC Description Revised Beneficiaries	19284
+Information Proposed Changes Summary Description	19284
 Initial ID General Security Requirement Description	13037
 Initial ID Reporting Requirement Description Compliant	13037
 Initial ID Technical Environment Requirement Description	13037
@@ -1157,7 +1215,7 @@ LEGAL Legal Covenants Sections and Description Benin	16144
 LEGAL Legal Covenants Sections and Description I	3562
 LEGAL Legal Covenants Sections and Description KOE	6539
 LEGAL Legal Covenants Sections and Description Page	15743
-LEGAL Legal Covenants Sections and Description Schedule	3604,7164,792,4098,3
+LEGAL Legal Covenants Sections and Description Schedule	3604,7164,792,4098,3,3584
 LEGAL Legal Covenants Sections and Description Section	11417
 Lac Vert. Description	15670
 Last Mile Projects Description Responsible Party	12399
@@ -1179,6 +1237,7 @@ Liquidable Gravamen Descuentos Num. PERSONAL Mensual	4209
 List of Goods and Delivery Schedule Line Description	13185
 Location Description	1988
 Location of Project and Description of Site	16776
+Lomé Nom Description Prix	19232
 Lot Description of Goods Quantity Delivery Number	13185
 Lss Description	15129
 M. Descartes Koumba	16486
@@ -1193,9 +1252,11 @@ Metadata Field Title Description Keywords	15714
 Mile Projects Description Responsible Party Locality	12399
 Minor Contraventions Description	17249
 Mitigation Field Short Term Measure Description	17157
+MoH-UHC Description IACV Data	19284
 Moderate Contraventions Description	17249
 N B Description Attached	14778
 N CPC DESCRIPTION	14816
+N Description Additional Financing	19284
 NCAI Description of Change Initial	16212
 NNBP ITEM DESCRIPTION RESPONSIBILITY TIMELINE	11857
 Name Action Description Responsible Unit Time	17157
@@ -1216,6 +1277,7 @@ No. Description Rate	18541
 No. Description of Assignment Bank Comments	18887
 No. Objective Description	5244
 Noa Description	15129
+Nom Description Prix	19232
 Non Description	15129
 Nrc Description	15129
 Nss Description	15129
@@ -1233,10 +1295,14 @@ Ot Description	15129
 Outcome Baseline Targets Description of Target Data	13005
 OwnerLand Describes	11180
 P Description	15129
+PBC Description Number	19284
+PCU Description Quarterly Frequency Quarterly	19284
+PDO Outcomes Description People	19284
 PGES DATA CENTER PRINCIPAL II. DESCRIPTION	14489
 PGES DATA CENTER PRINCIPAL III. DESCRIPTION	14489
 PGES DATA CENTER SECONDAIRE II. DESCRIPTION	14488
 PGES DATA CENTER SECONDAIRE III. DESCRIPTION	14488
+PIM. Description of Conditions FA Schedule	19284
 PIU. Sections and Description Schedule	10829
 POLICY COMPLIANCE Legal Covenants Sections and Description	17458
 POM. Action Description Report	17470
@@ -1267,8 +1333,10 @@ Principle Description	14897
 Process Description	15283
 Procurement Description	13037
 Program Action Plan Action Description Appointment	10870,6635
+Program Action Plan Action Description FM	19242
 Program Action Plan Action Description Maintain	17470
 Program Description	12176
+Program Description Schedule	19214
 Programa de Promoção da Governação Descentralizada	1808
 Programme Description	15845
 Programme Terra Bénin Description Suivi	10876
@@ -1387,7 +1455,7 @@ Subproject Description and Activities	1988
 Substantial Risks Description	11417
 Summary Description	11965,4067
 Summary Description Operation Abstract	4653
-Summary Description of Proposed Operation Operation Abstract	15138
+Summary Description of Proposed Operation Operation Abstract	15138,4146
 Summary Description of Proposed Operation The Mozambique	4653
 Summary Table DESCRIPTION Unit	2775
 Surface Description	17114
@@ -1401,6 +1469,7 @@ TECHNICAL INDICATOR DESCRIPTION Indicator	11986
 TECHNICAL INDICATOR DESCRIPTIONS	11261
 TECHNICAL INDICATOR DESCRIPTORS	11986
 TESTING REQUIREMENTS ID Training Requirement Description	13037
+TF Description Status Action IDA-D7870 Complied	19284
 TF LEGAL TBL1 Description Status Action	1284
 TIC Descrição ORANGE TELECEL	11574
 TRAINING REQUIREMENTS ID Training Requirement Description	13037
@@ -1435,10 +1504,12 @@ Ua Description	15129
 Unit of Analysis Individual Version Version Description	15844
 UrbanRural Describe	11180
 Urungwe Victoria Wankie Wedza Property Description	12511
+Use Only Action Description FM	19242
 Use Only Action Description Maintain E&S	17470
 Use Service Category Description Deployment Model	6432
 User Fees and Services Charges No. DESCRIPTION	18541
 V. DESCRIPTION DES ALTERNATIVES POSSIBLES AU	18118
+V.3.2 Description	19216
 VI. IDENTIFICATION ET DESCRIPTION DES MESURES	18118
 VIDEO DESCRIPTION	12011
 Version Description	13804,3562,971
@@ -1462,6 +1533,7 @@ Wma Description	15129
 World Bank Comments Appointed Action Description	17505
 World Bank Environmental and Social Standards Description	1988
 World Bank Team II. DESCRIPTION	15969
+World Bank. Action Description PS	19242
 World Bank. Comments Ongoing Action Description	17470
 World Description Wide Web	12360
 Wot Description	15129

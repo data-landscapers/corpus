@@ -100,6 +100,7 @@ Additional Financing NewFinEnh1 World Bank Group	1284,15638
 Additional Financing World Bank Group	307,450
 Address of Group Headquarters	12302
 Administration MTN GROUP LIMITED Incorporated	10793
+Administration du Groupe	19347
 Adomi Advisory Group Johanna Leblanc President	17260
 Advisory Body's Working Groups	7199
 Advisory Group	5825,1416
@@ -221,7 +222,7 @@ Atlantic Financial Group	17640
 Atlantic Group	9028
 Auckland. World Bank Group	17157
 Authorship The Steering Group	11572
-Axian Group	241,149,423,710,613,2014
+Axian Group	241,149,423,710,613,2014,15169
 Azalai Group and FAMIB Group	17870
 B Groups	17127
 B. Cooperative C. Group	17127
@@ -250,7 +251,7 @@ Bandwidth and Cloud Services Group	651,12680
 Bandwidth and Cloud Services Group Holdings	651
 Bank Country and Lending Groups.9	11004
 Bank Fund Vacant Group Pension Fund	4896
-Bank Group	156,387,454,193,11,383,131,534,3102,4112,405,847,3,259,27,875,366,1585,1,2,24,160,102,484,163,714,579,119,1,22,18,224,70,271,451,117,172,416,207,153
+Bank Group	156,387,454,193,11,383,131,534,3102,4112,405,847,3,259,27,875,366,1585,1,2,24,160,102,484,163,714,579,119,1,22,18,224,70,271,451,117,172,416,207,153,937,39
 Bank Group AI Artificial Intelligence API	13042
 Bank Group ASC Annual School Census	13310
 Bank Group Country Manager for Rwanda	14871
@@ -499,6 +500,7 @@ Convene Technical Working Group	16101
 Cooperatives SCGs Savings and Credit Groups SOC	15023
 Coordination Technical Working Group	12977
 Core Group	10841
+Core Group Partners	19354
 Core Partners Group	17289
 Cotec Security Group Limited Data Controller	7167
 Cotec Security Group Limited Data Processor	7167
@@ -530,7 +532,7 @@ DES GROUPEMENTS RURAUX Article	18094
 DES SUBSTANCES MINERALES DU GROUPE	17827
 DETAILS Non-World Bank Group Financing Trust	13523
 DETAILS World Bank Group Financing	13787,2867
-DETAILS World Bank Group Financing International	1704,163,424,1271,7206,792,1551,904,1646,82,932
+DETAILS World Bank Group Financing International	1704,163,424,1271,7206,792,1551,904,1646,82,932,2570
 DETAILS-NewFinEnh1 World Bank Group Financing International	10829
 DETECTOR SECURITY GROUP LIMITED Data Controller	7167
 DFIs Cede Ground	4972
@@ -637,6 +639,7 @@ ENERGY GROUP LTD	12358
 ENSEMBLE DES FEMMES Groupe	13300
 ENTC Group CEO Abderrahim Chikh and INATEL	17637
 ENTREPRENEURS Parties Prenantes Teliman Groupe Arc-En-Ciel	17856
+EPP Groupe B	19257
 ESP Financing Group	15604
 ESP Partnership and Advocacy Group. The CAP	15604
 ESSWG Education and Sports Sector Working Group	17196
@@ -848,6 +851,7 @@ GIM-UEMOA Groupement Interbancaire Monétique GIZ German	17870
 GIMAC Groupement Interbancaire Monétique	10965,979
 GIMAC Interbank Electronic Banking Group of Central	16942
 GIMTEL Groupement	17881
+GIPATO Groupement	19350
 GLPE Groupe Local des Partenaires	18911
 GM Vulnerable Groups	16926
 GPAI Code of Practice and High-Level Expert Group	11050
@@ -877,6 +881,7 @@ GROUPE D’ÂGE	13300
 GROUPE ENDEAVOUR MINING	2342
 GROUPE INTERNATIONAL COACH ENSEIGNE	15780
 GROUPE KANF-ELECTRONICS DECI-0381	998
+GROUPE LE CHAMPION SARL	19295
 GROUPE PLANETE AFRIQUE	998
 GROUPE SODESI TC TRONC COMMUN SIGNES	18143
 GROUPE THEMATIQUE QUALITE BURKINA FASO	15632
@@ -894,6 +899,8 @@ GROUPEMENTS DE GENDARMERIE SECTION	16100
 GROUPEMENTS DE GENDARMERIE Sont	15901
 GROUPS	17127
 GSMA and Invictus Global Media Group	9820
+GSP GROUPEMENT D’INTERVENTION LEGER ANTI-TERRORISTE	19251
+GTA Groupement	19350
 GTI Group	18797
 GTMI Group	10785,1082
 GTMI Group A Extensive GovTech Maturity	10785
@@ -991,7 +998,7 @@ Groundwater Levels GRACE	17157
 Groundwater Storage Anomalies	17157
 Groundwater Storage HDX Humanitarian Data Exchange	17157
 Groundwater and Boreholes	1988
-Group	157,65,1,1,3,3,88,91,16,148,10,167,13,9,1,14,184,3,5,8,5,1,3,7,10,10,1,119,54,87,294,192,1,7,40,81,45,44,59,42,537,149,708,121,31,79,139,45,159,95,62,118,28,252,65,75,144,240,15,1,453,71,1,3,100,320,77,55,154,37,116,249,60,50,43,5,1,126,131,38,249,165,219,158,2,1,1,86,1,1,3,21,54,227,8,75,90,124,290,382,46,133,61,24,100,62,1,79,144,140,28,1,404,117,1,28,17,8,26,25,119,1,155,2,110,267,65,246,58,119,228,83,5,56,55,31,68,22,226,212,59,5,1,57,217,150,45,16,112,144,62,181,119,183,64,18,281,21,37,145,8,4,1,154,113,54,61,88,14,2,85,80,51,84,37,23,1,211,6,66,14,132,9,30,7,188,149,215,124,42,8,307,110,212,41,123,380,331,34,68,354
+Group	157,65,1,1,3,3,88,91,16,148,10,167,13,9,1,14,184,3,5,8,5,1,3,7,10,10,1,119,54,87,294,192,1,7,40,81,45,44,59,42,537,149,708,121,31,79,139,45,159,95,62,118,28,252,65,75,144,240,15,1,453,71,1,3,100,320,77,55,154,37,116,249,60,50,43,5,1,126,131,38,249,165,219,158,2,1,1,86,1,1,3,21,54,227,8,75,90,124,290,382,46,133,61,24,100,62,1,79,144,140,28,1,404,117,1,28,17,8,26,25,119,1,155,2,110,267,65,246,58,119,228,83,5,56,55,31,68,22,226,212,59,5,1,57,217,150,45,16,112,144,62,181,119,183,64,18,281,21,37,145,8,4,1,154,113,54,61,88,14,2,85,80,51,84,37,23,1,211,6,66,14,132,9,30,7,188,149,215,124,42,8,307,110,212,41,123,380,331,34,68,354,335
 Group A	10785
 Group A and B Bids	13185
 Group A and Group D	10785
@@ -1067,6 +1074,7 @@ Group Decis Negot	10780
 Group Details	11298
 Group Directeur	10821
 Group Discussions	6936,6010
+Group Dr Auréole NGANHYIM	19265
 Group EBIT	3898
 Group EBIT of KShs	6100
 Group EBITDA	8785,2008
@@ -1138,8 +1146,9 @@ Group UNESCO United Nations Educational	18911
 Group US United States US	1243
 Group Vice President Country Director Regional	16436
 Group Vice President Franz R. Drees-Gross	17962
-Group Vivendi Africa	7283,8228
+Group Vivendi Africa	7283,8228,3734
 Group Vivendi Africa Ghana Ltd	3386
+Group WDI World Development Indicators WURI	19245
 Group WTP Willingness	15515
 Group YoY	6100
 Group and ICBC	8928
@@ -1187,7 +1196,8 @@ Group. SPAR6C	9393
 Group. The Group	4360
 Group1 and Group	12361
 GroupBy	4434
-Groupe	24,90,529,94,788,154,219,444,282,184,56,83,23,257,230,201,309,72,88,35,798,203,722,390,145,79,8,376,713,27,32,182,158,242,316,202,136,515,51,23,39,329,356,296,135,186,56,47,20,1000,1316,40,90,43,9,10,30,40,57,62,74,134,78,283,215,4,43,1002,19,5,59,42,6,47,70,24,102,45,2,47,23,47,35,28,18,82,19,56,73,45,47,67,47,97,7,13,802,70,299,65,14,46,41,31,5,44,13,1,28,13,82,67,19,24,2,4,8,63,518,245
+Groupage	19226
+Groupe	24,90,529,94,788,154,219,444,282,184,56,83,23,257,230,201,309,72,88,35,798,203,722,390,145,79,8,376,713,27,32,182,158,242,316,202,136,515,51,23,39,329,356,296,135,186,56,47,20,1000,1316,40,90,43,9,10,30,40,57,62,74,134,78,283,215,4,43,1002,19,5,59,42,6,47,70,24,102,45,2,47,23,47,35,28,18,82,19,56,73,45,47,67,47,97,7,13,802,70,299,65,14,46,41,31,5,44,13,1,28,13,82,67,19,24,2,4,8,63,518,245,197,1,2,3
 Groupe AFD	12427,833
 Groupe Actis	10975
 Groupe Africain	17824
@@ -1207,6 +1217,7 @@ Groupe Consultatif Technique Indépendant	15673
 Groupe Coris Bank	15893
 Groupe EN-	2342
 Groupe ENDEAVOUR MINING	2342
+Groupe ERANOVE	19295
 Groupe ERG	15670
 Groupe ERG Le Groupe ERG	15670
 Groupe Egmont. Toutefois	14549
@@ -1266,7 +1277,7 @@ Groupe Télécom Algérie	15943
 Groupe Télécom Algérie Spa	16295
 Groupe Une	13300
 Groupe Viettel	13530
-Groupe Vivendi Africa	13312,2
+Groupe Vivendi Africa	13312,2,5918
 Groupe Vivendi Africa BF	15621
 Groupe WIB	1232
 Groupe Waberi	4774
@@ -1810,6 +1821,7 @@ NIDA At the Expo Grounds	10153
 NITAG National Immunization Technical Advisory Group	16941
 NNGO Advisory Group	15116
 NOMBRE DE GROUPES PEDAGOGIQUES PAR SYSTEME	10847
+NOVISSI and World Bank Group	19237
 NSDS III Technical Working Group	17116
 NSFE Working Group	13532
 NSO Group	2367,2848
@@ -1872,7 +1884,7 @@ Nombre de Groupes	10965
 Non-African Other Liberian Ethnic Group Sapo	16921
 Non-Communicable Group III	12413
 Non-World Bank Group Financing	3604,7164,649,971,444,2078,27,1207,149
-Non-World Bank Group Financing Commercial Financing	1704,587,1271,9769,3323
+Non-World Bank Group Financing Commercial Financing	1704,587,1271,9769,3323,2591
 Non-World Bank Group Financing Counterpart Funding	14015
 Non-World Bank Group Financing The World	11905
 Non-World Bank Group Financing Trust Funds	10829,2282,221,1644,685,723,291,247
@@ -1888,10 +1900,12 @@ OCP Group CEO	17459
 OFIQ User Group Meeting Online	2521,659,249,939,974,1524,210,294
 OKAYA Group	2760
 ONG MUSO Groupe	17882
+OPGW Optical-fiber Ground Wire PBC Performance-based	19239
 ORS Income Group Wealthiest Income Group	10829
 OZON Aljaded For Telecom and Technology Group	2843
 Obrigado Annual Expert Group Meeting for Registrar	11480
 Obrizum Group Ltd Chief Executive Officer	13539
+Observation Group Digital Globe	19237
 Okwiri and Guodong Network Communications Group Chairman	10283
 Old Mutual Group Communications	7343
 Omdia. Paratus Group CEO Schalk Erasmus	3539
@@ -2037,6 +2051,7 @@ Recommendations and EGMONT Group	12598
 Recommendations and Way Forward The Working Group	5680
 Records Cassava's GROUP-LEVEL	1429
 Red Palm Oil Unhealthy Food Group	17127
+Redress Service GVA Group Vivendi Africa	19245
 Reference TWG Technical Working Group UIC	15518
 Refugee Education Working Group	18911
 Refugee Group	10841
@@ -2095,6 +2110,7 @@ SOP3 World Bank Group	221
 SOUS TUTELLE GROUPE GABON TELEVISION DIRECTION	16099
 SPA Groupe Hasnaoui Révision	16103
 SPIRIT-AI and CONSORT-AI Working Group	8301
+SS GROUPEMENT DE SECURITE PRESIDENTIELLE	19251
 STC Group	4993
 STUDENTS IN EDUCATION. Rwanda Energy Group	12358
 SUBSTANCES MINERALES DU GROUPE	17827
@@ -2266,6 +2282,7 @@ TDAG ITU-D Study Groups	18349
 TECHNICAL WORKING GROUP FUNCTIONAL RESPONSIBILITY Composed	14434
 TEFLA Group. The TEFLA Group	11285
 TELECEL Group	6087
+TEOLIS SA and GROUP VIVEN DI AFRICA	19365
 TOGAF The Open Group Architecture Framework	15512,3019
 TRS Technical Working Group	17367
 TWG Structures Working Groups	12356
@@ -2489,7 +2506,7 @@ Wagner Group	434,3693
 Wananchi Group	2136,1489,261,53,528,2204,193,396
 Wananchi Group Holdings Ltd	3886
 Wananchi Group Kenya Limited	6946
-Washington Group	16921,29,346,373,277
+Washington Group	16921,29,346,373,277,1288
 Washington Group Short Set	10768,2248,29,2199,1665,41
 Washington Groupe	17946
 Wave Mobile Money Group	8098
@@ -2539,7 +2556,7 @@ World Bank Aoukal Group	18887
 World Bank Country and Lending Groups	10785,219
 World Bank Development Economics Data Group	15620
 World Bank Executive Director Africa Group	11134
-World Bank Group	166,155,8,83,124,16,14,7,4,2,160,50,180,12,235,74,461,77,39,159,447,204,139,345,212,210,21,523,87,151,159,960,186,30,337,3,211,129,159,393,53,412,29,122,107,231,592,601,654,1,1,24,112,71,42,674,56,4,50,12,5,27,7,22,15,25,3,17,62,1,21,19,127,3,2,1,12,49,38,35,39,70,37,51,7,1,10,39,20,7,20,283,2,22,39,5,1,41,162,31,17,17,61,4,21,19,38,78,88,33,7,118,4,84,57,34,95,23,6,6,17,138,62,71,56,2,17,1,25,38,36,92,9,60,32,202,42,63,7,65,14,76,23,160,63,6,111,120,26,1,24,15,6,21,5,55,148,20,32,135,100,80,3,125,5,34,4,9,23,26,1,4,2,11,2,20,1,1,3,35,68,38,4,62,18,240,41,22,13,85,1,43,1,12,18,165,51,7,1,70,113,28,120,102,20,26,27,14,3,30,72,37,9,25,18,23,55,117,1,171,338,7,1,187,229,7,1,7,17,138,51,3,1,6,10,17,20,10,9,33,10,118,10,55,42,36,23,21,24,27,38,63
+World Bank Group	166,155,8,83,124,16,14,7,4,2,160,50,180,12,235,74,461,77,39,159,447,204,139,345,212,210,21,523,87,151,159,960,186,30,337,3,211,129,159,393,53,412,29,122,107,231,592,601,654,1,1,24,112,71,42,674,56,4,50,12,5,27,7,22,15,25,3,17,62,1,21,19,127,3,2,1,12,49,38,35,39,70,37,51,7,1,10,39,20,7,20,283,2,22,39,5,1,41,162,31,17,17,61,4,21,19,38,78,88,33,7,118,4,84,57,34,95,23,6,6,17,138,62,71,56,2,17,1,25,38,36,92,9,60,32,202,42,63,7,65,14,76,23,160,63,6,111,120,26,1,24,15,6,21,5,55,148,20,32,135,100,80,3,125,5,34,4,9,23,26,1,4,2,11,2,20,1,1,3,35,68,38,4,62,18,240,41,22,13,85,1,43,1,12,18,165,51,7,1,70,113,28,120,102,20,26,27,14,3,30,72,37,9,25,18,23,55,117,1,171,338,7,1,187,229,7,1,7,17,138,51,3,1,6,10,17,20,10,9,33,10,118,10,55,42,36,23,21,24,27,38,63,138,16,8,31,8
 World Bank Group Annual Meetings	14774
 World Bank Group Approach	10714,292,1437
 World Bank Group Approach. Digital	11310
@@ -2549,6 +2566,7 @@ World Bank Group Board of Directors	2253,2581,11367
 World Bank Group C I YT	15447
 World Bank Group COVID-19 Crisis Response	15491,62,2748
 World Bank Group Chief Economist	5598
+World Bank Group Climate Change Action	19245
 World Bank Group Conakry	11552
 World Bank Group Contribution The World	10857,1388
 World Bank Group Country Management	15969
@@ -2610,6 +2628,7 @@ World Bank Group Public Disclosure Authorized	15553
 World Bank Group Publications	11136
 World Bank Group Report	2889,12602,240
 World Bank Group Report No	13953
+World Bank Group Scorecard. People	19284
 World Bank Group Somali Electricity Sector	15017
 World Bank Group Spring Meetings	3653,7481
 World Bank Group Spring and Annual Meetings	17235
@@ -2626,6 +2645,7 @@ World Bank Group and Morocco Partner	17524
 World Bank Group and People's Bank of China	11130
 World Bank Group and UNDESA	3583
 World Bank Group and World Food Programme	16902
+World Bank Group's Board of Directors	19275,1
 World Bank Group's Country Partnership	1954
 World Bank Group's Country Partnership Strategy	15704
 World Bank Group's Environmental	1988,15453
@@ -2649,7 +2669,7 @@ World Bank Group. Internet Society	11310
 World Bank Group. Law	15447
 World Bank Group. License	10714,7988
 World Bank Group. OPERATION INFORMATION	11965
-World Bank Group. Page	13332,2092,234
+World Bank Group. Page	13332,2092,234,3626
 World Bank Group. Peer Comparison	16260,988,4
 World Bank Group. Retrieved	16144,798
 World Bank Group. Sao Tome	18838
@@ -2666,7 +2686,8 @@ World Bank Groups	13312,2
 World Bank Group’s COVID-19 Crisis	15511
 World Bank Group’s CPF for Egypt FY2023-27	15663
 World Bank Group’s Cameroon Country Partnership	10964
-World Bank Group’s Country Partnership Framework	6539,9119,5,2299,339
+World Bank Group’s Corporate Scorecard	19284
+World Bank Group’s Country Partnership Framework	6539,9119,5,2299,339,983
 World Bank Group’s Country Partnership Strategy	11855
 World Bank Group’s Digital and AI Vice	10714
 World Bank Group’s Evolution	15138
@@ -2680,7 +2701,7 @@ World Bank Income Group Classification	10846
 World Bank To Group	18887
 World Bank and African Development Bank Group	4214
 World Bank's EdTech Global Solutions Group	11918
-World Bank. World Bank Group	2816,8494
+World Bank. World Bank Group	2816,8494,7927
 World Bank’s Development Data Group	11133,9
 WorldBank Group. ICDL	10865
 X GROUPE ABZ SA GROUPE ABZ	16623

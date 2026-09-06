@@ -8,7 +8,7 @@ ACTIVIDADES	16875
 ACTIVIDADES DESENVOLVIDAS NOS SECTORES PRIVADO	2816
 ACTIVITE Activité	15936
 ACTIVITE REALISATION B.1	17901
-ACTIVITES	13938
+ACTIVITES	13938,5312,41
 ACTIVITES AUTORISEES Article	15442,1
 ACTIVITES CULTURELLES. ARTICLE	15364
 ACTIVITES DANS LE POOL CENTRE	15670
@@ -31,7 +31,8 @@ ACTIVITES LIEES A LA REFORME	18322
 ACTIVITES MENEES AU COURS DE L’ANNEE	18122
 ACTIVITES PHARES REALISEES EN	998
 ACTIVITES PRINCIPALES	12043
-ACTIVITES REALISEES	998
+ACTIVITES REALISEES	998,18252
+ACTIVITES REALISEES Cette	19250
 ACTIVITES REGULATOIRES	18122
 ACTIVITES RESPONSABLE PRIORITE	18291
 ACTIVITIES	8840,2396,4976,673,15,1572
@@ -62,8 +63,9 @@ ACTIVITÉS PHASAOC	18124
 ACTIVITÉS POLLUANTES Article	16047
 ACTIVITÉS POLLUANTES PARAGRAPHE	16047
 ACTIVITÉS PRINCIPALES Plan	12043
-ACTIVITÉS RÉALISÉES	16714
+ACTIVITÉS RÉALISÉES	16714,2577
 ACTIVITÉS RÉALISÉES AU COURANT DE L	15670
+ACTIVITÉS RÉALISÉES Cette	19291
 ACTIVITÉS RÉALISÉES DISTRIBUTION	16714
 ACTIVITÉS RÉALISÉES DISTRIBUTION Au	16714
 ACTIVITÉS RÉALISÉES PRODUCTION Suivi	16714
@@ -94,6 +96,7 @@ ARMP Coordonnateur Général des Activités	14539
 ARSEL. Activités	10975
 ASACO Disponibilité de Activité	17845
 AUTRES ACTIVITES	18122
+AUTRES ACTIVITES DE REGULATION ET	19295
 AUTRES ACTIVITÉS DE SERVICES N.C.A	18424
 AUTRES ACTIVITÉS D’AFRISTAT Participants	16250
 AUX ACTIVITES RECREATIVES	15732
@@ -123,7 +126,7 @@ Activated	6996,3780,1732
 Activates National RDC-PASS Digital Identity Ecosystem	6753
 Activating	1777,15380
 Activating Angola’s Emergency Operations Center	10776
-Activation	4732,2058,2192,2174,142,2077,2203,92,273,269,83,135,157,512,15,25,18,875,261,195
+Activation	4732,2058,2192,2174,142,2077,2203,92,273,269,83,135,157,512,15,25,18,875,261,195,733
 Activation Pace	17139
 Activation and Baseline	10157
 Activação	576,14816
@@ -131,10 +134,10 @@ Active-Active	14783
 Active-active Systems	11952
 ActiveX	1009
 ActiveX Component Technology Mapping	1009
-Actively	1204,914,2008,402,2419,1,203,1972,3091,162,68,68,163,786,413,752,151,2162,32
+Actively	1204,914,2008,402,2419,1,203,1972,3091,162,68,68,163,786,413,752,151,2162,32,2263
 Actively Monitor SLAs	11995
 Activeness	15713
-Activer	13375,4073,376,12,43
+Activer	13375,4073,376,12,43,1372
 Activi	16898
 Activid	16898
 Activida	16898
@@ -209,7 +212,7 @@ Activite11	17845
 Activites	14131,443
 Activites Financi	18318
 Activites RSH	14442
-Activities	10,144,131,118,15,126,38,207,172,9,202,92,20,96,413,3,28,43,31,90,177,126,484,114,100,217,3,395,563,35,15,43,41,48,304,120,474,793,499,408,140,73,3604,65,134,17,151,119,2,37,566,8,42,19,16,25,125,48,37,37,144,2,47,21,19,3,146,174,164,21,19,65,16,132,146,192,9,318,141,13,518,201,19,39,34,4,21,22,26,40,38,53,66,30,248,48,62,45,35,66,39,1,4,369,112,43,393,263,5,3,12,33,26,5,9,3,10,3,6,13,7,18,15,57,31,9,6,2,23,1,17,79,14,48,143,17,391,113,9,14,316,8,40,21,74,39,21,273,32,8,116
+Activities	10,144,131,118,15,126,38,207,172,9,202,92,20,96,413,3,28,43,31,90,177,126,484,114,100,217,3,395,563,35,15,43,41,48,304,120,474,793,499,408,140,73,3604,65,134,17,151,119,2,37,566,8,42,19,16,25,125,48,37,37,144,2,47,21,19,3,146,174,164,21,19,65,16,132,146,192,9,318,141,13,518,201,19,39,34,4,21,22,26,40,38,53,66,30,248,48,62,45,35,66,39,1,4,369,112,43,393,263,5,3,12,33,26,5,9,3,10,3,6,13,7,18,15,57,31,9,6,2,23,1,17,79,14,48,143,17,391,113,9,14,316,8,40,21,74,39,21,273,32,8,116,281,70
 Activities Being Considered B.1 Relevance of Environmental	18374
 Activities Conducted	10776
 Activities Development	1131
@@ -246,7 +249,7 @@ Activities and Timeline Timeline	13991
 Activities and Timetable	13991
 Activities and Timetable Activities Timeline	13991
 Activities for Liberian Informal Sector Employment	17311
-Activity	85,151,13,268,1,196,11,172,162,68,1,17,2,137,170,73,11,1,677,512,47,829,53,335,980,1707,1370,473,68,1182,1167,192,3,64,810,233,207,101,407,6,14,1,28,75,15,236,542,798,144,17,92,206,281,250,139,10,1053,64,23,21,97,48,24,95,81,105,541,1080
+Activity	85,151,13,268,1,196,11,172,162,68,1,17,2,137,170,73,11,1,677,512,47,829,53,335,980,1707,1370,473,68,1182,1167,192,3,64,810,233,207,101,407,6,14,1,28,75,15,236,542,798,144,17,92,206,281,250,139,10,1053,64,23,21,97,48,24,95,81,105,541,1080,172,31
 Activity Assessment Meeting	14009
 Activity Bank	11134
 Activity Brief	8546
@@ -302,10 +305,11 @@ Activity US	15659
 Activity Updates	11133
 Activity of Microfinance	11960
 Activity-Based Costing	17116
+Activity. Participation	19214
 Activity1	2775,10262
 Activity1 Months2	13037
 ActivityPreview.do	246,92
-Activité	2342,3804,2745,1984,1,51,38,10,2325,90,325,703,204,748,98,11,6,158,7,162,124,267,119,295,868,338,5,17,37,64,37,123,13,74,119,100,345
+Activité	2342,3804,2745,1984,1,51,38,10,2325,90,325,703,204,748,98,11,6,158,7,162,124,267,119,295,868,338,5,17,37,64,37,123,13,74,119,100,345,456,3,5,139,2
 Activité A3O1R1.1 Elaboration	15580
 Activité Gouvernementales	17468
 Activité Intervenant	18407
@@ -327,7 +331,7 @@ Activité16	17845
 Activité17	17845
 Activité3	17845
 Activité7 Organiser	17845
-Activités	765,418,2492,432,6749,19,1,30,69,2325,1,40,49,299,736,63,1,1,37,896,6,99,52,15,65,25,26,55,53,29,113,38,64,61,71,28,26,35,53,14,67,197,78,29,1097,26,13,8,1,15,64,36,4,27,19,86,3,165,5,19,590,42,181,27
+Activités	765,418,2492,432,6749,19,1,30,69,2325,1,40,49,299,736,63,1,1,37,896,6,99,52,15,65,25,26,55,53,29,113,38,64,61,71,28,26,35,53,14,67,197,78,29,1097,26,13,8,1,15,64,36,4,27,19,86,3,165,5,19,590,42,181,27,66,5,29,41,4
 Activités A1 A2 A3 A4 A5	10965
 Activités A1O1R1.1 Elaboration	15580
 Activités A1O1R2	15580
@@ -361,15 +365,19 @@ Activités A3O2R2.1 Renforcement	15580
 Activités A3O2R3.1	15580
 Activités A3O3R1.1 Construction	15580
 Activités Accueil	16337,14,67
+Activités Année	19221
 Activités Année Coût	15580
 Activités Axe	17842
+Activités B	19221
 Activités Bancaires	11944
 Activités CFA	17946
+Activités Cadrage	19221
 Activités Cf	18942
 Activités Chronogramme	17882
 Activités Commerciales	16249
 Activités Communautaires	15712
 Activités Contenu	12043
+Activités Création	19221
 Activités Culturelles Universitaires	18143,27
 Activités Développement	18942
 Activités Economiques	16563
@@ -379,9 +387,11 @@ Activités Existence	18286
 Activités Existence de LPS	18286
 Activités Financières	15797
 Activités Flash Infos Accueil	15819
+Activités Formation	19221
 Activités Générales de Revenues	17861
 Activités Génératrices de Revenus	1005,5822,4042,1044,3960,841,1153
 Activités ID4D	17896
+Activités Identification	19221
 Activités Immobilières	14489,1
 Activités Indicateur	17872
 Activités Indicateurs	15580
@@ -390,6 +400,7 @@ Activités Membres	9890
 Activités Million	15580
 Activités Million de FCFA Gouvernement PTF	15580
 Activités Ministérielles	16477
+Activités Montant	19216
 Activités Nombre	18286
 Activités PCIME	15423,262
 Activités PMAE	15423,262
@@ -411,6 +422,7 @@ Activités Rôle	14425
 Activités S19 S2 S3 S4 S5	1187
 Activités SEMESTRE	13341
 Activités STATUANT EN CONSEIL DES MINISTRES	17820
+Activités Sensibilisation	19221
 Activités Sources de Coûts Chronogramme COUT	17845
 Activités Sources de Coûts Coûts	17845
 Activités Sources de Responsables Financemen	17845
@@ -429,6 +441,7 @@ Activités TOTAL AXE STRATEGIQUE	16195
 Activités Total Actuel	15424
 Activités Tâches	16195
 Activités Tâches VLSM	16195
+Activités de CPC	19226
 Activités de Communications Electroniques Article	37
 Activités de Sécurité	15999
 Activités du Domaine	17844
@@ -515,6 +528,7 @@ CESAG de Dakar Activité	17845
 CHARCOAL ACTIVITIES BY GENDER Region Men	17043
 CHARCOAL ACTIVITIES Region Men Women Southeastern	17043
 CHARGE DES ACTIVITES	18032
+CHIFFRES ESTIMATIFS Activités	19221
 CHRONOGRAMME DES ACTIVITÉS PRÉVUES	16621
 CIVIL SOCIETY ACTIVIST	17950
 CNS ACTIVITES DU SSN L	18926
@@ -526,6 +540,7 @@ CONCERNING COUNTER ILLICIT TRANSNATIONAL MARITIME ACTIVITY	18914
 CONSULTING FIRMS Activity Reference No	17219
 CONTRIBUTORS Acelera Angola Angola ActivSpaces Cameroon	15460
 CONTROL DE SU ACTIVIDAD CAPÍTULO	16855
+CONTROLE DES ACTIVITES DES OPERATEURS DANS	19295
 COORD Objectif Proposition Activités Respon Sources	17845
 COORDINATE AND REGULATE SPACE-RELATED ACTIVITIES	1131
 CORE ACTIVITIES	13385
@@ -680,6 +695,7 @@ Description Activity	1538,1
 Description USAID Cyber Security Activity	1567
 Description USAID Ethiopia Digital Health Activity	531
 Description of Activity Status Update	13392
+Develop Methodologies Activity	19214
 Developed Health-related NGOs Activities Appraisal Form	16971
 Development Partner Activity	18614
 Development of Workplan Activities Activity Highlights	17196
@@ -744,6 +760,7 @@ Estructura de Actividades Económicas	1701
 Estructuración de Actividades Económicas	1701
 Estructuración de Actividades Económicas ODS	1701
 Eswatini Composite Indicator for Economic Activity	12962
+Etat Activités	19221
 Etat Années Activités	15639
 Ethiopian Digital Health Activity	12255
 Etois. CHAPITRE VI FINANCEMENT DES ACTIVITES	15561
@@ -790,6 +807,7 @@ Forestry Activities The LAAS-2024	17043
 Foundations Activity	15570
 Fuel Consumption and Economic Activity Fuel Consumption	1828
 Full Activation	2957
+Fund Activity	19214
 Funded Activity Agreement	17962
 G Activa VIE	16623
 G-I2-A3 Actively	15713
@@ -832,6 +850,7 @@ Human Resource Key Activities	12977
 Human Resource Key Activities A. Employee	12977
 I. ACTIVITES DE SANTE MATERNELLE ET	15475
 ICT GVA Activity	236
+ICT Utilization Activity	19214
 ICT. Component Activity	18887
 ICTAM Activities Planned for Q4	13080
 II Encuesta de Población Activa	17259
@@ -861,10 +880,12 @@ Implementation Support Plan FM Activity Frequency	11525,4028
 Implementation and Monitoring of Gender Activities	13420
 Implementation and Monitoring of Gender Activities Finding	13420
 Implementation of Spectrum Management Activities	12971
+Improved Regulatory Framework Activity	19214
 Inadequate Awareness of PPP Activities	14546
 Include Training Activities	14546
 Inclusive Digital Transformation for Malawi Activity	12241
 Income Generating Activities	11897,27,449,3640
+Increase Competition Activity	19214
 Indicador Compuesto de Actividades Económicas	16898
 Indicateurs Activité	17845
 Indicators Activities Corrective Action Deviation	5245
@@ -969,6 +990,7 @@ Main Economic Activity Percentage	12445
 Mainstreaming Activities and Environmental Sustainability	6946
 Major Activities	14738
 Manuals and Codes Steps Activity Status Next	16853
+Map of Project Activities	19239
 Maritime Activity Operations	18914
 Market Activity	14997
 Maternal and Child Health Activities	14773
@@ -977,6 +999,7 @@ Maïngo Project. Activities	10829
 Mbabane. Activities	12977
 Measures Core Activity	16943
 Milestone Activity	18950
+Minimum Viable Product Activités	19221
 Mining Sector No Interventions Activities	17011
 Ministry of Health. Activity	15800
 Ministry of Water Organizational Activate	17157
@@ -987,6 +1010,7 @@ Monitoring Activities	17099
 Monitoring Activities Throughout	11955
 Monitoring of Activities Monitoring	17367
 Moving Works Activity	16863
+N Activités	19361
 NATION FUND FOR POPULATION ACTIVITY UA	18105
 NIF Activo	11383
 NON CONSULTING SERVICES Activity Reference No	17219
@@ -1156,6 +1180,7 @@ Project TA Activities	1988
 Promouvoir des Consommateurs Activité	10965
 Promouvoir des Des Activité	10965
 Proposed Activities	1988,9262
+Proposed New Activities	19284
 Proposed Project Activities	1988
 Prossecução de Actividades	12774
 Préparation Activité	15936
@@ -1201,6 +1226,7 @@ Regulamento de Licenciamento da Actividade Industrial	12842
 Regulated Activities	16212,639
 Regulated Economic Activity	1802,10382,51
 Regulating the Activity of Foreign Exchange	11960
+Regulator Strengthening Activity	19214
 Regulatory Activities	17235
 Regulatory Activities Under the International Monetary Fund	17235
 Regulatory and Supervisory Activities	17235
@@ -1324,6 +1350,7 @@ TIMELINE OF KEY ACTIVITIES AND MILESTONES	1920
 TITRE II DES ACTIVITES DES MEDIAS	15602
 TITRE V ACTIVITES DE LíORGANISATION Article	15410
 TOUTE AUTRE ACTIVITÉ	13300
+TPME Activités	19221
 TRN ACTIVATION	11298
 TRN ORGANISATION ACTIVIATION	11298
 Target Sectors Recommendation Activities Actor	4126
@@ -1368,10 +1395,14 @@ USD The Total Entrepreneurship Activity	14897
 USTDA Digital Infrastructure Activities Under Digital	1172
 UVRE DES ACTIVITES DE LA PHASE	15639
 UVRE DES ACTIVITÉS DE MOBILISATION DES	16104
+UVRE DES ACTIVITÉS DU SNIS Dans	19226
 UVRE LES ACTIVITES DE MOBILISATION DES	14425
 UVRE LES ACTIVITÉS DE MOBILISATION DES	15746
 Unit CONSULTING FIRMS Activity Reference No	17180
 United Nations Fund for Population Activities	13938,684,1041
+Unité CHIFFRES ESTIMATIFS Activités	19221
+Universal Service Fund Activity	19214
+Universal Service Fund Activity. The Parties	19214
 University Activities Planned for Q4	13080
 Unrealized Activities Unrealized Activities Cost	15424
 Updated Theory of Change KEY CHALLENGES ACTIVITIES	1284
@@ -1398,6 +1429,7 @@ Welfare Committee Activities	14761
 Wellness Activities	12970
 Women and Men Activeness	17127
 Workshop Activities	14964
+Xpert Activités	19226
 Youth Empowerment Activities	6946
 Youth-Shaped Income Generation Activities’ Advisory Services	10964
 Zambia Local Impact Governance Activity. USAID	12369

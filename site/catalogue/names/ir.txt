@@ -175,7 +175,7 @@ Helwan Iron and Steel Complex	15473
 Honduras Cambodia Iraq Chad Lao P.D.R	10764
 Humanos. Irikidzai Munodawafa	10750
 Hungary Iceland India Indonesia Iran	11765
-Hungary Iceland India Indonesia Iran Iraq	11470
+Hungary Iceland India Indonesia Iran Iraq	11470,7872
 Hungary Ireland Israel Lithuania Malta Poland	10764
 I'Avis Irrévocable de Versement	15399
 ICR INS IRI ISR LIPW M&E	15601
@@ -250,6 +250,7 @@ IR2.4.2.1	17983
 IR2.4b.2.1 Disponibilité	17983
 IR2.5.1.1 Rapport Infrastructure	17983
 IR3.7.2.2	17983
+IRA Démographiques MAMA	19226
 IRA Enfermedades	16969
 IRA Entre	10777
 IRA Infections	17843
@@ -332,7 +333,10 @@ IRERC	11236
 IREX-led	9641
 IRHIS	10865
 IRI And Gates Foundation Launch ENACTS	18131
+IRI Dropped	19284
 IRI ISR M&E MEN MICS MPSE	16436
+IRI Intermediate Results Indicator ISR Implementation	19284
+IRI Revised	19284
 IRI7 Definition	11417
 IRI8 Definition	11417
 IRIMAG-CFM INSTITUT RÉGIONAL D’INFORMATIQUE	18143,27
@@ -380,6 +384,7 @@ IRPC IVA Imposto de Selo DPR REMPE	12018
 IRPC Retenção	12018
 IRPC and IUMAE	10762
 IRPF Impuesto	16969
+IRPP Impôt	19350
 IRPS Incidência Sobre	12018
 IRPS Principais	12018
 IRPS. Ver	12018
@@ -498,7 +503,7 @@ Irawo	10887
 Ireland	970,243,1388,579,177,425,1634,1197,278,39,541,382,493,90,256,168,31,321,649,227,376,321,61,18,745,264,462,75,90,485,20,35,82,406,1145,798,242,12,855,310,345,508,337,496,293
 Ireland EUR HI	17743
 Ireland Global Cybersecurity Index	10764
-Ireland Isle of Man Israel Italy Jamaica	11470
+Ireland Isle of Man Israel Italy Jamaica	11470,7872
 Ireland Israel Kazakhstan Lithuania Malta Mexico	10764
 Ireland N	10714
 Ireland Operations Limited	13462
@@ -677,7 +682,7 @@ Irrevogável da Liquidação	10755
 Irrigarion	7167
 Irrigated	14941,177,11,2028
 Irrigated. Class	15129
-Irrigation	2428,1155,3584,1956,2346,1508,408,89,1403,241,11,1914,114,1457
+Irrigation	2428,1155,3584,1956,2346,1508,408,89,1403,241,11,1914,114,1457,740
 Irrigation Authority	14803,15
 Irrigation Authority Act	7845,6983,3
 Irrigation Bridge	15578

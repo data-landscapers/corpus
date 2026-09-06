@@ -264,7 +264,7 @@ Impact Stories In the Gambia	16911
 Impact Stories Non-communicable	13160
 Impact Stories The EPI Pro	977
 Impact Stories The EPI Program	977
-Impact Story	13396
+Impact Story	13396,5959
 Improved Cook Stoves	12358
 Indian Story	19133
 Insurance Supply Trade Storage	2775
@@ -566,7 +566,7 @@ Stock-Taking of Fuel Subsidies	1828
 Stock-flow	14777
 Stock-out	14773
 Stock.Adobe.com Pedro Moita	16325
-Stockage	5978,5161,2236,58,990,57,142,271,579,111,60,1875,389,329,55,15,16,842
+Stockage	5978,5161,2236,58,990,57,142,271,579,111,60,1875,389,329,55,15,16,842,57
 Stockage CIREF	14423
 Stockage Il	14423
 Stockage Interne du Tablette	13375
@@ -577,6 +577,7 @@ Stockage des Justificatifs GED Base	14480
 Stockbridge	18970
 Stockbroker	4896
 Stockbrokers	4896
+Stocke	19221
 Stocked	1988
 Stocker	1005,12804,680,1
 Stockholm	427,1812,4873,1264,1266,7515

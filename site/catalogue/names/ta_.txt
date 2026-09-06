@@ -58,7 +58,8 @@ PREMIER DE TA PROTECTION DE L'ENFANCE	15397
 Popz TA	15670
 Porth TA	771
 Procurement STP São Tomé and Príncipe TA	18777
-Procurement SUW Scale-Up Window TA Technical	3604
+Procurement SUF Scale-Up Facility TA Technical	19239
+Procurement SUW Scale-Up Window TA Technical	3604,15641
 Procurement TA Technical	11380
 Procurement TA Technical Assistance TADAT Tax	16949
 Procurement TA Technical Assistance TC Technical	13331,2290
@@ -108,6 +109,7 @@ TA PROMOTION DU SECTEUR BOURSIER Article	15999
 TA Page	11905
 TA Program	11380
 TA Project	11855
+TA R	19209
 TA TAGANT	17902
 TA Technical Assistance	11965
 TA Technical Assistance TEI Team Europe	970
@@ -116,6 +118,7 @@ TA Technical Assistance TTL Task Team	15511
 TA Technical Assistance USD United States	18754
 TA and ICT	16949
 TA and M&E	11905
+TA for ARCEP	19245
 TA for ARME	11965
 TA for M&E	11905
 TA for PNDS and RBF	15411

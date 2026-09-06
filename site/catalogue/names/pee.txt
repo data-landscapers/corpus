@@ -135,7 +135,7 @@ Peer-to-Peer Lending and Robotic Advisory Services Ministry	14819
 Peer-to-peer	8376,1194,386,837,1201,3128,1478
 Peer-toPeer	11130
 PeerJ	12090
-Peering	3402,3844,2200,1510,3113,741,782,452,501,943,919,172,54
+Peering	3402,3844,2200,1510,3113,741,782,452,501,943,919,172,54,709
 Peering DB	18633
 Peering Day	16545
 Peering Disconnect	16545
@@ -149,7 +149,7 @@ Peering Public Multilatéral	16214
 Peering Rapport WAPF	16545
 Peering Roadshow	17106
 Peering and Transit	14864
-PeeringDB	2954,3611,402,2475,595,1433,907,1692,1,488,252,1234,501,6,937,26,906,213,203
+PeeringDB	2954,3611,402,2475,595,1433,907,1692,1,488,252,1234,501,6,937,26,906,213,203,506
 PeeringDB API	9442
 PeeringDB All Rights Reserved	14881
 PeeringDB Countries	18420

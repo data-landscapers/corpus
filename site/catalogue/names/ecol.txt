@@ -70,6 +70,7 @@ ECOLEX	13949
 ECOLEX Le Décret	17927
 ECOLEX This Decree	11570
 ECOLIT STORE LIMITED Data Controller INST-1806268824D	7167
+EFOFAT ECOLE NATIONALE DES SOUS-OFFICIERS	19251
 EN MANAGEMENT ET TECHNOLOGIES ESPAC-TIC ECOLE	18170
 ENA ECOLE NATIONALE D'ADMINISTRATION ENPC ECOLE	18170
 ENI-ABT Ecole Nationale	12
@@ -95,7 +96,7 @@ ET INFORMATIQUE ESTEL-CATEF ECOLE SUPÉRIEURE PRIVÉE	18170
 ETUDES COMMERCIALES ET FINANCIERES HEGEPRINE ECOLE	18170
 ETUDES MÉDICALES EMIG ECOLE DES MINES	18170
 Ecolabelling	13385
-Ecole	3465,4205,401,198,52,1570,1706,1744,1279,775,61,33,53,13,28,107,30,222,59,249,37,57,276,7,1234,2,98,21,21,235,48,5,33,433,230,129
+Ecole	3465,4205,401,198,52,1570,1706,1744,1279,775,61,33,53,13,28,107,30,222,59,249,37,57,276,7,1234,2,98,21,21,235,48,5,33,433,230,129,105,29
 Ecole Article	17982
 Ecole Expert Génie Informatique Licence Générale	17829
 Ecole Formation Cours Autres	737
@@ -123,6 +124,7 @@ Ecole Normale Supérieure EPT	15673
 Ecole Normale Supérieure de Yaoundé	15480
 Ecole Normale de Toulouse	17873
 Ecole Pay	10942,1
+Ecole Polytechnique de Lomé	19246
 Ecole Pré-Universiteur	18757
 Ecole Républicaine	17979
 Ecole S	18291
@@ -151,7 +153,7 @@ Ecole des Mines	11597,6546,95
 Ecole des Métiers du Numérique	15489,76
 Ecole des N	15489
 Ecole. Le Directeur	15489
-Ecoles	12,13421,261,1780,38,30,394,65,627,1542,856
+Ecoles	12,13421,261,1780,38,30,394,65,627,1542,856,223
 Ecoles Centrales	13694
 Ecoles Coraniques Trésorière	17829
 Ecoles Doctorales	13313
@@ -167,6 +169,7 @@ Ecoles NB Salles Total CASCADES	10847
 Ecoles NB Salles Total CENTRE-NORD	10847
 Ecoles NB Salles Urbain	10847
 Ecoles Normale des Instituteurs	11905
+Ecoles Normales de Formation des Professeurs	19249
 Ecoles Primaires	15528
 Ecoles de Statistiques Africaines CAPI Computer Assisted	15479
 Ecoles par Lot Fourniture	13694
@@ -181,7 +184,8 @@ Ecological Monitoring Center	18309
 Ecological Resources	1988
 Ecological Systems	11006
 Ecologically Friendly Leather Tanning Project	1554
-Ecologie	15375,299
+Ecologie	15375,299,3692
+Ecologie Urbaine	19366
 Ecologique	17873
 Ecologique GËffiELl	15366
 Ecologue-Biologiste	8237
@@ -197,6 +201,7 @@ FINANCIERES EII ECOLE INTERNATIONALE DINGENIERIE EIT	18170
 Forest Ecology and Management	15659
 GEGA GRANDE ECOLE PRIVEE DE GESTION	18170
 GESTION ESCAE ECOLE SUPÉRIEURE DE COMMERCE	18143,27
+GILAT ECOLE DE FORMATION DES OFFICIERS	19251
 GRANDES ECOLES PRIVEES	18143
 GRANDES ECOLES PUBLIQUES	18143
 Gabon. African Journal of Ecology	16996
@@ -248,8 +253,10 @@ Premier Ministère Cabinet Ecole Nationale	17895
 Privé Public Privé NB Ecoles NB	10847
 Programme Ecole des Maris	18286
 Publique ECOLE VETERINAIRE LICENCE	15674
+R&D Universités Ecoles Municipalités	19221
 REGION Ecoles Primaires	18171
 REGION UNIVERSITÉS GRANDES ECOLES TOTAL PUBLIQUES	18143,27
+Reconversion Ecole	19221
 Roads. Journal of Tropical Ecology	16996
 Réseau Ecole Supérieure de Management	17829
 SANTE ESA ECOLE SUPERIEURE DES AFFAIRES	18170

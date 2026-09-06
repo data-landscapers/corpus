@@ -30,8 +30,9 @@ ARCADIA INSURANCE BROKERS LIMITED Data Processor	7167
 ARCAI	1814,5123
 ARCCLA	8052
 ARCEFA	15673
-ARCEP	37,895,51,15,10,197,445,285,76,250,2,106,145,19,21,176,52,19,62,26,49,31,293,57,37,115,28,6,46,73,34,10,2,129,13,82,122,43,123,14,15,65,20,361,101,44,11,9,52,44,38,50,85,48,31,191,316,2,44,67,23,13,51,14,82,29,239,16,354,141,105,82,71,115,112,562,200,100,69,29,424,543,1,328,72,333,20,55,286,109,117,162,175,34,211,43,564,1627,1016,355,725,19,8,23,27,37,7,26,6,33,2,7,29,21,12,17,49,43,121,6,212,13,29,8,20,115,40,96,122,38,1,3,423,77,629,389,17,11,102,4,680,12,2,64,6,1,6,45,144
+ARCEP	37,895,51,15,10,197,445,285,76,250,2,106,145,19,21,176,52,19,62,26,49,31,293,57,37,115,28,6,46,73,34,10,2,129,13,82,122,43,123,14,15,65,20,361,101,44,11,9,52,44,38,50,85,48,31,191,316,2,44,67,23,13,51,14,82,29,239,16,354,141,105,82,71,115,112,562,200,100,69,29,424,543,1,328,72,333,20,55,286,109,117,162,175,34,211,43,564,1627,1016,355,725,19,8,23,27,37,7,26,6,33,2,7,29,21,12,17,49,43,121,6,212,13,29,8,20,115,40,96,122,38,1,3,423,77,629,389,17,11,102,4,680,12,2,64,6,1,6,45,144,10,5,4,3,1,11,3,1,8,5,1,23,23,4,5,20,8,4,24,1,2
 ARCEP Article	37
+ARCEP Autorité	19350
 ARCEP BENIN	15654,660,13
 ARCEP BENIN. CHAPITRE	15654
 ARCEP BENIN. Le Conseil de Régulation	16327
@@ -48,6 +49,7 @@ ARCEP Déposer	18189
 ARCEP Executive Secretary Wendlassida Patrice Compaore	6939
 ARCEP Figure	10856
 ARCEP Government	15424
+ARCEP I Certifiée ISO	19338
 ARCEP I Page	998
 ARCEP I Rapport	18122
 ARCEP II. REALISATIONS DE L'ARCEP EN	16327
@@ -62,7 +64,7 @@ ARCEP Renforcer	998
 ARCEP TOGO	16314
 ARCEP Tchad	19036
 ARCEP Telecommunications and Postal Regulatory Body	15621
-ARCEP Togo	5962
+ARCEP Togo	5962,13271
 ARCEP URL	19199
 ARCEP and ANINF	15511
 ARCEP and ANINF. Given	15447
@@ -80,6 +82,7 @@ ARCEP-200521 Conforme IC-78 Conforme	998
 ARCEP-ABNORM	16115
 ARCEP-CAF	4345,1628
 ARCEP-Tchad	19199
+ARCEP-approved	19297
 ARCEP-run	932
 ARCEP. Auparavant	5170
 ARCEP. Aussi	998
@@ -98,6 +101,7 @@ ARCEP. Rapport	15583
 ARCEP. Rapport Annuel	10856
 ARCEP. Sans ARCEP	3319
 ARCEP. Selon	983
+ARCEP. The Parties	19214
 ARCEP. Un	18122
 ARCEP. Une	983
 ARCEP.préalablement	37
@@ -126,7 +130,7 @@ ARCHMAN HOLDINGS LTD Data Processor INST-943095BFF4E	7167
 ARCOD	8733,2,1,150
 ARCOD. Il	8735,1
 ARCODYM CONDOR IRIS Méthode	16103
-ARCOP	5907,2405,1,3284,4339,181,2034,5,35,36,11,101
+ARCOP	5907,2405,1,3284,4339,181,2034,5,35,36,11,101,903,92
 ARCOP-ANRMP	15936
 ARCOP. L’objectif	8313
 ARCOP. Pour	8312
@@ -228,7 +232,7 @@ Arcadia PRETORIA	11184
 Arcelor Mittal	17257
 ArcelorMittal	7205,10055
 ArcelorMittal Liberia and Firestone	8393
-Arcep	2290,404,964,1086,1490,591,1300,1393,4761,1201,914
+Arcep	2290,404,964,1086,1490,591,1300,1393,4761,1201,914,2936
 Arcep Bénin	5949,8330
 Arcep Togo	5949
 Arcep. Ces	565
@@ -259,6 +263,8 @@ Architecte	15432,110
 Architecte Blaise Ouo Foromo	16611
 Architecte Cloud	18395
 Architecte IA	12079
+Architecte SI	19362
+Architecte Technique	19362
 Architecte-Urbaniste. Au	8321
 Architectes SI Amélioration	14438
 Architectes SI Création	14438
@@ -279,7 +285,7 @@ Architectural Schematic Diagram FIGURE	13005
 Architectural Schematic Diagram for National	13005
 Architectural and Structural	9123
 Architectural and Structural Design	9123
-Architecture	396,544,69,275,656,1456,821,1343,105,718,40,1247,397,136,1034,1947,768,91,140,176,41,31,900,151,269,90,296,301,228,93,635,161,165,84,97,42,94,258,146,159,9,315,173,340,97,289,22,37,20,395,113,21
+Architecture	396,544,69,275,656,1456,821,1343,105,718,40,1247,397,136,1034,1947,768,91,140,176,41,31,900,151,269,90,296,301,228,93,635,161,165,84,97,42,94,258,146,159,9,315,173,340,97,289,22,37,20,395,113,21,790,63,76,2,5
 Architecture All	10616
 Architecture Building Block	6423
 Architecture Built Around Secure Identification	6581
@@ -295,6 +301,7 @@ Architecture Lay	12917
 Architecture Marketing	16266
 Architecture Numérique Nationale	16609
 Architecture Planning	14441
+Architecture SI	19362
 Architecture SNIP	12043
 Architecture Technique	17902
 Architecture Tool Architect	9124
@@ -307,6 +314,7 @@ Architecture des Référentiels de Données	15624
 Architecture des Référentiels de Données R	15624
 Architecture du Plan	15580,381
 Architecture du Réseau Métropolitain	13341
+Architecture entreprise gouvernemental togo	19360
 Architecture of Information Technology	16878
 Architecture of Trust	7471
 Architecturecible	18297
@@ -314,7 +322,7 @@ Architectureréseauinformatique	18297
 Architectures	550,18,20,8017,1552,7725,415
 Architecturesapplicatives	18297
 Archivado	10487
-Archivage	747,569,724,585,1692,6376,175,8,2427,72,302,806,54,1043,4,136,216,167,49,464,1,4,15,72,1134,22,114,141,179,21
+Archivage	747,569,724,585,1692,6376,175,8,2427,72,302,806,54,1043,4,136,216,167,49,464,1,4,15,72,1134,22,114,141,179,21,907
 Archivage Missions	17446
 Archivage Numérique	9277
 Archivage RESPONSABLE CGP CGP CGP DELAI	14424
@@ -327,7 +335,7 @@ Archive Center	13624
 Archive Nationale des Données du Tchad	19204
 Archive Register	18440
 Archive Subscribe Now Desert Radio Podcast	11122
-Archived	2712,1976,1735,156,254,95,949,2993,41,484,593,240,39,173,284,303,31,801,51,6,1,3,136,924,37,14,128,576,2,342,626,289,6,79,17,374,35,399,54,48,127,217,4,1,179,258,25,165,101
+Archived	2712,1976,1735,156,254,95,949,2993,41,484,593,240,39,173,284,303,31,801,51,6,1,3,136,924,37,14,128,576,2,342,626,289,6,79,17,374,35,399,54,48,127,217,4,1,179,258,25,165,101,159,7
 Archived Articles	11220,21
 Archived DO Rating IP Rating Actual	15731
 Archived Documents	11220
@@ -481,6 +489,7 @@ Develop Government Enterprise Architecture	18744
 Development of Enterprise Architecture	16885
 Development of Government Enterprise Architecture	18711,33
 Diagnosing Readiness Gaps and Country Archetypes	2957
+Digital Architecture for Togo’s Health System and Universal	19284
 Digital Archiving Consultancy Ltd. Lynch	12090
 Digital Government Platform. Architecture Overview	12359
 Digital Government Strategy and Enterprise Architecture	12183
@@ -500,6 +509,7 @@ Directorate of Library and Archive Services	12345
 Distributed Active Archive Center	10794
 Distributed Governance Architecture	3861
 Division Manager for Enterprise Architecture	15019
+Documentation Architecture	19360
 Documentation and Archives URL	14029
 Dossier Enquête Interview Reportage Archives AFRIQUE	9620
 Douanes CELLULE DES ARCHIVES	17827
@@ -542,6 +552,7 @@ Enterprise Architectures	21
 EstadoDSP5 DSP1 Não EST-ADM9 Enterprise Architecture	15532
 Etat Faustin Archange Touadéra	1591
 Etat Pr. Faustin Archange Touadéra. Raison	1955
+Etc. Data Design Agile Sécurité Architecture	19221
 Ethiopia. Arch Public Health	8376
 Ethiopian National Enterprise Architecture Framework	13987
 Eurasian Internet Governance Architecture for RIPE NCC	3874
@@ -594,7 +605,7 @@ Gov Enterprise Architecture I-2	10785
 GovSpecs Architecture	6423
 GovStack Architecture	6423
 Government Application Architecture	14965
-Government Enterprise Architecture	963,321,3780,1294,2250,236,3108,1379,1110,84,3834,264
+Government Enterprise Architecture	963,321,3780,1294,2250,236,3108,1379,1110,84,3834,264,622
 Government Enterprise Architecture Framework	5994,11286,114
 Government Platform EA Enterprise Architecture EAF	12359
 Government Wide Enterprise Architecture MoU Minimum	11986
@@ -610,6 +621,7 @@ Government of Rwanda Enterprise Architecture Standards Page	9124
 Government of Rwanda Enterprise Architecture Standards.docx	9124
 Government of Rwanda Enterprise.’ Architecture Framework	12359
 Group Architecture Framework	9124
+Guide architecture national	19362,5
 Génération ARCT Agence de Régulation	13341
 HEA Health Enterprise Architecture PMI Patient	396
 HELD ARCHITECTURE	3200
@@ -633,10 +645,15 @@ ISR Archived	16436
 ISR Archived DO Rating IP Rating	17849
 ISR RATINGS No. Date ISR Archived	17962
 ISRs No. Date ISR Archived	15424,87
+IV.2.4 Archivage	19216
 IX.2. Architecture	15936
+Immeuble ARCEP	19334
+Immeuble ARCEP Call Center	19244,13
 Implement Zero Trust Architecture	10721
 Inaccessibility and Low Maintenance of Medical Data Archive	6948
+Independent ARCEP CEO	19214
 India's Data Empowerment and Protection Architecture	10028
+Indice Architecturer	19362
 Information Architecture Principles	14441
 Information Archiving	21
 Information Communication Technology Architecture	3760,9683
@@ -775,6 +792,7 @@ PIU Government Enterprise Architecture and MINCOTIM	13331
 PIU MFBPE ARCT MFPTE MINSOLID Technical	1284
 PKI Architecture du Réseau Métropolitain	13341
 PRIVACY AND SECURITY ARCHITECTURE	3861
+PRÉLIMINAIRE Archétype	19221
 PalArch’s Journal of Archaeology of Egypt	4432
 Patient Synchronised Application Architecture	1009
 Peace and Security Architecture	17983
@@ -815,6 +833,7 @@ RETIRE Archive	6432
 Radio FREQUENCE MENYA BUJUMBURA ARCT	13414
 Radio Justice BUJUMBURA ARCT	13414
 Rafael Arcanjo Kapose	13275
+Rapport ARCEP Rapport	19220
 Ravel Archard Arland	15692
 Recherche Architecture	15674
 Recommendations Building the Confidence Architecture	11138
@@ -902,6 +921,7 @@ System Architecture As the CBE	11130
 System Architecture and Security Unit	12240
 Systems Architecture Design and Modernization Framework	12758
 Systems Architecture and Deployment Models	13512
+TA for ARCEP	19245
 TACHES ET RESPONSABILITES DETAILLEES A. Architecture	7977
 TAMSAT and ARC2	13686
 TAMSAT. ARC2	13686
@@ -913,6 +933,8 @@ Technology and Architecture Enablement	15034
 Territorial Sea and Archipelagic Waters	18914
 Think of Enterprise Architecture	18510
 Tier Broadband Architecture Framework	11857
+Togo ARCEP	19250
+Togo Archétypes ID ID ID Gateway	19221
 Training Architecture	19079
 Transformation Digitale Cina Lawson. ARCEP	1205
 Trust Architecture	11138
@@ -927,6 +949,8 @@ USF. ARCEP Court Elevée Appuyer	15474
 Une Architecture Africaine	17983
 Unified Digital CRVS Architecture	13589
 Usefulness of ARCEP	5679
+VI.1 ARCHITECTURE ET SCHEMA DE MISE	19216
+VI.1 Architecture	19216
 Very High E. Results ArcGIS	17157
 Visionary Architect and Steadfast Guardian Government	4528,7984
 Vladmir Arcel Idrice	15524

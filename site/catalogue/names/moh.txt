@@ -148,6 +148,12 @@ Clair Hickmann Paulo Paz Mohammed	11532
 Clinique Périnatale Mohammed VI	17882
 Cmmmkamilu Mohamed Yiddish Kargbo	18513
 Coach Mohamed Kallon Reacts	7814
+Collection Indicator Name MOH-UHC	19284
+Collection Indicator Name MoH-UHC	19284
+Collection Indicator Name MoH-UHC Description Frequency	19284
+Collection Indicator Name MoH-UHC RevisePeople	19284
+Collection PDO Outcome MoH-UHC Indicator Name	19284
+Collection Responsibility for Data MoH-UHC	19284
 Collection Responsibility for Data MoHAIS	1867
 Collection Responsibility for Data MoHAIS Collection Number	1867
 Collection Responsibility for Data MoHAIS Collection People	1867
@@ -175,6 +181,7 @@ DAS Zaoui Mohamed Bien	15690
 DCI DG Amin Mohamed	10398
 DCI Director Mohammed I. Amin	10398
 DG Mohamed Assalia Boncana	4404
+DHIS2 Collection MoH-UHC Page	19284
 DHSRQA MoH	9855
 DIG Mohammed Ishaku	10049
 Dahir Osman Mohamed	11596
@@ -194,6 +201,7 @@ Deputy Minister for Home Affairs Ayoub Mohamed	9590
 Deputy Minister of Health Mohamed Hassan Bullale	15119
 Deputy Prime Minister Mahdi Mohammed Gulaid	15119
 Description MoH Computerisation	1666,977,2996
+Description MoH-UHC Frequency ReviseWomen	19284
 Description MoHE Computerisation	5652
 Description The MOH	11417
 Development Abas Mohammed	14121
@@ -425,6 +433,7 @@ ICT IDC IDRC POTRAZ MoU MoHCC	1554
 ICT MoH	34
 ICT Officer MoH	34
 ICT Resources All the MoH Information and Communication	34
+IDRISSOU Mohamadou CCH	19251
 IGAD Deputy Executive Secretary Mohamed Abdi	17803
 Ibnou Mohamed	1943
 Ibrahim Binahmed Mohammed Alnaqbi	1639
@@ -435,6 +444,12 @@ Ikebrou Mohamed Sedigh	17889
 Ikhlas Mohamed Ali	15257
 Implementing MOH Agency	16884
 Indian Prime Minister Dr. Man Mohan	16256
+Indicator Name Description MOH-UHC	19284
+Indicator Name Description MoH-UHC	19284
+Indicator Name Description MoH-UHC Frequency Data	19284
+Indicator Name MoH-UHC Description ReviseChildren	19284
+Indicator Name MoH-UHC Description RevisePeople	19284
+Indicator Name MoH-UHC Description Revised Beneficiaries	19284
 Info Min. Mohammed Idris	7181
 Information Act. Mr. Mohwasa	3360
 Information Minister Mohammed Idris	7181
@@ -462,6 +477,7 @@ K.C.D. Mohadi	3760,9683
 K.C.D. Mohadi's Visit	3760,9683
 KNBS and MOH	12151
 KONET Ahmed Mohamed En	2342
+KOUMEYI Mohamed Amsa SCH	19251
 KPI Green Energy Limited Moh	12576
 KRA Commissioner General Adan Mohammed	9436
 KUR MOHAMMED AVENUE	8590
@@ -500,6 +516,7 @@ Lieutenant General Khalid Hassan Mohieddin	14914
 Lieutenant Kadiatou Mohamed KONATE	17991
 Lower Middle Income Countries MOH Ministry	771
 Luanda Luanda ANDRÉ TCHIPUCUNGO MOHOJOLO MUTIMA	10751
+M&E Monitoring and Evaluation MoH-UHC Ministry of Health	19284
 M. Abdallahi Ould Mohamed Mahmoud	17959
 M. Abdoulkader Kamil Mohamed	4774
 M. Abdul Mohymen Arrgaii	18216
@@ -668,6 +685,8 @@ MOH- Fellowship	17116
 MOH- HR Division	17116
 MOH- ICT Technicians	17116
 MOH-Annual-Performance-Report-2022.pdf Ministry of Health	18937
+MOH-UHC	19284
+MOH-UHC IACV	19284
 MOH-Zambia	13471
 MOH. Community	1219
 MOH. EACU	16971
@@ -743,6 +762,7 @@ Mesoud Mohammed	1824,10431
 Messouda Baham Mohamed Laghdaf	17990
 Methodology for Data Collection MOH	11417
 Methodology for Data Collection MOH Reporting Responsibility	11417
+Methodology for Data Collection MoH-UHC	19284
 Middle East and Europe. Mohamed Assoweh Bouh	2679
 Milad Almin NASIA Omran ALMABROK Mohamed	17403
 Mining VP Mohadi Launches National Child	2987,16
@@ -795,6 +815,7 @@ MoH E.H.R System	2477
 MoH Environmental Health Program Manager	16896
 MoH Functional Review	12240
 MoH Functional Review Report. Ministry of Health	12240
+MoH HMIS	19355
 MoH Head Office	14950
 MoH ICT	34
 MoH ICT Unit	34
@@ -825,6 +846,16 @@ MoH and NISR. Verification	12338
 MoH and PCU	16896
 MoH's System Architecture and Security Unit	12240
 MoH's VPN	34
+MoH-UHC	19284
+MoH-UHC Description IACV Data	19284
+MoH-UHC General Secretariat	19284
+MoH-UHC General Secretariat. PBC Indicator Name	19284
+MoH-UHC IACV The DSNISI	19284
+MoH-UHC Procedure IACV	19284
+MoH-UHC Verification Entity IACV Procedure	19284
+MoH-UHC and PIU2	19284
+MoH-UHC- PIU1 INAM	19284
+MoH-UHC. Data	19284
 MoH. Figure	18478
 MoHAIS	1778,89,121,266,37,1271,133,8758,892,2
 MoHAIS Kalumbila Town Council	1867
@@ -1543,6 +1574,10 @@ Reporting Responsibility for Data Collection The MOH	11417
 Representing MOHESR	16255
 Republic of Uganda Excellence M. Mohamed Ali	13440
 Responsibility for Data Collection MOH	11417
+Responsibility for Data Collection MOH-UHC	19284
+Responsibility for Data Collection MoH-UHC	19284
+Responsibility for Data Collection MoH-UHC Indicator Name	19284
+Responsibility for Data Collection MoH-UHC PDO Outcome	19284
 Responsibility for Data Collection The MOH	11417
 Responsibility for Data Collection The MOH Average	11417
 Responsibility for Data Collection The MOH Cross-border	11417
@@ -1650,6 +1685,7 @@ Sudan Dr. Yahya Abdullah Mohamed Hamad	2958
 Sudanese Minister of State for Finance Mohamed	9776
 Sudanese Minister of State for Finance Mohamed Nour	9859
 Support MoH	12977
+TCHEKPI Mohyo ADJ	19251
 THEIs. MoHERST THEIs GCCI Donor Partners	16927
 Tamer Mohamed	7540
 Tanzania. By Mohamed Hassan	8214

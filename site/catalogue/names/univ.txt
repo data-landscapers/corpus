@@ -43,7 +43,8 @@ Accelerating Universal Health Coverage	12004
 Acceptance Testing UKZN University of KwaZulu-Natal UniLim	11197
 Accessibility and Universality	10775
 Accès Numérique Universel Accélérer	18426
-Accès Universel	1214,6711,1,73,5291,143,2604,344,1443,11,1,20,14,12,12,176,9,26
+Accès Universel	1214,6711,1,73,5291,143,2604,344,1443,11,1,20,14,12,12,176,9,26,1116,5,58
+Accès Universel Aux Soins	19221
 Accès Universel Centres	18079
 Accès Universel Conteneurisés Projet	18079
 Accès Universel Il	13290
@@ -79,7 +80,7 @@ Africa Nazarene University Data Controller INST-44287758F89	7167
 Africa Nazarene University SDG Sustainable Development	12975
 Africa University	2987,1541,7984
 African Developpment University	9357
-African Leadership University	415
+African Leadership University	415,18897
 African Methodist Episcopal University	17011
 African School of Economics and Université	7886
 African Universities	14828,3
@@ -147,9 +148,10 @@ Asmara University	13964
 Assane Seck University of Ziguinchor UCAD	18309
 Assistente Universitário	2816
 Association Universitaire	15493
-Assurance Maladie Universelle	4402,11283,412,1748,78
+Assurance Maladie Universelle	4402,11283,412,1748,78,1320,21,3,17,32,2,9
 Assurance Maladie Universelle ARV	15423
 Assurance Maladie Universelle CAT	15685
+Assurance Maladie Universelle Identification	19284
 Assurance Maladie Univeverselle RGPH Recensement Général	15685
 Astrakhan State Medical University	14839
 Auburn University	5349
@@ -251,6 +253,8 @@ Campus da Universidade de Cabinda	11429,3,47
 Capacity Building and Mentorship Program Universities	1824
 Cape Peninsula University of Technology	8130,4048
 Cardiff University	753
+Care and Universal Health Coverage	19284
+Care and Universal Health Coverage. Due	19284
 Carleton University. Giles-Vernick	10841
 Carleton University. Kitimbo	12297
 Carnegie Mellon University	671,7040,4647
@@ -269,6 +273,7 @@ Censo General de Agricultura DUE Diplomado Universitario	16969
 Central University of Technology	6886,4345
 Central and University Level. Strengthening	17458
 Centre Hospitalier Universitaire	15475,700,1828
+Centre Hospitalier Universitaire CHP	19226
 Centre Hospitalier Universitaire CSCOM	17824
 Centre Hospitalier Universitaire Départemental CHUZ	15475
 Centre Hospitalier Universitaire Gabriel TOURE	17882
@@ -349,7 +354,7 @@ Consumer Protection Universal Access and Service Policy	16886
 Contextualização A Conectividade Universal	11418
 Contre la Pauvreté CSU Couverture Sanitaire Universelle	17907
 Controversy Over Universal Fingerprinting	5700
-Coordinated Universal Time	18484
+Coordinated Universal Time	18484,795
 CopperBelt X X X X University	12376
 Copperbelt University	3791,6556,3018
 Cornell Univ. Press. Mügge	17780
@@ -358,13 +363,18 @@ Cornell University Press	12227,5553
 Cornell University. Disponível	2816
 Council of National Universities	16255
 Countrywide Universal Broadband Availability The Kenya	6133
-Couverture Maladie Universelle	3045,559,4201,53,5857,1781,215,1,45,179,96,2254,4,11
+Couverture Maladie Universelle	3045,559,4201,53,5857,1781,215,1,45,179,96,2254,4,11,920
+Couverture Maladie Universelle Investissement	19221
 Couverture Maladie Universelle L’Etat du Sénégal	18290
 Couverture Maladie Universelle. L’objectif	17845
-Couverture Sanitaire Universelle	7641,217,6764,801,262,1037,788,335,37,383
+Couverture Sanitaire Universelle	7641,217,6764,801,262,1037,788,335,37,383,999,3,17
 Couverture Sanitaire Universelle. Pour	15711
-Couverture Santé Universelle	9273,6922,137,106,3,1441,1106
+Couverture Santé Universelle	9273,6922,137,106,3,1441,1106,233
+Couverture Santé Universelle Ambition	19221
+Couverture Santé Universelle Digitalisation	19221
 Couverture Santé Universelle Indicateurs	18988
+Couverture Santé Universelle P1 Attribution	19221
+Couverture Santé Universelle P9 Augmentation	19221
 Couverture Universelle	17845
 Covenant University and Harvard University	10170
 Covenant University. Peter	10170
@@ -426,6 +436,7 @@ Development of Universal Services	10167
 Development of Universities	13474
 Dhaka University	10852
 Die University of Cape Coast	455
+Digital Architecture for Togo’s Health System and Universal	19284
 Digital Infrastructure. Universally	16942
 Digital Registry of University Spin-off Companies	5167
 Digital Universities	15704
@@ -477,6 +488,7 @@ EM-Gabon Université	11669
 EM-Gabon Université Acteur	11669
 EM-Gabon Université. Cette	11669
 EMCU Eswatini Medical Christian University EMIS	12975
+EPU Examen Périodique Universel FACT Fonds	19220
 ESCCOM Champions Universal Access	13198
 ESCCOM Universal Access Service Fund and Ministry	9197
 ESERA Financial Technology University of Eswatini FATF	12444
@@ -564,7 +576,7 @@ Financial Stability Board UNESWA Universal Service	12444
 Florida Agricultural and Mechanical University	16135
 Fond de Service Universel	13331,4505
 Fonds de Développement du Service Universel. Article	16370
-Fonds de Service Universel	3262,10269,322,1732,960,70
+Fonds de Service Universel	3262,10269,322,1732,960,70,2606
 Fonds de Service Universel. L'ARCT	13482
 Fonds du Service Universel	13301,23,2140
 Fonds du Service Universel de Communications Electroniques	15464
@@ -608,6 +620,7 @@ Georgetown University’s Communication	8788
 Georgetown University’s Tech	5364
 Geospatial Information Expert- Benha University	15473
 Gestion Université Privée du Sahel Licence Droit	17829
+Gestion des Universités du Togo	19209
 Gestão de Recursos Humanos da Universidade de Santiago	16290
 Ghana The University of Professional Studies	8697
 Ghazal University	18670
@@ -675,6 +688,7 @@ IDI Universal	17743
 IE University and NOVAFRICA. Other Primary Investigators	10609
 II- UNIVERSITES	15674
 INKUNGA ACCESS FUND L’ACCÈS UNIVERSEL SERIVISI	1214
+INSTITUANT L'ASSURANCE MALADIE UNIVERSELLE EN REPUBLIQUE	19225
 INSTITUT UNIVERSITAIRE DES SCIENCES DE L'ORGABISATION	15674
 ISBAT University	11829
 ITU Universal	2116
@@ -907,6 +921,7 @@ Ministère Enseignement Supérieur Université Articles	15835
 Miss Universe	14771
 Mitchell. Rhodes University	10076
 Miva Open University and Abuja-based	8780
+Mobilization and Implementation of Universal Service Fund	19214
 Mogadishu University	14949,2695
 Mohammed VI Polytechnic University	1814,15697
 Moi University	899,3662,2385,7600,3200
@@ -1043,6 +1058,7 @@ Ordre Secrétariat Cellule Santé Universitaire	18170
 Organizações da Universidade de Santiago	16290
 Osaka Metropolitan University Hospital	3760,9683
 Oslo University	14923
+Ouest Africaine UK Université de Kara UL	19350
 Oversee Universal	14723
 Oxford University	15244,3326
 Oxford University Economics Department	18318
@@ -1144,6 +1160,8 @@ Providing Pre- University Education Services Program	15578
 Proyecto de Máster Universitarios	4209
 Présidente de Sorbonne Université Cette	6514
 Pró-Reitor da Universidade de Trás-os-Montes	16229
+Public Hygiene and Universal Access	19284
+Public Hygiene and Universal Health Access	19284
 Public Hygiene and Universal Health Coverage of Côte	10928
 Public Universities	13095,27,2042,3465,17
 Public Universities Higher	6832
@@ -1158,6 +1176,7 @@ Queen Mary University London	12227
 Queen Njinga Mbandi University	10776
 Queen’s University	4429
 Quénia Universidade Jomo Kenyatta	2816
+R&D Universités Ecoles Municipalités	19221
 R&D and University	12376
 R&D- Universities	14566
 R.2.1.1. La Couverture Sanitaire Universelle	13325
@@ -1261,6 +1280,7 @@ Santé. Couverture Santé Universelle	16195
 Santé. Couverture Santé Universelle. Accédé	16195
 Sapienza University of Rome	10784
 Saúde Pública da Universidade de São Tomé	18875
+School Assurance Maladie Universelle	19284
 School Institution University of Zimbabwe Internet Society	1154
 Schools and Universities	12675
 Science and Technology and Upper Nile University	18646
@@ -1386,6 +1406,7 @@ TOR Terms of Reference UAF Universal Access	11552
 TRANSLATION AT THE UNIVERSITY	15825,1555
 TSC Timber Sale Contract UTM Universal	16843
 TUT Tshwane University of Technology UAT User	11197
+TVT Télévision Togolaise UCAO-UUT Université	19350
 Tallinn University of Technology	2909,1
 Tampere University	3598
 Tanzania Universal Communications Service and Access Fund	14674
@@ -1418,6 +1439,8 @@ Time Université	8565
 Time and Cost Universally	12328
 Timely and Universal Registration Responses Score	10812
 Times Higher Education World University Rankings	17458
+Togo Essential Quality Health Services for Universal	19284
+Togo’s Universal Health Insurance	19284
 Toronto-based University of Waterloo	9698
 Toulouse Capitole University	11821
 Towama University ADM	18485
@@ -1465,6 +1488,7 @@ UEM Eduardo Mondlane University	12786
 UEM Eduardo Mondlane University WDR World	4214
 UHC Universal Health Coverage UHP	17289
 UHC Universal Health Coverage UNICEF United	15556,2922
+UHC Universal Health Coverage WURI West	19284
 UHC-P UHC Partnership UHI Universal Health	15725
 UHI Universal Health Insurance UNICEF United	11133
 UIS UNESCO Institute for Statistics UMVA Universal	13312,2
@@ -1500,6 +1524,7 @@ UNIVERSAL COVERAGE AND ACCESSIBILITY	10775
 UNIVERSAL HEALTH COVERAGE	10776
 UNIVERSAL HEALTH COVERAGE Eswatini	13163
 UNIVERSAL HEALTH COVERAGE Improved Access	10776
+UNIVERSAL HEALTH COVERAGE PROJECT	19284
 UNIVERSAL MERCHANT BANK	11002,6240
 UNIVERSAL POSTAL UNION	11129
 UNIVERSAL SERVICE	18601,1
@@ -1508,6 +1533,8 @@ UNIVERSAL SERVICE OBLIGATION	14879
 UNIVERSALISATION	14723
 UNIVERSALIZAÇÃO DO BILHETE DE IDENTIDADE	10772
 UNIVERSEL	17819,260
+UNIVERSEL AUX SOINS Direction du Système National	19226
+UNIVERSELLE	19225
 UNIVERSI TE DE BOUMERDES Miel	16103
 UNIVERSIDADE AGOSTINHO NETO	11411
 UNIVERSITAIRE D’ETUDES EN ECONOMIE GENERALE DUEL	18170
@@ -1573,6 +1600,7 @@ UNIVERSITÉS PUBLIQUES	18143
 UNIVISA	14826
 UNU-WIDER United Nations University	11887,266,1,9,178
 UPI AI UNIVERSITE INTERNATIONALE ABOUBACAR IBRAHIM	18170
+UPT Universités	19350
 UPU Union Postale Universelle VSAT Very	16327
 UPU Universal Postal Union	11887,266,1,9,178
 US United States USF Universal Service	16942
@@ -1582,6 +1610,7 @@ USF Universal Service Fund VoIP Voice	13295
 USIU JKUAT Strathmore University K-AIST	12210
 USOF Committee Universal Service Obligations Fund	12911
 USOF Universal Service Obligations Fund	12911
+UST-TG Université	19350
 UTG University of The Gambia VNR Voluntary	16927
 UVRES UNIVERSITAIRES	7670,8505,206,1762,27
 UVRES UNIVERSITAIRES DEA DIPLÔME D’ETUDES APPROFONDIES	18143,27
@@ -1593,7 +1622,7 @@ Uganda Communications Universal Services and Access Fund	11022
 Ukraine Don State Technical University EBSCOhost	12467
 Umeå University	7112
 Unidade de Governação Electrónica da Universidade	18772
-Union Postale Universelle	998,14887,1600,417,220
+Union Postale Universelle	998,14887,1600,417,220,1138
 Union Postale Universelle. D’autres	17485
 United Arab Emirates UHC Universal Health	2775
 United Arab Emirates University	16942
@@ -1618,7 +1647,7 @@ Univ. Manchester GDI	226
 Univ. Montpellier	16359
 Univ. Oslo	6153
 Univ. of Oslo	766,6261
-Univer-	6946,3834
+Univer-	6946,3834,8457
 Univeral Access ECOWAS Engl	16594
 Univercel	15424
 Univeridade Lusíada	18878
@@ -1724,9 +1753,10 @@ Universal FONT SIZE	11129
 Universal Financial Access	10775
 Universal Guidelines for AI	7678
 Universal Health	12976
-Universal Health Coverage	396,508,357,2343,561,136,2093,1060,377,386,717,270,651,474,312,135,89,55,50,498,1,279,256,236,321,8,37,123,276,158,3,58,546,1003,489,294,421,55,9,177,753,318,580,293,139,4,173,34,20,27,23,75,280
+Universal Health Coverage	396,508,357,2343,561,136,2093,1060,377,386,717,270,651,474,312,135,89,55,50,498,1,279,256,236,321,8,37,123,276,158,3,58,546,1003,489,294,421,55,9,177,753,318,580,293,139,4,173,34,20,27,23,75,280,347
 Universal Health Coverage Day	10776
 Universal Health Coverage Program. While the Equity	18301
+Universal Health Coverage Project	19284
 Universal Health Coverage Roadmap	9204
 Universal Health Coverage Services	13982
 Universal Health Coverage System	11536
@@ -1734,6 +1764,8 @@ Universal Health Coverage UKB	10776
 Universal Health Coverage WHO World Health	9855
 Universal Health Coverage World Bank Group	11468
 Universal Health Coverage and Health	15556
+Universal Health Coverage and Insurance	19284
+Universal Health Coverage and Insurances	19284
 Universal Health Coverage. SDP	18370
 Universal Health Coverage. Similarly	11536
 Universal Health Insurance	2419,5288,56,3370,4592,252,964,475
@@ -1791,14 +1823,17 @@ Universal Registration Coverage	16520
 Universal Right	10776
 Universal Serial Bus	12364
 Universal Serial Bus USD	18485
-Universal Service	736,487,5244,367,112,8501,1495,1659,1
+Universal Service	736,487,5244,367,112,8501,1495,1659,1,612
 Universal Service Access Fund	3264,7966,2967
+Universal Service Access Gap	19214
 Universal Service Advisory Council	6946,2390
 Universal Service Advisory Council Licensing	6946
 Universal Service Agency GIFEC	8025
 Universal Service Development Fund	9756,168,2111,4907
 Universal Service Financing Fund	18931
-Universal Service Fund	958,265,647,30,688,325,64,433,98,238,782,334,430,111,131,14,683,715,476,126,1216,454,118,736,325,68,63,120,405,177,705,310,54,143,70,145,17,28,2,55,4,219,120,12,36,162,1,1,17,602,54,319,89,206,73,49,174,413,30,140,33,37,3,68,523,645,34,16,103,723,90,115,489,572
+Universal Service Fund	958,265,647,30,688,325,64,433,98,238,782,334,430,111,131,14,683,715,476,126,1216,454,118,736,325,68,63,120,405,177,705,310,54,143,70,145,17,28,2,55,4,219,120,12,36,162,1,1,17,602,54,319,89,206,73,49,174,413,30,140,33,37,3,68,523,645,34,16,103,723,90,115,489,572,283
+Universal Service Fund Activity	19214
+Universal Service Fund Activity. The Parties	19214
 Universal Service Fund Ad	10856
 Universal Service Fund Agreement	13150
 Universal Service Fund Cell Tower Initiative	1572
@@ -2006,7 +2041,7 @@ Universities and TVET	13991
 Universities of Cornell	11133,9
 Universities of Dr. John Garang Memorial University	18646
 Universities of Niamey and Tahoua	18125
-University	582,317,101,1093,682,212,399,740,322,543,674,389,314,315,149,319,323,74,474,108,473,257,155,113,1,83,486,157,488,198,59,340,23,1,234,117,21,103,418,12,102,37,17,174,5,1,5,31,116,39,17,44,266,194,61,111,6,114,28,58,19,163,154,185,850,173,77,81,59,90,18,38,42,216,93,51,100,21,1127,59,10,29,199,11,187,111,114,163,227,501,49,109
+University	582,317,101,1093,682,212,399,740,322,543,674,389,314,315,149,319,323,74,474,108,473,257,155,113,1,83,486,157,488,198,59,340,23,1,234,117,21,103,418,12,102,37,17,174,5,1,5,31,116,39,17,44,266,194,61,111,6,114,28,58,19,163,154,185,850,173,77,81,59,90,18,38,42,216,93,51,100,21,1127,59,10,29,199,11,187,111,114,163,227,501,49,109,616
 University 21.pdf for Uganda	15164
 University ADM	18485
 University ARTIFEX University of Romania Fotabe U	12467
@@ -2097,6 +2132,8 @@ University of Basel	7418,3501
 University of Bath	6948,7897
 University of Batna	8606
 University of Belgrade	10780
+University of Berkeley	19237
+University of Berkeley School of Informatics	19237
 University of Birmingham	9145,5591
 University of Bisha	17648
 University of Blida	2124
@@ -2115,7 +2152,9 @@ University of Bujumbura	13358
 University of Burundi	7955,5357,2
 University of Business and Technology	17648
 University of Cabo Verde	6037
-University of California	137,2057,1932,2820,1583,1130,80,2872,346,1943,3343
+University of Cali-	19237
+University of California	137,2057,1932,2820,1583,1130,80,2872,346,1943,3343,1029
+University of California Berkeley	19237
 University of California Press. Beauchesne	7886
 University of California Press. Inglehart	7886
 University of California-Los Angeles	9786
@@ -2191,6 +2230,7 @@ University of Johannesburg. CAIR	11336
 University of Juba	3583,459,14574,4,1,3,22,3,1,20,30
 University of Juba and UNDP South Sudan	18621
 University of Kabianga	14546
+University of Kara	19245,27
 University of Katyavala Bwila	10776
 University of Khartoum	14897,323,37,15
 University of Khartoum and Advisor	15203
@@ -2214,6 +2254,8 @@ University of Limpopo UniVen University of Venda VMOG	11197
 University of Liverpool	2308,10643
 University of Liverpool. Sam	12951
 University of Livingstonia	13095
+University of Lomé	19245,3,24,47,46
+University of Lomé. Politically	19248
 University of London	1246,3650,6235,3
 University of London Press	7278
 University of Louvain	13394
@@ -2224,6 +2266,7 @@ University of Malawi. Email	12278
 University of Malawi. Handover	12241
 University of Manchester	226,4670,4336
 University of Manchester Institute of Science and Technology	6946
+University of Mannheim	19237
 University of Marien Ngouabi	15553
 University of Maroua	6131
 University of Maryland	5367,1588
@@ -2407,7 +2450,7 @@ University’s Brikama Campus	17347
 University’s International Office	17735
 Università	8774
 Universitário. Fiscalização	10750
-Université	12,939,296,3155,205,1161,573,618,42,885,246,189,245,478,1150,65,93,140,1,83,245,2062,431,232,302,658,129,269,360,93,211,64,38,20,30,115,93,189,227,15,126,1099,308,90,123,16,22,27,97,49,13,40
+Université	12,939,296,3155,205,1161,573,618,42,885,246,189,245,478,1150,65,93,140,1,83,245,2062,431,232,302,658,129,269,360,93,211,64,38,20,30,115,93,189,227,15,126,1099,308,90,123,16,22,27,97,49,13,40,852
 Université AUBE NOUVELLE	15494
 Université Abdelmalek Essaadi	17501
 Université Abdelmalek Essaâdi de Tétouan	8876
@@ -2535,7 +2578,9 @@ Université William Booth	16200
 Université de Bamako	12
 Université de Bangui	2907,12539
 Université de Bangui URL	15446
+Université de Berkeley	19246
 Université de Berkeley. Avec	7282
+Université de Berkeley. Il	19336
 Université de Bobo-Dioulasso	10259
 Université de Boumerdes NA ISO	16103
 Université de Boumerdes Nouveau	16103
@@ -2544,6 +2589,7 @@ Université de Béjaia NF H	16103
 Université de Béjaia P NA ISO	16103
 Université de Béjaia Révision	16103
 Université de Béjaia Révision NA	16103
+Université de Californie	19349
 Université de Cambridge	16634
 Université de Cocody	8895
 Université de Cocody-Abidjan	12133
@@ -2562,6 +2608,9 @@ Université de Dosso. Conçu	18279
 Université de Dschang. Tél	10826
 Université de Franche-Comté	14666
 Université de Greenwich	10642
+Université de Kara	19221,39
+Université de Kara LE PRESIDENT DU CONSEIL	19260
+Université de Kara. Article	19260
 Université de Kinshasa	15682,711,213
 Université de Kinshasa URL	15682
 Université de Kinshasa. Ceci	15682
@@ -2570,8 +2619,14 @@ Université de Kinshasa. Il	3301
 Université de Kyoto	18265
 Université de Lausanne	11006
 Université de Liège	16281,78
-Université de Lomé	2966,5654
+Université de Lomé	2966,5654,10601,22,10,7,14,21
+Université de Lomé LE PRESIDENT DU CONSEIL	19260
+Université de Lomé UPS United	19350
+Université de Lomé. Article	19260
+Université de Lomé. L’ambition	19317
 Université de Lomé. Opérationnalisation du Centre	2966
+Université de Lomé. Organisé	19339
+Université de Lomé. Sur	19243
 Université de Lubumbashi	15670
 Université de Madras	15357
 Université de Mahajanga	14622
@@ -2617,6 +2672,7 @@ Université des Sciences Techniques	17829
 Université du Burundi	13290,11,104,28,98
 Université du Burundi Astère NDUWAMUNGU	13630
 Université du Burundi. C’est	13530
+Université du Bénin	19260
 Université du Cap. Elle	8433
 Université du Sine Saloum El Hadji Ibrahima	8269
 Université du Sine-Saloum El Hadj Ibrahima Niass	18324
@@ -2626,7 +2682,8 @@ Université- Administrateur	17827
 Université-Entreprise	17827
 Université. Après	16117
 Université. Ses	15670
-Universités	12,2502,452,4035,1268,256,41,2145,2579,51,1082,934,155,30,170,224,239,441,1,24,33,1162,20,127,117,24,19,27,116,9,11,101,477
+Universités	12,2502,452,4035,1268,256,41,2145,2579,51,1082,934,155,30,170,224,239,441,1,24,33,1162,20,127,117,24,19,27,116,9,11,101,477,337,142
+Universités Agences	19221
 Universités Makerere	15682
 Universités Nombre	15999
 Universités Privé	18286
@@ -2639,6 +2696,7 @@ Universités Recherche	15848
 Universités Sauf	17856
 Universités Secteur	17856
 Universités Stockage Universités	14423
+Universités du Togo	19260
 Universum	7759
 Univerzitet	10780
 Univerziteta	10780

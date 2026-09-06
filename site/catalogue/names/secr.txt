@@ -441,6 +441,7 @@ DCO Secretary-General Deemah Al Yahya	14334
 DCO Secretary-General Deemah AlYahya	7169
 DE DECRETS PORTANT NOMINATION AU de Secrétaire	17827
 DE LA JUSTICE SECRETARIAT GENERAL DIRECTION	18111
+DE LA PRESERVATION DU SECRET INDUSTRIEL	19208
 DE LA SECRETARIA TÉCNICA DEL ORGANO	163
 DES MEDIAS SERVICES CENTRAUX SECRETARIAT GENERAL	16381
 DETAILS OF THE COMPANY SECRETARY	4896
@@ -668,6 +669,7 @@ FQSE Secretariat	18460
 FSDS Secretariat	12701
 FSTS Food Security Technical Secretariat GDP	15118
 FURTHER DIRECTS the Secretariat	19067
+Facebook Twitter LinkedIn Le Ministre Secrétaire	19281
 Fanta CISSE M Commerce Secrétaire	16620
 Fanta DIAKITE Secrétaire	17833
 Fanta SISSOKO Secrétaires	17828
@@ -970,10 +972,10 @@ Le SecrÃ	18040
 Le SecrÈtaire	15410
 Le Secréioire	15429
 Le Secréioriot	15429
-Le Secrétaire	2966,207,3716,465,489,394,340,765,2334,1616,2277,1111,1181,38,31,18,84,62,25,31,101,76,102,710
+Le Secrétaire	2966,207,3716,465,489,394,340,765,2334,1616,2277,1111,1181,38,31,18,84,62,25,31,101,76,102,710,80
 Le Secrétaire Exécutif	9164,4126,1247,3275,143
 Le Secrétaire Exécutif du SETIC	13290,51
-Le Secrétaire Général	7470,5859,116,3024,1202,430,969
+Le Secrétaire Général	7470,5859,116,3024,1202,430,969,171
 Le Secrétaire Général Adjoint du Ministère	9668
 Le Secrétaire Général du Gouvernement	9287,1618,692,3307,1395,63,123,1099,365,42,56,47,133,11
 Le Secrétaire Général du Gouvernement ABDOU DANGALADIMA	18115,1
@@ -990,7 +992,7 @@ Le Secrétariat Exécutif	10876,6936
 Le Secrétariat Général	14417,3684,42,27
 Le Secrétariat Général du Gouvernement	3121
 Le Secrétariat Permanent du Conseil National	16616
-Le Secrétariat Technique	17983
+Le Secrétariat Technique	17983,1258
 Le Secrétariat Technique Permanent	15848
 Le Secrétariat Technique Permanent du Conseil National	18169
 Le Secrétariat du CAPP	16037
@@ -1134,6 +1136,8 @@ Mme COULIBALY Diénèba DIARRA Secrétaire	17841
 Mme Condé Secrétaire	17899
 Mme Juliette Armande MEDZA M’AKOUE. Secrétaires	16381
 Mme SAFOUS Samantha Romy. SECRÉTARIAT GÉNÉRAL	16381
+MoH-UHC General Secretariat	19284
+MoH-UHC General Secretariat. PBC Indicator Name	19284
 Moctar DIEPKILE Secrétaire	17982
 Moctar MAÏGA Secrétaire	17833
 Mohamadou HAIDARA Secrétaire	17829
@@ -1696,6 +1700,7 @@ SERVICES EXTERIEURS SECRETARIAT GENERAL	16175
 SETIC Executive Secretary and PAFEN	6061
 SETIC Secrétariat Exécutif des TIC SIF Land	13312,2
 SETIC- Secrétariat Exécutif des Technologies	13395
+SG Secrétariat	19216
 SGCB-UMOA Secrétariat Général	4459
 SGG Secretary General	13861
 SGG-CM Secrétariat	15961
@@ -1719,6 +1724,7 @@ SPIVTEN Permanent Secretary Dr. Yaya Traoré	7361
 SPLM Secretary for Political Affairs	17676
 SPLM Secretary-General	17676
 SS-IGF Secretariat	18674
+ST-DSRP Secrétariat	19216
 STATEMENT FROM THE PERMANENT SECRETARY	14746
 STI Hub Secretariat	19119
 STI Secretariat	14355,3300
@@ -1755,7 +1761,7 @@ Secrecy and Eavesdropping	15340
 Secrecy of Information	18600
 Secrecy of Postal	15340
 Secrel	15429
-Secret	1187,2674,2571,4404,1150,1337,1089,690,261,66,165,41,2193,291,191
+Secret	1187,2674,2571,4404,1150,1337,1089,690,261,66,165,41,2193,291,191,908
 Secret Data	6432
 Secret Detention	17950
 Secret GCSP	6432
@@ -2173,7 +2179,7 @@ SecréIoire	15429
 SecréToire	15429
 Secréloire Générol	10813
 Secréloriot	15429
-Secrétaire	324,1384,40,694,473,16,557,178,133,168,313,494,949,184,558,217,19,158,4,26,444,337,46,83,38,141,185,74,32,44,8,23,377,29,72,69,65,325,144,806,282,372,166,100,525,1614,2,83,30,183,84,21,65,126,16,525,6,106,2,298,467,46,66,4,12,56,81,33,83,42,17,19,6,16,2,141,8,111,52,27,42,7,2,110,198,108,23,37,16,3,13,24,1,16,722,23,113,228,5,2,8,1,1,4,8,4,3,13,21,17,50,3,8,22,9,12,29,62,7,4,14,46,23,63,35,11,25,5,12,42,19,2,1,9,17,497,66,44,19,15,97
+Secrétaire	324,1384,40,694,473,16,557,178,133,168,313,494,949,184,558,217,19,158,4,26,444,337,46,83,38,141,185,74,32,44,8,23,377,29,72,69,65,325,144,806,282,372,166,100,525,1614,2,83,30,183,84,21,65,126,16,525,6,106,2,298,467,46,66,4,12,56,81,33,83,42,17,19,6,16,2,141,8,111,52,27,42,7,2,110,198,108,23,37,16,3,13,24,1,16,722,23,113,228,5,2,8,1,1,4,8,4,3,13,21,17,50,3,8,22,9,12,29,62,7,4,14,46,23,63,35,11,25,5,12,42,19,2,1,9,17,497,66,44,19,15,97,87,31
 Secrétaire Adjoint du Conseil des Ministres	16175
 Secrétaire Cénéral	15416
 Secrétaire Dans	13405
@@ -2186,7 +2192,7 @@ Secrétaire Exécutif. L'ordre	16327
 Secrétaire Exécutif. Le Conseil de Régulation	16327
 Secrétaire Exécutive Coordonnées	15712
 Secrétaire General du Gouvernement	16640
-Secrétaire Général	548,683,4583,540,4138,344,1108,1697,140,714,858,65,60,157,40,159,3,99,65,98,76,20,8,47,131,235,56,6,44,949,141,36,38,92,92,25,6,18,24,6,4,16,1,18,114,600,288
+Secrétaire Général	548,683,4583,540,4138,344,1108,1697,140,714,858,65,60,157,40,159,3,99,65,98,76,20,8,47,131,235,56,6,44,949,141,36,38,92,92,25,6,18,24,6,4,16,1,18,114,600,288,81,50,22,2,2,15
 Secrétaire Général Adjoint	548,683,5069,3267,6434,174,206,1762,27,901
 Secrétaire Général Adjoint du Gouvernement	13737
 Secrétaire Général Adjoint du Gouvernement. Cette	13753
@@ -2197,6 +2203,7 @@ Secrétaire Général BSD	16722
 Secrétaire Général Coordonnées	15712
 Secrétaire Général Direction	14488,1,1
 Secrétaire Général Kabèlè SOUMAH	16673
+Secrétaire Général M. KASSIME TIDJANI	19309
 Secrétaire Général RAZAFINDRAKOTO Iouri Garisse	14581
 Secrétaire Général de Ministère	16099
 Secrétaire Général de Ministère. Il	16099
@@ -2210,7 +2217,7 @@ Secrétaire Général du MATD	16723,23
 Secrétaire Général du MCNTI	18236
 Secrétaire Général du MFBSB	13796
 Secrétaire Général du MVUH	13898
-Secrétaire Général du Ministère	10712,1232,2518,950,1233,1185,15,260,91,33,132,650
+Secrétaire Général du Ministère	10712,1232,2518,950,1233,1185,15,260,91,33,132,650,260
 Secrétaire Général du Ministére	15406
 Secrétaire Général du SYNPIS	18169
 Secrétaire Général. Cette	16723
@@ -2269,10 +2276,11 @@ Secrétaires de Cabinet du Vice-Président du Gouvernement	16099
 Secrétaires de Greffes	18003
 Secrétaires. Le Président du Conseil Economique	15703
 Secrétare	15744
-Secrétariat	737,942,1020,267,571,409,1880,79,19,390,992,792,171,52,203,226,141,102,288,641,609,316,27,1,1,26,728,102,200,1358,11,33,99,98,222,597,187,159,652,28,7,14,2,15,2,2,11,2,7,41,10,23,13,17,13,25,8,88,11,33,49,18,114,100,79,19,9,179,12,63,123,21,110,26,72,667,67,17,24,3,271,54,5,2,3,1,1,1,11,1,14,5,21,17,43,5,35,1,49,62,49,26,1,84,32,5,31,5,68,38,509,24,6
+Secrétariat	737,942,1020,267,571,409,1880,79,19,390,992,792,171,52,203,226,141,102,288,641,609,316,27,1,1,26,728,102,200,1358,11,33,99,98,222,597,187,159,652,28,7,14,2,15,2,2,11,2,7,41,10,23,13,17,13,25,8,88,11,33,49,18,114,100,79,19,9,179,12,63,123,21,110,26,72,667,67,17,24,3,271,54,5,2,3,1,1,1,11,1,14,5,21,17,43,5,35,1,49,62,49,26,1,84,32,5,31,5,68,38,509,24,6,244
 Secrétariat Attaché	17827
 Secrétariat CNIG	17983
 Secrétariat CNIG Disponibilité	17983
+Secrétariat Central	19334
 Secrétariat Disponibilité	17983
 Secrétariat Disponibilité Non	17983
 Secrétariat Disponibilité Taux	17983
@@ -2319,11 +2327,12 @@ Secrétariat Permanent du Fonds	17121
 Secrétariat Permanent du PRODESS	17845
 Secrétariat Permanent du Plan Sectoriel	18942
 Secrétariat Permanent. G. OUTILS DE SUIVI	17842
-Secrétariat Technique	10965,4547,173,163,125,2010
+Secrétariat Technique	10965,4547,173,163,125,2010,1233
 Secrétariat Technique PGO	15579
 Secrétariat Technique PGO Sis Avenue	15579
 Secrétariat Technique Permanent	15479,369
 Secrétariat Technique Permanent du Conseil National	18169
+Secrétariat Technique du CNS	19216
 Secrétariat Technique du PAN-GIIG. CONCLUSION GÉNÉRALE	17983
 Secrétariat Technique du Registre Social Unique	16384
 Secrétariat de Coordination des Statistique du Secteur Eau	17827
@@ -2498,6 +2507,7 @@ Transfer Secretaries Sponsoring Broker OTC Trading	4896
 Transfer Secretaries. Such	4896
 Transition Ministre Secrétaire	17982
 Transport Sector The Secretary General	15184
+Travail-Liberté-Patrie SECRETARIAT GENERAL	19208
 Treasury Cabinet Secretary	8949
 Treasury Cabinet Secretary John Mbadi	3015,5688,3551
 Treasury Secretary Scott Bessant. Moonshot	8788
@@ -2589,6 +2599,7 @@ Vie Privée. Le Secrétariat Général	1231
 Vincent DOUMBIA Secrétaire	17899
 Visiting Eswatini Principal Secretary	13477
 Vocal Consejo General de Justicia Secretario Consejo	4209
+Vème République SECRETARIAT GENERAL Direction	19285
 W Software SGE Secrétariat Général	13341
 WAPP Secretariat	18374
 WATAF Executive Secretary	5351,4871,350

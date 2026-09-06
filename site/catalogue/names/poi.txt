@@ -152,6 +152,7 @@ Data Points	14778
 Data Points Scope	14778
 Data for Cameroon Internet Exchange Point	16551
 Data for Mauritius Internet Exchange Point	14810
+Data for Togo Internet Exchange Point	19342
 Demand Points and ICT Training DBI	11857
 Demerit Points System	11774
 Deployment of Access Point Name	12241
@@ -187,6 +188,7 @@ Establish Focal Points	1000
 Etats Généraux. POINT DE SITUATION DES	15673
 Ethiopia's New Digital Strategy Poised	12183
 Eugenie Poirot	16422
+Europe and America Local Internet Exchange Point	19259
 Eve Gabriel of Pointe Larue	19049
 Exchange Point	12622,121,961,1174,3
 Exchange Point Filter Peer Name IPv4	18579
@@ -208,7 +210,7 @@ Fixed Office and Service Points Districts Local	8999
 Fixed Office and Service Points Geographic Coverage	8999
 Floating Point Operations Data Protection Per	4126
 Floating Point Operations Per Second	4126
-Focal Point	14753,2196,1421,540
+Focal Point	14753,2196,1421,540,355
 Focal Point Person	1778
 Focal Point for Sierra Leone	18578
 Focal Point for WMO	18787
@@ -274,6 +276,7 @@ Identification des Points Focaux Pour	17983
 Identification des Points Focaux Un	17983
 Identification des Points Focaux Un Point Focal	17983
 Impacts CONTACT POINT World Bank Juan	16675
+Importations Poids	19250
 Information CAP Community Access Point CRAN	12973
 Infrastructure Key Discussion Points	17260
 Infrastructure PoS Point of Sale Education Development	16942
@@ -349,6 +352,7 @@ Liberia Internet Exchange Point	16872
 Liberia Internet Exchange Point Association	17106
 Liberian Internet Exchange Point	16849
 Liberia’s Internet Exchange Point	17106
+Lieutenant-colonel POIDY Tignokpa	19251
 Limited Registration Points	12761
 List of Counterparts and Respective Focal Point	16902
 List of Counterparts and Respective Focal Point Organization	16902
@@ -436,9 +440,11 @@ PLACE DU POINT D’ECHANGE INTERNET	17832
 PMO Project Management Office POA Point	11857
 PMS Premium Motor Spirit PoS Point	718
 POIDS	13300
+POIDS Budget	19250
 POIDS DES PROFILS DANS LE PERSONNEL	18169
 POIDS EN KG	13300
 POIDS EN KILOGRAMMES. KG	13300
+POIDS NET	19291
 POINT	16854,261
 POINT APPLICATION FORM	736
 POINT DE PRESSE RELATIF A L'ARRET	10923
@@ -480,7 +486,7 @@ Place de Pointe-Noire	16177
 Place du Point	17832
 Planning and Housing DRM Focal Points Ministry	18198
 Poaty Bernard de Pointe-Noire	15493
-Poids	2342,624,8978,1356,2098,201,2346,224
+Poids	2342,624,8978,1356,2098,201,2346,224,1047,5,29
 Poids des IPP	10975
 Poids des MPME	11944
 Poids-pour	18312
@@ -541,6 +547,7 @@ Point of Care	14394
 Point of Common Coupling	11269
 Point of Contact	11190
 Point of Delivery	14867
+Point of Entry	19354
 Point of Presence	2913,226,723,10606,396,963
 Point of Presence R&D	13956
 Point of Sale	1925,924,28,1848,1728,9,516,931,169,40,4064,1122,302,426,887,33,2080,203
@@ -636,7 +643,7 @@ Pointe-noire	15848
 PointeNoire	15780
 Pointed	13387
 Pointing	34,9642,1419,6565
-Points	164,6795,696,1582,1263,211,165,376,683,108,85,99,168,642,57,196,1,84,6,87,1094,60,275,645,82,15,73,8,18,36,74,37,162,281,217,7,287,167,62,751,4,19,59,60,116,502,374
+Points	164,6795,696,1582,1263,211,165,376,683,108,85,99,168,642,57,196,1,84,6,87,1094,60,275,645,82,15,73,8,18,36,74,37,162,281,217,7,287,167,62,751,4,19,59,60,116,502,374,385
 Points Development Discoveries Education	9989
 Points Focaux	15383,2600
 Points Focaux Genre des Directions Départementales	15383
@@ -674,6 +681,7 @@ Poisons and Medicines Regulatory Authority	12253
 Poisson	14123,1924
 Poisson Ministère	17841
 Poisson SNAT Schéma Nationale	17907
+Poissongui	19252
 Policy Reference Point The FAIR Guidelines	14565
 Portant Cadre Réglementaire du Point D'échange Internet	13313
 Possible Reflection Points	18483
@@ -693,7 +701,7 @@ Public Internet Access Points	14965
 Public Key Infrastructure POS- Point of Sales	11955
 Public Key Infrastructure Proof-of-Concept Point of Sale	11130
 Public Wi-Fi and Access Points	17260
-Puissance de Pointe	17868
+Puissance de Pointe	17868,1427
 Quatre Points	16415
 Qwiper Points	12128
 RCCM Pointe-Noire N	15426
@@ -791,6 +799,8 @@ Temperature Ice Point Reference	14736
 Terminal de Point de Vente	14483
 Tipping Point	1828,4584,7456
 Tipping Point BURUNDI EAC	13624
+Togo Internet Exchange Point	19342
+Transit Poids	19250
 Transit Point	4993
 Trust Breakdown Points	11138
 Turning Point	13123
@@ -805,7 +815,10 @@ Utilities Power Points and Lightings	14778
 V Pointe-Noire	15799
 V Tinkisso Pointes	16714
 V de Pointe-Noire	15799
+VALEUR POIDS NET	19291
+VALEUR POIDS NET VALEUR	19291
 VLP Virtual Landing Point WACREN West	18931
+Valeur Poids	19250
 Virtual Landing Point	14864,3006
 Vitals Collection Points	15798
 Vult Pay Point	2749

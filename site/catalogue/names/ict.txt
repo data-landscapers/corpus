@@ -80,7 +80,7 @@ Aligning ICT Skills Training	12214
 Alignment of ICT Policy	14879
 Alignment of ICT Procurement	10157
 All Heads of ICT	13308
-All ICT	34,924,10273,1686,4007
+All ICT	34,924,10273,1686,4007,2321
 All MoH ICT	34
 Amend ICT Act	14723
 Amended ICT Sector Code	6183
@@ -374,6 +374,7 @@ Digital Skills The ICT Hub	8661
 Digital Transformation Strategy and ICT Strategy	12241
 Digital and ICT	6832
 Digitalisation and ICT	14729
+Digitalization and ICT Regulation Impact the Global Economy	19245
 Direct Award Grant ICT Standardisation	1458
 Direct Award Grant ICT Standardisation European	1458
 Director Communications. The ICT Directorate	13361
@@ -656,7 +657,7 @@ Govt-2024. The ICT Agency	16885
 Green ICT	3604,8849,892,1407,801,591
 Green ICT Framework	6946
 Green ICT Standards	6539,9605,2360
-Green ICT Standards and Supplements	1284,2320,2935,9014
+Green ICT Standards and Supplements	1284,2320,2935,9014,3692
 Green ICT and E-Waste	16861
 Green ICT's Build	12453
 Green ICTs	12395
@@ -671,6 +672,7 @@ Gwaske. The ICT Service-Wide Department	10063
 HCI and ICT4D	4439
 HDI Human Development Index ICT Information	16885
 HEI Higher Education Institution ICT Information	13331
+HLO High-Level Objective ICT Information Technology	19245
 HMIS Health Management Information Systems ICT	13346
 HOUSEHOLD ACCESS TO ICT PRODUCTS	582
 HOUSEHOLD SURVEY ON ICT IN GHANA	582
@@ -845,6 +847,7 @@ ICT Common Service Personnel	12917
 ICT Common Services	12917
 ICT Common Standards	12917
 ICT Communicati	12972
+ICT Communications	19245
 ICT Competency Framework for Teachers	899
 ICT Competency Framework for Teachers. Retrieved	899
 ICT Completed	6133
@@ -1094,6 +1097,7 @@ ICT Manager Mr. Chris Opit	34
 ICT Managers	11231,3933
 ICT Manufacturing	236
 ICT Market	26,1,1,933
+ICT Market Competition	19214
 ICT Market Indicators	16872
 ICT Market Observatory	15120
 ICT Market Observatory Framework	15120
@@ -1213,7 +1217,7 @@ ICT Professional Skill	16861
 ICT Professional Skills	16861
 ICT Professionals	2288,16222
 ICT Programme	5298
-ICT Project	3678
+ICT Project	3678,15536
 ICT Project PM6 Establish Project Management	12917
 ICT Projects	1670
 ICT Projects Implementation and Development	16885
@@ -1225,6 +1229,7 @@ ICT Questionnaire	11211,51
 ICT REGULATION Lesotho	12695
 ICT Regulation	215,6731,5062,377
 ICT Regulation Impact the Global Economy	3604
+ICT Regulation. Available	19245
 ICT Regulations	16884
 ICT Regulator	13314,5171
 ICT Regulator NatCA	18485
@@ -1279,6 +1284,7 @@ ICT Sector Code. ICASA	5060,748
 ICT Sector Code. Icasa	6183
 ICT Sector Code. Whatever	4242
 ICT Sector Data Analytics	17407
+ICT Sector Demand-Side	19214
 ICT Sector GDP	12395
 ICT Sector Growth	6562,6733,2334
 ICT Sector Growth ICT Sector	13295
@@ -1293,6 +1299,7 @@ ICT Sector Market Report	774,239,266,665,78
 ICT Sector Namibia’s ICT	12325
 ICT Sector Performance Statistics	13346
 ICT Sector Players	4528,7984
+ICT Sector Project	19214,65
 ICT Sector Report of South Africa	11211,51
 ICT Sector Reports	5872
 ICT Sector Revenues	14897
@@ -1301,6 +1308,7 @@ ICT Sector Statistics Report	8535
 ICT Sector Strategic Plan	3013,4484,4836,2588,243
 ICT Sector Strategy	1818,9711
 ICT Sector Strategy for STP	18754
+ICT Sector Supply-Side Study	19214
 ICT Sector Support	109,14779
 ICT Sector Support Project	14888
 ICT Sector Telecom Namibia Mobile Telecommunications	1013
@@ -1415,6 +1423,8 @@ ICT Usage	14723,2252,1956
 ICT Use	11195,7246
 ICT Use and Livelihoods of Women Micro-enterprises	11994
 ICT Use of Any	15164
+ICT Utilization Activity	19214
+ICT Utilization Policy Planning and Program Design	19214
 ICT Village	7358,1
 ICT Week	8988
 ICT White Paper	2117,3304
@@ -1521,7 +1531,7 @@ ICT-Related Jobs Across Sectors	16975
 ICT-Strategic-Plan-2020-2030.pdf	15164
 ICT-access	1242
 ICT-adjacent	6832
-ICT-based	34,202,269,76,324,9211,166,2691,373,1651,414,1113,451
+ICT-based	34,202,269,76,324,9211,166,2691,373,1651,414,1113,451,2239
 ICT-competency	11750
 ICT-conversant	14723
 ICT-dependent	16885
@@ -1810,7 +1820,7 @@ ITIDA for ICT	7397
 ITU DataHub ICT Households and Individuals ICT	14098
 ITU Global ICT Development Index	14674
 ITU Global ICT Regulatory Outlook	16942
-ITU Green ICT	3604
+ITU Green ICT	3604,15641
 ITU ICT	173,11390,3111,797
 ITU ICT Development Fund. USD	691
 ITU ICT Development Index	3410,340,7014,3910
@@ -1840,6 +1850,7 @@ Identifying Targeted Areas of Subsequent ICT4D Action	16861
 Impact Analysis of ICT	16872,103
 Impact of ICT	10726,1201
 Implement ICT	12214,2460
+Implementation of ICT Utilization Programs	19214
 Implementation of ICT4D	16861
 Implementing Agency ICT Agency	16885
 Implementing Agency The ICT Agency	16885
@@ -2737,6 +2748,7 @@ Support Tunisia's ICT	6175
 Support for Digital Literacy Project ICT Club	11204
 Support for ICT	11857
 Support for ICT Local Content. Improving	11857
+Support for ICT Utilization Policies	19214
 Support the ICT	958
 Support the Operationalization of The Gambia ICT Agency	16926
 Supporting ICT	18485
@@ -2778,13 +2790,13 @@ Technology Analyst ICT Burkina Office Pierre	10812
 Technology ICT	14879
 Technology ICT Development Index Information Technology	15480
 Telecom ICT	15372
-Telecom and ICT	3604
+Telecom and ICT	3604,15641
 Telecom and ICT Regulator	11552
 Telecommunication and ICT	18746
 Telecommunications and ICT Sector	3604
 Telecommunications and ICT Sector TechAfrica News	6547
 Telecommunications and ICT Services	16144
-Telecommunications and ICT Services Sector	3604,2935,11965
+Telecommunications and ICT Services Sector	3604,2935,11965,741
 Telecommunications and New ICTs	2244,2505
 Telecommunications and Postal Regulatory Authority ICT	14897
 Teledata ICT	8025
@@ -2796,6 +2808,9 @@ Through ICTs	21
 Through the ICT4D Policy	16884,1
 Tier III. ICT	1889
 Time To Shine ICT Mentorship Programme	18692
+Togo ICT	19214
+Togo's ICT	19245
+Togolese ICT	19214
 Top ICT	7514,504,2791
 Towards Evidence-based ICT Policy and Regulation Volume	16872
 Tracking ICT Development Progress	12395

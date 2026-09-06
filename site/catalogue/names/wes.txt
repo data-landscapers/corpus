@@ -126,6 +126,7 @@ Charles Wesley High	11134
 Chesta Dispensary Data Controller INST-145727A6EF4 WEST	7167
 Childhood Education ECOWAS Economic Community of West	16935
 Children WAEMU West African Economic and Monetary	17099
+Children’s Fund WARCIP West African Regional	19245
 China and Western	2518
 Citizen for West Africa	10812
 City of Cape Town The Western Cape	7514,2588
@@ -162,9 +163,10 @@ Denial of Service ECOWAS Economic Community of West	1777
 Deputy Governor of Western Equatoria State	18730
 Description Extends West Africa Regional Communications	221
 Description Supports Western Africa	1277,4085
+Digital Acceleration for West Africa Project	19284
 Digital Bridge Institute Economic Community of West	10157
 Digital Development Global Practice Africa West	15511
-Digital Development Global Practice Western and Central	1264,1625,9076,3526,2371
+Digital Development Global Practice Western and Central	1264,1625,9076,3526,2371,1383
 Digital Development Western And Central Africa	15704
 Digital Economy ECOWAS Economic Community of West	15491
 Digital Gateway for West	11041
@@ -245,7 +247,7 @@ Energy Corridor WASCAL West African Science	15769
 Energy Saving Solution Across Western Cape	8112
 Energy WAEMU West African Economic and Monetary	11549
 Energy and Extractives Global Practice Western	15659
-Energy and Extractives Global Practice Western and Central	11549,3966,468
+Energy and Extractives Global Practice Western and Central	11549,3966,468,3256
 English-speaking North West and South West	7958
 English-speaking West African States	17235
 Equinix West Africa	3859
@@ -323,7 +325,7 @@ Guinea ECOWAS Economic Community of West African	16978
 Guinea Region WESTERN AND CENTRAL AFRICA	16675
 Guinea-Bissau. Joining the West and Central African Research	11552
 Guinean Forests of West Africa	16996
-HISP West	1017,16105
+HISP West	1017,16105,2233
 HISP West and Central Africa	1947,12,4089,10308,2209
 HIc Austria Europe Western Europe Wien	10840
 HIc Azerbaijan Asia Western Asia Baku	10840
@@ -445,6 +447,7 @@ Magwegwe West	8437
 MainOne Managing Director for West Africa Wole	10229
 Malakal and Aweil West	18665
 Male Female Western Cape	11192
+Managing Director Nokia West	19282
 Managing Director for West Africa	3929
 Managing Director of Equinix West Africa	7234
 Mandera and West Pokot	5134
@@ -467,7 +470,7 @@ Mbabane West and Shiselweni One. A National	12977
 Mc Guinea-Bissau Africa Western Africa Bissau	10840
 Mc Iraq Asia Western Asia Baghdad	10840
 Media Foundation For West Africa	17095
-Media Foundation for West Africa	5485,3597,578,300,1135
+Media Foundation for West Africa	5485,3597,578,300,1135,8148,5
 Media Foundation for West Africa and Co-Develop	4690,104,473,54,1993,594,680,1291,2158,13,7,2337
 Media Foundation for West Africa and Co-Develop Godfrey	11975
 Member States of West and Central Africa	15939
@@ -611,7 +614,7 @@ Peace and Security WASSCE West Africa Senior	18512
 Plattform Westafrikas	823
 Point WARCIP West African Regional Communications	15621
 Pool WASSCE West African Senior School	16876
-Population Global Practice Western and Central Africa	10829
+Population Global Practice Western and Central Africa	10829,8455
 Port of Salalah China West Airport Group	2511
 Postbank Spatial Coverage Analysis Western Cape	8999
 Practice Western and Central Africa Region	15518,35,68
@@ -694,6 +697,7 @@ Six West African Nations Align AI	965,3804,120,206,68,334,86
 Social Commission for Western Asia	16916
 Social Policy Global Practice Western and Central	16384
 Social Protection and Jobs Global Practice Western	15601,57,124,2519
+Social Protection and Jobs for West and Togo	19237
 Somalia Eritrea Mauritius Seychelles West Africa	9616
 Somaliland South West Galmudug Jubbaland Puntland	14896
 Somerset Westview Hotel	8550
@@ -756,11 +760,13 @@ Tech Islands of West Africa	2794
 Terminal WIOCC West Indian Ocean Cable	13295
 Thetsane West	5744
 TikTok's West Africa	3229
+Togo West Africa Focused	19245
 Town Garden Route Overberg West Coast	8999
 Training Centre WAEMU West African Economic	2775
 Tshwane West	9138
 TuID West Bank and Gaza Unified Population	10714
 Tunisia West Bank and Gaza Yemen DEVELOPMENT	16955
+UHC Universal Health Coverage WURI West	19284
 UK and Western European	8185
 UK- and Western-Europe-facing	8185
 UMc Armenia Asia Western Asia Yerevan	10840
@@ -818,6 +824,7 @@ Verwaltungen Westafrikas	900,631,1
 Vice President and Head of Customer Unit West	4906
 Vice President and Head of Ericsson West	2528
 Visa and Western Union. Yellow Card	9151
+WACEM West	19350
 WACREN Western and Central Africa Research and Education	17099
 WACS West Africa Cable System	11965
 WAEC West African Examination Council	11860
@@ -857,6 +864,7 @@ WEST AFRICAN GLORY PHARMACETICAL SARL	18238
 WEST AFRICAN MARKETS Carrier-Neutral Telco InfraCo	10861
 WEST AFRICAN STATES SIXTY-SIXTH ORDINARY SESSION	15374
 WEST AFRICAN SUBMARINE CABLE CAPACITY	17380
+WEST African Financial Community Currency Unit	19245
 WEST BARA	15244
 WEST DARFUR STATE MULTIDIMENSIONAL POVERTY INDEX	15244
 WEST JOHN PANDENI KHOMASDAL Total Eligible	13025
@@ -869,7 +877,7 @@ WESTERN AFRICA	18504
 WESTERN AFRICA REGIONAL DIGITAL	16144,955,15
 WESTERN AFRICA REGIONAL DIGITAL INTEGRATION	16926
 WESTERN AFRICA REGIONAL DIGITAL INTEGRATION PROGRAM	1264,16023
-WESTERN AND CENTRAL AFRICA	4688,3189,2993,1101,17,3631,116,2,276,625,67,289,6,79,17,808,54,48,127,217,4,1,118,61
+WESTERN AND CENTRAL AFRICA	4688,3189,2993,1101,17,3631,116,2,276,625,67,289,6,79,17,808,54,48,127,217,4,1,118,61,708,7
 WESTERN AND CENTRAL AFRICA- P179211- Adaptive	16194
 WESTERN AND CENTRAL Energy	18374
 WESTERN AND CENTRAL Estimated Approval Date	3456
@@ -887,7 +895,7 @@ WIllBROS WEST AFRICA	18154
 WURI West Africa Unique Identification Program	554
 WURI West Africa Unique Identification for Regional	3604,12017
 WURI. The West Africa Unique Identification	1635
-Wallis and Futuna Western Sahara Yemen Zambia	11470
+Wallis and Futuna Western Sahara Yemen Zambia	11470,7872
 Weight Western Cape	11286
 Wes Brown	6423
 Wesgro	14673
@@ -904,12 +912,12 @@ Wesolowski	9969
 Wesseh	9861,6999
 Wessels	2096
 West Accra Operational	3386
-West Africa	118,103,21,1,17,40,7,245,10,33,32,118,4,40,14,34,20,145,59,62,20,121,148,4,105,203,5,160,35,170,61,165,42,7,153,155,57,26,12,22,9,4,4,16,20,18,4,76,40,68,79,7,11,1,4,20,9,2,12,1,21,35,8,41,73,1,92,1,58,25,70,158,15,37,14,11,70,173,9,38,42,177,32,115,10,38,60,54,61,173,17,44,112,61,55,24,106,21,7,37,5,37,48,84,1,9,44,4,1,47,1,1,1,3,20,89,32,87,23,3,11,10,47,5,48,210,42,27,5,36,34,16,20,77,57,14,111,86,43,35,68,1,23,105,55,24,89,52,37,21,61,25,22,165,136,21,19,61,32,35,29,15,80,102,4,124,16,152,56,23,70,18,14,89,83,47,139,61,74,77,81,44,19,20,112,16,10,56,21,20,23,44,11,68,29,43,63,7,66,13,3,99,13,31,49,2,1,18,4,23,19,22,18,35,81,30,16,52,32,1,16,1,34,12,58,14,74,73,3,18,7,4,11,22,5,23,55,1,2,14,21,316,107,125,10,10,3,1,3,1,6,1,9,10,29,247,2,6,10,36,56,29,9,12,75,279,1498,458,109,232,331,172,255,49,18,24,37,29,9,39,32,82,32,50,99,35,155,21,9,57,14,24,4,18,98,109,53,24,35,14,55,27,18,22,55,72,8,7,15,3,45,5,9,7,1,6,26,36,6,1,80,1,11,4,24,11,25,9,4,26,3,5,7,7,54,8,14,12,1,28,1,11,16,25,189,21,113,61,73,7,1,13,79,137,5,189,16,65,4,14,54,10,19,2,7,1,1,18,3,5,11,19,36,219
+West Africa	118,103,21,1,17,40,7,245,10,33,32,118,4,40,14,34,20,145,59,62,20,121,148,4,105,203,5,160,35,170,61,165,42,7,153,155,57,26,12,22,9,4,4,16,20,18,4,76,40,68,79,7,11,1,4,20,9,2,12,1,21,35,8,41,73,1,92,1,58,25,70,158,15,37,14,11,70,173,9,38,42,177,32,115,10,38,60,54,61,173,17,44,112,61,55,24,106,21,7,37,5,37,48,84,1,9,44,4,1,47,1,1,1,3,20,89,32,87,23,3,11,10,47,5,48,210,42,27,5,36,34,16,20,77,57,14,111,86,43,35,68,1,23,105,55,24,89,52,37,21,61,25,22,165,136,21,19,61,32,35,29,15,80,102,4,124,16,152,56,23,70,18,14,89,83,47,139,61,74,77,81,44,19,20,112,16,10,56,21,20,23,44,11,68,29,43,63,7,66,13,3,99,13,31,49,2,1,18,4,23,19,22,18,35,81,30,16,52,32,1,16,1,34,12,58,14,74,73,3,18,7,4,11,22,5,23,55,1,2,14,21,316,107,125,10,10,3,1,3,1,6,1,9,10,29,247,2,6,10,36,56,29,9,12,75,279,1498,458,109,232,331,172,255,49,18,24,37,29,9,39,32,82,32,50,99,35,155,21,9,57,14,24,4,18,98,109,53,24,35,14,55,27,18,22,55,72,8,7,15,3,45,5,9,7,1,6,26,36,6,1,80,1,11,4,24,11,25,9,4,26,3,5,7,7,54,8,14,12,1,28,1,11,16,25,189,21,113,61,73,7,1,13,79,137,5,189,16,65,4,14,54,10,19,2,7,1,1,18,3,5,11,19,36,219,419,21,2,6,14,13
 West Africa Addressee	5677
 West Africa Agricultural Productivity Programme	12090
 West Africa Border Security Week Accra	2521,659,249,939,974,1524,210,294
 West Africa Bureau	17235
-West Africa Cable System	2677,665,179,261,899,1923,5259,102,636,332,27,2412,83,58,29,11,2309
+West Africa Cable System	2677,665,179,261,899,1923,5259,102,636,332,27,2412,83,58,29,11,2309,1359
 West Africa Cable System WiLL Wireless	18887
 West Africa Coastal	789
 West Africa Communications	5681
@@ -921,6 +929,7 @@ West Africa Data Center Markets Brief	4428
 West Africa Data Centre and Cable Entry	856
 West Africa Digital	8713
 West Africa Digital Corridor	17114
+West Africa Digital Gateway The Lomé	19259
 West Africa Digital Rights Defenders Coalition	9082
 West Africa Division	16237
 West Africa Economic Summit	3427,941
@@ -963,7 +972,7 @@ West Africa Regional Communications Infrastructure Project	221,86,957,14286
 West Africa Regional Communications Program	18456
 West Africa Regional Connectivity Infrastructure Program	18754
 West Africa Regional Digital Inclusion Project	17235
-West Africa Regional Digital Integration Program	5750,1160,4642,5547
+West Africa Regional Digital Integration Program	5750,1160,4642,5547,2146
 West Africa Regional Digital Integration Project	10884,661,5532,28,9,1390
 West Africa Regional Digitalization Integration Program	17114
 West Africa Regional Electricity Market	7426
@@ -985,8 +994,9 @@ West Africa Time WCAG Web Content	11952
 West Africa UNICEF United Nations International	12947
 West Africa URL	15748,1657
 West Africa Unique	3604
+West Africa Unique Helps	19245
 West Africa Unique Identification	10909
-West Africa Unique Identification for Regional Integration	312,240,665,47,67,596,390,110,354,646,10,415,13,659,1055,512,1335,3396,34,53,4641,185,649,715,75,1116
+West Africa Unique Identification for Regional Integration	312,240,665,47,67,596,390,110,354,646,10,415,13,659,1055,512,1335,3396,34,53,4641,185,649,715,75,1116,955,39
 West Africa WATRA Working Group	5676,5
 West Africa Weekly	3823
 West Africa Working	18430
@@ -1017,6 +1027,7 @@ West Africa. Collaboration	5677
 West Africa. Contact	16178
 West Africa. Continued	10939
 West Africa. Countries	10834
+West Africa. Debenedetti	19237
 West Africa. Delivering	16676
 West Africa. Despite	2568
 West Africa. Due	11909
@@ -1041,7 +1052,7 @@ West Africa. Ndaka	17773
 West Africa. No Apr	16705
 West Africa. On Regional Trade	7452
 West Africa. Online	14246
-West Africa. Participants	10297,515
+West Africa. Participants	10297,515,8490
 West Africa. Project	5351
 West Africa. Publish	17323,1
 West Africa. Recognizing Côte	9275
@@ -1071,10 +1082,13 @@ West Africa.34	10856
 West Africa.45 Cyber	10856
 West Africa.pdf	4844
 West Africa1	11855
-West African	236,282,271,210,178,1,1,2,54,29,133,238,292,310,22,26,3,6,7,73,53,45,57,40,26,82,72,13,65,42,172,12,17,42,39,67,26,11,5,44,31,179,26,6,3,140,93,4,143,21,2,78,72,24,23,40,2,42,282,108,84,49,2,33,13,40,15,69,69,148,153,32,21,49,84,35,158,4,123,152,47,60,188,15,42,43,359,63,165,30,35,205,26,118,71,29,57,34,88,64,79,112,72,82,5,237,232,468,25,126,142,195,26,97,23,123,62,162,194,23,23,19,40,116,30,101,122,13,190,22,5,23,58,351,32,200,20,4,59,247,2,6,154,73,2235,959,79,61,402,40,13,105,151,121,73,325,25,15,45,32,73,7,1,20,2,47,54,21,21,51,31,15,25,10,108,3,87,5,15,38,304,64,16,3,70,8,13,156,52,364,16,52,28,203,33,75
+West African	236,282,271,210,178,1,1,2,54,29,133,238,292,310,22,26,3,6,7,73,53,45,57,40,26,82,72,13,65,42,172,12,17,42,39,67,26,11,5,44,31,179,26,6,3,140,93,4,143,21,2,78,72,24,23,40,2,42,282,108,84,49,2,33,13,40,15,69,69,148,153,32,21,49,84,35,158,4,123,152,47,60,188,15,42,43,359,63,165,30,35,205,26,118,71,29,57,34,88,64,79,112,72,82,5,237,232,468,25,126,142,195,26,97,23,123,62,162,194,23,23,19,40,116,30,101,122,13,190,22,5,23,58,351,32,200,20,4,59,247,2,6,154,73,2235,959,79,61,402,40,13,105,151,121,73,325,25,15,45,32,73,7,1,20,2,47,54,21,21,51,31,15,25,10,108,3,87,5,15,38,304,64,16,3,70,8,13,156,52,364,16,52,28,203,33,75,383
 West African CEOs	7396
 West African CFA	2627,633,7563,4692,2726
 West African CFA Franc	10862,687
+West African CFA Francs	19239
+West African Cable de Maroc Telecom	19221
+West African Cement	19295
 West African Centre for Cell Biology of Infectious	8365
 West African College of Physician	16922
 West African College of Physicians	16922
@@ -1086,13 +1100,13 @@ West African Countries	16144,777
 West African Country	15424
 West African Court of Appeal	13040
 West African Câble System	15542
-West African Development Bank	4,2857,1123,4291,1928,72,1274,6449,68
+West African Development Bank	4,2857,1123,4291,1928,72,1274,6449,68,1173
 West African ECOWAS	5362
 West African Eco	11550
 West African Eco-	2775
 West African Economic	10856
 West African Economic Monetary Union	138
-West African Economic and Monetary Union	7,19,1,1,90,1146,1511,1620,2076,467,134,559,165,75,211,1590,275,128,128,638,4,679,1,11,14,36,235,3176,301,846,642,210,874,328,306
+West African Economic and Monetary Union	7,19,1,1,90,1146,1511,1620,2076,467,134,559,165,75,211,1590,275,128,128,638,4,679,1,11,14,36,235,3176,301,846,642,210,874,328,306,741,120
 West African Economic and Monetary Union Interopera	1502
 West African Economic and Monetary Union Interoperable	1502
 West African Economic and Monetary Union. Agritech	10939
@@ -1102,6 +1116,7 @@ West African Examination Council Examinations	18455
 West African Examinations Council	16162,2057
 West African Franc	15424
 West African Francophone	3604
+West African Gas Pipeline	19239
 West African Gas Pipeline Company	15740
 West African Health Organisation	7452,6873
 West African Health Organization	6594
@@ -1113,7 +1128,7 @@ West African Land Cover Reference System	15129
 West African Law	16888
 West African Monetary Agency	7,738,6707,9783
 West African Monetary Institute	7,992,47,11081,4717,391
-West African Monetary Union	6938,1135
+West African Monetary Union	6938,1135,11292
 West African Monetary Union’s Council	8275
 West African Monetary Zone	999,47,218,9144,2980,3456,391,1265
 West African Monsoon	17114,1464
@@ -1125,10 +1140,11 @@ West African Peering Forum	16545
 West African Police Information System	3061,8867,4960
 West African Police Information System Data	16888
 West African Postal Conference	10509
-West African Power Pool	11016,5128,510,222,90,294,1,842,271,130
+West African Power Pool	11016,5128,510,222,90,294,1,842,271,130,716,19,56
 West African Power Pool Glossaire RAPPORT	18322
 West African Red Colobus Monkey. Conservation	16996
 West African Region	4840
+West African Regional Communication Infrastructure Program	19221
 West African Regional Communications Infrastructure Program	3461
 West African Regional Digital Integration Project	16144,2360
 West African Research and Education Network	5244
@@ -1156,6 +1172,7 @@ West African Telecommunications Regulators Assembly	1909
 West African Telecommunications Regulators' Assembly	17010
 West African Telecommunications Regulatory Agency	18485
 West African Telecommunications Regulatory Agency WoG	18485
+West African US	19284
 West African Unity	5390,965,827
 West African and Francophone	3549
 West African and Sahelian	17018
@@ -1446,7 +1463,7 @@ Western and Central Afric	17219
 Western and Central Africa	1774,320,1627,7136,4878,204,262,504,231,6
 Western and Central Africa Bank’s Approval Date	17219
 Western and Central Africa Education Strategy	11905,3838
-Western and Central Africa Region	17311
+Western and Central Africa Region	17311,1934
 Western and Central Africa Region Task Team	15959
 Western and Central Africa Regional	1264
 Western and Central Africa Research and Education Network	1264,14880
@@ -1503,11 +1520,12 @@ World Bank Western	15553
 World Bank Western Africa Regional	16144
 World Bank Western Africa Regional Digital	16144
 World Bank Western and Central Africa Region	10964,4589
+World Bank Western and Central Africa Regional	19245
 World Bank for Western and Central Africa	5056
 World Bank's Africa West and Central	16436
 World Bank's Senior Digital Specialist for Western	6277
 World Bank-financed West Africa Unique	3604
-World Bank-financed West African Regional Communications	15621
+World Bank-financed West African Regional Communications	15621,3624
 World Bank-financed Western Africa Regional Digital	17380
 World Bank-funded Regional West Africa Unique	4855
 World Bank-funded West African Regional Digital	11552

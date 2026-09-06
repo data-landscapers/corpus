@@ -83,6 +83,7 @@ Activités A1O2R3.1 Actualisation du Décret	15580
 Activités Total Actuel	15424
 Actu CAMTEL	13483
 Actu Cameroun	4269
+Actu Lomé	19254
 Actu Nation Cyber-menaces	9925
 Actu Orange	13483
 Actu You Might Also Like	9925
@@ -95,7 +96,7 @@ ActuNon	9925
 Actua	15392
 Actuación Administrativa	16855
 Actuación Administrativa Automati	16855
-Actual	34,173,266,681,834,369,355,63,41,1837,486,516,924,349,949,253,869,438,1281,59,2,14,77,70,191,3,12,41,37,171,529,29,12,6,5,10,2,74,166,39,173,284,247,6,40,36,5,274,410,108,70,50,766,10,89,53,57,35,19,18,14,128,352,108,85,31,2,21,147,64,44,19,47,73,35,249,202,67,217,38,34,6,11,68,17,43,96,15,220,35,399,54,4,44,127,53,31,133,4,1,4,145,30,258,25,165
+Actual	34,173,266,681,834,369,355,63,41,1837,486,516,924,349,949,253,869,438,1281,59,2,14,77,70,191,3,12,41,37,171,529,29,12,6,5,10,2,74,166,39,173,284,247,6,40,36,5,274,410,108,70,50,766,10,89,53,57,35,19,18,14,128,352,108,85,31,2,21,147,64,44,19,47,73,35,249,202,67,217,38,34,6,11,68,17,43,96,15,220,35,399,54,4,44,127,53,31,133,4,1,4,145,30,258,25,165,260,3,4
 Actual Achieve	11134
 Actual Achieved	11924,3500,177,62,773,1526
 Actual Achieved PDO Indicator	17962
@@ -168,7 +169,7 @@ Actual WARDIP-C	17219
 Actual-stage	1732,2
 Actuali	15837
 Actualidade	11388,37
-Actualisation	10712,2721,2147,59,373,183,1647,30,1,248,170,676
+Actualisation	10712,2721,2147,59,373,183,1647,30,1,248,170,676,250,24
 Actualisation des Données Cadastrales	10876
 Actualisation des Données Cadastrales MTGES Manuel Technique	10876
 Actualisation du Dispatch	10975
@@ -180,7 +181,7 @@ Actualiser le Site	17845
 Actualite.cd	6390,2294,3184,5722
 Actualite.cd URL	16210
 Actualites	14492,7,3369,458
-Actualité	1287,4758,914,1428,331,902,95,563,101,3104,1013,133,43,1147,156,267,72,23,14,13,54,291,6,734,46,333,87,150,51,71
+Actualité	1287,4758,914,1428,331,902,95,563,101,3104,1013,133,43,1147,156,267,72,23,14,13,54,291,6,734,46,333,87,150,51,71,1152
 Actualité Afrique Culture	16242
 Actualité Alexie Alaïs	9620
 Actualité Baisse	9620
@@ -202,6 +203,7 @@ Actualité L'Instance de Protection des Données	11645
 Actualité Le Liban	13628
 Actualité Lou Carine TRA	9620
 Actualité L’Alliance EMI	13628
+Actualité L’Instance de Protection des Données	19309
 Actualité L’UNESCO	8507,449
 Actualité L’UNESCO-Mali	13628
 Actualité Mark Zuckerberg	9620
@@ -257,7 +259,7 @@ Actualités Numérique Numérique	13568
 Actualités Numérique Qualité	13568
 Actualités Numérique Santé	13568
 Actualités PAFEN	13552
-Actualités PLUS	8673
+Actualités PLUS	8673,10601
 Actualités PROJET DE STOCKAGE PAR BATTERIE	18381
 Actualités Pari	9916
 Actualités Populaires	16656,5,28,13,4,1,24,13
@@ -305,7 +307,7 @@ Actuarial and Financial Mathematics	13078
 Actuação	11441,73
 Actuações	15359
 Actuelle	16012
-Actuellement	737,1533,696,2314,486,316,807,70,321,1893,1009,337,1265,1516,6,18,13,4,49,24,38,1036,1,1,108,26,850,19,49,43,85,15,163,778,2,833,182,181,18,1,2,11,4,7,15,44,505,536
+Actuellement	737,1533,696,2314,486,316,807,70,321,1893,1009,337,1265,1516,6,18,13,4,49,24,38,1036,1,1,108,26,850,19,49,43,85,15,163,778,2,833,182,181,18,1,2,11,4,7,15,44,505,536,249,146
 Actuelles	15766
 Actus	15745
 Administrateur ACTUALITES Afrique Burundi Jeunesse	9810
@@ -332,7 +334,7 @@ B1 Certificado de Actualizacion PE	4209
 BUDGET PERFORMANCE Actual-	9437
 Bachelor of Actuarial Science Honours	13089
 Baixa CAPACITAÇÃO E SENSIBILIZAÇÃO Actualização da Carta	18796
-Baseline Actual	2712,1941,6742,833,39,173,3179,350,44,625,362,96,374,434,102,344,4,1,4,175,258,25
+Baseline Actual	2712,1941,6742,833,39,173,3179,350,44,625,362,96,374,434,102,344,4,1,4,175,258,25,425,7
 Baseline Original Target Formally Revised Actual	15424
 Baseline Target Actual Actual	10779
 Bengo. Actualmente	11577
@@ -363,6 +365,7 @@ Cabinet MEPSIR INS CASP A1O2R3.3 Actualisation	15580
 Camtel Actu	3528
 Can Battery Swaps Actually Scale	5200
 Casos de Aplicação da Inteligência Artificial Actualmente	2816
+Catego Expenditure Current Actuals	19284
 Category Expenditure Current Actuals	2473
 Catégories Actualités Commentaires	13638
 Certificado de Actualizacion PE	4209
@@ -467,8 +470,10 @@ ISRs Actual Date ISR No	18754
 ISRs Actual Disbursements	16614
 Improve Tools Techonlogy and Infrastructure Target Actual	13053
 Improved Quality Indicator Name Baseline Actual	17958
+Improving Quality of Teaching and Learning Baseline Actual	19249
 Inclusion Indicator Name Baseline Actual	11971
 Inclusion and Coverage Baseline Actual	15735
+Increase Coverage of Safety Nets Baseline Actual	19242
 India Actually Got Right	8206
 Indicator Name Baseline Actual	10870,1101,257,39,173,3529,63,47,108,807,85,879
 Indicator Population Type Baseline Actual	18125
@@ -484,13 +489,14 @@ Jan-2023 Actual Mid-Term Review Date	18473
 Juil’26 Actualités Ndeye Marieme DIOUF	18409
 Jul-2019 Original Commitment Revised Commitment Actual	10779
 Jun-2026 Actual Date	16436
-KEY DATES Key Events Planned Actual	2712,1976,6182,1358,39,3468,278,692,295,96,374,35,399,54,48,348,1,462
+KEY DATES Key Events Planned Actual	2712,1976,6182,1358,39,3468,278,692,295,96,374,35,399,54,48,348,1,462,425,7
 KPMG. Actuellement	15670
 Kasi Cloud Is Actually Building	5200
 Kenya Has Built Actual Seats	9648
 Key Events Planned Actual Approval	6579,4816,576,469,3639,915,85,1455
 Key Events Planned Date Actual Date	15731
 Kingdom of Eswatini Output Measure Target Actual	11134
+LA CONSULTATION DU RÉPERTOIRE ACTUALISÉ DES	19323
 LA MÉTHODE ACTUELLE	13300
 LECTRONIQUE Actuellement le MSPLS	13306
 LEGAL Actual	16032
@@ -550,6 +556,7 @@ Organigramme du CNDigit Actuel	15936
 Original Actual Sector Code	16614
 Original Budget Revised Budget Actual Received	14736
 Original Closing Actual Closing	15663,2186
+Original Revised Budget Actual Cost Cost	19284
 Original Target Actual Value Formally Values	18754
 Original Target Formally Actual Value Values	18754
 Original and Final Approved Budget and Comparison of Actual	16978
@@ -572,6 +579,7 @@ PROVINCIAS CATEGORÍA MINISTERIO CONCEPTO ACTUAL CATEGORÍA	4209
 PRÉCÉDEMMENT ACTUELLEMENT EN UNION	13300
 Participating Municipaliti Baseline Actual	17505
 Participating Municipalities Baseline Actual	17505
+Particularly for Girls Baseline Actual	19249
 País. Actualmente	10772
 Pendiente Actualizar	16898
 Percentage of Tax Arrears Collected Target Actual	13053
@@ -593,6 +601,7 @@ Post-Fondamentales. Actuellement	13364
 Pourcentage Actuellement	13300
 Predicted Predicted Different Similar Actually Different	8606
 Preparation Actual Year Revised Estimation	2473
+Preparation Revised Estimation Actual	19284
 Prequalification Estimated Am Actual Amount Process	17180,39
 Processo Actualmente	10772
 Professeure Marie-Thérèse Sombo. Actuellement	15682
@@ -642,6 +651,7 @@ Social Registry Baseline Actual	17904
 SociétéSportTechnologie Actualité Mozambique	9620
 South Africa Actual	11953
 Statistics Capacity Baseline Actual	18792
+Strengthen System Management Baseline Actual	19249
 Sub-Saharan Africa. Actual	16876
 Subscribers Actually Sit	6749
 Suivez-Nous Departments Actualités Agenda Evènements	18409

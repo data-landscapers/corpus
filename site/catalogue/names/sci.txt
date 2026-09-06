@@ -429,8 +429,10 @@ Engineering Mathematics and Scientific Computations	18039
 Engineering Science	18461
 Engineering Sciences	9129
 Engineering and Mathematics STI Science	14747
+Enseignant des Sciences	19366
 Enseignement des Sciences de Santé	15487
 Entreprise Institut Universitaire de Licence Pro Sciences	17829
+Entreprises Science Education Autres Laboratoires	19221
 Environment Sciences	17437
 Environmental Science	11006,2179,562,67,4647
 Environmental Science and Natural Resources Management	13368
@@ -489,7 +491,7 @@ Faculty of Social Sciences	13078,1697
 Faculty of Social and Behavioural Sciences	17780
 Faculté des Sciences	1183,5818,8422,251,8,677,126,1342,29,268,288
 Faculté des Sciences Agronomiques	15682
-Faculté des Sciences Economiques	15797,2030,2,149,221
+Faculté des Sciences Economiques	15797,2030,2,149,221,1010
 Faculté des Sciences Humaines de Gardolé	19032
 Faculté des Sciences Juridiques	17918
 Faculté des Sciences de Gabès	1183
@@ -866,7 +868,7 @@ Namibian Citizen Bachelor of Science	13037
 Namibian University Of Science	12478
 Nanjing University of Information Science and Technology	16135
 National AI and Science Policy	12356
-National Academies of Sciences	12265
+National Academies of Sciences	12265,6972
 National Authority for Scientific Research	17291
 National Center for Scientific and Technical Research	17458
 National Commission for Science	2709,4839,3699,338,646
@@ -963,6 +965,7 @@ Partners Science	7548
 Partnerships AI Forums and Science	12356
 Permanent Secretary Ministry of Technology and Science	9082
 Petshop Science	14377
+Philosophie des Sciences	19366
 Philosophy of Open Science	12090
 Physical Science	12975
 Physiques Chimie Sciences	15674
@@ -1032,6 +1035,7 @@ Recherche Scientifique OCDE	14472
 Recherche Scientifique Oct	13746
 Recherche Scientifique du Ministere	14662
 Recherche. INSTITUT DES SCIENCES TECHNOLOGIQUES ET	15674
+Recherches des Sciences Aviaires	19220
 Recipient’s Ministry of Science	2473
 Regional Science	10421
 Registered FACULTY OF SCIENCE	13078
@@ -1116,6 +1120,7 @@ SN Computer Science	8604
 SOUTH AFRICAN OPEN SCIENCE POLICY	5246
 SOUTH AFRICAN OPEN SCIENCE POLICY Science	5246
 SSA Sub Saharan Africa STEM Science	15447
+SSA Sub-Saharan African STEM Science	19245
 SSS Senior Secondary School STEM Science	16876
 STE Science and Technology Education STEM Science	16861
 STEAM Science	18512
@@ -1159,7 +1164,7 @@ SciPap	7886
 SciPy. Stats	17157
 Scidev.Net	4674
 Scien	12674
-Science	737,52,57,53,255,7,304,89,156,46,58,282,590,14,9,107,69,73,92,90,218,5,241,257,265,402,26,82,249,49,102,61,120,27,1,1,3,8,17,97,42,110,177,366,108,306,143,209,80,85,365,136,50,171,303,208,150,80,99,14,127,101,213,112,352,98,6,48,156,424,82,8,300,168,8,117,71,5,59,22,85,21,59,5,1,9,58,190,82,288,15,21,1,10,10,26,9,27,39,84,43,26,1,15,29,1,124,22,4,1,5,15,35,67,9,25,32,21,109,1,10,2,4,3,1,1,6,2,4,5,1,1,10,2,9,14,1,7,4,4,20,180,5,1,3,4,77,45,16,195,2,6,21,36,15,66,11,5,197,14,34,253,32,20,161,13,268,4,124,135,18,11,17,37,12,24,49,25,1,28,187,45,291,19,60,38,13,39,30,25,15,135,85,60,99,1,37,14,83,28,11,109,111,41,100,225,24,66,9,7,17,46,84,52,81,109,90,135,69,143,58,32,225,1,6,65,115,32,128,8,6,1,19,32,85,52,40,76,184
+Science	737,52,57,53,255,7,304,89,156,46,58,282,590,14,9,107,69,73,92,90,218,5,241,257,265,402,26,82,249,49,102,61,120,27,1,1,3,8,17,97,42,110,177,366,108,306,143,209,80,85,365,136,50,171,303,208,150,80,99,14,127,101,213,112,352,98,6,48,156,424,82,8,300,168,8,117,71,5,59,22,85,21,59,5,1,9,58,190,82,288,15,21,1,10,10,26,9,27,39,84,43,26,1,15,29,1,124,22,4,1,5,15,35,67,9,25,32,21,109,1,10,2,4,3,1,1,6,2,4,5,1,1,10,2,9,14,1,7,4,4,20,180,5,1,3,4,77,45,16,195,2,6,21,36,15,66,11,5,197,14,34,253,32,20,161,13,268,4,124,135,18,11,17,37,12,24,49,25,1,28,187,45,291,19,60,38,13,39,30,25,15,135,85,60,99,1,37,14,83,28,11,109,111,41,100,225,24,66,9,7,17,46,84,52,81,109,90,135,69,143,58,32,225,1,6,65,115,32,128,8,6,1,19,32,85,52,40,76,184,288,129
 Science Academy	4353
 Science Advances	15342,1121
 Science And Technology	899
@@ -1280,19 +1285,24 @@ ScienceBlog	5224,28
 ScienceDirect	7759,413,13,57,363,627,5,5197
 ScienceDirect and Wiley	8605
 ScienceandResearch	14747
-Sciences	1154,29,713,200,1299,4874,607,1904,67,8,38,47,729,742,966,41,310,1679,122,145,37,9,475,35,266,110,831,147,245,16,16,13,108,105,3,322,49
-Sciences Agronomiques	15529
-Sciences Biomédicales	16195
+Sciences	1154,29,713,200,1299,4874,607,1904,67,8,38,47,729,742,966,41,310,1679,122,145,37,9,475,35,266,110,831,147,245,16,16,13,108,105,3,322,49,792,113
+Sciences Agronomiques	15529,3837
+Sciences Aviaires	19366
+Sciences Biomédicales	16195,3171
 Sciences CBE College of Business and Economics COMSAT	13960
 Sciences Economique	18013
+Sciences Economiques	19366
 Sciences Humaines MFB	13377
 Sciences Islamiques Ministère	17895
+Sciences Juridiques Politiques	19366
 Sciences Licence Pro Etudes Culturelles	17829
 Sciences Physiques INRAB Institut de Recherche	15583
 Sciences Po Paris	16825
 Sciences Sociales	18101
 Sciences and Technology	14853
-Sciences de Gestion	15674,2738
+Sciences de Gestion	15674,2738,954
+Sciences des Agroressources	19366
+Sciences des Productions Animales	19366
 Sciences-Po Paris	11154
 Sciences. The Malawian	7841
 Scientific	789,181,1018,970,903,4519,149,599,1718,123,915,1,10,10,185,69,1,44,1,146,4,41,91,833,636,710,1248,323,29,676,215,301,558,968
@@ -1318,6 +1328,7 @@ Scientific Papers Any	18904
 Scientific Professionals	16266
 Scientific Programming	7759,846
 Scientific Progress	14742
+Scientific Reports	19284
 Scientific Research	11905,1390,521,1081,1247,1052
 Scientific Research AI	2958
 Scientific Research AI-powered	2958
@@ -1394,7 +1405,7 @@ Scientiﬁc Research	958
 Scikit-Learn	8877
 Scimago	12486
 Scission	10875
-Sciure	18312
+Sciure	18312,1038
 Sciurus	18118
 Scopus and Web of Science	10323
 Secondary School STE Science and Technology Education	16852
@@ -1402,6 +1413,7 @@ Secondary Science	13392
 Secretarial Science	13990
 Secretary Minister of Technology and Science The Zambian	13346
 Senior Associate Scientist	15838,2486
+Senior Data Scienst	19271
 Senior Data Scientist	9541
 Sensing and Space Science Consider	17157
 Serbia. Glob Heal Sci Pract	12255
@@ -1470,6 +1482,7 @@ Sudanese Academy for Sciences	14853
 Summary The Science	18949
 Support of Information Systems Research. Information Science	1248
 Supérieure des Sciences	18250
+Survey of Science Usage	19245
 Sustainable Scientific Research	17157
 Swedish University of Agricultural Sciences	15682
 Swiss Political Science Review	11135

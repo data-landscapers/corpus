@@ -14,6 +14,7 @@ Acquisition de Logiciels	16152
 Africa Global Logistics	18797
 Agent Login To Customer Service Portal	12454
 Agro-industrie Achat Logistique Transport Total INSG	15674
+Amélioration des Systèmes Logistiques	19347
 Annex I Active Risk Log	12241
 Annexe E AUTRES CARACTÉRISTIQUES DU LOGEMENT	13300
 Article Rating Subscribe Login	5390,965,827
@@ -150,7 +151,7 @@ Grievance Log	1988
 Grievance Logbook	16926
 Grievances Logged	11218
 Guiné- Logo	11569
-Génie Logiciel	13364,2165
+Génie Logiciel	13364,2165,3837
 Génie Logiciel Master Logistique	17829
 HPT DELIVERY AND LOGISTICS MANAGEMENT	9855
 HPT DELIVERY AND LOGISTICS MANAGEMENT Standard	9855
@@ -261,11 +262,11 @@ Logbaba N	10975
 Logbook	9646
 Logbook. Justice Patricia Mande	9646
 Logbooks	3791,5855
-Logement	3045,351,729,13,2453,2300,2009,2,2398,142,1933,167,13,135,67,179,127,255,23,77,119,171,1109,197,298,445
+Logement	3045,351,729,13,2453,2300,2009,2,2398,142,1933,167,13,135,67,179,127,255,23,77,119,171,1109,197,298,445,464
 Logement Répartition	18312
 Logement Social	13831,30
 Logement. Elle	16318
-Logements	4899,4055,2139,4354,133,457,1908,69
+Logements	4899,4055,2139,4354,133,457,1908,69,1207
 Logements Sociaux	1284,12045
 Logements Sociaux Assemblée Nationale Infrastructures	13341
 Logements Sociaux L’Office Burundais	13329
@@ -296,7 +297,7 @@ Logical Framework Matrix	13347
 Logical Monitoring and Detection	15054
 Logically	544
 Logicie	17829
-Logiciel	1801,1580,5750,450,593,5300,24,14,72,55,4,290,114,2321
+Logiciel	1801,1580,5750,450,593,5300,24,14,72,55,4,290,114,2321,845
 Logiciel ExifTool	16515
 Logiciel Trompeur	15643
 Logiciel de Gestion	7526,28
@@ -304,7 +305,7 @@ Logiciel de Gestion des Faits	10061
 Logiciel de Gestion des Organisations Professionnelles	15936
 Logiciel de Rédaction de Procédures	18114
 Logiciel de Tâche	17872
-Logiciels	8637,594,1744,2655,2007,124,487
+Logiciels	8637,594,1744,2655,2007,124,487,3047
 Logiciels Domaine	17882
 Logiciels Domaine Porteur	17882
 Logiciels de Base	6235
@@ -333,7 +334,7 @@ Logistics Director	16921
 Logistics Enhancement Development	17157
 Logistics Flight Tickets for International	17260
 Logistics Management	4301,10649
-Logistics Management Information System	4349,7906,328,723,3616,49
+Logistics Management Information System	4349,7906,328,723,3616,49,2313
 Logistics Management Information System M&E Monitoring	15556
 Logistics Management The ASYHUB	13042
 Logistics Non-Profit	16266
@@ -353,7 +354,7 @@ Logistics and Last-Mile Delivery	15641
 Logistics and Telecommunications Cluster	5087
 Logistics and Transport Systems Improvement Program	7426
 Logistictech	12339
-Logistique	9928,948,2425,212,1024,36,49,744,10,102,192,448,57,56,1216,1,33,13,90,245,52,288
+Logistique	9928,948,2425,212,1024,36,49,744,10,102,192,448,57,56,1216,1,33,13,90,245,52,288,1052,29,41,75
 Logistique Banque	15674
 Logistique DUT Marketing Ma	17829
 Logistique Le Service	13301
@@ -407,12 +408,14 @@ MARECHAL DE LOGIS	15524
 MARECHAL DE LOGIS CAPORAL-CHEF-ou QUARTIER MAITRE	15524
 MARECHAL DE LOGIS CHEF	15524
 MARECHAL DE LOGIS CHEF SERGENT	15524
+MATRICE DU CADRE LOGIQUE AXE SUR	19216
 MATÉRIAU NATUREL EXTÈRIEURS DU LOGEMENT. PAS	13300
 MCL Méthode du Cadre Logique ME Ministère	18103
 MININSTERE DU LOGEMENT	16001
 MINISTERE DU LOGEMENT	16001,98,76
 MOCDE LOGO 1.png	16914
 Mail Login	15274
+Management Logistique	19366
 Management System LMIS Logistics Management Information	13306
 Marechal de Logis Chef Major LEYOUKOU Phaddy	16175
 Marechal des Logis Chef Major BIBALOU Irwin	16099
@@ -491,6 +494,7 @@ Regulation of Third-Party Logistics Providers	9855
 Resource Usage Logs	16963
 Responsable Logistique	16693
 Results Based Logical Framework	13005
+Results Report LMIS Logistics Management	19284
 Results-based Logframe	14132
 Risk Log	12241,839
 Risk Log OPEN	13095

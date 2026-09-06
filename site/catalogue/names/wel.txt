@@ -489,6 +489,7 @@ WELE NZAS SAN ANTONIO DE PALEA	4209
 WELE-NZAS NTEM BIOKO SUR BIOKO NORTE	4209
 WELE-NZAS NTEM CENTRO SUR BIOKO SUR	4209
 WELE-NZAS NTEM DJIBLOHO	4209
+WELESSI Adji Agnassire ADJ	19251
 WELFARE	10759,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135
 WELFARE AND DECENT WORK	18624
 WELFARE Equal Political Representation	10835,3,130,902,16,466,1,135
@@ -545,7 +546,7 @@ Wele-Nzas	16864,105
 Wele-Nzas Akonibe	16942
 Wele-Nzasl	16864
 Wele-Nzás	16969
-Welfare	21,2075,5665,2,203,1383,1410,76,2,1,130,902,16,1,1,1,51,212,1,1,9,177,1,11,1,20,58,57,2359,2001,19,708,929,18,89
+Welfare	21,2075,5665,2,203,1383,1410,76,2,1,130,902,16,1,1,1,51,212,1,1,9,177,1,11,1,20,58,57,2359,2001,19,708,929,18,89,626
 Welfare Act	12939
 Welfare Analysis of Tax Audits Across	18318
 Welfare Committee	14761
@@ -577,6 +578,7 @@ Weli Socda	14859
 Weli Socda Dhammaan	14859
 Well Borehole Lake	17043
 Well Can	13477
+Well Geovani Lawson	19354
 Well Info	11405
 Well Intentioned	10415
 Well-	12444
@@ -610,7 +612,7 @@ Well-versed	12539
 Well-wishers	17347
 Wella Health	12339
 Wellbeing and Better Services	14829
-Wellcome Trust	9969
+Wellcome Trust	9969,9386
 Wellcome Trust. Relevant	9969
 Wellcome-funded DHIS2 for Climate	11589,2224,4909
 Wellcrafted	15713

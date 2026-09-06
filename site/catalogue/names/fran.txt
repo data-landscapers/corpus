@@ -31,13 +31,13 @@ Afrique Francophone	17882
 Afrique de Formation des Avocats Francophones	10821
 Agence Francaise de Development	11469,3077
 Agence Francaise de Developpement	10275,5694
-Agence Francaise de Développement	17870
+Agence Francaise de Développement	17870,1369
 Agence France Press	13313
 Agence France Presse	14932
 Agence FranÃ	18887
 Agence Française	13433,2226,353,1816
 Agence Française Islamique	10965
-Agence Française de Développement	331,106,364,1,167,74,362,1,1,496,1812,627,751,721,1292,785,459,1925,437,51,200,1,1,20,564,375,119,1306,225,196,1,25,948,667,63,41,27,11,98,8,2,24,40,244,17,1,197,462,17,6,29,28,1123,7,256,181,16,679
+Agence Française de Développement	331,106,364,1,167,74,362,1,1,496,1812,627,751,721,1292,785,459,1925,437,51,200,1,1,20,564,375,119,1306,225,196,1,25,948,667,63,41,27,11,98,8,2,24,40,244,17,1,197,462,17,6,29,28,1123,7,256,181,16,679,249
 Agence Française de Développement AFRF	15475
 Agence Française de Développement APC	15673
 Agence Française de Développement Page	15553
@@ -55,6 +55,8 @@ Albert Francis Atangana Ze Shingira Samantha	15601
 Alen Franki Esparon of Pascal Village	19049
 Aliança Francesa	18876
 AllAfrica Mon Compte English En Français	16403
+Allemagne France FEDD	19220
+Allemagne France Total M EUR	19220
 Alliance Française	13314
 Altice France	8125
 Amazon Passes France’s Digital Services Tax	14932
@@ -114,7 +116,7 @@ CCFA Franc BCEAO	11563
 CEO Max Francisco	2923
 CEO of Franc	13267
 CEO of Franc. Business Day	13267
-CFA Franc	10841,1064,3613,35,883,780,1077
+CFA Franc	10841,1064,3613,35,883,780,1077,991
 CFA Franc BEAC	15731
 CFA Franc COVID-19 Coronavirus Disease CPF	15731
 CFA Franc FCV Fragile	969
@@ -205,6 +207,7 @@ Dr. François NDJAMONO	16175
 Dr.ª Françoise Bigirimana Representante	18783
 Drug Authority FRW Rwandan Francs FY	14985
 Développement AFD Agence Française de Développement AFOM	16621
+Développement IFT Institut Français	19220
 E DE LA FRANCOPHONIE ET DES	15660
 EMIRAE France	11725
 EN FRANCS CFA	17829,340
@@ -231,6 +234,7 @@ English Français Español	17338
 English Français EspañolРусскийعربي无障碍关怀版	18756
 English Français Português Search	18147
 English and Francophone	17596
+Enseignant de Français	19366
 Enseignement Secondaire Franco	18099
 Enseignement du Français	15674
 Environmental and Social Systems Assessment ESSA Franc	11905
@@ -244,6 +248,7 @@ Estonie France Belgiqu	15936
 Etat Français	14862
 Ethiopia UAE China France United States	13868
 Ethiopia and Agence Française de Développement	14027,1
+Etudes Francophones	19366
 European Commission and France	3036
 European Union and Agence FranÃ	18887
 European Union and France's Ministry for Europe	15866
@@ -259,7 +264,7 @@ Expertise France. Ce	10519
 Expertise France... Based	1194
 F AIR FRANCE AIR FRANCE	16623
 F. François	14753
-FCFA Franc	4459
+FCFA Franc	4459,14757
 FCFA Franc CFA	18103
 FCFA Franc CFA FSRU Unités	18316
 FCFA Francs	18104
@@ -268,13 +273,13 @@ FORCE FRANÇAISE CE	2556,995,1106,1302,1374
 FOREWORD Hon. Frans Kapofi Minister	12947
 FRANCAIS-ANGLAIS.pdf	16195
 FRANCAISE DE DEVELOPPEMENT	17828
-FRANCE	643
+FRANCE	643,18607
 FRANCEVILLE DIRECTION GENERALE	16175
 FRANCISCO MANUEL CAHÁLO	10751
 FRANCO-ARABE FASE FACULTÉ D’AGRONOMIE ET	18143,27
 FRANCOPHONE BLR BOUCLE LOCALE RADIO BM	18105
 FRANCOPHONIE ET DES CONGOLAIS DE L’ETRANGER	15660
-FRANCS CFA	737,17295
+FRANCS CFA	737,17295,1228
 FRANCS COMORIENS	3537
 FRANCSCFA	18032
 FRAND	961
@@ -283,7 +288,7 @@ FRANÇA	17283
 FRANÇAIS	13300
 FRANÇAIS NO. QUESTIONS ET FILTRES CODES	13300
 FRANÇAISE DE DEVELOPPEMENT	17833
-Faroe Islands Fiji Finland France French	11470
+Faroe Islands Fiji Finland France French	11470,7872
 Father Francis Mukosa	9986
 Faya François Bourouno	5429,2549,2500,201,414,631,25,4966,33
 Faya François Bourouno. Au	10565
@@ -301,7 +306,7 @@ Fr Réseau des Régulateurs Francophones	15769
 Fran-aises	10718
 Fran1ework	4153
 Franapon and Luzafon	6985
-Franc	9616,1242,17,647,295,88,2778,340,79,413,146,1444,737
+Franc	9616,1242,17,647,295,88,2778,340,79,413,146,1444,737,1403,5
 Franc Burundais	13524
 Franc CFA	2342,2344,10725,100,7,1478
 Franc CFA CFA Franc FMM Financial	18887
@@ -316,16 +321,18 @@ Franc Rwandais	15023
 Franca	18802
 Franca Environmental Specialist Yes Nadia Henriqueta	18809
 Francaise Internationale	18797
-France	235,308,19,11,216,110,71,38,28,147,11,19,16,296,159,18,41,37,123,49,3,93,218,17,31,63,2,8,6,1,150,64,18,106,148,95,61,121,200,108,231,5,3,49,34,67,18,2,253,517,29,3,45,129,122,50,7,296,87,26,92,26,113,133,199,153,46,67,59,15,54,76,6,25,1,11,3,4,15,6,71,112,100,74,60,38,148,81,57,30,31,46,108,104,52,68,88,12,245,56,2,1,82,11,18,36,73,295,29,107,35,79,51,143,19,355,373,256,143,44,103,89,65,182,85,9,11,2,20,23,78,20,13,4,25,67,9,5,30,14,26,170,162,49,36,37,78,55,115,11,54,38,4,21,18,125,82,126,164,65,410,210,75,65,80,56,67,230,63,2,16,29,15,290,59,274,116,44,38,19,3,16,33,4,153,33,32,110,226,78,15,45,2,1,19,3,4,18,21,3,11,29,16,5,12,56,21,21,11,1,135,41,35,69,3,29,9,101,9,82,11,1,33,76,3,23,21,174,47,95,227,23,10,41,212,309,184,52,43,33,8,6,3,9,2,22,28,1,50,78,28,21,2,8,10,68,32,2,75,1,6,6,2,7,1,13,26,7,3,19,2,1,22,2,327,69,64,40,45,16,22,114
+France	235,308,19,11,216,110,71,38,28,147,11,19,16,296,159,18,41,37,123,49,3,93,218,17,31,63,2,8,6,1,150,64,18,106,148,95,61,121,200,108,231,5,3,49,34,67,18,2,253,517,29,3,45,129,122,50,7,296,87,26,92,26,113,133,199,153,46,67,59,15,54,76,6,25,1,11,3,4,15,6,71,112,100,74,60,38,148,81,57,30,31,46,108,104,52,68,88,12,245,56,2,1,82,11,18,36,73,295,29,107,35,79,51,143,19,355,373,256,143,44,103,89,65,182,85,9,11,2,20,23,78,20,13,4,25,67,9,5,30,14,26,170,162,49,36,37,78,55,115,11,54,38,4,21,18,125,82,126,164,65,410,210,75,65,80,56,67,230,63,2,16,29,15,290,59,274,116,44,38,19,3,16,33,4,153,33,32,110,226,78,15,45,2,1,19,3,4,18,21,3,11,29,16,5,12,56,21,21,11,1,135,41,35,69,3,29,9,101,9,82,11,1,33,76,3,23,21,174,47,95,227,23,10,41,212,309,184,52,43,33,8,6,3,9,2,22,28,1,50,78,28,21,2,8,10,68,32,2,75,1,6,6,2,7,1,13,26,7,3,19,2,1,22,2,327,69,64,40,45,16,22,114,85,11,25,74
 France AI	17884
 France Afrique Média	18232
 France Arrondissement	15455
 France Boyer	14792
 France Bégin	16894
+France Clôturé	19250
 France Connect	7981
 France Câbles Radio	7421
 France EUR HI	17743
 France Embassy	12972
+France En	19250
 France Figure	11129
 France Find	14666
 France Global Cybersecurity Index	10764
@@ -382,6 +389,7 @@ France-Senegal	18754
 France-based	3874
 France-co-hosted Africa Forward	8598
 France-to-Tunisia	6503
+France. Afin	19220
 France. Cette	14549,3773,802
 France. Dans	11080
 France. Elle	17544
@@ -556,7 +564,7 @@ Francois Xavier Kalamba	11912
 Francois and George	3782
 Francoise Kadja	10940
 Francophany And Beninois	15363
-Francophone	652,2460,428,9,1505,994,320,649,303,24,138,1637,1674,63,98,1385,1290,783,140,152,776,13,168,9,509,148,1212,839
+Francophone	652,2460,428,9,1505,994,320,649,303,24,138,1637,1674,63,98,1385,1290,783,140,152,776,13,168,9,509,148,1212,839,836
 Francophone Africa	652,241,1248,320,361,329,6,103,1,1461,332,1294,20,738,44,133,899,545,1965,39,62,30,160,1356,2057,1276,5,539,281,2565
 Francophone Africa App	3905
 Francophone Africa Cameroon Côte	10793
@@ -586,7 +594,7 @@ Francophone West and Central Africa URL	16178
 Francophone and Anglophone	10801,6738
 Francophone and Central Africans Abroad	16277
 Francophone. Francophone North Africa	12339
-Francophonie	1679,770,359,982,1313,741,138,1140,198,1398,173,621,2393,67,1329,380,99,14,90,16,528,66,55,898,46,87,90,266,28,663,1444
+Francophonie	1679,770,359,982,1313,741,138,1140,198,1398,173,621,2393,67,1329,380,99,14,90,16,528,66,55,898,46,87,90,266,28,663,1444,1187,10,83
 Francophonie Avant	7122
 Francophonie BAD Banque Africaine de Développement CSCRP	12
 Francophonie CONFEMEN	18931
@@ -682,7 +690,7 @@ Franz Belford	16100
 Franz Drees-Gross	10180,7172
 Franz Fanon University	15231
 Franz Gerner	11149
-Franz R. Drees-Gross Country Director	15659
+Franz R. Drees-Gross Country Director	15659,3580
 Franz R. Drees-Gross Division Director	15969,14,2215
 Franz R. Drees-Gross Practice Manager	11549,4153
 Franz U	16996
@@ -692,7 +700,7 @@ Franziska Jahn	1824
 Franzsen	8602
 Franzy KOUYA	16175
 França	2315,129,372,714,1862,13,152,15,247,5553,57,132,3819,314,1584,1501,17,6
-Français	1955,777,4210,2397,318,1309,799,278,1512,8,4,720,1,223,53,119,789,16,97,14,4,171,127,651,65,389,332,676,91,95,684
+Français	1955,777,4210,2397,318,1309,799,278,1512,8,4,720,1,223,53,119,789,16,97,14,4,171,127,651,65,389,332,676,91,95,684,482
 Français Ce	16309
 Français Contact Us Home About Us	13309
 Français DGHER	13377
@@ -822,6 +830,7 @@ Instituto S. Politécnico São Francisco de Assis	11552
 International Organisation of La Francophonie	7017,2026,5509
 International Organization of La Francophonie	3433
 Internet FCFA Franc CFA FCV Fragilité	15474
+Interprétariat-Traduction Français-Chinois-Français	19366
 Ivoire Other Francophone Africa Bayobab Head	10793
 J. Baptiste UWIMANA Violette NKURIKIYE Francine	13300
 Jean François Basse	14446,2005
@@ -841,7 +850,7 @@ KwaZulu-Natal Finance MEC Francois Rodgers	11266
 KwaZulu-Natal MEC for Finance Francois Rodgers	11267
 LA SOCIETE DE L’INFORMATION AGENCE FRANCAISE	18105
 LANGUE DU FRANÇAIS	13300
-La France	5029,5350,2,310,4851,394
+La France	5029,5350,2,310,4851,394,3284
 La Francophonie	3433
 Labour and Public Service Minister Faya François	4142
 Language English Français Português Information	12467
@@ -855,6 +864,8 @@ Libreville Franceville	16037
 Libreville and Franceville	15447
 Libreville. Port-Gentil and Franceville	15411
 Lieutenant MOBOUASSE Marie Françoise	15973
+Littérature Francophone	19366
+Littérature Française	19366
 Louis François	16100
 Luanda DICKSON ALEXANDRE FRANCISCO JOÃO	10751
 Luanda FRANCISCO CALVINO CATENGUE	10751
@@ -1141,7 +1152,7 @@ UK and France	5242
 UN REGARD SUR L'AFRIQUE FRANCOPHONE	15670
 UNDP Representative Henrik Franklin	13207
 UNDP Resident Representative Henrik Franklin	2001,2172
-UNECA La Francophonie	8673
+UNECA La Francophonie	8673,10601
 UNESCO and Agence Française de Développement	15411
 UNIVERSITE FRANCO-ARABE ATTADAMOUN NIAMEY	18170
 UNIVERSITE NUMERIQUE FRANCOPHONE MONDIALE FONDS DES	18105
@@ -1162,6 +1173,7 @@ WEST AFRICAN FINANCIAL COMMUNITY FRANC	3604
 WTP Willingness-To-Pay XOF Francs	11549
 West Africa Franc CFA	17870
 West African CFA Franc	10862,687
+West African CFA Francs	19239
 West African Franc	15424
 West African Francophone	3604
 West African and Francophone	3549
@@ -1170,8 +1182,10 @@ World Bank and Agence Française de Développement	9756
 Xavier François	16100
 Yannick Franz IGOHO	16099
 Zona Franca Comercial de Cabo Verde	15526
-Zone Franche	235
+Zone Franche	235,18974,12,53
+Zone Franche Besoins	19221
 Zone Franche de Nouadhibou	17937
 Zone Franche de Nouadhibou CAB Cabinet CCR-AOS	17873
+Zone FrancheAPI	19209
 Zones Franches	5993
 Zones Franches de Djibouti	1287

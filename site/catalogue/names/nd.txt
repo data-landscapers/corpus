@@ -655,6 +655,7 @@ MODIS NDVI	15715,1442
 MSU NAIC NAIS NDS1 NGO NUST	4528
 MSU NCRST NDS1 NRDS NRF NRPSP	1554
 MT NDP	18475
+MV Medium Voltage NDC Nationally Determined	19239
 MW Megawatt NDP National Development Plan	12399
 MW Ndzevane	13123
 Machine MNO Mobile Network Operators NDP	13346
@@ -703,6 +704,7 @@ Mean Time To Repair NDHSP	16041
 Mechanical Engineering Laboratory and NDT Laboratory	14736
 Medidas NDT Anexo	18760
 Medidas Nacionais NDT	18760
+Medium Enterprise NDC Nationally Determined Contribution	19245
 Medium Enterprises MTR Mid-Term Review NDP	18825
 Medium Enterprises NDPV Midterm Review NEP	10964
 Melchior NDADAYE	13500
@@ -867,6 +869,7 @@ ND Total ND ND	15599
 ND du SIFEF Disponibilité	17845
 ND-GAIN	969,1920,567,8104,1771,2184,146,1261,27,2,306,613,423,165
 ND-GAIN Index	11468,1
+ND-Gain	19220
 ND-Gain Index	15661
 ND-gain	16996
 ND135 Encours	11944
@@ -931,12 +934,14 @@ NDC Nationally Determined Contribution NDTS National	3604
 NDC Nationally Determined Contribution NEP Net	14997
 NDC Nationally Determined Contribution NGAO National	12256
 NDC Nationally Determined Contribution NPV Net	1264
+NDC Nationally Determined Contribution NSHI National	19284
 NDC Nationally Determined Contributions	14947
 NDC Partnership	15500
 NDC Partnership Action Fund and United Nations	11134
 NDC Partnership Climate Action Enhancement Package	15500
 NDC Tracking	3430
 NDC and NAP	17458
+NDC and National Adaptation Plan	19284
 NDCMP	14742
 NDCMP. The Secretariat	14742
 NDCREG	17140

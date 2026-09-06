@@ -248,7 +248,7 @@ Applicants. E. Procedures for Evaluation of Applications	1638
 Applicant’s Signature	14754
 Applicati	15580
 Applicatifs Promotion des TICs	10812
-Application	3,8,11,120,253,192,56,93,1,9,1,15,137,73,26,11,211,3,20,90,141,164,112,127,61,6,44,131,590,18,89,345,220,333,455,1076,288,132,14,54,187,512,352,764,59,238,143,34,108,993,561,55,668,311,3,98,37,109,10,154,48,4,9,45,34,76,172,63,286,75,11,4,20,10,9,46,6,91,7,66,3,2,25,92,4,1,4,22,1,2,7,28,3,5,37,84,1,3,13,1,31,23,26,1,18,2,1,2,8,110,120,15,3,7,3,10,6,3,10,1,10,8,69,4,31,14,121,81,12,9,3,8,2,50,27,5,30,9,26,25,5,20,41,7,701,142,13,2,1,16,19,23,10,44,10,19,81,66,1,1,2,3,7,6,7,1,2,2,9,52,8,36,30,25,21,67,26,8,54,45,35,1,15,6,15,7,135,32,50,51,1,4,15,87,3,56,2,2,7,48,14,8,79,108,29,253,64,75,171,24,105,86,118,3,1,3,4,5,3,9,25,15,2,76,254,11,6,1,10,29,45,127,9,64,246,32,171,56,83,193,7,106,9,9,13,4,3,44,21,10,15,44,28,47,148,60,3,2,32,5,9,51,3,48,31,19,87
+Application	3,8,11,120,253,192,56,93,1,9,1,15,137,73,26,11,211,3,20,90,141,164,112,127,61,6,44,131,590,18,89,345,220,333,455,1076,288,132,14,54,187,512,352,764,59,238,143,34,108,993,561,55,668,311,3,98,37,109,10,154,48,4,9,45,34,76,172,63,286,75,11,4,20,10,9,46,6,91,7,66,3,2,25,92,4,1,4,22,1,2,7,28,3,5,37,84,1,3,13,1,31,23,26,1,18,2,1,2,8,110,120,15,3,7,3,10,6,3,10,1,10,8,69,4,31,14,121,81,12,9,3,8,2,50,27,5,30,9,26,25,5,20,41,7,701,142,13,2,1,16,19,23,10,44,10,19,81,66,1,1,2,3,7,6,7,1,2,2,9,52,8,36,30,25,21,67,26,8,54,45,35,1,15,6,15,7,135,32,50,51,1,4,15,87,3,56,2,2,7,48,14,8,79,108,29,253,64,75,171,24,105,86,118,3,1,3,4,5,3,9,25,15,2,76,254,11,6,1,10,29,45,127,9,64,246,32,171,56,83,193,7,106,9,9,13,4,3,44,21,10,15,44,28,47,148,60,3,2,32,5,9,51,3,48,31,19,87,48,20,9,112
 Application Application	11
 Application Architecture	9124,5841
 Application Architecture Principles	14441
@@ -307,6 +307,7 @@ Application No	3700
 Application Number of Issues Raised Number of Issues	13053
 Application ODK COLLECT. Figure	13375
 Application Objects	12549
+Application ObservationsHépatite BSortie	19226
 Application PART II	1474,13406
 Application PART II OFFICE	13321
 Application PART II UNIVERSAL ACCESS	22
@@ -478,7 +479,7 @@ Application. This Law	16832
 Application.pdf United Nations Population Fund Liberia	17068
 ApplicationForms	1638
 ApplicationMobile	8028
-Applications	34,8,540,154,902,359,118,310,1053,312,71,667,307,31,495,172,899,316,182,438,151,25,4,427,202,173,187,69,92,336,95,7,2,65,31,57,184,264,136,44,139,61,14,24,95,58,37,60,75,45,419,18,170,6,41,133,210,335,10,53,64,68,307,6,145,30,61,72,276,11,9,118,7,72,29,99,1,9,35,376,261,135,328,96,19,10,157,15,35,62,48,14,24,44,34,153,188,115,249,9,7,383,437,76,5,211,3,1,3,4,24,17,1,15,49,14,431,60,428,20,137,66,174,18,20,2,5,161,110,192,198,206
+Applications	34,8,540,154,902,359,118,310,1053,312,71,667,307,31,495,172,899,316,182,438,151,25,4,427,202,173,187,69,92,336,95,7,2,65,31,57,184,264,136,44,139,61,14,24,95,58,37,60,75,45,419,18,170,6,41,133,210,335,10,53,64,68,307,6,145,30,61,72,276,11,9,118,7,72,29,99,1,9,35,376,261,135,328,96,19,10,157,15,35,62,48,14,24,44,34,153,188,115,249,9,7,383,437,76,5,211,3,1,3,4,24,17,1,15,49,14,431,60,428,20,137,66,174,18,20,2,5,161,110,192,198,206,175
 Applications Administration	15674
 Applications All ICT	16883
 Applications Center	14471
@@ -516,6 +517,8 @@ Applications for SBIP	5431
 Applications for Scholarships	12361
 Applications of Machine Learning	11336
 Applicationsphares	18297
+Applicative	19362
+Applicative. Inversement	19362
 Applicoiion	15429
 Applicotion	15429
 Applied	206,1157,625,108,852,1948,804,723,1062,274,1364,490,1023,90,243,169,746,1,10,264,1,45,146,4,132,550,2723,1356,1345
@@ -863,7 +866,7 @@ Earth Observation Application	13094
 Earth Station Application	736
 Ecole Supérieure Africaine Des TIC Application	15936
 Economic Application	4528,7984
-Economie Appliquée	15765,171,1906,1363
+Economie Appliquée	15765,171,1906,1363,161
 Economie Appliquée. ISSEA	17842
 Electrical Appliance Registration Certificates The Energy	12256
 Electronic Application	12389
@@ -971,6 +974,7 @@ Government WHO CAN APPLY The AI	10347
 Gross Settlement SAP System Application Product	13420
 Growth. Applied	12233
 Guidelines for Mobile Application Development	11004
+Géomatique Appliquée	19366
 HELB Bursary Applicants	2775
 HELB Loan Applicants	2775
 Haaga-Helia University of Applied Sciences. Manda	2093
@@ -1192,6 +1196,7 @@ Non Application	11944
 Non Application Mobile Etablissements Oui Oui	11944
 Non-Payment of Successful Grant Applicants	2307
 Notice of Motion Application	14460
+Notification. Applicants	19237
 Nov-2024 Restructuring Sequence.01 Not Applicable	11924
 NowCasting Satellite Application Facility	15907
 Nowcasting Satellite Application Facility	11191
@@ -1294,6 +1299,8 @@ Primary Suppliers Primary Suppliers Not Applicable	1988
 Principaux Textes Appliqués Ordonnance Ministérielle	13499
 Principes Comptables Applicables	15901
 Priorisation Application	15583
+Priorities for Application Decrees	19214
+Priorities for Application Decrees and Obtain Consensus	19214
 Priority Applicants	11314
 Priority Applications and Impact Areas The Indaba	13101
 Privacy Design Guidelines for Mobile Application Development	11004,960
@@ -1308,6 +1315,8 @@ Prospective Applicalion of Tariff Changes Unless	16851
 Prospective Application ofTariff Changes	16851
 Protection Application Report	7147
 Provincial Registrar. Applicants	12496
+Provisional Application	19214
+Provisional Application. Upon	19214
 Provisions Applicable	18556
 Prédiction Application	15583
 Public Land Application Form	16511
@@ -1539,6 +1548,7 @@ Transitional Application	17243
 Transitional Provisions and Temporal Application	3861
 Translucent Window Applicable for Senior Citizen THIRD	14740
 Tropical Applications of Meteorology	16135
+Tru Not Applications	19284
 Trust Services Applications for Core Government Functions	16876
 Type Application Fee	17250
 Type Approval Application Form	14883

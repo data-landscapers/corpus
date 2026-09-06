@@ -30,6 +30,7 @@ Agriculture Biotechnology and Indigenous Knowledge Systems	11183
 Agritech and Biotech Similarly	14566
 Air Quality and Noise Biological Resources and Natural	17114
 Alliance Bioversity International	13881
+Analyses Biomédicales	19366
 Angola's Biometric Border Control Agenda	9399
 Animal Health and Biosecurity	14818
 Animal Health and Biosecurity Endemic	14818
@@ -97,6 +98,7 @@ BIOMETRIC SYSTEM STANDARDS AND GUIDELINES Biometric	34
 BIOMETRICO ARTÍCULO	16871
 BIOMETRICS	9399
 BIOMETRIQUE Article	18101
+BIOMETRIQUE DES PERSONNES PHYSIQUES AU TOGO	19217
 BIOMETRIQUES Article	18101
 BIOMÉTRICO El Ministerio de Asuntos Exteriores	16905
 BIONGUET	15524
@@ -135,6 +137,7 @@ Bio-Mauritius	14818
 Bio-Medical Engineering Unit	12976
 Bio-data	11860
 Bio-metric	12359
+Bio-sureté	19366
 Bio-technology	13100
 Bio. For Dr Sengeh	18585
 BioAPI	11269,1736
@@ -147,10 +150,11 @@ BioNTech	3859,1113
 BioPV	2816
 BioSmart	4292
 Bioaccumulation	1988
+Biocarburant	19366
 Biochar Application Build	17157
 Biochar Management Department	17157
 Biocharbon PNUD Ministère	15500
-Biochimie	15674
+Biochimie	15674,3692
 Biochimiques	15674
 Biodegradable	1988
 Biodiesel	12233
@@ -177,6 +181,7 @@ Biodiversity and OHS	15659
 Biodiversity. MSB	14736
 Biodiversityand	16833
 Biodiversité	8673,218
+Biodiversité Végétale	19366
 Biodiversité. Difficultés	16627
 Bioenergy	12206,50,5,3927
 Bioenergy Bioenergy	12256
@@ -228,9 +233,10 @@ Biological Sciences and Technology	13952
 Biological Specimen and Pathogen Sharing	6534
 Biological Weapons Convention	17240
 Biological and Toxin Weapons Crimes Bill	8681
-Biologie	15674,556
+Biologie	15674,556,3136
 Biologie Moléculaire Appliquée	17829
 Biologie Médicale Appliquée Master Gestion des Ressources	17829
+Biologie Végétale	19366
 Biologistes	17845
 Biology	7759,4331,988,894,3024,1465,145
 Biology and Environmental BioloSgcyieanncdes Environm16e	1154
@@ -262,7 +268,7 @@ Biomedical Waste	18370
 Biomedical Waste Management Plan	11924
 Biometix Pty Ltd	2190
 Biometria	9990,2129
-Biometric	34,1742,40,51,72,61,282,36,6,103,20,74,14,6,25,48,44,62,5,27,14,12,41,1,3,50,41,11,18,4,70,1,8,102,52,105,18,95,31,31,142,3,18,72,47,10,68,69,141,37,21,280,185,78,145,12,37,6,254,159,66,32,57,49,45,60,6,37,7,62,32,181,8,70,116,183,19,70,19,24,5,120,8,21,5,104,1,149,7,4,12,43,210,218,58,18,96,556,5,944,428,201,84,365,13,353,8,291,98,10,257,77,113,708,10,60,99,81,42,22,69,303,432,1312,187,225,88,1346,560,24,4,298,280,118,202,732,60
+Biometric	34,1742,40,51,72,61,282,36,6,103,20,74,14,6,25,48,44,62,5,27,14,12,41,1,3,50,41,11,18,4,70,1,8,102,52,105,18,95,31,31,142,3,18,72,47,10,68,69,141,37,21,280,185,78,145,12,37,6,254,159,66,32,57,49,45,60,6,37,7,62,32,181,8,70,116,183,19,70,19,24,5,120,8,21,5,104,1,149,7,4,12,43,210,218,58,18,96,556,5,944,428,201,84,365,13,353,8,291,98,10,257,77,113,708,10,60,99,81,42,22,69,303,432,1312,187,225,88,1346,560,24,4,298,280,118,202,732,60,717
 Biometric Authentication Relying	15061
 Biometric Bribery	15301
 Biometric Census	14590
@@ -287,7 +293,7 @@ Biometric ID Systems From Yacouba Mai	4997
 Biometric ID and Biometric Passport	1637
 Biometric ID and Passport Laws	1637
 Biometric IDs	5886,7502
-Biometric Identification	1225,10939
+Biometric Identification	1225,10939,7081
 Biometric Identification System	17203
 Biometric Identification System AfCFTA African Continental	13095
 Biometric Identity	9399
@@ -312,7 +318,7 @@ Biometric Performance	1161
 Biometric Pioneer	10415
 Biometric Projects	9399
 Biometric R&D	6288,255
-Biometric Registration	9399
+Biometric Registration	9399,9849
 Biometric Registration Kits	13005
 Biometric Registry of Physical Persons	15518
 Biometric Resident Identification Card	16841
@@ -423,14 +429,19 @@ Biosse	11376
 Biossegurança	11376
 Biostat Epidemiol	8376
 Biostatística	9694
+Biosécurité	19366
 Biotech	4972
-Biotechnologie	1598,820,6668
+Biotechnologie	1598,820,6668,10280
+Biotechnologies Microbienne	19366
+Biotechnologies Végétales	19366
 Biotechnology	13100,246,5100,183
 Biotechnology Institute	14004
 Biotechnology Park	12956
 Biotechnology and Hydrogen Energy Dr Jitendra Singh	6480
 Biotecnología. Los	17415
+Bioénergie	19366
 Bioénergies	18021
+Bioéthique	19366
 Bio’s Special Envoy	11608
 Browser Biographic	12270
 Browser. Biographic	12269
@@ -501,6 +512,7 @@ DESCARGA DE INFORMACIÓN DE BIOKO	16875
 DR. JULIUS MAADA BIO	18450,7,2,4,2,1,1,1,73
 DTM SNFI WASH Biometric	9772
 DU PÈRE BIOLOGIQUE	13300
+Data Protection and Biometric Identification	19245
 Definition ABIS Automated Biometric Identification System	11986
 Dei Biopharma	3065
 Demographic and Biometric	12146
@@ -526,6 +538,7 @@ Double Biometric Layer	9390
 Dr. Biong Kuol Deng	18612
 Dr. Julius Maada Bio	18471,14,41,9
 Draft Biometric Identity Management Policy	11977
+Dynamique des Milieux Biophysiques	19366
 E BIOKO SUR ANNOBÓN CENTRO SUR	4209
 EC Collecte Données Biométriques Collection des Données	14480
 ECOWAS Biometric Cards	12015
@@ -600,11 +613,13 @@ Hydro Biofuels	17257
 IBOGA Official Biometric Identification	15518
 ID Biometric	6543
 ID. Biometric	6559
+IDENTIFICATION NATIONALE BIOMÉTRIQUE Développement	19221
 IDENTITY ENROLMENT AND BIOMETRIC CAPTURE	12047
 IEC Common Biometric Exchange Formats Framework	12360
 IEEE Journal of Biomedical and Health Informatics	8606
 INSTI. GOB IMAGEN KIE-NTEM BIOKO SUR	4209
 ISSUANCE OF BIOMETRIC ID CARDS	11706
+Identification Biométrique	19221,87
 Identification Biométrique Officielle	15518
 Identificação Biométrica	10754
 Identité Biométrique	3925,2034,2034,1675,307,4267,1,3953
@@ -771,6 +786,7 @@ Pasaportes Biométricos	16905
 Pasaportes Biométricos CEMAC	16871
 Pie Chart Key Progresses Biometric ID	17139
 Plano de Acção da Biodiversidade	11390
+Plantes Biotechnologies	19366
 Popularise the RAIC President Bio Appoints First	18442
 Portal Biometrics Application	11877
 Pour Abdoulaye Bio Tchané	11603
@@ -800,6 +816,7 @@ Questionário de Biomarcadores. Os	10777
 Questionários de Biomarcadores	10777
 Quinara Oio Biombo Bolama	11523
 RELATED ARTICLESMORE FROM AUTHOR President Bio	18522
+RELATIVE A L'IDENTIFICATION BIOMETRIQUE DES PERSONNES	19228,2
 RESSOURCES HUMAINES Tâches Biomédicales	16195
 Recherches Biomédicales	2625
 Reconhecimento Biométrico	3519
@@ -830,7 +847,7 @@ SHIP and Lagos BioShield	9444
 SOMETHING YOU ARE Biometric	10819
 Sabi Bruno Bio Nikki Saré	16359
 Safeguards for Biometric Identification	14664
-Sciences Biomédicales	16195
+Sciences Biomédicales	16195,3171
 Securitized and Multipurpose Biometric ID Cards	18471
 Seguimento da Biodiversidade	11542
 Sentinel-1 de Bioko	16875
@@ -872,6 +889,7 @@ Through BIOFIN	11586
 Togo Launches Biometric ID Registration	3437
 Tombali Bolama Quinara Biombo Cacheu Bissau	17001
 Towards E-Governance and Smarter Public Policies Biometric	2430
+Toxicologie des Substances Bioactives	19366
 Tratado de Biodiversidad Marina de Alta Mar	17282
 Treatment Antiretroviral Biosafety Cabinet Biosafety Level	4153
 Tunisia's Biometric ID and Passport Bills	4221

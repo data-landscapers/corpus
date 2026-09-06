@@ -1,6 +1,6 @@
 ABANYAMURYANGO BA ASSIMPER Article	15027
 ABBREVIATIONS ANAM National Agency for Medical Assistance	17906
-ADDITIONAL FINANCING Situations of Urgent Need of Assistance	18809
+ADDITIONAL FINANCING Situations of Urgent Need of Assistance	18809,475
 ADMINISTRATIVE ASSISTANT	18578
 AFMTD Berthe Tayelim Program Assistant AFMTD	18887
 AFRITAC Africa Regional Technical Assistance Center	16104
@@ -17,8 +17,12 @@ ARLANDA Jean Christian Laval Assistant	14770
 ARTICLE VI ASSIGNMENT AND SUB-CONTRACTING	13031
 ASSI Agence des Services	15479
 ASSI Franck Arnaud	2342
+ASSI Komi SGT	19251
 ASSI Nouveau Thème	16103
 ASSI Nouveau Thème ISO	16103
+ASSIA Manabida SCH	19251
+ASSIAH Esso-Essola ADJ	19251
+ASSIAH Essoyo Sosso SCH	19251
 ASSIDEP-MALI	17817
 ASSIETTE DE L'IMPOT CHAPITRE UNIQUE OBLIGATIONS	15999
 ASSIETTE DE L’IMPOT Chapitre	16020
@@ -29,6 +33,13 @@ ASSIGNMENT LOGBOOK. A01a. Time	17127
 ASSIGNMENT PAGEREF	15090
 ASSIGNMENT TITLE	11750
 ASSIGNMENTS LUMP-SUM PAYMENTS CONTRACT No	13037
+ASSIH Bilanabidi PM	19251
+ASSIH Bénéwai ADJ	19251
+ASSIH Mazama-Esso SGT	19251
+ASSIH Toi	19251
+ASSIH Toyi SCH	19251
+ASSIKI Esoèsowou ADC	19251
+ASSIKI Essohanam ADJ	19251
 ASSIMILEES	17841
 ASSIMILEES Charges	18032
 ASSIMILEES V4C	17833
@@ -57,6 +68,7 @@ ASSINANTES E TAXA DE PENETRAÇÃO Em	18791
 ASSINANTES STF	18791
 ASSINATURA Ano	11365
 ASSINATURAS ELECTRÓNICAS	11582
+ASSIOM Etche ADJ	19251
 ASSIS-TRANS	15780
 ASSISES DE L’AGRICULTURE	14818
 ASSIST	16864,1672
@@ -135,12 +147,14 @@ Armée Assimi GOÏTA	1968,15961
 Armée Assimi Goïta	7926,1033,9111,4
 Article VI Assignment and Sub-Contracting	13031
 Artificial Intelligence Projects Assistant	5036
+Assessment ESMAP Energy Sector Management Assistance	19239
 Assets of ASSIMPER	15027
 Assia Bechari	15360
 Assia Benchabla-Queiroz	10515
 Assia Daoudi	16344
 Assia Kerroumi	15410
 Assia Sahraoui	15933
+Assiah	19284
 Assiduidade	6462,9863
 Assiduité Ethique	15780
 Assiette	10712,4637,698,2285
@@ -155,7 +169,7 @@ Assigned Names and Numbers ICPAK Institute of Certified	6946
 Assigned Task Assigned Section	13037
 Assignee	18881
 Assigner	13468
-Assigning	961,200,5432,4536,2,7645
+Assigning	961,200,5432,4536,2,7645,549
 Assigning and Maintaining Addresses for Objects	13221
 Assigning the Appropriate Risk Classification	17114
 Assignment	427,3251,4150,718,577,2734,12,72,35,32,635,5,245,138,6,46,102,1565,393,40,718,1072,15,1479,397,23
@@ -246,7 +260,7 @@ Assist the Poor	100,8647,2230,4065
 Assist the Poor Carte Nationale	17870
 Assist the SADC Secretariat	962
 Assist-Advise	11156
-Assistance	26,1258,499,6,1,1,1,3,931,1,481,329,891,1531,235,891,4,1148,2489,37,113,44,55,10,196,199,525,122,118,152,615,4,12,107,7,258,14,119,9,120,127,249,628,15,148,7,6,35,7,142,485,13,50,15,53,43,29,59,59,6,163,33,2,18,11,134,76,75,25,345,1,6,54,33,188,47,29,136,105,107,13,543,2,10,77,36,8,16,65,23,167,11,13,2,4,106,43,23,52,161,280
+Assistance	26,1258,499,6,1,1,1,3,931,1,481,329,891,1531,235,891,4,1148,2489,37,113,44,55,10,196,199,525,122,118,152,615,4,12,107,7,258,14,119,9,120,127,249,628,15,148,7,6,35,7,142,485,13,50,15,53,43,29,59,59,6,163,33,2,18,11,134,76,75,25,345,1,6,54,33,188,47,29,136,105,107,13,543,2,10,77,36,8,16,65,23,167,11,13,2,4,106,43,23,52,161,280,233,27,11,8,13
 Assistance Activities TOC Theory of Change ToR	17862
 Assistance Afrique Centrale Copyright	16403
 Assistance Centre AfRITAC African Growth and Opportunity	17235
@@ -277,16 +291,20 @@ Assistance Questions	14683
 Assistance SPV West Africa Regional Communications	15424
 Assistance Scheme	17906
 Assistance Sociale	13442
+Assistance Sociale Transformatrice	19284
 Assistance Strategy	1264
 Assistance Strategy for Sub	15424
 Assistance T	1307,724,2277
 Assistance TEE Total Expenditure	18765
+Assistance TESSIP Togo Energy Sector Support	19239
 Assistance TORs Terms	15969
 Assistance Technique	643,1185,4999,898,5708,2371,842,1248,371,702
 Assistance Technique B2G Business	11944
 Assistance Technique MEF	1307,724,2277
+Assistance ToC Theory of Change TVET Technical	19245
 Assistance ToC Theory of Change ToR Terms	3604
 Assistance Total Public	18795
+Assistance Transformation for Resilience	19245
 Assistance Trésorier	17828
 Assistance UGPE Special Projects Management Unit	16187
 Assistance VAT Value Added Tax TABLE	18825
@@ -297,6 +315,7 @@ Assistant	12151,344,198,26,1847,190,660,16,172,81,59,192,351,108,704,230,318,330
 Assistant AFMCG	15372
 Assistant Accountant	12972,5,5599
 Assistant Accountants	18576
+Assistant Administratif	19366
 Assistant Attorney General for National Security John	11342
 Assistant Auditors	12972
 Assistant Buba Barrow Operations and Programme Assistant	11332
@@ -474,7 +493,7 @@ Assistive Technologies	13633
 Assistive Technologies Summer Internship Program	16046
 Assistive Technology	16046
 AssistiveMath	8209
-Assisté	13306
+Assisté	13306,5906
 Assistência	10777,588,28,176,7231,1
 Assistência Humanitária	12859
 Assistência Social	18779
@@ -492,6 +511,8 @@ Assiut Governorate	15473
 Assiut and Suhag	15604
 Assizes	14742,105
 Association des Employeurs ASSIMPER	15027
+Assurance of Future Assistance	19214
+Assurance of Future Assistance. Nothing	19214
 Attachés ASSISTANTES Le Ministère A Propos	15449
 Authorized Public Disclosure Authorized Social Assistance	16902
 Automated Biometric Identification System ADR Assistant	13005
@@ -686,6 +707,7 @@ EPA Assistant Director for Environmental and Social Impact	17260
 EPR Technical Assistance Facility	15140
 ESA Global Development Assistance	17405
 ESMAP Energy Sector Management Assistance Program	11549,23,6531
+ESSO Assimah MP	19251
 ESTAP Energy Sector Technical Assistance Project	18614
 ET D’ACCOUCHEMENT ASSISTÉ	17843
 EU Technical Assistance Fund	19179
@@ -779,6 +801,7 @@ Food Assistance	17985
 Food Assistance Grants	12962
 Food Assistance Programme	13123
 Forces United Nations Integrated Transition Assistance	15342
+Foreign Assistance Act	19214
 Foreign Assistance Office Ministerio	10713
 Foreign Assistance Office U.S. Embassy Avenida	4260
 Foreign Office Consultations India’s Economic Assistance	16275
@@ -917,6 +940,7 @@ John Fred Mbewe Accounts Assistant	13392
 Journal of Computer Assisted Learning	8602
 KawiSafi Ventures Technical Assistance Facility	12191
 Khalifa Al Abdulsalam Assistant Professor	2958
+Kossiwa Naman Procurement Team Program Assitant	19284
 L24 ASSIMILES	18032
 LNO Assistance	14777
 La Gestion des Matériels Assisté	13341
@@ -936,6 +960,7 @@ Les Assises	14818
 Licensing and Customer Relations Assistant	16978
 Lidia Brito Assistant Director-General	18796
 Lieutenant Assitan KANIKOMO Lieutenant Mamadou TALL	17828
+Lieutenant-colonel KOTA-MAMAH Assianam Nisson	19251
 Lifeline Assistance	14723
 Literacia. Assim	11569
 Logistical Assistant	18464
@@ -947,7 +972,7 @@ L’EMPLOI ATS ASSISTANT DES TRAVAUX STATISTIQUES	18143
 M. Mahamat Assileck Halata. Ensemble	3224
 MA MAÎTRE ASSISTANT MC MAITRE	18143
 MA MAÎTRE ASSISTANT MC MAÎITRE	18170
-MAIN Situations of Urgent Need of Assistance	18809
+MAIN Situations of Urgent Need of Assistance	18809,475
 MANAGEMENT Assistant Juridique	15674
 MANAGEMENT Assistant de Direction	15674
 MBEMBA Trésor Maurel METP Assistant	16012
@@ -1195,6 +1220,7 @@ Resource Executive Office Management Assistant Support	14835
 Resources Assistant Manager Human Resources Human	14835
 Resources IAP Inventor Assistance Programme ICT	11250
 Responsibilities. Assignment	18467
+Results Report Togo Social Assistance Transformation	19242
 Retour Volontaire Assisté	18265
 Rwanda Official Development Assistance Report	12333
 Rwanda Technical Assistance Facility	14935
@@ -1248,6 +1274,7 @@ Snr Communication Assistant	10864
 Social Assistance	2307,8678,870,518,290,811,299,1746,82,783,518
 Social Assistance Act	2307,8032,4154
 Social Assistance Act. SASSA	6222
+Social Assistance Aims	19245
 Social Assistance Benefit	16902
 Social Assistance Benefit Disaster Compensation Benefit	16902
 Social Assistance Benefit The Social Assistance	16902
@@ -1268,7 +1295,7 @@ Social Assistance and Beyond	16867
 Social Assistance and Education	11245
 Social Assistance. Patient Monitoring	10775
 Social Insurance Labor Market Social Assistance	10985
-Social Registries for Social Assistance and Beyond	10819,314,5734
+Social Registries for Social Assistance and Beyond	10819,314,5734,2370
 Social Welfare Assistance	18888
 Son Excellence le Colonel Assimi GOITA	15676
 Souraya El Assiouty	15519
@@ -1360,6 +1387,8 @@ Terms of Reference Technical Assistance	11941
 Tertiary Education Financial Assistance	12923
 Togo ASSIH	6613
 Togo CAS Country Assistance Strategy CERT	17862
+Togo Social Assistance Transformation for Resilience PforR	19245
+Togo Social Assistance Transformation for Resilience Program	19242
 Trade Commissioner Assistant	10120
 Trades Workers Food Preparation Assistants Food	16266
 Traffic Data Mutual Assistance Regarding Accessing	18675
@@ -1392,6 +1421,7 @@ United General Insurance Assistant Manager Colleta	7364,5852
 United Nations Assistance Mission	15478
 United Nations Assistant High Commissioner	1963
 Unité Assistance Technique	18297
+Use Only Togo Social Assistance Transformation	19242
 VIRTUAL ASSISTANT	10762
 VOLUNTARY DELISTING Assisted	4896
 Victim Assistance	18611
@@ -1400,6 +1430,7 @@ Virtual Teaching Assistants and Chatbots	14812
 Visa and Legal Assistance	12675
 WBG's Regional Integration Assistance Strategy for Africa	15372
 WFP's Differentiated Assistance Framework	12297
+WURI Project and Togo Social Assistance Transformation	19284
 Wake-Up Call for Social Assistance	10985
 Wave. Assistant Superintendent of Immigration Meita M	14260
 Welfare Corporation PDA Personal Digital Assistant	16843
@@ -1411,6 +1442,7 @@ Woman Deputy Assistant Superintendent of Police	14760
 Woman Police Assistant Superintendent	14760
 Workers Food Preparation Assistants	16266
 World Bank Regional Integration Assistance Strategy	15372,52,2438
+World Bank-financed Togo Social Assistance Transformation	19245
 World Bank. Country Assistance Strategy	15601
 World Bank’s Social Assistance PER	15663
 World Bank’s Social Assistance Public Expenditure	15663

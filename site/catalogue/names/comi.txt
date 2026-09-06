@@ -22,6 +22,7 @@ B Comisario Grupo B Consejero Grupo	4209
 B Comissão Técnica	15572
 C Comissão Nacional de Direitos Humanos	6530
 C Comissão de Acompanhamento	15572
+CAT Comité	19350
 CEA Comisión Económica	16898
 CEMAC Le Comité Technique	11944
 CENTRALE COMITE MINISTERIEL REGLEMENT N	15442
@@ -53,6 +54,7 @@ COMISSÃO NACIONAL DE ELEIÇÕES	11528,3831
 COMISSÕES REGIONAIS DE ELEIÇÕES	11528
 COMITE Chercheur	17861
 COMITE DE COORDINATION DES ETUDES STATISTIQUES	17535
+COMITE DE DIRECTION Il	19260
 COMITE DE DIRECTION. Article	15416
 COMITE DE LA CIRCONSCRIPTION ADMINISTRATIVE	15456
 COMITE DE PILOTAGE DE MISE EN	17832
@@ -84,8 +86,10 @@ CP Comité de Pilotage CTS Comité Technique	13341
 CPDN Comité	18310
 CROSS-BORDER DATA FLOWS AND INTERNATIONAL COMITY	3861
 CRR Comissão de Resolução de Reclamações CRVS Registo	11390
+CS Comités	19216
 CSGH Comité Sénégalais des Droits	18286
 CSI Comité	14437
+CT Comité	19216
 CT Comité Tarifaire DPDC Dibamba Power	10975
 CT2 Comité	18315
 CT3 Comité	18315
@@ -96,7 +100,7 @@ CUA Comisión	16898
 Cabinet MEPSIR INS Comité	15580
 Cables Are Coming	2677
 Capacitação A Comissão Nacional de Protecção de Dados	15856
-Ce Comité	17978,144
+Ce Comité	17978,144,1094
 Celador Comisario Grupo D Coordinador Grupo	4209
 Central CPE Comité de Programas Estadísticos CSRR	16898
 Chef Seydou COULIBALY Comité	17978
@@ -309,7 +313,7 @@ Comite de Satélite	1215
 Comite du Mali	17829
 Comites	13292
 ComitÃ	18887
-Comité	545,98,104,500,432,23,53,213,374,233,129,104,237,10,207,43,268,636,211,131,56,513,289,97,124,186,75,102,50,696,88,469,235,90,162,5,25,30,49,64,21,22,60,38,427,60,216,34,185,3,178,225,195,308,209,136,214,37,81,42,130,18,26,4,1,15,8,25,2,26,63,10,629,57,82,56,69,39,37,55,11,2,31,1257,6,35,49,43,9,10,16,167,72,74,46,596,1,26,33,55,41,262,186,75,24,257,22,11,7,6,9,16,4,16,1,18,33,16,15,12,11,3,5,7,4,4,36,29,3,2,3,9,27,8,4,14,8,11,10,19,62,60,28,25,4,34,13,25,52,10,4,2,25,44,1,10,10,55,125,94,76,38,4,26,7,13,28,53,31,153,331,53,161,5,2,134,4,52,57,52,63,4,1,2,5,3,2,3,1,9,3,3,13,11,2,2,3,3,6,8,3,12,67,5,30,2,6,11,45,13,2,29,22,10,3,9,4,1,1,6,11,22,14,14,13,3,4,28,5,11,3,1,6,3,1,6,1,1,3,5,43,8,11,6,2,1,4,3,2,2,346,12,16,8,4,188,42,93,66,8
+Comité	545,98,104,500,432,23,53,213,374,233,129,104,237,10,207,43,268,636,211,131,56,513,289,97,124,186,75,102,50,696,88,469,235,90,162,5,25,30,49,64,21,22,60,38,427,60,216,34,185,3,178,225,195,308,209,136,214,37,81,42,130,18,26,4,1,15,8,25,2,26,63,10,629,57,82,56,69,39,37,55,11,2,31,1257,6,35,49,43,9,10,16,167,72,74,46,596,1,26,33,55,41,262,186,75,24,257,22,11,7,6,9,16,4,16,1,18,33,16,15,12,11,3,5,7,4,4,36,29,3,2,3,9,27,8,4,14,8,11,10,19,62,60,28,25,4,34,13,25,52,10,4,2,25,44,1,10,10,55,125,94,76,38,4,26,7,13,28,53,31,153,331,53,161,5,2,134,4,52,57,52,63,4,1,2,5,3,2,3,1,9,3,3,13,11,2,2,3,3,6,8,3,12,67,5,30,2,6,11,45,13,2,29,22,10,3,9,4,1,1,6,11,22,14,14,13,3,4,28,5,11,3,1,6,3,1,6,1,1,3,5,43,8,11,6,2,1,4,3,2,2,346,12,16,8,4,188,42,93,66,8,19,2,2,30,41,71
 Comité Activité	17845
 Comité Alargado	18763
 Comité Amplo	18763
@@ -383,7 +387,7 @@ Comité Nacional de Registo Civil	11537
 Comité Nacional de Seguridad	4209,12880
 Comité Nacional de Transporte	4209,13180
 Comité Nacional de Turismo	4209,12787
-Comité National	2625,8294,21,2360,23,11,108,996,1,1103,169,254,1859,5,9,7,138,111,25
+Comité National	2625,8294,21,2360,23,11,108,996,1,1103,169,254,1859,5,9,7,138,111,25,1090
 Comité National DECRET N	17829
 Comité National Economique	10965,4517,964
 Comité National ITIE	17838
@@ -413,7 +417,8 @@ Comité National du Recensement	15557
 Comité NationalGouvernement	18100
 Comité NationalITIE	17838
 Comité Para-Olímpico Cabo-vAerdCiOanNoS	15694
-Comité Permanent	13442
+Comité Permanent	13442,5767
+Comité Permanent des Agréments	19209
 Comité Population	17829
 Comité Presidencial	11461
 Comité Produire	10975
@@ -491,8 +496,9 @@ Comité de Coordination National	15685
 Comité de Coordination des Etudes Statistique. Toutefois	17535
 Comité de Coordination des Etudes Statistiques	17535
 Comité de Datos Fiscales	4209
-Comité de Direction	15366,106,152,2545
+Comité de Direction	15366,106,152,2545,1049,42,35
 Comité de Direction COGES	15423,262
+Comité de Direction Composé	19295
 Comité de Direction. CHAPITR ON IL D'AD	15400
 Comité de Direction. SERVICES DECONCENTRES	18169
 Comité de Direcção	8594
@@ -503,6 +509,7 @@ Comité de Facilitación	17194
 Comité de Facilitation	5993
 Comité de Gestion	14424,1,3449
 Comité de Gestion COMEG	15423,262
+Comité de Gestion CPC	19226
 Comité de Gestion Scolaire CP1	15673
 Comité de Gestion des Etablissements Scolaires CE1	10847
 Comité de Gestion des Plaintes	14425
@@ -588,14 +595,17 @@ Comité de Stabilité Financière	8316
 Comité de Suivi	10965,4703,2454,278,2,1
 Comité de Sécurité	15472
 Comité des Affaires Monétaires	7956,5496
+Comité des Assureurs du Togo	19264
 Comité des Chefs	16633
 Comité des Cible	17983
+Comité des DSI	19362
 Comité des Directeurs des Systèmes	15936
 Comité des Droits	10826
 Comité des Experts	14849,3134
 Comité des Experts Statutaire	15352
 Comité des Experts des Nations Unies	17983
 Comité des Il	17983
+Comité des Pêches	19220
 Comité des Risques	16613
 Comité des Régulateurs	17819
 Comité des Si	17983
@@ -610,7 +620,7 @@ Comité. Il CREATION	17817
 Comité2	13442
 ComitéTechniqueSectoriel	15416
 ComitédePilotageduprojet	15525
-Comités	1679,663,8158,2790,188,1624,314,152,1,116,26,1,136,88,1876,137,34,49,254,16,20,2
+Comités	1679,663,8158,2790,188,1624,314,152,1,116,26,1,136,88,1876,137,34,49,254,16,20,2,892
 Comités Bassary TOURE de Bassins	17812
 Comités Científicos	17422
 Comités Científicos. Uno	10487
@@ -678,10 +688,13 @@ Células Sectoriales Comisión Nacional de Coordinación	4209
 D.C. Comité National Economique	1828
 DANS LA CEMAC LE COMITE MINISTERIEL	15482
 DATE OF COMING INTO EFFECT	16830
+DE COMMUNICATIONS ELECTRONIQUES LE COMITE	19218
 DE L'AFRIQUE CENTRALE LE COMITE MINISTERIEL	15442
 DE L’ASN Codes Désignation CT1 Comité	18315
 DEEG Membres du Comité Deux	18286
 DES COMITES ET SOUS COMITES TECHNIQUES	18315
+DU COMITE DE COORDINATION ET	19241
+DU COMITE DE DIRECTION DE L’AUTORITE	19218
 DU COMITE DE GESTION Section	17874
 DU COMITE DE OIRECTION Article	15366
 DU COMITE D’ETHIQUE ET DE DEONTOLOGIE	17874
@@ -767,7 +780,7 @@ Land Search System Coming Soon	19184
 Le Comilé	15438
 Le Comite	18296
 Le Comite Technique	14562
-Le Comité	735,2320,4837,64,2870,48,2,26,1141,1664,717,1,58,544,75,281,33,13,9,20,111,116,82,81,189,148,65,295,42,26,14,821,364,4,1,2,8,5,9,4,29,2,156,254,46,62,20,783
+Le Comité	735,2320,4837,64,2870,48,2,26,1141,1664,717,1,58,544,75,281,33,13,9,20,111,116,82,81,189,148,65,295,42,26,14,821,364,4,1,2,8,5,9,4,29,2,156,254,46,62,20,783,21,2,136
 Le Comité Annexe	15908
 Le Comité Communal de Promotion du Genre	15383
 Le Comité Directeur	17844
@@ -825,8 +838,10 @@ Licence CCCE Comité Consultatif des Consommateurs	10975
 Likes Le Comité	16174
 Língua CCM Comité de Coordenação	11557
 L’opérationnalisation du Comité	15493
+M. BROOHM Djahlin Pour le Comité de Direction	19218
 MALI Le Comité	17812,49
 MALI Le Comité de Gestion	17874
+MEMBRES DE COMITE DE REFUGIES DANS	19252,21
 MEMBRES DES COMITÉS D’AUDIT ET	2342
 Mamadou Ngalgou KANE Comité Production IPSM	18418
 Maroc Le Comité de Pilotage	17484
@@ -921,6 +936,7 @@ Rede Lusófona de Proteção de Dados A Comissão	3079
 Regimento Interno da Comissão Nacional de Eleições	15359
 Regional and International Comity	3861
 Remontée des Comité	11944
+Renouvellement du Comité	19250
 Representantes da Comissão Intersectorial	10752
 Responsabilités du Comité	15027
 Responsabilités du Comité de Ingingo	15027
@@ -945,6 +961,7 @@ Réunions du Comité Exécutif	13518
 SECÇÃO III COMISSÕES FUNDIÁRIAS SUBSECÇÃO	11527
 SECÇÃO IV Comissão Executiva Artigo	18800
 SENHORES MEMBROS DA COMISSÃO PERMANENTE	12796
+SERVICES DE COMMUNICATIONS ELECTRONIQUES LE COMITE	19218
 SESSION DU COMITE DE PILOTAGE	18021
 SIGNIFICATON ABREVIATIONS ABREVIATIONS CP Comité de Pilotage	17845
 SMS Rates PREPAID Gamcel Africell Comium	16992

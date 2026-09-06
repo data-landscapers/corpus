@@ -130,6 +130,7 @@ Cnr Mayixhale Street and Adriaanse Ave	8999
 Cnr Of Odendaal And Church Street	8999
 Collaborative Innovation Ecosystem Strengthen	18480
 Collaborative Support for Health Systems Strengthening	97
+Collection Strengthening	19284
 Collection Sub-indicator Gender Strengthening	11905
 Community System Strengthening Outcome Results	12939
 Community Systems Strengthening	12939
@@ -285,6 +286,7 @@ Floor Belmont House Intendance Street Port	14847
 Focus Areas. Strengthening of Legal	18456
 Food Safety Strengthen	14818
 Forward-looking and Strengthened Regulation	10
+Fourteenth Street	19214
 Fr.rxingmeunei Street	15399
 Frame Strengthen Governance	16996
 Framework Strengthening	18577
@@ -327,7 +329,7 @@ Groups Monitor Seasonal and Geographic Variations Strengthen	17285
 Guidelines for Street Naming and Property Numbering	11129
 H Street	3456,4199,3059,51,10,37,151,582,783,206,577,412,190,717,123,23,336,601,1141,21,1699,82,323
 H Street N.W	2474
-H Street NW	7655,3130,56,60,75,1,8,151,13,122,301,295,7,5,2,1,36,428,195,118,653,2,703,880,162,388,27,6,13,1133,250,66,54,873,1,26,10,1025
+H Street NW	7655,3130,56,60,75,1,8,151,13,122,301,295,7,5,2,1,36,428,195,118,653,2,703,880,162,388,27,6,13,1133,250,66,54,873,1,26,10,1025,306
 H Street NW Washington	4214,3441,5740
 H Street NW Washington DC	4214,6571,56,135,295,603,5,467,1049,4511
 HSPSP Health System Performance Strengthening Project	11380
@@ -417,6 +419,7 @@ Internet Upgrade for Tubman University LTA Strengthens	17187
 Irrigation Systems Under Stress Water	17157
 Ivory Coast and US Strengthen Digital Cooperation	5437
 J. Koenig Streets	14847
+J. and J. Liu Streeter	19284
 J.Koenig Street	14847
 Jerningham Street	14847
 Johannes Ramokhoase Street	6124,5923
@@ -568,7 +571,7 @@ Objectives and Goals of Street Addressing	11129
 Okin Street	10049
 Old Executive Building Ashmun Street	17364
 Open Space Okarundu Street Wanaheda Soweto	13046
-Open Street Map	1984,10993,2470,2455
+Open Street Map	1984,10993,2470,2455,1335
 Operation ID Strengthening Climate Resilience	17962
 Operation Name P501343 Strengthening Electricity Services	15969
 Operation Name Strengthen Ethiopia's Adaptive Safety	14038
@@ -659,6 +662,7 @@ Regional Grid Strengthening Activity	87
 Regional Training Strengthens Flood Forecasting	16239
 Registry The World Bank Strengthening Social	15663
 Regulation Institutional Strengthening	12625
+Regulator Strengthening Activity	19214
 Regulatory Reforms Streamline	17011
 Relative Strength	15164
 Relative Strength Index	18724
@@ -901,7 +905,7 @@ Strenghtening Climate Resilience	8891
 Strength	9123,732,1376,685,294,795,380,1779,1847,1098,45,216,672
 Strength Weaknesses Opportunities Threats UN United	14965
 Strength of Intellectual Property Rights Protection	12389
-Strengthen	32,364,375,18,110,59,3,9,30,155,622,37,14,57,68,1630,257,146,140,27,14,93,41,450,97,133,263,2,287,143,4,349,126,35,223,23,6,352,38,104,2,9,2,2,161,95,288,53,373,262,89,873,333,182,99,96,82,504,279,48,11,33,17,36,120,19,127,2,3,4,9,7,39,36,44,2,276,58,252,3,39,1,10,8,40,22,2,20,47,83,20,43,13,15,11,6,4,5,74,27,3,17,8,15,22,23,9,45,65,31,1,79,1,53,195,16,25,11,2,13,15,53,12,10,129,12,89,2,2,6,25,1,13,59,69,149,18,98,116,42,15,11,2,628,56,33,19,49,15,9,3,1,10,16,4,37,1,55,15,3,3,27,12,1,12,11,7,20,12,24,13,32,24,3,15,22,34,80,128,75,33,11,9,11,93,17,40,27,5,20,12,12,23,85,56,23,15,20,18,210,249,138,145,133,6,5,4,9,10,16,20,5,15,1,6,2,16,1,2,1,4,10,11,15,7,12,13,43,19,11,11,12,18,39,64,25,11,68,506,14,417,4,54,11,88,20,2,1,6,36,6,2,4,2,38,2,63,34,96,117,34,10,18,93,18,26,49
+Strengthen	32,364,375,18,110,59,3,9,30,155,622,37,14,57,68,1630,257,146,140,27,14,93,41,450,97,133,263,2,287,143,4,349,126,35,223,23,6,352,38,104,2,9,2,2,161,95,288,53,373,262,89,873,333,182,99,96,82,504,279,48,11,33,17,36,120,19,127,2,3,4,9,7,39,36,44,2,276,58,252,3,39,1,10,8,40,22,2,20,47,83,20,43,13,15,11,6,4,5,74,27,3,17,8,15,22,23,9,45,65,31,1,79,1,53,195,16,25,11,2,13,15,53,12,10,129,12,89,2,2,6,25,1,13,59,69,149,18,98,116,42,15,11,2,628,56,33,19,49,15,9,3,1,10,16,4,37,1,55,15,3,3,27,12,1,12,11,7,20,12,24,13,32,24,3,15,22,34,80,128,75,33,11,9,11,93,17,40,27,5,20,12,12,23,85,56,23,15,20,18,210,249,138,145,133,6,5,4,9,10,16,20,5,15,1,6,2,16,1,2,1,4,10,11,15,7,12,13,43,19,11,11,12,18,39,64,25,11,68,506,14,417,4,54,11,88,20,2,1,6,36,6,2,4,2,38,2,63,34,96,117,34,10,18,93,18,26,49,79,20,50
 Strengthen AI	1204,2922,3422
 Strengthen AI Capacity	12723
 Strengthen AI Skills Under Digital	7488
@@ -1131,6 +1135,7 @@ Strengthen Sudanese	15342
 Strengthen Supply Chain Security and ICT Verification	6936
 Strengthen Surveillance of Climate-Sensitive Diseases	13121
 Strengthen Sustainable Human and Institutional Capacity	17116
+Strengthen System Management Baseline Actual	19249
 Strengthen TVET	14922
 Strengthen Talent Attraction and Retention Mechanisms	14819
 Strengthen Tax Policy Formulation and Tax Administration	13910
@@ -1180,12 +1185,13 @@ Strengthen the Nationwid X X X X	15845
 Strengthen the PFM	14935
 Strengthen the Phase	14997
 Strengthen the Planning Cadre	12962
+Strengthen the Program	19242
 Strengthen the QA Function	17364
 Strengthen the Relationships	1777
 Strengthen the Strengthen	1777
 Strengthen the TVET	14922
 Strengthen the Tax Base	18825
-Strengthened	115,855,185,425,3665,1701,3830,53,305,286,105,380,11,8,62,69,186,67,91,58,1,105,31,92,43,235,10,31,161,148,104,94,20,406,61,116,22,537,7,66,71,117,50,12,37,5,85,24,263,102,91,54,67,212,14,81,285,119,195,313,5,22,40,88,17,67,77,29,701,380,88,71,236,277
+Strengthened	115,855,185,425,3665,1701,3830,53,305,286,105,380,11,8,62,69,186,67,91,58,1,105,31,92,43,235,10,31,161,148,104,94,20,406,61,116,22,537,7,66,71,117,50,12,37,5,85,24,263,102,91,54,67,212,14,81,285,119,195,313,5,22,40,88,17,67,77,29,701,380,88,71,236,277,242
 Strengthened Acute Flaccid Paralysis	10776
 Strengthened All	11905
 Strengthened Arab-African	16470
@@ -1216,7 +1222,7 @@ Strengthened Support for Foundational Reading and Math	11905
 Strengthened TVET	18458
 Strengthened Transparency and Accountability HRIMS	13477
 Strengthenin	15661,1780
-Strengthening	21,557,188,207,182,64,29,13,269,50,248,57,384,190,66,297,67,59,132,163,20,50,174,117,10,4,243,116,69,80,37,22,164,81,105,154,159,92,304,72,35,134,48,137,7,23,212,256,248,177,335,8,310,302,85,76,54,183,75,22,27,91,150,16,43,45,131,158,435,295,118,64,118,22,10,72,17,16,98,167,52,8,139,11,117,65,106,80,61,4,1,39,10,11,1,3,21,99,16,11,6,8,11,115,3,2,101,13,12,3,6,4,14,2,65,61,52,25,59,43,267,10,24,8,1,10,8,41,23,15,5,37,106,20,4,1,30,4,4,6,13,1,2,10,9,1,39,30,4,38,32,12,10,19,26,128,12,2,15,3,37,66,12,18,73,85,33,12,8,3,2,10,20,23,14,53,16,12,81,110,35,43,3,23,7,50,57,60,62,27,82,67,20,9,8,1,70,6,134,16,16,47,28,38,28,183,132,61,47,72,6,9,12,4,41,1,9,3,24,5,38,24,1,12,5,25,6,16,10,45,22,29,22,23,2,17,7,178,69,13,87,2,5,35,51,54,1,2,2,30,9,11,12,18,9,149,15,8,7,29,9,44,19,47,58,7,42,99,28,4,12,55,52,144,58,16,21,84,2,1,1,1,1,1,1,91,5,4,5,4,7,1,1,42,8,7,1,6,2,9,3,8,2,2,10,9,2,21,20,6,49,7,15,2,23,10,8,39,61,3,29,14,61,3,37,34,3,17,45,36,56,53,222,34,5,41,12,28,16,98,19,2,8,19,141,8,48,5,5,11,88,29,1,33,8,3,5,27,55,21,44,1,17,9,54,5,25,28,2,15,11,36,24,20,54,23,34,51
+Strengthening	21,557,188,207,182,64,29,13,269,50,248,57,384,190,66,297,67,59,132,163,20,50,174,117,10,4,243,116,69,80,37,22,164,81,105,154,159,92,304,72,35,134,48,137,7,23,212,256,248,177,335,8,310,302,85,76,54,183,75,22,27,91,150,16,43,45,131,158,435,295,118,64,118,22,10,72,17,16,98,167,52,8,139,11,117,65,106,80,61,4,1,39,10,11,1,3,21,99,16,11,6,8,11,115,3,2,101,13,12,3,6,4,14,2,65,61,52,25,59,43,267,10,24,8,1,10,8,41,23,15,5,37,106,20,4,1,30,4,4,6,13,1,2,10,9,1,39,30,4,38,32,12,10,19,26,128,12,2,15,3,37,66,12,18,73,85,33,12,8,3,2,10,20,23,14,53,16,12,81,110,35,43,3,23,7,50,57,60,62,27,82,67,20,9,8,1,70,6,134,16,16,47,28,38,28,183,132,61,47,72,6,9,12,4,41,1,9,3,24,5,38,24,1,12,5,25,6,16,10,45,22,29,22,23,2,17,7,178,69,13,87,2,5,35,51,54,1,2,2,30,9,11,12,18,9,149,15,8,7,29,9,44,19,47,58,7,42,99,28,4,12,55,52,144,58,16,21,84,2,1,1,1,1,1,1,91,5,4,5,4,7,1,1,42,8,7,1,6,2,9,3,8,2,2,10,9,2,21,20,6,49,7,15,2,23,10,8,39,61,3,29,14,61,3,37,34,3,17,45,36,56,53,222,34,5,41,12,28,16,98,19,2,8,19,141,8,48,5,5,11,88,29,1,33,8,3,5,27,55,21,44,1,17,9,54,5,25,28,2,15,11,36,24,20,54,23,34,51,156,35
 Strengthening AI	4528,7984,2054
 Strengthening AI Leaders	14566
 Strengthening AML	14997
@@ -1275,7 +1281,7 @@ Strengthening Cybersecurity and Information Protection	13053
 Strengthening DA-led Training	15019
 Strengthening DNS	16545
 Strengthening DRC's Digital Future	2350
-Strengthening Data Infrastructure	15765
+Strengthening Data Infrastructure	15765,3480
 Strengthening Data Protection Frameworks	2459
 Strengthening Data Security	13678
 Strengthening Data Systems for Smarter Policymaking	11332
@@ -1320,6 +1326,7 @@ Strengthening Electricity Services Project	15969
 Strengthening Electricity Services Project URL	15659
 Strengthening Emergency Planning and Management Capacity	15959
 Strengthening Employee Representation	16985
+Strengthening Enabling Environment for Digital Economy	19245
 Strengthening Energy Sector’s Financial Viability	11380
 Strengthening Eswatini	13207
 Strengthening Evidence of Competition Enablers	2199
@@ -1377,6 +1384,7 @@ Strengthening Kenya	1449
 Strengthening Kenya’s Digital Governance Architecture A	17745
 Strengthening Konza Technopolis The Kenya Kwanza	6133
 Strengthening Leadership Commitment Activity	17116
+Strengthening Legal	19245
 Strengthening Liberia	17078,179
 Strengthening Liberia Laws	17078
 Strengthening Local Government Capacity	11285
@@ -1520,6 +1528,7 @@ Strengthening the Angolan Health System	10780
 Strengthening the BoP	13868
 Strengthening the Business Environment	12214
 Strengthening the CBD	13868
+Strengthening the Component	19284
 Strengthening the Data Governance and Sharing Framework Bill	1476
 Strengthening the Electricity Transmission System	15659
 Strengthening the Enabling Environment	1778,89,121
@@ -1552,6 +1561,7 @@ Strengthening the Mobile- and IoT- Ecosystem	11016
 Strengthening the Monitoring	16951
 Strengthening the NCCD	17157
 Strengthening the NSDI	18293
+Strengthening the NSHI	19284
 Strengthening the Nation	14829
 Strengthening the National Bureau of Statistics	18174
 Strengthening the National Health Fabric	15160
@@ -1560,6 +1570,8 @@ Strengthening the National Health Supply Chain	10829
 Strengthening the National Payment Ecosystem	17188
 Strengthening the National Payments System	12701
 Strengthening the National Payments System CCI	12701
+Strengthening the National Social Health Insurance	19284
+Strengthening the National Social Health Insurance Scheme	19284
 Strengthening the National Social Protection Project	10768
 Strengthening the National Social Protection System Project	424,549,9795,607,20
 Strengthening the National Statistical System	12757
@@ -1616,6 +1628,7 @@ Strettch	11344
 Strettch Cloud	11344
 Stretto	8774
 Struben Street	11220,21
+Sub- Strengthening	19245
 Substantial. Strengthening	18825
 Substantial. Strengthening MoF	18825
 Summary of Emergent Strengths and Weaknesses	12759
@@ -1644,6 +1657,7 @@ Telcables South Africa Strengthen Domestic Networks	4993
 Thabo Sehume and Struben Streets Pretoria	396
 Time-sensitivity Description Strengthening	8603
 Timgad Street	15679
+Togo Public Sector Strengthening for Service Delivery	19245
 Traditional Authorities Strengthen	15845
 Training Strengthen	17884
 Transformation and Recommendations for Strengthening	11545

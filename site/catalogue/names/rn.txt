@@ -1,3 +1,5 @@
+Abonnés RNIS AB	19338
+Abonnés RNIS AP	19338
 Acronyme Signification RNSI Référentiel National de Sécurité	15472
 Autonomous Region of Príncipe RNSTP	18770
 Besides the RNU	18301
@@ -51,7 +53,9 @@ RN-PDP	1184
 RN-RSSI	6600
 RNA Cette	15555
 RNA Note	15555
+RNA Recensement	19216
 RNA Référentiel National	15555
+RNA-5	19343
 RNAE3	16620
 RNAEC	16482
 RNB Na	11569
@@ -79,6 +83,10 @@ RNF Référencement	18015
 RNI5 Formação	12021
 RNIC Tonnes	16714
 RNIE1	16362
+RNIS AB	19338
+RNIS AB Réseau	19350
+RNIS AP	19338
+RNIS AP Réseau	19350
 RNIT Iterambere Fund	14997
 RNNs and GANs	9739
 RNOTPU	15380

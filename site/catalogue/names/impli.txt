@@ -1,5 +1,6 @@
 ACTEURS IMPLIQUES DANS LA COLLECTE DES	10876
 AF. Rationale for Changes and Their Implication	15511
+Approche Impliquer	19221
 Assessing AI's Implications for Development	5598
 BUDGETARY IMPLICATIONS	17019,1966
 Body Implications of Zimbabwe’s National AI Strategy	13649
@@ -30,6 +31,7 @@ Final Report A3.2. Implications	12006
 Financial Implications	12419
 Food Security and Humanitarian Implications	17323,1
 Formation Implication	19002
+Gender and Cost Implications	19284
 Global DPI Implications	12432,252
 Government Research and Its Future Research Implications	5349
 HNSF IMPLIMENTATION	1009
@@ -45,7 +47,7 @@ Identifying Structural Gender Biases and Implications	6953
 Implica	18801
 Implicados	16898
 Implicar	15509
-Implication	6959,192,3707,2442,120,1068,1,1,1230,11,15,102,88,1913,113,159,176,15
+Implication	6959,192,3707,2442,120,1068,1,1,1230,11,15,102,88,1913,113,159,176,15,909
 Implication Contexte	16641
 Implication Data	13420
 Implication Delays	13420
@@ -62,14 +64,18 @@ Implication The Fund	13420
 Implication Use	13420
 Implication for Social Development	18483
 Implication for Social Development Rebasing	18483
-Implications	1243,850,425,1007,266,534,107,1268,1132,446,400,112,231,1,108,330,145,794,1741,16,850,929,70,415,1744,323,1455,197,96,545,89,501
+Implications	1243,850,425,1007,266,534,107,1268,1132,446,400,112,231,1,108,330,145,794,1741,16,850,929,70,415,1744,323,1455,197,96,545,89,501,990
 Implications Accountability	13420
 Implications Failure	13420
+Implications L’utilisation	19360
 Implications Overall	9635
 Implications Payments	13420
+Implications Réviser	19360
 Implications Safety	13420
+Implications S’assurer	19360
 Implications The Ministry	13420
 Implications Theoretical. Misogyny	7790
+Implications Utilisation	19360
 Implications Without	13420
 Implications and Impact Analysis	12935
 Implications for Business	5220
@@ -112,7 +118,7 @@ Implied Premium	4896
 Implied Valuation for Econet Based	4896
 Implies	2775,9592
 Impliquant	8891
-Impliquer	10876,2414,1135,1049,19,19,30,170,8,2109,314,26
+Impliquer	10876,2414,1135,1049,19,19,30,170,8,2109,314,26,1052
 Impliquée	15901
 Impliquées	17983
 Impliquées Hypothèses	17983
@@ -166,6 +172,8 @@ Regional Implications and Policy Considerations	16186
 Regulatory Implications And Comparative Analysis Nigeria	6632
 Rights Implications	5321
 Role of Population Growth and Implications	15715
+SI. Implications	19360
+SIE. Implications	19360
 Sahel Document Food Security and Humanitarian Implications	17323,1
 Shares Implied Value of Econet Total Exit	4896
 Social Implications	18370

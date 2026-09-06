@@ -1,3 +1,4 @@
+A.1 Overview of NOVISSI	19237
 AFRICA WEST Nov	15513,37
 Africa. Novelties	1871
 Africa50. Novastar	930
@@ -28,6 +29,7 @@ Carlos Vila Nova. Publique-se	8536
 Carmen Novie	15524
 Central Bank of Liberia Nov-233.6 Fiscal Sector	17235
 Centro De Dados Abre Uma Nova	8827
+Characteristic NOVISSI	19237
 China. Novo	9994
 Classe MF M F Novos	10766
 Completed Nov	15021
@@ -38,6 +40,7 @@ DE UMA NOVA AGENDA ECONÓMICA	16487
 DESENVOLVER NOVOS SERVIÇOS DIGITAIS E SERVIÇOS	11397
 DOIS NOVOS PROJECTOS VÃO GARANTIR	1215
 Deed of Novation	11789
+Deploying NOVISSI	19237
 Description Novastar Ventures	711,219,1
 Desporto NTIC Novas Tecnologias da Informação	11557
 ECHO. The Novartis Foundation	15581
@@ -53,6 +56,7 @@ Estado. Novos	18772
 Estados. Novas	15344
 Estonia’s X-Road Nov	3889
 Evgenia Novozhenina	4127
+Expanding NOVISSI	19237
 F22 Nov	10714
 F25 Nov	10714
 FONCIERS COMMUNAUX AU BURUNDI Novembre	13375
@@ -100,6 +104,7 @@ MBS. As of Nov	18754
 MDM and Nova Democracia	12201
 MENSAGEM UMA NOVA APOSTA	10750
 MF M F Novos	10766
+MNOs. NOVISSI	19237
 MPLA. Ao Novo Jornal	9159
 Makida El Husseini Nov	15929
 Marco Lagae Novković	13257
@@ -119,13 +124,28 @@ NOVAS RENOVÁVEIS O Governo	11366
 NOVATECH	998
 NOVEC1230	13185
 NOVEL	1,21,120,22,68,1,1,174,338,437,151,140,51,283,816,1,154,1061,19,295,30,426,119,641,444,189,42,23,11,67,800,35,186,110,193,557,166,1,17,1,106,36,205,30,1,44,9,23,1,46,99,8,111,8,20,10,1,56,7,7,3,3,3,52,1,1,20,1,1,19,22,37,84,11,24,79,191,141,2,1570,5467
-NOVEMBRE	13292,42,556,1574,1159,855,350,13
+NOVEMBRE	13292,42,556,1574,1159,855,350,13,1377
 NOVEMBRE Ministère	17841
 NOVEMBRO	11390,7391,10,2
 NOVENTA MIL	4209
 NOVER NOUVEAU THEME	16103
 NOVER Nouvelle Verrerie de Chlef	16103
-NOVISSI	5956
+NOVIS-	19237
+NOVISSI	5956,13265,13,3,6,5
+NOVISSI Model the President	19237
+NOVISSI PRIORITIZING GRID CELL LEVEL	19237
+NOVISSI PRIORITIZING THE POOREST TRAINING DATA	19237
+NOVISSI Phone-based	19237
+NOVISSI TOGO	19237
+NOVISSI TOGO Harnessing Artificial Intelligence	19237
+NOVISSI Works	19237
+NOVISSI and World Bank Group	19237
+NOVISSI-powered	19237
+NOVISSI. Ministry of Digital Economy and Led	19237
+NOVISSI. When the Government	19237
+NOVISSI’s Model	19237
+NOVISSI’s NOVISSI	19237
+NOVISSI’s Phase	19237
 NOVO BILHETE DE IDENTIDADE	12784
 NOVOS DESAFIOS RUMO AO FUTURO Construir	18793
 National Assembly Nov	5142
@@ -176,7 +196,7 @@ Nov-2024 Namibian	1981
 Nov-2024 Operation Closing	17000
 Nov-2024 Restructuring Sequence.01 Not Applicable	11924
 Nov-2024. Bank	14937
-Nov-2025	1989,1904,760,130,27,1769,254,4584,1023,618,1959,14,928,54,19,366,277,404,17,862,392,4,1,179
+Nov-2025	1989,1904,760,130,27,1769,254,4584,1023,618,1959,14,928,54,19,366,277,404,17,862,392,4,1,179,750
 Nov-2025 ALX	5286,132
 Nov-2025 ANID	1635
 Nov-2025 Actual	16032
@@ -284,7 +304,7 @@ November-2024	1955
 November-2025	3883
 November-December	2775,12196
 November2014	14742
-Novembre	1957,409,1491,563,3235,1100,2167,56,2312,23,132,123,121,139,596,1,37,68,824,6,106,114,116,16,136,53,22,11,2,21,80,121,161,9,67,226,7,17,69,750,21,329,5,13,32,77,4,33,140,25,23,125,13,18,435
+Novembre	1957,409,1491,563,3235,1100,2167,56,2312,23,132,123,121,139,596,1,37,68,824,6,106,114,116,16,136,53,22,11,2,21,80,121,161,9,67,226,7,17,69,750,21,329,5,13,32,77,4,33,140,25,23,125,13,18,435,458,3,26
 Novembre Novembre	17945
 Novembre Une Bien	14425
 Novembro	13,425,101,676,1259,255,87,5,45,653,380,7,134,35,11,60,1,113,2710,3777,3,1,4,1,16,597,7,9,5,4,11,13,1,3,11,10,3,9,10,48,13,50,1,490,716,13,2,3,2557,1,21,11,5,8,552,1053,6,67,1668,3,4,3,2,2,3,5,2,1,23,55,161
@@ -302,7 +322,10 @@ Noviembre	16855,107
 Noviembre. Plan Nacional de Numeración Telefónica	9543
 Noviembre. Reglamento de Precios	9543
 Novis	14507
-Novissi	1027,2838,6338,1664
+Novissi	1027,2838,6338,1664,7375,3,1,12,78
+Novissi NOVISSI WORKS	19237
+Novissi Togo	19237
+Novissi Togo Typesetting	19237
 Novo DNA Profissional	7948
 Novo Instrumento Outro	9559
 Novo Jornal	180,908,1154,123,66,1468,1305,1,6,639,674,1598,1277,2678
@@ -344,9 +367,10 @@ Oct-24 Nov-24 Dec-24 Jan-25 Feb-25 Mar-25	12256
 Oct-25 Nov-25 Dec-25 Jan-26 Feb-26 Mar-26	12062
 Operador Económico de Novas Tecnologias	2437,1,9857
 Os Projectos Novos	10783
-PBC No Nov	15969
+PBC No Nov	15969,3280
 PIDA32489 Public Disclosure Authorized Nov	10963
 Pelouro Novo	15476
+Performance of NOVISSI	19237
 Plaintes AGIR.pdf VERSION PROVISOIRE Novembre	15908
 Plano Detalhado de Nova Sintra	15388
 Pombas Ribeira Grande Vila Nova de Sintra	16325
@@ -364,6 +388,7 @@ Projecto Novo	10783
 Protocolo de Nova York	11364,1
 Protocolo de NovaYork	11365
 Príncipe Novas Dobras	18775
+Public Disclosure Authorized NOVISSI TOGO Harnessing	19237
 Quebo Buba Nova Sintra Bolama Quebo	17147
 RFQ Post Open- Nov	17180
 Rede Media Tensão Nova Sintra	15892
@@ -379,14 +404,16 @@ South Sudan Nov	18648
 Stakeholders Low Overall Moderate Nov	12440
 Stockphoto Maputo Novembro	12142
 Substantial Nov	17079
+Table A.1. Overview of NOVISSI	19237
 Tanzania Nov	5629
 Tarrafal de Santiago and Porto Novo	8638
+Telcos NOVISSI BOMS System	19237
 Terminais E Novos Serviços Terão	12841
 Terra Nova	10750
 Tica-Buzi and Nova- Sofala	2667
 Tica-Buzi and Nova-Sofala	2667
 Till Nov Exports	16275
-Togo’s Novissi	5700
+Togo’s Novissi	5700,13537
 Trabalhos Novos	17337
 Transform Africa Summit Nov	4030
 UHC Business Intelligence System Nov	10970

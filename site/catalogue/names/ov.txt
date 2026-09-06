@@ -2,6 +2,7 @@ A. Overall Risk Rating and Explanation of Key	11525
 A. Overview of Vulnerabilities	17257
 A. Project Oversight and Coordination	16975
 A. Sector Overview Market	10856
+A.1 Overview of NOVISSI	19237
 AFRICA DEVELOPMENT FORUM OVERVIEW Integrating Africa	11149
 AGETIC. Over	17870
 AGRICULTURE MINISTER HANDS OVER E313	9526
@@ -193,7 +194,7 @@ Cooperative Oversight	12537
 Cooperação OV PHPEURV GR	11530
 Country Level Overview and Highlights	17196
 Country Overall Gender Urban Rural Household	14098
-Country Overview	10822,7846
+Country Overview	10822,7846,616
 Country Overview Fig	14443
 Country and Energy Sector Overview and Challenges	16966
 Country and Health Sector Overview	18532
@@ -470,6 +471,7 @@ ID System Faces Questions Over	10890
 IDES. Overall	12941
 IDI. Overall	17743
 IDPs and OVCs	18911
+IFC Start-up Catalyst Program Overview	19245
 IHH Indice de Herfindahl Hirschmann OTT Over-The-Top	16327
 II. Overall Project Performance Key	2989
 II. Programme Overview EBRD	1818
@@ -494,6 +496,7 @@ Independent Oversight and Enforcement	5244
 Independent Policing Oversight Authority	10313,1997,2236
 Index Overall Engagement	11131
 Indicator OVP Office	16952
+Individuals. Over	19245
 Indonesia OVO	11994
 Inflation Forecast Year Inflation Overall Food	13060
 InfoHighway Overview	14725
@@ -642,11 +645,12 @@ MoCTI Trains Over	18510
 MoU. Over	14021
 Moderate Moderate Moderate Overall Substantial Substantial	12267
 Moderate Other Overall	16896,26
-Moderate Overall	10870,1118,4717,295,96,374,488,48,127,222,462,165
+Moderate Overall	10870,1118,4717,295,96,374,488,48,127,222,462,165,302
 Moderate Overall ESS	18809
 Moderate Overall MPA Program Risk	11417
 Moderate. Overall	11965
-Moderately Satisfactory Moderately Satisfactory Overall Risk	15619,116,903,1835,61
+Moderately Overall ESS	19284
+Moderately Satisfactory Moderately Satisfactory Overall Risk	15619,116,903,1835,61,708
 Moderately Satisfactory Overall Implementation Progress	6579,5409,1932,136,2649,1650,462,165
 Moderately Satisfactory Overall Risk Rating	6579,5409,1932,136,1103,1546,295,904,102,349,462,165
 Moderately Satisfactory. Overall Risk	15782
@@ -756,7 +760,7 @@ OVERALL PROGRESS AND PERFORMANCE AGAINST KEY	16971
 OVERALL RATINGS	13859,51,6,1,1114,4052
 OVERALL RATINGS Name	11988,1932,136,924,179,3823
 OVERALL RATINGS Name Current Progress	4688
-OVERALL RATINGS Name Previous Current Progress	2712,3867,349,949,2993,525,1632,2708,278,692,295,96,374,35,399,102,127,217,4,1,179,258,25
+OVERALL RATINGS Name Previous Current Progress	2712,3867,349,949,2993,525,1632,2708,278,692,295,96,374,35,399,102,127,217,4,1,179,258,25,425,7
 OVERALL RATINGS Previous Current	11971,4108,915,85,879
 OVERALL RATINGS Previous Current Satisfactory Satisfactory	12228,39,173
 OVERALL RATINGS Progress	13058,1959,720
@@ -915,7 +919,7 @@ Overage	18984
 Overail Index	15901
 Overal Access	940
 Overal Level of Financial Inclusion	940
-Overall	10,29,197,182,353,18,33,147,44,215,15,39,2,141,40,89,264,6,43,71,2,1,3,28,16,547,240,173,41,195,303,96,11,10,258,36,309,232,214,23,256,40,162,111,2,116,109,42,10,131,20,1,3,76,22,16,29,2,276,40,399,54,107,13,120,105,8,36,169,183,214,40,107,51,13,4,70,53,490,60,46,120,4,260,79,22,80,76,6,109,66,312,19,28,96,225,65,205,464,45,1,1,3,7,4,1,5,34,10,12,3,2,6,9,58,21,14,9,1,13,20,9,10,34,72,9,3,1,1,16,4,36,3,3,13,25,26,9,18,112,16,107,1,35,18,3,274,8,4,33,5,2,9,2,4,2,36,4,1,6,6,26,55,106,37,13,13,6,20,2,1,15,7,19,36,6,17,2,9,9,7,2,10,8,6,2,1,1,14,4,13,1,22,112,27,8,5,36,4,4,15,23,28,136,48,27,1,5,10,6,1,42,32,16,7,35,2,11,25,15,70,92,2,2,17,1,11,4,12,10,19,4,26,43,16,55,92,244,5,2,63,32,17,4,13,6,6,44,16,66,9,290,15,68,1,41,10,98,71,15,13,2,2,10,2,1,29,11,37,2,19,8,1,13,10,2,3,9,3,8,31,9,12,22,2,2,33,29,45,6,2,16,10,56,24,98,30,52,47,2,7,11,20,3,4,32,20,4,16,11,3,17,37,1,2,2,30,47,3,15,52,173,152,9,97,88,55,14,38,178,179,99,10,14,5,5,1,12,3,5,2,1,1,12,7,1,4,10,11,4,11,32,53,3,6,9,13,12,1,9,60,26,22,28,4,28,50,74,17,47,147,40,51,106,20,1,36,3,53,28,114,19,2,61,12,95,8,4,13,52,4,101,28,1,4,4,25,87,11,66,1,42,52,13,8,6,2,26,36,44
+Overall	10,29,197,182,353,18,33,147,44,215,15,39,2,141,40,89,264,6,43,71,2,1,3,28,16,547,240,173,41,195,303,96,11,10,258,36,309,232,214,23,256,40,162,111,2,116,109,42,10,131,20,1,3,76,22,16,29,2,276,40,399,54,107,13,120,105,8,36,169,183,214,40,107,51,13,4,70,53,490,60,46,120,4,260,79,22,80,76,6,109,66,312,19,28,96,225,65,205,464,45,1,1,3,7,4,1,5,34,10,12,3,2,6,9,58,21,14,9,1,13,20,9,10,34,72,9,3,1,1,16,4,36,3,3,13,25,26,9,18,112,16,107,1,35,18,3,274,8,4,33,5,2,9,2,4,2,36,4,1,6,6,26,55,106,37,13,13,6,20,2,1,15,7,19,36,6,17,2,9,9,7,2,10,8,6,2,1,1,14,4,13,1,22,112,27,8,5,36,4,4,15,23,28,136,48,27,1,5,10,6,1,42,32,16,7,35,2,11,25,15,70,92,2,2,17,1,11,4,12,10,19,4,26,43,16,55,92,244,5,2,63,32,17,4,13,6,6,44,16,66,9,290,15,68,1,41,10,98,71,15,13,2,2,10,2,1,29,11,37,2,19,8,1,13,10,2,3,9,3,8,31,9,12,22,2,2,33,29,45,6,2,16,10,56,24,98,30,52,47,2,7,11,20,3,4,32,20,4,16,11,3,17,37,1,2,2,30,47,3,15,52,173,152,9,97,88,55,14,38,178,179,99,10,14,5,5,1,12,3,5,2,1,1,12,7,1,4,10,11,4,11,32,53,3,6,9,13,12,1,9,60,26,22,28,4,28,50,74,17,47,147,40,51,106,20,1,36,3,53,28,114,19,2,61,12,95,8,4,13,52,4,101,28,1,4,4,25,87,11,66,1,42,52,13,8,6,2,26,36,44,306,8,39
 Overall Accuracy	17140
 Overall Assessment	14777
 Overall Balance	12922,34,167,4112
@@ -958,6 +962,7 @@ Overall Financial Capability Control Knowledge Choice	418
 Overall Financial Health	2775
 Overall Financial Inclusion Levels	15130
 Overall Financial Inclusion Levels Figure	15130
+Overall Financial Management	19284
 Overall Framework Findings	8301
 Overall GAC	17364
 Overall Governance	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135
@@ -986,6 +991,7 @@ Overall Knowledge of Transaction Cost	2775
 Overall LMICs	11902
 Overall Lines of EU Cooperation	13992
 Overall Liquidity	11955
+Overall Moderate Moderate Moderate The World	19249
 Overall N	10940
 Overall NDS Ecosystem	14790
 Overall NDTS Investment	3604
@@ -1032,6 +1038,7 @@ Overall Statistical Capacity Score	18792,33
 Overall Strategic Objectives	1814
 Overall Strategic Objectives The Strategic Objectives	1814
 Overall Strategy	14997
+Overall Substantial	19239
 Overall Substantial COMPLIANCE Policy Does	11380
 Overall Substantial Moderate Moderate Results PDO	18473
 Overall Substantial Substantial Substantial	17505
@@ -1126,6 +1133,7 @@ Overqualification	17458
 Overreliance	8936,5987
 Override Article	12616
 Overriding	18881
+Overrun Overrun	19284
 Oversaw	11230
 Overseas	1220,10631,125,2764,35
 Overseas Citizens of India	13509
@@ -1289,6 +1297,7 @@ Overview of Civil Registration	12250,5147
 Overview of Cloud Services	6432
 Overview of Communications Strategy	16943
 Overview of Cooperation Framework Results	13989,970
+Overview of Coordination	19245
 Overview of Current Practices	10822
 Overview of Current Practices. Benin	10822
 Overview of Current SSS	18461
@@ -1373,10 +1382,11 @@ Overy	1818
 Ovie George	4601
 Oviedo Silva	14576
 Ovimbundo	11577
-Ovins	737
+Ovins	737,18613
 Ovisions	15999
 Ovisual	11517
 Ovono Inspector Distrital de Ebibeyín Ilmo. Sr	16920
+Ovrette Zinnia	19226
 Ovule	15930
 Ovule COMP. GYNECO. CAPS. VAG. Ovule	15930
 PADIM. Overall	2989
@@ -1384,7 +1394,7 @@ PART I OVERVIEW OF THE ORGANISATION	14760
 PART I Overview Strategic	12920
 PART VII SUPERVISION AND OVERSIGHT	12938
 PDO Moderate Moderate Overall Implementation Progress	12440
-PDO Moderately Satisfactory Moderately Satisfactory Overall	15619,116,903,1835
+PDO Moderately Satisfactory Moderately Satisfactory Overall	15619,116,903,1835,769
 PDO Overall Implementation Progress	2989,8406,7397
 PDO S S MS Overall Implementation	1284
 PDO S S Overall Implementation Progress	16896
@@ -1474,6 +1484,7 @@ Q2-2026. Over	11152
 Q2. Over	7015
 Q3 and Q4. Overall	12339
 Quality of Supervision Rating Satisfactory Overall Bank	16960
+R.E.D REFORMS OVERVIEW STARTING A BUSINESS	19325
 RECOMMENDATIONS OVERALL	14601
 REFORMS OVERVIEW STARTING A BUSINESS	17615
 REGIONAL BENEFICIARY OVERVIEW	8999
@@ -1488,6 +1499,7 @@ Ranking Overall Government Business Individual South	236
 Rating Substantial OVERALL EFF TBL OBJ TBL	16960
 Rating Substantial OVERALL EFFICACY Rationale	14888
 Reaches Over One Million Young Kenyans	7568
+Reasons for Cost Overrun Budget	19284
 Recent Economic Developments and Outlook Overall	11136
 Recommendations Overall	6949
 Reference Fazekas and Overgaard2018	8283
@@ -1541,6 +1553,7 @@ SERVICE GAPS AND OVERLAPS	18487
 SERVICE GAPS AND OVERLAPS FIGURE	18487
 SITUATION OVERVIEW	17985
 SLMet. Overall	18578
+SOCIAL Overview Operation Location Operation	19284
 SODD System Overview Design Document PMDS	11986
 SOE Oversight Unit	15924
 SOEs. Oversight	17503
@@ -1561,8 +1574,11 @@ Sales Over the Next	17503
 Same OVS	4772
 Sanitation Water Electircity Housing Assetes Overcowding	15244
 Satisfactory Moderately Satisfactory Overall Risk Rating	17505
+Satisfactory Overall	19284
 Satisfactory Overall Implementation Progress	4688,3189,2993,2184,4,1922,179,1937,374,434,102,127
 Satisfactory Overall Risk Rating	4688,3189,2993,2188,1922,2116,374,663
+Satisfactory Satisfactory Overall Risk	19284
+Satisfactory Satisfactory Overall Risk Rating Moderate	19249
 Satisfactory Satisfactory Overall Risk Rating Substantial	13027,5327
 Satisfactory Satisfactory PDO Overall	18809
 Scale Over	13042
@@ -1633,7 +1649,7 @@ Substantial Environment and Social Stakeholders Overall	11395
 Substantial Overall	1284,3404,2240,949,4094,3060,982,66,915
 Substantial Overall Implementation Progress	11971,4108,1000,879
 Substantial Overall MPA Program Risk	3604
-Substantial Substantial Substantial Overall Substantial	13027,2592
+Substantial Substantial Substantial Overall Substantial	13027,2592,3623
 Substantial. Overall	15553,108
 Substantial. Overall Efficacy Rating Substantial	16960
 Sudan. Over	18663
@@ -1654,6 +1670,7 @@ TIME IN THE EA IS OVER	17127
 TWG for Agriculture Over	4528
 TWG for Over	12512
 Table A.1. Overview of Cameroon	10985
+Table A.1. Overview of NOVISSI	19237
 Table of Contents Section I. Overview	17037
 Tanzania. Over	5511
 Target Over	14674

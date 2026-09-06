@@ -52,7 +52,7 @@ Hazardous Materials and Waste	17114
 Hazardous Substances Act	3651
 Hazardous Waste	1988,10265,136
 Hazardous Waste Management Licence	1988
-Hazardous Waste Management Plan	1988
+Hazardous Waste Management Plan	1988,17296
 Hazardous Waste Management and Monitoring Plan	1988
 Hazardous Waste Regulations	1988
 Hazardous Waste and Materials	17114
@@ -70,6 +70,7 @@ Hazucha	9739
 Hazucha B	9739
 Health Hazards	12233
 Highly Hazardous Pesticides	15500
+Historical Hazards	19284
 Impact Hazard	17157
 Increased Generation of Hazardous Materials and Waste	17114
 Localized Hazards and Emergency Response Materials Provided	12977
@@ -82,6 +83,7 @@ Natural Hazards	12389,942
 Natural Hazards and Earth System Sciences	15715
 Natural Hazards and Risk	17157
 Physical Hazards	1988
+Population HWMP Hazardous Waste Management Plan	19284
 Production Hazardous Waste and Materials Land Acquisition	17114
 Radiological Hazards	1988
 Region Hazard	12977

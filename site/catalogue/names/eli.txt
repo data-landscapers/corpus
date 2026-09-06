@@ -64,6 +64,8 @@ EENHANA Total Eligible	13025
 EGPAF Elizabeth Glaser Paediatric AIDS Foundation	13005
 ELIAS M. MAGOSI SADC EXECUTIVE SECRETARY	9761
 ELICA	15669
+ELIG EXP FOR PBCs	19284
+ELIG EXP PT	19284
 ELIG PBC EXPENDITURES P2	15969
 ELIGIBILITY AND CHANGE OF OWNERSHIP	15149
 ELIGIBILITY CRITERIA AND ENTITLEMENT MATRIX	17114
@@ -121,7 +123,7 @@ Elie Symphorien	15744
 Eliezer Rosaire	16100
 Elifas Andreas	12478
 Eligibil3ity.8anEdligQibuialitliyficaantdioQnualification	10157
-Eligibility	1264,374,229,248,4,188,2589,45,1137,1290,899,402,57,408,140,883,95,511,370,194,251,7,315,314,434,13,277,74,19,6,59,89,147,129,1032,63,263,14,19,145,188,1,225,1375,53,63,212,420,767,158,11,86,49
+Eligibility	1264,374,229,248,4,188,2589,45,1137,1290,899,402,57,408,140,883,95,511,370,194,251,7,315,314,434,13,277,74,19,6,59,89,147,129,1032,63,263,14,19,145,188,1,225,1375,53,63,212,420,767,158,11,86,49,632
 Eligibility Around	17971
 Eligibility Committee	10864,1281
 Eligibility Criteria	11240,1435,3043
@@ -173,11 +175,12 @@ Eligible Customer Regulations EEDC Enugu Electricity	12062,6124,31
 Eligible DRC	9997
 Eligible Expend	1228,3425
 Eligible Expenditure	10964
-Eligible Expenditures	10964,3948,606,701,717,505
+Eligible Expenditures	10964,3948,606,701,717,505,1843
 Eligible Expenditures CERP	16187
 Eligible Goods and Related	13185
 Eligible Goods and Related Services	13185
 Eligible Goods and Services	14766,314
+Eligible IBRD	19245
 Eligible Investor	5903
 Eligible Investor. Isime Esene Office	5903
 Eligible Investor. The Eligible Investor	5903
@@ -185,7 +188,7 @@ Eligible Investors	5903
 Eligible LGs	16994
 Eligible Liberian SMEs	17370
 Eligible NGOs	14835
-Eligible PBC Expenditures	15659
+Eligible PBC Expenditures	15659,3580
 Eligible SDPs	1212
 Eligible Sellers	12399
 Eligible Total Registered Voters	13025
@@ -237,7 +240,7 @@ Eliminação de Excrementos	10777
 Eliminação de Fezes de Criança	10777
 Eliminação de Inscrição Na	11528
 Eliminação de Todas	11562
-Eliminer	8891,5597,1005,1134
+Eliminer	8891,5597,1005,1134,2594
 Eliminination des Discriminations	18286
 Elimu	5090,326,603,1744,3880
 Elina N	17773
@@ -460,6 +463,7 @@ OSHAKATI WEST ONDANGWA URBAN Total Eligible	13025
 OSHIKUNDE Total Eligible	13025
 OTJIWARONGO Total Eligible	13025
 OUTJO OPUWO RURAL EPUPA Total Eligible	13025
+OUTREACH ASSESSMENT OF ELIGIBILITY	19237
 Ofﬁce of Senator Elizabeth Warren	11154
 Oladipo Elijah Kolawole	15321
 P1 Eliminação	15966

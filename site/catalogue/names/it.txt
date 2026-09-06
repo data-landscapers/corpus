@@ -427,6 +427,7 @@ ITEMS	11860
 ITEMS CRITERION SCORE COMMENTS	12693
 ITEMS REQUIRED TO BE INCLUDED	3714
 ITERATIVE HNSF DEVELOPMENT AND IMPLEMENTATION CYCLES	1009
+ITES Page	19245
 ITES-BPO	14723
 ITEdgeNews	2339
 ITEs EN HFO REFORME DE I.A	14479
@@ -617,7 +618,7 @@ ITU Global ICT Development Index	14674
 ITU Global ICT Regulatory Outlook	16942
 ITU Globally	10844,7279
 ITU Green Digital Action Framework and OECD	14752
-ITU Green ICT	3604
+ITU Green ICT	3604,15641
 ITU Handbook	12344,3273,1323,937,1
 ITU ICT	173,11390,3111,797
 ITU ICT Development Fund. USD	691
@@ -639,7 +640,7 @@ ITU International Telecommunication Union ITUC International	10759,78,1052,451
 ITU International Telecommunication Union IUCD Intrauterine	2775
 ITU International Telecommunication Union IXP Internet	11857,6013
 ITU International Telecommunication Union Kbps Kilobits	16883,1
-ITU International Telecommunication Union KfW German	3604
+ITU International Telecommunication Union KfW German	3604,15641
 ITU International Telecommunication Union LTE Long	236
 ITU International Telecommunication Union RCO United	13544
 ITU International Telecommunications Union	12911
@@ -658,6 +659,7 @@ ITU Median	11563
 ITU Member State	15471,2272
 ITU Member States	6168,4596,498,4209,2272
 ITU Methodology for Data Collection Data	3604
+ITU Methodology for Data Data	19245
 ITU Names	11917
 ITU National	18478
 ITU National E-Health Strategy Toolkit	21
@@ -741,6 +743,7 @@ ITU World Region	18444
 ITU World Telecommunication	6946
 ITU World Telecommunication Development Conference	15120
 ITU and Coursera. Regionally	16144
+ITU and EU	19245
 ITU and GSMA	11857,802,2461
 ITU and ICPC	5950
 ITU and Kaspersky Lab. Issued	318
@@ -768,11 +771,11 @@ ITU's Partner2Connect Digital Coalition	2137,2383
 ITU's WSIS Forum	7199
 ITU's World Radiocommunication Conference	8089
 ITU- D	6671
-ITU- T	3604
+ITU- T	3604,15641
 ITU-ALERT International Cyber Drill for Africa Region	318
 ITU-Applied	318
 ITU-Cisco DTC Initiative	689
-ITU-D	26,1,1,257,37,180,42,145,1,1,270,168,114,285,286,7585,217,1235,712,316,335,488,655,594,11,472,289,209,94,454,38,65,34,320,109,826,68,2,914,6,15,1,245,226,428,2,152,2
+ITU-D	26,1,1,257,37,180,42,145,1,1,270,168,114,285,286,7585,217,1235,712,316,335,488,655,594,11,472,289,209,94,454,38,65,34,320,109,826,68,2,914,6,15,1,245,226,428,2,152,2,312
 ITU-D Celebratory Dinner	18349
 ITU-D Question	15499
 ITU-D Resolutions	18349
@@ -796,7 +799,7 @@ ITU-R Study Groups	5680
 ITU-RO-AFRICA	578
 ITU-R’s Radio Regulations	5245
 ITU-R’s Recommendations	5245
-ITU-T	961,48,275,1584,736,2935,407,228,5186,2760,398,35,1371,10,384,1456
+ITU-T	961,48,275,1584,736,2935,407,228,5186,2760,398,35,1371,10,384,1456,471
 ITU-T Director	15120
 ITU-T E.164	16934
 ITU-T E.164 Numbers	16934
@@ -804,9 +807,10 @@ ITU-T E.212	16934
 ITU-T E.800	15149
 ITU-T JCA-SDN-D-001 Rev.6	18774
 ITU-T L	1284
-ITU-T L.1310	3604
+ITU-T L.1310	3604,15641
 ITU-T OMG Appendix	12360
 ITU-T Rec. E.164	15302
+ITU-T Recommendation L.1310.88	19245
 ITU-T Study Group	7320
 ITU-T X.509	13073
 ITU-UK Kenya Digital Access Programme Partners	899
@@ -945,7 +949,7 @@ Internet of Things ITU	6832
 Internet of Things ITU International Telecommunication Union	16885
 Investment Item Million LYD	17236
 Iraq Ireland Israel Italy Jamaica Japan	11765
-Ireland Isle of Man Israel Italy Jamaica	11470
+Ireland Isle of Man Israel Italy Jamaica	11470,7872
 IsDB Islamic Development Bank ITU International	13731
 It'll	1644,6210
 It's Actually Like	5874
@@ -1003,7 +1007,7 @@ Italie. Entre	5916
 Italie. Etant	15500
 Italie. Monsieur Hamidou DIPAMA	15649
 Italienne	16249
-Italy	402,568,243,34,3,1019,19,45,14,9,11,13,65,84,4,11,6,12,38,10,6,3,7,1,49,4,157,264,241,2,9,4,265,96,154,268,265,221,430,39,243,332,124,146,163,223,132,155,9,56,112,59,38,143,33,179,59,23,698,324,324,728,154,252,167,621,111,82,79,424,37,247,14,23,542,57,292,167,295,16,229,103,314,215,29,15,125,89,65,564,143,58,70,11,463,523,586,223,71,42,21,102,704,37,288,12,45,193
+Italy	402,568,243,34,3,1019,19,45,14,9,11,13,65,84,4,11,6,12,38,10,6,3,7,1,49,4,157,264,241,2,9,4,265,96,154,268,265,221,430,39,243,332,124,146,163,223,132,155,9,56,112,59,38,143,33,179,59,23,698,324,324,728,154,252,167,621,111,82,79,424,37,247,14,23,542,57,292,167,295,16,229,103,314,215,29,15,125,89,65,564,143,58,70,11,463,523,586,223,71,42,21,102,704,37,288,12,45,193,927
 Italy Boosts Eswatini's Green Future	17048
 Italy Boosts Eswatini's Green Future Projects	13207
 Italy Claudia Robbiati	10784
@@ -1174,6 +1178,8 @@ Ituri-Tshopo	13419
 Ity Holdings	2342
 Ity-Zouan-Hounien	2342
 Itália	2816,8740,137,7109
+Itérations	19221
+Itérer	19221
 It’ll	411
 It’s Africa	4554
 It’s Been Abandoned Again	7176
@@ -1230,6 +1236,7 @@ MCHE de Itsibou	15799
 MEMORANDUM ITEMS IN PUBLIC	2775
 MOUCKAULHO ITSISSA	16100
 MSMEs The ITU	10764
+MVP Itérer Lancement Objectifs	19221
 MW ITURI P	15670
 MW Itezhi Tezhi Hydropower Project	13561
 Madam Secretary-General of ITU	15937

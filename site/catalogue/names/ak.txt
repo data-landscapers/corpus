@@ -1,5 +1,9 @@
 A. Akinfaderin	11140
+ADEKPESSI Aklesso SCH	19251
+ADOKI Akila-Esso ADJ	19251
 AF Additional Financing AKI Acute Kidney	16922
+AGBEROU Akolim SGT	19251
+AGBODZA Akotia Komla Ata ADC	19251
 AK-039	16604
 AK-039-5028	16604
 AK-1 Akwa South South	11857
@@ -10,13 +14,19 @@ AKADEMYA	18324
 AKAGA	16381
 AKAMATSU Takeshi	16000,3
 AKAMBET	16177
+AKANAM Nakparé ADJ	19251
 AKANDA. Cabinet du Commissaire-Membre François MEZA ME	16381
 AKANHAT	15615
+AKAOLO Eyabagnan SGT	19251
 AKAPO INEGE	16898
 AKARAVYO	13390
 AKARIM ENTERPRISES LIMITED Data Processor INST-751741857CE	7167
 AKASSAA	11687
+AKATEY Pabaton SCH	19251
+AKATI Naraféyi SCH	19251
+AKAÏ Magnousspa Nambea CCH	19251
 AKBAR TRAVELS OF INDIA LIMITED Data	7167
+AKEBOU	19248,102
 AKELAYONG Akurenam	4209
 AKELE	15524,576
 AKENGO KENYA COMPANY LIMITED Data Controller	7167
@@ -28,16 +38,22 @@ AKIBA International	5743
 AKIDE AND COMPANY ADVOCATES Data Controller	7167
 AKIDE AND COMPANY ADVOCATES Data Processor	7167
 AKIENE MAYOKE Professeur	15744
+AKILA Ali Komi SCH	19251
+AKILA Ditorgma Raganande DIRECTION CENTRALE	19251
 AKILI UNDE KATIKA MAGEUZI YA KIDIJITALI	7218
 AKIMANA Agrippine	13390
 AKIWASILISHA BUNGENI MAKADIRIO YA MAPATO NA	2868,3151
+AKLIMAH Yao SCH	19251
 AKM Health Centre Data Processor INST-3708454B011	7167
 AKO ADVOCATES LLP Data Controller INST-443537E416E	7167
 AKO ADVOCATES LLP Data Processor INST-443537E416E	7167
+AKO Manesso ADC	19251
 AKOEMAN	10975
+AKOH Tchaoufei SCH	19251
 AKOHA Serge	10712
 AKOLI NGALA	15744
 AKOM II	15542
+AKONA Somiyeabalo ADJ	19251
 AKONDZO NGOYA	15901
 AKONIBE CIUDAD	4209
 AKONIBE PERIFERIA	4209
@@ -46,6 +62,12 @@ AKOTO Epse OKRY Chilina Vicentia S	10712
 AKOULABO	15524
 AKOUSSI Kouassi Jacob	2342
 AKOUTE	16545
+AKPA Kwami-Kuma Elolo ADC	19251
+AKPA Palakibawi SCH	19251
+AKPABLA Etse ADC	19251
+AKPABOU Kosi Bitang SGT	19251
+AKPATOOU N. Bataname SCH	19251
+AKPO Lendjaki SCH	19251
 AKSA ENERGY	15799
 AKSA Phase-II Project	15904
 AKSHAR TEAM SECURITY LIMITED Data Controller	7167
@@ -54,7 +76,11 @@ AKSPHCDA	7664
 AKWASI OTI ALLENTER SMALL ARMS	15845
 AKZ Angolan	10765
 AKiéni Academy	16098
+ALEDI Aklesso ADC	19251
+ARATEME Akouta ADC	19251
+AROUA Aklesso ADJ	19251
 ASIN Director General Marc-André AkinOlu Loko	4246
+AWADE Akiza SCH	19251
 AZIZ AKHANNOUCH	17456
 Abba Kyari. Akuma	1250
 Act. Johnson Akuamoah Asiedu	15657
@@ -143,7 +169,7 @@ Akili Unde. Kituo	7864
 Akilimali Bamwisho Descartes	7888
 Akilimali Bamwisho Descartes. Selon	7888
 Akillix	12478
-Akim Benamara	2459,608,239,78,242,125,961,281,82,362,23,101,256,101,218,65,350,582,17,538,262,7,167,1696,4736,81
+Akim Benamara	2459,608,239,78,242,125,961,281,82,362,23,101,256,101,218,65,350,582,17,538,262,7,167,1696,4736,81,4700
 Akim Benamara F	9837,45,75
 Akim Benamara F E Through the AWS	9849
 Akim Benamara IFC	7095
@@ -191,10 +217,12 @@ Akizungumzia	2718,367,1279,4099,3180
 Akiéni	2325,6875
 Akjoujt	17862,31,14
 Akjoujt and Atar	17862
+Aklakou Lacs3	19350
 Akli Ouali	15732
 AknK0dde L6P9 ZCJgLDaqpmOirSo9V	10819
 Akobo	18701
 Akobo and Nyirol	18701
+Akodessewa	19315
 Akofena	19148
 Akoga	4209
 Akok Nsomo	4209
@@ -202,6 +230,8 @@ Akoka	9739
 Akokan	2327
 Akol Koor Kuc	3583
 Akol Paul Kordit	18666
+Akoly GENTRY	19307
+Akoly GENTRY LISTE DES SIGLES	19350
 Akoma Ntoso	2530,1263
 Akometsi Ltd and Madness Entertainment	8958
 Akon City	8943
@@ -219,6 +249,8 @@ Akosua	10419
 Akoto	17701
 Akoua	16100
 Akouessa	17584
+Akoumapé	19331
+Akoumapé Vo Lacs1	19350
 Akoupé	2342
 Akouta DC Courant Continu	18103
 Akpa-Inyang and Chima	9969
@@ -227,6 +259,7 @@ Akpeki	4690
 Akpini Traditional Area	16596
 Akplogan	6341,2967
 Akpoglan	9801
+Akposso	19346
 Akresh	15658
 Akria	6230
 Akros	12408
@@ -290,6 +323,7 @@ Akzo Nobel	5113
 Akzo Nobel NV	5113
 Aké MIDA Recettes	3638
 Aké Natondé	4162
+Akébou	19335
 Akúrenam	16864,56
 Al Akhawayn University. Authorities	5360
 Alain Akouala Atipault	16275
@@ -307,6 +341,10 @@ Autopista Bata-Mongomo Akurenam	4209
 Ayomide Akindolie-Igwe	9633
 Aziz Akhannouch	2425,3352,1147,10545,56,1
 B. C. M. Akresh	15658
+BEHEZI Aklesso SCH	19251
+BELEI Akli-Esso SCH	19251
+BIMIZI Akla-Esso SGT	19251
+BOUYO Aklesso ADJ	19251
 Bachuo Akagbe	15542
 Bamboo Akanda	16007
 Bayi Akim NIGNAN	7670
@@ -323,6 +361,7 @@ Bw. Pever Gao. Akizungumza	7863
 Bénin. Akplogan	6341
 CEC and Aksa Energy	15659
 Cache Akamai Bénéficiez	16214
+Capitaine de Vaisseau SAMON Akoussoum	19251
 Centre AKAMURI de Bujumbura	13442
 Centro-Sur Akurenam	16942
 Cherolle KANDJO AKENDENGUE	16381
@@ -331,6 +370,16 @@ Christelle Akuélé Ayosso	2261
 Chukwunweike Araka Akosa	4809
 Coker-Odusote and Akpabio	7561
 Colegio Nacional de Oveng Akurenam	4209
+Colonel AKPELI Mossoumbou DIRECTION CENTRALE	19251
+Colonel AKPOVY Kossi Gbezondé	19251
+Colonel TCHAKPELE Akli-Esso	19251
+Commandant ADJARI Akata Magnassina	19251
+Commandant AKALA YOBA Gnimdo Mawa-Eya	19251
+Commandant AKLOA Kolima	19251
+Commandant AKPOTO Messanvi Yao	19251
+Commandant GADO Aklesso	19251
+Commandant SAMATI Akakpo Kokou Augustin	19251
+Commandant TORO Akparo Analla N’balma	19251
 Commissioner for Health Prof. Akin Abayomi	9444
 Conduct of Akwatia By-Election	15927
 Consejo de Akok-Yebinvaiñ	4209
@@ -338,6 +387,7 @@ Consider Akosua	10419
 Cédric AKENDENGUE	16175
 D. and Akello	6436
 DW Akademie. The AMB	13124
+Danyi-Elavagnon Danyi Akébou1	19350
 David Akum Saba-Elkher	3679
 Dell and Akamai	6692
 Dennis Akande	11572
@@ -393,6 +443,7 @@ Frank Akabueze	5267
 Fundação Akelius	16510
 Félix AKPLAKOU Membres	16485
 GIZ's Akzente	12141
+GNAROU Akate SCH	19251
 GONA AKOULI	15744
 GROUPE AKOMILI ISPM INSTITUT DE SANTÉ PRIVÉE	18170
 Gambia By Rebecca Yakubu Akatue	10062
@@ -406,6 +457,7 @@ Gordon LaForge and Akash Kapur	4430
 Government of Akwa Ibom State	18154
 Grade One Magistrate Geoffrey Akena	4235
 Gynecology3 Akušerstvo4	10780
+HOUNFODJI Akakpo CCH	19251
 Halim Akniou	15410
 Health Minister Akandoh	3832
 Health Minister Kwabena Mintah Akandoh	15894
@@ -440,14 +492,20 @@ Jain and Akakandelwa	8022
 Japón AKIYAMA	6613
 Jean AKIANA	15685
 Jifarah Plain and Jabal Al Akhdar	17157
+Jonas Aklesso DAOU	19250
+Josue Akre Financial Management Financial Management	19284
 Juana Nsee Mitogo Coordinador Distrital de Akúrenam	16920
 Judicaël MOUKANGA AKENDENGUE	16381
 Jumoke Akande	8983
 KADJO Aka Jean-Baptiste	2342
 KAR AKORO	17828
+KORONDAKOU Aklisso SCH	19251
+KOUBATINE Tossou Aklaisso SCH	19251
 KOUNI AKARY	17828
+KPELENKA Akilesso CCH	19251
 Kabir Akanbi	8978
 Kalema Akhera	10104
+Kamina-Akébou Akébou Kpélé1	19350
 Karlo Andrew Akwo	18739
 Kehinde Olufemi Akinbo	11879
 Kenya Law's AKN	7607
@@ -456,12 +514,25 @@ Kenya. GSH and AKIBA	5743
 Khaleb Akponou	17550
 Kilometers Akhaltsikhe	18887
 Kirui AK	17773
+Kokou Akouvi	19268
 Kouessi AKOSSOU Ouémé Membre	16485
+Kougnohou Akébou2	19350
 Kpowbié Tchasso Akaya	17615
 Kwabena Mintah Akandoh	3832
+LEMOU Akomdjaou SCH	19251
 Ladoke Akintola University of Technology. Instead	14706
 Lawrence Akosen	7491,1089,186
 Le Ministre Mahuna AKPLOGAN	16473
+Lieutenant-colonel AKAKPO Ayewalagni	19251
+Lieutenant-colonel AKATA Eyouvei	19251
+Lieutenant-colonel AKPANAHE Maheza	19251
+Lieutenant-colonel AKPO Kondi	19251
+Lieutenant-colonel ANDJE Palakiyem Aklesso	19251
+Lieutenant-colonel BIAO-ADZA Akomola	19251
+Lieutenant-colonel BIDE Akawilou	19251
+Lieutenant-colonel KOTA Akonate	19251
+Lieutenant-colonel SABI Kossi Akomola	19251
+Lieutenant-colonel TCHAKEI Tchedre Akpo	19251
 Lily Albino Akol Akol	18666
 Louis Akakpo	18931
 Lydia Lamisi Akanvariba	8369,2
@@ -474,11 +545,14 @@ M. AKOUELE	15615
 M. AKOULOUYANI	15615
 M. AKOUTE	16545
 M. AKOUYA	16039
+M. AbIam AKITI	19209
+M. Adoté Délali AKWEI	19264
 M. Akaya	6260
 M. Akhannouch	17469
 M. Akram Allouani	16263
 M. Aziz Akhannouch	17471
 M. Christe AKOMBI	16381
+M. Comlan AKAKPO	19209
 M. Elie AKOUE ZOTOUMBA	16175
 M. Esthy AKA OYANIGUI. DIRECTION DES	16381
 M. Jean Danice AKARIKI MINISTÈRE	15973
@@ -491,6 +565,7 @@ MA NDI AKUY	17828
 MC ALLOUANI Akram Ministère	15472
 MC.2016.111 Akindote	8022
 MDAs. NiRA President Adesola Akinsanya	4690
+MELEBOU Aklesso SCH	19251
 MINTER GIFTY QUAYE MINTER PROMISE AKUA	15845
 Madam Margaret Akosua Evans	8384
 Madame Akouélé Irisse FATOGNON	17584
@@ -519,6 +594,7 @@ Minister of Public Security Ali Ahmat Akhabache	5407
 Ministre Mahuna AKPLOGAN	16473
 Mintah Akandoh	15894
 Mlle Love Providence Akeza	13547
+Mme AGUZE Akossiwa	19280
 Mme AKOMA NKIET Gisèle	16381
 Mme AKOUALA	15848
 Mme AKOUAN	15848
@@ -531,6 +607,7 @@ Mme. Pélagie NFONO AKOUE	16381
 Monsieur A. Salvador AKPOVI	17584
 Monsieur Abishaï AKPALLA Littoral Membre	16485
 Monsieur Akim ODOUBI Zou Membre	16485
+Monsieur Akoly GENTRY	19321,24
 Monsieur Alatin Maxime P. AKPLOGAN	17584
 Monsieur Hemery Patrick AKONDJO OLANDZOBO	2738
 Monsieur Mahuna Akplogan	6366
@@ -562,6 +639,7 @@ Ms. Akuetteh	3384
 Ms. Teki Akuetteh	3384
 Mutiyu Akanbi Sule	16329
 NAAIP Founder Professor Emeritus Peter Akinsola	8710
+NASSOUGOU Akatra Malaowe ADC	19251
 NCC Akinwale Goodluck Engr. Ibraheem Mohammed	11857
 NEC Chairperson Abednego Akok Kacuol	18717
 NEC Chairperson Prof. Abednego Akok Kachuol	18742
@@ -582,7 +660,10 @@ Nguema Ndong Akumu Inspector Distrital de Akúrenam	16920
 Nida Akizungumza	2718
 Nigeria's Akowe We're	13272
 Noël Alain Olivier Mekulu Mvondo Akame	15883,264
+N’TASSOU Akati SCH	19251
+ODJEKE Akata SCH	19251
 OKOCHI Akihiro	8297,47
+OUDEI Tasso Akilou ADJ	19251
 Okeoghene Akubuike The Federal Government	18176
 Ola Schad Akinocho	11950
 Olasunkanmi Akoni LAGOS	17756
@@ -594,7 +675,10 @@ Omowonuola Akintola	9104
 Operational Septembe Akanetso Street La Dade-Kotopon	3386
 Opeyemi Akinremi	9956
 Orange Money and AKDN	17870
+PAKA Aklesso SCH	19251
 PARTICIPANTES INSTITUCION Cargo Escolástica NSA AKIEME	16875
+PATCHONATING Akaholo SCH	19251
+PEWELI Aklisso ADJ	19251
 PIVP Director General Marie-Laure AKIN-OLUGBADE	11863
 Pamélo MBA AKOURE	16381
 Par Christian Aka	3755
@@ -603,6 +687,7 @@ Par Stine Akimana L'ordonnance	5673
 Peretimi Akinmodun and Lazarus Kalu AELEX	9877
 Philip AKuai	7249
 Philip Akuai	18726
+Pour David Akwei	19315
 Pour Fabrice Aka M'Vouti	8336
 President Romuald Wadagni. Akplogan	6440
 Prof. Akok	18742
@@ -633,6 +718,7 @@ S. E. M. Louis-Blaise AKA-BROU	16633
 S. Oluwole Akinola	11140
 SGF Akume	2390
 SIT AKILLY	17828
+SIZING Aklisso ADJ	19251
 SUA Akurenam	4209
 SUDAN Prof. Julia Aker Duany	18612
 Samiat Akande	5281
@@ -663,11 +749,12 @@ Stéphane Aka-Anghui	2856
 Sudan Akhbar	15151
 Sudan Akhbar Published	15094,156
 Séraphin Akure-Davain	15745
+TELLA Akamre CCH	19251
 TOR IDAG AKO	17828
 Tanga. Akizungumza	11643
 Tanguy AKOURE	16175
 TechAfrica News Founder Akim Benamara	5752,2359
-Telegram Le Togolais Kodjo Akpatigbe	2629,770,367,55,45,867,580,142,234,14,2,102,70,47,210,371,62,277,263,16,2,157
+Telegram Le Togolais Kodjo Akpatigbe	2629,770,367,55,45,867,580,142,234,14,2,102,70,47,210,371,62,277,263,16,2,157,12006
 Testimony Akinkunmi	9642
 Timileyin Akinmoyeje	9310
 Togo. Marcel Akakpo	9898
@@ -692,5 +779,6 @@ Wil AK	12478
 William Akoto	17701
 Woods AK	5242
 Xavier AKODEWOU	16463
+YAOULA Aklesso CCH	19251
 Yazid Akanho	16545
 Yves Bénoit ANDECKO AKANDA AMADOU BA	16175

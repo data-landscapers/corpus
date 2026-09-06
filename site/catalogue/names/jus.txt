@@ -1,5 +1,6 @@
 A. CONTEXTE ET JUSTIFICATION	13478
 ADDRESS BY THE HONOURABLE MR JUSTICE	13504
+ADEBIYI Justine	19332
 AI Landscape Assessment Justice	13080
 AI and Justice	15881
 AI. Just	7038
@@ -85,6 +86,7 @@ Burundi. II.1 JUSTIFICATION DU PNDIS II	13306
 BÂTIR UNE RÉPUBLIQUE FORTE ET JUSTE	18972
 Bénin. Jusque-là	2694
 CAR Minister of Digital Economy Justin Gourna	5461
+CHAPITRE I. CONTEXTE ET JUSTIFICATION	19216
 CHIEF JUSTICE OF ZIMBABWE	13504
 CJ Ketlogetswe Chief Justice	4718
 CNI Collecte des Justificatifs Impression Carnets Remise	14480
@@ -171,7 +173,7 @@ Conselho de Direcção A Delegação da Justiça	10752
 Context and Justi	18564
 Coordenador Justiça	10751
 Corte Suprema de Justicia	4209,12662
-Cour Commune de Justice	15495,2487,124
+Cour Commune de Justice	15495,2487,124,1103
 Cour de Justice	11944,3538,221,2114
 Court Of Justice Clarifies When Courts	6632
 Court of Justice	1807,4615,659,1355,311,26,3,2325,4800,1879,656,549
@@ -228,6 +230,7 @@ Deputy Chief Justice and Judge President	12920
 Deputy Minister of Justice	18477
 Deputy Minister of Justice and Constitutional Development	10453
 Deputy Prime Minister Justice Nthomeng Majara	10292
+Descriptions Prix Résidentiel Silver Jusqu’à	19232
 Develop Technical and Ministry of Justice	1777
 Developing Commercial Justice. The Project	17441
 Development Plan JCPS Justice Crime Prevention	11188
@@ -290,6 +293,12 @@ Every Chief Justice	8978
 Excellency Mr. Léon Juste Ibombo	15901
 Exmo. Sr Don JUSTO NGOMO NNEGUE	16904
 Extract CRIMINAL JUSTICE	11857
+F CFA Entreprise Pro Cyber Jusqu’à	19232
+F CFA Entreprise Pro Plus Jusqu’à	19232
+F CFA Professionnel Pro Jusqu’à	19232
+F CFA Professionnel Pro Small Jusqu’à	19232
+F CFA Résidentiel Gold Jusqu’à	19232
+F CFA Résidentiel Platinium Jusqu’à	19232
 FBI's Criminal Justice Information Services	2273
 FILLEMON W. IMMANUEL MINISTER OF JUSTICE	13189
 FISCALIA CORTE SUPREMA DE JUSTICIA	4209
@@ -539,7 +548,7 @@ Jusqu’au	11944,4780,715,852
 Jusqu’en	15715
 Jusqu’ici	2785,2572,5469
 Jusqu’où	10642
-Jusqu’à	7032,897,2472,425,842,1774,983,1049,196,1062,753,358,5,25,21,13,102,97
+Jusqu’à	7032,897,2472,425,842,1774,983,1049,196,1062,753,358,5,25,21,13,102,97,1126
 Just AI	5008,1044,1051,1733
 Just AI Conference	6979
 Just AI Fellow Hlengiwe Dube	8836
@@ -590,7 +599,7 @@ Justella O. Elle	6877
 Justement	2443,4384,2021,5640,1,1
 Justi	18111
 Justi-	539
-Justice	11,223,353,56,94,24,28,172,39,214,42,61,1,142,145,1,76,95,1,210,53,1,85,205,17,212,65,182,86,1,63,87,7,24,43,233,29,15,161,26,21,83,3,24,147,119,53,92,13,24,19,137,1,784,76,1,100,69,128,1,322,45,11,11,40,88,297,319,252,8,33,55,226,363,122,15,112,181,87,122,49,33,76,57,25,106,84,116,1,1,1,37,113,5,87,89,113,117,40,69,140,4,118,58,68,180,31,248,134,163,209,16,1,37,8,5,9,2,1,30,11,1,18,25,45,11,88,31,443,17,22,6,249,33,2,16,1,1,1,11,40,16,2,85,95,7,7,1,1,9,78,99,1,11,1,3,31,72,29,34,21,379,50,15,27,17,49,17,156,11,26,35,4,12,22,79,28,4,30,28,40,63,37,5,26,55,36,154,83,179,107,94,3,6,5,6,8,11,13,20,66,86,194,32,1,8,23,18,54,137,24,51,54,131,9,19,10,5,10,3,8,5,13,10,7,3,2,2,4,1,6,18,3,2,31,20,7,20,15,2,2,33,38,1,5,22,5,9,5,10,30,26,9,1,55,88,29,34,48,24,46,28,74,26,7,21,14,36,42,5,11,69,29,6,19,2,1,18,4,80,6,1,1,4,2,10,2,1,5,1,8,34,33,116,52,58,8,7,15,45,19,64,4,34,18,53,120,111,7,13,13,5,105,6,193,34,6,6,9,3,2,4,1,11,2,38,2,2,31,8,3,1,3,3,11,15,13,12,29,5,40,1,12,13,3,5,1,4,9,75,1,23,24,17,3,18,1,1,17,1,21,67,33,19,21,10,138,16,83,15,152,24,21,27,19,16,4,19,109,37,36,4
+Justice	11,223,353,56,94,24,28,172,39,214,42,61,1,142,145,1,76,95,1,210,53,1,85,205,17,212,65,182,86,1,63,87,7,24,43,233,29,15,161,26,21,83,3,24,147,119,53,92,13,24,19,137,1,784,76,1,100,69,128,1,322,45,11,11,40,88,297,319,252,8,33,55,226,363,122,15,112,181,87,122,49,33,76,57,25,106,84,116,1,1,1,37,113,5,87,89,113,117,40,69,140,4,118,58,68,180,31,248,134,163,209,16,1,37,8,5,9,2,1,30,11,1,18,25,45,11,88,31,443,17,22,6,249,33,2,16,1,1,1,11,40,16,2,85,95,7,7,1,1,9,78,99,1,11,1,3,31,72,29,34,21,379,50,15,27,17,49,17,156,11,26,35,4,12,22,79,28,4,30,28,40,63,37,5,26,55,36,154,83,179,107,94,3,6,5,6,8,11,13,20,66,86,194,32,1,8,23,18,54,137,24,51,54,131,9,19,10,5,10,3,8,5,13,10,7,3,2,2,4,1,6,18,3,2,31,20,7,20,15,2,2,33,38,1,5,22,5,9,5,10,30,26,9,1,55,88,29,34,48,24,46,28,74,26,7,21,14,36,42,5,11,69,29,6,19,2,1,18,4,80,6,1,1,4,2,10,2,1,5,1,8,34,33,116,52,58,8,7,15,45,19,64,4,34,18,53,120,111,7,13,13,5,105,6,193,34,6,6,9,3,2,4,1,11,2,38,2,2,31,8,3,1,3,3,11,15,13,12,29,5,40,1,12,13,3,5,1,4,9,75,1,23,24,17,3,18,1,1,17,1,21,67,33,19,21,10,138,16,83,15,152,24,21,27,19,16,4,19,109,37,36,4,12,9,1,2,20,10,20,79
 Justice A-Regulatory Sandbox A1-Legal	7548
 Justice A. Alagoa	7600
 Justice AJS	18286
@@ -824,7 +833,7 @@ Justice for All	18477
 Justice for All Through	18477
 Justice for Children Trust Birth Registration	13310
 Justice for Health	4674
-Justice for Persons	17296
+Justice for Persons	17296,1938
 Justice of Appeal	18943
 Justice' Department	14149,1
 Justice- Composante Numérisation	13635
@@ -887,7 +896,7 @@ Justificación Un	1701
 Justificatif	15885,741
 Justificatif du Rachat	17485
 Justificatifs	5753,5123,6609
-Justification	643,146,181,217,801,901,4070,3752,165,32,57,571,674,30,124,51,547,363,50,1226,892,3,4,39,3,131,177,362,424,111,153,15,128,71,26,704,39,2,17,81,303,172,27,46,358,71,25
+Justification	643,146,181,217,801,901,4070,3752,165,32,57,571,674,30,124,51,547,363,50,1226,892,3,4,39,3,131,177,362,424,111,153,15,128,71,26,704,39,2,17,81,303,172,27,46,358,71,25,377
 Justification Based	18531
 Justification Contexte	3381
 Justification Dans	16674,1309
@@ -933,6 +942,7 @@ Justifying	29,16854
 Justin	15524,220
 Justin BALLAY-MEGOT Considérant	15439
 Justin Basile	15524
+Justin Beleoken Sanguen	19276
 Justin Boitano	9027
 Justin Brown	5224
 Justin Chinyantaa	17161
@@ -952,9 +962,11 @@ Justin Grace	15744
 Justin Loongo	13488
 Justin MAGANGA MANFOUMBI	16099
 Justin Mamidi Moukoungou	16350
+Justin Marie Bienvenu Beleoken Sanguen	19239
 Justin Maurice	15848
 Justin Muturi	10042
 Justin Omer Balima. Il	3055
+Justin Pilanté	19316
 Justin Sadack Saidi	13115
 Justin Saidi	12299
 Justin Stéphane	16100
@@ -1007,6 +1019,7 @@ LA JUSTICE	8321
 LA JUSTICE ET DES DROITS	18227
 LA JUSTICE ET DES DROITS HUMAINS	15676,266
 LA JUSTICE Le Conseil	5826,2495,7796,170
+LE MINISTRE DE LA JUSTICE ET	19241
 LEGIS MINISTERE DE LA JUSTICE	14431
 LUMIMARITNEISTÉRIO DA JUSTIÇPAresidente	15694
 La Cour de Justice	15703
@@ -1044,10 +1057,12 @@ Léon Juste Ibombo. L'agence	2540
 Léon Juste Ibombo. LA SUITE APRÈS	1973
 Léon Juste Ibombo. Le Pnud	2540
 Lézin Juste	15615,129
+M. GBADAGO Quam Justin	19264
 M. Juste Benjamin EGUEYI ONEWIN	15973
 M. Justice	18286
 M. Justin BEKALE	15973
 M. Justin GOURNA ZAKO	4327
+M. Justin HANKEM	19363
 M. LOUANGOU BOUYOMEKA Juste Oswald	16381
 M. Léon Juste IBOMBO	3326
 M. Léon Juste Ibombo	3173,12471,425,23,1
@@ -1101,7 +1116,7 @@ Minislère de Io Juslice	15438
 Minister Jacob Jusu Saffa	18471
 Minister Judith Nabakooba Deputy Chief Justice	5731
 Minister Léon Juste Ibombo	3676,87,14,936
-Minister for Justice	3352
+Minister for Justice	3352,16013
 Minister for Justice and Constitutional Affairs	3331,727,2972,234,5629
 Minister of Justice	3714,869,4483,58,275,704,1075,23,316,124,697,75,404,80,200,214,2,74,11,39,33,107,96,336,286,498,57,19,187,337,80,11,8,1805,97,911,290,3
 Minister of Justice Adnan Fangari	16004
@@ -1260,6 +1275,7 @@ Olivier Justin	15524
 Order Justice Omolaye-Ajileye’s Electronic Evidence Books	11654
 Oxford Institute of Technology and Justice	17330
 PAIX ET JUSTICE	5478
+PME Jusqu’à	19232
 PNFS. Justification of Overall Rating of Quality of M&E	11924
 PRESIDENTE CORTE SUPREMA JUSTICIA Mensual Mensual	4209
 PROMOTE RESPONSIVE LEGAL AND JUSTICE SYSTEMS	12939
@@ -1341,6 +1357,8 @@ RENFORCER LA JUSTICE ET ASSURER	17901
 REPORT OF THE MINISTRY OF JUSTICE	13131
 RIO DA JUSTI	18896
 Radio Justice BUJUMBURA ARCT	13414
+Rapports de Ministère de Justice R	19220
+Rapports de Ministère de Justice Rapports de Ministere	19220
 Recursos Nacionais MJAPDH Ministério da Justiça	18779
 Reference the Criminal Justice	11857
 Reforma da Justiça	18786
@@ -1450,6 +1468,7 @@ Theme Contain Just	8603
 Third Associate Justice Law Clerk Bailiff	16943
 Timor-Leste Ministério da Justiça	10750
 Titre VI. De la Haute Cour de Justice	15603
+Togo Minister of Justice	19214
 Touggourt. MINISTERE DE LA JUSTICE Arrêté	15863
 Transitional Justice	6343,10630
 Travail POLITIQUE SECTORIELLE DE LA JUSTICE	15468
@@ -1470,6 +1489,7 @@ Unified Digital Justice Strategy	10103
 Unified System for Licensing Electricity Providers Just	15025
 Union-Travail- Justice	15703
 Using Research ICT Africa’s Just AI	6979
+VI CONTEXTE ET JUSTIFICATION	19226
 Vetting of Justice Sector Officials and Professionals	14012
 Vice Chancellor Justice Thwala	4058
 Vice Chancellor Professor Justice Thwala	13182

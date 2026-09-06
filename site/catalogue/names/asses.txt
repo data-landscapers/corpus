@@ -1,4 +1,5 @@
 A- Lifecycle Cost Assessment Guidelines A1-	7548
+A. Assesses	19237
 A. Assessments	14717
 A. Needs Assessment	17255
 A. RELEVANCE OF PDO Assessment of Relevance	17962
@@ -27,6 +28,7 @@ AI Systems Assessment Readiness Tool	16212
 ANNEXES I. External Sector Assessment	17503,487
 ANNEXES I. Risk Assessment Matrix	17257,1566
 ASSESS	11156
+ASSESS ENROLL PROVIDE MANAGE	19237
 ASSESSING ALIGNMENT WITH BEST PRACTICES	12385
 ASSESSING TAKE-UP PREREQUISITES	16885
 ASSESSING-ICT-READINESS-	15164
@@ -99,7 +101,7 @@ Artificial Intelligence Readiness Assessment Report	12994
 Artificial Intelligence Readiness Assessment Report. UNESCO	2816
 Arusha. The Association for Educational Assessment	10675
 Asses	16863,294
-Assess	236,482,181,344,571,174,489,512,872,265,1539,767,400,106,610,1930,272,1381,2,23,28,1,6,210,453,98,3,240,45,116,3,40,46,197,275,123,43,298,477,67,13,52,1,450,83,253,102,56,62,133,34,42,267,131,55,54,983,162,5,13,8,1,41,21,4,12,5,43,7,81,15,35,8,98,5,107,1003,106,19,36,430,79
+Assess	236,482,181,344,571,174,489,512,872,265,1539,767,400,106,610,1930,272,1381,2,23,28,1,6,210,453,98,3,240,45,116,3,40,46,197,275,123,43,298,477,67,13,52,1,450,83,253,102,56,62,133,34,42,267,131,55,54,983,162,5,13,8,1,41,21,4,12,5,43,7,81,15,35,8,98,5,107,1003,106,19,36,430,79,197
 Assess AI	1814
 Assess Compliance	10721
 Assess Conduct	17157
@@ -120,6 +122,7 @@ Assess the Criteria	12376
 Assess the Effect of CUCI	12978
 Assess the Institutions	14997
 Assess the Livelihood Impact of Electricity Access. Nature	12006
+Assess. Individuals	19237
 Assessable Income	11976
 Assessable Profit	11976
 Assessed	4432,2031,4542,151,1344,2277,696
@@ -155,7 +158,7 @@ Assessing the Impact of ICT Integration Policy	899
 Assessing the Levels of Assurance	10775
 Assessing the Macroeconomic Productivity Gains	11140
 Assessing the Program	18370
-Assessment	584,315,71,191,42,9,52,603,121,6,579,1031,187,70,26,239,88,580,871,155,612,80,27,1009,470,584,1555,564,42,5,44,29,165,147,3,25,344,225,105,42,8,43,8,30,8,14,82,120,4,27,14,42,32,29,21,6,68,47,8,27,40,211,149,46,204,123,2,21,12,11,27,4,3,4,26,50,9,391,123,19,146,518,68,64,6,48,35,3,11,12,14,12,50,26,57,84,36,172,43,9,49,45,35,51,17,37,1,2,2,481,470,229,5,4,1,8,35,6,20,5,16,4,2,19,2,18,8,15,6,82,5,10,2,23,18,23,55,82,50,502,249,252,78,19,21,24,116,84,113,62
+Assessment	584,315,71,191,42,9,52,603,121,6,579,1031,187,70,26,239,88,580,871,155,612,80,27,1009,470,584,1555,564,42,5,44,29,165,147,3,25,344,225,105,42,8,43,8,30,8,14,82,120,4,27,14,42,32,29,21,6,68,47,8,27,40,211,149,46,204,123,2,21,12,11,27,4,3,4,26,50,9,391,123,19,146,518,68,64,6,48,35,3,11,12,14,12,50,26,57,84,36,172,43,9,49,45,35,51,17,37,1,2,2,481,470,229,5,4,1,8,35,6,20,5,16,4,2,19,2,18,8,15,6,82,5,10,2,23,18,23,55,82,50,502,249,252,78,19,21,24,116,84,113,62,350,47
 Assessment Agility	13477
 Assessment Approach and Coverage	17116
 Assessment Area Findings Legal and Regulatory Kenya	12210
@@ -174,6 +177,7 @@ Assessment DGFP General Directorate of Civil Service	969
 Assessment Design	15164
 Assessment Design and Framework	15164
 Assessment EI Environmental Impact License EIP	16843
+Assessment ESMAP Energy Sector Management Assistance	19239
 Assessment ESS Environmental and Social Standards ESSA	17458
 Assessment Education Sector Plan for Egypt Education	15604
 Assessment Enabling Variables PILAR No. ENABLING	18476
@@ -245,6 +249,8 @@ Assessment and National Examination	13960
 Assessment and Planning	6432,5563,3125
 Assessment and Quality Assurance Officer	12984
 Assessment and Recommendations. Paris	6832
+Assessment and Reduction of Adaptation Risks	19245
+Assessment and Reduction of Mitigation Risks	19245
 Assessment and Research	14812
 Assessment and Research Guidelines for Mauritian HEIs	14812
 Assessment and Screening	1988
@@ -648,6 +654,7 @@ ESIA Environmental and Social Impact Assessment	18614
 ESIA Environmental and Social Impact Assessment ESMF	1264
 ESIA Environmental and Social Impact Assessment ESMP	11863
 ESIA Environmental and Social Impact Assessment EU	7548
+ESS Assessment	19284
 ESS2 Assessment and Management of ES Risks and Impacts	12253
 ESS9 Not Currently Relevant. Summary of Assessment	11965
 EXTERNAL DEBT SUSTAINABILITY ASSESSMENT	13868
@@ -710,7 +717,7 @@ Environmental and Social Impact Assessment Regulations	1988
 Environmental and Social Impact Assessment Report	18543
 Environmental and Social Impact Assessment Template	1988
 Environmental and Social Impact Assessment. Generally	17114
-Environmental and Social Impact Assessments	1867,121,1616,3647,5809,3084,955,15,146,1114,513
+Environmental and Social Impact Assessments	1867,121,1616,3647,5809,3084,955,15,146,1114,513,358
 Environmental and Social Screening Assessment Framework GDP	15424
 Environmental and Social Systems Assessment	11905
 Environmental and Social Systems Assessment ESMP	18370
@@ -758,6 +765,7 @@ Finalize GBV Assessment and Action Plan Update	2989
 Finance Assessment European Union Food and Agriculture	16973
 Financial Assessment	14675
 Financial Management Assessment	15372,287,3228
+Financial Management Assessment FNPV Financial Net	19239
 Financial Management FMA Financial Management Assessment	11560
 Financial Sector Assessment Program	12701,751,1545,2141,365,367
 Financial Sector Assessment Program FSDP Financial	14997
@@ -793,7 +801,7 @@ Gambia Poverty and Gender Assessment	16951
 Gap Assessments31	16144
 Gender Assessment	13332,3619
 Gender Equality Assessment	15491
-Gender Gap Assessment	11965
+Gender Gap Assessment	11965,7274
 GeneraL Assessment of Classrooms' Readiness	16963
 Ghana’s AI Readiness Assessment	5701,2662
 Given and Assessment	899
@@ -813,6 +821,7 @@ Government The Digital Readiness Assessment	12214
 Grievance Mechanism Assessment	11007
 Group's War Damage Assessment Committee	15169
 Guidance Note and Assessment Tool	11133
+Guidance Note and Assessment Tool. Social	19237
 Guide for Tax Administration Diagnostic Assessment	16955
 Guidelines EIA Environmental Impact Assessment EIB	18504
 HARMS AND BENEFITS ASSESSMENT Data	1243
@@ -873,6 +882,7 @@ IR Readiness Assessment	12935
 IR Readiness Assessment Framework	12935
 ISC Assessment of ZamStats	2240
 ISN Launches Comprehensive Hub Assessment Report	12053
+ISRs. Assessment Environmental	19284
 ITU CIRT Assessment	318
 IV. ASSESSMENT SUMMARY	12176,5282
 IV. ASSESSMENT SUMMARY A. Technical	11905
@@ -1156,6 +1166,7 @@ OBJECTIVES Assess Household Food Security	17285
 OBJECTIVES OF COMPLIANCE ASSESSMENTS	13381
 ODRA Open Data Readiness Assessment OECD	4214
 OFF-GRID AND MINI-GRID MARKET ASSESSMENT	18620
+OUTREACH ASSESSMENT OF ELIGIBILITY	19237
 OVERALL ASSESSMENT	14777
 OWNERSHIP A Assess Continental Ensure	961
 Object Based Similarity Assessment Using Land	15129
@@ -1286,6 +1297,7 @@ Performance Assessment Tool MTEF Medium Term	11224
 Performance Monitoring and Assessment. Article	14867
 Person GRM Integrated Fiduciary Systems Assessment	11905
 Personal Information Impact Assessment	11896
+Pillar Assessment	19328
 Plan ESIA Environmental and Social Impact Assessment	11549
 Platform Assessment Framework	5700
 PoWER Assessment of Women’s Economic Empowerment	16951
@@ -1293,7 +1305,7 @@ Policy Misalignment Methodology CRVS Assessment Tool	13005
 Policy and Institutional Assessment CR Civil Registration	969
 Policy and Institutional Assessment CSOs Civil Society	18577
 Port Area. Conformity Assessment	14736
-Post-Disaster Needs Assessment	1228
+Post-Disaster Needs Assessment	1228,18017
 Post-Pandemic Assessment	1828
 Poverty Assessment	1867,8896,222,2538,2138
 Poverty Assessment Survey	11525
@@ -1578,6 +1590,7 @@ TADAT Tax Administration Diagnostic Assessment Tool	12948,913,576
 TF Risk Assessment Report	14774
 TH GLOBAL EDUCATIONAL ASSESSMENT CONFERENCE Inside	13477
 TRA Threat and Risk Assessment TRV Temporary	5533
+TRAINING CALL DETAIL INDIVIDUAL ASSESSMENT CALLS	19237
 TYPES OF COMPLIANCE ASSESSMENTS	13381
 Talent Gap Assessment	2680
 Targeting Assessment	15663
@@ -1697,6 +1710,7 @@ World Bank’s Procurement Risk Assessment and Management	1264
 World Health Organization Disability Assessment Schedule	14622
 X BUREAU VERITAS INSPECTION VALUATION ASSESSMENT	16623
 Y. Assessment	14843
+Year The National Learning Assessment System	19249
 Year of Assessment	11276
 Yet Due Completion Measurement Assessment	17470
 ZICTA Assesses UASF ICT Projects	6713

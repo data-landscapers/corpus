@@ -38,6 +38,7 @@ Compétences TIC	13306
 Consultoria de TIC	570
 Contribution des TIC	13290
 DD ARCT- OBSERVATOIRE MARCHE TIC	13586
+DE L’ÉMERGENCE DE CHAMPIONS DES TIC	19221
 DEPENSES DES MENAGES EN TIC	18204
 DES INDICATETEURS TIC AU BURUNDI	13324
 DES TIC	18105
@@ -48,6 +49,7 @@ Directeur Général des TIC	13290
 Directeur des Infrastructures TIC	13482
 Direction Générale des TIC	13290
 Direction Générale des TIC du Ministère	13290
+Documentation Spécifications TIC	19232
 Droit des TIC Relations	15467
 Droit des TIC Services	15467
 Dénombrement RAPPORT D’ANALYSE TIC	18204
@@ -97,6 +99,7 @@ Infrastructures TIC	13306,4575
 Iniciativas de TIC	16251
 Instituto Nacional de TIC	12142
 Juste NKENGURUTSE Louis Point Focal TIC	13341
+KPAKOU Ticonaiti Koupoua SCH	19251
 L'utilisation des TIC	13841
 LES TIC EN	15541
 La Matinale du Service Universel des Tic	3404
@@ -192,6 +195,7 @@ Secteur des TIC. Dans	18047
 Secteur des Tic	13717
 Security Operation Center TIC	15512
 Segurança Ocupacional TI Tecnologia de Informação TIC	11413
+Sein des Administrations Documentation Spécifications TIC	19232
 Service TIC	13341
 Services TIC. Le Ministre	18105
 Setor TIC	15684
@@ -204,6 +208,7 @@ Soins PNDTIC Politique Nationale de Développement des TIC	13341
 Sous-secteur TIC	15542
 Sous-secteur des TIC Responsable	13290
 Specialist TIC GTIDR Tassere Pitroipa Information	10812
+Specifications tic administrations	19232
 Stratégie Nationale TIC	16641
 Stratégie des TIC	15541
 Stratégies TIC	18105
@@ -248,6 +253,7 @@ TIC Fig. II.1 Cinq	13341
 TIC Figure	14423
 TIC GMAO	13306
 TIC IV.4.1 OBJECTIF GÉNÉRAL	13306
+TIC Indicateurs	19221
 TIC Inspection Volume	15467
 TIC Insuffisance	15542
 TIC Intégrer	13306
@@ -283,6 +289,7 @@ TIC Par La Rédaction	556
 TIC Peu	13306
 TIC Profil	17856
 TIC Promotion	13341
+TIC Quiconque	19213
 TIC Renforcement	13341
 TIC Régulation	15467
 TIC S	15684
@@ -295,7 +302,7 @@ TIC TI T.V. UIT US VOIP	13290
 TIC TIC	13306
 TIC TVA	7655
 TIC Technologie	15493,468,665
-TIC Technologies	13306,2166,2,2433,297
+TIC Technologies	13306,2166,2,2433,297,1012,134
 TIC Tecnologia de Informação	11555
 TIC Tecnologias de Informação	12787
 TIC URL	16305,1930
@@ -333,6 +340,7 @@ TIC. C’est	737
 TIC. Dans	10604,2737
 TIC. Depuis	15455
 TIC. Développer	13341
+TIC. Economie	19240
 TIC. Elle	13290,3325,19,1471
 TIC. Elles	18204
 TIC. Em	16325

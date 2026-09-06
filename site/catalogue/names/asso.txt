@@ -38,6 +38,7 @@ ADEF Associação	15694
 AEAA Association for Educational Assessment	12975
 AFD Agence Française de Développement AME Association	18911
 AFRICA50 FUND ARTICLES OF ASSOCIATION	13387
+AGOBO Assoti Melebetom SGT	19251
 AI. Associated Actions	1814
 AJS Association des Juristes Sénégalaises ASP Agence	18286
 AME Association Meres Educatrices	15661
@@ -57,7 +58,7 @@ ASSOC Linux	8678
 ASSOCIADAS AO CO-FINANCIAMENTO Transitam	17100
 ASSOCIATED BATTERY MANUFACTURERS EAST AFRICA LIMITED	7167
 ASSOCIATED CENTRAL MEDICAL SERVICES Data Controller	7167
-ASSOCIATED OPERATION	2712,1976,1891,349,949,3518,576,257,39,173,2719,576,2,276,66,626,289,6,79,17,808,54,48,127,217,4,1,179,258,25,266
+ASSOCIATED OPERATION	2712,1976,1891,349,949,3518,576,257,39,173,2719,576,2,276,66,626,289,6,79,17,808,54,48,127,217,4,1,179,258,25,266,166
 ASSOCIATES ADVOCATES Data Processor INST-6081681FD83 NAIROBI	7167
 ASSOCIATES ADVOCATES LLP Data Controller INST-22632307500	7167
 ASSOCIATES CLINIC Data Controller INST-966918CDCA1 NAIROBI	7167
@@ -124,7 +125,13 @@ ASSOCIATIONS DE CONSOMMATEURS CHAPITRE	17825
 ASSOCIATIONS ET	10965
 ASSOCIATIONS FOR GAIN	3714
 ASSOCIAÇÃO DOS PROFESSORES APOSENTADOS DO PORTO	16290
+ASSOGBA Tchaognimoan SCH	19251
+ASSOGUEY Yaovi ADJ	19251
+ASSOLI	19350
 ASSOTEL	998
+ASSOTI Essossinam ADC	19251
+ASSOTI Kibadou ADJ	19251
+ASSOTI Somiabalo SCH	19251
 ASSOUMOU	16099
 ATLAS ASSOCIATES LLP Data Controller INST-119694D0ADC	7167
 ATLAS ASSOCIATES LLP Data Processor INST-119694D0ADC	7167
@@ -171,6 +178,7 @@ African Securities Exchanges Association	6938
 Airlines Association of Southern Africa	10360,363
 All Farmers Association of Nigeria	5765
 All-Farmers Association of Nigeria	3742
+Alédjo Assoli3	19350
 Amendment of Articles of Association	4896
 American Association of Geographers	226
 American Association of Textile Chemists	14736
@@ -272,7 +280,7 @@ Associates Data Controller INST-27398506BDB NAIROBI Kenya	7167
 Associates Inc. Business Day	8267
 Associates Out Stations Out Stations	736
 Associates and Joint	10793
-Association	969,40,255,20,460,123,47,4,425,106,174,323,316,99,59,142,42,110,66,346,150,156,463,159,161,272,182,51,115,7,35,72,552,290,70,77,8,161,16,12,51,35,624,41,617,14,156,64,18,98,24,14,396,40,15,110,60,25,39,473,155,22,87,46,9,355,36,62,8,6,3,14,24,88,1,3,7,64,314,172,24,11,185,34,76,2,11,2,16,19,39,31,19,85,112,10,151,1,130,5,552,145,125,21,15,12,27,57,35,279,239,221,201,8,5,123,183,73,101,2,15,49,11,10,15,117,53,114,76,18,5,16,28,15,1,5,5,9,14,30,35,62,6,37,2,1,4,27,5,15,12,19,1,22,14,5,1,62,53,41,18,23,117,44,33,18,55,24,93,17,41,31,163,117,7,102,8,19,39,25,13,286,410,21,164,3,8,4,11,5,20,1,17,35,48,21,2,91,69,12,90,29,11,14,1,41,7,20,25,14,127,105,148,78,10,198,28
+Association	969,40,255,20,460,123,47,4,425,106,174,323,316,99,59,142,42,110,66,346,150,156,463,159,161,272,182,51,115,7,35,72,552,290,70,77,8,161,16,12,51,35,624,41,617,14,156,64,18,98,24,14,396,40,15,110,60,25,39,473,155,22,87,46,9,355,36,62,8,6,3,14,24,88,1,3,7,64,314,172,24,11,185,34,76,2,11,2,16,19,39,31,19,85,112,10,151,1,130,5,552,145,125,21,15,12,27,57,35,279,239,221,201,8,5,123,183,73,101,2,15,49,11,10,15,117,53,114,76,18,5,16,28,15,1,5,5,9,14,30,35,62,6,37,2,1,4,27,5,15,12,19,1,22,14,5,1,62,53,41,18,23,117,44,33,18,55,24,93,17,41,31,163,117,7,102,8,19,39,25,13,286,410,21,164,3,8,4,11,5,20,1,17,35,48,21,2,91,69,12,90,29,11,14,1,41,7,20,25,14,127,105,148,78,10,198,28,116,6,5,34,7
 Association ASFAMA	14489,1
 Association Africaine	10975
 Association Agreement	7845,9596
@@ -317,6 +325,7 @@ Association HM FMoCDE Honourable Minister	11857
 Association HR Human	12663
 Association HTTP Hypertext Transfer Protocom ICAO	18931
 Association IARDT Incendie	10965
+Association IBRD	19239
 Association IDP Internally Displaced Person ILO	14896
 Association IFC International Finance Corporation IFR	15518
 Association Internationale	7976,1,4066,1512,1009,1630,1623,44
@@ -369,6 +378,7 @@ Association Sans But Lucratif Commission	13442
 Association Secrétaire	17982
 Association Sections and Description FA	15621
 Association Sierra Leone	16144
+Association Solidarité	19267
 Association Sportive	10975,7124
 Association Sportive Ball	17982
 Association Sustainable Development Goals Small and Medium	15480
@@ -409,6 +419,7 @@ Association des Femmes Africaines	18286
 Association des Femmes Albinos	13442
 Association des Femmes Handicapées du Burundi AFHB	13442
 Association des Femmes Juristes du Burundi	13635
+Association des Grandes Entreprises du Togo	19295
 Association des IMAMS	17829
 Association des Industriels	18307
 Association des Institutions	5835
@@ -545,7 +556,11 @@ Association. Conditions Financing	13331
 Association. D. Environmental and Social Standards	16936
 Association. Drawn	13385
 Association. ECOWAS. Section I.A.2	1264
+Association. ESCP	19245,39
 Association. Effectiveness Art	14976
+Association. FA	19284
+Association. FA Schedule	19284
+Association. For Official Use Only Schedule	19284
 Association. Guinea-Bissau. Section I.A.2	1264
 Association. Guinea-Bissau. Section I.A.3	1264
 Association. Guinea. Section I.A.2	1264
@@ -566,7 +581,7 @@ Association. Revised	15138
 Association. Revised Effectiveness The VUP Operations	15138
 Association. Revised Page	15138
 Association. SAA. Section I.A.2	1264
-Association. Schedule	3604,10391,1663,3
+Association. Schedule	3604,10391,1663,3,3578,45
 Association. Sections and Description	11525
 Association. Sections and Description FA	10829,4792
 Association. Sections and Description Financing Agreement	10964
@@ -659,12 +674,15 @@ Associer	1187,6354,379,2624,1499,5829,1164,87
 Associotions	15397
 Associou	6360
 Associé	13547,2787,33
+Associé Chargé	19273
 Associé Unique	17531
 Associés	16381,232
 Assock Mezeng	16037
 Assoclation Professionnelle des Banques	14849
 Assoir	17872
-Assoli	9493
+Assoli	9493,9716
+Assoli LE PRESIDENT DE LA REPUBLIQUE	19209
+Assoli...17	19209
 Assomada	3192,5446,1356,5509
 Assomption	13405,5559
 Assomption de Marie	13405
@@ -693,6 +711,7 @@ Azali Assoumani. Elles	1996
 Aïssatou Ndoye Associate Scientist	18324
 B. CONDITIONS ASSOCIATED WITH BANK’S INTERVENTION	11863,2075
 B. Conditions Associated	11863
+BAMALI Assoou CCH	19251
 BAMBA FINANCIAL SERVICES ASSOCIATION C.B.O Data	7167
 BASIC SYSTEMS WMO REGIONAL ASSOCIATION	12649
 BIBEY ASSOUMOU	16175
@@ -701,6 +720,7 @@ BOAD Raymond ASSOUKROU Analyste	10708
 BOMAYANGU PARKROAD HOMEOWNERS ASSOCIATION Data Processor	7167
 BT ASSOCIÉS Dans	15670
 Badirammogo Water User Association	11248
+Bafilo Assoli2	19350
 Bamako. Associations de Consommateurs du Mali	17829
 Bank of Namibia and Bankers Association of Namibia	4073
 Bankable Frontiers Associates	12297
@@ -793,6 +813,7 @@ Clinician Associates	16971
 Collectif des Associations	13442
 Collectifs des Associations Féminines	18101
 Colmer Wapa Wireless Access Providers Association	6365
+Colonel SIMLIWA Assoh Bibonawe	19251
 Commonwealth Association of Architects	12369
 Commonwealth Parliamentary Association	8601,602,3769
 Communal Property Association	11261
@@ -857,7 +878,7 @@ Description Association for Progressive Communications	522,1034
 Description Dairy Association of Zambia Digital Information	295
 Determining the Intellectual Property Rights Associated	15713
 Dettwiler and Associates	15285
-Development Association	1704,163,424,1271,7267,731,1551,221,683,1535,71,40,82,932
+Development Association	1704,163,424,1271,7267,731,1551,221,683,1535,71,40,82,932,2570
 Development Association CEDAW The Convention	15604
 Development Association IDB Industrial Development Bank	2775
 Development Association IDP Internally Displaced Person	15621,40,70
@@ -878,6 +899,7 @@ Djibouti Telecom CEO Mohamed Assoweh Bouh	4918,17
 Dra. Zalha Assoumana	7702
 Duty Photocopier and Assort	17180
 Dynamic Informal Traders Association	12106
+Défalé Doufelgou3 Aloum Assoli Assoli1	19350
 E Associational and Organizational Rights E1	17967,217
 E. SIFUNA AND ASSOCIATES ADVOCATES Data	7167
 E.J.V. Association	16367
@@ -996,6 +1018,7 @@ Ghana Journalists Association	3691,6451,897
 Ghana List of Acronyms and Abbreviations AGI Association	236
 Gildas BESSOUGLA Associations	15797
 Giscar ASSOUMOU ELLA	16099
+Global Alumni Association of Togo	19270
 Global Express Association	11550
 Global Fintech Networks Industry Associations	14819
 Global Off-Grid Lighting Associa-	11923
@@ -1117,7 +1140,7 @@ International Association of Privacy Professionals. CIGI	1243
 International Association of Scientific	5246
 International Association of Women Judges	2626
 International Bar Association	6946
-International Development Association	1264,20,295,199,89,47,112,47,401,358,624,148,176,585,469,649,1,11,1259,699,946,1,34,44,505,1675,183,122,347,581,14,19,17,24,280,88,55,24,257,78,85,250,103,146,61,3,36,28,64,4,260,6,75,65,105,13,41,30,73,235,116,96,268,2,42,6,6,5,5,7,4,19,23,51,58,452,83,70,289,261,91,51,8,50,20,141,268,38,3,142,182,47,224,432,46,452,10,127,184,42,111
+International Development Association	1264,20,295,199,89,47,112,47,401,358,624,148,176,585,469,649,1,11,1259,699,946,1,34,44,505,1675,183,122,347,581,14,19,17,24,280,88,55,24,257,78,85,250,103,146,61,3,36,28,64,4,260,6,75,65,105,13,41,30,73,235,116,96,268,2,42,6,6,5,5,7,4,19,23,51,58,452,83,70,289,261,91,51,8,50,20,141,268,38,3,142,182,47,224,432,46,452,10,127,184,42,111,313,1,8
 International Development Association IDA Integrated Disease	11417
 International Development Association ISR Implementation	2889
 International Journal of Nepal Library Association	8022
@@ -1144,6 +1167,7 @@ Joint Association	14486
 Jordan Open Source Association	6705
 Jovial ASSOUMOU ESSONO	16175
 João Lupi Karen Mimbir ASSOCIADO SÉNIOR	2125
+Juges Aboudou ASSOUMA	19218
 Jun-2023 INTERNATIONAL DEVELOPMENT ASSOCIATION	14912
 Junior Professional Associate	18851
 KAGERE Partner Senior Associate Associate	12232
@@ -1206,6 +1230,7 @@ Liberia National Truckers Association	17367
 Liberia Timber Association	16848,5,4
 Liberian Marketing Association	17119
 Liberian National Bar Association	16943,68
+Lieutenant-colonel PISSO Assoti	19251
 Lighton Nyirongo UNESCO Associate National Communications	13663
 Livestock Breeders’ Associations Form	17157
 Loans and International Development Association	2889,12664,105
@@ -1213,6 +1238,7 @@ Local Government Association	12531
 Loumba Assonghor	19026
 M. ASSOUA NDZIMA	15615
 M. ASSOUMOU MBENG Guy Marly	16381
+M. AYIGA Assou	19315
 M. Bernadin MVE ASSOUMOU. DIRECTIONS GENERALES	16381
 M. Evy-Dan ASSOMO. DIRECTION DES FINANCES	16381
 M. Gildas Nancy NDONG ASSOUMOU	16175
@@ -1228,6 +1254,7 @@ MESE’’. Association	15395
 MESURES D’ATTÉNUATION ASSOCIÉES Maintien	15936
 MINISTERE DU COMMERCE ET Association	15395
 MODIFICATION DES ASSOCIÉS ET	17534
+MOUKAILA Assoumaila SCH	19251
 MOYICARE. Association	16274,182
 MUSONDA Partner Associate Partner Bowmans Bowmans	12232
 Maio Tarrafal Assomada São Jorge	16325
@@ -1269,6 +1296,7 @@ Mohamed Ahamada Assoumani	5026,8771
 Mohamed Ahamed Assoumani	4479
 Mohamed Ahmed Assoumani	5314,212,131,8160,3
 Mohamed Assoweh Bouh	1287,1392,2219,77
+Monde Associatif	19220
 Monitoring and Evaluation Association SCM Supply Chain	11224
 Monsieur Assoumane Sahabi	18116
 Monsieur Herbert ASSOGBA	5206,5661,4914,392
@@ -1282,6 +1310,7 @@ Mozambican Banking Association and INTIC	2601
 Mozambican Bar Association	12201
 Myanmar Internet Exchange Association	14468
 N.V.D.D. Association	16413
+NABEDE Assoti SGT	19251
 NAPPS National Association of Proprietors of Private Schools	11860
 NBR FSPs X Establish Payments Association	15130
 NGOs and Associations	16926
@@ -1431,6 +1460,7 @@ Renewable Energy Association	18453
 Reporting Association SANCA South African National	11198
 Research Associate	12162,2389,1363,352
 Residents Association Treasurer	736
+Resilience MDTFNEW International Development Association	19284
 Resource Member and Associate Member	585
 Resource and Associate Member	585,8281
 Resources and Associate	585,8281
@@ -1583,6 +1613,7 @@ Telugu Association	18563
 Third Associate Justice Law Clerk Bailiff	16943
 Théodore Mathurin Assogba	2950
 Timber Association of Liberia	16833
+Togo Association	19237
 Traders’ Association	11129
 Trained Clinician Associates	16971
 Truckers Association of Zambia	13403

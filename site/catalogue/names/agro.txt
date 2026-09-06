@@ -62,8 +62,10 @@ AgroMet and Rainfall Stations	16947
 AgroParisTech	7390,8969
 AgroPraga	16229
 Agroalimentair	17829
-Agroalimentaire	15412,2867
+Agroalimentaire	15412,2867,995
 Agroalimentaires	10965
+Agrobioingénieur	19366
+Agrobusiness	19366
 Agroecologia	18831
 Agroecological	14818
 Agroecology	14818,2346
@@ -95,13 +97,15 @@ Agronomie	15674
 Agronomie Béninoise INSAE Institut National	15583
 Agronomie FBCF	13377
 Agronomique	16627
-Agronomy	7759,4981
+Agronomy	7759,4981,6544
 Agroplus	15048
 Agropole de Kara	8303
+Agropôles	19214
+Agroressources	19366
 Agrosilvicultura	16875
 Agroturismo	11458
 Agroéconome	17899
-Agroéconomie	17982
+Agroéconomie	17982,1384
 Agroéconomiste-Chercheur	17861
 Agroéquipements ARTICLE	17829
 Automatic Agro-Meteorological Stations	12728
@@ -152,6 +156,8 @@ I Censo Agropecuario URL	17422
 I Censo Agropecuario V Censo de Población	10487
 I Censo General Agropecuario	8048,2439,6772,163
 II Censo Agropecuario	4209
+INITIATIVE EQUIPE EUROPE AGROBUSINESS DURABLE	19220
+INITIATIVE EQUIPE EUROPE AGROBUSINESS DURABLE Faire	19220
 IVRS. The Sierra Leone Agro-Processing Competitiveness	1161
 Implementação de Sistemas Agro-florestais	18760
 Industries Agro-alimenta	17829
@@ -198,7 +204,8 @@ Revision of Zimbabwe's Agro-Ecological Zones	520
 Rice Special Agro-Industrial Processing Zone	18561
 SMS Soleil Agrobusiness La Jolie Teinturière	16693
 SOCIETE AGRO-PASTORALE DU GABON	16175
-Sciences Agronomiques	15529
+Sciences Agronomiques	15529,3837
+Sciences des Agroressources	19366
 Secteur Agroalimentaire EDEC MAROC	17945
 Selected Agro-Sub-	1988
 Six Agro	14007

@@ -55,6 +55,7 @@ API Standards Enact Consumer	12444
 API Testing	5665
 API Training Facility	18253
 API URL Language	15714
+API ZF	19209,12
 API Zimswitch Technologies	12490
 API and PNR	10360,363
 API de MTN	15493
@@ -67,6 +68,8 @@ API for P176181	1216
 API for P176932	1277
 API for PSP	12269
 API for PersonalData	6423
+API-'.ZF	19209
+API--ZF	19209
 API-An	3222
 API-Business	3991
 API-IMMATRICULATION	7212
@@ -74,7 +77,13 @@ API-MALI	17870
 API-Mali	8808,9062,143,3
 API-Mali. Deux	18013
 API-PAIEMENT-FACTURE	7212
-API-ZF	14231
+API-Z	19209
+API-ZF	14231,4978,12
+API-ZF P8 Création	19221
+API-ZF Projets	19221
+API-ZF Revue	19221
+API-ZF. Art	19209
+API-ZF. Ces	19209
 API-ZF. Il	14231
 API-accessible	10730
 API-based	710,4138,1539,926,1119,3927,41,637,1753,207,717
@@ -83,12 +92,18 @@ API-clean	13272
 API-dependency	7151
 API-driven	4973,1174,2285,4610,34,109,356,48,1163,2787
 API-first	2522,2602,12845
+API-iF	19209
 API-integrated	10718
 API-integration	5230
+API-lF	19209
+API-lF. Art	19209
+API-lF. Elle	19209
+API-lF. Section	19209
 API-level	8182
 API-related	6423
 API-sourced	7885
 API-type	550
+API. Article	19260
 API. Developer	6423
 API. Effica SYS	17969
 API. Every	6603
@@ -199,6 +214,7 @@ Carolina Glasserman Apicella of DataGénero	7151
 Catálogo de APIs Iremos	16030
 Cette API	13306
 Chambers of Commerce and Director of API	16275
+Commandant POULI Pihani Apizunaya	19251
 Communication API	17902
 Companies API Application Programming Interface	4214
 Consultant API Chef	16012

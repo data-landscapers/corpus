@@ -7,6 +7,7 @@ Abyei PCA SNAPSHOT	15206
 Accounts SNE Special Needs Education SPL	2775
 Adolescents SNIS	15685
 Afrique SNDDS	17844
+Afrique SNDS Stratégie	19216
 Agriculture and Livestock SNIS Ministry of Urban DGH	18198
 Aj Jazirah SNAPSHOT	15206
 Amazon SNS	10794
@@ -46,6 +47,7 @@ Charles Snetter	17070
 Chief Executive of SNPT	5407,676
 Complétude SNIS	16722
 Composantes du SNIS	15501
+Composantes du SNIS Le SNIS du Togo	19226
 Corresponding Weights SN Variable	17157
 Country Snapshot	13344
 Country Snapshot Geography The Federal Democratic	12500
@@ -105,6 +107,7 @@ Financiers Numériques SNEF Stratégie Nationale	11944
 Findings Liquid’s SNEL	12006
 Five Ranks of Flood Risk SN Label	17157
 Flood Snow Rain Ice Seismic Wind	9123
+Fonctionnement du SNIS	19226
 Fondation SNK	2992,202
 Fondation SNK. Il	3329
 Forum National Conjoint SnFGI	18407
@@ -155,7 +158,7 @@ Khartoum SNAPSHOT	15206
 Khidmaty du SNTR	17905
 Koko SNI	15542
 L'ELABORATION DE LA SNDS-3	15479
-LA SNDS	15580
+LA SNDS	15580,3636
 LA SNDS30	15501
 LA SNEEG	18286
 LA SNGD SE VEUT UN LEVIER	15624
@@ -170,7 +173,7 @@ La SND	15542
 La SND30	15542,653
 La SNDDS	17844
 La SNDI	15936
-La SNDS	2768,12762,50,19,738,283,8,1216,325,122
+La SNDS	2768,12762,50,19,738,283,8,1216,325,122,925
 La SNDS III	18291
 La SNDS-3	15479
 La SNEEG	18286
@@ -201,10 +204,12 @@ Libreville. SN	16282
 License. The SNBS	14931
 Liquid’s SNEL	12006
 List of Report Writers and Contributors SN Name	17043,84
+L’organisation du SNIS	19226
 M. Jean Snahon	18028
 MANGANESE QUIPUX SMD SNDI SM Floleu	2342
 MATRICE D'ARRIMAGE ENTRE LA SNDS-3	15479
 MICS6-STP Snapshot.pdf	18762
+MOP SNIS TOGO 2	19226
 MTND SNDI ANSUT ANSSI ARTCI CICG	15936
 Malaba Traffic Snarl Deepens	3955
 Management System SNRRC National Strategy for Disaster	13729
@@ -213,6 +218,7 @@ Market Snapshot Detailing	12376
 May-25 SN Project Name Request	14746
 Mi Snapshot	17323,1
 Ministères SNEEG	18286
+Mission du SNIS	19226
 Mme Andresse Snnaelle MOUGOLA NZENGUE	16175
 Morocco's SNIF	5630
 Mégadonnées SNIAM Security Operation Center SOC	15583
@@ -238,9 +244,13 @@ O SNjeYS MAIAAL	16857
 OPEX SNIP SNIP	12043
 OSEP PADCI PND PRIME SONAPIE SNDI	15936
 Objectif Global SNFI	10965
+Objectifs du SNIS	19226
+Objectifs du SNIS L’objectif du SNIS	19226
 Online Marketplace Project Snapshot. Lead Organization	4257
 Orange Sn Group	17870
 Orbit SN	1690
+Organisation du SNIS	19226
+Organisation du SNIS Le SNIS	19226
 Ouagadougou SNC Semaine	15961
 Ouverture du SnPIF	18407
 Overview SNAPSHOT	15206
@@ -288,6 +298,7 @@ REGISTRATION OF LEARNERS Sn Components	13310
 RFC1305 SNTP Simple Network Time	1009
 RGPHAE RNP SILC SNIF U.P U.S	13390
 RMA SNIS TBM TBN TFA TFT	15599
+RMA du SNIS	19226
 RNB Revenu National Brut SND	10965
 RPPS SEC SIS SNIS SSO TdH	17882
 Rabies and Snakebite	12729
@@ -442,7 +453,8 @@ SNDS Respect	18291
 SNDS Retard	18291
 SNDS Stratégie	15961,659
 SNDS Stratégie Nationale de Développement	15501,79,2589
-SNDS Une	15580
+SNDS Une	15580,3636
+SNDS de PARIS21	19216
 SNDS du Burkina Faso	15961
 SNDS du Sénégal	18291
 SNDS du Sénégal. Ces	18291
@@ -454,6 +466,7 @@ SNDS-3. Au	15479
 SNDS-II	14452,75
 SNDS-III	13689,4623
 SNDS-III. Lancement	13689
+SNDS-III. Par	19216
 SNDS. Cette	15961
 SNDS. Cette SNDS	15580
 SNDS. Elle	18291
@@ -461,6 +474,7 @@ SNDS. Enfin	15580
 SNDS. Il	15961,2330
 SNDS. Le SDS	15961
 SNDS. Le Secrétariat Technique Permanent du Conseil	18169
+SNDS. L’INSEED	19216
 SNDS. PRÉSIDENCE DE LA REPUBLIQUE PRÉSIDENCY	15530
 SNDS. Par	15580
 SNDS. VII.1.3	18291
@@ -575,25 +589,40 @@ SNIP SNIP	12043
 SNIP. Volet C	12043
 SNIPER	16485
 SNIS Cas	16392
+SNIS Ce	19226
+SNIS Dans	19226
 SNIS III.2.5. Ressources	15685
 SNIS Las	16962
 SNIS N	16722
+SNIS Pour	19226
 SNIS Sistema	11543
 SNIS Sistema Nacional de Informaciones Sanitarias STAT-	16898
 SNIS Sistema Nacional de Información Sanitaria TM	16969
 SNIS Système	15724,237,1882
 SNIS Système National	15501
 SNIS Système National D'information	16104
+SNIS des DPS	19226
+SNIS des DRS	19226
+SNIS du Togo	19226
 SNIS. ARTICLE	15530
 SNIS. Aussi	15595
+SNIS. Autrement	19226
+SNIS. Ce	19226
 SNIS. Cependant	15595,90
+SNIS. Cette	19226
 SNIS. C’est	15595
+SNIS. C’est-à-dire	19226
 SNIS. En	16962
+SNIS. Exemple	19226
 SNIS. II. GESTION DES SUPPORTS	15595
 SNIS. III	15595
 SNIS. Il	15595,2250
+SNIS. Je	19226
 SNIS. Le Chef du SPIH	15595
+SNIS. Le RFS	19226
+SNIS. L’archivage	19226
 SNIS. Recommendations	4090
+SNIS. Un	19226
 SNIS. W-ﬂnv	15530
 SNISI	17870,223
 SNISI Collecte	17882
@@ -629,7 +658,8 @@ SNNP. Precisely	111
 SNNPR	1219,11036
 SNOAT	3396
 SNOMED	15720
-SNOMED CT	10031
+SNOMED CT	10031,9253
+SNOMED CT Systematized Nomenclature of Medicine	19284
 SNOMED CT Systematized Nomenclature of Medicine Clinical	18478
 SNOMEDCT	8606
 SNOMEDclinicalterms	8606
@@ -642,6 +672,7 @@ SNPN Stratégie	17881
 SNPPRD Stratégie Nationale de Promotion des Pôles Régionaux	18103
 SNPS National Social Protection Strategy	17849
 SNPSF	3677,10064,16
+SNPT Société	19350
 SNRRC	13442,4756
 SNRT News URL	17526
 SNS MÉTAL	16103
@@ -708,8 +739,9 @@ Snap-in	15027
 Snap-on	13385
 SnapChat	16114
 SnapScan	6286
-Snapchat	7983,199,54,166,582,1261,759,960,5901
+Snapchat	7983,199,54,166,582,1261,759,960,5901,1397
 Snapped Underwater Cables and It’s Still	2677
+Snapplify Africa	19221
 Snapshot	408,4033,5150,2650,944,127,2,1514,169,194,53,1700,1967
 Snapshot Aug-Oct	14158
 Snapshot Operations Portfolio	11469
@@ -781,9 +813,10 @@ TikTok and Snap	6029
 TikTok and Snapchat	17586
 UBA STANBIC IBTC SN BANK	18489
 UNICEF Egypt Data Snapshot. Issue	15604
-UVRE DE LA SNDS	18291
+UVRE DE LA SNDS	18291,925
 UVRE DE LA SNDS-3	15479
 UVRE DE LA SNGD	15624
+UVRE DES ACTIVITÉS DU SNIS Dans	19226
 UVRE ET SUIVI-EVALUATION DE LA SNDS	18291
 UVRE La SNDS	18291
 Union Africaine. La SNDDS	17844

@@ -45,7 +45,7 @@ B. Disclosure and Compliance Monitoring	11863
 B. Disclosure and Compliance Monitoring B.1	13938
 B. Results Monitoring	15743,401,240
 B. Results Monitoring and Evaluation	11525,3847,39,2030,17,1429
-B. Results Monitoring and Evaluation Arrangements	969,295,603,1737,2935,4229,61,135,416,37,132,11,295,1476,1,1605,554,24,3,35,68,37,1,2,1288,1155,94,95,8,476
+B. Results Monitoring and Evaluation Arrangements	969,295,603,1737,2935,4229,61,135,416,37,132,11,295,1476,1,1605,554,24,3,35,68,37,1,2,1288,1155,94,95,8,476,462
 B.Â Results Monitoring and Evaluation	18887
 BENEDIAOU MONIO	15558
 Backup Regular Monitoring	9123
@@ -108,6 +108,8 @@ China MERICS China Monitor	17780
 Christian Churches Monitoring Group	9986,31
 Civic Freedom Monitor	9022
 Civic Space Monitor	9022
+Civicus Monitor	19358
+Civicus Monitor URL	19358
 Climate Monitoring Maproom	14900
 Climate Monitoring Rainfall This Analysis	14900
 Coastlines Monitoring Service	10794
@@ -351,7 +353,7 @@ Gender Monitoring and Evaluation Officer	12977
 General OSH Monitoring Committee	14738
 Geo-Enabled Monitoring and Supervision	10829
 Geo-Enabled Monitoring and Supervision GFF Global Financing	10829
-Geo-Enabling Initiative for Monitoring and Supervision	3604,11949,105,1680,568,56
+Geo-Enabling Initiative for Monitoring and Supervision	3604,11949,105,1680,568,56,1283
 Geo-Enabling for Monitoring and Supervision	16436
 Ghana Agricultural Information and Monitoring System	9561
 Global AIDS Monitoring	18937
@@ -514,6 +516,7 @@ Logistics Management Information System M&E Monitoring	15556
 Low Monitoring and Early Warning Systems	14443
 M&E Monitoring and Evaluation M2M Machine	6946
 M&E Monitoring and Evaluation MACS Ministries	17139
+M&E Monitoring and Evaluation MCC Millenium Challenge	19245
 M&E Monitoring and Evaluation MDA Ministries	14897
 M&E Monitoring and Evaluation MDAs Ministries	17099
 M&E Monitoring and Evaluation MEN Ministry of Education	11560
@@ -521,6 +524,7 @@ M&E Monitoring and Evaluation MICSTI Ministry of Information	12674
 M&E Monitoring and Evaluation MIGOP Guarantees Group	18754
 M&E Monitoring and Evaluation MOE Ministry of Education	1988
 M&E Monitoring and Evaluation Mbps	17862
+M&E Monitoring and Evaluation MoH-UHC Ministry of Health	19284
 M&E Monitoring and Evaluation NCB National Competitive	15411
 M&E Monitoring and Evaluation NGO Non-governmental	17906
 M&E Monitoring and Evaluation NICI National Information	18887
@@ -719,7 +723,7 @@ Monitores	15532,1332
 Monitoria	2138,678,7961,664,8,98,7254
 Monitoria da Política	11362
 Monitoria da Política. Revoga	11362
-Monitoring	7,4,23,350,12,197,125,71,169,42,131,83,29,41,494,36,53,121,489,232,3,246,555,70,21,74,183,265,134,268,35,220,462,204,84,890,9,147,100,153,36,78,2,600,215,82,438,246,32,562,270,50,26,45,170,75,180,189,29,564,42,12,1,33,3,17,52,83,43,124,25,32,5,5,26,6,22,149,16,108,266,64,2,6,42,2,17,3,12,13,1,3,9,6,15,9,13,130,11,26,65,5,8,4,101,41,13,5,27,56,12,25,26,35,44,32,43,194,6,15,7,23,2,5,1,6,1,28,32,17,29,12,49,168,2,17,1,17,10,4,18,178,7,58,80,234,52,1,8,79,344,131,12,57,114,9,3,11,22,6,25,6,1,15,1,22,3,7,30,24,1,1,35,7,32,22,15,2,84,9,1,8,26,80,17,24,55,32,39,62,41,4,35,3,45,3,25,26,3,1,2,9,43,12,241,11,167,44,24,6,75,129,14,164,239,4,5,4,1,4,1,2,3,21,2,3,3,23,11,1,15,1,4,2,2,12,3,4,1,14,11,72,31,15,2,1,22,10,7,1,94,34,10,69,3,38,133,307,25,14,22,28,264,95,61,90,26,5,3,2,24,8,25,70,17,4,139,5,4,19,14,78,98,57,37
+Monitoring	7,4,23,350,12,197,125,71,169,42,131,83,29,41,494,36,53,121,489,232,3,246,555,70,21,74,183,265,134,268,35,220,462,204,84,890,9,147,100,153,36,78,2,600,215,82,438,246,32,562,270,50,26,45,170,75,180,189,29,564,42,12,1,33,3,17,52,83,43,124,25,32,5,5,26,6,22,149,16,108,266,64,2,6,42,2,17,3,12,13,1,3,9,6,15,9,13,130,11,26,65,5,8,4,101,41,13,5,27,56,12,25,26,35,44,32,43,194,6,15,7,23,2,5,1,6,1,28,32,17,29,12,49,168,2,17,1,17,10,4,18,178,7,58,80,234,52,1,8,79,344,131,12,57,114,9,3,11,22,6,25,6,1,15,1,22,3,7,30,24,1,1,35,7,32,22,15,2,84,9,1,8,26,80,17,24,55,32,39,62,41,4,35,3,45,3,25,26,3,1,2,9,43,12,241,11,167,44,24,6,75,129,14,164,239,4,5,4,1,4,1,2,3,21,2,3,3,23,11,1,15,1,4,2,2,12,3,4,1,14,11,72,31,15,2,1,22,10,7,1,94,34,10,69,3,38,133,307,25,14,22,28,264,95,61,90,26,5,3,2,24,8,25,70,17,4,139,5,4,19,14,78,98,57,37,135,7,5,16,3
 Monitoring Activities	17099
 Monitoring Activities Throughout	11955
 Monitoring Agricultural Expansion	15715
@@ -835,7 +839,7 @@ Monitoring and Environmental Emergency	17157
 Monitoring and Evalaution Officers	17116
 Monitoring and Evaluating	11006
 Monitoring and Evaluating Long-Term Impact	16963
-Monitoring and Evaluation	396,12,159,222,169,3,300,3,560,2329,375,125,130,48,186,227,1,1,1186,107,2665,523,156,853,32,61,134,1,43,181,36,20,12,19,14,112,210,246,3,3,42,19,16,25,21,22,232,116,43,54,59,162,1,106,133,3,35,18,7,1,27,32,23,260,12,13,1,1,12,95,89,86,56,306,496,400,35,14,1,60,175,18,54,128,52,90,39,3,48,37,17,55,3,185,68,218,249,178,238,8,3,21,1,11,6,20,2,27,1,11,8,4,10,26,57,31,17,80,37,131,3,74,465,453,118,1,7,44,3,21,72,129,133
+Monitoring and Evaluation	396,12,159,222,169,3,300,3,560,2329,375,125,130,48,186,227,1,1,1186,107,2665,523,156,853,32,61,134,1,43,181,36,20,12,19,14,112,210,246,3,3,42,19,16,25,21,22,232,116,43,54,59,162,1,106,133,3,35,18,7,1,27,32,23,260,12,13,1,1,12,95,89,86,56,306,496,400,35,14,1,60,175,18,54,128,52,90,39,3,48,37,17,55,3,185,68,218,249,178,238,8,3,21,1,11,6,20,2,27,1,11,8,4,10,26,57,31,17,80,37,131,3,74,465,453,118,1,7,44,3,21,72,129,133,327
 Monitoring and Evaluation A Monitoring and Evaluation	12453,892
 Monitoring and Evaluation Arrangements	16858
 Monitoring and Evaluation Association SCM Supply Chain	11224
@@ -929,6 +933,7 @@ Monitoring and Evaluation of Operational Performance Finally	5677
 Monitoring and Evaluation of Research Projects The Research	1554
 Monitoring and Evaluation of WARDIP-SOP2 Liberia	17114
 Monitoring and Evaluation. Proposed Operation Abstract	15138
+Monitoring and Evaluation. The Government	19214
 Monitoring and Forecast of Intra-Seasonal Variability	16499
 Monitoring and GBV	1988
 Monitoring and Governance	11952,6533
@@ -1055,6 +1060,7 @@ P2-5. Monitoring	12500
 P6-22. Monitoring	12500
 PART V- MONITORING	18468
 PDM Post Distribution Monitoring PDO Project	16384
+PDO Outcome Monitoring	19284
 PDO Outcomes Monitoring	1867
 PIU Monitoring	15553
 PIUs Sanitation and Environment B. Results Monitoring	18198
@@ -1206,6 +1212,7 @@ Residue Monitoring Plan	11210
 Resource Mobilization and Monitoring	13991
 Resource Monitoring Monitor	11952
 Responsibility for Data Collection PISU Monitoring	15658
+Results Area Monitoring	19284
 Results Based Monitoring	13310
 Results Framework and Monitoring	10832,4540,39,3476
 Results Framework and Monitoring AFRICA	15372,3515
@@ -1299,6 +1306,7 @@ State-Owned Entities Monitoring Framework	11224
 Strategic Monitoring	12356
 Strategic Planning and Monitoring Unit	12736
 Strategic Roadmap for Monitoring and Evaluation	13998
+Strategy and Monitoring Framework	19284
 Strengthen Monitoring of Government Contracts By Lawrence	11615
 Strengthening System-Level Monitoring and Evaluation	14971
 Strengthening the Monitoring	16951
@@ -1364,7 +1372,7 @@ V. Monitoring	18770
 V. RESULTS FRAMEWORK AND MONITORING	11855
 V. RESULTS FRAMEWORK AND MONITORING Results	11855
 VI. RESULTS FRAMEWORK AND MONITORING	18104
-VII. RESULTS FRAMEWORK AND MONITORING	969,295,603,1737,2935,4841,145,24,11,1771,1,1578,27,554,24,38,68,37,1,2,1288,1352,476
+VII. RESULTS FRAMEWORK AND MONITORING	969,295,603,1737,2935,4841,145,24,11,1771,1,1578,27,554,24,38,68,37,1,2,1288,1352,476,462
 VII. RESULTS FRAMEWORK AND MONITORING MONITORING	15518
 VII. RESULTS FRAMEWORK AND MONITORING Results	10964,561,1806,1,2221
 VII. Results Framework and Monitoring	13743
@@ -1378,6 +1386,7 @@ Vessel Monitoring System	14752,93
 Voltage M&E Monitoring and Evaluation MALT Ground	15515
 Voltage M&E Monitoring and Evaluation MASEN Moroccan	11549
 Voltage M&E Monitoring and Evaluation MEH Ministry	15659
+Voltage M&E Monitoring and Evaluation MEM Ministry	19239
 Warning and Monitoring Flood	17157
 Watch Monitor Trends Visualization	17157
 Water Monitoring Network	14818

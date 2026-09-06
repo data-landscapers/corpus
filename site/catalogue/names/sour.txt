@@ -45,8 +45,9 @@ CSP Sources	11953
 CY2021 CY2022 CY2023 CY2024 CY2025 Sources	17257
 Cameroon. Sources	10960
 Capability Loss Factor Sources	11953
-Cible Sources	18291
+Cible Sources	18291,929
 Coal Nuclear Sources	11953
+Combining Data Sources While Protecting Privacy	19237
 Comments Sources	17364
 Conceptual and Theoretical Sources	11138
 Continental and International Sources	11138
@@ -96,6 +97,7 @@ Editorial Team Sources of Support Contact Search	12486
 Embedded Generation Sources	11953
 Energy Sources	12062,6124,31
 English. Sources	9969
+Evolution marche Regule 2019.pdf Cible Sources	19220
 Exchange Rates Sources	17990
 External Data Sources DIMAMO Operational Database	8604
 External Financing Needs and Sources	17209,1642
@@ -196,6 +198,7 @@ Open Sources Epidemiological Monitoring Survey Fonctions	14622
 Outil Objectif Sources	18015
 PIB Sources	17836
 PV Sources Storage	11953
+Passeport Togo Digital Sourcing Contenu Insertion	19221
 Payments Subsector Sources	14997
 Performance Assessment Report Template Indicators Sources	12500
 Performance Indicators Timefram Estimated Funding Sources	7548
@@ -275,9 +278,9 @@ Source-level	12318
 Source-stated	4466
 SourceID	55
 SourceModified	5598
-Sourcebook	10985,171
+Sourcebook	10985,171,8081
 Sourced	3422,345,470,812,1885,415,2215,2229,1205
-Sources	11,518,58,56,94,477,614,116,37,164,237,317,76,58,351,1,158,88,4,142,246,391,31,186,80,14,94,169,352,143,102,270,370,129,87,73,63,113,82,31,30,102,136,50,14,216,305,92,578,45,49,216,244,110,25,76,84,148,281,101,2,1,105,83,14,204,1,77,70,15,80,31,344,186,41,4,18,48,6,2,1,23,51,50,3,3,8,1,18,66,75,2,18,154,250,241,62,1,6,4,7,5,1,1,1,27,37,41,21,137,1,1,9,25,11,2,37,23,39,40,1,5,6,1,42,32,61,460,55,37,260,25,89,4,43,1,224,155,27,37,33,254,287,3,139,53,177,45,1,8,6,145,73,20,15,178,82,49,2,25,74,6,15,4,4,17,50,45,7,2,75,134,99,217,44,222,139,60,122,14,37,156,166,26,22,69,38,114,25,242,83,8,6,3,15,10,39,36,45,73,223,30,3,156,13,145,190,130,36
+Sources	11,518,58,56,94,477,614,116,37,164,237,317,76,58,351,1,158,88,4,142,246,391,31,186,80,14,94,169,352,143,102,270,370,129,87,73,63,113,82,31,30,102,136,50,14,216,305,92,578,45,49,216,244,110,25,76,84,148,281,101,2,1,105,83,14,204,1,77,70,15,80,31,344,186,41,4,18,48,6,2,1,23,51,50,3,3,8,1,18,66,75,2,18,154,250,241,62,1,6,4,7,5,1,1,1,27,37,41,21,137,1,1,9,25,11,2,37,23,39,40,1,5,6,1,42,32,61,460,55,37,260,25,89,4,43,1,224,155,27,37,33,254,287,3,139,53,177,45,1,8,6,145,73,20,15,178,82,49,2,25,74,6,15,4,4,17,50,45,7,2,75,134,99,217,44,222,139,60,122,14,37,156,166,26,22,69,38,114,25,242,83,8,6,3,15,10,39,36,45,73,223,30,3,156,13,145,190,130,36,227,5,16,113
 Sources A1- Disclosure	7548
 Sources AFRINIC	11812
 Sources AFRINIC Board Meetings and Resolutions	11813

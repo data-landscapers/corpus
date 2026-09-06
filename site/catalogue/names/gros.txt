@@ -124,6 +124,7 @@ GNI Gross	11380
 GNI Gross National Income GoC Government	18931
 GNI Gross National Income GoEG Government	16942
 GNI Gross National Income GoK Government	2775
+GNI Gross National Income GoT Government	19245
 GOS Gross Operating Surplus GPRS Ghana	236
 GRID Gross National Income GRM Government	3604
 GROS DE Médical	17819
@@ -145,6 +146,7 @@ Gender-Based Violence GDP Gross Domestic Product	16896,1881,32
 Gender-Based Violence Gross Domestic Product Geo-Enabling	15658
 Gender-Based Violence Gross Domestic Product Government	1228
 General Government Gross Debt	14777,827
+Global Challenge Program GDP Gross Domestic	19245
 Global Competitiveness Index GDP Gross Domestic	15491
 Global System for Mobile Communications GVA Gross	2775
 Good International Industry Practice GNI Gross	1818
@@ -180,7 +182,7 @@ Gross Completion Rate	18460
 Gross Disorderly Conduct A Member	13387
 Gross Domestic	2775
 Gross Domestic Expenditure	2775,9601
-Gross Domestic Product	236,337,367,423,625,787,641,167,279,1587,876,122,27,65,339,68,746,1343,119,98,617,935,52,124,154,35,26,33,308,13,457,241,9,100,29,10,31,27,98,69,319,23,91,58,184,17,2,31,73,642,41,484,160,2,150,68,546,7,35,68,38,4,68,12,39,147,54,869,6,18,10,56,10,40,4,15,205,12,61,169,287,431,9,290,8,5,321,124,105
+Gross Domestic Product	236,337,367,423,625,787,641,167,279,1587,876,122,27,65,339,68,746,1343,119,98,617,935,52,124,154,35,26,33,308,13,457,241,9,100,29,10,31,27,98,69,319,23,91,58,184,17,2,31,73,642,41,484,160,2,150,68,546,7,35,68,38,4,68,12,39,147,54,869,6,18,10,56,10,40,4,15,205,12,61,169,287,431,9,290,8,5,321,124,105,201,6
 Gross Domestic Product ECR Electronic Cash	18488
 Gross Domestic Product Financial and Insurance Activities	2775
 Gross Domestic Product GDP	2775
@@ -247,7 +249,7 @@ Gross Loans Profitability	11131
 Gross National	14997,1945
 Gross National Disposable Income	2775
 Gross National Happiness Pillars	14965
-Gross National Income	322,942,1511,3804,4683,952,181,544,172,201,2,165,169,1249,223,501,523,739,113,1202,339,373,21,2
+Gross National Income	322,942,1511,3804,4683,952,181,544,172,201,2,165,169,1249,223,501,523,739,113,1202,339,373,21,2,312
 Gross National Income GRM Government of Burundi	13331
 Gross National Income GSMA	18485
 Gross National Income GoKE Government	6539
@@ -292,7 +294,7 @@ Grosse	15698,937
 Grosses	16047,297,1538
 Grosses Réparations	15999
 Grosses Réparations du Matériel	15999
-Grossesse	737,12563,5012
+Grossesse	737,12563,5012,914
 Grossesses	1005,12295
 Grosseur	13300
 Grossly	10727
@@ -363,6 +365,7 @@ Person GDP Gross Domestic Product GDPR	12663
 Person GDP Gross Domestic Product GEI	16876
 Petit Gros	18418
 Pharmacies de Gros du District PNDRH	14442
+Present Value GDP Gross Domestic Product	19239
 Primary Gross Enrollment Ratio	14897
 Primary Gross School	16942
 Private Sector GDP Gross Domestic Product	13295

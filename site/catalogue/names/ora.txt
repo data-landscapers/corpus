@@ -291,7 +291,7 @@ OracleGoogle CloudAlex OkosiRebecca MianoRead	6506
 Oracle’s EU Sovereign Cloud	6477
 Oragon	17260
 Oral Kinyarwanda Skills	12445
-Oral Polio Vaccine	16971,1656
+Oral Polio Vaccine	16971,1656,657
 Oral Presentation Evaluation Criteria	11252
 Oral Presentation Evaluation Criteria WEIGHT CRITERIA	11252
 Oral Rehydration Therapy	15247
@@ -308,7 +308,7 @@ Oran-Est	15863
 Oran-Valence	16064
 Orana. L’ambition	5506
 Oranefo	9129
-Orange	173,338,2,199,220,1,4,204,2,500,85,1,89,131,42,287,12,105,53,6,7,118,29,11,9,49,18,35,144,49,15,30,183,389,128,191,17,99,55,25,66,19,10,18,14,7,6,12,26,17,209,87,3,101,26,31,14,67,27,81,35,43,31,17,11,36,140,43,315,23,24,61,481,29,56,67,22,15,126,32,53,37,36,85,41,18,78,43,294,26,203,217,143,30,35,51,106,64,60,1,1,6,299,398,208,85,502,48,52,33,67,45,52,13,66,168,111,33,46,21,69,213,159,42,104,109,458,14,28,68,9,267,42,34,375,232,1586,18,3,42,141,158,89,691,2,2,5,133,3,6,62,322,304,44,276,4,53,81,1,14,100,68,63,4,58,8,30,71,56,58,56,162,92,400,3,162,311,44,57,41,19,9,9,49,183,133
+Orange	173,338,2,199,220,1,4,204,2,500,85,1,89,131,42,287,12,105,53,6,7,118,29,11,9,49,18,35,144,49,15,30,183,389,128,191,17,99,55,25,66,19,10,18,14,7,6,12,26,17,209,87,3,101,26,31,14,67,27,81,35,43,31,17,11,36,140,43,315,23,24,61,481,29,56,67,22,15,126,32,53,37,36,85,41,18,78,43,294,26,203,217,143,30,35,51,106,64,60,1,1,6,299,398,208,85,502,48,52,33,67,45,52,13,66,168,111,33,46,21,69,213,159,42,104,109,458,14,28,68,9,267,42,34,375,232,1586,18,3,42,141,158,89,691,2,2,5,133,3,6,62,322,304,44,276,4,53,81,1,14,100,68,63,4,58,8,30,71,56,58,56,162,92,400,3,162,311,44,57,41,19,9,9,49,183,133,334,12
 Orange Africa and Middle East and Eutelsat	4721
 Orange Afrique	7417
 Orange Alert	17157
@@ -330,6 +330,7 @@ Orange Brand Services Limited	8125
 Orange Burkina	2969,7024,5727,144
 Orange Burkina Faso	932,51,1539,461,682,214,303,889,1697,256,9531,29
 Orange Burkina Faso and ONATEL	4182
+Orange Burkina Faso. Côte	19233
 Orange Business	7214,909,2
 Orange Business Communications Ltd	3862
 Orange Business Communications Services Nigeria Ltd	3862
@@ -337,7 +338,7 @@ Orange Business Ghana Last Operational	3386
 Orange Business Live	5163,2051
 Orange Business Services and Expresso	5033
 Orange CFA332.91bn	5005
-Orange CI	2342,1034
+Orange CI	2342,1034,15857
 Orange CI MTN CI	419
 Orange Cameroon	3257,950,1924,9349
 Orange Cameroon Chief Executive Officer Patrick	6131
@@ -365,7 +366,7 @@ Orange Corners Sudan Demo Day	15048
 Orange Corners URL	18064
 Orange Cote	1543,13928
 Orange Cyber Defense	6985
-Orange Côte	2522,816,188,841,182,78,64,16,14,442,398,375,81,152,31,103,26,7,9,158,201,6,799,4252,5965
+Orange Côte	2522,816,188,841,182,78,64,16,14,442,398,375,81,152,31,103,26,7,9,158,201,6,799,4252,5965,1600
 Orange DRC	88,6676
 Orange Data Center	16975
 Orange Data Centre	18527
@@ -543,6 +544,7 @@ Orange Startup Center and Orange Digital Center	2600
 Orange Street	3386
 Orange Summer Challenge	9846
 Orange Sustainable Capital	10201
+Orange Sénégal	19233
 Orange Tech	4066
 Orange Telecom Project	1543
 Orange Tunisia	1213,1192,2245,2223
@@ -600,6 +602,7 @@ Orange. Bien	15474
 Orange. Cette	18343
 Orange. Elle	4695
 Orange. Figure	18485
+Orange. Mali	19233
 Orange. Nobody	7777
 Orange. Orange	14205
 Orange... Share Print	18522

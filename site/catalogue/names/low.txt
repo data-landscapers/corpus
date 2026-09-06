@@ -133,7 +133,7 @@ LEO Low Earth Orbit M&E Monitoring	3604
 LLDCs Arab States Lower-middle-income Asia-Pacific SIDS	17743
 LMIC Lower-middle-income	10714
 LMP Labor Management Procedure LV Low	15515
-LMP Labor Management Procedures LV Low	11549,4110
+LMP Labor Management Procedures LV Low	11549,4110,3580
 LOW BIRTH WEIGHT PREVALENCE AMONG INSTITUTIONAL	16892
 LOW CODES TARIFF PER TRANSACTION PRICING	16844
 LOW COVERED TRADED	7763
@@ -201,6 +201,7 @@ Low Halogen Power Supply Kit	12681
 Low High	10775,1435
 Low High Low High Low High	12948
 Low HighModerate	418
+Low Human Development	19284
 Low ICT	15845,1039
 Low ICT Enrolment	14729
 Low ID	18702
@@ -331,6 +332,7 @@ Low-resource	7790
 Low-risk	14291,274,2549,756
 Low-risk AI	7548,7017
 Low-skilled	11905,6199
+Low-tech	19237
 Low-technology	11149
 Low-trust	11156
 Low-value	6938,598

@@ -16,7 +16,9 @@ AGREEMENT	1914,11271,3751,487,1481
 AGREEMENT AND PLAN OF MERGER	7198
 AGREEMENT BETWEEN THE GOVERNMENT	18914
 AGREEMENT BETWEEN THE UNITED KINGDOM	15506
+AGREEMENT BETWEEN THE UNITED STATES	19214
 AGREEMENT FOR THE TRANSFER OF ANONYMIZED	16189
+AGREEMENT URL	19214
 AGREEMENT WITH TAIWAN The Hon. Minister	13132
 AGREEMENTS	14600
 AGREGADO	4209
@@ -46,6 +48,7 @@ Access Service Negotiations Agreements for Access Services	15081
 Action Effectiveness The Subsidiary Agreement	15138
 Actions Agreed	13392
 Addis Ababa Agreement	3583
+Additional Financing Agreement	19284
 Administration Agreement	17849
 Administrative Master Agreement	17962
 Administrativo A2 Agregado Comercial A1 Cónsul	4209
@@ -80,7 +83,7 @@ Agreed Actions Complete	2989
 Agreed Principles	14787
 Agreed Q1	11857
 Agreeing	5148,2039,10912
-Agreement	905,22,34,119,163,21,20,442,188,74,129,357,203,271,308,272,55,351,38,77,105,93,55,47,321,23,1841,5,125,170,205,103,310,393,117,1293,182,1039,79,158,55,61,207,117,1,31,13,46,41,132,133,10,18,327,50,10,11,10,40,207,382,25,122,272,1,45,15,75,15,3,117,5,10,6,6,44,255,125,182,57,1,117,25,271,21,17,99,84,44,79,25,15,52,28,37,2,15,8,41,9,71,24,46,12,60,142,59,12,46,15,34,12,35,105,3,36,46,83,34,10,31,243,45,30,37,19,56,53,76,143,240,40,53,13,39,23,8,4,45,59,114,126,74,17,95,463,362,75,10,156,72,25,171,17,10,43,27,1,82,125
+Agreement	905,22,34,119,163,21,20,442,188,74,129,357,203,271,308,272,55,351,38,77,105,93,55,47,321,23,1841,5,125,170,205,103,310,393,117,1293,182,1039,79,158,55,61,207,117,1,31,13,46,41,132,133,10,18,327,50,10,11,10,40,207,382,25,122,272,1,45,15,75,15,3,117,5,10,6,6,44,255,125,182,57,1,117,25,271,21,17,99,84,44,79,25,15,52,28,37,2,15,8,41,9,71,24,46,12,60,142,59,12,46,15,34,12,35,105,3,36,46,83,34,10,31,243,45,30,37,19,56,53,76,143,240,40,53,13,39,23,8,4,45,59,114,126,74,17,95,463,362,75,10,156,72,25,171,17,10,43,27,1,82,125,22,70,81
 Agreement ANVASAN Food and Nutrition Security Monitoring	17962
 Agreement Amending Article	19185
 Agreement Amending Articles	19185
@@ -133,7 +136,9 @@ Agreement. ARTICLE II	14430,2506
 Agreement. ARTICLE III	14430
 Agreement. ARTICLE IV	14430,2506
 Agreement. ARTICLE V	15697
+Agreement. Any	19214
 Agreement. Article	15901,942
+Agreement. Article IV	19284
 Agreement. Article Principles	18985
 Agreement. Attention	15901
 Agreement. Capacity-building	16843
@@ -141,9 +146,11 @@ Agreement. Collectively	12026
 Agreement. Consequently	18985
 Agreement. Contribution	18985
 Agreement. DONE AT Victoria	18914
+Agreement. Done	19214
 Agreement. Effectiveness Article V	15659
 Agreement. Figure	1243
 Agreement. Following	14630
+Agreement. GA Article IV	19284
 Agreement. HAS ADOPTED THIS DECISION	17019
 Agreement. IBRD	15659
 Agreement. If the Bank	16219
@@ -154,19 +161,21 @@ Agreement. Neither Party	16843
 Agreement. Once	14630
 Agreement. Page	1867
 Agreement. REPUBLIC OF CABO VERDE	16219
-Agreement. Section	16219
+Agreement. Section	16219,2995
 Agreement. Shapefile Geodatabase Paper Map Data	18904
-Agreement. Such	15901,942,2071
+Agreement. Such	15901,942,2071,300
 Agreement. TERMS OF USE OF ANONYMIZED	16189
 Agreement. The AfCFTA Secretariat	7039
 Agreement. The African Union	1264
 Agreement. The BeneÞciary	15901
 Agreement. The Bonower	15399
+Agreement. The Government	19214
 Agreement. The JIC	16843
 Agreement. The Loan	13185,1895
 Agreement. The World Bank Adaptive and Productive	15658
 Agreement. This Agreement	4154,9031
 Agreement. Type Financing	15621
+Agreement. Unless MCC	19214
 Agreement. Without	3583,11816
 Agreement.75	1243
 Agreement.Verification	16843
@@ -245,14 +254,16 @@ B3 Agregado Administrativo A1 Agregado Administrativo	4209
 BACKGROUND State’s Health Funding Agreements	5692
 BILLION CONCESSION AGREEMENT FOR CUSTOMS MODERNISATION	9255
 BTS Agree Financial Incentives	11857
-Bangui Agreement	11550,5422
+Bangui Agree- Measures	19365
+Bangui Agreement	11550,5422,2393
 Bangui Agreement. Disputes	11550
-Bank Agreement	7845,8374
+Bank Agreement	7845,8374,2995
+Bank Agreement. Section	19214
 Bank Loan and Guarantee Agreements	11863
 Bank. The Subsidiary Agreement	10768
 Benin Signs Landmark Agreements	3299
 Bi-lateral Power Purchase Agreements	12399
-Bilateral Agreement	4260,12736
+Bilateral Agreement	4260,12736,2218
 Bilateral Agreements The United Arab	11185
 Bilateral Agreements. Available	14819
 Bilateral Air Service Agreements	13123
@@ -504,7 +515,7 @@ Fiduciary Principles Agreement	13938
 Fiduciary and Principles Agreement	13938
 Financial Agreement	18754
 Financial and Administrative Framework Agreement	15901
-Financing Agreement	577,687,440,67,96,606,1,415,715,2935,2130,2099,61,10,1016,8,42,19,296,965,146,1,60,67,297,94,696,366,75,151,234,229,57,85,59,230,155,249,460,26,4,10,13,11,295,1104,129,173,83,143
+Financing Agreement	577,687,440,67,96,606,1,415,715,2935,2130,2099,61,10,1016,8,42,19,296,965,146,1,60,67,297,94,696,366,75,151,234,229,57,85,59,230,155,249,460,26,4,10,13,11,295,1104,129,173,83,143,358
 Financing Agreement Description Under Category	10964
 Financing Agreement Financing	10964
 Financing Agreement Grant Number E262-GM	1179
@@ -533,6 +544,7 @@ Fisheries Subsidies Agreement	13042
 Fishery Partnership Agreement	18813
 Florence Agreements	13624
 Force. The Loan Agreement	16219
+Force. This Agreement	19214
 Forces Agreement	3583
 Foreign Agreements and Revenue Authority Bill	15235
 Foreign Direct Investment Agreements	12512
@@ -577,11 +589,13 @@ Goods Agreement	13042
 Govemmenr Concessional Loan Agreement	15399
 Govemment Concessional Loan Agree	15399
 Govemment Concessional Loan Agreement	15399
+Governing Law. This Agreement	19214
 Government Concc3sional Loan Agreement	15399
 Government Concessional Loan Agreement	15399
 Government Concessional Loan Agreernent	15399
 Government Procurement Agreement	13985
 Government Support Agreement	14267,563,993
+Government. This Agreement	19214
 Grant Agreement	1284,583,607,10488,369,1,1214,342,870,143,1021,927
 Grant Agreement EU European Union GET.invest	12962
 Grant Agreement No	14546
@@ -705,10 +719,11 @@ Law Enforcement and Shiprider Agreement Between the UNITED	18913,1
 Law Enforcement and Shiprider Agreement Between the United	18913
 Lease Agreement	14778
 Lease Agreement. F.6 Corrupt	14778
-Legal Agreement	1778,9747,1660,2187,146,141,2303,925
+Legal Agreement	1778,9747,1660,2187,146,141,2303,925,358
 Legal Agreement. All	15372
+Legal Agreement. ESCP	19239
 Legal Agreement. Project	6539
-Legal Agreements	11855,3746
+Legal Agreements	11855,3746,3644
 Legal Covenants Sections and Description Financing Agreement	10964
 Lending Agreement	15399
 Lending Agreement. Any	15399
@@ -755,6 +770,7 @@ MINISTERE DES HYDROCARBURES AGREMENT Arrêté	16456
 MODEL SPECIMEN SHARING AGREEMENT BETWEEN	4049
 MOROCCO Amending and Extending the Agreement	1234
 MULTILATERAL AND REGIONAL TRADE AGREEMENTS	1243
+Madrid Agree	19365
 Madrid Agreement	11550,611
 Maintenance Agreement	14746
 Maintenance and Management PPA Power Purchase Agreement	18537
@@ -771,6 +787,7 @@ Master Service Agreements	11742
 Master Services Agreement	16924
 Master Services Agreements	16924
 Master Sponsored Research Agreements	4126
+Material Agreement	19214
 Mauritania Financing Agreement	16936
 Mauritius Revenue Authority. Double Taxation Agreements	14819
 Mauritius Trade Easy. Trade Agreements. Available	14819
@@ -852,12 +869,13 @@ PPP Agreement. All	18887
 PPP Agreement. CAB APL1B Project	18887
 PPP Agreement. The PPP Agreement	18887
 PPP Agreements	18887
+PROGRAM GRANT AGREEMENT BETWEEN THE UNITED	19214
 PROTOCOL TO THE AGREEMENT ESTABLISHING	15641
 PSMA Port State Measures Agreement QPR	17105
 Pandemic Agreement	4049,1501
 Pandemic Preparedness Agreement	6534
 Parent Support Agreement	7198
-Paris Agreement	789,181,294,20,534,49,1022,541,1,173,1643,1292,917,1105,832,31,889,405,50,415,27,207,446,42,60,291,143,712,184,329,512,492,369,141,415,51,54,1,2,322,722,217,53,79,86,117,61,880,260,120,231,42,96
+Paris Agreement	789,181,294,20,534,49,1022,541,1,173,1643,1292,917,1105,832,31,889,405,50,415,27,207,446,42,60,291,143,712,184,329,512,492,369,141,415,51,54,1,2,322,722,217,53,79,86,117,61,880,260,120,231,42,96,298,39
 Paris Agreement Implementation Platform	13057
 Paris Agreement for Greenhouse Gas Inventories of CRT	17140
 Paris Agreement's Enhanced Transparency Framework	3431
@@ -895,6 +913,8 @@ Preferential Trade Agreements. Retrieved	1243
 Pretoria Cessation of Hostilities Agreement	13992
 Principal Agreement	11956
 Privileges and Immunities of INTERPOL. The Agreement	17023
+Procurement Agent Agreement	19214
+Procurement Agreement	19365
 Procurement Procedures for Framework Agreements	12389
 Procurement. The Loan Agreement	15663
 Productive Grant Agreement	16384
@@ -911,6 +931,7 @@ Provincia Agregado Militar A1 Agregado Militar	4209
 Public Service Commission PA’s Performance Agreements	11224
 Publication of Interconnection Agreements	16835
 Purchase Agreement PP-A Project Preparation Advance	11549
+Purchase Agreement PPSD Project Procurement Strategy	19239
 Purchase Agreement PV Photovoltaic RE Renewable	12233
 Purchase Agreements PPP Public Private Partnership	12399
 Qatar Agree	14668
@@ -1043,7 +1064,7 @@ Sub-Saharan Africa This Agreement	14630
 Subcontracting Agreement	11209
 Submission of Interconnection Agreements and Tariffs	1750
 Subscription Agreement	14546
-Subsidiary Agreement	15659,485
+Subsidiary Agreement	15659,485,3140
 Subsidiary Loan Agreement	14546
 Sudan Agreement Supports	14890
 Sudatel Group Sign Tripartite Agreement	13915
@@ -1057,6 +1078,7 @@ Sustainable Investment Facilitation Agreement Today	16521
 Sustainable Investment Facilitation Agreement URL	16521
 TBT Agreement	14736
 TFA Trade Facilitation Agreement TIR-EPD International	13042
+THRESHOLD PROGRAM GRANT AGREEMENT	19214
 TRADE AGREEMENTS	13403
 TRIPS Agreement	11550
 TRIPS Agreement and Public Health	6534
@@ -1064,6 +1086,7 @@ TRIPS Agreement and Public Health Proportion	15725
 Table of Agreed Actions	12195
 Tax Information Exchange Agreement	18957
 Tax Information Exchange Agreements	11976
+Tax Schedule THRESHOLD PROGRAM GRANT AGREEMENT	19214
 Technical Assistance Agreement	15574
 Technical and Related Assistance Agreement	4217
 Technology Agency SLA Service Level Agreement	5533
@@ -1140,13 +1163,14 @@ WTO Customs Valuation Agreement. Accordingly	11036
 WTO E-Commerce Agreement	5878
 WTO Electronic Commerce Agreement. The Agreement	14267
 WTO General Agreement	1243,15768
+WTO Information Technology Agree	19365
 WTO Investment Facilitation for Development Agreement	14008
 WTO TBT Agreement	13320
 WTO Trade Facilitation Agreement	9343,1693,681,1325,9,817,3499
 WTO Trade Facilitation Agreement. As UNCTAD16	13042
 WTO Valuation Agreement	11036
 WTO-TBT and SPS Agreement	13320
-WTO’s Information Technology Agreement	13357
+WTO’s Information Technology Agreement	13357,6008
 Wendel Support Agreement	7198
 West African Nations Sign Roaming Agreement	2362
 Wheeling Agreement Between Kenya Electricity	12256

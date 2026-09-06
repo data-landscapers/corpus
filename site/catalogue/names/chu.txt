@@ -37,7 +37,7 @@ CHRIST EVANGELISTIC CHURCH Data Controller INST-9136853A23F	7167
 CHU Analakininina	14622
 CHU Angre	15711
 CHU Bocar Sidy Sall de Kati	17882
-CHU Centre	15724
+CHU Centre	15724,3626
 CHU Gabriel TOURE LE PRESIDENT	17841
 CHU Gabriel Touré	17845
 CHU Joseph Raseta Befelatanana	14622
@@ -46,6 +46,7 @@ CHU MUSTAPHA ISO	16103
 CHU Nouveau	16103
 CHU Odontostomatologie	17841
 CHU Renaissance	6016
+CHU Sylvanus Olympio	19265
 CHU de Bobo-Dioulasso	3396
 CHU de Bogodogo	11123
 CHU de Braz-	15423
@@ -89,6 +90,7 @@ Catholic Church	12201,210,3320,1227
 Catholic Church Hall Duinesig Combined School	13046
 Cell Executive Secretary CHUB	12338
 Centre Hospitalier Départemental CHU-MEL	15475
+Centre Hospitalier Régional CHU	19226
 Centre Hospitalier Universitaire Départemental CHUZ	15475
 Centre Hospitalier Universitaire de Butare CHUK	12338
 Centre Hospitalier de Reference Regionales CHU	14442

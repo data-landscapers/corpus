@@ -297,7 +297,7 @@ GOUVERNANCE ET SUPERVISION DE LA MISSION	12043
 General Directorate for Banking Supervision	9774
 Geo-Enabled Monitoring and Supervision	10829
 Geo-Enabled Monitoring and Supervision GFF Global Financing	10829
-Geo-Enabling Initiative for Monitoring and Supervision	3604,11949,105,1680,568,56
+Geo-Enabling Initiative for Monitoring and Supervision	3604,11949,105,1680,568,56,1283
 Geo-Enabling for Monitoring and Supervision	16436
 Global Network of AI Supervisory Authorities	6997
 Government Schools Supervisor	12726
@@ -490,6 +490,7 @@ Oficiais Superiores	17278
 Open Source PARAM Supercomputing Cluster	9475
 Operational Super Tech	3386
 Orders Put Super One Industries	14969
+Organe de Supervision	19241
 Organization and Supervision of Stock Market Operations	6938
 Ousmane KONE MINISTERE DE L’ENSEIGNEMENT SUPERIEUR	17829
 Outcome-Based Supervisory Frameworks Financial	11138
@@ -650,7 +651,7 @@ Stores and Superintendent Buildings	13361
 Stores and Utilities Super-intendant	14736
 SupTech Enhance Supervisor Capacity	1478
 Supemacy	11976
-Super	34,2308,4643,4146,3,262,598,262,11,3090,185,171,1187,1417
+Super	34,2308,4643,4146,3,262,598,262,11,3090,185,171,1187,1417,1044
 Super Agent	1290
 Super Agentes M-Pesa	17602
 Super Agents	6276,422,237,3904,47,1342,750
@@ -680,6 +681,7 @@ Super-Linter	11922
 Super-agent	14886
 Super-agents	12978
 Super-intelligent AI	14772
+Super-intégrateur Intégrateurs Plus	19361
 Super. So	6985
 Super. Thank	6985
 SuperApp	12202,1949,605,6,2961
@@ -777,9 +779,9 @@ Supervisao	15445
 Supervisar	16965
 Supervise	11131,3,1034,191,1826,352,2577,43,1279
 Supervise le Secrétariat	14537
-Supervised	7790,3475,1740,4432
+Supervised	7790,3475,1740,4432,1800
 Supervised Experiences	8050
-Superviser	7977,5324,113,1123,1311,798,1190,9,1,259
+Superviser	7977,5324,113,1123,1311,798,1190,9,1,259,1116,5
 Superviser INSP Etat	17845
 Supervises	12286
 Superviseur	14429,1029,174,80
@@ -791,7 +793,7 @@ Supervising Minister of Cooperative Affairs	9876
 Supervising Officer	14742,3,90
 Supervising Officers	14742
 Supervising and Resident Engineers	17099
-Supervision	7,1212,874,1536,86,17,59,3036,111,340,452,292,354,673,80,108,1000,531,44,128,35,159,335,127,267,61,20,50,49,203,7,105,55,122,140,330,285,242,286,662,142,122,136,492,39,13,87,31,53,6,38,24,41,526,206,211,467,66,77,295,85,2,203,4,24,32,60,21,93,215,7,3,73,158,222,133,29,26
+Supervision	7,1212,874,1536,86,17,59,3036,111,340,452,292,354,673,80,108,1000,531,44,128,35,159,335,127,267,61,20,50,49,203,7,105,55,122,140,330,285,242,286,662,142,122,136,492,39,13,87,31,53,6,38,24,41,526,206,211,467,66,77,295,85,2,203,4,24,32,60,21,93,215,7,3,73,158,222,133,29,26,279,133
 Supervision Area	6938
 Supervision Consultancy Services and Project Audit	15011
 Supervision Consultants	1778
@@ -844,7 +846,7 @@ Supervisores	11421,25,131
 Supervisores de Equipa	10777
 Supervisors	1155,4070,1713,1439,2391,828,657,2508,37,776,950,575
 Supervisors and Enumerators	18464
-Supervisory	25,7314,3799,1159,740,24,471,34,363,1094,488,208,1349,31,39,1713,134
+Supervisory	25,7314,3799,1159,740,24,471,34,363,1094,488,208,1349,31,39,1713,134,299
 Supervisory Activities	17235
 Supervisory Area Maps	16921
 Supervisory Area Maps and District Boundary Maps	16921

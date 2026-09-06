@@ -127,7 +127,7 @@ Appearances	8095
 Appearing	6009,151,66,307,249,218,2334,2976,2285,70,2448
 Appears	1301,1
 Appeel	11517
-Appel	998,1977,421,453,493,828,200,383,230,976,2606,146,1165,99,622,1696,60,7,82,25,57,39,4,63,5,17,99,20,717,1,1,59,15,797,68,113,41,1,15,104,205,15,13,70,119,88,32,107,43,42,97,11,36,34,2,49,775,30,21,52,302,15,33,20,58,31,4,13,12,61,8,17,71,5,85,31,43,17,25,716
+Appel	998,1977,421,453,493,828,200,383,230,976,2606,146,1165,99,622,1696,60,7,82,25,57,39,4,63,5,17,99,20,717,1,1,59,15,797,68,113,41,1,15,104,205,15,13,70,119,88,32,107,43,42,97,11,36,34,2,49,775,30,21,52,302,15,33,20,58,31,4,13,12,61,8,17,71,5,85,31,43,17,25,716,107,3
 Appel Administrative	15703
 Appel CC	18111
 Appel D'offre	13771
@@ -155,7 +155,7 @@ Appellate Body	19067
 Appellate Division	14409
 Appellate Division. ARTICLE	14409
 Appelman	7966
-Appels	3396,2171,5141,267,4454,20,165,329,352,100,1492,5,11,286
+Appels	3396,2171,5141,267,4454,20,165,329,352,100,1492,5,11,286,1061
 Appels-d-offre	16395
 Appelé	1984,16119
 Appelé NEKKAL	6882,11524
@@ -317,7 +317,7 @@ Constitutional Appeal No	3307
 Contents Technical Appendix	14006
 Continuation of Appeals Tribunal	12549
 Control APPENDIX	1000
-Court of Appeal	11,2692,164,499,71,195,532,448,102,288,114,269,126,272,239,8,490,1,56,239,111,99,8,71,50,37,129,39,19,47,137,144,69,316,3,384,184,113,769,100,327,988,681,352,70,111,392,25,77,898,1176,190,2019,662,2,130,732,237,229
+Court of Appeal	11,2692,164,499,71,195,532,448,102,288,114,269,126,272,239,8,490,1,56,239,111,99,8,71,50,37,129,39,19,47,137,144,69,316,3,384,184,113,769,100,327,988,681,352,70,111,392,25,77,898,1176,190,2019,662,2,130,732,237,229,382
 Court of Appeal Performance	12668
 Court of Appeal for East Africa	14409
 Court of Appeal of Greater Equatoria	18631
@@ -348,6 +348,7 @@ Digitize Cairo Court of Appeal and Deploy AI	11641
 Disclaimer APPENDICES Appendix	5247
 Disclaimer Appendix	5247
 Districts APPENDIX Table	18464
+Documents APPEL	19253
 Documents Appel	16662
 E Appendix	18985
 East African Court of Appeal	13040
@@ -361,6 +362,7 @@ Establishment of Appeals Tribunal	12959
 Establishment of Independent Appeal Committee	15126
 Establishment of Independent Appeal Committee Article	15126
 FCC’s Enquiry and Appeals Desk	18448
+Femmes Hommes Total Pourcentage Appels	19250
 Flash Appeal	1228
 Following Urgent Presidential Appeal	5163
 Foncier AOR Appel	10876
@@ -531,6 +533,7 @@ Supreme Court of Appeal. GCG	9889
 Supreme Court of Appeal. Legal	10339
 Survey Appeals	18881
 System NRAB Namibia Refugee Appeal Board	12947
+Sélection Appel	19221
 TRANSPARENCY AND RIGHTS OF APPEAL	15149
 Tax Appeal Commission	7909,4591,1468
 Tax Appeal Office	12500

@@ -22,6 +22,7 @@ AI4D Multidisciplinary Labs	5227
 ALGERIE POSTE Révision Lab IMC PROJET	16103
 ALGOTECH LABS LIMITED Data Controller INST-91344183B95	7167
 ALIS and LabExpert	4217
+ANID and IPA for Data Lab	19242
 ANSARI MEDICAL CLINIC AND LABORATORY Data	7167
 APPOINTMENT OF LABOUR COURT JUDGES	13504
 AVERAGE AMOUNT PAY TO HIRED LABOR	17043
@@ -259,6 +260,7 @@ DYNO LABS LIMITED Data Controller INST-8271969472A	7167
 Dados de Investigação Laboratoriais	18768
 Data Analytics and Statistical Laboratory	11627
 Data Field Label	12360
+Data Lab	19242,4,12
 Data Labelers Association Data Controller INST-9143850AC00	7167
 Data Labelers Association Data Processor INST-9143850AC00	7167
 Data Landscapers Lab	6580
@@ -298,7 +300,9 @@ Digital Labour Skills and Digital	4359
 Digital Labour and Development	226
 Digital Skills Learning Labs	12723
 Digital Solutions Lab	10113
+Digital Young Entrepreneur Lab	19270
 Directeur Exécutif de Med.IA Lab. Ces	3724
+Directeur Général du Laboratoire National de Sécurité	19260
 Directeur du Laboratoire	10237
 Direction Nationale des Laboratoires	13617
 Director General of Laboratory and Diagnostic	18737
@@ -339,6 +343,7 @@ Electrical and Electronics Engineering Laboratory	14736
 Electronic Lab	10621
 Electronics Lab	18621
 Elevage Laboratoire du CHU du Point G	17841
+Embedded Lab	19242
 Embeddedness of Digital Labour	226
 Emergency Urban Labor Intensive Works Program	16614
 Emergency Urban Labor-Intensive Public Works Program	16614
@@ -359,6 +364,7 @@ Energy Label	14745
 Energy Living Lab	11006
 Eng. Laban Kiplagat	9609
 Engineering Laboratory	14736
+Entreprises Science Education Autres Laboratoires	19221
 Environmental Protection Agency and Ministry of Labour	16853
 Epidemiology and Laboratory and Training Program	4153
 Eradication of Child Labour	12597
@@ -370,6 +376,7 @@ Establishment of Digital Laboratories	16963
 Estadísticas Laborales	16898
 Estonian Society for Laboratory Medicine	11006
 Eswatini Health Laboratory Services	12976
+Etat L’AI Lab	19336
 Eugénio César Laborinho	11678
 European Review of Labour and Research	226
 Evaluation ILO International Labour Organization IMF	10759,78,1052,451
@@ -445,6 +452,7 @@ Functional Labs	12199
 Fursa Lab	11333
 Future Shift Labs Zuckerberg	10727
 G Lab	2405,3367
+GAAT’S DIGITAL YOUNG ENTREPRENEUR LAB WINS	19270
 GENDER AND REGION Region Household Labor	17043
 GHS Lab Commodities	4167
 GIS and Labour Department Objective	15845
@@ -530,6 +538,7 @@ III.2.11 SYSTÈMES DE GESTION LABORATOIRE Avec	13306
 ILO International Labour Organisation IMF International	15604
 ILO International Labour Organisation INT Instance	1818
 ILO International Labour Organization	11887,266,1,9,178
+ILO International Labour Organization IPF Investment	19239
 ILO’s Worst Forms of Child Labor Convention	16972
 IMPACT Lab Morocco INCO.org France Ingenious	15460
 INDICATORS AND COMPONENTS VALUES Labor	12389
@@ -569,6 +578,7 @@ Industrie INMV CAQCE Lab	16103
 Industrie INMV CAQCE Lab CNT ISO	16103
 Informal Labor	10763
 Information Disclosure Relevant Labor and Working Conditions	1284,9545,135,2367,1,2221,68,1301
+Information System LMP Labor Management Procedure	19284
 Information Technology LMP Labor Management Procedures	15138
 Information and Labour Market Intelligence	11791
 Initial The Ministry of Justice and Labour Relations	13037
@@ -607,7 +617,7 @@ International Telecommunication Union LMP Labor Management	15621
 Internet Protocol Multi-Protocol Label Switching	15621
 Interviews Labour	12253
 Introduction The Quarterly Labour Force Survey	11296
-IoT Lab	3604
+IoT Lab	3604,15641
 Ivoire Gov Tech Lab	8516
 Ivoire GovTech Lab	9291
 JSE-listed Blu Label Unlimited	11159
@@ -651,6 +661,7 @@ LAB Governance Innovation Research’. World Bank	11909
 LAB-FT	11944
 LABAAD XEER BOGGA SEDDEXAAD TALOOYIN	15152
 LABAKI	15780
+LABDIEDO Gountante ADJ	19251
 LABELLISATION DES STARTUPS	4567
 LABIFUL	10237
 LABO ITGC Les Moulins du Sahel MI	16103
@@ -706,7 +717,7 @@ LMIS Labor Market Information System	15059
 LMP Labor Management Plan PBA Performance-Based	1264
 LMP Labor Management Procedure LV Low	15515
 LMP Labor Management Procedure M&E Monitoring	15491
-LMP Labor Management Procedures LV Low	11549,4110
+LMP Labor Management Procedures LV Low	11549,4110,3580
 LMP Labor Management Procedures M&E Monitoring	13331,4962,8
 LNS Laboratoire National	17845
 La Politique Nationale des Laboratoires de Biologie Médicale	17845
@@ -744,6 +755,7 @@ Lab and Empower Rise Hub	15191
 Lab and HarHub	15239
 Lab and Smart Liberia	16876
 Lab's Digital Marketing	14999
+Lab. Pour	19336
 LabBook	16238,2059
 LabBook Connect	16238
 LabExpert	4217
@@ -789,13 +801,14 @@ Labone Limited	3386
 Labone Prestige Centre	11020
 Labont	3791
 Labonté R	3791
-Labor	1284,704,1616,7159,83,16,107,7,9,19,136,734,7,1,2,1,10,10,60,6,188,1,44,1,124,17,5,4,34,7,3,46,42,268,209,559,1374,100,88,433,35,48,659,124,449,93,9,37,24,4,11,32,56,149,4,1049,69,427,12,29
+Labor	1284,704,1616,7159,83,16,107,7,9,19,136,734,7,1,2,1,10,10,60,6,188,1,44,1,124,17,5,4,34,7,3,46,42,268,209,559,1374,100,88,433,35,48,659,124,449,93,9,37,24,4,11,32,56,149,4,1049,69,427,12,29,446
 Labor Act	16951
 Labor Cases	16949
 Labor Climate Change and Disaster Screening	11855
-Labor Code	10841,7529,427
+Labor Code	10841,7529,427,448
 Labor Contributing Practice Areas Education Fragile	11525
 Labor Delivery Systems Global Solutions Group	13395
+Labor Discussion Paper	19237
 Labor Discussion Paper No	17906
 Labor Discussion Paper No.1704	11133
 Labor Education Unemployment Attainment Over-crowding Assets	15244
@@ -814,10 +827,12 @@ Labor Intensive Public Works and Social Safety	18470
 Labor Intensive Small-Scale Public Infrastructure Works	15411
 Labor Law	3058,13154,2585
 Labor Law Launch	2989
+Labor Management Page	19284
 Labor Management Plan	1264,1625,9537,3232,1,2,1453
-Labor Management Procedure	3456,9876,3617
-Labor Management Procedures	761,1106,121,1616,7225,135,2147,220,1222,23,336,64,162,380,35,108,483,782,1448
+Labor Management Procedure	3456,9876,3617,2335
+Labor Management Procedures	761,1106,121,1616,7225,135,2147,220,1222,23,336,64,162,380,35,108,483,782,1448,871
 Labor Market	11271,1174,3699,1123
+Labor Market Conditions for Youth	19284
 Labor Market Exposure	11140
 Labor Market Impact Potential of LLMs	16266
 Labor Market Impacts of AI	7151
@@ -852,8 +867,9 @@ Labor and Productivity	17366,1159
 Labor and Social	13314
 Labor and Social Dialogue	7379
 Labor and Working Conditions	1264,9565,135,1001,1367,191,1030,23,334,608,1418,178
-Labor and Working Conditions Relevant ESS	1867,1737,2935,4229,649,143,345,3753,3,483,970,1084
+Labor and Working Conditions Relevant ESS	1867,1737,2935,4229,649,143,345,3753,3,483,970,1084,1041,6
 Labor and Working Conditions Relevant Key	18374
+Labor and Working Conditions Relevant Not Currently	19284
 Labor-Intensive Public Works	10964,21,4616,1359
 Labor-Intensive Public Works Program	10963,1
 Labor-Intensive Publics Works	15601
@@ -866,7 +882,7 @@ Laboral	10753,5734
 Laborantin	5022
 Laborat01y Management System I. The Government	4260
 Laborato	11180
-Laboratoire	3100,1302,3707,612,1516,1547,1516,1,1316,5,933,130,362,312,82,186,1218,382,745,215
+Laboratoire	3100,1302,3707,612,1516,1547,1516,1,1316,5,933,130,362,312,82,186,1218,382,745,215,39
 Laboratoire Agrifood	14617
 Laboratoire Central	15416
 Laboratoire Citoyennetés	10812
@@ -879,6 +895,7 @@ Laboratoire National de Génie Civil	15542
 Laboratoire National de Référence	13617
 Laboratoire National de Santé Publique	15423,262,39,451,452
 Laboratoire National de Santé Publique. Ce	16175
+Laboratoire National de Sécurité	19260
 Laboratoire National de Transfusion Sanguine MEG	15685
 Laboratoire National du Bâtiment	13442
 Laboratoire Pharmaceutique du Congo	15685
@@ -890,12 +907,13 @@ Laboratoire de Recherche Energétique du Ministère	15542
 Laboratoire de Recherches Statistiques	18124
 Laboratoire des Sciences	15789
 Laboratoire du Bâtiment	2342,13594
-Laboratoires	13749,873,3223,461
+Laboratoires	13749,873,3223,461,920,58
+Laboratoires DPS	19226
 Laboratoires DRG Diagnosis Related Groups DSNIS	13306
 Laboratoires Modernes	19039
 Laboratoires Par	14622
 Laboratoires Technologique Système	17845
-Laboratories	9718,3602,1416,2205
+Laboratories	9718,3602,1416,2205,2343
 Laboratoriji	10780
 Laboratorio	4209
 Laboratorio Agroalimentario	4209
@@ -1111,8 +1129,10 @@ Land Tenure Livestock Labor Use Women	17366
 Launch of LabBook	16238
 Laws of Mauritius Online Project Ministry of Labour	14830
 Le GT LAB	15911
+Le Lab	19336
 Le Lab of Banque de France	14744
 Le Laboratoire	17450
+Le Togo AI Lab	19336
 Legal and Policy Protections Governing Digital Labour	10143
 Leone SIRA LABS Burkina Faso Sote	15460
 Level Lab Category National Public	4153
@@ -1122,6 +1142,8 @@ Liberia Licensing Department LLL Liberian Labour	16843
 Liberian Labour Law	16843
 Liberian Labour Law Verifier	16843
 Libya The Libyan Innovation Digital Lab	17267
+Lieutenant-colonel LABANTE Nikabou	19251
+Lieutenant-colonel LABARBORE Mateyedou	19251
 Limited GTL Ghana Tech Lab IEAI	4126
 Livelihood and Labour Social Inclusion Community Health	17114
 Living Lab	14163
@@ -1133,6 +1155,7 @@ Local Workers and Laborers Employment	17099
 Local Workers and Laborers Request	17114
 Lower Middle-Income Countries LMP Labor Management	18777
 Luanda Medicine Quality Control Laboratory	2242,63
+L’ AI Lab	19336
 M Aweil Reference Lab	18737
 M&E Lower-Middle-Income Country Labor Management Procedures	10964
 M. Weiss-Morhel ONFIA LABYLA. Cabinet du Commissaire-Membre	16381
@@ -1159,6 +1182,7 @@ Maintenance of Digital Forensic Lab Tools Limited	6946
 Maker Spaces and Fab Labs	18487
 Makerere AI Health Lab	7836
 Makerere University AI Lab	17735
+Manager du Togo AI Lab	19336
 Managing the AI Audit Lab	16212
 Mapou Records Centre Ministry of Labour	14746
 Mapubi Labs	15800
@@ -1258,6 +1282,7 @@ Monsieur Mohamed Mahmoud BEN LABAT	8237
 Ms G Chaonamwene Technical Signatories of Laboratory	13068
 Muganga Innovation Lab	7955
 Multi-Protocol Label Switching	12769
+Multiprotocol Label Switching	19232
 Multiprotocol Label Switching Virtual Private Network	5883
 Médias MPLS Multi Procol Label Switching	13341
 NA23583 EHC CETIC Laboratoire	16103
@@ -1312,10 +1337,12 @@ National Soil Labs Visualization	17157
 Nidaamka Diiwaangelinta Ganacsiga Soomaaliya. Labada	9583
 Niklaus Daniel Labhardt Corresponding	12712
 Niklaus Daniel Labhardt. Affiliation	12712
+Nokia Bell Labs	19282
 Non-Destructive Testing Laboratory	14736
 Nouveau Thème CACQE Lab	16103
 Nouveau Thème WanyLab CACQE LABO ITGC	16103
 Number of Labels	1988
+Nunya Lab21 and Djanta	19245
 Nurses and Lab Technicians	14476
 O Código Laboral	15694
 OBLIGATIONS DU BENEFICIAIRE DU LABEL	15588
@@ -1383,6 +1410,7 @@ Population and Housing Census QLFS Quarterly Labour	18951
 Port Labor Supply	13931
 Portfolio Approach of Accelerator Lab Guinea Bissau	11541
 Potential Labour Force	11296,3519
+Pour le AI Lab	19336
 Poverty Intelligence Lab	18215
 President of Medtronic LABS	12438
 President of Sierra Leone. The LAB	18477
@@ -1464,6 +1492,7 @@ Second Labone Link	3386
 Senegalese Labor Code	18370
 Senior Labour Economist	13938
 Senior Labour Officer	12972,308
+Sep-2024 Data Lab	19242
 Servitude and Forced Labour	18597
 Serviço de Laboratório	18768
 Sharciga Hay’adaha Amaanka Labada	14859
@@ -1554,9 +1583,12 @@ Themba Laboratory for Accelerator Based Sciences MRC	5246
 Through RISE Lab	15245
 Through the Accelerator Lab	12732
 Title Type Date Label	18581
-Togo AI Lab	7282
+Togo AI Lab	7282,12054,10,3
 Togo AI Lab. Selon	7282
+Togo Data Lab	19272,30,34,27
+Togo Data Lab Director Togbé Agbagla	19302
 Togo Data Lab. Kafui Ekouhoho	8275
+Togo Expands Data Lab	19272
 Togo. Gender Innovation Lab Policy Brief	10963
 Torque Laboratory	14736
 Trade and Labour Matters	13387

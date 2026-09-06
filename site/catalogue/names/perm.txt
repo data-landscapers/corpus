@@ -71,7 +71,7 @@ CESSION DE PERMIS L’intéressé	15395
 CHINYAMA and Permanent Secretaries	13384
 CITES ASYCUDA Electronic Permit System for CITES	13042
 CN-TIPPEE Secretary Permanent	15411
-CONSTRUCTION PERMIT	17613,2
+CONSTRUCTION PERMIT	17613,2,1710
 CONSTRUCTION PERMITS	12389
 CRITERIA FOR OCCUPATION PERMIT	7845
 Cairo and Permanent Representative	11738
@@ -90,7 +90,8 @@ Comisión Permanente de Política Social	16918
 Comissão Permanente	11443,7308
 Comissão Permanente Título V Governo Artigo	18751
 Comissões Técnicas de Normalização Permanente	11381
-Comité Permanent	13442
+Comité Permanent	13442,5767
+Comité Permanent des Agréments	19209
 Commencer Permis	19201
 Commercial Building and Land Use Permits	14794
 Commission Permanente Indépendante des Droits	3045,12712
@@ -113,6 +114,7 @@ Coordination Mechanisms for Excavation Permits	12389
 Copperbelt Permanent Secretary Lawrence Mwanza	5984
 Crude Accreditation Permit	3583
 DE L’EXAMEN DU PERMIS DE CONDUIRE	15901
+DE PERMANENCE DANS LA FOURNITURE DES	19218
 DEEG Permanent	18286
 DEMANDE DE PERMIS DE CONSTRUIRE	14488,1,1
 DEMANDE DE PERMIS DE CONSTRUIRE ANNEXE-9	14488,1,1
@@ -295,6 +297,7 @@ Nuts Fruits Vegetables Permanent Cash	17043
 OBJET DE LA PROCEDURE Permettre	10876
 OBSERVATIONS Permet	14425
 OHADA. Le Secrétaire Permanent	18905
+Objectifs Permettre	19221
 Objet Permettre	14537
 Obtain Building and Occupancy Permits	12389
 Obtain Construction Related Permits	12389
@@ -315,10 +318,12 @@ Organigram Senior Chief Executive Permanent Secretary	14835
 Organisation. Le Secrétaire Permanent	18905
 PARTIAL ELECTION IS PERMITTED	4896
 PERMALL Vinayagan Employment Counselling Officer	14770
+PERMANENCE DANS LA FOURNITURE DES SERVICES	19218
 PERMANENT	13300
 PERMANENT HOME	9696
 PERMANENTS SAISONNIERS	18032
 PERMANET	13300
+PERMIS DE CONSTRUIRE	19288,43,13
 PERMIS DE DEMOLIR	16047
 PERMIS POUR LA CONSTRUCTION DES MARCHÉS	2342
 PERMISSION	13300
@@ -355,6 +360,7 @@ Permanent Dialogue Groups	11900
 Permanent Direct Support	12229
 Permanent Eligibility Committee	16694
 Permanent Establishment	17258
+Permanent Field Presence	19214
 Permanent Garantir	14537
 Permanent Input Hypothesis	15743
 Permanent Inter-State Committee for Drought Control	18309
@@ -451,11 +457,11 @@ Permanently	1828,13301,1985
 Permanently Host ARSO Headquarters	14273
 Permanents	1231
 Permanência	11365,60,55,40
-Permet	14425,1511,2268
+Permet	14425,1511,2268,1017,11,130
 Permettant	14479
 Permette	1187
 Permettez-moi	2695,661,4265,7220,2633,1513
-Permettre	643,362,9871,1068,1346,429,706,1103,14,41,87,15,251,705,5,802,388,46,16,85,314,9,682,18
+Permettre	643,362,9871,1068,1346,429,706,1103,14,41,87,15,251,705,5,802,388,46,16,85,314,9,682,18,354
 PermeƩant	17866
 PermiS	15999
 Permilagem	18757
@@ -512,9 +518,12 @@ Permits and Registration Certificates	12062,6124,31
 Permits for Processing of Personal Data	15484
 Permits for Suppliers and Installers	13951
 Permitted	4302,594,7493,2046,2507,1614
+Permitted Account	19214
+Permitted Accounts	19214
 Permitted Restrictions	13951
 Permitted Use	3972,182,14750
 Permitting	3502,359,11018
+Permutation	19251
 Petroleum Accreditation Permit	3583
 Policy. Permanent Secretary MINISTRY OF COMMUNITY	13389
 Private Use Permit	16848,5
@@ -554,7 +563,7 @@ Resident Permit Application	16949
 Resident Permit and Visa	14721
 Residents Permit Fees Posted	12164
 Rights and Permission	10714,51,10,1553
-Rights and Permissions	4214,6571,27,29,135,1,159,13,122,274,27,302,5,2,465,188,778,2,703,880,550,33,1516,874,36,1025
+Rights and Permissions	4214,6571,27,29,135,1,159,13,122,274,27,302,5,2,465,188,778,2,703,880,550,33,1516,874,36,1025,306
 Rights and Permissions Rapid	16876
 RoW Permit	11857
 Road Transport Permit and Road Worthiness	5645
@@ -649,6 +658,7 @@ Temporary Structure Renewal Permits	16276
 Temporary and Permanent	11218
 Tourism Permanent Secretary Evans Muhanga	7130
 Trade and Industry Permanent Secretary	13432
+Télédiagnostics Permet	19221
 U.S. Permanent Representative	14890
 UCC and Uganda's Permanent Representative	6198
 UESP Secrétaires Permanents	13433

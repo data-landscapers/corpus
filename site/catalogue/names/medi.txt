@@ -411,6 +411,7 @@ Central Medical Stores. The Ministry	12976
 Central Medicine Store	16971
 Central Medicines and Medical Supplies Agency	4260
 Central Mediterranean Route	16874
+Central Purchasing Agency for Medicines	19284
 Central de Medicamentos	4260,8540,63
 Centre Deepens Skills Through Digital Medical	18555
 Centre Medium Term	1161
@@ -574,6 +575,7 @@ DOWN HEAL MEDICAL CENTRE Data Controller	7167
 DOWN TOWN MEDICAL CLINIC Data Processor	7167
 DROIT MEDIAS FINANCE	10996,5367
 DStv Subscriptions and Generator Chinese Medical Team	18555
+DU CONTRÔLE MEDICAL	19225
 DU MEDIATEUR DE LA REPUBLIQUE	15405
 DUMORA MEDICAL CLINIC Data Controller INST-161563051F8	7167
 DUPOINT MEDICAL CENTER LIMITED Data Controller	7167
@@ -763,6 +765,7 @@ Expenditure Framework MTSF Medium Term Strategic	11224
 Exploitation Forestiere Centrafricaine SMEs Small and Medium	10841
 Extend Medium Voltage Backbones and System Strengthening	16966
 Eye Media Limited	7447,1631
+F CFA Medium	19232
 FEMALE SOCIAL MEDIA USER IDENTITIES	12214
 FISCAL ADJUNTO DE MEDIO AMBIENTE	4209
 FISCAL TITULAR DE MEDIO AMBIENTE	4209
@@ -1186,6 +1189,7 @@ MTNDP Sierra Leone’s Medium-Term National Development	18475
 MTRR Medium	14929
 MTSAO MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK	11228
 MV Medium Voltage MW Megawatt NCB	15659
+MV Medium Voltage NDC Nationally Determined	19239
 MW of Medium Speed Diesel	12256
 MWK Medium	14674
 Maagwero Social Media Monitoring System	12241
@@ -1234,7 +1238,7 @@ MediPro	1261
 Media	34,192,1058,494,36,148,131,3,246,498,4,100,14,903,287,605,297,165,27,2,241,500,2,645,51,60,89,774,16,203,2,20,39,94,97,53,64,179,12,75,21,284,311,43,4,112,20,57,87,331,31,91,83,32,130,116,84,179,249,4,35,198,66,11,11,79,2,3,1,90,56,27,5,494,162,17,67,102,46,132,12,11,2,18,63,14,53,169,221,36,14,17,90,65,182,13,7,11,87,43,1,12,3,152,56,69,20,155,118,26,5,112,26,353,173,35,79,4,19,4,52,30,39,314,24,32,19,54,24,92,41,109,132,82,25,265,154,126,14,361,71,8,19,47,1,45,1,35,17,33,52,39,330,32,267,167,106,163,14,39,96,10,22,18,16,6,32,22,94,21,53,22,98,1,34,78,26
 Media Academy for Journalism and Communication	9313
 Media Access Control	4274,10590
-Media Access Control Parameters	3604
+Media Access Control Parameters	3604,15641
 Media Advisor and Official Spokesperson	16255
 Media Advisory	6305,10656
 Media Allow	17157
@@ -1255,6 +1259,7 @@ Media Contact Zacharie Roger MBARGA	18846
 Media Contacts	9852
 Media Contacts GSMA Press Office	14093
 Media Contacts Greg Sellars	14405
+Media Contacts MESPTN Kô Goma Strategic	19272
 Media Convergence	5715
 Media Convergency	6562,2520
 Media Council	7650,1311
@@ -1288,7 +1293,7 @@ Media Feature Europe’s New Rules	11006,1
 Media File Management	13042
 Media Foundation	8522
 Media Foundation For West Africa	17095
-Media Foundation for West Africa	5485,3597,578,300,1135
+Media Foundation for West Africa	5485,3597,578,300,1135,8148,5
 Media Foundation for West Africa and Co-Develop	4690,104,473,54,1993,594,680,1291,2158,13,7,2337
 Media Foundation for West Africa and Co-Develop Godfrey	11975
 Media Freedom	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,38,139,1,11,1,135
@@ -1476,7 +1481,7 @@ Mediator	16942,1351
 Mediação	10753,2,5732
 Medic	937,2448,9117,5050
 MedicMobile	18297
-Medical	21,397,318,273,252,2390,2014,549,2087,1483,287,743,320,124,11,367,661,31,10,41,4,30,248,298,17,1,63,13,332,1357,31,56,168,30,179,205,1141,340,8,26,80,108,1356,71,120
+Medical	21,397,318,273,252,2390,2014,549,2087,1483,287,743,320,124,11,367,661,31,10,41,4,30,248,298,17,1,63,13,332,1357,31,56,168,30,179,205,1141,340,8,26,80,108,1356,71,120,623
 Medical Aid	11218,80,1308
 Medical Aid Funds Act	12598
 Medical Aid Funds Bill	12598
@@ -1593,7 +1598,7 @@ Medical System MoH Ministry of Health	12379
 Medical Teacher	8603
 Medical Technologists	14829
 Medical Training	2775
-Medical Waste Management Plan	13938,1038
+Medical Waste Management Plan	13938,1038,4308
 Medical and Dental Council	18467
 Medical and Dental Council of Ghana	10523
 Medical and Emergency Assistance	14761
@@ -1622,7 +1627,7 @@ Medicina1	10780
 Medicinal	2775,14221,47
 Medicinal Plants	16466
 Medicinal Product Registration	18541
-Medicine	961,6828,817,1465,2194,1479,3,67,219,742,815,1847
+Medicine	961,6828,817,1465,2194,1479,3,67,219,742,815,1847,1800
 Medicine CT Document Metadata Subscription DICOM	1009
 Medicine Container Label	9855
 Medicine DMEO District Monitoring and Evaluation Officers	18478
@@ -1631,7 +1636,7 @@ Medicine Unlocked	8605
 Medicine and Clinical Sciences Medicin3e5a	1154
 Medicine and Health Science	12199
 Medicine1 Hirurgija2	10780
-Medicines	9429,426,3124,582,183,1503
+Medicines	9429,426,3124,582,183,1503,4037
 Medicines Availability	13474
 Medicines Procurement Unit	10829
 Medicines Regulation	12976
@@ -1752,6 +1757,7 @@ Medium Empowerment	17127
 Medium Enterprise	12977
 Medium Enterprise Development and Infrastructure	1988
 Medium Enterprise HFO HHI IK IPP	12256
+Medium Enterprise NDC Nationally Determined Contribution	19245
 Medium Enterprise Nigeria Health Sector Renewal	11468
 Medium Enterprise SMME Small Medium-Micro Enterprise	11250
 Medium Enterprise SRMI Sustainable Renewables Risk	11549
@@ -2135,6 +2141,7 @@ Ongwediva Medi Park Hospital	12947
 Online Media Publishing Guidelines	8917
 Online and Social Media Platforms	17099
 Open Data PRIVACY Social Media	9937
+Open Health Information Mediator	19284
 Open Medical Record System	8605
 OpenMRS Electronic Medical Records	18478
 Operationalize the Universal Medical Insurance Fund	1828
@@ -2329,6 +2336,7 @@ SMEs Small and Medium Enterprises SPMU Satellite	1867
 SMS Media Burundi	13301
 SMT Small and Medium Taxpayers Office TCC	14985
 SND Small and Medium Enterprises SORT Strategie	10964
+SNOMED CT Systematized Nomenclature of Medicine	19284
 SNOMED CT Systematized Nomenclature of Medicine Clinical	18478
 SOCIAL MEDIA	12214
 SOCIAL MEDIA AND DIGITAL RIGHTS	12201
@@ -2558,6 +2566,7 @@ System ECMWF European Centre for Medium-Range Weather	18578
 System EMR Electronic Medical Records FETP	12379
 System HSMTDP Health Sector Medium Term	15556
 System Solar Light System Small and Medium	11136
+Systematized Nomenclature of Medicine	19284
 Systematized Nomenclature of Medicine SPIVTEN	15720
 TARIFAS MEDIA GLOBAL PRATICADAS	11531
 TECHNOLOGY MEDIA FOR AFRICA	2284,13,4,72,21,3,65,10,86,28,4,19,190,10,16,25,134,79,190,7,70,41,46,34,30,76,30,47,9,16,38,19,16,322,19,14,524,10,7,509,12,171,64,5,22,3,94,10,19,294,222,54,54,23,41,281,60,26,6,125,80,6,91,102,189,9,1,69,2,1,107,3

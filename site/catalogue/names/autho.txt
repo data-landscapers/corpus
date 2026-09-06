@@ -181,7 +181,7 @@ Authentication and Authorization	5665,5056
 Authentication and Authorization Platform for Web	11872,3
 Autho	18452
 Authonty	11517
-Author	10,756,5,250,198,24,18,386,176,115,158,238,25,13,155,36,13,17,70,45,3,5,19,19,22,51,37,45,9,4,1,10,2,119,13,13,8,8,6,6,31,11,43,21,4,10,7,3,25,18,18,1,6,7,1,31,52,12,7,20,5,17,22,2,3,6,32,1,4,8,6,22,14,15,6,13,1,13,14,8,13,1,1,6,10,17,6,26,1,11,3,1,7,12,1,6,16,2,2,1,6,8,32,44,10,37,4,2,19,8,95,13,1,1,5,6,11,3,49,21,28,13,12,6,9,5,4,29,23,1,30,18,1,197,4,16,13,2,45,5,5,11,7,20,12,11,19,1,15,2,25,25,18,5,95,2,1,2,14,46,1,17,10,46,29,1,8,13,20,4,26,13,16,96,5,20,1,3,16,31,30,13,46,9,7,9,5,2,6,6,23,22,4,13,2,12,12,1,46,7,1,57,2,58,23,2,1,59,7,10,47,4,12,4,1,7,8,1,13,6,21,15,3,5,3,18,4,4,7,9,3,21,8,46,61,4,1,8,9,14,28,7,10,45,8,21,12,4,12,28,4,8,26,4,41,7,18,5,18,31,11,5,3,89,7,9,22,16,11,2,12,13,13,1,29,5,3,24,18,14,10,10,7,1,30,3,33,49,57,5,45,21,14,3,17,37,16,4,26,18,64,46,17,6,2,3,5,4,2,5,6,16,2,1,2,4,7,22,2,13,9,5,9,1,4,8,1,17,1,2,3,10,12,6,5,2,110,46,79,51,51,19,1,1,17,7,22,6,12,1,3,9,11,5,9,2,23,9,25,17,1,12,6,79,74,18,29,46,7,53,469,73,13,662,67,19,44,7,6,7,8,9,13,1,3,2,4,6,2,3,17,11,15,2,13,5,3,4,6,27,1,6,13,4,222,120,92,171,4,74,1,2,1,2,93,22,37,118,24,27,144,19,1,21,4,8,1,8,4,16,10,1,2,1,3,10,4,1,2,2,1,3,3,1,9,16,8,47,24,22,11,37,38,6,6,30,31,7,9,19,2,13,257,1,6,4,15,30,6,42,101,3,29,82,61,3,1,1,8,9,4,18,12,65,6,102,12,93,15,81,44,5,275,48,3,31,74,216,81,23,107,76,78,30,85,8,5,1,5,3,1,4,1,3,1,1,5,6,1,1,7,1,1,1,1,2,3,3,2,1,2,2,10,4,3,4,2,1,2,2,1,13,69,14,13,89,41,150,19,11,22,2,171,2,1,21,1,57,1,40,53,7,1,8,19,4,2,2,12,8,8,2,4,5,6,5,11,1,16,1,16,52,19,13,6,22,4,11,12,4,14,20,19,6,5,13,34,7,5,5,3,9,4,10,3,6,1,9,4,16,33,4,11,26,8,72,1,8,20,4,5,8,11,113,102,128,58,9,1,106,13,17,11,13,10,4,1,6,4,8,37,1,10,4,5,7,1,7,3,2,10,5,4,3,17,19,1,1,3,16,7,12,3,2,7,3,3,12,2,7,13,4,30,1,14,1,19,3,23,17,1,23,3,9,18,20,29,4,17,5,2,4,9,4,15,4,8,3,21,16,3,18,37,8,19,2,26,4,11,12,4,7,13,2,113,22,2,10,37,1,27,50,3,4,12,16,5,43,14,31,30,13,37,17,19,13,27,4,3,16,3,47,2,14,2,4,36,32,3,29,243,1,1,1,34,2,10,1,7,3,35,17,35,1,10,3,2,15,6,10,63,10,14,15,15,25,1,25,16,15,23,16,1,9,3,6,13,1,7,11,7,2,4,24,1,9,6,1,6,3,10,1,29,83,43,5,1,11,13,4,32,7,6,2,6,32,12,6,10,4,46,5,16,9,2,2,5,1,8,1,5,12,10,6,6,9,2,1,1,2,1,2,2,18,30,18,20,35,1,4,15,5,18,138,70,20,31,12
+Author	10,756,5,250,198,24,18,386,176,115,158,238,25,13,155,36,13,17,70,45,3,5,19,19,22,51,37,45,9,4,1,10,2,119,13,13,8,8,6,6,31,11,43,21,4,10,7,3,25,18,18,1,6,7,1,31,52,12,7,20,5,17,22,2,3,6,32,1,4,8,6,22,14,15,6,13,1,13,14,8,13,1,1,6,10,17,6,26,1,11,3,1,7,12,1,6,16,2,2,1,6,8,32,44,10,37,4,2,19,8,95,13,1,1,5,6,11,3,49,21,28,13,12,6,9,5,4,29,23,1,30,18,1,197,4,16,13,2,45,5,5,11,7,20,12,11,19,1,15,2,25,25,18,5,95,2,1,2,14,46,1,17,10,46,29,1,8,13,20,4,26,13,16,96,5,20,1,3,16,31,30,13,46,9,7,9,5,2,6,6,23,22,4,13,2,12,12,1,46,7,1,57,2,58,23,2,1,59,7,10,47,4,12,4,1,7,8,1,13,6,21,15,3,5,3,18,4,4,7,9,3,21,8,46,61,4,1,8,9,14,28,7,10,45,8,21,12,4,12,28,4,8,26,4,41,7,18,5,18,31,11,5,3,89,7,9,22,16,11,2,12,13,13,1,29,5,3,24,18,14,10,10,7,1,30,3,33,49,57,5,45,21,14,3,17,37,16,4,26,18,64,46,17,6,2,3,5,4,2,5,6,16,2,1,2,4,7,22,2,13,9,5,9,1,4,8,1,17,1,2,3,10,12,6,5,2,110,46,79,51,51,19,1,1,17,7,22,6,12,1,3,9,11,5,9,2,23,9,25,17,1,12,6,79,74,18,29,46,7,53,469,73,13,662,67,19,44,7,6,7,8,9,13,1,3,2,4,6,2,3,17,11,15,2,13,5,3,4,6,27,1,6,13,4,222,120,92,171,4,74,1,2,1,2,93,22,37,118,24,27,144,19,1,21,4,8,1,8,4,16,10,1,2,1,3,10,4,1,2,2,1,3,3,1,9,16,8,47,24,22,11,37,38,6,6,30,31,7,9,19,2,13,257,1,6,4,15,30,6,42,101,3,29,82,61,3,1,1,8,9,4,18,12,65,6,102,12,93,15,81,44,5,275,48,3,31,74,216,81,23,107,76,78,30,85,8,5,1,5,3,1,4,1,3,1,1,5,6,1,1,7,1,1,1,1,2,3,3,2,1,2,2,10,4,3,4,2,1,2,2,1,13,69,14,13,89,41,150,19,11,22,2,171,2,1,21,1,57,1,40,53,7,1,8,19,4,2,2,12,8,8,2,4,5,6,5,11,1,16,1,16,52,19,13,6,22,4,11,12,4,14,20,19,6,5,13,34,7,5,5,3,9,4,10,3,6,1,9,4,16,33,4,11,26,8,72,1,8,20,4,5,8,11,113,102,128,58,9,1,106,13,17,11,13,10,4,1,6,4,8,37,1,10,4,5,7,1,7,3,2,10,5,4,3,17,19,1,1,3,16,7,12,3,2,7,3,3,12,2,7,13,4,30,1,14,1,19,3,23,17,1,23,3,9,18,20,29,4,17,5,2,4,9,4,15,4,8,3,21,16,3,18,37,8,19,2,26,4,11,12,4,7,13,2,113,22,2,10,37,1,27,50,3,4,12,16,5,43,14,31,30,13,37,17,19,13,27,4,3,16,3,47,2,14,2,4,36,32,3,29,243,1,1,1,34,2,10,1,7,3,35,17,35,1,10,3,2,15,6,10,63,10,14,15,15,25,1,25,16,15,23,16,1,9,3,6,13,1,7,11,7,2,4,24,1,9,6,1,6,3,10,1,29,83,43,5,1,11,13,4,32,7,6,2,6,32,12,6,10,4,46,5,16,9,2,2,5,1,8,1,5,12,10,6,6,9,2,1,1,2,1,2,2,18,30,18,20,35,1,4,15,5,18,138,70,20,31,12,40,63,2,6,1,1,4,11,20,14,7,10
 Author Adebowale Jeremy Adetayo	9256
 Author All	18911
 Author Barhy	14941
@@ -562,7 +562,7 @@ Authorization for Simplified Declarations	15478
 Authorizations	718,6228,11498
 Authorizations for Liquefied Petroleum Gas	718
 Authorize	7538,6896
-Authorized	3861,5994,866,1464,152,196,110,255,416,892,204,17,7,142,190,633,1440,1605
+Authorized	3861,5994,866,1464,152,196,110,255,416,892,204,17,7,142,190,633,1440,1605,793
 Authorized ASSESSMENT OF LAND GOVERNANCE	15473
 Authorized Alerting Team	18688,15
 Authorized Allocations	16978
@@ -584,6 +584,7 @@ Authorized Officer	16833
 Authorized PROGRAM APPRAISAL DOCUMENT	11905
 Authorized PROJECT APPRAISAL DOCUMENT	3604
 Authorized PROJECT APPRAISAL DOCUMENT ON PROPOSED	16144
+Authorized PROJECT PAPER ON A PROPOSED	19284
 Authorized Public Disclosure Authorized Public Disclosure	11560,973,781,2159,1968,429,485
 Authorized Public Disclosure Authorized Regional Vice	4653
 Authorized Public Disclosure Authorized Report	16032
@@ -611,7 +612,7 @@ Authorizes the Environmental Protection Agency	17114
 Authorizing	15399
 Authorizing Person	15399
 Authorlty Application	11517
-Authors	427,339,3,2,190,269,19,12,567,1898,65,1649,260,723,456,272,62,673,68,989,185,1,92,11,5,379,271,831,47,10,81,84,45,325,372,110,120,6,85,4,26,145,4,11,34,15,93,4,40,168,34,30,3,53,40,130,372,149,37,379,73,59,768,95,127,1,226,23,17,57,443,470,2,131,100,536,118,483,1128,8,324,183
+Authors	427,339,3,2,190,269,19,12,567,1898,65,1649,260,723,456,272,62,673,68,989,185,1,92,11,5,379,271,831,47,10,81,84,45,325,372,110,120,6,85,4,26,145,4,11,34,15,93,4,40,168,34,30,3,53,40,130,372,149,37,379,73,59,768,95,127,1,226,23,17,57,443,470,2,131,100,536,118,483,1128,8,324,183,91
 Authors Alison Gillwald	5044
 Authors ArticleDraft Guidance Note	6998
 Authors ArticleID Like To Know	6632
@@ -1084,6 +1085,7 @@ DIGITAL CLEARANCE PROCESS Authors	1249
 DIRECTORS OF MALAWI REVENUE AUTHORITY	13053
 DJ-IGAD-536744-CS-INDV The Intergovernmental Authority	13925
 DONE BY THE LIBERIA TELECOMMUNICATIONS AUTHORITY	4610
+DONOR TRUST FUND Public Disclosure Authorized	19284
 DPA Data Protection Authority DPEC Directorate	4214
 DPC Authority	4126
 DPI Readiness and Intelligent Revenue Authorities	3735
@@ -1098,7 +1100,7 @@ Data Centre The Authority	6946
 Data Protection Act and Authority	18669
 Data Protection Authorities	961,1,2639,17,60,905,2056,155,5508,2132,2583,1886
 Data Protection Authorities. The African Union	5084
-Data Protection Authority	27,485,446,3,1,10,189,123,288,21,36,75,38,11,86,38,1195,532,74,183,311,356,55,225,2,553,62,123,14,619,285,326,159,1185,1009,842,181,242,371,4,27,96,609,389,50,183,54,202,117,442,82,3,56,121,103,12,45,5,1293,233,5,311,921,742,40,91,648,1004
+Data Protection Authority	27,485,446,3,1,10,189,123,288,21,36,75,38,11,86,38,1195,532,74,183,311,356,55,225,2,553,62,123,14,619,285,326,159,1185,1009,842,181,242,371,4,27,96,609,389,50,183,54,202,117,442,82,3,56,121,103,12,45,5,1293,233,5,311,921,742,40,91,648,1004,696
 Data Protection Authority Article	14907
 Data Protection Authority Department of Lands and Surveys	16926
 Data Protection Authority I-39	10785
@@ -1144,6 +1146,7 @@ Development Authority LCN Logical Channel Numbering	6946
 Development Authority P.O. Box	1638
 Development Authority Power Holding Company of Nigeria	11129
 Development Council National Civil Registration Authority	1161
+Development Programme VRA Volta River Authority	19239
 Development Technologies Authority	7548
 Development Technologies Authority Partners Council	7548
 Digital Authoritarianism	13313
@@ -1275,6 +1278,7 @@ Electricity Authority	15017
 Electricity Distribution and Supply Authority	1538,8642,8304,82
 Electricity Regulation Authority	15670
 Electricity Regulatory Authority	14877
+Electricity Sector Regulatory Authority	19239
 Electricity and Distribution Supply Authority	18537
 Electrification Authority	1988
 Electronic Certification Authority	11906
@@ -1810,6 +1814,7 @@ KRA Kenya Revenue Authority	12297
 Kadoma THE Procurement Regulatory Authority of Zimbabwe	12506
 Kaduna State Public Procurement Authority	11867
 Karai Children’s The Authority	6946
+Karippacheril Public Disclosure Authorized	19237
 Kenya Airports Authority	14546
 Kenya Airports Authority. Elle	7530
 Kenya Civil Aviation Authority	14546
@@ -2095,6 +2100,7 @@ Local Government Authority	11129,5723,35
 Local Government Education Authorities	11860
 Local Government Education Authority	11860
 Local Govt. Authorities Ward	16926
+Loi-2020-009 E-Id Togo.pdf Author	19217
 Lueth Author	18699
 Lusophone Network of Data Protection Authorities	3601
 M-60M Government Authority	7548
@@ -2203,6 +2209,7 @@ Mauritius Tourism Authority	14818,29
 Mauritius Tourism Promotion Authority	14847
 Maximum Authorized Revenue	10975
 May.pdf Author	14822
+Mechanism ARSE Electricity Sector Regulatory Authority	19239
 Media Authority	6281,1166
 Media Regulatory Authority The Ministry	2311
 Medicines Regulatory Authority ZICTA Zambia Information	34
@@ -2779,6 +2786,7 @@ Public Authority for Water Resources	17157
 Public Contracts Regulatory Authority	18825
 Public Disclosure Authorized	4047,6938,490,496,257,39,173,955,2617,67,65,850,85,879,4
 Public Disclosure Authorized A PROPOSED GRANT	11905
+Public Disclosure Authorized AND A PROPOSED	19284
 Public Disclosure Authorized AND AN ADDITIONAL	11924
 Public Disclosure Authorized Adaptive Safety Nets	10963
 Public Disclosure Authorized Benin Economic Governance	10870
@@ -2788,6 +2796,7 @@ Public Disclosure Authorized Digital Development Global	13331
 Public Disclosure Authorized FOR OFFICIAL USE	3604,7360,453,488
 Public Disclosure Authorized FROM THE SCALE-UP	3604
 Public Disclosure Authorized HIGHLIGHT Implementing CORE-MIS	13395
+Public Disclosure Authorized NOVISSI TOGO Harnessing	19237
 Public Disclosure Authorized Nigeria	11475
 Public Disclosure Authorized No	10985
 Public Disclosure Authorized Project Information Document	3456,7507
@@ -2925,7 +2934,7 @@ Regulations PUBLIC UTILITIES REGULATORY AUTHORITY	17249
 Regulations. PUBLIC UTILITIES REGULATORY AUTHORITY	17249
 Regulatory Authorities	21,3455,2200,7644,5497
 Regulatory Authorities Independent	12675
-Regulatory Authority	718,254,242,3495,970,132,460,999,4944,81,79,224,721,632,723,193,152,62,45,23,1793
+Regulatory Authority	718,254,242,3495,970,132,460,999,4944,81,79,224,721,632,723,193,152,62,45,23,1793,2423
 Regulatory Authority ARPCE	15372
 Regulatory Authority Act	16839
 Regulatory Authority Article	15126
@@ -2944,7 +2953,7 @@ Regulatory Authority and Mandate The Pharmacy and Poisons	9855
 Regulatory Authority for Communication Technologies	14456
 Regulatory Authority for Electronic Communication	173
 Regulatory Authority for Electronic Communications and Post	18933
-Regulatory Authority for Electronic Communications and Posts	4182,1808
+Regulatory Authority for Electronic Communications and Posts	4182,1808,13255
 Regulatory Authority for ICT	3628
 Regulatory Authority for Post and Electronic Communications	3221
 Regulatory Authority for Posts and Electronic Communications	4681

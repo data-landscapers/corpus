@@ -29,7 +29,7 @@ Men Mexico Guatemala Sri Lanka Pakistan	11004
 Mexan Guillaume	15780
 Mexican	9367,5254,3483
 Mexican State of Baja California	13040
-Mexico	226,1017,3015,889,535,931,443,347,328,939,614,425,706,299,71,61,139,19,1,149,39,43,120,216,37,285,8,1,19,42,126,950,272,2,310,997,276,100,474,28,105,59,1204,82,286,213,295,366
+Mexico	226,1017,3015,889,535,931,443,347,328,939,614,425,706,299,71,61,139,19,1,149,39,43,120,216,37,285,8,1,19,42,126,950,272,2,310,997,276,100,474,28,105,59,1204,82,286,213,295,366,1136
 Mexico AMS UMI	17743
 Mexico Affordability	11964
 Mexico Basket	11563
@@ -39,9 +39,10 @@ Mexico Global Cybersecurity Index	10764
 Mexico Guatemala Philippines Pakistan Indonesia India	11964
 Mexico Guatemala Sri Lanka Pakistan Indonesia	11004
 Mexico ICT Policy	16872
+Mexico Information Technology Sector Development Project	19245
 Mexico Men Women	11004
 Mexico Mexico	11964
-Mexico Micronesia Moldova Monaco Mongolia Montenegro	11470
+Mexico Micronesia Moldova Monaco Mongolia Montenegro	11470,7872
 Mexico W	11004,960
 Mexico Yes Estrategia Digital Nacional	11529
 Mexico and Chile	8670

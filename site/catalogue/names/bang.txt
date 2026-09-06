@@ -42,7 +42,7 @@ BANGUID	15524
 BANGUISSA-BATSIMBA	15744
 BANGUIWOOD	4886
 Bahamas Bahrain Bangladesh Barbados Belarus Belgium	11765
-Bahrain Bangladesh Barbados Belarus Belgium Belize	11470
+Bahrain Bangladesh Barbados Belarus Belgium Belize	11470,7872
 Bahrain Laos Senegal Bangladesh Lebanon Sierra	11005
 Bahrain Yes National Broadband Network Bangladesh	11529
 Banga	1243,11090
@@ -120,7 +120,8 @@ Bangou	15542
 Bangui	969,19,201,69,422,68,58,101,48,45,211,112,43,508,15,18,157,13,273,18,106,538,95,20,78,26,49,47,8,539,115,146,4,177,119,26,395,73,44,212,148,49,97,132,63,747,642,105,340,769,1,1,336,303,335,20,29,524,3,12,2,14,3311,195,572,416,64,59,24,87,4,2,12,16,1,23,9,6,3,41,29,21,109,29,216,23,4,19,42,80,3,30,51,15,4,23,1,16,4,15,20,4,32,60,2335,13,93
 Bangui A and Bangui B	15702
 Bangui Academic	15661
-Bangui Agreement	11550,5422
+Bangui Agree- Measures	19365
+Bangui Agreement	11550,5422,2393
 Bangui Agreement. Disputes	11550
 Bangui Bangui School	15661
 Bangui CAR	18887

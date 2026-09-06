@@ -30,6 +30,7 @@ Coopération DRFM Direction des Ressources Financières	15541
 Croissant Rouge Algérien. Le Directeur des Ressources	15885
 Cuba Ressources	18105
 DE L'ELEVAGE ET DES RESSOURCES HALIEUTIQUES	4402
+DE LA MOBILISATION DES RESSOURCES	19251
 DE LA RESILIENCE A DES RESSOURCES	17828
 DE L’EQUILIBRE FINANCIER DES RESSOURCES ET	16020
 DE RESSOURCES	10712,4871
@@ -48,6 +49,7 @@ DES RESSOURCES ARTICLE	17821
 DES RESSOURCES DE TRESORERIE Article	15426
 DES RESSOURCES DU BUDGET GENERAL	15999
 DES RESSOURCES EN EAU	17812
+DES RESSOURCES ET DEPENSES	19225
 DES RESSOURCES ET EMPLOIS	14431
 DES RESSOURCES FINANCIERES DU CENATEL Article	15366
 DES RESSOURCES GEOLOGIQUES	16001
@@ -97,7 +99,9 @@ Direction de Ressources Humaines	18911
 Direction de Ressources SIMF la Gestion des Ressources	17845
 Direction des Ressources	16365
 Direction des Ressources Financières	18143,26,1
-Direction des Ressources Humaines	14424,988,157,142,2119,313,26,1
+Direction des Ressources Forestières	19220
+Direction des Ressources Humaines	14424,988,157,142,2119,313,26,1,1056
+Direction des Ressources Humaines DRS	19226
 Direction des Ressources Humaines DSCVM	10874
 Direction des Ressources Humaines DSI	14472
 Direction des Ressources Humaines Plan Stratégique National	17882
@@ -142,10 +146,10 @@ Gestion Centralisée des Ressources Humaines	18291
 Gestion Electronique Administrative des Ressources Humaines	17824
 Gestion Intégrée des Ressources	643,17340
 Gestion Licence Pro Gestion des Ressources Humaines	17829
-Gestion des Ressources	7843,2869
+Gestion des Ressources	7843,2869,8654
 Gestion des Ressources Forestières	17829
 Gestion des Ressources GIPAR	14442
-Gestion des Ressources Humaines	1281,9540,2480,1236
+Gestion des Ressources Humaines	1281,9540,2480,1236,4829
 Gestion des Ressources Humaines Licence Pro Réseaux	17829
 Gestion des Services des Ressources Humaines HIA	15475
 Gestionnaire des Ressources	8237
@@ -160,6 +164,7 @@ III. Ressources du Système Statistique National	18169
 III.1. STATISTIQUES DES RESSOURCE HUMAINES ET	13500
 III.2.5. Ressources	15685
 III.3. ANALYSE DES RESSOURCES	18291
+IV.2.2 Ressources	19216
 Identification des Personnes DES RESSOURCES	17899
 Information des Ressources Humaines	6240
 Intégrée des Ressources	15542
@@ -231,12 +236,15 @@ RESSOURCES	15999,1831,313,27
 RESSOURCES APPROPRIÉES L’allocation	17830
 RESSOURCES Article	17874
 RESSOURCES COTE D’IVOIRE SARL	2342
+RESSOURCES DE L'API-ZF Art	19209
 RESSOURCES DU FONDS DE SOLIDARITE	17829
+RESSOURCES ENERGETIQUES ET LE MINISTRE	19241
 RESSOURCES ET	17845
 RESSOURCES ET INFRASTRUCTURES AXE	17845
 RESSOURCES ET RESPONSABILITES POUR METTRE EN	14425
 RESSOURCES FINANCIERES DU PROGRAMME STATISTIQUE NATIONAL	16616
 RESSOURCES FINANCIERES ET BUDGETAIRES Article	17886
+RESSOURCES FORESTIERES	19241
 RESSOURCES HUMAINES	16195,1687,240,21,27
 RESSOURCES HUMAINES Capitaine	16100
 RESSOURCES HUMAINES En	17845
@@ -271,13 +279,18 @@ Ressetlement Action Plan	10829
 Ressourc	17827
 Ressource	10858,2467,2217,2285,117
 Ressourcen	694,1
-Ressources	643,104,18,1577,24,195,835,1171,307,3011,1950,139,737,1,146,16,40,61,2366,233,140,129,96,486,54,143,801,6,43,21,48,27,12,57,33,50,2,2,14,8,102,40,48,25,38,48,49,16,6,77,132,13,142,133,12,1,94,720,6,371,11,14,1,16,5,16,17,46,37,1,8,41,73,14,3,47,96,26,4,2,1,21,3,5,68,5,2,1,26,2,692,49
-Ressources Animales	3396,14890
+Ressources	643,104,18,1577,24,195,835,1171,307,3011,1950,139,737,1,146,16,40,61,2366,233,140,129,96,486,54,143,801,6,43,21,48,27,12,57,33,50,2,2,14,8,102,40,48,25,38,48,49,16,6,77,132,13,142,133,12,1,94,720,6,371,11,14,1,16,5,16,17,46,37,1,8,41,73,14,3,47,96,26,4,2,1,21,3,5,68,5,2,1,26,2,692,49,46,1,41,3,32,59
+Ressources Animales	3396,14890,1070
 Ressources Educatives	13574
 Ressources Educatives Libres	13574
 Ressources En	15901
+Ressources Energétiques	19241,54
+Ressources Energétiques Ministère	19241
+Ressources Energétiques Robert Koffi Messan EKLO	19241
 Ressources Extérieures	1285,1,485,1352,1,1260,1
 Ressources Extérieures RES.INT	15475
+Ressources Forestières	19221,20
+Ressources Forestières Katari FOLI BAZI	19235,6
 Ressources Génétiques	16381
 Ressources Géolo	16381
 Ressources HMP	14442
@@ -298,7 +311,7 @@ Ressources Hydrauliques	15371,331,335
 Ressources Hydrauliques Régis IMMONGAULT	15371
 Ressources Intérieures RGPH	15475
 Ressources Matérielles	17845
-Ressources Minières	13433,2503
+Ressources Minières	13433,2503,3327,78
 Ressources Naturelles	4402,10048,916
 Ressources Naturelles ET DES VOIES NAVIGABLES	16177
 Ressources Naturelles S.a.u	15744,433
@@ -356,5 +369,6 @@ VALORISATION DES RESSOURCES FORESTIÈRES LIGNEUSES ET	15999
 VALUATION DES RESSOURCES ARTICLE QUATRE-VINGT-QUATRIÈME.-	15999
 VI. RESSOURCES ET RESPONSABILITÉS POUR METTRE	15746
 VI.5. STRATEGIE DE MOBILISATION DES RESSOURCES	18291
+VII.1 MOBILISATION DES RESSOURCES	19216
 Valorisation des Ressources Hydrauliques	16037
 Variation RESSOURCES BUDGETAIRES DETAILLEES EN MRU	17972

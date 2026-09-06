@@ -90,6 +90,7 @@ AIMS Centre of Excellence	17118
 AIMS Research and Innovation Centre	11327
 AIMS Satellite Centre	17118
 AIP Agricultural Inputs Programme CDC Centre	12241
+AKILA Ditorgma Raganande DIRECTION CENTRALE	19251
 AKM Health Centre Data Processor INST-3708454B011	7167
 AL-AIN MEDICAL CENTRE LIMITED Data Controller	7167
 AL-MAARAJ MEDICAL CENTRE LIMITED Data Controller	7167
@@ -144,6 +145,7 @@ ASYCUDA Regional Centre	13042
 ASYCUDA Regional Support Centre	13042
 ASYCUDA Support Mechanism Centre	13042
 ASYCUDAWorld. The Centre	13042
+ATD Convention Centre	19221
 ATHICHEM MODERN MEDICAL CENTRE LTD Data	7167
 ATINA MEDICAL CENTRE	7167
 AU African Union CAR Central African	15415
@@ -313,7 +315,7 @@ African Regional Climate Centres	16371,1551
 African Regional Specialised Meteorological Centres	16371
 African Research Centre for Artificial Intelligence	1814
 African States CAR Central African Republic	10841
-African Trade Policy Centre	1356,9463,917,1621,2474
+African Trade Policy Centre	1356,9463,917,1621,2474,3534
 African Union Central African Backbone Citizen	15553
 Africa’s Data Centre Boom	9899
 Africa’s First AI-Ready Hyperscale Data Centre	6376
@@ -328,6 +330,7 @@ Afrique Centrale BIC Bureau	11944
 Afrique Centrale BIP Budget	15501
 Afrique Centrale BM Banque	15474
 Afrique Centrale CEMAC	15848
+Afrique Centrale CEPD Certificat	19350
 Afrique Centrale CER	17830
 Afrique Centrale CFE Centre de Formalités des Entreprises	16249
 Afrique Centrale CIF Cellule	11944
@@ -454,6 +457,7 @@ Assurance CIP Centrale	10965
 Assurance CIP Centrale des Incidents de Paiement CIPRES	11944
 Assurance Qualité Centre de Didactique	18121
 Atlantic Hills Data Centre	14673
+Atlantique Centre-Est	19220
 Attacq and Vantage Data Centres	2246,293
 Au Centre	10875
 Aucun Centrafricain	15603
@@ -871,6 +875,7 @@ CCV. O Centro de Personalização	16029
 CDM EMMANUEL HEALTH CENTRE	7167
 CDM ICHAGAKI HEALTH CENTRE Data Controller	7167
 CDM ICHAGAKI HEALTH CENTRE Data Processor	7167
+CDVA Centre	19350
 CEA Centre	18171
 CEDI Conference Centre	10585
 CEFACT United Nations Centre for Trade Facilitation	13042
@@ -942,7 +947,7 @@ CENTRAL STATISTICS OFFICE	12962
 CENTRAL STATISTICS OFFICE The Central Statistical	12962
 CENTRAL SUPPLIER DATABASE	11240
 CENTRAL TX Red	10847
-CENTRALE	15934,1
+CENTRALE	15934,1,3415
 CENTRALE CHAPITRE PREMIER OBJECTIFS ET MISSIONS	17816
 CENTRALE COMITE MINISTERIEL REGLEMENT N	15442
 CENTRALE DES AFFAIRES FINANCIERES	16099
@@ -1050,6 +1055,7 @@ CENTRE-SUD CP1 Filles	10847
 CENTRE-SUD Filles	10847
 CENTRE-SUD Garçons	10847
 CENTRES	12970
+CENTRES CONCERNÉS PAR LA TOURNÉE	19257
 CENTRES D’INSTRUCTION	15744
 CENTRES FOR COMMUNITY HEALTHCARE ACCESS Data	7167
 CENTRES IN ALL	1638
@@ -1087,6 +1093,7 @@ CEO of Open Access Data Centres	7179
 CEO of Rack Centre	2595,4471
 CERC Central Bank of Liberia CII Contingent	16144
 CERER Centre	18316
+CERSA Centre	19350
 CERT Coordination Centre	12232
 CERTs and Cybersecurity Operations Centres	9964
 CESC Civil Society Centre for Learning and Training	12201
@@ -1108,8 +1115,9 @@ CHEPSOO MEDICAL CENTRE LIMITED Data Controller	7167
 CHIEKO MEDICAL CENTRE LIMITED Data Controller	7167
 CHIRETI MEDICAL CENTRE LTD Data Controller	7167
 CHOSEN CHILDREN OF PROMISE MEDICAL CENTRE	7167
+CHR Centre	19350
 CHRISTIAN MISSION INTERNATIONAL-SAMBOCHO HEALTH CENTRE Data	7167
-CHU Centre	15724
+CHU Centre	15724,3626
 CHU-ME CI-SIS CI-SIS V0 Central Authentication	17882
 CI PGES- CENTRE DE PERSONALISATION DES	14490
 CI V PGES- CENTRE DE PERSONALISATION	14490
@@ -1136,6 +1144,7 @@ CLEF CENTRE LIBRE D’ETUDE ET	18143,27
 CM. la Banquc Centrale	15443
 CMA Cross-Border Directive The Central Bank	11134
 CMS Central Management System COMESA Common	13005
+CMS Centre	19350
 CNES Centre National	18103
 CNTS Centre National de Transfusion Sanguine COPIL	13306
 COBAC Banking Commission for Central Africa CRVS	16942
@@ -1161,6 +1170,7 @@ CORE VALUES Integrity Customer Centric Excellence	13385
 COS Centre	15474
 COST CENTRE CONSULTANCY LTD Data Processor	7167
 COULIBALY DIRECTION CENTRALE DES SERVICES	17828
+COUNTRY PROFILE African Trade Policy Centre	19365
 COUNTY MEDICAL CENTRE EMBU LIMITED Data	7167
 COUSP Centre	15724
 COVID-19 Testing and Treatment Centres	14773
@@ -1171,6 +1181,7 @@ CPD Central Population Database C2C Consumer-to-Consumer	14790
 CPT2 Data Centres Digital Realty	596
 CPU Central Processing Unit CSA Cloud	11952
 CPU Central Processing Unit CVM Controller	13185
+CRA Centre	19350
 CRC Central de Riscos de Crédito	18825
 CREDITINFO Central Africa SA	15950
 CREWS Central Africa	11420,4494,223,102
@@ -1317,12 +1328,12 @@ Centrais Termoeléctricas MWh	18793
 Centrais da EMAE Tipo Centrais Grupos	18793
 Centrais de Depósito de Títulos	11370
 Centrais de Mediação de Serviço de Táxi	16022
-Central	10,24,202,6,495,424,58,45,437,647,213,107,34,74,69,157,236,85,270,384,176,56,371,92,2,49,15,299,23,46,131,7,3,81,15,4,97,159,217,44,49,1,113,399,246,118,144,3,284,57,89,181,147,60,210,1,17,39,73,52,223,140,44,51,66,394,54,2,390,198,107,201,58,89,96,295,169,28,11,2,2,12,4,29,29,136,18,49,89,3,42,66,48,18,51,10,30,16,32,120,70,112,106,133,16,158,18,31,1,36,6,22,65,13,3,50,22,13,174,152,26,66,55,39,14,5,7,23,17,31,69,198,16,31,25,33,30,11,18,20,97,84,183,110,104,222,75,187,100,8,70,3,26,4,4,99,17,58,30,12,45,87,213,81,103,2,25,46,86,75,5,33,35,5,221,85,93,84,9,181,13,72,18,70,187,4,2,17,4,18,6,3,17,24,19,102,12,6,23,11,36,34,19,7,1,21,32,18,82,16,20,1,15,62,33,3,118,123,90,12,108,164,61,242,72,3,117,101,10,1,16,2,4,10,7,23,30,245,42
+Central	10,24,202,6,495,424,58,45,437,647,213,107,34,74,69,157,236,85,270,384,176,56,371,92,2,49,15,299,23,46,131,7,3,81,15,4,97,159,217,44,49,1,113,399,246,118,144,3,284,57,89,181,147,60,210,1,17,39,73,52,223,140,44,51,66,394,54,2,390,198,107,201,58,89,96,295,169,28,11,2,2,12,4,29,29,136,18,49,89,3,42,66,48,18,51,10,30,16,32,120,70,112,106,133,16,158,18,31,1,36,6,22,65,13,3,50,22,13,174,152,26,66,55,39,14,5,7,23,17,31,69,198,16,31,25,33,30,11,18,20,97,84,183,110,104,222,75,187,100,8,70,3,26,4,4,99,17,58,30,12,45,87,213,81,103,2,25,46,86,75,5,33,35,5,221,85,93,84,9,181,13,72,18,70,187,4,2,17,4,18,6,3,17,24,19,102,12,6,23,11,36,34,19,7,1,21,32,18,82,16,20,1,15,62,33,3,118,123,90,12,108,164,61,242,72,3,117,101,10,1,16,2,4,10,7,23,30,245,42,86
 Central AEC Auxiliares de Enfermería Comunitaria ASECNA	16969
 Central AI Risk Function and AI Security	11135
 Central Adjudication	11986
 Central Administration for International Relations	11738
-Central Africa	24,561,105,327,698,2,140,604,49,265,87,118,49,53,53,93,7,174,24,17,150,206,157,92,72,105,39,265,214,46,176,173,13,158,21,42,198,210,367,84,39,61,35,53,76,182,80,173,1,97,58,57,121,76,446,128,29,15,206,695,750,140,319,163,6,232,30,212,123,20,99,17,18,5,149,271,80,72,296,1,31,60,57,193,1102,2,74,819,315,850,39,36,33,31,2,5,35,21,85,172,26,59,43,25,153,49,12,41,59,60,76,6,57,19,269,13,144,16,12,26,58,68,97,104,1,103,507,264,36,543,8,12,90,22,2
+Central Africa	24,561,105,327,698,2,140,604,49,265,87,118,49,53,53,93,7,174,24,17,150,206,157,92,72,105,39,265,214,46,176,173,13,158,21,42,198,210,367,84,39,61,35,53,76,182,80,173,1,97,58,57,121,76,446,128,29,15,206,695,750,140,319,163,6,232,30,212,123,20,99,17,18,5,149,271,80,72,296,1,31,60,57,193,1102,2,74,819,315,850,39,36,33,31,2,5,35,21,85,172,26,59,43,25,153,49,12,41,59,60,76,6,57,19,269,13,144,16,12,26,58,68,97,104,1,103,507,264,36,543,8,12,90,22,2,371,73
 Central Africa ACE Africa Coast	16942
 Central Africa Backbone	117,1147,13099,1009,39,142
 Central Africa Building Society	12252
@@ -1610,7 +1621,7 @@ Central Automated Switch	14731
 Central BEP Barriles Equivalentes de Petróleo CGA	16969
 Central BM Banco Mundial BVMAC Bolsa	16898
 Central Backup Service	14846
-Central Bank	940,42,38,264,601,138,989,168,312,112,11,64,216,6,76,353,71,124,86,69,70,98,186,90,1,26,1,254,69,212,13,87,1047,104,128,90,379,1,12,69,89,117,107,4,90,58,87,471,60,787,155,112,21,232,15,402,268,161,8,40,105,99,25,1,3,335,241,151,39,5,50,5,15,19,6,231,55,90,14,94,44,9,116,128,136,5,16,18,6,92,69,189,2,43,31,144,153,56,37,160,280,11,45,65,6,129,127,46,101,132,39,46,4,28,7,19,34,45,28,17,1,6,72,11,17,226,12,166,1079,105,2,34,29,16,3,1,15,30,143,4,69,5,6,36,1,24,25,29,2,1,50,11,43,115,32,176,126,39,81,467,5,1,37,76,194,7,15,5,26,2,100,31,52,23,67
+Central Bank	940,42,38,264,601,138,989,168,312,112,11,64,216,6,76,353,71,124,86,69,70,98,186,90,1,26,1,254,69,212,13,87,1047,104,128,90,379,1,12,69,89,117,107,4,90,58,87,471,60,787,155,112,21,232,15,402,268,161,8,40,105,99,25,1,3,335,241,151,39,5,50,5,15,19,6,231,55,90,14,94,44,9,116,128,136,5,16,18,6,92,69,189,2,43,31,144,153,56,37,160,280,11,45,65,6,129,127,46,101,132,39,46,4,28,7,19,34,45,28,17,1,6,72,11,17,226,12,166,1079,105,2,34,29,16,3,1,15,30,143,4,69,5,6,36,1,24,25,29,2,1,50,11,43,115,32,176,126,39,81,467,5,1,37,76,194,7,15,5,26,2,100,31,52,23,67,267
 Central Bank Act	12653,4189
 Central Bank Affirms Mobile Money	3308
 Central Bank Bill	11131,3
@@ -1855,7 +1866,7 @@ Central Bankers	11131,5713
 Central Banking	8268,2863
 Central Banking Operations	2287
 Central Banking. Governor’s Town Hall CBE	11134
-Central Banks	982,2256,865,1021,1710,104,1029,3840,445,710,4273,304
+Central Banks	982,2256,865,1021,1710,104,1029,3840,445,710,4273,304,1706
 Central Banks ACH ARREST Agenda for Inclusive	17235
 Central Banks Address Climate Risks	17235
 Central Banks Governors	11131,3
@@ -2059,6 +2070,7 @@ Central Product Classification CPI	14857
 Central Project File	16176
 Central Province	13455
 Central Province Broadcasting Studio	13336
+Central Purchasing Agency for Medicines	19284
 Central Radio Stores	13361
 Central Region	7695,4479,60,22,22,475,311,2416,1377
 Central Region Tel	3386
@@ -2139,6 +2151,7 @@ Central Water Authority Act	14745,98
 Central West Africa Figure	18787
 Central West Kordofan State	14955
 Central and Ahafo Regions	7695
+Central and Decentralized Actors	19214
 Central and District Hospitals	13122
 Central and East Africa	16798
 Central and East Kassala State	14955
@@ -2211,22 +2224,25 @@ Central. Texto	17253
 CentralAfricanRepublic	16553
 CentralBankRw	7301
 CentralStatisticalOffice	13244
-Centrale	3009,2069,1377,2263,1062,931,110,55,89,10,946,23,1501,364,401,269,916,28,20,32,67,117,11,15,114,238,62,428,1715
+Centrale	3009,2069,1377,2263,1062,931,110,55,89,10,946,23,1501,364,401,269,916,28,20,32,67,117,11,15,114,238,62,428,1715,1002,1,29,10,12,11,3,31,9,4
 Centrale Gabon Tchad Congo Guinée	9916
 Centrale Hydroélectrique	15670,69
 Centrale Hydroélectrique de BUSANGA	15670
 Centrale Hydroélectrique de Busanga	15670
 Centrale Hydroélectrique de Grand Katende	15670
 Centrale Hydroélectrique de Kakobola	15670
+Centrale Kékéli Efficient Power. La Centrale	19296
 Centrale Module Photovoltaique	15670
 Centrale Module Photovoltaïque	15670
 Centrale Nationale	15423,52,210,510
+Centrale PREFECTURE COMMUNE NOMBRE DE CANTONS	19350
 Centrale Pharmaceutique	18988
 Centrale Récapitulative des Risques Bancaires	11944
-Centrale Solaire Photovoltaïque	15739
+Centrale Solaire Photovoltaïque	15739,3556
 Centrale Supélec	10531
 Centrale Thermique	10975,5062
 Centrale Thermique de Jorf Lasfar	17502
+Centrale Thermique de Lomé	19295
 Centrale ZONGO II	15670
 Centrale de Grand Katende	15670
 Centrale de Kakobola	15670
@@ -2246,7 +2262,7 @@ Centrales Syndicales	2808,12904
 Centralidade	10772,689
 Centralidade Vida Pacífica	11631
 Centralidade da Vida Pacífica	10614
-Centralisation	6793,3918,1490,1050,167,231,776,1155,356,1906,464
+Centralisation	6793,3918,1490,1050,167,231,776,1155,356,1906,464,915,139
 Centralisation of Financial Inclusion Initiatives	940
 Centralise Records Pressed	9517
 Centralised	1161,778,2485,1697,250,565,1244,425,2528,1490,146,2060,335
@@ -2291,10 +2307,10 @@ Centrally	1009
 Centrally Managed Initiatives of Government	14830
 Centrarse	1701
 Centraux	11944,6285
-Centre	235,330,123,49,11,250,2,5,126,58,15,41,16,418,135,63,281,51,60,31,7,70,16,316,18,5,122,57,22,58,53,39,23,10,75,5,106,60,19,105,158,16,54,143,9,66,105,55,34,154,47,75,83,43,79,122,161,65,41,25,42,40,104,84,79,375,137,45,43,267,140,102,104,32,12,165,16,19,5,21,93,78,7,21,322,128,139,29,5,93,55,42,56,16,159,98,127,15,65,114,118,4,19,38,26,35,199,95,31,6,31,15,35,5,96,1,1,44,42,48,93,77,187,161,71,170,106,18,145,41,102,10,26,35,79,92,2,2,6,20,14,3,11,1,15,16,12,25,18,3,10,5,5,39,56,51,10,27,63,23,25,8,374,196,7,4,109,9,38,12,76,102,13,14,12,142,64,53,94,343,13,13,4,3,4,54,2,35,108,91,14,5,5,1,5,71,65,117,71,170,44,16,40,8,139,314,40,22,85,47,20,6,41,52,64,4,6,81,51,85,184,208,9,5,5,18,20,12,13,7,28,1,5,13,1,6,12,6,24,13,2,17,6,15,4,40,13,18,3,3,6,3,5,22,3,5,4,3,16,31,12,15,47,29,59,2,4,11,21,1,37,35,19,19,2,4,8,4,14,7,5,1,23,8,13,21,19,36,24,7,6,2,2,4,40,38,28,10,6,4,8,2,10,13,2,5,23,1,13,1,13,33,7,65,10,6,3,42,3,33,36,30,107,40,31,48,82,36,117,36,46,1,55,69,37,7,18,12,43,117,15,48,4,68,7,3,3,12,6,8,11,2,5,8,2,2,13,1,8,38,3,4,25,1,3,9,10,23,8,43,1,17,12,13,6,19,28,67,27,14,7,1,3,1,2,2,14,8,30,13,15,38,44,65,41,67,308,50,4,4,17,20,117,18,29
+Centre	235,330,123,49,11,250,2,5,126,58,15,41,16,418,135,63,281,51,60,31,7,70,16,316,18,5,122,57,22,58,53,39,23,10,75,5,106,60,19,105,158,16,54,143,9,66,105,55,34,154,47,75,83,43,79,122,161,65,41,25,42,40,104,84,79,375,137,45,43,267,140,102,104,32,12,165,16,19,5,21,93,78,7,21,322,128,139,29,5,93,55,42,56,16,159,98,127,15,65,114,118,4,19,38,26,35,199,95,31,6,31,15,35,5,96,1,1,44,42,48,93,77,187,161,71,170,106,18,145,41,102,10,26,35,79,92,2,2,6,20,14,3,11,1,15,16,12,25,18,3,10,5,5,39,56,51,10,27,63,23,25,8,374,196,7,4,109,9,38,12,76,102,13,14,12,142,64,53,94,343,13,13,4,3,4,54,2,35,108,91,14,5,5,1,5,71,65,117,71,170,44,16,40,8,139,314,40,22,85,47,20,6,41,52,64,4,6,81,51,85,184,208,9,5,5,18,20,12,13,7,28,1,5,13,1,6,12,6,24,13,2,17,6,15,4,40,13,18,3,3,6,3,5,22,3,5,4,3,16,31,12,15,47,29,59,2,4,11,21,1,37,35,19,19,2,4,8,4,14,7,5,1,23,8,13,21,19,36,24,7,6,2,2,4,40,38,28,10,6,4,8,2,10,13,2,5,23,1,13,1,13,33,7,65,10,6,3,42,3,33,36,30,107,40,31,48,82,36,117,36,46,1,55,69,37,7,18,12,43,117,15,48,4,68,7,3,3,12,6,8,11,2,5,8,2,2,13,1,8,38,3,4,25,1,3,9,10,23,8,43,1,17,12,13,6,19,28,67,27,14,7,1,3,1,2,2,14,8,30,13,15,38,44,65,41,67,308,50,4,4,17,20,117,18,29,23,1,1,5,5,18,36,1,8,25,3,8,13,1,9
 Centre AKAMURI de Bujumbura	13442
 Centre Administrator	11336
-Centre Africain	15618,1003,1665
+Centre Africain	15618,1003,1665,1059
 Centre Anti-Tuberculeux CDMT	15685
 Centre Article	17841
 Centre Bakary TRAORE	17982
@@ -2338,15 +2354,20 @@ Centre Gabon Innovation	8925
 Centre Gabonais	9631,6049,83
 Centre Gidan Fasaha de Tahoua	7374
 Centre Guidan Fasaha	7374
+Centre HISP	19354
 Centre Halieutique	16627
 Centre Hospitalier	15357,66,262
 Centre Hospitalier Départemental CHU-MEL	15475
 Centre Hospitalier Mère	18025
 Centre Hospitalier National CHN	17907
+Centre Hospitalier Préfectoral CMM	19226
+Centre Hospitalier Régional CHR	19226
+Centre Hospitalier Régional CHU	19226
 Centre Hospitalier Régional Estuaire	16001
 Centre Hospitalier Régional Estuaire-Melen	16099
 Centre Hospitalier Régional de Diffa	18238
 Centre Hospitalier Universitaire	15475,700,1828
+Centre Hospitalier Universitaire CHP	19226
 Centre Hospitalier Universitaire CSCOM	17824
 Centre Hospitalier Universitaire Départemental CHUZ	15475
 Centre Hospitalier Universitaire Gabriel TOURE	17882
@@ -2530,7 +2551,8 @@ Centre de Données Intégré National de Niveau IV	13341
 Centre de Dépistage	15475
 Centre de Dépistage Anonyme Volontaire CENAMES	15685
 Centre de Fo	17829
-Centre de Formalité des Entreprises	10812
+Centre de Formalité des Entreprises	10812,8397
+Centre de Formalités des Entreprises	19221
 Centre de Formation	13860,1715,2253,14,111
 Centre de Formation Artisanale	18286
 Centre de Formation Informatique du CIRAS	15553
@@ -2567,6 +2589,7 @@ Centre de Relation Usagers-Clients	15712
 Centre de Ressources	13894
 Centre de Ressources Multimédia	15446
 Centre de Référence	17824
+Centre de Réhabilitation Nutritionnel	19226
 Centre de Réinsertion Professionnelle de Kollo	18111
 Centre de Rééducation	10826
 Centre de Rééducation des Handicapés Moteurs	10826
@@ -2595,6 +2618,7 @@ Centre de Traitement des Informations Policières	15696
 Centre de Transformation Digitale	15575
 Centre de Transformation Digitale du MINREX	6119
 Centre de Transit de Cishemere	13360
+Centre deSite	19226
 Centre des Hautes Etudes de Défense	18324
 Centre des Impôts	10978,3484,1163,1,83,290,21,498
 Centre des Impôts des Moyennes Entreprises	15999
@@ -2656,7 +2680,7 @@ Centre for Domestic Violence Cases	16600
 Centre for Economic Development and Transformation	428
 Centre for Economic Policy Research	10997,2627
 Centre for Economic Studies and Planning	10
-Centre for Economics and Business Research	15553
+Centre for Economics and Business Research	15553,3692
 Centre for Educational Research	13310
 Centre for Educational Research and Training	13209
 Centre for Enhancement of Quality Education Sector Plan	15604
@@ -2767,7 +2791,7 @@ Centre- Nord	737
 Centre- Ouest	15712
 Centre- Sud	10875
 Centre-East	16384
-Centre-Est	737,2631,3459,4020,28,4682,82,73,3,5,23,283,358
+Centre-Est	737,2631,3459,4020,28,4682,82,73,3,5,23,283,358,2966
 Centre-Est Bam	16026
 Centre-Est Centre-Nord	737,10138
 Centre-Est Urbain	10875
@@ -2828,7 +2852,7 @@ Centred Example	15546
 Centreexcluding Yaounde	15574
 Centreexcluding Yaounde Littoralexcluding Douala	15574
 Centrepiece	9820
-Centres	689,203,2489,1643,1793,1108,1,395,949,353,1189,62,1,7,96,309,392,10,168,1113,371,101,188,795,55,8,1,1,251,32,138,465,60,18,20,81,19,17,4,4,40,46,27,8,165,51,6,57,13,35,574,12,3,948,231,9,24,13,11,10,18,78,17,82,2,56,87,36,28,9,2,324,136,169,46,16,11
+Centres	689,203,2489,1643,1793,1108,1,395,949,353,1189,62,1,7,96,309,392,10,168,1113,371,101,188,795,55,8,1,1,251,32,138,465,60,18,20,81,19,17,4,4,40,46,27,8,165,51,6,57,13,35,574,12,3,948,231,9,24,13,11,10,18,78,17,82,2,56,87,36,28,9,2,324,136,169,46,16,11,358
 Centres Africain de Contrôle	16195
 Centres Antituberculeux	15423
 Centres Climatiques Régionaux	16387
@@ -2858,6 +2882,7 @@ Centres Régionaux de Mécanisation Agricole	8303
 Centres SA Development	14673
 Centres The National Identity Card	14741
 Centres Urbains du Burundi	13689
+Centres Urbains du Togo	19239
 Centres de Collectes des Données	10812
 Centres de Fiscalité Locale	6163
 Centres de Formation	16381
@@ -3167,6 +3192,7 @@ Centros de Saúde	16019,1081,504
 Centros de Saúde da Província	17604
 Centros de Secundaria	16920
 Centros de Tratamiento	16855
+Centrum Operacji Bezpieczeństwa	19328
 Centré	14438
 Certification Authority and Digital Trust Centre	2692
 Certification Authority and Digital Trust Centre. GPW	2681
@@ -3181,6 +3207,7 @@ Challenges Faced Under the Centralized System Under	13418
 Channelling Arrangement Channel No. Channel Centre	12949
 Chaque Centre de Gestion Agréé	15999
 Charge Mbabane Correctional Centre	12972
+Chargé de Programme du Centre	19345
 Charles Foucault MODIFICATION Centre-ville	16425
 Chary Medical Centre Data Controller INST-842635FE65F	7167
 Chaïba Tipaza Sidi Rached Centre	15690
@@ -3243,12 +3270,14 @@ Climate Technology Centre	17955
 Clinics and Community Health Centres	11252
 Coker Aguda Primary Health Centre	11968
 Collection and Registration Centre	16888
+Colonel AKPELI Mossoumbou DIRECTION CENTRALE	19251
 Comité Central	11045,7706
 Comité de Gestion du Centre de Santé CPN	15475
 Comité de Pilotage COSIE Centre	16621
 Command Control Centre	13123
 Command and Control Centre	14729
 Commandant Abdoulaye TOUNKARA DIRECTION CENTRALE DES	17828
+Commandant DEVO Silété Roselin DIRECTION CENTRALE	19251
 Commencemen Data Centre	12253
 Comment la République Centrafr	10826
 Comments Miatta Conference Centre	18572
@@ -3518,7 +3547,7 @@ Data Analytics and Smart Solutions Centre	2256
 Data Analytics and Smart Solutions Centre Project	2256
 Data Centr	6432
 Data Centralisation	6793,6856
-Data Centre	34,1211,1562,4,61,313,115,294,99,421,462,1279,153,303,635,507,617,1053,199,51,82,1679,729,195,156,39,49,330,553,110,390,505,317,1,641,475,438,108,702,269,1386
+Data Centre	34,1211,1562,4,61,313,115,294,99,421,462,1279,153,303,635,507,617,1053,199,51,82,1679,729,195,156,39,49,330,553,110,390,505,317,1,641,475,438,108,702,269,1386,697
 Data Centre Accidents	12253
 Data Centre Blueprint	10210,82
 Data Centre Building Official Use Only	12253
@@ -3560,6 +3589,7 @@ Data Centre Systems Establishment	15149
 Data Centre Team	9123
 Data Centre Technical	12253
 Data Centre The Authority	6946
+Data Centre Tier III	19332
 Data Centre Value Accumulation Risks	11310
 Data Centre Vertiv	17732
 Data Centre and Business Continuity Plan	11863
@@ -3640,7 +3670,7 @@ Digital Centres Limited	4126
 Digital Curation Centre	12090
 Digital Delta Data Centre	3794,276,13,11,1221,756,4080,2421
 Digital Delta Data Centre. Botswana Fibre	4083
-Digital Development Global Practice Western and Central	1264,1625,9076,3526,2371
+Digital Development Global Practice Western and Central	1264,1625,9076,3526,2371,1383
 Digital Development Western And Central Africa	15704
 Digital Finance Centre	14829
 Digital Global Practice Western and Central Africa	3604
@@ -3679,7 +3709,7 @@ Directeur Central du Ministère du Travail	16381
 Directeur Général du Centre National	2451,13308
 Directeur Général du Centre National de Transfusion Sanguine	16175
 Directeur Général du Centre. Cette	15366
-Directeur du Centre	15936,1938,538
+Directeur du Centre	15936,1938,538,909
 Directeur du Centre Régional	18412
 Directeur du Centre Supérieur	18087
 Directeur du Centre de Bioéthique	14635
@@ -3903,7 +3933,7 @@ Energie CEREEC Centre des Energies Renouvelables	15769
 Energie Centrafricaine	15415,287
 Energy Centre Head PMukoma	11953
 Energy Training Centre	14745
-Energy and Extractives Global Practice Western and Central	11549,3966,468
+Energy and Extractives Global Practice Western and Central	11549,3966,468,3256
 Enfant Personnes Déplacés Internes Centre National	17845
 Enfant RAC DESAM Centre de Recherche	17845
 Engagement CEMAC Central African Economic and Monetary	969
@@ -3965,8 +3995,8 @@ European Centre for Medium-Range Weather Forecasts	11553,2969,1849,1938,83
 European Centre for Medium-Term Forecasts EDEQUE	18309
 European Centre for Medium-range Weather Forecasts’ AIFS	4300
 European Code of Conduct for Data Centres	15149
-European Commission's Joint Research Centre	3604,12347
-European Commission's Joint Research Centre’s Best	3604
+European Commission's Joint Research Centre	3604,12347,3294
+European Commission's Joint Research Centre’s Best	3604,15641
 European Commission. Joint Research Centre	15715
 European Commission’s Joint Research Centre	11050,160,4934,2360
 European System of Central Banks	15901
@@ -4264,6 +4294,7 @@ Himalayan Meditation Centre. Brahm Kumaris	16256
 Hiring Centres	13122
 Hlathikhulu Central High	12977
 Hlathikhulu Government Hospital and Nhlangano Health Centre	12956
+Horizon Data Centre Togo Company Ltd	19245
 Hospital Central de Maputo	2816,7372
 Hospital Central de Quelimane	12821
 Hospital Director of Queen Elizabeth Central	13040
@@ -4387,6 +4418,7 @@ Information and Counselling Centre NERCHA National Emergency	12939
 Information and Returns Centre	16585
 Information du Centre de Santé SIH Système	13306
 Infrastructure Development The Central Bank of Eswatini	11134
+Infrastructures Grand Lomé Maritime Plateaux Centrale	19350
 Inkosi Albert Luthuli International Convention Centre	9959,1316
 Innovation Centre	10764,29,51,719,1354,160,4666,380
 Innovation and Entrepreneurship Centre	6946
@@ -4466,7 +4498,7 @@ Investimento O Centro de Dados	8827
 Ipelsé Bazèga Centre-Sud	15715
 Isaac O The Estonian Centre for International	9309
 Islamic Cultural Centre	14742,105
-Islands Central African Republic Chad Chile	11470
+Islands Central African Republic Chad Chile	11470,7872
 Ivoire Centre	15936
 Ivoire and Central African Republic	16460
 Ivoire. Central	2945
@@ -4639,7 +4671,7 @@ Launch of Siphofaneni Service Centre	12970
 Lawyers for Human Rights and Centre for Child Law	11977
 Le Bureau Central des Recensements	15530
 Le Casier Judiciaire Central	16684
-Le Centre	2148,122,107,355,664,3059,576,21,322,1263,449,184,544,761,1274,1492,2016,82,33,240,354,507,44,1210,15,32,34,162,246,622,75,26,17
+Le Centre	2148,122,107,355,664,3059,576,21,322,1263,449,184,544,761,1274,1492,2016,82,33,240,354,507,44,1210,15,32,34,162,246,622,75,26,17,235
 Le Centre ETC	7374
 Le Centre Gabonais	10486,5277
 Le Centre Monétique Interbancaire	17466,29
@@ -4702,6 +4734,7 @@ Licenciamento de Centros de Dados. Estas	12808
 Licensed Data Centre	15149
 Licensee’s Data Centre	15149
 Licensing and Supervision Department Central Bank of Somalia	14880
+Lieutenant-colonel BODJONA Tchakpala DIRECTION CENTRALE	19251
 Lilongwe Data Centre	12987
 Lilongwe Wildlife Centre	12174
 Limpopo Central Hospital	11248
@@ -4721,7 +4754,10 @@ Local Data Centres and Cloud Ecosystems	4993
 Local ISP Network Operation Centre	2913
 Local Investors Remained Central	4972
 Local Server Central Server Internet Local	10775
-Lomé Data Centre	6446
+Lomé Data Centre	6446,12778,35,73
+Lomé Data Centre Donner	19224
+Lomé Data Centre URL	19224,35,73
+Lomé Data Centre. Cet	19332
 Looking Ahead In the Central African Republic	10857
 Lorsque la Banque Centrale	16613
 Los Centros de Decisión Económica Estratégica	1701
@@ -4743,6 +4779,7 @@ L’Afrique Centrale	9177
 L’ETAT CIVIL EN REPUBLIQUE CENTRAFRICAINE	10880
 L’OUEST ET DU CENTRE	17841
 L’accord du Centre Cinématographique Marocain	17485
+L’existence du Lomé Data Centre	19332
 M Data Centre Loan DFC	462
 M Data Centre and AI Expansion	4504
 M I Umar-Buratai and Centre Leader	18276
@@ -5264,6 +5301,7 @@ Odoo-CAU Centre	17882
 Office Centrafricain du Numérique	969
 Office Central de Lutte	17983
 Office Central de Lutte Contre	17872
+Office Central de Répression du Traffic Illicite des Drogues	19227
 Office Centrole de Répression	15429
 Office for Interception Centres	11277
 Officer CMED Central Monitoring and Evaluation Division	12240
@@ -5442,6 +5480,7 @@ Persistent Centralization	17139
 Personal Data Protection Centre	4583
 Personnels des Centres	18143,27
 Pessoais CCTIC Centro de Competências	18788
+Petits Centres	19295
 Phase PGES CENTRE DE PERSONALISATION DES	14490
 Phase Phase Préparatoire PGES CENTRE	14490
 Phelan US Centre	14706
@@ -5485,8 +5524,9 @@ Pool Centre. Les Experts	15670
 Pool Centre. Planification	15670
 Pool Centre. Rapport Annuel	15670
 Pool Centre. Un	15670
-Population Global Practice Western and Central Africa	10829
+Population Global Practice Western and Central Africa	10829,8455
 Position the Central African Republic	2211,1389
+Positionnement de Lomé Data Centre	19332
 Positive Outlook of Gambian Economy The Central	17216
 Post Offices Transformed Into Digital Centres	13521
 Post Offices and Youth Resource Centres	12375
@@ -5520,6 +5560,7 @@ Principe Guiné-Bissau República Centro-Africana Média	11569
 Principe and Banque Centrale du Congo	6938
 Private Credit Information Centres Confirms Angola	3722
 Privé CENTRE-EST	10847
+Processing Capacity Centrale	19284
 Producer BCSTP Banco Central de São Tomé	18851
 Production Centre Phase	12962
 Professionnel de Centrafrique Impôts	16328
@@ -5785,11 +5826,13 @@ Rwanda’s Central Bank	15023
 Rwanda’s Centre	2839
 Rwanda’s Centre for Peace	11682
 Rwanda’s Centre of Digital Public Infrastructure	5470
+RÉGION CENTRALE	19286
 Règlement la Banque Centrale	15352
 Référentiels Centraux	15508
 Région Adamaoua Centre Est Mode	15599
 Région CENTRE	10847
 Région CENTRE-EST	10847
+Région Centrale	19350
 Région Centre	10975,4624
 Région Centre- Sud-Est	10975
 Région Effectif Pourcentage Centre	10875
@@ -5906,6 +5949,7 @@ Saponé Bazèga Centre-Sud	15715
 Sapouy Ziro Centre-Ouest	15715
 Sarit Expo Centre	12131
 Satellite Control and Mission Centre	4350
+Savanes and Centrale. EMS	19284
 Saïda Centre	16085
 Saúde Rede de Centros de Saúde	15694
 Scalabrini Centre of Cape Town	5533,6453
@@ -5916,6 +5960,7 @@ Schools Takes Centre Stage	5606
 Scientific and Industrial Research and Development Centre	4528,7984,882,81,210
 Second Central African Economic and Monetary Community	15659
 Secondary School Habitat Centre AFM Parish	13046
+Secrétariat Central	19334
 Secteur des Douanes du Centre	4269
 Sector Data Centre Development Standards and ICT	12453
 Sector Director for Digital Development for West and Central	4963
@@ -5993,6 +6038,7 @@ Social Care Centres Benefit	16902
 Social Economic Rights and Development Centre	11866
 Social Policy Global Practice Western and Central	16384
 Social Programs of Central Government	19096
+Social Protection and Jobs Central Africa	19237
 Social Responsibility and Participation Central Department	15604
 Social Welfare Centres	14745
 Social Welfare Centres and Community Centre Women	14745
@@ -6022,6 +6068,7 @@ South Africa. The Africa Data Centres	6791
 South Africa. The Central African	12221
 South Africa. The Legal Resources Centre	14673
 South African Centre for Industry and Technology	11221
+South Caucasus and Central Asia	19245
 South Central	16935,108,84
 South Central Southeastern A Montserrado Southeastern	17043
 South Central Total Men Land	17043
@@ -6199,6 +6246,7 @@ Tizi Ouzou Centre	16085
 Tiébélé Nahouri Centre-Sud	15715
 Tlemcen Centre	16085
 ToRs Annual General Meeting African Centre	1154
+Togo CERSA Centre	19220
 Togo Koffi KOUGBLENOU Inspecteur Central du Tésor	10708
 Togo. Economic and Monetary Union of Central Africa	2775
 Tokai Village Centre	8999
@@ -6347,7 +6395,7 @@ WB Central	15661
 WCO West and Central Africa Region	14789
 WEF Centre	432,1
 WELE-NZAS NTEM CENTRO SUR BIOKO SUR	4209
-WESTERN AND CENTRAL AFRICA	4688,3189,2993,1101,17,3631,116,2,276,625,67,289,6,79,17,808,54,48,127,217,4,1,118,61
+WESTERN AND CENTRAL AFRICA	4688,3189,2993,1101,17,3631,116,2,276,625,67,289,6,79,17,808,54,48,127,217,4,1,118,61,708,7
 WESTERN AND CENTRAL AFRICA- P179211- Adaptive	16194
 WESTERN AND CENTRAL Energy	18374
 WESTERN AND CENTRAL Estimated Approval Date	3456
@@ -6392,7 +6440,7 @@ Western and Central Afric	17219
 Western and Central Africa	1774,320,1627,7136,4878,204,262,504,231,6
 Western and Central Africa Bank’s Approval Date	17219
 Western and Central Africa Education Strategy	11905,3838
-Western and Central Africa Region	17311
+Western and Central Africa Region	17311,1934
 Western and Central Africa Region Task Team	15959
 Western and Central Africa Regional	1264
 Western and Central Africa Research and Education Network	1264,14880
@@ -6419,6 +6467,7 @@ World Bank Central African Backbone	15511
 World Bank Central African Republic	16398,38
 World Bank Group In the Central African	10857
 World Bank Western and Central Africa Region	10964,4589
+World Bank Western and Central Africa Regional	19245
 World Bank and Centre for Digital Public Infrastructure	18857
 World Bank for Western and Central Africa	5056
 World Bank's Africa West and Central	16436

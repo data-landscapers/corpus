@@ -8,6 +8,7 @@ ARCEP's CNRCEP	9565
 Action Plan. The CNEPPS	11907
 Action du CNSC	16621
 Administration Publique CNSSAP	16365
+Africaine CNAQ Cadre	19216
 Afrique CNSS	10875
 Afrique Centrale CNAQ Cadre National	15501
 Afrique Centrale CNEE Conseil National	16037
@@ -137,6 +138,7 @@ CNC. Novembre	15493
 CNC. OLIGUI NGUEMA	16037
 CNCERT	8277
 CNCFE	15526
+CNCMUT	19264
 CNCP National Commission for Public Procurement CNRST	17458
 CNCR National Rural Consultation and Cooperation Council	18293
 CNCREE-SSDSPF	17845
@@ -467,10 +469,11 @@ CNRTP	18122
 CNRV. Ce	18310
 CNR’s Secretariat	11900
 CNS ACTIVITES DU SSN L	18926
-CNS Conseil	15961,659
+CNS Conseil	15961,659,2596
 CNS INSTAT	17842
 CNS LAW ADVOCATES LLP Data Controller	7167
 CNS LAW ADVOCATES LLP Data Processor	7167
+CNS Le Décret N	19216
 CNS Maintenance	16552
 CNS Matriz de Progresso	15966
 CNS S	18291
@@ -478,9 +481,11 @@ CNS. Article	17828
 CNS. Au	16620
 CNS. Avec	17842
 CNS. Ce	17842
+CNS. D’après	19216
 CNS. II- TRAVAUX Le Maître	16620
 CNS. Un	16620
 CNS. Une	18291
+CNS. VIII.2 MISE EN	19216
 CNSA. Faculty of ZASDIP	8161
 CNSA. Ganief Manuel	8161
 CNSC ET D’AUTRES PROGRAMMES RÉGIONAUX ET	16621
@@ -500,16 +505,36 @@ CNSS Activités	10875
 CNSS Author	16656,33
 CNSS Boucle du Mouhoun Urbain Rural Ensem	10875
 CNSS Burkina	15889
-CNSS Caisse	15961
+CNSS Caisse	15961,3255,134
 CNSS Caisse Nationale	16249
+CNSS Collection Indicator Name The NSHI	19284
+CNSS Collection Reimbursement	19284
+CNSS Collection Results Area Improving	19284
 CNSS Contribution Déterminée	643
 CNSS Dans	3241
+CNSS Data	19284
+CNSS Description Frequency Revised Persons	19284
+CNSS Description Frequency Revised Pregnant	19284
+CNSS Description Health	19284
+CNSS Description IACV Data	19284
+CNSS Frequency Revised Children	19284
+CNSS Frequency Revised Newly	19284
+CNSS IACV	19284
 CNSS ID	10812
+CNSS Indicator Name Description Digital	19284
+CNSS Indicator Name Description Revised School-aged	19284
+CNSS Indicator Name Description The NSHI	19284
+CNSS Indicator Name Health	19284
+CNSS Indicator Name Quarterly	19284
 CNSS National Center for Social Security CPC	10812
-CNSS National Social Security Fund	13861
+CNSS National Social Security Fund	13861,5423
+CNSS Page	19284
+CNSS Responsibility for Data Collection Establishment	19284
+CNSS URL	19318
 CNSS Ville de Ouagadougou	10875
 CNSS. Ainsi	15889
 CNSS. Cependant	10875
+CNSS. Cette	19318
 CNSS. Dans	10875
 CNSS. Held	16182
 CNSS. La Caisse	15889
@@ -517,6 +542,7 @@ CNSS. Pour	10875
 CNSS. RESULTATS DEFINITIFS DU RGE	10875
 CNSS. S’ensuit	10875
 CNSS. Tableau	10875
+CNSS. The MENTD and ATD	19284
 CNSS. Tous	16007
 CNT ANRH SONELGAZ	16103
 CNT Comptes	15961
@@ -578,6 +604,7 @@ CRAPC MIPP CNT Révision CRAPC MIPP	16103
 Cabo Verde CNI	7466
 Caisse Nationale de CNPS Prévoyance Sociale	15936
 Caisse Nationale de Sécurité Sociale CNSS	737,15445
+Caisse Nationale de Sécurité Sociale du Togo CNSS	19318
 Cambio Climático CN-REDD	16875
 Cameroon CNEF	10967
 Card Production Centers. Once the CNIB	10812
@@ -728,11 +755,16 @@ I.3.1.1. CNDigit	15936
 I.3.1.2. CNDSI	15936
 I.3.1.2. CNDSI Créée	15936
 IDs and CNAM-GS	15518
+II.1.2 Organes du CNS	19216
+II.1.2 Organes du CNS Le CNS	19216
 IN-1 Develop CNI Database	11857
 IN-1 Develop CNI Identify	11857
 IN-2 Develop CNI Develop	11857
 IN-2 Develop CNI Strategy IN-3 Facilitate	11857
 IN-4 Establish CNI	11857
+INAM and CNSS	19284
+INAM and CNSS. Procedure	19284
+INAM and CNSS. Verification Entity	19284
 INAP and CNIAPGE	16942
 INAP and CNIAPGE. Re-evaluate	16942
 INEGE CNE	16898
@@ -754,6 +786,9 @@ Karim SANGARE CNTS	17845
 Komite CNIS	13323
 Kseniia Dymskaia. La CNUCED	17881
 L'arrivée du CNEF	16446
+LA CNAR	19252,21
+LA CNAR ET L’UNHCR COMMÉMORENT	19252,21
+LA CNAR FORME SON PERSONNEL SUR	19252,21
 LE CNS LANCE SES CHANTIERS	17993
 LECTRONIQUE DE LA CNUCED	17881
 LIENS ENTRE LE CNSC ET	16621
@@ -781,6 +816,7 @@ Le CNE	16535
 Le CNECI	14431
 Le CNEF	10965
 Le CNEFOR	15376
+Le CNFE	19209
 Le CNI	13290
 Le CNIN	16066
 Le CNIS	15530
@@ -791,7 +827,7 @@ Le CNPA. Article	13781
 Le CNRA	18310
 Le CNRD	19039
 Le CNRPT	16615
-Le CNS	16620,1208,14,2
+Le CNS	16620,1208,14,2,1372,127
 Le CNSC	16621
 Le CNSMO	11944
 Le CNT	16641
@@ -904,6 +940,7 @@ Président du CNS. Il	16620
 Président du CNSP	2514
 Président du CNSP. Mais	2514
 Président du CNT	16700
+Présidente du CNS	19343,2
 Prévoyance Sociale CNEF Comité National Economique	11944
 Príncipe CNPD RECEBEU A AGÊNCIA NACIONAL	3079
 Public Administration CNIAPGE	16942
@@ -912,6 +949,9 @@ Périmètre SIECM PRÉ-ENRÔLEMENT PERSONNALISATION DES CNI	14480
 REALISE CNEA Dans	2966
 REALISE CNIOSP	2966
 RENAMO CNE	12201
+RMA CNAO ET CRAO	19226
+RMA CNLS	19226
+RMA du CNLS	19226
 RODELIN Félix CNECI Numérisation	14539
 Rapport CNIG	17983
 Rapport CNIG Disponibilité	17983
@@ -935,6 +975,7 @@ SMIT du CNHU de Fann	18321
 SNIAC O CNI	7466
 SRIF. Le CNSMO	11944
 SS.DSPF ANTIM CNESS ANTIM Conseiller Technique	17882
+SSN. L’opérationnalisation du CNS	19216
 SSONIG2PTEECDII CNRA ADCI INIE CI-ENGINEERING ANADER	2342
 ST- CNS	17842
 STRATÉGIES DE FINANCEMENT DU CNSC	16621
@@ -957,6 +998,7 @@ Secrétariat CNIG Disponibilité	17983
 Secrétariat Général du CNIG	15555
 Secrétariat Général du CNPA	13781
 Secrétariat Permanent du CNS	17842
+Secrétariat Technique du CNS	19216
 Secrétariat du CNS	15479,482
 Secrétariat du Président du CNS. Ce	18926
 Sector CNII	10721

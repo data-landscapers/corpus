@@ -1,6 +1,8 @@
+A1 Axe	19216
 A1.1.2.7 A1.1.2.9 A1.1.2.10 A1.1.2.11 OS1.2 Axes	10858
 A1.2.2.1 A1.2.2.2 A1.2.2.3 Axes	10858
 A1.2.5.1 A1.2.5.2 Axe	10858
+A2 Axe	19216
 A2.1.1.1 Axes	10858
 A2.3.3.1 A2.3.3.5 Axe	10858
 A3.1.2.1 A3.1.2.2 A3.1.2.3 A3.1.2.4 Axes	10858
@@ -47,7 +49,7 @@ AXIAN Headquartered	14632
 AXIAN SSA	2150
 AXIAN Secures A License	13778
 AXIAN TELECOM EXPANSION	1464
-AXIAN Telecom	829,582,53,673,13,3,60,450,45,359,872,528,401,2361,831,5722,663,187,2146
+AXIAN Telecom	829,582,53,673,13,3,60,450,45,359,872,528,401,2361,831,5722,663,187,2146,2504
 AXIAN Telecom CEO	4868
 AXIAN Telecom Holding	3939
 AXIAN Telecom Named Founding Partner of ATLAS	8060
@@ -68,6 +70,7 @@ About Axelspace	14077
 Actions IV.3. AXE III	15848
 Activités Axe	17842
 Activités TOTAL AXE STRATEGIQUE	16195
+Administration Axe	19360
 Africell and Axian	4150
 Analytical Axes Figure	14666
 Apache Axiom	15590
@@ -99,7 +102,7 @@ Axe Pointe-Noire	15455
 Axe Pointe-Noire- Matombi	15455
 Axe Relations	15568
 Axe Résultats Chronogramme Budget	10965
-Axe Stratégique	10965,4883,1997,138
+Axe Stratégique	10965,4883,1997,138,1240
 Axe Stratégique AXES OBJECTIFS SPECIFIQUES MONTANT	10965
 Axe Stratégique Indicateurs de Performance Cible	14622
 Axe Stratégique N	10965
@@ -143,7 +146,7 @@ Axian Consortium Acquisition of Tigo Senegal	241
 Axian Digibank	14531
 Axian Digibank and Fintech	5152
 Axian Energy Ltd Innovative Solar Tracker	14745
-Axian Group	241,149,423,710,613,2014
+Axian Group	241,149,423,710,613,2014,15169
 Axian Open Innovation	4076
 Axian SSA	2236
 Axian Telecom	814,3,73,46,1200,1,2,97,427,1223,640,99,2225,2176,2696,15
@@ -216,6 +219,7 @@ Centers and Cloud Services Aspect Axis II	15679
 Cham. Axmann	9237
 Chronogramme Axe Objectifs Spécifiques Actions Résultats	10965
 Co-financier AXIAN Telecom	4467
+Code Axes	19216
 Comoros AXIAN	13778
 Comoros. AXIAN	5152
 Crépin DODO Axel Mathieu FOADEY	16485
@@ -234,6 +238,7 @@ Description Axian Telecom	813,1323
 Dialog Axiata	15471
 Digital Governance Axis IV	15679
 Domaines Axes Gouvernance Vision Données	15583
+Développement des Compétences Axe	19360
 E. AXES TRANSVERSAUX	15595
 EBRD and Axian	9026
 EMF TOTAL AXE	10965
@@ -316,6 +321,7 @@ M. AXIAN Telecom SSA	829
 M. Axel Jesson Denis AYENOUE	16099
 M. Axian	813
 MATRICE DES AXES STRATEGIQUES	17901
+MATRICE DU CADRE LOGIQUE AXE SUR	19216
 MEP Axel Voss	8692
 MINFI Axe	10965
 Mastercard and Axian Digibank	14531
@@ -330,6 +336,7 @@ NDT’s Axis	18359
 Nouveau Modèle Proposé Axes	15936
 OBJECTIFS ET AXES STRATEGIQUES	13306
 OMS Axe	15724
+P Projet R Réforme Axe	19221
 PAN-GIIG Axes Objectifs	17983
 PART DANS LE BUDGET GLOBAL AXE	10965
 PASNFI AXE	10965
@@ -351,6 +358,7 @@ RESSOURCES ET INFRASTRUCTURES AXE	17845
 Rechercher Axe	17946
 Redevabilité Axes	10874
 Representatives of AXIAN Telecom and Huawei	13782
+Réglementation Axe	19360
 S-SYSTEMES COMPOSANTES AXE	17845
 SII-49849 Axian Comoros II	3886
 SNISS Axe	17845
@@ -378,9 +386,12 @@ UAM. Axe2 Politique	18121
 UAM. Axe3 Politique	18121
 Uganda EAC Axis Title Active Mobile	6946
 V. VISION ET AXES STRATEGIQUES	15381
+V.3 AXES STRATEGIQUES ET OBJECTIFS OPERATIONNELS	19216
+V.3 Axes	19216
 VI. PLAN D’ACTIONS AXE SUR	17844
 VII.2 RÉPARTITION DU BUDGET PAR AXE	13306
-VISION ET AXES STRATEGIQUES	15580
+VISION ET AXES	19216
+VISION ET AXES STRATEGIQUES	15580,3636
 VRD Axe	15542
 Vehicle Examination Station. With the Axle	14753
 X Axe	13306,2889

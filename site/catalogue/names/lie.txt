@@ -28,6 +28,10 @@ CAB-COM- SECURITE GEND Lieutenants-colonels	16100
 CABINET Santé Lieutenants	15524
 CFP Lieutenant-colonel OPOMBO	15901
 CFP Lieutenants	15901
+CHEF LIEU DE COMMUNE Cinkassé Cinkassé1	19350
+CHEF LIEU DE COMMUNE Kozah4	19350
+CHEF LIEU DE COMMUNE Kéran Kéran1	19350
+CHEF LIEU DE COMMUNE Tchaoudjo Tchaoudjo1	19350
 COMMANDEMENTS TERRITORIAUX Lieutenant-colonel	15524
 COMMANDEMENTS TERRITORIAUX Santé Lieutenant	15524
 COMMUNICATION Lieutenant-colonel MOUAKASSA	15744
@@ -45,6 +49,7 @@ DES INFRACTIONS LIEES A LA PROSPECTION	15643
 DES INFRACTIONS LIEES AUX	17841
 DES INFRACTIONS LIEES AUX ACTIVITES DES	15643
 DES LIEUX	15850
+DES OBLIGATIONS LIEES AU GUFORD Article	19260
 DETACHES OU STAGIAIRES Lieutenant MPIKOLA BATSEKE	15744
 DF Lieutenant KOUOMA KOBI	15744
 DGAFE Lieutenants	15455
@@ -100,10 +105,12 @@ INFANTERIE Lieutenant-colonel KIHOULOU	15744
 INFANTERIE Lieutenants	15744
 INFANTERIE PRESIDENT DE LA REPUBLIQUE Lieutenant-colonel	15744
 IV. ETAT DES LIEUX DU SYSTEME	17844
+IV.2 ETAT DES LIEUX DU SSN	19216
 Infanterie Lieutenant MANGALA MOCKONDZI	15901
 Journalism's Future Lies	8653
 Julia Lieberman	15480
 Justice du Burundi-Composante Numérisation LIEU DE TRAVAIL	13635
+KOMBATE LIELO Tilate SCH	19251
 Karo KONE Lieutenant-colonel GARDE NATIONALE	17828
 L55 PRIMES LIEES AU CAPITAL L59	17833
 LE LIEN DE PARENTÉ ET	13300
@@ -141,7 +148,7 @@ Le Lieutenant-colonel Salif BAH	17982
 Le Lieutenant-colonel Souleymane SIDIBE Chef	17899
 Lesotho Djibouti Liberia Liechtenstein Madagascar Mali	10764
 Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg	11765
-Liberia Libya Liechtenstein Lithuania Luxembourg Macao	11470
+Liberia Libya Liechtenstein Lithuania Luxembourg Macao	11470,7872
 Libya No Liechtenstein Yes Government	11529
 Liebana-Cabanillas	9128
 Liebetrau	4676
@@ -157,7 +164,7 @@ Liechtenstein. FL1 Tablet M	15471
 Lien Santé-Formation	14622
 Lien and Hardaker	16949
 Lience	18286
-Liens	1297,12056,22,1061,41,972,176,1,11,611,373,5,1,822,439,77,18,176,1043
+Liens	1297,12056,22,1061,41,972,176,1,11,611,373,5,1,822,439,77,18,176,1043,12
 Liens Utiles	13579
 Liens du PAN-GIIG	17983
 Lies Vanmullem	6976
@@ -169,6 +176,8 @@ Lieu Electeurs	18310
 Lieu Itsandra Beach Hotel	13799
 Lieu Niamey	17978
 Lieu Thereof the National Identification Registry	16841
+Lieu de Date	19226
+Lieu de Heure Thème Heure	19226
 Lieu-dit	15555
 Lieutenant	15455,69,220,157,2081
 Lieutenant ANDELY	15744
@@ -226,25 +235,151 @@ Lieutenant-Colonel Abdou Halilou	18180
 Lieutenant-Colonel Abdoulaye FANE	17812
 Lieutenant-Colonel Eric M. DALTON	17817
 Lieutenant-Colonel Fidèle SIDIDE	18032
+Lieutenant-Colonel SOGOYOU Cossi	19218
 Lieutenant-colonel	15524,220,356
+Lieutenant-colonel ABALO Yao	19251
+Lieutenant-colonel ABAMY Kassabalou Ayao	19251
+Lieutenant-colonel ABI Koudzo Soo	19251
+Lieutenant-colonel ABINA Atweki	19251
+Lieutenant-colonel ADIKPIYI Kpatcha	19251
+Lieutenant-colonel AFOLABI Soule	19251
+Lieutenant-colonel AGAO Wiyao Essohanam	19251
+Lieutenant-colonel AGBENDA Kossi Essodina	19251
+Lieutenant-colonel AGBOBLI Yawo Apelete	19251
+Lieutenant-colonel AGBOVOR Gagnon Yao	19251
+Lieutenant-colonel AHARH Gnama Oukla	19251
+Lieutenant-colonel AKAKPO Ayewalagni	19251
+Lieutenant-colonel AKATA Eyouvei	19251
+Lieutenant-colonel AKPANAHE Maheza	19251
+Lieutenant-colonel AKPO Kondi	19251
+Lieutenant-colonel ALEDI Tchei	19251
+Lieutenant-colonel ALEKA Amontete	19251
+Lieutenant-colonel ALI Ahim	19251
+Lieutenant-colonel ALLADO-YAWOVI Kokoudjin	19251
+Lieutenant-colonel AMADOU Bachirou	19251
+Lieutenant-colonel AMAVI Ayi Kossigan Adodossi GILAT	19251
+Lieutenant-colonel AMEGA Kokouvi Anonené	19251
+Lieutenant-colonel AMEGBOR Koffi GILAT	19251
+Lieutenant-colonel AMIDOU Sandah Amidou	19251
+Lieutenant-colonel AMOU Komlan Maxime MARINE NATIONALE	19251
+Lieutenant-colonel ANANOU Amoussou Coffi	19251
+Lieutenant-colonel ANDJE Palakiyem Aklesso	19251
+Lieutenant-colonel ANIKO Alaktignon	19251
+Lieutenant-colonel AOUI Essonani	19251
+Lieutenant-colonel ARATIME Ounamba Dodji	19251
+Lieutenant-colonel ASIAH Hodabalo	19251
+Lieutenant-colonel ASSENOUWE Sarakawabalo	19251
+Lieutenant-colonel ATANA Maguilinebè	19251
+Lieutenant-colonel ATCHA BOUKARI Mousbaou	19251
+Lieutenant-colonel ATEKPE Atana Palakyem	19251
+Lieutenant-colonel ATOULELOU Kpatcha	19251
+Lieutenant-colonel ATTA Abalo	19251
+Lieutenant-colonel AWADE Edouye	19251
+Lieutenant-colonel AWIDINA-AMA Awissoba Eyadom	19251
+Lieutenant-colonel AWILI Atafeiname	19251
+Lieutenant-colonel AZIA Abalo Mazama-Esso	19251
 Lieutenant-colonel Aguibou DIALLO DIRECTION GENERALE	17828
 Lieutenant-colonel Alfred Romuald Ndombi	7940
 Lieutenant-colonel Amadou ALY	17982
 Lieutenant-colonel Amadou ALY Rapporteur	17982
+Lieutenant-colonel BALIGNA Danka	19251
+Lieutenant-colonel BAMELA BAKOBRINHAN Kagnassime	19251
+Lieutenant-colonel BANA-EWAI Tagba	19251
+Lieutenant-colonel BANLA Yao	19251
+Lieutenant-colonel BELEI Bediani	19251
+Lieutenant-colonel BIAO-ADZA Akomola	19251
+Lieutenant-colonel BIDE Akawilou	19251
+Lieutenant-colonel BIGNAN Essizewa Memadema	19251
+Lieutenant-colonel BISSA Harefeteguena	19251
+Lieutenant-colonel BODJONA Tchakpala DIRECTION CENTRALE	19251
+Lieutenant-colonel BOUWEM Kpadja Yao	19251
+Lieutenant-colonel BOUYO Amouki	19251
 Lieutenant-colonel Boubacar MAIGA	17861
+Lieutenant-colonel DADJO Ograbako	19251
+Lieutenant-colonel DAKE Etsè	19251
+Lieutenant-colonel DAYOU Fidegnon Kodegla	19251
+Lieutenant-colonel DJONI Nimassa	19251
+Lieutenant-colonel DJOSSOU Agossa Essevi	19251
+Lieutenant-colonel DOTSE Koffi Dzigbodi	19251
+Lieutenant-colonel DOUTI Djabiou Bamigoli	19251
 Lieutenant-colonel Demba N’DAW	17982
 Lieutenant-colonel Demba N’DAW Membre	17982
 Lieutenant-colonel Diadié Ibrahim TOURE Armée de Terre	17982
+Lieutenant-colonel EGBOHOU Bleza	19251
 Lieutenant-colonel Fady TRAORE	17899
+Lieutenant-colonel GNAKOU Alowegnim	19251
+Lieutenant-colonel GNAKOU EYOUDJAMBO Eyadana	19251
+Lieutenant-colonel GNALI Ali	19251
+Lieutenant-colonel GNAZINGBE Essonan	19251
+Lieutenant-colonel GUMEDZOE Komlan EdemAgbenyega	19251
 Lieutenant-colonel Gaoussou DIARRA Armée de L’ETAT	17982
+Lieutenant-colonel HALAOUI Bidenam	19251
+Lieutenant-colonel HODIN Edoh	19251
+Lieutenant-colonel HOROU Essohounabe	19251
+Lieutenant-colonel HOROU Tomgouani	19251
+Lieutenant-colonel ISSAKA Amza	19251
+Lieutenant-colonel KABIYA Kokou	19251
+Lieutenant-colonel KAKOUTOULI Pawoumondom	19251
+Lieutenant-colonel KAMBRE Palababade	19251
+Lieutenant-colonel KARBOU Pawipadi Essoham	19251
+Lieutenant-colonel KAZIM Essomaname	19251
+Lieutenant-colonel KEBINA Balakiyem	19251
+Lieutenant-colonel KEZIE Tchaa Hontete	19251
+Lieutenant-colonel KILIMTETOU Essohanam Adjitim	19251
+Lieutenant-colonel KOLANI Kossi	19251
+Lieutenant-colonel KOLANI Sablile	19251
+Lieutenant-colonel KONDO Kadanga	19251
+Lieutenant-colonel KOTA Akonate	19251
+Lieutenant-colonel KOTA-MAMAH Assianam Nisson	19251
+Lieutenant-colonel KOTOSSO Awereou	19251
+Lieutenant-colonel KOUMAI Bireki	19251
+Lieutenant-colonel KOUMAI Sani	19251
+Lieutenant-colonel KOURA Iniwe	19251
+Lieutenant-colonel KPAKPAOU Katanga	19251
+Lieutenant-colonel KUMEDZRO Koffi Dedzidi	19251
 Lieutenant-colonel Kola WAIGALO Garde	17982
+Lieutenant-colonel LABANTE Nikabou	19251
+Lieutenant-colonel LABARBORE Mateyedou	19251
+Lieutenant-colonel LAMBONI Damessane	19251
+Lieutenant-colonel LEMOU Essolabina	19251
 Lieutenant-colonel LETSIONONO	15901
+Lieutenant-colonel MACAMANZI Atafei Laroutoki	19251
 Lieutenant-colonel MACKAYA BAYONNE	15901
+Lieutenant-colonel MADOUGOU Zongo Amane	19251
+Lieutenant-colonel MAGNIBO N’galanh	19251
+Lieutenant-colonel MELEOU Kpatcha	19251
 Lieutenant-colonel METOMEBI	15901
+Lieutenant-colonel MIDIKIZI Abalo	19251
 Lieutenant-colonel MONGO	15901
 Lieutenant-colonel Mamadou SOUKOUNA	17861
 Lieutenant-colonel Moussa Abdoulaye Garba	10233
 Lieutenant-colonel Moussa NIMAGA DIRECTION DU GENIE	17828
+Lieutenant-colonel NABEDE Sanda	19251
+Lieutenant-colonel N’DAFIDINA Dorouwa	19251
+Lieutenant-colonel N’TSOUGAN Adouwodji	19251
+Lieutenant-colonel OGUKI-ATAKPAH Ognadon	19251
+Lieutenant-colonel PADARO Essohana	19251
+Lieutenant-colonel PALABI Palakiyeme	19251
+Lieutenant-colonel PALI Yao	19251
+Lieutenant-colonel PATAKI Abiyo	19251
+Lieutenant-colonel PEKLE Medeboudola	19251
+Lieutenant-colonel PIO Machihude	19251
+Lieutenant-colonel PIOU Gbati	19251
+Lieutenant-colonel PISSO Assoti	19251
+Lieutenant-colonel PITO Abalo	19251
+Lieutenant-colonel PLINGA Kpanegue	19251
+Lieutenant-colonel POIDY Tignokpa	19251
+Lieutenant-colonel QUINDAH Djoliba	19251
+Lieutenant-colonel SABI Kossi Akomola	19251
+Lieutenant-colonel SAGUINTAAH-BILAKINAM Djagnimba Soloumba	19251
+Lieutenant-colonel SALIFOU Pini	19251
+Lieutenant-colonel SAMBIANI Bombome	19251
+Lieutenant-colonel SANDA-NABEDE Tchagbowou Piyowouwe	19251
+Lieutenant-colonel SANDAH Idiola	19251
+Lieutenant-colonel SEHOU Anni	19251
+Lieutenant-colonel SIMTAYA Djohena	19251
+Lieutenant-colonel SOEDJE Kokou MessanhAgbemelé	19251
+Lieutenant-colonel SOUSSOU Samah	19251
 Lieutenant-colonel Sapeur-Pompier Bassirou DIARRA	17861
 Lieutenant-colonel Sapeur-pompier Abdoul Karim DANIOKO	17899
 Lieutenant-colonel Sapeur-pompier Brahima KOLO	17861
@@ -254,6 +389,20 @@ Lieutenant-colonel Sapeur-pompier Nouhoum S DIAKITE. Article	17861
 Lieutenant-colonel Simbo KEITA Directeur	17982
 Lieutenant-colonel Simbo KEITA des Actes	17982
 Lieutenant-colonel Souleymane COULIBALY	17861
+Lieutenant-colonel TABE Kokou	19251
+Lieutenant-colonel TAGBA Essolam	19251
+Lieutenant-colonel TCHA-GAFO Ouro-Bang’na	19251
+Lieutenant-colonel TCHAGBELE Ouro-Bagna	19251
+Lieutenant-colonel TCHAKEI Tchedre Akpo	19251
+Lieutenant-colonel TCHAKONDO Moutawakilou	19251
+Lieutenant-colonel TCHAMDJA Gnimdou	19251
+Lieutenant-colonel TCHAMIE Somiye Abalo Bezebada Art	19251
+Lieutenant-colonel TCHEOUAFEI Birenam	19251
+Lieutenant-colonel TIGUE Bassoum	19251
+Lieutenant-colonel TSEKPUIA Komi Venunye ARMEE	19251
+Lieutenant-colonel YAKA Essoham	19251
+Lieutenant-colonel YANANI Tiekabe	19251
+Lieutenant-colonel YOKOR Yaovi	19251
 Lieutenant-colonel Yaya DIARRA	17861
 Lieutenant-colonel Youssouf BAGAYOKO LIEUTENANT-COLONEL	17828
 Lieutenants	15455,69
@@ -293,6 +442,7 @@ PR Lieutenant-colonel MAYOUCKOU	16100
 PRIMES LIEES AU CAPITAL	17841
 PRIMES LIES AU CAPITAL	17841
 Partager Lien	13374
+Plateaux NOMBRE DE CHEF LIEU	19350
 Promenade Lieu	15555
 RECOMMANDATIONS LIEES A L'AENF	2966
 RECOMMANDATIONS LIEES AU MEPS	2966

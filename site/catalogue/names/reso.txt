@@ -343,7 +343,7 @@ Dispute Resolution Committee Total Number of Meetings	1554
 Dispute Resolution Consumer Complaints	11861
 Dispute Resolution Procedure Manual	12500
 Dispute Resolution Section	16851
-Dispute Resolution Service	1264,20,583,1022,715,2935,4229,649,488,60,3173,520,1,2,483,778,27
+Dispute Resolution Service	1264,20,583,1022,715,2935,4229,649,488,60,3173,520,1,2,483,778,27,2296,39
 Dispute Resolution4 Any	13037
 Disputes Resolution Mechanisms. CHAPTER XVI CONSTRUCTION	18602
 Distributed Energy Resources	718,10510,69
@@ -363,6 +363,7 @@ EGYPT Acronyms ADR Alternative Dispute Resolution	15473
 EIGHTY ONE COMPUTER LEARNING RESOURCE CENTRE	7167
 ENERGY RESOURCES AND INFRASTRUCTURE	14422
 ERC Education Resource Centre	11860
+ERP Enterprise Resource Planning ESF Environmental	19239
 ERP Enterprise Resource Planning GCSP Government	6432
 ERP Enterprise Resource Planning GPPA Gambia	16923
 ESS4 ESS5 Resource Efficiency and Pollution Prevention	12253
@@ -388,7 +389,7 @@ Enquiries Handled Category Total Received Resolved	6946
 Ensuring Quality of Service and Resolving Disputes	15120
 Enterprise Planning Resource	16923,1
 Enterprise Resource Management	15659,310
-Enterprise Resource Planning	3051,491,4445,683,1249,3134,367,571,194,339,22,192
+Enterprise Resource Planning	3051,491,4445,683,1249,3134,367,571,194,339,22,192,4483
 Enterprise Resource Planning System. Known	14738
 Enterprise Resource Systems	12612
 Environment and Natural Resource Management FY17	15731
@@ -512,6 +513,7 @@ Government Energy and Resources Authority	7548
 Government Printing Works HRM&D Human Resource	11218
 Government Resource	12165
 Government Resource Planning	14897
+Government Resources	19214
 Gridlock Resolution	12364
 Grievance Mechanism GRC Grievance Resolution Committee	18504
 Grievance Redress Service HR Human Resources	15518
@@ -683,7 +685,7 @@ Human Resources Judicial Services Judicial Data	16943
 Human Resources MIS I-9	10785
 Human Resources Management	1154,130,9896,759,1030,109,271,275,1120,29,2212,250
 Human Resources Management Department	17235
-Human Resources Management Information System	10785,4246,487,143,775,422
+Human Resources Management Information System	10785,4246,487,143,775,422,2391
 Human Resources Management Office	18467
 Human Resources Management Research Council of Zimbabwe	1554
 Human Resources Management System	13504,1461
@@ -738,7 +740,7 @@ ICT Human Resources Innovation	16872
 ICT Resources All the MoH Information and Communication	34
 ICT Services and Resources	14729
 IDA Credit IDA Resources	10964,891
-IDA Resources	1264,20,583,1022,673,7267,731,405,1367,1578,228,52,431,37,3,82,240,415,524,1887
+IDA Resources	1264,20,583,1022,673,7267,731,405,1367,1578,228,52,431,37,3,82,240,415,524,1887,436,39
 IDA Resources Credit Grant SML Guarantee	14553
 IIAL Resources	11241
 IMMIGRATION AFFAIRS RESOURCE CONSIDERATIONS Programme	11986
@@ -1320,7 +1322,7 @@ Regulations. RESOLUTION OF ISSUES BY PDPO	3307
 Related Resources Disability Dimension	13016
 Relaunch Competency Based Human Resources Management	16968
 Relevant Resources	18374
-Relevant Resources ESS	1867,16331
+Relevant Resources ESS	1867,16331,1047
 Relevant Resources Not Currently Relevant ESS	11417,488
 Relevant. ESS3 Resource Efficiency and Pollution Prevention	14937
 Renewable Energy Resource Advisory Committee	14422
@@ -1444,7 +1446,7 @@ Resource Dependence and Fiscal Effort	1828
 Resource Directorate	969,9860
 Resource Efficiency	17260
 Resource Efficiency and Pollution Prevention	17114
-Resource Efficiency and Pollution Prevention and Management	1264,724,8841,135,1001,1367,191,1030,23,334,748,1278
+Resource Efficiency and Pollution Prevention and Management	1264,724,8841,135,1001,1367,191,1030,23,334,748,1278,2348
 Resource Executive Office Management Assistant Support	14835
 Resource Governance Index	10779,6163
 Resource Guide	2816
@@ -1502,7 +1504,7 @@ Resource Plan Nored Northern Regional Electricity	12399
 Resource Planning B2B Business	14897
 Resource Profiles	6666
 Resource Profiles Structures	6666
-Resource Public Key Infrastructure	4210,9,10591,1234,507,1869
+Resource Public Key Infrastructure	4210,9,10591,1234,507,1869,922
 Resource Rent Valuation Method	16996
 Resource Repository	18461
 Resource Repurposing	14748
@@ -1523,7 +1525,7 @@ Resource-intensive	12006,1675,4850
 Resource-rich Greater Equatoria	3583
 Resourced	5533,6681
 Resourcera	6232
-Resources	762,457,45,559,270,581,101,114,496,219,828,2,149,7,63,593,666,307,204,525,626,448,875,226,114,376,575,538,97,14,103,24,171,334,56,335,3,4,51,2,218,14,47,47,7,69,3,15,2,14,634,61,71,63,125,110,103,162,323,130,271,144,282,61,1,13,12,180,27,9,26,309,80,106,2,53,131,367,645,6,9,54,10,11,4,21,13,114,15,13,12,18,75,893,245,60,14,2,91,240,20
+Resources	762,457,45,559,270,581,101,114,496,219,828,2,149,7,63,593,666,307,204,525,626,448,875,226,114,376,575,538,97,14,103,24,171,334,56,335,3,4,51,2,218,14,47,47,7,69,3,15,2,14,634,61,71,63,125,110,103,162,323,130,271,144,282,61,1,13,12,180,27,9,26,309,80,106,2,53,131,367,645,6,9,54,10,11,4,21,13,114,15,13,12,18,75,893,245,60,14,2,91,240,20,487
 Resources ARTICLE	14409
 Resources Access	7972,9155
 Resources Assessment	17140
@@ -1532,7 +1534,7 @@ Resources Authority	7548
 Resources Availability and Utilisation	13310
 Resources Availability and Utilisation Norm Average Score	13310
 Resources Conclusion Websites Kenya	12138
-Resources ESS	15658
+Resources ESS	15658,3626
 Resources Enhancing	17157
 Resources FAO Food and Agriculture Organization FSQA	16927
 Resources Humaines	14748
@@ -1551,6 +1553,7 @@ Resources Minister	14600
 Resources Not Currently Relevant ESS	11560
 Resources Overview	18125
 Resources Policy	11006
+Resources Relevant ESS	19239
 Resources Relevant ESS6	17114
 Resources Relevant Relevant Indigenous Peoples	10964
 Resources Resources Access	9067

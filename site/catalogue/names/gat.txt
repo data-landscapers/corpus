@@ -133,7 +133,7 @@ GATEWAYS	13388
 GATHERING THAT GAVE HOPE	6211
 GATO MBERE Y'UKO NJYA KUKABARUZA KWA	12328
 GATONI Rosine Guilène	13341
-GATPA	17845
+GATPA	17845,1381
 GATS Telecommunications Annex	1243
 GATSE DZARAKA	16100
 GATSE OKO	16100
@@ -204,7 +204,7 @@ Gates-funded	3853,1378
 Gates-funded DG	1368
 Gates-supported	16815
 GatesFoundation	9516
-Gateway	1215,46,26,1143,1844,2319,298,55,1512,3769,132,5,689,208,216,374,433,1763,838,365,586,649,267
+Gateway	1215,46,26,1143,1844,2319,298,55,1512,3769,132,5,689,208,216,374,433,1763,838,365,586,649,267,469
 Gateway Capital	1429
 Gateway D100	17250
 Gateway Decision Points	18557
@@ -258,7 +258,7 @@ Gatundu South MP Kagombe	9940
 Gatwe	13683
 Gatwech Simon	18665
 General Art. XIV GATS	11154
-Global Gateway	1068,18,103,76,193,3,3,64,251,169,205,555,372,1348,222,13,836,4,1049,98,93,917,586,816,247,1283,230,318,15,71,1201,416,313,101,200,3,22,169,216,12,113,35,82,519,1229,336,12,814,1113,40,253,82,169,109
+Global Gateway	1068,18,103,76,193,3,3,64,251,169,205,555,372,1348,222,13,836,4,1049,98,93,917,586,816,247,1283,230,318,15,71,1201,416,313,101,200,3,22,169,216,12,113,35,82,519,1229,336,12,814,1113,40,253,82,169,109,543
 Global Gateway Africa-Europe Investment Package	11288
 Global Gateway Afrique-Europe	1189
 Global Gateway Communication	11155
@@ -273,12 +273,14 @@ Global Gateway Investment Package of EUR	11210
 Global Gateway Programme	14522
 Global Gateway Strategy	11304,244
 Global Gateway The European Union	6552
+Global Gateway UE	19328
 Global Gateway da União Europeia	5884
 Global Gateway da União Europeia. Cabo Verde	1948
 Global Gateway-tagged	9062
 Global Gateway. Deal	5499
 Global Gateway. Finally	11155
 Global Gateway. Further	11155
+Global Gateway. Jej	19328
 Global Gateway. Overall	11226
 Global Gathering	12088
 Global Leaders Gather for India’s AI Summit	5044
@@ -339,6 +341,7 @@ Logic Gates	13356
 M. Mounir Gattal	15930
 M. Régis Gatien LECKOGO	16381
 MALABO GATE TOUR JUMELLE	17006
+MASSOGBLO Gatowonou Agbenoxevi	19251
 MELINDA GATES FOUNDATION	16991
 MENA. Gates Foundation	290
 MESOB Bridge API Gateway	12215
@@ -459,6 +462,7 @@ Through Global Gateway	15857
 Through the GSMA Open Gateway	6714
 Through the Global Gateway	3860,9668
 Tlokweng Gate	12598
+Togo Archétypes ID ID ID Gateway	19221
 Tsegaye Ginbo Gatiso	16996
 Tut Gatluak Manime	18666
 UNHCR's PRIMES Interoperability Gateway	12257
@@ -467,6 +471,7 @@ USSD Gateways	18485
 Undersecretary Eng. Thomas Gatkuoth	18635
 Undersecretary for Telecommunications Thomas Gatkuoth Nyak	4299
 Werda Gate	12933
+West Africa Digital Gateway The Lomé	19259
 World Bank Financial Support Gates Foundation	15844
 Worqou Gatchena	6756
 Yes. The GATEWAY Program	11347

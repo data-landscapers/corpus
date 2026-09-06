@@ -353,6 +353,7 @@ Deed Number Shop Ruzawi Road Marondera	4896
 Defeat Ruto	7869
 Defeating Ruto Anti-Ruto	7869
 Definition Materials Materials These Rules	12364
+Deliver Shock-Responsive Social Protection Ruhaak	19237
 Delivery Models Rule	15164
 Demographic Risk Factors Rural	18441
 Department of Agriculture and Rural Development	9609
@@ -405,7 +406,7 @@ Droit des Affaires Institut Polytechnique Rural	17829
 Du Dossier Rural Article	18094
 Du Développement Rural Article	18094
 Dépenses Moyenne Urbain Total Moyenne Rural	18014
-Développement Rural	4026,5380,1558,4412,96,2,68,170,45,179,1512,35,346,149,5,132
+Développement Rural	4026,5380,1558,4412,96,2,68,170,45,179,1512,35,346,149,5,132,1106
 Développement Rural Agence Nationale	15936
 Développement Rural INFORMATIONS GÉNÉRALES	2342
 Développement Rural MINAS Ministère des Affaires Sociales	10965
@@ -446,7 +447,7 @@ ElGazira Rural	15244
 Election Petition Rules	18459
 Electricity Trading Rules	11236
 Electrification Rural Garantir	13433
-Electrification Rurale	10975,2458,2109,81,79,297,613,901,298,292,219
+Electrification Rurale	10975,2458,2109,81,79,297,613,901,298,292,219,898,19,2,36,18
 Electrification Rurale AES Alliance des Etats du Sahel	15769
 Electrification Rurale AUDA	18322
 Electrification Rurale CES	18322
@@ -597,6 +598,7 @@ Guidelines and Rules	14879
 Guy Didym Russel	15901
 Guy Ruﬁ	15615
 Génie Rural	17827,267
+Géographie Rurale	19366
 H.E President William Ruto. The Bill	1838
 HON. JUSTICE BONIFACE WAMALA RULING Introduction	3005
 HWLF RUVWRUDJHIXQFWLRQV DQG²	18920
@@ -1075,6 +1077,7 @@ Pgoma Byimana Kibungo Gishyita Rukira Rwankuba	12413
 Phalombe and Rumphi. Lessons	446
 Philbert Rugirangoga	12379
 Philippines Poland Romania Russian Federation Slovakia	10764
+Pistes Rurales	19221
 Place of Residence Urban Place of Residence Rural	10829
 Planet NICFI Rubber	17140
 Plans Fonciers Ruraux	10876
@@ -1127,6 +1130,7 @@ Principal Rural Infrastructure	9609
 Priority Committees for Rural Safety	11188
 Private Rulings	12629
 Private Sector Public Perception of Anti-Corruption Rule	10837,1315,188
+Privations Urbain Rural National	19350
 Privé Milieu Urbain Milieu Rural Nb	10847
 Privé V.3.5 Urbain V.3.4 Rural VI	10847
 Procedure and House Rules Committee	10313
@@ -1158,7 +1162,7 @@ Public Service Rules	2347
 Public Tax Rulings System	12598
 Publish Tax Rulings Regular	17011
 Público Privado Urbana Rural Público	16920
-Qatar Réunion Romania Russia Rwanda Saint	11470
+Qatar Réunion Romania Russia Rwanda Saint	11470,7872
 Quadrennial Periodic Reporting RCIC Rural Communities	17105
 Qualité Rua Viriato da CruzSao Tome and Principe	18828
 RC Regional Councils RICTC Rural Information	12973
@@ -1169,6 +1173,7 @@ REFERENCE STRUCTURE DES PRIX Rubriques Super	18322
 RELEVANT COURT RULINGS	11261
 REPUBLIQUE DU BURUNDI SIS A RUMONGE	13467
 REREC Rural Electrification and Renewable Energy Corporation	2775
+RGPH-5 Urbain Rural Total Tableau	19350
 RISHYIRAHO URWEGO RUSHINZWE ITERAMBERE MU RWANDA	14862
 RQHRUP RUHRI ZKLFK SXUVXDQWWRDSURJUDP SHUIRUP VDXWRP	18920
 RREA Rural and Renewable Energy Agency TEC	16978
@@ -1235,6 +1240,7 @@ RULES TO REGULATE SYSTEMS	14728,2
 RULING	14460
 RUMBEK UNIVERSITY OF SCIENCE	18629
 RUMBEK. Four Colleges and Seventeen Specializations	18629
+RUMER	19226
 RUMMUN Yashin Krishna Harry Agricultural	14770
 RUMONGE	13300,90,77
 RUMONGE.pdf	13467
@@ -1399,6 +1405,7 @@ Ruashi	11912
 Rubaga Cathedral	4954
 Rubaga Division	4954
 Rubaga Road	4954
+Rubalcava	19237
 Rubane	11556
 Rubané	16627
 Rubara	13405
@@ -1517,6 +1524,7 @@ Rue Vincens	18381
 Rue Wiertz	8533
 Rue de L’Institut	14847
 Rue de Thiong	18424
+Rue des Impôts	19250
 Rue des Résidences	11080
 Rue du Savoir	14847
 Ruel M	15725
@@ -1555,6 +1563,7 @@ Rugo Maison	13442
 Rugofarm	13358
 Rugova	17780
 Rugwiza	13683
+Ruhaak	19237
 Ruhana Miranda	3527
 Ruhangare	718
 Ruhango	4941,1,7471,16,989,1638
@@ -1798,7 +1807,7 @@ Rupturas de Stock	8324
 Rupture	10882,4487,60,43,1057,193,1097
 Ruptures	15599
 Rupture’ No Comments	2367
-Rural	11,112,113,182,225,93,1,34,169,30,43,186,16,4,9,56,420,163,77,44,105,363,492,41,170,227,19,17,126,21,103,189,62,124,83,523,54,87,414,792,51,82,254,206,239,116,399,416,106,17,249,706,295,480,799,333,9,3,3,14,35,35,28,254,59,5,2,20,46,1,118,38,3,106,33,12,148,135,2,22,85,24,62,14,128,22,27,9,28,50,7,3,45,2,14,4,6,4,16,2,29,41,7,25,122,308,170,167,31,15,44,52,5,177,49,131,211,39,97,46,424,53,106,71,45,62,39,29,30,73,1,8,106,160,11,58,25,20,39,17,25,5,137,59,45,113,423,480,3,3,29,2,21,1,1,6,23,2,18,3,2,21,118,13,12,18,93,35,131,302,5,104,43,75,69,2,40,47,30,179,129,13,37,50,221,13,156,2,39
+Rural	11,112,113,182,225,93,1,34,169,30,43,186,16,4,9,56,420,163,77,44,105,363,492,41,170,227,19,17,126,21,103,189,62,124,83,523,54,87,414,792,51,82,254,206,239,116,399,416,106,17,249,706,295,480,799,333,9,3,3,14,35,35,28,254,59,5,2,20,46,1,118,38,3,106,33,12,148,135,2,22,85,24,62,14,128,22,27,9,28,50,7,3,45,2,14,4,6,4,16,2,29,41,7,25,122,308,170,167,31,15,44,52,5,177,49,131,211,39,97,46,424,53,106,71,45,62,39,29,30,73,1,8,106,160,11,58,25,20,39,17,25,5,137,59,45,113,423,480,3,3,29,2,21,1,1,6,23,2,18,3,2,21,118,13,12,18,93,35,131,302,5,104,43,75,69,2,40,47,30,179,129,13,37,50,221,13,156,2,39,312,66
 Rural AEI Initiative	18103
 Rural Accessibility	17260
 Rural Accessibility Rural	17260
@@ -1807,6 +1816,7 @@ Rural Addressing Structure	11129
 Rural Addressing Structure Mr	11129
 Rural Africa	11140
 Rural Agent Project	8539
+Rural America	19245
 Rural Area	11129,7412
 Rural Area Information Technology Broadband Network	14621
 Rural Arears and Capacity Building	15518
@@ -1925,6 +1935,7 @@ Rural Fixed Broadband Wireless Access Systems	736
 Rural Féminin	13390
 Rural Féminin Ensemble Ensemble Masculin Féminin	18014
 Rural Gambia	8311
+Rural Geographic	19237
 Rural Governorates	15473
 Rural Growth	6051
 Rural Health Motivators	5126,7850,1,45
@@ -1932,6 +1943,7 @@ Rural Health Motivators Programme	12976
 Rural Health Motivators RSTP Royal Science	12970
 Rural Hommes Femmes Guinée D'accord	16644
 Rural Household	15574
+Rural Households’ Food Security	19284
 Rural Housing	13474
 Rural Hubs	12053
 Rural ICT Centers	12982
@@ -1976,7 +1988,9 @@ Rural Police Units	12953
 Rural Polytechnic Institute of Training and Applied Research	17870
 Rural Poor	10726
 Rural Population	7368,1214,903,2910
+Rural Populations	19284
 Rural Pourcentage	10847
+Rural Poverty	19237
 Rural Promise	6876
 Rural Province	13300
 Rural Ref. Code	11180
@@ -2028,6 +2042,8 @@ Rural Telephony Project	5359,10357,1496
 Rural Telephony Project. Mr Rashid-Computer	5359
 Rural Telephony and Digital Inclusion Project. Kept	478
 Rural The World Bank CAR Health	10829
+Rural Togo Bois	19350
+Rural Togo Toilettes	19350
 Rural Total Electricity	16935
 Rural Total Homme Femme	13442
 Rural Total Number Percent Number	16921
@@ -2085,7 +2101,7 @@ RuralPopulation Distribution Urban Rural	958
 RuralPower.org	18103
 RuralStruc Household Survey	18422
 RuralStruc Program Coordination Team Collection	18422
-Rurale	419,224,12747,293,1832,144,140,2,236,646,1136,75,89,984
+Rurale	419,224,12747,293,1832,144,140,2,236,646,1136,75,89,984,296,14
 Rurale ANOR Agence des Normes	10975
 Rurale Andoharanofotsy	14488
 Rurale Autonome	18103
@@ -2426,6 +2442,7 @@ Sustainable Urban and Rural	11469
 Suzana Ruas	2989
 System Rules	12269,95,2364,2
 Sécurisation Foncière Rurale	10936
+Sécurité Rue	19364
 TA Land Rusape CBD Cession Properties	4896
 TARGETS Rural Women Youth MSMEs FSPs	16942
 TECHNICIEN SUPERIEUR EN DEVELOPPEMENT RURAL DTSM	18143
@@ -2452,6 +2469,7 @@ Tender for Electronic Equipment for Rural Job Centers	8985
 Theme Rubriques Droits	15975
 Through the Malawi Rural Electrification Programme	13122
 Tobias Ruettershoff	5546
+Togolese Agency for Rural Electrification and Renewable	19239
 Tourists and Travelers Importation Of Goods Rules	12454
 Traditional Ruler	11129
 Traditional Rulers and Community Leaders	11129
@@ -2509,7 +2527,12 @@ Unserved Rural Infrastructure IN6	11857
 Upgrade of Rukarara SS	12358
 Urbain Rural	737,6918,3192,2453,90,2209
 Urbain Rural Au	13300
-Urbain Rural Ensemble	737,12563
+Urbain Rural Ens. Enfants	19350
+Urbain Rural Ens. Radio	19350
+Urbain Rural Ens. Robinet	19350
+Urbain Rural Ens. Réfrigérateur	19350
+Urbain Rural Ens. Télévision	19350
+Urbain Rural Ensemble	737,12563,6050
 Urbain Rural Ensemble Cascades Centre	10875
 Urbain Rural Ensemble Célibataire	737
 Urbain Rural Ensemble Endroit	18312
@@ -2519,6 +2542,7 @@ Urbain Rural Ensemble Sexe du CM Masculin	737
 Urbain Rural Ensemble Statut	18312
 Urbain Rural Ensemble Taux	15557
 Urbain Rural Ensemble Technologie	18312
+Urbain Rural Ensemble Trois	19350
 Urbain Rural Ensemble Urbain Rural Ensemble	10875
 Urbain Rural Hommes Femmes Guinée	16644
 Urbain Rural Moyen	13300
@@ -2540,6 +2564,7 @@ Urbain Rural Total Ouverture	13390
 Urbain Rural Total Payer	13390
 Urbain Rural Total Pensez-vous	13390
 Urbain Rural Total Riziculture Oui	13390
+Urbain Rural Total Tableau	19350
 Urbain Rural Total Taux	13390
 Urbain Rural Total Total Filles	10847
 Urbain Rural Total Votre	13390

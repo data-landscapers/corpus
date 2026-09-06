@@ -57,7 +57,7 @@ Agenda de Desenvolvimento Sustentável	18763
 Agenda de Desenvolvimento Sustentável da Ilha	18760
 Agenda for Sustainable	12214
 Agenda for Sustainable Deve	17101
-Agenda for Sustainable Development	1445,3,9745,379,1214,155,207,147,87,629,28,856,102,207,41,273,86,1270,47,6,23,23,71,252,22,1211,451
+Agenda for Sustainable Development	1445,3,9745,379,1214,155,207,147,87,629,28,856,102,207,41,273,86,1270,47,6,23,23,71,252,22,1211,451,254
 Agenda for Sustainable Development Goals	12759,4168
 Agenda for Sustainable Development Sub-Fund	12786
 Agenda for Sustainable Development WFP World Food	16927
@@ -124,7 +124,7 @@ Burundi Building Resilient and Sustainable Growth	1284
 Business Register SDG Sustainable Development Goals	2775
 C. Supporting Capital Access and Sustainable Busi-	4848
 C. Suspension	14843
-C. Sustainability	969,295,603,1737,2935,4229,196,416,145,35,295,1476,1,1605,435,39,80,24,3,35,68,37,1,2,1288,492,663,189,8,476,110
+C. Sustainability	969,295,603,1737,2935,4229,196,416,145,35,295,1476,1,1605,435,39,80,24,3,35,68,37,1,2,1288,492,663,189,8,476,110,352
 C.Â Sustainability	18887
 CAPS. SOL. BUV. COMP. SUSP. BUV	15930
 CHAPITRE IV DE LA SUSPENSION D’ACTIVITE	14417
@@ -180,7 +180,7 @@ Compass for Sustainable Development	7702
 Competitiveness and Sustainability	2918
 Component Component Sustainability Mechanisms Component	13331
 Components Sustainability Mechanism Component	6539
-Computing and Sustainable Societies	4439
+Computing and Sustainable Societies	4439,14798
 Comunidades Sustentáveis	8309
 Conducted Debt Sustainability Analysis	18500
 Conservation and Sustainable Management of Living Natural	1284,12047
@@ -334,7 +334,7 @@ Environmental Sustainability of Electricity Use	12389
 Environmental Sustainability of Water Supply	12389
 Environmental Sustainability of Water Use	12389
 Environmental Sustainable	9446,1510
-Environmental and Social Sustainability	18728
+Environmental and Social Sustainability	18728,486
 Environmental and Social Sustainability. Recommendations	18370
 Environmental and Sustainability Conduct Prefer	6432
 Environmental and Sustainability Risks Kenya	7548
@@ -510,7 +510,7 @@ Infrastructure and System Adaptability Sustainable	12240
 Innovation for Sustainable Development	5044
 Innovations Ensuring Sustainability	12457
 Inputs and Sustainability	15715
-Institutional Capacity for Implementation and Sustainability	969,898,1737,2935,389,3840,61,135,453,108,35,295,50,1426,1,1578,27,39,577,68,37,486,240,14,551,1155,94,95,8,58,418
+Institutional Capacity for Implementation and Sustainability	969,898,1737,2935,389,3840,61,135,453,108,35,295,50,1426,1,1578,27,39,577,68,37,486,240,14,551,1155,94,95,8,58,418,468
 Institutional Financial Sustainability	15845
 Institutional Financial Sustainability Indicator	15845
 Institutional Financial Sustainability MINTER SMTDP	15845
@@ -1028,7 +1028,7 @@ Sustain the Change	2477
 Sustain the SPAR Outcome	15725
 Sustain. Panelists	17070
 Sustainabilit	15845
-Sustainability	899,59,42,818,49,226,271,677,446,374,205,194,984,105,1802,127,473,94,121,55,1082,25,1,1655,45,36,141,127,98,186,443,371,9,5,111,2,99,454,64,105,15,200,36,12,3,39,119,8,70,181,105,283,319,160,221,4,22,12,43,11,54,30,7,96,34,247,62,45,35,76,32,104,80,1015,1,24,42,12,24,12,122,60,103,279,179,244,499,70,6,350,173
+Sustainability	899,59,42,818,49,226,271,677,446,374,205,194,984,105,1802,127,473,94,121,55,1082,25,1,1655,45,36,141,127,98,186,443,371,9,5,111,2,99,454,64,105,15,200,36,12,3,39,119,8,70,181,105,283,319,160,221,4,22,12,43,11,54,30,7,96,34,247,62,45,35,76,32,104,80,1015,1,24,42,12,24,12,122,60,103,279,179,244,499,70,6,350,173,224
 Sustainability AI	7548
 Sustainability Adoption	14818
 Sustainability Analysis Framework DSA Debt Sustainability	11271
@@ -1038,6 +1038,7 @@ Sustainability Challenge Achieving	13005
 Sustainability Continuous	12457
 Sustainability Directory Digital	11007
 Sustainability Disclosure Standards	7845
+Sustainability Efficient	19259
 Sustainability Facility	17909,81
 Sustainability Facility-Press Release	17990
 Sustainability Framework	12195
@@ -1131,7 +1132,7 @@ Sustainable Development Agenda and Agenda	15036
 Sustainable Development Cooperation Framework	13977
 Sustainable Development Finance Policy	3604,7865,1335,6047
 Sustainable Development Financing Policy	11905
-Sustainable Development Goal	718,52,473,624,121,690,680,225,1208,657,2838,750,84,19,943,241,453,36,7,12,311,430,579,24,17,35,13,1,37,324,37,41,261,34,22,8,40,35,17,2,298,80,185,1080,16,138,200,419,59,30,55,81,243,959,16,60,30,53,833,191,318,3,14,17,8,47,18,67,3,64,1,401
+Sustainable Development Goal	718,52,473,624,121,690,680,225,1208,657,2838,750,84,19,943,241,453,36,7,12,311,430,579,24,17,35,13,1,37,324,37,41,261,34,22,8,40,35,17,2,298,80,185,1080,16,138,200,419,59,30,55,81,243,959,16,60,30,53,833,191,318,3,14,17,8,47,18,67,3,64,1,401,148
 Sustainable Development Goal No	13363
 Sustainable Development Goal No.16	13123
 Sustainable Development Goal SE4ALL Sustainable Energy	15515
@@ -1139,7 +1140,7 @@ Sustainable Development Goal SFP	12175
 Sustainable Development Goal STEM	16975
 Sustainable Development Goal Sexual Exploitation and Abuse	15658
 Sustainable Development Goal Target	13148
-Sustainable Development Goals	309,13,74,124,62,95,89,23,151,18,3,8,1,161,30,35,65,474,79,14,749,101,97,183,47,171,35,372,21,9,147,101,185,80,304,98,718,104,183,122,45,103,19,61,411,42,1,1,136,464,304,390,795,104,412,2,116,487,160,19,28,31,289,113,125,401,4,58,4,32,7,10,2,9,125,41,127,22,38,2,15,14,13,28,24,43,24,169,11,16,29,4,1,269,5,80,16,19,21,176,3,22,17,17,9,93,4,19,1,10,9,27,10,2,38,40,6,8,5,22,20,40,6,74,1,17,87,138,5,1,21,11,7,2,9,2,30,37,18,35,54,17,41,7,5,108,18,14,40,30,14,42,129,10,57,71,24,89,100,35,21,2,99,29,290,131,170,6,2,23,46,54,6,16,27,12,12,19,32,39,20,67,6,62,53,167,4,65,38,35,3,18,4,80,3,52,1,75,1,20,35,84,10,55,858,9,2,9,2,9,1,12,20,5,1,13,15,1,7,13,2,44,1,25,1,10,24,12,11,15,8,3,12,18,7,5,4,87,29,7,22,29,23,423,77,52,12,512,12,17,2,8,14,34,25,33,66,48,2
+Sustainable Development Goals	309,13,74,124,62,95,89,23,151,18,3,8,1,161,30,35,65,474,79,14,749,101,97,183,47,171,35,372,21,9,147,101,185,80,304,98,718,104,183,122,45,103,19,61,411,42,1,1,136,464,304,390,795,104,412,2,116,487,160,19,28,31,289,113,125,401,4,58,4,32,7,10,2,9,125,41,127,22,38,2,15,14,13,28,24,43,24,169,11,16,29,4,1,269,5,80,16,19,21,176,3,22,17,17,9,93,4,19,1,10,9,27,10,2,38,40,6,8,5,22,20,40,6,74,1,17,87,138,5,1,21,11,7,2,9,2,30,37,18,35,54,17,41,7,5,108,18,14,40,30,14,42,129,10,57,71,24,89,100,35,21,2,99,29,290,131,170,6,2,23,46,54,6,16,27,12,12,19,32,39,20,67,6,62,53,167,4,65,38,35,3,18,4,80,3,52,1,75,1,20,35,84,10,55,858,9,2,9,2,9,1,12,20,5,1,13,15,1,7,13,2,44,1,25,1,10,24,12,11,15,8,3,12,18,7,5,4,87,29,7,22,29,23,423,77,52,12,512,12,17,2,8,14,34,25,33,66,48,2,527,50
 Sustainable Development Goals Fund UA	17101
 Sustainable Development Goals Goal	11332
 Sustainable Development Goals In the UN General	11193
@@ -1248,6 +1249,7 @@ Sustainable Governance Structure	12675
 Sustainable Growth	15553
 Sustainable Growth and Accountable Governance	18456
 Sustainable Growth and Innovation	11994
+Sustainable Growth and Jobs	19220
 Sustainable Housing and Settlements	18125
 Sustainable Human Development	17906
 Sustainable ICT	899,59
@@ -1368,6 +1370,8 @@ System SEforALL Sustainable Energy for All WBG	12717
 System STR Suspicious	14997
 São Tomé and Príncipe Fiscal Sustainability	18851
 São Tomé and Príncipe Sustainable Development National	18851
+TERMINATION AND SUSPENSION	19214
+TERMINATION AND SUSPENSION Section	19214
 Tabulation and Disaggregation of Uplifted Suspensions	12972
 Taxation for Fiscal Sustainability	14932
 Team Story The Outlier Press Sustainability	12339
@@ -1376,10 +1380,12 @@ Technology and Innovation Parks for Sustainable Development	12786
 Telcos and Sustainable Energy	6832,7842
 Temporary Suspension	17037
 Term Financial Sustainability Output Measure Target	11134
+Termination and Suspension	19214
 Third Fiscal Space and Sustainable Growth Development	15924
 Through the Sustainable Peering Infrastructure Grant Program	7246
 Timely Debt Sustainability Assessments	18488
 Togo Seeks Sustainable HIV Funding	8610,233
+Togo Sustainable Agriculture Transformation Program	19284
 Town Global Action Plan for Sustainable Data	13359
 Trade and Sustainable Development	1243,13385,2,4525
 Trade and Sustainable Development Chapter	19155

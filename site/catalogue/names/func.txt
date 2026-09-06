@@ -287,7 +287,7 @@ Functionality XX Partially	15206
 Functioning	771,7050,4070,25,1100,29,286,665,1905,942,66,110,375,1322,269
 Functioning AI	15713
 Functioning Economic Zones and Policy Incentives Focus	12376
-Functions	11,76,498,2,567,66,254,119,284,216,682,939,32,115,26,243,219,4,2079,1400,628,406,2598,387,1,8,96,20,169,40,68,85,187,6,15,2,91,4,1,1,6,2,8,13,214,1,5,6,1,15,38,15,1,2,349,40,205,385,458,1,5,7,27,44,82,19,5,2,46,72,13,11,25,22,34,26,46,69,375,119,19,318,1039,4,4,20,9,15,88,260,8,1195,19,6,2,1,1,89,40,4,286,2,46,227
+Functions	11,76,498,2,567,66,254,119,284,216,682,939,32,115,26,243,219,4,2079,1400,628,406,2598,387,1,8,96,20,169,40,68,85,187,6,15,2,91,4,1,1,6,2,8,13,214,1,5,6,1,15,38,15,1,2,349,40,205,385,458,1,5,7,27,44,82,19,5,2,46,72,13,11,25,22,34,26,46,69,375,119,19,318,1039,4,4,20,9,15,88,260,8,1195,19,6,2,1,1,89,40,4,286,2,46,227,53
 Functions Core	14746
 Functions NCoE	11860
 Functions Pursuant	17235
@@ -377,6 +377,7 @@ Goods. Required Functional Guarantee Value of Functional	13185
 Governance Framework. Key Functions	16212
 Governance Functions	13418
 Governo Nº Nome Funcionário Ingresso Proposta	15404
+Greedy Function Approximation	19237
 HSDUs Functionality	15206
 Health Information System Functionality	18628
 Health Information Systems Functionality Assessment Tool	18628

@@ -18,6 +18,7 @@ ALBA CAPITAL LIMITED Data Controller INST-631433E8DD4	7167
 ALBA CAPITAL LIMITED Data Processor INST-631433E8DD4	7167
 ALCOHOL PER CAPITA	16892
 AMBUSH CAPITAL LIMITED Data Controller INST-444525CFDE3	7167
+AMORTISSEMENT DU CAPITAL SOCIAL. L’actionnaire	19260
 ANCHORSTONE CAPITAL LTD Data Controller INST-613099AD96F	7167
 ANCHORSTONE CAPITAL LTD Data Processor INST-613099AD96F	7167
 ARMEE DE L’AIR Capitaine OKOUMOU TUEYRES	15744
@@ -26,7 +27,10 @@ ARWOS CAPITAL LTD Data Processor INST-1146225DE26	7167
 ASA CAPITAL LTD Data Controller INST-89081637A22	7167
 ASI and Market Capitalization	10
 ASIGMA CAPITAL ADVISORY SERVICES LIMITED Data	7167
+AU African Union CAPEX Capital Expenditures	19245
 AU CAPITAL DE LA SIACE	2342
+AUGMENTATION DU CAPITAL SOCIAL	19260
+AUGMENTATION OU REDUCTION DU CAPITAL SOCIAL	19260
 AUTHORISED BUT UNISSUED SHARE CAPITAL	4896
 AUTHORISED BUT UNISSUED SHARE CAPITAL Business	4896
 AVCA’s African Private Capital Activity Report	4972
@@ -96,6 +100,7 @@ BARON CAPITAL LIMITED Data Controller INST-9014920EF0B	7167
 BAS Capital	11127
 BBOXX CAPITAL KENYA LIMITED Data Controller	7167
 BBOXX CAPITAL RDC. Table of Contents Acronyms	11572
+BBOXX CAPITAL TOGO SA	19295
 BI Business Intelligence CAPI Computer-Assisted Personal	17116
 BINGWA MICRO CAPITAL LIMITED Data Processor	7167
 BK Capital	14997
@@ -200,6 +205,7 @@ CAPITAL Paix	17983
 CAPITAL REQUIREMENTS	10861
 CAPITAL REQUIREMENTS AND GOVERNMENT INITIATIVES	10861
 CAPITAL SAVINGS AND CREDIT CO-OPERATIVE SOCIETY	7167
+CAPITAL SOCIAL	19260
 CAPITAL SOUSCRIT	17841
 CAPITAL VALUERS LIMITED Data Controller INST-2168212C216	7167
 CAPITAL VALUERS LIMITED Data Processor INST-2168212C216	7167
@@ -263,6 +269,7 @@ COINAGE CAPITAL LIMITED Data Processor INST-4711559B05A	7167
 COLONEL Ou CAPITAINE DE FRELATE	15524
 COMMANDEMENT Capitaine	16100
 COMPARATIVE ANALYSIS OF CAPITAL EXPENDITURE PAYMENTS	16978
+CONCLUSION Capitalisant	19250
 CONTRE LE BLANCHIMENT DE CAPITAUX ET	16177
 CPF CAPITAL AND ADVISORY LIMITED Data	7167
 CRAVE CAPITAL LIMITED Data Controller INST-22360622CA0	7167
@@ -325,13 +332,22 @@ Capitaine Sapeur-pompier Siramadi DEMBELE	17991
 Capitaine Sekou Elhadji DIAKITE Capitaine Lassana	17828
 Capitaine Seydou TRAORE	17991,12
 Capitaine Sékou DOUMBIA	17991,12
+Capitaine de Corvette AGBAGLA Togbe Ehlin Selom	19251
+Capitaine de Corvette HONKOU Koffitse Mawuko GENDARMERIE	19251
+Capitaine de Corvette WONAME Koku Doh Mawuli	19251
+Capitaine de Frégate AGRIGNA Sama GENDARMERIE NATIONALE	19251
+Capitaine de Frégate AMOULOU Tetitoua	19251
 Capitaine de Frégate Mohamed Salem Mohamed Lemine	17895
+Capitaine de Frégate TENAH Kokou Baguissoga	19251
+Capitaine de Vaisseau BABATE Atatoum	19251
+Capitaine de Vaisseau KABKIA Kossi Tchédré GENDARMERIE	19251
 Capitaine de Vaisseau MIBISSA Jean Claude	16381
+Capitaine de Vaisseau SAMON Akoussoum	19251
 Capitaine de Vaisseaux Cheikh Lahmoud Hemetti Commandant	17895
 Capitaines	15524,576
 Capitais Maioritariamente Públicos	10783
 Capitais Próprios	18793
-Capital	10,226,12,692,80,681,77,7,2,1,200,74,72,208,96,337,182,245,2,1,378,131,495,210,109,320,47,1,76,230,12,324,117,32,225,1,98,137,38,80,75,239,156,150,52,145,2,1,487,34,156,26,16,179,2,149,310,19,8,135,178,55,3,488,54,30,13,165,510,16,38,516,45,13,2,5,1,16,2,36,43,5,34,64,15,26,125,26,3,2,4,9,49,27,23,62,46,30,83,55,240,19,74,98,98,78,110,97,27,44,35,68,189,181,100,71,32,38,10,83,63,52,59,176,302,164,33,120,436,79,23,15,8,84,23,9,1,17,16,26,75,182,212,35,30,9,8,20,60,5,46,11,20,25,32,28,18,6,42,62,57,4,137,43,11,166,8,93,46,12,31,171,14,201,30,70,2,25,6,21,109,88,42,1,21,59,1,168,18,353,53,4,70,7,296,5,159,33,17,56,46,155,94,295
+Capital	10,226,12,692,80,681,77,7,2,1,200,74,72,208,96,337,182,245,2,1,378,131,495,210,109,320,47,1,76,230,12,324,117,32,225,1,98,137,38,80,75,239,156,150,52,145,2,1,487,34,156,26,16,179,2,149,310,19,8,135,178,55,3,488,54,30,13,165,510,16,38,516,45,13,2,5,1,16,2,36,43,5,34,64,15,26,125,26,3,2,4,9,49,27,23,62,46,30,83,55,240,19,74,98,98,78,110,97,27,44,35,68,189,181,100,71,32,38,10,83,63,52,59,176,302,164,33,120,436,79,23,15,8,84,23,9,1,17,16,26,75,182,212,35,30,9,8,20,60,5,46,11,20,25,32,28,18,6,42,62,57,4,137,43,11,166,8,93,46,12,31,171,14,201,30,70,2,25,6,21,109,88,42,1,21,59,1,168,18,353,53,4,70,7,296,5,159,33,17,56,46,155,94,295,207
 Capital Account	17235
 Capital Account Overall Balance	17990
 Capital Accounts	17236
@@ -349,6 +365,7 @@ Capital Article	15102
 Capital Asset Management	18500
 Capital Asset Management Develop	18488
 Capital Assets	11230
+Capital Attraction	19221
 Capital Balance	11131
 Capital Budget	11136
 Capital Budgeting	18577
@@ -367,7 +384,7 @@ Capital Development Fund United Nations Sustainable	16973
 Capital Development Project Letter of Amendment	14987
 Capital Drag Value Issued	12882
 Capital Employed	7009
-Capital Enabling PCM Private Capital Mobilization	1264
+Capital Enabling PCM Private Capital Mobilization	1264,17981
 Capital Enabling PDO Project Development Objective	15659
 Capital Entretanto	11569
 Capital Ethiopia	8671
@@ -375,6 +392,7 @@ Capital Europeia da Democracia	18877
 Capital Expenditure	3583,2417,1695,5222,34,1884,824,268,1051,257,129,1080
 Capital Expenditure Additions	12951
 Capital Expenditure CBC Competency-Based Curriculum CBL	16876
+Capital Expenditure CEB Benin Electrical Community	19239
 Capital Expenditure CSP Cloud Services Provider	16923
 Capital Expenditure Cost	6000
 Capital Expenditure Transfers	16978
@@ -504,7 +522,7 @@ Capital Raw Material Finished	14985
 Capital Reconfigures Fundraising	4972
 Capital Requirement	16878
 Capital Rwanda. Article	15102
-Capital Social	1701,11886,1,2512,759
+Capital Social	1701,11886,1,2512,759,2401
 Capital Social Dbs	18793
 Capital Social Seis	18896
 Capital Strategies Kenya Limited Data Controller	7167
@@ -547,7 +565,7 @@ Capitale Economique	13364
 Capitale Politique du Burundi	13445
 Capitales Provinciales	4209
 Capitalethiopia News In Brief	10025
-Capitalisation	3714,6998,2594,5,1976,750,399,192,1232,1040,88,135
+Capitalisation	3714,6998,2594,5,1976,750,399,192,1232,1040,88,135,98
 Capitalise SEPs	958
 Capitalise SOEs	958
 Capitalised	11995,3906
@@ -612,6 +630,7 @@ Compact Private Capital Mobilization Public Private	11468
 Compensation of Employees Use of Goods and Services Capital	19042
 Compilation of Detailed Capital Project Data	18488
 Comptes. REPARTITION DU CAPITAL	2342
+Condition PCE Private Capital Enabling PCU	19239
 Conduct of Capital Project Analysis The World	18577
 Consolidation of Human Capital	13938
 Constituer le Capital Humain	17824
@@ -746,7 +765,7 @@ FARMACIAS Y SIMILARES CAPITALES DE PROVINCIAS	4209
 FARMACIAS Y SIMILARES CAPITALES DE REGIONES	4209
 FARMACIAS Y SIMILARES CAPITALES DISTRITALES	4209
 FCMB Capital Markets and FCSL. BAS Capital	11127
-FINANCING Private Capital Facilitation	2473,2180,11316,218,2172
+FINANCING Private Capital Facilitation	2473,2180,11316,218,2172,925
 FIRNZMLU FIRST CAPITAL BANK INZAZMLX INZAZMLX	12364
 Faso CapitalSquare Nigeria CINOLU DRC CUBE	15460
 Federal Capital Abuja	10861
@@ -964,6 +983,7 @@ Improve Human Capital	579
 Improve Human Capital Capacity	12552
 Improve Human Capital Capacity. Performance	12552
 Improved Human Capital and Digitally Informed Citizenry	12453,892
+Improving Human Capital	19284
 Improving Human Capital Endowments	13331
 Increase of Share Capital	18556
 Incremental Capital Output Ratio	8891
@@ -1020,6 +1040,7 @@ L55 PRIMES LIEES AU CAPITAL L59	17833
 L61 Capital	18032
 L62 Capital	18032
 L65 Capital	18032
+LA RÉDUCTION DE CAPITAL SOCIAL. Sur	19260
 LAMBA Capital	16177
 LES GAINS EN CAPITAL IMPOTS SUR	15999
 LIABILITIES OWNER EQUITY Capital	11955
@@ -1204,7 +1225,7 @@ Price Information Capital Revenue	3583
 Priority Outcomes for Accelerating Human Capital	15059
 Private Capital	7523,5194,3427,44
 Private Capital Enabled	11469,7382
-Private Capital Enabling	1264,440,163,386,38,182,983,106,42,176,873,1886,4229,649,143,345,521,685,904,561,378,704,1,2,308,63,112,43,467,21,1684,492
+Private Capital Enabling	1264,440,163,386,38,182,983,106,42,176,873,1886,4229,649,143,345,521,685,904,561,378,704,1,2,308,63,112,43,467,21,1684,492,394,39
 Private Capital Mobilization	1264,14254
 Private Capital Mobilization PDO Project Development	6539,10560
 Private Capital Mobilization Scheme	4500

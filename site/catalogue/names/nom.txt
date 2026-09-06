@@ -8,6 +8,7 @@ ANTIM Nombre	17824
 APD Nombre	3396
 ARSEL Nombre	10975
 ASAC Nombre	10965
+AU NOM DU PEUPLE TOGOLAIS	19218
 AU NOMBRE DE MOIS QUE	13300
 AVEC LE NOMBRE DE NAISSANCES DANS	13300
 AVIS D’ATTRIBUTION PROVISOIRE NOM DE L’AUTORITÉ	18031
@@ -40,6 +41,7 @@ Assurer la Nombres	17845
 Autentika. IGRP WEB NOME FUNCIONALIDADES DESCRIÇÃOS	16321
 Autoridad de Asignación de Nom	16855
 Autres Total Nombre	13390
+Awandjelo PREFECTURE COMMUNE NOMBRE DE CANTONS	19350
 Azoom Nomads	15244
 B NOM DE L'AVANT-DERNIÈRE NUMÉRO	13300
 B-Web Nombre	13390
@@ -73,6 +75,7 @@ CHANGEMENT DE DENOMINATION SOCIALE NOMINATION D’UN	15426
 CHANGEMENT DE NOM PATRONYMIQUE Arrêté	15455
 CHAPITRE PREMIER DE L'IDENTIFICATION NOMINATIVE ET	10813
 CHEF DE NOMINATION DU DIRECTEUR GENERAL	17982
+CI DIRECTIONS NOMBRE DE CONTRIBUABLES ACTIFS	19250
 CM Nombre	3396
 CM2-6ème Nombre	18171
 CODE Indicateur Unité Valeur Nombre	18204
@@ -101,6 +104,7 @@ Catégorie EC IMF EP Total Nombre	13390
 Catégorie Nombre	13390
 Catégorie Nombre Pourcentage Médecins	18105
 Catégorie Sexe Age Nombre	13390
+Centrale PREFECTURE COMMUNE NOMBRE DE CANTONS	19350
 Certificats Internationaux de Transhumance Nombre	3396
 Chairperson Ms. Nomusa Dlamini Dr. Petros	11131
 Chairperson Ms. Odete Sons Ms. Nomusa	11131
@@ -159,6 +163,7 @@ DU TABLEAU MÉNAGE. INSCRIVEZ LE NOM	13300
 Dahabshiil Autres Total Nombre	13390
 Dahabshiil Nombre	13390
 Damaso Nomads	15244
+Date Nom	19226
 Date Nombre	15943
 Deputy Minister Dr. Nomalungelo Gina	6480
 Deputy Minister Nomalungelo Gina	11221
@@ -173,6 +178,7 @@ Dori Nombre	3396
 Dr. Nomalungelo Gina	6480
 Durée Néant Nombre	15583
 Défense PORTANT NOMINATION D’UN HAUT	17861
+Déploiement Nombre	19221
 Développer Nombre	14489
 E GROUPEMENT NAVAL NOMINATION	15744
 E-santé Catégorie Nombre Ayant	18105
@@ -229,6 +235,7 @@ GE INSCRIVEZ LE NOM ET	13300
 GESTÃO DE NOMES DE DOMÍNIO	11531
 GOUVERNANCE ET DU PLAN IDENTIFICATION NOM	13300
 Gestionnaire de Nom	747
+Google Nombre	19221
 Gouvernement Nombre	15580
 Governo Nº Nome Funcionário Ingresso Proposta	15404
 Greeda Nomads	15244
@@ -317,8 +324,10 @@ Journal Officiel Nombre	3396
 Journal PORTANT NOMINATION DE MAGISTRATS	18032
 Journal PORTANT NOMINATION DU DIRECTEUR GENERAL	18032
 KIRUNDI CHEF D'ÉQUIPE NOM NUMÉRO Annexe	13300
+KODA Koffi Nomesi ADC	19251
 Kadugli Nomads	15244
 Kandia Camara. Nommé	6144
+Kara PREFECTURE COMMUNE NOMBRE DE CANTONS	19350
 Kenema Nomo	18464
 Khashm Al-Qirba Nomads	15244
 Kosti Nomads	15244
@@ -347,6 +356,7 @@ Leadership Nombre de Activité	17845
 Les Noms de Domaine	15710
 Libellé Nombre	10975,2349
 Logistique NOMINATION Sous-lieutenant MALALOU MAKAYA	15901
+Lomé Nom Description Prix	19232
 Los Nombres de Dominio	16855
 Lumicash Nombre	13390
 LÉMENTS CLÉS U Nombre	18322
@@ -403,6 +413,7 @@ Mle Prénoms Noms Grade Corps GUINDO	17982
 Mme Guylaine NOMBO	16175
 Mme. Gwladys NOMEWA	16381
 Model Nomenclature	13298
+Mois CPN CPN Nom	19226
 Money Contact Nombre	13390
 Money Gram Nombre	13390
 Monsieur Seydou NOMBRE	15454
@@ -462,7 +473,7 @@ NOM NUMÉRO DE LIGNE DU LIGNE	13300
 NOM POUR DES TESTS DU MINEUR	13300
 NOM. N'EST PAS PUIS DEMANDEZ	13300
 NOMBO	15780,601
-NOMBRE	13300
+NOMBRE	13300,5986
 NOMBRE D'ANNEE D'EXPERIENCE IV.2.1 Public Sexe	10847
 NOMBRE D'ANNEE D'EXPERIENCE IV.2.2 Privé Sexe	10847
 NOMBRE D'ANNEE D'EXPERIENCE IV.2.3 Urbain Sexe	10847
@@ -542,6 +553,7 @@ NOMINATION DU DIRECTEUR NATIONAL DES PORTANT	17982
 NOMINATION Décret	15395,60,69,168,52,36,6,62,191,417
 NOMINATION Département du Kouilou	15786
 NOMINATION ET AFFECTATION	16177
+NOMINATION ET REVOCATION DU COMMISSAIRE AUX	19260
 NOMINATION M. BOSSA	15488
 NOMINATION NOMINATION Arrêté	15901
 NOMINATION NOMINATION Décret	15744
@@ -565,10 +577,14 @@ Nicaise NOMEWA	16099
 Nigeria's Nomba	7015
 Nom Date V.1.0.2 Jean Luc RAZAFINDRAMINTSA	14438
 Nom Date Valideur	14438
+Nom Description Prix	19232
+Nom Email Message Envoyer Edit Template	19252,21
 Nom Fonction D	19150
 Nom Fonction DIANDA Adama Expert	16747
 Nom Objet	14438
 Nom Organisation Titre	14539
+Nom Pratique	19226
+Nom Prénoms Grade Mle Unité	19251
 Nom Structure Email Tél	17983
 Nom Titre	15908
 Nom de Publication Bulletin	17978
@@ -596,7 +612,7 @@ Nomba	391,3664,8284,934,10,404,3098,13
 Nomba's Congo	4055
 Nomba’s DRC	16798
 Nombo	10196
-Nombre	17,402,224,94,10,1,250,189,1155,282,342,430,1063,3196,3192,11,16,2,47,4,38,10,791,178,121,1235,6,18,1,52,13,24,19,19,16,10,22,24,899,56,9,1,1,47,85,777,57,18,1,18,5,2,7,35,15,11,12,3,16,24,1,46,3,12,22,4,1,3,5,2,2,75,49,37,16,7,28,7,22,34,13,25,135,77,46,32,1,298,15,67,147,16,614,339,11,7,2,1,11,4,4,2,1,5,9,1,7,7,17,32,38,31,1,17,45,34,10,1,21,26,1,1,33,82,5,21,4,6,435,231
+Nombre	17,402,224,94,10,1,250,189,1155,282,342,430,1063,3196,3192,11,16,2,47,4,38,10,791,178,121,1235,6,18,1,52,13,24,19,19,16,10,22,24,899,56,9,1,1,47,85,777,57,18,1,18,5,2,7,35,15,11,12,3,16,24,1,46,3,12,22,4,1,3,5,2,2,75,49,37,16,7,28,7,22,34,13,25,135,77,46,32,1,298,15,67,147,16,614,339,11,7,2,1,11,4,4,2,1,5,9,1,7,7,17,32,38,31,1,17,45,34,10,1,21,26,1,1,33,82,5,21,4,6,435,231,232,1,5,24,41,4,43,12
 Nombre Acte CSRéf Activité	17845
 Nombre Actions FCFA	18003
 Nombre Cellule	3396
@@ -627,6 +643,7 @@ Nombre Valeur	643
 Nombre ZD Erreur	737
 Nombre de Accès	643
 Nombre de Avant	14490
+Nombre de BF	19295
 Nombre de CEC	10876,4723
 Nombre de CEC Inactifs	15599
 Nombre de CEC Non	15599
@@ -665,6 +682,7 @@ Nombre de MII1	13300
 Nombre de MPME	11944
 Nombre de MPMEs	15500
 Nombre de MSISDN	15885
+Nombre de Maladies	19350
 Nombre de Ministères	643
 Nombre de Mission	14489
 Nombre de Nombre	18286
@@ -688,6 +706,7 @@ Nombre de Région Masculin Féminin Ensemble	15599
 Nombre de SAEI	15583
 Nombre de SDAGE	3396
 Nombre de SIM	13306
+Nombre de Sanctions	19350
 Nombre de Sensibilisation	14489
 Nombre de TGI	3396
 Nombre de TPE	11944
@@ -697,6 +716,7 @@ Nombre de Valeur	643
 Nombre de ZD Erreur	737
 Nombre de ZDs Nombre	13300
 Nombre de ZDs Taille	13300
+Nombre deDate	19226
 Nombre des Clients BT	15670
 Nombre des Clients HT	15670
 Nombre des Clients MT	15670
@@ -737,7 +757,7 @@ Nomeia	430
 Nomember	16833
 Nomenclatura Nacional de Infraestructuras Críticas	16965
 Nomenclatura Presupuestaria	17282
-Nomenclature	8321,955,1599,3073,1607,165,1396,765,64,27,319
+Nomenclature	8321,955,1599,3073,1607,165,1396,765,64,27,319,1071
 Nomenclature Chapitre	5361
 Nomenclature Libellé Droits	17972
 Nomenclature de Bruxelle OBPE	13377
@@ -766,13 +786,13 @@ Nominal Principal Interest Rates	2775
 Nominal Rebased GDP	18483
 Nominal and Real Interest Rates	2775
 Nominate	10960
-Nominated	10313
+Nominated	10313,8932
 Nominated Member	12930
 Nominated Members of Parliament	13399
 Nominated Senator Catherine Mumma	6160
 Nominated Senator Miraj Abdillahi	8214
 Nominated Subcontractors	1638
-Nomination	2342,6549,2290,1899,15,280,1487,533,31,13,16,10,23,1,35,34,57,45,32,52,36,6,62,53,138,61,77,97,93,46,12,31,180,71,696,1056
+Nomination	2342,6549,2290,1899,15,280,1487,533,31,13,16,10,23,1,35,34,57,45,32,52,36,6,62,53,138,61,77,97,93,46,12,31,180,71,696,1056,759,42
 Nomination Au	15615
 Nomination Committee	585,8281,641,407,461,1448
 Nomination Committee Rationale This Article	8866
@@ -822,6 +842,7 @@ Nomzamo Zondi	5806,6240
 Non Nombre	748
 Non-résidents Catégorie Sexe Nombre Montant Nombre	13390
 Number of Shares No. Institution Nominal	14546
+Numéros Traitement ARV Entrée Nom	19226
 Nº DE ASS. NOME CATEGORIA Published	18845
 N’importe Nombre	13300
 O Serviços de Nomeação de Domínio O DNS	18774
@@ -937,6 +958,7 @@ Paiements Nombre	4459
 Par Jean Pascal Mongo-Slyhm Nommée	16403
 Partenaires de Nom	13433
 Partie Titre Nomenclature LFR	4420
+Parties du RMA Nombre	19226
 Partners NOM UNIT ROLE Bakary FATY	18309
 Patrick Henri NOMBO	16099
 Personnels Responsables Fonctions Noms Contacts	14425
@@ -945,12 +967,14 @@ Plan Nacional de Asignación de Nombres de Domi	16855
 Plan Nacional de Nombres de Dominio de Internet	16855
 Plan Nombre de TII	3396
 Plan de Travail Annuel Nombre	15999
+Plateaux NOMBRE DE CHEF LIEU	19350
 Pointe-Noire Zone Nombre	15799
 Pointe-Noire. NOMINATION DANS LES ORDRES NATIONAUX	15780
 Population Unit Nombulelo Dlamini	13047
 Pourcentage Effectif Nombre Effectif	13300
 Pourcentage Effectif de Nombre Effectif	13300
 Pourcentage Nombre	13300
+Prepaid Nombre	19338
 Primature Nombre	17824
 Privé Nb Nb Nombre	10847
 Privé Nombre	10847
@@ -1018,6 +1042,7 @@ SIGRH Identification des Nombre	17872
 SIGRH Nombre	17872
 SNEEG Nombre	18286
 SNFI OBJECTIF INDICATEURS STRATEGIQUE Nombre	10965
+SNOMED CT Systematized Nomenclature of Medicine	19284
 SNOMED CT Systematized Nomenclature of Medicine Clinical	18478
 SOCIALE NOMINATION Arrêté	15465,991
 SOKUDLULISELA EGAMENI LOMUNYE NOMA SOKUGUQULWA SELAYISENSI	11573
@@ -1031,6 +1056,7 @@ SUR LA COOPERATIVE Nombre	13390
 Sangha. NOMINATION L’intéressé	15395
 Santé Nombre	3396
 Santé Pu- Nombre	13306
+Savanes PREFECTURE COMMUNE NOMBRE DE CANTONS	19350
 Scope NA Type Nominal	7221
 Scope NA Type Nominal Refers	7221
 Scope Subsystem Type Nominal	7221
@@ -1042,7 +1068,8 @@ Scope System Type Nominal Distinguishes	7221
 Scope System Type Nominal Indicates	7221
 Search and Nomination	18553
 Sections Foncières Nombre	10876
-Sections Nombre	10876
+Sections Nombre	10876,8350
+Sexe Diabète HTA Noma N	19226
 Sexe Nombre	10847
 Shendi Al-Matama Nomads	15244
 Signature Autorisée Nom	15399
@@ -1057,6 +1084,7 @@ State Locality Urban Rural Nomad Refugees	15244
 Statistique Nombre	15580
 Sudan Urban Rural Nomads IDPs Mode	15244
 Supérieur Total Effectif Nombre	13300
+Systematized Nomenclature of Medicine	19284
 Systematized Nomenclature of Medicine SPIVTEN	15720
 Sécurité Nombre	3396
 TABLEAU MÉNAGE. NOM	13300
@@ -1067,6 +1095,7 @@ TMIJ NOMBRE DE DECES DES MOINS	17843
 TN Asset Management Nominees	4896
 TOT TOT AL AL Nombre	13390
 TPE Nombre	4459
+TYPE DE PRESTATION NOMBRE Emissions	19250
 Tableau A.4 Nombre	13300
 Tableau C.16 Nombre	18312
 Tanzanie Nombre	13414
@@ -1076,6 +1105,7 @@ Taux de Régions Nombre de CEC	15599
 Taxa Anual Nominal Bruta	16122
 Technology Nominal Capacity	11953
 Technology and Innovation Dr Nomalungelo Gina	6480
+Togo NOM DU PROJET	19253
 Tolus Nomads	15244
 Turma N.º Nome Idade Contacto	16325
 Turma Trimestre Grupo N.º Nome	16325
@@ -1099,6 +1129,7 @@ V.3.4 Urbain Nb Nb Nombre	10847
 V.3.5 Rural Nb Nb Nombre	10847
 VARIATION VARIATION NOMBRE DE VOLUME DES	4459
 VERBAL SYSTEM NOMINAL SYSTEM	18099
+VERIFIABLES NOMBRE DE CONTRÔLES ENGAGES TAUX	19250
 VI.3.1 Public Nombre	10847
 VI.3.2 Privé Nombre	10847
 VIII EVOLUÇÃO DO STOCK NOMINAL	18798

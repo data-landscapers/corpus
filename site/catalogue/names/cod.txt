@@ -72,7 +72,7 @@ Authentication Code and QR Code	13606
 Authentication Code and QR Codes. Security	13606
 Authority’s Event CPD Code	13381
 Avatar of CodeGrogu	12478
-Avr. Code	8673
+Avr. Code	8673,10601
 B CODES POUR Q	13300
 B Review of Advertising Code	16884
 B' CODE	13300
@@ -119,10 +119,12 @@ CAR Central African Republic CDMA Code	16942
 CARTES ANNEXE-3. CODE DE CONDUITE POUR	14490
 CBE Code of Conduct	11134
 CDMA Code	12911
+CDMA Code-division	19350
 CECABU MICROFINANCE URUNANI CODEM FINANCE S.A	13390
 CEDEAO. Codes	18315
 CEMAC Customs Code	16298,674
 CEMAC-CEEAC Customs Code	16298
+CGI Code	19250
 CGI Code Générale des Impôts	14437
 CHAMP D’APPLICATION DU CODE DES MARCHES	17982
 CHINA CODAN TQJ350M Station Relais HF	998
@@ -218,6 +220,7 @@ CODIGO LABS LTD Data Processor INST-592007550EC	7167
 CODINORM	3376,12560
 CODIPOST	15936
 CODIR	15685
+CODIV-19	19216
 CODIWhatMatters.pdf	16902
 CODM EBITDA	10793
 CODM EBITDA Gain	10793
@@ -283,7 +286,7 @@ Climate Change Funds CDMA Code Division	2775
 CoC Code of Conduct COVID-19 Coronavirus Disease	15515
 CoD-dominant	8076
 CoDevelop	4431
-CoDir	10876
+CoDir	10876,8374
 CoDir Septembre N	10876
 Codafis	4209
 Codage	4742
@@ -291,9 +294,13 @@ Codar	7395
 Code Act	1988
 Code Amateurs	12478
 Code Aster Impact Z88	9475
+Code Axes	19216
 Code Bamako	17817
 Code Barre	13375
+Code Bénino	19241
+Code Bénino-Togolais	19241
 Code CAD	13325,2171
+Code CAD Description	19220
 Code CHAPITRE	17817
 Code CIMA	16031
 Code CPV	8643
@@ -335,7 +342,7 @@ Code For Africa	6055
 Code Général	15361,686,1770,421
 Code Général des Collectivités Territoriales	18096
 Code Général des Collectivités Territoriales Décentralisées	10981,4488,726
-Code Général des Impôts	4420,147,1889,4256,266,2794,1577,184,264,202,21,308,1489,23,431,702
+Code Général des Impôts	4420,147,1889,4256,266,2794,1577,184,264,202,21,308,1489,23,431,702,350
 Code Général des Impôts. Article	15418
 Code Général des Impôts. La Taxe de Soutien	3045,12712
 Code Général des Impôts. Sont	18271
@@ -429,6 +436,7 @@ Code de Prévoyance Sociale. Populations	17817
 Code de Prévoyance du Guichet Unique	17817
 Code de Réalisée Le Code de Déontologie DPFP	17872
 Code de Réseau du WAPP	18322
+Code de Sécurité Sociale	19284
 Code de Transparence	10981,7346
 Code de Travail	14424
 Code des ARRETE	17817
@@ -582,29 +590,102 @@ Code-de-la-presse-version-officielle-du-JO.pdf Author	18288
 Code-des-Investissements-2025-FR.pdf	17898
 Code-switching	11163
 Code. ARTICLE	13809,4089
+Code. Acetitre	19212
 Code. Although the Authority	6946
 Code. Anti-corruption	17114
+Code. Art.103	19212
+Code. Art.321	19212
+Code. Art.407	19212
+Code. Art.427	19212
+Code. Art.719	19212
 Code. Article	4420,11627,2049,192,44
 Code. Articles	15999
 Code. B- MESURES REBATIVES	15999
 Code. Cette	18288
+Code. Chapitre	19212
 Code. Chapitre II.- Définitions Article	18288
 Code. Désormais	3267
 Code. En	18288,44
 Code. Faute	18288
-Code. Il	18332
+Code. Il	18332,880
 Code. L. MESURES DE SOUTIEN	15999
 Code. LIVRE DEUXIEME LIVRE DES PROCEDURES	15999
+Code. Lorsqu’une	19212
 Code. L’Assemblée	18288
 Code. L’autorisation	18288
 Code. Other Levies	17011
 Code. Peuvent	17898
 Code. Pour	15999,1899
+Code. Procès	19212
 Code. Second	13963
-Code. Section	18288
+Code. Section	18288,924
 Code. Société	17898
+Code. Sous	19212
 Code. The MPC	14744
+Code. Titre	19212
+Code.2	19212
+Code.A	19212
+Code.Achaquetitredivissontannexés	19212
+Code.Art.100	19212
+Code.Art.113	19212
+Code.Art.115	19212
+Code.Art.116	19212
+Code.Art.118	19212
+Code.Art.120	19212
+Code.Art.128	19212
+Code.Art.183	19212
+Code.Art.209	19212
+Code.Art.211	19212
+Code.Art.219	19212
+Code.Art.230	19212
+Code.Art.24	19212
+Code.Art.264	19212
+Code.Art.279	19212
+Code.Art.28	19212
+Code.Art.293	19212
+Code.Art.313	19212
+Code.Art.324	19212
+Code.Art.334	19212
+Code.Art.358	19212
+Code.Art.393	19212
+Code.Art.399	19212
+Code.Art.408	19212
+Code.Art.414	19212
+Code.Art.451	19212
+Code.Art.459	19212
+Code.Art.476	19212
+Code.Art.55	19212
+Code.Art.551	19212
+Code.Art.659	19212
+Code.Art.68	19212
+Code.Art.687	19212
+Code.Art.699	19212
+Code.Art.70	19212
+Code.Art.718	19212
+Code.Art.720	19212
+Code.Art.723	19212
+Code.Art.97	19212
+Code.Cette	19212
+Code.Dans	19212
+Code.Danslecasoùlesyndicatdécideraitlareconstruction	19212
+Code.Danstouslescas	19212
+Code.Ellenepeutenoutre	19212
+Code.Ellepeut	19212
+Code.En	19212
+Code.La	19212
+Code.Les	19212
+Code.Lespropriétairesdes	19212
+Code.Lesterresruralescomprennent	19212
+Code.Lorsqu’il	19212
+Code.L’Etatpeutlesattribuerauxcollectivités	19212
+Code.L’assemblée	19212
+Code.Mention	19212
+Code.Néanmoins	19212
 Code.PDF	16110
+Code.Passécedélai	19212
+Code.Si	19212
+Code.Touteconventioncontraireestnulle.Art.401	19212
+Code.Toutefois	19212
 Code.ai	3527
 CodeForAfrica	6055
 CodeGrogu	12478
@@ -613,14 +694,33 @@ CodeLoccol	3395
 CodeQL	11922
 CodeWithSilas	12478
 Codebook	7221,1215,7279
+Codeconformémentàl’intérêtgénéral	19212
 Coded	11156
+Codedanslebénéficedecettehypothèque	19212
+Codeestpuniedespeinesdel’article493	19212
+Codeetdes	19212
+Codeetdestextesenvigueur	19212
+Codeetlestextesspécifiquesenvigueur.Art.616	19212
+Codeetsestextesd’application.Art.553	19212
+Codeetuncertificatd’inscriptionestremis	19212
 Codemao	16227
 Codenroll Privacy	11539
+Codeou	19212
+Codepeutservir. Art.695	19212
+Codepourdépensesetfraisexceptionnels	19212
+Codepourlavaliditédesditsdroitsàl’égarddestiers	19212
+Codepourl’adoptiondesdécretsd’application.Art.724	19212
+Codepourl’exercicedesmissionsdéfiniesàcetarticle.Art.114	19212
+Codepénal. Art.713	19212
+Codepénal. Sous	19212
+Codepénalensesarticles756à764.Les	19212
+Codepénalpouratteinteauxécritspublics	19212
 Coder	12478
+Coder Débugger Déployer Documenter Tester EXEMPLE	19221
 Coders Eswatini	4866,2821,4776,660,4469
 Coders and AI Practioners	4866
 CodersEswatini	11667
-Codes	961,11,1109,1806,567,1,1,676,1562,252,332,3902,55,1416,681,740,416,1,1,161,76,644,4,34,19,36,69,64,2,15,67,22,75,242,958,1005,326,23,144,440
+Codes	961,11,1109,1806,567,1,1,676,1562,252,332,3902,55,1416,681,740,416,1,1,161,76,644,4,34,19,36,69,64,2,15,67,22,75,242,958,1005,326,23,144,440,334
 Codes Add	8603
 Codes Headings	16927
 Codes MFP Mutuelle	13306
@@ -640,6 +740,9 @@ Codes of Conduct for Responsible Use	6432
 Codes of Conduct. PART VIII MISCELLANEOUS PROVISIONS	12929
 Codes of Practice	8692,6035
 Codes of Practice and Guidelines	14727
+Codesontappliquées.Art.716	19212
+Codesontrépartiesdelamanièresuivante	19212
+Codesontsoumisesaurégimeci	19212
 Codeurs	17856
 Codeurs Mali	17856
 Codevelop Fund	12366
@@ -797,8 +900,9 @@ Development of Digitally Signed QR Code and Digital	12241,839
 Dialogue Terms of Reference Structured Dialogue Code	17403
 Digit Short Codes	6946
 Digital Address Code	16915
-Digital Code	1839,1314,40,411,281,68,251,125,254,511,313,18,475,4174,782,1024,26,12,1944,15,10,33,6,1771,447
+Digital Code	1839,1314,40,411,281,68,251,125,254,511,313,18,475,4174,782,1024,26,12,1944,15,10,33,6,1771,447,3101
 Digital Code Act	2679
+Digital Code Frequency Annual Data	19245
 Digital Code Law	11880
 Digital Code. Electronic	11880
 Digital Code. Security	11880
@@ -857,7 +961,7 @@ EXCEPTIONAL CODES TARIFF PER TRANSACTION PRICING	16844
 Earthworks Price Code	13385
 Egypt National AI Regulatory System Code	15713
 Egyptian Civil Code	15473
-Electoral Code	6122,6079
+Electoral Code	6122,6079,7033
 Electoral Code Art	2859
 Electoral Code of Conduct	6907,4169,1576
 Electricity Code	15659
@@ -1033,6 +1137,7 @@ IV-21 du Code	14483
 Implement the WE Finance Code Plan Lead	15130
 Indian Bankruptcy Code	18543
 Individual Code of Conduct	12253,4861
+Individuals and Family Code	19234
 Industrial Classification Code	14891
 Industrial Property Code	12161
 Industrie NA Codex Stan	16103
@@ -1094,9 +1199,10 @@ LINKS TO SECTORAL DAC CODES	970
 LMIS- Adopted the Automated Therapeutic Coding System	16971
 LOW CODES TARIFF PER TRANSACTION PRICING	16844
 LTA. Country Code	16934
-Labor Code	10841,7529,427
+Labor Code	10841,7529,427,448
 Labour Code	10841,1059,261
 Labour Code and Electronic Transactions Law	12161
+Land Code	19214
 Land Registry and Notary Codes	18825
 Le Code	3267,5054,2553,1,1,1056,167,1343,266,76,2009,6,1864,100,131,428,594
 Le Code CIMA	10965
@@ -1133,6 +1239,7 @@ L’INTERPRÉTATION OU L’APPLICATION DU CODE DES	17898
 L’UIT SUR LES INDIVIDUELS CODE Indicateur	18204
 L’UIT SUR LES MENAGES CODE Indicateur	18204
 L’adoption du Code Général des Impôts	17872
+L’annexe TVA du Code	19291
 M UI CODE DCI DENOMINATION COMMUNE	15930
 M. Codioro Moussa N’Guenore	18081
 M. Codioro Moussa N’Guénore	17667
@@ -1290,13 +1397,14 @@ PORTANT CODE DES	17829
 PORTANT CODE DU NUMERIQUE	15584
 PORTANT CODE ELECTORAL CODE ELECTORAL MODIFIEE	15350
 PORTANT CODE GENERAL DES COLLECTIVITES TERRITORIALES	15469
+POUR TOUTE UTILISATION D’UN CODE ADDITIONNEL	19256
 PRELUDE The Penal Code	13963
 PRODIGY CODE DE CONDUITE PRODIGY INTRODUCTION	14424
 PROJECT NAME AND SAP CODE	11863,2075
 PROV NET Code	18032
 PUBLICS. Code	17812
 Parliamentary Service Code of Conduct	19161
-Penal Code	3583,1060,475,304,1548,303,2943,317,446,874,348,93,746,699,224,22,56,5,27,76,1,711,1,145,224,162,1442,1115,648,288,2,32,253
+Penal Code	3583,1060,475,304,1548,303,2943,317,446,874,348,93,746,699,224,22,56,5,27,76,1,711,1,145,224,162,1442,1115,648,288,2,32,253,192
 Penal Code Act	1535,3887,7981
 Penal Code Cap	11857,596,892
 Penal Code Chapter	1988
@@ -1305,6 +1413,7 @@ Penal Code Republic Information	12201
 Penal Code of Eritrea	13954
 Per the Djiboutian Nationality Code	13938
 Personal Status Code	17970
+Persons and Family Code	19245
 Petroleum Code	10841
 PforR. Labor Code	18370
 Plus Code	4118,14330
@@ -1342,10 +1451,11 @@ Proyecto Comisión Nacional de Codificación	4209
 Public Awareness of AI Development Code E-I17-1	15713
 Public Procurement Code	11905,3613
 Public Procurement Code. Single Investment Window	11939
+Public Procurement and Public Service Delegation Code	19365
 Publicity Code	12294
 Purpose and Scope This Code of Conduct	6432
 QR CODE	13123,2502
-QR Code	3033,1426,977,304,1354,408,826,1,28,298,218,300,4,1078,259,174,23,39,6,60,318,1871,47,461,809,27,131,261,3,537,214,471,56,226,22,1014,344,1562
+QR Code	3033,1426,977,304,1354,408,826,1,28,298,218,300,4,1078,259,174,23,39,6,60,318,1871,47,461,809,27,131,261,3,537,214,471,56,226,22,1014,344,1562,54
 QR Code Awareness	19007
 QR Code Communautaire. URL	19190
 QR Code GIMACPAY	4208
@@ -1367,6 +1477,7 @@ QUESTIONS ET FILTRES CODES PASSEZ	13300
 Qr Code	7269
 Quick Response Code Indonesian Standard	11994
 R NA Codes	16103
+R3 Modernisation du Code du Travail	19221
 RCP Adopted Codex Recommended Code of Practice	16900
 RDGE Pamphile CODO	13885
 RECORDS AND CODE OF PRACTICE	16832
@@ -1426,6 +1537,7 @@ Régime des Zones Franches du Code des Investissements	17817
 République du Congo CODE LIBELLE PREVISIONS	16047
 République du Congo Code	15901,146
 République du Niger. Le Code Général des Collectivités	18096
+Réviser le Code	19250
 Révision Codex STAN	16103
 Révision NA Codex	16103
 Révision du Code	13334
@@ -1530,7 +1642,7 @@ TTC Type TTC Code Default Range	12364
 Tagged COD	3117,2041,678
 Tags Numérique République du Congo Codage Partager	16227
 Tarpaulins Price Code	13385
-Tax Code	16972
+Tax Code	16972,2393
 Tax Codes	10762
 Tax Procedures Code	6121,8363
 Tax Procedures Code Act	10202,4160,122
@@ -1546,7 +1658,11 @@ Theme Code	16614,2140
 Time Security Code	14784
 Title Chapter Extent of Repeal Criminal Code	11857
 Title VI of Penal Code Act No	13331
+Tog182170.pdf Togo Code	19212
 Togo Clean Technology Hubs Nigeria Codetrain	15460
+Togo Code	19212
+Togo Code. Il	19212
+Togolese. The Press Code	19365
 Tone Code	736
 Tone Code Frequerr	736
 Trade Facilitation The CEMAC Customs Code	16972

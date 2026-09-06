@@ -155,6 +155,7 @@ Central Investigation Division	11823
 Central Monitoring and Evaluation Division	12240
 Centres Divisionnaires des Impôts	6163
 Certificate of Divorce	12333
+Chef Division Protection Juridique	19252
 Chef de Division	15542,2285,3,69
 Chef de Division Administrateur	17827
 Chef de Division Chercheur	17827
@@ -231,8 +232,9 @@ DE LA DIVERSIFICATION ECONOMIQUE Agrément	15848
 DE LA DIVERSIFICATION ECONOMIQUE NOMINATION Arrêté	15524
 DE MODIFICATIONS DIVERSES ET DE RADIATIONS	16249
 DEFENCE AND HOME AFFAIRS DIVISION	14778
-DES DISPOSITIONS DIVERSES	113,1688,9165,4618,59
+DES DISPOSITIONS DIVERSES	113,1688,9165,4618,59,3582
 DES DISPOSITIONS DIVERSES Article	13293
+DES DISPOSITIONS DIVERSES ET FINALES Art	19235,16
 DES DISPOSITIONS DIVERSES ET FINALES Article	15383,637
 DES DISPOSITIONS DIVERSES ET FINALES IGICE	13303
 DES DISPOSITIONS DIVERSES ET Le Trésor	17817
@@ -249,12 +251,14 @@ DISPOSITIONS DIVERSES Art	15863
 DISPOSITIONS DIVERSES Article	15126,224,45
 DISPOSITIONS DIVERSES ET	17833,66
 DISPOSITIONS DIVERSES ET FINALES	15488,256,42
-DISPOSITIONS DIVERSES ET FINALES Article	1186,13675,2,7,49,435,66,6,5,8,69,80,24,168,68,1967,84,14,1093
+DISPOSITIONS DIVERSES ET FINALES Art	19209,32
+DISPOSITIONS DIVERSES ET FINALES Article	1186,13675,2,7,49,435,66,6,5,8,69,80,24,168,68,1967,84,14,1093,254
 DISPOSITIONS DIVERSES ET FINALES Ingingo	14863
 DISPOSITIONS DIVERSES ET FINALES M. NKOUA	15660
 DISPOSITIONS DIVERSES ET FINALES UMUTWE WA	14861
 DISPOSITIONS DIVERSES ET FINALES. Article	15416
 DISPOSITIONS DIVERSES PRATIQUES ET DES ORGANISMES	16177
+DISPOSITIONS ET DIVERSES Art	19209
 DISPOSIÇÕES DIVERSAS	13,11569
 DIV. COMMANDER METRO DIVISION	14760
 DIV.COM	15970
@@ -268,11 +272,12 @@ DIVE HEALTHCARE LIMITED Data Processor INST-4664582467F	7167
 DIVEII.S	15399
 DIVERGENCES FROM THE RELEASE	9144
 DIVERS	2808,237,12354,393
+DIVERS Article	19260
 DIVERS PRIVES	2342
 DIVERS PRIVÉS	2342
 DIVERSES	15397
 DIVERSES ET FINALES	15558
-DIVERSES ET FINALES Article	15692,88
+DIVERSES ET FINALES Article	15692,88,3480
 DIVERSES ET FINALES Chapitre	15558
 DIVERSES ET FINALES TITRE	15727
 DIVERSES ET FINALES Vu	15439
@@ -326,6 +331,8 @@ DIVORCÉ	13300
 DIVORCÉE	13300
 DIVT Labour	12972
 DIVULGATION ET PUBLICATION D’une	15901
+DRH Division	19216
+DSNISI National Health Information System Division	19284
 DSU Lead Div	14781
 Daniel Dulitzky Division Director	11417,3559,162,52
 Data Analytics Division	11134
@@ -343,7 +350,7 @@ Demographic Dividend	7337,8929,1668
 Demographic Dividend. Issues	12962
 Demographic Dividends	11855
 Demographic and Vital Statistics Division	12962
-Dense Wavelength Division Multiplexing	7014,22,6276,2,353,2878
+Dense Wavelength Division Multiplexing	7014,22,6276,2,353,2878,2687
 Depto de Fiscalização da Divisão de Regulação	2784
 Deputy Division Chief	14777
 Development Finance Division’s Credit Guarantee Scheme	11134
@@ -370,6 +377,7 @@ Digital Gender Divide	12241
 Digital Health Division	12240,920
 Digital Health Division. The Directorate	12240
 Digital Infrastructure Bridging the Digital Divide	11243
+Direction des Services Législatifs'1Z Divi	19228
 Director Poverty Reduction and Social Protection Division	12980
 Director da Divisão de Governação Digital	2816
 Director da Divisão de Licenciamento	12791
@@ -377,9 +385,11 @@ Director da Divisão de Segurança Cibernética	2784,32
 Director of Agriculture and Environment Division	13896
 Director of Monitoring and Evaluation Division	12978
 Disaster Risk Management Division	11721
+Dispositif Intra Utérin DivER	19226
 Distribution Is the Real Divide	10078
 District de Divenié	15615
 Div. F	11005
+DivER	19226
 Diva Building	14817
 Divakar	9129
 Divali	7845
@@ -399,7 +409,7 @@ Diverging	10954
 Diverging Paths North America	4972
 Divergências	7080
 Diverisifer	5022
-Divers	2342,466,237,10280,1212,889,213,118,566,1709,254,36,128,91
+Divers	2342,466,237,10280,1212,889,213,118,566,1709,254,36,128,91,671
 Divers IEPS	13377
 Divers Intérêts	18032
 Divers Le Conseil des Ministres	13445
@@ -428,7 +438,7 @@ Diversification and Cooperation	16996
 Diversification for Job Creation	17101
 Diversificação	10758,672,4254
 Diversificação Económica	11440,1,1
-Diversified	395,4852,8668,23,1059,98
+Diversified	395,4852,8668,23,1059,98,4164
 Diversified Economy	12399,3584
 Diversified Economy This CEPA	12026
 Diversified Equity Landscape	4722
@@ -501,7 +511,7 @@ Divine Selase Agbeti	2824,4112,1812,148,51,5744,7
 Diving	12339
 Divisas	18800
 Diviser	18988
-Division	970,844,60,1,398,2623,1936,89,2129,974,802,14,12,22,91,13,151,23,36,402,49,47,226,264,64,126,9,6,64,8,215,259,20,15,2,78,11,44,211,14,13,10,37,1052,308,82,11,8,580,55,91,30,145,17,260,174,55,378,3,332,10,38,146,117,167,5,2,379,21,33,7,14,13,194,5,55,122,6,5,64,4,66,52,12,56,325,68,94
+Division	970,844,60,1,398,2623,1936,89,2129,974,802,14,12,22,91,13,151,23,36,402,49,47,226,264,64,126,9,6,64,8,215,259,20,15,2,78,11,44,211,14,13,10,37,1052,308,82,11,8,580,55,91,30,145,17,260,174,55,378,3,332,10,38,146,117,167,5,2,379,21,33,7,14,13,194,5,55,122,6,5,64,4,66,52,12,56,325,68,94,183,24
 Division Administrative	18169
 Division Afrique	10708
 Division Appui Conseil	17872
@@ -581,11 +591,13 @@ Division des Statistiques	15351,2818,122,11
 Division des Statistiques Générales Missions	17446
 Division des Statistiques Sociales	18169
 Division des Systèmes	18169
+Division des Séances	19208
 Division du Cadastre	16611
 Division du Matériel	18169
 Division du Recensement	17446
 Division du Recensement Economique	17446
 Division du Système	18291
+Division du Système National	19284
 Division for Disability and Marginalised Communities	13033
 Division for Public Institutions and Digital Government	10840
 Division for Substance Abuse Prevention	18937
@@ -708,7 +720,7 @@ Divulgação de Cursos	2816
 Divulgação de Informações	11368
 Divulgação de Riscos de Segurança da IA Crítica	3519
 Divulgolion	15429
-Divulguer	14425,1483
+Divulguer	14425,1483,3453
 Divundu	10148
 Divundu Combined School A Divundu Combined	13046
 Divya Mathew Associate Director of Policy Analysis	7590
@@ -1101,6 +1113,7 @@ MARIAGES ET DES DIVORCES Article	15502
 MARRIAGE AND DIVORCE FACT SHEET.pdf	12471
 MARRIAGES AND DIVORCES	13644
 MATRIMONIOS Y DIVORCIOS En	16962
+MENTD Public Procurement Division	19245
 MFPD Macro Fiscal Policy Division MoPED	18488
 MHAISS. Divorces	12367
 MISE A LA RETRAITE ET DIVERS	4420
@@ -1186,6 +1199,7 @@ National Coordinator Electronic Government Division	12360
 National Diagnostics Division	17365
 National Dividend	14852
 National Guidance and Religious Affairs Division	13387
+National Health Information System Division	19284
 National Health Promotion Division	16971
 National Health Promotion Division Health	16971
 National Preventive Mechanism Division	14742,97
@@ -1201,6 +1215,7 @@ Northern Division	12668
 Northern Division. Feasibility	12668
 Northern Local Division	12920
 Numbers Behind The Divide	9648
+Nutrition Division	19284
 OFFICE OF THE OMBUDSMAN DIVISION HUMAN	13097
 OPERATIONS COURANTES DIVERSES	17485
 OPERATIONS EN CAPITAL DIVERSES	17485
@@ -1344,6 +1359,7 @@ Rural-Urban Digital Divide Still Poses	6832
 Rural-Urban Divide and Absolute Burden	15244
 Rural-Urban-Camp Divide for Refugees	10841
 République du Niger''. Outre le Général de Division Toumba	18216
+Réseaux Divers	19209
 Réseaux Divers Réserves	15542
 Réseaux Divers WC	18118
 S Where Pref Div	3714
@@ -1476,6 +1492,7 @@ Transformation and Modernization Division	17011
 Trina Haque Acting Division Director	16384
 Trina S. Haque Acting Division Director	16187
 Trina S. Haque Division Director	15743,39
+Trina S. Haque Marie-Chantal Uwanyiligira Division	19284
 Técnico da Divisão de Licenciamento	2816
 UN DESA Division for Public Institutions and Digital	11894
 UN DESA Statistics Division	8546
@@ -1537,6 +1554,7 @@ World Bank Division Director for Benin	16443
 World Bank Division Director for Eswatini	3373,1162
 World Bank Division Director for Ethiopia	14092
 World Bank Division Director for Kenya	14195,447
+World Bank’s Division Director for Togo	19284
 X Cleaner DIVISION INVESTIGATION	13097
 X Snr Social Worker DIVISION MANAGEMENT	13097
 Youth Divide	14054

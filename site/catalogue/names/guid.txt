@@ -299,6 +299,7 @@ Disclaimer This Guide	12676
 Disponibilité de Guide	14489,1
 Distributed Cloud Partner Validation Guide	4434
 District Code Guide	16604
+Documentation Guide	19362,5
 Download Free Overview Get the Full Guide	5715
 Download Free OverviewGet the Full Guide Receive	5715
 Draft Comprehensive Guidelines	12675
@@ -308,6 +309,7 @@ Draft Guidelines	8485
 Draft ODPC Guidance	8900
 Draft Per Unit Cost Guide	15659
 Draft Satellite Communications Guidelines	17191
+Drafting Guidelines	19214
 Drafting Policies and Ethical Guidelines	12356
 E- Waste Management Guidelines	12453
 E-Band and Satellite Licensing Guidelines	13558
@@ -497,12 +499,13 @@ Guidam	9281
 Guidan Fasaha	3337,4,210,1106,156,1146,1205,210,10803
 Guidan Kadji	18125
 Guidan Roumdji	18105
-Guidance	789,454,18,553,1002,1045,310,1494,155,2481,822,627,407,662,372,78,687,271,5,69,58,678,3,18,327,3,30,50,299,757,273,47,63,120,1525,300,48,240,17,640,760
+Guidance	789,454,18,553,1002,1045,310,1494,155,2481,822,627,407,662,372,78,687,271,5,69,58,678,3,18,327,3,30,50,299,757,273,47,63,120,1525,300,48,240,17,640,760,688
 Guidance Document. Paragraph	5872
 Guidance Maintained	3898
 Guidance Manual	15659
 Guidance Note	1630,1243,6490,1351,105,178,136,109,1059,1,790,1009,423,150,490,1703,35,635
 Guidance Note and Assessment Tool	11133
+Guidance Note and Assessment Tool. Social	19237
 Guidance Note for Digital Credit Providers	12301
 Guidance Note. World Bank Group	11007
 Guidance Notes	14844
@@ -521,7 +524,7 @@ Guidance for Generative AI	1814
 Guidance for Other Countries Considering Similar Offers	17695
 Guidance for Policymakers	6948
 Guidance for Use This Standard	16900
-Guide	748,1,438,61,455,111,170,974,17,1467,921,2185,1125,394,339,75,676,80,236,245,46,78,133,31,1,10,112,147,10,12,563,139,143,110,201,222,699,6,4,1049,2,186,44,4,114,1,27,6,21,93,11,544,55,13,25,51,84,9,177,33,100,69,109,306,204,141,4,33,22,4,91,444,369,12,29,1,10,24,39,70,106,170,18,91,2,1
+Guide	748,1,438,61,455,111,170,974,17,1467,921,2185,1125,394,339,75,676,80,236,245,46,78,133,31,1,10,112,147,10,12,563,139,143,110,201,222,699,6,4,1049,2,186,44,4,114,1,27,6,21,93,11,544,55,13,25,51,84,9,177,33,100,69,109,306,204,141,4,33,22,4,91,444,369,12,29,1,10,24,39,70,106,170,18,91,2,1,871,64,24,5
 Guide Alimentaire	15500
 Guide DCM du Trésor Arrêté	18015
 Guide Defines Best Practices for Electronic	3907
@@ -540,8 +543,10 @@ Guide Non	17872
 Guide OMS	15685
 Guide Section VII	13185
 Guide Technique	18428
+Guide architecture national	19362,5
 Guide de Passation des Marchés	15901
 Guide de Remplissage	18911
+Guide de Reporting	19295
 Guide des Meilleures Pratiques	18428
 Guide du Système	18309
 Guide for AI Governance	16212
@@ -584,7 +589,7 @@ Guideline. Government Institutions	5665
 Guideline. Non	5665
 Guideline. Software Certification Renewal Software	5665
 Guideline. Such	17537
-Guidelines	34,553,131,181,62,1,38,204,39,21,613,111,359,380,162,24,691,522,457,530,563,2,1,8,481,20,244,4,103,253,136,18,135,123,268,76,215,538,135,93,61,96,137,3,91,5,187,14,114,618,551,1,316,6,39,3,48,3,7,12,209,79,4,1,1,20,1,84,29,80,68,108,82,247,1,2,3,1,5,58,28,8,33,7,241,14,46,59,29,1,63,6,45,34,4,55,19,301,1,1,30,10,45,1,31,3,1,20,20,15,215,11,10,1,20,29,22,58,13,3,7,82,875,124,1,157,4,9,9,67,12,11,44,68,18,62,7,68,270,39,107,140,1,2,52,188,243,68,631,5,4,1,19,6,7,4,11,8,28,13,26,42,1,96,66,7,4,52,17,70,620,248,111,61,4,70,17,6,6,15,12,41,2,13,39,66,226
+Guidelines	34,553,131,181,62,1,38,204,39,21,613,111,359,380,162,24,691,522,457,530,563,2,1,8,481,20,244,4,103,253,136,18,135,123,268,76,215,538,135,93,61,96,137,3,91,5,187,14,114,618,551,1,316,6,39,3,48,3,7,12,209,79,4,1,1,20,1,84,29,80,68,108,82,247,1,2,3,1,5,58,28,8,33,7,241,14,46,59,29,1,63,6,45,34,4,55,19,301,1,1,30,10,45,1,31,3,1,20,20,15,215,11,10,1,20,29,22,58,13,3,7,82,875,124,1,157,4,9,9,67,12,11,44,68,18,62,7,68,270,39,107,140,1,2,52,188,243,68,631,5,4,1,19,6,7,4,11,8,28,13,26,42,1,96,66,7,4,52,17,70,620,248,111,61,4,70,17,6,6,15,12,41,2,13,39,66,226,358
 Guidelines Actor Requirements	6432
 Guidelines Advocacy	15604
 Guidelines Article	12616
@@ -669,9 +674,9 @@ Guidelines. Software	5665
 Guidelines. Step	13381
 Guidelines. Transparency and Documentation Transparency	14565
 Guidelines.pdf	2677
-Guider	3412,7563,3562,1046
+Guider	3412,7563,3562,1046,3638
 Guider Transfo	10975
-Guides	8671,735,1630,2513,988,352,725,59,175,151,901,1115,156,457,283,62
+Guides	8671,735,1630,2513,988,352,725,59,175,151,901,1115,156,457,283,62,248
 Guides Guides Documentation	12364
 Guides Learning and Teaching Support Materials Examinations	11241
 Guides Learning and Teaching Support Materials Research	11241
@@ -770,6 +775,7 @@ IPF Anti-Corruption Guidelines. The Systematic Tracking	15661
 IRC. Central Bank of Kenya Guidance Note	12297
 IRM Guidelines	17037
 ISO Guide	16843
+Identify Drafting Guidelines	19214
 Immunisation Information System. Technical Guidance Report	8376
 Implementation Guidance	9855
 Implementation Guidance for Section	13051
@@ -800,7 +806,7 @@ International Country Risk Guide	1828
 International Guidelines	12406
 International Guidelines Birth	12406
 International Guidelines The UN	12406
-International Principles and Guidelines	17296
+International Principles and Guidelines	17296,1938
 Interoperability Guidelines	13308
 Interview Guide	4439
 Interview Guide System	13080
@@ -850,6 +856,16 @@ M. Benguela Guidjinga	6125
 M4B Knowledge and Skills Guide	11017
 MANUELS ELEVES ET GUIDES DU MAITRE	18171
 MANUELS ET GUIDES DU PROFESSEUR	18171
+MCC Audit Guidelines	19214
+MCC Environmental Guidelines	19214
+MCC Environmental Guidelines. The Government	19214
+MCC Gender Integration Guidelines	19214
+MCC Governance Guidelines	19214
+MCC Guidance	19214
+MCC Program Procurement Guidelines	19214
+MCC Reporting Guidelines	19214
+MCC’s Environmental Guidelines	19214
+MCC’s Guidelines for Financial Audits Contracted	19214
 MDA Cash Forecast Data Submission Guidelines	18577
 MEDIA COPYRIGHT STANDARDS AND GUIDELINES	34
 MHRA guidan	3651
@@ -1053,6 +1069,7 @@ Process Guidelines	5903
 Processing Payment for Road Tolls User Guidelines	12454
 Procurement Guidelines	1161,14211,39,100,3376
 Products. Guided	17567
+Program Guidelines	19214
 Program-for-Results Guidance Note	18370
 Project Financing Operations and World Bank Guidance	15553
 Project Management Guideline	11231
@@ -1243,6 +1260,7 @@ Telecommunications Traffic Monitoring Guideline	15120
 Temperature and Precipitation. Reference Guide	17257
 Terrorist Financing National Risk Assessment Guidance	12297
 Testing Guidance Psychological Services EUP Early	12975
+Togo Business Guide	19288
 Tools and Guidelines Series	17157
 Trade Information Portal. The Guide	11736
 Treasury Infrastructure Guidelines	7548
@@ -1280,7 +1298,7 @@ Uganda's Ministry of ICT and National Guidance Permanent	6247
 Ugandan Ministry of ICT and National Guidance	8546
 Uganda’s Ministry of ICT and National Guidance	6239,6635,4
 Ultimate Guide	11994
-Un Guide	15542
+Un Guide	15542,3820
 Under the UN Guiding Principles	9082
 United Nations An Operational Guide	13681
 United Nations Guidelines	3861

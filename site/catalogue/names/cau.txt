@@ -83,7 +83,8 @@ Cause-Specific Morbidity and Mortality	17869
 Cause-effect	14921
 Cause-of-Death	15209
 CauseDeath	11180
-Causes	4047,7109,906,76,13,320,2425,131,29,46,497,86,1454,121,583,26,317,31,725
+Causeries Maladies	19226
+Causes	4047,7109,906,76,13,320,2425,131,29,46,497,86,1454,121,583,26,317,31,725,399
 Causes Firms	13624
 Causes Of Death	12151
 Causes Of Death According To Global	12151
@@ -253,6 +254,7 @@ SHAREHOLDER CAUTION Accordingly	4263
 SN2025 Causes	18319
 Saúde de Caué	18871
 Sierra Leone. Cauridor and BnB	9920
+South Caucasus and Central Asia	19245
 Strategic Caution	10929
 Ten Leading Causes Of Registered Deaths	12151
 Ten Leading Causes of Medically Registered Deaths	12151

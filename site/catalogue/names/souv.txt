@@ -34,8 +34,8 @@ Souvent Rarement Jamais NSP	13390
 Souverain	16609,2379
 Souverainete	15584
 Souverainete Alimentaire	14662
-Souveraineté	3125,212,4,79,297,521,507,68,142,422,780,118,100,789,1105,68,165,133,213,200,1157,174,2,163,147,444,2348,2141,413,114,44,19,171,1,143,7,105,1342,4,308,24
-Souveraineté Alimentaire	18028
+Souveraineté	3125,212,4,79,297,521,507,68,142,422,780,118,100,789,1105,68,165,133,213,200,1157,174,2,163,147,444,2348,2141,413,114,44,19,171,1,143,7,105,1342,4,308,24,1013
+Souveraineté Alimentaire	18028,1328
 Souveraineté Alimentaire Actes Divers Arrêté	17900
 Souveraineté Nationale	18252
 Souveraineté Numérique	6655

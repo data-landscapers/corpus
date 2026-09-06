@@ -34,6 +34,7 @@ Communication du Taux Effectif Global	15901
 Couleur Naturelle Améliorée RVB Taux de Precipitation	18203
 DAT Taux DAT	17833
 DE LA TARIFICATION Taux	15670
+DE NOTIFICATION AMR TAUX DE MISE	19250
 DES MATIÈRES PREMIÈRES TAUX D'ACCROISSEMENT DES	15999
 DGI Taux	10712,146
 DGSHP Taux	17845
@@ -122,12 +123,15 @@ Kendall Tau	15244
 Kendall's Tau	15244
 Klerksdorp and Taung	7626
 LA GROSSESSE Taux	13300
+LANCES TAUX D'ENGAGEMENT DOSSIERS NOTIFIES TAUX	19250
 LF Taux	15999
+LIBELLES PRÉVISIONS RÉALISATIONS TAUX DE RÉALISATION	19291
 Le Taux	13390,5367
 Le Taux Brut de Scolarisation	18014
 Le Taux Net de Scolarisation	18014
 Le Taux de Pertes	17462
 Le TauxBrut	18100
+Libellés Prévisions Réalisations Taux	19250
 M FCFA Taux	10708
 MARHASA Taux	15720
 MENAPLN Taux	15720
@@ -165,7 +169,9 @@ Objectifs Taux	17860
 Occup Sous- Sous- Chômeu Taux TF	737
 Occupé Sous- Sous- Chômeur Taux Inactif	737
 Office Taux	17845
+P IM Taux	19291
 P Taux	15999
+PERIODE PREVISIONS REALISATIONS TAUX DE REALISATION	19250
 PORTANT FIXATION DES TAUX DES DROITS	7470
 POSAF Taux	10712
 PTA Taux	10858,5141
@@ -226,9 +232,12 @@ TAUX EFFECTIF GLOBAL Anatole Collinet MAKOSSO	15901
 TAUX FIXE	15901
 TAUX FIXE Anatole Collinet MAKOSSO	15901
 TAUX VARIABLE	15901
+TBN Taux	19350
+TBR Taux	19350
 TBS Taux	17885
 TBS Taux Brut de Scolarisation UCSPE Unité	18286
 TENDANCE DES TAUX DE SUCCÈS	17843
+TNR Taux	19350
 TNS Taux	17885
 TRANCHE A TAUX FIXE	15901
 TRANCHE A TAUX VARIABLE	15901
@@ -282,6 +291,7 @@ Taux Net de Scolarisation	10847,7324
 Taux Net de Scolarisation Garçons Filles G	10847
 Taux Net de Scolarisation. UNESCO	18100
 Taux Nombre	13300
+Taux Pour	19226
 Taux Préscolaire Primaire Post Secondaire Nombre	737
 Taux Prévisions Montant	3396
 Taux Source Observation Consommation	15724
@@ -306,6 +316,7 @@ Taux de Mortalité Infantile	18757
 Taux de Mortalité Infantile Ratio de Mortalité Maternelle	15599
 Taux de Mortalité Néo-Natale TPM	15475
 Taux de Mortalité Néonatale Tribunal de Premier Degré	15599
+Taux de Perte	19295
 Taux de Remploi	15901
 Taux de Remploi FEDD	15901
 Taux de Régions Nombre de CEC	15599
@@ -323,5 +334,7 @@ Tuta-Me. Abed Tau	10605
 Urbain Rural Ensemble Taux	15557
 Urbain Rural Total Taux	13390
 Utilisation Taux	11944
+VERIFIABLES NOMBRE DE CONTRÔLES ENGAGES TAUX	19250
 VIH Taux	13300
 WHOPEN. Taux	3396
+YAS Togo Moov Africa Togo Taux	19338

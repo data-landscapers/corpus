@@ -12,6 +12,7 @@ Align TVET	11149
 Android TVs	17746
 Arise TV	7179
 Asie Europe Océanie ACI TV Accueil	16092,1,37,97,148,111,41
+Assistance ToC Theory of Change TVET Technical	19245
 Assistant Minister for TVET	17070
 Authorised TV Stations	2776
 Authority SMS Short Message Service TV	2776
@@ -30,7 +31,7 @@ Broadcasting TV	718
 Build TVET	14922
 Bulletin Météo TV du Lundi	18360
 Bénin Web TV	4157
-CA TVA	15615
+CA TVA	15615,3635,41
 CGI TVA Nombre	16328
 CITIZEN TV	13324
 CMS TV UNN Port Harcourt PH	11129
@@ -116,6 +117,7 @@ HERITAGE TV	13324
 Health Expenditure TVET Technical and Vocational Education	12923
 Higher Education and TVET	13991
 Higher Education and TVETs	13991
+Hors TVA	19295
 Huri Tv	7297
 ICT and TVET	18606
 ID TV3	13301
@@ -141,6 +143,7 @@ Licensed TV Stations	2776
 Limited TVET Technical and Vocational Education and Training	13312,2
 List of TV	236
 Luntha TV	9217
+L’annexe TVA du Code	19291
 L’identifiant TVA	16747
 MASHARIKI TV	13324
 MBC TV	12201
@@ -201,6 +204,7 @@ Pay Tv	2776
 Pay Tv Direct-To-	2776
 Peer TVET Technical and Vocational Education P4R	14897
 Per Channels TV	2658
+Pour la TVA	19250
 Pre-Vocational and TVET	16852
 Presence SABC TV	8999
 President Filipe Nyusi. On Sucesso TV	12201
@@ -311,21 +315,27 @@ TV. Títulos	2816
 TV. Verification	15342
 TV3's Hot Issues	15823
 TV5 Monde	18232
+TVA CDDI	19250
+TVA CI	19250
 TVA Exonérations	16328
 TVA LF	16328
 TVA Numéro	16047
 TVA Recettes	16328
+TVA Remises	19250,41
 TVA Sortie	15999
-TVA Taxe	7655,6782,1037,1152
+TVA Taxe	7655,6782,1037,1152,2724
+TVA URL	19303
 TVA la TVA	17872
 TVA. Article	7346,7112,25
 TVA. Ce	18322
 TVA. Cette	15773
 TVA. Extrant	17872
 TVA. Globalement	15542
+TVA. Graphique	19250
 TVA. Il	18238
 TVA. La TVA	14683
 TVA. Le Ministre	9181
+TVA. L’instruction	19291
 TVA. Pour le RMA	18322
 TVA. RAPPORT ANNUEL	18322
 TVA. Toutefois	17840
@@ -397,13 +407,14 @@ TVETS	14010
 TVETSD	12914,61
 TVETipedia	13991
 TVETipedia Glossary. June	13991
-TVETs	1264,374,1351,1664,2895,1786,2876,102,1046,633,956,1197,970,389
+TVETs	1264,374,1351,1664,2895,1786,2876,102,1046,633,956,1197,970,389,1742
 TVETs Technical and Vocational Education Training Centers	14947
 TVITFPRAI	15400
 TVM and R	12201
 TVM and RM	12201
 TVRAGH ZEINA	18065
 TVS Trade Verification System VAT	12951
+TVT Télévision Togolaise UCAO-UUT Université	19350
 TVeaty Séries	17438
 TVs. Published	14742
 Taux de TVA	15615

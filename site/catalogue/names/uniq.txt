@@ -29,6 +29,8 @@ Contribution Globale Unique	18318
 Customs Guichet Unique Electronique	13314
 DE L'IDENTIFIANT UNIQUE ELECTRONIQUE Article	15691
 DE L'UTILISATION DE L'IDENTIFIANT UNIQUE Tout	15691
+DE L'UTILISATION DU NUMERO D'IDENTIFICATION UNIQUE	19217
+DECISIONS DE L’ACTIONNAIRE UNIQUE Article	19260
 DU GUICHET UNIQUE Il	15780
 DU REGISTRE NATIONAL DE L'IDENTIFIANT UNIQUE	15691
 Description UNIQUE LEARNER ID	18506
@@ -36,9 +38,11 @@ Digetal ID Unique Number	12226
 Digital Civil Register and Unique Identification Number	10812
 Digital Identification Uniqe	12146
 Digital Identity West Africa Unique Identification	10819
+Douane Unique	19256
 Du Registre Social Unique ARTICLE	13715
 Déclaration Unique de Marchandise	17485
 Déclarations Uniques des Marchandises	17445
+ETENDUE DES POUVOIRS DE L’ACTIONNAIRE UNIQUE	19260
 Eau de Centrafrique UIDAI Unique Identification Authority	15415
 Electronique GUP Guichet Unique Provincial HEI	13312,2
 Establish Unique Personal Identifier	14655
@@ -54,9 +58,10 @@ Food Programme WURI West Africa Unique	16384
 GSMAintelligence for Unique Mobile Internet	6928
 GUICHET UNIQUE	16322
 GUICHET UNIQUE DE CREATION D'ENTREPRISE. PAR	15970
+GUICHET UNIQUE DE DÉPÔT DES	19292
 GUICHET UNIQUE Décision	16322
 Guichet Foncier Unique	9976
-Guichet Unique	5077,5635,263,2366,386,1714,37,2339,53
+Guichet Unique	5077,5635,263,2366,386,1714,37,2339,53,1351
 Guichet Unique Elaboration des Disposer	10975
 Guichet Unique Electronique	15478
 Guichet Unique Electronique de Vanuatu	15478
@@ -72,6 +77,7 @@ Guichet Unique de Commerce GUCE Mobile Extérieur	15936
 Guichet Unique de Création	8065,122,1571,9313
 Guichet Unique de Paiement	15449
 Guichet Unique des Concours Administratifs	15936
+Guichet Unique des Formalités	19260
 Guichet Unique des Opérations Transfrontalières	15553
 Guichet Unique des Opérations du Commerce Extérieur	5593
 Guichet Unique des Services Publics	5429
@@ -107,7 +113,7 @@ Identification Bancaire Unique	8556
 Identification Fiscal Unique	10821
 Identification National Unique	16482
 Identification Parcellaire Unique	18178
-Identification Unique	3800,941,480,10332,86,181,698,1153,525,5
+Identification Unique	3800,941,480,10332,86,181,698,1153,525,5,1029,13,1,7,6,51,39
 Identification Unique Activation du NUI	14480
 Identification Unique Envoi Convertisseur Collecte Etat	14480
 Identification Unique des Citoyens	16641
@@ -146,24 +152,29 @@ Nations UIN Unique Identification Number Figures	12327
 Netpage and Unique Solutions	16883
 Niger. The West Africa Unique Identification	2778
 Number of Unique Mobile Subscribers	10822
-Numéro Unique	14480,1848
+Numéro Unique	14480,1848,2915
 Numéro Unique de Demande	17886
 Ordinateur GUECE Guichet Unique	13341
 Outre le Registre Social Unique	16283
+PREROGATIVES DE L’ACTIONNAIRE UNIQUE L’actionnaire	19260
 Partner Unique Number	11276
 Peru Unique Registry of Identification of Natural Persons	10714
 Plateforme Gouvernementale Unique	15936
 Point Unique de Défaillance	17823
 Portail Unique du Citoyen	13751
 Portail Unique du Citoyen. Ce	13751
+REGISTRE SOCIAL UNIQUE	19221
 Redevance Administrative Unique	1996
 Regional Unique Identification Project	6251
 Regional West Africa Unique Identification for Regional	1769,552,1531
 Registre National Unique	417,3783,14100,1,54
-Registre Social Unique	2713,787,7366,16,28,17,11,975,11,86,1704,1,838,9,1054,42,154,189,11,20,251,101,51
+Registre Social Unique	2713,787,7366,16,28,17,11,975,11,86,1704,1,838,9,1054,42,154,189,11,20,251,101,51,2786
+Registre Social Unique P2	19221
+Registre Social Unique P5 Poursuite	19221
 Registre Social Unique. C'était	15616
 Repurchase Unique	6432
 Results Report West Africa Unique Identification	15735
+Régime Social Unique	19284
 SDGs Sustainable Development Goals UIN Unique	12241,839,15
 STATUTS REVISES DU GUICHET UNIQUE DES	16039
 STP São Tomé and Príncipe USR Unique	18809
@@ -183,6 +194,7 @@ Territoire Douanier Unique. L'usage	5077
 UIN Unique Identification Number UNICEF United	13681
 UNIQUE	15426
 UNIQUE ARTICLE	15441
+UNIQUE DE DÉPÔT DES	19292
 UNIQUE L'organisme	15691
 UNIQUE LEARNER ID	18506
 UNIQUE NE FONCTIONNE PAS. COMMENT FAIRE	16629
@@ -213,7 +225,7 @@ Unique IPs	1013,931
 Unique Identification	5700
 Unique Identification Authority of India	6371,1225,10027
 Unique Identification Authority of India. Timeframe	7596
-Unique Identification Number	1828,953,1254,754,1167,280,4539,37,1047,287,1535
+Unique Identification Number	1828,953,1254,754,1167,280,4539,37,1047,287,1535,5567,77
 Unique Identification Numbers	12241,839
 Unique Identification for Regional Integration and Inclusion	3834,11787
 Unique Identifier	5687,4168,1056,1478,372,2262
@@ -270,8 +282,9 @@ WURI West Africa Unique Identification Program	554
 WURI West Africa Unique Identification for Regional	3604,12017
 WURI. The West Africa Unique Identification	1635
 West Africa Unique	3604
+West Africa Unique Helps	19245
 West Africa Unique Identification	10909
-West Africa Unique Identification for Regional Integration	312,240,665,47,67,596,390,110,354,646,10,415,13,659,1055,512,1335,3396,34,53,4641,185,649,715,75,1116
+West Africa Unique Identification for Regional Integration	312,240,665,47,67,596,390,110,354,646,10,415,13,659,1055,512,1335,3396,34,53,4641,185,649,715,75,1116,955,39
 World Bank-financed West Africa Unique	3604
 World Bank-funded Regional West Africa Unique	4855
 World Bank-supported West Africa Unique Identification	5956

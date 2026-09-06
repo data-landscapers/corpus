@@ -77,6 +77,7 @@ Contractuels C Sous-officiers des Forces Armées	17899
 Counter-terrorism Force	7452
 Counterterrorism Force	7452
 Courses Participants Mauritius Police Force	14760
+DE FORCE	19252,21
 DE LA FORCE PUBLIQUE	15405
 DEFENCE FORCES MEDICAL INSURANCE SCHEME Data	7167
 DGI FORCES FAIBLESSES	10712
@@ -105,13 +106,16 @@ Drought Task Force	17157
 E-Justice Task Force	13080
 E-Justice Task Force Meeting	13080,15
 E-Justice Task Force Meeting and Justice Sector	13080,15
+ENTRY INTO FORCE	19214
 ENTRY INTO FORCE ARTICLE	12527
+ENTRY INTO FORCE Section	19214
 ENTRY INTO FORCE This Policy	16189
 EU Naval Force	18927
 EU-AU Digital Economy Task Force	789
 Employed Unemployed Outside Labour Force Male	14815
 Employment Unemployment Potential Labour Force	14815
 Engineering Task Force	12360
+Entry Into Force	19279
 Equipement des Forces	8321
 Eritrean Air Force	10001
 Eritrean Defense Force	14159
@@ -121,7 +125,7 @@ Etat-Major des Forces Armées	16370
 External Environment Scanning Forces	13005
 FACA Central African Armed Forces	15415
 FAIBLESSES FORCES	18291
-FFOM Forces	13341
+FFOM Forces	13341,5875
 FIJ Story Forced Contractor Back	7176
 FIRST Force	1777
 FMI Fonds Monétaire International FFOM Forces	10712
@@ -166,7 +170,7 @@ Flood Forecasting Task Force	18578
 FoRCEMENT DE L	14479
 Food Security Task Forces	12158
 Forcas	2228
-Force	17,298,328,318,816,607,16,126,1062,273,386,55,31,235,42,129,14,1091,245,870,374,119,885,103,31,136,50,963,1093,123,98,242,869,939,123,222,12,49,1029,1,43,273,9,15,21,86,199,476,93,6,244,16,35,7,160,116,76,369,186,8,509,32,424,22,34,104,305,9,25,164,6,480
+Force	17,298,328,318,816,607,16,126,1062,273,386,55,31,235,42,129,14,1091,245,870,374,119,885,103,31,136,50,963,1093,123,98,242,869,939,123,222,12,49,1029,1,43,273,9,15,21,86,199,476,93,6,244,16,35,7,160,116,76,369,186,8,509,32,424,22,34,104,305,9,25,164,6,480,242,6
 Force ARTICLE	14409
 Force Account	17180
 Force Armée Congolaise	5103
@@ -206,7 +210,9 @@ Force de Défense	13341
 Force de Défense Nationale du Burundi	13329
 Force de Dépenses	18204
 Force-Jeune. Cette	13789
+Force. The Government	19214
 Force. The Loan Agreement	16219
+Force. This Agreement	19214
 Forced	12779,406,1689,1345,895
 Forced Displacement	10841,23,2339,2528,79,626,438,28,255
 Forced Displacement Forced	16874
@@ -227,7 +233,7 @@ Forced Marriage	9766
 Forced Migration Review	12227
 Forcepoint	10102
 Forcepoint Web Security	10102
-Forces	17,1950,698,651,80,24,573,1216,698,1052,3588,327,1,1,58,4408,39,98,22,11,36,32,144,3,127,82,63,196,158,104,184,1186,56,99,21,98,4,947
+Forces	17,1950,698,651,80,24,573,1216,698,1052,3588,327,1,1,58,4408,39,98,22,11,36,32,144,3,127,82,63,196,158,104,184,1186,56,99,21,98,4,947,198
 Forces Agreement	3583
 Forces Armées	7843,394,3663,4465,1463,13,4,16,21,17,9,74,1,20,29,254
 Forces Armées Burundaises. Pour	13329
@@ -235,6 +241,7 @@ Forces Armées Centrafricaines FCR Financial Crime	15415
 Forces Armées Congolaises	15405
 Forces Armées Congolaises FHVE	15685
 Forces Armées Congolaises MVE	15423
+Forces Armées Togolaises	19251
 Forces Armées Vu la Loi	17982
 Forces Armées. Article	18003
 Forces Contractuel	17899
@@ -301,6 +308,9 @@ IR Task Force Members	12935
 IR Task Force Members Supported	12935
 IR Technologies The Task Force	12935
 ITRRI Inter-Ministerial Task Force for Refugee-Returnees	14874
+IV.3 FORCES	19216
+IV.3 Forces	19216
+IV.3.1 Forces	19216
 Identification System NAMPOL Namibian Police Force	12947
 Implementation Task Force	17367
 Incident Response Task Force	1777

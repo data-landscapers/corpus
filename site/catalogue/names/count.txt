@@ -4,7 +4,7 @@ A. CONTEXT AT APPRAISAL Context Country	15424
 A. CONTEXT AT APPRAISAL Country Context	15702
 A. COUNTRY CONTEXT	11863,2075
 A. Country	11549
-A. Country Context	969,295,603,1737,2935,4229,61,135,416,37,108,35,295,50,271,1155,1,1605,435,39,80,24,3,35,68,38,2,1288,492,17,646,189,8,476
+A. Country Context	969,295,603,1737,2935,4229,61,135,416,37,108,35,295,50,271,1155,1,1605,435,39,80,24,3,35,68,38,2,1288,492,17,646,189,8,476,462
 A. The Participating Countries	1914,13783
 A. the Participating Countries	14912
 A.Â Regional and Country Context	18887
@@ -15,6 +15,7 @@ ACP Countries Data Protection	27
 ACP Countries European Commission	470
 AD plot Count Step	17140
 ADAPT Country Implementation Forum	8421
+ADDITIONAL COUNTRY CONTENT	19358
 ADDR 3 ADDR 4 ADDR CITY ADDR STATE ADDR COUNTRY ADDR ZIP	3364
 AF. B. Country Context	15983
 AFRICA COUNTRIES TO COMMEMORATE	18474
@@ -251,6 +252,8 @@ CAR Country Climate and Development Report	2889
 CAR Country Partnership Framework	10829
 CAR SCD Systematic Country Diagnostic SEP	969
 CAS Country Assistance Strategy CAR Central	18887
+CBSS Country-based Support Scheme CDMT Cadre	19220
+CCDR Country Climate Development Report CE	19245
 CCDR Country Climate and Development Report CERC	10768
 CCS Country Cooperation Strategy CHE	15725
 CDA County Development Agenda CHE Climate	17289
@@ -313,6 +316,7 @@ COUNTRY PARTNERSHIP FRAMEWORK FOR MOZAMBIQUE FY26	12804
 COUNTRY PARTNERSHIP FRAMEWORK FOR THE FEDERAL	11468
 COUNTRY PORTFOLIO PERFORMANCE	13885
 COUNTRY PROFILE	13310,47,115
+COUNTRY PROFILE African Trade Policy Centre	19365
 COUNTRY PROFILE CO NCLUSION AND RE	13357
 COUNTRY PROFILE Growth	12395
 COUNTRY PROFILE I N DIC ATORS	13357
@@ -357,12 +361,12 @@ CPF Country Partnership Framework	15138
 CPF Country Partnership Framework CPIA Country	969
 CPF Country Partnership Framework CPS Country	11380,4131,3266
 CPF Country Partnership Framework CR Civil	15518
-CPF Country Partnership Framework CRI Corporate	15621,763
+CPF Country Partnership Framework CRI Corporate	15621,763,2900
 CPF Country Partnership Framework CRVS Civil	16896,26
 CPF Country Partnership Framework CSA Food	18301
 CPF Country Partnership Framework CSF Climate	11549
 CPF Country Partnership Framework CT Cash	15663
-CPF Country Partnership Framework DA Designated	1867,9658,3990
+CPF Country Partnership Framework DA Designated	1867,9658,3990,3724
 CPF Country Partnership Framework DPSSF Directorate	18809
 CPF Country Partnership Framework EIRR Economic	13836
 CPIP Country Procurement Issues Paper DEE	18887
@@ -410,6 +414,7 @@ Chief Country Economist	13885,53
 Chief Country Economist. The Bank Group	14119
 Chief Country Program Officer for Eritrea	14119
 Christine Zhenwei Qiang Country Director for Mauritania	17862
+Citizen Engagement CPF Country Partnership Framework	19245
 City Council County Director of Education	14460
 City County NCCAP National Climate Change	2775
 City Tripoli Country LY Continental Region	16948
@@ -419,6 +424,7 @@ Clean Energy Cooperation Country	17880
 Client Counterparts The Association of Municipalities	11941
 Client's Input and Counterpart Personnel	11869
 Climate Risk Country Profile	3456,12205,1596
+Climate Risk and Adaptation Country Profile	19284
 Code System Countries	6666
 Codes for Representation of Names of Countries	11179
 Colin Bruce Country Director	18754
@@ -561,13 +567,14 @@ Counting President Bio Gains	8115
 Counting and Multidimensional Poverty Measurement	15244
 Countless	13963
 Countney Ltd	18154
-Countries	177,49,65,101,10,26,67,21,57,22,2,51,123,18,31,1,15,55,1,2,42,6,19,87,98,97,21,255,9,21,15,250,14,65,95,227,342,74,46,5,52,41,386,813,75,101,109,98,11,222,217,18,81,178,30,96,6,26,5,5,29,126,56,87,132,9,9,16,194,146,97,33,151,256,58,17,1,20,19,24,58,258,12,4,87,22,164,208,3,130,287,43,38,97,32,20,231,124,79,41,10,33,179,95,132,50,92,172,176,7,19,44,62,18,45,264,5,5,110,576,55,3,18,4,4,4,4,129,6,11,14,113,4,2,14,5,42,160,61,146,9,37,218,27,3,10,27,26,2,43,25,7,154,59,4,25,17,69,31,20,284,29,7,21,115,100,16,29,65,278,36,176,129,20,53,172,163,167,198,289,29,23,2,33,183,4,141,335,19,61,160,12,57,262,144,73,206,84,80,212,24,9,24,11,5,8,18,54,32,9,198,144,160,17,89,126,19,80,253,9,171,46,97,135,70,218,286
+Countries	177,49,65,101,10,26,67,21,57,22,2,51,123,18,31,1,15,55,1,2,42,6,19,87,98,97,21,255,9,21,15,250,14,65,95,227,342,74,46,5,52,41,386,813,75,101,109,98,11,222,217,18,81,178,30,96,6,26,5,5,29,126,56,87,132,9,9,16,194,146,97,33,151,256,58,17,1,20,19,24,58,258,12,4,87,22,164,208,3,130,287,43,38,97,32,20,231,124,79,41,10,33,179,95,132,50,92,172,176,7,19,44,62,18,45,264,5,5,110,576,55,3,18,4,4,4,4,129,6,11,14,113,4,2,14,5,42,160,61,146,9,37,218,27,3,10,27,26,2,43,25,7,154,59,4,25,17,69,31,20,284,29,7,21,115,100,16,29,65,278,36,176,129,20,53,172,163,167,198,289,29,23,2,33,183,4,141,335,19,61,160,12,57,262,144,73,206,84,80,212,24,9,24,11,5,8,18,54,32,9,198,144,160,17,89,126,19,80,253,9,171,46,97,135,70,218,286,82,105
 Countries Agree	14932
 Countries By Kennedy Komba	13468
 Countries Countries	6671
 Countries EDGI	10840
 Countries GSMA	10819
 Countries Geographical Identifier Sao Tome and Principe	18809
+Countries Geographical Identifier Togo Togo Requesting	19284
 Countries Initiative IMF International Monetary Fund	15244
 Countries Investing	17736
 Countries Missing Primary Text Algeria	7707
@@ -585,7 +592,7 @@ Countries. Out	5508
 Countries. Washington	10997
 Countries’ Rating Based	15713
 Countrv. Postal	11180
-Country	236,76,106,113,42,145,43,10,18,173,161,38,55,13,32,3,13,79,6,103,176,17,160,49,10,111,673,154,346,295,106,21,21,258,265,88,38,46,541,132,262,115,424,252,45,381,37,178,103,165,3,26,167,633,280,403,281,164,176,95,103,134,42,162,1,168,9,407,227,186,158,5,1,3,7,37,7,3,4,3,6,2,1,18,6,3,47,42,10,4,161,64,2,81,129,12,52,1,10,45,25,3,7,10,2,178,104,1,2,6,4,3,16,1,1,1,5,11,30,71,131,1,13,1,1,1,9,51,27,9,11,17,51,7,4,1,5,6,1,1,22,7,15,12,3,40,35,106,63,21,239,18,4,38,56,4,47,11,90,127,2,17,1,11,1,1,1,11,34,136,48,86,98,17,48,44,33,28,9,11,50,46,24,1,4,391,21,37,30,5,68,2,124,23,35,48,4,7,9,3,15,14,8,40,46,20,15,17,24,63,47,2,180,39,4,56,21,8,53,38,30,37,3,16,36,2,10,25,93,1,2,55,59,72,12,100,51,24,90,89,147,120,29,136,13,1,14,2,3,4,49,19,12,1,2,1,19,1,40,34,95,17,141,25,1,103,31,30,255,127,55,2,271,93,18,111,21,14,9,21,3,49,38,4,18,1,27,8,12,66,13,23,13,2,25,22,27,2,26,23,24,244
+Country	236,76,106,113,42,145,43,10,18,173,161,38,55,13,32,3,13,79,6,103,176,17,160,49,10,111,673,154,346,295,106,21,21,258,265,88,38,46,541,132,262,115,424,252,45,381,37,178,103,165,3,26,167,633,280,403,281,164,176,95,103,134,42,162,1,168,9,407,227,186,158,5,1,3,7,37,7,3,4,3,6,2,1,18,6,3,47,42,10,4,161,64,2,81,129,12,52,1,10,45,25,3,7,10,2,178,104,1,2,6,4,3,16,1,1,1,5,11,30,71,131,1,13,1,1,1,9,51,27,9,11,17,51,7,4,1,5,6,1,1,22,7,15,12,3,40,35,106,63,21,239,18,4,38,56,4,47,11,90,127,2,17,1,11,1,1,1,11,34,136,48,86,98,17,48,44,33,28,9,11,50,46,24,1,4,391,21,37,30,5,68,2,124,23,35,48,4,7,9,3,15,14,8,40,46,20,15,17,24,63,47,2,180,39,4,56,21,8,53,38,30,37,3,16,36,2,10,25,93,1,2,55,59,72,12,100,51,24,90,89,147,120,29,136,13,1,14,2,3,4,49,19,12,1,2,1,19,1,40,34,95,17,141,25,1,103,31,30,255,127,55,2,271,93,18,111,21,14,9,21,3,49,38,4,18,1,27,8,12,66,13,23,13,2,25,22,27,2,26,23,24,244,90,39
 Country Access Rate	11136
 Country Analyses And Plans	899
 Country Analysis Brief	16964
@@ -611,8 +618,9 @@ Country Chapter	15043
 Country Civil	18887
 Country Classification	11935
 Country Classification About G3ict	11935
-Country Climate Development Report	11469,4675
+Country Climate Development Report	11469,4675,3101
 Country Climate Development Report Contingent Emergency	10763
+Country Climate Knowledge Portal	19245
 Country Climate and Development	11469
 Country Climate and Development Report	1828,1628,148,7164,701,2399,1736,139,240,671,295,308
 Country Climate and Development Report CERC Contingent	1264
@@ -636,7 +644,7 @@ Country Data Development Indicators	18747
 Country Development Strategy and Goals	16876
 Country Development Strategy and Goals The Financial	16876
 Country Development Strategy and Goals The GoL	16876
-Country Diagnostic	1028,2576,4040,3070,1513,1085,2,2166,3222
+Country Diagnostic	1028,2576,4040,3070,1513,1085,2,2166,3222,543
 Country Diagnostic Cameroon Digital Economy Assessment	15480
 Country Diagnostic Framework Finance	10841
 Country Diagnostic Report	739
@@ -673,6 +681,7 @@ Country Director of Empower Playgrounds Ghana	8247
 Country Director of KOICA Nigeria Office	9360
 Country Director of KOICA Rwanda Office	770
 Country Director of Project Sprint	8264
+Country Disease Outlook	19284
 Country Economic	14897
 Country Economic Memorandum	2508,8333,628,4189,1284,422,1445
 Country Economic Memorandum Morocco	17458
@@ -761,12 +770,12 @@ Country Office Manager	18066
 Country Office and EdTech Hub	17196
 Country Offices	11533,5568
 Country Overall Gender Urban Rural Household	14098
-Country Overview	10822,7846
+Country Overview	10822,7846,616
 Country Overview Fig	14443
-Country PANEE	3604
+Country PANEE	3604,15641
 Country Panics	10
 Country Partnership Compacts	17196
-Country Partnership Framework	1901,1703,4874,2290,73,123,341,163,7,1,49,330,69,914,130,363,785,511,511,286,87,3,4,32,51,58,2,82,240,310,91,52,7,453,26,27,509,404,431,516,146
+Country Partnership Framework	1901,1703,4874,2290,73,123,341,163,7,1,49,330,69,914,130,363,785,511,511,286,87,3,4,32,51,58,2,82,240,310,91,52,7,453,26,27,509,404,431,516,146,290
 Country Partnership Framework Civil Registration Computer	15553
 Country Partnership Framework Corporate Results Indicator	16436
 Country Partnership Framework DA Designated Account	1264,10296
@@ -807,6 +816,7 @@ Country Profile ENTERPRISE SURVEYS	11874
 Country Profile Egypt	15473
 Country Profile Employment Cost	12395
 Country Profile Sudan	14851
+Country Profile URL	19365
 Country Profile.pdf	1400
 Country Profiles	10764,212,898,7,1,464
 Country Profiles Africa Angola Global Cybersecurity	10764
@@ -1388,7 +1398,7 @@ Framework COUNTRY	1284,9680,561,330,1476,1,2221,1369
 Framework SCD Systematic Country Diagnostic SEA	18809
 Francophone African Countries Powering the Next	3157
 Francophone Least Developed Countries	18349
-Franz R. Drees-Gross Country Director	15659
+Franz R. Drees-Gross Country Director	15659,3580
 Fraud Forensics Countries	10848
 Fraud Prevention Strategy DHA Counter Corruption	11986
 Functional Civil Registration Office Counts	15415
@@ -1510,6 +1520,8 @@ Headed Count	18443
 Health Country Profile Comoros	13813
 Health Country Profile Guinea Bissau	11589
 Health Country Profile South Sudan	18722
+Health Country Profile Togo	19355
+Health Country Profile URL	19355
 Health and Public Hygiene Type Role Country	18359
 Healthier Population UNCT United Nations Country	17289
 Heavily Indebted Poor Countries	9490,2434
@@ -1605,6 +1617,9 @@ Inadequate Counterpart Funding The Government of Kenya	14546
 Income Countries MENP Ministry of Digital Economy	15411
 Income Countries.41	11964
 Indebted Poor Country BTS Base Transceiver	14897
+Independent Counter- Verification Agency	19284
+Independent Counter-Verification Agency	19284
+Independent Counter-Verification Disbursement Agency	19284
 Independent Government Institute Implementing Agency Country	4653
 Index Country Policy and Institutional Assessment	643
 Information and Communication Technology Country	13731
@@ -2087,6 +2102,7 @@ P168336 TBL Country Angola Operation ID P168336	10779
 P169983 TBL Country Angola Operation ID P169983	10779
 P173640 Beneficiary Country	12832
 P2P Mobile Money Transaction Count	9781
+PBCs I. STRATEGIC CONTEXT A. Country	19239
 PIDC29534 Country	12669
 PIDC32666 B. Introduction and Context Country Context	18456
 PITD1 Country Manager Alex MUBIRU	13938
@@ -2113,6 +2129,7 @@ Participating Country	16936
 Participating Country Financing Agreement	16936
 Partner Countries	3760,9683
 Passport Country	11276
+Paul Noumba Um Country Director	19245
 Peer Countries	17870,661
 Peer-Learning Country Clinics	7963
 PeeringDB Countries	18420
@@ -2200,6 +2217,7 @@ Rapid Country Analysis	11916
 Rate of Return LMIC Lower Middle-Income Country	18809
 Real Time Food Prices Country	15620
 Real-Time Review of Country Measures	10763,6139
+Real-Time Review of Country Measures. Living	19237
 Recommendations County	5134
 Recorded Count	15845
 Reforms The Country Policy and Institutional Assessment	18488
@@ -2209,6 +2227,7 @@ Refugee Policy Review Framework. Country Summary	11905
 Region Counties Gbarpolu South Central Margibi	17043
 Region and Its Countries	11596
 Regional Composition Region Counties Southeastern	17043
+Regional Institutions No Clients Beneficiary Countries	19284
 Registered Proportion County County Neonatal Deaths	12151
 Registrar. The Sub- County Registrar	12151
 Regular County	17139
@@ -2457,6 +2476,9 @@ Through County Integrated Development Plans	7548
 Through the County Security Council	16970
 Title Main Stakeholders Countries Topic	10819
 Togo CAS Country Assistance Strategy CERT	17862
+Togo Climate Risk and Adaptation Country Profile	19284
+Togo DE4A Country Together	19245
+Togo Systematic Country Diagnostic Update. Internal	19245
 Togo’s Systematic Country Diagnostic	17862
 Tool CDF County Development Fund CLAS	16970
 Torit County	18638
@@ -2560,6 +2582,7 @@ Vinaora Visitors Counter	18803,23
 Visit Country Office Site	14058
 Visit the County Office	17149
 Visitor Counter	6480,9754
+Voahirana Hanitriniala Rajoela Beneficiary Country	19284
 Volunteer CHT County Health Team DOTS	16971
 Vulnerability and Readiness Country Index	2889
 WAEMU Countries	16144
@@ -2644,7 +2667,7 @@ World Bank Group's Country Partnership Strategy	15704
 World Bank Group's Eswatini Country Partnership	12426
 World Bank Group. Country Partnership Framework	15663
 World Bank Group’s Cameroon Country Partnership	10964
-World Bank Group’s Country Partnership Framework	6539,9119,5,2299,339
+World Bank Group’s Country Partnership Framework	6539,9119,5,2299,339,983
 World Bank Group’s Country Partnership Strategy	11855
 World Bank Group’s FY19-FY24 Country Partnership	16960
 World Bank Group’s Strategic Country Diagnostic	10964
@@ -2666,7 +2689,7 @@ World Bank’s Acting Country Director for Nigeria	11305
 World Bank’s Climate Risk Country Profile	16949
 World Bank’s Country Economic Memorandum	16942
 World Bank’s Country Engagement Note	16952
-World Bank’s Country Partnership Framework	16436,1413
+World Bank’s Country Partnership Framework	16436,1413,1435
 World Bank’s Country Partnership Strategy	15372,3393
 World Bank’s Country Policy and Institutional Assessment	13868
 World Bank’s Regional Director and Country Manager	4640

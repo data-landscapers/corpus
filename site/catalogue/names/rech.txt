@@ -70,6 +70,7 @@ ET DE LA RECHERCHE Projet	4402
 ET DE LA RECHERCHE SCIENTIFIQUE	17829
 ET DE LA RECHERCHE SCIENTIFIQUE ARRETE	17829
 Economie Rurale INR Instituts Nationaux de Recherche	12
+Effets Recherchés	19360
 Emergency Recharge Data Promotion	11259
 Enfant RAC DESAM Centre de Recherche	17845
 Etudes Recherches	17827
@@ -80,6 +81,8 @@ EximbankChine Recherche	15542
 Femme CRLD CSCom CSRéf Centre de Recherche	17882
 Fichier Automatisé de Recherche	16143
 Fonds de Recherche	18339
+G3. Rechercher	19360
+G5. Rechercher	19360
 Guineematin.com Recherche Recherche MA RÉGION Accueil	17935
 HOMINDEVE MONDE RECHERCHES	15848
 III.2.4.5. Recherche	15685
@@ -88,6 +91,7 @@ INRSP Institut National de Recherche	12
 IV.2.3 FORMATION ET RECHERCHE	13306
 Ia Recherche	15489
 Idéation Recherche	17856
+Ingénieur Recherche	19366
 Innovante Recherche	7886,4392
 Institut Mauritanien de Recherche Océanographique	17873
 Institut National de IM Recherche	11905
@@ -134,7 +138,7 @@ MINISTERE DE LA RECHERCHE SCIENTIFIQUE ET	15426
 MINISTERE DE LA RECHERGÜE	15999
 MINISTÈRE DE LA RECHERCHE SCIENTIFIQUE ET	15999
 Mali Recherche-développement	17983
-Master Recherche	17829
+Master Recherche	17829,1537
 Mauritanien de Recherche Océanique	17907
 MoWR Aquifer Recharge Use	17157
 Mobile Phone Recharges	11955
@@ -169,7 +173,7 @@ Rechazado	16905
 Rechenschaftspflicht	900
 Rechenzentren	18815
 Rechenzentrum	18815
-Recherche	12,753,422,521,440,548,36,122,1,111,9,421,429,10,1336,500,564,279,593,78,658,135,94,197,33,264,325,189,164,569,121,566,76,245,154,348,274,2,31,277,37,1346,10,6,35,287,49,171,577,161,31,5,642,107,5,50,3,18,28,19,7,41,11,15,12,3,8,82,28,23,111,28,14,31,20,8,6,31,8,12,6,2,46,71,38,4,15,20,55,107,18,29,73,19,21,18,47,39,6,1,6,19,34,21,39,837,233,10,3,12,3,11,4,1,11,2,7,1,29,57,14,1,20,10,11,47,29,21,22,26,1,75,41,5,5,10,6,3,9,15,30,43,20,470,86,51,148
+Recherche	12,753,422,521,440,548,36,122,1,111,9,421,429,10,1336,500,564,279,593,78,658,135,94,197,33,264,325,189,164,569,121,566,76,245,154,348,274,2,31,277,37,1346,10,6,35,287,49,171,577,161,31,5,642,107,5,50,3,18,28,19,7,41,11,15,12,3,8,82,28,23,111,28,14,31,20,8,6,31,8,12,6,2,46,71,38,4,15,20,55,107,18,29,73,19,21,18,47,39,6,1,6,19,34,21,39,837,233,10,3,12,3,11,4,1,11,2,7,1,29,57,14,1,20,10,11,47,29,21,22,26,1,75,41,5,5,10,6,3,9,15,30,43,20,470,86,51,148,34,5,33
 Recherche Activité	17845
 Recherche Administrateur	17827
 Recherche Administratives	16523
@@ -202,6 +206,7 @@ Recherche Minière	17827
 Recherche Médicale	15685
 Recherche OS3.I2.P1 Appui	17860
 Recherche PS-SNISS	17845
+Recherche Partenaires	19221
 Recherche Pharmacie Médecine	15674
 Recherche Pilotage	2966
 Recherche Plan	18121
@@ -232,24 +237,28 @@ Recherche de Djibouti	4402,9442
 Recherche. Cette	15965
 Recherche. INSTITUT DES SCIENCES TECHNOLOGIQUES ET	15674
 Recherche. Il	18143
-Rechercher	233,1933,4788,2526,4247,19,2049,180,59,3,297,1137,518,25,49,141,87,141,465,5
+Rechercher	233,1933,4788,2526,4247,19,2049,180,59,3,297,1137,518,25,49,141,87,141,465,5,313,11,30,7,4,25,8,23,18
 Rechercher Accueil	17993,96
 Rechercher Axe	17946
 Rechercher Budget	17989
 Rechercher Loi	4420
 Rechercher Ouvrir	15975
 Rechercher Vous	15449
-Recherches	12,15404,2429,133,115,223
+Recherches	12,15404,2429,133,115,223,905,29,41
 Recherches Biomédicales	2625
+Recherches DLM	19226
 Recherches Démographiques IMC	17842
 Recherches Système	17845
+Recherches des Sciences Aviaires	19220
 Recherches. Groupements. Article	17827
 Recherchez	11616,4320
 Recherchez DHS Program	13300
 Recht	11316
 Rechtbank Den Haag	7966
 Rechtsla	504
+Rechute	19226
 SEPTEMBRE ATTRIBUTION DE PERMIS DE RECHERCHE	2342
+SI. G5. Rechercher	19360
 SOCIETE DE RECHERCHE MINIERE N	998
 SOUS-DIRECTION DE LA RECHERCHE ET	17827
 STATUTS DU CENTRE AFRICAIN DE RECHERCHE	15786

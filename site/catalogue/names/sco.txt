@@ -112,7 +112,7 @@ Consumption Score	12978
 Consumption Score FES Food Expenditure	17285
 Copy of Education Plan P3-10. Scope	12500
 Corner of Fidel Castro and Rev. Michael Scott	13073
-Corporate Scorecard	11965,587,3214,266,2777
+Corporate Scorecard	11965,587,3214,266,2777,475
 Corporate Scorecard Indicator	15658
 Corporate Scorecard Indicators	3604,2935
 Corporte Scorecard Indicator. Frequency Quarterly Data	15658
@@ -750,7 +750,7 @@ Scopus	766,482,6542,881,566,7230,1306
 Scopus and PubMed	766
 Scopus and Web of Science	10323
 Scopus. Among	766
-Score	643,256,288,631,1578,391,1878,5094,76,2,1,36,38,56,1,7,276,618,4,7,3,1,1,1,1,1,6,3,37,217,2,5,1,3,42,36,99,1,5,5,1,1,2,21,111,1,90,339,268,115,25,33,662,1144,283,27,6,32,44,157,12,211,25,361,400,170,104,118,13,22,8,128,585,14,193,32,249,275,154,38,327
+Score	643,256,288,631,1578,391,1878,5094,76,2,1,36,38,56,1,7,276,618,4,7,3,1,1,1,1,1,6,3,37,217,2,5,1,3,42,36,99,1,5,5,1,1,2,21,111,1,90,339,268,115,25,33,662,1144,283,27,6,32,44,157,12,211,25,361,400,170,104,118,13,22,8,128,585,14,193,32,249,275,154,38,327,69,18
 Score Academic	13031
 Score Adoption Situation	17157
 Score Angola	5247
@@ -939,7 +939,7 @@ Vulnerability Score	17257
 Vulnerability and Readiness Scores	17257
 WBG Corporate Scorecard	12968,3064,2101
 WBG Outcomes and WBG Scorecard Target	16032
-WBG Scorecard	11469
+WBG Scorecard	11469,7815
 WBG Scorecard Indicator	11469
 WBG Scorecard Indicators	16032
 WB’s Statistical Capacity Score	13314
@@ -952,6 +952,8 @@ We’ll Link Citizens’ Credit Scores	3030
 Women Customs Revenue NIGER Scorecard	16631
 Women's Inclusiveness Score	12941
 World Bank Corporate Scorecard Indicator	10768
+World Bank Group Scorecard. People	19284
+World Bank Group’s Corporate Scorecard	19284
 World Bank Group’s Scorecard Indicators and Targets	16032
 World Bank Scorecard Indicators	12980
 World Bank Scorecard. The Program	11905

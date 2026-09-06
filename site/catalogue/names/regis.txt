@@ -1,6 +1,7 @@
 A- Bilateral Recognition Agreement A1- Register	7548
 A. Beneficial Ownership Register	7845
 A. Register	14809
+A. Registers	19237
 A. Registration	14717,3
 A. Taxpayer Registration	16955
 ABOUT COLLATERAL REGISTRY SYSTEM	13333
@@ -59,6 +60,7 @@ Administrator and Registrar General	18449,28
 Administrator and Registrar General The Office	18477
 Administrator and Registrar ONS Office of National Security	18477
 Administrator and Registrar-General	18556
+Adolescent Health and Nutrition RSPM Social Registry	19284
 Adopted Children Register	12898,107,281,29
 Adoption Register	12959
 Adoption Registration	14137
@@ -88,6 +90,7 @@ Amend the Civil Registration Code. ST	10765
 Android Registration Client	8175
 Annual Expert Group Meeting for African Registrars	7879
 Annual Expert Group Meeting for Registrar Generals	11480,584,1156,458,3717
+Annually Methodology for Data Registry	19284
 Any Registrant	12146
 Any Registrar	11801,345
 Applicant Registration Assistant Assistant	12151
@@ -213,7 +216,7 @@ Besides the Births and Deaths Registration Act	12151
 Beyond Registration	4763
 Bhutan Civil Registration System	10714
 Bill and Land Title Registration Bill	18534
-Biometric Registration	9399
+Biometric Registration	9399,9849
 Biometric Registration Kits	13005
 Biometric Registry of Physical Persons	15518
 Biometric SIM Registration Mobile	13095
@@ -468,6 +471,7 @@ Cases Registered All TB	16971
 Caso de Sinistralidade Registrados	18768
 Casos de Paludismo Registado	18768
 Casos de Trauma Registado	18768
+Catalyseurs Registre	19221
 Categories Registered HHs	15663
 Causes Of Registered Death With Special	12151
 Causes Of Registered Deaths	12151
@@ -748,6 +752,7 @@ Compulsory Briefing Session Meeting Registration Link	11240
 Compulsory Registration of Births and Deaths	12523
 Compulsory VAT Registration URL	14757
 Concerning the Identification and Registration of Voters	11864
+Concerning the International Registration of Marks	19365
 Conditions for Registration and Participation	18605
 Conducted Mass Registration	12984
 Conference of Arab Civil Status and Civil Registry	10521
@@ -816,6 +821,7 @@ DEATHS REGISTRATION ACT CHAPTER	13285
 DEFINE METHODS FOR HOUSEHOLD REGISTRATION	16867
 DELIMITATION AND VOTER REGISTRATION DATA	10049
 DEPARTMENT CIVIL REGISTRATION	12947
+DES FICHIERS LOCAUX DU REGISTRE	19209
 DES PRINCIPES FONDAMENTAUX REGISSANT LES ACTIVITES	16616
 DES REGISTRES COMMUNAUX DES PERSONNES PHYSIQUES	10813
 DES REGISTRES DE L'ETAT CIVIL Article	15792
@@ -1121,6 +1127,7 @@ Enforce the National Registration Act	13005
 Enhanced Collateral Registry	14206,68,65,6,3223
 Enhanced Collateral Registry System	14218,56,44,21,6
 Enhanced Single Registry	11133,3354,155
+Enroll. Registrants	19237
 Enterprises SRM Social Register of Mauritius TDS	14828,3
 Entidade de Registo	576
 Entidades Regionais de Registos da Internet	6970,3777
@@ -1235,6 +1242,7 @@ Foreigner Registration Digital	13005
 Foreword The Birth and Death Registration and Certification	16860
 Form of Blue Registration Card PHOTO REGISTRATION	12410
 Form of Green Registration Card for Citizens	13307
+Formula Registry	19284
 Français Le Registre Social National	17904
 Free Birth Registration	5609
 Frequently Asked Questions Business Registration	12342
@@ -1251,6 +1259,7 @@ G2G Platforms National Civil Registry	14897
 GAMSR Gambia Social Registry GAMTAXNET Gambia	17105
 GENERAL ELECTORAL REGISTER	18605
 GENERAL INFORMATION ABOUT COLLATERAL REGISTRY SYSTEM	13333
+GESTION DU REGISTRE SOCIAL DES PERSONNES	19235
 GISAGARA Registered Marriage NYARUGURU	12413
 GPD THE NATIONAL CIVIL REGISTRATION ACT	18440
 GRIEVANCE REGISTER	17114
@@ -1435,6 +1444,7 @@ Information Management System for School Registration	13575,1
 Information System INRIS Integrated National Registration	13345,1
 Information System for Birth Registration	10812
 Infrastructure Assurance Registration	10157
+Infrastructure Registres	19221
 Initial Birth Registation Current	12496
 Innovative Civil Registration and Vital Statistics	15462
 Insolvency Collateral Registry Hire Purchase Registry	12280
@@ -1606,7 +1616,7 @@ Le Registre Social Unique	10910,2805,1901,667
 Le Registre Social Unique du Congo	16283
 Le Registre des Bénéficiaires du Régime Non Contributif	14418
 Le Registre des Sûretés Mobilières	17847
-Le Registre du Commerce	17847
+Le Registre du Commerce	17847,1362
 Lead Civil Registry and Immigration By Sasuk	9122
 Leading CauseS of Registered Deaths for Neonates	12151
 Leading Causes Of Registered Deaths	12151
@@ -1750,6 +1760,7 @@ Membership and Registration	16896
 Membres des Instances du Registre Social Unifié	18102
 Memorandum of Incorporation the Registrar	3714
 Mensagens-chave Registo	18762
+Methodology for Data Annually Collection Registry	19284
 Michael Daniel. The Directorate of Civil Registry	7931
 Microwave Link Registration	17250
 Migori County's Registrar of Persons Julia Otieno	8793
@@ -2281,6 +2292,7 @@ Principal Registrar for Vital Statistics	16860
 Principal Secretary National Registration Bureau ABIS	13005
 Private Investment Registration Certificate	18797
 Procedimentos de Registo Civil	18779
+Procedure Registry	19284
 Procedure for Registration	14833
 Procedures for Registration	14647
 Procedures for Registration of Financing Statements	14647
@@ -2289,6 +2301,7 @@ Processo de Registo de Nascimento	10772
 Processor Registration Form	15207
 Processos de Registo	11363
 Processos de Registos	11537
+Product Registries	19284
 Production des Registres Fonciers	13375
 Professional ID Registration	10823
 Profile Global Registration System	12227,1711
@@ -2300,7 +2313,7 @@ Project Registration	1988,15126
 Proof of Registration	12257,928
 Proof of Registration13	12257
 Property Register. Table	18825
-Property Registration	3437,3942,47,5085,4438,664,2
+Property Registration	3437,3942,47,5085,4438,664,2,1710
 Property Registration Code	12137
 Property Registration Special Regime System	11939
 Property Registration and Statistical Development	18792,33
@@ -2374,7 +2387,7 @@ REGISTERED OFFICE	585,8281
 REGISTERED REFUGEES IN HODH CHARGUI	17971
 REGISTERED WITH THE NATIONAL	11240
 REGISTERING A BUSINESS	12389
-REGISTERING A PROPERTY	17613,2
+REGISTERING A PROPERTY	17613,2,1710
 REGISTO	10750
 REGISTO ARTIGO	11520
 REGISTO CIVIL	11363,58
@@ -2393,7 +2406,7 @@ REGISTRARS E CLIENTES DIRETOS	11531
 REGISTRARS GENERAL	13677
 REGISTRARS IARD	11531
 REGISTRASIE VAN AKTES WET	11249
-REGISTRATION	3714,7105,362,795,437,1555,3043,1583
+REGISTRATION	3714,7105,362,795,437,1555,3043,1583,643
 REGISTRATION ACT ARRANGEMENT OF SECTIONS Section	12410
 REGISTRATION AND FEES	1220
 REGISTRATION AND FEES Article	14907
@@ -2447,6 +2460,7 @@ REGISTRATION-OF-A-NEW-ORGANIZATION.pdf Registering	12350
 REGISTRE COMMUNAL Article	10813
 REGISTRE D'IDENTIFICATION FISCALE CHAPITRE	13293
 REGISTRE SOCIAL UNIFIE	19047
+REGISTRE SOCIAL UNIQUE	19221
 REGISTRES ET CARNETS DE DECLARATION Article	16636
 REGISTRIES	16867
 REGISTRIES TO WHICH THESE REGULATIONS SHALL	14427
@@ -2594,7 +2608,7 @@ Register-General	12959
 Register. Mauritius Police	11823
 Register. Seal	18465
 Registerd	12146
-Registered	582,3,151,1992,47,1217,881,23,642,351,1731,225,567,454,91,824,74,127,119,56,250,358,28,71,96,16,12,154,56,64,34,2,359,217,7,1,112,113,44,176,19,18,3,28,15,3,52,18,17,130,395,70,153,39,20,26,436,1009,37,82,88,19,52,307,84,26,262,594,251,48,1242,686,543
+Registered	582,3,151,1992,47,1217,881,23,642,351,1731,225,567,454,91,824,74,127,119,56,250,358,28,71,96,16,12,154,56,64,34,2,359,217,7,1,112,113,44,176,19,18,3,28,15,3,52,18,17,130,395,70,153,39,20,26,436,1009,37,82,88,19,52,307,84,26,262,594,251,48,1242,686,543,138
 Registered Access User Registration Required Data	18747
 Registered Adult Deaths	12151
 Registered Agent	5687,8960
@@ -2766,12 +2780,12 @@ Registrado	16838
 Registrador	4209
 Registradores	16855
 Registrando	16962
-Registrant	12146,2501
+Registrant	12146,2501,4562
 Registrant's Personal Data	12146
-Registrants	11531,615,4721,1607
+Registrants	11531,615,4721,1607,763
 Registrants Growth	13053
 Registraon	15658
-Registrar	1,2,1627,1722,27,335,2709,1359,63,1605,56,2,27,457,531,657,1,8,72,540,253,92,5,139,77,26,13,117,1,1,24,98,3,18,58,167,4,8,1,10,43,81,30,215,2,12,8,4,22,65,99,69,729,114,18,34,186,66,1,1,1,4,33,8,7,41,45,22,15,6,267,229,1439,27,1,13,1403,189,93,46,277,168
+Registrar	1,2,1627,1722,27,335,2709,1359,63,1605,56,2,27,457,531,657,1,8,72,540,253,92,5,139,77,26,13,117,1,1,24,98,3,18,58,167,4,8,1,10,43,81,30,215,2,12,8,4,22,65,99,69,729,114,18,34,186,66,1,1,1,4,33,8,7,41,45,22,15,6,267,229,1439,27,1,13,1403,189,93,46,277,168,160
 Registrar CRO Civil Registration Officer CRVS	15056
 Registrar Directions	3714
 Registrar External	10765
@@ -2882,7 +2896,7 @@ Registrars. Likewise	12959
 Registrasie van Aktes	11189,28
 Registrasie van Aktes Wet	11189
 Registrateur	11189
-Registration	1,2,584,149,26,458,3,1504,45,200,55,103,31,480,73,173,93,133,7,329,104,560,563,756,400,115,218,499,168,1,36,53,156,40,31,29,25,1190,88,189,185,3,165,134,435,171,2,10,37,2,8,1,5,36,56,43,1,158,11,40,6,2,166,77,373,15,97,47,20,1,9,7,48,44,53,8,5,15,1,18,8,21,2,1,2,7,15,4,5,22,16,3,36,6,2,2,1,11,10,8,22,4,17,3,6,30,10,24,13,4,23,1,1,8,91,5,1,9,11,11,18,92,127,8,6,4,1,13,19,10,46,32,16,42,28,30,67,29,6,15,15,1,1,24,4,6,50,32,58,16,56,33,115,88,210,18,263,147,8,12,97,123,67,1,2,3,2,19,4,16,23,1,21,74,9,2,6,8,2,1,3,15,130,29,35,57,25,3,2,103,163,46,144,425,284,146,62,5,7,251,8,9,7,10,7,37,14,14,6,13,140,109,365,389,138,184,144,3,9,3,10,3,1,4,61,3,7,15,37,124,164,37,11
+Registration	1,2,584,149,26,458,3,1504,45,200,55,103,31,480,73,173,93,133,7,329,104,560,563,756,400,115,218,499,168,1,36,53,156,40,31,29,25,1190,88,189,185,3,165,134,435,171,2,10,37,2,8,1,5,36,56,43,1,158,11,40,6,2,166,77,373,15,97,47,20,1,9,7,48,44,53,8,5,15,1,18,8,21,2,1,2,7,15,4,5,22,16,3,36,6,2,2,1,11,10,8,22,4,17,3,6,30,10,24,13,4,23,1,1,8,91,5,1,9,11,11,18,92,127,8,6,4,1,13,19,10,46,32,16,42,28,30,67,29,6,15,15,1,1,24,4,6,50,32,58,16,56,33,115,88,210,18,263,147,8,12,97,123,67,1,2,3,2,19,4,16,23,1,21,74,9,2,6,8,2,1,3,15,130,29,35,57,25,3,2,103,163,46,144,425,284,146,62,5,7,251,8,9,7,10,7,37,14,14,6,13,140,109,365,389,138,184,144,3,9,3,10,3,1,4,61,3,7,15,37,124,164,37,11,308
 Registration Access Nationwide Share Print	18497
 Registration Across Sierra Leone Principal Magistrate	18519
 Registration Act	12898
@@ -3150,9 +3164,10 @@ Registrations Fig	1554
 Registrations Useful Info	12454
 Registrations and Intellectual Property Centre	13177
 Registrations for National ID	13080
-Registre	555,180,443,577,648,220,460,226,282,397,563,388,1856,407,130,381,5,79,99,6,74,1,360,104,450,1122,48,4,647,163,1,6,28,612,422,83,1266,82,15,245,22,70,105,411,23,157,2,63,1,1,47,74,282,18,458,46,8,6,6,58,2,7,82,14,38,18,66,26,102,164,3,53,218,42,14,140,135,19,9,57,38,1077,30,52,14,137,56,13,19,148,4,47,63,1,1,1,9,10,568,16,103,85
+Registre	555,180,443,577,648,220,460,226,282,397,563,388,1856,407,130,381,5,79,99,6,74,1,360,104,450,1122,48,4,647,163,1,6,28,612,422,83,1266,82,15,245,22,70,105,411,23,157,2,63,1,1,47,74,282,18,458,46,8,6,6,58,2,7,82,14,38,18,66,26,102,164,3,53,218,42,14,140,135,19,9,57,38,1077,30,52,14,137,56,13,19,148,4,47,63,1,1,1,9,10,568,16,103,85,15,17,2,2,5,6
 Registre Article	735
 Registre Biométrique des Personnes Physiques	15518
+Registre CRENI	19226
 Registre Carbone Souverain du Gabon	16020
 Registre Central	16047
 Registre Central des Bénéficiaires Effectifs	14633
@@ -3168,6 +3183,7 @@ Registre Foncier	13375
 Registre Foncier Figure	13375
 Registre Foncier. Compte	13375
 Registre Foncier. Pour	13375
+Registre GeneXpert	19226
 Registre IBAN	15901
 Registre Na	16651
 Registre National	557,627,47,6762,1644,1,30,879,274,1222,1791,408,1,1188,64,89,945,4,118,46,974,525,42,39,6
@@ -3195,16 +3211,21 @@ Registre Social Unifié URL	19094
 Registre Social Unifié du Cameroun	10985,4797,40
 Registre Social Unifié du FDSI. Cette	16643
 Registre Social Unifié-Niger URL	18102
-Registre Social Unique	2713,787,7366,16,28,17,11,975,11,86,1704,1,838,9,1054,42,154,189,11,20,251,101,51
+Registre Social Unique	2713,787,7366,16,28,17,11,975,11,86,1704,1,838,9,1054,42,154,189,11,20,251,101,51,2786
+Registre Social Unique P2	19221
+Registre Social Unique P5 Poursuite	19221
 Registre Social Unique. C'était	15616
 Registre Social de TAAZOUR	17927,1079
+Registre Social des Personnes	19241,43
 Registre Sont	735
+Registre TB-MR	19226
+Registre de CPN Selon	19226
 Registre de Commerce	5478,8331,1775,213,452,1236,428
 Registre de Conseil	18003
 Registre des Bénéficiaires Effectifs. MINISTÈRE	4402
 Registre des EPI	14488,1,1
 Registre des Sûretés Mobilières	17847
-Registre du Commerce	6942,404,3490,26,17,643,45,2242,674,869,77,159,47,301,313,368,1200,12,12,6,156,117,796
+Registre du Commerce	6942,404,3490,26,17,643,45,2242,674,869,77,159,47,301,313,368,1200,12,12,6,156,117,796,344
 Registre du Commerce En Côte	15495
 Registre du Commerce de Casablanca	17502
 Registre du Commerce. Services	18916
@@ -3213,7 +3234,7 @@ Registre du Crédit Mobilier	15495
 RegistreSocialUnifié	17933
 Registred	5687
 Registred Note	5687
-Registres	10821,2554,302,872,1050,123,45,134,7,420,308,812
+Registres	10821,2554,302,872,1050,123,45,134,7,420,308,812,1773
 Registres En	15901
 Registres Il	14423
 Registres Le Chef CIREF Responsable	14423
@@ -3275,7 +3296,7 @@ Registros Públicos	16855
 Registros Sí Sí	16898
 Registros Trimestral Ministerio de Pesca	16898
 Registros X	16898
-Registry	2770,517,65,1135,988,764,49,135,1125,828,573,29,464,329,356,61,526,51,10,358,117,509,96,69,15,302,148,24,85,165,299,289,82,873,12,77,40,4,6,148,154,67,1,35,6,3,3,85,291,335,45,110,404,560,249,26,5,1,43,460,528,561,5,86,158
+Registry	2770,517,65,1135,988,764,49,135,1125,828,573,29,464,329,356,61,526,51,10,358,117,509,96,69,15,302,148,24,85,165,299,289,82,873,12,77,40,4,6,148,154,67,1,35,6,3,3,85,291,335,45,110,404,560,249,26,5,1,43,460,528,561,5,86,158,570
 Registry APIs	6423
 Registry BB	6423
 Registry CAPI Computer-Assisted Personal Interviews CHPS	15628
@@ -3407,6 +3428,7 @@ SIRC MANUAL REGISTRATION PROCESS Mobile	10765
 SISTEMA DE REGISTO CIVIL E ESTATÍSTICAS	12862
 SME Registration Unit	14750
 SMEs. National Identification Registry	17099,15
+SMS CONSENT BENEFICIARY'S SELF JOURNEY REGISTRATION	19237
 SNAPSHOT OF CIVIL REGISTRATION AND VITAL	12138
 SOCIAL REGISTRY	11133,5734
 SOCIAL REGISTRY MANAGEMENT INFORMATION SYSTEMS	16867
@@ -3548,8 +3570,8 @@ Social Register of Mauritius	14742,3,26,11,11,35,3,4
 Social Register of Mauritius Individual	14782
 Social Register of Mauritius. Any	14835
 Social Registers	11988
-Social Registries	3276,9167,4424
-Social Registries for Social Assistance and Beyond	10819,314,5734
+Social Registries	3276,9167,4424,2370
+Social Registries for Social Assistance and Beyond	10819,314,5734,2370
 Social Registry	1992,840,8034,659,330,515,42,68,18,43,439,100,119,260,64,69,264,1,366,1440,1204,9,76,8,351,538,55,397,169
 Social Registry B. METHODOLOGY	16867
 Social Registry Baseline Actual	17904
@@ -3571,6 +3593,7 @@ Social Registry Updates	16867
 Social Registry VAT Value-Added Tax VFP	18809
 Social Registry VPN Virtual Private Network	16867
 Social Registry WBG World Bank Group	10964
+Social Registry for Persons and Households	19284
 Social Registry. DECISION	16867
 Social Registry. GBoS	16867
 Social Registry. Importantly	11525
@@ -3843,6 +3866,7 @@ VAT Registration Portal	14784
 VAT Registration Threshold	12389
 VAT Registration Threshold Holder of Pleasure Craft	14757
 VC Venture Capital Registration System IRC	12297
+VERIFICATION DES REGISTRES SECTION Ière	19207
 VI.B Elections Register	10812
 VI.C Business Register	10812
 VI.E Vehicles Register	10812

@@ -89,6 +89,7 @@ Certificate PDA Provincial Department of Agriculture PDIs	11261
 Child Protection and Safety Online in Africa Report .pdf	11400
 Closing PDO	15663
 Cohérence du PDES	18118
+Collection PDO Outcome MoH-UHC Indicator Name	19284
 Collyre PDE. OPHT. Collyre Collyre	15930
 Collyre PDE. OPHT. Collyre PDE. OPHT	15930
 Comité de Pilotage Le Comité de Pilotage du PDDSP	13341
@@ -182,6 +183,7 @@ IV. PDRE. SOL. INJ. PDRE. SOL	15930
 IV. PDRE. SUSP. BUV. COMP. PDRE	15930
 IV. PDRE. SUSP. BUV. PDRE. SUSP	15930
 Implementation Unit PDO Project Development Objective	11924
+Indicator Name PDO Indicators	19284
 Indicators RESULT FRAME TBL PD O Indicator Name	10829
 Information Technology PAM PDF Information Technology	1009
 Infrastructure PDQ International Telecommunication Union PHC	1009
@@ -308,7 +310,7 @@ PDALM Plan Directeur	17907
 PDAs and Smartphones	14723
 PDC Botswana	20
 PDC Participation Observing Member	15276
-PDC Participation Observing Member Sitemap	11493,5940
+PDC Participation Observing Member Sitemap	11493,5940,1926
 PDC Participation Participating Member Observing Member	16597
 PDC-CU	15999
 PDCI-RDA	9620
@@ -431,11 +433,12 @@ PDNPD	9276,7124
 PDO Area RA PDO Indicators Labor	17458
 PDO Baseline	15511
 PDO Expanded	15658
-PDO Indicator	3604,11820,1190,1235,905
+PDO INAM	19284
+PDO Indicator	3604,11820,1190,1235,905,491
 PDO Indicator Baseline	15511
 PDO Indicator Indicator	15601
 PDO Indicator Split	15601
-PDO Indicators	1264,603,845,892,1049,35,1891,349,949,2891,102,525,22,488,19,41,6,17,240,39,145,28,587,31,862,1060,37,14,107,21,499,1,2,74,2,276,19,47,65,43,249,269,244,45,6,79,17,362,12,35,399,54,4,171,217,4,1,4,175,258,25,8,258
+PDO Indicators	1264,603,845,892,1049,35,1891,349,949,2891,102,525,22,488,19,41,6,17,240,39,145,28,587,31,862,1060,37,14,107,21,499,1,2,74,2,276,19,47,65,43,249,269,244,45,6,79,17,362,12,35,399,54,4,171,217,4,1,4,175,258,25,8,258,159,3,4,35
 PDO Indicators Beneficiaries of SSN	11924
 PDO Indicators Definition	15553
 PDO Indicators Direct	13917
@@ -459,21 +462,25 @@ PDO Level Results Baseli	17441
 PDO Level Results Indicators	11905,3467,2086,1429
 PDO Level Results International Communications	15372
 PDO Moderate Moderate Overall Implementation Progress	12440
-PDO Moderately Satisfactory Moderately Satisfactory Overall	15619,116,903,1835
+PDO Moderately Satisfactory Moderately Satisfactory Overall	15619,116,903,1835,769
 PDO Moderately Unsatisfactory	14971
 PDO Outcome	11924,4512,1526
-PDO Outcomes	4653,35,3189,4351,39,791,1922,531,633,805,51,470,663,684,266
+PDO Outcome Dec	19284
+PDO Outcome Monitoring	19284
+PDO Outcome RevisePersons	19284
+PDO Outcomes	4653,35,3189,4351,39,791,1922,531,633,805,51,470,663,684,266,159
 PDO Outcomes Assist Djibouti	13920
 PDO Outcomes Baseline Actual	16705
 PDO Outcomes Baseline Closing Period Strengthen	11417
-PDO Outcomes Baseline Period	1264,603,1737,7164,4890,3,483,805
+PDO Outcomes Baseline Period	1264,603,1737,7164,4890,3,483,805,2296,39
 PDO Outcomes Beneficiaries	15658
+PDO Outcomes Description People	19284
 PDO Outcomes Efficient	16994
 PDO Outcomes Enhanced	17079
 PDO Outcomes Enrollment and Empanelment	16079
 PDO Outcomes Establishment	18534
-PDO Outcomes Expand	11988,6362,9
-PDO Outcomes For Official Use Only	17096,1696
+PDO Outcomes Expand	11988,6362,9,886
+PDO Outcomes For Official Use Only	17096,1696,457
 PDO Outcomes Higher Level Outcomes Provision	15663
 PDO Outcomes INCREASE THE INCLUSIVE	3604
 PDO Outcomes Improve	15661,76,450,1318
@@ -506,8 +513,10 @@ PDO Project Development Objective PHF Public	15663
 PDO Project Development Objective PI Productive	16187
 PDO Project Development Objective PIM Project	1264,17029
 PDO Project Development Objective PIU Project	17849,452
+PDO Project Development Objective PforR Program	19245
 PDO Project Development Objective The World	2473
 PDO Project Development Outcome	14038
+PDO Revised Definition	19284
 PDO S S Disbursement	14010
 PDO S S MS Overall Implementation	1284
 PDO S S Overall Implementation Progress	16896
@@ -658,6 +667,7 @@ PDWG Participant	14240
 PDWG's Co-Chairs	14433
 PDWKĕV	15604
 PDi2T	15424
+PDiMa	19293
 PDr2T	15399
 PENICILLINES AMOXICILLINE PDRE. SOL. INJ	15930
 PFM Public Finance Management PDO Project	15518
@@ -702,6 +712,8 @@ Programmation des PDVC	17864
 Programme NGO Non-Governmental Organizations PDSR Product	12975
 Progress Towards Achievement of PDO	13054
 Project Appraisal Document PDO Project Development	18754
+Project Coordination Unit PDMC Generation Transport	19239
+Project Coordination Unit PDO Project Development	19284
 Project Development Objective Indicators RESULT FRAME TBL PD	10964,4589
 Project Implementation Manual and PDO	15424
 Project Unit ME PDO Table SPACE	10829
@@ -735,6 +747,7 @@ Relevance of PDO and Design	13378
 Report PDF	1985
 Research Square Cite Share Download PDF	12379
 Responsibility PDO Level Results Indicators	15372
+Responsibility for Data Collection MoH-UHC PDO Outcome	19284
 Results Framework. At the PDO	4653
 Results Framework. The PDO and PDO-level	16896
 Revenue PDO Project Development Objective PDMD	18577
@@ -759,11 +772,12 @@ SOL. INJ. PDRE. SOL. INJ	15930
 SOL. INJ. PDRE. SOL. INJ. COMP	15930
 SOL. INJ. PDRE. SOL. INJ. PDRE	15930
 SOL. INJ. SOL. INJ. COMP. PDRE	15930
+SOP1 PDO	19245
 SUPPO. PDRE. SOL. INJ. PDRE. EFFER	15930
 SUSP. BUV PDRE. P. SUSP. BUV	15930
 SUSP. BUV. PDRE. SUSP. BUV. SUSP	15930
 Satisfactory Satisfactory PDO Overall	18809
-Scanned PDF	10895,1,1,1,5,1,1
+Scanned PDF	10895,1,1,1,5,1,1,8326
 Secretary's Desk Q1-2026 A PDF	13503
 Sector Institutional Development Project PDMP Power	11380
 Segmentation du PDI	18297
@@ -792,6 +806,7 @@ Target Target PDO	15663
 Targeted RI Achievement Rating Change PDO1	10779
 Targets Achieved PDO Level Indicator Strengthen	18825
 ToC. Whereas the PDIs	16960
+Télécharger le PDF	19248
 UG PDSS	14666
 UPS. PDUs	9123
 Uganda’s PDPO	4583

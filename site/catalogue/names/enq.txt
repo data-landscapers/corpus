@@ -70,9 +70,11 @@ Divisions Enquêtes	17872
 Dossier Enquête Interview Reportage Archives AFRIQUE	9620
 E.SMART Enquête	17843
 EAM Enquête	15961
-EDS Enquête	16620
+ECG Electrocardiogramme EDST Enquête	19350
+EDS Enquête	16620,2596
 EDS-BF Enquête	15961
 EDSM Enquête	17843
+EDST Enquête	19216
 EESI Enquête	15501
 EFSA Enquête	15580
 EHCVM Enquête	15580,1040,1696
@@ -126,10 +128,12 @@ ENTE Enquête	15961
 EPA Enquête	15580,381
 EPVA Enquête	15580
 ERAM Enquête de Reference	17907
+ERI-ESI Enquête	19216
 ESISC Enquête de Séroprévalence	15580
 ESPPPAB Enquête	15580
 ET DES GRANDES ENQUÊTES RÉALISÉES PAR	14495
 ETC Enquête	15961
+ETVA Enquête	19216
 Emploi ECAM Enquête Camerounaise Auprès des Ménages	15501
 EnQuête	5013
 Enq. Couverture	17844
@@ -170,7 +174,7 @@ Enquiry Consumer Complaints FAQs Consumer Complaints	9109
 Enquiry Point	18469
 Enquiry Points	12389
 Enquiry and Appeals Desk	18448
-Enquête	419,318,232,2190,698,2643,250,209,257,439,174,37,61,103,861,385,277,720,556,45,48,43,15,925,1395,77,13,43,19,16,278,58,100,515,152,6,285,528,33,51,5,14,49,38,78,3,50,9,4,43,141,28,25,169,120,19,12,70,3,11,19,71,161,4,16,8,78,726,26,15,26,313,14,2,1,4,18,78,33,99,22,1,4,65,24,11,82,5,6,19,6,15,85,760,22
+Enquête	419,318,232,2190,698,2643,250,209,257,439,174,37,61,103,861,385,277,720,556,45,48,43,15,925,1395,77,13,43,19,16,278,58,100,515,152,6,285,528,33,51,5,14,49,38,78,3,50,9,4,43,141,28,25,169,120,19,12,70,3,11,19,71,161,4,16,8,78,726,26,15,26,313,14,2,1,4,18,78,33,99,22,1,4,65,24,11,82,5,6,19,6,15,85,760,22,17,73,56
 Enquête ANEMCAM	10965
 Enquête ARTICLE	37
 Enquête Agricole	17945
@@ -193,7 +197,7 @@ Enquête Congolaise	15423,262
 Enquête Continue	18286,26
 Enquête Djiboutienne	11271
 Enquête Démogra-	18077
-Enquête Démographique	13300,446,876,801,52,43,81,86,352,1805,2,101,1,32,122,191,21
+Enquête Démographique	13300,446,876,801,52,43,81,86,352,1805,2,101,1,32,122,191,21,914,81,36
 Enquête Démographique de Sante de Santé	17945
 Enquête EDS	17843
 Enquête Eau- CPCSP	18291
@@ -202,8 +206,10 @@ Enquête FAT Note	7655
 Enquête FAT. Note	7655
 Enquête FSMS	17844
 Enquête Femme Homme	13300
+Enquête Har-	19237
 Enquête Harmonise	17945
 Enquête Harmonisée	737,6938,3199,675,11,2186,58,2580,236,58,1267,33,99
+Enquête Harmonisée des Condi-	19237
 Enquête INSTAT	17842
 Enquête Intégrale	737,11621,45,10,2725
 Enquête LQAS En	14622
@@ -221,6 +227,7 @@ Enquête National	737,17208
 Enquête Nationale	10874,2516,2295,751,1073,333,2,101,1,32,122,104,218
 Enquête Nationale Agricole du Burundi	13325
 Enquête Nationale Budget Temps	16246
+Enquête Nationale Intégrée	19343
 Enquête Nationale Sur La Situation Nutritionnelle	13325
 Enquête ONEF	17842
 Enquête Par Grappes	17945
@@ -250,11 +257,11 @@ Enquête de Suivi	18291
 Enquête de Séroprévalence	15423
 Enquête de Séroprévalence Nationale	14622
 Enquêtedesatisfaction	18297
-Enquêtes	7655,1236,1983,104,1065,1282,919,181,1004,50,116,117,136,327,75,370,826,382,16,1,100,37,309,662
+Enquêtes	7655,1236,1983,104,1065,1282,919,181,1004,50,116,117,136,327,75,370,826,382,16,1,100,37,309,662,297,100
 Enquêtes Cadre	18291
 Enquêtes Démographiques	10874,2426,25,3096,1524,64
 Enquêtes Harmonise	17945
-Enquêtes Harmonisées	11581,6364
+Enquêtes Harmonisées	11581,6364,1398
 Enquêtes MICS	13300
 Enquêtes Modulaire	17945
 Enquêtes Modules	18291
@@ -358,6 +365,7 @@ TESTS SI ENQUÊTÉ ADULTE	13300
 TROISIÈME ENQUÊTE DÉMOGRAPHIQUE ET DE SANTÉ	13300
 Telephone Enquiry Call Waiting Time for Financial	12500
 Tema Localização da Empresa I. Enquadramento	11898
+Togo EHCVM Enquête	19216,134
 Troisième Enquête Démographique	13300,2737
 UNE ENQUETE STRATEGIQUE POUR LE DEVELOPPEMENT	10273
 Union des Comores Enquête Harmonisée	13746

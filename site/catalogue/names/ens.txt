@@ -70,6 +70,13 @@ Ciclo Ensino Secundário	15772
 Cité Ensemble	15555
 Commission Enseignement Secondaire Général	17817
 Commission Enseignement Supérieur	17817
+Commune Masculin Féminin Ensemble AMOU	19350
+Commune Masculin Féminin Ensemble GOLFE	19350
+Commune Masculin Féminin Ensemble KOZAH	19350
+Commune Masculin Féminin Ensemble OGOU	19350
+Commune Masculin Féminin Ensemble TCHAOUDJO	19350
+Commune Masculin Féminin Ensemble TONE	19350
+Commune Masculin Féminin Ensemble ZIO	19350
 Company. ENSURING ACCESS TO WATER	11897
 Competition Ensure	12214
 Computing Resource Ensure	15713
@@ -195,6 +202,8 @@ ENSM EPH EPST FENASCOM HD INSP	17882
 ENSM. Afin	17882
 ENSNSAB	13325
 ENSO. Data	12611
+ENSOT	19251
+ENSOT COLLEGE MILITAIRE EYADEMA	19251
 ENSP FAO FH DISTRICT HEALTH INFORMATION	18105
 ENSP de Niamey. Il	18105
 ENSPT	10948,4594
@@ -230,6 +239,8 @@ ENSafrica.com Shaaista Tayob Associate	11908
 ENSup	17829
 EPS. Ensuite	18297
 ESMP. Ensure	12253
+ET ENSUITE	19348
+ETFP Enseignement	19350
 East and Central Africa. Margee Ensign	11682
 Edition I-I13. Ensure Data Center Sustainability	15713
 Electricity Access Ensure	14947
@@ -244,14 +255,17 @@ Ensacheuse-	17817
 Ensaio	18896
 Ensaios	15772
 Enschede	15552
-Enseignant	10847,822,1631,2385,2178,569
+Enseignant	10847,822,1631,2385,2178,569,931,3
 Enseignant Chercheur	2966
 Enseignant Employeur	13300
+Enseignant de Français	19366
+Enseignant de Mathématiques	19366
+Enseignant des Sciences	19366
 Enseignant-	17861
 Enseignant- PORTANT NOMINATION DES MEMBRES	17861
 Enseignant-Chercheur	17861,142,29
 Enseignant-Chercheur. Vu le Décret	18032
-Enseignant-chercheur	5826,2495,400,7566,36,1426,1135
+Enseignant-chercheur	5826,2495,400,7566,36,1426,1135,359
 Enseignant-chercheur. AU TITRE DU MINISTERE	17991
 Enseignant-chercheur. Au	8321
 Enseignant-chercheur. MINISTERE DE LA TRANSITION DIGITALE	15942
@@ -269,11 +283,12 @@ Enseigne	15744,2572
 Enseigne L’Opérateur	15885
 Enseigne-	13442,4370
 Enseigneme nt	15489
-Enseignement	643,94,28,532,297,85,3,26,251,1007,430,358,71,10,257,782,297,500,23,541,202,77,593,13,65,485,14,294,259,32,52,15,118,112,107,218,65,124,164,26,386,157,121,642,32,3,236,16,12,448,307,39,4,370,25,1222,100,52,458,548,24,98,16,678,93,4,15,50,40,8,15,40,62,41,7,34,1,24,35,44,58,42,51,8,6,25,1,13,18,48,46,6,128,15,7,38,57,13,49,45,26,8,11,16,5,18,11,9,61,12,6,19,34,39,858,233,7,3,2,1,30,1,2,11,7,30,5,31,13,22,21,21,47,6,22,66,6,96,19,33,5,3,12,30,31,2,1,9,345,127,288,15
+Enseignement	643,94,28,532,297,85,3,26,251,1007,430,358,71,10,257,782,297,500,23,541,202,77,593,13,65,485,14,294,259,32,52,15,118,112,107,218,65,124,164,26,386,157,121,642,32,3,236,16,12,448,307,39,4,370,25,1222,100,52,458,548,24,98,16,678,93,4,15,50,40,8,15,40,62,41,7,34,1,24,35,44,58,42,51,8,6,25,1,13,18,48,46,6,128,15,7,38,57,13,49,45,26,8,11,16,5,18,11,9,61,12,6,19,34,39,858,233,7,3,2,1,30,1,2,11,7,30,5,31,13,22,21,21,47,6,22,66,6,96,19,33,5,3,12,30,31,2,1,9,345,127,288,15,34,20,12,5,108
 Enseignement ANNUAME NTATINTIUEDEouCATON NATONALE	18171
 Enseignement Article	17827
 Enseignement Assemblée Législative	13442
 Enseignement BAD	17830
+Enseignement Catholique	19250
 Enseignement Direction Provinciale	13442
 Enseignement ECR Ecole Coranique Restructurée EF	18171
 Enseignement Elémentaire FAI Fournisseur	16626
@@ -311,7 +326,7 @@ Enseignement Secondaire Général Section	18884
 Enseignement Secondaire Technique	18884
 Enseignement Suite	17916
 Enseignement Superieur	14472,190
-Enseignement Supérieur	12,1171,525,188,800,21,258,221,200,5024,471,1930,104,23,649,308,11,327,1047,284,228,41,589,185,232,517,10,21,3,72,2,5,10,4,7,29,24,15,12,93,1,8,3,72,91,88,57,6,176,182,8,16,154,74,7,10,1,14,33,13,24,731,6,10,357,9,3,2,1,14,12,14,15,10,5,24,176,21,22,27,116,5,611,135,127,8,4
+Enseignement Supérieur	12,1171,525,188,800,21,258,221,200,5024,471,1930,104,23,649,308,11,327,1047,284,228,41,589,185,232,517,10,21,3,72,2,5,10,4,7,29,24,15,12,93,1,8,3,72,91,88,57,6,176,182,8,16,154,74,7,10,1,14,33,13,24,731,6,10,357,9,3,2,1,14,12,14,15,10,5,24,176,21,22,27,116,5,611,135,127,8,4,45
 Enseignement Supérieur Arabe	18143,27
 Enseignement Supérieur Article	18884
 Enseignement Supérieur CAPEX Dépense	15474
@@ -331,7 +346,7 @@ Enseignement Supérieur. Chapitre	18884
 Enseignement Supérieur. Chirurgiens	15711
 Enseignement Supérieur. Il	16627
 Enseignement Supérieure	15500,2370
-Enseignement Technique	8895,160,1227,1623,11,2556,58,92,754,98,19,3,177,39,136,88,76,93,511,10,15,21,51,1374,797
+Enseignement Technique	8895,160,1227,1623,11,2556,58,92,754,98,19,3,177,39,136,88,76,93,511,10,15,21,51,1374,797,357
 Enseignement Technique CSLP Cadre Stratégique de Lutte	17907
 Enseignement Technique PSCIPGO	15712
 Enseignement Technologique de Rosso	17853
@@ -343,13 +358,15 @@ Enseignement des TIC	15632
 Enseignement du Français	15674
 Enseignement du Premier	10847
 Enseignement. L’initiative	10611
-Enseignements	1679,294,993,4689,2724,504,4606,150,209,214,421,1101,361,69,62,1047
+Enseignements	1679,294,993,4689,2724,504,4606,150,209,214,421,1101,361,69,62,1047,86
+Enseignements Primaire	19241
+Enseignements Primaires	19241
 Enseignements Restaurants	16708
 Enseignements Secondaire	15489,2328,352
 Enseignementsupérieur	15489
 Enseignent	8237
 Enseigner	13290,2383
-Ensemble	737,494,1111,45,215,22,459,215,30,13,145,286,885,238,196,1868,135,636,128,136,897,240,351,1042,302,48,1,1,280,115,309,531,1189,6,136,273,4,764,139,40,758,6,13,26,9,5,19,14,30,13,2,42,16,9,12,7,27,15,27,10,2,59,8,21,36,13,75,2,99,140,18,52,2,1,115,16,75,63,96,110,432,660,28,3,15,38,45,68,42,21,29,65,33,108,7,56,24,8,18,3
+Ensemble	737,494,1111,45,215,22,459,215,30,13,145,286,885,238,196,1868,135,636,128,136,897,240,351,1042,302,48,1,1,280,115,309,531,1189,6,136,273,4,764,139,40,758,6,13,26,9,5,19,14,30,13,2,42,16,9,12,7,27,15,27,10,2,59,8,21,36,13,75,2,99,140,18,52,2,1,115,16,75,63,96,110,432,660,28,3,15,38,45,68,42,21,29,65,33,108,7,56,24,8,18,3,793,5,37,87
 Ensemble Actuellement	13300
 Ensemble Aucun Primaire Post	737
 Ensemble Célibataire Marié	18014
@@ -386,7 +403,7 @@ Ensemble du Effectif	13300
 Ensemble du Modèle	13841
 Ensemble1	13300
 Ensembleorganiséderessources	15525
-Ensembles	9482,6460,161
+Ensembles	9482,6460,161,3118
 Enseñanza	4209,12689,296,88
 Enseñanza Primaria	16864
 Enseñanza Profesional	4209,12953,53,98
@@ -543,8 +560,8 @@ Ensino. TURMA	10766
 Ensoft	3733
 Ensoleillement	1005
 Ensuing	3583
-Ensuite	737,10,1,257,182,797,423,5,31,518,1024,80,828,1382,181,316,55,132,324,936,50,630,94,1212,82,228,293,67,1,187,2227,51,34,149,282,514,130,99,292,622,32,5,42,26,124,20,15,125,56,239,474,6,17,103,812,246,140,54,205,82,640,62
-Ensure	34,136,225,504,59,3,39,9,122,30,43,39,14,27,346,74,73,37,14,160,1151,444,21,74,183,265,88,314,82,238,396,1,1,287,132,10,1,5,509,242,36,275,89,104,4,9,599,998,59,1,388,88,41,537,195,82,220,250,143,171,44,10,41,13,131,25,19,3,122,2,2,7,16,32,7,1,20,20,4,36,277,301,3,3,1,41,14,24,1,11,4,8,13,9,9,13,33,102,6,36,10,6,13,3,10,6,7,13,2,31,16,26,28,2,1,14,26,5,40,68,162,1,79,25,148,5,9,8,13,2,3,3,1,6,13,14,1,32,148,110,13,2,2,1,1,6,11,2,13,1,34,11,98,16,175,187,70,22,31,11,18,95,34,292,25,35,23,42,104,4,49,11,10,3,1,3,1,8,1,12,4,13,22,6,1,25,2,19,9,5,4,6,2,1,30,6,19,11,7,20,12,29,2,6,32,15,9,40,24,7,3,19,9,68,16,135,36,71,35,51,26,31,18,34,3,9,25,10,85,94,21,17,235,41,466,114,18,10,5,1,5,6,6,1,26,4,11,1,12,4,4,4,15,1,1,3,4,3,18,15,7,12,7,31,31,15,2,23,1,9,8,39,64,25,11,68,30,476,80,20,335,65,94,8,5,4,9,5,17,17,2,1,5,27,11,1,1,24,1,6,9,18,135,115,2,2,14,8,131,4
+Ensuite	737,10,1,257,182,797,423,5,31,518,1024,80,828,1382,181,316,55,132,324,936,50,630,94,1212,82,228,293,67,1,187,2227,51,34,149,282,514,130,99,292,622,32,5,42,26,124,20,15,125,56,239,474,6,17,103,812,246,140,54,205,82,640,62,232
+Ensure	34,136,225,504,59,3,39,9,122,30,43,39,14,27,346,74,73,37,14,160,1151,444,21,74,183,265,88,314,82,238,396,1,1,287,132,10,1,5,509,242,36,275,89,104,4,9,599,998,59,1,388,88,41,537,195,82,220,250,143,171,44,10,41,13,131,25,19,3,122,2,2,7,16,32,7,1,20,20,4,36,277,301,3,3,1,41,14,24,1,11,4,8,13,9,9,13,33,102,6,36,10,6,13,3,10,6,7,13,2,31,16,26,28,2,1,14,26,5,40,68,162,1,79,25,148,5,9,8,13,2,3,3,1,6,13,14,1,32,148,110,13,2,2,1,1,6,11,2,13,1,34,11,98,16,175,187,70,22,31,11,18,95,34,292,25,35,23,42,104,4,49,11,10,3,1,3,1,8,1,12,4,13,22,6,1,25,2,19,9,5,4,6,2,1,30,6,19,11,7,20,12,29,2,6,32,15,9,40,24,7,3,19,9,68,16,135,36,71,35,51,26,31,18,34,3,9,25,10,85,94,21,17,235,41,466,114,18,10,5,1,5,6,6,1,26,4,11,1,12,4,4,4,15,1,1,3,4,3,18,15,7,12,7,31,31,15,2,23,1,9,8,39,64,25,11,68,30,476,80,20,335,65,94,8,5,4,9,5,17,17,2,1,5,27,11,1,1,24,1,6,9,18,135,115,2,2,14,8,131,4,188
 Ensure AI	1814,2714,7828,156,163
 Ensure AU Member States	1814
 Ensure Access	4528,7329,655,6234
@@ -611,11 +628,11 @@ Ensure the MoPT	16872
 Ensure the Monitoring	13320
 Ensure the National Cloud Policy	11995
 Ensure the Official Secrets Act	13310
-Ensured	10776,1953,2875,109,1293
+Ensured	10776,1953,2875,109,1293,2231
 Ensures	236,2822,2187,908,2975,727,1274,87,700,23,9,4,262,32,716,75,5,1559,288,58,50,133,583,1250,136,15,43,382,992,264
 Ensures AI	14812
 Ensurethatcommunitiesarefullyinvolvedinlandmanagement Land	10960
-Ensuring	396,544,18,3,9,191,82,18,517,36,4,540,101,243,256,656,37,90,46,102,88,283,394,286,192,113,329,101,2,23,220,496,123,407,456,146,328,307,298,205,366,151,234,98,87,20,117,1081,1,119,13,7,151,12,2,1,10,40,30,30,1,8,91,326,179,1,17,21,2,50,12,22,11,4,7,184,9,7,2,4,19,7,1,5,7,4,40,5,26,1,27,8,5,9,21,12,42,99,56,15,40,6,5,1,84,161,12,8,22,2,3,6,2,41,128,164,2,2,2,17,14,12,1,37,36,247,3,257,72,7,431,22,16,79,1,157,15,7,1,15,11,1,45,42,19,53,3,8,4,50,26,5,6,86,10,84,72,86,21,80,38,7,86,25,26,70,18,17,171,281,67,38,546,4,5,2,9,1,1,4,26,1,23,3,1,20,3,5,4,10,11,21,82,15,2,1,10,12,10,7,1,94,38,7,15,93,465,1,500,60,40,7,27,25,22,13,29,15,138,239,23
+Ensuring	396,544,18,3,9,191,82,18,517,36,4,540,101,243,256,656,37,90,46,102,88,283,394,286,192,113,329,101,2,23,220,496,123,407,456,146,328,307,298,205,366,151,234,98,87,20,117,1081,1,119,13,7,151,12,2,1,10,40,30,30,1,8,91,326,179,1,17,21,2,50,12,22,11,4,7,184,9,7,2,4,19,7,1,5,7,4,40,5,26,1,27,8,5,9,21,12,42,99,56,15,40,6,5,1,84,161,12,8,22,2,3,6,2,41,128,164,2,2,2,17,14,12,1,37,36,247,3,257,72,7,431,22,16,79,1,157,15,7,1,15,11,1,45,42,19,53,3,8,4,50,26,5,6,86,10,84,72,86,21,80,38,7,86,25,26,70,18,17,171,281,67,38,546,4,5,2,9,1,1,4,26,1,23,3,1,20,3,5,4,10,11,21,82,15,2,1,10,12,10,7,1,94,38,7,15,93,465,1,500,60,40,7,27,25,22,13,29,15,138,239,23,240
 Ensuring AI	14674
 Ensuring Agile AI Governance	12210
 Ensuring Availability	16971
@@ -689,6 +706,7 @@ Finance E ENS ArticleTwo Upgrades	6998
 Financial Ensure	14997
 Financial Sustainability Ensure	11131
 Fonio Niébé Voandzou Arachide Gombo Ensemble	737
+Formation des Enseignants du Secondaire	19366
 G and Fiber Ensure Data Privacy and Security	15713
 G. Ensuring	16958
 GENERAL DIRECTION GENERALE DES ENSEIGNEMENTS DIRECTION	18099
@@ -751,6 +769,7 @@ KORI. Ensuite	9510
 Km Ensemble	737
 Know Mauritius Privacy E ENS ArticleEU	6632
 L ENSEIGNANT	13300
+LE MINISTRE DES ENSEIGNEMENTS PRIMAIRE	19241
 LE SOUS-SECTEUR DES ENSEIGNEMENTS SECONDAIRES SECTION	15999
 LISTA DAS INSTITUIÇÕES DE ENSINO SUPERIOR	11391
 La Commission Enseignement Secondaire Général	17817
@@ -795,6 +814,7 @@ Ministry of Water Resources Ensures	18504
 Ministère Enseignement Supérieur Université Articles	15835
 Ministère des Enseignements	2966
 Ministère des Enseignements Maternel	16535
+Ministère des Enseignements Primaire	19221,20
 Ministère des Enseignements Professionnels	18222
 Ministère des Enseignements Secondaires	17812,287
 Mission Ensuring	13991
@@ -806,6 +826,7 @@ NATIONALE DE SANTÉ PUBLIQUE ENSTAT ECOLE	18143
 NESA Ensure	15130
 NID and Civil Registration Ensures	13681
 NOTEZ ENSEMBLE DE LIGNE DE LIGNE	13300
+NSHI Scheme. Ensuring	19284
 Nations Unies. Ensemble	16743
 Natureza da Instituição de Ensino Superior	11387
 Nenhum Ensino Primário	10777
@@ -854,6 +875,7 @@ PROFESSEURS DANS LE NIVEAU DE ENSEIGNEMENT	18757
 PROFESSORES CONSOANTE O NÍVEL DE ENSINO	18757
 PROTOCOLO GENDARMERIA LOGISTICA ENSEÑANZA INSPEC.GRAL. GRAL	4209
 Paie des Enseignants Provincial	11916
+Paludisme Ensemble	19226
 Paridade de Género3 ENSINO PRIMÁRIO	10777
 Percurso de Ensino Aprendizagem PND	11387
 Pertinence des Enseignements	11918,3611
@@ -894,6 +916,7 @@ Rede de Instituições de Ensino Superior	8000
 Reestructuración de ENSA	1701
 Regulate and Ensure	15716
 Regulatory Ensure	14674
+Revised Ensuring	19284
 Roka Botey Secretario de Estado Encargado de Enseñanza	16920
 Rural Ensemble Région Eau	18014
 Rural Féminin Ensemble Ensemble Masculin Féminin	18014
@@ -939,6 +962,7 @@ Substantial Ensure	10768
 Sud-Ouest Ensemble	10875
 Suite Caractéristique Urbain Ménages Ensemble Urbain	13300
 Suite Résidence Urbain Rural Ensemble	18312
+Suivi Stratégie Ensemble	19226
 Support Sustainable Investment Ensuring	17212
 Sustainable Ensuring	12674
 Syndicat des Enseignants-Chercheurs du Mali	17982
@@ -964,7 +988,12 @@ Union Démocratique des Enseignants du Sénégal	18286
 Unlock Additional Resources Pillar V Ensure	16188
 Urbain Ensemble	737
 Urbain Ménages Ensemble Urbain Population Ensemble	13300
-Urbain Rural Ensemble	737,12563
+Urbain Rural Ens. Enfants	19350
+Urbain Rural Ens. Radio	19350
+Urbain Rural Ens. Robinet	19350
+Urbain Rural Ens. Réfrigérateur	19350
+Urbain Rural Ens. Télévision	19350
+Urbain Rural Ensemble	737,12563,6050
 Urbain Rural Ensemble Cascades Centre	10875
 Urbain Rural Ensemble Célibataire	737
 Urbain Rural Ensemble Endroit	18312
@@ -974,6 +1003,7 @@ Urbain Rural Ensemble Sexe du CM Masculin	737
 Urbain Rural Ensemble Statut	18312
 Urbain Rural Ensemble Taux	15557
 Urbain Rural Ensemble Technologie	18312
+Urbain Rural Ensemble Trois	19350
 Urbain Rural Ensemble Urbain Rural Ensemble	10875
 VERITAS MAKES EVERY EFFORT TO ENSURE	972
 VEUF ANS ANS POSEZ ENSUITE	13300

@@ -25,7 +25,7 @@ Encaissement TTC	16714
 English and Kiswahili TT Ministry	12138
 Ensino Secundário Província TT	10766
 Ensino Secundário TT	10766
-F CFA TTC	3044,145,5132,9711
+F CFA TTC	3044,145,5132,9711,1302
 F CFA TTC.Le	7670
 FCFA TTC	8577,2398,4998,1860
 FCFA TTC CTD Décision	10975
@@ -48,6 +48,7 @@ LuSE TTC and VISA	12364
 MGNF Vente TTC	16714
 Message Priorities TTC Priority Default Range	12364
 Message Type TTC Types MT298 SMT	12364
+Mn FCFA TTC	19221
 Nairobi TT Official	12138
 O NOISSAS HLXIS Tt0z	16841
 PED TTC	15615
@@ -85,6 +86,7 @@ TT UNICEF	12138
 TTC FCFA	16581
 TTC Pacs.010	12364
 TTC Teacher	14922
+TTC Toutes	19350
 TTC Type TTC Code Default Range	12364
 TTC de FCFA	16352
 TTCL Corporation	3954

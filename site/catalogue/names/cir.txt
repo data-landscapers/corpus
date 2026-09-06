@@ -89,6 +89,8 @@ CIREF Réception	14423
 CIREF Stockage	14423
 CIREF Stockage CIREF	14423
 CIREF Universités	14423
+CIRFD	19212
+CIRFD.Art.17	19212
 CIRGL	13325,117
 CIRMR	10721
 CIRMR-	10721
@@ -175,12 +177,12 @@ Circonscription	10847,1077,3715,88,285,1473,376,240
 Circonscriptions	15639,373,1864,23,104,29
 Circonscriptions Régionales	14423
 Circonscriptions Scolaires COPIL	14472
-Circonstances	14861,1886
+Circonstances	14861,1886,2466
 Circonstonces	15429
 Circu	15772
 Circui	15772
 Circuii	15429
-Circuit	12256,2186,1153,75,15,61,162,195,449,348,43,1175
+Circuit	12256,2186,1153,75,15,61,162,195,449,348,43,1175,1108
 Circuit Court	16840,103
 Circuit Court Building	16943
 Circuit Court Complexes	16943
@@ -227,7 +229,7 @@ Circular Genome Viewer	9475
 Circular Innovation Lab	18558
 Circular Letter	14835,3135
 Circular Letter No	14761
-Circular No	8981,329,697,4828,62,576,1763
+Circular No	8981,329,697,4828,62,576,1763,1998
 Circular No.4	14830
 Circular PSS	8680
 Circular RBI	6735,200
@@ -388,6 +390,7 @@ Mariama Cire Sylla and Visa's Vice-President for West	5787
 Mariama Ciré Kaba	7730
 Mariama Ciré Sylla	7978,8690,56,13
 Marketing CIRTs Computer Incident Response Teams	6946
+Measurement Circular	19242
 Mme Mariama Ciré Sylla. Pour	7901
 MoU Memorandum of Understanding CIRT Common Market	12444
 Money Circles	7565

@@ -12,6 +12,7 @@ AIDS DSSC District Social Support Committee	12964
 ANNUAL REPORT Gender Distribution of Foreign Researcher	1554
 ARIDITY DISTRIBUTION	17157
 ASOKORO DISTRICT	16243,1693
+AU RESEAU ELECTRIQUE NATIONAL DE DISTRIBUTION	19241
 AU TRANSPORT ET A LA DISTRIBUTION	16612
 Abbreviations ANC Antenatal Care DHIS District	771
 Abidjan District	10930
@@ -157,6 +158,7 @@ CVI du District de Décret	17812
 Cabeceras de Distritos	4209
 Cadastral Zone A00 Central Business District	12062,6124,31
 Cadastre du District	17817
+Cadre de District EDS	19226
 Caillasse Carrière Ambatomaro Distance	14489,1
 Camara Pelayo Coordinador Distrital de Bata Ilmo	16920
 Can We Distinguish	6947
@@ -275,6 +277,7 @@ Câmara Distrital Artigo	18751
 Câmaras Distritais de Cantagalo	18877
 D'ENDROIT. HÔPITAL DE DISTRICT	13300
 D.G GEST. Y CONTR. INFRAESTR. DISTRIB	4209
+DALY Disability-Adjusted Life Year DHIS2 District	19284
 DANS LE DISTRICT DE BAMAKO	17828
 DAR EL OUAI EDITION ET DISTRIBUTION	15885
 DAS MULHERES NOS DISTRITOS	18757
@@ -434,7 +437,7 @@ Direction Distribution. Cette	16714
 Direction Générale des Impôts DHIS District Health	15583
 Director of Production and Distribution	15019
 Directorate of Distance and E-Learning DP	12175
-Disabilities Distr	17296
+Disabilities Distr	17296,1938
 Dispositif District	14625
 Dist. Pros Unit	14781
 Distance	737,1251,2104,2379,2652,543,522,526,1204,1,25,146,85,74,84,50,20,897,90,134,904,347,9,297,163,3,294,202,193,1163,58,39,757,168,191,118,481
@@ -469,8 +472,11 @@ Distillation	17802
 Distilled	8510
 Distilled Spirits	6921
 Distinct	24,1157,462,177,341,112,501,204,878,380,236,65,482,407,422,1328,5,995,500,152,235,400,101,1811,1178,24,1508,27,1265
+Distinct Household	19242
+Distinct Households	19242
+Distinct Households. Allocated	19242
 Distinct World Bank Angola	1176
-Distinction	9124,3321,591,4996,524
+Distinction	9124,3321,591,4996,524,739
 Distinctions	17812
 Distinctive Characteristics Generative	14565
 Distingue	16962
@@ -517,7 +523,7 @@ Distri	13325
 Distribuc	16962
 Distribución	1701,15197,64,7
 Distribución de Transferencias	4209
-Distribuer	3396,11141
+Distribuer	3396,11141,4689
 Distribui	18896
 Distribui-	18896
 Distribuidor	18896
@@ -584,7 +590,7 @@ Distributeurs Automatiques de HT	17833
 Distributeurs Automatiques de VISA	17833
 Distributi Volume of Value of Product	16878
 Distributing	8647,4861,1414
-Distribution	771,199,28,16,140,209,465,160,787,808,876,217,1064,1092,104,2,8,1323,141,194,395,124,493,865,282,1,11,94,85,21,156,4,1,52,4,3,3,73,251,41,18,372,2,21,257,23,5,97,9,9,23,14,32,14,99,209,165,31,12,1,146,268,2,41,9,32,39,111,30,214,156,398,66,1,1,132,197,21,18,9,29,51,50,12,8,32,7,29,79,91,218,1,68,32,4,26,66,15,28,2,9,77,84,84,30,38,26,132,134,283,102,5,132,2,68,14,15,16,30,47,84,30,79,133,374,100,3,20,1,2,25,51,56,13,265,7,2,9,25,33,88,24,70,4,15,348,3,9,17,217
+Distribution	771,199,28,16,140,209,465,160,787,808,876,217,1064,1092,104,2,8,1323,141,194,395,124,493,865,282,1,11,94,85,21,156,4,1,52,4,3,3,73,251,41,18,372,2,21,257,23,5,97,9,9,23,14,32,14,99,209,165,31,12,1,146,268,2,41,9,32,39,111,30,214,156,398,66,1,1,132,197,21,18,9,29,51,50,12,8,32,7,29,79,91,218,1,68,32,4,26,66,15,28,2,9,77,84,84,30,38,26,132,134,283,102,5,132,2,68,14,15,16,30,47,84,30,79,133,374,100,3,20,1,2,25,51,56,13,265,7,2,9,25,33,88,24,70,4,15,348,3,9,17,217,76,124
 Distribution Agency Agreement	11215
 Distribution Agency Agreements	11236
 Distribution Annex	12978
@@ -608,6 +614,7 @@ Distribution List Cabinet Office	12360
 Distribution List Waste	1988
 Distribution List for Notifications CERT-GH	775
 Distribution MT	15542
+Distribution Master Plan	19239
 Distribution Media	16266
 Distribution Network	11857,542,6215
 Distribution Network From the ESR	18543
@@ -739,7 +746,7 @@ Distributors GoTV Kenya	6946
 Distributors Master Plans	12399
 Distributtiioonn	12256
 Distribué	9502,2522,3,2662,1200,514
-District	22,714,35,18,1035,164,354,135,466,848,411,796,1961,409,1301,2160,95,205,123,24,320,384,104,74,43,39,95,3,41,24,8,2,16,11,13,93,93,90,169,107,184,109,9,38,22,51,221,27,757,2,63,1,1,9,123,91,27,178,4,1,12,5,57,58,1,25,4,53,241,20,74,85,57,15,55,35,125,202,29,174,63,338,236,83,129,15,35,447,223,10,8,8,16,11,365,133,82,8,4,3,3,8,331,102
+District	22,714,35,18,1035,164,354,135,466,848,411,796,1961,409,1301,2160,95,205,123,24,320,384,104,74,43,39,95,3,41,24,8,2,16,11,13,93,93,90,169,107,184,109,9,38,22,51,221,27,757,2,63,1,1,9,123,91,27,178,4,1,12,5,57,58,1,25,4,53,241,20,74,85,57,15,55,35,125,202,29,174,63,338,236,83,129,15,35,447,223,10,8,8,16,11,365,133,82,8,4,3,3,8,331,102,309
 District Action Plan DEMISO	12175
 District Administration	13423
 District Administrations	19108
@@ -760,7 +767,9 @@ District Assembly	11,16065
 District Assembly G. Clearance Approval’s Name	17114
 District Authorities	6921
 District Autonome	2342
+District Autonome de Grand Lomé	19307
 District Autonome du Grand Lome	4293
+District Autonome du Grand Lomé	19220,31
 District Before Employment	12253
 District Boundary Maps	16921
 District CCPN	12510
@@ -868,10 +877,10 @@ District Health Centers	16951
 District Health In- District Health Information	10780
 District Health Infonnation System	4301
 District Health Information Management System	15556
-District Health Information Software	771,441,7164,1812,690,3,38,498,586,22,27,9,135,1433,993,44,232,25,552,237,247,397,66,445,29,26,19,30,1561,399
+District Health Information Software	771,441,7164,1812,690,3,38,498,586,22,27,9,135,1433,993,44,232,25,552,237,247,397,66,445,29,26,19,30,1561,399,295,58
 District Health Information Software DIEM	15475
 District Health Information Software and National Health	15833
-District Health Information System	21,13,362,370,395,100,563,1967,558,3669,358,2400,53,52,1144,230,158,89,67,160,1313,1548,57,319,229,776,130,1428,16,83,522
+District Health Information System	21,13,362,370,395,100,563,1967,558,3669,358,2400,53,52,1144,230,158,89,67,160,1313,1548,57,319,229,776,130,1428,16,83,522,134
 District Health Information System DHRMD Department	12917
 District Health Information System Electronic Management	12037
 District Health Information System Version	12037
@@ -879,7 +888,7 @@ District Health Information System-2	18768
 District Health Information System2	15936
 District Health Management Information System	1261,17217
 District Health Management Information Systems	396
-District Health Management Team	3791
+District Health Management Team	3791,15493
 District Health Management Teams	12240,6238
 District Health Management Teams. Citeseer	1261
 District Health Office	3791,8350,101
@@ -888,8 +897,9 @@ District Health Offices	12240,15
 District Health Plans	3791
 District Health Survey-II	970
 District Health Teams	16971
+District Health Verification Entity Management Team	19284
 District Heath Information System	15685
-District Hospital	3386,8952,41
+District Hospital	3386,8952,41,6905
 District Hospital Health Center	12379
 District Hospital Health Center EMR Only	12379
 District Hospital Health Center Short	12379
@@ -1728,6 +1738,7 @@ N'30. Fuxingmennei Street. Xicheng District. Beijing	15399
 N.º DISTRITOS	18757
 NACIONAL DE ALIMENT. BACHILLER. POLITECNICO DISTRITAL	4209
 NASA EOSDIS Land Processes Distributed	13624
+NATIONAL DE DISTRIBUTION Art	19241
 NDFS Nutanix Distributed File System NDMP	13185
 NDMA-PR-10 Civil Disturbance	12977
 NDPC’s District Development Data Platform	15845
@@ -1963,6 +1974,7 @@ Region Prefecture Health Districts Population	10829
 Regional Distribution	17127
 Regional Distribution of Customer Connections Changes	12969
 Regional Distribution of FM Stations	2776
+Regional Distribution of Jobs	19284
 Regional Electricity Distributor GDP Gross Domestic	12399
 Regional Electricity Distributors	12399,642,92
 Regional and District	10970
@@ -2013,8 +2025,10 @@ Rutunga Fumbwe Kiramuruzi Kigeyo Ngororero District	12413
 Rwamagana District	13418,1631
 Rwanda RESEARCH REPORT Distance	12328
 RÉPARTITION DU PÉRIMÈTRE DE DISTRIBUTION DANS	15670
+Règlement Technique de Distribution	19295
 Règlement du Service de Distribution Publique	10975
 Régies de Distribution	13377
+Réseau Distribution	19295
 S Muhanga District Gacurabwe	12413
 S. Distributeur des SECeF	14469
 SAMPLING- DISTRIBUTION OF EAs AND HOUSEHOLDS	17285

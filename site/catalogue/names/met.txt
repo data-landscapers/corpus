@@ -97,6 +97,8 @@ Annex D. Estimation Method	10714
 Annexe A Methodologie	14472
 Annual SG1 SO4 Metadata	17116
 Annual SG2 SO1 Metadata	17116
+Annually Methodology for Data Contracts	19284
+Annually Methodology for Data Registry	19284
 Ansu Abraham Metzger	16876
 Anthropic and OpenAI and Google Meta	9284
 Anthropic’s Claude and Meta’s Llama	8216
@@ -140,6 +142,8 @@ Benchmarking Framework and Method74	15164
 Benefits of Metadata Standards	12360
 Benin METHODS	10852
 Bernard OBIANG METOULOU	16175
+Biannually Methodology for Data PHC	19284
+Biannually Methodology for Data Project	19284
 Birr Metrics	7474
 Black Meteors Loop	3386
 Body WORLD METEOROLOGICAL ORGANIZATION COMMISSION	12649
@@ -161,6 +165,7 @@ C. Methodology and Consistency	14777
 C. Qualitative Methods	17139
 C2- Methodology	7548
 CAP O Instituto Nacional de Meteorologia da Guiné-Bissau	17300
+CD Access Method and Physical Layer Specifications	19245
 CEB SSDG Net Metering Scheme	14807
 CH4 Methane CO2 Carbon	17140
 CHAPTER TWO METHODOLOGY	15244
@@ -295,6 +300,8 @@ Description Meta	511
 Description Method	15518
 Design and Methodology	2775
 Details Hydro Methane Thermal Solar Peat	12358
+Develop Methodologies Activity	19214
+Develop and Field-Test Cost-Effective Methodologies	19214
 Development Change and Meteorological	7548
 Development Methodology Report	4359
 Diagnostic Methodology	13312,2,1583,1979,1740
@@ -433,6 +440,7 @@ Google and Meta. Kepios	3918,1,1,8082,439,2579,2,897,1161
 Google’s Equiano and Meta	3782,2404
 Govt Tells Meta To Align Policies	9640
 Greenhouse Gas Accounting Methodology for Energy Access	15659
+Grievance Redress Mechanism Methodology for Data GRM	19245
 Guidelines for Metadata Standards	12360
 Guinea-Bissau National Meteorological Institute	11553
 Guinea’s National Meteorological Service	16698
@@ -480,6 +488,7 @@ ISO’s Land Cover Meta Language	15129
 ISPs Methodology for Data Collection Data	3604
 ITC METHODOLOGY	18487
 ITU Methodology for Data Collection Data	3604
+ITU Methodology for Data Data	19245
 Ibid Pillars Metrics	12399
 Idem Meteorologia	17147
 Ikoyi Metro EDGE	4565
@@ -673,6 +682,7 @@ METERING AND BILLING	14867
 METERING AND BILLING Article	14867
 METF MdJL	17441
 METFP	14530
+METFP Ministère	19216
 METFPA	2966,638,12332
 METFPET	16628
 METHADONE	14760
@@ -683,8 +693,10 @@ METHOD AND REGION LAAS-2024	17043
 METHOD FOR PLANTING ON THE PLOT	17043
 METHOD OF IRRIGATION LAAS-2024	17043
 METHOD Pioneered	15244
+METHODE BOTTOM UP ESTIMATIONS	19221
 METHODE DE SELECTION	16646,20
 METHODE D’ESSAIS	18315
+METHODE TOP DOWN	19221
 METHODOLOGICAL AND TECHNICAL RECOMMENDATIONS	15244
 METHODOLOGICAL APPROACH	12333
 METHODOLOGICAL COMPONENT	17157
@@ -1183,12 +1195,15 @@ Methodology and Work Plan for Performing the Assignment	13037
 Methodology for Assessing Procurement	9399
 Methodology for Assessing Procurement Systems	9399,9089,12
 Methodology for Assessing Procurement Systems MCDE Ministry	15518
-Methodology for Data	10768,4890,3,483
+Methodology for Data	10768,4890,3,483,3140
 Methodology for Data Agriculture	1867
+Methodology for Data Annually Collection Registry	19284
 Methodology for Data Attendance	1867
 Methodology for Data Biannual	1867
+Methodology for Data Biannually Collection PHC	19284
+Methodology for Data Biannually Collection Project	19284
 Methodology for Data Bits	15372
-Methodology for Data Collection	10768,649
+Methodology for Data Collection	10768,649,7867
 Methodology for Data Collection ARTCI	3604
 Methodology for Data Collection Analysis	15658
 Methodology for Data Collection Analysis of MIS	15658
@@ -1198,8 +1213,10 @@ Methodology for Data Collection EVM	11417
 Methodology for Data Collection Immunization	11417
 Methodology for Data Collection MOH	11417
 Methodology for Data Collection MOH Reporting Responsibility	11417
+Methodology for Data Collection MoH-UHC	19284
 Methodology for Data Collection One Health Committee	11417
-Methodology for Data Collection Review	15553,105
+Methodology for Data Collection Review	15553,105,3626
+Methodology for Data Collection Review of PHC	19284
 Methodology for Data Collection The DNSP	11417
 Methodology for Data Data	1867
 Methodology for Data FIRST	16144
@@ -1207,8 +1224,14 @@ Methodology for Data Government	11417
 Methodology for Data Implementing	16144
 Methodology for Data JEE	11417
 Methodology for Data Local	1867
+Methodology for Data Meningococcal A Vaccine	19284
 Methodology for Data Midterm	1867
+Methodology for Data Number	19284
+Methodology for Data Review	19284
+Methodology for Data Review of PHC	19284
+Methodology for Data Routine	19284
 Methodology for Data The PIU and MESRS	16144
+Methodology for Data Twice	19284
 Methodology for Data Validate	1867
 Methodology for Data Validating	1867
 Methodology for Determining Wholesale Rates	17212
@@ -1375,7 +1398,7 @@ Mettelsat URL	15382
 Mettent	1187
 Mettez	743,6363,177,6077,15
 Mettez-les	747
-Mettre	643,104,251,7,182,31,97,123,264,194,143,526,831,610,20,81,209,905,257,1790,652,57,579,122,213,650,1285,32,16,1,1,30,8,51,1,966,111,1247,11,5,23,12,49,123,122,42,104,429,213,56,4,5,1,1,47,2,3,120,630,65,115,2,19,7,12,30,13,13,1,6,8,41,15,4,27,3,39,8,2,16,61,49,6,31,23,26,2,2,61,13,14,11,157,51,83,42,249,2,25,24,4,332,77,240,1,124,14,72,289,1,11,1,8,1,8,7,5,1,6,1,6,3,3,9,7,1,11,5,27,28,5,5,138,1,44,3,35,87,6,5,4,13,76,572,21,18,144,56
+Mettre	643,104,251,7,182,31,97,123,264,194,143,526,831,610,20,81,209,905,257,1790,652,57,579,122,213,650,1285,32,16,1,1,30,8,51,1,966,111,1247,11,5,23,12,49,123,122,42,104,429,213,56,4,5,1,1,47,2,3,120,630,65,115,2,19,7,12,30,13,13,1,6,8,41,15,4,27,3,39,8,2,16,61,49,6,31,23,26,2,2,61,13,14,11,157,51,83,42,249,2,25,24,4,332,77,240,1,124,14,72,289,1,11,1,8,1,8,7,5,1,6,1,6,3,3,9,7,1,11,5,27,28,5,5,138,1,44,3,35,87,6,5,4,13,76,572,21,18,144,56,15,5,6,128,1,1
 Mettus	6107
 Mettus.Johannesburg	6107
 Metuge Emade Cyrille Valence Ngouana Kengne	15601
@@ -1428,7 +1451,9 @@ NISR Chapter Introduction and Methodology	12413
 NOM ANACIM Director of Meteorological Operations Sidy	18309
 NORTH’ DIV. COMMANDER METRO DIVISION DIV	14760
 NOTA METODOLÓGICA	16962
+NOTE METHODOLOGIQUE	19350
 NOTE METHODOLOGIQUE DE PRODUCTION DE L’ANNUAIRE	13478
+NOTE METHODOLOGIQUE L’élaboration	19350
 NRCC and Metropolitan	14213
 Nairobi Metropolitan Transport Authority	6946
 Namibia AI Readiness Assessment Methodology	5036
@@ -1446,7 +1471,7 @@ National Institute of Meteorology and Geophysics	10763,5
 National Institute of Meteorology of Guinea-Bissau	11553
 National Institute of Meteorology of São Tomé and Príncipe	18787
 National Meteorological Agencies	17157
-National Meteorological Agency	17157
+National Meteorological Agency	17157,2198
 National Meteorological Agency of Togo	17613
 National Meteorological Center Daily Use	17157
 National Meteorological Center Immediate	17157
@@ -1580,6 +1605,7 @@ PDO Indicators Methodology for Data Responsibility for Data	13332
 PERFORMANCE METRICS AND GOVERNANCE MATURITY INDICATORS	3861
 PI Methodology for Data Collection	10768
 PIM Perpetual Inventory Method MAURITIUS PPI	14777
+PIU Methodology for Data Data	19245
 PRESIDENT METER REPORT	17139
 PRICING METHOD	16844
 PRODESS Mettre	17845
@@ -1644,7 +1670,7 @@ Procurement Method Contracts Subject	15372
 Procurement Method Domestic Preference	15411
 Procurement Method Rationale	13621
 Procurement Method Selection	15183
-Procurement Methods	17180
+Procurement Methods	17180,2065
 Procurement Methods and Thresholds. Thresholds	15518
 Procurement Policy and Methodology for Bank Group Funded	11863
 Production Methods and Environment	18567
@@ -1764,6 +1790,7 @@ SSA Method	11986
 SSN. REVUE METHODIQUE DU DOCUMENT Afin	16417
 STAKEHOLDER ENGAGEMENT PROCESS AND METHODOLOGY	7548
 STANDARD BODY Metadata	12360
+STRATEGIE III.1 APPROCHE METHODOLOGIQUE L’élaboration	19216
 STUDY METHODOLOGY TRS	17367
 SUMMARY Meteorological Observers Refresher Training	13062
 SUPERIEURE DES METIERS DE LA PRESSE	18170
@@ -1834,7 +1861,7 @@ Standardized Impact Metrics	12191
 Startupbootcamp for Meta	10133
 State-Level MPI Metrics	15244
 State. Method	16836
-Statistical Data and Metadata	12499,2278,1961,801,865
+Statistical Data and Metadata	12499,2278,1961,801,865,917
 Statistical Data and Metadata Exchange	9207,1737,768,1445
 Statistical Methods	11237,5690,358
 Steel Metric Tons N	17235
@@ -1885,6 +1912,7 @@ Test Methodology	14780
 Thekwini Metro	11252
 Thekwini Metropolitan Municipality	11275,68,3014
 Thekwini Metropolitan Municipality. The Regulator	14357
+Threshold Procurement Method Review	19245
 Thresholds and Procurement Methods	17180
 Thresholds for Procurement Approaches and Methods	11525
 Tourism Survey Methodological Design	18846
@@ -1958,6 +1986,7 @@ Women’s Empowerment Metric for National Statistical Systems	17127
 Work Plan and Methodology	18495
 Work With Other Meta	5113
 Workshop Structure and Methodology	14090
+World Bank and Procurement Methods. Based	19245
 World Food Programme Methodology	14141
 World Food Programme Methodology Rainfall	15232
 World Food Programme Methodology The Normalized	19080
@@ -1980,6 +2009,7 @@ XML Metadata Definition XML-Schema RelaxNG W3C	12360
 XML Metadata Interchange	12360
 YR5 Methodology Collection Unfettered	18887
 YR5 Methodology Collection Volume	18887
+Yearly Methodology for Data	19284
 YouTube and Meta	13461
 ZONE METROPOLITAINE	10975
 Zambia Meteorological Department	10347,3018,247,74

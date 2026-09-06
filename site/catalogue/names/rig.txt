@@ -380,7 +380,7 @@ Get Kenya's Refugee Act Right. CNBC	12297
 Getting It Right	8088
 Getting Patient Records Right	12458
 Getting the Basics Right	16858
-Global Alliance of National Human Rights Institutions	13097,1654,3183
+Global Alliance of National Human Rights Institutions	13097,1654,3183,1300
 Global Digital Rights Coalition	17771
 Global Human Rights Framework Integration	3861
 Global Human Rights Framework Integration Universal	3861
@@ -526,7 +526,7 @@ Human and Peoples' Rights. Article	17745
 Human and Peoples' Rights. Continued	3583
 Human and Peoples' Rights. Joof	9313
 Human and Peoples' Rights29	3583
-Human and Peoples’ Rights	961,853,1191,2316,212,655,763,727,1404,1647,46,320,5,1940,1369,333,119,13,2077,7,59,1,278,449
+Human and Peoples’ Rights	961,853,1191,2316,212,655,763,727,1404,1647,46,320,5,1940,1369,333,119,13,2077,7,59,1,278,449,1489
 Human and Peoples’ Rights AKRM	14742
 Human and Peoples’ Rights Declaration of Principles	9416
 Human and People’s Right	14742
@@ -560,7 +560,7 @@ Improved Constitutional Rights Litigation Complete	16943
 Improved Constitutional Rights Litigation Jury	16943
 Inclusion Participation Rights Inclusion	10837,1315,188
 Increasing Deterioration. Rights	11888
-Indefeasible Right of Use	7014,5239
+Indefeasible Right of Use	7014,5239,6992
 Indefeasible Rights of Use	4676,10289
 Independent Human Rights Commission	16840
 India Actually Got Right	8206
@@ -893,7 +893,7 @@ Rigathi Gachagua Other Not Sure	7869
 Rigaud	16144
 Rigena	14870
 Rigging	11154
-Right	3,8,14,2,560,149,33,392,59,23,90,141,790,43,32,794,42,200,208,131,88,59,63,202,131,191,41,39,368,101,516,38,127,159,61,143,80,514,173,257,144,339,658,230,49,562,27,679,389,23,176,164,209,71,37,86,133,138,2,12,127,197,383,56,21,49,9,55,55,1,22,17,16,26,67,42,53,123,36,1,112,110,120,8,4,36,26,22,66,42,94,122,10,31,29,80,9,81,15,115,267,3,18,104,361,1,14,75,68,2,133,13,2,119,4,9,19,14,1,57,96,251,81,248,295,32,868,3,8,13,12,15,86,33,12,96,129,84,543,64,36,388,80,1,3,4,3,5,5,34,19,9,35,40,1,5,24,278,21,60
+Right	3,8,14,2,560,149,33,392,59,23,90,141,790,43,32,794,42,200,208,131,88,59,63,202,131,191,41,39,368,101,516,38,127,159,61,143,80,514,173,257,144,339,658,230,49,562,27,679,389,23,176,164,209,71,37,86,133,138,2,12,127,197,383,56,21,49,9,55,55,1,22,17,16,26,67,42,53,123,36,1,112,110,120,8,4,36,26,22,66,42,94,122,10,31,29,80,9,81,15,115,267,3,18,104,361,1,14,75,68,2,133,13,2,119,4,9,19,14,1,57,96,251,81,248,295,32,868,3,8,13,12,15,86,33,12,96,129,84,543,64,36,388,80,1,3,4,3,5,5,34,19,9,35,40,1,5,24,278,21,60,249
 Right Honorable Dr. Justin NSENGIYUMVA	15023
 Right Honorable Prime Minister	12682,274
 Right Honourable Dr. Elijah Ngurare	12984
@@ -936,7 +936,7 @@ Right-sizing	6432
 Right. Journal of Economic Perspectives	13624
 Right. So	7065
 Rightly	4259
-Rights	3,24,485,446,12,241,9,113,648,128,198,370,328,578,46,85,147,1024,11,425,708,26,1092,20,381,435,365,734,657,55,547,29,389,6,10,9,28,7,16,2,1,74,25,23,8,60,43,14,440,82,158,92,13,16,1,1,1,18,232,6,7,1,1,9,3,35,52,74,8,2,3,1,11,1,14,22,99,173,230,3,18,47,18,28,26,2,7,40,17,51,183,13,24,78,24,211,267,3,11,49,398,13,12,59,224,25,99,33,15,18,19,101,9,90,206,42,41,58,131,297,935,3,12,9,14,76,8,13,143,182,34,443,7,154,16,159,327,1,22,6,91,41,460
+Rights	3,24,485,446,12,241,9,113,648,128,198,370,328,578,46,85,147,1024,11,425,708,26,1092,20,381,435,365,734,657,55,547,29,389,6,10,9,28,7,16,2,1,74,25,23,8,60,43,14,440,82,158,92,13,16,1,1,1,18,232,6,7,1,1,9,3,35,52,74,8,2,3,1,11,1,14,22,99,173,230,3,18,47,18,28,26,2,7,40,17,51,183,13,24,78,24,211,267,3,11,49,398,13,12,59,224,25,99,33,15,18,19,101,9,90,206,42,41,58,131,297,935,3,12,9,14,76,8,13,143,182,34,443,7,154,16,159,327,1,22,6,91,41,460,177
 Rights Action Plan	13097
 Rights Annex III	12241
 Rights Categories Internally Displaced Person	14074,391,2229,733
@@ -982,7 +982,7 @@ Rights and Innovation Protection	12675
 Rights and Obligations of Infrastructure Provider	15081
 Rights and Obligations of Infrastructure Seeker	15081
 Rights and Permission	10714,51,10,1553
-Rights and Permissions	4214,6571,27,29,135,1,159,13,122,274,27,302,5,2,465,188,778,2,703,880,550,33,1516,874,36,1025
+Rights and Permissions	4214,6571,27,29,135,1,159,13,122,274,27,302,5,2,465,188,778,2,703,880,550,33,1516,874,36,1025,306
 Rights and Permissions Rapid	16876
 Rights and Welfare	1597,1986,6211,971,10,1202,1000,63,991,118,1,592,132,2000,2038
 Rights and Welfare of Children	16860
@@ -1012,7 +1012,7 @@ Rights of Nations	13948
 Rights of Older Persons	14742
 Rights of PWDs	16950
 Rights of People	11935,3728
-Rights of Persons	940,2065,578,1950,2145,2089,1059,366,573,135,35,40,11,215,30,229,106,126,283,2,16,40,186,170,81,215,273,53,20,118,1,592,1,8,23,115,147,568,59,1209,15,63,8,219,119,638,371,138,154
+Rights of Persons	940,2065,578,1950,2145,2089,1059,366,573,135,35,40,11,215,30,229,106,126,283,2,16,40,186,170,81,215,273,53,20,118,1,592,1,8,23,115,147,568,59,1209,15,63,8,219,119,638,371,138,154,637
 Rights of Persons Accused	13948
 Rights of Persons Held	13948
 Rights of Refugees	12227
@@ -1094,6 +1094,7 @@ Sao Tome. All Rights Reserved. Visitors	18810
 Satellite Landing Rights and Satellite Filings. LANDING	10407
 Score Rights	11870,471
 Secondary Schools Rightsizing Exercise	12975
+Secure Customary Land Property Rights	19214
 Secure Tenure Rights	17127
 Secure Transfer Rights	17127
 Security and Human Rights Strengthening Programme	18615
@@ -1193,7 +1194,7 @@ Uganda Digital Rights Dialogue Stakeholders	6113
 Uganda Human Rights Commission	9783
 United Nations Centre for Human Rights and Democracy	16958
 United Nations Commissioner for Human Rights	3583
-United Nations High Commissioner for Human Rights	3583,3368,1853,2352,1575,2020,591,1616,15,961
+United Nations High Commissioner for Human Rights	3583,3368,1853,2352,1575,2020,591,1616,15,961,1300
 United Nations Human Rights Commission	6776,5425
 United Nations Human Rights Committee	12201
 United Nations Human Rights Council	3583,544,5018,1696,2282

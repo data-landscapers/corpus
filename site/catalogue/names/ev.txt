@@ -31,6 +31,7 @@ AI-powered Evidence Map	11224
 AI. Every G20	6386
 AICCRA Reporting Evidence	11140
 ALMOST EVERY ROW IS A DONOR	3868
+AMESSIKOU Koami Evenyo ADJ	19251
 ANALISE COMPARATIVA DA EVOLUÇÃO DE Nº	18791
 ANALISE COMPARATIVA DA EVOLUÇÃO DE NÚMEROS	18791
 ANALYSE COMPARATIVE ET EVALUATION ECONOMIQUE BUDGETAIRE	16328
@@ -78,6 +79,7 @@ Africa. Even	6401,5838
 Africans for Everyone. Ports	7329
 Afrique du Nord Evolution	17879
 Agency INRAP Monitoring and Evaluation Ministry of Social	11905
+Agriculture Evaluation	19221
 Agriculture Evaluation Mettre	15583
 Al Jazeera Staff. Event	14686
 Alcohol Use Every Adolescent Learns Percentage	18441
@@ -105,6 +107,7 @@ Association M&E Monitoring and Evaluation Mali Méteo	17962
 Audit and Evaluation	12951
 Authority Every	14843
 Authority’s Event CPD Code	13381
+Autres Evènements Via	19221
 Ava Sports Events	15780
 Awareness Campaigns and Events	17011
 B Every	17127
@@ -112,7 +115,7 @@ B. Evaluation	822
 B. Evaluations	16328
 B. Every	17127
 B. Results Monitoring and Evaluation	11525,3847,39,2030,17,1429
-B. Results Monitoring and Evaluation Arrangements	969,295,603,1737,2935,4229,61,135,416,37,132,11,295,1476,1,1605,554,24,3,35,68,37,1,2,1288,1155,94,95,8,476
+B. Results Monitoring and Evaluation Arrangements	969,295,603,1737,2935,4229,61,135,416,37,132,11,295,1476,1,1605,554,24,3,35,68,37,1,2,1288,1155,94,95,8,476,462
 B.Â Results Monitoring and Evaluation	18887
 B2- Evidence	7548
 BABINGUI Aurelien Evariste AFD Développement	16012
@@ -225,6 +228,7 @@ Cibles Evolution	15848
 Civic Event Center	2807,4
 Civil Registration and Vital Events	12533
 Claude. Every	9592
+Climate Change-Related Disaster Risk Events	19284
 Climate Watch Advisory The Evolving Dry	14158
 Clinical Evaluation and Performance	3651
 Clinical Evidence	3651
@@ -322,10 +326,12 @@ Decent Dwelling for Every Family Honourable	14748
 Declaragio de Receitas Eventuais	17111
 Declaração de Receitas Eventuais	11532
 Delhi. Ms. Cynthia Djenaba Evora	11579
+Department of Policy and Evaluation	19214
 Department of Rates and Evaluation	11129
 Departments and Agencies M&E Monitoring and Evaluation MFD	1264
+Description Evaluation	19221
 Description Evaluation of Swedish	497
-Description Every	13991
+Description Every	13991,5293
 Designing and Evaluating	8856
 Despite Everything If Nigerian	5200
 Detailed Evaluation	13185
@@ -406,7 +412,7 @@ EVA Herta Audrey	16381
 EVAL. Y CONTROL PROY	4209
 EVALU ATION FRAME ORK W Evaluation	14566
 EVALUATING THE PROCESS TO IMPLEMENT	17157
-EVALUATION	12,7536,4896,4527,143,2,757,602
+EVALUATION	12,7536,4896,4527,143,2,757,602,741
 EVALUATION AND APPROVAL OF THE REQUEST	16189
 EVALUATION AND AUDITING	11193
 EVALUATION AND AWARD OF THE CONTRACT	962
@@ -471,6 +477,7 @@ EVENTS Eswatini Applauds Zambia’s Strides	13477
 EVENTS IN RWANDA	12338
 EVENTS OF DEFAULT.. ARTICLE	15399
 EVENTS OFDEFAULT	15399
+EVENYI K. Agbessi SCH	19251
 EVERS	12922
 EVERY ONE OF THE THREE YEARS	4413
 EVERYBODY KNOWS	17585
@@ -592,6 +599,7 @@ Eastern and Southern Africa IEG Independent Evaluation	6539
 Ebola Virus Crises EVD Ebola Virus	16876
 Econometric Evidence	12122
 Economie Numérique Evaluation	17824
+Economist No Eva Brocard Team Member	19284
 Efficiency of Every Spectrum	11857
 El Ministro Honorato Evita Oma	17128
 Electric Paper Evaluationssysteme GmbH	10919
@@ -643,7 +651,8 @@ Eva Clemente Miranda COUNTRY São Tomé	18754
 Eva Clemente Miranda F. Results Framework	18754
 Eva Kirch	765
 EvaSys	10919
-Evacuation	14488,1,1,850,1817
+Evacuation	14488,1,1,850,1817,2193
+Evadé	19226
 Eval Rudy	15744
 Evaluación	1701,2508,12666,18,5,395,28
 Evaluación Técnica	16875
@@ -682,7 +691,7 @@ Evaluating the Conduct and Practice of Digital Lending	12227
 Evaluating the Impact of Digital Wallet Savings	17574
 Evaluating the Impact of Generative AI	11140
 Evaluating the Transitions	17870
-Evaluation	10,1,225,160,341,11,41,211,264,385,129,89,121,354,352,195,69,31,407,730,134,523,882,816,887,180,42,173,27,447,64,135,166,804,63,29,395,828,42,66,47,5,84,42,124,57,5,31,24,319,11,7,206,133,32,9,6,35,2,82,48,37,71,110,3,53,5,257,1,242,59,2,39,20,45,103,116,5,25,1,9,2,47,2,60,16,56,111,213,10,80,52,1,434,13,34,16,1,1,52,32,48,130,60,7,78,25,63,12,22,15,46,58,106,122,6,21,16,2,12,49,2,40,4,24,28,13,12,9,25,30,21,33,9,21,4,98,3,60,25,33,139,30,9,69,5,12,79,75,13,224,6,1,52,173,5,5,21,18,19,22,8,12,22,16,67,48,23,10,8,138,163,76,4,289,9,6,2,1,16,6,3,2,1,3,6,19,5,109,62,10,18,93,88,4,1,1,4,5,3,11,2,10,3,70,2,1,9,63,3,2,20,5,7,25,40,32,242,36,55
+Evaluation	10,1,225,160,341,11,41,211,264,385,129,89,121,354,352,195,69,31,407,730,134,523,882,816,887,180,42,173,27,447,64,135,166,804,63,29,395,828,42,66,47,5,84,42,124,57,5,31,24,319,11,7,206,133,32,9,6,35,2,82,48,37,71,110,3,53,5,257,1,242,59,2,39,20,45,103,116,5,25,1,9,2,47,2,60,16,56,111,213,10,80,52,1,434,13,34,16,1,1,52,32,48,130,60,7,78,25,63,12,22,15,46,58,106,122,6,21,16,2,12,49,2,40,4,24,28,13,12,9,25,30,21,33,9,21,4,98,3,60,25,33,139,30,9,69,5,12,79,75,13,224,6,1,52,173,5,5,21,18,19,22,8,12,22,16,67,48,23,10,8,138,163,76,4,289,9,6,2,1,16,6,3,2,1,3,6,19,5,109,62,10,18,93,88,4,1,1,4,5,3,11,2,10,3,70,2,1,9,63,3,2,20,5,7,25,40,32,242,36,55,279,14,6
 Evaluation AI	17884
 Evaluation Application	15192
 Evaluation Approach	12759
@@ -758,7 +767,7 @@ Evaluation Office	13858
 Evaluation Officer MoH	34
 Evaluation Performance	13005
 Evaluation Physical	16947
-Evaluation Plan	1284,583,8962,135,453,438,50,451,975,1,1806,380,35,105,1,2,135,348,778,27
+Evaluation Plan	1284,583,8962,135,453,438,50,451,975,1,1806,380,35,105,1,2,135,348,778,27,2335
 Evaluation Plan Evaluations	12356
 Evaluation Policy	12962
 Evaluation Pour	15848
@@ -1170,7 +1179,7 @@ Evidemment	11700
 Eviden	3700
 Eviden Information Technology	3700
 Evidenc	6432
-Evidence	26,402,471,915,14,265,3,81,500,50,278,334,265,523,436,1348,597,85,200,39,319,29,41,327,100,115,123,415,135,192,357,143,1,220,85,325,210,119,100,147,383,3,42,5,17,71,55,52,1,21,22,64,62,7,2,14,25,306,66,32,11,201,82,28,9,8,32,38,12,2,183,35,5,14,1,7,25,19,72,5,26,10,75,15,8,16,1,3,4,10,111,22,11,202,10,21,3,26,11,94,113,19,24,76,1,9,1,1,13,1,4,17,15,2,32,80,117,46,25,330,567,101,27,40,1,11,49,116,5,26,13,104,54,29,16,26,19,328,7,35,68,37,3,2,481,42,601,55,1,9,9,81,7,47,22,19,159,575,9,10,80,92,142,5,200,9,52,70,1,7,19,9,53,27,22,209,133
+Evidence	26,402,471,915,14,265,3,81,500,50,278,334,265,523,436,1348,597,85,200,39,319,29,41,327,100,115,123,415,135,192,357,143,1,220,85,325,210,119,100,147,383,3,42,5,17,71,55,52,1,21,22,64,62,7,2,14,25,306,66,32,11,201,82,28,9,8,32,38,12,2,183,35,5,14,1,7,25,19,72,5,26,10,75,15,8,16,1,3,4,10,111,22,11,202,10,21,3,26,11,94,113,19,24,76,1,9,1,1,13,1,4,17,15,2,32,80,117,46,25,330,567,101,27,40,1,11,49,116,5,26,13,104,54,29,16,26,19,328,7,35,68,37,3,2,481,42,601,55,1,9,9,81,7,47,22,19,159,575,9,10,80,92,142,5,200,9,52,70,1,7,19,9,53,27,22,209,133,325,39
 Evidence Act	587,11067,199,6301,729,254,1
 Evidence Act Demystified With Recent	11654
 Evidence Act and Civil Procedure Act	14850
@@ -1307,7 +1316,7 @@ Evolución de Temperatura	16969
 Evoluer	17879
 Evolugao	18802
 Evolutif	15989
-Evolution	419,318,261,820,10,514,1983,134,217,1064,1219,831,1101,868,1085,12,2,107,10,10,170,408,693,157,899,2,10,66,24,4,34,134,91,321,481,9,1,1,75,250,81,25,135,164,227,8,20,5,62,41,9,31,47,15,77,86,151,38,212,78,1,37,343,6,125,63,33,66,115,627,117,6,1,12,3,14,11,71,78,20,1,26,8,11,1,20,26,1,1,33,82,15,5,16,96,513,57
+Evolution	419,318,261,820,10,514,1983,134,217,1064,1219,831,1101,868,1085,12,2,107,10,10,170,408,693,157,899,2,10,66,24,4,34,134,91,321,481,9,1,1,75,250,81,25,135,164,227,8,20,5,62,41,9,31,47,15,77,86,151,38,212,78,1,37,343,6,125,63,33,66,115,627,117,6,1,12,3,14,11,71,78,20,1,26,8,11,1,20,26,1,1,33,82,15,5,16,96,513,57,228,17,5,1,11,41,4,43,12
 Evolution Annuelle	15848
 Evolution Base Tarifaire SONATREL	10975
 Evolution Base Tarifaire SONATREL Evolution	10975
@@ -1324,6 +1333,7 @@ Evolution des Investissements	998
 Evolution des Jardins	18171
 Evolution des Salles	18171
 Evolution des Taux	17843
+Evolution du CA	19338
 Evolution du Climat. GTP	16621
 Evolution du NDVI	17001
 Evolution du Parc	998
@@ -1341,6 +1351,8 @@ Evolution du Taux Net de Scolarisation	18171
 Evolution du Taux de Transition	18171
 Evolution du Trafic	13414
 Evolution du Trafic SMS	13324
+Evolution marche Regule 2019.pdf	19220
+Evolution marche Regule 2019.pdf Cible Sources	19220
 Evolution of AWI	12006
 Evolution of Benazir Income Support Programme	11133
 Evolution of Competitive Telecom Ecosystems	3292,1688,360,1433
@@ -1431,7 +1443,7 @@ Evènement	4599,2360,6523
 Evènements	6959,8513,3501
 Evélia Gadegbeku	7784
 Evénement	13719,4192
-Evénements	9961,4464,1423,1980,165
+Evénements	9961,4464,1423,1980,165,1228,133
 Evénements Application Mobile Communiqués	17993,96
 Evénements Variables Indicateurs Objectifs	18926
 Evêques du Bu-	13405
@@ -1439,6 +1451,7 @@ Evínayong	16864,56
 Excel. Every	17007
 Excellence Evariste NDAYISHIMIYE	13405
 Excellence Evariste Ndayishimiye	13405
+Excellence Evidence Policy Action	19345
 Excellency Mr. Evariste Ndayishimiye	13440
 Exchange Event	17793
 Executive Summary of Bid Evaluation Report	14783
@@ -1691,6 +1704,7 @@ Job Evaluation Upper Panel. Mr Mohwasa	3360
 Joint External Evaluation	10776,641,1312,1291,3237
 Joint External Evaluation JICA	10776
 Joint External Evaluation of International Health Regulation	11912
+Joint External Evaluation of Togo’s International	19284
 Joint External Evaluations	12977
 Joint WFP and UNHCR Impact Evaluations Publish	17323,1
 Josephine Njungi and Evans Kibet	17037
@@ -1705,7 +1719,7 @@ KENYA Even	899
 KEY DATES Key Events	13058,2101,2974
 KEY DATES Key Events Approval Planned	18792
 KEY DATES Key Events Jun	6928
-KEY DATES Key Events Planned Actual	2712,1976,6182,1358,39,3468,278,692,295,96,374,35,399,54,48,348,1,462
+KEY DATES Key Events Planned Actual	2712,1976,6182,1358,39,3468,278,692,295,96,374,35,399,54,48,348,1,462,425,7
 KEY DATES Key Events Planned Date	11924,6038,863
 KEY DATES Key Revisions Key Events	16436
 KT PRESS Every	8644
@@ -1769,6 +1783,7 @@ Lyonore EVI EYA	16099,76
 M Aimé Magloire EVONGO	15685
 M&E Monitoring and Evaluation M2M Machine	6946
 M&E Monitoring and Evaluation MACS Ministries	17139
+M&E Monitoring and Evaluation MCC Millenium Challenge	19245
 M&E Monitoring and Evaluation MDA Ministries	14897
 M&E Monitoring and Evaluation MDAs Ministries	17099
 M&E Monitoring and Evaluation MEN Ministry of Education	11560
@@ -1776,6 +1791,7 @@ M&E Monitoring and Evaluation MICSTI Ministry of Information	12674
 M&E Monitoring and Evaluation MIGOP Guarantees Group	18754
 M&E Monitoring and Evaluation MOE Ministry of Education	1988
 M&E Monitoring and Evaluation Mbps	17862
+M&E Monitoring and Evaluation MoH-UHC Ministry of Health	19284
 M&E Monitoring and Evaluation NCB National Competitive	15411
 M&E Monitoring and Evaluation NGO Non-governmental	17906
 M&E Monitoring and Evaluation NICI National Information	18887
@@ -1881,6 +1897,7 @@ Ministro Honorato Evita Oma	17128
 Ministry of Education's Evaluation Unit	14588
 Ministry of Labour and Home Affairs. Even Parliament	2736
 Miriam Eve	15524
+Mission ABWE-Association of Baptiste for World Evangelism	19295
 Mixed Methods Evaluation URL	16329
 Mixed-Method Evidence Synthesis. International Initiative	6947
 Mme EVOUNA MVONO Shadia Shérone Lesly	16099
@@ -1911,7 +1928,7 @@ Monitoring Vital Events Using Information Technology	10822
 Monitoring and Evalaution Officers	17116
 Monitoring and Evaluating	11006
 Monitoring and Evaluating Long-Term Impact	16963
-Monitoring and Evaluation	396,12,159,222,169,3,300,3,560,2329,375,125,130,48,186,227,1,1,1186,107,2665,523,156,853,32,61,134,1,43,181,36,20,12,19,14,112,210,246,3,3,42,19,16,25,21,22,232,116,43,54,59,162,1,106,133,3,35,18,7,1,27,32,23,260,12,13,1,1,12,95,89,86,56,306,496,400,35,14,1,60,175,18,54,128,52,90,39,3,48,37,17,55,3,185,68,218,249,178,238,8,3,21,1,11,6,20,2,27,1,11,8,4,10,26,57,31,17,80,37,131,3,74,465,453,118,1,7,44,3,21,72,129,133
+Monitoring and Evaluation	396,12,159,222,169,3,300,3,560,2329,375,125,130,48,186,227,1,1,1186,107,2665,523,156,853,32,61,134,1,43,181,36,20,12,19,14,112,210,246,3,3,42,19,16,25,21,22,232,116,43,54,59,162,1,106,133,3,35,18,7,1,27,32,23,260,12,13,1,1,12,95,89,86,56,306,496,400,35,14,1,60,175,18,54,128,52,90,39,3,48,37,17,55,3,185,68,218,249,178,238,8,3,21,1,11,6,20,2,27,1,11,8,4,10,26,57,31,17,80,37,131,3,74,465,453,118,1,7,44,3,21,72,129,133,327
 Monitoring and Evaluation A Monitoring and Evaluation	12453,892
 Monitoring and Evaluation Arrangements	16858
 Monitoring and Evaluation Association SCM Supply Chain	11224
@@ -2005,6 +2022,7 @@ Monitoring and Evaluation of Operational Performance Finally	5677
 Monitoring and Evaluation of Research Projects The Research	1554
 Monitoring and Evaluation of WARDIP-SOP2 Liberia	17114
 Monitoring and Evaluation. Proposed Operation Abstract	15138
+Monitoring and Evaluation. The Government	19214
 Monitoring of Vital Events	10822,1316
 Monthly High Frequency Events	11228
 Monthly Low Frequency Events	11228
@@ -2045,6 +2063,7 @@ NOAA's Climate Prediction Center Evapotranspiration	17157
 NOSi Eventos Lançamento	16146
 NOTRE EVOLUTION	16065
 NPR. Even	11212
+NSHI Frequency Every Semester Data	19284
 NSHIMIRIMANA Aline JUSENGA Eric NTAKIRUTIMANA Evariste	13300
 NSHIMIRIMANA Evelyne	13390
 NSHIMIRIMANA Evode KABURA Pamphile NTAGOHEKA Marc	13300
@@ -2059,6 +2078,7 @@ National Africa Broadband Maps Event	13512
 National Agency for Medicines and Medical Evacuations	13791
 National Asset Behind Everyday Digital	12632
 National Center for Examination Education Evaluation	15604
+National Center for Learning Evaluation	19249
 National Centre for Examinations and Educational Evaluation	15604
 National Evaluation Plan	13060
 National Evaluation Plan. Government	13060
@@ -2310,6 +2330,7 @@ SEN. Evalúa	16898
 SEP General Evaluation Form	17099
 SEP General Evaluation Form EVENT EVALUATION	17099
 SERVICE DEFINITIONS Event-based	15206
+SI Evaluation	19362
 SLIMM and EViews PFM Act	18577
 STAKEHOLDER COMMENTS An End of Project Evaluation	15663
 STAKEHOLDER ENGAGEMENT Key Events	11131
@@ -2318,13 +2339,14 @@ STI Parks Evaluating	12786
 STRATEGY MONITORING AND EVALUATION	16968
 STRUCTURE AND EVOLUTION	14903
 SUBSEQUENT EVENTS	11955
-SUIVI ET EVALUATION	15722,126,347,425,1253,232
+SUIVI ET EVALUATION	15722,126,347,425,1253,232,1111
 SUIVI ET EVALUATION ET FINANCEMENT	15501
 SUIVI ET EVALUATION VII.1 Suivi VII.1.1	15848
 SUMMURY OF EVENTS Project Consultancy	12693
 SYSTEM OF MONITORING AND EVALUTION	14004
 Sample Form of Evaluation Report	11525
 Sander J. Zwart. Evaluation	16135
+Satisfactory Evaluation	19284
 Satisfactory Evaluation Satisfactory Satisfactory	18809
 Schedule of Requirements. Combined Evaluation The Purchaser	13185
 Scheme MER Mutual Evaluation Report MF	14997
@@ -2424,6 +2446,7 @@ System Event Notification	12364
 System GWM&E Government Wide Monitoring and Evaluation	11224
 System for Every Civil Servant	13533
 São Tomé and Príncipe Menu Search Events	18810
+T1-2026 Evolution	19338
 T4 Evolving Armenia Tajikistan Turkmenistan T3	10764
 TECHNICAL EVALUATION	13037
 TECHNICAL EVALUATION CRITERIA	11209
@@ -2449,6 +2472,7 @@ Technical Evaluation Criteria ANNEX C	14927
 Technical Evaluation Employment	16863
 Technical Evaluation Technical	17068
 Technical Evaluation for PUE and Manufacturing	12195
+Technical and Financial Evaluation	19245
 Technology Everywhere	10160
 Technology Is Giving Every Child	10989
 Telecommunication Union M&E Monitoring and Evaluation MDAs	18504
@@ -2468,6 +2492,8 @@ Through the Monitoring and Evaluation Framework	13473
 Timeliness Aspect Evaluated Satisfied	14777
 Tlokweng Event	12619
 Together for Every Child	16484
+Togo Moov Africa Togo Evolution	19338
+Togo. Ever	19237
 Top Events	18810
 Tourism Permanent Secretary Evans Muhanga	7130
 Towards AI for Everyone	6948
@@ -2483,6 +2509,7 @@ Tumwesige Evans Lushakuzi	9452
 Tumwesigye Evans	9589
 Twice MdJL UGP and Evaluation	17441
 Types of Evaluations	12356
+Télécommunications Evolution	19338
 U5 Every	13681
 UCP Analyse Evaluation	15908
 UNFPA Data and Evidence Specialist	17068
@@ -2516,6 +2543,8 @@ VII.2. Evaluation L’évaluation	15848
 VII.2. Evaluation VII.2.1 Types	15848
 VIII EVOLUÇÃO DO STOCK NOMINAL	18798
 VIII. CADRE DE SUIVI ET EVALUATION	14442
+VIII.3 SUIVI ET EVALUATION	19216
+VIII.3 Suivi ET Evaluation	19216
 Validation Of The Evaluation Report	13313
 Variation Evolution	17972
 Version V2.0 V2.1 Evolution	15936
@@ -2532,6 +2561,7 @@ Vital Events Registration and National Identity Card	12188,38
 Voltage M&E Monitoring and Evaluation MALT Ground	15515
 Voltage M&E Monitoring and Evaluation MASEN Moroccan	11549
 Voltage M&E Monitoring and Evaluation MEH Ministry	15659
+Voltage M&E Monitoring and Evaluation MEM Ministry	19239
 WB Development Impact Evaluation	15019
 WBG Evolution Roadmap	15983
 WBG Evolution. The CPF	12968

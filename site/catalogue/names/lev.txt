@@ -151,7 +151,7 @@ Continental Level	1264
 Contract and Service Level Agreement The Ministry	34
 Cooperation Levels of Assurance	10819
 Corporate Climate Responsibility Levy Offsetting	14828,3
-Corporate Review Level	11965,3225,1208,2411
+Corporate Review Level	11965,3225,1208,2411,475
 Corruption Levels	16943
 Country Level Overview and Highlights	17196
 County Level	17139
@@ -209,6 +209,7 @@ EC-Council University Intermediate Level Certified Threat	15662
 EC-Council University Intermediate Level EC-Council CEH	15662
 ECOWAS Tax Levy	16947
 ECOWAS Trade Levy	17011
+EDGE Level	19284
 EDGE26 Level	11417
 ELECTRONIC TRANSFER LEVY MANAGEMENT AND ASSURANCE	15600
 EMPLOYMENT LEVELS FOR THE THREE SECTORS	11211,51
@@ -336,6 +337,7 @@ Health Level Seven International	1009,8435
 Health Level Seven International Standards for Care	12143
 Health Sciences’ Middle Level Graduates	2775
 Health Sciences’ Middle Level Trainees	2775
+Heavy-Fuel Oil HLO Higher Level Objectives	19239
 High Level	15198
 High Level Coordination Committee	12338
 High Level Digital Government Task Force	14750
@@ -352,7 +354,7 @@ High Level Targets and Action Plan	18537
 High Level Visits	2667,13589
 High. Leveling	10779
 Higher Education Level	14775
-Higher Level Objectives	969,295,603,1737,2935,4229,61,135,416,37,143,1771,1,411,1167,27,554,27,35,68,37,1,2,2,1286,913,242,189,8,476
+Higher Level Objectives	969,295,603,1737,2935,4229,61,135,416,37,143,1771,1,411,1167,27,554,27,35,68,37,1,2,2,1286,913,242,189,8,476,462,6
 Higher Level Objectives Policy Context and Strategic	969
 Highest Level	16950
 Highest Level of Education Completed	16921
@@ -361,7 +363,7 @@ Hight Level Steering Committee	14997
 Housing Characteristics Country Level	14005
 Hydrological Drought Groundwater Levels	17157
 ICT Governance and Service Level Management	12917
-IFC Collaboration Joint Level Yes Complementary	15621,523
+IFC Collaboration Joint Level Yes Complementary	15621,523,3101
 IFIs Leverage	15901
 II. LEVERAGE BENEFITS OF INCREASED REGIONAL	18537
 IN- National Satellite Leverage	11857
@@ -386,6 +388,7 @@ Increased Reliability Level	16885
 India’s Equalization Levy	14932
 Indicator End-of-Period Level	17235
 Indicator Level Baseline Target Achieved	16436
+Indicator Level Status Rationale	19284
 Information Technology Agency SLA Service Level	11261
 Infracciones Leves	16855
 Infracciones Leves. Se	16855
@@ -479,7 +482,7 @@ Levantine Arabic and African French	6705
 Levar	11362
 Levari S	1219
 Levee	14479
-Level	427,62,300,96,55,18,3,9,135,49,36,94,704,437,101,249,114,494,3,7,7,461,292,14,35,15,43,41,48,895,105,3,269,241,319,206,45,400,96,18,1041,450,1310,54,3,23,261,69,153,465,10,80,75,24,167,3,419,25,277,8,3,39,19,71,204,157,23,30,553,13,78,70,43,19,113,12,4,67,92,35,146,214,70,318,200,109,111,78,12,9,3,1,23,9,24,12,49,26,13,12,5,82,390,150,27,57,5,68,348,187,170,283,57,101,15,34,17,7,2,8,3,136,15,13,13,17,39,91,77,77,93,315,13,100,332,65,11,90,18,98,2,124,52,11,22,38,62
+Level	427,62,300,96,55,18,3,9,135,49,36,94,704,437,101,249,114,494,3,7,7,461,292,14,35,15,43,41,48,895,105,3,269,241,319,206,45,400,96,18,1041,450,1310,54,3,23,261,69,153,465,10,80,75,24,167,3,419,25,277,8,3,39,19,71,204,157,23,30,553,13,78,70,43,19,113,12,4,67,92,35,146,214,70,318,200,109,111,78,12,9,3,1,23,9,24,12,49,26,13,12,5,82,390,150,27,57,5,68,348,187,170,283,57,101,15,34,17,7,2,8,3,136,15,13,13,17,39,91,77,77,93,315,13,100,332,65,11,90,18,98,2,124,52,11,22,38,62,358
 Level AA	9603,1403,1,945,275
 Level Agreement SMS Short Message Service	34
 Level Agreement SMT Senior Management Team	16852
@@ -495,6 +498,7 @@ Level Expert Group	12675
 Level Figure	18460
 Level H.E. Romuald Wadagni	7452
 Level I II	12431
+Level II	19284
 Level III	1219
 Level IPCC Intergovernmental Panel	18578
 Level IV	1219
@@ -632,7 +636,7 @@ Leverage the National Data Governance	14566
 Leverage the Universal Access Fund	5244
 Leverages	12359,955,367
 Leverages AI and Emerging Technologies	17116
-Leveraging	465,324,110,255,94,397,448,3,664,727,108,9,567,89,268,148,314,91,310,142,1012,330,73,256,386,169,262,1,289,293,367,719,1139,12,7,115,1,33,137,8,10,2,64,32,237,15,245,239,220,4,45,121,68,23,45,27,136,11,276,78,447,194,187,123,86,667,74,1,128,50,67,84,9,215,75,174,8,34,50,211,7,46,34,861,39,12,24,19,30,103,2,15,119,268,270,111,241,329,17,16,70,374
+Leveraging	465,324,110,255,94,397,448,3,664,727,108,9,567,89,268,148,314,91,310,142,1012,330,73,256,386,169,262,1,289,293,367,719,1139,12,7,115,1,33,137,8,10,2,64,32,237,15,245,239,220,4,45,121,68,23,45,27,136,11,276,78,447,194,187,123,86,667,74,1,128,50,67,84,9,215,75,174,8,34,50,211,7,46,34,861,39,12,24,19,30,103,2,15,119,268,270,111,241,329,17,16,70,374,306,8
 Leveraging AI	2445,1989,5102,592,1012,1070,146,319,1891,206,171,2761
 Leveraging AI and Digitisation	14829
 Leveraging AI and Digitisation Second	14829
@@ -696,6 +700,8 @@ Levies	544,10585,5882
 Levin	17884
 Levina Zheng	9710
 Levine	1828
+Levisadelaconventionlocalerendcelle	19212
+Levisavautautorisationd’applicationdelaconventionlocale	19212
 Levita J	10784
 Levure	16047
 Levy Act	5234
@@ -770,6 +776,7 @@ Mr. Levodo Ngah Yannick and Mr. Menounga	9469
 Multilateral Leve	1814
 Municipal Level Situation	18293
 NBR. High Level Steering Committee for Financial	15130
+NOVISSI PRIORITIZING GRID CELL LEVEL	19237
 NQF Level	6734,1343,5012
 NTL National Training Levy ODL Open	16852
 National Education Technical Training Levy	16968
@@ -846,6 +853,7 @@ Proficiency Levels	14915
 Profile of Employees Who Have Salary Levels	11218
 Project Level Project Development Objective Indicators	15411
 Promoted At National Level	14742
+Proposed AF Indicator Level Status Rationale	19284
 Protocol LLD Low Level Design MDAs	13185
 Provincial Level	12409
 Proyecto de Levantamiento	4209

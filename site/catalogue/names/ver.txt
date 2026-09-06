@@ -25,6 +25,7 @@ Accountability. DISTRIBUTED BY VERITAS E-mail	972
 Accuracy Verification	17157
 Accurate Very	17149
 Added Tax VHF Very High	236
+Adjoua Veronique Social Specialist Social	19284
 Administração Pública de Cabo Verde	15476
 Administração Pública de Cabo Verde DSP4 DSP6	15532
 Administração Pública de Cabo Verde. CAPITULO II	15380
@@ -39,7 +40,9 @@ Africa. The Government of Cape Verde	11869
 Africa. Verso Books. Rone	11050
 Age Verification	12193
 Age Verification Could Hard-Wire Identity	9328
+Agency IACV Verification Entity	19284
 Agency MEPPSA Verification Entity World Bank	11905
+Agency Verification Entity	19284
 Agenda Digital de Cabo Verde	16347
 Agreement. REPUBLIC OF CABO VERDE	16219
 Aires Very High EGDI V2	10840
@@ -207,7 +210,7 @@ Cabo Verde CNI	7466
 Cabo Verde CPV Implementing	13082
 Cabo Verde Cabo Verde	11461,4505
 Cabo Verde Cabo Verde Human Capital	16187
-Cabo Verde Cambodia Cameroon Canada Cayman	11470
+Cabo Verde Cambodia Cameroon Canada Cayman	11470,7872
 Cabo Verde Central African Republic Chad	16631
 Cabo Verde Central Bank	11855
 Cabo Verde Central Bank. During Project	11855
@@ -555,6 +558,8 @@ DNICE. Cabo Verde	15983
 DOCUMENT HISTORY Version Revision Date Revision	14441
 DRAFT VERSION	12990
 DRC Reform Matrix Verbatim	11906
+DRS. Verification Entity	19284
+Dama DRAMANI Official Gazette Version	19208
 Daniel Vertesy	10840
 Data Centre Vertiv	17732
 Data Protection Officers Version	15058
@@ -620,6 +625,7 @@ Diretor Nacional da Polícia Judiciária de Cabo Verde	11566
 Disclosable Version	1331,16627
 Distribution Operator of Cabo Verde	15983
 District Health Information System Version	12037
+District Health Verification Entity Management Team	19284
 District Hospital Health Center Very	12379
 Diversification Cabo Verde Economy	11863
 Document Approval History Version	2779
@@ -848,6 +854,7 @@ IMF Cabo Verde	15983
 IMF Investment Project Financing Independent Verification	11905
 IMPRENSA NACIONAL DE CABO VERDE IMPRENSA	15689,5
 IMPRIMERIE OFFICIELLE Les Vergers	15360,34,16,22,24,11,40,27,60,8,6,82,42,15,20,96,67,3,10,142,86,59,33,59,22
+INAM and CNSS. Verification Entity	19284
 INDICATEURS SOURCE DE VERIFICATION RISQUES ET	15722
 INFORMATIONS SUR LA FINANCE VERTE	13390
 INFORMATIONS SUR LA FINANCE VERTE Face	13390
@@ -876,11 +883,12 @@ Implementação da Linha Verde Nacional de Denúncias Contra	12798
 Important Important Very Important Graph	12445
 Imprensa Nacional de Cabo Verde	1265,3,468,4794,41,5450,3941,67,395
 Independence of Cape Verde	11909
+Independent Counter- Verification Agency	19284
 Independent Evaluation and Verification Panels	1988
 Independent Third-Party Verification	12175
 Independent Verification Agency	6539,4290,2563,2301,945
 Independent Verification Agency KPI Key Performance	17458
-Independent Verification Agent	6539,5849,3414
+Independent Verification Agent	6539,5849,3414,3440
 Indice Global de Inovação. Cabo Verde	1948
 Infraestrutura de Chaves Públicas de Cabo Verde	15476
 Infraestruturas de Cabo Verde	15689,367
@@ -1006,9 +1014,11 @@ Ministério da Saúde de Cabo Verde	16003
 Missões Diplomáticas de Cabo Verde	11893
 Mistral AI and Vertiv	10004
 MoH and NISR. Verification	12338
+MoH-UHC Verification Entity IACV Procedure	19284
 MoSS Verification Committee	15663
 Model AI Governance Framework and AI Verify	11135
 Moderate High Very High IMPACT	13053
+Monsieur Antonius Verheijen	19347
 Morocco and Vertiv	8245
 Mr. Joep Verhagen and Ms. Anne-Laure Solnon	17257
 Mr. Vern McKinley of IMF AFRITAC South	11134
@@ -1171,6 +1181,7 @@ Posicionar Cabo Verde	15476
 Position Cabo Verde	11863
 Postal and DISTRIBUTED BY VERITAS	13443
 Postalischer Versand	8546
+Pour Alpin VERLET	19282
 Praia Cabo Verde	11863
 Pre-Shipment Inspection and Vehicle Age Verification	14216
 Precilla Verster	13233
@@ -1417,6 +1428,7 @@ Type of Species Very	17043
 UC Cabo Verde	11898
 UM CABO VERDE PARA TODOS	16487
 UMA GOVERNAÇÃO VERDADEIRAMENTE INCLUSIVA	16487
+UN PAS DÉCISIF VERS L’INCLUSION ET	19252,21
 UN-IGIF DES NATIONS-UNIES VERSION FINALE Février	17983
 UNU-WIDER Government Revenue Dataset. Version	16949
 UNU-WIDER Government Revenue Dataset’. Version	16949
@@ -1459,10 +1471,12 @@ VERDE URL	15684
 VEREDITO	17541
 VERIF	2349
 VERIFIABLE DIGITAL CREDENTIALS IN A SECURE	14756,6
+VERIFIABLES NOMBRE DE CONTRÔLES ENGAGES TAUX	19250
 VERIFICACÃO E PUBLICAÇÃO DE CANDIDATURAS	11528
 VERIFICATION	12413
 VERIFICATION ACTIVITE	10975
 VERIFICATION AND EVALUATION OF QUALIFICATIONS	13371
+VERIFICATION DES REGISTRES SECTION Ière	19207
 VERIFICATION DES SERVICES	16747
 VERIFICATION FOR ON-BOARDING	17537
 VERIFICATION FOR THIRD PARTY TRANSACTIONS	17537
@@ -1655,12 +1669,19 @@ Verificando-se	10747
 Verificar	13,154,3980,71,7164,67,112
 Verificase	10777
 Verification	236,734,854,404,5086,54,540,119,256,1034,76,354,54,3,23,612,325,11,44,10,301,46,318,164,328,230,75,46,1,173,382,66,18,103,105,125,10,51,21,140,1204,291,93,44,178,321,220,149,112,68,587,44,59,24,57,116,15,25,10,101,220,67,915,79,25,105
-Verification Agent	15659
+Verification Agent	15659,3580
 Verification Agents	11905
 Verification Applicants	12211
 Verification Area	14778
-Verification Arrangements	15743,401,240
+Verification Arrangements	15743,401,240,2861
 Verification Committee	15663
+Verification Entity	19284
+Verification Entity Baseline	19284
+Verification Entity Formula	19284
+Verification Entity NSHI	19284
+Verification Entity Number	19284
+Verification Entity Original Financing	19284
+Verification Entity Procedure Numerator	19284
 Verification Five-fact	776,246,185,1,1316,83
 Verification Frequency	16843
 Verification Frequency of Report	13005
@@ -1669,9 +1690,12 @@ Verification Kit Acknowledgement	18531
 Verification Method	16843
 Verification N2O Nitrous	17140
 Verification Number	12000
+Verification Protocol	19239
+Verification Protocol IBRD	19239
 Verification Protocol PBC	15659
 Verification Protocol Table	11905
 Verification Protocol. IBRD	15659
+Verification Protocol. Schedule	19239
 Verification Real-time	11222
 Verification Report Procedures	15663
 Verification Reports	6727
@@ -1796,7 +1820,7 @@ Versailles	15426
 Verschlusssache	11316
 Versekering	11255
 Versekerings Maatskappye	11255
-Versement	10711,165,2448,109,2468,35,397,1152,348,39
+Versement	10711,165,2448,109,2468,35,397,1152,348,39,1349
 Versement Différé	15901
 Versement Patronal	15797
 Versement Prévue	15901
@@ -1805,7 +1829,7 @@ Versements	17485
 Verser	13301,113
 Versichertenbasis	904
 Versio	2779
-Version	2,32,735,194,32,10,4,176,2,797,492,303,724,284,1345,1291,243,166,249,287,294,148,772,21,120,108,9,51,342,506,5,146,831,54,9,92,35,64,27,48,134,84,676,8,106,302,4,3,12,34,241,75,308,5,42,224,451,45,41,103,29,114,232,110,6,33,65,134,44,1,4,10,294,32,2,244,67,60,39,72,2,39,39,95,23,105,1,2,191,135,66,393,10,24,298,33,49,112,8,77,72,52,1,376,30,7,56,34,55,20,18,156,178,12,22,6,133,19,36,6,36,3,75,59,20,50,64,250
+Version	2,32,735,194,32,10,4,176,2,797,492,303,724,284,1345,1291,243,166,249,287,294,148,772,21,120,108,9,51,342,506,5,146,831,54,9,92,35,64,27,48,134,84,676,8,106,302,4,3,12,34,241,75,308,5,42,224,451,45,41,103,29,114,232,110,6,33,65,134,44,1,4,10,294,32,2,244,67,60,39,72,2,39,39,95,23,105,1,2,191,135,66,393,10,24,298,33,49,112,8,77,72,52,1,376,30,7,56,34,55,20,18,156,178,12,22,6,133,19,36,6,36,3,75,59,20,50,64,250,262
 Version Anglaise	16103
 Version Changes Date V	14784
 Version Control	10721

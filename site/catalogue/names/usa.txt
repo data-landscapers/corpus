@@ -134,6 +134,7 @@ Ensuring Ethical Usage of AI	12675
 Ethiopia USAID	531
 Europe and USA	12575
 Expanding Usage of Formal and Digital Financial Services	7763
+Exportations USA	19250
 F. LE DEVELOPPEMENT DES AUTRES USAGES	17812
 FCDO IDRC GIZ EU USAID Government	12210
 FDA and USAIDj PROSPERprovided	16853
@@ -276,7 +277,7 @@ Pensions and Investments Usage	2775
 Platform Usage	4528,7984
 Power Usage Effectiveness	1284,3244,1265,473,166,2723,3357,4602
 Power Usage Effectiveness EU European Union	3184,1,1340,6470
-Power Usage Efficiency	1264
+Power Usage Efficiency	1264,17981
 Processo de Abertura de Conta Usando Redes Neurais	2816
 Program USAID	533
 Project Implementation Unit PUE Power Usage	15621
@@ -311,6 +312,7 @@ Skills and Literacy Usage and Adoption	12214
 Social Media Adoption and Usage Trends	12214
 States of America USAID United States International	12970
 Subscription Data Usage	2776
+Survey of Science Usage	19245
 Suspension of USAID	14985
 Sustainability and Technology USAf Universities South Africa	5246
 Sustainable Development Goals USAF Universal Service	13346
@@ -330,6 +332,7 @@ Technical Assistance ToR Terms of Reference USAID	15515
 Technical and Vocational Education and Training USAf	6832
 Theoretical Capability and Observed Usage	7151
 Tib Usable Capacity	11209
+Togo USA Etats	19350
 Token Usage ZIPSS CSD Both ZIPSS	12364
 Tourism Development Authority USAID United States	15473
 Trade and Development UL University of Liberia USAID	16876
@@ -381,6 +384,7 @@ USA. Labour	2775
 USA. Maître Marco KUYU Directeur Général	15670
 USA. Rooted	7036
 USA. Tel	11881
+USA. Telephone	19237
 USA. Unemployment	2775
 USAASA	3264,7966
 USAASA R268m	2898,366
@@ -398,7 +402,7 @@ USAF R173m	2898,366
 USAF R57.2m	5191
 USAF and Information Commission	18636
 USAFs	9759,7113,103
-USAGE	582
+USAGE	582,18655
 USAGE DE DONNEES FALSIFIEES	16617
 USAGE MILITAIRE	17982
 USAGE OF FINANCIAL SERVICES	940
@@ -517,7 +521,7 @@ Usada	10777
 Usada Instalada GRÁFICO	18791
 Usafirishaji	6019
 Usagara	11643
-Usage	418,164,240,118,1835,2855,298,172,493,77,78,206,809,259,1097,287,375,122,342,574,37,20,43,340,3,595,136,221,39,103,8,15,6,4,6,8,133,142,402,15,205,44,188,956,1,1,184,311,38,107,34,378,101,27,40,4,270,631,3,226,32,359,340,244,22,19,6,4,439,29,147,44,258
+Usage	418,164,240,118,1835,2855,298,172,493,77,78,206,809,259,1097,287,375,122,342,574,37,20,43,340,3,595,136,221,39,103,8,15,6,4,6,8,133,142,402,15,205,44,188,956,1,1,184,311,38,107,34,378,101,27,40,4,270,631,3,226,32,359,340,244,22,19,6,4,439,29,147,44,258,434
 Usage ANNEX A ANNEX	16844
 Usage Agricole	14488,1,1
 Usage Aug	6051

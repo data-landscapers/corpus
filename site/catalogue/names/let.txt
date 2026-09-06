@@ -64,7 +64,7 @@ Disability Accessibility Conference. Let	12692
 Disbursement Letter	11525,3847,146,35,666,2668
 Disbursement Letter. Oth	10829
 Disbursement Letterâ	18887
-Disbursement and Financial Information Letter	1264,603,1737,7164,196,891,1476,2327,1,1277,13
+Disbursement and Financial Information Letter	1264,603,1737,7164,196,891,1476,2327,1,1277,13,2335
 Disbursement and Financial Information Letter. A Designated	1284
 Disbursement and Financial Information Letter. Figure	15661
 Disbursement and Financial Information Letter. Funds	16949
@@ -108,6 +108,8 @@ ID Letter. Once	19041
 INCITER DANS SA LETTRE DE POLITIQUE	18967
 INSCRIVEZ-VOUS A NOTRE NEWS LETTER Souscrivez	16363
 Igazeti ya Leta	15027
+Implementation Letter	19214
+Implementation Letters	19214
 Information Letter DGPOG General Directorate for Social	11855
 Information Letter DPL Development Policy Loan	10768
 International Incoming Letters	6671,275
@@ -179,6 +181,7 @@ Letaba Hospital	11986
 Letaba Hospital and Tshwane District Hospital. Quarterly	11986
 Letela	12798
 Letela. Para	12798
+Leterme	19212
 Lethabo	11228,777
 Lethogonolo Mokgoaroane	14193
 Lethycia MISSANDZOU MAYAYA	16175
@@ -189,6 +192,7 @@ Letins	13781
 Letintsatfu Tembube Yemhlaba	12955
 Letisematseni and Letishisako	12977
 Letitrede	13781
+Letitrefoncierestdéfinitif	19212
 Letla Mosenene Ambero Consulting Gesellschaft	16853
 Letlhakeng and Gumare Level I Primary Hospitals	12606
 Letlole La Rona	3761
@@ -196,9 +200,11 @@ Letlotlo	12703
 Letonia BAURA	6613
 Letrado Mayor	4209
 Letrado Mayor Clase Económica Director General	4209
+Letransfertdepropriétéd’unbienimmobilier	19212
 Letras	4209,6546,618,13,632
 Letras Maiúsculas	11373
 Letras Minúsculas	11373
+Letribunalfixelemontantdelasommeàconsigneretordonneque	19212
 Letrina	16920
 Letrinas	16920
 Letsatsi	2752
@@ -268,7 +274,7 @@ Letters of No Objection	18688
 Letters of Proposal and Price Schedules	15080
 Letting	7816,4266
 Lettonie	6613
-Lettre	12,1667,903,8239,55,2499,93,162,198,597,63,1,1,88,991,30,6,280,23,26,1,503,3,192,852,348,336,117,36,107,538
+Lettre	12,1667,903,8239,55,2499,93,162,198,597,63,1,1,88,991,30,6,280,23,26,1,503,3,192,852,348,336,117,36,107,538,387
 Lettre Circulaire N	15935
 Lettre Directeur	17848
 Lettre de Change	16270
@@ -282,9 +288,10 @@ Lettre de Politique Nationale Sectorielle	15799
 Lettre de Politique Sectorielle de Santé	18370
 Lettre de Politique de Développement	11897
 Lettre de Voiture Internationale	6300
-Lettres	998,1344,8037,479,2519,2152,85,2672
+Lettres	998,1344,8037,479,2519,2152,85,2672,1080
 Lettres Commandes	10975
 Lettres Désignation Domestique International	998
+Lettres Modernes	19366
 Lettres de Mission	10712
 Lettres de Politique Nationale du Secteur	15799
 Lettres de Politiques Sectorielles	18286
@@ -306,7 +313,7 @@ MU IGAZETI YA LETA GAZETTE	14870
 Madam Speaker. Let	14841
 Majesty King Letsie II	12692
 Majesty King Letsie III	2669,7541,2477
-Management Letter	3604,2935,3111,1875,330,3556,3250
+Management Letter	3604,2935,3111,1875,330,3556,3250,623
 Management Letters	10829
 Manufacturer's Authorization Letter	17328
 Mario Draghi and Enrico Letta	9832

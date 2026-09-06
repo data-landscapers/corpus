@@ -16,7 +16,7 @@ ADM Haoussia Tchaoussala Procurement EAWRU Responsible	16922
 ADM IDD04 Ariss Responsible	1284
 ADM Mamata Tiendrebeogo Procurement GGOPF Responsible	11525
 ADM Philippe Auffret Economist GSP05 Responsible	11525
-ADM Responsible	1284,14699,939
+ADM Responsible	1284,14699,939,2362
 ADM Responsible Team Leader Co-Team Leader	11924
 ADM SAWS4 Waterinckx Responsible	1284
 ADM Social Development SAWS4 Smith Responsible	16922
@@ -187,6 +187,7 @@ CC Kenya Computer Incident Response Team	2775,4171,602
 CC National Kenya Computer Incident Response	6671
 CEMAC CATÉGORIES INSTITUTIONS ROLES ET RESPONSABILITES	11944
 CENA RESPONSABLE DE TRAITEMENT Agence Nationale	10821
+CERC Contingent Emergency Response Component CE	19284
 CERC Contingent Emergency Response Component CHW	10829
 CERC Contingent Emergency Response Component CIF	15518
 CERC Contingent Emergency Response Component CIL	15621
@@ -212,6 +213,7 @@ CIDADÃO RESPEITADO	10770
 CIDADÃO RESPEITADO Assim	10770
 CIO. Key Roles and Responsibilities	16975
 CIRT Computer Incidence Response Team CISM	13346
+CNSS Responsibility for Data Collection Establishment	19284
 COM Respecter	17872
 COMMANDEUR DADET UGP Responsable Sauvegarde	16012
 COMMENT RENSEIGNER LES INFORMATIONS DU RESPONSABLE	16034
@@ -276,6 +278,7 @@ Characteristics of Households and Respondents About	14142
 Characteristics of Respondents	14067
 Chikungunya Preparedness and Response	14773
 Child Protection Area of Responsibility	18125
+Cibles Responsable Performance	19226
 Citizen Budget Gender Responsive Budgeting	18488
 Citizen Engagement CERC Contingency Emergency Response	11549
 Citoyenneté Responsable	18100
@@ -288,11 +291,16 @@ Code Initiatives Resp. Coût	16641
 Code of Conduct for Responsible Fisheries	14447,4538
 Codes of Conduct for Responsible Use	6432
 Collection Responsibility	15661
+Collection Responsibility for Data	19284
 Collection Responsibility for Data MASFAMU Collection Page	10768
+Collection Responsibility for Data MoH-UHC	19284
 Collection Responsibility for Data MoHAIS	1867
 Collection Responsibility for Data MoHAIS Collection Number	1867
 Collection Responsibility for Data MoHAIS Collection People	1867
 Collection Responsibility for Data PCU	15661
+Collection Responsibility for Data PIU	19245
+Collection Responsibility for Data PIU Collection Page	19245
+Collection Responsibility for Data Review	19284
 Collection Responsibility for Data The MOH	11417
 Committee Crisis Response Window Environmental and Social	1228
 Committee. Responsibilities	11995
@@ -353,11 +361,12 @@ Continency Emergency Response Component	13331
 Continental Response Plan	16971
 Contingency Emergency Response	13331,4970
 Contingency Emergency Response Comment	13392
-Contingency Emergency Response Component	2989,7779,195,1002,2611,977,108,76,276,174,2622
+Contingency Emergency Response Component	2989,7779,195,1002,2611,977,108,76,276,174,2622,475
 Contingency Emergency Response Component. Following	14576
 Contingency Emergency Response Part	16936
+Contingency Response Component Emergency Response Component	19284
 Contingent Emergency Response	1284,3369,2275,4489,554,204,1156,1125,97,357,608,184,442,292,1522,397,268,186,8
-Contingent Emergency Response Component	761,235,232,36,20,300,283,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61,990,2,226,353,27,35,66,2,37,1,2,82,39,187,14,96,65,43,197,52,460,26,4,68,6,96,3,15,848,171,160,8,49,4,5,97,48,30,275,124
+Contingent Emergency Response Component	761,235,232,36,20,300,283,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61,990,2,226,353,27,35,66,2,37,1,2,82,39,187,14,96,65,43,197,52,460,26,4,68,6,96,3,15,848,171,160,8,49,4,5,97,48,30,275,124,312,4,35
 Contingent Emergency Response Component CERC Country	11417
 Contingent Emergency Response Component CERC Steering	1228
 Contingent Emergency Response Component CPF Comité	10964
@@ -411,6 +420,7 @@ Crisis Response Window	1228,13962,301,907,2180
 Critical Infrastructure Responsibility	18675
 Cultural Diversity Respecting	2958
 Cumulative Target Values Data Responsibili Description	17441
+Cyber Incidence Response Team	19245
 Cyber Incident Response Capability Strengthened	11134
 Cyber Incident Response Specialists	6832
 Cyber Incident Response Team	1877,1727,10945
@@ -432,6 +442,7 @@ DCEI Indicator-Level Responses	10785
 DDPSA Responsibility for Data MEPPSA	11905
 DE ADULTE RESPONSABLE DE L'ENFANT LIGNE	13300
 DE AUTRE ADULTE RESPONSABLE AUTRE ADULTE	13300
+DE LA PERSONNE RESPONSABLE DE L'ACCES	19210
 DE LA RESPONSABILITE DES ASSUJETTIS ENVERS	15747
 DE LA RESPONSABILITE DES EDI TEURS	18106
 DE LA RESPONSABILITE DES PERSONNES MORALES	17826
@@ -470,6 +481,7 @@ Dashboard Response Protocol Warnings Python	17157
 Data Breach Response Obligations Does	14524
 Data Responsibility Guidelines	11156
 Date Due Funding Target Responsible Supporting	1988
+Date Traitement Respect de Suivi	19226
 Deadline Responsible	15659
 Deadline Responsible Body Key Outputs	3861
 Death Surveillance and Response MR Measles-Rubella NAPHS	12729
@@ -659,7 +671,7 @@ Expanded Gender Responsive Budgeting	18577
 Expectations for Computer Security Incident Response	18774
 Expected Environmental Responsibilit Time	12253
 Experts Call for Responsible AI Integration	10355
-Extended Producer Responsibility	12191
+Extended Producer Responsibility	12191,7054
 F. CLIENT'S RESPONSIBILITIES IGAD	14928
 F. Contingent Emergency Response Component	14912
 F. DELCROS Respective G7 Partners	11154
@@ -727,6 +739,8 @@ GICT Agency Responsible	16926
 GITGE’s Corporate Social Responsibility	16942
 GOVERNANCE STRUCTURES AND KEY RESPONSIBILITIES	12240
 GOVERNANCE STRUCTURES AND KEY RESPONSIBILITIES Effective	12240
+GOVERNMENT ASSURANCES AND RESPONSIBILITIES	19214
+GOVERNMENT ASSURANCES AND RESPONSIBILITIES Section	19214
 GRB Gender Responsive Budgeting GTI Government	18512
 GRM. Responsibility for Data Collection FAS-IDL Enhanced	10768
 GRPBMEA Gender Responsive Planning	11193
@@ -767,6 +781,7 @@ Gouvernement OSC Autres Responsable	15712
 Governance Structures and Key Responsibilities	12240
 Governance and Regulation for Responsible AI	16050
 Government Response and Next Steps Stats SA	5597
+Government Responsibilities	19214
 Government and Academic Computer Security Incident Response	2989
 Government of Liberia Presents Crisis Response Plan	17311
 Government of Morocco Responsible Agency	17441
@@ -783,6 +798,7 @@ Guinea Respective Part	1264
 Guinea-Bissau Respective Part	1264
 Gulf of Guinea Joint Response Plan	10920
 H. Response	14777
+H30 TU. La Personne Responsable des Marchés	19334
 HAWH2 Responsible	16922
 HELD RESPONSIBLE FOR ANY ERRORS	1009
 HNRP Humanitarian Needs and Response Plan ICCG	18668
@@ -794,7 +810,7 @@ Health Cybersecurity Emergency Response Team	12240
 Health Emergencies Rapidly Detected And Responded	10776
 Health Emergency Preparedness and Response	16922
 Health Emergency Preparedness and Response HMIS Health	16922
-Health Emergency Preparedness and Response Multi-Donor Trust	16922
+Health Emergency Preparedness and Response Multi-Donor Trust	16922,2362
 Health Sector Emergency and Response Plan	16874
 Health System Response and Primary Health Care	14721
 Health and ICT Responsible Ministry	16872
@@ -896,6 +912,7 @@ Individual Respondents	17149
 Industry Consultation Response Ministry of Finance	18952
 Infecciones Respiratorias	4209
 Infecciones Respiratorias Agudas	16962
+Infection Respiratoire Aigue MAS	19226
 Infection Respiratoire Aiguë IST	15685
 Infection Respiratoire Aiguë LNSP	15423
 Infections Respiratoires Aigües	15475
@@ -989,7 +1006,7 @@ Lamu County. Social Responsibility and Investment	6946
 Las Responsabilidades	16855
 Last Mile Projects Description Responsible Party	12399
 Launch of National Incident Response Center Somalia	5338
-Le Responsable	747,1,1236,808,8084,1167,1332,1050,1047,97,1044
+Le Responsable	747,1,1236,808,8084,1167,1332,1050,1047,97,1044,2749
 Le Responsable Administratif	14424,1
 Le Responsable Open Data	747,1237
 Le Responsable de Programme	15569
@@ -1019,6 +1036,7 @@ MATRIZ DE RESPONSABILIDADES	11413
 MAURITIUS CONTENTS RESPONSE OF THE AUTHORITIES 3	14777
 MAURITIUS I. Response	14777
 MBENGUE Guy Flugence UGP Responsable	16012
+MCENDA and PIU Collection Responsibility for Data PIU	19245
 MILLION EQUIVALENT FROM THE CRISIS RESPONSE	15990
 MILLION FROM THE CRISIS RESPONSE WINDOW	15190,800
 MILLOGO Responsable	10708
@@ -1094,6 +1112,7 @@ Ministry of Labour and Social Security Responsible	18504
 Ministry of Public Responsible for G2P	12444
 Ministry. Respect	14934
 Mission Responsabilités Livrables	14537
+Mitigation Measures Responsibility and Deadline A PIM	19245
 Mitigation Measures Responsible Party	1988
 Mitigation Measures Responsible Party General	1988
 Mitigation Measures Responsible Party Type	1988
@@ -1139,6 +1158,7 @@ Namibia Cybersecurity Incidence Response Team	12982
 Namibia Cybersecurity Incident Response Team	13028
 Namibia's National Cybersecurity Incident Response Team	9562
 National Accounts. E. Response	14777
+National COVID-19 Preparedness and Response Plan	19284
 National Climate Change Response Strategy	970
 National Computer Emergency Response Center	7538
 National Computer Emergency Response Team	587,8720,656,213,2056,5028
@@ -1252,14 +1272,20 @@ P7 Respectdesexigences	15525
 PAGOF Responsable	15712
 PARAGRAPHE I DES PERSONNES RESPONSABTES DES	15397
 PART III CYBER INCIDENT RESPONSE TEAMS	2727
+PCU Responsibility for Data Collection New Epidemic	19284
 PCU Responsibility for Data Collection PCU Component	3604
 PCU Responsibility for Data Collection PCU Page	3604
 PCU Responsibility for Data Collection PCU. Beneficiaries	3604
+PCU Responsibility for Data Collection Revised Tracer	19284
 PDO Indicators Mapped Methodology for Data Responsibility	1284,15638
 PDO Indicators Methodology for Data Responsibility for Data	13332
 PERSON RESPONSIBLE FOR THE HOUSEHOLD'S	17127
 PGES DATA CENTER PRINCIPAL Responsables Coût	14489
 PIM. Responsibilities	6539
+PIU Collection Responsibility for Data PIU	19245
+PIU Collection Responsibility for Data PIU Collection	19245
+PIU Collection Responsibility for Data PIU. Collection	19245
+PIU. Collection Responsibility for Data PIU. Collection	19245
 PMU-National and District Response Management	1988
 POLICY AND INSTITUTIONS RESPONSIBLE INSTITUTION	18931
 POLICY RESPONSE AND OPTIONS IN RESOLUTION	10
@@ -1337,6 +1363,7 @@ Poverty Response System With UN	18215
 Precios de Consumo IRA Infecciones Respiratorias Agudas	16969
 Premier Responsable	1187
 Preparedness and Response	10768,3675
+Preparedness and Response Multi-Donor Trust Fund HSTRF	19284
 Preparedness and Response Plan	18370
 Preparedness and Response Toolkit	11417
 Preparedness and Response Toolkit GENPAR Grant Facility	11417
@@ -1348,6 +1375,7 @@ Preventing and Responding	10776
 Prevention and Response	11611,3570,3331,400
 Prevention and Response Action Plan	13111
 Prevention and Response Programme	12626
+Principal Responsibility. The Government	19214
 Principles for Responsible Banking	10718
 Principles for Responsible Digital Payments	3673
 Princípio da Responsabilidade	4146
@@ -1409,6 +1437,7 @@ Période Responsables Utilisation	14488
 Période Responsables de Avant	14488,1
 Période Responsables de Tout	14490
 Q1.7 Qualification du Responsable	18169
+QIP Collection Biannually Responsibility for Data Project	19284
 QRIS Quick Response Code Indonesian Standard	11994
 QUALIFICATION DES RESPONSABLES DES DIRECTIONS DES	18169
 Quarterly Quarterly Ghana Fire Response	15845
@@ -1436,7 +1465,7 @@ RESPECT THE CONSTITUTION	4619
 RESPECTIVELY	14647
 RESPIRATION	13300
 RESPIRATION RAPID...... D JAUNISSE	13300
-RESPITE	6523,3657,7018,1339,430
+RESPITE	6523,3657,7018,1339,430,272
 RESPITE Project	6523
 RESPONDENT	18154
 RESPONDENT DECISION OF THE PERSONAL DATA	5113
@@ -1452,9 +1481,12 @@ RESPONSABILIDADE CIVIL ARTIGO	3519
 RESPONSABILIDADE CONTRA-ORDENACIONAL ARTIGO	3519
 RESPONSABILIDADE E TUTELA ARTIGO	11461
 RESPONSABILITE	15394,549,352
+RESPONSABILITE CIVILE Sans	19260
+RESPONSABILITE DES ADMINISTRATEURS ET DIRECTEURS GENERAUX	19260
 RESPONSABILITE DES PRESTATAIRES TECHNIQUES DE SERVICE	16617
 RESPONSABILITE DU PRESTATAIRE DE SERVICES	16747
 RESPONSABILITE DU TITULAIRE ET ASSURANCES	15394
+RESPONSABILITE EN CAS DE LIQUIDATION Si	19260
 RESPONSABILITE ET DEROULEMENT	17846
 RESPONSABILITE GENERALE	15394
 RESPONSABILITÉ DANS LA PRODUCTION DU RAPPORT	17830
@@ -1487,6 +1519,7 @@ RESPONSE	10,11407
 RESPONSE AND RESILIENCE PROGRAM USING	11417
 RESPONSE CAPABILITY PROGRAM	1000
 RESPONSE FORMAT FOR SECTION	11209
+RESPONSE MULTI	19284
 RESPONSE OF THE AUTHORITIES	14777
 RESPONSE OF THE AUTHORITIES A. Introduction	14777
 RESPONSE OPTIONS	17127
@@ -1541,6 +1574,7 @@ ROLES AND RESPONSIBILITIES DATA PROCESSORS	14434
 ROLES AND RESPONSIBILITIES FRAMEWORK	14874
 ROLES AND RESPONSIBILITIES MEMBER STATES	14434
 ROLES ET RESPONSABILITES DES ACTEURS IMPLIQUES	18100
+ROLES ET RESPONSABILITES. La Coordination Nationale	19252,21
 RRH Responsable	10876
 RSSI Responsables	15472
 RTI Activates Ebola Surveillance and Response System	16383
@@ -1586,7 +1620,7 @@ Republic of Madagascar Responsible Agency	14456
 Republic of Mozambique. Responsible Agency	12220
 Resilient and Responsible Design	5892
 Resources and Responsibilities	1778,11212
-Respect	37,968,209,5745,589,461,1651,1052,124,40,124,131,102,4,704,15,377,25,198,346,195,345,26,2,7,98,1,59,389,400,1,63,1,1,39,8,589,237,31,35,71,12,30,26,67,77,12,17,39,68,37,16,7,25,3,7,352,341,216,288,156,189,282,115,20,48,341,153,160,432
+Respect	37,968,209,5745,589,461,1651,1052,124,40,124,131,102,4,704,15,377,25,198,346,195,345,26,2,7,98,1,59,389,400,1,63,1,1,39,8,589,237,31,35,71,12,30,26,67,77,12,17,39,68,37,16,7,25,3,7,352,341,216,288,156,189,282,115,20,48,341,153,160,432,198,63,63
 Respect Gono	1713,6582
 Respect and Dignity	12642
 Respect du Pacte	18988
@@ -1671,7 +1705,7 @@ Respondentsin	18154
 Respondents’ Age	12978
 Respondentto	18154
 Responder	11374,1598,2532,3296
-Responding	1284,583,226,3,969,448,49,42,1618,79,149,358,296,101,6,136,473,290,31,3,260,39,113,1,45,98,142,104,76,59,104,182,26,129,395,38,141,25,322,2,31,49,595,346,36,57,209,8,53,61,74,117,91,245,143,12,82,201,25,25,396,94,119,55,4,46,358,293,61,1,14,15,87,483,182,321,231,83,4,439,53,247,62,68,37,3,483,254,524,516,20,118,65,602,227,27,25,58,3,226
+Responding	1284,583,226,3,969,448,49,42,1618,79,149,358,296,101,6,136,473,290,31,3,260,39,113,1,45,98,142,104,76,59,104,182,26,129,395,38,141,25,322,2,31,49,595,346,36,57,209,8,53,61,74,117,91,245,143,12,82,201,25,25,396,94,119,55,4,46,358,293,61,1,14,15,87,483,182,321,231,83,4,439,53,247,62,68,37,3,483,254,524,516,20,118,65,602,227,27,25,58,3,226,436,39
 Respondingtothisgap	8602
 Respons. Calendrier	18286
 ResponsAbility	389
@@ -1705,7 +1739,7 @@ Responsabilit	1442
 Responsabilite	15584
 ResponsabilitÃ	18365
 ResponsabilitÈ	15394
-Responsabilité	1679,663,2078,6401,15,303,2152,99,391,1048,90,207,223,139,95,12,40,76,1,20,116,53,32,10,352,325,127,738,343,2,16,36,19,82,349
+Responsabilité	1679,663,2078,6401,15,303,2152,99,391,1048,90,207,223,139,95,12,40,76,1,20,116,53,32,10,352,325,127,738,343,2,16,36,19,82,349,881,4,18,16
 Responsabilité Article	15901,1957
 Responsabilité Civile RC	13377
 Responsabilité C’est	15720
@@ -1719,11 +1753,12 @@ Responsabilité Sociétale CT	18315
 Responsabilité Sociétale des Entreprises	839,14657
 Responsabilité Transparence Principe	17842
 Responsabilité. Tous	15478
-Responsabilités	11522,2941,74,935,565,578
+Responsabilités	11522,2941,74,935,565,578,2635,111
 Responsabilités Acteur Secrétaire	14537
 Responsabilités Livrables	14537
 Responsabilités Niveau	15908
 Responsabilités Supervise	14537
+Responsabilités Utilisation	19221
 Responsabilités des Auditeurs Internes Ingingo	15027
 Responsabilités du Comité	15027
 Responsabilités du Comité de Ingingo	15027
@@ -1738,7 +1773,7 @@ Responsabilizar	16325
 Responsabilização	10750,2091,5926,5
 Responsabilização. República	10750
 Responsabl	15936
-Responsable	163,273,751,44,645,108,808,174,140,6071,332,32,1284,17,34,2414,257,202,675,1,54,9,1,1,47,873,22,33,23,24,24,48,52,76,32,37,67,63,25,76,22,215,1,163,43,157,4,238,43,548,376,9,288,24,27,154,71,524,7
+Responsable	163,273,751,44,645,108,808,174,140,6071,332,32,1284,17,34,2414,257,202,675,1,54,9,1,1,47,873,22,33,23,24,24,48,52,76,32,37,67,63,25,76,22,215,1,163,43,157,4,238,43,548,376,9,288,24,27,154,71,524,7,295,141
 Responsable ANTIM ANTIM Partenaire OMS	17882
 Responsable ARE Objectifs	17835
 Responsable Activités Travaux	18118
@@ -1767,8 +1802,10 @@ Responsable Suivi-Évaluation	18201
 Responsable Technique	16693
 Responsable de Ministère du Commerce	15712
 Responsable de PRODIGY	14488,1,1
+Responsable de Zone Fonctionnelle	19362
 Responsable des Affaires Domaniales	10876
 Responsable des Données	9406
+Responsable des Institutions	19361
 Responsable des Politiques	10867
 Responsable des Produits de Paiement	4695
 Responsable du Centre	17900
@@ -1821,7 +1858,7 @@ Responsables des Unités	15936
 Responsables du MNDPT	14573
 Responsables. LA TRANSPARENCE POUR UN SECTEUR	10975
 Responsablq	15584
-Response	1597,343,1562,81,208,510,1376,226,1094,990,2326,133,275,55,143,290,7,19,17,33,11,84,37,108,189,150,4,84,5,133,49,346,204,259,22,20,150,176,1144,93,176,48,85,5,54,131,29,261,149,354,166,21,808,36,50,15,216,132,1004,183,189,10,20,27,230
+Response	1597,343,1562,81,208,510,1376,226,1094,990,2326,133,275,55,143,290,7,19,17,33,11,84,37,108,189,150,4,84,5,133,49,346,204,259,22,20,150,176,1144,93,176,48,85,5,54,131,29,261,149,354,166,21,808,36,50,15,216,132,1004,183,189,10,20,27,230,293
 Response AI	7987
 Response All	7987
 Response Approach Paper	15511
@@ -1841,6 +1878,7 @@ Response JSE Junior Secondary Education LEC	16935
 Response Joint Venture	7987
 Response KPI Key Performance Indicator KYC	14965
 Response Letter	5903
+Response Multi-Donor	19284
 Response Overview	15115
 Response Phase	17157
 Response Pillars	15115
@@ -1941,10 +1979,10 @@ Responsibility Sub-pillar	12214
 Responsibility Timing Completion Measurement	18370
 Responsibility Timing Completion Measurement Page	16032
 Responsibility Timing Completion Recurrent Measurement CCDB	11905
-Responsibility Timing Timing	17470
+Responsibility Timing Timing	17470,1772
 Responsibility Timing Timing Value Status Completion	10870
-Responsibility Timing Timing Value Status Environmental	10870,6600,35
-Responsibility Timing Timing Value Status Fiduciary	10870,6600,35
+Responsibility Timing Timing Value Status Environmental	10870,6600,35,1737
+Responsibility Timing Timing Value Status Fiduciary	10870,6600,35,1737
 Responsibility Timing Timing Value Status Social	10870
 Responsibility Timing Timing Value Status Technical	17470,35
 Responsibility YR1	15905
@@ -1967,9 +2005,14 @@ Responsibility for Data Collection MASFAMU	10768
 Responsibility for Data Collection MASFAMU COMPONENT	10768
 Responsibility for Data Collection MEH	15659
 Responsibility for Data Collection MOH	11417
+Responsibility for Data Collection MOH-UHC	19284
+Responsibility for Data Collection MoH-UHC	19284
+Responsibility for Data Collection MoH-UHC Indicator Name	19284
+Responsibility for Data Collection MoH-UHC PDO Outcome	19284
 Responsibility for Data Collection PCU	3604
 Responsibility for Data Collection PCU Graduates of ESATIC	3604
 Responsibility for Data Collection PCU People	3604
+Responsibility for Data Collection PCU Results Area	19284
 Responsibility for Data Collection PISU	15658
 Responsibility for Data Collection PISU Beneficiaries	15658
 Responsibility for Data Collection PISU Complaints	15658
@@ -1985,6 +2028,8 @@ Responsibility for Data Collection PISU Shock-response	15658
 Responsibility for Data Collection PISU Women	15658
 Responsibility for Data Collection PIU	15553
 Responsibility for Data Collection People	10829
+Responsibility for Data Collection Review	19284
+Responsibility for Data Collection Review of PHC	19284
 Responsibility for Data Collection The MOH	11417
 Responsibility for Data Collection The MOH Average	11417
 Responsibility for Data Collection The MOH Cross-border	11417
@@ -2015,6 +2060,8 @@ Responsibility for Data PIU Collection Respondents	16144
 Responsibility for Data PIU and Ministry of Higher Education	16144
 Responsibility for Data PIUs	16144
 Responsibility for Data Primary	16144
+Responsibility for Data Review	19284
+Responsibility for Data Routine	19284
 Responsibility for Data SPV Collection Benin	16144
 Responsibility for Data The MOH. Collection Percentage	11417
 Responsibility for Data The PIU	16144
@@ -2281,12 +2328,12 @@ Sno. Name Rank Responsibilities	14760
 Social Protection COVID-19 Response and Recovery Project	18809
 Social Protection Response	16384
 Social Protection Shock Response Strategy	15878
-Social Protection and Jobs Responses	10763,6139
+Social Protection and Jobs Responses	10763,6139,2335
 Social Responsibility	11250
 Social Responsibility and Participation Central Department	15604
 Social Safety Net Response	13332
 Socio-demographic Characteristics of Respondents	17127
-Société A Responsabilité Limitée	18151
+Société A Responsabilité Limitée	18151,1135
 Somali Quick Response Code	15057
 Somalia Computer Incident Response Team	4810,528,332,6843
 Somaliland's Respective Activities	14912
@@ -2428,6 +2475,7 @@ Uganda. The Respondent	3307
 Under the Emergency Response Plan	18374
 Undertaken Time Frame Responsible Body	15411
 Union Commission CERC Contingency Emergency Response	18504
+Unit Responsible Unit AWCF2	19284
 Unit of Responsibility for Indicator Name Core Baseline	11525
 United Nations Humanitarian Response Plan for Libya	16902
 Unlike the Contingent Emergency Response Component	15658

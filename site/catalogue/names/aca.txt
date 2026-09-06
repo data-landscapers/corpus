@@ -140,7 +140,8 @@ Academic and Research Communities	12675
 Academic and Research Institutions	1261,11095,4793
 Academic and Research Institutions University Of Mauritius	11332
 Academic-industry	14997
-Academics	991,5841,3183,1139,762,109,5322,1095
+Academics	991,5841,3183,1139,762,109,5322,1095,795
+Academics GeospaƟal	19237
 Academics Library Calendar Apply for Admissions Human	17232
 Academie Nationale de Medecine de Madagascar	14662
 Academies	16046
@@ -162,6 +163,7 @@ Academy of Science of South Africa	5246
 Académica	4209
 Académicas	16965
 Académie	4402,3268,599,1006,2370,1645,1376,823,118,564,289,1370,456,126,472,58
+Académie DHIS2	19354
 Académie Internationale de Droit du Numérique	11645
 Académie MSF	18267
 Académie Nationale du Leadership Féminin	17471
@@ -172,7 +174,7 @@ Académie. Art	16171
 Académie. Au	16171
 Académie. Elle	16171
 Académie. Il	16171
-Académies	17861,134,82,865
+Académies	17861,134,82,865,279
 Académies DHIS2	13306
 Académies Numériques Nationales	15565
 Acam-Oboroncú-Nsork-Mofub Evinayong	4209
@@ -215,6 +217,7 @@ Botswana Academy of Sciences	12544
 Bridge Academies	10290
 Bridge International Academies	15661
 Bridge International Academies.45	15661
+CDR Academics	19237
 CHRISTS GIFT ACADEMIES Data Controller INST-9898680D571	7167
 CISCO Academy Programme	12453,892
 CISCO Digital Academies	12241
@@ -272,7 +275,7 @@ Development Academic Research Public Opinion Education	15713
 Development and Academia	18446
 Development and Academia Academia	18446
 Diaspora and Academia	11863
-Digital Academy	3982,144,4434,4153,2840
+Digital Academy	3982,144,4434,4153,2840,3740
 Digital Champions Academy	11306,5469
 Digital Government Academy	3604
 Digital Government Academy. Participants	7687
@@ -411,6 +414,7 @@ Mauritius’ Strategic Value Proposition for Global Academic	14747
 Maxeke Johannesburg Academic Hospital	8603
 Media Academy for Journalism and Communication	9313
 Media and Academia Disseminate M&E	15845
+Mi- Academies Press	19237
 Ministry’s Digital Transformation Academy	16046
 Mkhari Academic Hospital Health Construction	11248
 Morningside Design Academy Fellowship	11909
@@ -424,7 +428,7 @@ National AI Academy	7853,678
 National AI Governance Academy	4528,7984
 National Academic Digital Library of Ethiopia	13991
 National Academic Publication and Indexing Database	18206
-National Academies of Sciences	12265
+National Academies of Sciences	12265,6972
 National Academy of Information Technology for Persons	16046
 National Anti-Corruption Academy	15719
 National Police Leadership Academy	14505

@@ -1,18 +1,26 @@
 A. Estimated FY2025 Budget Alignment	17139
 AAID Pillar Alignment	17139
 ACS Alien Control System Covid-19 Coronavirus	12947
+ADAM Ali SCH	19251
+ADJAI Ali ADC	19251
 AF. Aliás	12018
 AGRICOLE ET SECURITE ALIMENTAIRE DEVELOPPEMENT DES	15999
 AI Alignment	1814
 AI. Alisema	8411
+AKILA Ali Komi SCH	19251
 ALAMEN Musa Ali WANTITI Mousa KOURI	17403
+ALI Adebayo Abib Pehim SGT	19251
+ALI Bougondeou SCH	19251
 ALI For the People's Democratic For the Great	17438
 ALI For the Popular Democratic For the Great	17438
 ALI MAALIM ABDI Data Processor INST-658802FE653	7167
 ALI MINISTERE DE LA POSTE ET	15410
+ALI Napo ADC	19251
 ALI SAFA	16177
 ALIAN	6613
+ALIASSIM Wassiou SCH	19251
 ALIBABA LOGISTICS	7167
+ALIBI Kodzo SCH	19251
 ALIBORI	15398
 ALICE AND JOHN THE PRIME HEALTHCARE	7167
 ALICE CHEPKIRUI LANGAT Data Processor INST-9883984DB86	7167
@@ -25,6 +33,7 @@ ALICE WAITHERA The Murang'a	6405
 ALICE WAMUYU NJARAMBA Data Processor INST-477164114AB	7167
 ALICE WANJIKU MURIITHI Data Processor INST-1704651E51C	7167
 ALICE WANJIRU NDIENYE Data Processor INST-490037D7A3F	7167
+ALIDOU Sani ADJ	19251
 ALIELALEDDEURSPHSNIPSNET20G2O6-U20V3E0RNANCE Objectif	16195
 ALIEU TOURAY	15825,1555
 ALIGNED FOR IMPACT Transparency Trade	13042
@@ -39,6 +48,7 @@ ALIGNMENT TO SONA	11285
 ALIGNMENT WITH LEGISLATIVE FRAMEWORKS	12923
 ALIGNMENT WITH THE WORLD BANK INTERIM	16942
 ALIGUMA MUGISA MARIA BYOMA LOUBEGA RAYMOND	9781
+ALIKA Samon SCH	19251
 ALIKI MONEY TRANSFER LIMITED Data Controller	7167
 ALIMA	12003,5968
 ALIME	4209
@@ -52,6 +62,8 @@ ALINGUI M. OMBOLA ITOUA	15744
 ALIOUNE SALL	2443
 ALIOUNE SALL RELANCE UN PROJET PHARE	18340
 ALIS and LabExpert	4217
+ALITCHEDI Moussa CCH	19251
+ALITI Mazama-Esso Toï CCH	19251
 ALITING L P	17111
 ALIVE and DiCentre4AI	2335
 ALi.JI	18901
@@ -319,9 +331,10 @@ Align the National Data Centre	13295
 Aligned	789,63,854,19,240,1831,420,425,199,105,46,37,707,641,2294,250,1140,880,191,7,58,979,39,27,5,153,4,151,161,207,34,8,131,520,137,779,304,87,68,7,132,62,53,481,1133,117,348,1,70,162,789,272,425
 Aligned Strategies Development National	15845
 Aligned for Impact Adaptability Agile	13042
-Alignement	10876,99,1068,2494,85,871,227,4,124,480,98,215,1656,19,626
+Alignement	10876,99,1068,2494,85,871,227,4,124,480,98,215,1656,19,626,279,141
 Alignementstratégique	18297
 Aligner	7392,5898,2210,2345,461,624
+Aligner le SI	19362
 Aligning	1777,211,1852,926,82,685,1060,946,9,1451,1998,240,510,159,308,26,57,59,319,367,270,2,44,323,476,581,259,37,210,98,1153,447,21,435,508,453
 Aligning Action	11332
 Aligning Climate Change Adaptation Planning	11006
@@ -339,7 +352,7 @@ Aligning the Organisation	13532
 Aligning the Sector	13582
 Alignm	14777
 Alignm7e.5nt	10157
-Alignment	961,816,37,4,1777,23,243,1383,2,1048,538,106,100,113,240,157,124,956,576,953,672,11,294,22,75,4,23,28,131,440,10,38,11,324,116,3,17,256,42,1,53,189,4,84,37,38,338,94,169,275,35,786,81,30,34,75,26,450,188,483,68,651,13,43,24,32,141,23,44,77,435,50,733,51,374
+Alignment	961,816,37,4,1777,23,243,1383,2,1048,538,106,100,113,240,157,124,956,576,953,672,11,294,22,75,4,23,28,131,440,10,38,11,324,116,3,17,256,42,1,53,189,4,84,37,38,338,94,169,275,35,786,81,30,34,75,26,450,188,483,68,651,13,43,24,32,141,23,44,77,435,50,733,51,374,342,39
 Alignment Alignment SDGs Area	970
 Alignment Intentions and Readiness for NSDS III	17116
 Alignment Intentions and Readiness for NSDS III Beyond	17116
@@ -391,7 +404,7 @@ Alimentaires. Membres	16616
 Alimentar	11443,5455
 Alimentaria	16898
 Alimentario	16331
-Alimentation	2342,8131,401,2426,142,36,46,117,1859,83,520,220,21,208,69,26,359,479,99,239,19,4,61,38,33,36,14,71,6,181,656,30,34
+Alimentation	2342,8131,401,2426,142,36,46,117,1859,83,520,220,21,208,69,26,359,479,99,239,19,4,61,38,33,36,14,71,6,181,656,30,34,220
 Alimentation Actualiser le PNIASAN	15500
 Alimentation FAO	15500
 Alimentation Générale and Modern Market	10841
@@ -406,7 +419,7 @@ Alimenter	10975,4567,2748
 Alimenter la FinTech	15493
 Alimento	4209
 Alimentos	1701,9059,17,599,7386
-Aliments	13300,2747,56,2209
+Aliments	13300,2747,56,2209,948
 Alimenté	8109,610,9245
 Alimments	13329
 Alina	10829
@@ -526,6 +539,8 @@ Asaad Mohsen Ali Zhew Suleiman SS	17403
 Askar Ali Mohammed Omar Ali Abdelbari	17403
 Authors Alison Gillwald	5044
 BASSE KOTTO ALINDAO-MINGALA	10829
+BEYELI Ali SCH	19251
+BOUKARI Alimadjidou SCH	19251
 Background Aligning	12444
 Badara Aliou DIAKITE	17882
 Badara Alioune BERTHE	17841
@@ -577,6 +592,8 @@ Co-researcher Dr Abdul-Rahim H. Ali	11133
 Codex Alimentarius Stand-	13357
 Codex Alimentarius. Dans	15724
 Coligaçáo Plataforma Aliança	11544
+Colonel ALI Bouwakibe	19251
+Commandant ALITI Pidjamdeou	19251
 Committee Member Ms. DUSHIMIRE Alice Board	15023
 Common Digital Market Aligned	15831
 Communications Minister Mohamed Aden Mohamud Ali	3774
@@ -586,6 +603,7 @@ Construction of Ahmad Aliwa Preparatory School Supply	15578
 Consumo de Alimentos	10777
 Consumo de Alimentos Pouco Saudáveis	10777
 Continuous Compliance Align	6432
+Contrôle des Aliments	19366
 Cooperation Framework's Alignment	13977
 Core Curriculum and Digital Literacy Alignment	16963
 Country Context Aligned	13042
@@ -633,6 +651,7 @@ Diversidade Alimentar Mínima Gotas de Sangue Seco	10777
 Djibril Abdi Ali	8899
 Dkt. Nungu. Alisema	11643
 Docteur IBRAHIM ABDO ALI	13891
+Donfouet Djaoudath Alidou Team Member	19284
 Donor Alignment	10829
 Dougje Aline	16526
 Dr. ABDERAHIM YOUNOUS ALI	18926
@@ -777,6 +796,7 @@ Hon. Mohammed Ali Nasser	17183
 Honour of Gen Moses Ali IGCP	6077
 Houssam Said Ali	5669
 Hyacinth Iormem Alia	2616
+Hygiène Alimentaire	19366
 I.3. Alignement	17873
 ID. Aligned	4614
 IIP Accuracy and Reliability Elements of Quality Alignment	14777
@@ -784,6 +804,7 @@ IIP Alignment	14777
 INDUSTRIES ALIMENTAIRES	16103
 INVESTIGACION ALIMENTOS SEGURIDAD BOSQUES CLIMATICO PESCA	4209
 Ibouroi Ali Tabibou	13724
+Identified Climate Risks and Proposed Actions Aligned	19245
 Ikhlas Mohamed Ali	15257
 Iliyas Abdi Ali	11271
 Ilyaas Ali Hassan	5045
@@ -821,6 +842,7 @@ Jean-Claude KABORE Ali KABORE Dramane CESSOUMA	10875
 Jhpiego Tanzania’s Alice Christensen	14398
 KABURA Dieudonné NIJIMBERE Aline NTANIBINDI Marie	13300
 KANTORE Alice NTAKARUTIMANA A. Moise MANIRAKIZA	13300
+KONDO-AFFO Alidou ADJ	19251
 KOUBEMMBA Alida CEFA Dolisie Personnel	16012
 KVA. Alimentation	16552
 Karim Ali Ahmed	14534
@@ -841,6 +863,8 @@ Legal and Regulatory Alignment	15714
 Liban Abdiwali Sheikh Ali	11596
 Libyenne Alitissal Aljadeed	18216
 Libyenne Alitissal Aljadeed. Cette	18216
+Lieutenant-colonel ALI Ahim	19251
+Lieutenant-colonel GNALI Ali	19251
 Linda Hamiche Safia Omari Ali N	16344
 Liquides Aliments	13300
 Lonestar Cell. Ali Fakih	4285
@@ -849,6 +873,7 @@ M ALI	17829
 M ALIBA	17829
 M ALIKO	17829
 M Alfourjani AbdulHameed Ali Abdusslam Alfadeel	17403
+M&E. Aligned	19284
 M. ALI SAFA	16177
 M. Adji ALI. DIRECTION PROVINCIALE DES	16381
 M. Adji Ali Salatou	2327,1010,630,22,1385,8941,3358,453,27,55,2,21,19
@@ -954,12 +979,14 @@ Mohammed Ali Meddour	15410
 Momodou Alieu Jallow REPUBLIC	16886
 Moncef Ziani Ali Ghannam Tarik Aguizoul	8891
 Monsieur Adji Ali Salatou	18235,17
+Monsieur Ali YOMA	19219
 Monsieur Aliou GAMBY	17817
 Monsieur Aliou NDIAYE	18400,2,1
 Monsieur Aliou SENE	11151
 Monsieur Alioune DIOUF	18400,2,1
 Monsieur Alioune KEBE. Au	18412
 Monsieur Alioune SALL	15834,3
+Monsieur Alioune Sène	19321
 Monsieur Badara Aliou DIAKITE	18032
 Monsieur Badra Aliou SANGARE	18032
 Monsieur Blaise Bienvenu ALI	16417
@@ -1051,13 +1078,14 @@ PM Ali Mahaman Lamine Zeine	14239
 PO2. Alinhamento	11379
 PO3. Alinhamento	11379
 PO4. Alinhamento	11379
+POUH Hodabalo Alih SGT	19251
 POUR INSCRIRE LES ALIMENTS SI	13300
 PP.3.A.3 Align	15604
 PPI Alignment	14777
 Par Alioune Badara CISS	7501
 Par IBRAHIM MIYIR ALI URL	13853
 Paris Aligned Fragility Lens Assessment	15011
-Paris Alignment	6539,4229,4169,1207,805
+Paris Alignment	6539,4229,4169,1207,805,2335
 Paris Alignment Assessment	18851
 Paris Alignment PACTE-ESRI National Plan	17458
 Paris Alignment. The Program	11905
@@ -1113,6 +1141,7 @@ Programme Alimentaire Mondial PHASAO	10874
 Programme Alimentaire Mondial PIB	15673
 Programme Alimentaire Mondiale	13325
 Programme National de Sécurité Alimentaire	16621
+Programme de Résilience du Système Alimentaire	19356
 Progresso de Aliança Nacional de Angola	10428
 Project Alignment	13981
 Project. D. Alignment	11417
@@ -1158,6 +1187,7 @@ SAN Avaliacao de Seguranca Alimentar	966
 SDGS AND OF THE ALIGNMENT	970
 SECURITE ALIMENTAIRE	737
 SECURITE ALIMENTAIRE Au Burkina Faso	737
+SENE Alioune	19277
 SONY ALIBER	17828
 STRATEGIC ALIGNMENT	16188
 Sabané. Aligned	1709
@@ -1220,7 +1250,7 @@ Son Excellence le Dr. Abiy Ahmed Ali	13908
 Soni Ali Ber. Réunis-	18077
 South Sudan. Alimure Ali Awuda	3046
 Souverainete Alimentaire	14662
-Souveraineté Alimentaire	18028
+Souveraineté Alimentaire	18028,1328
 Souveraineté Alimentaire Actes Divers Arrêté	17900
 Specialist Maysra Mahmoud Ali Shamseldin Environmental	15663
 Standards International Organisation for Alignment	961
@@ -1260,6 +1290,7 @@ Tatenda Alice Ngowe Transfer Secretaries	4896
 Technology National Guidance. Hon. Alioni Yorke	9781
 Telecommunications and Digital Economy Alioune Sall	5330
 Tier I Alignment	15039
+Togo. Aligned	19245
 Training and Skills Alignment	6948
 Trident Aliska Digital Tech	6335
 Trident Aliska Digital Tech Ghana Ltd	6335,3642,365

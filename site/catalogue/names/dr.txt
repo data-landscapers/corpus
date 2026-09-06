@@ -41,6 +41,7 @@ ASO AC Recommended Draft	8047
 ASO AC Recommended Draft RIR	8047
 ASO AC Recommended Draft RIR Governance	8047
 ATAFTAX SUGGESTED APPROACH TO DRAFTING SIGNIFICANT	3161
+AU DROIT DE L'ARBITRAGE L'Assemblée	19209
 AUX DROITS VOISINS Quiconque	15643
 AVANT-PROJET DE LOI RELATIVE AU DROIT	10966
 AVCA Trade Buyers Remain Driving Force	4972
@@ -76,7 +77,7 @@ Africa. Drawing	7117,708
 African Countries Draft Report. Gates Foundation	11006
 African Countries Draft Report. Multistakeholder Governance	11006
 African Dreams	17140
-Afrique du Droit des Affaires	10829,7,139,547,27,3823,146,117,23,1,2,136,224,307,614,1040,21,103,195,586,18
+Afrique du Droit des Affaires	10829,7,139,547,27,3823,146,117,23,1,2,136,224,307,614,1040,21,103,195,586,18,304,3
 Afrique du Droit des Affaires ONG Organisation Non	10876
 Afrique du Droit des Affaires Ordre	15352
 Afrique du Droit des Affokes	15397
@@ -354,6 +355,7 @@ D1 Abnormally Dry	17157
 D32 Droit	18032
 D4 Severe Drought	17157
 D42 Droit	18032
+DAPP Droit	19350
 DAR Researchers Drive Content Scrutiny for FAO	12740
 DATA AND EVIDENCE DRIVE POLICY	16892
 DATA DRIVEN DEVELOPMENT FZ-LLC Data Controller	7167
@@ -362,6 +364,7 @@ DE DROIT ET DE DÉVELOPPEMENT RURAL	18143,27
 DE DROIT ET DE GESTION IPDR-KOLLO	18170
 DE DROIT ET D’ECONOMIE GENERALE FAST	18143,27
 DE Droits	15999
+DE L'OUVERTURE DU DROIT AUX PRESTATIONS	19225
 DE LA JOUISSANCE DES DROITS CIVILS	15792
 DE LA JUSTICE ET DES DROITS	15676
 DE LA POSITION SOUS LES DRAPEAUX	18003
@@ -375,6 +378,7 @@ DEMAND DRIVERS NOTES Government	11857
 DEMAND DRIVERS QQQQQ QQ Q Q	11857
 DES ASSURANCES DROIT OHADA	10996
 DES ATTEINTES AU DROIT D’'AUTEUR ET	15643
+DES CONDITIONS D’OCTROI DU DROIT D’ACCES	19241
 DES DOMAINES DOUANES ET DES DROITS	16328
 DES DROITS	15405,179,119,83,115,199,77
 DES DROITS D'ASSOCIES ET DES VALEURS	13293
@@ -400,6 +404,9 @@ DES DROITS HUMAINS ET	15524,91,233,519
 DES DROITS HUMAINS PARTIE NON OFFICIELLE	15786
 DES DROITS LIES AU TRAITEMENT DES	15636
 DES DROITS REGATIENS	15397
+DES DROITS SUR LES RESULTATS DES	19241
+DES PERSONNES MORALES DE DROIT PUBLIC	19260
+DES RESTRICTIONS AU DROIT D'ACCÈS	19208
 DES. DROITS DE	15584
 DEVELOP DRM ENABLING TAX POLICIES	17011
 DEVELOPMENT National Drought Management Authority	14487,29
@@ -410,6 +417,7 @@ DG de FirstBank DRC	3849
 DGUF DI DLC DME DPSR DRI	10858
 DHA. The Draft Revised White Paper	5533
 DHIS2. Driven	11892
+DHIS2. La DRS	19226
 DHS Demographic and Health Surveys DRC Democratic	12006
 DIGITAL BODA DRIVERS AND DELIVERIES ASSOCIATION	7167
 DIGITAL DRIVING LICENSE	19044
@@ -422,6 +430,7 @@ DIRECTION DE LA PROTECTION DES DROITS	14537
 DITION DES JOURNÉES DU DROIT	3675
 DLEAG Drug Law Enforcement Agency	17105
 DNP DRH INSTAT	17946
+DONNANT DROIT AUX TARIFS PRÉFÉRENTIELS DANS	19256
 DR&publication	2096
 DR-INSD	10874,5087
 DR-TB Drug Resistant Tuberculosis EPI Expanded	12729
@@ -476,6 +485,7 @@ DRAJDC	11531
 DRAKSLER	6613
 DRAS Direction	17843
 DRAWDOWN OF THE FACILITY	15399
+DRB20	19250
 DRBONES LTD Data Controller INST-701485F8C56 NAIROBI	7167
 DRC AND CAMEROON	123
 DRC ARPTC	11994
@@ -694,6 +704,7 @@ DREAMS REDEFINED CBO Data Controller INST-122721953F0	7167
 DREAV Rendre	17872
 DRECM-R	8257
 DREEC	18370
+DREF Final Report	19284
 DREF Operational	12618
 DREFT	10975
 DREN EPCV Direction	17885
@@ -706,12 +717,13 @@ DREPPNF. Il	10847
 DREPPNF. L’application	10847
 DREPS	15639
 DREPS Direction	15961
-DRF Direction	14437
+DRF Direction	14437,4779
 DRFFE	16580
 DRH DRH-SSDS Etat	17845
 DRH DRH-SSDS OMS	17845
 DRH Direction	15961,1882
 DRH District Health Information Software Digitalisation	17882
+DRH Division	19216
 DRH ETAT	17845
 DRH ETAT Chargé	17845
 DRH ETAT Etudes	17845
@@ -814,14 +826,17 @@ DROIT A L’INFORMATION Article	14861
 DROIT APPLICABLE	15901,2185
 DROIT APPLICABLE ET ARBITRAGE	15901
 DROIT APPLICABLE ET TRIBUNAUX COMPETENTS	16747
+DROIT AUX PRESTATIONS	19225
 DROIT BANCAIRE	16363
 DROIT D'UTILISATION DES FICHIERS ADMINISTRATIFS	13707
 DROIT DE COMMUNICATION Article L	15999
+DROIT DE COMMUNICATION EMISSIONS DES AVIS	19250
 DROIT DE CONTROLE SECTION	15999
 DROIT DE LA PERSONNE CONCERNEE Article	10825
 DROIT DE PRONONCER L’EXIGIBILITE	15901
 DROIT DES ASSURANCES	16363
 DROIT DES MARCHES FINANCIERS	16363
+DROIT DES PERSONNES ET DES MENAGES	19241
 DROIT D’ACCES ET ENQUETE Ondaye	15901
 DROIT D’UTILISATION DE LA PLATEFORME D’ADRESSAGE	16047
 DROIT MEDIAS FINANCE	10996,5367
@@ -846,6 +861,7 @@ DROITS ET	18003
 DROITS ET AUTORISATIONS TABLE DES MATIÈRES	17896
 DROITS ET LIBERTÉ DE L’INVESTISSEUR Sous	17898
 DROITS ET LIBERTÉS	17898
+DROITS ET OBLIGATIONS ATTACHES AUX ACTIONS	19260
 DROITS ET OBLIGATIONS POUR LA PRESTATION	14919
 DROITS ET TAXES	15394
 DROITS ET TAXES SE PAIENT EXCLUSIVEMENT	15970
@@ -911,6 +927,7 @@ DRPSIAP-Ménaka	17978
 DRPSIAP. Conformément	17842
 DRR Banque DGI	11934
 DRR and DRM	12977
+DRS Directions	19216
 DRS Electronic Deeds Registration System ESTA	11261
 DRS Etat	17845
 DRS Haut	15712
@@ -919,6 +936,7 @@ DRS Kayes Médecin	17882
 DRS Kenya Statistics Package	12297
 DRS Koulikoro Contact	17882
 DRS Koulikoro Médecin	17882
+DRS L’utilisation	19226
 DRS and GamSwitch	16705
 DRS-1	6423
 DRS-10	6423
@@ -959,7 +977,11 @@ DRS-7	6423
 DRS-8	6423
 DRS-9	6423
 DRS-led	12297
+DRS. Cette	19226
+DRS. Dans	19226
+DRS. Pour	19226
 DRS. Refugees	12227
+DRS. Verification Entity	19284
 DRSANO	10975
 DRSCE	998,2698,8,97,4,1949
 DRSHP	15595
@@ -970,6 +992,7 @@ DRSP Menabe	14568
 DRSPP	1284
 DRSRS	14605
 DRSRS and France's DIGINOVE SAS	14605
+DRST Direction	19216
 DRTSS	12309
 DRUG VALUE RS	14760
 DRUGS	13093
@@ -993,14 +1016,17 @@ DSTI and CRS Drive Sierra Leone’s Digital	6903
 DU DROIT	15584
 DU DROIT AU BAIL	13293
 DU DROIT D'ACCES ET DE RECTIFICATION	17822
+DU DROIT D'ACCÈS A L’INFORMATION ET	19208
 DU DROIT DE REPONSE EN MATIERE	15397
 DU DROIT DE RETRACTATION Arlicle	15429
 DU DROIT DE S'INFORMER Article	17822
+DU DROIT D’ACCES AU RESEAU ELECTRIQUE	19241
 DU DROIT D’ACCES AUX INFORMATIONS PUBLIQUES	10966
 DU DROIT-D'ACCES ET DE RECTIFICATION DIRECTS	17822
 DUDH Déclaration Universelle des Droits	18310
 DUPLICATE DROPPED	8807
 Daily KBDI Value Fire Risk Drought	17157
+Dama DRAMANI Official Gazette Version	19208
 Dangerous Drugs	14781
 Dangerous Drugs Act	14742
 Dangerous Drugs Act DOP	14760
@@ -1014,7 +1040,7 @@ Debt Drives Growth	4722
 Decadal Index of Drought Stress	17157
 Declare Drought Levels	17157
 Defensive Driving	6946
-Deferred Drawdown	1284,583,1695,42,7164,61,135,453,143,295,1476,1,2221,68,37,3,483,778
+Deferred Drawdown	1284,583,1695,42,7164,61,135,453,143,295,1476,1,2221,68,37,3,483,778,2323
 Demand Driver Recommendations	18485
 Demand Drivers	11857
 Demand Drivers D1	11857
@@ -1027,7 +1053,9 @@ Deploys Asset-Financing Solution for Rwandan Drivers Foluso	7324
 Des Drganes	37
 Description DRC	11916
 Description Eastcastle Infrastructure DRC SARLU	7356
+Description Prix Dream Pour	19232
 Description Supports the DRC	1771
+Design and Plan the Decree Drafting Program	19214
 Despite the DRC	11918
 Develop DRM Enabling Tax Policies and Legal	17011
 Develop the Nimba Dry Port	17260
@@ -1058,8 +1086,10 @@ Diplomatic Drive FCT	4301
 Dirasset International and Bayayi Group. DRC	4948
 Directeur Général FirstBank DRC	3849
 Direction Générale. Le DRP	15670
+Direction Préfectorale de Santé DRH	19226
 Direction Régionale DREPPNF	15639
 Direction des Droits	18286
+Direction des Ressources Humaines DRS	19226
 Directional Drilling	11405
 Director General DRDLR Department of Rural Development	11224
 Director for Priority Crime Investigation DRDLR Department	11188
@@ -1099,7 +1129,7 @@ Dra. Zalha Assoumana	7702
 Drachsler	8602
 Dracunculose	15712
 Drafitra	14488,1,1
-Draft	396,611,679,142,110,1,166,12,872,594,95,131,304,101,314,55,50,1453,291,141,148,881,160,778,44,17,962,17,721,522,7,44,369,34,14,561,69,39,47,56,202,92,54,156,163,302,54,361,1473,14,10,82,26,45,369,36,133,24,15,42,2,50,366,559,197,13,5,14,5,4,8,16,43,68,128,18,103,339,285,23,390,8,65,115,10,37,86,179,245
+Draft	396,611,679,142,110,1,166,12,872,594,95,131,304,101,314,55,50,1453,291,141,148,881,160,778,44,17,962,17,721,522,7,44,369,34,14,561,69,39,47,56,202,92,54,156,163,302,54,361,1473,14,10,82,26,45,369,36,133,24,15,42,2,50,366,559,197,13,5,14,5,4,8,16,43,68,128,18,103,339,285,23,390,8,65,115,10,37,86,179,245,323
 Draft AI	10246,5467
 Draft AI Policy	10246,984
 Draft Agreement Amending the SADC Treaty	14826
@@ -1252,6 +1282,7 @@ Draft Regulations. SpaceX	6891
 Draft Regulations.124	4732
 Draft Regulations2	4732
 Draft Regulations3	4732
+Draft Regulatory Texts	19214
 Draft Report	962,11346,4688
 Draft Report. Washington DC	16996
 Draft Review Policy	11860
@@ -1281,6 +1312,7 @@ Draft Ver	13017
 Draft Version	239,14696
 Draft WBG Country Partnership Framework	1867
 Draft White Paper	3264,7982
+Draft and Finalize Regulatory Framework	19214
 Draft the National Financial Inclusion Committee	940
 Draft the Policy Framework	18495
 Draft-	6423
@@ -1301,6 +1333,7 @@ Drafting Digital Services Tax Legislation DIGITAL	573
 Drafting Digital Services Tax Legislation EXPLANATORY	573
 Drafting Digital Services Tax Legislation Revenue	573
 Drafting Digital Services Tax Legislation Section	573
+Drafting Guidelines	19214
 Drafting Institutional	12917
 Drafting Legislation	18477
 Drafting Phase	5853
@@ -1473,6 +1506,7 @@ Drive Digital Innovation	4900
 Drive Digital Transformation	6154,661
 Drive Digital Transformation By Phiwa Sikhondze	2292
 Drive Digital Transformation and Economic Growth	5935
+Drive Durable Policy Innovation	19272
 Drive E-Government Reforms Through Digital Solutions	3542
 Drive Effective Policy and Innovation	17116
 Drive Effective Policy and Innovation Goal Rationale	17116
@@ -1572,6 +1606,8 @@ Driving Health Gains Through Sustainable Investments	14033
 Driving Inclusion	4856
 Driving Inclusive Usage	14054
 Driving Inclusive and Sustainable Energy Access	13614
+Driving Inclusive and Trustworthy AI	19298
+Driving Inclusive and Trustworthy AI URL	19298
 Driving Innovation	5249,9921
 Driving Innovation Through Six Strategic Pillars	13077
 Driving Innovation and Digital Transformation	17116
@@ -1599,23 +1635,24 @@ Driving-digital-transformation-of-the-economy-in-Malawi.pdf	14674
 Driving... Germany Arrests Genocide Suspect	4942,664,283,454,183
 Drogas	10750
 Drogba Jaurès	6810
+Drogues	19250,41
 DroiT	15429
 Droii	15429
 Droiis	15429
 Droil	15429
 Droils	15429
-Droit	1231,3336,5049,1196,24,40,2449,68,49,82,186,15,687,241,208,32,469,20,12,32,3,38,7,14,8,51,22,16,14,36,35,4,2,39,186,32,3,7,22,3,31,48,183,65,68,83,169,26,10,96,693,379,12,30,18,93,147,146,67,68,2,1
+Droit	1231,3336,5049,1196,24,40,2449,68,49,82,186,15,687,241,208,32,469,20,12,32,3,38,7,14,8,51,22,16,14,36,35,4,2,39,186,32,3,7,22,3,31,48,183,65,68,83,169,26,10,96,693,379,12,30,18,93,147,146,67,68,2,1,814,33,41,75
 Droit Afrique	17942
 Droit Afrique-France	3121
 Droit Articles	16328
 Droit Au Burundi	13325
-Droit Commercial Général	15352,143
+Droit Commercial Général	15352,143,3714
 Droit Commercial International	14411
 Droit Comptable	15999
 Droit International	15603
 Droit Maison	18112
 Droit Ministère	18087
-Droit Privé	15674,707
+Droit Privé	15674,707,2985
 Droit Privé des Affaires	17918
 Droit de Propriété du Règlement NDICI-GE	15901
 Droit de Tirage Spéciaux	17817
@@ -1631,12 +1668,12 @@ Droit-Afrique.com Congo Régime	15349
 Droit-Afrique.com Tchad	18882
 Droit-Numérique.cd	5415,6517,4119
 Droit. DU CONSEIL ECONOMIQUE	15405
-Droits	643,92,496,86,1,723,1,290,45,99,332,237,74,277,922,1,1507,19,22,212,784,41,751,323,258,1,84,81,215,118,1,150,840,248,413,439,53,19,169,84,2113,61,4,1,1,10,19,33,49,130,100,38,48,14,9,13,34,48,536,6,119,146,178,166,99,245,19,7,3,26,3,5,22,5,13,14,5,4,36,6,14,7,24,13,1,16,62,27,9,45,10,26,108,35,63,35,13,205,11,24,22,14,5,16,59,76,25,3,108,11,7,2,6,3,40,63,692,46,206,138,12,18,40,8,42,23,6,5,8,12,29,31,15,22,18,51,117,24,13,4,5,5,589,194,73
+Droits	643,92,496,86,1,723,1,290,45,99,332,237,74,277,922,1,1507,19,22,212,784,41,751,323,258,1,84,81,215,118,1,150,840,248,413,439,53,19,169,84,2113,61,4,1,1,10,19,33,49,130,100,38,48,14,9,13,34,48,536,6,119,146,178,166,99,245,19,7,3,26,3,5,22,5,13,14,5,4,36,6,14,7,24,13,1,16,62,27,9,45,10,26,108,35,63,35,13,205,11,24,22,14,5,16,59,76,25,3,108,11,7,2,6,3,40,63,692,46,206,138,12,18,40,8,42,23,6,5,8,12,29,31,15,22,18,51,117,24,13,4,5,5,589,194,73,24,2,22,9,41,4
 Droits Art	15598
 Droits Civils	10826,2504,112,1419
 Droits Date	16047
 Droits Fondamentaux du Travail	15901
-Droits Humains	3396,1707,5964,915,2430,1168,268,522,11,1569,336,725
+Droits Humains	3396,1707,5964,915,2430,1168,268,522,11,1569,336,725,260
 Droits Indirects	2971,1449,9441,1807,172,386,102
 Droits Indirects DGID	15840
 Droits Indirects DGTCP Direction Générale du Trésor	10876
@@ -1681,7 +1718,7 @@ Drop-out Completed Never	16921
 Drop-out Rates Access	18512
 DropByDrop	6746
 DropByDrop Water Systems	6746
-Dropbox	7147,1976,1598,4791
+Dropbox	7147,1976,1598,4791,3714
 Dropout	6832,5343,24,1111,1612,739
 Dropout Rate	12199
 Dropout Rates	12411,988
@@ -1952,7 +1989,7 @@ Forest Management Advisory DRAFTED	16853
 Foreword Draft	17884
 Form of Irrevocable Notice of Drawdown	15399
 Franz Drees-Gross	10180,7172
-Franz R. Drees-Gross Country Director	15659
+Franz R. Drees-Gross Country Director	15659,3580
 Franz R. Drees-Gross Division Director	15969,14,2215
 Franz R. Drees-Gross Practice Manager	11549,4153
 Fraud Driven From Within the State	9517
@@ -2015,6 +2052,7 @@ HOWARD-TAYLOR REJECTS DRUG TRAFFICKING CHARGES	10581
 Harmonisation du Droit des Affaires	15411,63,625,2189
 Harmonisation du Droit la Lutte	17845
 Harmonization for Drafted Being Circulated	16853
+Health Economist No Dramane Mariam Noelie	19284
 Health Product Regulatory Authority Drug Importation	17011
 Helios Towers DRC	5604,6
 Helios Towers DRC Infraco SPRL	88
@@ -2069,11 +2107,13 @@ INSTITUTIONNELLES ET DES DROITS HUMAINS	15792
 INTEGRATED DROUGHT MANAGEMENT APPROACH Reactive	17157
 INTERNATIONALE DEDIEE AU DROIT DE CHANGE	17385
 INTRODUCTION Drought	17157
+IRI Dropped	19284
 ITU-ALERT International Cyber Drill for Africa Region	318
 IV NATIONAL STRATEGY FOR DROUGHT MANAGEMENT	17157
 Ibadan Dry Port	15297
 Identic and Dreams Hub	16942
 Identifie Draft Negotiated Cont Description Component	17180
+Identify Drafting Guidelines	19214
 Igniting Namibia’s Green Hydrogen Dream	12357
 Illegal Possession Of Narcotic Drugs	16935
 Implement National Draft	1777
@@ -2170,6 +2210,7 @@ La DRH	15569
 La DRPSIAP	18077
 La DRPSIAP de Douentza	18077
 La DRPSIAP de Gao	18077
+La DRS	19226
 La FirstBank DRC SA	3849
 Laboratoires DRG Diagnosis Related Groups DSNIS	13306
 Lamin Drammeh	4143,6575
@@ -2193,7 +2234,8 @@ Legal and Regulatory Framework The DRC	11868
 Legislative Drafting	14761
 Legislative Drafting Develop	17011
 Les DREPS	15639
-Les DRS	17852
+Les DRH	19362
+Les DRS	17852,1374
 Les Droits	17872
 Les Dépêches de Brazzaville. Droits	12024,3
 Lesotho's Draft National Artificial Intelligence Policy	14470
@@ -2226,7 +2268,7 @@ M SOCIETE DRA GUINEA SARLUNIPERS DRA	16623
 M. Ali Drissa Badiel	13482
 M. DRC	253
 M. Dramane SAMAKE ACM AA DIARRA	17841
-M. Dri	3604,2935
+M. Dri	3604,2935,12706
 M. Drissa KONE LCL AA NIOUMANTA	17841
 M. Mohamed Elamine Dridi	15602
 MAJOR RISKS TO the DRMS IMPLEMENTATION	17011
@@ -2317,6 +2359,7 @@ Mozambique Presents Draft National AI Strategy	6331
 Mr. Mohammed Drissi Melyani	2577
 Multi-Sectoral Drug	13474
 MultiPay DRC	4286
+My Driss Zine Eddine El Idrissi	19284
 N SAFE DRIVER RULES	1988
 NA Dropped	16032
 NA NA NA New PI Draft	11986
@@ -2419,6 +2462,7 @@ Observatoire Congolais des Droits	15848
 Observatoire des Droits	10365
 Off Ogunlana Drive	10731
 Office Burundais des Droits	13442
+Office Central de Répression du Traffic Illicite des Drogues	19227
 Ogunlana Drive	5054,2052,177
 Ojo Connects Drivers	7324
 Ola Drivers	8436
@@ -2488,13 +2532,16 @@ Persistent Structural Driver	15244
 Person Collecting Drinking Water	15247
 Personne Morale de Droit Privé. Article	15418
 Peter Drucker	10944
+Philosophie du Droit	19366
 Pilier III DRE	18967
 Plan for DRMS	17011
 Planning and Economic Development Dr.Acen	4217
 Planning and Housing DRM Focal Points Ministry	18198
+Policy Operation DRP Commercial Direction	19239
 Policy Pathways and Priority Initiatives Drawing	4848
 Posts Draft Budget and Related Policies	11251
 Potential Regulatory Drift Between the U.S. and Europe	13532
+Pour Driss Zinédine	19331
 Pourcentage de DRPFEF	17845
 Power DRC's National Digital Identity System	2698
 Prepare Draft of Bylaws Amendment	5853
@@ -2642,6 +2689,7 @@ SIAF DRH-SSDS PTF Activité	17845
 SITE WEB DO OBSERVATÓRIO DE DROGA	11531
 SMART Zambia Drives Police Digitalisation	12462
 SMEs Draw	10841
+SNIS des DRS	19226
 SPEI Global Drought Monitor	17157
 SPI Value Drought Class	17157
 SPI Value Drought Class Impacts	17157

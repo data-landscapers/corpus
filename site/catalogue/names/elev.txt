@@ -68,7 +68,7 @@ Elevada Quadro Legal	18801
 Elevado	11557,4127
 Elevado Desempenho	11387
 Elevados	1701,9868,324
-Elevage	737,1887,1,5644,1284,115,1207,2466,34,15,223,230,705,71,3,40,714,124,499,617,4,21,4,939,228,5,10,1,13,3,32,10,59,38,20,29,62,21,36,5,13,58,11,27,21,5,13,118,531,35
+Elevage	737,1887,1,5644,1284,115,1207,2466,34,15,223,230,705,71,3,40,714,124,499,617,4,21,4,939,228,5,10,1,13,3,32,10,59,38,20,29,62,21,36,5,13,58,11,27,21,5,13,118,531,35,233
 Elevage Actes Réglementaires Décret	17886
 Elevage Crédit	13390
 Elevage DITP	18291
@@ -101,6 +101,7 @@ Elevating Competitiveness	12210
 Elevation	736,14923,115,778,454,151
 Elevation Angle Please	736
 Elevation Elevation and Derived Products	18904
+Elevation USGS	19237
 Elevation and Depth	18904
 Elevação	15694
 Eleveco-Congo S.A.S	15558
@@ -144,7 +145,7 @@ Elevé Elevé Moyen Elevé N	15583
 Elevé Elevé Moyen Moyen Elevé Moyen	15583
 Elevé Elevé N	15583
 Elevé Elevé Santé	15583
-Elevé Faible	15583
+Elevé Faible	15583,3638
 Elevé Faible Elevé	15583
 Elevé Faible Tri	15583
 Elevé Lutte	15583
@@ -170,7 +171,7 @@ Faible Elevé Faible	15583
 Faible Elevé Faible Faible Elevé Faible	15583
 Faible Faible Elevé	15583
 Faible Faible Elevé Lecture	15583
-Faible Moyen Elevé	15583
+Faible Moyen Elevé	15583,3638
 Faible Moyen Elevé Publique	15583
 Fill Elevated Service Reservoir	18543
 Five Million Nine Hundred and Eleven Thousand	12977

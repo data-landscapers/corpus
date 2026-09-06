@@ -58,7 +58,7 @@ Census Development Tool and National Bureau of Statistics	18637
 Center for International Development. PDIA Toolkit	11007
 Chairman Saïd Toorbuth Member Ishwar Anoopum	14744
 Classroom Observation Tool	16852,1712
-Climate and Disaster Risk Screening Tool	3604
+Climate and Disaster Risk Screening Tool	3604,15641
 Cloud Collaboration Tools	13502
 Commissioners Toomey and Kamara	16978
 Communication Channels and Tools The Ministry	15845
@@ -74,7 +74,7 @@ Continuous Improvement Toolkit. User Guide. Chapel	12255
 County Capacity Assessment Tool	16970
 DATA SUBMISSION TOOL	9485
 DEATH CERTIFICATE QUALITY ASSESSMENT TOOL	12413
-DHIS2 Climate Tools	18722
+DHIS2 Climate Tools	18722,633
 DIGNAD Toolkit	1828
 DLRs. Risks Systematic Operations Risk-rating Tool	16638
 DPG Applicant Toolkit	7921
@@ -169,6 +169,7 @@ Government Implementation Toolkit	16885
 Government Migration Tools GCSPs	6432
 Grievance Mechanism Toolkit	11007
 Guidance Note and Assessment Tool	11133
+Guidance Note and Assessment Tool. Social	19237
 Hands-on Tools	12675
 Handset Subsidy Toolkit	11004,960
 Handset Subsidy Toolkit E.g. Promote	11964
@@ -333,11 +334,11 @@ SMT Electronic Stock Management Tool EDIT	18478
 SPL Systematic Operations Risk-Rating Tool SSNP	10964
 SQAO AI Support Tool	18557
 SYSTEM INSPECTION AND TESTING TOOL Name	16963
-SYSTEMATIC OPERATIONS RISK- RATING TOOL	1264,603,1737,2935,4229,649,143,4098,3,82,2455,611
+SYSTEMATIC OPERATIONS RISK- RATING TOOL	1264,603,1737,2935,4229,649,143,4098,3,82,2455,611,436,39
 SYSTEMATIC OPERATIONS RISK-RATING TOOL	969,315,9545,135,416,145,330,110,1366,1,1858,301,62,68,777,498,26,1371,8,782
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Last Approved	16705
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Rating	2712,1976,6707,6509,630,258
-SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173,587,31,862,1060,51,128,576,2,276,66,915,6,79,17,374,35,453,48,127,217,4,1,462,165
+SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173,587,31,862,1060,51,128,576,2,276,66,915,6,79,17,374,35,453,48,127,217,4,1,462,165,260,7
 Saïd Toorbuth Director	14744
 Saúde STAR Strategic Toolkit for Assessing Risks	15966
 Scam Alert Tool	10580
@@ -426,6 +427,7 @@ Tools PAYE Calculator Legacy TOT Calculator	12454
 Tools Standards	9124
 Tools Throughout	17011
 Tools Y5	9203
+Tools and Capacity Building for Emerging Economies	19245
 Tools and Experiences. Springer International Publishing	2096
 Tools and Guidelines Series	17157
 Tools and Techniques	18531

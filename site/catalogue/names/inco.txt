@@ -182,6 +182,7 @@ G INCONNUE	13300
 GNI Gross National Income GoC Government	18931
 GNI Gross National Income GoEG Government	16942
 GNI Gross National Income GoK Government	2775
+GNI Gross National Income GoT Government	19245
 GRID Gross National Income GRM Government	3604
 GROSS NATIONAL INCOME	11211
 Gender Income Age Labor Force Participation	1828
@@ -189,7 +190,7 @@ Grit Real Estate Income Group	14507
 Gross Domestic Product and Gross National Income	2775
 Gross Income	11976,2741
 Gross National Disposable Income	2775
-Gross National Income	322,942,1511,3804,4683,952,181,544,172,201,2,165,169,1249,223,501,523,739,113,1202,339,373,21,2
+Gross National Income	322,942,1511,3804,4683,952,181,544,172,201,2,165,169,1249,223,501,523,739,113,1202,339,373,21,2,312
 Gross National Income GRM Government of Burundi	13331
 Gross National Income GSMA	18485
 Gross National Income GoKE Government	6539
@@ -410,7 +411,8 @@ Incompatibilidades	15391
 Incompatibilidades Não	18800
 Incompatibilities	14862,1,239
 Incompatibility Membership	11517
-Incompatibilités	14412,450,1,239,1513,1204,39,261
+Incompatibilité	19218
+Incompatibilités	14412,450,1,239,1513,1204,39,261,1099
 Incompatibilités Article	17
 Incompatible	15129,35
 Incompatibles	15703
@@ -426,7 +428,7 @@ Incompétence	10821
 Incompétence Licenciement	10876
 Incomáti River	10219
 Inconformados	10114
-Inconnu	13300
+Inconnu	13300,5926
 Inconnue Autre	13300
 Inconsistencies	961,12388,1197,3772
 Inconsistency	16219
@@ -442,7 +444,7 @@ Inconveniences	17157
 Inconvénients	17823
 Incorpora	18783
 Incorporar	1701,2445,7368
-Incorporate	170,788,856,174,2138,722,817,5600,589,360,185,638,1529,108,77,67,129,50,133,531,299,888,99,167,43,1338
+Incorporate	170,788,856,174,2138,722,817,5600,589,360,185,638,1529,108,77,67,129,50,133,531,299,888,99,167,43,1338,739,11
 Incorporate AI	14812
 Incorporate AI Across Disciplines	12675
 Incorporate Compliant	16848

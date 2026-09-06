@@ -109,17 +109,19 @@ Cartable Numérique	15553
 Cartas	8930
 Cartas Universal	1701
 Cartas da Nigéria	2401
-Carte	643,2809,397,76,199,10,87,1519,219,135,381,3,142,713,385,1019,317,426,264,803,164,3,112,21,28,975,193,1298,34,15,110,68,281,355,238,2,46,59,803,46,109,73,90,3,12,30,202,19,327,18,78,262,20,81,763,330,9,9,3,7,13,7,4,3,3,13,10,209,184,1,7,7,6,606,72,2,211
+Carte	643,2809,397,76,199,10,87,1519,219,135,381,3,142,713,385,1019,317,426,264,803,164,3,112,21,28,975,193,1298,34,15,110,68,281,355,238,2,46,59,803,46,109,73,90,3,12,30,202,19,327,18,78,262,20,81,763,330,9,9,3,7,13,7,4,3,3,13,10,209,184,1,7,7,6,606,72,2,211,25,6,118
 Carte Administrateur	17827
 Carte Article	18032
 Carte Business GUCE	5593
 Carte CEDEAO	18287
 Carte CPS Etat	17845
 Carte Mastercard	17833
+Carte N	19226
 Carte Nationale	547,1420,1614,181,2197,2034,1675,307,739,98,2480,207,743,1,237,956,119,829,1101,711,87
 Carte Nationale Biométrique	18201
 Carte Rose	11934
-Carte SIM	15710
+Carte SIM	15710,3541
+Carte SIM Routeur	19232
 Carte Salaire	14338
 Carte Sanitaire	17845
 Carte Scolaire	15673
@@ -189,7 +191,7 @@ Cartographic Methodology	18464
 Cartographic Methodology ENUMERATION AREA	18464
 Cartographic Output	18464
 Cartographic Output METHODOLOGY	18464
-Cartographie	235,952,3138,1523,591,2452,1200,785,26,1141,1439,220,203,520,1133,37,78,39,8,216,101,26,89,43,164,262,5,88,8,724,2,35,11,336,37,5,13,88,10,154,32,122,6,25,604,62
+Cartographie	235,952,3138,1523,591,2452,1200,785,26,1141,1439,220,203,520,1133,37,78,39,8,216,101,26,89,43,164,262,5,88,8,724,2,35,11,336,37,5,13,88,10,154,32,122,6,25,604,62,233,83
 Cartographie CNLS	15423
 Cartographie Censitaire	13518
 Cartographie HACHETTE Tourisme PLAN STRATEGIQUE	15722
@@ -201,7 +203,7 @@ Cartographie du Recensement Général de DSDS	18291
 Cartographie du Système	14438
 Cartographie. L'Agence	15375
 Cartographiedesdonnées	18297
-Cartographier	1187,7338,2351,89,69,1009,3540,325,733,807,858,682
+Cartographier	1187,7338,2351,89,69,1009,3540,325,733,807,858,682,233
 Cartographies	15720
 Cartographiques	3396,14587
 Cartographiques Nombre	3396
@@ -276,6 +278,7 @@ Conteúdo da Cartografia Cadastral	11384
 Cross-Border Cartel	14434
 Cultural Cartography By Atwemereireho Alex	8352
 D.G. DE CATASTRO Y CARTOGR	4209
+DE DESENREGISTREMENT DE LA CARTE SIM	19251
 DE LA CARTE D'ASSURE ET	15361
 DE LA CARTE DE RESIDENT	2465
 DE LA CARTE DE RESIDENT ARTICLE	2465
@@ -317,8 +320,10 @@ Emissão de Cartão Nacional de Identificação	15476
 Emma Carter	15342
 Equipa de Cartografia	18775
 Eritrea's Cartographic Center	14089
+Etat Cartographie	19221
 Etat Civil CNI Carte Nationale	18290
 FRAUDE AUX CARTES BANCAIRES Arllcle	15429
+Faisabilité Cartographie	19221
 Falsificação de Cartão de Eleitor	11425
 Festival de Carthage	8954
 Fig. VI.10 Carte	13341
@@ -341,8 +346,10 @@ Instruction. Carte	17485
 Internet Banking Carte	17833
 Investigação A Carta Sanitária	16019
 J. Burgess Carter Montserrado County Senator	17376
+KuWFi Routeur de Carte SIM	19232
 LA CARTE	13300
 LAVAUD ERWANN FILLOL CARTE	16026
+LIGNE ET CARTE	19318
 LISTA DE CARTOGRAMAS Cartograma	4044
 LISTE DES CARTES	10875
 LISTE DES CARTES Carte	10875
@@ -353,6 +360,7 @@ Le Service de Cartographie	13702
 Lei de Base Postal Carta	18778
 Les Cartes	15474
 MENTIONNÉ. CARTE D'ASSURANCE MALADIE	13300
+MISSION DE DÉLIVRANCE DES CARTES D’IDENTITÉ	19252,21
 MONTREZ LA CARTE	13300
 Maeve de France and Martin Noblecourt of CartONG	2678
 Mastercard Cartes	13390

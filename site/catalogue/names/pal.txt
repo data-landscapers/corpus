@@ -2,10 +2,12 @@ A. Paletti	5349,351
 ADMON. PALACIOS Y RESID. MALABO	4209
 ADMON. PALACIOS Y RESID. REG. CONT	4209
 AGENCE DE GESTION DES PALAIS	17972
+AKPA Palakibawi SCH	19251
 ALEXANDRIA CANCER CENTRE AND PALLIATIVE CARE	7167
 AMBENDZA NDIN- Atlantic Palace	15901
 ANPFI Philippe Palenfo	8061
 AUCTION PALACE INVESTMENTS LIMITED Data Controller	7167
+AWESSO Horéliwa K. Palakiyem ADJ	19251
 Accouchement Accouchement Paludisme Paludisme	15599
 Administrador Palacio de Congreso Administrador Palacios	4209
 Administrador Palacio de Congresos Servicio	4209
@@ -19,6 +21,7 @@ Asmara Palace	14125
 Autorite Nationale de Certification Electronique. Palais	15584
 Avec Impact Palmarès	3658,2617,145
 Avec Palé AI	9961,645
+BATCHATI Palaba Alaka ADJ	19251
 BLUE PALM HOTEL	7167
 Bhavya Paliwal	10985
 Birao CH A D Pala	18887
@@ -51,6 +54,7 @@ Crystal Palace Bowl	9876
 D SOCIETE PALMA GUINEE SA PALMA	16623
 D. G. PALACIOS Y RESID. MALABO	4209
 DIRECTIONS GENERALES Lieutenant-colonel PALEVOUSSA	15744
+DOGO Hodo-Abalo Palakiyem CCH	19251
 DONT LE TEST DU PALUDISME EST	13300
 DU PALAIS DU PEUPLE	15488
 DU PALUDISME ET DU VIH	13300
@@ -108,7 +112,7 @@ Initiative Présidentielle de Lutte Contre le Paludisme PMT	15475
 Integrated Oil Palm Development	7695
 Integrated Oil Palm Development Policy	7695
 Iron Gold Rubber Palm Crude Rice	17235
-Islands Norway Oman Pakistan Palau Palestine	11470
+Islands Norway Oman Pakistan Palau Palestine	11470,7872
 Israel and Palestine	11185
 JA Palyvos	15659
 Je Paljuejd	16857
@@ -119,6 +123,8 @@ Jordi Palet Martinez	12058,2613
 Juan Carlos Paliza	12948
 Julien Paluku	4092
 Julien Paluku Kahongya	16018
+KADISSOLI Pali ADJ	19251
+KOLANI Palouman SGT	19251
 Kempinski Palace Hôtel	1287
 Kenya. Palladium	10641
 Kibo Palace	1859
@@ -134,6 +140,11 @@ Las Palmas	17835
 Le Palais	18088
 Le Palais Léon Mba	16382
 Le Palais des Congrès de Cotonou	2855
+Lieutenant-colonel ANDJE Palakiyem Aklesso	19251
+Lieutenant-colonel ATEKPE Atana Palakyem	19251
+Lieutenant-colonel KAMBRE Palababade	19251
+Lieutenant-colonel PALABI Palakiyeme	19251
+Lieutenant-colonel PALI Yao	19251
 Limiar Epidemiológico Semanal de Paludismo	18768
 Livre. Palais	15584
 L’ambassade de Palestine	10172
@@ -166,6 +177,7 @@ Norway Oman Pakistan Palau Panama Papua	11765
 Nouveau Palais de Justice de N'Djamena	18988
 Nova Central Elétrica Palmeira	15892
 Nova Central Elétrica da Palmeira	16132
+N’GNAMA Palandina ADC	19251
 O MBWIZY Directeur de Cabinet Palais	15584
 OMESSE PALESSONGA	16100
 OPay and PalmPay	11121,3586
@@ -180,18 +192,26 @@ Orchestration of Palestinian Life and Death	7147
 Outlier Palau	17257
 PAA Plano Anual de Atividades PALOP Países	15535
 PAL Pensions	7496
+PAL Port	19216,4,130
 PAL SA R Asset	12006
 PAL-M	34
 PAL-N	34
 PALABRAS DE AGRADECIMIENTO Estimados	16898
 PALACE	7346
 PALACIOS TORRES	6613
+PALAKI Badibalaki SCH	19251
 PALAM	18286
+PALANGA Edjamfeitom ADC	19251
+PALANGA Tchedie Mazim ADJ	19251
 PALEA BATA	4209
 PALEA N	4209
 PALEA-Co1n2cepto	4209
 PALEKA	12557
 PALEXPO INTERNATIONAL EXHIBITION AND CONVENTION	12760
+PALI Abalo Madidoma SCH	19251
+PALI Balakimbiyou	19251
+PALI Kpatcha SCH	19251
+PALI Tanguèwèki ADJ	19251
 PALIER D'INTEGRATION CATEGORIE	18003
 PALMAFRIQUE	2342
 PALME	13300
@@ -205,6 +225,7 @@ PALOP-TL Programme	11536
 PALOP-regional	5615
 PALOP. Embora	2816
 PALOPs	11533
+PALOU MENSA Essoperam CCH	19251
 PALU and DRAA	9145
 PALUDISME	13300,5012
 PALUDISME GRAVE	13300
@@ -213,6 +234,7 @@ PALUDISME PENDANT LA GROSSESSE Traitement Préventif	13300
 PALUDISME. POSITIF FALCIPARUM POSITIF FALCIPARUM POSITIF	13300
 PASP PALO P-TL	18767
 PASP PALOP TL	18772
+POUTOUKOULI Palakibawi SCH	19251
 PRENSA ASISTENCIA PALACIOS Y PALACIOS	4209
 PRISE EN CHARGE DU PALUDISME CHEZ	13300
 PRÉVALENCE DU PALUDISME CHEZ LES ENFANTS	13300
@@ -357,6 +379,7 @@ Palmer Drought	17157
 Palmer Drought Severity Index	12611,4546
 Palmeral	16875
 Palmerales	16875
+Palmes	19350
 Palmex	10841
 Palmier	13390,2546
 Palmiers	15439
@@ -365,17 +388,20 @@ Palo Alto	8502,4960
 Palo Alto Networks	4434,1968,6101
 Paloma Candia and Ahmed Dhman	11071
 Palos-Sánchez	2093
+Palouki MASSINA	19218
 Paltel	15471
 Palteli	11135
 Paltieli	11135
 Paltu	4432
 Paltu and Brouwers	4432
 Palu Enabel	18137
-Paludisme	737,10137,725,1701,74,139,47,1062,853,108,16,86,27,773,237,1121,39,63,148,12,46,606,171
+Paludisme	737,10137,725,1701,74,139,47,1062,853,108,16,86,27,773,237,1121,39,63,148,12,46,606,171,298
 Paludisme Affections	15599
 Paludisme Au Burundi	13300
 Paludisme CONNAISSANCE	13300
 Paludisme Complication	15599
+Paludisme Ensemble	19226
+Paludisme Il	19226
 Paludisme Infections	15599
 Paludisme Otalgie	15599
 Paludisme PNLS	15475,210
@@ -439,6 +465,7 @@ Spain Sri Lanka State of Palestine Sudan	11765
 State of Palestine	2958,7806,421,2721,3714,729
 State of Palestine Global Cybersecurity Index	10764
 Sultan Qaboos University Palestine Eng. Nour	2958
+TAGBA Palakimwe SCH	19251
 TDR DU PALUDISME. TESTÉ	13300
 TRAITEMENT DU PALUDISME ET	13300
 Trust Capital and Chengyu Capital. PalmPay	605

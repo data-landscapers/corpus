@@ -40,6 +40,7 @@ Coût Moyen Unitaire Pondéré	10975
 Croissance Annuel Moyen TE	18322
 Cycle Moyen	18099
 Cérémonie de Lancement des Nouveaux Moyens de Paiement	6045
+DCCFE LIBELLES DÉLAI RÈGLEMENTAIRE DÉLAI MOYEN	19291
 DE CYBERCRIMINALITE ET MOYENS DE PREUVES	16617
 DE LA PROCEDURE ET DES MOYENS	15643
 DES INFRACTIONS COMMISES PAR TOUT MOYEN	15643
@@ -94,10 +95,11 @@ Enseignement Moyen Article	18884
 Enseignement Moyen Chapitre	18884
 Ensemble Moyenne Total Dépenses	18014
 Etat Moyen Terme Elaborer	15512
+FCFA. Moyen	19233
 FINANCEMENT DES PETITES ET MOYENNES ENTREPRISES	15999
 Faible Faible Moyen	15583
 Faible Faible Moyen Détection	15583
-Faible Moyen Elevé	15583
+Faible Moyen Elevé	15583,3638
 Faible Moyen Elevé Publique	15583
 Faible Moyen Faible	15583
 Falaba Koinadugu Karene Bonthe Moyamba Kambia	18464
@@ -137,6 +139,7 @@ Jimmy Moyaha	8130
 KR and Moynihan	2096
 Kanem CAU de Sarh Moyen-Chari	19201
 Km Moy	10975
+Kpékplémé Moyen-Mono Agou1	19350
 LA MOYENNE	13300
 LECTRONIQUES CERTIFIEÉES AU MOYEN DES SYSTEMES	14469
 LES MOYENS D'INFORMATION ET DE COMMUNICATION	15397
@@ -172,6 +175,7 @@ MOYEN ANNUEL Mercado de Câmbio Aministrativo	18757
 MOYEN BANI La Cour Suprême	17828
 MOYEN DE TRANSPORT CITÉ	13300
 MOYEN TERME	15583
+MOYEN-MONO	19350
 MOYENNE	1679,13833
 MOYENNE DU DOMAINE D’INTÉRÊT	17830
 MOYENNE. Planification	1679
@@ -229,7 +233,7 @@ Moyana and Chuma	8022
 Moyane	8022
 Moyane SP	10780
 Moye Says Cybersecurity Bill Awaits Boakai	6968
-Moyen	3994,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3364,27,238,3221,99,592,1733,90,329,1651,59,59,5,5,9,5,56,15,1,122,442,1,1299,385,266,187,26,106,498
+Moyen	3994,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3364,27,238,3221,99,592,1733,90,329,1651,59,59,5,5,9,5,56,15,1,122,442,1,1299,385,266,187,26,106,498,297,20
 Moyen Bani	17828
 Moyen Chari	18911,31
 Moyen Contrat	10876
@@ -294,7 +298,7 @@ Moyen-Orient. Services	11733
 Moyen-Secondaire	18432
 Moyen-Terme	17945
 Moyennant	17898
-Moyenne	235,502,10138,90,2335,24,66,196,902,1,1,1003,19,71,87,329,715,1113,37,199,223,18,12,6,435,231
+Moyenne	235,502,10138,90,2335,24,66,196,902,1,1,1003,19,71,87,329,715,1113,37,199,223,18,12,6,435,231,238
 Moyenne ASS	15474
 Moyenne ASS Indicateur RCA Adultes	15474
 Moyenne ASS Score de Facilité	15474
@@ -315,7 +319,7 @@ Moyenne Pluviométrie	17001
 Moyenne Somme	13390
 Moyenne Somme BUHUMUZA	13390
 Moyenne Somme Effectifs	13390
-Moyenne Tension	1993,8982
+Moyenne Tension	1993,8982,8245,1,74,1
 Moyenne Tension NIGELEC	18118
 Moyenne Tensions	18967
 Moyenne Toutes	13300
@@ -323,7 +327,7 @@ Moyenne Volume	15673
 Moyennement	15936
 Moyennes	747,10217,5285,1568
 Moyennes Entreprise	16249
-Moyennes Entreprises	2312,421,1687,178,2508,549,3310,979,1446,382,711,66,867,58,26,33,9,11,27,8,124,135,107,45,13,93,39,105,236,156,943,233,24,57,15,3,66,50,15,180
+Moyennes Entreprises	2312,421,1687,178,2508,549,3310,979,1446,382,711,66,867,58,26,33,9,11,27,8,124,135,107,45,13,93,39,105,236,156,943,233,24,57,15,3,66,50,15,180,993
 Moyennes Entreprises AEMO	18291
 Moyennes Entreprises ANA Agence Nationale de Promotion	18286
 Moyennes Entreprises ART Agence	15501
@@ -341,7 +345,7 @@ Moyennes Entreprises. Chef	18032
 Moyennes Entreprlses	18296
 Moyennes Navigation Aérienne	17817
 Moyennes Vu la Constitution	17817
-Moyens	13300,25,102,233,1828,92,63,58,73,74,37,49,165,76,206,171,63,132,259,447,380,48,199,39,172,21
+Moyens	13300,25,102,233,1828,92,63,58,73,74,37,49,165,76,206,171,63,132,259,447,380,48,199,39,172,21,901,137
 Moyens Désignation Nombre Véhicules Motocycles Autres	15885
 Moyens Généraux	2342
 Moyens Terme	18286
@@ -372,6 +376,7 @@ NOTATION MOYENNE DE LA NORME Norme	17830
 NUdAVJ MOY UO YQ4 Pue YY	16857
 Nko Moyos Eseng	4209
 Norman Moyo	1196
+Nyamassila Est-Mono Moyen-Mono1	19350
 OBJECTIFS ET MOYENS Article	15410
 OU MOYENS DE PAIEMENT	17485
 Office du Moyen ACTES DE LA REPUBLIQUE	17828
@@ -441,6 +446,7 @@ Temps Moyen de Coupure	2342
 Temps Moyen de Réparation ODD	16195
 Thato Moyaba	7514
 Thembani Moyo	10418
+Tohoun Moyen-Mono2	19350
 Tous Moyenne Elevée Rassembler	15474
 Tranche de Revenu Mensuel Moyen Aucun	13390
 UTILISATION DES MOYENS ELECTRONIQUES	16747

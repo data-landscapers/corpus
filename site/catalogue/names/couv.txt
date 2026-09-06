@@ -24,7 +24,8 @@ Couverture DPM Locale DPM Nationale Maintenance	17882
 Couverture D’autre	16195
 Couverture Maintenance Hébergement	17882
 Couverture Maladie	17845
-Couverture Maladie Universelle	3045,559,4201,53,5857,1781,215,1,45,179,96,2254,4,11
+Couverture Maladie Universelle	3045,559,4201,53,5857,1781,215,1,45,179,96,2254,4,11,920
+Couverture Maladie Universelle Investissement	19221
 Couverture Maladie Universelle L’Etat du Sénégal	18290
 Couverture Maladie Universelle. L’objectif	17845
 Couverture National	15936
@@ -33,20 +34,27 @@ Couverture ONG MUSO	17882
 Couverture Penta	16722
 Couverture Population	419
 Couverture Réseau Projet	18079
-Couverture Sanitaire	18077
-Couverture Sanitaire Universelle	7641,217,6764,801,262,1037,788,335,37,383
+Couverture Sanitaire	18077,1190,17
+Couverture Sanitaire Universelle	7641,217,6764,801,262,1037,788,335,37,383,999,3,17
 Couverture Sanitaire Universelle. Pour	15711
 Couverture Santé	16195
-Couverture Santé Universelle	9273,6922,137,106,3,1441,1106
+Couverture Santé Universelle	9273,6922,137,106,3,1441,1106,233
+Couverture Santé Universelle Ambition	19221
+Couverture Santé Universelle Digitalisation	19221
 Couverture Santé Universelle Indicateurs	18988
+Couverture Santé Universelle P1 Attribution	19221
+Couverture Santé Universelle P9 Augmentation	19221
 Couverture Universelle	17845
 Couverture Vaccinale FAC	15685
 Couverture de Vaccination ENSAE ENSEA	17842
 CouvertureMobile	14509
+Couvertures	19250
 Couvrant	3106,13104,411,1804
 Couvre	1187
 Couvrir	18426
+DE COUVERTURE DGE	19250
 Déployer la Couverture Santé Universelle	18988
+EXTENSION DE LA COUVERTURE RÉSEAU INTERNET	19221
 Enq. Couverture	17844
 Extension Couverture	3537
 II. Couverture	15943

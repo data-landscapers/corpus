@@ -34,6 +34,7 @@ COMPRIMÉA ROUGES	13300
 CONSTRUCTION DES INFRASTRUCTURES ROUTIERES REHABILITATION ET	15999
 CV-IXP Route Servers	11878
 Capacity SPUR ROUTE Station	736
+Carte SIM Routeur	19232
 Carton Rouge	5082
 Casablanca Investors Roundtable	5268
 Category for Major Routes	2830
@@ -66,6 +67,8 @@ DE DONNEES EN ROUTINE DU SNIS	15595
 DE L'INTERMODALITE ET LA SECURITE ROUTIERE	15999
 DE ROUTE PAR ANNEE	13500
 DE ROUTINE OU DE RAPPORTAGE PERIODIQUE	15595
+DECISIONS Primature Ministère des Transports Routiers	19251
+DES TRANSPORTS ROUTIERS	19260
 DEVELOPPEMENT DU TRANSPORT ROUTIER	15999
 DHIS2. Routine	13805
 DIRECTIVE ON THE ROUTING OF GOVERNMENT	17030
@@ -74,6 +77,7 @@ DU FONDS D’ENTRETIEN ROUTIER DU MALI	17899
 DU MINISTERE DEVELOPPEMENT DU TRANSPORT ROUTIER	15999
 Data Routers	6946
 Deep Mediatization. Routledge	11028
+Descriptions Prix Routeur Extérieur	19232
 Digital Content Server and Wireless Routers	899
 Digital Economy Round Table	13607
 Digital Policy Engagement Roundtable	7101
@@ -104,9 +108,10 @@ Express Route	7036
 FATF Mutual Evaluation Round Five	8354
 FEUILLE DE ROUTE	13482,4533
 FEUILLE DE ROUTE E-FINANCES PUBLIQUES	15738
+FEUILLE DE ROUTE GOUVERNEMENTALE	19220
 FSCA Regulatory Actions Report Media Roundtable	12867
 Fatma Zohra Rouat	15410
-Feuille de Route	643,14780,1068,150,1219
+Feuille de Route	643,14780,1068,150,1219,1381
 Feuille de Route Cloud	3857
 Feuille de Route Nationale	16491
 Feuille de Route Numérique	14689
@@ -132,6 +137,7 @@ Heads of Regulators Roundtable	8117,124,1426
 Health Service Data Routine	15556
 High-Level Roundtable	15120
 Hôtel Wassoulou Route	17845
+III.2 FEUILLE DE ROUTE	19216
 IPv4 Route Server	14827
 IPv6 Route Server	14827
 Inaugural Western Cape Infrastructure Ministerial Roundtable	8564
@@ -156,6 +162,7 @@ Key Infrastructure NPRC Number Portability Routing	6946
 Khidmaty du Système Numérique du Trafic Routier	17905
 Kimmo Rousku	8276
 Knockout Rounds	18576
+KuWFi Routeur de Carte SIM	19232
 LA ROUTE	15999
 LA SECURITE ROUTIERE	15999
 LTE Routers	11980
@@ -181,6 +188,7 @@ Map of Nigeria Fibre Network Routes Q4	11857
 Mer Rouge	2342,12474
 Messaging and Routing Transactions	12359
 Methodology Roundtable	1200
+Methodology for Data Routine	19284
 Metrics Network PRISM Performance of Routine Information	766
 Michcom-IX Route Servers	18579
 Microwave Route Cost	18887
@@ -190,7 +198,7 @@ Million Equity Round	1429
 Mina Rouchati	8891
 Mina Rouchati Fouad Ben Seddik Lalla	8891
 Ministerial Roundtable	3845,33,4686,6210,19
-Ministère des Transports Routiers	10711
+Ministère des Transports Routiers	10711,8510
 Mme Mina Rouchati	8891
 Mme. Céréna MA ROUNDOU KOMBILA DIMEIMA	16381
 Mohamed Abdessadek Essaidi Mina Rouchati Mohamed	8891
@@ -221,6 +229,7 @@ Philippe Roudier	16135
 Plan Directeur Routier	15542
 Please Provide Route Plan	736
 Point Link Details MAIN ROUTE Station	736
+Port RJ45 Cudy Routeur	19232
 Pour la Roumanie	3630
 Pre-Series A Extension Round	1151
 Proche Infra Rouge	18304
@@ -258,6 +267,7 @@ Reference Roundw	17140
 Refrigerant Flow VRF Virtual Routing and Forwarding	13185
 Regional Roundtable	10390
 Renforcer le Matériel Roulant	15738
+Responsibility for Data Routine	19284
 Rouani Benamar	16171
 Roubo	10747,674,25,131
 Rouen and Paris	7722
@@ -273,7 +283,7 @@ Rouge. Telecom Egypt	17694
 Rouge. Une	17694
 Rougeaux	18301
 Rougeoleux Vaccin Anti-Tétanique VHB	15475
-Roughly	1026,1465,1419,200,1753,1084,2646,374,242,242,54,168,41,1614,11,1122,1595,2093,1169
+Roughly	1026,1465,1419,200,1753,1084,2646,374,242,242,54,168,41,1614,11,1122,1595,2093,1169,919
 Rouia	8891
 Rouiba	15608
 Rouko	10875
@@ -304,7 +314,7 @@ Roupie NGN	14683
 Rousalova	771
 Rousalova&author	771
 Routage BGP	17823
-Route	233,776,527,994,94,53,22,209,3545,528,734,36,1372,110,4186,1334,6,163,477,143,10,53,338,331,88,94,1046,449,31,381
+Route	233,776,527,994,94,53,22,209,3545,528,734,36,1372,110,4186,1334,6,163,477,143,10,53,338,331,88,94,1046,449,31,381,863
 Route B	14922
 Route Dragage	18796
 Route Filingué	18191
@@ -316,7 +326,7 @@ Route Orientation	17860
 Route Ouled Fayet	15943
 Route Overberg Overberg City of Cape Town	8999
 Route Q2	11857
-Route Server	13380,1430,17,1724
+Route Server	13380,1430,17,1724,2791
 Route Server Inbound	718
 Route Server Route Server	14827
 Route Server Service	13704
@@ -329,7 +339,7 @@ Route du Méridien Président	11563,6180
 Route du Méridien Président Immeuble Rokhaya	10764,80,7279
 Route-Based Approach	18125
 Route3 Energy	5247
-Routed	8,11,11,3829,4383,2033,49,27,167,1217,3,1634,168,1326
+Routed	8,11,11,3829,4383,2033,49,27,167,1217,3,1634,168,1326,4445
 Routelink	9578
 Routelink Group	9578
 Routelink Microfinance Bank	9578

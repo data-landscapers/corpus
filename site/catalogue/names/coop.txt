@@ -54,6 +54,7 @@ Agence Suédoise de Coopération Internationale	17827
 Agencia Alemana de Cooperación Internacional. También	15478
 Agencia Española de Cooperación Internacional	17094
 Agencia de Cooperación	1701
+Agency for International Cooperation	19245
 Agency for International Cooperation GNI Gross National	17870
 Agreement for Economic Cooperation	18857
 Agricultural Marketing Cooperative Societies	6816,1649,1125
@@ -418,11 +419,11 @@ Cooperação. Em	11423
 Coopiration	17441
 Coopé	16381
 Coopé-	13405
-Coopération	998,440,241,1016,44,124,237,281,15,15,115,841,53,475,328,37,1000,295,404,324,50,435,37,32,100,41,94,124,41,32,315,59,248,396,55,138,332,181,21,258,55,266,22,18,75,4,146,16,101,49,920,28,1328,1,2,31,7,36,13,15,37,3,115,8,129,542,28,270,894,43,14,5,7,1,41,26,12,2,23,19,15,14,8,17,7,24,139,40,13,98,32,16,52,6,13,26,31,20,132,7,39,8,192,10,38,20,41,46,1,15,3,352,15,334,78,58,235,3,5,1,1,12,3,15,22,6,8,51,18,14,4,1,13,7,12,48,14,10,3,29,3,47,114,3,26,4,44,10,11,19,2,1,9,92,422,46,16,31,49,6,10,21,21,39
+Coopération	998,440,241,1016,44,124,237,281,15,15,115,841,53,475,328,37,1000,295,404,324,50,435,37,32,100,41,94,124,41,32,315,59,248,396,55,138,332,181,21,258,55,266,22,18,75,4,146,16,101,49,920,28,1328,1,2,31,7,36,13,15,37,3,115,8,129,542,28,270,894,43,14,5,7,1,41,26,12,2,23,19,15,14,8,17,7,24,139,40,13,98,32,16,52,6,13,26,31,20,132,7,39,8,192,10,38,20,41,46,1,15,3,352,15,334,78,58,235,3,5,1,1,12,3,15,22,6,8,51,18,14,4,1,13,7,12,48,14,10,3,29,3,47,114,3,26,4,44,10,11,19,2,1,9,92,422,46,16,31,49,6,10,21,21,39,55,26,35
 Coopération ACSI Agence Congolaise des Systèmes	15493
 Coopération Administrateur	17827
 Coopération Africaine	8891,9025,2,83,86
-Coopération Allemande	10371,341
+Coopération Allemande	10371,341,8508
 Coopération Au	15769
 Coopération Belge	10712,2588
 Coopération Belge. ICF	13300
@@ -582,6 +583,7 @@ Development Cooperation	11916,325,721,2157
 Development Cooperation Framework USAID United States	16943
 Development Cooperation Framework United Nations Volunteers	16973
 Development Cooperation Information Management System	13080,15
+Development Planning and Cooperation	19245
 Development Planning and International Cooperation	18909
 Development and Cooperation	26,1,1
 Development and International Cooperation	12843,3058
@@ -621,6 +623,8 @@ EMCP ECOWAS Monetary Cooperation Program EMDEs	17235
 ENCOURAGE COOPERATION TO FACILITATE USE	1243
 ENFORCEMENT COOPERATION FRAMEWORK IMPLICATION FOR KENYA	17745
 ENGAGEMENTS INTERNATIONAUX ET COOPERATION INTERNATIONALE	15394
+ENJEUX DE LA COOPÉRATION EUROPÉENNE AU	19220
+ET DE LA COOPERATION	19216
 ETRANGERES ET DE LA COOPERATION	16099,2017
 ETRANGERES ET DE LA COOPERATION INTERNATIONALE	7843,10148
 EU Cooperation Facility	9838
@@ -711,7 +715,7 @@ General Confederation of Agricultural Cooperatives	18985
 General Cooperation Agreement	18741
 General Cooperation Agreements	14935
 German Agency for GRM International Cooperation	10964
-German Agency for International Cooperation	1264,1057,749,1032,1142,319,4266,1313,1117,241,542,119,376,2044,465,1175
+German Agency for International Cooperation	1264,1057,749,1032,1142,319,4266,1313,1117,241,542,119,376,2044,465,1175,2024,39,71
 German Confederation of Raiffeisen Cooperatives	11134
 German Cooperation	789,5588,2608,3442,5078
 German Corporation for International Cooperation	15478
@@ -808,7 +812,7 @@ Instruments of Cooperation	14476
 Inter-Ministerial Cooperation Agreement	18453
 Interim Cooperation Framework	14959,80,76
 International Cooperating Partners	9761,3181,378
-International Cooperation	961,282,21,513,2110,1360,1783,1162,1108,1548,1611,513,88,33,1839,140,589,53,2031
+International Cooperation	961,282,21,513,2110,1360,1783,1162,1108,1548,1611,513,88,33,1839,140,589,53,2031,1494
 International Cooperation Affairs	13440
 International Cooperation Agency	286
 International Cooperation Ahmed Maghawry	9332
@@ -1004,6 +1008,7 @@ Number of Cooperation	14935
 OECD and Bi-annual Cooperation MITCI UNESCO	14566
 OIC Organization of Islamic Cooperation ICS International	16900
 OMS Strategie de Coopération	15724
+ORIENTATIONS DE LA COOPÉRATION EUROPÉENNE AU	19220
 Office of Research Support and Cooperation	13952
 Oitavo Programa de Cooperação	18782
 Organisation de Coopération	13290,345,2470
@@ -1012,7 +1017,8 @@ Organisation for Economic Cooperation and Development. OECD	15604
 Organisation for Economic Development and Cooperation. OECD	15604
 Organisation for Economic and Development Cooperation. PIRLS	15604
 Organisation of Islamic Cooperation	6203,4561
-Organization for Economic Cooperation and Development	1243,6435,3587,4448,3084
+Organization for Economic Coop	19365
+Organization for Economic Cooperation and Development	1243,6435,3587,4448,3084,568
 Organization for Economic Cooperation and Development PESTLE	16968
 Organization of Islamic Cooperation	15072
 Overall Lines of EU Cooperation	13992
@@ -1021,6 +1027,7 @@ PART V-INTERNAIIONAL COOPERATION	18457
 PART VII INTERNATIONAL COOPERATION IN MAINTAINING	2727
 PARTIE NON OFFICIELLE DE LA COOPERATION	15439
 PREAMBLE This Cooperation Framework	4153
+PRINCIPES DE LA COOPÉRATION EUROPÉENNE AU	19220
 PRIVADO E COOPERATIVO	14
 PRIVADO E COOPERATIVO Artigo	14
 PROCEDURES DE COOPERATION	14537
@@ -1029,7 +1036,7 @@ PSC. Cooperation	16858
 PSE Coopérations	18306
 Paragraph I Areas of Cooperation	4153
 Pastoralist Cooperatives Apply	17157
-Patent Cooperation Treaty	11550,611,513,1311,2987,1825
+Patent Cooperation Treaty	11550,611,513,1311,2987,1825,568
 Petites Entreprises Plan Cadre de Coopération des Nations	17978
 Pharmacopoeial Cooperation	19063,1
 Planning and Cooperation	18305,65
@@ -1262,6 +1269,7 @@ Theme Cooperate MMO	8603
 Third Belt and Road Forum for International Cooperation	16929
 Time Password PCT Patent Cooperation Treaty	11250
 Togo-Luxembourg Indicative Cooperation Program	7379
+Togo. La Coopération	19220
 Totota Electric Cooperative	16978
 Totota Electric Cooperative LIBERIA ELECTRICITY REGULATORY	16978
 Trade and Cooperation Agreement	1243
@@ -1321,6 +1329,7 @@ World Artificial Intelligence Cooperation Organisation	9938,601,7017
 World Artificial Intelligence Cooperation Organization	7459,15,488,310,91,265,112,150,348,154,646,30,147,2547
 World Bank and German Development Cooperation	13191
 World Bank’s Africa Regional Integration and Cooperation	1264
+X MESURES D’APPUI Facilité de Coopération	19220
 X SOCIETE TELIMELE BAUXITE COOPERATION SA	16623
 X. INTERNATIONAL AND REGIONAL COOPERATION	14853
 X. INTERNATIONAL AND REGIONAL COOPERATION A	14853

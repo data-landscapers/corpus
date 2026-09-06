@@ -15,6 +15,7 @@ Africa. Social and Cultural Studies of Robots and AI	2816
 African Languages and Cultural Data Programme. Strategy	7548
 Aims for Cultivating Students’ Key Competencies Based	6948
 Animation Culturelle	14721
+Anthropologie des Pratiques Culturelles	19366
 António Culeca	7115
 Art and Culture	18597
 Artistic and Cultural	14829
@@ -158,7 +159,7 @@ Cultura UNICEF GEN Fundo	11557
 Cultura de Cibersegurança	4146,14799,1
 Cultura de Cibersegurança Com	18788
 Culturais	11547,15
-Cultural	582,358,614,1113,291,1474,1279,1235,2,842,340,2839,169,77,669,1,10,99,157,8,1,45,5,4,32,105,4,132,130,388,75,278,119,84,1645,267,764,19,75,772,11,43,603,256,362,109,309,360
+Cultural	582,358,614,1113,291,1474,1279,1235,2,842,340,2839,169,77,669,1,10,99,157,8,1,45,5,4,32,105,4,132,130,388,75,278,119,84,1645,267,764,19,75,772,11,43,603,256,362,109,309,360,128
 Cultural Activities	16275
 Cultural Affairs	16872,103,18,44
 Cultural Affairs and Tourism	3239,13722
@@ -189,10 +190,10 @@ Cultural Heritage	1264,724,1468,7373,135,1001,1509,49,1030,23,334,2016,10,163,15
 Cultural Heritage Act	18370
 Cultural Heritage Construction	1988
 Cultural Heritage Data	3861
-Cultural Heritage ESS	3604,7813,488
+Cultural Heritage ESS	3604,7813,488,7379
 Cultural Heritage Not Currently Relevant	15658
 Cultural Heritage Not Currently Relevant ESS	10768,792,4101,1288,1249
-Cultural Heritage Relevant ESS	1867,4672,9204,401
+Cultural Heritage Relevant ESS	1867,4672,9204,401,3095,6
 Cultural Heritage Relevant ESS8	17114
 Cultural Heritage Relevant Mar	18374
 Cultural Heritage Training	17114
@@ -235,7 +236,7 @@ Culturally	17114
 Culturally Develop	4126
 Culturally Grounded Misogyny Detection Framework	7790
 Culturas Autóctonas	4209
-Culture	1200,47,741,820,150,438,91,338,301,276,493,351,305,43,1238,335,381,251,44,135,254,5,32,449,32,38,103,515,463,21,71,32,307,219,328,284,3,1,16,123,940,32,99,67,479,80,1,318,100,84,87,124,43,16,56,108,523,32,75,56,154,82,86,81,167,212,50,28,12,13,9,5,19,34,34,44,89,2,12,121,6,79,3,63,81,126,50,229,11,131,14,52,165,18,66,26,7,164,28,73,1,220,33,169,8,153,3,2,4,11,12,4,10,12,9,4,4,38,12,10,19,4,9,8,33,15,4,26,10,3,26,53,22,36,11,48,5,15,19,14,418,8,92,32,127,92
+Culture	1200,47,741,820,150,438,91,338,301,276,493,351,305,43,1238,335,381,251,44,135,254,5,32,449,32,38,103,515,463,21,71,32,307,219,328,284,3,1,16,123,940,32,99,67,479,80,1,318,100,84,87,124,43,16,56,108,523,32,75,56,154,82,86,81,167,212,50,28,12,13,9,5,19,34,34,44,89,2,12,121,6,79,3,63,81,126,50,229,11,131,14,52,165,18,66,26,7,164,28,73,1,220,33,169,8,153,3,2,4,11,12,4,10,12,9,4,4,38,12,10,19,4,9,8,33,15,4,26,10,3,26,53,22,36,11,48,5,15,19,14,418,8,92,32,127,92,102,11,14,115,16
 Culture AI	2958
 Culture Any Arab	2958
 Culture Applications	2958
@@ -343,7 +344,7 @@ Culturel ESR Enseignement Supérieur	12
 Culturel. Conformément	15973
 Culturel. Pris	15973
 Culturelle	7843,3132,5398
-Culturelles	17458,652
+Culturelles	17458,652,1256
 Culturels Convention	13442
 Culturels Protocole	13442
 Cultures	2958,10432,2546,423,1540,46,69,974
@@ -371,6 +372,7 @@ Department of Culture	7167,6841
 Departments Creation of Data-Driven Culture	14750
 Designing Culturally Aligned AI Systems	6948
 Designing Culturally Aligned AI Systems for Social	6948
+Development and Cultural Change	19237
 Dialogue Facility Culture	789
 Different Cultural Centres	14742
 Digital Culture	4171
@@ -515,7 +517,7 @@ Ministry of Arts and Cultural Heritage	14742
 Ministry of Arts and Cultural Heritage. Financial	14742
 Ministry of Arts and Culture	14267,507,55,1,17
 Ministry of Basic Education Sport and Culture	12325
-Ministry of Culture	3583,6102,1732,162,4025,442,959,152,859,354
+Ministry of Culture	3583,6102,1732,162,4025,442,959,152,859,354,914
 Ministry of Culture and Sport	7909
 Ministry of Education Arts and Culture	12923
 Ministry of Education and Culture	2989,8609,1292

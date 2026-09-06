@@ -346,7 +346,7 @@ Economic Context Equatorial Guinea	10841
 Economic Update Guinea-Bissau	11557
 Economic Update for Equatorial Guinea. This World	16996
 Ecosistemas Forestales de Guinea Ecuatorial	16875
-Ecuador Egypt El Salvador Equatorial Guinea	11470,295
+Ecuador Egypt El Salvador Equatorial Guinea	11470,295,7577
 Ecuatorial Guinea	16942
 Education Sector Plan for Guinea-Bissau	11536
 Education de Guinée	16628
@@ -668,6 +668,7 @@ Gambia and Guinea	1264,9727,4433
 Gambia and Guinea-Bissau	17351
 Gana Senegal São Guiné- Republica Ilustração	11569
 Gazette of Guinea-Bissau	11550
+GdG Golfe de Guinée GIZ Deutsche Gesellschaft	19220
 General The President of Guinea	16622
 Germany Ghana Greece Grenada Guatemala Guinea	11765
 Gestão Eleitoral Guineense	11561
@@ -676,7 +677,9 @@ GoGB Government of Guinea-Bissau GM Grievance Mechanism	11549
 GoGB Government of Guinea-Bissau HRMIS Human Resources	11545
 Gobierno de Guinea Ecuatorial	7100,983,3589,846,4376,36,49,52,81,63,40,56
 Gobierno de Guinea Ecuatorial Oficina de Información	9065,5116,3208,26
-Golfe de Guinée	8755,6745,42,57,464,2042
+Golfe de Guinée	8755,6745,42,57,464,2042,1115,53,77,3
+Golfe de Guinée. Au Togo	19353
+Golfe de Guinée. Face	19220
 Golfe de Guinée. Sur	15711
 Golfo da Guiné	18768,11,4,5,158
 Golfo da Guiné. Desde	18763
@@ -700,7 +703,7 @@ Governo da Guiné-Bissau.Error	11557
 Governo. O Governo da República da Guiné-Bissau	7527
 Governos da Guiné Conacri	15476
 Govt of Guinea	3959
-Guernsey Guinea Guinea-Bissau Guyana Haiti Heard	11470
+Guernsey Guinea Guinea-Bissau Guyana Haiti Heard	11470,7872
 Guin-	17743
 Guinas	3475
 Guine	16705
@@ -840,6 +843,7 @@ Guinea Guinea-Bissau Mauritania Total Component	1264
 Guinea Informarket	16942
 Guinea Introduces	6342
 Guinea KEITA	6613
+Guinea Kenya	19245
 Guinea Launch	17101
 Guinea Launches CORIS MONEY	5089
 Guinea Launches Nine Digital Projects	6228
@@ -1146,7 +1150,7 @@ Guiné-Bissau. Vieira	17012
 Guiné-Bissaucoordenadas	17308
 Guiné-Conacri	4436,7107,26
 GuinéBissau	9732,114,7359
-Guinée	142,92,512,1596,2,543,365,57,13,179,25,157,257,1114,221,154,233,283,135,120,41,43,329,91,255,165,279,139,79,205,70,5,1,183,243,225,3,117,126,92,433,3,98,49,44,97,22,1,93,114,71,18,203,135,107,2,6,16,116,13,16,17,126,2,156,900,1515,1,9,910,60,649,600,7,39,3,57,24,88,182,39,14,91,89,49,20,55,157,205,1,2,2,3,1,4,1,1,1,4,1,1,1,1,4,1,3,1,1,4,1,6,1,2,7,1,2,1,1,1,1,3,1,3,1,1,1,1,2,1,2,1,2,4,3,2,4,1,1,1,1,1,2,1,3,4,1,2,1,1,1,1,1,2,1,4,4,2,1,1,1,1,1,1,633,97,82,3,267,3,12,3,46,41,112,239,5,19,6,30
+Guinée	142,92,512,1596,2,543,365,57,13,179,25,157,257,1114,221,154,233,283,135,120,41,43,329,91,255,165,279,139,79,205,70,5,1,183,243,225,3,117,126,92,433,3,98,49,44,97,22,1,93,114,71,18,203,135,107,2,6,16,116,13,16,17,126,2,156,900,1515,1,9,910,60,649,600,7,39,3,57,24,88,182,39,14,91,89,49,20,55,157,205,1,2,2,3,1,4,1,1,1,4,1,1,1,1,4,1,3,1,1,4,1,6,1,2,7,1,2,1,1,1,1,3,1,3,1,1,1,1,2,1,2,1,2,4,3,2,4,1,1,1,1,1,2,1,3,4,1,2,1,1,1,1,1,2,1,4,4,2,1,1,1,1,1,1,633,97,82,3,267,3,12,3,46,41,112,239,5,19,6,30,1001,7
 Guinée ASSEMBLEE NATIONALE REPUBLIQUE DE GUINEE	16615
 Guinée Alliance Startups	16672
 Guinée Alliance Startups. Cette	16672
@@ -1155,7 +1159,7 @@ Guinée Alliance Startups. J’ai	16672
 Guinée Au	16693
 Guinée Bien	16627
 Guinée Bis-	18077
-Guinée Bissau	4459,7099,4692,383,8,360,1285,24
+Guinée Bissau	4459,7099,4692,383,8,360,1285,24,923,73
 Guinée Bissau Abidjan	18077
 Guinée Bissau Absence	10711
 Guinée Bissau GWh	16714
@@ -1211,7 +1215,7 @@ Guinée URL	16615,53,25,43
 Guinée Université	16626
 Guinée Vision	16621
 Guinée du GBM	16646
-Guinée-Bissau	2793,459,1207,343,11,511,131,1428,3461,316,51,211,636,268,239,9,4109,444,6,77,291,23,186,145,1795
+Guinée-Bissau	2793,459,1207,343,11,511,131,1428,3461,316,51,211,636,268,239,9,4109,444,6,77,291,23,186,145,1795,71,105
 Guinée-Bissau. Avec	15893
 Guinée-Bissau. Fig	17001
 Guinée-Bissau. Ont	17848
@@ -1480,6 +1484,7 @@ MTN Guinea-Bissau	6087,9384
 MTN Guinea-Conakry	2259
 MTN Guinée	2259,628,13739
 MTN MOBILE MONEY GUINEE BISSAU	18313
+MTN. Guinée Bissau	19233
 MTN’s Guinea	4150
 Madame Bintou Fatoumata GUINDO Filière Echalote	17841
 Madame DAOU Fatoumata GUINDO	17841
@@ -1671,7 +1676,7 @@ PROJET GUINEA SAFE CITY URL	16650
 PROPIEDAD DE TIERRAS EN GUINEA ECUATORIAL	16838
 PUBLIQUE DE GUINEE LE PRESIDENT	16651
 Palestine PSE Papua New Guinea PNG	13082
-Panama Papua New Guinea Paraguay Peru	11470
+Panama Papua New Guinea Paraguay Peru	11470,7872
 Papua New Guinea	8004,2710,50,21,824,1433,2429,29,1131,2226
 Papua New Guinea Guinea Republic	11005
 Papua New Guinea Samoa Solomon Islands	13042,3589

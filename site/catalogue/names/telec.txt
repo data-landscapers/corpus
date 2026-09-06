@@ -25,9 +25,10 @@ ANGOLA TELECOM	3093
 ARCEP Telecommunications and Postal Regulatory Body	15621
 ARCEP and Liberia Telecommunications Authority	16144
 ARCEP and Togo Telecom	5679
+ATLANTIQUE TELECOM TOGO	19218
 ATLANTIQUE TELECOMS NIGER	998
 AXIAN TELECOM EXPANSION	1464
-AXIAN Telecom	829,582,53,673,13,3,60,450,45,359,872,528,401,2361,831,5722,663,187,2146
+AXIAN Telecom	829,582,53,673,13,3,60,450,45,359,872,528,401,2361,831,5722,663,187,2146,2504
 AXIAN Telecom CEO	4868
 AXIAN Telecom Holding	3939
 AXIAN Telecom Named Founding Partner of ATLAS	8060
@@ -124,6 +125,9 @@ Association of Telecommunication Companies of Nigeria	11129
 Association of Telecommunications Companies of Nigeria	6536,1671,840,2121
 Atlantique Telecom	17862
 Atlantique Telecom SA	18105
+Atlantique Telecom Togo	19218
+Atlantique Telecom Togo. Art	19218
+Atlantique Telecom Togo. Ce	19218
 Atlantique Telecoms	15474
 Attribution ATLANTIQUE TELECOMS C	998
 Audited Rm Irancell Telecommunication Company Services	10793
@@ -651,7 +655,7 @@ ITU International Telecommunication Union ITUC International	10759,78,1052,451
 ITU International Telecommunication Union IUCD Intrauterine	2775
 ITU International Telecommunication Union IXP Internet	11857,6013
 ITU International Telecommunication Union Kbps Kilobits	16883,1
-ITU International Telecommunication Union KfW German	3604
+ITU International Telecommunication Union KfW German	3604,15641
 ITU International Telecommunication Union LTE Long	236
 ITU International Telecommunication Union RCO United	13544
 ITU International Telecommunications Union	12911
@@ -933,7 +937,7 @@ Managing Director of Niger Telecoms	17940
 Managing Director of Telecel Cash and Digital Transformation	10249
 Mango Telecom Ltd	15136
 March. The Ministry of Post and Telecommunications	5953
-Maroc Telecom	168,5,454,210,604,1232,82,294,206,649,1070,1283,581,782,603,133,1512,954,34,3331,18,186,1083,1468,920,8,221
+Maroc Telecom	168,5,454,210,604,1232,82,294,206,649,1070,1283,581,782,603,133,1512,954,34,3331,18,186,1083,1468,920,8,221,1154
 Maroc Telecom FY2024	1065,376
 Maroc Telecom MTN	10822
 Maroc Telecom PR-FY2024 Results.pdf	1065,376
@@ -1426,6 +1430,8 @@ SK Telecom	15471
 SL906 TELECOMMUNIC ATIONS GSM	17006
 SMEs. Ethio Telecom	7971
 SMS ATLANTIQUE TELECOM SA Mobile	998
+SOCIETE ATLANTIQUE TELECOM TOGO POUR VIOLATION	19218
+SOCIETE TOGO TELECOM POUR VIOLATION	19218
 SONATEL Mobile Telecom Services	287
 SPECIALISED TELECOMMUNICATION SERVICES C1. HF	17250
 SSA Telecoms Expansion	817
@@ -1602,6 +1608,7 @@ TELECOMUNICAÇÕES	11397
 TIC Descrição ORANGE TELECEL	11574
 TII Telecommunication Infrastructure Index	15059
 TNM CEO Michel Herbert. Telecom Networks	5320
+TOGO TELECOM	19218
 TRANSFORMATION ACTION PLAN Tunisia Telecommunications	1818
 Table of Telecommunication and Postal Services Fees	14944
 Tags Econet Zimbabwe NetOne Telecel POTRAZ	6011
@@ -1633,6 +1640,7 @@ Telecables Nigeria	16545
 Telecare Medicine Information Systems	8605
 Telecel	306,1557,396,31,440,46,209,546,134,26,446,13,83,113,1432,222,11,63,13,94,4,20,953,263,604,699,555,123,635,212,1325,1721,2179,76,160,476,855,829,1017
 Telecel Agent Loyalty Scheme	10249
+Telecel Burkina Faso	19233
 Telecel CFA40.44bn	5005
 Telecel Cash	3550,3612,3087
 Telecel Centrafrique	4346,528,1311,3094,6195
@@ -1662,6 +1670,7 @@ Telecel and Moov Africa. First	1949
 Telecel and NetOne	306
 Telecel. Avec	9279
 Telecel. Expresso	8025
+Telecel. Niger	19233
 Telecel. Plusieurs	15474
 Telecel. Selon	2874
 Telecel. Sur	5071
@@ -1785,6 +1794,7 @@ Telecom Somalia Inc	15186
 Telecom Staff	15136
 Telecom Strategy Plan	15424
 Telecom Telecom	3796,1205
+Telecom Togo	19218
 Telecom Tower Facilities Provider	14010
 Telecom Tower Infrastructure	1417
 Telecom Tower Network Guarantee MIGA	88
@@ -1794,7 +1804,7 @@ Telecom Transformation	4907
 Telecom UNDP United Nations Development Program	1818
 Telecom Upgrades	12035
 Telecom and Broadband Expansion Revamping	12035
-Telecom and ICT	3604
+Telecom and ICT	3604,15641
 Telecom and ICT Regulator	11552
 Telecom and ISP	18649
 Telecom and Post Regulatory Authority	14897
@@ -1891,7 +1901,7 @@ Telecommunication and Post Regulatory Authority	14897
 Telecommunication and Postal Regulation Authority	1851
 Telecommunication of EG Mr. Rufino Ovono Ondo	17240
 Telecommunication. Bilateral Institutional Mechanism	17240
-Telecommunications	26,1,1,12,196,346,136,18,26,481,21,613,3,29,40,357,5,74,13,112,188,61,16,185,129,7,101,212,55,96,39,5,37,111,18,1,13,61,17,97,138,29,107,107,5,7,159,17,27,126,215,351,41,32,301,56,4,32,277,222,78,72,262,66,315,184,403,12,159,525,105,523,166,41,11,55,57,28,61,64,89,12,74,185,56,55,53,17,53,375,200,79,264,66,51,183,51,162,100,26,2,212,77,230,182,48,43,51,50,67,26,20,74,61,30,219,29,324,62,28,89,257,367,53,362,145,16,162,22,21,4,14,47,54,60,62,16,43,107,54,2,30,99,9,73,64,172,112,263,48,31,592,37,17,11,40,35,35,107,39,94,1,9,177,306,127,7,1,418,7,2,54,93,33,117,144,2,6,133,44
+Telecommunications	26,1,1,12,196,346,136,18,26,481,21,613,3,29,40,357,5,74,13,112,188,61,16,185,129,7,101,212,55,96,39,5,37,111,18,1,13,61,17,97,138,29,107,107,5,7,159,17,27,126,215,351,41,32,301,56,4,32,277,222,78,72,262,66,315,184,403,12,159,525,105,523,166,41,11,55,57,28,61,64,89,12,74,185,56,55,53,17,53,375,200,79,264,66,51,183,51,162,100,26,2,212,77,230,182,48,43,51,50,67,26,20,74,61,30,219,29,324,62,28,89,257,367,53,362,145,16,162,22,21,4,14,47,54,60,62,16,43,107,54,2,30,99,9,73,64,172,112,263,48,31,592,37,17,11,40,35,35,107,39,94,1,9,177,306,127,7,1,418,7,2,54,93,33,117,144,2,6,133,44,283,23
 Telecommunications ACT	4610
 Telecommunications ARTICLE	14409
 Telecommunications AU Regulation and Control Agency	13331
@@ -2016,7 +2026,7 @@ Telecommunications Service Providers	4610,1066
 Telecommunications Service Providers’ Disaster Recovery	4610
 Telecommunications Service Providers’ Obligations	4610
 Telecommunications Service Subscribers	12297
-Telecommunications Services	762,3848,2336,9680
+Telecommunications Services	762,3848,2336,9680,2588
 Telecommunications Services Company GM-CSIRT The Gambia	1000
 Telecommunications Services Licensing Kirinyaga	6946
 Telecommunications Services Revenue	12395
@@ -2041,7 +2051,7 @@ Telecommunications Traffic Monitoring Regulation	15120
 Telecommunications UCC	4608
 Telecommunications Under-Secretary Engineer Thomas Gatkuoth	3728
 Telecommunications Undersecretary Thomas Gatkuoth	18644
-Telecommunications Union	12395,3020
+Telecommunications Union	12395,3020,3830
 Telecommunications Union AU African Union BARAC	6946
 Telecommunications Union IXP Internet Exchange Point	1264
 Telecommunications Union LTE Long Term Evolution	12395
@@ -2072,7 +2082,7 @@ Telecommunications and Economic Growthâ	18887
 Telecommunications and ICT Sector	3604
 Telecommunications and ICT Sector TechAfrica News	6547
 Telecommunications and ICT Services	16144
-Telecommunications and ICT Services Sector	3604,2935,11965
+Telecommunications and ICT Services Sector	3604,2935,11965,741
 Telecommunications and Information Communications Technology	16872
 Telecommunications and Information Services	6325
 Telecommunications and Information Technology	226
@@ -2176,7 +2186,10 @@ Thailand Indonesia International Telecommunication Union	10764
 Thailand International Telecommunication Union	10844,7279
 Timor Telecom	15471
 Tmcel Telecommunications Network Second Expansion Financing	2161
-Togo Telecom	5679,9776,2407
+Togo Telecom	5679,9776,2407,1356,27,93
+Togo Telecom. Art	19218
+Togo Telecom. Cette	19218
+Togo Telecom. Surtout	19218
 Togocom Telecom Expansion Loan IFC	1523
 Top Earner for Ethio Telecom	8646
 Topnet. Despite Tunisie Telecom	1818
@@ -2300,6 +2313,7 @@ West Africa Telecommunications Regulators Assembly	5676,114,1533,553,745,2910
 West Africa Telecommunications Regulators Association	5675,2,1,1
 West Africa Telecommunications Regulators' Association	26,1,1
 West Africa Telecommunications Regulatory Assembly	2677
+West African Cable de Maroc Telecom	19221
 West African Telecommunications Regulators Assembly	1909
 West African Telecommunications Regulators' Assembly	17010
 West African Telecommunications Regulatory Agency	18485

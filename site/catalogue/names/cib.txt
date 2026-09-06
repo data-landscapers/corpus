@@ -121,8 +121,8 @@ Ciberterrorismo	16965
 Cibitoke	2625,10675,74,16,37,15,193
 Cibitoke Gitega	13300
 Cibitoke Gitega Karuzi Kayanza Kirundo Makamba	13442
-Ciblage	9824,5917,741
-Cible	643,629,9436,1236,1362,127,1189,958,93,126,137,76,316,394,1261,120,1020
+Ciblage	9824,5917,741,2739
+Cible	643,629,9436,1236,1362,127,1189,958,93,126,137,76,316,394,1261,120,1020,168,71
 Cible A1	15580
 Cible A2O1R1.5 Production	15580
 Cible A2O1R4.11 Préparation	15580
@@ -137,7 +137,7 @@ Cible Activités A2O3R2.1 Adhésion du Congo	15580
 Cible Nombre	15580
 Cible PNDS	16722
 Cible Réalisation	3396
-Cible Sources	18291
+Cible Sources	18291,929
 Cible Valeur	15724
 Cibler	13390,2938,1599
 Cibles	10712,164,89,2468,1189,801,160,12,417,614,1218,23,15,101,333,651
@@ -146,6 +146,7 @@ Cibles Contribuables	16328
 Cibles Entreprises	16328
 Cibles Evolution	15848
 Cibles ONG	16328
+Cibles Responsable Performance	19226
 Ciboulette	16103
 Circulation CIBN Certified Information Systems Auditor	17235
 Comité Nacional de Cibersegurança	18945
@@ -205,6 +206,7 @@ Estratégia Nacional de Segurança Cibernética	795,1989,32,4154,766,2704,632
 Estratégia da Segurança Cibernética	2816
 Estratégias Sólidas de Segurança Cibernética	2816
 Etat Cible	15936
+Evolution marche Regule 2019.pdf Cible Sources	19220
 Extérieur Cible	15936
 F. CFA. CAPÍTULO II CIBERDELITOS Artículo	16965
 Francophonie Cible	15936
@@ -322,6 +324,7 @@ Regime Jurídico de Cibersegurança	15504
 Regulamentar de Segurança Cibernética	7736
 Relatório da Avaliação Nacional de Riscos Cibernéticos	2784
 Riscos Cibernéticos	2784
+Réalisations Cible	19250
 Référence Cible	16012
 République Cible	15936
 S Segurança Cibernética	6970

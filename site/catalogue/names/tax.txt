@@ -892,7 +892,7 @@ LIVRE PREMIER IMPOTS ET TAXES TITRE	15999
 LRA Launches Taxpayer Appreciation Month	17258
 LRA Tax Talk Edition	17258
 LRA Taxpayer Services Division Holds Strategic	17258
-La Taxe	6954,4980
+La Taxe	6954,4980,7357
 La Taxe Spéciale	6954
 La Taxe Unique	6954
 La Value Added Tax Act	7994
@@ -1009,7 +1009,7 @@ NTAA Nigeria Tax Administration Act	8590
 NamRA’s Tax Amnesty Programme. NamRA	12951
 Namibian Income Tax Number	12400
 National Citizenship and Tax Education Plan	10762
-National Development Plan. PAYING TAXES	17613,2
+National Development Plan. PAYING TAXES	17613,2,1710
 National Development Tax	14151
 National Directorate for Taxes	16614
 National Directorate of Taxes	16614
@@ -1050,6 +1050,7 @@ Number of Functional Tax Risk	11866
 Number of MeasuresUnclassifiedTrade TaxExcise TaxGoods	13624
 Number of Tax Refund Applications Processed	12951
 OBJECTIVE AND JURISDICTION OF TAX AUTHORITIES	11976
+OBLIGATION DE PAIEMENTS DES TAXES ET	19215
 OBTAIN A TAX COMPLIANCE	11240
 OECD Global Minimum Corporate Tax	14932
 OECD’s Tax Administration	16968
@@ -1077,7 +1078,7 @@ Overview of Digital Taxes	14932
 Overview of Tax Amnesty Programme Performance	12951
 Oxford Centre for Business Taxation	18318
 PAGAMENTO DE TAXAS E LICENÇAS	17100
-PAIEMENTS DES TAXES ET IMPOTS	2629,770,367,55,45,867,580,142,234,14,2,102,70,47,210,371,62,277,263,16,2,157
+PAIEMENTS DES TAXES ET IMPOTS	2629,770,367,55,45,867,580,142,234,14,2,102,70,47,210,371,62,277,263,16,2,157,12006,43,13
 PART XXI AMENDMENT OF THE TAX	6921
 PART XXIII AMENDMENT OF THE TAX	6921
 PAYE Tax Bracket Adjustment	14985
@@ -1444,6 +1445,7 @@ TAXES DIVERSES Chapitre	16020
 TAXES DIVERSES Section	16020,27
 TAXES ENTRE LES COMMUNAUTÉS URBAINES ET	15999
 TAXES ET FRAIS	15901
+TAXES ET IMPÔTS EN LIGNE	19215
 TAXES ET REDEVANCES A PERCEVOIR	7470
 TAXES FAIT GENERATEUR ET REDEVANCES	15584
 TAXES IN EFFECT IN LIBERIA	17011
@@ -1473,12 +1475,13 @@ TITRE IV TAXE DE FORMATION PROFESSIONNELLE	15534
 TPIN File Returns Pay Taxes Online	12454
 TPIN Taxpayer Search Tax Education Tax	12454
 TPS Taxe Professionnelle Synthétique TVA Taxe	10712
+TPU Taxe	19350
 TRADE TAXATION DISPUTE RESOLUTION MARKET COMPETITION	12389
 TRANSACTIONS INTERNATIONALES AUTRES TAXES ET IMPOTS	15999
 TRN Tax Reference Number VAT	11298
 TRN Tax Type	11298
 TSE Taxe Spécifique	18103
-TVA Taxe	7655,6782,1037,1152
+TVA Taxe	7655,6782,1037,1152,2724
 Tabela Geral da Taxação Ecológica Utilização de Combustíveis	17100
 Tabela de Taxas Regulatórias	576
 Tabela de Taxas da APD	744
@@ -1586,7 +1589,7 @@ Tax Clearance Certificate and SSNIT	7368
 Tax Clearance Certificates	9779,2673,57,346
 Tax Clearance Certificates Issued Table	13053
 Tax Clearance Certificates Tax Clearance Certificates	13053
-Tax Code	16972
+Tax Code	16972,2393
 Tax Codes	10762
 Tax Collection	8669,4279
 Tax Collection Dependent Variable	12948
@@ -1804,6 +1807,7 @@ Tax Revenue The Ministry of Finance and Economic	17216
 Tax Revenues	10819,4166
 Tax Revenues Collected	18825
 Tax Risk Dashboard	11866
+Tax Schedule THRESHOLD PROGRAM GRANT AGREEMENT	19214
 Tax Service Centers	18293
 Tax Service Office	14533
 Tax Service Office. Commissioner	14526
@@ -2005,7 +2009,7 @@ Taxe Professionnelle Synthétique	15797
 Taxe Spéciale	15999
 Taxe Spécifique Unique	3045,12712,40
 Taxe de Soutien	3045,12712
-Taxes	236,1582,10,646,301,940,915,50,216,421,338,508,430,121,2925,24,785,408,108,12,21,139,389,332,9,8,7,74,45,270,76,39,4,101,7,459,81,16,7,62,1,62,156,283,66,719,487,1,11,24,53,364,23,39,13,2,45,2,24,37,19,30,75,243,8,74,64,667,202,20,60,15,179,45,637,37,36,27,18,119,209,165,368,36,86
+Taxes	236,1582,10,646,301,940,915,50,216,421,338,508,430,121,2925,24,785,408,108,12,21,139,389,332,9,8,7,74,45,270,76,39,4,101,7,459,81,16,7,62,1,62,156,283,66,719,487,1,11,24,53,364,23,39,13,2,45,2,24,37,19,30,75,243,8,74,64,667,202,20,60,15,179,45,637,37,36,27,18,119,209,165,368,36,86,241,25
 Taxes Edmond Rafaralahy	14584
 Taxes Excise Duty	14932
 Taxes Figure	10976,1370

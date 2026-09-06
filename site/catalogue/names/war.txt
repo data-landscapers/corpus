@@ -9,6 +9,7 @@ AON-05 WARDIP-2025 Intitulé du Marché	17914
 AP-01 DP-15 WARDIP-2026	18037,1120
 AP-01 DP-15 WARDIP-2026 Crédit	5983
 AP-01 DP-15 WARDIP-2026 Intitulé du Marché	18037,1120
+ATOUTE Waratessim ADC	19251
 Aaron Parker Trade Ministry Warns Importers	18516
 Accelerate War Crimes Court	17139
 Actual WARDIP-C	17219
@@ -35,6 +36,7 @@ CABLE CAPACITY UNDER WARDIP	17380
 CATHERINE WAMAITHA WARUTERE Data Processor INST-5237475C61A	7167
 CECILIA WAKIINI WARUI Data Processor INST-377031BDC4B	7167
 CREWS Climate Risk Early Warning Systems	17962
+CREWS Climate Risk and Early Warning System	19245
 CSA'S STRONG WARNING TO ALL INSTITUTIONS	9728
 Camila Giraldo. O Wardip	17412
 Captain of Sea and War	18797
@@ -45,12 +47,14 @@ Central Warehouse Department	17048
 Charlie Warzel	4300
 Chibale Ward	13387
 Chieftainess Serenje Ward	13387
+Children’s Fund WARCIP West African Regional	19245
 City Wards. Beneficiaries	12978
 Civil War	1038,17418,81
 Civilians and Civil Wars	16949
 Classified Warning Signs No Change	10835,3,130,918,466,1,135
 Classified Warning Signs No Change Best	10835,3,130,918,602
 Climate Change WB World Bank WARDIP	17114
+Climate Risk and Early Warning System	19245
 Climate Risk and Early Warning System Initiative	18198
 Climate Risk and Early Warning Systems	13767,2550,182,199,367,897,347
 Climate-Informed Maternal Access Early Warning	11589
@@ -239,6 +243,7 @@ MHEWS Multi-Hazard Early Warning System MoU	18578
 MTN Congo and Warid	15372
 Mainika Babban Gida Ward	12051
 Makeni Port Loko WARD C	18476
+Malaria Prediction-Based Early Warning System	19355
 Male Medical Ward	18937
 Mara K. Warwick Regional Director	13332
 Marang Ward Councillor Keaobaka Bantatetse	5295
@@ -281,7 +286,7 @@ NOAA Early Warning System	18360
 NamRA Tug of War	13044
 NamRA’S TUG OF WAR CHAMPIONS	13044
 NamRA’s Tug of War	13044
-National Data Warehouse	4260,7883
+National Data Warehouse	4260,7883,7141
 National Early Warning System	17969,818
 National Government Data Warehouse	14752
 National Health Data Warehouse	4922
@@ -381,6 +386,7 @@ Slowing Improvement Slowing Deterioration Warning Signs	10835,3,1048,466,1,135
 Slowing Improvement Warning Signs Security	10968,902
 Smart Warehouse-in-a-Box	17048
 Social Standards EWS Early Warning System	16384
+Social Standards EWS Early Warning Systems	19245
 Solicitação de Ofe WARDIP-W	17219
 Space for Early Warning	11291,3231
 Staci Warden	560
@@ -408,6 +414,7 @@ Tigray War	12188
 Time of War	14742
 Time of War. Accessed	6947
 Todos WARDIP-F-004-2025	17219
+Togo WARCIP	19245
 Totals for Ward	13598
 Trade Ministry Warns Importers To Adhere	18516
 Treatment of Prisoners of War	14742
@@ -440,7 +447,8 @@ WAAJIBAADKA WARBIXIN EE DHINACA KU TIIRSAN	14930
 WAPP West Africa Power Pool WARDIP	17105
 WAR Surgery	15206
 WAR Surgery Damage	15206
-WARCIP	221,86,957,1549,648,8070,1800,2093,87,39,42,29,1005,246,951,39,34,560,298
+WARALIOUA Mawune-Eso SGT	19251
+WARCIP	221,86,957,1549,648,8070,1800,2093,87,39,42,29,1005,246,951,39,34,560,298,467,3,21
 WARCIP ACE	15424
 WARCIP APL	15424
 WARCIP APL2	17862
@@ -459,7 +467,7 @@ WARCIP and RCIP	15424
 WARCIP-era	4436
 WARD COMMITTEES	18467
 WARD-C	18476
-WARDIP	1175,2,1,1,1,1,1,82,1034,373,1688,76,927,33,5,350,233,286,79,74,101,387,1066,1,579,870,231,189,1038,658,3,7,3,14,4256,319,57,725,10,102,33,1,5,8,14,15,91,13,1,68,1,92,6,26,490,40,21,21,23,497,664
+WARDIP	1175,2,1,1,1,1,1,82,1034,373,1688,76,927,33,5,350,233,286,79,74,101,387,1066,1,579,870,231,189,1038,658,3,7,3,14,4256,319,57,725,10,102,33,1,5,8,14,15,91,13,1,68,1,92,6,26,490,40,21,21,23,497,664,77
 WARDIP Digital Transformation for Africa	1264
 WARDIP Guine-Bissau	11555
 WARDIP Guiné-Bissau	9846,7438
@@ -544,6 +552,7 @@ WARDIP2	5362,33,5,10744,57,2303
 WAREEJIN XOGTA MARKA AYSAN JIRIN ILAALIN	15152
 WAREEJINTA XOGTA	15152
 WARICALAN	6827
+WARIE Tananbe ADJ	19251
 WARM SIERRA LEONEAN HOSPITALITY AHEAD	18586
 WARMA	1988,11377
 WARNING	8294,1085,3085,8,930,15,4268,284

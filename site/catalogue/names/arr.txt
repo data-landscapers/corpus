@@ -2,7 +2,7 @@ A. Arrangements	14717
 A. FREQUENCY ARRANGEMENT Frequency	14825
 A. INSTITUTIONAL AND IMPLEMENTATION ARRANGEMENTS	11863,2075
 A. Institutional Arrangements	14430,482
-A. Institutional and Implementation Arrangements	969,295,603,1737,2935,4229,61,551,145,24,11,295,1476,1,1605,435,39,80,24,3,35,68,37,1,2,82,401,240,565,509,646,94,95,8,476
+A. Institutional and Implementation Arrangements	969,295,603,1737,2935,4229,61,551,145,24,11,295,1476,1,1605,435,39,80,24,3,35,68,37,1,2,82,401,240,565,509,646,94,95,8,476,462,6
 A.Â Institutional and Implementation Arrangements	18887
 AAID ARREST Agenda for Inclusive Development ADR	17139
 ABDUCTIONS AND ARRESTS	17950
@@ -67,7 +67,7 @@ ARRANJO INSTITUCIONAL PARA A IMPLEMENTAÇÃO	11390
 ARRANJOS INSTITUCIONAIS DE IMPLEMENTAÇÃO DO PROJECTO	11542
 ARRANJOS INSTITUCIONAIS DO PROJECTO	11406
 ARRANJOS INSTITUCIONAIS PARA A IMPLEMENTAÇÃO	11390
-ARREC	18316,6
+ARREC	18316,6,973
 ARREC La CRSE	18322
 ARREC du Code de Réseau Régional	18322
 ARREC. Au	18322
@@ -88,24 +88,35 @@ ARREST Agenda. Each NSS	17116
 ARREST Agenda. The Policy	16975
 ARREST Agenda.1	17037
 ARREST’s Agenda for Inclusive Development	16975
-ARRETE	15497,706,413,1196,5,2,8,1,1,43,27
+ARRETE	15497,706,413,1196,5,2,8,1,1,43,27,1314,28
 ARRETE ARTICLE	17819
 ARRETE Article	10981,4516,1119
 ARRETE CHAPITRE	14469
 ARRETE CONJOINT AC	16635
-ARRETE INTERMINISTERIEL N	7470,10342,87
+ARRETE INTERMINISTERIEL N	7470,10342,87,1342
 ARRETE Mise	13714
-ARRETE N	14469,1467,1876,5,2,8,1,1,32,38
+ARRETE N	14469,1467,1876,5,2,8,1,1,32,38,1314,28
 ARRETE Oumar Ibrahima TOURE ARTICLE	17819
 ARRETE Page	16616
 ARRETE-TELEPROCEDURES.pdf MINIS'IERE DE L'ECONOMIE	15497
-ARRETENT	15406,2493
+ARRETENT	15406,2493,1342
 ARRETENT ARTICLE PREMIER	16635
 ARRETES	4658,10702,34,16,22,24,11,127,8,6,82,42,15,20,96,67,3,10,142,86,59,33,59,22,81,1387,15,32,41
+ARRETES ARRETE INTERMINISTERIEL N	19241
 ARRETES Cour	17861
-ARRETES ET DECISIONS LOIS LOI N	436
+ARRETES ET DECISIONS	19218,33
+ARRETES ET DECISIONS ARRETES Ministère	19213
+ARRETES ET DECISIONS DECRETS	19260
+ARRETES ET DECISIONS DECRETS ACTES	19235
+ARRETES ET DECISIONS DECRETS DECISIONS MINISTERE	19260
+ARRETES ET DECISIONS DECRETS DECRET N	19241
+ARRETES ET DECISIONS DECRETS Ministère	19241
+ARRETES ET DECISIONS LOIS	19209,4
+ARRETES ET DECISIONS LOIS LOI N	436,18777
+ARRETES ET DECISIONS LOIS LOI W2016-031	19209
 ARRETES MINISTERE DE L’ADMINISTRATION TERRITORIALE ET	17828
 ARRETES Ministère	17817
+ARRETES Ministère des Mines	19241
 ARRETES Vu le Décret	17899
 ARRHES	17825
 ARRIERE	16629
@@ -120,6 +131,7 @@ ARRÊTE	15177
 ARRÊTE Article	13923
 ARRÊTE TITRE	16616
 ARRÊTENT	7470
+ARRÊTES ET DECISIONS DECRETS	19235
 ARRÊTONS	1214
 ARRÊTÉ	13300
 ARRÊTÉ MINISTÉRIEL Nº	15177
@@ -143,7 +155,7 @@ Agrément Arrêté	15660
 Ahmed ADLI MINISTERE DES FINANCES ArrÍtÈ	15394
 Aimé Ange Wilfrid BININGA Arrêté	15455
 Alternate Procurement Arrangements	1284,9545,135,891,1476,1,2221,68,1301
-Alternative Procurement Arrangements	1867,1022,673,42,7164,649,143,345,3032,201,520,3,322,161,2054,611
+Alternative Procurement Arrangements	1867,1022,673,42,7164,649,143,345,3032,201,520,3,322,161,2054,611,436,39
 Amadou Toumani TOURE ARRETE	17817
 Amendment of Arrangement	19034
 Amendment of Arrangement of Sections	5872
@@ -268,7 +280,7 @@ Arriver	13375
 Arrives	5390
 Arriving	4980,9179
 Arrivé	10975,2400,864,1303
-Arrivée	643,10233,3651,3650,973
+Arrivée	643,10233,3651,3650,973,213
 Arrivée des Autorités	14527
 Arrière	18099
 Arriérés	1937,76,13986,38,2026,253
@@ -318,7 +330,7 @@ Arrêt du Conseil Constitutionnel	18310
 Arrête	6589,757,7086,963,31,6,7,16,10,23,36,34,44,13,45,32,52,3,33,68,15,70,106,46,15,71,6,53,5,39,70,23,46,12,31,1650
 Arrêtent	7346,8080,6,23,1,11,91,44,13,75,2,40,15,20,96,67,3,10,96,132,59,33,81,23
 Arrêter	10876
-Arrêté	1272,166,153,351,400,1262,798,256,1931,757,124,1214,207,1196,725,29,2604,463,15,501,7,13,25,19,1,1,905,11,5,15,6,7,16,1,18,14,30,6,27,4,3,11,11,22,6,7,43,2,10,15,5,2,40,12,3,20,13,6,62,15,38,32,3,7,20,76,46,15,71,6,26,27,5,28,11,48,6,16,23,46,12,31,156,4,19,1181,1,10,1,1,4,8,3,1,7,9,15,23,10,94,12,103,3,48,147,6
+Arrêté	1272,166,153,351,400,1262,798,256,1931,757,124,1214,207,1196,725,29,2604,463,15,501,7,13,25,19,1,1,905,11,5,15,6,7,16,1,18,14,30,6,27,4,3,11,11,22,6,7,43,2,10,15,5,2,40,12,3,20,13,6,62,15,38,32,3,7,20,76,46,15,71,6,26,27,5,28,11,48,6,16,23,46,12,31,156,4,19,1181,1,10,1,1,4,8,3,1,7,9,15,23,10,94,12,103,3,48,147,6,891,28
 Arrêté AJ	16611
 Arrêté Interministériel	17899
 Arrêté Ministeriel N	15963,240
@@ -343,7 +355,7 @@ Auditing Arrangements	11855
 Authorized G2P Payment Arrangements	15519
 Avatar of Arrrosec	12478
 B. Crisis Preparedness Strategy and Arrangements	18198
-B. Results Monitoring and Evaluation Arrangements	969,295,603,1737,2935,4229,61,135,416,37,132,11,295,1476,1,1605,554,24,3,35,68,37,1,2,1288,1155,94,95,8,476
+B. Results Monitoring and Evaluation Arrangements	969,295,603,1737,2935,4229,61,135,416,37,132,11,295,1476,1,1605,554,24,3,35,68,37,1,2,1288,1155,94,95,8,476,462
 B.1 Water Intake Arrangement	18543
 B.4 Pumping Arrangement	18543
 BAIL EMPHYTEOTIQUE Arrêté	15426
@@ -363,7 +375,7 @@ Bou Arréridj Tixter Ras El Oued	15690
 Brazzaville. Arrêté	15744
 Britone Arr	16274,182
 Budgets and Finance Arrangements	11193
-C. Disbursement Arrangements	15743,401,240,1074
+C. Disbursement Arrangements	15743,401,240,1074,1787
 C. Disbursements Arrangements	11905
 C. ON THE COMESA-EAC-SADC TRIPARTITE ARRANGEMENT	13440
 CATI Arrêté	18121
@@ -449,6 +461,7 @@ DEVELOPPEMENT RURAL Arrêté du Aouel Rabie	15690
 DErIEs ET ARR	14479
 DErTE ET ARR	14479
 DErrEs Er ARR	14479
+DIRECTION DEPART DIRECTION ARRIVEE TOTAL DGE	19250
 DISPOSITIONS GENERALES Arrêté N	17819
 DISTRICT ET ARRONDISSE MENT	14450
 DOMAINE PUBLIC Arrêté	15426
@@ -553,7 +566,7 @@ Financial Management Arrangements	11855,50
 Financial Management Arrangements. The Director of Finance	1867
 Financial Management and Disbursements Arrangements	15658
 Financial Reporting Arrangements	11855
-Financing Arrangements	16922
+Financing Arrangements	16922,2362
 First Cable Repair Ship Arrives	2677
 Flexible Credit Line Arrangement	17503
 Former President Ernest Bai Koroma Arrives	5939
@@ -598,7 +611,7 @@ Honoré SAYI Arrêté	15615
 Houria MEDDAHI. MINISTERE DES SPORTS Arrêté	16230,114
 IFR. Accounting and Reporting Arrangements	3604
 II. IMPLEMENTATION ARRANGEMENTS	11855
-III. IMPLEMENTATION ARRANGEMENTS	969,295,603,4672,4229,61,551,37,132,11,1771,1,1605,554,24,3,35,68,37,1,2,1288,1155,197,476
+III. IMPLEMENTATION ARRANGEMENTS	969,295,603,4672,4229,61,551,37,132,11,1771,1,1605,554,24,3,35,68,37,1,2,1288,1155,197,476,462
 III. IMPLEMENTATION ARRANGEMENTS Page	11417
 III. Implementation Arrangements	13743
 IMF Arrangement	18823
@@ -625,7 +638,7 @@ Ignié. Arrêté	16039
 Implementation Arrangement	17011
 Implementation Arrangement for Chance Find	17114
 Implementation Arrangement for Chance Find Table	17114
-Implementation Arrangements	1988,9867,50,271,360,442,2394,39,1449,26,125,103,327,1093,353
+Implementation Arrangements	1988,9867,50,271,360,442,2394,39,1449,26,125,103,327,1093,353,358
 Implementation Arrangements AFRICA	15372
 Implementation Arrangements Annex. Building	18293
 Implementation Arrangements GABON	15411
@@ -638,10 +651,11 @@ Implementation Arrangements and Budget	17114
 Implementation Arrangements and Project Support	14910
 Implementation Arrangements and Resources	18504
 Implementation Arrangements and Resources The MoCTI	18504
-Implementation Arrangements and Support Plan	969,295,603,8901,612,169,11,1771,1,2159,24,3,35,68,37,1,2,1288,1344,8,476
+Implementation Arrangements and Support Plan	969,295,603,8901,612,169,11,1771,1,2159,24,3,35,68,37,1,2,1288,1344,8,476,462
 Implementation Arrangements and Support Plan COUNTRY	13332,2186,140
 Implementation Arrangements. The NLGFC	12980
 Implementation Modalities No Disbursements Arrangements	2473,13496
+Implementation Schedule Yes Disbursements Arrangements	19284
 Implementation and Institutional Arrangements	13359
 Industriels ARRETE	17817
 Industry and Market Context Anchor Tenant Arrangements	4896
@@ -655,10 +669,12 @@ Institutional Arrangement No MFD	15969
 Institutional Arrangement No Risks No Implementation	2473
 Institutional Arrangement The Ministry of ICT	395
 Institutional Arrangement Yes Clients Yes Loan	18359
+Institutional Arrangement Yes Disbursements Estimates	19284
 Institutional Arrangement and Cooperation	16648
 Institutional Arrangement for Enhanced Efficiency	13998
-Institutional Arrangements	1228,8929,672,300,1124,200,470,372,50,2,12,1779,1758,26,192,735,452,175
+Institutional Arrangements	1228,8929,672,300,1124,200,470,372,50,2,12,1779,1758,26,192,735,452,175,808
 Institutional Arrangements National Statistics Office	15760
+Institutional Arrangements Office	19284
 Institutional Arrangements Section	16851
 Institutional Arrangements The Government	12964
 Institutional Arrangements and Capacity Building	17114
@@ -807,6 +823,7 @@ PGES DATA CENTER SECONDAIRE Arrangement	14488
 PIU Financial Management and Disbursement Arrangements	15659
 POLICY RESPONSE TO ARREST THE DOWNTURN	10
 PPP Arrangements	15372
+PR and Arrêté	19245
 PRESIDENCE DE LA REPUBLIQUE Arrêté	15901,32
 PROCEDURES AND IMPLEMENTATION ARRANGEMENTS	1988
 PRODUCTIONS HALIEUTIQUES Arrêté	15594
@@ -834,7 +851,7 @@ President Joseph Nyuma Boakai’s ARREST Agend	17398
 President Joseph Nyuma Boakai’s ARREST Agenda	4554
 Prior Procurement Arrangements	17180
 Procurement Arrangement and Value for Money	11525
-Procurement Arrangements	17116,64
+Procurement Arrangements	17116,64,2065
 Procurement Arrangements All	17116
 Procurement Arrangements Involving International Competition	15372,3515
 Procurement Arrangements and Time Schedule	17180
@@ -963,7 +980,7 @@ Under the Extended Credit Facility Arrangement	18823
 Under the Extended Credit Facility Arrangement and Concludes	13741
 Unsupported Restructuring of Arror	14546
 Users ArrestedYes	15926
-Verification Arrangements	15743,401,240
+Verification Arrangements	15743,401,240,2861
 Visitor Arrivals	2775
 Vu Le Arrêté	15346
 W ARRETE	17827

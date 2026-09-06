@@ -1,6 +1,7 @@
 ADMINISTRATIVE REGION SENIOR SECONDARY SCHOOL ENROLMENT	18461
 AGRÉMENT ET ENREGISTREMENT Section	10836,4799
 ANS. ENREGISTRER LE NUMÉRO DE LIGNE	13300
+ASSESS ENROLL PROVIDE MANAGE	19237
 Admissions and Total Enrolment	14775
 Adult Education Enrollment	12411
 Aliens and Naturalization Act. Enrolled	16841
@@ -11,6 +12,7 @@ Assess Enrol EXAMPLE AI-enabled	11156
 Assurance Qualité Enregistrement	15599
 B ENREGISTREZ TOUT CE QUI EST	13300
 Bangui. Enrolment	1258
+Banque Mondiale Enrôlement	19221
 Bansang School for Enrolled Nurses and Midwives	16896,26
 Bentoumi and Sparkle Executive Director Enrico Bagnasco	3342
 Biometric Enrollment	3478,124
@@ -40,6 +42,7 @@ COMP. ENROB. LP. SOL. INJ	15930
 COMP. ENROB. SEC	15930
 COMP. ENROB. SIROP GLES. PDRE. SUSP	15930
 COMP. ENROB. SUSP.BUV. COMP. SEC	15930
+CPN Enregistrer	19226
 Centro Nacional Enrique Matala Matomba de Ekuku	4209
 Code des Enregistrées	18013
 Completion Net Enrollment Ratio	16436
@@ -63,6 +66,7 @@ ENREGISTREMENT	16636
 ENREGISTREMENT DES APPRENANTS Dans	17830
 ENREGISTREMENT DES INSTITUTIONS Par	17830
 ENREGISTREMENT DES NAISSANCES A L’ÉTAT CIVIL	13300
+ENREGISTREMENT REFUGIÉ	19252
 ENREGISTREZ	13300
 ENREGISTREZ L'HEURE. HEURE	13300
 ENREGISTREZ LE CODE DU RÉSULTAT	13300
@@ -87,10 +91,11 @@ Education Enrolment	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Education Lower Basic Gross Enrolment Ratio	16973
 Empowerment GER Gross Enrolment Rate GIA	18512
 EnDev Energising Development EnR	18316
+EnRépubliquetogolaise	19212
 Enreg	15999
 Enregistr	17438
 Enregistre	10876,5032
-Enregistrement	7993,1675,486,393,329,26,1042,1356,41,19,15,1050,55,8,1,1,47,356,18,518,5,38,127,26,1,120,190,63,116,315,49,66,91,849,186,143,3,13,11,31,110,46,48,4,116,31,50,6,15,12,2,20,594,18
+Enregistrement	7993,1675,486,393,329,26,1042,1356,41,19,15,1050,55,8,1,1,47,356,18,518,5,38,127,26,1,120,190,63,116,315,49,66,91,849,186,143,3,13,11,31,110,46,48,4,116,31,50,6,15,12,2,20,594,18,273,11,2,14,7,22
 Enregistrement Cadastral	10876
 Enregistrement Cadastral CEDEAO Communauté	10876
 Enregistrement Communal	10876
@@ -106,8 +111,18 @@ Enregistrement des Faits	9637,1
 Enregistrement des Graphique	13300
 Enregistrement des Institutions	17830
 Enregistrement des OID	16115
-Enregistrer	747,258,5949,963,2959,2499,2659,60,653,1555,130
+Enregistrer	747,258,5949,963,2959,2499,2659,60,653,1555,130,794,35
+Enregistrer Cocher	19226
+Enregistrer Cocher Ecrire Indiquer Noter	19226
+Enregistrer Enregistrer	19226
+Enregistrer Enregistrer Enregistrer	19226
+Enregistrer Enregistrer Enregistrer Enregistrer	19226
+Enregistrer Enregistrer Enregistrer Si	19226
 Enregistrer Figure	13375
+Enregistrer Indiquer	19226
+Enregistrer Mentionner Compter Compter Compter	19226
+Enregistrer Noter	19226
+Enregistrer Noter Cocher Ecrire	19226
 Enregistrer. Si	13375
 Enregistrerlesinformationssurleresponsabledetraitement	16034
 Enregistrez	747,15882
@@ -123,7 +138,7 @@ Enrichir	15568,2256
 Enrichis	16381
 Enrichissant	8891
 Enrichissemen	15500
-Enrichissement	13405,2163,1947
+Enrichissement	13405,2163,1947,1706
 Enrichissement Il	16381
 Enrichissement Illicite	17872,111
 Enrichissement Illicite ONU Organisation des Nations Unies	6959
@@ -136,10 +151,11 @@ Enriquecimento Ilícito	16487
 Enriquez	12333
 Enrol	15845
 Enroll	2604,8161,10,1678
+Enroll. Registrants	19237
 Enrolled	11006,498,936,3278,1123,130,716,774
 Enrolled OVC Beneficiaries	12977
 Enrolling	571,4877,5685,791,2992
-Enrollment	2775,1260,931,2163,467,3216,27,641,387,460,2,82,252,308,6,337,18,1565,25,97,68,574,2,416,357,24,416,100,7,10,146,831,963
+Enrollment	2775,1260,931,2163,467,3216,27,641,387,460,2,82,252,308,6,337,18,1565,25,97,68,574,2,416,357,24,416,100,7,10,146,831,963,304
 Enrollment Data	14501
 Enrollment Kits	13424
 Enrollment Rates API	15630
@@ -259,10 +275,14 @@ Net Enrolment Ratio	12175,1816
 Net Tertiary Enrolment Rate OU	14775
 Nigerian Government Intensifies National Identity Enrolment	7141,3
 Non-Citizens Enrolled	16374
+Normal Enregistrer	19226
+Noter Enregistrer	19226
 O COMBATE AO ENRIQUECIMENTO ILÍCITO	16487
 OBJET DE LA REQUETE Enregistrement	10821
+PAYMENT NEEDS AND ENROLLMENT NOTIFICATION ADMINISTRATION	19237
 PDO Outcomes Enrollment and Empanelment	16079
 PERSONNEL PERSONNE ET ENREGISTREZ TOUT ACCOUCHEUSE	13300
+PFPP Enregistrer Noter	19226
 PILIER III ADOPTER LES SOLUTIONS ENRD	18316
 PRELIMINARIES Enrolled	16841
 Phase Préparatoire Enregistrement	14489
@@ -274,6 +294,7 @@ Primary Gross Enrollment Ratio	14897
 Primary and Junior School Enrolment	2775
 Product GER Gross Enrolment Ratio GPI	14896
 Promotion des EnR	16621,1695
+Provide. Enrolled	19237
 Public Services for Women Education Enrolment Public	10759
 Public and Private School Pupil Enrolment	18460
 Pupil Enrolment and Number of Teachers	2775

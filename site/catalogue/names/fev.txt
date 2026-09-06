@@ -3,7 +3,7 @@ Care-seeking During Fever Percentage	18441
 DE FEVEREIRO	5169,10222,1709
 Em Fevereiro	5309,2694
 FEVEREIRO	18781,12
-FEVRIER	13300,29,195,1826,33,502,1935,7,1,1,12,20,38,92,12,29
+FEVRIER	13300,29,195,1826,33,502,1935,7,1,1,12,20,38,92,12,29,1259,8
 FEVRIER LA REPUBLIQUE DU MALI ET	17820
 FEVRIER Ministres	17899
 FEVRIER Vu le Décret	17828
@@ -32,4 +32,4 @@ Viral Hemorrhagic Fever	11912
 World Health Organization YF Yellow Fever	16971
 Yellow Fever	11912,5023
 Yellow Fever Grand Total Bomi	16971
-Yellow Fever Vaccine	18921
+Yellow Fever Vaccine	18921,363

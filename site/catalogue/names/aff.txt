@@ -6,6 +6,7 @@ ADJOURNMENT The Minister of Home Affairs and Internal	13387
 AFFAI	15441
 AFFAIR	10974
 AFFAIR E RTIFLE E RCaRONDEX SERVICE	15999
+AFFAIRE	19218
 AFFAIRES	16363
 AFFAIRES ADMINISTRATIVES	16381
 AFFAIRES ADMINISTRATIVES ET DES REQUÊTES	16547
@@ -32,6 +33,7 @@ AFFAIRS STATEMENT BY MINISTER OF FINANCE	13053
 AFFAIRS The National Social Protection Policy	12964
 AFFAIRS VISION	5533
 AFFAIRS.pdf	5634
+AFFECTATION DES RESULTATS	19260
 AFFECTATION DU RESULTAT	18032
 AFFECTATION DU RESULTAT DEFICITAIRE	18032
 AFFECTATION Décision	15439
@@ -87,25 +89,26 @@ AffXicEieSTnRteA	16195
 Affacturage	17833
 Affacturage Article	14429
 Affair	11853
-Affaire	10860,220,4381,2017
+Affaire	10860,220,4381,2017,1740
 Affaire Bachar	1943
 Affaire Dangnivo	7392,1
 Affaire Jabaroot	11835
 Affaire Martinez Zogo	10379,2,310,2792
 Affaire Semlex	17590
-Affaires	998,596,88,662,63,154,790,45,15,567,349,665,86,39,6,566,177,33,566,90,251,21,56,13,63,226,220,25,111,41,88,152,156,21,73,80,85,2,22,8,67,105,143,134,15,30,58,70,151,2,243,55,106,102,106,319,202,54,173,96,19,26,47,234,34,42,73,116,580,242,32,27,55,56,344,615,375,23,2,107,6,31,111,26,67,1,148,91,104,15,140,168,926,43,35,127,17,71,9,22,25,116,94,6,51,48,21,22,15,16,36,48,40,5,33,3,1,116,97,2,2,15,47,11,30,20,9,66,746,44,34,58,2,103,138,1,1,12,1,6,8,5,20,56,23,22,1,9,11,29,58,21,58,99,42,22,14,54,2,1,9,11,112,307,67,79,15,9,17,107,31,16,5,8
+Affaires	998,596,88,662,63,154,790,45,15,567,349,665,86,39,6,566,177,33,566,90,251,21,56,13,63,226,220,25,111,41,88,152,156,21,73,80,85,2,22,8,67,105,143,134,15,30,58,70,151,2,243,55,106,102,106,319,202,54,173,96,19,26,47,234,34,42,73,116,580,242,32,27,55,56,344,615,375,23,2,107,6,31,111,26,67,1,148,91,104,15,140,168,926,43,35,127,17,71,9,22,25,116,94,6,51,48,21,22,15,16,36,48,40,5,33,3,1,116,97,2,2,15,47,11,30,20,9,66,746,44,34,58,2,103,138,1,1,12,1,6,8,5,20,56,23,22,1,9,11,29,58,21,58,99,42,22,14,54,2,1,9,11,112,307,67,79,15,9,17,107,31,16,5,8,13,71,71,1
 Affaires Cazeau	18842,37
 Affaires Chiffre	15707
 Affaires Commerciales	16099
 Affaires Contentieuses ST	10975
-Affaires Coutumières	6354,9193
+Affaires Coutumières	6354,9193,3721,12,71
 Affaires Coutumières Shabani Lukoo Pour	5123
+Affaires Coutumières URL	19280
 Affaires David Sproule and Trade Commissioner Delane	10120
 Affaires Dr Melanie Anne Zimmerman	4352
 Affaires Dr Zimmerman	4352
 Affaires Dr. Melanie Anne Zimmerman	4340,5
 Affaires Economiques	17844
-Affaires Etrangères	13405,1026,1000,30,136,130,643,1115,335,39
+Affaires Etrangères	13405,1026,1000,30,136,130,643,1115,335,39,1392
 Affaires Etrangères Coopération Internationale	17820
 Affaires Etrangères Le Ministre	17817
 Affaires Etrangères. Art	15461
@@ -232,7 +235,7 @@ Affessy Affessy	10056
 Affichage	13375,1113,1,1,636,2738
 Affichage Article	17858
 Affichage du QR	15936
-Affichages	15614
+Affichages	15614,3601,41,36,11,20
 Affiche	13375
 Affiche Sur	13375
 Afficher	8718,4657,406,1942,2101,608
@@ -278,14 +281,16 @@ Affirmative Finance Action for Women	9702,4236
 Affirmative Repositioning	1981
 Affirme	15405,298
 Affirmed	12887,1523
+Affirmer le Togo	19220
 Affirming	8496,1164,4379,2978
 Affirming the Government	15977
 Affixing of COCIS	16843
 Affluent	4563
 Afflux	10688,3800,1,1
 Affognon Thierry AHOVE	17584
+Affoh	19284
 Affoires	15397
-Affordability	395,1,544,1000,1516,148,591,157,2241,115,2019,280,96,42,4,307,303,165,565,355,88,72,28,104,126,301,9,285,45,1,61,30,12,230,42,55,52,4,10,137,16,105,9,9,246,391,2,30,1277,53,205,49,36,59,448,1270,142,1,2,80,273,631,253,331,179,144,18
+Affordability	395,1,544,1000,1516,148,591,157,2241,115,2019,280,96,42,4,307,303,165,565,355,88,72,28,104,126,301,9,285,45,1,61,30,12,230,42,55,52,4,10,137,16,105,9,9,246,391,2,30,1277,53,205,49,36,59,448,1270,142,1,2,80,273,631,253,331,179,144,18,450
 Affordability Affordability	11964
 Affordability Bangladesh Affordability	11964
 Affordability Broadband	17239
@@ -383,7 +388,7 @@ African Journal of Public Affairs	4432
 African Union Commission for Youth Affairs	16275
 African Union. Alliance for Affordable Internet	13314,2179
 Afrique Centrale DAJR Département des Affaires Juridiques	11944
-Afrique du Droit des Affaires	10829,7,139,547,27,3823,146,117,23,1,2,136,224,307,614,1040,21,103,195,586,18
+Afrique du Droit des Affaires	10829,7,139,547,27,3823,146,117,23,1,2,136,224,307,614,1040,21,103,195,586,18,304,3
 Afrique du Droit des Affaires ONG Organisation Non	10876
 Afrique du Droit des Affaires Ordre	15352
 Afrique du Droit des Affokes	15397
@@ -451,6 +456,7 @@ Booklet of AI Use Religious Affairs	4126
 Branches Affilié Non	10875
 Bring Affordable	11310
 Broadband Affordability	17239,1246
+Broadband Affordability Dynamics	19245
 Broadband Affordability Roadmap. Affordability	17239
 Broadband Services Affordability Broadband	11857
 Budget and Finance Affairs Standing Committee	7091
@@ -1000,6 +1006,7 @@ Former Deputy Minister for External Affairs	17241
 Former Foreign Affairs and International Cooperation	18741
 Former Minister of Justice and Constitutional Affairs	10018
 Founding Affidavit	13493
+French Minister for Europe and Foreign Affairs Jean-Noël	19319
 French Ministry for Europe and Foreign Affairs	10275
 Frictionless Affordable Safe Timely Transactions	10977
 Further Affidavit	18154
@@ -1195,6 +1202,7 @@ INSTITUTIONAL AFFILIATION	2709
 INTERNET AFFORDABILITY ANALYSIS	11262
 INVESTIGATION INTO AFFAIRS OF COMPANY	3714
 INVESTIGATION INTO AFFAIRS OF COMPANY Inspection	3714
+ISSA Affo ADC	19251
 ITU Affordability	10844,7279
 ITU Affordability Despite	18123
 Identity Card and Affidavit	14880
@@ -1337,6 +1345,7 @@ Local Government Affairs	11129
 Lower Taxes and More Affordable Devices	8241
 Luca DELLA ROCCA Ministère des Affaires Foncières	15426
 L’INSPECTION DES AFFAIRES SOCIALES Général	18032
+M. Affo OGNIBO	19209
 MAEC Ministère des Affaires	10712
 MAIEO Ministère des Affaires Islamiques	17885
 MAIN FACTORS AFFECTING CEREAL PRODUCTION	15118
@@ -1394,7 +1403,7 @@ Malawi's Ministry of Finance and Economic Affairs	12197
 Malawian Minister of Foreign Affairs	12983
 Malnutrition Affections	15599
 Marc Weinstock CHARGE D' AFFAIRES	4247
-Mawulikplimi Affognon	17352
+Mawulikplimi Affognon	17352,1924
 Mbadinga Madiya and Deputy Minister of Foreign Affairs	16285
 Meeting of Ministers of Foreign Affairs	13673
 Meetings Minister of State for External Affairs	17241
@@ -1696,12 +1705,12 @@ Ministry of Youth and Gender Affairs	12613,13,16
 Ministry of Youth and Gender Affairs Overview	12642
 Ministère Affaires Etrangères Communauté Nationale Affaires	15948
 Ministère Délégué Chargé des Affaires Générales	17448
-Ministère des Affaires	2366,2769,2198,1558,3025,1425,101,2197,10,316,1483,379,72,83,187,141,36
+Ministère des Affaires	2366,2769,2198,1558,3025,1425,101,2197,10,316,1483,379,72,83,187,141,36,875
 Ministère des Affaires DECRET N	17982
 Ministère des Affaires Economiques	17844,5,238
 Ministère des Affaires Etran	18926
 Ministère des Affaires Etrangère	15349
-Ministère des Affaires Etrangères	1302,1506,237,351,1707,5718,1422,1162,1944,112,13,283,179,387,304,14,3,1215,87,347
+Ministère des Affaires Etrangères	1302,1506,237,351,1707,5718,1422,1162,1944,112,13,283,179,387,304,14,3,1215,87,347,928
 Ministère des Affaires Etrangères SIGAC	15936
 Ministère des Affaires Etrangères. Il	15461
 Ministère des Affaires Foncières	15426
@@ -2147,6 +2156,7 @@ VFS Reports DEPARTMENT OF HOME AFFAIRS	11986
 VOTERS' REGISTER The Minister of Home Affairs	13538
 Veteran Affairs System	12448
 Vice Chairman for Culture and Traditional Affairs	16970
+Vice Minister of Communications and Digital Affairs	19298
 Vice President of Public Affairs and Communications	12187
 Vice Prime Minister and Minister of Foreign Affairs	16277
 Vice-Minister for International Affairs	18349

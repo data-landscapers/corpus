@@ -21,8 +21,9 @@ Climate Hazards Group Infrared Precipitation	12611
 Climate Precision	14566
 Component Climate Hazards Group InfraRed Precipitation	10763
 Condition Precedent	13938
-Conditions Precedent	13938,1461,820
+Conditions Precedent	13938,1461,820,2995
 Conditions Precedent Harare	4896
+Conditions Precedent. MCC	19214
 Couleur Naturelle Améliorée RVB Taux de Precipitation	18203
 Cumulative Monthly Precipitation	17909
 D.G. CONTROL DE PRECIOS Y PROTEC	4209
@@ -121,11 +122,12 @@ Precious Lunga	562
 Precious Metals	13685
 Precious Ugwuzor	11041
 Precipitaciones	16898,71
-Precipitation	9123,1640,1851,309,827,3197,210
+Precipitation	9123,1640,1851,309,827,3197,210,2127
 Precipitation Anomaly	11762,1988
 Precipitation Estimation	12957
 Precipitation Indicators	11762,1988
 Precipitation Measurement and Analysis	16135
+Precipitation NASA	19237
 Precipitation Rate	14256
 Precipitation Temperatura	18757
 Precipitation and Meteorological	17157

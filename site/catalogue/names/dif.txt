@@ -202,9 +202,9 @@ Diffie-Hellman DSS	18774
 Diffie-Hellman RSA	18774
 Diffserv	18774
 Diffused	8283
-Diffuser	10876,3549,15,140,1132,136,1235,741,21,27,10,289,131,22
+Diffuser	10876,3549,15,140,1132,136,1235,741,21,27,10,289,131,22,902,110
 Diffuser la Politique	17882
-Diffusion	2625,332,4002,1040,22,84,566,137,321,1745,2,99,605,1710,13,31,385,62,481,157,19,1,98,559,333,50,6,110,78,39,34,102,88,680,5,87,14,161,563,382,13,1,3,11,14,76,23,174,26,1,1,120
+Diffusion	2625,332,4002,1040,22,84,566,137,321,1745,2,99,605,1710,13,31,385,62,481,157,19,1,98,559,333,50,6,110,78,39,34,102,88,680,5,87,14,161,563,382,13,1,3,11,14,76,23,174,26,1,1,120,922,13
 Diffusion Concertation	17842
 Diffusion FAIBLESSES FORCES Absence	18291
 Diffusion Industrielle Automobile	17817
@@ -228,11 +228,11 @@ Différemment	8515
 Différence	13300,133,4052
 Différence Normalisée	17001,1303
 Différences	16328
-Différend	15429,2893
+Différend	15429,2893,952
 Différends	13524,1905
 Différente	747
 Différentes	13300,90,2325,613,1554
-Différents	1984,3070,9371,436,1075,1512,655
+Différents	1984,3070,9371,436,1075,1512,655,1118
 Différé	13300,2601
 Dificuldade	10772,624,173,3876,90,149,3079
 Dificuldades	10760,17,6,778,332,3801,3108
@@ -395,6 +395,7 @@ Summary of Differences and Rationale for Changes	3502
 Système Général de Diffusion des Don	15479
 Système Général de Diffusion des Données	3024,7850
 Système Général de Diffusion des Données SE	18291
+TRAITEMENT DE DIFFERENDS ET MISE EN	19295
 Tanzânia. Diferentemente	6798
 Technologies Stress Grids Differently	4906
 Technology Acceptance Model and Diffusion of Innovation	8671

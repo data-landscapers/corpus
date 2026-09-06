@@ -11,6 +11,7 @@ African Banking Assets of GDP	6938
 African Chapter of GDF	12048
 African Financial Institution Assets of GDP	6938
 African GDP	1814
+African GDPR	19259
 African Non-Banking Assets of GDP	6938
 African Real GDP	6938
 African Stock Market Capitalization of GDP	6938
@@ -341,7 +342,7 @@ GDP of Eswatini	13052
 GDP of Germany	999
 GDP of Ghana	236
 GDP of Sub-Saharan Africa	2775,8420
-GDP of US	1264,9555,6192
+GDP of US	1264,9555,6192,2228
 GDP of USD	14043
 GDP of Zimbabwe	9396
 GDP--ten	10985
@@ -535,9 +536,11 @@ GSMA-projected GDP	1400
 Gabon’s GDP	15511
 GdD. D’une	747
 GdD. En	747
+GdG Golfe de Guinée GIZ Deutsche Gesellschaft	19220
 GdG Gouvernement	16626
 GdG. D’après	16626
 GdSTP	18779
+GdT-CEB	19241
 GdanG51lU4Q&t	4447
 GdeedfsaeeeiimNcgcsrm	15694
 Gdyel. Wilaya de Tipaza	15732
@@ -550,6 +553,7 @@ Generative Artificial Intelligence GDPR General Data	14790
 Ghana’s GDP	789,3337
 Ghana’s GDP. Ghana	4126
 Global Basic Observing Network GDP	18309
+Global Challenge Program GDP Gross Domestic	19245
 Global Competitiveness Index GDP Gross Domestic	15491
 Global Economic Developments Global GDP Growth	11131,3
 Global GDP Uplift	15713
@@ -651,6 +655,7 @@ Percentage of GDP	14896,515,3414
 Percentages GDP	18483
 Person GDP Gross Domestic Product GDPR	12663
 Person GDP Gross Domestic Product GEI	16876
+Present Value GDP Gross Domestic Product	19239
 Press. GDP	18483
 Prices GDP	18483
 Private Sector GDP	958

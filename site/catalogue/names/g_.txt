@@ -109,6 +109,7 @@ E-Santé Centre Hospitalier Universitaire du Point G	17882
 E. G	5349
 ENT G	11178
 ENVIRONMENTAL STATISTICS Table G	11250
+ESSOKAM G. Mèlèbou SCH	19251
 East African Communications Organisation G GB	14879
 Ebrima G. Sankareh Government Spokesperson	12085
 Economic Community of West African States G	16872
@@ -246,6 +247,8 @@ G Frameworks and Cyber Security Capacity	721
 G Frameworks and Cybersecurity Capacity	721
 G G Low	6936
 G GLOBAL SYSTEM FOR MOBILE COMMUNICATIONS	14879
+G GN	19251
+G GN SERVICE DE SANTE DES	19251
 G GROSSESSES	13300
 G General Public Services	13093
 G Gezira	14897
@@ -276,8 +279,10 @@ G JAUNISSE	13300
 G Key	1885
 G L'essor	16701
 G LE NOM DE L'ENDROIT. AUTRE	13300
-G LTE	18,71,176,298,155,1185,1761,198,697,269,2484,954,548,830,10,2203,538,141,2193,51,42,3,655,1495
+G LTE	18,71,176,298,155,1185,1761,198,697,269,2484,954,548,830,10,2203,538,141,2193,51,42,3,655,1495,2257
 G LTE Advanced	3487
+G LTE CPE	19232
+G LTE Client VPN PPTP	19232
 G LTE-TDD	16942
 G LTE. Thirty	718
 G La Banque	13467
@@ -299,6 +304,7 @@ G Mobile	4150,7707,3311,2071
 G Mobile Coverage	16876
 G Mobile Services	14822,2061,1,1
 G Money	15600
+G Moov Africa Togo	19338
 G Moroccan	2673
 G Much	5675
 G MÉDECIN	13300
@@ -308,6 +314,7 @@ G NR	14780,45
 G NR ETSI EN	14780,45
 G NSA	8828
 G NTN	5528,11283
+G Nano SIM	19232
 G National Broadband Strategy	16884
 G National Software Development Guideline Title	5665
 G Nchini	6019
@@ -416,6 +423,7 @@ G Strategy Execution	15713
 G Stratégie Nationale	15624
 G Stratégique	17860
 G Subscriptions	3862
+G Surfez	19232
 G T H E N	11586
 G TCL	5978
 G TELCOMS LIMITED Data Processor INST-296014BF144	7167
@@ -451,6 +459,7 @@ G W Hydro Wind Solar	12233
 G WDM	2446
 G WL	15608
 G Y A N D L	15478
+G YAS Togo	19338
 G ZR	16545
 G and AI	6242
 G and CDMA	18444
@@ -565,6 +574,7 @@ G. Funding	17018
 G. G. COMPLAINT	14753
 G. Ganpurev	11140
 G. Gedeh	16853,68
+G. Gender	19284
 G. Goggin	11028
 G. Goggin and P. Iosifidis	11028
 G. González	11140
@@ -581,6 +591,7 @@ G. Increased	12333
 G. Instead	9560
 G. International Collaboration	14819
 G. Interpretation	14717
+G. J. Gbaguidi	19284
 G. Jlopleh Miatta Oberly Kuteh OFFICER-IN-CHARGE	17235
 G. Job Expo The Job and Entrepreneurial	12977
 G. K	8604,3402
@@ -673,6 +684,7 @@ G. UPDATED INTERNATIONAL STANDARDS	15027
 G. Un	2400
 G. Under	8127,321
 G. Uña	11140
+G. Voici	19232
 G. Voss	5700
 G. W	2518,14340
 G. WITHDRAWN STANDARDS	15027
@@ -754,7 +766,9 @@ M. G	8603,9177
 M. G. Melina	11140
 M. G. Morris	5349
 M. Michael G. Colemere	1876
+MILOGA B. G. Midakena SCH	19251
 MOTHIBI G. RAMUSI CHAIRPERSON DATE	4732
+Madame HOUZOU-MOUZOU Prénam G	19260
 Maheba G Primary School	1867
 Manzini. G. Monitoring and Evaluation The Deputy	12977
 Martine G. Mtonga	13308
@@ -880,6 +894,7 @@ Tadesse G	14123
 Taux Brut de Scolarisation Garçons Filles G	10847
 Taux Net de Scolarisation Garçons Filles G	10847
 Torsvik G	771
+Tourisme Dr. Kossi G. LAMADOKOU	19235
 U A L R E G	10775
 U TWY G	16552
 UTUR' AFFAIRS CARD In Fi G	15999

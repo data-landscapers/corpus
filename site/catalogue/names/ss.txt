@@ -1,4 +1,5 @@
 AAP2023 SSA Regional MIP	1456
+ACTES SS PRIVES	19286
 ACTION SS Publication Information Published	6936
 ACTIVITES DU SSN Conseil	18926
 AFOM du SSN	17844
@@ -196,6 +197,7 @@ III. SYNTHESE DU DIAGNOSTIC DU SSN	18291
 INS SSS SSN Total Femme Homme	18169
 IOMIT's SSR Medical College	14775
 ISOC SSC	18667
+IV.2 ETAT DES LIEUX DU SSN	19216
 IV.2.4. Capacités du SSN	17844
 Imagery SSET High	17140
 Improve SSELGS	11131
@@ -229,7 +231,7 @@ La SSPP Le Soleil	2442
 La SSS	16195
 Landlocked SSA Connectivity	837
 Le SSE	13306
-Le SSN	13303,2176,101,2262
+Le SSN	13303,2176,101,2262,1374
 Le SSN du Mali	17842
 Les SSS	18169
 L’hétérogénéité du SSN	18291
@@ -402,6 +404,7 @@ SS F END	17127
 SS F START	17127
 SS G END	17127
 SS G START	17127
+SS GROUPEMENT DE SECURITE PRESIDENTIELLE	19251
 SS Head Of Government Ministry of Digital	1885
 SS I END	17127
 SS IC Syllabus Gr12 Final February 2019.pdf	288
@@ -414,6 +417,7 @@ SS Payet	7911
 SS SEA Referral Decision Tree Flowchart	18665
 SS Tracking	9304
 SS&author	2096
+SS&codeGrade	19366
 SS-CIRT	18649,18
 SS-DS	17845
 SS-DS-PF	17845,37,195
@@ -471,6 +475,7 @@ SSA Sub-Saharan Africa STEP Systematic Tracking	11380
 SSA Sub-Saharan Africa TOR Terms of Reference	18293
 SSA Sub-Saharan Africa USAID United States	12006
 SSA Sub-Saharan Africa USD US	10861
+SSA Sub-Saharan African STEM Science	19245
 SSA Telecoms Expansion	817
 SSA US African Development Foundation	530
 SSA and CEMAC	1828
@@ -631,6 +636,7 @@ SSN Afin	15580
 SSN Au	18169
 SSN Bamako Collecte	18077
 SSN Cadre	18291
+SSN Ce	19216
 SSN Compte	18291
 SSN Disponibilité	18291
 SSN Défaut	18291
@@ -670,7 +676,7 @@ SSN SSNP STEP THIMO UNDP CURRENCY	15601
 SSN Social Safety Net SSP Social	15663
 SSN Statistiques	17842
 SSN Stratégie	13689,1891
-SSN Système	15961,659,1671
+SSN Système	15961,659,1671,925
 SSN Systèmes Statistiques Nationaux UGP Unités	16104
 SSN TPPE UNSDCF UPA UPSE VBG	17978
 SSN Tableau	15479
@@ -687,25 +693,28 @@ SSN du Mali. KHI-DEUX N	18077
 SSN du Rapport	18291
 SSN du SSN	18291
 SSN du Sénégal	18291
-SSN. Ainsi	15580,2262
+SSN. Ainsi	15580,2262,1374
 SSN. Août	16620
 SSN. Article	13334
 SSN. Au	17842,327
 SSN. Avec	17945
 SSN. Ce	17842,327
+SSN. Ceci	19216
 SSN. Cependant	17945
 SSN. Certaines	10874
-SSN. Ces	17842,327
+SSN. Ces	17842,327,1047
+SSN. Cet	19216
 SSN. Cette	15961,1881,327
 SSN. Chacune	15961
 SSN. Chaque	15580
 SSN. Concernant	16620
 SSN. Créé	18077
 SSN. C’est	18291
+SSN. Dans	19216
 SSN. Des	18077,214
 SSN. D’après	15961
 SSN. Elle	17828,16
-SSN. En	15580,2250,12,104
+SSN. En	15580,2250,12,104,1270,129
 SSN. Further	15663
 SSN. Graphique	18077
 SSN. III.5. ANALYSE DE LA DIFFUSION	18291
@@ -720,16 +729,18 @@ SSN. L’ampleur	18291
 SSN. L’axe	15580
 SSN. L’enquête	18291
 SSN. L’objectif	17842
+SSN. L’opérationnalisation du CNS	19216
 SSN. L’élaboration	18291
 SSN. L’état	15580
 SSN. L’évaluation	17842
+SSN. Mais	19216
 SSN. Objectif	17842
 SSN. Plus	15819
-SSN. Pour	18169,122
+SSN. Pour	18169,122,925,134
 SSN. REVUE METHODIQUE DU DOCUMENT Afin	16417
 SSN. Sikasso	18077
 SSN. Targeting	15663
-SSN. Une	15961,2330
+SSN. Une	15961,2330,925
 SSNAP-II	3583
 SSNBS	18710
 SSNBS South Sudan National Bureau of Statistics	18624
@@ -741,6 +752,7 @@ SSNP Project Appraisal Document	15601
 SSNP Project Implementation Unit	10963,1
 SSNP. Throughout	15601
 SSNP’s GBV	15601
+SSO Effets	19360
 SSO SIS	15164
 SSO Saúde	11413
 SSO Single Sign-On ToR Terms of Reference	15164
@@ -764,6 +776,7 @@ SSP.504	13461
 SSP1-1.9	18578
 SSP1-2.6	17157
 SSP2-4.5	17157
+SSP3-7.0	19284
 SSP5-8.5	17157,1421
 SSPDF	2685,2,359,86,80,96,15,119,65,76,514,447,96,374,93,240,81,578
 SSPDF. R8513354	3583
@@ -948,6 +961,7 @@ Unconditional Cash Transfers Support SSN Targeting	15663
 Under SSNP	10963
 Under the SSF’s Basic Pension Benefit	16902
 Under the SSNP	10964
+Under the SSP3-7.0	19284
 Under the SSRLP	12181
 United Nations-led SSE	8093
 Upgrade of Rukarara SS	12358

@@ -1,6 +1,7 @@
 AASA and IATA. Dateline Nairobi	10723
 ACC-153-01-056-25 DATE	7206
 ADDITIONAL FINANCING Date	11924,3500,177,62,68,705,1413,13,100,863
+AF Effective Date	19284
 AF. Date	15601
 AFD Date	18346
 AFRICA EAST. Estimated Appraisal Date	761
@@ -15,6 +16,7 @@ APPLICATION DETAILS Date of Application Name of Originator	12364
 ARTICLE XII EFFECTIVE DATE	13031
 ASSEMBLED. Date	18541
 ASSOCIATION CONGO- Date	16100
+ATD Due Date	19242
 Abidjan. Date	2342
 Abuja. Date	18162
 Abéché Date	2448
@@ -34,6 +36,7 @@ Actual Date Concept Review	11924,6038,863
 Actual No. Date ISR Archived	15663
 Actual Process Date Process Original Date	18754
 Added Date	13575,5289
+Additional Financing Implementation Start Date Operation	19284
 Address Date	12591
 Address Issue Parties Involved Date Investigation	17099
 Adoni Conrad Quenum Date	4181,2712,1203
@@ -54,7 +57,7 @@ Appraisal Date	16654
 Appraisal Stage Date Prepared	14954
 Appraisal Stage. Date Prepared	761,13032
 Approval Date	4653,7312,255,454,1060,163,141,933,12,710,89
-Approval Date Closing Date	18809
+Approval Date Closing Date	18809,475
 Approval Date Investment Project Financing IBRD	16896
 Approval Date Investment Project IBRD	1284,15638
 Approval Date Practice Area	1704
@@ -66,6 +69,7 @@ Approved Restructuring Date	18754
 ApprovingOffice Approved Date	736
 Apr-2018. Closing Date	13850
 Apr-2023 Actual Mid-Term Review Date	16638
+Apr-2026 Projected Date for Full Disbursement	19284
 Arrangement Loan Closing Date Extension Loan	4653
 Arrangements Additional Financing Loan Closing Date	11924
 Assignation PERMISSIONNAIRE REFERENCE DECISION DATE	998
@@ -138,7 +142,7 @@ COMMENCEMENT DATES AND EFFECTIVE PERIODS	3861
 COMMUNICATION DIRECTORATE Press Release No. Date	17922
 COMPANY OF FINAN CIAL SOUNDNESS Date	12374
 COMPLEMENTED TO DATE TABLE OF CONTENTS	14862
-COMPLETION DATE	16854
+COMPLETION DATE	16854,2360
 CONTACT INFORMATION Date	34
 COPIEZ LA DATE DE NAISSANCE	13300
 COPIEZ LES DATES DU CARNET	13300
@@ -159,7 +163,7 @@ Central African Republic. Approval Date	16398
 Change Date	9892,1
 Classification Expiration Date	1284,15638
 Clients Additional Financing Loan Closing Date	11924
-Closing Date	1179,1294,3832,2421,2053,2252,6,838,1013,24,59,12,207,1029,717,24,1534,1,140
+Closing Date	1179,1294,3832,2421,2053,2252,6,838,1013,24,59,12,207,1029,717,24,1534,1,140,649
 Closing Date CKS	11269
 Closing Date Extension Components Results Legal	11924
 Closing Date Extension Financial Management Procurement	15731
@@ -181,10 +185,14 @@ Commencement Dates and Effective Periods	3861
 Comment Signature Date and Time	12364
 Comoros Date	4868
 Comoros. Estimated Approval Date	13793
-Completion Date	1988,2908,9850,2368
+Completion Date	1988,2908,9850,2368,2100
 Completion Date District Council of Flacq Construction	14746
 Completion Date FM Conditions Accounting	10829
 Completion Date Financing Allocated	15663
+Completion Date. Accordingly	19214
+Completion Date. Section	19214
+Completion Date. Unless the Parties	19214
+Completion Date. Upon MCC	19214
 Computer Specifications DATE QUANTITY	34
 Concept Stage Date Prepared	14015,1082
 Conformité Référence F DGR 100867 Date	16395
@@ -295,11 +303,12 @@ DE DATE D’EXAMEN DOCUMENTAIRE Révision ISO	16103
 DE DATE D’EXAMEN N	16103
 DE LA LETTRE OBJET DATE	998
 DES GARANTIES Date	7977
+DES POSTES EN DATE	19218
 DEVELOPMENT DATE	11261
 DGCL Due Date	17505
 DI Date	16395
 DIRECTOR GENERAL HEALTH DATE	1009
-DISBURSEMENTS Operation Dates	2473,2180,13706
+DISBURSEMENTS Operation Dates	2473,2180,13706,925
 DOCUMENT AFRICA TWICT Date	15372
 DOCUMENT APPROVAL Date	14441
 DOCUMENT HISTORY Version Revision Date Revision	14441
@@ -335,6 +344,7 @@ Date D'arrêté	18032
 Date DA M Vessel	18985
 Date Daily VWAP	4896
 Date Date	13185
+Date Date Date Prophylaxie	19226
 Date Date Situation	10975
 Date Dear Siç	15399
 Date Demandée de Versement	15901
@@ -344,6 +354,7 @@ Date Deposited	10878
 Date District Lalangiana	14425
 Date Due Agreement Reference Description of Condition	15372
 Date Due Funding Target Responsible Supporting	1988
+Date Délai Mode Chlorexidine Date	19226
 Date End Date	2477
 Date End Date Number of Days	14754
 Date Enregistrement	14425
@@ -367,11 +378,14 @@ Date Item	13185
 Date Limite	16681
 Date Limite de Remboursement	15399
 Date Limite de Soumission	16438
+Date Lot N	19226
 Date MHz Mobile Station MHz	736
 Date Mar	6579
 Date Mardi	18407
 Date Milestone	14671
+Date N	19226
 Date Name	12693
+Date Nom	19226
 Date Nombre	15943
 Date Numéro	1984
 Date Outlet	5687
@@ -386,6 +400,7 @@ Date Practice Area	13111,2402,37,1104
 Date Prepared	980,16,708,587,1165,7507,1706,163,279,412,264,50,716,23,937,1,36,743,361,1,20,1781,477
 Date Price ZWG USD Equivalent Premium	4896
 Date Project	11869
+Date Prénom Age Sexe AE	19226
 Date Received Time Received Subscriber’s BOZ	12364
 Date Result Month	16032
 Date Signature Summary Form	14713
@@ -404,6 +419,7 @@ Date That Changes Behaviour	10424
 Date Time Draft Regulations	15261
 Date Time Received Received Subscriber’s BOZ	12364
 Date Title	12693
+Date Traitement Respect de Suivi	19226
 Date UNHCR	13938
 Date Updated	8831
 Date Value Date	16079,915,964
@@ -421,9 +437,11 @@ Date de Remboursement Anticipé	15901
 Date de Remboursement Anticipé. La NotiÞcation	15901
 Date de Remboursement du Principal	15399
 Date de Remboursement du Principnl	15399
+Date de Transfert	19226
 Date de Versement	15901
 Date de Versement Prévue	15901
 Date de Versement Prévue. Le TEG	15901
+Date des Dernières Règles DHIS2	19226
 Date of Adjustment	13185
 Date of Application	12364
 Date of Assent	2726,1,1160,8637,7,1,3,11,3,13,67,1,669,6,13,3,1,17,11,1,1,19,32,93,1,987
@@ -440,7 +458,7 @@ Date of Commencement Act No	18434
 Date of Completion	1778
 Date of Consultations Venue	16926
 Date of Deed	14713
-Date of Entry	16219
+Date of Entry	16219,2995
 Date of First Reading	11247
 Date of Gazette	11,576
 Date of Hearing	2307
@@ -474,7 +492,7 @@ Datenschutz	11316
 Datenschutzbehörde	8436
 Datenschutzbehörde and CRIF	8436
 Datenzentrum	902
-Dates	220,218,298,455,3,44,124,231,184,141,66,9,965,13,724,523,349,3254,740,21,546,1,108,1639,310,16,1,1,1,1,1,1,85,2,1895,58,441,110,31,140,918,356,525,132,153,620,78,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,193,139,36,387,311,285,219,57,487
+Dates	220,218,298,455,3,44,124,231,184,141,66,9,965,13,724,523,349,3254,740,21,546,1,108,1639,310,16,1,1,1,1,1,1,85,2,1895,58,441,110,31,140,918,356,525,132,153,620,78,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,193,139,36,387,311,285,219,57,487,367
 Dates Article	15393
 Dates Entry	16839
 Dates Project	14888
@@ -530,7 +548,7 @@ Earliest Delivery Date	13185
 Eastern and Southern Africa. Estimated Appraisal Date	13793
 Econet InfraCo. Record Date for Econet Shareholders	4896
 EdTech Fellowship. Date	16779
-Effective Date	762,502,20,583,1695,42,1292,1643,4229,61,135,453,108,35,345,60,181,301,127,393,364,131,506,145,534,263,2,64,173,153,70,181,68,37,1,2,82,158,243,689,2,7,9,71,2,12,13,509,12,634,783
+Effective Date	762,502,20,583,1695,42,1292,1643,4229,61,135,453,108,35,345,60,181,301,127,393,364,131,506,145,534,263,2,64,173,153,70,181,68,37,1,2,82,158,243,689,2,7,9,71,2,12,13,509,12,634,783,352,6,39
 Effective Date CFA	15372
 Effective Date Section	16840
 Effective Date This Act	16835
@@ -577,8 +595,8 @@ Ethiopia Date	14035
 Ethiopia. Date	9031
 Event Date	12618
 Expected Approval Date	1584,668,1310,7270,1133,423,2522,26,1,253,363,105,124,616
-Expected Approval Date Expected Closing Date	1867,1737,7164,61,135,453,143,295,50,1426,1,2289,40,483,2054
-Expected Approval Date Review Type	18809
+Expected Approval Date Expected Closing Date	1867,1737,7164,61,135,453,143,295,50,1426,1,2289,40,483,2054,1047
+Expected Approval Date Review Type	18809,475
 Expected Closing Date	2252,8580,1556,2522
 Expected Completion Date	16308
 Expected Decision Date Decision Outcome	16926
@@ -605,6 +623,7 @@ Feb-2027 Projected Date for Full Disbursement	2473
 Federal Republic of Approval Date	15190
 Federal Republic of Somalia Signature and Date	15066
 Fees and Regulations. PART XIII. OPERATIONAL DATE	16832
+Fermé Issue Date	19253
 Filing Date	12389,2286
 Final Repayment Date	15399
 Final Repaymetrt Date	15399
@@ -637,6 +656,7 @@ H30 Date	13635
 HAS A DATED FIGURE FOR FY2024	1251
 HEALTH DATE	1009
 HT DATE	17833
+HepB Naissance BCG Date	19226
 High ISR RATINGS No. Date ISR	15731
 High-level Policy Dialogue. Date	5328
 Hospital Manager Date	8603
@@ -724,7 +744,7 @@ KEY DATES Jun	6579
 KEY DATES Key Events	13058,2101,2974
 KEY DATES Key Events Approval Planned	18792
 KEY DATES Key Events Jun	6928
-KEY DATES Key Events Planned Actual	2712,1976,6182,1358,39,3468,278,692,295,96,374,35,399,54,48,348,1,462
+KEY DATES Key Events Planned Actual	2712,1976,6182,1358,39,3468,278,692,295,96,374,35,399,54,48,348,1,462,425,7
 KEY DATES Key Events Planned Date	11924,6038,863
 KEY DATES Key Revisions Key Events	16436
 KEY DATES Page	11971,469,3639,915,85
@@ -733,7 +753,7 @@ KEZA Faith Non-Executive Director Date of Appointment	15023
 KINGDOM OF ESWATINI Date	12930
 KNPHI LIMS Tender Closing Date	7988
 Kenneth Sackey. Dateline	5932
-Key Dates	2712,1976,1891,254,95,949,2993,525,576,257,39,173,163,121,334,2101,460,116,2,276,66,559,67,289,6,79,17,374,35,399,54,48,127,217,4,1,118,61,258,25,165,101
+Key Dates	2712,1976,1891,254,95,949,2993,525,576,257,39,173,163,121,334,2101,460,116,2,276,66,559,67,289,6,79,17,374,35,399,54,48,127,217,4,1,118,61,258,25,165,101,159,7
 Key Dates Approval	14948
 Key Dates Guarantee Key Dates Approval	15905
 Key Events Planned Date Actual Date	15731
@@ -761,7 +781,7 @@ Lab Published Date	14999
 Lafigué. Date	2342
 Laptop Computer Specifications DATE QUANTITY	34
 Last Date	4896
-Last Finalized Date	11965,3173
+Last Finalized Date	11965,3173,4146
 Last Practicable Date	4896
 Latest Internal Risk Rating Date	15905
 Launch Date	12572
@@ -770,13 +790,14 @@ Legislation Date	13949
 Lender Date of Payment	15399
 Liberia Date	16848,5
 Lieu Date Ouagadou-	18077
+Lieu de Date	19226
 Likouala. Date	16367
 Line Description of Goods Delivery Date Quantity	13185
 Link CLOSING DATE	11240
 Links Title Publisher Country Publication Date	16830
 Listing Date	4896
 Loan Closing Date	1228,56,14317,62,1233,26,927,13
-Loan Closing Date Extension	2473,9451,41,1896,4101,863
+Loan Closing Date Extension	2473,9451,41,1896,4101,863,459
 Loan Closing Date Extension Loan Cancellations	16032
 Loan Closing Date Extension No Components	15969
 Loan Number Date	14132
@@ -825,6 +846,7 @@ Ministry of Finance and Budget Key Dates Key	15619
 Ministry of Finance and Development Planning Date	17180
 Mission Date	14087,4995
 Mlauzi Legal Solutions Date	13040
+Mode Statut Débuté Débuté Date Parité	19226
 Moderate Date PID Prepared	13523
 Mogadishu Date	15009
 Monrovia Start Date	17255
@@ -987,7 +1009,7 @@ Progress. Date	13858
 Project Closing Date	11863,2075,142,931
 Project Cost KEY DATES Effectiveness	15424
 Project Dates Bank Approval Date	15619,1019,1835
-Project Effective Date	15661,483
+Project Effective Date	15661,483,3095,45
 Project Effective Date. Liberia	16144
 Project Effective Date. WAEMU	16144
 Project Estimated Appraisal Date	16293
@@ -1227,7 +1249,7 @@ X DATE	3972
 X Date	17841
 X. RÉTROPLANNING ETAPES Date	13635
 Year Result Date Result Date Result	4653,11316,63,155,2172
-Year Value Date Value Date	2712,5165,2993,525,576,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179,258,25
+Year Value Date Value Date	2712,5165,2993,525,576,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179,258,25,425,7
 Year Value Date Value Month	4688,13216
 ZIPSS SYSTEM Designation Comment Signature Date	12364
 ZRCP Date	1988

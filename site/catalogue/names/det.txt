@@ -190,7 +190,7 @@ DETAILS OF THE STRATEGIC OBJECTIVES	16884,1
 DETAILS REGARDING PRINCIPAL PROPERTIES OCCUPIED	4896
 DETAILS REGARDING PRINCIPAL PROPERTIES OCCUPIED PROPERTY	4896
 DETAILS World Bank Group Financing	13787,2867
-DETAILS World Bank Group Financing International	1704,163,424,1271,7206,792,1551,904,1646,82,932
+DETAILS World Bank Group Financing International	1704,163,424,1271,7206,792,1551,904,1646,82,932,2570
 DETAILS-NewFinEnh1	13331
 DETAILS-NewFinEnh1 World Bank Group Financing International	10829
 DETALINE VENTURES LIMITED Data Controller INST-3300515AFB2	7167
@@ -275,7 +275,7 @@ DetailFreeIncluded	10848
 DetailFreeIncludedOrderOfMagnitude	10848
 DetailFreeSubscriberCount	10848
 DetailOrderOfMagnitude	10848
-Detailed	236,500,476,45,7,20,540,43,121,721,969,220,74,242,87,48,17,310,437,552,470,697,242,464,763,596,226,75,990,59,467,7,130,5,74,87,113,94,125,50,2,171,291,61,28,43,293,40,9,19,2,16,15,11,13,32,55,44,30,457,154,146,14,2,45,3,84,459,7,511,109,347,46,39,59,24,10,39,1,242,39,62,38,111,39,52,256,390,241,243,5,5,97,61,8,95,2,24,9,111,245,238,119,1069
+Detailed	236,500,476,45,7,20,540,43,121,721,969,220,74,242,87,48,17,310,437,552,470,697,242,464,763,596,226,75,990,59,467,7,130,5,74,87,113,94,125,50,2,171,291,61,28,43,293,40,9,19,2,16,15,11,13,32,55,44,30,457,154,146,14,2,45,3,84,459,7,511,109,347,46,39,59,24,10,39,1,242,39,62,38,111,39,52,256,390,241,243,5,5,97,61,8,95,2,24,9,111,245,238,119,1069,314,39
 Detailed Action Table	17116
 Detailed Analysis	236
 Detailed Analysis Article	17745
@@ -292,6 +292,10 @@ Detailed Data Storage Location Inventory	6432
 Detailed Design	12358
 Detailed Evaluation	13185
 Detailed Evaluation of Technical Part	15080
+Detailed FM	19245
+Detailed Financial Plan	19214
+Detailed Financial Plan. The Government	19214
+Detailed Financial Plan. Unless MCC	19214
 Detailed Findings	7869,7701
 Detailed Gescmotice	3972
 Detailed Guidelines	16212
@@ -417,6 +421,7 @@ Determinantes	18768
 Determinantes de Saúde	11543
 Determinants	7886,135,1107,532,1,299,816,188,231,76,3852,1852
 Determinants Of Implementation Of The Digital	899
+Determinants of Choices and Its Impact	19284
 Determinants of Health	13982
 Determinants of Health Addressed	10776
 Determinants of Informality	13624
@@ -449,7 +454,7 @@ Determined Contribution NDP National Development Plan	10768
 Determined ContributionVĕ	15604
 Determined Contributions NDP National Development Plan	11380
 Determined Contributions PPSD Optic Fiber	16144
-Determines	10822
+Determines	10822,8415
 Determining	236,337,202,1321,4850,2772,1515,52,577,391,74,2409,508,1623,18,31,241,961,252
 Determining Fairness	7198
 Determining Penalties	17249
@@ -464,9 +469,10 @@ Deterrence and Self-Enforcement	12948,5370
 Deterrent	14932
 Detetar	11527,7261
 Deteção	11376,4590
-Dette	4420,5005,1550,605,2192,1615,12,226,1,112,40,130,91,21,27,24,73,31,96,2,71,37,1203,259,129,43,48,337,2,1
+Dette	4420,5005,1550,605,2192,1615,12,226,1,112,40,130,91,21,27,24,73,31,96,2,71,37,1203,259,129,43,48,337,2,1,806
 Dette Charles M’BA	15727
 Dette Directrice	16485
+Dette En	19221
 Dette Espagnole	18316
 Dette Madame Sarah KPENOU. Fait	16485
 Dette Publique	17945,812
@@ -533,7 +539,7 @@ Facilitation Centre RSDO Refugee Status Determination	11986
 Factor Determinante	10772
 Factores de Determinação	11430
 Final Human Determination	16212
-Financing Details	2889,9076,3173,52,793,2826
+Financing Details	2889,9076,3173,52,793,2826,475
 Fine Determination and Ranges	3861
 Fire Detection System	593
 Fire Detection and Suppression	10956
@@ -653,10 +659,12 @@ Liveness Detection	4292
 Logical Monitoring and Detection	15054
 Luanda. Detalhou	6966
 Lyoubi Detained Ahead	5407,676
+MACHINE DETAIL	19237
 MAURITIUS CONTENTS Glossary 3 DETAILED ASSESSMENT USING	14777
 MECANTSMES DE REGLEMENT DE LA DETTE	14479
 MPA FINANCING DETAILS	3604,7813
 MS DETELINA SUBEVA	1829
+MV Medium Voltage NDC Nationally Determined	19239
 Mahdi Lyoubi Detained Ahead	5407,676
 Main Route Antenna Details Make Model	736
 Malawi’s Nationally Determined Contributions	13060,51
@@ -668,6 +676,7 @@ Master Urban Planning Plans and Detailed Urban	10930
 Mauritius Nationally Determined Contribution	14742
 Measure Type Details Proposed Responsible Party	17157
 Measure Type Details Responsible Party Operational	17157
+Medium Enterprise NDC Nationally Determined Contribution	19245
 Member Detail CCN	13380
 Menu for Update of Contact Details	14533
 Meta’s Detectron2	5367
@@ -675,6 +684,7 @@ Methodology for Determining Wholesale Rates	17212
 Methodology for Determining Wholesale Rates The Authority	17212
 Ministerial Determination	12399
 Ministry of Health and Childcare NDC Nationally Determined	970
+Mobile Network Call Detail	19237
 Mobile Satellite Station Details Type	736
 Moderately Satisfactory C.2 Detailed Ratings of Bank	16614
 Modify Details	12397
@@ -693,6 +703,7 @@ NDC Nationally Determined Contribution NDTS National	3604
 NDC Nationally Determined Contribution NEP Net	14997
 NDC Nationally Determined Contribution NGAO National	12256
 NDC Nationally Determined Contribution NPV Net	1264
+NDC Nationally Determined Contribution NSHI National	19284
 NDC Nationally Determined Contributions	14947
 NO. NAME OF AGENT IDENTITY DETAILS	14880
 NOMBRES DE CARTES BANCAIRES ET DETENTEURS	13390
@@ -703,7 +714,7 @@ National-Level Project Details	14910
 Nationally Determined Contribution	5247,1292,4878,169,319,301,50,1368,456,1420,158,1,324,236,730,191,318,847,65
 Nationally Determined Contribution NDE New Digital	2775
 Nationally Determined Contribution Net Interest Income	11134
-Nationally Determined Contributions	970,294,2340,5789,1436,381,326,863,1215,1204,735,292,1077,179,39,117,1201,351
+Nationally Determined Contributions	970,294,2340,5789,1436,381,326,863,1215,1204,735,292,1077,179,39,117,1201,351,436
 Nationally Determined Contributions DHS	17101
 Nationally Determined Contributions. WRI	15500
 Nationally Determined Planned Contribution CRT	18309
@@ -780,6 +791,7 @@ Programme Details Programme	11314
 Project Card Category Details Type	13395
 Project Details	12197
 Project. Detailed FM	15411
+Projection Details Page	19284
 Projection Details Reasons	2473,2180,11379,2327
 Property Card View Property Details About	12511
 Protection Customer Support Description Detailed	5676
@@ -900,6 +912,7 @@ TACHES ET RESPONSABILITES DETAILLEES A. Architecture	7977
 TEL NO. DETAILS OF DATA PROTECTION	2709
 TEL NO. REQUEST DETAILS	2709
 TIME FRAMES AND OTHER DETAILS	12681
+TRAINING CALL DETAIL INDIVIDUAL ASSESSMENT CALLS	19237
 Tables A.1 Details	10977
 Tanzania and Uganda. Explore Firm Details South	6683
 Taxa de Deteção	18768
@@ -910,6 +923,7 @@ Timely Detect Non-filers	17011
 Timely Detect Non-filers Implementation	17011
 Timetable and Submission Details Proposals	12754
 Title Details Update	12333
+Togo’s Nationally Determined Contribution	19284
 Toll Fee and Detailed Exit	13053
 Trend Bouncing Back Slowing Deterioration Increasing	10835,3,130,902,16,466,1,135
 Trend Increasing Deterioration Accountability	12341
@@ -932,7 +946,7 @@ V. Dette	6896
 V. GOVERNANCE AND MONITORING Determined	15939
 VACANT LAND SIZE BUILDING DEED DETAILS	4896
 VII DETAILED CHANGE	1284,15612,26
-VII. DETAILED CHANGE	2889,9076,3173,644,201,2642,184
+VII. DETAILED CHANGE	2889,9076,3173,644,201,2642,184,475
 VII. PLAN D’ACTIONS DETAILLE	15624
 VIII. Jurisdiction Over Detained Vessels	18914
 VISITS TO PLACES OF DETENTION	13097

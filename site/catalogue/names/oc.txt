@@ -52,7 +52,7 @@ Bed-Nights Occupancy	2775
 Betty Aol Ochan	12095
 Births Occurred	12367
 Blue Ocean Bulk Shipping Limited	16947
-Bouvet Island Brazil British Indian Ocean	11470
+Bouvet Island Brazil British Indian Ocean	11470,7872
 British Indian Ocean Territory	14753
 Bureau de Coordination des Affaires Humanitaires. In OC	10826
 Burkina Faso. OCDE	15715
@@ -158,6 +158,7 @@ Europe Asia Oceania	4972
 Europe Oceania Countries	16830
 Europe Oceania Very	10840
 Exchange Rate Effective Oct	17458
+Exonérations Octrois	19250,41
 F21 Oct	10714
 F22 Oct	10714
 F25 Oct	10714
@@ -197,6 +198,7 @@ Geno Ochieng UN Women Rwanda	14990
 Get the Occurrence Book	7777
 Ghana. Joyce Adwoa Animia Ocran	16163
 GitHub Octoverse	990
+Granguillhome Ochoa	19237
 Great Data Race Beneath the Oceans	4676
 Groupe OCP	2696
 Gui173939.pdf JO Octobre	16612
@@ -477,6 +479,7 @@ OCR'd PDF	15442,492
 OCR'd. Identification	10898
 OCR'd. Reading	2067
 OCR-blocked	3164,474,2910,348,47
+OCR-corrupted	19230
 OCR-degraded	15970
 OCR-garbled	15180
 OCR-scanned	13723
@@ -488,6 +491,7 @@ OCRC Classé	10821
 OCRC Dossier	10821
 OCRC Extorsion	10821
 OCRC Règlement	10821
+OCRTIDB	19227
 OCRTIS	18148
 OCRed	10550
 OCSEA	9843,3260
@@ -544,11 +548,14 @@ Occupation Botswana	14098
 Occupation Business Address Mr Mgqibelo Gasela	4896
 Occupation Foncière	14598,26
 Occupation Fonds	10876
+Occupation Geographic Phone-based ML Accuracy Recall	19237
 Occupation Health and Safety Impacts Official Use	12253
 Occupation Orders and Tenancy Orders. The Industrial	14742
 Occupation Percentage	12006
 Occupation Permit	14828
 Occupation Permits	14828
+Occupation des Sols	19360,2
+Occupation des Sols du SI	19362
 Occupation des Terres	15715
 Occupation du Sol	18339
 Occupation du SolRGPH Recensement Général	15555
@@ -582,7 +589,7 @@ Occupational Medicine	14773
 Occupational Polarization	16266
 Occupational Qualifications	6832
 Occupational Safety	12253,807,1701,266,3952
-Occupational Safety and Health	12964,1778
+Occupational Safety and Health	12964,1778,4542
 Occupational Safety and Health Act	1988,10268,2166,320,19,74
 Occupational Safety and Health Bill	8681
 Occupational Safety and Health Committee	14835
@@ -644,6 +651,7 @@ Oceans Conference	10112
 Oceans Ocean and Estuarine Resources and Characteristics	18904
 OcedçeãsoegnlhoEobasdtlaa	15694
 Ocero	13870
+Ochalek	19284
 Ochang and Adimula	9969
 Ochebhoya Ekpete	8040
 Ocheng Kenneth Kaunda Odek	18623,12
@@ -669,6 +677,7 @@ Oclds	4301
 Ocorre	4274,14493
 Ocorrência	5169
 Ocorrências Químicas	11376
+Oct Les Organismes Gestionnaires	19264
 Oct Nov Dec General Index	16935
 Oct Proposed Rating	2712,1976
 Oct-16 Sep-16 Aug-16 Jul-16 Jun-16 May-16	14896
@@ -704,8 +713,8 @@ Oct-2020 RESTRUCTURING	17849
 Oct-2020 Satisfactory Moderately Satisfactory	11924
 Oct-2020 Satisfactory Satisfactory	17849
 Oct-2020 Signing	14948
-Oct-2021	15619,1381,862,96,498
-Oct-2021 Mid-Term Review No	17000,958
+Oct-2021	15619,1381,862,96,498,793
+Oct-2021 Mid-Term Review No	17000,958,1291
 Oct-2022	16013,909,583,1029,258
 Oct-2022 Amount Disbursed	15601
 Oct-2022 Bank	11855
@@ -720,7 +729,7 @@ Oct-2023 Operation Closing	18350
 Oct-2023 Progress	1284
 Oct-2023 Restructuring Level	17958
 Oct-2023 Rev. Closing	11395
-Oct-2024	1343,571,4,794,3867,4796,20,529,3557,598,915,6,470,434,455,433
+Oct-2024	1343,571,4,794,3867,4796,20,529,3557,598,915,6,470,434,455,433,450
 Oct-2024 Jun	16994
 Oct-2024 Mid-Term Review No	2712,9212
 Oct-2024 Operation Closing	17958,175
@@ -735,7 +744,7 @@ Oct-2025 Effectiveness	4688,3189
 Oct-2025 Estimated Date of Approval	13523
 Oct-2025 For Official Use Only	18350
 Oct-2025 No Actual	6928
-Oct-2025 Operation Closing	15159
+Oct-2025 Operation Closing	15159,4083
 Oct-2025 People	18350,9
 Oct-2025 Sidi Ould Tah	18147
 Oct-2025 The World Bank Senegal Digital	18359
@@ -745,8 +754,10 @@ Oct-2025. Practice Area	11965
 Oct-2025. Projected Date for Full Disbursement	11965
 Oct-2025. Proposed Closing	11965
 Oct-2025. Revised Closing	11965
-Oct-2026	11469,6664
+Oct-2026	11469,6664,1116
 Oct-2026 Borrower	16293
+Oct-2026 IDA-D9010 Effective	19249
+Oct-2026 TF-B6287 Effective	19249
 Oct-2026. IDA-D6560	18133
 Oct-2027 Operation Closing	15737
 Oct-2028 Bank	1867
@@ -771,6 +782,7 @@ Oct-25. Current	12717
 Oct-26 Oct-28	14828
 Oct-Dec	1944,4727,275,4188
 Oct-Dec Voice	6671
+Oct.24	19241
 Octagon	9332,7158
 Octava Sesión Ordinaria	14215
 Octave	15744
@@ -792,7 +804,7 @@ October127. Provincial	12201
 October29	12201
 October5	13392
 OctoberAugust	2820
-Octobre	436,311,251,7,743,236,769,922,29,81,3685,185,1100,2071,15,33,1,1,46,26,973,1393,11,16,49,92,86,121,736,12,42,1014,2,104,86,27,3,9,126,18,5,12,4,174,95,37,8,156,261,1,24,6,11,52,725,35,3,336,28,35,6,7,56,33,157,13,2,44,28,82,18,11,5,419,249,117
+Octobre	436,311,251,7,743,236,769,922,29,81,3685,185,1100,2071,15,33,1,1,46,26,973,1393,11,16,49,92,86,121,736,12,42,1014,2,104,86,27,3,9,126,18,5,12,4,174,95,37,8,156,261,1,24,6,11,52,725,35,3,336,28,35,6,7,56,33,157,13,2,44,28,82,18,11,5,419,249,117,85,36,6
 Octobre N	10876
 Octobre Rose	14622
 Octobre Yaound	10975
@@ -800,7 +812,7 @@ Octobre du PTA	10876
 Octodev	12478
 Octotel	448
 Octoverse	990,10932
-Octroi	6221,7080,1801,327,2056,334,303,866
+Octroi	6221,7080,1801,327,2056,334,303,866,233
 Octroi de Licence L’INSBU	13393
 Octroie	13846
 Octroyer	13290,11,113,305,1823,2303
@@ -817,7 +829,7 @@ Ocupados	18762
 Ocupação	9403,1374,7983
 Ocupação Sistema Online	11898
 Océan	10975,2815,1028,1359
-Océan Atlantique	8891,6532,2420,443
+Océan Atlantique	8891,6532,2420,443,1064
 Océan I'indien	13790
 Océan Indien	6883,6841,16,882,207
 Océan Indien COMESA	15670

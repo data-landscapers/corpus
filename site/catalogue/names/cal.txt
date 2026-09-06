@@ -50,9 +50,10 @@ BCG Bacille de Calmette	13300
 Bacille Calmette	15475
 Bacille Calmette-Guérin	8376
 Bacille Calmette-Guérin DTC	13300
-Bacille de Calmette	15423,262
+Bacille de Calmette	15423,262,3541
 Bacillus Calmette	14742
 Bacillus Calmette-Guerin	18443
+Bacillus Calmette-Guérin	19284
 Back Calculate Capital Drag	12882
 Back Calculate Legal Limits	12882
 Baku Call	11285
@@ -103,6 +104,7 @@ CALIDAD COMERC. TRATADOS COMPETITIVIDAD CONTROL	4209
 CALIDAD EJE ESTRATÉGICO	16898
 CALIKEN NETWORKS	7167
 CALL CENTER	16934
+CALL Cell	19237
 CALL EXPERTS LIMITED Data Controller INST-45437488788	7167
 CALL EXPERTS LIMITED Data Processor INST-45437488788	7167
 CALL FOR APPLICATIONS	13936
@@ -202,7 +204,7 @@ Calculation of Weighted Scores	17114
 Calculations	3583,1389,2474,4540,3487,131,57,1239
 Calculator Compare	12882
 Calculators	8380
-Calculer	747,13678,3674
+Calculer	747,13678,3674,1127
 Calculette	15614
 Calculo Financeiro	15772
 Calculs	8891,8939,233
@@ -242,7 +244,7 @@ Calendarios	16898
 Calendarizar	16325
 Calendarização	11379,642
 Calendars	7230
-Calendrier	1187,5373,3250,2233,1298,294,790,1290,31,190,25,76,189,102,102,139,879,387,37,111,10,96,29,52,1,817
+Calendrier	1187,5373,3250,2233,1298,294,790,1290,31,190,25,76,189,102,102,139,879,387,37,111,10,96,29,52,1,817,233,23
 Calendrier Continuer	19150
 Calendrier Le Projet	15901
 Calendrier Méthodes	14425
@@ -299,6 +301,7 @@ Calixte	15692
 Calixte GANONGO	15439
 Calixte Hessou	16950
 Calixte MBENG	16381
+Calixte Madjoulba	19283
 Calixte NGANONGO	435,14991,13,16,10,23,968
 Calixte NGANONGO Avis	15420
 Calixte NGANONGO Coordonnées	15426
@@ -312,6 +315,7 @@ Calixte Nganongo	11858
 Caliza	9834
 Call Away	12951
 Call Center	235,2581,7934,25,200,1307,2863,763,981
+Call Center MNOs	19237
 Call Center RISA	12359
 Call Center Service License	762
 Call Center The NTRA	11642
@@ -375,6 +379,7 @@ Call for Stronger Industry Collaboration	6075
 Call for Submissions	14681
 Call for Tender	16696
 Call for Trading DRC Sarl. L'initiative	4501
+Call-detail	19237
 Call-to-Action	11285,592,1492
 Call. Applications	16540
 Callaghan and Plank	11006
@@ -441,12 +446,14 @@ Climate Hazards Group Calculation	17157
 Cold Calling	11742
 Collect Prepare Calculate Calculate Optimal	10856
 Collective Call	10360
+Colonel MADJOULBA Batossie Calixte	19251
 Colonia Altos de Miramontes Calle	10764,80,7012,267
 Commission Calcule	10876
 Community Hospital Otafiire Calls for Shared Global	16797
 Complaint Call	15721
 Component Calculation	4896
 Consumidor da Califórnia	3519
+Cornerstones of AI Impact Panel Calls for AI	19298
 Coverage Rate Calculations Coverage	10714
 Crawford and Calo	8283
 Critical Skills Work Visa Calculation	11986
@@ -545,6 +552,7 @@ II.3.3 Calidad	16898
 IMF Staff Calculations	14777,3286
 IMF Staff Calculations Note	18063
 IT'S A WAKE-UP CALL	13532
+Immeuble ARCEP Call Center	19244,13
 Immigration Calendrier	13341
 Incoming Calls	3862
 Indicator Calculation	17157
@@ -620,6 +628,7 @@ Ministry of Foreign Affairs Receives Calls	16114
 Ministry’s Call Centre	17098
 Minutes International Incoming Calls	6946
 Minutes International Outgoing Calls	6946
+Mobile Network Call Detail	19237
 Mobile Network Operators’ Call Center	18485
 Mobile Voice Call Traffic	3862
 Monsieur Calvin KEÏTA	17830
@@ -639,7 +648,7 @@ National Call Center Mobile Gateway Enabalers	14965
 National Laboratory Equipment Calibration Center	4301
 National Statistical Release Calendar	13479
 Nauru Nepal New Caledonia Niue Palau	13042,3589
-Nepal Netherlands New Caledonia New Zealand	11470
+Nepal Netherlands New Caledonia New Zealand	11470,7872
 News Call For Applications	11327,20
 News NITDA Calls for Stronger Diaspora Links	9957
 Nextcloud Calendar	14327
@@ -661,6 +670,7 @@ Olivier Caleff	2635
 On-net Calls	6946
 On-net Off-net TOTAL Call	15471
 Orphé Calis ADOU ENGANDJA	16175
+Ouest BCG Bilié de Calmette	19350
 Oxford University Press. Calcara	11050
 P Le Centre National de Calcul	15624
 PM Barre Launches NIRA Conference and Calls	10521
@@ -689,6 +699,8 @@ Process The FY2026 Budget Call Circular	18577
 Procurement NPPA Chief Executive Calls for Procurement	18500
 Programa de Calidad	4209
 Projected Demographics for Calendar Year	16971
+Protection Civile Amb. Calixte Batossie MADJOULBA	19241
+Protection Civile Calixte Batossie MADJOULBA	19251
 Public Release Calendar Publish	17149
 Publication Media Events Calendar Press Statements	12390
 Qolobaa Calankeed	14859
@@ -752,6 +764,7 @@ Superior Court of California	14392
 System for Customs Data BCC Budget Call	18488
 TESTING AND CALIBRATION SERVICES	14736
 TESTING AND CALIBRATION SERVICES The Mauritius	14736
+TRAINING CALL DETAIL INDIVIDUAL ASSESSMENT CALLS	19237
 TY Calling	19103
 Tableau VI.10 Calendrier	13341
 Tableau VI.11 Calendrier	13341
@@ -795,10 +808,13 @@ UN RESIDENT COORDINATOR PAYS COUTERSY CALL	12725
 US Embassy Calls for Stronger Efforts	10405
 USAGE TOPIQUE CALCIPOTRIOL	15930
 Universidad de California	17399
-University of California	137,2057,1932,2820,1583,1130,80,2872,346,1943,3343
+University of Cali-	19237
+University of California	137,2057,1932,2820,1583,1130,80,2872,346,1943,3343,1029
+University of California Berkeley	19237
 University of California Press. Beauchesne	7886
 University of California Press. Inglehart	7886
 University of California-Los Angeles	9786
+Université de Californie	19349
 Unlimited Calls and Texts	15471
 Unsuccessful Call Ratio	5744
 Urgent Call	11417

@@ -14,8 +14,9 @@ Hybrid Fund KfW Development Bank	692
 II KfW Development Bank	903
 IKT Fazilität ICT Facility KfW Development	696
 IRR Internal Rate of Return KfW Kreditanstalt	15661
-ITU International Telecommunication Union KfW German	3604
+ITU International Telecommunication Union KfW German	3604,15641
 Informatikai Kft. Consilia ApS AustriaContent Moss	8530
+Institution KfW World Bank MCC Connectivity	19245
 International Classification of Diseases KFH	12338
 JICA KFW MFI MSMEs NFIS ONARS	13938
 Joint Sector Review KfW	12175
@@ -27,8 +28,10 @@ KFW Objectif Contribuer	10708
 KFW Promotion	18316
 KFW-IPEX Gauﬀ Proje	18316
 KfW Banque	10327,44
-KfW Development Bank	384,119,1,189,1,1,209,626,1,11608
+KfW Development Bank	384,119,1,189,1,1,209,626,1,11608,6154
 KfW Entwicklungsbank	694,1
+KfW German National Development Bank	19239
+KfW Kreditanstalt	19220
 KfW Omburu BESS	12399
 KfW Rosh Pinah Solar PV	12399
 KfW Smartgrid	18316

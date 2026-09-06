@@ -9,8 +9,9 @@ AUTRE TYPE	13300
 Account Number Type	11685
 Account Type	11685
 Actif Notice Type	13818
+Action Type Revised	19284
 Activity Type Total Account Opening	18576
-Additional Financing Type	11965,6844
+Additional Financing Type	11965,6844,475
 Address Types	11129
 African Union Document Type	13899
 African Union Document Type AU Launches	14724
@@ -35,6 +36,7 @@ Association. Type IBRD	13331
 Audit Type	13053
 Avatar of TylerByte666	12478
 B INSISTEZ POUR DÉTERMINER LE TYPE	13300
+B. Typically	19237
 BAD. Type	1993
 BOUMBA TYPHON	15780
 BURUNDI Terminé Type	13613
@@ -90,7 +92,7 @@ Combining Degree and Type	10726
 Communities Document Type	13669
 Complaint Type	13097
 Component Minimum Target Type Coverage Coverage	11952
-Conditions Type Citation Description Financing	1264,603,1737,2935,4229,649,143,345,3753,1,2,483,240,565,509
+Conditions Type Citation Description Financing	1264,603,1737,2935,4229,649,143,345,3753,1,2,483,240,565,509,1781,6
 Conditions Type Effectiveness Financing	15553
 Conditions Type Financing	1284,9545,720,1783,3590
 Connection of Type Approved Term	18609
@@ -166,8 +168,9 @@ Equipment Type Approval	10407
 Equipment Type-Approval	10407
 Equity Interest Type and Self Certification	11685
 Establishments Establishment Type Count Percentage Formal	15085
+Etambutol. Type	19226
 Exemptions From Type Approval	18609
-Expected Approval Date Review Type	18809
+Expected Approval Date Review Type	18809,475
 External Services Type	15411
 External Services Type B	15411
 FADES. Type	1993
@@ -181,6 +184,7 @@ Feb-2026 No Conditions Type Description of Conditions	15138
 Fee Types	17011
 Fees License Type Tenure Application Annual	10407
 Fees Service Type Tenure Application Annual	10407
+Femme DIUPP Type	19226
 Fermé Notice Type Pays Membre	16662
 File Type	8831
 Final Type Approval	18609
@@ -210,6 +214,7 @@ HEALTH INTEROPERABILI TY IN SOUTH AFRICA	1009
 HL7v3 Abstract Data Type Specification	1009
 Health Tygerberg Central Hospital	11248
 Health and Public Hygiene Type Role Country	18359
+Heure de Type	19226
 High Resolution HLA Typing	14773
 Hl Ty	15363
 Homba Ngejane TYPES OF CYBERATTACKS EXPERIENCED	1938
@@ -230,9 +235,11 @@ INSISTEZ POUR DÉTERMINER LE TYPE D'ENDROIT	13300
 INSISTEZ POUR DÉTERMINER LE TYPE HÔPITAL	13300
 INSISTEZ POUR DÉTERMINEZ LE TYPE CENTRE	13300
 INSISTEZ POUR IDENTIFIER LE TYPE D'ENDROIT	13300
+IPM Typologie	19350
 Identification Type	11298,2035
 Identité du Marque Model Type Bande de CIU	998
 Identité du Marque Model Type Bande de Statut	998
+Impact Types	19221
 Incubation Acceleration Institute Type Business Training	12376
 Indicateurs Stratégiques Types	16641
 Indicator Framework Drought Type Primary Indicators	17157
@@ -319,6 +326,7 @@ Notice Type	9892,1,1383
 Notification Type Cell C MTN Telkom	11259
 Novel Oral Polio Vaccine Type	10776
 Novel Oral Poliovirus Type	16971
+Novissi Togo Typesetting	19237
 Number S. N Type of License	718
 Number and Type of Insolvency Procedures	12389
 Number and Type of Land Disputes	12389
@@ -420,6 +428,7 @@ Revocation of Type Approval	18609
 Road Fund Type Implementing Agency Implementing	1228
 Rubber Tyred Gantry	14830
 Région Multiple Type	15599
+Région Type	19350
 Répartition Surface Types	14488
 Résumé Type	18337
 SAS Types	14488
@@ -526,11 +535,13 @@ TYPE D'ECOLE ET SEXE III.4.5 Rural	10847
 TYPE D'ENDROIT. GOUVERNEMENT	13300
 TYPE D'ENDROIT. HÔPITAL DE RÉFÉRENCE	13300
 TYPE D'ENDROIT. HÔPITAL DE RÉFÉRENCE SI	13300
+TYPE DE CONTROLE DOSSIERS PROGRAMMES DOSSIERS	19250
 TYPE DE DECLARATION Sur	15599
 TYPE DE LA D'INSECTICIDE	13300
 TYPE DE PARTIES PRENANTES Autorités	14425
 TYPE DE PARTIES PRENANTES Organismes	14425
 TYPE DE PARTIES PRENANTES PARTIES PRENANTES	14425
+TYPE DE PRESTATION NOMBRE Emissions	19250
 TYPE DE REDEVANCE PREVISIONS	18122
 TYPE DE SERVICE FRAIS DROITS D’ETUDE	17899
 TYPE DE SERVICE REDEVANCES Bamako	17899
@@ -592,7 +603,7 @@ Tax Types	11276
 Technology Type Airtel Africa	4442
 Technology Type Vodacom	4442
 Tender Type	13818
-Tender Type Expression of Interest Project	16662
+Tender Type Expression of Interest Project	16662,2591
 Thoroughfare Type District	11129
 Timeliness of Release of Official Statistics Types	17149
 Title Type Date Label	18581
@@ -674,10 +685,16 @@ Type Effectiveness Type Effectiveness Type Disbursement	15553
 Type Estimated	17157
 Type Financing	10829,720,1783,2186
 Type Government	16884
+Type I PHCs	19284
+Type I PHU	19284
+Type I PHUs	19284
 Type IA	16900
 Type IBRD	10964,2367
 Type II	8376,8524
 Type II Card	34
+Type II PHCs	19284
+Type II PHU	19284
+Type II PHUs. Facility	19284
 Type IIA	16900
 Type III	16900
 Type IIIA	16900
@@ -724,6 +741,7 @@ Type de JORD	13835
 Type de Ménages	2624
 Type de POS	13390
 Type de Région Identification	14622
+Type de SexeScorePoids	19226
 Type des Directions des Services Informatiques	15512
 Type of Account	12400
 Type of Agricultural Activity	13455
@@ -809,7 +827,7 @@ Type-approval	16810,74,366
 TypeORM	17902
 TypeScript	5513,6409,322
 TypeScript and Python	13272
-Types	582,136,529,691,686,4597,569,1616,682,788,99,29,135,55,30,293,439,8,415,81,575,36,228,1,81,37,651,355,64,1,48,273,86,23,104,106,211,89,44,1,18,82,21,127,52,134,28,108,3,504,1,84,78,137,155,37,71,2,33,339,26,589,66,143,108,136,545
+Types	582,136,529,691,686,4597,569,1616,682,788,99,29,135,55,30,293,439,8,415,81,575,36,228,1,81,37,651,355,64,1,48,273,86,23,104,106,211,89,44,1,18,82,21,127,52,134,28,108,3,504,1,84,78,137,155,37,71,2,33,339,26,589,66,143,108,136,545,120,121
 Types Effectif Pourcentage	10875
 Types Gouvernance	14424
 Types Installed ENERGY MIX Generation	12358

@@ -18,12 +18,15 @@ Chimbunde	1248
 Chimembe	13040
 Chimembe Community	13040
 Chimembe Health Centre	13040
-Chimie	10379,6248,1202,32,34,420
+Chimie	10379,6248,1202,32,34,420,1051
+Chimie Analytique	19366
 Chimie Biologie Géologie	15674
 Chimie CT9	18315
 Chimie Minérale	16627
-Chimie Organique	16627
+Chimie Organique	16627,2739
 Chimie Physiques	15674
+Chimie des Matériaux	19366
+Chimie des Substances Naturelles	19366
 Chimkwita CDF	3035,253,61,689,520,84,1026,364,224,297
 Chimkwita Her Liberty	5851,660,853
 Chimkwita Outrageous	7412

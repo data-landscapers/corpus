@@ -109,10 +109,10 @@ Elaborado	11544,5376,1868,34
 Elaborados	2816
 Elaborar	13,154,1534,2445,1,71,6532,4,29,585,6,2,5,1,48,12,1,5,1,6,1,62,9,371,3460,1,32,59,27,26,1,22,46,122,218,986,32,1819,2,1,8,13,1,4,3,13,43
 Elaborar Planes de Acción	1701
-Elaborate	5677,5152,411,961,2727,625,106,1498,713
+Elaborate	5677,5152,411,961,2727,625,106,1498,713,1344,31
 Elaborate the FM	11855
 Elaborating	14211,2946
-Elaboration	998,1344,1014,248,406,2949,2447,1305,1,146,16,1,52,48,518,412,39,1346,11,132,35,970,1,496,602,5,26,12,59,20,26,27,10,126,85,80,182,170,164,112,106,1095,2,1,15,13,28,6,38,1,61,70,22,22,50,33,87,31,2,618
+Elaboration	998,1344,1014,248,406,2949,2447,1305,1,146,16,1,52,48,518,412,39,1346,11,132,35,970,1,496,602,5,26,12,59,20,26,27,10,126,85,80,182,170,164,112,106,1095,2,1,15,13,28,6,38,1,61,70,22,22,50,33,87,31,2,618,274,5,20
 Elaboration Textes	18322
 Elaboration de La StartUP Act	17907
 Elaboration des DAO	10975
@@ -151,7 +151,7 @@ Elaboração de Estudos de Impacte Ambiental	11390
 Elaboração de Lei de Protecção de Dados	2816
 Elaboração de Projetos Educativos	15694
 Elabore	14662
-Elaborer	998,7,1961,390,40,613,6817,32,16,2,89,2325,11,40,2131,2,68,26,56,88,26,47,63,522,159,1295,21,27,10,195,26,66,122,6,9,682
+Elaborer	998,7,1961,390,40,613,6817,32,16,2,89,2325,11,40,2131,2,68,26,56,88,26,47,63,522,159,1295,21,27,10,195,26,66,122,6,9,682,374
 Elaborer des PPP	13306
 Elaborer la Stratégie Nationale de Développement	16620
 Elaborer le Bulletin INSTAT	17842
@@ -167,7 +167,7 @@ Elaf Alnayer	15139
 Elanyo Emegnimo	15298
 Elarbi Touahria	16263
 Elargir	1005,12285,5001,697
-Elargissement	7797,2915,5616,1157,416,390,28
+Elargissement	7797,2915,5616,1157,416,390,28,902
 Elargissement des Exclusions	16328
 Elasha Biyaha	5941
 Elasri Sid Ahmed	15608
@@ -179,12 +179,14 @@ Elasticity of GDP	14674
 Elasticsearch	13037,4865,568
 Elastomeric	11269
 Elation	14284
+Elavagnon Est-Mono2	19350
 Elayah	5349
 Elebi Víctor Ele Ela	10361
 Emily Elaine Gardner	11560
 Emily Elaine Gardner ICR Main Contributor	18765
 Equipe Elaboration CS CS CS CS	17844
 Etat Moyen Terme Elaborer	15512
+Etat P32 Elaboration	19221
 Etude Bamako Elaboration	18077
 Extrants- Actions IMPACT Elaboration	18286
 Facilité Elargie de Crédit	1300,14540
@@ -231,6 +233,8 @@ OE2. Elaborar	11379
 OS.2. Elaborer	18121
 Ondoua Ela	16593
 Open Data. Elargissement du Comité de Pilotage	9406
+P33 Elaboration	19221
+P4 Elaboration	19221
 PARTIES PRENANTES ET ELABORATION	13482
 PASNFI Elaborer	10965
 PIU Elaborate	15659

@@ -83,7 +83,7 @@ Desenvolvimento de Software	11413
 Development of Integrated ID and CRVS Software	12241,839
 Digital and Soft Skills Training	11863
 Dignity Training Eswatini Payment Switch Soft	11131
-District Health Information Software	771,441,7164,1812,690,3,38,498,586,22,27,9,135,1433,993,44,232,25,552,237,247,397,66,445,29,26,19,30,1561,399
+District Health Information Software	771,441,7164,1812,690,3,38,498,586,22,27,9,135,1433,993,44,232,25,552,237,247,397,66,445,29,26,19,30,1561,399,295,58
 District Health Information Software DIEM	15475
 District Health Information Software and National Health	15833
 Districts Health Information Software	14442
@@ -141,7 +141,7 @@ Hardware and Software	11129,1196,2755
 Hardware and Software Development	14148
 Hardware and Software Transparent	15080
 Health DHIS2 District Health Information Software	15056
-Health Information Software	11417
+Health Information Software	11417,7867
 Health Initiative District Health Information Software	15599
 Health Software Requirements Specification	14773
 Helga Sofia Baptista Barros	16290
@@ -306,6 +306,7 @@ SOFF-supported	16947
 SOFF. Data Centre	16947
 SOFF. Page	18309
 SOFICAM	10987
+SOFIE	19220
 SOFIGIB	6827
 SOFIGIB Partial Portfolio Guarantee	416
 SOFISTICADO	2125
@@ -424,7 +425,7 @@ Softron Limited	3386
 Softswitch	15399
 Softtribe	236
 Softtribe Chief Executive Officer Francis Ayivi	236
-Software	34,202,159,198,397,954,44,108,688,32,835,558,223,331,902,108,20,76,42,521,45,103,567,62,125,33,99,285,156,114,280,75,48,180,458,61,1,5,726,205,661,59,189,38,126,1,30,32,20,52,104,512,1,10,11,35,11,3,66,138,1,45,36,5,7,49,49,28,34,74,433,47,4,34,32,43,305,221,82,303,113,337,225,15,42,6,7,13,17,11,53,91,159,49,20,12,3,118,178,60,52,427,322,511,35,11,7,11,4,22,1,1,18,21,891,16,606,298,12,101
+Software	34,202,159,198,397,954,44,108,688,32,835,558,223,331,902,108,20,76,42,521,45,103,567,62,125,33,99,285,156,114,280,75,48,180,458,61,1,5,726,205,661,59,189,38,126,1,30,32,20,52,104,512,1,10,11,35,11,3,66,138,1,45,36,5,7,49,49,28,34,74,433,47,4,34,32,43,305,221,82,303,113,337,225,15,42,6,7,13,17,11,53,91,159,49,20,12,3,118,178,60,52,427,322,511,35,11,7,11,4,22,1,1,18,21,891,16,606,298,12,101,361
 Software Applications	11349
 Software ArcGIS Pro Advanced. INEGE	16898
 Software ArcGIS Pro Advanced. Objetivo Operativo	16898

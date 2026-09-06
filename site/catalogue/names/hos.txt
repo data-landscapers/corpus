@@ -226,10 +226,14 @@ Centre Hospitalier	15357,66,262
 Centre Hospitalier Départemental CHU-MEL	15475
 Centre Hospitalier Mère	18025
 Centre Hospitalier National CHN	17907
+Centre Hospitalier Préfectoral CMM	19226
+Centre Hospitalier Régional CHR	19226
+Centre Hospitalier Régional CHU	19226
 Centre Hospitalier Régional Estuaire	16001
 Centre Hospitalier Régional Estuaire-Melen	16099
 Centre Hospitalier Régional de Diffa	18238
 Centre Hospitalier Universitaire	15475,700,1828
+Centre Hospitalier Universitaire CHP	19226
 Centre Hospitalier Universitaire CSCOM	17824
 Centre Hospitalier Universitaire Départemental CHUZ	15475
 Centre Hospitalier Universitaire Gabriel TOURE	17882
@@ -342,7 +346,7 @@ Directorate of Hospital and Ambulance	18532
 Directorate of Hospitals and Directorate of Primary Health	18532
 Displaced and Host Communities Project	11469
 District Councils and Central Hospitals	12240
-District Hospital	3386,8952,41
+District Hospital	3386,8952,41,6905
 District Hospital Health Center	12379
 District Hospital Health Center EMR Only	12379
 District Hospital Health Center Short	12379
@@ -1077,6 +1081,7 @@ Thekwini MM King Edward Viii Hospital	11986
 Thekwini MM Mahatma Gandhi Hospital	11986
 Thekwini MM Prince Mshiyeni Hospital	11986
 Thekwini MM Rk Khan Hospital	11986
+Togo Hosts Inaugural Data Infrastructure for Development	19302
 Toliara. Centres Hospitaliers de Reference de District	14442
 Tonga Hospital	11986
 Tourism and Hospitality	353

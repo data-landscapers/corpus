@@ -8,6 +8,7 @@ Actualité IA	3658,2617,145
 AfDB IATI	451
 Afrique IA	16242
 Agence Ecofin IA	16690
+Agency IACV Verification Entity	19284
 Agent IA Gabon	15928
 Agentes de IA	2816
 All the IAB South Africa	7253
@@ -35,6 +36,11 @@ Banjul. Grants Under IAFS-I Scheme	17241
 Budget IATI	450
 CEDEAO. IA	18407
 CEO Iain Stevenson	10595
+CHWs IACV Description Independent	19284
+CHWs IACV Independent	19284
+CHWs IACV PBC Indicator Name Independent	19284
+CNSS Description IACV Data	19284
+CNSS IACV	19284
 CSGR IA Dans	16292
 Caches IA	18407
 Centre IA	3465
@@ -193,6 +199,7 @@ IA Está Revolucionando	2816
 IA Européennes	3465
 IA Face	7455
 IA For Africa Initiatives	2992
+IA Formation	19349
 IA Generativa	2816
 IA Global Index	15583
 IA Gouvernance	7123
@@ -244,7 +251,7 @@ IA Simbólica	2816
 IA Speaker	16545
 IA Suisse	3465
 IA Tourisme Voyages Nos	16242
-IA URL	13583,1911,293,393,195,1825
+IA URL	13583,1911,293,393,195,1825,1149
 IA Wordpress Sérénité SpamExperts Certificat SSL	14683
 IA Written	14618
 IA and Wu	2096
@@ -259,6 +266,7 @@ IA de Verascient	16820
 IA de Verascient L'émergence	11508
 IA du Burkina Faso	3465
 IA du Maroc	9483
+IA du Togo	19346
 IA. A Estratégia	3519
 IA. ACTION	15583
 IA. ARTIGO	3519
@@ -268,6 +276,7 @@ IA. Afraz Jaffri	2816
 IA. Algoritmos	2816
 IA. Alors	10379,12
 IA. Além	2816
+IA. Annoncé	19346
 IA. Ao	2816
 IA. Assim	2816
 IA. Au	7929,8896
@@ -300,7 +309,7 @@ IA. Desta	3519
 IA. Disponível	2816
 IA. Does the Government	16843
 IA. Effets	15583
-IA. Elle	2695,499,874,4038,3999,1804
+IA. Elle	2695,499,874,4038,3999,1804,5337
 IA. Elles	9541
 IA. Em	4146
 IA. Em Julho	2816
@@ -321,7 +330,7 @@ IA. Fruit	7649
 IA. GNAIS	16292
 IA. Gouvernance	15938
 IA. Há	2816
-IA. Il	3107,1958,2241,913,225,2027,4793,31,288,116,448,145,44
+IA. Il	3107,1958,2241,913,225,2027,4793,31,288,116,448,145,44,2922
 IA. Ils	3194,1871
 IA. Importa	18796
 IA. Inclui Cúpulas Globais	2816
@@ -337,6 +346,7 @@ IA. L'organisation	9167
 IA. L'étude	9541,2564
 IA. La Stratégie Nationale	17763
 IA. Le Dr Kais Hammami	13728
+IA. Le Togo	19246
 IA. Lors	7122,75
 IA. L’intégration	2582,1358
 IA. L’objectif	19170
@@ -367,7 +377,7 @@ IA. Para	2816
 IA. Plus	11063
 IA. Plusieurs	15583
 IA. Por	2816,5814,10166
-IA. Pour	2387,13196,363
+IA. Pour	2387,13196,363,3300
 IA. Pourquoi	7715
 IA. Pourtant	15295
 IA. Programme	15583
@@ -409,6 +419,11 @@ IACN INEGE AFRIST	16898
 IACN INEGE AFRISTAT	16898
 IACN Informes	16898
 IACN Pendiente Disponer	16898
+IACV DSNISI	19284
+IACV Description	19284
+IACV PBC Indicator Name	19284
+IACV Page	19284
+IACV Procedure	19284
 IAD&A126	14997
 IADB Dictionary of Civil Registration and Identification	12338
 IADIS'24	2732
@@ -627,6 +642,7 @@ M. IATI	682,208,527
 MBITO DO DESENVOLVIMENTO DA IA	2816
 MI NID IAN	17828
 MODELO DE GOVERNAÇA DA IA ARTIGO	3519
+MOH-UHC IACV	19284
 Mamadou IAM DIALLO	17965
 Mamadu Iaia Bari	9426,420
 Mamadu Iaia Djaló. Promulgado	11530
@@ -639,6 +655,10 @@ Metodologia de Avaliação de Prontidão de IA da UNESCO	2816
 Migração. A IA	2816
 Missions du Gouvernement de Ia République du Burundi	13334
 Mme NARY HERINIRINA IARIVO	14440
+MoH-UHC Description IACV Data	19284
+MoH-UHC IACV The DSNISI	19284
+MoH-UHC Procedure IACV	19284
+MoH-UHC Verification Entity IACV Procedure	19284
 Modelos de IA	2816
 Moçambicanos. A IA	2816
 Mr. Ian KotzéE-mail	11334
@@ -660,6 +680,7 @@ Os Invernos da IA	2816
 Output IaaS Infrastructure	13185
 Own IAM for AWS	11805
 PART IA	14843
+PBC Indicator Name IACV	19284
 POTENCIAL DE IMPACTO DA IA	2816
 POTENCIAL DE IMPACTO DA IANO MERCADO	2816
 PRIVE IAMS INSTITUT AFRICAIN DE MANAGEMENT	18170

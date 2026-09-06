@@ -1,5 +1,6 @@
 ADEA and MINEDUC	15182
 APPLICATIONS MADE TO MINERALS ANCILLARY RIGHTS	13189
+ARRETES Ministère des Mines	19241
 About Ivanhoe Mines Ivanhoe Mines	15952
 Abuja The Ministry of Solid Minerals Development	7513
 Acting Minister of Industry and Minerals	9862
@@ -113,8 +114,9 @@ Economy and Territorial Administration MINESUP	16041
 Education de Base MINEPAT Ministère	10965
 Empresa Minera Nacional	4209
 Energy and Mineral Resources	1228
-Energy and Mines	16973,132,47,76,665
+Energy and Mines	16973,132,47,76,665,1346
 Energy and Mines Honourable Speaker	17105
+Energy and Mines MFD Maximizing Finance for Development	19239
 Energy and Mines Ministry of Public Service	16973
 Energy and Mines National Action Plan	16973
 Expand MINECOFIN	14997
@@ -182,6 +184,7 @@ Kwango Mines	13419
 L'ENQUÊTÉ MINEUR POUR DES TESTS SUPPLÉMENTAIRES	13300
 LA MINE D’OR	16456
 LE MINISTRE DES MINES	17827
+LE MINISTRE DES MINES ET DES	19241
 LERCJ Ministry of Lands. Mines and Energy Rural	16851
 LODA MINECOFIN IFMIS	14935
 LRC. Mineral	17011
@@ -410,7 +413,7 @@ Mineração de Dados Educacionais	2816
 Miners	12597,788
 Minerva	11028
 Minerva Technology Futures	7209
-Mines	235,1753,354,1054,43,192,1185,686,62,107,751,340,3,361,642,169,384,434,199,47,286,55,254,418,859,2,25,697,309,1484,353,523,453,670,20,17,40,6,70,128,4,95,220,31,259,99,126,2,3,27,47,33,2,56,179,113,142,127,25,188,136,40,188,5,10,11,3,1,2,32,4,13,2,4,2,10,61,6,4,1,20,29,45,92,51,66,19,1,16,2,49,8,28,3,493,83
+Mines	235,1753,354,1054,43,192,1185,686,62,107,751,340,3,361,642,169,384,434,199,47,286,55,254,418,859,2,25,697,309,1484,353,523,453,670,20,17,40,6,70,128,4,95,220,31,259,99,126,2,3,27,47,33,2,56,179,113,142,127,25,188,136,40,188,5,10,11,3,1,2,32,4,13,2,4,2,10,61,6,4,1,20,29,45,92,51,66,19,1,16,2,49,8,28,3,493,83,233,20,36,89
 Mines Agriculture des Marchés Eau	2342
 Mines Artisanales	643
 Mines Chargé	17899
@@ -431,8 +434,10 @@ Mines Directeur	14904,1581
 Mines Données Chef de Section Commissaires	17899
 Mines MESFTP Ministère	15479
 Mines MRU Mauritanie Unité Monétaire MW	17873
+Mines Mawunyo Mila AZIABLE DECRET N	19235
 Mines Officiers	17899
 Mines PIMC	18322
+Mines Partenaires	19221
 Mines SECTION ARCHIVES Chef de Section Administrateur	17982
 Mines SECTION CADASTRE Chef de Section Ingénieur	17982
 Mines SECTION CONTROLE DE PRODUITS SOUS	17899
@@ -474,7 +479,7 @@ Minette Libom Li Likeng. Ces	5065
 Minette Libom Li Likeng. Une	2932
 Minette Libom Li LikengCAMTEL	7958
 Minette Libom Li-Likeng	4192
-Mineur	13719,1710,59,155,974,1209,15,278
+Mineur	13719,1710,59,155,974,1209,15,278,1094
 Mineurs	17584,362
 Mineworkers Investment Company	14366
 Mineworkers Provident Fund	12597
@@ -499,7 +504,7 @@ Minister of Posts and Telecommunications Minette Libom Li	2303,951
 Minister of Solid Minerals Development	7513
 Minister of State for Mines and Steel	11579
 Minister of State for Steel and Mines	18016
-Ministre des Mines	7978,8140,573
+Ministre des Mines	7978,8140,573,2604
 Ministry of Communication MINEPAT	16041
 Ministry of Energy and Minerals	15132
 Ministry of Energy and Mines	13624,456
@@ -530,7 +535,7 @@ Ministry of Mines and Quarries	10873
 Ministry of Mines' Export Permit Management System	13688
 Ministry of Petroleum Energies and Mines	17893
 Ministry ofLands. Mines and Energy	16851
-Ministère des Mines	3045,12497,81,47,87,179,65,322,293,10,1,14,1171,588,2,1,9
+Ministère des Mines	3045,12497,81,47,87,179,65,322,293,10,1,14,1171,588,2,1,9,851
 Mme Minette Libom Li Likeng	10524,5615
 Mopani Copper Mine	13387
 Mopani Copper Mines	13362,25
@@ -610,6 +615,7 @@ Rwanda Mines	14947
 Rwanda Tungsten Mine Emerges	14969
 Rwanda's MINECOFIN	1043
 Rwandan Schools MINECOFIN Ministry of Finance and Economic	14922
+SCANTOGO Mines SA	19295
 SI ENQUÊTÉ MINEUR	13300
 SOCIETE DES MINES SMF	2342
 SOCIETE EQUATORIALE DES MINES	16175

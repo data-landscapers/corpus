@@ -207,6 +207,7 @@ CHAPITRE III QUATIIE DES INFORMATIONS STATISTIQUES	15561
 CIENTÍFICA Qualificação da Investigação Criminal	16487
 CLASSE CAPORAL OU QUAR TIER MAITRE	15524
 CMDCV. Qual	11875
+CNSS Indicator Name Quarterly	19284
 CO-OPERATION IN QUALITY	14409
 COLLECTING AND ORGANIZING QUALITY DATA	14004
 COMESA and SADC Secretariats. Quarterly	12962
@@ -337,10 +338,12 @@ DE LA FORMATION PREMIER MINISTRE QUALIFIANTE	15744
 DE LA FORMATION QUALIFIANTE ET	15558,290
 DE LA QUALIFICATION DES INFRACTIONS Article	15584
 DE LA QUALITE	15660
+DE LA QUALITE D'ORGANISME PUBLIC Art	19210
 DE LA QUALITE DE COMMERÇANT Article	13293
 DE LA QUALITE DU SERVICE PUBLIC	15615
 DE LA QUALITE D’ELEVE Article	15395
 DE LA QUALITE D’ENFANT DE TROUPE	15395
+DE LA QUALITE D’ORGANISME PUBLIC Article	19208
 DE QUATRE GROSSESSES QUI NE SE	13300
 DEATH CERTIFICATE QUALITY ASSESSMENT TOOL	12413
 DELIVERY OF QUALITY SERVICES	14935
@@ -625,6 +628,7 @@ Free Quality School Education Programme	18512
 Frequency Quarterly	12359,3785
 Frequency Quarterly Annually Continuous	15658
 Frequency Quarterly Data	10768,4890,486
+Frequency Quarterly NSHI	19284
 Frequency Quarterly Network Operations Center	16144
 Fuel Quality Monitoring	12256
 Fundamento Quando	15396
@@ -751,6 +755,10 @@ Improved Quality of National Accounts	15085
 Improved Quality of National Accounts4	15085
 Improvement of Quality and Relevance of Education	16852
 Improving Education Quality and Results for All MNO	17870
+Improving Quality and Equity of Basic Education Project	19245,4
+Improving Quality and Focuses	19245
+Improving Quality of Teaching and Learning	19249
+Improving Quality of Teaching and Learning Baseline Actual	19249
 Improving Training Quality and Workforce Readiness	14576
 Improving Training Quality and Workforce Readiness Component	14576
 Improving the Quality of Education and Teacher Training	16436
@@ -798,6 +806,7 @@ Introduction The Quarterly Labour Force Survey	11296
 Introdução Um Quadro	11555
 Int’l International IQP Income Tax Quarterly	14985
 Invitation for Qualification	18543
+Janvier Quartier Dékon	19264
 Joppa Quarter Council	18626
 José Quaresma A Direção da Proteção Social	18824
 Jovens Quadros	17360,1
@@ -813,6 +822,7 @@ KSh Million Year Quar- Agriculture Mining	2775
 KSh Million Year Quar- Public Profession-	2775
 KSh Million Year Quarter Agriculture Mining	2775
 KSh Million Year Quarter Public Profes-	2775
+Kara. Quant	19246
 Kenya External Quality Assessment Scheme	4153
 Kenya National Qualifications Authority	7832,2448
 Kenya National Qualifications F	7832
@@ -880,6 +890,7 @@ M&E Quality Substantial. Implementing Agency	13722
 M&E Quality Substantial. SECTORS AND THEMES	15702,257
 M&E Quarterly	16922
 M-PESA. Qualifying	10458
+M. GBADAGO Quam Justin	19264
 MAC. Quarterly Publish the Technical Clearance Procedure	17394
 MACRA Communications Quality of Services Regulations	14674
 MACRA Quality of Service	14674
@@ -1105,6 +1116,7 @@ O Quadro de Interoperabilidade	11555
 O Quadro de Interoperabilidade de Governo Electrónico	12774
 OE IV. O Quadro Lógico da ENDE	15535
 ONS-Algeria’s Quality Principle Future Focus Looking	15760
+OPEX Operating Expenses PAQEEB Improving Quality	19245
 OVERVIEW Quality Infrastructure The Quality Infrastructure	14736
 Objectifs de Développement Durable. Quant	16195
 Objectives of National Qualifications Framework	13371
@@ -1139,6 +1151,7 @@ PAYMENTS QUARTERLY RETURN	16878
 PAYMENTS QUARTERLY RETURN Name of Licensed Institution	16878
 PBF Manual. Quarterly PBF Database PBF	10829
 PBF National Technical Unit Quality	10829
+PCU Description Quarterly Frequency Quarterly	19284
 PERSONNE LA PLUS QUALIFIÉE. ACCOUCHEUSE TRADITIONNELLE	13300
 PF da Convenção Quadro	18760
 PF4.2 Quality	8891
@@ -1162,6 +1175,7 @@ PRINCIPE D’ENGAGEMENT SUR LA QUALITE Article	785
 PRINCIPLE OF DATA QUALITY	14434
 PRINCIPLE OF DATA QUALITY Health	14434
 PROCESSING AND QUALITY OF PERSONAL DATA	14893
+PRODUITS QUANTITE Produits	19291
 PROJETOS FINANCIAMENTO NO QUADRO DO FAU	11531
 PROMOTION DE LA QUALITE Vu la Constitution	17982
 PROPOSTA DE QUADRO DE REFERÊNCIA	2816
@@ -1229,6 +1243,7 @@ Procedures Time Cost Quality	18109
 Processes Measurement Data Quality Measurement Roles	15034
 Product Quality	1000
 Productivity and Quality Improvements	14738
+Produits Quantité	19250
 Prof. Nii Narku Quaynor	4706
 Professional Qualification	14775
 Professor Nii Narku Quaynor	4706
@@ -1239,6 +1254,7 @@ Program Population Digital Development HOPE for Quality	11469
 Programme for Improved Quality and Standards	16852
 Programme for Improving the Quality of Primary Education	19093
 Project C. BANK PERFORMANCE Quality	16436
+Project Implementation Manual. Frequency Quarterly Data	19245
 Project MIS and Quarterly Grievance Redress Mechanism	15658
 Project MIS and Quarterly Project	15658
 Project. Frequency Quarterly Data	15658
@@ -1550,7 +1566,7 @@ Qualifi	15359,32,1
 Qualifiante	15493
 Qualificado	18753
 Qualificar	11381
-Qualification	22,2753,1567,78,1373,1039,3325,1307,1067,18,112,314,210,342,244,678,37,51,192,167,184,272,59,172,78,388,784,275,426,308,327,294,80,13
+Qualification	22,2753,1567,78,1373,1039,3325,1307,1067,18,112,314,210,342,244,678,37,51,192,167,184,272,59,172,78,388,784,275,426,308,327,294,80,13,665
 Qualification Criteria	13185,1895
 Qualification Criteria and Requirements	1638
 Qualification Criteria. Requirements	13185
@@ -1661,7 +1677,7 @@ Qualitative and Quantitative Study	15460
 Qualitatively	10852,2126
 Qualitus Ketjimambo	10358
 Qualitus Ketjimambo. Wide-ranging	10358
-Quality	25,2,209,530,5,169,18,12,2,189,48,73,2,534,67,890,876,123,17,1455,103,316,386,781,116,256,74,355,130,367,294,15,628,1708,9,45,52,67,15,1,169,1,22,60,277,364,6,11,7,37,37,196,24,24,28,110,9,49,53,103,100,55,51,143,29,102,27,146,14,92,4,5,1,11,27,27,2,31,28,15,43,182,301,4,9,98,336,14,290,8,6,15,10,78,7,26,5,2,1,4,22,13,23,39,30,99,23,15,80,167,163,30,23,32,2,70,12,17,29,244,111,68,224,178,225,12,33,2,6,8,22,5,12,3,5,13,18,171,138,154,134,294,1,88,13,138,200,61,71,17,71,14,14,21,49,127,157,40,31
+Quality	25,2,209,530,5,169,18,12,2,189,48,73,2,534,67,890,876,123,17,1455,103,316,386,781,116,256,74,355,130,367,294,15,628,1708,9,45,52,67,15,1,169,1,22,60,277,364,6,11,7,37,37,196,24,24,28,110,9,49,53,103,100,55,51,143,29,102,27,146,14,92,4,5,1,11,27,27,2,31,28,15,43,182,301,4,9,98,336,14,290,8,6,15,10,78,7,26,5,2,1,4,22,13,23,39,30,99,23,15,80,167,163,30,23,32,2,70,12,17,29,244,111,68,224,178,225,12,33,2,6,8,22,5,12,3,5,13,18,171,138,154,134,294,1,88,13,138,200,61,71,17,71,14,14,21,49,127,157,40,31,302
 Quality AI	12210
 Quality Activity	16863
 Quality Analysis Fee	18541
@@ -1750,6 +1766,7 @@ Quality Health Care Circular Economy	4972
 Quality Health Services	16971
 Quality Higher Education	13477
 Quality Highly Satisfactory Highly Satisfactory High	15663
+Quality Improvement Plan	19284
 Quality Increased	11905
 Quality Index	17869
 Quality Information Management System	12606
@@ -1921,7 +1938,7 @@ QualityÂ	18887
 Qualityâ	18887
 QualitÈ	15394
 Qualität	383,1150,687
-Qualité	643,94,11,257,182,1507,702,1007,967,260,124,174,2963,515,159,1147,263,943,26,1357,89,43,283,102,25,5,60,253,271,105,85,240,31,234,285,4,58,19,8,11,17,12,1,57,40,35,11,26,174,51,7,56,48,56,12,98,82,32,68,140,62,24,20,73,5,721,45,334,2,6,1,2,10,2,2,2,17,1,2,10,26,80,4,21,85,7,22,1,164,29,575,52,247
+Qualité	643,94,11,257,182,1507,702,1007,967,260,124,174,2963,515,159,1147,263,943,26,1357,89,43,283,102,25,5,60,253,271,105,85,240,31,234,285,4,58,19,8,11,17,12,1,57,40,35,11,26,174,51,7,56,48,56,12,98,82,32,68,140,62,24,20,73,5,721,45,334,2,6,1,2,10,2,2,2,17,1,2,10,26,80,4,21,85,7,22,1,164,29,575,52,247,32,5,34,35,11,20,30,10
 Qualité ARMP Agence de Régulation des Marchés	10975
 Qualité Administrateur	17827
 Qualité Article	17876
@@ -1972,14 +1989,14 @@ Qualquer Cônjuge	10777
 Qualquer Plataforma	16027
 Qualquer Proposta	18753
 Qualtrics	8670
-Quand	747,1,1058,178,459,70,1,121,166,298,96,270,193,66,92,5,168,44,989,258,101,713,181,145,158,102,279,224,172,258,100,94,192,703,19,95,32,105,40,287,77,367,306,94,230,35,157,614,488,76,21,1548,7,168,62,1,632,87,297,106,611,84,126,22,16,72,143,866,34,1,72,739,390,47,6,212,203,7,8,614,227
+Quand	747,1,1058,178,459,70,1,121,166,298,96,270,193,66,92,5,168,44,989,258,101,713,181,145,158,102,279,224,172,258,100,94,192,703,19,95,32,105,40,287,77,367,306,94,230,35,157,614,488,76,21,1548,7,168,62,1,632,87,297,106,611,84,126,22,16,72,143,866,34,1,72,739,390,47,6,212,203,7,8,614,227,178,2,29
 Quand PROBLÈME PROBLÈME	13300
 Quand la DGI	6383
 Quand la Pourcentage	13300
 Quand le Numérique	18252
 Quando	14,1,534,195,2122,653,3451,148,885,157,1016,147,178,1050,200,1,1,2,22,586,2,3,2,3,1,10,28,4,9,5,13,2,1,15,6,53,3,54,5,319,117,293,464,7,2,77,2497,22,5,7,4,37,7,10,27,32,11,34,18,200,250,5,62,33,203,768,7,78,122,1449,3,1,2,3,3,3,10,4,22,1,1,28,3
 Quansah	11140
-Quant	565,172,550,421,210,145,217,62,281,343,138,234,58,69,241,48,235,394,3,73,91,263,61,848,512,204,312,18,59,36,96,255,92,328,36,203,53,3,298,94,570,676,148,16,658,323,105,4,5,49,2,8,80,683,178,242,1232,25,16,49,37,15,25,15,29,939,29,48,46,24,793,8,1,24,89,30,57,40,34,38,1,116,61,47,259,133,37,13,97,13,57,95,852,113,225,12,3,19,8,13,16,44,14,24,107,10,3,2,43,2,7,12,117,5,16,15,43,53,501,7,46,14,17,1,32
+Quant	565,172,550,421,210,145,217,62,281,343,138,234,58,69,241,48,235,394,3,73,91,263,61,848,512,204,312,18,59,36,96,255,92,328,36,203,53,3,298,94,570,676,148,16,658,323,105,4,5,49,2,8,80,683,178,242,1232,25,16,49,37,15,25,15,29,939,29,48,46,24,793,8,1,24,89,30,57,40,34,38,1,116,61,47,259,133,37,13,97,13,57,95,852,113,225,12,3,19,8,13,16,44,14,24,107,10,3,2,43,2,7,12,117,5,16,15,43,53,501,7,46,14,17,1,32,180,44,31,4
 QuantStudio	13617
 Quanta Club	15290
 Quantas	10777
@@ -1998,7 +2015,7 @@ Quantifying the Revenue Yields	10997,1951
 Quantiles T1 Top	10764
 Quantilope	7278
 Quantitatifs	748
-Quantitative	2948,843,3968,371,246,753,487,1934,458,289,1060,628,1137,1066,783,168,10,8,491,1067
+Quantitative	2948,843,3968,371,246,753,487,1934,458,289,1060,628,1137,1066,783,168,10,8,491,1067,522
 Quantitative Analysis	12978,354
 Quantitative Engineering Design	12240
 Quantitative Impacts The Qualitative Impacts	16885
@@ -2027,7 +2044,7 @@ Quantity and Value of Mineral Production	2775
 Quantity and Value of Top Three Processed Product	17043
 Quantity of Researchers Invention	15713
 Quantity of ZRCP TBA	1988
-Quantité	2342,1054,9904,224,964,1,1,1509,720,1226
+Quantité	2342,1054,9904,224,964,1,1,1509,720,1226,1305
 Quantité Inspection	15999
 Quantité Légumes	15999
 Quantité Montant	2966
@@ -2130,7 +2147,7 @@ Quarter. Tabulation and Disaggregation of Suspensions	12972
 Quarter. Tabulation and Disaggregation of Transfers	12972
 Quarter. Tabulation and Disaggregation of Variations	12972
 Quarterl	16963
-Quarterly	958,12,314,402,92,210,108,1695,1705,37,899,305,811,2859,314,413,22,140,561,67,28,34,76,133,38,20,2,750,75,251,16,115,17,1298,158,146,9,74,389,105,3,371,801,10,41,38,20,1,8,12,8,14,114,15,2,23,10,108,3,54,872,31,600
+Quarterly	958,12,314,402,92,210,108,1695,1705,37,899,305,811,2859,314,413,22,140,561,67,28,34,76,133,38,20,2,750,75,251,16,115,17,1298,158,146,9,74,389,105,3,371,801,10,41,38,20,1,8,12,8,14,114,15,2,23,10,108,3,54,872,31,600,420
 Quarterly APPENDIX C	15149
 Quarterly ARCT Data	1284,12047
 Quarterly ARCT PIU	1284
@@ -2200,6 +2217,7 @@ Quarterly Migrants	17157
 Quarterly Monitor	1988
 Quarterly NACSA	15845
 Quarterly NAIC Review	4528,7984
+Quarterly NSHI	19284
 Quarterly National AI	7548
 Quarterly National Accounts	8532
 Quarterly National Accounts Manual	236
@@ -2262,7 +2280,7 @@ Quarterly the PIU	16850
 Quarterly&volume	2096
 Quarters	5168,9682,2046,26
 Quartey	9007
-Quartier	13292,98,932,103,1483,743
+Quartier	13292,98,932,103,1483,743,2563
 Quartier Abaradjou	17819
 Quartier Almamya	16624
 Quartier Centre-villeLocalisation Immeuble Les Arcades	15368
@@ -2300,7 +2318,7 @@ Quaternary	13385
 Quaternary International	16135
 Quatorze	10760,3742
 Quatorze Mil	18798
-Quatre	737,28,233,189,1551,212,209,480,1173,692,8,547,50,631,477,80,788,360,211,237,280,368,1171,146,107,102,877,575,771,10,1,141,359,10,885,96,682,68,26,144,195,1,297,94,60,1102,381,14,10,32,85,13,155,49,27,59
+Quatre	737,28,233,189,1551,212,209,480,1173,692,8,547,50,631,477,80,788,360,211,237,280,368,1171,146,107,102,877,575,771,10,1,141,359,10,885,96,682,68,26,144,195,1,297,94,60,1102,381,14,10,32,85,13,155,49,27,59,930,28
 Quatre Bornes	3292,11454,7
 Quatre Bornes Bus Owner’s Cooperative Society	14753
 Quatre Cocos	14830
@@ -2486,6 +2504,7 @@ Selection Qualify	11855
 Senate Portfolio Committee First Quarter Performance	9525
 Senior and Junior Quarterly	15845
 Sept Cent Soixante Quatre Millions Huit	13329
+Sept Millions Quarante Huit Mille	19209
 Service Co-ordinating Bargaining Council QCTO Quality	11261
 Service Commission QCTO Quality Council for Trades	11198
 Service Quality	5676
@@ -2570,6 +2589,7 @@ THRIVE A QUALITATIVE AND QUANTITATIVE	15460
 TIC. Quant	17856
 TITRE VI ACQUISITION DE QUALITE	15410
 TIVRE QUATRIEME DU COMMERCE ELECTRONIQUE TITRE	15429
+TOGO ESSENTIAL QUALITY HEALTH SERVICES	19284
 TRAITEMENT ET QUALITÉ DE DONNÉES	14893
 TRANSITION IMPACT Primary Quality	1818
 Taxonomia de Dados Públicos Quadro de Definições	11448
@@ -2595,6 +2615,9 @@ Third Quarter Sector Statistics Report	6671,74
 Third Quarter Sector Statistics Report for FY2025	8872
 Thousands Quantity Millions Quantity	11955
 Time Prioridade REGULAMENTAÇÃO E QUADRO INSTITUCIONAL	18796
+Togo Essential Quality Health Services	19284
+Togo Essential Quality Health Services for Universal	19284
+Togo Improving Quality and Equity of Basic Education	19284
 Tombouctou. Quant	6959
 Tonne Quantité	3396
 Toolkit for Facility Data Quality Assessment	11596

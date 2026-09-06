@@ -72,8 +72,8 @@ Establishment of Joint Commission	16649,591,980
 Esther Namirimu Federal Republic of Somalia Joint	15007
 Eswatini Joins	10602
 European Commission Joint Declaration	9067
-European Commission's Joint Research Centre	3604,12347
-European Commission's Joint Research Centre’s Best	3604
+European Commission's Joint Research Centre	3604,12347,3294
+European Commission's Joint Research Centre’s Best	3604,15641
 European Commission. Joint Research Centre	15715
 European Commission’s Joint Research Centre	11050,160,4934,2360
 European High Performance Computing Joint	8346
@@ -100,7 +100,7 @@ HSSP III Joint Annual Review and DHD	12240
 Health Regulations JEE Joint External Evaluation	12729
 Health Sector Joint Annual Review	4301
 IEA-IRENA Joint Policies and Measures Database	12261
-IFC Collaboration Joint Level Yes Complementary	15621,523
+IFC Collaboration Joint Level Yes Complementary	15621,523,3101
 IGAD-EAC-World Bank Joint Workshop	3238
 INIS Infection Prevention and Control IPC Joint	11417
 India and Zambia. The First India-Zambia Joint	13561
@@ -259,6 +259,7 @@ Joint Exercise	14738
 Joint External Evaluation	10776,641,1312,1291,3237
 Joint External Evaluation JICA	10776
 Joint External Evaluation of International Health Regulation	11912
+Joint External Evaluation of Togo’s International	19284
 Joint External Evaluations	12977
 Joint Field Verification	18531
 Joint Financial Planning	17311
@@ -328,6 +329,7 @@ Joint Physical Inspection	17367
 Joint Planning and Construction	12389
 Joint Platform for Advancing Cybersecurity	9470
 Joint Press Conference	17314
+Joint Press Release	19284
 Joint Press Statement	2787,6280,9994
 Joint Programme	6106,8819
 Joint Programme Review Mission	13858

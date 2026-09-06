@@ -64,7 +64,7 @@ Devrient Christoph Lang Spokesman Corporate Communications	17536
 Direction des Sports	18143,27
 Direction du Sport	17899
 Dried Blood Spot	16922
-Développement du Sport	17991
+Développement du Sport	17991,1259
 EQUIPMENT ENTERTAINMENT. SPORTS	16900
 ESSWG Education and Sports Sector Working Group	17196
 ESWATINI SPORTS AND RECREATION COUNCIL	13131
@@ -348,7 +348,7 @@ Sportive	18099
 Sportive I Instituteur IA Instituteur Adjoint	18171
 Sportive LOS	15673
 Sportives	18099
-Sports	1594,326,955,2161,697,281,1656,173,135,28,220,11,32,52,313,84,166,7,765,48,289,32,380,1500,712,44,13,298,22,16,34,62,111,30,43,20,31,36,97,236,81,9,746,202,82,5,591,46,2,106,96,44,222,175,170,94,260,102,123,7,14,1,95,22,93,41,28,93,201,13,19,4,294,26,99,31,44,8,26,20,26,16,82,8,14,36,11,27,26,14,20,14,61,2,1,138
+Sports	1594,326,955,2161,697,281,1656,173,135,28,220,11,32,52,313,84,166,7,765,48,289,32,380,1500,712,44,13,298,22,16,34,62,111,30,43,20,31,36,97,236,81,9,746,202,82,5,591,46,2,106,96,44,222,175,170,94,260,102,123,7,14,1,95,22,93,41,28,93,201,13,19,4,294,26,99,31,44,8,26,20,26,16,82,8,14,36,11,27,26,14,20,14,61,2,1,138,669
 Sports Academy	10399
 Sports Act	14742,101
 Sports And Culture Committee Conduct Visit	18981
@@ -402,7 +402,7 @@ Spotlight Initiative	970,11177,4826,283
 Spotlight Initiative Innovation Award. Trindade João	12147
 Spotlight Reported	11004
 Spotlights Page	2367
-Spots	18039
+Spots	18039,1211
 Spots of Agricultural Production	15715
 Spotting	17884
 Spousal	6357

@@ -71,6 +71,7 @@ ANNUAL REPORT Research For Agricultural Excellence	1554
 ANNUAL REPORT ZIMBABWE AGRICULTURAL SHOW	1154
 AOC Air Operator Certificate AOI Agriculture	2775
 APOLLO AGRICULTURE LIMITED Data Controller INST-832645DF147	7167
+APPUYER LE DÉVELOPPEMENT DE FILIÈRES AGRICOLES	19220
 AU Digital Agriculture Strategy	1257,8352
 AU's Department of Agriculture	1257
 AUX BENEFICES AGRICOLES ET AUX BENEFICES	15999
@@ -80,6 +81,7 @@ Abstract The Food and Agriculture Organization	12667
 Abstract The Sierra Leone Annual Agricultural	18525,42
 Abu Dhabi Accelerator Acquisition Africa Agritech	5322
 Abuja The Federal Ministry of Agriculture and Food	7219
+Accelerate Agricultural Productivity Project	19214,65
 Accelerate Climate-Resilient Agriculture	18197
 Accounts SDGs Agriculture Statistics External Trade	12499
 Acquisition of Agricultural	12912
@@ -144,12 +146,12 @@ Agri-tech and Youth Engagement Crop Strengthening	14818
 Agri3Fund Partners	625
 AgriCatalyst Malawi	13242
 AgriCoach	13314
-AgriConnect	11468,1,17,2106,984
+AgriConnect	11468,1,17,2106,984,4771
 AgriConnect Platform	11469
 AgriConnect Platform Baseline	11469
 AgriConnect. Agriculture	11468
 AgriDPG	14081
-AgriFI	13325
+AgriFI	13325,5895
 AgriSA	2626,4627
 AgriSoko	5172
 AgriSoko Digital Platform	5172
@@ -195,7 +197,7 @@ Agricole du Burundi	13390
 Agricoles	2342,15502,1,1170
 Agricu	13325
 Agricu Elevag	737
-Agriculteurs	17584,361
+Agriculteurs	17584,361,1405
 Agriculteurs Connectés de Guinée	9325
 Agricultores	1701,9725,53,48
 Agricultu	18324
@@ -356,6 +358,7 @@ Agricultural Workers	16266
 Agricultural Workers Metal	16266
 Agricultural Workforce Information	17274
 Agricultural Working Group	2626
+Agricultural Yields	19284
 Agricultural and Commcerial	13477
 Agricultural and Commercial Show	13477
 Agricultural and Critical Minerals Transformation	10321,2319,2205
@@ -374,7 +377,7 @@ Agricultural and Marine Media Subsidize	17157
 Agricultural and Mining Agricultural and Mining	16853
 Agriculturalists	6948
 Agriculturally	17285
-Agriculture	278,117,23,102,123,94,52,151,30,161,30,393,40,88,5,91,36,24,102,48,343,3,8,131,88,63,1,150,33,124,25,108,178,340,21,138,117,2,165,51,49,75,81,246,97,32,238,85,97,167,3,120,913,142,12,514,72,131,5,3,8,116,255,7,3,76,38,8,61,145,102,94,197,34,18,15,142,181,56,3,100,468,39,81,69,6,45,27,115,93,198,16,228,17,211,69,92,171,5,73,15,19,1,24,21,15,28,1,15,17,130,13,48,77,15,5,11,9,102,62,55,57,282,3,15,44,19,50,41,15,142,7,11,146,1,19,9,18,10,18,26,44,6,4,1,86,64,13,14,79,177,11,6,10,3,54,24,2,5,33,7,11,11,1,21,146,5,5,10,2,2,6,5,6,10,17,17,10,5,4,9,4,11,24,32,1,43,2,12,30,51,11,24,37,42,10,9,43,1,16,37,172,16,50,8,231,1,60,51,116,18,19,9,25,3,6,34,12,45,50,49,11,6,1,4,33,1,17,5,1,38,30,32,88,33,12,8,66,162,6,4,50,34,12,1,1,5,21,18,24,38,3,129,3,5,11,26,6,173,6,31,26,21,17,10,2,55,13,27,31,68,6,32,4,2,36,36,12,10,3,101,1,61,69,4,1,6,14,4,23,25,25,115,19,9,11,4,8,1,1,14,16,5,23,5,1,1,1,14,4,3,2,10,7,4,15,32,62,11,11,11,1,1,9,8,71,7,22,3,14,15,75,3,70,11,35,20,20,61,39,189,8,4,3,1,1,12,1,2,16,1,12,3,8,15,1,11,4,21,9,4,13,16,4,1,20,13,12,4,31,31,5,1,4,11,36,5,13,28,1,6,16,7,11,27,2,19,5,2,8,5,3,10,103,13,21,2,25,24,5,51,14,106,6,11,7,50,13,7,18,2,54,36,6,11,1,5,23,20,32,3
+Agriculture	278,117,23,102,123,94,52,151,30,161,30,393,40,88,5,91,36,24,102,48,343,3,8,131,88,63,1,150,33,124,25,108,178,340,21,138,117,2,165,51,49,75,81,246,97,32,238,85,97,167,3,120,913,142,12,514,72,131,5,3,8,116,255,7,3,76,38,8,61,145,102,94,197,34,18,15,142,181,56,3,100,468,39,81,69,6,45,27,115,93,198,16,228,17,211,69,92,171,5,73,15,19,1,24,21,15,28,1,15,17,130,13,48,77,15,5,11,9,102,62,55,57,282,3,15,44,19,50,41,15,142,7,11,146,1,19,9,18,10,18,26,44,6,4,1,86,64,13,14,79,177,11,6,10,3,54,24,2,5,33,7,11,11,1,21,146,5,5,10,2,2,6,5,6,10,17,17,10,5,4,9,4,11,24,32,1,43,2,12,30,51,11,24,37,42,10,9,43,1,16,37,172,16,50,8,231,1,60,51,116,18,19,9,25,3,6,34,12,45,50,49,11,6,1,4,33,1,17,5,1,38,30,32,88,33,12,8,66,162,6,4,50,34,12,1,1,5,21,18,24,38,3,129,3,5,11,26,6,173,6,31,26,21,17,10,2,55,13,27,31,68,6,32,4,2,36,36,12,10,3,101,1,61,69,4,1,6,14,4,23,25,25,115,19,9,11,4,8,1,1,14,16,5,23,5,1,1,1,14,4,3,2,10,7,4,15,32,62,11,11,11,1,1,9,8,71,7,22,3,14,15,75,3,70,11,35,20,20,61,39,189,8,4,3,1,1,12,1,2,16,1,12,3,8,15,1,11,4,21,9,4,13,16,4,1,20,13,12,4,31,31,5,1,4,11,36,5,13,28,1,6,16,7,11,27,2,19,5,2,8,5,3,10,103,13,21,2,25,24,5,51,14,106,6,11,7,50,13,7,18,2,54,36,6,11,1,5,23,20,32,3,221,11,1,122,11,2
 Agriculture AI	4528,7984
 Agriculture About	16921
 Agriculture Act Cap	18466
@@ -421,6 +424,7 @@ Agriculture Dr ALAMBEDJI ABBA ISSA Pour	18115
 Agriculture EDSN	18100
 Agriculture Economist	13049
 Agriculture Engineering Secretary	9609
+Agriculture Evaluation	19221
 Agriculture Evaluation Mettre	15583
 Agriculture FCA	15848
 Agriculture FDS	10874
@@ -617,7 +621,8 @@ Agro- Private Agricultural Sector Support Trust	7763
 Airport JKUAT Jomo Kenyatta University of Agriculture	2775
 Alienation of Agricultural Land	12912
 America USDA United States Department of Agriculture	17157
-Aménagement Agricole Planifiées	8303
+Aménagement Agricole Planifié	19315
+Aménagement Agricole Planifiées	8303,10981
 Aménagement Hydro Agricole BAD	18118
 Analysis DAFF Department of Agriculture	11188
 Analysis of Agricultural Empowerment Profiles	15473
@@ -682,6 +687,7 @@ Cabinet Secretary for Agriculture and Livestock Development	14575
 Cahiers Agricultures	16359
 Cambio Climático MAGBMA Ministerio de Agricultura	16875
 Campagne Agricole	13746,60,1909
+Capitaine de Frégate AGRIGNA Sama GENDARMERIE NATIONALE	19251
 Censo General de Agricultura DUE Diplomado Universitario	16969
 Census of Agriculture	14818
 Central Agricultural Research Institute	17306
@@ -708,7 +714,7 @@ Climate Smart Agriculture Support Project	18104
 Climate Smart Agriculture-	970
 Climate and Environment Agriculture and Food Security	13685
 Climate-Resilient Agriculture	1867
-Climate-Smart Agriculture	12614,860
+Climate-Smart Agriculture	12614,860,5810
 Close the Agricultural Data Gap	17043,84
 Closing the Knowledge Gap. Food and Agriculture Organization	17127
 Cluster Agriculture	15936
@@ -1165,6 +1171,7 @@ Malian Solidarity Bank and National Agricultural	17906
 Marco Gaetani. Agriculture	16135
 Market Scan of Digital Agriculture Solutions	14674
 Marketed Agricultural Production	2775
+Marketing Agricole	19366
 Marketing of Agricultural Products Act	1009
 Markets Economy Real Estate Agriculture Aviation	9750,247
 Markets Payments Fintech Agricultural	14997
@@ -1242,7 +1249,7 @@ Ministry of Agriculture and Forestry	1161,10237,7078,7
 Ministry of Agriculture and Irrigation	9587,5362,169,24
 Ministry of Agriculture and Land Reclamation	15473
 Ministry of Agriculture and Land Reclamation of Egypt. Data	16466
-Ministry of Agriculture and Livestock	4762,5551,4263,2370,211,1041
+Ministry of Agriculture and Livestock	4762,5551,4263,2370,211,1041,1157
 Ministry of Agriculture and Livestock FOR MORE INFORMATION	14576
 Ministry of Agriculture and Livestock. The Agency	17157
 Ministry of Agriculture and Rural Development	10964,21,4663,154
@@ -1281,6 +1288,7 @@ Mozambique Minister of Agriculture	12856
 Mr. Anthony Varwen Ministry of Agriculture	16853
 Mº AGRICULTURA	4209
 Mº de AGRICULTURA	4209
+Mécanisme Incitatif de Financement Agricole	19220
 N STANDARD TITLE REFERENCE NUMBER AGRICULTURE	15027
 N WITHDRAWN STANDARD REPLACING STANDARD AGRICULTURE	15027
 NA NA NA NA NA Agriculture	17140
@@ -1391,7 +1399,8 @@ Percentage Share of Agricultural Households	16921
 Pilot the Agriculture Lending	15130
 Plan National de Développement Agricole PNDR Plan	17907
 Plan for Agricultural Transformation	14997
-Planned Agricultural Development Zones	17613
+Planned Agricultural Development Areas	19214
+Planned Agricultural Development Zones	17613,1671
 Planning NAEB National Agricultural and Export Development	14985
 Plant Genetic Resources for Food and Agriculture JE	11197
 Platform for Agricultural Risk Management PCE	18309
@@ -1415,6 +1424,7 @@ Professionals Market-oriented Skilled Agricultural Workers	16266
 Professor of Agricultural Extension and Rural Development	17070
 Programme de Productivité Agricole	16627
 Projects and Agricultural Development	15473
+Projet Agri-PME	19221
 Promote Climate-Resilient Agriculture	17157
 Promote Good Agricultural Practices	14818
 Promote Sustainable Agribusiness and Fisheries	11536
@@ -1482,7 +1492,7 @@ Rwanda’s Agricultural Exports Cross	14969
 Rwanda’s Flagship Agribusiness Hub	3256
 RÉSIDUS AGRICOLES	13300
 Réforme Foncière Agricole	16668
-Résilience Agricole	17849
+Résilience Agricole	17849,1517
 SASSCAL's AgriWatch	11407
 SDR- Enquête Agricole De Conjoncture Campagne	17945
 SFWF Agricultural Services	14818
@@ -1599,6 +1609,7 @@ Telecomunicaciones No Registros Ministerio de Agricultura	16898
 Tendances Agriculture	14488,1,1
 ThriveAgric’s Agricultural Operating System	11127
 Through the Agricultural Credit Facility	3705
+Togo Sustainable Agriculture Transformation Program	19284
 Top Stories The AgriHyphen AI	13529
 Topics Keywords Agricultural	18525,42
 Topics Keywords Agricultural Households Crop Production	17366

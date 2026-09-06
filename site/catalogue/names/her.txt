@@ -71,10 +71,10 @@ Cultural Heritage	1264,724,1468,7373,135,1001,1509,49,1030,23,334,2016,10,163,15
 Cultural Heritage Act	18370
 Cultural Heritage Construction	1988
 Cultural Heritage Data	3861
-Cultural Heritage ESS	3604,7813,488
+Cultural Heritage ESS	3604,7813,488,7379
 Cultural Heritage Not Currently Relevant	15658
 Cultural Heritage Not Currently Relevant ESS	10768,792,4101,1288,1249
-Cultural Heritage Relevant ESS	1867,4672,9204,401
+Cultural Heritage Relevant ESS	1867,4672,9204,401,3095,6
 Cultural Heritage Relevant ESS8	17114
 Cultural Heritage Relevant Mar	18374
 Cultural Heritage Training	17114
@@ -284,6 +284,7 @@ Hermann Gmeiner	13046
 Hermann Immongault	4125,2250,893,273,4550,20
 Hermann Immongault. Elle	16502
 Hermann KOLOLO	16249
+Hermann Pythagore Pierre Team Member Economist	19284
 Hermann Rodrigue Jeanel	15524
 Hermann Toé	3411
 Hermanus PnP Knysna	8999
@@ -554,7 +555,7 @@ Seychelles Heritage Agency. Cabinet	19108
 Seychelles Heritage Incentive Scheme	19137,1
 Seychelles. President Herminie	19060
 Shrubs and Herbaceous	15129
-Sint Eustatius and Saba Bosnia and Herzegovina Botswana	11470
+Sint Eustatius and Saba Bosnia and Herzegovina Botswana	11470,7872
 Sir Francis Herchenroder Street	14847
 South Africa's World Heritage	2626
 South Africa. Herein	11221

@@ -39,7 +39,7 @@ Action Humanitaire CDMT Cadrage de Dépense	17907
 Action I.2.1 Les CDS	13306
 Additional CDD Measures	17183
 Adjusted CDR	12413,2643
-Africa CDC	560,2118,2104,359,62,10,165,78,455,426,158,502,710,1497,514,251,200,308,169,130,814,89,961,501,1481,54,287,870,178,398,562,127,191,76,202,60,61,47
+Africa CDC	560,2118,2104,359,62,10,165,78,455,426,158,502,710,1497,514,251,200,308,169,130,814,89,961,501,1481,54,287,870,178,398,562,127,191,76,202,60,61,47,1619
 Africa CDC Chief Digital Advisor Nsengimana	5378
 Africa CDC Continental Health Data Governance	6794
 Africa CDC DG Jean Kaseya	5213
@@ -63,6 +63,7 @@ Africa CDD-Ghana Ghana Center for Democratic Development	10759,78,1052,451
 African Republic CDMA Code Division Multiple	18887
 Africana de Estatística CD Conselho Diretivo CEDEAO	15535
 Afrique CDC	16195
+Afryce. CDA	19328
 Agency for International Development US CDC United	18668
 Agricultural Inputs Programme CDC Centre for Disease	13080
 Agriculture de Mauritanie CDS Système	17881
@@ -76,6 +77,7 @@ Application Programming Interface CDO Chief Digital	12674
 Application Programming Interface CDSS Clinical Decision	9855
 Applying CDD	17183
 Assédio Sexual CdC Código de Conduta COS	11413
+Au CDDI	19250
 Availability of Simplified and Enhanced CDD Measures	12389
 Average Revenue Per User CDMA	6000
 Ayene Cdo Mongomo	4209
@@ -97,9 +99,11 @@ CBAO Comtech CDD564 AL CDD564	998
 CBMT. Le CDMT-L	15569
 CBMT. Le CDMT-P	15569
 CBR Crude Birth Rate CDR Crude	12413
+CBSS Country-based Support Scheme CDMT Cadre	19220
 CC Conseil Constitutionnel CDPH Convention	18310
 CCI RUIRU CDC Data Processor INST-626651D9C67	7167
 CCT Conditional Cash Transfers CDA Community	15604
+CD Access Method and Physical Layer Specifications	19245
 CD Communicable Diseases CDC Center for Disease	12151
 CD Continuous Integration	11952
 CD Cor	12360
@@ -113,11 +117,13 @@ CD-10 Identifier ICT Integrating the Healthcare Enterprise	1009
 CD-ROM	34,16155,709,544,385
 CD-ROM Start Guide Support	34
 CD-ROM. Coordonnées	17827
+CD-RW	19226
 CD. The ICT	34
 CD012944	10881
 CD012944.pub2	10881
 CDA Cazeau	18879
 CDA County Development Agenda CHE Climate	17289
+CDA. Finansowanie	19328
 CDAC HPC Resource Management Engine	9475
 CDAC Network	7174,7842,326
 CDAC Network Sayer Vincent	15342
@@ -130,6 +136,7 @@ CDB and ZTE	105
 CDC Africa	16195
 CDC Africa. Santé	16195
 CDC Afrique	15712,483
+CDC Afrique. Plus	19354
 CDC Afrique44	16195
 CDC BENIN Additif	16395
 CDC BENIN Référence S CSM 119867 Date	16395
@@ -153,6 +160,7 @@ CDC Foundation	13425,4543
 CDC Group	45,1,1,1,72,56,66,1,92,118,155,1,1,1,122,80,2,1,1,1,1,10,221,365,1,1,1,721,1,1
 CDC HDSS. Acta Tropica	8604
 CDC Health Data Governance Framework. Together	6794
+CDC Ouganda	19354
 CDC PEPFAR	496
 CDC USD	211
 CDC United States Centers for Disease Control	13300
@@ -179,6 +187,9 @@ CDD-FDD. Lors	13530
 CDD-Ghana	7886,2873,76,2,1,130,902,16,2,1,264,1,9,29,86,62,1,11,1,135,13,4143
 CDD-Ghana Ghana Center for Democratic Development	11887,266,1,9,178
 CDD-Ghana Ghana Center for Democratic Development UNU-WIDER	10835,3,130,902,16,466,1,135
+CDDI CI	19250
+CDDI CI Graphique	19291
+CDDI RELATIF	19256
 CDE District Election Commission CEDAW Convention	12201
 CDE Land Tenure Commission	18293
 CDEAO	998
@@ -229,6 +240,7 @@ CDM EMMANUEL HEALTH CENTRE	7167
 CDM ICHAGAKI HEALTH CENTRE Data Controller	7167
 CDM ICHAGAKI HEALTH CENTRE Data Processor	7167
 CDMA Code	12911
+CDMA Code-division	19350
 CDMA and ADSL	35,9531
 CDMA2000	15471
 CDMG Date	16395
@@ -257,6 +269,8 @@ CDN Congo.pdf Page	15553
 CDN Content Delivery Network Colo Colocation	10861
 CDN Opportunities Colocate	13704
 CDN and SDN	8130
+CDN du Togo	19241
+CDN du Togo. Art	19241
 CDN. Aussi	17941
 CDN. Le PAGL2	16646
 CDN77. Cape Town	9617
@@ -290,6 +304,7 @@ CDPSE	10876
 CDPU A1OS2-A2	18121
 CDPU A2OS1-A3	18121
 CDPU Arrêté	18121
+CDR Academics	19237
 CDR Crude Death Rate	12367
 CDR-based	6024
 CDRVs	18310
@@ -319,10 +334,12 @@ CDT AA	17841
 CDTSAOLU	12252
 CDTable	10714
 CDV Conseil	15724
+CDVA Centre	19350
 CDerecraetaeseadnavAaIilaInbidlituystorfydsaytastdeume	15713
 CDfZ8a	19150
 CDigital	5700
 CDncession	37
+CDrom	19226
 CE NATSIKAP AIDNI COI CDAS	14843
 CE NATSIKAPAIDNI COI CDAS	14843
 CPE and CDE	12201
@@ -375,6 +392,7 @@ Computer Assisted Personal Interviewing CDHS-V	15574
 Conduct CDD and Customer Identity Risk Factors	12389
 Conducting CDD	17183
 Constitutional Council CDD Centre for Democratic Development	12201
+Contraception Chirurgicale Volontaire CD	19226
 Control CDO Chief Digital Office	13080
 Cooperation and CDmmunlties	11517
 Coordinated CD	13624
@@ -462,6 +480,7 @@ Le CDSMT	15569
 Le CDSMT-L	15569
 Le CDSMT-P	15569
 Le CDTO	17448
+Lecteur CD	19350
 Lending Obligations CCP Central Counterparty CDD	14997
 Les CDN	16545
 Les CDS	15685
@@ -553,6 +572,7 @@ Sweden and Germany. Africa CDC	17735
 TFR GFR CBR CDR Neonatal Infant	12413
 TPIs and CdAs	17441
 TRANSFER OF PERSONAL INFORMATlON CDPG	13376
+TVA CDDI	19250
 Technologie CDMA	15542
 Terrorism CD Chartered Institute of Bankers of Nigeria	17235
 Through UNICEF CDS-EOS	11401

@@ -233,6 +233,7 @@ All Controlling Officers and Senior Management of State	13122
 All Council	14736
 All County Service Centers	16872
 All Cross Cutting	6423
+All DALYs	19284
 All DC	9123
 All DDPs	8436
 All DHA	11986
@@ -245,6 +246,7 @@ All Data	16924
 All Data Controllers	13004
 All Day	10707
 All Deposit Money Banks	6935
+All Disbursements	19214
 All District Hospitals MoH	18478
 All Districts MoH	18478
 All Districts MoH Scaled	18478
@@ -305,7 +307,7 @@ All Hands	5349,12814
 All Heads of ICT	13308
 All High Court	13504
 All ICPC Members	3513
-All ICT	34,924,10273,1686,4007
+All ICT	34,924,10273,1686,4007,2321
 All ID	10775
 All ID and CR	15553
 All IDIs and FGDs	12231
@@ -565,6 +567,8 @@ Allaitement	13300,5012
 Allaitement Allaitement	13300
 Allaitement Allaité	13300
 Allaitement Initiation	13300
+Allaitement Maternel	19226
+Allaitement du Nné de Nné	19226
 Allaiter	13300
 Allaitez-vous	13300
 Allaité	13300
@@ -601,10 +605,12 @@ Alleged Unfair Practices	9117
 Allegedly	13314
 Allegedly Sold Driver’s Licences	8639
 Allemag	13325
-Allemagne	643,1810,513,499,377,1187,1231,307,46,137,209,165,1767,976,460,44,1316,99,288,1251,1081,1094,39,619,297,110,1299,23,60,6,127,58,127,51,65,19,2,1,13,9,563
+Allemagne	643,1810,513,499,377,1187,1231,307,46,137,209,165,1767,976,460,44,1316,99,288,1251,1081,1094,39,619,297,110,1299,23,60,6,127,58,127,51,65,19,2,1,13,9,563,232,129
+Allemagne France FEDD	19220
+Allemagne France Total M EUR	19220
 Allemagne. Bureau	10712
 Allemagne. Par	10371
-Allemand	998,12392
+Allemand	998,12392,5976
 Allemande	16249
 Allemande Dermalog	11972
 Allembé	15615
@@ -631,9 +637,10 @@ Allgemeine Zeitung	3002,443,14,16,1606,536,7397
 Allgemeinen Zeitung	13014
 Alliamore	15692
 Alliamore NKABA ATSAMA	1594
-Alliance	1824,553,172,792,15,631,368,1136,458,10,135,137,138,911,53,412,254,503,253,93,200,659,99,583,158,182,90,55,91,1313,166,881,65,178,60,559,17,418,42,810,117,374,193,37,114,370,271,337,184,195,5,170,58,45,43,118,17,26,64,42,11,220,662
+Alliance	1824,553,172,792,15,631,368,1136,458,10,135,137,138,911,53,412,254,503,253,93,200,659,99,583,158,182,90,55,91,1313,166,881,65,178,60,559,17,418,42,810,117,374,193,37,114,370,271,337,184,195,5,170,58,45,43,118,17,26,64,42,11,220,662,131
 Alliance ATACH	14622
 Alliance Access Integration Platform	16942
+Alliance Afrique- Europe	19220
 Alliance Better Than Cash	10711
 Alliance Bioversity International	13881
 Alliance Burkinabè des Domaines Internet	9509
@@ -742,8 +749,8 @@ Allmyt Summit	7244
 Allo CAIDP	3340
 Allo Goor Gi	8305
 Allocat1i2o.1n	10157
-Allocate	961,39,3528,716,289,5732,911,77,103,156,163,635,1508,61,118,247,469,1163,51,12,12,20,40,146,139,1074,112
-Allocated	1756,1,1,1,1,1,1,1,1,1,708,1110,7287,4683,110,306,63,47,693,222,49,53,374,35,453
+Allocate	961,39,3528,716,289,5732,911,77,103,156,163,635,1508,61,118,247,469,1163,51,12,12,20,40,146,139,1074,112,752
+Allocated	1756,1,1,1,1,1,1,1,1,1,708,1110,7287,4683,110,306,63,47,693,222,49,53,374,35,453,1284
 Allocated Allocation	16032
 Allocated Amountin USD	13392
 Allocated Budget	1289,13646
@@ -751,7 +758,7 @@ Allocated Methodology	16079
 Allocates	1686,6918
 Allocating	12647,2387,1926,1961
 Allocating Universal Service Subsidies Using Electronic	14674
-Allocation	11,1172,1290,2180,1779,1116,302,1909,1375,47,686,30,278,472,604,1681,149,57,26,176,133,463,33,56,7,155,32,620,95,223,1136,66,11,94,423,55
+Allocation	11,1172,1290,2180,1779,1116,302,1909,1375,47,686,30,278,472,604,1681,149,57,26,176,133,463,33,56,7,155,32,620,95,223,1136,66,11,94,423,55,279,63
 Allocation Actuals	1228
 Allocation Complémentaire	15673
 Allocation Developing System and Network Developing Security	15164
@@ -768,6 +775,7 @@ Allocation of CTs	15663
 Allocation of Capacity	15081
 Allocation of Costs	17249
 Allocation of Functions	10157
+Allocation of Grant Funding Annex IV	19214
 Allocation of Grant and Credit Proceeds	18887
 Allocation of K2.0	13122
 Allocation of K7	13122
@@ -775,7 +783,7 @@ Allocation of Natural Resources	13251
 Allocation of S-MPS	15244
 Allocation of Special Drawing Rights	11131
 Allocation of Special Drawing Rights Domestic	11131,3
-Allocations	1284,554,29,5681,3163,849,345,296,722,199,936,495,1068,37,3,82,401,778,56,637
+Allocations	1284,554,29,5681,3163,849,345,296,722,199,936,495,1068,37,3,82,401,778,56,637,1630
 Allocations IPv4	17896
 Allocations PBC Performance-Based Conditions PCE Private	1264
 Allocations Per Province Province	11890
@@ -794,7 +802,7 @@ Allotey F.& Akorli F	236
 Allotment	18556
 Allotment of Time	18436
 Allotted	16971
-Allouer	15568,2256,12,147,1005
+Allouer	15568,2256,12,147,1005,372
 Allow	2668,1318,1261,430,746,1565,586,1636,103,1559,3,74,28,64,287,31,333,1,232,59,134,4,355,544,92,834,653,267,996,13,362,109,523,435
 Allow Aggrieved Bidders	12389
 Allow Eritrea	14023
@@ -900,7 +908,7 @@ Bank of Botswana Fintech Portal. All	12603
 Bank. All	11855,8,2881
 Bank. Completion Measurement Comments All	17470
 Banque Allemande de Développement LNCQ	15475
-Based Allocations	18809
+Based Allocations	18809,475
 Baseline Allocation	11890
 Baseline Assumptions All	10157
 Basic Books. Allison	17780
@@ -970,7 +978,7 @@ CREATE NATIONAL REGISTER FOR ALL STUDENTS	14478
 CSA'S STRONG WARNING TO ALL INSTITUTIONS	9728
 CSG Income Allowance	14782
 CSPs and End User Agreements All	6432
-CY. Allocated	17470
+CY. Allocated	17470,1772
 Cabinet No Result View All Result	5774
 Cadastre Zimbabwe. All	12511
 Calling All Tech Diplomats	4253
@@ -1027,6 +1035,7 @@ Cloud Steering Committees All	6432
 Co-Founder of Borderless Alliance	17582
 Coding Training for All	3397
 Collateral Registry Regulations. All	14206
+Colonel ALLAHARE Rembena Komlan	19251
 Colonel ALLAKOUA	16100
 Combat Cybercrime. Allocate	1777
 Commission for Revenue Allocation	14422
@@ -1064,7 +1073,7 @@ Contractual and Regulatory Obligations All	3861
 Contributions All	17780
 Cookie Settings Accept All CookiesManage	3907
 Cookie SettingsREJECT ALLACCEPT ALLManage	6181
-Coopération Allemande	10371,341
+Coopération Allemande	10371,341,8508
 Coopération Technique Allemande	13390,2152
 Copyright All	18525,42,3
 Corporate Emails All	16943
@@ -1186,6 +1195,7 @@ Disclaimer All	8376,3870
 Disclosure of Information All	775
 Dispute Resolution All	6432
 Disrupt Africa. All	4883
+Distinct Households. Allocated	19242
 Document ALL	13310
 Document. All	3503
 Documentation and Auditability All	3861
@@ -1364,9 +1374,9 @@ Global Alliance for Genomics and Health	10188
 Global Alliance for Improved Nutrition. I-CAN	15725
 Global Alliance for Trade Facilitation	17274
 Global Alliance for Vaccine Initiative	14622
-Global Alliance for Vaccines and Immunization	16860,245,777
+Global Alliance for Vaccines and Immunization	16860,245,777,1402
 Global Alliance for Vaccines and Immunization GBT	10776
-Global Alliance of National Human Rights Institutions	13097,1654,3183
+Global Alliance of National Human Rights Institutions	13097,1654,3183,1300
 Global Alliance of National Human. Chapter II	14742
 Global Anti-Scam Alliance	7476,5585
 Global Anti-Scam Alliance’s State of Scams	8711
@@ -1403,6 +1413,7 @@ Government of Senegal. All	18318
 Government of Uganda. All	4217
 Government. All	13312,2
 Governments All	13312
+Government’s Prevention and Resilience Allocation	19284
 Grant Allocated	15658,1278
 Grant Allocation	18467
 Green Deal Alliances	643
@@ -1502,6 +1513,7 @@ ID for All Uganda	2720
 ID for All Uganda’s National Identification and Registration	3285
 ID-4 All	10819
 ID. All	10728
+IDA-D7870-001 New Allocation	19284
 IFC and African Capital Alliance	14404
 IGRP Web Allows	11939
 IMF All-Commodity Price Index	17193
@@ -1589,6 +1601,7 @@ Junior Achievers and ENACTUS. All	12922
 Jurisdiction and Cross-Border Considerations All	3861
 Justice for All	18477
 Justice for All Through	18477
+KALAO Edjare Alleya ADC	19251
 KEY SECTOR ALLOCATIONS AND DEVELOPMENT PROJECTS	13122
 KURREEMBUKUS Bilall Ally Ag Human	14770
 KYC Improved All	14997
@@ -1621,6 +1634,7 @@ Liberia's National Table of Frequency Allocations	16872,103
 Libya Interior Minister Alleges State	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
 License All	18038
 Licensing and Registration All	13381
+Lieutenant-colonel ALLADO-YAWOVI Kokoudjin	19251
 List of Services Offered All	12157
 Literacy and ALL COUNTRIES Affordability Literacy and Safety	11004
 Loan Allocated	15411
@@ -1672,6 +1686,7 @@ MINTER All Agencies	15845
 MINTER All Agencies MINTER All Agencies	15845
 MISA Zimbabwe and Media Alliance of Zimbabwe	6951
 MInT. All Rights Reserved	13971
+MNOs. All	19237
 MONTHS All	11252
 MOR's Ethics Directorate. All	12500
 MSPs. All ICT	3604
@@ -1804,7 +1819,7 @@ Nigerians. All	3030
 Nights Quantity Participants Allowances	12253
 Nile Post. AllAfrica	17683
 No. All	16889,228,39,95
-No. Category Allocation Committed Allocation	2473
+No. Category Allocation Committed Allocation	2473,16811
 Non- All	14997
 Notice of Assignment for All Purposes	14675
 Number of Allegations Received	11250
@@ -1812,6 +1827,7 @@ Number of Allocations	7548
 Number of Holdings All	17043
 Numérique Allocution du Président	15458
 Nursing Trainee Allowance	7695
+N’KORE Allone SCH	19251
 OBSERVÉ ALLAIT- TEMENT	13300
 OECD Principles GOAL Governance Mandates for All	16212
 ONG Financial Alliance for Health	18326
@@ -1839,7 +1855,8 @@ Ownership All	18904
 Ownership and Confidentiality All	12008
 PAENS. Rising Budget Allocation	5056
 PAFEN. All	1284
-PBC Allocation	15659
+PBC Allocation	15659,3625
+PBC Allocation The World Bank	19284
 PBCs. All	15802
 PDF. All	9630,2251
 PEPFAR. All the African MOUs	5456
@@ -1912,7 +1929,7 @@ President Kiir Orders Digitization of All Government	18660
 President. All	16843
 Presidential Assent Enacted Rejected Withdrawn All	17388
 Presidential Initiative for Quality Education for All	15743
-Prevention and Resilience Allocation	10964,5478,1
+Prevention and Resilience Allocation	10964,5478,1,2841
 Prevention and Resilience Allocation SEA Standard Bidding	10964
 Prime Minister Abdoulaye Maiga. All	3646
 Principal Secretary Allain Volcere	18964
@@ -1928,11 +1945,13 @@ Procurement Regulations. All	18495
 Prof. Allé Nar Diop	8072
 Prof. Dr. Abdella Zidan Allag Chairman	16863
 Prof. Philip Alliston	3005
+Program Recipients. Allocated	19242
 Program. All	11855
 Progress Report GEA Global Energy Alliance	16188
 Project Components and Funds Allocation	1704
 Project Description Budget Allocation District Specific	11986
 Project Financing Allocation Components IDA Financing	3604
+Project Implementation Unit. All	19284
 Project. All	16949
 Promote Legal Identity for All Decentralization of Services	13080
 Promoting Clean Energy for All	11332
@@ -2112,6 +2131,7 @@ Santé Alliance for Health Policy and Systems Research	14622
 Sao Tome. All Rights Reserved. Visitors	18810
 Satellite Communications Guidelines. All	17191
 Satisfactory Environment All	14742
+Savanes Aller	19353
 Savings of Prior Law and Acts All	3861
 Scaling Up All Strengthen	14997
 Scheme. Subsistence Allowance Scheme Child Allowance	14835

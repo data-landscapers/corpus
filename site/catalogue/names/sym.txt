@@ -108,7 +108,8 @@ Symptoms	12151
 Symptoms of Acute Respiratory Infection	13454,4987
 Symptoms of Anxiety and Depression	13454
 Symptoms of Sexually Transmitted Infections and Prior HIV	15247
-Symptômes	13300
+Symptômes	13300,5926
+SymptômesDiagnosticIssue	19226
 Symétrie	7620
 University Symposium	17735
 Utilisation des Symboles	17949
