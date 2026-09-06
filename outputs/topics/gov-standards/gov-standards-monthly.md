@@ -3,13 +3,13 @@ title: Standards — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: gov.standards
-places: AGO; BEN; CPV; CAF; COM; CIV; COD; EGY; GNQ; SWZ; GAB; GMB; GIN; KEN; LBY; MWI; MLI; MRT; MUS; MOZ; NER; NGA; RWA; STP; SEN; SOM; ZAF; SDN; TZA; TGO; UGA; ZMB
-record: 7b3f951376c9
+places: AGO; BEN; CPV; CAF; TCD; COM; CIV; COD; EGY; GNQ; SWZ; GAB; GMB; GIN; KEN; LBY; MWI; MLI; MRT; MUS; MOZ; NER; NGA; RWA; STP; SEN; SYC; SOM; ZAF; SDN; TZA; TGO; UGA; ZMB
+record: 043c9b8e2515
 ---
 
 # Standards: monthly update, August 2026
 
-*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -30,6 +30,10 @@ The Prime Minister told Parliament during the State of the Nation debate on 31 J
 Enforcement of the satellite-access rule moved from communiqué to the street. On 12 August the regulator [began a control operation across Bangui — Damala, Benz-Vi and Miskine, and the Don Bosco and Marabéna roundabouts — to identify internet-access points absent from its own registers](https://www.radiondekeluka.org/104273-telecom-le-ministere-des-telecommunications-et-larcep-lancent-la-chasse-aux-fournisseurs-illegaux-dinternet), on the digital economy minister's instruction. The ministry's estimate is [about 3,000 Starlink users in the country against 200 registered with the regulator](https://www.radiondekeluka.org/104273-telecom-le-ministere-des-telecommunications-et-larcep-lancent-la-chasse-aux-fournisseurs-illegaux-dinternet), and the operation is to extend progressively to provincial cities.
 
 Two of the operators visited said they had not been told registration was required and undertook to regularise. No register total is published, so the ratio stands on the ministry's own account.
+
+## Chad
+
+The standards agency published its first adoptions: [the quality management systems committee adopted ten international standards as draft Chadian norms on 5 August 2026, with sessions of the electrotechnical and petroleum products committees either side of it](https://atnor.td/). It is the first movement the base holds against a mandate standing since 2014.
 
 ## Comoros
 
@@ -121,6 +125,10 @@ The [government-wide enterprise architecture framework, version 2.1, is in force
 Senegal adopted [non-binding Francophone West African AI governance guidelines on 6 July](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework).
 
 Senegal held its [first national green-coding and responsible-digital workshop](https://www.socialnetlink.org/2026/08/24/le-senegal-engage-son-ecosysteme-numerique-sur-la-voie-du-green-coding/), bringing about 170 people from the sector to Dakar on 18 and 19 August 2026 to set the basis for a national approach to digital sobriety. Nothing was adopted at it.
+
+## Seychelles
+
+The department that would write government-wide standards restated its mandate rather than exercising it. Its own Policy, Standards and Research Section [claims adopted technical standards for the seamless interoperability of e-government services, and the integration of every e-government application and database through established software and database standards](https://ict.gov.sc/Sections/PolicySection). None of those standards is published, so the claim can be dated and not checked.
 
 ## Somalia
 

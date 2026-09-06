@@ -3,13 +3,13 @@ title: Energy — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: infra.energy
-places: BWA; BDI; CAF; COM; ETH; GHA; KEN; LSO; LBY; MDG; MWI; MUS; MOZ; SLE; ZAF; SSD; UGA; ZMB; ZWE
-record: 60f8022eed01
+places: BWA; BDI; CAF; TCD; COM; ETH; GHA; KEN; LSO; LBY; MDG; MWI; MUS; MOZ; SLE; ZAF; SSD; UGA; ZMB; ZWE
+record: 65e86732ab88
 ---
 
 # Energy: monthly update, August 2026
 
-*19 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*20 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -26,6 +26,10 @@ Among the regulator's remedies for degraded service, named [on 3 August](https:/
 The power the digital estate runs on moved more this month than the estate did. A [50MW solar plant with 15MWh of battery storage was inaugurated on 12 August](https://www.wam.ae/en/article/c1p3six-uae%E2%80%99s-global-south-utilities-delivers-largest), reported to raise national generation capacity by over 60% and to strengthen grid stability.
 
 Against a baseline of 28MW installed and 16 to 18 hours of daily load-shedding, that is the largest single change on this ledger. What is not published is any post-commissioning figure: no availability, no load-shedding hours and no connection count, so the capacity is stated and its effect is not.
+
+## Chad
+
+The grid the digital estate sits on went backwards. After a fire at the Farcha thermal plant in late July, [load-shedding in parts of N'Djamena had run close to a month by 20 August, the utility saying the burnt sets need new equipment and giving no date](https://www.rfi.fr/fr/afrique/20260820-tchad-des-d%C3%A9lestages-r%C3%A9currents-%C3%A0-ndjamena-depuis-l-incendie-de-la-centrale-%C3%A9lectrique-de-farcha). The data centre awaiting certification and the government network both sit on that supply, and no power arrangement for either is held.
 
 ## Comoros
 

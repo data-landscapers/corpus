@@ -3,13 +3,13 @@ title: National statistics — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: data.statistics
-places: BWA; BDI; CMR; CAF; COM; COG; COD; GNQ; GAB; GHA; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; UGA; ZWE
-record: cb0049d5077b
+places: BWA; BDI; CMR; CAF; TCD; COM; COG; COD; GNQ; GAB; GHA; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; UGA; ZWE
+record: 9ba9e5ad3007
 ---
 
 # National statistics: monthly update, August 2026
 
-*27 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*28 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -32,6 +32,10 @@ The statistics institute [deployed enumerator teams nationwide on 20 July, openi
 Two further statistical operations surfaced in August, both financed by the World Bank. The [third data-cleaning phase of the fourth population and housing census was presented on 6 August](https://www.icasees.org/index.php/actualites/398-icasees-la-troisieme-phase-dapurement-du-rgph-4-franchit-une-nouvelle-etape-vers-la-finalisation-des-resultats-du-recensement), a step toward definitive results from the country's first digital census; cleaning has been running since May 2026, under the HISWACA-SOP2 project with UNFPA as technical partner. No enumeration total or publication date is stated.
 
 The institute also [released the aide-mémoire on rebasing the national accounts to 2019 under SCN 2008](https://www.icasees.org/index.php/actualites/399-icasees-publication-de-laide-memoire-sur-les-travaux-de-rebasage-du-pib-base-2019-selon-le-scn-2008), moving off a 2005 base built on SCN 1993 and drawing on the 2021 agriculture and household living-conditions surveys to widen coverage of agriculture, household consumption, self-build, imputed rent and informal activity. The peer review it records was held in February 2023; what is new is its publication, and the record states no rebased GDP level.
+
+## Chad
+
+The statistics institute set out what it publishes and on what terms: [five channels, from an Open Data Portal to a development-plan indicator tracker](https://www.inseed.td/), against an archive policy [barring transmission of microdata without prior written agreement](https://anad.inseed.td/index.php/politique-dacc). The pipes are built and the licence is what is missing.
 
 ## Comoros
 

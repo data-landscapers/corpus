@@ -3,13 +3,13 @@ title: Regional collaboration — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: gov.regional
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COG; CIV; COD; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; ZWE
-record: 77633d02e993
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COG; CIV; COD; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; ZWE
+record: 53e392113b07
 ---
 
 # Regional collaboration: monthly update, August 2026
 
-*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -155,6 +155,10 @@ One piece of regional machinery moved from design into use. A continental allian
 Regionally, Senegal became [one of 29 founding states of an intergovernmental artificial-intelligence governance body on 16 July](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-le-senegal-parmi-les-29-etats-fondateurs-de-la-waico_n_498704.html), and joined the approval on 31 July of [three regional statistical methodological guides](https://www.ecowas.int/ecowas-concludes-meeting-of-directors-general-of-national-statistical-institutes-by-adopting-new-guidelines-for-regional-statistical-harmonization/).
 
 The bilateral channel moved from signature to work. The June memorandum with the Gambia took its [first steering-committee session at Banjul on 29 August 2026, where four priorities were settled — infrastructure and interoperability, cyber resilience, capacity building and regulatory harmonisation — with rural electronic-government access named among them](https://digitalmagazine.bf/2026/08/29/senegal-gambie-dakar-et-banjul-mettent-en-chantier-une-feuille-de-route-numerique-commune/). What Senegal supplies in that relationship is transit: the Gambia depends largely on a single submarine cable, with only limited terrestrial redundancy through Senegal. No timetable, budget or named deliverable is attached to any of the four.
+
+## Seychelles
+
+The regional framework Seychelles harmonises through was republished rather than changed. The SADC Secretariat issued [the consolidated text of the Treaty as amended, naming Seychelles among the founding High Contracting Parties and setting out the Community's institutions, its areas of co-operation and the Protocol mechanism](https://www.sadc.int/sites/default/files/2026-08/Consolidated%20Text%20of%20the%20SADC%20Treaty%20as%20Amended%202025.pdf) in August 2026. No ratification instrument for any digital or data protocol under that mechanism is on the record, so what the window adds is the frame and not a step inside it.
 
 ## Sierra Leone
 

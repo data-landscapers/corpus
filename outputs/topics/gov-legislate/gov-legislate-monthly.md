@@ -3,13 +3,13 @@ title: Legislation and regulation — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: gov.legislate
-places: DZA; AGO; BDI; CMR; CPV; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
-record: 307b83b65988
+places: DZA; AGO; BDI; CMR; CPV; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
+record: f3266fb26f25
 ---
 
 # Legislation and regulation: monthly update, August 2026
 
-*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -44,6 +44,12 @@ The one legislative act in the window changes the regulator rather than the rule
 ## Cape Verde
 
 The regulator [opened a public consultation on licensing, spectrum use, frequency coordination, user protection, network security and emergency communications for satellite operators, with submissions to 31 August](https://spaceinafrica.com/2026/08/05/cape-verde-opens-public-consultation-on-new-satellite-communications-regulatory-framework/). It is a direct response to the satellite service launched in the archipelago in December 2024, and is distinct from the general-authorisation regime under which that service was licensed. No draft text or adoption date is published.
+
+## Chad
+
+Chad's digital statutes entered the base this month by being listed, not by being made. The regulator's register [names the 2015 laws on cybersecurity, electronic transactions and personal data protection as the laws it works under](https://arcep.td/lois.html) and links the text of none; the statistics institute [names Loi n. 026/PR/2019 and four decrees](https://www.inseed.td/index.php/systeme-statistique-national/textes-reglementaires).
+
+On payments there is nothing national to name at all: the central bank's register [gives the regional payment systems regulation of December 2016 as the instrument in force](https://www.beac.int/systemes-paiement/instructions-circulaires-reglements/). A payments law that is regional and a practice that runs on conventions with four operators leave no statute a citizen can be pointed to.
 
 ## Cote d'Ivoire
 

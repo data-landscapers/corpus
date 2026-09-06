@@ -3,19 +3,23 @@ title: Open data — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: data.open
-places: BEN; COM; DJI; COD; GAB; GMB; GHA; GIN; LBR; LBY; MDG; MLI; MAR; NAM; NGA; SEN; TZA; TUN; ZWE
-record: 4e7074ab2f19
+places: BEN; TCD; COM; DJI; COD; GAB; GMB; GHA; GIN; LBR; LBY; MDG; MLI; MAR; NAM; NGA; SEN; TZA; TUN; ZWE
+record: f56ce028f9da
 ---
 
 # Open data: monthly update, August 2026
 
-*19 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*20 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
 ## Benin
 
 The Open Government Partnership action plan's co-creation opened this month, eighteen months after the country joined. The budget directorate published a [38-activity co-creation matrix naming for each step the responsible body, its partners, the funding source and an indicative deadline, running from the June 2025 ministerial order that established the national committee through preparation, departmental consultation and adoption to documentation of the process after December 2026, with activity 32 committing government to publish a what-was-heard, what-was-kept-and-why report alongside a matrix of reasoned responses](https://budgetbenin.bj/storage/2026/08/Feuille-de-route-OGP.pdf). The plan itself is not adopted, and no consultation record or commitment text is published.
+
+## Chad
+
+Publication and access moved in opposite directions. The statistics archive [bars redistribution of microdata without written consent](https://anad.inseed.td/index.php/politique-dacc), which settles whether Chadian public data is open: it is published and it is not open. On the access side the media regulator [suspended applications to create online newspapers until further notice](https://tchadinfos.com/2026/08/03/la-hama-suspend-la-creation-de-journaux-en-ligne-et-appelle-a-mettre-fin-au-desordre-informationnel/), against a record holding no freedom of information law at all.
 
 ## Comoros
 

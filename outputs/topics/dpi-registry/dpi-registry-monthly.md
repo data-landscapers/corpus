@@ -3,13 +3,13 @@ title: Registries (population, land, address, etc.) — monthly update, August 2
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: dpi.registry
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: f1369803ac1e
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: b91374da691b
 ---
 
 # Registries (population, land, address, etc.): monthly update, August 2026
 
-*45 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*46 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -203,6 +203,10 @@ The civil register acquired an outside account of what it now carries. Case stud
 On 28 July an audit mission [launched across 74 communes, 59 already audited and fifteen selected on risk analysis](https://www.seneweb.com/fr/news/Societe/gestion-de-letat-civil-74-communes-du-senegal-dans-le-viseur-de-la-cour-des-comptes_n_499794.html); no findings are stated. On 30 July the mines ministry and the deposits fund [signed a convention commissioning professional cards and a nationwide database of artisanal gold miners](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-senegal-numerise-lorpaillage-pour-juguler-une-perte-annuelle-de-plus-de-614-millions), with no enrolment target, host or data-protection provision reported.
 
 The digitisation the audit is measuring has its own figures. The civil-status agency [puts 471 of 629 centres digitised, 43% activation of the citizen portal and 15,352,830 records centralised on pilot data at 13 July](https://directactu.net/2026/08/16/par-matar-ndiaye-dg-de-lanec-avancement-de-la-remediation-nationale-sur-la-digitalisation-de-letat-civil-une-progression-territoriale-structuree-du-lgec-et-de-sama-etat-civil/), with a remediation push at Kaolack from 10 to 20 August before extending to Kaffrine and Tambacounda. The figures are the agency's own and no national completion date is stated; the gap between three quarters of centres digitised and two in five citizens activating the portal is the one the remediation is aimed at.
+
+## Seychelles
+
+The land register moved a step further into the announced-but-not-delivered category it has occupied since 2024. The Registration Division [said a new land search system was coming soon, on a page that serves only a truncated teaser](https://registrationdivision.gov.sc/exciting-update-new-land-searchsystem-coming-soon-to-seychelles/), nearly two years after the lands and ICT departments [tendered for a Land Management Administration Information System interfacing with the population database, the digital identity, Immigration and the Division itself, on a nine-month delivery from award](https://www.pou.gov.sc/tenders/consultancies/1275-design-and-development-of-the-land-management-administration-information-system-lmais). No award, commissioning or completion statement for either is held.
 
 ## Sierra Leone
 

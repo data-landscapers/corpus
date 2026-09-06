@@ -3,13 +3,13 @@ title: EU activities — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: geopol.eu
-places: GNQ; GMB; KEN; MWI; MLI; MAR; NGA; SEN
-record: 9b89d9d2c68f
+places: GNQ; GMB; KEN; MWI; MLI; MAR; NGA; SEN; SYC
+record: 9d12f4297754
 ---
 
 # EU activities: monthly update, August 2026
 
-*8 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*9 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -44,3 +44,7 @@ The European Union [committed EUR 820m to the digital sector](https://www.thisda
 ## Senegal
 
 The delegation's own statement settles what the relationship is not. Cooperation [runs through the union's investment strategy and Team Europe financing rather than a standalone instrument](https://www.eeas.europa.eu/delegations/senegal/global-gateway_fr), and the delegation states it accompanied Senegal in drawing up its data-management and artificial-intelligence strategies and will support implementation of the priority actions those strategies set out. No standalone memorandum on the digital economy, data or digital governance was located.
+
+## Seychelles
+
+The European relationship's digital content is arriving as trade law rather than as projects. The 2026-2030 fisheries protocol was published in the Official Journal on 11 August, [establishing confidentiality and personal-data protection rules for the electronic data the parties exchange about vessels](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ%3AL_202601935). It follows June's conclusion of negotiations on an enhanced Economic Partnership Agreement covering Seychelles, which [carries a binding prohibition of unjustified data-localisation requirements and a permanent ban on customs duties on electronic transmissions](https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/eastern-and-southern-africa-esa/factsheet-eu-esa4-enhanced-economic-partnership-agreement-epa_en). Both bind what Seychelles may do; neither builds anything.

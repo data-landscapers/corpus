@@ -3,13 +3,13 @@ title: Innovation ecosystem — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: tech.innovate
-places: DZA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GHA; GIN; KEN; LBR; MLI; NAM; NER; NGA; RWA; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: d08e5c4d243b
+places: DZA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GHA; GIN; KEN; LBR; MLI; NAM; NER; NGA; RWA; SYC; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: f24e3f7f7592
 ---
 
 # Innovation ecosystem: monthly update, August 2026
 
-*27 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*28 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -107,6 +107,10 @@ NITDA [inaugurated a Technical Working Group to build a multi-agency national re
 ## Rwanda
 
 As at 3 August the development bank is [the sole committed backer, at US$6m, of a venture debt fund that is not closed, with a further US$3m near-committed](https://techcabal.com/2026/08/03/rwanda-debt-6-million/); [cheques run US$300,000 to just under US$1m, uncollateralised, at 9 to 12%](https://techcabal.com/2026/08/03/rwanda-debt-6-million/). The figures are the fund manager's own and no commitment date is given.
+
+## Seychelles
+
+A third incubator entered the record, and the first of them to open applications rather than ground. A conservation trust [launched a Business, Technology and Innovation Incubator with support from the science and innovation institute and two environmental funds, opening its 2026 cohort to applications with up to twelve months of incubation, mentoring and access to seed funding](https://www.linkedin.com/posts/seyccat-seychelles-conservation-and-climate-adaptation-trust_launch-of-business-technology-and-innovation-activity-7492516083128565761-JJ74). The announcement is the implementing trust's own, and no cohort size or fund size is stated.
 
 ## South Africa
 
