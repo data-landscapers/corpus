@@ -41,6 +41,7 @@ title: Corpus process log
 
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-06 05:53 · render · 8m · 251 documents, home, 54 country and 8 region pages, 38 topic pages, catalogue 17,783, finance, methodology, bulletin - deployed - ok
 2026-09-06 05:45 · build · 43m · catalogue 17783; 63 sources considered across 28 units, 23 rows minted and 16 moved, one Not held settled, 27 indicator cells mapped; 8 baselines maintained; rebuild.py workroot self-unlink fixed; topics 76, bulletin 12 - ok
 2026-09-06 00:05 · render · 10m · 251 documents, home, 62 place pages, 38 topic pages, catalogue 17715, finance 1375 deals, 61 editions pruned, deployed - ok
 2026-09-05 23:55 · build · 1h01m · catalogue 17715; 242 sources considered across 50 units, 135 rows minted and 49 moved, 114 indicators mapped; three status sub-sections maintained and six baseline citation defects fixed; topics 76, bulletin 58 - ok
