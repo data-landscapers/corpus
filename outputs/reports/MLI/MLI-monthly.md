@@ -1,11 +1,11 @@
 ---
 title: Mali — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-06
+period: 2026-08-01 to 2026-09-06
 place: MLI
-ledger_rows: 27
-not_held: 4
-record: 2ba8c8e434fd
+ledger_rows: 33
+not_held: 2
+record: 0a3aff65b812
 ---
 
 # Mali: monthly update, August – September 2026
@@ -48,6 +48,11 @@ On 24 July Mali was [re-elected to the African Telecommunications Union board fo
 
 The same 1 August recommendations also included [a protocol between AES states to harmonise AI governance](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html).
 <!-- /narrative -->
+### Standards
+
+<!-- narrative: governance--gov-standards -->
+The standards agency's own budget is the month's clearest measure of it. Its fourteenth ordinary board session [balanced a 2026 budget of CFA 243,306,303 against CFA 318,369,036 in 2025, a fall of about a quarter](https://leronier.ml/2026/02/02/14eme-session-ordinaire-du-conseil-dadministration-de-lamanorm-le-projet-de-budget-2026-est-equilibre-en-recettes-et-en-depenses-a-la-somme-de-243-306-303-francs-cfa-contre-318-369-036-francs-c/), and it [holds a correspondent member profile with the international standards organisation](https://www.iso.org/fr/member/1915.html). The agency was created by ordinance in March 2012; no standard adopted, certification issued or staffing figure is published, so what is measurable about it is the money.
+<!-- /narrative -->
 ### Public debate and participation in policymaking
 
 <!-- narrative: governance--gov-discourse -->
@@ -81,6 +86,11 @@ Customs is the one exchange with a build behind it. At a Bamako round table on 7
 
 <!-- narrative: dpi--dpi-registry -->
 A [national digital directory of diaspora skills was launched at a ceremony in Washington on 22 August 2026, run by the Malian embassy to the United States and registering professional profiles across economic, administrative, academic, private-sector and emerging fields so that ministries can identify expertise against specific needs](https://www.maliweb.net/politique/diplomatie/washington-dc-lancement-du-repertoire-numerique-des-competences-de-la-diaspora-malienne-3119417.html). The minister described it as an accreting database whose usefulness depends on take-up and on profiles being kept current; questions at the ceremony went to registration terms and to how the recorded data would be used, and no data-protection basis is stated.
+<!-- /narrative -->
+### Sectoral management information systems
+
+<!-- narrative: dpi--dpi-mis -->
+Three health systems reached the record in the same window and none of them carries a coverage figure. The national health information system [publishes its own description — case detection, the launch of interventions to prevent transmission and reduce morbidity, and the surveillance behind them](https://snisi.sante.gov.ml/about), running under a health and social information strategic plan for 2020-2024 whose period has expired and a national digital health plan for 2024-2028. The health insurance fund and the bodies it delegates management to [signed contracts towards universal coverage in July 2026](http://www.canam.ml/index.php/actualite), after digitising prior authorisation in May. And the revenue directorate [opened three options for filing declarations and depositing financial statements](https://bamada.net/mali-la-direction-generale-des-impots-ouvre-trois-options-pour-la-declaration-fiscale-et-le-depot-des-etats-financiers) in April 2026. No enrolment, claims volume or filing share is published for any of the three.
 <!-- /narrative -->
 
 ## Digitalisation
@@ -137,6 +147,11 @@ The month's one measure of what connectivity costs a Malian is a comparison with
 
 <!-- narrative: data--data-statistics -->
 The statistics institute runs a [microdata archive under its own domain holding 107 studies](https://microdata.instat.ml/index.php/catalog/), led by the 2022 census and near-annual agricultural surveys since 1996/1997. It is a first-party statistical archive rather than a whole-of-government open-data portal, and the base holds nothing of the latter kind.
+<!-- /narrative -->
+### Open data
+
+<!-- narrative: data--data-open -->
+Open data moved from absent to partial. The statistics institute [publishes an open data licence agreement](https://www.instat-mali.org/laravel-filemanager/files/shares/doc/conditions-utilisation-donnees-ouvertes_doc.pdf) and held a national workshop in June 2026 on statistical data modelling and [migration to a second-generation open data portal platform](https://instat-mali.org/fr/actualites-et-evenements/atelier-national-sur-la-modelisation-sdmx-et-la-migration-vers-la-plateforme-open-data-portal-odp-20). Both are the institute's, covering its own data rather than government data generally, and the base still holds no dataset count, portal address or open-data policy instrument.
 <!-- /narrative -->
 ### Use of satellite data
 
