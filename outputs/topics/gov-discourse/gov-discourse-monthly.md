@@ -3,13 +3,13 @@ title: Public debate and participation in policymaking — monthly update, Augus
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: gov.discourse
-places: BEN; BFA; CMR; TCD; COG; CIV; COD; EGY; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; NAM; NER; NGA; SYC; SOM; ZAF; SSD; TZA; TGO; UGA; ZMB
-record: a31f13a11a93
+places: BEN; BFA; CMR; TCD; COG; CIV; COD; EGY; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; NAM; NER; NGA; SYC; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB
+record: 4f6794de19b2
 ---
 
 # Public debate and participation in policymaking: monthly update, August 2026
 
-*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -150,6 +150,10 @@ The month's one finding about political speech came from outside the state. A ci
 The regulator spent August on the road rather than on rules. Its [seventh national consumer-sensitisation tour ran from 3 to 28 August with consumer associations and operators](https://atop.tg/bassar-telecommunications-les-consommateurs-sensibilises-sur-leurs-droits-et-obligations/), briefing them on electronic-communications rights. At the Kara leg, [local officials asked the regulator to widen its remit to all economic operators](https://atop.tg/kozah-communications-electroniques-larcep-edifie-les-consommateurs-de-kozah-assoli-et-binah-sur-leurs-droits-et-obligations/) — a request to be regulated more, not less.
 
 The room where digital policy is argued is now on record: the [national internet governance forum](https://intgovforum.tg/) has run annually since 2010 and held its twelfth edition on 19 June, with every digital regulator on the panels alongside civil society. Civic space around it is rated [Repressed at 29 of 100](https://monitor.civicus.org/country/togo/), unchanged since 2020.
+
+## Tunisia
+
+Parliament's own case file arrived, and it makes the revision of the 2022 cyber-offences decree-law measurable rather than announced. The bill was [deposited on 20 February 2024, referred to committee on 10 April 2025, carries 38 sponsors and has not been voted](https://www.arp.tn/loi/project/4139); its operative text — the amendments themselves — is not published on the assembly's own page, which is a dated absence rather than an unsought one. [The committee named the revision its top priority in January 2026](https://www.webdo.tn/fr/actualite/national/tunisie-le-parlement-place-la-revision-du-decret-54-en-tete-de-ses-priorites/392137/); two and a half years after deposit, that priority has produced no vote.
 
 ## Uganda
 

@@ -3,13 +3,13 @@ title: Rural digital data capture — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: digital.rural
-places: BDI; TCD; COM; SWZ; GHA; GIN; LSO; LBY; MWI; MLI; MUS; NGA; SEN; SLE; TGO; ZMB; ZWE
-record: 4c51057dda6f
+places: BDI; TCD; COM; SWZ; GHA; GIN; LSO; LBY; MWI; MLI; MUS; NGA; SEN; SLE; TZA; TGO; TUN; ZMB; ZWE
+record: 356dc9d4f4f6
 ---
 
 # Rural digital data capture: monthly update, August 2026
 
-*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*19 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -71,9 +71,17 @@ The head of the deconcentrated service network said the thing his own network ru
 
 The agriculture ministry is [finalising an upgraded interactive voice response platform, reported 98% complete, to give farmers direct access to ministry officials](https://sierraloaded.sl/local/mafs-upgrades-voice-response-tech/) under the national food-security agenda. Voice is the right channel for the users it names, and the account states no launch date, language coverage, call volume or cost — [98% complete](https://sierraloaded.sl/local/mafs-upgrades-voice-response-tech/) being the ministry's own description of a system nobody outside it has used.
 
+## Tanzania
+
+Rural service digitisation appeared this month as an inventory and a pilot, both counted in tens rather than thousands. The health ministry's own service page [lists what its eHealth estate actually consists of — the health management information platform, the human resources system, the health facility registry, the immunisation information system and the supply-chain platform](https://www.moh.go.tz/en/services/18); it carries no date of its own, and the primary-care digital transformation roadmap that would say what any of it reaches at dispensary level does not resolve at its published address. In education, [a tablet-based literacy and numeracy programme reached 50 rural primary schools and more than 24,000 pupils in Manyara, with a second 50-school phase under way](https://dailynews.co.tz/msingitek-unveiled-in-manyara-to-boost-learning/). Neither record carries a denominator, so what share of the rural estate either reaches cannot be read off the month.
+
 ## Togo
 
 Togo's agricultural digital work is now being copied. Chad [drew on the Togolese experience of deploying agricultural digital solutions](https://www.republiquetogolaise.tg/agro/0109-12228-solutions-numeriques-agricoles-le-tchad-s-inspire-de-l-experience-togolaise). The account is the host government's own. What the record held does not carry is a measure of what those solutions have achieved in Togo, which is what would make the visit worth making.
+
+## Tunisia
+
+Two records of rural service digitisation carry the same date, both from the bodies running the programmes rather than from the state. A [European and health-ministry programme's own results page](https://www.essaha-aziza.tn/resultat-5-digitalisation) sets out the digitalisation of the first-line care information system — diagnosis, governance, a national computerised medical record and deployment on pilot sites at Nabeul — which is basic health centres, the rural end of the estate. A [telecommunications foundation's programme page](https://engageforchange.orange.com/fr/country/tn/programs/4228bcdd-feca-4233-b322-166515acdf1b) puts 185 public primary schools on offline-capable digital kits since 2014. Neither carries a publication date of its own, and the foundation's page still reads 185 a year after fifteen more schools were announced on top of it.
 
 ## Zambia
 
