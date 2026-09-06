@@ -12,14 +12,19 @@ C06. ENUMERATOR	17127
 C07. ENUMERATOR	17127
 C08. ENUMERATOR	17127
 C09. ENUMERATOR	17127
+Cartographic Methodology ENUMERATION AREA	18464
 Census Enumeration Phase	16921
 Census Enumeration Phase Census	16921
 Census Night. Enumerators	16921
 Clinic Ebonyi South East Enugu South	11857
 Commission EAs Enumeration Areas EBK Engineers	2775
 DES CON ENUS PUBLICS CHAPITRE	15584
+DIGITAL MAIN ENUMERATION	18464
+DIGITAL MAIN ENUMERATION Population Size	18464
 Data Collected Enumerators	12498
+Data Management Enumerators	18460
 EA Enumeration Area Figure	582
+ENUMERATION AREA	18464
 ENUMERATION AREA NUMBER	582
 ENUMERATOR NAME	17127
 Eligible Customer Regulations EEDC Enugu Electricity	12062,6124,31
@@ -52,17 +57,17 @@ Enumerated Rights	3861
 Enumerated Rights Every	3861
 Enumerated UN Estimates Projected Estimated	16921
 Enumeration	11269,1066,1188
-Enumeration Area	11136,1267,4518,122
+Enumeration Area	11136,1267,4518,122,1421
 Enumeration Area ECCAS	15574
 Enumeration Area Geographical	582
 Enumeration Area GoL Government of Liberia GPS	16921
-Enumeration Areas	6106,8754,714,1347,206,158
+Enumeration Areas	6106,8754,714,1347,206,158,1179,61,42
 Enumeration Areas EMIS	14857
 Enumeration Areas. EAC	12403
 Enumeration Questionnaire	16921
 Enumeration Questionnaire. The Listing Questionnaire	16921
 Enumerator	582,12750,3817
-Enumerators	6947,8627,1347,206,38
+Enumerators	6947,8627,1347,206,38,1361,44
 Enumeração	11901,869
 Enumeração Para	15912
 Enumeração São	15391
@@ -76,11 +81,14 @@ Freight Enumeration Area East African Community	11136
 Gambia EA Enumeration Area FCS Food	17285
 HOUSING AND POPULATION CENSUS ENUMERATION SUCCESSFULLY	12749
 ID CODE ENUMERATOR	17127
-Interview. Enumerators	17165
+Interview. Enumerators	17165,1405
 Kwara and Enugu	11469
+National Enumeration Area Map	18464
+National Enumeration Area Map BUILDING FRAME	18464
 PES Post Enumeration Survey PO Provincial	11192
 Post Enumeration Surveys	11421
 Region Enumerated Empty	15574
 Selection of Enumeration Areas	17285
+Supervisors and Enumerators	18464
 Séverin ENUM Le Minislre de I'Economie	15438
 ZISPIS Enumerator	13332

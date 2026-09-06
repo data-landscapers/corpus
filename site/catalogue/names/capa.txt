@@ -23,6 +23,8 @@ AL C4. Capacity Building	16046
 ALGUMAS ACTIVIDADES DE REFORÇO DAS CAPACIDADES	11526
 ANNEX I. Integration of Capacity Development	17909
 ANNEXES I. Capacity Development Strategies	17326
+ASN IPv6 Capacity Port Location Policy	18579
+ASSESSMENT OF THE CAPACITY OF LOCAL	18612
 ATELIER DE RENFORCEMENT DES CAPACITÉS DES	16481
 ATELIER NATIONAL DE RENFORCEMENT DES CAPACITÉS	16738
 AVALIAÇÃO EXTERNA CONJUNTA DAS PRINCIPAIS CAPACIDADES	11376
@@ -62,6 +64,7 @@ Angola Strengthening Statistical Capacity World Bank	974
 Annex VI. Capacity Development Strategy Capacity	13868
 Annual Capacity Building Plans	17505
 Anti- Capacity Building	12241
+Anticipated ESR Capacity	18543
 Artificial Intelligence Capacity	6948
 Artificial Intelligence Talent and Capacity Development	3760,9683
 Artificial. Capacidade Institucional	2816
@@ -78,6 +81,7 @@ B. Capacity Building	12979
 B. Importance of Sustained Tax Capacity	13624
 B. Importance of Sustained Tax Capacity Text	13624
 B. Institutional Capacity Constraints Human Resource	17139
+BRIDGING CAPABILITIES SIERRA LEONE ECONOMIC	18487
 BUILDING CYBERSECURITY CAPABILITIES	1000
 BUILDING NATIONAL CAPACITY IN RELATION	14004
 BUILDING THE CAPACITY TO PREDICT	14004
@@ -88,11 +92,13 @@ Bandwidth Capacity for Government	13527
 Bandwidth Capacity. S	3862
 Barragem de Capanda	11366
 Best Illustrates Capability	13037
+Bid Capacity	18543
 Big Data Processing Capacity RAM	11863
 Boost Tax Capacity	1828
 Boosting Africa’s Hyperscale Capacity	3932
 Boosting Malawi’s Export Capacity	13053
 Brief Notes Strengthening Capacity for Climate Adaptation	17369
+Broadband Capacity	18485
 Build Capacity	8376
 Build Capacity of Judges and Prosecutors	1000
 Build Human Capacity	958
@@ -140,7 +146,7 @@ CAPACITE	15999
 CAPACITE D'ACCUEIL	15674
 CAPACITES CABINET DU MINISTRE	16099
 CAPACITIES OF THE MdJL	17441
-CAPACITY	3714,5744,2405,5022,57
+CAPACITY	3714,5744,2405,5022,57,1614
 CAPACITY AND NETWORK	10852
 CAPACITY BUILDING	11190,670,1237,865,985
 CAPACITY BUILDING AND AWARENESS TRAINING	12253
@@ -193,7 +199,7 @@ Capa de Municipios	16898
 Capa de Provincias	16898
 Capa de Regiones	16898
 Capabilies	9128
-Capabilities	9007,2949,3009
+Capabilities	9007,2949,3009,3599
 Capabilities Approach	10726
 Capabilities Approach. Cambridge	10726
 Capabilities Brian Nawa Nawa	9792
@@ -208,7 +214,7 @@ Capability Loss Factor Sources	11953
 Capability Mbera Camp	17971
 Capability and Service	15164
 Capability and Service Management	15164
-Capable	888,3796,561,5985,1955,450,3813
+Capable	888,3796,561,5985,1955,450,3813,1160
 Capable State	14935
 Capacidad	1701,1478,1030,12646,43
 Capacidad Institucional	4209
@@ -229,8 +235,10 @@ Capacitación	1701,2508,12666,23
 Capacitadas	16898
 Capacitar	1701,2445,6606,2,18,604,87,4101,120,5,135,497
 Capacitate	940,221,9972,853,1309,2430
+Capacitate PIM	18577
 Capacitate the Ministry	958
 Capacitating	12175
+Capacitating CHPs	18532
 Capacitating IS Branch	11986
 Capacitating the Digital Community Hubs Responsible	12241
 Capacitation	961,4572,3358,3095
@@ -245,9 +253,10 @@ Capacitações	15966
 Capacite	15670
 Capacities	11269,638,1025,417,10,2245,1248,1503
 Capacities Project	13207
+Capacities for Data Analysis	18628
 Capacities of MDAs	12932
 Capacitors	1988,14912
-Capacity	111,285,182,49,91,18,53,110,41,18,173,112,18,23,181,237,64,52,49,121,104,367,218,312,195,1,271,139,9,110,126,21,353,209,102,76,52,243,140,176,275,46,87,57,3,320,55,321,163,132,265,31,99,85,71,146,89,91,338,740,321,176,114,732,104,84,293,271,38,5,4,13,48,6,2,1,10,13,1,30,20,52,4,11,16,136,2,49,8,28,10,189,135,23,280,2,5,8,8,8,1,1,1,16,11,4,28,4,1,3,108,74,15,1,9,33,37,7,13,3,5,77,2,1,8,3,1,1,2,2,41,28,13,5,12,31,134,20,51,36,14,18,156,39,14,1,1,5,28,26,6,258,37,60,3,23,76,30,8,31,61,54,98,78,14,70,27,104,277,102,16,18,83,36,72,1,64,7,36,29,8,60,3,7,9,25,13,62,22,15,8,77,11,8,26,80,98,30,39,107,35,25,26,17,37,1,2,184,8,48,131,12,168,25,40,40,119,115,34,258,5,1,4,1,4,9,16,1,1,7,24,10,1,12,3,1,1,3,1,1,2,15,2,3,2,125,16,35,8,100,3,29,37,13,131,69,196,134,40,81,114,21,48,182,15,50
+Capacity	111,285,182,49,91,18,53,110,41,18,173,112,18,23,181,237,64,52,49,121,104,367,218,312,195,1,271,139,9,110,126,21,353,209,102,76,52,243,140,176,275,46,87,57,3,320,55,321,163,132,265,31,99,85,71,146,89,91,338,740,321,176,114,732,104,84,293,271,38,5,4,13,48,6,2,1,10,13,1,30,20,52,4,11,16,136,2,49,8,28,10,189,135,23,280,2,5,8,8,8,1,1,1,16,11,4,28,4,1,3,108,74,15,1,9,33,37,7,13,3,5,77,2,1,8,3,1,1,2,2,41,28,13,5,12,31,134,20,51,36,14,18,156,39,14,1,1,5,28,26,6,258,37,60,3,23,76,30,8,31,61,54,98,78,14,70,27,104,277,102,16,18,83,36,72,1,64,7,36,29,8,60,3,7,9,25,13,62,22,15,8,77,11,8,26,80,98,30,39,107,35,25,26,17,37,1,2,184,8,48,131,12,168,25,40,40,119,115,34,258,5,1,4,1,4,9,16,1,1,7,24,10,1,12,3,1,1,3,1,1,2,15,2,3,2,125,16,35,8,100,3,29,37,13,131,69,196,134,40,81,114,21,48,182,15,50,50,6,9,44,2,1,5,19,9,14,35,11
 Capacity ASSIGNED CAPACITY ACTIVATED CAPACITY AVAILABLE	16942
 Capacity Accelerator Network	6729
 Capacity Aggregation	10157
@@ -255,12 +264,13 @@ Capacity Assessment Framework	15713
 Capacity Audit Checklist	3861
 Capacity Base Station Name	736
 Capacity Base Stations Latitude Longitude Antenna	736
-Capacity Building	578,686,2597,667,82,522,544,756,514,602,3300,283,3,118,31,286,238,48,5,65,31,39,200,46,115,2,41,113,163,49,4,189,53,1,6,28,26,11,20,18,15,300,79,38,124,330,114,136,224,24,286,11,25,111,46,80,97,18,564,586,366,99,1,1,1,1,2,93,1,94,19,5,14,130,1,33,111,27,458,217,9
+Capacity Building	578,686,2597,667,82,522,544,756,514,602,3300,283,3,118,31,286,238,48,5,65,31,39,200,46,115,2,41,113,163,49,4,189,53,1,6,28,26,11,20,18,15,300,79,38,124,330,114,136,224,24,286,11,25,111,46,80,97,18,564,586,366,99,1,1,1,1,2,93,1,94,19,5,14,130,1,33,111,27,458,217,9,473,32,4,51
 Capacity Building A. The LTA and Telecommunications	4610
 Capacity Building ASYCUDA New Generation	13042
 Capacity Building Capacity	1988,10629
 Capacity Building Central	6946
 Capacity Building Cloud Services Directives Introduction	9123
+Capacity Building Committees	18577
 Capacity Building Common Applications Core Projects	14965
 Capacity Building Corner	12625
 Capacity Building Efforts and Achievements	13998
@@ -268,9 +278,10 @@ Capacity Building Establish	12508
 Capacity Building Expert	15090
 Capacity Building Financial Entrepreneurship Platform Skills	15480
 Capacity Building Grant	14742
+Capacity Building Implementation	18485
 Capacity Building Indian Technical and Economic Cooperation	16256
 Capacity Building Initiative for Transparency	11332
-Capacity Building Initiatives	5677,1269,10289,1095
+Capacity Building Initiatives	5677,1269,10289,1095,175
 Capacity Building Initiatives Capacity	17235
 Capacity Building Initiatives Final Report	5677
 Capacity Building Initiatives Training	6946
@@ -283,8 +294,10 @@ Capacity Building Plan Increase	14947
 Capacity Building Programme	6427,9848
 Capacity Building Programme for Policy Makers	4126
 Capacity Building Programmes	11579,1983,3678
+Capacity Building Programmes During the Hon’ble	18563
 Capacity Building Programmes for Staff. CLASSIFICATION	15927
 Capacity Building Programs	12356,4619,181
+Capacity Building Public	18537
 Capacity Building Q1 Q2 Q3 Q4	12917
 Capacity Building Radiocommunications	5680
 Capacity Building Recognizing	17114
@@ -313,8 +326,9 @@ Capacity Building and Inclusiveness	14818
 Capacity Building and Inclusiveness Inadequate	14818
 Capacity Building and Information	18370
 Capacity Building and Innovation	15714,1170
+Capacity Building and Innovation National	18485
 Capacity Building and Innovation Public	15714
-Capacity Building and Innovations	16884
+Capacity Building and Innovations	16884,1601
 Capacity Building and Institutional	17962
 Capacity Building and Institutional Development	17962
 Capacity Building and Institutionalization	12008
@@ -327,7 +341,7 @@ Capacity Building and Skills Development	12356,2462
 Capacity Building and Skills Development Traditional	14818
 Capacity Building and Talent Development Division	14824
 Capacity Building and Technical Exchange	4848
-Capacity Building and Training	10776
+Capacity Building and Training	10776,7724
 Capacity Building and Training Programs	16963
 Capacity Building and Training Programs for Teachers	16963
 Capacity Building and Training for Contractor's Workers	12253
@@ -358,7 +372,7 @@ Capacity Certified Digital Trainer	12241
 Capacity Committee	15372
 Capacity Component	10768
 Capacity Constraint	11965,3225
-Capacity Constraints	10829,696,831,405,2176,253,1208,1895,81
+Capacity Constraints	10829,696,831,405,2176,253,1208,1895,81,251
 Capacity Constraints Are Emerging Further	7762
 Capacity Constraints Financial Policy Frameworks Standards	12457
 Capacity Constraints Mean for Africa's Satellite	7762
@@ -366,7 +380,7 @@ Capacity Constraints P177263	16896
 Capacity Constraints and Challenges	11250
 Capacity Constraints. Once the CERP	18198
 Capacity Dev	1878
-Capacity Development	395,493,990,110,2179,2779,511,3767,196,1497,557,38,255,271,1714,93,1125,51,95,141,489
+Capacity Development	395,493,990,110,2179,2779,511,3767,196,1497,557,38,255,271,1714,93,1125,51,95,141,489,783
 Capacity Development HR	17116
 Capacity Development Level Statement Stakeholders Output	17116
 Capacity Development Measures	2230
@@ -381,9 +395,11 @@ Capacity Development and Change Management	13345
 Capacity Development and Change Management Improved Human	12453
 Capacity Development and Digital Literacy	5244
 Capacity Development and Employment Services Board	12329
+Capacity Development and Governance Structure	18449
 Capacity Development and Sector Support	12956
 Capacity Development and Skills Sustained	10157
 Capacity Development for Department of E Government C5	12917
+Capacity Development for Education Programme	18650
 Capacity Development for ICT	209
 Capacity Domain	17869
 Capacity Ecosystem Building Maturity Dimension	14566
@@ -423,6 +439,7 @@ Capacity Strengthening for ARME	11965
 Capacity Strengthening for NOSi	11965
 Capacity Strengthening for NOSi. Component	11965
 Capacity TEAMS	6671
+Capacity Transfer	18575
 Capacity Utilisation	12445,1029
 Capacity Utilization Challenges	12445
 Capacity Weighing Machines This Recommendation	16900
@@ -438,6 +455,7 @@ Capacity and Openness of S Post Open	17180
 Capacity and Openness of S Request for Quota Single	17180
 Capacity and Skills Part	7151
 Capacity and Training Gaps	13678
+Capacity for Analysis and Use of Health Data	18628
 Capacity for Broadband	16884
 Capacity for Disaster Reduction Initiative	18286
 Capacity for EU	3787
@@ -445,9 +463,11 @@ Capacity for Resilience	18036
 Capacity for S	11469
 Capacity of Financial Institutions	15130
 Capacity of ICT	635
+Capacity of Local Government	18612
 Capacity of Relevant User Institutions	16101
 Capacity of Signatory	12400
 Capacity of State Industrial	15473
+Capacity of Supplier	18609
 Capacity-Building	1000,6098,5837
 Capacity-Building Enabel	10865
 Capacity-Building Initiative	5460
@@ -463,10 +483,11 @@ Capacity-Building Sessions for Decision-Makers	10720
 Capacity-Building Workshop	10210
 Capacity-Building and Mentorship Partnership Program	1212
 Capacity-Building and Organizational Development Expert	12008
-Capacity-building	961,170,133,1057,2109,1246,2345,162,2646,591,105,380,309,31,190,319,1256,77,731,117,117,290,211,48,57,3,483,699,273,818,191
+Capacity-building	961,170,133,1057,2109,1246,2345,162,2646,591,105,380,309,31,190,319,1256,77,731,117,117,290,211,48,57,3,483,699,273,818,191,549
 Capacity-building for NRB	13095
 Capacity-constrained	7731
 Capacity-development	10764
+Capacity. Afcom	18579
 Capacity6D. Ceavpealocpitmy	10157
 CapacityBuilding	9360,4387,67,3572
 CapacityBuilding Innovations	16883
@@ -496,6 +517,7 @@ Civil Registration Capacity	10759,78,1315,188
 Civilians Capacity	10968
 Co-working Spaces and Other Capacity Development Providers	17870
 Collect and Coll Capacity and Openness of S Individual	17180
+Commemoration of Human Rights Data Capacity Building	18442
 Committed New Capacity	11228
 Committed New Generation Capacity	11228
 Committed New Generation Capacity Committed	11228
@@ -521,6 +543,7 @@ Cost And Capacity Are Real	7173
 Country Capacity	11935
 County Capacity	17139
 County Capacity Assessment Tool	16970
+Current Generation Capacity	18614
 Curriculum and Teacher Capacity	15604
 Curriculum and Teacher Capacity Quality	15604
 Cyber Incident Response Capability Strengthened	11134
@@ -534,6 +557,7 @@ Cybersecurity Capacity Centre for Southern Africa	1200
 Cybersecurity Capacity Maturity Model DEP Digital	14897
 Cybersecurity Capacity Maturity Model for Nations	1200,11474
 Cybersecurity Capacity Review	1200
+Cybersecurity Specialist and Capacity-Building Lead	18583
 Cybersecurity Teams and Capabilities. Finance	1777
 D Capacity and Openness of S Consultant Qualifi	17180
 D Programa de Fortalecimiento de Capacitades	4209
@@ -566,6 +590,7 @@ Data Governance Capacity Building Workshop	7226
 Data Science Capacity Building Initiative	15086
 Data Use and Statistical Capacity	769
 December. Staff Development and Training Capacity	1554
+Deep-Dive MSDI Capacity Assessment	18476
 Defined Broadband Capacity Target	16883
 Defining Capabilities and Application Areas	11156
 Demonstrated Global Capacity Certificate	10975
@@ -616,6 +641,7 @@ EQUIPPED INTERNATIONAL INTERNET BANDWIDTH CAPACITY	6000
 EQUIPPED INTERNATIONAL INTERNET BANDWIDTH CAPACITY Overall	6000
 ESTRUTURA DE CAPACITAÇÃO E FORMAÇÃO	2816
 ETAT DES CAPACITES ET BESOINS POUR	18286
+EU-funded State Building Capacity and Technical Assistance	18500
 EXPLOITER LA VALEUR ET LA CAPACITÉ	15624
 Education Capacity Building Specialist	11134
 Education System Capacity	12175
@@ -676,6 +702,7 @@ Expand DRM Capabilities	17011
 Expand Digital Skills and Capacity Building	16975
 Expand Risk Insurance Capacity	11310
 Expand and Diversify Domestic Capacity Grow	10157
+Expanding Capacity	18679
 FAIR Guidelines. Institutional Capacity	14565
 FINANCIAL CAPABILITIES	418
 FINANCIAL CAPABILITIES Profile	418
@@ -687,7 +714,9 @@ Financial Capability	418,522,12245
 Financial Capability Priority Area Consumer Protection	940
 Financial Capability Strategic Actions	940
 Financial Capacity	5903
+Financial Capacity. Any	18543
 Financial Literacy and Financial Capability	940
+Financial Status and Capacity	18543
 Financial Surveillance. Capacity	11131
 Fire Warden Team and Capacity	14761
 First Capacity Crisis for Starlink	4601
@@ -717,6 +746,7 @@ GPE System Capacity Grant	14000
 GW Capacity	11953
 Gambia National Team Capacity Building	16631
 Gbps Capacité	15637
+General Capacity Requirement	18612
 Generation Capacity	11228
 Generation Capacity Eskom	11953
 Generation Capacity Installed	12399
@@ -753,16 +783,19 @@ Health Capacity for Universal Health Coverage Project	11417
 Health System Capacity and Regulation	14033
 Health. Human Resource Capacity Though	21
 High Human Capability-expanding	10726
+Hillacondji Road Capacity Expansion and Upgrading Project	18533
 Hospitalization Rates and Hospital Capacity Specijalnosti	10780
 Hub Capacity	12053
 Human AI Capabilities and Development AI Adoption	10726
 Human Capabilities	10726
 Human Capacity	1161,9839,4718,1,1541
+Human Capacity Building	18607
 Human Capacity Development	1554,12402,42,749
 Human Capacity Establish	16872
 Human Capacity Gaps	17260
 Human Capacity and Skills	16975
 Human Resource Capacity	21,12875
+Human Resource Capacity Building	18607
 Human Resource Capacity Building and Land	12326
 Human Resource Capacity Monitoring and Evaluation	21
 Human Resources Capacity for Universal Health Coverage	11417
@@ -866,6 +899,7 @@ International Traffic Capacity	718
 Investment Project P179095 Moderate Capacity Constraints	13332
 Ivoire. Iii. ReSULTATS DISPONIBILITE ET CAPACITE	15711
 J Hum Dev Capab	10780
+Jong Capacity	18543
 Judiciary Human Resource Capacity	16943
 KENET Capacity Building	15164
 KONNECT Satellite Capacity	5937
@@ -888,6 +922,7 @@ Le Programme de Renforcement des Capacités du MTFP	1281
 Leadership and Strategy Implementation Capacity and Systems	12214
 Leading Institutional Capacity	16212
 Legal Capacity	14409
+Legal Status and Capacity	18556
 Legal Technical Capacity Organizational	10764
 Lesotho Officials for Capacity Building	10123
 Leverage International Support for Capacity Building. Seek	1777
@@ -914,6 +949,8 @@ MCC and Capacity Building Interventions	17328
 MCC and Capacity Building Interventions NB	17328
 MCC and PCC for Capacity Building Interventions URL	17328
 MININFRA’s Capacity Development Strategy	14947
+MLD Njala Mokonde Capacity	18543
+MSDI Capacity and Readiness Assessment	18476
 MW Average Available Capacity	12062,6124,31
 MW CAPACITY PER MILLION POPULATION	10861
 MW Capacity	10781
@@ -981,6 +1018,7 @@ OPERATEUR ACTIVITE CAPACITE STATUT NURU SASU	15670
 OPERATEURS CAPACITE	998
 OPERATIONAL CAPABILITIES EXPLOITING TECHNOLOGY	14760
 OPERATOR ACTIVITY CAPACITY NURU SASU NURU	15670
+Observing Systems Capability Analysis and Review Tool	18578
 Official Launch and Platform Capabilities The Fayda	12238
 Official Use Only Comments Capacity	17470
 Online Capability for Managing Security Interest Notice	12389
@@ -1025,12 +1063,14 @@ Plan de Renforcement des Capacités. Ce	16417
 Planned Action Type Capacity Enhancement	16885
 Planned Capacity Additions	13624
 Planned Capacity Loss Factor	11297
+Planned Generation Capacity	18614
 Plano Nacional de Capacitação	1948,14014,60
 Plano de Capacitação	11442
 Plant Capacity	14745
 PoE.1 Capacidades	11376
 Policy Capacity	4628,9443,2131
 Powers and Capacities	16835
+Preparation and Capacity Building	18531
 Presunção de Capacidade Eleitoral	11425
 Principal Digital Skills and Capabilities Officer	9137
 Procurement Risks and Capacity Assessment	11863
@@ -1038,7 +1078,7 @@ Program High Moderate Moderate Institutional Capacity	15735
 Program Management and Capacity Building	6539,5887,564,441
 Program Moderate Moderate Moderate Institutional Capacity	13027,2592
 Program Proposal System Capacity Grant	15688
-Program Substantial Moderate Moderate Institutional Capacity	16638,867
+Program Substantial Moderate Moderate Institutional Capacity	16638,867,968
 Programa Reforzamiento de Capacidades	4209
 Programa de Reforço de Capacidade Técnica	16022
 Programme Pays de Renforcement des Capacités	15712
@@ -1066,6 +1106,7 @@ Public Sector Capacity Building	16212
 Public Sector Delivery and Capacity Building. Government	14748
 Public Sector Monitoring and Capacity Development	11224
 Public Sector Monitoring and Capacity Development Tel	11224
+Public Service Training Facilities and Capacity-building	18612
 Public Value and State Capability AI	7548
 R.2.2 Capacidades	11376
 REFUERZO DE LAS CAPACIDADES INSTITUCIONALES SOSTENIBLES	16898
@@ -1136,6 +1177,7 @@ SANIDAD ANIMAL Y DESARROLLO CAPACITACIÓN INSTITUTO	4209
 SCHOOL CAPACITY	11918
 SIM3 AUDITOR CAPACITY BUILDING PROGRAMME	9470
 SISTEMA ELEITORAL E CAPACIDADE ELEITORAL PASSIVA	11528
+SLMet. Capacity-building	18578
 SMC Capacity Building Training for School Manageme	16963
 SOT No. Facility Capacity	12256
 SOUTENUE PAR L’AUGMENTATION DES CAPACITÉS	2342
@@ -1155,6 +1197,7 @@ Satellite Capacity	10407
 Satellite Capacity Will Not Make	10588
 Satellite Internet Capacity	6671
 Scheme NCBS National Capacity Building Secretariat	14997
+Scheme Particular Anticipated Capacity Unit Mattru	18543
 School Capacity QUALITY AND RELIABILITY	11918
 Se Capacity and Openness of S Request for Quota	17180
 Second Capacity Development Workshop	14090
@@ -1183,6 +1226,7 @@ South Africa Rated Capacity Substation Transmission	11953
 Space Capabilities	13474
 Spectrum Outlook and Capacity Requirements	5245
 Sports Entrepreneurship Capacity Building	13474
+Staff Capacity	18531
 Staffing Capacity Constraints	11285
 Stakeholder Engagement and Capacity Building The Research	1554
 State Capac-	18318
@@ -1230,6 +1274,7 @@ Strengthening Institutional Capacity The Agency	1131
 Strengthening Internal Capacity RRA	14985
 Strengthening Local Government Capacity	11285
 Strengthening Minigrid Pricing and Regulation Capacity	13810
+Strengthening NCA Capacity	18746
 Strengthening NRB Operational Capacity for NID	12241
 Strengthening NRB Operational Capacity for NID and CRVS	13080
 Strengthening Rwanda Industrial Standardisation ICT Capacity	1534
@@ -1277,6 +1322,7 @@ Technical Capacity	5676,1270,6239,1911
 Technical Capacity Consumer	5676
 Technical Capacity and Advancement	1261
 Technical Capacity and OEE	15096
+Technical Capacity and Operation	18612
 Technical Capacity and Skills	5244,9852
 Technical Capacity and Skills Data	5244
 Technical Working Group Capacity Building	15098
@@ -1294,6 +1340,7 @@ Times Group CAPACITY STRAIN	8279
 Topics Capacity Building Pillar Platform Financial	15480
 Training Delivery and Capacity Building	16144
 Training Materials and Capacity Building	16600
+Training and Capacity	18576
 Training and Capacity Building	16285,693
 Training and Capacity Building Scope	15090
 Training and Capacity Building Scope PAGEREF	15090
@@ -1346,7 +1393,7 @@ Widespread Disputes Capacity Gaps	12457
 Workforce Capacity	17116
 Workforce and Capacity	14566
 World Bank Cybersecurity Capacity Review	15491
-World Bank Statistical Capacity Indicator	1188,12155
+World Bank Statistical Capacity Indicator	1188,12155,5132
 World Bank System Capacity UNESCO US	11916
 World Bank's Somalia Capacity Advancement	15157
 World Bank’s Financial Capability Survey	18301

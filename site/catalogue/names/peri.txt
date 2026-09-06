@@ -22,9 +22,16 @@ Bid Validity Period The Bid	14778
 Brasil PERIOTO	6613
 British Colonial Period	14761
 C.5.1 Period of Validity of Bids Bids	14778
+CANOE PERIOD FEES ROYALTIES	18450
+CATEGORY A5- TUNA PURSE SEINERS PERIOD	18450
+CATEGORY A6- TUNA LONG LINER PERIOD	18450
+CATEGORY-B1- PROCESSING PLANT AND ESTABLISHMENT PERIOD	18450
 CENTRO SUR BATA PERIFERIA	4209
 CHANGEMENTS DE PERIMETRES	16446
+COLD ROOM PERIOD FEES	18450
 COMMENCEMENT DATES AND EFFECTIVE PERIODS	3861
+COMMERCIAL AQUACULTURE PERIOD FEES	18450
+COMMERCIAL AQUACULTURE Period Fees	18541
 CONTRIBUTIONS FINANCIERES PERIODIQUES	15394
 COST SPEND DURING THIS PERIOD	11211
 COSTS INCURRED DURING THIS PERIOD	11262
@@ -45,7 +52,7 @@ Closing Period ID	12228
 Closing Period Improve	11905,3756
 Closing Period Improved	1867
 Closing Period Increase	3604,7164
-Closing Period Indicator Name Value Month	2712,1976,3189,3518,4340,278,692,295,96,374,35,399,102,344,4,1
+Closing Period Indicator Name Value Month	2712,1976,3189,3518,4340,278,692,295,96,374,35,399,102,344,4,1,179
 Closing Period Jun	11971,1949
 Closing Period Mar	1264
 Closing Period Month	6579,349
@@ -61,6 +68,7 @@ Closing Period VAT	17079
 Closing Period Value Month	10870,1101,257,39,173,3639,915,85,879
 Closing PeriodIndicator Name Result Month	18359
 Cloud Hosting Model Periodic Review	6432
+Cold Room Period Fees	18541
 Combined Period Report for Malawi	13040
 Combined Periodic Report	13040
 Combined Periodic Report of Sahrawi Arab Democratic	8485
@@ -75,9 +83,12 @@ Components Baseline Period	1264,603,1737,7164,4890,3,483
 Concluding Observations of Malawi’s Eighth Period Report	13040
 Concluding Observations of Malawi’s Seventh Period Report	13040
 Condições de Trabalho Perigosas	10777
+Construction Period	18543
 Consultancy Period	9203
 Consultation Period	17251
+Contract Execution Period The Contract	18543
 Contribuintes.pdf Declaração Periódica Devido	12018
+Cooling-Off Period for Senior Officers	18556
 Country Strategy Paper Period	11863,3148
 Cumulation Period	16219
 DE ROUTINE OU DE RAPPORTAGE PERIODIQUE	15595
@@ -95,6 +106,7 @@ Declaração Periódica de Rendimento	12018
 Declaração Periódica de Rendimentos	12018
 Declaração Universal Periódico	10750
 Defect Liability Period. EEC	13054
+Defects Liability Period	18543
 Development Programme UPR Universal Periodic Review	970
 Digitality and Peripherality	226
 E. Data Collection Periods Table	17139
@@ -108,21 +120,27 @@ EU's AI Periphery	7810
 EU's AI Periphery. Digit. Soc	7810
 EVINAYONG PERIFERIA	4209
 Egyptian Planners In the Liberal Experiment Period	15473
+Election Period	18531
 Eleventh Periodic Report	14742
 Ended During the Period Under Review.139	11259
 Evaluation Framework Periodic	15845
 Execution Period	15901
+FOREIGN CANOE PERIOD FEES	18450
+FOREIGN FISHING LICENCE PERIOD FEES	18450
 FORESTAL EN EL PERIODO	16875
 Family Registration Period	12226
 Fertile Period	15247
 Fifth Periodic Report of Mauritius	14839
 Fiscal Year Scope and Period	15372
 Fonte Declaração Periódica O Imposto	12018
+Foreign Canoes Period Fees	18541
+Foreign Fishing Licence Period Fees	18541
 Foreign Private Capital Census Period	15107
 Fourth Periodic National Report	14031
 Fourth Periodic Report	14031
 Fourth Universal Periodic Review	15131,77,1
 Full Council Meetings Period Meetings First	1154
+GHANA TYPE CANOE PERIOD FEES ROYALTIES	18450
 GOVERNMENT PERFORMANCE REPORT FOR THE PERIOD	12950
 Grace Period	11863,2075,1461,820
 Grace Period for Publishing Research Results Without	12389
@@ -135,6 +153,7 @@ ICT Regulator Periodic	16872,103
 IMPLEMENTATION PERIOD If You Receive	13108
 Impact Assessment Period	16861
 Impact Assessment Periods	16861
+Implementation Period	18531,76
 Indicator Name Baseline Closing Period	11924,6038
 Informações de Perigo	15388
 Interest Period	15399,820
@@ -150,10 +169,12 @@ Kenya Universal Periodic Review	6188
 Kosta Peric	2537
 Kraus Perin	4676
 LA PAZ PERIFERIA	4209
+LOBSTER FISHING CANOE PERIOD FEES ROYALTIES	18450
 LUBA PERIFERIA	4209
 Level of Assurance Approve Periodic Audit	10819
 Liberal Experiment Period	15473
 Loan Tenor and Grace Period	16219
+Lobster Fishing Canoe Period Fees	18541
 Lookback Period	16219
 MALABO PERIFERIA	4209
 MBINI PERIFERIA	4209
@@ -165,6 +186,8 @@ MENER PERIODE DE SPECIFIQUES REALISATION RESULTATS	10712
 MENER PERIODE DE SPECIFIQUES REALISATION Renforcement	10712
 MICOMISENG PERIFERIA	4209
 MONGOMO PERIFERIA	4209
+MOTHERSHIP FOR PROCESSING PERIOD FEES	18450
+Maintenance Period	18543
 Mandatory Retention Periods	3861
 Mass Drug Administration MPDSR Maternal and Perinatal	12729
 Maternal and Perinatal Death Surveillance Response	1212
@@ -198,6 +221,7 @@ NSOK-NSOMO PERIFERIA	4209
 NSORK PERIFERIA	4209
 Name Baseline Closing Period	17962
 Nigeria Public Consultation Period	6748
+Nil Period Fees	18541
 Non- Food End Period	13060
 O Perito Principal	11898
 Offer Period	4896
@@ -211,15 +235,18 @@ Operación Periodicidad Responsable EF Estadística Sí	16898
 Operación Periodicidad Responsable EF Estadística Valor	16898
 Outcomes Baseline Period	11905
 Outlook for NFIF3 Remaining Implementation Period	7763
+PART XIV- ELECTION CAMPAIGN PERIOD	18459
 PBC Name Baseline Closing Period	10870,5209,915,964
 PCU. Periodic	17962
 PDO Outcomes Baseline Closing Period Strengthen	11417
 PDO Outcomes Baseline Period	1264,603,1737,7164,4890,3,483,805
+PELAGICS PERIOD FEES	18450
 PERIMETRE	17846
 PERINDOPRIL	15930
 PERIOD	11259,696,440,1490
 PERIOD Capital Contributions	11955
 PERIOD ENDED	16978
+PERIOD FEES	18450,91
 PERIOD FOR WHICH BIDS ARE REQUIRED	11240
 PERIOD FY25-FY29	12968
 PERIODE ETECTORALE Article	15397
@@ -227,6 +254,7 @@ PERIODIC REVIEW MANDATES AND EVALUATION CRITERIA	3861
 PERIODIC REVISION Periodic	17157
 PERIODIQUES DESTINES AUX MINEURS Arllcle	15397
 PERIODIQUES ETRANGERS Arlicle'194	15397
+PHU Peripheral Health Units PPRC Political	18512
 PRIOR PERIOD ERROR	10793
 PRIOR PERIOD ERROR The Group	10793
 PROGRAMME PERIMETER CHANGED NINEFOLD BETWEEN	2083
@@ -252,10 +280,11 @@ Perinatais	15966
 Perinatal Health Monitoring Module	11589
 Perinatal Mortality	15247
 Perini	11156
-Period	958,306,520,1,2,10,112,866,829,110,1973,984,275,3822,413,37,61,626,81,164,321,501,33,55,125,1489,62,107,24,51,211,48,401,81,2,240,142,101,688,11,18,2,86,29,130,32,40,39,16,1,78,48,943
+Period	958,306,520,1,2,10,112,866,829,110,1973,984,275,3822,413,37,61,626,81,164,321,501,33,55,125,1489,62,107,24,51,211,48,401,81,2,240,142,101,688,11,18,2,86,29,130,32,40,39,16,1,78,48,943,154,8
 Period AAID Milestones	17139
 Period Average Exchange Rate	17235
 Period Averages GHC	17235
+Period Category Individual Sport Fishing	18541
 Period Covered	12987
 Period Ended	16978
 Period FY	6946
@@ -266,6 +295,7 @@ Period FY20	15659
 Period FY20-25. Washington	15983
 Period FY21	16436,1434
 Period FY23-FY27	3604
+Period Fees	18541
 Period Jan-Mar	6671
 Period LRD	17235
 Period Name	1784,1,2,7,3
@@ -276,6 +306,7 @@ Period Q1	11134
 Period Q2	2776
 Period Q3	6671
 Period RWF	718
+Period Records	18470
 Period Region Jan-Mar	6671
 Period Threats and Advisories Jan	6671
 Period Total Foreign Foreign Domestic Domestic	6408
@@ -288,11 +319,15 @@ Period of Institutional Challenge and Reflection	17116
 Period of Registration	12226
 Period of Validity of Bids	13185,1581
 Period of Validity of Proposals	15080
-Periodic	749,515,514,89,1994,1815,739,2822,920,662,187,123,2,138,588,532,148,440,333,187,35,74,332,93,534,186,10,186,50,30,7,95,35,494,3,1197,5,4,57,27,60,353,1006
+Periodic	749,515,514,89,1994,1815,739,2822,920,662,187,123,2,138,588,532,148,440,333,187,35,74,332,93,534,186,10,186,50,30,7,95,35,494,3,1197,5,4,57,27,60,353,1006,161
 Periodic Activity	17099
 Periodic Audits	11995
 Periodic Audits and Inspections Periodic	5665
 Periodic Compliance Audits	15120
+Periodic Data Transfer	18531
+Periodic Data Transfer Description	18531
+Periodic Data Transfer and Field Verification	18531
+Periodic Data Transfer and Field Verification Description	18531
 Periodic Focus Group Discussions	1778
 Periodic Intensification of Routine Immunization	16971
 Periodic M&E	12175
@@ -328,6 +363,7 @@ Periodo Ordinario de Sesiones	16855
 Periodo de Conserva	16855
 Periods	10852,1404
 Perioperative Nursing	16922
+Peripheral Health Units	18478,54
 Peripherals	34
 Periphery	16266
 Perishable	7695
@@ -369,7 +405,7 @@ Registrar General’s Department French Colonial Period	14761
 Related Grace Period	12389
 Related Service Period	13185
 Repayment Period	15399
-Reporting Period	11233,3923,749,1073,59
+Reporting Period	11233,3923,749,1073,59,1407
 Reporting Period Note	5687
 Reporting Period The Financial Statements	14736
 Reporting Period. B	11233
@@ -386,14 +422,23 @@ Retention Period and Expiry	3861
 Revisão Periódica Universal	11562
 Rwanda Completes Its Fourth Universal Periodic	15131
 Rwanda Concludes Fourth Universal Periodic Review	15131,77,1
+SEMI COMMERCIAL AQUACULTURE PERIOD FEES	18450
+SHARK CANOES PERIOD FEES ROYALTIES	18450
+SIERRA LEONE FISHING LICENCE PERIOD FEES	18450
 SOFR Banking Day. Lookback Period	16219
+SPORT FISHING PERIOD CATEGORY FEES	18450
 STRATEGIC CONTEXT Country Strategy Paper Period	13938
+SUPPLY VESSEL LOCAL CARRIERS PERIOD FEES	18450
 Second Periodic Report	14149,1
 Second Periodic Report of Zimbabwe	6951
 Segundo Periodo Ordina	16855
 Segundo Periodo Ordinario de Sesiones	16855
 Select Financial Period FY	8727
 Self-Assessment for Period Please	12364
+Semi Commercial Aquaculture Period Fees	18541
+Semi-Industrial Fishing Vessel Decked No. Period	18541
+Shark Fishing Canoes Period Fees	18541
+Sierra Leone Fishing License Period Fees	18541
 Standstill Period	13185,1895
 Standstill Period Between Contract Award Notice	12389
 Standstill Period DEADLINE	13185
@@ -405,6 +450,7 @@ Strategic Interventions Target Period Components	396
 Strategic Interventions Target Period Components Build	396
 Strategic Interventions Target Period Components Establish	396
 Sub-Saharan Africa. Reporting Period	8727
+Supply Vessel Local Carriers PERIOD FEES	18541
 Surveys Periodic Survey Reports	17011
 THEME DE LA FORMATION PERIODE BENEFICIAIRES	18322
 TIME PERIOD	6982
@@ -418,7 +464,7 @@ Time Period	12297
 Time Periods	11995
 Training Locations and Period Trainings	13936
 Transition Periods	12389
-Transitional Period	14884,197
+Transitional Period	14884,197,3516
 Transmod J Peripher Cult Prod Luso-Hisp	9739
 Two-Year Window Period	3379
 UN Universal Periodic Review	15007

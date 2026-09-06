@@ -51,6 +51,8 @@ ANTI-CORRUPTION Rank	10759,78,131,902,16,454,12,136
 ANTI-CORRUPTION Shipping	10835,3,130,902,16,466,1,135
 ANTI-MONEY LAUNDERING	14809
 ANTI-MONEY LAUNDERING AND COMBATING TERRORISM FINANCING	4633,6646
+ANTI-MONEY LAUNDERING AND COUNTER TERRORIST FINANCING	18599
+ANTI-MONEY LAUNDERING SUPERVISION	18599
 ANTI-OESTROGENES ACETATE DE MEGESTROL TIBOLONE ANASTROZOLE	15930
 ANTI-THYROIDIENS CARBIMAZOLE BENZYLTHIOURACILE OESTROGENES	15930
 ANTIBIOTIQUE	13300
@@ -196,6 +198,7 @@ Antarctica	4426,7496
 Antares Vision	17039
 Antares Vision Group	17039
 Ante-Projecto PROPOSTA DE LEI DO GOVERNO	11461
+Antecedent Transactions	18556
 Antecedentes Evolução Recente	10783
 Antecedents	10,1238
 Antecipar	11542
@@ -206,11 +209,13 @@ Antelomita	14479
 Antena	5557,5220
 Antena Nacional	12201
 Antenal Care	10829
-Antenatal	10881,2095,2230,205,1511,947
+Antenatal	10881,2095,2230,205,1511,947,758
 Antenatal Care	2775,10202,1090,2884,20
 Antenatal Care Antenatal	16971
 Antenatal Care CBHI Community-Based Health Insurance	15138
 Antenatal Care Coverage and Content	13454,1793
+Antenatal Care HIV	18441
+Antenatal Coverage	18627
 Anteneh	3791,4096
 Anteneh Aklilu	12273
 Anteneh HA	3791
@@ -233,6 +238,7 @@ Antenne de Ngozi	13442
 Antennes	13375,2007,554,1952,11
 Antennes Décret	17899
 Antennes Régionales	14450
+Anteny Moses	18665
 Anteproyecto	4209,12985
 Anteproyecto de Ley	17415
 Anteproyecto de Ley Reguladora	17194
@@ -320,10 +326,10 @@ Anthropometry	13454,613,1180
 Anthropométrie	13300,5012
 Anthroponyme	17876
 Anti Corruption	12972
-Anti Corruption Act	13339,32
+Anti Corruption Act	13339,32,5096
 Anti Corruption Bureau	13080,15
 Anti Corruption Centre	12972
-Anti Corruption Commission	2727,10229,16,560
+Anti Corruption Commission	2727,10229,16,560,4935
 Anti Corruption Commission Director Financial Services	12972
 Anti Corruption Commission Investigators Commonwealth Africa	12972
 Anti Corruption National Dialogue	11224
@@ -354,10 +360,11 @@ Anti- No IP	12214
 Anti-Apartheid	2626
 Anti-Bias National Datasets	4528
 Anti-Bias National Datasets Analysis	12512
+Anti-Competitive Practice. CHAPTER VIII MANAGEMENT	18602
 Anti-Competitive Practices	16835
 Anti-Cor IDA	17180
 Anti-Corruption	1638,9121,76,2,1,74,56,902,16,1,1,1,27,237,1,9,178,11,1,135,499,2385,1665,102
-Anti-Corruption Act	3583,131,3492,1307,4446,518,3496,961
+Anti-Corruption Act	3583,131,3492,1307,4446,518,3496,961,533,10
 Anti-Corruption Act No	13477
 Anti-Corruption Activities	17139
 Anti-Corruption Authority	17990
@@ -365,14 +372,17 @@ Anti-Corruption Bureau	13001,79,15
 Anti-Corruption Bureau Complaints	12241
 Anti-Corruption Bureau Frequency	13095
 Anti-Corruption Commissi	17180
-Anti-Corruption Commission	121,3462,4667,263,1668,329,1990,428,31,38,111,15,198,66,51,1022,2536,109
+Anti-Corruption Commission	121,3462,4667,263,1668,329,1990,428,31,38,111,15,198,66,51,1022,2536,109,1362,10,75
+Anti-Corruption Commission Act	18477
 Anti-Corruption Commission LRA Liberia Revenue Authority	17139
+Anti-Corruption Commission The Anti-Corruption Commission	18477
 Anti-Corruption Commission Zimbabwe Agricultural	1154
 Anti-Corruption Commission and Correctional Services	12473
 Anti-Corruption Commission of Namibia	3445
 Anti-Corruption Commission of Zambia	13332
 Anti-Corruption Commission's Whistleblower System	13473
 Anti-Corruption Commission. Separately	3583
+Anti-Corruption Commission. The Anti-Corruption Act	18477
 Anti-Corruption Commission9. Royal Science Technology Park10	12936
 Anti-Corruption Commissioner	12500
 Anti-Corruption Court	17037
@@ -415,6 +425,7 @@ Anti-Fraud Hotline	17068
 Anti-Fraud Policy	16971
 Anti-Fraud and Corruption	5903
 Anti-Fraude	15526
+Anti-GBV Bill	18624
 Anti-Gender Based Violence Act	1988,738
 Anti-Homosexuality Act. Neither	1283
 Anti-Human Trafficking Act	2726,5754,4923
@@ -435,6 +446,8 @@ Anti-Money Laundering and Combating Financing of Terrorism	13961
 Anti-Money Laundering and Combating Terrorism Financing	4633
 Anti-Money Laundering and Combatting Financing of Terrorism	15023
 Anti-Money Laundering and Counter Financing of Terrorism	5131,9749,143
+Anti-Money Laundering and Counter Terrorist Financing	18599,103
+Anti-Money Laundering and Counter Terrorist Financing Act	18599
 Anti-Money Laundering and Counter-Terrorism Financing	15023
 Anti-Money Laundering and Terrorist Financing Unit	11153
 Anti-Money-Laundering and Counter-Terrorist-Financing	13060
@@ -467,7 +480,7 @@ Anti-foreigner	5533,6453
 Anti-fraude	15526
 Anti-hunger Network	10960
 Anti-immigrant	6997
-Anti-money	4127,1003,8886,1431
+Anti-money	4127,1003,8886,1431,3015
 Anti-money Laundering and Countering	14880
 Anti-phishing	17156
 Anti-pollution	13624
@@ -483,7 +496,7 @@ Antibiotics	7759,7059
 Antibiotics Limited	14818
 Antibiotiques	16047
 Anticipat Risk Impact Mitigation Impact	1988
-Anticipate	9123,1814,3420,2515
+Anticipate	9123,1814,3420,2515,1608
 Anticipated	2989,8294,912,1136,1604,1949
 Anticipated All	16884
 Anticipated Beneficiaries	16884,1
@@ -493,6 +506,7 @@ Anticipated Consumers	16884
 Anticipated Contract Duration	13037
 Anticipated Customers	16884
 Anticipated Customers and Operators Beneficiaries	16884
+Anticipated ESR Capacity	18543
 Anticipated Government	16884
 Anticipated Impact	11866
 Anticipated Major	12358
@@ -507,6 +521,7 @@ Anticipating Conflict	8202
 Anticipating Large and Widespread Deprivation	18301
 Anticipation	10975,3647,3262
 Anticipation Hub	11156
+Anticipation ORDER	18436
 Anticipatory	7451,1531,376,1798
 Anticipatory Action	10763
 Anticipatory Action Framework	11156,1085
@@ -531,7 +546,7 @@ Antigen	16935
 Antigos Combatentes	4147,5111,1496,18,664
 Antigua	8945,7930
 Antigua and Administrative Identification Number	10714
-Antigua and Barbuda	10785,219,605,3862
+Antigua and Barbuda	10785,219,605,3862,3206
 Antigua and Barbuda Agenda for SIDS	14748
 Antigua and Barbuda Aruba Barbados Belize Bolivia	16631
 Antigua and Barbuda Yes GATE	11529
@@ -760,6 +775,7 @@ CEO Anthonie de Beer	11768
 CEO of Antares Vision Group	17039
 CFA. Ante	17246
 CFT Agricultural Technology AMRTP Anti-Money Laundering	17870
+CFT Anti-Money Laundering	18454
 CFT Anti-Money NFIS National Financial Laundering	12297
 CHIMIOTHERAPIE CYTOTOXIQUE METHOTREXATE ANTAGONISTE	15930
 CHU-KATI UMRSS DNPSES REDISSE III ANTIM	17882
@@ -1016,6 +1032,7 @@ IMMUNOGLOBULINE HUMAINE ANTI-D SOL. BUV. GTTES	15930
 INDICATEURS DE COUVERTURE EFFECTIVE PAR ANTIGÈNE	17843
 INFECTION PREVENTION CONTROL AND ANTIMICROBIAL RESISTANCE	14773
 INFORMATION SYSTEM IN MOZAMBIQUE Jose Antonio	12826
+INFRASTRUCTURE SHARING AND ANTI-COMPETITIVE PRACTICES	18602
 INTERPOL Financial Crime and Anti-Corruption Centre	11325
 IPF Anti-Corruption Guidelines	15658
 IPF Anti-Corruption Guidelines. The Systematic Tracking	15661
@@ -1028,6 +1045,7 @@ Increasing Improvement. Anti-Corruption	11888
 Indemnité de Remboursement Anticipé	15901
 Indiqué la NotiÞcation de Remboursement Anticipé	15901
 Industry and Natural Resources Mr. Antonio Serifo	11579
+Information NIL Anticipated	18543
 Integridade da Base Nacional de Dados Antonica Bengue	9259
 Intelligence AML Anti Money Laundering API	14674
 Intelligence Antenatal Care Antiretroviral Therapy	4153
@@ -1161,6 +1179,7 @@ Mr. Anthony Varwen Ministry of Agriculture	16853
 Mr. Antoine George Mbaga	15415
 Mr. Antoine Sebera	15019
 Mr. Odur Anthony	3005
+Mr. Opeka Anthony Sebit	18696
 Mário António	10614
 NAP Policy Areas and Envisaged Reforms Anti-Corruption	12987
 NATIONAL ANTHEM PRAYER	13387
@@ -1332,6 +1351,8 @@ Santo Antão	1265,683,5518,4389,100,7,3382,44,132,70,165,207,4,17,210,335
 Santo Antão Island Maintenance Center	11955
 Santo Antão. Trata-se	7466
 Sarah Elizabeth Antos	10763
+Scheme Borehole No. Anticipated Yield	18543
+Scheme Particular Anticipated Capacity Unit Mattru	18543
 Scope Anticipated	17330
 Score Anti-Corruption	11870,282,189,147
 Secretaria Adjunta de Antidrogas	4209
@@ -1347,6 +1368,7 @@ Services POCAMLA Proceeds of Crime and Anti-Money Laundering	12297
 Serviço Anti-Fraude	15526
 Serviço Anti-fraude	15526
 Sidy Mohamed DEMBELE DNEN ANTIM CHU	17882
+Sinikka Antila	18676
 Sir Celicourt Antelme Street	14754,93
 Sié Antoine-Marie Tioyé	1715
 Socioeconomic Opportunity for Women Anti-Corruption	10835,3,130,902,16,466,1,135

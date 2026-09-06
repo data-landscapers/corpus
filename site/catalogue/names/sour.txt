@@ -12,6 +12,7 @@ Additional Funding Sources	11285
 Additional Sources Consulted	11868
 Addressing FCV Drivers and Sources of Resilience	11469
 Admits Paid Content Boosting Sources	9404
+Aggregation of Existing Sources of Data DATA	18476
 Alternative Funding Sources	16963
 Alternative Sources of Income ASSIMPER	15027
 Alternative Sources of Income Article	15027
@@ -126,6 +127,7 @@ IA. SOURCES PRINCIPALES RÉFÉRENCES Présidence	8637
 INDICATEURS DE PERFORMANCE SOURCES DE HYPOTHÈSES	10712
 INDICATEURS Sources de Risques	18286
 IV. Select Macroeconomic Indicators Sources	11469
+IXPs. Sources	18633
 Impact Sourcing	6948
 Improved Water Sources	16614
 Inclusion Sources	9237
@@ -204,6 +206,7 @@ Program NDTS RAPID-CI Sources of Additional Funds	3604
 Project Costs and Financing Sources	13331
 Promotion des Jeunes Sourds	16743
 Pérennité Sources	17842
+RE SOURCES Category A5	18541
 RE- SOURCES CHER-	10712
 REALISATION OBSERVATION S ET SOURCES RESULTATS	10975
 RRA and NISR Sources of Revenue Change and Tax-to-GDP	14985
@@ -267,7 +270,7 @@ SourceID	55
 SourceModified	5598
 Sourcebook	10985,171
 Sourced	3422,345,470,812,1885,415,2215,2229,1205
-Sources	11,518,58,56,94,477,614,116,37,164,237,317,76,58,351,1,158,88,4,142,246,391,31,186,80,14,94,169,352,143,102,270,370,129,87,73,63,113,82,31,30,102,136,50,14,216,305,92,578,45,49,216,244,110,25,76,84,148,281,101,2,1,105,83,14,204,1,77,70,15,80,31,344,186,41,4,18,48,6,2,1,23,51,50,3,3,8,1,18,66,75,2,18,154,250,241,62,1,6,4,7,5,1,1,1,27,37,41,21,137,1,1,9,25,11,2,37,23,39,40,1,5,6,1,42,32,61,460,55,37,260,25,89,4,43,1,224,155,27,37,33,254,287,3,139,53,177,45,1,8,6,145,73,20,15,178,82,49,2,25,74,6,15,4,4,17,50,45,7,2,75,134,99,217,44,222,139,60,122,14,37,156,166,26,22,69,38,114,25,242,83,8,6,3,15,10,39,36,45,73,223,30,3
+Sources	11,518,58,56,94,477,614,116,37,164,237,317,76,58,351,1,158,88,4,142,246,391,31,186,80,14,94,169,352,143,102,270,370,129,87,73,63,113,82,31,30,102,136,50,14,216,305,92,578,45,49,216,244,110,25,76,84,148,281,101,2,1,105,83,14,204,1,77,70,15,80,31,344,186,41,4,18,48,6,2,1,23,51,50,3,3,8,1,18,66,75,2,18,154,250,241,62,1,6,4,7,5,1,1,1,27,37,41,21,137,1,1,9,25,11,2,37,23,39,40,1,5,6,1,42,32,61,460,55,37,260,25,89,4,43,1,224,155,27,37,33,254,287,3,139,53,177,45,1,8,6,145,73,20,15,178,82,49,2,25,74,6,15,4,4,17,50,45,7,2,75,134,99,217,44,222,139,60,122,14,37,156,166,26,22,69,38,114,25,242,83,8,6,3,15,10,39,36,45,73,223,30,3,156,13,145
 Sources A1- Disclosure	7548
 Sources AFRINIC	11812
 Sources AFRINIC Board Meetings and Resolutions	11813
@@ -316,10 +319,12 @@ Sources of Electricity Supply	16978
 Sources of Electricity Supply Generation	16978
 Sources of Energy	12403
 Sources of Evidence	12500
+Sources of FIU	18599
+Sources of Finance	18543
 Sources of Finance for Central African Republic Refugees	10841
 Sources of Financing for Business Enterprises	12445
 Sources of Fund Specific Source FY2024 Cost	16943
-Sources of Funding	940
+Sources of Funding	940,17656
 Sources of Funding Implementation	7548
 Sources of Funds	16032,855
 Sources of Growth	2775
@@ -329,6 +334,7 @@ Sources of Income DRIVERS OF FOOD INSECURITY	17285
 Sources of Income and Expenses	17235
 Sources of Income for Central African Republic Returnees	10841
 Sources of Income for Returnees	10841
+Sources of Legislation	18597
 Sourcing	1940,396,879,572,361,98,55,1246,235,180,248,174,56,4691,1314,1779,773,1946
 Sourcing Criterion	7548
 Sourcing of Fund	11129
@@ -379,6 +385,7 @@ VAM Food Consumption Score Sources	10763
 VARIOUS SOURCES	14004
 VI.2. Sources	15848
 VOLUME NPLs Ratio Sources	17235
+Vijaya Souri	18678
 Volume of International Traffic Sources	15424
 WATER SOURCES AND FEED USE	17043
 Water Sources Access	17043

@@ -66,11 +66,12 @@ Baraka Trust Money Transfer	13452
 Bedrock of Digital Trust. Digital	6936
 Biometric Trust	12444
 Board Trustee	10694
-Board of Trustee	15340
-Board of Trustees	11,3703,6980,333,1525,6,919,339,648,876,1499
+Board of Trustee	15340,3105
+Board of Trustees	11,3703,6980,333,1525,6,919,339,648,876,1499,1606,156,1
 Board of Trustees KICTANet	14464
 Board of Trustees The Board of Trustees	15340
 Board of Trustees and General Assembly	13477
+Board of Trustees and Vacancy	18601,1
 Board of Trustees of ASCON	7329
 Board of Trustees. The UASF Board of Trustees	12558
 Bolster Digital Trust and Compliance	2987
@@ -99,7 +100,7 @@ Burkina Faso Trung Q. Duong	16467
 Burundi. Trung	8062
 C SERTIFIEO TRUE COPY ARTICLE VINGT-SIXIÈME.-	15999
 C TERTIFIED TRUE COPY	15999
-CAPTURE TRUNCATED	12901,7,1,72,6,43,25,28,228,396,5,10,17,97,5,2,4,14,24,4,19,31,977,9,2,2,5,42,38,15,2,28,37,94,240,5,7,16,98,44,116,884
+CAPTURE TRUNCATED	12901,7,1,72,6,43,25,28,228,396,5,10,17,97,5,2,4,14,24,4,19,31,977,9,2,2,5,42,38,15,2,28,37,94,240,5,7,16,98,44,116,884,1994,8,2,1,7,3,2,2,6
 CAPTURE TRUNCATED AT FETCH CHARACTER CAP	15434,38,96
 CAPTURE TRUNCATED HERE AT THE FETCH	16941
 CEO of Digital Trust Technologies	6371
@@ -161,7 +162,8 @@ Cheque Truncation Project	12286
 China. President Trump	9027
 Christian Brothers Ruben Centre Trust Registered	7167
 Color True	17140
-Commission for Truth	3583
+Commission for Truth	3583,15032
+Commission for Truth Reconciliation and Healing	18615
 Communications LLC Hardin AI Trufo Inc	8530
 Community Trust	15019
 Company and Trust	11298
@@ -242,6 +244,7 @@ Doctor David Lewis Heritage Academy Trust	7167
 Donal Trump	17917
 Donald J. Trump Institute of Peace	15092
 Donald Trump	767,2049,1311,207,180,521,113,68,1971,1573,1072,897,2538,265,775,36
+Dorothy Springer Trust	18515
 Download Trust Privacy Terms Accessibility	9429
 Drivers of Trust	11007
 E CERTIFIEE CONFORME CERTIFIED TRUE COPY	15999
@@ -286,6 +289,7 @@ Era of Trust. Cette	4850
 Erosion of Public Trust. Analysis	4528
 Erosion of Public Trust. Mitigation	12512
 Erosion of Trust	8352
+Establishment of Board of Trustees	18601,1
 Eswatini National Trust Commission	12970
 Eswatini National Trust Commission EOG Eswatini	12970
 Ethical Guidelines for Trustworthy AI	12675
@@ -331,8 +335,10 @@ Framework The Bridgforte Trust Architecture Framework	11138
 Framework. A. Where Trust Breaks Down	11138
 Free and Trusted Data Flows. World Economic	1243
 Free-standing Single Purpose Trust Fund	14015
+FreetownDorothy Springer Trust	18515
 Fund Board of Trustees	15340
 Fund the Trustees	11
+Fund. Board of Trustees. Functions of Board. Fund	18445
 G7. With the Trump	11154
 GAMBIA TRUST BANK VISTA BANK ACCESS	17242
 GEN Z TRUST AI	13532
@@ -490,10 +496,14 @@ National Data Library and Trusted Data Flows	7548
 National Data Trusts	6107,10105
 National Digital Trust System	5975
 National Education Collaboration Trust	11241
+National Elections Sustainability Trust Fund	18459
 National Guidelines for Trusted and Responsible AI	16202
 National Guidelines for Trustworthy and Responsible AI	16212
 National Initiative for Civic Education Trust	13080,15
 National Payments Trust Index	8292,2846
+National Social Security and Insurance Trust	18440,6
+National Social Security and Insurance Trust Act	18440,26
+National Social Security and Insurance Trust Fund	18463
 National Statistics and Public Trust Stats SA	5597
 National True North	12588
 News Public Trust	14345
@@ -656,6 +666,7 @@ Speed Of Trust	6998
 Stakeholder Management and Public Trust	4528,7984
 State Security Agency TTOS Trusted Tour	11218
 Strategic Partnership for Egypt’s Inclusive Growth Trust	15663
+Strategy Board of Trustees Meeting Yogesh Khanna	18647
 Strategy Trust	14997
 Strengthen Digital Trust and E-Transactions	3877
 Strengthening Digital Trust	14752
@@ -691,6 +702,7 @@ TRUST FUND TO THE REPUBLIC	13332
 TRUST IN GHANA'S DIGITAL FUTURE	6936
 TRUST SERVICE PROVIDERS	17534
 TRUST SERVICES Fully	16942
+TRUST TO COMMENCE COOPERATION	18632
 TRUST and CARE	5246
 TRUSTED	14566
 TRUSTED AND AUTHORITATIVE Users	11854
@@ -768,7 +780,7 @@ Trunks	3862
 Trunsmilsi	16851
 Trupthi	8436
 Trus MOU	4349
-Trust	940,21,48,234,696,157,263,417,50,131,1128,100,16,167,398,7,371,97,3,37,68,136,85,106,3,296,172,55,10,159,15,30,2,125,146,104,41,102,11,61,52,91,4,18,69,11,25,35,177,58,147,191,28,136,24,51,78,3,86,51,328,40,4,50,284,26,175,67,135,26,69,436,205,33,376,23,87,3,17,92,187,44,88,16,122,22,227,167,148,23,6,106,1,18,1,95,124,13,14,56,36,111,8,59,47,105,13,241,205,150,42,147,188,14,391,199,313,28,80,13,65,82,163,17,5,103,220,132,6,38,111,414,756,44,42,31,95,105,3,20,400,179,27,604
+Trust	940,21,48,234,696,157,263,417,50,131,1128,100,16,167,398,7,371,97,3,37,68,136,85,106,3,296,172,55,10,159,15,30,2,125,146,104,41,102,11,61,52,91,4,18,69,11,25,35,177,58,147,191,28,136,24,51,78,3,86,51,328,40,4,50,284,26,175,67,135,26,69,436,205,33,376,23,87,3,17,92,187,44,88,16,122,22,227,167,148,23,6,106,1,18,1,95,124,13,14,56,36,111,8,59,47,105,13,241,205,150,42,147,188,14,391,199,313,28,80,13,65,82,163,17,5,103,220,132,6,38,111,414,756,44,42,31,95,105,3,20,400,179,27,604,182,25
 Trust AI	7151
 Trust Account	12335
 Trust Africa. Ces	16714
@@ -885,7 +897,7 @@ Trust-service	3883
 Trust. China China	11154
 Trust. The Nigerian National Broadband Plan	11857
 TrustBroker Africa	9470
-Trusted	4300,1796,291,125,1036,137,46,129,566,23,670,16,1114,570,472,911,39,46,102,55,636,1228,97,413,524,1581,1,464,151
+Trusted	4300,1796,291,125,1036,137,46,129,566,23,670,16,1114,570,472,911,39,46,102,55,636,1228,97,413,524,1581,1,464,151,1001
 Trusted Artificial Intelligence	1814
 Trusted Brand	3487
 Trusted Cross- Border GSM Providers	10819
@@ -920,7 +932,7 @@ Trusted Trader Programme	15478
 Trustee	11,12541,1994
 Trustee PART XIII	12630
 Trustee. Meetings	11
-Trustees	11,12541,6,1906,370,506
+Trustees	11,12541,6,1906,370,506,3216
 Trustees Data Controller INST-813173D2D9A NAIROBI Kenya	7167
 Trusteeship	1554
 Trusting	8405
@@ -965,7 +977,8 @@ UASF Deed of Trust	12552
 UD Trucks	14753
 UHF Trunk Network	6946
 UK Trust Fund	15663
-UN Multi-Partner Trust Fund Office	14622
+UN Multi-Partner Trust Fund Office	14622,4055
+UN Trust Fund	18563
 UN Trust Fund for Human Security	17964
 UNDP’s AI Trust	13661
 UNECA’s Pan-African Trust Framework	10819
@@ -989,6 +1002,7 @@ United Nations Trust Fund for AMISOM. India	15119
 United Nations Trust Fund for Human Security	10529
 United States President Donald J. Trump	17123
 Unity and Trust Amidst Current Challenges	9914
+Universal Access Development Fund Board of Trustees	18445
 Universal Access and Service Fund Trust	12558
 Unlimited True	15471
 Vallary Acholla of Mzalendo Trust	17745

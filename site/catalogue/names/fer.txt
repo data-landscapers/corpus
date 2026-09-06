@@ -65,6 +65,7 @@ Deputada Maria de Lourdes Roque Caposso Fernandes	539
 Deus KWIZERA Theogene YAMUREMYE Ferdinand MANIRAMBONA	13300
 Different Fertility Scenarios	16935
 Directora Geral Adjunta Adão Fernando	10757
+Districts Adolescent Birth Rate Total Fertility	18441
 Domaine du CHEMIN DE FER	15542
 Don Fernando Nguema Mangue	17192
 Données Fermées Données Partagées Données Ouvertes	747,1,1236
@@ -111,6 +112,7 @@ FERTILITY CLINIC	14773
 FERTILITY PREFERENCES	15247
 FERTILIZERS BY TYPE OF INORGANIC FERTILIZERS	17043
 FERTILIZERS BY TYPE OF ORGANIC FERTILIZERS	17043
+Family Planning Fertility Age Specific Fertility	18441
 Feraoun	16230
 Ferdinand	15786,314
 Ferdinand BAKO	7670
@@ -133,7 +135,7 @@ Ferid Belhaj Country Director	13836
 Ferid Belhaj Regional Director	17458
 Feriol Bewa	2349,1877
 Ferkessedougou	16032,1785
-Ferkessédougou	10930,4,4689
+Ferkessédougou	10930,4,4689,2910
 Ferké	2342,14195
 Ferlo	18304,86,20,4
 Ferlo. Pour	18410
@@ -214,6 +216,7 @@ Ferrous	13385,3515
 Ferroviaire	10395,5147
 Ferroviaires	3396
 Ferry	16927
+Ferry Junction Freetown	18469
 Ferryse Armel MICKALA NDJEGOU	16175
 Ferré GOLA	15901
 Ferréol	15848
@@ -228,7 +231,7 @@ Fertile Period	15247
 Fertiliser Information System	8908
 Fertilisers Imports	11258
 Fertilisers and Feed	13403
-Fertility	5889,6262,232,30,550,148,956,989,191
+Fertility	5889,6262,232,30,550,148,956,989,191,3194,2,184
 Fertility Clinic	14773
 Fertility Fertility	12655
 Fertility Measures	12151
@@ -238,6 +241,7 @@ Fertility Preferences	14067
 Fertility Rate	12151,232,30,242,17,2384
 Fertility Rate ASMR Age-Specific Mortality Rate	12413
 Fertility Rate NRR Net Reproduction Rate	16950
+Fertility Rate Poorest	18441
 Fertility Rate TJ Tera Joules	2775
 Fertility and Family Planning	14523
 Fertilité du Sol	17829

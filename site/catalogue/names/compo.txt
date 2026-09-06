@@ -62,6 +62,7 @@ BESS Recycling Plant Component	14080
 BNR National Bank of Rwanda CAGR Compound	14997
 BOP Component	17235
 BUDGET Raccourcis Le Ministre Composition du Cabinet	1297
+Background and Major Components	18543
 Bank Team Composition Bank Staff Name	17441
 Banque Composante	15901
 Banque Mondiale COMPOSANTE	14480
@@ -98,7 +99,7 @@ CERC Contingent Emergency Response Component ECOWAS	17099
 CIRT. Component	1704
 CLS. Component	17114
 COMPANY PROFILE AND TEAM COMPOSITION	15590
-COMPONENT	13938,3219
+COMPONENT	13938,3219,1319
 COMPONENT Action Effectivenes Cost Feasibilit Assistanc	17157
 COMPONENT Approaches	17157
 COMPONENT Category of Drought Drought Impact Impact	17157
@@ -140,6 +141,7 @@ COMPONENTS Name Component	2712,3867,349,4467,576,469,3639,626,374,17,1254,5
 COMPONENTS Name Economic Shock Responsive Cash	11988
 COMPONENTS Name Emergency	16013
 COMPONENTS Name Grant Support	17000
+COMPONENTS Name Institutional Development and Legal Reform	18534
 COMPONENTS Name Resilient Digital Infrastructure	4688,3189
 COMPONENTS Name Supporting	16994
 COMPONENTS Name Unconditional	14980
@@ -164,6 +166,7 @@ COMPOSITION ET FONCTIONNEMENT DE LA COMMISSION	16085
 COMPOSITION ET FONCTIONNEMENT SECTION	15431
 COMPOSITION ET NOVEMBRE	13334
 COMPOSITION ET REGLES DE FONCTIONNEMENT	13334
+COMPOSITION OF LOCAL COUNCILS AND ELECTION	18467
 COMPOSITION OF TH E TECHNICAL TEAM	11862
 COMPOSITION OF THE COMMITTEE The Committee	13328
 COMPOSITION OF THE TECHNICAL TEAM	11862
@@ -172,6 +175,7 @@ COMPOSIÇÃO DO NIF E LEGITIMIDADE	11383
 COMPOSIÇÃO E PROCEDIMENTO PARA A ATRIBUIÇÃO	11383
 COMPOSTAGE	13300
 COMPOSÉE	17830
+CONTACT US Wahman Abu Compoun	18469
 CORE COMPONENTS	1009,16105
 CORE COMPONENTS Components IHE Definition	1009
 CORE COMPONENTS Generally	17114
@@ -212,14 +216,18 @@ Compoment	15372
 Compoment Total Component Categories Funding	15372
 Compoment Total Component Category Funding	15372
 Componenente	11542
-Component	34,126,161,286,41,113,11,1,79,119,8,17,4,9,219,36,20,6,294,120,66,8,89,121,265,1,37,182,239,120,57,100,261,206,138,10,74,102,579,294,243,474,250,919,40,254,95,2702,592,546,61,3,33,98,1,224,187,5,10,5,22,108,330,8,6,55,41,6,37,129,58,25,168,24,14,14,260,24,18,39,51,148,10,27,37,57,220,1,46,14,67,195,77,56,43,3,4,3,19,57,1,5,16,72,28,42,376,31,29,37,23,334,2,16,38,5,40,6,2,12,49,58,52,182,5,34,13,57,10,20,2,1,1,3,35,48,3,15,2,37,1,2,2,39,2,27,6,6,39,20,2,97,58,10,14,96,65,8,35,184,13,14,38,178,24,16,21,30,63,128,26,4,23,3,8,40,79,17,3,15,66,39,222,408,13,42,2,52,4,142,189,8,49,5,4
+Component	34,126,161,286,41,113,11,1,79,119,8,17,4,9,219,36,20,6,294,120,66,8,89,121,265,1,37,182,239,120,57,100,261,206,138,10,74,102,579,294,243,474,250,919,40,254,95,2702,592,546,61,3,33,98,1,224,187,5,10,5,22,108,330,8,6,55,41,6,37,129,58,25,168,24,14,14,260,24,18,39,51,148,10,27,37,57,220,1,46,14,67,195,77,56,43,3,4,3,19,57,1,5,16,72,28,42,376,31,29,37,23,334,2,16,38,5,40,6,2,12,49,58,52,182,5,34,13,57,10,20,2,1,1,3,35,48,3,15,2,37,1,2,2,39,2,27,6,6,39,20,2,97,58,10,14,96,65,8,35,184,13,14,38,178,24,16,21,30,63,128,26,4,23,3,8,40,79,17,3,15,66,39,222,408,13,42,2,52,4,142,189,8,49,5,4,97,48,74,40,5,2,10,26
 Component Activity Output Outcome Strengthening	18293
+Component Area	18478
 Component B	5370,8284,77
+Component Based Enterprise Systems Architecture	18478
+Component Based Enterprise Systems Architecture Legislation	18478
 Component Beneficiary Profile	10964
 Component C	13654,77
 Component CGP Local Complaints Management Committees	17962
 Component CHW Community Health Worker CPF	11560
 Component CIF Climate Investment Fund COVID19	11549
+Component CLOs Community Liaison Officers CLSG	18504
 Component CONASUR National Council for Emergency Relief	16384
 Component COVID-19 Coronavirus Disease	16896
 Component Calculation	4896
@@ -267,7 +275,7 @@ Componente de Gestao da Receita	574
 Componente de Resposta de Emergência	11406
 Componente de Resposta de Emergência Contingente	11440,1,101
 Componentes	10777,629,7,3,44,109,5617
-Components	236,191,334,503,167,141,132,163,121,158,107,1,37,421,892,74,785,1157,919,40,254,327,1123,785,1700,196,169,242,42,168,205,70,9,55,41,210,20,25,136,3,53,312,108,64,66,65,283,21,47,7,7,131,264,74,588,38,89,166,120,26,22,26,16,2,17,5,41,121,234,39,13,87,7,35,48,57,1,2,2,39,100,99,58,10,175,43,249,202,17,245,52,8,139,137,205,408,109,4,171,161,7,53,5
+Components	236,191,334,503,167,141,132,163,121,158,107,1,37,421,892,74,785,1157,919,40,254,327,1123,785,1700,196,169,242,42,168,205,70,9,55,41,210,20,25,136,3,53,312,108,64,66,65,283,21,47,7,7,131,264,74,588,38,89,166,120,26,22,26,16,2,17,5,41,121,234,39,13,87,7,35,48,57,1,2,2,39,100,99,58,10,175,43,249,202,17,245,52,8,139,137,205,408,109,4,171,161,7,53,5,97,78,89,12,26
 Components Accelerating Learning	17958
 Components Adaptive Safety Nets Youth Economic	10963
 Components Amounts	11924
@@ -312,6 +320,7 @@ Components Supporting	16994
 Components Sustainability Mechanism Component	6539
 Components Table	16144
 Components Table Name Component	15619
+Components Table Name Enhancing Interoperability of Digital	18473
 Components Table Name Improving	16638
 Components The World Bank Guinea-Bissau Human	11560
 Components The World Bank Implementation	16013,1083
@@ -384,7 +393,7 @@ Composer	11209,2181
 Composez	18284
 Composición	16898,71
 Composilion	15429
-Composite	9129,2140,27,3519,212,137,561,1374,15,13
+Composite	9129,2140,27,3519,212,137,561,1374,15,13,1506
 Composite Development	15845
 Composite Drought Index	12931,46,4180
 Composite Drought Index-Eswatini	12977
@@ -393,7 +402,7 @@ Composite Indicator Index and Threshold Tables Final	13868
 Composite Micro Utility License	16978
 Composite Score	2957
 Composite Video	34
-Composition	11,1463,39,281,34,797,582,507,147,126,496,45,1149,230,120,1061,460,1858,1730,724,135,48,313,156,39,92,18,239,400,30,522,557,3,21,55,1,1,3,44,57,70,72,8,46,70,2,1,33,131,29,46,307,179,70,89,101,88,101,10,56,142,370,1,4,5,208,54,109,120,324,87,292,244,249,81
+Composition	11,1463,39,281,34,797,582,507,147,126,496,45,1149,230,120,1061,460,1858,1730,724,135,48,313,156,39,92,18,239,400,30,522,557,3,21,55,1,1,3,44,57,70,72,8,46,70,2,1,33,131,29,46,307,179,70,89,101,88,101,10,56,142,370,1,4,5,208,54,109,120,324,87,292,244,249,81,44,30
 Composition Art	16879
 Composition Comité de Pilotage des Projets TIC	13290
 Composition Comités Directeurs Interministériels	13290
@@ -421,20 +430,29 @@ Composition du Secrétariat Exécutif Fonction Secrétaire	14537
 Composition du Système Statistique National	18169
 Composition du Système Statistique National Le Système	16616
 Composition of Board	3746
+Composition of Chiefdom Land Committee	18465
+Composition of Commission	18467
+Composition of Commission. Functions	18438
+Composition of Commission. Tenure	18467
 Composition of Council	12919
 Composition of Direct Taxes	5655
+Composition of District Land Commission	18465
 Composition of Exports	2775,8374
 Composition of GDP	12385
 Composition of Household	17114
 Composition of Imports	2775
+Composition of Information Commission	18438
 Composition of Liberia	17011
+Composition of Local	18467
 Composition of NPV Costs Benefits CAPEX	15659
 Composition of NPV Costs Benefits CAPEX US	15659
 Composition of NSTC	13952
+Composition of Parliament	18459
 Composition of Senate	13501,158
 Composition of Tax Revenue	1828
 Composition of Tax Revenues	13053
 Composition of Tax Revenues Over the Last Five	13053
+Composition of Town	18465
 Composition of Township	13189
 Composition of Tribunal	12549
 Compositional-based	15027
@@ -458,7 +476,7 @@ Compound Public Pension	14997
 Compounded	15027
 Compounded Reference Rate	16219
 Compounded Reference Rate for USD and JPY	16219
-Compounding	1554,333,840,856,544,1370,855,985,109,1569,751,1651,1212,277,35,1776,11,2,192
+Compounding	1554,333,840,856,544,1370,855,985,109,1569,751,1651,1212,277,35,1776,11,2,192,3609
 Compounding Methodology Supplement	16219
 Compr Component	17219
 Compra Component	17219
@@ -471,7 +489,7 @@ Continency Emergency Response Component	13331
 Contingency Emergency Reconstruction Component	1228
 Contingency Emergency Response Component	2989,7779,195,1002,2611,977,108,76,276,174
 Contingency Emergency Response Component. Following	14576
-Contingent Emergency Response Component	761,235,232,36,20,300,283,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61,990,2,226,353,27,35,66,2,37,1,2,82,39,187,14,96,65,43,197,52,460,26,4,68,6,96,3,15,848,171,160,8,49,4,5
+Contingent Emergency Response Component	761,235,232,36,20,300,283,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61,990,2,226,353,27,35,66,2,37,1,2,82,39,187,14,96,65,43,197,52,460,26,4,68,6,96,3,15,848,171,160,8,49,4,5,97,48,30
 Contingent Emergency Response Component CERC Country	11417
 Contingent Emergency Response Component CERC Steering	1228
 Contingent Emergency Response Component CPF Comité	10964
@@ -612,6 +630,7 @@ Government CIRT Component	1704
 Government Component	5533,6453
 Government Revenue and Tax Composition Trends	10997
 Government of Djibouti Component	13938
+Green Compost	18518
 Guinea Guinea-Bissau Mauritania Total Component	1264
 Génie Militaire. Composante	16381
 HEALTH FACILITY-WIDE COMPONENT COMPONENT	2709
@@ -694,7 +713,7 @@ Kalumbila District Council. Component	1988
 Kalumbila District of North-Western Province. Component	1988
 Key Assumptions Objectives Component	18293
 Key Component	16876
-Key Components	16947,28
+Key Components	16947,28,1653
 Key Components Unveiled	11546
 Key Components for Gender Mainstreaming	5244
 Key M&E Components	5245
@@ -709,14 +728,17 @@ Laboratoire de Composés Naturels	16627
 Large Composite Micro Utility License	16978
 Layer Component Description References Contextual	9128
 Lega Component	17219
+Leone Council Composition of Council	18435
 Loan Closing Date Extension No Components	15969
 Local Components	13474
+Local Development Financing MS MS Component	18494
 Local Government Authorities Component	17099
 Local Transport Operators Component	17099
 Low-Income Households Components	17099
 M&E for Component	15411
 M. Composition of Steering Committee	14843
 MAIN RESULTS ACHIEVED BY COMPONENT Component	15601
+MAJOR COMPONENTS OF THE PROJECT	18543
 MALI COMPOSÉE	17830
 MDAP Components Component	1228
 MDAs. Component	15553
@@ -729,6 +751,7 @@ MLEVTSP. Component	15658
 MNO'S STAFF COMPOSITION	3862
 MOH Component	11417
 MS Composante	14540
+MS MS Component	18494
 MS MS Composante	14539,1473
 MS. Composante	15766
 Main Financing Components	17257
@@ -751,8 +774,9 @@ Minist Component	17219
 Mission Strategic Objectives Components Business Process	12322
 Mobil Component	17219
 Mobile Money Delivery Component World Bank	1023
-Moderately Satisfactory Component	13054
+Moderately Satisfactory Component	13054,5581
 Moderately Satisfactory. Under Component	13392
+Moderately Unsatisfactory Component	18635
 Monitoring and Evaluation Component	15553
 NASDAQ Composite	5985,909
 NCSA. Policy Component	12419
@@ -826,6 +850,7 @@ Panel of Experts for Takeovers Composition	3714
 Parkade Podium Museum Auditorium Building Component	11134
 Parlement des Composantes	15901
 People-centric Digitally Enabled Public Services Component	15553
+Percentage Composition of Expenditure	18483
 Performance Indicator Responsible Person Component	1988
 PforR Component	16032
 Pipeline Components Implement CI	11952
@@ -846,7 +871,7 @@ Project Beneficiaries Component Beneficiary Profile	10964
 Project Beneficiaries D. Project Components III	13856
 Project Component Activities Outputs Intermediate Outcomes	15511
 Project Component Description	15659
-Project Components	1988,4551,5324,28,497,1355,195,142,931,682
+Project Components	1988,4551,5324,28,497,1355,195,142,931,682,2811
 Project Components Activities	1988
 Project Components Component	16896
 Project Components Description of Components Estimates	17441
@@ -879,6 +904,7 @@ Publication Composition Service	14434
 QUALITY COMMITMENT Sn Components No Standards	13310
 R Component	17180
 RAP. Component	16896
+RAPID MSDI READINESS ASSESSMENT COMPONENTS INTEGEMS	18476
 RAPID-CI’s Component	3604
 RDGP Component Ownership	12359
 REGISTRATION OF LEARNERS Sn Components	13310
@@ -957,6 +983,7 @@ Software Composition Analysis	11952
 Software Composition Analysis SLA Service Level	11952
 Soil Component Detection	17884
 Southern Africa. Component	9630
+Staff Composition	18444
 Stakeholder Groups General Composition Language	16926
 Stakeholder Project Component	17099
 Stakeholders Feedback Stakeholder Project Component	17099
@@ -979,6 +1006,7 @@ Sur la Composante	16012
 Swatini Composite Drought Index	12931
 System Number BB Broadband CAGR Compound	10861
 TA. Component	15553
+TEAM COMPOSITION	18575
 TEAM COMPOSITION AND MINIMUM QUALIFICATION	3678
 TEAM COMPOSITION AND QUALIFICATIONS REQUIRED	15090
 TEAM COMPOSITION AND QUALIFICATIONS REQUIRED PAGEREF	15090
@@ -987,8 +1015,9 @@ TWGs Composition Each TWG	7548
 Tarif Observation Composition	17833
 Tax Rate and Composition	17011
 Tax Revenue Composition	10997
-Team Composition	11869,72,3431
+Team Composition	11869,72,3431,3088
 Team Composition AFRICA	15372
+Team Composition SurveyCTO	18460
 Team Composition and Task Assignments Professional Staff	13037
 Technical Assistance Component	13054
 Theme Project Management and Coordination Component	2989
@@ -1028,6 +1057,7 @@ Validation-Guinée-2026 Composante C Transparence évaluation	16719
 Vendors Component	17099
 Vermi Compost	14818
 Very High Restrictions Evacuations Composite Indices	17157
+Village Land Committee Composition of Town	18465
 WAEMU IDA Component	16144
 WASH Component	13787
 WASH. Component	1778

@@ -1,4 +1,5 @@
 Acronyms Description MOFI Ministry of Finance	11857
+Agencies MoF Ministry of Finance MoPED Ministry	18577
 Animal Resources and Fishery MoFEP Ministry of Finance	15118
 Banaadir Regional Administration. MoF	15004
 Budget Department of MoFEA	16944
@@ -12,8 +13,12 @@ Cluster Survey MoFEA Ministry of Finance and Economic	16922
 Communications and Innovation MOFA	14566
 Constitutional and Religious Affairs MoF Ministry of Finance	4214
 Departments and Agencies MM Materials Management MoFEDIP	13420
+Departments and Agencies MoF Ministry of Finance	18488
+Departments and Agencies MoF Ministry of Finance MTDS	18500
+Departments and Agencies MoF Ministry of Finance MoGCA	18477
 Description MoF Computerisation	1661,977,2995
 Detailed Planning MoF	15473
+Director for IT MoFP	18661
 ESA MoF	15473
 Economy and Trade MoFA Ministry of Foreign Affairs	17157
 Education MOFEA Ministry of Finance and Economic Affairs	16884
@@ -40,7 +45,9 @@ MNOs Mobile Network Operators MoF Ministry	12663
 MOCI Ministry of Commerce and Industry MOF Ministry	16843
 MOF Assurances of Integrity	14777
 MOF Assurances of Integrity Data Quality Indicators	14777
+MOF FOOTBALL TEAM INTER-MDA FOOTBALL FRIENDLY	18576
 MOF ICT Development	2638
+MOF Leadership	18488
 MOF Legal and Institutional Framework	14777
 MOF Ministry of Finance	11965
 MOF Ministry of Finance MAURITIUS MOU Memorandum	14777
@@ -67,9 +74,11 @@ MOFEC	14897
 MOFED	259,14491
 MOFED MITCI	14750
 MOFEDIP	13685
+MOFEP	18607
 MOFNP	193,12142,118,879,15
 MOFP N	7763
 MOFPED and MOH. Overhead	4217
+MOH and MOF	18532
 MOICI and MOFEA Implementation	16884
 MOL OTHERS MOF	16843
 Management Information System MoFNP Ministry of Finance	13332
@@ -84,8 +93,11 @@ Ministry of Education MoFDP	16975
 Ministry of Education MoFEA	12175
 Ministry of Education MoFNE	14857
 Ministry of Energy and Oil MoFEP Ministry of Finance	14897
+Ministry of Environment and Climate Change MoF	18485
+Ministry of Environment and Climate Change MoF Ministry	18512
 Ministry of Finance and National Planning MoFNP	13532
 Ministry of Finance. MoF	15604
+Ministry of Information and Civic Education MOF Ministry	18504
 Ministry of Technology and Science MoFNP Ministry of Finance	13345
 MoBSE Ministry of Basic and Secondary Education MoFEA	16852
 MoETE MOF INGOs General Devaluation	15604
@@ -93,8 +105,10 @@ MoETE MoF MoPED General Lack	15604
 MoF Analytical	15604
 MoF Budget Directorate	15004
 MoF Computerisation	1661,977,1208,1,1786
+MoF Conference Hall Bombali District Council	18500
 MoF DRMIS	13080
 MoF Data Center	2112
+MoF FOOTBALL TEAM	18576
 MoF GSB	2112
 MoF K03	15604
 MoF K04	15604
@@ -103,7 +117,13 @@ MoF Ministry of Finance MoHESR Ministry of Higher	15604
 MoF Ministry of Finance MoTAI Ministry of Trade	4126
 MoF Other By the Bank	11905
 MoF Policy	15977
+MoF Team	18576
+MoF and MDAs	18577
 MoF and Ministry of Planning	15004
+MoF and MoPED	18577
+MoF and NASSIT	18500
+MoF and National Revenue Authority	18488
+MoF and Office	18576
 MoF and Parliament	15845
 MoF&EA Ministry of Finance and Economic Affairs MNSSP	12964
 MoF's Budget Directorate	15004
@@ -125,6 +145,7 @@ MoFED	970,12553
 MoFED Ministry of Finance and Economic Development MoHCC	970
 MoFEDIP	13685
 MoFEP	14877,20
+MoFEP Ministry of Finance	18614
 MoFEPD	5620
 MoFND	14031
 MoFNE	14857,3
@@ -157,7 +178,9 @@ SSIFS and MOFA	16285
 Science and Technology Development MoFED Ministry of Finance	13310
 Strengthen MOF’s Assurances of Integrity	14777
 Strengthen MOF’s Legal and Institutional Environment	14777
+Strengthen the MoF	18488
 Strengthening of MoFDP IFMIS	14185
+Sulaiman Bangura Team Discipline MoF Team	18576
 Support MoFDP	14185
 Survey MoFEA Ministry of Finance and Economic Affairs	16896
 Term Evolution MoF Ministry of Finance NCA	236

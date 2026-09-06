@@ -105,6 +105,7 @@ CSI CSOC DPF DTX ECGS EGFT	11134
 CSIRT DAAS DPO E&S FM GBV	4653
 CSO CSOC DPF ECGS ERM EXCO	11131
 CSO Civil Society Organizations DPI Digital	10714
+CSOs Civil Society Organisations DPP Director	18477
 CSSDOS CI DPRS SENUM SA MCTEN	18306
 CSSDOS CSSDOS CI DPRS	18306
 CT Comité Tarifaire DPDC Dibamba Power	10975
@@ -276,9 +277,12 @@ DPF3-PA6	10779
 DPF3. PA4	10779
 DPFP Renforcer	17872
 DPG AMP	13095
+DPG Accelerator Lab	18480
 DPG Applicant Toolkit	7921
 DPG Awareness and Certification Programme. Partner	7921
 DPG Charter	7921
+DPG Community Meetups Supported	18480
+DPG Digital Public Good DPS Directorate	18478
 DPG Ecosystem Africa	7921
 DPG Fair	13095
 DPG Registry	7921
@@ -303,6 +307,7 @@ DPGs for DPI	13095
 DPGs for DPI. Rather	4430
 DPGs. But Africa	7921
 DPGs. Top	11922
+DPHC Implementation	18532
 DPHQGHG	15604
 DPI ADP III	1439
 DPI ADP III. Moniepoint	2247
@@ -463,6 +468,7 @@ DPIAs Recommendations	13381
 DPIAs Requirement	13381
 DPIAs Transparency	6936
 DPIDG	10840
+DPIIT	18543
 DPIJournalism	5485
 DPIMay	4030,746,717,385
 DPIs. Evaluating Nigeria’s DPI	3735
@@ -497,8 +503,10 @@ DPO GRANT	5655
 DPO Group	6105
 DPO Madagascar	14549
 DPO Margaret Chirimumimba	4529
+DPO Matrix. Table	18488
 DPO Network	5425
 DPO Office of NCSA	12419
+DPO POLICY MATRIX The Government of Sierra	18488
 DPO Registre CMIL Contrôles	14537
 DPO and Extended Credit Facility	5655
 DPO and Pesapal	5124
@@ -509,6 +517,7 @@ DPO-3 Fiduciary	14010
 DPO-related	4653,5334
 DPO. Data Protection Officers	13381
 DPO. The BCRs	12302
+DPO1 DEVELOPMENT POLICY OPERATION KEY	18488
 DPOC RSS	3583
 DPOs Appointed	4529
 DPOs DPOs	13381
@@ -525,10 +534,19 @@ DPP Rec	2966
 DPP Regulations	5603
 DPP-led	8667
 DPP. An Ethics and Integrity Commissioner	14748
+DPPA Digital Pandemic Preparedness Assessment DPHC	18478
 DPPA and Regulations	12232
 DPPA. BRIAN KALULE RACHEL ASABA JUDITH	12232
 DPPA. Consent	12232
 DPPA. Entities	12232
+DPPI Approve CHW	18532
+DPPI Electrification	18532
+DPPI Hold	18532
+DPPI Implement	18532
+DPPI Policy Idicator	18532
+DPPI Roll-out EMR	18532
+DPPI Secure	18532
+DPPI Undertake	18532
 DPPL'. DPO	12419
 DPPL. Target	12419
 DPPL. The DPO	12419
@@ -537,6 +555,7 @@ DPR DPR	12018
 DPR Direction	14437
 DPR. Excetuando-se	12018
 DPR. Os	12018
+DPRCH Directorate of Reproductive and Child Health DSTI	18478
 DPRE Direction	18015
 DPRE. BUREAU DE GESTION	18302
 DPRG-01-2024-0003	5349
@@ -640,6 +659,7 @@ Direction des Pêches Maritimes DPN	18291
 Directorate DPAC Direction	18198
 Directorate of Civil Protection DPV	18309
 Directorate of Distance and E-Learning DP	12175
+Directorate of Primary Health Care DPPI Directorate	18478
 Directorate-General for Health DPC	18309
 Disabilities DML Desired Mastery Level DP	13990
 Disaster Risk DPF	15491
@@ -647,6 +667,7 @@ Disease-2019 DPI Digital Public Infrastructure DPGA	12241,839,15
 Disinformation DPI	9937
 Distillate Oil DPG Déclaration de Politique Générale	15769
 District Field Supervisors DPs Development Partners	16921
+Donor DPPI	18512
 DpZs98lQfP1oA8cXwp5OxA3Q2yZaYYJ	11977
 Dparent.parent&amp	5784,4,162,263
 Dpdarieoçsfpãiosdosneiiobsniplaiizospareçatm	15694
@@ -876,6 +897,7 @@ MyMzansi DPI Roadmap	6255
 NAIJA DPF	11469,7
 ND National Digital Trust Framework DPC	6936
 NDPA. The DPA	6792
+NEMS and DPPI Roll-out	18532
 NGF's DPI Readiness Report	18168
 NHIA National Health Insurance Authority DPIA	6936
 NIBSS Behavioral Instant DPI	10719
@@ -903,6 +925,7 @@ Notification DPSS.CO.OD No	11310
 Numérique DPMN	17824
 ODPC. DPOs	12301
 Office of DPP	14829
+Ongoing DPPI and Directorate of Financial Resources	18532
 Operation Name Angola DPF L	10779
 Operationalize Introduce AI-specific DPIA	14674
 Opportunistic DPI Siloed	12214

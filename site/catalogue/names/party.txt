@@ -26,6 +26,7 @@ Certification Relying Party Subject	10819
 Chinese Communist Party	2117,401,1080,1644,5108
 Clean Alliance Party of Kenya	7167
 Communist Party	2518,2158,13126
+Communist Party of China	18479
 Communist Party. Sun and Yan	2518
 Construction Phase Party Provide	1988
 Contracting Party	13326
@@ -63,15 +64,18 @@ Last Mile Projects Description Responsible Party	12399
 Licensed Party	15492
 MK Party	15337
 Majority Party	10313
+Majority Party Leader	18436
 Majority Party. Hon. Kimani Ichung’wah	10313
 Majority Party. Hon. Owen Baya	10313
 Majority Party. The Temporary Speaker	10313
+Majority and Minority Party Leaders	18436
 Malabo State Party	17745
 Malawi Congress Party	8434,786
 Malawi Congress Party Government	13055
 Measure Type Details Proposed Responsible Party	17157
 Measure Type Details Responsible Party Operational	17157
 Mile Projects Description Responsible Party Locality	12399
+Minority Party Leaders	18436
 Mitigation Measures Responsible Party	1988
 Mitigation Measures Responsible Party General	1988
 Mitigation Measures Responsible Party Type	1988
@@ -112,6 +116,7 @@ Party List	14852
 Party Membership Levels	7869
 Party Non-Supporters	7869
 Party Organizational Train Farmers	17157
+Party Registration Commission PWD Persons	18512
 Party Risk Escalating	11134
 Party Term	9399
 Party Timeline	395
@@ -125,7 +130,7 @@ Party. Notwithstanding	1243
 Patriotic Party	4174
 Peoples Democratic Party	5215
 Political Parties. The Political Party	1630
-Political Party	1630,6239,4332,1180,1471
+Political Party	1630,6239,4332,1180,1471,3753
 Political Party Alignment	7869
 Political Party Campaign Funding	12652
 Political Party Funding Act	5533,6453
@@ -181,6 +186,7 @@ TRANSPARENCY PARTY Data Processor INST-6497049E084 NAIROBI	7167
 Third Party	10616,1,2845,2179
 Third Party Access and Use of Forest Products	16843
 Third Party BCX	11231
+Third Party By Negotiation	18450
 Third Party Data	10550,726
 Third Party Data Search	11276
 Third Party Implementer	14038

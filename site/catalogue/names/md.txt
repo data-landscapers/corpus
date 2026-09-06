@@ -50,6 +50,7 @@ Cabinet du MDENP	15512
 Cabo Delgado MDM	12201
 Capacities of MDAs	12932
 Capacity Building of MDAs	12917
+Cash Forecasting Guidelines and MDA Data Submission	18488
 Central African Republic MDA Ministries	969
 Certain MDAs	17870
 Clo Chief Information Officer MDA Ministries	6936
@@ -87,7 +88,7 @@ Engage MDAs	14525
 Entreprise MdC Inclus	14488,1,1
 Equinix South Africa MD Sandile Dube	11844
 Equity MD	14990
-Evaluation MDAs Ministries	3604,9727
+Evaluation MDAs Ministries	3604,9727,5146
 Evaluation MDCEST Ministry of Community Development	18301
 Evaluation MDM Master Data Management SITA	396
 Evaluation MDTF Multi-Donor Trust Fund MFD-e	16384
@@ -101,6 +102,7 @@ Federal MDAs	10157,1700
 Federal MDAs Q3	11857
 Federal MDAs RoW IN-5 Prepare National	11857
 Few MDAs	16927
+Five MDAs Share Dataset Inventories	18442
 Fund MDAs Ministries	13060
 GAMTEL MD	17126
 GBM IPS ISO MDS MED MSP	13452
@@ -115,13 +117,14 @@ Gender-based MDH	17018
 Global AI Hub and MDB	11061
 GoM and MDA	12917
 GoM and MDTF	12980
+GoSL MDAs	18476
 GoTG MDAs	16923
 GoZ MDAs	970
 Google Africa MD Alex Okosi	6961
 Google’s MD for Africa Alex Okosi	3619
 Gouvernance Locale MDN Ministère	15479
 Government Areas MDAs Ministries	11857
-Government MDAs	11854,1063,15,190
+Government MDAs	11854,1063,15,190,5355
 Groups MDH Misinformation	15342
 Guide MDG Millennium Development Goals MLA	13960
 Guide the MDAs	12917
@@ -170,6 +173,7 @@ Le MDENP	15512
 Les MDA	13341
 Lipa Mdogo	11994
 Lipa Mdogo Mdogo	6114
+Local Councils and MDA	18500
 Long-Term Evolution MDAs	958
 Lot Quality Assurance Sampling MDA	10776
 M&E Monitoring and Evaluation MDA Ministries	14897
@@ -206,13 +210,16 @@ MD08-2025	3651,4650
 MD2020	8812
 MD2030	8812
 MD327	13385
+MDA Audit Committee	18577
 MDA Budgets	11866
+MDA Cash Forecast Data Submission Guidelines	18577
 MDA Cash Payment Solution	2287
+MDA Data Submission	18488
 MDA Dec-13 Dec-14 Dec-15 Dec	16858
 MDA ERPs	2527
 MDA HQs	12917
 MDA Ministries	1264,15657,184
-MDA Ministry	12917,2704
+MDA Ministry	12917,2704,2891
 MDA Ministère	13341
 MDA Ministères	15474
 MDA Naira	2287
@@ -229,6 +236,7 @@ MDA. Le Gouvernement	15474
 MDA. Retail	18133
 MDA. The HDA	9123
 MDA. The Head of Department	16858
+MDA. The World Bank	18500
 MDA. Toutes	13340
 MDA. Un	13341
 MDA. V.2 Catégories	13341
@@ -250,6 +258,7 @@ MDAs Annual	7548,8005
 MDAs Chief Executive Officers	11951
 MDAs Conduct	12917
 MDAs Convert	15090
+MDAs Cross	18576
 MDAs Department of E Government	12917
 MDAs Department of E- E Government	12917
 MDAs Distribute	9123
@@ -259,7 +268,7 @@ MDAs MDAs	10157,713,991
 MDAs MEPSIR MFD MICS MNO MoF	15553
 MDAs Malawi’s National ID	13080
 MDAs Methodology for Data Collection Data	3604
-MDAs Ministries	970,1805,8770,315,3069,2023
+MDAs Ministries	970,1805,8770,315,3069,2023,1625
 MDAs MoI Short Term I3 Establish	12917
 MDAs Moderate Induct PMO	16858
 MDAs My	1161
@@ -276,59 +285,78 @@ MDAs Specific Objectives	1000
 MDAs Sub-Total	12917
 MDAs System	12241
 MDAs The Department of E-Government	12240
+MDAs The Quality Assurance and Improvement Programme	18577
 MDAs Under Output	13080
 MDAs Universities	6936
 MDAs and District	12917
 MDAs and Districts. Priority	13080
+MDAs and GSS	18529
 MDAs and HDAs. The IDA	9123
 MDAs and Inter-Governmental	12145
+MDAs and LCs Public Investment	18488
+MDAs and Local Councils	18529
 MDAs and Local Government	12917
 MDAs and Parliamentary	13005
 MDAs and Public Institutions	12917
+MDAs and SVAs	18576
 MDAs and States	14860
 MDAs and ZIMSTAT	13359
 MDAs and ZIMSTAT. Secondly	13359
 MDAs for AI	7548
 MDAs of President Tinubu	8981
 MDAs. Above	13115
-MDAs. All	13331
+MDAs. All	13331,5245
+MDAs. Amendment	18450
 MDAs. Any	15553
 MDAs. BudgIT	11866
+MDAs. Building	18576
 MDAs. CSOs	17037
 MDAs. Circuits	9123
 MDAs. Component	15553
 MDAs. Critical	9123
 MDAs. Develop	12917
+MDAs. During FY	18577
 MDAs. Earlier	7973
 MDAs. Exact	15553
 MDAs. Finally	16927
+MDAs. Financial Reporting	18577
 MDAs. Improving	13312,2,1583
 MDAs. Incident	14674
 MDAs. Inclusive Climate Insurance Program Note	11469
 MDAs. M. INFRASTRUCTURE REQUIREMENTS	11860
+MDAs. MDAs	18500
 MDAs. Making	9310
 MDAs. Methodology for Data Collection	3604
+MDAs. Ministry of Finance Treasury Building George	18496
 MDAs. Mrs Eno Olotu	7973
 MDAs. NiRA President Adesola Akinsanya	4690
 MDAs. Notably	13312,2
 MDAs. People	13920
+MDAs. Publish Annual Gender Audit Report	18512
+MDAs. Quarterly Government Audit Committee	18577
+MDAs. Regulation and Standards	18454
 MDAs. Risk Treatment Owner	13080
 MDAs. SERVICOM	11951
 MDAs. Serviços	11555
 MDAs. Similarly	9123
+MDAs. Strategic	18529
 MDAs. Surveys	1284
 MDAs. Table	16927
 MDAs. The Department of E-Government	12917
+MDAs. The FY2026 National Budget	18577
 MDAs. The Four Federal Member States	15090
 MDAs. The Judiciary	958
 MDAs. The MFB	969
 MDAs. The NACIT	12917
+MDAs. The Project	18618
 MDAs. The Steering Committee’s Terms of Reference	15553
 MDAs. Visa	11555
 MDAs. Years	13502
 MDAs.109	14674
 MDAs1	16858
 MDA’s	16923,1
+MDA’s Football Gala	18576
+MDA’s Pre-Season Football Friendly Gala	18576
 MDB Methodology	15659
 MDB& F	16623
 MDBs and DFIs	11310
@@ -341,7 +369,7 @@ MDCHL	13060
 MDCS.AI	3561,15
 MDD W	17127
 MDD- W	17127
-MDD-W	17127,38
+MDD-W	17127,38,1405
 MDD-W AND EMPOWERMENT DOMAINS	17127
 MDD-W Prevalenc	17127
 MDDA RFI	13461
@@ -493,7 +521,10 @@ Megabyte MDAs	16872
 Meter Control Center MDMS Meter Data	12717
 Minister for Health Mduduzi Matsebula	13008
 Ministerial SERVICOM Units of MDAs	18205
+Ministry of Basic and Senior Secondary Education MDA	18485
 Ministry of Health and Social Action. While the MDCEST	18301
+MoF and MDAs	18577
+Monitoring and Evaluation MDAs Ministries	18454
 Monitoring and Evaluation MDG Millennium Development Goal	11525
 Monsieur Md. Najmul HUDA	16099
 Moyen Terme MDENP Moyen	15512
@@ -502,6 +533,7 @@ NIDA MD James Kaji	5697
 NIMC MDA	7847
 NITDA. Software Developers and MDAs	5665
 NRS Sensitises Federal MDAs On REV360	18260
+NSPS and MDAs	18470
 NSS GBoS MDAs	16927
 Nampula MDM	12201
 National Monitoring and Evaluation Policy. MDAs	13685
@@ -511,7 +543,7 @@ Nigeria. MDAs	10157
 Nigeria. These MDAs	11942
 Non-Tax Revenue Portal Across Different MDAs	8669
 Number of MDA	1284
-Number of MDAs	11866,1229,2621
+Number of MDAs	11866,1229,2621,2813
 Number of MDAs Malaw	12917
 Number of MDAs Nation	12917
 Number of MDAs' Annual Budgets	11866
@@ -530,8 +562,10 @@ Paratus Namibia MD	3539
 Parliament. The MdJL	17441
 Paydia. Bank Indonesia Exempts QRIS MDR	11994
 Payments Systems Mduduzi Mathunjwa Policy	11131,3
+Percentage of MDAs	18529
 Programmes MDE	13358
 Promoción Artesanal MDN Ministerio de Defensa Nacional	16898
+Proportion of MDAs	18529
 Protocol LLD Low Level Design MDAs	13185
 Provider M&EMonitoring and Evaluation MDAMinistries	18359
 Providers and MDAs	10310
@@ -570,16 +604,20 @@ Social Media Number of MDAs Nation	12917
 Sofala MDM	12201
 Solution MDM Principales	15583
 State Information Technology Agency MDS Master	396
+Stats SL and MDAs	18475
 Strengthening Mozambique's Social Protection System MDTF	12832
 Strengthening of MdJL	17441
 Sudan Transition and Recovery Support MDTF	14885
 Summary of MDAs	14857
+Support MDAs	18481
 System MDENI Ministry	13861
+Systems MDAs Ministries	18488,12
 Systme Informatisk de Gestion des Affaires du MdJL	17441
 T-Connect MD Advocate Phelane Phomane	4656
 Tax Administration System MDA Ministries	1284
 Tebukhosi Mdziniso	13245
 Telecom Egypt’s MD and CEO Tamer	17693
+Telecommunication Union M&E Monitoring and Evaluation MDAs	18504
 Tete MDM	12201
 Transmissible MDA Ministères	15746
 Trend of MDR Cases MDR-TB	16971

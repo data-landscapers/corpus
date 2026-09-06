@@ -86,7 +86,7 @@ CISONECC	13064
 CISOs	3214,3732,191,3552,7057
 CISOs and Data Protection Officers	10689
 CISP-Cabinda	11427
-CISPR	14883
+CISPR	14883,3561
 CISSA	4209
 CISSE	15595,2387
 CISSE Dramane Adm MPPEEP	2342
@@ -95,17 +95,19 @@ CISSE Mariam Kaïdama SIDIBE	17820
 CISSE Sabati	2342
 CISSE. Le MCD	15595
 CISSP	1939,1,876,1950,899,5783,1737,1812,665,2635,98
+CISSP. Parallel	18531
 Capitaine Cheick Sadibou CISSOKO	18032
 Carly Révick Cismich	16274,182
 Centre de Transit de Cishemere	13360
 Certification Center for Cisco	10948
 Chairman and CEO of Cisco Chuck Robbins and Cisco	14367
 Chef CISCO	14423
-Cisco	2157,1,151,560,244,119,209,21,146,18,71,14,95,53,575,38,1203,888,227,263,426,109,585,339,1164,508,37,26,686,297,1850,210,1077,242,79,792,239,327,499,1172,139,474
+Cisco	2157,1,151,560,244,119,209,21,146,18,71,14,95,53,575,38,1203,888,227,263,426,109,585,339,1164,508,37,26,686,297,1850,210,1077,242,79,792,239,327,499,1172,139,474,175,26
 Cisco Academy	12241,685,2082
 Cisco Asa Firewall	12917
 Cisco C9200L-48PXG-4X	12681
 Cisco CCNP Security	13185
+Cisco Catalyst	18531
 Cisco Certified Network Associate	13346
 Cisco Certified Network Associate Duration	17232
 Cisco Certified Support Technician	9621
@@ -173,6 +175,7 @@ Fanta CISSE Suivant	17819
 Fatim Cissé	16479
 Five CIS	15471
 GEDI La Dr Marame Cissé	9541
+Governance of Enterprise IT CISSP Certified Information	18531
 Hamala de Police Sitafounè CISSE KOUYATE Secrétaire	17819
 Hamidou CISSE	17829
 Hanley Group and Cisco Networking Academy	10247
@@ -280,6 +283,7 @@ Somalia CEC Community Education Committee CISP	14896
 Sous-Lieutenant MAISSA CISSE Dimitri François	16099
 Station Data CIS	17157
 Station of Mbour Diadji Cissé ANACIM Forecaster	18309
+Systems Security Professional CISM Certified Information	18531
 Sékou CISSE	17841
 Tchizo. O CISP-Cabinda	11427
 Uzbekistan CIS LMI	17743

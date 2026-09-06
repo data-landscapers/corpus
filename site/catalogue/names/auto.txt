@@ -33,6 +33,8 @@ ASYCUDA Automated System for Custom Data ATM	16876
 ASYCUDA Automated System for Customs Data ASYCUDA	16631
 ASYCUDA Automated System for Customs Data AWP	969
 ASYCUDA Automated System for Customs Data AWPB	16949
+ASYCUDA Automated System for Customs Data BCC	18577
+ASYCUDA Automated System for Customs Data CMC	18500
 ASYCUDA Automated System for Customs Data CatIS	13861
 ASYCUDA Automated System for Measurement	15478
 ASYCUDA Automated System for Performance Measurement	15478
@@ -121,6 +123,7 @@ Abidjan Auto Show	7440
 Achas Autorizo	11569
 Acronyms ABIS Automated Biometric Identification System	12241
 Acronyms ACH Automated Clearing House ACE	16876
+Acronyms ATM Automated Teller Machines CCDU	18537
 Acrónimos AND Autoridad Nacional Designada CAFI	16875
 Actividades Autorizadas	11438
 Actuación Administrativa Automati	16855
@@ -145,6 +148,7 @@ Assunto Autoriza	11457
 Atribuição da Autorização Geral	11520
 AuToriié	15429
 AuTorlté	15429
+Audit Service Sierra Leone ASYCUDA Automated	18488
 Auto Approval of MRI Obligation	14533
 Auto Assessment Waiting Room	8784
 Auto Boosting	16935
@@ -186,6 +190,7 @@ Auto-évaluation des Fonctions Publiques	7725
 AutoAudit	17235
 AutoAudit and Issue Tracker	17235
 AutoAudit and Issue Tracker. AutoAudit	17235
+AutoCAD	18476
 AutoGPT	11922
 AutoGPT Significant-Gravitas	11922
 AutoGPT-related	11922
@@ -209,14 +214,14 @@ Automatability Assessment	16266
 Automatability Index	16266
 Automatable	16266
 Automatable'. Technical	16266
-Automate	8817,1904,1219,2094,743,188,32,7,86,2274
+Automate	8817,1904,1219,2094,743,188,32,7,86,2274,1211
 Automate AEO Accreditation	16968
 Automate AEO Accreditation Relaunch the Authorized Economic	16968
 Automate EMIS	13310
 Automate GAC	17364
 Automate Spectrum	5245
 Automate the Postal Clearance	13108
-Automated	28,543,649,876,578,977,210,1508,1063,10,496,852,340,306,360,711,274,1,107,381,69,211,295,285,3,5,41,428,332,13,3,1,30,225,22,156,160,102,268,10,1,29,83,279,1114,130,162,34,204,69,130,38,399,112,511,615,68,242,390,253,78,14
+Automated	28,543,649,876,578,977,210,1508,1063,10,496,852,340,306,360,711,274,1,107,381,69,211,295,285,3,5,41,428,332,13,3,1,30,225,22,156,160,102,268,10,1,29,83,279,1114,130,162,34,204,69,130,38,399,112,511,615,68,242,390,253,78,14,694
 Automated Assessment and Feedback	14812
 Automated Biometric	11986
 Automated Biometric Identification	11986
@@ -243,11 +248,12 @@ Automated Corporate Support Services Target	11986
 Automated Customer Engagement	7334
 Automated Customs Management System. COLEPS Online	15480
 Automated Data Streams	12512
+Automated Databases	18440
 Automated Decision	7548
 Automated Decision Making	8436,3520
 Automated Decision Management System	17255
 Automated Decision Management System for Climate Services	17155,100
-Automated Decision-Making	7548
+Automated Decision-Making	7548,11008
 Automated Device	12185
 Automated Diagnosis Google	1363
 Automated Digital Devices	1988
@@ -313,7 +319,7 @@ Automated Vehicle Tracking	3862
 Automated Voter Registration	12054
 Automated Weather System	15097
 Automates	13678,3807
-Automatic	1243,2471,1018,944,756,2385,306,2086,731,15,256,22,1229,406,1041,243,561,1426,18,1152
+Automatic	1243,2471,1018,944,756,2385,306,2086,731,15,256,22,1229,406,1041,243,561,1426,18,1152,203
 Automatic Agro-Meteorological Stations	12728
 Automatic Call Distribution	16922
 Automatic Climate Stations	12728
@@ -341,8 +347,9 @@ Automatic Teller Machine	14880
 Automatic Teller Machine DCC	11955
 Automatic Teller Machines	11939
 Automatic Weather Observing Station	16947
-Automatic Weather Stations	11553,1175,2010,80,2129,1362
+Automatic Weather Stations	11553,1175,2010,80,2129,1362,364
 Automatic Weather Stations BNSP	18309
+Automatic Weather Stations South Sudan	18673
 Automatic Weather Stations. Key Objectives	12728
 Automatically	9123,3296,2841,1897
 Automaticmapping	8606
@@ -351,7 +358,7 @@ Automating Data Capture KINGDOM	16631
 Automating Data Capture The Eswatini Revenue	16631
 Automating Inequality	11156
 Automating for End-to-End Claims Processing Whitepaper	9237
-Automation	1814,2287,1033,399,132,758,914,704,395,24,513,916,829,44,217,252,755,526,530,289,64,187,603,740,60,493,185,126,56,60,697,29,380,430,98,746,24
+Automation	1814,2287,1033,399,132,758,914,704,395,24,513,916,829,44,217,252,755,526,530,289,64,187,603,740,60,493,185,126,56,60,697,29,380,430,98,746,24,268
 Automation Framework Implement	11952
 Automation Human-on-the-loop	10726
 Automation NV of Belgium	3561
@@ -369,6 +376,8 @@ Automation and Workforce	226
 Automation of AEO	13053
 Automation of CRS	12151
 Automation of County Own Source Revenue	9939
+Automation of Duty Waiver	18488
+Automation of Duty Waivers	18488
 Automation of Government of Liberia’s Payments	17235
 Automation of Labour Administration Function	12597
 Automation of Matching	13037
@@ -397,9 +406,10 @@ Automação de Escritório	11371
 Automação de Processos	11435
 Automne	7655
 Automobile Registration Information System	11939
-Automobiles	15014
+Automobiles	15014,3527
 Automotive	736,3588,8625,1023,4343
 Automotive Component Manufacturers Association	16331
+Automotive Control Unit	18444
 Automotive Gas Oil	12256
 Automotive V-belt	13385
 AutomotiveRamaphosa	7253
@@ -425,7 +435,7 @@ Autonomisation Economique des Femes	13547
 Autonomisation des Jeunes	16627,1320,52,26,62
 Autonomisation des Ménages Pauvres	16384
 Autonomizar	11569
-Autonomous	5700,2680,718,247,1467,1045,2212,741,137,1097,898,546
+Autonomous	5700,2680,718,247,1467,1045,2212,741,137,1097,898,546,1120
 Autonomous Amortization Fund	10964
 Autonomous Commissions and Agencies	17207
 Autonomous Credit Lending	5482
@@ -903,6 +913,7 @@ Ces Autorités	16615
 Chargeur Automatisé de Données	13783
 China's Xinjiang Uygur Autonomous Region and Guizhou	12864
 Classification Boundaries Automatic Class A Classification	5665
+Climate Automation	18722
 Combatting of Financing of Terrorism ANPE Autorité Malienne	17870
 Combined Auto Services Ltd Data Controller	7167
 Commission Electorale Nationale Autonome	10821,7489
@@ -1050,6 +1061,7 @@ Etat AFIS Automated Fingerprint Identification System	18290
 Etat ATS Automated Transfer System CBD	13836
 Ethics of Autonomous and Intelligent Systems	11135
 Ethiopian Automated Transfer System	12269
+Europe AIDS Auto Immunodeficiency Disease Syndrome	18504
 Europe AS Autonomous System AMSIX Amsterdam	15592
 Evidence Autorité de Régulation des Télécommunications	10911
 Execução Autorizada	10783
@@ -1154,6 +1166,7 @@ Information de Communication. Autorisation	13781
 Informational Autonomy	11956
 Instituições de Crédito de Autorização Restrita	15477
 Insurers Association ATM Automatic Teller Machine	14997
+Integrated National Civil Registration System. Automated	18440
 Integrated Tax Administration Automation System	15090
 Integration Platform ASYPM Automated System for Performance	13042
 Intelligent Hyper Automation	8974,392
@@ -1491,6 +1504,7 @@ Verbal Autopsy Task Force	12338
 Verbal Autopsy VS	12338
 WAEMU Automated Interbank Clearing System	10853
 WAEMU Automated Transfer and Settlement System	10853,7017
+Water Quality Testing Verbal Autopsy Women	18441
 Wh Kilowatt Hour ASN Autonomous System	3184,1,1340,6470
 X X X Résultat VI.1 Automatisation	13306
 Xinjiang Uyghur Autonomous Region	2518

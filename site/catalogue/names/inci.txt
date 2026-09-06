@@ -24,6 +24,7 @@ CC National Kenya Computer Incident Response	6671
 CIP Payment Incident Center	16942
 CIRT Computer Incidence Response Team CISM	13346
 COMMUNIQUE INCIDENT SUR CABLE SOUS MARIN	16399
+CSIRT Computer Security Incidence Response Team	18454
 CSIRT Computer Security Incident Response Team	6936
 CYBERSECURITY INCIDENT RESPONSE	10721
 Carbono Incidência- Taxas-Notas Taxa	17100
@@ -36,6 +37,7 @@ Centrale des Incidents de Paiement La Banque	13452
 Circulação de Veículos Incidência- Taxas-Notas Taxa	17100
 Computer Incidence Response Team	958
 Computer Incident Response Team	4693,10,61,2081,2588,1701,1261,58,1986,102,3,79,3122
+Computer Incident Response Team CLS	18485
 Computer Incident Response Team CMIL	14438
 Computer Incident Response Teams	11920,5825
 Computer Security Incident Handling Guide	13381
@@ -62,6 +64,7 @@ Cyber Incidents	6657,6689
 Cyber Security Incident Reporting Team	12364
 Cyber Security Incident Response Guide	12364
 Cyber Security Incident Response Team	11955,471,905
+Cyber Security Incidents CHAPTER VI OFFENCES	18675
 Cybersecurity Incident	4610
 Cybersecurity Incident Reporting	587
 Cybersecurity Incident Reporting Duty	587
@@ -135,6 +138,7 @@ INCITATIVES A- MESURES RELATIVES	15999
 INCITER LA PARTICIPATION DU SECTEUR PRIVE	15801,236
 INCITING	11190
 INCITS	13005
+INCORPORATION OF COMPANIES AND INCIDENTAL MATTERS	18556
 INTERPOL Incident Response Teams	17023
 IRPS Incidência Sobre	12018
 IV INCITER LA PARTICIPATION DU SECTEUR	16037
@@ -146,7 +150,7 @@ Inciativas	11569
 Incibadora InoDevGB	17036
 Incidam	11901
 Incide	12018
-Incidence	737,10680,1529,94,285,1919,480,1,120,56,427,1539,78
+Incidence	737,10680,1529,94,285,1919,480,1,120,56,427,1539,78,682
 Incidence Rate	10780
 Incidence Response	10721
 Incidence Response CIRMR-IRP.S3	10721
@@ -155,8 +159,9 @@ Incidence and Intensity	15244
 Incidence and Intensity for Household	15244
 Incidence and Intensity for Households	15244
 Incidence of Abortion	13040
+Incidence of Vaccine-Preventable Diseases	18627
 Incidences	1988,9998,960,567,2388
-Incident	1777,163,48,724,1175,723,522,1300,147,380,589,753,596,1824,115,1116,301,49,98,605,66,310,151,187,706,429,65,230,15,471,509,226,344,1119,63
+Incident	1777,163,48,724,1175,723,522,1300,147,380,589,753,596,1824,115,1116,301,49,98,605,66,310,151,187,706,429,65,230,15,471,509,226,344,1119,63,779
 Incident Coordination Determining	775
 Incident Database	9968
 Incident Handling	14759
@@ -241,6 +246,7 @@ Incidência Subjectiva	744
 Incidência Taxa Ad Ad	17100
 Incidência- Taxas-Notas Taxa Doméstico	17100
 Incinerated	15206
+Incinerator	18737
 Incinerators	1988
 Incinerators The Ministry	14746
 Incineração de Materiais Eleitorais	11561
@@ -252,6 +258,7 @@ Inciso	17022
 Incitation	10876,1068,3598,46,740,1528
 Incitations	15588,2268,42
 Incite	15564
+Incitement	18686
 Inciter	998,7,5822,2064,4399,2184,68,257,2,744,1349,89,333
 Inciter la Définition	13433
 Incivisme	10858,4684,298
@@ -262,6 +269,7 @@ Interim Lesotho National Computer Security Incident	8230
 Intermediaries FIRST Forum of Incident Response and Security	1264
 Intermediate Level Certified Incident Handler	15662
 Intermediate Level GIAC Certified Incident Handler	15662
+Internet Images Publication of False Information Incitement	18675
 JEFATURA TOTAL DIRECTIVO INCIDENTES Y INFRAESTRUCTURAS	4209
 KEY INCIDENTS AND CHALLENGES IDENTIFIED	10049
 Kenya Computer Incident Response Team Coordination	17745
@@ -301,10 +309,13 @@ Namibia Cybersecurity Incident Response Team	13028
 Namibia's National Cybersecurity Incident Response Team	9562
 Nasir Incident and Reinvigoration	3583
 National Computer Incident Response Team	2256
+National Computer Security Incidence Response Coordination	18457
 National Computer Security Incident Response	5166,11862
 National Computer Security Incident Response Team	6778,1795,324,6223,433
+National Cyber Incident Management Framework	18649
 National Cyber Incident Response Plan	318
 National Cyber Incident Response Team	13665
+National Cyber Incident Response Team NCPD	18485
 National Cyber Incidents Mauritius	14752
 National Cyber Security Incident Response	1535
 National Cyber Security Incident Response Team	1535,13585
@@ -329,6 +340,8 @@ Nigeria Police Crime and Incident Database Centre	11928
 Notificação de Incidentes	10755
 Notificação de Incidentes SECÇÃO I Requisitos	6970
 Number of Reported Cyber Incidents	16975
+Number of Schools Reporting Incidences of SGBV	18460
+Number of Schools Reporting Incidences of SGVB	18460
 Obrigação de Notificação de Incidentes	11377
 Occurrence Incidence Criticité	10874
 PART III CYBER INCIDENT RESPONSE TEAMS	2727
@@ -370,6 +383,7 @@ Sim EST-ADM11 Computer Security Incident Report	15532
 Sistema de Gestão de Incidentes	15504
 Somalia Computer Incident Response Team	4810,528,332,6843
 South Africa's National Computer Security Incident	8897
+South Sudan Computer Incident Response Team	18649,18
 Système de Remontée des Incidents Environnementaux	15936
 TRAITEMENTS DES INCIDENTS DE SECURITE	10906
 Task Incident Response Unit	1777

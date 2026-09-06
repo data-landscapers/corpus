@@ -259,6 +259,7 @@ def topic_grid(by_topic: dict[str, int]) -> str:
     where it reads as an extension — so `dpi.pay` links as `dpi-pay`."""
     order: list[str] = []
     groups: dict[str, list[str]] = {}
+    known = set(taxonomy_lib.keys())
 
     def place(slug: str) -> None:
         k = slug.split(".")[0]
@@ -279,16 +280,26 @@ def topic_grid(by_topic: dict[str, int]) -> str:
                     L1.get(k, k))
         roll = sum(by_topic.get(s, 0) for s in slugs)
         top = max((by_topic.get(s, 0) for s in slugs), default=1) or 1
-        boxes = [
-            f'      <a class="sbox" href="{SITE_BASE}/topics/{s.replace(".", "-")}/"'
-            f' title="{s}" style="--fill:{by_topic.get(s, 0) / top:.3f}">'
-            # The count precedes the label because it is floated right and a
-            # float only affects the content after it — see home.css. Four boxes
-            # to a row means the label needs every line but the first at full
-            # width, or three of the taxonomy's labels run to three lines.
-            f'<span class="sbox__n">{by_topic.get(s, 0):,}</span>'
-            f'<span class="sbox__l">{e(taxonomy_lib.label(s))}</span></a>'
-            for s in slugs]
+        # The count precedes the label because it is floated right and a float
+        # only affects the content after it — see home.css. Four boxes to a row
+        # means the label needs every line but the first at full width, or three
+        # of the taxonomy's labels run to three lines.
+        #
+        # **A box is a link only where there is a page behind it.** `topic-page.py`
+        # writes one directory per taxonomy subject, so a slug the catalogue holds
+        # and the taxonomy does not has no page and never will — linking it puts a
+        # 404 on a published page. The box still prints, with its real count, which
+        # is what the paragraph above asks for; only the anchor goes.
+        def box(s: str) -> str:
+            inner = (f'<span class="sbox__n">{by_topic.get(s, 0):,}</span>'
+                     f'<span class="sbox__l">{e(taxonomy_lib.label(s))}</span>')
+            attrs = f'title="{s}" style="--fill:{by_topic.get(s, 0) / top:.3f}"'
+            if s in known:
+                return (f'      <a class="sbox" href="{SITE_BASE}/topics/'
+                        f'{s.replace(".", "-")}/" {attrs}>{inner}</a>')
+            return f'      <span class="sbox sbox--nopage" {attrs}>{inner}</span>'
+
+        boxes = [box(s) for s in slugs]
         out.append(f'    <h3 class="topic-group" id="{k}">{e(name)}'
                    f' <span class="topic-group__k">{k}.*</span>'
                    f'<span class="topic-group__n">{roll:,}</span></h3>\n'

@@ -43,7 +43,7 @@ Administration Centrale des Postes	15455
 Administração Postal	13
 Advertising and Filling of SMS Posts	11218
 Africa. Positioned	2750
-African Common Position	16874
+African Common Position	16874,1605
 African Common Positions	6488
 African Post	961
 African Union Common Position	16874
@@ -185,6 +185,7 @@ CEO of Post Connect	4093
 CEO of Post Connect. La Poste de Côte	4111
 CERC Posterior	17219
 CFT Unit Posts	14760
+CHAPTER VI POSTAL SERVICES	18602
 CHARGE DES POSTES ET DES TELECOMMUNICATIONS	4402,9506
 CHARGES POSTE MONTANTS NETS Exercice N-1	17841
 CI ROXGOLD SANGO POSTE CI SHILOH	2342
@@ -245,6 +246,7 @@ Chisenga Police Post	12174
 Church of God Postmaster- General Chief Officer	11129
 Chèques Postaux	15352
 Civil Society Advocacy Position	15238
+Claims for Compensation. CHAPTER VI POSTAL SERVICES	18602
 Client Information Name of Applicant Postal Address	736
 Cloud Posture Management	1938
 CoSoft POS	14376
@@ -256,8 +258,9 @@ Comments Ministry of Posts and Telecommunications	17114
 Common African Position	5825
 Communication Technology and Postal	5107
 Communication Technology and Postal Service	4223
-Communication Technology and Postal Services	2685,2,896,145,369,146,354,1585,10,736,519,2323,4559,581
+Communication Technology and Postal Services	2685,2,896,145,369,146,354,1585,10,736,519,2323,4559,581,3708,5,7,2,4,20,24,23,9,6,2,1
 Communication Technology and Postal Services Ateny Wek	4082
+Communication Technology and Postal Services Funding Agency	18711
 Communication Technology and Postal Services. The Commission	6776
 Communication and Postal Services	10657,1027
 Communication and Postal Services Minister Ateny Wek	10657
@@ -267,6 +270,8 @@ Communications Sector Cybersecurity Posture Report	9695,288
 Communications and Postal Regulatory Authority	5006
 Communications and Postal Regulatory Authority. Guided	5441
 Communications and Postal Services	17608
+Community Health Post	18532
+Community Health Post CMMS Computerized Maintenance	18478
 Community Health Posts	15647
 Company Posts	6387
 Compatibility Positive	9129
@@ -351,6 +356,7 @@ Data Protection Authority The Postal and Telecommunications	972,12347
 Date Posted	5213
 Date Posted Zambia	5501
 Decilitro Sistema de Posicionamento Global Hepatite B	10777
+Decision-Making Positions	18500
 Deduções Posso	12018
 Dedza One-Go Border Post Figure	13053
 Default Position	3861
@@ -499,6 +505,7 @@ Eswatini Posts and Telecoms Corporation	1966
 Etat-La Poste Burkina Faso	4399
 Ethiopian Postal Service Enterprise	10709
 Ethiopia’s National Payments Switch Posts ETB	2362,225,502
+Evidence of Return of Postal Articles	18602
 Example of Post Office Box	11129
 Excluded National Post	418
 Expand Postal	6946
@@ -517,6 +524,7 @@ FINANCIAL POSITION AND PERFORMANCE	15023
 FINANCIAL POSITION Table	10793
 Facebook Post	18394
 FairMoney's PoS	7689
+False Positive Rate	18724
 Fawry's POS	7540
 Federal Minister of Post	14879
 Felix Chiteule Post	13413
@@ -564,7 +572,7 @@ Global Competitiveness and Strategic Positioning	12675
 Global Fintech Networks Position Mauritius	14819
 Global Partners Digital’s Africa OEWG Positions	2117
 Global Positioning	11940
-Global Positioning System	1248,11887,1393,210,15,2168
+Global Positioning System	1248,11887,1393,210,15,2168,1696
 Global Positioning System HQ Headquarters IOM	16921
 Global Positioning Systems	14407
 Global Rapid Post-Disaster Damage Estimation	1228
@@ -607,7 +615,7 @@ Hormuud Telecom Somalia Inc.'s Post Hormuud	15186
 I Post Office Text	11180
 I. TO ELECTRONIC COMMUNICATIONS AND POSTAL	5679
 IC Post	15411
-ICT and Postal Services	3583,499
+ICT and Postal Services	3583,499,14574
 ID. Endless Possibilities	14791
 IDA FM Posts and Telecommunications	15372
 IGAD Member States. Possesses	14928
@@ -659,6 +667,7 @@ Institut Supérieur Africain des Postes	10948
 Insurance Postal Agency Counter Extension Post	11129
 Integral II Négatif Positif NÉGATIF ELISA	13300
 Integrate POS and Digital Payments	7540
+Interception of Postal Article	18602
 Intercropping Promotion Post-drought Conduct	17157
 Interior and Post	1842
 International Investment Position	13479,1298,2458
@@ -740,6 +749,7 @@ Lesotho Postbank and Nedbank Lesotho	12676
 Letter Post	11129
 Letter Post Manual	11129
 Letter Posting Boxes	6946
+Liability for Postal Article	18602
 Liberia Ministry of Posts and Telecommunications	17099,15
 Liberia Posts and Addressing Services	16975
 Liberians. Minister of Post and Telecommunications	1777
@@ -805,6 +815,7 @@ March. The Ministry of Post and Telecommunications	5953
 Market Entry and Expansion Position	18039
 Market Positioning	14819
 MasterCard POS	11955
+Maternal and Child Health Post MCTI Ministry	18478
 Mauricienne PIN Personal Identification Number POS	15415
 Mauritania Tunisie Mali Sénégal Rang Position	17860
 Mauritius Post	6399,8342,9
@@ -859,7 +870,7 @@ Ministry of Digital Economy and Posts	15550
 Ministry of Health Standards for Post Abortion Care	13040
 Ministry of ICT Postal and AI Policy and Innovation	12512
 Ministry of ICT Postal and Courier Services	4528
-Ministry of ICT and Postal Services	3583,76,2523
+Ministry of ICT and Postal Services	3583,76,2523,12453,84,25
 Ministry of ICT and Postal Services of South Sudan	7508
 Ministry of Information Communication Technology Postal	4528,7984
 Ministry of Information and Postal Services	10657
@@ -963,11 +974,13 @@ National Board of Posts	13388
 National Commission for Post and Telegrams	14853
 National Health Positioning Strategies	10865
 National Institute of Posts and Telecommunications	17472
+National Ministry of ICT and Postal Services	18731
 National Post Authority	15887
 National Post Authority and CAPMAS	15887
 National Post Office	10372,1961,3923
 National Postal Addressing System	16975
 National Postal Administration	13314
+National Postal System	18454
 National Postcode	11129
 National Postcode Directory	1595
 National Posts Administration	13312,2
@@ -1054,8 +1067,11 @@ One-Stop Border Posts	10324,961,1666,464,59,211,645
 One-Stop Border Posts. The C-BRTA	10324
 One-stop Border Post PFMA Public Finance	5533
 Open As Possible	5246
+Opening of Postal Article	18602
+Opening of Postal Articles	18602
 Operador Postal Designado Decreto	12794
 Orange Digital Center Presenters Position	17260
+Order. The Positives	18613
 Organisation Contact Person Position	17212
 Os Postos de Atendimento	12784
 Oshikango Border Post	13044
@@ -1192,6 +1208,7 @@ POSTAL DENSITY	6000
 POSTAL POLICY FOR ICT TABLE	958
 POSTAL SECTOR	11211,51,1133
 POSTAL SECTOR BLACK ECONOMIC EMPOWERMENT MEASURES	11211,51
+POSTAL SECTOR POLICY	18603
 POSTAL SECTOR REGULATORY FRAMEWORK Aug	10509
 POSTAL SECTOR REVENUE	11211,51
 POSTAL SERVICE SECTOR BLACK ECONOMIC EMPOWERMENT	11211,51
@@ -1282,6 +1299,7 @@ Police Post	11857
 Police Posts NCG Posts LAND	14760
 Police Stations and Police Posts	14760
 Policy Position This Policy	10157
+Policy Statement Postal Sector Policy Telecommunications	18603
 Popular Posts	9253
 Portal Postgraduates Programmes Applications Student Portal	12407
 PosSto-uCthOSuVdaInD	11572
@@ -1372,6 +1390,7 @@ Positioning Microsoft Elevate	5551
 Positioning MoFA	14819
 Positioning Relative	11138
 Positioning Rwanda	1204
+Positioning Sierra Leone As A Premier	18572
 Positioning the Company Above	16412
 Positioning the South African Reserve's Bank Payments	4824
 Positionnement	12043,1332,2947,1538,21
@@ -1384,7 +1403,7 @@ Positions Rwanda	14997
 Positions The Gambia	4829
 Positions WSIS	2110
 Positions for AfCFTA-interoperable	4791
-Positive	940,888,2620,77,914,1765,1925,3149,19,396,284,28,1883,12,580,365,483,632,11,25,118,43,52,117
+Positive	940,888,2620,77,914,1765,1925,3149,19,396,284,28,1883,12,580,365,483,632,11,25,118,43,52,117,1217
 Positive Discipline	12914
 Positive H10	9129
 Positive H11	9129
@@ -1405,6 +1424,7 @@ Positive Socio-Economic Impacts	12253
 Positive Technologies	3855
 Positive Workplace Institutions	13477
 Positively	11873,460,4895
+Positives	18627
 Positivism	2948
 Positivo	10750,1
 Positon	16641
@@ -1429,7 +1449,9 @@ Possessing	3391,8937,1180,3427
 Possession	11,408,8700,3181,159,841,266,1345,463,55,44,39,1132,195,96,906,215,148,108
 Possession Of Firearm	16935
 Possession Résidence Ensemble Urbain Rural Biens	13300
+Possession and Operation of Communication Networks	18602
 Possession de MII	13300
+Possession of Devices and Computer Data Unauthorised Access	18675
 Possession of PMP	15090
 Possessions	18014
 Possi	15524
@@ -1444,7 +1466,7 @@ Possibility	766,10009,3954,789
 Possibility of Derecognition. Subject	3503
 Possibilité	6045,8380,1511,1549,794,12,15
 Possibilités	10708,6740
-Possible	789,181,249,913,298,5360,1333,1652,54,168,137,94,119,510,99,258,94,410,257,2022,414,1432,271,25,1,978
+Possible	789,181,249,913,298,5360,1333,1652,54,168,137,94,119,510,99,258,94,410,257,2022,414,1432,271,25,1,978,340
 Possible Agreement VIII	1243
 Possible Candidate William Ruto Edwin Sifuna	7869
 Possible Interventions Inputs Activities	15411
@@ -1452,6 +1474,7 @@ Possible Model	16852
 Possible Options for Adaptation	10829
 Possible Options for Adaptation Payment	10829
 Possible Options for Adaptation of PBF	10829
+Possible Reflection Points	18483
 Possible Topics Chapter	13582
 Possibly	555,849,5,175,553,16,56,29,12,2274
 Posso	11488,3957
@@ -1495,6 +1518,7 @@ Post Graduate Certificate	13078,1658
 Post Graduate Certificate PG Diploma	14775
 Post Graduate Diploma	11131
 Post Graduate Diploma PhD	14775
+Post Harvesting	18525,42
 Post Hessequa Spatial Development Framework	11251
 Post IDP	11251
 Post Implementation Support	15080
@@ -1507,6 +1531,7 @@ Post Monthly Newsletter	11251
 Post Move	2103
 Post N	17180
 Post Natal Care	12440,537
+Post Natal Coverage	18627
 Post National Individuals	11855
 Post Novembe ARPCE	15372
 Post Number Male Female	14760
@@ -1540,6 +1565,7 @@ Post Open Request	11855
 Post Open-Int Limited-Int Open-Nat Limited-Nat Direct	15518
 Post PDO Project Development Objective PEFA	13861
 Post PESS and Thematic Analysis for Statistics	32
+Post Planting	18525,42
 Post Press Releases and Statements	11251
 Post Project Monitoring and Evaluation	16963
 Post Recent Posts Climate	9682
@@ -1617,6 +1643,7 @@ Post-Crisis Identification Context	15415
 Post-Delisting Positioning and Shareholder Expectations	4896
 Post-Disaster Needs Assessment	1228
 Post-Disaster Reconstruction Office	1228
+Post-Ebola Recovery Plan	18443
 Post-Emergency Continuity Review. Following	3503
 Post-Employment Benefits	14736
 Post-Enumeration Survey	12383
@@ -1644,6 +1671,7 @@ Post-Multilateral Order	5141
 Post-Pandemic Assessment	1828
 Post-Pandemic Reconstruction	14932
 Post-Project Evaluation and Monitoring	16963
+Post-Registration Review and System Maintenance	18531
 Post-Reset Floor	4972
 Post-School Education	16886
 Post-School Education and Training	6832,2296
@@ -1680,6 +1708,7 @@ Post-entry and Control	17367
 Post-event	15845,1312
 Post-excise	12385
 Post-exposure	15206
+Post-field	18464
 Post-flooded	15129
 Post-flooding. The Waterbody	15129
 Post-graduate	2709
@@ -1695,10 +1724,11 @@ Post-malaria	16971
 Post-market	3651,4650
 Post-marketing	14622
 Post-mortems	13532
+Post-neonatal	18441
 Post-paid	582,2194,1956,10739
 Post-paid Subscription	2776
 Post-pandemic	15164
-Post-partum	15206,1690,26
+Post-partum	15206,1690,26,1556
 Post-pilote	14574
 Post-policy	10188
 Post-primaire	737
@@ -1737,9 +1767,10 @@ Postado	17003,5,33,88,37,54,95
 Postage	13053
 Postage Stamp	15340
 Postage Stamps	15340,2880
+Postage Stamps and Letter Boxes	18602
 Postagens Relacionadas	10114
 Postais	11415,13
-Postal	718,18,222,265,1033,181,949,328,273,541,640,785,47,890,56,1970,865,1348,2,3,46,17,1,13,50,1,1133,5,112,40,6,369,115,27,12,230,3,67,1140,322,36,257,204,256,1276,103
+Postal	718,18,222,265,1033,181,949,328,273,541,640,785,47,890,56,1970,865,1348,2,3,46,17,1,13,50,1,1133,5,112,40,6,369,115,27,12,230,3,67,1140,322,36,257,204,256,1276,103,1479,31,118
 Postal Act	11211,51
 Postal Address	1735,142,431,2588,7250,254,10,510,117,574,1269,2188
 Postal Address Code	12140
@@ -1751,6 +1782,8 @@ Postal Agency	11129
 Postal And Courier Services	958
 Postal And Courier Universal Connectivity Services	12395
 Postal Area	13081
+Postal Article	18602
+Postal Articles	18602
 Postal Code	11276,1909,1695,1724
 Postal Codes	13081
 Postal Codes Postal Codes Update	13081
@@ -1768,6 +1801,8 @@ Postal Facility	11129
 Postal Facility Addresses	11129
 Postal Facility Delivery	11129
 Postal Facility Delivery Point	11129
+Postal Financial Services	18602
+Postal Financial Services. CHAPTER VII INTERCONNECTION	18602
 Postal Indicating	11211
 Postal Indicators	12395
 Postal Infrastructure Total Number of Postal Service	12395
@@ -1792,11 +1827,13 @@ Postal Sector Policy	958,11437,576,324
 Postal Sector Reform and Regulation	10509
 Postal Sector Revenue	12395
 Postal Sector Revenue Postal	12395
+Postal Service	18691
 Postal Service General Operator	13295
 Postal Service General Operators	958
 Postal Service Point Counter	12395
 Postal Service Revenue	12395
-Postal Services	1223,1552,357,285,7794,1184,143,20,101,422,217,1581,461,32,1500
+Postal Service SDGs Sustainable Development Goals	18454
+Postal Services	1223,1552,357,285,7794,1184,143,20,101,422,217,1581,461,32,1500,1729,1,33,88
 Postal Services ARTICLE	14409
 Postal Services Act	7878,3321,1,11,51,2036,49,56,1440
 Postal Services Act No	7779,99,4498,77,892
@@ -1804,7 +1841,7 @@ Postal Services Corporation	7878
 Postal Services Policy	13346
 Postal Services Program	15578
 Postal Services Revenue	12395
-Postal Services Sector	11262
+Postal Services Sector	11262,7484
 Postal Services Sector. Section	11262
 Postal Services The Partner States	14409
 Postal Services Total Number of Post Office	12395
@@ -1991,7 +2028,7 @@ Postel	3644,2956,1077,4,1,389,3629,4837
 Postel Building	3661
 Postemarket	15596
 Postemployment	1154
-Poster	13300
+Poster	13300,5241
 Poster Presentation	13021
 Posterior	17219
 Posteriormente	11633,486,4786,242,202
@@ -2034,12 +2071,13 @@ Postgraduate Medical Training Program PHC Primary	16922
 Postgraduate Medical and Nursing Training Program	16922
 Postgraduate Program	16896
 Postgraduate Qualification	12686
-PostgreSQL	2966,3466,3125,503,1704,378,889,6,538,1,1504,1241,1581,235
+PostgreSQL	2966,3466,3125,503,1704,378,889,6,538,1,1504,1241,1581,235,394
 PostgreSQL and Amazon Web Services	7977
 PostgreSQL. Migrate	6432
 Postgres	11764,177,3139
 Postgresql	15555
 Posthumanism	9129
+Posthumous Children	18598
 Postikodi	2868,3151
 Posting	13508,1656
 Posting Date	13548
@@ -2222,6 +2260,7 @@ Projet ReFORME. Le POSAF	10712
 Projetos PELOURO CA Posições	15476
 Proposed Position	13037
 Proposed Revised Budget Post Restructuring	2989
+Provide Postal Services	18602
 Préscolaire Primaire Postprimaire Secondaire Ensemble	737
 Public Counter Positions	6946
 Public Key Infrastructure POS- Point of Sales	11955
@@ -2293,7 +2332,7 @@ Regulatory Authority for Posts and Electronic Communications	4681
 Regulatory Authority of Post and Electronic Communications	2968,1200,806,402
 Regulatory Postal and Electronic Communications Agency	4577
 Related Blog Posts	4442
-Related Posts	2390,1902,563,470,255,313,73,322,83,128,44,465,56,47,32,538,1572,1279,49,2632,39,4143
+Related Posts	2390,1902,563,470,255,313,73,322,83,128,44,465,56,47,32,538,1572,1279,49,2632,39,4143,1091
 Related Posts CDPI	9804
 Related Posts Digital Mali	9993
 Related Posts Egypt	9747
@@ -2308,6 +2347,7 @@ Republic of Congo Ministry of Posts	15553
 Republic of Congo's Postal and Electronic Communications	3801
 Republic of Congo. The Postal and Electronic Communications	3696
 Republic of Liberia Ministry of Posts	1777
+Republic of South Sudan Postal Address	18688
 Research Council of Zimbabwe Postal Telecommunication	1154
 Residential and Postal	12374
 Residents Permit Fees Posted	12164
@@ -2400,6 +2440,8 @@ Shopping No Post	15411
 Shopping No Post Submitted	15411
 Short-term Positions	17735
 Shun Divisive Politics Next Post Government	17069
+Sierra Leone Postal Service	18454
+Sierra Leone Postal Services	18523
 Signature Type of Radio System Position Held	736
 Similar Posts	11297
 Sistema Nacional de Códigos Postales Digitales	17389
@@ -2459,7 +2501,7 @@ Sub Posts	14760
 Subsector Postal	4209
 Substantial. Positive	1988
 Sud-Ouest Postes Transfo P	10975
-Sudans Post	2023,2645,10,2098
+Sudans Post	2023,2645,10,2098,11905
 Suid Afrikaanse Poskantoor Mis BPK	11199
 Suid-Afrikaanse Poskantoor	11199
 Suid-Afrikaanse Poskantoor MIS Bpk	11199
@@ -2505,7 +2547,7 @@ Taux Préscolaire Primaire Post Secondaire Nombre	737
 Tax Posts	10762
 Technical Model For Post Codes	13298
 TechnoMag By Gamuchirai Mapako The Postal	13656
-Technology and Postal Services	5083,9246
+Technology and Postal Services	5083,9246,4392
 Telecom and Post Regulatory Authority	14897
 Telecom and Postal Legal Framework	6002
 Telecommunication and Post	15340
@@ -2562,6 +2604,7 @@ UPU. Le POST-ISAC	8392
 US Postal	767
 US Postal Service	767
 US Postal Services. Jeff Bezos	767
+USAID Post	18478
 Undergraduate and Postgraduate	2667
 Understanding Zimbabwe's Postal	13582
 Une Question Posée	18312
@@ -2637,6 +2680,7 @@ World Postal Union Regulations	15340
 World Telecommunications Union and International Post Union	15340
 World of Infinite Possibilities	10765,10
 XVII. RESULTS AND POST-ELECTION ENVIRONMENT	12201
+YEARS OF POST-BASIC EDUCATION	18461
 Year GII Position	11884,467,136
 Year GII Position Innovation Inputs Innovation	10969,916,320
 Year Post-Implementation Support	15080

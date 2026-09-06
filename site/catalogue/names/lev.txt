@@ -45,6 +45,7 @@ Aggregation Level	3972
 Alert Level	17157
 Alerts Yellow Alert Level	17157
 Aliens Identify Card Levies	16968
+All Levels	18477
 Analyzing Mortality Levels and Causes of Death	12413
 Anniversary. Target Leverage Ratio	11131
 Anniversary. The Leverage Ratio	11131
@@ -96,6 +97,7 @@ C. Higher Level Objectives	11525,330,3517,39,2030
 C. Leveraging Development Partner Support Align	4848
 C. PDO Level Results Indicators	15411
 CAMEROON Policy Levers	10997
+CATEGORIES LEVY IMPOSED	18541
 CCR Levy	14843
 CEO Guy Bar-Lev and Chairman Boaz Levy	12078
 CEOs Mark and Brett Levy	11159
@@ -128,8 +130,9 @@ Code. Other Levies	17011
 Communication and Innovation Level	14996
 Community Level	958,11803,4106
 Community Level Community Grievance Committee	17099,15
+Community Level Resolution	18504
 Community Levy	6422,1030
-Community Levy Protocol	7452
+Community Levy Protocol	7452,11003
 CompTIA Advanced Level CompTIA Advanced Security	15662
 CompTIA Intermediate Level CompTIA Pen Test	15662
 CompTIA Intermediate Level GIAC Security Operations	15662
@@ -210,6 +213,7 @@ ESSP Level Key	14922
 ETAT D'AVANCEMENT DES LEVIERS STRATÉGIQUES	613
 Education Level	7869,8397,861
 Education Level Bachelor Intermediate	16266
+Education Level Indicator	18512
 Education Level None	17127
 Education Level Number Percentage None	12413,2643
 Education Levels	12411
@@ -291,7 +295,8 @@ GIAC Certifications Intermediate Level GIAC Certified	15662
 GLOBAL LEVEL	10852
 GO.KE Second Level	6671
 GRUES ET ENGINS DE LEVAGE	16103
-Gender and Level	14775
+Gender and Level	14775,3685
+Gender and Level Table	18460
 General Consumer Satisfaction Level Figure	15023
 Generic Service Delivery Charters for Level	13473
 Genre Levier	15673
@@ -330,9 +335,13 @@ High Level Digital Government Task Force	14750
 High Level Expert Group	11050
 High Level Implementation Roadmap	11857
 High Level Implementation Roadmap S	11857
+High Level Institutional Framework	18603
 High Level Objective	1867
 High Level Panel	15127
 High Level Political Forum	16973
+High Level Project Summary	18623
+High Level Targets	18532,5
+High Level Targets and Action Plan	18537
 High Level Visits	2667,13589
 High. Leveling	10779
 Higher Education Level	14775
@@ -347,6 +356,7 @@ Hydrological Drought Groundwater Levels	17157
 ICT Governance and Service Level Management	12917
 IFC Collaboration Joint Level Yes Complementary	15621,523
 IFIs Leverage	15901
+II. LEVERAGE BENEFITS OF INCREASED REGIONAL	18537
 IN- National Satellite Leverage	11857
 INCREASED RELIABILITY LEVEL OF E-GOVERNMENT SERVICES	16885
 INITIATIVE Leveraging	17870
@@ -409,6 +419,7 @@ Kwacha-based Service Level Agreement	13441
 LA SNGD SE VEUT UN LEVIER	15624
 LA TECHNOLOGIE COMME LEVIER TRANSVERSE	5478
 LCD Liquid Crystal Display LMGH Levy	34
+LEAPFROGGING SOCIO-ECONOMIC DEVELOPMENT BY LEVERAGING ICT	18454
 LEC Regulatory Levy	16978
 LEVAGE BUSINESS	18319
 LEVEL	899,2705,7248,1143,2783,118
@@ -456,7 +467,7 @@ Levantine Arabic and African French	6705
 Levar	11362
 Levari S	1219
 Levee	14479
-Level	427,62,300,96,55,18,3,9,135,49,36,94,704,437,101,249,114,494,3,7,7,461,292,14,35,15,43,41,48,895,105,3,269,241,319,206,45,400,96,18,1041,450,1310,54,3,23,261,69,153,465,10,80,75,24,167,3,419,25,277,8,3,39,19,71,204,157,23,30,553,13,78,70,43,19,113,12,4,67,92,35,146,214,70,318,200,109,111,78,12,9,3,1,23,9,24,12,49,26,13,12,5,82,390,150,27,57,5,68,348,187,170,283,57,101,15,34,17,7,2,8,3,136,15,13,13,17,39,91,77,77,93,315,13,100,332,65,11
+Level	427,62,300,96,55,18,3,9,135,49,36,94,704,437,101,249,114,494,3,7,7,461,292,14,35,15,43,41,48,895,105,3,269,241,319,206,45,400,96,18,1041,450,1310,54,3,23,261,69,153,465,10,80,75,24,167,3,419,25,277,8,3,39,19,71,204,157,23,30,553,13,78,70,43,19,113,12,4,67,92,35,146,214,70,318,200,109,111,78,12,9,3,1,23,9,24,12,49,26,13,12,5,82,390,150,27,57,5,68,348,187,170,283,57,101,15,34,17,7,2,8,3,136,15,13,13,17,39,91,77,77,93,315,13,100,332,65,11,90,18,98,2,124
 Level AA	9603,1403,1,945,275
 Level Agreement SMS Short Message Service	34
 Level Agreement SMT Senior Management Team	16852
@@ -465,11 +476,14 @@ Level Agreement SoS System of Systems SWOT	14965
 Level Agreements SMT Senior Management Team	12240
 Level Completed Figure	12431
 Level Conference	17275
+Level DISTRICT	18460
 Level Description Examples Public	11952
 Level Expert Group	12675
+Level Figure	18460
 Level H.E. Romuald Wadagni	7452
 Level I II	12431
 Level III	1219
+Level IPCC Intergovernmental Panel	18578
 Level IV	1219
 Level Infrastructure Offer	17157
 Level Institutions	6946
@@ -491,11 +505,13 @@ Level Recovery GPU Graphics Processing Unit	13185
 Level Responsible Entity	17099
 Level SP NDV SR	17157
 Level Seven HIS Health Normative Standards	1009
+Level Table	18460
 Level The Founding Level	17364
 Level The Managed Level	17364
 Level The Optimized Level	17364
 Level Two Restructuring	16032
 Level and Field of Study	14775
+Level and Gender Table	18460
 Level and Mode of Study	14775
 Level of Assurance	10765,10,44
 Level of Assurance Approve Periodic Audit	10819
@@ -522,7 +538,7 @@ Level of Study	14775
 Level of Study and Gender	14775
 Level of Training Reach	14897
 Level-1 PAD	767
-Level-2	764,9,4,422,575,2273,10919,836,2060
+Level-2	764,9,4,422,575,2273,10919,836,2060,610
 Leveling	10779,3089
 Levelised	11953
 Levelized	11953,280
@@ -536,6 +552,8 @@ Levels of AMR	15725
 Levels of Assurance	10765,10,44
 Levels of Awareness and Literacy Programmes	14566
 Levels of Communication	958
+Levels of Digital Skills Advancement	18454
+Levels of Government	18597
 Levels of MPI	15244
 Levels of Satisfaction	13532
 Levels.fyi	10319
@@ -544,7 +562,7 @@ Levenshteintreatsalleditsequallyandislessefficientforlong	8606
 Lever	6948,707,1236,1084,3410,283,1359,515
 Lever for Digital Sovereignty	16366
 Lever for Sustainable Integration In Cameroon	16198
-Leverage	899,59,856,2312,402,716,433,755,454,61,3865,29,24,218,57,717,9,75,19,250,4,142,20,68,68,162,1,620,207,176,164,724,184,68,61,13,43,62,728,35,200,912,4,90,2,292,104,506
+Leverage	899,59,856,2312,402,716,433,755,454,61,3865,29,24,218,57,717,9,75,19,250,4,142,20,68,68,162,1,620,207,176,164,724,184,68,61,13,43,62,728,35,200,912,4,90,2,292,104,506,667
 Leverage AI	4126,8230,724,1486
 Leverage AI for Development	1814,3784
 Leverage AI for Development AU Member States	1814
@@ -574,6 +592,7 @@ Leverage Kenya	7548
 Leverage Monitoring	14985
 Leverage National Priorities	13083
 Leverage Online Platforms	12675
+Leverage PPP	18532
 Leverage Private Sector Financing. This CPF	11468
 Leverage Public	4126
 Leverage RGF	14997
@@ -599,7 +618,7 @@ Leverage the National Data Governance	14566
 Leverage the Universal Access Fund	5244
 Leverages	12359,955,367
 Leverages AI and Emerging Technologies	17116
-Leveraging	465,324,110,255,94,397,448,3,664,727,108,9,567,89,268,148,314,91,310,142,1012,330,73,256,386,169,262,1,289,293,367,719,1139,12,7,115,1,33,137,8,10,2,64,32,237,15,245,239,220,4,45,121,68,23,45,27,136,11,276,78,447,194,187,123,86,667,74,1,128,50,67,84,9,215,75,174,8,34,50,211,7,46,34,861,39,12,24,19,30,103,2,15,119,268,270,111,241
+Leveraging	465,324,110,255,94,397,448,3,664,727,108,9,567,89,268,148,314,91,310,142,1012,330,73,256,386,169,262,1,289,293,367,719,1139,12,7,115,1,33,137,8,10,2,64,32,237,15,245,239,220,4,45,121,68,23,45,27,136,11,276,78,447,194,187,123,86,667,74,1,128,50,67,84,9,215,75,174,8,34,50,211,7,46,34,861,39,12,24,19,30,103,2,15,119,268,270,111,241,329,17,16,70
 Leveraging AI	2445,1989,5102,592,1012,1070,146,319,1891,206,171,2761
 Leveraging AI and Digitisation	14829
 Leveraging AI and Digitisation Second	14829
@@ -640,6 +659,7 @@ Leveraging Trade and Foreign Direct Investment	10841
 Leveraging USSD	14997
 Leveraging VITALREG for Sustainable CRVS Country Case	12064
 Leveraging for Maximized Project Outcomes	13998
+Leveraging of Digital Technologies	18456
 Leveraging the African Continental Free Trade Area	11140
 Leveraging the FOCAC	6003
 Leveraging the Full Potential of Single African Air	5825
@@ -680,6 +700,8 @@ Liberia’s Second Forest Reference Level Submission	17140
 Line AFRALTI African Advanced Level Telecommunications	12395
 List of Acronyms BE Level	12175
 Local Centres Leveraging	11857
+Local Council and Level	18460
+Local Council and Level Table	18460
 Local Government Level	11129
 Local Level	11390,1941
 Local Level ART Anti-Retro Viral Therapy	12970
@@ -707,7 +729,7 @@ Mark Levy	11335
 Mark and Brett Levy	11159
 Market Level Assessment	15474
 Market Level Assessment. International Trade Center	15474
-Maturity Level	11252,301,1613,199,1689,3305
+Maturity Level	11252,301,1613,199,1689,3305,219
 Maturity Level MOH	10776
 Maturity Level of ML2	7008
 Mauritius AI Fellowship Programme Leverage Multilateral	14566
@@ -727,6 +749,7 @@ Mode and Year and Level of Study	14775
 Money Transfer Levy	13122
 Motor Vehicle Insurance Accident Levy	13122
 Mozambique PM Maria Benvinda Levy	12838
+Mr. George Levoola	18705
 Mr. Levison Nkhoma	34
 Mr. Levodo Ngah Yannick and Mr. Menounga	9469
 Multilateral Leve	1814
@@ -739,6 +762,7 @@ National Health Insurance Levy	7695,44,8299,1070
 National Level	11129,1209,51,2471,174,1826,7,54,178,15
 National Level Leadership	16963
 National Level National Grievance Redress Committee	17099
+National Level SDI	18476
 National Level The Federal Government	11129
 National Level The Ministry of Health	16860
 National Levels	16137
@@ -773,6 +797,7 @@ PDO Level Results International Communications	15372
 PDO Outcomes Higher Level Outcomes Provision	15663
 PERSONS MANDATED TO CHARGE THE LEVY	15600
 PETROLEUM REGULATORY LEVY	17250
+PILLAR II LEVERAGE BENEFITS OF INCREASED	18537
 PPorenls Levendeurn	15429
 PRIORITY LEVEL	16844
 PROJECT LEVEL OF COMPLETION TARGET	13053
@@ -789,9 +814,11 @@ Petroleum Regulatory Levy	17250
 Phase Timeline Complexity Level Risk Level	6432
 Pig Levy Fund	13420
 Pillai R. Leveraging	10919
+Policy Level	18443
 Policy Level Inter-Ministerial Committee Meeting	16970
 Political Problems Unusually High Level	16902
 Population and Housing Census Country Level	14005
+Pre-Primary and Primary Levels	18460
 President Mr. Levy Mwanawasa	13561
 Primary Healthcare Level	14773
 Prime Minister Benvinda Levi	2631,3,4990
@@ -815,6 +842,7 @@ Reading CP-EPI and CE-EPI Level	11905
 Red Alert Level	17157
 Reference Level	17140
 Reference Taxes and Levies	11857
+Region Africa Service Level Not Disclosed	18579
 Regional Level	16046,166
 Regional Level Recommendations	17870
 Regional Level Vital Events Registration Agency	12250
@@ -824,6 +852,7 @@ Regulations Prescribing Universal Levy	1900
 Regulations Prescribing Universal Service Levy	1750,150,1510
 Regulatory Levies and Licence Fees	16978
 Regulatory Levy	16978
+Relevance Impact Level	18504
 Requirement Requirement Level	5244
 Research Animal Health Level	4153
 Reservoir Levels	17157
@@ -862,11 +891,15 @@ SOVEREIGNTY EFFECTIVE ASSURANCE LEVELS	3787
 STAFF LEVELS	13420
 STATE LEVEL MULTIDIMENSIONAL POVERTY RESULTS NORTHERN	15244
 STRATEGIC INPUTS INTERNAL LEVERS ENABLERS Update	11131
+Salary Source and Level Table	18460
 Scale Data Level Score Data Characteristics	5665
 Scheme. Level of Assurance Levels	10819
 School Certificate Ordinary Level	13477
 School Certificate Ordinary Level Examination	13477
-School Level	11180,5696
+School Level	11180,5696,1584
+School Level Enrolment Trend	18460
+School Level and Local Council Table	18460
+School and District Levels	18461
 Score Service Level Requirements	5665
 Secondary and Tertiary Levels	15556
 Securities Levy Income Declines The Securities	6011,985
@@ -890,6 +923,7 @@ Service Level Not Disclosed	14881
 Service Level and Institutional Arrangements	10157
 Service Levels	6432,2691
 Service Levy Agreement	14546
+Sierra Leonean. High Level Targets Indicator	18532
 Skill Levels	12395
 Skills Development Levies Act	11181,1
 Slaps New Levy	11310

@@ -1,5 +1,6 @@
 AUC Region Name of School Status Hhohho	12977
 Adolescent HH	10763
+Ag HHs	18525,42
 Age of HH	10763
 Age of MPI H A Population HH	15244
 Age of Youth NEET HH Head Child	15244
@@ -18,6 +19,7 @@ Female HH	10763
 Female-headed HHs	12440
 Food and Agriculture HH Household IOM International	15118
 GWP Gross Written Premium HHI Herfindahl-Hirschman	14997
+HH Final weight	18525,42
 HH Head MPI H A Education	15244
 HH Households IT Information Technology MCNHRP	16867
 HH Innovation Fund	13347
@@ -95,6 +97,7 @@ Month Manzini Region Hhohho Region Shiselweni	12977
 Mozambique Lubombo Shiselweni Manzini Hhohho Female	418
 Number of HHs	12358
 Population HH Head	15244
+REGION INSTITUTION HOUSEHOLD TOTAL AVERAGE HH	18464
 RELATIONSHIP TO HH HEAD. LIST	17127
 Rank Industry HH HH	15372
 SOUS-TITRE HH	15999

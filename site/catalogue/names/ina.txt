@@ -36,6 +36,7 @@ DRC Actifs Inactifs PLs Actifs Inactifs	10975
 DRC Inaugurates	11914
 DU DIALOGUE MONDIAL INAUGURAL SUR	18070
 Daniel Inaju	8532,7293,769,786
+Definition of Inability	18556
 Digital Government Bill Inability	12917
 Direcção Comercial da INACEP	11518,1
 Direção Comercial da INACEP	11527,42
@@ -112,6 +113,7 @@ INAS-based	12781
 INAS-relevant	12780
 INAS. Subcomponent	12220
 INASA	10188,1355,26,20
+INASP	18472
 INATEL	17637,2,58
 INATEL EPE	5901
 INATEL’s African	17637
@@ -123,12 +125,12 @@ INAYA	17869
 INCM INCM INCM FSAU INAGE INAGE	2989
 INSD Inadéquation	10874
 Inaan	14906
-Inability	961,3478,409,4129,1852,327,830,255,723,116,15,3746,102,1427
+Inability	961,3478,409,4129,1852,327,830,255,723,116,15,3746,102,1427,93
 Inable and Inclusive	11332
 Inaccessibility and Low Maintenance of Medical Data Archive	6948
 Inaccessibilité	3396,11141,3345
 Inaccessibilité des TIC	17882
-Inaccessible	7532
+Inaccessible	7532,11084,15
 Inaccuracies	14546
 Inaccuracy	14546
 Inaccuracy of Cash and Cash Equivalents Balance	14546
@@ -139,7 +141,7 @@ Inaccurate Personal Data	11956
 Inaccurate Undecided	17149
 Inactif	18204
 Inactifs	18204
-Inactivated Polio Vaccine	11401
+Inactivated Polio Vaccine	11401,7226
 Inactivated Polio Vaccine Integrated Specimen RefeITal	4153
 Inactivated Poliovirus Vaccine	11401
 Inactive	8436,6379,1799,397
@@ -154,7 +156,7 @@ Inadeinxg	11152
 Inadequacies	14546,389
 Inadequacy	10829,2485
 Inadequado	15694
-Inadequate	173,222,371,174,18,3,200,100,567,1755,1950,2015,888,235,1146,295,438,262,164,157,55,42,1,21,149,68,83,322,7,26,53,26,165,59,36,7,2,2,89,10,89,229,243,45,2,8,65,2,3,38,15,200,19,45,61,637,80,409,183,5,84,17,62,25,13,12,50,247,414,55,47,85,988,25,2,16,8,1,42,15,1,8,19,1,7,33,103,25,18,103,1110
+Inadequate	173,222,371,174,18,3,200,100,567,1755,1950,2015,888,235,1146,295,438,262,164,157,55,42,1,21,149,68,83,322,7,26,53,26,165,59,36,7,2,2,89,10,89,229,243,45,2,8,65,2,3,38,15,200,19,45,61,637,80,409,183,5,84,17,62,25,13,12,50,247,414,55,47,85,988,25,2,16,8,1,42,15,1,8,19,1,7,33,103,25,18,103,1110,142,19,25,59
 Inadequate Achieve Increase Strengthen	15845
 Inadequate Awareness of PPP Activities	14546
 Inadequate Capacity	16927
@@ -166,8 +168,9 @@ Inadequate Coverage and Adequacy of Social Protection	12373
 Inadequate Digital Infrastructures Digital	12674
 Inadequate Digital Literacy	11400
 Inadequate Electricity	395
+Inadequate Funding	18624
 Inadequate HR	12255
-Inadequate ICT	395,563,290,11002,1045
+Inadequate ICT	395,563,290,11002,1045,5389,1
 Inadequate IPR	14729
 Inadequate Incident Detection and Response Capabilities	5677
 Inadequate Limited	12241
@@ -224,6 +227,7 @@ Inaugural Excellent Awards	11134
 Inaugural HICA Board Meeting	10659
 Inaugural Leaders’ Session	18378
 Inaugural Lecture	11715
+Inaugural MAPS Steering Committee Meeting	18500
 Inaugural NASK	12149
 Inaugural Phase	18036
 Inaugural RSTI Conference	1154
@@ -237,7 +241,7 @@ Inaugural Western Cape Infrastructure Ministerial	8564
 Inaugural Western Cape Infrastructure Ministerial Roundtable	8564
 Inaugurant	16093
 Inaugurar Múltiples Nacional	4209
-Inaugurated	2356,501,604,3175,8421
+Inaugurated	2356,501,604,3175,8421,3689
 Inauguration	1189,1153,1991,469,8317,1498,143,13,720,425,1292,641,191,200
 Inauguration du HUB	2370
 Inauguration of Mankantimane Suspended Foot Bridge	12977
@@ -322,6 +326,7 @@ Ubuyobozi Inama	14862
 Ubuyobozi Ugize Inama	14862
 Ugize Inama	15102
 Very Inaccurate	17149
+Vice President Chairs Inaugural MCA-SL Board	18548
 Waste Protocols MCTES INAGE	2989
 XX Inaccessible XX Destroyed	15206
 Yakondji Arsene Gassy Djamba Inass Kassem	16436

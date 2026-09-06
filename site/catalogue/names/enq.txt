@@ -148,7 +148,7 @@ Enquete Exploratoire Budjet-Consommation	13746
 Enquete Gabonaise	15518
 Enquete Harmonisée	737
 Enquete224	2159
-Enquiries	7464,1535,35,2150,14,14,38,1115,9,73,642,1653
+Enquiries	7464,1535,35,2150,14,14,38,1115,9,73,642,1653,3698
 Enquiries COMPLAINTS Nairobi	14525
 Enquiries Handled	6946
 Enquiries Handled Category Total Received Resolved	6946
@@ -157,11 +157,13 @@ Enquiries PART	12365
 Enquiries PART I PRELIMINARY	13206
 Enquiries PART VII ADDITIONAL REGULATORY REQUIREMENTS	13085
 Enquiring Officer	14760
-Enquiry	12511,2231
+Enquiry	12511,2231,3727
 Enquiry Appointed	11289
 Enquiry Committee	14774
 Enquiry Consumer Complaints FAQs Consumer Complaints	9109
+Enquiry Point	18469
 Enquiry Points	12389
+Enquiry and Appeals Desk	18448
 Enquête	419,318,232,2190,698,2643,250,209,257,439,174,37,61,103,861,385,277,720,556,45,48,43,15,925,1395,77,13,43,19,16,278,58,100,515,152,6,285,528,33,51,5,14,49,38,78,3,50,9,4,43,141,28,25,169,120,19,12,70,3,11,19,71,161,4,16,8,78,726,26,15,26,313,14,2,1,4,18,78,33,99,22,1,4,65,24,11,82,5,6,19,6,15,85
 Enquête ANEMCAM	10965
 Enquête ARTICLE	37
@@ -261,6 +263,7 @@ Enquêtés	13300,90,4922
 Enquêtés Niveau	13300
 Etude Sur L’Harmonisation Des Enquêtes EMOP	17945
 Etude Sur L’harmonisation des Enquêtes EMOP	17945
+FCC’s Enquiry and Appeals Desk	18448
 FEMMES ENQUÊ- ENQUÊ-	13300
 FR335.pdf Burundi Troisième Enquête	13300
 Formation Enquêteurs Participants Agents	13689
@@ -281,6 +284,7 @@ Institut. Enquête	16250
 Ivoire ENQUÊTE	15711
 Jeanine ENQUÊTEURS	13300
 Jeunesse EPCV Enquête	17907
+Kono. For More Enquiries	18580
 LA REPUBLIQUE DU BURUNDI ENQUÊTE NATIONALE	13390
 La Direction des Enquêtes	18169
 La Division des Enquêtes	18169
@@ -305,7 +309,7 @@ N CODE APPROPRIÉ ENQUÊTÉ MINEUR ENQUÊTÉ	13300
 N'EST PAS ENQUÊTÉE	13300
 NDICE Sumário Executivo Enquadramento PARTE II	11366
 NIGER RAPPORT ENQUÊTE DÉCEMBRE	18169
-National Enquiry Point	14225
+National Enquiry Point	14225,4244
 National Enquiry Point for Technical Barriers	14736
 Organization EICV Enquête Intégrale	15056
 PME TPE Enquêtes	643
@@ -319,6 +323,7 @@ RAPPORT FINAL ENQUETE TIC 2025 Validation 09 04 2026.pdf	18204
 RESUME L’ Enquête	18204
 Rapport Enquête Démographique	18286
 Rapport Enquête Nationale	18286
+Regulations. Benefits of National Enquiry Point	18469
 Reports and Enquiry Facilities	12364
 Reports and Enquiry Facilities The ZIPSS	12364
 SDI SIGE Enquête	17885
@@ -340,6 +345,7 @@ Sénégal Enquête Démographique	18312
 T3 Enquête EDS-MICS	16722
 TBT Enquiry Point	13320
 TBT National Enquiry Point	14736
+TBT National Enquiry Point World Trade	18469
 TESTS SI ENQUÊTÉ ADULTE	13300
 TROISIÈME ENQUÊTE DÉMOGRAPHIQUE ET DE SANTÉ	13300
 Telephone Enquiry Call Waiting Time for Financial	12500

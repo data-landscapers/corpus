@@ -13,6 +13,7 @@ COUNTRY REASONS Reallocations IDA-D9060-001 Cancellations	2473
 CPF ECD FCV FY IDA IFC	11468
 CREDIT IDA	16104
 CRW Eligibility Note. IDA	15491
+Closing Date P166601 IDA-63670 Effective	18473
 Closing Date P167478 IDA-D4840 Effective	16638
 Closing Date P174620 IDA-D9950 Effective	15619
 Closing Rev. Closing IDA-66100 Effective	15735
@@ -30,6 +31,7 @@ Closing Rev. Closing IDA-75030 Effective	18006
 Closing Rev. Closing IDA-75110 Effective	17079
 Closing Rev. Closing IDA-75340 Effective	17904
 Closing Rev. Closing IDA-79260 Effective	7877
+Closing Rev. Closing IDA-E0600 Effective	18534
 Closing Rev. Closing Not IDA-79260	4688
 Closing for Withdrawal Applications IDA-E0930 Effective	1284
 Commercial Financing Unguaranteed Commercial Financing IDA	3604
@@ -43,6 +45,7 @@ Country Director Idah Z. Pswarayi-Riddihough	761
 Credit Facility Agreement No. IDA	14546
 Credit IDA	1771
 Credit No. IDA-66920	15693
+Credit No. IDA-D8380 Project Implementation Support	18494
 Crédit IDA	15766
 Crédit IDA A-7793	16213
 Crédit IDA N	16534,189
@@ -72,8 +75,10 @@ Disbursed IDA-70470 Effective	18355
 Disbursed IDA-72690 Effective	18350
 Disbursed IDA-75030 Effective	18006
 Disbursed IDA-79260 Effective	7877
+Disbursed IDA-E0600 Effective	18534
 Disbursed IDA-E2940 Effective	17096
 Disbursed Not IDA-79260	4688
+Disbursed P166601 IDA-63670 Effective USD	18473
 Disbursed P167478 IDA-D4840 Effective USD	16638
 Disbursed P174620 IDA-D9950 Effective USD	15619
 Disbursed Undisbursed IDA-71820	1228
@@ -93,6 +98,7 @@ FIN SUMM OLD Financing Source Amount IDA-D3170	11525
 FINANCING World Bank Financing IDA-52240 IDA-D2980	15601
 FM IDA’s FM	3604
 Financial Statements of IDA Grant H5130	11525
+Financing Agreement IDA Grant No.D977-SS	18661
 Financing Approval Effectiveness Closing IDA SASPP	17906
 Fund Flows Diagram IDA Account	3604
 Funds Flow IDA Special Commitments and Directs	13331
@@ -112,6 +118,7 @@ Gender Parity Index IDA International Development	14896
 Global Partnership for Education Fund IDA Resources	11905
 GovNet GRM IDA IDEMOC INAGE INCM	4653
 Government of Malawi and IDA	8399
+Grant IDA E178	18623
 Grant No. IDA-D6620	15693
 Grant No. IDA-E2020-001	7951
 Groupe de Reference IDA	14472
@@ -197,14 +204,18 @@ IDA GCF GoM	17962
 IDA GESDeK-7438-KE	14546
 IDA GF F HSTR F Tot	18370
 IDA GRANT Direct	11855
+IDA GRANT NO. D977-SS	18661
 IDA General Conditions	11855
 IDA Grant	761,503,20,420,163,424,598,673,7267,696,35,577,695,279,220,456,1123,44,22,114,7,93,221,247,3,483,254,524,927,113
 IDA Grant Agreement	16922
 IDA Grant H9080	11525
 IDA Grant IDA Shorter Maturity Loan	11905
+IDA Grant No. D977-SS	18661
 IDA Grant US	13831
+IDA Grant of US	18625
 IDA Grant. Environmental And Social Risk	13793
 IDA Grants	1264,13926
+IDA Guarantee Holder	18728
 IDA Horizontal Distribution Area	9123
 IDA Human Capital Index IDP International	10964
 IDA I. STRATEGIC CONTEXT A. Country	17458
@@ -215,7 +226,7 @@ IDA IPF	3129,1250,11653
 IDA International Development Association	14038,1152
 IDA International Development Association IDEA Inclusive	6539
 IDA International Development Association IDP Internally	17906
-IDA International Development Association IFC International	11560
+IDA International Development Association IFC International	11560,6944
 IDA International Development Association ISR Implementation	13836
 IDA Investment Project Financing	2840
 IDA KOE Loan Agreement	6539
@@ -353,6 +364,7 @@ IDA-D7730 Effective	17958
 IDA-D7830	16891
 IDA-D7830 Effective	17000
 IDA-D8410 Effective	18354
+IDA-D8420 Project ID	18575
 IDA-D8440	15990
 IDA-D8770	16398
 IDA-D906-MZ Reference No	12834

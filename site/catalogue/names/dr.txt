@@ -1,3 +1,4 @@
+A' Drug List	18541
 A.K. DRAMÉ	7999
 A.K. DRAMÉ Encadré	7999
 A2.4.1.1.2 Dresser	17983
@@ -64,7 +65,8 @@ Advocacy for Domestic Drivers of Growth	10
 Affairs Draft Home Affairs Home Affairs	11986
 Affairs Home Affairs Bill Draft Home	11986
 Affairs Preface Drawing	16927
-Affordability Drivers Index	11857
+Affordability Drivers Index	11857,6599,29
+Affordability Drivers Index Alt-net	18485
 Africa DRC Chad Cameroon Kenya Angola	15372
 Africa Dreieckskooperation	1423
 Africa Film Drama Arts	10481
@@ -110,6 +112,7 @@ Antsirabe. The DRA	2509
 Application for Driving License	12333
 Applications Drone	17983
 Applied Drought Monitoring Indicators for Libya Different	17157
+Apply Innovation for Sustainable Development Drive	18480
 Approved Draft Bill	11986
 Approved Draft Revised White Paper	11986
 ArcGIS Drone2Map	10761
@@ -144,6 +147,7 @@ Baden Powell Drive Mobile Teams Postbank	8999
 Ballyclare Drive	10793
 Banco de Cabo Verde Central Bank of DRC	6938
 Bandiagara DRPSIAP	18077
+Basic Drinking Water SDG	18441
 Basic Drinking Water Supply	970
 Beers Petroleum Products Soft Drinks Wines	14985
 Belhar Drive	8999
@@ -179,6 +183,7 @@ Bus Drivers	17119
 Bus Drivers Demand Tougher Road Safety	6077
 Business Registration Drive Across All Communities	16076
 Bénin. Nathalie Drach-Temam	16406
+C' Drug List	18541
 C. Draude	9237
 CAP Bamako. DRAME LISTE DES MEMBRES	17819
 CAR DRC Cameroon Gabon	9616
@@ -229,6 +234,7 @@ CSGH Comité Sénégalais des Droits	18286
 CSU CUCI DRC DRF DRM EM-DAT	10763
 CTO Chief Technology Officer DRA Digital	11545
 CWG Cash Working Group DRC Danish	6947
+Call Drop Rate	18444
 Call Drop Ratio	5744
 Call for Trading DRC Sarl. L'initiative	4501
 Cambridge Centre for Alternative Finance Driven	8074
@@ -299,6 +305,7 @@ Composite Drought Index-Eswatini	12977
 Comprehensive Draft Study	2117
 Computer Crime and Cybercrime Draft Regulations	12395
 Concept Drift	16212
+Concludes Final National Validation of Draft Civil	18519
 Concours Médias Droits	8808
 Concours Scolaires DREN	18171
 Conduct National Cyber Exercise and Cyber Drill	1777
@@ -324,6 +331,8 @@ Corporate Social Responsibility DRS	13053
 Could Online Gig Work Drive Development	226
 Country-level Prospective Evaluations DRC Education Policy	11916
 Cour Africaine des Droits	13442
+Couriered Encrypted Drives	18531
+Couriered Encrypted Drives Description	18531
 Crime Misdemeanour Drug	14760
 Crime Misdemeanour Drug End-year	14760
 Crop Production and Plant Health Drought	17157
@@ -398,6 +407,7 @@ DHA. The Draft Revised White Paper	5533
 DHIS2. Driven	11892
 DHS Demographic and Health Surveys DRC Democratic	12006
 DIGITAL BODA DRIVERS AND DELIVERIES ASSOCIATION	7167
+DIGITAL ENTREPRE NEURSHIP DIGITALLY DRIVEN	18454
 DIGITAL PHARMACY GUIDELINE DRAFT Rev PP.pdf	9854
 DIGITAL TRANSFORMATION STRATEGY. Draft for Discussion V	10819
 DIGITALISATION AS A DRIVER OF DEVELOPMENT	16176
@@ -422,7 +432,7 @@ DRA Survey	12426
 DRA Validation Workshop	1994
 DRAA The Government of Lesotho	12687
 DRACO AGENCIES AUCTIONEERS Data Processor INST-68415451219	7167
-DRAFT	1653,1850,211,8238,43,215,3453
+DRAFT	1653,1850,211,8238,43,215,3453,2951
 DRAFT CRYPTO ASSET MANUAL FOR CROSS-BORDER	8840
 DRAFT DIGITAL TRANSFORMATION STRATEGY	10819
 DRAFT ERITREAN LEGISLATION	14072
@@ -654,6 +664,7 @@ DRD&LR	11188
 DRDC ONGOM ON ABRAHAM	7772
 DRDC-DI	17915
 DRDSES	17933
+DRE Decentralized Renewable Energy EDSA Electricity	18537
 DRE IN THREE COUNTRIES	11572
 DRE-based	11572
 DREACAV	17872
@@ -735,6 +746,7 @@ DRIVEN	418
 DRIVEN BY INDUSTRY AND SERVICES	14873
 DRIVEN BY INDUSTRY AND SERVICES RWANDA’S	14873
 DRIVEN BY LOCAL PRIORITIES The Monitoring	14752
+DRIVER	18578
 DRIVER'S NAME	1988
 DRIVER'S ORIGIN GATE MUST	5240
 DRIVERS FOR THE UPTAKE OF BROADBAND	16884
@@ -990,6 +1002,7 @@ Decadal Index of Drought Stress	17157
 Declare Drought Levels	17157
 Defensive Driving	6946
 Deferred Drawdown	1284,583,1695,42,7164,61,135,453,143,295,1476,1,2221,68,37,3,483,778
+Demand Driver Recommendations	18485
 Demand Drivers	11857
 Demand Drivers D1	11857
 Demand Drivers and Funding	11857
@@ -1070,7 +1083,7 @@ Dra. Zalha Assoumana	7702
 Drachsler	8602
 Dracunculose	15712
 Drafitra	14488,1,1
-Draft	396,611,679,142,110,1,166,12,872,594,95,131,304,101,314,55,50,1453,291,141,148,881,160,778,44,17,962,17,721,522,7,44,369,34,14,561,69,39,47,56,202,92,54,156,163,302,54,361,1473,14,10,82,26,45,369,36,133,24,15,42,2,50,366,559,197,13,5,14,5,4,8,16,43,68,128,18,103,339,285,23,390,8,65
+Draft	396,611,679,142,110,1,166,12,872,594,95,131,304,101,314,55,50,1453,291,141,148,881,160,778,44,17,962,17,721,522,7,44,369,34,14,561,69,39,47,56,202,92,54,156,163,302,54,361,1473,14,10,82,26,45,369,36,133,24,15,42,2,50,366,559,197,13,5,14,5,4,8,16,43,68,128,18,103,339,285,23,390,8,65,115,10,37,86
 Draft AI	10246,5467
 Draft AI Policy	10246,984
 Draft Agreement Amending the SADC Treaty	14826
@@ -1096,6 +1109,7 @@ Draft Business Plan	3678
 Draft Bylaws	5853
 Draft CCD	12936
 Draft CHB Operational Manual	16971
+Draft CHW Integration Roadmap	18532
 Draft Capital Flow Management Regulations	9127
 Draft Charter Establishing the SADC Pharmaceuticals	14826
 Draft Citizenship	11986
@@ -1103,6 +1117,7 @@ Draft Cloud Policy	11993
 Draft Cloud Policy The Draft Cloud	11993
 Draft Code of Practice for Lifts Inside Wind	1009
 Draft Company Law. Page	14869
+Draft Competition Regulations	18485
 Draft Comprehensive Guidelines	12675
 Draft Constitution	10062
 Draft Continental Harmonisation Strategy	1243
@@ -1113,6 +1128,7 @@ Draft Data Governance Framework	11252
 Draft Data Governance Policy	3058,4119,3069
 Draft Data Governance Strategy	3058
 Draft Data Management Policy	14198,268,4
+Draft Data Protection And Right	18508
 Draft Data Protection Bill	512,455,194,11307
 Draft Data Protection Regulations	7364
 Draft Digital Agriculture Strategy	13083
@@ -1134,6 +1150,7 @@ Draft Framework	318
 Draft Framework for Establishing the SADC Regional CIRT	318
 Draft Framework for Regulating National Roaming Wholesale	17212
 Draft Gambian Standard	16900
+Draft Gender Accountability Framework	18549
 Draft Guidance	8900
 Draft Guidance Note for Online Intermediation Platforms	4583
 Draft Guidelines	8485
@@ -1178,11 +1195,12 @@ Draft National Digital Payments Strategy	14054
 Draft National Digital Transformation Strategy	5098,8015
 Draft National E-waste Management Strategy	15019
 Draft National ICT Policy	16872
-Draft National Land Policy	13896
+Draft National Land Policy	13896,4723
 Draft National Law	10841
 Draft National Payment System Bill	10186,1
 Draft National Policy	2117,8129
 Draft National Radio Frequency Plan	11259
+Draft National Referral Policy and Standard	18532
 Draft National Zoning Law of Liberia. Collaborated	16970
 Draft Negotiating Text	1243
 Draft Noise-Induced Hearing Loss Regulations	1009
@@ -1197,7 +1215,8 @@ Draft Per Unit Cost Guide	15659
 Draft Personal Data Protection Proclamation	13995
 Draft Physical Agents Regulations	1009
 Draft Policies	3678
-Draft Policy	2117,9012,136
+Draft Policy	2117,9012,136,7272
+Draft Policy Framework	18495
 Draft Postal and Courier Services Policy	17105
 Draft PowerPoint Presentation	10841
 Draft Pre-qualification Prequalification Evalu Draft Bidding	17180,39
@@ -1228,6 +1247,7 @@ Draft SSP	14935
 Draft Satellite Communications Guidelines	17191
 Draft Sector-specific Cybersecurity Regulations. Develop	1777
 Draft Sectoral Regulations	1777
+Draft Sierra Leone AI Readiness	18574
 Draft Sierra Leone AI Readiness Diagnostic	6380
 Draft South Africa National Artificial Intelligence	6054,5211
 Draft South African National Water Resources	2626
@@ -1244,16 +1264,18 @@ Draft Version	239,14696
 Draft WBG Country Partnership Framework	1867
 Draft White Paper	3264,7982
 Draft the National Financial Inclusion Committee	940
+Draft the Policy Framework	18495
 Draft-	6423
 Draft-MTRS-Final.pdf INTERNATIONAL MONETARY FUND	13624
 Draft02	14165
 Draft03	14165
-Drafted	27,1801,5450,3541,2143,3891,118,264
+Drafted	27,1801,5450,3541,2143,3891,118,264,1467
 Drafted Annex	16848
 Drafted Awaiting	16853
 Drafted Draft	16848
+Drafted Sierra Leone	18577
 Drafters	17037
-Drafting	573,2385,100,872,2438,1909,2703,631,397,909,120,324,24,1475,1,1,1,7,23,72,28,4,396,80,1368,7,37
+Drafting	573,2385,100,872,2438,1909,2703,631,397,909,120,324,24,1475,1,1,1,7,23,72,28,4,396,80,1368,7,37,1603
 Drafting Committee	16212
 Drafting Digital Services Tax Legislation	573,2588,11771
 Drafting Digital Services Tax Legislation DEFINITIONS	573
@@ -1262,6 +1284,7 @@ Drafting Digital Services Tax Legislation EXPLANATORY	573
 Drafting Digital Services Tax Legislation Revenue	573
 Drafting Digital Services Tax Legislation Section	573
 Drafting Institutional	12917
+Drafting Legislation	18477
 Drafting Phase	5853
 Drafting Phase II Bylaws Revisions and Resolutions	5853
 Drafting Policies and Ethical Guidelines	12356
@@ -1294,7 +1317,7 @@ Drains and Remedial Works	14738
 Drainworks	14830
 Drake	2816
 Drakenstein	11286
-Drama	11180
+Drama	11180,7281
 Drama School	12982
 Drama and Theatre	14742
 Drama for Grades	14742
@@ -1308,6 +1331,7 @@ Dramane TRAORE CERTES	17882
 Dramani Mahama	7452
 Dramas Ugandan	9781
 Dramatic	16916
+Dramatically	18535
 Dramatising	14102
 Dramaturgical	8460
 Drancuculosis	10776
@@ -1342,6 +1366,7 @@ Dre Charlotte Faty Ndiaye	18075
 Dre Diaka Sidibé	4598
 Dre Triphonie Nkurunziza	13760
 Dream	8460
+Dream Atlantic Garden Villas	18580
 Dream Bridge	14721
 DreamOval Chief Executive Officer Derek Laryea	236
 Dreamlab Technologies	10764
@@ -1379,7 +1404,8 @@ Drill	1777,5132,10834
 Drillers and Constructor License	1988
 Drilling	6588,6804,341,4010
 Drills	13385
-Drinking	12403,982,1859,1656,35,222
+Drinking	12403,982,1859,1656,35,222,1284
+Drinking Eating Much	18441
 Drinking Water	15244
 Drinking Water Access	15244
 Drinking Water Links	15578
@@ -1410,7 +1436,7 @@ Drissa TOGOLA Vice-président	17819
 Drissa TRAORE	18003
 Drissa TRAORE Police Kadiatou FOFANA Secrétaire	17819
 Drissa Youssouf KONE	18032
-Drive	767,596,2498,1672,96,2866,504,1522,254,354,108,64,677,8,9,215,146,88,172,679,1428,29,66,147,32
+Drive	767,596,2498,1672,96,2866,504,1522,254,354,108,64,677,8,9,215,146,88,172,679,1428,29,66,147,32,3532
 Drive Agricultural Transformation Bong County	17306
 Drive Agricultural Transformation URL	17306
 Drive Big Tech Data Protection Accountability	9817
@@ -1435,7 +1461,9 @@ Drive Effective Policy and Innovation Strategy	17116
 Drive Evidence-based Agricultural Financing	8818
 Drive IT and EA	12359
 Drive Implementation of Regional Cross-Border Payment System	11807
+Drive Inclusive Agribusiness Growth	18700
 Drive Investment	3837
+Drive Investment and Launch	18502
 Drive MSME Growth	9852
 Drive National AI Adoption CBZ Bank	5403
 Drive National Digital Transformation	4093
@@ -1478,14 +1506,15 @@ Driver for Private Sector Development	16861
 Driver of Conflict and Displacement. Refugee-Led Research	15342
 Driver of Financial Sector Development	12598
 Driver of Systemic Change Embed	10865
-Driver's License	16983
+Driver's License	16983,1469
 Driver's Vocational Card Management System EMF	718
-Drivers	718,222,874,174,108,757,969,1541,602,1932,69,2976,552,706,53,25,661,155,14,1682,2051,101,36,76,633
+Drivers	718,222,874,174,108,757,969,1541,602,1932,69,2976,552,706,53,25,661,155,14,1682,2051,101,36,76,633,996
 Drivers Licence ZRCP TBA	1988
 Drivers License	16841
 Drivers and Mobile Plant Operators	16266
 Drivers and Mobile Plant Operators Electrical and Electronic	16266
 Drivers of Change	3,5360
+Drivers of Digital Competitiveness	18454
 Drivers of External Debt Dynamics	13868
 Drivers of Food Insecurity Assess Vulnerable Population	17285
 Drivers of Real Effective Exchange Rate	15023
@@ -1499,7 +1528,7 @@ Drives Costly Fraud Attacks Fraud	6261
 Drives FinTech Development	12444
 Drives People and Businesses	17011
 Drives the Performance of COVID-19 Tracing Apps	5700
-Driving	1131,30,935,1881,2309,130,4112,284,10,34,176,49,143,2,11,13,39,913,242,9,892,116,1208,5,88,429,14,1061,697
+Driving	1131,30,935,1881,2309,130,4112,284,10,34,176,49,143,2,11,13,39,913,242,9,892,116,1208,5,88,429,14,1061,697,1615
 Driving AI Transformation	11994
 Driving Agricultural Digital Transformation	13095
 Driving Alignment and Sustainability Burkina Faso	15833
@@ -1622,12 +1651,14 @@ Drones Civiles	13500
 Drones Implementation	13053
 Drones US Navy	9629
 Drones and Geospatial Mapping	7016
+Drop Call Rate	18444
 Drop Charges Against Jobarteh	17069
 Drop Multiplexer AWI Asset Wealth Index	12006
 Drop-In-Centre	14742
 Drop-in-Centre	14742
 Drop-out	13332,3618
 Drop-out Completed Never	16921
+Drop-out Rates Access	18512
 DropByDrop	6746
 DropByDrop Water Systems	6746
 Dropbox	7147,1976,1598,4791
@@ -1643,7 +1674,7 @@ Dropped. Page	16032
 Dropping	10284
 Drossos Consultant Washington	11525
 Droti B	14666
-Drought	5947,4816,373,1052,194,1,118,593,913,436,1215,1499,100
+Drought	5947,4816,373,1052,194,1,118,593,913,436,1215,1499,100,1388,79
 Drought Alert	17157
 Drought Characterization and Monitoring	17157
 Drought Class	17157
@@ -1721,21 +1752,26 @@ Droughts’ Probability and Historical Impact Risk Index	18301
 Droupadi Murmu.The	11284
 Drowning	12151
 Drsce	14173
+Drtters	18457
 Drudeisha Madhub	4850
 Druedahl	8606
+Drug Acts	18541
 Drug Administration	4202,15,1135
 Drug Authority FRW Rwandan Francs FY	14985
 Drug Cases	14760
 Drug Control Act	17105
 Drug Demand Reduction	14742
+Drug Destruction Le8 Per Kilo	18541
 Drug Enforcement Agency	3887,8679
 Drug Enforcement Commission	1988,739,10594,82
 Drug Fight	11720
 Drug Law Enforcement	18016
 Drug Law Enforcement Agency	17105
+Drug List	18541
 Drug Management Agencies	4301
 Drug Service NLTCP National Leprosy and TB	16971
 Drug Solution	14760
+Drug Specialities	18541
 Drug Supply Reduction	14742
 Drug Trafficking	14839
 Drug Use Prevention Programme	14742
@@ -1746,7 +1782,7 @@ Drug and HIV	14742
 Drug and HIV. This Council	14742
 Drug-Type Weight	14760
 Drugi	10780
-Drugs	9213,5529,2363
+Drugs	9213,5529,2363,1436
 Drugs Lab	17105
 Drugs Medicines	12976
 Drugs Revolving Fund	16971
@@ -1755,6 +1791,8 @@ Drugs and Crime	4810,528,332,1136,954,1591,265,2950,406,122,1648,983,477,741,94,
 Drugs and Crime Guinea-Bissau	11586
 Drugs and Crime UNSDCF United Nations Sustainable	15725
 Drugs and Crimes UNSDCF United Nations Sustainable	16943
+Drugstore	18541
+Drugstore Licence	18541
 Drupal	236,3573
 Drury	7789
 Drury P	1261
@@ -1842,10 +1880,12 @@ Ethiopian Food and Drug Authority	10709
 European Drought Observatory	15715
 Evidence AfricaCERT Cyber Drill	10911
 Ex-VP Howard-Taylor Denies Drug Charges	17358
+Example of Dry Seasonal Outlook	18578
 Excellency President John Dramani Mahama	7695,8816
 Excellent. Dragging Zambia	13670
 Execution P1 Draft the Digital Government Act	12917
 Expand DRM Capabilities	17011
+Expanding the Drug	18532
 Explanatory Notes. SUGGESTED APPROACH TO DRAFTING	3161
 Exploring the Drivers and Barriers	2096
 Extension and Reinforcement of Drinking Water Networks	15578
@@ -1880,7 +1920,7 @@ First National Cyber Drill	12625
 FirstBank DRC	3849,437,7674
 Five Foundational Enablers Driving the AI Readiness	2957
 Flood and Drought Risk FY17	17962
-Food and Drinks Consumed	17127,38
+Food and Drinks Consumed	17127,38,1405
 Food and Drug Quality Control Laboratory	16922
 Food and Drug Quality Control Laboratory NHIA	16922
 Food and Drug Quality Control Laboratory and Biomedical	16922
@@ -1969,6 +2009,7 @@ Holdings of Special Drawing Rights	11131,3
 Holdings of Special Drawing Rights IMF Quota	11131,3
 Home Affairs The Draft Revised White	11986
 Hon'ble President of India Smt. Droupadi Murmu	12617
+Hon. Dr. Justin Valfrido Droko	18661
 Household Drinking	15578
 Household Drinking Water Connections Natural Gas	15578
 Household Drinking Water Connections Project Natural	15578
@@ -2000,6 +2041,7 @@ INFORMAL MECHANISMS DRIVEN	418
 INFORMAL MECHANISMS DRIVEN BY FINANCIAL INCLUSION	418
 INFORMATION CONNECTION DRAINS MY TO AGENT	11964
 INFRACTIONS CLASSIQUES DE DROIT COMMUN COMMISES	16617
+INNOVATIVE DRIVEN DIGITAL ECONOMY	18454
 INNOVATIVE PRODUCTS TO DRIVE	12395
 INSTITUTIONNELLES ET DES DROITS HUMAINS	15792
 INTEGRATED DROUGHT MANAGEMENT APPROACH Reactive	17157
@@ -2256,9 +2298,13 @@ N SAFE DRIVER RULES	1988
 NA Dropped	16032
 NA NA NA New PI Draft	11986
 NATIONAL STRATEGY FOR DROUGHT MANAGEMENT	17157
+NCRA Concludes Final National Validation of Draft	18519
 NDMA County Drought	14516
 NDS ENABLERS AND DRIVERS	14790
+NDVI Drought	18645
+NDVI. Drought	18724
 NDVI. Drought Trend Analysis Historical	10763
+NEMS and DRMCAH Policy Idicator	18532
 NFIS Inclusion II. Drives DFS	12444
 NMSEs. the DRC. In Indonesia	11994
 NON-RENONCIATION DE DROITS ET ABSENCE D’IMPREVISION	15901
@@ -2267,6 +2313,7 @@ NPC Drive Digital Birth Registration	18139
 Nahla Zeitoun and Dristy Shrestha	15663
 Namibian Birth Certificate and New Namibian Driver	12350
 Nana Mourkerou BAH ANTIM ANTIM DRH-SSDS	17882
+Narcotic Drug	18541
 Narcotic Drugs and Psychotropic Act No	13403
 Nathalie Drach-Temam	6514,9892
 National Agency for Drug Control	14781
@@ -2377,6 +2424,7 @@ PEDRO VERONA RO DRIGUES PIRES Assinada	15359
 PEDRO VERONA RO DRIGUES PIRES Referendado	15358,1
 PEDRO VERONA RO DRIGUES PIRES. Referendado	15359
 PERSONNEL ET EXCEPTIONS A CES DROITS	16617
+PILLAR III EMBRACE DRE FOR AFFORDABLE	18537
 PLANNING PURPOSE AND PROCESS Drought	17157
 PMU Drilling	1988
 POLITICAL ECONOMY The DRC	11960
@@ -2424,6 +2472,7 @@ Pourcentage de DRPFEF	17845
 Power DRC's National Digital Identity System	2698
 Prepare Draft of Bylaws Amendment	5853
 Presentation. The Second Draft Report Workshop	962
+President Dr.Julius Maada Bio	18563
 President John Dramani Mahama	2338,3594,2,12,2417,116,700,2149,4495,36,1687,171
 President. The DRCPass VALIDATION PHASE	2389
 Primary Draft	7548
@@ -2494,6 +2543,7 @@ Raxio DRC1	1845,13,10056
 Readiness Analysis DRC Democratic Republic of Congo	11545
 Reads Kenya's Draft Final National Data	6518
 Records System FDA Food and Drugs Authority	15556
+Recovery DRII Disaster Recovery Institute International	18531
 Recurrent and Cyber Drill	1777
 Red Sea Drilling Company. Cette	17764
 Reduce the Brain Drain of ICT Skilled	15679
@@ -2629,6 +2679,7 @@ South Africa’s Draft AI Policy	6041
 South Africa’s Draft National AI Policy	5914
 South Africa’s Draft National Artificial Intelligence	11012
 South Africa’s Draft Payments Framework	6998
+South Sudan. Driving Project East	18654
 Sparse Vegetation Drought	17157
 Special Drawing Account	7845
 Special Drawing Rights	1264,9565,302,3,415,375,1832,295,818,43,746,486,792,299
@@ -2696,6 +2747,8 @@ Tokai Vanguard Drive	8999
 Topography and Drainage	14778
 Tout Drapeau National	14861
 Traditional Drivers	17780
+Trafficking Drug Trafficking Cyber Espionage Economic	18675
+Transaction Driver License Per Individual	18450
 Transparency of AI-Generated Content Draft	8529
 Treatment Plant Household Drinking Water Connections	15578
 Treatment of Drinking Water	15247
@@ -2752,6 +2805,7 @@ VII NATIONAL STRATEGY FOR DROUGHT MANAGEMENT	17157
 VIPSU Finance Dept. Drawing Office PASSPORT	14760
 Values for Drought	17157
 Van Driel	8436
+Variation of Drugs	18541
 Vegetation and Land Drought Indicators	17157
 Vehicle Registration and Driver Licensing	2576
 Veille Environnementale DRDR	18291
@@ -2769,6 +2823,7 @@ WB P180495 DRC Digital Transformation Project	2126
 WMO Drought Classification Standards	17157
 Ward Digital ID Drive	7144
 Warlords Drag Sudan	15342
+Water Drilling	18541
 Water Infrastructure Under Drought Conditions Over-reliance	17157
 Water Purification Points and Boreholes Drilled1	2775
 Water Service Delivery Drought	17157

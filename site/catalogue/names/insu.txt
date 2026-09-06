@@ -30,6 +30,7 @@ ASSURED INSURANCE BROKERS LIMITED Data Controller	7167
 ASSURED INSURANCE BROKERS LIMITED Data Processor	7167
 Acronyms PIA Pensions and Insurance Authority PACRA	13347
 Advance Political Risk Insurance	11310
+Africa Trade and Investment Development Insurance	18537
 Africa. Tarik Dadi Combats Health Insurance	3101
 African Insurance Organisation	6938
 African Insurance Organization	14997
@@ -181,7 +182,7 @@ Financial Agriculture Insurance Financial	14997
 Financial Intelligence Unit Nigerian Deposit Insurance	6938
 Financial Services and Insurance	1940,5795
 Financial Services and Insurance Mozambique	7734,269,67,4779
-Financial and Insurance	6946
+Financial and Insurance	6946,11537,5
 Financial and Insurance Activities	2775,10278
 Formal Sector Social Health Insurance Programme	12004
 Funds Insurance Companies Fund of Funds Sovereign	4972
@@ -255,6 +256,7 @@ INSURERS X X Build	15130
 INSURTECH CONFERENCE Mkomazi Hall	2275
 INSUSCEPTIBILITÉ DE TOMBER ENCEINTE Aménorrhée	13300
 IRA Insurance Regulatory Authority ISIC International	2775
+Identify Risk Insurance	18537
 Impact Mixed Disrupted Insulated Disrupted Disrupted	16266
 Inclusion Insurance M&E Pension Agriculture Finance	14997
 Inclusive Climate Insurance RSF	11469
@@ -265,11 +267,11 @@ Inspector General Servicios R. Insular Servicio	4209
 Insuchcases	8602
 Insuf	15580
 Insufficiency	16863
-Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453,45,217,160,78,183,506,9,70,165,25,25,54,101,2,18,23,46,2,53,123,138,319,15,200,19,104,148,302,123,437,6,53,160,82,89,78,39,12,50,167,42,166,869,156,488,31,7,4,22,11,11,168,18,103,36,827
+Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453,45,217,160,78,183,506,9,70,165,25,25,54,101,2,18,23,46,2,53,123,138,319,15,200,19,104,148,302,123,437,6,53,160,82,89,78,39,12,50,167,42,166,869,156,488,31,7,4,22,11,11,168,18,103,36,827,344,9,11,42,28,57
 Insufficient Collaboration	12356
 Insufficient Data	12376
 Insufficient English	12329
-Insufficient ICT	14137
+Insufficient ICT	14137,4479
 Insufficient Inadequate Reduced	12241
 Insufficient Information	14647
 Insufficient Investment	15960
@@ -316,7 +318,7 @@ Insur	6019
 InsurTech	4848,1021,52,6523
 InsurTech-related	10793
 InsurTechs Significant	12444
-Insurance	418,349,173,1769,66,2121,304,465,547,27,759,765,26,236,110,1102,1556,72,112,106,51,2,162,510,147,1,293,124,27,9,36,9,97,502,132,200,135,1065,132,126,48,6,100,26,107,533,1494,259,159,534
+Insurance	418,349,173,1769,66,2121,304,465,547,27,759,765,26,236,110,1102,1556,72,112,106,51,2,162,510,147,1,293,124,27,9,36,9,97,502,132,200,135,1065,132,126,48,6,100,26,107,533,1494,259,159,534,374,58
 Insurance Act	6938,4317,1393,412,1749,34
 Insurance Activity Supervisory Body	6938
 Insurance Association	14997
@@ -521,6 +523,9 @@ National Insurance Strategy	15023
 National Organization for Social Insurance	15519
 National Social Insurance Authority	4944
 National Social Insurance Fund	15883
+National Social Security and Insurance Trust	18440,6
+National Social Security and Insurance Trust Act	18440,26
+National Social Security and Insurance Trust Fund	18463
 Ndong Coordinadora Regional Insular Ilmo. Sr	16920
 Nigeria Deposit Insurance Corporation	9571
 Nigerian Insurers Association	11129
@@ -606,6 +611,9 @@ Services Insurance Banks Financial Services Durables	4972
 Sheikan Insurance	14897
 Short-Term Insurance Ombudsman	9675
 Sierra Leone Insurance Commission	6938
+Sierra Leone Insurance Company	18483,5
+Sierra Leone Social Health Insurance	18532
+Sierra Leone Social Health Insurance Scheme	18478,54
 Skills Gaps Banking Insurance Pensions Capital	14997
 Social Assistance Social Insurance Q5	10985
 Social Health Insurance Act	8934

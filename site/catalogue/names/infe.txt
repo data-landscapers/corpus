@@ -48,6 +48,7 @@ Infection Respiratoire Aiguë IST	15685
 Infection Respiratoire Aiguë LNSP	15423
 Infection Sexuellement Transmissible	15423
 Infection Sexuellement Transmissible JNV	15685
+Infection UADF Universal Access Development Fund	18504
 Infection and Acquired Immuno Deficiency Syndrome	14714,1
 Infections	12151,1149,2299,86
 Infections Arrest	12151
@@ -120,7 +121,7 @@ Sexually Transmitted Infections TA Technical Assistance	1988
 Sexually Transmitted Infections TB	10776
 Sintomas de Infecção Respiratória Aguda	10777
 Sintomas de Infecções Transmissíveis Sexualmente	10777
-Symptoms of Acute Respiratory Infection	13454
+Symptoms of Acute Respiratory Infection	13454,4987
 Symptoms of Sexually Transmitted Infections and Prior HIV	15247
 T Infection Sexuellement Transmissible	15711
 Tropical Infectiology	766

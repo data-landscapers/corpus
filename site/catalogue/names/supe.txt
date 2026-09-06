@@ -11,6 +11,7 @@ AMAN Super App	10800
 ANNEXE Superficie	15690
 ANNEXES MEMBRES DU COMITÉ DE SUPERVISION	10712
 ANNUAIRE STATISTIQUE DE L'ENSEIGNEMENT SUPERIEUR	18170
+ANTI-MONEY LAUNDERING SUPERVISION	18599
 ASSA Mali Supervision des ASC DGSHP	17882
 AUDIENCIA TOTAL DIRECTIVO SUPER. PODER PROVINCIAL	4209
 African Power Pool SCADA Supervisory Control	12399
@@ -20,6 +21,7 @@ Afya Supportive Supervision	1261
 All Superintendent	16872
 Année Ingénieur INSTITUT SUPERIEUR D'AGRONOMIE ET	15674
 Antigénio de Superfície da Hepatite B Haemophilus Influenzae	10777
+Apache Superset	18565
 Arrangements for Safeguards Supervision	15372
 Ascendes Superius	12478
 Assan Mhlanga Technical Supervisor	13392
@@ -147,6 +149,7 @@ Cybersecurity SuperHero Academy	7053
 Cánones de Superficie	4209
 D CONSELHO SUPERIOR DA MAGISTRATURA JUDICIAL	15404
 DATA PROTECTION SUPERVISORY AUTHORITY	512
+DDs and Supervisors	18460
 DE BIOKO GUINEA ECUATORIAL Superficie	16875
 DE ESTADO PARA O ENSINO SUPERIOR	11391
 DE LA COMMISSION DE SUPERVISION BANCAIRE	14417
@@ -161,7 +164,8 @@ DSHP Digital Superhighway Project DSL Digital	6946
 DTS R DIPLÔME DE TECHNICIEN SUPERIEUR	18143
 DU CONSEIL SUPERIEUR DE LA LIBERTE	15405
 DU MINISTERE DE L’ENSEIGNEMENT SUPERIEUR ET	8237
-Data Collectors Supervision Supervisors	17165
+Data Collectors Supervision	18525,42
+Data Collectors Supervision Supervisors	17165,1405
 Data Collectors Supervision Voluntas	15024
 Data Protection Supervisory Authorities	1474
 Data Protection Supervisory Authorities PART XI	1474
@@ -247,6 +251,7 @@ Escola Superior de Informática Bissau Zona-V Private	11552
 Escola Superior de Jornalismo	9099
 Escola Superior de Tecnologia	17103
 Escola de Formação Superior	11552
+Establishment and Supervision	18601,1
 Estrategia. La Supervisión de Evaluación	1701
 Estudiantes de Formación Técnica Profesional Grado Superior	16920
 European Data Protection Supervisor	1807,2776,3946,157,5748
@@ -442,6 +447,7 @@ National Consulting Construction Services Supervision Works	11525
 National Digital Superhighway Project	6946
 National Super Alliance	9645
 National Superintendents Council of Liberia. The Ministry	16970
+National Supervisors	18464
 Natureza da Instituição de Ensino Superior	11387
 Nenhum Primário Secundário Superior Quintil	10777
 Next Supervision Mission	17505
@@ -544,11 +550,13 @@ Roadmap of Financial Services Business Conduct Supervision	11994
 SANTE DOUBEYREY IPSJ PROSPOR INSTITUT SUPERIEUR	18170
 SANTE ENVIRONNEMENTALE ISSPT TANSA INSTITUT SUPERIEUR	18170
 SANTE ESA ECOLE SUPERIEURE DES AFFAIRES	18170
+SCADA Supervisory Control and Data Acquisition	18614
 SCADA Supervisory Control and Data Acquisition SDG	15515
 SECRETARIO GENERAL ADJTO DEL CONS. SUPER	4209
 SECRETARIO GENERAL DEL CONSEJO SUPER. PODER	4209
 SERVICES FINANCIAL SUPERVISION DEPARTMENT	16842
 SGS Tanzania Superintendence Co Ltd	12114
+SIERRA LEONE. This Publication Supersedes Publication	18451
 SULTAN INSTITUT SUPERIEUR DE FORMATION	18170
 SUPERIEUR DE LA JEUNESSE MINISTERE	16322
 SUPERIEUR DE SANTE ISSECTEL INSTITUT SUPERIEUR	18170
@@ -692,17 +700,18 @@ Superintendidos	4556,1
 Superintendência	167,263,3788,7151,12,1,6,50,11,484,3500,7,10
 Superintendência A ATCV	15912
 Superintendência O NOSI	15391
-Superior	4209,6568,639,4278,1226
+Superior	4209,6568,639,4278,1226,1514
 Superior Council	17441
 Superior Council of Social Communication	12201
 Superior Council of Social Declaration of Principles	12201
 Superior Counsel of Judicial Magistrates	12201
 Superior Court	11
 Superior Court of California	14392
-Superior Court of Judicature	587
+Superior Court of Judicature	587,17847,3
 Superior Courts	13504
 Superior Courts Act	11190
 Superior Courts Department. As the Commission	13504
+Superior Courts of Judicature	18477
 Superior Courts of The Gambia	16951
 Superior FP Secundaria Primaria Ninguno Hechos	16962
 Superior Force	12364
@@ -733,7 +742,7 @@ Superstructure	13341
 Supertangeni	12478
 Supervisao	15445
 Supervisar	16965
-Supervise	11131,3,1034,191,1826,352,2577,43
+Supervise	11131,3,1034,191,1826,352,2577,43,1279
 Supervise le Secrétariat	14537
 Supervised	7790,3475,1740,4432
 Supervised Experiences	8050
@@ -749,7 +758,7 @@ Supervising Minister of Cooperative Affairs	9876
 Supervising Officer	14742,3,90
 Supervising Officers	14742
 Supervising and Resident Engineers	17099
-Supervision	7,1212,874,1536,86,17,59,3036,111,340,452,292,354,673,80,108,1000,531,44,128,35,159,335,127,267,61,20,50,49,203,7,105,55,122,140,330,285,242,286,662,142,122,136,492,39,13,87,31,53,6,38,24,41,526,206,211,467,66,77,295,85,2,203,4,24,32,60,21,93,215,7,3,73
+Supervision	7,1212,874,1536,86,17,59,3036,111,340,452,292,354,673,80,108,1000,531,44,128,35,159,335,127,267,61,20,50,49,203,7,105,55,122,140,330,285,242,286,662,142,122,136,492,39,13,87,31,53,6,38,24,41,526,206,211,467,66,77,295,85,2,203,4,24,32,60,21,93,215,7,3,73,158
 Supervision Area	6938
 Supervision Consultancy Services and Project Audit	15011
 Supervision Consultants	1778
@@ -800,10 +809,12 @@ Supervisora	1701,9860
 Supervisores	11421,25,131
 Supervisores de Equipa	10777
 Supervisors	1155,4070,1713,1439,2391,828,657,2508,37,776,950,575
+Supervisors and Enumerators	18464
 Supervisory	25,7314,3799,1159,740,24,471,34,363,1094,488,208,1349,31,39
 Supervisory Activities	17235
 Supervisory Area Maps	16921
 Supervisory Area Maps and District Boundary Maps	16921
+Supervisory Areas	18464
 Supervisory Authorities	1474
 Supervisory Authority	512,509,2840,8558,642,900,473,1236
 Supervisory Authority of Insurance and Social Welfare	5921
@@ -811,7 +822,7 @@ Supervisory Board	11955
 Supervisory Board Dear Shareholders	11955
 Supervisory Body	11955
 Supervisory Capability Limitations	4848
-Supervisory Committee	5579
+Supervisory Committee	5579,12857
 Supervisory Committee for Gateway Services	4654
 Supervisory Control and Data Acquisition	7573,5773,2356,281
 Supervisory Control and Data Acquisition SNCP Stratégie	15969
@@ -833,6 +844,7 @@ Supervisão O Especialista	11441
 Supervisão da Execução	10783
 Support Digital Superhighway	7985
 Support and Supervision Unit	17870
+Supportive Supervision Visits LMIS Logistics Management	18478
 Supports the Digital Superhighway	14681
 TECHNICIEN SUPERIEUR D’AIDE CHIRURGIEN DTSAR DIPLÔME	18143
 TECHNICIEN SUPERIEUR D’AIDE CHIRURGIEN SIGLES ET	18170

@@ -49,7 +49,7 @@ ID-based KYC	7221
 IDs for KYC	12297,1641
 ITCZ KYC LPG MASFAMU MAT MINAGRIF	10763
 International Financial Centre KYC Know	14997
-Internet Exchange Point KYC Know	13312,2
+Internet Exchange Point KYC Know	13312,2,5140
 Internet KYC Connaissance	15474,1152
 Ivoire Jamaica Kiribati Kuwait Kyrgyzstan Latvia	10764
 JOSPHAT KYALO SAMMY Data Processor	7167
@@ -140,6 +140,7 @@ Kyoto Global Wins	18039
 Kyoto Protocol	17140
 Kyoto Protocol and Paris Agreement	12206
 Kyoto Revised Convention	16631
+Kyphoscoliosis	18443
 Kyrgyz Republic	10714,71,192,28
 Kyrgyz Republic Unified State Register	10714
 Kyrgyz Republic. Trop Med Infect Dis	10784
@@ -199,7 +200,7 @@ Uganda. Edwin Kyambadde	16797
 Union KPA Key Priority Area KYC	12663
 Université de Kyoto	18265
 Unlimited Kyrgyz Telekom	15471
-Victor Kyalo	10886,3124
+Victor Kyalo	10886,3124,4613,12
 Victor Kyalo. Comments	14017
 WCO Revised Kyoto Convention	13042,826,1610
 World Customs Organization’s Revised Kyoto Convention	13042

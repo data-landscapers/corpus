@@ -191,9 +191,11 @@ Cadaster	427,11962
 Cadastr	15694
 Cadastrada	11384
 Cadastrado	11384
-Cadastral	4596,7343,4977
+Cadastral	4596,7343,4977,1677
 Cadastral Agency	17127
 Cadastral Coverage	12389
+Cadastral Index Mapping Department	18465
+Cadastral Index Mapping Unit	18465
 Cadastral Information System CLCC Chief Land	11261
 Cadastral Map	14427
 Cadastral Office	13950
@@ -204,7 +206,7 @@ Cadastral Zone A00 Central Business District	12062,6124,31
 Cadastral de Angola	11408
 Cadastrale	15999,2110
 Cadastramento	10754
-Cadastre	4138,458,1077,3339,1749,115,26,34,1,61,1513,818,1159,1,1,859,26,167,40,417,176,38,105,23,240,30,872,11,343,145,1,49,62,15,215,3
+Cadastre	4138,458,1077,3339,1749,115,26,34,1,61,1513,818,1159,1,1,859,26,167,40,417,176,38,105,23,240,30,872,11,343,145,1,49,62,15,215,3,384
 Cadastre AI	12511
 Cadastre Accepted Payments	12511
 Cadastre Classification Taxation	15473
@@ -530,6 +532,7 @@ Gestão de Risco da Cadeia de Suplementos	2784
 Gouvernance CADHP Charte	18310
 Gouvernement Cadre	13341
 Gouvernement IX. CADRE LOGIQUE	13341
+Government's Mining Cadastre Administration System	18439
 Guiné-Bissau. Cada	17205
 HR Cadre	14745
 Hauts Cadres	16650

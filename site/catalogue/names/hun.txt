@@ -1,6 +1,6 @@
 A19 Hungary Iceland National Identification	10714
 Act1151 THE ONE THOUSAND ONE HUNDRED	17108
-Action Against Hunger	15160
+Action Against Hunger	15160,3583
 Action Against Hunger ACF	16411
 Airtel Nigeria Unveils Hundreds of Retail Shops	9117
 Attribution WELT HUNGER HILF Décision	998
@@ -46,6 +46,7 @@ Eighty-One Million Nine Hundred and Thirteen Thousand	12982
 Enter HungerMap Live	15248
 Five Hundred Dalasis	17437
 Five Hundred Forty-Seven Thousand	12606
+Five Hundred Million Leones	18463
 Five Hundred Million US Dollars	5903
 Five Hundred Thousand	7538
 Five Hundred Thousand Egyptian Pounds	15484
@@ -104,6 +105,7 @@ Hundred Fifty-eight Thousand Nine Hundred Fifty	17011
 Hundred Fifty-nine Thousand Four Hundred Forty-three	17011
 Hundred Hubs Across Africa URL	15460
 Hundred Million	12580,26
+Hundred Million Leones	18440,23
 Hundred Million US Dollars	5903
 Hundred Seventy Thousand	17011
 Hundred Seventy-two	17011
@@ -123,6 +125,7 @@ Hundred and Eighty-Five Thousand	3862
 Hundred and Eighty-Seven	3862
 Hundred and Eighty-Three Million	3862
 Hundred and Eleven Million	12597
+Hundred and Fifty	18576
 Hundred and Fifty Thousand Emalangeni	13178
 Hundred and Fifty United States Dollars	17334
 Hundred and Fifty-Eight Thousand	3862,8718,391
@@ -131,12 +134,14 @@ Hundred and Fifty-Four Thousand	12597
 Hundred and Fifty-Seven Million	3862
 Hundred and Forty Pula	12597
 Hundred and Forty-Four	12580
+Hundred and Four	18469
 Hundred and Four Thousand and Thirty Pula	12597
 Hundred and Fourteen	12602
 Hundred and Nineteen Million Pula	12597
 Hundred and Nineteen Thousand	12597
 Hundred and Ninety Three Million	12606
 Hundred and Ninety-Four Naira	3862
+Hundred and Ninety-five	18576
 Hundred and Seventy-Seven Million	12606
 Hundred and Seventy-Three Thousand	12597
 Hundred and Six Million	12580
@@ -224,6 +229,7 @@ Minister Hung	1962
 Minister Nguyen Manh Hung	1962
 Moving Ahead Hungary Yes National Infocommunication	11529
 Mr. Yosef Shiferaw Hundessa	12500
+National Standards and One Hundred and Fifty-six	18469
 Nguyen Manh Hung	1962
 Nine Hundred Billion	3862
 Nine Hundred and Eighty Pula	12597,9
@@ -283,7 +289,7 @@ Twenty-Seven Million and Seven Hundred and Six Thousand	12982
 US Dollars Three Hundred and Ninety Thousand	17099
 Welt Hunger Channel Master	998
 Welt Hunger Ubiquity M5 Ubiquity M5	998
-Zero Hunger	789,342,10108,919,349,455,2,1176,1104,1883
+Zero Hunger	789,342,10108,919,349,455,2,1176,1104,1883,1580
 Zero Hunger Goal	11332
 Zero Hunger Secure	12457
 Zero Hunger. Another	14758

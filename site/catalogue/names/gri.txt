@@ -11,6 +11,7 @@ Africa's Data Centre Race Is the Grid	11102
 African AI Compute Grid	6690
 Alexander Grishchenko	10764
 Algeria Smart Grid	16103
+Align Sierra Leone’s Grid Code	18537
 Alison Marie Grimsland	17870
 Alliance's Grids	13228
 Alpha Grimpeur	9731
@@ -43,7 +44,7 @@ D. I. F. Grimes	16135
 DHP Grievances and Case Management SPS	16867
 Data Protection. In S. Griller	1243
 Delayed Gridlock Resolution Initiation	12364
-Description of Grievance Mechanism	1778
+Description of Grievance Mechanism	1778,16726
 Difference Grid	11890
 District Grievance Committee	17099
 District Grievance Register	17099,15
@@ -92,7 +93,9 @@ GRIESBAUM MINISTERE DE LA JUSTICE	16100
 GRIEVANCE	11956,5143
 GRIEVANCE AND CASE MANAGEMENT	14516
 GRIEVANCE CATEGORY	17099
-GRIEVANCE MECHANISM	16926,173,15
+GRIEVANCE CHAMBER	18596
+GRIEVANCE MECHANISM	16926,173,15,1390
+GRIEVANCE MECHANISM A Grievance Mechanism	18504
 GRIEVANCE RECORDING FORM Project Reference Name	1778
 GRIEVANCE REDRESS COMMITTEE GRM	12253
 GRIEVANCE REDRESS MECHANISM	1988,10265
@@ -109,6 +112,7 @@ GRM Committee EA-RDIP Grievance Redress Committees	15055
 GRM Grievance Redress Mechanism	11965
 GRM Grievance Redress Mechanism GRS Grievance	11549,4110,2
 GRM Grievance Redress Mechanism HEA Household	17849
+GRM Grievance Redress Mechanism HIV Human	18504
 GRM Grievances	10964
 GRM Manual This Grievance Redress Mechanism	15055
 GRS Good Practice Note GTC Grievance	10964
@@ -152,7 +156,7 @@ GricoDamtPotrihnrea2yn0ek2a3or	11885
 GricoDamtPotrihnrea2yn0ek2a4or	11885
 Grid Capacity Allocation Rules	11236
 Grid Cell Reference	13298
-Grid Code	13054,1813,80
+Grid Code	13054,1813,80,3590
 Grid Code. Article	14867
 Grid Electricity Services for Households and Priority	12429
 Grid Emission Factor	11332
@@ -178,7 +182,7 @@ Grids	11016,1217,995
 Gridworx	8025
 Grieco	7731
 Grief	7759
-Grievance	1778,89,121,1616,1084,3189,1331,1555,5,118,247,23,749,348,1771,492,622,483,37,3,2,1259,4,173,15,735,356
+Grievance	1778,89,121,1616,1084,3189,1331,1555,5,118,247,23,749,348,1771,492,622,483,37,3,2,1259,4,173,15,735,356,260,39,92
 Grievance Appellate Committees	9208
 Grievance Channel for Gender-Based Violence	17114
 Grievance Channels	15055
@@ -201,11 +205,12 @@ Grievance Management Procedures Figure	17099,15
 Grievance Management Structure The Social Development	15055
 Grievance Management System	17114
 Grievance Management The GRM	17099
-Grievance Mechanism	1264,514,210,14938,173,15,1241
+Grievance Mechanism	1264,514,210,14938,173,15,1241,149
 Grievance Mechanism A Grievance Mechanism	1778
 Grievance Mechanism Apart	17099
 Grievance Mechanism Assessment	11007
 Grievance Mechanism Complaint Form	17099
+Grievance Mechanism GRC Grievance Resolution Committee	18504
 Grievance Mechanism GRM Grievance Redress Mechanism	17114
 Grievance Mechanism GoTG The Government	16926
 Grievance Mechanism Grievance Mechanism The Borrower	1988
@@ -215,15 +220,16 @@ Grievance Mechanism Procedures	16926
 Grievance Mechanism Step	17114
 Grievance Mechanism Table	17114
 Grievance Mechanism Toolkit	11007
+Grievance Mechanism. Vulnerable Groups	18504
 Grievance Mechanisms Grievance Mechanisms	1988
 Grievance Officer	11007,6092,15
 Grievance Procedure System	16985
 Grievance Procedures	11986
 Grievance Recorded	1778
 Grievance Redress	2889,9293,4418,302,197
-Grievance Redress Committees	17114
+Grievance Redress Committees	17114,1521
 Grievance Redress Management	15019
-Grievance Redress Mechanism	1264,20,583,121,1001,7774,200,892,69,296,33,82,643,12,64,278,60,400,761,357,2,143,456,3,4,35,48,57,1,2,2,119,123,239,292,524,139,15,848,339,54
+Grievance Redress Mechanism	1264,20,583,121,1001,7774,200,892,69,296,33,82,643,12,64,278,60,400,761,357,2,143,456,3,4,35,48,57,1,2,2,119,123,239,292,524,139,15,848,339,54,157,22,101
 Grievance Redress Mechanism Beneficiaries	12182
 Grievance Redress Mechanism Ensure	12253
 Grievance Redress Mechanism GPE Internally Displaced	11905
@@ -235,7 +241,7 @@ Grievance Redress Mechanism Manual	15658
 Grievance Redress Mechanism Manual Description	15658
 Grievance Redress Mechanism Members of Project GRM	12253
 Grievance Redress Mechanism Structures and Processes	12253
-Grievance Redress Mechanisms	11855,398,4846,15
+Grievance Redress Mechanisms	11855,398,4846,15,1438
 Grievance Redress Mechanisms. Ensuring	12253
 Grievance Redress Objectives	12253
 Grievance Redress Service	11525,330,50,1427,3564,203,15
@@ -261,7 +267,7 @@ Grievance and Case Management Mechanism	14516
 Grievance and Complaint Redressal	12146
 Grievance and Ethics Committee	16943
 Grievance and Redress Mechanism	18370
-Grievances	1284,420,74,1111,1799,1215,930,95,949,3087,170,90,681,60,6,3547,35,66,350,44,19,112,292,269,191,26,4,170,3,15,683,553,9
+Grievances	1284,420,74,1111,1799,1215,930,95,949,3087,170,90,681,60,6,3547,35,66,350,44,19,112,292,269,191,26,4,170,3,15,683,553,9,145,30,62
 Grievances Logged	11218
 Grievant Gender	17114
 Grievous Bodily Harm	2626
@@ -297,6 +303,7 @@ IV. GRIEVANCE REDRESS SERVICES	10829
 IV.1.1.6.4 Grille	10876
 Ideal Grip	1988
 Ideal Grip Gloves	1988
+Implementation of Grievance Mechanism	18504
 Inclusive Development GRM Grievance Redress Mechanism	1264,14357,2680
 Inclusive Development Grievance Redress Mechanism Gross	15553
 Inclusive Development HLO Grievance Redress Mechanism	3604
@@ -335,6 +342,7 @@ Mechanism GRS Grievance Redress Service HEPR	16922
 Mechanism Grievance Redress Service Global System	13331
 Mechanism HQ Grievance Redress Service IBRD	11855
 Mini Grid Development	14947
+Mini Grid Regulation	18537
 Mini Grids	12214
 Mitete Grid Development Project	13413
 Monitoring and Evaluation Grievances	15553
@@ -356,6 +364,7 @@ Number of Grievance Contractor	12253
 Number of Grievances and Grievance Contractor's Construction	12253
 Objectives of Project Grievance Mechanism	17114
 Objectives of Project Grievance Redressal Mechanism	17099
+Off Grid Power	18453
 Off Grid Solar Policy	17894
 Official Use Only Grievance Redress Mechanism	12253
 Ongoing Grievance Redress PIU	12253
@@ -364,11 +373,13 @@ PIU Grievances	13331,2187
 PNAS POS PWD Grievance Redress Mechanism	10763
 POWER GRID AND STRENGTHENING OF ENERGY	15011
 PROJECT GRIEVANCE REDRESS COMMITTEE PIU	12253
+PUBLIC GRIEVANCES ACT	18596
 Participants. Gridlock Gridlock Resolution	12364
 Partnership for Education GRM Grievance Redress Mechanism	11560
 Partnership for Education Grievance Redress Mechanism Human	16436
 Pauline Grimm	12712
 Person Raising Grievance	17099,15
+Petroleum Gas MG Mini Grid MOE	18537
 Postcode Grid	13298
 Power Grid PAPSS	14189
 Power Purchase and Grid Connection Agreement	13123
@@ -380,17 +391,23 @@ Procurement Notice GRM Grievance Redress Mechanism	15491
 Procurement Programme SAGC South African Grid	11228
 Product GoA Government of Angola GRM Grievance	10768
 Product GoR Government of Rwanda GRM Grievance	15138
+Project Grievance Appeals Committee	18504
 Project Grievance Officer	14516
 Project Grievance Redress Committee	12253
 Project Grievance Redress Mechanism	17000
 Project MIS and Quarterly Grievance Redress Mechanism	15658
 Project Management Grievances	1284,2320,9727
 Project Management and Implementation Support Grievances	16144
+Project-Level Grievance Resolution Committee	18504
 Project-level Grievance Mechanism	11417
 Project-level Grievance Resolution Committee	16926
 Project. Grievance Mechanism	16926
 Project’s Grievance Mechanism	17099
 Public Electricity Grid	17114
+Public Grievance Chamber	18596
+Public Grievances	18596
+Public Grievances Chamber	18596,1
+Public Grievances Chamber Act	18596
 Quarterly Grievance Redress GRM	15518
 READS AS A COLUMN GRID	6477
 RNP's Eduardo Grizendi	3840
@@ -412,15 +429,23 @@ SAMPLE GRIEVANCE COMPLAINT FORM	17114
 SEP and Grievance Redress Mechanism	17099
 SH and Grievance Redress Mechanism	16896,26
 SIN Grid V061	13624
+SKOOL GRIND AIDE	18487
+SKOOL GRIND SIERRA LEO	18487
 SUSP. INJ. VACCIN GRIPPAL QUADRIVALENT	15930
 Screening Grievance Category	17114
 Shares of Grid Electricity Customers	718
+Sierra Leone Grid Code	18537
+Sierra Leone Solar Mini Grid	18537
+Skool Grind	18487
+Small Shareholders' Grievance Mechanism	18556
 Smart Energy and Grid	395
 Smart Grid	11269,4444
 Smart Grids	15801
 Social Development Specialist Grievance	1778
 South African Grid Code	11228,69
 Southern Interconnected Grid	16559
+Southern Sudan Public Grievances Chamber	18596
+Southern Sudan Public Grievances Chamber Act	18596
 Startup Grind	12540
 Stephen Hartley and Julien Grivolas	236
 Strengthen Island Grid Stability Nestled	13795
@@ -434,11 +459,12 @@ Use Only Grievances	18355
 User GRM Grievance Redressal Mechanism ASSEK	14897
 V. GRIEVANCE REDRESS SERVICES	969,295,603,1737,2935,4229,196,416,37,132,11,1771,1,1578,27,554,24,3,35,68,37,1,2,1288,1352
 V. Grievance Redress Services	13743
-V. WORLD BANK GRIEVANCE REDRESS	1284,1605,9076,3173,644,201,913,26
+V. WORLD BANK GRIEVANCE REDRESS	1284,1605,9076,3173,644,201,913,26,1703
 V. WORLD BANK GRIEVANCE REDRESS Communities	16896
 Violence Government Communications Network Grievance Redress	4653
 Vobiss Gridworx Nig Ltd	3862
 WAFS Gridded Data	18128
+WAPP Regional Grid Code	18537
 WB’s Grievance Redress Service	11525,330,1476,1,3564
 Workers Grievance Mechanism	17114
 Workers' Grievance Mechanism	17099

@@ -1,6 +1,7 @@
 Accident Age Neonatal	12151
 Adverse Maternal and Neonatal Outcomes	13040
 BOP NEOs	13868
+Children Under-5 Neonatal	18441
 ENMR Early Neonatal Mortality Rate GFR	12413,2643
 Facility Neonatal Mortality Rate	4153
 Hypoxia Kidney and Neonatal Sepsis	12151
@@ -48,7 +49,7 @@ Neobanks	11994
 Neoma Africa Fund III	448
 Neoma Africa Fund III. Octotel	448
 Neomie Nina Belandrine	15901
-Neonatal	10780,49,731,591,216,46,226,1394,1023,669,1135,62,29,20,318,580,293,208
+Neonatal	10780,49,731,591,216,46,226,1394,1023,669,1135,62,29,20,318,580,293,208,71
 Neonatal Con-	12151
 Neonatal Condi-	12151
 Neonatal Deaths	12151
@@ -61,7 +62,7 @@ Neonatal Mortality Rate	4349,8018,46,2643
 Neonatal Screening Program	10188
 Neonatal Sepsis	12151
 Neonatal Tetanus	15247
-Neonatal and Child Health	17869
+Neonatal and Child Health	17869,664
 Neonatal and Childhood Illness IPC Infection Prevention	17289
 Neonates	12151
 Neonates In The Community Table	12151
@@ -74,6 +75,7 @@ Obstetric and Neonatal Care EMRS Electronic Medical	15556
 PAEDIATRIC SERVICES AND NEONATAL CARE	14773
 Portuguese Neonatal Screening Program	10188
 Program NNT Neonatal Tetanus NTDs Neglected	16971
+Region Neonatal	18441
 Registered Neonatal Deaths	12151
 Registered Proportion County County Neonatal Deaths	12151
 Row Labels AFP Measles Neonatal Tetanus	16971

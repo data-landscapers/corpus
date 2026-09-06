@@ -55,6 +55,7 @@ Conseiller Juridique	16099,76,206
 Consulta Jurídica	10753
 Contribuições Juros	11532
 County Jury Management Team	16943
+Court of Competent Jurisdiction. National Communication Act	18602
 Court of Rodrigues Jurisdiction Act. The Judicial	14742
 Criminal Jurisdiction	14720,127
 D Jurisdiction	972
@@ -113,6 +114,7 @@ Estudos Jurídico	15526
 Ethiopian Territorial Jurisdiction	13948
 Execução de Actos Jurídicos Internacionais	9799
 Expert Juridique	15670
+Extraterritorial Jurisdiction. Under Section	18667
 FISCAL ADJUNTO DE LA JURIDICCION MILITAR	4209
 FISCAL TITULAR DE JURIDICCION MILITAR	4209
 FISCALIA DE LA JURIDICCION MILITAR	4209
@@ -176,7 +178,7 @@ Jure Leskovec	18318
 Juridical	12146
 Juridicial	16855
 JuridicoAI	2816
-Juridiction	3396,9945,2154,406,2387
+Juridiction	3396,9945,2154,406,2387,169
 Juridiction des Comptes	10981
 Juridictionnelles	17972
 Juridictions	15727,908,1552
@@ -197,7 +199,7 @@ Jurisdicción Militar	4209
 Jurisdicción Militar Inspector Regional Ministerio Jefe	4209
 Jurisdicción Militar Servicio	4209
 Jurisdicción Ordinaria	16855
-Jurisdiction	26,757,189,2815,74,815,220,406,1130,148,4599,2,683,112,326,87,539,1020,461,13,298,39,1,87
+Jurisdiction	26,757,189,2815,74,815,220,406,1130,148,4599,2,683,112,326,87,539,1020,461,13,298,39,1,87,3639,70
 Jurisdiction CHAPTER	11190
 Jurisdiction Notwithstanding	14720
 Jurisdiction Over Insolvency Proceedings	12389
@@ -284,6 +286,7 @@ O2 DIRECTION JURIDIQUE Rapport Annuel	15670
 O2 DIRECTION JURIDIQUE Réception	15670
 OBJECTIVE AND JURISDICTION OF TAX AUTHORITIES	11976
 Objetivos O Regime Jurídico	11901
+Ombudsman Xclusion of Jurisdiction	18434
 Opinion Juridique	15399
 Ordenamento Jurídico Angolano. ARTIGO	539
 Ordenamento Jurídico Marítimo Nacional	15263
@@ -363,6 +366,7 @@ Régulation Juridique	10975
 Régulation Régulation Juridique Gouvernance	10975
 SECTION IV OES COMPETENCES DES JURIDICTIONS	15429
 SECÇÃO I REGIME JURÍDICO	11430
+SERVICE PROVIDERS AND JURISDICTION	18675
 SOUS-DIRECTION DES AFFAIRES JURIDIQUES	17827
 STATUT JURIDIQUE ET PRINCIPES DE FONCTIONNEMENT	17816
 SUBSTANTIVE SCOPE AND JURISDICTIONAL ARCHITECTURE	3861

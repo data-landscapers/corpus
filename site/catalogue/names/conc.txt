@@ -90,7 +90,7 @@ Banking Concentration	17236
 Banque Mondiale FOURNITURES WARDIP Conception	18007
 Basic Concepts and Principles	11007
 Basic and General Concepts and Associated Terms	16900
-Basis for Conclusion	14546
+Basis for Conclusion	14546,4115
 Beitbridge Modernisation and Concession Model	8499
 Belhar Regional Hospital Concept	11248
 Benin Kenya Uganda Conclusion	10822
@@ -99,6 +99,7 @@ Biometrics Institute Concepts and Solutions Report Synthetic	2318,6,103,20,94,25
 Birth Registration Legal Concepts Linkage	13148
 Blue Concept	11188
 Board Assessment and Strategic Conclusion	4896
+Board Concludes	18488
 Bodies IX. Conclusion	17745
 Body National Dialogue Conference Concludes Successfully	14160
 Box A. Key Concepts and Definitions Data	4214
@@ -202,7 +203,7 @@ CONCLUDING	1938
 CONCLUDING OBSERVATIONS AND RECOMMENDATIONS	14150
 CONCLUDING REMARKS	10861,4383,1984
 CONCLUDING REMARKS African	10861
-CONCLUSION	737,221,40,11,239,691,1,2186,333,389,397,432,2926,1,1066,1042,50,18,95,3,87,15,216,15,20,31,288,180,260,368,2,84,153,9,317,18,112,248,9,71,37,86,28,153,844,44,49,101,25,24,160,523,5,19,14,87,3,12,44,40,6,61,190,25,65,302,293,12,114,179,44,1,134,9,24,1,228,111,364,28,11,50,84,85,18,3
+CONCLUSION	737,221,40,11,239,691,1,2186,333,389,397,432,2926,1,1066,1042,50,18,95,3,87,15,216,15,20,31,288,180,260,368,2,84,153,9,317,18,112,248,9,71,37,86,28,153,844,44,49,101,25,24,160,523,5,19,14,87,3,12,44,40,6,61,190,25,65,302,293,12,114,179,44,1,134,9,24,1,228,111,364,28,11,50,84,85,18,3,325,37,141
 CONCLUSION AND RECOMMENDATIONS	15063,2086
 CONCLUSION AND RECOMMENDATIONS CONCLUSIONS Despite	17285
 CONCLUSION ANNEXE Préambule Aux XIX	15455
@@ -248,6 +249,7 @@ CONCLUSION The National FinTech Strategy	12444
 CONCLUSION The OGP	18305
 CONCLUSION The Republic of Ghana	4126
 CONCLUSION The SADC EMIS Norms and Standards	13310
+CONCLUSION The Sierra Leone National Innovation	18446
 CONCLUSION The Sudan MPI	15244
 CONCLUSION These Public Service ICT Data	12360
 CONCLUSION This ICT	16872
@@ -264,7 +266,7 @@ CONCLUSIONDU CONTRAT ELECTRONIQUE	17829
 CONCLUSIONS	236,976,31,11688,4011,185,133,636,72
 CONCLUSIONS AND FURTHER AREAS OF RESEARCH	12445
 CONCLUSIONS AND FUTURE OUTLOOK	14985
-CONCLUSIONS AND RECOMMENDATIONS	2518,11367,3242
+CONCLUSIONS AND RECOMMENDATIONS	2518,11367,3242,1316,169
 CONCLUSIONS AND RECOMMENDATIONS The Ministry of Post	17114
 CONCLUSIONS AND WAYS FORWARD	16902
 CONCLUSIONS CROSS-CUTTING PRIORITIES AND A WAY	16942
@@ -302,12 +304,15 @@ CONTRATOS Y MERCADOS DEL ESTADO- Concepto	4209
 COOPERACIÓN INTERNACIONAL Y DIÁSPORA Cuentas CONCEPTO	4209
 COORP. LOC.- Concepto	4209
 COORP. Y LENGUAS EXTRANJ.- Concepto.-	4209
+CRITICAL AREAS OF CONCERN	18624
 CRP.5 VIII. Conclusions	3583
 CUERPO BOMBEROS.- Concepto	4209
 CUERPO DE ADUANAS.- Concepto	4209
+Cabinet Conclusions The Minister of Information and Civic	18582
 Cadre Conceptuel	18306
 Cadre National de Concertation	16621
 Cadre de Concertation	15458,2708
+Calabash Newspaper NCRA Concludes Final	18519
 Cameroun. Concernant	15542
 Cases Concluded	13053
 Centro Conclusão	11569
@@ -319,6 +324,7 @@ ChatGLM. Concrètement	3465
 Chers Concitoyennes	16732
 Citing Sovereignty Concerns	5163
 Civil Engineering Concrete	14736
+Civil Society and Rights Concerns Despite	18655
 Climate and Labor Concerns	5418
 Cláudia Conceição	12968
 Combined-Cycle Gas Turbines CSP Concentrated Solar	11228
@@ -382,7 +388,7 @@ Concentrix CVG Malaysia Sdn. Bhd Data	7167
 Concentrix Egypt Teleperformance General Manager Africa	11162
 Concep1t0o	4209
 Concepción	4209
-Concept	1865,252,607,853,3089,989,3485,846,413,54,888,38,1478,153,119,282,1703,209,1,621,385
+Concept	1865,252,607,853,3089,989,3485,846,413,54,888,38,1478,153,119,282,1703,209,1,621,385,251
 Concept Dans	17945
 Concept Drift	16212
 Concept Environment and Social Review Summary	1988
@@ -390,13 +396,14 @@ Concept L’accès	17945
 Concept L’emploi	17945
 Concept L’inflation	17945
 Concept NGO	18330
-Concept Note	1154,4444,5221,321,5460,370
+Concept Note	1154,4444,5221,321,5460,370,1530,161
 Concept Note PDO Project Development Objectives	17114
 Concept Note SCALA	17101
 Concept Note and Budget Preparation	17116
 Concept Note and Detailed Budget	17116
 Concept Note and Programme	12174
 Concept Note and Project Proposal	13015
+Concept Note and Terms of Reference	18500,77
 Concept Note for Zimbabwe's National Research Policy	1554
 Concept Note. Page	10819
 Concept Paper	13960
@@ -405,9 +412,9 @@ Concept Review	12980,3634
 Concept Review Decision	12426,243
 Concept Review Decision Review Authorize Negotiations	16436
 Concept Selon	17945
-Concept Stage	1193,11233,243,442,412,1990,37,743,382
+Concept Stage	1193,11233,243,442,412,1990,37,743,382,1781
 Concept Stage Date Prepared	14015,1082
-Concept Stage URL	15550
+Concept Stage URL	15550,2906
 Concept TBS	18014
 Concept Un	17945
 Concept and Role for UHC. Geneva	10829
@@ -453,7 +460,7 @@ Conceptual Al-Amin	9129
 Conceptual Data-Information Model	14441
 Conceptual Data-Information Model Figure	14441
 Conceptual Foundations The Framework	11138
-Conceptual Framework	1814,11506,3796
+Conceptual Framework	1814,11506,3796,1338
 Conceptual Framework Access	17127
 Conceptual Framework Confidence	17127
 Conceptual Framework Endorsement	17127
@@ -491,7 +498,7 @@ Concern	1828,855,275,5524
 Concern Environmental Prevention	1988
 Concern PPE Personal Protective Equipment PSC	1988
 Concern WorldWide	12181
-Concern Worldwide	15160
+Concern Worldwide	15160,3505
 Concern Worldwide Data Controller INST-21596411DEC NAIROBI	7167
 Concernant	12,725,11,439,79,1076,397,24,282,351,403,329,255,168,262,1511,635,51,227,60,35,560,24,420,398,38,115,4,240,43,1,1204,16,77,74,280,49,90,10,176,793,1356,25,35,30,43,9,40,29,163,105,11,19,616,54,12,58,49,239,553,84,26,7,5,30,38,15,4,72,2,38,9,2,35,94,3,82,25,4,120,45,119,128,43,200,7,17,64,293,468,23,6,33,299,14,22,19,9,4,47,36,2,31,42,6,38,1,17,51,2,67,12,5,31,5,6,25,2
 Concernant la Bibliothèque	17842
@@ -507,6 +514,7 @@ Concernant le Sénégal	16421
 Concerne	13300
 Concerned	9660,5733,1624,82
 Concerned Medics Foundation	7895
+Concerned Ministry	18593
 Concernent	15908
 Concernente	12785
 Concerniente	16906
@@ -566,7 +574,7 @@ Concession de Transport Modification	15670
 Concession du Titre de Basilique Mineure	13405
 Concession-	18322
 Concession. Installations	16612
-Concessional	107,5,44,1,3,2,4,55,1,1,1,3,3,7,70,3,2,2,7,88,3,4,9,1,110,7,9,14,11,6,167,4,2,1,6,1,8,1,11,3,1,2,169,12,3,5,2,6,5,1,3,1,6,20,1,166,7,2,2,15,61,3,10,288,6,186,1,128,148,202,3113,1303,8282,50,2212,51,610
+Concessional	107,5,44,1,3,2,4,55,1,1,1,3,3,7,70,3,2,2,7,88,3,4,9,1,110,7,9,14,11,6,167,4,2,1,6,1,8,1,11,3,1,2,169,12,3,5,2,6,5,1,3,1,6,20,1,166,7,2,2,15,61,3,10,288,6,186,1,128,148,202,3113,1303,8282,50,2212,51,610,630
 Concessional Financing	13756,239,917,785,1239
 Concessional Financing and Incentives	12399
 Concessional Loan	106,85,47,62,19,155,3,103,1,415,1256,1,1527,2885,7022,144,2156,448,220,114,122,462,645
@@ -586,6 +594,7 @@ Concessionnaires ERD	18322
 Concessionnaires de LONA	13500
 Concessionnels	15399
 Concessions	10975,5024,613,231,1479
+Concessions Act Cap	18465
 Concessions Commission	17037
 Concessions Commission Act	16843
 Concessions Concessions	16853
@@ -625,12 +634,14 @@ Concilier	8515,6034
 Concise	8130
 Conclave	16649,591
 Conclave of Chiefs of Armies of African Nations	18016
+Conclaves	18691
 Conclit	15399
 Conclu	13524,3205,709,30
 Concluant	6600,2332,7701
 Conclude	11246,709,1098,3958
 Concluded	906,10292,3579,2194,286,181
-Concluding	2096,1668,201,364,384,650,188,1492,62,331,315,382,441,503,1331,321,64,291,1956,4,637,330,138,1,355,246,1380,1165,813
+Concludes Final National Validation of Draft Civil	18519
+Concluding	2096,1668,201,364,384,650,188,1492,62,331,315,382,441,503,1331,321,64,291,1956,4,637,330,138,1,355,246,1380,1165,813,393,53
 Concluding Comments	7869
 Concluding Observations	6951,1534,4555,1109,625,65
 Concluding Observations and Recommendations	8485,4555,1109,593
@@ -648,7 +659,7 @@ Concluiu	10777
 Concluiu-se	15956
 Conclure	13290,491
 Conclure Cambridge Education	16628
-Conclusion	25,371,23,328,19,8,125,59,51,210,42,18,154,121,125,265,41,108,183,200,301,171,103,106,234,5,2,243,150,19,317,39,93,173,10,121,20,93,58,106,66,336,4,1,281,10,12,24,101,1,3,1,100,83,48,475,11,18,6,21,25,4,29,190,100,2,1,98,56,295,1,23,12,173,44,236,28,30,1,96,35,100,1,108,153,18,369,458,1,108,162,360,129,140,34,184,77,403,38,16,4,37,1,12,31,9,27,39,35,2,2,13,36,4,18,80,1,3,1,13,8,27,8,1,1,66,26,25,90,150,13,179,79,86,2,18,13,18,19,26,107,28,13,31,5,6,3,31,6,8,1,4,47,4,30,6,2,23,8,13,4,28,2,120,1,129,11,261,24,11,67,16,17,10,42,41,132,6,11,1,1,18,17,26,7,8,35,88,19,149,160,97,84,101,14,220,67,125,125,55,18,34,116,67,70,30,59,6,71,87,55,27,102,3,79,15,31,80,36,5,4,17,99,67,1,104,51,42,107,116,64,153,202,129,51,23,13,12,174,111,279,197,37,7,50,43,220,10,15,3,48,135,14
+Conclusion	25,371,23,328,19,8,125,59,51,210,42,18,154,121,125,265,41,108,183,200,301,171,103,106,234,5,2,243,150,19,317,39,93,173,10,121,20,93,58,106,66,336,4,1,281,10,12,24,101,1,3,1,100,83,48,475,11,18,6,21,25,4,29,190,100,2,1,98,56,295,1,23,12,173,44,236,28,30,1,96,35,100,1,108,153,18,369,458,1,108,162,360,129,140,34,184,77,403,38,16,4,37,1,12,31,9,27,39,35,2,2,13,36,4,18,80,1,3,1,13,8,27,8,1,1,66,26,25,90,150,13,179,79,86,2,18,13,18,19,26,107,28,13,31,5,6,3,31,6,8,1,4,47,4,30,6,2,23,8,13,4,28,2,120,1,129,11,261,24,11,67,16,17,10,42,41,132,6,11,1,1,18,17,26,7,8,35,88,19,149,160,97,84,101,14,220,67,125,125,55,18,34,116,67,70,30,59,6,71,87,55,27,102,3,79,15,31,80,36,5,4,17,99,67,1,104,51,42,107,116,64,153,202,129,51,23,13,12,174,111,279,197,37,7,50,43,220,10,15,3,48,135,14,136,33,44,26,55,1,3,45
 Conclusion AI-driven	11140
 Conclusion Acknowledgements References Appendix	7759
 Conclusion Adopting ICT	12327
@@ -737,6 +748,7 @@ Conclusion The Harmonized Regulatory Framework	5676
 Conclusion The KIX-SEEDS Annual General Meeting	15765
 Conclusion The Liberia Annual Agriculture Survey	17043
 Conclusion The NRPSP Committee	1554
+Conclusion The Nigeria	18523
 Conclusion The Republic of Congo	11907
 Conclusion The Somalia LCRS	15129
 Conclusion The Zimbabwe National AI Strategy	13649
@@ -768,7 +780,8 @@ Conclusion. L’interopérabilité	9177
 Conclusion. Overall	17962
 Conclusion48 Recommendations	12227
 Conclusiones	16974
-Conclusions	236,529,447,612,1977,3031,1604,1180,353,912,38,960,146,230,74,271,57,278,43,335,77,35,673,342,32,194,189,68,297,191,107,62,749,810,1,508,95,84
+Conclusions	236,529,447,612,1977,3031,1604,1180,353,912,38,960,146,230,74,271,57,278,43,335,77,35,673,342,32,194,189,68,297,191,107,62,749,810,1,508,95,84,616,121,56,82
+Conclusions Budgetary	18478
 Conclusions Conclusion	16105
 Conclusions Conclusions	14098
 Conclusions Following IDI	17743
@@ -777,7 +790,7 @@ Conclusions PHC	771
 Conclusions The Women’s Empowerment and Nutrition	17127
 Conclusions and General Observations	14867
 Conclusions and Lessons Learnt	236,17053
-Conclusions and Recommendations	1824,10182,972,2649
+Conclusions and Recommendations	1824,10182,972,2649,2993
 Conclusions and Recommendations Please	15627
 Conclusions and Way Forward	15164
 Conclusions and Way Forward Somalia	15164
@@ -799,6 +812,7 @@ Concomitantly	961,15653,260
 Concord	11155
 Concord Times	3895,5785,1971
 Concorda	16262
+Concordance	18697
 Concordaram	11564
 Concorde	18227
 Concorde Co-operative Savings and Credit Society Limited	7167
@@ -832,6 +846,7 @@ Concrete AST EX AIR AFRIQUE	16552
 Concrete AST MIL	16552
 Concrete GNQ	3963
 Concrete Masonry Unit RS ASTM C1426-14	15027
+Concrete Next Steps	18531
 Concrete PPP	2702
 Concrete Pipes	13385
 Concrete Résistance	16552
@@ -842,7 +857,7 @@ Concrete TWY	17006
 Concrete TWY C2	17006
 Concrete TWY D	17006
 Concrete-encased	9123
-Concretely	4976,175,1,2299,3401,2926,4540
+Concretely	4976,175,1,2299,3401,2926,4540,130
 Concretizado	11565
 Concretizar	15532
 Concrètement	556,9,1913,217,965,566,38,158,317,63,67,185,304,54,293,14,230,96,39,157,256,70,53,207,547,16,112,388,809,254,224,341,78,434,830,648,225,341,2422,1000,316,5,270,26,201,10,122,8,1044,799,28
@@ -895,7 +910,7 @@ Credit Concentration	17235,1
 Cuentas CONCEPTO	4209
 Cuentas CONCEPTO PROM. EMPRES. EXTERIOR PROVINCIAL	4209
 Cyber Concerns	9027
-D. Concept Description	12426,685,2402,1162
+D. Concept Description	12426,685,2402,1162,1781
 D. Concept Description A US	12137
 D. Concept Description The Project Development	15097
 D. No Country of Concern	5773
@@ -1018,6 +1033,7 @@ Data and National Security Concerns African	6226
 Date Participants Topics Discussed Conclusions	16926
 De la Conciliation Article	37
 Debt and Welfare Impacts of Concurrent Natural Disasters	1828
+Decisions and Concerted Practices Relating	18555
 Definitions and Concepts	2958
 Definitive Concession Order	10930
 Demand Concentration	16266
@@ -1062,6 +1078,7 @@ ESTADO MAYOR MAYOR REG. INSULAR.- Concepto	4209
 ET CONCESSIONS Article	16612
 EU Council Conclusions	970
 EXECUTIVE SUMMARY Conclusion	13095
+EXPANDING HEALTH SERVICES COVERAGE AMID CONCURRENT	18668
 EXPERT CONCERNS Development	6211
 El Hadji Malick SY de Tivaouane. Concernant	18412
 Electricité Conclusion L'année	10975
@@ -1114,6 +1131,7 @@ GP Training The Public Procurement and Concessions	17304
 GRAL. DESERVICIOS.- Concepto	4209
 Gabon. Conclu	16423
 Gambian Standard for Processed Tomato Concentrate	16900
+Gender Concern	18512
 Gestão Concedendo Licença	16290
 Ghana Kenya Uganda Conclusion	10822
 Ghana Kenya Uganda Conclusion Ghana	10822
@@ -1205,6 +1223,7 @@ J. Conclusion	13624
 JURISDIC.MILITAR.- Concepto	4209
 Jour Ouvré Concerné	15901
 Jour Ouvré Concerné. Dans	15901
+KEY CONCEPTS USED IN THE E-NSDSII	18475
 KEY DATES Concept Review	13742
 KEY TAKEAWAYS CONCLUSION ACKNOWLEDGEMENT WHITE PAPER	6936
 Kenya Kenya Uganda Conclusion Kenya	10822
@@ -1218,6 +1237,7 @@ Kenya Uganda Conclusion Reimagining	10822
 Key Concept	15085
 Key Concept3	15085
 Key Concepts	11265
+Key Concerns	18461
 Key Concerns Regarding AI	12210
 Key Concerns and Policy Considerations	1243
 Klipfontein Hospital Concept	11248
@@ -1295,6 +1315,7 @@ Mining Concessions	16848
 Mining Concessions Guideline	16848
 Minister Concerned	14850
 Minister Manuel Gomes da Conc	9399
+MoICE Concludes Final National Validation	18514
 Mobile Price Benchmarking Conclusion	1013
 Modalidades de Concessão	11430
 Model Conceptual EIF Governance Service Public	17097
@@ -1307,6 +1328,7 @@ Muslim Rights Concern	4426
 Mº DEFENSA NACIONAL Cuentas CONCEPTO	4209
 Mº SEGURIDAD NACIONAL Cuentas CONCEPTO	4209
 NANT LE RECRUTEMENT ET LES CONCOURS	17812
+NCRA Concludes Final National Validation of Draft	18519
 NDT Concrete. The CEL	14736
 NHDC Ltd. Fully Concrete Housing	14835
 NICA DE CONCESSÃO DE DIREITOS FUNDIÁRIOS	11384,24
@@ -1354,6 +1376,7 @@ Organe Stratégiquede Concertation	18100
 Ouest CER Concessions	18316
 Ouest Note Conceptuelle Réunion	17324
 Ouest. Concernant	998
+Overview of Gender Concerns	18512
 Oxford University Press. Concord	11155
 PACIFICO- Concepto	4209
 PERSONNE CONCERNEE Article	17440
@@ -1393,7 +1416,7 @@ Perceived Risks and Concerns	17099
 Personne Concernée	15901
 Personne Concernée la Subvention	15901
 Personnes Concernées	15901
-Persons of Concern	1988,10157
+Persons of Concern	1988,10157,6397
 Plataforma de Concertação Técnica Regiões	11587,5447,291,87
 PoC Proof of Concept PPP Public-Private Partnership	4126
 Porto Novo. No Concelho de Ribeira Grande	15755
@@ -1470,6 +1493,7 @@ Raising Transparency Concerns	9399
 Real National Security Concerns	1243
 Reasons for Not Having Concluded Performance Agreements	11218
 Recommendations Concrete	14752
+Recommendations and Conclusion	18624
 Recommendations and Conclusions	6426
 Recovered Total Loss Amount Conclusion	17362
 Recueil Des Concepts	17945
@@ -1481,6 +1505,7 @@ Regulations Concerning Licensing	16878
 Regulatory Support and Concessions	17260
 Relations Concours Petites ANPE Cabinet de Démarches	737
 Relecture du Règlement de Conciliation Dans	10975
+Remembering Concentrating Accepting Change Controlling	18441
 Renrboursement Concernant	15399
 Requirements Concerning Offering of Securities	3714
 Rescisão da Concessão	11430
@@ -1573,6 +1598,7 @@ Summarised Conclusion	12435
 Summary Conclusions	12257
 Summary and Conclusion	11552
 Summary of Recommendations and Conclusion	12182
+Support Persons of Concern and Host Communities	18542
 Sustainable Development PCN Project Concept Note	11863
 Sutherland Egypt Concentrix Egypt President Amr	11162
 Systems Project Conceptual	12395

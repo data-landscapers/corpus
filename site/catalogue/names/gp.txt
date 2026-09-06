@@ -38,6 +38,7 @@ Diagram Number Property Description GP Number	12511
 Did the GPE	11916
 Domestic Product GPO Global Professional Organization	15023
 Domestic Product GPS Global Positioning System	16867
+E GP Payroll and Human Resources	18488
 EDGE and GPRS	1284
 EMIS A GPE KIX-funded	17185
 ERP Enterprise Resource Planning GPPA Gambia	16923
@@ -65,11 +66,13 @@ GNU Government of National Unity GPSSBC General	11261
 GOS Gross Operating Surplus GPRS Ghana	236
 GP 202106 035	12025
 GP Clinic	9088
+GP Contract	18577
 GP Ekurhuleni MM	11986
 GP Ekurhuleni MM Bertha Gxowa	11986
 GP Ekurhuleni MM Edenvale Hospital	11986
 GP Ekurhuleni MM Pelonomi Hospital	11986
 GP Electronic Government Procurement EPR Extended	15621
+GP Electronic Government Procurement EU SBTA	18577
 GP Guaranty Trust Bank Liberia Limited	17235
 GP IBV	16552
 GP IDA	14897
@@ -78,11 +81,12 @@ GP Johannesburg MM Far East Rand	11986
 GP Johannesburg MM Pholosong Hospital	11986
 GP July-2025	3015
 GP Madagascar	14498
+GP Modules	18562
 GP Phase II	1389
 GP Sedibeng DM Benoni	11986
 GP Specialist EAERU Tasneem Rais Team	1284
 GP Strategy	1284
-GP System	9088,3418
+GP System	9088,3418,5994
 GP System Bid Security Type	13621
 GP System Disaster Recovery Site	13548
 GP System and Enhanced Transparency of Public Procurement	16949
@@ -98,6 +102,7 @@ GP West Rand DM Dr Yusuf	11986
 GP West Rand DM Leratong Hospital	11986
 GP-4 ICT	15164
 GP-EWS	14947
+GP. Approved	18488
 GP. DLI	12176
 GP. The Project	16949
 GP138A	12151
@@ -117,6 +122,8 @@ GPC Sous-lieutenants	15744
 GPC. Ces	16037
 GPCA Octotel 2024December19.pdf	448
 GPD DELIVERY COMPONENTS	11129
+GPD THE NATIONAL CIVIL REGISTRATION ACT	18440
+GPD THE NATIONAL TELECOMMUNICATIONS	18445
 GPE Board	11352,553,2,9,1433,2312,27,55
 GPE COVID	17958
 GPE DRC Compact	11916
@@ -128,8 +135,9 @@ GPE Global Partnership for Education	14916
 GPE Global Partnership for Education HEI Higher	12975
 GPE Government	11905
 GPE Grant Agreement	15661
-GPE KIX	1947,4101,6132,16,151,698,2720,195,1061
+GPE KIX	1947,4101,6132,16,151,698,2720,195,1061,1663,1
 GPE KIX Africa	12196,1433
+GPE KIX Focal Point for South Sudan	18684,1
 GPE KIX and Norad	1017,942
 GPE KIX-funded	15765
 GPE KIX-funded Data Use Innovations	16911
@@ -143,7 +151,7 @@ GPE Partner	17196
 GPE Partnership Compact	16436
 GPE Program	16436
 GPE Quality Assurance Review for Zimbabwe Phase	13310
-GPE Secretariat	11916
+GPE Secretariat	11916,6648
 GPE Secretariat Country Team Lead	11916
 GPE System Capacity Grant	14000
 GPE System Transformation Grant	14000
@@ -277,6 +285,7 @@ Gov GPT	3465
 Government of Egypt GPE Global Partnership for Education	15604
 Government of Malawi GPE	12175
 Gpacitd	14479
+Gpddrive	18440,5
 Gpipheeracratiolohcmidises.epsApageeyrafrefibeoelcemdti	15399
 Greenhouse Gas GPE Global Partnership for Education	15661
 Grievance Redress Mechanism GPE Internally Displaced	11905
@@ -371,5 +380,6 @@ Used GPCA	448
 Utilizing the GPE System Capacity Grant	12175
 WAEMU GPI	11581
 WHO’s GPW14	15725
+WLAN and GPS Technology	18444
 Whereas the GPAI Code of Practice	11050
 World Bank’s GPN	10964

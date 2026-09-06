@@ -15,6 +15,7 @@ Asie Europe Océanie ACI TV Accueil	16092,1,37,97,148,111,41
 Assistant Minister for TVET	17070
 Authorised TV Stations	2776
 Authority SMS Short Message Service TV	2776
+Authorized TV Stations Direct-To-Home Bouquet	18444
 B.5 Provide TV	15604
 Bamba TV	6946
 Baragoi TVET	8569
@@ -72,6 +73,7 @@ EU TV M	9123
 Education Management and Policy Support TVET Technical	13310
 Employment for TVET	14896
 Engineering and Mathematics TVET	6832
+Engineering and Mathematics TVET Technical	18454
 Enhance TVET	14922
 Enhances the TVET	12934
 Eswatini TV	11134,1261,576,6
@@ -112,6 +114,7 @@ Health Expenditure TVET Technical and Vocational Education	12923
 Higher Education and TVET	13991
 Higher Education and TVETs	13991
 Huri Tv	7297
+ICT and TVET	18606
 ID TV3	13301
 IPRC-Kigali and Coordinator of Rwanda TVET Trainer Institute	718
 ITWeb TV	595,4580,663,2123,630,190,1130,7789
@@ -119,6 +122,7 @@ Improve TVET	14922
 Inooro TV	17755
 Installed TV	12971
 Integrated Digital TV	13301
+Integrating ICT and TVET	18606
 Interactive Digital TV	14965
 Internet Protocol TV	15372
 JCF97NzzsI Citizen TV Kenya	899
@@ -184,9 +188,10 @@ Paid TV	14836
 Paradise TV	16926
 Parliament TV	12987
 Pay TV	718,2058,4114,2891,1430,3925
+Pay TV Direct To-Home Bouquet	18444
 Pay TV Direct-	2776
 Pay TV Direct- To-Home Bouquet	2776
-Pay TV Direct-To-Home Bouquet	236
+Pay TV Direct-To-Home Bouquet	236,18208
 Pay TV Operators	6890,8246
 Pay TV Platforms	718
 Pay Tv	2776
@@ -196,6 +201,7 @@ Per Channels TV	2658
 Pre-Vocational and TVET	16852
 Presence SABC TV	8999
 President Filipe Nyusi. On Sucesso TV	12201
+Primary Schools Elements of ICT and TVET	18606
 Prime TV	11691,2586
 Pro Media TV Liberia’s Facebook Post	17037
 Promotion of TVET	503
@@ -236,13 +242,18 @@ Service Commission TV Television TVC Technical	2775
 Smart Rwanda Master Plan TVET	14915
 Smart TV	14836
 Smart TV Computer	14836
+Smart TVs	18515
 Somcable TV	14984
 South African TVET	6832
+South Sudan TVET Ecosystem	18650
+South Sudan's National TVET Ad Hoc	18650
+South Sudan's TVET	18650
 State-controlled TV	15342
 Stations Pay TV Subscriptions Industry Reports	9109
 Strategic Plan for TVET Transformation	789
 Strengthen TVET	14922
 Strengthen the TVET	14922
+Strengthened TVET	18458
 Sucesso TV	12201
 Sudanese Radio and TV Corporation	14853
 Sustainable Development Goals T TV	14879,1993
@@ -254,6 +265,7 @@ TTOs Technology Transfer Office TVET Technical	14747
 TV A	18332
 TV Access	6946
 TV BRICS	12069
+TV Broadcasting Stations	18444
 TV Cabo	7381,2759
 TV Cabo Comunicações Multimédia	7381
 TV Cabo Moçambique	7381
@@ -338,6 +350,7 @@ TVET Modernisation DHET	6832
 TVET Private Sector. for AI-enabled	4126
 TVET Programmes	13998
 TVET Providers and Participation Around	13358
+TVET Schools and Centres	18606
 TVET Sector	12934
 TVET Startup Kits	12412
 TVET Strategy	1814,12236
@@ -347,6 +360,7 @@ TVET Technical Vocational Education	16861
 TVET Technical Vocational Education and Training UN	1814
 TVET Technical and Vocational Education and Training TVETA	7548
 TVET Technical and Vocational Education and Training UAT	11261
+TVET Technical and Vocational Education and Training UN	18512
 TVET Technical and Vocational Education and Training UNAM	12399
 TVET Trainers	2775
 TVET Transformation and Expansion Strategy	12934
@@ -392,18 +406,21 @@ Teaching Service Commission TVET Technical and Vocational	16852
 Technical and Vocational Education and Training TVET	16942
 Technology TRB Telecommunications Regulatory Board TVET	15447
 Telephone Bearer Microwave Link TV Bearer	736
+Television Stations TV	18485
 Television TVWS	14879
 Threats TVET Technical and Vocational Education and Training	4126
 Through Eswatini TV	12977
 ToC Theory of Change TVET Technical and Vocational	15604
 Trade-Related Aspects of Intellectual Property Rights TVET	11250
 Training TVETA Technical Vocational Education and Training	2775
+Transceiver for Smart TV	18444
 Transition of EBIS and Eswatini TV	12971
 Trend of Pay TV	15136
 Tv Decoder	12383
 Tversity	11779
 Tversky	7886
 Tvt Description	15129
+Type Approval Authorizations TV	18485
 Type of Television Service Authorised TV Stations	2776
 Télécommunication Extérieure TVA	13377
 UNESCO ICT Training for TVET	14897

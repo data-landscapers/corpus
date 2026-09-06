@@ -15,7 +15,9 @@ Culture MGECW Ministry of Gender Equality and Child	12923
 Customs Mgmt Information System I-8	10785
 DPSE GIZ IEC INSTAT MGP MID	14425
 DU MGP	16104
+Director General of Social Welfare MGCSW	18611
 Dirham MGA	14683
+E Monitoring and Evaluation MGCSW Ministry of Gender	18624
 ECONET INFRACO PRELISTING CIRCULAR Mr Mgqibelo	4896
 Edéa. Mgr Andrew Nkea	6575
 Enfant MGP Mécanisme de Gestion des Plaintes MSHP	15746
@@ -38,6 +40,7 @@ Integrated Financial Mgmt. Improved	1284
 Jebena MG	12255
 Khomba-so and Mgidzangcunu	12977
 Kilo Pascal MGP	18118
+Labour and Social Security MGGA	18485
 Le MGP	15908
 Le MGP-T	15908
 Liberia Telecommunications Corporation MGSP	16975
@@ -50,6 +53,8 @@ MG Emis	14498
 MG FINANCING AGREEMENT AGREEMENT	14430
 MG Financing Agreement	14430
 MG P	15746
+MG Regulation	18537
+MG Regulations	18537
 MG&page	14576
 MGBMA MAGBMA	16898
 MGC Office Park Corner Pope John	10060
@@ -58,7 +63,8 @@ MGCCS	14516
 MGCGÏD	15999
 MGCSP	5244,11706,10,329
 MGCSP Ministry of Gender	17289
-MGCSW	12980
+MGCSW	12980,5631,13,1,13
+MGCSW Ministry of Gender	18625
 MGDH-Birth	12207
 MGDH-births	12186
 MGDR-2016-01-02-03 Law Society of South Africa	7278
@@ -95,6 +101,7 @@ MGP-T Principe Description Confidentialité	15908
 MGP. Elles	15908
 MGP. Nombre	15908
 MGSCP	16960
+MGSCW	18626
 MGnV2NuO	7857
 Mauritius Examinations Syndicate MGI	14775
 Medical Mgt	2477
@@ -135,6 +142,7 @@ Opérationnalisation du MGP	15908
 PIC BANK OF BOTSWANA Mbongeni Mguni	8164
 PPL MG	1885
 Participation Adapter le MGP	15908
+Petroleum Gas MG Mini Grid MOE	18537
 Pop Mgmt	6429
 Project Mgmt	12917
 Public Investment Mgmt System I-14	10785

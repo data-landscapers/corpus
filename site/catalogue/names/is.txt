@@ -87,6 +87,7 @@ Alcatraz and Tristao Islands Marine Protected Areas	1264
 Alexandria Ismailia Monufia Faiyum New Valley	15578
 Algérienne NA ISO	15555
 All LIS Lab Technical Issues	34
+All MNOs and ISPs	18485
 Alpha Issiagha Barry	9933
 Amadou Issoufou	18180
 Amb Isaac Ochieng	4631
@@ -344,6 +345,7 @@ Criminal Record and Issuance	10775
 Cristina Isabel Lopes da Silva Monteiro Duarte	15380,11,1
 Cross Cutting Issues	16944
 Cross- Cutting Issues	17985
+Cross-Cutting Issue	18485
 Cross-Cutting Issues Across	16942
 Currency Inconvertibility. Issued	1541
 Customer ISPs	14864
@@ -377,6 +379,7 @@ DEVELOPMENT AND TECHNOLOGICAL INNOVATION Issue	14947
 DFS. Isku-xirnaan	9583
 DIG Mohammed Ishaku	10049
 DISABILITY AS A HUMAN RIGHTS ISSUE	13033
+DISASTER RISK Issues	18476
 DNCQF.POL05 Issue No	12574
 DOCUMENTAI RE ISO	16103
 DOCUMENTAI RE Révision ISO	16103
@@ -389,7 +392,7 @@ Data Element Specification ISO	12360
 Data Hub. The ISM	15019
 Date Issued Licensee No Reference	16978
 Date and Policy Issues	14897
-Date of Issue	13068,239,1751,542
+Date of Issue	13068,239,1751,542,2975
 Dawit Isaak	14073,41
 Dealers and ISPs	1872
 Death Certificate Issuing Authority	14045
@@ -436,6 +439,7 @@ Dr. Isa Ali Ibrahim Pantami	11857
 Dr. Isaiah Gwitira	1554
 Dr. Isaias Barreto da Rosa	9755
 Dr. Isaias Barreto da Rosa Représentant	3269
+Dr. Isata Mahoi	18474,78
 Dr. Ishaku Musa	15297
 Dr. Issa Doubragne	556
 Dr. Y Ismael	14736
@@ -520,6 +524,7 @@ Elsevier. ISBN	12297
 Emerging Issue	6832
 Emerging Issues	13359
 Emerging Issues and Future Directions	14464
+Empalme San Isidro Road Rehabilitation Project	18561
 Employment Service Board ISMS	12961
 Encourage ISPs	1000
 Endorsement of ISO	13385
@@ -536,6 +541,7 @@ Environmental Issues	11250
 Environmental Issues and Natural Resources ARTICLE	14409
 Environmental Issues and Natural Resources The Partner	14409
 Environmental Management. ISO	15149
+Equity Issue	18512
 Eritrea Estonia Eswatini Ethiopia Falkland Islands	11470
 Eritrean President Isaias Afwerki	14102
 Establishment of ISEP	86
@@ -623,6 +629,8 @@ GBVF. Issues	11986
 GDP. Island	2561
 GDS1 Issued	8166
 GENDER AND OTHER CROSS-CUTTING ISSUES ENVIRONMENT	14935
+GENDER EQUITY ISSUE PLUS UNDERLINING CAUSES	18512
+GEOSPATIAL PRIORITIZATION SURVEY ECONOMY Issues	18476
 GIN. Primary ISO3	652
 GIT IFRS for SMEs ISAs LPG MNRE	12969
 GITEX Ai Türkiye Istanbul	2521,659,249,939,974,1524,210,294
@@ -643,7 +651,9 @@ Garde des Sceaux FONCTIONNEMENT ISHAKIRO TABLE	14862
 Gazetta. Extra Ordinary Issue No	12188
 Gazette. Issuing	11176
 Gen Abdullahi Sheikh Ismail	5045
+Gender Issues	18512
 Gender Issues Gender	13420
+Gender and Children’s Issues	18477
 Gender and Family Issues	12977
 General Assembly of ISA	18220
 Geographical Coverage of Terminals ISLANDS OF CV	11955
@@ -684,6 +694,7 @@ HEREBY ISSUES THE FOLLOWING REGULATION	15081
 HEREBY ISSUES THE NATIONAL RADIOFREQUENCY PLAN	7850
 HG HR INS ISF MINDDEVEL MINJUSTICE	15599
 HIc Israel Asia Western Asia Tel	10840
+HOUSING Issues	18476
 HS Harcèlement Sexuel IST Infection Sexuellement	15746
 HVAC IFRS IMF IR ISO	11134
 HYGIMED BIO OSTEO ISO	16103
@@ -871,7 +882,7 @@ ISI&linkSource	5349
 ISIA Instituto Superior Internacional de Angola MAPTSS	11390
 ISIC Codes Activity	236
 ISIC International Standard Industrial Classification	16955
-ISIC Rev	10862,3953,17,4,249
+ISIC Rev	10862,3953,17,4,249,3398
 ISIC Rev.4	12445,2640
 ISIC Revision	236
 ISIC and HS	236
@@ -949,6 +960,7 @@ ISO EN13606	1009
 ISO Guide	16843
 ISO ISO	16103
 ISO International Organization Standardization LCR Liquidity	15023
+ISO International Standards Organization ISSV Integrated	18478
 ISO Online	15555
 ISO Organisation	15715
 ISO Policy Development Committees	14736
@@ -1007,13 +1019,14 @@ ISOC Madagascar	14428
 ISOC Madagascar Chapter	14428
 ISOC Mali	17856
 ISOC Network Operator	16545
-ISOC Pulse	6542,4928,3340
+ISOC Pulse	6542,4928,3340,3823
 ISOC Pulse HubSIX Senegal City Dakar	18420
 ISOC Pulse IXP	6967
 ISOC Pulse IXP Tracker	11470
 ISOC Pulse URL	14070,740,2704
 ISOC Rwanda	8343
 ISOC Rwanda. Mfitumukiza	9760
+ISOC SSC	18667
 ISOC Sénégal	18407
 ISOC Togo	6505
 ISOC-Togo	2812
@@ -1029,6 +1042,7 @@ ISORA	1828,11120,676
 ISORA and TADAT	12948
 ISORESHA RY’IBINTU NA SERIVISI BITANGIRWA KURI	15177
 ISOTRETINOINE CAPS	15930
+ISOlution	18469
 ISO’s Land Cover Meta Language	15129
 ISP Authorisation	3386
 ISP CITADELLE INSTITUT SUPERIEUR PRIVE ISPF-FISUP	18170
@@ -1047,6 +1061,7 @@ ISP Point of Presence	2913
 ISP STAFF COMPOSITION	3862
 ISP Savanna Fibre	6604
 ISP Service Classifications. No. ISP Service	3386
+ISP Services Through	18748
 ISP Starlink	3506
 ISP Subscriber Rankings	6749
 ISP TransAfrica Communications	10380
@@ -1089,7 +1104,7 @@ ISR Implementation Status and Results Report ITU	15511
 ISR Implementation Status and Results Report MCNHRP	16952
 ISR Implementation Status and Results Report MPTNTC	15372
 ISR RATINGS No. Date ISR Archived	17962
-ISR Seq	764,1006,483,459,8158,1095,6,17,240,39,173,1480,1060,51,128,578,342,915,85,825,54
+ISR Seq	764,1006,483,459,8158,1095,6,17,240,39,173,1480,1060,51,128,578,342,915,85,825,54,576
 ISR Seq.09	18133
 ISR Sequence	13840,4009
 ISR's Disbursements	16891
@@ -1109,6 +1124,8 @@ ISR03510 Implementing Agencies	15737
 ISR03691 Implementing Agencies	12228
 ISR03987	993,1847
 ISR04555 Public Disclosure Authorized	16994
+ISR04585	18534
+ISR04585 URL	18534
 ISR04606	17000
 ISR04842	17470
 ISR04996	11988
@@ -1150,6 +1167,8 @@ ISR07996 Implementing Agencies	6579
 ISR08373	2253
 ISR08373 Implementing Agencies	7877
 ISR32974 Implementing Agencies	13970
+ISR56407	18473
+ISR56407 URL	18473
 ISR57867	15619
 ISR58521	552,779
 ISR58748	16638
@@ -1169,9 +1188,9 @@ ISS Today	7359
 ISSA B ERY	17828
 ISSA Laylay Alfaytouri AbdulSalam Baddah	17403
 ISSA Maman-Sani	13938
-ISSAI	14546,27
+ISSAI	14546,27,4088
 ISSAI and ISQM	17364
-ISSAIs	3051,10369,1126
+ISSAIs	3051,10369,1126,4115
 ISSANGA BOUTHANA	15524
 ISSANGOU	15744
 ISSAP	11529
@@ -1200,7 +1219,7 @@ ISSU144	14997
 ISSU145	14997
 ISSUANCE OF BIOMETRIC ID CARDS	11706
 ISSUDED BY PARLIAMENTARY COMMUNICATION SERVICES	11232
-ISSUE	8674,3947,273,524,3746
+ISSUE	8674,3947,273,524,3746,1331
 ISSUE AND REPAYMENT OF DEBT INSTRUMENTS	10793
 ISSUE BRIEF	15960
 ISSUE PAGE EDITORIAL TEAM	13044,64
@@ -1256,6 +1275,7 @@ ISTLP	775
 ISTQB Advanced Level	5665
 ISTQB Expert Level	5665
 ISTQB Foundation Level	5665
+ISTQB. Retrieved	18470
 ISTinaD	15139
 ISUTIC	13,2808
 ISVIN V	15999
@@ -1278,6 +1298,7 @@ Identity Issue	12227
 Ikigo ISTEEBU	13303
 Ikigo ISTEEBU. Pour	13303
 Ikigo ISŒEBU	13303
+Illustration of Key Pillars and Cross-Cutting Issues	18485
 Impact Issue Potential Impact Proposed Mitigation	17114
 Impacts and Mitigation Measures Impact Issue Potential	17114
 Impalila Island and Kasika Border Posts	12984
@@ -1335,6 +1356,7 @@ Interim Poverty Reduction Strategy Paper ISIC-3	14857
 Internal Rate of Return ISR Implementation	17849
 Internal Security Minister Abdullahi Sh. Ismail	3408
 International Development Association ISR Implementation	2889
+International Gateway Monitoring System ISP	18485
 International ISO Certifications	15120
 International Labour Organization’s ISCO-08	16266
 International Monetary Fund BURUNDI SELECTED ISSUES	13624
@@ -1342,6 +1364,7 @@ International Organization Islamic Republic of Mauritania	17880
 International Standard IS0	11179
 International Standard ISO	13068
 Internet FSU Fonds de Service Universel ISOC	15592
+Internet Service Providers ISP	18485
 Internet and ISPs	8025
 Internet of Things ISM	14879
 Invite ISPs	13313
@@ -1353,8 +1376,11 @@ Ireland Isle of Man Israel Italy Jamaica	11470
 Ireland Israel Kazakhstan Lithuania Malta Mexico	10764
 Irewole and Isokan. Opening of Pool	10049
 Is-se	6692
+IsDB Board Members	18533
+IsDB Board of Executive Directors Approves US	18533
 IsDB Islamic Development Bank ITU International	13731
 IsDB Member Countries	17432
+IsDB President	18533
 IsDB The Islamic Development Bank	17432
 IsDB URL	17432
 IsDB and Djibouti	382
@@ -1428,6 +1454,7 @@ Isac A. YAÏ Cotonou	3105
 Isac YAI	2451,172,12,157,123,184,6,143,155,187,97,1182,337,325,15,172,50,128,325,79,299,145,6,363
 Isaga	14859
 Isaiah	12956
+Isaiah Hakim Garang	18666
 Isaiah Steinberg	15248
 Isaiah Steinberg Participants	9786
 Isaias Barreto da Rosa	16560
@@ -1605,7 +1632,7 @@ Islamic Cooperation OMVG Gambia River Organization	17105
 Islamic Council	3046
 Islamic Courts Union	16787
 Islamic Cultural Centre	14742,105
-Islamic Development Bank	238,715,175,1088,1502,780,1330,2522,594,2036,330,159,103,555,1741,4130,55,13,243
+Islamic Development Bank	238,715,175,1088,1502,780,1330,2522,594,2036,330,159,103,555,1741,4130,55,13,243,224
 Islamic Development Bank Group	17105
 Islamic Development Bank Institute	8778,166
 Islamic Development Bank and Japan International Cooperation	15372
@@ -1660,7 +1687,7 @@ Islamiyya School Primary School	11857
 Islamiyya School The Nigerian National Broadband	11857
 Islamiyyah Adekanbi	8288
 Islamo-Chrétienne-Mali	17899
-Island	3460,635,7034,734,1179,1403,297,31
+Island	3460,635,7034,734,1179,1403,297,31,3799
 Island Chief Executive of Rodrigues	14714,1
 Island Container Terminal Project	14829
 Island Developing States SMP Single Movement	16631
@@ -1680,9 +1707,10 @@ Island-wide	11133,3596
 Island. The Ministry	17105
 Islande	6613,1912,9766
 Islanded	12233
+Islander Kabia	18520,6
 Islandia HALLSTEINSDÓTTIR	6613
 Islandia SÍVERTSEN	6613
-Islands	11129,1876,4240
+Islands	11129,1876,4240,1219
 Islands Albania Algeria American Samoa Andorra	11470
 Islands Central African Republic Chad Chile	11470
 Islands Colombia Comoros Congo Cook Islands	11470
@@ -1810,6 +1838,7 @@ Israel’s Netanyahu	3405
 Israélienne	16249
 Israël	6613,3919,4942,380
 Israël. Lesquelles	7263
+Issa A Abdulai	18513
 Issa Abdul-Jabbar Suuri Maiga	17631
 Issa B SANOGO	17882
 Issa BOUARE	18061
@@ -1867,13 +1896,14 @@ Issoufou Ganou. Il	6889
 Issouka	6889
 Issouka. Il	6889
 Issouphou SAWADOGO	8321
-Issuance	736,26,258,505,832,2278,1392,5104,3,47,676,98,21,10,61,104,13,203,6,10,6,107,128,24,18,6,82,80,96,75,66,327,161,1295,26,25,3,3,569,39,59,105,222,939,7,33,94,179,1136,61
+Issuance	736,26,258,505,832,2278,1392,5104,3,47,676,98,21,10,61,104,13,203,6,10,6,107,128,24,18,6,82,80,96,75,66,327,161,1295,26,25,3,3,569,39,59,105,222,939,7,33,94,179,1136,61,96
 Issuance Area	14778
 Issuance Platform Virtual Asset Broker Virtual	10738
 Issuance Premiums	11955
 Issuance The General Directorate for Civil Registration	14905
 Issuance and Management of Loans	5883
 Issuance of Automated Tracking License Process Description	15283
+Issuance of Budget Call Circular The BCC	18488
 Issuance of Business License	14891
 Issuance of Company Certificate of Incorporation	14891
 Issuance of Data Center and Cloud Computing Services	15282
@@ -1893,10 +1923,11 @@ Issuance of National Identification Number	12338
 Issuance of National Identity Cards	12227
 Issuance of Official Documents	1382
 Issuance of Securitised Deeds	13398
+Issuance of Tax Compliance Certificate	18608
 Issuance of Treasury Securities	17209
 Issuance. STRATEGIC OUTCOME Improved	13005
 Issuances	14997
-Issue	1,586,131,18,225,287,11,383,17,157,12,35,261,652,40,189,709,147,987,48,217,134,102,202,222,253,406,400,38,66,330,272,10,473,5,899,811,421,665,157,101,51,3,6,192,228,54,247,45,279,42,101,36,46,43,71,1,10,12,165,59,127,28,52,90,181,47,1,11,13,77,20,53,6,147,344,56,111,280,186,33,83,10,1,87,3,129,18,32,69,63,363,61,51,171,185,23,60,789,15,20,80,49,112,49,78,132,27,64,912
+Issue	1,586,131,18,225,287,11,383,17,157,12,35,261,652,40,189,709,147,987,48,217,134,102,202,222,253,406,400,38,66,330,272,10,473,5,899,811,421,665,157,101,51,3,6,192,228,54,247,45,279,42,101,36,46,43,71,1,10,12,165,59,127,28,52,90,181,47,1,11,13,77,20,53,6,147,344,56,111,280,186,33,83,10,1,87,3,129,18,32,69,63,363,61,51,171,185,23,60,789,15,20,80,49,112,49,78,132,27,64,912,186
 Issue AI Governance Standards for Financial Services	11138
 Issue AI-specific	6886
 Issue Across Uganda	15960
@@ -1914,18 +1945,21 @@ Issue Licenses	15484
 Issue Licenses and Permits	15484
 Issue Licenses for More Satellite Operators	3773
 Issue Monitoring Operating Model Metadata	15034
+Issue Nationality	18598
 Issue No	13477,1359,96,206
 Issue No. MD08-2025	3651
 Issue No.3-2023	16949
 Issue Online	5349
 Issue Permits and Certifications	15484
 Issue Regulation and Directive	12146,80
+Issue Regulations	18602
 Issue Regulations and Directives	13951,73
 Issue Remedial	15372
 Issue Risk	11401
 Issue SOB	12759
 Issue Skills	9786
 Issue Vol	12467
+Issue Voucher SARA Service Availability and Readiness	18478
 Issue and Revision Record Revision Date Originator	16628
 Issue du Fonds	7865
 Issue of Certificat de Gage	14761
@@ -1945,7 +1979,7 @@ Issued Shares	4896
 Issued for Construction	11134
 Issuer	7198,170,1302
 Issuers	8477,2261,4106,153
-Issues	236,239,486,1135,530,51,328,46,462,614,986,109,311,345,255,805,235,849,332,769,5,611,1083,54,131,129,46,312,55,11,367,135,164,1,43,58,31,17,94,840,77,74,163,329,38,107,34,23,279,424,30,44,15,533,38,723,631,79,9,404,3,323,122,226,179,153,4
+Issues	236,239,486,1135,530,51,328,46,462,614,986,109,311,345,255,805,235,849,332,769,5,611,1083,54,131,129,46,312,55,11,367,135,164,1,43,58,31,17,94,840,77,74,163,329,38,107,34,23,279,424,30,44,15,533,38,723,631,79,9,404,3,323,122,226,179,153,4,84,11,7,24
 Issues Evidence	15411
 Issues Output Outcome	6946
 Issues Paper for Consultation	14434
@@ -1961,15 +1995,20 @@ Issues for Consultation	6748
 Issues of Water Security	15604
 Issues. Section	13323
 Issues. Sector	15372
-Issuing	2578,686,450,1134,2087,3,2461,1413,29,223,112,14,1,7,788,187,154,33,5,24,240,330,10,492,652,778,106,289,107,80,739,627,4,8
-Issuing Authority	9880,4165
+Issuing	2578,686,450,1134,2087,3,2461,1413,29,223,112,14,1,7,788,187,154,33,5,24,240,330,10,492,652,778,106,289,107,80,739,627,4,8,1589,25
+Issuing Authorities and Members	18595
+Issuing Authority	9880,4165,4550
 Issuing Authority Personnel Title	14045
 Issuing Authority Personnel Title. Registration Criteria	14045
+Issuing Authority. Additional Requirements for Nationality	18595
+Issuing Authority. Investigation	18595
 Issuing Certificate of Civil Registration	12226
 Issuing Directive and Regulation	7538
 Issuing Internal Regulations	15393
 Issuing Letters	9437
 Issuing NRA	14883
+Issuing Nationality Certificates	18595
+Issuing Naturalization Certificates	18595
 Issuing Procurement	11134
 Issuing Switch	16878
 Issuing of FLEGT	16843
@@ -2038,7 +2077,7 @@ Justice ISP Internet Service Provider RNP	1000
 Justice RÉPUBLIQUE ISLAMIQUE DE MAURITANIE Janvier	17972
 K REPORT OF FOREIGN PRIVATE ISSUER	8939
 K3 ISP	16876
-KEY ISSUES	2712,1976,1891,349,949,2993,525,576,17,240,39,173,587,31,801,51,6,1,3,136,924,37,14,128,576,2,276,66,626,289,6,79,17,374,35,399,54,48,127,217,4,1
+KEY ISSUES	2712,1976,1891,349,949,2993,525,576,17,240,39,173,587,31,801,51,6,1,3,136,924,37,14,128,576,2,276,66,626,289,6,79,17,374,35,399,54,48,127,217,4,1,179
 KEY MANAGEMENT AND ISSUANCE OF SUBSCRIBER	13071
 KIMBEMBE ISSANGA	16177
 KORANABUHANGA TABLE DES MATIÈRES ISHAKIRO TABLE	14911
@@ -2046,6 +2085,8 @@ Kafr El Sheikh Damietta Ismailia Alexandria	15578
 Kenya Legal and Ethical Issues Network	8479
 Kenya National Bureau of Statistics ISBN	2775
 Key Issues	12724,327,1707,109
+Key Issues Risks Mitigation Strategies Political	18531
+Key Issues for SSS Streams	18461
 Khan S. and Isingoma M	13314
 Khartoum. Major ISPs	1887
 Khomo Director Financial Markets Isabel Made	11131
@@ -2066,6 +2107,7 @@ LA RÉPUBLIQUE ISLAMIQUE DE MAURITANIE Décembre	17894
 LABOPTIC Révision NA ISO	16103
 LAN ISP	3163
 LAND AND RIGHT OF WAY Issue	14947
+LAND GOVERNANCE ISSUES AND CHALLENGES	18619
 LCTP NOUVEAU THEM ISO	16103
 LFB DGSN NA ISO	16103
 LIMALIA Ismael Manager	14770
@@ -2093,6 +2135,7 @@ Least Developed Countries and Small Island Developing	6318,7294,140
 Lebanon and Israel	5941
 Legal and Administrative Issues	12151,521,2384
 Legal and Administrative Issues Rwanda	12413,2643
+Legal and Governance Issues	18531
 Leticia Isabel Alogo Edu Programme Associate	17101
 Liability and Resolution of Issues	11995
 Liberia Telecommunications Authority. ISSUED	16850
@@ -2108,6 +2151,7 @@ Limkokwing University and Ba Isago University	12638
 List of Development Issues	15796
 List of Issues	14149,1
 List of Prioritised Issues CHAPTER FOUR	15796
+Load GIS Geographic Information System ISO	18531
 Local ISP	2913
 Local ISP Core Network	2913
 Local ISP Network Operation Centre	2913
@@ -2165,7 +2209,9 @@ MIGA Issued Projects.csv	88
 MILLION TO THE ISLAMIC REPUBLIC	17849
 MISS and ISO	6432
 MNO and ISPs	13331
-MNOs and ISPs	16975
+MNOs and ISP	18485
+MNOs and ISPs	16975,1510
+MNOs and ISPs. Critical	18485
 MRI Returns Amendment Issue	14533
 MRU and Islamic	17909
 MRU for Islamic	17909
@@ -2226,6 +2272,7 @@ Methods for Issuing	762
 MetroFibre ISP Customer Zwide Promotion	11259
 MetroFibre Pay-As-You-Go ISP Customer Launch Promotion	11259
 Milima Security’s ISO	4832
+Minimum Issued Share Capital	18556
 Minister for ISA	18220
 Minister for Rodrigues and Outer Islands	7845,6908
 Minister for Rodrigues and Outer Islands Hon	14841
@@ -2252,6 +2299,7 @@ Mohamed Lemine Ould Salihi REPUBLIQUE ISLAMIQUE	17902
 Mohammed Isa	3018
 Mombasa Island Blocks XVI	3374
 Mombasa Island Blocks XVI and XVII	3374
+Monetary Policy Issues	18500
 Monsieur A. Cheick Isaac BAGUIAN	15942
 Monsieur Blaise Gilbert Isaac KISSEZOUNON	16485
 Monsieur ISMAÏL OMAR GUELLEH	4402,9484,22
@@ -2270,6 +2318,7 @@ Monsieur Issiaka M. NIAMBELE	17830
 Monsieur Issifou DADA DOKO	17584
 Monsieur Modibo Issa TRAORE Coordinateur	17841
 Monsieur Moussa Issa DAOU	8237
+Moro Isaac Jenensio	18666
 Moses Ismail	5116
 Moulay Ismail University	5360
 Moulaye Ismaël ASCOFARE Secrétaire	17982
@@ -2346,6 +2395,7 @@ No. Audit Issues	14546
 No. CSR Project Issue Identified Mulani	14546
 No. Date ISR Archived DO Rating	11924,3677,2261
 No. Issue	11525
+No. of Authorized ISP Total No	18444
 No. of Instruments Calibrated Calibration Reports Issued	14736
 Norma ISO IEC	11381
 Norme ISO	15936
@@ -2511,6 +2561,7 @@ President Issoufou Mahamadou and Acting Minister of Foreign	18220
 President Issoufou Mahamadou and Prime Minister Brigi	18220
 President of Djibouti Ismaïl Omar Guelleh	183
 Pretoria ISBN	396
+Primary ISPs	18485
 Prince Ismael	15524
 Principal Secretary. Mr Isaboke	6946
 Print ISSN	10840
@@ -2536,6 +2587,8 @@ Provider ISPA Inter-agency Social Protection Assessments	17870
 Providers Actionable Issue	16872
 Président Ismail Omar Guelleh Le Président	13912
 Président Ismaïl Omar Guelleh	13928
+Public Domestic Debt Issues	18500
+Public External Debt Issues	18500
 Public Safety Issues	17260
 QUALILAB Algérie Télécom P NA ISO	16103
 QUALITY MANAGEMENT SYSTEMS CERTIFICATION ISO	13068
@@ -2626,6 +2679,7 @@ Return ISP Internet Service Provider ITU	6539
 Reunion Island	14721,115
 Revision Of Zimbabwe's Agro-Ecological Zones. ISBN	520
 Revive Historic Providence Island	10644
+Rights ISP Internet Service Provider	18454
 Rims RS ISO	15027
 Risk Category Latest ISR Rating Current	1284,15612,26
 Risk Dimension Key Issues Water Availability	17157
@@ -2682,7 +2736,9 @@ S.E.M. Ismail Omar Guelleh	13841
 S.E.M. Ismaël NABÉ	16713
 S.E.M. Ismaïl Omar Guelleh	1287
 S001 and ISO	4301
+SAFETY AND SECURITY Issues	18476
 SAICSIT. ISSN	8603,1,1
+SALE OF ISO STANDARDS ISO	18469
 SALEH Le Ministre des Finances Isselmou OULD	17886
 SANTE ENVIRONNEMENTALE ISSPT TANSA INSTITUT SUPERIEUR	18170
 SARB's Arif Ismail	8492
@@ -2737,6 +2793,7 @@ Santé Publique IST Information Scientifique	12
 Satellite IDA IDH ITU ISABU ISO	13290
 Saudi and Israeli	1741
 Savana Islamic Microfinance	10965
+Says Infrastructure Will End Decades of Isolation	18501
 Schema Isomorphism Conflicts	12360
 Scholars’ Press. ISBN-13	11310
 Sciences Islamiques Ministère	17895
@@ -2759,6 +2816,7 @@ Senator Isaac Magagula	10466
 Senior Environment Specialist Isabelle Bautista	15905
 Seraj Islamic Bank	5943
 Service Issues	16884
+Service Total No. of ISP	18444
 ServiceDeliveryZA Issued	11215,67
 ServicedeliveryZA Issued	11278,3
 Set Issuance Targets	12882
@@ -2824,6 +2882,7 @@ Sonko James Monibah Joanne Bruce Isatou	16973
 Sotavento Islands	11874
 South Africa. ISBN	1009
 South Korea and Israel	14752
+South Sudan. Issues	18702
 Special Issue	4676,6480,1146,206
 Special Issue Advances	12667
 Special Issue Energy Poverty	12178
@@ -2865,6 +2924,7 @@ Such ISO	10721
 Sudan Dr. Emad Ismail	15100
 Suisse ISBN	17856
 Summary ISO	1009
+Summary Statistics for Authorized ISPs	18444
 Summary of Audit Opinion Opinion Issued Number	13420
 Summary of Cyber Threat Advisories Issued	6946
 Summary of Portfolio Costs The ISAP	17116
@@ -2909,6 +2969,7 @@ Technology Ishika and Mittal	9128
 Technopole Numérique. Aticki Ahmed Ismael	13811
 Telecel and ISPs	17870
 Telecom ISP Internet Service Provider ISR	17862
+Telecom and ISP	18649
 Telecommunication Operators and ISPs	17099
 Telecommunication Operators and ISPs Suggest	17114
 Telecommunications ISPs	16872
@@ -2937,6 +2998,7 @@ Training Empowers Meteorologists By Mikaïla Issa	13062
 Treasury Bonds Issuance. Target	11131,3
 Turkey's ISASS	11133
 Turkmenistan Turks and Caicos Islands Tuvalu Uganda	11470
+Turtle and Sherbro Islands	18475
 Type IS-1 IS-2 Recommandation Création	17856
 Type IS-3 IS-4 RE-1 RE-2 Recommandation	17856
 U BANQUE ISLAMIQUE DE GUINEE BIG	16623
@@ -2994,13 +3056,14 @@ Victoria Island	3414,166,843,178,611,662,1305,77,188,3685,852,5775,374
 Victoria Island. Managing	3477
 Vie Bénin FECECAM-Bénin Isocel Télécom-Bénin FECECAM-Bénin	10821
 Ville de Zinder Elhadji Issoufou Mahamane	18150
-Virgin Islands	11470
+Virgin Islands	11470,7258
 Virtual Asset Service Providers and Issuers of Initial	14844
 Visi Perezida. Ishobora	15027
 Vocabulary RS ISO	15027
 Volume XII Issue XV	12508
 W3C and ISO	14756
 WAAJIBKA IS-DIIWAAN-GELINTA	14930
+WASTE MANAGEMENT Issues	18476
 WB ISR06425	4379
 WOMEN WITH THE ISSUANCE OF ECOWAS	17221
 WQ4 UO ISgN Aq	16857

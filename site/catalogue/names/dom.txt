@@ -33,6 +33,7 @@ Agence Nationale des Domaines	15583
 Agence Nationale du Domaine	5531,5345,4706
 Agentes Registradores de Nombres de Dominio	16855
 Aggregate Readiness Patterns Across Domains57	15164
+Alfred Angasi Dominic	18637
 All Domestic Items	16935
 Alliance Burkinabè des Domaines Internet	9509
 Allocation of Special Drawing Rights Domestic	11131,3
@@ -60,6 +61,7 @@ B- Domestic Peering Framework B2-	7548
 BERNARD DOMINIC MBURU Data Processor INST-620964D36F7	7167
 Backbone GDP Gross Domestic Product GSM	11857
 Bahamas and Dominica	9786
+Baseline Target Domestic Revenue Mobilisation	18458
 Betty Pamela Wabunoha Resident Representative Domingos	17101
 Between NGFS Ambitions and Domestic Mandates	13532
 Board GDP Gross Domestic Product GIS	16935
@@ -265,7 +267,7 @@ DomR GH GH	11527
 DomR GH HGLWDLV UHODWLYRV DRV	11527
 DomRGDVFRPLVV	11527
 DomRGRVUHIXJLDGRVFRQWHPSODGRVQDVFOiX	11530
-Domain	1284,2320,2654,165,116,407,3902,92,978,442,1058,1746,176,32,181,538,793,134
+Domain	1284,2320,2654,165,116,407,3902,92,978,442,1058,1746,176,32,181,538,793,134,1615
 Domain Attacks	17746
 Domain Benefit Information	16924
 Domain Compromise	3364
@@ -295,6 +297,7 @@ Domain-Wise Implementation Status and Improvement Road Map	1824
 Domain-based Message Authentication	13037,1404
 Domain75	15164
 DomainKeys Identified Mail	13037
+DomainTools	18633
 Domainde	18077
 Domaine	643,588,1245,1662,2751,3987,26,945,1478,65,1060,38,1,1,1006,4,12,17,13,13,157,12,212,111,320,178,136,1131,32,161,89,230
 Domaine Actions Clés Ressources Humaines Développement	14622
@@ -338,19 +341,20 @@ Domaines Standards	17882
 Domaines Stratégie	17882
 Domaines de Sécurité	15472
 Domaines. Ce	18332
-Domains	3713,977,8772,1702,1786,920
+Domains	3713,977,8772,1702,1786,920,763
 Domains Names	15340
 Domanial	16611
 Domaniales	13723
 Domar	11140
 Domest. F U N C	4209
 Domest. Respons. Repres. Annual Bruto	4209
-Domestic	3,233,482,243,52,230,42,56,436,51,80,154,713,86,722,230,177,270,125,547,270,45,40,368,216,41,1,87,21,6,28,266,87,538,500,249,185,1012,231,586,187,654,213,30,63,52,61,47,114,1,3,2,160,60,114,80,334,1,10,12,9,39,45,81,78,1,44,1,5,23,20,3,6,89,4,21,20,87,4,13,422,34,97,69,190,2,35,8,28,483,117,23,151,276,86,25,12,165,21,75,60,17,26,54,9,1,11,61,44,34,12,57,32,210,33,11,170,52,499,48,204,241,138,10,10,37,66,6,3,21,15,93,1,34,54,23,3,16,13,4,64,1,47,57,82,366,240
+Domestic	3,233,482,243,52,230,42,56,436,51,80,154,713,86,722,230,177,270,125,547,270,45,40,368,216,41,1,87,21,6,28,266,87,538,500,249,185,1012,231,586,187,654,213,30,63,52,61,47,114,1,3,2,160,60,114,80,334,1,10,12,9,39,45,81,78,1,44,1,5,23,20,3,6,89,4,21,20,87,4,13,422,34,97,69,190,2,35,8,28,483,117,23,151,276,86,25,12,165,21,75,60,17,26,54,9,1,11,61,44,34,12,57,32,210,33,11,170,52,499,48,204,241,138,10,10,37,66,6,3,21,15,93,1,34,54,23,3,16,13,4,64,1,47,57,82,366,240,334,45
 Domestic AI	15713
 Domestic Abuse Bill	14742
 Domestic Adoption Services	12188
 Domestic Capital	7446
 Domestic Capital Markets	17260
+Domestic Condition Of Persons With Disability	18443
 Domestic Connectivity	16883
 Domestic Connectivity Network Access Providers	14723
 Domestic Consumption Sources	1828
@@ -454,7 +458,7 @@ Domestic Mobile Mobile	2776
 Domestic Mobile Off-Net Voice Traffic	2776
 Domestic Mobile SMS Traffic	16043
 Domestic Mobile Traffic	6671
-Domestic Mobile Voice Traffic	2776
+Domestic Mobile Voice Traffic	2776,15668
 Domestic Mobile Voice and SMS	6671
 Domestic Mobile Voice and SMS Traffic	6671
 Domestic Mobile Voice and SMS Traffic Safaricom	6671
@@ -514,6 +518,7 @@ Domestic Savings	14997
 Domestic Scheme	14997
 Domestic Small Commercial	12256
 Domestic Small Commercial Street	12256
+Domestic Staff	18541
 Domestic Strengthen	14997
 Domestic Switch	11134
 Domestic Systemically Important Banks	15023
@@ -522,7 +527,7 @@ Domestic Tax	13053
 Domestic Tax Audits Domestic	13053
 Domestic Tax Department EAC East African	14985
 Domestic Tax Revenue	12951
-Domestic Tax Revenue Division	16254
+Domestic Tax Revenue Division	16254,2454
 Domestic Taxes	12392,661
 Domestic Taxes Cases	13053
 Domestic Taxes Department	13044
@@ -533,6 +538,7 @@ Domestic Taxes Tax Revenues	13053
 Domestic Taxes. Government	13060
 Domestic Tourism	13474
 Domestic Trade and Intellectual Property	14008
+Domestic Traffic Figure	18444
 Domestic Travel	15060
 Domestic Trend	6408
 Domestic VAT	1828
@@ -547,6 +553,8 @@ Domestic and Foreign	6408
 Domestic and Foreign Portfolio Investment	6408
 Domestic and Foreign Portfolio Investment Report	6408
 Domestic and International	12399
+Domestic and International SMS Count	18444
+Domestic and International Voice	18444
 Domestic and WTO Hierarchy of Customs Valuation Ghana	11036
 Domestic-Resource-Mobilization-Strategy-2018-2022.pdf	16949
 Domestic-state	1285,1,509,1328,1,84,1176,1,2704
@@ -559,7 +567,7 @@ Domestiqu	737
 Domestique	737
 Domfresnel Holder	15744
 Domiat	15473
-Domicile	12338,4298
+Domicile	12338,4298,1962
 Domicile Address	12146
 Domicile of Conservator	14713
 Domiciled Canada. Crosswalk	943
@@ -580,6 +588,7 @@ Dominant	236,6598,408,465,276,3173,407,813,559,423,174,3303
 Dominant American	5257
 Dominant Contributor	15244
 Dominant Mobile	17239
+Dominant Operator	18602
 Dominant Organization	15149
 Dominant Service Providers	16835
 Dominant and State Drivers of Deprivation	15244
@@ -620,7 +629,7 @@ Dominican Certificate Administration System	10714
 Dominican Rep	15471
 Dominican Rep. AMS UMI	17743
 Dominican Rep. Kyrgyz Republic Kazakhstan Ecuador	11563
-Dominican Republic	6318,295,350,2841,960,21,350,474,355,984,713,1810,2731
+Dominican Republic	6318,295,350,2841,960,21,350,474,355,984,713,1810,2731,475
 Dominican Republic DOM Ongoing Institutional Strategic	13082
 Dominican Republic Niger Uzbekistan Ecuador Nigeria	11005
 Dominican Republic Through the America First Global	18202
@@ -753,7 +762,7 @@ G. Domestic Tax Arrears	12500
 GBV Gender-Based Violence GDP Gross Domestic	1988,8780,4370
 GDP Domestic	12205
 GDP Financing Agreement GNI Gross Domestic	11855
-GDP Gross Domestic Product	11965,821
+GDP Gross Domestic Product	11965,821,5828
 GDP Gross Domestic Product GDUPD General	15473
 GDP Gross Domestic Product GEF Global	7548
 GDP Gross Domestic Product GEI Global	17870
@@ -771,6 +780,7 @@ GESTÃO DE NOMES DE DOMÍNIO	11531
 GHG Gender-Based Violence GIZ Gross Domestic	10964
 GOVERNMENT DOMESTIC ARREARS IN THE REPUBLIC	1828
 GRA’s Domestic Tax Revenue Division	10419
+GROSS DOMESTIC PRODUCT	18483
 GROSS DOMESTIC PRODUCT GROWTH GDP	17101
 GT HC Foreign Exchange Gross Domestic	11134
 Gabriel Domingos	12814
@@ -795,6 +805,7 @@ Global Trends Shaping Domestic Priorities Nigeria	4848
 Gouvernance Ce Domaine	15500
 Gouvernementales. Domaines	17827
 Government Development Index Gross Domestic Product	15480
+Government Domestic	18532
 Government Domestic Arrears	1828
 Government Second-Level Domain	4690
 Governments A- Minimum Domestic Hosting Year	7548
@@ -802,7 +813,8 @@ Grants Domestic	1828
 Green Climate Fund GDP Gross Domestic	11549
 Gross Domestic	2775
 Gross Domestic Expenditure	2775,9601
-Gross Domestic Product	236,337,367,423,625,787,641,167,279,1587,876,122,27,65,339,68,746,1343,119,98,617,935,52,124,154,35,26,33,308,13,457,241,9,100,29,10,31,27,98,69,319,23,91,58,184,17,2,31,73,642,41,484,160,2,150,68,546,7,35,68,38,4,68,12,39,147,54,869,6,18,10,56,10,40,4,15,205,12,61,169,287,431,9
+Gross Domestic Product	236,337,367,423,625,787,641,167,279,1587,876,122,27,65,339,68,746,1343,119,98,617,935,52,124,154,35,26,33,308,13,457,241,9,100,29,10,31,27,98,69,319,23,91,58,184,17,2,31,73,642,41,484,160,2,150,68,546,7,35,68,38,4,68,12,39,147,54,869,6,18,10,56,10,40,4,15,205,12,61,169,287,431,9,290,8,5
+Gross Domestic Product ECR Electronic Cash	18488
 Gross Domestic Product Financial and Insurance Activities	2775
 Gross Domestic Product GDP	2775
 Gross Domestic Product GDPR	5244
@@ -817,6 +829,7 @@ Gross Domestic Product GHG Greenhouse Gas	16949
 Gross Domestic Product GIEC	18309
 Gross Domestic Product GII Global Innovation	12376
 Gross Domestic Product GIS	958
+Gross Domestic Product GNI	18485
 Gross Domestic Product GSM	14879,1993
 Gross Domestic Product GSMA Global System	12395
 Gross Domestic Product HVI	17101
@@ -840,6 +853,7 @@ Head of Domestic Taxes and Mr Vivian	13044
 Health Specialist Karla Dominguez Gonzalez Senior	14576
 High High Domestic	11916
 Hommes Femmes Total Domicile	15599
+Hon. Rizig Dominic Samuel	18704
 Huambo DOMINGOS MUANA MUATA	10751
 Huawei’s Optical Transmission Domain	3797
 Huíla DOMINGOS ADAO JOAO DEMBO	10751
@@ -872,7 +886,9 @@ Inner Setting and Implementation Process Domains	12025
 Inner Setting and Individual Domains	12025
 Innovation and Individuals Domains	12025
 Inter-City Courier Operators Domestic	15136
+International and Domestic Election Observation Mission	18531
 Internet Domain Development	16046
+Internet Domain Names	18602
 Interpreting Domain	15164
 Intitulé Domaine Observations	17844
 Intitulé Domaine Structures Responsables Observations	17844
@@ -1016,6 +1032,7 @@ Nigeria’s Gross Domestic Product	8087,3770
 Nombre de Dominio	16855
 Nombres de Dominio	16855
 Nome de Domínio	576
+Number Portability and Internet Domain Names. CHAPTER	18602
 Number of Domestic Animals and Poultry	16935
 Number of Domestic Audits and Revenues Collected Figure	13053
 NÚMERO TOTAL DE DOMINIOS	11531
@@ -1037,6 +1054,7 @@ On-time Filing of Domestic Excise Tax Declarations--Large	12500
 Operators International Courier Operators Inbound Domestic	15136
 Opération Domaniale Concertée	14598
 Organisation. Domaine	15724
+Organisations DGP Gross Domestic Product ECR	18577
 Origin of Fundraising Domestic Investors Anchor African	4972
 Ouest BCDF Bureau Communal du Domaine	10876
 Outer Setting Domain	12025
@@ -1086,6 +1104,7 @@ Proportion of Domestic Electricity Generation	2775
 Protection Against Domestic Violence Act	14742
 Protection Services Acute Dlamini Domestic Economy	11131,3
 Provincial Gross Domestic Product	13474
+Public Domestic Debt Issues	18500
 QUATRIÈME DOMAINE DOMAINE D’INTÉRÊT D. PRÉPARATION	17830
 Qualified Domestic Minimum Top-Up Tax	14828,3
 Qualified Domestic Minimum Top-up Tax	14839
@@ -1100,9 +1119,11 @@ REFERENCE POPULATION AND ESTIMATION DOMAINS	17127
 REGIONAUX ET SUBREGIONAUX DES DOMAINES ET	17982
 REGULAÇÃO DOS RECURSOS ESCASSOS E DOMÍNIOS	11397
 REGUTATION DES OPERATEURS DOMINANTS	15429
+REPORT ON THE REBASED GROSS DOMESTIC	18483
 Ratios RCFIS Real Gross Domestic Product	17235
-Real Gross Domestic Product	14744
+Real Gross Domestic Product	14744,3698
 Real Gross Domestic Products	17634
+Rebased Gross Domestic Product	18483,5
 Recettes Non Fiscales Domaines	4420
 Recommended Metadata Standards Suffix Description Domain	12360
 Recording of Domestic and External Debt	16944
@@ -1123,6 +1144,7 @@ Respect of Domestic Borrowing	14546
 Responsable des Affaires Domaniales	10876
 Revenue Domestic Revenue Tax Revenue	17011
 Rica Dominican Republic Western Europe United	11135
+Rizig Dominic Samuel	18723
 Roel Dom	12948
 Rwanda. Hon. HABIMANA Dominique Minister	13418
 Rwanda’s Gross Domestic Product	12413,2643
@@ -1141,6 +1163,7 @@ SECTION II DES NOMS DE DOMAINE	15429
 SEM Dominique MIGISHA	15458
 SI L'ENQUÊTE SUR LA VIOLENCE DOMESTIQUE	13300
 SLD Second Level Domain SMAM Singulate	2775
+SMS Count Domestic SMS Count Table	18444
 SN Licensee Domestic	718
 SO UROU ZON DOM A SA	10847
 SOUTIEN DE L’UE PAR DOMAINE PRIORITAIRE	643
@@ -1226,6 +1249,7 @@ USD GROSS DOMESTIC PRODUCT PER CAPITA	17101
 Um Doma Village	15578
 Um Domah	15578
 Um Domah Joint Primary	15578
+Understanding Gross Domestic Production	18483
 Union GDP Gross Domestic Product ICT	12951
 Unit Prices of Principal Domestic Exports	2775
 Urban Dominance	6051

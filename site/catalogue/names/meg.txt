@@ -63,11 +63,14 @@ MNO Mobile Network Operator MW Megawatt	718
 MV Medium Voltage MW Megawatt NCB	15659
 MW Mega Watt O&M Opérations	18316
 MW MegaWatt NNI Numéro National	17907
+MW Megawatt	18614,6
 MW Megawatt NDP National Development Plan	12399
 MW Megawatt NEP National Electrification Program	12233
 MW Megawatts	14947
 MWh Mega-Watt	12256
+MWh Megawatt-hour	18614
 MWh Megawatt-hour NCSA National Cyber Security	718
+MWp Megawatt	18614
 MYTO Target Sales MW Megawatts MWh	12062,6124,31
 Machine Mbps Megabits	6946
 Managed Service Provider MW Megawatts NDC	10781,1646,2055
@@ -110,7 +113,7 @@ Megabyte Juni	2868
 Megabyte MDAs	16872
 Megabyte MNOS	14879
 Megabyte Mbps	6000
-Megabytes	236,4038,1726,10883
+Megabytes	236,4038,1726,10883,1602
 Megadeals	10954,1385
 Megahertz	736
 Megamore Wireless Broadband Ltd	3862

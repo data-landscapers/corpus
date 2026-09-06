@@ -60,12 +60,14 @@ Agriculture Centre de Formation	17978
 Agência Guineense De Emprego E Formação	17308
 Ale Format	3972
 Alertas Formação	12021
-Application Form	1638,4794,8432,2091
+Application Form	1638,4794,8432,2091,1640
 Application Form Web Services IATA CXML	12454
 Application Form for Approval of Binding Corporate Rules	12302
 Application Forms	1638
 Application Forms Consumer Affairs	16889
 Application Forms Incubation Application	13100
+Application Forms Processing Fees for Premises	18541
+Application Forms for Products	18541
 Application Forms. Second Schedule	736
 Application Submission Letter and Forms ELI	1638
 Application for Registration Form	16955
@@ -90,6 +92,7 @@ B. Tender Registration Form	12400
 B5es-europeus-e-os-desafios-da-era-digital Formação	16142
 BCR APPLICATION FORMS	12302
 BECLOMETASONE FLUTICASONE FLUTICASONE FUMARATE DE FORMOTEROL	15930
+BIDDING FORMS AND APPENDICES	18543
 BINDING FORMAL CIRCULAR ON THE MANDATORY	15065
 BOZ Cooperating Partners Formulate	12453
 BREACH NOTIFICATION FORM DP3 POTRAZ	1877
@@ -110,9 +113,9 @@ Beneficial Ownership Disclosure Form INSTRUCTIONS	13185
 Beneficial Ownership Disclosure Form. Section IV	13185
 Biblio- Former	18077
 Bid Security Form	13185
-Bid Submission Form	13031,6,1729,12,24
+Bid Submission Form	13031,6,1729,12,24,3741
 Bid Submission Form BID SECURING DECLARATION	13037
-Bidder Information Form	13185,1742
+Bidder Information Form	13185,1742,3616
 Bidder's Beneficial Ownership Disclosure Form	13185
 Bidder's JV Members Information Form	13185
 Bidder’s Beneficial Ownership Disclosure Form	15080
@@ -120,6 +123,7 @@ Bidding Forms	13185
 Bidding Forms Price Schedule	13185
 Bidding Forms Price and Completion Schedule	13185
 Bidding Forms Table of Forms Letter of Bid	13185
+Bidding Forms and Appendices	18543
 Bids. D. Submission of Bids D.1. Format	14778
 Binding Formal Circular	15066
 Birth Registration Form	16860
@@ -133,6 +137,7 @@ Branca Formato da Placa	11373
 Brancas Formato da Placa Rectangular III	11373
 Breach Notification Form DP3	1877
 Breves Curso de Formação de Formadores	10750
+Budget Formulation	18488,89
 Bureau Mali Formule	6959
 Bureau Regional de Formation	14662
 Business Enterprise Formation	12445
@@ -227,6 +232,7 @@ Chad Forms Committee	6002
 Change of Address Forms	11129
 Checklist Format	15080
 Chengeto Moyo. FORM OF ELECTION	4896
+Chiefdom Consent Form	18538
 Choose the Format	12675
 Ciclo de Formación	16920
 Ciclo de Formación Ofrecido	16920
@@ -238,6 +244,7 @@ Comité Formation	17827
 Commencement of Formal Reorganization Proceedings	12389
 Common Biometric Exchange File Format	12360
 Communication CEFORE Business Formalities Center CENI	10812
+Communications Services Form SR1A	18452
 Completed Application Form	9198,1209
 Completed Form	12542
 Completed Form C	12542
@@ -335,6 +342,7 @@ Declaration Form	16955
 DeepSeek. Former	16787
 Depart Form	11986
 Department of Schools and Formal Education	12345
+Deputy Director for Formal Education	18559
 Deputy Executive Director for Formal Education and Schools	13247
 Description Format Requir	11952
 Desenvolver Programas de Formação	15684,5
@@ -403,7 +411,7 @@ Electronic Appeals and Litigation Format	12260
 Electronic Form	1243
 Electronic Payments and Forms State	11939
 Elimination of All Forms of Discrimination	3583,7610,92,480,436,839,3876,34,1,7,976,375
-Elimination of All Forms of Discrimination Against Women	3005,2528,5232,10,1211,215,738,66,28,64,1475,170,132,730,1510
+Elimination of All Forms of Discrimination Against Women	3005,2528,5232,10,1211,215,738,66,28,64,1475,170,132,730,1510,1398
 Elimination of All Forms of Racial Discrimination	10765,10,990,1332,4837
 Elimination of All Forms of Racial Discrimination. Article	12201
 Empresa Formal	10757
@@ -445,6 +453,7 @@ F. DATA FORMAT	11860
 F. Form	8939
 F. SUBMISSION INSTRUCTIONS Completed Forms of Election	4896
 FB Formule	10876
+FIRST SCHEDULE Form SR1B	18452
 FIRST SCHEDULE PRESCRIBED FORMS OF NATIONAL	12410
 FIXED WIRELESS ACCESS APPLICATION FORM	736
 FO Fibre Optique FOSA Formation Sanitaire	13306
@@ -471,6 +480,19 @@ FORM OF WARRANT OF DISTRAINT	11976
 FORM PT1	736
 FORM PT7	736
 FORM PT9	736
+FORM-I	18543
+FORM-II	18543
+FORM-IV	18543
+FORM-IX	18543
+FORM-V	18543
+FORM-VI	18543
+FORM-VII	18543
+FORM-VIII	18543
+FORM-X	18543
+FORM-XI	18543
+FORM-XII	18543
+FORM-XIII	18543
+FORM-XIV	18543
 FORMACIÓN GENERAL DE PROVINCIAL PROVINCIAL PROVINCIAL	4209
 FORMACIÓN TÉCNICA PROFESIONAL	16920
 FORMAL	418
@@ -567,7 +589,7 @@ Foncier Bénin Formule	10876
 Fonds de Développement de Formation Professionnelle	15936
 Form A of Schedule	12542
 Form Annual Audit Certificate	12364
-Form B	5687
+Form B	5687,12772
 Form B1	12138,13
 Form B1 Kenya Vital Statistics Report	12151
 Form BDA1	12151
@@ -576,10 +598,11 @@ Form BI-1620	2115
 Form BI-9	2115
 Form BI-947	2115
 Form Bda2	12151
-Form C	5687
+Form C	5687,12772
 Form C of Schedule	12542
 Form CC1 N	12342
 Form CC8	12342
+Form D	18459
 Form D1	12138,13
 Form D2	12138,13
 Form DHA-9 For Naturalized Citizens	2115
@@ -588,6 +611,8 @@ Form DP1. Licences	6181
 Form DP2. Fourth Schedule	1877
 Form DPG	14435
 Form DPG5	14435
+Form EM	18541
+Form F	18459
 Form F-	13031
 Form F-2	13031
 Form F-3	13031
@@ -599,15 +624,21 @@ Form FIN-4	13037
 Form FIN-5	13037
 Form Factor Section VII	13185
 Form Four	10650
+Form H	18541
 Form HMIS	2709
 Form IA	13307,177
 Form IB	13307
 Form II	22,13285,109,68,54
 Form III	13307
 Form IV	13307
-Form J	12349,900
+Form J	12349,900,5292
+Form K	18541
+Form L	18541
+Form M	18541
 Form M&E	13991
+Form N	18541
 Form No	14461,257
+Form P	18541
 Form PR1	1223
 Form PT1	736
 Form PT2	736
@@ -651,8 +682,10 @@ Form of Green and Pink-Registration Cards	12410
 Form of Irrevocable Notice of Drawdown	15399
 Form of Lcgal Opinion	15399
 Form of Legal Opinion	15399
+Form of Memorandum	18556
 Form of Noticc of Effectivcncss of Loan Agrccmcnt	15399
 Form of Notice ofEffectiveness of Loan Agreement	15399
+Form of Oath	18435
 Form of Proxy	4896
 Form of Proxy B7. Dematerialised	4896
 Form of Proxy Card	7198
@@ -661,6 +694,12 @@ Form of Refugee Act	16836
 Form of Repayment Schedule	15399
 Form of Request	16840
 Form the National	12356
+Form-I	18543
+Form-II	18543
+Form-III	18543
+Form-IV	18543
+Form-V	18543
+Form-VI	18543
 Form-factor Pluggable SFP	13185
 Form-feed	10718,3
 Forma	167,382,4620,5597,592,30,61,69,793,464,2605,174,1305
@@ -700,7 +739,7 @@ Formación de Formadores	17409
 Formación de Recursos Humanos	4209
 Formadora	17308
 Formadores	15359
-Formal	418,522,21,48,815,269,682,808,131,718,96,585,815,286,618,116,199,131,270,215,134,124,1,160,110,84,252,501,93,15,379,1177,147,23,1,12,1,3,153,5,18,24,116,578,31,89,220,32,51,49,10,27,26,36,67,583,219,17,148,955,343,220,88,45,34,178,30,39,62,671,401,69,234,115,74,59,3,15,2,23,110,621,423
+Formal	418,522,21,48,815,269,682,808,131,718,96,585,815,286,618,116,199,131,270,215,134,124,1,160,110,84,252,501,93,15,379,1177,147,23,1,12,1,3,153,5,18,24,116,578,31,89,220,32,51,49,10,27,26,36,67,583,219,17,148,955,343,220,88,45,34,178,30,39,62,671,401,69,234,115,74,59,3,15,2,23,110,621,423,143,28,6
 Formal AI-specific	8301
 Formal Account Ownership	11138
 Formal Amendment Pathways	3861
@@ -710,7 +749,7 @@ Formal Business Enterprises	12445
 Formal CHE and SAQA	6832
 Formal Circular	15066
 Formal Consultations	1778
-Formal Education	6936,5447,4538,54
+Formal Education	6936,5447,4538,54,1632
 Formal Education Formal Education	16921
 Formal Education Pathways AI	14566
 Formal Establishment Criteria	15085
@@ -799,11 +838,11 @@ Formalization of Egypt’s Urban Informal Real Estate	15473
 Formalização	11901
 Formalização da Atribuição	16138
 Formalização da Economia	11426
-Formalize	6948,7829,242,1932,60
+Formalize	6948,7829,242,1932,60,1467
 Formalize Agreements	12675
 Formalize Tax Dialogue Program Integration	17011
 Formalized	12457,5852
-Formalizing	7278,3512,4690
+Formalizing	7278,3512,4690,3071
 Formally	418,4547,2742,3300,1402,983,1426,2298,144,483
 Formally Revised Actual Achieved	15663
 Formally Revised Target	15601
@@ -828,14 +867,17 @@ Format W3C	14480
 Format XML	14483
 Format and Signing of Bid	13185,1581
 Format and Signing of Proposal	15080
+Format for Authorization for Lead Member	18543
+Format for Letter of Intent for Joint Venture	18543
 Format for List of Taxable Supplies Payment and Currency	14785
 Format for List of Taxable Supplies Specifications	14785
+Format for Power of Attorney	18543
 Format of Disclosure	11198
 Format of Information Resources	13532
 Format. Issuing Authority Personnel Title	14045
 Format1-day	18039
 Formateur	18249
-Formation	28,207,408,105,960,634,624,154,276,318,174,514,1269,990,166,358,32,417,21,72,42,74,135,291,185,301,136,111,268,543,1,897,110,53,1,69,31,49,155,418,33,277,9,2,26,575,13,376,11,11,357,3,10,1,5,35,34,58,9,57,118,72,13,8,150,12,22,6,381,142,1,1,37,26,1,1,47,824,8,2,5,40,6,2,23,25,3,4,9,1,4,3,4,12,17,12,27,17,10,4,40,11,20,3,12,27,3,46,16,71,15,73,25,4,2,34,11,8,27,51,77,20,1,9,43,2,78,53,12,37,3,18,34,27,23,11,32,15,12,23,5,1,28,45,7,12,113,124,120,359,6,136,239,6,1,6,5,1,3,1,7,3,4,3,10,8,1,6,11,3,39,4,1,3,23,6,4,60,35,4,18,1,5,13,3,17,5,27,116,5,5,10,4,2,7,3,17,7,66
+Formation	28,207,408,105,960,634,624,154,276,318,174,514,1269,990,166,358,32,417,21,72,42,74,135,291,185,301,136,111,268,543,1,897,110,53,1,69,31,49,155,418,33,277,9,2,26,575,13,376,11,11,357,3,10,1,5,35,34,58,9,57,118,72,13,8,150,12,22,6,381,142,1,1,37,26,1,1,47,824,8,2,5,40,6,2,23,25,3,4,9,1,4,3,4,12,17,12,27,17,10,4,40,11,20,3,12,27,3,46,16,71,15,73,25,4,2,34,11,8,27,51,77,20,1,9,43,2,78,53,12,37,3,18,34,27,23,11,32,15,12,23,5,1,28,45,7,12,113,124,120,359,6,136,239,6,1,6,5,1,3,1,7,3,4,3,10,8,1,6,11,3,39,4,1,3,23,6,4,60,35,4,18,1,5,13,3,17,5,27,116,5,5,10,4,2,7,3,17,7,66,144,41
 Formation Ahmadou Abdoulaye DIALLO Professionnelle	17817
 Formation Amadou Toumani TOURE Professionnelle	17817
 Formation Article	15371,5
@@ -969,6 +1011,7 @@ Former Director Technical Standard FMoCDE	11857
 Former Director of NOC International Marketing Department	4531
 Former Executive Commissioner	11857
 Former Foam Factory	11546
+Former Foreign Affairs and International Cooperation	18741
 Former IEBC	9645
 Former ISWAP	16787
 Former Jumio	2778
@@ -999,6 +1042,7 @@ Former Prime Minister of Japan	12376
 Former RwandaTel	15471
 Former Safaricom	3964
 Former School	11546
+Former Sizes of Iron	18516
 Former Somali	14874
 Former State Lodge EAC	8546
 Former Undersecretary	16902
@@ -1025,7 +1069,7 @@ Forming General Committees and Sub-Committees Article	15393
 Formnlairc	15399
 Formoliiés	15429
 Formolités	15429
-Forms	1988,721,1550,637,2990,954,805,1167,317,102,319,426,199,75,32,60,17,15,150,1,23,81,269,1,76,30,306,41,4,62,1004,344,314,1875
+Forms	1988,721,1550,637,2990,954,805,1167,317,102,319,426,199,75,32,60,17,15,150,1,23,81,269,1,76,30,306,41,4,62,1004,344,314,1875,1512,76
 Forms Annexure	13071
 Forms BI-9 and BI-309	2115
 Forms Designer	12359
@@ -1036,6 +1080,8 @@ Forms Licensing and Authorisation Media Centre All	9109
 Forms Nos	14461
 Forms Pursuant	14427
 Forms Taxpayer Portal Online Portal Mobile	12454
+Forms and Appendices This Section	18543
+Forms and Certificates	18595
 Forms and Materials	13005
 Forms and Procedures	12164
 Forms and With AI and ML	13042
@@ -1045,10 +1091,11 @@ Forms of Controlling Behaviour and Intimate Partner Violence	15247
 Forms of Discrimination	1988,12754
 Forms of Election	4896
 Forms of Enforcement Action	17249
+Forms of Knowledge	18461
 Forms of Proxy	4896
 Forms of Racial Discrimination CESCR	14742
 Forms. Second Schedule	13398
-Formula	2685,2,359,86,176,15,119,65,590,447,96,374,93,240,6558,81,387,2631,2153
+Formula	2685,2,359,86,176,15,119,65,590,447,96,374,93,240,6558,81,387,2631,2153,1331
 Formula Annual	17250
 Formula Scalable Description Captures	11905
 Formula Scalable Description Supports	11905
@@ -1069,7 +1116,7 @@ Formulam	2816
 Formulamos	10752
 Formular	1701,1818,7855,4076,27,49
 Formularios	12169
-Formulate	396,562,856,56,10486,43,49,514,348,681,790,37,71,824,1006,114,39,12,60,26,144,121
+Formulate	396,562,856,56,10486,43,49,514,348,681,790,37,71,824,1006,114,39,12,60,26,144,121,1241
 Formulate EMIS	13310
 Formulated At Mbuluzi Basin	12970
 Formulating	14674,2159
@@ -1115,6 +1162,7 @@ GRIEVANCE RECORDING FORM Project Reference Name	1778
 Gambia Formulation and Implementation	16926
 Gateway Earth Station Fee Formula	6891
 Gender Parity Indices for Forms	12175
+Geospatial Format	18476
 Gestão da Formação	11444
 Google Form	14480
 Google Forms	7759,1370,2789,172,3846
@@ -1203,6 +1251,7 @@ Initial Form TECH-6	13037
 Initial Form TECH-7	13037
 Initial Form TECH-8 Work Schedule N	13037
 Initial Sample Form Consulting Firm	13037
+Inpatient Statistics Form	18657
 Installers Database Application Forms	12515
 Institut Moderne de Formation Licence Pro Informatique	17829
 Institut National de Forma-	17812
@@ -1228,18 +1277,21 @@ Integrated Border Declaration Form Customs Tax	12454
 Interchange Format ISO	12360
 Interfaces Tous Responsables Formulent	10876
 International Big Cat Alliance. Formal	16256
+International Form	18628
 International Labour Organization Enterprise Formalization	10823
 Internet FOAD Formation Ouverte	15541
 Introduction of Formal Training and Study Programmes	13998
 Irembo Agent Application Form	12333
 JMIR Form Res. Oct	10919
 JSON Data Exchange Format	11952
+JV Member Information Form	18543
 Jun-2018 Formally Revised Target	15601
 Jun-2022 Formally Revised Target	15601
 K Programa de Formación	4209
 KAMWI COMMENTS Former	14343
 KSh Gross Fixed Capital Formation	2775
 Kenya FORM	2709
+Kornelio Kon Ngu. The Former Detainees	18666
 L'ALPHABETISATION ET L'EDUCATION NON FORMELLE	18171
 L'ARPT Forme	16639
 L'EMPLOI ET DE LA FORMATION PROFESSIONNELLE	15999
@@ -1321,6 +1373,7 @@ Microsoft Form. Budget and CV	9630
 Million Kilowatts Formal Informal Industry	12445
 Mines Transport Télécom Comm Formation Ecofin	13568
 Ministerio. Formación	16979
+Mode of Forming	18604
 Modelo de Formação	11444
 Modular Formation Dynamic Tester	11405
 Mogadishu HOL Former U.S	3463
@@ -1341,14 +1394,17 @@ Nacional de Formación Docente EPT Educación Para	16920
 Nacional de Formação	15526
 National Cybersecurity Strategy Formulation and Action Plan	1000
 National Formation	17845
+National Investment Board Download Business Forms	18502
 National Policy Formulation Manual	17124
 National de Formation des Travailleurs	17812
 Nationale Italie Formation JICA	18105
 Nationale Supérieure de Formation	18169
 Nationale de Formation Initiale	15673
 Necessidade de Lei Formal	11461
+Net Export Capital Formation Government Final	18483
 News Former Branch Kenya CEO Rose	3621,343,1408,102,1054
 Nombre des Formations	14622
+Nomination Fee Formulae	18459
 Non Formelle AFD	15673
 Non Formelle DREPPNF	10847
 Non Formelle F	10847
@@ -1387,6 +1443,7 @@ Original Target Formally Revised Target Number	15511
 Original Target Yes Formally	15601
 Ouest Format	16545
 Oui Oui III.8.3 EDUCATION ET FORMATIONS	13306
+Output Format Also Known As Michcom	18579
 P.6.2 Formação	11376
 PAG. Former	16150
 PART II PRESCRIBED FORMS	13398
@@ -1437,6 +1494,7 @@ Plano de Formação	15535
 Plateforme de Formation Ouverte	15568
 Police Forms and Educational Material	14760
 Policies and Governance and Planning Formal	15164
+Policy Formulation	18485
 Policy Formulation Process	16951
 Policy Formulation This Policy	16883
 Polycarbonate Format	14480
@@ -1470,6 +1528,7 @@ Proposal Forms This Section	15080
 Proposal Security Form	15080
 Proposal Submission Form	14927
 Proposal Submission Form Annex V	14131
+Proposed Form	18461
 Proposed Formulation and Action Plan	1000
 Protection Des Données Formateur En Cybersécurité	11034
 Província Formalidade Total Formal	10757
@@ -1505,6 +1564,7 @@ RIM Retrieve Form for Data Capture REST	1009
 RNI5 Formação	12021
 RS Retrieve Form for Retrieve Form for Data	1009
 Refund Claim Form	17108
+Regional Formation	18486
 Registo de Empresas Formais	11571
 Registration Form	15184
 Registration Form PDF File	15207
@@ -1550,6 +1610,7 @@ SIGNATURE SOUS FORME ELECTRONIQUE LE PRESIDENT	10896
 SISo Former	17845
 SOCIAL SCREENING FORM FOR REHABILITATION	1988
 SOCIAL SCREENING FORM Filled	1988
+SQA Form	18557
 STATION APPLICATION FORM	736
 STATISTICS REPORTING FORM	14528
 STATISTIQUES DES AUTRES TYPES DE FORMALITÉS	16249
@@ -1559,6 +1620,7 @@ STP Message Format Specifications	12364
 SUBMISSION FORMAT Bid	12681
 SULTAN INSTITUT SUPERIEUR DE FORMATION	18170
 SYNTHETIC CANNABINOIDS PURE FORM	14760
+Sale of Naturalization Form US	18541
 Sample Form	13037,3889
 Sample Form of Evaluation Report	11525
 Sample Forms Section	14766
@@ -1585,6 +1647,7 @@ Serviço Universal UCT Formador de Conectividade Universal	17093
 Serviço de Formação Profissional	15526
 Sessões de Formação de Formadores	10750
 Short Code Format	16934
+Sierra Leone Former President Ernest Bai	18563
 Sierra Leone for ECOWAS Summit Former President	5939
 Signature Form PT3	736
 Signed Bid Submission Form	13031
@@ -1657,6 +1720,7 @@ Threats TIFF Tagged Image File Format	11261
 Thème Formation	17978
 Training Feedback Form	17099
 Training Feedback Form TRAINING FEEDBACK FORM	17099
+Training of Transfer Pricing Formula. NRA	18577
 Transformation Digitale Formation	13702
 Transport Télécom Comm Formation Ecofin Pro	13568
 Type Approval Application Form	14883
@@ -1675,6 +1739,7 @@ USD Formation	15673
 UTF-8 Mandatory Standards Format	11952
 Uptake of Formal Financial Services	12409
 Uptake of Formal Financial Services. CHAPTER SEVEN	13399
+Usage Formally	18485
 Usage of Formal Financial Services and Products	7763
 User-Terminal Network Fee Formula	6891
 V. FORMULATION DE LA VISION ET	17882

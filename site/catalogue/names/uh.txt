@@ -28,6 +28,7 @@ Egyptians. The UHI	15725
 Egypt’s UHC Service Coverage Index	15725
 Egypt’s UHIS	15977,102
 Expand UHIS	15977
+Fund UHC Universal	18668
 GDPHQWH D UHVLGrQFLD VXSHULRU D YLQWH	11530
 Government’s UHC Scheme	10970
 Government’s UHIS	15977
@@ -95,7 +96,7 @@ UHC Service Coverage Index	13166
 UHC Solutions	10780
 UHC USG WPV Maturity Level	4153
 UHC Universal Health Coverage UHP	17289
-UHC Universal Health Coverage UNICEF United	15556
+UHC Universal Health Coverage UNICEF United	15556,2922
 UHC and PHC	12729
 UHC and SDG	15725
 UHC-2030	5378
@@ -107,6 +108,7 @@ UHC. Strong	10970
 UHC. The GFF	10829
 UHC. The NHI	396
 UHC. World Bank	10829
+UHC2030 Global Compact	18532
 UHDOL	15604
 UHDTV	14729
 UHDV GD FRRSHUDomR LQWHUQDFLRQDO H GD	11530
@@ -115,6 +117,8 @@ UHDVRQV	15604
 UHF A SERVICES ARCEP	998
 UHF D PETROLEUM S.A ARCEP	998
 UHF Fixed	17250
+UHF Radio Users VHF	18485
+UHF Radios	18485
 UHF Television Broadcasting	17250
 UHF Television Fixed Links	17250
 UHF Trunk Network	6946

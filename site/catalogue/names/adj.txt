@@ -37,6 +37,7 @@ Adjacent Chn	736
 Adjacent DPI	11487
 Adjacent KRA	1835
 Adjacent NASSCORP	16978
+Adjacent Ring Road Kidwai Nagar	18543
 Adjacent Royal Mart	3386
 Adjacent Universal Oil	3386
 Adjacent the Police	3386
@@ -88,7 +89,8 @@ Adjoints	17829,13,259,190
 Adjoints Techniques	17844
 Adjoints du Trésor	17899
 Adjoumani Kouakou	6591
-Adjournment	3714
+Adjournment	3714,14722
+Adjournment of Parliament	18436
 Adjratou DIABATA	17899
 Adjt.Secrét	17812
 Adjuba Rajabu Doe	13542
@@ -133,7 +135,7 @@ Adjudant-chef Seydou KONATE Mle	17828
 Adjudant-chef Thiécoro BENGALY	17982
 Adjudicar	15503
 Adjudicate	7989
-Adjudication	5533,220,10882,291
+Adjudication	5533,220,10882,291,1608
 Adjudication Adverse	15473
 Adjudication Board	16144
 Adjudication Board. Global Money Week	11134
@@ -156,7 +158,7 @@ Adjunto B2 Cónsul General B2 Ministro	4209
 Adjunto Gobierno Delegado Gobierno Delegado Regional	4209
 Adjunto Letrado Mayor Director General Director	4209
 Adjust	12253,2911,1811,562
-Adjusted	3583,4542,1610,887,117,392,165,1071,46,1710,933,548,23,1369,966
+Adjusted	3583,4542,1610,887,117,392,165,1071,46,1710,933,548,23,1369,966,479
 Adjusted Appropriation	11218
 Adjusted Appropriation Bill	11289
 Adjusted Budget	750,540,494,1,2,7,3
@@ -175,13 +177,14 @@ Adjusted Net Income	16996
 Adjusted Net National Income	16996
 Adjusted Net National Income ANS Adjusted	16996
 Adjusted Net Savings	16996
+Adjusted Net Worth	18543
 Adjusted Quality	1818
 Adjusted R²	8075
 Adjusted Value Tax	10870
 Adjusted and Accelerated Priority Action Plan	18301
 Adjusting	3583,7573,68,1189,2584,59,108,1832,161
 Adjusting GNI	16996
-Adjustment	2902,7891,503,1117,217,31,310,490,9,1586,607,1445,150
+Adjustment	2902,7891,503,1117,217,31,310,490,9,1586,607,1445,150,1298
 Adjustment Appropriation Act	11986
 Adjustment Budget	11251
 Adjustment Fund	7785,4024
@@ -428,6 +431,8 @@ L'expérience de Saturnin Adjibadé	3361
 LE POUVOIR ADJUDICATEUR	8643,8104
 LE POUVOIR ADJUDICATEUR DURANT L'EXECUTION	16747
 LIDERANÇA PARA AUDITORES GERAIS ADJUNTOS	11473
+Land Adjudication Tribunal	18465
+Land Adjudication Tribunals	18465
 Le Directeur Adjoint	16611
 Le Directeur Adjoint des Homologations	16587
 Le Directeur Général Adjoint de MEDUSA AFRICA	6080
@@ -461,6 +466,7 @@ Masanka Adjuba Rajabu Doe. Masanka	13542
 Maud Adjeley Ashong Elliot	10079
 Me Pacôme Adjourouvi	11067
 Me Pacôme Yawovi Adjourouvi	9974
+Mechanism Land Adjudication Tribunals No	18465
 Mercado Adjacente	11430,1
 Minister Dr. Mourad Adjal	15886
 Ministra Adjunta	15404

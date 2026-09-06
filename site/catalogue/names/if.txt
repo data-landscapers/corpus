@@ -1,4 +1,5 @@
 ACRONYMS IFC International Finance Corporation IFWG	11198
+AGENCIES USING THE IFMIS Sound	18576
 Aaa. IFC	16776
 About IFC	6932,2802
 Accounting and FM IFR. RAPID-CI PCU	3604
@@ -13,6 +14,7 @@ Akim Benamara IFC	7095
 Asim Iftikhar Ahmad	8740
 Assistance IFC International Finance UNHCR United	12297
 Association IFC International Finance Corporation IFR	15518
+Audit IFMIS Expansion	18577
 Authority IFC International Finance Corporation ILD	15473
 Authority. IFRS	13053
 BARINGO COUNTY IFMIS SUPPORT AND TRAINING	12322
@@ -55,6 +57,7 @@ Displacement Monitoring Centre IFAD International Fund	10759,78,1052,451
 Développement Humain IF Institution Financière IFC	11944
 ECMWF IFS	18309
 ECMWF IFS-EPS	18309
+EMIS and IFMIS. Insight Box	18529
 ET EXPERTISE COMPTABLE IFPAS INSTUTIT	18170
 EU IFIs	970
 Economic Development Partner. IFC	2577
@@ -66,14 +69,16 @@ Etat Oued Goussine Ifelain Ilmathen Tala	15690
 Ethiopia. IFPRI Discussion Paper	15138
 European IFIs. Subject	970
 Even the IFMIS Financials Suite	16876
+Expanding the Coverage of IFMIS and EFT	18576
 Expansion IFU	380
 Extension of IFC	16776
-FAO and IFAD	17165
+FAO and IFAD	17165,1405
 FDI IFC Asset Recycling	11469
 FY2017 IFMIS	1789,1,1,1,1,1413,3881
 Finance Corporation IFR Interim	11380
 Finance Corporation IFR Interim Financial Report	11560
 Financial Instruments and IFRS	10793
+Financial Management IFMIS Integrated Financial Management	18488
 Financial Management Information System IFR Interim	15372
 Fintech Pan-Africa IFU	501
 First IFR	12595
@@ -108,7 +113,7 @@ ICPAR's IFRS Sustainability Disclosure Standards Rwandan	14997
 ICR DOCUMENT IEG IFR IMF IPF	16436
 ICT Grievance Redress Service IFC Higher-Level	3604
 IDA IFC ISP IT ITU LMI	15553
-IDA International Development Association IFC International	11560
+IDA International Development Association IFC International	11560,6944
 IDP Internally Displaced Person IFR Interim	10829
 IFA2017yearinreview	226
 IFAC International Federation of Accountant IFR Interim	11855
@@ -168,6 +173,7 @@ IFC Equity Investment IFC	1518
 IFC IFC	7095
 IFC Industry	11469
 IFC International Development Association IFR Interim	15515
+IFC International Finance Corporation	18614
 IFC International Finance Corporation IFMIS Integrated	7548,5764,2,2058
 IFC International Finance Corporation IFR Interim	11549,4072
 IFC Kenya	9079
@@ -275,10 +281,12 @@ IFM de Niono	8577
 IFM de Sikasso	8577
 IFM de Ségou. Le Secrétaire	8577
 IFM-EFEP de Bamako	8577
-IFMIS	34,78,15,31,8,155,105,110,214,250,284,6,99,189,205,1,1,2,2,1,1,1,2,1,2,37,278,1095,1,1009,1027,1188,107,549,1,459,100,339,3522,358,309,38,39,69,131,47,169,24,224,39,16,151,191,18,13,47,26,548,36,183,43,296,22,351,38,30,1,199,282,1411,14,4,7,2,57,7,21,41,68,59,1,175,50,54,129,812
+IFMIS	34,78,15,31,8,155,105,110,214,250,284,6,99,189,205,1,1,2,2,1,1,1,2,1,2,37,278,1095,1,1009,1027,1188,107,549,1,459,100,339,3522,358,309,38,39,69,131,47,169,24,224,39,16,151,191,18,13,47,26,548,36,183,43,296,22,351,38,30,1,199,282,1411,14,4,7,2,57,7,21,41,68,59,1,175,50,54,129,812,129,12,29,47,1,84
 IFMIS Academy About Academy Training Schedule	12322
 IFMIS Accounting Module Operationalized	18359
 IFMIS Comments	17079
+IFMIS Coverage	18488
+IFMIS Data and Training Centre	18661
 IFMIS Integrated Financial Management FPS Fast	14897
 IFMIS Integrated Financial Management Information System	1284,15601
 IFMIS National Treasury-IFMIS Offices IFMIS TEAM	12322
@@ -287,9 +295,13 @@ IFMIS Related Links Kenya Supplier Portal	12322
 IFMIS STANDARDS AND GUIDELINES	34
 IFMIS STANDARDS AND GUIDELINES The Integrated	34
 IFMIS Skip	12322
+IFMIS The Integrated Financial Management Information	18500
 IFMIS URL	12322
+IFMIS Version	18488
 IFMIS and E15	14897
-IFMIS and HRMIS	12917
+IFMIS and EFT	18576
+IFMIS and External Audit	18577
+IFMIS and HRMIS	12917,5744
 IFMIS and NASSCORP’s	17257
 IFMIS-generated Local Purchase Order	13122
 IFMIS. Budget	13314
@@ -317,7 +329,7 @@ IFP de Kayes	18079
 IFPB Institut	15961
 IFPIM	13461
 IFPIM.. The Inquiry	13461
-IFPRI	8683,2085,1394,1169,1807,525,1384,80
+IFPRI	8683,2085,1394,1169,1807,525,1384,80,1443
 IFPRI International Food Policy Research Institute	15220
 IFPRI Middle East and North Africa. Impact	15663
 IFPRI. Egypt’s Takaful and Karama Cash Transfer	15663
@@ -335,6 +347,8 @@ IFR. Accounting and Reporting Arrangements	3604
 IFR. The PIU	10829
 IFRC PGI Office and BERCS Safe	12977
 IFRC President and Vice President	12977
+IFRC's Disaster Response Emergency Fund	18663
+IFRC. The United Arab Emirates	18663
 IFRS Accounting Standards	7204,2707,882,2260
 IFRS IR IMF KPIs MPCC	11131
 IFRS Instant Payment System Capital Account	17235
@@ -451,6 +465,7 @@ MIGA and IFC	16144
 MINALOC MINECOFIN IFMIS Local Administrative Entities	14935
 Mali. The IFC	2214
 Management IFC International Finance Corporation IMF	16942
+Management IFMIS Integrated Financial Management Information	18577
 Management Information Management Systems IFMIS Integrated	11545
 Management Information System IFR Interim Financial	16896
 Mauritius’ IFC	14819
@@ -471,12 +486,15 @@ Pa Ete AP AE IFT	6936
 Pan-SSA Data Centres IFC	684
 Part Two. The IFMIS	1786,2,5,3
 Part of IFC	1126
+Path Toward Inclusive Growth IFDC Vice	18700
+Payroll Modules The IFMIS	18576
 Person IFR Interim Financial Report IGF	969
 Philippe De Meneval Joint IFC	17441
 Policy IFMIS Integrated Financial Management Information	16883,1
 Population and Health Survey. Government-wide IFMIS	13966
 Portfolio Exposure Outstanding IFZ MAS Manufacturing	11469
 Presentation of Financial Statements. IFRS	13053
+Procurement System and IFMIS	18661
 Product ICT Information and Communication Technology IFR	15491
 Production IFU	84
 Project Cost and Amount and Nature of IFC	16776
@@ -511,6 +529,7 @@ Statement of Cash Flows and IFRS	13053
 Statement of IFC’s Committed and Disbursed Portfolio Nigeria	11469
 Statistics IFC International Finance Corporation IMF	11271
 Statistique IFORD	10874
+Strategy Statement IFMIS Integrated Financial Management	18500
 Strengthen IFMIS	16949
 Strengthening of MoFDP IFMIS	14185
 Substantial. The IFSA	11905

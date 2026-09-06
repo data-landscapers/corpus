@@ -78,6 +78,7 @@ Complaints Handling Procedure and Enforcement	12232
 Compliance and Enforcement	4610,2336,5049,67,3199,49,1902,974,31
 Compliance and Enforcement Actions	12062,6124,31
 Compliance and Enforcement All	17030
+Compliance and Enforcement Failure	18688
 Compliance and Enforcement Operators	17212
 Compliance and Enforcement RURA’s Compliance	718
 Cost-Recovery Principle Enforcement-related	17249
@@ -109,6 +110,7 @@ Develop and Enforce Robust Consumer Protection Regulations	12444
 Development Enforcement	1131
 Diarrhée IRA Fièvre Diarrhée ENFANTS	13300
 Dig Once Policy. Enforce Open Access	11857
+Directorate of Regulation and Enforcement	18746
 Djibouti. Enfin	7715
 Doing Business’ Enforcing Contracts	3437,3942,47,10187,2
 Domestication and Enforcement	18207
@@ -247,7 +249,7 @@ Enflure	15712
 Enfoque	16875
 Enfor1c1e.10meEnntfaonrdceCmoemnptlaianndcCeompliance	10157
 Enforc	9123
-Enforce	1988,471,318,2756,132,767,504,1881,1904,44,10,54,327,784,46,215,13,26,13,106,94,464,47,350,1308,52,77,67,129,87,127,684,132,235,362,277,15,6,79,60,26,120,139
+Enforce	1988,471,318,2756,132,767,504,1881,1904,44,10,54,327,784,46,215,13,26,13,106,94,464,47,350,1308,52,77,67,129,87,127,684,132,235,362,277,15,6,79,60,26,120,139,1233,2,46
 Enforce AU	3583
 Enforce Compensation Rules for Operators	9563
 Enforce Copyright	12389
@@ -258,7 +260,9 @@ Enforce Groundwater Monitoring and MoWR	17157
 Enforce LSP	10721
 Enforce Liberalization	16975
 Enforce Multi-Factor Authentication	13037
+Enforce NIN	18491
 Enforce Online Returns Submissions and Digital Tax	17011
+Enforce Orders	18556
 Enforce Privacy Policies Privacy	34
 Enforce Regulatory Compliance	12675
 Enforce Standards	17260
@@ -266,13 +270,13 @@ Enforce the Data Protection	1204
 Enforce the Financial Consumer Protection Framework Enforce	15130
 Enforce the National Registration Act	13005
 Enforce the Use	14818
-Enforceability	3714,11283,2783
+Enforceability	3714,11283,2783,776
 Enforceable	5113,9561
 Enforced	3714,7442,1058,823,4913
 Enforced Disappearance	11765,2977,3208
 Enforced Disappearance. Amendment	14751
 Enforced Disappearances	17934
-Enforcement	3,8,707,44,481,90,18,1105,549,221,452,35,1,453,50,366,399,102,301,78,202,390,831,50,10,422,83,903,82,93,157,6,289,582,292,85,217,156,103,558,32,143,49,87,572,23,76,20,124,93,79,29,1,46,108,195,15,237,3,23,76,48,258,159,4,79,71,324,37,169,440,79,54,11,8,72,43,4,26,56,50,61,482,123,1172,4,14,31,18,22,19,8,17,4,271,6,2,6,3,849
+Enforcement	3,8,707,44,481,90,18,1105,549,221,452,35,1,453,50,366,399,102,301,78,202,390,831,50,10,422,83,903,82,93,157,6,289,582,292,85,217,156,103,558,32,143,49,87,572,23,76,20,124,93,79,29,1,46,108,195,15,237,3,23,76,48,258,159,4,79,71,324,37,169,440,79,54,11,8,72,43,4,26,56,50,61,482,123,1172,4,14,31,18,22,19,8,17,4,271,6,2,6,3,849,339,108
 Enforcement Action	6792,8075,2382
 Enforcement Action If the Regulatory Authority	14867
 Enforcement Actions	5665
@@ -319,7 +323,7 @@ Enforcement Under the Local Government Act	14738
 Enforcement Unit	14742
 Enforcement Weapon Importers	11036
 Enforcement and Complexity	12948
-Enforcement and Compliance	10157,1838,4217
+Enforcement and Compliance	10157,1838,4217,2232
 Enforcement and Compliance Procedure Handbook	16853
 Enforcement and Education	587
 Enforcement and Education Cybersecurity	587
@@ -345,7 +349,7 @@ Enforcement of Service Maintenance Medium Service Level	16884
 Enforcement of Standards	16884
 Enforces	13037
 Enforcethe Scheme of Service	16833
-Enforcing	1828,10412,1072,2,2610,288,48,988,4,8
+Enforcing	1828,10412,1072,2,2610,288,48,988,4,8,1271
 Enforcing Compliance	14932
 Enforcing Contracts	18109
 Enforcing and Penalizing	11857
@@ -414,6 +418,7 @@ Information Collection and Enforcement	12629
 Information Regulator's Enforcement Notice Against Mining	6683
 Information Regulator’s First Enforcement Notice	6632
 Inland and Border Enforcement Enforcement	13053
+Inspection and Enforcement	18556
 Inspections and Enforcement	15261
 Inspectorate Compliance and Enforcement	7141
 Inter-Agency Digital Piracy Enforcement Framework	8568,2
@@ -441,6 +446,8 @@ Law Enforcement Directive English	9067
 Law Enforcement Integrity and Accountability Bill	11757
 Law Enforcement Verification Tools	17142
 Law Law Enforcement Property Rights Public	10759,78,1315,188
+Law enforcement	18486
+Law enforcement agency	18486
 Legal Enforcement Strengthen	17011
 Legal Enforcement and Regulations Department	6689
 Legislate and Enforce	16884
@@ -486,6 +493,8 @@ On-Time Filing and Payment Enforcement	14985
 Open Data. Enfin	15575
 PARENTS Enfants	13300
 PART EIGHT COMPLIANCE AND ENFORCEMENT	762
+PART IV- ENFORCEMENT AND PENALTIES	18452
+PART IV- ENFORCEMENT OF PENALTIES	18452
 PAS D'AUTRE ENFANT	13300
 PIM. Enfin	15500
 PLUS D'UN ENFANT SEULEMENT UN VIVANT	13300

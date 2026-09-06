@@ -5,9 +5,10 @@ AF. First	11965
 AF1 First Additional Financing AF2 Second	11924
 AFBLL Advanced Economies AfCFTA Afriland First	17235
 AFRICAN PAYMENT SYSTEMS First	6938
+AFRILAND FIRST BANK	18489
 AFRILAND FIRST BANK GUINEE SA	16623
 AI Firms	14010
-AI First	2103,3224
+AI First	2103,3224,13303
 AI First Accelerator	9321
 AI First Accelerator Programme	1363
 AI. First	17780
@@ -16,6 +17,7 @@ ANNOUNCEMENTS BY MADAM FIRST DEPUTY SPEAKER	13387
 Abousoufiane Firad	15410
 Access and Firm's Participation	12389
 Act. FIRST SCHEDULE	2709
+Act. FIRST SCHEDULE Sec	18435
 Admin First Lady	11915
 Administrative First Draft	16853
 Africa First	4426
@@ -46,6 +48,7 @@ All Firms Eswatini2024 Large Sub-Saharan Lower	12346
 All Stages Draft Submitted First Reading	17388
 Alliance Firms	12232
 Almadar Aljadid Launches First	4811
+Amendment of First Schedule	18450,91
 America First	4426,21,170,546,2,48,337,984,653,563,2977
 America First Global Health	14307,36
 America First Global Health Strategy	4165,2,135,124,157,378,180,7,308,94,451,933,816,729,1967,267,3594,36
@@ -81,6 +84,7 @@ Big Bend Fire Station	12962
 Big Tech Firms	11313
 BoSS First Deputy Governor	3736
 BoSS Launches First-Ever Electronic Interbank Payment	3736
+Body First	18670
 Body NamPower Inaugurates Africa's First Digital	13200
 Body PGR E MF FIRMAM MEMORANDO	12798
 Bon Firmin AYESSA	15780
@@ -140,12 +144,14 @@ Constitution. First	13472
 Constitution. Firstly	13493
 Consultancy Firm	9893,4901
 Consultant Firm	12388
-Consulting Firm	3678,4991,934,1
+Consulting Firm	3678,4991,934,1,8971
 Consulting Firms	9603,1,3433,2767
 Consulting Firms and Individual Consultants	15804
 Consulting and Engineering Firm	15853
 Consumers First	17106
 Corporate Venture Firm Nigeria Azur Innovation	4972
+Council First Priority Second Priority Third	18476
+Council First Priority Second Third Priority	18476
 Court of First Instance	5902,5060,17,3763,105,546
 Court of First Instance Yaoundé	10979
 Court of First Instance.13	10979
@@ -242,7 +248,7 @@ FIRM EXPERIENCE PAGEREF	15090
 FIRM EXPERIENCE The Consultant	15090
 FIRM SELECTION	16493
 FIRMS	17157
-FIRMS SELECTION	9603,1,2146,1084
+FIRMS SELECTION	9603,1,2146,1084,5741
 FIRNBWGX	12252
 FIRNCORP	11131,3
 FIRNLSMX	12252
@@ -260,9 +266,11 @@ FIRST ADDITIONAL CREDIT	15990
 FIRST ADDITIONAL GRANT	15990
 FIRST AID Site No. of Trainings People	12977
 FIRST AND SECOND RESPONDENTS CASE	13493
-FIRST BANK	17242
+FIRST ATLANTIC BANK	18489
+FIRST BANK	17242,1247
 FIRST BANK BLOOM BANK ECOBANK GT	17242
 FIRST BANK CHANNELS BLOOM BANK ECOBANK	11002
+FIRST BANK COMING UP SOON ZIMBABWE	18489
 FIRST CYBERSECURITY LINE	4410
 FIRST CYCLE OF DATA COLLECTION	12717
 FIRST Coopération	16144
@@ -273,10 +281,12 @@ FIRST LADY PARTNER ON BIRTH REGISTRATION	11915
 FIRST NAT BANK VSTRZMLU VSTRZMLU INDO	12364
 FIRST OIL	15542
 FIRST PILLAR	3604
+FIRST PRIORITY	18476
 FIRST QUARTER	12062,1611,1200
 FIRST QUARTER ENDING	6978
 FIRST Recurrent	1777
 FIRST SCHEDULE	587,2122,5136,5215,247,96,1007,17,8,159,119,7,8,12,66,3,5,2294
+FIRST SCHEDULE Form SR1B	18452
 FIRST SCHEDULE PRESCRIBED FORMS OF NATIONAL	12410
 FIRST SCHEDULE SECOND SCHEDULE	14720,89
 FIRST SCHEDULE SECOND SCHEDULE THIRD SCHEDULE	14713,4
@@ -437,7 +447,7 @@ Firmin Oyé Légendes	16407
 Firmina	1766,2016
 Firmina and Grace Hopper	13839
 Firmly	13948,804
-Firms	1638,190,690,257,1901,164,1739,799,90,879,2158,458,1,5,7,109,51,4,9,376,330,1,18,7,1,2,1,10,264,1,186,5,4,31,3,98,395,135,168,127,2,218,453,912,31,152,438,35,707,6,745,237,4,112,506,448
+Firms	1638,190,690,257,1901,164,1739,799,90,879,2158,458,1,5,7,109,51,4,9,376,330,1,18,7,1,2,1,10,264,1,186,5,4,31,3,98,395,135,168,127,2,218,453,912,31,152,438,35,707,6,745,237,4,112,506,448,257
 Firms Cabo Verde2024 Sub-Saharan Africa	11874
 Firms Cabo Verde2024 Sub-Saharan Africa Lower	11874
 Firms Characteristics	10976,898,7,465
@@ -468,7 +478,7 @@ Firmware	11956,1229
 Firmware Integrity	10721
 Firmware and BIOS	13185
 Firm’s Name	13037
-First	14,35,45,132,10,182,43,1,48,10,40,11,14,121,49,7,27,110,14,23,34,15,11,139,26,51,7,42,283,61,37,42,19,35,32,44,2,8,4,1,16,22,30,91,57,56,16,6,105,16,63,60,65,29,131,43,82,40,69,63,69,47,107,63,197,6,98,26,93,9,110,2,75,183,10,275,100,67,13,61,28,55,5,22,43,23,13,57,20,206,25,32,6,78,11,14,62,149,91,93,18,47,79,23,52,112,5,23,49,62,49,21,9,73,41,18,36,16,28,103,26,9,4,13,72,8,59,91,48,8,55,3,32,7,116,37,12,150,4,66,5,91,133,5,20,11,40,23,3,40,1,122,66,12,1,96,23,57,17,91,110,22,77,93,48,3,9,24,4,19,99,19,2,144,29,57,10,4,43,2,23,306,11,99,33,35,68,99,64,68,22,15,4,20,23,280,18,40,33,4,8,4,19,125,26,1,38,18,109,22,82,44,76,2,32,2,3,6,1,18,26,3,7,52,59,8,15,1,21,21,10,12,73,28,5,1,1,4,9,5,1,9,16,8,70,14,38,46,24,88,57,11,14,28,18,96,13,91,21,38,2,3,19,28,17,3,27,2,4,5,11,10,4,10,3,3,17,2,23,42,61,24,24,8,7,3,10,4,9,13,76,8,27,5,10,12,1,18,35,11,29,27,28,23,130,9,58,152,36,16,13,28,35,12,3,5,20,31,11,5,58,57,69,2,1,17,1,26,20,3,4,7,3,66,16,24,25,6,117,219,95,41,102,16,6,74,14,75,49,60,35,20,121,90,7,50,17,5,3,80,1,3,9,2,79,10,7,1,57,30,53,43,6,9,22,1,44,15,17,7,3,1,33,61,30,99,2,18,20,7,35,25,26,54,1,54,1,5,6,180,19,108,144,90,9,54,107,152,43,18,164,35,4,1,5,5,9,4,66,16,5,33,15,26,6,27,29,15,13,12,10,16,52,43,15,14,181,69,19,40,21,29,125,7,17,73,146,88,58,58,73,16,9
+First	14,35,45,132,10,182,43,1,48,10,40,11,14,121,49,7,27,110,14,23,34,15,11,139,26,51,7,42,283,61,37,42,19,35,32,44,2,8,4,1,16,22,30,91,57,56,16,6,105,16,63,60,65,29,131,43,82,40,69,63,69,47,107,63,197,6,98,26,93,9,110,2,75,183,10,275,100,67,13,61,28,55,5,22,43,23,13,57,20,206,25,32,6,78,11,14,62,149,91,93,18,47,79,23,52,112,5,23,49,62,49,21,9,73,41,18,36,16,28,103,26,9,4,13,72,8,59,91,48,8,55,3,32,7,116,37,12,150,4,66,5,91,133,5,20,11,40,23,3,40,1,122,66,12,1,96,23,57,17,91,110,22,77,93,48,3,9,24,4,19,99,19,2,144,29,57,10,4,43,2,23,306,11,99,33,35,68,99,64,68,22,15,4,20,23,280,18,40,33,4,8,4,19,125,26,1,38,18,109,22,82,44,76,2,32,2,3,6,1,18,26,3,7,52,59,8,15,1,21,21,10,12,73,28,5,1,1,4,9,5,1,9,16,8,70,14,38,46,24,88,57,11,14,28,18,96,13,91,21,38,2,3,19,28,17,3,27,2,4,5,11,10,4,10,3,3,17,2,23,42,61,24,24,8,7,3,10,4,9,13,76,8,27,5,10,12,1,18,35,11,29,27,28,23,130,9,58,152,36,16,13,28,35,12,3,5,20,31,11,5,58,57,69,2,1,17,1,26,20,3,4,7,3,66,16,24,25,6,117,219,95,41,102,16,6,74,14,75,49,60,35,20,121,90,7,50,17,5,3,80,1,3,9,2,79,10,7,1,57,30,53,43,6,9,22,1,44,15,17,7,3,1,33,61,30,99,2,18,20,7,35,25,26,54,1,54,1,5,6,180,19,108,144,90,9,54,107,152,43,18,164,35,4,1,5,5,9,4,66,16,5,33,15,26,6,27,29,15,13,12,10,16,52,43,15,14,181,69,19,40,21,29,125,7,17,73,146,88,58,58,73,16,9,142,1,9,61,10,16,13,12,44,32,44
 First AFD Sovereign Digital Loan	1043
 First AI	18039
 First AID	12977
@@ -502,6 +512,7 @@ First Bank of Nigeria Ltd	4771
 First Biennial Update Report	3430
 First Birth	15247
 First Bot	3849
+First C-PIM Assessment	18488
 First Cable Repair Ship Arrives	2677
 First Call Resolution	8677
 First Capacity Crisis for Starlink	4601
@@ -530,6 +541,7 @@ First Deputy Director of Cabinet Resolution	4640
 First Deputy Governor	14744
 First Deputy Governor of CBS Senior	6938
 First Deputy Prime Minister and Minister of East	11806
+First Digital Census	18464
 First Disburscmcnt	15399
 First Disbursement	16253
 First Disbursenrcnt	15399
@@ -575,6 +587,7 @@ First ISR	13857
 First Implementation of ASYCUDAWorld	13042
 First In First Out	12364
 First India-Equatorial Guinea Joint Commission Meeting	17240
+First India-South Sudan Foreign Office Consultations	18658
 First Instance	17441
 First Instance Courts	17441
 First Instance Division	14409
@@ -587,7 +600,7 @@ First Joint Commission Meeting	17240
 First Kurdish Conversational AI Platform	5322
 First Ladies of CEMAC	17101
 First Ladies’ Declaration	17101
-First Lady	5100,2212,4603,720,961,29,3476
+First Lady	5100,2212,4603,720,961,29,3476,1370,191
 First Lady Dr. Auxillia Mnangagwa	11656
 First Lady Kaone Boko	12636
 First Lady Kaone Tumalano Boko	7672
@@ -617,7 +630,7 @@ First Mobile	3849
 First Movers Advantage	14508
 First Mutual Life	1154
 First Mutual Properties	4896
-First Name	11861,55,230,6037
+First Name	11861,55,230,6037,269
 First National Adaptation Plan for Climate Change	3583
 First National Bank	1590,2374,3375,419,674,1757,941,1533,13
 First National Bank South Africa	6996
@@ -655,7 +668,7 @@ First Published	15143
 First Published Version	13037
 First Qua National Breweries Posts First	6011,985
 First Quantum	6011,985
-First Quarter	2776,10196,4,697,1159
+First Quarter	2776,10196,4,697,1159,3668,77
 First Quarter African Prepaid Pricing Index	236
 First Quarter National Financial Payment Systems	7900
 First Quarter Performance Report	7453
@@ -663,6 +676,7 @@ First Quarter Performance Report. Nkosi	9527
 First Quarter Report	17037
 First Quintile	10985
 First Reading Jun	17388
+First Reading and Second	18436
 First Real-Time Interoperable Payment System	17115
 First Real-Time Interoperable Payment System URL	17115
 First Refusal	11857
@@ -680,7 +694,7 @@ First SWA ID	12367
 First Safe Country Principle	11264
 First Sch	14713
 First Sch. Amended	14720
-First Schedule	587,149,487,654,111,721,66,138,3496,531,667,238,3418,713,434,233,662,2,10,81,5,13,54,14,122,804,5,7,5,8,159,123,2,1,2,6,7,5,3,63,3,5,20,9,37,720,1001,2,505
+First Schedule	587,149,487,654,111,721,66,138,3496,531,667,238,3418,713,434,233,662,2,10,81,5,13,54,14,122,804,5,7,5,8,159,123,2,1,2,6,7,5,3,63,3,5,20,9,37,720,1001,2,505,1327,15,2,7,8,74
 First Schedule Article	15014
 First Schedule Second Schedule Third Schedule	13305,1414
 First Schedule of First	6921
@@ -689,8 +703,9 @@ First Schedule- of First	6921
 First Schedule. Virtual Fiscal Device	13606
 First School Leaving Certificate Examination. Walter	2319
 First Secretary	13991
+First Secretary Development Cooperation	18641
 First Secretary Press and Public Relations	4365
-First Session	12955
+First Session	12955,5481
 First Sex	15247
 First Sexual Intercourse	13454,1793
 First Stage	11240
@@ -720,6 +735,7 @@ First Vice President Riek Machar	3584
 First Vice President's Office	11133
 First Vice President’s Office	11133
 First Vice-President	15670
+First Vice-President Riek Machar	18716
 First Westminster	6363
 First World War	10780
 First Year	8538
@@ -735,6 +751,7 @@ First and Second World Wars	14774
 First and Third Schedule	13606
 First for East Africa	3193
 First of First Schedule- Schedule	6921
+First-Ever Securitized	18471
 First-Ever Solar Mini-Grid Authorizations	10993
 First-Instance Courts	13948
 First-Level Review Mechanism	12389
@@ -821,6 +838,7 @@ Great Firewall	4514,728
 Great Firewall’ of China	2518
 Great First of September Revolution	17438
 Guinea. First	16675
+H E. President Bio Launched First-Ever	18471
 H.E. Bibi Ameenah Firdaus Gurib-Fakim	14724
 Health and Safety Policy The Fire Certificate	14738
 High Fire	17157
@@ -857,6 +875,7 @@ Insurance Firms Early-stage	12444
 Intermediaries FIRST Forum of Incident Response and Security	1264
 International A2P Messaging and Firewall Solution	7315
 Interruptions Madam First Deputy Speaker	13387
+Introduction and First Reading	18436
 Introduction and MTN's First Standalone Stand	5752
 Isibongo First	11573
 Israeli Firms	12130
@@ -870,6 +889,7 @@ KEEP FIRE AND FLAME AWAY	12253
 Karibib Karibib Fire Station Harambee	13046
 Kenya’s First	1131
 Know First	9331
+LAUNCHES FIRST OF IT KIND MANAGEMENT	18469
 LONGi Hi-MO X10 Powers Adailou's First	13874
 LRA Hosts First Digital Symposium	17258
 La Firma Electrónica	16855
@@ -877,6 +897,7 @@ La FirstBank DRC SA	3849
 Labour Market Services First Published	13037
 Land for Domestic Firms	12389
 Land for Foreign Firms	12389
+Launches First Tech Club	18574,9
 Launching First-Ever Master’s Program	17090
 Law Firm	9877
 Law Firm Details Plaintiff Attorney	14675
@@ -952,6 +973,7 @@ Ministry of Home Affairs' First Quarter Report	13231
 Ministry of ICT's First Quarter Performance Report	7453
 Ministry's First Quarter Performance Report	9525
 Ministry. First	2359
+MoCTI and UNICEF Sierra Leone Launches First	18583
 Mobile First	13602,2334
 Momo Wallet Include Firebase	15867
 Monthly Average Temperature Forecasts First	14955
@@ -986,6 +1008,7 @@ National Assembly. The First Lady	5100
 National Electronics Licensing System The Fire	14738
 National Fire	15845
 National Fire Brigade CC	18309
+National Open Source Software First Policy	18586
 National Registration Card. First-time	12406
 Natural Forest Mature Fire	17140
 Natural Secondary Forest Fire	17140
@@ -1046,6 +1069,7 @@ Performs First Penile Prosthesis Surgery Libya	2837,989,15,690,99,50,66,65,38,41
 Police Fire	9123
 Police Firmin BOKO	15918
 Police Force and Fire and Rescue Services	14830
+Popularise the RAIC President Bio Appoints First	18442
 Possession Of Firearm	16935
 Presidency NIBSS Executes First Transaction	3931
 President Boakai Officially Launches Liberia’s First	17037
@@ -1133,6 +1157,7 @@ Shiselweni Fire Stakeholders	12977
 Shiselweni Fire and Timber Association	12977
 Shortlisting Criteria Firms	14486
 Sierra Leone First Lady Fatima Bio	5390
+Sierra Leone's First Data Protection Law	18493
 Signalling Firewall	10721
 Siphofaneni Fire Station	12962
 Sistema de Firma Electrónica	16855
@@ -1148,6 +1173,7 @@ Somalia Launches Africa’s First National IPv6	15120
 Sophos Expands Firewall Portfolio	9830
 South Africa ArticleRwanda Gazettes First Law	6998
 South Africa Rank Firm Intensity	11885
+South Sudan Launches Its First Electronic	18697
 South-Africa First National Bank of Botswana PTY	12252
 Stanbic Bank Firm Survey Trade	5247
 Standard Bank and First National Bank	7331
@@ -1185,6 +1211,7 @@ Type of Building for Foreign Firms	12389
 UN First	2117
 UN First Committee	2117
 UNFPA First	15039
+UNICEF Sierra Leone Launches First Tech	18523,28
 UPND Members. Madam First Deputy Speaker	13387
 Uganda. Firstly	5220
 Under the First Schedule	10738
@@ -1198,6 +1225,7 @@ VC Fund Managers Corporate Venture Firms	4972
 VC Investment Firms Egypt E Squared	4972
 VC Investment Firms Financial Institutions Accelerators	4972
 VC Investment Firms UAE Renew Capital	4972
+VISTA BANK AFRILAND FIRST BANK DJIBOUTI	18489
 VODACOM LESOTHO HOSTS FIRST SOFTWARE FACTORY	12694
 Veld Fires	13474
 Visa and Afriland First Bank	5379

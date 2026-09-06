@@ -24,6 +24,7 @@ Equipment Detailed Specifications Server	12681
 FORMALLY SERVED	418
 FOURNITURE ET LIVRAISON SERVEUR PAIE ET	9339
 File Server	16927
+Hosting Servers	18470
 ICT SECTOR AND SERVE	14879
 INFORMALLY SERVED	418
 IP Server Equipment	6946
@@ -37,6 +38,7 @@ MIXP Route Servers	14810
 ML GPU-ACCELERATED SERVER PLATFORM	13621
 Main Server ID Production Center CPBI	10775
 Maria Server	3395
+Michcom-IX Route Servers	18579
 Microsoft SQL Server	13037,148,443
 Microsoft SQL Server Management Studio	10617
 Microsoft Server	5866,7689
@@ -50,6 +52,7 @@ PC. Server	34
 Perso Server	4924
 Provider Security Server	11952
 RPKI Enabled HUBSIX Route Servers Autonomous	18420
+RURAL DISTRICT Server	18476
 Regular Reboot of Serves Scheduled	9123
 Reporting Server	13037
 Reserve Parts for Servers	9123
@@ -68,8 +71,8 @@ Security Server	11952
 Security Servers	17097
 Selflessly We Serve’ Core Values	14760
 Sequel Server	9124
-Serve	2757,1104,667,6663,46,1119,142,14,162,1059,291,8,402,241,352,7,1799,39,242,2,24,254
-Served	1984,2958,664,283,454,183,4452,152,3545
+Serve	2757,1104,667,6663,46,1119,142,14,162,1059,291,8,402,241,352,7,1799,39,242,2,24,254,1084
+Served	1984,2958,664,283,454,183,4452,152,3545,3810
 Servem	12018
 Serventes	17604
 Server	593,626,5213,2691,1,3129,126,302,356,148,338,1260,381,110,1593,80
@@ -92,7 +95,7 @@ Servers Regular Restoration Tests of Servers and Services	9123
 Servers Zambia Refugee and Host Community Project	1988
 Servers and Applications	9123
 Servers and Storage	14783
-Serves	4130,525,1010,6195,3173,1,1798
+Serves	4130,525,1010,6195,3173,1,1798,1637
 Serves Citizens Opening	8367
 Servest	10279
 Serveur	15548,7,4,111,2153

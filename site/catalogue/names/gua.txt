@@ -126,9 +126,10 @@ Guangzhou	10846
 GuarantCo	8612,1608,1090
 GuarantCo Local-currency Domestic	11310
 GuarantCo's Cellcard	11310
-Guarantee	88,199,417,1,209,1,1,1,1,1,1,1,1,1,212,406,1,1,587,23,72,1,1378,924,320,852,73,1176,2,1986,208,254,261,1232,68,25,94,77,154,553,42,11,596,440,233,135,243,461,727,132,9,142,92,28,218,39,62,185,247,1045,166,180,145,98,411,20
+Guarantee	88,199,417,1,209,1,1,1,1,1,1,1,1,1,212,406,1,1,587,23,72,1,1378,924,320,852,73,1176,2,1986,208,254,261,1232,68,25,94,77,154,553,42,11,596,440,233,135,243,461,727,132,9,142,92,28,218,39,62,185,247,1045,166,180,145,98,411,20,502
 Guarantee Agency	11468,1500,1929
 Guarantee Agency ML Machine Learning MPA	3604
+Guarantee Agency MLGRD Ministry of Local Government	18504
 Guarantee Agency PCM Ministry of Digitalization and Digital	16144
 Guarantee Agency's Support for Private Investment	11310
 Guarantee Agreement	6539
@@ -143,6 +144,7 @@ Guarantee Framework Agreement	11236
 Guarantee Fund	10853,3171
 Guarantee Fund for SMEs	16942
 Guarantee Legal Identity	12241,839
+Guarantee Loans	18466
 Guarantee Payment Frequency	15905
 Guarantee Platform	11310
 Guarantee Scheme	14997
@@ -172,6 +174,8 @@ Guaranty Trust Bank Ltd	12038
 Guarascio	4676
 Guard	14358
 Guard Band Bandwidth	14780
+Guard Room	18543
+Guard Rooms	18543
 Guarda Costeira	1265,683
 Guarda Nacio	11527
 Guarda Nacional	11540,5607
@@ -183,7 +187,7 @@ Guardería Preescolar	16920
 Guarderías Infantiles	4209
 Guardhouses	12970
 Guardia Civil	11820
-Guardian	40,720,483,686,1291,378,1564,85,453,531,943,51,336,1271,52,680,242,586,105,1419,311,813,273,148,71,811,330,259,65,1215
+Guardian	40,720,483,686,1291,378,1564,85,453,531,943,51,336,1271,52,680,242,586,105,1419,311,813,273,148,71,811,330,259,65,1215,2383,3
 Guardian Correspondent	5977,2158,1670,587
 Guardian Digital	5883
 Guardian Fleet	11054
@@ -237,6 +241,7 @@ Guay and Birch	11028
 H. Guaranteeing	16958
 High Deposit Guarantee Fund	10779
 Housing and Guarantee Fund	13420,265
+IDA Guarantee Holder	18728
 IDA Resources Credit Grant SML Guarantee	14553
 IDA The Guarantee Agreement	6539
 IFC Catalytic First Loss Guarantee	8937
@@ -285,7 +290,7 @@ Million Guarantee for Côte	3626
 Minimum Guaranteed Banking Service	10967
 Mobile Money Guarantee	1541
 Monitoring Report Partial Debt Guarantee Arab	15905
-Multilateral Investment Guarantee Agency	88,199,417,1,209,1,1,1,1,1,1,1,1,1,212,406,1,1,682,1,1378,4874,2174,653,5,935,723,2691,67,149,568,529
+Multilateral Investment Guarantee Agency	88,199,417,1,209,1,1,1,1,1,1,1,1,1,212,406,1,1,682,1,1378,4874,2174,653,5,935,723,2691,67,149,568,529,1565
 Multilateral Investment Guarantee Agency. Task	14627
 Municipal Guard	8806
 Municipal Guards	8806
@@ -355,8 +360,10 @@ Sim Guard	7385
 Small Scale Enterprise Loan Guarantee Scheme	13123
 Smallholders’ Credit Guarantee Scheme Tanzania Agricultural	7763
 Solar Power for Telecom Towers Guarantee MIGA	704,1
+South Sudan Guarantee	18728
 Sovereign Guarantees	16966
 Stabilization Guarantee and Monitoring	11941
+Summary of Proposed Guarantee	18728
 Tanzania By Guardian Reporter	2857
 Telecom Tower Network Guarantee MIGA	88
 Telecoms Operator Guarantee	1542,683
@@ -376,5 +383,5 @@ W M Guatemala LATIN W AMERICA	11964
 WBG Guarantee Platform	11468,1
 Women GUATEMALA Men Women MEXICO Men	11964
 World Bank Group Guarantee Platform	11310,166
-World Bank Group Guarantees	11310
+World Bank Group Guarantees	11310,7418
 Zambia Credit Guarantee Scheme	12376

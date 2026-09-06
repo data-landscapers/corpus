@@ -43,6 +43,7 @@ Bruno Halopeau and Albtoul	10764
 Burkina Faso Dr Halguièta Nassa	15945
 Bydgoszcz City Hall	9237
 CBE Banking Hall	11134
+CCSL Hall	18549
 Cape Town City Hall	5199,9474
 Cases Vidal- Hal	8776
 Catholic Church Hall Duinesig Combined School	13046
@@ -97,6 +98,7 @@ Finnish Ambassador Saana Halinen	10510
 First Half	16516
 Foreign Affairs Academy Hall	9680
 Fundo de Gestão Haliêutico	17100
+GCFR PRESIDENTIAL BANQUET HALL	18572
 Gambia Halts Up-Country Civil Servant Verification	10110
 General Requirements for Halal Food	16900
 Gibeon Gibeon Community Hall GOCHAS	13046
@@ -121,7 +123,7 @@ Hala and Biladi	15342
 Halaba	10574
 Halaihai	1766
 Halakhe	12227,70
-Halal	16900,1415
+Halal	16900,1415,218
 Halal Accreditation Body Accrediting Halal Certification	16900
 Halal Comment	18315
 Halal Food	16900
@@ -135,6 +137,7 @@ Halbeegyada	15047
 Halbeegyada Xalka Waara	15047
 Haleem	9128
 Halevy	8604
+Half Allocations	18488
 Half of LLDCs	11563
 Half of Zimbabweans	12501
 Half the FY2024	2647
@@ -263,9 +266,11 @@ Minister Haliki Choua Mahamat	6929
 Ministerial Town Hall Meetings	17105
 Ministry of Education B Agricultural Centre Hall	13046
 Ministry of Tele- Hala Mutwakil Ahmed Elamin	14897
+Ministry’s Conference Hall. The Director of Stores	18500
 Ministère Des Ressources Animales Et Halieutiques	15936
 Mme SAMAKE KEITA Halimatou	18032
 Mme. Imami Halima	15456
+MoF Conference Hall Bombali District Council	18500
 Monsieur Ahmadou Halassi DICKO	17829
 Monsieur Halidou Adamou	18116
 Monsieur Halidou OUEDRAOGO	15942
@@ -276,9 +281,10 @@ Multi-Purpose Hall	9514
 Multipurpose Hall	12962
 Municipality Social Club Hall Hosiana Church	13046
 Mvuu Hall	9820
-Naomi Halewood	13314,1583,13,564,19,1383
+Naomi Halewood	13314,1583,13,564,19,1383,1747,12
 Narraville Luthern Church Hall Kuisebmond Baptist	13046
 National Confederation of Eritrean Workers Hall	14009
+National Unity At Presidential Town Hall	18546
 Nautilus Diaz Primary School Hall	13046
 Nawel Hallaci	15410
 Netumbo Nandi-Ndaitwah Science Exhibition Hall	13202
@@ -297,8 +303,10 @@ PTML Conference Hall. Deputy Comptroller Nura	8278
 Pauly Halweendo	12478
 Paynesville City Hall	4554,12862
 Paynesville Town Hall	17025
+Police Wives Multipurpose Hall	18486
 Pour Halguièta Nassa	3354
 Prentice Hall	11130
+Presidential Town Hall	18493,15,6,7,45
 Psychoses Hallucinatoires Chroniques	15423
 RED SEA Halayib	15244
 Rawad Halabi	16902
@@ -328,6 +336,7 @@ Swakopmund Municipality Training Hall Atlantic Junior	13046
 Tariffs for Bilateral Half Circuits	14723
 Tim Hall and Ulrike Ziemer	9616
 Town Hall	11134,1912,5053
+Town Hall Meeting	18665
 Town Hall Meetings Regular Meetings Meetings	11131
 Town Hall Meetings Town	12210
 Trois Boutiques Village Hall	14746
@@ -352,3 +361,4 @@ Wilmer Hale	4127
 Yaoundé City Hall	6606
 Youth Town Hall	8101
 Zacharias Lewala Hall	13046
+Zion Bi-Centenary Hall	18510

@@ -147,10 +147,11 @@ Fixation des Conditions de Mise	15497
 Fixação	11518,2,1333,2505
 Fixe Taux	998
 Fixe. En	18122
-Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58,379,165,94,2,784,53,117,353,215,17,44,223,16,69,167,52,47,40,106,145,105,685,258,73,6,11,40,35,261,14,129,364,12,107,8,7,1,245
+Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58,379,165,94,2,784,53,117,353,215,17,44,223,16,69,167,52,47,40,106,145,105,685,258,73,6,11,40,35,261,14,129,364,12,107,8,7,1,245,362,71,77
 Fixed Annual	13331
 Fixed Asset	13053,2037
 Fixed Asset Management Units	9004
+Fixed Asset Management and Inventory Management	18576
 Fixed Asset Register	9004
 Fixed Assets Coverage	11955
 Fixed Assets Register	16978
@@ -163,11 +164,13 @@ Fixed Broadband	2776,9619,2725,16,1747
 Fixed Broadband Complaints Reach	11642
 Fixed Broadband Market	12395
 Fixed Broadband Market Shares	12395
+Fixed Broadband Median Download Speed	18485
 Fixed Broadband Networks Access	718
 Fixed Broadband Penetration	16975
 Fixed Broadband Plan Ireland Yes National	11529
 Fixed Broadband Retail Market	17870
 Fixed Broadband Revenue Subscriptions Market	12395
+Fixed Broadband Services	18485
 Fixed Broadband Subscription	2776
 Fixed Broadband Subscriptions	2776,9619,2741
 Fixed Broadband Subscriptions Market	12395
@@ -230,7 +233,7 @@ Fixed Network Connectivity Fixed Network Connectivity	12395
 Fixed Network Minute of Use	2776
 Fixed Network Minutes	2776
 Fixed Network Operations	12395
-Fixed Network Operators	3862,11274
+Fixed Network Operators	3862,11274,3308
 Fixed Network Operators Employment	12395
 Fixed Network Planning and Engineering Director	9528
 Fixed Network Services	6671
@@ -310,6 +313,8 @@ Fixed Wireless Access Subscriptions	6000
 Fixed Wireless Access System	736
 Fixed Wireless Broadband	16975
 Fixed Wireless Internet Subscription	3862
+Fixed Wireless Networks FWN	18485
+Fixed Wireless Networks GDP	18485
 Fixed Wireless Subscriptions	6671
 Fixed Wireless Subscriptions Fixed Line Subscriptions	12395
 Fixed Wireless Telephone	12395
@@ -327,6 +332,7 @@ Fixed-	10844,4627
 Fixed-Budget Selection	13037
 Fixed-Fixed	6671
 Fixed-Line Services Record	11642
+Fixed-Line Telephones	18441
 Fixed-Mobile Convergence	1272
 Fixed-Wired Broadband Subscriptions	12395
 Fixed-Wired Telephone Subscriptions	12395
@@ -352,7 +358,7 @@ Fixedsales	12769
 Fixer	7920,971,1985,2425,40,378,62,62,1631,462,609,1277
 Fixes	998
 Fixes L’évolution	998
-Fixing	9683,26,2629,118
+Fixing	9683,26,2629,118,6100
 Fixing Date	16219
 Fixing Ghana	3691
 Fixing Land Records Is Central	12456
@@ -377,6 +383,7 @@ Gabon Telecom Fixe GVA GBM Comparativement	15706
 General UI Improvement Minor Bug Fixes	15867
 Gigabytes. Fixed	11085
 Gross Domestic Product GFCF Gross Fixed	16996
+Gross Fixed Capital Fomation	18483
 Gross Fixed Capital Formation	2775,12055,2166
 Gross Fixed Capital Formation GIBA Ghana	236
 Gross Fixed Capital Formation and FDI Djibouti	13868
@@ -386,6 +393,7 @@ HF PMR Fixed	6946
 Headquarters Allowance Proposed Fixed Rate	13037
 Hirshabelle's Digital Fix for Somalia's Oldest Tax	7897
 Home FWA Fixed Wireless Access	1818
+Home Region Radio Television Telephone Fixed	18441
 Hour Proposed Fixed Rate	13037
 I MÉTHODE DES JOURS FIXES	13300
 I. INTERNET FIXE Tableau	16326

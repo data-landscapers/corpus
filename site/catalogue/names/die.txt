@@ -17,6 +17,7 @@ BOUSSAMBA MOUBAMBA Dieudonné	16381
 Bank. Diederick Zambon Article	15901
 Bery Dieye	8151
 Bounama DIENG	17882
+C. Diesel NLe5.0	18541
 CEMAC1 Gasoline Diesel Sources	1828
 Cercle de Koutiala DIEDOUGOU	17828
 Cheikh Tidiane DIEYE	18310
@@ -131,9 +132,10 @@ Diet and Nutrition	14773
 Dieta	10760
 Dieta Hospitalar Dieta Hospitalar Nutrição Contém	966
 Dieta Mínima Aceitável	10777
-Dietary	17127,38
+Dietary	17127,38,1276
 Dietary Diversity Score	12978
-Dietary Diversity for Women	17165
+Dietary Diversity for Women	17165,1405
+Dietary Supplement	18541
 Dietas	4209
 Diethylcarbamazine	14622
 Diethylcarbamazine and Albendazole	14622
@@ -192,6 +194,7 @@ Electricité COPIL Comité de Pilotage DDO Diesel	15769
 Emeriand Dieu Merci KIBANGOU	16249
 Empowerment and Dietary Diversity	17127
 Enseignement Supérieur Dieudonné PAMBO Le Ministre	15361
+Equity Minimum Diet Diversity	18441
 FBI San Diego	11342
 FBI San Diego Field Office	11342
 FBI’s San Diego Field Office	11342
@@ -219,7 +222,7 @@ High Dietary Diversity	12978
 Hon. Dier Tong Ngor	3583
 Household Dietary	970
 Household Dietary Diversification Score Output	12978
-Household Dietary Diversity Score	12978
+Household Dietary Diversity Score	12978,5769
 Household Dietary Diversity Scores Profile	12978
 Huawei Diez	14304
 Hydro Diesel	11953
@@ -273,8 +276,9 @@ Measure Food Consumption and Diet Quality Identify	17285
 Medium Dietary Diversity	12978
 Medium Speed Diesel	12256
 Minimum Acceptable Diet	15247
+Minimum Diet Diversity National	18441
 Minimum Dietary Diversity	15247
-Minimum Dietary Diversity for Women	12978,4149,38
+Minimum Dietary Diversity for Women	12978,4149,38,1405
 Mme Dieng. Elle	10493
 Mme Fatou Dieng Gueye	15837
 Moctar DIEPKILE Secrétaire	17982

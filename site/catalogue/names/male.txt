@@ -5,8 +5,10 @@ ASMR- Male ASMR- Female	15056
 Adriano Afonso Maleiane. Preço	12783
 Africa and Havana’s Malecón	5407,676
 Age Female Male Sex Ratio	12151
+Age Group Male Female J S	18443
 Age Group of Police Officers Male Female	14760
 Age Male Female Total Kenya	12151
+Age Males Females	18441
 Akech Tong Malek	17557
 All Female Male Percentage Technical Report	10841
 Allan Maleche	4674
@@ -25,6 +27,8 @@ County Male Female Sex Ratio Number	16921
 Criminal Malevolence	16935
 DR. GABRIEL G. G. MALEBANG	3887,8675,67
 DRC Population Urban Rural Total Male	12006
+Deficit of Males	18464
+Designation Male Female Sum	18578
 Direct Male Beneficiaries	15663
 District Female Male	12413
 Dr. Jarso Maley Jallah	17173
@@ -56,6 +60,8 @@ Female Male Female Male Bomi	16935
 Female Male Female Male Female Male	16935
 Female Male Northern Province Southern Province	12413
 Female Male Other Services Industry	12445
+Female Male Regional	18441
+Female Male Senior Secondary	18441
 Female Male Total Agriculture	11581
 Female Male Total Guinea-Bissau	11581
 Female Male Unknown Total Female Male	16935
@@ -63,6 +69,7 @@ Female Male Workforce	14761
 Female and Male	8604
 Females102.7 Males Births	15056
 Forensic Science Laboratory Cadre Male Female	14742
+Freetown Male Correctional Centre	18477
 GDP. Male LFP	17458
 Gambia Male	16935
 Garang Malek and Ruey Guandong	3583
@@ -81,6 +88,7 @@ Guinea Male	16935
 HOH Male Headed HOH Women Men	17127
 Halfway House Age Groups Male Female	12977
 Head Male	17127
+Highest Degree Male Female Sum	18578
 Hon. Dr. Jarso Maley Jallah	17021
 Household Head and County Agriculture Households Male	16921
 Household Headship Male-headed	12383
@@ -92,6 +100,9 @@ Information System MHH Male-Headed Households MSME	11549
 Ivory Coast Male	16935
 JS Malema	12054
 John Samweli Malecela Grounds	9290
+Joseph Malek Arop	18666
+Kailahun Malema	18464
+Kenema Malegohun	18464
 Kenya Ethiopia Egypt Male	11964
 LATIN AMERICA Male	11004
 Liberia Male Female Urban Rural Literate	16921
@@ -144,7 +155,7 @@ Male Female Provisional	14832
 Male Female Rank Cause	15056
 Male Female Recruitment	14760
 Male Female Rural Urban	12431
-Male Female Table	11192
+Male Female Table	11192,7251
 Male Female Total Did	16950
 Male Female Total Literate	16950
 Male Female Total Male Female	11192,3704,2054
@@ -177,7 +188,7 @@ Male Quarterly	15845
 Male Young	14897
 Male and Female	12253
 Male-dominated Sectors	10964
-Male-headed	17285
+Male-headed	17285,1158
 Malebona Mathulise	12712
 Malecela MN. Can	1219
 Malecela&volume	1219
@@ -195,8 +206,9 @@ Malem Hodar	18304
 Malem Niani	18304
 Malengo	7763
 Maleoatle Chele	12697
-Males	958,8527,1646,787,233,258,4,564,1919,160,607,1310
+Males	958,8527,1646,787,233,258,4,564,1919,160,607,1310,1470,184
 Males Female Rank Cause	12413
+Males Females	18441
 Maletela Tuoane-Nkhasi	12328
 Malette	10400
 Malettes	10847
@@ -217,6 +229,7 @@ NA Male	12344,3273,1323,937,1
 NA Male Internet	12344,5533,1
 NER Male	13991
 NUMBER Male Female	14835
+NUMBER OF MALES PER	18464
 National Male Female	12251
 National Male Female Mobile Phone Usage	12251
 Nationwide Urban Rural Male Female	582
@@ -230,6 +243,7 @@ Nigerian Male Nigerian Female Expatriate Male	3862
 Nigerian Nigerian Male	3862
 Nigerian Nigerian Male Nigerian Nigerian Female	3862
 Number Percent Number Male	16950
+PHC. Region Total Male Headed Female	18443
 Percentage Female Male	14775
 Percentage Number Male Female Total Top	14773
 Permanent Contract Executive Female Male	12969
@@ -241,6 +255,8 @@ Post Number Male Female	14760
 Rank Cause of Death Male Female	12151
 Rank Female Male	12413,2643
 Rate Male Male Female	12151
+Region Male Female	18443
+Region Male Female Electricity	18443
 Region Urban Region Rural Gender Male	12399
 Religious Affiliation and Sex Male Percent Female	16921
 River Gee Grand Kru Male Female	16921
@@ -281,7 +297,7 @@ Thembi Malena Kumapley The World Bank	17962
 Togo Male	16935
 Type of Residence and County Male Female	16921
 Uneducated Primary Secondary Higher Male Female	15574
-Universe Male	17165
+Universe Male	17165,1405
 Unknown Total Female Male Unknown	16935
 Urban Number Total Male Female Rural	12431
 Urban Rural Male Female Azerbaijan UMIC	16996

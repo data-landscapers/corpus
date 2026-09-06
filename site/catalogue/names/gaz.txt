@@ -122,9 +122,9 @@ Gazethi	11573
 Gazethi Kahulumeni	11573
 Gazetre	11178
 Gazetta. Extra Ordinary Issue No	12188
-Gazette	1,2,8,11,4,1,383,3,174,149,473,11,113,202,58,157,150,99,727,1,580,72,335,173,466,491,484,174,185,127,58,915,134,627,276,21,1104,268,722,1143,95,1,1,3,7,10,2,34,14,14,17,237,34,300,125,71,104,102,105,7,45,49,64,3,5,1,3,11,2,1,13,67,1,13,1,1,2,1,2,1,2,8,61,165,1,5,1,3,1,7,1,3,1,6,14,13,11,5,78,214,35,1,18,2,4,4,2,4,1,30,19,27,5,59,8,14,17,65,40,348,453,2,1,12,27,5,39,101,5,48,67,1,1,3,1,2,13,117,67,444,11,99,1130,227,6,3,48,221,135,6,1,299
+Gazette	1,2,8,11,4,1,383,3,174,149,473,11,113,202,58,157,150,99,727,1,580,72,335,173,466,491,484,174,185,127,58,915,134,627,276,21,1104,268,722,1143,95,1,1,3,7,10,2,34,14,14,17,237,34,300,125,71,104,102,105,7,45,49,64,3,5,1,3,11,2,1,13,67,1,13,1,1,2,1,2,1,2,8,61,165,1,5,1,3,1,7,1,3,1,6,14,13,11,5,78,214,35,1,18,2,4,4,2,4,1,30,19,27,5,59,8,14,17,65,40,348,453,2,1,12,27,5,39,101,5,48,67,1,1,3,1,2,13,117,67,444,11,99,1130,227,6,3,48,221,135,6,1,299,888,1,21,3,6
 Gazette County Government Co-	7548
-Gazette No	1009,10564,474
+Gazette No	1009,10564,474,6404
 Gazette No.132	1263
 Gazette No.196	1263
 Gazette No.30	1263
@@ -173,6 +173,7 @@ Gazetted	2709,1037,1941,5138,1431,102
 Gazetted Basic Minimum Monthly Wages	2775
 Gazetted DI Policy Paper Q4	11986
 Gazetted Export Processing Zones	2775
+Gazetted List	18459
 Gazetted Monthly Basic Minimum Wages1 for Agricultural	2775
 Gazettes Africa	2816
 Gazettment	12912
@@ -190,7 +191,7 @@ Gazzarata	8603
 Ghana Gazette	11,15448
 Ghana Gazette Commenced	15562
 Gouvernement. Official Gazette	15126
-Government Gazette	967,3,55,408,317,97,27,1,25,99,118,609,1,217,2,464,241,1081,328,438,4,31,252,91,489,106,41,320,74,145,773,4,22,55,75,108,147,982,148,1811,3,1,1,8,7,5,16,1,17,5,9,737,68,271,2,38,10,6,181,82,1,2,1,3,10,232,12,54,87,143,98,28,2,249,1170
+Government Gazette	967,3,55,408,317,97,27,1,25,99,118,609,1,217,2,464,241,1081,328,438,4,31,252,91,489,106,41,320,74,145,773,4,22,55,75,108,147,982,148,1811,3,1,1,8,7,5,16,1,17,5,9,737,68,271,2,38,10,6,181,82,1,2,1,3,10,232,12,54,87,143,98,28,2,249,1170,3840
 Government Gazette Assumptions NA Disaggregation	11986
 Government Gazette Commenced	13564
 Government Gazette Extraordinary	12909,219
@@ -266,10 +267,11 @@ Number of Gazelles	1885
 OFFICIAL GAZETTE OF THE REPUBLIC	14918
 ORYX GAZ SENEGAL SA	18322
 Office FEDERAL NEGARIT GAZETTE	12185
-Official Gazette	3,4,1013,194,119,423,1,1,1,1,1,1,1,1,1,1375,1,1,1,1,1,1,1,1,713,266,226,244,163,2152,1,1,1,1,1,1,1,1,3801,54,44,698,438,21,225,132,5,75,79,926,991,238,211,3,1,1,7,14,7,2,15,3,7,1,108,75,24,51,216,80,11,8,1450
+Official Gazette	3,4,1013,194,119,423,1,1,1,1,1,1,1,1,1,1375,1,1,1,1,1,1,1,1,713,266,226,244,163,2152,1,1,1,1,1,1,1,1,3801,54,44,698,438,21,225,132,5,75,79,926,991,238,211,3,1,1,7,14,7,2,15,3,7,1,108,75,24,51,216,80,11,8,1450,1656,1
 Official Gazette A- Adle	14884
 Official Gazette Issue	14884
 Official Gazette No	1220
+Official Gazette Publication	18745
 Official Gazette no Special of 16.06.2013.pdf	12413
 Official Gazette of Mozambique	3861
 Official Gazette. All	10004
@@ -299,18 +301,34 @@ Republic OFFICIAL GAZETTE Price EGP	15492
 Réseau Gazier du Sénégal	18322
 SECTEUR GAZIER	18322
 SECTEUR GAZIERS	18322
-SIERRA LEONE. GAZETTE NO	410
+SIERRA KLEONE GAZETTE No	18434
+SIERRA LEONE. EXTRAORDINARY GAZETTE NO	18452,15
+SIERRA LEONE. GAZETTE EXTRAODINARY NO	18465
+SIERRA LEONE. GAZETTE EXTRAORDINARY NO	18466,75
+SIERRA LEONE. GAZETTE NO	410,18028,2,5,5,1,12
+SIERRA LEONE.. EXrrAORDINARY GAzETTE No	18468
 SPECIAL ISSUE Kenya Gazette Supplement No	7832
 SPS Gaza	2228
 STATE OF ERITREA 2014.pdf GAZETTE OF ERITREAN LAWS	13961
 SWAZILAND GOVERNMENT GAZETTE EXTRAORDINARY VOL. LVI	12916
 Services. Gazette	11235
-Sierra Leone Gazette	439
-Sierra Leone Gazette Vol. CXLX	410
+Sierra Leone Extraordinary Gazette Vol. CXLXI	18452
+Sierra Leone Extraordinary Gazette Vol. CXLXII	18468
+Sierra Leone Extraordinary Gazette Vol. CXLXIII	18467
+Sierra Leone Gazette	439,17998,25
+Sierra Leone Gazette Extraordinary Vol. CLXVII	18541
+Sierra Leone Gazette Extraordinary Vol. CXLXIII	18459,7
+Sierra Leone Gazette Extrordinary Vol. CXLXIII	18465
+Sierra Leone Gazette Vol. CXLVII	18440
+Sierra Leone Gazette Vol. CXLX	410,18035
+Sierra Leone Gazette Vol. CXLXI	18450,1
+Sierra Leone Gazette Vol. CXLXIII	18463
+Sierra Leone Gazette Vol. CXXXIII	18435
 Société Mauritanienne de Gaz	17894
 Somaliland HOL Gaza	2279
 South Africa ArticleRwanda Gazettes First Law	6998
 South Africa Government Gazette	11235
+South Sudan Gazette No.6 Volume	18598
 South Sudan Official Gazette	4597
 South Sudan Official Gazette. Following	4597
 Sudan News Gazette	15241

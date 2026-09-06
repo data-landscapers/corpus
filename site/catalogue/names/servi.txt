@@ -101,6 +101,7 @@ ARTICLE I SCOPE OF SERVICES	13031
 ARTICLE IV PAYMENT FOR THE SERVICES	13031
 ARTISANAT DE SERVICE	10875
 ARV Services	12379
+ASA Advisory Services	18614
 ASA Advisory Services and Analytics ASP Adaptive	18301
 ASA Advisory Services and Analytics CCOD State	18293
 ASAN Service	5429
@@ -121,6 +122,7 @@ AUC-AfricaNenda Digital Financial Services	1115
 AUDIT SERVICES REGISTRATIONS DEBT COUNSELLING STATISTICS	11198
 AUTHENTICATION SERVICES	10765
 AUTHORISATION OF PAYMENT SERVICE PROVIDERS	12365
+AUTHORITIES TO DELIVER SERVICES IN SOUTH	18612
 AUTHORITY’S SERVICES	16900
 AUTRES ACTIVITÉS DE SERVICES N.C.A	18424
 AUTRES PRESTATAIRES DE SERVICES BANCAIRES Section	14429
@@ -178,7 +180,8 @@ Account Based Payment Services and P100	12542
 Account CCSS Counter Corruption and Security Services	5533
 Accountability Transformation GST Goods and Services Tax	16949
 Accountability and Service	17106,81,79
-Accountable Governance for Basic Service Delivery	2112
+Accountable Governance for Basic Service Delivery	2112,16344,38,6,62,15
+Accountable Governance for Basic Service Delivery Project	18500
 Accountant General Department CSCs County Service	16949
 Accreditation Services International	14736
 Accueil Accueil Services Disponibilité	9049
@@ -204,6 +207,9 @@ Acuerdos de Niveles de Servicio. Los Servicios	16855
 Acumen EA Advisory Services Limited Data	7167
 Adaptive Social Protection Programmatic Advisory Services	16384
 Added Service	3862
+Added Service Providers	18485
+Added Service Providers VASP	18485
+Added Service Providers VSAT	18485
 Added Services	3487,2532,665,5173,5027,39
 Added Services and Digital Disruption	16923
 Addis Ababa Civil Registration and Residency Service	12222
@@ -246,7 +252,7 @@ Advancing Service Delivery	14773
 Advertising and IT Services	16266
 Advisory Council USF Universal Service Fund	6946
 Advisory Services Specialist	17114
-Advisory Services and Analytics	10841,539,475,1113,2585,48,2692
+Advisory Services and Analytics	10841,539,475,1113,2585,48,2692,327
 Adwoa Wiafe Chief Corporate Services and Sustainability	5136
 Aerial Service Pathways Routes	9123
 AfCFTA Digital Trade and Services Forum	5247
@@ -298,12 +304,14 @@ Agricultural Services	6948,7870
 Agricultural Services Center Establishment	15578
 Agricultural Services Center Renovation and Revitalization	15578
 Agricultural Services Centre Developing the Musa Shakr	15578
+Agricultural Support Services	18483,5
 Agriculture Service	15583
 Agriculture Transportation Energy Financial Services Lands	4126
 Agriculture and Financial Services	10220
 Agro Industries and Post-Harvest Management Service	17945
 Air Navigation Service Provider	14167
 Air Services Agreement	11185,2377
+Air Transport Services	18555
 AirfieldLighting Maintenance and Fire and Rescue Services	16552
 Airport Services	12742
 Airtel AI Spam Alert Service. Airtel	2558
@@ -385,6 +393,7 @@ Application Service Provider	6946,3076,4943,1942
 Application Service Providers	6946
 Application Service Providers ATCOs Air Traffic	2775
 Application Services	736,5283
+Application Services Unit	18481
 Application Services and Value-Added Services	2868
 Applications and Services	11552
 Approche Orientée Service	14438
@@ -432,7 +441,10 @@ Audio-Visual Services and Media Policy	6152
 Audiovisual and Digital Media Industry Support and Services	5188
 Audit Requirements Service	11952
 Audit Service Act	15657
-Audit Service Sierra Leone	9680
+Audit Service Regulation	18577
+Audit Service Sierra Leone	9680,8814,6
+Audit Service Sierra Leone ASYCUDA Automated	18488
+Audit Service Sierra Leone. End-user	18500
 Audit Services	17364
 Audited Rm Irancell Telecommunication Company Services	10793
 Auditing Services	13420
@@ -485,6 +497,7 @@ B. E-Government Services and GovNet	16975
 B. Improved Bandwidth and Service Delivery	16975
 B.1.5 Quality of Service	14674
 B.3 Cost-Effectiveness of Key Service Delivery Interventions	16436
+B.5 Elevated Service Reservoir	18543
 BALOZI LIAISON SERVICES INTERNATIONAL LIMITED Data	7167
 BAMBA FINANCIAL SERVICES ASSOCIATION C.B.O Data	7167
 BANDWIDTH AND CLOUD SERVICES GROUP LIMITED	7167
@@ -572,7 +585,9 @@ Based Health Service Delivery	10829
 Based Payment Services	5687
 Baseline Assessment of Liberia’s Country Service Centers	16949
 Baseline Assessment of Liberia’s County Service Centers	16949
+Bases and Criteria for Setting Public Communication Services	18602
 Basic Regulatory Enablers for Digital Financial Services	16942
+Basic Sanitation Services SDG	18441
 Basic Service	15518
 Basic Services	11536,1938,1937,89,18
 Basic Services. Under	16187
@@ -585,6 +600,7 @@ Belgian Federal Public Service Justice	1235
 Belgium-based Internet Service Provider GBS	15513,40
 Belgravia Rescue Services	4896
 Beneficiaries of Identity Services	15415
+Benefits and Terms of Service	18596
 Benin Economic Governance for Service Delivery Program	10856,14
 Best Government Service	4921
 Bethesda Health Care Services Company Limited	7167
@@ -706,6 +722,7 @@ Bénin Télécoms Services S.A OBJET	10821
 C Services	17982
 C Serviço C SERVIÇOS CENTRAIS EXECUTIVOS	11379
 C des Services	17982
+C. ENHANCING INTEGRATED HEALTH SERVICE DELIVERY	18532
 C. Mobile Financial Services	16975
 C. Reforming Universal Service Mechanisms All	14723
 C. SERVICE SPECIFICATIONS	13185
@@ -761,6 +778,7 @@ CHAPITRE IV CONDITIONS D'EXPLOITATION DES SERVICES	16295
 CHAPITRE IV CONDITIONS D’EXPLOITATION DES SERVICES	15943
 CHAPTER IV E-GOVERNMENT SERVICES Acceptance	11179
 CHAPTER VI AUTHENTICATION SERVICE PROVIDERS Part	11179
+CHAPTER VI POSTAL SERVICES	18602
 CHARGES FOR PAYMENT SERVICES WITHIN	12447
 CHARGES SUR PRESTATIONS DE SERVICES FINANCIERS	18032
 CHARIE KIDS TRANSPORT SERVICES Data Processor	7167
@@ -820,8 +838,9 @@ CONSOLIDATED FUND SERVICES	14546
 CONSOMMATEURS DES PRODUITS ET SERVICES BANCAIRES	15482
 CONSULAR OUTSOURCING SERVICES KENYA LIMITED Data	7167
 CONSULTANCY SERVICES FOR THE DEVELOPMENT	11750,1287
-CONSULTING SERVICES	9603,1,2146,1084,570,2748,341,762
+CONSULTING SERVICES	9603,1,2146,1084,570,2748,341,762,1320
 CONSULTING SERVICES FOR DEVELOPMENT OF DIGITAL	13083
+CONSULTING SERVICES TO DEVELOP A FINTECH	18495
 CONSULTING SERVICES-FIRMS SELECTION	8669
 CONTENU DU SERVICE	17819
 CONTRACT No. CONSULTANCY SERVICE CONTRACT BETWEEN	13031
@@ -954,12 +973,14 @@ Certificate Authentication Services	14137
 Certificate Service	11952
 Certification Service Provider	12865
 Certification Service Providers	14253
+Cessation of Interconnection Services	18602
 Cessação de Serviços	11430
 Chairman Federal Civil Service Commission	1014
 Chairman Federal Inland Revenue Service	1014
 Chairman National Assembly Service Commission	1014
 Chapter IV Licensing Services	15340
 Chapter Lead for Digital Financial Services	16942
+Chapter XIII's Universal Service and Access Fund	18601
 Charges for Airports and Air Navigation Services	10723
 Chargé de Service Achat	16381
 Chargé des Affaires Juridiques du Service Juridique	743
@@ -1071,7 +1092,7 @@ Civil Registration Services Directorate	12151
 Civil Registration Services The Kenya Vital	12151
 Civil Registration Services and Legal Affairs	9696
 Civil Registration and Residency Service Agency	14052
-Civil Service	1014,3112,76,2980,477,314,396,263,905,526,93,669,45,1125,941,36,339,17,1388,13,106,62,400,221,1340,127,1255,65
+Civil Service	1014,3112,76,2980,477,314,396,263,905,526,93,669,45,1125,941,36,339,17,1388,13,106,62,400,221,1340,127,1255,65,162,130
 Civil Service Act	16985
 Civil Service Agency	2548,1735,4805,123,7759,15,8,18,46,82
 Civil Service Agency Director-General Josiah F	9088
@@ -1100,6 +1121,7 @@ Civil Service Family Protection Scheme Board	14847
 Civil Service Housing Loan Fund	13420
 Civil Service Human Resource Management	15518
 Civil Service Law	14891
+Civil Service Management	18576
 Civil Service Management System	16985
 Civil Service Minister	3295
 Civil Service Minister Jean-Pierre Lihau. Supported	3295
@@ -1109,6 +1131,7 @@ Civil Service Pay Policy	16858
 Civil Service Pay and Grading Structure	16858
 Civil Service Reform Program	17105
 Civil Service Reform Programme	6946,1421,8491
+Civil Service Revised Civil Service Code	18488
 Civil Service Training Center	16985
 Civil Service Training College	7182
 Civil Service University	17226,6
@@ -1127,8 +1150,10 @@ Civil and Criminal Identification Services	10775
 Civil and Public Service	16861
 Civil and Public Services	7659
 Cladfy Financial Services	7167
+Claims for Compensation. CHAPTER VI POSTAL SERVICES	18602
 Class Comprehensive Telecommunications Service Licence	5498,31
 Class Comprehensive Telecommunications Service License	6826
+Classes and Count of ICT Service Providers	18485
 Classification of Financial Services and Products	2775
 Cleaning Services	12971
 Clearing and Settlement Services	4896
@@ -1223,12 +1248,14 @@ Common Systems and Standards for Infrastructure and Services	16885
 Communication Infrastructures and Services Policy	15471
 Communication Service	9076,159
 Communication Service Project	35,9531
-Communication Services	11986,976,4908
+Communication Services	11986,976,4908,732
 Communication Services Commercial	4972
+Communication Services The NCA	18746
 Communication Services. InstaDeep’s US	4972
 Communication Technology and Postal Service	4223
-Communication Technology and Postal Services	2685,2,896,145,369,146,354,1585,10,736,519,2323,4559,581
+Communication Technology and Postal Services	2685,2,896,145,369,146,354,1585,10,736,519,2323,4559,581,3708,5,7,2,4,20,24,23,9,6,2,1
 Communication Technology and Postal Services Ateny Wek	4082
+Communication Technology and Postal Services Funding Agency	18711
 Communication Technology and Postal Services. The Commission	6776
 Communication and Collaboration Services	12359
 Communication and Innovation Ministry of Public Service	11332
@@ -1238,6 +1265,7 @@ Communications Infrastructure and Services Provider	14965
 Communications Service Proclamation No	762,13225
 Communications Services	12552,6
 Communications Services Directive	14010
+Communications Services Form SR1A	18452
 Communications and Postal Services	17608
 Communications and Technology ISP Internet Service Provider	10781,1646,2055
 Community Centred Justice Service	14012
@@ -1293,7 +1321,8 @@ Consolidated Fund Services	14546
 Constitucional Servicio	4209
 Consultancy Service Providers	11131,3
 Consultancy Service for Contracts	13017
-Consultancy Services	9604,4318,564,250,9,16,167,2050
+Consultancy Services	9604,4318,564,250,9,16,167,2050,1734
+Consultancy Services Method	18712,6
 Consultancy Services Provide	13077
 Consultancy Services for Conducting	16872
 Consultancy Services for Feasibility Study	14957
@@ -1303,9 +1332,9 @@ Consultant Services	13017
 Consultant Services Central African Republic Estimated	16194
 Consultant Services for Digital	13017
 Consultants' Services	17441
-Consulting Service	16493
+Consulting Service	16493,2218
 Consulting Service Type	8726
-Consulting Services	210,9393,1,1921,338,42,1132,888,1218,229,146,35,106,1521,690
+Consulting Services	210,9393,1,1921,338,42,1132,888,1218,229,146,35,106,1521,690,625,80
 Consulting Services All TORs All	15518
 Consulting Services Category Prior Review	13017
 Consulting Services Consultants	11855
@@ -1349,11 +1378,13 @@ Cool Ideas Service Provider	11259
 Cool Ideas Service Provider FTTx	11259
 Coordinador Grupo D Servicio	4209
 Coordinador Regional Grupo D Servicio	4209
+Coordinated Government Service	18540
 Coordination of Humanitarian Affairs PACAD Service Delivery	15731
 Coordonnateur du Service	7670
 Copernicus Climate Change Service	17257
 Copernicus Emergency Management Service	17969
 Copernicus Land Monitoring Service	16411
+Copyright Schedule of Fees Services Offered Fees	18541
 Core Service Systems	11952
 Core Services	11952,101
 Core Services NVCCZ	12495
@@ -1367,6 +1398,7 @@ Corporate Services and Organisational Planning	12753
 Corporate Support Services	11261
 Corporate Training Service Providers	11956
 Corporate and Legal Services Lead	4763
+Correctional Service	18477
 Correctional Service NPRS National Population Registration	12947
 Correctional Services	1604,1289,8396,1633,34,16,5,20,96,30
 Correctional Services IATI International Aid Transparency	12962
@@ -1430,7 +1462,7 @@ Current State of Digital Financial Services	13312,2,4556
 Customer Centric Service Delivery Platform	3907
 Customer Experience and Service Quality Assessment	15120
 Customer Requests Service Business Business Service	9124
-Customer Service	16266,969
+Customer Service	16266,969,1215
 Customer Service Charter	12345
 Customer Service Credit Scoring	4848
 Customer Service System	11939
@@ -1442,6 +1474,7 @@ Customer Services	12497
 Customer Services Clerks	16266
 Customer-Centric Service	14761
 Customs Service	8499,3352
+Customs Service Act	18608
 Customs Services	10785
 Customs Services Division	13403
 Custos Cadastrais Normas de Serviço	11898
@@ -1588,12 +1621,14 @@ DFS. Service	15480
 DFT HEALTH SERVICES LTD Data Controller	7167
 DFT HEALTH SERVICES LTD Data Processor	7167
 DHIRRE MEDICAL SERVICES LTD Data Controller	7167
+DHIS2 Data Service	18478
 DHIS2 Service	16922
 DHIS2 Shared Services Fee	6153
 DIGITAL BUSINESS SERVICES Promote	16942
 DIGITAL CREDIT SERVICES	6940
 DIGITAL FINANCIAL SERVICES	14022,1425,33,1462,928
 DIGITAL FINANCIAL SERVICES CEMAC	15447
+DIGITAL FINANCIAL SERVICES EMERGING TECH	18454
 DIGITAL FINANCIAL SERVICES Gabon	15447
 DIGITAL FINANCIAL SERVICES Globally	17870
 DIGITAL FINANCIAL SERVICES In Cameroon	15480
@@ -1635,6 +1670,7 @@ DPI and Services TF	10714
 DPME Programme Expenditure Sector Monitoring Services	11224
 DPSA Department of Public Service and Administration BMCS	11986
 DPs Others Rehabilitation Services CF F	15845
+DQA Data Services	18478
 DRAFT GUIDELINES FOR DIGITAL PHARMACY SERVICES	9854
 DRINKING-WATER SERVICES	16892
 DRIVEN BY INDUSTRY AND SERVICES	14873
@@ -1678,7 +1714,7 @@ Data Protection Public Service Delivery Interoperability	6077
 Data Protection Services	6431
 Data Retention Service	11952
 Data Service Center	1789,1,1,1
-Data Services	3161,3785,5413,36,2867,1950
+Data Services	3161,3785,5413,36,2867,1950,1348
 Data Services Data	573,2588
 Data Services MPI Master Patient Index	396
 Data Services Market Inquiry	5872,2526
@@ -1735,6 +1771,7 @@ Dental and Rehabilitation Services. Currently	13361
 Departamento de Metrologia. Serviços de Apoio Agrupados	11381
 Departamento de Serviço Público	11461
 Departamento de Serviços Bancários	5169,1293,6352
+Department ASSL Audit Service Sierra Leone	18500
 Department Public Service IT Management EEC	12961
 Department Public Service Information Technology Management	12961
 Department Services Management Coordination	6946
@@ -1793,6 +1830,7 @@ Description Service Informationnel Ces	15936
 Description UNCDF Zambia Digital Finance and Services	527
 Description of Service Quantity Physical Unit Place	13185
 Description of Services	13037
+Designated Electronic Service Address	18556
 Destinatarios de Servicios	16855
 Destinatarios de Servicios. Los Prestadores	16855
 Detective Service	11188
@@ -1833,9 +1871,10 @@ Digital Credit Services The Bank of Ghana	6940
 Digital Earth Africa’s Coastlines Service	10794
 Digital Economy and Postal Services	15447
 Digital Exploration and Technical Services	8980
-Digital Financial Service	2889,1385,11345
+Digital Financial Service	2889,1385,11345,2837
 Digital Financial Service Performance	14151
-Digital Financial Services	779,161,126,198,2862,1302,2335,4603,293,42,611,2,30,2,44,632,857,18,126,19,88,317,1429,66,184,109,635
+Digital Financial Service Providers and Innovative ICT	18485
+Digital Financial Services	779,161,126,198,2862,1302,2335,4603,293,42,611,2,30,2,44,632,857,18,126,19,88,317,1429,66,184,109,635,633,60,53
 Digital Financial Services Adoption Mobile	7763
 Digital Financial Services Advancing	16942
 Digital Financial Services Africa-wide	13312
@@ -1869,7 +1908,7 @@ Digital Government Enabling Services Overview	12359
 Digital Government Notification Services	12359
 Digital Government Plan and Digital Services Plans	12562
 Digital Government Service	12917
-Digital Government Services	761,3100,3676,4498,882
+Digital Government Services	761,3100,3676,4498,882,5771
 Digital Government Services Platforms	11965
 Digital Health Platforms and Services	18359
 Digital Health Platforms and Services Sub-component	18359
@@ -1923,7 +1962,7 @@ Digital Service Life Cyle	11216
 Digital Service Officers	14750
 Digital Service Plan	12562
 Digital Service Standard	17448
-Digital Service Standards	11216
+Digital Service Standards	11216,7294
 Digital Service Standards for Government Services Guidelines	12674
 Digital Service Tax	573,7213,7146
 Digital Service Team	11965
@@ -2038,7 +2077,9 @@ Director Legal Services	18205
 Director Technical Service Operations Service	12138
 Director Universal Service Fund	6946
 Director de Serviços de Estudos	17337
+Director for Technical Services	18649
 Director of Core and Services	2528
+Director of Crime Services	18486
 Director of Digital Development Services	9117
 Director of Digital Transformation and Services	8343,8464
 Director of Directorate of National Pharmaceutical Services	16896
@@ -2071,8 +2112,10 @@ Directorate of Preventive Services	12227
 Directorate of Public Service Management	3360,4078,670,1805,2673,26
 Directorate of Road Traffic Services and Safety	12309
 Directorate of Road Traffic and Safety Services	13122
+Directorate of Technical Services	18746
 Directorate of Technical Support Services	34
 Directores Generales Servicio	4209
+Directory Services	18481
 Direcção de Serviço de Segurança Social da Direcção Nacional	15404
 Direcção de Serviços Fiscais	11435
 Direcção de Serviços de Normalização	11550
@@ -2193,9 +2236,10 @@ E-Payment Services	16885
 E-Payments Service Providers QTY Comment	16878
 E-Payments and E-Public Services Programme	8546
 E-Service Services	13346
-E-commerce and Digital Financial Services	1161
+E-commerce and Digital Financial Services	1161,17293
 E-council Services Enhance Efficiency At Solwezi	13670
 E-governance and Service Delivery	11231
+E-government Services	18454
 E-payment Services	12333
 E-payment Services Regulation	16876
 E. Electronic Services	12500
@@ -2215,6 +2259,7 @@ ECZ Self Service Portal	13477
 ECZ Services	13477
 EDGI On-line Service Infrastructure Human Capital	16876
 EDOSH MEDICAL SERVICES LTD Data Controller	7167
+EDSA’s Customer Service Improvement Plan	18537
 EFFICIENCY FOR BROADBAND SERVICES	16884
 EG.2007.015040 Zambia Police Service Commission	12467
 EGIF DIGITAL SERVICES CONCEPTUAL MODEL	15540
@@ -2244,9 +2289,11 @@ ENTRE SERVICES BANCAIRES ET PAIEMENT MOBILE	6883
 ENTREPRISE BAH SERVICES-SARL	18032
 ENVIRONMENT AND SERVICES STANDARDS UNIT RSB	15027
 ENVIRONMENT AND SERVICES STANDARDS UNIT Section	15027
+EOI Consulting Services	18575
 EPHS Essential Package of Health Services EPI	16941
 EQUITABLE ACCESS TO HEALTH SERVICES	11586
 ESCCOM Universal Access Service Fund and Ministry	9197
+ESO SERVICE OFFERINGS	18487
 ESSENTIAL HEALTH SERVICES	15206
 ESSENTIAL HEALTH SERVICES STRENGTHENING	16896
 ESWATINI NATIONAL ARCHIVES AND RECORDS SERVICE	12971
@@ -2280,6 +2327,7 @@ EVOLUÇÃO GLOBAL DE RECEITA DE SERVIÇO	11531
 EWSC Eswatini Water Services Corporation FAO	12970
 EX SERVICE	15530
 EXPAND COMMUNITY-BASED AND TELEHEALTH SERVICE DELIVERY	15977
+EXPANDING HEALTH SERVICES COVERAGE AMID CONCURRENT	18668
 EXPANSÃO DO ACESSO AOS SERVIÇOS ESSENCIAIS	15966
 EXPANSÃO DOS SERVIÇOS DE COMUNICAÇÕES NOS	1215
 EXPLORE OUR SERVICES	12280
@@ -2303,6 +2351,7 @@ Edge Network Services Limited	3839
 Education Agriculture Health Social Welfare Service	14965
 Education Broadcasting Services	13477
 Education Health Other Services	12445
+Education Service	18512
 Education Service Kenya Data Controller INST-726107A1B33	7167
 Education Services	11924,1468
 Education Services Business	14775
@@ -2357,6 +2406,7 @@ Electronic Services Solutions	2742
 Electronic Systems and Interoperability of Services	12389
 Electronic Trust Services	15641
 Electronic Trust Services A State Party	15641
+Elevated Service Reservoir	18543
 Eligibility of Goods and Related Services	13185
 Eligibility of Goods and Services Documents	14766
 Eligible Goods and Related Services	13185
@@ -2412,6 +2462,7 @@ End-User Training Service	11952
 End-User and Subscriber Service Charter	8841,2421
 End-User and Subscriber Service Charter Fourth Amendment	10856
 End-User and Subscriber Service Charter Regulations	4732
+End-of Service Benefits	18576
 End-user and Subscriber Service Charter Regulations	8398,2861
 Energy Ministry of Defence National Debt Service	17105
 Energy Saving Tips Education and Awareness Services	12515
@@ -2438,6 +2489,7 @@ Enhance Taxpayer Services	18240
 Enhanced Access and Utilization of Health Services for Women	18370
 Enhanced Governance and Public Service Delivery	13095
 Enhanced Payment Service Provider	6368
+Enhanced Public Service Delivery	18456
 Enhanced Public Services	16975
 Enhanced Service Delivery GEA	14441
 Enhanced Utilization of Health Services for Women	18370
@@ -2456,6 +2508,7 @@ Ensuring Financial Service Providers	13532
 Ensuring Network Neutrality for Broadband Services	16884
 Ensuring Network Neutrality for Broadband Services D800	16884
 Ensuring Quality of Service and Resolving Disputes	15120
+Enterprise Architecture and Digital Service Standards	18510
 Enterprise Service	12214
 Enterprise Service Bus	1814,2795,7605,900,3486
 Enterprise Service Bus Farmer Input Support	12453
@@ -2498,7 +2551,8 @@ Especialista Grupo F Servicio	4209
 Especialista Grupo G Servicio	4209
 Especialista Servicio	4209
 Especialistas Grupo G Servicio	4209
-Essential Health Service Package	12606
+Essential Health Service	18532
+Essential Health Service Package	12606,5926
 Essential Health Services Strengthening Project	16896
 Essential Health Services Strengthening Project URL	16896
 Essential Package for Health Services	16971
@@ -2698,6 +2752,7 @@ Fig. VI.2 Schéma Directeur de Digitalisation des Services	13341
 Filing Service Centre	14784,1
 Filing Service Centre Option	14784
 Filing Service Centre Tax Representatives	14784
+Fill Elevated Service Reservoir	18543
 FinTech Companies and Payment Service Providers RMAFC	9750
 Finance Other Services Industry Education Health	12445
 Finance and Business Service	12551
@@ -2710,6 +2765,7 @@ Financial Inclusion Services Road Paving and Stabilization	15578
 Financial Intermediation Services Indirectly	2775
 Financial Intermediation Services Indirectly Measured	2775
 Financial Management Information System ISPInternet Service	18359
+Financial Management TSC- Teaching Service Commission	18576
 Financial Products and Services Risk Ma	7763
 Financial Service	2889,9408
 Financial Service Access Points	15130
@@ -2725,7 +2781,7 @@ Financial Service Providers FSPs	13938
 Financial Service Providers Gender-based	13938
 Financial Service Regulation	10822
 Financial Service Regulatory Authority GBV Gender	12970
-Financial Services	940,472,465,898,654,469,727,223,124,349,212,567,1745,767,1203,405,362,136,81,339,194,25,629,169,59,142,33,671,878,287,449,54,70,6,8,7,78,100,477,6,732,915,447
+Financial Services	940,472,465,898,654,469,727,223,124,349,212,567,1745,767,1203,405,362,136,81,339,194,25,629,169,59,142,33,671,878,287,449,54,70,6,8,7,78,100,477,6,732,915,447,876,35,93
 Financial Services Across Region	4194
 Financial Services Act	7845,6868,4,3,7,1,2,79,10,9,3,12,1
 Financial Services Act and National Payment Systems	14844
@@ -2741,6 +2797,7 @@ Financial Services Commission. Dans	6757
 Financial Services Commission. Reforming	14829
 Financial Services Community	17119
 Financial Services Consumers	11131,3
+Financial Services DLT Distributed Ledger Technology	18454
 Financial Services Demand Side Survey Financial	940
 Financial Services Development Strategy	14674
 Financial Services EAC East African Community	7763
@@ -2760,7 +2817,7 @@ Financial Services Survey	8292
 Financial Services Tribunal	8354
 Financial Services Volunteer Corps	12972
 Financial Services Wildlife and Forest Conversation Key	4126
-Financial Services and Credit. Records	17165
+Financial Services and Credit. Records	17165,1405
 Financial Services and Digitilisation	12598
 Financial Services and Economic Inclusion Transformation	4528,7984
 Financial Services and Economic Integrity	14566
@@ -2786,9 +2843,11 @@ Fire and Rescue Services	14742
 Fire-Fighter Service	10763
 First Schedule the Public Service Regulations	13310
 First Time Registration Service Outside NIA	16088
+Fiscal Decentralisation for Improved Service Delivery	18488,89
 Fiscal General Servicio	4209
 Fiscal Inspector General Servicio	4209
 Fiscal-Único. Serviços Executivos	11381
+Fixed Broadband Services	18485
 Fixed Data and Broadband Services	6671
 Fixed Network Services	6671
 Fixed Office and Service Points Districts Local	8999
@@ -2844,6 +2903,7 @@ Forest Ecosystem Services Accounting	16996
 Forest Service KG Kilograms K-HMSF Kenya	2775
 Forestry Service	14847
 Forestry Service Central Electricity Board Food	11332
+Forestry and Fishing Industry Services	18483
 Foreword The Ministry of Health and Human Services	14923
 Formal Financial Services	16942
 Formal Financial Services Nationwide	13778
@@ -2857,9 +2917,11 @@ Fournisseur de Services	16617
 Fournisseurs des Services Financiers	11944
 Fournisseurs des Services de Radiodiffusion Sonore	13301
 Fragmented Service Delivery	12761
+Framework for Service Delivery	18532
 Fraud and High Costs of Service Delivery	11940
 Fred M. Mwale Director Research Services-Teaching	13392
 Free Health Services	10829
+Free and Promotional Telecommunications Services	18444
 Free-to-Air Broadcasting Services	6946
 Friendly Services	11188
 Functions and Institutions for Effective Service Delivery	15658
@@ -2887,6 +2949,7 @@ GASTOS EN BIENES CORRIENTES Y SERVICIOS	4209
 GASTROENTEROLOGY INCLUDING HEPATOLOGY SERVICES	14773
 GAVI Service	15724
 GBON The Liberia Meteorological Service	16947
+GBP UNOPS SERVICES	18453
 GBV Services	10829
 GCSP Third-Party Cloud Service Provider	6432
 GDPR26 and Digital Services Act	12675
@@ -2897,12 +2960,14 @@ GEO-INFORMATION SERVICES I Statement of Publication	16935
 GES Ghana Education Service	6936
 GESTION ET DE FONCTIONNEMENT DES SERVICES	13375
 GET SERVICE CONGO SARL	15670
+GFCS Global Framework for Climate Services GTS	18578
 GFF’s Essential Health Services Grant	10829
 GFS Serviceability	14777
 GFTN SERVICES PTE. LTD	4477
 GISP The Government Internet Service Provider	13502
 GLOBAL DATA SERVICES	18122
 GOODS AND SERVICES PROVIDED ONLINE	15177
+GOODS AND SERVICES TAX ACT	18450,91
 GOTG Total Debt Service	16944
 GOVERNANCE OF DIGITAL PUBLIC SERVICES	11216
 GOVERNING ELECTRICITY QUALITY OF SERVICE	14867
@@ -3019,6 +3084,7 @@ Ghana Statistical Service Act	16206
 Ghana Statistical Service Development Partners	15980
 Ghana Statistical Service HISWAP Harmonising and Improving	15628
 Ghana Statistical Service Home	16191
+Ghana Statistical Service and Development Partners Group	18529
 Ghana Statistical Service. Accordingly	15740
 Ghana Virtual Asset Service Providers Act	4847
 Ghana's Payment Systems and Services Act	8813
@@ -3028,7 +3094,7 @@ Ghana.gov Revamp To Make Public Services	16402
 Ghana’s Civil Service	7068
 Ghana’s Payment Systems and Services Act. MTN	8813
 Global Business Services	14777
-Global Framework for Climate Services	14471,3451,387
+Global Framework for Climate Services	14471,3451,387,269
 Global Framework for Climate Services CILSS	18309
 Global Professional Services	12976
 Global Service Participant	12517
@@ -3048,6 +3114,7 @@ Goods and Service Excise	5655
 Goods and Services	2775,2880,6331,403,733,63,235,1346,69,62,183,636,211,947,104,33,224
 Goods and Services Consumed	16978
 Goods and Services Tax	14932,2017,62,247,106
+Goods and Services Tax Act	18450,16,34,41
 Goods and Services Tax Goods and Services Tax	17011
 Goods and Services Tax Multilateral Convention E-Commerce	14932
 Goods and Services Tax. Standard NBN Evening	15471
@@ -3063,6 +3130,7 @@ Governance Revenue Management of Procurement of Service	3051
 Governance Services India Ltd	15936
 Governance Structure Service	11952
 Governance The Universal Service Fund	5168
+Governance for Basic Service Delivery Project AGD	18577
 Governaçãodos Serviços Digitais	8487
 Governent Services Overview The Government Service	12359
 Governing the Services	16590
@@ -3075,6 +3143,7 @@ Government Cloud Services Provider	6432
 Government Cloud and Enterprise Service	359
 Government Communication Service	12825,1258
 Government Computer Services	12896,26,8
+Government Digital Service Centre	18481
 Government Digital Service Team	583,1512,9913
 Government Digital Service. Service Manual	11216
 Government Digital Service. Service Manual. Available	11216
@@ -3094,7 +3163,7 @@ Government Mobile Communications Service	16942
 Government Online Services	5445,201
 Government Online Services Portal Accessing Government	16885
 Government Service	3583,8708,596
-Government Service Bus	1222,652,1,237,4075,1004,1607,805,1182,1574,16,6,35,919,1,11,40,102,111,2,62,3285
+Government Service Bus	1222,652,1,237,4075,1004,1607,805,1182,1574,16,6,35,919,1,11,40,102,111,2,62,3285,1626,2
 Government Service Bus A Government	13346
 Government Service Bus GSM Global System	13346
 Government Service Bus I-4	10785
@@ -3106,7 +3175,7 @@ Government Service Delivery	16885
 Government Service Payment System	3648
 Government Service Portal	506,7615,302,557,4407
 Government Service and Administration Policy	7820
-Government Services	2321,69,224,111,94,95,103,198,299,69,306,742,224,494,51,153,27,492,469,109,813,75,2755,679,34,934,381,38,1,93,564,328,3540
+Government Services	2321,69,224,111,94,95,103,198,299,69,306,742,224,494,51,153,27,492,469,109,813,75,2755,679,34,934,381,38,1,93,564,328,3540,1571
 Government Services Acquire	12453
 Government Services Action	16885
 Government Services Actions	16885
@@ -3152,6 +3221,8 @@ Grievance Redress Service HCI Human Capital	16896,562
 Grievance Redress Service HR Human Resources	15518
 Grievance Redress Services	16144
 Gross Services	10407
+Ground Handling Services	18555
+Ground Service Reservoirs	18543
 Group Service Revenue	3898,2202
 Groupement Orange Service	1005
 Groupement Orange Services S.A	2608
@@ -3179,6 +3250,7 @@ HEALTH SERVICE RESOURCES	16892
 HEALTH SERVICES LIMITED Data Controller INST-8936470A69B	7167
 HEURES DE SERVICE	17006
 HEURES DE SERVICE COORDONNÉES ALTITUDE	16552
+HF Services	18444
 HIT Library and Information Services	13633
 HIV Services Integration The U.S. Government	4167
 HIV Testing Services Guidelines	12729
@@ -3222,7 +3294,7 @@ Health Management Information Services	2709
 Health Management Information Services Platform	2709
 Health R Immigration Insurance Scheme Service	15845
 Health Resources and Services Availability Monitoring	15206
-Health Service Commission	12240
+Health Service Commission	12240,6260
 Health Service Consumers and App Users	6794
 Health Service Data Routine	15556
 Health Service Delivery	988,14971
@@ -3230,7 +3302,7 @@ Health Service Delivery and System Strengthening Project	988,9841,4832
 Health Service Providers	6794
 Health Service Utilization	16971
 Health Service Utilization Health	16971
-Health Services	1261,563,951,5601,3548,329,353,1079,1559,766
+Health Services	1261,563,951,5601,3548,329,353,1079,1559,766,2531
 Health Services Center	15244
 Health Services Child Nutrition Sudan	15244
 Health Services Development Policies and Goals	16861
@@ -3279,6 +3351,7 @@ Hub des Services	13727
 Huduma Kenya Service Delivery Programme. Zambia	12435
 Human Capital Service Delivery Transformation	723
 Human Development and Social Services Progress	16049
+Human Resource Management Office and Teaching Service	18576
 Human Resources Judicial Services Judicial Data	16943
 Human-Centered FAQ Chatbot for Public Service Delivery	8856
 Hydrological Service of Senegal	18309
@@ -3306,8 +3379,9 @@ ICT Infrastructure and Services Deployment	16861
 ICT Infrastructure and Services Development of ICT Enabled	958
 ICT Products and Services. The GoC	15372
 ICT Service Management	12917
+ICT Service Provider	18485
 ICT Service Provider Registration	16866
-ICT Service Providers	12917
+ICT Service Providers	12917,5568
 ICT Service-Wide	10063
 ICT Services	6946,6349,4667
 ICT Services Effectiveness Strategic Objectives	6946
@@ -3315,7 +3389,7 @@ ICT Services and Resources	14729
 ICT Services for Marginalised Groups	14964
 ICT Technical Support Services	6430
 ICT and Financial Services	16861
-ICT and Postal Services	3583,499
+ICT and Postal Services	3583,499,14574
 ICT4AD and Digital Financial Services	7954
 ICTSS Service Desk	12055
 ID Trust Services NOSiCloud Proj B	15476
@@ -3398,6 +3472,7 @@ ISP Internet Service Provider IPP Independent	3184,1,1340,6470
 ISP Internet Service Provider IT Information	12973,2191
 ISP Internet Service Provider LTE Long-Term	1818
 ISP Service Classifications. No. ISP Service	3386
+ISP Services Through	18748
 ISPs Internet Service Providers IT Information	2775
 ISPs Internet Service Providers ITU International	12395
 ISSUDED BY PARLIAMENTARY COMMUNICATION SERVICES	11232
@@ -3430,7 +3505,7 @@ Immigration Management Services and Civic Services	5533
 Immigration Service	587,11264,3994
 Immigration Service Average	15845
 Immigration Service Number	15845
-Immigration Services	1730,3803,5685,768,241,531
+Immigration Services	1730,3803,5685,768,241,531,5716,3
 Immigration Services AG Auditor-General DDG	11986
 Immigration Services Director General	4631
 Immigration Services Signature Mr Thomas Sigama	5533
@@ -3443,6 +3518,7 @@ Immigration and Citizenship Services	12250
 Immunization Services and Coverage	17289
 Impact Assessment ESIP Energy Services Improvement	15515
 Impact of Digital Technologies and Services	12948
+Implementation Plan TOR for Consulting Service	18744
 Implementation Strategies Service	11952
 Implementation Unit PSC Public Service Center	969
 Importance of Digital Financial Services	13312,2,1583,1979,994
@@ -3533,6 +3609,7 @@ Infrastructure Development and Services Infrastructure	16975
 Infrastructure Service Providers	13295
 Infrastructure Services	14032,2851
 Infrastructure Specifications Service	11952
+Infrastructure and Public Service Transformation	18517
 Infrastructure and Related Services	17334
 Infrastructure and Service Delivery	18370
 Infrastructure and Service Gaps	17260
@@ -3618,6 +3695,7 @@ Integrated Service Delivery	4217,8544
 Integrated Services	6581
 Integrated Services Centres	12147
 Integrated Services Digital Network	16900
+Integrated Trade Services	18500,77
 Integrating Hydromet Services	17962
 Integration of Infrastructure and Services	1264
 Integrity Reporting Services Agency	14713,1,1,2,25
@@ -3650,6 +3728,7 @@ Internet FDSP Fonds de Digitalisation des Services Publics	13341
 Internet FSU Fonds de Service Universel ISOC	15592
 Internet Servic Single Stage	17180
 Internet Service	718,280,1915,9482,2741,1790,408
+Internet Service Operators	18485
 Internet Service Provide	958
 Internet Service Provider	718,44,2151,473,1664,268,4,222,389,353,79,194,162,177,2871,1042,420,3627,308,1717,3,89
 Internet Service Provider Association	10506,6348
@@ -3657,18 +3736,21 @@ Internet Service Provider Core Network	2913
 Internet Service Provider IT Information Technology	13185
 Internet Service Provider ITU	958
 Internet Service Provider LAN	13956
-Internet Service Provider License	762
+Internet Service Provider License	762,17682
+Internet Service Provider License An Internet	18444
 Internet Service Provider5	14858
-Internet Service Providers	718,65,506,562,36,206,257,563,198,392,359,1350,469,112,445,33,268,351,345,166,729,77,502,338,1360,761,91,598,136,247,213,148,108,469,40,95,32,1,358,1019,1,50,19,71,15,227,14,16,80,156,52,56,31,110,523,728,11,6,53,33,124,15,136,495,1,23,101,221
+Internet Service Providers	718,65,506,562,36,206,257,563,198,392,359,1350,469,112,445,33,268,351,345,166,729,77,502,338,1360,761,91,598,136,247,213,148,108,469,40,95,32,1,358,1019,1,50,19,71,15,227,14,16,80,156,52,56,31,110,523,728,11,6,53,33,124,15,136,495,1,23,101,221,353,41,19,184
 Internet Service Providers Association	12625,721,4428
 Internet Service Providers Association of Zambia ITU	13346
+Internet Service Providers ISP	18485
+Internet Service Providers ITU	18485
 Internet Service Providers JSI Joint Statement	1243
 Internet Service Providers. Notices	14793
 Internet Service Providers’ Association	10690
 Internet Service Provision	12395
 Internet Service US	736
 Internet Service for MOA	17334
-Internet Services	1872,903,10727,824,1098,2438
+Internet Services	1872,903,10727,824,1098,2438,582
 Internet Services Licence	11788
 Internet Services Namibia	12325
 Internet Services Provider	1872
@@ -3704,7 +3786,9 @@ Introduction The Quality of Service Reporting Guidelines	14867
 Introduction The Universal Access and Service Fund	718
 Intérprete Traductor Servicio	4209
 Investment Authority Launches Service	17564
+Investment S OLUTIONS Services and Applications C	18478
 Investment and Matching Services	12376
+Investments Services	18478
 IoT Fixed Service	3898
 IoT Fixed Services and IoT	6100
 IoT Services RISA RISA RISA Digital	12359
@@ -3714,6 +3798,7 @@ Irregular Payment for Support and Maintenance Services	14546
 Isabel Abegue MBA Jefa de Servicio de Recursos	16898
 Issuance of Data Center and Cloud Computing Services	15282
 Issue AI Governance Standards for Financial Services	11138
+Issue Voucher SARA Service Availability and Readiness	18478
 Issues Value-Added Service License	17187
 Ivoire Digitizes Judicial Services	2349
 Ivoire Rolls Out Nationwide Financial Service	5817
@@ -3721,6 +3806,7 @@ Ivoire Service	15577
 J MW MARKETING SERVICES SARL UNIP	16623
 J SERVICE SOCIAL	13300
 JHA.094. Directorate of Immigration Services	12227
+JLSC Judicial and Legal Service Commission JSCO	18477
 JSE's Stock Exchange News Service	17701
 JSE’s Stock Exchange News Service	16217
 JUDICIAL PERFORMANCE ENHANCEMENT FOR SERVICE	17441
@@ -3771,6 +3857,8 @@ Judicial Service Commission Meetings	12920
 Judicial Service Commission Meetings The Judicial	12920
 Judicial Services	16943
 Judicial Services Commission	3583
+Judicial and Legal Service Commission	18477
+Judicial and Legal Service Commission Sierra	18477
 Judiciary Service Commission	958,12014
 Judiciary Service Commission Secretary	13507
 Judiciary and Correctional Services	13097
@@ -3781,6 +3869,7 @@ Justice ISP Internet Service Provider RNP	1000
 Justice Royal Eswatini Police Service Anti	12972
 Justice Service Commission's Integrated Electronic Case	9397
 Justice Service Delivery	970
+Justice Services	18477
 Justice and Correctional Services	9234
 Justice and Correctional Services and Others	13461
 Justicia Servicio	4209
@@ -3866,6 +3955,7 @@ LLATI NET DE MISE SERVICE DES	15399
 LMK Geospatial Services	17260
 LNK Geospatial Services	17260
 LNK Geospatial Services Presentation	17260
+LOCAL GOVERNMENT SERVICE COMMISSION	18467
 LOCAL GOVERNMENT SERVICE The Office	16524
 LOCALISATION DES POINTS DE SERVICE	13390
 LOS SERVICIOS PÚBLICOS POR MEDIOS	16855
@@ -3974,6 +4064,7 @@ Legal&Tax Services	9951
 Legislature. Providing Services	13502
 Lending Service Providers	14897
 Length of Service	12948
+Leone’s Judicial and Legal Service Commission	18477
 Les Chefs de Service	15412
 Les Espaces Sénégal Services	17642
 Les Services	13301,2070,330,2118
@@ -4028,6 +4119,7 @@ Licensed Payment Service Providers	14014
 Licensed Payment Service Providers MTN Fintech	12390
 Licensed Service Provider	12616
 Licensed Service Providers	236
+Licensed Service Providers Operators	18444
 Licensed Services	15149
 Licensing and Authorisation of Payment Service Providers	12365,9,711
 Licensing and Quality of Service	15261
@@ -4061,7 +4153,7 @@ Lobamba Inkhundla Service Centre	12970
 Lobamba Service Centre	12970
 Local Governance and Decentralized Service Delivery	14925
 Local Government Service	14746,1417,361,1138,55
-Local Government Service Commission	7845,6897,88,17
+Local Government Service Commission	7845,6897,88,17,3620
 Local Government Service Commission Act	7845
 Local Government Service IT Infrastructure and Systems	17717
 Local Internet Service Providers	7645
@@ -4128,6 +4220,7 @@ MDAs. Serviços	11555
 MDI Road Universal Access and Service Policy	16886
 MEASURING HOUSEHOLD EXPENDITURE ON ICT SERVICES	11424
 MEDIAS DU SERVICE PUBTIC	15397
+MEDICAL SERVICES	18486
 MESOB Center Services	10709
 MESOB Headquarters Government Services Center Address	10709
 MESOB One Stop Service	7820
@@ -4193,6 +4286,7 @@ Maisons des Services Publics	3604
 Majesty's Correctional Services	12997
 Majesty’s Correctional Services	12939,23,10,151
 Majesty’s Correctional Services and Royal Eswatini	12956
+Major Internet Service Providers	18485
 Making Broadband Services Available	16884
 Making Broadband Services Available No Parameter	16884
 Making Services Work for Poor People	11310
@@ -4319,6 +4413,7 @@ Melhoria da Prestação de Serviços	11390
 Melhoria de Prestação de Serviços	11390
 Member of Staff Lilongwe Services	13185
 Members of Public Service	13286,29
+Members' Terms of Service	18596
 Mercury Payment Services	4771,5947
 Mercury Telecommunication Services	7667
 Merece Prestação de Serviços Públicos	11569
@@ -4333,7 +4428,7 @@ Messenger Services	10819
 Met Service and Hydrology Agency	18309
 Metadata Structure Service	11952
 Meteorological Service for International Air Navigation	14732
-Meteorological Services	5643,8766,323,10,105,869
+Meteorological Services	5643,8766,323,10,105,869,2957
 Meteorological Services ARTICLE	14409
 Meteorological Services Department	520,12169,705,81
 Meteorological Services P3	1668
@@ -4344,6 +4439,7 @@ Meter Service Providers	12062,6124,31
 Method of Payment for Health Services Received	15244
 Methodology Handbook. Financial Services	12389
 Methodology Handbook. Utility Services	12389
+Methods of Setting Public Communication Services Tariffs	18602
 Metro Inspection Services	6683
 Metro Trading Services	11236
 Metro Trading Services Reform Programme	8599
@@ -4390,6 +4486,7 @@ Ministerial SERVICOM Units of MDAs	18205
 Ministerial and Parastatal SERVICOM Units	18205
 Ministers of Health and Social Services	5086
 Ministre des Serviteurs du Peuple	5304,2496,8297
+Ministries of Finance and Public Service	18661
 Ministries of Social Services	14874
 Ministro Delegado Servicio	4209
 Ministro Servicio	4209
@@ -4410,7 +4507,7 @@ Ministry of Health and Social Services	1188,3752,3309,1236,179,813,680,1170,10,3
 Ministry of Health and Social Services. UNFPA	12367
 Ministry of Health's Community Health Services	13160
 Ministry of ICT Postal and Courier Services	4528
-Ministry of ICT and Postal Services	3583,76,2523
+Ministry of ICT and Postal Services	3583,76,2523,12453,84,25
 Ministry of ICT and Postal Services of South Sudan	7508
 Ministry of Information and Postal Services	10657
 Ministry of Justice and Correctional Services	1674,977,2999,6952
@@ -4476,7 +4573,7 @@ Mobile Money Service Provider	13477
 Mobile Money Services	6671,275,8190
 Mobile Money Transfer Services	2743,3928
 Mobile Network Infrastructure and Services	6946
-Mobile Network Operators and Internet Service Providers	4661
+Mobile Network Operators and Internet Service Providers	4661,13783
 Mobile Network Services	6671
 Mobile Phone Money Transfer Services	12286
 Mobile Police Service	12953
@@ -4553,16 +4650,19 @@ MÉDIAS Services	15973
 N SERVICES MOBILES DE TEST ET	13300
 NARSSA National Archives and Record Service of South	11196
 NATIONAL CHILDREN SERVICES DEPARTMENT	12977
+NATIONAL CIVIL REGISTRATION SECRETARIAT Category Service	18450
 NATIONAL DES SERVICES CLIMATOLOGIQUES	16621
 NATIONAL FRAMEWORK FOR CLIMATE SERVICES	14471
 NATIONAL METEOROLOGICAL SERVICE ACT	12889
 NCA NCA Ghana Statistical Service	236
 NDEX SERVICE	15999
 NEANT. MARCHES DE SERVICES AUTRES QUE	1649
+NEMS and Directorate of Hospital and Ambulance Services	18532
 NEONATAL AND CHILD HEALTH SERVICES	14773
 NERAL SERVICE DU'FICHIER LEGISLATIF ET REGLÉIRENT	15530
 NETWORK DATA FOR VALUE ADDED SERVICE	3862
 NEWS SERVICES SERVICES GENERATION MOBILE MONEY	11964
+NFCS National Framework for Climate Services NMS	18578
 NFMS The US Forest Service International	16036
 NGO's. Issuance of Value-Added Services License Process	15283
 NIDA Online Services Portal	2119
@@ -4574,12 +4674,14 @@ NIRA Launches National ID and Public Service	15223
 NITDA Indigenous IT Service Providers	5665
 NITDA Indigenous IT Service Providers and Contractors	5665
 NITUNGA Servilien	13341
+NMS. A National Framework for Climate Services	18578
 NMSEs. Roadmap of Financial Services Business Conduct	11994
 NOMINATION DU DIRECTEUR L’INSPECTION DES SERVICES	17827
 NON CONSULTING SERVICES Activity Reference No	17219
 NON- BANK REMITTANCE SERVICE PROVIDERS CONTEXT	13388
 NON-BANK REMITTANCE SERVICE PROVIDERS Non-bank RSPs	13388
 NPA Assistant Director for Technical Services	17260
+NPISH Services Industry Agriculture	18483
 NRB’s Strategic Plan. Bringing Registration Services	13095
 NRS Nigeria Revenue Service	8590
 NSX Financial Market Services	12107
@@ -4633,6 +4735,7 @@ National Digital Services Framework	14752,38
 National Digital Services Strategic Plan	12562
 National Directorate of Registries and Notary Services	12167
 National Emergency Medical Services	17346
+National Emergency and Ambulance Services	18532
 National Employment Service Center	5172
 National Enterprise Service Bus	14965
 National Financial Services	14674
@@ -4640,7 +4743,7 @@ National Financial Services Development	14674
 National Financial Services Development Strategy	14674
 National Financial Services Weeks	7763
 National Financial Services and Inclusion	14674
-National Framework for Climate Services	14448,23
+National Framework for Climate Services	14448,23,4107
 National Framework for Water and Climate Services	13060
 National Frameworks for Climate Services	14471
 National Geomatics Management Services	11261
@@ -4652,6 +4755,7 @@ National Health Laboratory Service	396
 National Health Service	15590
 National Health Service. Building	11417
 National Health Services Act	1988
+National Hydrometeorological Service	18578
 National ID Service	14335
 National ID and Public Service Integration	15223
 National ID and Public Service Integration Working	15223
@@ -4667,25 +4771,28 @@ National Logistics Management Information Services	2709
 National Logistics Management Information Services Platform	2709
 National MICDE Public Service	7548
 National Meteorological Hydrological Service of Madagascar	14448
-National Meteorological Service	12889,476
+National Meteorological Service	12889,476,5213
 National Meteorological Service Act	12889
 National Meteorological Service Modernization Phase	2242
 National Meteorological Service Modernization Project	2305
 National Meteorological Service of Guinea	16698
 National Meteorological Service of Madagascar	14448
+National Meteorological Service of Sierra Leone	18578
 National Meteorological Services	11191,362,5404,118,1234
+National Meteorological Services NWP Numerical Weather	18578
 National Meteorological and Hydrological Service	14448
 National Meteorological and Hydrological Service QMS Quality	13729
-National Meteorological and Hydrological Services	11191,1751,1161,345,748,720,221,1138,647,387
+National Meteorological and Hydrological Services	11191,1751,1161,345,748,720,221,1138,647,387,269
 National Meteorological and Hydrological Services NOAA	18309
 National Meteorologist and Hydrologist Services	17922
 National Metrology Services	17685
+National Ministry of ICT and Postal Services	18731
 National National AI and Public Service Treasury	7548
 National Network for PWD Services	16046
 National Parks and Conservation Services	14847
 National Plan for Climate Services	18309
 National Plan for Social Care Services	11855
-National Police Service	2775,1208,2828,55,682,1400,2516,211,635,1954,158,124,118,3081
+National Police Service	2775,1208,2828,55,682,1400,2516,211,635,1954,158,124,118,3081,968
 National Police Service Commission	14546
 National Police Service Information Management System	3320
 National Police Service Level Four Hospital	12310
@@ -4693,6 +4800,7 @@ National Police Service Strategic Plan	14505
 National Police Services	3583,8900
 National Prayer Service	12955
 National Prison Service	6811
+National Prisons Service of South Sudan	18615
 National Public Services	11900
 National Records Service	16858
 National Records Services	16939
@@ -4721,6 +4829,7 @@ National Youth Service Corps	3030,2114,183,3111,1137,2079,1619,1433,3500
 National Youth Service Graduate Programme	16973,255
 National Youth Service Scheme OIC Organization	17105
 Nationals Management Service	14460
+Nations Office for Project Services USAID United	18478
 Nations Office for Project Services United States	15658
 Nations USSD Unstructured Supplementary Service Data	14965
 Natural Gas Network Enhancement of Electricity Services	15578
@@ -4741,7 +4850,7 @@ Network SLA Service Level Agreement SomaliREN	15164
 Network Service Provider	718,14005
 Network Service Provider CoE Centre of Excellence	6946
 Network Service Providers	10721,2574
-Network Services	736,11921,4831
+Network Services	736,11921,4831,964
 Network Services BFWA Light	736
 Network Services Provider	14723
 Network Transformation Service	5664
@@ -4782,6 +4891,7 @@ Nigerian. The Government Service Portal	8980
 Nigeria’s Federal Civil Service	2347
 Niveles de Servicio	16855
 Nn LEGISLA SERVICE DU Fi OPIE-CERT	15999
+No. Type of Television Services Total No	18444
 No. of No. Type of Television Service	236
 Nombre Services	17824
 Nombre des Services du Cadastre	15999
@@ -4948,7 +5058,7 @@ Online Public Service Delivery	4612,6173
 Online Public Service Portal I-19 Tax	10785
 Online Public Service Portals	10785
 Online Public Services for People	12214
-Online Service Index	1353,540,19,8928,3147,1647
+Online Service Index	1353,540,19,8928,3147,1647,2822
 Online Service Index Republic of Korea	15634
 Online Service Methodology	10840
 Online Service Portal I-20	10785
@@ -5195,6 +5305,7 @@ Parliamentary Protection Services	11289
 Parliamentary Service	2844,2474,1845
 Parliamentary Service Board	12955
 Parliamentary Service Commission	14546
+Parliamentary Service and Vote Controller	18436
 Parliamentary Services Division	12580
 Part Six Postal Services	13951
 Part Two Telecommunications Networks and Services	13951
@@ -5286,6 +5397,7 @@ Pessoas Serviços Sustentabilidade Economia Dados Literacia	11569
 Petrol Service Station	718
 Petrol Service Stations	14947
 Pharmaceutical Services	16971
+Pharmaceutical Services DHMT District Health Management	18478
 Pharmaceuticals and Medical Devices Management and Services	14033
 Photovoltaic QOSSS Quality of Service and Supply Standards	12399
 Pieter Theron Industrials and Services Africa Leader	7751
@@ -5312,6 +5424,7 @@ Plateforme Web de Services Climatiques	13783
 Plateformes CORUS BURKINA FASO SERVICE PUBLIC	9049
 Platform Imaginaries and Dutch Public Service Media	11028
 Platforms and Services	395,12952
+Plot of Service Providers	18485
 Pluralistic Extension Services	8562
 Poder Judicial Servicio	4209
 Police Force and Fire and Rescue Services	14830
@@ -5320,7 +5433,7 @@ Police General Headquarters. The Legal Services	13361
 Police Service	11062,19,1246,10,130,489,167,409,1298,2327
 Police Service NPISHs Non- Profit Institutions	2775
 Police Service SARB South African Reserve	11198
-Police Services	4389
+Police Services	4389,14088
 Policy Actions On Infrastructure And Services	958
 Policy Co-ordination The Universal Service and Access	16886
 Policy Coordination and Support Services N	12984
@@ -5353,13 +5466,17 @@ Post-Go-Live and Support Services	12400
 Post-Warranty Maintenance Services	13185
 Postal And Courier Services	958
 Postal And Courier Universal Connectivity Services	12395
+Postal Financial Services	18602
+Postal Financial Services. CHAPTER VII INTERCONNECTION	18602
 Postal Infrastructure Total Number of Postal Service	12395
 Postal Regulator Services	2104
+Postal Service	18691
 Postal Service General Operator	13295
 Postal Service General Operators	958
 Postal Service Point Counter	12395
 Postal Service Revenue	12395
-Postal Services	1223,1552,357,285,7794,1184,143,20,101,422,217,1581,461,32,1500
+Postal Service SDGs Sustainable Development Goals	18454
+Postal Services	1223,1552,357,285,7794,1184,143,20,101,422,217,1581,461,32,1500,1729,1,33,88
 Postal Services ARTICLE	14409
 Postal Services Act	7878,3321,1,11,51,2036,49,56,1440
 Postal Services Act No	7779,99,4498,77,892
@@ -5367,7 +5484,7 @@ Postal Services Corporation	7878
 Postal Services Policy	13346
 Postal Services Program	15578
 Postal Services Revenue	12395
-Postal Services Sector	11262
+Postal Services Sector	11262,7484
 Postal Services Sector. Section	11262
 Postal Services The Partner States	14409
 Postal Services Total Number of Post Office	12395
@@ -5406,6 +5523,7 @@ Power Services	4896
 Practice Note for Mobile Money Service Providers	11134
 Pre-Facility Emergency Services	14033
 Pre-Paid Services	11209
+Pregnancy Registration and Service Tracking	18532
 Premium Rate Services	16934
 Premium Tax Services Center	10448
 Preparation Services	12373
@@ -5484,12 +5602,13 @@ Principal Secretary for Immigration and Citizen Services Dr	6274
 Principal Secretary for Medical Services	4165,4784,3365
 Principal Secretary for Medical Services Dr Ouma	17567
 Principes du Service	15722
+Principles and Criteria for Pricing Interconnection Services	18602
 Printing Services	12977
 Priority Priority Priority IMPROVING SERVICE DELIVERY	14760
 Priscilla King Gray Public Service Center	11909
 Prison Service	972,13858,2000
-Prison Services	14830
-Prisons Service	14770
+Prison Services	14830,3647
+Prisons Service	14770,3707
 Prisons Service and NIDA. Training	10460
 Prisons Service. Combating Trafficking	14742
 Prisons and Correctional Service	972
@@ -5519,6 +5638,7 @@ Procurement of Internet Services	14306
 Procurement of Services	14745
 Product and Service Development	17962
 Production and Specialized Services	16266
+Products FISIM Services Industry Agriculture	18483
 Products and Services	3487,9584
 Products and Services Conform	16900
 Products and Services Launched ANNUAL INFORMATION	12395
@@ -5532,6 +5652,7 @@ Professional Services Transportation Real Estate Energy	4972
 Professional and Special Services	12971
 Professional and Special Services Budget	12977
 Programmatic Advisory Services	11469
+Programmatic Advisory Services and Analytics	18623
 Programme The World Bank Service Delivery	15731
 Programme de Développement des Services de Santé PEC	15423,262
 Programmes and Services Offered	12405
@@ -5583,6 +5704,7 @@ Provide All Services Citizen	14137
 Provide Connectivity and Managed Network Services	2552
 Provide Connectivity and Managed Network Services Partner	2552
 Provide Life-Enhancing Services	195
+Provide Postal Services	18602
 Provide Transaction Advisory Services	14546
 Provider G2B Fond de Service Universel	13331
 Providers of Such Products and Services	13073
@@ -5592,8 +5714,10 @@ Province Priority Total District Municipality Service	11986
 Provincial Inspector General Servicios Magistrado Audiencia	4209
 Provision of Agricultural Extension Services	13060
 Provision of Central Backup Service	14846
+Provision of Consultancy Service	18712
 Provision of Consultancy Services for International	17255
 Provision of Essential Emergency Supplies and Services	18198
+Provision of Gender-Sensitive Services	18512
 Provision of ICT Services	6946
 Provision of ICT Services The Authority	6946
 Provision of Internet Service	11993
@@ -5610,10 +5734,12 @@ Prénoms Services Qualifications Médecin Santé Publique	17845
 Préparation Service Identifier	10876
 Préparation de Service	10876
 Psychosocial Support Services	11241
+Public Access Mobile Radio and Integrated Services	18444
 Public Administration and Service Delivery	12972
 Public Broadcasting Services	14879
 Public Cadastre Services	12771
 Public Cloud Services	10157
+Public Communication Services Tariffs	18602
 Public Data Service	958,2428
 Public Data Service Internet	3386
 Public Data Service Providers	958,12337
@@ -5632,14 +5758,15 @@ Public Relations and Customer Services Makame Khamis	10676
 Public Relations and Legal Service	15927
 Public Sector Efficiency and Service Delivery Unbiased	12210
 Public Sector Foundations for Service Delivery	12758
-Public Service	3,2772,439,500,503,311,1904,750,366,111,1858,1659,8,32,29,324,387,189,180,35,6,83,4,59,54,46,305,4,40,1,10,4,61,56,193,1,9,1,11,6,1,30,39,86,33,990,53,196,6,38,179,1865,28,247,136,629
+Public Service	3,2772,439,500,503,311,1904,750,366,111,1858,1659,8,32,29,324,387,189,180,35,6,83,4,59,54,46,305,4,40,1,10,4,61,56,193,1,9,1,11,6,1,30,39,86,33,990,53,196,6,38,179,1865,28,247,136,629,564,2
 Public Service AI	7548
 Public Service Act	11178,4,2,17,15,2,62,706,560,3,13,328,9,3,1,2,1,14,85,32,3821
 Public Service Act No	12972
 Public Service Amos Gathecha	10043
+Public Service Architecture	18529
 Public Service Automated	14729
 Public Service Bargaining Council	12566
-Public Service Commission	395,2384,485,1581,480,808,813,112,13,25,1503,841,873,869,42,23,598,141,268,389,262,628,874,15,124,170,3,23,3,3,29,62,8,2014
+Public Service Commission	395,2384,485,1581,480,808,813,112,13,25,1503,841,873,869,42,23,598,141,268,389,262,628,874,15,124,170,3,23,3,3,29,62,8,2014,1573,3,9,21
 Public Service Commission Act	10313,2592
 Public Service Commission Dear Reader	13503
 Public Service Commission PA’s Performance Agreements	11224
@@ -5647,6 +5774,7 @@ Public Service Commission R&D Research and Development	7548
 Public Service Commission State-owned	7058
 Public Service Commission and Disciplined Forces Service	14830
 Public Service Commission and Gauteng Provincial Government	4896
+Public Service Commission and Human Resource Management	18467
 Public Service Commission and The National Treasury	14546
 Public Service Commission. StatisticianGeneral	14594
 Public Service Cornmisslon	16836
@@ -5674,6 +5802,7 @@ Public Service Management Division Southern African	12453
 Public Service Management Policy	13005
 Public Service Management and Good Governance	3632,10691
 Public Service Managers	13399
+Public Service Manual	18612
 Public Service Minister	9513
 Public Service Minister Faya François Bourounou	4116
 Public Service Network	16923
@@ -5702,6 +5831,7 @@ Public Service The Government	14752
 Public Service Through	11196
 Public Service Training Centres Amenities Fund	13420
 Public Service Training College	7182
+Public Service Training Facilities and Capacity-building	18612
 Public Service Travel	11986
 Public Service Vehicle Licence	14753
 Public Service Week	7763
@@ -5746,6 +5876,7 @@ Public Services. New York	2096
 Public Switched Telephone Service	15372
 Public Telecommunications and Postal Services Tariff	15340
 Public Wi-Fi Services	7133
+Public and Civil Service	18474
 Public and Community Media Services	5183,6
 Public and Disciplined Forces Service Commission	14847
 Publication Composition Service	14434
@@ -5786,10 +5917,11 @@ Qualidade de Serviço	17093
 Qualified Information Systems Security Audit Service	17534
 Quality Childcare Services	16187
 Quality Essential Health Services Relatório Anual	10776
+Quality Essential Health Services and Systems Support	18456
 Quality Health Services	16971
 Quality Service	12977
 Quality of Financial Services of Côte	5817
-Quality of Service	718,491,75,3246,202,436,77,431,68,457,633,112,1342,822,404,50,1292,1001,744,15,355,207,7,146,227,49,544,523,193,282,78,145,1463,51,89,212
+Quality of Service	718,491,75,3246,202,436,77,431,68,457,633,112,1342,822,404,50,1292,1001,744,15,355,207,7,146,227,49,544,523,193,282,78,145,1463,51,89,212,1257,41
 Quality of Service Findings for Mobile Voice and Data	5744
 Quality of Service KPIs	9110
 Quality of Service Key Performance Indicators	9110
@@ -5803,6 +5935,8 @@ Quality of Service SA	12759
 Quality of Service Standards	14867
 Quality of Service Standards Any	14867
 Quality of Service The Regulatory Authority	14867
+Quality of Service Vendor QoS	18485
+Quality of Service Vendor RFP	18485
 Quality of Service and Key Performance Indicators	14944
 Quality of Service for Distribution Licensees	14867
 Quality of Service for Distribution Licensees The Regulatory	14867
@@ -5823,6 +5957,8 @@ Qualité des Services Financiers	6827,4009,4799,509
 Qualité des Services Financiers du Bénin	3361
 Qualité du Service Public	15580
 Qualités des Services Télécoms	18189
+Quantitative Service Delivery Survey	18494
+Quarter Short Messaging Service Count International	18444
 Quarter Total Royal Eswatini Police Service	12972
 Quarterly Ghana Fire Service Objective	15845
 Quarterly Service	15845
@@ -5911,6 +6047,7 @@ Recommendations The Director of Pharmaceutical Services	15798
 Reconnection of Service	17243
 Records Service of South Africa	11349
 Recovery Plan Service Providers	10721
+Redcap Data Services	18478
 Rede Nacional de Serviços de Saúde	16019
 Redress Mechanism GRS Grievance Redress Service	15138
 Redress Mechanism HCI Grievance Redress Service	10964
@@ -5922,11 +6059,13 @@ Redress Service Impacte Ambiental	15983
 Redress Services HFO Heavy Fuel Oil	11549
 Reduced Affordability of Digital Goods and Services	14932
 References Department of Refugees Services	12227
+Referral Services	18504
 Refugee Social Services	8280
 Refugees VFS Visa Facilitation Services	11218
 Refugees and Returnee Service	8074
 Refugees and Returnees Service	10886,1287,53,24,7,1853
 Refugees and Returnees Service Fayda	12257
+Region Africa Service Level Not Disclosed	18579
 Regional ATOVS Retransmission Services	14522
 Regional Digital Services Exporter Position Nigeria	10157
 Regional Meteorological Services. DGM	14448
@@ -5954,6 +6093,7 @@ Registry and Notary Services	10775
 Reglamento de Calidad de Servicios	16865
 Regulate Postal and Courier Services No. of Existing	15716
 Regulates Internet Service Providers and Mobile Network	5244
+Regulation of Broadcasting Services	18602
 Regulation of NGSO Broadband Internet Services	14752
 Regulation of Postal and Courier Services	13582
 Regulation of Third-Party Service Providers	9855
@@ -6046,9 +6186,12 @@ Revenue VSAT Service US	10407
 Revenue and Services	14888
 Review and Approve Network Service Contracts	12320
 Review and Update the Servi	17180
+Review of Public Communication Services Tariffs	18602
 Review the Broadcasting Services Act	6951
+Revised Civil Service Codes and Regulations	18488
 Revolutionize Public Service Efficiency	2347
 Revolutionize Public Service Efficiency Last	2347
+Rights ISP Internet Service Provider	18454
 Rise of Mobile Money Services	10841
 Risk Identification A. All Telecommunications Service	4610
 Risk and Audit Services	11198
@@ -6158,7 +6301,7 @@ SEN Sistema Estadístico Nacional SEM Servicios	16898
 SENEGAL SERVICES Améliorations	18317
 SEO Search Engine Optimization SLA Service	14965
 SERVICBS DE PAIEMENT Article	15443
-SERVICE	12325,8,2421,820,1265,1002
+SERVICE	12325,8,2421,820,1265,1002,646
 SERVICE A AUTONOMIE TECHNIQUE OU	16175
 SERVICE A DIGITALISER Service	15936
 SERVICE A VALEUR AJOUTEE	998
@@ -6196,6 +6339,8 @@ SERVICE DUIFICHIER LEGIE ARTICLE	15530
 SERVICE E-CERTIFIEE CONFORME CERTIFIED TRUE	15999
 SERVICE FEES	14864
 SERVICE FINANCIERS MOBILES Abonnements	13586
+SERVICE GAPS AND OVERLAPS	18487
+SERVICE GAPS AND OVERLAPS FIGURE	18487
 SERVICE GÙ NCnîÊÊ	15999
 SERVICE IN RWANDA REGULATION N	14867
 SERVICE INDUSTRY AWARD	12454
@@ -6218,6 +6363,7 @@ SERVICE PROCESS AND ARCHITECTURE STANDARDS	11952
 SERVICE PRODUCTION Centrale Hydroélectrique de Busanga	15670
 SERVICE PROVIDER	14879
 SERVICE PROVIDERS	28,2699,1135,8503,565,141,14,3754,39
+SERVICE PROVIDERS AND JURISDICTION	18675
 SERVICE PROVIDERS CHAPTER	28
 SERVICE PROVIDERS Definition Recognition	11179
 SERVICE PROVIDERS Eswatini Electricity Company Eswatini	11131
@@ -6249,7 +6395,7 @@ SERVICE UNIVERSEt	15429
 SERVICE VOIX ET SMS Nombre	13586
 SERVICE-READY	15977
 SERVICEDUE	15999
-SERVICES	940,6823,2644,368,200,209,56,724,201,158,42,237,309,142,32,237,1087,94,270,5,2,45,110,214,125,369,68,5,283,382,171,287,3,41,1,1,2,55,64,143,854,325,96
+SERVICES	940,6823,2644,368,200,209,56,724,201,158,42,237,309,142,32,237,1087,94,270,5,2,45,110,214,125,369,68,5,283,382,171,287,3,41,1,1,2,55,64,143,854,325,96,48
 SERVICES ACROSS COUNTRIES	16991
 SERVICES AND ADMINISTRATION	13097
 SERVICES AND APPLICATIONS	16041
@@ -6333,6 +6479,7 @@ SERVICES MOBILES DE TEST SI VOUS	13300
 SERVICES NUMERIQUES	15584
 SERVICES ON BEHALF OF THE CHAIRPERSON	10569
 SERVICES POSTAUX RELEVANT DU REGIME	15885
+SERVICES PROVIDED AND INDIVIDUAL CONTRIBUTIONS	18487
 SERVICES PUBLICS Assurer	15999
 SERVICES PUBLICS DU BURUNDI	13341
 SERVICES RATTACHES	15999
@@ -6384,6 +6531,7 @@ SFN Services	15474,1152
 SFP School Feeding Programme SLA Service	16852
 SFWF Agricultural Services	14818
 SGSI Service de Gestion du Système	15479
+SIERRA LEONE CORRECTIONAL SERVICES	18512
 SIFEM Digital Infrastructure and Financial Services SIFEM	1559
 SITA Act and Public Service Regulations	11184
 SITUATION ACTUELLE DES SERVICES FINANCIERS NUMERIQUES	15493
@@ -6405,6 +6553,7 @@ SMS Senior Management Services SPLUM Spatial	11261
 SMS Service	3862
 SMS Service Mobile Originated	17212
 SMS Services Revenue	12395
+SMS Short Message Service SOP Series	18504
 SMS Short Message Service SSA Sub-Saharan	6946
 SMS Short Message Service TASAF Tanzania	7763
 SMS Short Message Service UN United	10765,10
@@ -6446,10 +6595,12 @@ SUBSECÇÃO II PRESTAÇÃO DE SERVIÇOS	11386
 SUBSECÇÃO XII Provedor de Serviços de Segurança Cibernética	6970
 SUPPLY CHAIN MANAGEMENT SERVICES	5793
 SUPPLY OF SERVICES	17108
+SUPPORT SERVICES	18486
 SUPPORT SERVICES FOR PERSONS WITH DISABILITIES	16887
 SUPPORTING ESSENTIAL HEALTH SERVICE DELIVERY People	10829
 SUR LES BIENS ET SERVICES	15999
 SUR LES SERVICES CLIMATIQUES DANS	16621
+SURVEY PARTICIPANTS AND THEIR SERVICE OFFERINGS	18487
 SVP for Services	6543
 SWIFT FIN Copy Service Description	12484
 SWIFT SERVICES SECTION	12484
@@ -6600,7 +6751,7 @@ Sereno B3 Servicio	4209
 Servers Regular Restoration Tests of Servers and Services	9123
 Servi	9399,5989,57,1410,43
 Servic	13325,3573,37
-Service	21,1,214,200,151,6,144,25,4,5,187,11,14,15,2,161,70,585,158,14,9,96,3,369,126,184,1,32,243,55,184,31,65,18,200,11,99,143,5,128,136,223,56,29,329,35,275,40,19,288,161,95,2,1,114,207,14,86,39,89,195,9,45,62,128,24,25,119,111,258,8,155,181,107,571,66,116,182,13,4,4,32,27,91,22,2,37,1,145,37,62,56,4,2,147,78,75,47,180,103,22,87,104,91,93,251,302,3,9,58,14,16,3,9,8,7,20,2,18,68,22,9,1,86,69,7,50,8,2,17,3,16,6,12,23,115,135,55,27,244,4,2,6,6,5,7,63,8,3,16,5,10,14,8,130,7,57,9,15,2,5,8,12,2,12,13,22,25,1,18,13,36,10,34,5,1,8,6,31,41,4,7,81,6,3,97,40,120,10,37,17,9,5,5,33,32,148,83,32,1,4,6,3,14,3,10,44,29,4,2,13,9,118,64,95,39,23,44,166,54,59,47,29,10,44,101,105,4,44,1,1,47,9,20,7,49,31,21,43,6,6,6,7,4,2,2,16,2,2,3,42,9,12,19,8,4,37,28,33,32,83,1,49,19,15,42,76,20,60,4,5,1,22,5,12,1,14,3,18,12,2,3,1,6,4,4,1,5,27,6,10,18,6,1,16,14,1,11,3,18,3,2,14,8,4,23,8,7,36,48,5,19,18,4,5,8,17,40,16,35,6,1,24,32,21,20,5,2,50,20,27,4,1,54,3,6,59,13,3,8,135,26,37,59,49,2,5,7,2,10,1,3,2,3,45,27,16,13,65,30,3,2,2,33,6,6,1,1,36,1,1,10,1,12,21,17,7,14,69,39,25,101,3,6,1,191,2,7,212,56,101,3,1,1,5,25,8,8,3,26,2,46,35,21,42,15,3,8,34,1,19,44,117,5,28,43,50
+Service	21,1,214,200,151,6,144,25,4,5,187,11,14,15,2,161,70,585,158,14,9,96,3,369,126,184,1,32,243,55,184,31,65,18,200,11,99,143,5,128,136,223,56,29,329,35,275,40,19,288,161,95,2,1,114,207,14,86,39,89,195,9,45,62,128,24,25,119,111,258,8,155,181,107,571,66,116,182,13,4,4,32,27,91,22,2,37,1,145,37,62,56,4,2,147,78,75,47,180,103,22,87,104,91,93,251,302,3,9,58,14,16,3,9,8,7,20,2,18,68,22,9,1,86,69,7,50,8,2,17,3,16,6,12,23,115,135,55,27,244,4,2,6,6,5,7,63,8,3,16,5,10,14,8,130,7,57,9,15,2,5,8,12,2,12,13,22,25,1,18,13,36,10,34,5,1,8,6,31,41,4,7,81,6,3,97,40,120,10,37,17,9,5,5,33,32,148,83,32,1,4,6,3,14,3,10,44,29,4,2,13,9,118,64,95,39,23,44,166,54,59,47,29,10,44,101,105,4,44,1,1,47,9,20,7,49,31,21,43,6,6,6,7,4,2,2,16,2,2,3,42,9,12,19,8,4,37,28,33,32,83,1,49,19,15,42,76,20,60,4,5,1,22,5,12,1,14,3,18,12,2,3,1,6,4,4,1,5,27,6,10,18,6,1,16,14,1,11,3,18,3,2,14,8,4,23,8,7,36,48,5,19,18,4,5,8,17,40,16,35,6,1,24,32,21,20,5,2,50,20,27,4,1,54,3,6,59,13,3,8,135,26,37,59,49,2,5,7,2,10,1,3,2,3,45,27,16,13,65,30,3,2,2,33,6,6,1,1,36,1,1,10,1,12,21,17,7,14,69,39,25,101,3,6,1,191,2,7,212,56,101,3,1,1,5,25,8,8,3,26,2,46,35,21,42,15,3,8,34,1,19,44,117,5,28,43,50,28,12,15,10,9,1,69,22,104,11
 Service AI	7548
 Service APIs	6423
 Service APIs The APIs	6423
@@ -6658,11 +6809,12 @@ Service Centres	12291,101,578
 Service Centres Operationalization and Strengthening	12970
 Service Cette	15936
 Service Charge	11863,2075
-Service Charter	12936
+Service Charter	12936,5640
 Service Charters	13332
 Service Chiefs	1014
 Service Civique	2808,15108,83,26
 Service Civique Cabinet du Ministre	18087
+Service Cluster	18637
 Service Co-ordinating Bargaining Council QCTO Quality	11261
 Service Code	16934
 Service Code Allocations	16934
@@ -6672,6 +6824,7 @@ Service Commission	899,3227,8794,52
 Service Commission PSTR Primary	2775
 Service Commission QCTO Quality Council for Trades	11198
 Service Commission TV Television TVC Technical	2775
+Service Commission WASH Water	18460
 Service Commissions. Sections	12972
 Service Communication	13799,1613,1273,24,4,1169
 Service Communication Conakry	16673
@@ -6687,6 +6840,7 @@ Service Couple LD	16970
 Service Courier	16099
 Service Courrier	15701,398
 Service Coverage Index DHS Statcompiler	17869
+Service Coverage Indicators	18627
 Service Coverage and Equity	18370
 Service Criteria Modification	15149
 Service Crédit Epargne Assurance Dépôts	11944
@@ -6704,7 +6858,7 @@ Service Data and Innovation Open	12359
 Service Date	736
 Service Date Application No. Application License	736
 Service Declaration	5679
-Service Delivery	970,2081,1151,7218,531,35,677,284,15,10,4,190,165,87,56,293,1168,1948
+Service Delivery	970,2081,1151,7218,531,35,677,284,15,10,4,190,165,87,56,293,1168,1948,1593,18
 Service Delivery Among	718
 Service Delivery Blueprint	13646
 Service Delivery Charter	16961
@@ -6718,13 +6872,16 @@ Service Delivery Experience County Service Center	17139
 Service Delivery Failure	17139
 Service Delivery Failures	17139
 Service Delivery Footprint Local Offices	8999
+Service Delivery Health Information System Commodities	18478
 Service Delivery Improvement	11231
 Service Delivery Improvement Plan	11218,6
+Service Delivery Index	18494
 Service Delivery Indicator	10188
 Service Delivery Indicators	11905
 Service Delivery Information Tool	11218
 Service Delivery Model	5533,6453
 Service Delivery Program for Results	10870
+Service Delivery Project AGD Accountant General	18488,12
 Service Delivery Reform Programme	12529
 Service Delivery Requirements	9855
 Service Delivery Standards	6786,6701
@@ -6732,6 +6889,7 @@ Service Delivery Thematic Area	11951
 Service Delivery Time	4528,7984
 Service Delivery and Access	11250
 Service Delivery and Accessibility	11791
+Service Delivery and Digital Solutions	18446
 Service Delivery and Inclusion	13005
 Service Delivery and Integration	13005
 Service Delivery and Local COVID-19 Response Project	16949
@@ -6764,7 +6922,7 @@ Service Factor	736
 Service Federal Housing Authority School Secondary	11129
 Service Fee Article	15492
 Service Fee The Administration	7538
-Service Fees	15014
+Service Fees	15014,3527
 Service Financier Ce	15670
 Service Foncier	14444
 Service Foncier Communal	13375
@@ -6800,6 +6958,7 @@ Service Infrastructure	11857
 Service Infrastructure-as-a-Service	9123
 Service Infrastructures Sanitaires	15678
 Service Innovation Technologique	15701
+Service Integration	18688
 Service Integration Working Group	15223
 Service Integrator	11995
 Service Integrators	11995
@@ -6877,6 +7036,9 @@ Service Payments Months of Import Cover	17235
 Service Pillars	12976
 Service Planification	15678
 Service Plans	6892
+Service Platform	18688
+Service Platform for Regulatory Payments and Services	18688
+Service Platform for Regulatory Payments and Services URL	18688
 Service Pledge	13251
 Service Point Applications	21
 Service Point Name Lat Long District	11986
@@ -6889,7 +7051,7 @@ Service Postal Universel UAT Union Africaine	16327
 Service Presse	16381
 Service Production	15366
 Service Project	35,9531
-Service Provider	3300,562,748,872,1464,3775,98,10,1123,407,6,552,120,3798,37,52,2
+Service Provider	3300,562,748,872,1464,3775,98,10,1123,407,6,552,120,3798,37,52,2,1518,41,117,73
 Service Provider Architecture	11952
 Service Provider Architecture Standards	11952
 Service Provider Architecture Standards Requirement	11952
@@ -6901,15 +7063,17 @@ Service Provider IT Information Technology ITU	15621
 Service Provider IT Information Technology KNUST	4126
 Service Provider Interface	11269
 Service Provider Jamii Telecommuni-	6946
+Service Provider Obligations. Under Section	18667
 Service Provider PayLogic	2276
 Service Provider Selection	16835
-Service Providers	4610,2336,3775,98,311,4,818,43,394,143,2191,413,382,1317,37,70
+Service Providers	4610,2336,3775,98,311,4,818,43,394,143,2191,413,382,1317,37,70,1543,19
 Service Providers CSR Corporate Social Responsibility	6946
 Service Providers Data	9123
 Service Providers Data Centre	9123
 Service Providers ECOWAS Engl	16594
 Service Providers IDA Transfers	10829
 Service Providers Notification	10819
+Service Providers Number of Authorization	18444
 Service Providers Page	10721
 Service Providers Registration of Cloud Service Providers	6432
 Service Providers Relying Parties Accountable Trusted	10819
@@ -6982,12 +7146,15 @@ Service Tax	14932
 Service Technique	17812
 Service Technologique	15936
 Service The Service	15459
+Service Tier	18444
 Service To Mauritius Programme Interns	14745
+Service Total No. of ISP	18444
 Service Transactionnel Service Intégré	15936
 Service Transactionnel Service Intégré Tous	15936
 Service Transformation AI Strategy Pillars AI	12512
 Service Type	14151,3099
 Service Type Average Cost	15120
+Service UADF	18485
 Service UN United Nations UNISA University	11188
 Service UNDP United Nations Development Programme	12395
 Service UNSD United Nations Statistics Division	12663
@@ -7123,7 +7290,7 @@ Serviceability	14777
 Serviceability LO O O LO LO	14777
 Serviced Land	13474
 ServicedeliveryZA Issued	11278,3
-Services	11,10,312,240,20,50,93,1,38,139,26,18,3,4,5,244,29,567,102,62,122,130,65,27,6,6,24,73,20,29,53,12,25,48,33,11,45,17,5,50,3,41,1,3,50,41,11,18,4,70,1,8,135,124,18,120,12,25,27,75,21,40,47,30,15,27,78,69,141,37,21,38,134,39,254,72,4,2,102,43,55,58,7,131,58,10,24,2,123,3,13,50,135,3,45,40,3,17,43,50,33,1,17,3,44,22,112,70,8,116,183,18,1,51,19,19,178,5,104,1,123,26,7,16,123,221,586,126,51,137,269,4,119,66,79,33,53,94,113,152,74,114,172,159,35,1,12,208,7,24,35,180,55,282,302,2,1,2,26,25,10,1,31,5,7,17,8,12,19,1,58,42,16,141,1,15,5,41,21,24,19,12,85,168,56,1,61,108,107,6,11,3,4,1,58,1,3,8,3,29,2,22,27,6,2,210,27,41,16,9,13,5,15,6,4,24,3,5,23,1,8,58,146,4,41,132,83,44,1,10,5,11,29,14,6,146,2,39,44,27,5,1,11,2,10,5,11,1,4,12,20,8,2,3,28,9,15,40,18,2,47,14,97,42,2,6,9,53,11,23,35,27,70,72,327,56,31,1,16,39,8,1,1,35,14,1,6,20,12,44,8,98,1,3,4,14,2,14,7,118,6,24,6,5,12,21,91,24,40,6,12,5,6,15,34,17,59,80,13,5,22,25,5,5,9,4,1,6,15,3,7,14,5,18,1,6,12,18,3,2,16,8,6,1,20,20,11,6,19,25,26,9,3,2,13,3,33,14,57,6,16,18,16,7,25,3,2,5,30,26,21,88,36,51,8,21,25,17,8,20,1,49,86,16,10,43,35,18,49,8,6,6,5,1,6,8,74,117,7,14,8,11,4,2,5,1,1,11,4,2,19,1,1,20,4,2,22,2,2,3,28,5,57,29,19,23,10,31,55,16,4,2,3,104,66,11,7,5,32,331,3,4,1,3,2,4,8,11,2,2,1,7,9,9,14,3,8,2,49,13,11,50,31,55,4,1,46,35,91,2,1,3,8,6,2,7,26,9,11,54,4,2,1
+Services	11,10,312,240,20,50,93,1,38,139,26,18,3,4,5,244,29,567,102,62,122,130,65,27,6,6,24,73,20,29,53,12,25,48,33,11,45,17,5,50,3,41,1,3,50,41,11,18,4,70,1,8,135,124,18,120,12,25,27,75,21,40,47,30,15,27,78,69,141,37,21,38,134,39,254,72,4,2,102,43,55,58,7,131,58,10,24,2,123,3,13,50,135,3,45,40,3,17,43,50,33,1,17,3,44,22,112,70,8,116,183,18,1,51,19,19,178,5,104,1,123,26,7,16,123,221,586,126,51,137,269,4,119,66,79,33,53,94,113,152,74,114,172,159,35,1,12,208,7,24,35,180,55,282,302,2,1,2,26,25,10,1,31,5,7,17,8,12,19,1,58,42,16,141,1,15,5,41,21,24,19,12,85,168,56,1,61,108,107,6,11,3,4,1,58,1,3,8,3,29,2,22,27,6,2,210,27,41,16,9,13,5,15,6,4,24,3,5,23,1,8,58,146,4,41,132,83,44,1,10,5,11,29,14,6,146,2,39,44,27,5,1,11,2,10,5,11,1,4,12,20,8,2,3,28,9,15,40,18,2,47,14,97,42,2,6,9,53,11,23,35,27,70,72,327,56,31,1,16,39,8,1,1,35,14,1,6,20,12,44,8,98,1,3,4,14,2,14,7,118,6,24,6,5,12,21,91,24,40,6,12,5,6,15,34,17,59,80,13,5,22,25,5,5,9,4,1,6,15,3,7,14,5,18,1,6,12,18,3,2,16,8,6,1,20,20,11,6,19,25,26,9,3,2,13,3,33,14,57,6,16,18,16,7,25,3,2,5,30,26,21,88,36,51,8,21,25,17,8,20,1,49,86,16,10,43,35,18,49,8,6,6,5,1,6,8,74,117,7,14,8,11,4,2,5,1,1,11,4,2,19,1,1,20,4,2,22,2,2,3,28,5,57,29,19,23,10,31,55,16,4,2,3,104,66,11,7,5,32,331,3,4,1,3,2,4,8,11,2,2,1,7,9,9,14,3,8,2,49,13,11,50,31,55,4,1,46,35,91,2,1,3,8,6,2,7,26,9,11,54,4,2,1,13,6,8,25,2,3,52,38
 Services ANC Antenatal Care IPT Intermittent	16971
 Services ARTICLE	15901
 Services Account	17235
@@ -7141,6 +7308,7 @@ Services Alhaji Mohammed-Mubarak	4229
 Services Already Provided	16949
 Services Ameliorations	18317
 Services Assimilés	1649
+Services Association FSU Family Support Unit	18512
 Services Auth	14480
 Services Authority	15473
 Services Automating	14965
@@ -7267,6 +7435,7 @@ Services Network	16470
 Services Nig Ltd	3862
 Services Notification Subscription	1009
 Services Numériques Ministère	17887,5,11
+Services Offered Fees	18541
 Services Open Access Data Centres	11243
 Services Operating Limits Maximum Single Transaction	5687
 Services Opportunity Opportunity Position Mauritius	14566
@@ -7349,9 +7518,10 @@ Services VIH	15711
 Services Version	14784
 Services Vu la Loi	17827
 Services Without	15901
+Services and Activities Subject	18602
 Services and Analytics	16949
 Services and Analytics AWP Annual Work Program	11549
-Services and Applications	21,12219
+Services and Applications	21,12219,6238
 Services and Applications Services	12240
 Services and Change Managements	12453,892
 Services and Contracts	15901
@@ -7366,6 +7536,7 @@ Services and Right of Establishment and Residence	14409
 Services and Solutions	11964
 Services and Spectrum Policy	16883
 Services and Sui Generis	14746
+Services and Systems Support Project RRIV Report	18478
 Services de Base	16037
 Services de Communications Electroniques	4813
 Services de Consultants	5370,9208,1956,128
@@ -7503,6 +7674,7 @@ Serviteurs	5280,12352
 Serviteurs du Peuple	7670,651,7796,170
 Serviteurs du Peuple. Par	16117
 Servitude	10876
+Servitude and Forced Labour	18597
 Servitudes	11272,3216,1,1,939,893,293
 Serviço	15,2801,4154,697,592,2488,10,3,17,583,8,1,8,9,44,31,57,1,1,11,7,9,8,1,755,3044,3,34,48,64,22,496,299,737
 Serviço A Serviço E Serviço B	11379
@@ -7759,7 +7931,7 @@ Serviços de VoIP	15367
 Serviços de Voz	11371
 Serviços. Os Consultores	10769
 Sexual and Gender-based Violence Services	16951
-Sexual and Reproductive Health Services	12976
+Sexual and Reproductive Health Services	12976,5556
 Seychelles Postal Services	2104
 Shared Digital Services	1672,1
 Shared Platforms and Service Delivery	17394
@@ -7771,9 +7943,10 @@ Shared Services Fee. Organizations	6153
 Shared Services Platforms Development	12917
 Shared Services R2. Upgrade LIBTELCO’s National	16876
 Shembe Prayer Services	12977
-Short Message Service	34,10050,728,1583,221,1795,425,575,107,1099,375,220,820
+Short Message Service	34,10050,728,1583,221,1795,425,575,107,1099,375,220,820,412
 Short Message Service Rates	16992
 Short Message Service SME Small and Medium	12923
+Short Message Service SS	18485
 Short Message Service VoIP	6000
 Short Message Services	2776
 Short Message Tangaza University. Services	2775
@@ -7783,11 +7956,22 @@ Short Messaging Service SNA Systems of National	236
 Short Messaging Services	15283
 Short Messaging Services SNA System of National	2775
 Siemens IoT Services	2093
+Sierra Leone Accountable Governance for Basic Service	18494
 Sierra Leone Civil Service Disclaimer	7182
+Sierra Leone Correctional Service	18477
+Sierra Leone Correctional Service Act	18477
+Sierra Leone Correctional Service SLLS Sierra	18477
+Sierra Leone Correctional Services	18512
 Sierra Leone Government Service Bus	2112
+Sierra Leone Postal Service	18454
+Sierra Leone Postal Services	18523
+Sierra Leone Prisons Service	18477
+Sierra Leone Public Service Commission	18576
 Sig. Creative Services	16266
 Sighting Services	17260
 Silva Diretora de Serviço de Cuidados Técnica Paula	15694
+Simplify Service Fees	18588
+Simplify Service Fees URL	18588
 Single Portal Digital Services Team Report	11965
 Single Service Desks	4214
 Single Service Desks8	4214
@@ -7811,7 +7995,7 @@ Social Protection Advisory Services and Analytics	18301
 Social Protection Single Window Citizens Service	16600
 Social Security Services	7763
 Social Service Delivery. Country Case Studies	12761
-Social Services	1988,787,1753,1127,1512,3146,972,1006,221,897
+Social Services	1988,787,1753,1127,1512,3146,972,1006,221,897,5203
 Social Services Administration and Agriculture	10313
 Social Services Administration and Agriculture. Looking	10313
 Social Services Delivery and Empowerment	16861
@@ -7833,6 +8017,7 @@ Software as a service Summary of Costs and Benefits	15411
 Software as a service. Manuel	1984
 Solar PV REFIT ALCON Consulting Services	12399
 Solid Interconnectivity Services Limited	3862
+Solutions Services and Applications	18478
 Solutions and Services for Carrier Phones	3511
 Somalia’s National Employment Service Center	5172
 Sources Information Services Basic	17097
@@ -7862,8 +8047,10 @@ South African Transport Services Act	11551
 South African Weather Service	3290,7901,2010
 South African Weather Service Act	11191
 South Korea’s National Information Resources Service	7471
-South Sudan National Police Service	9586
+South Sudan Meteorological Services	18634
+South Sudan National Police Service	9586,9029,56,42
 South Sudan National Police Service Gen	4635
+South Sudan Police Service	18595,54
 South Sudan's ICT and Postal Services Minister	13262
 South Sudan's Minister of ICT and Postal Services	6046
 Southern Africa Fraud Prevention Services	11940
@@ -8013,6 +8200,7 @@ Supporting Essential Health Service Delivery	10829
 Supporting Essential Health Service Delivery Children	10829
 Supporting Financial Service Providers	1066,12872
 Surveillance des Services	18003
+Survey ASSL Audit Service Sierra Leone	18577
 Sushma Swaraj Foreign Service Institute	17240
 Sushma Swaraj Institute of Foreign Service	13744,47,1328
 Sushma Swaraj Institute of Foreign Services	18378
@@ -8082,6 +8270,8 @@ TRN Request Service	11298
 TRUST SERVICE PROVIDERS	17534
 TRUST SERVICES Fully	16942
 TRÁFEGO MÉDIO POR UTILIZADOR DE SERVIÇO	11531
+TSC Teaching Service Commission TWG Technical	18564
+TSM Total Serviceable Market	18620
 TWG Automated Meter Reading Average Service	12969
 TYPE DE SERVICE FRAIS DROITS D’ETUDE	17899
 TYPE DE SERVICE REDEVANCES Bamako	17899
@@ -8099,6 +8289,7 @@ Tanzania Intelligence Service	2867
 Tanzania Internet Service Providers Association	2580
 Tanzania Universal Communications Service and Access Fund	14674
 Targeting Services	11940
+Tariff and Pricing Mechanism of Products and Services	18444
 Tariffs for Services	16835
 Task Management Service	12359
 Tax CSD Customs Services Department DTD	14985
@@ -8123,7 +8314,7 @@ Teachers Service Commission	899,1876,4171,6094,1506
 Teachers Service Commission Parastatal Bodies2	2775
 Teaching Public Service	4429
 Teaching Service	12726,666
-Teaching Service Commission	12956,19,417
+Teaching Service Commission	12956,19,417,5068,30,67,7
 Teaching Service Commission TVET Technical and Vocational	16852
 Teaching Service Department	12726
 Teaching Services	12726
@@ -8144,7 +8335,7 @@ Technology Service Management ITU MISR International	12917
 Technology Service Providers Strengthen	12453
 Technology Service Providers of Kenya	6946
 Technology Talent Services	11314
-Technology and Postal Services	5083,9246
+Technology and Postal Services	5083,9246,4392
 Technology and Service Enhancement Integration of MauPass	14761
 Tecnologias Arranjo Oferta de Institutional Serviços	11569
 Telcom Consumer Compliance Supply Chain Services	6946
@@ -8166,6 +8357,7 @@ Telecommunication Traffic Monitoring Services	14046
 Telecommunications Licence International Gateway Services	736
 Telecommunications Licence for Special Services	736
 Telecommunications Quality of Service Regulation	14944
+Telecommunications Quality of Service Regulations	18444
 Telecommunications Service	762,3848,2336
 Telecommunications Service Licensees	1900
 Telecommunications Service Provider	4610
@@ -8183,7 +8375,7 @@ Telecommunications Services of Eritrea	13951
 Telecommunications Value Added Service	762
 Telecommunications Value Added Service License	762
 Telecommunications and ICT Services	16144
-Telecommunications and ICT Services Sector	3604,2935
+Telecommunications and ICT Services Sector	3604,2935,11965
 Telecommunications and Information Services	6325
 Telecommunications and Internet Service Providers	21
 Telecommunications and Postal Service Tariff Regulation	14944
@@ -8251,6 +8443,7 @@ Trade and Payment Services Ref. TED	14453
 Trade and Services	10841
 Trade and Services Chad	10841
 Trade and Services Statistics Team Leader Email	12445
+Trademarks No. Services Offered Fees	18541
 Training Network Services	17870
 Training Programme Requirements Service	11952
 Training Services and Materials	13185
@@ -8279,6 +8472,8 @@ Transportation and Storage and Services	6946
 Transporte Servicio Exterior	4209
 Traslados Servicio Exterior	4209
 Treasury Service Centres	8723
+Trend of ICT Service Providers	18485
+Trend of ICT Service Providers Maximum Bandwidth	18485
 Tribunal Constitucional Servicio	4209
 Tribunals Service Reform Programme	8978
 Trust Service Digital	10819
@@ -8300,6 +8495,7 @@ Trusted Service Providers	17870
 Turkey's Integrated Social Assistance Services System	11133
 Twoobii-OneWeb LEO Smart Satellite Service	13225
 Type des Directions des Services Informatiques	15512
+Type of Internet Service Provider	18444
 Type of Service	22
 Type of Service Indicator Baseline Forecast	236
 Type of Television Service Authorised TV Stations	2776
@@ -8339,11 +8535,12 @@ UNITEL Restores Core Mobile Services Nationwide	10670
 UNIVERSAL ACCESS AND SERVICE	16839,33,14
 UNIVERSAL ACCESS AND SERVICE FUND FRAMEWORK	12558
 UNIVERSAL ACCESS AND SERVICE POLICY	16886
+UNIVERSAL SERVICE	18601,1
 UNIVERSAL SERVICE FUND EXISTS	1251
 UNIVERSAL SERVICE OBLIGATION	14879
 UNLICENSED DIGITAL CREDIT SERVICES PROVIDERS	7464,1268
 UNLICENSED SERVICE PROVIDER	9728
-UNOPS United Nations Office for Project Services	15731
+UNOPS United Nations Office for Project Services	15731,2894
 UNSAFE WASH SERVICES	16892
 US Dept of Health and Human Services	496,183
 US Internal Revenue Service	11685
@@ -8403,7 +8600,7 @@ Unique Identity Number for Service Delivery	10765,10
 Unit for Digitization of Financial and Fiscal Services	17870
 United Kingdom’s Government Digital Service Standards	11216
 United Nations Humanitarian Air Service	14945
-United Nations Office for Project Services	6806,3970,53,3109,1473,247,1499
+United Nations Office for Project Services	6806,3970,53,3109,1473,247,1499,1296,56,116,13,64,30
 United Nations Office for Project Services Distr	15039
 United Nations Office for Project Services United	15039
 United Nations Public Service Innovation Award	14323
@@ -8434,8 +8631,9 @@ Universal Communications Service Access Fund	5788,4221
 Universal Electronic Communications Service	3699
 Universal Health Coverage Services	13982
 Universal Health Service Coverage Index	15725
+Universal Integrated Service	18452
 Universal Postal Services	12558,2782
-Universal Service	736,487,5244,367,112,8501,1495
+Universal Service	736,487,5244,367,112,8501,1495,1659,1
 Universal Service Access Fund	3264,7966,2967
 Universal Service Advisory Council	6946,2390
 Universal Service Advisory Council Licensing	6946
@@ -8472,7 +8670,7 @@ Universal Service UAF	14879
 Universal Service and Access	12911
 Universal Service and Access Agency of SA	10129
 Universal Service and Access Agency of South Africa	5191,6004,35
-Universal Service and Access Fund	2969,20,275,153,1774,137,3219
+Universal Service and Access Fund	2969,20,275,153,1774,137,3219,10054,1,21,13,84
 Universal Service and Access Fund UAF	16872
 Universal Service and Access Funds	9759
 Universal Service and Access Obligations for Telkom SOC	11259
@@ -8485,7 +8683,7 @@ Universal Services Fund for AI-for-public-good	8483
 Universal Services Licence	736
 Universal Services Obligation	11199
 Universal Services Provider Class B	736
-Universal Services and Access Fund	7672
+Universal Services and Access Fund	7672,10963
 Universal Telecommunication Service	2802
 Universal Telecommunications Service	3699
 Universal Telecommunications Services	15340
@@ -8498,13 +8696,15 @@ Unlimited United Telecommunications Services N.V	15471
 Unlocking Last Mile Services	17634
 Unsolicited Services	12616
 Unstructured Supplementary Service	3862,11035
-Unstructured Supplementary Service Data	1257,4891,3791,836,190,165,3,503,308,503,1573,1125,138,197,1454,278,658,162
+Unstructured Supplementary Service Data	1257,4891,3791,836,190,165,3,503,308,503,1573,1125,138,197,1454,278,658,162,453
 Unstructured Supplementary Service Data South African	11130
+Unstructured Supplementary Service Data VASP	18485
 Unstructured Supplementary Service Data WFP	14948
 Unutilized Services Onboarded	14546
 Update the Servic	17180
 Upgradability Service	11952
 Upgrading Public Services	14829
+Uptake Continuum of Digital Financial Services	18454
 Uptake Of Informal Financial Services	12409
 Uptake of Formal Financial Services	12409
 Uptake of Formal Financial Services. CHAPTER SEVEN	13399
@@ -8535,6 +8735,7 @@ Use of Goods and Services	3583,9539,2805
 Use of Goods and Services Grants Social Benefits	13093
 Use of Local Port Services	12389
 Use the Universal Service Fund	6951
+User Fees and Services Charges No. DESCRIPTION	18541
 User Information Services Quarter	11296
 User and Subscriber Service Charter	4732
 User and Subscriber Service Charter Amendment Regulations	11259
@@ -8586,7 +8787,7 @@ VSAT Service Provider	10407
 VSAT Services	10407
 Vacoas Mauritius Meteorological Service	14746
 Validé Service	998
-Value-Added Service	14151
+Value-Added Service	14151,4537
 Value-Added Service Codes D50	17250
 Value-Added Service Licensees	3862
 Value-Added Service Market Segment	3862
@@ -8606,6 +8807,7 @@ Veterinary Services	1554,13264
 Veterinary Services RAM Resistência	15966
 Vice Ministro Servicio	4209
 Vice President Services Andrew Sinyangwe	13432
+Vice President for Services Cluster the University of Juba	18621
 Vice President of Presight International Services	15826
 Vice-Ministro Servicio	4209
 ViceMinistro Servicio	4209
@@ -8653,6 +8855,7 @@ Voice and Mobile Services Diversity	9446,1510
 Voluntary National Service	14935
 Vulnerability Management Service	11952
 W SGS MINERAL SERVICE GUINEE-SARL SGS	16623
+WAE SC and Teaching Service Commission	18557
 WB Ethiopia Digital ID for Inclusion and Services	1260,30,9542,54
 WB-financed Gambia Essential Health Services Strengthening	1654
 WB’s Grievance Redress Service	11525,330,1476,1,3564
@@ -8691,6 +8894,7 @@ Wildlife Service KWSCRP Kenya Water Security	2775
 Windows Server Update Services	12917,4010
 Windows Service	10617
 Wireless Application Service Provider Association of Nigeria	7600
+Wireless Internet Service Providers	18444
 Wireless Internet Services	15282
 Wireless Internet Services License	15282
 Wolid International Services Limited	3862
@@ -8711,6 +8915,7 @@ World Bank. Defining Digital Financial Services	11994
 World Bank’s Grievance Redress Service	1264,2340,7225,135,453,4101,35,105,1,2,483,778,177,15
 World Bank’s Reimbursable Advisory Service	15518
 World Trade Organization Global Services Trade	11884,275,328
+World University Service of Canada	18665
 X GUINEENNE DE SERVICES AEROPORTUAIRES	16623
 X Product and Service Innovation X X	14997
 X00AF000 F Servicio	4209

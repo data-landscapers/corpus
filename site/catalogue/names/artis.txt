@@ -10,7 +10,7 @@ ARTISTIQUES	15436
 ASSOCIATION DES ARTISANS POUR LE DEVELOPPEMENT	16367
 Artis Bertulis	11540,26
 Artisa-	17812
-Artisanal	16935,14,191
+Artisanal	16935,14,191,1364,37
 Artisanal Mining Programme	13460
 Artisanal Villages	10980
 Artisanal and Small-scale	13060
@@ -50,6 +50,7 @@ Artist Act	14742
 Artist Fees	12982
 Artist Incubator Scheme	14742
 Artistes du Burundi	13390
+Artistic	18437
 Artistic and Cultural	14829
 Artistic and Cultural Hub. That Hub	14829
 Artists	7602,6698,3473

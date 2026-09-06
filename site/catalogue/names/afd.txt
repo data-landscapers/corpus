@@ -63,7 +63,7 @@ Additional Financing AFD French Development Agency	11924
 AfD-Bundestagsabgeordnete Edgar Naujok	11316
 AfD-Bundestagsfraktion	11316
 AfDB Africa Information Highway Portal	11863
-AfDB African Development Bank	11887,266,1,9,178
+AfDB African Development Bank	11887,266,1,9,178,6273
 AfDB African Development Bank AFW World	969
 AfDB African Development Bank AFWES Africa	15661
 AfDB African Development Bank AFWRI Country	10841
@@ -105,6 +105,7 @@ AfDB Nigeria Office Director General Abdul	5804
 AfDB Plans	14969
 AfDB President	2807,53
 AfDB President Sidi Ould Tah	6338
+AfDB SAP033	18581
 AfDB Somalia	15011
 AfDB The Youth Entrepreneurship and Investment Bank	17235
 AfDB Trade Finance Middle and Back Office	10718

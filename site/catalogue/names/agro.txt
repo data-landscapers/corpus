@@ -46,6 +46,7 @@ Agro-climate	18309
 Agro-ecological Zone and Carrying	12912
 Agro-ecological Zones	520
 Agro-ecological Zones and Carrying Capacity	12912
+Agro-food	18458
 Agro-industrie	10643,2906,1993,2471
 Agro-industrie Achat Logistique Transport Total INSG	15674
 Agro-industrie Média ANADER RTI CIDT IDT	2342
@@ -75,10 +76,11 @@ Agroforestry Practices	1988
 Agroforestry Systems	16996
 Agrofresh UG	11659
 Agrofresh Ug	11659
+Agromet	18578
 Agromet Station	16947
 Agrometeorologia	15503
 Agrometeorological	17962
-Agrometeorology	15129
+Agrometeorology	15129,3577
 Agrométéorologie	15371
 Agrométéorologie Article	15371
 Agronews	16668
@@ -139,6 +141,7 @@ Good Nature Agro	12376
 Good Nature Agro. Available	12376
 GoodNature Agro. Available	12376
 Gueye ANACIM Head of Agrometeorology Department	18309
+Hydrology AgroMet Agrometeorological AIFS African Integrated	18578
 I Censo Agropecuario	17422
 I Censo Agropecuario URL	17422
 I Censo Agropecuario V Censo de Población	10487
@@ -186,6 +189,7 @@ Recherche Agronomique Direction	15936
 Revision Of Zimbabwe's Agro-Ecological Zones. ISBN	520
 Revision of Agro-Ecological Zones Report Authors	520
 Revision of Zimbabwe's Agro-Ecological Zones	520
+Rice Special Agro-Industrial Processing Zone	18561
 SMS Soleil Agrobusiness La Jolie Teinturière	16693
 SOCIETE AGRO-PASTORALE DU GABON	16175
 Sciences Agronomiques	15529

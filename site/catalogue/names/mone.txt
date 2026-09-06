@@ -20,6 +20,7 @@ Administration Territoriale ML Money Laundering MNO	15415
 AfriMoney and Orange Money	7934
 Africa MSWSA Money Smart Week South	11198
 Africa WAEMU West African Economic and Monetary	11545
+African Economic and Monetary Union WAPP Western	18504
 African Monetary	4103
 African Monetary Cooperation Programme	4103
 African Monetary Institute	4103
@@ -147,6 +148,7 @@ CEO of Orange Money Burkina Faso	2522
 CEO of Orange Money Liberia	4285
 CEO of Orange Money Sierra Leone	2395
 CHAPITRE II FONCTIONS MONETAIRES ET OPERATIONS	17816
+CHAPTER III PROHIBITION OF MONEY LAUNDERING	18599
 CIVIL SANCTIONS AND MONETARY PENALTIES	3861
 COBAC MONETAIRE DE L'AFRIQUE CENTRALE RELATIF	15443
 COMMUNAUTE ECONOMIQUE ET MONETAIRE DE L'AFRIQUE	15482
@@ -215,6 +217,7 @@ Digital Analytics and Monetisation	17714
 Digital Money	128
 Directeur de Gozem Money Togo	3766
 Director of Monetary Policy Department	6938
+Disposal of Confiscated Money	18599
 Division Multiple Access CEMAC Economic and Monetary	16942
 Documents Monetary Policy Statements Reports Legislations	12390
 Don’t Touch My Money	17950
@@ -267,6 +270,7 @@ Electronic Money Institutions	3407,72,1779,2545
 Electronic Money Institutions. Automated Teller Machines	7803
 Electronic Money Issuance	12542,990
 Electronic Money Issuers	7763,7837
+Electronic Money Regulation	18702
 Electronic Money Transfer Levy	9113
 Ends Era of Mobile Money Silos Contributing	4282
 Energy WAEMU West African Economic and Monetary	11549
@@ -350,7 +354,7 @@ ICT MANDATE AND ITS MONEY	1285,1,1837,1,1260,1
 ID-Required Mobile Money	4439
 IGEPSA Implementation Manual International Monetary Fund	11905
 IMF Fiscal Affairs Department. International Monetary	16955
-IMF International Monetary Fund	11887,266,1,9,178,2588,291
+IMF International Monetary Fund	11887,266,1,9,178,2588,291,3394
 IMF International Monetary Fund IMS Information	11863
 IMF International Monetary Fund INE Instituto	11380
 IMF International Monetary Fund INE National	11525
@@ -383,6 +387,7 @@ Income Identification Document International Monetary Fund	12701
 Income Tax Act International Monetary Fund	14932
 Index70 and Mobile Money Regulatory Index71	14674
 Indonesia and Kenya GSMA Mobile Money	11994
+Information System IMF International Monetary Fund	18488,12
 Institution IMF International Monetary Fund KPIs	17260
 Instituto Monetário	11044
 Instteimrnaatteiosnal Monetary Fund	12205
@@ -395,7 +400,7 @@ Intergovernmental Action Group Against Money Laundering	17235
 Interim Financial Reports IMF International Monetary	18293
 Intermediated Money Transfer Tax	9904
 International Growth Centre IMF International Monetary	15023
-International Monetary Fund	1155,129,544,57,1693,5,21,6,43,474,917,97,106,1091,600,304,223,113,26,33,116,70,166,21,251,97,68,289,303,212,198,31,31,21,59,169,464,216,324,98,128,28,134,3,2,4,9,44,2,63,28,94,145,11,13,23,312,11,10,19,23,47,133,32,3,14,29,150,21,9,10,92,13,338,84,26,8,6,82,11,5,62,210,292,117,127,140,538,192,6,30,3,96,56,3,97,212,131,99,2,5,2,11,27,35,105,1,2,64,65,243,111,45,275,369,109,7,6,5,36,15,26,67,1,88,16,26,22,59,1,9,13,25,57,82,165,202,39,81,73,230,25
+International Monetary Fund	1155,129,544,57,1693,5,21,6,43,474,917,97,106,1091,600,304,223,113,26,33,116,70,166,21,251,97,68,289,303,212,198,31,31,21,59,169,464,216,324,98,128,28,134,3,2,4,9,44,2,63,28,94,145,11,13,23,312,11,10,19,23,47,133,32,3,14,29,150,21,9,10,92,13,338,84,26,8,6,82,11,5,62,210,292,117,127,140,538,192,6,30,3,96,56,3,97,212,131,99,2,5,2,11,27,35,105,1,2,64,65,243,111,45,275,369,109,7,6,5,36,15,26,67,1,88,16,26,22,59,1,9,13,25,57,82,165,202,39,81,73,230,25,170,19,5,65
 International Monetary Fund About the Global Innovation	11895,264
 International Monetary Fund BURUNDI SELECTED ISSUES	13624
 International Monetary Fund Code	11895
@@ -538,6 +543,7 @@ Machine M3 Extended Broad Money Supply	2775
 Malawi's International Monetary Fund	12230
 Maldives Monetary Authority	940
 Mama Money	8840
+Management IMF-International Monetary Fund AFRITAC- Africa	18576
 Management Information System IMF International Monetary	17011
 Management Information System MOR International Monetary	12500
 Managing Director of Airtel Money Kenya	8623
@@ -554,7 +560,7 @@ Ministry. Wave Money Group	3345
 MoMo MOOV MONEY CÔTE D'IVOIRE Cell	18313
 Mobil Money	6045
 Mobile Mobile Money Registered Posta Uganda	9781
-Mobile Money	98,320,164,164,178,315,25,997,175,25,234,70,20,100,148,66,1,208,15,38,30,51,324,417,25,53,554,312,80,25,121,144,70,173,21,181,221,88,111,237,205,321,681,334,34,45,295,93,75,14,57,5,55,3,203,260,420,82,212,43,99,7,91,246,67,120,45,28,26,9,1,18,52,120,39,136,215,589,50,303,18,23,85,253,207,94,259,216,25,6,724,42,425,206,88,29,133,6,311,8,25,149,100,192,15,71,83,54,73,213,179,233,300,603,125,102,150,13
+Mobile Money	98,320,164,164,178,315,25,997,175,25,234,70,20,100,148,66,1,208,15,38,30,51,324,417,25,53,554,312,80,25,121,144,70,173,21,181,221,88,111,237,205,321,681,334,34,45,295,93,75,14,57,5,55,3,203,260,420,82,212,43,99,7,91,246,67,120,45,28,26,9,1,18,52,120,39,136,215,589,50,303,18,23,85,253,207,94,259,216,25,6,724,42,425,206,88,29,133,6,311,8,25,149,100,192,15,71,83,54,73,213,179,233,300,603,125,102,150,13,350,56
 Mobile Money Account Ownership Per	17870
 Mobile Money Accounts	16975
 Mobile Money Advocacy Group	10249
@@ -592,6 +598,8 @@ Mobile Money Operator	12978
 Mobile Money Operator CBDC Central Bank	12444
 Mobile Money Operators	3491,1878,1329,237,4199,1844,410,1286,2430,131
 Mobile Money Operators KYC	11861
+Mobile Money Operators MMO	18485
+Mobile Money Operators MNO	18485
 Mobile Money Operators and SCTP	12978
 Mobile Money Passeport	16430
 Mobile Money Payments	881
@@ -690,10 +698,11 @@ Monetary Policy Decisions The Governor	11131,3
 Monetary Policy Department	15023
 Monetary Policy Development In FY2024	12962
 Monetary Policy Forecasting and Analysis	11906
-Monetary Policy Framework	14744
+Monetary Policy Framework	14744,3756
 Monetary Policy Framework and Operations	17235
 Monetary Policy Framework and Operations The Bank	17235
 Monetary Policy Implementation. Implement	11131,3
+Monetary Policy Issues	18500
 Monetary Policy Objective	17235
 Monetary Policy Rate	7695,5837,3606,55,42,81,1,104
 Monetary Policy Rate and Treasury	14216
@@ -721,6 +730,7 @@ Monetary Union WARCIP West Africa Regional	1264
 Monetary Union WASREB Water Services Regulatory	2775
 Monetary Union. CEMAC	1828
 Monetary and Banking Council	6938
+Monetary and External Sectors	18488,12
 Monetary and Financial Developments	17503
 Monetary and Financial Indicators	13868
 Monetary and Financial Indicators 21 TABLES	13868
@@ -776,6 +786,7 @@ Money Printing House	7535
 Money Question	4863
 Money Regulation	3308
 Money Regulations	12941
+Money Remittance Business	18473
 Money Services DeltaPay Important Documents Directive	12390
 Money Smart	14375
 Money Smart Week	14375
@@ -854,6 +865,7 @@ ORANGE MONEY CÔTE D'IVOIRE Cell	18313
 ORANGE MONEY MTN MOBILE FINANCIAL SERVICES	18313
 ORANGE MONEY NIGER	18017
 ORANGE MONEY ORANGE BANK AFRICA TOUCHPOINT	18017
+Offence of Money Laundering	18599
 Orange Mali. Any Orange Money	17870
 Orange Mobile Money	11651
 Orange Money	1142,1072,98,210,435,26,27,250,390,500,111,24,388,22,629,63,180,10,37,52,129,114,76,909,212,124,39,55,406,47,346,59,295,847,987,33,1307,299,10,34,1458,1025,200,797,6,62,394,552,4,507,544,327,36,172
@@ -909,6 +921,7 @@ PROVISION OF MOBILE MONEY	16842
 PUBLIC MONEYS AND PUBLIC PROPERTY	13097
 Palestine Monetary Authority	940
 Paositra Money. Afin	14436
+Penalties for Acts of Money Laundering. CHAPTER IV	18599
 Person International Energy Agency International Monetary	11136
 Persons and Money Laundering	14781
 Planning Broad Money Supply Motor Vehicle	12701
@@ -1005,6 +1018,7 @@ Standardization of Mobile Money Cash-Out Fees	17235
 Standards Integrated Reporting International Monetary Fund	11131
 Strategy Statistics Research Monetary Policy Financial	15023
 Supervision Department MOBILE MONEY REGULATIONS	14880
+System IMF International Monetary Fund ITAS	18577
 TF Money	14997
 TITRE IV LE CONSEIL MONETAIRE ET	15594
 TMO Transferts Monetaires Ordinaires	10964
@@ -1070,7 +1084,7 @@ Wave Money Group	3345
 Wave Money for Digital	3345
 West Africa Economic and Monetary Union	5395,5,6159,4642
 West African Economic Monetary Union	138
-West African Economic and Monetary Union	7,19,1,1,90,1146,1511,1620,2076,467,134,559,165,75,211,1590,275,128,128,638,4,679,1,11,14,36,235,3176,301,846,642,210,874,328
+West African Economic and Monetary Union	7,19,1,1,90,1146,1511,1620,2076,467,134,559,165,75,211,1590,275,128,128,638,4,679,1,11,14,36,235,3176,301,846,642,210,874,328,306
 West African Economic and Monetary Union Interopera	1502
 West African Economic and Monetary Union Interoperable	1502
 West African Economic and Monetary Union. Agritech	10939
@@ -1078,7 +1092,7 @@ West African Monetary Agency	7,738,6707,9783
 West African Monetary Institute	7,992,47,11081,4717,391
 West African Monetary Union	6938,1135
 West African Monetary Union’s Council	8275
-West African Monetary Zone	999,47,218,9144,2980,3456,391
+West African Monetary Zone	999,47,218,9144,2980,3456,391,1265
 Western African Economic and Monetary Union	17870
 Western Union and MoneyGram	11169,791
 Western Union and MoneyGram.28 Micro Finance Institutions	13388

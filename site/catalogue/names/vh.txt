@@ -41,6 +41,7 @@ Seychelles High EGDI M-OSI H-HcI VH-TII	10840
 Sydney Very High EGDI VH	10840
 TRO UNICEF USAID VHB VIH VOP	10777
 Tetrapol IDR Tetrapol Handheld Whip VHF	998
+UHF Radio Users VHF	18485
 United Nations VHS Village Health Service	16896
 VAT Value-Added Tax VHF Very High	6946
 VH Victoria Hospital MCH Maternal and Child	14773
@@ -52,8 +53,10 @@ VH-TII Americas Monaco High EGDI M-OSI	10840
 VHF D RAPPORT ANNUEL	998
 VHF D SONIDEP	998
 VHF Fixed	17250
+VHF Frequency Licenses	18688
 VHF GSP-MOT-DP2-ARCEP- Conforme IC-F5000	998
 VHF PMR Fixed	6946
+VHF Radio	18485
 VHF Stations MMSI Allocation Callsign Allocation	17250
 VHF Very	11380
 VHF Very High Frequency VoIP Voice	2775

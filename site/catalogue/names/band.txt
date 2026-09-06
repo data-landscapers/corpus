@@ -204,6 +204,7 @@ GHz Bande	15943
 GHz Bands	736
 GPP Band	7368
 Gbps International Internet Bandwidth	12971
+Gbps Total Internet Bandwidth Utilised	18485
 Gbps Undersea Bandwidth	6946
 Gorou Banda	18118
 Guard Band Bandwidth	14780
@@ -285,6 +286,7 @@ Market Share of Equipped International Internet Bandwidth	6000
 Masauso Banda Education Specialist	13392
 Maurice Bandaman	2387
 Mavhuto BandaJohannesburg	6592
+Maximum Bandwidth Utilization	18485
 Measurement Bandwidth Block	14780
 Mercado da Banda Larga	11396
 Minimum Bandwidth	17870
@@ -363,11 +365,13 @@ Tariffs for International Bandwidth Much	14723
 Teachers' College Band Part	1154
 TeleGeography Global Bandwidth Database	16144
 Telefonia Móvel Banda Larga Subscrições da Rede	11418
+Trend of ICT Service Providers Maximum Bandwidth	18485
 Trend of International Internet Bandwidth	15136
 UN Broad Band Commission	11863
 USED INTERNATIONAL INTERNET BANDWIDTH CAPACITY	6000
 Undersea Bandwidth Capacity	6671,275
 Undersea Bandwidth SEACOM	6671
+Update Total Internet Bandwidth Available	18485
 Used Bandwidth	2830
 Used International Bandwidth	6671,8226
 Used International Bandwidth Growth	2830
@@ -378,6 +382,7 @@ Utilized Bandwidth	6946
 Utilized Bandwidth Capacity	6671
 Utilized International Internet Bandwidth	6946
 V Band	6891
+Vacating Frequency and Frequency Band	18602
 Vice-President Pillay. The SNYC Band	6831
 WHH Bande C&Ku	998
 Wad Bandaa Urban	15244

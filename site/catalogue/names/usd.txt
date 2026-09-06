@@ -42,6 +42,7 @@ Category USD	17250
 Cents USD	13433
 Circle USDC	4725
 Circle’s USDC	8215
+Climate Change USD United States Dollar	18578
 Co-finance USD	4466
 Co. USD	4951
 Cocoa USD	17235
@@ -75,6 +76,7 @@ Digital Access and Inclusion USD60.5M	607
 Digital Innovation and Entrepreneurship USD29.5M	607
 Digital Public Service Delivery USD100M	607
 Direct Investment USD US	3184,1,1340,6470
+Disbursed P166601 IDA-63670 Effective USD	18473
 Disbursed P167478 IDA-D4840 Effective USD	16638
 Disbursed P174620 IDA-D9950 Effective USD	15619
 Disbursed USD	85,297,515,231
@@ -106,6 +108,7 @@ Financing Instrument UA USD African Development	13938
 Finnfund USD	294,50,1075
 Funded USD	15181
 GAB SSD. USD	690
+GCF-financing USD	18581
 GDP Millions Current USD	10759
 GDP Ratio Additional Tax USD	14897
 GDP of USD	14043
@@ -117,6 +120,7 @@ Global USD Accounts	9151,1072
 Gold USD	17235
 Google USD	1429
 Government of Kenya’s USD	14546
+Grant USD	18581
 Helios Towers USD	460,974
 ICT USD	10892
 IFC USD	618,195,338,268,2467
@@ -132,6 +136,7 @@ Includes USD	4474
 Includes USD50	9806
 Income USD15	11134
 Injaro USD	1047
+Inkind USD	18581
 Internally USD	10864
 International USD500	736
 Investment Monitor. USD	6633
@@ -140,6 +145,7 @@ IsDB-iDICE USD	1128
 JPY RMB USD Regional	15023
 Kenya's USD	14668
 Kenyan Shilling-denominated USD	1137
+Key Project Ratings Project Data USD	18494
 Kshs and USD	14546
 LRD USD	17235
 LRD USD LRD USD LRD USD	17235
@@ -231,6 +237,7 @@ Shareholder’s Equity Profit Margin USD	1013
 Small and Medium Above USD	14206
 Social Affairs USD United States	11960
 South Korea Invests USD	12275
+States Centers for Disease Control and Prevention USD	18668
 States The USDM	17157
 Sudan. The Ministry of Tele- USD ARPU	14897
 TBC To Be Confirmed USD United	16188
@@ -253,7 +260,9 @@ USD Avg	13868
 USD CAPEX COST	16854
 USD Cabo Verde	11895
 USD Cancellations	16187
+USD Category A M	18541
 USD Chart	15478
+USD Co-financing	18581
 USD Coin	9709
 USD Department	12490
 USD Dollar	15474,19
@@ -263,6 +272,7 @@ USD Ethiopia	12205
 USD FX	1013,931
 USD Financement	15673
 USD Financements	18316
+USD Finnfund	18693
 USD Fonds	15673
 USD Formation	15673
 USD Fuente	16969
@@ -275,7 +285,7 @@ USD IGInnldnooebvxaal2t0io2n4 Rwanda	12351
 USD Implantation	15673
 USD MINECOFIN Development	14997
 USD MJ	11572
-USD Million	1013,931,13467,2030,575
+USD Million	1013,931,13467,2030,575,516,5
 USD Million FY Year	16285
 USD Million NAD	1013,931
 USD Millions	17235,206
@@ -301,10 +311,12 @@ USD Related Indicator	7221
 USD Renforcement	15673
 USD Responsibility Number	13938
 USD Réseau	18316
+USD SLMet	18578
 USD Sector Revenues	14897
 USD The Total Entrepreneurship Activity	14897
 USD The VWAP	4896
 USD Transactions	4517,2461
+USD USD	18581
 USD USDA McGovern-Dole	15673
 USD United States Dollar	8590,3738
 USD United States Dollar USET University	17105
@@ -321,6 +333,7 @@ USD ZAR	8571
 USD Zimbabwe	12487
 USD and EUR	16219
 USD and Euro. In Kenya the REPSS	12286
+USD and INR	18543
 USD and LRD	17235
 USD and Naira	7465
 USD for Construction of Data Centers	103
@@ -362,6 +375,7 @@ USD1.85	17105
 USD10	10072,2890
 USD100	15010
 USD100m	15010
+USD106	18620
 USD10K	13312,2
 USD115.00	16088
 USD11M. Part of Stanbic-led USD55M	198
@@ -373,7 +387,7 @@ USD148	13207
 USD15	11134
 USD15.00	16088
 USD154M. TLcom	1473
-USD160	1411
+USD160	1411,17278
 USD180M	14966
 USD185	13624
 USD19	11907
@@ -450,6 +464,7 @@ Union USD United States Dollar WACREN	11552
 Unit Current USD	10759
 Unit USD	5247
 United States Agency for International Development USD	16876
+Universal Serial Bus USD	18485
 Upper River Region USD	16951
 Using USD	1153
 VSAT Terminal USD	17250

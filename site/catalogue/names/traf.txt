@@ -58,6 +58,7 @@ DOMESTIC MOBILE TRAFFIC Domestic Mobile Voice	16043
 Data Traffic	2776,3224,6395
 Data Traffic Market	6000
 Data Traffic NB	6000
+Data and SMS Traffic	18444
 Digital Road Traffic System	5119
 Director Executivo da Beijing Yunxingyu Traffic Technology	17337
 Director of Traffic	3066
@@ -72,9 +73,10 @@ Domestic Fixed Voice Traffic Fixed	6671
 Domestic Mobile Off-Net Voice Traffic	2776
 Domestic Mobile SMS Traffic	16043
 Domestic Mobile Traffic	6671
-Domestic Mobile Voice Traffic	2776
+Domestic Mobile Voice Traffic	2776,15668
 Domestic Mobile Voice and SMS Traffic	6671
 Domestic Mobile Voice and SMS Traffic Safaricom	6671
+Domestic Traffic Figure	18444
 Drug Trafficking	14839
 EAC L’évolution du Trafic	13586
 Electronic Traffic Management System	9395
@@ -149,7 +151,7 @@ International Traffic	2776,1086,1911
 International Traffic Capacity	718
 International Traffic Inbound International Traffic	2776
 International Traffic Traffic Q3	2776
-International Voice Traffic	15136
+International Voice Traffic	15136,3308
 Internet Traffic	11857,5249,81
 Internet Trafic	13324
 July. Traffic-light	14845
@@ -259,6 +261,7 @@ PSTN Traffic	6000
 PSTN VOICE TRAFFIC	6000
 PSTN Voice Traffic	6000
 Parlemment du Road Traffic	14267
+Partial Disclosure of Traftlc Data	18457
 Per Diem Road Traffic and Local	1988
 Pneumonia Road Traffic	12151
 Port Traffic Volumes	13868
@@ -276,6 +279,8 @@ Prohibition of Trafficking	12145
 Projected National Mobile Data Traffic	5245
 Protocols. Trafficking	16874
 Public Safe City and Smart Traffic Solutions	359
+Quarter International Voice Traffic Incoming International	18444
+Quarter Off-net Traffic On-net	18444
 Quarter-on-Quarter Mobile-to-Fixed Off-Net Traffic	2776
 Quarter-on-Quarter Outbound International Traffic	2776
 Quarterly Domestic Fixed Voice Traffic	6671
@@ -284,8 +289,10 @@ ROAD TRAFFIC ACT The Road Traffic	14828
 ROAD TRAFFIC MORTALITY RATE	16892
 ROAMING TRAFFIC Out-bound Out-bound Roaming Voice	2776
 Real-Time Collection of Traffic Data	2913
+Real-Time Collection of Traffic Data Mutual Assistance	18675
 Refugee Management and Anti-Human Trafficking	12602
 Reg. TRAFICO CIVIL PROTEC. PROTEC. CIVIL	4209
+Regarding Interception of Traffic Data CHAPTER IV	18675
 Registration Road Traffic	12151
 Regulatory Fees Our Telecommunications Traffic Monitoring	15120
 Reported Road Traffic Accidents	2775
@@ -353,7 +360,7 @@ Telecommunications Traffic Monitoring Guideline	15120
 Telecommunications Traffic Monitoring Regulation	15120
 Telephone Call Traffic	2775
 Traf-	17743
-Traffic	26,210,159,197,182,358,856,689,99,1064,22,2138,671,3110,1350,100,19,524,479,124,1026,232,1146,339,252,220,451,796,275,629,366
+Traffic	26,210,159,197,182,358,856,689,99,1064,22,2138,671,3110,1350,100,19,524,479,124,1026,232,1146,339,252,220,451,796,275,629,366,524
 Traffic Acci-	12151
 Traffic Acci- Kidney	12151
 Traffic Acci-385Heart	12151
@@ -366,12 +373,15 @@ Traffic Branch	14781
 Traffic Branch The Traffic Branch	14760
 Traffic Branch WACP	14760
 Traffic Centres	14746
+Traffic Channel	18444
 Traffic Control	12253
 Traffic Control Police	12253
 Traffic Control Police Risk	12253
 Traffic Court	16943
 Traffic Courts	16943
 Traffic Data	2776,9409
+Traffic Data Interception of Content Data Deletion	18675
+Traffic Data Mutual Assistance Regarding Accessing	18675
 Traffic Fines	12333
 Traffic Handled	2775
 Traffic Hotline	14760
@@ -390,14 +400,16 @@ Traffic Monitoring Dashboard Application	12395
 Traffic Monitoring and Interception	16835
 Traffic Network Infrastructure Broadband Speeds	1013
 Traffic Offense	16935
+Traffic Outgoing International Traffic	18444
 Traffic Police	12275
 Traffic Q3	2776
+Traffic Quarter	18444
 Traffic Registration Number	6527
 Traffic Registration Numbers	6527
 Traffic Safety	1988
 Traffic Safety Council of Zimbabwe	9394
 Traffic Statistics	12377
-Traffic Stats Website	14878
+Traffic Stats Website	14878,3701
 Traffic Study	11131
 Traffic Table	2776
 Traffic Traffic	2776
@@ -406,8 +418,9 @@ Traffic Trends Network Infrastructure Broadband Speeds	1944
 Traffic and Road Safety Directorate	10775
 Traffic and Road Safety The Borrower	1988
 Traffic and Usage	3990,5791
-Trafficking	5242,5517,78,4,1311,101,87,33,555,18,38,201,763,60,734,9,30,118,1975,77,7,976
+Trafficking	5242,5517,78,4,1311,101,87,33,555,18,38,201,763,60,734,9,30,118,1975,77,7,976,690
 Trafficking Data	1243
+Trafficking Drug Trafficking Cyber Espionage Economic	18675
 Trafficking In Persons	12373
 Traffrika	15830
 Trafic	9781,3543,90,86,86,1907,214,2116,12,31
@@ -431,6 +444,7 @@ Voice Subscription Traffic	236
 Voice Traffic	2776,3895,8465
 Voice Traffic Fixed	2776
 Voice and Data Traffic	718
+Voice and SMS Traffic Traffic Quarter	18444
 Volume of BWA Traffic	2776
 Volume of International Traffic Sources	15424
 Volume of Internet Traffic	2776

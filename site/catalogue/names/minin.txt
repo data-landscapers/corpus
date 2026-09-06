@@ -55,11 +55,13 @@ Forestry Mining and Quarrying	2775
 Formal Informal Mining and Quarrying Manufacturing Utilities	12445
 Future of Mining Summit	7275
 GROUPE ENDEAVOUR MINING	2342
+Gas Mining Aviation	18541
 Geological Investigations for Small-Scale Mining	16511
 Geovic Mining Corp TBD	15542
 Ghana Landscape Restoration and Small Scale Mining	1513
 Gold Mining and Processing Plant	13060
 Government of Kenya's Ministry of Mining	191
+Government's Mining Cadastre Administration System	18439
 Groupe ENDEAVOUR MINING	2342
 H GUINEA EVERGREEN MINING INTELLIGENCE COMPANY	16623
 H SOCIETE BEL AIR MINING SA	16623
@@ -132,7 +134,7 @@ Minerals and Mining Policy	16511
 MiniTPT MiniTPT Radiodiffusion Mininfo Mininfo	13290
 Mininfo ARCT ARCT ARCT ARCT Proposition	13290
 Mininfo De Août	13290
-Mining	697,857,1221,114,742,496,717,403,764,354,581,50,577,178,2,697,124,1814,453,104,61,143,3,63,81,228,57,300,325,150,80,9,67,400,50,17,74,2,5,62,173,90,89,58,29,338,73,419,185,18,242,4,51,94,100,1181,19,226,389,96,15,128,1,95,22,107
+Mining	697,857,1221,114,742,496,717,403,764,354,581,50,577,178,2,697,124,1814,453,104,61,143,3,63,81,228,57,300,325,150,80,9,67,400,50,17,74,2,5,62,173,90,89,58,29,338,73,419,185,18,242,4,51,94,100,1181,19,226,389,96,15,128,1,95,22,107,1103,16,99
 Mining AI	4528,7984
 Mining CEOs	7751
 Mining Cadastre	10873
@@ -188,7 +190,7 @@ Mining and Manufacturing. The Plan	13122
 Mining and Metallurgy Regions of EU	11007
 Mining and Minerals Development Act	13654
 Mining and Minerals Regulatory Authority	12987,73,62
-Mining and Quarrying	1940,835,8377,1293,608,595,937,255
+Mining and Quarrying	1940,835,8377,1293,608,595,937,255,3643
 Mining and Quarrying Manufacturing	12445
 Mining and Quarrying Manufacturing Micro	12445
 Mining and Quarrying Manufacturing Utilities Services	12445
@@ -205,7 +207,8 @@ Miningand	16833
 Minint	9399
 Minister of Energy and Mining	6490
 Minister of Energy and Mining Lejone Mpotjoane	8801
-Minister of Mining	12983
+Minister of Mining	12983,5708
+Minister of Mining Martin Abucha	18658
 Minister of Mining and Industry Thiam Tidjani	17909
 Ministry of Energy and Mining	13122,190,2
 Ministry of Hydrocarbons and Mining Development	16996
@@ -253,6 +256,7 @@ SEKE GOLD MINING SA	16623
 SOCIETE MINING LOGISTIQUE TRANSIT	16623
 Sangha Mining Exploitation Sas	15558
 Saudi Arabian Mining Company	4447
+Sierra Leone Mining and Maritime Development Company	18586
 Small Scale Mining Formalisation	13474
 Smart Mining	395,563
 Société La DRC Mining Week	6843

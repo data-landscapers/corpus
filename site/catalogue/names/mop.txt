@@ -1,5 +1,6 @@
 Abolia Taba Mopolo	6859
 Advise the MoPT	16872
+Agencies MoF Ministry of Finance MoPED Ministry	18577
 Agencies MoPT Ministry of Post and Telecommunications PCM	17099
 All Stakeholders MoPT	17099
 Annuaire Statistique de Mopti Act.3.1.2.37	17842
@@ -20,6 +21,8 @@ DRPSIAP Mopti	18077
 DRPSIAP de MOPTI	17978
 Delta Mining Limited and Mopani Copper Mines	13387
 Department of E-Government Prosper Mopiwa	9216
+Deploy MOPTAX	18575
+Deployed MOPTAX	18577
 Develop and Adopt the Primary Legislature of MOPT Adopted	1777
 Direction Mopti	17841
 E Monitoring and Evaluation MOPT Ministry of Posts	1777
@@ -54,10 +57,12 @@ Law Ministry of Justice MOPT	1777
 MDAP MEF MINEDH MIREME MISAU MOPHRH	1228
 MEF Ministry of Economy and Finance MOP Manual	11525
 MENA MoP MoSA RPBA SA SP	16902
+MFPD Macro Fiscal Policy Division MoPED	18488
 MIS Management Information System MOP Manual	18301
 MMC Modern Methods of Construction MoPT Ministry	17260
 MOP Manuel des Opérations du Programme Terra MTFP	10876
 MOPAN	11356
+MOPED	18464
 MOPEDC	15977
 MOPEM	17152
 MOPHRH	1228
@@ -73,6 +78,8 @@ MOPT MFDP	1777
 MOPT Ministry of Justice Adopted Q3	1777
 MOPT Ministry of Review Report Q4	1777
 MOPT Various	17099
+MOPTAX	18575
+MOPTAX and CGMRS	18575
 MOPTI	17828,154
 MOPVU	16898
 MOPVU MOPVU	16898
@@ -82,17 +89,20 @@ Malien. Mopti	6959
 Milieu Kayes Koulikoro Sikasso Ségou Mopti	18014
 Mines and Energy MoPT Ministry of Post and Telecommunication	17114
 Ministry of Education MOH- Ministry of Health MoPT	16872
+Ministry of Finance MoPED	18485
 Ministry of Justice MoPC	5244
 Ministry of Justice MoPT	16975
 Ministry of State MOPT	1777
 MoETE MoF MoPED General Lack	15604
+MoF and MoPED	18577
 MoHP Ministry of Health and Population MoPMAR Ministry	15663
 MoLR Ministry of Labor and Rehabilitation MoP Ministry	17157
 MoP Approval Letter	16863
 MoP S	13310
 MoPAPA	7182
 MoPAR	15519
-MoPED	15604
+MoPED	15604,2871,45,9,13
+MoPED-Stats SL	18529
 MoPEM	16973
 MoPIED	15191
 MoPMAR	15663

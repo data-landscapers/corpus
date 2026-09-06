@@ -74,6 +74,7 @@ Blouberg Local Municipality	12046,3281
 Blouberg Municipality	15327
 Body Ezulwini Municipality Embraces the Future of Smart	13222
 Boniface Mungania	7499,68,375
+Bonthe Municipal	18460
 Brian Mundubile	10216,4061
 Brian Munkombwe	13425
 Brian Munyao Longwe	9644,10
@@ -220,6 +221,7 @@ Hon. Boston Munda	9121
 Hon. Muntaka	6310,10228
 Hon. Muntaka Mohammed Mubarak	7369
 Hon. Muntaka Mohammed-Mubarak	16538
+Honourable Boston Munda	18522
 Hospital Municipal De Kilamba Kiaxi	10784
 Humanos. Irikidzai Munodawafa	10750
 ICT and Mangaung Metropolitan Municipality	11231
@@ -236,6 +238,7 @@ Institutions Municipal Staff	12211
 Instituto Municipal de Bikurga	4209
 Interior Minister Muntaka Mohammed-Mubarak. Board Chairman	2829
 Interior Muntaka Mohammed-Mubarak	2829
+Introduction Municipal Spatial Data Infrastructure	18476
 JUSTIÇA NO MUNICÍPIO DA SAMBA Na	10751
 Jane Munga	2677,2873,2200,4065
 Joyce Koranteng-Acquah Technical University of Munich	12090
@@ -248,6 +251,7 @@ Juvenal MUNYARUGERERO	12403
 KARAKURA J. Pierre MUNEZERO Chanella MUSARAGANYI	13300
 KMC Kanifing Municipal Council LDC Least	16884
 KMC Kanifing Municipality Council LoCAL Local	17105
+Kambia Munu Thallah	18464
 Kanfing Municipality	16915
 Kanifing Municipal Council	4118,13300
 Kanifing Municipality	4118,10142
@@ -282,7 +286,9 @@ M. Valère Molomb Munsya MEPST	11916
 MAPE MUND	10975
 MFIS. Municipalities	11855
 MINTECH Ministerial Technical Committee MISA Municipal	11261
+MSDI IMPLEMENTATION MONITORING MUNICIPALITY USES	18476
 MUKANKUSI Betty BUTERA Augustin MUNEZERO Fabien	12445
+MUNAFA Fund	18455
 MUNDANE By Zelipa Mitti	13532
 MUNGUR Husna Bibi Bano Senior	14770
 MUNIARO	6613
@@ -291,7 +297,9 @@ MUNICH	6521
 MUNICIPAL AND DISTRICT ASSEMBLIES	15790
 MUNICIPAL DE SÃO LOURENÇO	15380
 MUNICIPAL ELECTORAL ACT The Electoral Commission	6907
+MUNICIPAL SPATIAL DATA INFRASTRUCTURE	18476
 MUNICIPALES CAPITALES DE DISTRITALES Y MUNICIPALES	4209
+MUNICIPALITY	18476
 MUNICIPALITY FOR CONTRAVENTION OF POPIA	12046
 MUNICÍPIO DA PRAIA	16290
 MUNICÍPIO DE SÃO SALVADOR DO MUNDO	16290
@@ -377,7 +385,7 @@ Munich Re	11310
 Munich-based	8342
 Munich. Schneider	2093
 Municipais	10754,667,1,24,131,4117
-Municipal	789,1019,180,960,5065,260,642,1836,32,465,738,87,128,32,117,2007,363,18,8,251,476,240,132,154,164,56,57,338,273,212,15,146,1033,61
+Municipal	789,1019,180,960,5065,260,642,1836,32,465,738,87,128,32,117,2007,363,18,8,251,476,240,132,154,164,56,57,338,273,212,15,146,1033,61,122
 Municipal Adjustment Program	16614
 Municipal Adjustment Programs	16614
 Municipal Assemblies	16163,361
@@ -385,6 +393,8 @@ Municipal Assemblies and Regional Co-ordinating Councils	16524
 Municipal Assembly	7368
 Municipal Assembly Staff	16163
 Municipal Assessment Tool MEC Member of Executive	11224
+Municipal Authorities	18619
+Municipal Authority	18619
 Municipal Borrowing Policy	14997
 Municipal Capacity Assessment Tool	16970
 Municipal Capacity Assessment Tool MFDP Ministry	16970
@@ -400,7 +410,7 @@ Municipal Contract	16614
 Municipal Contract for Conakry	16614
 Municipal Contracts	16614
 Municipal Contracts for Secondary Cities	16614
-Municipal Council	8661,134,2387,759,1729,4623
+Municipal Council	8661,134,2387,759,1729,4623,174
 Municipal Council Committee	16887
 Municipal Council Kerewan Area Council Kuntaur	16973
 Municipal Council of Beau Bassin Rose Hill	14746
@@ -436,6 +446,7 @@ Municipal Hospitals	10775
 Municipal Information System	11862,77,2
 Municipal Infrastructure Grant	11289
 Municipal Infrastructure Support Agency	11289
+Municipal Investment Planning	18476
 Municipal LIS	18293
 Municipal Land Register	18293
 Municipal Land Tenure Commission	18293
@@ -449,11 +460,12 @@ Municipal Performance Monitoring Tool	15621
 Municipal Performance Program	17505
 Municipal Planning Amendment By-law	7343
 Municipal Planning Tribunal	7343,7330
-Municipal Property Tax System	2112
+Municipal Property Tax System	2112,16463
 Municipal Regulatory Entities	11551
 Municipal Regulatory Entity	11551
 Municipal Room Camp Site	13046
 Municipal Solid Waste	12233
+Municipal Spatial Data Infrastructure	18476
 Municipal Structures Act	11182,369
 Municipal Systems Act	5872,5310,66,2,29
 Municipal Taxation	13624
@@ -468,7 +480,7 @@ Municipal and District Chief Executives	15927,669
 Municipal and District Councils	14721,25
 Municipal and Metropolitan Assembly	11
 Municipales	16903
-Municipalities	427,362,1335,3824,998,1067,363,2389,10,95,345,16,624,35,51,45,397,16,2339,151,108,593,11,1013,238,653,788,77
+Municipalities	427,362,1335,3824,998,1067,363,2389,10,95,345,16,624,35,51,45,397,16,2339,151,108,593,11,1013,238,653,788,77,106
 Municipalities Environmental and Social	17114
 Municipalities and Area Councils	16951
 Municipalities and District Councils	14836
@@ -476,7 +488,7 @@ Municipalities and Eskom	11890
 Municipalities and Local Commissions	15473
 Municipalities and Towns	12383
 Municipalities of Conakry	16614
-Municipality	1988,4844,2297,1634,2,10,356,84,16,135,573,2,45,60,860,2179,121,1681
+Municipality	1988,4844,2297,1634,2,10,356,84,16,135,573,2,45,60,860,2179,121,1681,1589
 Municipality Agreement	11855
 Municipality B NoNt	15206
 Municipality B PartiaPllyaratiavlalyilaavbaleilable	15206
@@ -546,6 +558,7 @@ Munthali&author	1219
 Muntu	14861
 Munuki	3323
 Munuki Hai Gezira	3046
+Munuki Primary Health Care Centre	18697
 Munyaga Sector	15049
 Munyangeyo Kwizera Eloic	9760
 Munyao Longwe. Efforts	9644
@@ -682,6 +695,7 @@ Reston Munthali	3791
 Richard Munyemana	17761
 Rio Muni	16871
 Road Safety Commission Abuja Municipal Area	11129
+Rollout the Municipal Property Tax System	18575
 Ronald Munch	4180
 Roselyn Munyana	15042
 Runner-Up- Diyansh Mungur	14745
@@ -761,6 +775,7 @@ Wairimu Munyinyi-Wahome	8374
 Walvis Bay Municipality Town Hall	13046
 Walvis Bay Municipality Town Hall B	13046
 Wanja Mungai	11653
+Waste Management Bonthe Municipality Disaster Risk	18476
 Wenchi Municipality	4074
 West Coast Region and Kanifing Municipality	16874
 Western Cape Government and Knysna Municipality	11287

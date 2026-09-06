@@ -76,9 +76,10 @@ Civil Society and Public Interest Litigation	9817
 Community-Based Digital Literacy Hubs	6936
 Competency Framework for AI Literacy	6948
 Comprehensive Health Literacy Programme	14829
-Computer Literacy	21
+Computer Literacy	21,18440
 Computer Literacy Test	17565
 Computer literacy	16963
+Contract Litigation History	18543
 Core Curriculum and Digital Literacy Alignment	16963
 Countering Strategic Litigation Against Public Participation	8485
 County Literate Illiterate Total Number	16921
@@ -101,12 +102,12 @@ Description Support for Digital Literacy Project ICT	11204
 Develop Scalable FinTech Literacy Curriculum	12444
 Develop the DHA Litigation Strategy	11986
 Development of Lithops BESS	12399
-Digital Financial Literacy	11017,3089
+Digital Financial Literacy	11017,3089,4397
 Digital Financial Literacy Component	16144
 Digital Financial Services Financial Literacy Electronic	14897
 Digital Infrastructure DIGITAL SKILLS AND LITERACY	16876
 Digital Literacies	6948
-Digital Literacy	1987,2940,349,73,164,38,988,409,4326,583,227,157,212,520,107,265,11,635,924,2048,12,30,364
+Digital Literacy	1987,2940,349,73,164,38,988,409,4326,583,227,157,212,520,107,265,11,635,924,2048,12,30,364,1116,18
 Digital Literacy Advocates	13112
 Digital Literacy Applied	17369
 Digital Literacy Day	15019
@@ -295,7 +296,7 @@ LITERACY	11004,960
 LITERACY AND EDUCATION Key Findings Literacy	12431
 LITERACY The Sudanese	14853
 LITERATURA	10780
-LITERATURE REVIEW	2518,6084
+LITERATURE REVIEW	2518,6084,10010
 LITERATURE REVIEW Balsam and Mishra	8605
 LITERATURE REVIEW DATA SHARING	12090
 LITERATURE REVIEW Generative AI	16266
@@ -335,6 +336,7 @@ Limited Awareness and Digital Literacy Challenge	6936
 Lit Capacity	15081
 Lit and Utilized International Internet Bandwidth	6946
 Lite Merchants	5687
+Lite Salone	18537
 Litecoin	3270,13813
 Liter	718,1110
 Literacia	11394,32,35,108,3963
@@ -342,13 +344,16 @@ Literacia Digital	4146,3802,4857
 Literacia Financeira	2138,8637
 Literacia. Assim	11569
 LiteraciaDigital	9732
-Literacy	3583,1766,3757,547,1201,150,397,456,45,1,2,30,29,211,66,97,45,48,102,430,811,186,891,45,1,27,34,39,133,117,357,1248,69,29,46,131,321,422,431
+Literacy	3583,1766,3757,547,1201,150,397,456,45,1,2,30,29,211,66,97,45,48,102,430,811,186,891,45,1,27,34,39,133,117,357,1248,69,29,46,131,321,422,431,142
 Literacy Campaign	14752
 Literacy Capital Sustainable Finance Markets Financial	14997
 Literacy Figure	12431
 Literacy Financial	14997
 Literacy Implementing Agency	11905
 Literacy In Rwanda	14997
+Literacy Learning Centers	18512
+Literacy Learning Centre	18512
+Literacy Learning Centre’s Children	18512
 Literacy Literacy	16921
 Literacy Literate	16950
 Literacy Phase Strategic Initiative Identified Gaps	14997
@@ -392,6 +397,7 @@ Literature Review and Environmental Analysis	12210
 Literature Review and Research Outlook	5349
 Literature Review of Data Governance	2096
 Literature Says About Revenue Gains	10997
+Literatures	18461
 Lithium	4896,6373,2205
 Lithium Americas	4447
 Lithium Data	1988
@@ -414,7 +420,7 @@ Lithuania's AI	12675
 Lithuanian	1713,10962,4168
 Litigants	4718,4260
 Litigating	5242
-Litigation	4583,4395,528,2480,179,888,1343,3349
+Litigation	4583,4395,528,2480,179,888,1343,3349,786,66
 Litigation Guardian Mr CJ CLAIMANT	13040
 Litigation Litigation	13053
 Litigation Registrars	8978
@@ -457,6 +463,7 @@ Little Bassa	17139
 Little Elobey	16942
 Little Help From My Friends	5349
 Little Ringed Plover and Greenshanks	17114
+Little Scarcise	18475
 Little Sisters	6946
 Littletree	12090
 Littoral	5478,3195,2039,109,3,140,1,10,1,4,5,4413,1,143,32,25,596,339,1050
@@ -501,6 +508,7 @@ Nation of AI Literates	4528
 National AI Literacy and Capacity Building	14566
 National Adult Literacy	16951
 National Campaign for Adult Education and Literacy	15604
+National Data Literacy Programme and Data Fellowship	18529
 National Digital Literacy Campaign	14752
 National Digital Literacy Framework	16963
 National Digital Literacy Group	14723
@@ -529,6 +537,9 @@ POUR LE LITHIUM	2342
 PROCÉDURES DE RÈGLEMENT DES LITIGES Article	14919
 Pakistan Literacy and Social	11004
 Passing the Computer Literacy Test	17565
+Pending Contract Litigation	18543
+Pending Contractual Litigation	18543
+Pending Contractual Litigation Value	18543
 Pending Litigations and Contingent Liabilities	5903
 People and Digital Literacy	2001
 Permanent Training and Adult Literacy Edu-	16942

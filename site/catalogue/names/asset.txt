@@ -3,7 +3,7 @@ A4.1. Asset Wealth Index	12006
 ABSA ASSET MANAGEMENT LIMITED Data Controller	7167
 AFRICAN ALLIANCE KENYA ASSET MANAGEMENT LIMITED	7167
 ARVOCAP ASSET MANAGERS LIMITED Data Processor	7167
-ASSETS	4360,536,3694,4463,1683,2661
+ASSETS	4360,536,3694,4463,1683,2661,1073
 ASSETS AND AFFECTED PEOPLE	17114
 ASSETS AND AFFECTED PEOPLE B. AFFECTED	17114
 ASSETS AND LIABILITIES	11955
@@ -75,6 +75,7 @@ Asset Recovery Investigation Division ATM	14742
 Asset Recovery Unit	14742,67
 Asset Recovery and Management Division	14742
 Asset Register	14546
+Asset Register and Inventory Master Public Debt	18488
 Asset Sharing	11857
 Asset Turnover Ratio	1944
 Asset Type	7662
@@ -82,6 +83,9 @@ Asset Wealth	12006
 Asset Wealth Index	12006
 Asset Wealth Index AtlasAI’s Asset Wealth	12006
 Asset and CRM	10721
+Asset and Inventory	18488
+Asset and Inventory Management	18577
+Asset and Inventory Register	18488
 Asset and Risk Management	10721
 Asset and Risk Management Tier	10721
 Asset and Services' Ownership	15244
@@ -90,6 +94,7 @@ Asset-Based and PAYGO Finance	12297
 Asset-based	12297
 Asset-linked	14844
 AssetCo	10993
+Assetless Companies Fund	18556
 Assetou DIARRA Trésorière	18032
 Assetou Zongo	10881
 Assets	1944,831,1753,368,453,564,1285,296,168,1830,214,1012,413,100,724,21,382,31,123,444,97,367,612,687,49,229,26,221,248,1622,121,1
@@ -103,6 +108,8 @@ Assets Concentration	17236
 Assets Equity	17236
 Assets Grand	17236
 Assets Housing	15244
+Assets Launched	18488
+Assets Management	18488
 Assets NAD	1013,931
 Assets NFA National Financial Inclusion and Education	17235
 Assets Quality	17235
@@ -113,6 +120,12 @@ Assets Return	17235
 Assets USD	1013
 Assets Under Management	14997
 Assets and Equity	15023
+Assets and Inventory Management Policy	18577
+Assets and Inventory Management Policy Documents	18577
+Assets and Inventory Manual for Ministries	18500
+Assets and Inventory Manuals	18577
+Assets and Inventory Policy	18488,89
+Assets and Inventory Policy Framework	18488
 Assets and Liabilities	2775,10704
 Assets and Liabilities of Deposit Taking Savings and Credit	2775
 Assets of ASSIMPER	15027
@@ -145,6 +158,8 @@ CURRENT ASSETS	4896
 CURRENT ASSETS Inventories	13053
 CYTONN ASSET MANAGERS LIMITED Data Controller	7167
 CYTONN ASSET MANAGERS LIMITED Data Processor	7167
+Capital Asset Management	18500
+Capital Asset Management Develop	18488
 Capital Assets	11230
 Capital Market Asset Management Skills Gap	14997
 Capital Total Assets Liabilities	17235
@@ -249,11 +264,14 @@ FINANCING VIRTUAL ASSETS OTHERS No. Fintech	14819
 Federal Assets	11857
 Final Report A4.2. Asset Wealth Index	12006
 Finance Assets	10718
+Finance MOWPA Ministry of Works and Public Assets	18504
 Financial Asset	11233
 Financial Assets	11233
+Financial Resources and Assets	18601,1
 Fintech and Digital Asset Lead	9706
 Fixed Asset	13053,2037
 Fixed Asset Management Units	9004
+Fixed Asset Management and Inventory Management	18576
 Fixed Asset Register	9004
 Fixed Assets Coverage	11955
 Fixed Assets Register	16978
@@ -275,6 +293,7 @@ GmbH Human Asset Clouds&Training Inetum España	8530
 Government Asset Register	14761,69
 Government Assets Management Department	9492
 Government Assets Management Information System	9492
+Government of Sierra Leone Fiber Cable Assets	18485
 Grants Capital Acquisition of Non- Financial Assets	14746
 Gross Asset	17257
 Gross Assets	13868
@@ -285,6 +304,7 @@ High Liquid Assets	17236
 High Value Information Assets	16924
 High Value Information Assets IaaS Infrastructure	16923
 High-Quality Liquid Assets IOSCO International Organization	14997
+Household Asset	18470
 IAR Immovable Assets Register ICT Information	11261
 ICT Asset Management Policy	15164
 INFRASTRUCTURE ASSET SHARING P-3 Federal	11857
@@ -296,6 +316,7 @@ Impairment of Assets. Consequently	15169
 Impairment of Cash-Generating Assets IPSAS	14736
 Impairment of Non-Cash Generating Assets	14736
 Implement Asset Declaratio Capacity and Openness of S	17180
+Incomplete Assets Register	18661
 Incubators Government Agencies Foundations Asset Managers	4972
 Indicator Dec-24r Dec-25 Gross Assets	17235
 Industry and Competition CARA Criminal Assets Recovery	11986
@@ -337,6 +358,8 @@ Meter Asset Providers	12062,6124,31
 Meter Asset Providers. Forty-eight	12062
 Micro-Finance Banks Assets and Liabilities	2775
 Migration NDA Net Domestic Assets NDCS	17105
+Ministry of Works and Public Assets	18504
+Ministry of Works and Public Assets MWR	18485
 Ministério-Justiça Asset Publisher Menu Display Menu	6530
 Missing and Unverified Beneficiary Assets	9650
 Misuse of EIB Group Resources and Assets	15901
@@ -346,6 +369,7 @@ NFA Net Foreign Assets NGAAF National	2775
 NON CURRENT ASSETS Harare	4896
 National Asset Behind Everyday Digital	12632
 National Asset Liability Management Framework	14748
+National Asset and Government Property Commission	18500
 National Directorate of State Assets	10768
 National Electronic Assets Register	2531
 National Electronic Assets Register Will Boost	2531
@@ -364,6 +388,7 @@ Nigeria Movable Asset Based	11469
 Non Current Assets HY2025	4896
 Non-Current Assets	13420
 Non-Exchange Transactions Assets	14736
+Non-Performing Asset	18543
 Note ASSETS Non-current	10793
 Number Assets	15023
 Number of Asset Managers	14997
@@ -399,8 +424,11 @@ Protection of Critical Digital Assets and Infrastructure A	4610
 Protection of Critical Digital Assets and Infrastructures	4610
 Protection of Critical Digital Assets and Infrastructures A	4610
 Provider Virtual Asset Tokenization Provider Token	10738
+Public Assets	18577
 Public Assets Insurance Private Sector	14997
 Public Assets Insurance Program	14997
+Public Assets Management	18488,89
+Public Assets Management Focus	18577
 Public Assets Management Regulations	9492
 Public Assets Traced	2775
 Public Procurement and Asset Disposal Act	2512,3,3917,1116,1386,1379,1800,422,2011,1390,1851
@@ -409,8 +437,10 @@ Public Procurement and Asset Disposal Authority. VI	3583
 Public Procurement and Asset Management	13966
 Public Procurement and Assets Disposal Act	14449
 Public Procurement and Disposal of Asset Authority	3583
-Public Procurement and Disposal of Assets	13053
+Public Procurement and Disposal of Assets	13053,5608
+Public Procurement and Disposal of Assets Act	18696
 Public Procurement and Disposal of Assets Authority	5668
+Public Procurement and Disposal of Assets Regulations	18661
 Public Procurement and Disposal of Public Assets	13005,122,293
 Public Procurement and Disposal of Public Assets Act	1210,3007,8770,140,293,186
 Public Procurement and Disposal of Public Assets Authority	3969,4754,4399,1552
@@ -430,6 +460,7 @@ Recovery of Assets	1829
 Regulating Virtual Asset Business Rwanda Finance	6998
 Regulations Guideline for Virtual Asset	14819
 Rejection of Existing Burdensome Assets	12389
+Relaunch of Sierra Leone's National Asset	18571
 Required Liquid Asset Reserve	17236
 Research and Statistics Department Asset Quality Indicators	17236
 Reserve Assets	17235
@@ -444,6 +475,7 @@ SAMPLE ASSET VALUATION SURVEY FORM	17114
 SAMPLE ASSET VALUATION SURVEY FORM FRAMEWORK	17114
 SIGPE Integrated State Asset Management System	10768
 STATEMENT OF CHANGES IN NET ASSETS	14736
+STORES MANAGEMENT Stores and Asset Management System	18576
 Sanitathon Unemployment Housing Assetes Child Labour	15244
 Sanitation Water Electircity Housing Assetes Overcowding	15244
 Sanlam Specialised Asset Management. Jacques	9367
@@ -459,6 +491,11 @@ Southeastern Corridor Road Asset Management Project	6523
 Sovereign Assets and Liabilities	14748
 Stablecoin Issuer Virtual Asset Wallet Provider	10738
 Statement of Financial Position Item Assets ZWL	13420
+Stores Inventory and Asset Management	18500
+Stores and Asset Management	18576
+Stores and Asset Management System	18576
+Stores and Assets	18500
+Stores and Inventory Management and Capital Asset Management	18488
 Strategic Asset	4528,1022,6962
 Strategic Asset Allocation	11131,3,6004
 Strategic Asset Allocation SACCOs Saving and Credit	15023
@@ -477,6 +514,8 @@ Taxation of Virtual Assets	8826
 Technologies ICT Asset Disposal Guidelines	12453
 Tenancy and Asset Utilisation	4896
 Trade Finance Assets for Small and Medium-Sized Enterprises	10718
+Transfer of Assets	18602
+Transfer of Assets Power	18435
 Transfer of Assets and Liabilities	14409
 Transfer of Assets and Liabilities ARTICLE	14409
 Treasury Management and Financial Assets	11231

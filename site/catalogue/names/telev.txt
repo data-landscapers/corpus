@@ -1,6 +1,7 @@
 ADMINISTRATION SOUS TUTELLE GROUPE GABON TELEVISIONS	16175
 Accelerate of Television NBC	11857
-Analogue Terrestrial Television	236
+African Young Voices Television	18523
+Analogue Terrestrial Television	236,18208
 Angola's Digital Terrestrial Television	2217
 Authorised Television Stations	2776
 BWA Radio Broadcasting Television Broadcasting Authorised	9109
@@ -18,11 +19,13 @@ DE TELEVISION ET PAR I.ES EXPTOITANTS	15397
 DIRECTIVO TELEVISIÓN RADIO PRENSA ESCRITA	4209
 DTT Digital Terrestrial Television EAC East	6671
 Digital Cable Television	236,2540
+Digital Cable Television and Television	18444
 Digital Satellite Television ECMS	958
+Digital Terrestrial Free-To-Air Television	18444
 Digital Terrestrial Free-To-Air Television Programme Channel	236
 Digital Terrestrial Mobile Television Service Digital	2776
-Digital Terrestrial Pay Television	236,2540
-Digital Terrestrial Television	2776,1328,1883,959,5449,2385,3090
+Digital Terrestrial Pay Television	236,2540,15668
+Digital Terrestrial Television	2776,1328,1883,959,5449,2385,3090,574
 Digital Terrestrial Television Additional	2776
 Digital Terrestrial Television Additional Services	2776
 Digital Terrestrial Television Broadcasting Frequencies	6946
@@ -43,9 +46,11 @@ Extension DSTV Digital Satellite Television EDI	13295
 Free-to-Air Television Licensees	12395
 GRTS Gambia Radio and Television Services GSC	16885
 Gambia Radio and Television Services	16852,499
+Home Region Radio Television Telephone Fixed	18441
 Increase Digital Regulatory Frameworks Terrestial Television	6946
 Independent Pension Plans IPTV Internet-Protocol Televisions	2775
 Internet Protocol Televisions	16884
+Internet Protocol. Analogue Terrestrial Television Stations	18444
 Loop DTT Digital Terrestrial Television EPTC	12395
 Mauritania National Television	17934
 Media Television	16926
@@ -55,6 +60,7 @@ National Television Alert Page	18309
 National Television of Niger	18220
 Network TV Television PMO Prime Minister	14723
 Nigeria TVWS Television White Spaces USPF	11857
+No. Type of Television Services Total No	18444
 No. of No. Type of Television Service	236
 Number of Free-to-Air Television Licences	12395
 Number of Free-to-Air Television Licences Operational	12395
@@ -74,16 +80,18 @@ RCA 630-TS Television.jpg	5124
 RCA Television	5124
 Radio A2. Television Broadcasting Services Licence	17250
 Radio Broadcasting and Television of Niger	18220
+Radio Television All Three Inequalities	18441
 Radio Television Total Revenue	12395
 Radio Televisión Guinea Ecuatorial	11672
 Radio Televisão Cabo Verde RTCV	15552
 Radio and Television	718
 Radio and Television Services GSQF Gambia Skills	16852
+Radio and Television Stations and Mobile Network Operators	18485
 Radio and Television. Depending	12982
 Rádio Televisão Cabo-verdiana PUBLISH DATE	12011
 SECTION IV DES TELEVISIONS PRIVEES COMMERCIALES	15397
 SOUS TUTELLE GROUPE GABON TELEVISION DIRECTION	16099
-Satellite Television	2776
+Satellite Television	2776,15668
 Satellite Television Boadcasting	2776
 Satellite Television Broadcasting	236,2540
 Service Commission TV Television TVC Technical	2775
@@ -103,13 +111,14 @@ TELEVISION SALAMA	13324
 TV Interactive Television IVR Interactive Voice	14965
 TV Television	12911
 TV Television UHF Ultra-High Frequency UN	6946
+Technology and Innovation DTT Digital Terrestrial Television	18454
 TeleVinti4	15445
 Televinti4	11955,3490
 Televis	12201
 Televisa	7381
 Televisao Digital	1526
 Televisheni	6019
-Television	236,346,2194,2348,91,2548,617,1299,102,212,2182,208,12,230,357,479,71,1319,2,43,39,1965,239
+Television	236,346,2194,2348,91,2548,617,1299,102,212,2182,208,12,230,357,479,71,1319,2,43,39,1965,239,1302,3
 Television Authority National Assembly Senator National	11129
 Television Broadcasters	958
 Television Broadcasting KINGDOM OF ESWATINI	12395
@@ -122,9 +131,14 @@ Television Over Internet Protocol	2776
 Television Page	12201
 Television Programme Channel	2776
 Television Services GSM Global System for Mobile	16992
+Television Stations	18444
+Television Stations TV	18485
 Television TVWS	14879
 Television U UN	16872
+Television UADF	18485
 Television University of Nigeria Nsukka Comm. Com	11129
+Television Weekly Percentage	18441
+Television Weekly Rural	18441
 Television White Spaces	11857
 Television and Radio Broadcasters	11211,51
 Television of Cabo Verde. Within	11955

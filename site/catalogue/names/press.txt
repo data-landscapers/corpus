@@ -56,6 +56,7 @@ BBC Media Action and Free Press Unlimited	15342
 BCCSA. The Press Council	13461
 Banjul Plan... Document Press Release	17323,1
 Barrow Pressing for Investment and Debt Relief	17069
+Bayobab Bayobab Press	18654
 Bayobab Press	11234
 Beacon Press	5700
 Biz Press OfficeAgricultureAutomotiveConstruction	7253
@@ -73,7 +74,7 @@ Brookings Institution Press	2096
 Burundian Press Union	13313
 CAMER PRESS AGENCYCamer Press Agency DECOUVREZ	9916
 CHAINE YOUTUBE CAMER PRESS AGENCYCamer Press	9916
-COMMUNICATION DIRECTORATE Press Release	4123,9506
+COMMUNICATION DIRECTORATE Press Release	4123,9506,5056
 COMMUNICATION DIRECTORATE Press Release No. Date	17922
 COMMUNIQUE DE PRESSE Le Comité Ministériel	16270
 COMMUNIQUE DE PRESSE N	13329
@@ -125,6 +126,7 @@ Decent Jobs PRESS RELEASE	14092
 Deep Learning. MIT Press. Governo de Moçambique	2816
 Demographic Dynamics and Urbanization Pressures	15059
 Deputy Minister for Press and Public Affairs Nigeria	17017
+Deputy Press Secretary	18637
 Director Press and Public Relations	8087
 Director Press and Public Relations Office	7973
 Director for Press and Media Mr. Morden Mayembe	8481
@@ -133,6 +135,7 @@ Document UNHCR Press Release	17323,1
 Dove Medical Press Limited	11596
 Drought and Cost Pressures	13532
 Duke University Press	3782,894,5063,1311,1177
+ECOWAS PRESS BRIEFING	18586
 ECPR Press. Copyright	7886
 EIN Presswire	2677
 EN MATIERE DE PRESSE ECRITE Arlicle	15397
@@ -158,6 +161,7 @@ Excluding MasOrange Press	8125
 FORMULAIRES Presse Album Photo Articles Communiqués	15449
 Finds New GSMA Study. Press Release	10822
 First Secretary Press and Public Relations	4365
+Five Million Sierra Leoneans PRESS RELEASESeptember	18498
 Free Press	5349,2672,6702
 Free Press Unlimited	15342
 Free Press of Namibia	11122
@@ -171,6 +175,7 @@ Genetic Algorithms. MIT Press. Mkoba	2816
 Georgetown University Press	5700,8591
 German Federal Foreign Office Press Release	7794
 Government Press and Nairobi City County	3983
+Government Weekly Press Conference	18582
 Governor PRESS RELEASE Update	9046
 Governor’s Press Service	6946
 Greek Convent Press	16916
@@ -242,6 +247,7 @@ Meatspace Press	226
 Media Contact GSMA Press Office	11003
 Media Contacts GSMA Press Office	14093
 Media and Press Freedom Dimension	17745
+Million Government Printing Press Modernisation Deal	18586
 Minister of Education Engages Press	17214
 Ministry's Head of Press and Public Relations	18221
 Mme Louise BOUKANDOU Agence Gabonaise de Presse	15973
@@ -282,9 +288,10 @@ PRESS	12201,2244
 PRESS AGENCYCamer Press Agency DECOUVREZ NOTRE	9916
 PRESS BRIEFING BY THE EXECUTIVE DIRECTOR	4661
 PRESS OFFICER	15751
-PRESS RELEASE	7369,5214,164,193,491,310,351,868,40,6,23,38,406,1086,330,175,42,50,31,22,48,9,237,406,81
+PRESS RELEASE	7369,5214,164,193,491,310,351,868,40,6,23,38,406,1086,330,175,42,50,31,22,48,9,237,406,81,496,12,94
 PRESS RELEASE AND STAFF REPORT Under	13868
 PRESS RELEASE Accreditation Status of Higher Education	17226
+PRESS RELEASE Aug	18592
 PRESS RELEASE CYBER SECURITY AUTHORITY SANCTIONS	9728
 PRESS RELEASE ENHANCEMENT TO THE CLEARING	12579
 PRESS RELEASE FOR IMMEDIATE RELEASE GHANA	2450
@@ -292,6 +299,7 @@ PRESS RELEASE IMPLEMENTATION OF THE ELECTRONIC	7391
 PRESS RELEASE NO	1579
 PRESS RELEASE National ID Program Reestablished	8971
 PRESS RELEASE SADC	12671
+PRESS SECRETARY KEKETOMA SANDI CALLS	18586
 PRESS STATEMENT	1920,13808
 PRESS-CHN-MOZ-2022-001	2161
 PRESS-CHN-MOZ-2025-001	859
@@ -316,7 +324,7 @@ Porto-Novo Press	8713
 Post Press Releases and Statements	11251
 Power. MIT Press	2096
 Presidential Press Secretary	17391
-Press	53,31,5,54,1,2,62,3,29,1,22,1,1,21,3,1,3,1,2,34,17,7,1,21,4,1,4,1,1,1,1,2,1,7,48,54,5,3,1,1,2,1,5,1,1,8,65,1,1,1,9,12,2,7,9,1,1,14,21,1,1,1,9,3,10,4,1,3,1,1,1,2,1,1,11,9,80,22,2,13,6,1,2,2,26,2,2,1,1,2,1,9,1,1,1,2,1,1,1,12,1,2,1,1,1,4,7,5,10,84,2,11,28,9,31,2,1,5,3,1,2,2,1,1,3,5,3,1,1,9,2,86,153,1,24,12,75,4,1,1,13,6,4,3,1,3,1,6,1,16,75,231,255,19,5,1,48,6,3,4,2,2,6,1,1,2,7,280,5,904,964,54,3,8,13,26,4,11,1,5,98,78,112,1246,688,694,111,16,100,21,1001,257,83,41,31,659,849,115,41,60,228,55,30,5,4,11,136,19,166,11,565,175,66,139,76,37,37,579,9,72,71,148,1,70,132,383,903,523,79,11,282,76,76,961,157,125,7,50,214,423,303,24,44,87
+Press	53,31,5,54,1,2,62,3,29,1,22,1,1,21,3,1,3,1,2,34,17,7,1,21,4,1,4,1,1,1,1,2,1,7,48,54,5,3,1,1,2,1,5,1,1,8,65,1,1,1,9,12,2,7,9,1,1,14,21,1,1,1,9,3,10,4,1,3,1,1,1,2,1,1,11,9,80,22,2,13,6,1,2,2,26,2,2,1,1,2,1,9,1,1,1,2,1,1,1,12,1,2,1,1,1,4,7,5,10,84,2,11,28,9,31,2,1,5,3,1,2,2,1,1,3,5,3,1,1,9,2,86,153,1,24,12,75,4,1,1,13,6,4,3,1,3,1,6,1,16,75,231,255,19,5,1,48,6,3,4,2,2,6,1,1,2,7,280,5,904,964,54,3,8,13,26,4,11,1,5,98,78,112,1246,688,694,111,16,100,21,1001,257,83,41,31,659,849,115,41,60,228,55,30,5,4,11,136,19,166,11,565,175,66,139,76,37,37,579,9,72,71,148,1,70,132,383,903,523,79,11,282,76,76,961,157,125,7,50,214,423,303,24,44,87,44,64,195
 Press Association	16958
 Press Briefings	16961,64
 Press Code	13461,4897
@@ -351,7 +359,7 @@ Press Proclamation	14073
 Press Proclamation Law	14073
 Press Quarterly Public Relations	15845
 Press Regime	17950
-Press Release	1830,561,286,155,944,1085,441,659,568,669,1137,556,155,304,1126,242,104,1279,475,1017,148,127,643,92,121,208,97,209,164,350,307,142,296,609,82,5,16,48,1,68,26,151,406,81
+Press Release	1830,561,286,155,944,1085,441,659,568,669,1137,556,155,304,1126,242,104,1279,475,1017,148,127,643,92,121,208,97,209,164,350,307,142,296,609,82,5,16,48,1,68,26,151,406,81,452
 Press Release AfCFTA DIGITAL TRADE FORUM	7039
 Press Release Deployment Final.pdf	17922
 Press Release Djibouti	13915
@@ -359,7 +367,8 @@ Press Release Integrated Electronic Case Management	12936
 Press Release No	1579,9262,294,419,3475,12,710,1588
 Press Release No Comments The Electoral	12465
 Press Release The IEC	17654
-Press Releases	8485,3063,3137,1068,58,181,54,85,105,19,706,64,53,96,47,282,433
+Press Release Useful Links	18442
+Press Releases	8485,3063,3137,1068,58,181,54,85,105,19,706,64,53,96,47,282,433,550
 Press Releases General Assembly Press Releases	16808
 Press Releases LAA Addresses Runway	16961
 Press Releases Liberia and Seychelles Forge	17025
@@ -390,6 +399,7 @@ Press and Public Relations	7659,4402,6145,13,40
 Press and Publications Act	15342
 Press-Code Eng.pdf	13461
 Press-release-Norfund-Baobab.pdf	709
+Press. GDP	18483
 Press14	11234
 Press23	11234
 PressAfrik	18394
@@ -452,6 +462,7 @@ Régissant la Presse	13313
 SECTION III DES MESSAGERIES DE PRESSE	15397
 SEMENTS D’UN PRESSING MODERNE A BA-	17817
 SIGNED RDHS PRESS RELEASE ENGLISH VERSION	15067
+SOGREA Press Release 21 10 2025	18509
 SUPERIEURE DES METIERS DE LA PRESSE	18170
 Sam Altman’s OpenAI. Penguin Press. Heermann	11050
 Sayana Press	10777,7535
@@ -461,6 +472,7 @@ Security Agency Press Statement	9067
 Senegalese Press Agency	5985
 Senior Data Protection Analyst World Press	4800
 Service Presse	16381
+Sierra Leone Press	18509,82
 Silicon Valley. Princeton University Press. Shrishak	11050
 Social Registry Survey Press Release	12498
 SocialRegistry PressRelease Download	12498

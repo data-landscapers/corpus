@@ -78,14 +78,14 @@ Deutsche Bank	10718,4824
 Deutsche Bank AG London Branch	9796
 Deutsche Bank AG Zurich Branch	9796
 Deutsche Bundesbank and Bank of Mauritius	11131
-Deutsche Gesellschaft	1099,162,553,89,1701,107,2549,907,719,660,439,37,243,205,641,2,599,252,6,186,151,265,569,90,9,38,117,32,496,198,78,114,152,282,605,1148,451,193,1726,11,26
+Deutsche Gesellschaft	1099,162,553,89,1701,107,2549,907,719,660,439,37,243,205,641,2,599,252,6,186,151,265,569,90,9,38,117,32,496,198,78,114,152,282,605,1148,451,193,1726,11,26,578
 Deutsche Gesellschaft for International Cooperation Zambia	13578
 Deutsche Investitions-	248,96,116,161,208,1,225,1,1,1,376,716,1
 Deutsche Welle	4127
 Deutsche Welle Akademie	15342
 Deutsche Zusammenarbeit	12427
 Deutschen Gesellschaft	11316
-Deutscher Wetterdienst	14448
+Deutscher Wetterdienst	14448,4130
 Deutschland	5933,5383
 Deux Argyle Realtors Limited Data Controller	7167
 Deux Cent Mlle Francs Burundais	13567
@@ -127,7 +127,9 @@ Etudes Supérieures Spécialisées DEUG Diplôme	12
 G Deuxième	15493
 GERMAN COOPERATION DEUTSCHE ZUSAMMENARBEIT The Skills	8985
 GIZ Deutsche Gesellschaft	8985
+GeoSphere Austria and Deutscher Wetterdienst	18578
 GiZ Deutsche Gesellschaft	18316
+GmbH The Deutsche Gesellschaft	18485
 Horn of Africa Deutsche Gesellschaft	886
 IA I Deux	8877
 III.1.2.2. Deuxième	15685

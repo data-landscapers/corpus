@@ -12,6 +12,7 @@ Advanced Data Planning Tool	16927
 Advanced Data Planning Tool ADIE	18291
 Africa APDC Academic Planning and Development Committee	12975
 Africa The Country-Led Planning	16036
+African Union BCP Business Continuity Planning	18531
 Agencies MFDP Ministry of Finance and Development Planning	17114
 Airflow Planning	14921
 Aligning Climate Change Adaptation Planning	11006
@@ -65,6 +66,7 @@ Chief Economic Planning Officer	12972
 Chief Town Planning Officer	11129
 Cities and Urban Planning. Beirut	16916
 City Planning	10930
+City Planning Labs	18476
 City Planning and Extension	15473
 City’s Municipal Planning Tribunal	14673
 Civil Registration Department Ministry of Economic Planning	12944
@@ -98,6 +100,7 @@ Cost Power System Planning	12399
 Council for Planners SALGA South African Local	11261
 Country Contexts. Stud Fam Plann	10881
 Country Led Planning	16036
+Country Planning MLSS Ministry of Labour and Social	18504
 Country-Led Planning	16036
 County Department of Finance and Economic Planning	7167
 County Development Planning Units	16970,261
@@ -113,7 +116,7 @@ D. Business Planning Process	11469
 DATA MANAGEMENT PLANNING ACROSS DISCIPLINES	12090
 DEEPCFWP1 Ministry of Finance and Planning	11142
 DEVELOPMENT Ministry of Economic Planning and Development	4247
-DEVELOPMENT PLANNING	17011
+DEVELOPMENT PLANNING	17011,1456
 DNPD National Directorate of Development Planning DTT	17870
 DPME National Planning	11193
 Data Centre Capacity Planning	9123
@@ -137,6 +140,7 @@ Department of Policy and Planning	11596
 Department of Research and Development Planning	16970
 Department of Strategic Policy Planning	13310
 Department. The Bureau of Policy and Planning	16971
+Deputy Director Planning and Research	18510
 Deputy Education Minister for Planning	17233
 Deputy Minister for Research and Development Planning	16970
 Deputy Minister of Planning	15664
@@ -155,6 +159,7 @@ Developing Strategic Budget Planning	17441
 Development Empowerment PME Planning	11193
 Development MPSIR Ministry of Planning	15659
 Development Planning	12674,27,3144,1008,4,154,108,20,96,76
+Development Planning Framework	18488
 Development Planning MIA	16872
 Development Planning MLG Ministry of Local Government	17260
 Development Planning Officers	16524
@@ -162,6 +167,7 @@ Development System PM&E Planning	11224
 Development and Land Use Planning	18293
 Development and Regional Planning-Administrative	18305
 Digitization Preparedness and Planning	16955
+Director General for Planning and Budgeting	18684,1
 Director General of National Planning Commission	13118
 Director General of Planning and Economic Policies	18305
 Director General of Planning and Policies Dr. Al-Mughira	15100
@@ -172,22 +178,26 @@ Director for Planning and Information	13662
 Director for Research and Planning	2687
 Director of Corporate Planning and Strategy	18168
 Director of National Planning Davison Mapizya	10510
-Director of Planning	6786,5065
+Director of Planning	6786,5065,6666
 Director of Planning and Follow-Up Mohamed Hossam	15992
 Director of Planning and Information	7779,5553
 Director of Planning and Information and Project Coordinator	13332
 Director of Planning and Monitoring Office	16902
+Director of Planning and Policy	18460
 Director of Planning and Research	13455
 Director of Policy Planning	9204
+Director of Policy Planning and Tech Compliance	18510
 Director of Policy and Planning Michael Masiya	9093
 Director of Policy and Planning. The ESA	14896
-Director of Research and Planning	3776
+Director of Research and Planning	3776,14875
+Director of Strategic Planning and Policy Ibrahim Kamara	18549
 Director-General of Planning	12899,3
 Directorate General of Planning and Economic Policies	18305
+Directorate for Planning and Policy	18460
 Directorate of Corporate Planning and Strategy	17683
 Directorate of Development Planning	16927
 Directorate of Land Management and Urban Planning	16614
-Directorate of Planning	11855,490
+Directorate of Planning	11855,490,6133
 Directorate of Planning Health Facility Quality Index	16922
 Directorate of Planning and Development and EMIS Manager	13310
 Directorate of Planning and Education Statistics	13349
@@ -195,6 +205,7 @@ Directorate of Planning and Information	16896,26
 Directorate of Policy Development and Strategic Planning	16951
 Directorate of Policy and Planning Information	34
 Directorate of Policy and Planning MoH	34
+Directorate of Research and Planning	18746
 Directorate of Studies and Planning	11974
 Directorate of Urban Planning and Infrastructure	16614
 Directorate of Water Resources Management and Planning	18309
@@ -208,6 +219,7 @@ Disaster Recovery Planning	6432
 Disclosure of Tax Planning	11976
 Divisions of Policy and Planning and Vital Statistics	16971
 Données Electricity Planning Model	18316
+Duration Lead Entity I. Strategic Planning	18531
 E&S Planning	1988
 E&S Planning Based	1988
 E.T. Gina Minister for Economic Planning	12962
@@ -224,9 +236,9 @@ ERP Enterprise Resource Planning GPPA Gambia	16923
 ESMF National Planning	1988
 ETHIOPIA NATIONAL PLANNING COMMISSION CENTRAL	13965
 Economic Affairs and Planning	16958
-Economic Development Planning	12358
+Economic Development Planning	12358,6118
 Economic Development and Planning	14745
-Economic Planning	2840,1263,3040,4578,1251,83,38,238,980,235,273,178,133,34,2389,672
+Economic Planning	2840,1263,3040,4578,1251,83,38,238,980,235,273,178,133,34,2389,672,389
 Economic Planning Dear Valued Stakeholders	14819
 Economic Planning Department	10348,2614
 Economic Planning Hon. Uzziel NDAGIJIMANA and KOICA	770
@@ -250,6 +262,7 @@ Economic Planning and ICT	7167
 Economic Planning and Integration	4103,3684,1375
 Economic Planning of Rwanda Signed Framework Agreement	791
 Economy and Planning	15478,253,2562
+Education PPD Planning and Policy Directorate PQTR	18460
 Education Planning Directorate	14851
 Educational Planning	11860,3236
 Egypt's Minister of Planning	9298
@@ -281,11 +294,14 @@ Existing Infrastructure and Planned Works	12389
 FAMILY PLANNING	13454,1793,1724
 FINANCE AND DEVELOPMENT PLANNING Table of Contents	14185
 FRAMEWORK ON GENDER-RESPONSIVE PLANNING	11193
-Family Planning	970,12007,323,767,706,2060,118,20
+Family Planning	970,12007,323,767,706,2060,118,20,1470
 Family Planning FSD Kenya Financial Sector	2775
 Family Planning Family	16951,20
+Family Planning Fertility Age Specific Fertility	18441
 Family Planning Messages	15247
+Family Planning Method of Family Planning	18441
 Family Planning Providers	15247
+Family Planning Region	18441
 Family Planning Services	10829
 Family Planning and Opinion	15247
 Federal Ministry of Budget and Economic Planning	10063,93,7439
@@ -299,7 +315,7 @@ Finance and Development Planning MIA Ministry of Internal	16970
 Finance and Development Planning MICR Magnetic Ink	17235
 Finance and Development Planning Minister Augustine Kpe	7230
 Finance and Development Planning Minister Augustine Kpehe	7230,871,473,2007,6817
-Finance and Economic Planning	15177
+Finance and Economic Planning	15177,3514
 Finance and Economic Planning Dr. Uzziel NDAGIJIMANA	14871
 Finance and Forwarding Planning	16256
 Finance and National Planning	1778,210,8325
@@ -335,6 +351,7 @@ Gambia Family Planning Association GII	16951
 Gambian Strategic Planning Framework	16861
 Gender Responsive Planning	11193
 Gender Responsive Planning and Budgeting	12946
+Gender Units and Planning Directorates	18512
 Gender-Responsive Planning	11193,714
 Gender-Responsive Planning and Budgeting	12399
 Gender-Responsive Sector Planning	11907,1442
@@ -368,14 +385,18 @@ Health Policy and Planning	6997
 Health and Planning	12253
 High Commission for Planning	17458
 High Priority Rating Gender-Responsive Sector Planning	13349
+Hon. Kenyeh Barlay Minister of Planning and Economic	18529
 Hon. Minister for Economic Planning and Development	13126
 Hon. Minister of Financial Services and Economic Planning	14819
+Hon. Undersecretary for Planning	18661
 Honourable Minister for Budget and Economic Planning	18225
 Honourable Minister for Economic Planning	12962
 Honourable Minister of Budget and National Planning	11129
 Honourable Minister of Economic Planning and Development	12962
+Honourable Minister of Finance and Planning	18696
 Honourable Ministers of Budget and Economic Planning	18263
-Housing and Country Planning	8903
+Housing and Country Planning	8903,9565,110,10,1
+Housing and Country Planning MMO	18485
 Housing and Territorial Planning	4945
 Housing and Urban Planning	10937
 Human Resource Planning	14786
@@ -391,6 +412,7 @@ IDPs MOPIED Ministry of Planning	14874
 IDPs. Operational Planning Instruments and Practices	13349
 IEDA Consultant PCA Planning Department Director	2989
 IIEP-UNESCO International Institute for Educational Planning	14916
+III. Statistical Planning Successive National Strategies	18475
 INTEGRATED PLANNING	14947
 INTEGRATED PLANNING Issue	14947
 INVESTMENT PLANNING AND CLIMATE RISK MANAGEMENT	18036
@@ -443,9 +465,10 @@ KEY DATES Key Events Planned Actual	2712,1976,6182,1358,39,3468,278,692,295,96,3
 KEY DATES Key Events Planned Date	11924,6038
 KRA Enterprise Resource Planning	1835
 Kenya's Cabinet Secretary for National Treasury and Planning	3867
-Key Events Planned Actual Approval	6579,4816,576,469,3639,915,85
+Key Events Planned Actual Approval	6579,4816,576,469,3639,915,85,1455
 Key Events Planned Date Actual Date	15731
 Kingdom of Eswatini MINISTER OF ECONOMIC PLANNING	4247
+LEONE STRENGTHENING INTEGRATED URBAN PLANNING THROUGH	18476
 LERC Planning Process	16851
 LISGIS Planning and Research Department	17116
 LOCAL DEVELOPMENT PLANNING PROCESS	16970
@@ -472,6 +495,7 @@ Lesotho's Ministry of Finance and Development Planning	8034
 Liberia Ministry of Finance and Development Planning	16963
 Liberia's Ministry of Finance and Development Planning	2252,352
 Lilongwe City Council's Town Planning Committee	12253
+Limiting Met Need for Family Planning	18441
 Local Administration Planning Law No	15473
 Local Government Planning and Resource Allocation Enhanced	14935
 Long Range Planning	2093
@@ -494,11 +518,14 @@ MINISTRY OF FINANCE AND NATIONAL PLANNING	13343
 MITIGATION ACTIONS IN LIBYA THE PLANNING	17157
 MInistry of Finance and National Planning	12376
 MLGCRA Spatial Planning	4482
+MOE Planning Unit	18537
 MOFEA’s Departments of Budget and Planning	16858
 MONITORING SYSTEMS Planning	17157
 MUTTUR Nodesh Assistant Transport Planner	14770
+Macro Fiscal and Budget Planning Training	18488
 Madagascar. Planned	709
 Maintenance Planned	12971
+Makeni City Urban Planning Waste Management	18476
 Making Family Planning	16951
 Malawi National Planning Commission	12175
 Management Disaster Recovery Planning	9123
@@ -506,17 +533,20 @@ Manpower Planning and Development Act	13310
 Manpower Planning and Development Act Part VII	13310
 Manpower Planning and Development Act. Data	13310
 Manpower Research and Planning	13310
+Manpower and Payroll Planning	18488
 Master Urban Planning Plans and Detailed	10930
 Master Urban Planning Plans and Detailed Urban	10930
 Master Urban Planning Scheme of Greater	10930
 Master Urban Planning Scheme of Greater Abidjan	10930
+May-2019 Planned Mid Term Review Date	18473
 MdJL's Planning	17441
 Medium for Gender-Responsive Planning	12175
 Member for Spatial Planning and Environment	6486
+Met Need for Family Planning Met Need	18441
 Milestone Planned Progress	11134
 Minister for Economic Planning and Development	3373
 Minister for Economic Planning and Development Honorable Dr	4535
-Minister for Planning	4783
+Minister for Planning	4783,13692
 Minister for Planning and Deputy Minister for Budget	18220
 Minister of Budget and Economic Planning	3054
 Minister of Budget and National Planning	2934,15242
@@ -535,7 +565,7 @@ Minister of Finance and Economic Planning Hon	770
 Minister of Finance and Economic Planning of Rwanda	791
 Minister of Finance and Economic Planning. Following	14997
 Minister of Finance and National Planning	3583,9765,39,49
-Minister of Finance and Planning	3583,11473
+Minister of Finance and Planning	3583,11473,3596
 Minister of Finance and Planning Her Excellency Dr	14890
 Minister of Financial Services and Economic Planning	14779
 Minister of Planning	4783,4515,2,1468,4373,746,162,115
@@ -544,7 +574,7 @@ Minister of Planning Discusses National Statistics Strategy	15664
 Minister of Planning Investment	15141
 Minister of Planning and Development	8754
 Minister of Planning and Development Fitsum Assefa	14121
-Minister of Planning and Economic Development	15664
+Minister of Planning and Economic Development	15664,2878
 Minister of Planning and Economic Development Ahmed Rostom	16480
 Minister of Planning and Economic Development Kenyeh Barlay	14226
 Minister of Planning and International Cooperation	16649
@@ -579,7 +609,7 @@ Ministry of Finance and National Planning	5247,2531,4557,40,1,33,44,879,13,1,41,
 Ministry of Finance and National Planning MOTS Ministry	13347
 Ministry of Finance and National Planning MoFNP	13532
 Ministry of Finance and National Planning and SMART Zambia	13387
-Ministry of Finance and Planning	1261,383,1939,1057,1619,552,3788,534,9,6415
+Ministry of Finance and Planning	1261,383,1939,1057,1619,552,3788,534,9,6415,1104,3,16
 Ministry of Finance and Planning MICSTI Ministry of Home	12674
 Ministry of Finance and Planning. Maxwell Melingasuk Loboka	4640
 Ministry of Finance and Planning. South Sudan	6259
@@ -589,6 +619,7 @@ Ministry of Health Department of Policy and Planning	16971
 Ministry of Housing and Land Use Planning	14742
 Ministry of Labour MPEA Ministry of Planning	16843
 Ministry of Land and Physical Planning. Records	14546
+Ministry of Lands Housing and Country Planning	18476
 Ministry of Lands and Physical Planning	14427
 Ministry of National Planning	11857
 Ministry of National Treasury and Economic Planning	10313
@@ -599,7 +630,9 @@ Ministry of Planning and Administrative Reform	15519,144
 Ministry of Planning and Bureau of Statistics	14923
 Ministry of Planning and Development	13993,74,75
 Ministry of Planning and Development of Côte	17594
-Ministry of Planning and Economic Development	8189,1777,1675,3963,121,755
+Ministry of Planning and Economic Development	8189,1777,1675,3963,121,755,1966,18,4,7,45,9,48
+Ministry of Planning and Economic Development MOMMR	18485
+Ministry of Planning and Economic Development MTDS Medium	18488
 Ministry of Planning and Economic Development. HSSP III	12240
 Ministry of Planning and Economic Diversification	16958
 Ministry of Planning and Territorial Development	10765,10
@@ -611,6 +644,8 @@ Ministry’s Director of Planning and Research	8480
 Minutes for Award Planned Actual Planned Actual	17180,39
 MoE Planning Departments	15960
 MoF and Ministry of Planning	15004
+Multi-Year Operational Planning	18531
+Municipal Investment Planning	18476
 Municipal Planning Amendment By-law	7343
 Municipal Planning Tribunal	7343,7330
 NATIONAL PLANNING AND BUDGETING ACT	13318
@@ -635,6 +670,7 @@ National Center for Planning State Land Uses	15473
 National Center for Strategic Planning	14856
 National Centre for Planning State Land Uses	15473
 National Council for Strategic Planning	14860
+National Country Planning Act	18575
 National Development Plan NPC National Planning	11224
 National Development PlanNelson MandelaNepadPeople	11215
 National Development Planning Achievements	16944
@@ -689,16 +725,17 @@ OPM Ministry of Planning Ministry of Commerce Villa	14965
 Office Planning	4126
 Official Use Only Key Events Planned	7877
 Ongoing Monitoring Planning	16963
-Operational Planning	17364
+Operational Planning	17364,1167
 Operational Planning Instruments and Practices The SSE	11907
 Operational Planning and Technology Transfer	13080
+Operationalize the Planning Unit	18537
 Operations Planning Outlook for Power Supply	15904
 Organization PAH. Maturity Assessment Planning Guide	12255
 Organization for Physical Planning	15473
 Oversees the Policy Framework for Integrated Planning	11224
 Oversight Planned EoI Publicatio	13938
 PDO PIU Ministry of Finance and Development Planning	16144
-PLANNING	13318,25,1430,700,1498
+PLANNING	13318,25,1430,700,1498,1690
 PLANNING AND DEVELOPMENT PORTFOLIO COMMITTEE	13131
 PLANNING AND PROGRESS PROJECT FEATURED	16854
 PLANNING AND WELFARE ASSOCIATION ACT HUMAN	14773
@@ -714,7 +751,8 @@ PPPC During Planning N	12253
 PS-9 Spectrum Planning	11857
 Partiallyx Planned	10812
 Pending Implementation. Planned	13017
-Physical Planning	8957,3255,3261
+Percentage of Demand for Family Planning Satisfied	18441
+Physical Planning	8957,3255,3261,3146
 Physical Planning Officers	16524
 Physical and Land Use Planning Act	14595
 Plan SDP Spatial Development Planning SETA	11261
@@ -801,6 +839,7 @@ Planned Action Type Innovation	16885
 Planned Action Type Service	16885
 Planned Action University of The Gambia and MOICI	16884
 Planned Activities	11866
+Planned Activity	18512
 Planned Actual Approval	18350
 Planned Actual Comments Administrative Division Morocco	17441
 Planned Actual LR-MFDP-390672-GO-RFQ	17180
@@ -818,6 +857,7 @@ Planned Capacity Loss Factor	11297
 Planned Construction of Mauritius Disciplined Forces Academy	14830
 Planned Enforcement Actions for Data Controllers	3003
 Planned Existing Public Private Planned Public	11135
+Planned Generation Capacity	18614
 Planned IBRD	12968
 Planned Investment	12882,1948
 Planned Landings	13869
@@ -840,7 +880,7 @@ Planned and Unplanned HV	14867
 Planners	396,7570,4996
 Planners KM Kilometers KMHFL Kenya Master	2775
 Planners and M&E Officers	16944
-Planning	55,1,50,19,23,36,52,11,92,57,22,540,256,47,516,47,141,23,105,3,679,214,594,21,297,17,1,1,3,291,83,486,892,556,437,280,600,154,388,1033,84,1106,467,49,135,21,144,2,2,3,57,16,7,6,34,5,8,591,47,9,24,36,10,16,23,216,12,44,26,2,33,51,32,4,8,93,128,1,41,201,33,27,354,1,13,73,211,362,145,367,235,7,25,85,66,7,69,23,2,142,309,80,3,23,14,8,3,25,32,2,39,14,66,63,74,299,204,430,6,27,26,5,26,7,14,3,4,1,2,5,18,84,59,10,8,39,37,2,25,71,33,503,430
+Planning	55,1,50,19,23,36,52,11,92,57,22,540,256,47,516,47,141,23,105,3,679,214,594,21,297,17,1,1,3,291,83,486,892,556,437,280,600,154,388,1033,84,1106,467,49,135,21,144,2,2,3,57,16,7,6,34,5,8,591,47,9,24,36,10,16,23,216,12,44,26,2,33,51,32,4,8,93,128,1,41,201,33,27,354,1,13,73,211,362,145,367,235,7,25,85,66,7,69,23,2,142,309,80,3,23,14,8,3,25,32,2,39,14,66,63,74,299,204,430,6,27,26,5,26,7,14,3,4,1,2,5,18,84,59,10,8,39,37,2,25,71,33,503,430,181,157,11,38,1
 Planning Act	1988
 Planning Ahead Will Make	10763
 Planning Assumptions The Electoral Commission	7266
@@ -856,7 +896,7 @@ Planning Department	11738,482
 Planning Department and Building	14746
 Planning Detail	9123
 Planning Director General of Capital Market Authority	6938
-Planning Directorate	11905
+Planning Directorate	11905,6563,69
 Planning Familial	16722
 Planning Framework	15372
 Planning Framework LMIC Implementation and Status Results	10964
@@ -892,11 +932,12 @@ Planning Survey and Issues Report	1867
 Planning Table	12917
 Planning Template	16971
 Planning The Department	12917
-Planning Unit	12500,193,284
+Planning Unit	12500,193,284,5560
 Planning Unit Planning Officer	12970
 Planning Unit The Policy and Planning Unit	16971
 Planning Your Raise	9198
 Planning and Administration Prudence Kaoma. Ms Kaoma	10510
+Planning and Budgeting	18684,1
 Planning and Budgeting Committee	12956,6,8
 Planning and Configuration	12025
 Planning and Cooperation	18305,65
@@ -904,15 +945,17 @@ Planning and Cooperation. Adjusted	18293
 Planning and Design	14855
 Planning and Design Considerations	1988
 Planning and Design Phase Increased Inform	12253
-Planning and Development	4284,13,4660,240
+Planning and Development	4284,13,4660,240,9249
 Planning and Development Act	14748
+Planning and Development Department	18467
 Planning and Development IHS Integrated Household Survey	12964
 Planning and Development Strategic	15473
 Planning and Digital Economy	1635
 Planning and Discovery	11216
 Planning and Eco	17101
 Planning and Economic Affairs	16830
-Planning and Economic Development	756,526,1,1474,1460,2264,308,1683,251,246,353,977,4501,1345,851
+Planning and Economic Development	756,526,1,1474,1460,2264,308,1683,251,246,353,977,4501,1345,851,1468
+Planning and Economic Development Abbreviations and Acronyms	18577
 Planning and Economic Development Dr.Acen	4217
 Planning and Economic Development The Chairperson	6938
 Planning and Economic Development and Parliament	10299
@@ -942,6 +985,7 @@ Planning and Monitoring Committee	14768
 Planning and Monitoring and Evaluation PPP Public Private	11197
 Planning and Policy	16971
 Planning and Policy Development EMR Electronic Medical	12240
+Planning and Policy Directorate	18536
 Planning and Program Director Desalegn Dingeta	7820
 Planning and Programming Department	1824
 Planning and Project Management	13999
@@ -988,11 +1032,16 @@ Prime Minister.. Minister of Planning	15887
 Principal Planning Officer	13477
 Principal Planning Officer Ministry of Foreign Affairs	12972
 Principal Secretary for Economic Planning and Development	12978,2
+Priority Urban Planning Education Water and Sanitation	18476
 Procedures for Planning and Carrying Out Inspections	10776
+Procurement Planning	18562
+Procurement Planning Module	18562
+Procurement Planning and Price Norm Survey	18562
 Procurement Planning. STEP	16949
 Production Planning	14818
 Production Planning Uncoordinated	14818
 Prof. Dr. Taher Al-Jhimi Minister of Planning	16863
+Profile Photo The Minister of Finance and Planning	18664
 Program GEPEC Strategic Planning of Human Capital	17441
 Project ERP Enterprise Resource Planning FGS	15164
 Project Management and Planning	12400
@@ -1052,11 +1101,13 @@ SPLUMA Spatial Planning and Land Use Management	11197,27
 STRATEGIC PLANNING COMMITTEE Overview	1154
 STRATEGIC PLANNING EXERCISE	12686
 STRATEGIC PLANNING FRAMEWORK	14947
+STRENGTHEN AND EXPAND INFRASTRUCTURE Planning Unit	18537
 Safaricom's Head of Network Planning and Design. Ericsson	5332
 Samuel Mutale Senior Planner	13392
 School Improvement Planning	16852
 Secretary of State for Planning María Ebiaca Moete	3038,1265
 Secteur Informel Planning	10985
+Security Energy Telecommunication Environment Urban Planning	18476
 Senior Planning Officer	12972
 Senior Strategic Policy and Planning Officer	14745
 Sexual and Reproductive Health and Family Planning. Thematic	16951
@@ -1064,12 +1115,12 @@ Shanghai Planning Office of Philosophy and Social Science	8460
 Somali Ministries of Planning	32
 South Africa. Planning	8915
 Space Planning Space	9123
-Spatial Planning	4482,8,7451,1533,1999
+Spatial Planning	4482,8,7451,1533,1999,3003
 Spatial Planning and Human Settlement	1513
 Spatial Planning and Land Use Management	11261
 Spatial Planning and Land Use Management Act	9676,4997
 Spatial Planning and Technologies	7548
-Spectrum Planning	5680
+Spectrum Planning	5680,12764
 Spectrum Planning Sector Selected Sadc Member	12395
 State Department for Economic Planning	6133,8390,23
 State Department for Lands and Physical Planning	12433,2113,21,87
@@ -1088,7 +1139,10 @@ Strategic Planning Process	12759,4184
 Strategic Planning Process The Strategic Plan	16943
 Strategic Planning and Capacity Building The Committee	1554
 Strategic Planning and Equity Efforts	16971
+Strategic Planning and Framework Development	18531
 Strategic Planning and Institutional Alignment	17116
+Strategic Planning and Macro-Fiscal Framework	18488,12,77
+Strategic Planning and Macro-Fiscal Framework The Ministry	18500
 Strategic Planning and Management	12976
 Strategic Planning and Management Capacities	17441
 Strategic Planning and Monitoring Unit	12736
@@ -1104,6 +1158,7 @@ Strengthen County Development Planning Units URL	17231
 Strengthen Planning	12061
 Strengthen the Planning Cadre	12962
 Strengthening Emergency Planning and Management Capacity	15959
+Strengthening Integrated Urban Planning and Spatial	18575
 Studies and Planning Number	10829
 Studies and Planning The World Bank CAR	10829
 Subproject Formulation and Planning	1988
@@ -1123,6 +1178,8 @@ System Planned Unavailability Index	14867
 T. K. ALWEENDO DIRECTOR-GENERAL NATIONAL PLANNING	12907
 TARGETS SPATIAL PLANNING	13118
 Talent Management and Succession Planning Program	15713
+Technical Planning	18467
+Technical and Planning Workshop	18619
 Ten-Year Development Plan. State Minister of Planning	14121
 Territorial Planning	16187
 Territorial Planning Law	12779
@@ -1139,6 +1196,7 @@ Town Planning	11129
 Town Planning Authority	11129
 Town Planning Schemes for Cairo Conceived	15473
 Town and Country Planning Act	1988,10659,2101
+Town and Country Planning Act Met Prior	18488
 Town and Country Planning Board	14738,8
 Town and Country Planning Department	11
 Transmission System Planned Availability Index	14867
@@ -1160,13 +1218,17 @@ Unreliable Enterprise Resource Planning System	14546
 Updating the Master Urban Planning Plans	10930
 Upgrading the Strategic Planning and Management Capacities	17441
 Urban And Regional Planning Act	13189
-Urban Planning	789,5016,5132,348,4188,1787,1045
+Urban Planning	789,5016,5132,348,4188,1787,1045,171
 Urban Planning Authority	16916
 Urban Planning Expert- Alexandria University	15473
 Urban Planning Expert- Cairo University	15473
+Urban Planning Health Disaster Risk Management	18476
+Urban Planning Health Energy Western Area	18476
+Urban Planning Housing Energy Disaster Risk	18476
 Urban Planning Law	15473
 Urban Planning Law No	15473
 Urban Planning Plans	10930
+Urban Planning Water Sanitation Education Finance	18476
 Urban Planning and Community Development	18305
 Urban Planning and Construction Code	11906
 Urban Planning and Development Control	13060

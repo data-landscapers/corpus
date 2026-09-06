@@ -34,6 +34,7 @@ Bank-Fund Debt Sustainability Framework for Low Income	10997
 Basic Retirement Pension The Income Tax	14828,3
 Benazir Income Support Program	11468
 Benazir Income Support Programme	10985,148,9
+Big Bang World Incorporation	18523
 Body Income Tax	13351
 Body PUBLIC NOTICES Validation of Income and Expenses	14526
 Boost Household Incomes Ibanda Electoral Officer	4175
@@ -69,6 +70,7 @@ Certificates of Incorporation	1988
 Certiﬁcate of Incorporation	2709
 Characterization of Transactions and Income	14932
 Civitas ID Incorporated Grantee	17417
+Commission GNI Gross National Income GOSL	18537
 Commission. CHAPITRE V DES OBLIGATIONS INCOMBANT	13709
 Communication Campaign IGA Income-Generating Activity IMF	11924
 Companies Income Tax	9869
@@ -136,6 +138,7 @@ ECONET WIRELESS ZIMBABWE LIMITED Incorporated	4896
 ECONOMY Namibia REGION Sub-Saharan Africa INCOME	12389
 EXTENTION INCOUNTRY The Nigerian National	11857
 Ecobank Transnational Incorporated	1705,8498,3187
+Effect of Incorporation Limited Liability Partnerships	18556
 Effectiveness Risk Incorporated	3604
 Electronic Issuance of Company Incorporation Certificate	12389
 Electronic Rental Income Tax System	14515
@@ -158,6 +161,8 @@ European Union GNI Gross National Income	969
 Evolution of Benazir Income Support Programme	11133
 Excise and Income Taxes	13053
 Execução Incorrecta	10755
+Expenditure Approach and The Income Approach	18483,5
+Expenditure and Income	18483
 FACTOR CURRENT IMPACT Income	11994
 FICHE TECHNIQUE Incorporation	16328
 FINANCE INCOME	10793
@@ -182,9 +187,11 @@ Grit Real Estate Income Group	14507
 Gross Domestic Product and Gross National Income	2775
 Gross Income	11976,2741
 Gross National Disposable Income	2775
-Gross National Income	322,942,1511,3804,4683,952,181,544,172,201,2,165,169,1249,223,501,523,739,113,1202
+Gross National Income	322,942,1511,3804,4683,952,181,544,172,201,2,165,169,1249,223,501,523,739,113,1202,339
 Gross National Income GRM Government of Burundi	13331
+Gross National Income GSMA	18485
 Gross National Income GoKE Government	6539
+Gross National Income GoSL Government of Sierra	18454
 Gross National Income HEI Higher Education	11552
 Gross Operating Income	11955
 Gross Premium Net Income Expenses Claims	17235
@@ -211,11 +218,12 @@ INCOME	418,6004,10470,81
 INCOME AND EXPENDITURE	16973
 INCOME AND GAINS	11955
 INCOME Adverse	9437
+INCOME COUNTRY	18454
 INCOME IN THE RSA	11240
 INCOME MTN Syria	10793
 INCOME MUR MUR MUR Training	14736
 INCOME ONLINE BANKING	11004
-INCOME TAX ACT	13142,1686,3
+INCOME TAX ACT	13142,1686,3,3619,91
 INCOME TAX ACT EDITORIAL NOTE	14717
 INCOME TAX MANUAL	15014
 INCOME TAX MEASURES	13122
@@ -234,6 +242,8 @@ INCONSISTENT	11964
 INCORPORATED	15395
 INCORPORATED TRUSTEES OF HEDA	18154
 INCORPORATION AND CANCELLATION OF REGISTRATION	3714
+INCORPORATION OF COMPANIES AND INCIDENTAL MATTERS	18556
+INCORPORATION OF COMPANIES AND RELATED MATTERS	18604
 INCORRECT	1009,4615
 INCORRECT ASSESSMENT NUMBER	14670
 INCORRECT INDEX NUMBER	14670
@@ -257,11 +267,12 @@ Incode	2390,1902,563,470,255,313,73,322,83
 Incoherent	14935
 Incoherent Policies and Contradictory Priorities	12227
 Incohérences	16328
-Income	1828,479,854,1632,103,453,306,767,117,1484,459,108,233,1891,49,22,8,183,1,20,7,129,2,60,101,267,311,21,29,31,9,12,18,165,1,44,93,49,5,75,1,18,38,17,255,196,11,9,7,130,206,45,61,172,212,64,541,185,123,26,1,33,38,13,3,5,7,53,33,3,65,2,15,9,125,325,131,30,91,1177,40,9,4,13,10,18,15,138,8,78,1,3,21,106,377,575
+Income	1828,479,854,1632,103,453,306,767,117,1484,459,108,233,1891,49,22,8,183,1,20,7,129,2,60,101,267,311,21,29,31,9,12,18,165,1,44,93,49,5,75,1,18,38,17,255,196,11,9,7,130,206,45,61,172,212,64,541,185,123,26,1,33,38,13,3,5,7,53,33,3,65,2,15,9,125,325,131,30,91,1177,40,9,4,13,10,18,15,138,8,78,1,3,21,106,377,575,117,90,100
 Income All Firms Small Medium Large	11874
 Income Allowance	14782
 Income Allowance Ehram Court	14782
 Income Allowance URL	14782
+Income Approach	18483
 Income Cap	6921
 Income Categories	12445
 Income Countries MENP Ministry of Digital Economy	15411
@@ -311,8 +322,8 @@ Income Subvention	12971
 Income Summary	17260
 Income Support	14828,3,10
 Income Support de R	14841
-Income Tax	573,711,601,1276,2086,5381,134,536,649,8,21,419,57,146,46,286,123,89,209,255,18,1093,26,62,23,3,8,175,586,1342,36,33
-Income Tax Act	573,2452,3127,1693,2178,41,1117,74,8,945,322,99,513,169,40,52,46,46,111,809,39,1,262,2,24,66,19,3,10,2,89,82,134,1960
+Income Tax	573,711,601,1276,2086,5381,134,536,649,8,21,419,57,146,46,286,123,89,209,255,18,1093,26,62,23,3,8,175,586,1342,36,33,1566
+Income Tax Act	573,2452,3127,1693,2178,41,1117,74,8,945,322,99,513,169,40,52,46,46,111,809,39,1,262,2,24,66,19,3,10,2,89,82,134,1960,1332,10,16,34,41,36
 Income Tax Act International Monetary Fund	14932
 Income Tax Act The Income Tax	14828
 Income Tax Act. Tanzania	10388
@@ -360,7 +371,7 @@ Income-Price Equation	17239
 Income-based	1828
 Income-focused	6948
 Income-generating	17906
-Income. Assesses	17165
+Income. Assesses	17165,1405
 Incomes	970,11699,2050,304,1810
 Incomes and Expenses Validation	10388
 Incomes and Wages Commission. Appointment	12145
@@ -399,6 +410,7 @@ Incompatible	15129,35
 Incompatibles	15703
 Incompetence	16885
 Incomplete	7596,840,2816,24,875,216,45,1120,1526,1339,1376
+Incomplete Assets Register	18661
 Incomplete Bids	11240
 Incomplete Information	11940
 Incomplete Pension Records Review	14546
@@ -423,7 +435,7 @@ Inconvenience	5247
 Inconveniences	17157
 Inconvénients	17823
 Incorporar	1701,2445,7368
-Incorporate	170,788,856,174,2138,722,817,5600,589,360,185,638,1529,108,77,67,129,50,133,531,299,888,99,167,43
+Incorporate	170,788,856,174,2138,722,817,5600,589,360,185,638,1529,108,77,67,129,50,133,531,299,888,99,167,43,1338
 Incorporate AI	14812
 Incorporate AI Across Disciplines	12675
 Incorporate Compliant	16848
@@ -434,6 +446,7 @@ Incorporate Feedback	12675
 Incorporate SEP	17099
 Incorporate Universal Design for Learning	899
 Incorporated	3714,1182,2051,1239,2643,1671,2391
+Incorporated Company	18604
 Incorporated Trustees	7176
 Incorporated Trustees of Ikigai Innovation Institute	11993
 Incorporates	1686,6918,3812
@@ -445,7 +458,7 @@ Incorporating GATT and GATS General Exception	1243
 Incorporating IDF	17157
 Incorporating the FAIR Principles	14666
 Incorporating the National Transparency Platform	3430
-Incorporation	28,1658,1817,211,1962,3307,589,2384,20,65,205,673,392,2348,310,359,511,9,5,31,601
+Incorporation	28,1658,1817,211,1962,3307,589,2384,20,65,205,673,392,2348,310,359,511,9,5,31,601,982,89
 Incorporation and Nature	3714
 Incorporation of ACE GIE	15424
 Incorporation of Namibian	12895
@@ -584,12 +597,15 @@ Output KPI Sustainable Income Outperform	11131
 PART II INCORPORATION AND REGISTRATION	13299
 PART IX AMENDMENT OF THE INCOME	6921
 PART XI AMENDMENT OF THE INCOME	6921
+PIT Personal Income Tax PMU Project	18488
 PIT Personal Income Tax PPP Purchasing	16996
+PROPOSED STRATEGY TO INCORPORATE THE VIEWS	18504
 Payment of Incorporation Fees Available Through Online	12389
-Per Capita Income	13418
+Per Capita Income	13418,5065
 Percentage of Income	16975
 Personal Income	14985
-Personal Income Tax	1828,1651,8973,1172,1361,29,1997,94
+Personal Income Act	18594
+Personal Income Tax	1828,1651,8973,1172,1361,29,1997,94,1530
 Personal Income Tax Act	11947
 Personal Income Tax Annual Declaration	16955
 Personal Income Tax International Trade Tax	10997
@@ -597,6 +613,7 @@ Personal Income Tax Payment	16949
 Personal Income Tax Personal	17011
 Personal Income Tax Q Quarter QMS	14985
 Personal Income Tax Registration	16949
+Personal Income Tax Withholdings	18708
 Petroleum Profit Tax and Income Tax	11976
 Petroleum Profits Tax and Income Tax	11976
 Place of Incorporation Company Registration Number	12364
@@ -612,7 +629,9 @@ Prosperous Middle Income Country	13346
 Prosperous and Empowered Upper Middle Income Society	940
 Protegidas INCOMA Instituto Nacional	16875
 Public Incorporation	16853
+Public Investment Management PIT Personal Income	18577
 Qualcomm Incorporated	18349
+Quarter International Voice Traffic Incoming International	18444
 REGISTRATION AND INCORPORATION OF COMPANIES	3714
 RELATION TO MONTHLY GROSS NATIONAL INCOME	11262
 Rate Tax Rate Tax Income	11955

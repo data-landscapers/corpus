@@ -31,6 +31,7 @@ EPS Fintech GDP GT HC HRH	11131
 ERP and HRIS	15164
 Expenditure and HR and Payroll Modules	11231
 Finance and HR	15164
+GEWE Gender Equality and Women’s Empowerment HRCSL	18477
 GIR GPE GRM HRMIS ICR IDA	16436
 Gabon RAS HRM	15518
 General Services Agency HRD	16975
@@ -87,6 +88,7 @@ HRC WG.6 51 MRT 1 E.pdf GE.25-18155	17934
 HRC52	3583
 HRC61	15131
 HRC61 Mr. President	15131
+HRCSL	18455,22
 HRCouncil	13964
 HRD Database	12972
 HRD Fund	16861
@@ -111,9 +113,12 @@ HRHO.CA	9826
 HRIAs	4424
 HRIMS	13477
 HRIMS. Why HRIMS Matters for ECZ	13477
+HRIS Health System Managers	18478
 HRIS Human Resource Information System IaaS	6432
 HRIS Integrated Human Resource Information System	13306
+HRIS Integrated Human Resources Information System	18478
 HRIS System	6432
+HRIS Train	18478
 HRIS for Human Resource Management	4217
 HRJUD	11527
 HRM Human Resource Management HRMS Human	16942
@@ -125,7 +130,7 @@ HRM&D and IMS HRM&D and IMS	11986
 HRM&D. The NSP	11986
 HRM-related	1284
 HRMC Human Resource Management Circular MTEF	11986
-HRMIS	127,1157,2011,7490,1082,98,952,1622,358,38,30,66,59,428,143,775,422,38,26
+HRMIS	127,1157,2011,7490,1082,98,952,1622,358,38,30,66,59,428,143,775,422,38,26,1739
 HRMIS DPI	3295
 HRMIS Electronic Human Resource Management Information	16922
 HRMIS Human Resource Information Management System	12663
@@ -170,7 +175,7 @@ Human Resource HRIS Human Resource Information	15556
 Human Resource HRP Human Resource Plan	11261
 Human Resources for Health HRIS Human Resources	12976
 ICT HR-4	15164
-IFMIS and HRMIS	12917
+IFMIS and HRMIS	12917,5744
 Improved Efficiency and Productivity HRIMS	13477
 Inadequate HR	12255
 Indicates the HR-3 ICT	15164
@@ -213,6 +218,7 @@ Rivers HR Group	6946
 SAIDI Hrs ND	16714
 SFWF and HRDC	14818
 Senior Company Executives and HR	6632
+Sierra Leone FY-Financial Year HR-Human Resource	18576
 South African HR	10279,37
 Sparc HR	6511
 Standards Council Meetings Finance Committee HR	14736

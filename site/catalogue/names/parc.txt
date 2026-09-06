@@ -72,6 +72,7 @@ Inventaire Parcellaire Systématique Stratifié	14624
 JUIL-24 AOÛT-24 SEPT-24 Parc	15707
 LE PARCOURS	16482,47
 LOCALES DE LA PARCELLE DE TERRAIN	17817
+Landowners Validate Parcel Maps	18539
 Le Parc	998
 Le Parc Botanique	14489,1
 Le Parc Très Haut	15706
@@ -139,7 +140,7 @@ Parce	2514,951,1314,2110,385,80,376,100,43,805,41,2,1309,612,980,51,2980,30,581,
 Parceiro	10777,696,65
 Parceiros	9434,1332,11,1371,3814
 Parceiros Técnicos	11526,31,3978
-Parcel	12211,2310,952,1538,32
+Parcel	12211,2310,952,1538,32,1550
 Parcel Identification Number	14713,9
 Parcel Post	11129
 Parcel and Packet	12395

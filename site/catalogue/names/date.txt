@@ -13,6 +13,7 @@ ANNULATION APRES LA DATE FINALE	15901
 AOIO. Dates	1993
 APPLICATION DETAILS Date of Application Name of Originator	12364
 ARTICLE XII EFFECTIVE DATE	13031
+ASSEMBLED. Date	18541
 ASSOCIATION CONGO- Date	16100
 Abidjan. Date	2342
 Abuja. Date	18162
@@ -72,6 +73,7 @@ Authorization Date	16978
 Availability Date	17257
 Availability Date Disbursement	17257
 Avon Rise Avenue Date Daily	4896
+B Date SPG Disclosed	18728
 B. Key Dates C. Ratings Summary	16614
 BADEA's Board of Directors Date	12634
 BAOBAB MALI Date	18032
@@ -86,7 +88,10 @@ Bank. Governor Date Bank of Namibia	12943
 Bank. Name Recurrent Due Date Frequency	17441
 Bank’s Approval Date	17180
 Baobab Date	18032
+Bid Due Date	18543
+Bid Due Date. The Bidder	18543
 Bid Opening Date	13621
+Bid Submission Date	18543
 Bidder. Date	14763,233
 Bids. Date	13185
 Bloomberg Philanthropies Date for Health Initiative. Per	10972
@@ -150,13 +155,14 @@ Central African Republic. Approval Date	16398
 Change Date	9892,1
 Classification Expiration Date	1284,15638
 Clients Additional Financing Loan Closing Date	11924
-Closing Date	1179,1294,3832,2421,2053,2252,6,838,1013,24,59,12,207,1029,717,24
+Closing Date	1179,1294,3832,2421,2053,2252,6,838,1013,24,59,12,207,1029,717,24,1534,1,140
 Closing Date CKS	11269
 Closing Date Extension Components Results Legal	11924
 Closing Date Extension Financial Management Procurement	15731
 Closing Date Extension No Components	18359
 Closing Date Extension No Summary Description	16187
 Closing Date Guarantee Environmental and Social Risk	1284,15638
+Closing Date P166601 IDA-63670 Effective	18473
 Closing Date P167478 IDA-D4840 Effective	16638
 Closing Date P174620 IDA-D9950 Effective	15619
 Closing Date SANS	11269
@@ -181,12 +187,13 @@ Conformité Référence F DGR 100867 Date	16395
 Congo Date	11900
 Congo Reference Date	16464
 Connectivity Channel Gateway Payment Originator Date	12364
+Constitutional Affairs Date	18609
 Consultation Schedule Ref. Activity Date	17191
 Contact Person Designation Email Telephone Date	6432
 Contract Notice Date	13621
 Control VERSION DATE AMENDMENT AUTHOR Final	5244
 Conventions Date	14742
-Copy Date	12887,6,12,382,24,4,251,844,12,27,409
+Copy Date	12887,6,12,382,24,4,251,844,12,27,409,3579,25
 Corps Ech Grade Eche Ind Date	17900
 Correction des Dates	747
 Cost Review Date	18374
@@ -264,6 +271,8 @@ DDI Document ID DDI GIN 2024 FINDEX v02 M WB Producers Date	16665
 DDI Document ID DDI GMB 2024 FINDEX v02 M WB Producers Date	17045
 DDI Document ID DDI MRT 2024 FINDEX v01 M WB Producers Date	17925
 DDI Document ID DDI SDN 2025 WMS-R4 v01 M WB Producers Date	15024
+DDI Document ID DDI-SLE-StatsSL-AAS-2023-v03 Producers Date	18525
+DDI Document ID DDI-SLE-StatsSL-AAS-2024-v01 Producers Date	18567
 DE DATE DE REALIS ATION	16103
 DE DATE DE REALISA TION DOCUMENTAIRE	16103
 DE DATE DE REALISAT ION DOCUMENTAIRE	16103
@@ -365,7 +374,7 @@ Date Passed	11976
 Date Posted	5213
 Date Posted Zambia	5501
 Date Practice Area	13111,2402,37,1104
-Date Prepared	980,16,708,587,1165,7507,1706,163,279,412,264,50,716,23,937,1,36,743,361,1,20
+Date Prepared	980,16,708,587,1165,7507,1706,163,279,412,264,50,716,23,937,1,36,743,361,1,20,1781
 Date Price ZWG USD Equivalent Premium	4896
 Date Project	11869
 Date Received Time Received Subscriber’s BOZ	12364
@@ -411,12 +420,14 @@ Date of Application	12364
 Date of Assent	2726,1,1160,8637,7,1,3,11,3,13,67,1,669,6,13,3,1,17,11,1,1,19,32,93,1,987
 Date of Assessment	13381
 Date of Bid Opening ITB	13185
-Date of Birth	2291,1271,7714,585,420,129,621,6,270,4876
+Date of Birth	2291,1271,7714,585,420,129,621,6,270,4876,269
 Date of Birth Contact	16955
 Date of Birth DD MM YYYY Gender	14740
+Date of Birth. Once	18470
 Date of Board Approval	14888
 Date of Catastrophe Board Decision Date	13868
-Date of Commencement	3887,8636,1,1,1,2,2,1,1,3,11,2,1,13,67,1
+Date of Commencement	3887,8636,1,1,1,2,2,1,1,3,11,2,1,13,67,1,5926
+Date of Commencement Act No	18434
 Date of Completion	1778
 Date of Consultations Venue	16926
 Date of Deed	14713
@@ -426,20 +437,21 @@ Date of Gazette	11,576
 Date of Hearing	2307
 Date of Incident	3583
 Date of Invitation of Bids	14783,19
-Date of Issue	13068,239,1751,542
+Date of Issue	13068,239,1751,542,2975
 Date of Judgment	2307
 Date of Last Update	775
 Date of Metadata Production	15844,2
 Date of Occurrence	12151
 Date of Publication	6868,6753
 Date of Registration	12151,249
+Date of Revocation of Nationality	18598
 Date of Training	14738
 Date ofCommencement	14484
 Date- End Date	11863,2075
 Date-window	6292
 Date. Il	747
 Date.now	17188
-Dated	329,113,304,288,160,13,25,9,102,70,157,146,158,1,236,225,194,31,135,6,79,224,302,91,200,102,202,211,108,181,438,7,30,136,315,249,53,62,462,246,299,49,144,29,24,7,1,2382,146,568,924,427,556,408,46,49,578,148,1409,1550
+Dated	329,113,304,288,160,13,25,9,102,70,157,146,158,1,236,225,194,31,135,6,79,224,302,91,200,102,202,211,108,181,438,7,30,136,315,249,53,62,462,246,299,49,144,29,24,7,1,2382,146,568,924,427,556,408,46,49,578,148,1409,1550,2291
 Dated Brent	3583
 Dated'entréeenvigueur	15525
 Dateline	2228,924,6616,948
@@ -463,7 +475,7 @@ Dates de Remboursement	15901
 Dates of Budget Consultation The FY	15004
 Dates of Consultations	1778
 Dates of Data Collection	15620,223,1,2,819,380,880
-Dates of Data Collection Mode	10862,4162,2141,201
+Dates of Data Collection Mode	10862,4162,2141,201,1159,42,3
 Dates of Statutory Board and Board Committee Meetings	12951
 Datetime	12360
 Deadline Date	13575
@@ -477,6 +489,8 @@ Delivery Dates and Completion Dates	13185
 Democratize Secure Authentication Date	12244
 Description Date Mrs Sheree Shereni	4896
 Description Issue Date	8726
+Detail Targets and Dates of Sierra Leone Broadband	18485
+Detailed Targets and Date	18485
 Disbursement Date	15399
 Dividend Record Date	4896
 Djiri Brazzaville. Date	16367
@@ -493,6 +507,7 @@ EFFECTIVE DATE AND REVISION OF FEES	16844
 ELECTRIFICATION OF COMMUNITIIES Date ENVIRONMENTAL	1988
 ENGAGEMENTS DOUTEUX Date	18032
 EOL Target Date N	9124
+EPC-104 Date	18543
 ESIA and ESMP. Date of Consultation	17099
 ESPIG Date	13732
 EVENT DATE IS NOT THE PUBLICATION	8043
@@ -525,7 +540,7 @@ Effective Date. This Directive	14014,110
 Effective Date. WAEMU	16144
 Effectiveness Date	12980,352,1639,687,1
 Effectiveness Date CFA	15372
-Effectiveness Date Orig. Closing Date Rev	15619,1019
+Effectiveness Date Orig. Closing Date Rev	15619,1019,1835
 Einhaltung von Datenschutzgrundsätzen	11316
 El Meniaâ. Date T0	15943
 Election Date	4896
@@ -542,6 +557,7 @@ Estimated Appraisal Date Estimated Board Date	14553,3821
 Estimated Appraisal Date Financing Instrument Digital	3456
 Estimated Approval Date	11863,549,14,1512,1159,1578
 Estimated Approval Date Estimated Environmental	6539
+Estimated Board Approval Date	18728
 Estimated Board Date	996,11141,643,52,2104
 Eswatini Bank's Approval Date	13017
 Etat Version Date	14438
@@ -571,6 +587,7 @@ FORM CONTACT INFORMATION Date	34
 FORM Event Information Event Title Date	17099
 FY26-EpiC Lesotho-2026-002 Proposal Due Date	12754
 Facts Date	12689
+Feb-2023 Original Closing Date	18473
 Feb-2027 Projected Date for Full Disbursement	2473
 Federal Republic of Approval Date	15190
 Federal Republic of Somalia Signature and Date	15066
@@ -658,6 +675,8 @@ Issued Date	13031
 Item Origin Date	13185
 J.A Date	16425
 JOUR KUGEZA UBU COMPLEMENTED TO DATE	14862
+Jan-2019 Effectiveness Date	18473
+Jan-2023 Actual Mid-Term Review Date	18473
 Jan-2024 Financing Projected Date of Full Bank	1284
 Jan-2025 Estimated Approval Date	2291
 Joel Oladele Date	9636
@@ -675,12 +694,14 @@ Jun-2021. Estimated Board Date	761
 Jun-2023 Closing Date	10779
 Jun-2023 Original Closing Date	16638
 Jun-2024 Revised Closing Date	16638
+Jun-2025 Revised Closing Date	18473
 Jun-2026 Actual Date	16436
 KEY DATES	12327,1395,2237,31
 KEY DATES AFpINp roTAvaBlLE DAT	15601
 KEY DATES Approval	15704,33
 KEY DATES Approval Effectiveness MTR Review	15663,2186
 KEY DATES Concept Review	13742
+KEY DATES Dec	18534
 KEY DATES Decision Review	15702
 KEY DATES For Official Use Only	18350
 KEY DATES Jun	6579
@@ -695,7 +716,7 @@ KEZA Faith Non-Executive Director Date of Appointment	15023
 KINGDOM OF ESWATINI Date	12930
 KNPHI LIMS Tender Closing Date	7988
 Kenneth Sackey. Dateline	5932
-Key Dates	2712,1976,1891,254,95,949,2993,525,576,257,39,173,163,121,334,2101,460,116,2,276,66,559,67,289,6,79,17,374,35,399,54,48,127,217,4,1
+Key Dates	2712,1976,1891,254,95,949,2993,525,576,257,39,173,163,121,334,2101,460,116,2,276,66,559,67,289,6,79,17,374,35,399,54,48,127,217,4,1,118,61
 Key Dates Approval	14948
 Key Dates Guarantee Key Dates Approval	15905
 Key Events Planned Date Actual Date	15731
@@ -745,6 +766,7 @@ Loan Number Date	14132
 Loango. Date	15692
 Log Grievance Id Date Reported Name	17114
 Lékoumou. Date	15848
+M Key Dates	18623
 MB Date	18182
 MINISTRY OF EDUCATION Date	16963
 MISSION DE JESUS CHRIST SUR Date	15439
@@ -765,6 +787,7 @@ Matin Date	13613,170
 Matthew McNaughton Date	11006,1
 Maturity Date	16219
 Maturity Date. Each Interest Period	16219
+May-2019 Planned Mid Term Review Date	18473
 May-2022 Effectiveness Date	15619
 May-2022. Closing Date	13734
 May-2028 Projected Date for Full Disbursement	18359
@@ -880,6 +903,7 @@ PART XIII. OPERATIONAL DATE	16832
 PARTIES IMPLIQUEES PREA DATE INITIALE TEMPS	14425
 PBC Name Baseline Result Date	15969
 PCU Date of Consultation Venue of Consultation Email	16926
+PFM Reforms Policy Document Date	18488
 PIDDC01229. Date Prepared	12426
 PIDIA01308. Date Prepared	12412
 PM CDT Next Release Date	13930
@@ -913,7 +937,7 @@ PURA Use Only Item Entry Date	17250
 PURPOSE AND EFFECTIVE DATE	13376
 Pace of Implementation Implementation Start Date Operation	2473
 Parliament Date	8165,4390,9,5,1,3,20,20,25
-Parliament. Date	2576,784,1890
+Parliament. Date	2576,784,1890,13209
 Parties Involved Date Investigation Was Initiated	17114
 Passport Issue Date	11276
 Patrice SOKEGBE Date	8196
@@ -941,7 +965,7 @@ Program MS Current Closing Date Dec	13392
 Progress. Date	13858
 Project Closing Date	11863,2075,142,931
 Project Cost KEY DATES Effectiveness	15424
-Project Dates Bank Approval Date	15619,1019
+Project Dates Bank Approval Date	15619,1019,1835
 Project Effective Date	15661,483
 Project Effective Date. Liberia	16144
 Project Effective Date. WAEMU	16144
@@ -979,7 +1003,9 @@ REF.NA THEME PROPOSE PAR DATE	16103
 REHABILITATION AND EXPANSION OF SCHOOLS Date	1988
 RENOUVELLEMENT PERMISSIONNAIRE REFERENCE DECISION DATE	998
 REQUEST DETAILS Date of Application Name of Originator	12364
+REQUEST FOR EXPRESSION OF INTEREST DATE	18495
 REVISION HISTORY Date Summary	12574
+RSS Date	18661
 RUGWABIZA M. Leonard Non-Executive Director Date	15023
 RURAL DEVELOPMENT DATE	11261
 Receipt No. Approved Date Approving Officer	736
@@ -990,10 +1016,12 @@ Redaction Date	3569,62,1766
 Region Estimated Appraisal Date Estimated Approval	13111
 Region Estimated Appraisal Date Estimated Board	15513,37
 Regional Manager Date	8603
+Regulatory Reforms DESCRIPTION DATE OF TITLE	18488
 Release Date	15089
 Release Date Change Details	16923,1
 Release Description Go Live Date	12491
 Relevance Date	13824
+Renewable Energy Approval Date	18728
 René Kim and Vivek Sakhrani Date	12006
 Repaymenl Date of Principal and Interest	15399
 Repayment Date	15399
@@ -1007,6 +1035,7 @@ Republic Date	14865
 Republic of Approval Date Current Closing Date	15969
 Republic of Congo Date	5915
 Republic of Guinea-Bissau Reference Date	17172
+Republic of Sierra Leone Key Dates Key	18473
 Republic of Zimbabwe. Opening Date	4896
 Required Date	1778
 Required Date of Birth	12281
@@ -1068,6 +1097,7 @@ Sep-2021. Current Closing Date	15802
 Sep-2024 Actual Mid-Term Review Date	15619
 Sep-2025 Estimated Approval Date	14015
 Sep-2025 Expected Closing Date	3562,11414
+Sept-2024. Closing Date	18625
 Service Date	736
 Service Date Application No. Application License	736
 Service Delivery Date	12400
@@ -1075,6 +1105,7 @@ Service Model Start Date End Date	6432
 Settlement Date	4896
 Shelby Brewster Date	6948
 Shipment Receipt Date	12360
+Sierra Leone Date	18559
 Signature Date	1770,144,11842,239,435,482,785,1239
 Signature Date. ARTICLE V	16936
 Signature Date. ARTICLE VI	14430
@@ -1089,6 +1120,7 @@ Signature........................................... Date	1223
 Simple Date	15593
 Smart Metering Standardisation Framework Endorsement Date	15842
 Social Systems NA DGCL Due Date	17505
+South Sudan. Approval Date	18625
 Specified Parts Commencement Date	12575
 Speech Date Start Date End Date	11215
 Speed. Date	13218
@@ -1105,7 +1137,7 @@ Sénégal. Date	18352
 TARGET DATE DEC	14022
 TECHNOLOGIES DATE	11265
 TELECOMMUNICATIONS AND THE DIGITAL ECONOMY Date	15901
-TF Status Approval Date Signing Date	15619,1019
+TF Status Approval Date Signing Date	15619,1019,1835
 TF05993-GN SOLLICITATION DE MANIFESTATIONS D'INTERET Date	16681
 TGR Due Date	17505
 THEME PROPOSE PAR DATE DE REALISATIO	16103
@@ -1131,6 +1163,7 @@ Times Reporter Publication Date	9628
 Tissemsilt Date T0	15943
 Title Date	15968,2002
 Title Email Address Telephone Number Date	17212
+Title Type Date Label	18581
 Tour Date	12599
 Tourism Dashboard Launch Date	12620
 Tracking Number Date	1988
@@ -1152,10 +1185,10 @@ VISITE FINALE DATE JOUR MOIS NOM	13300
 VISITE FINALE DATE JOUR NOM	13300
 Vacoas Start Date	14746
 Version Changes Date V	14784
-Version Date	13084,675,1265,819,1,2,819,380,880
+Version Date	13084,675,1265,819,1,2,819,380,880,600,42
 Version Date Author Remarks	12360
 Version Date of Publication Date of Last Update	15714
-Version Version Date	15620
+Version Version Date	15620,3025,79
 Versionfinale Datederévision	15525
 Villages. Date	8999
 WATER AND LAND REFORM DATE	13024
@@ -1170,7 +1203,7 @@ X DATE	3972
 X Date	17841
 X. RÉTROPLANNING ETAPES Date	13635
 Year Result Date Result Date Result	4653,11316,63,155,2172
-Year Value Date Value Date	2712,5165,2993,525,576,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1
+Year Value Date Value Date	2712,5165,2993,525,576,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179
 Year Value Date Value Month	4688,13216
 ZIPSS SYSTEM Designation Comment Signature Date	12364
 ZRCP Date	1988

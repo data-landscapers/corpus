@@ -1,6 +1,7 @@
 AAID’s Human Capital Development and Economic Transformation	16985
 ABC CAPITAL Data Processor INST-9951998473E NAIROBI	7167
 ABC CAPITAL LTD Data Controller INST-9951998473E	7167
+ACCESS DIGITAL SKILLS AND HUMAN CAPITAL	18454
 ACCESS PLATINUM CAPITAL LIMITED Data Processor	7167
 ADMINISTRATION Capitaine NGANGA	15744
 ADMINISTRATION Capitaines	16100
@@ -11,6 +12,7 @@ AFC Capital Partners	11657
 AFRICAN CAPITAL LIMITED Data Controller INST-1285980D14C	7167
 AGBAOU Gold Operations SA Capital	2342
 AGIP CAPITAL LIMITED Data Processor INST-943008CB7A5	7167
+AJ Capital	18748
 ALA Capital and Sanlam Investments East Africa	8624
 ALBA CAPITAL LIMITED Data Controller INST-631433E8DD4	7167
 ALBA CAPITAL LIMITED Data Processor INST-631433E8DD4	7167
@@ -158,6 +160,7 @@ CAPEX Capital Expenditures CE Citizen Engagement	15621
 CAPI Computer Assisted Personal Interview Figure	582
 CAPI Computer-Assisted Personal Interview CCT Census	16921
 CAPI Manual	15574
+CAPI and PAPI	18464
 CAPI-MODELS Traitement	10821
 CAPI-based	6106
 CAPI. Ce	18204
@@ -165,7 +168,7 @@ CAPI1	10777
 CAPITAINE	15524,2304
 CAPITAINE DE CORVETTE	15524
 CAPITAINE DE VAISSEAU	15524
-CAPITAL	1783,1,1,1,1,1,1,1,1,1,1,2,1,1,1404,1,1,1,1,1,2,1,1,917,769,759,1427,1,1,1,1,1,2,1,4379,1624,4441
+CAPITAL	1783,1,1,1,1,1,1,1,1,1,1,2,1,1,1404,1,1,1,1,1,2,1,1,917,769,759,1427,1,1,1,1,1,2,1,4379,1624,4441,1022
 CAPITAL A INVESTMENT BANK LIMITED Data	7167
 CAPITAL ACCOUNT	17235
 CAPITAL AIRTIME LIMITED Data Processor INST-857110AA099	7167
@@ -324,7 +327,7 @@ Capitaine de Vaisseau MIBISSA Jean Claude	16381
 Capitaine de Vaisseaux Cheikh Lahmoud Hemetti Commandant	17895
 Capitaines	15524,576
 Capitais Maioritariamente Públicos	10783
-Capital	10,226,12,692,80,681,77,7,2,1,200,74,72,208,96,337,182,245,2,1,378,131,495,210,109,320,47,1,76,230,12,324,117,32,225,1,98,137,38,80,75,239,156,150,52,145,2,1,487,34,156,26,16,179,2,149,310,19,8,135,178,55,3,488,54,30,13,165,510,16,38,516,45,13,2,5,1,16,2,36,43,5,34,64,15,26,125,26,3,2,4,9,49,27,23,62,46,30,83,55,240,19,74,98,98,78,110,97,27,44,35,68,189,181,100,71,32,38,10,83,63,52,59,176,302,164,33,120,436,79,23,15,8,84,23,9,1,17,16,26,75,182,212,35,30,9,8,20,60,5,46,11,20,25,32,28,18,6,42,62,57,4,137,43,11,166,8,93,46,12,31,171,14,201,30,70,2,25,6,21,109,88,42,1,21,59,1,168,18,353,53,4,70,7,296,5
+Capital	10,226,12,692,80,681,77,7,2,1,200,74,72,208,96,337,182,245,2,1,378,131,495,210,109,320,47,1,76,230,12,324,117,32,225,1,98,137,38,80,75,239,156,150,52,145,2,1,487,34,156,26,16,179,2,149,310,19,8,135,178,55,3,488,54,30,13,165,510,16,38,516,45,13,2,5,1,16,2,36,43,5,34,64,15,26,125,26,3,2,4,9,49,27,23,62,46,30,83,55,240,19,74,98,98,78,110,97,27,44,35,68,189,181,100,71,32,38,10,83,63,52,59,176,302,164,33,120,436,79,23,15,8,84,23,9,1,17,16,26,75,182,212,35,30,9,8,20,60,5,46,11,20,25,32,28,18,6,42,62,57,4,137,43,11,166,8,93,46,12,31,171,14,201,30,70,2,25,6,21,109,88,42,1,21,59,1,168,18,353,53,4,70,7,296,5,159,33,17,56,46
 Capital Account	17235
 Capital Account Overall Balance	17990
 Capital Accounts	17236
@@ -338,11 +341,15 @@ Capital Adequacy Requirements	12365
 Capital Agenda	15059
 Capital Application	10762
 Capital Article	15102
+Capital Asset Management	18500
+Capital Asset Management Develop	18488
 Capital Assets	11230
 Capital Balance	11131
 Capital Budget	11136
+Capital Budgeting	18577
+Capital CAPEX	18509
 Capital CMS Content Management System CSS	236
-Capital City	12253,38,875,782
+Capital City	12253,38,875,782,4537
 Capital City Lilongwe	12953,52
 Capital Construction	15604
 Capital Culture Infrastructure	16942
@@ -359,7 +366,7 @@ Capital Enabling PCM Private Capital Mobilization	1264
 Capital Enabling PDO Project Development Objective	15659
 Capital Entretanto	11569
 Capital Ethiopia	8671
-Capital Expenditure	3583,2417,1695,5222,34,1884,824,268,1051,257,129
+Capital Expenditure	3583,2417,1695,5222,34,1884,824,268,1051,257,129,1080
 Capital Expenditure Additions	12951
 Capital Expenditure CBC Competency-Based Curriculum CBL	16876
 Capital Expenditure CSP Cloud Services Provider	16923
@@ -471,6 +478,7 @@ Capital Place	3386
 Capital Privado	17112
 Capital Programme	12976
 Capital Project	7751,3809,1899,1731
+Capital Project Analysis	18577
 Capital Project Grants Foreign Direct Investment	17257
 Capital Project Process Manual	14830
 Capital Project Product	16187
@@ -501,6 +509,7 @@ Capital and Corporate Governance	13060
 Capital and Digitally Informed Citizenry Enhance Digital	12453
 Capital and Financial Accounts	13868
 Capital and Liquidity	15023
+Capital and O&M	18537
 Capital and Resilience Project Environmental and Social Risk	10768
 Capital and Women and Girls' Empowerment	10829
 Capital da República	15344
@@ -581,7 +590,9 @@ Comisario Jefe Superior Capitán de Corbeta Comandante	4209
 Comisario Principal Capitán Capitán Infantería Comandante	4209
 Commissariat Capitaine	15524
 Compact Private Capital Mobilization Public Private	11468
+Compilation of Detailed Capital Project Data	18488
 Comptes. REPARTITION DU CAPITAL	2342
+Conduct of Capital Project Analysis The World	18577
 Consolidation of Human Capital	13938
 Constituer le Capital Humain	17824
 Construction Input Price Index CMA Capital	2775
@@ -644,6 +655,8 @@ Development of African Financial Markets Capital	6938
 Di Capital	4453
 Diamond Capital	16425
 Digital Human Capital	15480
+Digital Skills and Human Capital Development	18454
+Digital Skills and Human Capital Development Digital	18454
 Digital Skills and Human Capital Development Ensure	1161
 Digital and Human Capital Reform DPF	763,418
 Directeur des Marchés de Capitaux	18400,2,1
@@ -701,6 +714,8 @@ Eswatini Health System Strengthening for Human Capital	559
 Eswatini's Health System Strengthening for Human Capital	538
 Ethiopian Capital Market Authority	7909,1498
 European Union FCB First Capital Bank	13005
+Examination BoG Board of Governors CAPI Computer	18460
+Executive Summary. Human Capital Development	18461
 Exits AVCA’s Venture Capital Exit	4972
 Expenditure Recurrent Capital Block Grants	5655
 F. Capital	14897
@@ -742,6 +757,7 @@ Foreign Capital Alone Cannot	9602
 Foreign Position Exchange Reserves Capital	11134
 Foreign Private Capital Census	15107
 Foreign Private Capital Census Period	15107
+Foreword Human Capital Development and Education	18460
 Formation Brute de Capital Fixe	9276,8669
 Formation Brute de Capital Fixe FBU	13377
 Framework Science and Technology Development. Human Capital	12512
@@ -778,6 +794,7 @@ Gordhan. Mamor Capital	13269
 Governement Gouvernement Capital Humain Survey	17824
 Government Capital Expenditure	12962
 Government Capitation	2775
+Government’s Human Capital Development	18547
 Graduate Trainee Human Capital His Royal	11131
 Grand Capital	10468
 Grants Capital	14746
@@ -786,9 +803,11 @@ GreenHouse Capital	53
 Greenhouse Capital	9056
 Grievance Redress Service HCI Human Capital	16896,562
 Gross Capital	236
+Gross Capital Fomation	18483
 Gross Capital Formation	236
 Gross Capital Provider Buildings Equipment Office	236
 Gross Domestic Product Per Capita	8950
+Gross Fixed Capital Fomation	18483
 Gross Fixed Capital Formation	2775,12055,2166
 Gross Fixed Capital Formation GIBA Ghana	236
 Gross Fixed Capital Formation and FDI Djibouti	13868
@@ -831,12 +850,15 @@ High Court Human Capital Management System	12920
 Ho the Volta Regional Capital for RCCs and Municipal	16524
 Hong Kong-based Venture Capital	11911
 Human Capital	969,3559,2409,3831,363,3,131,204,455,31,265,105,31,2210,186,145,107,134,41,301,38,161,533,664,66,9,165,23,731,431
+Human Capital Acceleration for Inclusive Growth	18456
+Human Capital Across	18533
 Human Capital Agenda	15059
 Human Capital Country Brief Burkina Faso	15743
 Human Capital Delivery Model	15059
-Human Capital Development	1154,2707,667,748,7080,608,510,1512,1875,110,4,164,150
+Human Capital Development	1154,2707,667,748,7080,608,510,1512,1875,110,4,164,150,1172,68,3
 Human Capital Development Enabler. This Enabler	12964
 Human Capital Development HTS HIV Testing	12976
+Human Capital Development Incubator	18446
 Human Capital Development Must Be Systemic	7548
 Human Capital Development Objective	4528
 Human Capital Development Objective Lagging Indicators	12512
@@ -844,12 +866,14 @@ Human Capital Development Pillar	17139
 Human Capital Development Pillar of MIP-1. Education	13122
 Human Capital Development Policies and Goals	16861
 Human Capital Development Project	13022,1949
+Human Capital Development and Nation Building	18486
 Human Capital Development and Social Protection	13685
 Human Capital Development and Special Programmes	7480
+Human Capital Development. The Ministry of Agriculture	18496
 Human Capital Education Innovation Science	12512
 Human Capital Formation	10768
 Human Capital Government	16996
-Human Capital Index	1353,540,19,8856,7,54,134,1,453,152,336,13,481,13,129,570,203,17,656,19,891,162,454,1,4,35,81,27,775,218,242,26,30,44,462,412,234
+Human Capital Index	1353,540,19,8856,7,54,134,1,453,152,336,13,481,13,129,570,203,17,656,19,891,162,454,1,4,35,81,27,775,218,242,26,30,44,462,412,234,350,4
 Human Capital Index Australia	15634
 Human Capital Index Hands-on Expanded Implementation	15553
 Human Capital Index Report	15447
@@ -857,6 +881,7 @@ Human Capital Index and Sub-components Comparison	17870
 Human Capital Index.35	10856
 Human Capital Indexes	15658,1456
 Human Capital Information Management System	4612,140,9571
+Human Capital Investment Plan	18532
 Human Capital Learning Solutions	8077
 Human Capital Management	11131,824,4968,1
 Human Capital Operations Linda Sacolo	11131,3
@@ -891,6 +916,7 @@ Human Capital and Resilience Building Cash	10768
 Human Capital and Skills	11469,5506
 Human Capital and Women and Girls’ Empowerment	15661
 Human Capital and Workforce	12240
+Human Capital and Workforce Innovation	18480
 Human Capital. Paris	15447,33
 ICH Indice du Capital Humain ICS International	13341
 ICT Graduates Per Capita	16975
@@ -918,6 +944,7 @@ Improve Human Capital Capacity	12552
 Improve Human Capital Capacity. Performance	12552
 Improved Human Capital and Digitally Informed Citizenry	12453,892
 Improving Human Capital Endowments	13331
+Increase of Share Capital	18556
 Incremental Capital Output Ratio	8891
 Indicator Capital Adequacy Liquidity Ratio Credit	11134
 Indice du Capital Humain	13341
@@ -989,6 +1016,7 @@ Le Capitaine Amadou KONARE	17828
 Le Capitaine Ibrahim TRAORE	1967
 Le Capital	17983
 LeapFrog and Tana Africa Capital	908
+Leone HCI Human Capital Index ICT	18454
 Lesson TLcom Capital	399,130
 Let’s Make Platform Capitalism More Accountable	226
 Liberia Absence of Financial Risk Capital Firms	16876
@@ -1041,6 +1069,7 @@ Metier Capital Growth Fund III	14366
 Metier Capital Growth Fund III. EM-Three	10735
 Million Capital Raise Anchored	9735
 Minimum Capital Baseline	12882
+Minimum Issued Share Capital	18556
 Minimum Liquid Capital KES	10738
 Minister for Kampala Capital City and Metropolitan Affairs	11848
 Ministry's Capital Projects	12982
@@ -1062,6 +1091,7 @@ National Capital	15340
 National Venture Capital Company of Zimbabwe	12495
 National Venture Capital Company of Zimbabwe National	12495
 Nationwide Human Capital and Women and Girls’ Empowerment	10829
+Net Export Capital Formation Government Final	18483
 NewTrails Capital	7015
 Nexus Core Systems and Lloyds Capital	3049
 Niger First Resilient Growth and Capital-Building	18198
@@ -1137,12 +1167,13 @@ Per Capita Consumption of LPG	12256
 Per Capita Figure	15063
 Per Capita Government Expenditure	14773
 Per Capita Health Expenditure	18162
-Per Capita Income	13418
+Per Capita Income	13418,5065
 Performance of Capital Markets	6938
 Planning Director General of Capital Market Authority	6938
 Plc CAPEX Capital Expenditure CCU Customer	12062,6124,31
 Plus Venture Capital	12339
 Polychain Capital	9151
+President Bio Highlights Human Capital and Infrastructure	18493,15,6,7,45
 President and CEO of Biu Capital	9371
 Price Information Capital Revenue	3583
 Priority Outcomes for Accelerating Human Capital	15059
@@ -1200,6 +1231,7 @@ Redress Mechanism HCI Human Capital Index	10768
 Redress Service HCI Human Capital Index	15661
 Redress Service Human Capital Index Intermittent	15658
 RegalStone Capital	7579
+Regional CAPI Facilitators	18464
 Regional Comparison of Global Venture Capital	4972
 Regional Technology Financial Capital	12444
 Registration for Capital Market Services	9117
@@ -1241,6 +1273,7 @@ SING Capital. Selon	11080
 SOCIETE GEOWORKS Capital	15786
 SOCIÉTÉS CAPITAL PFP RN	2342
 SOCIÉTÉS CAPITAL PFP4 RN	2342
+SOGREA Milestone-triggered Capital Expenditure	18509
 SOMALIA EDUCATION FOR HUMAN CAPITAL	14971
 SOUS-SECTION Il DES REVENUS DE CAPITAUX	15999
 SSA EAP Capital	11149
@@ -1262,11 +1295,13 @@ Sequoia Capital	5482
 Sequoia Capital India	12244
 Sequoia Capital and Alphabet. Starlink	4351
 Sequoia Capital’s Julien Bek	5482
+Serious Loss of Capital	18556
 Service Land and Network Furniture& Motor Capital	236
 Services BoP Current Account BnB Capital	17235
 Services Industrie du Numérique Capital Humain Confiance	17824
 Set Capital	12882
 Shock Responsive Safety Net for Human Capital	15006
+Sierra-Leone Telecom Infrastructure Human Capital Index	18456
 Sistema de Gestão de Capital Humano	15476
 Skills Gaps Banking Insurance Pensions Capital	14997
 Skills and Human Capital Data	3861
@@ -1292,6 +1327,7 @@ Standard Chartered Foundation and Village Capital	10745
 Starting Paid-Up Capital	12882
 Startup Boost Capital	3131
 State Department for Public Service and Human Capital	14546
+Stores and Inventory Management and Capital Asset Management	18488
 Strengthen Virtual Asset Regulation The Capital	11501
 Strengthened Human Capital	14627,511
 Strengthening Human Capital and Social Cohesion	16384
@@ -1342,7 +1378,7 @@ Tylico Capital and Partners. Melchior Koba Lire	16821
 UAE Capital Market Authority	11496
 UIT. VII.4 Indice du Capital Humain	13341
 UN Capital	12376
-UN Capital Development Fund	12941,5211
+UN Capital Development Fund	12941,5211,351
 UN Capital Development Fund All	12941
 UN Human Capital Index	10785
 UNCDF United Nations Capital Development Fund	11960
@@ -1360,7 +1396,7 @@ Un Capital Humain	17983
 Under the Human and Social Capital Development	9959
 Une Seule Sante. Capitalisant	14662
 United Capital Bank	8477,6420,151
-United Nations Capital Development Fund	273,92,12,287,215,235,371,1176,1579,5541,1060,515,604,981,314,91,1,41,652,3644,49
+United Nations Capital Development Fund	273,92,12,287,215,235,371,1176,1579,5541,1060,515,604,981,314,91,1,41,652,3644,49,830
 United Nations Capital Development Fund United	12376
 United Nations Capital Development Fund's Leaving	11773
 United Nations UNCDF United Nations Capital	17105
@@ -1399,6 +1435,7 @@ Venture Capital Healthcare	16266
 Venture Capital None	7798
 Venture Capital Venture Debt Average	4972
 Venture Capital Venture Debt Average Volume	4972
+Venture Capital VoIP Voice	18454
 Venture Capital Zimbabwe Broadcasting Corporation Zimbabwe	4528
 Venture Capital for Digital Start-ups Sub-Saharan Africa	212,941
 Venture Capitalists	1885
@@ -1411,6 +1448,7 @@ Verod Capital Management	1439
 Village Capital	6231,4514,3488,2583,1
 Village Capital and Hatch Blue	10464
 Village Capital. Trade Lenda	16817
+Vision Capital	18616
 Vivien de Capistran Nvalé	6611
 Volume of Venture Capital Exits	4972
 Volume of Venture Capital Funds	4972

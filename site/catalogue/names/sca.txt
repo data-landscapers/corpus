@@ -1,5 +1,6 @@
 A. Scanning	14713
 ABSOLUTE SCALES LIMITED Data Controller INST-970688CBA89	7167
+AFENET Scaled	18478
 AI Scales	16545
 About Scancom PLC MTN Ghana	5136
 Access Scale Up Project-Phase	16654
@@ -8,6 +9,8 @@ Action Steps Impact Scaling-up Cases	14997
 Africa Must Scale Beyond Borders Looking	8111
 African Power Pool SCADA Supervisory Control	12399
 African Tech Scale-Up Fund	819
+All Districts MoH Scaled	18478
+Assignment of Scarce Resources	18444
 BENIN ELECTRICITY ACCESS SCALE-UP PROJECT	15515
 Benin Electricity Access Scale-up Project	15515
 Board of Scancom PLC	8813
@@ -107,6 +110,7 @@ Future-Proofing and Scalability This Policy	11995
 GBON-compliant. SCAA	14949
 GCF-SAP CREWS Scaling Up Framework for Early	17065
 GEAR APPROACH TO SCALE-UP Drawing	10852
+GIZ Scaling	18478
 Gear Scale Approach	10852
 General Delegation for Large Scale Public Works	11905
 Generation Intel Xeon Gold Scalable Processor	12681
@@ -132,6 +136,7 @@ ID. Scan	12209
 IDA Scale-Up Facility	10997
 IDA Scale-Up Window	3604,176,11751
 IDA Scale-Up Window-Shorter Maturity Loan	11905
+INCENTIVES AND SCARCE RESOURCES	18463
 INFORMATION ON WEBSITES SCAMS OR BATTERY	11964
 INFORMATION ON WEBSITES SCAMS OR INCONSISTENT	11004
 Immigration Scalabrini Centre of Cape Town	11986
@@ -156,6 +161,7 @@ Large Scale Network Savvy Content Providers	14864
 Large Scale Renewable Energy and Power Infrastructure	12576,1
 Legal Scaffolding	5513,38
 Licensing of Telecommunication and Scarce Resources	12294
+Little Scarcise	18475
 Luisa Scarcella	14932
 M Nigeria for Women Program Scale Up	11469
 M P181248 Energy Scale-up Project IPF	11469
@@ -166,9 +172,11 @@ MINALOC. Scale	14935
 MIT's Fab Labs Scaled Around	10834
 MTN South Africa and ZTE Scale AI-Powered	8112
 Malaria Vaccine Scale-up Application	16971
+Management of Scarce Resources	18454
 MariaRosa Scarlata and David Lopez-Berzosa	226
 Market Scan	12934
 Market Scan of Digital Agriculture Solutions	14674
+Massimo Scalorbi	18700
 Massive Scalability	17126
 Match Technology Prioritize Scale Fit-for-purpose	12457
 Medium Enterprises Small Scale Enterprise Loan	11131
@@ -180,7 +188,7 @@ Mobile Money Scales Up Fintech	8968
 NAWEC’s SCADA	16966
 Nairobi SCAN ME	12151
 National Development Plan SCAPP	17893
-National Scale	11006,3813
+National Scale	11006,3813,3738
 National Scale Develop	14819
 Niger Basin Authority SCAPRUs Community Early	18198
 Nigeria AI Scaling Hub	8010
@@ -194,7 +202,7 @@ Operational Scale	12053
 Operational Scaling	8283
 Organiser Time Location Attendance RATING SCALE	17099
 PAGE-IMAGE SCAN	2561
-PAPSS Scan	17242
+PAPSS Scan	17242,1247
 PAPSS. Scan	11002
 PERFORMANCE AND SCALABILITY STANDARDS	11952
 PRINTERS AND SCANNERS STANDARDS AND GUIDELINES	34
@@ -240,7 +248,8 @@ SAIs Scale	17364
 SAST Static Application Security Testing SCA	11952
 SCA Schutz JA	2307
 SCA Supreme Court of Appeal SCM Supply	11198
-SCADA	1539,6034,2496,2330,947,2313,43,67,128,72,14,72
+SCADA	1539,6034,2496,2330,947,2313,43,67,128,72,14,72,2429
+SCADA Supervisory Control and Data Acquisition	18614
 SCADA Supervisory Control and Data Acquisition SDG	15515
 SCADA-type	87
 SCADD	10812,4825,1,323
@@ -276,8 +285,9 @@ SCAPP. Ce	17907
 SCAPP. En	17907
 SCAPP. Page	17873
 SCAPP. Sur	17867
+SCARCE RESOURCES DATA GOVERNANCE	18454
 SCARP	11435
-SCATEC	10975
+SCATEC	10975,7562
 SCAUR	15473
 SDF Sans Domicile Fixe SCA Stratégie	18286
 SMB Scanner	3336
@@ -309,7 +319,7 @@ Scalar Decarbonization Fund	5444
 Scalar Infrastructure and Real Assets	5393,53
 Scalar International	5393,38
 Scalar International's Africa Decarbonisation Fund	5431
-Scale	899,357,35,1,1,1,1,1,136,228,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,149,4,57,172,1,1,1,1,1,85,139,9,266,75,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,303,425,155,85,45,217,19,291,176,1,1,1,1,1,59,30,64,224,41,55,82,172,138,391,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,257,75,72,368,64,342,105,18,267,246,263,20,134,36,175,15,463,414,628,421,388,148,12,196,105,247,7,2,7,7,78,76,250,303,53,36,395,80,17,12,1,55,111,367,80,244,624,505,39,83,142,40,71,1,53,1,49,13,12,38,171,88,330,130,273,235,730,21,80,96,18,128,218,230,568
+Scale	899,357,35,1,1,1,1,1,136,228,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,149,4,57,172,1,1,1,1,1,85,139,9,266,75,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,303,425,155,85,45,217,19,291,176,1,1,1,1,1,59,30,64,224,41,55,82,172,138,391,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,257,75,72,368,64,342,105,18,267,246,263,20,134,36,175,15,463,414,628,421,388,148,12,196,105,247,7,2,7,7,78,76,250,303,53,36,395,80,17,12,1,55,111,367,80,244,624,505,39,83,142,40,71,1,53,1,49,13,12,38,171,88,330,130,273,235,730,21,80,96,18,128,218,230,568,327
 Scale ADR	17139
 Scale AI	4972,3007
 Scale Accelerators	2957
@@ -383,7 +393,7 @@ Scale. Washington	10964,960
 ScaleUp	9919,4786
 ScaleUp Namibia	1857,10593
 ScaleUp Program	14705
-Scaled	11965,3116,2068
+Scaled	11965,3116,2068,1329
 Scaled Roads M1 Narrow Money	2775
 Scaled-UP	2819
 Scaled-up	15960
@@ -392,7 +402,7 @@ Scaleup Corridor	4194
 Scaleway	5846,1033,1880
 Scaleway and S3NS	5846
 Scaleway. Schwarz Digits	6879
-Scaling	396,1432,1178,1760,2782,332,95,401,722,1059,31,484,30,61,27,3,338,5,86,73,15,262,51,329,85,104,34,35,4,41,42,205,5,182,320,86,300,1,1060,218,144,104,25,50,76,57,330,199,2,104,248,830,123,30,96,197,169,45,287,80,92
+Scaling	396,1432,1178,1760,2782,332,95,401,722,1059,31,484,30,61,27,3,338,5,86,73,15,262,51,329,85,104,34,35,4,41,42,205,5,182,320,86,300,1,1060,218,144,104,25,50,76,57,330,199,2,104,248,830,123,30,96,197,169,45,287,80,92,508,8
 Scaling AI	1467,9668
 Scaling AI Readiness Across Borders	12723
 Scaling AI for SMEs	6886
@@ -440,6 +450,7 @@ Scaling-up Access	11380
 Scaling-up Homegrown School Feeding Programme	12985
 Scaling-up Impact	15491
 Scaling-up Impact and Getting Back	10964,2367,1,2186,35
+Scalorbi	18700
 Scam Alert	10311
 Scam Alert Tool	10580
 Scammers	3962,5654
@@ -449,7 +460,7 @@ Scan Line Corrector	17140
 Scan QR	899
 Scan and Pay	14830
 Scan des QR	13513
-Scan the QR	11332,5299
+Scan the QR	11332,5299,1858
 ScanForm	16195
 Scancom	10037
 Scancom PLC	89,835,4212,573,1782,1023,93,206,1980
@@ -473,7 +484,7 @@ Scanner Features Ultrasonic Multi Feed Detection	34
 Scanner Implementation	13053
 Scanner Specifications DATE QUANTITY	34
 Scanner Speed Details	34
-Scanners	34,11826
+Scanners	34,11826,6655
 Scanners Standards and Guidelines	34
 Scanners Standards and Guidelines The ICT Unit	34
 Scannez	14480
@@ -482,15 +493,17 @@ Scanning and Archiving of Records	12947
 Scanthis Agile One Exosquelette Les Sucrées-Salées	16693
 Scaranello	16996
 Scarascia-Mugnozza	16996
-Scarce	1940,8889,4651
+Scarce	1940,8889,4651,2983
 Scarce Resource	15473
 Scarce Resource Management	17251
 Scarce Resources Resources	13346
+Scarcise. Population	18475
 Scarcity	11525,902,17,4713
 Scarcity of Training-Quality Data	3810
 Scardamalia	12329
 Scare	1940,9024
 Scarjov	10752
+Scarlett Hawkins	18665
 Scarpe MBUYAMBA Espérant	10513
 Scarrow	7886
 Scattered	14947,8

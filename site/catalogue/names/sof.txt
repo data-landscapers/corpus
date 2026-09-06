@@ -23,7 +23,10 @@ Application Software Security Directives	15161,1
 Application Software Security Directives Document History	15161
 Application Software Security Directives URL	15162
 Aquisição de Software de Apuramento	11561
+Audit Follow-Up Software Rollout	18577
+Audit Follow-up Software	18577
 Authors Javaid Iqbal Sofi	5418
+Availability of Geospatial Software and Hardware	18476
 Availability of Software and IT Staff	13042
 B. SOFTWARE	16867
 BEYOND INTOCH SOFTWARE LIMITED Data Controller	7167
@@ -64,7 +67,7 @@ Coquina Software Company Ltd	3862
 Core Software Developer Sabri Salumu	11623
 D. USING DIFFERENT SOFTWARE MODELS	14853
 DATI Softwares Data Controller INST-94033572C3C VIHIGA	7167
-DHIS2 District Health Information Software	14666,393
+DHIS2 District Health Information Software	14666,393,3609
 DHIS2 District Heath Information Software	13341
 DHIS2 and SOFIA	12196
 DPS Sofala	2228
@@ -78,7 +81,7 @@ Desenvolvimento de Software	11413
 Development of Integrated ID and CRVS Software	12241,839
 Digital and Soft Skills Training	11863
 Dignity Training Eswatini Payment Switch Soft	11131
-District Health Information Software	771,441,7164,1812,690,3,38,498,586,22,27,9,135,1433,993,44,232,25,552,237,247,397,66,445,29,26,19,30
+District Health Information Software	771,441,7164,1812,690,3,38,498,586,22,27,9,135,1433,993,44,232,25,552,237,247,397,66,445,29,26,19,30,1561
 District Health Information Software DIEM	15475
 District Health Information Software and National Health	15833
 Districts Health Information Software	14442
@@ -189,11 +192,13 @@ Madame Sofia ONIFADE Membres	16485
 Mahmoud Sofrata	7397
 Maintainace Software	7988
 Management Software	11209
+Management Software CoP Community of Practice CPD	18478
 Managing Director of Soft Alliance and Resources Limited	7973
 Manica Frelimo Sofala Frelimo Inhambane Frelimo	12201
 Mantra Softech	4292
 Marriage Registration Software	13080,15
 Medical Device Software	11268
+Meteorological Agency SOFF Systematic Observations Financing	18578
 Micronics Consulting and QBS Software Africa	17621
 Mineen Senior Electrical Engineer and Software	17260
 Moti Engineering's VP of Enterprise Software Solutions	10193
@@ -204,6 +209,7 @@ NITDA's National Software Quality Assurance Framework	5665
 NITDA. Software Developers and MDAs	5665
 Name of Software	34
 National Association of Software and Services Companies	11284
+National Open Source Software First Policy	18586
 National Software Development Guideline	5665,2759,15
 National Software Forge	10004
 National Software Quality Assurance	8424,15,679
@@ -218,10 +224,11 @@ ORACLE Application Software Security Directives	15161
 Omni Software JV	8285
 Omni Software Ltd	8285
 Open Society Institute Sofia	8891
-Open Source Software	10785
+Open Source Software	10785,7691
 Open Source Software Policy I-15	10785
 Open Source Software and Digital Public Infrastructure	5700
 Open-Source Software	13645
+Open-Source Software Policy	18517
 Open-source Software	13042
 Opera Software	18432
 Origin of Software	3787
@@ -263,13 +270,19 @@ Rwanda FDA's SoftwareasaMedicalDevice	8301
 S SOFTWARE	14879
 S Software	16872
 SA Software Sector Set	11929
+SLMet and SOFF	18578
 SMDC and Software	15183
 SOFACOH	18013
 SOFEPAC	13390
 SOFF Invesment	16947
-SOFF Investment Phase	16947
+SOFF Investment	18677
+SOFF Investment Funding Requests	18677
+SOFF Investment Funding Requests The SOFF	18677
+SOFF Investment Phase	16947,1730
 SOFF Peer Advisor	16947
 SOFF RDC	16414
+SOFF Steering Committee Acknowledges	18677
+SOFF Steering Committee Recalls Decision	18677
 SOFF Team	16947
 SOFF for Liberia	16947
 SOFF-funded	16947
@@ -294,7 +307,7 @@ SOFRECO Support Team	16857
 SOFRECOM	15424
 SOFTECH LTD Data Controller INST-9063904932D	7167
 SOFTECH LTD Data Processor INST-9063904932D	7167
-SOFTWARE	16220,1885
+SOFTWARE	16220,1885,371
 SOFTWARE APPLICATIONS AND DATA	14921
 SOFTWARE DEVELOPERS AND OTHER STAKEHOLDERS	14726
 SOFTWARE DEVELOPMENT STANDARDS AND GUIDELINES	34
@@ -394,7 +407,7 @@ Softron Limited	3386
 Softswitch	15399
 Softtribe	236
 Softtribe Chief Executive Officer Francis Ayivi	236
-Software	34,202,159,198,397,954,44,108,688,32,835,558,223,331,902,108,20,76,42,521,45,103,567,62,125,33,99,285,156,114,280,75,48,180,458,61,1,5,726,205,661,59,189,38,126,1,30,32,20,52,104,512,1,10,11,35,11,3,66,138,1,45,36,5,7,49,49,28,34,74,433,47,4,34,32,43,305,221,82,303,113,337,225,15,42,6,7,13,17,11,53,91,159,49,20,12,3,118,178,60,52,427,322,511,35,11,7,11,4,22,1,1,18,21,891,16
+Software	34,202,159,198,397,954,44,108,688,32,835,558,223,331,902,108,20,76,42,521,45,103,567,62,125,33,99,285,156,114,280,75,48,180,458,61,1,5,726,205,661,59,189,38,126,1,30,32,20,52,104,512,1,10,11,35,11,3,66,138,1,45,36,5,7,49,49,28,34,74,433,47,4,34,32,43,305,221,82,303,113,337,225,15,42,6,7,13,17,11,53,91,159,49,20,12,3,118,178,60,52,427,322,511,35,11,7,11,4,22,1,1,18,21,891,16,606
 Software Applications	11349
 Software ArcGIS Pro Advanced. INEGE	16898
 Software ArcGIS Pro Advanced. Objetivo Operativo	16898
@@ -419,7 +432,7 @@ Software Developer Skills Development Hub	13615
 Software Developers	6832,8258
 Software Developers Enterprise Architects Systems	21
 Software Developers and Vendors	5665
-Software Development	770,2098,3964,5221,873,111,324,215,2690
+Software Development	770,2098,3964,5221,873,111,324,215,2690,2215
 Software Development Accounting	16266
 Software Development Experience	13575
 Software Development Firm Project Title	16600
@@ -428,6 +441,7 @@ Software Development Kit	16220
 Software Development Kits	7519
 Software Development Lifecycle	5665
 Software Development Phase	15161
+Software Development and Data Science Units	18481
 Software Development and Database Administration	12961,76
 Software Development and Digital Design	6832
 Software Development and Engineering	6832
@@ -463,7 +477,7 @@ Software Solutions Division	15028
 Software Support-The Service Desk	2477
 Software Technologies Ltd	9815
 Software Test	6832
-Software Testing	5665
+Software Testing	5665,12805
 Software Testing Guideline	5665
 Software Testing Organisation	5665
 Software Testing Organisations	5665

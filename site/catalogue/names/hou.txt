@@ -142,6 +142,7 @@ Cameroon Population and Housing	15810
 Cameroon. Opening Hours	15721
 Carlton House	3386
 Cash NDMA-PR-12 Child Headed Household	12977
+Category D HOUSEWIFE	18541
 Censored Headcount Ratios for Households	15244
 Census Project Timeline Somalia Population and Housing	14981
 Census Stakeholders The Population and Housing Census	14981
@@ -188,8 +189,10 @@ Communicotion. Lo Houte Autorité de I'Audiovisuel	15397
 Composition of Household	17114
 Conduct Household Income	17116
 Conducting the Population and Housing Census	2775
+Connections of Households	18453
 Consensus Statement The White House	17428
 Constructing Housing	12175
+Consumption Household and NPISH	18483
 Continous Multipurpose Household Survey Sweden	30
 Continuous Multi Purpose Household Survey	14723,113
 Continuous Multi-Purpose Household Survey	14815,17,4
@@ -238,9 +241,11 @@ Digital Houses	2550,3653,7692
 Directorate of Housing and Utilities	15473
 Disabilities Household Disability Status Value MPI	15244
 Disabilities Households	15244
+Discount Houses	18450,12
 Distribution of Agricultural Households	16921
 Distribution of Households	2775,14146
 Distribution of Residence Status of Households	16921
+District Households Women Men Children	18441
 Does Household Electrification	13624
 Domestic Product GHG Green House Gases	11863,3084
 Dr. Sennen Hounton	16970
@@ -284,6 +289,7 @@ Energy Efficiency and Labelling of Household Appliances	14736
 Enhanced Financial Resilience for Individuals and Households	15130
 Enhancement of Business Houses	17011
 Enugu State Government House	10308
+Environment Housing Economy Energy Transportation Waste	18476
 Equality and Family Welfare Minister of Housing and Lands	14841
 Equipment and Social Housing	1284
 Eritrea Household Income and Expenditure Survey	6106
@@ -398,7 +404,8 @@ Government House	8973,1187,4640,47,3396
 Government ICT House	11184
 Government Printing House	17934
 Government Procurement Opportunities AHP Affordable Housing	2775
-Green House Gas	12256,1824,1579,485
+Government of Sierra Leone Open Hours	18453
+Green House Gas	12256,1824,1579,485,2309
 Grid Electricity Services for Households and Priority	12429
 Group Indi- House- Active Popula- Popu-	17743
 Guest House House Grove Drive Number	4896
@@ -429,12 +436,15 @@ HOUSEHOLD	17127
 HOUSEHOLD ACCESS TO ICT PRODUCTS	582
 HOUSEHOLD ACCESS TO WATER	15574
 HOUSEHOLD ASSESSMENT	16867
+HOUSEHOLD CHARACTERISTICS	18470
 HOUSEHOLD DEMOGRAPHIC CHARACTERISTICS FOOD SECURITY	17285
 HOUSEHOLD DIETARY DIVERSITY	17285
 HOUSEHOLD DIETARY DIVERSITY ANNEXE	17285
 HOUSEHOLD ELSEWHERE	17127
+HOUSEHOLD FOOD SECURITY AND NUTRITION SITUATION	18683
 HOUSEHOLD HEAD DID NOT ALLOW HIM	17127
 HOUSEHOLD HEAD ON LINE	17127
+HOUSEHOLD IDENTIFICATION	18470
 HOUSEHOLD MEMBER AT HOME	582
 HOUSEHOLD MEMBER TO RESPOND ON BEHALF	17127
 HOUSEHOLD MEMBER WORK ON AQUACULTURE	17043
@@ -445,6 +455,7 @@ HOUSEHOLD NUMBER	582
 HOUSEHOLD QUESTIONNAIRE	582
 HOUSEHOLD REGSITRATION	16867
 HOUSEHOLD RELIANCE AND SYSTEMIC STABILITY	13532
+HOUSEHOLD ROSTER	18470
 HOUSEHOLD SURVEY ON ICT IN GHANA	582
 HOUSEHOLD TOTAL CONSUMPTION	16892
 HOUSEHOLD WATER AND SANITATION	13454,1793
@@ -457,10 +468,12 @@ HOUSF	16851
 HOUSING	12403,28,1043,3786
 HOUSING AND BASIC SERVICES	11192
 HOUSING AND POPULATION CENSUS ENUMERATION SUCCESSFULLY	12749
+HOUSING AND URBAN DEVELOPMENT	18619
 HOUSING CENSUS	14903
 HOUSING CENSUSES	14594
 HOUSING CHARACTERISTICS	13383
 HOUSING CHARACTERISTICS AND HOUSEHOLD POPULATION	13454
+HOUSING Issues	18476
 HOUSING SCHEMES This Scheme	14835
 HOUSING UNIT	12972
 HOUSTON	4209
@@ -526,6 +539,8 @@ Houndé Tuy Hauts-Bassins	15715
 Hounen	14507
 Houngbedji CA	10919
 Hounou-Adossi Ayitévi Elom Firmin	14163
+Hour Business Registration	18502
+Hour Business Registration URL	18502
 Hour Cyber Incident Reporting for Telecom Operators	5308
 Hour Data	12690
 Hour Data Breach Notification Requirement	6632
@@ -540,7 +555,7 @@ Houria MEDDAHI	16230,114
 Houria MEDDAHI. MINISTERE DES SPORTS Arrêté	16230,114
 Houria Zahil	15410
 Hourly	11953,5161
-Hours	9442,1767,744,303,189,232,2190,792,893,79,375,37,84,38
+Hours	9442,1767,744,303,189,232,2190,792,893,79,375,37,84,38,1294,111
 Hours Appendix III	14867
 Hours Applications	12603
 Hours Applications Deadline	12603
@@ -552,7 +567,7 @@ Hours INTERVIEWER	17127
 Hours M2a0r-2235	12256
 Hours R	11259
 Hours South Africa Privacy FW Fairbridges	6632
-House	582,568,60,11,1,61,503,1,1,5,3,1,13,932,125,334,1,2,6,400,199,842,159,188,452,746,120,272,95,255,30,114,1,2,5,1,465,1,138,87,60,172,727,155,200,25,2,177,99,340,574,359,29,414,14,55,31,9,6,16,26,13,662,148,90,68,66,84,18,28,43,21,67,155,3,10,174,34,26,2,40,31,67,1,7,257,49,90,12,53,357,188,298,306,8,5,35,53,91,46,43,49,78,99,1600,20,35,135,179,142,208,214,394
+House	582,568,60,11,1,61,503,1,1,5,3,1,13,932,125,334,1,2,6,400,199,842,159,188,452,746,120,272,95,255,30,114,1,2,5,1,465,1,138,87,60,172,727,155,200,25,2,177,99,340,574,359,29,414,14,55,31,9,6,16,26,13,662,148,90,68,66,84,18,28,43,21,67,155,3,10,174,34,26,2,40,31,67,1,7,257,49,90,12,53,357,188,298,306,8,5,35,53,91,46,43,49,78,99,1600,20,35,135,179,142,208,214,394,262,119
 House Approves Close	1798
 House Bill	17485
 House Breaking and Theft	12984
@@ -560,7 +575,7 @@ House Business Committee	10313
 House Chair	11272
 House Chairperson	11272
 House Chairperson The Deputy Minister	1810
-House Committee	1210,5326,2491,544,309,3104,5190,70
+House Committee	1210,5326,2491,544,309,3104,5190,70,192
 House Constructions	12977
 House Democracy Partnership	9191
 House Democrats	1695
@@ -661,19 +676,21 @@ Housed	12138,43
 Housegirls	12227
 Househelp	582
 Househelp D	582
-Household	236,182,164,388,2189,410,475,3477,1888,266,1088,201,21,146,2,1,2,14,42,3,74,27,128,45,447,90,152,75,45,55,2,38,10,20,95,80,169,176,33,6,2,14,76,69,260,149,116,156,294,39,582,17,8,71,17,28,36,1,45,82,220,3,327,30,54,3,2,62,15,3,1109,11,13,24,2,19,29,93,71,13,123,35,1008,8
+Household	236,182,164,388,2189,410,475,3477,1888,266,1088,201,21,146,2,1,2,14,42,3,74,27,128,45,447,90,152,75,45,55,2,38,10,20,95,80,169,176,33,6,2,14,76,69,260,149,116,156,294,39,582,17,8,71,17,28,36,1,45,82,220,3,327,30,54,3,2,62,15,3,1109,11,13,24,2,19,29,93,71,13,123,35,1008,8,134,6,2,27,8,34,171,18
 Household Access	3641
 Household Affordability	12399
+Household Asset	18470
 Household Baseline Survey SSN Social Safety	14897
-Household Budget Survey	9252,1884,4055,327
+Household Budget Survey	9252,1884,4055,327,2957
 Household Categorization Spot Checks	16867
 Household Centred Market Publicly	13532
 Household Characteristics Table	16935
+Household Conditions	18470
 Household Consumption	11017
 Household Data	3861
 Household Dietary	970
 Household Dietary Diversification Score Output	12978
-Household Dietary Diversity Score	12978
+Household Dietary Diversity Score	12978,5769
 Household Dietary Diversity Scores Profile	12978
 Household Disability	15244
 Household Drinking	15578
@@ -714,8 +731,11 @@ Household Members	17043,71
 Household Members Number Name Relationship	17114
 Household Nationally	16922
 Household Nationally Mean	16922
+Household Ownership	18441
 Household Ownership of Dwelling	16921,193
 Household Ownership of Dwelling About	16921,193
+Household Ownership of ICT Equipment	18441
+Household Ownership of Information	18441
 Household PIU	10964
 Household Population	16921,14
 Household Population and Composition	13454,1793
@@ -726,6 +746,7 @@ Household Reference	17114
 Household Resilience Building Through Safety Nets	10763
 Household Response Rate	2775
 Household Rooftop Solar PV Scheme. C	14829
+Household Sampling Frame	18607
 Household Sanitation Connection Projects	15578
 Household Savings for Resilience	15130
 Household Savings for Resilience Expand Access	15130
@@ -735,6 +756,7 @@ Household Size Household	16921
 Household Size Household Size Observations Mean	12978
 Household Size and Average Area Per Person	2775
 Household Size and Tenure-ship	2775
+Household Supplement	18541
 Household Survey	582,12092,410,675,1265,819,1,2,819,331,49,56,824
 Household Survey Commissioned	17870
 Household Survey Programme	11289
@@ -747,13 +769,14 @@ Household Water Security	16384
 Household Water Supply Connections Natural Gas	15578
 Household Water and Sanitation	14142
 Household Wealth	13454,1793
+Household Women	18441
 Household and Dwelling Characteristics	15244
 Household and Individual ICT Access and Usage Across	12325
 Household-level	11156,1501
 Household-level MPI	15244
 Household. ICT	12403
 HouseholdExpenditure Survey Results	16833
-Households	582,5532,682,2535,216,546,670,5,25,48,11,111,1,21,148,3,56,19,51,38,555,24,45,234,75,28,72,11,14,15,10,16,4,26,7,4,516,7,1,13,1,354,15,2,183,272,294,44,581,22,62,29,60,1,27,235,85,275,55,27,16,41,1,20,290,44,19,56,296,468,15,9,26,38,2,8,16,34,43,56,186,458,106,28,1,26,200,94,103,54
+Households	582,5532,682,2535,216,546,670,5,25,48,11,111,1,21,148,3,56,19,51,38,555,24,45,234,75,28,72,11,14,15,10,16,4,26,7,4,516,7,1,13,1,354,15,2,183,272,294,44,581,22,62,29,60,1,27,235,85,275,55,27,16,41,1,20,290,44,19,56,296,468,15,9,26,38,2,8,16,34,43,56,186,458,106,28,1,26,200,94,103,54,86,2
 Households Affected	12977
 Households Benefited	12977
 Households City Number	12978
@@ -770,8 +793,10 @@ Households Phone Ownership	12251
 Households Receiving Energy Subsidies	12399
 Households Respondents Household	15244
 Households Without Disabled	15244
+Households and Household	18464
 Households and Housings	12383
 Households and Individuals	11424,920,1754,1519,1323,803,134,1
+Households and NPISH	18483
 Households and SMEs MIME	12399
 Households and Use	7521,6154
 Households for Multipurpose Cash	12977
@@ -787,7 +812,7 @@ Houses of Justice	11541
 Houses of JusticeJanvier	18305
 Houses of Parliament	3714,7516,59,1184,414,69,20,350
 Houses of Parliament. B. National Drought Policy	12977
-Housing	1431,509,206,282,164,6,177,271,667,750,482,1726,877,828,603,435,1206,143,429,93,572,83,58,253,122,10,579,1,9,121,381,211,1057,76,56,60,63,207,40,3,226,576,138,715,14,19,12,167,35,111
+Housing	1431,509,206,282,164,6,177,271,667,750,482,1726,877,828,603,435,1206,143,429,93,572,83,58,253,122,10,579,1,9,121,381,211,1057,76,56,60,63,207,40,3,226,576,138,715,14,19,12,167,35,111,1216,121,22,40
 Housing Activities	16187
 Housing Allowance	13096
 Housing And Household Characteristics	16921
@@ -798,7 +823,7 @@ Housing Authority NPA National Port Authority	17260
 Housing Benefit	16902
 Housing Board	13123
 Housing Budget Shrinks	2428
-Housing Census	10870,1281,1854,2916
+Housing Census	10870,1281,1854,2916,1554,132
 Housing Census Preparatory Activities LISGIS	17116
 Housing Characteristics	12963,491,551,1242
 Housing Characteristics Country Level	14005
@@ -812,6 +837,7 @@ Housing Electricity Drinking Water Sanitation Cooking	15244
 Housing Estates	14748
 Housing FTTx Fibre	11857
 Housing Finance Corporation STEM Science	17105
+Housing Finance Environment Education Water and Sanitation	18476
 Housing Health YOUR EXPERIENCE REIMAGINED	14752
 Housing Housing	15244
 Housing Must	11285
@@ -823,6 +849,7 @@ Housing Program	15473
 Housing Scheme	14742
 Housing Section	15473
 Housing Support Schemes	14761
+Housing Survey PIM Public Investment Management	18488
 Housing Survey Preparation	1788,1417,3881
 Housing The EICV5	12403
 Housing Unit	12972,3949
@@ -835,8 +862,10 @@ Housing and Commercial Bank of Eritrea	14008
 Housing and Community	13093
 Housing and Community Amenities	14830
 Housing and Construction	16916
-Housing and Country Planning	8903
+Housing and Country Planning	8903,9565,110,10,1
+Housing and Country Planning MMO	18485
 Housing and Development Bank	15473
+Housing and Environment	18446
 Housing and Guarantee Fund	13420,265
 Housing and Household Characteristics	16921
 Housing and Human Settlements Development	6123
@@ -849,7 +878,7 @@ Housing and Settlement	1131,1644
 Housing and Shelter Section of UN-Habitat	1391
 Housing and Territorial Planning	4945
 Housing and Urban Affairs Shri Hardeep S	2667
-Housing and Urban Development	1391,387,210,604,454,2201,923,997,1790,1356,1668,1406,16,1143,3584
+Housing and Urban Development	1391,387,210,604,454,2201,923,997,1790,1356,1668,1406,16,1143,3584,489
 Housing and Urban Planning	10937
 Housing and Water Resources	1228,6467
 Housing for Low- and Middle-Income Families	14829
@@ -952,6 +981,7 @@ Integrated Household Living Conditions Surveys	13418
 Integrated Household Survey	12964,3180,723,77,7
 Integrated Household Survey ICT Information	16927
 Integrated Household Survey IMF	16951
+Integrated Household Surveys Comprehensive	18607
 Integrated Households Living Conditions Survey EICV	12445
 Interconnect Clearing House Limited	3862
 Interconnect Clearing House Nigeria Limited	3862
@@ -986,6 +1016,7 @@ Kenya Population and Housing Census Results	10822
 Kerr Fatou Online Media House	17327
 Kerr Fatou Online Media House Kerr	17069
 Key Challenges Facing Housing Development	2775
+Key Messages Household Ownership	18441
 Khadarow Somalia's Upper House Passes National	15070
 Kigali House	5625
 Kigali-Rwanda Telecom House	9125,6037
@@ -1076,6 +1107,7 @@ MAP AND IDENTIFY POOR HOUSEHOLDS	11133
 MEASURING HOUSEHOLD EXPENDITURE ON ICT SERVICES	11424
 MEMBERS. THE HOUSEHOLD HEAD SHOULD	17127
 MFEP SADEK Houari MINISTERE DES RELATIONS	15472
+MID-TERM POPULATION AND HOUSING CENSUS	18464
 MINISTRY OF HOUSING AND URBAN	13126
 MITD House	14847
 MOHAMED KAWAMI HOUSSEINI BEN MOHAMED	4342,9429
@@ -1086,6 +1118,8 @@ MRP SADEK Houari Ministère des Relations	15472
 MSP Houses of Public Service	3604
 MTN House	6242,1249
 MTN House Accra	7491
+MTPHC HOUSEHOLD POPULATION AND AVERAGE HOUSEHOLD	18464
+MTPHC Household Population and Average Household Size	18464
 MUST HAVE KNOWLEDGE OF THE HOUSEHOLD	17127
 Madame Edwige ADOHINZIN HOUNTONDJI	17584
 Main Source of Drinking Water for Household	16921,193
@@ -1096,6 +1130,7 @@ Malabo. According Preliminary Household	16942
 Malawi Housing Corporation	13040
 Malawi Population and Housing Census. Main Report	12175
 Mali Household Living Conditions Survey	15810
+Management Housing	18476
 Management of Population and Housing Censuses	4040,4,7377,25,131
 Mandela C M HOUNGNIBO	16135
 Mapeera House	7875
@@ -1109,7 +1144,7 @@ Me LUCIANO HOUNKPONOU	1990
 Me Luciano Hounkponou	1990,3852,74,336,27,222,238,97,2206
 Measure Baseline Original Target Households	15601
 Mechanism HH Household HIECS Household Income	15663
-Media Houses	4528,7925,59
+Media Houses	4528,7925,59,5973
 Media Houses Component	17099
 Media Houses Request	17114
 Medium Fertility Scenarios. Housing Characteristics	16935
@@ -1117,9 +1152,15 @@ Megawatt Hours NELSAP	12358
 Member Interval Interval Interval Households	15244
 Members of Liberia's House of Representatives	3645
 Men Women Children Household Labor Hired	17043
+Mid Term Population and Housing Census	18464,11
+Mid-Term Population and Housing Census	18464
+Mid-Term Population and Housing Census Report	18478
+Mid-Term Population and Housing Census. Stats SL	18464
+Mid-term Population and Housing Census	18464,11
 Middle Income Housing	15473
 Middle-income Housing Scheme	15473
 Midrand Heights Social Housing Project	11248
+Midterm Population and Housing Census	18455
 Million Households	11229
 Million Households Connect	5112
 Million Vulnerable Households	12464
@@ -1130,7 +1171,7 @@ Minister of Housing and Construction	16916
 Minister of Housing and Lands	14774
 Minister of Housing and Urban Development	2592,5495,892,3002,1246,4903
 Ministry of Energy PROPORTION OF HOUSEHOLDS	15740
-Ministry of Housing	2592,10501,1643,737,1684
+Ministry of Housing	2592,10501,1643,737,1684,1568
 Ministry of Housing and Construction	16916
 Ministry of Housing and Corporation	15447
 Ministry of Housing and Land Use Planning	14742
@@ -1138,6 +1179,7 @@ Ministry of Housing and Lands	14803,27
 Ministry of Housing and Urban Development	6273,4691,165,825,942,76,241,8,1
 Ministry of Housing and Utilities	17157
 Ministry of Housing’s New Urban Communities Authority	16480
+Ministry of Lands Housing and Country Planning	18476
 Ministry of Lands and Housing	2104,9617
 Ministry of Regional Local Government and Housing	12325
 Ministry of Urbanism and Housing	18198
@@ -1180,6 +1222,7 @@ NATIONAL HOUSING AND SOCIAL AMENITIES	13420
 NEC. The House	17358
 NHDC Ltd. Fully Concrete Housing	14835
 NPS HQ Jogoo House. NPSIMS	3320
+NaCSA House	18573
 Nairobi Automated Clearing House	12286
 Nairobi's Mukuru Affordable Housing Project	6864
 Namibia Household Income and Expenditure Survey	9485,3438,23
@@ -1241,6 +1284,7 @@ Nyayo House	6783,5444
 OBJECTIVES Assess Household Food Security	17285
 OPERATIONAL HOURS	15774
 ORODARA TAPOA HOUNDE HAUTS-BASSINS BOBO-DIOULASSO HOUET	10847
+OVP and State House. The NLe70	18576
 Office Hours	13462,2826
 Official White House	5366
 Ombudsman’s Hour	16958
@@ -1277,7 +1321,7 @@ PREVALENCE OF FOOD INSECURE HOUSEHOLDS	17285
 PRIVATE HOUSEHOLDS CHAPTER	14903
 PROCEDURES AND GUIDELINES ON HOUSE	11129
 PSP RIBAT RTGS Automated Clearing House	13468
-Packet Clearing House	10037
+Packet Clearing House	10037,8596
 Packet Clearing House Report	11609
 Packet Clearing House and Quad Nine Secure	578
 Padre Pio House	5113
@@ -1312,10 +1356,11 @@ Poor Households	11924
 Poor and Vulnerable Households	16384
 Population Housing	16833
 Population and Housing	10765,10
-Population and Housing Census	940,36,827,1121,4444,637,243,6,159,1027,1693,1225,41,12,69,71,49,55,307,1,70,14,312,646,405,184,309,907,1111,29
+Population and Housing Census	940,36,827,1121,4444,637,243,6,159,1027,1693,1225,41,12,69,71,49,55,307,1,70,14,312,646,405,184,309,907,1111,29,1493,21,11,8,5,38
 Population and Housing Census Affar	14005
 Population and Housing Census Country Level	14005
 Population and Housing Census Dire Dawa	14005
+Population and Housing Census Figure	18443
 Population and Housing Census Gambella	14005
 Population and Housing Census Harari	14005
 Population and Housing Census Main Report	12963,155
@@ -1329,6 +1374,7 @@ Population and Housing Census. About	9111
 Population and Housing Census. Population	12413
 Population and Housing Census. Thematic	12413
 Population and Housing Censuses	17116
+Population and Housing Mid- Term Census	18531
 Population of Household Distribution	16921
 Populationand Housing Census Results	16833
 Port-Louis Ministry of Housing and Lands	14847
@@ -1341,10 +1387,13 @@ Preparation Carlo Del Ninno Kouami Hounsinou	15601
 Presidential Military House	9399
 Pressure Remains Household	8482
 Prioritize Integrated Housing Policy	11285
+Priority Disaster Risk Management Housing Transportation	18476
+Priority Housing Finance Economy Waste Management	18476
 Priority Human Settlements and Housing Development Areas	11224
 Private Households	14739
 Private Households Indicators URL	14739
 Private Households Indices	14739
+Private Public Percent Malaria Household Availability	18441
 Procedure and House Rules Committee	10313
 Product Green House Gases GPN Deutsche	10964
 Program-Scale Up Household Prosperity	11469
@@ -1367,6 +1416,7 @@ Quarter Total Housing	12972
 Quarterly Households	11525
 RDGE Ismail MAHAMOUD HOUSSEIN	13885
 RDP Housing	11249
+REGION INSTITUTION HOUSEHOLD TOTAL AVERAGE HH	18464
 REPORT OF THE MINISTRY OF HOUSING	13131
 RTB House	13461
 RTB House RFI	13461
@@ -1388,13 +1438,16 @@ Republic of Zambia State House LUSAKA Mr	13472
 Residential Houses	11129
 Resilient Households and Individuals Figure	15130
 Resource Ministry of Housing and Lands	14770
+Response Rates Household	18441
 Responsibility for Data Collection PISU Households	15658
 Returnee and Non-Displaced Households	16902
 Revenue House	17063,1,137
+Risk Management Energy Housing Finance	18476
 Robert A Houze Jr. Stratiform	15907
 Rollis HOUESSOU	6740
 Row Housing	11129
 Run Government ByTechTrends Hours OnAugust	9936
+Rural Development MLHCP Ministry of Lands Housing	18504
 Rural Household	15574
 Rural Housing	13474
 Rural Localities RGPH General Population and Housing	16188
@@ -1423,6 +1476,7 @@ SOLAR PHOTOVOLTAIC SCHEME FOR HOUSEHOLDS	14807
 SPATIAL INTEGRATION AND HOUSING REFORM Objective	11236
 SPATIAL INTEGRATION AND HOUSING REFORM PROGRESS	11236
 STARTING WITH THE HEAD OF HOUSEHOLD	17127
+STATE HOUSE	18572
 SUBMITTED JOINTLY BY HOUSING ASSEMBLY	14673
 SURVEY FINDINGS SURVEY FINDINGS HOUSEHOLD DEMOGRAPHIC	17285
 SURVEY The Household Energy	11136
@@ -1430,6 +1484,7 @@ Salaam Telephone House	2868
 Sale Commercial for Sale Houses	2888,32,354,504,1444,877,6,100,680,129,293,115
 Sam Hou Fai	11683
 Sambla Karangasso- Houet Hauts-Bassins	15715
+Sample and Survey Characteristics Household	18441
 Samuel HOUNGBEME. Rapporteur	16545
 Sanitathon Unemployment Housing Assetes Child Labour	15244
 Sanitation Project Sanitary Sewer Connections Household	15578
@@ -1449,6 +1504,7 @@ Serving Households NSE Nairobi Securities Exchange	2775
 Seventh Integrated Household Living Conditions	12403
 Seventh Integrated Household Living Conditions Survey	12403
 Sewage Treatment Rehabilitation of Canals Social Housing	15578
+Sex Distribution of Household Population Senior Secondary	18441
 Sex Of The Household Head	16921
 Sex of Head of Household MPI Indicators Sudan	15244
 Sex of Household Head	15244,1677
@@ -1459,6 +1515,8 @@ Sex of Household Head Sudan	15244
 Sex of Household Head The MPI	15244
 Sheikh Zayed. Housing Minister Sherif El-Sherbiny	16004
 Ship House	7847
+Sierra Leone Integrated Household Survey. Statistics	18483
+Sierra Leone Population and Housing Census Updated	18441
 Silicon House	3386
 Size of Houses	12977
 Size of Houses Type	12977
@@ -1501,13 +1559,16 @@ State Council. The House of Peoples’ Representatives	13948
 State Department for Housing	2428
 State Department for Housing Accommodation and Food Services	2775
 State Department for Housing and Urban Development	14546,85
-State House	1838,1033,159,223,922,578,347,117,944,36,2,8,20,21,14,326,283,129,481,165,1,4,208,36,322,166,226,371,67,315,38,60,236,550,880,789,145,194,1059,168,45,35,716,199,70,54,247,483,4,2245
+State House	1838,1033,159,223,922,578,347,117,944,36,2,8,20,21,14,326,283,129,481,165,1,4,208,36,322,166,226,371,67,315,38,60,236,550,880,789,145,194,1059,168,45,35,716,199,70,54,247,483,4,2245,892,105
 State House Auditorium	18269
 State House Cabinet	5318
 State House Construction	5658
 State House Entebbe	6248,15,8099
 State House Entebbe. Talks	6198
 State House Investors Protection Unit	6576
+State House Media and Communications	18568
+State House Media and Communications Unit	18546,1
+State House Media and Communications Unit Info	18572
 State House Nairobi	14535
 State House Press Office	13410
 State House Seychelles	3364,3442,841
@@ -1517,8 +1578,11 @@ State House of Assembly. Executive Chairman	11976
 State House of Assembly. PART II	11976
 State House of The Gambia	17124,92,131
 State House of The Gambia URL	17216
+State House. National Digital Development Policy	18456
 State House. President Herminie	8992
 State Houses of Assembly	9876
+State Houses. Mrs. Kadiatu Allie	18576
+State Ministry of Housing	18619
 State of ICT Sector Report and Freedom House	6832
 Statistical Clearing House	11201
 Statistics House	9322,66,667,7015
@@ -1529,6 +1593,8 @@ Stats SA General Household Survey	11211
 Stats SA's General Household Survey	6832
 Sterling House	14847
 Strategic Move Households	12370
+Strategy PHS Populations and Housing Survey PIM	18577
+Sudan Housing	18611
 Sudan's Darkest Hour	15342
 Summerhill House	17800
 Support for Government Housing Initiatives	13060
@@ -1580,6 +1646,7 @@ Unemployment Living Over-crowding Assets Housing Electricity	15244
 Unemployment Status Over-crowding Assets Housing Electricity	15244
 United Nations House	9117,638,8460
 United Nations House Marine Gardens Hastings	17856
+Universe Households	18525
 University of Science and Technology Houari Boumediene	15679
 Université Felix Houphouët Boigny	15936
 Université Félix Houphouët Boigny	3045,12712,179
@@ -1595,10 +1662,12 @@ Upper House Finance Committee	15070
 Upper House of Parliament	15070
 Urban Development and Housing	6958
 Urban Households	11879
+Urban Planning Housing Energy Disaster Risk	18476
 Urban Planning and Housing	16614
 Urban Rural Nomadic IDP Total Household	14896
 Urbanism and Housing	16275
 Urbanization and Housing	12825
+Useful Links CONTACT US Electricity House	18453
 Using the Botswana Multi-Topic Household Survey	12541
 Using the Ghana National Household Registry	16253
 V.1. HOUSEHOLD WATER SUPPLY	15574
@@ -1615,6 +1684,7 @@ Victoria House Ministry of Labour	14746
 Victoria House St Louis Street	14847
 Vigué Koundougou Houet Hauts-Bassins	15715
 Village Market Afya House	4154
+Violence GHG Green House Gas GM	18504
 Volta Region House of Chiefs and Paramount Chief	16596
 Vulnerable Households	9772,7228
 Vulnerables25 Ministry of Programme National Housing	10985
@@ -1623,6 +1693,7 @@ WORLD Honourable House Chairperson	11277
 Watt Hour LED Light Emitting Diode	15515
 Wh Kilowatt Hour ASN Autonomous System	3184,1,1340,6470
 Wh Kilowatt Hour LLM Large Language	10781,1646,2055
+Whenever the House	18436
 White House	4447,716,53,41,183,791,978,1301,517,1403,15,82,608,19,586,2643,1019,2378,22
 White House Office of Science	5216
 White House Office of Science and Technology	14601
@@ -1632,7 +1703,7 @@ White House-driven	4447
 White House. President Donald Trump	10433
 White House. The Policy Direction	5808
 White House’s National Strategy	17883
-Whole House	13055,67
+Whole House	13055,67,5314
 Whole House Committee	12982
 Work Status of Household Head	15244
 Work Status of Household Head Censored	15244

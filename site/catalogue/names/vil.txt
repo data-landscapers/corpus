@@ -70,6 +70,7 @@ Digital Villages	15372
 Digital Villages Initiative	12740
 Digital Youth Village	7068,8648
 District Council of Moka Construction of Village Hall	14746
+Dream Atlantic Garden Villas	18580
 Développement des Villes Intermédiaires Productives	17895
 Eau Villageoises	2476
 Entlaq and Village Capital	10745
@@ -145,6 +146,7 @@ Orange Ville’s US	9253
 Organisme Nombre de Comités Villages	10876
 Osona Village	13183
 PART VILE REQUIREMENTS FOR THE ISSUANCE	16841
+PART X- ELECTION OF VILLAGE	18459
 PETITE VILLE	13300
 PROJET VILLAGES INTELLIGENTS POUR LA CROISSANCE	18194
 Parliamentary Village	11285
@@ -211,11 +213,13 @@ Sudan. A Samsung Digital Village	15447
 Supplementary Act. CHAPTER Vil	15363
 Sénégal Villes Intelli	18319
 T. and Viljanen	11156
+TOWN OR VILLAGE AREA LAND COMMITTEE	18465
 Talaat Dhurgham Village	15578
 Tarcísio Vilela	11429,3,47
 Tech City and Victoria Falls Lifestyle Villas	7534
 Tokai Village Centre	8999
 Tour of Villages	11285
+Towns and Villages	18534
 Training of Village Health Workers and Civil Registration	12761
 Trois Boutiques Village Hall	14746
 UNE FORTE CONCENTRATION DANS LES VILLES	17478
@@ -256,7 +260,12 @@ Villa Road	14736,111
 Villa Road Moka	14736
 Villa Somalia	14906,141
 Villacoublay	15426
-Village	2760,1370,6699,456,431,501,133,59,489,409,307,950,149,25,318,25,392,105,1096,159,34,20,251
+Village	2760,1370,6699,456,431,501,133,59,489,409,307,950,149,25,318,25,392,105,1096,159,34,20,251,1327
+Village Area	18465
+Village Area Committee	18465
+Village Area Land Committee	18465
+Village Area Land Committees	18465,104
+Village Areas Land Committees	18534
 Village Assessment Survey County Profiles	1867
 Village Bank and Savings and Credit Co-operatives	12409
 Village Business Units	13673,12
@@ -288,6 +297,9 @@ Village Health Teams	9248,2525,5779
 Village Health Worker	12679
 Village Health Workers and Civil Registration Officers	12679,82
 Village Inn Hotel	13420
+Village Land Committee	18465
+Village Land Committee Composition of Town	18465
+Village Land Committees	18534
 Village Local	15473
 Village Local Level Three Administrative Units	15473
 Village Management Boards Ordinance	12890
@@ -297,7 +309,7 @@ Village Market PO Box	4153
 Village Outskirts Fiber Optic Network Installation	15578
 Village Reach	12240
 Village Savings and Loan Association	18104
-Village Savings and Loan Associations	10299,542,3712,406,179,1115,982
+Village Savings and Loan Associations	10299,542,3712,406,179,1115,982,1385
 Village Savings and Loan Associations. Complementary	17096
 Village Savings and Loans	12964
 Village Savings and Loans Association	13390
@@ -321,7 +333,7 @@ VillageReach and DDP	18281
 VillageReach and Development Delivery Partners	18281
 Villageoise	10965
 Villageoises	10876
-Villages	1228,410,1932,1083,6632,240,803,30,194,866,2160,327,127,15,1549,310,380,15
+Villages	1228,410,1932,1083,6632,240,803,30,194,866,2160,327,127,15,1549,310,380,15,164
 Villages Connectivity Programme	12589
 Villages Intelligents	18105,117
 Villages Local Units Upper Egypt	15578

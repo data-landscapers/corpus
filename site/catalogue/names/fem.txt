@@ -15,8 +15,10 @@ Abandonment of Female Genital Mutilation	11525
 Action FGM Female Genital Mutilations FY	15604
 Activités Rémunératrices des Femmes	6827
 Age Female Male Sex Ratio	12151
+Age Group Male Female J S	18443
 Age Group of Police Officers Male Female	14760
 Age Male Female Total Kenya	12151
+Age Males Females	18441
 Agenda Femmes	18254
 Agriculture FEM Fonds	17907
 Alain Gashaka ONU Femmes Partnership	13547
@@ -41,6 +43,7 @@ BOUCLE DU MOUHOUN BANWA Femmes	10847
 BOULGOU Femmes	10847
 BOULKIEMDE Femmes	10847
 Bank of Tanzania Ma le Female	7763
+C Female Genital Mutilation FSA Financial	18512
 CAPACITÉ DES FEMMES	13300
 CENTRE KADIOGO Femmes	10847
 CENTRE-EST BOULGOU Femmes	10847
@@ -97,6 +100,7 @@ DPS Female	16951
 DRH-SSDS Direction des Ressources SI-GRH la Femme	17845
 Dec-2023 Female	15663
 Deputada Maria de Lourdes Roque Caposso Femandes	539
+Designation Male Female Sum	18578
 Digital Female Pioneers Initiative	16046
 Direction des Femmes	18286
 Directoire Nationale des Femmes	18286
@@ -122,6 +126,7 @@ Electricité EFFECTIF PAR GENRE HOMME FEMME	10975
 Emmanuel Femi-Adejobi	10284
 Empowering Female Entrepreneurs	6948
 Energie Rurale FEM Fonds	10975
+Energy and Health Sector Femi Coker	18582
 Engr. Femi Williams Ahmad Abubakar Bello	11857
 Enquête Femme Homme	13300
 Enrolment of Female Learners	2775
@@ -148,6 +153,7 @@ FEMALE MALE Banks	15130
 FEMALE MALE UNKNOWN GENDER Figure	16935
 FEMALE SOCIAL MEDIA USER IDENTITIES	12214
 FEMALE STUDENTS AT SCHOOL OF SCIENCE	12358
+FEMALES Table C	18464
 FEMAPH	17845,101
 FEMAPH Activité	17946
 FEMAPH CPS-SS DS PF	17946
@@ -194,7 +200,7 @@ FEMoUS	14124
 FemCode Africa	16942
 FemDataSummit	8713
 FemTech	2239
-Female	582,207,151,18,196,713,226,404,215,892,187,71,130,661,35,34,1857,254,95,19,505,311,106,8,9,244,716,935,855,132,12,32,17,41,70,24,12,28,79,97,12,203,130,28,7,295,19,7,1,20,3,13,6,40,1,6,17,6,12,145,24,24,21,8,18,5,16,61,8,10,33,4,17,9,2,2,18,9,20,33,162,322,355,14,12,34,69,137,322,88,658,79,33,37,17,4,15,71,58,27,16,8,25,29,45,6,108,167,13,36,93,48,3,13,41,3,2,62,120,124,44,19,47,65,43,73,6,170,178,24,214,24,20,6,19,1,13,15,1,20,23,2,4,79,17,3,17,11,22,86,13,4,33,593,26,54,4,171,160,57,5,4
+Female	582,207,151,18,196,713,226,404,215,892,187,71,130,661,35,34,1857,254,95,19,505,311,106,8,9,244,716,935,855,132,12,32,17,41,70,24,12,28,79,97,12,203,130,28,7,295,19,7,1,20,3,13,6,40,1,6,17,6,12,145,24,24,21,8,18,5,16,61,8,10,33,4,17,9,2,2,18,9,20,33,162,322,355,14,12,34,69,137,322,88,658,79,33,37,17,4,15,71,58,27,16,8,25,29,45,6,108,167,13,36,93,48,3,13,41,3,2,62,120,124,44,19,47,65,43,73,6,170,178,24,214,24,20,6,19,1,13,15,1,20,23,2,4,79,17,3,17,11,22,86,13,4,33,593,26,54,4,171,160,57,5,4,78,4,2,91
 Female Across	12409
 Female Address	17099,15
 Female Agripreneurs	5923,191,295,107,247,33,469
@@ -203,6 +209,7 @@ Female Annually Ghana Refugee	15845
 Female Annually Ghana Refugee Board Objective	15845
 Female Annually MINTER	15845
 Female Annually MINTER SMTDP	15845
+Female Attorney-General and Minister Parliament Approves Dr	18442
 Female Basic Phone Smartphone Feature Phone	582
 Female Beneficiaries Ratio	15578
 Female Both Country Of Death	12151
@@ -226,7 +233,7 @@ Female Financial Inclusion	12122
 Female Founder	4972
 Female Frequency Annual Data	15661
 Female Frequency Annual Project	15661
-Female Genital Mutilation	9766,7185
+Female Genital Mutilation	9766,7185,1490,17
 Female Genital Mutilation FPOS	14857
 Female Genital Mutilation and Cutting	12188
 Female Genital Schistosomiasis	13166
@@ -236,6 +243,7 @@ Female Head	17127
 Female Infant	13040
 Female Internet	15617,2260,1
 Female Irrigation	15473
+Female Journalist	18582
 Female Journalists Association of Liberia	16984
 Female Jun	16994
 Female LATIN AMERICA	11964
@@ -255,6 +263,8 @@ Female Male Female Male Bomi	16935
 Female Male Female Male Female Male	16935
 Female Male Northern Province Southern Province	12413
 Female Male Other Services Industry	12445
+Female Male Regional	18441
+Female Male Senior Secondary	18441
 Female Male Total Agriculture	11581
 Female Male Total Guinea-Bissau	11581
 Female Male Unknown Total Female Male	16935
@@ -295,9 +305,10 @@ Female-owned	2712,3867,8506
 Female. Figure	3862
 Female. Frequency Annual Data	15661
 Female. Proportion	12383
+Female7	18490
 FemaleMale Age	15721
 FemaleMale Phone Number	15721
-Females	582,376,9810,196,5,162,61,692,1,10,264,1,44,1,146,4,54,4,18,56,152,472,1945,548,59,1308,2
+Females	582,376,9810,196,5,162,61,692,1,10,264,1,44,1,146,4,54,4,18,56,152,472,1945,548,59,1308,2,1654
 Females Board Composition Summary Gender Distribution	11131
 Females Chair	17099
 Females102.7 Males Births	15056
@@ -305,6 +316,7 @@ Female’s Life	15725
 Fembo	18154
 Femenino	16864,56,42,7
 Femenino Masculino Fuente	16969
+Femi Coker	18582
 Femi Edgal	10572
 Femi Hamzat	2563
 Femi Iromini	7565
@@ -439,6 +451,7 @@ HOMMES FEMMES MENAGES	13390
 HOUET Femmes	10847
 Halfway House Age Groups Male Female	12977
 Health Quality Public Perception of Female Leadership	12488
+Highest Degree Male Female Sum	18578
 Hom Femm S	13390
 Homens Participação Participação Feminina Masculina	17147
 Homm Femm TOT	13390
@@ -538,6 +551,7 @@ MBIF Catégorie Hommes Femmes Conjoints	13390
 MOUHOUN Femmes	10847
 MUTUELLE FEMMES Enceinte SOPECO	15488
 Madagascar. FEMMES ET HOMMES	14570
+Madam Femi	18582
 Main Economic Activity Male Female	12445
 Major Group Male Female Total Number	15056
 Male Country Of Birth Male Female	12151
@@ -564,7 +578,7 @@ Male Female Provisional	14832
 Male Female Rank Cause	15056
 Male Female Recruitment	14760
 Male Female Rural Urban	12431
-Male Female Table	11192
+Male Female Table	11192,7251
 Male Female Total Did	16950
 Male Female Total Literate	16950
 Male Female Total Male Female	11192,3704,2054
@@ -586,6 +600,7 @@ Male Headed Female Headed Figure	17127
 Male Number Female	18309
 Male and Female	12253
 Males Female Rank Cause	12413
+Males Females	18441
 Mali FEMAPH	17946
 Mankayane Facility Clients Type Male Female	12977
 Manufacturing Male Female Total Water	12445
@@ -666,6 +681,7 @@ PARTICIPATION DES FEMMES ET DES HOMMES	13300
 PARTIR DE LA LISTE DES FEMMES	13300
 PASSORE Femmes	10847
 PBC Female	16079
+PHC. Region Total Male Headed Female	18443
 PLATEAU CENTRAL GANZOURGOU Femmes	10847
 PME Femmes	13390
 PME Femmes Mixtes	13390
@@ -709,6 +725,8 @@ Rank Cause of Death Male Female	12151
 Rank Female Male	12413,2643
 Rate Female Female	12151
 Rate Male Male Female	12151
+Region Male Female	18443
+Region Male Female Electricity	18443
 Regional Feminist Data Agenda	8713
 Religious Affiliation and Sex Male Percent Female	16921
 Représentante de ONU Femmes	13547
@@ -789,6 +807,7 @@ TOT Hom Femm TOT S	13390
 TOT Homm Femm S	13390
 TOUTES LES FEMMES	13300
 TUY Femmes	10847
+Tackle and Prevent Female Circumcision	18624
 Taux Femmes-années	13300
 Temporary Permanent Outsourced Female Male Domestic	15136
 Temporary Permanent Outsourced Total Female Male	15136

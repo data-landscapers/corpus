@@ -39,6 +39,7 @@ FAO Chief Technical Advisor	17054
 FAO Committee	16937
 FAO Conducts Training	15589
 FAO Data Lab	15648
+FAO Deputy Regional Representative for Africa	18707
 FAO Digital Soil Map	17140
 FAO EOSTAT	13475,2173
 FAO Expands Digital Farmer Registry	12507
@@ -46,7 +47,7 @@ FAO FLEGT	16853
 FAO FRA	17140
 FAO Figure A2.2. Herbaceous-dominated	15129
 FAO Food Price Index	17104,89,228
-FAO Food and Agriculture Organization	11390,497,266,1,9,178
+FAO Food and Agriculture Organization	11390,497,266,1,9,178,6327
 FAO Food and Agriculture Organization FDI Foreign	10841
 FAO GIEWS	17157
 FAO Global	17140
@@ -66,7 +67,7 @@ FAO Organisation des Nations	15715
 FAO Organisation des Nations Unies	15724
 FAO Organización	16875
 FAO Project Coordinator	11639
-FAO Regional Office for Africa	13394,81
+FAO Regional Office for Africa	13394,81,5232
 FAO Representative	13144,1949,2843
 FAO Representative José Luis Fernandez	8754
 FAO Resilience Team Leader for Southern Africa	12507
@@ -83,20 +84,21 @@ FAO WaPOR	17157
 FAO WaPOR Portal	17157
 FAO and AfDB	12507
 FAO and CAFI	17054
-FAO and IFAD	17165
+FAO and IFAD	17165,1405
 FAO and ISO	15129
 FAO and MAFSN	12740
 FAO and NDISO	15129
 FAO and PAM	15715
 FAO and UNICEF	17101
 FAO and UNICEF. Within	17101
-FAO and WFP	3583
+FAO and WFP	3583,15100
 FAO and WWF Tanzania	11639
 FAO and World Bank	17140
 FAO the NASA Harvest GEOCIF	13094
 FAO's EOSTAT	15648
 FAO's Earth Observation for Agricultural Statistics	13475
 FAO's IDEA Platform Contact Donald Chidoori	12507
+FAO's Regional Office for Africa	18707
 FAO's SEPAL	17054
 FAO's Somalia Representative Etienne Peterschmitt	15093
 FAO's WaPOR	12828
@@ -109,7 +111,8 @@ FAO-SWALIM	9766,5183
 FAO-WFP	3583
 FAO-funded	16970
 FAO-led Food Balance Sheet Training	13049
-FAO-supported	12507
+FAO-supported	12507,6166,34
+FAO-supported SPARS	18707
 FAO. Category	11398
 FAO. Estudio	16875
 FAO. IPC Global Partners	12978
@@ -120,6 +123,7 @@ FAO. Partenariat	17853
 FAO. Por	8048
 FAO. Publisher	11398
 FAO. Rome	15129
+FAO. Training	18570
 FAODUMO MOHAMED OMAR S	15047
 FAOLEX	940,10629,1,1722,657,3978
 FAOLS	12667

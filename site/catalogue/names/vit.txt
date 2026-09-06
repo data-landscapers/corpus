@@ -52,10 +52,11 @@ Civil Registration And Vital Statistics	12413
 Civil Registration And Vital Statistics Technical	12337
 Civil Registration Management and Vital Statistics System	2274,5
 Civil Registration Services The Kenya Vital	12151
+Civil Registration Vital	18449
 Civil Registration Vital Statistics and Identity DCR	12337
 Civil Registration and Vital	12241,2815
 Civil Registration and Vital Events	12533
-Civil Registration and Vital Statistics	171,806,226,451,56,1328,1219,3604,515,1159,1230,15,39,9,305,9,248,90,489,88,7,273,1,29,3,43,226,305,61,2,73,15,330,253,545,399,267,5,56,106,27,28,98,38,1065,208,376,26,85,388,744,127
+Civil Registration and Vital Statistics	171,806,226,451,56,1328,1219,3604,515,1159,1230,15,39,9,305,9,248,90,489,88,7,273,1,29,3,43,226,305,61,2,73,15,330,253,545,399,267,5,56,106,27,28,98,38,1065,208,376,26,85,388,744,127,183,22,3,45,10,61
 Civil Registration and Vital Statistics BDRS	12639
 Civil Registration and Vital Statistics Coming Soon	12406
 Civil Registration and Vital Statistics D4H Data	15056
@@ -71,6 +72,7 @@ Civil Registration and Vital Statistics System	4120,6645,10,1363,200,29,46,2476,
 Civil Registration and Vital Statistics Systems	11133,1280
 Civil Registration and Vital Statistics The Mountain	12761
 Civil Registration and Vital Statistics ZIMBABWE CRVS-HEALTH	13678
+Civil Registration. Vital	18440
 Civil and Vital Statistics Unit Tel	12639
 Conditions Kenya Vital Statistics Report	12151
 Core Web Vitals	13461
@@ -86,6 +88,8 @@ Decentralization. The Bureau of Vital Statistics	16971
 Demographic and Vital Statistics	12962
 Demographic and Vital Statistics Division	12962
 Digital ID and Civil Registration and Vital Statistics	13005
+Director for HMIS and Vital Statistics	18628
+Directorate of Vital Statistics	18474
 Directorates. Approved By Vitaliy Kramarenko	15752
 Diseases Kenya Vital Statistics Report	12151
 Division of Vital Statistics	17395
@@ -230,6 +234,7 @@ Snapshot of Civil Registration and Vital Statistics Systems	327,1,11810
 Somalia's Civil Registration and Vital Statistics	15211
 Strategic Civil Registration and Vital Statistics	14149,1
 Strategic Plan. Vital	12367
+Strengthen Civil Registration and Vital Statistics	18529
 Strengthening Civil Registration and Vital Statistics System	12250
 Stress Test By Emmanuel Vitus	10375
 Suplementação de Vitamina	17015
@@ -281,11 +286,11 @@ VSR Vital Statistics Report	12367
 ViT-LSTM	13162
 ViT-based	13162
 Village de Vitré	1005
-Vital	970,1945,6045,1859,3,1316,13,99,77,10,1,29,11,35,31,27,135,356,43,474,931,114,70,300,162,406,282
+Vital	970,1945,6045,1859,3,1316,13,99,77,10,1,29,11,35,31,27,135,356,43,474,931,114,70,300,162,406,282,2696,34
 Vital Documents	14137
 Vital Event	12151,75
 Vital Event Record	12151
-Vital Events	12226
+Vital Events	12226,6248
 Vital Events Registration	12250
 Vital Events Registration Agency	12257
 Vital Events Registration and National ID Proclamation	12226
@@ -303,7 +308,8 @@ Vital Sectors Driving Recovery	15048
 Vital Signs Profile	17869
 Vital St. DB	12337
 Vital Statistical Record	12151
-Vital Statistics	200,453,8882,2603,229,46,946,120,117,1460,571,1206,27
+Vital Statistics	200,453,8882,2603,229,46,946,120,117,1460,571,1206,27,1614
+Vital Statistics CSO Civil Society Organizations	18478
 Vital Statistics Community Engagement Strategic Plan	13596
 Vital Statistics Database Informants	12337
 Vital Statistics PREFACE	12338
@@ -334,6 +340,7 @@ Vital Strategies. Il	15599
 Vital Strategies. UN	12151
 Vital Strategies. United Nations Economic Commission	12413
 Vital Stratégies	17968
+Vital System	18449
 Vital Wave	14434
 VitalReg	2339,5293,2402,231,1786,6215
 VitalStatistics	13244
@@ -347,11 +354,11 @@ Vitalite80	12376
 Vitality	6232,773
 Vitaliy Kramarenko	1830
 Vitalliance Corp	13187
-Vitally	1161
+Vitally	1161,17329
 Vitaloccurrences	16833
 Vitals Collection Points	15798
 Vitambulisho	2718,1381,288,1940
-Vitamin	970,9859,1900,4193,205,779
+Vitamin	970,9859,1900,4193,205,779,721
 Vitamin A-rich	17127
 Vitamin B12. Intervention Area F6	14818
 Vitamin C	17127

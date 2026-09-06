@@ -8,6 +8,7 @@ Cooling	1988,7135,3130,136,277,2483,15,1824
 Cooling Capacity	9123
 Cooling Cooling System	9446,1510
 Cooling System	12253
+Cooling-Off Period for Senior Officers	18556
 Cooling-off	28,11151,1353,387,11,3909
 Data Centre Cooling System	12253
 Excessive Energy Consumption for Cooling and Operations	17114

@@ -23,7 +23,7 @@ Band Devices	736
 Band Devices Requirements	736
 Bring Your Own Device	34,10512,4508,110,348
 Bring Your Own Device CIL	15512
-Broadband Devices	16883,1
+Broadband Devices	16883,1,1601
 COMPTES EN DEVISES OU EN DIRHAMS	17485
 Centralized User and Device Management	12241
 Compute Unified Device Architecture	9475
@@ -51,8 +51,8 @@ Develop the Bring Your Own Device	11986
 Develop the Mobile Device Management	11986
 Developers of Fiscal Devices	13606
 Deviation	10870,365,751,1199,1361,534
-Deviations	9855,1142,2188,1895,176,407
-Device	26,873,2752,283,1977,140,372,170,130,25,198,785,1198,183,647,273,177,512,211,85,178,662,22,115,53,1216,84,850,477,345,459,2173
+Deviations	9855,1142,2188,1895,176,407,2862,42
+Device	26,873,2752,283,1977,140,372,170,130,25,198,785,1198,183,647,273,177,512,211,85,178,662,22,115,53,1216,84,850,477,345,459,2173,1024
 Device Access	16799
 Device Access Fund	14966,53
 Device Access Management System	15019
@@ -61,6 +61,7 @@ Device Affordability and Access Scheme	4653
 Device Affordability and Access Scheme Data Protection	4653
 Device Assembly Plant	9336
 Device Certification Guidelines	3934
+Device Compatibility	18513
 Device Compliance Management	11231
 Device Driver	11956
 Device Encourage	14674
@@ -73,8 +74,9 @@ Device Sales	14151
 Device School Support System	11857
 Device V	5029
 Device VI	5029
-Devices	582,317,73,1804,875,283,594,125,837,169,419,252,1971,1458,648,1450,22,480,153,559,535,1117,2160,1,58,21,256,333,166
+Devices	582,317,73,1804,875,283,594,125,837,169,419,252,1971,1458,648,1450,22,480,153,559,535,1117,2160,1,58,21,256,333,166,767,79
 Devices Acquisition Type	16884
+Devices Design	18485
 Devices Devices	14723
 Devices For Primary Health Care	10776
 Devices Manuals	13185
@@ -171,10 +173,11 @@ Medical Device	3651,4650,2863,104
 Medical Device Committee	3651
 Medical Device Regulators Forum	8301
 Medical Device Software	11268
-Medical Devices	3651,9655
+Medical Devices	3651,9655,5235
 Medical Devices.https	8301
 Ministry of Health and Wellness. Mrs. K Devi	14736
 Misheeta Devi Gungah Basant Rai Government	14745
+MoCTI Hands Over Assistive Devices	18515
 Mobile Device	15164
 Mobile Device Financing Facility Mr. Kolubah	2916
 Mobile Device Management	11231,5693,47
@@ -210,22 +213,27 @@ PART IV Fuel Fiscal Device Operations	13606
 PAYMENT SYSTEMS ACCESS DEVICES	4517,2461
 POSTPAID DEVICE	11262
 PRETS OU EMPRUNTS EN DEVISES P1G	18032
+Passive Start Radio Identification Device	18444
 Payment Access Devices	4517,2461
 Payment Systems Access Points and Devices	4517,2461
 Percentage Deviation	11259
 Pharmaceuticals and Medical Devices Management and Services	14033
 Photographic Enforcement Device PHS	14760
 Pierrick Devidal	15220
+Possession of Devices and Computer Data Unauthorised Access	18675
 Power Device External	34
 Prize Winner- Misheeta Devi Gungah Figure	14745
+Product Link Cellular Radio Telematics Device	18444
 Public Debt Consumption Deviation	1828
 Public Sector Management. Mrs. Kalpana Devi	14736
 Quality Management. Mrs. Nulini Devi Kinnoo	14736
 RAMPHUL Taranginee Devi Electoral Officer	14770
 RFP. Deviations	12681
+Radio Identification Device	18444
 Recovery Devices	14921
 Reduction of National Aggregate Deviation	12175
 Refresh Device Upgrades Upgrading	16963
+Registration of Medical Device	18541
 Regulation of Medical Device Software	11268
 Remote Wipe for InTune Device	11231
 Resistance Temperature Device	16947
@@ -247,6 +255,7 @@ Supply of Pharmaceuticals and Medical Devices	14033
 Surge Protection Device	9123
 Surge Protection Device NFPA	9123
 Surge Protective Devices	9123
+Targeted Devices	18686
 Teacher Digital Device	899
 Technical Specifications of Fuel Fiscal Devices PART	13606
 Technical Specifications of Fuel Fiscal Devices. Second	13606
@@ -267,5 +276,6 @@ VAT. Electronic Fiscal Devices	12948
 Virtual Fiscal Device	13606
 Virtual Fuel Fiscal Device	13606
 Virtual Fuel Fiscal Devices	13606
+Websites and Electronic Accounts Hacking E-Payment Devices	18675
 X MSA2052 Storage Devices	11209
 Xavier Deville. Cette	14581

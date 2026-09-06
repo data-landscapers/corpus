@@ -29,7 +29,7 @@ Analyse SWOT FORCES FAIBLESSES	15936
 Analyse des Forces	17860
 Anned Forces	15363
 Arab and Foreign Forces	15492
-Armed Forces	5270,4779,1468,340,2885,256,344,51,80,1366,1414
+Armed Forces	5270,4779,1468,340,2885,256,344,51,80,1366,1414,181,33
 Armed Forces Day Deputy Foreign	17025
 Armed Forces Day REPORT	17025
 Armed Forces Health Services	11401
@@ -63,6 +63,7 @@ Chef de Section Hydrauli- Ministère des Forces Armées	17812
 Chef des Forces de Police Nationale	16143
 Chief of Defence Forces	9781,1894
 Chief of Staff-General Deputy of Armed Forces	16649
+Chiefdom Police Force	18477
 Civilians Absence of Forced Migration Absence of Human	10759,78,1315,188
 Close Relatives Friends Were Forced	16902
 Community Health Task Force	15833
@@ -159,10 +160,11 @@ Financial Inclusion of Forcibly Displaced COVID-19	12297
 Financial Sector Deepening of Forcibly Displaced Persons	12297
 Financial Year. Mauritius Police Force Category-wise	14760
 Fire and Rescue Force	10460
+Flood Forecasting Task Force	18578
 FoRCEMENT DE L	14479
 Food Security Task Forces	12158
 Forcas	2228
-Force	17,298,328,318,816,607,16,126,1062,273,386,55,31,235,42,129,14,1091,245,870,374,119,885,103,31,136,50,963,1093,123,98,242,869,939,123,222,12,49,1029,1,43,273,9,15,21,86,199,476,93,6,244,16,35,7,160,116,76,369,186,8,509,32,424,22,34,104,305,9,25
+Force	17,298,328,318,816,607,16,126,1062,273,386,55,31,235,42,129,14,1091,245,870,374,119,885,103,31,136,50,963,1093,123,98,242,869,939,123,222,12,49,1029,1,43,273,9,15,21,86,199,476,93,6,244,16,35,7,160,116,76,369,186,8,509,32,424,22,34,104,305,9,25,164,6
 Force ARTICLE	14409
 Force Account	17180
 Force Armée Congolaise	5103
@@ -186,10 +188,14 @@ Force Multiplier	15123
 Force Multiplier and Global Conduit	4528,7984
 Force Police Cadre Civilian Staff	14760
 Force Public Relations Officer	2269
+Force Sep	18492
 Force Short Title and Date of Entry	16850
+Force Sierra Leone Deposits Instruments of Ratification	18492
 Force This Proclamation	13954
 Force This Treaty	14409
+Force URL	18492
 Force and Amendment The Convention	17745
+Force and Application	18602
 Force and Disbursement	16219
 Force and Duration	15901
 Force and Duration Banque	15901
@@ -236,6 +242,7 @@ Forces Faiblesses Analyse des Opportunités	17860
 Forces Faiblesses PNDIS	13306
 Forces Le Conseil	15405
 Forces Optimiser	15999
+Forces SLe Sierra Leone	18512
 Forces United Nations Integrated Transition Assistance	15342
 Forces de Defense Coordonner	15999
 Forces de Défense	643,4661,2070,2885,233,1105,1732,913,331,1912,150,2,8,6,1020,517,44,15,4,31,4
@@ -250,6 +257,7 @@ Forces-FaiblessesOpportunités-Menaces	15722
 Forcible	14713
 Forcibly	16585,738,1
 Forcibly Displaced Situation	10841
+Forcier	18611
 Forcing	4630,50,637,7723
 Foreign Enterprise and Forced Divestment	11310
 Fourth Industrial Revolution. The Task Force	12935
@@ -328,12 +336,13 @@ Labour Force Preliminary Stats Brief Version	12600
 Labour Force Reskilling and Human Capacity Development	12935
 Labour Force Skills	12935
 Labour Force Statistics	17149
-Labour Force Survey	6652,845,959,3626,247,605,43,369,3528,231,11
+Labour Force Survey	6652,845,959,3626,247,605,43,369,3528,231,11,1359
 Labour Force Survey Annual Report	12329
 Labour Force Survey NISR	12445
 Labour Force Survey Report	1867
 Labour Force Surveys	13479
 Le Social Performance Task Force	10965
+Leone Armed Forces	18457
 Les Forces	15548
 Les Militaires des Forces Armées	17982
 Les Officiers des Forces Armées	17817,82
@@ -371,7 +380,7 @@ Namibia's Task Force	5036
 Namibian Police Force	13097
 National Broadband Task Force	14723
 National Centre for Universities and Business Task Force	396
-National Cyber-Security Task Force	7447
+National Cyber-Security Task Force	7447,11280
 National Defence Force	11279
 National Ebola Response Task Force	16383
 National Executing Task Force	11607
@@ -394,13 +403,14 @@ Nos Forces	10934
 Outside Labour Force	14815,17
 Outside Labour Force Both Sexes	14832
 Outside the Labour Force	11296,3536
+Overseeing the Sierra Leone Police Force	18477
 POLICY FORCES THE ISSUE	12050
 PORTANT NOMINATION DE MILITAIRES DES FORCES	17828
 PROJECTS AND FORCASTS DIVISION DEPARTMENT	10980
 Pan-African Task Force	1243
 Planned Construction of Mauritius Disciplined Forces Academy	14830
 Police COMMANDEMENT DES FORCES DE POLICE	15524
-Police Force	1000,8970,490,1585,1241,29,1427,18,21,203
+Police Force	1000,8970,490,1585,1241,29,1427,18,21,203,3450
 Police Force and Fire and Rescue Services	14830
 Police Forces	14914,426
 Police Forces SADC PF Norms and Standards	12201
@@ -427,6 +437,7 @@ Rapid-Response Task Force	14818
 Regional Gender Permanent Task Force	12946
 Regular Force	16830
 Release of Labour Force	14832
+Republic of Sierra Leone Armed Forces	18440
 Response Task Force	1777
 Rwanda Labor Force Survey	14922
 SADC SR-CIRT Task Force	5780
@@ -437,9 +448,11 @@ SERVICES DU MINISTERE DES FORCES ARMEES	17899
 SWOT Forces	15474
 SYNTHESE DES FORCES	17842,449
 SYNTHÈSE DES FORCES	17842
-Security Forces	13123
+Security Force for Abyei USAID United States	18668
+Security Forces	13123,5341
 Security Forces Kill Protesters	9399
 Services du Ministère des Forces Armées	17899
+Servitude and Forced Labour	18597
 Seychelles Police Force	7760
 Sick and Shipwrecked Members of Armed Forces	14742
 Social Cohesion and Forced Displacement	1867
@@ -480,7 +493,7 @@ Sécurité Les Forces de Défense	18310
 TECHSO-GROUP Join Forces	4925
 Tanzania People’s Defence Force	2867
 Task Cybersecurity Council. Force	1777
-Task Force	1777,37,812,1235,242,425,508,193,2918,4190,175,398,25,172,203,151,833,9,319,120,8,182,65,521,418,922,509,829
+Task Force	1777,37,812,1235,242,425,508,193,2918,4190,175,398,25,172,203,151,833,9,319,120,8,182,65,521,418,922,509,829,487
 Task Force Committee	14082
 Task Force Curriculaires	15529
 Task Force Name	11129
@@ -492,8 +505,9 @@ Task Force of Senior Officials	13417
 Task Force. Page	15936
 Task Forces	14997
 Tax Evasion Protest Erupts Over Forced	3768
-Technical Task Force	1777
+Technical Task Force	1777,16842
 U.S. Air Force Mobility Guardian	4434
+UAE Armed Forces	18610
 UN Legal Identity Agenda Task Force	5274
 UN Legal Identity Task Force	12337
 UNDP and Tony Blair Institute Join Forces	4046
@@ -505,6 +519,7 @@ Umbutfo Eswatini Defence Force	12922,34,167
 Union Socialiste des Forces Populaires	8891
 Union des Forces Démocratiques	15465,991
 United Nations Interim Security Force for Abyei	14959
+United Nations' Regional Protection Force	18716
 Vandenberg Space Force Base	6897
 Verbal Autopsy Task Force	12338
 Warning Signs Absence of Forced Migration	12352

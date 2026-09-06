@@ -3,6 +3,7 @@ ACCOUNTS DESCRIPTION NOTES FY2024 FY2023 RECEIPTS	16978
 AFS FY	1944
 AGO FY2025	2295
 APDP FY2024	1990
+AWP&B for FY25	18623
 Across FY26	6100
 Act FY Financial Year GHC Ghana	14674
 Action FGM Female Genital Mutilations FY	15604
@@ -31,6 +32,7 @@ Botswana FY2025	2637,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,728
 Botswana FY2026	5631,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 Botswana's FY2024	1660,1,1,1,1,1,1,1,1,1,5,1
 Broadcast Content Standards FY	6946
+Budget Execution FY2025 Budget	18500
 Budget FY	14750
 Business Plan and Budget for FY	15023
 Business Plan and Procurement Plan for FY	15023
@@ -65,6 +67,7 @@ Central African Republic FY2024	1930,1,1,1,1,1,1,1
 Central African Republic FY2025	2002,1,1,1,1,1,1,1,1,1,1,1
 Central African Republic FY2026	3994,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1787
 Central African Republic FY21	16436
+Circular for FY2026	18500
 Collections for FY	14985
 Comorian FY2024	2561
 Comoros' FY2024	2561
@@ -123,6 +126,7 @@ FY FY FY FY	6946
 FY FY FY License Category Purpose	6946
 FY Financial Year GCA Global Cybersecurity	6946
 FY Financial Year IMF International Monetary	13060
+FY Fiscal Year	18614
 FY Fiscal Year GBVH Gender Based	1818
 FY Indicator Name End Target Direct	11525
 FY Overall	12969
@@ -145,7 +149,7 @@ FY14-FY16 WBG Country Partnership Strategy	10779
 FY15 DLI	15663
 FY16 DLI	15663
 FY16-19	17962
-FY16-23	15513,5,35
+FY16-23	15513,5,35,2903
 FY17 DLI	15663
 FY17 Energy Transmission and Distribution	15702
 FY17 Public Administration	15702
@@ -167,7 +171,7 @@ FY20-25	969,14584
 FY2012	15411,252
 FY2014	88
 FY2015	88,2
-FY2016	147,6949,3454,2868
+FY2016	147,6949,3454,2868,5111
 FY2017	15601
 FY2017 Budget Proclamation	750,540
 FY2017 IFMIS	1789,1,1,1,1,1413,3881
@@ -175,7 +179,7 @@ FY2018	287,6809
 FY2018. Project	291
 FY2019	4048,1600,1,7299,2571
 FY2020	461,102,6533,7889
-FY2021	462,66,176,1,6391,1382,3487,986,157,1877,619,832
+FY2021	462,66,176,1,6391,1382,3487,986,157,1877,619,832,2012
 FY2021. Crosswalk	622
 FY2022	721,203,1302,247,367,289,919,2114,934,4869,3020,34
 FY2022 MIGA	914,1,1,1,1,1,1,1,1,1
@@ -187,7 +191,7 @@ FY2023 and FY2024	12399,4255
 FY2023-2024	1377
 FY2023-24	14744
 FY2023-24. The Officer	14744
-FY2024	987,264,1,1,1,1,1,10,6,9,4,1,3,2,3,1,1,4,1,1,5,15,1,1,10,3,2,1,2,15,74,1,82,27,2,38,5,1,4,1,6,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,31,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,45,5,1,1,1,1,10,1,1,1,9,1,1,1,1,1,1,1,1,1,11,18,1,15,20,4,1,3,28,51,1,17,1,21,17,16,3,3,14,21,14,4,1,2,4,2,3,1,1,1,1,1,3,2,3,4,2,1,1,1,1,1,1,1,1,1,57,1,79,1,139,11,51,45,39,49,14,1,60,13,1,86,214,12,1,1,1,6,93,17,35,7,1,76,7,1,54,35,29,34,106,3,68,77,92,63,47,30,233,1,200,28,34,32,5,1,4,1,13,13,1,1,2,1,1,1,1,44,1,17,1,348,40,60,82,211,226,184,15,1,164,299,50,130,137,159,17,341,139,3,1,7,789,32,50,3283,715,986,11,171,285,1492,75,38,125,1068,220,542,1381
+FY2024	987,264,1,1,1,1,1,10,6,9,4,1,3,2,3,1,1,4,1,1,5,15,1,1,10,3,2,1,2,15,74,1,82,27,2,38,5,1,4,1,6,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,31,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,45,5,1,1,1,1,10,1,1,1,9,1,1,1,1,1,1,1,1,1,11,18,1,15,20,4,1,3,28,51,1,17,1,21,17,16,3,3,14,21,14,4,1,2,4,2,3,1,1,1,1,1,3,2,3,4,2,1,1,1,1,1,1,1,1,1,57,1,79,1,139,11,51,45,39,49,14,1,60,13,1,86,214,12,1,1,1,6,93,17,35,7,1,76,7,1,54,35,29,34,106,3,68,77,92,63,47,30,233,1,200,28,34,32,5,1,4,1,13,13,1,1,2,1,1,1,1,44,1,17,1,348,40,60,82,211,226,184,15,1,164,299,50,130,137,159,17,341,139,3,1,7,789,32,50,3283,715,986,11,171,285,1492,75,38,125,1068,220,542,1381,153
 FY2024 AND FY2025	2083
 FY2024 Annexe-6	1294,1
 FY2024 Boletim Oficial	2085,1,1,1
@@ -211,11 +215,15 @@ FY2024-and-earlier	7885
 FY2024. State	2341
 FY2024. The DGB	7885
 FY2024. The FY2026	1256
-FY2025	1285,1,5,3,1,6,11,22,97,1,123,5,24,29,57,2,1,1,1,120,71,47,17,1,1,1,1,1,1,1,59,14,1,25,12,1,1,1,1,1,4,1,1,1,1,1,1,8,9,1,1,1,2,1,1,1,1,1,1,3,51,1,1,78,1,247,102,62,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,236,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,45,10,3,1,1,6,44,108,1,39,1,1,1,1,1,1,1,1,1,17,19,56,33,63,22,96,59,77,24,1,76,54,55,22,1,21,153,1,1,122,168,8,1,1,19,28,2,1,1,6,4,1,1,6,7,7,1,1,1,2,2,6,36,1,7,181,1,1,2,1,181,40,60,2,57,23,137,48,2,60,69,241,63,5,5,4,1,1,1,11,1,152,206,1,1,407,1,1,158,308,193,796,32,50,1331,1053,1614,302,684,11,82,64,152,201,1203,246,121,117,136,932,755,168,118,107,94,901
+FY2025	1285,1,5,3,1,6,11,22,97,1,123,5,24,29,57,2,1,1,1,120,71,47,17,1,1,1,1,1,1,1,59,14,1,25,12,1,1,1,1,1,4,1,1,1,1,1,1,8,9,1,1,1,2,1,1,1,1,1,1,3,51,1,1,78,1,247,102,62,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,236,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,45,10,3,1,1,6,44,108,1,39,1,1,1,1,1,1,1,1,1,17,19,56,33,63,22,96,59,77,24,1,76,54,55,22,1,21,153,1,1,122,168,8,1,1,19,28,2,1,1,6,4,1,1,6,7,7,1,1,1,2,2,6,36,1,7,181,1,1,2,1,181,40,60,2,57,23,137,48,2,60,69,241,63,5,5,4,1,1,1,11,1,152,206,1,1,407,1,1,158,308,193,796,32,50,1331,1053,1614,302,684,11,82,64,152,201,1203,246,121,117,136,932,755,168,118,107,94,901,141,29,47,59
 FY2025 Benin	6896
+FY2025 Budget	18577
+FY2025 Budget. Execution	18577
 FY2025 CPV	3667,1345
 FY2025 Code	1913,177,3169
 FY2025 Cost	16943
+FY2025 GRBs	18512
+FY2025 Gender Budget Statement	18577
 FY2025 Group Financial Highlights Group	15284
 FY2025 National Budget	17139
 FY2025 National Budget. Ministry of Finance and Development	17139
@@ -232,16 +240,30 @@ FY2025-26. Acquired	5655
 FY2025. ARTCI	2046
 FY2025. Implications for GAC High	17364
 FY2025. MIGA	2226
-FY2026	1251,1,1,1,1,1,29,1,6,9,11,10,1,1,18,172,70,78,109,24,1,70,70,6,10,57,2,1,1,23,12,1,1,1,1,1,4,7,1,1,15,8,56,63,3,262,164,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,469,1,46,38,1,151,22,155,140,79,68,22,1,40,54,61,19,1,1,1,55,1,20,29,16,19,1,65,19,64,8,49,2,1,2,9,1,1,7,3,3,7,1,3,1,2,1,5,44,1,17,1,8,1,14,1,3,1,31,43,1,1,1,57,1,1,2,1,80,101,40,4,56,82,154,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,88,121,183,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,1,1,159,1,12,193,1,1,91,40,73,157,46,1,1,1,140,15,1,18,116,51,171,66,76,4,214,135,1040,261,1030,909,1287,1143,1802,94,1380,980,65,266,664
+FY2025. The CMU	18576
+FY2026	1251,1,1,1,1,1,29,1,6,9,11,10,1,1,18,172,70,78,109,24,1,70,70,6,10,57,2,1,1,23,12,1,1,1,1,1,4,7,1,1,15,8,56,63,3,262,164,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,469,1,46,38,1,151,22,155,140,79,68,22,1,40,54,61,19,1,1,1,55,1,20,29,16,19,1,65,19,64,8,49,2,1,2,9,1,1,7,3,3,7,1,3,1,2,1,5,44,1,17,1,8,1,14,1,3,1,31,43,1,1,1,57,1,1,2,1,80,101,40,4,56,82,154,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,88,121,183,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,1,1,159,1,12,193,1,1,91,40,73,157,46,1,1,1,140,15,1,18,116,51,171,66,76,4,214,135,1040,261,1030,909,1287,1143,1802,94,1380,980,65,266,664,141,12,18
 FY2026 Algerian	4585
 FY2026 Assembly	4419
+FY2026 Budget	18577
 FY2026 Budget Consultations	15004
+FY2026 Budget. Supplementary Budget	18577
 FY2026 Code	3756,785
 FY2026 Cost	16943
+FY2026 GENDER BUDGET STATEMENT	18512
+FY2026 GENDER BUDGET STATEMENT URL	18512
+FY2026 Gender Budget Statements	18512
+FY2026 Gender Responsive Budget Statements	18512
+FY2026 Ministry	18512
 FY2026 National Budget	17364
+FY2026 Policy Hearings and Bilateral Budget Discussions	18577
+FY2026 Summary of Expenditure Estimates	18530
 FY2026 and CVE	4411
 FY2026 the Administration	4830
+FY2026-2028 Medium-Term	18496
 FY2026-2035 Report No. CPF0000062	14627
+FY2026-Budget-Estimates-Summary.pdf	18530
+FY2026-Gender-Budget-Statement.pdf	18512
+FY2026-Gender-Budget-Statement.pdf Author	18512
 FY2026. Kennedy	7009
 FY2027	2473,174,1517,1002,2665,205,6874,2593,856
 FY2027 Cost	16943
@@ -253,6 +275,7 @@ FY2028 Cost	16943
 FY2029	4164,1
 FY2030	4164,1
 FY21 FY22 FY24 FY25 Total Supervision	16436
+FY21- FY26	18456
 FY21-25	12176
 FY21-26. For LTF	11469
 FY21-FY22	14897
@@ -305,6 +328,7 @@ Flood and Drought Risk FY17	17962
 Food Security Natural Resource Management FY17	17962
 Forex FY Financial Year GDP Gross	15023
 Framework FY Fiscal Year GDP Gross	15731
+Freetown. The FY	18496
 Frequency Band Freq. Band FY	6946
 Frequency Spectrum Authorizations Authorization FY FY	6946
 Funded Positions for FY	14835
@@ -312,13 +336,18 @@ Funding Options Funding Requirement FY26 FY27	17364
 Future Outlook In FY	14985
 Future. FY26 AT A GLANCE	7204
 Fy 03Aorpq8	5235
+Fy2026	18512
 Fyada ID	12228
 Fylings	9961
 Fytia	14548,71
 GDP In FY	15023
+GRB Preparation Process for FY	18512
 Gabon’s FY12-16 Country Partnership Strategy	15511
 Gambia for FY22-FY26	1264
+Gender Budget Statement for FY	18512
 Gender FY17	16436
+Gender Priorities and Interventions for FY	18512
+Gender Responsive Budget The FY2025 Gender	18500
 Ghana FY2024	1512,1
 Ghana FY2026	4480,1,1,1,1,1,1,1,1,1
 Ghana's FY2026	2208
@@ -374,6 +403,8 @@ Looking Ahead In FY27	6100
 Lucky Box and Fyucha	6160
 M'. DFC Annual Report FY2021	462
 MACHINERY-OF-GOVERNMENT CHANGE IN FY2026 MOVES	1285,1,1837,1,1260,1
+MDAs. During FY	18577
+MDAs. The FY2026 National Budget	18577
 MEASURES FROM BUDGET ANNEX FY	14773
 MFBEN FY2024	1776
 MIDCSP FY2025	3171
@@ -396,6 +427,7 @@ Materu of Helensvale FY2026	4896
 Maturity Index No Activity FY	1204
 Mauritania FY18-FY23	1264
 Minister Jerry William Silaa's FY2025	6020
+Ministry of Finance Commenced FY	18496
 Mobile Money Subscriptions FY	6946
 Mobile Traffic Trends FY	6946
 Monetary Policy Development In FY2024	12962
@@ -429,6 +461,7 @@ Online FNB First National Bank FY	12663
 Operator Operator FY	6946
 Outlook FY	12395
 Overall Revenue Performance In the FY	14985
+Overview of GBS FY	18512
 PBB FY2024	1730,1,1,1,1
 PBB FY2025	2963,1,1
 PBB FY2026	6428,1,1,1
@@ -456,6 +489,7 @@ Private Courier Traffic FY	6946
 Private Sector Delivery of Education FY17	16436
 Private Sector Development FY17	15731
 Private Sector Response and Recovery Development FY17	17962
+Process The FY2026 Budget Call Circular	18577
 Project FY2024-25Q2	12962
 Project FY2024-25Q2 Annex	12962
 Project for FY14-16	15411
@@ -484,6 +518,7 @@ RWF No Activity FY	1204
 Receipts FY2024	16978
 Reconciliation FY2024	7885
 Recurrent and Capital Grant for FY	14738
+Reduce Gender Disparities for FY	18512
 Reinstated Broadcast Licences License Category FY	6946
 Related MFBEN FY2025	3167
 Report for FY2025	8872
@@ -509,6 +544,8 @@ Sanitation and Waste Management FY17	15731
 Second Deputy Governor During FY2023-24	14744
 Sectors Major Sector FY17	16436
 Select Financial Period FY	8727
+Sierra Leone FY-Financial Year HR-Human Resource	18576
+Sierra Leone FY2026	18530
 Signal Distributor In the FY	6946
 Social Development and Protection FY17	15731
 Social Protection FY17	15731
@@ -524,6 +561,7 @@ Student Assessment FY17	16436
 Sudatel Group Delivers Record FY2025 Results	15284
 Supersedes the FY2025	6019
 Supp I PBB FY2025	5660,1
+Supplementary Budget FY2025	18500
 TV Subscriptions Technology FY	6946
 Target FY	14985
 Tech. FY	6946
@@ -532,6 +570,7 @@ Third Quarter Sector Statistics Report for FY2025	8872
 Thomas Nicephore FYLLA SAINT-EUDES	16275
 Thomas Nicephore Fylla De Saint Eudes	16275
 Through FY2025	6431
+Through the Budget Call Circular for FY2026	18577
 Tony Fylla	12036
 Top Ten Contracts Awarded During the FY	6946
 Training Plan FY	14761
@@ -544,6 +583,7 @@ USD Million FY Year	16285
 USTDA for FY2026	10351
 USTDA's FY2027	10351
 Ultranet's FY	16412
+United Nations FY Financial	18668
 Unlike FY2024	2085,1,1,1
 Unlike FY2025	4646
 Unlike the FY2024 Boletim Oficial	2089
@@ -558,6 +598,7 @@ Wireless Access FY Financial Year GDP	12395
 World Bank Group Gender Strategy FY16	10964
 World Bank Group’s CPF for Egypt FY2023-27	15663
 World Bank Group’s FY19-FY24 Country Partnership	16960
+World Bank's FY24	18625
 World Bank’s FY14	17849
 World Bank’s FY2010	15601
 YR4 FY5 End Target Frequency Data	15411

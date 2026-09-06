@@ -1,7 +1,7 @@
 APAI CRVS	12219
 Accelerated Improvement of CRVS	171
 Africa CRVS	9804
-Africa CRVS Day	3426,7,1,6370
+Africa CRVS Day	3426,7,1,6370,8670
 Africa CRVS Day. Only	3426
 Africa CRVS Decade	12064
 Africa Programme for Accelerated Improvement of CRVS	13005
@@ -47,8 +47,9 @@ CRVS Country Assessment	13678
 CRVS Country Profile for Somalia	14894
 CRVS Coverage and Performance Overview	13005
 CRVS Coverage and Performance Overview While Malawi	13005
+CRVS DAY IN SIERRA LEONE	18474
 CRVS Data	13005
-CRVS Day	3434,6114,3091
+CRVS Day	3434,6114,3091,5835
 CRVS Decade	9535,13,217,3455,24,433,1,3717
 CRVS Electronic Civil Registration and Vital Statistics	16922
 CRVS Forms	12338
@@ -75,12 +76,13 @@ CRVS Steering Committee	12413,592
 CRVS Steering Group	14889
 CRVS Steering Group The CRVS Steering	14889
 CRVS Strategic Plan	12330,4,33
-CRVS System	12138,81,148,638,2051
+CRVS System	12138,81,148,638,2051,3418
 CRVS System Commitment and Good	13005
 CRVS System MINALOC	12413
 CRVS System and Database No Weaknesses	13005
-CRVS Systems	1345,1,10792
+CRVS Systems	1345,1,10792,6336
 CRVS Systems Snapshot	441
+CRVS Systems for Africa	18474
 CRVS TC	12367
 CRVS TWG	14889
 CRVS TWG The Terms	14889
@@ -94,11 +96,15 @@ CRVS and EMIS	13681
 CRVS and Education	13681
 CRVS and Health	12219,1462
 CRVS and Health Given	13681
-CRVS and ID	13095
+CRVS and ID	13095,5376,3
 CRVS and ID Day	13095
 CRVS and ID Day Celebration	13080
+CRVS and ID Management	18449,22
+CRVS and ID Management System	18474
 CRVS and Identity Management Investment Plan	12534
 CRVS and Identity Management Investment Plan. Strategic	12533
+CRVS and Identity Management System	18474
+CRVS and Identity System and Digitization	18474
 CRVS and Legal Identity	12219
 CRVS and Legal Identity Specialist	12337
 CRVS and MOSIP	6985
@@ -149,6 +155,7 @@ Comparing CRVS	12413,2643
 Complementarity The CRVS	14889
 Comprehensive CRVS Assessment Tool	13005
 Continental CRVS	171
+Continuous Professional Development CRVS Civil Registration	18478
 Coordination of CRVS	12338
 D'EXCELLENCE for CRVS Systems	12138
 DHIS2 EIR and CRVS	977
@@ -168,7 +175,7 @@ E. CRVS	7664
 ECA for CRVS	10775
 EGMRG CRVS	17397
 EIR and CRVS	977
-EMIS and CRVS	13681
+EMIS and CRVS	13681,4848
 Egypt CRVS Journey	16520
 Establish CRVS	13005
 Eswatini's CRVS	12334,610
@@ -254,6 +261,7 @@ Rwanda CRVS National Strategic Plan	12338
 Rwandan CRVS	12338
 Rwanda’s CRVS	12413
 Rwanda’s CRVS and EIR	977
+Sixth CRVS	18474
 Snapshot of CRVS Systems of Tanzania Mainland	327
 Snapshot of CRVS Systems of Uganda	328
 Statisticians and CRVS TC	12367
@@ -261,6 +269,7 @@ Strengthening Digital ID and CRVS Systems	13080
 Strengthening Digital ID and CRVS Systems Development	12241
 Strengthening NRB Operational Capacity for NID and CRVS	13080
 TAs NRIS Monthly CRVS	13005
+TH AFRICA CRVS DAY	18474
 Ten CRVS Milestones	12413,2643
 UNDP CRVS	16312
 UNECA CRVS Assessment	13005

@@ -45,12 +45,17 @@ Polley Fra	1009
 Pollicy	4443,3503,767
 Pollicy Uganda	10392,6385
 Polling	9545,504,1089,1063,460,385
+Polling Agent	18459
+Polling Agents	18459
 Polling Article	15393
-Polling Centre	14852
+Polling Assistant	18459
+Polling Assistants	18459
+Polling Centre	14852,3607
+Polling Centre Manager	18459
 Polling Committee	14852
 Polling Districts	13598
 Polling Premises Article	15393
-Polling Station	13598,1795
+Polling Station	13598,1795,3066
 Polling Unit	9876,173
 Polling Units	10049
 Polling and Counting	10017
@@ -66,6 +71,7 @@ Pollution and Water Contamination	14745
 Pollution de Collecter	14488,1,1
 Pollutions	8673,5815,1,1,3542
 Polly Ericksen	16135
+Prepare for December Polls	18742
 Reference Pollman and Barry2017	8436
 Relevant. ESS3 Resource Efficiency and Pollution Prevention	14937
 Resource Efficiency and Pollution Prevention	17114

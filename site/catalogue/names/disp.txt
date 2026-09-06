@@ -55,6 +55,7 @@ Alternative Dispute Resolution	2668,3008,6224,56,106,239,309,2577,1324,324,108,1
 Alternative Dispute Resolution Act	17139
 Alternative Dispute Resolution AfDB African Development	17139
 Alternative Dispute Resolution Procedure. Key	1742
+Alternative Dispute Resolution Unit	18465
 Alternative Dispute Resolution and Arbitration	17243
 Alternative Labor Dispute Resolution Mechanisms	12389
 Alternative Land Disputes Resolution Mechanism	12389
@@ -63,6 +64,8 @@ Alternative Tax Dispute Resolution	14833
 Anti-Tubercolosis Dispensary of Luanda	10784
 Anuario Estadístico Disponibilidad	16898
 App Txapita. Disponível	2816
+Appeals. Chapter XV DISPUTE RESOLUTION	18602
+Area Child Mortality Disparities Under-5 Mortality	18441
 Ariary. TITRE VIII DISPOSITIONS TRANSITOIRES ET	14417
 Artificial Intelligence Takes Over. Disponível	2816
 Artificial Intelligence. Disponível	2816
@@ -241,6 +244,7 @@ Choix du Dispositif	13375
 Christian Community Services Mayori Dispensary Data	7167
 Classification and Disposal	12253
 Comarca da Praia. CAPÍTULO IV DISPOSIÇÕES TRANSITÓRIAS	15433
+Commission ADR Alternative Dispute Resolution CBOs	18477
 Complaints and Dispute Handling The Authority	12256
 Complaints and Resolution of Customs Disputes Article	15492
 Concessions and Disposals Act	14965
@@ -258,6 +262,7 @@ Covid-19 Disponibilidad	16898
 Crisis of Displacement	12227
 Crisis of Displacement. Ithaca	12227
 Cuentas Ambientales Disponibilidad	16898
+Customary Mechanisms for Dispute Resolution	18631
 Customer Disputes	16835
 Código Penal. CAPÍTULO III Disposições Processuais	6970
 D Disponibilité	15493
@@ -618,7 +623,7 @@ Directeur Général de FirstBank RDC. Disponible	4815
 Direito CAPÍTULO I Disposições Gerais Artigo	6462
 Disparate	5533
 Disparidades	11523
-Disparities	1814,9026,1076,362,2618,708,2139
+Disparities	1814,9026,1076,362,2618,708,2139,698
 Disparities Linked	15604
 Disparition	1299,15337,1483
 Disparity	10844,6283,996
@@ -682,7 +687,7 @@ Displacement Tracking Matrix URL	18193
 Displacement-affected	14874
 Displacements	3583
 Displacing American	6582
-Display	34,906,69,3667,1011,1525,2524,2894,51,568,317,856,1445
+Display	34,906,69,3667,1011,1525,2524,2894,51,568,317,856,1445,2664,74
 Display Article	15393
 Display Color	13524
 Display Início Orgânica D G	6530
@@ -753,6 +758,8 @@ Disposal Disposal	1988
 Disposal Institute	11272
 Disposal Occupational	1988
 Disposal of Children’s Stools	15247
+Disposal of Confiscated Money	18599
+Disposal of Equipment	18609
 Disposal of Obsolete Records	13398
 Disposal of Obsolete Spares	13420
 Disposal of Personal Protective Equipment	1988
@@ -823,7 +830,7 @@ Dispute Environmental Clearances and Permits	12389
 Dispute Management	14032
 Dispute Mechanisms	12389
 Dispute Over Intellectual Property Could Derail	11303
-Dispute Resolution	3502,1108,7186,160,408,25,286,4176
+Dispute Resolution	3502,1108,7186,160,408,25,286,4176,1626
 Dispute Resolution A. Any	4610
 Dispute Resolution API Business-to-Business IGF Inclusive	12444
 Dispute Resolution AfCFTA African Continental Free	1243
@@ -855,6 +862,7 @@ Disputed Concession Liberia	8393
 Disputes	961,3649,1822,4792,1961,196,185,843,523,408,505,990,4,77,10
 Disputes Avoidance	11134
 Disputes Logged	11218
+Disputes Resolution Mechanisms. CHAPTER XVI CONSTRUCTION	18602
 Disputing	12389
 Dispõe	10778
 Distortions Displacement	14897
@@ -982,6 +990,7 @@ Head of Dispute and Litigation	3945
 Health Disparities	16971
 Health Dispensary	771
 Heavily Indebted Poor Countries Internally Displaced	11136
+Help Displacement-Affected Communities Rebuild	18678
 History of Artificial Intelligence. Disponível	2816
 História da Inteligência Artificial. Disponível	2816
 Hospitalier OHADA Non Disponible Universitaire Centre	17845
@@ -1046,12 +1055,13 @@ Innovation and Creativity Displays	7572
 Inteligência Artificial. Disponível	2816
 Inteligência Artificial. Tecnologia. Disponível	2816
 Interference Disputes and Coordination	16835
+Interim Public Procurement and Disposal Regulations	18612
 Internal Displacement	10841,4033,350
 Internal Displacement Coordination Committee	18207
 Internal Procurement and Disposal Committee P.O. Box	13185
 Internally Displaced People	14934,1968,14
 Internally Displaced Person Inter-Agency Social Protection	16902
-Internally Displaced Persons	2106,6221,1986,553,3876,480,328,71,110,854,289,1333
+Internally Displaced Persons	2106,6221,1986,553,3876,480,328,71,110,854,289,1333,335,51
 Internally Displaced Persons Management Fund	18207
 Internally Displaced Persons. SECTION	12145
 Internally Displaced and Host Governance	11469
@@ -1073,6 +1083,7 @@ Kooko The Public Procurement and Disposal of Public	11615
 L'INTEGRITE ET LA DISPONIBILITE DES DONNEES	17826
 LA DISPONIBILITE DES SYSTEMES	17841
 LA DISPONIBILITÉ ET DE L’UTILISATION DES	17830
+LAND DISPUTE	18465
 LCD Display	34
 LCD Liquid Crystal Display LMGH Levy	34
 LCD Liquid Crystal Display MAG Ministère	13341
@@ -1088,6 +1099,7 @@ Lack Or Loss Of Employment Displacement	16902
 Land Dispute Mechanisms	12389
 Land Disputes Ease As Govt Fixes	5070,1633
 Land Disputes and Tenure Security	15570
+Land Tenure Disputes. Field-level	18465
 Landlocked Developing Countries Disparity	10844
 Lawful and Irreversible Disposal	3861
 Legislativo. Metrópoles. Disponível	2816
@@ -1126,6 +1138,7 @@ Marketeer. Disponível	2816
 Matéria Penal. CAPÍTULO V Disposições Transitórias	6970
 Mecanismos de Resolução de Disputas de Terra	11898
 Medicines and Disposal of Medicines	10776
+Men Disparities	18441
 Menu Display	15470,486,39
 Menu Display Início Orgânica D G	6530
 Mercado de Valores Disponibilidad	16898
@@ -1152,6 +1165,7 @@ NUMBER OF VEHICLES DISPOSED	14760
 Nao Excel INS Sim Sadia Disponivel	966
 National Ambulance Dispatch Sentre	10661
 National Competitive Bidding NDC National Dispatch	15659
+National Digital Identities Disparate	18446
 National Dispatch Center	15659,310
 National Dispatch Center Component	15659
 National Dispatch Center Modified Subcomponent	15969
@@ -1213,6 +1227,7 @@ Peaceful Settlement of Disputes	12891
 Pendant la Période de Disponibilité	15399
 Pendiente Disponer	16898
 Perfil da Empresa. Disponível	2816
+Persistent Gender Disparities	18512
 Pesquisa Científica. Tecnologia. Disponível	2816
 Petroleum Retail Dispensing Station	12256
 Petty-trade Dispensary Primary	11857
@@ -1259,8 +1274,10 @@ Public Procurement and Asset Disposal Authority. VI	3583
 Public Procurement and Assets Disposal Act	14449
 Public Procurement and Disposal	13125
 Public Procurement and Disposal of Asset Authority	3583
-Public Procurement and Disposal of Assets	13053
+Public Procurement and Disposal of Assets	13053,5608
+Public Procurement and Disposal of Assets Act	18696
 Public Procurement and Disposal of Assets Authority	5668
+Public Procurement and Disposal of Assets Regulations	18661
 Public Procurement and Disposal of Public	13125
 Public Procurement and Disposal of Public Assets	13005,122,293
 Public Procurement and Disposal of Public Assets Act	1210,3007,8770,140,293,186
@@ -1293,6 +1310,7 @@ Rapport Disponibilité IR3.8.3.1	17983
 Rapport Secrétariat CNIG Disponibilité	17983
 Rapport Secrétariat Disponibilité	17983
 Realizado Disponer	16898
+Reduce Gender Disparities for FY	18512
 Refugee-Returnees and Internally Displaced Persons	14874
 Refugees and Internally Displaced People	15810
 Regional Displacement	10841
@@ -1306,6 +1324,7 @@ Removal and Disposal of Excreta	15247
 Report of Right of Way Dispute Resolution	11857
 República de Guinea Ecuatorial. DISPONGO	16903
 Resolution of Disputes	16851
+Resolution of Disputes and Right of Appeal	18596
 Resolução de Disputas de Terras	11898
 Resolve Land Disputes	12389
 Resolve Rwenzori Land Disputes National Mental	16797
@@ -1322,6 +1341,7 @@ SANCTIONS ET DISPOSITIONS FINALES Article	14483
 SC Dispensé	15930
 SCHÉMA DE PRINCIPE DU DISPOSITIF	15583
 SCN2008 Realizado Disponer	16898
+SDG17.8.1 Disparities	18441
 SEC. Dispensé	15930
 SECTION IV DISPOSITIONS TRANSITOIRES ET FINALES	13709
 SECÇÃO I DISPOSIÇOES GERAIS ARTIGO	11518
@@ -1353,6 +1373,7 @@ Secrétariat CNIG Disponibilité	17983
 Secrétariat Disponibilité	17983
 Secrétariat Disponibilité Non	17983
 Secrétariat Disponibilité Taux	17983
+Secure Disposal	18452
 Secção I Disposições	15380,5
 Secção II Disposições	16122
 Secção V Disposições	15391
@@ -1360,7 +1381,8 @@ Service Provider Disputes	16835
 Settlement of Disputes	13185,4058
 Settlement of Disputes. Article	15641
 Settlement of Investment Dispute	13326
-Settlement of Investment Disputes	16972
+Settlement of Investment Disputes	16972,1491
+Sex Area Wealth Quintile National Disparities	18441
 Seção II Capítulo V DISPOSIÇÕES FINAIS	15450
 Silício. Exame. Disponível	2816
 Social Cohesion and Forced Displacement	1867

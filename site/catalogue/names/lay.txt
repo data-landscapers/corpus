@@ -18,7 +18,7 @@ Continental Layer	8088
 Core Network Layer	10721
 Cost of Ownership TLS Transport Layer	6432
 Cumulative Layout Shift	15936
-Data Exchange Layer	9356
+Data Exchange Layer	9356,9125
 Data Layer	11952
 Data Layer Implementation Service	11952
 Data Layer Requirement	11952
@@ -54,6 +54,7 @@ LAYER Land-border	9399
 LAYERING Layer	16212
 LAYIGUI	16099
 LAYING OF THE FOUNDATION STONE	13387
+LAYING THE GROUNDWORK FOR RAPID	18668
 Lay Better Consulting LA POSTE	10821
 Lay Better Consulting Traitement	10821
 Lay the Foundation	7921
@@ -62,7 +63,7 @@ Lay-bye	12630
 Laye Kourwéogo Plateau-Central	15715
 Laye Mbunkur	10379,2,310,2792
 Laye Sékou Camara	7978
-Layer	4611,79,81,1002,1235,782,2419,103,276,4362,131,1131,945,666
+Layer	4611,79,81,1002,1235,782,2419,103,276,4362,131,1131,945,666,662
 Layer AI	7147
 Layer C Integration Layer	1009
 Layer Component Description References Contextual	9128
@@ -83,8 +84,9 @@ Laying	1264,1625,2091,247,4207,1524,398,1536,1089,765,3002
 Laying Foundations	11936
 Laying Works	14738
 Laying and Crossing of Optical Fibre Cables	11857
+Laying of Papers	18436
 Laying the Digital Foundations for Economic Growth	12245
-Laying the Foundation	4528,7984
+Laying the Foundation	4528,7984,6188
 Laying the Foundation for ASYCUDA New Generation Solutions	13042
 Laying the Foundation for Digital Citizenship	3313
 Laying the Foundation for Somalia's Identification Ecosystem	15062
@@ -112,6 +114,7 @@ NGDX Interface Layer	11952
 National Layer	11952
 Noureddine Layachi	15933
 OIT Layout	12142
+OUTBREAK CONTAINMENT WHILE LAYING THE FOUNDATION	18668
 Operating Layer of Nigeria's Development	8825
 Operational Layer	6442,9770
 Operational Layer. Like	5528

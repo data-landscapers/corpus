@@ -10,6 +10,7 @@ Africa Power Pool EEP Ethiopian Electric	12233
 African Pooled Procurement Mechanism	5141
 African Pooled Procurement Mechanism. Backfill	5141
 African Power Pool SCADA Supervisory Control	12399
+African Power Pool WARDIP West African	18504
 App Pool	10617
 Assist the Poor	100,8647,2230,4065
 Assist the Poor Carte Nationale	17870
@@ -38,6 +39,7 @@ Development Index HIPC Heavily Indebted Poor	15244
 Domestic Pools Surpass External Flows	5913
 Département du Pool	15615,165,6,115
 Département du Pool Commandant	15524
+EAPP East Africa Power Pool	18614
 East Africa Power Pool	12256
 Eastern Africa Power Pool	12233,23
 Eastern African Power Pool	12233,2634
@@ -49,6 +51,7 @@ Extreme Poor and Social and Behavioral Change Communication	16952
 Extremely Poor and Food Insecure Households	16960
 Facilities and Animal Welfare Poorly	14818
 Farmer Pool Rejuvenation	14818
+Fertility Rate Poorest	18441
 G- Glo N- Poor	582
 Good Poor Definition Reason	12360
 Governance and Accountability Problem Poor HMIS	11596
@@ -56,6 +59,7 @@ Govt MTN Total Dividend Pool	10425
 Great East Road. Poor Adherence	13387
 HIPC Heavily Indebted Poor Countries	14929
 HIPC Heavily Indebted Poor Countries IBRD	11271
+Health Workers Poor	18478
 Heavily Indebted Poor Countries	9490,2434
 Heavily Indebted Poor Countries Completion Point	14976,214
 Heavily Indebted Poor Countries Initiative	14925
@@ -157,11 +161,12 @@ Pool. Participation	15965
 Pool. Pierre OBA Article	15439
 Pooled	7548,7616
 Pooled Cybersecurity Services	6936
+Pooled Financing	18532
 Pooled Funds	6947
 Pooled GEMs	11310
 Pooled Procurement Services	14826
 Pooled Procurement of Medical Products	14773
-Pooling	7320,632,2877,311
+Pooling	7320,632,2877,311,7416
 Pooling Global Wisdom	17275
 Pooling Intelligence	7835
 Pools	10975,4695,69,1401
@@ -194,10 +199,12 @@ Poor Vulnerable Other Poor Vulnerable	10763
 Poor and Vulnerable Households	16384
 Poor-quality	7836,1845,3851
 Poorer	10977,2647
-Poorest	10977,8,894,3536,189,59,80,1207
+Poorest	10977,8,894,3536,189,59,80,1207,1491
 Poorest None Higher	11879
 Poorest Place of Residence Urban Place of Residence	10829
+Poorest Primary	18441
 Poorest Quintile	10985
+Poorest Rural Age	18441
 Poorest Second Middle Fourth Ritchest	11879
 Poorest Second Middle Fourth Ritchest None	11879
 Poorest Wealth	11879
@@ -205,7 +212,7 @@ Poorest. Even	11469
 Poorly	3133,450,3590,5232,2282,173,854,1443,380
 Poor’s and Fitch	13532
 Poverty Poor	15604
-Power Pool	12233,166,1034,4670,213
+Power Pool	12233,166,1034,4670,213,221
 Power Pool WASH Water	17260
 Prevalence of Poor and Borderline FCS Map	17285
 Prevalence of Poor and Borderline FCS Subnational	17285
@@ -219,6 +226,7 @@ REG Hosts Eastern Africa Power Pool	15255
 Reach the Poor and Beyond. State of Social Protection	10985
 Reach the Poor and Most Vulnerable. Africa Development	10763
 Refugee and Poor	15845
+Richest Fourth Middle Second Poorest Senior	18441
 Rural Poor	10726
 S Auditing Poor	15659
 SADC Pooled Procurement Center	4260
@@ -254,9 +262,10 @@ WAPP West Africa Power Pool WARDIP	17105
 WAPP West African Power Pool DATA	16188
 WAPP West African Power Pool WBG	15983
 WB EHSGs Satellite PMU and Contractor Poor	1988
-West Africa Power Pool	17894
+West Africa Power Pool	17894,643
+West Africa Power Pool WATRA	18485
 West Africa Power Pool. B	18374
-West African Power Pool	11016,5128,510,222,90,294,1,842,271
+West African Power Pool	11016,5128,510,222,90,294,1,842,271,130
 West African Power Pool Glossaire RAPPORT	18322
 Within the Eastern Africa Power Pool	14667
 Works Contractors Poor	17114

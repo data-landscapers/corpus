@@ -29,7 +29,7 @@ Desk Audits	13053
 Desk Jet	11860
 Desk Officer	14753
 Desk Research	226,11988,2605,78
-Desk Review	771,16345
+Desk Review	771,16345,1415
 Desk Review and Exploratory Interviews	10919
 Desk Review and Secondary Data Collection	17099,15
 Desk The Federal Government	10157
@@ -39,7 +39,7 @@ Desk-review	6189
 Deskflo	10605
 Deski Daiche	15692
 Desks	11134,1277,4769
-Desktop	6832,1156,1771,2898,745,1434,826,779,529,1357
+Desktop	6832,1156,1771,2898,745,1434,826,779,529,1357,140
 Desktop Application Veriﬁcation Figure	8604
 Desktop Computers	6946,10388
 Desktop Interface Type USB	34
@@ -61,6 +61,8 @@ E Desktops	17180
 E- Surfline B- Yes Desktop D-	582
 EMIS Desk	11860
 Electrification Dev. Desk Head Ato Melaku	12195
+Enquiry and Appeals Desk	18448
+FCC’s Enquiry and Appeals Desk	18448
 FM Support Plan Frequency Desk	3604
 Fast Content Creation E-Government Desktop Only	6051
 Frequency Desk	10829,1026,3806
@@ -68,7 +70,7 @@ Functions The Desk	10157
 GCT News Desk	11037
 Government Shared Service Desk Platform	12917
 HELP DESK	15637
-Help Desk	34,12330,553,10
+Help Desk	34,12330,553,10,5517
 Help Desk Contact	12364
 Help Desk Operations Ongoing	16963
 Help Desk Setup Establish	16963

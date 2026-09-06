@@ -1,7 +1,9 @@
+ACRONYMS APC All People’s Congress AU	18531
 AFFECTED PEOPLE A. AFFECTED PLOT	17114
 AI Office. People	8529
 AI People GmbH TheScienceTalk Thitanews.gr Thomas	8530
 ALI For the People's Democratic For the Great	17438
+ARRANGEMENTS PEOPLE	18476
 ASSETS AND AFFECTED PEOPLE	17114
 ASSETS AND AFFECTED PEOPLE B. AFFECTED	17114
 About Our People	14761
@@ -22,8 +24,10 @@ African Charter of Human and People's Rights	3583
 African Charter of Human and Peoples' Rights.101F	10841
 African People Goal	14935
 All Peoples’ Congress	7452
+All People’s Congress	18531
 Andrea Johnson People	5808,375
 Annual People	15553
+Annual Report From the People of Japan. Project	18615
 Arab People's Republic of Algeria	17438
 Armed People	11131,3
 Assembly of People’s Representatives	5101
@@ -75,6 +79,7 @@ Delivering A People-Centered Development	14674
 Democratic People's Republic of Korea Democratic Republic	11765
 Democratic People’s Republic of Korea	10764,76
 DesignLab Organisation Contact People	15552
+Develop Competency Frameworks PEOPLE	18476
 Digital Economy Dem. People's Rep. of Korea	11529
 Digital Impact Alliance. The People’s Network	11007
 Digital Literacy Training People	16705
@@ -135,7 +140,8 @@ Global Lao People's Democratic Republic	15500
 Golden Triangle People	17116
 Government and People	14511
 Government and People of Japan	15245
-Government and People of Sierra Leone	16243
+Government and People of Sierra Leone	16243,2249
+Government of Sudan and Sudan People's Liberation Movement	18691
 Great Arab People's Socialist Libyan Jama	17438
 Great Arab People's Socialist Libyan Jamahiriya	17438
 Great Socialist People's Libyan Arab Jamahiriya	16847
@@ -166,7 +172,7 @@ Human and People's Rights	1988,9917,81,1983,62
 Human and People's Rights AMUSI United Movement	12201
 Human and People's Rights. Attention	3583
 Human and Peoples	17296,654
-Human and Peoples Rights	3005,1748,8599,132,3467
+Human and Peoples Rights	3005,1748,8599,132,3467,1662
 Human and Peoples' Rights	2958,204,421,278,2165,2459,262,652,261,793,312,76,676,187,497,738,94,1040,76,515,372,2294,415
 Human and Peoples' Rights Declaration of Principles	17771
 Human and Peoples' Rights and Article	7458
@@ -221,7 +227,9 @@ Internally Displaced People	14934,1968,14
 International Decade for People of African Descent	14751
 Investment Project Financing LIPW Indigenous Peoples	10964
 Justice for Africans and Peoples of African	14774
+KEY FINDINGS PEOPLE	18476
 Kawambwa Rebuilding Trust Through People	13521
+Land People	18534
 Land of Incorruptible People	16256
 Lao People's Democratic Republic LAO Ongoing	13082
 Lao People's Democratic Republic Latvia Lebanon	11765
@@ -260,6 +268,7 @@ National Agency for People Registry and Secure Documents	1833
 National Council of People	12328
 National Integrated Care for Older People	14742
 National People's Assembly	2406,13480
+National People's Congress	18479
 National People’s Assembly	11586
 National People’s Party	10062
 Nationalities and Peoples	12158,1790
@@ -284,15 +293,17 @@ Outputs People	12241
 P Peopodiia	15999
 P17240506 Toward More People-Centered Service Delivery	984
 PBF National Technical Unit People	10829
-PEOPLE	10719,133,3894,27
+PEOPLE	10719,133,3894,27,3703
 PEOPLE COULD	10977
 PEOPLE Enhance	14734
 PEOPLE FINANCE SA BP	16534
+PEOPLE HAVE A DISABILITY	18443
 PEOPLE Health	14773
 PEOPLE OF MALAWI	12891
 PEOPLE OF ZAMBIA	13294
 PEOPLES’ REPRESENTATIVES Article	13948
 PEOPLES’ RIGHTS	14742,49
+PEOPLE’S OWN SAVINGS BANK	18489
 PEOPLE’S VOICE	14752
 PEOU 8	10940
 PEOU and PU	8130
@@ -312,11 +323,12 @@ PU and PEOU	8130
 Pacific T5 Building Afghanistan Dem. People	10764
 Palestinian Arab People	17438
 Palestinian People	7060
-People	36,535,369,60,4,215,9,36,380,60,110,53,86,140,214,288,117,61,185,21,196,203,57,21,148,87,273,63,274,67,285,35,65,57,53,101,198,159,28,50,75,59,18,19,9,18,3,11,89,2,208,204,204,261,254,95,18,95,38,125,5,69,83,74,11,305,12,14,12,88,33,91,100,29,21,31,110,27,61,78,92,126,30,132,135,129,21,114,138,22,176,35,8,6,44,30,22,54,13,117,11,46,99,41,36,38,15,26,70,29,28,119,29,82,25,43,53,9,13,12,2,40,33,21,7,11,12,4,14,88,19,2,62,59,30,1,25,7,6,47,21,15,80,19,5,113,38,18,38,65,145,39,28,24,13,28,35,24,1,6,15,2,6,12,75,3,6,97,15,6,6,6,7,1,39,33,17,11,5,40,5,6,16,13,54,46,67,382,15,4,18,41,55,16,11,157,108,74,46,101,309,3,10,8,10,41,19,2,21,2,32,86,415,140,17,11,4,4,4,2,12,12,14,49,39,85,6,13,26,3,10,4,13,2,23,56,23,10,11,85,49,49,57,48,31,2,38,1,34,68,37,1,310,44,19,47,7,58,43,1,141,256,120,110,61,7,3,10,26,20,1,6,11,13,21,53,22,10,20,2,13,2,3,38,399,29,98,16,1,18,12,56,83,35,58,171,65,157,4
+People	36,535,369,60,4,215,9,36,380,60,110,53,86,140,214,288,117,61,185,21,196,203,57,21,148,87,273,63,274,67,285,35,65,57,53,101,198,159,28,50,75,59,18,19,9,18,3,11,89,2,208,204,204,261,254,95,18,95,38,125,5,69,83,74,11,305,12,14,12,88,33,91,100,29,21,31,110,27,61,78,92,126,30,132,135,129,21,114,138,22,176,35,8,6,44,30,22,54,13,117,11,46,99,41,36,38,15,26,70,29,28,119,29,82,25,43,53,9,13,12,2,40,33,21,7,11,12,4,14,88,19,2,62,59,30,1,25,7,6,47,21,15,80,19,5,113,38,18,38,65,145,39,28,24,13,28,35,24,1,6,15,2,6,12,75,3,6,97,15,6,6,6,7,1,39,33,17,11,5,40,5,6,16,13,54,46,67,382,15,4,18,41,55,16,11,157,108,74,46,101,309,3,10,8,10,41,19,2,21,2,32,86,415,140,17,11,4,4,4,2,12,12,14,49,39,85,6,13,26,3,10,4,13,2,23,56,23,10,11,85,49,49,57,48,31,2,38,1,34,68,37,1,310,44,19,47,7,58,43,1,141,256,120,110,61,7,3,10,26,20,1,6,11,13,21,53,22,10,20,2,13,2,3,38,399,29,98,16,1,18,12,56,83,35,58,171,65,157,4,97,20,9,174,6,78
 People Act	14788
 People Affected	12977
 People Affected Households Affected B. Hailstorms	12977
 People Carrying the Risk Risk-sharing	6947
+People Centered Justice	18477
 People Contact The Indian	18378
 People Contenedores People Young	17101
 People Create	14674
@@ -331,6 +343,7 @@ People First	8652,2532
 People Focus	11134
 People Have	17101
 People Hub	12533,1
+People IOM International Organization for Migration MCV2	18668
 People Journey	17364
 People LTA Acordos de Longo Prazo MERL	15966
 People Lend Their IDs. Participants	4439
@@ -355,6 +368,7 @@ People Service Card	2536
 People Simon Levell	3895
 People Solar	15670
 People TRANCRAA Transformation of Certain Rural Areas	11197
+People Targeted	18659
 People The Permanent Secretary	14745
 People The President	15484
 People The Senior Chief Executive	14835
@@ -378,6 +392,7 @@ People for Better Jobs Tomorrow	14976
 People of Africa	13938
 People of Common Interest	11956
 People of Sierra Leone	7452
+People of South Sudan	18597
 People of Sudan	14075,884
 People of Zambia	13472
 People's Bank of China	4041,2829,2058
@@ -395,14 +410,16 @@ People's Palace	4977,5019,3915,34,3648
 People's Parliament	18244
 People's Perspectives	445,11883
 People's Republic	13685
-People's Republic of China	184,74,533,2650,21,20,3970,1176,2507,1971,206,2,371,1386,201,127,207
+People's Republic of China	184,74,533,2650,21,20,3970,1176,2507,1971,206,2,371,1386,201,127,207,2873
 People's Republic of China Fax N	15399
 People's Republic of China Fax No	15399
 People's Republic of China Updated	15071
 People's Republic of Data	10350
 People's Repubtic of China Serial No Date	15399
+People-Centered Approach	18477
 People-Centered Development	15629
 People-Centered Service Design. The Single Portal	12008
+People-Centred Approach	18477
 People-Centred Smart City Strategy	6676,2000,46
 People-Centred Vision	9582
 People-Centric Energy Transition	11572
@@ -449,6 +466,7 @@ People’s Office	4528
 People’s Online Skills	6948
 People’s Perspective	5700
 People’s Republic of China	258,751,5941,1012,1056,2136,188,1780,1145,572,2031,235,323
+People’s Republic of China. Dr. Jalloh	18524
 People’s Republic of China. V- ON INSTITUTIONAL	7452
 People’s Rights	10841
 People’s Rights of Persons	14742
@@ -505,7 +523,7 @@ State Council. The House of Peoples’ Representatives	13948
 Stateless People	16874
 States and Peoples	17438
 Strengthening Fundamentals of Digital Transformation People	3604
-Sudan People's Liberation Movement	3583
+Sudan People's Liberation Movement	3583,15083
 Sudan People’s Liberation Movement	17676
 Supporting People and Workers	10985
 Systematic Stage The People Pillar	12214
@@ -517,6 +535,7 @@ Technology IPP Indigenous Peoples Plan IPPF	15511
 Technology. People. Development	12554
 Tekavoul People	17904
 Tenure Security for Communal Landholdings and People	13998
+Territory and People South Sudan	18619
 Tigray People’s Liberation Front	14008
 Tohr PeoCliacsyeInfoterrPvoelnictiyoInntervention	10157
 Toward More People-Centered Service Delivery	984,11679,1
@@ -539,7 +558,8 @@ X Indigenous Peoples OP	17441
 Year People	2712,1976,3189,2993,1101,4734,1650,4
 Year Revise People	16032
 Year Value Indicator Name People	6579
-Young People	14067,485,695
+Young People	14067,485,695,3194
+Young People Rural	18441
 Young People of Western and Central Africa	11905
 Youth and People	11986
 ZERROUKI Minister Of Post and Telecommunications People	15937

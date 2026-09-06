@@ -221,6 +221,7 @@ Crossref Web of Science Google Scholar Tang	8460
 Cumulative Purchase of Goods and Services	14546
 DATA AS CONSTITUTIONAL PUBLIC GOOD	3861
 DFC and Google. Cassava	1469
+DPG Digital Public Good DPS Directorate	18478
 DV360 and Google Ads	13461
 Dakar Chapter Google Scholar Onyekwelu C	9739
 Data Boundary and Google Distributed Cloud	10798
@@ -230,6 +231,7 @@ Data for Good	18039
 Data for Good In Malawi	12214
 Declaration of Helsinki and Good Clinical Practice	11578
 Democracy and Good Governance	7452,2208,7357
+Deputy Chief Director Marian Goodie Sowonie	18549
 Description Google	673,1,841
 Description Google CEO Sundar Pichai	776
 Description Google's AI	2209
@@ -238,7 +240,7 @@ Digital Government Good	16872
 Digital News Transformation Google Search	13461
 Digital Public Good	17793
 Digital Public Good Alliance	6337
-Digital Public Goods	4606,219,38,3058,689,2396,1037,171,881,3610
+Digital Public Goods	4606,219,38,3058,689,2396,1037,171,881,3610,1775,37
 Digital Public Goods Aid Management Platform	13095
 Digital Public Goods Alliance	3720,1980,24,1518,679,689,3386,218,791,90
 Digital Public Goods Alliance DTS Digital	12241,839,15
@@ -332,10 +334,12 @@ GOOD SHEPHERD CATHOLIC COLLEGE OF HEALTH	13078
 GOODBYE PAPER	13533
 GOODS	11240,4476,436
 GOODS AND SERVICES PROVIDED ONLINE	15177
+GOODS AND SERVICES TAX ACT	18450,91
 GOODS Activity Reference No	17180
 GOODS IN TRANSIT	4827
 GOODS INTO OR OUT OF NAMIBIA	13067
 GOODS WITH A CARD	10977
+GOODWILL MESSAGE BY HIS EXCELLENCY	18572
 GOODWILL MESSAGE BY HIS EXCELLENCY ADAMA	17347
 GOOGL.O	6931
 GOOGLE LLC................................................02	13462
@@ -365,6 +369,7 @@ Good AI	9622
 Good Agricultural Practices	12931,1862,234
 Good Agricultural Practices For All	13314
 Good C2C	14330
+Good Citizens	18606
 Good Clinical Practice	7845
 Good Clinical Practices	18370
 Good Countries	1264
@@ -373,7 +378,7 @@ Good Dispensing Practices	18370
 Good Distribution Practices	10776
 Good F- Direct-to-home If Q1	582
 Good Fair	5247
-Good Faith	3502
+Good Faith	3502,15054
 Good Faith. ICANN	3503
 Good Financial Gouvernance	6260
 Good Financial Governance Phase	1462
@@ -387,6 +392,7 @@ Good Governance Impacting Economic Growth	17216
 Good Governance Impacting Economic Growth State	17216
 Good Governance Impacting Economic Growth URL	17216
 Good Governance Priority Area	970
+Good Governance The CE	18500
 Good Governance The Social Integration Division	14835
 Good Governance and Accountability	16858
 Good Governance and Citizens' Rights	970
@@ -407,6 +413,7 @@ Good Government	970
 Good Health and Well-Being	12964,4084
 Good Health and Well-being	1131,2614,7031,2188,1059,1954
 Good Health and Well-being Goal	11332
+Good Health and Well-being. Specifically	18545
 Good Hygiene Practice	13385
 Good Hygienic Practices	14818,2082
 Good ID	10819,3
@@ -420,6 +427,8 @@ Good Jobs for Angolan Youth	10768
 Good Laboratory Practices	18370
 Good Land Governance	16916
 Good Manufacturing Practices	10776,4042,387,3165
+Good Manufacturing Practices Inspection	18541
+Good Manufacturing Practices Inspection Fees	18541
 Good Meets	11252
 Good Morning	10210,1017,1891,1098
 Good NSS	14860
@@ -477,7 +486,7 @@ Goodman	1243
 Goodness Morakinyo	7444
 Goodnight	6197,10,40,15,1,4326,155
 Goodrick	15659
-Goods	1243,395,836,301,114,1764,880,167,562,139,1550,215,968,140,163,493,29,897,108,266,295,211,119,8,42,50,21,10,403,628,20,148,146,537,70,218,590,20,130,16,75,93,97,195,39,107,35,88,17,1,145,415,717,36,39,86,83,39,16,99,33,74
+Goods	1243,395,836,301,114,1764,880,167,562,139,1550,215,968,140,163,493,29,897,108,266,295,211,119,8,42,50,21,10,403,628,20,148,146,537,70,218,590,20,130,16,75,93,97,195,39,107,35,88,17,1,145,415,717,36,39,86,83,39,16,99,33,74,1009
 Goods Account	17235
 Goods Agreement	13042
 Goods Dispatch Date	12360
@@ -509,6 +518,7 @@ Goods and Service Excise	5655
 Goods and Services	2775,2880,6331,403,733,63,235,1346,69,62,183,636,211,947,104,33,224
 Goods and Services Consumed	16978
 Goods and Services Tax	14932,2017,62,247,106
+Goods and Services Tax Act	18450,16,34,41
 Goods and Services Tax Goods and Services Tax	17011
 Goods and Services Tax Multilateral Convention E-Commerce	14932
 Goods and Services Tax. Standard NBN Evening	15471
@@ -525,7 +535,7 @@ Goodwill	4102,14052
 Goodwood Station Social Housing Project	11248
 Goody Stein	15524
 Googe	13461
-Google	415,156,7,14,81,1,1,1,8,92,123,62,4,39,239,2,19,3,4,91,1,66,7,79,75,46,90,40,77,60,2,83,37,185,78,4,5,36,41,20,23,97,107,5,51,2,46,91,14,41,120,316,5,30,2,31,8,8,11,34,29,5,149,39,34,19,71,69,8,63,25,15,25,58,64,17,24,85,199,59,1,41,141,170,43,16,3,117,17,31,19,30,39,39,15,24,3,10,4,46,62,2,1,46,69,88,4,9,15,84,83,9,15,10,9,14,16,54,77,60,26,69,59,48,1,18,16,1,8,136,9,50,1,6,29,11,4,59,13,10,64,47,22,37,17,18,26,45,15,15,21,1,17,13,44,5,22,7,17,2,8,13,60,3,3,34,2,28,72,48,8,6,205,48,17,118,55,67,122,8,67,45,36,51,17,59,3,69,18,88,24,35,35,8,60,46,48,6,1,6,83,75,153,11,8,50,84,94,58,197,74,16,12,13,38,145,16,52,23,14,39,33,44,82,38,222,2,35,89,20,16,59,91,9,304,13,33,13,77,56,34,62,9,7,2,14,14,6,11,122,101,9,7,74,189,89,18,42,22,13,69,100,29,97,26,33,108,190,224,43,11,138,158,45,1,1,61,83,3,1,21,46,310,85,397,60,10,282,1,14,209,223,270,81,22,19,344,11,117,230,205,207,3,144,99,70,33,59,106,160,25,35,1,51,311,100,47,174,388
+Google	415,156,7,14,81,1,1,1,8,92,123,62,4,39,239,2,19,3,4,91,1,66,7,79,75,46,90,40,77,60,2,83,37,185,78,4,5,36,41,20,23,97,107,5,51,2,46,91,14,41,120,316,5,30,2,31,8,8,11,34,29,5,149,39,34,19,71,69,8,63,25,15,25,58,64,17,24,85,199,59,1,41,141,170,43,16,3,117,17,31,19,30,39,39,15,24,3,10,4,46,62,2,1,46,69,88,4,9,15,84,83,9,15,10,9,14,16,54,77,60,26,69,59,48,1,18,16,1,8,136,9,50,1,6,29,11,4,59,13,10,64,47,22,37,17,18,26,45,15,15,21,1,17,13,44,5,22,7,17,2,8,13,60,3,3,34,2,28,72,48,8,6,205,48,17,118,55,67,122,8,67,45,36,51,17,59,3,69,18,88,24,35,35,8,60,46,48,6,1,6,83,75,153,11,8,50,84,94,58,197,74,16,12,13,38,145,16,52,23,14,39,33,44,82,38,222,2,35,89,20,16,59,91,9,304,13,33,13,77,56,34,62,9,7,2,14,14,6,11,122,101,9,7,74,189,89,18,42,22,13,69,100,29,97,26,33,108,190,224,43,11,138,158,45,1,1,61,83,3,1,21,46,310,85,397,60,10,282,1,14,209,223,270,81,22,19,344,11,117,230,205,207,3,144,99,70,33,59,106,160,25,35,1,51,311,100,47,174,388,17,39,12
 Google ABUJA	2841
 Google AI	2394,422,1310,4572,1270,1195,138,2160
 Google AI Centre Accra	4126
@@ -707,7 +717,7 @@ Google Labs	3947
 Google Lens Homework Helper	10525
 Google MOU	5302
 Google Map	9568,5513
-Google Maps	1363,284,337,3586,3240,32,2872,309,18,1186,1479,787,1422,385,602
+Google Maps	1363,284,337,3586,3240,32,2872,309,18,1186,1479,787,1422,385,602,546
 Google Maps Contact	3364
 Google Maps and Google Earth	3782
 Google Maps and Waze	10983
@@ -1033,6 +1043,7 @@ Goosie	16197
 Goott	7656
 Governance of Digital Public Goods	5700
 Governing and Delivering Global Public Goods	6418
+Growth Accelerator and Social Good Summit	18487
 Growth Google	13462
 H. E. Dr. Goodluck Ebele JONATHAN	15363
 Hamidou Dia de Google	2442

@@ -44,6 +44,7 @@ CSD International Statistical Classification of Diseases	1009
 Cancer601 Heart Diseases	12151
 Car- Diseases	12151
 Car- Diseases Pneumonia	12151
+Cardiovascular Diseases	18627
 Care Unit IDSR Integrated Disease Surveillance	17289
 Cases of Diseases Reported	2775
 Cassava Mosaic and Cassava Brown Streak Diseases	13366
@@ -93,7 +94,7 @@ DiSEP	18286
 Diarrheal Disease	15247
 Diarrhoeal Disease	13454
 Directorate of Disease Surveillance	11912
-Disease	1988,1873,399,414,2272,2772,1062,416,309,407,1019,16,889,993,125,707,1280
+Disease	1988,1873,399,414,2272,2772,1062,416,309,407,1019,16,889,993,125,707,1280,1502,185
 Disease Annual Epidemiology	16922
 Disease Annual Epidemiology Electronic	16922
 Disease Annual Epidemiology Epidemiology and Health	16922
@@ -126,7 +127,7 @@ Disease Surveillance Systems Enhancement Project RIP	11380
 Disease The Borrower	1988
 Disease-2019 DPI Digital Public Infrastructure DPGA	12241,839,15
 Disease-specific	771,9198
-Diseases	4674,7477,1378,3406,36,143
+Diseases	4674,7477,1378,3406,36,143,1569
 Diseases Arrest	12151
 Diseases Cancer	12151
 Diseases Cardio Pul-	12151
@@ -135,6 +136,7 @@ Diseases Child	10837,1315,188
 Diseases Department	10784
 Diseases Kenya Vital Statistics Report	12151
 Diseases NCM National Coordinating Mechanism	12970
+Diseases NDHS National Digital Health Strategy	18478
 Diseases Table	12151
 Disemba	2868,3151
 Disempowered	17127
@@ -151,13 +153,14 @@ Diseño de Respuesta Reglas	16875
 Dutch Disease	1828
 ECOWAS Regional Centre for Surveillance and Disease Control	17688
 EDC Epidemiology and Disease Control EFSTH Edward	16922
-Ebola Virus Disease	10829,1083,4047,52,861,49,14,25,1
+Ebola Virus Disease	10829,1083,4047,52,861,49,14,25,1,1497
 Ebola Virus Disease FCTC Framework Convention	17289
 Electronic Integrated Disease Surveillance and Response	4202
 Engagement REDISSE Regional Disease Surveillance Systems	11417
 Epidemiology Disease Control Unit	12976
 Epidemiology and Disease Control	16922
 Epidemiology and Disease Control Unit	17098
+Europe AIDS Auto Immunodeficiency Disease Syndrome	18504
 European Centre for Disease Prevention and Control	8376
 Expenditure Framework NCDs Non-Communicable Diseases TB	396
 Fight Against AIDS and Major Endemic Diseases	10776
@@ -182,6 +185,7 @@ IDSR Integrated Disease Surveillance and Response LMIC	14666
 Immediately Notifiable Diseases	11912
 Implementación Oficina Técnica de Diseño de Proyectos	4209
 Implementing Real-time Disease Surveillance	11912
+Incidence of Vaccine-Preventable Diseases	18627
 Increased Pest and Disease Pressure	17157
 Infection Disease Specialists	14094
 Infections Heart Diseases	12151
@@ -197,7 +201,7 @@ Integrated Animal Disease Surveillance and Response	14666
 Integrated Disease Notification System. Diarrhoea	12976
 Integrated Disease Surveillance and Response	4260,5110,2047,586,2663,297,195,801,52,911,49,318
 Integrated Disease Surveillance and Response IFR Interim	16922
-International Classification of Diseases	11969,444,316,2327,406,263,382
+International Classification of Diseases	11969,444,316,2327,406,263,382,2521
 International Classification of Diseases KFH	12338
 International Classification of Diseases-10	15411
 International Coding of Diseases	15590
@@ -239,16 +243,17 @@ National Center for Diseases Control NCDC	16863
 National Institute for Communicable Diseases	9969,1226
 National Noncommunicable Diseases	17289
 National Plan for Non-Communicable Diseases	10776
-Neglected Tropical Diseases	10780,1949,247,2271,1724
+Neglected Tropical Diseases	10780,1949,247,2271,1724,1656
 Neglected Tropical Diseases PHC Primary Health	12729
 Nigeria Centre for Disease Control	9969,4927
 Nigeria Centre for Disease Control and Prevention	3721
 Non Communicable Diseases	12970,1803
 Non- Communicable Diseases	14773
 Non-Communicable Disease	14742
-Non-Communicable Diseases	12729,193,54,498,1247,21,31,283
+Non-Communicable Diseases	12729,193,54,498,1247,21,31,283,3571
 Non-Communicable Diseases NAPHS	10776
 Non-communicable Diseases	12606
+Noncommunicable Disease Risk Factors	18627
 Noncommunicable Diseases	13163,3778
 Noncommunicable Diseases NHA National Health Accounts	12729
 Notifiable Diseases	10780
@@ -289,10 +294,12 @@ Rising Non-Communicable Diseases	18370
 Risks of Communicable Diseases	16926
 Services IDSR Integrated Disease Surveillance and Response	12976
 Sexually Transmitted Disease	14434
+Sexually Transmitted Disease STI Sexually Transmitted	18504
 Sexually Transmitted Diseases	15206
 Silent Disease Killing Ugandan Society	8352
 Soomaaliya Dhibcaha Deyn Cafintii Diseembar	11136
 South Sudan Neglected Tropical Diseases	3583
+States Centers for Disease Control and Prevention USD	18668
 States Centers for Diseases Control and Prevention	17289
 Strengthen Disease	14434
 Strengthen Integrated Pest and Disease Management	14818
@@ -307,7 +314,7 @@ Tropical Neglected Disease Response	10776
 Type of Disease and Livestock Type	17043
 Type of Disease and Poultry Type	17043
 U.S. Centers for Disease Control	12334
-U.S. Centers for Disease Control and Prevention	10641,5742,588,394
+U.S. Centers for Disease Control and Prevention	10641,5742,588,394,1332
 UN-led Sudan Health Cluster. Disease	14959
 US Center for Disease Control	16971
 US Centers for Disease Control and Prevention	1824,14598

@@ -82,6 +82,7 @@ ApS ProponAI QuantumWave Refreshworks RegioVision SN	8530
 Approval Last Approved Rating Proposed Rating	10870,1101,257,39,173,3639,915,85,879
 Approval of Proposal	14745
 Approve the Proposals	7198
+Apr Proposed Rating	18534
 Aprovação da Proposta	10783
 Aprovação da Proposta de Lei	15396
 Aprovação de Propostas de Lei	15396
@@ -111,6 +112,8 @@ Banco Nacional de Datos. Proporción	16898
 Bank Expected Proposals Cost	15372
 Banking Services Property Rights	10835,3,130,902,16,466,1,135
 Bank’s Employee Value Proposition	11131
+Baseline Target Proportion	18458
+Baseline Target Proportion of District Councils	18458
 Basic Property Data	11129
 Basins Basin Current Number of Blocks Proposed	12256
 Bidder Proposed	14778
@@ -143,7 +146,7 @@ C Proper	16884
 C. FINANCIAL PROPOSAL	962
 C. PREPARATION OF PROPOSALS	15080
 C. Preparation of Proposals	15080
-C. Proposed Development Objective	761,943,587,1165,7507,1174,289,406,279,1442,960,1,779,382
+C. Proposed Development Objective	761,943,587,1165,7507,1174,289,406,279,1442,960,1,779,382,1781
 C. Proposed Development Objective Development Objective	14576
 C. Proposed Development Objectives Development Objectives	16654
 C. REQUEST FOR PROPOSAL CONDITIONS	12400
@@ -515,6 +518,7 @@ INTELLECTUAL PROPERTY	4153,8008
 INTELLECTUAL PROPERTY AND CONTENT RIGHTS	17287
 INTITULE THEME PROPOSE PAR POUR	16103
 INVITED TO SUBMIT PROPOSALS	12400
+IP Internet Protocol IPR Intellectual Property	18454
 IPR Intellectual Property Rights IPRI Intellectual	17870
 IV- OBJECTIVOS DA PROPOSTA DE LEI	3519
 IV. Content and Ownership Proposals	5773
@@ -585,7 +589,7 @@ Intellectual Property Management Office NPO Non-Profit	5246
 Intellectual Property Office	16873,69
 Intellectual Property Policy and Strategy	7624
 Intellectual Property Protection Intellectual Property	13100
-Intellectual Property Registry	16873
+Intellectual Property Registry	16873,1604
 Intellectual Property Right ISP	958
 Intellectual Property Rights	5246,1896,4098,1116,2394,16,1135,952,30
 Intellectual Property Rights Act	11265
@@ -600,6 +604,7 @@ Intellectual Property and Benefit Sharing	1554
 Intellectual Property and Consumers Acts	12210
 Intellectual Property and Cybersecurity	15198
 Intellectual Property and Institutional Framework	13042
+Intellectual Property and Technology Law	18583
 Intellectual Property and Usage Rights All	15198
 Internet Protocol WIPO World Intellectual Property	12973
 Interoperability of Services for Property Transfer	12389
@@ -647,7 +652,7 @@ LTD PROPOSED AMENDED CONSTITUTION	8866
 La Proposition	16634
 Land Tenure and Property Registration	15473
 Land Tenure and Property Registration Main	15473
-Land and Property	15473,1443
+Land and Property	15473,1443,1558,185
 Language of Proposal	15080
 Last Approved Proposed Additional	15983
 Late Proposals	7951,7129
@@ -742,7 +747,7 @@ Movable Property Security Interests Act	13333
 Movable and Immovable Property Database	14713
 Mozambique's Industrial Proprietary Code	12161
 Moçambique. A Proposta de Lei	12813
-Municipal Property Tax System	2112
+Municipal Property Tax System	2112,16463
 Mweiga Homes Limited and Dualway Properties Limited	6946
 NA Proportion	2342
 NAPPS National Association of Proprietors of Private Schools	11860
@@ -750,11 +755,13 @@ ND NON Oui Oui Oui Proportion	17845
 ND Proportion	17845
 NDICE SISTEMÁTICO DA PROPOSTA DE LEI	11461
 NECESSIDADE E FORMA PROPOSTA PARA	11461
+NIB Proposes	18502
 NREF PROPUESTO	16875
 NREF PROPUESTO Período	16875
 Namibia. Proposals	13037
 National Addressing System and Property Cadaster Develop	17011
 National Assembly the Budget Proposals	12588
+National Asset and Government Property Commission	18500
 National Association of Proprietors of Private Schools	8588
 National Digital Infrastructure Proper	5244
 National Intellectual Property Commission	7624,1343
@@ -819,6 +826,7 @@ Opérationnelle Propottion	15999
 Organización Africana de Propiedad Intelectual	9303
 Original PROPOSAL	15080
 Original Proposal	15080
+Own Property	18597
 Ownership of Results and Intellectual Property Rights	15901
 PARACETAMOL PROPARACETAMOL PARACETAMOL	15930
 PART IIIB Registration of Proprietors Renting Space	13495
@@ -839,10 +847,12 @@ PRINCIPAL IMMOVABLE PROPERTY OWNED AND LEASED	4896
 PRODEFI PAIVA-B PROPAO PNSADR-IM AUTRES	13390
 PROJECT APPRAISAL DOCUMENT ON A PROPOSED	12780
 PROJECT APPRAISAL DOCUMENT ON PROPOSED GRANTS	14910
+PROJECT PAPER ON A PROPOSED ADDITIONAL	18625
 PROPA	13390
 PROPAGANDA ELEITORAL	11528
 PROPARCO	15670
 PROPER IMPLEMENTATION	14816
+PROPERLY REAP ARTIFICIAL INTELLIGENCE	18630
 PROPERTY	10793,3943
 PROPERTY AND FINANCE Article	14863
 PROPERTY AND FINANCE CHAPITRE VII	15102
@@ -851,6 +861,9 @@ PROPERTY ENTITY	4896
 PROPERTY MARKETS AND MORTGAGES	15473
 PROPERTY NUMBERING	11129
 PROPERTY OF ASSIMPER Article	15027
+PROPERTY RATES	18467
+PROPERTY REFORM FAQ	18448
+PROPERTY REFORM FAQ URL	18448
 PROPERTY TRANSFER AND LAND ADMINISTRATION	12389
 PROPIEDAD DE TIERRAS EN GUINEA ECUATORIAL	16838
 PROPIEDAD DE TIERRAS EN LA REPÚ	16838
@@ -927,6 +940,8 @@ PROPOSED RESTRUCTURING CHANGES BEFORE AFTER Initial	18359
 PROPOSED REVENUE MEASURES	17105
 PROPOSED SOLUTIONS Low	8999
 PROPOSED STRATEGIC PRIORITIES	13685
+PROPOSED STRATEGY FOR INFORMATION DISCLOSURE	18504
+PROPOSED STRATEGY TO INCORPORATE THE VIEWS	18504
 PROPOSED USAGE	2709
 PROPOSED VOLUNTARY DELISTING	4263
 PROPOSED VOLUNTARY DELISTING OF ECONET WIRELESS	4896
@@ -1037,9 +1052,9 @@ Proper	34,1954,680,1845,4610,114,200,876,408,141,1001,89,4,38,259,1103,148,1232,
 Proper Air	14864
 Proper Legislation	16885
 Properly	10,1978,4119,2176,695,674,3852,487,33,705,2385,43
-Properties	11286,3229,614,344,1443
+Properties	11286,3229,614,344,1443,1532
 Properties Operations Control Commission	18293
-Property	1154,790,587,244,276,663,1182,5322,575,77,117,10,132,2,3,145,34,126,423,94,193,152,57,11,20,68,55,379,65,97,345,266,284,619,146,23,6,255,172,304,7,1367,69,56,6,33,116,982
+Property	1154,790,587,244,276,663,1182,5322,575,77,117,10,132,2,3,145,34,126,423,94,193,152,57,11,20,68,55,379,65,97,345,266,284,619,146,23,6,255,172,304,7,1367,69,56,6,33,116,982,339,19,89,103
 Property Card View Property Details About	12511
 Property Control and Exhibit Management System	5323
 Property Development	11131
@@ -1063,8 +1078,11 @@ Property Numbering	11129
 Property Numbering System	11129
 Property Numbers	11129
 Property Organization	13357
-Property Ownership. Measures	17165
+Property Owners	18448
+Property Ownership. Measures	17165,1405
+Property Per Individual	18450
 Property Prime Minister	15473
+Property Rate	18448
 Property Rate Collection	14285
 Property Rates and Market Tolls	16276
 Property Records The Ministry of Foreign Affairs	10496
@@ -1086,8 +1104,10 @@ Property Search Comprehensive	12211
 Property Search Features Dispute Resolution System	12211
 Property Statistics	10870
 Property Swornrich Investments Pvt Ltd	4896
-Property Tax	10762,1695
+Property Tax	10762,1695,5991,129
 Property Tax Diagnostic Manual. Washington	10997
+Property Tax Guidelines	18575
+Property Tax Life Cycle	18575
 Property Tax Payment	16949
 Property Tax Proclamation	3176,7320
 Property Tax System	12948
@@ -1135,7 +1155,7 @@ Proporcione	1701,15273
 Proporción	16898
 Proportio	12917,3946
 Proportio Privé Etat Etat Employeu Autre	737
-Proportion	419,224,94,52,181,352,742,278,433,621,683,1,221,48,110,2120,253,716,3164,51,93,2,16,1,52,48,1,286,291,19,302,7,1,20,249,77,28,11,79,21,16,12,18,27,13,470,55,322,25,22,95,656,524,214,60,1,38,50,71,7,101,393,17,25,5,20,96,4,1,120,56,98,261,68,108,190,15,231,49,6,116,36,48,13,108,4,33,109,349,102,21,4,26,11,38,13,20,36,42,47,8,14,18,26,1,34,82,23,3
+Proportion	419,224,94,52,181,352,742,278,433,621,683,1,221,48,110,2120,253,716,3164,51,93,2,16,1,52,48,1,286,291,19,302,7,1,20,249,77,28,11,79,21,16,12,18,27,13,470,55,322,25,22,95,656,524,214,60,1,38,50,71,7,101,393,17,25,5,20,96,4,1,120,56,98,261,68,108,190,15,231,49,6,116,36,48,13,108,4,33,109,349,102,21,4,26,11,38,13,20,36,42,47,8,14,18,26,1,34,82,23,3,129,2,15,120,49
 Proportion Dernière	13300
 Proportion Enfants	13300
 Proportion Femmes	2624,10676
@@ -1161,11 +1181,13 @@ Proportion des PVVIH	14622
 Proportion des Réseaux	3396
 Proportion des Services du Cadastre	15999
 Proportion des Structures du SSN	18169
+Proportion of Children	18627
 Proportion of Domestic Electricity Generation	2775
 Proportion of Firms	12389
 Proportion of G8	15604
 Proportion of Government	12453
 Proportion of ICT	15164
+Proportion of MDAs	18529
 Proportion of Own Source Revenues	13418
 Proportion of Petroleum Fuel Sales	2775
 Proportion of Platform-based	17870
@@ -1178,7 +1200,7 @@ Proportion of Youth	12600
 Proportion of Youth Completing Voluntary National Service	14935
 Proportion ofPHEs	4301
 Proportion.des	15999
-Proportional	16950
+Proportional	16950,1606
 Proportional and Practical Application Accountability	14565
 Proportionality	3861,2581,1106,2609,566,433,800,5022
 Proportionality Given	17019
@@ -1274,7 +1296,7 @@ Proposants	5983,7572,943
 Proposants Avis Spécifique de Passation de Marchés	13555
 Proposants B. Les Offres	13555
 Propose	962,418,1609,689,36,814,2400,2201,3316,63,4,808,526,637,382,24,754,70,223,1075,103,807,117
-Proposed	22,405,801,550,210,303,597,32,28,41,285,404,100,37,248,40,2,50,1,1,1,1,1,493,277,292,311,144,422,6,100,680,49,80,207,66,20,115,596,1111,16,53,749,299,105,649,85,44,836,21,72,117,71,7,132,15,354,163,397,676,576,98,114,143,11,39,110,15,276,146,35,3,1366,4,59,26,103,43,100,3
+Proposed	22,405,801,550,210,303,597,32,28,41,285,404,100,37,248,40,2,50,1,1,1,1,1,493,277,292,311,144,422,6,100,680,49,80,207,66,20,115,596,1111,16,53,749,299,105,649,85,44,836,21,72,117,71,7,132,15,354,163,397,676,576,98,114,143,11,39,110,15,276,146,35,3,1366,4,59,26,103,43,100,3,1210,34,224
 Proposed Actions	1814,1790,10418,796
 Proposed Actions Taken	13331
 Proposed Actions and Relevant Indicators	15621
@@ -1310,6 +1332,7 @@ Proposed Decision	13218
 Proposed Delivery Channels AI	14566
 Proposed Development Objective	761,503,2298,7401,1174,251,24,14,2484,26,685,122,401
 Proposed Development Objective The Project Development	18374
+Proposed Digital Health Governance Structure	18478
 Proposed Digital Sound	6946
 Proposed Drought Mitigation Actions	17157
 Proposed Drought Mitigation Actions Field Action	17157
@@ -1318,6 +1341,7 @@ Proposed FY	15004
 Proposed FY2025	1913
 Proposed FY2026	3756,344
 Proposed Financing	2473
+Proposed Form	18461
 Proposed Formulation and Action Plan	1000
 Proposed Frequency Band Number of Base Stations	736
 Proposed GBON	16947
@@ -1331,6 +1355,8 @@ Proposed Implementation Period	12980
 Proposed Implementation Structures	15130
 Proposed Jitume Digital Hubs. MOIC&DE	1638
 Proposed Key Performance Indicators	4528,7984
+Proposed Legal and Regulatory Reforms	18531
+Proposed Legal and Regulatory Reforms Establishing	18531
 Proposed Legislative Amendments The Regulator	14357
 Proposed Listing of Econet InfraCo	4896
 Proposed Loan	15411,107,141
@@ -1480,14 +1506,16 @@ Propriedade Intelectual Todo	11456
 Propriedade Ministério da Educação Palácio	15564
 Propriedade da Infra-estrutura	2866
 Propriedades	11898
-Proprietary	3714,204,1,1,210,433,1488,381,447,272,815,3156,11,862,7,340,99,1065,1415,99,144,550,205,1161
+Proprietary	3714,204,1,1,210,433,1488,381,447,272,815,3156,11,862,7,340,99,1065,1415,99,144,550,205,1161,1379
 Proprietary Limited	3714,3484,3595,3431
 Proprietary Monolith	6001
 Proprietor	10721
 Proprietor of Valencia Schools and Greenwood British School	7444
 Proprietor. Communication	10721
 Proprietor. Such	10721
+Proprietors	18556
 Proprietors of Private Schools Association	11860
+Proprietorship Public and Private Schools Schools Approval	18460
 Proprietário	11898
 Propriétaire	13442,4870
 Propriétaires	17840
@@ -1504,7 +1532,7 @@ Propriété du Au	14488,1,1
 Propriétés	13375,2645,1465
 Propriétés Privées Non Titrées	14624
 Proprlete	18296
-Proptech	4324,8015
+Proptech	4324,8015,6115
 Propuesta	1701,2508
 Propuesta de Amplacion	4209
 Propuesta de Construcción	4209
@@ -1644,6 +1672,7 @@ Risk Category Risk Risk Description Proposed	15372
 Risk Proportionality	12444
 Risk-Based and Proportionate Regulation This Policy	7548
 RoW Proposal	11857
+Rollout the Municipal Property Tax System	18575
 RÉSULTATS ATTENDUS Proportion	10712
 République. Propos	9131
 SACF Proposes	4732
@@ -1727,6 +1756,7 @@ Sudan Proposed	15039
 Sudan's Virtual Propaganda Warzone	15342
 Summary Description of Proposed Operation Operation Abstract	15138
 Summary Description of Proposed Operation The Mozambique	4653
+Summary of Proposed Guarantee	18728
 Summary of Proposed Roles of Institutions Role of Cabinet	16872,103
 TA Land Rusape CBD Cession Properties	4896
 TAT MATRIMONIAL Indicateur Valeur Proportion	15557
@@ -1767,6 +1797,7 @@ Technology IP Intellectual Property IPR Intellectual	5246
 Telecomunicaciones Vida Proporción	16898
 Tender for Proposed Fit	6946
 Tf Status Original Closing Current Proposed	1284
+Thematic Area Project Proposed Target Policy	18485
 Theory and Model Specification Propensity	12978
 Things IP Intellectual Property IT Information	12512
 Things IP Intellectual Property KEBS Kenya	7548
@@ -1786,6 +1817,7 @@ UN Proposals	14932
 UN Proposals. Digital Cooperation Organization	14932
 UNSD Proportion	15901
 Update Property	14533
+Upgrading Urban Property Tax Administration and System	18575
 Urban Land and Property Registration and Information Agency	5655
 Urbanismo Proporción	16898
 Urungwe Victoria Wankie Wedza Property Description	12511
@@ -1794,7 +1826,7 @@ Use Real Property	13951
 Uíge Province Zaire Province Proporção de Indivíduos	11418
 VENTURE D SOLE PROPRIETOR A. Certificate	12693
 VG POSAF Proportion	10712
-VI. PROPOSED CHANGES	2889,9076,3173,644,201
+VI. PROPOSED CHANGES	2889,9076,3173,644,201,2642
 VI. Proposal Contents and Formatting All	5773
 VII.2. Proposition	15936
 VIII. PROPOSED MINISTRY BUDGET FOR FINANCIAL	12598

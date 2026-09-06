@@ -1,8 +1,10 @@
+Ag. Director of PFM Reform Division	18577
 Agencies PFM Public Financial Management SCD	11545
 Agência Angola Press Pesquisando. PF Aguarde	11429,3,47
 Application Security Project PFS Perfect Forward	11952
 Areas of PFM	14185
 Assainissement de Djibouti PFR Public Finance Review	11271
+Authority PAC Public Accounts Committee PFMRD	18500
 Authority PFMS Public Financial Management System	13420
 B. PforR Program Scope	17458
 Bank’s PforR	18370
@@ -30,6 +32,7 @@ Core Principles of PforR Financing	18370
 Corporation of Kenya PFM Public Finance Management	6946
 Corporation of South Africa PFMA Public Finance	11261
 Coverage PFS	10985
+Cross-cutting PFM Strategy Monitoring	18577
 Cumulative PFS	10985
 D PFR	15399
 DP Cargo Enters PF	17367
@@ -41,6 +44,7 @@ Development Objective PEP Post-exposure Prophylaxis PFM	10829
 Development PFM Public Financial Management RDC	970
 Digitalization of PFM	15148
 Directeur du PFSS	13788
+Division PFMRS Public Financial Management Reform	18577
 Donors Can Support Dual-Track PFM	7648
 E PFMRP II	16219
 ELTON JANGALE Partner PFI Partnerships Blantyre	12232
@@ -49,6 +53,7 @@ EXPLANATORY MEMORANDUM PFM E-CITIZEN REGULATIONS	14599
 Economic Growth Project PFNAC	18309
 Economic Transformation PFM	789
 Education and PFMS	13295
+Enactment of PFM Acts	18488
 Eswatini IFMIS and PFM Capacity Building Project	536
 Etat Part PFP	2342
 Executive Summary The Somalia PFM Reform	15147
@@ -56,6 +61,7 @@ Extractives PforR	11469
 FEMAPH CPS-SS DS PF	17946
 FGS PFM Reforms Advisor. The Consultant	15090
 Fight Against Fraud and Corruption PforR	18370
+Financial Management Reform Division PFMRS Public	18488
 Fiscal Governance PforR	1572
 General PFM Reform	15148
 Governance-led PforR	11905
@@ -66,15 +72,25 @@ Health PforR Program. Risks	18370
 Health Sector PFM	10829
 Home Affairs and PFMS	13295
 IDA and Trust Fund PforR	11905
+IMF PFM Advisor	18488
+IMF PFM Resident Advisor	18500,77
+IMF Resident PFM Adviser	18488
+IMPACT ON PFM REFORMS DOCUMENT	18488
 IOSCO PFMI	14844
+Implementation. The PFM Progress Report	18577
+Improved PFM	18458
 Includes PIU and PFMU	17099
 Key PFM Reform Initiatives	15148
+LCs PFM Smart	18500
 LEVEL PFIs PHEIs Self Study Overseas	14775
 Le PFC	13375
 Le PFN	16426
 Le PforR	10975
+Legal Framework for PFM	18500
+Legal Framework for PFM Legal and Regulatory	18500
 Legal and Environmental Factors PFMA Public Finance	13005
 Lesotho PFM	14185
+Local Councils. Introduction The PFM Progress	18488
 M P172891 Operation Education PforR	11469
 M P177442 PforR PforR P179447 Finance	11469
 M P179687 PforR	11469
@@ -82,6 +98,7 @@ M PforR	11469
 MEPSSA PforR	11905
 MINFI Ministère des Finances MW MégaWatt PfoR	10975
 Malawi PFM Strategy	12176
+Management PFMRD Public Financial Management Reform	18577
 Management PFMU Project Financial Management Unit	16949
 Management PforR Program-for-Results PMT Program Management	17458
 Modernization of PFM	1284
@@ -129,10 +146,13 @@ PFIs Point of Sale PIU PricewaterhouseCoopers Reserve	17235
 PFIs and PHEIs	14775
 PFIs and Private	14775
 PFIs for US	12195
-PFM Act	6946,3367,1863,786,98,360,1727,300,1531,52
+PFM Act	6946,3367,1863,786,98,360,1727,300,1531,52,1458,12,75,1,1
+PFM Act Revision	18488
 PFM Champions	16944
+PFM Cycle	18488
 PFM Digitalization Regulations	15147,1
 PFM Directives	15411
+PFM Enablers	18488,89
 PFM IT Systems Roll Out	321
 PFM MIS	15041
 PFM Problems	11006
@@ -144,17 +164,23 @@ PFM RAS	15411
 PFM RAS II	15411
 PFM Reform	15372
 PFM Reform Action Plan	15147
-PFM Reform Strategy	15148
+PFM Reform Division	18488
+PFM Reform Strategy	15148,3352,77
+PFM Reform Strategy and Plan	18488
+PFM Reforms	18488,89
+PFM Reforms Policy Document Date	18488
 PFM Regulations	15147
 PFM Reimbursable	15411
 PFM SSP	14935
-PFM Smart	2112
+PFM Smart	2112,16382,6,75,2
+PFM Smart Study and Design Phase	18488
 PFM Steering Committee	14185
 PFM Strategy	12176,4768
 PFM The PBF	10829
+PFM-2024-Final-Draft-Report-compressed.pdf	18488
 PFM-Annual-Progress-Report.pdf	16944
 PFM-reform	2249,5399
-PFM-related	1284,13863
+PFM-related	1284,13863,3341
 PFM-relevant	16815
 PFM-specific	1284
 PFM. Better	10829
@@ -170,10 +196,15 @@ PFMA REPORT No Figures	11250
 PFMA Section	11218,6,26
 PFMA Sections	9437
 PFMA and Treasury Regulations	11230
+PFMA2016	18500
+PFMAA	18661
 PFMD and AFRITAC	16944
-PFMIS	4640,2171
-PFMIs	12537,198
+PFMIS	4640,2171,11850
+PFMIS Project	18661
+PFMIS Project Management	18661
+PFMIs	12537,198,5727
 PFMR and Anti-Corruption	16858
+PFMRD	18488,12,77
 PFMRISP	16949
 PFMRISP. The PIT	16949
 PFMRs	12321
@@ -206,6 +237,8 @@ PPF and PFS	15372
 PSSN PforR	16032
 Par GODOM Appolinaire PF ODP	16377,23,21
 Paradise Foundation Initiative PFM	16951
+Parliament. Other PFM Reforms- PFM Coordination	18488
+Parliament. PFM Enablers- An Interoperability Roadmap	18577
 Pf0dults manufactures	15999
 PfAHCwTQ& r	5810
 Pfaffenbichler	11155
@@ -216,7 +249,7 @@ Pfiffner	8436
 Pfizer	18116
 PfoR Focal Points DLI	11905
 Pfoerrlfeovrmeliongf	10969,915,1,466
-PforR	734,655,181,1886,148,2840,4432,99,494,436,271,884,1542,1,45,1025,235,46,78,15,1411,557,183,53,119
+PforR	734,655,181,1886,148,2840,4432,99,494,436,271,884,1542,1,45,1025,235,46,78,15,1411,557,183,53,119,207
 PforR Activities	11905
 PforR Component	16032
 PforR Core Principles Applicability Applicable	18370
@@ -271,7 +304,9 @@ Programme Elargi de Vaccination PFA	15423
 Programme PforR	11905
 Project Development Objective PFM Public Financial	16949
 Project Water PforR	11469
+Project. The PFM Reform Strategy	18500
 Public Expenditure and Financial Accountability PFM Public	17105
+Public Expenditure and Financial Accountability PFMRD Public	18488
 Pursue PFM	13868
 Q2 FY25. No PFI	12195
 Reasons for Non-Alignment PforR Program Boundary Government	18370
@@ -286,12 +321,14 @@ SADC PF Norms and Standards	12201
 SADC PF Norms and Standards for Elections	12201
 SDG PF	4349
 SIGEFI PFM	13314
+SLIMM and EViews PFM Act	18577
 SOCIÉTÉS CAPITAL PFP RN	2342
 SOCIÉTÉS CAPITAL PFP4 RN	2342
 SS DS PF	17845,101
 SS DS PF Act.3.1.2.20	17842
 Sanaria’s PfSPZ	16958
 Seychelles Social Protection System PforR	734
+Sierra Leone PFM Reform Strategy	18488
 Simultaneous PforR	11417
 Social Protection System PforR	742
 Social. PF	18100

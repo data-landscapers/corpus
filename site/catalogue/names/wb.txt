@@ -66,6 +66,7 @@ Microwave Access WB World Bank	16885
 MoE and WB	13378,14
 Monrovia. WB ID Credit Program	2604
 N SOCIETE WBHO CONSTRUCTION GUINEA SARLUNIPERS	16623
+NLC and WB	18534
 Nations Children’s Fund WB The World	13332
 NewFin1 WB Fiscal Year	18104,197
 Next Steps The WBG	13592
@@ -193,6 +194,7 @@ WB TORs for Content Development and Training	14010
 WB TTL	973
 WB Tax Conference	18318
 WB USD	4466
+WB WGI	18458
 WB West Africa Food System Resilience	18198
 WB Women Business	17870
 WB World Bank	11863,24,266,1,9,178,2588,1954
@@ -202,8 +204,10 @@ WB World Bank TABLE OF CONTENTS	17458
 WB World Bank WBES World Bank	16996
 WB World Bank WBG World Bank	15515
 WB World Bank WCR West Coast	17105
+WB World Bank WDQMS WMO Data	18578
 WB World Bank WFP World Food	15731
 WB World Bank WHO World Health	16860
+WB World Bank WoG Whole-of-Government WoS	18454
 WB and Government	13392,2312
 WB and MoE	13378,14
 WB and PIU	13054
@@ -213,6 +217,7 @@ WB the Grand International STI EXPO	14010
 WB's Management Team. II. PROJECT DATA	13378
 WB-DT	13079,747,5
 WB-OP00430153 URL	16194
+WB-Ps	18661
 WB-RLLP	13998
 WB-SLMP	13998
 WB-diagnostic	3038
@@ -240,6 +245,7 @@ WB2021 Life	16942
 WB2021 Poverty	16942
 WB2021 Urban	16942
 WB2021 Youth	16942
+WB2025	18578
 WBAR PAPI Position	16552,454
 WBDocs	16436
 WBG AgriConnect	10886
@@ -249,11 +255,12 @@ WBG Board of Directors	4688
 WBG Business Planning	11469
 WBG COVID-19	11380
 WBG COVID-19 Crisis Approach Paper	15553
+WBG COVID-19 Crisis Response Approach	18456
 WBG COVID-19 Crisis Response Approach Paper	15518
 WBG CRI	11965
 WBG CRI. Intermediate Indicator Component	11965
 WBG Climate Action Plan	15518
-WBG Climate Change Action Plan	3604
+WBG Climate Change Action Plan	3604,15016
 WBG Corporate Scorecard	12968,3064,2101
 WBG Country Climate and Development Report	15983
 WBG Country Partnership Framework	15983
@@ -268,7 +275,7 @@ WBG Evolution. The CPF	12968
 WBG FY21	15138
 WBG Findex	15518
 WBG Fragility	10841
-WBG Gender Strategy	15518,35
+WBG Gender Strategy	15518,35,2903
 WBG Gender Strategy Targets	16032
 WBG General Environmental	15518
 WBG General and Industry-Sector Environmental	17114
@@ -294,6 +301,7 @@ WBG World Bank	11965,4957,313
 WBG World Bank Group WEF World	11380
 WBG World Development Indicators	13314
 WBG X Improve	15130
+WBG and Government	18456
 WBG's Digital Development Global Practice	4214
 WBG's Office	4214
 WBG's Regional Integration Assistance Strategy for Africa	15372
@@ -309,7 +317,7 @@ WBG’s COVID-19 Crisis Response Approach Paper	15518
 WBG’s COVID-19 Crisis Response Approach64	13331
 WBG’s Climate Action Plan	15553
 WBG’s Climate Change Action Plan	1867
-WBG’s Digital Economy for Africa	17870
+WBG’s Digital Economy for Africa	17870,586
 WBG’s Mission	15924
 WBG’s Sanctions Framework	15080
 WBHO CONSTRUCTION SARLU	16623

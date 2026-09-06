@@ -7,7 +7,7 @@ Access Per Province Eastern Cape	11890
 Access Spectrum Fee Per	17250
 Allocations Per Province Province	11890
 Authority Per	17250
-Average Revenue Per User	3898,2102,11,89,9607
+Average Revenue Per User	3898,2102,11,89,9607,2737
 Average Revenue Per User CDMA	6000
 Banks. Per the Home Affairs	6072
 Bank’s Social Assistance PER	15663
@@ -18,6 +18,7 @@ CODES TARIFF PER TRANSACTION PRICING METHOD	16844
 Candidates Votes Per	12201
 Commission Employment and Per- Registrar of Cooperative So-	6938
 Creación de Ficheros de Datos Per	16855
+Credit Reference Per Individual	18450
 Cumulative Numbering Resources Assigned Per Year	6946
 D5 Per Litre	17177
 DEAL COUNT PER STAGE	10954
@@ -29,6 +30,7 @@ Development Objective PER Public Expenditure Review	15661
 Documento de Identidad Per	16855
 Dodoma and Arusha. Per	2947
 Draft Per Unit Cost Guide	15659
+Drug Destruction Le8 Per Kilo	18541
 EARNINGS PER ORDINARY	10793
 EARNINGS PER ORDINARY SHARE Number	10793
 EXCEPTIONAL CODES TARIFF PER TRANSACTION PRICING	16844
@@ -42,6 +44,10 @@ Ficheros de Datos Per	16855
 Financial Access and GDP Per Capita	1828
 Financial Performance and Per Programme The Department	11230
 Financing. Sections and Description Per ESCP	10829
+Fish Per	18450
+Fisheries Observer Fee Per	18450
+Fisheries Protection Per	18450
+Fishing Per	18450
 Floating Point Operations Data Protection Per	4126
 Floating Point Operations Per Second	4126
 Funding Amount Per Stage	12339
@@ -66,16 +72,19 @@ Kenya and Tanzania. Per	3561
 Keur Per	17907
 LOW CODES TARIFF PER TRANSACTION PRICING	16844
 LPG Per Capita Consumption	12256
+Le10 Per Kilo	18541
 M Per Parcel	12457
 MAJOR ACHIEVEMENTS AS PER PREVIOUS STRATEGIC	12973
 MB. Per	1944
 MW CAPACITY PER MILLION POPULATION	10861
 Millions of Barrels Per Year	1828
+Minutes of Use and Average Revenue Per User	18444
 Mobile Internet Subscriptions Per	15136
 Mobile Money Account Ownership Per	17870
 Money and Banking System Per the Central Bank	16972
 NORMAL CODES TARIFF PER TRANSACTION PRICING	16844
 NUMBER OF DIGITAL BUSINESSES PER SECTOR	16942
+NUMBER OF MALES PER	18464
 NUMBER OF RESPONDENTS PER USER GROUP	17149
 Nombre de PER Nombre Université	18286
 Number of ATMs Per	17870
@@ -92,6 +101,7 @@ PER CAPITA	11211,51,5630
 PER DAY FOR WORK ON CROP	17043
 PER Public Expenditure Review PHC Primary	16896
 PER SECOND	11211,51
+PER TRANSHIPMENT VESSEL	18450
 PER- Capitaux	2342
 PIB Per Capita	11418
 PPP Public-Private Partnership PER Public Expenditure	16876
@@ -119,7 +129,7 @@ Per Capita Consumption of LPG	12256
 Per Capita Figure	15063
 Per Capita Government Expenditure	14773
 Per Capita Health Expenditure	18162
-Per Capita Income	13418
+Per Capita Income	13418,5065
 Per Channels TV	2658
 Per Commissaire	1950
 Per Communications Technology Minister Sofiene Hemissi	2475
@@ -155,6 +165,7 @@ Per LinkedIn	1138
 Per MHz MHz	17250
 Per Ministry of Posts	3534
 Per Nordlund	10785
+Per Offence	18541
 Per Olsson	11006
 Per SONNA	3426
 Per SWEEP-IATI.md	91,57,1007,1084,1
@@ -188,6 +199,7 @@ Percentage of Multidimensional Poor Per State	11998
 Performance Per Strategic Priority Enabling Digital	11230
 Project M&E. Per	11855
 Project PER Public Expenditure Review	16852
+Property Per Individual	18450
 Protección de Datos Per	16855
 Quona Capital. Per AllBusiness Africa	934
 REGISTER AS PER	11240
@@ -197,6 +209,7 @@ Rector de Protección de Datos Per	16855
 Registro de Protección de Datos Per	16855
 Rendimento Familiar Per Capita	10754
 Rendimento Nacional Per Capita	11430
+Research Per	18450
 Revenue Per Capita Average Revenue Per	10775
 Revenue Performance Per Tax Type Collections	13053
 SECURITY OF ELECTRONIC TRANSACTIONS Per	15363
@@ -211,6 +224,9 @@ Size of Price Per Number Band Spectrum	736
 Social Assistance PER	15663
 Social Protection and Jobs PER. World Bank	13332
 TENUE DU REGISTRE NATIONAL DES PER	16651
+Transaction Driver License Per Individual	18450
+Transaction Min Lands Per Individual	18450
+Transaction Passport Per Individual	18450
 Transactions Per Minute	12211
 URGENT CODES TARIFF PER TRANSACTION PRICING	16844
 USD GROSS DOMESTIC PRODUCT PER CAPITA	17101
@@ -218,6 +234,8 @@ USD Per	12515
 USD Per Kg	12515
 USD Per Litre	12515
 Uganda. Per	4552
+University Per Individual Transaction	18450
+WAEC Per Individual Transaction	18450
 World Bank’s Social Assistance PER	15663
 ZWG Per	12515
 ZWG Per Kg	12515

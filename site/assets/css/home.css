@@ -91,6 +91,10 @@
  * the full width of the box, which fits all 38 in two lines with room over. */
 .sbox { display: block; min-height: 2.95rem; padding: 0.4rem 0.6rem; border: 1px solid var(--rule); border-radius: 3px; background: color-mix(in srgb, var(--accent) calc(var(--fill) * 12%), var(--paper)); color: var(--ink); }
 .sbox:hover { border-color: var(--accent); color: var(--ink); }
+/* A subject the catalogue holds and the taxonomy does not has no page behind it,
+   so its box prints its count and is not a link. It reads as inert rather than broken. */
+.sbox--nopage { color: var(--ink-light); border-style: dashed; }
+.sbox--nopage:hover { border-color: var(--rule); }
 .sbox__l { font-size: 0.78rem; line-height: 1.25; }
 .sbox__n { float: right; margin-left: 0.5rem; font-family: var(--mono); font-size: 0.72rem; line-height: 1.35; color: var(--ink-light); white-space: nowrap; }
 

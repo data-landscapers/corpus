@@ -31,7 +31,7 @@ Camp des Embrevades	14746
 Canciller Secretario Delegado Regional Ministerio Embajador	4209
 Carestía de Vida Administrativo Embajada A2 Agente	4209
 Centro. Embora	11569
-Chinese Embassy	5991,15,7168,4249
+Chinese Embassy	5991,15,7168,4249,1041,91
 Chinese Embassy Stages Welcome For Returning	17423
 Classification Emballage	14423
 Comandante Embarcación	4209
@@ -153,14 +153,14 @@ Embaló	2671
 Embarcação	2816
 Embargoed	11192,66,38,681
 Embark	13295,1702
-Embarking	7835,295
+Embarking	7835,295,10324
 Embarks	12639
-Embassies	13122,551,1102,54
+Embassies	13122,551,1102,54,3766
 Embassies and High Commissions	16921
 Embassies and International Organisations	13954
 Embassies of France and Ireland	13156
 Embassies of Qatar and Switzerland	18215
-Embassy	31,79,681,2166,1995,213,699,626,364,1032,881,34,61,114,253,955,408,610,432,30,344,184,86,223,476,146,128,107,59,23,69,282,358,327,572,8,37,38,268,77,799,56,318,309,147,481,430,204,158
+Embassy	31,79,681,2166,1995,213,699,626,364,1032,881,34,61,114,253,955,408,610,432,30,344,184,86,223,476,146,128,107,59,23,69,282,358,327,572,8,37,38,268,77,799,56,318,309,147,481,430,204,158,170,93,50
 Embassy Abuja	4301
 Embassy Asmara	14045
 Embassy Bamako	17883
@@ -181,7 +181,7 @@ Embassy of India	10780,2964,47,2465,984,776
 Embassy of India Algiers	16331
 Embassy of India Algiers INDIA-ALGERIA RELATIONS Diplomatic	16331
 Embassy of India Harare Press Release Embassy	13509
-Embassy of Ireland	9861
+Embassy of Ireland	9861,8610
 Embassy of Italy	10592
 Embassy of Japan	7300,105,965,2406,6959
 Embassy of Netherlands	14897
@@ -196,7 +196,7 @@ Embassy of Zambia	4365
 Embassy's Economic Section	10177
 Embassy. Approximately	16275
 Embassy. Similarly	16275
-Embed	899,59,1519,1649,722,1946,38,115,204,445,3410,130,4,9,7,796,447,638,1637,73,71,179,247,716,1007,8,389,30,512
+Embed	899,59,1519,1649,722,1946,38,115,204,445,3410,130,4,9,7,796,447,638,1637,73,71,179,247,716,1007,8,389,30,512,651,18
 Embed AI	4126,402,2304,116,190,13,397,203,3405,1356,2054
 Embed Accountability and Monitoring	11285
 Embed MPI	15244
@@ -277,6 +277,7 @@ Foreign Assistance Office U.S. Embassy Avenida	4260
 Foreign Embassies and High Commissions	11956
 Foreign Embassy	17108
 France Embassy	12972
+Freetown Sierra Leone. Turkish Embassy	18580
 French Embassy	5556,6167,174,1078,2472
 French Embassy French Embassy EUR	15661
 Future of Embedded Finance	14819
@@ -312,7 +313,7 @@ Interprete Traductor Embajada A2	4209
 Interprete Traductor Embajada A3	4209
 Iranian Embassy	9968
 Iraqi Embassy	11738
-Irish Embassy	12978
+Irish Embassy	12978,5541
 Italian Embassy	16946
 J2 Embracing e-Learning PWFormatted.pdf SomaliREN	15164
 Japanese Embassy	3468
@@ -337,6 +338,7 @@ Mba Ada Embaixador Extraordinário	11393
 Medical Services U.S. Embassy Ministry of Health	4154
 Mercado Online. Embaló	2671
 Military Embassy	9123
+NCA EMBARKS ON MAJOR STEPS	18649
 NETO NA EMBAIXADA DE STP EM	6837
 Nairobi Embassy	10521
 Netherlands Embassy	9546
@@ -348,9 +350,11 @@ OmniRetail Digital B2B Commerce and Embedded Finance	2232
 Online Embedded Generation	12969
 Organization of SIM Cards and Embedded SIM	14944
 PALOP. Embora	2816
+PILLAR III EMBRACE DRE FOR AFFORDABLE	18537
 President Embaló	17023
 President Umaro Sissoco Embaló	11579
 President of Guinea-Bissau Umaro Sissoco Embaló	17023
+President. III. EMBRACE DISTRIBUTED RENEWABLE ENERGY	18537
 Processor INST-12485011114 EMBU Kenya	7167
 Processor INST-1683148DE2C EMBU Kenya	7167
 Processor INST-2958721BF3D EMBU Kenya	7167
@@ -372,6 +376,7 @@ Rwanda’s Teachers Embrace Digital Shift	5606
 SAFEGUARDS AND STAKEHOLDERS' ENGAGEMENT MODELS EMBRACED	12165
 SERVICE PACKAGE EMBEDDING PREVENTIVE SERVICES	15977
 SERVICE PACKAGE EMBEDDING PREVENTIVE SERVICES Policy	15977
+SLP Embraces Digital Transformation	18587
 SOCIETY LIMITED Data Controller INST-274553D7C0F EMBU	7167
 Saido Embaló	11544
 Saldo Nobre General Umaro Sissoco Embalé	17312
@@ -407,6 +412,7 @@ Traductor Consulado B3 Intérprete Traductor Embajada	4209
 Traductor Embajada A2 Jefe Económico Admón	4209
 Tripoli Embassy	10409
 Tunisia The US Embassy	10409
+Turkish Embassy	18580
 U. S. Embassy’s Acting-Deputy Chief of Missions	2769
 U.S. Embassies	9621,1384
 U.S. Embassy	3463,145,559,173,5,7,120,489,202,293,1473,187,61,167,86,371,563,54,383,61,759,525,31,1514,826,1528,962,1512,1690,32
@@ -433,7 +439,7 @@ Umaro Embaló Caramba Saco Umaro Demba	11544
 Umaro Sissoco Embaló	2671,8898,5451
 Umaru Sissoco Embalo	9620
 Union Emblem	15901
-United States Embassy	4327,13,2355,111,371,1084,715,253
+United States Embassy	4327,13,2355,111,371,1084,715,253,9306,13
 United States Embassy and SpaceX	5328
 University of Embu	7204
 World Food Programme and Irish Embassy	12978

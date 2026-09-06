@@ -22,7 +22,7 @@ Authentic Texts This Protocol	15641
 Authenticate	16983
 Authenticated	6423,4707,1081,4632
 Authenticates NIRA Authenticates	15061
-Authentication	1009,930,410,1512,749,253,381,1143,36,855,2151,309,983,54,37,7,334,28,691,80,4,190,213,45,126,429,352,840,699,204,7,457,1323,37,1091
+Authentication	1009,930,410,1512,749,253,381,1143,36,855,2151,309,983,54,37,7,334,28,691,80,4,190,213,45,126,429,352,840,699,204,7,457,1323,37,1091,480,298
 Authentication Article	14911
 Authentication Authentication	12364
 Authentication Code and QR Code	13606
@@ -31,6 +31,7 @@ Authentication Framework	11952
 Authentication Mechanism	10721
 Authentication Mechanism Information	10721
 Authentication Methods and Use Cases Method Use	11952
+Authentication PART VII	18556
 Authentication Procedure	14850
 Authentication Refer	10617
 Authentication Service	12000,146
@@ -101,6 +102,7 @@ Electronic Authentication	15641
 Electronic Authentication Each State Party	15641
 Enforce Multi-Factor Authentication	13037
 Ethio Telecom. Authentication	12267
+Evaluation and Authentication	18629
 Financial Authentication Service	4848
 Focus On Authentic Products	10274
 HL7 HNSF Enterprise User Authentication European	1009

@@ -11,6 +11,7 @@ Eskom Hld SOC Ltd FaceBook	11953
 Gamula and Hlathikhulu	12956,6
 Graded Readers and Big Book HL	11241
 HCW Healthcare Workers HLMA Health Labour	12976
+HDI Human Development Index HL7 Health	18478
 HL Bosman	10793
 HL JO3YIHL NIN NI HSM9VLSa OL	16841
 HL7 All	21
@@ -32,7 +33,7 @@ HL7 HNSF Enterprise User Authentication European	1009
 HL7 Service Aware Interoperability Framework	21
 HL7 Version	1009
 HL7 and ASTM	7988
-HL7-FHIR	10970
+HL7-FHIR	10970,7508
 HL73. Elle	17882
 HL7FHIR	8606
 HL7standardsandDICOM	8606

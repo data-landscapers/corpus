@@ -33,6 +33,7 @@ Assistant Professor of Geospatial AI	6955
 Association of American Geographers	3782,894
 Atlantic Council’s GeoEconomics Center	7711
 Authority Geographic Information System General Organization	16916
+Availability of Geospatial Software and Hardware	18476
 Avatar of GeoffreyTheDev	12478
 Avatar of Geomxn	12478
 Ave Georges Clemenceau Djibouti	15143
@@ -74,8 +75,8 @@ Conrad C. Daly and Tina George Karippacheril	1217
 Consumer GIS Geographic Information System HR	14965
 Coordenadas Geográficas	11405
 Country Snapshot Geography The Federal Democratic	12500
-Coverage Geographic Coverage	13084,675,1861,226
-Coverage Geographic Coverage National	15024,2141
+Coverage Geographic Coverage	13084,675,1861,226,2799,79
+Coverage Geographic Coverage National	15024,2141,1360,42,3
 Coverage Geographic Coverage National Coverage	15843,822,380,880
 Coverage Geographic Coverage National Coverage Producers	15844
 Coverage Geographic Coverage National Universe All	10862
@@ -133,6 +134,7 @@ Eng. George Matheri	13975
 Enter GeoMaize	11239
 Enterprise Geographic Information System	3101
 Enumeration Area Geographical	582
+Environment GEOSPATIAL PRIORITIZATION SURVEY KEY FINDINGS	18476
 Environment Systems Presenting Example Geospatial Dashboard	17405
 Ethiopian Space Science and Geospatial Institute	14066
 European Handbook of Crowdsourced Geographic Information	2096
@@ -153,6 +155,7 @@ Fort George and CT Savanah	14765
 Francois and George	3782
 Fund Gross Domestic Product Geographic Information	13290
 GCF Green Climate Fund GIS Geographic	17260
+GDC Geothermal Development Company	18614
 GDP Gross Domestic Product GIS Geographic	17149
 GEMS Geo-Enabling	17962
 GENERAL FRAMEWORK A. GEOGRAPHIC	14742
@@ -169,6 +172,7 @@ GEOGLAM Secretariat	14140
 GEOGRAPHIC	16212
 GEOGRAPHIC FOCUS	4972
 GEOGRAPHICAL AND THE CLIMATIC UNITS	17157
+GEOGRAPHICAL COVERAGE	18485
 GEOLAB	7686
 GEOLOCALISATION	17982
 GEOLOGIE ET DE LA DIVERSIFICATION ECONOMIQUE	15660
@@ -183,7 +187,11 @@ GEOPORTAIL	15936
 GEORGE BROBBEY ASENSO MINTER MAVIS ADOBEA	15845
 GEORGE HENRY NADMO NADMO	15845
 GEORGE KHATEIH MUSEVE Data Controller	7167
+GEOSPATIAL DATA REQUIRED POLICIES	18476
 GEOSPATIAL INSTITUTE This Regulation	13986
+GEOSPATIAL PRIORITIZATION SURVEY ECONOMY Issues	18476
+GEOSPATIAL PRIORITIZATION SURVEY KEY FINDINGS PRIORITIZED	18476
+GEOSPATIAL PRIORITIZATION SURVEY RESULTS OVERVIEW	18476
 GEOSTAT	12413
 GEOframe	14162
 GIA General Information Authority GIS Geographic	17157
@@ -250,6 +258,10 @@ GeoPoll	6102
 GeoPortal	7130
 GeoSenegal Lancement	18324
 GeoShape	6423
+GeoSphere	18677
+GeoSphere Austria	18578
+GeoSphere Austria Authors	18578
+GeoSphere Austria and Deutscher Wetterdienst	18578
 GeoTIFF	16411
 Geocomputing	6832
 Geocoton	10841
@@ -295,6 +307,7 @@ Geographic Area and Coverage	11252
 Geographic Barriers	12761,5108
 Geographic Barriers Financial Barriers Urban Rural	17869
 Geographic Clusters	12053
+Geographic Coverage	18645
 Geographic Coverage IGAD Member States	14079
 Geographic Coverage of Western Cape Region	8999
 Geographic Distribution and National Resilience In Nigeria	10157
@@ -306,7 +319,7 @@ Geographic Inequity	17139
 Geographic Information	13250
 Geographic Information Science	13078
 Geographic Information Science Paul Gerard Gbetkom	15914
-Geographic Information System	104,685,1803,2773,4284,303,1177,585,146,529,573,1127,771,269,1787,183,15
+Geographic Information System	104,685,1803,2773,4284,303,1177,585,146,529,573,1127,771,269,1787,183,15,1350
 Geographic Information System GSA	16975
 Geographic Information System GoC Government of Congo	15659
 Geographic Information System SOFF	18309
@@ -326,17 +339,19 @@ Geographic Sciences	11941
 Geographic Scope	7662,4536,4014
 Geographic Scope This Report	4972
 Geographic Scope of Payment Systems	6938
+Geographic Unit	18645,79
 Geographic and Devolution Scope This Policy	7548
 Geographic and Financial Barriers	17869
 Geographic and Population Coverage	6000
 Geographic and Sectoral Segmentation	15179
 Geographic information system	5785
 GeographicReference	4856
-Geographical	10829,304,2,720,296,176,6,80,210,723,603,903,204,286,262,1263,11,64,5,210,1144
+Geographical	10829,304,2,720,296,176,6,80,210,723,603,903,204,286,262,1263,11,64,5,210,1144,169
 Geographical Constituency	14852
 Geographical Coverage	7763,4192
 Geographical Coverage ATM	11955
 Geographical Coverage Delivery	7763
+Geographical Coverage Percentage	18485
 Geographical Coverage of Terminals	11955
 Geographical Coverage of Terminals ISLANDS OF CV	11955
 Geographical Discrimination	226
@@ -351,20 +366,25 @@ Geographical Information System	12369,1215,2075,310
 Geographical Information System GSMA	958
 Geographical Information Systems	10662,1707
 Geographical Information Systems GIZ Gesellschaft	17105
+Geographical Location	18543
 Geographical Map	17367
 Geographical Names Register	4214
+Geographical Topology of The National Terrestrial Fiber	18485
 Geographical and Categorical	16867
 Geographical and Climatic Units	17157
 Geographical and Ecological Characteristics	12151
 Geographically	4863,20,3082,2310,76,448,3930,872,1257
 Geographies	11310
-Geography	6051,1914,1541,41,641,647,3,74,56,181,88,34,234,365,16,55,212,199,1,60,75,487,103,265,1363,142,48,160
+Geography	6051,1914,1541,41,641,647,3,74,56,181,88,34,234,365,16,55,212,199,1,60,75,487,103,265,1363,142,48,160,3522,28
 Geography Figure	12413,2643
 Geography Teacher’s Association	12975
 Geography and Economic Background The Republic of Liberia	17367
 Geography and Environment	12178
+Geography and Population of Sierra Leone	18475
+Geography and Population of Sierra Leone Geography Sierra	18475
 Geography and Socio-Economy	14000
 Geography of Innovation and Production	14723
+Geography. Plus	18606
 Geográfico	11430,1
 Geoid	15774,778,454
 Geojson	1187,797
@@ -380,7 +400,7 @@ Geological Survey Department	13060,63
 Geological Survey of India	13561,3679
 Geological Surveys	13093
 Geological and Minerals Development Bill	13387
-Geology	12253,4852
+Geology	12253,4852,1473
 Geology and Hydrogeology	1988
 Geology and Mineral Resources	18016
 Geometria Analítica	12019
@@ -408,8 +428,9 @@ Geopolitics and Data Localization	3810
 Geopolitics of AI	4253
 Geopolitics of Digital Rights Activism	11028
 Geoportail	18324
-Geoportal	13031
+Geoportal	13031,5445
 Geoportal System	13031
+Geoportals SPARE SLIDES EXPECTED OUTCOMES INSTITUTIONAL	18476
 Geoqvueerntoe.mCoennsteeq	15694
 Geordin Hill-Lewis	12072
 Georeferencing	4034
@@ -443,6 +464,7 @@ George Klay	16949
 George MONDJOT	16175
 George Mason	15640
 George Mason University	2869
+George Mathor Mayom. Representatives	18666
 George Mukhari	11986
 George Murage	9516
 George Musamali	7643
@@ -458,6 +480,7 @@ George Sibiya	1009
 George Silundika Avenue Cnr. S. V	13420
 George Simbachawene	3085,1302
 George Spencer Quaye	5970
+George Street	18486
 George Tabor	6961
 George Tabor Campus of South West Gauteng	4494,2436
 George Tembo	11289
@@ -508,6 +531,7 @@ Georgia Wallen	14339,2731
 Georgia Yes Georgian	11529
 Georgian	14621
 Georgieff and Hyee	7789
+Georgina Alie	18558
 Georgina Crouth	1695
 Georgina Sturge	10985,4673
 Georgina Sturge and Tanja Schmidt	11525
@@ -518,11 +542,13 @@ Geoscience Australia. Provides	345
 Geosciences	13021
 Geoscientific	12256,3337
 Geoserver. Figure	15555
-Geospatial	196,66,615,3622,29,2488,2545,5,1197,373,724,58,88,354,97,55,1474,104,414,437,532,116,1278,290,98,5,1033
+Geospatial	196,66,615,3622,29,2488,2545,5,1197,373,724,58,88,354,97,55,1474,104,414,437,532,116,1278,290,98,5,1033,183
 Geospatial AI Ops Atlas AI	5226
 Geospatial Capability	520
 Geospatial Data	196,3665
+Geospatial Data Inventory	18476
 Geospatial Data Platform	1796,1413
+Geospatial Format	18476
 Geospatial Hub	1043
 Geospatial Information	15473
 Geospatial Information Centre	12588,2
@@ -541,6 +567,7 @@ Geospatial Investment Alexis Rutagengwa Head of Land	12457
 Geospatial Lab	15552
 Geospatial Least Cost Electrification Plan	12399
 Geospatial Precision	4130
+Geospatial Prioritization Survey	18476
 Geospatial Services	15285
 Geospatial Solutions	12457
 Geospatial Systems	15553
@@ -595,6 +622,7 @@ Hon Samuel Nartey George	5473
 Hon. Geoffrey Mulanya	10313
 Hon. George	3384,12421
 Hon. George Best. Hon. George Murugara	10313
+Hon. George Maggo	18684,1
 Hon. George Murugara	10313
 Hon. Georges Pierre Lesjongard	14745
 Hon. Mulanya. Hon. Geoffrey Mulanya	10313
@@ -643,6 +671,8 @@ Jolomi George Fenemigho	12038
 Journal of Geophysical Research	15907
 Journal of Geophysical Research Atmospheres	16135
 Justificación I.1.1 Geografía	16898
+KEY FINDINGS GEOSPATIAL DATA USAGE	18476
+KEY FINDINGS PRIORITIZED SECTORS FOR GEOSPATIAL	18476
 KIBIRIMA Georges Gualbert UGP Experte Suivi-Evaluation	16012
 KIPETO ENERGY PLC SOSIAN MENENGAI GEOTHERMAL	12256
 KOR GHAPOL GEOIND VNMHRV MAR PHPIDN	7655
@@ -657,6 +687,7 @@ LA GEOLOGIE AUTORISATION DE PROSPECTION Arrêté	16413
 LA GEOLOGIE Article	16177
 LA GEOLOGIE Autorisation	16413
 LAWRENCE GEORGE	16921
+LC’s KEY FINDINGS GEOSPATIAL DATA USAGE	18476
 LGAs Geographic	17285
 LIBERIA INSTITUTE OF STATISTICS AND GEOINFORMATION	17149
 LIST OF FIGURES Geographical Map	17367
@@ -678,6 +709,7 @@ Libyan Society for Remote Sensing and Geographic	16916
 Linguistic and Geographical Disparities	4253
 Lislet Geoffroy St	14847
 Lislet Geoffroy Street	14847
+Load GIS Geographic Information System ISO	18531
 Localização Geográfica	11384
 Log-in Georgia Project	15553
 Loick Geordel	16413
@@ -692,9 +724,11 @@ M. MBA ASSEKO Georges Henri	16381
 M. MBAMI DJAMBO Georges Bernard	16099
 M. NDOSAK George	16195
 M. Sydney Georges OMBINA. MINISTÈRE	16381
+MDAs. Ministry of Finance Treasury Building George	18496
 MILITAR Y JEF. NAVALES GEOGRAFÍCO	4209
 MINES ET DES RESSOURCES GEOLOGIQUES ADMINISTRATION	16099,282
 MINIERES ET DE LA GEOLOGIE	16100
+MINISTRY OF FINANCE TREASURY BUILDING GEORGE	18512
 MIT and Georgetown	6603
 MUTUELLE PROMOTION COLONEL GEORGES OSSOMBO	16456
 Madam Georgia Wallen	14345
@@ -727,11 +761,13 @@ Ministry of Mines and Geology MS Moderately Satisfactory	2889
 Mme Georgina EFFOUA	16381
 Mme Kristalina Georgieva Directrice Fonds	18063
 Mme MENGUE Georgina. MÉMORIAL LÉON MBA	16381
+Mobile Voice Geographical	18485
 Monsieur Geoffrey GREENWELL	16400
 Monthly Geothermal Energy Generated	12256
 Mr. Antoine George Mbaga	15415
 Mr. George	5778,398,230
 Mr. George H. Gooding	17235
+Mr. George Levoola	18705
 Mr. George Lwevoola	13610
 Mr. George Masinga	13157
 Mr. George Wachira	12966
@@ -784,6 +820,7 @@ Open Geospatial Consortium	11867
 Ovie George	4601
 P CHINA GEO ENGINEERING CORPORATION SAU	16623
 PP Public Participation QCIS Quantum Geographic	17157
+PRIORITIZED SECTORS FOR GEOSPATIAL DEVELOPMENT City	18476
 Pakistan. Geomatics	17157
 Participatory Geographic Information Systems	1248
 Paul Georges OKINDA	16175
@@ -831,6 +868,7 @@ Rwandan Franc. Geopolitical	15023
 République Madame. Monique YENOUSSI Monsieur Geoffroy	16485
 République du Congo. Guy Georges MBAKA Article	15524
 SADC Data Protection Model Law. Geographical	962
+SECTORS FOR GEOSPATIAL DEVELOPMENT City	18476
 SEN Spatial CHALLENGE GEOINNOV	18324
 SIG Sistema de Información Geográfica SMTS Sistema	16875
 SITUATION GEOGRAPHIQUE	16195

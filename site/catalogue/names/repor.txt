@@ -10,6 +10,7 @@ ABRIDGED REPORT Figure	582
 ABRIDGED REPORT HOUSEHOLD SURVEY ON ICT	582
 ACCIDENT OR INCIDENT REPORT	14528
 ACCOUNT REPORT ON THE FINANCIAL STATEMENTS	14546
+ACCRUAL BASIS OF FINANCIAL REPORTING	18576
 ACCURACY FOR THE ANNUAL REPORT	11218,6
 ACCURACY OF THE ANNUAL REPORT	11198
 ACP Annual Report	254
@@ -55,7 +56,7 @@ ANNUAL PERFORMANCE REPORT	12977,1056
 ANNUAL PERFORMANCE REPORT AND BUDGET ESTIMATE	13131
 ANNUAL PERFORMANCE REPORT AND BUDGET ESTIMATES	13131
 ANNUAL PERFORMANCE REPORT FOR THE FINANCIAL	13126
-ANNUAL REPORT	718,436,400,9644,20,6,26,1670,31,20,82,979,706,22,137,2076
+ANNUAL REPORT	718,436,400,9644,20,6,26,1670,31,20,82,979,706,22,137,2076,1695
 ANNUAL REPORT A NOTE	1154
 ANNUAL REPORT ABOUT THE RESEARCH COUNCIL	1154,400
 ANNUAL REPORT ABRIDGED AUDITED FINANCIAL STATEMENTS	1154
@@ -129,6 +130,7 @@ ASCR Annual School Census Report ADEA	13310
 ASSESSMENT REPORT Referrer	13040
 ASYCUDA. LIBERIA TIME RELEASE STUDY REPORT	17367
 ATS Reporting Office	16552,454
+AUDIT AND REPORTING	18596
 AUDIT COMMITTEE REPORT	11218,6
 AUDIT REPORT	14773
 AUDITOR GENERAL’S REPORT	11224
@@ -145,6 +147,7 @@ About the Annual Report	11250
 Abridged and Main Report the Expert Group	582
 Abroad Kenya Vital Statistics Report	12151
 Acceptance Reports	12400
+Access Information Annual Report	18442
 Access Vital Reports City Administration	14137
 Access Vital Statistics Reports Integration	14137
 Accessibility of Credit Reporting Agencies	12389
@@ -154,7 +157,8 @@ Account Reporting Request	12364
 Accounting Standards and Financial Reporting System for Cabo	11955
 Accounting and Financial Reporting	13332
 Accounting and Financial Reporting System Standards System	11955
-Accounting and Reporting	16944
+Accounting and Reporting	16944,1544,12,77
+Accounting and Reporting The Accountant General’s Department	18488
 Accreditation Reports K09	15604
 Accurate Reporting	10984,1516
 Acquisition of Electronic Catch Reporting System	14830
@@ -168,6 +172,7 @@ Activity Reports Education Sector Plan for Egypt	15604
 Activity Reports K07	15604
 Additional Financing. Report	15663
 Administration Report	12970
+Admissibility of Digital Search Reports PART VIII	18556
 Admissible. Reports	7066
 Adoption Report Copy	11007
 Advance Performance Assessment Report	12500
@@ -264,7 +269,7 @@ Annual Financial Report and Policy Statement	17138
 Annual Financial Sector Development Report. Non-Bank	17138
 Annual Fiscal Performance Report	15031
 Annual Governance Report	8866
-Annual Health Sector Performance Report	14033,2938
+Annual Health Sector Performance Report	14033,2938,1686
 Annual Health Service Performance Report	16971
 Annual Imihigo Evaluation Reports	14935
 Annual Impact Report	17364
@@ -274,26 +279,30 @@ Annual Integrated Report	11048,83,3
 Annual Market Performance Report	1195
 Annual MdJL and MdJL and Report	17441
 Annual Media Statistics Report. Kigali	13418
-Annual Performance Report	1554,11418,5,443,1326,82,3
+Annual Performance Report	1554,11418,5,443,1326,82,3,3770
 Annual Performance Report. Officials	8469
 Annual Progress Report	6508,10597
 Annual Progress Reports	12453,524,368
 Annual Public Report	4528,7984
-Annual Report	236,482,167,76,193,55,140,28,1,6,170,274,1461,294,1313,333,643,1064,2,8,258,135,209,215,488,263,560,1690,102,272,59,27,6,20,82,254,76,59,234,39,76,162,13,26,44,10,12,62,101,51,123,246,31,2,144,66,521,374,352,54,29,243,2,4,2,1,1,14,1,7,5,62,32,24,106,123,10,491,118,200,901,11,91,31,5,59,198,54,581
+Annual Report	236,482,167,76,193,55,140,28,1,6,170,274,1461,294,1313,333,643,1064,2,8,258,135,209,215,488,263,560,1690,102,272,59,27,6,20,82,254,76,59,234,39,76,162,13,26,44,10,12,62,101,51,123,246,31,2,144,66,521,374,352,54,29,243,2,4,2,1,1,14,1,7,5,62,32,24,106,123,10,491,118,200,901,11,91,31,5,59,198,54,581,564,10,77,55,85
 Annual Report Between	16886
 Annual Report Building Brighter Futures	12552
 Annual Report Classification	16941
 Annual Report Final.pdf	12515
 Annual Report Final.pdf Download Copy Link	12515
 Annual Report Fiscal Year	12358
+Annual Report From the People of Japan. Project	18615
 Annual Report Guide for Schedule	11250
 Annual Report Inclusive Digital Transformation for Malawi	13095
 Annual Report LESOTHO COMMUNICATIONS AUTHORITY ANNUAL	12646
+Annual Report PART VI	18466
 Annual Report Pgs	17011
+Annual Report Pursuant	18444
 Annual Report RSSB Annual Custodial	14997
+Annual Report Regulations Repeal Passed	18465
 Annual Report SCHEDULE	22
 Annual Report UNDP Libya's PEPOL	1390
-Annual Report URL	13865
+Annual Report URL	13865,4711
 Annual Report and Consolidated Financial Statements	15148
 Annual Report and Financial Statements	12951,1785
 Annual Report for FY	6946
@@ -302,6 +311,7 @@ Annual Report for The Financial	6946
 Annual Report of Ministry of Home Affairs	12337
 Annual Report of Statistics Botswana	12551
 Annual Report. Juneau. Alaska	12413
+Annual Report. PART VI	18440
 Annual Report. Rapport Annuel	15670
 Annual Report. The Annual Report	4896
 Annual Report. The Report	1554
@@ -318,9 +328,14 @@ Annual Research Funding Report	14824
 Annual Results Report	12257,1732,4136
 Annual Results Report URL	18125
 Annual SG1 SO2 Reporting	17116
+Annual School Census Final Report Government	18460
+Annual School Census Final Report URL	18460
+Annual School Census Report	18536
+Annual School Census Report Annual School	18536
 Annual Sector Performance Report	2888
 Annual Statistics Report	12334
 Annual Vital Statistics Report	12138,199,607
+Annual and Other Reports	18596
 Appendices The Mobile Gender Gap Report	11004
 Appraisal Report	11790
 Apr-2026. Report	13793
@@ -348,6 +363,7 @@ Assessment Reports	10721,4053
 Assessment. Summary Report. Washington	16876
 Assurance Review TASS Performance Assessment Report	12500
 Attachment III. Performance Assessment Report	12500
+Audit Annual Report	18435
 Audit Committee Report	11197,53
 Audit Report	1554,5500,3667,497,32,616,89,2257,414,120,14,388,1695
 Audit Report EU	970
@@ -358,17 +374,20 @@ Audit Reports and Status of Remedial Actions	14773
 Auditor General Report	3583
 Auditor General Report The DCDT	11230
 Auditor General's Annual Report	11866
-Auditor General's Report	12669
+Auditor General's Report	12669,5932
+Auditor General's Report. Gi	18457
+Auditor General’s Annual Report. Quality Assurance	18577
 Auditor's Information Report	16516
 Auditor-General’s Report	11198
 Auditor-General’s Special Audit Report	5536
 AuditorGeneral'sOffice.The Financial Report	1154
-Auditor’s Report	11250
+Auditor’s Report	11250,7293
 Audrey Dekalu. Reporter	16544
 Aug Pilot Project for Electronic Reporting of Serious	8831
 Aug-2018. Report	12137
 Aug.2026 Reporter	16591
 Authority Statistics Report	14997
+Authority. Annual Report	18466
 Authority’s Annual Report	6946
 Authorized IMPLEMENTATION COMPLETION AND RESULTS REPORT	16436
 Authorized Public Disclosure Authorized Report	16032
@@ -523,6 +542,7 @@ CENTRAL AFRICA Technical Report Prepared	10841
 CENTRAL AFRICAN REPUBLIC Report	15658
 CERT-MU The Mauritian Cybercrime Online Reporting	14750
 CERTIFICATION AND REPORTING OF CAUSES	16892
+CFSAMs Special Reports	18683
 CFSAMs Special Reports. Rome	15118
 CG and Report No	11905
 CMA Report	14997
@@ -553,6 +573,7 @@ CRAN Integrated Annual Report	1870,1540
 CRAN's ICT Sector Market Report	1944
 CRVS Annual Report	13244
 CSIRO Reports EP173122 and EP175702	14434
+CSR Report Focused	18497
 CYBERSECURITY BI-ANNUAL STATISTICS REPORT	3336
 Cabo Verde Results Report	11873
 Cairo Real Estate Market Q2 Report	15473
@@ -569,10 +590,12 @@ Cascade of Cases Region Cases Reported Cases	12977
 Case Study Analysis Report	7151
 Cases Reported	11912,2848
 Cases of Diseases Reported	2775
+Cash Management Report This End-of-Year Report	18576
 Cash Transaction Reports	789
 Cash Transfer Program. Synthesis Report	15663
 Cell C Reports ZAR	10733
 Census Main Report	12963
+Census Report	18536
 Central Bank Of Tunisia Reports	5125
 Central Bank of Eswatini’s Annual Integrated Report	11131,3
 Central Bank of Kenya Annual Report	1349
@@ -580,6 +603,7 @@ Central Bank of Kenya's Annual Report	1349
 Central Bank of Liberia Annual Report	17043,192
 Central Bank of Nigeria CBN Fintech Report	4848
 Central Cyber Incident Reporting and Feedback Framework	6936
+Central Government Monitoring and Reporting System	18575
 Centre Manager Report. Visual	14753
 Century Health and Care. The Final Report	396
 Cessation of Hostilities Agreement. Reports	14008
@@ -619,6 +643,7 @@ Commission Report No	13040
 Commission de Report	15901
 Commission's Report	13493
 Committee Report	10313
+Committee Reports and Reports	18436
 Committee’s Quarterly Reports	16850
 Committee’s Report	10313
 Common Reporting Standard	11233,743,3021
@@ -731,6 +756,7 @@ Cyber Security Advisories and Reported Online Crimes	2775
 Cyber Security Assessment Report	2709
 Cyber Security Incident Reporting Team	12364
 Cyber Security Report Q4	7548
+Cyber Tenorism. Racist Xenophobic Offences. Reporting	18457
 Cybercrime Reporting Ministry of Justice	1777
 Cybersecurity Assessment Report	2709
 Cybersecurity Bi-Annual Statistics Report	2230,1106
@@ -792,6 +818,7 @@ Death Reporting	13425
 Deaths Reported and Certificated	16860
 Debra Matabvu-Herald Reporter GOVERNMENT	13448
 Debt Management Report	14546
+Debt Recording and Reporting	18488
 Debt Statistics ROSC Report	14777
 Decentralization and Local Governance Report	13418
 Deliverable Timeline Inception Report	15090
@@ -825,13 +852,14 @@ Development Reports Gross	11964
 Development Reports UN Human Development Reports	11004
 Development and Savings Banks. Annual Integrated Report	11134
 Development of Malawi Election Monitoring Systems Report	13080
-Diagnostic Report	11131,748,784,5207
+Diagnostic Report	11131,748,784,5207,704
 Diagnostic Report. Manila	11310
 Diagnostic Reports Privacy Controls Clinical	2477
 Diagnostic Study Report	13938
 Digital Credit Audit Report	12227
 Digital Defense Report	8711
 Digital Dividends. World Development Report	13312,2,2160
+Digital Economy Diagnostic Report for Sierra Leone	18454
 Digital Economy Diagnostic Report for Zambia	12453,892
 Digital Economy Report	961,282,6305,3271,1060,2911,3080
 Digital Economy for Cameroon Diagnostic Report. Washington	15480
@@ -846,6 +874,7 @@ Digital Identity Fraud Report	5820
 Digital Identity Reporting Grants	10962
 Digital Landscape Assesment Report	6273
 Digital Landscape Assessment Report	6273
+Digital Pandemic Preparedness Assessment Report	18478
 Digital Progress and Trends Report	5583
 Digital Public Goods Ecosystem Report	7921
 Digital Public Infrastructure -DPI Report.pdf	5485
@@ -856,6 +885,7 @@ Digital Rights Report	8481
 Digital Skills Report Card	6832
 Digital Transformation Implementation Assessment Report	12688
 Digital Transformation of Cameroon Project Report	15802
+Digital and Entrepreneurship Ecosystem Report	18487
 DigitalMoonshotforAfrica Report.pdf	961
 Directors’ Report	13053
 Directrizes de Reporte de Incidentes Tecnológicos	5169
@@ -910,7 +940,7 @@ EIA Reports	14742
 EICV5. Thematic Report Education. Kigali	12413
 EICV7 UTILITIES AND AMENITIES Thematic Report	12403
 EITI Report	17893
-EITI Reports	17893
+EITI Reports	17893,546
 ELECTRICITY SECTOR REFORM PROGRESS Q3 REPORT	11236
 ELEVENTH PERIODIC REPORT	14742
 EMIS Reports	12345
@@ -924,6 +954,7 @@ ERERA Headquarters Special Project Financial Reporting	6422
 ERI Report	12256
 ESCCOM National Annual Report	6539
 ESET Threat Report	9830
+ESO RANKINGS BASED ON CONNECTIONS REPORTED	18487
 ESS Reporting Official Use Only Day	12253
 ESWATINI REVENUE SERVICES REPORT FOR FINANCIAL	13126
 ESWATINI'S REPORT SUBMITTED UNDER ARTICLES	12936
@@ -933,6 +964,7 @@ EU EFM Final Report	12201
 EU Election Observation Mission Final Report	12201
 EU Unified DP Reporting Form	970
 EU. UNDP Malawi Quarterly Progress Report	12241
+EVALUATION AND REPORT	18468
 EVALUATION AND REPORTING	12759
 EVALUATION AND REPORTING KSA	1131
 EVALUATION REPORT Prepared	14855
@@ -995,7 +1027,9 @@ Entities Reporting	11218,12
 Entrepreneurship Report	10745
 Environmental Crimes Reported	2775
 Environmental Reporting	12389
+Environmental and Social Impact Assessment Report	18543
 Environmental and Social Incident Reporting Toolkit	13392
+Environmental and Social Performance Reports	18635
 Environmental and Social Screening Report	18370
 Epargne Emprunt Subvention Autre Technical Report	10841
 Equatorial Guinea Country Report. BTI. Buiyabán	16942
@@ -1089,6 +1123,7 @@ Final Consolidated Report	3678
 Final Draft Report	236
 Final Inception Report	962
 Final National Governance Framework Report	12008
+Final Preliminary Report 2021 MTPHC.pdf	18464
 Final Project Completion Report	14185
 Final Project Report	15601
 Final Project Report and Documentation	16600
@@ -1142,7 +1177,7 @@ Financial Report IPDP Indigenous People Development	15372
 Financial Report IPF Investment Project Financing	15515,106,2680
 Financial Report IRR Internal Rate of Return	16922
 Financial Report International Monetary Fund Investment	16436
-Financial Reporting	1154,1897,3371,3015,5301,410,21,203,1577,29,218,39
+Financial Reporting	1154,1897,3371,3015,5301,410,21,203,1577,29,218,39,1341
 Financial Reporting Act	7845,4753,2138,73,19,3
 Financial Reporting Arrangements	11855
 Financial Reporting Center	4278,10602
@@ -1151,6 +1186,7 @@ Financial Reporting Centre's Terrorist Financing	12297
 Financial Reporting Council	9508,5339
 Financial Reporting Council of Nigeria	11866
 Financial Reporting Guides	10793
+Financial Reporting Preparing	18576
 Financial Reporting Standard IPPs Independent Power	12399
 Financial Reporting Standards	11250,705
 Financial Reporting Standards Council	10793
@@ -1179,6 +1215,7 @@ First Quarter Performance Report	7453
 First Quarter Performance Report. Nkosi	9527
 First Quarter Report	17037
 Fiscal Performance Report	15031
+Fiscal Report	18488
 Fiscal Reports	15089
 Fiscal Transparency Report	11005,9
 Fiscal Transparency Report Bureau of Economic	11005
@@ -1205,6 +1242,7 @@ Fraud Reported	17362
 Fraud and Corruption Reporting Channels	11250
 Frauds Trends Report	6643
 Freedom House Report	14190
+Frequency of Measurement and Reporting	18485
 Frequency of Report	13005
 Friendly Reporting Channel	6936
 Full Report Download Report	8042
@@ -1263,6 +1301,7 @@ General Country of Origin Information Report	13997
 General Household Survey Report and State Statistical	12135
 General Report	15478
 Generate Report	12367
+Generates Comprehensive Audit Reports	18482
 Geneva. Technical Report	10841
 Geographic Scope This Report	4972
 Geospatial Urban-Rural Performance Connectivity Report	6051
@@ -1358,7 +1397,7 @@ Human Capital Index Report	15447
 Human Development Index. Human Development Reports	15725
 Human Development Report	969,10591,26,349,1029,367,1,625,609,176,705,154,123,1225,24
 Human Development Report Briefing. United Nations	13332
-Human Development Reports	13358,1886,309
+Human Development Reports	13358,1886,309,2925
 Human Nutrition Training Report	16927
 Human Resources Report	12970
 Human Rights UNDP Mauritius Annual Report	11332
@@ -1482,7 +1521,7 @@ Impact Assessment Reported	6432
 Impact Report	8001,3993,499,2671
 Impact of UNDP Malawi Quarterly Progress Report	12241
 Implementation Completion Report	10779,1145,1926,1038,630,1442
-Implementation Completion and Results Report	10964,2367,1554,487,52,87,90,62,39,29,228,31,446,178,1235,13,100,236
+Implementation Completion and Results Report	10964,2367,1554,487,52,87,90,62,39,29,228,31,446,178,1235,13,100,236,258
 Implementation Experience Report RFC	11797
 Implementation Monitoring Report	14844
 Implementation Progress Report	13966
@@ -1495,10 +1534,11 @@ Implementation Status Report.pdf	2840,289,1250
 Implementation Status Reports	16144
 Implementation Status Results Report	15411
 Implementation Status and Result Reporting Ratings	13054
-Implementation Status and Results Report	2889,8528,1641,1973,522,48,136,45,1114,26,1372,80
+Implementation Status and Results Report	2889,8528,1641,1973,522,48,136,45,1114,26,1372,80,99
 Implementation Status and Results Report ITU International	17862
 Implementation Status and Results Report M&E Monitoring	16896
 Implementation Status and Results Reports	3604,8320,4512
+Implementation. The PFM Progress Report	18577
 Improve Financial Reporting Economic	15298
 Improved Analytics and Reporting	13037
 Improved Credit Information Reporting Timely	13532
@@ -1558,7 +1598,9 @@ Initiative Progress Report	17196
 Innovation and Development Annual Report	1554
 Inquiry Report	14774
 Inquiry Survey Report	13461
+Inspection Report	18661
 Inspection Reporting	16978
+Inspector's Report	18556
 Instituições Financeiras Para Reportarem Falhas Nos	12841
 Institute Cybercrime Reporting Channel	1777
 Integrated Annual Report	1870,30,1510,295,9428
@@ -1597,7 +1639,7 @@ International Court of Justice Reports	14751
 International Financial Reporting	10793
 International Financial Reporting Interpretations Committee	13053
 International Financial Reporting Standard	4896,7503
-International Financial Reporting Standards	1154,400,1497,1101,744,2949,3286,3,821,492,606,1683,433,2081
+International Financial Reporting Standards	1154,400,1497,1101,744,2949,3286,3,821,492,606,1683,433,2081,1326
 International Financial Reporting Standards INE	11955
 International Monetary Fund Country Report	15511
 International Monetary Fund Country Report No	11905
@@ -1624,15 +1666,18 @@ J Annual Reports of Refugee Appeals Authority	11177
 JESR Reports K08	15604
 JOUBAIDA Ali ANALYSIS REPORT	10980
 Jan-21 CBL ANNUAL REPORT	17235
+Jasper Reports	18470
 Jean Nepomuscene REPORT WRITING SIBOMANA Oscar	12445
 Jisc Report	14812
 Job Descriptions Report	3678
 Job Market Trends Report	6832,4663
 Job Market Trends Report35	6832
 Jobs Report Washington	7655
+Joint Annual Digital Cooperation Report	18523
 Joint Diagnostics Report and Key Findings	16902
 Joint Education Sector Review Report	15604
 Joint Education Sector Review Report URL	14916
+Joint Monitoring Report	18645,79
 Joint Monitoring Reports	16398
 Joint Research Report	12376
 Joint Sector Review Report. MININFRA	14935
@@ -1640,6 +1685,7 @@ Journal Citation Reports	11898
 Journal of Global Health Reports	1212
 Journal of Medical Case Reports	12675
 Joy Odor Reportcircle News	11097
+Juba. REPORT OF THE AUDITOR-GENERAL	18661
 Judicial Retreat Report	16943
 Jumia Reports Second Quarter	9735
 Jun-2021. Report	761
@@ -1722,6 +1768,7 @@ Law Report	15553
 Law Reporting Unit	13504
 Law Reports of Lesotho Appeal Cases	12668
 Law Reports of The Gambia	16973
+Leaked' Probe Report	18699
 Learn REPORT JUL	6947
 Learning Report	6947
 Legacy Reporting System	6432
@@ -1761,6 +1808,8 @@ M. Reported	1563
 MACRA Annual Report	12214
 MADAGASCAR REPORT BY FTM	14440
 MAIN ACTIVITIES IN VILLAGES AS REPORTED	10763
+MDAs. Financial Reporting	18577
+MDAs. Publish Annual Gender Audit Report	18512
 MDPMI FINAL REPORT	13461,1
 MDPMI FINAL REPORT Direct	13461
 MDPMI FINAL REPORT MDPMI FINAL REPORT	13461
@@ -1787,8 +1836,9 @@ MOFEA Reports	17216
 MOH ANNUAL HEALTH SECTOR PERFORMANCE REPORT	16971
 MOH Report Methodology for Data Collection MOH	11417
 MOH Report PBF National Technical Unit	10829
-MONITORING AND REPORTING	16926
+MONITORING AND REPORTING	16926,1578
 MONITORING AND REPORTING ON SEP	17099
+MONITORING EVALUATION AND REPORTING	18468
 MOPT Ministry of Review Report Q4	1777
 MOR Organizational Structure Performance Assessment Report	12500
 MOR's Annual Report	12500
@@ -1796,6 +1846,7 @@ MOR. Performance Assessment Report	12500
 MOTIONS REPORT OF THE COMMITTEE	13387
 MRA ANNUAL REPORT	13053
 MRA’s Annual Report	13053
+MTPHC Preliminary Report	18464
 MU Moderately Unsatisfactory NR Not Reported	16614
 MWK Report	14674
 Madagascar A Xalam Analytics Country Report	14482
@@ -1803,6 +1854,7 @@ Madagascar Peer Review Report Reviewing Agency	14448
 Madagascar Report. Ara-toekarena	14356
 Main Indicators Report	14903
 Main Report. Tanzania	1261
+Maintain Internal Reporting Procedures	18599
 Major Reports	14005
 Making All Voices Count Research Report	16872
 Malaria National Diagnostic Capacity Assessment Report	17289
@@ -1821,6 +1873,7 @@ Mali Digital Economy Diagnostic Business Report	17870
 Management Audit Reports. The Ministry of Public	12972
 Management Report	3253,7468,1234
 Managing and Reporting	13991
+Mandatory Reporting	18649
 Mandatory Reporting Contract	6432
 Manuel Gonzalez Schuler Report	13897
 Mapping Report	3969
@@ -1832,6 +1885,7 @@ Market Performance Report Q2	9781
 Market Performance Reports	3990
 Market Report	13346,133
 Market Study Final Report	13461
+Markets Report	18706
 Maryland Vital Statistics Annual Report	12413
 Mathieu Nathanaël NJOG Grand Reporter	9615
 Mauritian Cybercrime Online Reporting System	12232,2497
@@ -1858,6 +1912,7 @@ Microsoft’s Digital Defense Report	8711
 Microsoft’s Global AI Diffusion Report	10620
 Mid Year Public Debt Report	483
 Mid-Term Evaluation Report	17575
+Mid-Term Population and Housing Census Report	18478
 Mid-Year Assessment Report of Parliament	11230
 Mid-Year Data Report	8955
 Mid-Year Global Update Report	9857
@@ -1935,7 +1990,9 @@ Mutual Evaluation Report URL	14016
 NABII Report	12376
 NATIONAL ANALYTICAL REPORT	12431
 NATIONAL ANALYTICAL REPORT Figure	12431
+NATIONAL EDUCATION CENSUS REPORT	18617
 NATIONAL EXCHEQUER ACCOUNT REPORT	14546
+NATIONAL REVIEW REPORT ON THE IMPLEMENTATION	18624
 NATIONAL TREASURY REPORT	14546
 NBR Annual Report	15023,107
 NBR Annual Report for FY	15023
@@ -2034,6 +2091,8 @@ Number of Registered and Reporting Procuring Entities	2775
 Number of Report	14997
 Number of Reported Cyber Incidents	16975
 Number of Reports	14997
+Number of Schools Reporting Incidences of SGBV	18460
+Number of Schools Reporting Incidences of SGVB	18460
 Nutrition Survey Reports	970
 Nyore Madzianike- Senior Reporter SIXTEEN	13619
 O Report	3972
@@ -2063,6 +2122,8 @@ Obrigação de Reportar Alterações	3519
 Off-Grid Solar Market Trends Report	11140
 Offences Reported	14760
 Official Hansard Report	10313
+Official Report	18436
+Official Reports	18436
 Ongoing Report	16963
 Online Payments Receipt Generation Revenue Reports	12211
 Online Reporter	12506
@@ -2092,6 +2153,7 @@ Overview. World Bank. IDA19 Replenishment Report	10997
 P PROJECT APPRAISAL REPORT TECHNICAL FACILITY	13938
 P172341-54806169-ac97-4144-8f26-c20d06662f3c.txt Report	15693
 PAACAMA Phase I Appraisal Report	7160
+PAC Report	18488
 PAIA Annual Report Compliance	14357
 PART F PFMA COMPLIANCE REPORT	11250
 PARTECH AFRICA TECH VC REPORT	4722
@@ -2139,12 +2201,15 @@ PSPs Sector Count of Fraud Cases Reported	17362
 PUB Liberia20 A5 Report-Livelihood FINAL 20210806-	17011
 PUBLIC DEBT EXPENDITURE REPORT	14546
 PUBLIC FINANCE MANAGEMENT ANNUAL PROGRESS REPORT	16944
+PUBLIC FINANCIAL MANAGEMENT REFORM PROGRESS REPORT	18488,89
 PUBLIC PUBLIC ANNEXES TO OPERATION REPORT	1818
 PUBLIC REPORTING AND TRANSPARENCY OBLIGATIONS	3861
 PURA Annual Report	16886
 PURA’s Annual Report	16886
+PURPOSE OF THIS REPORT	18624
 Packet Clearing House Report	11609
 Paper Record Search. If the Reporting Financial	11233
+Parliament. This Annual Report	18444
 Parliamentary Report	5363
 Part V Reporting	16850
 Partager Reporters	18054
@@ -2233,7 +2298,7 @@ Preferential Performance Assessment Report	12500
 Preferred Reporting	9129
 Preliminary Environmental Report	14742,2372
 Preliminary Environmental and Social Assessment Report	17114
-Preliminary Report	6933,179,24,1492,1421,773
+Preliminary Report	6933,179,24,1492,1421,773,7642
 Preparation of Monthly Reports	9437
 Prepare Annual Electricity Sector Report	16978
 Prepare and Submit Quarterly Financial Reports	14546
@@ -2262,7 +2327,7 @@ Programme Report. The Borrower	16219
 Programme Reports	16219
 Programme WDR World Development Report WGI	13861
 Progress Completion Measurement Report	17470
-Progress Report	1243,585,10095,297,860,3931
+Progress Report	1243,585,10095,297,860,3931,1566
 Progress Report GEA Global Energy Alliance	16188
 Progress Report. Ministry of Health. Ministry of Information	12240
 Progress Reports EXTERNAL Construction Industry Council	11131
@@ -2271,6 +2336,7 @@ Project Appraisal Document. Report	15601
 Project Appraisal Document. Report No. PAD2480	16626
 Project Appraisal Report	14080
 Project Appraisal Report URL	13938
+Project Audited Report and Financial Statements	18661
 Project Closure Report	1988
 Project Completion Report	13938,1820,678
 Project Implementation Manual. DGDEN ARPCE Reports	15553
@@ -2297,6 +2363,7 @@ Promesse REPORT PROOFREADING KALISA Neema Drace	12445
 Protection Application Report	7147
 Protection Authority Reporting	12253
 Protection Report	11857
+Protection of Reporting Persons	18599
 Protracted Refugee Situations Document Synthesis Report	17323,1
 Provisional Report	13461
 Provisional Report COMPETITION COMMISSION	13461
@@ -2307,12 +2374,15 @@ Provisional Report. X	13461
 Public Accountability Reports	16963
 Public Debt and Privatization Report	14546
 Public Disclosure Authorized Report	11924
+Public Financial Management Reform Progress Report	18488,12,77
 Public Notices Publications Annual Reports Brochures	12515
 Public Report	10718
 Public Reporting and Transparency Obligations	3861
 Public Sector Accounting Standards Board Reporting	14546
 Public and Provisional Report Submissions	13461
 Publication of Consultation Report	17191
+Publication of Fiscal Report	18488
+Publication of Quarterly Financial Report	18488
 Publications Report Multistakeholder Governance for DPI	11006,1
 Publications and Reports	11935
 Publish Tax Expenditure Report	17011
@@ -2386,6 +2456,7 @@ REPORT MULTIDIMENSIONAL POVERTY SURVEY	15244
 REPORT Mauritius Standards Bureau	14736
 REPORT OF THE ACCOUNTING OFFICER	11218,6
 REPORT OF THE ACCOUNTING OFFICER Introduction	11218
+REPORT OF THE AUDITOR-GENERAL	18661
 REPORT OF THE AUDITOR-GENERAL ON LAND	15657
 REPORT OF THE AUDITOR-GENERAL TO PARLIAMENT	11218
 REPORT OF THE COMPTROLLER	16978
@@ -2418,13 +2489,17 @@ REPORT OF THE PRIME MINISTER'S OFFICE	13131
 REPORT OF THE STANDING COMMITTEE	11289
 REPORT OF THE TECHNICAL COMMITTEE	13472
 REPORT ON EFFECTIVENESS OF INTERNAL CONTROLS	14546
+REPORT ON MSDI READINESS FOR SIERRA	18476
 REPORT ON OPERATIONS	14760
 REPORT ON OTHER LEGAL AND REGULATORY	14546
+REPORT ON THE ADEQUACY AND EFFECTIVENESS	18661
+REPORT ON THE FINANCIAL STATEMENTS	18661
 REPORT ON THE FINANCIAL STATEMENTS Basis	14546
 REPORT ON THE FINANCIAL STATEMENTS Unmodified	14546
 REPORT ON THE IMPLEMENTATION	14150
 REPORT ON THE LESOTHO	12652
 REPORT ON THE OBSERVANCE OF STANDARDS	14777
+REPORT ON THE REBASED GROSS DOMESTIC	18483
 REPORT PHASE II	11236
 REPORT RECEIVED FROM THE PARLIAMENTARY LEGAL	13591
 REPORT REHABILITATION AND EXPANSION OF BOSASO	15011
@@ -2481,6 +2556,7 @@ RRA Annual Report MINALOC MINECOFIN Own	14935
 RRA Report	13418
 RRA Reports	13418
 RRA Revenue Performance Reports	13418
+RREP WP1 Midline Report	18453
 RSE Annual Report	14997
 RSF Reporters	10835,3,130,902,16,1,266,1,9,178,11,1,135
 RURA ANNUAL REPORT	718
@@ -2498,9 +2574,11 @@ Rated Limited Data Reporting	17139
 Ratification Report	14671
 Readiness Assessment Report	16599
 Readiness Assessment Report of Somali Higher Education	15164
+Rebased GDP Report 2018 base year and revised series.pdf	18483
 Recommendations The Mobile Gender Gap Report	11004
 Reconciliation Report	170
 Reconciliation Reports	170
+Recording and Reporting of Deaths	18628
 Records and Reporting	17243
 Recruitment Report	16943
 Recurrent Reports	16032
@@ -2529,7 +2607,7 @@ Related Data Found Publications and Reports	11935
 Related Report	1250
 Remuneration Report	7204
 Repor	16944
-Report	171,55,10,23,320,3,4,198,115,41,21,1,257,18,6,7,14,290,74,58,18,73,32,9,20,106,44,303,16,27,8,131,22,232,48,250,26,111,294,92,35,95,36,46,152,60,5,150,155,3,72,262,34,23,100,85,22,13,76,272,119,235,77,5,203,30,318,1,148,28,24,9,69,78,83,123,38,114,32,173,47,254,96,25,190,14,123,36,50,348,151,121,105,177,9,128,42,61,77,165,59,8,302,22,11,277,14,93,1,61,95,38,39,40,36,255,42,1,1,10,1,46,7,11,1,29,8,59,26,22,32,11,103,3,22,39,2,14,7,6,26,9,6,20,1,3,43,137,77,4,2,11,9,81,148,54,2,5,1,6,36,13,6,31,1,8,20,4,10,10,130,13,24,1,25,9,4,6,7,13,1,10,2,48,15,6,3,2,9,31,21,15,9,3,11,9,1,8,1,8,47,169,5,64,10,139,6,12,15,19,7,5,11,2,8,5,28,35,14,26,31,7,4,104,3,58,23,1,1,2,1,16,14,1,35,6,5,28,23,9,3,6,11,21,19,11,43,40,33,5,143,50,23,25,72,18,14,2,17,7,7,99,155,159,111,7,23,90,57,11,2,2,4,3,1,2,10,3,12,4,9,7,25,1,16,8,1,14,30,5,4,35,3,19,11,1,27,4,37,29,57,9,34,1,80,128,43,9,23,27,6,11,2,20,1,36,33,26,12,42,48,14,176,4,64,30,48,97,43,106,91,52,164,26,28,21,157,11,15,3,2,9,4,7,2,42,15,5,3,18,2,1,7,18,41,6,56,15,5,17,3,1,27,13,39,16,1,24,25,4,3,25,6,1,43,37,37,26,3,400,36,56,70,262,6,5,4,50,11,4
+Report	171,55,10,23,320,3,4,198,115,41,21,1,257,18,6,7,14,290,74,58,18,73,32,9,20,106,44,303,16,27,8,131,22,232,48,250,26,111,294,92,35,95,36,46,152,60,5,150,155,3,72,262,34,23,100,85,22,13,76,272,119,235,77,5,203,30,318,1,148,28,24,9,69,78,83,123,38,114,32,173,47,254,96,25,190,14,123,36,50,348,151,121,105,177,9,128,42,61,77,165,59,8,302,22,11,277,14,93,1,61,95,38,39,40,36,255,42,1,1,10,1,46,7,11,1,29,8,59,26,22,32,11,103,3,22,39,2,14,7,6,26,9,6,20,1,3,43,137,77,4,2,11,9,81,148,54,2,5,1,6,36,13,6,31,1,8,20,4,10,10,130,13,24,1,25,9,4,6,7,13,1,10,2,48,15,6,3,2,9,31,21,15,9,3,11,9,1,8,1,8,47,169,5,64,10,139,6,12,15,19,7,5,11,2,8,5,28,35,14,26,31,7,4,104,3,58,23,1,1,2,1,16,14,1,35,6,5,28,23,9,3,6,11,21,19,11,43,40,33,5,143,50,23,25,72,18,14,2,17,7,7,99,155,159,111,7,23,90,57,11,2,2,4,3,1,2,10,3,12,4,9,7,25,1,16,8,1,14,30,5,4,35,3,19,11,1,27,4,37,29,57,9,34,1,80,128,43,9,23,27,6,11,2,20,1,36,33,26,12,42,48,14,176,4,64,30,48,97,43,106,91,52,164,26,28,21,157,11,15,3,2,9,4,7,2,42,15,5,3,18,2,1,7,18,41,6,56,15,5,17,3,1,27,13,39,16,1,24,25,4,3,25,6,1,43,37,37,26,3,400,36,56,70,262,6,5,4,50,11,4,63,5,2,11,1,5,1,14,2,5,5,44,24,69,32,4,4,41
 Report ACCOUNTABILITY Code of Conduct	1988
 Report About CBE Performance Highlights Governor	11131
 Report Access The Nigerian Innovation Hub	12053
@@ -2555,7 +2633,7 @@ Report Development Team NCA Review of First	236
 Report EBS Educational Broadcasting Service EBU	16852
 Report Finds Zambia	8677
 Report Form	16860
-Report Frequency	3972
+Report Frequency	3972,14503
 Report GAMNSR	16867
 Report General and Provincial Assembly Elections	12201
 Report Generation	7988
@@ -2618,6 +2696,7 @@ Report PDF	1985
 Report PEDS Cabo Verde’s Strategic Plan	11863
 Report PGD168	537,21
 Report Personal Data Misuse Cases	2668
+Report Physical Cross-Border Transportation of Cash	18599
 Report Policy	14674
 Report Problem	12282
 Report Provides Comprehensive Overview of Digital-ID	4225
@@ -2632,12 +2711,14 @@ Report Riyadh Seed Sharjah SME Spacetech	5322
 Report Rwanda	14997
 Report Says	6711
 Report Scaling Digital Delivery	12182
+Report Sex	18441
 Report Society and SDGs en.pdf	12376
 Report Stage	13387
 Report Strategies	12214
 Report Structure	17043
 Report Suboptimal Broadband Coverage	12214
 Report Sudan Civil Registration	14905
+Report Suspicious Transactions	18599
 Report Test Penetration	11153
 Report The Council	1554
 Report The Money Bills Amendment Procedure	11230
@@ -2648,7 +2729,7 @@ Report To the Shareholders	15169
 Report Totals	13598
 Report Totals Number of Provinces	13598
 Report Type Frequency Primary Users Internal	7548
-Report URL	10812
+Report URL	10812,7765
 Report WHO World Health Organization EICV	12413
 Report Weak	12214
 Report Women	16260,988,4
@@ -2676,6 +2757,7 @@ Report-08-19.pdf and When Journalism	13461
 Report-DRAFT02.pdf	1264
 Report-Phase-1-Electrification-RDC.pdf	11923
 Report-based	15553
+Report-on-SQAO-AI-tool.pdf	18557
 Report. Cairo	15604
 Report. Centurion	6832
 Report. Disclaimer	10313
@@ -2684,6 +2766,7 @@ Report. Gama	4027
 Report. Ministry of Education	12175
 Report. NGX	6408
 Report. Odile Renaud-Basso	1818
+Report. PART VI	18465
 Report. Paris	11310
 Report. Payment	11941
 Report. Prior	11131,3
@@ -2766,7 +2849,7 @@ Reporters Without	5215
 Reporters Without Borders	9082,597,1080,76,2,1,130,723,179,16,1,2,264,1,9,177,1,11,1,135,1441,185,893,2943,408
 Reporters Without Borders World Press Freedom	15553
 Reporters Without Borders. Thanks	18358
-Reporting	540,231,249,264,454,40,36,14,129,31,2,238,200,416,237,10,33,345,169,40,36,147,196,69,212,61,118,65,28,145,377,496,27,151,486,140,197,302,9,7,31,8,218,344,152,350,77,174,146,149,74,83,350,26,202,62,6,370,25,13,350,216,412,44,182,91,79,52,19,10,36,287,216,104,35,12,32,2,22,135,113,80,29,9,70,72,26,132,19,61,5,200,18,13,63,32,205,41,50,185,372,456,55,152,135,24,20,48,3,7,29,26,28,2,22,121,15,43,6,2,32,36,6,38,98,136,318,105,4,31,905,1,1,7,39,37,1,16,6,2,12,8,7,90,31,15,3,25,14,1,94,36,597,215,61
+Reporting	540,231,249,264,454,40,36,14,129,31,2,238,200,416,237,10,33,345,169,40,36,147,196,69,212,61,118,65,28,145,377,496,27,151,486,140,197,302,9,7,31,8,218,344,152,350,77,174,146,149,74,83,350,26,202,62,6,370,25,13,350,216,412,44,182,91,79,52,19,10,36,287,216,104,35,12,32,2,22,135,113,80,29,9,70,72,26,132,19,61,5,200,18,13,63,32,205,41,50,185,372,456,55,152,135,24,20,48,3,7,29,26,28,2,22,121,15,43,6,2,32,36,6,38,98,136,318,105,4,31,905,1,1,7,39,37,1,16,6,2,12,8,7,90,31,15,3,25,14,1,94,36,597,215,61,310,5,13,16,73
 Reporting A. Telecommunications Service Providers	4610
 Reporting ASC	16722
 Reporting Accountability Timely	13310
@@ -2783,6 +2866,8 @@ Reporting Cadence	4528,7984
 Reporting Channel	1777
 Reporting Conduct	1988
 Reporting Crypto-Asset Service Providers	14828,3
+Reporting Currency	18444,99
+Reporting Currency. Exchange	18543
 Reporting Dashboards Designed	13042
 Reporting Data Standards	15034
 Reporting Date	11250
@@ -2816,7 +2901,7 @@ Reporting Notes Financial	8727
 Reporting Notifications and Mailing	13042
 Reporting Out	15206
 Reporting Payment Systems and Financial Inclusion	10482
-Reporting Period	11233,3923,749,1073,59
+Reporting Period	11233,3923,749,1073,59,1407
 Reporting Period Note	5687
 Reporting Period The Financial Statements	14736
 Reporting Period. B	11233
@@ -2824,6 +2909,8 @@ Reporting Period. B. Entity Accounts Subject	11233
 Reporting Period. D. Reporting Financial Institutions	11233
 Reporting Periods	11233,1383
 Reporting Periods Article	12616
+Reporting Person	18599
+Reporting Persons	18599
 Reporting Philosophy and Framework	11131
 Reporting Photography	17260
 Reporting Requirements	6432,6015,590
@@ -2882,6 +2969,7 @@ Reporting for Industry	8831
 Reporting for Stakeholders and Community	16963
 Reporting of Accidents and Incidents	14528
 Reporting of Criminal Conduct	14647
+Reporting of Donor-Funded Projects	18577
 Reporting of Sustainability-Related	14997
 Reporting of VAT Submission of VAT Return Payment	14785
 Reporting the PHC	771
@@ -2892,7 +2980,7 @@ Reporting. The FM	15658,3
 Reporting. Under	8670
 Reportingguidelinesforclinicaltrialreports	8301
 ReportlngStatus of lnstitution	11180
-Reports	579,204,6,181,249,24,334,109,38,56,94,13,27,74,336,43,4,106,362,337,379,49,131,18,108,174,92,87,27,60,28,199,483,591,28,657,663,223,25,254,96,107,830,118,78,401,155,379,239,397,61,408,59,401,108,289,277,8,3,104,16,7,28,41,139,13,18,144,3,133,36,113,76,155,78,233,149,66,1016,30,135,151,1,23,12,33,78,35,27,9,29,34,59,334,38,11,5,40,143,2,336,48,97,265,191,243,68,16,24,10,50,88,15,129,151,163,313,36,280,31
+Reports	579,204,6,181,249,24,334,109,38,56,94,13,27,74,336,43,4,106,362,337,379,49,131,18,108,174,92,87,27,60,28,199,483,591,28,657,663,223,25,254,96,107,830,118,78,401,155,379,239,397,61,408,59,401,108,289,277,8,3,104,16,7,28,41,139,13,18,144,3,133,36,113,76,155,78,233,149,66,1016,30,135,151,1,23,12,33,78,35,27,9,29,34,59,334,38,11,5,40,143,2,336,48,97,265,191,243,68,16,24,10,50,88,15,129,151,163,313,36,280,31,217,2,31,194
 Reports Baseline	970
 Reports COERCION	2859
 Reports Education Sector Plan for Egypt Education	15604
@@ -2907,9 +2995,11 @@ Reports N	613,209
 Reports On Time Percent On Time	16971
 Reports Quarterly Head of Pro	13005
 Reports Reports	6982
+Reports and Annual Accounts of Statutory Corporations	18436
 Reports and Articles	7548
 Reports and Enquiry Facilities	12364
 Reports and Enquiry Facilities The ZIPSS	12364
+Reports and Financial Statements	18661
 Reports and Publications IGAD Regional Infrastructure Master	14079
 Reports and Scheduling D.0. Inception Report	11941
 Reports and Surveys	12376
@@ -2932,7 +3022,7 @@ Respondent's Status Report	18154
 Restructuring Paper Report	14971
 Restructuring Paper. Report	11924
 Restructuring. Report No. RES50656	15663
-Results Report	996,294,41,439,4,281,726,59,289,1250,2454,4037,505,491,122,3171,321,1,138,44,72,278,66,559,67,186,109,37,42,17,753,55,102,127
+Results Report	996,294,41,439,4,281,726,59,289,1250,2454,4037,505,491,122,3171,321,1,138,44,72,278,66,559,67,186,109,37,42,17,753,55,102,127,401
 Results Report Angola Digital Acceleration Project	2712,3867
 Results Report Benin Economic Governance for Service	10870
 Results Report Building Resilient Digital Infrastructure	4688,3189
@@ -2959,6 +3049,7 @@ Results Report Public Disclosure Authorized	16994
 Results Report Recovery of Economic Activity for Liberian	17000
 Results Report Senegal Energy Access Scale	18355
 Results Report Seq	1216,14265
+Results Report Sierra Leone Land Administration	18534
 Results Report Social Protection Transformation Project	12440
 Results Report Social Protection and Youth Productive	16013
 Results Report Social Safety Net System	17904
@@ -3020,6 +3111,7 @@ SAFETY AND SECURITY ANNUAL REPORT	12947
 SAHRC Summit Report	10729
 SAICA Financial Reporting Guides	10793
 SASPP Flagship Report	17906
+SDG Report	18529
 SDG Reporting	16951
 SDG7 Tracking Report	13433
 SDM for East Africa Report	1264
@@ -3040,12 +3132,15 @@ SERVICE REPORT BY LICENSEES	14867
 SFMIS Enhancement Completion Report	15090
 SH REPORTING FORMAT	17114
 SH REPORTING FORMAT INCIDENT DETAILS Nature	17114
+SIERRA LEONE COUNTRY REPORT	18455
+SIERRA LEONE COUNTRY REPORT URL	18455
+SLEITI Reports	18439
 SMESEH Statistical Yearbook ANALYSIS REPORT	10980
 SN No. of Reports	14746
 SOE DJIBOUTI DJIBOUTI STAFF REPORT	13868
 SOTIA Report Waitlist	6669
 SPAR States Parties SelfAssessment Annual Report	15966
-SPECIAL REPORT	15118
+SPECIAL REPORT	15118,3565
 SSA Reporting	11986
 STABILITY MANDATE By Zambanker Reporter	13532
 STABILITY REPORT	6938
@@ -3110,10 +3205,14 @@ Senior Reporter	12237
 Senior Reporter Zimbabwe	11618
 Serianu Africa Cybersecurity Reports	17745
 Service IFR Interim Financial Report MAHGC	18198
+Services and Systems Support Project RRIV Report	18478
 Serving You Online. Workshop Report	12325
 Seventh National Human Development Report	3188,122,1717,12344
 Seventh Report	10313
 Shyamala Balu Report	15983
+Sierra Leone Data Ecosystem Mapping Report	18529
+Sierra Leone Peer Review Report Reviewing	18578
+Sierra Leone Peer Review Report URL	18578
 Sim EST-ADM11 Computer Security Incident Report	15532
 Similarweb Report	13461
 Simplified Record Keeping and Reporting	12389
@@ -3145,7 +3244,7 @@ South Sudan National Budget Analysis Report	3583
 Southern Africa Report	13124
 Special Audit Report	5537,9009
 Special Needs DHR Demographic and Health Report	15604
-Special Report	3066,517,2425
+Special Report	3066,517,2425,12675
 Special Report of Working Groups	10964
 Specialized Projects and Programs Financial Report	16970
 SpeciÞcation and Reporting	15901
@@ -3161,6 +3260,7 @@ Staff Reporter The Ministry of Education	9872
 Staff Reporter UNICEF	13696
 Staff Reporter. Launches	3183
 Stakeholder Engagement Report	3058
+Stakeholder Engagement and Validation Report	18495
 Stakeholders Final Report	5677
 Standard Bank African Markets Revealed Report	5247
 Standardisation of Reporting Formats	17243
@@ -3208,6 +3308,7 @@ Stillbirth Reporting Stillbirths	12167
 Stocktaking and Benchmarking Report	15663
 Strategic Development Plan. This Report	12953
 Strategic Policy Documents and Reports	14745
+Strategies and Reports	18446
 Strategy Report	1360
 Streamline Reporting Mechanisms	15960
 Strengthening Annual Reporting	14828,3
@@ -3216,9 +3317,11 @@ Structured Dialogue Structured Dialogue Final Report	17403
 Sub-Contractor. Reporting	17114
 Sub-Saharan Africa. Reporting Period	8727
 Submarine Telecoms Industry Report	4676
+Submission and Publication of Annual Financial Report	18488
 Submission of Final Report	962
 Submission of Financial Statements and Reports Findings	13420
 Submission of Internal Semi-Annual Data Protection Report	11956
+Submission of NPPA Assessment Reports NPPA	18577
 Submission of Reports. PART III THE SECRETARIAT	12916
 Sudan Annual Country Report	14945
 Sudan Annual Results Report	14959
@@ -3243,6 +3346,7 @@ Sustainability and Climate Report	8148
 Sustainability and Strengthening Report URL	16963
 Sustainable Business Impact Report	11965
 Sustainable Business Impact Report. Infrastructure	16144
+Sustainable Development Goals Report	18529
 Sustainable Development Report	12376
 Symposium Reports	16833
 Synthesis Report	15663
@@ -3313,7 +3417,7 @@ Test Reporting and Closure	5665
 Test Reports Issued	14736
 Testing Reports	15090
 Testing and Quality Assurance Reports	16600
-Thematic Report	12461,2536,1953
+Thematic Report	12461,2536,1953,1493
 Third Cycle National Report	17970
 Third Quarter Sector Statistics Report	6671,74
 Third Quarter Sector Statistics Report for FY2025	8872
@@ -3344,6 +3448,7 @@ Treasurers Report	9437
 Treasury and Financial Reporting Rules CHAG Christian	15556
 Tripartite Committee Report	7452
 Tripartite Online NTBs Reporting	13563
+Tripartite Report	18553
 Truecaller Reports Lower Q2 Sales	7427
 Tunisia Results Report	9022
 Turkey. Performance Assessment Report	12500
@@ -3392,6 +3497,7 @@ Uganda Report	3672,7284
 Uganda Report. Research ICT Africa	3672
 Uganda’s Banking Sector Report	5343
 Unaudited Interim Financial Reports	16144
+Unified Financial Management Reporting Portal	18500
 Unified Reporting Framework for Terrestrial Infrastructure	5680
 Unit. The Report	12972
 United Nations Human Development Reports	15661

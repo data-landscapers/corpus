@@ -134,8 +134,9 @@ MRU Mano River Union NHA National	17260
 Man-Made River	2837
 Man-Made River Eastern Region	2837
 Mano River	7452,9808
+Mano River Basin	18578
 Mano River Corridor	7452
-Mano River Union	3378,4074,1886,7687,74,15
+Mano River Union	3378,4074,1886,7687,74,15,1332,8,69
 Mano River Union Center for Regional	16961
 Mano River Union Foya	4998
 Margibi and River Gee Counties	16943
@@ -196,7 +197,7 @@ Rivar Maharaj	9381
 Rivas	8604
 Rivatex Digital Assembly	899
 Rive CIME2	17872
-River	1988,8775,1094,1106,1934,2024,6,116,97
+River	1988,8775,1094,1106,1934,2024,6,116,97,1403
 River Basin	17962
 River Basin Authorities. Output	11420
 River Basin Organizations	16239
@@ -206,6 +207,7 @@ River Cess	16921,14,15,257
 River Cess County Senator Wellington Geevon	17207
 River Cess Gbarpolu Grand Kru River	16921
 River Cess. Table	16950
+River County	18690
 River Flooding Risk	10964
 River Gambia	16885
 River Gauges	17157
@@ -225,6 +227,7 @@ River Patrol Unit	17105
 River Region LTDV Long-Term Development Vision	17105
 River Rufiji. EAC Growth	12256
 River Street	8999
+River Union MSMEs Micro	18454
 River Upper Region- Saloum North Lower	17152
 River Valley Development Company	18293
 River and Central East	18374
@@ -253,6 +256,7 @@ Rivers State Government	7659
 Rivers and Canals Act	14745
 Rivers. Topic	11347
 Riverside Office Park	6907
+Riverside Warehouse and Gumbo and Wau Regional Warehouse	18679
 Rivets	16900
 Rivia Clinics	16817
 Rivia Clinics and VDL Fulfilment	14233
@@ -315,6 +319,7 @@ Tone River	8689
 Twan River	16921
 UPPER RIVER REGION	17124
 United Nations The Mano River Union	16961
+Unity State and Yei River County	18678
 Upper River	8311,8556,463
 Upper River Region	5486,2825,3405,369,4866
 Upper River Region USD	16951
@@ -325,9 +330,11 @@ Wajir and Tana River	12151
 West Coast Region. In the Lower River	17379
 White Nile River	3583
 Wujiang River	12864
+YEI RIVER COUNTY	18726
 YELLOW RIVER ENGINEERING CONSULTING CO.LTD	16623
 Yaoundé From Its Riverbanks	18147
-Yei River County	7249
+Yei River County	7249,11429,12,36
+Yei River County. Authorities	18726
 Zambezi River	10763,1619,1005,26
 Zambezi River Authority	13365
 Zambezi Rivers. Urban	10768

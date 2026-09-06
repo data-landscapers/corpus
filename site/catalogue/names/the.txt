@@ -36,6 +36,7 @@ Antiretroviral Therapy CDC Centers for Disease Control	12379
 Anwomaso Thermal Power Station	15904
 Appointed Representative of Thema Capital Limited	5879
 Archaeological Mission Discovers Ancient Theatre	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
+Artemisinin-based Combination Therapy	18441
 Assistance Activities TOC Theory of Change ToR	17862
 Assistance ToC Theory of Change ToR Terms	3604
 Attachments The-Regulation-of-Company-Law.pdf	14891
@@ -59,6 +60,7 @@ Beyers Theron	14330,3292
 Beyond Hulten’s Theorem	11140
 Botswana Themes	12550
 Breaking and Theft Assault Total Male	12977
+Breakout Session Themes	18523
 Bringing Discourse Theory Into Media Studies	11028
 Brussels Discourse Theory Group	11028
 Budgeting TOC Theory of Change GRPB Gender	11193
@@ -291,6 +293,7 @@ MCDSS THEMATIC AREA	12453
 MILLION OF THEM LIVE IN JUST	10977
 MK MP Thembinkosi Mjadu	10806
 MONITORING AND EVALUATION MATRIX Theme	7548
+MOTIONS AND AMENDMENTS THERETO	18436
 MW Mt. Coffee Thermal	16978
 MW. Thereafter	14745
 Main Theme of WUF13 WUF	11285
@@ -304,6 +307,7 @@ Mapping of Theory of Change	12175
 Maputo Thermal Power Plant. Revenue	12316
 Mark Davidson SGS Mr. Theodore Nna	16857
 Master Thesis	10812
+Matur Them Tieng	18628
 Media Thematic Policy Statement	16951
 Methadone Substitution Therapy	14742
 Microeconomic Theory	5700
@@ -340,6 +344,7 @@ Namibia's Emma Theofelus and Togo's Cina Lawson	8552
 Namibia's MICT Minister Emma Theofelus	3759
 Nandi Netumbo-Ndaitwah. Emma Theofelus	3634
 National Community Health Strategy. Thereafter	10829
+National Digital Learning Strategy Theory of Change	18564
 National Roads Authority Warns of Rising Theft	17069
 National Theatre	8149
 Neil Simon M. Gray Themes	17441
@@ -374,10 +379,12 @@ PROGRESSION CLASSE DE SECONDE THEMES CHAPITRES	18099
 Parliament. Theofelus	13090
 Partners MICDE Theme	7548
 Peace and Security Thematic Policy Statement	16951
+Personal Explanation MOTIONS AND AMENDMENTS THERETO	18436
 Philippe Dongier Theme	15372
 Phygital Public Infrastructure’ Bridges DPI Theory	5700
 Pieter Theron Industrials and Services Africa Leader	7751
 Plan. Thematic	8546
+Policy Thematic Areas	18454
 Policy and Legal Framework. Thematic Area	12453,892
 Population and Housing Census. Thematic	12413
 Port Louis Theatre Phase II and Plaza	14830
@@ -435,6 +442,7 @@ Roger's Diffusion of Innovations Theory	15096
 Rogers' Diffusion of Innovations Theory	15096
 Roman Theatre Masks	3391
 Rural Women and Development Thematic Policy Statement	16951
+S-curve Theory	18485
 SASSA CEO Themba Matlou	3478,8551
 SECTORS AND THEMES	15424
 SECTORS AND THEMES Actual Disbursements	16436
@@ -466,6 +474,7 @@ Service Delivery Thematic Area	11951
 Sexual and Gender-Based Violence Thematic Policy Statement	16951
 Sexual and Reproductive Health Thematic Policy Statement	16951
 Sexual and Reproductive Health and Family Planning. Thematic	16951
+Situational Analysis and Theory of Change	18529
 Skills and Empowerment Thelma Efua Quaye	13223
 Skills and Linking Them	17267
 Social Context and Cross-Cutting Themes	13885
@@ -551,6 +560,9 @@ The'Borrower	15399
 The-Covid-19-Crisis-in-Egypt.pdf	15519
 The-Economics-and-Implications-of-Data-An-Integrated-Per-	961
 The-Effect-of-AI-Enabled-Credit-Scoring-on	5820
+The-Finance-Act-2020.pdf Short	18450
+The-Local-Government-Act-2022.pdf	18467
+The-Local-Government-Act-2022.pdf Author	18467
 The-Mobile-Economy-2023.pdf Gurin	1243
 The-Mobile-Gender-Gap-in-Africa.pdf Page	3604
 The-National-IC-Reg-2024-.pdf	14740
@@ -657,10 +669,11 @@ Thematic	1219,874,3285,1830,70,270,473,109,55,275,143,525,1713,3,1083,319,157,14
 Thematic Action Track Five	12175
 Thematic Aggregation Assessment	17140
 Thematic Analysis	4848
-Thematic Area	12453,857,35
+Thematic Area	12453,857,35,5232
 Thematic Area Average Score	13310
 Thematic Area Average Score Policy and Legal	13310
 Thematic Area Number of Incidents Percentage	16970
+Thematic Area Project Proposed Target Policy	18485
 Thematic Areas	17037
 Thematic Categories Macroeconomic Stability Trade Openness	5247
 Thematic Chapter Engr. Jocelia J. Taplah	17260
@@ -676,12 +689,13 @@ Thematic Domain D	17287
 Thematic Domains Within	17287
 Thematic Engagement Structure Stakeholder	7548
 Thematic Focus	16495
+Thematic Functional Department	18467
 Thematic ICT indicators	18123
 Thematic Pillars	12971
 Thematic Policy Focus Areas	16872
 Thematic Proceedings	4432
 Thematic Qualifications	17287
-Thematic Report	12461,2536,1953
+Thematic Report	12461,2536,1953,1493
 Thematic Research Institute-Network	17458
 Thematic Research Institutes-Network	17458
 Thematic Research Institutes-Networks	17458
@@ -718,7 +732,7 @@ Thembisile Hani Local Municipality	11281
 Thembo	4660,1537,10,1222,2266,86,202
 Thembo Nyombi	10563
 Thembo and Starlink	6263
-Theme	1987,429,622,3130,1380,464,3,7,108,2718,383,693,70,252,460,256,397,1671,394,177,62,68,705,453,32,31,104,195,9,63,1,525,13,100
+Theme	1987,429,622,3130,1380,464,3,7,108,2718,383,693,70,252,460,256,397,1671,394,177,62,68,705,453,32,31,104,195,9,63,1,525,13,100,513,13,89
 Theme Code	16614
 Theme Collaborate EMS	8603
 Theme Combine So	8603
@@ -793,7 +807,8 @@ Theory and Practice	7278,3980
 Theory and Practice of Electronic Governance	2093,3
 Theory and Practice of Global Media and Communication Policy	11028
 Theory and Research	5349
-Theory of Change	1228,56,1605,715,1049,1886,4229,1137,19,16,235,122,1035,658,968,39,514,90,3,54,1,4,39,2,27,653,52,516,8,179,319,391,13,100,397,11
+Theory of C	18557
+Theory of Change	1228,56,1605,715,1049,1886,4229,1137,19,16,235,122,1035,658,968,39,514,90,3,54,1,4,39,2,27,653,52,516,8,179,319,391,13,100,397,11,159,28
 Theory of Change Activities Outputs Intermediate Outcomes	15663
 Theory of Change Barriers	12175
 Theory of Change C. Project Beneficiaries	15743
@@ -808,12 +823,14 @@ Theory of Change Page	10768,4833,543
 Theory of Change Pillar	14997
 Theory of Change Project Development Objectives	16952
 Theory of Change TTC	12175
+Theory of Change The Theory of Change	18529
 Theory of Change The ToC	12175
 Theory of Change UNESCO United Nations Educational	13990
 Theory of Change and PforR Indicators	18370
 Theory of Change and PforR Indicators The Program	18370
 Theory of Change and Results Chain KEY CHALLENGES	13331
 Theory of Change for Framing the National AI Policy	11265
+Theory of Change for National Digital Health Vision	18478
 Theory of Change for WARCIP APL2 Supporting	17862
 Theory of Change of Education Sector Plan	15604
 Theory of Change.4	15601
@@ -932,6 +949,7 @@ Third Reading. Thereafter	13387
 Thursday. Theofelus	3439
 Timber Theft	11188
 ToC Theory of Change TVET Technical and Vocational	15604
+ToC Theory of Change UNDP United Nations	18477
 Transitional Stabilization Programme TWG Thematic Working	13359
 Transnational Legal Theory	11028,22
 Tuesday. Thembo	9695

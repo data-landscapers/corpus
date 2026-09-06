@@ -50,7 +50,9 @@ Bank for International Settlements	6938,2393,180,198,1421,8,2,793,431,2015,365,2
 Bank for International Settlements CCSP	17032
 Bank for International Settlements Committee	11130
 Bank of International Settlements	12286
+Bank of Sierra Leone Sets Deadline for Commercial	18491
 Baseline Customization of Default Settings Interactions Size	13868
+Bases and Criteria for Setting Public Communication Services	18602
 Benin Sets	4962
 Bi-Switch. The Pan African Payment and Settlement	13388
 Bima Claims Settling Agents Data Controller	7167
@@ -70,6 +72,7 @@ CPS SETC	17978
 CRESCIMENTO DE EMPREGO NO SETOR	11531
 CSD Collateral Setup Default TTC	12364
 CTS. Le SETIC	13341
+Call Setup Success Rate	18444
 Call Setup Time	5744
 Casablanca Settat	17478
 Casablanca and Settat	3375,6629
@@ -81,6 +84,7 @@ Central Help Desk Set	16963
 Central Interconnectivity for Clearing and Settlement	14032
 Channels Thuso Setsetse	9466
 Character Set	12360
+Chart of Streams and Related Sets of Subjects SSS	18461
 Check Settlement	6938
 Christopher Seta and Bryan Zhang. Published	12033
 Clearing and Settlement	14032,696,2
@@ -95,6 +99,7 @@ Community Real-Time Gross Settlement	11960
 Community Settlement Areas NAP National Adaptation	1867
 Conducive Setting for Innovators	15460
 Consent Decrees and Settlement Authority	3861
+Constitution. Set-up	18595
 Context Setting	17364
 Cookie Settings	3907,2274
 Cookie Settings Accept All CookiesManage	3907
@@ -227,6 +232,7 @@ INSTITUTIONAL SET-UP	16843
 INTERBANK PAYMENT AND SETTLEMENT SYSTEM	12364
 IPPs. Sets	10995
 ISDF Informal Settlements Development Facility JLL	15473
+Identify Fundamental Data Sets	18476
 Implementation Unit RF Results Framework SETIC	1284
 Independent Financial Advisors Settlement	4896
 Informal Settlement Development Fund	15473
@@ -278,6 +284,7 @@ Land Settlement Fund	10313
 Land Settlement Fund and Railway Development Fund	10313
 Land Settlement and Registration	16916
 Land Settlement and Registration Law	16916
+Land Settlement and Registration Ordinance	18619
 Land Settlements Fund	10313
 Le Secrétaire Exécutif du SETIC	13290,51
 Leper Colony Settlement Mining	17140
@@ -308,6 +315,7 @@ MICT SETA-funded WBL	6832
 MICT SETA. The National Skills Authority	7622
 MINCOTIM and SETIC	13331
 MLGRD Human Settlements and Land Use Research	1513
+MOICT&PS SETTLES USAF	18636
 MONTHS Set	11252
 Madagascar Set	6246,599
 Mairie de Bujumbura SETEMU	13390
@@ -323,6 +331,7 @@ Meheba Refugee Settlement	1778,89,121
 Meheba Refugee Settlement. Component	1988
 Meheba Settlement	1988
 Meheba Settlement Land	1988
+Methods of Setting Public Communication Services Tariffs	18602
 Minister Chang. The Settlements	1829
 Minister of Human Settlements	11285
 Minister of Human Settlements and Another	14673
@@ -585,7 +594,7 @@ Set of Documents	12389
 Set of Principles for Conducting and Evaluating Interpretive	5349
 Set of Rules	16851
 Set-Top Boxes	17746
-Set-up	1000,11364,2454
+Set-up	1000,11364,2454,3659,118
 Set-up Institutional Governance Framework for Cybersecurity	1000
 Set-up Provincial	12453
 Set. Artículo	163
@@ -650,7 +659,7 @@ Setsetse	9466
 Setshwane	12625
 Setswana	8108,2698,374,51,1325,85,4944
 Settat	3375,14066
-Setting	21,552,210,217,885,87,2760,116,852,577,669,1071,113,1337,1352,37,104,17,40,889,336,53,15,190,174,290,331,19,44,649,667,55,19,4,21,8,43,6,6,18,68,75,31,6,68,18,44,122,125,62,188,582,606,23,13,78,12,182,859,285
+Setting	21,552,210,217,885,87,2760,116,852,577,669,1071,113,1337,1352,37,104,17,40,889,336,53,15,190,174,290,331,19,44,649,667,55,19,4,21,8,43,6,6,18,68,75,31,6,68,18,44,122,125,62,188,582,606,23,13,78,12,182,859,285,263
 Setting Aside Campaign Funds	15393
 Setting Deprivation Cut-offs for Each Indicator	15244
 Setting Zone Setting Gender Mt Kenya	7869
@@ -664,7 +673,7 @@ Settings Sitemap	12339
 Settle	9328,5699,1899
 Settled	3676,1220,722
 Settled Object	8380
-Settlement	395,1472,121,2908,359,608,6092,21,24,269,1,94,10,116,38,410,247,203,178,119,914,129,2,104,63,29,1917,35,9,143,110,109
+Settlement	395,1472,121,2908,359,608,6092,21,24,269,1,94,10,116,38,410,247,203,178,119,914,129,2,104,63,29,1917,35,9,143,110,109,1210,3,1,93
 Settlement Account	12364,2182
 Settlement Accounts	12364
 Settlement Agent	12364
@@ -682,7 +691,7 @@ Settlement Obligations	12364
 Settlement Reserve Account RA Accounts	12364
 Settlement Settlement	12000,364
 Settlement Settlements Urban	17140
-Settlement System	9673,1045,284,2050,4190
+Settlement System	9673,1045,284,2050,4190,1247
 Settlement System RUS Unique Social Registry	16942
 Settlement System.............................13 Box	10718
 Settlement System.137	14674
@@ -693,7 +702,7 @@ Settlement and Securities Systems	13468
 Settlement of Disputes	13185,4058
 Settlement of Disputes. Article	15641
 Settlement of Investment Dispute	13326
-Settlement of Investment Disputes	16972
+Settlement of Investment Disputes	16972,1491
 Settlement of Net Settlement Instructions	12364
 Settlement of Net Settlement Instructions NSIs	12364
 Settlement of ZIPSS	12364
@@ -708,11 +717,12 @@ Settling the Microfinance Debate	14997
 Setto	17584
 Settor Safo	6351
 Setty Olugo and Ruth Chebet	8285
-Setup	958,927,9978,1019,123,1646,101,2115,60,43
+Setup	958,927,9978,1019,123,1646,101,2115,60,43,1479
 Setup Scenarios	5665
 Setup Time	12745
 Setup and Installation Guide	5665
 Setup of Infrastructure	11209
+Setup.php	18449
 Sharing Value Sets Sharing Value Sets	1009
 Shrubs Waterbodies Settlements Otherlands Forestland	17140
 Small and Medium-sized Enterprise SSS Securities Settlement	14997
@@ -726,6 +736,7 @@ Stage Set With Purpose	13633
 Standard Setting Responsibilities	11184
 Study Design and Setting	10919
 Study Setting	8604
+Subject Sets	18461
 Sudan Interbank Settlement System	15154
 Support for Equipment Transfer and Setup	12241
 Survey Responses Real-Time Gross Settlement	6938
@@ -755,6 +766,7 @@ Tongogara Refugee Settlement	9794,3748
 Top Cookie Settings Cookie Settings	16972
 Trans-European Automated Real-time Gross Settlement Express	16219
 UK Setting	14723
+UN Women Head of Office Setcheme Mongbo	18520
 UN-Habitat United Nations Human Settlements Programme	11887,266,1,9,178
 US-based Global Settlement Network	3727
 Unidade de Promoção Setor Empresarial	15526

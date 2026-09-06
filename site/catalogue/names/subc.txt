@@ -56,6 +56,7 @@ National Dispatch Center Modified Subcomponent	15969
 Nominated Subcontractors	1638
 OGP Criteria and Standards Subcommittee	17037
 PAMPV. Subcomponent	16384
+Parliamentary Subcommittee	18464
 Payment System Subcommittee and Payment System Oversight	12671
 Payment Systems Subcommittee	6720
 Payments Systems Subcommittee	6720
@@ -96,7 +97,7 @@ Subcomités Sectoriales de Estadísticas Celebrar	16898
 Subcommittee	8377,44,4676,805,175,665
 Subcommittees	14736
 Subcommittees Formation	12675
-Subcomponent	761,210,18,7,232,36,440,74,89,121,1001,615,1049,967,5148,61,135,453,108,330,69,41,255,168,24,642,277,1185,455,167,234,119,22,88,57,1,2,82,226,175,43,197,270,242,26,27,150,15,327,408,255,197
+Subcomponent	761,210,18,7,232,36,440,74,89,121,1001,615,1049,967,5148,61,135,453,108,330,69,41,255,168,24,642,277,1185,455,167,234,119,22,88,57,1,2,82,226,175,43,197,270,242,26,27,150,15,327,408,255,197,203
 Subcomponent IDA	18301
 Subcomponente	11390,50,102
 Subcomponentes	11440
@@ -118,6 +119,7 @@ Subcontratante	11582,3803
 Subcontratar	1701
 Subcontratação	11386
 Subcontratistas	4209
+Subcribers	18452
 Subcribers Figure	4517,2461
 TE SubCom	3782
 Taxa de Subcobertura	11421

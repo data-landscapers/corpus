@@ -23,6 +23,7 @@ CFC Gross	16996
 Capital Formation GNI Gross National Income	16996
 Cedi GDP Gross Domestic Product GSMA	14674
 Challenge Program GIZ Gross Domestic Product	3604
+Commission GNI Gross National Income GOSL	18537
 Community Real-Time Gross Settlement	11960
 Competitiveness Index GDP Gross Domestic Product	13312,2
 Completion Gross	16436
@@ -53,6 +54,7 @@ EN GROS DE PRODUITS PHARMACEURTIQUES. ARTICLE	17819
 Early Childhood Development GDP Gross Domestic	12512
 Education Lower Basic Gross Enrolment Ratio	16973
 Effectiveness GDP Gross Domestic Product RFS	3184,1,1340,6470
+Empowerment GER Gross Enrolment Rate GIA	18512
 Energy Sector Strategic Plan GDP Gross	14947
 Enrollment Ratio Gross Intake Ratio Global	16436
 Environment Facility GERD Gross Expenditure	7548
@@ -94,7 +96,7 @@ GCI Global Cybersecurity Index GDP Gross	6946
 GCR Global Compact for Refugees GDP Gross	10841
 GDP Financing Agreement GNI Gross Domestic	11855
 GDP Gross	11380,505,4998,1
-GDP Gross Domestic Product	11965,821
+GDP Gross Domestic Product	11965,821,5828
 GDP Gross Domestic Product GDUPD General	15473
 GDP Gross Domestic Product GEF Global	7548
 GDP Gross Domestic Product GEI Global	17870
@@ -123,6 +125,7 @@ GOS Gross Operating Surplus GPRS Ghana	236
 GRID Gross National Income GRM Government	3604
 GROS DE Médical	17819
 GROS DE SALMATOU	17819
+GROSS DOMESTIC PRODUCT	18483
 GROSS DOMESTIC PRODUCT GROWTH GDP	17101
 GROSS ESTIMATED REVENUE	17105
 GROSS NATIONAL INCOME	11211
@@ -167,12 +170,15 @@ Gross Assets Required	12882
 Gross Barmen	13048
 Gross Broadband of Gross Annual N	10407
 Gross Capital	236
+Gross Capital Fomation	18483
 Gross Capital Formation	236
 Gross Capital Provider Buildings Equipment Office	236
+Gross Completion Rate	18460
 Gross Disorderly Conduct A Member	13387
 Gross Domestic	2775
 Gross Domestic Expenditure	2775,9601
-Gross Domestic Product	236,337,367,423,625,787,641,167,279,1587,876,122,27,65,339,68,746,1343,119,98,617,935,52,124,154,35,26,33,308,13,457,241,9,100,29,10,31,27,98,69,319,23,91,58,184,17,2,31,73,642,41,484,160,2,150,68,546,7,35,68,38,4,68,12,39,147,54,869,6,18,10,56,10,40,4,15,205,12,61,169,287,431,9
+Gross Domestic Product	236,337,367,423,625,787,641,167,279,1587,876,122,27,65,339,68,746,1343,119,98,617,935,52,124,154,35,26,33,308,13,457,241,9,100,29,10,31,27,98,69,319,23,91,58,184,17,2,31,73,642,41,484,160,2,150,68,546,7,35,68,38,4,68,12,39,147,54,869,6,18,10,56,10,40,4,15,205,12,61,169,287,431,9,290,8,5
+Gross Domestic Product ECR Electronic Cash	18488
 Gross Domestic Product Financial and Insurance Activities	2775
 Gross Domestic Product GDP	2775
 Gross Domestic Product GDPR	5244
@@ -187,6 +193,7 @@ Gross Domestic Product GHG Greenhouse Gas	16949
 Gross Domestic Product GIEC	18309
 Gross Domestic Product GII Global Innovation	12376
 Gross Domestic Product GIS	958
+Gross Domestic Product GNI	18485
 Gross Domestic Product GSM	14879,1993
 Gross Domestic Product GSMA Global System	12395
 Gross Domestic Product HVI	17101
@@ -205,13 +212,15 @@ Gross Enrollment Rate	12411,4531,516
 Gross Enrollment Rate GHG Greenhouse Gas	17458
 Gross Enrollment Ratio	13314,3122
 Gross Enrollment Ratio Central African	13314
-Gross Enrolment Rate	12175,24,2717,1936
+Gross Enrolment Rate	12175,24,2717,1936,1608
 Gross Enrolment Rate GESD	12175
 Gross Enrolment Rates for ECD	12175
-Gross Enrolment Ratio	13991,756,857
+Gross Enrolment Ratio	13991,756,857,2856
 Gross Enrolment Ratio GoSE Government	13960
 Gross Enrolment Ratio for Basic and Secondary Education	14958
 Gross Expenditure	12786
+Gross External Reserves	18455
+Gross Fixed Capital Fomation	18483
 Gross Fixed Capital Formation	2775,12055,2166
 Gross Fixed Capital Formation GIBA Ghana	236
 Gross Fixed Capital Formation and FDI Djibouti	13868
@@ -219,6 +228,8 @@ Gross Fixed Capital Formation. LNG	16996
 Gross Fixed Investment	14897
 Gross Impairment Gross Impairment	13053
 Gross Income	11976,2741
+Gross Intake Rate	18460
+Gross Intake Rate GoSL Government of Sierra	18460
 Gross Intake Ratio	15604,832
 Gross Intake Ratio GoM	12175
 Gross International Reserves	7695,9540
@@ -230,9 +241,11 @@ Gross Loans Profitability	11131
 Gross National	14997,1945
 Gross National Disposable Income	2775
 Gross National Happiness Pillars	14965
-Gross National Income	322,942,1511,3804,4683,952,181,544,172,201,2,165,169,1249,223,501,523,739,113,1202
+Gross National Income	322,942,1511,3804,4683,952,181,544,172,201,2,165,169,1249,223,501,523,739,113,1202,339
 Gross National Income GRM Government of Burundi	13331
+Gross National Income GSMA	18485
 Gross National Income GoKE Government	6539
+Gross National Income GoSL Government of Sierra	18454
 Gross National Income HEI Higher Education	11552
 Gross National Product	12214
 Gross National Savings	16996
@@ -262,7 +275,7 @@ Gross Tertiary Enrolment Ratio	14775
 Gross Tertiary Enrolment Ratio HEC	14775
 Gross Tertiary Enrolment Ratio The Gross	14775
 Gross Time Settlement Southern African Customs	12701
-Gross Value Added	236,2539,9180,2881
+Gross Value Added	236,2539,9180,2881,3647
 Gross Value Added Gross	11955
 Gross Value Added HTML Hyper Text	236
 Gross and Net Enrolment Rates	13399
@@ -332,6 +345,7 @@ Nigerian Gross Domestic Products Q4	3862
 Nigeria’s Gross Domestic Product	8087,3770
 Operators Gross Mobilisation and Turnover Costing	16884
 Operators Gross Turnover	16884
+Organisations DGP Gross Domestic Product ECR	18577
 OÙ LA GROSSESSE S'EST TERMINÉE ET	13300
 PALUDISME PENDANT LA GROSSESSE Traitement Préventif	13300
 PLUS GROS QUE PLUS GROS QUE	13300
@@ -352,11 +366,14 @@ Protection and Promotion’ Grosh	16867
 Provincial Gross Domestic Product	13474
 Public Debt Gross Nominal Public Debt	13868
 QUE LA GROSSESSE A DURÉ ET	13300
+Quality School Education GCR Gross Completion	18460
 Quarterly Gross Domestic Product	2775,8359,1828,517
 RELATION TO MONTHLY GROSS NATIONAL INCOME	11262
+REPORT ON THE REBASED GROSS DOMESTIC	18483
 RTGS Real-Time Gross Settlement SDM Single	1264
+Rate GER Gross Enrolment Rate GIR	18460
 Ratios RCFIS Real Gross Domestic Product	17235
-Real Gross Domestic Product	14744
+Real Gross Domestic Product	14744,3698
 Real Gross Domestic Products	17634
 Real Time Gross Settlement	2857,3863,5550,16,78,120,968,80,3344,359
 Real Time Gross Settlement Agency	14897
@@ -369,6 +386,7 @@ Real-Time Gross Settlement ROA Standing Credit	17235
 Real-Time Gross Settlement Software Development Kit	11130
 Real-Time Gross Settlement System	8492,3218
 Real-Time Gross Settlement System of Morocco	6938
+Rebased Gross Domestic Product	18483,5
 Reference Gross and Murgia2020	2117
 Regional Electricity Distributor GDP Gross Domestic	12399
 Regional Gross Domestic Product	13479
@@ -408,6 +426,7 @@ Time Gross Settlement	12000,671
 Time Gross Settlement EIPA Corporation RWA	12444
 Trans-European Automated Real-time Gross Settlement Express	16219
 USD GROSS DOMESTIC PRODUCT PER CAPITA	17101
+Understanding Gross Domestic Production	18483
 Union GDP Gross Domestic Product ICT	12951
 VENTE EN GROS DE Bamako	17819
 Verified Gross Revenue GMD	17250

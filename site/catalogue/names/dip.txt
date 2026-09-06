@@ -93,7 +93,7 @@ Diphtérie-Tétanos-coqueluche HepB	13300
 Diphtérie-tétanos-coqueluche HepB	13300
 Diplo	2816,4356
 Diplo-chatbot	10815
-Diploma	14,153,263,119,195,8,42,2725,87,1,539,1,71,678,1936,114,3801,2,5,1,1,16,11,165,183,228,1,1,1,1,1,3,1,1,1,1,1,1,4,1,3,1,1,1,1,1,2,6,2,8,1,4,10,6,5,1,2,5,5,6,3,3,2,4,6,67,897,541,68,38,45,128,90,1488,2412,196
+Diploma	14,153,263,119,195,8,42,2725,87,1,539,1,71,678,1936,114,3801,2,5,1,1,16,11,165,183,228,1,1,1,1,1,3,1,1,1,1,1,1,4,1,3,1,1,1,1,1,2,6,2,8,1,4,10,6,5,1,2,5,5,6,3,3,2,4,6,67,897,541,68,38,45,128,90,1488,2412,196,1141,92
 Diploma Artigo	167,263,314,8,42
 Diploma As Tecnologias de Informação	15
 Diploma Bachelor’s Degree GEN. SECONDARY EDUCATION	14896
@@ -109,6 +109,7 @@ Diploma Ministerial	6,1520,10785,478,7,33
 Diploma N	6
 Diploma O Presidente da República	4218
 Diploma Programmes	12175
+Diploma Programs	18629
 Diploma Publicação	3607
 Diploma Tabela Salarial	752
 Diploma Tabela de Taxas da APD O Presidente	744
@@ -162,7 +163,7 @@ Diplomatic Exchange	7662
 Diplomatic Expansion and Consular Services	17139
 Diplomatic Foundation	5890
 Diplomatic Mission	736,14118,539
-Diplomatic Missions	13474,3542
+Diplomatic Missions	13474,3542,1436
 Diplomatic Missions and Consular Services	10775
 Diplomatic Missions and Development	12509
 Diplomatic Missions and Development Partners	12509
@@ -173,6 +174,7 @@ Diplomatic Relations	3861
 Diplomatic Relations Between Guinea-Bissau and Cape Verde	3768
 Diplomatic Relations India	12617
 Diplomatic Service	17108,184
+Diplomatic Training	18563
 Diplomatic and Consular Corps	17228,119
 Diplomatic and Official	17240
 Diplomatic and Sovereign Data	3861
@@ -364,6 +366,7 @@ Science Diplomacy Science	14747
 Seleccionar la Misión Diplomática	16905
 Serviços de Corpo Diplomático	11537
 Sexe Diplômé	18014
+Sierra Leone Unveils Twin Pillars of Diplomacy	18586
 Social Media Post Sparks Diplomatic Exchange	4942
 Specialized Diploma	16046
 Strategic International Collaboration and Diplomacy	3760,9683

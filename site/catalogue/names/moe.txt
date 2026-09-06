@@ -1,5 +1,6 @@
 Abertura de Conta de Moeda Electrónica	11404
 Abertura de Contas de Moeda Electrónica	11404
+About MoE The Ministry of Energy	18453
 Acto de Abertura de Conta de Moeda Electrónica	11404
 Agencies MoE	14819
 Agencies and Commissions MOA Ministry of Agriculture MOE	16935
@@ -25,6 +26,7 @@ County MOE	16935
 DEPRAVATION DE NOS MOEURS	8236
 DNEA MoE	13143
 Defence and Security Mr Moeti Mohwasa	10363
+Department and Agency MoD Ministry of Defence MoECC	18512
 Description MoE Computerisation	1675
 Director Generals of MoE. The Task Team	13990
 Directorate and MoETE	15604
@@ -81,6 +83,7 @@ MOE General Administration Division	16963
 MOE ICT	16963
 MOE Launches	17233
 MOE Ministry of Education	14916
+MOE Planning Unit	18537
 MOE Senior Management Team	16963
 MOE and Government of Liberia. SECTION	16963
 MOE and LTA	16963
@@ -89,6 +92,7 @@ MOE. Teacher Training Institutes	16963
 MOE. UNICEF	17196
 MOE.HQS	14501
 MOEAC	13143
+MOECC	18504
 MOECHE	14896
 MOECHE Examination System	15202
 MOECHE Ministry of Education	14916
@@ -118,6 +122,7 @@ Minister for State President Mr Moeti Mohwasa	3360
 Minister for State President Mr. Moeti Mohwasa	12572
 Ministry of Communications and Information Technology. MoE	15604
 Ministry of Education and Technical Education. MoETE	15604
+Ministry of Energy MoECC	18485
 Ministry of Innovation and Technology. MoE	13991
 Ministry of International Cooperation MOE	14857
 Ministry of National Defense MoE	16975
@@ -146,10 +151,11 @@ MoE and MoGCDSW	12175
 MoE and MoH	12195
 MoE and WB	13378,14
 MoE. Improved Inclusive Quality School Readiness	13990
-MoECC	14949
+MoECC	14949,3563
 MoECHE	14896,20,55,16,177
 MoECHE Ministry of Education	14971,88
 MoECHE. Through	14896
+MoED Ministry of Energy and Dams	18614,6
 MoEMW	15011
 MoES and NIRA	13681
 MoEST	13209
@@ -224,6 +230,7 @@ Organizational Structure of MoE Table	15796
 Panel MoE Ministry of Education MLA Monitoring	13990
 Partnership for Education MOE Ministry of Education MOES	17196
 Perito da Imprensa Nacional Casa da Moeda	11566
+Petroleum Gas MG Mini Grid MOE	18537
 Portador de Moeda Electrónica	11386
 Project. The MoE	13392
 Reembolso de Moeda Electrónica	11404
@@ -231,6 +238,7 @@ SEFS General Manager Moeketsi Mafereka	2767
 STIs MOEST	3035,253,61,689,520,84,1026,364,224,297,859
 Saldos de Moeda Electrónica	11386
 Secretary of State for Planning María Ebiaca Moete	3038,1265
+Security MOECC Ministry of Environment and Climate Change	18504
 Security MoET Ministry of Education and Training MOET	12962
 Spectroradiometer MoE Ministry of Environment MoET Ministry	17157
 Steering Committee MoETE Deputy Minister	15604
@@ -245,6 +253,7 @@ TBD MoETE K05	15604
 TBD MoETE K06	15604
 TPDI. The WB and MoE	13392
 Teaching Council. The Lesotho MoET	12726
+Technology and Innovation MoE	18485
 Ten MOE	16963
 Tipos de Contas de Moeda Electrónica	11404
 Union Européenne MOEUA Mission	18310

@@ -193,7 +193,7 @@ FEDERAL MINISTRY OF EDUCATION	11860
 FEDERAL MINISTRY OF HOUSING AND URBAN	18130
 FEDERAL NEGARIT GAZETTE OF THE FEDERAL	7538,4608,80,1741,6,13,38
 FEDERAL REPUBLIC OF GERMANY	13996
-FEDERAL REPUBLIC OF NIGERIA	10157,3839
+FEDERAL REPUBLIC OF NIGERIA	10157,3839,4550,26
 FEDERAL REPUBLIC OF NIGERIA Acronyms and Abbreviations	10157
 FEDERAL REPUBLIC OF NIGERIA By Presidential	11857
 FEDERAL REPUBLIC OF NIGERIA NATIONAL DIGITAL	10157
@@ -328,6 +328,7 @@ Federal Democratic Republic of Ethiopia. PART	7538,6429
 Federal Democratic Republic of Ethiopia. Responsible Agency	14038
 Federal Democratic Republic of Ethiopia. Task Team	10832
 Federal Democratic Republic of Ethiopia. TechnoMars	13991
+Federal Department of Foreign Affairs	18546
 Federal Development Authority	17114
 Federal EMIS Committee	11860
 Federal Electoral Institute of Mexico. Traça	11909
@@ -450,7 +451,7 @@ Federal Ministry of Agriculture and Food	3742
 Federal Ministry of Agriculture and Food Security	5765,1454,2657,6920
 Federal Ministry of Budget and Economic Planning	10063,93,7439
 Federal Ministry of Communication	3456,5527,2969
-Federal Ministry of Communications	381,1164,814,35,72,467,523,92,177,217,586,41,265,233,493,165,178,329,55,1597,237,588,271,6,131,552,394,70,23,1,1,151,115,275,430,725,3,95,33,81,815,2455,2832,45
+Federal Ministry of Communications	381,1164,814,35,72,467,523,92,177,217,586,41,265,233,493,165,178,329,55,1597,237,588,271,6,131,552,394,70,23,1,1,151,115,275,430,725,3,95,33,81,815,2455,2832,45,310
 Federal Ministry of Communications and Digital Economy	2253,5624,3980
 Federal Ministry of Education	3426,1711,2268,1181,2,121,1046,402,1703,91,86,24,3111,3047,40
 Federal Ministry of Education Parastatals	11860
@@ -467,7 +468,7 @@ Federal Ministry of Health and Human Services	11596,3327
 Federal Ministry of Health and Human Services. Somalia	11596
 Federal Ministry of Health and Social Welfare	7454,4550,6249
 Federal Ministry of Housing and Urban Development	11954
-Federal Ministry of Industry	9035,841,281,1869
+Federal Ministry of Industry	9035,841,281,1869,6497
 Federal Ministry of Information	7141
 Federal Ministry of Information and National Orientation	7144
 Federal Ministry of Justice	7141,2735,281
@@ -525,8 +526,9 @@ Federal Republic Government of Niaeria Funding	4301
 Federal Republic of Approval Date	15190
 Federal Republic of Artificial Intelligence	12512
 Federal Republic of Germany	11285,1757,80,3794,512,158
+Federal Republic of Germany. The EAC AI	18705
 Federal Republic of Germany. This Strategic Plan	16943
-Federal Republic of Nigeria	473,70,96,1270,622,1770,1,164,2573,409,4,42,1154,1012,389,108,140,424,408,26,314,382,2,72,29,2,20,17,33,119,367,2615,1745,1282,19,17,23,50
+Federal Republic of Nigeria	473,70,96,1270,622,1770,1,164,2573,409,4,42,1154,1012,389,108,140,424,408,26,314,382,2,72,29,2,20,17,33,119,367,2615,1745,1282,19,17,23,50,260
 Federal Republic of Nigeria Chairman	11517,3846
 Federal Republic of Nigeria FOREWORD The Education	11860
 Federal Republic of Nigeria Funding	4301
@@ -544,7 +546,7 @@ Federal Republic of Nigeria. Nigeria	3226
 Federal Republic of Nigeria. PREAMBLE	9660
 Federal Republic of Nigeria. The Kingdom of Eswatini	12962
 Federal Republic of Region	15097
-Federal Republic of Somalia	109,303,345,459,526,1844,4381,702,1807,660,670,1,685,948,10,160,41,219,1004,5,3,9,5,11,3,2,53,13,9,6,13,24,30,10,1,49,9,19,42,31,14,41,2370
+Federal Republic of Somalia	109,303,345,459,526,1844,4381,702,1807,660,670,1,685,948,10,160,41,219,1004,5,3,9,5,11,3,2,53,13,9,6,13,24,30,10,1,49,9,19,42,31,14,41,2370,1043,16
 Federal Republic of Somalia Contents I. Introduction	15014
 Federal Republic of Somalia Count Percent Somali	15085
 Federal Republic of Somalia Implementing Agency	14976
@@ -661,6 +663,7 @@ Federation of Saudi Chambers of Commerce Secretary-General	13432
 Federation of Somali Employers and Trade Unions	5172
 Federation of Somali Trade Unions	10476
 Federation of Women Lawyers	13040
+Federation of Women Lawyers of South Sudan	18631
 Federation of Women Lawyers-Kenya	8948
 Federation. Annual	12145
 Federation. PART ONE THE HOUSE	13948
@@ -716,6 +719,7 @@ German Federal Foreign Office	7794,1676,237
 German Federal Foreign Office Press Release	7794
 German Federal Government	11135
 German Federal Ministry	9393
+German Federal Ministry for Economic Cooperation	18485
 German Federal Ministry for Economic Development Cooperation	1264
 German Federal Ministry of Research	4890
 German Federal Statistical Office. Mobile	9149
@@ -767,7 +771,7 @@ International Federation of Accountants	15553
 International Federation of Accountants Committee	14736
 International Federation of Accountants Standards	15411
 International Federation of Red Cross	12977
-International Federation of Red Cross and Red Crescent	11156,1071,1643,3287
+International Federation of Red Cross and Red Crescent	11156,1071,1643,3287,1506
 International Federation of Red Cross and Red Cresent	11156
 International Federation of Surveyors	18293
 International Pharmaceutical Federation	9855
@@ -796,6 +800,7 @@ Jamhuuriyadda Fedetaalka Soomaaliya	15047
 Jamhuuriyaddu Federaalka	14859
 Jamhuuriydda Federaalka Soomaaliya	14859
 Jamhuutiyadda Federaalka Soomaaliya	15047
+Jeety Group. Fedek	18563
 Jumhuuriyadda Federaalka Soomaaliya	15152
 Jumuuriyadda Federaalka Soomaaliya	15152
 Jun-2021 TO THE FEDERAL REPUBLIC	14971
@@ -1041,5 +1046,6 @@ Xukuumaddu Federaalku	14859
 Year U.S. Government Federal Republic Existing	4301
 Year U.S. Government Federal Republic Federal	4301
 Year U.S. Government New Federal Surveillance	4301
+Youngest Infants Fed	18441
 Zanzibar Football Federation	12879
 Zaria Federal Constituency	18174

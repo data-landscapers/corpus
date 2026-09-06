@@ -34,6 +34,7 @@ About Paratus CloudParatus Cloud	14508
 Accelera Cloud Program	4144
 Access Google Distributed Cloud	4434
 Access and Connectivity Standards Cloud	11995
+Account Closure	18576
 Account Manager Cloud	18395
 Actual Closing	13722
 Addressing the Google Cloud Summit	14673
@@ -242,7 +243,7 @@ Cloelle NDUWIMANA Jean Pierre BIMENYIMANA Cyriaque	13300
 Cloete	8970
 Clone	14651
 Clore	15908
-Close	1264,829,1293,576,204,527,155,48,2039,13,12,2469,77,314,1009,15,34,139,112,64,41,621,69,62,209,140,23,25,563,10,58,378,1282,247,1,75,42,385,180,16,38,3,1044,291,41,466,620
+Close	1264,829,1293,576,204,527,155,48,2039,13,12,2469,77,314,1009,15,34,139,112,64,41,621,69,62,209,140,23,25,563,10,58,378,1282,247,1,75,42,385,180,16,38,3,1044,291,41,466,620,365,70
 Close Amélioration	13374
 Close Close	3954,1817,84,268,178,26,401
 Close Corporation	11298,1044,58
@@ -278,6 +279,7 @@ Closed Data	12419
 Closed Deadline	16312
 Closed I Page25of35 Table	11180
 Closed Quotations	11251
+Closed Sectors	18711
 Closed Selection of Consultant for LAVIMS	14803
 Closed Tickets	14745
 Closed User Group	762,11722,4729
@@ -301,17 +303,18 @@ Closer Look	1828,3579,676,1505
 Closer and Easier	15260
 Closes	3228,34,677,3026
 Closes Roads	9989
-Closing	543,1161,124,693,69,590,249,353,464,122,195,430,248,101,521,50,208,50,167,201,40,14,121,76,42,34,210,294,144,65,27,49,131,88,2,237,58,179,363,449,44,260,210,22,127,1,262,14,86,136,296,94,4,17,40,18,16,105,83,6,3,1,32,63,29,25,29,55,332,201,141,50,30,3,222,59,19,103,324,144,169,17,63,36,101,538,314,86,32,204,193,162,19,95,25,58,37,14,188,153,52,129,48,136,184,515,109,69,185,179,112,9,15,2,123,21,533,56,21,92,77
+Closing	543,1161,124,693,69,590,249,353,464,122,195,430,248,101,521,50,208,50,167,201,40,14,121,76,42,34,210,294,144,65,27,49,131,88,2,237,58,179,363,449,44,260,210,22,127,1,262,14,86,136,296,94,4,17,40,18,16,105,83,6,3,1,32,63,29,25,29,55,332,201,141,50,30,3,222,59,19,103,324,144,169,17,63,36,101,538,314,86,32,204,193,162,19,95,25,58,37,14,188,153,52,129,48,136,184,515,109,69,185,179,112,9,15,2,123,21,533,56,21,92,77,584,61,1,22
 Closing Approval	15663
 Closing Argument	6968
 Closing Civic Space	1250
-Closing Date	1179,1294,3832,2421,2053,2252,6,838,1013,24,59,12,207,1029,717,24
+Closing Date	1179,1294,3832,2421,2053,2252,6,838,1013,24,59,12,207,1029,717,24,1534,1,140
 Closing Date CKS	11269
 Closing Date Extension Components Results Legal	11924
 Closing Date Extension Financial Management Procurement	15731
 Closing Date Extension No Components	18359
 Closing Date Extension No Summary Description	16187
 Closing Date Guarantee Environmental and Social Risk	1284,15638
+Closing Date P166601 IDA-63670 Effective	18473
 Closing Date P167478 IDA-D4840 Effective	16638
 Closing Date P174620 IDA-D9950 Effective	15619
 Closing Date SANS	11269
@@ -340,7 +343,7 @@ Closing Period ID	12228
 Closing Period Improve	11905,3756
 Closing Period Improved	1867
 Closing Period Increase	3604,7164
-Closing Period Indicator Name Value Month	2712,1976,3189,3518,4340,278,692,295,96,374,35,399,102,344,4,1
+Closing Period Indicator Name Value Month	2712,1976,3189,3518,4340,278,692,295,96,374,35,399,102,344,4,1,179
 Closing Period Jun	11971,1949
 Closing Period Mar	1264
 Closing Period Month	6579,349
@@ -377,6 +380,7 @@ Closing Rev. Closing IDA-75030 Effective	18006
 Closing Rev. Closing IDA-75110 Effective	17079
 Closing Rev. Closing IDA-75340 Effective	17904
 Closing Rev. Closing IDA-79260 Effective	7877
+Closing Rev. Closing IDA-E0600 Effective	18534
 Closing Rev. Closing Not IBRD-96930	2712
 Closing Rev. Closing Not IDA-79260	4688
 Closing Rev. Closing The World Bank	17096,1259
@@ -396,6 +400,7 @@ Closing the Awareness Gap	7921
 Closing the Connectivity Gap	17771
 Closing the Coverage Gap. Retrieved	16942
 Closing the Digital Gap National Goals	4130
+Closing the Entrepreneurial Deficit	18551
 Closing the GENDER IN ADDITIONAL	11964
 Closing the Gap	8380,2334,283,6242
 Closing the Gap Between Tradition and Technology	9879
@@ -410,9 +415,11 @@ Closing-the-US-320-Million-Acquisition-of-MainOne	6521
 Closing. Work Package	8546
 Closser S	1219
 Closser&author	1219
-Closure	1988,9824,3003
+Closure	1988,9824,3003,3621,140
 Closure Elections	4608
 Closure Tier	10721
+Closure of Communication Equipment and Broadcasting Stations	18602
+Closure of Debate	18436
 Closure of PAGL	16994
 Clotaire	15615,129,157
 Clotaire Claver	15558
@@ -676,6 +683,7 @@ Communities Indicator Name Baseline Closing Period	17962
 Company Closure	11939
 Company and Close Corporation De-registrations	11250
 Competitive Offering of Cloud Services for Export. GOAL	15679
+Component CLOs Community Liaison Officers CLSG	18504
 Components Baseline Closing Period Strengthening	11417
 Components Results Disbursement Estimates Loan Closing	15731
 Comprehensive Cloud Services Built	14104
@@ -772,7 +780,7 @@ Eco-friendly Cloud Market Study	1264
 Education Cloud. Instead	899
 Effective. Original Closing	11965
 Effectiveness Closing	2989
-Effectiveness Date Orig. Closing Date Rev	15619,1019
+Effectiveness Date Orig. Closing Date Rev	15619,1019,1835
 Egypt. CloudFront	1719
 Else Is Building Kasi Cloud	5200
 Energy-efficient Cloud Computing Technologies and Policies	1264
@@ -810,6 +818,7 @@ FRAMEWORK FOR ACCREDITATION OF CLOUD SERVICE	6432
 FUNDRAISING BY FINAL CLOSE	4972
 Feb-2017 Original Closing	15601
 Feb-2019 Portal Additional Financing Loan Closing	11924
+Feb-2023 Original Closing Date	18473
 Feb-2024 Operation Closing	17470
 Feb-2026 Operation Closing	4688
 Federal Government’s National Digital Cloud	10952
@@ -1023,6 +1032,7 @@ Jun-2023 Original Closing Date	16638
 Jun-2024 Revised Closing Date	16638
 Jun-2024 Signing Effectiveness Orig. Closing Rev	6579
 Jun-2025 Closing Period Result Month	4653
+Jun-2025 Revised Closing Date	18473
 Jun-2026 Operation Closing	16994
 Jun-2026 TF-B2030 Closed	17904
 Jun-2026 Yes Closing Period Month	6928
@@ -1351,7 +1361,8 @@ Sep-2021. Current Closing Date	15802
 Sep-2023 Operation Closing	16079
 Sep-2024 TF-B5069 Closed	17904
 Sep-2025 Expected Closing Date	3562,11414
-Sep-2025 Operation Closing	11971
+Sep-2025 Operation Closing	11971,6563
+Sept-2024. Closing Date	18625
 Server Rooms and Cloud	16144
 Servernah Cloud	5368,1349,74,2448
 Service Providers Registration of Cloud Service Providers	6432
@@ -1382,6 +1393,7 @@ St. Close Cl. Drive Dr Estate	11129
 Standards for Cloud Service Providers	6432
 Starlink Close Menu Get	5933
 Stay Closer To The Stories	5267
+Staying Ahead of Cloud Compliance	18651
 Stop Shop Cloud Data Centres	9455
 Stratégie Cloud de Confiance	15936
 Strettch Cloud	11344

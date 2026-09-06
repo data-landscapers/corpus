@@ -35,7 +35,7 @@ App Desktop	12454
 App Developers and Platform Operators	6794
 App Development Climate Modelling Research Scientist	520
 App Pool	10617
-App Store	2805,461,4005,2819,851,936,52,1072,1392,1368,1856,286,510
+App Store	2805,461,4005,2819,851,936,52,1072,1392,1368,1856,286,510,274
 App Store URL	15867
 App Store. Beyond	14052
 App Store. Fini	17924
@@ -62,7 +62,7 @@ Catégorie Ecocash Lumicash Mobile App Visa	13390
 CfRN LUA APP	17140
 CfRN LUA App	17140
 CfRn LUA App	17140
-Chap Modeling Platform and DHIS2 Modeling App	11589,2224
+Chap Modeling Platform and DHIS2 Modeling App	11589,2224,4909
 Citizen App Search	12209
 Citizen Gava Mkononi App	12209
 Citizen Super App	9776,83
@@ -72,7 +72,7 @@ Collab Citizen App	11251
 Continental Africana de Libre Comercio APP	1701
 DCDT APP	5968
 DHA Department of Home Affairs APP DHET	11986
-DHIS2 Climate App	11589,2224,3309
+DHIS2 Climate App	11589,2224,3309,1600
 Digital ID App	12165
 Digital ID Mobile App Wallet	13080,15
 Disabilities APP	15244
@@ -142,6 +142,7 @@ M-Pesa Super App. Thunes	6102
 MHz H24 Assure APP	17006
 MHz H24 Assure APP TWR MALABO	17006
 MIMMI App V1.0	1828
+MIT App Inventor	18692
 MOT-OVRS Mobile App	17142
 MOUYA Félix UGP Responsable App	16012
 MRA Mobile App	13053
@@ -152,13 +153,14 @@ Mauritania Young Child Nutrition Knowledge App	17969
 Max It App	17167
 Mini App	7625
 MoMo App	9102,1,4433
-Mobile App	775,7667,3893,24,612,66,1713,29,26,6,2331
+Mobile App	775,7667,3893,24,612,66,1713,29,26,6,2331,1389
 Mobile App Coming Soon	5817
 Mobile App Developers	6832
 Mobile App Pesa	13390
 Mobile App Store	11004
 Mobile App Surveillance Problem	6212
 Mobile Banking APP and Bank USSD	12287
+Mobile Payment App	18588
 Model App Help	13051
 My Ooredoo App	4178
 MyAirtel App	9997,231
@@ -166,6 +168,8 @@ MyMTN App	13536
 NAME OF LOAN APP	8732
 NIMC Authentication App	18259
 NPF Vigilant App	14697
+NTR Mobile App	18588
+NTR Payment Mobile App	18588
 Naira Speed App	11861
 Naira Speed Merchant App	11861
 Naira Speed Wallet App	11861
@@ -193,11 +197,13 @@ Remote Sensing Zim-AEZ App Development Zim-AEZ	520
 Roads4U App	11253
 SEKIRITE APP	14760
 SEMIS App	12347
+SMEs. The App	18577
 SPT App	10865
 SSC App	11892
 SSC App Note	11892
 Safaricom App	7568
 Safaricom Launches M-PESA Super App	11994
+Samsung Global Goal App	18558
 School Open-source Feedback and Improvement App	12196
 Smart App	12676
 Social Media App	17870

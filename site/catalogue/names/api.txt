@@ -3,6 +3,7 @@ ACRONYMS ACRONYMS AI AIA API DCI	11156
 ACRONYMS AND ABBREVIATIONS API Application Programming	17149
 AML Anti-Money Laundering API Application Program	13312,2
 ANOR ANTIC API APICCAM ARMP ARSEL	15542
+API Access Programmatic	18747
 API Actives	18428
 API Application Programming Interface	11944
 API Application Programming Interface ASSAR Rwanda	14997
@@ -15,6 +16,7 @@ API Calls	4528,7984
 API Compatibility	5665
 API Credits Access	18039
 API Documentation	5665,9965
+API Documentation Technical	18747
 API ENDPOINT PATH PARAMETER NAMING	6423
 API Endpoints Summary Table Legend	15630
 API Endpoints and APIs All API	6423
@@ -152,6 +154,7 @@ Afriex’s B2B Payments API	10223
 Aid Management Platform API	5244
 Ajout des APIs	17484
 All API	12047
+All&search api language	18487
 American National Standards Institute API Application	10775
 Analyse des API	15936
 Another API	12490
@@ -205,12 +208,15 @@ DHIS2 API	12754
 DIRECTOR DA APIEX	15291
 DPI-related APIs	13005
 DRS-14 API	6423
+DSTI-led API Governance Framework	18529
 Dashboard API. Base URL	15630
 Data Dictionary and API Standards	11940
+Deng Angok Apin	18737
 Design API	6432
 Develop API	11133,3864
 Develop APIs	14674
 Developmental Model API Advance Passenger Information	11986
+Direct API	18531
 Directions API	1363
 Disponibilização de APIs	11893
 Dispute Resolution API Business-to-Business IGF Inclusive	12444
@@ -280,8 +286,10 @@ Mobile Money Open APIs	16809
 Monitor API	15161
 NASIA API	15630
 NIANGA APILA	15524
+NSPS. Where API	18470
 NST Scores API	15630
 National APIs	14819
+Needs API	18531
 Network APIs	6593
 Network APIs Commercial Open Gateway APIs	6593
 Network-layer APIs	6593
@@ -308,8 +316,9 @@ REST API	9480,2924,3896,1669
 REST API Design Standards	11952
 REST APIs	7266,9673
 REST APIs. Using	16939
-RESTful API	9603,8299
+RESTful API	9603,8299,845
 RESTful APIs	6432,6711,42,3739,15
+RESTful APIs. API Developers Integration	18747
 RESTful and API	17437
 RESTful. API Gateway	12419
 Reddit's Data API	13461

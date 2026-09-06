@@ -70,7 +70,7 @@ Bahmni	16195
 Bahn Loroum Nord	15715
 Bahnan Omar Mohamed	13935
 Baho Basuala Baney	4209
-Bahrain	1243,1494,2963,913,236,1855,2010,50,21,824,33,468,1697,1,1109,554,1525,747
+Bahrain	1243,1494,2963,913,236,1855,2010,50,21,824,33,468,1697,1,1109,554,1525,747,790
 Bahrain ARB HI	17743
 Bahrain Bangladesh Barbados Belarus Belgium Belize	11470
 Bahrain Fintech Bay	14819
@@ -100,7 +100,7 @@ Boubacar BAH Secrétaire	17982
 COMMONWEALTH OF THE BAHAMAS	13996
 Cameroon Bahrom Shukurov	10997
 Chad Cameroon Bahrain Azerbaijan Gabon Kuwait	16996
-Chernor Bah	3924,1974
+Chernor Bah	3924,1974,12610,13
 Christophe Bitasimwa Bahii	10401
 Colegio Nacional Baho Grande	4209
 Commissioner Pateh Bah	16888
@@ -112,15 +112,20 @@ DC. Bahar	10841
 DG Bah	17125
 DR. BAHWELL'S LIMITED Data Controller INST-639326A89AB	7167
 Department Prepared By Bahrom Shukurov	10997
+Deputy Governor of Northern Bahr El Ghazal	18737
 Deutsche Bahn	7966
 Digital Economy Ousman Bah	1714
 Director General Dr. Njogou L. Bah	17251
+Director of Communication Mohamed L. Bah	18580
+Director of Finance Ing. Abdul Bah	18444
 Dr. El Hadj Sarjo BAH	18310
 Dr. Njogou L. Bah	17125,31
 Dr. Ranie-Didice BAH-KONE	15712
+Dumbuya Director of Finance Ing. Abdul Bah	18444
 EAWG1 Alieu K Bah Team Member	16922
 ENTREPRISE BAH SERVICES-SARL	18032
 ERR Khartoum Bahri	15342
+Education Chernor Bah	18582
 Engineer Bahreselam Sielu	14117
 Equatorial Guinea Bahamas Fiji Barbados Gabon	10764
 Etat Son Excellence Monsieur Bah N’DAW	17861
@@ -129,7 +134,9 @@ Ezekiel Bahoum	11652
 Fatmata Jaria Bah	9449
 Fatoumata BAH	17841
 Foniké Mengué and Mamadou Billo Bah	9960
+Government Relations Juldeh O. Bah	18444
 Government of Northern Bahr	13276
+Greater Bahr	18640,74,23
 Guinea Mr. Souleymane Bah	17017
 Guinée. YHK Ibrahima BAH	16742
 H.E. Prime Minister Amadou Oury Bah	16679
@@ -141,7 +148,11 @@ Haddy Ceesay Ida Sarr Fatoumata Bah	16973
 Hamat Bah	17077
 Hassi Bahbah	15467
 Hon. Awa Bah	7452
-Hon. Salima Monorma Bah	3950
+Hon. Chernor Bah	18586
+Hon. Chernor R. M. Bah	18455
+Hon. Chernor R.M Bah	18455
+Hon. Salima Monorma Bah	3950,14573
+Hon. Salima Monorma Bah Minister of Communication	18485
 ID Bahrain National ID System	10714
 Immeuble BAH Kadiatou	7977
 Innovation and Technology Salima Bah	9121
@@ -170,21 +181,29 @@ M. Radwan Abdillahi Bahdon. Dans	4919
 M. Tchadèléki Biabalo Bahaze-Dao	16250
 M.Tchadèléki Biabalo Bahaze-Dao	16250
 MM. Tchadèléki Biabalo Bahaze-Dao	16250
-Madam Salima Bah	5849
+Madam Salima Bah	5849,12661,17,1,40,15
+Madam Salima Monorma Bah	18527,17,27
+Madam Salima Monorma Bah Ahead	18527
+Madam Salima Monorma Bah Minister of Communication	18527
 Madou Bah LISTE DES MEMBRES	17833
 Maghreb Bahrain	17478
+Makeni. Minister Bah	18582
 Mamadou Bah	10718
 Mamadou Billo BAH	16708
 Mamadou L.T. BAH USAID Suivi	16620
 Messouda Baham Mohamed Laghdaf	17990
-Minister Bah	3924,1974,3198,25
-Minister Bah Brings National Tour	5276
-Minister Salima Bah	2339,1039,5862
-Minister Salima Monorma Bah	5276
+Minister Bah	3924,1974,3198,25,9380,7,19,55,1,3
+Minister Bah Brings National Tour	5276,13247,28,23,9
+Minister Bah and CEO	18583
+Minister Chernor Bah	18521,61
+Minister Salima Bah	2339,1039,5862,9261
+Minister Salima Bah Highlights Transformation	18501
+Minister Salima Monorma Bah	5276,13225
 Ministre M. Radwan Abdillahi Bahdon	13864
 Mme BAHOUNOUI BATENDE ARMELLE	16328
 Mme Winny IKEKOU BAHOUCHI	16175
 Modou H. Bah	9316
+Mohamed L. Bah	18580
 Mohamed Wurie Bah	7777
 Mohamed Wurie Bah Esq	7777
 Monorma Bah	7008
@@ -197,13 +216,15 @@ Mr. Bah	17077
 Mr. Bahan Dalomi	10828
 Mr. Iyassu Bahta	14037
 Mr. Oumar Diouhe Bah	16649
+Mr. Shekou Amadou Bah and Danetta Lewis-Younge	18527
 NKODIA BAHONDA	15901
 Nana Mourkerou BAH ANTIM ANTIM DRH-SSDS	17882
 Next Post Northern Bahr	5428
 Njoku L. Bah	17077
-Northern Bahr	3583,7074,2619,4332
-Northern Bahr El Ghazal	3583
-Northern Bahr El Ghazal State	13276
+Northern Bahr	3583,7074,2619,4332,1017,112
+Northern Bahr El Ghazal	3583,15154
+Northern Bahr El Ghazal State	13276,5339,122
+Northern and Western Bahr	18640
 N’DIAYE Bah	17812
 Oumar Barry and Abdoulaye Bah	5809
 Oumou M BAH	17882
@@ -224,16 +245,17 @@ Royaume de Bahreïn	8239
 S.E.M Radwan Abdillahi Bahdon	13864
 SEM Amadou Oury Bah	16700
 Sadjo Bah	7403,327
-Salima Bah	1812,527,1039,5718,1351
-Salima Monorma Bah	4037,77,1949,3281,1236
+Salima Bah	1812,527,1039,5718,1351,8046,79,13
+Salima Monorma Bah	4037,77,1949,3281,1236,7921
 Samba BAH Développement	18003
 Samuel Bahizi	3560
 Saudi Arabia I Bahrain I North	14621
-Sekou Amadou Bah	4114,75
+Sekou Amadou Bah	4114,75,14333,5
 Selon Elhadj Boubacar Bah	10479
 Serign Modou Bah	17077
 Sherif Bahig Hamdy	15473
 Siré BAH Secrétaire	17833
+Southern Provinces of Bahr	18597
 Sulayman Bah	11706
 Superintendent Bah	14260
 Superintendent Modou H. Bah	14260
@@ -243,10 +265,17 @@ Talel Bahoury	10205
 Team Procurement AWCF1 Women and Girls’ Bahie	16922
 Technology and Innovation Minister Salima Bah	5908
 Technology and Innovation Salima Bah	9077
-Technology and Innovation Salima Monorma Bah	6063
+Technology and Innovation Salima Monorma Bah	6063,12520
 Thursday. Minister Bah	3924
 Timor-Leste Gabon Bahrain Qatar Congo	16942
 UAE and Bahrain	1741
 UMc Bahamas Americas	10840
+UNIVERSITY OF BAHR EL GHAZAL	18629
 United Arab Emirates Bahrain Algeria Egypt	15725
+University of Bahr El Ghazel	18646
 Université Boubacar Bah de Tillabéry	18143
+Upper Nile University and Bahr	18670
+Western Bahr	18743
+Western Bahr El Ghazal	18615
+Western Bahr El Ghazal State	18615
+Western Equatoria and Western Bahr	18730

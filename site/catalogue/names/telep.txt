@@ -53,6 +53,7 @@ Fixed Telephony Voice Subscription Data Subscription	9109
 Fixed Voice Telephone Tariff Trend	718
 Fixed Wireless Telephone	12395
 Fixed and Mobile Telephony Charges	2775
+Fixed-Line Telephones	18441
 Fixed-Wired Telephone Subscriptions	12395
 Fixed-Wireless Telephone Subscriptions	12395
 G Fifth Generation Telephone Wireless Technology	11857
@@ -62,6 +63,7 @@ G Third Generation Telephone Wireless Technology	11857
 GSMA. What Is the Impact of Mobile Telephony	5675
 Ghana Rural Telephony and Digital Inclusion Project	478,1,7546
 HJ The Hague Telephone	13358
+Home Region Radio Television Telephone Fixed	18441
 INTERNATIONAL INCOMING AND OUTGOING FIXED TELEPHONE	11211,51
 International Telephone	3862
 Internet Packet Telephony	13266
@@ -93,8 +95,10 @@ Mobile Telephone Market Statistics	11994
 Mobile Telephone Network OIT Other Income	12395
 Mobile Telephone Networks	7198,1741
 Mobile Telephone Networks Holdings Limited Loan	10793
+Mobile Telephone Rural	18441
 Mobile Telephone Traffic	6000
 Mobile Telephone Traffic Change Traffic Category	6000
+Mobile Telephones	18441
 Mobile Telephony	12395,206
 Mobile Telephony Network	6946
 Mobile Telephony Services	6946
@@ -123,7 +127,7 @@ Partnership SPV Public Switched Telephone Network	15372
 Patrick Kelly Telephone	11258
 Philippine Long Distance Telephone	15471
 Physical Address Telephone No. Contact Person	736
-Public Switched Telephone Network	6000,6395
+Public Switched Telephone Network	6000,6395,6049
 Public Switched Telephone Network SMS	6000
 Public Switched Telephone Service	15372
 Puerto Rico Telephone Company	15471
@@ -156,7 +160,7 @@ TTCL Dodoma Telephone House	2868
 Teleperformance	11162
 Teleperformance Talent and AI Drive Next Phase	11162
 Telepharmacy	9855
-Telephone	36,682,18,418,69,331,274,49,1579,758,485,979,1,753,607,2697,978,51,10,10,8,19,29,122,13,1,8,164,31,17,64,10,15,259,27,295,7,5,2,24,347,4,72,18,18,19,17,13,86,1,34,125,394,43,15,36,38,127,2,81,128,27,74,244,149,189,347,23,201,59,47,14,159,3,147,193,48,33,33,33,1108,21,101,69,31,50,8,8,30,24,153,60,41,7,69,177,366,1,36,3,81,384
+Telephone	36,682,18,418,69,331,274,49,1579,758,485,979,1,753,607,2697,978,51,10,10,8,19,29,122,13,1,8,164,31,17,64,10,15,259,27,295,7,5,2,24,347,4,72,18,18,19,17,13,86,1,34,125,394,43,15,36,38,127,2,81,128,27,74,244,149,189,347,23,201,59,47,14,159,3,147,193,48,33,33,33,1108,21,101,69,31,50,8,8,30,24,153,60,41,7,69,177,366,1,36,3,81,384,82,232
 Telephone Allowance	13096
 Telephone Bearer Microwave Link TV Bearer	736
 Telephone Call Traffic	2775
@@ -164,6 +168,7 @@ Telephone Directories	16835
 Telephone Enquiry Call Waiting Time for Financial	12500
 Telephone Interview DCC District Census Coordinator	11192
 Telephone MTN Rwanda Ltd	718
+Telephone Mobile Computer Internet	18441
 Telephone Network UNESCO United Nation Educational	14723
 Telephone No. Fax No. E-mail	736
 Telephone Number	1263,515,3118,6965,539,1061,1,965,1947

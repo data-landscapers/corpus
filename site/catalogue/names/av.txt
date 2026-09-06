@@ -340,7 +340,7 @@ Art.73- Avis Le Procureur	14412
 Artigo Etiquetas Avisos	17300
 Assemblée de I.Union des Comores. Avenue	13781
 Assumptions Availability	11986
-Assuring Sustainable Water Availability and Safe Sanitation	8012,3,3268
+Assuring Sustainable Water Availability and Safe Sanitation	8012,3,3268,7267
 Atlantic Council. Available	2518
 Austria. Available	10775
 Autoregressive Moving Average	236
@@ -354,7 +354,7 @@ Avail GPU	15713
 Avail GPU Resources	15713
 Avail Supply Side	15130
 Availabiliry Period	15399
-Availability	21,745,5,169,18,1030,240,249,201,835,274,562,261,637,418,1128,755,753,822,1034,672,72,18,57,56,97,1,1,3,62,658,3,17,7,24,13,38,30,228,32,7,2,47,31,13,13,5,15,10,163,193,9,95,156,32,5,53,111,105,3,45,37,106,147,331,36,411,27,324,41,77,4,9,14,42,178,6,15,42,41,343,14,355,904,20,1,1,1,6,31,1,18,29,40,146,82,1110,21
+Availability	21,745,5,169,18,1030,240,249,201,835,274,562,261,637,418,1128,755,753,822,1034,672,72,18,57,56,97,1,1,3,62,658,3,17,7,24,13,38,30,228,32,7,2,47,31,13,13,5,15,10,163,193,9,95,156,32,5,53,111,105,3,45,37,106,147,331,36,411,27,324,41,77,4,9,14,42,178,6,15,42,41,343,14,355,904,20,1,1,1,6,31,1,18,29,40,146,82,1110,21,97,9,1,52,146,8
 Availability All	9123
 Availability Date	17257
 Availability Date Disbursement	17257
@@ -377,6 +377,7 @@ Availability of Application Forms	12970
 Availability of Broadband Service	16884
 Availability of CB	16858
 Availability of Central E-Procurement Platform	12389
+Availability of City Data	18476
 Availability of Digital Cadastral Plans	12389
 Availability of Digital Financial	14897
 Availability of Digital Financial Services	14897
@@ -388,14 +389,17 @@ Availability of Drinking Water	15247
 Availability of E-waste	1988
 Availability of Electronic Database	12389
 Availability of Electronic Signature and Authentication	12389
+Availability of Establishment	18476
 Availability of Financial Sector Infrastructure	6938
 Availability of Financing Proceeds	13756
 Availability of Funds	2307,10698
 Availability of Funds Reports Minutes Annually Under	13005
 Availability of General Company Information	12389
+Availability of Geospatial Software and Hardware	18476
 Availability of Green Technology Identifier	12389
 Availability of High-Speed Broadband Networks	17870
 Availability of ICT	14836
+Availability of ICT Teacher	18617
 Availability of Incubators	12389
 Availability of Information	12389
 Availability of Information Submission System	12389
@@ -416,6 +420,7 @@ Availability of Professional	13037
 Availability of Public Consultations	12389
 Availability of Regulatory Sandboxes	12389
 Availability of Science and Technology Parks	12389
+Availability of Scientific Publications	18472
 Availability of Sex-Disaggregated Data	12389
 Availability of Sex-Disaggregated Statistics	12389
 Availability of Short Message Service	13037
@@ -432,10 +437,11 @@ Availability of Tax Guidance	12389
 Availability of Tax Incentives	12389
 Availability of Technology Transfer Offices	12389
 Availabiliÿ	15399
-Available	396,503,59,170,26,110,290,141,401,616,236,508,148,47,159,866,210,329,31,1,188,265,673,172,34,246,113,8,813,4,203,21,39,350,84,456,207,5,488,336,774,39,10,5,4,35,10,52,136,116,83,15,22,43,143,44,374,52,7,37,53,56,28,83,58,15,9,42,41,26,3,2,7,3,20,5,9,87,4,38,136,416,1,217,2,17,130,704,411,83,7,7,50,29,67,70,8,131,136,327,23,4,32,109,242,408,127,436,3,9,18,20,27,29,33,146,52,30,87,232,149,163,14,78,9,138,77,31,76,25
+Available	396,503,59,170,26,110,290,141,401,616,236,508,148,47,159,866,210,329,31,1,188,265,673,172,34,246,113,8,813,4,203,21,39,350,84,456,207,5,488,336,774,39,10,5,4,35,10,52,136,116,83,15,22,43,143,44,374,52,7,37,53,56,28,83,58,15,9,42,41,26,3,2,7,3,20,5,9,87,4,38,136,416,1,217,2,17,130,704,411,83,7,7,50,29,67,70,8,131,136,327,23,4,32,109,242,408,127,436,3,9,18,20,27,29,33,146,52,30,87,232,149,163,14,78,9,138,77,31,76,25,152,70,76
 Available Bandwidth Capacity	6946
 Available Career Pathways Applicants	11314
 Available Crosas	12090
+Available Data Portals Explore	18747
 Available Financial Audits	11863
 Available Generation Capacity	12062,6124,31
 Available International Bandwidth	6671
@@ -931,8 +937,10 @@ Avenue du Mali BP	17841
 Avenue du Mali Hamdallaye ACI	17993,68,28
 Avenues	1161,9680,119
 Averag	17043
-Average	418,164,240,118,30,858,39,73,835,1,634,386,102,630,336,108,273,431,324,100,238,75,258,161,114,25,456,121,267,451,170,90,20,61,236,773,366,263,473,45,1,1,10,5,13,36,15,12,5,9,70,14,9,1,12,28,127,3,58,3,222,132,4,19,14,280,8,7,1,20,51,11,1,6,35,186,60,1,9,35,47,2,21,22,10,14,88,11,143,181,95,38,84,294,114,108,299,839,108,4,17,60,84,17,59,74,19,15,83,125,52,23,24,9,31,39,3,21,30,13,4,92,132,168,131,487,227,82,26,45,32,84,11,1,1,9,23,63,54,78,136,196,44,119,8,7,1,31,53,28,119,14,170,16,45,5
+Average	418,164,240,118,30,858,39,73,835,1,634,386,102,630,336,108,273,431,324,100,238,75,258,161,114,25,456,121,267,451,170,90,20,61,236,773,366,263,473,45,1,1,10,5,13,36,15,12,5,9,70,14,9,1,12,28,127,3,58,3,222,132,4,19,14,280,8,7,1,20,51,11,1,6,35,186,60,1,9,35,47,2,21,22,10,14,88,11,143,181,95,38,84,294,114,108,299,839,108,4,17,60,84,17,59,74,19,15,83,125,52,23,24,9,31,39,3,21,30,13,4,92,132,168,131,487,227,82,26,45,32,84,11,1,1,9,23,63,54,78,136,196,44,119,8,7,1,31,53,28,119,14,170,16,45,5,85,16,18,92,113
+Average Annual Growth Rates	18464
 Average Annual Increase	16921
+Average Annual Inter-Censal Growth Rates	18464
 Average Annual Natural Hazards	15553
 Average Annual Price	17235
 Average Area	10765,10
@@ -1024,7 +1032,7 @@ Average Quantity	17043
 Average Retail Market Prices of Selected Food	2775
 Average Rev Gr	15149
 Average Revenue	14897
-Average Revenue Per User	3898,2102,11,89,9607
+Average Revenue Per User	3898,2102,11,89,9607,2737
 Average Revenue Per User CDMA	6000
 Average Roaming-in	15136
 Average Roaming-out	15136
@@ -1094,6 +1102,7 @@ Aviación Civil. En	7100
 Aviat	778
 Aviation	1828,4084,553,5491,966,34,167,177,77,390,709,924,775,1666,162,209,97,51
 Aviation Authority	17157
+Aviation Authority SLCRP The Sierra Leone	18578
 Aviation Authority of Zimbabwe Spanish National Research	1554
 Aviation Civile	5103,8722,1546,29,180,356,396,1485,112,222,87,53,69
 Aviation Civile ASECNA Agence	17873
@@ -1106,6 +1115,7 @@ Aviation Civile. DECRETE	17817
 Aviation Civile. KHI-DEUX N	17978
 Aviation Road	13189
 Aviation Sector	17105
+Aviation Security	18555
 Aviation Turbine Kerosene	17108
 Aviation and Aerospace Development	5245
 Aviation and Airport Development Uwem Ekanem	10229
@@ -1187,11 +1197,12 @@ Avoid Regulatory Fragmentation	10360
 Avoidable Commitment Fees	14546
 Avoidable Interest Due	14546
 Avoidable Penalty Costs	14546
-Avoidance	6432,5544,347,988,1192,1098,1513
+Avoidance	6432,5544,347,988,1192,1098,1513,1442
 Avoidance of Double Taxation	14409
 Avoidance of Proprietary Lock-ins Contracts	6432
 Avoided	12261
-Avoiding	1988,7135,1927,1278,3014,1772
+Avoiding	1988,7135,1927,1278,3014,1772,1355
+Avoiding Ineligible Expenditures	18500
 Avoiding Project Dependency	16963
 Avoiding the Shift	7337
 Avoids	6153,7242,1769
@@ -1293,6 +1304,7 @@ CONTENU Avant-propos	18171
 CONTINUEZ AVEC	13300
 CONTRACEPTION AVEC DES PRESTATAIRES DE PLANIFICATION	13300
 COROBOR. Avec	17873
+COUNTRIES SOON AVAILABLE	18489
 COVID-19. Avec	15478
 CREDIT AVEC UN	17833
 CREDIT Avez-vous	13390
@@ -1480,6 +1492,7 @@ Departamento de Avaliação de Desempenho	167
 Departamento de Aviación Civil	4209
 Department of Civil Aviation	14847
 Deprivation Class States Average Average Contribution	15244
+Deputy Minister of Transport and Aviation	18492,63
 Description Average	15661
 Despite Average	12214
 Dezembro. Aviso	12853
@@ -1616,6 +1629,7 @@ Firma Electrónica Avanzada	16855
 Fitsarana Avo	14408
 Fixed Voice Traffic Average Fixed	2776
 Footprint Development and Hospitals Assumptions Availability	11986
+Forecasting System AoE Assessment of Environment AVDP	18578
 Foreign Assistance Office U.S. Embassy Avenida	4260
 Formação Avançada	15910
 Foundations. Available	11909
@@ -1645,6 +1659,7 @@ GSMA Intelligence Database. Available	16872
 GTMI Group Average GTMI	10785
 Gamtel Serekunda Exchange Kairaba Avenue	16845
 Gas Delivery Services Availability of Financial Inclusion	15578
+Gas Mining Aviation	18541
 Generation Plant Availability	14867
 Generation Plant Availability The Regulatory Authority	14867
 Generative AI. Available	13461
@@ -1755,11 +1770,13 @@ Indicators Liberia Regional Average Income Group	17011
 Indonesia. Available	11133
 Information Availability Crisis	17139
 Infrastructure Availability and Service Delivery	12951
+Infrastructure Available	18475
 Infrastructure SLAs Component Availabili Redundancy	11952
 Innovation. Par Jean Materne Zambo Avez-vous	10691
 Inquêrito Ligeiro de Avaliação da Pobreza	11525
 Inside Capital. Available	12376
 Insights Annual Average EAF	11953
+Institutions Widely Available	18477
 Instrumentos de Avaliação da Prontidão	11394
 Integrity and Availability	8897
 Intelligence. Available	2518
@@ -1782,6 +1799,7 @@ Intégrée Avec	17879
 Investment Available	12399
 Investments AVCA’s Venture Capital Database	4972
 Investments Investments Pvt Ltd Switch Avenue	4896
+Issue Voucher SARA Service Availability and Readiness	18478
 Italie PMA Pays Moins Avancés PME	18286
 Ivoire. Avec	10927
 J'AI REÇU UN COURRIER AVEC UN	16629
@@ -1822,6 +1840,7 @@ LA PERFORMANCE UN CADRE ORGANISATIONNEL AVEC	2342
 LA REFORME ET DES RELATIONS AVEC	16381
 LA SECONDE LIGNE. Avez-vous	13300
 LAAD GAYE Avis	18322
+LCs Availability of Supporting ICT Enablers SYSTEMS	18476
 LES FESSES AVEC MAINS NUES	13300
 LES TESTS POUR LESQUELS VOUS AVEZ	13300
 LETTRES DE MISSIONS AVEC LES ENTREPRISES	2342
@@ -1893,6 +1912,8 @@ MPRENSA NACIONAL DA GUINÉ-BISSAU Avenida	11544
 MTEN Avez-vous	3658
 MTN Group Available	9871
 MTN Mobile Money. Avec le PSIPJ	16012
+MTPHC HOUSEHOLD POPULATION AND AVERAGE HOUSEHOLD	18464
+MTPHC Household Population and Average Household Size	18464
 MVola Avance	8816
 MVola Avance. Demain	8816
 MW Available	16966
@@ -1946,10 +1967,12 @@ Metodologia de Avaliação de Risco	6895
 Metric Baseline Average	4217
 Minister of Transport and Civil Aviation	16275
 Ministerio de Aviación Civil	4209
-Ministry of Transport and Aviation	5310
+Ministry of Transport and Aviation	5310,13268
+Ministry of Transport and Aviation. While NDMA and SLMet	18578
 Ministry of Transport and Civil Aviation	15097
 Ministry of Transportation and Civil Aviation	14965
 Minutes Average	16631
+Minutes of Use and Average Revenue Per User	18444
 Mme Aïcha AVOME BOUYOU	16175
 Mme Durance AVOME OKE	16381
 Mme Ornella Lidwine BEYENET AVOMO	16099
@@ -2010,7 +2033,8 @@ National Average Calling Time	15136
 National Civil Aviation and Meteorological Agency	13813
 Naturalisation AVANCEMENT ECOLE Décret	16100
 Nettoyage du Avant	14490
-Network Availability	21
+Network Availability	21,18423
+Network Availability Network	18444
 Network Availability Rate	14151
 News Publishers. Available	13461
 Nigeria Nepal São Tomé Zimbabwe Average	11572
@@ -2146,6 +2170,7 @@ Price Stability Average	11134
 Pricing. Available	13461
 Princeton University Press. Available	12090
 Private Mail Bag PMB Avenue Express	11129
+Private Public Percent Malaria Household Availability	18441
 Procedimento de Averiguação de Incumprimentos	11520
 Processes Available Online for Property Transfer	12389
 Procédure AVI L'ANDF	10876
@@ -2168,6 +2193,7 @@ Public Online Availability of Detailed Criteria and Steps	12389
 Public Online Availability of Requirements Needed	12389
 Public Procurement Authority’s Average Price Database	15845
 Publicly Available	11005
+Publicly Available Mutual Assistance	18675
 Publicly Available and Up	12389
 Publics AVI Agent de Vérification Indépendant BAD	10876
 Published Version Available	10878
@@ -2199,6 +2225,7 @@ RE Avoided CO2	12261
 RECHERCHE AVANCÉE	15409,55,69,64,84,22,75
 REFERENCES Avis	10821
 REFORME ET DES RELATIONS AVEC	16001
+REGION INSTITUTION HOUSEHOLD TOTAL AVERAGE HH	18464
 REGULAR SYSTEM TO MONITOR SERVICE AVAILABILITY	16892
 REGULATION TARIFAIRE IV. SECTEUR AVAL DES	18322
 RELATION AVEC LES ACTEURS INSTITUTIONNELS	15670
@@ -2211,6 +2238,7 @@ REQUISITOS DE MONITORIZAÇÃO E AVALIAÇÃO	11406
 RESOURCES AVAILABILITY AND UTILISATION	13310
 RESULTAT AVANT IMPOT	17841
 RESULTAT AVANT IMPOT IMPOTS SUR	17841
+RESULTS Average Scores for Rapid MSDI Variables	18476
 REVENU ET AVOIRS DES MÉNAGES BURKINABÉ	737
 REVISION AVANT PROJET DE PROGRAMME	16103
 RFI Avec	14604,74
@@ -2275,6 +2303,8 @@ S OTR ADHY Avis	18322
 S5Q07 Avez-vous	6959
 SA Avis	18322
 SADC Aviation Safety Organization Charter	12942
+SAIDI System Average Interruption Duration Index	18614
+SAIFI System Average Interruption Frequency Index	18614
 SAN Avaliacao de Seguranca Alimentar	966
 SAR Avg CGSI Avg PSDI Avg	10785
 SEA. Average	10954
@@ -2309,6 +2339,7 @@ Samora Machel Ave Harare	12511
 Samora Machel Avenue	4528,7983,1
 Samora Machel Avenue Box	940
 Satisfaction Connecting Availability	6051
+Schools Average Age of Classroom Teachers Pupils	18460
 Search Engine Land. Available	13461
 Secretario de Estado de Aviación Civil	1855
 Secrétariat Technique PGO Sis Avenue	15579
@@ -2339,6 +2370,7 @@ Serviço de Avaliação	11467
 Shapes the Future Aviation Hub	2511
 Short Term Average	15256
 Short Term Averages FSNAU	15256
+Sierra Leone Civil Aviation Authority	18578
 Sierra Leone SSA Average Nigeria Ghana	16876
 Silicon Avenue	14847
 Sistema de Avaliação de Desempenho	11449
@@ -2473,6 +2505,7 @@ University of Chicago Press. Available	12090
 Université Abdou Moumouni de Niamey. Avec	18121
 Université de Berkeley. Avec	7282
 União Europeia Sim Avançado Sim Fonte	2816
+Update Total Internet Bandwidth Available	18485
 Updated and Publicly Available List	12389
 Updated and Publicly Available Online Statistics Tracking	12389
 Urbain Rural Total Avez-vous	13390
@@ -2507,6 +2540,7 @@ Venture Capital Venture Debt Average	4972
 Venture Capital Venture Debt Average Volume	4972
 Vice Prime Minister and Ministry of Finance Avenida	16219
 Vice-Reitor da Universidade de Aveiro	11566
+Video Tutorials Available	18540
 Virunga Energies. Available	12006
 Vitalite Zambia. Available	12376
 Voice and Vision Features. Available	13461

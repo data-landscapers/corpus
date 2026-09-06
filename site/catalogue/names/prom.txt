@@ -210,6 +210,7 @@ DU REFERENTIEL DE PROMOTION	15660
 Data Promotion	11259
 Date de Clôture. Le Promoteur du Projet	15901
 Defend and Promote the Right	802
+Department of Promotion of Industry	18543
 Desarrollo de Capacidades. Promover la Reforma	1701
 Description Das FZ-Vorhaben PROMOGEF	504,399
 Description Promotes	2163
@@ -218,6 +219,7 @@ Developing Local Digital Solutions Promotion	13095
 Development and Promotion of Policies for Big Data	16885
 Diffusion. Promouvoir	17856
 Digital Economy Project Promoter	15901
+Dignity Promote	18490
 Director Health Promotion and Research Director Laboratory	14773
 Director for Trade Facilitation and Investment Promotion	8167,332
 Director of Promotion of Good Governance	18305
@@ -279,7 +281,7 @@ Eurico Correia Monteiro. Promulgado	16376
 European Union the Project Promoter	15901
 Events Promising Startups	10068
 Evotel Promotion	11259
-Export Promotion Agency	16926,290
+Export Promotion Agency	16926,290,1247
 Export Promotion and Market Development	10157
 F CFA du Centre National de Promotion des Investissements	17817
 FAO. PROMOTING ENVIRONMENTAL PRESERVATION	11897
@@ -307,8 +309,10 @@ Founder and Executive Director of PROMAD	17675
 Founding Promoter and Chairman of KP Group	12576
 Framework. Promote	7548
 Francs LE MINISTRE DE LA PROMOTION	17817
+Free and Promotional Telecommunications Services	18444
 Frogfoot FTTH Promotion	11259
 Fundo de Promoção	15526,661
+Future-Ready Workforce Promote	18480
 G Promotion	11259
 G Promotional Packages	11259
 G-4 Promote Inclusive Data Use and Embed	17116
@@ -356,6 +360,7 @@ Health Promotion and Research Unit	14847
 Health Promotion and Research Unit FY Financial	14773
 Hiring and Promotion of Public Servants	12972
 Hospital Management and Health Policy Management. Promoting	14829
+Hosts Student Robotics Tournament Promoting Hands-On	18518
 Human Rights and Promotion of Indigenous	15553
 I-I11-A5 Promotion	15713
 I-I11-A5 Promotion of Cloud Computing Seminars	15713
@@ -405,6 +410,7 @@ International Tourism Promotion	13122
 Internet They Promised	4619
 Investidor Promotor	11443
 Investment Promotion	4126,8230,1064,9,97,159
+Investment Promotion Act	18463
 Investment Promotion Agencies of West African States	10262
 Investment Promotion Agency	13312,2,4702
 Investment Promotion Authority	10040
@@ -416,11 +422,13 @@ Investment Promotion and Protection Agreements	14742,77
 Investment and Competition Promotion Project	15411
 Investment and Export Promotion Agency	10823,4925
 Investment and Export Promotion Agency GIRAV Gambia	17105
+Investment and Export Promotion Directorate	18463
 J Educ Health Promot	8376
 Janine Tatiana Santos Lélis Promulgada	15433
 Joana Gomes Rosa Amado. Promulgado	15572
 Joint Promotion Mission	14742
 Jointly Promote West Africa's Development	6003
+Jointly Promoting the BRI. Guided	18479
 José Carlos Esteves. Promulgado	11519,1
 José Carlos Lopes Correia Promulgado	15391,1
 José Manuel Andrade Promulgado	15359
@@ -498,6 +506,7 @@ MALI F. Promouvoir	18063
 MANAGING AND PROMOTING QUALITY STATISTICS Economic	2775
 MANDATE IS TO PROMOTE	1131
 MEASURES TO PROMOTE INTEROPERABILITY FOR DIGITAL	1243
+MEASURES TO PROMOTE OPENNESS	18438
 MEDIAÇÃO Promoção da Conciliação	16487
 MHAISS PROMOTES NEW E-ID ROLLOUT	13238
 MICDE Support Promote	7548
@@ -512,6 +521,7 @@ MINISTRY OF GENDER AND FAMILY PROMOTION	14892
 MINISTÉRIO DA PROMOÇÃO DE INVESTIMENTOS	16290
 MINTER GIFTY QUAYE MINTER PROMISE AKUA	15845
 MIOTH CMs Desenvolver Promoção da Estabelecimento	15694
+MIP. Promotion	18458
 MOUHOUN TX Prom	10847
 MOVIL CIVIL MOVIL CIVIL PROMOCIÓN HUMANOS	4209
 MSMEs. Promote	940
@@ -752,6 +762,7 @@ PS Ministry of Gender and Family Promotion	12338
 PS-1 Promote Efficient Use	11857
 PSRE OSp.5.1.1. Promouvoir	15722
 Paris Agreement. Promoting	1867
+Partnership Promoters	18556
 Paulo Augusto Rocha Promulgado	15504
 Pharmaceuticals Export Promotion Council of India	16331
 Pillar Access Connectivity Affordability Description Promote	5676
@@ -851,14 +862,14 @@ Promoción de Inversiones. Okoume	10361
 Promoción de Inversión	6841
 Promoción de Pequeñas	16898
 Promoción de Trabajo Decente	4209
-Promote	170,225,394,151,18,3,39,131,30,43,39,14,7,513,37,126,506,13,90,964,70,543,27,527,564,2,1,428,1,1,3,1,94,400,177,80,4,6,362,132,2,2,8,3,544,53,1349,248,515,195,586,279,55,44,22,15,273,2,3,6,56,2,37,40,582,48,11,32,4,42,149,42,25,4,13,6,7,1,12,33,70,4,24,15,22,23,9,45,14,162,1,257,7,2,21,2,7,6,1,64,38,15,126,74,25,25,1,1,12,4,18,106,3,54,134,74,116,11,59,118,372,6,7,23,2,100,108,49,6,5,10,3,4,1,25,4,31,6,1,16,34,5,5,4,39,13,7,5,50,24,2,11,74,12,10,19,56,1,38,128,39,69,31,93,109,1,2,9,35,85,94,21,17,63,10,94,68,41,580,18,1,9,5,6,4,8,2,1,13,15,11,10,3,3,1,8,17,2,5,21,15,6,1,12,13,56,15,2,11,12,1,9,8,78,25,25,11,68,175,411,8,347,65
+Promote	170,225,394,151,18,3,39,131,30,43,39,14,7,513,37,126,506,13,90,964,70,543,27,527,564,2,1,428,1,1,3,1,94,400,177,80,4,6,362,132,2,2,8,3,544,53,1349,248,515,195,586,279,55,44,22,15,273,2,3,6,56,2,37,40,582,48,11,32,4,42,149,42,25,4,13,6,7,1,12,33,70,4,24,15,22,23,9,45,14,162,1,257,7,2,21,2,7,6,1,64,38,15,126,74,25,25,1,1,12,4,18,106,3,54,134,74,116,11,59,118,372,6,7,23,2,100,108,49,6,5,10,3,4,1,25,4,31,6,1,16,34,5,5,4,39,13,7,5,50,24,2,11,74,12,10,19,56,1,38,128,39,69,31,93,109,1,2,9,35,85,94,21,17,63,10,94,68,41,580,18,1,9,5,6,4,8,2,1,13,15,11,10,3,3,1,8,17,2,5,21,15,6,1,12,13,56,15,2,11,12,1,9,8,78,25,25,11,68,175,411,8,347,65,99,9,2,1,6,3,39,8,65,21,51
 Promote AI	1814,2312,3422,4808,2210
 Promote AI Adoption	4126
 Promote AI Education	4126
 Promote AI Incubators and Accelerators	14566
 Promote AI and A- AI	7548
 Promote AI-driven	12356
-Promote Access	17870
+Promote Access	17870,572
 Promote Accessibility and Usability	11952
 Promote Africa	10441
 Promote African	1814,5734
@@ -874,6 +885,7 @@ Promote Cross-Sector Digital Transformation Pathways	14819
 Promote Cross-Sector Digital Transformation Pathways Support	14819
 Promote Cyber Security Awareness	12359
 Promote Data Sharing	12143
+Promote Debt Transparency	18488
 Promote Digital ID	12214,2460
 Promote Digital Inclusion	16975
 Promote Digital Literacy	11918
@@ -888,12 +900,14 @@ Promote Effective Data Governance and Analytics for Advance	13991
 Promote Enforce	15845
 Promote Enforces	11857
 Promote Entrepreneurship and Boost Supply of Skills	16876
+Promote Equal Opportunities and Address Discrimination	18512
 Promote Equitable Benefit	12143
 Promote Equity and Inclusion	12675
 Promote Eswatini FinTech Capabilities	12444
 Promote Fair and Effective Competition Ensuring	17212
 Promote Financial	15130
 Promote Financial Inclusion	14819
+Promote Gender Equality	18512
 Promote Ghanaian	10523
 Promote Good Agricultural Practices	14818
 Promote Government	7548
@@ -960,6 +974,7 @@ Promote WASH	12964
 Promote Zambia	12356
 Promote and Attract Investment	958
 Promote and Recruit Participants	12675
+Promote and Regulate the Communications Sector The NCA	18746
 Promote the A-	7548
 Promote the Accredited AI	7548
 Promote the Freedom of Information Act	5244
@@ -1006,7 +1021,7 @@ Promoteur le Promoteur du Projet	15901
 Promoteurs	15542
 Promoteurs Etat du Cameroun	15542
 Promoteurs Recherche	15542
-Promoting	470,488,12,81,80,112,182,385,4,14,947,321,417,105,243,116,963,192,112,289,145,243,495,327,205,80,520,635,498,2095,65,15,109,15,216,2,32,306,50,271,40,8,81,203,21,23,7,5,189,174,67,266,21,7,4,4,10,18,106,307,105,52,1,428,444,22,96,108,49,21,1,3,4,25,13,28,94,35,18,69,308,149,172,62,199,7,281,105,67,477,11,10,1,1,1,4,26,27,1,30,2,36,67,36,3,39,95,67,113,27,45,277,90,14,409,8,48
+Promoting	470,488,12,81,80,112,182,385,4,14,947,321,417,105,243,116,963,192,112,289,145,243,495,327,205,80,520,635,498,2095,65,15,109,15,216,2,32,306,50,271,40,8,81,203,21,23,7,5,189,174,67,266,21,7,4,4,10,18,106,307,105,52,1,428,444,22,96,108,49,21,1,3,4,25,13,28,94,35,18,69,308,149,172,62,199,7,281,105,67,477,11,10,1,1,1,4,26,27,1,30,2,36,67,36,3,39,95,67,113,27,45,277,90,14,409,8,48,109,27,2,1,2,42,61,15
 Promoting Action	8376
 Promoting CSA	970
 Promoting Clean Energy for All	11332
@@ -1073,7 +1088,7 @@ Promoting and Small	11017
 Promoting the Export	5216,557
 Promoting the Internet	11935
 Promotio	17827
-Promotion	578,65,146,151,18,173,290,261,132,82,92,585,235,81,507,358,107,105,436,844,98,107,220,4,339,570,52,323,589,721,368,118,136,6,9,558,192,1056,100,11,3,15,6,53,40,4,20,1,15,5,146,128,277,230,91,59,28,270,159,16,24,149,360,42,13,10,108,27,168,3,8,40,77,24,326,13,55,578,4,4,2,1,12,51,1,1,132,22,79,6,31,1,236,37,22,316,9,2,7,9,12,1,4,10,2,1,5,21,17,2,1,4,21,18,24,11,27,8,11,5,19,38,24,25,2,8,2,2,20,33,22,49,88,18,11,34,21,27,148,189,61,40,136,5,8,218,32,58,9,150,13,470,228,1,4,4,6,2,12,1,2,1,4,7,4,1,6,9,3,3,2,1,9,6,1,5,7,3,2,9,51,4,4,15,2,10,29,5,3,27,10,5,8,1,2,2,16,1,21,26,1,86,30,1,4,6,19,3,20
+Promotion	578,65,146,151,18,173,290,261,132,82,92,585,235,81,507,358,107,105,436,844,98,107,220,4,339,570,52,323,589,721,368,118,136,6,9,558,192,1056,100,11,3,15,6,53,40,4,20,1,15,5,146,128,277,230,91,59,28,270,159,16,24,149,360,42,13,10,108,27,168,3,8,40,77,24,326,13,55,578,4,4,2,1,12,51,1,1,132,22,79,6,31,1,236,37,22,316,9,2,7,9,12,1,4,10,2,1,5,21,17,2,1,4,21,18,24,11,27,8,11,5,19,38,24,25,2,8,2,2,20,33,22,49,88,18,11,34,21,27,148,189,61,40,136,5,8,218,32,58,9,150,13,470,228,1,4,4,6,2,12,1,2,1,4,7,4,1,6,9,3,3,2,1,9,6,1,5,7,3,2,9,51,4,4,15,2,10,29,5,3,27,10,5,8,1,2,2,16,1,21,26,1,86,30,1,4,6,19,3,20,146
 Promotion Agencies	17157
 Promotion Agency2nd Floor	14848
 Promotion Council Nigerian Electricity Regulatory Commission	10157
@@ -1329,6 +1344,7 @@ SALON PROMOTE	10975
 SANGUIE TX Prom	10847
 SANMATENGA TX Prom	10847
 SECTEUR SANTÉ DÉVELOPPEMENT SOCIAL ET PROMOTION	17845
+SEND Promote	18490
 SENO TX Prom	10847
 SETIC Promote	13314
 SHORT TERM Promote	16876
@@ -1354,6 +1370,7 @@ Section Promotion des Associations	17827
 Sector Promote Government A- AI Infrastructure	7548
 Services. Le Promoteur du Projet	15901
 Services. Promoteur du Projet	15901
+Sierra Leone Investment and Export Promotion	18463
 Silva Promulgado	15391
 Sistema de Promoción Inmobiliaria	1701
 Smart Solutions Promote	958
@@ -1393,6 +1410,8 @@ Telkom Mobile Mo’Town Promotional Bundles	11259
 Through UNDP’s Climate Promise	16973
 Tinkhundla Secretaries Promotions	12970
 Tourism and Artisanal Promotion	16972
+Tournament Promoting Hands-On S.T.E.A.M Learning	18544
+Tournament Promoting Hands-On S.T.E.A.M Learning URL	18544
 Trade Facilitation and Export Promotion	13685
 Trade Promotion	13474
 Trade Promotion Agencies and Industry Bodies	5247

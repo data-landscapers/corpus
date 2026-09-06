@@ -3,7 +3,7 @@ AIDS UNAM University of Namibia UNICEF United	12923
 ANTIM Consultant National UNICEF Consultant Régional	17882
 ATM. A UNICEF	16942
 Abel. UNICEF	10748
-About UNICEF UNICEF	15563
+About UNICEF UNICEF	15563,3132
 Accor- UNICEF	13681
 Actividades de UNICEF	4209
 Africa UNICEF United Nations Children's Fund	10838,1032,482,136
@@ -11,6 +11,7 @@ Africa UNICEF United Nations Children’s Fund	10835,133,918,467,60,2643
 Aide-projet UNICEF	15673
 Airtel Africa Foundation and UNICEF	7291
 Airtel and UNICEF	5802,9761
+All Districts UNICEF	18478
 All UNICEF	13575,1
 Amanuel Mehari UNICEF Remy Pigois	16902
 Ana Ernesto UNICEF Guinea-Bissau	17015
@@ -51,6 +52,7 @@ Culture UNICEF	15673,175
 Culture UNICEF Fonds des Nations Unies	18171
 DFID and UNICEF	11860
 Daily Teacher Attendance Monitoring. A UNICEF	16911
+Department of Safety and Security UNICEF United Nations	18668
 Description UNICEF	2239
 Description UNICEF Kenya	1164
 Description UNICEF's Reimagine Education	724
@@ -108,6 +110,7 @@ Katyavala Bwila University UNICEF	10776
 Kongo UNESCO UNICEF	11916
 LA SCIENCE ET LA CULTURE UNICAN	18170
 La Representante de UNICEF	16894
+Latest News MoCTI and UNICEF Sierra Leone	18574,9
 MEEUJ UNICEF	16898
 MENRS and UNICEF	13349
 MICL UNICEF	16898
@@ -123,9 +126,11 @@ Ministry of Education. UNICEF Angola	10748
 Ministry of Health and UNICEF	3980,12996
 Ministry of National Education and UNICEF Comores	2960
 Ministry of Social Affairs of Equatorial Guinea and UNICEF	16942
+MoCTI and UNICEF Sierra Leone Launches First	18583
 MoET and UNICEF	12741
 MoETE and UNICEF	15604
 Monétaire Ouest-Africaine UNICEF Fonds des Nations Unies	18077
+National Bureau of Statistics and UNICEF	18695
 National Institute of Public Health and UNICEF	18237
 Nationale UNICEF Santé	18105
 Nations Development Program UNICEF United Nations	11525
@@ -136,6 +141,7 @@ Nations UNICEF United Nations Children's Fund	15731
 Nigeria Rank Unicorn Company Industry City	11884
 Numbers. UNICEF	10812
 OECD OHCHR UCT UNESCO UNICEF	11156
+Ola During Children’s Hospital UNICEF Pre-implementation	18478
 Online Child Sexual Exploitation and Abuse. UNICEF	7548
 Operational Guide UNICEF	13681
 Oracle Salesforce China Unicom Alibaba Salesforce	6477
@@ -163,6 +169,7 @@ Representante de UNICEF	16894
 Réfugiés UNICEF	10874
 SLC STD UGP UNICEF USAID VBG	14425
 SSF SSN UNDP UNHCR UNICEF USD	16902
+SYSTEM AND DATA WAREHOUSE. UNICEF UNIQUE	18506
 Salaam. UNICEF	6807
 Sant’Egidio and UNICEF	13005
 Saúde da UNICV	1265
@@ -190,7 +197,7 @@ Through UNICEF CDS-EOS	11401
 Top Unicorn Companies	11884,1,320
 Toxoid UNICEF United Nations Children’s Fund	16971
 UA UNICEF DNEC	18076
-UHC Universal Health Coverage UNICEF United	15556
+UHC Universal Health Coverage UNICEF United	15556,2922
 UHI Universal Health Insurance UNICEF United	11133
 UIN Unique Identification Number UNICEF United	13681
 ULCV UM UNICA Uni-CV UNIPIAGET US	16166
@@ -214,7 +221,7 @@ UNICAN	18170
 UNICC	9147,3094,839,15
 UNICE	17882
 UNICE DISC	17882
-UNICEF	63,157,183,99,88,134,34,17,14,110,41,13,16,1,64,4,126,97,110,308,22,9,287,242,100,209,121,284,13,31,3,4,10,13,32,117,71,30,149,8,149,7,163,131,16,80,220,9,48,271,17,8,30,53,6,36,89,58,30,245,106,41,27,22,234,8,9,9,138,108,49,168,729,52,7,364,120,341,75,66,93,55,127,148,61,45,35,39,61,37,81,33,22,7,274,313,244,13,106,47,190,57,11,70,85,7,103,128,8,204,114,32,81,10,34,2,10,3,2,3,7,1,1,3,32,2,8,7,38,7,7,32,27,23,1,43,101,25,9,14,64,167,13,1,16,108,11,1,20,12,3,17,22,68,176,5,37,3,5,2,8,1,2,6,53,5,55,14,6,4,44,30,3,13,24,13,8,2,21,21,51,27,12,3,4,1,29,1,40,5,89,10,160,7,18,18,11,1,14,20,162,24,9,6,16,25,2,11,6,20,1,2,21,77,61,1,4,6,53,32,14,18,17,40,8,23,22,12,91,1,29,1,101,4,12,1,2,62,28,37,115,41,11,1,32,25,9,1,9,43,8,1,23,20,409,6,15,30,40,12,2,175,4,41,1,8,17,14,1,21,1,18,58,1,3,17,44,20,21,33,38,2,33,6,41,48,56,13,12,70,3,22,35,4,6,18,10,10,3,28,26,3,12,12,27,12,1,6,79,23,15,5,112,1,16,12,179,80,15,4,79,3,4,70,8,15,9,120,40,8,6,7,59,2,20,18,11,101,8,7,9,18,2,2,4,7,2,11,5,15,7,3,18,1,4,1,3,14,10,12,84,2,13,2,11,30,39,37,24,28,28,511,6,13,2,24,13,22,2,27,12,1,1,24,7,7,30,4,44,14,16,12,20,11,2,1,48,1,77,16,10,10,4,7,22,32
+UNICEF	63,157,183,99,88,134,34,17,14,110,41,13,16,1,64,4,126,97,110,308,22,9,287,242,100,209,121,284,13,31,3,4,10,13,32,117,71,30,149,8,149,7,163,131,16,80,220,9,48,271,17,8,30,53,6,36,89,58,30,245,106,41,27,22,234,8,9,9,138,108,49,168,729,52,7,364,120,341,75,66,93,55,127,148,61,45,35,39,61,37,81,33,22,7,274,313,244,13,106,47,190,57,11,70,85,7,103,128,8,204,114,32,81,10,34,2,10,3,2,3,7,1,1,3,32,2,8,7,38,7,7,32,27,23,1,43,101,25,9,14,64,167,13,1,16,108,11,1,20,12,3,17,22,68,176,5,37,3,5,2,8,1,2,6,53,5,55,14,6,4,44,30,3,13,24,13,8,2,21,21,51,27,12,3,4,1,29,1,40,5,89,10,160,7,18,18,11,1,14,20,162,24,9,6,16,25,2,11,6,20,1,2,21,77,61,1,4,6,53,32,14,18,17,40,8,23,22,12,91,1,29,1,101,4,12,1,2,62,28,37,115,41,11,1,32,25,9,1,9,43,8,1,23,20,409,6,15,30,40,12,2,175,4,41,1,8,17,14,1,21,1,18,58,1,3,17,44,20,21,33,38,2,33,6,41,48,56,13,12,70,3,22,35,4,6,18,10,10,3,28,26,3,12,12,27,12,1,6,79,23,15,5,112,1,16,12,179,80,15,4,79,3,4,70,8,15,9,120,40,8,6,7,59,2,20,18,11,101,8,7,9,18,2,2,4,7,2,11,5,15,7,3,18,1,4,1,3,14,10,12,84,2,13,2,11,30,39,37,24,28,28,511,6,13,2,24,13,22,2,27,12,1,1,24,7,7,30,4,44,14,16,12,20,11,2,1,48,1,77,16,10,10,4,7,22,32,98,7,3,4,2,7,25,7,1,9,7,23,5,1,52,20,6,5,9,38,29,5
 UNICEF AFD	15724
 UNICEF Abidjan	16351
 UNICEF Adolescent Girls Strategy	13999
@@ -239,7 +246,8 @@ UNICEF Comores	2960,40,10761,1,24
 UNICEF Comores URL	13786
 UNICEF Comunicados	17015
 UNICEF Country Report	14897
-UNICEF Country Representative	7171
+UNICEF Country Representative	7171,11381
+UNICEF Country Representative Mr. Rudolf Schwenk	18526
 UNICEF Country Representative Wafaa Abdelatef	5100
 UNICEF Country and Regional Child Protection Offices	16860
 UNICEF DPG Pathfinder	7921
@@ -264,8 +272,10 @@ UNICEF Ethiopia Learning and Development Programme Programme	13999
 UNICEF Ethiopia Learning and Development Programme Strategy	13999
 UNICEF Ethiopia. Country Office Annual Report	12188
 UNICEF FEMTECH	2239
+UNICEF Five	18480
 UNICEF Fonds des Nations Unies	13300,2174,250
 UNICEF Fundo Programa	11376
+UNICEF GIGA	18564
 UNICEF Gabon Tel	15563
 UNICEF Gambia	16436
 UNICEF Ghana. The Consultative and Validation Workshop	9843
@@ -297,19 +307,23 @@ UNICEF Obligations	15965
 UNICEF Office	15604
 UNICEF Office of Innovation	11156
 UNICEF Office of Research	15658
+UNICEF Pilot	18478
 UNICEF Programme of Cooperation	5274,7441
 UNICEF Regional Director	16902
 UNICEF Regional Director for Eastern and Southern Africa	15214
 UNICEF Reimagine Education	403
-UNICEF Representative	4636,8386
+UNICEF Representative	4636,8386,5452,221
 UNICEF Representative Sheldon Yett	14977
 UNICEF Resident Representative Mr. Noel Marie	15563
 UNICEF SJF Window	14925
 UNICEF Sage-femme	17882
-UNICEF Sierra Leone	953
+UNICEF Sierra Leone	953,17630
+UNICEF Sierra Leone Launches First Tech	18523,28
+UNICEF Sierra Leone Mr. Norihito Yonebayashi	18559
 UNICEF Sikasso DRS Sikasso Informaticien	17882
 UNICEF Sikasso Médecin	17882
 UNICEF Social Policy Section	1371
+UNICEF South Sudan	18695
 UNICEF Strategic	13999
 UNICEF Sudan	14851,46
 UNICEF Sudan Country Office	15253
@@ -366,6 +380,7 @@ UNICEF and Giga	5851
 UNICEF and HISP Uganda	13045
 UNICEF and HISP. Education	12741
 UNICEF and ICAP	12944
+UNICEF and ILO	18470
 UNICEF and IOM	16874
 UNICEF and ITU	6539,6504,2210
 UNICEF and KFW	12175
@@ -375,7 +390,7 @@ UNICEF and NACONEK27	899
 UNICEF and Save the Children	11918
 UNICEF and Smart Africa Alliance	13262
 UNICEF and UN Women	16970
-UNICEF and UNDP	10210
+UNICEF and UNDP	10210,8277
 UNICEF and UNESCO. Conclusion	11907
 UNICEF and UNESCO. Considering	11907
 UNICEF and UNFPA	10822,2397
@@ -408,7 +423,7 @@ UNICEF-WHO	13681
 UNICEF-funded	3753,1777,11221
 UNICEF-led	15342
 UNICEF-managed EU	1164
-UNICEF-supported	2669,9368,20,2901
+UNICEF-supported	2669,9368,20,2901,3625
 UNICEF. CRVS	12188
 UNICEF. Ces	17978
 UNICEF. Cette	17882,96

@@ -18,6 +18,7 @@ AOAC INTERNATIONAL AMERICAN SOCIETY FOR TESTING	13342
 APPORT EN SOCIETE D'UN FONDS	13293
 ASILI SACCO SOCIETY LTD Data Controller	7167
 ASILI SACCO SOCIETY LTD Data Processor	7167
+ASTM-American Society for Testing and Materials	18469
 ATTRIBUE A LA SOCIETE CAMARA ET	17827
 ATTRIBUE A LA SOCIETE D’EXPLOITATION ET	17827
 AU PROFIT DE LA SOCIETE EURL	15885
@@ -50,6 +51,7 @@ Allesandra de Santillana de Internet Society	15592
 American Meteorological Society	15907,1250
 American Meteorological Society. NOAA Climate Prediction	17157
 American Society for Testing and Materials	14736
+American Society of Mechanical Engineers	18469
 Analysis of Civil Society Typologies	11028
 Analyzing Civil Society Actors' Definitions of Digital	11028
 Angelo Costa Sociedade	17041
@@ -64,6 +66,7 @@ Artificial Intelligence Driven Algorithmic Society	11715
 Artificial Intelligence-Powered Society	4126
 Asia Society	225
 Assembly Political Pluralism Civil Society Space	10759,78,1315,188
+Assessment CSOs Civil Society Organisations DGP	18488
 Association Moroccan Internet Society	17448
 Association of Civil Society Organisations	12145
 Association of Professional Societies	7167
@@ -153,6 +156,7 @@ CSO Civil Society Organization DNIC National	4214
 CSO Civil Society Organizations DEAP Digital	17196
 CSO Civil Society Organizations DPI Digital	10714
 CSO Civil Society Organizations FAO Food	16970
+CSOs Civil Society Organisations DPP Director	18477
 CSOs Civil Society Organizations	15036
 Cabinda Society Luanda	8053
 Cable Society of Guinea-Bissau	11545
@@ -177,7 +181,7 @@ Cimeira Mundial da Sociedade da Informação	11396,1
 Civic Society	13295
 Civic Society Guiding	12511
 Civil Societ	899
-Civil Society	789,110,59,12,30,630,1391,1105,2810,516,1970,395,120,882,209,373,135,318,1,85,261,13,142,88,9,59,162,243,5,34,357,32,1064,333,77,60,93,606,1270,5,19,79,148,15,2,23,121,485,148,41,371
+Civil Society	789,110,59,12,30,630,1391,1105,2810,516,1970,395,120,882,209,373,135,318,1,85,261,13,142,88,9,59,162,243,5,34,357,32,1064,333,77,60,93,606,1270,5,19,79,148,15,2,23,121,485,148,41,371,139,14,38,26
 Civil Society ARTICLE	14409
 Civil Society Actors	17771
 Civil Society Advocacy Position	15238
@@ -196,6 +200,7 @@ Civil Society Education Coalition	13130
 Civil Society Engagement	17139
 Civil Society Engagement Action Plan	7784
 Civil Society Gendered Voices Volume	11332
+Civil Society Groups	18446
 Civil Society Information	7784
 Civil Society Joint Brief	11028
 Civil Society LIWEN Office	17099
@@ -206,15 +211,15 @@ Civil Society MoFNP	12453
 Civil Society Mr. Knut Zuchan	17586
 Civil Society National EUR	15500
 Civil Society National Grant Préparation	15500
-Civil Society Organisation	12551
+Civil Society Organisation	12551,5914,3
 Civil Society Organisation EIA Environmental Impact	16843
 Civil Society Organisation.5.3. Participants	2626
-Civil Society Organisations	1630,919,2695,2213,2273,1281,849,473,120,300,168,25,18,23,131,202,69,2538,1787,72
+Civil Society Organisations	1630,919,2695,2213,2273,1281,849,473,120,300,168,25,18,23,131,202,69,2538,1787,72,674,17
 Civil Society Organisations Civil Society Organisations	5244
 Civil Society Organization	14742,118
 Civil Society Organization DHIS2	10776
 Civil Society Organization DPI Digital Public	7548
-Civil Society Organizations	1778,6155,3074,122,731,144,171,181,319,257,30,15,28,117,210,27,59,698,819,69,600,356,893,4,4,109,5,36,94,11,33,140
+Civil Society Organizations	1778,6155,3074,122,731,144,171,181,319,257,30,15,28,117,210,27,59,698,819,69,600,356,893,4,4,109,5,36,94,11,33,140,1215,28,45,38
 Civil Society Organizations COVID-19 Corona Virus	12241,839,15
 Civil Society Organizations CTT	14857
 Civil Society Organizations Financing	7548
@@ -237,12 +242,14 @@ Civil Society and Non-Governmental Organisations	12591
 Civil Society and Non-Governmental Organizations	4528,8164
 Civil Society and Private Sector	18370
 Civil Society and Public Interest Litigation	9817
+Civil Society and Rights Concerns Despite	18655
 Civil Society and UN	16973
 Civil Society and Who Represents	11028
 Civil Society of Ménaka	17950
 Civil Society's Role	11028
-Civil Society-general	970
+Civil Society-general	970,17488
 Civil Society. Lessons	11536
+Civil Society. The Workshop	18619
 Climate and Society	14900
 Columbia University DSP Digital Society Project	10759,78,1052,451
 Commission CSO Civil Society Organization EU	11586
@@ -379,6 +386,7 @@ Energy Fund for Africa SEFCA Societe	10841
 Engaging Civil Society Organizations	10714,293
 Engineering Society of Liberia	17260
 Engineering Society of Liberia Engr. David D	17260
+Entrepreneurship and Society	18446
 Environment CSO Civil Society Organization CSU	17289
 Eritrean Law Society	14128
 Estonian Society for Laboratory Medicine	11006
@@ -441,6 +449,7 @@ Government and Society Approach	7548
 Government of Cape Verde’s Núcleo Operacional da Sociedade	181,1,8
 Governmental and Civil Society Organisations	11857
 Growth of Eswatini PRIMARY SOCIETAL OUTPUTS SECONDARY	11131
+Guinea CSOs Civil Society Organisations CSR	18504
 Guinea Ecuatorial de Telecomunicaciones Sociedad Anónima	16904,415
 Guinean Backbone Management Society	3089
 Général de Division Abdoulaye MAIGA SOCIETE	18003
@@ -457,6 +466,7 @@ Head of Communications and Societal Purpose	4085
 Head of Information Society Division	12904
 Head of Information Society-African Union Commission	16849
 Health Information and Management Systems Society	2948
+Hybrid Technology Systems Society	18446
 Hydromet Diagnostics CSO Civil Society Organization	11553
 ICT Information Society and Capacity Development	1612,1289,8329
 ICT Society	6946
@@ -477,7 +487,7 @@ IndabaX Hackathon Computer Science Society Staff	12361
 India-based Centre for Internet and Society. The CIS	4176
 Industrial Electronics Society	8606
 Industry and Society. Building Synergies and Partnerships	11221
-Information Society	437,521,3,1612,202,1191,1649,1021,312,49,41,11,86,54,14,15,10,200,448,237,777,55,1826,668,90,344,18,18,56,931,17,301,81,1428,6,13,111,519,218,456,449,377,899,99
+Information Society	437,521,3,1612,202,1191,1649,1021,312,49,41,11,86,54,14,15,10,200,448,237,777,55,1826,668,90,344,18,18,56,931,17,301,81,1428,6,13,111,519,218,456,449,377,899,99,853
 Information Society Authority	6041
 Information Society Authority RURA Rwanda Utilities	1204
 Information Society Award	1888
@@ -509,7 +519,7 @@ Interbank Society and Payment Systems	11941
 Interbank Society of Mozambique	5258,557
 International Research Institute for Climate and Society	14551,3580
 Internet Protection Society	9082
-Internet Society	961,30,1393,31,262,29,106,251,1465,1790,187,37,666,38,1001,514,657,226,10,106,484,1066,1026,176,392,216,530,420,358,382,202,216,364,452,501,1311,551,13
+Internet Society	961,30,1393,31,262,29,106,251,1465,1790,187,37,666,38,1001,514,657,226,10,106,484,1066,1026,176,392,216,530,420,358,382,202,216,364,452,501,1311,551,13,227
 Internet Society Bénin	16545
 Internet Society Cameroon Chapter	7958,6510
 Internet Society Chapitre du Burkina Faso	15671
@@ -534,6 +544,7 @@ Internet Society Pulse	6318,928,3414,3409,489,252,1234
 Internet Society Pulse URL	17488
 Internet Society RDC. Il	2415
 Internet Society Rwanda Chapter	8343,1417
+Internet Society South Sudan Chapter	18647,20
 Internet Society Sénégal Skip	18407
 Internet Society Tchad	2384
 Internet Society Togo	2280
@@ -605,6 +616,7 @@ Law Society of Namibia. PIETER KRUGER	12951
 Law Society of South Africa	7278
 Law Society of Zimbabwe	13438,857
 Lectures47 Commentaires Societe	4960,62
+Legislative Committee. Civil Society	18522
 Letshego Bank Eswatini and Swaziland Building Society	13123
 Liberia Albino Society	16950
 Liberia Engineering Society	17260
@@ -666,6 +678,7 @@ N COOPERATIVE SAVINGS AND CREDIT SOCIETY	7167
 N SOCIETE EXP MOMENTUM-SARL EXP MOMENTUM	16623
 N SOCIETE LIERKANG DIAGUISSA EN GUINEE	16623
 N SOCIETE WBHO CONSTRUCTION GUINEA SARLUNIPERS	16623
+NATIONAL BUILDING SOCIETY AFC COMMERCIAL BANK	18489
 NATIONAL DE LA SOCIETE CIVILE CONSEIL	16322
 NATIONAL PROFILE OF THE INFORMATION SOCIETY	14853
 NGO Non-governmental Organization NOSi Information Society	11863
@@ -727,6 +740,7 @@ Pharmaceutical Society of Kenya	9855
 Plano Estratégico da Sociedade de Informação	2816
 Plano de Acção da Sociedade da Informação	11396,1
 Platform Governance and Civil Society Organisations	11028
+Policy and Institutional Assessment CSOs Civil Society	18577
 Policy and Society	11135,21
 Policy. Civil Society	13346
 Politics Laws Economy Society Safety Press	18358
@@ -771,6 +785,7 @@ RWANDA INFORMATION SOCIETY AUTHORITY	15080
 Realisation of Society	12376
 Rebeuss Societe	4960,62,2035
 Recurrent Awareness Campaigns. Society	1777
+Red Cross and Red Crescent Societies	18663
 Register of Societies	1988
 Registrar of Co-Operative Societies	14798
 Registrar of Co-operative Societies	14720
@@ -949,7 +964,7 @@ Sociedades Prestadoras de Serviços de Pagamento	10755,631
 Sociedades Unipessoais	11365
 Sociedades de Clasificación	17194
 Societ	10841
-Societal	1814,1134,8058,22,209,4975,1658
+Societal	1814,1134,8058,22,209,4975,1658,617
 Societal Balance Second	11028
 Societal Change and Development. Paris	6832
 Societal Impact	16212
@@ -960,11 +975,11 @@ Societe Absolute	4960,62,2035
 Societe Generale	11372
 Societe National	17904
 Societe Petroliere Kanombe	718
-Societies	11156,1071,370,1273,3287
+Societies	11156,1071,370,1273,3287,1506
 Societies Act	13339
 Societies Registration Act	12533
 Societies and Education	6832
-Society	226,169,285,100,119,878,316,3,422,1264,471,423,548,125,15,1566,956,237,7,330,10,394,55,148,154,143,35,193,228,205,701,93,209,22,85,5,16,698,73,28,143,129,4,145,77,221,303,290,91,327,306,160,313,272,980,101,141,522,195,173,279,532,98,3,12,8
+Society	226,169,285,100,119,878,316,3,422,1264,471,423,548,125,15,1566,956,237,7,330,10,394,55,148,154,143,35,193,228,205,701,93,209,22,85,5,16,698,73,28,143,129,4,145,77,221,303,290,91,327,306,160,313,272,980,101,141,522,195,173,279,532,98,3,12,8,826,18
 Society Authority	15936
 Society COMGOV Government Communication CTI Centre	13312,2
 Society Division and Ms. Souhila Amazouz	1243
@@ -972,7 +987,9 @@ Society Index	14674
 Society Library	11237,21,28
 Society Libyan Society for Remote Sensing and Geographic	16916
 Society Networks	13557
+Society Organisation DBMS Data Base Management	18578
 Society Organization	16970
+Society Organization EPI Extended Programme	18512
 Society SIDO Small Industries Development Organization	7763
 Society Yaounde	10971
 Society and Environment	15715
@@ -1004,9 +1021,11 @@ Sonangol Sociedade Nacional de Combustíveis de Angola	11380
 South African Society	11289
 South African Society of Archivists	8021
 South Korea’s National Information Society Agency	13551
+South Sudan Law Society	18631
 Southern Africa Partnership Red Cross Societies	12977
 Southern Civil Society Wants	6960
 Statistics CSOs Civil Society Organizations CSCA	13005
+Stats SL and Civil Society Organisations	18464
 Strategic Plan for Information Society	12161
 Sudanese IT Society	14853
 Sudanese Internet Society	14853
@@ -1061,6 +1080,7 @@ V SOCIETE TOP GUINEE IDE SARL	16623
 V SOCIETE WINNING CONSORTIUM RAILWAY GUINEA	16623
 VIOLENT SOCIETAL CONFLICTS AND INTELLIGENCE MEASURE	11277
 Vacoas Popular Multi-purpose Co-operative Society Ltd	14774
+Vital Statistics CSO Civil Society Organizations	18478
 W SOCIETE BCG SA SOC BCG	16623
 W SOCIETE ENDEAVOUR GUINEE SARLUNIPERS ENDEAVOUR	16623
 W SOCIETE FLUICONNECTO GUINEE SARLUNIPERS F	16623

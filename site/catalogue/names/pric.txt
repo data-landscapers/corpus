@@ -66,6 +66,7 @@ CURRENT FUEL PRICES Current Energy Prices	12515
 Cameroon Cocoa Farmgate Prices Rise CFA250	965,3924,206
 Carbon Pricing System	12389
 Carl Prichadin	15901
+Ceiling Price for Voice Calls	18560
 Cell C Home LTE Price Plan	11259
 Challenges and Mitigation Calculating ICT Price Basket	15120
 Change Prices	12389
@@ -82,11 +83,13 @@ Company Share Price	4896
 Competition Drove Prices Down	14297
 Compilation of Services Producer Price Index	14777
 Conduct Consumer Price Index	17116
-Constant Prices	2775,14460
+Constant Prices	2775,14460,1248
+Constant Prices ESTIMATES AT CONSTANT	18483
+Constant Prices GDP	18483
 Construction Input Price Index CMA Capital	2775
 Construction Input Price Indices	2775
 Consumer Price Basket	2775
-Consumer Price Index	2775,808,131,1883,2930,725,1882,155,135,979,559,517,1298,119,1,1032,1006,1250
+Consumer Price Index	2775,808,131,1883,2930,725,1882,155,135,979,559,517,1298,119,1,1032,1006,1250,257,33,8,223
 Consumer Price Index CSD Central Securities	15023
 Consumer Price Index Manual	11258
 Consumer Price Index Recommendations	14777
@@ -99,6 +102,7 @@ Consumer Price Indices Kenya	2775
 Consumer Price Indices for Food and Non-Alcoholic Beverages	2775
 Consumer Price Indices for Nairobi Lower Income	2775
 Consumer PriceIndices	16833
+Consumer Prices Index	18483
 Consumer Prices Index CSOs	14857
 Contract Administration Price Code	13385
 Contract Administration PriceCode	13385
@@ -116,7 +120,10 @@ Cross-Border Carbon Pricing Instruments	12389
 Crude Oil Price	12256
 Current Energy Prices	12515
 Current Market Prices	2775
-Current Prices	2775
+Current Price Estimates HFCE	18483
+Current Prices	2775,15708
+Current Prices Figure	18483
+Current Prices GDP	18483
 Custom Duties Unit Price	13185
 D PRICE WATERHOUSE CONSEIL PWC	16623
 D-IND-ICT PRICES.01-2019-PDF-E.pdf ITUPublications Measuring	15471
@@ -172,6 +179,8 @@ Financial Evaluation Price	17068
 First Quarter African Prepaid Pricing Index	236
 Fixed Internet Retail Price	17862
 Floor Price On Mobile Data	17113
+Floor Price for Data	18560
+Floor Price for Voice Calls	18560
 Food Commodities Prices Death	16902
 Food Price Index	15620
 Food Price Monitoring and Analysis	15620
@@ -194,6 +203,7 @@ GETESA MUNI DATA TIME PRICE DATA	16942
 GIEWS Food Price Monitoring and Analysis	16464,708
 Gasoil Price	17177
 General Price Code	13385
+Get Price	18540
 Global Average Consumers Price Inflation	17235
 Global Price	962
 Government. Price	1284
@@ -202,6 +212,7 @@ Guidance for Design Price Code	13385
 Guidelines and Performance. The Somalia ICT Price	15120
 H.E. Rose Pola Pricemou	16679
 HRH Price Lonkhokhela	12969
+Harmful Operations. CHAPTER IX PRICING	18602
 Harmonised Consumer Price Index	12962
 Harmonized Consumer Price Index	12962
 ICT Price Basket	11262,137
@@ -264,7 +275,7 @@ Manufacturer’s Suggested Resale Prices	11036
 Manufacturing Price Code	13385
 Market Price	17235
 Market Price Reference Catalogue	12956
-Market Prices	2775,2121
+Market Prices	2775,2121,13810
 Market and Price Stabilization	17285
 Maximum Retail Price	14818
 Maximum Wholesale and Retail Prices of Bread	12930
@@ -317,7 +328,8 @@ PPI Producer Price Index PSDS Public	14777
 PREPAID DATA PRICES	11211
 PRICAO	15671
 PRICE	7763,3489,1143
-PRICES	962,10249,1849
+PRICES	962,10249,1849,5423
+PRICES Contact Persons	18483
 PRICING METHOD	16844
 PRICING POLICY FOR THE PAYMENT	16844
 PRICING RULES OR STANDARDS	5872
@@ -347,9 +359,11 @@ Price Developments Inflationary	11134
 Price Developments Liberia	17235
 Price Eswatini Electronic Communications Services of Data	12395
 Price Flat Rate	9409
+Price Floor of Le	18444
 Price Index	2775,8377
 Price Index CRDP Comprehensive Rural Development	11261
 Price Index CSO Civil Society Organizations	17149
+Price Index Figures	18442
 Price Index MAURITIUS	14777
 Price Index PPL Private Pilot License	2775
 Price Information Capital Revenue	3583
@@ -362,6 +376,8 @@ Price Monitoring and Control Application’. Initiated	14750
 Price Nakfa	13954
 Price Name of Bidder	13185
 Price Negotiation Committee Established	12912
+Price Norm	18562,15
+Price Norm Survey Module	18562
 Price Proposal	11209
 Price Proposal Requirement Annexure B	11240
 Price Proposal for RFP N 96 2024 SOM	14927
@@ -382,11 +398,12 @@ Price Stabilization Fund Administration Committee	16902
 Price Stabilization Fund Annycke Pascal Yahya	16902
 Price Stabilization Fund Universal Subsidies	16902
 Price Statistics	11237,5912
+Price Statistics Expanded	18607
 Price Statistics Expert	14777
 Price Statistics Section	12962
 Price Subsidy Reform	13332
 Price Transformation	12395
-Price Waterhouse Coopers	1814,15421
+Price Waterhouse Coopers	1814,15421,1214
 Price Waterhouse and Coopers	1814
 Price and Completion Schedule	13185
 Price and Melon Mobile	10537
@@ -404,10 +421,13 @@ Priced Code	13385
 Pricelist Namibia	12478
 Pricelist for RINEX	14864
 Pricemou	4369
-Prices	970,43,625,213,924,808,837,1454,1372,122,343,40,707,1301,1393,106,305,693,133,11,3,133,426,223,127,2,554,117,609,80,45,4,43,314,40,304,47,2,713,986,790
+Prices	970,43,625,213,924,808,837,1454,1372,122,343,40,707,1301,1393,106,305,693,133,11,3,133,426,223,127,2,554,117,609,80,45,4,43,314,40,304,47,2,713,986,790,521,5
 Prices Adjusted	2775
 Prices CPI	17209
+Prices GDP	18483
 Prices Inflation	17503
+Prices Taxes	18483
+Prices URL	18483
 Prices and In-bundle Rates for Standard Daily Data	11259
 Prices and Inflation	14734
 Prices and Other Charges	12629
@@ -434,10 +454,13 @@ Pricing Structure Evaluation	15120
 Pricing The Bank of Zambia	12364
 Pricing The Charges	12364
 Pricing and Affordability	16886
+Pricing and Fees	18601,1
 Pricing for Data Protection Training	2987
 Pricing of SaaS	16923,1
 Pricing. Available	13461
-Producer Price Index	2775,8377,106,1704,1815,2372
+Principles and Criteria for Pricing Interconnection Services	18602
+Procurement Planning and Price Norm Survey	18562
+Producer Price Index	2775,8377,106,1704,1815,2372,1326
 Producer Price Index Public Sector Debt	14777
 Producer Price Index Recommendations	14777
 Producer Price Index SARB South African	11258
@@ -445,6 +468,7 @@ Producer Price Indexes PSDS Public Sector	14777
 Producer Price Indices and Construction Sector Indices	15085
 Producer Prices	2775
 Producer Prices Index	2775
+Producers Price	18442
 Producing Consumer Price Indices	11258
 Project Specification Price Code	13385
 Project Specification PriceCode	13385
@@ -453,12 +477,14 @@ Proposal Price	15080
 Proposal Prices	15080
 Public Procurement Authority’s Average Price Database	15845
 Public Sector Reform Secretariat and PricewaterhouseCoopers	8367
+Publication of Price Norm NPPA	18577
 Purpose CPI Consumer Price Index CPIS	14777
 Purpose CPI Consumer Price Index CSIOs	16935
 Purpose CPI Consumer Price Indexes DQAF	14777
 PwC Price Waterhouse and Coopers SDG Sustainable	1814
 Q1 African Prepaid Pricing Index	236
 Quantum and Price Indices of Recorded Sales of Agricultural	2775
+Quarterly Business Survey and Manufacturing Producers’ Price	18475
 Quarterly Construction Inputs Price Indices and Inflation	2775
 Quarterly Producer Price Index	2775
 RAMP Index. Prices	9759
@@ -485,6 +511,7 @@ Retail Fuel Price Deviation	1828
 Retail Price of Internet	15424
 Retail Prices of Internet Services Sources	15424
 Retailing Price Code Gr	13385
+Revenue Mobilization and Fuel Pricing	18500
 Revised Raw Water Pricing Strategy	8599
 Rising Prices and Regulatory Scrutiny Starlink	4601
 Risk-Based Credit Pricing Model	9487
@@ -497,6 +524,7 @@ Rose Pricemou	2887
 SMARTPHONE PRICE	11262
 SOUTH AFRICAN PRICING	11252
 SYSTEM CODES TARIFF PER TRANSACTION PRICING	16844
+Safe Harbour Pricing Rules	18577
 Sale Price Flat Rate	9409
 Screwdrivers Price Code	13385
 Section. Prices	14766
@@ -510,6 +538,7 @@ So Price	15471
 Somalia’s ICT Price Basket Indicators	15120
 South Africa. Pricing	1553
 South African Residential Property Price Index	11286
+South Sudan's Digital Future By Pricilla	18669
 Spectrum Pricing	5390,9507
 Spectrum Pricing The GSMA	14897
 Spectrum Pricing and Renewals for Sustainable Investments	5390
@@ -526,10 +555,12 @@ TMX Volume and Prices TMX ONLINE COMMODITY	7763
 Target Completion Retail Price of Internet	15424
 Target Price	11857
 Target Price5	11857
+Tariff and Pricing Mechanism of Products and Services	18444
 Tarpaulins Price Code	13385
 Technology Transfer Is Rwanda’s Latest Pricey	3256
 Trading Market and Price	7198
-Transfer Pricing	573
+Training of Transfer Pricing Formula. NRA	18577
+Transfer Pricing	573,18004
 Trends of Starlink Price Adjustments	1926
 Typical Bills of Quantities Price Code	13385
 U Unit Price	7538,6486
@@ -549,6 +580,7 @@ Valves Price Code	13385
 Volume Weighted Average Price	4896
 Volume Weighted Average Prices	4896
 Wasteless Dynamic Pricing Wasteless	7966
+Weekly Market Prices Trend	18706
 Weighted Average Sale Price for Residential Properties	2775
 Wh. Prices	10995
 Wholesale Price Relationships The Authority	17212

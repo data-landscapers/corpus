@@ -10,7 +10,7 @@ Artisanat Monsieur Nicaise Mesmin DEGNON Membre	16485
 Assessment Notice P7-25. Degree	12500
 BEstudio Degreed Bizvy Deutsche Lufthansa AG	8530
 BSc Degree	16947
-Bachelor Degree	14775
+Bachelor Degree	14775,3854
 Bachelor of Arts Degree	6946,4185,3
 Bachelor of Arts Degree Course	17228
 Bachelor of Arts Social Science Degree	11131,3
@@ -59,7 +59,7 @@ Degradantes	17194
 Degradation	15129,2011,1153
 Degraded	17140
 Degraded Forest	17140
-Degrading Treatment	3583,8182,1275,1702,97,2119
+Degrading Treatment	3583,8182,1275,1702,97,2119,1479
 Degree	1219,2568,271,838,351,2512,3103,269,810,234,325,193,4375,31,1194,61
 Degree Call Flow Chart Satisfied Satisfied	16889
 Degree Programs Diploma Programs Short-term Courses	17232
@@ -94,6 +94,7 @@ Forest Degradation. Liberia	17140
 Gambian Standard for Degermed Maize Meal and Maize	16900
 Gobolka Banaadir Degmo	15153
 High Degree	17157
+Highest Degree Male Female Sum	18578
 Honours Degree	11131
 Hons Degree	4896
 Hyacinthe Gombe Degueret	1806
@@ -126,7 +127,7 @@ Master's Degree	1154,400,2124,9008,410
 Master's Degree Programme	8861
 Master's Degrees	1154,15962
 Masters Degree	12431,2344
-Master’s Degree	6946,3114,1071,3,1838
+Master’s Degree	6946,3114,1071,3,1838,5491
 Master’s and Doctoral Degrees	11131,3
 Minimum Degree	13185
 Monsieur Kévin DEGILA Au	17584

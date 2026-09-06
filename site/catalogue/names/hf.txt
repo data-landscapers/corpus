@@ -4,6 +4,7 @@ Base HF HF	998
 CHINA CODAN TQJ350M Station Relais HF	998
 Category Marine HF	17250
 Consommation HFO	10975
+Current Price Estimates HFCE	18483
 Development HF	16041
 Duplex HF	17250
 Electricité HFO Heavy Fuel Oil INS	10975
@@ -14,6 +15,7 @@ HF District Hospital	12379
 HF High Frequency ICANN Internet Corporation	6946
 HF Level Cell	12413,2643
 HF PMR Fixed	6946
+HF Services	18444
 HF Supervision	15056
 HFCSS	17334
 HFCoL Minister of Tertiary Education	14747,28

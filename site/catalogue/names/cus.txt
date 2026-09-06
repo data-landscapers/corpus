@@ -8,6 +8,8 @@ ASYCUDA Automated System for Custom Data ATM	16876
 ASYCUDA Automated System for Customs Data ASYCUDA	16631
 ASYCUDA Automated System for Customs Data AWP	969
 ASYCUDA Automated System for Customs Data AWPB	16949
+ASYCUDA Automated System for Customs Data BCC	18577
+ASYCUDA Automated System for Customs Data CMC	18500
 ASYCUDA Automated System for Customs Data CatIS	13861
 ASYCUDA Customs Digitalization	13042
 ASYCUDA Customs G2B	13314
@@ -27,6 +29,7 @@ ASYCUDAWorld Customs Declaration Processing System	15478
 ASYCUDAWorld Customs Management System. Result	16631
 AWS Local Zone. Customers	1729
 Achieved Customs	10870
+Act and Customary Land Right Act	18534
 Act. Customary	1988
 Actor Customer	9124
 Added Tax WCO World Customs Organization	12951
@@ -53,6 +56,7 @@ Anticipated Customers	16884
 Anticipated Customers and Operators Beneficiaries	16884
 Anticipated The Customers	16884
 Area ASYCUDA Automated System for Customs Data	12951
+Assistant Commissioner of Customs	18736
 Authority KYC Know Your Customer ProGres	12227
 Authority. The Customs Division	10419
 Automated Customer Engagement	7334
@@ -123,10 +127,12 @@ CUSTOMERS RELATIONS	14867
 CUSTOMETRIX LIMITED Data Processor INST-564420C3916 NAIROBI	7167
 CUSTOMIZATION	15080
 CUSTOMIZED PLATES	16935
+CUSTOMS ACT	18450,91
 CUSTOMS AND TRADE REGULATIONS	12389
 CUSTOMS DEPARTMENT	14816
 CUSTOMS ENFORCEMENT CAPABILITIES Serving	13108
 CUSTOMS LAW CHAPTER ONE Definitions Article	15492
+CUSTOMS TARIFF ACT	18450,91
 Cabo Verde Digital Project Supports Customs	16503
 Caledonia Customs Process Modernization	16631
 Call Center for NRB Customer	12241
@@ -156,6 +162,7 @@ Century Customs Service	8278
 Certificates of Customary Ownership	1391,8336
 Chain of Custody	16848,5
 Chain of Custody Information System	16843
+Change of Customer Information. Subscribers	18452
 China Customs	14789
 Clima CUS Cobertura Universal de Saúde DHIS2	15966
 Collect Customs	14076
@@ -200,7 +207,7 @@ Custodial	8840
 Custodial Account	11233
 Custodian	1214,11496,1835,299,153
 Custodians	4583,8299,25,2127
-Custody	9437,1739,3399
+Custody	9437,1739,3399,3981
 Custody and Convicted Prisoners	13948
 Custody and Guardianship	12977
 Custody and Guardianship Cases	12977
@@ -221,19 +228,23 @@ Custom Smiles Dental Data Processor INST-972332AEACB	7167
 Custom Supplement	15619,1019
 Custom-made	15285
 CustomVar	3212,2216,578
-Customary	1988,7739,1233,1952,2561,184,1175,119,92,71,10,3,13,1153
+Customary	1988,7739,1233,1952,2561,184,1175,119,92,71,10,3,13,1153,145
 Customary Conflict Resolution Advisory Committees	11900
+Customary Courts	18615
 Customary Land Act	446,12614
 Customary Land Committees and Traditional Authorities	13060
 Customary Land Formalization	16970
+Customary Land Registration	18538
+Customary Land Registration Commences	18538
 Customary Land Secretariat	16511
 Customary Marriage	12226
+Customary Mechanisms for Dispute Resolution	18631
 Customary Practice	12226
 Customary Practices	12226
 Customary Right of Use Certificate	10930
 Customary Rights	17114
 Customary Tenure Convention Regulation	1988
-Customer	24,934,2529,691,670,301,77,451,2,8,182,231,840,222,229,77,321,118,106,5,585,237,206,77,1,193,214,324,1,705,232,224,114,3,4,71,22,536,90,4,94,21,86,60,86,48,41,18,39,10,136,51,1,94,305,54,31,496,34,302,93,190,288,235,49,111,33,30,68,32,26,19,88,285,78,107,113,1129,9,9,18,45,1,215,97,487,463,31
+Customer	24,934,2529,691,670,301,77,451,2,8,182,231,840,222,229,77,321,118,106,5,585,237,206,77,1,193,214,324,1,705,232,224,114,3,4,71,22,536,90,4,94,21,86,60,86,48,41,18,39,10,136,51,1,94,305,54,31,496,34,302,93,190,288,235,49,111,33,30,68,32,26,19,88,285,78,107,113,1129,9,9,18,45,1,215,97,487,463,31,403
 Customer API	14438
 Customer Acceptance Form Tabulated	9124
 Customer Acceptance Policy	13961
@@ -282,6 +293,7 @@ Customer Fulfilment Specialist	6946
 Customer ISPs	14864
 Customer Interruption Duration Total Number of Customer	14867
 Customer Journey	14921
+Customer LAN Local Area Network M&E	18454
 Customer Location	8999
 Customer MAN Metropolitan Area Network MDA	13312,2
 Customer Management System	12358
@@ -305,7 +317,7 @@ Customer Scale	4442
 Customer Scale Vodacom	4442
 Customer Segmentation	12444
 Customer Segments	12297
-Customer Service	16266,969
+Customer Service	16266,969,1215
 Customer Service Charter	12345
 Customer Service Credit Scoring	4848
 Customer Service System	11939
@@ -334,7 +346,7 @@ Customer-owned	9123
 Customer. Article	14867
 Customer. The Customer	9123
 CustomerSatisfactionandSurvey	4554
-Customers	767,291,671,796,359,128,625,579,366,681,26,144,41,47,208,373,3,145,61,39,12,136,276,118,212,152,21,24,48,33,85,42,116,14,8,149,221,106,75,94,140,159,117,3,131,29,128,47,25,48,4,160,172,105,19,200,253,103,68,25,83,328,26,37,36,60,58,102,205,134,459,197,2,37,218,82,23,301,311,42,303,1,878,193,293,230,130,26,107,39,124,178,129,1206,29,16,27,11,34,1,193,39,95,359,16,103
+Customers	767,291,671,796,359,128,625,579,366,681,26,144,41,47,208,373,3,145,61,39,12,136,276,118,212,152,21,24,48,33,85,42,116,14,8,149,221,106,75,94,140,159,117,3,131,29,128,47,25,48,4,160,172,105,19,200,253,103,68,25,83,328,26,37,36,60,58,102,205,134,459,197,2,37,218,82,23,301,311,42,303,1,878,193,293,230,130,26,107,39,124,178,129,1206,29,16,27,11,34,1,193,39,95,359,16,103,973
 Customers Are Transferring Their Own Funds	6362
 Customers CHAPTER	12616
 Customers Complaints	17235
@@ -343,6 +355,7 @@ Customers IT Infrastructure Resources Management	9123
 Customers Increase	12256
 Customers Investors	7204
 Customers M-PESA Network People	7204
+Customers Need	18513
 Customers The Customer	14867
 Customers and PURA Beneficiaries	16884
 Customers and Providers. Customers	9123
@@ -353,8 +366,9 @@ Customers. Based	9123
 Customers. CHAPTER II	14867
 Customers. Network and Infrastructure Security Cloud	9123
 Customers’ Deposits	17236
-Customisation	8606,3380
+Customisation	8606,3380,6591
 Customised	899,8556
+Customised Sierra Leone Cash Forecasting and Analytical	18488
 Customised XML Pivot	8606
 Customizable	12246
 Customizableandscalablefuzzy	8606
@@ -364,9 +378,9 @@ Customizations	16923,1
 Customize M&E	12399
 Customized	11191,5966
 Customizing	12359
-Customs	7,177,52,733,186,88,585,284,280,150,1878,827,243,165,4,66,1787,36,147,120,143,9,200,111,649,416,18,384,674,136,230,60,131,60,100,122,31,235,342,8,7,1,74,125,265,18,28,18,90,39,115,302,86,9,2,55,206,249,61,27,217,100,248,114,79,117,7,58,127,35,36,25,14,3,12,54,32,56,220,16,119,133,5,14,14,60,53,357,322,333,106,106,39,19,22,19,5,21,43,94,130,132,103,87,65,487,176
+Customs	7,177,52,733,186,88,585,284,280,150,1878,827,243,165,4,66,1787,36,147,120,143,9,200,111,649,416,18,384,674,136,230,60,131,60,100,122,31,235,342,8,7,1,74,125,265,18,28,18,90,39,115,302,86,9,2,55,206,249,61,27,217,100,248,114,79,117,7,58,127,35,36,25,14,3,12,54,32,56,220,16,119,133,5,14,14,60,53,357,322,333,106,106,39,19,22,19,5,21,43,94,130,132,103,87,65,487,176,165,91,36,31
 Customs ASYCUDA	17367
-Customs Act	7695,3341,1593,2089,91,5,14,3,12,2265
+Customs Act	7695,3341,1593,2089,91,5,14,3,12,2265,1342,16,75
 Customs Act. Amiwero	9361
 Customs Administration	5619,9859
 Customs Administration of Kosovo	15478
@@ -426,7 +440,7 @@ Customs Duties	2117,10594,2930
 Customs Duties and Related Charges Customs	17011
 Customs Duties and Related Charges No. Customs	17011
 Customs Duty	14828,3,2051,117,259
-Customs Electronic Single Window	14145
+Customs Electronic Single Window	14145,4343,89
 Customs Enforcement Activities Photo Credit	13053
 Customs Environment Scan	13051
 Customs Exemptions	11939
@@ -486,10 +500,13 @@ Customs Risk Parameters	17367
 Customs Scanner Server Room	13044
 Customs Seaport Celebrates Three Newly	17064
 Customs Service	8499,3352
+Customs Service Act	18608
 Customs Services	10785
 Customs Services Division	13403
+Customs Single Window	18577
+Customs Single Window System	18541
 Customs Tariff	14828,3,661,1519
-Customs Tariff Act	14814,14,3,12
+Customs Tariff Act	14814,14,3,12,3607,16,34,41,36
 Customs Tariffs	15492
 Customs Tax	15492
 Customs Tax Article	15492
@@ -507,7 +524,7 @@ Customs and APM Terminals Liberia	17367
 Customs and Border Protection	11036
 Customs and Economic Union of Central Africa	10841
 Customs and Excise	5247,7397,409,55
-Customs and Excise Act	11181,9,73,2087,53,46,47,110,3362
+Customs and Excise Act	11181,9,73,2087,53,46,47,110,3362,1498
 Customs and Excise Act Chapter	13346
 Customs and Excise Bills	7695
 Customs and Excise Cases	13053
@@ -616,6 +633,7 @@ EAC Customs Union Protocol	13357
 EAC Deputy Secretary General for Customs	6096,746
 EAC Trade and Customs	7548
 ECOWAS Customs Union	7452
+EDSA’s Customer Service Improvement Plan	18537
 EDT U.S. Immigration and Customs Enforcement	9747,54,3,23
 ERS Commissioner of Customs	13051
 ERS Customs Bank Account	13195
@@ -630,7 +648,7 @@ Ecobank. Customers	9449
 Egypt. Customers	6528
 Egyptian Customs Authority	11642
 Electricity Corruption Customs	16996
-Electronic Know Your Customer	8971,4105,1886
+Electronic Know Your Customer	8971,4105,1886,3511
 Electronic Know Your Customer-eKYC	9069
 Elevate Customer Satisfaction and Experience	3487
 Eligible Customer Regulations EEDC Enugu Electricity	12062,6124,31
@@ -690,6 +708,7 @@ GUE Customs G2G	13314
 Gabon Customs	15478
 Gambia. Customary	16951
 Games Customer Service Week COMESA Committee	11131
+Gendema Customs	18500,77
 General Department of Customs and Excise	13042
 General Directorate of Customs	10870,5633
 General Directorate of Customs and Excise	477
@@ -718,6 +737,7 @@ III. ARN CUSTOMER	5679
 IMPLEMENTAÇÃO E CUSTOS	11406
 INSTRUCTION TO FINANCIAL INSTITUTIONS ON CUSTOMER	14099
 ISPs. Customers	11506
+ITAS. Advancement of Customs Electronic Single Window	18577
 Identification System ASYCUDA Automated System for Customs	17105
 Impact and Transformation Customer Base	14151
 Imported Vehicle Licensing Controls From Customs	16631
@@ -734,6 +754,7 @@ Insurance and Freight CEPS Customs	236
 Integrated Border Declaration Form Customs Tax	12454
 Integrated Customer Satisfaction Survey	11986
 Integrated Customs Management System	8545,891,983,103,102,412,5134
+Integrated Customs Management System and Customs Single	18577
 Interfering With Child Custody	16935
 International Customers	17694
 International Customs Day	11575,1467,9
@@ -751,7 +772,9 @@ KYC Know Your Customer	7763
 KYC Know Your Customer LMP Labor	15518
 KYC Know Your Customer LTE Long	16942
 KYC Know Your Customer MICS Multiple	15415
-Know Your Customer	1880,36,639,23,227,36,269,7,284,28,79,139,464,737,7,179,335,170,226,232,100,80,10,45,513,476,298,82,162,171,159,943,320,59,350,85,6,151,22,101,450,2,132,90,18,17,144,981,12,62,106,83,14,7,26,17,6,20,6,109,17,214,21,6,288,8,22,72,15,437,9,397,536,29,316,15,613,46,25,383,1475,161,595
+Know Your Customer	1880,36,639,23,227,36,269,7,284,28,79,139,464,737,7,179,335,170,226,232,100,80,10,45,513,476,298,82,162,171,159,943,320,59,350,85,6,151,22,101,450,2,132,90,18,17,144,981,12,62,106,83,14,7,26,17,6,20,6,109,17,214,21,6,288,8,22,72,15,437,9,397,536,29,316,15,613,46,25,383,1475,161,595,359,211
+Know Your Customer Facility	18471
+Know Your Customer FinTech Financial Technologies	18454
 Know Your Customer Lesotho Wire Local	12701
 Know Your Customer LoA Level of Assurance	12663
 Know Your Customer MDA Ministry Department	14965
@@ -784,6 +807,7 @@ MANSA Customer Due Diligence Repository	11809
 MB. Customers	11083
 MICDE Trade and Customs	7548
 MRA Customs	14736,92,3
+Maintain and Establish Customer Records	18599
 Majesty's Revenue and Customs	17367
 Majesty’s Revenue and Customs	16923
 Mandatory Crediting of Customer Accounts	12579
@@ -857,6 +881,7 @@ Posts and Points and Customs	10762
 Pre-arrival Customs TONGA Processing	16631
 Principal Customs and Excise Officer	13108
 Principal Programme Officer for Tariffs and Customs Regimes	4827
+Private and Customary Land	18465
 Processing Fee for Simplified Customs Assessment Form	14828,3
 Prof. Doutor Ricardo Custódio	2816
 Protection Customer Support Description Detailed	5676
@@ -867,6 +892,8 @@ Publications International Customs Day	13051
 Quarterly Active Customers	9735
 RECURSOS FINANCEIROS E CUSTOS DO PROGRAMA	17093
 REDUÇÃO DO CUSTO DA GOVERNAÇÃO	16487
+REGISTRATION OF CUSTOMARY LAND	18465
+REGISTRATION OF LAND SUBJECT TO CUSTOMARY	18465
 REQUIREMENTS FOR KNOW YOU CUSTOMER	5687
 RTP and SWIFT. Customers	9834
 Raxio Group Customers	7752
@@ -878,6 +905,8 @@ Reform and Modernization of Customs	16631
 Refund of Customs Taxes	15492
 Regional Customs Transit Guarantee Scheme	13563
 Regional Distribution of Customer Connections Changes	12969
+Register CESW Customs Electronic Single Window	18500
+Registration of Customary Marriage and Divorce Act	18440
 Regulation. The Customer	14867
 Regulators and MRA Customs	14736
 Regulatory Agencies CDS Customs Declaration System	13042
@@ -915,6 +944,7 @@ Sharia and Customary Courts of Appeal	12063
 Shilling KYC Know Your Customer LG	14674
 Shirkada Isgaarsiinta Jiilka Cusub	15168
 Sierra Leone Police for Know Your Customer	9096
+Signing and Customisation	18577
 Simplified Customer Due Diligence	17183
 Simplified Customs Declaration Management and Recovery	17011
 Simplified Customs Declarations	15478
@@ -936,12 +966,14 @@ Southern African Customs Union Southern African	11131
 Special and Bilateral Customers	12062,6124,31
 Standard and Custom Software	14766,314
 State Customs Service of Turkmenistan	15478
+Statutory and Customary Justice	18631
 Stringent Know-Your Customer Policies	940
 Sudan Customs	3040
 Support of MSB Contestable Customers	12399
 System COCS Chain of Custody System CSO	16843
 System Migration and Customization Eswatini	13042
 System for Custom Data CBG Central Bank	16927
+System for Customs Data BCC Budget Call	18488
 Systems and Customer Relationship Management	14524
 Tax CSD Customs Services Department DTD	14985
 Tax and Customs	12162,277,517,1941,2071,43
@@ -966,6 +998,7 @@ Trade Tools International Standards for Customs	13051
 Trade and Development Automated Customs System	17870
 Transforming Customer Experience and Service Quality Product	14151
 Turkmenistan From Customs Modernization	16631
+UNCTAD. The Customs Electronic Single Window	18500
 Under the Union Customs Code	11036
 Understanding the Customers’ Perception	226
 Union Customs Code	11036
@@ -982,6 +1015,7 @@ VIII. International Customs Day	13053
 VSLAs and CUs	17235
 Values Customer	7221
 Vanuatu Customs	13042
+Verify Customer's Identity	18599
 Vice President and Head of Customer Unit West	4906
 Virtual Assets Customer-permissioned	12444
 WCO Smart Customs Portal	14789

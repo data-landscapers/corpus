@@ -49,7 +49,7 @@ Appel. TITRE V	37
 Ariary. TITRE VIII DISPOSITIONS TRANSITOIRES ET	14417
 Arrondissements Communaux. V. AU TITRE	18227
 Assemblée Générale. TITRE III POSITI S	15400
-Assignment Title	9603,1,6889,762
+Assignment Title	9603,1,6889,762,1320
 Attribution des Titres Tarification SSEC	10975
 Attributions des Titres	10975
 Attributions des Titres En	10975
@@ -73,6 +73,7 @@ Babimo. Titulaire	8162
 Bank Al Maghrib. TITRE VI	17443
 Bank Staff Name Role Title Specialization	15411
 Banque Centrale. TITRE V OBLIGATION D’INFORMATION	17816
+Bill and Land Title Registration Bill	18534
 Body Document Title	15161
 Bolama Tite Tite Idem Idem Buba	17147
 Burkina Faso. I.3. AU TITRE	15942
@@ -86,6 +87,7 @@ CEMAC. TITRE	15442,1
 CEMAC. TITULO III CARACTERISTICAS DEL PASAPORTE	16871
 CESSION A TITRE ONEREUX Denis SASSOU-N’GUESSO	15488
 CFA. TITRE IX	15780
+CHAPTER I PRELIMINARY PROVISIONS Title and Commencement	18675
 COBAC. TITRE	15443
 COBAC. TITRE IO	15443
 COG 2024 FINDEX v02 M Title The Global Findex Database	15844
@@ -204,6 +206,7 @@ Director General and Chief Registrar of Land Titles	6703
 Director of Communications Titus W. Tokpah	8860,352
 Director of Financial Markets. Titus	12951
 Directorate of Land Titles and National Cadastre	3042
+District Title Registry	18465
 Djôrô. G. AU TITRE DU MINISTERE	7670
 Document Title Citation Relevance Vision	12512
 Document Title Vision	4528
@@ -461,6 +464,7 @@ Ola Hodne Titlestad	7027
 Old Title Deeds	13398
 Ouagadougou. I.5. AU TITRE DU MINISTERE	7670
 P TITRE VIII	15584
+P176181 Project Title	18711
 PAIEMENT DE L'UEMOA AU TITRE	10922
 PART I Preliminary Provisions Title	13606
 PART I Preliminary Title	736
@@ -479,6 +483,7 @@ PRODUITS SUR OPERATIONS SUR TITRES ET	18032
 PROPOSAL SUMMARY Title	13999
 PROTECTION PENALE DES SYSTEMES INFORMATIQUES TITRE	15584
 PROVAS DE INGRESSO PARA TITULARES	17103
+PROVISIONS Title and Commencement Repeal and Saving Purpose	18675
 Painting Tito Vicente Samossi Joaquim	10776
 Paix. AU TITRE DU MINISTERE	8237
 Parlement Titre	16047
@@ -510,6 +515,8 @@ REVENUS DES TITRES A REVENU VARIABLE	17841
 Ralph Mupita Title	7198
 Registre National des Titres Fonciers	16420
 Reglamento Aplicación. TITULO I DEFINICION ARTICULO	16871
+Regulatory Reforms DESCRIPTION DATE OF TITLE	18488
+Regulatory Reforms TITLE OF DOCUMENT	18577
 Rencontres du Marché des Titres Publics	18377,12
 Repeal of Laws and Short Title	512
 Republic of Guinea-Bissau Contact Title Telephone No	11560
@@ -548,6 +555,7 @@ SN TITLE SURNAME NAME DESIGNATION MINISTRY	14770
 SOMMAIRE TITRE	11522
 SOMMES DUES AU TITRE DES ARTICLES	15901
 SOUS- TITRE	15534
+SSD 2010-2025 JMR v01 M Title	18645,79
 STRUCTURE DU PROJET DE DÉCRET TITRE	14483
 Salut du Peuple. AU TITRE	8269
 Sam Darwish Title	7198
@@ -839,7 +847,7 @@ Tithe	3972
 Titie	3972
 Titilayo ADJAÏ	16485
 Titina Sylla	5402
-Title	25,153,232,204,2,120,253,697,191,111,1101,707,176,2460,152,37,152,224,853,696,887,8,164,1270,26,11,1,1,6,2,10,197,77,63,211,731,42,49,81,27,41,33,57,132,98,177,89,148,113,4,5,65,9,17,161,47,15,255,534,303,45,44,48,15,67,467,101,161,240,243,45,643,1,7,20,76,5,173,66,70,88,589
+Title	25,153,232,204,2,120,253,697,191,111,1101,707,176,2460,152,37,152,224,853,696,887,8,164,1270,26,11,1,1,6,2,10,197,77,63,211,731,42,49,81,27,41,33,57,132,98,177,89,148,113,4,5,65,9,17,161,47,15,255,534,303,45,44,48,15,67,467,101,161,240,243,45,643,1,7,20,76,5,173,66,70,88,589,538,94,34,89
 Title Affiliation No Chief Executive Officer	9855
 Title Affiliation No Project Director Jhpiego	9855
 Title Chapter Extent of Repeal Criminal Code	11857
@@ -874,7 +882,10 @@ Title Office Phone City Jan Richter	17441
 Title Organization Location Daniel Dupety Consultant	11525
 Title PART I PRELIMINARY	22
 Title Registration	15473
+Title Registration Department	18465
 Title Registration Law	15473
+Title Registry Department	18465
+Title Registry Unit	18465
 Title Scope	11269
 Title Source Clarification Supply	7987
 Title Specialization Unit Philippe De Meneval	17441
@@ -882,13 +893,17 @@ Title Starlink	2587
 Title Traditionally	3292
 Title Transfer	12333
 Title Tunisia	5340
+Title Type Date Label	18581
 Title VI of Penal Code Act No	13331
-Title and Commencement	14854
+Title and Commencement	14854,3740,2,2,2,2,2,5
+Title and Commencement This Act	18593,5,7
+Title and Commencement. These Regulations	18609
+Title and Commencement. This Act	18596,3,1,1,1,2,4
 Title and Number	14925
 Title of Class of Securities	7198
 Title of Publication	11224
 Title-holder	12771
-Titled	3584,1159,153,164,4745,277,945
+Titled	3584,1159,153,164,4745,277,945,7473
 Titleholder	17114
 Titles	6767,4362,1209,113,2116,875,1390
 Titlestad	766,6261
@@ -982,6 +997,7 @@ Titus	12951
 Titus Mathe	10414
 Titus Mukora and Gideon Rotich	14932
 Titus Nampala	8414
+Titus Osundina	18621
 Titus S. Kpayili Comptroller	16978
 Titus S. Kpayili Head of Agency Comptroller	16978
 Titutions	15397,290

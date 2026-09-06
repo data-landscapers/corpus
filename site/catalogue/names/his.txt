@@ -31,6 +31,7 @@ Centro Histórico. Extrato	16290
 Characterize and Evaluate Historical Drought Events	17157
 Civil HISWACA Projet	16104
 Compliance Records and Regulatory History	17249
+Contract Litigation History	18543
 Criminal History Record	12389
 DANS HISTORIQUE HISTORIQUE NAISSANCE	13300
 DHIS2 and HISP	3884
@@ -76,7 +77,7 @@ HIS-related	766
 HIS-specific	766
 HIS.10 Future	10881
 HISP Center	9139
-HISP Centre	2678,1206,883,1281,105,874,5171,543,1022,285,2361,502,211
+HISP Centre	2678,1206,883,1281,105,874,5171,543,1022,285,2361,502,211,1443
 HISP Centre Deputy Director	7027
 HISP Centre da Universidade de Oslo	11454
 HISP DRC	16011,398,713
@@ -92,7 +93,7 @@ HISP Ltd	16209
 HISP MENA	4767,4790
 HISP Malawi	12141
 HISP Malawi. GIZ	12141
-HISP Mozambique	11589,3512,2021
+HISP Mozambique	11589,3512,2021,1443
 HISP Nigeria	7027,10095
 HISP Nigeria and UNICEF	12037
 HISP Rwanda	977,12786,50,1288,1123
@@ -100,6 +101,7 @@ HISP Rwanda Kigali	15101
 HISP Saudigitus	11454
 HISP South Africa and HISP Uganda	12741
 HISP Sri Lanka	13160
+HISP Tanzania	18722
 HISP UNIMA	13121,39,36
 HISP UNIMA and HISP UiO	13121
 HISP Uganda	2678,9669,394,275,2944,449
@@ -112,7 +114,7 @@ HISP WCA and UiO	16911
 HISP WCA. Il	11599
 HISP WCA. Togo	1947
 HISP West	1017,16105
-HISP West and Central Africa	1947,12,4089,10308
+HISP West and Central Africa	1947,12,4089,10308,2209
 HISP and Africa CDC	16011,398
 HISP and DHIS2	8680
 HISP and GIZ	13121
@@ -135,8 +137,10 @@ HISTORY Italian Government. The National	1131
 HISTORY OF CRVS IN THE GAMBIA	17397
 HISTORY OF GODI The Ghana Open	16599
 HISTÓRICO DE VERSÕES REGISTO DE APROVAÇÕES	11435
-HISWA	16921,14
+HISWA	16921,14,1540
 HISWA Project	16935
+HISWA SL	18475
+HISWA-SL	18475
 HISWACA	8361,1,8565,1009
 HISWACA Project	8459
 HISWACA SOP	16155,245,17,4
@@ -161,7 +165,8 @@ Histoire Militaire Accroitre	15999
 Histoire du Maroc	17492
 Histoires	10278,6363
 Historia	3179
-Historic	3456,7390,1387,267
+Historic	3456,7390,1387,267,6035
+Historic Commissioning of Julius Maada Bio Conference	18522
 Historic Diplomatic Partnership	17025
 Historic Drought Frequency	11762,1988
 Historic Flood	1828
@@ -170,7 +175,7 @@ Historic Milestone	17331
 Historic Monuments	18370
 Historic Reform The Higher Education Authority	13556
 Historic Unity Wall Signing Ceremony	5390,965,827
-Historical	161,7,145,104,24,99,14,32,173,22,18,161,23,644,8,20,74,39,35,76,217,1327,160,270,730,313,97,209,1732,394,2431,1004,2,10,162,258,33,30,694,1,33,190,125,26,632,372,64,473,1352,122,131,1667,17,103
+Historical	161,7,145,104,24,99,14,32,173,22,18,161,23,644,8,20,74,39,35,76,217,1327,160,270,730,313,97,209,1732,394,2431,1004,2,10,162,258,33,30,694,1,33,190,125,26,632,372,64,473,1352,122,131,1667,17,103,1178,93,47,67,79,23
 Historical Background Cape Verde	11909
 Historical Comparison of Revenue Collection	12951
 Historical Context	9399,1435,6426
@@ -192,10 +197,13 @@ Historical Projections Public	13868
 Historical Rail Network	17260
 Historical Revenue Performance	12951
 Historical Safety Nets Coverage	10964
+Historical Significance of Land	18619
 Historical Sites	2775
 Historical Technology Dependency	7921
+Historical Voter Registrations System	18531
+Historical Voter Registrations System Prior	18531
 Historical and Future	14443
-Historically	1017,712,230,29,281,916,133,809,320,677,128,299,70,532,185,597,68,786,233,383,573,259,356,408,338,91,338,73,20,279,14,755,7,11,67,12,360,303,641,151,163,87,447,58,1126,131,45,207,18,67,1001,153,8,24,15,146,100,3,156,210
+Historically	1017,712,230,29,281,916,133,809,320,677,128,299,70,532,185,597,68,786,233,383,573,259,356,408,338,91,338,73,20,279,14,755,7,11,67,12,360,303,641,151,163,87,447,58,1126,131,45,207,18,67,1001,153,8,24,15,146,100,3,156,210,822,127
 Historically Advantaged Institutions	6832
 Historically Advantaged Institutions HDI	6832
 Historically Disadvantaged Group	6891,3698
@@ -211,7 +219,7 @@ Historique-des-decisions	8891
 Historiquement	7797,1094,287,4524,4313
 Historiques	6954,4021
 Historisation	15936
-History	1,1035,1060,581,1037,715,541,2238,101,544,14,47,466,342,256,142,9,471,1591,54,13,7,977,125,100,181,3,10,11,1,214,1,5,10,2,53,193,3,133,9,1,14,4,229,22,78,766,12,13,14,79,232,88,10,107,166,89,195,147,949,334,1254,162
+History	1,1035,1060,581,1037,715,541,2238,101,544,14,47,466,342,256,142,9,471,1591,54,13,7,977,125,100,181,3,10,11,1,214,1,5,10,2,53,193,3,133,9,1,14,4,229,22,78,766,12,13,14,79,232,88,10,107,166,89,195,147,949,334,1254,162,176,25,144
 History Chairman	7853
 History Data	940
 History Events Upcoming	13051
@@ -227,6 +235,7 @@ History of Artificial Intelligence. Disponível	2816
 History of Civil Registration	12151
 History of Nigerian Telecoms Sector	5245
 History of Regulatory Friction Starlink	6784
+History of SLP	18486
 History of Voting System	10062
 Histó	15772
 Histór	15772
@@ -250,6 +259,7 @@ International Health Partnership HISP Health Information	766
 Internet Exchange Point. History The SIXP	16845
 Journal of African History	5700
 Journal of Historical Sociology	2096
+Jun-2025 Cumulative Disbursements Restructuring History	18473
 KOREA'S KS ECO SOLUTIONS SIGN HISTORIC	13647
 Key Historical Milestones Curriculum Integration	13532
 Leads Historic Commissioning Of ECOWAS Headquarters	4114
@@ -277,6 +287,7 @@ Organisation Histoire	17873
 Organisation Histoire Le Service	17873
 POURQUOI MON HISTORIQUE DE DECLARATIONS EST	16629
 Port Harcourt J Hist Dipl Stud	9739
+President Bio Commissions Historic Manowa Bridge	18501
 Privé Lecture Calcul Histoire Géographie Sciences	10847
 Process History	16853
 Processing History	3861
@@ -289,7 +300,7 @@ Publication History	5349
 RACONTER DES HISTOIRES A B X	13300
 REA Delivers Historic Project	13413
 RENT CONTROL LAWS History	15473
-RESTRUCTURING HISTORY	2712,1976,1891,1298,4094,257,39,173,2719,578,968,295,79,17,1037,217
+RESTRUCTURING HISTORY	2712,1976,1891,1298,4094,257,39,173,2719,578,968,295,79,17,1037,217,184
 RESTRUCTURING HISTORY Restructuring Level	6928,4467,4618,66,915,910,54,396,1
 RESTRUCTURING HISTORY The World Bank Implementation	15735
 REVISION HISTORY	9855
@@ -305,6 +316,7 @@ SPECTRUM POLICY Historically	14723
 Scale National Historical	17140
 Search for Historical National Registration Card Records	10347
 Short History of Submarine Cables	2677
+Sierra Leone. Historical Voter Registrations System	18531
 Single Border History	7867
 Single TRN Request History	11298
 Single Window Concept Historically	13042

@@ -47,6 +47,7 @@ Bouncing Back Score	10837,1315,188
 Bouncing Score	10835,3,130,902,16,466,1,135
 Breakdown of Malawi's Digital Economy Score	12941
 Brief Description of Scope	1988
+Broad Scope and Evolving Offences	18655
 Broad Scope andTechnical Features	15430
 Business Score	18109
 Buzima EMR Scope Often	15156
@@ -167,6 +168,7 @@ Doing Business Sub-Index Scores	13312,2
 Drought Stress DRS Drought Risk Scope	17157
 Durée Moyenne de Scolarisation CSPS	737
 D’IDENTITE SCOLAIRES AU BURKINA FASO	15639
+E-Government Development Index Score	18633
 E. SCOPE	12400
 E. Scope	12400
 E.C. P3-8. Scope	12500
@@ -215,8 +217,9 @@ Fidel Castro and Rev. Michael Scott Streets	1900
 Fido Score	7579
 Financial Scoping	13532
 Financial Scoping Survey	12409
+Financial Wellbeing Score	18503
 Fiscal Year Scope and Period	15372
-Food Consumption Score	12978,3982,325
+Food Consumption Score	12978,3982,325,1462
 Food Consumption Score Figure	17285
 Food Consumption Score Profile	12978
 Food Consumption Score The Food Consumption	17285
@@ -249,6 +252,7 @@ Global Cybersecurity Index. Score	1878
 Global Freedom Score	17967,217
 Global Freedom Score18	15926
 Global Influence Score	4528,7984
+Global Internet Resilience Score	18633
 Goals SCORE Survey	15556
 Grassroot Innovation Scouting	10067
 Groupe Scolaire Du Mont Kigali	4941
@@ -259,7 +263,7 @@ Health and Sustainable Environment. Trend Measure Score	11886,466
 Heidke Skill Score	17157
 High Score	12376
 Household Dietary Diversification Score Output	12978
-Household Dietary Diversity Score	12978
+Household Dietary Diversity Score	12978,5769
 Household Dietary Diversity Scores Profile	12978
 I. DEFINE THE SCOPE	16867
 I. RAPPORT METHODOLOGIQUE DU RECENSEMENT SCOLAIRE	18171
@@ -280,6 +284,7 @@ INSCRIVEZ DISPENSAIRE SCOLAIRE	13300
 INTERNATIONAL HEALTH REGULATIONS CORE CAPACITY SCORES	16892
 ITEMS CRITERION SCORE COMMENTS	12693
 ITU score	10940
+Identification Version Scope Coverage Producers	18525
 Impact Scoring Evaluate	17157
 Implementation Scope Pilot Machines	10617
 Inclusive Digital Economy Scorecard	12214,727
@@ -294,13 +299,14 @@ Indicator Description Sheet. Scores	17869
 Indicator Indicator Capability Source Scoring Logic	15164
 Indicator Indicator Capability Source Variables Scoring	15164
 Indicator Value Threshold Goalpost Formula Score	17743
+Information for Technical Scoring	18543
 Ingteinrdnuatsitornyainl Ocoumtloeoaknsdcpoaretent Score	12205
 Institutional Scope	16212
 Integration Test Scope Integration	11952
 Interim President Guy Scott	12353
 Interior and Scope	9399
 Internet Freedom Score28	15926
-Internet Resilience Score	11470,3088
+Internet Resilience Score	11470,3088,4075
 J. Scott	17780
 Justice and Anti-Corruption. Trend Measure Score	10838
 Kenya ERI Scores	12256
@@ -334,6 +340,7 @@ Mark Scott	10088
 Material Scope and Data Classification Taxonomy	3861
 Mathematics and Physics. Scope of Work	15183
 Maturity Score	18309
+Maturity Scores Overall	18628
 Max. Score	3787
 Mean Disempowerment Score	17127
 Mean Empowerment Scores	17127
@@ -419,6 +426,7 @@ P9-32 Assessment Scoring Score Score Method	12500
 PA score	10940
 PAILLAT Lydie Scolastique	16381
 PARCOURS SCOLAIRE	15936
+PART IV-POWERSAND PROCEDURES Scope of Powers and Procedufes	18457
 PAV BURKINA SCOOPS	15621
 PDI2T. Scope	715
 PE score	10940
@@ -450,6 +458,7 @@ Pourcent- Score Effectif Pourcent- Pourcent- Pourcent-	13300
 Pre-Test Scoring	16963
 Precision Recall F1 Score	8604
 Present FRL Scope of Activities	17140
+Presentation of Maturity Score	18628
 Principle and Scope	3861
 Principle and Scope Data	3861
 Privacy Scorecard Report	6212
@@ -477,6 +486,7 @@ RADIODETERMINATION APPLICATIONS SCOPE	12949
 RAILWAY APPLICATIONS RAILWAY APPLICATIONS SCOPE	12949
 RANKING SCORES	11211,51
 REGULATION SCOPE Sanctions	16883
+RESULTS Average Scores for Rapid MSDI Variables	18476
 RISK ASSESSMENT AND SCORING METHOD	11156
 RSI SAFER SCORE SIMR SIS Impact	14622
 RULE OF LAW SCORE	10759,76,2,1,130,902,16,266,188,12,1,135
@@ -521,7 +531,7 @@ SCOOTER	13300
 SCOPA	11230
 SCOPA RESOLUTIONS	11218,6
 SCOPA Resolutions	11197
-SCOPE	11184,12,894,484,375,1485,2092,59,258,24,11
+SCOPE	11184,12,894,484,375,1485,2092,59,258,24,11,1824
 SCOPE AND APPLICABILITY	12338
 SCOPE AND COVERAGE AREAS	16885
 SCOPE AND OBJECTIVES Given	961
@@ -536,6 +546,7 @@ SCOPE OF ACTIVITIES	13097
 SCOPE OF ACTIVITIES Mr. Timothy Shangadi	13097
 SCOPE OF APPLICATION	14434
 SCOPE OF APPLICATION These Guidelines	10407
+SCOPE OF EPC CONTRACT Works	18543
 SCOPE OF SERVICES	17287
 SCOPE OF TENDER	13618
 SCOPE OF THE ASSIGNMENT AND DETAILED	15090
@@ -543,7 +554,9 @@ SCOPE OF THE REVIEW	4896
 SCOPE OF THE WORK General Project	962
 SCOPE OF THIS REQUEST FOR INFORMATION	14224
 SCOPE OF WORK	12763
+SCOPE OF WORK AND METHODOLOGY	18575
 SCOPE OF WORK Section	13037
+SCOPE OF WORKS	18543
 SCOPE Platform	16867
 SCOPE REGULATION	16884
 SCOPE TERRITORIAL SCOPE	14434
@@ -553,11 +566,14 @@ SCORE Assessment	16892
 SCORE GLOBAL	10975
 SCORE MOYEN	18077
 SCORE SCORE SCORE SCORE SCORE SCORE	1243
+SCORE Survey	18668
 SCORE Wave	16970
 SCORECARD	14752
 SCORES OBTENUS DANS LE DOMAINE	17830
 SCORES OBTENUS DANS LE DOMAINE DES	17830
 SCORES OBTENUS DANS LE DOMAINE D’INTÉRÊT	17830
+SCORING RUBRIC Rapid MSDI Readiness Assessment	18476
+SCORING SCORING RUBRIC Rapid MSDI Readiness	18476
 SCoE State Committee	11860
 SDG Index Score Fig	15725
 SERVICE REQUIREMENT AND SCOPE	12681
@@ -584,7 +600,7 @@ Scolarité	13390,2178
 Scolarité Axe	15568
 Scombined	8606
 Scooters	16047
-Scope	25,3,208,526,97,150,176,24,5,9,20,94,14,163,72,1,5,13,132,5,43,9,83,36,75,102,5,64,1,48,217,40,314,423,5,389,32,1,22,27,78,105,24,159,56,13,16,173,64,16,11,97,1,27,22,1,193,162,236,59,1,6,61,406,199,39,529,133,189,78,59,46,1,122,23,2,3,133,181,49,97,183,59,101,258,53,344,44,163,11,297,2,39,21,186,294,1,484,69,31,576,98,70,85,44,95,23,1,1,28,56,48,43,44,1,16,100,284,59,1,79,1,11,4,57,138,15,44,30,13,2,47,37,21,14,15,11,13,34,53,172,231,27,107,5,86,57,21,104,4,6,2,21,5,7,3,23,80,9,481,25,465,52,72,37,45,11,8,94,55,15,2,2,28,5,3,4,33,14,60,12,41,22,7,18,45,35,355,259,23,389,7,18,627,3,1,10,32,75,108,31,92,21,43,112,136,606,66,195
+Scope	25,3,208,526,97,150,176,24,5,9,20,94,14,163,72,1,5,13,132,5,43,9,83,36,75,102,5,64,1,48,217,40,314,423,5,389,32,1,22,27,78,105,24,159,56,13,16,173,64,16,11,97,1,27,22,1,193,162,236,59,1,6,61,406,199,39,529,133,189,78,59,46,1,122,23,2,3,133,181,49,97,183,59,101,258,53,344,44,163,11,297,2,39,21,186,294,1,484,69,31,576,98,70,85,44,95,23,1,1,28,56,48,43,44,1,16,100,284,59,1,79,1,11,4,57,138,15,44,30,13,2,47,37,21,14,15,11,13,34,53,172,231,27,107,5,86,57,21,104,4,6,2,21,5,7,3,23,80,9,481,25,465,52,72,37,45,11,8,94,55,15,2,2,28,5,3,4,33,14,60,12,41,22,7,18,45,35,355,259,23,389,7,18,627,3,1,10,32,75,108,31,92,21,43,112,136,606,66,195,82,73,6,25,11,45,33,79
 Scope Anticipated	17330
 Scope Conditions and Limitations	7966
 Scope Development	14441
@@ -601,11 +617,12 @@ Scope Implementation Guidelines Education Institutions	2958
 Scope Implementers	1802,10382
 Scope NA Type Nominal	7221
 Scope NA Type Nominal Refers	7221
-Scope Notes The WEN	17165
+Scope Notes The WEN	17165,1405
 Scope PART III IMPLEMENTATION AND SPECIFIC	12967
 Scope Payment Type Nature of Transactions Payment	6938
 Scope Phase	6029
 Scope Policy Area	12235
+Scope RAPID MSDI READINESS ASSESSMENT SCOPE	18476
 Scope SECTION	14434
 Scope SECTION A PART III IMPLEMENTATION	12374
 Scope Subsystem Type Binary	7221
@@ -645,8 +662,9 @@ Scope and Applicability These Guidelines	15058
 Scope and Applicability This Directive	17030
 Scope and Application	5244,6949
 Scope and Application Parts I and IV	10157
-Scope and Coverage	16923
+Scope and Coverage	16923,1537,157
 Scope and Coverage Scope The Gambia Government	16923
+Scope and Coverage Table	18460
 Scope and Definitions	13532
 Scope and Evidence Base	11596
 Scope and Legal Boundaries	17394
@@ -665,6 +683,7 @@ Scope of Application Personal Data Collection and Processing	11539
 Scope of Application The FAIR Guidelines	14565
 Scope of Application The Standard	13308
 Scope of Application This Charter	2958
+Scope of Application This Circular	18688
 Scope of Application This Directive	762
 Scope of Application This Proclamation	7538,4608,80,1798
 Scope of Application and Interpretation	13948
@@ -701,14 +720,17 @@ Scope of Services This Policy	11995
 Scope of Services and Specific Tasks Under	13925
 Scope of Supply	13185
 Scope of Value Added Tax Withholding Agent	17108
-Scope of Work	236,3442,8330,678,42,26,329,212,890,958,40,1417,549
+Scope of Work	236,3442,8330,678,42,26,329,212,890,958,40,1417,549,1382
 Scope of Work Conduct	16312
 Scope of Work and Requirements	11252
-Scope of Works	1638,11657
+Scope of Works	1638,11657,5248
+Scope of Works Part-II	18543
+Scope of Works This Part	18543
 Scoped	13225
 Scoping	1988,6615,520,2278
 Scoping Legacy Data Migration	13395
 Scoping Meeting	11131
+Scoping Mission	18488
 Scoping Strategy	13042
 Scoping Study	13148
 Scoping and Preparation of Terms of Reference	17114
@@ -717,7 +739,7 @@ Scopus	766,482,6542,881,566,7230,1306
 Scopus and PubMed	766
 Scopus and Web of Science	10323
 Scopus. Among	766
-Score	643,256,288,631,1578,391,1878,5094,76,2,1,36,38,56,1,7,276,618,4,7,3,1,1,1,1,1,6,3,37,217,2,5,1,3,42,36,99,1,5,5,1,1,2,21,111,1,90,339,268,115,25,33,662,1144,283,27,6,32,44,157,12,211,25,361,400,170,104,118,13,22,8,128,585,14,193,32,249
+Score	643,256,288,631,1578,391,1878,5094,76,2,1,36,38,56,1,7,276,618,4,7,3,1,1,1,1,1,6,3,37,217,2,5,1,3,42,36,99,1,5,5,1,1,2,21,111,1,90,339,268,115,25,33,662,1144,283,27,6,32,44,157,12,211,25,361,400,170,104,118,13,22,8,128,585,14,193,32,249,275
 Score Academic	13031
 Score Adoption Situation	17157
 Score Angola	5247
@@ -886,6 +908,7 @@ Trend Score	10837,1052
 Trust Resilience Score	11138
 U.S. Consul General Marissa Scott and Visa	3007
 U.S. Treasury Secretary Scott Bessent	17802
+UN Gender Scorecard	18549
 UNCDF Inclusive Digital Economy Scorecard	12941
 Universal Meaningful Score Score Economy Region	17743
 University Governance Scorecard Benchmarking	17458

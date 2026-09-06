@@ -53,9 +53,10 @@ DDCVT	16112
 DDDC Segole	4083
 DDE Source DLI	17470
 DDEPSA	15673
+DDG Sowa	18580
 DDI DDI-SEN-ANSD-RNU-2025-V1 Producteurs Date	18337
 DDI DZA 2024 FINDEX v02 M WB Producers	15846
-DDI Document	15024,819,1,2,819,380,120,201,559
+DDI Document	15024,819,1,2,819,380,120,201,559,600,42,3
 DDI Document ID	15846
 DDI Document ID DDI COG 2024 FINDEX v02 M WB Producers Name	15844
 DDI Document ID DDI GAB 2024 FINDEX v02 M WB Producers Date	15843
@@ -64,6 +65,9 @@ DDI Document ID DDI GMB 2024 FINDEX v02 M WB Producers Date	17045
 DDI Document ID DDI MRT 2024 FINDEX v01 M WB Producers Date	17925
 DDI Document ID DDI SDN 2025 WMS-R4 v01 M WB Producers Date	15024
 DDI Document ID DDI-LBR-LISGIS-WEN-2024-v01 Producers	17165
+DDI Document ID DDI-SLE-StatsSL-AAS-2023-v03 Producers Date	18525
+DDI Document ID DDI-SLE-StatsSL-AAS-2024-v01 Producers Date	18567
+DDI Document ID DDI-SLE-StatsSL-WEN-2024-v02 Producers	18570
 DDI Version	18337
 DDIA III	8891
 DDISC	15936
@@ -106,6 +110,7 @@ DDSSSa Niari	15685
 DDSTAT	15580
 DDSTAT Risques	15580
 DDSTAT Titres	15580
+DDT Digital Development Team DFS Digital	18454
 DDT PASA	11469
 DDU Strategy Methodology. J Health Inf	1261
 DDaaoannpêtteenn1d	15694
@@ -122,6 +127,7 @@ DDoS Protection	10721
 DDoTHldgH	9758
 DDoing	5349
 DDooccttyyppee	4653
+DDs and Supervisors	18460
 DDsooosnPPpccrr..raoaaueeosaccoocct	15694
 DDu5rOhz5Cl rlN44LNqC6M1OAWZw	4563
 DIG Dd	18318
@@ -138,6 +144,7 @@ Ddaey	899
 Dde-pwloidyeaandiaslpatnivde-wtriadfeficadgaripdtive	14566
 Ddgnation	16836
 Ddstamesiescfispbiisecpirulniaeiêavgdçnsãaoocodflipoveaerre	15694
+Dduct	18457
 Ddumba Ssentamu	7875
 Ddããmesaaaoo	15694
 Department DDiplomatic Mission D Public Company	736

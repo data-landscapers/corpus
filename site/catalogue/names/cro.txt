@@ -260,6 +260,7 @@ Crop Categories	17043
 Crop Conditions Monitoring and Analysis Utilise	13925
 Crop Cultivation	17043
 Crop Cut Campaign	13094
+Crop Data	18706
 Crop Estimates	13094
 Crop Estimates Committee	11334
 Crop Fallow	17140
@@ -311,7 +312,7 @@ Cropland Perennial	17140
 Cropland Perennial Crop Rubber	17140
 Croplands	16996,144
 Croppenstedt	17127
-Crops	1988,787,14339
+Crops	1988,787,14339,1369,200
 Crops Aquaculture Livestock Poultry About	16921
 Crops Officers	12740
 Crops Research Institute	12090
@@ -322,7 +323,7 @@ Crores. Diamonds	12617
 Crosas	12090
 Crosas M	14666
 Crosby Mkhwanazi	4041,12
-Cross	1243,3818,4067,331,1360,10,1165,6,122,826,16,129,283,53,1349,41,128,11,122,50,583,1130,5,5
+Cross	1243,3818,4067,331,1360,10,1165,6,122,826,16,129,283,53,1349,41,128,11,122,50,583,1130,5,5,1770
 Cross Border Cooperation	14511
 Cross Border Customs	11131,3
 Cross Border Data Flows	1243
@@ -337,7 +338,7 @@ Cross Border Payment Reporting Plus	15934
 Cross Border Processing	10157
 Cross Border Sale of Handicraft Rwanda	10819
 Cross Border Taxation Technical Committee	573
-Cross Border Trade	16949
+Cross Border Trade	16949,1757
 Cross Border Trade Association of Liberia. UNIFEM	16949
 Cross Border Trade Conference	16949
 Cross Border Trade Expert Sarah Bonakele	13563
@@ -375,6 +376,7 @@ Cross River State Planning Commission	8520
 Cross River State Resilience Agenda	8520
 Cross River. Transportation	11469
 Cross Rivers State	12004
+Cross Section	18517
 Cross Sectors	11900
 Cross Sectors Characteristics	11900
 Cross Society	17757
@@ -420,10 +422,12 @@ Cross-Border Data Transfers and Data Sovereignty	11196
 Cross-Border Digital Payments	15641
 Cross-Border E-Commerce	8546
 Cross-Border E-Payments	12389
+Cross-Border Electricity Trade	18614
 Cross-Border Entities	17099,15
 Cross-Border Fiber Network Ethio	4975
 Cross-Border Healthcare	14434
 Cross-Border Insolvency	12389
+Cross-Border Integration	18551
 Cross-Border Interbank Payment System	7220
 Cross-Border Money Flow Tanzanian	6397
 Cross-Border Paperless Trade	16648
@@ -464,6 +468,7 @@ Cross-Cutting Enablers Framework Seven	4528,7984
 Cross-Cutting Enablers Q1 Q2 Q3 Q4	12917
 Cross-Cutting Integration Integration	4528,7984
 Cross-Cutting Integration Themes	4528,7984
+Cross-Cutting Issue	18485
 Cross-Cutting Issues Across	16942
 Cross-Cutting Observations	7151
 Cross-Cutting Requirements	6423
@@ -482,6 +487,8 @@ Cross-Enterprise Sharing of Medical Summaries XUA Extensible	1009
 Cross-Functional	4528,7984
 Cross-Ministerial Committee	16872
 Cross-Ministerial Committee VI. List	16872
+Cross-Party Committee	18531
+Cross-Party Committee Review	18531
 Cross-Pillar Assessment	14819
 Cross-Pillar Assessment Four	14819
 Cross-Pillar Synergies The AI	4528,7984
@@ -502,7 +509,7 @@ Cross-Sectoral Coordination Forums	4528,7984
 Cross-Site Scripting	15161,775
 Cross-Svstem I. The Government of Mozambique	4260
 Cross-architecture	14441
-Cross-border	718,243,200,82,21,69,141,817,486,29,324,340,148,11,232,507,187,293,134,131,117,14,176,20,139,98,236,500,19,288,74,48,96,101,117,309,71,52,377,43,139,3,646,44,491,285,102,41,264,52,82,31,136,495,197,114,6,4,56,221,133,269,137,4,34,1,171,19,48,37,32,142,273,7,312,276,2,43,24,37,192,56,319,152,297,240,70,75,78,10,5,146,163,290,633,798,42,115,15,631,35
+Cross-border	718,243,200,82,21,69,141,817,486,29,324,340,148,11,232,507,187,293,134,131,117,14,176,20,139,98,236,500,19,288,74,48,96,101,117,309,71,52,377,43,139,3,646,44,491,285,102,41,264,52,82,31,136,495,197,114,6,4,56,221,133,269,137,4,34,1,171,19,48,37,32,142,273,7,312,276,2,43,24,37,192,56,319,152,297,240,70,75,78,10,5,146,163,290,633,798,42,115,15,631,35,776
 Cross-border Based	961
 Cross-border CBDC	11131
 Cross-border Data	14434
@@ -527,10 +534,11 @@ Cross-countries	771
 Cross-country	5265,5591,129,286,925,2968,601,195
 Cross-cultural Study of Sharing Digital Devices	4439
 Cross-cut	11269
-Cross-cutting	1752,3155,2231,4767,291,766,385,649,901,25,23,608,1290,442
+Cross-cutting	1752,3155,2231,4767,291,766,385,649,901,25,23,608,1290,442,1321
 Cross-cutting Checks	13037
 Cross-cutting Citizen Engagement	15553
 Cross-cutting Indicators	14945
+Cross-cutting PFM Strategy Monitoring	18577
 Cross-cutting Recommendations	5676
 Cross-cutting Working Groups	14997
 Cross-database	3861
@@ -651,7 +659,9 @@ Crown Conference Hall	12358
 Crown Counsel	11131,3,1838
 Crown Paints Kenya PLC	6946
 Crown Point Dental Care Data Processor	7167
+Crown Prince Court of Abu Dhabi	18610
 Crown Prince Mohammed	14545
+Crown Prince of Abu Dhabi and Deputy Supreme	18610
 Crown Prosecutor	11131,3
 Crown Prosecutors	12972
 CrowneDPMarloweD	8376
@@ -694,6 +704,7 @@ Digital Centre of Excellence. Cross-ref	289
 Digital Economy Crosswalk	615
 Digital IDs Empower Women Cross	10819
 Digital Lilangeni Design Paper Cross-border	11130
+Digital Trade and Cross-Border Fintech and Payments	18523
 Diplomatic Crossroads	5890
 Distribution of Crop Holdings	17043
 District Councils and Mauritius Red Cross Society	14738
@@ -813,6 +824,7 @@ IGAD Seeks Consultant for Crop Monitoring and Forecasting	13925
 INTPA Crosswalk	187,65,98,114,4,3,158,6,207,6,218,1,7,1,1,1,1,2,369,1,6,1,1,2,1
 IPC Croissance du PIB	7655
 Identifier Cross-Reference HL7 Version	1009
+Illustration of Key Pillars and Cross-Cutting Issues	18485
 Incoming Cross-Border E-Payments	12389
 Indicative. Crosswalk	1544
 Informal Cross-Border Trade Survey	15929
@@ -827,7 +839,7 @@ International Committee of Red Cross	12977,2365
 International Crops Research Institute	18220
 International Dataset Groups Activity Stream Crop	16466
 International Federation of Red Cross	12977
-International Federation of Red Cross and Red Crescent	11156,1071,1643,3287
+International Federation of Red Cross and Red Crescent	11156,1071,1643,3287,1506
 International Federation of Red Cross and Red Cresent	11156
 International Fund for Agriculture Development Tree Crops	17274
 International Journal for Cross-Disciplinary Subjects	12227
@@ -881,6 +893,7 @@ Low-value Cross-border Electronic Funds Transfers	11131
 Low. Crosswalk	297,233
 M Telkom Kenya. Crosswalk	254
 M. Crosswalk	188,54,385,161,29,113,236,33,236
+MDAs Cross	18576
 MEDICINA CRONICAS NO SOCIAL PATRIMONIO	4209
 MNOs. Crosswalk	88
 MS Cross-Enterprise Document Sharing XML XPID	1009
@@ -892,6 +905,7 @@ Malawi Red Cross Society	13140
 Malawi Red Cross Society's Simplified Early	13140
 Mali Digital Economy Diagnostic CROSS-CUTTING DIMENSIONS	17870
 Mali Red Cross	17962
+Managing Data Sovereignty and Cross-Border Risks	18651
 Mangrove Cropland Perennial Crop Annual Crop	17140
 Mangrove Forestplantation Cropland Perennial Crop Annual	17140
 Markup Language XAD-PID Change Management Cross-Enterprise	1009
@@ -995,13 +1009,14 @@ RS Cross-Enterprise	1009
 Rate CBPR Cross-Border Privacy Rules CCPA	1243
 Recognition of Digital Currencies for Cross-Border Payments	12389
 Recommended Cross-cutting	13037
-Red Cross	3782,1060,2305,3682,327,1025,46,750,333,1432,358,96,146,845,771,147,1204
+Red Cross	3782,1060,2305,3682,327,1025,46,750,333,1432,358,96,146,845,771,147,1204,305
 Red Cross Branch	12977
 Red Cross Clinics	12977
 Red Cross Clinics Personnel Costs	12977
 Red Cross Clinics Programme	12977
 Red Cross Fundamental Principles	12977
 Red Cross Movement	12977
+Red Cross and Red Crescent Societies	18663
 Red Cross’ Chad	10841
 Reduce Cross-Border Trade Risks Nairobi Startup	2269,19,45,14,9,24,65,84,4,11,6,12,38,10,6,3,8,49,4,421,243,278,96,422,265,221,430,282,332,124,146,163,355,164,56,209,176,238,23
 Reference Perennial Crop	17140
@@ -1020,6 +1035,7 @@ Regulatory Crossroads South Africa Finance	6998
 Reinforce Operationalization of Cross Border Markets	13418
 Remote Sensing-based Information and Insurance for Crops	18036,300
 Renewable Energy Scale-Up Cross Boundary Energy	11469
+Report Physical Cross-Border Transportation of Cash	18599
 Republic of Croatia	11529,3706,236
 Research Team Harry Cross	6947
 Responsibility for Data Collection The MOH Cross-border	11417
@@ -1055,6 +1071,7 @@ Satellite Technology for Crop Monitoring	14758
 Scaling Cross-Border Interoperability Moving	9431
 Sectoral and Cross-Cultural Policies. Windhoek	12325
 Security Layers Colocation Cross Connect	9446
+Security Manager CPC Cross-Party Committee	18531
 Semi-Arid Tropics The International Crops Research	18142,55
 Sensitive Personal Data. CHAPTER SEVEN Cross-Border	15484
 Sensitization of Informal Cross-Border Traders	14935
@@ -1142,6 +1159,8 @@ Vegetable Crop Cultivation	17043
 Vehicle Load Management and Cross Border Road	12918
 Victoria Falls CBZ Bank Crowned Zimbabwe	6909
 Voucher and CropScope Systems	10931
+WFP CROP AND FOOD SECURITY ASSESSMENT	18683
+WFP Crop and Food Security Assessment Mission	18683
 WORKED ON CROP ACTIVITIES	17043
 WORKERS WORKED ON CROP ACTIVITIES	17043
 Wears the Crown	17780

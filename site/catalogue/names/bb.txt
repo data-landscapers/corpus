@@ -56,6 +56,8 @@ BB941 Paratonnerre	16552
 BB942 Maison	16552
 BB943 Antenne Antenne	16552
 BBA. Banking	12447
+BBAN-validation	18576
+BBANs	18577
 BBB-rating	14997
 BBBEE	5533,5651,51,5,746
 BBBEE Act	5808,375,5052
@@ -69,8 +71,9 @@ BBC Africa Eye	8050
 BBC Afrique	18310
 BBC Focus	7643,4655
 BBC Go	12382
-BBC Media Action	5626
+BBC Media Action	5626,13039
 BBC Media Action Data Controller INST-669579C087F	7167
+BBC Media Action Grace Awino	18665
 BBC Media Action and Free Press Unlimited	15342
 BBC News	2677,4675,2327,1143,1405,2951
 BBC News Arabic and Patricia Whitehorne	15252
@@ -206,6 +209,7 @@ General Sub-Part BB	14717
 GovStack BBs	6423
 GovStack Digital registries BB Data API template-1.3.0.json	6423
 HM FMoCDE of BB Broadband Reporting Committee	11857
+ICT SDGs and BB Universal	18485
 Ibrahim Bbossa	9781,4590
 Information Mediator BB	6423
 John Mayanja Bbale and Richard Sendi	1828

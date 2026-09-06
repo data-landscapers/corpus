@@ -194,7 +194,7 @@ G D P R Article	8436
 G D2D	2405
 G Data	1284,11111
 G Data Correspondingly	12395
-G Deployment	5675
+G Deployment	5675,12769
 G Deployment From Telecom Experts	2262
 G Deployment Guidelines	5680
 G Deployment Modes	5675
@@ -323,7 +323,10 @@ G Non-Standalone	8828,7306
 G Note	10844,7279
 G O L	11236
 G OCT	15903
+G OV ERNANC E Leadership	18478
 G Oo Report	3972
+G Open	18579
+G Open Access Network	18501
 G Operator Performance Trend	6051
 G Optical Ethernet Interface	13185
 G Oshikoto	1944
@@ -402,7 +405,7 @@ G Spectrum Licences The National Communications	14699
 G Spectrum Public Policy Position	5675
 G Spectrum Spectrum Pricing and Allocation Digital	11857
 G Standalone	2528,15,3822,6030
-G Strategy	3564,1473,638,1833,5474
+G Strategy	3564,1473,638,1833,5474,5653
 G Strategy Development	7508
 G Strategy Execution	15713
 G Stratégie Nationale	15624
@@ -443,6 +446,7 @@ G WL	15608
 G Y A N D L	15478
 G ZR	16545
 G and AI	6242
+G and CDMA	18444
 G and FTTx	4868
 G and FWA	10793
 G and Fiber	15713
@@ -632,8 +636,9 @@ G. Risk Management	13381,557
 G. Risk-based	7845
 G. Risks and Monitoring	10997
 G. Risques	16613
-G. S	8301,2834
+G. S	8301,2834,7322
 G. S. Sher	6997
+G. STATUS OF IMPLEMENTATION OF COMMUNITY	18455
 G. Salah Eddine	10688
 G. Selon	7010,8464
 G. Senel	15715
@@ -759,7 +764,7 @@ Mhila G	1219
 Michael G. Mimicopoulos	14965
 Middelburg Ms G Sekhu	11986
 Mirutse G	1219,11036
-Module G	17127,38
+Module G	17127,38,1405
 Mothibi G. Ramusi	4732,3096
 Mr. G. G. The Prime Minister	14753
 Mr. G. Gomwe	4263
@@ -826,6 +831,7 @@ Republic of Angola and Country Director Albert G	1770
 Richard G	12138
 Ruslan G. Yemtsov Official Use Only	16032
 Ryan G	1219
+S O N G	18468
 S S U N C G	14760
 S. G	4131,545,7653
 SA S B G	16623
@@ -885,3 +891,4 @@ Xia G	17773
 Y G L O O N	15590
 Y57 G	11178
 Z GENERAL TECHNIQUE SERVICE G	16623
+Zero G	18446

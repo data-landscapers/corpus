@@ -40,6 +40,7 @@ Amendes Transactionnelles Vu	7470
 Aménagement du Vu la Charte	17982
 Anatole Collinet MAKOSSO Vu	15744,433
 Annual Vulnerability Assessment	12977
+Arend van Vuren	18641
 Argent du Mérite Vu la Charte	17982
 Argent du Mérite Vu la Loi	17982
 Armée Assimi GOITA Vu la Charte	17982,50
@@ -197,7 +198,7 @@ Direction Nationale des Vu la Note	17817
 Direction Nationale des Vu le Décret	17817
 Direction Vu la Constitution	17827
 Direction Vu le Décret	17827
-Disadvantaged and Vulnerable	16926
+Disadvantaged and Vulnerable	16926,1578
 Disadvantaged and Vulnerable Groups	1988,14938,173
 Disadvantaged and Vulnerable Groups Disadvantaged	1988
 Disadvantaged and Vulnerable Groups Vulnerability	16926
@@ -297,6 +298,7 @@ Gladio Entreprise Vu	15439
 Gouver- Vu	16100
 Gouver- Vu la Constitution	15901
 Gouvernement Vu le Décret N	17817
+Grievance Mechanism. Vulnerable Groups	18504
 Groupes Vulnérables	18286
 Guichet Unique Vu la Loi N	17817
 Guichet Vu le Traité	17817
@@ -649,6 +651,8 @@ VULA Virtual Unbundled Local Access WBG	1818
 VULGARISATION DES INFORMATIONS METEOROLOGIQUES	15999
 VULNERABILIDADE A MUDANÇAS CLIMÁTICAS	11390
 VULNERABILITY	11586
+VULNERABLE GROUPS	18504
+VULNERABLE GROUPS The West Africa	18504
 VUP Component	14942
 VUP Digital Payment	12434
 VUP MEIS	12440
@@ -733,6 +737,7 @@ Vuka Africa Ltd	4235
 Vuka Africa Ltd Privacy	4235
 Vukani Community Radio WS1	13461
 Vukani Mngxati	7467
+Vukeni Innocent	18649
 Vukosi Marivate	5074,1077,782,203,6341,4223
 Vula Constitution	14458
 Vula Loi	14458
@@ -757,7 +762,7 @@ Vulindlela Report	11986
 Vulnerabilidade	11362,207,332
 Vulnerabilities	8897,719,5113
 Vulnerabilities Management and Penetration Testing	15054
-Vulnerability	940,2490,3836,1857,5,644,949,120,315,369,431,297,670,130,279,1615,191,523,1241,41,8,206,947,94,103
+Vulnerability	940,2490,3836,1857,5,644,949,120,315,369,431,297,670,130,279,1615,191,523,1241,41,8,206,947,94,103,277
 Vulnerability Analysis and Mapping	17285
 Vulnerability Assessment	1000,14662,1495
 Vulnerability Assessment Framework and Checklist	1000
@@ -768,6 +773,7 @@ Vulnerability Assessment and Penetration Testing	10721,4023
 Vulnerability Assessments	13053
 Vulnerability Index	16026,1905
 Vulnerability Index Calculation Indicator Weight Step	17157
+Vulnerability Information	18470
 Vulnerability Management	5665,7415,126
 Vulnerability Management Service	11952
 Vulnerability Map	17157
@@ -784,7 +790,7 @@ Vulnerability and Readiness Scores	17257
 Vulnerability and Risk Drought Risk Mitigation Measures	17157
 Vulnerability of Desalination	17157
 Vulnerability of Telecommunication Infrastructure	13331
-Vulnerable	1778,210,2269,6506,201,273,344,324,555,2414,370,180,94,140,302,300,124,542,70,103,15,43,91,4,955,86,62,15
+Vulnerable	1778,210,2269,6506,201,273,344,324,555,2414,370,180,94,140,302,300,124,542,70,103,15,43,91,4,955,86,62,15,256
 Vulnerable Children	12373
 Vulnerable Children PHU Public Health Unit	12970
 Vulnerable Demographics Dependency	10763

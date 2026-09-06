@@ -112,7 +112,7 @@ Commande des MII	13513
 Commandement	16143,238
 Commandement Supérieur	3604
 Commandements	16117
-Commander	11517,1031,2135,2441
+Commander	11517,1031,2135,2441,1486
 Commander-in-Chief	13948,1415
 Commandes	16747
 Commandes Publiques	16160,178
@@ -178,6 +178,8 @@ Les Commandants de Compagnie	17982
 Les Commandants de Compagnies	17982
 Les Commandants des Groupements Il	17982
 Lettres Commandes	10975
+Local Unit Commanders	18587
+Local Unit Commanders URL	18587
 MAE BELFENDES Faysal Commandement	15472
 MARINE NATIONALE Commandant MONABEKA	15744
 MID Commandant	16100
@@ -221,6 +223,7 @@ Pour Jacques David Commarmond	5712
 President and Commander	15363
 President and Commander-in-Chief	18253
 Regional Commanders	11062
+Republic and Commander	18660
 Rivers State Command Kwara State Command	8471
 Rwandan FDLR Commanders In DRC	3245
 SAPS Station Commander	11285

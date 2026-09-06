@@ -15,7 +15,9 @@ APPROPRIATION BILL	13126
 APPROPRIATION BILL VOTE	11272
 AUTHORITY AMENDMENT BILL Cabinet	11791
 About the Gates Foundation The Bill	15921
-Access Information Bill	3924,1974
+Access Information Bill	3924,1974,12601,9,6
+Access Information Bill URL	18508
+Access Information Regulatory Commission Bill	18499,9
 Access and Receipt of Information Bill	769
 Accueil Bilan	4895
 Acronyms BoQs Bill of Quantities CA Court	16943
@@ -42,8 +44,10 @@ Amendment Bill	2626,2007,107
 Amendment Bill Bill	7548
 Amendment Bill Please	4633
 Annexure-I. Bilateral Mechanism India and Burkina Faso	16256
+Anti-GBV Bill	18624
 Antonio Billy	13044
-Appropriation Bill	1273,1,1,237,1,32,1,61,1,1,1,1,1,1,1,1282,1,1,1,1,1,1,1667,1,1,1,1,1,624,1390,4701
+Appointment of Days for Stages of Bills	18436
+Appropriation Bill	1273,1,1,237,1,32,1,61,1,1,1,1,1,1,1,1282,1,1,1,1,1,1,1667,1,1,1,1,1,624,1390,4701,7147
 Appropriation Bill Summary of Expenditure	15716,211
 Appropriation Bill for Head	12606
 Approved DHA Bill	5533
@@ -83,12 +87,14 @@ BILL Cabinet	11791
 BILL ENTITLED AN ACT	1474
 BILL ENTITLED An Act	13449
 BILL ENTITLED THE ELECTRONIC TRANSACTIONS	410
+BILL ENTITLED The Companies and Business Registration	18556
 BILL For An ACT	12459
 BILL IS A MONEY BILL	14594
 BILL NO.1	13126
 BILL NO.2	13126
 BILL NO.22	13131
 BILL NO.4	13131
+BILL Supplement	18451
 BILL WATCH	8681
 BILLI3O00NS	11572
 BILLING AND PAYMENT	17243
@@ -141,7 +147,7 @@ Bilan fin campagne 2023 VF.pdf VEILLE ENVIRONNEMENTALE Suivi	18304
 Bilanga	10875,4840
 Bilanga Gnagna Est	15715
 Bilans	10975
-Bilateral	961,1706,886,308,348,217,21,48,4,3,1048,127,991,52,277,2752,586,529,106,166,13,161,553,123,390,970,445,77,136,385,157,54,296,39,62,848,158,253,19,56,40,278,467,119,5,776,204,81
+Bilateral	961,1706,886,308,348,217,21,48,4,3,1048,127,991,52,277,2752,586,529,106,166,13,161,553,123,390,970,445,77,136,385,157,54,296,39,62,848,158,253,19,56,40,278,467,119,5,776,204,81,390
 Bilateral AI	7548
 Bilateral Agreement	4260,12736
 Bilateral Agreements The United Arab	11185
@@ -153,11 +159,17 @@ Bilateral Assistance	12917
 Bilateral Brief	16649
 Bilateral Brief Botswana	12617
 Bilateral Brief Developmental Partnership	13791
+Bilateral Budget	18496
+Bilateral Budget Discussions	18496
+Bilateral Budget Discussions By Alysious Goba	18496
+Bilateral Budget Discussions URL	18496
 Bilateral Compact	6534
 Bilateral Cooperation	14267,1779
+Bilateral Discussion	18496
 Bilateral Economic Commission	5086
 Bilateral Engagements Targeted	7548
 Bilateral Institutional Mechanism	16237
+Bilateral Institutional Mechanisms	18691
 Bilateral Institutional Mechanisms Joint Commission Meeting	17241
 Bilateral Investment Monitoring and Agreements	16884
 Bilateral Investment Promotion and Protection Agreements	13685
@@ -170,7 +182,8 @@ Bilateral Loans The Public Debt Management	14546
 Bilateral Mechanisms	12617
 Bilateral Meetings Conducted	17289
 Bilateral Political Consultations	14668
-Bilateral Trade	11579,1038,944
+Bilateral Relations	18658
+Bilateral Trade	11579,1038,944,5130
 Bilateral Trade Agreement Facilitation	16631
 Bilateral Trade Agreement Facilitation LESOTHO	16631
 Bilateral Trade Agreements	14819
@@ -275,6 +288,7 @@ Bill No.4	12556
 Bill Number	8400
 Bill Proposes	7832
 Bill Q3	11986
+Bill Sign	18519
 Bill Target	11986
 Bill The Government of Kenya	899
 Bill Tracker	17388
@@ -283,6 +297,7 @@ Bill Upon	4633
 Bill Watch	8681,570
 Bill and Act	1545,1
 Bill and Financial Co	13060
+Bill and Land Title Registration Bill	18534
 Bill and Melinda Gates Foundation	562,476,786,1033,1582,6756,980,1948
 Bill for AN ACT of Parliament	14575,19
 Bill for Sierra Leone	410
@@ -292,7 +307,7 @@ Bill of Lading	14216,1276,1993
 Bill of Law	15924
 Bill of Quantities	1988,14955
 Bill of Quantities TBA	1988
-Bill of Rights	2307,1276,459,1491,4920,740,72,1354,320,522,1212
+Bill of Rights	2307,1276,459,1491,4920,740,72,1354,320,522,1212,3924
 Bill of Rights. Citizens	11218
 Bill of Rights’. Meaning	2307
 Bill the House	1283
@@ -319,7 +334,13 @@ Bill. Following	1154
 Bill. Gaolathe	2736
 Bill. Hon. Speaker	10313
 Bill. Honourable Speaker Honourable Members	13024
+Bill. IBRAHIM S. SESAY	18438,2
+Bill. J.A. CARPENTER	18434
+Bill. KARMOH K. CONTEH	18541
 Bill. M. A. Sise Ag. Clerk	16836
+Bill. Notably	18508
+Bill. PARAN UMAR TARAWALLY	18463,3,1,1
+Bill. PARAN UMAR TARAWALLY Clerk of Parliament	18450,15
 Bill. Part II	14575
 Bill. Retrieved	1243
 Bill. The Bill	11115
@@ -343,7 +364,7 @@ Billing Contact Email	16845
 Billing Efficiency	12062,6124,31
 Billing Section	9437
 Billing TTC	12364
-Billion	1191,988,413,185,1903,216,267,492,214,590,134,188,665,77,503,1091,664,1021,20,488,46,354,147,137,84,174,143,105,17,89,230,126,91,94,1785,37,16,19,574,26,373,654,658,974
+Billion	1191,988,413,185,1903,216,267,492,214,590,134,188,665,77,503,1091,664,1021,20,488,46,354,147,137,84,174,143,105,17,89,230,126,91,94,1785,37,16,19,574,26,373,654,658,974,301
 Billion Agreement	6551
 Billion Agriculture Manufacturing Services	6593
 Billion Average	12252,895
@@ -401,6 +422,7 @@ Billion Rwandan Francs	13418
 Billion Steel Investment Deal	18221
 Billion Strategic Investment Partnership for The Gambia	17347
 Billion Technological Innovation Fund	3218
+Billion To Spur Infrastructure	18533
 Billion US Dollars	5903
 Billion Valuation	9098
 Billion World Bank-supported	18263
@@ -424,7 +446,7 @@ Billions of Minutes	2776
 Billions of U.S	17503
 Billions of US	17503
 Billiwiri	9945
-Bills	1474,336,1936,1617,170,339,289,1599,921,280,380,539,433,818,158,697,569,25,542,265,74,948,333,99,26
+Bills	1474,336,1936,1617,170,339,289,1599,921,280,380,539,433,818,158,697,569,25,542,265,74,948,333,99,26,3569,120
 Bills ARTICLE	14409
 Bills Before Parliament	15102
 Bills Being Considered	8681
@@ -496,6 +518,7 @@ CREANCES ET DU HORS BILAN	17833
 CRIMINAL OFFENCES BILL	17388
 CRVS Bill	16896,26
 CYBERCRIME BILL	12459
+CYBERSECURITY AND COMPUTER MISUSE BILL Nov	18656
 Cabinet Bill	11986
 California Senate Bills	6231
 Campaign Bill	1116
@@ -514,12 +537,14 @@ Circular Economy Bill	14829
 Civil Appeal Bill	14753
 Civil Register. The Bill	12959
 Civil Registration Bill	17208
-Civil Registration and Identification Bill	1659,212,10466,622
+Civil Registration and Identification Bill	1659,212,10466,622,5560
+Civil Registration and Identification Bill URL	18519
 Classique Satellite Bilingue Franco arabe Passerelle	10847
 Climate Change Management Bill	8681
 Commercial Banks’ and Non-Bank Financial Institutions’ Bills	2775
 Commercial Banks’ and Non-bank Financial Institutions’ Bills	2775
 Commissions PRODUITS SUR OPERATIONS HORS BILAN	18032
+Committal of Bills	18436
 Communal Land Tenure Bill	11197
 Communication Bill	7650,9550
 Communication Bill. Delivering	7650
@@ -527,6 +552,7 @@ Communications Bill	5273,7373
 Community EBM Electronic Billing Machine EBM	14985
 Community Radio Reform Bill	5244
 Companies Bill	13013,113
+Compensation and Reparations Authority Bill	18615
 Comprehensive Digital Health Bill	965,3804,120,206,402
 Computer Crime and Cyber Security Bill	1200,335
 Computer Crime and Cybersecurity Bill	1535,7165,3975
@@ -537,6 +563,7 @@ Connecting Africa’s Next Billion Taara	1363
 Conseillère APDP BILAN DE LA DEUXIEME	10821
 Constitution Amendment Bill No	12556
 Constitution. The Bill	2530
+Constitutional Amendment Bill	18553
 Cooperative Societies Bill	9876
 Cooperação Bilateral	10752,5248,3
 Coopération Bilatérale	16099
@@ -557,13 +584,14 @@ Cyber Crime and Data Protection Bills	13090
 Cybercrime Bill	1535,4245,1493,1427,3532,227,631,3834,406
 Cybercrime Law and Data Protection Bill. Across	16144
 Cybercrime and Abuse of Computer Bill	4223
-Cybercrime and Computer Misuse Bill	4583
+Cybercrime and Computer Misuse Bill	4583,14072
 Cybercrime and Cybersecurity Bill	2117
 Cybercrimes and Computer Misuse Bill	4042
 Cybersecurity Bill	1535,991,871,1186,861,3256,1751,1781,62,261,11,14,128
 Cybersecurity Bill Awaits President Boakai's Signature	6968
 Cybersecurity Bill. INTIC Oversees ICT	3058
-Cybersecurity and Computer Misuse Bill	4082,161
+Cybersecurity and Computer Misuse Bill	4082,161,14413
+Cybersecurity and Crime Act and Data Protection Bill	18485
 D. Bills	2626
 D0109 BILAN Etablissement	17841
 D0109 HORS BILAN Etablissement	17841
@@ -584,7 +612,7 @@ DPI Enabling Environment Bill	1508
 Data Harmonisation Bill	3802,1717
 Data Policy Bill of Rights Cybersecurity Data	961
 Data Protection Amendment Bill	7853
-Data Protection Bill	512,287,211,6,5,140,498,45,33,151,1170,14,704,447,20,1120,1910,991,706,3262,727,23,12,1,95,1584,1262,769,234
+Data Protection Bill	512,287,211,6,5,140,498,45,33,151,1170,14,704,447,20,1120,1910,991,706,3262,727,23,12,1,95,1584,1262,769,234,1569,21,140,35
 Data Protection Bill By Leroy M	3008
 Data Protection Bill Namibians	1010
 Data Protection Bill and Cybercrime Bill. MICT	13232
@@ -627,6 +655,7 @@ Digital Services and Cyber Security Bills	12564
 Digital Sovereignty and Fair Data Compensation Bill	8088
 Direct Carrier Billing	4224
 Directeur des Financements Bilatéraux	18400,2,1
+Director General for Bilateral Relations	18658
 Disabilities Bill	14742
 Disaster Risk Management Bill	12977
 Disputed Bills	17243
@@ -634,6 +663,7 @@ Distributeur Automatique de Billets GABAC Groupe	11944
 Distributeurs Automatiques de Billets	17833
 Distributeurs Automatiques de Billets Consultation	17833
 Division of Revenue Bill	11289
+Divisions BILLS	18436
 Does the Bill	11247
 Domestic Abuse Bill	14742
 Donor Collaboration Forum Bill	2204
@@ -670,6 +700,7 @@ ET D’IMPORTATION DES DEVISES BILLETS	17485
 East Africa Community Bill	374
 East African Community Statistics Bureau Bill	3738
 Economy and E-Governance Bill	4621
+Education Bill	18621
 Eight Billion	12606
 Eight Hundred and Fifty-Four Billion	3862
 Ela Bile Fulgencio Abaga Micha Nzang	16864
@@ -693,6 +724,7 @@ Emmanuel Bilbe	7457
 Emploi Documents Documents de Politique Bilans PNR	17888
 Employment Services Amendment Bill	11280
 Employment Services Board. The Bill	11280
+Enact the Mediation Bill	18477
 Energy Sector Faces Ksh.7.6 Billion Cut	2428
 Engagement Bill	2185
 Engenheiro David Bila	9694
@@ -721,8 +753,10 @@ FINANCE MINISTER PRESENTS PAYMENT SYSTEM BILL	12735
 FINANCIAL IMPLICATIONS FOR STATE The Bill	11280
 FRW Billion	15023
 FRW Billion Transactions Performance Jun-24 Jun-25	15023
+FY2026 Policy Hearings and Bilateral Budget Discussions	18577
 Facility Bill	266
 Fair Compensation Bill	4583
+Family Law Bill	18624
 Finance Bill	1732,1,1,12,92,4295,276,354,1231,1317,821,1098,997,2437,164,3,10,91,954
 Finance Bill Should Guarantee Digital Rights	14932
 Finance Bill URL	15886
@@ -771,7 +805,9 @@ Gildas BILIMBA	16175
 Global Cybersecurity Strategy for Financial Inclusion Bill	491
 Gouvernement Accueil Bilan	4895
 Governance Bill	2073
+Government Bill	18436
 Government Treasury Bills	12000
+Government and Private Member’s Bills	18436
 Government of India Bilateral	18378
 Government’s Wage Bill. The Wage Bill	12922
 Grants Bilateral Multilateral Expenditure Compensation	11136
@@ -831,6 +867,7 @@ India-DRC Bilateral Brief URL	16164
 India-Guinea-2025.pdf Bilateral Brief	16649
 India-Mozambique Bilateral Relations	2667
 India-Mozambique Bilateral Relations Companion	2667
+India-Sierra Leone Bilateral Relations URL	18563
 India. Bilateral	16649
 India. Bilateral Trade	17241,1137
 Industry Bill	14829
@@ -915,8 +952,11 @@ Mamadou Billo BAH	16708
 Manipulation of Electronic Billing Machines	14985
 Marriage Bill	5533,6453,961
 Mauritius Emerging Technologies Council Bill	14735
+Mediation Bill	18477
 Medical Aid Funds Bill	12598
 Medical Aid Schemes Bill	13060
+Medium-Term Wage Bill Management Strategy	18500,77
+Medium-Term Wage Bill Strategy	18488,12
 Member's Bill	14631
 Meteorological Bill	13365
 Metering and Billing	14867
@@ -988,6 +1028,8 @@ National Addressing System Bill	11757,2944
 National Artificial Intelligence Commission Bill	4583
 National Assembly Bill No	1221,617,4295,4180,341
 National Assembly Bills No	7832,7100
+National Civil Registration Bill	18449
+National Civil Registration and Identification Bill	18519
 National Council the Huduma Bill	12138
 National Data Protection and Privacy Bill	16924
 National Data Protection and Privacy Bill and Cybercrime	16923
@@ -995,6 +1037,7 @@ National Digital Economy and E-Governance Bill	3942,641,925,547,3825
 National Digital Economy and Governance Bill	17571
 National Disability Bill	17296
 National E-Health Bill	965,3804,120,206,402
+National Electricity Bill	18614
 National Health Insurance Bill	1009
 National Health Insurance Bill. Retrieved	1009
 National Identification Registration Bill	11949,37
@@ -1002,7 +1045,7 @@ National Identification and Registration Bill	5533,343,511,125,5465
 National Identification and Registration Bill NDP National	5533
 National Information Technology Authority Draft Bill	6347
 National PPP Bill. Once	17105
-National Payment System Bill	9585,4794,642,49
+National Payment System Bill	9585,4794,642,49,3664
 National Payments System Bill	11134
 National Population Registration Bill	12947
 National Rail Bill	8599
@@ -1041,12 +1084,15 @@ Ocean Territory Bill	14753,40
 Official Information Bill	15007
 Ombudsman Bill	13097
 One-Stop Border Post Bill	5533,6453
+Ongoing Bilateral	18624
 Open G2P Bill	2182
 Ordinary Bill	11247
 Ordinary Bills	5872
 Os Bilhetes de Identidade de Cidadão Nacional	10749
 PARA A UNIVERSALIZAÇÃO DO BILHETE	10772
 PARLIAMENT OF KENYA THE SENATE BILL	11247
+PART TWO BILL OF RIGHTS	18597
+PART TWO BILL OF RIGHTS Nature	18597
 POSTE HORS BILAN MONTANTS NETS	17841
 POSTE HORS BILAN MONTANTS NETS N	17841
 PROMOTION DU BILINGUISME ET	15999
@@ -1088,6 +1134,7 @@ Postal and Courier Services Bill	7779,99
 Postal and Telecommunications Amendment Bill	8681,1391
 Pour Bilango Kevin	16478
 Pr Richard BILECKOT	15685
+Presentations of Public Bills	18436
 Prime Minister Mohamed Bilal Messoud	17893
 Prime Minister. Bilateral Trade Somalia	15119
 Privacy Enhancing Technologi Bill	2194
@@ -1113,11 +1160,14 @@ RAPPORT BILAN DE LA MISE EN	15639
 REGISTRATION AND IDENTIFICATION BILL	12959
 RULAAC Warns Data Protection Bill Could	7458
 Rapid Data Collection Platform Bill	1113
+Recommittal of Bill	18436
+Reconciliation and Healing Bill	18615
 Refers Agreements and Bills	14122
 Refugee Protection Bill	11986
 Refugees Amendment Bill	5533,6453
 Regional and Bilateral Trade	13042
 Regional and Bilateral Trade Zimbabwe	13042
+Registration and Identification Bill Share Print	18519
 Regulations DATA PROTECTION AND PRIVACY BILL	1474
 Report The Money Bills Amendment Procedure	11230
 Republic of Burundi. The Bill	3738
@@ -1156,6 +1206,7 @@ Save Billions Under New UK Version	1243
 Scaling Digital Public Infrastructure Bill	2178
 Scheme. The NHIS Bill	16896
 Second Bilateral Political Consultations	14668
+Secure Cabinet Approval of Bill	18537
 Security Bill of Material	2961
 Sem Billy David	8676
 Senate Bill No	10313
@@ -1166,6 +1217,9 @@ Settlements System Pilot Bill	881
 Seven Billion	12606
 Seychelles Agriculture Development Agency Bill	7760
 Shilingi Bilioni	6019
+Sierra Leone A BILL ENTITLED	18451
+Sierra Leone Digital Economy Bilateral Mission	18523
+Sierra Leone. Bilateral	18563
 Sierra Leone’s Draft Data Protection Bill	1161
 Single Billing Document	15590
 Six Hundred and Seventy-Four Billion	3862
@@ -1176,6 +1230,7 @@ Software Bill of Materials GRA Ghana Revenue	6936
 Software Bills of Materials	6936
 Solid Waste Management and Disposal Bill	1964
 South African Police Service Amendment Bill	11285
+South Sudan Bilateral Relations South Sudan	18691
 Southern Afr Bill	135
 Sovereignty Bill	5422,587
 Space Science and Technology Bill. Weiping	5010
@@ -1196,6 +1251,7 @@ Strengthening Bilateral Ties	13551
 Strengthening the Data Governance and Sharing Framework Bill	1476
 Substance Abuse Control and Enforcement Agency Bill	8681
 Supplementary Appropriation Bill	2736,4051,4502
+Supplementary Appropriation Bills SELECT COMMITTEES	18436
 System Bill	15021,49
 TABLING OF A BILL	13126
 TABLING OF BILLS	13126,5
@@ -1216,6 +1272,7 @@ Technopolis Bill	6133
 Tehnopolis Bill	6133
 Telecommunication. Bilateral Institutional Mechanism	17240
 Termination of Pregnancy Bill	13040
+Third Reading of Appropriation Bill	18436
 Thématiques Bilan Paix	4895
 Tinkhundla Administration and Local Government Bill	12970
 Tinkhundla Local Government Bill Consultations	12970
@@ -1227,7 +1284,7 @@ Trade Facilitation and Border Management Bill	13060
 Transitional Constitution. Bills	12492
 Transmission of Bills	11289
 Travel Documents and Passports Bill	11986
-Treasury Bill	7695
+Treasury Bill	7695,10805
 Treasury Bills	7695,6003
 Treasury Bills and Bank of Mauritius Bills	14717
 Treasury Bills and Sukuk Al Salaam	17317
@@ -1256,13 +1313,15 @@ VBAB. Bilateral	18016
 VETTING BILL	17388
 Vaccinator Surveys and Digital Payments Research Bill	1112
 WASTE MANAGEMENT BILL	17388
-Wage Bill	12972
+Wage Bill	12972,5528
+Wage Bill Management Strategy	18577
 Wage Bill Upon	16985
 Water Amendments Bill No.33	14546
 Water Department Loses Ksh.22 Billion	2428
 Water Services Amendment Bill	8599,2637
 Whistle Blowers and Witness Protection Bill	8681
 Wildlife Protection Bill	7760
+Withdrawal of Bills	18436
 Women Enterprise Development Fund Bill	3583
 Women's Nutrition and Health Bill	2177
 Workplace Fairness Bill	11135

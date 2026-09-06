@@ -67,7 +67,7 @@ Assuming the Council’s Chairpersonship	7142
 Assumir	4218,7166,517
 Assumiremos	15476
 Assumiu-se	11569
-Assumption	7845,14,3317,687,803,835,158,1066,699,1716
+Assumption	7845,14,3317,687,803,835,158,1066,699,1716,1319,98
 Assumptions	2775,939,1819,58,6395,189,742,120,901,52,684,284,887,1029,41,12,1182
 Assumptions All	11986
 Assumptions Availability	11986
@@ -189,17 +189,19 @@ Assureurs Non90 Oui Oui Non Non	11944
 Assurez	14683
 Assurez-vous	16091,538
 Assuring	1000,815,9026,3936,2108
-Assuring Sustainable Water Availability and Safe Sanitation	8012,3,3268
+Assuring Sustainable Water Availability and Safe Sanitation	8012,3,3268,7267
 Assuré	16327
 Assurés	15685
 Assurés Article	15361
 Assurés Taux	15685
 Atlantique Assurance Vie	6883
 Atlantique Assurances	6883
+Auditor General’s Annual Report. Quality Assurance	18577
 Automated Corporate Support Services Assumptions NA	11986
 Autorité de Contrôle des Assurances	568,16917
 BOM Assurances of Integrity	14777
 BOM Assurances of Integrity Data Quality Indicators	14777
+Background School Quality Assurance Officers	18557
 Baseline Assumptions All	10157
 Board Audit and Risk Assurance Committee	6946
 Board Audit and Risk Assurance Committee BETA	6946
@@ -226,6 +228,7 @@ Cameroun Assurer	15999
 Catégorie Assurances Individuelles Contrat	13390
 Cellule Assurance Qualité	18121
 Census Data Processing and Data Quality Assurance	16921
+Chairman Sorie Fofana Assures Sierra Leoneans	18497
 Chamada A Assumir Papel Nacional Américo	8827
 Combined Assurance	11131
 Combined Assurance Forum	11131
@@ -311,6 +314,7 @@ FINANCING ASSURANCES REVIEW EXECUTIVE SUMMARY	17209
 Federation Assurance Level	10775
 Fees and Assumptions	11240
 Financing Assurances Review	15752
+Findings Against Tested Assumptions	18557
 Footprint Development and Hospitals Assumptions Availability	11986
 G. Quality Assurance and Compliance	16975
 GATEWAY TRAFFIC MEASUREMENT AND REVENUE ASSURANCE	17250
@@ -362,6 +366,7 @@ Levels of Assurance	10765,10,44
 Lot Quality Assurance Sampling MDA	10776
 L’Africaine des Assurances	10467
 MAXI-PRO ASSURANCES	16413
+MDAs The Quality Assurance and Improvement Programme	18577
 MHz H24 Assure APP	17006
 MHz H24 Assure APP TWR MALABO	17006
 MOF Assurances of Integrity	14777
@@ -416,6 +421,8 @@ PM7 Establish Quality Assurance Unit	12917
 PRINCIPAL Assurer	14489
 PRINCIPLES AND ASSUMPTIONS	16874
 Paulo Manuel de Assunção Pedro	430
+Payroll Monitoring The Payroll Quality Assurance	18577
+Payroll Quality Assurance	18500
 Planning Assumptions The Electoral Commission	7266
 Pro Assurance- Banque	17829
 Proficiency Testing Quality Assurance I Quality	4153
@@ -426,11 +433,12 @@ QUALITY ASSURANCE	9855,4554
 QUALITY ASSURANCE Standard Digital	9855
 QUALITY ASSURANCE UNIT	14736
 QUALITY ASSURANCE UNIT The Mauritius Standards	14736
-Quality Assurance	899,6367,63,4528,3,96,400,44,212,305,58,62,344,1028,333,70,268,81,3,19,577,411,265,431,29,31,44,97,46,43,128
+Quality Assurance	899,6367,63,4528,3,96,400,44,212,305,58,62,344,1028,333,70,268,81,3,19,577,411,265,431,29,31,44,97,46,43,128,1196,62,21
 Quality Assurance Agency for Higher Education	14787
 Quality Assurance Authority	14747,21,2458
 Quality Assurance Establish	16963
-Quality Assurance Framework	9855,5905,1161
+Quality Assurance Framework	9855,5905,1161,1824
+Quality Assurance Frameworks	18745
 Quality Assurance Management Information System	13623
 Quality Assurance Manager	12726
 Quality Assurance Manual. Audit Transformation	11134
@@ -463,6 +471,8 @@ Quality Assurance and Standards Deputy Governor Policy	15023
 Quality Assurance and Standards National AI	4528,7984
 Quality Assurance and Training Unit	14736
 Quality Assurance and Validation	14666
+Quality Control Assurance	18460
+Quality Control and Assurance	18617
 Quality Management and Quality Assurance	13385
 R.5. Assurer	15474
 R8. Assurer	15493
@@ -492,6 +502,10 @@ SUNU Assurances Vie Bénin SUNU Assurances	10821
 SUNU Assurances Vie Bénin Traitement	10821
 SWIFT Infrastructure Strengthened and Independently Assured	11134
 Scheme. Level of Assurance Levels	10819
+School Quality Assurance	18564
+School Quality Assurance Officers	18557
+School Quality Assurance Officers' AI	18557
+School Quality Assurance and Resource Management	18460
 Security Assurance	18183
 Seed Quality Assurance and Regulation	14818
 Seed Quality Assurance and Regulation Limited	14818
@@ -499,6 +513,7 @@ Service Crédit Epargne Assurance Dépôts	11944
 Service Quality Assurance	12389
 Settlement Combined Assurance Forum Central Bank	11131
 Significantly Higher Assuming	11140
+Sorie Fofana Assures Sierra Leoneans of Expanded	18497
 Sources Assumed	1828
 Sovereign Effective Assurance Levels	3787
 Sovereignty Effective Assurance Level	3787
@@ -533,6 +548,7 @@ Technologies Assurance Emerging Technologies	7548
 Telecommunications Revenue Assurance	15120
 Testing and Quality Assurance	11216,725,459,2527
 Testing and Quality Assurance Reports	16600
+Textbook Ratio SQARM School Quality Assurance	18460
 Tiered Identity Assurance Framework	12241,839
 Transform Quality Assurance Unit	17364
 Transformation Assurer	17983

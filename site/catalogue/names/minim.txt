@@ -18,6 +18,7 @@ CSD Minimum Interoperability Standard MHD Multi-Patient	1009
 Case Minimum Requirements Password User	11952
 Child Labour and Minimum Age Sections	1988
 Child Protection A. Development of National Minimum	12977
+Choice of Subjects Allowed Minimum	18461
 Color Contrast Minimum	11952
 Component Minimum Target Type Coverage Coverage	11952
 Construction Site Observation Daily Minimize	17114
@@ -53,6 +54,7 @@ E. Data Minimisation	13381
 EXIGENCE MINIMALE Supérieur	15943
 EXIGENCES MINIMALES	15943
 Education and Training Authority MISS Minimum Information	11196
+Equity Minimum Diet Diversity	18441
 Euro Minimum	17833
 Expectations and Minimum Maturity Level	15054
 Explicit Minimum Best-fit	15164
@@ -107,15 +109,17 @@ Mandatory Minimum Energy Efficiency Performance Standards	12389
 Mandatory SIM Registration Minimal	10415
 Mean Annual Maximum and Minimum Temperatures	2775
 Mean Annual Minimum Temperatures	2775
+Mean and Minimum Ages of Pregnant Girls	18460
 Meet Minimum Requirements	11005
 Meeting MP Member of Parliament MPSS Minimum	11218
 Meeting Minimum Fiscal Transparency Requirements Significant	11005
 MiniMartap	15542
-Minimal	961,4286,967,218,2691,493,1110,375,766,85,424,379,340,1090,1286,741,902
+Minimal	961,4286,967,218,2691,493,1110,375,766,85,424,379,340,1090,1286,741,902,1514
 Minimal Data Collection	12281
 Minimal Digital Ecosystem	16397
 Minimal Functions and Services	16876
 Minimal Identity	10775
+Minimal Maturity	18628
 Minimal Meaning	9855
 Minimal Risk	12675,3537
 Minimal Risk AI	16212
@@ -145,10 +149,11 @@ Minimized	10550,3128
 Minimizes	13037
 Minimizing	1988,5771,7162,2063
 Minimizing Algorithmic Bias and Discrimination	1161
-Minimum	34,713,24,1006,163,1381,357,36,147,567,6,298,933,11,3,1261,6,602,1575,205,275,506,767,100,153,53,13,57,311,234,60,3,14,67,11,1,3,39,13,35,160,11,132,43,51,43,13,258,80,89,36,72,5,1,148,102,279,1217,31,20,46,16,32,69,37,46,84,547,288,313,531,35,22,118,19,212,95,23,70,433,434
+Minimum	34,713,24,1006,163,1381,357,36,147,567,6,298,933,11,3,1261,6,602,1575,205,275,506,767,100,153,53,13,57,311,234,60,3,14,67,11,1,3,39,13,35,160,11,132,43,51,43,13,258,80,89,36,72,5,1,148,102,279,1217,31,20,46,16,32,69,37,46,84,547,288,313,531,35,22,118,19,212,95,23,70,433,434,137,20,82,13
 Minimum Acceptable Diet	15247
 Minimum Access Conditions	5620
 Minimum Age Convention	14011
+Minimum Alternate Tax	18500
 Minimum Alternative Tax	5247,5381,4046
 Minimum Assurance Level	3787
 Minimum Bachelor	13185
@@ -162,8 +167,9 @@ Minimum Cybersecurity Guidelines	9695
 Minimum Cybersecurity Standards	15161
 Minimum Data Speed	13218
 Minimum Degree	13185
+Minimum Diet Diversity National	18441
 Minimum Dietary Diversity	15247
-Minimum Dietary Diversity for Women	12978,4149,38
+Minimum Dietary Diversity for Women	12978,4149,38,1405
 Minimum Duration	12389
 Minimum Emission Standard Compliance	11228
 Minimum Emission Standards	11228
@@ -183,6 +189,7 @@ Minimum Information Security Standards	11196,790
 Minimum Initial Specification	11797
 Minimum Interoperability Standard	11184
 Minimum Interoperability Standards	11184
+Minimum Issued Share Capital	18556
 Minimum Licence Duration	6891
 Minimum Liquid Capital KES	10738
 Minimum Liquidity	16878
@@ -262,7 +269,9 @@ Social Paquet Minimum	17882
 Soumissionnaires Minimum	10876
 South Sudan Minimum Standards for Education	3583
 Stable Funding Ratio NSFR Minimum	15023
+Standard Minimum Rules	18512
 State. Minimum	11857
+Subjects Allowed NOT ALLOWED Minimum	18461
 Survival Minimum Expenditure Basket Civil Protection	10763
 System Processor Minimum Intel Quad Core	34
 TEAM COMPOSITION AND MINIMUM QUALIFICATION	3678

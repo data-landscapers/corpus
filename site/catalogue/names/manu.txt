@@ -26,11 +26,14 @@ Anthony Manu	15312
 Antonio Manuel Baptista	16942
 Any Manufacturer’s Authorizations and Subcontractor	14766
 Arnaldo Manuel Carlos. Na	11392
+Assets and Inventory Manual for Ministries	18500
+Assets and Inventory Manuals	18577
 Association of Manufacturers	12376
 Association the Liberia Project Implementation Manual	16144
 Association the WAEMU Project Implementation Manual. WAEMU	16144
 Association. The Project Implementation Manual	1867,16237
 Así Manuel Osa Nsue	17171
+Audit Manual Review	18577
 Automotive Component Manufacturers Association	16331
 B. Project Implementation Manual	14912,2024
 BAGS AND BALERS MANUFACTURES	7167
@@ -53,7 +56,7 @@ C. Manufacturing	13060
 CAFCA Builds Regional Manufacturing Reach Kansanshi	6011,985
 CAPI Manual	15574
 CBN Foreign Exchange Manual	14453,20,1
-CERC Manual	14912,746,1,310,175,792,163,15
+CERC Manual	14912,746,1,310,175,792,163,15,1390
 CERC Manual and Emergency Action Plan	14912,606,141,1277
 CERC Manual and Emergency Page	10964
 CERC Operational Manual	16896,26
@@ -89,7 +92,7 @@ Chairperson of Uganda Sugar Manufacturers Association	17770
 Chief Data Officer Manuel	748
 Co-operation and Development OM Operations Manual ONOUSC	17458
 Comme Merveille Manuella	2513
-Commercial Transaction Manual	10411
+Commercial Transaction Manual	10411,8212,12
 Commercial Transactions Manual	14910,2
 Committee Training Manu	17180
 Complaints Management Manual	12301
@@ -122,6 +125,7 @@ Design Engineering and Manufacturing Solutions	3760,9683
 Develop Tax Appeals Manuals and Guides Completion	17011
 Developed Electricity Sector Inspection Manual	16978
 Development Objective PIM Project Implementation Manual	11549,4835
+Development of Budget Preparation Operational Manual	18488
 Device Manufacturing	3487
 Devices Manuals	13185
 Digital Gabon Project Implementation Manual	15518
@@ -183,13 +187,15 @@ Frascati Manual	10421
 French Manufacturers	12066
 Fund’s Accounting Procedure Manual	13420
 GRM GRM Manual Committees and GRM Institutional	12253
-GRM Manual	12253
+GRM Manual	12253,6281,101
 GRM Manual Frequency Every	11905
 GRM Manual This Grievance Redress Mechanism	15055
 Gambia Project Implementation Manual	16936
 General Manuel H	9399
 Ghana Automotive Manufacturing Development Programme	17108
 Good Manufacturing Practices	10776,4042,387,3165
+Good Manufacturing Practices Inspection	18541
+Good Manufacturing Practices Inspection Fees	18541
 Goods Manufactured	13185
 Goods Manufactured Outside the Purchaser's Country	13185
 Google and Intel Enable Real-time Manufacturing Operations	4434
@@ -199,6 +205,7 @@ Government Digital Service. Service Manual	11216
 Government Digital Service. Service Manual. Available	11216
 Government Finance Manual	1828
 Government Finance Statistics Manual	13868,909
+Government Internal Audit Manual	18577
 Governor Manuel Tiago Dias	8020
 Grants Manual	1867,9988
 Green Manure Crops Promotion MoALMR	17157
@@ -245,6 +252,7 @@ Inhambane and Zambezia. The CERC Manual and Emergency	1228
 Inspection Manual	16978
 Inspection Manual The Commission	16978
 Institutional Level Quality Manuals Used	15760
+Instructions Manual	18464
 Integrated Manufacturing Systems	14736
 Interior Minister Manuel Homem	9399
 International Investment Position Manual	2775
@@ -288,8 +296,10 @@ Le Manuel	15595
 Le Manuel des Procédures Administratives Financières	10975
 Letter Post Manual	11129
 Livestock Manure	12233
+Local Council Internal Audit Manual	18577
 Local Electronics Manufacturing	16046
 Local Manufacturers and MSB Standards Committee	14736
+Local Manufacturing	18532
 Local and International Manufacturers	14883
 Louis Manu	10481
 Lourenço Eugénia Ulo Manuel Artur Eliana	11421
@@ -330,7 +340,7 @@ Manuais Relatórios	12021
 Manuais da Aplicação	12021
 Manuais de Procedimentos	11898
 Manuais de Utilizador	12021
-Manual	467,2,162,1,211,1,2,223,376,10,533,1616,1929,1138,275,258,1400,599,34,594,981,17,300,27,94,127,58,463,43,11,13,35,37,27,87,45,59,95,95,592,295,88,717,290,311,39,58,130,90,83,26,208,104,77,667,46,55,310,222,45,32,48,179,78,206,163,705,61
+Manual	467,2,162,1,211,1,2,223,376,10,533,1616,1929,1138,275,258,1400,599,34,594,981,17,300,27,94,127,58,463,43,11,13,35,37,27,87,45,59,95,95,592,295,88,717,290,311,39,58,130,90,83,26,208,104,77,667,46,55,310,222,45,32,48,179,78,206,163,705,61,164,127
 Manual Checks	9123
 Manual Clearing	17235
 Manual Consultancy Development of Training Materials	16867
@@ -450,6 +460,7 @@ Manufactur- Electricity Construc- Wholesale	2775
 Manufacture	236,2539,8377,4054,166
 Manufacture Foundation Model	15713
 Manufacture and Build	14985
+Manufacture and Trading	18602
 Manufacture of Non-alcoholic	11152
 Manufacture's Authorizations	13185
 Manufactured	7204,5929,52,3715
@@ -470,11 +481,13 @@ Manufacturer. The Bidder	13185
 Manufacturers	236,1752,1663,4225,413,487,1713,1368,519,944,1354,406,47
 Manufacturers Association of Nigeria	11866
 Manufacturers of AI	3651
+Manufacturer’s Authorisation	18543
+Manufacturer’s Authorization	18543
 Manufacturer’s Authorizations	14766,314
 Manufacturer’s Suggested Resale Prices	11036
 Manufactures	13263
 Manufacture’s Authorizations	15080
-Manufacturing	236,182,300,1222,391,3,441,182,1477,788,311,792,1640,1163,1260,304,71,93,120,146,30,144,228,57,293,7,1,94,370,43,10,1,31,5,9,153,364,91,7,62,1,62,110,19,6,65,89,174,465,606,92,4,14,7,4,51,94,100,113,6,138,30,884,10,567,67,111,224,268
+Manufacturing	236,182,300,1222,391,3,441,182,1477,788,311,792,1640,1163,1260,304,71,93,120,146,30,144,228,57,293,7,1,94,370,43,10,1,31,5,9,153,364,91,7,62,1,62,110,19,6,65,89,174,465,606,92,4,14,7,4,51,94,100,113,6,138,30,884,10,567,67,111,224,268,980,58
 Manufacturing Accommodation	5247
 Manufacturing Construction Wholesale	14832
 Manufacturing Cyber Security	3760,9683
@@ -484,6 +497,7 @@ Manufacturing Diversify	5245
 Manufacturing Diversify Expand Adoption	10856
 Manufacturing Electricity	2775
 Manufacturing FDI	14997
+Manufacturing Licence	18541
 Manufacturing Low Demand	12445
 Manufacturing Male Female Total Water	12445
 Manufacturing Micro	12445
@@ -598,6 +612,7 @@ Participant User Manual	12364
 Paulo Manuel de Assunção Pedro	430
 Pf0dults manufactures	15999
 PforR Program-for-Results PIM Project Implementation Manual	3604
+Pharmacy Licence Manufacturing	18541
 Pichou Santu Manuella	16100
 Portfolio Exposure Outstanding IFZ MAS Manufacturing	11469
 Portuguese O Manual Operacional	12797
@@ -607,6 +622,7 @@ Preenchimento Manual Consulta Conta Corrente DCI	12018
 Preparation of Application Manuals	11941
 Presidente João Manuel Gonçalves Lourenço	11072
 Presidente da República João Manuel Gonçalves Lourenço	10772
+Procedure Manual	18500
 Procedures Manual	15372,146,83
 Procedures Manual for Environmental and Social Management	1988
 Procedures Manual. The FM	10829
@@ -646,7 +662,7 @@ Project Manuals	18104
 Project Operation Manual	1988,15453
 Project Operation Manual. Inputs	15411
 Project Operational Manual	17441
-Project Operations Manual	427,6112,4290,588,438,2140,981,435,103,183,1199
+Project Operations Manual	427,6112,4290,588,438,2140,981,435,103,183,1199,1765
 Project Operations Manual Effectiveness Article IV	15661
 Project Operations Manual For Western Africa	16936
 Project Operations Manual Number	11855
@@ -658,12 +674,14 @@ Project’s Grants Manual. The Grants Manual	11855
 Projet de Manuel	17830
 Property Tax Diagnostic Manual. Washington	10997
 Proxy Means Test Project Implementation Manual	15601
+Public Service Manual	18612
 Pêche MaPCAD Manuel des Procédures de Collecte	10876
 QUEM DEVE USAR O MANUAL	11435
 QUEM DEVE UTILIZAR O MANUAL	11435
 Quality Assurance Manual. Audit Transformation	11134
 Quality Sandcrete Block Manufacturing	16900
 Quantum Indices of Manufacturing Production	2775
+Quarterly Business Survey and Manufacturing Producers’ Price	18475
 Quarterly National Accounts Manual	236
 RAPID-CI FM Procedures Manual	3604
 Rates Imports Locally Manufactures	17011
@@ -673,6 +691,7 @@ Real-time Manufacturing Operations	4434
 Reference Manual for Civil Registration and Vital Statistics	16434
 Registrar of Marriages Ends Manual Printing of Certificates	12290
 Registry Operations Manual	15138
+Regulation and Operation Manual NPPA National Public	18488,89
 Resolution Manual	17257
 Responsables Open Data Manuel Open Data	747
 Revised Grievance Redress Mechanism Manual Digital	12253
@@ -747,7 +766,7 @@ Unit POM Project Operations Manual PPP	10829
 Universidade. Para Manuel Guilherme Júnior	9694
 Update the Land Operations Manual	18354
 Updating the Project Operations Manual	2989
-User Manual	1828,8952,1584
+User Manual	1828,8952,1584,6264
 User Manuals	12364
 User Manuals and Technical Documentation	12400,2690
 User’s Manual	1828

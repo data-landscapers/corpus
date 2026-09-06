@@ -162,6 +162,7 @@ Deputy Minister Dr. Nomalungelo Gina	6480
 Deputy Minister Nomalungelo Gina	11221
 Description Nombre	10876
 Description Nominator	11417
+Disclosure of Nominee Arrangements	18556
 Disponible Nombre	14622
 Doações Nome	11532
 Docum Nombre	3396
@@ -219,6 +220,7 @@ Freeman Nomvalo	9365
 G LE NOM DE L'ENDROIT. AUTRE	13300
 G' POUR LE NOMBRE RESTANT	13300
 GARÇONS FILLES PEU IMPORTE NOMBRE	13300
+GDP Rebasing Exercise Nominal GDP	18483
 GE INSCRIVEZ LE NOM ET	13300
 GESTÃO DE NOMES DE DOMÍNIO	11531
 GOUVERNANCE ET DU PLAN IDENTIFICATION NOM	13300
@@ -312,6 +314,7 @@ Journal PORTANT NOMINATION DU DIRECTEUR GENERAL	18032
 KIRUNDI CHEF D'ÉQUIPE NOM NUMÉRO Annexe	13300
 Kadugli Nomads	15244
 Kandia Camara. Nommé	6144
+Kenema Nomo	18464
 Khashm Al-Qirba Nomads	15244
 Kosti Nomads	15244
 Kourwéogo. III.2. NOMINATIONS DANS LES CONSEILS	16287
@@ -743,12 +746,14 @@ Nomfundo Gladys Khoza	6948
 Nomimi Mothibi Clinic	11980
 Nominal	1783,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1404,1,1,1,1,1,1,1,1,1,1686,242,1944,1,1,1,1,1,1,1,1,4434,333,96,2,1913,1117,179,307,133,1653
 Nominal Administrative	14546
+Nominal Exchange Rate Variation	18455
 Nominal Exports	17257
-Nominal GDP	2775,8361,1364,1148,37,183,1117,2250,22,246
+Nominal GDP	2775,8361,1364,1148,37,183,1117,2250,22,246,985
 Nominal GDP USD	5247
 Nominal GDP of K31.5	13122
 Nominal Orbital Position Operational Frequency	736
 Nominal Principal Interest Rates	2775
+Nominal Rebased GDP	18483
 Nominal and Real Interest Rates	2775
 Nominate	10960
 Nominated	10313
@@ -757,12 +762,13 @@ Nominated Members of Parliament	13399
 Nominated Senator Catherine Mumma	6160
 Nominated Senator Miraj Abdillahi	8214
 Nominated Subcontractors	1638
-Nomination	2342,6549,2290,1899,15,280,1487,533,31,13,16,10,23,1,35,34,57,45,32,52,36,6,62,53,138,61,77,97,93,46,12,31,180,71,696
+Nomination	2342,6549,2290,1899,15,280,1487,533,31,13,16,10,23,1,35,34,57,45,32,52,36,6,62,53,138,61,77,97,93,46,12,31,180,71,696,1056
 Nomination Au	15615
 Nomination Committee	585,8281,641,407,461,1448
 Nomination Committee Rationale This Article	8866
 Nomination Committee. None	11823
 Nomination Committee. Ordinary Resolution	8866
+Nomination Fee Formulae	18459
 Nomination L’intéressé	16100
 Nomination and Appointment	13948
 Nomination and Remuneration Committee	12358
@@ -959,6 +965,7 @@ RUBRIQUES Nombre	4459
 Rapid Transfer Nombre	13390
 Rapport Nombre	17983
 Rapport de BEAC Nombre	10965
+Rebased Nominal and Real GDP	18483
 Refi Aroma Nomads	15244
 Refi Kassala Nomads	15244
 Register Nominee Shareholders and Directors	12389
@@ -999,6 +1006,7 @@ SIGRH Identification des Nombre	17872
 SIGRH Nombre	17872
 SNEEG Nombre	18286
 SNFI OBJECTIF INDICATEURS STRATEGIQUE Nombre	10965
+SNOMED CT Systematized Nomenclature of Medicine Clinical	18478
 SOCIALE NOMINATION Arrêté	15465,991
 SOKUDLULISELA EGAMENI LOMUNYE NOMA SOKUGUQULWA SELAYISENSI	11573
 SOLARHYDROW Concession Attente Nombre	10975
@@ -1020,6 +1028,7 @@ Scope Subsystem Type Nominal Refers	7221
 Scope System Type Nominal	7221
 Scope System Type Nominal Distinguishes	7221
 Scope System Type Nominal Indicates	7221
+Search and Nomination	18553
 Sections Foncières Nombre	10876
 Sections Nombre	10876
 Sexe Nombre	10847

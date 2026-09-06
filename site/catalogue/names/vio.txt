@@ -85,6 +85,7 @@ First Experience of Sexual Violence	15247
 Forced Labor Gender-Based Violence	1988
 Forms of Controlling Behaviour and Intimate Partner Violence	15247
 GBV Gender Based Violence	15036
+GBV Gender Based Violence GBVIMS Gender-Based	18512
 GBV Gender Based Violence GDP Gross	15659
 GBV Gender-Based Violence	11965
 GBV Gender-Based Violence GDP Gross Domestic	1988,8780,4370
@@ -101,16 +102,18 @@ Gender Based Violence GDP	16951
 Gender Based Violence GDP Gross Domestic	970,12362
 Gender Based Violence Safe Programming	15093
 Gender Based Violence and Children Protection	16944
+Gender Based Violence and FGM	18458
 Gender Based Violence and Sexual Exploitation and Abuse	1988
 Gender Based Violence and Social Safety Nets	15601
 Gender- Based Violence	17099
-Gender-Based Violence	1228,5721,2,4279,187,1359,201,497,1268,313,498,106,1292,148,15,472,376,408
+Gender-Based Violence	1228,5721,2,4279,187,1359,201,497,1268,313,498,106,1292,148,15,472,376,408,142,20
 Gender-Based Violence GDP Gross Domestic Product	16896
 Gender-Based Violence GIPM	14760
 Gender-Based Violence GPEI	10776
 Gender-Based Violence Gross Domestic Product Geo-Enabling	15658
 Gender-Based Violence Gross Domestic Product Government	1228
 Gender-Based Violence Impact Displaced	16902
+Gender-Based Violence Information Management System	18512
 Gender-Based Violence SSC Sector Skills Council	15604
 Gender-Based Violence Survey	17116
 Gender-Based Violence TA Systematic Tracking of Exchanges	11905
@@ -124,6 +127,7 @@ Gender-based Violence Observatory	14742
 Gender-based Violence and Femicide	5533,6453
 Gender-based Violence and Femicide Plan	5533,6453
 Genre VCE Violence Contre	15746
+Goals SGBV Sexual and Gender-Based Violence SLCS	18477
 Government Development Index GBV Gender-Based Violence	13731
 Grievance Channel for Gender-Based Violence	17114
 HOMMES Violence	13300
@@ -133,7 +137,7 @@ I- Violation	15393
 ILO Violence and Harassment Convention	17934
 IPV Intimate Partner Violence	11965
 IV- Violation	15393
-Intimate Partner Violence	13454,1793
+Intimate Partner Violence	13454,1793,3265
 Intimate Partner Violence KAP	16951
 J. Baptiste UWIMANA Violette NKURIKIYE Francine	13300
 Joint Gender-Based Violence	12626
@@ -157,6 +161,7 @@ Madame Violène IROUNGUI-LEMBA	16099
 Measurement of Violence	15247
 Medição da Violência	10777
 Million For Privacy Violations URL	12189
+Mitigate Gender-Based Violence	18512
 Mob Violence	16935
 NATIONAL STRATEGY TO END VIOLENCE	12939
 NDAYISENGA Viola NDAYISHIMIYE Marie Louise NDEREYIMANA	13300
@@ -213,15 +218,16 @@ SI L'ENQUÊTE SUR LES VIOLENCES N'A	13300
 SOP Series of Projects VAC Violence Against	17099
 SUSTAIN A VIOLENCE KNOWLEDGE CENTRE	12939
 Score Rank Absence of Violence	10837,131,1184
+Sexual Gender-Based Violence	18615
 Sexual Offences and Domestic Violence Act	12939
 Sexual Offences and Domestic Violence Regulations	12939
 Sexual Violence	12939
 Sexual and Domestic Violence Act	12939
-Sexual and Gender Based Violence	16951
+Sexual and Gender Based Violence	16951,1509
 Sexual and Gender Based Violence SGVB	16951
 Sexual and Gender Based Violence STIs	16951
 Sexual and Gender Based Violence Sexual and Gender	16951
-Sexual and Gender-Based Violence	5244,11707,154,62
+Sexual and Gender-Based Violence	5244,11707,154,62,1345
 Sexual and Gender-Based Violence Thematic Policy Statement	16951
 Sexual and Gender-based Violence Services	16951
 Shadow of Violence	15342
@@ -247,9 +253,11 @@ United National Population Fund VAC Violence	12939
 V. Violence	6612
 VAC Violence Against Children VAT	2775
 VAC Violence Against Children VDC Village	16926
+VAC Violence Against Children WAEMU West	18504
 VBG Violences Basées	15746
 VIOLATION OF POLITICAL PLURALISM	17950
 VIOLATION OF THE ACT COMPLAINT	3307
+VIOLATIONS	18592
 VIOLENCE	12939
 VIOLENCE AGAINST CHILDREN	12253
 VIOLENCE BASÉE SUR LE GENRE	13300
@@ -288,7 +296,7 @@ Violators	5696
 Violação	14,525,255,2725,7906,3967,41,17,59
 Violação Fronteiriça Aquela	11528
 Violação da Livre Iniciativa Os Artigos	11436
-Violence	1264,724,6214,1467,84,1006,70,6,2,1,130,501,401,16,1,1,1,263,1,1,9,177,1,11,1,135,451,38,323,12,2,1110,1,63,1,1,470,16,120,94,152,279,122,105,60,476,260,297,10,7,156,820,49
+Violence	1264,724,6214,1467,84,1006,70,6,2,1,130,501,401,16,1,1,1,263,1,1,9,177,1,11,1,135,451,38,323,12,2,1110,1,63,1,1,470,16,120,94,152,279,122,105,60,476,260,297,10,7,156,820,49,458
 Violence Against Children	10776,1477,120,573,31,4122
 Violence Against Children Agriculture	1988
 Violence Against Children Survey	12977
@@ -315,8 +323,11 @@ Violence GDP Gross Domestic Product GER	17458
 Violence GDP Gross Domestic Product GHG	1264
 Violence GDP Gross Domestic Product GMD	16952
 Violence GDP Gross Domestic Product GRF	1867
+Violence GEWE Gender Equality and Women Empowerment	18624
+Violence GHG Green House Gas GM	18504
 Violence Government Communications Network Grievance Redress	4653
 Violence Health	11525
+Violence Information Management System GBS Gender	18512
 Violence Information Management System GDDS General	13359
 Violence NATTIC Nhlangano AIDS Testing Treatment	12939
 Violence OVC Orphaned and Vulnerable Children PSS	12939
@@ -325,6 +336,7 @@ Violence Prevention Plan Gender Based Violence	12253
 Violence Public Disclosure Authorized Authors	17906
 Violence Report	12977
 Violence SIDA Swedish International Development Agency	16943
+Violence SSS Senior Secondary School Stats	18460
 Violence Strategy	10841
 Violence URL	17906
 Violence Violence Effectif	13300
@@ -339,7 +351,7 @@ Violences Contre	14488,1,1
 Violences Sexuelles	13442
 Violencia	16898
 Violencia de Género	6841
-Violent	10841,436,5837,792
+Violent	10841,436,5837,792,795
 Violent Contexts	17906
 Violet Nabatanzi	4922
 Violet Nabatanzi and Juliet Waiswa	9784

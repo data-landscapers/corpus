@@ -62,6 +62,7 @@ Countries of Origin	10841
 Country of Origin	2775,8066,1145,2789,717,1443
 Country of Origin Fig	1554
 Country of Origin Information Unit	13997
+Current Senior Secondary Orientation	18461
 Curso de Orientación Universitaria	16864
 Customer Oriented	12358
 D. ORIENTATIONS STRATÉGIQUES	17842
@@ -84,7 +85,7 @@ DRIVER'S ORIGIN GATE MUST	5240
 Data Center OEM Original Equipment Manufacturer	3184,1,1340,6470
 Demba Kasaï Oriental Nkenakuna Kasaï Oriental	15670
 Demonstração da Orientação	11430
-Development Objective Original Development Objective	2712,1976,1891,349,949,2993,525,576,17,240,39,173,587,31,858,4,136,892,32,51,128,576,2,276,66,626,289,6,79,17,374,35,399,54,48,127,217,4,1
+Development Objective Original Development Objective	2712,1976,1891,349,949,2993,525,576,17,240,39,173,587,31,858,4,136,892,32,51,128,576,2,276,66,626,289,6,79,17,374,35,399,54,48,127,217,4,1,179
 Didier Bompangue. Originally	14666
 Direction des Orientations	15936
 Diário Económico Original	8407,300,1648,115,1121,131
@@ -101,7 +102,7 @@ Economie Numérique Orientation	16641
 Economie Numérique Orientations Stratégiques	17824
 Education Orientation Law	15661
 Effective. Original Closing	11965
-Effectiveness Date Orig. Closing Date Rev	15619,1019
+Effectiveness Date Orig. Closing Date Rev	15619,1019,1835
 Effectiveness OEM Original Equipment Manufacturer OOB	13185
 Electronic Certificate of Origin	13440,123
 English Investment Sovereign Operation Original	13938
@@ -120,6 +121,7 @@ FY2027 FY2028 FY2029 Original Estimation	4653
 FY2027 Original Estimation	16032
 Fabian Oriri	12227
 Feb-2017 Original Closing	15601
+Feb-2023 Original Closing Date	18473
 Federal Ministry of Information and National Orientation	7144
 Feuille de Route Orientation	17860
 First Orientation Meeting	17322
@@ -174,6 +176,7 @@ Kasaï Oriental EXTENSION DU RESEAU Tableau	15670
 Kasaï Oriental. Selon	15670
 Kaspar Wyss. Originally	10919
 Katende Kasaï Oriental Tshimbombo LIBELLE PROJET	15670
+Key Project Data and Ratings Original Project	18635
 Kigali Original Site Publication Date	9892,1
 Kontaktu. ORIENTAÇÕES PARA PAGAMENTO SIMPLIFICADO	11532
 Kwale County Commissioner Stephen Orinde	8214
@@ -344,7 +347,7 @@ Origin of Software	3787
 Origin1	2775
 Originaire du Maroc	16825
 Originaire du Togo	14712
-Original	28,6,5,72,35,155,11,91,181,182,10,177,90,173,12,289,7,196,335,159,30,9,636,842,726,12,6,3,18,26,2,129,957,200,634,696,20,292,3323,4,110,96,150,14,30,2,194,516,33,214,204,334,243,11,128,10,117,257,408,116,785,2,119,16,68,55,28,99,21,227,95,182,41,33,222,282,75,120,407,16,12,52,1,36,336,610,56,36,135
+Original	28,6,5,72,35,155,11,91,181,182,10,177,90,173,12,289,7,196,335,159,30,9,636,842,726,12,6,3,18,26,2,129,957,200,634,696,20,292,3323,4,110,96,150,14,30,2,194,516,33,214,204,334,243,11,128,10,117,257,408,116,785,2,119,16,68,55,28,99,21,227,95,182,41,33,222,282,75,120,407,16,12,52,1,36,336,610,56,36,135,306
 Original AF Target	15663
 Original Actual Sector Code	16614
 Original Allocation	14971
@@ -360,6 +363,7 @@ Original Closing	6833,6889
 Original Closing Actual Closing	15663,2186
 Original Closing Date	12980,2639
 Original Components	15731,883
+Original Copies	18661
 Original Coroner Medical Report	16860
 Original Credit	15601
 Original Design Manufacturer	12264
@@ -395,7 +399,7 @@ Original Performance Information for Programme	11218
 Original Physician Medical Report	16860
 Original Pre-Listing Statement	5538
 Original Procurement Plan	13017,2787,348,1028,39
-Original Project	14971
+Original Project	14971,3523
 Original Project Amount US	14010
 Original Project Development Objectives	15663,951
 Original Proposal	15080
@@ -548,11 +552,11 @@ Structural Conditions and Employee Affective Orientation	5349
 Sénégal Oriental	18286,5,13
 Sénégal Oriental. Toutefois	18304
 TABLEAU DE COHÉRENCE ENTRE LES ORIENTATIONS	15583
-TF Status Approval Signing Effectiveness Orig	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1
-TF Status Currency Original Revised Cancelled	15619,1019
+TF Status Approval Signing Effectiveness Orig	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179
+TF Status Currency Original Revised Cancelled	15619,1019,1835
 TF Status IBRD-96930 Effective Original Revised	6579
 TF Status Original	11395
-TF Status Original Revised Cancelled Disbursed	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1
+TF Status Original Revised Cancelled Disbursed	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179
 TIC Orientation	16641
 TOFE ORIENTATION STRATÉGIQUE N	10712
 Table A1.3 Origin	11524

@@ -5,7 +5,7 @@ APPLICATION FOR ASYLUM	11177
 ASM Asylum Seeker Management BABS Branch	11218
 ASY. REF. ASY	11900
 ASY. REF. ASY. REF. ASY. REF	11900
-ASYCUDA	969,1143,928,2037,2129,2975,369,31,994,292,39,443,14,23,105,48,417,86,11,142,429,501,1353,1153,245,6,19,48,47,15,52,42,209,53
+ASYCUDA	969,1143,928,2037,2129,2975,369,31,994,292,39,443,14,23,105,48,417,86,11,142,429,501,1353,1153,245,6,19,48,47,15,52,42,209,53,1133,46
 ASYCUDA Access URL	16882
 ASYCUDA Advisory Board	13042
 ASYCUDA Advisory Board and Deputy Secretary-General	13042
@@ -14,6 +14,8 @@ ASYCUDA Automated System for Custom Data ATM	16876
 ASYCUDA Automated System for Customs Data ASYCUDA	16631
 ASYCUDA Automated System for Customs Data AWP	969
 ASYCUDA Automated System for Customs Data AWPB	16949
+ASYCUDA Automated System for Customs Data BCC	18577
+ASYCUDA Automated System for Customs Data CMC	18500
 ASYCUDA Automated System for Customs Data CatIS	13861
 ASYCUDA Automated System for Measurement	15478
 ASYCUDA Automated System for Performance Measurement	15478
@@ -55,7 +57,7 @@ ASYCUDA Regional Support Centre	13042
 ASYCUDA Sanitary and Phytosanitary Module The Government	15478
 ASYCUDA Support Mechanism Centre	13042
 ASYCUDA Support for Migration Tailored	13042
-ASYCUDA System	16882
+ASYCUDA System	16882,1664
 ASYCUDA System Upgrade	17063
 ASYCUDA System Upgrade URL	17063
 ASYCUDA System for Performance Measurement	13042
@@ -63,7 +65,8 @@ ASYCUDA TileSW	13042
 ASYCUDA Training	16631
 ASYCUDA Training Session for Turkmenistan Customs Officers	15478
 ASYCUDA WORLD	5077
-ASYCUDA World	969,1143,2452,3488,306,405,2954,669,268,399,261,762,142,1260,1404,62,5,19,43,94,96,166,503
+ASYCUDA World	969,1143,2452,3488,306,405,2954,669,268,399,261,762,142,1260,1404,62,5,19,43,94,96,166,503,630,77
+ASYCUDA World ASYCUDA World	18500
 ASYCUDA World Password Reset Process	12654
 ASYCUDA World Registration Process Table	12654
 ASYCUDA World System	7206
@@ -163,7 +166,7 @@ Asylum-seekers	11900,2565,2229,733
 Asymetric Digital Subscriber Line AMAP	17824
 Asymmetric	11869,4963
 Asymmetric Digital Subscriber	12395
-Asymmetric Digital Subscriber Line	13218,2154
+Asymmetric Digital Subscriber Line	13218,2154,3072
 Asymmetric Digital Subscriber Line AI	6000
 Asymmetric Perception Dynamics	11138
 Asymmetry	4258,3187
@@ -181,6 +184,7 @@ Asyut Faiyum Luxor Giza Damietta Sharqia	15578
 Asyut Qena Faiyum Luxor Gharbia Aswan	15578
 Asyut Sharqia Giza Gharbia Aswan Damietta	15578
 Asyut Sohag Monufia Minya Qena Aswan	15578
+Audit Service Sierra Leone ASYCUDA Automated	18488
 Authorized Economic Operator ASYCUDA	13053
 Automated System for Customs Data ASYCUDAWorld	13042
 Automated System for Customs Data Why ASYPM	13042
@@ -222,8 +226,10 @@ Djibouti Digital Customs ASYCUDAWorld.pdf	1393
 Download Asycudaworld Tax Information Turnover Tax	12454
 Débit Asymétrique ANTIC Agence Nationale des Technologies	15541
 ESWS. Like the ASYCUDAWorld	15478
+Electronic Cash Register and ASYCUDA World	18500
 End-to-End Supply Chain Visibility ASYCUDA	13042
 European Union Agency for Asylum	11868
+Expediting ASYCUDA System Upgrade And E-Commerce	18546
 Export Module. An ASYCUDA Mobile App	15478
 Faiyum Aswan Sharqia Dakahlia Asyut Giza	15578
 Faiyum Giza Damietta Asyut Ismailia Gharbia	15578
@@ -274,6 +280,7 @@ Nepal and Vanuatu. ASYREC	13042
 Net Savings ASYCUDA Automated System for Customs	16996
 Number of ASYCUDA Declarations Chart	15478
 Nutritional Security and ASYCUDA	13042
+Out ASYCUDA World	18577
 Outlook ASYCUDA New Generation	13042
 Outlook Timor-Leste and ASYCUDA	13042
 Outlook With ASYCUDAWorld	13042

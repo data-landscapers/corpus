@@ -205,7 +205,7 @@ Das Entidades Gestoras	11514
 Departamento de Gestão	167
 Departamento de Gestão de Infra-Estruturas Tecnológicas	11382
 Detailed Gescmotice	3972
-Deutsche Gesellschaft	1099,162,553,89,1701,107,2549,907,719,660,439,37,243,205,641,2,599,252,6,186,151,265,569,90,9,38,117,32,496,198,78,114,152,282,605,1148,451,193,1726,11,26
+Deutsche Gesellschaft	1099,162,553,89,1701,107,2549,907,719,660,439,37,243,205,641,2,599,252,6,186,151,265,569,90,9,38,117,32,496,198,78,114,152,282,605,1148,451,193,1726,11,26,578
 Deutsche Gesellschaft for International Cooperation Zambia	13578
 Deutschen Gesellschaft	11316
 Digitalisation du Système de Gestion des Recettes Domaniales	16581
@@ -282,6 +282,7 @@ GENERAL DE L’AGENCE DE GESTION	18032
 GES Ghana Education Service	6936
 GES-PETROGAZ	8269
 GES. Pour	8891
+GESCI	18565
 GESCO	15474,2396
 GESCOM	10024,7534
 GESD Citizen Engagement Committee	6754,1680
@@ -695,6 +696,7 @@ Gestão de Segurança	10747
 Gestão de Transmissão	11435
 Gestão de Viseu Ciências	17103
 GiZ Deutsche Gesellschaft	18316
+GmbH The Deutsche Gesellschaft	18485
 Gouvernement du Bénin GRH Gestion des Ressources Humaines	10876
 Government GMAO Gestion des Matériels Assisté	13341
 Gross Enrolment Rate GESD	12175

@@ -134,6 +134,8 @@ Dec-2025 Satellite	15136
 Deep Learning Analysis of Satellite Images for UN	14769
 Degree Call Flow Chart Satisfied Satisfied	16889
 Delivery Satisfaction Index	12512
+Demand Satisfied	18441
+Demand Satisfied for Modern Methods	18441
 Democratizing Satellite Data Service	14140
 Department of Space and Satellite	15167
 Description Nigeria Communication Satellite Limited	1546,921,2103
@@ -176,6 +178,7 @@ Eutelsat OneWeb’s Satellite Portal Network	7207
 Evaluation of Satellite-Based Rainfall Estimates	16135
 Experiment With Data Saturation and Variability	5349
 Exploitation of Meteorological Satellites	16077,294,1551
+Exploitation of Meteorological Satellites FSRP The Food	18578
 Explosives Satellite PMU and Water Act	1988
 Extension DSTV Digital Satellite Television EDI	13295
 FSSES Fixed Satellite Service Earth Stations	6946
@@ -216,6 +219,7 @@ High LoA. Within SATA	10819
 High Throughput Satellite	9262
 High-Throughput Communication Satellites	10699
 Highly Satisfactory	10779,3231,1009,492,152
+Highly Satisfactory S	18494
 Highly Satisfactory. PBF	16896
 Highly Satisfactory. The Bank	15511
 Highly Satisfactory. Through CAB4	15511
@@ -237,6 +241,7 @@ Increase Taxpayer Satisfaction Figure	13053
 Infrastructure Satellite	11857
 Inquérito Nacional de Satisfação	6619,4803
 Institutionalize Monitoring of User Satisfaction Adopt	17149
+Instruction Lupai Satimon Andrew	18733
 Integrated Customer Satisfaction Survey	11986
 Intel SATA Hybrid RAID	12681
 International Maritime Satellite Organisation	14409
@@ -349,17 +354,18 @@ Mobile Satellite Station Details Type	736
 Moderate Satisfaction	17149
 Moderate Satisfaction Only	17149
 Moderate Satisfactory. Compensation	13054
-Moderately Satisfactory	764,228,4,220,12,56,486,4,281,194,463,177,100,605,1059,6126,107,78,431,529,41,6,17,207,365,494,338,441,87,90,446,510,5,46,2,171,196,38,87,90,60,41,80,20,167,14,30,66,108,211,38,178,91,191,26,72,6,904,58,393,4,15
+Moderately Satisfactory	764,228,4,220,12,56,486,4,281,194,463,177,100,605,1059,6126,107,78,431,529,41,6,17,207,365,494,338,441,87,90,446,510,5,46,2,171,196,38,87,90,60,41,80,20,167,14,30,66,108,211,38,178,91,191,26,72,6,904,58,393,4,15,160,101
 Moderately Satisfactory Bank Performance	14948
 Moderately Satisfactory C.2 Detailed Ratings of Bank	16614
-Moderately Satisfactory Component	13054
+Moderately Satisfactory Component	13054,5581
 Moderately Satisfactory IP Rating Satisfactory Satisfactory	16436
 Moderately Satisfactory Implementing Agency	16614
 Moderately Satisfactory Jun	6928
 Moderately Satisfactory MU	14010,1009
 Moderately Satisfactory Moderately	17962
 Moderately Satisfactory Moderately Satisfactory	15424,1190
-Moderately Satisfactory Moderately Satisfactory Overall Risk	15619,116,903
+Moderately Satisfactory Moderately Satisfactory Overall Risk	15619,116,903,1835,61
+Moderately Satisfactory Monitoring and Evaluation	18635
 Moderately Satisfactory Name	16079,915,85,879
 Moderately Satisfactory Overall Implementation Progress	6579,5409,1932,136,2649,1650
 Moderately Satisfactory Overall Risk Rating	6579,5409,1932,136,1103,1546,295,904,102,349
@@ -367,6 +373,7 @@ Moderately Satisfactory Page	17962
 Moderately Satisfactory Progress	11971,4108,915,85,879
 Moderately Satisfactory Public Disclosure Authorized Public	16013
 Moderately Satisfactory Risk	16614
+Moderately Satisfactory U	18494
 Moderately Satisfactory Unsatisfactory Outcome	17962
 Moderately Satisfactory and FM	15511
 Moderately Satisfactory and Moderately Unsatisfactory	15601
@@ -415,7 +422,7 @@ Nigeria Communications Satellite	12066
 Nigeria Communications Satellite Limited	10699,1431
 Nigeria Nigerian Communications Satellite	2294
 Nigerian Communications Satellite	2294
-Nigerian Communications Satellite Limited	3942,1681,5185
+Nigerian Communications Satellite Limited	3942,1681,5185,7715
 Nigerian Satellite Week	5623
 Night-Time Light Satellite Imagery	11572
 No. of Satellite Earth Stations	6946
@@ -450,12 +457,13 @@ Outcome Moderately Satisfactory	14885
 Outcome Rating Moderately Satisfactory	16960
 Outcome Rating Satisfactory	14888
 Outcome Satisfactory	13722,1980,257
-PDO Moderately Satisfactory Moderately Satisfactory Overall	15619,116,903
+PDO Moderately Satisfactory Moderately Satisfactory Overall	15619,116,903,1835
 PDO Satisfactory Satisfactory Satisfactory	17962
 PMU-National and Satellite Management	1988
 POURCENTAGE DE DEMANDE SATISFAITE	17843
 PREAMBLE Satellites	2913
 PROTECTION AND EMPOWERMENT CONSUMER SATISFACTION SURVEY	15023
+Percentage of Demand for Family Planning Satisfied	18441
 Performance Rating Satisfactory	16960
 Performance and Impact of Starlink's Satellite Internet	2846
 Performance of Three Satellite Precipitation Products	16135
@@ -564,7 +572,7 @@ Satelaiti	2868,3151
 Satelitaire Satellite	18203
 Satelitaire URL	18203
 Satellitaire Figure	13375
-Satellite	236,526,497,5,390,148,54,31,39,18,44,550,308,67,63,607,42,16,906,8,26,42,437,150,31,137,150,1,35,116,257,68,257,77,320,3,9,55,7,97,2,19,40,7,48,464,548,173,3,38,374,103,500,412,436,37,373,129,52,109,66,405,23,99,210,357,538,113,28,18,212,335,274,311,15,286,153,429,137,499,48,81,38,10,12,549,830,110,92,165,17,93,634,495,8
+Satellite	236,526,497,5,390,148,54,31,39,18,44,550,308,67,63,607,42,16,906,8,26,42,437,150,31,137,150,1,35,116,257,68,257,77,320,3,9,55,7,97,2,19,40,7,48,464,548,173,3,38,374,103,500,412,436,37,373,129,52,109,66,405,23,99,210,357,538,113,28,18,212,335,274,311,15,286,153,429,137,499,48,81,38,10,12,549,830,110,92,165,17,93,634,495,8,177,124
 Satellite Analysis Branch	15907
 Satellite Analysis Exposes Extreme Farmland	15229
 Satellite Analysis Reveals	14569
@@ -685,7 +693,7 @@ Satellite Systems	10407
 Satellite TV	1944
 Satellite Technology	4352,936,7694,2154
 Satellite Technology for Crop Monitoring	14758
-Satellite Television	2776
+Satellite Television	2776,15668
 Satellite Television Boadcasting	2776
 Satellite Television Broadcasting	236,2540
 Satellite Terminal Network	6891
@@ -730,14 +738,16 @@ Satisfaction	10,727,2867,2072,375,908,1678,632,1443,426,447,359,248,187,1011,114
 Satisfaction Connecting Availability	6051
 Satisfaction Survey	17149
 Satisfaction Trend Glo T2	6051
-Satisfactory	1228,62,959,4,636,4988,2902,40,51,16,509,22,488,19,41,6,1009,47,27,405,367,7,177,970,39,140,31,234,87,90,62,119,250,155,211,38,178,264,18,26,78,79,17,374,35,344,55,58,44,127,241
+Satisfactory	1228,62,959,4,636,4988,2902,40,51,16,509,22,488,19,41,6,1009,47,27,405,367,7,177,970,39,140,31,234,87,90,62,119,250,155,211,38,178,264,18,26,78,79,17,374,35,344,55,58,44,127,241,104,157
 Satisfactory Borrower Performance	16614
 Satisfactory CAMEL	16878
 Satisfactory Component	13054
 Satisfactory E&S Performance	18374
 Satisfactory Environment All	14742
 Satisfactory Government	16614
+Satisfactory III. IMPLEMENTATION PROGRESS AND KEY	18635
 Satisfactory M&E Quality	14948
+Satisfactory MS	18494
 Satisfactory MV Medium Voltage NDC National	15969
 Satisfactory Moderately	17962
 Satisfactory Moderately Satisfactory	10779,7183

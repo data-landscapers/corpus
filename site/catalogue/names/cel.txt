@@ -53,7 +53,7 @@ CELCOM AFRICA LIMITED Data Processor INST-57229878129	7167
 CELCOM PRIMATURE	16018
 CELESTIAL DENTAL CENTRE LIMITED Data Controller	7167
 CELESTINA SORAIA TUNGUNO CACULO CASSANGE	10751
-CELEX	6476,1,1208,848,2242,44,335,1,3279,1066,1343,176
+CELEX	6476,1,1208,848,2242,44,335,1,3279,1066,1343,176,1697
 CELIK HEALTH LIMITED Data Controller INST-1045219F640	7167
 CELITE LIMITED Data Processor INST-363608A2D51 NAIROBI	7167
 CELLCOM	7032
@@ -110,7 +110,7 @@ Celebramos	17036
 Celebrar	10772,4619,112,586,809
 Celebrate	899,1578
 Celebrated	16317
-Celebrating	6690,514
+Celebrating	6690,514,11282
 Celebrating DLP Achievements	899
 Celebrating Excellence	13688
 Celebrating Partnership and Progress	11332
@@ -160,6 +160,7 @@ Cell Broadcast Early Warning System	14194
 Cell Broadcast Enabled Early Warning Systems	15120
 Cell Broadcast System	14752
 Cell Broadcast System. Upgrade	14752
+Cell Broadcast and SMS	18688,15
 Cell Broadcast-Enabled Early Warning Systems	15120
 Cell C	78,1,4653,318,2006,2855,626,85,51,60,60,4,362,36,64,76,2126
 Cell C All-in-One Plus	11259
@@ -211,6 +212,7 @@ Cell Phone Repairs	1810
 Cell Registrars	12338
 Cell Rewards Platform Promotion	11259
 Cell Selection	13418
+Cell Sites	18485
 Cell Supervision	15056
 Cell Tower Initiative	14395
 Cell Tower Range	12006
@@ -261,6 +263,8 @@ Cellular Mobile Network Infrastructure and Cumulatively	6946
 Cellular Mobile Network Infrastructure and Services	6946
 Cellular Mobile Network Infrastructure and Services Project	6946
 Cellular Network Infrastructure and Services	6946
+Cellular Network Operator License	18444
+Cellular Network Operator License The Telecommunications	18444
 Cellular Penetration	12395,657
 Cellular Phone	13096
 Cellular Quality of Service	718
@@ -562,6 +566,7 @@ Mobile Cellular Communications Operators	958,12337
 Mobile Cellular Low	12395
 Mobile Cellular Low Usage	12395
 Mobile Cellular Low Usage Basket	12395
+Mobile Cellular Network Coverage	18444
 Mobile Cellular Operators	958
 Mobile Cellular Penetration	12395
 Mobile Cellular Penetration Mobile Broadband Penetration	12395
@@ -569,7 +574,7 @@ Mobile Cellular Services	6946
 Mobile Cellular Services Global	6946
 Mobile Cellular Subscribers	12395
 Mobile Cellular Subscription Density	16975
-Mobile Cellular Subscriptions	6946,5449
+Mobile Cellular Subscriptions	6946,5449,6090
 Mobile Cellular Subscriptions Mobile Broadband Subscriptions	12395
 Mobile Cellular Telephone Network	12395
 Mobile Cellular Telephone Subscriptions	12395
@@ -582,6 +587,7 @@ Mother Tongue Celebration	12975
 Moçambique Celular	9748
 Ms Malehloa Celina Molato	12706
 Météorologie. Celles-ci	17983
+NATCOM Takes ITU Day Celebration	18444
 NDAYISENGA Claude Cellule	13341
 NDT Concrete. The CEL	14736
 NET CELTEL NIGER	18122
@@ -632,13 +638,16 @@ PRGF. Cela	14841
 PUBLIQUES DES ARMEES CELLULE D’APPUI	18032
 Participation. Cela	17879
 País. Celso Xerinda	9559
+Plot of Cell Sites of MNOs	18485
 Plus-value Cellule CCDA Organisme Archivage	10975
 Postbank Chief Commercial Officer Thamsanqa Cele	7856
 Pour Blerta Cela	9055
 Princípio da Celeridade	12774
+Product Link Cellular Radio Telematics Device	18444
 Protected Cell Companies Act	14717
 Proyecto de Celebración de Eventos Tecnológicos	4209
 Pró-Reitor Celestino Barros	16229
+Q CELL	18444
 Quality of Service for Mobile Cellular Services	6946
 R&A Cellular	14377,8
 R4.9bn Cell C	11159

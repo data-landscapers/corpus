@@ -99,7 +99,7 @@ Abbott M2000 RT	13617
 Abbreviared-Report-Version.pdf	14997
 Abbreviated Resettlement Action Plan	15511
 Abbreviated Resettlement Action Plan AID Country	15424
-Abbreviation	1261,9601,1496,3262,1545,201
+Abbreviation	1261,9601,1496,3262,1545,201,1159,42,3,75,79
 Abbreviation ABE Accelerated Basic Education	14916
 Abbreviation Affiliation Role Development Data Group	15844
 Abbreviation Definition AGR Annual Growth Rate	11228
@@ -107,7 +107,7 @@ Abbreviation Description NPA National Prosecuting Authority	11250
 Abbreviation Expansion PPP Public Private Partnerships	12917
 Abbreviation Full	11261,3529
 Abbreviation Full Wording CCS Collective Sudan	6947
-Abbreviations	582,618,614,10,406,3550,646,4288,49,49,107,212,3,124,28,1248,6,362,49,431,340,1174,101,67,65,115,171,103,1113,296,69,144,149,580
+Abbreviations	582,618,614,10,406,3550,646,4288,49,49,107,212,3,124,28,1248,6,362,49,431,340,1174,101,67,65,115,171,103,1113,296,69,144,149,580,762
 Abbreviations AACB AFI AI AML AML	11134
 Abbreviations ABN Acknowledgement of Birth Notification AG	12151
 Abbreviations ACF ASYCUDA Cloud Framework AEO	13042
@@ -115,6 +115,7 @@ Abbreviations ADECOS ASP ASSN ATM CASI	10763
 Abbreviations AE	12948
 Abbreviations AFENET Africa Epidemiology Network ARV	12379
 Abbreviations AGB Above-ground	17140
+Abbreviations AI Arti	18564
 Abbreviations AIDS	14874
 Abbreviations ANC	12246
 Abbreviations ANC Antenatal Care DHIS District	771
@@ -139,7 +140,7 @@ Abbreviations Table	12961
 Abbreviations Term Description ACE Africa Coast	11552
 Abbreviations Term Description ACHPR African Commission	1814
 Abbreviations WHO World Health Organization	766
-Abbreviations and Acronyms	12297,693,15,354,1573,1926
+Abbreviations and Acronyms	12297,693,15,354,1573,1926,1630,89,37
 Abbreviations and Acronyms ABN	18309
 Abbreviations and Acronyms AC Air Conditioner African	12256
 Abbreviations and Acronyms ATAF	14932
@@ -174,6 +175,7 @@ Ali Mohamed Abbas Ahmed	15244
 Ambassador Abbas	10427
 Amina Debissa Denboba ABBREVIATIONS AND ACRONYMS	15621
 Aminata Suwa ABBREVIATIONS AND ACRONYMS	16952
+Andrea Vermehren ABBREVIATIONS AND ACRONYMS	18625
 Appendix A Appendices List of Approved Abbreviations	11129
 Asad Abbas	13014
 Baboua Abba	10829
@@ -183,6 +185,7 @@ Brice ABBA	16545
 Béni Abbès	15690,42,131,80,287
 CLARENCE K. MASSAQUOI CHAIRPERSON ABBREVIATIONS	10407
 COMMUNICATION AUTHORITY OF KENYA Acronyms and Abbreviations	6946
+CONTENTS ABBREVIATIONS	18683
 CONTENTS ABBREVIATIONS AND ACRONYMS	16926
 CONTENTS LIST OF ABBREVIATIONS	16867
 CONTENTS List Of Acronyms And Abbreviations	13388
@@ -215,7 +218,7 @@ GNA By Frank Kwame Abbor	15816
 Gbetoho Joachim Boko ABBREVIATIONS AND ACRONYMS	15658
 Ghana Contents List of Acronyms and Abbreviations	236
 Ghana List of Acronyms and Abbreviations AGI Association	236
-Glossary and Abbreviations	12675,1795
+Glossary and Abbreviations	12675,1795,4015
 Glossary of Abbreviations	14674
 Glossary of Abbreviations Term Description AI Artificial	14674
 Glossary of Terms Abbreviation Expansion IFMIS Integrated	12917
@@ -226,6 +229,7 @@ Heriniaina Mikaela Andrianasy ABBREVIATIONS AND ACRONYMS	15518
 Hon. Abbas Tajudeen	18174
 Hyea Won Lee ACE ABBREVIATIONS	16144
 I ACRONYMS AND ABBREVIATIONS	15059
+I List of Abbreviations	18578
 ICB International Competitive Bidding ABBREVIATIONS	15411
 ICR DOCUMENT ABBREVIATIONS AND ACRONYMS ALP	16436
 ICR DOCUMENT ABBREVIATIONS AND ACRONYMS Abbreviation	15731
@@ -264,7 +268,7 @@ Laura Campbell ABBREVIATIONS AND ACRONYMS	13332
 Lavanya Choudhary ABBREVIATIONS AND ACRONYMS AU	6539
 Lea Jeanne Marie Iungmann ABBREVIATIONS	17458
 Link Limited Highway Division Belt Abbreviation	11129
-List of Abbreviations	5244,1703,4183,423,509,314,299,2489,2581,441,31
+List of Abbreviations	5244,1703,4183,423,509,314,299,2489,2581,441,31,243,17
 List of Abbreviations AAU Addis Ababa University	13991
 List of Abbreviations ACE	5244
 List of Abbreviations ADR Alternative Dispute Resolution	12062,6124,31
@@ -275,13 +279,15 @@ List of Abbreviations BCMS	12961
 List of Abbreviations BESS Battery Energy Storage	14745
 List of Abbreviations Group Cash Transfers	6947
 List of Abbreviations Hon. P. Garswa Jackson	17364
-List of Abbreviations and Acronyms	12944
+List of Abbreviations and Acronyms	12944,5568
+List of Abbreviations and Acronyms BCC Budget Call	18512
 List of Abbreviations and Acronyms BDR Births and Deaths	15628
 List of Acronyms and Abbreviations	2775,12000,2085
 List of Acronyms and Abbreviations ADI	14775
 List of Acronyms and Abbreviations Affirmative Action Chief	12920
 List of Acronyms and Abbreviations BR Birth Registration	16860
 List of Figures Glossary of Terms Abbreviation Expansion	12917
+List of Tables List of Figures List of Abbreviations	18460
 Lucine Flor Lominy ABBREVIATIONS AND ACRONYMS	15515
 M. Abbes Kellali	16344
 M. Abbé Noel Bisibu Ntungu Representatives	11916
@@ -311,6 +317,7 @@ POLICY FOR ICT ABBREVIATIONS AND ACRONYMS	958
 PRENOM ORGANISME ABBOU Loubna Ministère du Tourisme	15472
 PUBLIC PUBLIC ABBREVIATIONS	1818
 Phydelia Abbas	7027
+Planning and Economic Development Abbreviations and Acronyms	18577
 Professor Sagir Adamu Abbas	2933
 REFERENCES Abbas	15473
 REGULATOR GENERAL INFORMATION LIST OF ABBREVIATIONS	11198
@@ -352,8 +359,8 @@ Table of Contents ABBREVIATIONS AND ACRONYMS	1988
 Table of Contents ABBREVIATIONS AND ACRONYMS FOREWORD	13982
 Table of Contents ACKNOWLEDGEMENTS II ABBREVIATIONS	13310
 Table of Contents ACRONYMS AND ABBREVIATIONS	16978
-Table of Contents Abbreviations	14964
-Table of Contents Abbreviations and Acronyms	10718,123
+Table of Contents Abbreviations	14964,3600
+Table of Contents Abbreviations and Acronyms	10718,123,7659
 Table of Contents Acknowledgement I List of Abbreviations	13991
 Table of Contents Acronyms and Abbreviations	6832
 Tajudeen Abbas	18244,17

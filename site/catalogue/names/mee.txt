@@ -10,11 +10,12 @@ AFRINIC. Special General Members' Meeting	8866
 ANNUAL EXPERT GROUP MEETING FOR AFRICAN	13677
 ANNUAL GENERAL MEETING	7204
 ARPCE Convenes Meeting	3805
-ATC Annual Meeting	18330
+ATC Annual Meeting	18330,175
 ATTENDANCE AT BOARD AND COMMITTEE MEETINGS	1554
 ATU-R Working Groups Meetings for WRC-27	10235
 AU-EU R&I Ministerial Meeting	11288
 Acceptable Meets	11252
+Accountability Meetings	18465
 Act. Members Meetings Part A Insert	3714
 Activity Assessment Meeting	14009
 Actual Committee Meetings Held	1154
@@ -65,7 +66,7 @@ Annual Health Information Performance Review Meeting	15100
 Annual Joint Meeting	3038
 Annual Meeting	422,7126,1318,4696,3673
 Annual Meeting of African Development Bank	18378
-Annual Meetings	6764,1020,2984,4006,1875,214,372
+Annual Meetings	6764,1020,2984,4006,1875,214,372,1272
 Annual Meetings Plenary	14774
 Annual Meetings. The Junior Minister	14774
 Annual Member Meeting	585,8281
@@ -93,7 +94,7 @@ Bilateral Meetings Conducted	17289
 Board Committee Meetings	6946
 Board Meeting	1554,9105,4086
 Board Meeting Resolution	17287
-Board Meetings	585,8281,4085
+Board Meetings	585,8281,4085,5515
 Board Meetings The Technical Committee	12969
 Board and Board Sub-Committees’ Meetings	11131,3
 Board and Committee Meetings	1554
@@ -119,6 +120,7 @@ Cabinet Meeting	2626,5880,6363
 Caucus Meeting for African Governors	12962
 Central Bank of Egypt’s Meeza	15663
 Chief Executive Officer’s Meeting	14721
+Chief Minister Meets Development Partners	18553
 Clarification of Bidding Documents and Pre-bid Meeting	14766
 Claudia Meek	12540
 Close of Meeting	9858
@@ -129,7 +131,7 @@ Code of USAC Committee Meetings Ethics and Conduct	6946
 ComCom Chairman Meets	14621
 Comments GRA Commissioner of Customs Meets UNCTAD	17063
 Commissions Annual General Meeting Forum	14839
-Committee Meeting	14079
+Committee Meeting	14079,4642
 Committee Meetings	1154
 Committee Meetings Committee Name National Research	1154
 Committee Total Number of Meetings	1554
@@ -161,14 +163,16 @@ Cs Meeting Room Research	12253
 Cutting-Edge Innovation Meets Scientific Rigor	7702
 Cycle of Monthly Performance Review Meetings Picture	15478
 DATA CENTRE AGENDA AT UN MEETING	12736
+DPG Community Meetups Supported	18480
 DPGA Annual Meeting	13095
 DR. MEERA PATEL- CHUDASAMA Data Controller	7167
-DTC Virtual Global Meeting	18330
-DTC Virtual Global Meeting Research	18330
-DTC Virtual Global Meetings	18330
+DTC Virtual Global Meeting	18330,175
+DTC Virtual Global Meeting Research	18330,175
+DTC Virtual Global Meetings	18330,175
 Dastuurka ku meelgaarka SOM 03092012-1 2.pdf	14859
 Dates of Statutory Board and Board Committee Meetings	12951
 Dedicated Meeting	11806
+Deputy District Council Chairman Meetings of Council	18467
 Deputy Secretary Landau’s Meeting	17237
 Determinations Meets Minimum Requirements	11005
 Development Consultation Meetings	16970
@@ -183,6 +187,7 @@ Document Concept Note Regional Strategic Meeting	17324
 E-Justice Task Force Meeting	13080,15
 E-Justice Task Force Meeting and Justice Sector	13080,15
 ECOWAS COMMISSION HOSTS EVALUATION COMMITTEE MEETING	17380
+ECOWAS Ministerial Meeting	18528
 ECOWAS Ministers Meeting	16243
 ECOWAS Statutory Meetings	17235
 ECZ Hosts Media Breakfast Meeting	13477
@@ -206,6 +211,7 @@ Expert Group Meeting of Registrars General of Civil	17397
 Expert Meeting Report	9162
 Experts Group Meeting	16922
 Expo Meetings	5317
+Extraordinary Board Meeting	18696
 Extraordinary General Meeting	3330,1566,2302,1741,161,4262
 Extraordinary Meeting	7198
 Extraordinary Meeting Number	7912
@@ -272,6 +278,7 @@ High-Level Follow-Up Meeting	17057
 High-Level Land Tenure Breakfast Meeting	13703
 High-Level Meeting	5881,2081,4800,3741
 High-Level Meeting Held	15184
+High-Level Stakeholders’ Coordination Meeting	18559
 High-Level Technical Committee Meeting	7020
 Highlights of Cabinet Meeting	14793,46,6
 HoAI Meeting	13875
@@ -288,6 +295,7 @@ IMIS Stakeholder Community Meeting	10970
 ISO Annual Meeting	14273
 ISO's Annual Meeting	15860
 Inaugural HICA Board Meeting	10659
+Inaugural MAPS Steering Committee Meeting	18500
 Inception Meeting	962
 India Arab Senior Officials' Meeting	13744
 India-Africa Defence Ministers Meet	17241
@@ -324,6 +332,7 @@ Liquidity Resilience Meeting	418
 Local Talent Meet	18039
 Long Meeting	13336
 M Compulsory Briefing Session Meeting Registration	11240
+MAPS Steering Committee Meeting	18500,77
 MEEA Ministère	15961
 MEEDD	15681
 MEEFPD	15400
@@ -333,6 +342,8 @@ MEET PRECONDITIONS A Develop	961
 MEET THE REQUIREMENTS OF THE DEVELOPMENT	11240
 MEETING	17216
 MEETING OF THE REGIONAL TECHNICAL IMPLEMENTATION	12649
+MEETINGS AND COMMITTEES OF LOCAL COUNCILS	18467
+MEETINGS AND PROCEEDINGS	18556
 MEETS	5533,3717
 MEEUD	16898
 MEEUD Falta	16898
@@ -396,13 +407,15 @@ Meet the Toshikas Programme	12376
 Meet-Me-Rooms	1245,1350
 MeetKai Launch Sovereign AI Infrastructure Pilot	6678
 MeetKai Zambia	6593,7500
-Meeting	396,189,1193,36,854,915,58,73,77,428,32,645,655,128,914,549,202,6,39,270,118,10,28,64,492,114,74,44,42,221,133,1409,421,27,280,4,81,266,314,5,117,18,312,146,153,11,17,322,60,15,76,334,145,78,41,895,175,15,8,46,3,1,32,19,77,10,95,1,74,18,222,82,180,675,564,14,6,107,1,7,149,108,16,53,13,7,422,479,84
+Meeting	396,189,1193,36,854,915,58,73,77,428,32,645,655,128,914,549,202,6,39,270,118,10,28,64,492,114,74,44,42,221,133,1409,421,27,280,4,81,266,314,5,117,18,312,146,153,11,17,322,60,15,76,334,145,78,41,895,175,15,8,46,3,1,32,19,77,10,95,1,74,18,222,82,180,675,564,14,6,107,1,7,149,108,16,53,13,7,422,479,84,127,5,59,48,8,109,56
 Meeting Africa’s Growing Compliance Needs	4791
 Meeting Date	14758
 Meeting Frequency E SW A T	12969
+Meeting GBON	18673
 Meeting Global Demand	3292
 Meeting Held	1243
 Meeting ID	10809
+Meeting In Makeni	18546
 Meeting JCM	18378
 Meeting MDD W	17127
 Meeting MP Member of Parliament MPSS Minimum	11218
@@ -429,7 +442,7 @@ Meeting. Global Money Week Fair Hosted	11131
 Meeting. Hon. Members	13387
 Meeting. Save	585,8281
 Meeting. Where the Directors	585
-Meetings	11,574,2,385,582,434,970,545,10,201,173,371,553,453,53,216,242,129,1042,2017,287,1881,774,185,120,320,1,4,11,98,1,16,62,165,11,1,16,61,145,165,174,9,96,119,263,461,1,83,101,127,15,114,490,32,39,864,555,6,14,2,11,24,39,25,20,97,31,15,127,1089
+Meetings	11,574,2,385,582,434,970,545,10,201,173,371,553,453,53,216,242,129,1042,2017,287,1881,774,185,120,320,1,4,11,98,1,16,62,165,11,1,16,61,145,165,174,9,96,119,263,461,1,83,101,127,15,114,490,32,39,864,555,6,14,2,11,24,39,25,20,97,31,15,127,1089,133,2,1,1,38,51,45,1
 Meetings Bi-monthly Progress Reports Bi-monthly MPCC	11131
 Meetings Board	6946
 Meetings Engageme	16963
@@ -437,6 +450,7 @@ Meetings Held	1154
 Meetings Meetings	16963
 Meetings Minister of State for External Affairs	17241
 Meetings Minister of Trade	17241
+Meetings PART XVI	18467
 Meetings Seminars Reports Vertical	15604
 Meetings Tee and Coffee	11131
 Meetings The Committee	11860
@@ -444,10 +458,12 @@ Meetings Update	11131
 Meetings and Conferences	12975
 Meetings and Proceedings of Board	3887,8643
 Meetings and Resolutions	9915,77
-Meetings of Board	3887,8648,2184,24,25,56
+Meetings of Board	3887,8648,2184,24,25,56,3616
+Meetings of Board. Disclosure	18440
 Meetings of Committee	783
-Meetings of Council	11178,1741,1800,16
+Meetings of Council	11178,1741,1800,16,3700
 Meetings of Council and Subordinate Authorities	12531
+Meetings of Finance Committee	18467
 Meetings of NSC	12895
 Meetings of WG2	5680
 Meetings of WG2 WG2	5680
@@ -466,6 +482,7 @@ Mid-Year Statutory Meeting	17235
 Minister Ameer Meea	14811
 Ministerial Management Meeting GTAC Government Technical	11986
 Ministerial Meeting	7793,157,3277,1735,908
+Ministerial Meeting On Telecommunications And Digitalization	18528
 Ministerial Meeting of ATU	8241
 Ministerial Town Hall Meetings	17105
 Ministries Briefings Reports Meetings Education Sector	15604
@@ -515,6 +532,7 @@ POLICY COMMITTEE MINUTES OF MEETING NO.96	17104
 POLICY COMMITTEE MINUTES OF MEETING NO.98	17317
 PROCEEDINGS AT ANNUAL GENERAL MEMBERS' MEETINGS	8866
 PROCEEDINGS AT ANNUAL GENERAL MEMBERS’ MEETINGS	585
+Parliament and Meetings	18436
 Partner Meetings Across Four Markets	9811
 Patriarchy Meets Broken Infrastructure	4794
 PayInc Head of TCIB Meera Sunker	12469
@@ -526,9 +544,14 @@ Portfolio Committee Meetings	11250
 Posts Council Meetings	11251
 Posts Executive Mayoral Committee Meetings	11251
 Pour Avinash Meetoo	5712
+Pre Bid Meeting	18543
+Pre Bid Meeting. The Minutes	18543
 Pre Proposal Meeting	15080
 Pre-AI4I Launch Breakfast Meeting	13632
 Pre-Application Meeting	1638
+Pre-Bid Meeting	18543
+Pre-Bid Meeting. Any	18543
+Pre-Bid Meeting. The Bidder	18543
 Pre-Budget Consultative Meeting	14800
 Pre-Proposal Meeting12	15080
 Preparatory Meeting	6946
@@ -547,6 +570,7 @@ Public Policy Meeting	585,8281
 Public Policy Meetings	585,8281,747
 Quarter Scheduled Board Meetings Held	1154
 Quarterly Performance Review Meetings The TRS	17367
+RCO. Meeting	18665
 RD AFRICAN PREPARATORY MEETING FOR WRC-27	7074
 REGULAR POPULATION CENSUS MEETS INTERNATIONAL STANDARDS	16892
 RESPONSIBILITIES COMPOSITION MEETING FREQUENCY	6432
@@ -558,6 +582,7 @@ Regional Preparatory Meeting for ITU PP-26	6488
 Regional Preparatory Meeting for WTDC-25 for Africa	16046
 Regular Decision Meeting	11965,3225,1208
 Related Stories Meet South Africa’s Internet	12336
+Remuneration. Committees. Meetings. Secretariat	18467
 Renewable Energy Global Investors Meet and Expo	18220
 Republic of Kenya. Meeting	14039
 Research Coordination Meetings	14721
@@ -592,9 +617,11 @@ Senegalo-Gambia Presidential Council Meeting	11670
 Senior Officials Consultative Meeting	7795
 Senior Officials’ Meeting	11185
 Session of India-Algeria Joint Commission Meeting	16331
+Sessions and Meetings	18436
 Seventeenth Cabinet Meeting	11791
 Seydou Bari SIDIBE MEEF Secrétaire	16620
 Shareholder Meetings and Rights General	4896
+Sierra Leone Holds High-Level Coordination Meeting	18559
 Sources AFRINIC Board Meetings and Resolutions	11813
 South Africa-India Business Meeting	11183
 Special Board Meetings	6946
@@ -618,22 +645,28 @@ Steering Committee Meeting	11670,2409,355
 Story Meet the Team Our Work Programs	12493
 Strategic Meeting	17324
 Strategic Meetings	10776
+Strategy Board of Trustees Meeting Yogesh Khanna	18647
 Sub-Committee Meeting	11185
 Summary of Portfolio Committee Meetings	11218
+Summary.pdf Meeting Minutes	18665
 Sénégal MEED	18306
 TEAM-9 Ministerial Meeting	18016
 TECHNICAL MUST MEET REQUIREMENTS	15080
 TH ORDINARY MEETING OF THE EAST	7815
 TOURISM MEETS DIGITAL	15821
+TTOSICT Stakeholder Kick-Off Meeting	18692
 Technical Meeting	12413
+Technical Review Meeting	18520
 Technology Meets Reality Despite	12057
 Technology and Innovation Ministerial Meeting	6480
 Third Project Steering Committee Meeting	8294
 Third SADC Preparatory Meeting	9292
 Thirty-First Cabinet Meeting	3760,9683
 ToRs Annual General Meeting African Centre	1154
+Town Hall Meeting	18665
 Town Hall Meetings Regular Meetings Meetings	11131
 Town Hall Meetings Town	12210
+Trade Ministers’ Meet. Visits	18563
 Training And Research. Meeting The Challenges	899
 Training Meets Opportunity	13931
 Trilateral Commission Meeting	11183
@@ -665,6 +698,7 @@ World Bank Group Spring and Annual Meetings	17235
 World Bank Spring Meetings	5843
 World Bank Spring and Annual Meetings	17235
 World Bank and MPO Spring Meetings	16996
+Wrap-Up Meeting	18488
 Yaoundé. The Annual Meetings	17235
 Yes. Meetings	13392
 ZNBC ECZ Meeting	13477

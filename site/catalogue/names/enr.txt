@@ -1,3 +1,4 @@
+ADMINISTRATIVE REGION SENIOR SECONDARY SCHOOL ENROLMENT	18461
 AGRÉMENT ET ENREGISTREMENT Section	10836,4799
 ANS. ENREGISTRER LE NUMÉRO DE LIGNE	13300
 Admissions and Total Enrolment	14775
@@ -83,6 +84,7 @@ ENROLLMENT	12146
 Education Education Enrolment Education Completion Human	10837,1315,188
 Education Enrolment	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Education Lower Basic Gross Enrolment Ratio	16973
+Empowerment GER Gross Enrolment Rate GIA	18512
 EnDev Energising Development EnR	18316
 Enreg	15999
 Enregistr	17438
@@ -132,7 +134,7 @@ Enriquecimento Ilícito	16487
 Enriquez	12333
 Enrol	15845
 Enroll	2604,8161,10,1678
-Enrolled	11006,498,936,3278,1123,130,716
+Enrolled	11006,498,936,3278,1123,130,716,774
 Enrolled OVC Beneficiaries	12977
 Enrolling	571,4877,5685,791,2992
 Enrollment	2775,1260,931,2163,467,3216,27,641,387,460,2,82,252,308,6,337,18,1565,25,97,68,574,2,416,357,24,416,100,7,10,146,831
@@ -146,12 +148,15 @@ Enrollment and Service Provision	12146
 Enrollment for Digital ID	10153
 Enrollment of Liberians	16993
 Enrollments	4291,6521
-Enrolment	1525,1250,2191,608,1648,1906,1691,1105,123,152,157,931,673,31,40,363,353,28,121,20,50,638,241,1007,75,49
+Enrolment	1525,1250,2191,608,1648,1906,1691,1105,123,152,157,931,673,31,40,363,353,28,121,20,50,638,241,1007,75,49,1467,17,14
 Enrolment Confirmation	16902
 Enrolment Education	12356
 Enrolment Infrastructure	11774
+Enrolment Rates	18460
+Enrolment Rates Government	18512
 Enrolment Ratio OSM	13960
 Enrolment School-aged	15604
+Enrolment and Class Sizes	18512
 Enrolment and Completion	13991
 Enrolment of Female Learners	2775
 Enrolment of International Students	14775
@@ -184,19 +189,21 @@ GER Gross Enrolment Rate	14916
 GER Gross Enrolment Ratio GGR Gross	14747
 GER Gross Enrolment Ratio GNLSA Gambia	16852
 GOZEM CONGO. Enregistrée	15780
+Gender Public and Private School Pupil Enrolment	18460
 General Auditing Commission. Enrolled	16841
 General and Professional Secondary Education Enrollment	12411
 Ghanaians Enrolled	16374
 Gozem CG Financing. Enregistrée	15780
+Grade Enrolment Pyramid	18460
 Gross Domestic Product GER Gross Enrolment	15604
 Gross Enrollment Rate	12411,4531,516
 Gross Enrollment Rate GHG Greenhouse Gas	17458
 Gross Enrollment Ratio	13314,3122
 Gross Enrollment Ratio Central African	13314
-Gross Enrolment Rate	12175,24,2717,1936
+Gross Enrolment Rate	12175,24,2717,1936,1608
 Gross Enrolment Rate GESD	12175
 Gross Enrolment Rates for ECD	12175
-Gross Enrolment Ratio	13991,756,857
+Gross Enrolment Ratio	13991,756,857,2856
 Gross Enrolment Ratio GoSE Government	13960
 Gross Enrolment Ratio for Basic and Secondary Education	14958
 Gross Tertiary Enrolment Ratio	14775
@@ -211,6 +218,7 @@ IDENTITY ENROLMENT AND BIOMETRIC CAPTURE	12047
 INJ. COMP. ENROB	15930
 IPP EnR	18316
 Impression de Carte Périmètre Enrôlement Périmètre IDMS	14480
+Inclusive Enrolment	18460
 Initiative GER Gross Enrollment Rate GHG	15661
 JE SOUHAITE ENREGISTRER MON COMPTE MAIS	16629
 Jorge Enrique Celis Giraldo	15059
@@ -262,12 +270,16 @@ Primary and Junior School Enrolment	2775
 Product GER Gross Enrolment Ratio GPI	14896
 Promotion des EnR	16621,1695
 Public Services for Women Education Enrolment Public	10759
+Public and Private School Pupil Enrolment	18460
 Pupil Enrolment and Number of Teachers	2775
+Pupils Enrolment	18460
 Q.159 ET ENREGISTRER LE NUMÉRO	13300
+Rate GER Gross Enrolment Rate GIR	18460
 Registre du Courrier Enregistrement	10975
 Research Network GER Gross Enrollment Rate	13991
 Responsables Coût Phase Préparatoire Enregistrement	14490
 Référentiels Normes Procédures Enregistrement	16692
+SCHOOL ENROLMENT BY GRADE SSS	18461
 SCOLAIRE ENREGISTREMENT DES LIGNE ACTUELLE	13300
 SENATE'S ENROLLED BILL NO	16851
 SENATE’S ENROLLED BILL	16841
@@ -278,6 +290,9 @@ STEM Education and Enrolment	11140
 Saisines Enregistrées Dossiers	10975
 School Enrolment	15796
 School Enrolment and Attendance	14851
+School Level Enrolment Trend	18460
+Schools Enrolment Distribution Boys Girls	18460
+Schools Enrolment Distribution Figure	18460
 Secondary Education Enrollment Rates	12411
 Secondary Gross Enrollment Ratio	14897
 Secondary Net Enrolment Ratio	13991

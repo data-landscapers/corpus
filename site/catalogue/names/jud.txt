@@ -7,6 +7,7 @@ Acceptance of Judgments	14409
 Actually Means Here Judged	8088
 Acção Judicial	3519
 Administration and Judiciary School	969
+Administrative Appeal and Judicial Procedures	18595
 Aet Dany Judicaël Mangbele Mackola Articles	16227
 Africa Judicial Network	9858
 Agence Judiciaire	15936
@@ -33,6 +34,7 @@ Boniface Wamala JUDGE	3005
 Budget Office of Public Info Judicial Training	16943
 Build Capacity of Judges and Prosecutors	1000
 Building the Judiciary	8978
+Business Judgment Rule	18556
 CAMTEL General Manager Judith Yah	2862
 CHAPTER TWENTY FOUR LEGAL AND JUDICIAL	14409
 CIBERCRIMINALIDADE O Diretor Nacional da Polícia Judiciária	17066
@@ -80,7 +82,10 @@ Constitutional Court Judgement	2626
 Constitutional Dimensions and Judicial Interpretation	8776
 Consultant's Qualifications CSM Superior Judicial Council	17441
 Cooperación Judicial	16855
+County Court Judge	18615
+County Court Judges	18615
 Court Records Managements System Putting the Judiciary	12543
+Court of Judicature	18477
 Court of Rodrigues Jurisdiction Act. The Judicial	14742
 Criminal Judgments Delivered	12920
 Customs Judicial Police Officers	15976
@@ -123,6 +128,7 @@ Emergency Support for Judicial Assistance	12668
 Empowering Congolese Judicial Operators	15618
 Engaging the Judiciary	5227
 Engr. Jude Ozinegbe	8627
+Enhancing Judicial Efficiency and Reducing Delays	18631
 Entidades Judiciais	4274
 Execution of Judgments	14409
 FLDLV TXH JUDYLWDP QR HVSDoR	11527
@@ -167,6 +173,7 @@ Instituto de Prácticas Judiciales	4209
 International Association of Women Judges	2626
 Intégré de Gestion des Procédures Judiciaires	15936
 Ivoire Digitizes Judicial Services	2349
+JLSC Judicial and Legal Service Commission JSCO	18477
 JUDGE	18154
 JUDGES OF THE HIGH COURT	12920
 JUDGES OF THE SUPREME COURT	12920
@@ -199,7 +206,7 @@ Jude Mathurine	10729
 Jude Nwauzor	8291
 Jude Scheguel	16100
 Judes Bertrand MEKAME MBA	16099,76
-Judge	3,780,1136,388,1407,2094,375,1269,393,1964,2237,413,84,125,836,177,728,304,1,1,4,8,1,14,1,66,584,1446,389
+Judge	3,780,1136,388,1407,2094,375,1269,393,1964,2237,413,84,125,836,177,728,304,1,1,4,8,1,14,1,66,584,1446,389,1206,23
 Judge Allen-Yaman	7587
 Judge Brian Spilg	10955
 Judge Details Judges	14675
@@ -222,7 +229,7 @@ Judge. Keeping	9809
 Judged	8015,2194
 Judgement	14742
 Judgements	11240,5733
-Judges	958,2756,1004,282,3460,518,638,2585,342,67,58,254,33,17,124,1,407,444,15,45,401,2438,96,29
+Judges	958,2756,1004,282,3460,518,638,2585,342,67,58,254,33,17,124,1,407,444,15,45,401,2438,96,29,1569,74
 Judges Pitch Deck Must Include	13168
 Judges and Magistrates	12668,627
 Judges of State First-Instance Courts	13948
@@ -251,9 +258,10 @@ Judiciaires	13908
 Judiciais	15520
 Judiciais Estrutura	6568
 Judiciais. ARTIGO	539
-Judicial	477,62,3322,348,2178,2449,1296,620,156,480,568,245,25,34,77,1,75,135,372,52,532,1969,1368,14,71,17,74,122,117
+Judicial	477,62,3322,348,2178,2449,1296,620,156,480,568,245,25,34,77,1,75,135,372,52,532,1969,1368,14,71,17,74,122,117,1300,39
 Judicial Administration Council	13948
 Judicial Administration Council. Article	13948
+Judicial Affairs Officer	18714
 Judicial Announcements	14884
 Judicial Authorities	15393
 Judicial Authorities and Bodies	15393
@@ -303,7 +311,9 @@ Judicial Procedures Already Digitized	13253
 Judicial Proceedings and Costs	16949
 Judicial Processes	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Judicial Professional and Operational Gap Analysis	16943
+Judicial Redress	18595
 Judicial Reform	15231
+Judicial Reform Committee	18631
 Judicial Reforms	13474
 Judicial Reforms The Judiciary	12668
 Judicial Retreat	16943
@@ -336,11 +346,13 @@ Judicial Training Institute	10563,2941,3439
 Judicial Training Institute Availability	16943
 Judicial Training School	10990
 Judicial and Legal Provisions Act	14751
+Judicial and Legal Service Commission	18477
+Judicial and Legal Service Commission Sierra	18477
 Judicial. Artículo	16855
 JudicialService Commission	16943
 Judiciales	16855
 Judiciaries	16705,1066
-Judiciary	587,371,880,937,92,716,278,122,130,13,592,2228,602,922,20,121,89,278,238,330,496,521,1078,422,111,27,126,40,86,6,14,70,39,86,252,2,24,26,25,96,36,166,50,54,102,1,2,444,326,272,48,158,41,37,17,58,373,567,1013,85,8,7,53,46,44,4,34,10,86,25,138,43,177
+Judiciary	587,371,880,937,92,716,278,122,130,13,592,2228,602,922,20,121,89,278,238,330,496,521,1078,422,111,27,126,40,86,6,14,70,39,86,252,2,24,26,25,96,36,166,50,54,102,1,2,444,326,272,48,158,41,37,17,58,373,567,1013,85,8,7,53,46,44,4,34,10,86,25,138,43,177,839,10,10,42,76,2,117
 Judiciary Automation Project	6946
 Judiciary Branch	16943
 Judiciary Branch of Liberia	17256
@@ -391,6 +403,7 @@ Judiciary of Kenya	9546
 Judiciary of Liberia	16943
 Judiciary of Namibia	13504
 Judiciary of Seychelles	9679
+Judiciary of South Sudan	18598,17,9,7,83
 Judiciary of Tanzania	8616
 Judiciary. All	13504
 Judiciary. Cumulatively	13504
@@ -409,6 +422,7 @@ Judiciário	11414
 Judiciário. Desde	11543
 Judiciários	10750,1233
 Judijanto	8022
+Judith Fessehaie	18487
 Judith Kwabea Ankrah	15657
 Judith Mbabazi	12372
 Judith Nafula	12138
@@ -432,6 +446,7 @@ Judyth Engels and Kinfemichel Yibkaw Abraha	14017
 Judyth L. Twigg. ICR Review Coordinator	13850
 Jurisdictional Conflict and Judicial Rebuke	7909
 Justice The Judiciary	16943
+Justices and Judges	18631
 KABBE SOUTH JUDEA LYABOLOMA Total Eligible	13025
 Kenya Judiciary	6946
 Kenyan Judiciary	9546
@@ -458,6 +473,7 @@ Legal and Judicial Development Project	17441
 Legislation Judicially Considered ACT	11177
 Legislature. Judgments	16943
 Lei de Organização Judiciária	6462
+Leone’s Judicial and Legal Service Commission	18477
 Les Autorités Judiciaires	15643
 Les Officiers de Police Judiciaire	15597,46
 Lesotho Judiciary	12668
@@ -469,6 +485,7 @@ Liberian Judiciary The Judiciary	16943
 Liberian Judiciary The Liberian Judiciary	16943
 Liberian Judiciary. Figure	16943
 Limitation of Rights JUDGMENT TWALA	2307
+Local Courts The Judiciary of Sierra Leone	18477
 Low The Judiciary	16943
 M. Judicael NGOUANGUI Directeur Provincial Ogooué	16175
 M. Judicaël MAVIOGA	16381
@@ -540,6 +557,7 @@ PODER JUDICIAL Cuentas CONCEPTO	4209
 PODER JUDICIAL Servicio	4209
 PROPOSED BUDGET JUDICIARY CASH FLOW	16943
 Page Judicial Service. Seven	13504
+Parliament. The Judicature	18477
 Part B Judgment	11181
 Part Four Judicial Guarantees Article	16847
 Partager La Direction Générale du Casier Judiciaire	16684
@@ -603,6 +621,7 @@ Secretary Judith Kilobi	14640
 Secretary National Judicial Council	1014
 Selon Judicaël Gbaguidi	7355
 Senior Judge	13504
+Sierra Leone Judiciary	18477
 Sierra Leone Judiciary Strategic Plan	16943
 Sistema Judicial	1701,14786
 Sistema Judicial Las	1701
@@ -621,8 +640,10 @@ State Judicial Administration Council	13948
 State Judicial Agency	17934
 Strategic Plan Judiciary Procurement Procure	16943
 Strategic Plan The Liberian Judiciary	16943
+Strengthening Judicial Independence and Accountability	18631
 Superior Counsel of Judicial Magistrates	12201
-Superior Court of Judicature	587
+Superior Court of Judicature	587,17847,3
+Superior Courts of Judicature	18477
 Superior Judicial Training Institute	17441
 Superior da Magistratura Judicial	10752,809
 Supreme Judicial Council	9064,6329,1871
@@ -646,6 +667,7 @@ UWERA Annick Louise MUKESHIMANA Judith UWIMANA	12445
 Uganda's Judiciary	10563
 Unyielding Judicial Independence	12920
 Updated Judicial Canons and Ethics Codes	16943
+VI. JUDICIARY DEPARTMENT Liquor License Payment	18541
 VOCALES CONSEJO SUPER. DEL PODER JUDICIAL	4209
 W IIGNd Jo JudWAed	16857
 Winding-up and Judicial Management of Companies	3714

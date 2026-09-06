@@ -81,6 +81,7 @@ Konexa C&I NBP	11469
 LPELR and NBA AI Guidelines	11654
 LRA NBOC	16848
 LYD Nbr	16902
+Legal Mandate Establishment Establishment of NBS	18745
 Like NBC	1944
 Linking the NBIS	16876
 Local NB	17882
@@ -111,6 +112,7 @@ Multigrades Nb	10847
 Médicaments Traditionnels Améliorés Nb	15475
 NACVOT National Center for Vocational Training NBHE	13960
 NAWEC National Water and Electricity Company NBR	17105
+NB All	18458
 NB Par	16328
 NB-FSP	14897
 NB-FSPs	14897
@@ -266,7 +268,7 @@ NBS Bank	5312,6979,689,73,69
 NBS Bank Limited	12252,895
 NBS Bank and Blantyre City Council	5312
 NBS Capital Importation Report TECHCABAL Industry	5055
-NBS National Bureau of Statistics	11860
+NBS National Bureau of Statistics	11860,6754
 NBS Nigeria	11857
 NBS Somalia	15063
 NBS Unite	8818

@@ -1,6 +1,7 @@
 BANK ECOBANK FBNBANK GT BANK ROKEL	11002
 Chief Executive Officer of Roke Telkom	16797
 Docteur KANÉ Rokia MAGUIRAGA Journal	17841
+Ecobank and Rokel Commercial Bank	18448
 Excelentísima Manuela Roka Botey	16925
 Excma. Señora Doña Manuela Roka Botey	16925
 FBNBANK GT BANK ROKEL BANK SIERRA	17242
@@ -13,6 +14,7 @@ Paratus Group and Kampala-based ISP Roke Telkom	11320
 Paratus Group and Kampala-based Roke Telkom	10697
 ROK Ministry of Foreign Affairs	11487
 ROKE TELKOM	4958
+ROKEL BANK	18489
 ROKHAS	557
 ROKO Construction Company	9388
 Remove Her Shroud Rokel Commercial Bank	7964
@@ -26,6 +28,9 @@ Roke Telkom	10697,6100
 Roke Telkom and Paratus Uganda	10697,6100
 Roke Telkom-Paratus Uganda	10697
 Roke and Paratus	16797
+Rokel	18448,27
+Rokel Commercial Bank	18448
+Rokel and Ecobank	18448
 Rokhas	17505
 Rokhas.ma	17454
 Rokia Fofana	2856

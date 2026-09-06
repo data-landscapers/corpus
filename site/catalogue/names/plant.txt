@@ -15,6 +15,7 @@ Bitterballs Cucumber Egg Plant Okra Pepper	17043
 Bumbuna Hydroelectric Plant	10180
 Bushrod Thermal Plant	16978
 CANNABIS PLANTS	14760
+CATEGORY-B1- PROCESSING PLANT AND ESTABLISHMENT PERIOD	18450
 CONTRAVENTIONS ROAD OFFENCES GANDIA PLANTS	14760
 Canals Solar Power Plant	15578
 Cane Planters and Millers Arbitration and Control	14847
@@ -41,6 +42,7 @@ Econet Willowvale Solar Plant	306
 Egbin Power Plant. Egbin	10157
 Eskom Plant Performance	11228
 Fiamah Treatment Plant and Redemption Street Bridge	16971
+Fish Processing Plant	18450,91
 Forest Plantation	17140
 Forest Plantation Description Forest	17140
 Forestry and Fishery Workers Plant and Machine Operators	16266
@@ -109,6 +111,7 @@ National Agency of Medicinal and Aromatic Plants	17458
 National Invasive Alien Plant Survey	11334
 National Invasive Alien Plant Survey Project	11334
 Ndola Energy Power Plant	5247
+Nesitu Solar Power Plant	18672
 Next-Generation Broadband Network Development Plant	11529
 Ntaruka Hydropower Plant	15049
 Nuclear Power Plants Authority	10081
@@ -123,7 +126,7 @@ PLANTED AREA	17043
 PLANTING SUSTAINABLE LAND MANAGEMENT COMMUNITY EMPOWERMENT	11586
 POWER PLANT AVAILABILITY INDEX	14867
 Payments Guidelines for Plantation Forests Stakeholder	16853
-Plant	718,1226,587,8697,68,657,109,2674,79,3,12,299,854,917,78,179,1029,31
+Plant	718,1226,587,8697,68,657,109,2674,79,3,12,299,854,917,78,179,1029,31,326
 Plant Availability	14867
 Plant Availability Factor	12062,6124,31
 Plant Availability Index	14867
@@ -204,8 +207,11 @@ Plantons Militaire	17899
 Plantons. Article	17899
 Plants	12062,2698,1239,1106,52,427,602,31
 Plants de Secrétaire	17833
+Post Planting	18525,42
 Power Plant Availability	14867
 Power Plant Launch	13624
+Processing Plant and Establishment	18541
+Processing Plants	18450
 Property and Plant Equipment	1154
 Q1 Plant Availability Factor	12062
 Q1 Plant Average Hourly Generation	12062
@@ -233,6 +239,7 @@ Solar PV Electricity Generation Plant	15702
 Solar Power Plants	16468
 Standard. The Plant Pathology Laboratory	14721
 Stationary Plant and Machine Operators	16266
+Sumqayit Wastewater Treatment Plant Project	18561
 Support Libya’s National Plant Biotechnology Research	17157
 Terracing of Sloped Lands Plant	17157
 Tesla Cascading Hydro Plant	14745
@@ -245,7 +252,7 @@ Trees Planted Number of Trees Planted Staff	6946
 Valley Providing Treatment Plants Program	15578
 Valorisation des Plantes Médicinales de Dubréka	16627
 Wastewater Treatment Plant	14830
-Water Treatment Plant	718,14055,805
+Water Treatment Plant	718,14055,805,2965
 Water Treatment Plants	718,11718
 Water and Plant Analysis Laboratory	17306
 Zimbabwe Company Coal Fired Power Plants-	1154

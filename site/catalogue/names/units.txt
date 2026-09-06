@@ -13,7 +13,7 @@ Branches and Units	14760
 Bureau of Statistics and Census and Statistical Units	16863
 CHARACTERISTICS OF THE HOUSING UNITS USED	14903
 Catalogue of Local Administration Units	15473
-Central Processing Units	13037
+Central Processing Units	13037,5449
 Chairs and Units	16852
 Civil Registration Units	10765,10
 Climatic Units	17157
@@ -34,6 +34,7 @@ Decentralization Support Units LR-MFDP-477097-GO-RFQ	17180
 Delivery Units	11857
 Delivery Units. Such	11857
 Departments and Units	12972
+Develop GIS Units	18476
 Diagnostic and Treatment Units	10784
 Divisional and Branch Training Units	14760
 Divisions and Units	14824
@@ -54,6 +55,9 @@ Formed Police Units	16277
 GDP FSDS Results Indicators Units Baseline	14997
 GEOGRAPHICAL AND THE CLIMATIC UNITS	17157
 Gambia Computer Security Response Units Supporting	1000
+Gender Units	18512
+Gender Units and Gender Focal Person	18512
+Gender Units and Planning Directorates	18512
 Gender and Legal Units	16973
 General Government Units	13122
 Generating Units Frequency	14867
@@ -108,8 +112,10 @@ Operations Units	1000
 Organisations and Units Operating	14746
 Outcome Indicator Units Baseline Target Responsible	15130
 Outdoor Cooling Units	12253
+PHU Peripheral Health Units PPRC Political	18512
 PROCASEF Regional Implementation Units	18293
 Paediatric Units of Hospitals	16951
+Peripheral Health Units	18478,54
 Policy and Planning Units	16971
 Polling Units	10049
 Popular Administrative Units	15244
@@ -118,12 +124,13 @@ Power Distribution Units	9123
 Precision Air the PAC Units. Conditioning System	12253
 Prefecture-level Project Coordination Units	15658
 Primary Health Care Units	12246
-Primary Sampling Units	582,14233,17,412
+Primary Sampling Units	582,14233,17,412,3323
 Private Sector Units	15175
 Project Delivery Units	11857
 Project Implementation Units	11469,726,637,627,2685,782,179,757
 Project Management Units	1867
 Project and Communications Units	16943
+Protection of Officers. Departments. Units	18466
 Providing Primary Healthcare Units	15578
 Registration Units	10765
 Residential Units Urban Old Rent Rent	15473
@@ -136,6 +143,8 @@ SAMU Units. Allocation	18370
 SERVICOM Units Structure	18205
 SI Units	14736
 SPUs Special Procurement Units SREP Small	17105
+SUPPLEMENTARY FEES SCHEDULE DETAILS UNITS	18450
+Secondary Sampling Units	18567
 Sections and Units	12962,1873
 Segregation and Protection Units	14742
 Services Units	14746
@@ -143,6 +152,8 @@ Severe Disabilities CTU Cane Testing Units	2775
 Smart Climate-Controlled Units	14818
 Social Housing Units	14830
 Social Living Development Housing Units	14753
+Software Development and Data Science Units	18481
+Special Care Baby Units	18478
 Specialised Units	15796
 Statistical Units	16863
 Statistics Units	14777,2339
@@ -162,7 +173,7 @@ Twenty-foot Equivalent Units	9436
 UNITS	14760,18,2193
 UnitSpect	736
 UnitSpectrumCharg	736
-Units	1000,7999,2130,59,663,664,447,171,1615,12,34,36,414,180,49,372,1018,10,97,1,209
+Units	1000,7999,2130,59,663,664,447,171,1615,12,34,36,414,180,49,372,1018,10,97,1,209,1285,1
 Units LPG	12515
 Units Number of ICT	12453
 Units Room Conditioner	12253
@@ -171,11 +182,13 @@ Units and Organisations	14738
 Units and Sections	16970
 Units of Accoun	600
 Units of Account	6422
+Units of Hemodialysis	18563
 Utilize Planning Units	16951
 Various Public and Private Sector Units Access	15175
 Village Business Units	13673,12
 Village Local Level Three Administrative Units	15473
 Villages Local Units Upper Egypt	15578
+Vote Controllers and Heads of Internal Audit Units	18577
 Work Units Urban	15473
 Workshop Units	16863
 World Bank-funded Project Implementation Units	1228

@@ -65,7 +65,7 @@ Hundred and Four Thousand and Thirty Pula	12597
 Hundred and Nineteen Million Pula	12597
 Hundred and Ten Pula	12606
 Hypertension Cardio Pul-	12151
-ISOC Pulse	6542,4928,3340
+ISOC Pulse	6542,4928,3340,3823
 ISOC Pulse HubSIX Senegal City Dakar	18420
 ISOC Pulse IXP	6967
 ISOC Pulse IXP Tracker	11470
@@ -139,6 +139,7 @@ Pulse	1635,4907,425,4164,3,125,211,1991,608,489,252,356,878,507,1869
 Pulse API	15166
 Pulse Country Report for Sudan	15166
 Pulse Country Reports	11310
+Pulse Internet Resilience Index	18633
 Pulse Kenya News	9736
 Pulse Lab Jakarta	17448
 Pulse Research Fellow	6542

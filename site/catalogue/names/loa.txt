@@ -114,6 +114,7 @@ Equipment Detail Qty Load	13185
 Estimates Yes Loan Cancellations Yes Development	2473
 Europe CAS Adaptable Program Loan C&MA	15424
 Evangelidis Loannis Pavlos	3772
+Extract Transform and Load3	18470
 FOREIGN LOANS	13093
 Feb-2019 Portal Additional Financing Loan Closing	11924
 Federal Home Loan Mortgage Corporation	10
@@ -150,6 +151,7 @@ Grants and Loans	14830
 Gross Loans	11131,3892,2212,22
 Gross Loans Profitability	11131
 Growth Development Policy Loan	11924
+Guarantee Loans	18466
 Guy Loando Mboyo	16504
 HELB Loan Applicants	2775
 HELB Loan Repayments and Loans	2775
@@ -233,6 +235,7 @@ Load Demand Forecast	14957
 Load Demand Forecast Review	14957
 Load Demand and Energy Forecast	14957
 Load Factor	12062
+Load GIS Geographic Information System ISO	18531
 Load Grand	13185
 Load Management Unused	9123
 Load Reduction Eradication Programme. Approximately	11297
@@ -250,7 +253,7 @@ Loaded	5326
 Loaded Pictures. Interview	10977
 Loaded Pictures. Patricia Anne Janer and Ryan	10977
 Loader	12970
-Loading	1988,3097,3519,2,434,3295,547,812,1798,1351,1266
+Loading	1988,3097,3519,2,434,3295,547,812,1798,1351,1266,397
 Loading Dock	9123
 Loading Sequence	12360
 Loads	1988,13039
@@ -331,6 +334,7 @@ Loans and Facilities	17236
 Loans and Financial Inclusion Services Digital Training	15578
 Loans and Financial Inclusion Services Establishment	15578
 Loans and Financial Inclusion Services Road Paving	15578
+Loans and Grants Agreements	18661
 Loans and IDA Credits	15411
 Loans and International Development Association	2889,12664,105
 Loans and Overdrafts	17235
@@ -409,7 +413,7 @@ Posts External Loans	11251
 Procurement. The Loan Agreement	15663
 Program Loan ARPCE Agence de Régulation des Postes	15372
 Project Finance Loan	13938
-Project Loan	15619,1019,542
+Project Loan	15619,1019,542,1293
 Proposed Loan	15411,107,141
 Provision of Intraday Loan Facility	12364
 Provision of Intraday Loan Facility The BoZ	12364
@@ -420,7 +424,7 @@ RATE AVG PERSONAL LOAN RATE AVG	17235
 RCIP Adaptable Program Loan	15411
 Recent Bulletins Loading	17136
 Regions Sandy Loamy Clay Don't Know	17043
-Related Content Loading	17178,153
+Related Content Loading	17178,153,1195
 Republic of Cabo Verde Loan No	8166
 Research and Statistics Department Balance of Loans Advenced	17236
 Residual Load	11953
@@ -469,6 +473,7 @@ Sportal WhatsApp Loading	9736
 Student Loan Funds	14966
 Student Loans	15019
 Student Revolving Loan Scheme	17347
+Students Loan Scheme	18471
 Students’ Revolving Loan Scheme	17228
 Subsidiary Loan Agreement	14546
 Sustainability Linked Loan	6100
@@ -494,7 +499,7 @@ Uwezo Fund Loans Disbursement	2775
 Variable Spread Loan	17441
 Vehicle Load Management and Cross Border Road	12918
 Village Savings and Loan Association	18104
-Village Savings and Loan Associations	10299,542,3712,406,179,1115,982
+Village Savings and Loan Associations	10299,542,3712,406,179,1115,982,1385
 Village Savings and Loan Associations. Complementary	17096
 Village Savings and Loans	12964
 Village Savings and Loans Association	13390

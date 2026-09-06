@@ -32,7 +32,7 @@ Datascientest.com	3724
 Datasec Limited Data Controller INST-9632430615D NAIROBI	7167
 Datasec Limited Data Processor INST-9632430615D NAIROBI	7167
 Dataserv	10140
-Dataset	1232,582,444,2631,2659,41,201,511,2413,156,3856,205,783,697,531
+Dataset	1232,582,444,2631,2659,41,201,511,2413,156,3856,205,783,697,531,1583,42,3
 Dataset Added	14141,1091
 Dataset Average	16266
 Dataset Avg	16266
@@ -40,7 +40,7 @@ Dataset Completion	4528,7984
 Dataset Documentation The International Research Institute	14900
 Dataset File	15593
 Dataset Terms. The Somali National Bureau	14931
-Datasets	2816,1045,3929,1832,1108,604,229,2443,925,547,236,527,916,820,61
+Datasets	2816,1045,3929,1832,1108,604,229,2443,925,547,236,527,916,820,61,487
 Datasets Entities	15714
 Datasets Monetary and Financial Statistics External Sector	14777
 Datasets Terms	14931
@@ -65,6 +65,7 @@ Electrification Dataset. Tracking SDG	16037
 FADCP Climate Dataset	17257
 FINANCIAL MANAGEMENT DATASHEET	13856
 Fidelity TABLE OF CONTENTS DATASHEET	6539
+Five MDAs Share Dataset Inventories	18442
 Frequency Annual Datasource Relevant	15553
 Global Dataset	10819
 GovTech Dataset	11867

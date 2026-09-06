@@ -5,7 +5,7 @@ A. Recommended Amendments	14777
 A1 INSTRUMENTOS DE RECOLHA DE DADOS	11569
 A9. Recognize	14729
 ACAP Programme RSB Signed Mutual Recognition	15127
-ACCOUNTING RECORDS	3714
+ACCOUNTING RECORDS	3714,14842
 ACCOUNTING RECORDS Determination	3714
 ACHIEVING TRUST IN MUTUALLY RECOGNISED IDENTITIES	10819
 ACHPR Recommendations Tracking Database System Guidelines	8485
@@ -54,6 +54,7 @@ Administrative Records	12356,4783
 Adoption Record. IDENTIFICATION	12333
 Adoption of Electronic Health Records	11990
 Advance Passenger Information and Passenger Name Record	4275,6448
+Advance Tripartite Recommendations Implementation Apr	18553
 AfDB’s Independent Recourse Mechanism	11863
 Affairs and National Reconciliation	15415
 Africa Recovery and Resilience Plan	8654,284
@@ -67,7 +68,9 @@ Algeria Digitizes Degree Recognition Through National	6747
 All Records	15901
 Allow Record	1988
 Amendment of Birth Record Note	12216
-Analysis and Recommendations	239,15176
+Analysis and Recommendations	239,15176,3116
+Analysis and Recommendations Lamin C.A. Lighe Electoral	18531
+Analysis and Recommendations URL	18531
 Angola. Recorre-se	10777
 Archives and Record	13972
 Archives and Record Management and Statistics	13972
@@ -138,6 +141,7 @@ Broad Recognition of Displacement Drivers	15224
 Browser Update Recommended	8571
 Budg. Recommendations	17139
 Budget Documents and Financial Records	17139
+Budget for Recommended Option	18531
 Budgetary Review and Recommendation Report	11230
 Budgetary Review and Recommendations Report	11230
 Business Associations Recommend	17114
@@ -182,7 +186,7 @@ CONCLUSION AND RECOMMENDATIONS	15063,2086
 CONCLUSION AND RECOMMENDATIONS CONCLUSIONS Despite	17285
 CONCLUSION ET RECOMMANDATIONS	13390,4440,115
 CONCLUSION GENERALE ET RECOMMANDATIONS L’Enquête	18204
-CONCLUSIONS AND RECOMMENDATIONS	2518,11367,3242
+CONCLUSIONS AND RECOMMENDATIONS	2518,11367,3242,1316,169
 CONCLUSIONS AND RECOMMENDATIONS The Ministry of Post	17114
 CONCLUSIONS ET RECOMMANDATIONS	17945
 CONCLUSIONS ET RECOMMANDATIONS L'élaboration	17945
@@ -190,6 +194,9 @@ CONCLUSIÓN Y RECOMENDACIONES	16898
 CONCLUSIÓN Y RECOMENDACIONES A- Conclusión	16898
 CONCLUSÃO E RECOMENDAÇÕES	11561
 COVID-19 Health Recovery Levy	7695,44
+CPC Recommendation	18531
+CPC Recommendation No	18531
+CPC Recommendation No.8	18531
 CPF0000008 INTERNATIONAL BANK FOR RECONSTRUCTION	12968
 CSIRT Security Operations Center and Recovery Site	15019
 Call Detail Record	4274
@@ -219,9 +226,11 @@ Character Recognition MISTD Management Information Systems	17235
 Chargés du Recouvrement	17982
 Charter Recommendations	17403
 Check Codification and Magnetic Ink Character Recognition	17235
+Citizen Engagement and Inclusive Development Recognising	18439
 Civic Records	11274
 Civil Records	10979
 Civil and Criminal Records	10979
+Client Health Records	18478
 Climate Risk Management and Recovery Planning Guidelines	8377
 Code Detail Record	5173
 Code of Practice. A Recognition Authority	16832
@@ -229,9 +238,11 @@ Collection and Recovery of Tax Division	12629
 Commission de Reconnaissance Locale	14444
 Commission de Recours	15361
 Commission de Recours Gracieux	15361
+Commission for Truth Reconciliation and Healing	18615
 Commission. RECOMMENDATIONS	14673
 Commissions de Reconnaissance	13375
 Committee's Observations and Recommendations	13328,8
+Commonwealth Secretariat's Debt Recording Management System	18488
 Community Priorities and Recommendations	17099
 Community Recovery Fund	13420
 Community Recovery and Local Governance Geographical	14925
@@ -249,7 +260,7 @@ Conclusion and Recommendations Kenya	14932
 Conclusion and Recommendations The ECCE	12975
 Conclusion and Recommendations. The National	12151
 Conclusion48 Recommendations	12227
-Conclusions and Recommendations	1824,10182,972,2649
+Conclusions and Recommendations	1824,10182,972,2649,2993
 Conclusions and Recommendations Please	15627
 Conduct of Recognition Review	3503
 Confirmation and Approval of Records	12226
@@ -273,6 +284,7 @@ Contract Terms Harmonized Recommendation Promote	5676
 Convention and Recommendation	17970
 Converged Ethernet RPO Recovery Point Objective	13185
 Corporate Disaster and Recovery Plan	1000
+Cost Estimates for Recommended Option	18531
 Cost Recovery Audit Findings	3583
 Cost Recovery Rate	12457
 Court Annexed Mediation and Court Records Management	12543
@@ -297,6 +309,7 @@ Criteria for Recognition. A Candidate RIR	3503
 Cross-Border Data Flow Governance RECOGNISING	3861
 Cross-cutting Recommendations	5676
 Crosswalk Recommendation Industrywide Fraud Intelligence	11138
+Cybersecurity and Data Protection Recommendations	18485
 D. Recommendations	1828,15311
 D.2 Recommendations	14674
 DA JURISAI TERMINA COM RECOMENDAÇÕES ESTRATÉGICAS	11473
@@ -325,6 +338,7 @@ DIGITAL INFRASTRUCTURE RECOMENDATIONS DEVELOPMENT TYPE	16942
 DIGITAL RECOVERIES EAST AFRICA LIMITED Data	7167
 DIGITAL SKILLS RECOMMENDATIONS	16942
 DIGITAL SKILLS RECOMMENDATIONS DEVELOPMENT TYPE	16942
+DIGITIZATION OF GOVERNMENT RECORDS	18744
 DIMENSÃO RECOMENDAÇÃO PERÍODO PRIORIDADE PONTO	2816
 DISASTER RECOVERY	11240
 DISASTER RECOVERY FOR THE COMMUNICATIONS SECTOR	12538
@@ -349,12 +363,15 @@ Data Collection and Recording	17367
 Data Management and Record Keeping Seminar	10566
 Data Recovery	14148
 Day Three. Nairobi City County Recognises	11033
+Days of Activism Records Significant Gains	18582
+Debt Recording and Reporting	18488
 Debt Recovery Unit	14761
 Debts Under Ledger Reconciliation	14546
 Decisions and Recommendations	14409
 Deeds Office Records	13251
 Deeds Officer Records	13251
 Default and Recovery Statistics	11310
+Demand Driver Recommendations	18485
 Demand Reaches Record	14801
 Description Component Review Type Method and Recommendation	17180,39
 Description. Recording	4455
@@ -471,15 +488,16 @@ Electronic Health Record	2477,1676,471,5564,1792,3431
 Electronic Health Record System Actually	5911
 Electronic Health Records	2477,471,1353,8207,630,2273,1657
 Electronic Health Records R&D	15713
-Electronic Health Records Systems	12581
+Electronic Health Records Systems	12581,5897
 Electronic Medical Record	3972,3794,3486,21,707,260,139,227,5744,9
 Electronic Medical Record FS	11252
 Electronic Medical Record Innovation Challenge	17711
 Electronic Medical Record Management System	3604
 Electronic Medical Record System I	4260
 Electronic Medical Record Systems	21
-Electronic Medical Records	2678,1489,35,10,5,132,1003,6616,36,237,61,77,190,511,15,1855,461,1657
+Electronic Medical Records	2678,1489,35,10,5,132,1003,6616,36,237,61,77,190,511,15,1855,461,1657,1410,54
 Electronic Medical Records Electronic Community Health	4153
+Electronic Medical Records System EHR Electronic	18478
 Electronic Record Search	11233
 Electronic Record Search. If the Reporting Financial	11233
 Electronic Record and Data Management Standards	9855
@@ -508,6 +526,7 @@ Enforcement of Record-keeping	11860
 Enhanced Electronic Health Record	12379
 Enhancement of Reconnaissance	17884
 Enhancing International Recognition	15104
+Environmental Sustainability Recommendations	18485
 Environmental and Social Sustainability. Recommendations	18370
 Equipment EHR Electronic Health Records EIA	2775
 Equitable and Resilient Recovery	18301
@@ -556,7 +575,7 @@ Federal Affairs and Reconciliation Minister Ali Yusuf	2691
 Federal Government Recognises Digital Infrastructure	6376
 Feedback and Recommendations	12675
 Few Recommendation	12376
-Financial Services and Credit. Records	17165
+Financial Services and Credit. Records	17165,1405
 Finding of Recognition Review	3503
 Findings And Recommendations	226
 Findings and Recommendations	14010
@@ -574,6 +593,7 @@ Frame THE OPERATIONAL COMPONENT Remarks Recovery	17157
 Fuel Management and Recording The Fund	13420
 Fuel Management and Recordings Finding	13420
 Fully Deployed Reconciliation and Attestation Tool	12400
+Funding and Incentives Recommendations	18485
 Further Recommendations	16947
 G20 Policy Recommendations for Advancing Financial Inclusion	7596
 GCTs. Recommendations	6947
@@ -610,6 +630,7 @@ Gouvernance du Recouvrement	10024
 Governação. Reconhece-se	11569
 Government Finance Statistics Recommendations	14777
 Government Recognition	16985
+Government Records Digitisation	18481
 Government The Economic Recovery and Growth	11854
 Government and Records Management	12325
 Government of Kenya. Recognising	14476
@@ -629,12 +650,14 @@ HMIS Ecosystem Challenges and Recommendations	1261
 Hall of Justice and Records	14675
 Harmonization and Mutual Recognition	3861
 Head of Marketing and Communications of Mavin Records	17773
+Health Connect EMR Electronic Medical Records	18478
 Health Ministry Unveils Five-Year Recovery Strategy	15100
 Health Patient Record System	11350
 Health Record	12185
 Health Records	12337,2436,2149
 Health Records Department	14773
 Health Records System	6432
+Health Records Systems FHIR Fast Healthcare	18478
 Health. Recommendations	10928
 Healthcare Package EHR Electronic Health Records	16922
 High-Level Recommendations	1814
@@ -694,6 +717,8 @@ IV. Recomendações da Ordem	11436
 Identification Records	9237
 Identify Protect Detect Respond Recover All	6423
 Identiﬁcation Records	8605
+Implementation of Audit Recommendations	18488
+Implementation of C-PIMA Recommendation Following	18577
 Implementation of Previous EU EOM Recommendations4 Following	12201
 Implementation of Recommendations	17367
 Implementation of Recommendations Effective	17367
@@ -711,6 +736,7 @@ Industry Recommend	17114
 Industry and Competition CARA Criminal Assets Recovery	11986
 Information Centres RF-NDP Recovery Focused National	17105
 Informatique SECTION RECONNAISSANCE FACIALE ET VOCALE	17899
+Infrastructure Recommendations	18485
 Infrastructure and Connectivity Recovery Project	15731
 Initiatives CNDRA Center for National Documents and Records	16860
 Innovation and Economic Development RECOGNISING	3861
@@ -758,7 +784,7 @@ Kenya’s Recognition of Prior Learning	11504
 Key Findings and Recommendations	12182,194
 Key Policy Recommendations	1204,9945
 Key Policy Recommendations Africa	11149
-Key Recommendations	4126,2821
+Key Recommendations	4126,2821,11669
 Key Recommendations Arising	12663
 Key Recommendations Optimal Use of Global and Regional	15916
 Key Recommendations and Action Points	17260
@@ -832,7 +858,9 @@ MaHIS and Shared Health Records	12240
 Magnetic Ink Character Recognition	17138
 Main Messages and Recommendations	16876
 Maintain Records	17243
+Maintain and Establish Customer Records	18599
 Maintenance of Asset Records	13420
+Major Challenges and Recommendations	18624
 Malawi Earns Global Recognition for Digital Innovation	13214
 Mali Recommendations	17950
 Management Department Record	17157
@@ -929,6 +957,7 @@ National Economic Recovery Plan	12081,974,5,62
 National Electronic Medical Record Beta Implementation	11980
 National Fintech Recognition of Prior Learning	14819
 National Intranet Portal and Disaster Recovery	16872
+National Land Registry and Land Records System	18619
 National Land Transport Authority Recovery Act	7845
 National Library Service and Records	12597
 National Peace and Reconciliation	16970
@@ -970,9 +999,12 @@ Official Use Only Recommendation	10985
 Oilseeds This Recommendation	16900
 One-Teacher-One-Laptop. Recommends	4074
 Open Medical Record System	8605
+OpenMRS Electronic Medical Records	18478
+Operational Cost Recovery	18537
 Operational Recommandations	5677
 Opportunities and Recommendations	11552
 Optical Character Recognition	8978,2178,3557,2488
+Optical Mark Recognition	18531
 Optimal Mark Recognition	13248
 Opération de Reconnaissance Locale	14444
 Opération de Reconnaissance Locale Article	14444
@@ -1007,12 +1039,13 @@ PEIDS Recomendações	15966
 PERSPECTIVES DE RECOUVREMENT EN	17872
 PERSPECTIVES ET RECOMMANDATIONS	998
 PERSPECTIVES ET RECOMMANDATIONS Conclusion	998
+PIMA Recommendations	18488
 PLAINTES ET RECOURS	18119
 PLAN PRESIDENTIEL DE LA RECONSTRUCTION ET	15999
 PNPS PPSD PSDGP ReCos RSU SDG	15658
 POLICY ASSESSMENT AND RECOMMENDATIONS REPORT	11285
 POLICY IMPLICATIONS AND TECHNICAL RECOMMENDATIONS	15244
-POLICY RECOMMENDATIONS	6832,5697,2715
+POLICY RECOMMENDATIONS	6832,5697,2715,3210
 POUR LE FINANCEMENT DE LA RECONSTRUCTION	15999
 PPE Records	12253
 PRESIDENT'S RECOMMENDATION	1818
@@ -1042,6 +1075,7 @@ Peace and Reconciliation	970,16000,325
 Per Second RTO Recovery Time Objective	11952
 Percentage Completion of DGTS Recommendations	14750
 Percolation Leaching for Artisanal Gold Recovery	1554
+Period Records	18470
 Personal Health Record	7981
 Personal Records Database	10714
 Perspectives de Recouv	3396
@@ -1073,6 +1107,7 @@ Post-COVID Recovery Development Plan	13731
 Post-COVID19 Economic Recovery Plan	12922
 Post-Conflict Reconstruction	14888
 Post-Disaster Reconstruction Office	1228
+Post-Ebola Recovery Plan	18443
 Post-Pandemic Reconstruction	14932
 Postconflict Reconstruction. United Nations and World Bank	16942
 Postos de Recolha	10772
@@ -1080,6 +1115,8 @@ Power Sector Recovery Additional Financing	11469
 Power of Attorney. Recognising	8866
 Preamble Recognizing	15977
 President. Priority Recommendations The EU EOM	12201
+President’s Recovery Priorities	18443
+President’s Recovery Priorities PRP	18453
 Prevention Re-use Recycling Recovery Dispose Figure	1988
 Principles and Functional Requirements for Records	13250
 Principles and Recommendation Framework	16921
@@ -1087,7 +1124,7 @@ Principles and Recommendations	10765,10,1563,75,546
 Principles and Recommendations for Vital	12367
 Princípio de Recolha de Dados	12774
 Prioritized Recommendations	17870
-Priority Recommendations	17260
+Priority Recommendations	17260,1424,1
 Priority Recommendations A. Legal and Institutional	14777
 Prison Records Unavailable	14045
 Private Sector Records	12356
@@ -1184,7 +1221,7 @@ RECOMMENDATION TIMEFRAME OUTCOME INTERVENTION DIGITAL	16942
 RECOMMENDATION TIMEFRAME OUTCOME INTERVENTION FIRST MILE	16942
 RECOMMENDATION TIMEFRAME OUTCOME INTERVENTION GENERAL POLICY	16942
 RECOMMENDATION TIMEFRAME OUTCOME INTERVENTION LEGAL	16942
-RECOMMENDATIONS	9399,1376,453,57,4,568,45,299,127,295,83,225,457,1046,239,445,1852,157,743
+RECOMMENDATIONS	9399,1376,453,57,4,568,45,299,127,295,83,225,457,1046,239,445,1852,157,743,661,93,59
 RECOMMENDATIONS A WORLD	16916
 RECOMMENDATIONS AND CONCLUSION	17367
 RECOMMENDATIONS Based	10049,7236
@@ -1195,6 +1232,7 @@ RECOMMENDATIONS FOR FLOOD RISK ASSESSMENT METHODOLOGY	17157
 RECOMMENDATIONS FOR FUTURE SUSTAINABILITY	16963
 RECOMMENDATIONS FOR PROPOSED CHANGES IN GOVERNMENT	16872
 RECOMMENDATIONS Guinea-Bissau	11550
+RECOMMENDATIONS Immediate	18531
 RECOMMENDATIONS Integrating	11918
 RECOMMENDATIONS ON POLICY AND REGULATION S	11857
 RECOMMENDATIONS ON SPECTRUM Timeline Responsible Impact	11857
@@ -1205,6 +1243,7 @@ RECOMMENDATIONS R1	17870
 RECOMMENDATIONS Short-Term	12508
 RECOMMENDATIONS The Importers and Exporters Association	14216
 RECOMMENDATIONS The World Bank Report174 High-Growth	17870
+RECOMMENDATIONSO6 ESO MANAGEMENT AND OPERATIONS SUPPORT	18487
 RECOMMENDATiONS	961
 RECOMMENDATiONS AU Member States	961
 RECOMMENDATiONS African	961
@@ -1292,14 +1331,15 @@ Recognise. Avoid. Respond. Recognise	10725
 Recognised	6832,4568,1252,4231,1
 Recognised By INEC	2355,176,4,1,56,3,339,96,901,1006,1761,673
 Recognised System	12528
-Recognising	26,1,1,368,177,670,575,1130,54,298,351,534,139,524,396,2,434,192,608,427,408,158,455,435,246,138,42,241,630,675,125,42,149,171,34,104,57,66,48,62,2,67,775,358,68,78,72,67,284,5,4,25,312,48,104,223,354,370,55,284,13,11,353,217,1169,264,242,211
+Recognising	26,1,1,368,177,670,575,1130,54,298,351,534,139,524,396,2,434,192,608,427,408,158,455,435,246,138,42,241,630,675,125,42,149,171,34,104,57,66,48,62,2,67,775,358,68,78,72,67,284,5,4,25,312,48,104,223,354,370,55,284,13,11,353,217,1169,264,242,211,1262
 Recognising AI	14601
 Recognising ICT	7365
 Recognising Liberia	5244
 Recognising Malta	8992
 Recognising Nairobi's Refugees	12227
-Recognition	28,1126,65,2283,1,358,397,988,5566,1402,32,91,1,51,24,32,83,4,114,7,255,22,8,67,48,18,2,214,1,580,205,78,585,320,150,507,1119,4,3,103,318,710,69
+Recognition	28,1126,65,2283,1,358,397,988,5566,1402,32,91,1,51,24,32,83,4,114,7,255,22,8,67,48,18,2,214,1,580,205,78,585,320,150,507,1119,4,3,103,318,710,69,517
 Recognition Authority	16832
+Recognition Final Standing Runners-Up NLe	18576
 Recognition Global Financial Centers Index	14997
 Recognition Letter	12227
 Recognition Review	3502,1
@@ -1326,14 +1366,15 @@ Recognition of Smallholders Smallholder	14818
 Recognition of Smallholders Smallholders	14818
 Recognition of Standards Development Organizations	11269
 Recognition of War Veterans	13474
-Recognize	2477,200,826,80,2094,1270,9885
+Recognize	2477,200,826,80,2094,1270,9885,1648
 Recognize AI and A-	7548
 Recognize the Candidate RIR	3503
 Recognized	3503,5620,2832,259,1581,356,2681,428
 Recognized Cloud Computing Service Models and Deployment	16923
 Recognized RIR	3503
+Recognized for Fair Play THE LEADERSHIP	18576
 Recognizes	12964,1910,2240,26
-Recognizing	1212,52,1421,172,235,252,517,265,134,41,1118,21,333,52,607,89,21,70,237,1117,184,33,194,484,994,490,375,43,1,88,133,211,39,97,214,17,15,632,23,96,70,14,328,45,170,8,13,28,37,18,272,24,62,349,237,9,21,5,2,5,11,33,16,684,22,79,6,25,19,5,19,8,61,22,64,10,8,9,333,138,3,104,100,135,17,235,81,547,30,6,9,36,1,19,2,23,7,2,10,11,15,6,1,96,13,30,130,80,172,367,387
+Recognizing	1212,52,1421,172,235,252,517,265,134,41,1118,21,333,52,607,89,21,70,237,1117,184,33,194,484,994,490,375,43,1,88,133,211,39,97,214,17,15,632,23,96,70,14,328,45,170,8,13,28,37,18,272,24,62,349,237,9,21,5,2,5,11,33,16,684,22,79,6,25,19,5,19,8,61,22,64,10,8,9,333,138,3,104,100,135,17,235,81,547,30,6,9,36,1,19,2,23,7,2,10,11,15,6,1,96,13,30,130,80,172,367,387,194,106
 Recognizing AI	6948
 Recognizing BAM	17503
 Recognizing Congo	15553
@@ -1427,7 +1468,7 @@ Recommendation X.509	1009
 Recommendation for Orange Corners	13358
 Recommendation for Orange Corners Innovation Fund	13358
 Recommendation. The Ghanaian	4126
-Recommendations	396,503,362,293,198,62,14,268,21,505,102,224,73,217,265,94,44,37,252,160,36,61,396,151,863,78,2,103,249,276,82,76,285,21,12,156,10,1,1,2,247,63,448,896,66,411,47,74,196,217,239,161,12,60,128,547,12,1,36,17,12,24,139,138,143,4,111,153,194,110,45,25,37,13,9,20,52,93,45,5,9,4,13,15,55,28,3,48,3,32,246,2,4,123,131,18,40,3,73,236,23,2,1,1,21,23,30,30,2,41,71,390,94,243,169,6,38,154,48,49,19,35,68,10,40,2,100,26,319,30,43,32,26,7,31,814,275,105,148,4,19,24,16,10,18,3,3,5,8,8,128,15,25,10,8,92,11,609,1,23,57,20
+Recommendations	396,503,362,293,198,62,14,268,21,505,102,224,73,217,265,94,44,37,252,160,36,61,396,151,863,78,2,103,249,276,82,76,285,21,12,156,10,1,1,2,247,63,448,896,66,411,47,74,196,217,239,161,12,60,128,547,12,1,36,17,12,24,139,138,143,4,111,153,194,110,45,25,37,13,9,20,52,93,45,5,9,4,13,15,55,28,3,48,3,32,246,2,4,123,131,18,40,3,73,236,23,2,1,1,21,23,30,30,2,41,71,390,94,243,169,6,38,154,48,49,19,35,68,10,40,2,100,26,319,30,43,32,26,7,31,814,275,105,148,4,19,24,16,10,18,3,3,5,8,8,128,15,25,10,8,92,11,609,1,23,57,20,473,17,25,68,59,1,1,2,8,4,55,19
 Recommendations Adaptive	10763
 Recommendations Africa	6938
 Recommendations Agricultural Land Protection	17157
@@ -1450,6 +1491,7 @@ Recommendations Data Exchange Identification Create	12214
 Recommendations DigiAfricaLab	10725
 Recommendations Digital	899
 Recommendations E. Managing Risks of Digital Finance	14897
+Recommendations EXECUTIVE SUMMARY	18487
 Recommendations Encouraging	12242
 Recommendations Enhance Human Resource Capacity	16971
 Recommendations Environment	17157
@@ -1471,6 +1513,7 @@ Recommendations Overall	6949
 Recommendations R1	11138
 Recommendations R2	14897
 Recommendations Relating	17249
+Recommendations Remove	18620
 Recommendations Resolution No	17157
 Recommendations Several	13938
 Recommendations Strengthen Digital Inclusion for PWDs	12460
@@ -1491,6 +1534,7 @@ Recommendations and Action Plan	5677
 Recommendations and Action for Improvement	12367
 Recommendations and Actions	1814
 Recommendations and Best Practices	14434
+Recommendations and Conclusion	18624
 Recommendations and Conclusions	6426
 Recommendations and EGMONT Group	12598
 Recommendations and Future Directions	4439
@@ -1526,7 +1570,7 @@ Recommendations. Programme	11230
 Recommendations...................................122	13461
 RecommendationsThe	7278
 Recommendatiuons	12917
-Recommended	10,726,487,595,690,2841,327,28,1293,754,106,559,1439,213,707,4,227,1,126,9,46,669,48,322,137,39,10,32,524,102,383,613,98,509,229,43,110,105,86,1611,24,65,210,128,486,599
+Recommended	10,726,487,595,690,2841,327,28,1293,754,106,559,1439,213,707,4,227,1,126,9,46,669,48,322,137,39,10,32,524,102,383,613,98,509,229,43,110,105,86,1611,24,65,210,128,486,599,100
 Recommended Actions Primary Owner	12917
 Recommended Case Study	8301
 Recommended Communication Channels	5676
@@ -1539,6 +1583,7 @@ Recommended Data Exchange Standards Recommended	12360
 Recommended Data Exchange Standards Table	12360
 Recommended Data Security and Privacy Standards	12360
 Recommended Data Security and Privacy Standards Recommended	12360
+Recommended Extraction Option	18531
 Recommended Guide for Quick Reference	15014
 Recommended Implementation Measures	5676
 Recommended Initiatives	11857
@@ -1549,6 +1594,7 @@ Recommended Metadata Standards Recommended	12360
 Recommended Metadata Standards Suffix Description Domain	12360
 Recommended Methodologies	5676
 Recommended Methodologies NRAs	5676
+Recommended Option	18531
 Recommended Practice	12406
 Recommended Reading	10521
 Recommended Responsible	10829
@@ -1556,6 +1602,7 @@ Recommended Sprinkler Systems for Data Center Spaces	9123
 Recommended Standards	12360
 Recommended Standards and Specifications	12360
 Recommended Standards and Specifications Recommended	12360
+Recommended Structure	18461
 Recommended Type of Training	12253
 Recommended Universal Contact Points	5676
 Recommending	6948,2255,2805,6362
@@ -1564,6 +1611,7 @@ Recommends	2102,229,177,1089,287,91,871,384,6108,2047
 Recommends AI	5858
 Recommends the Malabo Convention	4807
 Recommenndations	12917
+Recommittal of Bill	18436
 Recommitted Borrower	15372
 Recomposición	1701
 Recompute	15244
@@ -1586,6 +1634,7 @@ Reconciliation Reports	170
 Reconciliation Statement	13420
 Reconciliation Steering Committee ONPA Office	16970
 Reconciliation and Healing	3583
+Reconciliation and Healing Bill	18615
 Reconciliation and Healing. Terms Cost	3583
 Reconciliation and Reparations Commission	16973
 Reconciliations	12500,920
@@ -1627,6 +1676,8 @@ Reconsti-	13341
 Reconstituer	13341
 Reconstituição	15396
 Reconstitute the High National Elections Commission	16847
+Reconstituted JMEC	18716
+Reconstituted Joint Monitoring and Evaluation Commission	18631
 Reconstitution	16026,610,1197
 Reconstrucción	1701,2508
 Reconstructed Cohort Analysis	12199
@@ -1650,7 +1701,7 @@ Reconstrução	11390,50,4452
 Reconversion	15583
 Reconversão	11373
 Recopilación	16898
-Record	103,3,85,1,36,1,9,52,10,3,13,1,2,101,1,56,21,53,2,20,7,1,155,464,274,514,263,458,452,553,147,559,32,694,357,920,67,123,1375,616,420,1367,790,616,63,92,138,76,60,96,11,216,144,216,130,282,60,1346,50,90,160,563,1242,10,47,37,577
+Record	103,3,85,1,36,1,9,52,10,3,13,1,2,101,1,56,21,53,2,20,7,1,155,464,274,514,263,458,452,553,147,559,32,694,357,920,67,123,1375,616,420,1367,790,616,63,92,138,76,60,96,11,216,144,216,130,282,60,1346,50,90,160,563,1242,10,47,37,577,954
 Record Activities	10775
 Record Date	7198,1741
 Record FAMS Financial Management System FTP	34
@@ -1681,6 +1732,7 @@ Record of PPE	1988
 Record of Processing	12193
 Record of Processing Activities	6792,617,4547
 Record of Processing Operations	12185
+Record of Reforms	18522
 Record of Updates	13308
 Record-Keeping Practices Appropriate	14565
 Record-Keeping Vendor Governance Agentic AI Systems	14565
@@ -1715,6 +1767,10 @@ Recording Industry of South Africa	17773
 Recording Law	8852
 Recording and Custody of Fuel	13420
 Recording and Documentation	17099
+Recording and Registration of Land Rights	18539
+Recording and Registration of Land Tenure Rights	18534
+Recording and Registration of Land Tenure Rights Baseline	18534
+Recording and Reporting of Deaths	18628
 Recording and Tracking	11231
 Recording of Domestic and External Debt	16944
 Recording of MSMEs	13938
@@ -1722,10 +1778,12 @@ Recording the PHC	771
 Recordings	34,11129
 Recordings Day	14035
 Recordings Stored	6946
+Recordkeeping	18556
 Recordkeeping and Archival Requirements	3861
 Recordlinkagefor	8606
 Recordou	5150,10832
-Records	771,199,278,85,141,304,210,1142,537,194,46,438,667,963,216,749,45,1619,1,311,321,613,5,957,167,874,7,354,3,36,72,31,3,54,43,74,1,120,3,323,273,131,660,505,19,163,2,124,26,9,18,1,27,62,159,745,243,688,282,129,6,1121
+Records	771,199,278,85,141,304,210,1142,537,194,46,438,667,963,216,749,45,1619,1,311,321,613,5,957,167,874,7,354,3,36,72,31,3,54,43,74,1,120,3,323,273,131,660,505,19,163,2,124,26,9,18,1,27,62,159,745,243,688,282,129,6,1121,89,19,123,1
+Records Activity	18481
 Records All CPD	13381
 Records Cassava's GROUP-LEVEL	1429
 Records Commission	15901
@@ -1791,7 +1849,7 @@ Recouvremet des Avoirs Saisis	6959
 Recouvrer	10858,4880,536,182
 Recouvrer SDSI Schéma Directeur du Système Informatique	10712
 Recouvrer. Actions	15738
-Recover	252,96,1,2,1,112,1,5,1,158,4,2,205,5,2,1,1,217,1,3,1,1,1,1,2,2,1,363,4,1,1,3,5,1,1,1,1,2,315,1991,1333,632,218,11472
+Recover	252,96,1,2,1,112,1,5,1,158,4,2,205,5,2,1,1,217,1,3,1,1,1,1,2,2,1,363,4,1,1,3,5,1,1,1,1,2,315,1991,1333,632,218,11472,1074,22,3,33
 Recover From COVID-19	12336
 Recover Program	14985
 Recoverability	5665
@@ -1805,10 +1863,11 @@ Recovered Total Loss Amount Conclusion	17362
 Recovered and Loss Averted	2775
 Recoveries	15901
 Recovering	7242,6114,2197
-Recovery	11,1927,1946,1248,544,4226,819,460,7,97,71,113,80,308,119,199,78,204,172,540,299,27,609,609,4,204,323,657,942,265,141,1,859
+Recovery	11,1927,1946,1248,544,4226,819,460,7,97,71,113,80,308,119,199,78,204,172,540,299,27,609,609,4,204,323,657,942,265,141,1,859,358,89
 Recovery Account CD Chief Director DAC	11218
 Recovery Additional	17906
 Recovery Center and Network Operation Centers	12917
+Recovery DRII Disaster Recovery Institute International	18531
 Recovery Data	11138
 Recovery Development Policy Financing Project	11918
 Recovery Devices	14921
@@ -1869,6 +1928,7 @@ Registo Predial. CAPÍTULO X RECONHECIMENTO	11901
 Registration Services Recording	12151
 Regulamento Sanitário Internacional. Recomendações	11376
 Regulate Recognition	12214
+Regulation and Taxation Recommendations	18485
 Regulations Independent Power Producers Recommended LED	12515
 Regulatory Recommendations	5676
 Regulatory Recommendations National Regulatory Authorities	5676
@@ -1883,12 +1943,13 @@ Required Records and Information	13606
 Research Institutions Recommend	17114
 Reservations Recognition	15968
 Resolve Appeals and Legal Recourses Granted	12389
-Respondent. Records	17165
+Respondent. Records	17165,1405
 Response Recovery	12976
 Response and Recovery	13206
 Results Report Recovery of Economic Activity for Liberian	17000
 Retention and Form of Records	17243
 Revenue Recognition	15169
+Revenue Reconciliation	18577
 Review Performance Recognition Structure	11134
 Review of Recovery	12253
 Reward and Recognition The Central Bank of Eswatini	11134
@@ -1924,6 +1985,7 @@ SUMMARY OF RECOMMENDATIONS	16942
 SURVEY CONCLUSIONS AND RECOMMENDATIONS CONCLUSIONS	17285
 SYNTHÈSE DES RECOMMANDATIONS DES GROUPES	10024
 Saifi. Mobile Services Record	11642
+Salone EMR Electronic Medical Records	18478
 Sanctions Act and Recommendation	14809
 Scanning and Archiving of Records	12947
 Scheme Recognizing	16985
@@ -1940,6 +2002,8 @@ Security and Reconciliation	15731
 Settlement and Reconciliation ARTICLE	15484
 Shared Encounter Record	21
 Shared Health Record	2709,7146,2726,5581
+Sierra Leone Records Significant Gains	18582
+Sierra Rutile EMR Electronic Medical Records	18478
 Signals Recovery Across Core Businesses	7427
 Significant Resolutions and Recommendations During WTSA-24	15120
 Silvestre E. How Electronic Health Records	771
@@ -1970,6 +2034,7 @@ Somaliland Recognition	3463
 South Africa. Recorded	612
 Sovereignty Recognizing	16212
 Special Reconstruction Fund	3583
+Spectrum Recommendations	18485
 Stakeholder-Specific Recommendations For Government	17139
 Stakeholders Collaboration A. Recognizing	4610
 Standards and Recommended Practices	13060
@@ -1980,6 +2045,8 @@ Statistics Records Quality Development and Control	16863
 Statut Responsable Recommandations	2966
 Strategic Recommendations	2777,991,1909,6564,1781
 Strategic Solutions-Focused Framing Recognizing	13608
+Strategy and Recommendations	18485
+Strategy and Recommendations. Chapter	18485
 Strengthen Academic Records Integrity URL	18206
 Strengthen Recording of Birth	12334
 Study of Options for Mutual Recognition of National IDs	10819,2495,2160
@@ -2058,6 +2125,8 @@ Transfer of Records	12672
 Transformation and Recommendations for Strengthening	11545
 Transport License. CRIMINAL RECORD	12333
 Triggered After Electricity Demand Reaches Record	14801
+Tripartite Recommendations	18553,2
+Tripartite Recommendations ICPNC	18555
 Truth and Reconciliation Commission	16970
 Type CI-1 CI-2 Recommandation Créer	17856
 Type DI-4 DI-5 Recommandation Accélérer	17856

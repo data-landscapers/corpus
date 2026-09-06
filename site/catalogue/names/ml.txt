@@ -23,6 +23,7 @@ Chef Ibrahima G. SIBY Mle	17828
 Civil and National Registration MLHA	12639
 Control Authority of Zimbabwe ML Machine Learning	12512
 Core ML	6955
+Country Planning MLSS Ministry of Labour and Social	18504
 Departments and Agencies ML	958
 Departments and Agencies ML Machine Learning MoH	12240
 Description MLA Computerisation	2640,2996
@@ -48,6 +49,7 @@ Gerald Mlotshwa	306
 Global ML-ethics	1004
 Google Agnes Mlambo Bryce Allan Chris	9769
 Guarantee Agency ML Machine Learning MPA	3604
+Guarantee Agency MLGRD Ministry of Local Government	18504
 Guide MDG Millennium Development Goals MLA	13960
 HOTL ICRC LMIC MLOp OCHA OCR	11156
 Harnessing ML	11265
@@ -94,6 +96,8 @@ MLATs	11995
 MLC and Pillar	14932
 MLC.16	14932
 MLCommons	7313
+MLD B.2 Transmission Main	18543
+MLD Njala Mokonde Capacity	18543
 MLDPP	14662
 MLE FONCTION ACTUELLE Mahamane Alassane MAIGA	17817
 MLE POSTES GRADE INDICE	17899
@@ -105,14 +109,14 @@ MLE PRENOMS NOMS GRADES OBSERVATIONS MOSSA	18003
 MLEVTSP	15658
 MLEVTSP. Additional	15658
 MLEVTSP. Component	15658
-MLGCA	7814
+MLGCA	7814,10761
 MLGCRA	1514,2967,1,8
 MLGCRA Research	4481
 MLGCRA Spatial Planning	4482
 MLGCRA's FY2026	4490
 MLGDRM	14818
 MLGDRM and FAREI	14818
-MLGRD	1514,474,10465,88,804,78
+MLGRD	1514,474,10465,88,804,78,5030,51
 MLGRD EGD	12453
 MLGRD Human Settlements and Land Use Research	1513
 MLGRD PBB Estimates	4490
@@ -122,9 +126,12 @@ MLHA Computerisation	12597
 MLHA Consultancies	12597
 MLHA Infrastructure Development	12597
 MLHA's Electronic National Identification System	4145
+MLHCP	18476,58
+MLHCP and OARG	18534
 MLHHSD	637
 MLHRDT	14742
-MLHUD	1391
+MLHUD	1391,17228
+MLHUD Ministry of Lands	18619
 MLI MWI TGO GNBLBR DJI GAB	6593
 MLI NEP	11900
 MLI-CPS-DNSI-EAC-2007-V01	9553
@@ -163,7 +170,9 @@ Malawi. The MLA	12175
 Mamadou SANGARE MLC	17841
 Maturity Level of ML2	7008
 Mavuso Director Financial Regulation Lindiwe Mlambo	11131
+Ministry of Health and Sanitation MLGCA	18485
 Ministry of Internal Affairs ML	16975
+Ministry of Local Government and Community Affairs MLHCP	18485
 Mirriam Mlagha	8279
 Ml J	13390
 Mlalazi and Mandeni.4.2.3	2626
@@ -244,6 +253,7 @@ Powerful Viral Video Khanyi Mlaba	12336
 Real Time Prices ML	16133
 Relations and Employment Creation MLR Ministry of Land	12923
 Researcher Dr Nyasha Mlambo	13597
+Rural Development MLHCP Ministry of Lands Housing	18504
 S3 CISSE MLC EMGA	17841
 SANOGO MLC DIRPA	17841
 SARL SOC MLT	16623

@@ -2,10 +2,12 @@ Adolescent Pregnancy	12151,889
 BMC Pregnancy Childbirth	15411
 Become Pregnant and Future Use of Contraception	15247
 Birth Pregnancy	12151
+Distribution of Pregnant Girls	18460
 Experience of Physical Violence During Pregnancy	15247
 HIV Testing of Pregnant Women	15247
 Heat Whilst Pregnant	16922
 Improve Documentation of Pregnancy Outcomes	10881
+Mean and Minimum Ages of Pregnant Girls	18460
 PBF National Technical Unit Pregnant	10829
 PBF Pregnant	10829
 PREGABALINE PREGABALINE PREGABALINE PREGABALINE PDRE. SOL	15930
@@ -23,11 +25,12 @@ PREGODI	600,6758
 PREGOLS	15865,1768
 PRESIDENCE DE LA REPUBLIQUS PREGIDENCY	15999
 PreggiCare	8438
-Pregnancy	2775,7080,2296,889,260,99,55,1793
+Pregnancy	2775,7080,2296,889,260,99,55,1793,3265
 Pregnancy Age	15604
 Pregnancy Birth Pregnancy	12151
 Pregnancy Moni Campaign	8438
 Pregnancy Outcomes and Induced Abortion Rates	13454,1793
+Pregnancy Registration and Service Tracking	18532
 Pregnancy Related and Perinatal	21
 Pregnancy-related Mortality	15247
 Pregnancy-related Mortality. Appendices	13454
@@ -40,7 +43,8 @@ Preguntado	17061
 Preguntas	16974
 RDGE Eric PREGNON	13885
 REP Reach Every Pregnant Woman SARA	16971
-Teenage Pregnancy	2775,10202,1765,505
+Reduction of Adolescent Pregnancy and Child Marriage	18512
+Teenage Pregnancy	2775,10202,1765,505,3265
 Termination of Pregnancy Act	13040
 Termination of Pregnancy Bill	13040
 Trends In Pregnancy Related Mortality	14067

@@ -30,11 +30,14 @@ Android SDK	14651
 Annuaire CPS-SEEUDE Statistique du SDR INSTAT	17842
 Applied Sciences and Technology SDDR	18309
 Area SDGs Sustainable Development Goals UNDP	16921
+Assessment SDGs Sustainable Development Goals SLeSHI	18478
 B. Initiate Steps Toward Full SDDS	14777
 BIO SDG	820
 Bank of Malawi SDGs Sustainable Development Goals	13060
 Banks and SDIs	17362
 Banks and SDIs. Section	17362
+Basic Drinking Water SDG	18441
+Basic Sanitation Services SDG	18441
 Business Register SDG Sustainable Development Goals	2775
 C- Universal Access SDG	11863
 C. Sdralevich	1828
@@ -50,6 +53,7 @@ Cette SDDCI	18118
 Cf. SD-RFP	18015
 Change Communication SDG Sustainable Development Goal	16922
 Child and Adolescent Health and Nutrition SDG Sustainable	11560
+Clean Fuels SDG	18441
 Cloud Adoption Committee Entities GCSPs SDICT&DE	6432
 College of Medicine and Malawi SDNP	12965
 Communications. Main SDG	12843
@@ -117,12 +121,14 @@ Factor Literature M SD	9129
 Falémé SDAGE	18291
 Financiers PV Procès-Verbal SDSG Spécialiste	15746
 Fisheries SDG	13824
+Foundational Numeracy Skills SDG	18441
+Foundational Reading Skills SDG	18441
 Framework SC Steering Committee SDGs Sustainable	17458
 Francophonie SDG Sustainable Development Goal SOP	13681
 Fraud Across Banks and SDIs Staff Involvement	17362
 Fraud and Cash Suppression Across Banks and SDIs	17362
 GEO SDG Awards	13394,81
-GRANT IN THE AMOUNT OF SDR	12780
+GRANT IN THE AMOUNT OF SDR	12780,5845
 GROWTH AND SUSTAINABLE DEVELOPMENT SDG Goal	14935
 Gambia SDG Status Report	16951
 Gambia’s SDG	16973
@@ -131,6 +137,7 @@ General Population and Housing Census SDG7	15574
 Germany's BMZ and Switzerland's SDC	4427
 Gestion des Réseaux de Transport SDCB	10975
 Global Compact for Migration and SDGs	16874
+Global SDG	18529
 Global SDG Indicator Framework	11195
 Gouvernement SNDP SDAN SDI SN	15512
 Habitat SDSL Schéma Directeur	15501
@@ -138,6 +145,7 @@ Hogares SDGs Sustainable Development Goals SISBEN	11133
 Huawei SD-WAN	8148
 Huawei's SD-WAN	8148
 I. Toward SDM-Based Submarine Optical Networks	16144
+ICT SDGs and BB Universal	18485
 IDA19 SDG	16942
 IMF Quota Subscription of SDR	11134
 IMF SDDS Plus Guide	14777
@@ -162,6 +170,7 @@ June. Beyond the SDID	5596
 Justice SDG	12457
 L'élaboration du SDS	17842
 LA TRANSITION VERS LE SD RFP	18015
+LCs DATA Establishment and Implementation of SDI	18476
 LEÇONS TIRÉES DE L’ÉVALUATION DU SDS	17842
 LOGIQUE D’INTERVENTION DU SDS5	15961
 La SDDCI-Niger	18118
@@ -195,6 +204,7 @@ NDPs and SDGs	16951
 NHC and SDUHD	2775
 NHI. The SDG	396
 NSDD SDMX	10874
+National Level SDI	18476
 National Strategy and UN SDGs	12917
 National Treasury's SDF. Indicative Phase	11940
 National Treasury’s SDF	8817
@@ -228,6 +238,7 @@ People With Disabilities SDM Single Digital	17099
 Plan SDP Spatial Development Planning SETA	11261
 Plus MUS Current SDDS Plus MUS	14777
 Policy and Regulatory Environment for Africa’s SDM	1264
+Postal Service SDGs Sustainable Development Goals	18454
 Posts SDBIP	11251
 Poverty SDG	12457
 Private Partnerships R&D Research and Development SDG	13346
@@ -243,8 +254,10 @@ Quality Education SDG	17078
 Quality of Life and SDG Contribution. Digital	12333
 Qualité SDAN	15512
 RA and SDID	15080
+RAIC Stakeholder Engagement Technical Review of SDG	18442
 REPS RTGS SACU SADC SARB SDRs	11134
 RERA SRER SSA SPA SDL UN	16916
+RF Results Framework SDG Sustainable Development	18477
 RLCM Sustainable Development Goal SDG Somalia	15129
 RMQ V1 SDAN	15512
 RMRS-D RS SAD SCIMR SCRP SDSI	10858
@@ -318,6 +331,7 @@ SDC ID	12420
 SDC SDC SDC DLC DLC DLC	10858
 SDC-funded	8985
 SDC. Multistakeholder Governance for DPI	11006
+SDCCH	18444
 SDCI SINGAPOURE	2342
 SDDCI	18100,5
 SDDCI NIGER	18103
@@ -359,14 +373,17 @@ SDG Name	13938
 SDG OVERALL	16942
 SDG PF	4349
 SDG Relevant Pillars	14752
+SDG Report	18529
 SDG Reporting	16951
 SDG Sudanese Pound	15220
 SDG Sudanese Pound SMA Sudan Meteorological	15118
+SDG Summit	18520,9
+SDG Sustainable Development Goal	18614
 SDG Sustainable Development Goal SEA Sexual	16896
 SDG Sustainable Development Goal SIC Special	16927
 SDG Sustainable Development Goal SIDS	11572
 SDG Sustainable Development Goal STEM Science	14922
-SDG Sustainable Development Goals	12367
+SDG Sustainable Development Goals	12367,6253
 SDG Sustainable Development Goals Figure	582
 SDG Sustainable Development Goals SIM Subscriber	12328
 SDG Sustainable Development Goals SME Small-and	15411
@@ -376,6 +393,7 @@ SDG Target	10714,1689,602,143,840,934,2015
 SDG Training Program	12962
 SDG Trust Fund	15500
 SDG and Agenda	13965
+SDG and MTNDP	18529
 SDG's Fund	17964
 SDG- Moving	970
 SDG-1	970
@@ -388,7 +406,7 @@ SDG-16	970
 SDG-2	970
 SDG-3	970
 SDG-5	970
-SDG-7	970
+SDG-7	970,17650
 SDG-aligned	11356
 SDG-data	6337
 SDG-linked	13980
@@ -398,9 +416,12 @@ SDG10	14935,723
 SDG10 Reduced Inequalities	13327
 SDG13	3583,12075
 SDG15	970
-SDG16	3583,11352
+SDG16	3583,11352,3542
 SDG16.9	10714
 SDG17 Partnerships	13327
+SDG17.8.1 Disparities	18441
+SDG17.8.1 Percentage	18441
+SDG17.8.1 Rural	18441
 SDG4 Quality Education	13327
 SDG7 Tracking	11140
 SDG7 Tracking Report	13433
@@ -409,13 +430,16 @@ SDG7.esmap.org	11572
 SDGS AND OF THE ALIGNMENT	970
 SDGs Assistance	5655
 SDGs OUR VALUES AND PRINCIPLES	14734
+SDGs Power of Data	18529
 SDGs Roadmap	789
 SDGs Social Inclusion	11332
 SDGs Sustainable	766,16149
 SDGs Sustainable Development Goals	12786,2250
+SDGs Sustainable Development Goals M	18624
 SDGs Sustainable Development Goals M&E Monitoring	396
 SDGs Sustainable Development Goals S-MPI Sudan	15244
 SDGs Sustainable Development Goals SDI Socio-Demographic	15725
+SDGs Sustainable Development Goals SEAH Sexual	18668
 SDGs Sustainable Development Goals SLAs Service	12240
 SDGs Sustainable Development Goals SME Small	7548,5414
 SDGs Sustainable Development Goals SRHD Social	970
@@ -429,9 +453,13 @@ SDGs and New Urban Agenda	11285
 SDGs and UHC	17289
 SDGs. Advanced SDG Financing	16973
 SDGs. Africa	1814
+SDGs. BECAUSE Sustainable	18529
 SDGs. DG INTPA	11155
+SDGs. Demand	18529
 SDGs. Egypt	15725
+SDGs. Environment	18529
 SDGs. Following	12962
+SDGs. Governance	18529
 SDGs. JSR	14935
 SDGs. JSRs	14997
 SDGs. Key Findings Across Sectors	17260
@@ -639,6 +667,7 @@ Supporting SDGs	12675
 Supports SDG	2772,9685
 Sustainable Development Goals. Why SDMX	12499
 Switzerland's SDC	8985
+Symposium SDI Begins New Study	18442
 System Capacity Grant SDG	12175
 Système de Comptabilité Nationale SDS	10874
 TAUX DE RÉALISATION DU SDS	17842
@@ -659,7 +688,7 @@ UN Joint SDG Fund	1073,12471
 UN Joint SDG Fund European Commission	1073
 UN SDG	2829
 UN SDG Database	12261
-UN SDGs	7204,3387,1266,519,2393,2158,869
+UN SDGs	7204,3387,1266,519,2393,2158,869,733
 UN SDGs Good	7204
 UN SDGs.Available	12376
 UNDP Climate Promise Funds Government SDG	17101

@@ -34,7 +34,7 @@ Aplicação Subsidiária	549,10206,678
 Artificial Substrates	17114
 Asymetric Digital Subscriber Line AMAP	17824
 Asymmetric Digital Subscriber	12395
-Asymmetric Digital Subscriber Line	13218,2154
+Asymmetric Digital Subscriber Line	13218,2154,3072
 Asymmetric Digital Subscriber Line AI	6000
 Audit Subsection	14908
 August. Subsequently	11131
@@ -94,6 +94,8 @@ Card Subscriber Identity	16867
 Cards Prepaid Cards Mobile Money Subscribers	6978
 Cash Flow Accounting of Fuel Subsidies	1828
 Change Mobile Internet Subscriptions	6000
+Change of Customer Information. Subscribers	18452
+Chemical Substances	18541
 Civil Registration Substantive	10775
 Classification Investment Project Substantial Financing	3604
 Classification Substantial Financing	15553
@@ -133,6 +135,9 @@ DES SUBSTANCES PRECIEUSES Général	18032
 DES Scope Subsystem Type Categorical	7221
 DIGITAL SUBSCRIBER LINE AGENCE NATIONALE	18105
 DSL Digital Subscriber Line DTH Direct-To-Home	6671
+DStv Subscriptions and Generator	18555
+DStv Subscriptions and Generator Chinese Medical Team	18555
+DStv Subscriptions and Generator ChopWin World Cup	18555
 DTAA. Subsequently	14839
 DTH Subscriptions	6671
 Daily Subsistence Allowance	3583
@@ -153,7 +158,7 @@ Department Subsidize	17157
 Deploying the Largest Subsea Fiber-Optic Cable System	2677
 Designated Account. Subsequent	10829
 Digital Business Subsectors	17870
-Digital Subscriber Line	15,6070,586,4076,3976
+Digital Subscriber Line	15,6070,586,4076,3976,3721
 Digital Subscriber Line Access Multiplexer	14723
 Digital Subscriber Line YEDF Youth Enterprise	2775
 Digital Subscriber Lines	13290
@@ -199,6 +204,7 @@ Farm Input Subsidy Programme	4172,7457,1466,27,92
 Farm Input Subsidy Programme. Pilots	13095
 Farm Inputs Subsidy Program	13060
 Favorable Sector Growth Subscriptions	17239
+Fee Subsidies Low	18512
 Fertilizer Input Subsidy Program	13122
 Fibre Optic Subsea WACS Cable	8679
 Fibre Subscriptions	6000
@@ -394,7 +400,7 @@ Mobile Broadband Subscribers	12395
 Mobile Broadband Subscriptions	6671,5724,206
 Mobile Cellular Subscribers	12395
 Mobile Cellular Subscription Density	16975
-Mobile Cellular Subscriptions	6946,5449
+Mobile Cellular Subscriptions	6946,5449,6090
 Mobile Cellular Subscriptions Mobile Broadband Subscriptions	12395
 Mobile Cellular Telephone Subscriptions	12395
 Mobile Cellular and Internet Subscriptions	16992
@@ -430,8 +436,8 @@ Mobile Subscriptions and Penetration	6671
 Mobile Subscriptions and Penetration Figure	6671
 Mobile Telephony Subscriptions Mobile Telephony	12601
 Mobile Voice Subscription and Penetration Rate	2776
-Mobile Voice Subscriptions	2776,1086,12181
-Mobile Voice Subscriptions and Market	2776
+Mobile Voice Subscriptions	2776,1086,12181,2401
+Mobile Voice Subscriptions and Market	2776,15668
 Mobile Voice Subscriptions and Penetration Rate	2776
 Mobile Voice Subscriptions and Penetration Rate Subscription	2776
 Mobile Voice Subscriptions and Penetration Rate3	2776
@@ -446,6 +452,7 @@ Month Subscription Code	15279
 Moov Africa SSA Subsidiaries Annual CapEx	1065,376
 NCC CSIRT's VTEM and Subscription	10721
 NCC- Updated Subscription CSIRT	10721
+NELSAP Nile Equatorial Lakes Subsidiary Action	18614
 NON-DISCRIMINATION BETWEEN SUBSCRIBERS	15149
 NUMBER OF PAY TV SUBSCRIBERS	11211,51
 Nation Address SSE Substantive Search and Examination	11250
@@ -484,7 +491,9 @@ Operador de Subsistema de Compensação	11370
 Operator BWA Subscription Q3	2776
 Overall Efficacy Rating Substantial	14888
 Overall Substantial COMPLIANCE Policy Does	11380
+Overall Substantial Moderate Moderate Results PDO	18473
 Overall Substantial Substantial Substantial	17505
+Overall Substantial Substantial Substantial Dec	18534
 Overall Substantial Substantial Substantial Results PDO	16638
 Overall Substantial. CLIMATE	15190
 Overview of Global Subscriptions ICT Employment Developments	12395
@@ -494,6 +503,7 @@ Ozone Depleting Substances Regulations	12253
 P502128 Substantial Financing	15661
 PAM External Vendor User Subscription	10616
 PAM External Vendor User Subscription Licenses	10616
+PART III- ESTABLISHMENT OF CENTRAL SUBSCRIBER	18452
 PCU Substantial	15661
 PDO Substantial Substantial Overall Implementation Progress	12228,39
 PETROLEUM SUBSECTOR	12256
@@ -532,7 +542,7 @@ Princípio da Subsidiariedade	4146
 Processing Substitution Substitution Recalling	12364
 Program Rating High High Substantial Moderate	15658
 Program Substantial	11380
-Program Substantial Moderate Moderate Institutional Capacity	16638,867
+Program Substantial Moderate Moderate Institutional Capacity	16638,867,968
 Program Substantial Substantial Substantial For Official	18354
 Program Substantial Substantial Substantial Low Low	12440
 Programa Inicial de Subsídios	17093
@@ -548,11 +558,13 @@ Quality Satisfactory Satisfactory Substantial ISR RATINGS	11924
 Quality Satisfactory Satisfactory Substantial RATINGS	17849
 Quest for Subsidy Reforms	16902
 Quota Subscription Account Commentary	11134
+REGISTRATION OF SUBSCRIBERS	18452
 RELATIONS BETWEEN THE LICENSEE AND SUBSCRIBERS	15149
 ROW Right of Way SIM Card Subscriber	11857
 Rating Substantial OBJECTIVE	14888
 Rating Substantial OVERALL EFF TBL OBJ TBL	16960
 Rating Substantial OVERALL EFFICACY Rationale	14888
+Rating Substantial Substantial	18534
 Rating Substantial Substantial For Official Use	18350
 Rating Substantial Substantial Implementation Status and Key	15619,1019
 Real-Time Payment Subsystem	10775
@@ -564,6 +576,8 @@ Reforming Fuel Subsidies. Washington	10985
 Regime Jurídico Subsidiário	10747
 Regime Substantivo	16056
 Registered Subscribers	17235
+Registration of Chemical Substances	18541
+Registration of Subscribers of SIM and UIM Cards	18452
 Registration of Telecommunication Service Subscribers	6946,2792
 Registration of Telecommunications Service Subscribers	2996
 Registration of Telephone Subscribers Regulations	11993
@@ -587,7 +601,9 @@ STOCK-TAKING OF FUEL SUBSIDIES IN CONGO	1828
 SUBSCRIBER	3862
 SUBSCRIBER AND SERVICES DATA	3862
 SUBSCRIBER SERVICE CHARTER AMENDMENT REGULATIONS	4732
-SUBSCRIBERS	16216
+SUBSCRIBERS	16216,2236
+SUBSCRIBERS IDENTIFICATION AND REGISTRATION	18452
+SUBSCRIBERS INENTIFICATION AND REGISTRATIONS	18452
 SUBSCRIBERS' DATA	15149
 SUBSCRIPTIONS	6000,6601,2235
 SUBSCRIPTIONS Figure	6000
@@ -682,14 +698,15 @@ Subsariana BAD Banco Africano de Desenvolvimento BCV	15535
 Subscreva	9990
 Subscrever	11415,13,4752,228
 Subscrib Initial Surname	12364
-Subscriber	582,154,3126,2989,3942,3133,1223,153,1530,7
+Subscriber	582,154,3126,2989,3942,3133,1223,153,1530,7,1613
 Subscriber Data	3862
 Subscriber Data for Operators	3862
 Subscriber Data- Active Voice Subscriptions	3862
 Subscriber Identification	582
 Subscriber Identification Module	582,14306
 Subscriber Identification Module SMS Short Message	12663
-Subscriber Identification Modules	3862
+Subscriber Identification Modules	3862,14582
+Subscriber Identification and Registration	18485
 Subscriber Identity Module	4439,10335,346
 Subscriber Identity Module Card SLA Service	34
 Subscriber Identity Module Cards	16839
@@ -700,7 +717,9 @@ Subscriber Line	12395
 Subscriber Line DT SACCOs Deposit Taking	2775
 Subscriber Line DTH Direct-to-Home DTT Digital	6946
 Subscriber Matrix	3862
+Subscriber MoU Growth Rate	18444
 Subscriber Number	16934
+Subscriber Registration	18452
 Subscriber Scale Nigeria	14707
 Subscriber Service Charter Regulations	4732
 Subscriber Table	6946
@@ -708,12 +727,14 @@ Subscriber Voice	3862
 Subscriber Voice Data	3862
 SubscriberCount	10848
 SubscriberCountOrderOfMagnitude	10848
-Subscribers	774,446,306,864,338,221,579,334,561,789,179,1952,668,397,463,1213,331,441,786,60,149,6,119,419,295,1461,523,33,225,204,13,451,1635,493,202,7,14,1,1,1,27,20
+Subscribers	774,446,306,864,338,221,579,334,561,789,179,1952,668,397,463,1213,331,441,786,60,149,6,119,419,295,1461,523,33,225,204,13,451,1635,493,202,7,14,1,1,1,27,20,451,61
 Subscribers Actually Sit	6749
 Subscribers Added	14707
+Subscribers Identification and Registration	18452
 Subscribers Landline	1013
 Subscribers Number	16934
 Subscribers Orange Egypt	11642
+Subscribers Register	18452
 Subscribers Regulations	8416
 Subscribers Revenue	1944
 Subscribers Subscribe Coach Fazili	2264,1669,239,437,166,820,1446
@@ -725,7 +746,7 @@ Subscriber’s Designation User ID	12364
 Subscriber’s Designation User ID Reason for Revocation	12364
 Subscriber’s E-mail	12364
 Subscriber’s First	12364
-Subscription	236,182,164,427,935,832,861,77,2718,239,277,479,2352,701,241,1119,17,1196,408,490,1520,572,1570,2
+Subscription	236,182,164,427,935,832,861,77,2718,239,277,479,2352,701,241,1119,17,1196,408,490,1520,572,1570,2,835,63
 Subscription API	6423
 Subscription Agreement	14546
 Subscription Broadcasting	6946
@@ -755,6 +776,8 @@ Subscriptions Subscriptions	2776
 Subscriptions Total Mobile Data Traffic	2776
 Subscriptions Traffic Q3	2776
 Subscriptions Year	3862
+Subscriptions and Penetration Rates	18444
+Subscriptions and Voice and Data Penetration Voice	18444
 Subscriptions for Mobile Services	6671
 Subscritores	4274
 Subscrição	15358
@@ -769,7 +792,7 @@ Subsea Infrastructure	7145,3233
 Subsea Layer Wholesale	16814
 Subsec	14720
 Subsecretaria de Fomento	17337
-Subsection	3,8,17,545,14,385,361,141,1253,434,553,173,3053,4237,1,1,84,1283,3,80,19,2,243,10,27,375,5,1,10,140,105,868,15,145,53,66,3,3,8,1,2,13,100,65,1922,6,3,269
+Subsection	3,8,17,545,14,385,361,141,1253,434,553,173,3053,4237,1,1,84,1283,3,80,19,2,243,10,27,375,5,1,10,140,105,868,15,145,53,66,3,3,8,1,2,13,100,65,1922,6,3,269,1326,2,2,6,18,4
 Subsections	573,14,2139,3047,2072,4704,773,1391,14,2112
 Subsector	4209
 Subsector Actividad Pecuaria	4209
@@ -833,19 +856,20 @@ Subsequent	674,213,267,1523,927,522,606,11,91,62,349,1358,1672,1360,1184,362,382
 Subsequent Allocation Window	14165
 Subsequent Arrests	14190
 Subsequent Audit	15492
-Subsequently	396,322,299,1100,772,4281,1290,144,2,182,1516,72,505,82,1,166,1,3,57,56,708,206,56,38,78,96,16,226,7,284,17,331,36,278,922,351,8,224,344,190,603,592,38,6,9,11,5,8,7,8,207,859
+Subsequent Invitation for Bids	18543
+Subsequently	396,322,299,1100,772,4281,1290,144,2,182,1516,72,505,82,1,166,1,3,57,56,708,206,56,38,78,96,16,226,7,284,17,331,36,278,922,351,8,224,344,190,603,592,38,6,9,11,5,8,7,8,207,859,661
 Subsidiariedade	11901
 Subsidiaries	1065,376,6027,3325
 Subsidiaries Directors	7204
 Subsidiarity	17019
 Subsidiarity and Proportionality	13308,2232
 Subsidiarité	10712,3129
-Subsidiary	12483,422,382,24,1099,12,27
+Subsidiary	12483,422,382,24,1099,12,27,4013
 Subsidiary Agreement	15659,485
 Subsidiary Business Names	16601
 Subsidiary ICPS	4791
 Subsidiary Loan Agreement	14546
-Subsidies	236,1592,947,468,4345,2235,2209,341,162,449,76,271,1078,1110,1320,63,141
+Subsidies	236,1592,947,468,4345,2235,2209,341,162,449,76,271,1078,1110,1320,63,141,1440
 Subsidies Compensation	2775
 Subsidies Compensation Platform	1954,521
 Subsidies Other Expenditure Interest Net	13093
@@ -950,7 +974,9 @@ Substantial LEGAL COVENANTS1 LEGAL COVENANTS	1284
 Substantial Macroeconomic	1284,3404,1891,1298,4111,1932,1817,276,2120,222
 Substantial Macroeconomic Moderate Moderate Moderate Sector	17505,845
 Substantial Mar	16705
+Substantial Moderate Moderate Environment and Social Low	18473
 Substantial Moderate Moderate Moderate Moderate Environment	12440
+Substantial Moderate Moderate Technical Design of Project	18534
 Substantial Nov	17079
 Substantial Oct	12267
 Substantial Official Use Only	15969,218
@@ -1103,6 +1129,7 @@ TYPE OF SUBSIDIES Only	17043
 Taba Subsea Cable	16808
 Taba le Red Sea Subsea Festoon Cable	17694
 Tanzania Telecom Subscriptions Reach	5715
+Taxes Less Subsidies	18483
 Technology Subscriptions FY	6946
 Telecom Egypt’s Red Sea Subsea Festoon	16808,885
 Telecommunications Service Subscribers	12297

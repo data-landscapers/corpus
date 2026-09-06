@@ -100,7 +100,11 @@ Houria MEDDAHI. MINISTERE DES SPORTS Arrêté	16230,114
 Household Categorization Spot Checks	16867
 ID. Spotlight	10977
 INSTITUT PRIVE DES ARTS ET SPORT	18170
+Individual Sport Fishermen	18541
+Individual Sport Fishermen US	18450
+Individual Sport Fishing US	18450
 Information Exchange Sponsoring Office IA US	17880
+Innovation Spotlight	18551
 Intending Spouses	15056
 JEUNESSE ET DES SPORTS	15558
 JEUNESSE ET DES SPORTS DE L’IMMEUBLE	17817
@@ -152,7 +156,7 @@ Ministry of Education and Sports	9783
 Ministry of Internal Affairs Ministry of Youth and Sports	16872
 Ministry of Local Government Spokesperson Chimwemwe Njoloma	8931
 Ministry of Sport and Arts	2654,2999,8647
-Ministry of Sports	6273,991,5148
+Ministry of Sports	6273,991,5148,6137
 Ministry of Sports Culture and Youth Affairs	13093
 Ministry of Sports and Leisure	11906
 Ministry of Youth Sports Culture	12551
@@ -172,6 +176,7 @@ Musique Théâtre Sports Arts	16092,1,37,97,148,111,41
 NDVI SPOT-VEGETATION	18304
 NIMC’s Spokesman	5321
 Nagalingum Minister of Youth and Sports Hon. Muhammad	14841
+National Sports Authority	18576
 National Sports Complex	14736,57
 National Sports Complex All SessionsKeynotesPanel	14776
 National Sports Federation	14742,101
@@ -180,6 +185,7 @@ Nature of Incidents Road Transport Accident Sports	11131
 Netflix and Spotify	8436
 Ngololweni Sports Ground	12977
 Nigeria Engaging the Sustainability Blind Spots	8258
+Nil Individual Sport Fishing	18541
 Number of Government Sponsored Students Placed	2775
 OBJET DU ET DES SPORTS	17817
 Office National des Sports	15936
@@ -190,6 +196,7 @@ Official Spokesman's Platform Today	14914
 Ombudsperson for Sports	14742
 OpinionBI and Data AnalyticsData ManagementSITE SPONSOR	6107
 Orphans Twins Sponsored	16902
+PRESIDENTIAL SPOKESMAN CALLS FOR NATIONAL UNITY	18586
 PRIVE DE FORMATION DE SPORT ET	18170
 PRIVE DES SPORTS	18170
 PROGRAMMES D’EDUCATION PHYSIQUE ET SPORTIVE	18099
@@ -198,6 +205,7 @@ PROSPER Sponsored	16853
 Palais des Sports de Treichville LES PLUS LUS	8755,4813
 Partnerships for Sport	13474
 Payments References Spotlight	10977
+Period Category Individual Sport Fishing	18541
 Permanent Secretary for Youth and Sport	13663
 Philip Myburgh Executive Sponsor	5247
 Physical Education and Sport	14843
@@ -230,6 +238,7 @@ SITE SPONSOR	2284,13,4,72,21,3,65,10,86,28,4,19,190,10,16,25,134,79,190,7,70,41,
 SITE SPONSOR Sponsored	10734,9,2122,1,1825,2097,1,1
 SPOAVRETRIEIII	10157
 SPORT	13420,54
+SPORT FISHING PERIOD CATEGORY FEES	18450
 SPORTIVE TSAKA-PELE	15744
 SPORTIVES	15436
 SPORTS	3637,4684,1749,5488,186,198,175
@@ -257,7 +266,10 @@ Shining the Spotlight	12951
 Social Media Sport Sports Startup Streaming	9993
 Société Santé Education Sport Plus International	9916
 Société Sports Se	16092,1,37,97,148,111,41
+South Sudanese Spouse	18595
+South Sudanese Spouses	18595
 Spoke	6947
+Spokes	18478
 SpokesPersonsdigest.com	4738
 Spokesman Says Initiative	17069
 Spokesman Says Initiative Belongs	17069
@@ -268,10 +280,12 @@ Spokesperson Lebohang Chefa	12705
 Spokesperson Role	4528,7984
 Spokesperson Sudan Under Secretary for Foreign Assistance	15092
 Spokesperson Théophile Momokoama	1907
+Spokesperson and Minister of Information Hon. Michael Makuei	18699
 Spokesperson and Press Secretary	10695
 Spokesperson of PODEMOS	12201
+Spokesperson of Parliament	18691
 Spon's Civil Engineering and Highway Works Price	3583
-Sponsor	514,7,10341,385,338,415,210,46,13,815,675,999,266,568,251,3,59,760,111,269,120,760
+Sponsor	514,7,10341,385,338,415,210,46,13,815,675,999,266,568,251,3,59,760,111,269,120,760,600,42,3,154
 Sponsor Conseil	15936
 Sponsor Instrument Instrument Sponsor	12490
 Sponsor Name Role Development Research Group	15844
@@ -289,25 +303,28 @@ Sponsoring Consortium for Open Access Publishing	5246
 Sponsoring Malawi	1704
 Sponsoring of High School Projects	11134
 Sponsorisation des INSTAT	17842
-Sponsors	18039
+Sponsors	18039,520
 Sponsorship	775,2738,13747
 Sponsorship Formats	18039
 Sponsorship Jupiter Construction	17260
 Sponsorship Philosophy	18039
 Sponsorships	1944,10731
 Spontane	11190
-Spontaneous	783,10407,1269
+Spontaneous	783,10407,1269,5998
+Spontaneous Information	18667
 Spoon Network	16975
 Spoornet	15542
 Sporadic	15473
 Sporadic Registration	12333
 Sporrong	8606
-Sport	940,2456,1499,65,62,64,263,384,1324,1548,648,740,1142,45,35,1252,581,262,177,198,937,207,1025,82,1231,732,420,30,82
+Sport	940,2456,1499,65,62,64,263,384,1324,1548,648,740,1142,45,35,1252,581,262,177,198,937,207,1025,82,1231,732,420,30,82,19
 Sport By Naison Bangure Jun	6244,1
 Sport Club	11131,1711
 Sport Development	13474
 Sport Dossiers Economie Afrique Monde People	9890
 Sport Ensure	11195
+Sport Fishing	18541
+Sport Fishing Royalties Royalties	18541
 Sport INSBU	13377
 Sport PRESIDENCE DE LA REPUBLIQUE	17899
 Sport Table	11180
@@ -325,7 +342,7 @@ Sportive	18099
 Sportive I Instituteur IA Instituteur Adjoint	18171
 Sportive LOS	15673
 Sportives	18099
-Sports	1594,326,955,2161,697,281,1656,173,135,28,220,11,32,52,313,84,166,7,765,48,289,32,380,1500,712,44,13,298,22,16,34,62,111,30,43,20,31,36,97,236,81,9,746,202,82,5,591,46,2,106,96,44,222,175,170,94,260,102,123,7,14,1,95,22,93,41,28,93,201,13,19,4,294,26,99,31,44,8,26,20,26,16,82,8,14,36,11,27,26,14,20,14,61,2,1
+Sports	1594,326,955,2161,697,281,1656,173,135,28,220,11,32,52,313,84,166,7,765,48,289,32,380,1500,712,44,13,298,22,16,34,62,111,30,43,20,31,36,97,236,81,9,746,202,82,5,591,46,2,106,96,44,222,175,170,94,260,102,123,7,14,1,95,22,93,41,28,93,201,13,19,4,294,26,99,31,44,8,26,20,26,16,82,8,14,36,11,27,26,14,20,14,61,2,1,138
 Sports Academy	10399
 Sports Act	14742,101
 Sports Arbitration Tribunal	14742
@@ -372,7 +389,7 @@ Spotify and X	8436
 Spotify's DDP	8436
 Spotify. Khattaby	5159
 Spotify’s DJ	17773
-Spotlight	970,2415,742,982,1259,1180,2441,742,246,27,960,30,4817,1059
+Spotlight	970,2415,742,982,1259,1180,2441,742,246,27,960,30,4817,1059,642
 Spotlight Initiative	970,11177,4826,283
 Spotlight Initiative Innovation Award. Trindade João	12147
 Spotlight Reported	11004
@@ -405,6 +422,7 @@ Tourisme Sport	4895
 Toyota Land Cruisers Prado Sport Utility	6242
 Transfer Secretaries Sponsoring Broker OTC Trading	4896
 Trend Spotlight	6792
+UN Spotlight	18458
 UTG. Sport Education	16852
 University Sports South Africa’s Team SA	432
 Us Sponsor	12493
@@ -415,6 +433,6 @@ WESTERN Other Relative Spouse	582
 Web Summit Spotlight	16251
 Youth Education and Sports	12297
 Youth and Sport	3583
-Youth and Sports	7167,4412,596,3970,960
+Youth and Sports	7167,4412,596,3970,960,1492
 Youth and Sports Hon. Muhammad Reza Cassam	14753
 Youth and Sports Honourable Speaker	17105

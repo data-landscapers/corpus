@@ -8,11 +8,13 @@ Birth Death Marriage Divorces Cause	15056
 Birth Registration Marriage Registration Death Registration	10814
 CIVIL MARRIAGES	14753
 Center for National Document Records Marriage	17011
-Child Marriage	10829,1359,4763
+Child Marriage	10829,1359,4763,1490
 Child Marriage and FGM	12188
+Christian Marriage Act Cap	18466
 Christian Marriages Act Cap	16873
 Civil Marriage	14714,1
 Civil Marriage Act	16873
+Civil Marriage Act Cap	18466
 Committee Dr. Maledh Marrakchi University of Manouba	2958
 Community Community Marriages Registered Men25-29 Women21-24	15056
 Crude Marriage	15056
@@ -26,6 +28,7 @@ Declare Marriage	12226
 Delayed Marriages	16970
 Déclaration de Marrakech	4264
 ERR Jebel Marra	15342
+Early Marriage	18512
 Economic Impacts of Child Marriage	12188
 Ecowas. Founder Marr Nyang	17336
 Egypt. Marriage	15958
@@ -63,7 +66,7 @@ MONOGAMOUS MARRIED OR NON-FORMAL UNION	17127
 Malawi and Certificates of Marriage Registration. Through	12291
 Male Female Both Sexes Ever Married	14815
 Marracuene	2816,7403,2574,22
-Marrakech	2068,190,457,2,284,2301,306,126,26,12,5,20,3,30,48,889,528,1596,765,2644,2820,460,250,637,431,540,21,19,363,15,321,14,73,27
+Marrakech	2068,190,457,2,284,2301,306,126,26,12,5,20,3,30,48,889,528,1596,765,2644,2820,460,250,637,431,540,21,19,363,15,321,14,73,27,201
 Marrakech Acción Plan for Statistics	16898
 Marrakech Action Plan for Statistics	16863
 Marrakech Action Plan for Statistics MDA	14857
@@ -95,6 +98,7 @@ Marriage Registration	13095,359,683,1110
 Marriage Registration Software	13080,15
 Marriage Registration Supported	12241
 Marriage Registration System	12241,839
+Marriage Registry	18477
 Marriage Registry I. Intellectual Property Registry	16873
 Marriage Regulation Organic	10775
 Marriage SMEs Small and Medium Enterprises SMS	2775
@@ -107,7 +111,7 @@ Marriage and Death	12367
 Marriage and Death Registration Act	12959
 Marriage-related	10130
 MarriageCertificateFormKenya.pdf	12138
-Marriages	1,5532,6453,152,189,10,1,29,46,259,298,428,1658,1840,26
+Marriages	1,5532,6453,152,189,10,1,29,46,259,298,428,1658,1840,26,1552
 Marriages Act	12367,572,452
 Marriages Death	15056
 Marriages Divorces	15627
@@ -123,11 +127,13 @@ Marriages and Deaths Registers	12898
 Marriages and Deaths Registration Act	1,12326,10,30,592,25
 Marriages and Divorces	16896,26
 Marriages and Divorces. Chapter	12672
-Married	1219,11008,156,3191,1328,19,29
+Married	1219,11008,156,3191,1328,19,29,1491
+Married Alien	18598
 Married Marital	12151
 Married Persons Property Act	12533,64
 Married Separated Divorced Widow	16921
 Married Separated Widowed Never Married	12978
+Married Unmarried Modern Use Unmet Need	18441
 Marriot Hotel-Kigali	14869
 Marriott Hotel	11968
 Marrocos	2816,8753,124
@@ -137,10 +143,13 @@ Marruecos ELKADDOURI	6613
 Marrufo	2816
 Marrupa	2989
 Marry Me	2626
+Mohammedan Marriage Act Cap	18466
 Muslim Marriage and Divorce Act Cap	16873
 NEVER MARRIED	17127
 NISR Marriage	15056
 NYANZA KIREHE NYAMAGABE RUSIZI HUYE Marriage2024	12413
+Naturalization Certificate for Aliens Married	18595
+Naturalization Certificate for Aliens Not Married	18595
 Never Married	12383,4538
 Notification Marrakech	18264
 Online Birth Certificate and Marriage Certificate. Public	14750
@@ -154,24 +163,29 @@ Pilot Marriage Registration Supported	13080
 Place of Registration of Marriage	12226
 Plan de Acción de Marrakech	16898
 Polygamous Marriages	16970
+Prohibition of Child Marriage Act	18512
 Proxy Marriages	16970
 Publication of Civil Marriages of Mauritian Citizens	14755
 REGISTRATION OF CIVIL MARRIAGES	12959
-REGISTRATION OF MARRIAGES	12898
+REGISTRATION OF MARRIAGES	12898,5542
 Recognition of Certain Marriages Act	12959
 Recognition of Certain Marriages Act The Registrar	12959
 Recognition of Customary Marriages Act	5533,5644,809
+Reduction of Adolescent Pregnancy and Child Marriage	18512
 Refugees Married	12227
-Register of Marriages	16873
+Register of Marriages	16873,1567
 Registered Births. Deaths and Marriages	12413
 Registered Marriage	15056
 Registered Marriages	12413,2643
 Registrar of Marriages	12290
 Registrar of Marriages Ends Manual Printing of Certificates	12290
 Registrar of Marriages. Under the Marriage	13105
+Registration of Customary Marriage and Divorce Act	18440
 Registration of Marriages	12944
 Religious Marriage	14714,1
 Republic of South Africa. The Marriage Bill	5533
+Requirements for Applicants Married	18595
+Requirements for Applicants NOT Married	18595
 Requirements for Registration of Marriages and Divorces	13644
 SIGNE A MARRAKECH	17841
 SSF. The Marriage Grant The Marriage	16902
@@ -186,6 +200,7 @@ Traditional Marriage Certificate	16949
 Traité de Marrakech	18191,73
 Types of Registered Marriages	13644
 Underage Marriage and Other Harmful Traditional Practices	14011
+Urban Rural Married	18441
 Western Marriage Certificate	16949
 William Marrion BRANHAM	15848
 Working Marriage Other Female Primary	15604

@@ -29,6 +29,7 @@ App-based Mobile ID	12834
 Application ID	1920
 Application for National ID	12333
 Application for National ID Correction	12333
+Application for South Sudan National ID Card	18595
 Apply for ID	4439
 Aqoonsi NIRA ID	15202
 Area of Flood Risk Ranks Id Rank	17157
@@ -103,9 +104,11 @@ CR and ID Working Group	10775
 CR and ID. MT	10775
 CRI CR and ID	11971
 CRVS AND ID MANAGEMENT SYSTEMS	12327
-CRVS and ID	13095
+CRVS and ID	13095,5376,3
 CRVS and ID Day	13095
 CRVS and ID Day Celebration	13080
+CRVS and ID Management	18449,22
+CRVS and ID Management System	18474
 CRVS and National ID	13005,1650
 CRVS and National ID SDG Target Link	13005
 CRVS-National ID Integration	14655
@@ -167,6 +170,9 @@ DDI Document ID DDI GMB 2024 FINDEX v02 M WB Producers Date	17045
 DDI Document ID DDI MRT 2024 FINDEX v01 M WB Producers Date	17925
 DDI Document ID DDI SDN 2025 WMS-R4 v01 M WB Producers Date	15024
 DDI Document ID DDI-LBR-LISGIS-WEN-2024-v01 Producers	17165
+DDI Document ID DDI-SLE-StatsSL-AAS-2023-v03 Producers Date	18525
+DDI Document ID DDI-SLE-StatsSL-AAS-2024-v01 Producers Date	18567
+DDI Document ID DDI-SLE-StatsSL-WEN-2024-v02 Producers	18570
 DIAL's Digital ID Assessment	6143
 DIGITAL ID AND DATA SHARING	10765,10
 DIGITAL ID IN AFRICA KEY CHALLENGES	10819
@@ -182,6 +188,8 @@ Definition and Coding Digital ID	10714
 Department of Home Affair’s ID	14185
 Deploy Digital ID	12444
 Deploy National ID System	2398
+Description NOTICE AT-A-GLANCE Project ID	18711
+Description UNIQUE LEARNER ID	18506
 Desenvolvimento Humano ID	9441
 Develop ID	15553
 Development of ID Verification Kit	12241,839,15
@@ -252,6 +260,7 @@ Digital ID. The Digital ID	12165
 Digital ID. Zambia	2291,1271
 Digitalizing CR and ID	969
 Directive ID Directive No.1142	14129
+Directorate Departments of Nationality and ID Cards	18595
 Djibouti Officially Launches Mobile ID Digital	4977
 Djibouti. Operation ID	13856
 Document ID Classification Owner Custodian Applicability	16212
@@ -265,7 +274,7 @@ E-Houwiya ID	2578
 E-mail I I National ID	736
 EASTERN AND SOUTHERN AFRICA Operation ID	2291
 EBS MRA ID	14737
-ECOWAS ID Card	1655
+ECOWAS ID Card	1655,16816
 ECOWAS NATIONAL BIOMETRIC ID	17174
 ECOWAS-compliant GAM ID	17379
 ELECTRONIC ID CARD DESIGN	12165
@@ -456,7 +465,7 @@ ID Card The Huduma	12209
 ID Card Yes F25 Aug	10714
 ID Card Yes Kenya	10714
 ID Card Yes the MyGovID	10714
-ID Cards	1655,7165,1955,2209
+ID Cards	1655,7165,1955,2209,5471,16
 ID Certification Authority System	1379
 ID Classe	15715
 ID Comments	12228,39
@@ -508,7 +517,7 @@ ID Lebanon National ID System	10714
 ID Legislation	10775
 ID M	18418
 ID Mali	10714
-ID Management	3027
+ID Management	3027,15447
 ID Mar	5310,183,11710
 ID Marché Agricole Numérique Dépend	15936
 ID Mauritania. TECH5	1836
@@ -545,6 +554,7 @@ ID Registration	4439
 ID Registration Experiences and Perceptions	4439
 ID Registration Performance The National Digital	14151
 ID Registration. Across	4439
+ID Regulations	18702
 ID Related Aims Question	8603
 ID Requirement for Domestic Travel	15060
 ID Risques	15720
@@ -583,6 +593,9 @@ ID US	2254
 ID Uganda	10822
 ID United Arab	10714
 ID Units	10775
+ID Verification	18471
+ID Verification Platform	18471
+ID Verification System	18471
 ID WALLET	14756,6
 ID Working Group	10765
 ID ZIPIT	12490
@@ -599,6 +612,7 @@ ID and Civil Registry	12663
 ID and DPI	1211,2819,338,2921,5791
 ID and Data Center	2872
 ID and Digital Identity	10651
+ID and EA	18570
 ID and ID	11960
 ID and KRA PIN. Focus Group	12227
 ID and MESOB	12248
@@ -660,6 +674,7 @@ ID for Development	17870
 ID for Ethiopia	12281
 ID for RTW	5310,286,297
 ID for SIM	4439,1634
+ID of Contact Person Type of Identity	18452
 ID- Registration	14889
 ID. Access	11919
 ID. Across	12413,2643
@@ -758,6 +773,7 @@ ID4D Diagnostic of ID Systems	442,957
 ID4D-Diagnostic of ID Systems	3781
 IDA Samuel Lantei Mills Project ID	16922
 IDA-75370 PROJECT ID No	16493
+IDA-D8420 Project ID	18575
 IFU ID	10812
 INE ID	9441
 INFRATEL-CAPEX-2026-029 Tender Unique ID	13621
@@ -766,7 +782,7 @@ ISSUANCE OF BIOMETRIC ID CARDS	11706
 Id BUlosuEO	16857
 Id and Digital Signature	16885
 Identification ID	13804,2,4531
-Identification Survey ID	10862,2222,675,1265,819,3,819,380,120,760
+Identification Survey ID	10862,2222,675,1265,819,3,819,380,120,760,600,42,3,75,79
 Identity Card Yes Electronic ID Card	10714
 Identity Card Yes NIA ID	10714
 Identity Yes Electronic ID Card	10714
@@ -832,6 +848,7 @@ Kuwait Civil ID	10714
 Kuwait Kuwait ID System	10714
 Kuwait Mobile ID	10714
 LAN ID	12377,245
+LEARNER ID	18506
 LOG Grievance ID Date Reported	17099
 LR-MPW-552446-GO-RFB PROJECT ID NO	17328
 Lack of ID	1907
@@ -863,6 +880,7 @@ Log Grievance Id Date Reported Name	17114
 Log ID	6423
 Long ID Processing Times	4439
 Lost ID Card SC Logo	14741
+Low ID	18702
 M ID	5986
 M ID OF PERSON	582
 M. Lahbouss Ould El Id	17947
@@ -907,6 +925,7 @@ Margins ID Systems Ltd	4778
 Masiah Namba ID	2566
 Mauritius Mobile ID	1379
 Mauritius Smart National ID Card	14729
+Means Departments of Nationality and ID	18595
 Meeting ID	10809
 Microsoft Entra ID	16395
 Microsoft Entra ID MFA Note	10617
@@ -926,6 +945,7 @@ Monthly Head of ID	13005
 Mother ID	6423
 Mozambique Latest Biometrics News Foundational ID	9747
 Mozambique. Project ID	761,11376
+Multipurpose ID Cards	18471
 My ID	10728,1499,101
 My National ID Card	12217
 My Number ID	6651
@@ -933,6 +953,7 @@ N ID State Zone Population	11857
 NAME M ID OF PERSON	582
 NAMFULL2 ID ENTITY CODBRANCH Notably	3364
 NATIONAL DIGITAL ID PROGRAM A Case	12257
+NATIONAL ID	18470
 NATIONAL ID CARD UNIT	14778
 NCRA ID	2113
 NCRA's Biometrics Digital ID and National Identification	2872
@@ -967,13 +988,13 @@ National Digital ID Program	8920,3337
 National Digital ID Strategy	3781
 National Digital ID and Digital Transformation Strategy	1360,354
 National Fayda Digital ID Registration Project	7129
-National ID	445,339,985,47,73,31,195,4,199,6,66,57,74,45,92,17,45,50,8,42,3,101,1,22,50,8,12,1,9,14,20,224,18,105,52,112,38,13,119,61,14,3,247,21,3,81,85,21,275,78,9,138,48,5,57,28,38,14,117,57,125,43,15,175,80,16,101,196,63,159,140,19,225,40,7,254,7,16,43,245,32,32,513,75,106,53,494,524,207,268,73,25,291,326,163,103,125,193,51,10,47,17,13,110,1203,8,14,15,7,5,2,1,24,40,7,3,37,9,69,94,33,1,407,64,70,5,15,583,413,46,14,15,196,156,6,131,19,223,8,57,3,13,41,11,30,131,32,207,83,5,35,1314,55,20,7,311,116,494
+National ID	445,339,985,47,73,31,195,4,199,6,66,57,74,45,92,17,45,50,8,42,3,101,1,22,50,8,12,1,9,14,20,224,18,105,52,112,38,13,119,61,14,3,247,21,3,81,85,21,275,78,9,138,48,5,57,28,38,14,117,57,125,43,15,175,80,16,101,196,63,159,140,19,225,40,7,254,7,16,43,245,32,32,513,75,106,53,494,524,207,268,73,25,291,326,163,103,125,193,51,10,47,17,13,110,1203,8,14,15,7,5,2,1,24,40,7,3,37,9,69,94,33,1,407,64,70,5,15,583,413,46,14,15,196,156,6,131,19,223,8,57,3,13,41,11,30,131,32,207,83,5,35,1314,55,20,7,311,116,494,631,232
 National ID Achieves Breakthrough Penetration and Everyday	13095
 National ID Agency	10812,1521,37,2649
 National ID Birth	12216
 National ID Birth Death Resident	12241
 National ID Budget Soars	12214
-National ID Card	1920,199,886,234,169,7306,98,1063,2,208,132,4668,38,26,34
+National ID Card	1920,199,886,234,169,7306,98,1063,2,208,132,4668,38,26,34,1469
 National ID Card Aug	10714
 National ID Card Morocco No N	10714
 National ID Card No N	10714
@@ -1043,6 +1064,7 @@ National Identity Card and Mobile ID	14741
 National Tax Board’s ID Card	10714
 National With Rwanda’s New Digital ID	6343
 National and Foreigner ID Cards	16983
+National and Non-National ID	18497
 National and Non-National ID Cards	1655
 Ndaga Muntu ID	4443
 Nepal Netherlands National ID System	10714
@@ -1056,6 +1078,7 @@ Nigerian National ID	4514
 Nigerian Tax ID Portal	18183
 Nigerian Tax ID Portal Goes Live	18183
 No. Fayda ID	12202
+Non National ID	18540
 Non-National ID	1655
 Non-National ID Cards	1655
 North Macedonia National ID System	10714
@@ -1120,6 +1143,7 @@ Portugal Civil ID System	10714
 Previous National ID	12165
 Primary Storage Locations Storage ID Country	6432
 Prime Minister’s Office- National ID Card	14778
+Printing of Voter ID Card	18531
 ProMIS ID	359
 Processing of Digital ID Data	12663
 Product Information Operation ID	14948
@@ -1186,6 +1210,7 @@ Results Report Ethiopia Digital ID for Inclusion	12228,39
 Retrieve Tax ID	18183
 Retrieve Your Tax ID	18183
 Review of National ID Programs	10822
+Revisions LRFP-2025-9200546-Unique Learner ID	18506
 Roll Out National Digital ID	3117
 Router ID	14827
 Rwanda's New Digital ID	6343
@@ -1224,6 +1249,8 @@ Sector ID System EthERNet Ethiopian Education	13991
 Secure ID	7971
 Secure ID Wallet	14756,6
 Secure ID Wallet URL	14756
+Securitized and Multipurpose Biometric ID Cards	18471
+Securitized and Multipurpose ID Cards	18471
 Senegal ID System Breach	5146
 Serbia National ID System	10714
 Sharing ID Data	12663
@@ -1268,6 +1295,7 @@ South Africa's ID	2352
 South Africa's Smart ID	7758
 South African ID	2752,6324,159,542,1521,196
 South African Smart ID	3111
+South Sudan. Project ID	18728
 South Sudan18 ID	10714
 South-West Africa ID UIN	12337
 Specific Legal ID Systems	17870
@@ -1331,6 +1359,7 @@ UNDP’s Governance Framework for Digital ID	13005
 UNDP’s ID Governance Framework and ID4D	13005
 UNHCR Proxy ID An ID	12227
 UNHCR Refugee ID An ID	12227
+UNIQUE LEARNER ID	18506
 USER ID	34
 USER ID CONTACT INFORMATION Date	34
 Uganda ID	3005,3197
@@ -1355,14 +1384,16 @@ Unpacks Good ID Final 3.7.19.pdf Parker GG	10819
 User ID	10747
 Utilizing the National ID Card for Identification	16983
 V3830 Contract ID No	17334
+VOTERS ID	18470
 VOVE ID	7519
 VRR National ID System	10714
 Vanuatu National ID Card	10714
 Various ID	15518
 Virtual ID Cards for Permit Holders and Seychellois	1882
 Vital Events Registration and National ID Proclamation	12226
-Voter ID	1367,9398,10
+Voter ID	1367,9398,10,7695
 Voter ID Card No N	10714
+Voter's ID Card	18452
 Vove ID	7518
 WB Ethiopia Digital ID for Inclusion and Services	1260,30,9542,54
 Ward Digital ID Drive	7144

@@ -268,6 +268,7 @@ DONNÉES SUR LE PERSONNEL ENSEIGNANT	18143,27
 DONNÉES SUR LES APPUIS FINANCIERS	18143,27
 DONNÉES SUR LES DIPLOMES D’ENSEIGNEMENT SUPÉRIEUR	18143,27
 DONNÉES SUR LES LOCAUX	18143,27
+DONOR FUNDING UNDERMINES ESOS’ LONG-TERM FINANCIAL	18487
 DONOR FUNDS	11218,6
 DONORS	12168
 DONORS SUSTAINABLE RESPONSE UNHCR	17971
@@ -330,7 +331,7 @@ Don Tapscott	1243,4920
 Don Tomás Osa Nsefumu Inspector Distrital	16920
 Don Wanyama	12108,2272
 Don Webster	13975
-Don't	5247,553,458,174,722,290,707,407,1111,84,207,2518,1028,1658,410,2121
+Don't	5247,553,458,174,722,290,707,407,1111,84,207,2518,1028,1658,410,2121,746
 Don't Know	12383
 DonConsultingServices	12478
 Dona Daye	16177
@@ -452,12 +453,13 @@ Données. Par	747
 DonnéesFiables	13904
 DonnéesSpatiales	16102
 Donohoe	7397,5441
-Donor	40,650,1,2892,1064,2300,1,661,1790,1430,395,263,368,8,143,169,1174,589,62,546,342,98,178,178,30,1480,123
+Donor	40,650,1,2892,1064,2300,1,661,1790,1430,395,263,368,8,143,169,1174,589,62,546,342,98,178,178,30,1480,123,1502
 Donor Agencies	12917
 Donor Aid	11134
 Donor Alignment	10829
 Donor Collaboration Forum Bill	2204
 Donor Countries National EUR	15500
+Donor DPPI	18512
 Donor Engagement	12356
 Donor Financed Projects Module	16949
 Donor Funded Projects	14546,2432
@@ -465,16 +467,17 @@ Donor Funding	16852
 Donor Funds	11218
 Donor Funds Received	11218,6
 Donor Group	14897
-Donor Partners	17364
+Donor Partners	17364,1172
 Donor Relations	10864
 Donor Reports	15090
 Donor Reports Submitted	17289
 Donor Support	226
+Donor Support Donor Funding	18577
 Donor-Funded Project Module	16949
 Donor-Specific Initiatives	15845
 Donor-driven	13358
 Donor-funded	6153,8769,64,178
-Donors	789,2815,878,2,1336,412,715,1,199,332,169,1035,3172,342,1115,2,802,735,72,11,188,8,212,176,141,1193,118,48,256,711
+Donors	789,2815,878,2,1336,412,715,1,199,332,169,1035,3172,342,1115,2,802,735,72,11,188,8,212,176,141,1193,118,48,256,711,630
 Donors Can Support Dual-Track PFM	7648
 Donors Conference	16649,1367
 Donors Eswatini Mobile	12444
@@ -482,6 +485,7 @@ Donors Potential	12444
 Donors Support Civil Society	6948
 Donors UNDP	16943
 Donors and Funders. The Central Bureau of Statistics	14860
+Donors' Support	18577
 Donors’ Conference	16985
 Donors’ Engagement	16985
 Donos	11404
@@ -500,7 +504,7 @@ Dont US	16012
 Donzi	13683
 Donzo	9943
 Donzo Euphemia Swen Monmia Maway T	17235
-Don’t	582,455,224,425,252,2,4,722,44,8,24,55,23,242,23,1,361,62,249,225,78,38,201,64,23,126,348,229,20,137,169,200,95,97,115,92,99,46,23,133,93,107,15,71,23,138,24,9,204,250,15,46,466,109,664,1326,838,100,190,3,136,281,1091,1017,3403,192,22
+Don’t	582,455,224,425,252,2,4,722,44,8,24,55,23,242,23,1,361,62,249,225,78,38,201,64,23,126,348,229,20,137,169,200,95,97,115,92,99,46,23,133,93,107,15,71,23,138,24,9,204,250,15,46,466,109,664,1326,838,100,190,3,136,281,1091,1017,3403,192,22,1294,140
 Don’t Automatic Scheduled Upon	1686
 Don’t Call	7777
 Don’t Fence Me	1243
@@ -595,6 +599,7 @@ Gestionnaires de Données Open Data	1984
 Gestionnaires de Données Ouvertes	747
 Gifts and Donations	11224
 GmbH. Donations	12278
+GoSL and Donor	18449
 Gouvernance Digitalisation Qualité des Données SIS	14622
 Gouvernance des Données	15624
 Governing Body. Donor Coordination	16852
@@ -739,10 +744,11 @@ Mali's Autorite de Protection des Donnees	4177
 Mali. des Données Spatiales	17983
 Master Fouilles de Données	2732
 Mbini Ilmo. Sr. Don José Luis	16920
-Member States. Done	7855
+Member States. Done	7855,10861
 Mercy Corps Donors	16876
 Mes Données Personnelles	10821
 Mines Données Chef de Section Commissaires	17899
+Ministry of Energy DONOR	18453
 Ministry of Finance. Done	14025
 Ministry of Health. Donors	16860
 Mme HOFER Christine Mr DONADJE Florentin	13300
@@ -885,6 +891,7 @@ Reengagement of Donor Partners	16927
 Refused Don’t	5247
 Regional Trade Dondo Dry Port	5407,676
 Regions Sandy Loamy Clay Don't Know	17043
+Reporting of Donor-Funded Projects	18577
 Republic of Zambia. Done	12640
 RequestsSuggestionsComplaints Don't	15255
 Responsable des Données	9406

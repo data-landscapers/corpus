@@ -59,8 +59,9 @@ Catégorie Montant	14622
 Central Liberia North Western Montserrado	17127
 Centre Spatial Universitaire de Montpellier	13844
 Centre de Gestion des Monts Nimba	16627
+Charge Electronic Know Bank Monthly	18450
 Charge for Monthly Account Statement	13304
-Closing Period Indicator Name Value Month	2712,1976,3189,3518,4340,278,692,295,96,374,35,399,102,344,4,1
+Closing Period Indicator Name Value Month	2712,1976,3189,3518,4340,278,692,295,96,374,35,399,102,344,4,1,179
 Closing Period Month	6579,349
 Closing Period Result Month	4653,11316,63,155
 Closing Period Value Month	10870,1101,257,39,173,3639,915,85,879
@@ -314,6 +315,7 @@ Mean Monthly Foreign Exchange Rate	12256
 Media Monthly	17099
 Mexico City and Montevideo	226
 Mexico Micronesia Moldova Monaco Mongolia Montenegro	11470
+Micro Finance Monthly	18450
 Million Monthly Active M-PESA Customers	12227
 Million USD Variable First Six Months	5655
 Minimum Monthly Allowance Broad-	12395
@@ -323,6 +325,7 @@ Ministry of Agriculture Monthly	17157
 Ministry of Monthly	12253
 Ministry of Monthly Opportunity	12253
 Ministères Montant Montant Montant DNA	3396
+Mobile Company Monthly	18450
 Mobilité Prévisions Montant	3396
 Moldova Monaco Montenegro North Macedonia Ukraine	10764
 Monaco Ethiopia Mongolia Gambia Montenegro Guinea	10764
@@ -410,13 +413,15 @@ Montesanti S	3791
 Montesquieu	8993,4274
 Montesquiou	11133,9
 Montgomery	5349,11650
-Month	236,2476,966,390,449,136,1020,998,1206,2993,525,462,114,37,220,5,34,89,38,1,15,30,60,60,417,54,6,425,58,665,808,379,52,311,234,44,19,47,108,249,269,167,63,43,16,6,79,17,374,35,399,54,48,344,4,1,4
+Month	236,2476,966,390,449,136,1020,998,1206,2993,525,462,114,37,220,5,34,89,38,1,15,30,60,60,417,54,6,425,58,665,808,379,52,311,234,44,19,47,108,249,269,167,63,43,16,6,79,17,374,35,399,54,48,344,4,1,4,175
 Month Above	12233
+Month Arrangement	18488
 Month Avg Resolution	9772
 Month Balance	16935
 Month Committee	16863
 Month Consumption	16935
 Month Export Marking Volume	12256
+Month Extended Credit Facility Arrangement	18488
 Month FEC	12256
 Month Graduate Internship Program	12982
 Month Index Dec	16935
@@ -439,7 +444,7 @@ Month-on-Month	13685
 Month-on-month	13052
 Month-precision	3755,7217
 Month-to-Month Fibre-to-the-Home Tariff Plans	11259
-Monthly	236,346,154,950,302,1001,122,861,260,758,331,140,971,107,389,252,368,114,1166,1154,899,337,10,31,598,12,83,1,2,1,8,12,32,245,3,117,16,16,285,208,79,28,48,251,88,87,127,163,329,675,42,13,8,61,102,91,39,35,307,7,35,40,21,30,16,1,92,1,86,344,689,15,5,73,9,28,8,128,6,9,13,13,17,1080,72
+Monthly	236,346,154,950,302,1001,122,861,260,758,331,140,971,107,389,252,368,114,1166,1154,899,337,10,31,598,12,83,1,2,1,8,12,32,245,3,117,16,16,285,208,79,28,48,251,88,87,127,163,329,675,42,13,8,61,102,91,39,35,307,7,35,40,21,30,16,1,92,1,86,344,689,15,5,73,9,28,8,128,6,9,13,13,17,1080,72,228,39
 Monthly 10000 RWF	718
 Monthly 21000 RWF	718
 Monthly 30000	718
@@ -614,6 +619,7 @@ NATURE DEPENSE Prévisions Montant	3396
 NDPA Mandatory Monthly Privacy	11952
 NETS RAR RECOUVRE SUITE BLOCAGE MONTANT	16328
 NRIS Monthly CRVS	13005
+NaSSIT Monthly	18450
 National Cyber Security Awareness Month	14690,8,2875
 National Cyber Security Awareness Month Roundtable	6936,3448
 National Cyber and Digital Awareness Month. Implement	1777
@@ -740,6 +746,7 @@ TOT AL Montant	13390
 TURKMENISTAN UZBEKISTAN CAPE VERDE MONTSERRAT BAHRAIN	13661
 Taux Montant	3396
 Taux Prévisions Montant	3396
+Tax Monthly	18450
 Tax Statistics Bulletin and Monthly Bulletins	13479
 TechPark CV President Carlos Monteiro	2860
 Technical Mandatory Monthly	11952

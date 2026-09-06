@@ -2,6 +2,7 @@ ADM STAFF	13722
 ADM STAFF At Approval At ICR	15424
 ADM STAFF Role At Approval	11924,3739,68,1221,897,13,100
 AFRINIC Staff Assessment	12058
+AGD Staff	18576
 AI By Staff Writer	5515
 AI Skills Training for Staff	13095
 AIC KIJABE HOSPITAL STAFF PENSION SCHEME	7167
@@ -14,9 +15,11 @@ Administrative Cadre Staff List Domestic Abuse	14742
 Administrative Staff	12411
 AfCFTA Secretariat's Chief of Staff	8298
 Age Distribution Among Permanent Staff	12951
+Age Distribution of SLMet Staff	18578
 Air Force Chief of Staff	16275
 Al Jazeera Staff. Event	14686
 Ambassadors and High Commissioners Staff	9761
+Appointment Advisory Committee Staff	18467
 Army Staff	16331
 Army Staff of India	16331
 Assessment Schedule Workload Staffing Indicator Needs	14622
@@ -56,6 +59,7 @@ Chief of Staff	1014,236,517,2517,1248,2837,2,740,308,1634,236,519,1983,2415,125,
 Chief of Staff Ato Tefera Befekadu	12195
 Chief of Staff- Ms. Freda Tamba	13532
 Chief of Staff-General Deputy of Armed Forces	16649
+ChiefofDefence Stafl Republic	18457
 Civilian Staff	14760
 Civilian Staff Recruited	14760
 Clinical Staff Job Application Connect Emergency	14950
@@ -83,6 +87,7 @@ Digital Literacy and Skills for Teachers and Other Staff	13991
 Dignited Staff The Uganda Communications	6207
 Director and Other Staff	12643
 Disengaged Staff of Banks and SDIs	17362
+Domestic Staff	18541
 Donation CBE Staff	11131
 E. Bank Staff Positions At ICR	16614
 ECA Chief of Staff Mr Aboubakri Diaw	11817
@@ -101,7 +106,9 @@ End-of-Year Staff Party Celebrations	11134
 End-of-year Staff Party	11134
 Enhance the Capacity of Existing Land Administration Staff	13998
 Executive Board. The Staff Report	13741
+Executive Director and Other Staff	18600
 Executive Management Various Committee Meetings Staff	11131
+Executive Staff	18486
 F. IT STAFF	16867
 FIXED TELEPHONY STAFF COMPOSITION	3862
 FM Action Plan Action Staffing	15658
@@ -141,7 +148,9 @@ Human Resources and Staff Welfare	12753
 I STAFF COMPOSITION	3862
 I.6 TRAINING OF COLLECTION STAFF	15574
 ICR DOCUMENT ADM STAFF Role Practice	16436
+ICT Ministry Staff Complete Digital Training	18720
 IECMS. Staff	13504
+IMF Reaches Staff-Level Agreement	18488
 IMF Staff	13624,3633,652
 IMF Staff Calculations	14777,3286
 IMF Staff Calculations Note	18063
@@ -201,6 +210,7 @@ MNO'S STAFF COMPOSITION	3862
 MTFF. Staff	17503
 Management Staff	16947
 Management and Staff	582,16537,1066
+Management and Staff of NPPA	18562
 Mansa Konko Staff Quarters	16896,26
 Manzini South Inkhundla Transfers Headcount STAFF	12970
 Marketing Staff	10793
@@ -222,7 +232,7 @@ Name of Staff Firm Area of Expertise Position	13037
 Name of Staff Staff	13037
 Name2 Position3 Staff-month Rate4 Foreign Staff	13037
 Namibia. Staff Reporter CityMender Namibia	9952
-National Staff	10864,5716
+National Staff	10864,5716,1862
 National Staff. Offices	15181
 Nedbank Staff The Market Conduct and Consumer	11134
 News NHIA Builds Staff Capacity	16218
@@ -265,6 +275,7 @@ RCZ Stand RCZ Staff Visitor	1154
 REQUIREMENTS Staff Note	962
 RURA Staff	718
 Reasons Why Staff Left the Department	11218
+Recruitment and Training of Field Staff	18460
 Registry Office Supervisor Support Staff Human	14835
 Regulatory Authority Quick Links Staff Mail	12322
 Revised Staff Rules and New Organizational Structure	15023
@@ -285,7 +296,9 @@ STAFF COST	14736
 STAFF COST Basic Salaries	14736
 STAFF COSTS	14736
 STAFF LEVELS	13420
+STAFF OF LOCAL COUNCILS AND ESTABLISHMENT	18467
 STAFF OF THE COMMISSION	1220
+STAFF OF THE NATIONAL BUREAU	18600
 STAFF PROFILE	3862
 STAFF REPORT	13741,127,1161,444,1736,48,246,406,81
 STAFF REPORTER The Ministry of Justice	13014
@@ -303,18 +316,20 @@ Safety and Welfare of Staff	14761
 Satisfactory. Staffing	11525
 School Staff	12411
 School Staff Between	12411
+Secondment of Staff	18466
 Secondment of Staff Review	14546
 Secretary General and Staff	11806
 Segments Operators Staff Count	3862
 Selection of Field Staff GBoS Building the Training	16867
 Senior Police Officials and Ombudsman Senior Staff	13097
+Senior Secondary Education STAFF MAIL	18536
 Senior Staff Officer Construction	13361
 Senior Staff Officer ICT Administration and Deputy	13361
 Senior Statistical Officer Support Staff Finance	14835
 Sidie Tunis Suspends Staff Recruitment	6355
 Skills Needed Number of Staff Weeks Number	15659
 South Africa. By Staff Reporter	12662
-Staff	18,16,361,760,65,41,567,840,10,388,612,113,71,476,558,329,160,63,984,715,442,200,301,5,103,801,68,439,409,303,503,72,19,148,42,128,1,3,46,67,24,193,476,15,31,159,63,23,22,60,45,31,56,55,31,228,133,8,20,6,24,12,15,7,21,48,69,188,4,33,34,39,57,27,17,11,1,91,244,123,44,130,126,119,12,71,82,19,142,2,22,1,12,4,118,1,38,51,12,167,208,39,193,55,4,56,313,798,21,7,9,56,4,8,14,14,5,2,1,128,5,10,2,22,11,60,33,15,1,59,9,38,139,116,290,53,28,319
+Staff	18,16,361,760,65,41,567,840,10,388,612,113,71,476,558,329,160,63,984,715,442,200,301,5,103,801,68,439,409,303,503,72,19,148,42,128,1,3,46,67,24,193,476,15,31,159,63,23,22,60,45,31,56,55,31,228,133,8,20,6,24,12,15,7,21,48,69,188,4,33,34,39,57,27,17,11,1,91,244,123,44,130,126,119,12,71,82,19,142,2,22,1,12,4,118,1,38,51,12,167,208,39,193,55,4,56,313,798,21,7,9,56,4,8,14,14,5,2,1,128,5,10,2,22,11,60,33,15,1,59,9,38,139,116,290,53,28,319,125,30,1,2,22,11,76,36
 Staff Age Distribution	12969
 Staff Age Distribution Figure	12969
 Staff Appraisal	15752
@@ -325,11 +340,13 @@ Staff Association	11332
 Staff Board	2727
 Staff Board Constituted	2727
 Staff Board. Staff Board	2727
+Staff Capacity	18531
 Staff Categories	12969
 Staff Categories Figure	12969
 Staff Clarification Requests	12058
 Staff Code of Ethics	12598
 Staff Compilations Central Bank Policy Rates	13532
+Staff Composition	18444
 Staff Council	4553
 Staff Count	3862
 Staff Department Distribution	12969
@@ -345,6 +362,7 @@ Staff Excellence Awards	11134
 Staff Excellence Awards Flowing	11134
 Staff Excellence Awards. Motivation	11134
 Staff F. Results Framework Analysis G	16614
+Staff Funds Financial Year Accounts	18435
 Staff GBoS GAMNSR Development and Testing	16867
 Staff Gender Distribution	12969
 Staff Gender Distribution Figure	12969
@@ -356,6 +374,7 @@ Staff Initiates Discussion	5101,850
 Staff Interpretation	12058
 Staff Inventory Table	10616
 Staff Involvement	17362
+Staff Juba	18732
 Staff Level Agreement	17209
 Staff Liaison Committees	14787
 Staff Management Program	14888
@@ -377,6 +396,7 @@ Staff Profile	3862
 Staff Profile Nigerian Expatriate S	3862
 Staff Profile Staff Categories Staff Gender	12969
 Staff Project	13991
+Staff Quarters	18543
 Staff Report	1830,7061,2106,2627,117,127,1161,723,1457,48,69,177,406,81
 Staff Reporter	3388,4619,407,1657,555,2044,489,35
 Staff Reporter CABINET	13015
@@ -392,6 +412,8 @@ Staff Salaries	12977
 Staff Scheduler Management System	6946
 Staff Scheduler Management System the Kenya Bureau	6946
 Staff Scientist	7112
+Staff Secondment	18463
+Staff Selection	18464
 Staff Selection and Recruitment Fieldwork	15244
 Staff Sensitization Programs	6946
 Staff Statement	17326
@@ -422,6 +444,7 @@ Staff Writer	786,1511,76,19,166,178,248,387,278,445,1167,792,266,415,424,42,298,
 Staff Writer CDC-CI Capital	10942
 Staff Writer Facebook Twitter WhatsApp	10983
 Staff and Student Education Management Information System	13123
+Staff and Taxpayers	18488
 Staff of Agency	13317
 Staff of Authority	11179,1356,2208
 Staff of Commission	12546
@@ -437,6 +460,7 @@ Staff of Unit Sub-Part C	14743
 Staff-Discussion-Notes	9739
 Staff-Monitored Program	3583,9940,3449,24
 Staff-Week Partners Name Institution	15411
+Staff. Secondment	18466
 StaffType	11180
 Staffed	1212,3316,7984
 Staffing	1466,2138,257,537,5790,1337,332,1063,85,49,1691,151,143,125,389,108,1191,1,110,22,26,128,1231
@@ -477,7 +501,9 @@ Telecom Staff	15136
 Third Review Under the Staff-Monitored Program	3583
 Toilet for Staff	14778
 Train Staff	17180
+Training of Accounting Staff	18576
 Training of Field Staff	13454,613
+Training of Field Staff All	18464
 Training of Staff	14736,2,8,2370
 Training of Staff SPS	16867
 Transformation A Deputy Chief of Staff	8371

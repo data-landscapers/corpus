@@ -105,12 +105,12 @@ Armazenamento	6970,8389
 Armazenamento de Dados	15684
 Armazenar	16027
 Armazéns de Medicamentos Prestadores	6970
-Armed	3583,1057,2307,390,572,1707,1213,108,80,840,922,2469,597,591,499,83,346
+Armed	3583,1057,2307,390,572,1707,1213,108,80,840,922,2469,597,591,499,83,346,1091
 Armed Conflict	10835,3,130,902,16,466,1,135,2254
 Armed Conflict Location	15715
 Armed Conflict Location and Event Data	16359
 Armed Conflict1	12353
-Armed Forces	5270,4779,1468,340,2885,256,344,51,80,1366,1414
+Armed Forces	5270,4779,1468,340,2885,256,344,51,80,1366,1414,181,33
 Armed Forces Day Deputy Foreign	17025
 Armed Forces Day REPORT	17025
 Armed Forces Health Services	11401
@@ -143,7 +143,7 @@ Armelle Ouédraogo	7353
 Armelle Ouédraogo Dalilha Ky	10125
 Armelle Ouédraogo Lefaso.net	16448
 Armement	16047
-Armenia	6849,2233,88,1615,59,2,159,351,253,285,1078,148,1348,1003,2272,380
+Armenia	6849,2233,88,1615,59,2,159,351,253,285,1078,148,1348,1003,2272,380,438
 Armenia Aruba Australia Austria Azerbaijan Bahamas	11470
 Armenia CIS UMI	17743
 Armenia MINASYAN	6613
@@ -298,6 +298,7 @@ Darfur and Kordofan Regions. The Sudanese Armed	15342
 Davy Armel	15524
 Decent Housing Absence of Armed Conflict	10838
 Directorate Centrale du Matériel des Armées	18241
+Disability RSLAF Republic of Sierra Leone Armed	18512
 Djámanca MctorCassamá Armando Mango Guilherme Damas	11544
 EQUIPARACION Y ARMONIZACION DE SALARIOS	4209
 ESTADO MAYOR DE LAS FUERZAS ARMADAS.-Concepto	4209
@@ -378,6 +379,7 @@ Las Fuerzas Armadas	1701
 Lassina Major ARMEE DE L’AIR	17828
 Lassina TRAORE Capitaine ARMEE DE L’AIR	17828
 Legal Metrology Department and Michael Armah	16232
+Leone Armed Forces	18457
 Les Militaires des Forces Armées	17982
 Les Officiers des Forces Armées	17817,82
 Libyan National Army	16902
@@ -441,6 +443,7 @@ People’s Liberation Army	8510,1934,898
 Personnes Agées. Armées. Il	18032
 Police Armoury	15845
 Police Armées	17899
+Police and Army Headquarters	18698
 Porte-parole du Armées	18032
 Pour le Pr Armand Claude Abanda	8906
 Pr Armand Claude Abanda	8906
@@ -458,6 +461,7 @@ RSF Forças Armadas	17278
 Relations ARMEES	18032
 Republic of Armenia	12936
 Republic of Armenia Australia Yes The National	11529
+Republic of Sierra Leone Armed Forces	18440
 Research Center for Army and Security	15553
 Retail Army	7446
 SAF Sudanese Armed Forces	15036
@@ -476,6 +480,7 @@ Segunda Estrategia de Armonización	16898
 Serge Armel	16100,174,182
 Services du Ministère des Forces Armées	17899
 Sick and Shipwrecked Members of Armed Forces	14742
+Sierra Leone Armed	18474
 Sistema de Armazenamento	16132
 Sistema de Armazenamento de Energia	16132
 Sistemas de Armas Autónomas	2816
@@ -507,6 +512,7 @@ Tableau Armoire Table Meuble	10847
 Telecom Egypt and ADH’s Telecom Arm	15827
 Terrorist Armed Groups	7452
 Transport des Armées	8237
+UAE Armed Forces	18610
 UMc Armenia Asia Western Asia Yerevan	10840
 US Army	8141
 US Army Europe and Africa	8141

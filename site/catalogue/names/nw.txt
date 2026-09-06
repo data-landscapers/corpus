@@ -57,7 +57,7 @@ NW Nation	14674
 NW Ngaka Modiri Molema Mafikeng Provincial	11986
 NW Nigeria	5141
 NW Province	13392
-NW Washington	3456,4199,3308,2148,412,190,840,23,937,1141,21,1699
+NW Washington	3456,4199,3308,2148,412,190,840,23,937,1141,21,1699,82
 NW Washington DC	10976,898,472
 NW de Brazzaville	16552
 NW1941 Masango	6222
@@ -88,10 +88,12 @@ NWOMPAMWE	16099
 NWP Products	15916
 NWRIA	2626,8610
 NWRIA Amendment Bill	2626
+NWRMA	18578
 NWSAS	17157
 NWTGC	12563
 Nathan Nwachuku	8780,1419,1
 Nathan Nwachuku and Maxwell Maduka	10199
+National Meteorological Services NWP Numerical Weather	18578
 National Oceanic and Atmospheric Administration NWP	18309
 National Strategic Plan NWC	16951
 Ned Nwoko	8984,1395,2,310,2792
@@ -126,11 +128,13 @@ Okechukwu Nwaozor	13272
 Osondu Nwokoro	10053
 Pipeline Corporation NWHS National Water Harvesting	2775
 Pour Ned Nwoko	8984
+Prediction NWRMA National Water Resource Management	18578
 Question NW204	6832
 Question NW2745	9684
 Question NW4186	10889
 Question NW4495	11980
 Review the NWM	14818
+SLMet and NWRMA	18578
 Safety Authority NWCPC National Water Corporation	2775
 Samuel Nwite	18132
 Samuel Nwite The National Information Technology	18132

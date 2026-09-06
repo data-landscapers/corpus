@@ -5,6 +5,7 @@ AMPATH Data Controller INST-72829486B05 UASIN Kenya	7167
 AMPATH Data Processor INST-72829486B05 UASIN Kenya	7167
 ANADEN of UA	5370
 AUfSfTiliatiUoSEn MZ SU UA M ZI	1154
+Account UAT User Acceptance Testing VSAN	18577
 AfCFTA Secretariat and UABA	8298
 Appreciating Kenya UAE Relations Submitted	14476
 Authority TWI Trade Weighted Index UAE	2775
@@ -94,7 +95,9 @@ INST-8013163DC31 UASIN Kenya	7167
 INST-831753BEA8D UASIN Kenya	7167
 INST-8533944C66B UASIN Kenya	7167
 INST-916390A61D4 UASIN Kenya	7167
+Identification Number TOR Terms of Reference UAT	18488
 Including UA	13938
+Infection UADF Universal Access Development Fund	18504
 Information Statistique UA Union Africaine	15501
 Kenya and UAE	14476
 Kenya- UAE Session	14476
@@ -146,6 +149,7 @@ Scheme UAT User Acceptance Testing UN	5533
 Secretariado Técnico UA União Africana UNESCO	11557
 Senator for Uasin Gishu County	6946
 Service Postal Universel UAT Union Africaine	16327
+Service UADF	18485
 Stargate UAE	6790
 Statistical Analysis Software UA	10874
 Stephanus Uatanaua Katjivive	8960
@@ -159,6 +163,8 @@ TUT Tshwane University of Technology UAT User	11197
 TVET Technical and Vocational Education and Training UAT	11261
 Talent Tech Tunisia UAE	5322
 Taux Net de Fréquentation Scolaire UA	737
+Television UADF	18485
+Terms UADF Universal Access Development Fund	18478
 Training UAF Universal Access Fund UNCTAD	16876
 Transition Support Facility UA Unit of Account	13731
 Tuberculosis UAN	10776
@@ -188,7 +194,11 @@ UAC Startup Valley	10887
 UAC- ENAM	15383
 UAC-owned Kingsway Rendezvous	4725
 UAC.ENAM-FADESP	15397
+UADF Universal Access Development Fund VC	18454
+UAE Aid Agency	18663
+UAE Aid Agency and Jagan Chapagain	18663
 UAE Ambassador	12803
+UAE Armed Forces	18610
 UAE CAR INDICATOR INTERNET CONNECTIVITY	16942
 UAE CAR INDICATOR SOURCE DIGITALIZATION	16942
 UAE CAR INDICATOR SOURCE Individuals	16942
@@ -199,7 +209,7 @@ UAE Central Bank	9709
 UAE Central Bank's Aani	12273
 UAE Chamber of Commerce and Industry	14476
 UAE Commit	14064
-UAE Consensus	14075
+UAE Consensus	14075,4475
 UAE Cybersecurity Council	15876
 UAE Digital School	12971
 UAE Embassy	4952,9182
@@ -233,6 +243,7 @@ UAE and Namibian	5086
 UAE and Nigeria	18190
 UAE and Portugal	10762
 UAE and Saudi Arabia	4324,928
+UAE and Sierra Leone	18550
 UAE and Singapore	4045,4081
 UAE'--whose	15342
 UAE's Etisalat	2673
