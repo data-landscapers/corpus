@@ -3,13 +3,13 @@ title: Energy — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: infra.energy
-places: BWA; BDI; CAF; COM; ETH; GHA; KEN; LSO; LBY; MDG; MWI; MUS; MOZ; SLE; ZAF; UGA; ZMB; ZWE
-record: 147c460bb4ad
+places: BWA; BDI; CAF; COM; ETH; GHA; KEN; LSO; LBY; MDG; MWI; MUS; MOZ; SLE; ZAF; SSD; UGA; ZMB; ZWE
+record: 60f8022eed01
 ---
 
 # Energy: monthly update, August 2026
 
-*18 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*19 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -78,6 +78,12 @@ The constraint under everything else eased slightly. A World Bank-funded [40MW s
 The grid had its best month on the utility's own reporting in six years. Eskom [put the energy availability factor at 67.55%, its highest in six years, with unplanned outages down 44.5% year on year, about 1.2 million customers removed from load reduction and 505,607 smart meters installed](https://www.eskom.co.za/energy-availability-factor-at-highest-level-in-six-years-reaching-67-55-unplanned-outages-nearly-halved-year-on-year-and-customers-impacted-by-load-reduction-reduced-to-6-8-and-the-eastern-cape-beco/), the Eastern Cape becoming the seventh province removed from load reduction. These are the utility's figures and no regulator or system-operator confirmation accompanies them.
 
 It closes a build programme rather than opening one: the last unit of the two flagship stations [entered commercial operation in September 2025, adding 800 MW](https://www.eskom.co.za/kusile-unit-6-achieves-commercial-operation-unlocking-full-9600mw-capacity-across-eskoms-flagship-stations/). What the month does not settle is adequacy after 2029, which the system operator's own assessment identifies as the risk and which is carried in the progress report rather than here.
+
+## South Sudan
+
+Two connections completed in one week. A project [connecting more than 400 customers in the border town of Nimule](https://www.eyeradio.org/400-customers-connected-as-nimule-electrification-project-launches/) on imported Ugandan power launched on 15 August, and two days later government and a development agency handed over a [150 kWp solar plant with 200 kWh of battery storage giving continuous power to the Aweil Regional Reference Laboratory](https://www.undp.org/south-sudan/news/government-undp-launch-17m-aweil-reference-lab-solar-system-and-incinerator-funded-global-fund) in Northern Bahr el Ghazal.
+
+The larger supply picture moved too: the energy minister reported on 18 August that [transmission works are advancing to bring Ugandan hydropower to Juba through Nimule](https://www.eyeradio.org/juba-set-to-receive-karuma-hydropower-by-late-2026-says-energy-minister/), with a distribution substation already built at Nesitu. Against a rural population almost entirely unserved, four hundred customers is the scale of what completed.
 
 ## Uganda
 

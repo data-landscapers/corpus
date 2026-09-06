@@ -3,13 +3,13 @@ title: Data Storage — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: infra.store
-places: DZA; AGO; BWA; BFA; CMR; CAF; COG; EGY; GNQ; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; TZA; ZWE
-record: ad2bc83fda60
+places: DZA; AGO; BWA; BFA; CMR; CAF; COG; EGY; GNQ; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; SSD; TZA; ZWE
+record: fdc50c90f066
 ---
 
 # Data Storage: monthly update, August 2026
 
-*26 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*27 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -147,6 +147,10 @@ The expansion also drew its first organised objection. A civil-society coalition
 The operators answered it in August. The country's major data-centre companies [defended their electricity and water use publicly, resting on renewable-energy and resource-management programmes, one of them stating science-based climate targets and full clean and renewable coverage locally](https://www.itweb.co.za/article/sa-data-centre-operators-push-back-amid-sustainability-probe/5yONP7EroNQMXWrb); the commission said in September that it had [received more than 250 submissions and that the issue emerging was the availability, consistency and transparency of information on electricity and water demand, land use, infrastructure requirements and impacts on surrounding communities](https://www.africanews.com/2026/09/04/civil-society-groups-in-south-africa-call-for-temporary-halt-to-new-data-centres/), and civil-society groups renewed the call for construction to stop until that use has been investigated, the municipal approval of a Cape Town hyperscale facility being the immediate trigger in a city that came close to running out of water in 2018. It has published no finding, timetable or report date, and no independent measurement of the sector's draw is held either way.
 
 Two compute announcements closed the month, both making sovereignty the argument and both resting on the announcer's own figures. Three partners [launched what they describe as Africa's most powerful AI cloud, a 7.2 EFLOPS deployment on more than 50 NVIDIA B300 HGX servers carrying over 400 GPUs in carrier-neutral Tier-3+ colocation, pitched as keeping African training and inference workloads, and the data behind them, resident on the continent](https://techafricanews.com/2026/08/27/south-africa-partnership-launches-africas-most-powerful-sovereign-ai-cloud/); no independent benchmark, customer, price or site accompanies the number. Separately the mobile operator group [named the UAE backer of its Africa Data Hub Holding vehicle as Tarek Al Ashram, founder of the Dubai colocation operator Gulf Data Hub](https://www.mtn.com/mtn-group-advances-africas-ai-ready-digital-infrastructure-ecosystem-through-strategic-partnership/), three days after its own half-year results booklet named the vehicle without the partner behind it, [with a first phase targeting 150MW across South Africa and Nigeria](https://capacityglobal.com/news/mtn-targets-150mw-of-ai-data-centre-capacity/) and no split, site, cost or commissioning date stated. Against those, the one deployment in the country with an externally verified figure is the Cape Town artificial-intelligence factory, which [entered the June 2026 global supercomputer list at rank 36 on 285,696 cores and 77.79 PFlop/s measured against a 102.16 PFlop/s theoretical peak](https://www.top500.org/system/180464/).
+
+## South Sudan
+
+The only nationally owned data centre in the base is a [Tier 2 facility at Hai Malakal in Juba](https://trinitytechnologies.tech/about.html) offering colocation, hosting, data management, backup and replication, run by a South Sudanese-owned operator and commissioned in 2019. No capacity figure or power rating is published, and no second national provider appears.
 
 ## Tanzania
 

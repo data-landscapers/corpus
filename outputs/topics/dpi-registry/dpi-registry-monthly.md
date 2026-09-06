@@ -3,13 +3,13 @@ title: Registries (population, land, address, etc.) — monthly update, August 2
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: dpi.registry
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: c528cc9c7690
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: f1369803ac1e
 ---
 
 # Registries (population, land, address, etc.): monthly update, August 2026
 
-*44 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*45 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -217,6 +217,10 @@ Somalia [launched its first unified national registry of health facilities](http
 ## South Africa
 
 Home Affairs reported [377,060 identity numbers still blocked](https://iol.co.za/news/politics/2026-07-17-home-affairs-struggles-to-unblock-identity-numbers-due-to-unserviceable-addresses/) and stated it could not trace approximately 400,000 of those affected, against a court deadline extended to March 2027.
+
+## South Sudan
+
+Four months before the poll, the electoral register does not exist. After assessment missions across all ten states and the three administrative areas, the elections commission said on 21 August that [voter registration was expected to begin soon](https://www.africa-newsroom.com/press/south-sudan-president-kiir-urges-national-elections-commission-nec-to-prepare-for-december-polls-as-voter-registration-nears?lang=en) ahead of the 22 December polls. The exercise is expected to take about a month, and nothing on file records it starting.
 
 ## Sudan
 

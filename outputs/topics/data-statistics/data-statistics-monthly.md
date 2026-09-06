@@ -3,13 +3,13 @@ title: National statistics — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: data.statistics
-places: BWA; BDI; CMR; CAF; COM; COG; COD; GNQ; GAB; GHA; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; ZAF; UGA; ZWE
-record: 6d0fb94e3781
+places: BWA; BDI; CMR; CAF; COM; COG; COD; GNQ; GAB; GHA; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; UGA; ZWE
+record: cb0049d5077b
 ---
 
 # National statistics: monthly update, August 2026
 
-*26 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*27 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -120,6 +120,10 @@ An outside assessment put the statistical system at two speeds. An International
 ## Seychelles
 
 The statistical work of the window is climate data with a funding line behind it. Seychelles [launched its national implementation of a nine-country African island-states resilience programme, backed by a US$4.943 million readiness grant, whose data leg is a standardised approach to institutional readiness, multi-hazard risk assessment and information systems](https://www.uneca.org/eca-events/national-launch-resislands-initiative-republic-seychelles), the stated purpose being to build pipelines of climate-resilient projects able to reach international finance. The grant figure covers all nine countries; the national share is not published, so the base can date the launch and not size it.
+
+## Sierra Leone
+
+A second national collection was launched inside nine months. The [2026 Demographic and Health Survey was launched on 4 August](https://sierraleone.unfpa.org/en/news/united-nations-reaffirms-support-sierra-leone-officially-launches-2entity26-demographic-and), after the 2026 census in December. Neither carries a published enumeration date, budget or field methodology.
 
 ## South Africa
 

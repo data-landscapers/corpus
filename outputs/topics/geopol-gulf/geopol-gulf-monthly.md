@@ -3,13 +3,13 @@ title: Gulf/UAE activities — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: geopol.gulf
-places: BWA; GMB; KEN; ZWE
-record: 425ef854a873
+places: BWA; GMB; KEN; SSD; ZWE
+record: f48a7645a78f
 ---
 
 # Gulf/UAE activities: monthly update, August 2026
 
-*4 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*5 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -24,6 +24,10 @@ Gulf involvement is now on the record in two forms, neither carrying a figure. T
 ## Kenya
 
 Kenya and Qatar [agreed on 12 August to institutionalise annual bilateral political consultations](https://www.zawya.com/en/press-release/africa-press-releases/kenya-qatar-agree-to-deepen-bilateral-cooperation-429489), the inaugural round led on the Kenyan side at principal secretary level. The account names no digital instrument, no committed amount and no project. That is the shape of the Gulf record here generally: seven memoranda signed with the United Arab Emirates in May 2025 and diaspora consultations in Riyadh in July 2026, none of them describing what was agreed in terms this base can put on a system or an instrument.
+
+## South Sudan
+
+The legislature [ratified the general cooperation agreement with Saudi Arabia](https://www.radiotamazuj.org/en/news/article/tnla-ratifies-south-sudan-saudi-arabia-cooperation-agreement) on 19 August, three months after rejecting it on sovereignty grounds. The agreement, signed in 2022, covers agriculture, education, mining, infrastructure, health, trade, investment, security and social development. No digital or data commitment appears in it.
 
 ## Zimbabwe
 

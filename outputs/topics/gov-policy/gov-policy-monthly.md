@@ -3,13 +3,13 @@ title: Strategies, plans and policies — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: gov.policy
-places: BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MWI; MLI; MRT; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: f8b78fde5417
+places: BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MWI; MLI; MRT; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: eb612443820e
 ---
 
 # Strategies, plans and policies: monthly update, August 2026
 
-*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -164,6 +164,10 @@ The multi-agency answer to mobile-money fraud got a drafting session. A two-day 
 The state put two studies out to tender and conceded the gap they are meant to fill. The communications department's market-analysis tender [concedes a current policy vacuum and that the price benefits expected from the 2022 spectrum auction remain largely unmet](https://www.timeslive.co.za/news/business/2026-08-01-sas-data-price-puzzle/), naming market concentration, spectrum allocation and the burden on prepaid consumers as structural causes; its deliverables are a cost-to-communicate roadmap and an assessment of progress on the 2019 data-services market inquiry recommendations. A second tender [seeks an ICT-indicators and scenario-modelling system to steer the digital economy to 2050](https://www.itweb.co.za/article/top-ict-tenders-dcdt-eyes-2050-digital-economy-vision/KPNG878NLorq4mwD), with no award, value or delivery date. Against both, the reform programme's quarterly report [concedes progress has been uneven and in certain instances slower than initially anticipated](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf), against the 80% on-track figure that remains its dated prior.
 
 A third instrument is being fast-tracked rather than tendered. The Presidency and the planning and evaluation department [put a digital dashboard monitoring mega infrastructure projects before the parliamentary committee on the Presidency](https://www.parliament.gov.za/press-releases/media-alert-committee-presidency-assess-progress-implementing-sona-commitments-and-tracking-mega-infrastructure-projects), alongside a wider review of progress against the state-of-the-nation commitments. No delivery date, data source, custodian or statement of whether the dashboard will be public is given — which for a monitoring instrument is the whole of the question. The portfolio minister separately [set out persistent governance and liquidity problems across the department's eleven state-owned entities](https://www.itweb.co.za/article/malatsi-details-persistent-headaches-at-portfolio-depts/4r1ly7R9aK4vpmda), citing progress stabilising boards and the state IT agency's leadership, a completed public broadcaster funding model now with the Treasury, and ruling out a compulsory household levy.
+
+## South Sudan
+
+The interoperability blueprint is still a purchase order. The ICT ministry's current-projects page, as it stood on 29 August, [lists hiring a firm to develop a Government Enterprise Architecture and implementation plan as active work](https://mictps.gov.ss/projects/) under the World Bank-financed regional digital integration project. Nothing adopted sits behind it, and the data governance strategy that would run alongside it is at tender too.
 
 ## Sudan
 

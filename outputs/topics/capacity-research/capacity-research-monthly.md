@@ -3,13 +3,13 @@ title: Research institutions — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: capacity.research
-places: CAF; COM; COG; CIV; EGY; ETH; GHA; KEN; LBY; MOZ; NER; RWA; ZAF; TZA; UGA
-record: f719e7260551
+places: CAF; COM; COG; CIV; EGY; ETH; GHA; KEN; LBY; MOZ; NER; RWA; SLE; ZAF; TZA; UGA
+record: 5f75cf2bfa60
 ---
 
 # Research institutions: monthly update, August 2026
 
-*15 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*16 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -62,6 +62,10 @@ The [Council of Ministers of 21 August 2026 took decisions on research and innov
 ## Rwanda
 
 An [academic security operation centre is running through a university network based in Rwanda, described as operating on multiple levels to meet cybersecurity monitoring needs and to build a cybersecurity workforce in Rwanda and beyond](https://www.africa.engineering.cmu.edu/news/2026/08/24-academic-security-operation-center.html). No monitored-estate, incident or staffing figure is published, so the size of what the centre actually does cannot be stated from the base.
+
+## Sierra Leone
+
+The council that would steer research funding is still writing its own first plan. A three-day workshop opened on 4 August to [support the National Science, Technology and Innovation Council in developing that plan](https://www.sierraleonepress.com/mthe-and-nstic-collaborate-on-workshop-for-research-funding-and-governance/), with digital transformation named among the priorities funded research should answer. No plan, timetable or funding envelope has been published.
 
 ## South Africa
 

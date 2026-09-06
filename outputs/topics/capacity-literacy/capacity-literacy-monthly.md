@@ -3,13 +3,13 @@ title: Literacy — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: capacity.literacy
-places: AGO; COD; GHA; KEN; LBR; MOZ; RWA; SEN; TZA; TGO; ZMB
-record: 44c3db95a736
+places: AGO; COD; GHA; KEN; LBR; MOZ; RWA; SEN; SSD; TZA; TGO; ZMB
+record: 5595a802db35
 ---
 
 # Literacy: monthly update, August 2026
 
-*11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -44,6 +44,10 @@ The month's only movement on digital literacy was a demand for it. At the launch
 ## Senegal
 
 Connectivity is being aimed at classrooms. The education ministry [plans to connect more than 8,000 primary schools to the internet through Starlink](https://techgriot.co/english/africa/2026/08/senegal-to-connect-8000-primary-schools-via-starlink/). Satellite is the route because terrestrial reach is the constraint, and a plan of that size would change what the Digital Schools programme can assume. Nothing in the record held names a school connected, a cost or a funding source.
+
+## South Sudan
+
+Renovation began in August on [three government facilities designated as digital skills centres in Central Equatoria](https://www.sceniushub.com/post/scenius-hub-and-central-equatoria-state-ministry-of-information-and-communication-advance-implement) under a five-year programme aimed partly at civil servants. It is the first physical training capacity in the base, and it lands against a service whose digital literacy has been described as low since 2023 and never measured.
 
 ## Tanzania
 

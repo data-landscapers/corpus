@@ -3,13 +3,13 @@ title: Data protection — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: gov.protect
-places: AGO; BEN; BFA; CAF; DJI; COD; EGY; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SDN; TZA; UGA; ZMB; ZWE
-record: 479a286fcc64
+places: AGO; BEN; BFA; CAF; DJI; COD; EGY; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; UGA; ZMB; ZWE
+record: cf61d804800c
 ---
 
 # Data protection: monthly update, August 2026
 
-*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -153,6 +153,10 @@ The data-protection statute has been enforceable since 2021 and operates as an a
 
 
 The supervisor said plainly what it cannot do. At a webinar on 18 August the regulator [said it has no capability to test external systems for privacy compliance before launch, and is working with the justice department to amend the Act to cover artificial intelligence and privacy by design](https://www.timeslive.co.za/news/south-africa/2026-08-18-sahrc-sounds-alarm-over-misuse-of-personal-information-in-digital-age/), while the rights commission reframed misuse of personal information as a constitutional harm bearing on dignity, equality and access to services rather than a cybersecurity one. A peer-reviewed review published four days earlier [records South Africa among three of four countries studied that have not signed the continental data convention, and finds all four health-data governance frameworks fragmented](https://datascience.codata.org/articles/10.5334/dsj-2026-031).
+
+## South Sudan
+
+There is still no data protection authority, and the communications regulator carries the function in its absence. Its own overview describes a statutory mandate under the National Communication Act 2012 that [includes information protection and data privacy](https://www.nca.gov.ss/overview-of-nca) alongside telecommunications, broadcasting and postal regulation. A sector regulator holding a privacy function inside a telecoms mandate is what the country has instead of an authority, and the Bill that would create one has not left drafting.
 
 ## Sudan
 
