@@ -3608,5 +3608,10 @@
     "published": "2026-09-06",
     "written": "2026-09-06",
     "summary": "Mauritania's central bank publishes its National Digital Payment Strategy on its fintech portal, presented as a natural extension of the national financial inclusion strategy and aimed at widening access to financial services for rural and under-banked citizens. It sets five objectives: easing the regulation of payment and electronic-money institutions to attract fintech investment, rebuilding the digital payments infrastructure, modernising financial services around innovation, building adoption and use, and putting a governance system in place across the whole financial-digital sector. No implementation report or measured outturn against any of them appears on the page."
+  },
+  "2026-09-06-togo-atd-guide-architecture-entreprise-controle-version": {
+    "published": "2026-09-06",
+    "written": "2026-09-06",
+    "summary": "Togo's government enterprise-architecture guide, and with it the common interoperability framework it defines, is still a draft on the digital agency's own live status page: version 1.0, status Brouillon, with the version date, reviewer and review date fields blank and the revision table carrying only its column headers. The framework exists as a published normative text and has not been given force of law."
   }
 }

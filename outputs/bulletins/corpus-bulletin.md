@@ -4,7 +4,7 @@ title: Bulletin
 subtitle: Last updated 05-09-2026 at 22:16 — Covering sources published on 5 and 6 September 2026
 window_start: 2026-09-05
 window_end: 2026-09-06
-items: 13
+items: 14
 collected_to: 2026-09-05 22:16
 compiled: 2026-09-05 22:16
 ---
@@ -38,6 +38,7 @@ compiled: 2026-09-05 22:16
 <option value="NGA">Nigeria</option>
 <option value="ZAF">South Africa</option>
 <option value="TZA">Tanzania</option>
+<option value="TGO">Togo</option>
 <option value="TUN">Tunisia</option>
 </select>
 <span class="bulletin-filter__count" aria-live="polite"></span>
@@ -52,6 +53,14 @@ compiled: 2026-09-05 22:16
 **[Stratégie Nationale de Paiement Numérique (SNPN)](https://fintech.bcm.mr/fr/ressources/SNPN/)** — Banque Centrale de Mauritanie, 6 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MRT/" title="MRT">Mauritania</a>
 
 Mauritania's central bank publishes its National Digital Payment Strategy on its fintech portal, presented as a natural extension of the national financial inclusion strategy and aimed at widening access to financial services for rural and under-banked citizens. It sets five objectives: easing the regulation of payment and electronic-money institutions to attract fintech investment, rebuilding the digital payments infrastructure, modernising financial services around innovation, building adoption and use, and putting a governance system in place across the whole financial-digital sector. No implementation report or measured outturn against any of them appears on the page. <span class="bulletin-item__also">*Also under [Digital Payments and Fintech](#digital-payments-and-fintech).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="TGO" markdown="1">
+
+**[Contrôle des modifications du document — Guide de l'Architecture d'Entreprise Gouvernementale du Togo](https://ressources.digital.gouv.tg/shares/documentations/Guide_architecture_national/html/controle_version.html)** — ATD (Agence Togo Digital), 6 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TGO/" title="TGO">Togo</a>
+
+Togo's government enterprise-architecture guide, and with it the common interoperability framework it defines, is still a draft on the digital agency's own live status page: version 1.0, status Brouillon, with the version date, reviewer and review date fields blank and the revision table carrying only its column headers. The framework exists as a published normative text and has not been given force of law. <span class="bulletin-item__also">*Also under [Standards](#standards).*</span>
 
 </div>
 
@@ -130,6 +139,16 @@ Tanzania and the DRC agreed to fast-track a fibre-optic cable from Kigoma to Kal
 **[Ethiopia Builds Globally Competitive AI Capabilities, Says IGAD](https://www.ena.et/web/eng/w/eng_9506280)** — Ethiopian News Agency (ENA), 5 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a>
 
 IGAD's deputy executive secretary said Ethiopia's work on human capital, digital infrastructure and applied artificial intelligence positions it to compete globally, speaking during a member-state visit to the Ethiopian Artificial Intelligence Institute. The regional body wants a partnership letting other member states draw on that experience; the assessment is IGAD's, with no measure behind it. <span class="bulletin-item__also">*Also under [AI](#ai).*</span>
+
+</div>
+
+### Standards
+
+<div class="bulletin-item bulletin-item--xref" data-places="TGO" markdown="1">
+
+**[Contrôle des modifications du document — Guide de l'Architecture d'Entreprise Gouvernementale du Togo](https://ressources.digital.gouv.tg/shares/documentations/Guide_architecture_national/html/controle_version.html)** — ATD (Agence Togo Digital), 6 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TGO/" title="TGO">Togo</a>
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 
