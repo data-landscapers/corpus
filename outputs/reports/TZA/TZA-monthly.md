@@ -3,9 +3,9 @@ title: Tanzania — monthly update, August – September 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 place: TZA
-ledger_rows: 66
-not_held: 13
-record: daccb6d3296c
+ledger_rows: 72
+not_held: 5
+record: ad2e8f5f8a10
 ---
 
 # Tanzania: monthly update, August – September 2026
@@ -167,6 +167,11 @@ The commodity exchange took its first crop online. The cereals regulator [sold 3
 
 <!-- narrative: digitalisation--digital-localgov -->
 A [constituency digitalisation strategy opened on 4 August with 20 computers and two printers valued at TZS 100m donated by a consumer lender](https://ippmedia.co.tz/the-guardian/business/read/bayport-donates-100m-tech-facility-to-kibambas-education-department-2026-08-04-131047), starting with the education department's administration, inter-departmental communication and examination coordination, with secondary schools stated next and ward offices in phases over three to four years. It was announced by the ICT minister in the constituency she represents, and no funding is disclosed for any phase beyond the donated equipment.
+<!-- /narrative -->
+### Rural digital data capture
+
+<!-- narrative: digitalisation--digital-rural -->
+Rural service digitisation appeared this month as an inventory and a pilot, both counted in tens rather than thousands. The health ministry's own service page [lists what its eHealth estate actually consists of — the health management information platform, the human resources system, the health facility registry, the immunisation information system and the supply-chain platform](https://www.moh.go.tz/en/services/18); it carries no date of its own, and the primary-care digital transformation roadmap that would say what any of it reaches at dispensary level does not resolve at its published address. In education, [a tablet-based literacy and numeracy programme reached 50 rural primary schools and more than 24,000 pupils in Manyara, with a second 50-school phase under way](https://dailynews.co.tz/msingitek-unveiled-in-manyara-to-boost-learning/). Neither record carries a denominator, so what share of the rural estate either reaches cannot be read off the month.
 <!-- /narrative -->
 
 ## Technology
