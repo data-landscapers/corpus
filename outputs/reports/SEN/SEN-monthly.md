@@ -1,11 +1,11 @@
 ---
 title: Senegal — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-06
+period: 2026-08-01 to 2026-09-06
 place: SEN
-ledger_rows: 36
-not_held: 14
-record: b26bb4ed7770
+ledger_rows: 50
+not_held: 5
+record: 79846fb1ed11
 ---
 
 # Senegal: monthly update, August – September 2026
@@ -30,7 +30,11 @@ The body meant to steer digital governance has not started. The digital governan
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The critical-infrastructure framework that was undated at the end of July reached parliament a fortnight later. A bill on protecting critical information infrastructure and digital security [was presented to the National Assembly's intercommission on 13 August and examined by its committees](https://itweb.africa/article/senegal-moves-to-safeguard-digital-infrastructure/KzQenMjyxD47Zd2r), proposing [a national cybersecurity authority, national and sectoral computer emergency response teams, and obligations on critical operators graded by risk](https://itweb.africa/article/senegal-moves-to-safeguard-digital-infrastructure/KzQenMjyxD47Zd2r), alongside [local hosting of public data, service continuity and personal-data protection](https://www.pressafrik.com/Securite-numerique-Bacary-Sarr-participe-a-l-examen-du-projet-de-loi-sur-les-infrastructures-critiques_a309846.html) under the state's technology-deal agenda. Four days later the ministry published its own account of the contents: obligations [graded by risk, with ordinary networks on standard requirements and critical infrastructure on enhanced ones — monitoring, data backup, encryption of sensitive information, business continuity and disaster recovery, and regular resilience testing — and a National Cybersecurity Authority, a national response team, sectoral teams and cybersecurity operations services](https://news.broadcastmediaafrica.com/2026/08/17/senegal-advances-new-cybersecurity-bill-to-protect-critical-infrastructure-and-strengthen-digital-sovereignty/), with an industrial objective attached: the ministry expects the compliance requirement itself to create accredited service providers, domestic firms and skilled jobs. It cleared on 20 August: the National Assembly [adopted law n° 25/2026 unanimously, mandating in-country storage of state-sensitive data, empowering the National Cybersecurity Authority and folding in technology-neutral standards for the AI era and the child-online-protection plan](https://www.seneweb.com/fr/news/Politique/securite-numerique-lassemblee-nationale-adopte-a-lunanimite-le-projet-de-loi-sur-les-infrastructures-critiques_n_501981.html), seven days after it reached the intercommission. In the same debate the Assembly's first vice-president [argued cybersecurity has to become a standing administrative culture, calling for mandatory staff training, professional-only communication channels and minimum device-security standards](https://lesoleil.sn/actualites/technologie/el-malick-ndiaye-nous-devons-faire-de-la-cybersecurite-une-veritable-culture-administrative/) - a description of where the state's own practice stands rather than of what the law requires. Every provision is still the ministry's description; the text is not held, no promulgation date or gazette reference is published, and nothing the law creates exists yet.
+The critical-infrastructure framework moved from undated draft to adopted law inside the month. The National Assembly [adopted law n° 25/2026 unanimously on 20 August, mandating in-country storage of state-sensitive data, empowering a National Cybersecurity Authority and folding in technology-neutral standards for the artificial-intelligence era and the child-online-protection plan](https://www.seneweb.com/fr/news/Politique/securite-numerique-lassemblee-nationale-adopte-a-lunanimite-le-projet-de-loi-sur-les-infrastructures-critiques_n_501981.html), seven days after [reaching the Assembly's intercommission on 13 August](https://itweb.africa/article/senegal-moves-to-safeguard-digital-infrastructure/KzQenMjyxD47Zd2r).
+
+The ministry's own account of the contents grades obligations by risk: [ordinary networks on standard requirements and critical infrastructure on enhanced ones — monitoring, data backup, encryption of sensitive information, business continuity and disaster recovery, and regular resilience testing — against a national authority, a national response team, sectoral teams and cybersecurity operations services](https://news.broadcastmediaafrica.com/2026/08/17/senegal-advances-new-cybersecurity-bill-to-protect-critical-infrastructure-and-strengthen-digital-sovereignty/), with an industrial objective attached: the ministry expects the compliance requirement itself to create accredited providers and skilled jobs.
+
+Every provision is still the ministry's description. The text is not held, no promulgation date or gazette reference is published, and nothing the law creates exists yet.
 <!-- /narrative -->
 ### Data protection
 
@@ -40,9 +44,9 @@ The data protection commission published its quarterly opinion for April to June
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-Regionally, Senegal became [one of 29 founding states of an intergovernmental AI-governance body on 16 July](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-le-senegal-parmi-les-29-etats-fondateurs-de-la-waico_n_498704.html), and joined the approval on 31 July of [three ECOWAS statistical methodological guides](https://www.ecowas.int/ecowas-concludes-meeting-of-directors-general-of-national-statistical-institutes-by-adopting-new-guidelines-for-regional-statistical-harmonization/).
+Regionally, Senegal became [one of 29 founding states of an intergovernmental artificial-intelligence governance body on 16 July](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-le-senegal-parmi-les-29-etats-fondateurs-de-la-waico_n_498704.html), and joined the approval on 31 July of [three regional statistical methodological guides](https://www.ecowas.int/ecowas-concludes-meeting-of-directors-general-of-national-statistical-institutes-by-adopting-new-guidelines-for-regional-statistical-harmonization/).
 
-The bilateral channel moved from signature to work. The June 2026 telecommunications and digital-economy memorandum with the Gambia [went into implementation around four priorities — connectivity, cybersecurity, skills and digital transformation — with the telecommunications and digital minister travelling to Banjul to agree the first joint work, and the two regulators separately deepening cooperation on frequency coordination, service quality and cross-border roaming](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-gambie-la-cooperation-numerique-se-concretise-autour-de-quatre-priorites). What Senegal supplies in that relationship is transit: the Gambia's terrestrial fibre build is limited and it depends largely on a single submarine cable for international access, with only limited terrestrial redundancy through Senegal. No work programme, budget or timetable is published. That work took its first steering-committee session at [Banjul on 29 August 2026](https://digitalmagazine.bf/2026/08/29/senegal-gambie-dakar-et-banjul-mettent-en-chantier-une-feuille-de-route-numerique-commune/), where the four priorities were settled as infrastructure and interoperability, cyber resilience, capacity building and regulatory harmonisation, with rural electronic-government access named among them. No timetable, budget or named deliverable is attached to any of the four.
+The bilateral channel moved from signature to work. The June memorandum with the Gambia took its [first steering-committee session at Banjul on 29 August 2026, where four priorities were settled — infrastructure and interoperability, cyber resilience, capacity building and regulatory harmonisation — with rural electronic-government access named among them](https://digitalmagazine.bf/2026/08/29/senegal-gambie-dakar-et-banjul-mettent-en-chantier-une-feuille-de-route-numerique-commune/). What Senegal supplies in that relationship is transit: the Gambia depends largely on a single submarine cable, with only limited terrestrial redundancy through Senegal. No timetable, budget or named deliverable is attached to any of the four.
 <!-- /narrative -->
 ### Standards
 
@@ -62,6 +66,13 @@ The constraint on that deployment is money, and the agency said so itself. On 17
 
 ## ICT Infrastructure
 
+### Connectivity
+
+<!-- narrative: ict-infrastructure--infra-connect -->
+The exchange point at Dakar is the month's measurable position: it carries [260 Gbps of member port capacity across six member networks, all six having joined within the preceding twelve months and none having left](https://pulse.internetsociety.org/en/ixp-tracker/ixp/1594/). The figures are registry self-declarations rather than measured traffic. The older [association-run exchange is constituted with its registered office at the telecommunications ministry](https://www.senix.sn/statuts.html) and names no members, traffic or operating site.
+
+On price, the regulator's index was [flat quarter on quarter across all four operators and all nine consumption profiles, and down 15.6% year on year](https://artp.sn/sites/default/files/2026-08/NOTE%20IPSM%20T2%202026_0.pdf), after falls of 5.3% and 10.2% in the two preceding quarters. It is an index, so it carries no franc amount. The regulator also [published a synthesis of 21 contributions to its consultation on deploying and sharing fibre to the end subscriber](https://artp.sn/partage-infrastructures/fttx), setting no rule, obligation or timetable.
+<!-- /narrative -->
 ### Technical Capacity
 
 <!-- narrative: ict-infrastructure--infra-capacity -->
@@ -117,11 +128,16 @@ Parliament's own systems entered the record for the first time, and only as a pu
 
 ## Digitalisation
 
+### Digitalisation of sub-national government
+
+<!-- narrative: digitalisation--digital-localgov -->
+The one local-records digitisation with a published figure entered the base: through the building-permit platform [more than 200,000 permit files were digitised and the physical archives of the Dakar region's urbanism directorates secured](https://www.adie.sn/projets/teledac). The platform moves the permit procedure online across four Dakar communes, extended to the region's 52 communes and 10 sub-prefectures, and now carries dozens of procedures across other sectors. Coverage is the Dakar region, not the country, and the page carries no date of its own.
+<!-- /narrative -->
 ### Rural digital data capture
 
 <!-- narrative: digitalisation--digital-rural -->
 
-The head of the deconcentrated service network said the thing his own network runs on is missing. Closing a tour of four regions, he [said that without connectivity there can be no deconcentration of public services, and listed connectivity, workstations, IT equipment, archive and mail management and communications security among the problems found in prefectures and gendarmerie posts](https://aps.sn/dematerialisation-sans-connectivite-pas-de-deconcentration-des-services-publics-selon-le-directeur-de-senegal-services/), while announcing the forthcoming integration of civil registration into the national dematerialisation platform. No centre count, connectivity rate or remediation budget is published against the diagnosis.
+The head of the deconcentrated service network said the thing his own network runs on is missing. Closing a tour of four regions, he [said that without connectivity there can be no deconcentration of public services, and listed connectivity, workstations, IT equipment, archive and mail management and communications security among the problems found in prefectures and gendarmerie posts](https://aps.sn/dematerialisation-sans-connectivite-pas-de-deconcentration-des-services-publics-selon-le-directeur-de-senegal-services/), while announcing the forthcoming integration of civil registration into the national platform for administrative acts. No centre count, connectivity rate or remediation budget is published against the diagnosis.
 <!-- /narrative -->
 
 ## Technology
@@ -173,6 +189,11 @@ The month's one inclusion measure came from the despatch box rather than a surve
 
 An outside assessment put the statistical system at two speeds. An International Monetary Fund report [found macroeconomic statistics generally reliable while sector-specific statistical agencies are constrained by staffing and finance, and recommended a clearer coordination mandate for the statistics agency through a permanent inter-agency committee reconciling national accounts, public finance, debt, monetary and external-sector figures before publication](https://www.channelafrica.co.za/channelafrica/news/imf-calls-for-stronger-coordination-of-senegals-economic-data/), alongside broader public-debt reporting and steps toward the enhanced dissemination standard. The authorities accepted the recommendations under the 2024-2028 statistical strategy; nothing dated is published against any of them.
 <!-- /narrative -->
+### Open data
+
+<!-- narrative: data--data-open -->
+The national data archive is the only Senegalese public-data system that publishes how much its data is used: [4,808,203 views on the 2013 census, 24,422 on the 2024-2025 agricultural survey and 19,910 on the 2023 census](http://anads.ansd.sn/index.php/catalog), with access stated per dataset as either licensed or withheld. Views are not downloads, and a licensed and partly withheld catalogue is not an open-licence portal — which is the finding, since no whole-of-government open-data portal operates behind it.
+<!-- /narrative -->
 
 ## Geopolitics
 
@@ -185,4 +206,9 @@ The digital minister pitched the technology strategy in Washington, holding [wor
 
 <!-- narrative: geopolitics--geopol-china -->
 The sovereign cloud is [in testing, with data-centre infrastructure deployed and verified for redundancy and reliability to host sensitive national data on Senegalese territory](https://africabusinessinsight.com/senegal-partners-alibaba-to-build/), accelerated ahead of an international sporting event. No contract, value, hosting term, exit arrangement or data-access terms are reported — a sovereignty claim resting on a vendor relationship whose terms are not held.
+<!-- /narrative -->
+### EU activities
+
+<!-- narrative: geopolitics--geopol-eu -->
+The delegation's own statement settles what the relationship is not. Cooperation [runs through the union's investment strategy and Team Europe financing rather than a standalone instrument](https://www.eeas.europa.eu/delegations/senegal/global-gateway_fr), and the delegation states it accompanied Senegal in drawing up its data-management and artificial-intelligence strategies and will support implementation of the priority actions those strategies set out. No standalone memorandum on the digital economy, data or digital governance was located.
 <!-- /narrative -->
