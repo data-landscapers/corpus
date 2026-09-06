@@ -193,7 +193,7 @@ def disambiguate(ent_names: dict) -> dict:
 
 
 def pack_rows(cdir: Path):
-    """The ten browse fields, plus the entity tags as field 10.
+    """The ten browse fields, the entity tags as field 10, and two more since.
 
     Entities are **dictionary-encoded**: field 10 holds integer offsets into a
     vocabulary array shipped once, not the slugs themselves. 24,891 tags drawn
@@ -226,6 +226,11 @@ def pack_rows(cdir: Path):
         i.get("body_completeness") or "",
         [at[e] for e in (i.get("entities") or [])],
         docid.get(i.get("slug") or "", -1),
+        # Field 12: OSINT's one-line subtitle for the record (`notes-for-corpus` 20).
+        # Empty on everything ingested before 2026-09-05, and an empty string renders
+        # nothing - the backfill over the older records is Bill's to commission, and
+        # until it happens the page must not invent a line for them.
+        i.get("catalogue_hero") or "",
     ] for i in items]
     rows.sort(key=lambda r: r[2], reverse=True)
     return rows, ents
@@ -365,7 +370,8 @@ SCRIPT = r"""
       var dn = DERIVED[r[10][ei]];
       if (dn) alias += ' ' + dn;
     }
-    r._s = (r[0] + ' ' + r[1] + ' ' + r[10].join(' ').replace(/-/g, ' ') + alias).toLowerCase();
+    r._s = (r[0] + ' ' + r[1] + ' ' + (r[12] || '') + ' ' +
+            r[10].join(' ').replace(/-/g, ' ') + alias).toLowerCase();
     // The year facet counts and filters on the *bucket*, not on the year: everything
     // before 2020 is one option (prep/catalogue.md §8). The base thins out fast going
     // back, and a column of single-figure years was most of the facet's height for a
@@ -759,6 +765,10 @@ SCRIPT = r"""
       if (r[8]) tags += '<span class="flag">document held</span>';
       h += '<div class="row"><div class="date">' + (r[2]||'undated') + '</div><div>' +
            '<p class="ttl"><a href="' + r[6] + '" target="_blank" rel="noopener">' + esc(r[0]) + '</a></p>' +
+           // The subtitle OSINT writes onto a record at ingest. Records taken in
+           // before 2026-09-05 carry none, and the line is simply absent for them
+           // rather than standing empty (notes-for-corpus 20).
+           (r[12] ? '<p class="hero">' + esc(r[12]) + '</p>' : '') +
            '<p class="meta">' + esc(r[1] || 'publisher not recorded') + '</p>' +
            '<div class="tags">' + tags + '</div></div></div>';
     });

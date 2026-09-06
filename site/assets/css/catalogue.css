@@ -108,6 +108,12 @@ designer looks for the catalogue's CSS.
 .cat .row{border-bottom:1px solid var(--rule);padding:0.75rem 0;display:grid;grid-template-columns:88px minmax(0,1fr);gap:1rem}
 .cat .row .date{color:var(--ink-faint);font-family:var(--mono);font-size:0.72rem;font-variant-numeric:tabular-nums;padding-top:1px}
 .cat .row .ttl{font-size:0.92rem;margin:0 0 0.15rem;line-height:1.4}
+/* The subtitle OSINT writes onto a record at ingest (notes-for-corpus 20). It sits
+   between the title and the publisher because it says what the document is, which is
+   the question a reader asks before who published it. Set above .meta and below .ttl
+   so the card still reads title-first, and capped for line length: a 120-character
+   line at full card width is a paragraph, not a subtitle. */
+.cat .row .hero{font-size:0.82rem;color:var(--ink-light);margin:0 0 0.2rem;line-height:1.45;max-width:78ch}
 .cat .row .meta{font-size:0.78rem;color:var(--ink-light);margin:0 0 0.3rem}
 .cat .tags{display:flex;flex-wrap:wrap;gap:0.25rem}
 /* The three tag tints are the house badge colours from main.css — grey for a

@@ -86,6 +86,11 @@ def items(rows):
             "slug": d["slug"],
             "path": r["path"],
             "title": txt(fm.get("title")) or d["slug"],
+            # OSINT's one-line English subtitle for the record (`wiki/schemas.md` §4,
+            # from 2026-09-05; `notes-for-corpus` 20). Records ingested before it carry
+            # none and the catalogue renders nothing there - a backfill over them is
+            # Bill's to commission. De-wikilinked like every other free-text field.
+            "catalogue_hero": txt(fm.get("catalogue_hero")),
             "publisher": txt(fm.get("publisher")) or fm.get("publisher") or "",
             "author": txt(fm.get("author")),
             "published": fm.get("published") or "",
