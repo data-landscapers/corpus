@@ -19,21 +19,27 @@ path `C:\OSINT`, `O:\` is not mapped here at all, and `scripts/.workroot/{raw,wi
 pointing into `C:\OSINT` are pointing at the mirror and are correct. `osint_lib.MIRROR` is the
 one constant that says so (`CORPUS_OSINT_MIRROR` overrides).
 
-**Four clocks, and the newest of them is the answer.** None is authoritative alone.
+**Four clocks, and the newest of them is the answer.** None is authoritative alone. Three
+come out of `cycle-manifest.json` and one out of git; nothing here reads a log
+*(2026-09-06, `notes-for-corpus` 16)*.
 
-  1. **`logs/ingested_log.md`'s newest heading** — when `raw/` last took anything in. The moment
-     the corpus itself moved.
-  1a. **`sweep_closed` in the same file** — when collection last stopped, as OSINT states it
-     rather than as Corpus infers it *(from 2026-08-26)*. Half of the bulletin's byline, and
-     read here as its own line because a mirror where the headings move and the stated closes
-     do not is a mirror where OSINT has stopped stamping, which no single reading would show.
-  2. **The rotation table's `End`** — when a cycle last closed. Cruder, a few minutes later
-     than the ingest inside it, and the other half of the byline: the nightly cycle writes no
-     `sweep_closed`, and the two runs that do write no rotation row.
+  1. **`collection.last_admission`** — when `raw/` last took anything in. The moment the
+     corpus itself moved.
+  1a. **`collection.sweep_closed`** — when collection last stopped, as OSINT states it rather
+     than as Corpus infers it *(from 2026-08-26)*. The bulletin's byline, and read here as its
+     own line because a manifest where admissions move and the stated closes do not is one
+     where OSINT has stopped stamping, which no single reading would show.
+  2. **`rotation.newest_close.end`** — when a cycle last closed. Cruder, a few minutes later
+     than the ingest inside it, and it was the other half of the byline while the cycle path
+     wrote no `sweep_closed`; kept as its own line for the same reason as 1a.
   3. **The mirror's `HEAD` commit date** — stamped by OSINT's clock at commit time and carried
      across by the sync, so it moves on *every* OSINT commit rather than only on a cycle. The
-     tightest of the three, and the reading-side analogue of the `git -C O:\ rev-parse HEAD`
+     tightest of the four, and the reading-side analogue of the `git -C O:\ rev-parse HEAD`
      assertion `SWEEP-CYCLE.md` already makes on the writing side.
+
+**A mirror with no readable manifest now scores three of these `None`**, which is the
+UNREADABLE state below rather than a quiet fallback — the whole point of retiring the log
+reads is that Corpus should be loud about a mirror it cannot date, not resourceful.
 
 **Two faults, and a third state that is not a fault.**
 

@@ -59,7 +59,7 @@ agree with the headings it jumps to.
 
 **Last updated is OSINT's clock, not this script's** *(Bill, 2026-08-21)*. The build runs after
 the sweep cycle closes, so the answer to *when was this page last updated* that is about the
-reader's material rather than about us comes from the mirror's `logs/ingested_log.md`. Where the
+reader's material rather than about us comes from the mirror's `cycle-manifest.json`. Where the
 mirror cannot be read the build clock stands in, and the run says so rather than passing one off
 as the other.
 
@@ -85,27 +85,24 @@ OSINT's working day, and no value for it would have been right.
 
 **It is now read, not derived** *(OSINT `notes-for-corpus.md` note 13, acted on 2026-08-27)*.
 From 2026-08-26 OSINT stamps `sweep_closed` — the moment after which nothing more could have been
-caught — on a line under the run's own `ingested_log.md` heading. `osint_lib.sweep_closed()` reads
-it, the clustering is gone, and there is nothing left to infer.
+caught — on every path that admits anything to `raw/`, and `cycle-manifest.json` carries it.
+`osint_lib.sweep_closed()` reads that, the clustering is gone, and there is nothing left to infer.
 
-**Two artefacts are read rather than one, because neither covers everything yet.** `sweep_closed`
-is stamped by `@UPDATE-WIKI` and `SWEEP-BULLETIN`; the nightly `SWEEP-CYCLE` path is not stamped
-and instead writes a rotation row whose `End` is its own true record of collection stopping
-(`osint_lib.last_cycle_close()`). The cycle deliberately writes no row for the other two — a run
-at 11:00 must not shorten tonight's window — so each artefact is silent about what the other
-records, and **the byline takes the later of the two**: the point after which nothing *in the
-base* could have been caught, which is what it claims. On the night of 2026-08-26 the cycle's
-five slices went in unstamped between 21:17 and 03:25 with `End` at 03:55, while the newest
-`sweep_closed` was 17:22 — ten hours apart, and the later one is right. `notes-for-osint.md` note
-49 asks OSINT to stamp the cycle path too, which would make the close redundant rather than wrong.
-A close in the future beyond `osint_lib.SKEW` is refused, being a claim about work that has not
-happened.
+**One artefact, and one reading of it** *(note 16, acted on 2026-09-06)*. The byline used to take
+the later of `sweep_closed` and the sweep cycle's own rotation `End`, because each artefact was
+silent about the runs the other recorded: the nightly cycle wrote no `sweep_closed`, and the two
+runs that did wrote no rotation row. The manifest is written by every pass that mirrors and
+states collection itself, so the comparison has nothing left to do — `sweep_closed` is collection,
+which is what the byline claims, and a rotation `End` is a pass finishing, which is a later
+moment about different work. Where the two now differ the byline is the earlier of them, and it
+understates rather than overstates. A close in the future beyond `osint_lib.SKEW` is refused,
+being a claim about work that has not happened.
 
-**The fallbacks are for absence, never for disagreement.** A mirror synced before 2026-08-26
-carries no `sweep_closed` and answers from the cycle close alone; a mirror where neither can be
-read answers from the newest ingest heading, which is an **upper** bound and the one reading here
-that can overstate — by however long the ingest behind it ran, minutes on a top-up and hours on a
-night's catch. The build clock stands in only where the mirror cannot be read at all. Each case
+**The fallbacks are for absence, never for disagreement, and there are two left.** A mirror whose
+manifest cannot be read — absent, half-copied, or written to a schema this does not know —
+answers from the newest admission, which is an **upper** bound and the one reading here that can
+overstate: by however long the ingest behind it ran, minutes on a top-up and hours on a night's
+catch. The build clock stands in only where nothing on the mirror can be read at all. Each case
 returns its own source string and `--assemble` prints it, because a fallback nobody is told about
 is a fallback that becomes the normal case without anyone noticing.
 
@@ -732,27 +729,24 @@ BUILD_CLOCK = "build clock (mirror unreadable)"
 def stamps_for(now: datetime | None = None) -> tuple[str, str, str]:
     """`(collected_to, compiled, where they came from)`, each `YYYY-MM-DD HH:MM`.
 
-    `compiled` is the newest ingest stamp. `collected_to` is when collection stopped, and it is
+    `compiled` is the newest admission. `collected_to` is when collection stopped, and it is
     **read rather than derived** — `osint_lib.collected_to()` holds the whole of that policy,
     because a claim the published byline makes should have one definition and not a copy of one
-    here. Since the cycle manifest it is OSINT's own `sweep_closed`; before it, the later of
-    that and the cycle's `End`.
+    here. It is OSINT's own `sweep_closed`, out of the cycle manifest.
 
-    A stated close in the future is refused inside that policy, before any comparison, because
-    there is one closing row and a mistyped `End` would otherwise suppress a `sweep_closed`
-    that was perfectly good. **Where nothing states a close, the newest ingest heading stands
-    in** as
-    an upper bound that overstates by however long the ingest behind it ran, and the build clock
-    only where the mirror cannot be read at all. The source is returned rather than logged so
-    `--assemble` can print it: a fallback nobody is told about is a fallback that becomes the
-    normal case without anyone noticing."""
+    A stated close in the future is refused inside that policy, because there is one stated
+    close and nothing to outvote a mistyped one. **Where none can be read, the newest admission
+    stands in** as an upper bound that overstates by however long the ingest behind it ran, and
+    the build clock only where nothing on the mirror can be read at all. The source is returned
+    rather than logged so `--assemble` can print it: a fallback nobody is told about is a
+    fallback that becomes the normal case without anyone noticing."""
     newest = osint_lib.last_ingest()
     if newest is None:
         return ((now or datetime.now()).strftime(osint_lib.TS),) * 2 + (BUILD_CLOCK,)
 
     collected, source = osint_lib.collected_to(now)
     if collected is None:
-        collected, source = newest, "OSINT ingest heading — an upper bound, no stated close"
+        collected, source = newest, "OSINT's newest admission — an upper bound, no stated close"
     return collected.strftime(osint_lib.TS), newest.strftime(osint_lib.TS), source
 
 

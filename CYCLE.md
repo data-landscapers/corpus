@@ -48,7 +48,7 @@ Both halves forbid stopping to ask, and the cycle inherits that whole. A cycle *
 
 ## What starts a cycle — `scripts/osint-cycle-ready.py`
 
-**A cycle is owed when a sweep cycle has closed and Corpus has not built since.** The discriminator is the **closed row**, not the mirror copy: `SWEEP-CYCLE` writes `End` into `logs/sweep-cycle_log.md` and commits *before* it mirrors, so `max(End)` advances on a close and nothing else, and reading a new `End` from the mirror is itself the proof the mirror carried it. `osint-cycle-ready.py` is that judgement: exit **0** ready, **1** not ready, **2** needs a human.
+**A cycle is owed when a sweep cycle has closed and Corpus has not built since.** The discriminator is the **closed row**, not the mirror copy: `SWEEP-CYCLE` writes the row's `End` into `cycle-manifest.json` as `rotation.newest_close.end` and commits *before* it mirrors, so that stamp advances on a close and nothing else, and reading a new one from the mirror is itself the proof the mirror carried it. `osint-cycle-ready.py` is that judgement: exit **0** ready, **1** not ready, **2** needs a human.
 
 **Poll it from a session left open:**
 

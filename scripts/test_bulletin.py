@@ -100,30 +100,38 @@ class Bench:
                  for r in rows}
         bulletin.save_store(store)
 
-    def stamp(self, when: str | None, swept: str | None = None,
-              closed: str | None = None) -> None:
-        """Pin OSINT's three clocks. `when` is the newest ingest stamp, which becomes `compiled:`;
-        `swept` is OSINT's stated `sweep_closed`; `closed` is the sweep cycle's own `End`. The
-        byline is the later of the last two. `None` is unreadable — for `when` that is an
-        unreadable mirror and nothing is readable, and a case pinning neither `swept` nor
-        `closed` is pinning the last fallback, where the newest ingest heading stands as an
-        upper bound."""
+    def stamp(self, when: str | None) -> None:
+        """Pin the newest admission, which becomes `compiled:`, and put the manifest out of reach.
+
+        `when` is what `osint_lib.last_ingest()` answers; `None` is an unreadable mirror, where
+        nothing is readable at all. **It no longer pins the byline** *(2026-09-06,
+        `notes-for-corpus` 16)*: `collected_to()` reads the manifest itself rather than calling
+        the two readers this used to stub, so a case that wants a stated close writes one with
+        `manifest()`. A case that calls only this is pinning the fallback, where the newest
+        admission stands as an upper bound.
+
+        The manifest is repointed at a path that does not exist because the module default
+        names the real mirror, and a case left on it would be measuring that instead of its own
+        fixture."""
         parse = lambda t: dt.datetime.strptime(t, "%Y-%m-%d %H:%M") if t else None
         bulletin.osint_lib.last_ingest = lambda: parse(when)
-        bulletin.osint_lib.sweep_closed = lambda: parse(swept)
-        bulletin.osint_lib.last_cycle_close = lambda: parse(closed)
-        # These three are the fallback path, so the manifest has to be out of the way or it
-        # answers first and the case is testing the live mirror instead of its own fixture.
         bulletin.osint_lib.MANIFEST = str(Path(tempfile.gettempdir()) / "no-such-manifest.json")
 
-    def manifest(self, tmp: Path, **collection: str) -> None:
+    def manifest(self, tmp: Path, rotation_end: str | None = None, **collection: str) -> None:
         """Put a schema-1 manifest on a stand-in mirror, so the manifest path is exercised.
 
-        No `head`, because the head check is against a real git repo and what this case is
-        about is the reading rather than the copy."""
+        `rotation_end` writes a `newest_close` beside the collection stamps, for the cases that
+        show the byline no longer looks at it. No `head`, because the head check is against a
+        real git repo and what these cases are about is the reading rather than the copy."""
+        data: dict = {"schema": 1, "collection": collection}
+        if rotation_end is not None:
+            data["rotation"] = {"days": 5, "in_progress": [],
+                                "newest_close": {"day": "3", "jobs": ["SWEEP-COUNTRY-DEEP"],
+                                                 "start": rotation_end, "end": rotation_end,
+                                                 "duration": "1:00", "skipped": False,
+                                                 "in_progress": False}}
         path = tmp / "cycle-manifest.json"
-        path.write_text(json.dumps({"schema": 1, "collection": collection}),
-                        encoding="utf-8")
+        path.write_text(json.dumps(data), encoding="utf-8")
         bulletin.osint_lib.MANIFEST = str(path)
 
     def assemble(self) -> str:
@@ -451,7 +459,8 @@ def case_the_byline_is_when_collection_stopped_not_when_ingest_finished(tmp):
     hours. Both facts are kept, because the edition picker asks the other question — how late is
     the newest thing in this cut."""
     b = Bench(tmp, [row("only", TODAY, "KEN", "gov.policy")])
-    b.stamp("2026-05-14 05:20", swept="2026-05-13 23:55")
+    b.stamp("2026-05-14 05:20")
+    b.manifest(tmp, sweep_closed="2026-05-13 23:55")
     b.assemble()
     text = b.document()
     assert "Last updated 13-05-2026 at 23:55" in text, \
@@ -467,48 +476,37 @@ def case_a_run_that_only_ingests_later_does_not_move_the_byline(tmp):
     The stamps move apart, `compiled:` follows the newest and the byline does not move at all —
     which is the whole point of separating them. Nothing was collected in those hours."""
     b = Bench(tmp, [row("only", TODAY, "KEN", "gov.policy")])
-    b.stamp("2026-05-14 02:00", swept="2026-05-13 23:55")
+    b.stamp("2026-05-14 02:00")
+    b.manifest(tmp, sweep_closed="2026-05-13 23:55")
     b.assemble()
-    b.stamp("2026-05-14 05:20", swept="2026-05-13 23:55")
+    b.stamp("2026-05-14 05:20")
+    b.manifest(tmp, sweep_closed="2026-05-13 23:55")
     b.assemble()
     text = b.document()
     assert "Last updated 13-05-2026 at 23:55" in text, "the byline moved on a later ingest"
     assert "compiled: 2026-05-14 05:20" in text, "compiled: did not follow the newest ingest"
 
 
-def case_sweep_closed_outranks_a_cycle_close_it_is_newer_than(tmp):
-    """The top-up case, which is what broke the derivation this replaced.
+def case_the_rotation_close_does_not_compete_with_the_stated_one(tmp):
+    """The byline is `sweep_closed` alone, and a later rotation `End` does not displace it.
 
-    On 2026-08-26 the cycle had closed at 22:57 the night before and three later runs — two
-    `@UPDATE-WIKI` ingests and a bulletin top-up — collected on into the morning. The cycle
-    writes no rotation row for any of them, so its `End` is yesterday's, and the byline has to
-    come from the runs that did the collecting."""
+    This is the case that used to run the other way. While Corpus read OSINT's logs, the two
+    artefacts were silent about different runs — the nightly cycle wrote no `sweep_closed` and
+    the two runs that did wrote no rotation row — so `collected_to()` took whichever was later.
+    The manifest is written by every pass that mirrors and states collection itself, so note 16
+    retires the comparison: `sweep_closed` is collection and the rotation `End` is a pass
+    finishing, which is a later moment about different work. A rotation row closing at 03:55
+    over collection stated at 23:55 therefore understates the page by four hours, which is the
+    direction this repo errs in on purpose."""
     b = Bench(tmp, [row("only", TODAY, "KEN", "gov.policy")])
-    b.stamp("2026-05-14 12:20", swept="2026-05-14 11:49", closed="2026-05-13 22:57")
+    b.stamp("2026-05-14 03:25")
+    b.manifest(tmp, sweep_closed="2026-05-13 23:55", rotation_end="2026-05-14 03:55")
     out = b.assemble()
     text = b.document()
-    assert "Last updated 14-05-2026 at 11:49" in text, \
-        f"yesterday's cycle close outranked today's stated sweep close:\n{text[:400]}"
-    assert "compiled: 2026-05-14 12:20" in text, "compiled: lost the newest ingest"
-    assert "sweep_closed" in out, f"the run did not say which clock it used:\n{out}"
-
-
-def case_a_cycle_close_carries_the_path_that_does_not_stamp(tmp):
-    """The nightly sweep writes no `sweep_closed`, and its own `End` is the later fact.
-
-    Checked against the mirror on 2026-08-27: every `@UPDATE-WIKI` and `SWEEP-BULLETIN` run
-    since 2026-08-26 12:20 carries the line and the five nightly-cycle slices of that night do
-    not. Reading `sweep_closed` alone would have dated a page built on material collected past
-    three in the morning to the previous afternoon. The two artefacts are silent about different
-    runs, so the byline takes whichever is later and names it."""
-    b = Bench(tmp, [row("only", TODAY, "KEN", "gov.policy")])
-    b.stamp("2026-05-14 03:25", swept="2026-05-13 17:22", closed="2026-05-14 03:55")
-    out = b.assemble()
-    text = b.document()
-    assert "Last updated 14-05-2026 at 03:55" in text, \
-        f"the unstamped cycle's own close did not reach the byline:\n{text[:400]}"
-    assert "collected_to: 2026-05-14 03:55" in text, "collected_to: is not the close"
-    assert "sweep cycle close" in out, f"the run did not name the clock it used:\n{out}"
+    assert "Last updated 13-05-2026 at 23:55" in text, \
+        f"the rotation close displaced OSINT's stated close of collection:\n{text[:400]}"
+    assert "collected_to: 2026-05-13 23:55" in text, "collected_to: is not the stated close"
+    assert "cycle manifest" in out, f"the run did not name the clock it used:\n{out}"
 
 
 def case_a_mirror_with_no_stated_close_falls_back_and_says_so(tmp):
@@ -527,30 +525,33 @@ def case_a_mirror_with_no_stated_close_falls_back_and_says_so(tmp):
 
 
 def case_a_close_in_the_future_is_refused(tmp):
-    """One mistyped `End` is the whole column.
+    """One mistyped stamp is the whole byline, because there is one stated close and no vote.
 
-    `_newest_stamp` drops a future ingest stamp because a maximum over many stamps is exactly
-    what a single mistyped one poisons. There is only one closing row, so the same guard has to
-    sit at the caller, or a fat-fingered year becomes a claim that collection stopped in 2099."""
+    A fat-fingered year would otherwise become a claim that collection stopped in 2099, and
+    the page would carry it. The stamp is refused and `stamps_for()` falls to the newest
+    admission as an upper bound, which overstates by however long that ingest ran — stale in
+    the direction of the truth rather than false in the direction of the future."""
     b = Bench(tmp, [row("only", TODAY, "KEN", "gov.policy")])
-    b.stamp("2026-05-14 05:20", swept="2026-05-13 23:55", closed="2099-01-01 00:00")
+    b.stamp("2026-05-14 05:20")
+    b.manifest(tmp, sweep_closed="2099-01-01 00:00")
     out = b.assemble()
     text = b.document()
-    assert "Last updated 13-05-2026 at 23:55" in text, \
+    assert "Last updated 14-05-2026 at 05:20" in text, \
         f"a future close reached the byline:\n{text[:400]}"
-    assert "sweep_closed" in out, f"the run did not name the clock it used:\n{out}"
+    assert "upper bound" in out, f"the run did not name the fallback as a bound:\n{out}"
 
 
 def case_the_manifest_answers_on_its_own(tmp):
-    """With a manifest, `sweep_closed` is the byline and the later-of-two reading is gone.
+    """`sweep_closed` is the byline, and `compiled:` is the manifest's own last admission.
 
-    The comparison existed because neither source covered every path that admits to `raw/`.
-    The manifest is written by both passes that mirror, so it covers what each half was
-    missing - which is why a cycle close *newer* than the stated collection close no longer
-    outranks it. Collection is what the byline claims (OSINT `notes-for-corpus` 16)."""
+    The two stamps answer two questions and both come out of one file now: what the byline
+    claims is collection, and what the edition picker shows is how late the newest thing in
+    the cut is (OSINT `notes-for-corpus` 16). This is the ordinary path — everything else in
+    this group is a refusal or a fallback."""
     b = Bench(tmp, [row("only", TODAY, "KEN", "gov.policy")])
-    b.stamp("2026-05-14 05:20", swept="2026-05-13 23:55", closed="2026-05-14 04:00")
-    b.manifest(tmp, sweep_closed="2026-05-13 21:00", last_admission="2026-05-14 05:20")
+    b.stamp("2026-05-14 05:20")
+    b.manifest(tmp, sweep_closed="2026-05-13 21:00", last_admission="2026-05-14 05:20",
+               rotation_end="2026-05-14 04:00")
     out = b.assemble()
     text = b.document()
     assert "Last updated 13-05-2026 at 21:00" in text, (
@@ -560,13 +561,15 @@ def case_the_manifest_answers_on_its_own(tmp):
 
 
 def case_a_manifest_naming_an_unknown_commit_is_refused(tmp):
-    """A `head` outside the mirror's history sends the reading back to the logs.
+    """A `head` outside the mirror's history is refused, and nothing stands in for it.
 
-    Equality with HEAD is too strict — only the two mirroring passes write a manifest, so a
-    `head` trailing HEAD is ordinary and its stamps merely understate. A commit the mirror
-    has never held is the real fault, and the logs describe the tree that is actually here."""
+    Equality with HEAD is too strict — only a mirroring pass writes a manifest, so a `head`
+    trailing HEAD is ordinary and its stamps merely understate. A commit the mirror has never
+    held is the real fault: the tree and the account of it came from different histories.
+    There is no log to fall back to since 2026-09-06, so the byline drops to the newest
+    admission as an upper bound and the run says so."""
     b = Bench(tmp, [row("only", TODAY, "KEN", "gov.policy")])
-    b.stamp("2026-05-14 05:20", swept="2026-05-13 23:55")
+    b.stamp("2026-05-14 05:20")
     b.manifest(tmp, sweep_closed="2026-05-13 21:00")
     # A real repo at the manifest's side, holding a commit the manifest does not name.
     import subprocess
@@ -581,9 +584,9 @@ def case_a_manifest_naming_an_unknown_commit_is_refused(tmp):
                                 "collection": {"sweep_closed": "2026-05-13 21:00"}}),
                     encoding="utf-8")
     out = b.assemble()
-    assert "Last updated 13-05-2026 at 23:55" in b.document(), (
+    assert "Last updated 14-05-2026 at 05:20" in b.document(), (
         f"a manifest from another history reached the byline:\n{b.document()[:400]}")
-    assert "no manifest" in out, f"the run did not say it had fallen back:\n{out}"
+    assert "upper bound" in out, f"the run did not say it had fallen back:\n{out}"
 
 
 def case_a_manifest_stamp_is_read_as_local(tmp):
@@ -632,10 +635,8 @@ CASES = [
      case_the_byline_is_when_collection_stopped_not_when_ingest_finished),
     ("a later ingest of the same catch does not move the byline",
      case_a_run_that_only_ingests_later_does_not_move_the_byline),
-    ("sweep_closed outranks a cycle close it is newer than",
-     case_sweep_closed_outranks_a_cycle_close_it_is_newer_than),
-    ("a cycle close carries the path that does not stamp",
-     case_a_cycle_close_carries_the_path_that_does_not_stamp),
+    ("the rotation close does not compete with the stated one",
+     case_the_rotation_close_does_not_compete_with_the_stated_one),
     ("a mirror with no stated close falls back and says so",
      case_a_mirror_with_no_stated_close_falls_back_and_says_so),
     ("a close in the future is refused",

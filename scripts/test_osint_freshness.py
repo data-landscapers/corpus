@@ -7,10 +7,20 @@ anything. What it guards is worse than a late backup — a stale mirror means Co
 reports and publishes from old evidence without saying so — so the fault paths are the part
 that has to be shown working.
 
-Each case builds a synthetic mirror in a temp directory: `logs/ingested_log.md`,
-`logs/sweep-cycle_log.md`, a watermark file, and a stubbed `HEAD` commit date standing in for
-the one git would report. The module's constants are repointed at it and the exit code
-asserted.
+Each case builds a synthetic mirror in a temp directory holding one file,
+`cycle-manifest.json`, plus a watermark and a stubbed `HEAD` commit date standing in for the
+one git would report. The module's constants are repointed at it and the exit code asserted.
+
+**The log fixtures went with the log reads** *(2026-09-06, `notes-for-corpus` 16)*. Two
+suites here used to build `logs/ingested_log.md` and `logs/sweep-cycle_log.md` and pin the
+forensics that parsing them needed — a heading four hours in the reader's future, a
+date-only heading read at midnight, a queue-drain whose `sweep_closed` walked backwards.
+Every one of those was a defence against a format Corpus did not own. What replaces them is
+`manifest_cases()`: the manifest is refused, loudly, when it is a schema this does not know
+or an account of a tree the mirror is not holding. **Fewer cases guarding a smaller
+surface** is the point of the change and not a loss of cover — but the one thing that must
+not go with them is the demand that an unreadable mirror be reported rather than
+substituted for, which is what the last two `CASES` rows are.
 
     python scripts/test_osint_freshness.py
 """
@@ -47,221 +57,176 @@ def stamp(hours: float) -> str:
     return ago(hours).strftime(TS)
 
 
-def ingest_log(hours: float) -> str:
-    """Newest-first, as OSINT writes it — so the second heading is deliberately older."""
-    return (f"## {stamp(hours)} (ingest Phase A, slice 4/10 — 10 items in, 8 admitted)\n"
-            f"- something\n\n"
-            f"## {stamp(hours + 48)} (ingest Phase A, slice 3/10)\n")
+def manifest(admission: float | None = None, closed: float | None = None,
+             close_end: float | None = None, in_progress: list[str] | None = None,
+             schema: int = 1) -> str:
+    """The cycle manifest as OSINT writes it, with the fields these cases read.
+
+    `head` is deliberately absent. `read_manifest` only compares it against the mirror's own
+    HEAD, and a temp directory is not a git repository, so a `head` here would be checked
+    against a `None` and skipped — a fixture field nothing reads is a fixture field that will
+    one day be wrong without anything noticing."""
+    data: dict = {"schema": schema, "written_utc": stamp(0), "pass": "sweep cycle"}
+    collection = {}
+    if admission is not None:
+        collection["last_admission"] = stamp(admission)
+    if closed is not None:
+        collection["sweep_closed"] = stamp(closed)
+    if collection:
+        data["collection"] = collection
+    rotation: dict = {"days": 5, "in_progress": in_progress or []}
+    if close_end is not None:
+        rotation["newest_close"] = {"day": "3", "jobs": ["SWEEP-COUNTRY-DEEP"],
+                                    "start": stamp(close_end + 1), "end": stamp(close_end),
+                                    "duration": "1:00", "skipped": False,
+                                    "in_progress": False}
+    data["rotation"] = rotation
+    return json.dumps(data, indent=1)
 
 
-def cycle_table(*ends: float) -> str:
-    rows = "".join(
-        f"| {n + 1} | SWEEP-X | {stamp(h + 1)} | {stamp(h)} | 1h | |\n"
-        for n, h in enumerate(ends))
-    return ("| Day | Process | Start | End | Duration | New-Start |\n"
-            "|-----|---------|-------|-----|----------|-----------|\n" + rows)
-
-
-# (name, ingest hours ago | None, cycle End hours ago tuple, HEAD hours ago | None,
-#  watermark hours ago | None, argv extras, expected exit)
-CASES: list[tuple[str, float | None, tuple[float, ...], float | None, float | None,
+# (name, admission hours ago | None, sweep_closed hours ago | None, close End hours ago | None,
+#  HEAD hours ago | None, watermark hours ago | None, argv extras, expected exit).
+# A `None` for all three manifest stamps means no manifest is written at all.
+CASES: list[tuple[str, float | None, float | None, float | None, float | None, float | None,
                   list[str], int]] = [
     (
         "everything fresh",
-        1.0, (2.0,), 0.5, 2.0, [], 0,
+        1.0, 1.1, 2.0, 0.5, 2.0, [], 0,
     ),
     (
         "quiet between cycles — 70 minutes behind is the normal state",
-        1.2, (1.2,), 1.2, 1.2, [], 0,
+        1.2, 1.2, 1.2, 1.2, 1.2, [], 0,
     ),
     (
         "the whole mirror is three days old",
-        24 * 3.5, (24 * 3.5,), 24 * 3.5, 24 * 3.5, [], 1,
+        24 * 3.5, 24 * 3.5, 24 * 3.5, 24 * 3.5, 24 * 3.5, [], 1,
     ),
     (
         "old, but inside a raised ceiling",
-        24 * 3.5, (24 * 3.5,), 24 * 3.5, 24 * 3.5, ["--max-age-hours", "200"], 0,
+        24 * 3.5, 24 * 3.5, 24 * 3.5, 24 * 3.5, 24 * 3.5, ["--max-age-hours", "200"], 0,
     ),
     (
         "HEAD alone is fresh — an OSINT commit outside a cycle still counts",
-        24 * 5, (24 * 5,), 1.0, 24 * 5, [], 0,
+        24 * 5, 24 * 5, 24 * 5, 1.0, 24 * 5, [], 0,
     ),
     (
-        "ingest alone is fresh, git unreadable",
-        1.0, (24 * 5,), None, 24 * 5, [], 0,
+        "the manifest alone is fresh, git unreadable",
+        1.0, 1.1, 2.0, None, 24 * 5, [], 0,
     ),
     (
         "regressed — the mirror's newest close predates the one Corpus built",
-        1.0, (30.0,), 0.5, 2.0, [], 1,
+        1.0, 1.1, 30.0, 0.5, 2.0, [], 1,
     ),
     (
         "not regressed — the newest close is the one Corpus built",
-        1.0, (2.0,), 0.5, 2.0, [], 0,
-    ),
-    (
-        "regression is read from the newest close, not the last row",
-        1.0, (2.0, 30.0), 0.5, 2.0, [], 0,
+        1.0, 1.1, 2.0, 0.5, 2.0, [], 0,
     ),
     (
         "no watermark yet — a first run is not a regression",
-        1.0, (2.0,), 0.5, None, [], 0,
+        1.0, 1.1, 2.0, 0.5, None, [], 0,
     ),
     (
         "nothing readable at all",
-        None, (), None, 2.0, [], 2,
+        None, None, None, None, 2.0, [], 2,
     ),
     (
         "an unreadable mirror is not reported as merely stale",
-        None, (), None, 24 * 9, ["--max-age-hours", "1"], 2,
+        None, None, None, None, 24 * 9, ["--max-age-hours", "1"], 2,
     ),
 ]
 
 
-def ahead(**delta) -> str:
-    """A heading stamped `delta` in the future, as a mistyped one reads."""
-    when = dt.datetime.now() + dt.timedelta(**delta)
-    return f"## {when:%Y-%m-%d %H:%M} (ingest Phase A slice ingest-33)" + chr(10)
+def manifest_cases() -> tuple[int, int]:
+    """The manifest is the whole interface now, so its refusals are the whole of the guard.
 
-
-def dateless(hours: float) -> str:
-    """A heading carrying a date and no time, as OSINT has written them since 2026-08-23."""
-    return (f"## {ago(hours):%Y-%m-%d} (ingest Phase A - bulletin sweep, slice 1 of 3; "
-            f"10 items in, 6 admitted)" + chr(10))
-
-
-def midnight(hours: float) -> str:
-    """Midnight of the day `hours` ago — what `dateless(hours)` is expected to read as."""
-    return ago(hours).replace(hour=0, minute=0).strftime(TS)
-
-
-def stamp_cases() -> int:
-    """`last_ingest()` takes the maximum, so one mistyped heading outranks every correct one.
-
-    2026-08-23: `ingest-33` ran at 01:12 and was written into `ingested_log.md` as `12:00`, and
-    the bulletin byline then told readers the page had last been updated four hours into the
-    reader's future. The reading is dropped and the newest true stamp stands in its place — a
-    slightly stale answer rather than a false one."""
+    Three of these were written when the manifest was one source among two and a refusal
+    only meant *fall back to the logs*. Since 2026-09-06 a refusal means Corpus has no
+    reading of OSINT's clocks at all, which is a louder thing and worth pinning harder: an
+    unknown schema and a half-copied file must both come back `None` **with a reason**, never
+    as a plausible-looking stamp."""
     failures = 0
-    saved = (osint_lib.INGESTED_LOG, osint_lib.MANIFEST)
-    tmp = Path(tempfile.mkdtemp(prefix="osint-stamp-test-"))
+    saved = osint_lib.MANIFEST
+    tmp = Path(tempfile.mkdtemp(prefix="osint-manifest-test-"))
     try:
-        (tmp / "logs").mkdir()
-        osint_lib.INGESTED_LOG = str(tmp / "logs" / "ingested_log.md")
-        # No manifest here: these cases are about reading the log, and the module default
-        # names the real mirror, whose manifest would answer before the fixture did.
         osint_lib.MANIFEST = str(tmp / "cycle-manifest.json")
-        log = Path(osint_lib.INGESTED_LOG)
-        skew = dt.datetime.now() + dt.timedelta(minutes=2)
+        path = Path(osint_lib.MANIFEST)
 
-        cases: list[tuple[str, str, str | None]] = [
-            ("the newest true stamp wins",
-             ingest_log(1.0), stamp(1.0)),
-            ("a stamp four hours into the future is ignored",
-             ahead(hours=4) + ingest_log(1.0), stamp(1.0)),
-            ("skew of a minute or two is believed, not thrown away",
-             f"## {skew:%Y-%m-%d %H:%M} (ingest 33)" + chr(10), skew.strftime(TS)),
-            ("a file of nothing but future stamps reads as unreadable, not as fresh",
-             ahead(days=1), None),
-            # 2026-08-24. OSINT dropped the time from the heading on 2026-08-23 and 21 of the
-            # 63 headings then carried a date alone. Unread, they were not a gap in the answer
-            # but a wrong one: both readers fell back to the newest heading that still had a
-            # time on it, `2026-08-23 10:20`, on an afternoon when that morning's sweep had
-            # admitted 16 records — and the bulletin byline states this file as fact.
-            ("a heading dated with no time is read, at midnight",
-             dateless(1.0), midnight(1.0)),
-            ("a date-only heading cannot outrank a timed one later the same day",
-             dateless(1.0) + f"## {stamp(1.0)} (ingest Phase A slice 2)" + chr(10), stamp(1.0)),
-            ("today's date-only heading still beats yesterday's timed one",
-             dateless(1.0) + f"## {stamp(25.0)} (ingest Phase A slice 1)" + chr(10),
-             midnight(1.0)),
+        # (name, file text or None, expected sweep_closed, a word the reason must carry)
+        cases: list[tuple[str, str | None, str | None, str]] = [
+            ("a manifest answers the byline",
+             manifest(admission=1.0, closed=1.1, close_end=2.0), stamp(1.1), "manifest"),
+            ("no manifest is None, not today",
+             None, None, "no cycle manifest"),
+            ("a half-copied manifest will not parse and is refused",
+             '{"schema": 1, "collection": {"sweep_cl', None, "half-copied"),
+            ("a schema this reader does not know is refused, not guessed at",
+             manifest(admission=1.0, closed=1.1, close_end=2.0, schema=99), None, "schema"),
+            ("a manifest that is not an object at all is refused",
+             '["schema", 1]', None, "not an object"),
+            ("a manifest carrying no collection block answers None",
+             manifest(close_end=2.0), None, "manifest"),
         ]
-        for name, text, expected in cases:
-            log.write_text(text, encoding="utf-8")
+        for name, text, expected, word in cases:
+            if text is None:
+                path.unlink(missing_ok=True)
+            else:
+                path.write_text(text, encoding="utf-8")
             with redirect_stdout(io.StringIO()), redirect_stderr(io.StringIO()):
-                got = osint_lib.last_ingest()
+                got = osint_lib.sweep_closed()
+                _data, why = osint_lib.read_manifest()
             got_s = got.strftime(TS) if got else None
-            ok = got_s == expected
+            ok = got_s == expected and word.lower() in why.lower()
             failures += not ok
-            verdict = "ok  " if ok else "FAIL"
-            print(f"  {verdict} {name}  (expected {expected}, got {got_s})")
+            print(f"  {'ok  ' if ok else 'FAIL'} {name}  "
+                  f"(expected {expected}, got {got_s}; reason: {why[:70]})")
     finally:
-        (osint_lib.INGESTED_LOG, osint_lib.MANIFEST) = saved
+        osint_lib.MANIFEST = saved
         shutil.rmtree(tmp, ignore_errors=True)
     return failures, len(cases)
 
 
-def heads(*runs) -> str:
-    """An ingest log, newest first as OSINT writes it.
+def collected_to_cases() -> tuple[int, int]:
+    """`collected_to()` is the bulletin byline's one claim, and it publishes what it returns.
 
-    Each argument is either `hours_ago` for an unstamped run, or `(hours_ago, closed_hours_ago)`
-    for one carrying the `sweep_closed` line OSINT has written under every `@UPDATE-WIKI` and
-    `SWEEP-BULLETIN` heading since 2026-08-26. The blank line between heading and line is there
-    because the mirror has one, and a reader that only looked at the very next line would find
-    nothing on the real file."""
-    out = []
-    for n, item in enumerate(sorted(runs, key=lambda r: r[0] if isinstance(r, tuple) else r,
-                                    reverse=True)):
-        head, closed = item if isinstance(item, tuple) else (item, None)
-        out.append(f"## {stamp(head)} (ingest Phase A slice {n})" + chr(10) + chr(10))
-        if closed is not None:
-            out.append(f"sweep_closed: {stamp(closed)} " + chr(183) +
-                       f" ingest_started: {stamp(head)}" + chr(10) + chr(10))
-    return "".join(out)
-
-
-def sweep_closed_cases() -> int:
-    """`sweep_closed()` is the bulletin's byline: when collection stopped, as OSINT states it.
-
-    It replaced a derivation on 2026-08-27 (`notes-for-corpus.md` note 13). Corpus used to find
-    the newest ingest *run* by clustering headings with no gap wider than four hours and take
-    its earliest heading, and that failed twice in three days in opposite directions — merging a
-    top-up into a nightly sweep, then merging three morning runs. There is nothing left to
-    infer, so what these cases guard is the reading itself: the maximum rather than the newest
-    run's own value, the mixed file, and the absence that is the only case a fallback is kept
-    for."""
+    It used to take the later of two readings because neither `sweep_closed` nor the cycle's
+    `End` covered every path that admits to `raw/`; the manifest is written by every pass
+    that mirrors, so `sweep_closed` answers alone (`notes-for-corpus` 16). What is left to
+    guard is the refusal: a stated close in the reader's future is a claim about work that
+    has not happened, and it must come back `None` so `bulletin.stamps_for()` falls to
+    something it can defend rather than publishing it."""
     failures = 0
-    saved = (osint_lib.INGESTED_LOG, osint_lib.MANIFEST)
-    tmp = Path(tempfile.mkdtemp(prefix="osint-closed-test-"))
+    saved = osint_lib.MANIFEST
+    tmp = Path(tempfile.mkdtemp(prefix="osint-collected-test-"))
     try:
-        (tmp / "logs").mkdir()
-        osint_lib.INGESTED_LOG = str(tmp / "logs" / "ingested_log.md")
-        # No manifest here: these cases are about reading the log, and the module default
-        # names the real mirror, whose manifest would answer before the fixture did.
         osint_lib.MANIFEST = str(tmp / "cycle-manifest.json")
-        log = Path(osint_lib.INGESTED_LOG)
+        path = Path(osint_lib.MANIFEST)
 
-        cases: list[tuple[str, str, str | None]] = [
-            ("the newest run's stated close",
-             heads((6.0, 6.2), (2.0, 2.1)), stamp(2.1)),
-            # A run draining a queue others staged stamps the newest `retrieved:` across what it
-            # admitted, which can be older than the run before it. True of that run, false of
-            # the page, which carries every run's material.
-            ("a queue-drain cannot walk the byline backwards",
-             heads((6.0, 6.2), (2.0, 200.0)), stamp(6.2)),
-            ("an unstamped newest run answers from the newest stamped one",
-             heads((6.0, 6.2), 2.0), stamp(6.2)),
-            ("a log with no sweep_closed anywhere is None, which is the fallback case",
-             heads(6.0, 2.0), None),
-            ("nothing readable is None, not today",
-             "", None),
-            # The line belongs to the heading above it. A `sweep_closed` later than its own
-            # heading says collection stopped after the ingest that read it, which is a typo.
-            ("a close later than its own heading is refused",
-             heads((6.0, 6.2), (2.0, 1.0)), stamp(6.2)),
-            ("a close in the future is refused with the run that carries it",
-             heads((6.0, 6.2), (2.0, -48.0)), stamp(6.2)),
+        cases: list[tuple[str, str | None, str | None]] = [
+            ("the stated close is the answer",
+             manifest(admission=1.0, closed=1.1, close_end=2.0), stamp(1.1)),
+            ("skew of a minute or two is believed, not thrown away",
+             manifest(admission=1.0, closed=-2 / 60, close_end=2.0), stamp(-2 / 60)),
+            ("a close two days into the future is refused rather than published",
+             manifest(admission=1.0, closed=-48.0, close_end=2.0), None),
+            ("a manifest with no sweep_closed answers None, not the cycle's End",
+             manifest(admission=1.0, close_end=2.0), None),
+            ("no manifest at all is None",
+             None, None),
         ]
         for name, text, expected in cases:
-            log.write_text(text, encoding="utf-8")
+            if text is None:
+                path.unlink(missing_ok=True)
+            else:
+                path.write_text(text, encoding="utf-8")
             with redirect_stdout(io.StringIO()), redirect_stderr(io.StringIO()):
-                got = osint_lib.sweep_closed()
+                got, why = osint_lib.collected_to()
             got_s = got.strftime(TS) if got else None
             ok = got_s == expected
             failures += not ok
-            verdict = "ok  " if ok else "FAIL"
-            print(f"  {verdict} {name}  (expected {expected}, got {got_s})")
+            print(f"  {'ok  ' if ok else 'FAIL'} {name}  "
+                  f"(expected {expected}, got {got_s}; from: {why[:60]})")
     finally:
-        (osint_lib.INGESTED_LOG, osint_lib.MANIFEST) = saved
+        osint_lib.MANIFEST = saved
         shutil.rmtree(tmp, ignore_errors=True)
     return failures, len(cases)
 
@@ -269,26 +234,21 @@ def sweep_closed_cases() -> int:
 def run() -> int:
     failures = 0
     argv = sys.argv
-    saved = (osint_lib.INGESTED_LOG, osint_lib.CYCLE_LOG, osint_lib.MIRROR,
-             osint_lib.MANIFEST, of.WATERMARK, of.head_committed)
+    saved = (osint_lib.MIRROR, osint_lib.MANIFEST, of.WATERMARK, of.head_committed)
     try:
-        for name, ing, ends, head, mark, extra, expected in CASES:
+        for name, adm, closed, end, head, mark, extra, expected in CASES:
             tmp = Path(tempfile.mkdtemp(prefix="osint-fresh-test-"))
             try:
-                (tmp / "logs").mkdir()
                 osint_lib.MIRROR = str(tmp)
-                osint_lib.INGESTED_LOG = str(tmp / "logs" / "ingested_log.md")
-                osint_lib.CYCLE_LOG = str(tmp / "logs" / "sweep-cycle_log.md")
-                # These cases are about the log clocks, so the manifest is pointed at the
-                # stand-in mirror where there is none. Left at the module default it names
-                # the real mirror, and every case would be measuring that instead of itself.
+                # Repointed rather than left at the module default, which names the real
+                # mirror — every case would otherwise be measuring that instead of itself.
                 osint_lib.MANIFEST = str(tmp / "cycle-manifest.json")
                 of.WATERMARK = str(tmp / ".osint-cycle-seen")
 
-                if ing is not None:
-                    Path(osint_lib.INGESTED_LOG).write_text(ingest_log(ing), encoding="utf-8")
-                if ends:
-                    Path(osint_lib.CYCLE_LOG).write_text(cycle_table(*ends), encoding="utf-8")
+                if any(v is not None for v in (adm, closed, end)):
+                    Path(osint_lib.MANIFEST).write_text(
+                        manifest(admission=adm, closed=closed, close_end=end),
+                        encoding="utf-8")
                 if mark is not None:
                     Path(of.WATERMARK).write_text(json.dumps(
                         {"done": stamp(mark), "done_by": "built"}), encoding="utf-8")
@@ -311,16 +271,15 @@ def run() -> int:
                 shutil.rmtree(tmp, ignore_errors=True)
     finally:
         sys.argv = argv
-        (osint_lib.INGESTED_LOG, osint_lib.CYCLE_LOG, osint_lib.MIRROR,
-         osint_lib.MANIFEST, of.WATERMARK, of.head_committed) = saved
+        (osint_lib.MIRROR, osint_lib.MANIFEST, of.WATERMARK, of.head_committed) = saved
 
-    stamp_failures, stamp_ran = stamp_cases()
-    start_failures, start_ran = sweep_closed_cases()
-    failures += stamp_failures + start_failures
+    man_failures, man_ran = manifest_cases()
+    col_failures, col_ran = collected_to_cases()
+    failures += man_failures + col_failures
     # Counted off the case lists, not added up by hand. It read `len(CASES) + 4 + 6` until
-    # 2026-08-24, when three cases were added to `stamp_cases()` and the run went on reporting
+    # 2026-08-24, when three cases were added to a sub-suite and the run went on reporting
     # 22 — a suite that miscounts itself is a suite that can quietly stop running something.
-    total = len(CASES) + stamp_ran + start_ran
+    total = len(CASES) + man_ran + col_ran
 
     print()
     if failures:

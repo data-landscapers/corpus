@@ -9,21 +9,30 @@ he and Corpus are working on something else. Mtimes cannot tell those apart, and
 built on them would start a three-hour build in the middle of a conversation.
 
 What can tell them apart is already written and already crosses. The cycle's closing
-sequence sets `Start`, `End`, `Duration` and clears `New-Start` in
-`logs/sweep-cycle_log.md`, **commits**, and only then mirrors. So:
+sequence sets the rotation row's `Start`, `End` and `Duration`, clears `New-Start`, writes
+the whole of it into **`cycle-manifest.json`** as `rotation`, **commits**, and only then
+mirrors. So:
 
-  - **`max(End)` over the rotation table advances on a cycle close and on nothing else.**
-    A manual mirror carries the same table across, the watermark here does not move, and
-    this exits 1.
-  - **Reading the new `End` from the mirror is itself the proof the mirror carried it.**
-    An `End` visible here cannot have arrived except by an FFS run that started after the
-    commit that wrote it. That is why nothing in this file reads FreeFileSync's exit code
-    or its session logs in `logs/mirror-ffs/` — which is just as well, because
-    `SWEEP-CYCLE.md` says plainly that nothing gates on that exit code.
+  - **`rotation.newest_close.end` advances on a cycle close and on nothing else.** A manual
+    mirror carries the same manifest across, the watermark here does not move, and this
+    exits 1. A pass that mirrors without closing a rotation day rewrites the manifest and
+    carries the same `newest_close` forward, which is the same non-event.
+  - **Reading the new close from the mirror is itself the proof the mirror carried it.** An
+    `end` visible here cannot have arrived except by an FFS run that started after the commit
+    that wrote it. That is why nothing in this file reads FreeFileSync's exit code or its
+    session logs in `logs/mirror-ffs/` — which is just as well, because `SWEEP-CYCLE.md` says
+    plainly that nothing gates on that exit code.
   - **Nothing changes on the OSINT side.** OSINT writes this signal for its own reasons and
     has done since long before Corpus read it. There is no note to send, no new file, and no
     dependency for OSINT to honour — which is the only version of this that respects the
     read-only rule rather than working around it.
+
+**It reads the manifest, not `logs/sweep-cycle_log.md`** *(2026-09-06, `notes-for-corpus`
+16)*. Until then this parsed OSINT's rotation table directly, header-asserted, because
+nothing else stated a close. The manifest states one, it is inside the interface
+`lint-interface.py` asserts and the log is not, and OSINT computes `newest_close` itself — so
+the maximum this used to take over the `End` column, and the header assertion that guarded
+the column order, go with the parse.
 
 **Every close fires** *(Bill, 2026-08-20)*. The table closed twice on 2026-08-20 and will
 again while the rotation is run by hand; each close is a night's evidence genuinely landed
@@ -79,12 +88,11 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # move onto a mapped drive should need no code change.
 #
 # **It lives in `osint_lib.py` now** *(2026-08-21)*, because `bulletin.py` needs the mirror too
-# — it takes the bulletin's *last updated* stamp from `logs/ingested_log.md` — and a path to
+# — it takes the bulletin's *last updated* stamp from the cycle manifest — and a path to
 # another repository stated in two files is a path that will one day be moved in one of them.
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import osint_lib  # noqa: E402
 from osint_lib import MIRROR  # noqa: E402
-
-CYCLE_LOG = os.path.join(MIRROR, "logs", "sweep-cycle_log.md")
 
 # Untracked, like `logs/.build-in-progress` and OSINT's own `mirror_log.md`: it changes on
 # OSINT's schedule rather than on any commit of Corpus's, and a tracked one would dirty the
@@ -99,38 +107,26 @@ TS = "%Y-%m-%d %H:%M"
 
 
 class Incoherent(Exception):
-    """The mirror cannot be read as a rotation table. Never a quiet 'not yet'."""
+    """The mirror cannot be read as a rotation. Never a quiet 'not yet'."""
 
 
-def rows() -> list[dict]:
-    """The rotation table, one dict per day row.
+def rotation() -> dict:
+    """The manifest's `rotation` block. Never a quiet "not yet" — see `Incoherent`.
 
-    Read against the header rather than by position, and the header is asserted: a rename
-    there should stop this dead rather than have it read `Start` where it means `End`."""
+    The manifest is refused rather than guessed at when its schema is one this does not know,
+    or its `head` names a commit the mirror's history does not hold.
+    `osint_lib.read_manifest` decides that and says why, and the reason it gives is what the
+    run is told: *this reader is out of date* and *this mirror is half-copied* want different
+    repairs."""
     if not os.path.isdir(MIRROR):
         raise Incoherent(f"mirror not present at {MIRROR}")
-    if not os.path.exists(CYCLE_LOG):
-        raise Incoherent(f"no rotation table at {CYCLE_LOG}")
-    header, out = None, []
-    with open(CYCLE_LOG, encoding="utf-8") as fh:
-        for line in fh:
-            line = line.strip()
-            if not line.startswith("|"):
-                continue
-            cells = [c.strip() for c in line.strip("|").split("|")]
-            if header is None:
-                header = cells
-                if "End" not in header or "New-Start" not in header:
-                    raise Incoherent(f"rotation table header is not the one this reads: {header}")
-                continue
-            if set("".join(cells)) <= set("-"):
-                continue  # the --- separator
-            if len(cells) != len(header):
-                continue
-            out.append(dict(zip(header, cells)))
-    if not out:
-        raise Incoherent("rotation table has a header and no rows")
-    return out
+    data, why = osint_lib.read_manifest()
+    if data is None:
+        raise Incoherent(why)
+    rot = data.get("rotation")
+    if not isinstance(rot, dict):
+        raise Incoherent("the cycle manifest carries no rotation block")
+    return rot
 
 
 def parse(ts: str):
@@ -140,22 +136,39 @@ def parse(ts: str):
         return None
 
 
-def newest_close(table: list[dict]):
-    """The most recently closed row: (End, Day, Jobs). None if nothing has ever closed."""
-    closed = [(parse(r.get("End", "")), r) for r in table]
-    closed = [(e, r) for e, r in closed if e]
-    if not closed:
+def newest_close(rot: dict):
+    """The most recently closed row: (end, day, jobs). None if nothing has ever closed.
+
+    OSINT names which row that is; this used to take the maximum over the whole `End` column
+    itself. The maximum was protection against a table that had slipped out of its hand-kept
+    order, and the manifest is written by the pass that closes the row rather than read back
+    off a file somebody edits."""
+    close = rot.get("newest_close")
+    if not isinstance(close, dict):
         return None
-    end, row = max(closed, key=lambda pair: pair[0])
-    return end, row.get("Day", "?"), row.get("Jobs", "")
+    end = parse(str(close.get("end") or ""))
+    if not end:
+        return None
+    jobs = close.get("jobs")
+    if isinstance(jobs, list):
+        jobs = ", ".join(str(j) for j in jobs)
+    return end, str(close.get("day", "?")), str(jobs or "")
 
 
-def in_flight(table: list[dict]) -> list[str]:
-    """Days with `New-Start` populated — a cycle running now, or one that did not finish.
+def in_flight(rot: dict) -> list[str]:
+    """Days the manifest reports open — a cycle running now, or one that did not finish.
 
     Either way Corpus does not build: the first is OSINT writing the vault this run would
-    read, and the second is a night that stopped part-way."""
-    return [r.get("Day", "?") for r in table if r.get("New-Start", "").strip()]
+    read, and the second is a night that stopped part-way. `rotation.in_progress` is OSINT's
+    own list of the days whose `New-Start` is populated; where the newest close also carries
+    `in_progress`, that day counts too, because a row can be re-opened after it closed."""
+    days = [str(d) for d in (rot.get("in_progress") or []) if str(d).strip()]
+    close = rot.get("newest_close")
+    if isinstance(close, dict) and close.get("in_progress"):
+        day = str(close.get("day", "?"))
+        if day not in days:
+            days.append(day)
+    return days
 
 
 def mirror_head() -> str:
@@ -243,7 +256,7 @@ def save(state: dict) -> None:
 def decide() -> tuple[int, str, dict]:
     """(exit code, one line, facts). The whole of the judgement in one place, so a bare run
     and a `--claim` cannot drift apart."""
-    table = rows()
+    rot = rotation()
     state = load()
     done = parse(state.get("done") or "")
     claimed = parse(state.get("claimed") or "")
@@ -252,9 +265,9 @@ def decide() -> tuple[int, str, dict]:
         return 2, (f"a cycle claimed {claimed:%Y-%m-%d %H:%M} at {state.get('claimed_at', '?')} "
                    "and never reported done — run CYCLE.md by hand, or --release"), {}
 
-    close = newest_close(table)
+    close = newest_close(rot)
     if not close:
-        return 2, "no row in the rotation table has ever closed", {}
+        return 2, "no row in the rotation has ever closed", {}
     end, day, jobs = close
 
     if done and end <= done:
@@ -264,9 +277,9 @@ def decide() -> tuple[int, str, dict]:
         moved = base_moved(str(state.get("done_head") or ""))
         return 1, f"nothing new — newest close {end:%Y-%m-%d %H:%M} (day {day}) {was}{moved}", {}
 
-    flight = in_flight(table)
+    flight = in_flight(rot)
     if flight:
-        return 1, f"day {', '.join(flight)} has New-Start set — a cycle is in flight", {}
+        return 1, f"day {', '.join(flight)} is open — a cycle is in flight", {}
 
     if os.path.exists(HOLD):
         return 1, f"held — logs/.hold-cycle is present (day {day} waiting)", {}
@@ -323,9 +336,9 @@ def main() -> int:
             if state.get("claimed"):
                 say(f"a claim on {state['claimed']} is outstanding — --release it first")
                 return 2
-            close = newest_close(rows())
+            close = newest_close(rotation())
             if not close:
-                say("no row in the rotation table has ever closed")
+                say("no row in the rotation has ever closed")
                 return 2
             end, day, _ = close
             state["done"] = end.strftime(TS)

@@ -4,17 +4,25 @@
 Same principle as `test_mirror_freshness.py`: this check spends almost all of its life
 returning 1, and *not firing* is indistinguishable from *nothing has happened* unless
 something proves the firing path still works. It is also the one script in the repo whose
-input is written by the other system — a rotation table Corpus does not control and cannot
-edit — so the parse is worth pinning against a real row, not a paraphrase of one.
+input is written by the other system — a manifest Corpus does not control and cannot edit —
+so the reading is worth pinning against the real shape, not a paraphrase of one.
 
-**The case that matters most is `manual mirror, same table`.** That is the whole reason the
-trigger reads `End` rather than an mtime, and it is the one Bill asked for by name: a
-mid-afternoon FreeFileSync run while he is working must not start a build.
+**The case that matters most is `manual mirror, same manifest`.** That is the whole reason
+the trigger reads a stated close rather than an mtime, and it is the one Bill asked for by
+name: a mid-afternoon FreeFileSync run while he is working must not start a build.
 
-Each case writes a synthetic table and watermark into a temp directory, points the module's
-path constants at them, and asserts the exit code. `tree_dirty` and `mirror_head` are
-stubbed: both shell out to git against the real repo, which would make the result depend on
-whatever the working tree happens to look like when the test is run.
+**The fixture is `cycle-manifest.json`, not a rotation table** *(2026-09-06,
+`notes-for-corpus` 16)*. The trigger parsed `logs/sweep-cycle_log.md` until then and these
+cases built one, header and separator row included, with two of them pinning the parse
+itself: a renamed `End` column and a maximum taken over rows out of order. Both were
+defences against a Markdown table Corpus does not own and may not read. OSINT now names its
+own newest close, so what is left to pin is the refusal — a manifest of a schema this does
+not know must stop the trigger dead rather than let it read the fields it recognises.
+
+Each case writes a synthetic manifest and watermark into a temp directory, points the
+module's path constants at them, and asserts the exit code. `tree_dirty` and `mirror_head`
+are stubbed: both shell out to git against the real repo, which would make the result depend
+on whatever the working tree happens to look like when the test is run.
 
     python scripts/test_osint_cycle_ready.py
 """
@@ -31,90 +39,100 @@ import tempfile
 from contextlib import redirect_stdout
 from pathlib import Path
 
-_spec = importlib.util.spec_from_file_location(
-    "osint_cycle_ready", Path(__file__).resolve().parent / "osint-cycle-ready.py")
+_here = Path(__file__).resolve().parent
+sys.path.insert(0, str(_here))
+import osint_lib  # noqa: E402
+
+_spec = importlib.util.spec_from_file_location("osint_cycle_ready", _here / "osint-cycle-ready.py")
 cr = importlib.util.module_from_spec(_spec)
 _spec.loader.exec_module(cr)
 
-HEADER = (
-    "| Day | Jobs                 | Gate | Skip | Start            | End              "
-    "| Duration | Prev Duration | New-Start        |\n"
-    "| --- | -------------------- | ---- | ---- | ---------------- | ---------------- "
-    "| -------- | ------------- | ---------------- |\n"
-)
+
+def manifest(day: str = "5", start: str = "2026-08-20 14:08",
+             end: str | None = "2026-08-20 17:06", in_progress: list[str] | None = None,
+             running: bool = False, rotation: bool = True, schema: int = 1) -> str:
+    """The cycle manifest as OSINT writes it, carrying the rotation block this reads.
+
+    `head` is deliberately absent: `read_manifest` only compares it against the mirror's own
+    HEAD, and a temp directory is not a git repository, so a value here would be checked
+    against `None` and skipped."""
+    data: dict = {"schema": schema, "written_utc": "2026-08-20 17:10", "pass": "sweep cycle",
+                  "collection": {"sweep_closed": start, "last_admission": end or start}}
+    if rotation:
+        rot: dict = {"days": 7, "in_progress": in_progress or []}
+        if end is not None:
+            rot["newest_close"] = {"day": day, "jobs": ["SWEEP-IATI"], "start": start,
+                                   "end": end, "duration": "2:58", "skipped": False,
+                                   "in_progress": running}
+        data["rotation"] = rot
+    return json.dumps(data, indent=1)
 
 
-def table(*rows: tuple[str, str, str, str]) -> str:
-    """(day, start, end, new_start) -> the rotation table as OSINT writes it."""
-    out = HEADER
-    for day, start, end, new_start in rows:
-        out += (f"| {day}   | SWEEP-IATI           |      |      | {start:16} | {end:16} "
-                f"| 2:58     | 1:16          | {new_start:16} |\n")
-    return out
+EARLY = "2026-08-20 17:06"
+LATE = "2026-08-21 02:11"
 
-
-CLOSED_EARLY = ("5", "2026-08-20 14:08", "2026-08-20 17:06", "")
-CLOSED_LATE = ("7", "2026-08-20 21:00", "2026-08-21 02:11", "")
-RUNNING = ("7", "2026-08-20 21:00", "", "2026-08-21 03:00")
-
-# (name, table text or None, watermark dict or None, files to touch, expected exit)
+# (name, manifest text or None, watermark dict or None, files to touch, expected exit)
 CASES: list[tuple[str, str | None, dict | None, list[str], int]] = [
     (
         "first ever run, a day has closed",
-        table(CLOSED_EARLY), None, [], 0,
+        manifest(), None, [], 0,
     ),
     (
         "a close newer than the watermark",
-        table(CLOSED_EARLY, CLOSED_LATE), {"done": "2026-08-20 17:06"}, [], 0,
+        manifest(day="7", start="2026-08-20 21:00", end=LATE), {"done": EARLY}, [], 0,
     ),
     (
-        "manual mirror, same table — the case this whole design exists for",
-        table(CLOSED_EARLY), {"done": "2026-08-20 17:06"}, [], 1,
+        "manual mirror, same manifest — the case this whole design exists for",
+        manifest(), {"done": EARLY}, [], 1,
     ),
     (
         "two closes in one day, the second still fires",
-        table(("7", "2026-08-20 09:21", "2026-08-20 13:22", ""), CLOSED_EARLY),
-        {"done": "2026-08-20 13:22"}, [], 0,
-    ),
-    (
-        "newest by timestamp, not last in the table",
-        table(CLOSED_LATE, CLOSED_EARLY), {"done": "2026-08-20 17:06"}, [], 0,
+        manifest(), {"done": "2026-08-20 13:22"}, [], 0,
     ),
     (
         "a cycle is in flight",
-        table(CLOSED_EARLY, RUNNING), None, [], 1,
+        manifest(in_progress=["7"]), None, [], 1,
+    ),
+    (
+        "the newest close is itself re-opened",
+        manifest(running=True), None, [], 1,
     ),
     (
         "held by hand",
-        table(CLOSED_EARLY), None, [".hold-cycle"], 1,
+        manifest(), None, [".hold-cycle"], 1,
     ),
     (
         "held by a build in flight",
-        table(CLOSED_EARLY), None, [".build-in-progress"], 1,
+        manifest(), None, [".build-in-progress"], 1,
     ),
     (
         "a claim that never reported done",
-        table(CLOSED_LATE), {"done": "2026-08-20 17:06", "claimed": "2026-08-21 02:11",
-                             "claimed_at": "2026-08-21 02:20"}, [], 2,
+        manifest(day="7", start="2026-08-20 21:00", end=LATE),
+        {"done": EARLY, "claimed": LATE, "claimed_at": "2026-08-21 02:20"}, [], 2,
     ),
     (
         "a claim already marked done is not stale",
-        table(CLOSED_LATE), {"done": "2026-08-21 02:11", "claimed": None}, [], 1,
+        manifest(day="7", start="2026-08-20 21:00", end=LATE),
+        {"done": LATE, "claimed": None}, [], 1,
     ),
     (
         "no row has ever closed",
-        table(("1", "", "", "")), None, [], 2,
+        manifest(end=None), None, [], 2,
     ),
     (
-        "the table is not there",
+        "the manifest is not there",
         None, None, [], 2,
     ),
     (
-        "the header has been renamed under us",
-        table(CLOSED_EARLY).replace("| End ", "| Finish "), None, [], 2,
+        "a schema this reader does not know stops it dead",
+        manifest(schema=99), None, [], 2,
     ),
     (
-        "prose in the file, no table",
+        "a manifest with no rotation block at all",
+        manifest(rotation=False), None, [], 2,
+    ),
+    (
+        "prose in the file, no JSON",
         "This file is the rotation, and today it is only prose.\n", None, [], 2,
     ),
 ]
@@ -123,22 +141,21 @@ CASES: list[tuple[str, str | None, dict | None, list[str], int]] = [
 def run() -> int:
     failures = 0
     argv = sys.argv
-    keep = (cr.MIRROR, cr.CYCLE_LOG, cr.STATE, cr.HOLD, cr.SENTINEL,
+    keep = (cr.MIRROR, osint_lib.MANIFEST, cr.STATE, cr.HOLD, cr.SENTINEL,
             cr.tree_dirty, cr.mirror_head)
     cr.tree_dirty = lambda: False
     cr.mirror_head = lambda: "0123456789abcdef"
     try:
-        for name, table_text, state, touch, expected in CASES:
+        for name, manifest_text, state, touch, expected in CASES:
             tmp = Path(tempfile.mkdtemp(prefix="cycle-trigger-test-"))
             try:
-                (tmp / "logs").mkdir()
                 cr.MIRROR = str(tmp)
-                cr.CYCLE_LOG = str(tmp / "logs" / "sweep-cycle_log.md")
+                osint_lib.MANIFEST = str(tmp / "cycle-manifest.json")
                 cr.STATE = str(tmp / ".osint-cycle-seen")
                 cr.HOLD = str(tmp / ".hold-cycle")
                 cr.SENTINEL = str(tmp / ".build-in-progress")
-                if table_text is not None:
-                    Path(cr.CYCLE_LOG).write_text(table_text, encoding="utf-8")
+                if manifest_text is not None:
+                    Path(osint_lib.MANIFEST).write_text(manifest_text, encoding="utf-8")
                 if state is not None:
                     Path(cr.STATE).write_text(json.dumps(state), encoding="utf-8")
                 for fname in touch:
@@ -162,11 +179,11 @@ def run() -> int:
         # claims a close, a second poll refuses to fire on it, and --done advances past it.
         tmp = Path(tempfile.mkdtemp(prefix="cycle-trigger-test-"))
         try:
-            (tmp / "logs").mkdir()
-            cr.MIRROR, cr.CYCLE_LOG = str(tmp), str(tmp / "logs" / "sweep-cycle_log.md")
+            cr.MIRROR = str(tmp)
+            osint_lib.MANIFEST = str(tmp / "cycle-manifest.json")
             cr.STATE = str(tmp / ".osint-cycle-seen")
             cr.HOLD, cr.SENTINEL = str(tmp / ".hold-cycle"), str(tmp / ".build-in-progress")
-            Path(cr.CYCLE_LOG).write_text(table(CLOSED_EARLY), encoding="utf-8")
+            Path(osint_lib.MANIFEST).write_text(manifest(), encoding="utf-8")
 
             steps = [(["--claim"], 0), ([], 2), (["--done"], 0), ([], 1), (["--done"], 2)]
             for extra, expected in steps:
@@ -191,11 +208,11 @@ def run() -> int:
         # --skip passes a close over and stays passed over, and says which it was.
         tmp = Path(tempfile.mkdtemp(prefix="cycle-trigger-test-"))
         try:
-            (tmp / "logs").mkdir()
-            cr.MIRROR, cr.CYCLE_LOG = str(tmp), str(tmp / "logs" / "sweep-cycle_log.md")
+            cr.MIRROR = str(tmp)
+            osint_lib.MANIFEST = str(tmp / "cycle-manifest.json")
             cr.STATE = str(tmp / ".osint-cycle-seen")
             cr.HOLD, cr.SENTINEL = str(tmp / ".hold-cycle"), str(tmp / ".build-in-progress")
-            Path(cr.CYCLE_LOG).write_text(table(CLOSED_EARLY), encoding="utf-8")
+            Path(osint_lib.MANIFEST).write_text(manifest(), encoding="utf-8")
 
             sys.argv = ["osint-cycle-ready.py", "--skip"]
             with redirect_stdout(io.StringIO()):
@@ -206,7 +223,8 @@ def run() -> int:
             state = json.loads(Path(cr.STATE).read_text(encoding="utf-8"))
 
             # ...and the next close still fires, which is what makes skipping cost nothing
-            Path(cr.CYCLE_LOG).write_text(table(CLOSED_EARLY, CLOSED_LATE), encoding="utf-8")
+            Path(osint_lib.MANIFEST).write_text(
+                manifest(day="7", start="2026-08-20 21:00", end=LATE), encoding="utf-8")
             with redirect_stdout(io.StringIO()):
                 next_close = cr.main()
 
@@ -234,11 +252,11 @@ def run() -> int:
         # the hold could be worse than having no trigger at all.
         tmp = Path(tempfile.mkdtemp(prefix="cycle-trigger-test-"))
         try:
-            (tmp / "logs").mkdir()
-            cr.MIRROR, cr.CYCLE_LOG = str(tmp), str(tmp / "logs" / "sweep-cycle_log.md")
+            cr.MIRROR = str(tmp)
+            osint_lib.MANIFEST = str(tmp / "cycle-manifest.json")
             cr.STATE = str(tmp / ".osint-cycle-seen")
             cr.HOLD, cr.SENTINEL = str(tmp / ".hold-cycle"), str(tmp / ".build-in-progress")
-            Path(cr.CYCLE_LOG).write_text(table(CLOSED_EARLY), encoding="utf-8")
+            Path(osint_lib.MANIFEST).write_text(manifest(), encoding="utf-8")
             Path(cr.HOLD).write_text("", encoding="utf-8")
 
             sys.argv = ["osint-cycle-ready.py", "--claim"]
@@ -263,11 +281,11 @@ def run() -> int:
         # base that has not moved. That is the state the clause exists to distinguish.
         tmp = Path(tempfile.mkdtemp(prefix="cycle-trigger-test-"))
         try:
-            (tmp / "logs").mkdir()
-            cr.MIRROR, cr.CYCLE_LOG = str(tmp), str(tmp / "logs" / "sweep-cycle_log.md")
+            cr.MIRROR = str(tmp)
+            osint_lib.MANIFEST = str(tmp / "cycle-manifest.json")
             cr.STATE = str(tmp / ".osint-cycle-seen")
             cr.HOLD, cr.SENTINEL = str(tmp / ".hold-cycle"), str(tmp / ".build-in-progress")
-            Path(cr.CYCLE_LOG).write_text(table(CLOSED_EARLY), encoding="utf-8")
+            Path(osint_lib.MANIFEST).write_text(manifest(), encoding="utf-8")
 
             def git(*args):
                 return subprocess.run(["git", "-C", str(tmp), *args],
@@ -314,7 +332,7 @@ def run() -> int:
             shutil.rmtree(tmp, ignore_errors=True)
     finally:
         sys.argv = argv
-        (cr.MIRROR, cr.CYCLE_LOG, cr.STATE, cr.HOLD, cr.SENTINEL,
+        (cr.MIRROR, osint_lib.MANIFEST, cr.STATE, cr.HOLD, cr.SENTINEL,
          cr.tree_dirty, cr.mirror_head) = keep
 
     print("all cases passed" if not failures else f"{failures} case(s) failed")

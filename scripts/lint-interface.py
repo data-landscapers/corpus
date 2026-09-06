@@ -26,11 +26,13 @@ Two checks, and the second is the one that matters:
   what it resolves to, because a silent skip would read as a pass.
 
 **The known breaches are listed, not tolerated silently.** `EXCEPTIONS` names each one and
-the condition that retires it - both retire on the cycle manifest of review task 14,
-which is the artefact that replaces reading OSINT's logs at all. A breach not in the list
-fails. **A listed breach that has gone also fails**, so the list shrinks as the work lands
-rather than outliving it; that is the same both-directions discipline `lint-preambles.py`
-applies to its rules.
+the condition that retires it. A breach not in the list fails. **A listed breach that has
+gone also fails**, so the list shrinks as the work lands rather than outliving it; that is
+the same both-directions discipline `lint-preambles.py` applies to its rules. It worked:
+the two it opened with - `osint_lib.py`'s log fallback and `osint-cycle-ready.py`'s
+rotation-table parse - were both listed against the cycle manifest of review task 14, and
+both went when that manifest landed. **The list is empty**, which is the state it was
+written to reach and not a reason to stop asserting it.
 
 Usage:  python scripts/lint-interface.py
         python scripts/lint-interface.py --scripts some/other/dir   # for tests
@@ -64,11 +66,12 @@ ROOT_NAMES = {"MIRROR", "OSINT"}
 # (script, root). The reason is carried here rather than in a comment because the check
 # reports it: a run that trips this should be told what the path is off, not just that it
 # is off.
-EXCEPTIONS = {
-    ("osint_lib.py", "logs"):
-        "the fallback for a mirror carrying no manifest; delete with the fallback",
-    ("osint-cycle-ready.py", "logs"):
-        "the whole rotation row, which the manifest carries only the newest close of",
+EXCEPTIONS: dict[tuple[str, str], str] = {
+    # Empty since 2026-09-06, and that is the point of it. It held two: `osint_lib.py`'s
+    # fallback for a mirror carrying no manifest, and `osint-cycle-ready.py` reading the
+    # whole rotation row. Both retired on the cycle manifest of review task 14 - the
+    # condition each was listed with - when `notes-for-corpus` 16 was drained. Anything
+    # added here is a breach with a stated end, never a permission.
 }
 
 # Path segments the source computes rather than spells, which the parse reports as a
