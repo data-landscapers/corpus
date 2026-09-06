@@ -151,6 +151,17 @@ def setup_workroot():
     is the boundary checked at its widest point. The boundary remains one-directional:
     nothing here ever writes.
     """
+    # **Refuse to run from inside the workroot** *(2026-09-06)*. Reached through the workroot's
+    # own `scripts` junction, `__file__` puts CORPUS at `.workroot` and WORK at
+    # `.workroot/scripts/.workroot`, which resolves back to `.workroot` itself — so the link
+    # pass below rmdir'd the `scripts` junction it was standing on and then failed to recreate
+    # it, leaving every workroot-run script broken until rebuild.py was run again from the root.
+    # A stage-4 run that hit this mid-pass would have failed for a reason nothing named.
+    if os.path.basename(CORPUS) == ".workroot" or os.sep + ".workroot" + os.sep in CORPUS + os.sep:
+        raise SystemExit(
+            "rebuild.py: refusing to run from inside scripts/.workroot/ — it manages that "
+            "directory's links and would unlink the junction it was reached through. "
+            "Run it from the repo root; the workroot is for the scripts it drives.")
     os.makedirs(WORK, exist_ok=True)
     os.makedirs(OUTPUTS, exist_ok=True)
     links = (*((r, os.path.join(OSINT, r)) for r in vault_lib.INDEX_ROOTS),
