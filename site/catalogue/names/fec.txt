@@ -23,7 +23,7 @@ FECAP-TP	15542
 FECECAM-Bénin Traitement	10821
 FECOSA	15685
 FECSDA	18286
-FECUNDIDADE	10777
+FECUNDIDADE	10777,7991
 FECoMo. Supported	7709
 Facility Kipevu Oil Terminal FEC Kenya	12256
 FeCoMo	7709
@@ -31,9 +31,10 @@ Fecal	3972
 Fecal Sludge	1988
 Fecha	16871,34
 Fecha de Alta	16859
+Fechar	18779
 Feconomy	753
 Fecteau	18118
-Fecundidade	10760,17
+Fecundidade	10760,17,7985
 Fecundidade Actual	10777
 Fecundidade Geral Taxa Global de Fecundidade Tratamento	10777
 Fecundidade Taxa	10760
@@ -48,8 +49,9 @@ O FECAD	15694
 PRE FECTURE	14450
 Pit Latrine Fecal Sludge Management Plan	1988
 STRAÇÃ FECAD Entidade Entidad Calendarização Custo	15694
+Sintético de Fecundidade	18768
 TCA FECHA CAMPANHA DE PRESTAÇÃO	11473
-Taxa Global de Fecundidade	10760,5079
+Taxa Global de Fecundidade	10760,5079,2929
 Taxas de Fecundidade Desejada	10777
 Tecnologias de DNE FECAD	15694
 Travail's FEC	16370

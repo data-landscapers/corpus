@@ -49,6 +49,7 @@ Cabo Verde. Despite	11855
 Cellcom. Despite	16741
 Central Bank. Despite	11134
 Centro Nacional de Despacho	16055
+Centro de Despacho	18793
 Challenges Despite Namibia	5036
 Challenges Facing the Sector Despite	16975
 Challenges and Potential Growth Despite	15120
@@ -71,6 +72,9 @@ D-portal. Despite	6982
 DAS DESPESAS E RECEITAS ARTIGO	17100
 DESPACHO DOS PROCESSOS PELO CHEFE	11435
 DESPATCH COMPONENT	11129
+DESPESA FINANCEIRA	18798,55
+DESPESAS DE FUNCIONAMENTO	18798,55
+DESPESAS TOTAIS	18853
 DESPRI	18143,27
 DESPS	18291
 DPI. Despite	10852
@@ -79,11 +83,13 @@ Data Ecosystem Mapping Despite	18529
 Declaração da Respetiva Federação Desportiva	15532
 Defence. Despite	3583
 Department. Despite	6152
+Desempenho de Despesas	18798
+Despa	18752
 Despachante	17111
 Despachantes Sou	12018
 Despachar	11435
-Despacho	167,1603,2787,489,5704,4,614,13,1,2,51,10,4,3,78,2,29,7,333,2413,1090,122,246,152,132,234,810,3,209,48
-Despacho Conjunto	4218,6531,633,134,4774
+Despacho	167,1603,2787,489,5704,4,614,13,1,2,51,10,4,3,78,2,29,7,333,2413,1090,122,246,152,132,234,810,3,209,48,1392,46,55
+Despacho Conjunto	4218,6531,633,134,4774,2459
 Despacho Inicial	11452
 Despacho Ministerial	11537
 Despacho Presidencial	2242,2314,1,49,35,2053,8,2177,1030,186,677,624,25,5,151,2737,3240
@@ -95,16 +101,25 @@ Despacho de Salvador Gomes	17361
 Despachos	11435,17,78,4024
 Desparasitação	10777,6238
 Desperate	5321
-Despesa	1339,1,1,1,739,2,1,5,1578,744,2,1,5,36,102,84,371,90,1089,9564
+Despesa	1339,1,1,1,739,2,1,5,1578,744,2,1,5,36,102,84,371,90,1089,9564,3013,15
 Despesa O Contrato	15689
 Despesa de Médio Prazo	15526
-Despesas	167,1175,2247,78,551,2207,1456,2902,604,468,163,765,13,2654,82,3,37,390,4,56,1071,7
+Despesas	167,1175,2247,78,551,2207,1456,2902,604,468,163,765,13,2654,82,3,37,390,4,56,1071,7,1664,4,5,25,55
 Despesas Constituem	15912
+Despesas Correntes de Exercícios Anteriores	18798,55
+Despesas EXPLICAÇÕES TÉCNICAS E GLOSSÁRIO I	18798
+Despesas Efectivas	18853
+Despesas Efetivas	18798
 Despesas Elegíveis São	15532
+Despesas Financeiras	18853
 Despesas O Contrato	15689
-Despesas de Funcionamento	4129
+Despesas Primárias	18798,55
+Despesas Primárias. XXVI. Resultado Nominal Global	18798
+Despesas Totais	18796,2,55
+Despesas de Funcionamento	4129,14724
 Despesas de Recenseamento	11528
-Despite	11,162,63,79,256,16,131,18,30,5,18,110,62,8,1,242,7,42,3,290,31,52,166,11,4,6,4,23,16,20,16,22,19,28,16,6,3,96,19,5,145,31,14,32,28,16,76,53,26,48,40,51,1,24,7,17,1,18,28,4,53,9,18,31,31,29,10,48,9,20,68,28,1,42,10,14,27,29,129,22,8,43,116,6,5,3,18,6,15,66,23,60,8,77,2,37,129,28,3,27,4,32,5,1,5,1,42,29,3,8,4,16,64,101,25,7,1,6,75,41,54,31,13,23,2,3,9,34,85,16,15,33,30,11,17,23,18,45,16,8,107,24,46,24,2,1,2,69,5,26,16,44,13,11,19,7,4,24,9,3,1,31,4,16,46,11,21,28,20,25,65,9,26,15,16,23,18,40,1,10,99,29,4,30,15,3,30,15,8,48,8,3,47,63,8,4,2,13,34,3,84,4,40,22,34,4,6,64,15,6,3,40,22,12,39,6,26,35,13,72,2,8,1,1,49,12,64,62,16,21,53,8,9,42,17,36,21,1,68,19,7,40,55,40,107,2,54,2,6,4,27,13,29,4,73,57,35,21,3,49,8,5,48,12,22,29,9,39,26,16,13,53,22,32,28,12,2,8,7,14,42,60,23,42,22,38,1,4,16,116,28,74,13,20,44,107,25,47,4,32,47,32,15,35,33,20,133,8,2,54,23,38,13,5,7,18,8,11,20,2,24,70,92,9,13,26,22,55,16,41,9,14,19,17,66,23,71,2,66,2,71,8,39,86,29,38,29,11,34,1,1,3,6,1,4,1,5,8,14,15,7,1,11,3,2,6,4,8,17,38,20,1,14,8,1,1,13,2,1,5,4,8,6,3,11,15,87,11,1,2,1,1,1,42,15,2,1,1,14,7,5,1,6,7,19,5,4,6,1,13,12,83,37,7,44,1,55,1,11,9,4,2,1,11,9,6,3,99,40,2,41,53,3,36,5,3,4,12,21,2,1,2,2,2,7,2,1,4,1,3,13,1,19,1,3,3,10,9,8,9,22,13,15,1,1,35,20,41,10,11,3,1,5,6,5,9,5,4,4,13,4,2,13,3,6,1,1,6,8,7,19,11,2,6,1,11,5,4,2,19,11,7,3,3,2,1,1,9,4,4,6,2,1,1,14,26,6,55,27,41,12,11,45,13,11,4,2,21,28,3,15,39,18,2,37,23,39,12,3,2,17,2,5,1,1,2,3,3,8,4,8,1,8,20,4,24,7,10,3,7,37,26,15,25,57,85,5,1,1,2,7,10,1,12,1,1,1,2,1,1,1,5,1,38,7,13,2,7,24,12,32,4,35,34,58,27,24,66,124,3,5,63,2,22,25,2,4,42,32,9,4,2,45,35,30,22,84,3,1,115,6,14,8,6,5,39,28,3,22,7,23,27,18,6,39,57,13,9,1,4,10,15,26,11,6,1,10,48,2,1,16,1,19,6,1,6,3,1,1,1,10,4,5,5,6,11,21,10,16,33,12,19,29,9,4,1,8,26,2,24,4,27,23,40,58,30,39,13,23,24,2,7,11,20,4,3,35,48,3,17,37,1,2,2,25,14,11,12,6,12,39,23,119,36,17,55,112,135,14,7,29,107,167,11,84,7,36,32,15,25,39,11,4,9,10,16,21,4,8,2,2,2,1,1,4,2,2,7,8,4,1,1,3,10,8,3,15,7,1,18,6,61,1,3,6,2,7,4,11,1,10,8,7,3,42,26,1,3,18,3,25,4,27,1,10,25,24,45,20,17,45,116,29,87,4,6,1,103,21,13,23,3,41,12,28,114,19,2,37,33,3,95,8,57,1,11,84,2,2,3,16,1,9,4,12,9,10,7,5,30,2,10,1,37,1,10,9,1,4,4,22,35,2,36
+Despistagem	18768
+Despite	11,162,63,79,256,16,131,18,30,5,18,110,62,8,1,242,7,42,3,290,31,52,166,11,4,6,4,23,16,20,16,22,19,28,16,6,3,96,19,5,145,31,14,32,28,16,76,53,26,48,40,51,1,24,7,17,1,18,28,4,53,9,18,31,31,29,10,48,9,20,68,28,1,42,10,14,27,29,129,22,8,43,116,6,5,3,18,6,15,66,23,60,8,77,2,37,129,28,3,27,4,32,5,1,5,1,42,29,3,8,4,16,64,101,25,7,1,6,75,41,54,31,13,23,2,3,9,34,85,16,15,33,30,11,17,23,18,45,16,8,107,24,46,24,2,1,2,69,5,26,16,44,13,11,19,7,4,24,9,3,1,31,4,16,46,11,21,28,20,25,65,9,26,15,16,23,18,40,1,10,99,29,4,30,15,3,30,15,8,48,8,3,47,63,8,4,2,13,34,3,84,4,40,22,34,4,6,64,15,6,3,40,22,12,39,6,26,35,13,72,2,8,1,1,49,12,64,62,16,21,53,8,9,42,17,36,21,1,68,19,7,40,55,40,107,2,54,2,6,4,27,13,29,4,73,57,35,21,3,49,8,5,48,12,22,29,9,39,26,16,13,53,22,32,28,12,2,8,7,14,42,60,23,42,22,38,1,4,16,116,28,74,13,20,44,107,25,47,4,32,47,32,15,35,33,20,133,8,2,54,23,38,13,5,7,18,8,11,20,2,24,70,92,9,13,26,22,55,16,41,9,14,19,17,66,23,71,2,66,2,71,8,39,86,29,38,29,11,34,1,1,3,6,1,4,1,5,8,14,15,7,1,11,3,2,6,4,8,17,38,20,1,14,8,1,1,13,2,1,5,4,8,6,3,11,15,87,11,1,2,1,1,1,42,15,2,1,1,14,7,5,1,6,7,19,5,4,6,1,13,12,83,37,7,44,1,55,1,11,9,4,2,1,11,9,6,3,99,40,2,41,53,3,36,5,3,4,12,21,2,1,2,2,2,7,2,1,4,1,3,13,1,19,1,3,3,10,9,8,9,22,13,15,1,1,35,20,41,10,11,3,1,5,6,5,9,5,4,4,13,4,2,13,3,6,1,1,6,8,7,19,11,2,6,1,11,5,4,2,19,11,7,3,3,2,1,1,9,4,4,6,2,1,1,14,26,6,55,27,41,12,11,45,13,11,4,2,21,28,3,15,39,18,2,37,23,39,12,3,2,17,2,5,1,1,2,3,3,8,4,8,1,8,20,4,24,7,10,3,7,37,26,15,25,57,85,5,1,1,2,7,10,1,12,1,1,1,2,1,1,1,5,1,38,7,13,2,7,24,12,32,4,35,34,58,27,24,66,124,3,5,63,2,22,25,2,4,42,32,9,4,2,45,35,30,22,84,3,1,115,6,14,8,6,5,39,28,3,22,7,23,27,18,6,39,57,13,9,1,4,10,15,26,11,6,1,10,48,2,1,16,1,19,6,1,6,3,1,1,1,10,4,5,5,6,11,21,10,16,33,12,19,29,9,4,1,8,26,2,24,4,27,23,40,58,30,39,13,23,24,2,7,11,20,4,3,35,48,3,17,37,1,2,2,25,14,11,12,6,12,39,23,119,36,17,55,112,135,14,7,29,107,167,11,84,7,36,32,15,25,39,11,4,9,10,16,21,4,8,2,2,2,1,1,4,2,2,7,8,4,1,1,3,10,8,3,15,7,1,18,6,61,1,3,6,2,7,4,11,1,10,8,7,3,42,26,1,3,18,3,25,4,27,1,10,25,24,45,20,17,45,116,29,87,4,6,1,103,21,13,23,3,41,12,28,114,19,2,37,33,3,95,8,57,1,11,84,2,2,3,16,1,9,4,12,9,10,7,5,30,2,10,1,37,1,10,9,1,4,4,22,35,2,36,16,11,5,7,18,28,2,26
 Despite AI	17700
 Despite Access	12376
 Despite Africa	8263
@@ -173,7 +188,7 @@ Despitetheseenablingconditions	8602
 Despitethis	8602
 Desplegadas	17399
 Desport	15694
-Desporto	539,726,4721,5446,3972,73,55,162,1484
+Desporto	539,726,4721,5446,3972,73,55,162,1484,1574,17,4
 Desporto Adaptado	15532
 Desporto NTIC Novas Tecnologias da Informação	11557
 Desporto Quinta	11429,50
@@ -209,6 +224,8 @@ Federação Desportiva	15532
 Federação Desportiva. Artigo	15532
 Federações Cabo-verdianas Desportivas	15532
 Federações Desportivas	15532
+Fig.4 Despesas	18783
+Fig.5 Despesa de São Tomé	18783
 Framework. Despite	8747
 Fund.342 Despite	3583
 Future Despite	8184
@@ -234,10 +251,15 @@ ICTs. Despite	12453,892
 IDPs. Despite	10841
 IEMed Abstract Despite	13257
 IGAs. Despite	17906
+II.3.1. Despesas de Funcionamento	18798
+II.3.2 Despesas de Investimentos Públicos	18798
+II.3.3. Despesas Financeiras	18798
 IIMS. Despite	10776
 INTRODUCTION Despite	14487
 ITEC Programme. Despite	16256
 ITU Affordability Despite	18123
+IX. Despesas Efectivas São	18798
+IX. Despesas Pro-Poor	18798
 Inflation Outlook Despite	11134
 Innovation and Integrity Must Advance Together Despite	4848
 Inquérito Sobre Despesas	10768
@@ -256,6 +278,7 @@ Laws Governing Electronic Monitoring Despite	14190
 Lesotho. Despite	12701
 Liberia. Despite	16975
 Libya. Despite	16863
+Loan Collateral. Despite	18825
 MILE Despite	14752
 Madagascar. Despite	6892
 Maisha Integrated Database.126 Despite	12227
@@ -269,6 +292,7 @@ Mapa IV Despesas	5012
 Mapa VII Despesas	5012
 Market Share Shrinks Despite Growth	3625
 Middle East. Despite	7815
+Milhões de Dobras. As Despesas Efectivas	18798,55
 Ministro Despacho	15404
 Ministry of Home Affairs. Despite	1816
 Ministry of ICT. Despite	13312,2
@@ -297,10 +321,12 @@ OUTRAS DESP. CORRENTES-ORGÃOS EXTERNOS	1338,4,738
 Objectives Despite	12229
 Obrigações Operacionais Desproporcionais	11436
 Os Clubes Desportivos Oficiais	15532
+Outras Despesas Correntes Diversas	18798,55
 Ownership Dilemma Despite	2515
 P3. Despite	12411
 PILLAR V FINANCIALLY VIABLE UTILITIES Despite	16966
 Pass WASSCE for UNIV Despite	18461
+Paula Frassinetti Institute. Despite	18765
 Performance and Learning Review. Despite	17962
 Poststratification Weights Despite	15244
 Present Challenges Despite	15629
@@ -331,6 +357,7 @@ SMEs. Despite	13938
 SMEs. Despite the World Bank	16972
 SOCIAL PROTECTION COVERAGE Despite	11998
 SOCIEDADE DESPORTIVA	16290
+STP. Despite	18795
 STRATEGY Despite	11131
 Saharan Africa. Despite	12399
 Sahel. Despite	17883
@@ -355,6 +382,7 @@ Tech Giants Despite OECD Pressure	14932
 Technological Despite	16863
 Technology Meets Reality Despite	12057
 Topnet. Despite Tunisie Telecom	1818
+Totais Correntes DESPESAS TOTAIS	18798
 Transformação Digital Despite	8070
 UPDATED SITUATIONAL ANALYSIS Despite	5533
 US. Despite President Trump	11154
@@ -362,9 +390,15 @@ Uganda. Despite	17116
 Unity State.306 Despite	3583
 Utilidade Pública Desportiva	15532
 Utilidade Pública Desportiva. Artigo	15532
+V.2. Análise de Despesas Fixadas	18798
+V.2.1. Despesas de Funcionamento	18798
+V.2.2. Despesas de Investimentos Públicos	18798
+V.2.3. Despesas Financeiras	18798
 West Africa. Despite	2568
 WhatsApp and Facebook Live. Despite	17037
 White Nile and Central Darfur. Despite	6947
 World Health Assembly. Despite	12925
 World War II.16 Despite	16996
+X. Despesas Primárias	18798
+XXII. Despesa Financeira Este	18798
 Zimbabwe Despite	395,12900

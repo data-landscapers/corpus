@@ -357,7 +357,8 @@ DU MALI RECOMMANDATION POUR LA NORME	17830
 DU MALI RECOMMANDATIONS DU DOMAINE D	17830
 DU MALI RECOMMANDATIONS POUR LA NORME	17830
 DU RECOURS POUR EXCÈS DE POUVOIR	18101
-Dados Recolhidos	539
+Dados Recolhidos	539,18236
+Dados Recolhidos O Controlo	18775
 Darzi A. Electronic Health Records	11990
 Data Collection and Recording	17367
 Data Management and Record Keeping Seminar	10566
@@ -917,6 +918,7 @@ Mutual Recognition Framework	4301,7506,141
 Mutual Recognition and Interoperability of National IDs	10819
 Mycorrhizal Fungi Reconnect	17157
 Método de Recolha Anualmente	10766
+Método de Recolha de Dados	18775
 Módulo da Recolha de Receita	12796
 Módulo de Recolha da Receita	12796
 N FOCUS AREAS RECOMMENDED INITIATIVES TIMELINE	11857
@@ -1301,12 +1303,16 @@ REPORTING AND RECORD-KEEPING Article	12616
 RES01184 INTERNATIONAL BANK FOR RECONSTRUCTION	16032
 RESIDENCE IN LIBERIA OF RECOGNIZED REFUGEES	16830
 RESIDENCE IN LIBERIA PENDING RECOGNITION	16830
+RESILIENCE AND RECOVERY PROJECT	18809
 RESTORATION OR RECONSTRUCTION OF CIVIL	12338
 RETURNS AND RECORDS Part A General	11181
 REVAMPING OF DIGITAL COURT RECORDING SYSTEM	14847
 RIGHTS AND DUTIES OF RECOGNIZED REFUGEES	16830
 RIGHTS OF THE DATA SUBJECT RECOMMENDATIONS	14434
 RMAN Recovery Manager	13185
+ROTEIRO COM PRINCIPAIS RECOMENDAÇÕES POLÍTICAS	18796
+ROTEIRO DAS PRINCIPAIS RECOMENDAÇÕES	18796
+ROTEIRO DAS PRINCIPAIS RECOMENDAÇÕES Eixos Recomendação	18796
 RPO Recovery Point Objective RPS Requests	11952
 RS Construction Industry Scaffolders Record Scheme	17157
 RSB Signed Mutual Recognition Arrangements	15127
@@ -1347,7 +1353,7 @@ Recognition Review. If the RIRs	3503
 Recognition and Appreciation	14761
 Recognition and Award	17011
 Recognition and Control	13097
-Recognition and Enforcement of Foreign Arbitral Awards	14008,2964
+Recognition and Enforcement of Foreign Arbitral Awards	14008,2964,1825
 Recognition and Management	12566,36
 Recognition and Measurement IPSAS	14736
 Recognition and Registration	12537
@@ -1374,7 +1380,7 @@ Recognized Cloud Computing Service Models and Deployment	16923
 Recognized RIR	3503
 Recognized for Fair Play THE LEADERSHIP	18576
 Recognizes	12964,1910,2240,26
-Recognizing	1212,52,1421,172,235,252,517,265,134,41,1118,21,333,52,607,89,21,70,237,1117,184,33,194,484,994,490,375,43,1,88,133,211,39,97,214,17,15,632,23,96,70,14,328,45,170,8,13,28,37,18,272,24,62,349,237,9,21,5,2,5,11,33,16,684,22,79,6,25,19,5,19,8,61,22,64,10,8,9,333,138,3,104,100,135,17,235,81,547,30,6,9,36,1,19,2,23,7,2,10,11,15,6,1,96,13,30,130,80,172,367,387,194,106
+Recognizing	1212,52,1421,172,235,252,517,265,134,41,1118,21,333,52,607,89,21,70,237,1117,184,33,194,484,994,490,375,43,1,88,133,211,39,97,214,17,15,632,23,96,70,14,328,45,170,8,13,28,37,18,272,24,62,349,237,9,21,5,2,5,11,33,16,684,22,79,6,25,19,5,19,8,61,22,64,10,8,9,333,138,3,104,100,135,17,235,81,547,30,6,9,36,1,19,2,23,7,2,10,11,15,6,1,96,13,30,130,80,172,367,387,194,106,202,74
 Recognizing AI	6948
 Recognizing BAM	17503
 Recognizing Congo	15553
@@ -1383,7 +1389,7 @@ Recognizing Nairobi's Refugees	12227
 Recognizing Sudan	14897
 Recognizing the African Union Data Policy Framework	17017
 Recognizing the Candidate RIR	3503
-Recolha	10754,3,9,655,9,16,34,89,8,324,883,2574,34,53,5,1697
+Recolha	10754,3,9,655,9,16,34,89,8,324,883,2574,34,53,5,1697,1632,21
 Recolha Artigo	15450
 Recolha Coerciva de Cartão de Eleitor	11425
 Recolha Direta	15450
@@ -1393,22 +1399,26 @@ Recolha de Informações Básicas	11406
 Recolha de Informações Pessoais	11368
 Recolhe	10777
 Recolhedor	11582
-Recolher	10777,605,22,26,4015,81
-Recolhidos	15385
+Recolher	10777,605,22,26,4015,81,3274
+Recolhidos	15385,3370
 Recombinante	15930
 Recomenda	16325
 Recomenda-se	11448
 Recomendaciones	16875
-Recomendação	2816,12543
+Recomendado	18774
+Recomendação	2816,12543,3437
 Recomendação da Organização	2816
-Recomendação da UNESCO	2816,2847,1232
-Recomendações	2368,448,8721,24,581
+Recomendação da UNESCO	2816,2847,1232,11901
+Recomendação da UNESCO. Para	18796
+Recomendação. Isabel Maria Correia Viegas de Abreu	18796
+Recomendações	2368,448,8721,24,581,6637
 Recomendações Assim	11561
 Recomendações Específicas	17147
 Recomendações Gerais	17147
 Recomendações Internacionais	4044,7377,25,131
 Recomendações da Avaliação	10750
 Recomendações da UNESCO	2816
+Recomendações da União PostaI Universal	18778
 Recomendações de Aceitação Em	11442
 Recomendações de Governança	11442
 Recomendou	9226
@@ -1442,7 +1452,7 @@ Recommande	550,18,20
 Recommander	16545
 Recommen	14777
 Recommend	21,941,169,1305,1242,1566,910,627,1765,1611,1244,456,2920,220,1836,93,17,156,15,253,517
-Recommendation	1072,171,571,1144,363,540,265,910,2134,28,350,130,163,181,570,2393,150,21,322,67,415,241,9,128,22,16,9,15,15,129,53,320,18,14,20,25,54,262,110,94,43,106,195,215,493,35,185,207,518,358,99,932,44,26,1,46,26,71,69,265,522
+Recommendation	1072,171,571,1144,363,540,265,910,2134,28,350,130,163,181,570,2393,150,21,322,67,415,241,9,128,22,16,9,15,15,129,53,320,18,14,20,25,54,262,110,94,43,106,195,215,493,35,185,207,518,358,99,932,44,26,1,46,26,71,69,265,522,826
 Recommendation Authorisation	13420
 Recommendation Empowermering NACIT	12917
 Recommendation Examples Entrepreneurship Support	10841
@@ -1570,7 +1580,7 @@ Recommendations. Programme	11230
 Recommendations...................................122	13461
 RecommendationsThe	7278
 Recommendatiuons	12917
-Recommended	10,726,487,595,690,2841,327,28,1293,754,106,559,1439,213,707,4,227,1,126,9,46,669,48,322,137,39,10,32,524,102,383,613,98,509,229,43,110,105,86,1611,24,65,210,128,486,599,100
+Recommended	10,726,487,595,690,2841,327,28,1293,754,106,559,1439,213,707,4,227,1,126,9,46,669,48,322,137,39,10,32,524,102,383,613,98,509,229,43,110,105,86,1611,24,65,210,128,486,599,100,405
 Recommended Actions Primary Owner	12917
 Recommended Case Study	8301
 Recommended Communication Channels	5676
@@ -1595,6 +1605,7 @@ Recommended Metadata Standards Suffix Description Domain	12360
 Recommended Methodologies	5676
 Recommended Methodologies NRAs	5676
 Recommended Option	18531
+Recommended Post	18824
 Recommended Practice	12406
 Recommended Reading	10521
 Recommended Responsible	10829
@@ -1644,15 +1655,16 @@ Reconfiguration	15542
 Reconfirmant	13341
 Reconfirmed	13385
 Reconhece	11569
-Reconhecendo	2816,703,627,1,6603,643,62,2,112,4115,10,793
+Reconhecendo	2816,703,627,1,6603,643,62,2,112,4115,10,793,2296,5,6,30
 Reconhecer	11381,520
 Reconheceu	9257,2222
-Reconhecimento	2816,8766,319,3443,126,224,328
+Reconhecimento	2816,8766,319,3443,126,224,328,2813
 Reconhecimento Biométrico	3519
 Reconhecimento Facial	2816
 Reconhecimento da Autenticidade de Requisitos Documentais	2816
 Reconhecimento daEs	15694
 Reconhecimento. Fonte	2816
+Reconheço	18783
 Reconnaissance	1231,1501,6159,4484,67,339,663,1049,1143,1206,42,15,417
 Reconnaissance Locale	14444
 Reconnaissance Locale. Chaque	14444
@@ -1697,7 +1709,7 @@ Reconstruction du CNDIFE	17845
 Reconstruction du Nord	17827
 Reconstruction of Tinkhundla Centres	12970
 Reconstruction of Tinkhundla Centres X512	12970
-Reconstrução	11390,50,4452
+Reconstrução	11390,50,4452,2887
 Reconversion	15583
 Reconversão	11373
 Recopilación	16898
@@ -1886,7 +1898,7 @@ Recovery Plans	4610
 Recovery Point Objective	6432,30,4259,1231,586,2221
 Recovery Point Objectives	11995,1190
 Recovery Programme	1413,157
-Recovery Project	15017
+Recovery Project	15017,3799
 Recovery Recovery	1988
 Recovery Time Objective	6432,30,4259,1231,586,1789,432
 Recovery Time Objective SaaS Software	6432
@@ -1903,6 +1915,7 @@ Recovery and Peace Building Assessment for Cameroon	10964
 Recovery and Peace Consolidation Plan	15731
 Recovery and Peacebuilding Assessment	15702
 Recovery and Resilience	13042
+Recovery and Resilience DPF	18851
 Recovery and Resilience Framework	1155
 Recovery and Resilience Framework for Somalia	14874
 Recovery of Accounts Receivable	13420
@@ -1942,10 +1955,13 @@ Republic of Sudan Executive Summary Pillar Recommendations	14897
 Required Records and Information	13606
 Research Institutions Recommend	17114
 Reservations Recognition	15968
+Resilience and Recovery Project	18809
+Resilience and Recovery Project URL	18809
 Resolve Appeals and Legal Recourses Granted	12389
 Respondent. Records	17165,1405
 Response Recovery	12976
 Response and Recovery	13206
+Response and Recovery Project	18809
 Results Report Recovery of Economic Activity for Liberian	17000
 Retention and Form of Records	17243
 Revenue Recognition	15169
@@ -1963,6 +1979,7 @@ S.E Nadège Chouat. Reconduite	16406
 SCHEME OF RECONSTRUCTION	4896
 SECTION FIVE CORRECTION OF RECORDS	12226
 SECTION V DES VOIES DE RECOURS	15397
+SEN. CAPÍTULO III Da Recolha Directa	18749
 SERVICE PROVIDERS Definition Recognition	11179
 SHORT TERM Reconsider	16876
 SIFCOM. Key Recommendations	18354
@@ -2020,6 +2037,7 @@ Social Alliances Gender Eradication of Recovery Well-being	970
 Social Cohesion and National Reconciliation	16858
 Social Cohesion and Reconciliation	16970
 Social Cohesion and Reconciliation Index	16970
+Social Protection COVID-19 Response and Recovery Project	18809
 Social Recovery and Human	970
 Social Recovery and Human Development	970
 Social Recovery and Human Development Specific Objective	970
@@ -2144,7 +2162,7 @@ UN Principles and Recommendations	10765,10,1441,197,2643,1865
 UN Recommended Principles	16921
 UN Statistical Division’s Principles and Recommendation	16921
 UNESCO Ethics Recommendation	1814
-UNESCO Recommendation	1814,1144,1168,563,45,512,1866,386,50,2389,1198,2409,119,1001,329,876,343
+UNESCO Recommendation	1814,1144,1168,563,45,512,1866,386,50,2389,1198,2409,119,1001,329,876,343,2628
 UNESCO Recommendation Human	7548
 UNESCO Recommendations	5246,1048
 UNESCO's Recommendation	8747,457,2279,727,340
@@ -2161,13 +2179,14 @@ Unallocated Reserve Transfers Finding Records	13420
 Unit DR Disaster Recovery DTLT Desktop	13185
 United Nations Principles and Recommendations	12151,186,30,1000
 United Nations. Recognizing	10969,915,1,10,264,1,44,1,146,4,132
+União Europeia. Reconhecida	18877
 Update and Reconciliation	12364
 Update of Records	16088
 Update of Records Only	16088
 Update of Records Only Outside NIA	16088
 Urgence de Reconstitution Collective	16529
 Use Only Recovery of Economic Activity for Liberian	17000
-V. LESSONS AND RECOMMENDATIONS	11924,3500,87,90,62,68,705,516,910,100
+V. LESSONS AND RECOMMENDATIONS	11924,3500,87,90,62,68,705,516,910,100,803,60
 V. LESSONS AND RECOMMENDATIONS Lesson	15511
 V. LESSONS AND RECOMMENDATIONS Official Use	16436
 V. LESSONS AND RECOMMENDATIONS Project	15424

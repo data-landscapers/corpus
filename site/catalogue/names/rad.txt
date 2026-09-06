@@ -137,6 +137,7 @@ El RAD	16864
 Electricity Television Radio Computer	14897
 Emergências Radiológicas	11376
 Emisiones Radioeléctricas	9543
+Equipamentos Radioeléctricos	18784
 Espectro Radioeléctrico	9543
 Estações de Radiocomunicações	11430
 Examples of RADIOSCOPICALLY GUIDED INTERVENTIONAL PROCEDURES	11269
@@ -208,6 +209,7 @@ Implement Radio Spectrum Management LTA	16872
 Import Radiation Devices	718
 Improving Radiation Safety Infrastructure	14745
 Industrie Monsieur Raoufou ODJO RADJI Membres	16485
+Instalações Radioeléctricas	18784
 International Communications Union’s Radiocommunication	5245
 Interventional Radiology	12976
 Ionising Radiation Protection Act	13403
@@ -276,6 +278,7 @@ National Forum of Community Radios	12201
 National Frequency Register and National Radio Spectrum	16872,103
 National Radio Broadcasters	958
 National Radio Frequency Plan	7827,23,239,84,62,606
+National Radio of São Tomé and Príncipe DFS	18770
 National Radioactive Waste Disposal Institute	11272
 National Radioactive Waste VOTE	11272
 Nehanda Radio	753,1064
@@ -334,6 +337,7 @@ Private Radio Station Licence Initial	736
 Private Radio Station Licences	736
 Private Radio Transceiver Station	736
 Product Link Cellular Radio Telematics Device	18444
+Programa Radiofónico Televisivo	18796
 Provider Collection Authority RAN Radio Access	14897
 Public Access Mobile Radio and Integrated Services	18444
 Public FM Radio	6946
@@ -458,7 +462,7 @@ Radical Technology Network Ltd	3862
 Radical Transparency	4528,7984
 Radicalisation	15342
 Radif	9128
-Radio	236,346,154,26,178,58,946,1164,121,167,813,345,140,551,430,197,799,185,90,13,804,259,73,713,191,1616,162,16,46,22,397,11,422,166,344,182,12,163,132,71,188,22,11,313,166,214,276,40,434,249,177,28,4,13,1,601,76,271,3,327,20,644,4,29,28,26,1,17,14,7,19,115,15,25,111,1059,3,129,63,8
+Radio	236,346,154,26,178,58,946,1164,121,167,813,345,140,551,430,197,799,185,90,13,804,259,73,713,191,1616,162,16,46,22,397,11,422,166,344,182,12,163,132,71,188,22,11,313,166,214,276,40,434,249,177,28,4,13,1,601,76,271,3,327,20,644,4,29,28,26,1,17,14,7,19,115,15,25,111,1059,3,129,63,8,258
 Radio A2. Television Broadcasting Services Licence	17250
 Radio AFRI DIGITAL MEDIA BUJUMBURA	13414
 Radio AGAKIZA BUJUMBURA	13414
@@ -629,6 +633,7 @@ Radio UPI CIBITOKE	13414
 Radio VOIX DE LA MUYINGA RECONCILIATION	13414
 Radio VOIX DE L’ASSURANCE BUJUMBURA	13414
 Radio VOIX D’AFRIQUE BUJUMBURA	13414
+Radio Via Terrestre	18791
 Radio Voiture	16644
 Radio Zibonele	8999
 Radio and Artificial Intelligence	12625,89,828
@@ -636,7 +641,7 @@ Radio and Inteko	15023
 Radio and TV	718,12253
 Radio and TV. Import	16942
 Radio and Telecommunications Terminal Equipment	14883
-Radio and Television	718
+Radio and Television	718,18052
 Radio and Television Services GSQF Gambia Skills	16852
 Radio and Television Stations and Mobile Network Operators	18485
 Radio and Television. Depending	12982
@@ -658,7 +663,7 @@ Radiocommunication Conference	6946
 Radiocommunication and Frequency Spectrum	15261,49
 Radiocommunications	9292,3998
 Radiocommunications ANNEXE	5361
-Radiocomunicações	8854,2677
+Radiocomunicações	8854,2677,7253
 Radiodetermination	736,12213
 Radiodiffuseurs	13324,90
 Radiodiffusion	8649,2474,2167,124,2522,679,1284
@@ -673,10 +678,12 @@ Radiographer	12972
 Radiographer Year U.S. Government	4153
 Radiographic Testing	14736
 Radiographics	11156
+Radiologia	18831
 Radiological Crime Scene Management	14745
 Radiological Hazards	1988
 Radiologist	16922
 Radiology	14120,653,56,377
+Radiology Training Programme	18857
 Radiomètre	15715
 Radioprotection	18315
 Radios	1920,11787,4165,233,336

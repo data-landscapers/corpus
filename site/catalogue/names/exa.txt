@@ -51,6 +51,7 @@ Data Controller. Examples	15058
 Data Explanation Example Good Poor Definition	12360
 Decentralized Manner. Example	16867
 Deeds Examination and Registration	13251
+Departamento de Ciências Exatas	18796
 Digitize National Exams	4670
 Directeur des Examens	16485
 Direction Générale des Examens	10847
@@ -113,7 +114,7 @@ Exactitud	16875,23
 Exactitude	14437,100,2099,1192,2,12,59,114
 Exactly	4641,207,2430,2769,1218
 Exactly the Block	1866
-Exactos	15385
+Exactos	15385,3370
 Exaggerated	16773
 Exagrid	11209
 Exagrid Partner Note	11209
@@ -135,9 +136,11 @@ Examen du Rapport Périodique	10826
 Examens	15639,464,525,1202,313,27,1,141
 Examens Nationaux Volontaires	15968
 Examens du CFEPD	18171
-Exames	10777,4995
+Exames	10777,4995,2996
+Exames Efectuados	18768
 Exames da Avaliação Externa	15772
-Examinar	1701,9748,3942
+Examina	18802
+Examinar	1701,9748,3942,3397,12
 Examination	3,8351,1842,2031,402,346,168,168,74,92,1193,536,1396,298,1664
 Examination B.Sc. Bachelor of Science CAP Common	18578
 Examination BoG Board of Governors CAPI Computer	18460
@@ -386,7 +389,8 @@ Recommendation Examples Entrepreneurship Support	10841
 Registration for Public Exams	18474
 Requirements Requir Data Definition Explanation Example	12360
 Role Grouping Roles Examples	6832
-S. Exa	10751
+S. Exa	10751,8053
+S. Exa. Ministra de Estado	18804
 S. Exa. O Titular Justiça	10750
 S. Exa. Presidente da República	10750
 S. Exa. Sr. Francisco da Costa Monteiro	17337

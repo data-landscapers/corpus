@@ -100,7 +100,8 @@ Cross-Cutting Integration Themes	4528,7984
 Cross-Cutting Themes	6937
 Cultural Organization UTAUT Unified Theory of Acceptance	14666
 D. Sector and Theme Codes E. Bank	16614
-DATA SHEET Themes Major Theme	16952
+D. Sector and Theme Codes Original Actual	18754
+DATA SHEET Themes Major Theme	16952,1813
 DATE D’EXAMEN THEME PROPOSE PAR	16103
 DE THEME PROPOSE PAR N	16103
 DE THEME PROPOSE PAR SOURCE N	16103
@@ -355,13 +356,15 @@ Nyombi Thembo	4351,201,108,27,66,590,919,2,2777,654
 OCCUPATIONAL THERAPY	14773
 Occupational Therapist	12976
 Occupational Therapy	14773
+Official Use Only Themes Major Theme	18825
 Operating Theatre	12976
 Oral Rehydration Therapy	15247
 Organization Theory	11028
-Original Theory of Change	11924,3587,90,62,68,2118,13
+Original Theory of Change	11924,3587,90,62,68,2118,13,903,60
 Original Theory of Change for MDAP The World	1228
 Osaka Theme Week	3760,9683
 Overarching Goal and Theory of Changes	14000
+Overarching Themes	18754
 Overview Of Key Thematic Focus Areas	6936
 PAR DOCUMENTA IRE NOUVEAU THEME REUNION	16103
 PEA Theoretical	1261
@@ -497,6 +500,7 @@ Strategic Themes	12759,317
 Strategic Themes The Next Horizon Strategy	3487
 Strategy for Africa ToC Theory of Change	1814
 Sub-Saharan Africa TWO-THIRDS OF THEM	10977
+São Tomé and Príncipe Thematic	18776
 TEP Theory of Change	14958
 THE-REPÜBYE SECRETABHAT	15999
 THEFT AND VANDALISM	11211,51
@@ -536,6 +540,7 @@ THEORY DATA	10852
 THEORY OF CHANGE	13938
 THEORY OF CHANGE AFTER RESTRUCTURING	17849
 THEORY OF CHANGE Project Development Objective	13938
+THEORY OF CHANGE TABLE	18825
 THER SECRETARHAT GENERAL	15999
 THERAPEUTIQUE ET DE RETABLISSEMENT	15732
 THEREPUB ECRETAR	15999
@@ -556,6 +561,7 @@ Teboho Thejane	7936
 Technology and Digitalization Thematic Policy Statement	16951
 Test Theory DIVT Directorate of Industrial and Vocational	12975
 Textile and Apparel Sector Thematic Working Group	12703
+The&nbsp	18862
 The'Borrower	15399
 The-Covid-19-Crisis-in-Egypt.pdf	15519
 The-Economics-and-Implications-of-Data-An-Integrated-Per-	961
@@ -732,8 +738,8 @@ Thembisile Hani Local Municipality	11281
 Thembo	4660,1537,10,1222,2266,86,202
 Thembo Nyombi	10563
 Thembo and Starlink	6263
-Theme	1987,429,622,3130,1380,464,3,7,108,2718,383,693,70,252,460,256,397,1671,394,177,62,68,705,453,32,31,104,195,9,63,1,525,13,100,513,13,89
-Theme Code	16614
+Theme	1987,429,622,3130,1380,464,3,7,108,2718,383,693,70,252,460,256,397,1671,394,177,62,68,705,453,32,31,104,195,9,63,1,525,13,100,513,13,89,188,60
+Theme Code	16614,2140
 Theme Collaborate EMS	8603
 Theme Combine So	8603
 Theme Communicate Phone	8603
@@ -808,7 +814,7 @@ Theory and Practice of Electronic Governance	2093,3
 Theory and Practice of Global Media and Communication Policy	11028
 Theory and Research	5349
 Theory of C	18557
-Theory of Change	1228,56,1605,715,1049,1886,4229,1137,19,16,235,122,1035,658,968,39,514,90,3,54,1,4,39,2,27,653,52,516,8,179,319,391,13,100,397,11,159,28
+Theory of Change	1228,56,1605,715,1049,1886,4229,1137,19,16,235,122,1035,658,968,39,514,90,3,54,1,4,39,2,27,653,52,516,8,179,319,391,13,100,397,11,159,28,208,60
 Theory of Change Activities Outputs Intermediate Outcomes	15663
 Theory of Change Barriers	12175
 Theory of Change C. Project Beneficiaries	15743
@@ -895,6 +901,7 @@ Thermique HFO Thermique LFO GAZ Solaire	10975
 Thermique Producteurs Indépendants	16714
 Thermique Puissance	18322
 Thermo	14442
+Thermo-électrique	18757
 Thermolabile	9855
 Thermoplastic	16900
 Thermoplastic Flexible Film	16900

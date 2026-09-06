@@ -567,6 +567,7 @@ Error Correction Models	18577
 Essau Model Police Station	5486,11487
 Estimation Methodology Data Selection Model	10714
 Estratégia de Modernização da Rede Privativa	11396,1
+Estágio Futuro Arquitetura de Dados Elevada Modelação	18801
 Eswatini Payments Switch Fast Payments Module	11131
 Etat Mode	16627
 Etat. Modernisation	15936
@@ -760,6 +761,7 @@ ILO Modelled	11581
 IMA Instituto de Modernização Administrativa	10765,10
 IMA Instituto de Modernização Administrativa MR Mecanismo	11413
 IMF’s Flexible System of Global Models	17503
+IMPLEMENTATION MODALITIES	18809
 IMPLEMENTATION MODALITIES..61 ANNEX	12939
 INELIGIBILITES ET INCOMPATIBILITES ET DU MODE	17861
 INSTAT MODERNISATION DU SYSTEME STATISTIQUE	17993
@@ -936,6 +938,7 @@ Louis Modeste Ouédraogo	12068
 Louis Modeste Ouédraogo. Emil SEGDA	12068
 Low Low Stakeholders Moderate Moderate Moderate	18473
 Low Moderate	1938
+Low Moderate Environment and Social Low Stakeholders	18792
 Low Moderate High No Erosion	17043
 Low Moderate Moderate Moderate Institutional Capacity	12440
 Low Moderate Strengthen	16926
@@ -1098,6 +1101,7 @@ MODIFICATION DU CODE	17898
 MODIFICATION DU DÉCRET PORTANT	2342
 MODIFICATION ET FALSIFICATION DE DONNEES INFORMATIQUES	16617
 MODIFICATION ET PROPRIÉTÉ DES OFFRES	13635
+MODIFICATION OF PERFORMANCE CRITERIA	18823
 MODIFICATIONS AU MARCHE PUBLIC	16747
 MODIFICATIONS DES DISPOSITIONS DE LA FISCALITE	16047
 MODIFICATIONS DES DISPOSITIONS PARAFISCALES Article	16047
@@ -1214,9 +1218,9 @@ ModDate D	1685
 ModaLoop	11710
 Modale Greenco	14479
 Modalidad	16904
-Modalidade	10766,595
+Modalidade	10766,595,7472,1,1
 Modalidade Presencial Período Tarde Propina Mensal	12019
-Modalidades	11430,3962,1506
+Modalidades	11430,3962,1506,1936
 Modalidades de Concessão	11430
 Modalites	14479
 Modalities	970,11579,2313,56,1,258,1766,837
@@ -1254,7 +1258,7 @@ Mode of Study Figure	14775
 Mode of Study and Gender	14775
 Mode of Training of Census	18464
 Mode of Transportation	16935
-Model	27,7,202,500,1078,1134,913,265,306,893,42,315,1469,397,211,31,96,257,158,194,185,448,1,1274,48,314,10,205,174,2,154,696,153,46,132,21,2,35,4,207,72,291,388,267,49,132,636,180,262,281,505,106,1662,872,129
+Model	27,7,202,500,1078,1134,913,265,306,893,42,315,1469,397,211,31,96,257,158,194,185,448,1,1274,48,314,10,205,174,2,154,696,153,46,132,21,2,35,4,207,72,291,388,267,49,132,636,180,262,281,505,106,1662,872,129,349
 Model AI Governance Framework and AI Verify	11135
 Model Agility	5226
 Model App Help	13051
@@ -1357,16 +1361,20 @@ Modelling Language	12360
 Modelling Notation	9124
 Modelling Notation ArchiMate The Notation	9124
 Modelling and Guidance Products Regional	11191
-Modelo	1701,2508,7160,1,1,74,16,94,463,843,2615,56,1654
+Modelo	1701,2508,7160,1,1,74,16,94,463,843,2615,56,1654,1567,48
 Modelo Conceptual de Transformação Digital	2816
 Modelo Estratégico Global	1701
 Modelo Mod	12018
 Modelo Nacional de Avaliação	11451
 Modelo Normativo de Classificação	11448
 Modelo Série	11532
+Modelo de Avaliação da Maturidade	18801
+Modelo de Carta de Apresentação da Proposta. Anexo	18753
 Modelo de Dados	11371
 Modelo de Desarrollo Rural	1701
 Modelo de Formação	11444
+Modelo de Garantia Bancária	18753
+Modelo de Garantia da Proposta. Anexo	18753
 Modelo de Gestão	10783,4693
 Modelo de Gestão Financeira	10750
 Modelo de Governança	11448
@@ -1385,7 +1393,7 @@ Modelos de Arranjo Institucional	11456
 Modelos de Atestado	11419
 Modelos de IA	2816
 Modelos de Linguagem de Pequena Escala	2816
-Models	226,3519,1694,794,370,548,216,70,353,511,818,1595,49,18,375,1045,96,130,2055,2301,140,1,1045,340,49
+Models	226,3519,1694,794,370,548,216,70,353,511,818,1595,49,18,375,1045,96,130,2055,2301,140,1,1045,340,49,429
 Models Cloud	16923
 Models Insights	4848
 Models and Chatbots	13461
@@ -1403,7 +1411,7 @@ Moderado Quadro	11421
 Moderado Risco	11390
 Moderado. Não	11390
 Moderan ZIS Angole	10780
-Moderate	418,551,315,490,54,39,845,892,1084,559,1185,107,40,349,949,424,828,1597,42,7,1,4,49,41,94,16,37,139,239,22,52,56,35,202,93,8,42,51,9,6,17,6,1,11,186,22,39,25,61,37,12,38,1,74,516,41,273,1,418,170,90,477,89,334,27,39,4,39,119,273,36,33,31,7,35,48,60,76,246,30,66,65,240,14,38,269,153,38,26,27,45,2,4,79,17,18,26,17,284,29,400,23,11,54,48,98,29,65,95,8,54,15,161,97
+Moderate	418,551,315,490,54,39,845,892,1084,559,1185,107,40,349,949,424,828,1597,42,7,1,4,49,41,94,16,37,139,239,22,52,56,35,202,93,8,42,51,9,6,17,6,1,11,186,22,39,25,61,37,12,38,1,74,516,41,273,1,418,170,90,477,89,334,27,39,4,39,119,273,36,33,31,7,35,48,60,76,246,30,66,65,240,14,38,269,153,38,26,27,45,2,4,79,17,18,26,17,284,29,400,23,11,54,48,98,29,65,95,8,54,15,161,97,149,32,8
 Moderate Agency	11863
 Moderate Agency OF THE OPERATION	11863
 Moderate Areas	18628
@@ -1425,18 +1433,21 @@ Moderate Environment and Social	10870,6026,26,548,434,102,127
 Moderate Favorable	17157
 Moderate Fiduciary	6928,4467,593,5012,470,663
 Moderate Financing	3562,7855
-Moderate For Official Use Only	17470
+Moderate For Official Use Only	17470,1347
 Moderate High Very High IMPACT	13053
+Moderate Implementation and Sustainability Fiduciary	18809
 Moderate Individuals	16926
 Moderate Initiate	13938
+Moderate Institutional Capacity	18809
 Moderate Institutional Capacity for Implementation	10870,1101,4951,157,825,54
 Moderate Intrinsic Risk	11156
 Moderate Jun	6579,349,10066
 Moderate LEGAL COVENANTS2 LEGAL COVENANTS	16922
 Moderate LEGAL COVENANTS2 RESULT FRAME TBL PD	16896
+Moderate Legal Covenants Effectiveness IBRD	18777
 Moderate Local	17157
 Moderate Lowland	16996
-Moderate Macroeconomic	10870,2188,3838,26,78,96,808,102
+Moderate Macroeconomic	10870,2188,3838,26,78,96,808,102,811
 Moderate Macroeconomic Low Substantial Substantial Sector	18354
 Moderate Macroeconomic Moderate Moderate Moderate Sector	13027
 Moderate Mangroves	16996
@@ -1449,6 +1460,8 @@ Moderate Moderate Moderate Overall Substantial Substantial	12267
 Moderate Moderate Moderate Sector Strategies and Policies	18534
 Moderate Moderate Partially Partial	17157
 Moderate Moderate Stakeholders Moderate Moderate Moderate	15619,1019,867
+Moderate Moderate Substantial Moderate Moderate Sector	18792
+Moderate Moderate Substantial Moderate Substantial Moderate	18792
 Moderate Moderate Technical Design of Project	16638,1835
 Moderate Moderate The World Bank Implementation	15735
 Moderate National Individuals	11855
@@ -1458,7 +1471,8 @@ Moderate Operation Name Côte	16032
 Moderate Organizations	14966
 Moderate Organizations Borrower Responsible Agency Republic	18359
 Moderate Other Overall	16896,26
-Moderate Overall	10870,1118,4717,295,96,374,488,48,127,222
+Moderate Overall	10870,1118,4717,295,96,374,488,48,127,222,462
+Moderate Overall ESS	18809
 Moderate Overall MPA Program Risk	11417
 Moderate Page	13332
 Moderate People	11994
@@ -1483,13 +1497,13 @@ Moderate Simultaneous	11417
 Moderate Simultaneous Democratic Republic of Congo	11417
 Moderate Simultaneous Mozambique	11417
 Moderate South Kordofan	15244
-Moderate Stakeholders	1284,1428,8158,2188,862,2976,26,157,17,374,434,229
+Moderate Stakeholders	1284,1428,8158,2188,862,2976,26,157,17,374,434,229,676
 Moderate Stress Leaf	17157
 Moderate Sustainability	10870
 Moderate Sustainability Fiduciary	2712,15192
 Moderate Sustainability Page	16922
-Moderate Technical Design of Project	6928,3942,1118,2992,1916,26,78,96,374,434,102,127
-Moderate The World Bank Implementation	16013,987,96,910
+Moderate Technical Design of Project	6928,3942,1118,2992,1916,26,78,96,374,434,102,127,676,8
+Moderate The World Bank Implementation	16013,987,96,910,786
 Moderate Traditional	11994
 Moderate Tropical Storm	1228
 Moderate Undesirable Content Distribution of Obscene	18675
@@ -1534,10 +1548,10 @@ Moderate. The Environmental and Social Review Summary	16949
 Moderate. The PCU	16896,26
 Moderate. The World Bank	13332
 Moderated	6653,10607,610
-Moderately	418,1410,10413,839,15,270,1091,708,1796,139,28,30
+Moderately	418,1410,10413,839,15,270,1091,708,1796,139,28,30,1652
 Moderately Dry Emerging	17157
 Moderately Poor	15244
-Moderately Satisfactory	764,228,4,220,12,56,486,4,281,194,463,177,100,605,1059,6126,107,78,431,529,41,6,17,207,365,494,338,441,87,90,446,510,5,46,2,171,196,38,87,90,60,41,80,20,167,14,30,66,108,211,38,178,91,191,26,72,6,904,58,393,4,15,160,101
+Moderately Satisfactory	764,228,4,220,12,56,486,4,281,194,463,177,100,605,1059,6126,107,78,431,529,41,6,17,207,365,494,338,441,87,90,446,510,5,46,2,171,196,38,87,90,60,41,80,20,167,14,30,66,108,211,38,178,91,191,26,72,6,904,58,393,4,15,160,101,182
 Moderately Satisfactory Bank Performance	14948
 Moderately Satisfactory C.2 Detailed Ratings of Bank	16614
 Moderately Satisfactory Component	13054,5581
@@ -1550,8 +1564,8 @@ Moderately Satisfactory Moderately Satisfactory	15424,1190
 Moderately Satisfactory Moderately Satisfactory Overall Risk	15619,116,903,1835,61
 Moderately Satisfactory Monitoring and Evaluation	18635
 Moderately Satisfactory Name	16079,915,85,879
-Moderately Satisfactory Overall Implementation Progress	6579,5409,1932,136,2649,1650
-Moderately Satisfactory Overall Risk Rating	6579,5409,1932,136,1103,1546,295,904,102,349
+Moderately Satisfactory Overall Implementation Progress	6579,5409,1932,136,2649,1650,462
+Moderately Satisfactory Overall Risk Rating	6579,5409,1932,136,1103,1546,295,904,102,349,462
 Moderately Satisfactory Page	17962
 Moderately Satisfactory Progress	11971,4108,915,85,879
 Moderately Satisfactory Public Disclosure Authorized Public	16013
@@ -1696,9 +1710,9 @@ Modernising Postal Infrastructure	13582
 Modernising and Enforcing Data Protection Law	6936
 Modernité	8891,2944
 Modernización	1701,2508,2272,10449,412,72
-Modernizar	1701,1115,5,8558,18,4138,1324,34
+Modernizar	1701,1115,5,8558,18,4138,1324,34,1901
 Modernizar Pagamento de Energia	12791
-Modernization	1264,20,9481,10,37,324,85,324,371,222,1987,1013,335,80,708,370,604,627,8,304,338,25
+Modernization	1264,20,9481,10,37,324,85,324,371,222,1987,1013,335,80,708,370,604,627,8,304,338,25,288
 Modernization Acknowledging	14525
 Modernization Framework	12758
 Modernization Projects	13053
@@ -1719,8 +1733,10 @@ Modernization of Public Financial Management	1284
 Modernization of Public Financial Management Page	1284
 Modernization of Public Financial Management World Bank	1578
 Modernization of Refugee and Host Community Settlement Areas	1867
-Modernização	15,1253,72,743,6,43,163,1543,55,10,315,195,6,36,561,86,1428,1418,2328,489,10,590,14,2,1,15,9,159,1,3,3963,40,183,145,62,93,321,111,813
+Modernization of STP	18817
+Modernização	15,1253,72,743,6,43,163,1543,55,10,315,195,6,36,561,86,1428,1418,2328,489,10,590,14,2,1,15,9,159,1,3,3963,40,183,145,62,93,321,111,813,1493
 Modernização Administrativa	4641,6738,106,67,3,11,3,268,3543,996,709
+Modernização Administrativa Modernizar	18853
 Modernização Administrativa NOSi Núcleo Operacional	11545
 Modernização Agrícola	11564
 Modernização Institucional	11423,5755
@@ -1846,6 +1862,7 @@ Modifi	15455
 Modifiability	5665
 Modificación	163,16692
 Modificación de Empresas	16859
+Modificado	18771
 Modificatif	15537
 Modification	1005,1337,283,1542,35,15,43,41,48,1003,5359,64,747,666,176,574,392,45,149,63,1,47,853,1,1,380,14,27,169,314,148,84,17,137,163,56,48,248,33,85,202,224,646,348,8,41,659
 Modification Application	12364
@@ -1856,6 +1873,7 @@ Modification du Décret	2625,10962,1
 Modification du Décret-loi	2625
 Modification of A Medicinal Product	18541
 Modification of Bids	13185,1581
+Modification of Performance Criteria	18823
 Modification of Priority	12364
 Modification of Priority A Participant	12364
 Modification of Proposals	15080
@@ -2008,6 +2026,7 @@ Multistakeholder Model	3503
 MÉTHODE MODERNE	13300
 MÉTHODE MODERNE INSISTEZ	13300
 Mémorial Modibo Keïta. Cette	17978
+Métodos Modernos	18762
 N TRAINING MODE OF ASSUMPTION BUDGET	1988
 N.O Département Lettres Modernes	15674
 N3 MPEG-21 DIDL MODS ASCII Citation	10878
@@ -2027,6 +2046,7 @@ NW Ngaka Modiri Molema Mafikeng Provincial	11986
 NamRA’s Leadership Model	12951
 Narendra Modi	2379
 Nation's First Generative AI Model	3826
+National Action Plan and Clean and Modern Cooking	18795
 National Digitalization and Modernization Initiative	5994,11286,114
 National Direction for State Modernization	12008
 National Director of State Modernization	11873
@@ -2066,6 +2086,8 @@ Nov-2022 Moderately Satisfactory Moderately Satisfactory	15731
 Nov-2022 Moderately Unsatisfactory Moderately Satisfactory	17962
 Nuevo Modelo de Formación Profesional	4209
 Number LLM Large Language Models	3184,1,1340,6470
+Numerical Model and Forecasting	18787
+Numerical Weather Forecast Model and Forecast Tool	18787
 Numérique Modernisation	18346
 O D Very High High Moderate	13053
 O Instituto de Modernização Administrativa	6694,8,2177
@@ -2108,6 +2130,7 @@ Operational Model	12512
 Outcome Moderately Satisfactory	14885
 Outcome Rating Moderately Satisfactory	16960
 Over PM Modi Video Row	9404
+Overall Risk Rating Moderately Satisfactory Moderately	18792
 Overall Substantial Moderate Moderate Results PDO	18473
 Oversee Jomo Kenyatta Airport Modernization Kenya	5407,676
 Ozow. The Payments Ecosystem Modernisation	5691
@@ -2146,7 +2169,7 @@ PREFERRED MODE OF COMMUNICATION	2709
 PRET Module	17289
 PRIOR MODIFICATIONS TO AUDIT REPORTS	11218,6
 PROCEDER A LEUR MODIFICATION	16629
-PROGRAM MODALITIES	17503,406,81
+PROGRAM MODALITIES	17503,406,81,833
 PROGRAM MODALITIES AND OTHER ISSUES	17209,117
 PROJET D’APPUI A LA MODERNISATION	10880
 PROJETS DE MODERNISATION DU SYSTEME	13452
@@ -2177,6 +2200,7 @@ Pebble Bed Modular Reactor	11272
 Peer PAMFP Public Finance Modernization Support	16942
 Penn Wharton Budget Model	11140
 People People Mode Amour Videos Gallerie	9890
+Perda de Nacionalidade Modalidade	18834
 Performance Indicator Large Language Model Monitoring	4528
 Performance Moderately Unsatisfactory Modest M&E Quality	16436
 Perinatal Health Monitoring Module	11589
@@ -2299,8 +2323,10 @@ Records Continuum Model	9888
 Refactor Moderate	6432
 Reference Information Model	1009
 Reference Model	13250
+Reform and Modernization	18825
 Reform and Modernization Division	17011
 Reform and Modernization of Customs	16631
+Reform and Modernization of Property and Land Registry	18825
 Region Region Population Poverty Rate Moderate	18104
 Region. Prime Minister Modi	11183
 Regional Integration and Employment Mod K. Ceesay	8459
@@ -2439,7 +2465,7 @@ Sample Accreditation Model	6488
 Santé Modèle des Objets de Santé Numéro Identifiant	17882
 Satellite and Regional Models Satellite	11191
 Satisfactory Moderately	17962
-Satisfactory Moderately Satisfactory	10779,7183
+Satisfactory Moderately Satisfactory	10779,7183,792
 Satisfactory Moderately Satisfactory Current	2989
 Satisfactory Moderately Satisfactory Overall Risk Rating	17505
 Satisfactory Satisfactory Quality of M&E Modest Modest	14888
@@ -2482,7 +2508,7 @@ Shared Governance Model	14565
 Shared Governance Model A Shared	14565
 Shared Responsibility Model	11995
 Shava Hails Community Education Model	2888,32,354,504,1444,983,809,293,115
-Shri Narendra Modi	7365,4560,2819
+Shri Narendra Modi	7365,4560,2819,4113
 Sierra Leone Integrated Macroeconomic Model	18488,12,77
 Simulation Model	13349
 Single Window Modernizing	16631
@@ -2540,6 +2566,7 @@ Substantial Macroeconomic Moderate Moderate Moderate Sector	17505,845
 Substantial Moderate Moderate Environment and Social Low	18473
 Substantial Moderate Moderate Moderate Moderate Environment	12440
 Substantial Moderate Moderate Technical Design of Project	18534
+Substantial Substantial Fiduciary Moderate Low Moderate	18792
 Substantial Substantial Risk Category Moderate	11905
 Substantial Substantial Stakeholders High Moderate Moderate	15735
 Successful Model	9197
@@ -2623,6 +2650,7 @@ UHIS Module	16079
 UM ESPAÇO PÚBLICO E MODERADO. Não	2315,129,1086,2027,15,247
 UN Model Law	10718
 UNCITRAL Model Law	1163,12822
+UNCITRAL Model Law. Created	18797
 UNCITRAL's Model Law	14752
 UNCITRAL’s Model Law	11550
 UNDP Model Governance Framework for Digital Legal	2024,971

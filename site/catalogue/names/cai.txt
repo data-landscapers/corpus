@@ -179,7 +179,7 @@ Caisses de Retraite	10711
 Caissier	13390,4592
 Caissier du CSCOM de Kalaké	17964
 Caitlin Noonan	17869
-Caixa	15526,563
+Caixa	15526,563,2679,65
 Caixa Automática	11438,4007
 Caixa Automático	11403,35,4007
 Caixa Automático BIS	17032
@@ -188,12 +188,13 @@ Caixa Económica de Cabo Verde ECV	17032
 Caixa Económica de Cabo Verde Members Mónica	11955
 Caixa Económica de Cabo Verde Soeli Cristina	11955
 Caixa Geral de Depósitos	9832
-Caixa Postal	539,1599,1906,6713,608,56,5089
+Caixa Postal	539,1599,1906,6713,608,56,5089,2283,9
 Caixa Vinti4	15445
 Caixa Vinti4. Evite	15445
 Caixa de Ferramentas de Suporte	2816
 Caixabank	15542
 Caixas	6462
+Caixas Automáticas	18798,26,29
 Caixas Automáticos	11465,3980
 Caixas Vinti4	15445
 Caixas Vinti4. Geralmente	15445
@@ -278,6 +279,8 @@ Os Caixas Vinti4	15445
 Ouest CNSR Caisse Nationale de Sécurité Sociale	15583
 POSTE MONTANTS NETS CAISSE A10 CREANCES	17833
 Parlementaires CNCAS Caisse Nationale de Crédit Agricole	18286
+Portuguese Caixa Geral de Depositos	18797
+President Caixa Postal	18797
 Produits de Santé CAMU Caisse	15685
 Programme ACCESS CAIDP	3340
 Projet Caisse	15685

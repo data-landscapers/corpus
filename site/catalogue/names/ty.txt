@@ -10,7 +10,7 @@ Account Number Type	11685
 Account Type	11685
 Actif Notice Type	13818
 Activity Type Total Account Opening	18576
-Additional Financing Type	11965
+Additional Financing Type	11965,6844
 Address Types	11129
 African Union Document Type	13899
 African Union Document Type AU Launches	14724
@@ -167,6 +167,7 @@ Equipment Type-Approval	10407
 Equity Interest Type and Self Certification	11685
 Establishments Establishment Type Count Percentage Formal	15085
 Exemptions From Type Approval	18609
+Expected Approval Date Review Type	18809
 External Services Type	15411
 External Services Type B	15411
 FADES. Type	1993
@@ -213,7 +214,7 @@ High Resolution HLA Typing	14773
 Hl Ty	15363
 Homba Ngejane TYPES OF CYBERATTACKS EXPERIENCED	1938
 Hurricane and Typhoon	13776
-ICR Type	16614
+ICR Type	16614,2140
 ICSE-18 Type	11296
 ID Projet Type Coût	17860
 ID Scope System Type Binary	7221
@@ -630,7 +631,7 @@ Tymebank’s US	12339
 Tymtrack Limited	6946
 TypIfBDNZbtD6gW8	15342
 Type Acceptance	18609
-Type Amount Disbursed	15731,705
+Type Amount Disbursed	15731,705,2389
 Type Amount Disbursed Key Revisions	11924,6038
 Type Amount Drawn	13868
 Type Application Fee	17250

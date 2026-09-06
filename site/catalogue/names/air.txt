@@ -83,7 +83,7 @@ Air Cdre. Dr. Eng. E. M	1554
 Air Cdre. Dr. Eng. Edgar Munyarari	1554
 Air Commodore Dr Eng. Edgar Kamusoko	1554
 Air Conditioner	12383
-Air Conditioners	14736
+Air Conditioners	14736,4059
 Air Conditioning	11134
 Air Conditioning Chamber	14736
 Air Conditioning International Financial Reporting Standards	11134
@@ -581,6 +581,7 @@ Freight and Mail for Air Transport	18555
 Frogfoot Air	10735,524
 Fully Air Conditioned Rooms	14778
 G and MTN AirFibre	10793
+GBON Surface and Upper Air	18787
 GBON Upper Air Station	16947
 GLO MTN EMTS AIRTEL SMILE IHS	3862
 Gabon Télécom and Airtel Gabon	15447
@@ -726,6 +727,9 @@ NIL AST EX AIR AFRIQUE	16552
 NSSF and Airtel Money Renew Partnership	13277
 Namibia Airports Company	6765,976
 Nation Wide Remote Sensing Airborne Geophysical	191
+National Airports and Air Safety Company	18825
+National Company for Airports and Air Safety	18851
+National Enterprise for Airports and Air Safety	18797
 National Identity Cards. Despite Airtel Malawi	12978
 NetOne Airtime Fraud	9397
 Nigerian Air Force	11976
@@ -841,6 +845,7 @@ Starlink and Airtel	4442
 State of Global Air Report. Health Effects	14947
 Steam and Air Conditioning Supply	2775,3550
 Sudan Airways	9490
+São Tomé and Príncipe’s International Airport Nuno	18797
 TNM Mpamba and Airtel Money. Andrew Kamwendo	17703
 TNM and Air	4775
 TNM and Airtel	7842
@@ -874,11 +879,13 @@ U.S. Air Force Mobility Guardian	4434
 UNDP and Airtel Malawi	12174
 UNICEF and Airtel	5802
 Uganda Telkom and Airtel Unique	10822
+Uganda’s Arua Airport	18862
 United Nations Humanitarian Air Service	14945
 University of Buenos Aires	5682
 Unlike Airtel	4442
-Upper Air	16947
+Upper Air	16947,1840
 Upper Air Observation Workstation	16947
+Upper Air Sounding	18787
 User Guidelines for AIR CARGO FREIGHT FORWARDERS	12454
 Ventilators. Fans. Air-conditioners	13385,3515
 Vertiv’s Link To Airtel Africa’s Nigerian	17732

@@ -59,7 +59,7 @@ African Continental Free Trade	14997
 African Continental Free Trade Agreement	961,38,244,874,889,1117,1121,1119,1422,3034,366,624,1254,417,542,2475,475,133
 African Continental Free Trade Agreement AMP	5244
 African Continental Free Trade Agreement’s Digital	5487
-African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11,279,43,23,169,115,298,29,219,29,172,234,83,88,123,80,205,49,153,1,50,8,33,43,38,58,9,96,71,129,119,25,1,116,192,514,190,29,284,154,937,82,1,49,186,29,11,13,16,4,34,57,28,11,40
+African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11,279,43,23,169,115,298,29,219,29,172,234,83,88,123,80,205,49,153,1,50,8,33,43,38,58,9,96,71,129,119,25,1,116,192,514,190,29,284,154,937,82,1,49,186,29,11,13,16,4,34,57,28,11,40,1001
 African Continental Free Trade Area ADEEG	11271
 African Continental Free Trade Area AIP	13080
 African Continental Free Trade Area Agreement	5247
@@ -353,7 +353,7 @@ Contingency Contingency Inaccessibility	12364
 Contingency Emergency Reconstruction Component	1228
 Contingency Emergency Response	13331,4970
 Contingency Emergency Response Comment	13392
-Contingency Emergency Response Component	2989,7779,195,1002,2611,977,108,76,276,174
+Contingency Emergency Response Component	2989,7779,195,1002,2611,977,108,76,276,174,2622
 Contingency Emergency Response Component. Following	14576
 Contingency Emergency Response Part	16936
 Contingency Event	12364,120
@@ -366,12 +366,12 @@ Contingency Planning	12356,2565,2988,81
 Contingency Plans	17962
 Contingency Unforeseen	17260
 Contingency Vote	7695
-Contingent	998,286,544,1061,3138,5203,18,132,575,1098,815,1650,143,1261,56,279
+Contingent	998,286,544,1061,3138,5203,18,132,575,1098,815,1650,143,1261,56,279,1594
 Contingent Allemand	998
 Contingent Allemand ARCEP	998
 Contingent Emergency	1284
-Contingent Emergency Response	1284,3369,2275,4489,554,204,1156,1125,97,357,608,184,442,292,1522,397,268
-Contingent Emergency Response Component	761,235,232,36,20,300,283,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61,990,2,226,353,27,35,66,2,37,1,2,82,39,187,14,96,65,43,197,52,460,26,4,68,6,96,3,15,848,171,160,8,49,4,5,97,48,30
+Contingent Emergency Response	1284,3369,2275,4489,554,204,1156,1125,97,357,608,184,442,292,1522,397,268,186,8
+Contingent Emergency Response Component	761,235,232,36,20,300,283,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61,990,2,226,353,27,35,66,2,37,1,2,82,39,187,14,96,65,43,197,52,460,26,4,68,6,96,3,15,848,171,160,8,49,4,5,97,48,30,275
 Contingent Emergency Response Component CERC Country	11417
 Contingent Emergency Response Component CERC Steering	1228
 Contingent Emergency Response Component CPF Comité	10964
@@ -404,7 +404,9 @@ Continua... Indicadores	10777
 Continuadores	12842
 Continual	16631
 Continually	12208
+Continuamos	18870
 Continuance	15627,1260
+Continuando	18775
 Continuar	1701,9355,5809
 Continuaremos	2618
 Continuation	3714,7467,1354,447,1940,1965,507,1072
@@ -433,7 +435,7 @@ Continue Strengthening Public Financial Management	1579
 Continue With MyNa Credentials	3002,443,14,16,1606,536
 Continue des Enseignants	11905,3768
 Continue des Enseignants ENI	15673
-Continued	418,582,777,51,160,1726,476,420,1045,25,752,303,301,727,763,77,2,854,71,558,688,17,48,15,8,267,3,77,39,11,119,103,693,17,21,22,10,194,465,57,80,11,42,38,198,1,49,96,55,60,177,169,211,1,244,383,122,36,62,32,10,90,9,26,440,54,868,588,143,69,13,164,406,81,109,34,160,148,136
+Continued	418,582,777,51,160,1726,476,420,1045,25,752,303,301,727,763,77,2,854,71,558,688,17,48,15,8,267,3,77,39,11,119,103,693,17,21,22,10,194,465,57,80,11,42,38,198,1,49,96,55,60,177,169,211,1,244,383,122,36,62,32,10,90,9,26,440,54,868,588,143,69,13,164,406,81,109,34,160,148,136,274
 Continued AI	1363
 Continued Annual Absorption of Frontline HCWs Year	4260
 Continued Breastfeeding and Bottle Feeding	15247
@@ -759,7 +761,7 @@ NOTARIA DE LA REGION CONTINENTAL.- Concepto	4209
 Namibe Uíge Zaire Continua	10766
 National Bank of Rwanda. Continuous	9046
 National Contingency Plan	10763,617,1969,3525
-National Contingency Plans	3887
+National Contingency Plans	3887,14900
 National Disaster Recovery and Business Continuity Plan	1000
 National ID Card Rollout Continues	5475
 National Oil Spill Contingency Plan	14748
@@ -776,6 +778,7 @@ Offsite Business Continuity Production Centre. F	12597
 Open Data Platform Continues	17291,31,79
 Operational Continuity Ensured	16698
 Operations and Maintenance Continuously	11007
+P4. Continuidade	18774
 P509258 Contingent Emergency Moderate Response Project	18198
 PARQUE MOVIL CIVIL REGION CONTI.-Concepto	4209
 PLATEFORME CONTINENTALE	16195
@@ -790,10 +793,13 @@ Pattern Across the Continent Across Africa	8943
 Patterns Across the Continent	5551
 Pending Litigations and Contingent Liabilities	5903
 Performance and Continuous Improvement	11131,3
+Personal Interviews CERC Contingent Emergency Response	18777
 Plan de Continuidad de Actividades	17342
 Plan de Continuité	10906,3631
 Plan de Continuité des Activités	13341
+Plano de Contigençia Nacional	18787
 Plans Nationaux de Contingence	14662
+Plataforma Continental	18764
 Point City Freetown Country SL Continental	18579
 Post-Emergency Continuity Review. Following	3503
 Present Continuous	18099
@@ -807,6 +813,7 @@ Projet Contingent de Réponse	9339,4948,1
 Promote Continuous and Inclusive Access	7405
 Prospects for Continuous Consumer Experience	5679
 Prospects for Continuous Consumer Experience The Regulatory	5679
+Príncipe Continente	18768
 Public Services Continue	8677
 Quality Assurance and Continuous Improvement	9855,7432
 Quality Assurance and Continuous Improvement. The Consultant	17287
@@ -894,6 +901,7 @@ Tipo. Contiene	16871
 Tooling Still Ignores the Continent	7208
 Tracking CDP Continuous Data Protection CIFS	13185
 Training Continued	2477
+Transfer CERC Contingency Emergency Response Component	18809
 Transformation AfCFTA African Continental Free Trade	11994
 Transition and Continuity	6432
 Tripartite and Continental	12942

@@ -80,7 +80,7 @@ LEI QUE ESTABELECE O REGIME JURÍDICO	12784
 LEI SOBRE O REGIME JURÍDICO	11384
 LISBOA PróximoABERTURA DO REGIME ESPECIAL	6837
 LIVRE II DU REGIME DES RESSOURCES	18094
-Legal Regime	16942,30
+Legal Regime	16942,30,1825
 Legal Regime Netwk Ops	16594
 Legal Regime of Taxpayer Number	10775
 Liability Regimes	12389
@@ -105,6 +105,7 @@ POSTAUX RELEVANT DU REGIME	15885
 PREMIER DES REGIMES JURIDIQUES	15429
 PROMOTION OF COMPATIBILITY OF REGIMES Mechanisms	1243
 Partial Exemption Regime	14828,3
+País. Secção III Do Regime Cambial	18750
 Penalty Regimes	3861
 Penalty Regimes Negligence	3861
 Political Regimes and Inflows of Foreign Direct Investment	11310
@@ -144,9 +145,10 @@ REGULATORY REGIME	11550
 RESTRICTIVENESS OF THE REGULATORY REGIME	13985
 RWANDA'S MOBILE SECTOR TAX REGIME	12385
 RY REGIME F OR DIGITAL SE	13357
-Regime	13,2,561,2943,1650,1293,508,4390,22,6,45,8,2,5,8,5,53,4,9,5,369,117,395,440,2079,124,288,15,21,11,5,54,27,27,22,28,140,218,110,100,16,873,89,14
+Regime	13,2,561,2943,1650,1293,508,4390,22,6,45,8,2,5,8,5,53,4,9,5,369,117,395,440,2079,124,288,15,21,11,5,54,27,27,22,28,140,218,110,100,16,873,89,14,1638,6,6,14,20,55
 Regime A ATCV	15912
 Regime Aplicável	10755
+Regime Cambial	18750
 Regime Especial	10772,4616,89
 Regime Especial de Carreira	10772
 Regime Estatisticos	12021
@@ -159,7 +161,7 @@ Regime Geral	167,577,2775,684,7183,10,1,6,1,28,6,3953,5,158,584,866,96
 Regime Geral da Tesouraria	15955
 Regime Geral de Organização da Atividade	15554
 Regime Geral de Segurança Social	167
-Regime Jurídico	1948,489,8928,17,1,1,1,5,40,2,3,27,5,52,382,3479,8,8,44,37,49,530
+Regime Jurídico	1948,489,8928,17,1,1,1,5,40,2,3,27,5,52,382,3479,8,8,44,37,49,530,2696,9,3,20,14,33,22
 Regime Jurídico Aplicável	744
 Regime Jurídico Assim	15526
 Regime Jurídico Especial	16022
@@ -186,6 +188,7 @@ Regime Jurídico de Acesso	11448
 Regime Jurídico de Cibersegurança	15504
 Regime Jurídico de Organização	15477
 Regime Jurídico de Protecção de Dados Pessoais	12813
+Regime Jurídico de Qualificação	18781
 Regime Normal	12021
 Regime Normativo de Governança	11448
 Regime Normativo de Hospedagem	11448
@@ -207,6 +210,7 @@ Regime de Acesso	11569,304
 Regime de Confidencialidade	4147
 Regime de Contabilidade	12018
 Regime de Contabilidade Organizada	16022
+Regime de Cumprimento	18774
 Regime de Exclusividade	11452
 Regime de Falência	10755
 Regime de Incentivos Fiscais	16022
@@ -224,7 +228,7 @@ Regimento	3519,628,7414,3798,697
 Regimento Interno da Comissão Nacional de Eleições	15359
 Regimento da Assembleia Nacional	539,2980,11958
 Regimento. Este	11415
-Regimes	14932
+Regimes	14932,3832
 Regimes Geral	11432
 Regimes de Proteção Social Contributivos	11547
 Regulatory Regime	16861,81
@@ -239,6 +243,7 @@ SECTION VI DU REGIME DE TAXATION	15999
 SECÇÃO I REGIME JURÍDICO	11430
 SECÇÃO II REGIME DE CONCESSÃO	11430
 SECÇÃO III REGIME DE LICENCIAMENTO	11430
+SECÇÃO III Regime	18778
 SERVICES POSTAUX RELEVANT DU REGIME	15885
 Secção I Regime Financeiro Artigo	15912
 Secção II Regime Patrimonial Artigo	15912

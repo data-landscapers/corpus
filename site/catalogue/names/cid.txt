@@ -53,12 +53,14 @@ Casa de Cidadão	12021,4117
 Central CID	11823
 Cid Mohamed ELLA	16175
 Cidad	9399
-Cidadania	4146,5112,1492,2,1,1,808,2751,1031,350,793,873,1
+Cidadania	4146,5112,1492,2,1,1,808,2751,1031,350,793,873,1,1406,86
 Cidadania CCNNDE HC CCoommiissssããoo NNaacciioonnaall	15694
 Cidadania CCNOELMEIA CAossmoicsisaãçoãoNdaeciPoaniasl	15694
 Cidadania Digital	1770,12430,113
 Cidadania Fiscal	15526
 Cidadania I M I J Instituto	6530
+Cidadania São-tomense	18751
+Cidadania São-tomense Artigo	18751
 Cidadao	15380
 Cidade	3468,7898,4323,601
 Cidade Alta	539,10826
@@ -70,18 +72,27 @@ Cidade Segura Project Phase	8638
 Cidade da Matola	12784
 Cidade da Praia	3192,2127,708,503,1636,3775,3439,8,62,70,44,125,203,63,155,194,39,150,790
 Cidade da Praia Ilha de Santiago	15355
+Cidade da Trindade	18834
+Cidade da Trindade. Registos de Nascimento	18834
+Cidade de Angolares	18834
+Cidade de Guadalupe	18834
 Cidade de Maputo	12792,4812
 Cidade de Maputo. Artigo	12823
 Cidade de Maputo. O Memorando	12846
+Cidade de Neves	18834
+Cidade de Santana	18834
+Cidade de São Tomé	18787
+Cidade de São Tomé. Artigo	18751
 Cidades	11379,4214
 Cidades Saudáveis	15966
 Cidades Sustentáveis Resiliência	15966
 Cidades da Beira	1808
-Cidadão	795,461,84,743,733,1597,1159,488,1406,1464,1826,9,10,588,2,6,23,86,75,10,4,306,34,30,26,49,4,756,1,2583,22,11,1,84,44,12,58,165,267,5,29,82,82,31,125,639,698,2
+Cidadão	795,461,84,743,733,1597,1159,488,1406,1464,1826,9,10,588,2,6,23,86,75,10,4,306,34,30,26,49,4,756,1,2583,22,11,1,84,44,12,58,165,267,5,29,82,82,31,125,639,698,2,1036
 Cidadão Cidadão Funcionários	11379
 Cidadão Gratuito Saber	9040
-Cidadão Nacional	12784
+Cidadão Nacional	12784,6049
 Cidadão Partilhar Tweetar Partilhar Email Comentários	5572
+Cidadão STP	18822
 Cidadão TRANSFORMAÇÃO Serviço E V Serviço	11379
 Cidadão Uma	12774
 Cidadão da Guiné-Bissau	11566
@@ -91,7 +102,7 @@ Cidadão. MINISTÉRIO DAS FINANÇAS E ADMINISTRAÇÃO	15358
 Cidadão. Neste	15476
 Cidadão. O Estado	11371
 Cidadão. Trata-se	15476
-Cidadãos	8053,2729,589,54,10,120,10,4,4459
+Cidadãos	8053,2729,589,54,10,120,10,4,4459,2773
 Cidadãos Excelência	11436
 Cidadãos G2G Governo	11555
 Cidadãos Maiores	5204,1,1332,4235,653
@@ -127,6 +138,7 @@ Não Correcção de Lista de Cidadãos Maiores	11425
 Nível Principal da Cidade Cobertura Cadastral	11898
 O Bilhete de Identidade de Cidadão Nacional	10749,7
 Objectif du CID	13841
+Orçamento de Cidadão	18822
 Os Bilhetes de Identidade de Cidadão Nacional	10749
 PNC Tuberculose and Cidade de Maputo	2228
 Participa Cidadão	16028
@@ -149,4 +161,5 @@ Taxa de Serviços Casa Cidadão	1340,743,2330
 Trabalhadores Cidadania	10750
 Universidade da Cidade de Macau	6568
 Universitaire CIDTS	15685
+VIA NÃO PRESENCIAL PARA CIDADÃOS NA	18854
 Validação de Dados de Cidadãos	16030

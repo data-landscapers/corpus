@@ -123,7 +123,7 @@ Kendall's Tau	15244
 Klerksdorp and Taung	7626
 LA GROSSESSE Taux	13300
 LF Taux	15999
-Le Taux	13390
+Le Taux	13390,5367
 Le Taux Brut de Scolarisation	18014
 Le Taux Net de Scolarisation	18014
 Le Taux de Pertes	17462
@@ -258,6 +258,8 @@ Taux Brut de Scolarisation Garçons Filles G	10847
 Taux Brut de Scolarisation Tle Terminale TNA	18171
 Taux Brut de Scolarisation UNESCO	15848
 Taux Brut de Scolarisation. TIC	18100
+Taux Brute de Mortalité	18757
+Taux Brute de Natalité	18757
 Taux CAHE OE RAT	15999
 Taux Date Finale de Disponibilité	15901
 Taux Ecran	15901
@@ -290,12 +292,16 @@ Taux de Base Bancaire	17833
 Taux de CPN4	17843
 Taux de Change	15901
 Taux de Change. Tout	15901
+Taux de Chômage	18757
 Taux de Cible	643
 Taux de Couverture	13390
 Taux de Couverture Excellente	13390
 Taux de Couverture Vaccinale TMN	15475
+Taux de Croissance Efectif	18757
+Taux de Croissance Natuel	18757
 Taux de DSF	16328
 Taux de Mise	16641
+Taux de Mortalité Infantile	18757
 Taux de Mortalité Infantile Ratio de Mortalité Maternelle	15599
 Taux de Mortalité Néo-Natale TPM	15475
 Taux de Mortalité Néonatale Tribunal de Premier Degré	15599

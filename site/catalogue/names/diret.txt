@@ -21,11 +21,15 @@ Diretiva	15509
 Diretiva Nr	11568
 Diretivas	2816
 Diretivas C	15504
-Diretor	5819,5742,495,3470,667,816,138
+Diretor	5819,5742,495,3470,667,816,138,1707,1,8
+Diretor Comercial	18871
 Diretor Executivo	11555
 Diretor Financeiro	11555
-Diretor Geral	15526,1478,308
+Diretor Geral	15526,1478,308,1481,13
+Diretor Geral da CPLP	18855
+Diretor Geral da Comunidade	18855
 Diretor Geral da DGRN	2688
+Diretor Geral da EMAE	18875
 Diretor Geral da Energia	11549
 Diretor Geral da OMS	15966
 Diretor Geral de Identificação Civil	11566
@@ -34,6 +38,8 @@ Diretor Nacional	15526,1540
 Diretor Nacional da Polícia Judiciária da Guiné-Bissau	11566
 Diretor Nacional da Polícia Judiciária de Cabo Verde	11566
 Diretor Nacional da Polícia Judiciária de Portugal	11566
+Diretor Técnico	18875
+Diretor da Política de Justiça	18861
 Diretor de Finanças	11566
 Diretor de Informação	11555
 Diretor de Pesquisa	11044
@@ -44,18 +50,23 @@ Diretor-Geral	16134
 Diretor-Geral da UNESCO	1265,3,468,14226
 Diretor-Geral da Unidade de Informação Financeira	15881
 Diretor-geral	2953,6370,791,931,4481,1640
-Diretora	11423
+Diretora	11423,7381,39
 Diretora Executiva	17066
 Diretora Geral-Adjunta	11423
+Diretora Regional da OMS	18783
+Diretora da DPIE	18788
 Diretora de Comunicação	16193
 Diretora-Executiva da FEC	11538
-Diretora-Geral	9271
+Diretora-Geral	9271,9605
 Diretores	11557,4,3965,246
 Diretores de Escolas	11538
 Diretores de Serviço	15526
 Diretores-gerais	8051
+Diretoria Executiva	18779
 Diretoria Nacional da PJ	11540
+Diretriz	18788
 Diretrizes Claras Sobre Padrões de Segurança	11898
+Diretrizes da ENDE	18794
 Dumbá Diretor Geral	11560
 E2610 Development and Integratio Prévia Aquisição Direta	17219
 Estimativas Diretas da Mortalidade Adulta	10777
@@ -64,20 +75,28 @@ Ex- Diretor-geral da ANG	10114
 Guiné-Bissau A Diretora-Executiva da FEC	11538
 Impacto Direto	17300
 Implementation Posterior Aquisição Direta Direct	17219
+Intervenção da Diretora	18820
 LIMITAÇÕES DO RECURSO AO AJUSTE DIRETO	17100
 Natureza O Conselho Diretivo	15912
 No. Email Jorge Sanca Diretor Geral	11560
 O Conselho Diretivo	15912
 O Diretor	11561,3965,384,2,317
 O Diretor Geral	17283
+O Diretor Geral da DGRN	18788
+O Diretor da DITEI	18788
+O Diretor de Estudos	18788
+O Diretor de Gabinete de Estudos	18788
 O Diretor de Mercado	11574
+O Diretor de Tecnologia	18788
 O Diretor-Geral	17102
 O Diretor-geral	10114,6895,157,54
+O Diretório LDAP	18774
 Plano Diretor	15892,167,134
 Plano Diretor de Tecnologia da Informação	15912
 Por Recolha Direta	11516
 REGISTRARS E CLIENTES DIRETOS	11531
 Recolha Direta	15450
+Serviços de Rede Componente Especificação Situação Diretório	18774
 Silva Diretora de Serviço de Cuidados Técnica Paula	15694
 Solo Plano Diretor da Cidade	11898
 Verde RECOLHA DIRETA COERCIVA Artigo	15450

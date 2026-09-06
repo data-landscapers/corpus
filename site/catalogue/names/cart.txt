@@ -1,5 +1,6 @@
 ACCIÓN CARTOGRAFÍA SEGUIMIENTO BIOKO SUR PROVINCIAL	4209
 AL Cartes	13390
+Actualização da Carta de Política Educativa	18796
 Add To Cart	15842
 African Countries Putting the Cart	6603
 Agriculture Carte	13341
@@ -8,6 +9,7 @@ Assist the Poor Carte Nationale	17870
 Audit Interne CART Contrat	10975
 B. Carter	6947
 BUREAU CARTE EDUCATIVE	18302
+Baixa CAPACITAÇÃO E SENSIBILIZAÇÃO Actualização da Carta	18796
 Base Cartográfica	16898
 Bâtiment CENTRE DE PERSONALISATION DES CARTES	14490
 CAPITULO I Cartão Nacional de Identidade Secção	15392
@@ -69,12 +71,13 @@ CONCEPTS ET DEFINITIONS VIII CARTE DES	10847
 CaRtSiofnororef	12151
 Cadastre and Cartography	5004
 Caractéristique Mutuelle de Carte Mutuelle Mutuelle Autre	13300
-Carta	10714,679,48,15,5,103,1297,2483,182,493,875,126,83
+Carta	10714,679,48,15,5,103,1297,2483,182,493,875,126,83,1649,26
 Carta Africana	14,15463,1421
 Carta Africana da Estatística	11526
 Carta Africana de Estadística	16898
 Carta Africana de Estadística. En	16898
-Carta Africana de Estatística	11449,4086
+Carta Africana de Estatística	11449,4086,3259
+Carta Africana de Estatística CNE	18794
 Carta CPLP de Direitos	11393
 Carta Direitos da Criança	10750
 Carta Duração	11569
@@ -82,16 +85,22 @@ Carta Ibero-americana de Princípios	11393
 Carta Internacional de Derechos	16895
 Carta Patente	11452
 Carta Política	11525,32
+Carta Política Educativa	18781
 Carta Política de Transição	17100
 Carta Sanitária	15966,53
 Carta Sanitária de Cabo Verde	16019
 Carta da CPLP de Princípios	2816
 Carta da Comunidade	11393
 Carta de Aceitação	17103
-Carta de Intenções	11372
+Carta de Apresentação	18753
+Carta de Apresentação da Proposta	18753
+Carta de Condução	18752
+Carta de Intenções	11372,7421
 Carta de Lei	11365
 Carta de Maputo	11439
 Carta de Moçambique	2816,3658
+Carta de Política Educativa	18781
+Carta de Proposta Financeira	18753
 Carta de Servicos	9409
 Carta de Servicos INCM	1526
 Carta de Serviços	11569
@@ -200,12 +209,14 @@ Cartography Unit	5805
 Carton	8606
 Carton Rouge	5082
 Cartoon	8884
+Cartoons	18770
 Cartoréseau	14509
 Cartouches	13375
 Cartridge	18541
 Cartridges	17180
 Cartwright Ramon	11136
-Cartão	7466,2648,663,583,24,20,31,32,61,373,952,8,2531,128
+Cartão	7466,2648,663,583,24,20,31,32,61,373,952,8,2531,128,3241,18
+Cartão Contribuinte	18833
 Cartão Kikuia	10763
 Cartão Multicaixa	11438
 Cartão Nacional de Iden	15392
@@ -216,7 +227,8 @@ Cartão Nacional de Identificação CNI	4415,1,1,1
 Cartão Nacional de Identificação URL	15392
 Cartão Nacional de IdentificaçãoDSP7 TEC5 Não EST-TEC16	15532
 Cartão Nacional de Identiicação	15572
-Cartão de Eleitor	539,9575,642,16,756,592
+Cartão SIM	18752
+Cartão de Eleitor	539,9575,642,16,756,592,6632
 Cartão de Eleitor de Cidadão Estrangeiro Aquele	11528
 Cartão de Eleitor. VI. METODOLOGIA	10772
 Cartão de Munícipe	10775,650
@@ -230,9 +242,17 @@ Cartório de Registro Civil de Bissau Velho. Este	17015
 Cartórios Notariais	10750,1,1,4820
 Cartórios Notariais da Cidade da Praia. Os	9271
 Cartórios de Luanda	10750
-Cartões	8493,1621,663,2076
+Cartões	8493,1621,663,2076,5976
+Cartões Internacionais	18829
+Cartões Nacionais	18829
 Cartões Nacionais de Identificação	6571
+Cartões SIM	18752,32
+Cartões SIM Capitulo I Disposições Gerais	18752
+Cartões SIM. Artigo	18752
+Cartões SIM. Considerando	18752
+Cartões SIM. Decreto	18752
 Cartões de Eleitor	10114
+Cartões de Pagamentos	18880
 Carácter Temático da Cartografia Cadastral	11384
 Catégorie Cartes	13390
 Census Cartographer	16921
@@ -290,8 +310,10 @@ Doter des Cartes	13341
 Dr. Eileen Carter	17774
 E. Carter	6305
 Eileen I Carter	10729
+Elaboração da Carta de Política Educativa	18781
 Emissão de Cartão Nacional de Identificação	15476
 Emma Carter	15342
+Equipa de Cartografia	18775
 Eritrea's Cartographic Center	14089
 Etat Civil CNI Carte Nationale	18290
 FRAUDE AUX CARTES BANCAIRES Arllcle	15429
@@ -325,6 +347,7 @@ La Carte	13390,4907
 La Carte Nationale	10891,5767
 Le Service Carte Sanitaire	15678
 Le Service de Cartographie	13702
+Lei de Base Postal Carta	18778
 Les Cartes	15474
 MENTIONNÉ. CARTE D'ASSURANCE MALADIE	13300
 MONTREZ LA CARTE	13300
@@ -332,6 +355,7 @@ Maeve de France and Martin Noblecourt of CartONG	2678
 Mastercard Cartes	13390
 Meios Auxiliares da Cartografia Cadastral	11384
 Meta-Informação BM Banco Mundial CAE Carta	15535
+Modelo de Carta de Apresentação da Proposta. Anexo	18753
 Moçambique. Carta de Moçambique. Disponível	2816
 Mrs. Banji Milumbe Shakubanza Mr. Carter	13477
 Multimédia Fig. VI.10 Carte	13341
@@ -368,6 +392,7 @@ Protocolo de Cartagena	17415
 Ramón Bee ENGONGA Jefe de Servicio de Cartografía	16898
 Recolha Coerciva de Cartão de Eleitor	11425
 Regulamentação de Cartões de Pagamento	11403
+Regulamento Sobre Registo de Identificação de Cartões Sim	18752
 Regulamento de Cartões Bancários	12853
 Regulamento de Cartões Bancários Sem	12853
 Reitz. Cart	9127
@@ -389,6 +414,7 @@ Systèmes Nationaux de Cartographie	13482
 TOT AL Cartes	13390
 Terminaux de LES CARTES	17833
 United Nations Cartographic Section	12344,3273,1323,937,1
+Utilização de Cartões Bancários	18829
 VOTRE CARTE DE VISITE DIGITALE PROFESSIONNELLE	17587
 VOYAGE A L’ETRANGER PAR CARTE	17385
 Visão Estratégica de Longo Prazo A Carta	16019

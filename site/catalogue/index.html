@@ -111,7 +111,7 @@
     </div>
   </footer>
 
-<script src="catalogue-data.js?v=19934148"></script>
+<script src="catalogue-data.js?v=364318b6"></script>
 <script>
 (function(){
   var D = window.CATALOGUE;
@@ -182,7 +182,8 @@
       var dn = DERIVED[r[10][ei]];
       if (dn) alias += ' ' + dn;
     }
-    r._s = (r[0] + ' ' + r[1] + ' ' + r[10].join(' ').replace(/-/g, ' ') + alias).toLowerCase();
+    r._s = (r[0] + ' ' + r[1] + ' ' + (r[12] || '') + ' ' +
+            r[10].join(' ').replace(/-/g, ' ') + alias).toLowerCase();
     // The year facet counts and filters on the *bucket*, not on the year: everything
     // before 2020 is one option (prep/catalogue.md §8). The base thins out fast going
     // back, and a column of single-figure years was most of the facet's height for a
@@ -576,6 +577,10 @@
       if (r[8]) tags += '<span class="flag">document held</span>';
       h += '<div class="row"><div class="date">' + (r[2]||'undated') + '</div><div>' +
            '<p class="ttl"><a href="' + r[6] + '" target="_blank" rel="noopener">' + esc(r[0]) + '</a></p>' +
+           // The subtitle OSINT writes onto a record at ingest. Records taken in
+           // before 2026-09-05 carry none, and the line is simply absent for them
+           // rather than standing empty (notes-for-corpus 20).
+           (r[12] ? '<p class="hero">' + esc(r[12]) + '</p>' : '') +
            '<p class="meta">' + esc(r[1] || 'publisher not recorded') + '</p>' +
            '<div class="tags">' + tags + '</div></div></div>';
     });

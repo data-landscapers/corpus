@@ -79,11 +79,13 @@ ALGUMAS ACTIVIDADES DE REFORÇO DAS CAPACIDADES	11526
 AMRTP Activity Report	17870
 ANALYSE DES GAPS ET ACTIVITÉS PRIORITAIRES	16621
 ANCILLARY ACTIVITIES F1. Own-Use Installations Application	17250
+ANNEX I ONGOING ACTIVITIES AND DEVELOPMENT	18795
 ANNEX II ONGOING ACTIVITIES AND SUPPORT	12399
 ANNEX III. ONGOING ACTIVITIES WITH SUPPORT	12680
 ANNEXE I ACTIVITES EN COURS ET	18316
 ANNEXE I Activités	16037
 ANNUAL ACTIVITY REPORT	14985
+ANÁLISE DAS ACTIVIDADES DE PREVENÇÃO	18875
 API Actives	18428
 ARMP Coordonnateur Général des Activités	14539
 ARSEL. Activités	10975
@@ -143,10 +145,12 @@ Actividade Co-	10757
 Actividade Comercial Externa	10757
 Actividade Comercial Província Total Nem Importador	10757
 Actividade Economica	574
-Actividade Económica	10757
+Actividade Económica	10757,8018
 Actividade Económica Actividades	10757
 Actividade Económica CAE Rev2 Total Empresa	10757
 Actividade Económica Lunda Sul Malanje Província	10757
+Actividade Económica Principal	18775
+Actividade Económica Secundária	18775
 Actividade Económica Total Actividade Económica Actividades	10757
 Actividade Económica Total Escalão	10757
 Actividade Económica Total Situação	10757
@@ -155,30 +159,37 @@ Actividade Em Aguarda Início Actividade da Actividade	10757
 Actividade Estatística Oficial	11359
 Actividade II. Quadro de Governança Digital	11451
 Actividade IV. Plano de Acção	11451
+Actividade Imobiliária	18775
 Actividade Inspectiva	11452
 Actividade Sexual Recente	10777
 Actividade Suspensa	10757,626
 Actividade Suspensa Encerrada Total Actividade Económica	10757
 Actividade V. Transferência de Conhecimento	11451
 Actividade de Informação	11447
-Actividades	1701,1818,690,6546,2,15,11,591,32,37,1,2,2,570,3341,1539
+Actividades	1701,1818,690,6546,2,15,11,591,32,37,1,2,2,570,3341,1539,1864,2,9,2,23
 Actividades Autorizadas	11438
+Actividades Auxiliares	18775
 Actividades Costes Estimativos	16898
 Actividades Desenvolvidas	2816
-Actividades Económicas	1701,9056,1404
+Actividades Económicas	1701,9056,1404,6606,5,3
+Actividades Económicas Revisão	18775
 Actividades Estructuras	16898
 Actividades Geradores de Impactos	11406
 Actividades Ilícitas	16855
+Actividades Imobiliárias	18775
 Actividades Indicadores	16898
 Actividades Menores	4209
 Actividades Permitidas	11438
 Actividades Petrolíferas	11405
 Actividades REDD	16875
+Actividades da Divisão	18775
 Actividades de Normalização	12782
 Actividades de Operacionalización	4209
 Actividades de Preparação	11421,156
+Actividades de Serviço	18775
 Actividades de Telecomunicaciones	9543
 Actividades de UNICEF	4209
+ActividadesImobiliárias	18775
 Activiité	17845
 Activilés	15429
 Activist Kananelo Boloetse	3183
@@ -190,7 +201,7 @@ Activite11	17845
 Activites	14131,443
 Activites Financi	18318
 Activites RSH	14442
-Activities	10,144,131,118,15,126,38,207,172,9,202,92,20,96,413,3,28,43,31,90,177,126,484,114,100,217,3,395,563,35,15,43,41,48,304,120,474,793,499,408,140,73,3604,65,134,17,151,119,2,37,566,8,42,19,16,25,125,48,37,37,144,2,47,21,19,3,146,174,164,21,19,65,16,132,146,192,9,318,141,13,518,201,19,39,34,4,21,22,26,40,38,53,66,30,248,48,62,45,35,66,39,1,4,369,112,43,393,263,5,3,12,33,26,5,9,3,10,3,6,13,7,18,15,57,31,9,6,2,23,1,17,79,14,48,143,17,391,113,9,14,316,8,40,21,74,39,21
+Activities	10,144,131,118,15,126,38,207,172,9,202,92,20,96,413,3,28,43,31,90,177,126,484,114,100,217,3,395,563,35,15,43,41,48,304,120,474,793,499,408,140,73,3604,65,134,17,151,119,2,37,566,8,42,19,16,25,125,48,37,37,144,2,47,21,19,3,146,174,164,21,19,65,16,132,146,192,9,318,141,13,518,201,19,39,34,4,21,22,26,40,38,53,66,30,248,48,62,45,35,66,39,1,4,369,112,43,393,263,5,3,12,33,26,5,9,3,10,3,6,13,7,18,15,57,31,9,6,2,23,1,17,79,14,48,143,17,391,113,9,14,316,8,40,21,74,39,21,273,32,8
 Activities Being Considered B.1 Relevance of Environmental	18374
 Activities Conducted	10776
 Activities Development	1131
@@ -285,7 +296,7 @@ Activity-Based Costing	17116
 Activity1	2775,10262
 Activity1 Months2	13037
 ActivityPreview.do	246,92
-Activité	2342,3804,2745,1984,1,51,38,10,2325,90,325,703,204,748,98,11,6,158,7,162,124,267,119,295,868,338,5,17,37,64,37,123,13,74,119,100
+Activité	2342,3804,2745,1984,1,51,38,10,2325,90,325,703,204,748,98,11,6,158,7,162,124,267,119,295,868,338,5,17,37,64,37,123,13,74,119,100,345
 Activité A3O1R1.1 Elaboration	15580
 Activité Gouvernementales	17468
 Activité Intervenant	18407
@@ -412,11 +423,15 @@ Activités de Sécurité	15999
 Activités du Domaine	17844
 Activités du Projet	14424
 Activités12	17845
-Activos	4209,6546,615,5534,65
+Activo	18793
+Activos	4209,6546,615,5534,65,1788
 Activos Digitais	6360
+Activos Externos Líquidos	18757
 Activos Internos	4209
+Activos Internos Líquidos	18757
 Activos de Agua	16904
 Activos de Informação	2784
+Activos de Reserva	18757
 Added Activities Added	15424
 Administrative and Support Service Activities	7992
 Adolescent Health SIA Supplemental Immunization Activity	12729
@@ -457,6 +472,7 @@ Axe Objectifs Actions Résultats Activités Budget	10965
 Axe Objectifs Spécifiques Actions Résultats Activités	10965
 BEAC Activité	10965
 BELOW IS THE ENGLISH VERSION ACTIVITIES	16182
+BLF EM Nº DE ACESSOS ACTIVOS	18791
 BSC and Activity	16863
 BUSINESS ACTIVITIES IN RWANDA	12445
 BUSINESSES OR ACTIVITIES	14720
@@ -519,6 +535,7 @@ Census of Economic Activities	14777
 Central Bank Composite Index of Economic Activity	17193
 Centre de Données Intégré National Activités	13341
 Certain Activities The Consultant	13037
+Certas Actividades	18775
 Cessação de Actividade.pdf IVA	12018
 Challenges Activities Outputs Short-	11905
 Charitable Activities	3487
@@ -532,6 +549,7 @@ Civil Activities The EPA	17157
 Classes Recreational Activities Page	14835
 Classification Activité	15936
 Click Activation	11298
+Code of Free and Offshore Activities	18797
 Comité Activité	17845
 Comité Technique de Programmation des Activités Statistiques	16373
 Commercial and Administrative Activities Zone	4900
@@ -552,6 +570,7 @@ Consolidated Transactional Activities	4517,2461
 Consultation Schedule Ref. Activity Date	17191
 Consumer Outreach Activities	6946
 Consumer Outreach Activities Programmes	6946
+Control of Economic Activities	18797
 Controlled Deployment and Pilot Activation	6442
 Coordinadora de Actividades	16920
 Coordination des Activités de Détection	11139
@@ -637,6 +656,7 @@ Deal Activity Deal Value Shows Early	4972
 Declaração de Alteração de Actividade	12018
 Declaração de Cessação de Actividade	12018
 Declaração de Inicio de Actividade	12018
+Declaração de Início de Actividade	18845
 Decrease of Port-Out Activities	3862
 Dedicated Campaigns and Activities	15713
 Delayed Activities	17011
@@ -657,16 +677,19 @@ Digital Health Activity	531,11724
 Digital Health Activity. Several	1824
 Direct Engagement SMS Activations PR Started	8999
 Direction Activité	17946
+Directorate of Economic Activities. The Regulation	18797
 Discontinued Activities	11250
 Discusses OIC Activities	17347
 Discussion Activity Type	17099
 Displaced Person IGA Income-Generating Activity IPF	16384
 Dispositif Suivi PSE Activités	18286
+Distribuição de Actividade Económica	18775
 Document Activity	16863
 Draft Specific Payment Activities Exemption Notice	4824
 Défense Activités	13341
 D’UNE ACTIVITE DE COMMERCE ELECTRONIQUE AU	13652
 EJE IV Actividades Realizadas Actividades	16898
+EM NÚMEROS DE ACESSOS ACTIVOS	18791
 ENFORCEMENT Activities	17011
 ENGAGEMENT ACTIVITIES	16926
 ENQUÊTE DÉMOGRAPHIQUE ET DE SANTÉ Activités	16620
@@ -714,7 +737,7 @@ Executed Activities	13970
 Execução da Actividade	11452
 Exemption Notice for Payment Activities	5420
 Exercício da Actividade	11438
-Exercício de Actividade	11386,134
+Exercício de Actividade	11386,134,7230
 Existence des Activité	17845
 Existing Activity	15969
 Expanding Map Activity	6791
@@ -976,6 +999,7 @@ Normas da Actividade Inspectiva	11452
 Nos Activités	15494
 Number Porting Activities	3862
 Nutrition Activity Support Group	17985
+Nº de Acessos Activos	18791
 O Plano Anual de Actividades Estatísticas	11526
 O019 RAPPORT PHOTOS DES ACTIVITES	15670
 O3 ACTIVITES DANS LES POOLS	15670
@@ -993,6 +1017,7 @@ OBJECTIVES STRATEGIES ACTIVITIES INDICATOR Train	12453
 OBJECTIVES STRATEGIES ACTIVITIES Strengthen Government	12453
 ON-SITE SUPERVISION ACTIVITIES On-site	15023
 ONASR Activité	17946
+ONGOING ACTIVITIES AND DEVELOPMENT PARTNERS Contributions	18795
 OPERATEUR ACTIVITE CAPACITE NURU SASU NURU	15670
 OPERATEUR ACTIVITE CAPACITE STATUT NURU SASU	15670
 OPERATOR ACTIVITY CAPACITY NURU SASU NURU	15670
@@ -1021,6 +1046,7 @@ Outcome Recommendation Activities Actor	4126
 Outline of Response Timelines Activity Timeline Notification	17099,15
 Output Activities Budget	13938
 Output Indicator Activity Estimates Baseline	18512
+Outras Actividades	18775
 PAC Partial Activation of Contract PCC Partial	12062,6124,31
 PAD Client Information Activities At Appraisal	15424
 PAFEN. Activities	1284
@@ -1057,6 +1083,7 @@ Paid and Unpaid Activities. Captures	17165,1405
 Paratus Activate First Cross-Border Fiber Link	2987
 Part Five Radio Activities and Frequency Management	13951
 Partie III Activités du CESE	8891
+Percentagem Actividades	18762
 Performance Standards for Private Sector Activities OP	11855,282,5967
 Periodic Activity	17099
 Periodicidade da Actividade Inspectiva	11452
@@ -1069,7 +1096,8 @@ Plan de Continuité des Activités	13341
 Planeamento da Actividade Inspectiva	11452
 Planned Activities	11866
 Planned Activity	18512
-Plano de Actividades	10757,2066
+Plano de Actividades	10757,2066,5950
+Planos de Actividades	18773
 Población Activa Empleo	16898
 Police CHARGE DES ACTIVITES MINIERES	17982
 Polio Response and Supplemental Immunization Activities	16971
@@ -1158,6 +1186,7 @@ Regulating the Activity of Foreign Exchange	11960
 Regulatory Activities	17235
 Regulatory Activities Under the International Monetary Fund	17235
 Regulatory and Supervisory Activities	17235
+Relatório Anual de Actividades	18773
 Report Activity	16863
 Reportage Activités Résultats Performance Indicateurs	18291
 Republic of Guinea- Bissau GOODS Activity Reference	17219
@@ -1222,6 +1251,7 @@ Scope of Permissible Open Access Research Activities	12389
 Secondary Education Activity	210
 Sector Activities	10721
 Sector of Activity CESS	18370
+Secção da Actividade CAE- STP Segundo	18775
 Sedgefield Current Communication Activities	8999
 Segunda Encuesta de Población Activa	14215
 Selected Agricultural Activities	16921
@@ -1292,6 +1322,7 @@ Terrorist and Related Activities Act	8840,2439
 Theory of Change Activities Outputs Intermediate Outcomes	15663
 Theory of Change Constraints Activities Intermediary	10964
 Timetable and Schedule of Activities	10049
+Tipo de Actividade Remuneração Média Mensal	18775
 Tipologia da Actividade	11452
 Togo Activates National Accounting Council	15298
 Tom- CPS Etat Monitoring Activité	17845

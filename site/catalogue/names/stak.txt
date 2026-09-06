@@ -113,6 +113,7 @@ ESWATINI Stakeholder Role	12444
 EUCL CORPORATE INFORMATION REG Key Stakeholders	12358
 EVIDENCE OF STAKEHOLDER CONSULTATION	17114
 EVIDENCE OF STAKEHOLDER CONSULTATION Community Town	17114
+EXPERT AND STAKEHOLDER CONSULTATIONS	18787
 Economic Community SEP Stakeholder Engagement Plan	6539
 Economic Planning Dear Valued Stakeholders	14819
 Economic Stakes	6467
@@ -203,6 +204,7 @@ List of Key Stakeholders Identified	15179
 List of Stakeholders Consulted	4528,7984
 Low Influence Stakeholders	17099
 Low Low Stakeholders Moderate Moderate Moderate	18473
+Low Moderate Environment and Social Low Stakeholders	18792
 Low Stakeholders	18006
 Low. Stakeholders	11965
 M Minority Stake	1537
@@ -223,7 +225,7 @@ Members and Stakeholders Survey	10225
 Ministry. Stakeholders	13002
 Mitigation Measure Project Stakeholder Risks Rating	15372
 Moderate Moderate Stakeholders Moderate Moderate Moderate	15619,1019,867
-Moderate Stakeholders	1284,1428,8158,2188,862,2976,26,157,17,374,434,229
+Moderate Stakeholders	1284,1428,8158,2188,862,2976,26,157,17,374,434,229,676
 Multi Stakeholder Dialogue	1332
 Multi Stakeholder Group	170
 NAS Stakeholders	11129
@@ -316,7 +318,7 @@ SARS and Stakeholder Impact and Engagement SARS	8670
 SCD Systematic Country Diagnostic SEP Stakeholder	15659,2634
 SEP Stakeholder Engagement Plan ITU International	18504
 SEP Stakeholder Engagement Plan SESAP Solar	11549
-SEP Stakeholder Engagement Plan SH Sexual	1988,16313
+SEP Stakeholder Engagement Plan SH Sexual	1988,16313,476
 SEP Stakeholder Engagement Plan SOE State-Owned	1818
 SEP Stakeholder Engagement Plan SOP Standard	16384
 SEP Stakeholder Engagement Plan State’s Integrated	11417
@@ -326,7 +328,7 @@ SOFTWARE DEVELOPERS AND OTHER STAKEHOLDERS	14726
 STAKEHOLDER ANALYSIS ACRONYMS AND ABBREVIATIONS ATI	12973
 STAKEHOLDER AND COMMUNICATION SUPPORT	8999
 STAKEHOLDER CAPACITY BUILDING	16942
-STAKEHOLDER COMMENTS	11924,3500,87,90,62,68,705,516,897,13,100
+STAKEHOLDER COMMENTS	11924,3500,87,90,62,68,705,516,897,13,100,803,60
 STAKEHOLDER COMMENTS A French	17962
 STAKEHOLDER COMMENTS An End of Project Evaluation	15663
 STAKEHOLDER COMMENTS Page	15424
@@ -527,6 +529,7 @@ Stakeholder Summit IN-7 Establish Broadband Coordinating	11857
 Stakeholder Supporting Proposed Consultation Question	17212
 Stakeholder Validation Session	13117
 Stakeholder Working Sessions Session Attendees Date	236
+Stakeholder Workshops	18754
 Stakeholder and Communication Support	8999
 Stakeholder and Communication Support Presentation Layout	8999
 Stakeholder and Community Engagement	16963
@@ -538,7 +541,7 @@ Stakeholder's Survey-2024 National Plan	12214
 Stakeholder's Survey-2024 Plan	12214
 Stakeholder-Specific Recommendations For Government	17139
 Stakeholder-validated	12055
-Stakeholders	940,29,31,261,126,167,160,9,54,90,121,105,748,763,47,318,164,16,46,164,1,488,114,248,35,37,11,6,285,93,273,87,76,177,15,231,3,40,2,167,84,3,101,10,5,104,215,278,28,13,120,105,13,26,117,104,15,275,114,52,57,1,15,8,50,48,1,85,204,84,33,12,216,222,277,269,83,16,86,10,99,144,7,132,79,61,63,72,30,58,77,5,103,180,52,25,31,35,213,82,2,3,1,2,42,11,33,15,30,26,44,137,9,43,27,17,59,28,5,91,71,10,26,38,50,65,138,58,3,2,21,1,1,13,13,15,28,10,101,151,13,6,14,3,1,4,94,47,55,75,20,17,148,22,124,49,15,280,36,116,87,23,122,79,73,1,91,11,1,15,10,18,11,21,31,78,14,8,127,156,142,68,37,1,2,64,419,240,14,76,114,255,5,5,62,11,23,29,40,81,15,2,41,55,56,99,49,25,302,150,211,94,7,64,24,8,58,11,108,9,1,7,5,4,16,129,58,27
+Stakeholders	940,29,31,261,126,167,160,9,54,90,121,105,748,763,47,318,164,16,46,164,1,488,114,248,35,37,11,6,285,93,273,87,76,177,15,231,3,40,2,167,84,3,101,10,5,104,215,278,28,13,120,105,13,26,117,104,15,275,114,52,57,1,15,8,50,48,1,85,204,84,33,12,216,222,277,269,83,16,86,10,99,144,7,132,79,61,63,72,30,58,77,5,103,180,52,25,31,35,213,82,2,3,1,2,42,11,33,15,30,26,44,137,9,43,27,17,59,28,5,91,71,10,26,38,50,65,138,58,3,2,21,1,1,13,13,15,28,10,101,151,13,6,14,3,1,4,94,47,55,75,20,17,148,22,124,49,15,280,36,116,87,23,122,79,73,1,91,11,1,15,10,18,11,21,31,78,14,8,127,156,142,68,37,1,2,64,419,240,14,76,114,255,5,5,62,11,23,29,40,81,15,2,41,55,56,99,49,25,302,150,211,94,7,64,24,8,58,11,108,9,1,7,5,4,16,129,58,27,43
 Stakeholders Analysis Effective	15845
 Stakeholders Analysis Stakeholder Role	15845
 Stakeholders Call for Increased Investment	9983
@@ -603,7 +606,7 @@ Strengthening Project SEP Stakeholder Engagement Plan	10829
 Strong Moderate Low Stakeholder Analysis	16926
 Sub-National Level Structures and Other Stakeholders	12240
 Substantial Environment and Social Stakeholders Overall	11395
-Substantial Stakeholders	4688,3189,4094,17,2992,51,128,578,276,66,626,295,958,397
+Substantial Stakeholders	4688,3189,4094,17,2992,51,128,578,276,66,626,295,958,397,462
 Substantial Substantial Stakeholders High Moderate Moderate	15735
 Sudan.. Stakeholder	14897
 Summary of Participation and Stakeholder Engagement	17260

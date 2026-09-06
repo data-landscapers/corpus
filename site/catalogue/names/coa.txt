@@ -1,5 +1,5 @@
-ABBREVIATIONS AND ACRONYMS ACE Africa Coast	16926
-ACE Africa Coast	1000,14511
+ABBREVIATIONS AND ACRONYMS ACE Africa Coast	16926,1828
+ACE Africa Coast	1000,14511,3266
 ACRONYMS ARCEP Africa Coast	16144
 ACTION Coalition	1021
 ACTION Namibia Coalition	1016,5
@@ -11,7 +11,8 @@ AO01 Coastal	10763
 ARAP Africa Coast	15424
 Abbreviations Term Description ACE Africa Coast	11552
 Acronyms ACE Africa Coast	11545
-Africa Coast	1264,1413,136,366,163,164,15,261,1363,99,437,395,612,641,2402,647,1122,45,7,3872,87,72,9,552,482,15,235,7,59,33,7,132,709,39,34,195,355,8,2,29,19
+Africa Coast	1264,1413,136,366,163,164,15,261,1363,99,437,395,612,641,2402,647,1122,45,7,3872,87,72,9,552,482,15,235,7,59,33,7,132,709,39,34,195,355,8,2,29,19,250,23
+Africa Coastal Areas Management Program WBG	18809
 Africa DPI Private Sector Coalition	8654
 Africa DPI Private Sector Coalition. Let	8654
 Africa Green Compute Coalition	7836,3304
@@ -30,6 +31,7 @@ Banjul West Coast Region Lower River	16973
 Bissau Ivory Coast Niger Nigeria Ghana	16935
 Budget Call Circular COA Charts of Account	18577
 Build Stronger Coalitions and Regional Networks	6950
+CBS Core Banking System CoA Chart	18825
 CIO Chief Information Officer CoA Chart	16876
 COA Certificate of Airworthiness COHO Community Oral	2775
 COACH	16187
@@ -104,6 +106,7 @@ Coartem	10777
 Coast	1236,1432,107,4988,70,36,2444,1943,2359,1230,1269,1340
 Coast Europe	16865
 Coast Guard Training School	14760
+Coast Guard of Sao Tome	18857
 Coast Lower Eastern Lower Eastern Lower	7869
 Coast Media Group	14273
 Coast Region	4534,2194,3585,1943
@@ -121,6 +124,7 @@ Coastal Protected Areas and Sensitive Habitats	17114
 Coastal Protected Areas and Sensitive Habitats Overview	17114
 Coastal REC Membership	10759,1395,186
 Coastal Resilience Project SLMet Sierra Leone	18578
+Coastal Resilience and Sustainable Tourism Project	18809
 Coastal Surveillance Radar	14830
 Coastal Surveillance Radar System	14306
 Coastal Wetlands	17114
@@ -185,6 +189,7 @@ Group Coaching Facilitators BongoHive	9198
 Handset Affordability Coalition	10209,6590
 Head Office CA Coast Region Office	6946
 ITU's Partner2Connect Digital Coalition	2137,2383
+Indian Coast Guard	18857
 Indian Coast Guard Ship	13791
 Insights Coal-fired	11953
 Islamic Military Counter Terrorism Coalition	10701
@@ -289,6 +294,7 @@ Subscribers Subscribe Coach Fazili	2264,1669,239,437,166,820,1446
 Supply Nuclear Coal Diesel	11953
 Supply Sources Nuclear Imports Coal Diesel	11953
 Supply and Demand of Coal and Coke	2775
+São Tomé and Príncipe Coast Guard	18879
 Ta-Nehisi Coates	4258
 Tamale and Cape Coast. Besides	789
 Tanzania and Uganda. Affordability Coalition	6593
@@ -328,6 +334,8 @@ West Coast Total Sites	8999
 West Coast Vredenburg	8999
 West Coast of Africa	1363,17115
 West Coast of Africa and Europe	18485
+West and Southern Coast of Africa	18754
+Western Africa Coastal Area Management	18787
 Western Cape District West Coast Boland	8999
 Western Coast of Tamarin	14738
 White Coat Ceremony	13688

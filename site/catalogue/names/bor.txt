@@ -1,7 +1,7 @@
 ADULTS BORROWED MONEY	10977
 ADULTS IN SUB-SAHARAN AFRICA BORROWED	10977
 AFYA BORANJEMA MEDICAL CENTRE	7167
-APL Borrower	16614
+APL Borrower	16614,2140
 ART Anti-Retroviral Therapy BOR Bed Occupancy	12976
 AU Better Integrated Border Governance Strategy	14511
 AU Border Programme	14511
@@ -29,7 +29,7 @@ Annual Borrowing Plan	11136,2732,678,3954
 Anti-Human Trafficking Department Director Boris	8480
 Arab Republic of Egypt Borrowing Entity	15905
 Ariamsvlei Border Post. Addressing	13108
-Assessment of Bank and Borrower Performance	16614
+Assessment of Bank and Borrower Performance	16614,2140
 Attomey of Borrower	15399
 Aurel Melain Boris	15524
 BALE BOROMO MOUHOUN DEDOUGOU NAYALA TOMA	10847
@@ -75,7 +75,7 @@ BORNE FONTAINE	13300
 BORO Ibrahim	15632
 BORON	17828
 BORROWE R'S IDA-D9060- Disbursi	2473
-BORROWER	11924,3500,87,90,62,68,705,516,897,13,100
+BORROWER	11924,3500,87,90,62,68,705,516,897,13,100,803,60
 BORROWING POWERS	4896
 BOrchestration	5349
 BOrder	4676
@@ -85,7 +85,7 @@ BOrganizations	5349
 BOrigins	5700
 BOrlikowski	5349
 Bakary BORE CNIECS	17882
-Bank Ratings Borrower Ratings Quality	16614
+Bank Ratings Borrower Ratings Quality	16614,2140
 Bank's Procurement Regulations for IPF Borrowers	13017
 Bank. The Borrower	10768
 Bank’s C. The Borrower	15901
@@ -172,7 +172,7 @@ Bordj Bou Arreridj Road	8606
 Bordj Bou Arréridj	15456,276,211,401
 Bordj Bou Arréridj Centre	16085
 Bordj MÈnaÔel	15360
-Bordo	16969
+Bordo	16969,1788
 Borehole	1988,12558,3997
 Borehole Drilling	13474
 Borehole Registration	1988
@@ -241,6 +241,7 @@ Borovac JA. Data	10780
 Borower	15399
 Borowska-Beszta B	12231
 Borowski-Beszta M	12231
+Borrachas	18798,55
 Borris LIKIBI Mon	15536
 Borroler's Account	15399
 Borrolver	15399
@@ -259,7 +260,7 @@ Borrowdale Liquid Owned Vacant Office	4896
 Borrowed	418,12042
 Borrowed Funds	7198
 Borrowed Voice	7777
-Borrower	160,152,240,14,17,171,7,12,220,197,9,2,15,61,301,126,74,40,96,74,1468,148,2935,1412,215,2602,11,184,454,438,8,61,296,168,24,14,243,442,74,146,196,260,6,38,66,118,65,473,23,309,25,27,17,12,10,104,58,234,5,22,12,13,76,11,2,5,35,106,4,39,2,54,143,68,21,42,187,74,321,40,460,66,39,98,11,6,107,17,391,113,408,164,9
+Borrower	160,152,240,14,17,171,7,12,220,197,9,2,15,61,301,126,74,40,96,74,1468,148,2935,1412,215,2602,11,184,454,438,8,61,296,168,24,14,243,442,74,146,196,260,6,38,66,118,65,473,23,309,25,27,17,12,10,104,58,234,5,22,12,13,76,11,2,5,35,106,4,39,2,54,143,68,21,42,187,74,321,40,460,66,39,98,11,6,107,17,391,113,408,164,9,211,55
 Borrower ADB Loan Project Instrument Special	11863
 Borrower Agreement	15901
 Borrower Contribution	14888,2072
@@ -290,10 +291,10 @@ Borrowers	1988,4126,1596,986,815,271,3403,147,2079,107,141,1267,642,630
 Borrowers Regulations	11417
 Borrowers and Lenders Act	6940
 Borrower’s Country	15080
-Borrower’s ICR	15511
+Borrower’s ICR	15511,3243
 Borrower’s Ministry of Finance	16219
 Borrower’s Project Implementation Unit	3456
-Borrowing	418,169,1720,7204,1466,979,8,395,50,122,363,159,815,868,261,483,1755,1,634,596
+Borrowing	418,169,1720,7204,1466,979,8,395,50,122,363,159,815,868,261,483,1755,1,634,596,385
 Borrowing Powers of The Authority. Government	18466
 Borrowing Practices	1828
 Borrowing and Credit	12460
@@ -395,6 +396,7 @@ Customs Border and Enforcement	15478
 Customs and Border Protection	11036
 D.C. Bornhorst	1828
 DASH BORD	15669
+DO ORÇAMENTO Jukisia DAYSSY BORJA SALVADOR	18798
 DOMESTIC BORROWING	10062
 Damian Borowiecki	6423
 Data Science Without Borders	11143
@@ -595,7 +597,7 @@ One-Stop Border Posts. The C-BRTA	10324
 One-stop Border Post PFMA Public Finance	5533
 Online Border Management System	4390,3905
 Open Data and Cross Border Data Flow	4123,8940,417
-Organizations Borrower	1867,8901,61,696,35,1772,2289,37,3,483,1960,94,103
+Organizations Borrower	1867,8901,61,696,35,1772,2289,37,3,483,1960,94,103,550
 Organizations Borrower Implementing Agency ISLAMIC REPUBLIC	17849
 Organizations Borrower THE REPUBLIC OF CAMEROON	15601
 Organizations Republic of Angola Borrower	11417
@@ -606,10 +608,12 @@ Oshikango Border Post	13044
 Oshikango and Katima Mulilo Border Posts	13044
 Ouargla Oran El Bayadh Illizi Bordj	16085
 Oumou BORE	17829
+Overall Bank Overall Borrower Satisfactory Satisfactory	18754
 Overall Borrower Performance	16614
 PART IV BORDER MANAGEMENT	13403
 PDS. The Borrower	15080
 PROCEED TO BORDER	12633
+Parlamentares Wuando Borges Castro	18772
 Parliament. Internews and Internet Without Borders	8095
 Partial Payments. If the Borrower	16219
 Passport and Border Control System	12597
@@ -653,6 +657,7 @@ Reporters Without Borders. Thanks	18358
 Republic of Seychelles and Travizory Border Security SA	17678
 Requirements Gaps The Borrower	1988
 Respect of Domestic Borrowing	14546
+Revenue and Border Authorities	18797
 Review Borrower	10779
 Risk Management Activities C.1 What Borrower	18374
 Robert Maate and Roza Mamuye Bora	4214
@@ -666,7 +671,8 @@ SVP of Borders	4275
 Safeguards Borrower	12137
 Salaam Port and Nakonde Border Post. All	13392
 Santa Clara Border	12984
-Satisfactory Borrower Performance	16614
+Satisfactory Borrower Performance	16614,2140
+Satisfactory C.2 Detailed Ratings of Bank and Borrower	18754
 Sayali Borole	10932
 Scaling AI Readiness Across Borders	12723
 Scheme Borehole No. Anticipated Yield	18543
@@ -777,6 +783,8 @@ World Bank Borrowers	15372,39,3084
 World Bank Procurement Regulations for IPF Borrowers	1264,603,1737,2935,3064,1226,135,453,438,50,19,41,1367,2186,140,3,775,500,13,231,39
 World Bank's Procurement Regulations for IPF Borrowers	9604
 World Bank’s Procurement Regulations for IPF Borrowers	2889,3014,5622,1806,1807,1006,752
+Wuando Borges Castro de Andrade Ministro da Presidência	18773
+Wuando Borges Castro de Andrade. Proposta de Lei	18778
 X Yearly Description of Covenant The Borrower	17441
 Yearly Description of Covenant The Borrower	17441
 Zambia Border Clearance	12984

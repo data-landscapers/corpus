@@ -79,6 +79,7 @@ Administrative and Support Services	15085
 Administrative and Technical Support	16963
 Adolescent Health SIA Supplemental Immunization Activity	12729
 Adoption Support Bill	1097
+AfDB Energy Transition and Institutional Support Program	18795
 Africa C&I Limited Retail Supply	12256
 Africa Medical Supplies Platform	560,2
 Africa Supply Chain Excellence Awards	14180
@@ -139,7 +140,7 @@ B DANS UN QUESTIONNAIRE SUPPLÉMENTAIRE	13300
 B. SOCIAL SUPPORT FOR RESILIENT LIVELIHOODS	12980
 B. Supporting Digital Transformation	16975
 B. Supporting E-Learning and Digital Education	16975
-BANK LENDING AND IMPLEMENTATION SUPPORT	11924,3500,87,90,62,68,705,516,897,13,100
+BANK LENDING AND IMPLEMENTATION SUPPORT	11924,3500,87,90,62,68,705,516,897,13,100,803,60
 BARINGO COUNTY IFMIS SUPPORT AND TRAINING	12322
 BATTERY SUPPORT ACCESS APPROVE USE MOBILE	11964
 BBG Total Support the BBG Oppose the BBG	7869
@@ -153,7 +154,7 @@ BOLT SUPPORT KE LIMITED Data Controller	7167
 BOLT SUPPORT KE LIMITED Data Processor	7167
 BUILT AND MAINTAINED WITH SUPPORT	6133
 Backup Supporting Service	15590
-Bank Lending and Implementation Support	16614
+Bank Lending and Implementation Support	16614,2140
 Bank Service Delivery and Support	15731
 Bank Use Promotion and Suppression of Money Laundering	1925
 Bank's Monitoring Support	1988
@@ -446,6 +447,7 @@ Decision Support Security	13042
 Decision Support Stores	2477
 Decision Support System	5097
 Decision Support Systems	11156
+Dedicated Customer Support	18837
 Definition of Income and Financial Support	2307
 Delivery and Support	15731
 Demand Side Barriers Supply Side Barriers	940
@@ -638,6 +640,7 @@ End-to-End Supply Chain Visibility ASYCUDA	13042
 Energy Distribution and Supply Authority	18488
 Energy Physical Supply and Use Tables	2775
 Energy Supply	12256,5,3479
+Energy Transition and Institutional Support Program	18795
 Engineers. Support Services	11209
 English Language. Supporting	1638
 Enhanced Verification and Support	3478
@@ -784,6 +787,7 @@ Gambia. Support	16852
 Gambia. Supports IFMIS	166
 Garden Vehicle Parts Commercial Supplies Jobs	2888,32,354,504,1444,877,6,100,680,129,293,115
 Gas Supply	11272,3401
+Gas Supply Options	18795
 Gbps. Supply	12253
 Gemini Pro and NotebookLM. Support	5092
 Gender Statistics Support	1407
@@ -840,7 +844,7 @@ H.O. Support Cost	12982
 HIV Prevention Care and Support	16951
 HIV Support Demetrio Bocuma Meñe Programme	17101
 Hands-on Enhanced Implementation Support	10829,135,2367,1,2221,68
-Hands-on Expanded Implementation Support	1284,583,1022,567,106,42,7164,649,52,91,345,3233,380,140,1,2,308,14,161,778,258,1018
+Hands-on Expanded Implementation Support	1284,583,1022,567,106,42,7164,649,52,91,345,3233,380,140,1,2,308,14,161,778,258,1018,611
 Hands-on Expanded Implementation Support ICT International	16144
 Hardware Supply Resilience Framework	7548
 Head of Marriage Support Fund	16902
@@ -904,6 +908,7 @@ IMPLEMENTATION SUPPORT MISSION URL	15878
 IMPLEMENTATION SUPPORT PLAN	17458,646
 IMS Operations Support	11986
 INFORMATION ONLINE WORK INFORMATION SUPPORT JOB	11004
+INFORMATION SUPPLIED THROUGH WMO	18787
 INFORMATION SUPPLIED. PART VI Data Subject	972
 INSTITUTIONAL SUPPORT	13962
 INSTITUTIONAL SUPPORT AND TRANSERS	11986
@@ -929,7 +934,7 @@ Identification of Ecosystem Players and Startup Support	12376
 Impact Supporting SMEs	11332
 Impact of Reduced Support	2678
 Implementation Arrangements and Project Support	14910
-Implementation Arrangements and Support Plan	969,295,603,8901,612,169,11,1771,1,2159,24,3,35,68,37,1,2,1288,1344,8
+Implementation Arrangements and Support Plan	969,295,603,8901,612,169,11,1771,1,2159,24,3,35,68,37,1,2,1288,1344,8,476
 Implementation Arrangements and Support Plan COUNTRY	13332,2186,140
 Implementation Support	2889,9467,3016,247,533,502
 Implementation Support Mechanism	17881
@@ -1437,11 +1442,12 @@ Professional and Support Staff	13037
 Program Management Support	14038
 Program Supported	11905
 Program Supporting Digital CSIs	3604
+Program. Support	18754
 Programme of Action for Resilient Water Supply	13752
 Project ARPCE Support Coordination Support Chair	15372
 Project Appraisal Document PASyFiS Support	17849
 Project Implementation Manual Project Implementation Support	15658
-Project Implementation Support	11965,3526,211,267,2504
+Project Implementation Support	11965,3526,211,267,2504,319,33
 Project Implementation Support Component	15659
 Project Implementation Support Mission	18623
 Project Implementation Support Revised Indicator Name	15969
@@ -1683,7 +1689,7 @@ SUPPORT VICTIMS	12939
 SUPPORTING	18668
 SUPPORTING ACCESS TO FINANCE AND ENTERPRISE	14546
 SUPPORTING AI-BASED INNOVATIONS AND NEW ENTERPRISES	14004
-SUPPORTING DOCUMENTS	2709,12171,544,87,90,62,68,705,1426,100
+SUPPORTING DOCUMENTS	2709,12171,544,87,90,62,68,705,1426,100,803,60
 SUPPORTING DOCUMENTS S	16878
 SUPPORTING DOCUMENTS World Bank Documents	15601
 SUPPORTING DOCUMENTS World Bank. All Aide	11924
@@ -1742,6 +1748,7 @@ Smart Africa Support for Telecoms and AI Development	7157,40,31
 Social Development Specialist Agriculture Support	1988
 Social EBESP Emergency Basic Education Support	15661
 Social Management Plan ESO Entrepreneurship Support	1264
+Social Sector Support Project	18754,11
 Social Support Fund	973,9795
 Social Support Steering Committee NSSTC National	12964
 Social Support Technical Committee NSSP Social	12964
@@ -1832,6 +1839,7 @@ Suppl	396,370,5,3020,6989,85,16,715,592,3433
 Suppl 1	4781
 Supple-	14897
 Supplement	410,326,35,249,203,110,544,318,531,1,987,173,466,2268,5230,638,60,81,410,524,2,11,29,3534,1300,5
+Supplement 3	18875
 Supplement Supplement	17968
 Supplemental	4676,4447,2105,2957,2786
 Supplemental Agreement	12256
@@ -1909,9 +1917,9 @@ Supplier Information Form	11240
 Supplier MUST	13185
 Supplier Performance	7266
 Supplier Performance Management	11209
-Supplier Portal	13618
+Supplier Portal	13618,5246
 Supplier Portal Open	12322
-Supplier Registration	13618,4944
+Supplier Registration	13618,4944,302
 Supplier Registration Module	18562
 Supplier Registration System	18500
 Supplier Response Templates	14224
@@ -1953,7 +1961,7 @@ Supplies for Project F	17180
 Supplies of Laboratories	14736
 Supplies the IDEA Programme	4538
 Supplu	11852
-Supply	1,957,51,275,583,2335,10,1035,575,1010,919,200,36,179,123,351,483,732,863,3,296,181,26,245,484,23,277,76,47,45,209,70,182,160,143,173,46,20,108,212,19,96,34,522,179,144,25,3,17,19,65,65,15,64,69,103,476,2,2,50,30,102,91,33,243,315,324,33,40,23,24,128,9,8,41,23,1270,79,12,2,136
+Supply	1,957,51,275,583,2335,10,1035,575,1010,919,200,36,179,123,351,483,732,863,3,296,181,26,245,484,23,277,76,47,45,209,70,182,160,143,173,46,20,108,212,19,96,34,522,179,144,25,3,17,19,65,65,15,64,69,103,476,2,2,50,30,102,91,33,243,315,324,33,40,23,24,128,9,8,41,23,1270,79,12,2,136,116,69
 Supply Adequacy Analysis Supply	15904
 Supply Angola	11366
 Supply Chain	10721,413,1021,1011,3991
@@ -2050,6 +2058,7 @@ Supply of Internet Possession Administration and Electronic	1797,1413,3880
 Supply of Pharmaceuticals and Medical Devices	14033
 Supply of Risk Capital	12540
 Supply-Demand	16188
+Supply-Demand Imbalance	18795
 Supply-Side Policies	12536
 Supply-chain	12922
 Supply-side	940,888,4328,676,3445,437,142,729,375,34,401,262,1441,625
@@ -2066,7 +2075,7 @@ Supplémentaire	18316
 Suppléments	18312
 Suppo10rt.5forSSutpapteorGt	10157
 Suppor IDA	17180
-Support	26,1,1,6,131,71,117,111,4,181,1,139,35,1,22,52,41,18,3,1,8,30,79,52,24,6,43,15,45,20,79,80,22,239,74,36,53,18,103,471,250,66,2,181,31,15,158,73,8,101,37,202,21,236,21,34,91,112,28,76,12,3,84,48,179,707,9,1,54,214,20,142,1,272,465,10,9,10,97,204,51,142,10,2,590,10,311,10,17,86,41,824,51,235,732,302,145,15,30,373,1,42,5,8,43,10,7,5,15,9,8,19,64,8,11,5,24,79,50,1,6,9,31,16,2,6,5,1,25,1,4,1,7,99,121,57,11,50,218,51,8,34,3,5,11,25,11,12,33,58,9,26,48,27,20,7,6,14,2,26,1,5,64,12,34,2,1,1,9,7,23,6,35,4,54,4,10,48,3,105,6,1,6,8,11,28,26,168,10,7,23,2,7,7,27,32,7,9,7,20,105,24,12,2,35,37,15,2,2,6,11,32,2,27,3,67,12,38,11,9,92,37,112,95,1,14,42,64,3,12,20,15,4,136,6,172,52,16,9,7,125,108,49,23,1,5,8,1,12,39,6,1,4,10,13,5,4,24,9,8,1,25,13,12,12,6,17,15,37,18,6,22,10,3,37,8,16,10,19,23,54,8,74,30,39,13,23,31,2,31,1,6,34,1,15,36,31,23,1,2,2,51,2,9,6,170,8,27,208,43,26,53,46,17,23,45,121,16,47,73,124,55,10,5,4,1,8,6,5,4,10,10,6,14,6,2,2,1,9,3,3,1,4,2,2,1,8,10,1,4,36,6,1,25,12,13,11,17,3,2,13,2,11,11,1,10,8,7,8,24,23,9,5,2,25,25,4,9,69,3,348,26,79,21,1,1,3,35,18,32,105,65,21,73,15,78,6,4,4,7,3,2,6,26,9,1,11,74,2,3,9,2,18,2,1,5,2,2,14,8,3,8,6,8,38,40,3,22,34
+Support	26,1,1,6,131,71,117,111,4,181,1,139,35,1,22,52,41,18,3,1,8,30,79,52,24,6,43,15,45,20,79,80,22,239,74,36,53,18,103,471,250,66,2,181,31,15,158,73,8,101,37,202,21,236,21,34,91,112,28,76,12,3,84,48,179,707,9,1,54,214,20,142,1,272,465,10,9,10,97,204,51,142,10,2,590,10,311,10,17,86,41,824,51,235,732,302,145,15,30,373,1,42,5,8,43,10,7,5,15,9,8,19,64,8,11,5,24,79,50,1,6,9,31,16,2,6,5,1,25,1,4,1,7,99,121,57,11,50,218,51,8,34,3,5,11,25,11,12,33,58,9,26,48,27,20,7,6,14,2,26,1,5,64,12,34,2,1,1,9,7,23,6,35,4,54,4,10,48,3,105,6,1,6,8,11,28,26,168,10,7,23,2,7,7,27,32,7,9,7,20,105,24,12,2,35,37,15,2,2,6,11,32,2,27,3,67,12,38,11,9,92,37,112,95,1,14,42,64,3,12,20,15,4,136,6,172,52,16,9,7,125,108,49,23,1,5,8,1,12,39,6,1,4,10,13,5,4,24,9,8,1,25,13,12,12,6,17,15,37,18,6,22,10,3,37,8,16,10,19,23,54,8,74,30,39,13,23,31,2,31,1,6,34,1,15,36,31,23,1,2,2,51,2,9,6,170,8,27,208,43,26,53,46,17,23,45,121,16,47,73,124,55,10,5,4,1,8,6,5,4,10,10,6,14,6,2,2,1,9,3,3,1,4,2,2,1,8,10,1,4,36,6,1,25,12,13,11,17,3,2,13,2,11,11,1,10,8,7,8,24,23,9,5,2,25,25,4,9,69,3,348,26,79,21,1,1,3,35,18,32,105,65,21,73,15,78,6,4,4,7,3,2,6,26,9,1,11,74,2,3,9,2,18,2,1,5,2,2,14,8,3,8,6,8,38,40,3,22,34,91,12,32
 Support AI	4897,2651,4808,319,786,4423
 Support AI-enabling	1363
 Support API	6948
@@ -2197,6 +2206,7 @@ Support Private Sector	14960
 Support Private Sector Digital Skills Providers	14897
 Support Program	7160,4630,1672
 Support Program for AI Emerging Technologies IP	7548
+Support Program for Vulnerable Families. The Project	18825
 Support Programme	10972,2490
 Support Programme Implementation	10965
 Support Programme for Education Reform Special PAREC	13681
@@ -2288,7 +2298,7 @@ Support for AU ECOWAS and SAA	1264
 Support for AU and ECOWAS	1264
 Support for Apple	10032
 Support for Capacity Building	1777
-Support for Climate Change Adaptation and Mitigation	969,295,12067
+Support for Climate Change Adaptation and Mitigation	969,295,12067,5446
 Support for Digital Literacy Project ICT Club	11204
 Support for Digital Payments	603
 Support for Digitalization Financial and Competitiveness	601
@@ -2548,6 +2558,7 @@ Surge Suppression	9123
 Sustainable Medical Supply Platform	10128
 Sustainable Pineapple Supply Chain European Commission	848
 System for Support	17101
+SÃO TOMÉ E PRÍNCIPE SUPPORTED BYREFERÊNCIAS	18796
 TANESCO Tanzania Electric Supply Company TOE	12256
 TARN. Support	14833
 TAXPAYER SUPPORT CENTER Geral	10762
@@ -2618,6 +2629,7 @@ Transaction Support	8546
 Transform Support Program Graduate	12969
 Transforming Pharmaceutical Supply Chain Infrastructure	18679
 Transition Support Facility	332,460,1114,2934,511,4871,3716,142,5,926,2987,68
+Transition Support Facility Pillar I	18862
 Transition Support Facility Pillar III	10222,350,72
 Transition Support Facility UA Unit of Account	13731
 Transition Support Facility Unit of Account United	13938
@@ -2732,6 +2744,8 @@ Water Supply and Sanitation Project	12922
 Water Supply and Sanitation Services	5247
 Water Supply and Sewerage	15085
 Water Supply for HVAC	9123
+Water and Power Supply Company	18797,54
+Water and Power Supply Company PER Public	18851
 Welfare Support	12964
 Well-developed Supportive Policies	15713
 Wendel Support Agreement	7198

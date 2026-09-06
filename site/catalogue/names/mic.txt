@@ -373,6 +373,9 @@ Information Micro-informatique EAC East African Community	13341
 Information Minister Michael Makuei Lueth	18652
 Information Sociale M. Samuel Michel Yameogo	10812
 Infrastructure MICDE	7548
+Inquérito MICS6	18762
+Inquérito de Indicadores Múltiplos MICS	18794
+Inquérito. MICS6	18762
 Institution de Microfinance. Page	13390
 Institution de Microfinances	13452
 Institutional Support for Medium Small and Micro Enterprises	13123
@@ -381,6 +384,7 @@ Institutions de Micro Finance INS	18100
 Institutions de MicroFinance	14417
 Institutions de Microfinance	10237,3153,62,16,2486
 Institutions de Microfinances	13390
+Instituto Nacional de Estatística MICS	18794
 Instruction Civique Michel MENGA M'ESSONE	15361
 Integrated Microcomputer Processing System	16921
 Interim President Michel Kafando	10838
@@ -585,13 +589,15 @@ MICS Existencia	16898
 MICS French.pdf	15553
 MICS French.pdf Page	15553
 MICS INEGE	16898
-MICS Inquérito	966,10581
+MICS Inquérito	966,10581,7236
+MICS Inquéritos	18779
 MICS Multiple Indicator Cluster Survey MNE	15661
 MICS Multiple Indicator Cluster Survey MOH	10829
 MICS Multiple Indicator Cluster Surveys MII	13300
 MICS Multiple Indicator Cluster Surveys MPI	15244
 MICS Multiple Indicators Clusters CICM Décentralisation	17845
 MICS Pendiente Disponer	16898
+MICS Sao Tome	18777
 MICS Survey Republic of Congo	15553
 MICS V	10777
 MICS Zero	11401
@@ -607,11 +613,13 @@ MICS. Given	11879
 MICS. Pendiente	16898
 MICS1	14577
 MICS2	14577
+MICS2019	18781
 MICS4	14577
-MICS5	15553,132
-MICS6	969,13608,1084
+MICS5	15553,132,3092
+MICS6	969,13608,1084,3101,19
 MICS6-RCA	969,14529
 MICS6-RCA Enquête	15498,160
+MICS6-STP Snapshot.pdf	18762
 MICS6.pdf	11562
 MICS7	10273,3173,458,673,2467
 MICS7. Cette	10273
@@ -939,14 +947,14 @@ Mickaël Pegi	15524
 Micoc	4209
 Micomeseng	16942
 Micomiseng	4209,12689,44,20,7
-Micro	824,116,1261,574,41,1712,716,639,1665,215,82,569,256,58,389,306,429,905,99,109,52,117,131,161,123,445,24,192,87,4,144,37,30,189,37,184,34,16,5,23,72,39,145,56,2,44,32,84,211,253,86,55,120,327,20,101,103,69,204,62,45,347,23,53,21,67,381,34,89,395,234,237,90,4,33,690,70,329,64,64
+Micro	824,116,1261,574,41,1712,716,639,1665,215,82,569,256,58,389,306,429,905,99,109,52,117,131,161,123,445,24,192,87,4,144,37,30,189,37,184,34,16,5,23,72,39,145,56,2,44,32,84,211,253,86,55,120,327,20,101,103,69,204,62,45,347,23,53,21,67,381,34,89,395,234,237,90,4,33,690,70,329,64,64,415,27
 Micro Contribuables	13427
 Micro Contribuables Immatriculation	13427,233
 Micro Economic Directorate	14860
 Micro Enterprises	7759,3437,1927
 Micro Finance	10965
 Micro Finance Banks	11956
-Micro Finance Institutions	13938,1192
+Micro Finance Institutions	13938,1192,3721
 Micro Finance Loans	15578
 Micro Finance Monthly	18450
 Micro Finance Zambia Vice President and CEO	9371
@@ -966,6 +974,7 @@ Micro Utility Licensing Regulations	16978
 Micro Utility-	16851
 Micro and Medium Enterprises	12425
 Micro and Small Businesses	8669
+Micro and Small Enterprises	18847
 Micro and Small Enterprises Act	7548
 Micro-	6832,5162,2885,2004,1
 Micro- CHE	6832
@@ -1044,6 +1053,7 @@ Microdata Archives Research	18747
 Microdata Identification Version Coverage Producers	15844
 Microdata Reference Year	16189
 Microdata Transfer Request Form for Scientific Purposes	16189
+Microdiag	18843
 Microdonnées	9553,5932,2937
 Microdonnées INSTAT Madagascar Bienvenue	9481
 Microdot	11269
@@ -1509,6 +1519,7 @@ Professor Michael Bridges	4439
 Professor Michael Goldsmith	1200
 Professor Michael Goldsmith. Version	1200
 Professor Michie	899
+Programa Mundial MICS	18762
 Programa de Conectividad Digital Micronesia Yes ICT	11529
 Programme de Micro	17827
 Project Economist Michelle Rong Gao	15905
@@ -1575,6 +1586,7 @@ Secretary-General Dr. Borlli Michel	5917
 Secretary-General Dr. Borlli Michel Jonas	6707
 Sector MICDE	7548
 Sectors City Micro	15085
+Segundo MICS	18768
 Selon Michel Rogy	16150
 Selon le MICS	15685,2158
 Selon le Ministre Boukar Michel	2554
@@ -1664,6 +1676,7 @@ Uganda Microfinance Regulatory Authority. Ms Musherure	10299
 Uganda. Enterprise Dev Microfinan	12231
 Unified National Digital Microfinance Platform	8184
 Unit Michel Rogy Team Leader Program	15411
+Unit MoF Ministry of Finance MSME Micro	18825
 Unité de Micro-finance Islamique	4402
 University of Michigan	11990
 University of Michigan Medical School	11990

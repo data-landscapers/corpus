@@ -134,7 +134,7 @@ Bhutan National Digital Identity	9135
 Bhutan National Digital Identity Limited	7111
 Bhutan’s National Digital Identity	7111,3563
 Bilhete Identidade Digital	11480
-Bilhete de Identidade	220,218,738,1512,842,76,1,437,42,370,255,439,146,106,25,294,265,2,72,9,468,77,26,101,78,18,107,22,29,315,743,1,1,2,53,149,372,768,591,308,130,322,1,1,1,3,9,7,3,2,594,12,21,15,2,4,21,26,7,1,48,49,490,53,664,64,13,2498,111,102,1761
+Bilhete de Identidade	220,218,738,1512,842,76,1,437,42,370,255,439,146,106,25,294,265,2,72,9,468,77,26,101,78,18,107,22,29,315,743,1,1,2,53,149,372,768,591,308,130,322,1,1,1,3,9,7,3,2,594,12,21,15,2,4,21,26,7,1,48,49,490,53,664,64,13,2498,111,102,1761,1419,25,27,3,45,2
 Bilhete de Identidade Bengo	6741
 Bilhete de Identidade CDT	11435
 Bilhete de Identidade Características	10777
@@ -143,6 +143,8 @@ Bilhete de Identidade Digital Fase	11480
 Bilhete de Identidade Integrado	10750
 Bilhete de Identidade Nacional	10750
 Bilhete de Identidade O Presidente da República	10772
+Bilhete de Identidade Publicado	18852
+Bilhete de Identidade URL	18852
 Bilhete de Identidade da República Popular de Moçambique	12784
 Bilhete de Identidade de Cidadão Nacional	10749,7,16
 Bilhete de Identidade. Acrescentou	6944
@@ -283,11 +285,13 @@ Citizen Identity Card	10765,10
 Citizen Identity Card Yes the E-Mongolia	10714
 Citizenship Identity Card Yes AGETIC VRR	10714
 Civil Identification	6474,1205,3096,37,4603,2875
+Civil Identification Law	18777
 Civil Identification Linkages	10765,10
 Civil Identification and Authentication	11909
 Civil Identity Document	11872
 Civil Identity In South Sudan	18702
 Civil Registration Vital Statistics and Identity DCR	12337
+Civil Registration and Civil Identification	18777
 Civil Registration and Civil Identification and Criminal	10775
 Civil Registration and Digital Identity	14640
 Civil Registration and Identification	761,11,2408,7585,10,2230
@@ -342,11 +346,13 @@ Cooperative Member Identification Number	9876
 Coopératives Question A. IDENTIFICATION	13390
 Copy of Identification Documents	12400
 Core Infrastructure Identity and Access Management	13042
+Countries Geographical Identifier Sao Tome and Principe	18809
 Country Briefs THE STATE OF IDENTIFICATION	13713
 Criminal and Civil Identification	10775
 Cross Functional Identity Group	8203
 Cybersecurity Education Cluster. Identify	1777
 Cybersecurity Risk Identification	15054
+Cópia de Documento de Identificação	18833
 D-I7-A1 Action Description Identify	15713
 D-I7-A1 Identify	15713
 D-SACCOs Identify	15130
@@ -407,11 +413,13 @@ Desarrollo IDE	1701
 Description Commonwealth Digital Identity Initiative	249
 Description National Identification	1765,1383,3772
 Description National Identity Management Commission	1273,1196,2103
+Desenvolvimento IDEEA ID Habilitando	18779
 Develop the Tanzania Universal Identity Number Jamii	1644
 Development Bio Fuels Site Identification Numbers	12515
 Development of Additional ICT Applications Identified Under	17441
 Development of National Identification Documents	16953
 Devlet Republic of Turkey Identity Card	10714
+Diagnóstico de Sistemas de Identificação	18779
 Dictionary for Civil Registration and Identification	18290
 Digital Banking Identity	17744
 Digital Citizen Identity	3117
@@ -438,7 +446,7 @@ Digital Identification and Trust	17870
 Digital Identification and Trust Services Mali	17870
 Digital Identification for Development	2253
 Digital Identities	15641
-Digital Identity	364,416,1,1,936,221,1452,203,147,869,197,1055,262,72,191,125,24,608,425,1031,1032,106,913,168,3,18,16,390,694,46,11,212,2,148,73,141,877,984,318,67,596,226,2219,19,567
+Digital Identity	364,416,1,1,936,221,1452,203,147,869,197,1055,262,72,191,125,24,608,425,1031,1032,106,913,168,3,18,16,390,694,46,11,212,2,148,73,141,877,984,318,67,596,226,2219,19,567,321
 Digital Identity APPENDIX First Edition	10819
 Digital Identity AUTHORISATION REGULATED Brith Certificate	10819
 Digital Identity Alignment Alignment	10819
@@ -538,6 +546,7 @@ Directorate of Civil Identification	4214
 Direcção Nacional de Identificação	6060,4705,10
 Direcção Nacional de Identificação Civil	4129,376,6247
 Direcção de Identificação	12067
+Direitos da Mulher NIF Número de Identificação Fiscal	18779
 Diretor Geral de Identificação Civil	11566
 Direção Geral de Identificação Civil	11537
 Direção-Geral de Identificação Civil	11565,1
@@ -545,6 +554,7 @@ Discuss Identity System Modernization TUNIS	10521
 Distributed Identifiers	14756
 District Identifier	13298
 Division of Privacy and Identity Protection	8773
+Divisão de Identificação Civil	18832
 Do Arquivo Nacional de Identifi	15359
 Documento Nacional de Identidad	16942
 Documento de Identidad Per	16855
@@ -552,9 +562,11 @@ Documento de Identidad Perso	16855
 Documento de Identidad Personal	2672,1537,12646,4
 Documento de Identidad Personal Electrónico	16855
 Documento de Identidad Personal. Las	16855
-Documento de Identificação	11383
+Documento de Identificação	11383,7369,82
 Documento de Identificação Autenticação	16027
+Documento de Identificação de Residência de Estrangeiros	18752
 Documentos de Identificação	11383
+DomainKey Identified Mail	18774
 DomainKeys Identified Mail	13037
 Draft Biometric Identity Management Policy	11977
 Draft Official Identity Management Policy	1939,4448,125
@@ -618,6 +630,7 @@ Eradicating Ideological Viruses	2518
 Establish Unique Personal Identifier	14655
 Establishing the National Identification Card System	16841
 Establishment of Unique Identifiers and Data Integration	15034
+Este Diagnóstico da Identidade	18779
 Eswatini Livestock Identification Traceability System	12945
 Eswatini National Identity Card	12404
 Etat AFIS Automated Fingerprint Identification System	18290
@@ -664,6 +677,7 @@ Fayda Identification Number	12202,79
 Fayda National ID Digital Identity	12202
 Federated Identity	10721
 Federated Identity. Document Digital	1009
+Federação de Identidades WS-Security	18774
 Ficha de Identificação	10783
 Finalidades da Identificação	549
 Fingerprint Identification System DDG	11986
@@ -784,6 +798,7 @@ ID. Identity Verification Services	14674
 ID. The National Identification Authority	10822
 ID4D Identification	16626
 ID4D Identification for Development LIC Low-income	10714
+ID4D Identificação	18779
 IDA International Development Association IDEA Inclusive	6539
 IDAS Electronic Identification	12663
 IDE Investissement	7655
@@ -924,6 +939,7 @@ Ideation	9136
 Ideation Stage	14921
 Ideational	11050
 Idehen	14692
+Ideias	18769
 Idem Buba	17147
 Idem Comunicação Contacto	17147
 Idem Engajamento Comunitário	17147
@@ -952,14 +968,16 @@ Identical Names	18556
 Identidad	16905,60
 Identidad Digital	10714
 Identidad Electrónica	10714
-Identidade	2816,6583,1353,678,31,19,40,1264,2574,27,124,558,948
+Identidade	2816,6583,1353,678,31,19,40,1264,2574,27,124,558,948,1736,4,24,14
 Identidade Civil	12784
-Identidade Digital	2581,8813,67,19,2833,3400,2
+Identidade Digital	2581,8813,67,19,2833,3400,2,1052,5
 Identidade Económica	8003
 Identidade Eletrónica	11555
 Identidade Internacional	15,10732
 Identidade Internacional de Assinante Móvel	15,10732
 Identidade Legal	17015
+Identidade Nacional A República Democrática de São	18751
+Identidade Nacional Artigo	18751
 Identidade de Cidadão Nacional	10772
 Identifi	15358,22,12,4
 Identifi-	14897
@@ -994,7 +1012,7 @@ Identificador-Único	11386
 Identificador-único	11419
 Identificadores	10755,1387
 Identificam-se	11569
-Identificar	167,1534,1115,1402,6529,7,23,6,593,10,1,17,26,19,3,90,27,329,3578,28,22,168,627,772,54
+Identificar	167,1534,1115,1402,6529,7,23,6,593,10,1,17,26,19,3,90,27,329,3578,28,22,168,627,772,54,1616,15,3,7,13
 Identificateur	16616
 Identification	33,75,128,237,525,7,4,178,27,78,410,76,36,14,2,109,49,69,361,340,325,389,132,47,24,87,163,53,392,363,1005,35,94,57,462,4,149,143,256,775,183,6,91,25,56,380,443,509,68,163,1,30,49,339,98,83,195,115,165,2,7,43,11,37,2,5,2,33,13,8,1,15,29,18,37,2,179,23,12,4,38,11,21,4,298,290,12,6,2,23,9,1,16,29,5,12,4,10,20,35,2,103,68,13,26,46,34,4,22,5,41,95,7,336,69,14,51,103,15,111,100,34,35,6,4,5,8,5,96,14,10,43,111,4,151,2,1,84,72,252,176,6,14,41,3,5,1,1,47,12,25,48,25,89,114,38,77,32,27,57,163,109,10,30,1,20,1,2,14,13,3,27,19,25,24,5,36,1,55,107,97,1,41,51,7,127,33,14,31,1,40,6,100,27,6,201,2,15,6,89,24,37,4,38,3,94,19,7,5,28,34,21,51,5,34,10,28,16,15,35,8,506,116,40,9,1,7,1,4,25,16,2,2,39,53,5,30,92,13,78,81,6,6,1,1,2,31,13,115,18,6,61
 Identification Act	1939,3594,539,52,263,125,4664,37,69,291,413,61,7,273,10,30,580,12,25
@@ -1040,6 +1058,7 @@ Identification No	11976,1357
 Identification Number	3437,9896
 Identification Number DFI Development Finance Institution	12297
 Identification Number Number Number Number Number	5687
+Identification Number PIU Project Implementation Unit	18777
 Identification Number TOR Terms of Reference UAT	18488
 Identification Number UNCDF United Nations Capital	12241,839,15
 Identification Numérique	2602,508,12475
@@ -1068,7 +1087,7 @@ Identification Schemes	15415
 Identification Section Header	11877
 Identification Services	1616,1288,2292,6790
 Identification Stagnant	12214
-Identification Survey ID	10862,2222,675,1265,819,3,819,380,120,760,600,42,3,75,79
+Identification Survey ID	10862,2222,675,1265,819,3,819,380,120,760,600,42,3,75,79,114
 Identification System	2555,8159,1272,160,4730,203
 Identification System ASYCUDA Automated System for Customs	17105
 Identification System NAMPOL Namibian Police Force	12947
@@ -1142,17 +1161,20 @@ Identification. Officials	10899
 Identificationofaresponsiblehealth-	8301
 Identifications	18724
 Identificatlon	15363
-Identificação	15,534,245,1,1643,378,4154,2301,1479,3,1,12,6,5,6,578,4,3,16,2,18,15,11,21,5,2,3,58,47,3,329,3,38,82,754,2695,34,60,130,61,84,183,34,82,82,156,111,69,591,457
+Identificação	15,534,245,1,1643,378,4154,2301,1479,3,1,12,6,5,6,578,4,3,16,2,18,15,11,21,5,2,3,58,47,3,329,3,38,82,754,2695,34,60,130,61,84,183,34,82,82,156,111,69,591,457,1148,9,17,1,54
 Identificação A Direção Geral	15470
 Identificação Bancária	12848
 Identificação Biométrica	10754
 Identificação Certifica	16290
-Identificação Civil	10750,1,1,20,765,32,1215,78
+Identificação Civil	10750,1,1,20,765,32,1215,78,5917
 Identificação D G P O G	6530
 Identificação Eletrónica	15476
 Identificação Fiscal	10765,10
+Identificação Identificação	18779
+Identificação Pessoal PFV Programa Famílias Vulneráveis	18779
 Identificação Tributária	2438,10364,46,13
 Identificação Tributária. Documentos	12861
+Identificação da Segurança Social NIU Número	18779
 Identificação de Processos	11555
 Identificou	15263
 Identifie Draft Negotiated Cont Description Component	17180
@@ -1366,7 +1388,7 @@ Identity-confirming	13073
 Identity-management	10822
 Identity-related	26,12902
 Identity.com	2778,1042
-Identitätssysteme	9062
+Identitätssysteme	9062,9753
 Identité	1231,1334,816,200,7,174,823,1,2,369,589,613,2178,381,104,1892,122,40,704,463,1456,926,6,49,59,10,74,1047,266,2,210,1,190,91,11,168,49,790,37,339,46,249,179,19,2
 Identité Bancaire	10978,2657,1717,2481
 Identité Biométrique	3925,2034,2034,1675,307,4267,1,3953
@@ -1509,7 +1531,7 @@ Legal Identity and Social Cohesion Project	10989
 Legal Identity for All	4791
 Lei da Identidade Eletrónica	16251
 Lei da Identidade Eletrónica. Também	16251
-Lei da Identificação Civil	5986
+Lei da Identificação Civil	5986,12793
 Les IDE	7655
 Lesotho. International IDEA	12756
 Leverage the Identity	10819
@@ -1535,6 +1557,7 @@ MALE SOCIAL MEDIA USER USER IDENTITIES	12214
 MAP AND IDENTIFY POOR HOUSEHOLDS	11133
 MLHA's Electronic National Identification System	4145
 MOSIP Identifiant	16609
+MOSIP-based National Digital Identity	18857
 MUKESHA Josephine DIRECTOR GENERAL NATIONAL IDENTIFICATION	12338
 Main Categories of Threats Identified	5677
 Maisha Identification Card	14460
@@ -1630,6 +1653,7 @@ NIR National Identification Registry NDP National	17011
 NIR National Identification Registry NPV Net	16949
 NIRA National Identification and Registration Authority	14976
 NIRA’s My Identity Expo and National Symposium	14380
+NIS Número de Identificação Social NISS Número	18779
 NIST’s Digital Identity Guidelines	2318,6,103,20,74,20,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,154,105,18,126,31,163,119,78,69,141,37,21,280,185,78,145,55,254,225,32,106,45,60,43,101,181,78,116,183,19,70,19,178,5,104,1,149,7,16,43,210,294
 NO. NAME OF AGENT IDENTITY DETAILS	14880
 NOTARIADO E IDENTIFICAÇÃO	16487
@@ -1870,6 +1894,7 @@ No. CSR Project Issue Identified Mulani	14546
 Non-Citizen Identity Card	7317,7465
 Non-Gambian Identity Card	17379
 Nongovernmental Organization NIR National Identifi	16876
+Notariado Pesquisa O Centro de Identificação Civil	18832
 Notariado de Identificação	5476
 Notary Identity Register	11939
 Notary and Identification	11941
@@ -1889,9 +1914,10 @@ Número de Identificação Predial Nas	11901
 Número de Identificação Social	10754
 Número de Identificação da Segurança Social	10749
 Números de Identificação Predial	11384
-O Bilhete de Identidade	5988,4784,674,131,1207
+O Bilhete de Identidade	5988,4784,674,131,1207,6068
 O Bilhete de Identidade de Cidadão Nacional	10749,7
 O Cartão Nacional de Identifi	15392
+O Identificação	18774
 O Número de Identifi	15392
 OAU Official Identity Management Policy JCPS	11986
 OCR'd. Identification	10898
@@ -1936,6 +1962,7 @@ PROJECT IDENTIFICATION AND PREPARATION STAGES	16926
 PROJECT IDENTIFICATION Table	12980
 PROMOTE IDENTIFY LEVERAGE STRENGTHEN UTILISE	13681
 PROVIDE THEIR IDENTITY AND CONTACT DETAILS	2709
+Paisagem De Registo Civil E Identificação	18779
 Palau National Identification System	10714
 Paraguay Identity Card	10714
 Parcel Identification Number	14713,9
@@ -2005,6 +2032,7 @@ Principles Digital Identification System	12146
 Principles for Digital Functional Identification	10819
 Principles for Identification for Sustainable Development	15518
 Principles of Identification for Sustainable Development	969,14549
+Princípios de Identificação	18779
 Private Sector Clients for Identity Services	15415
 Privileged Identity Management	10721
 Proactive Identification of High-Risk Traffic Factors Zambia	10347
@@ -2073,12 +2101,16 @@ Regime Jurídico da Identificação Civil	10749,7,16
 Regime da Identificação Civil	10772
 Regional Unique Identification Project	6251
 Regional West Africa Unique Identification for Regional	1769,552,1531
+Registo de Identifi	18752
+Registo de Identificação	18752,32
 Registration and Identification	5283,8013,1
 Registration and Identification Bill Share Print	18519
 Registration and Identification Processes	10812
 Registration and Identification of Persons Act	6123
 Registration and Identity Management	12227
 Registration and Issuance of National Identification Cards	741
+Regulamento Sobre Registo de Identificação	18752
+Regulamento Sobre Registo de Identificação de Cartões Sim	18752
 Regulating Privacy and Digital Identities	3068
 Regulatory Authority SIM Subscriber Identity Module	718
 Regulatory Priorities Identified Adoption	5677
@@ -2202,6 +2234,7 @@ Smart Africa Digital Identity Working Group	10819
 Smart Africa Working Group for Digital Identity	10819
 Smart Identity Card Yes BRR Bulgaria	10714
 Smile Identity	832,307
+Sobre Registo de Identificação	18752
 Social SOGI Sexual Orientation and Gender Identity	11413
 Société IDEMIA FRANCE. Vu le Décret	17841
 Solutions Identification	9237
@@ -2293,7 +2326,7 @@ Tax Identification Numbers	9570,3430,1484,664,3560
 Tax Payer Identification Number	22
 Taxpayer Identification	11976
 Taxpayer Identification Identification Number for NIL NIL	6921
-Taxpayer Identification Number	4449,2472,4940,488,103,601,196,357,78,284,1632,1001,507
+Taxpayer Identification Number	4449,2472,4940,488,103,601,196,357,78,284,1632,1001,507,1689
 Taxpayer Identification Number Registration	12349
 Taxpayer Identification Numbering System	16601
 Taxpayer Identification Numbers	2744,9885,977

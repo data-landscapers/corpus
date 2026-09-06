@@ -104,9 +104,12 @@ CHAPTER FOUR Customs Exemptions Article	15492
 CHAPTER SIX Customs Procedures	15492
 CHAPTER THREE Customs Tax	15492
 CHAPTER TWO The Customs Department	15492
+CIF Custo	18757
 COM CUSTOS CONTROLADOS	16487
 CORE VALUES Integrity Customer Centric Excellence	13385
 CRB Customer Week	15023
+CUS Cobertura	18783
+CUS São Tomé	18783
 CUSIP Number	7198
 CUST IncorrectCurrency Currency	12364
 CUSTO DA ENDE	11526
@@ -200,7 +203,7 @@ Cusselintra	17147
 Cust and Manley	16996
 Custas	15572
 Custer	4907
-Custo	11361,17,148,21,4025,122
+Custo	11361,17,148,21,4025,122,3084,16
 Custo-benefício	11555
 Custo-eficácia	11547
 Custodial	8840
@@ -219,6 +222,7 @@ Custom Content	12675
 Custom Duties	13185
 Custom Duties Unit Price	13185
 Custom House	14736,80
+Custom IT Solutions	18873
 Custom Materials	14766,314
 Custom No Partial	12214
 Custom Risk Management Availability	12389
@@ -475,6 +479,7 @@ Customs Modernization Programme	12654
 Customs Modernization Project	184
 Customs Mutual Administrative Assistance Agreement	9092,1
 Customs Network for Transit Trade	13042
+Customs Office	18797
 Customs Officer	11289,2274,1915
 Customs Officers	15478,1153
 Customs Operations Manager Ms. Lorina Seady	13042
@@ -510,6 +515,7 @@ Customs Tariff Act	14814,14,3,12,3607,16,34,41,36
 Customs Tariffs	15492
 Customs Tax	15492
 Customs Tax Article	15492
+Customs Tax Authority	18797
 Customs Union	13563,846
 Customs Union SADC Southern African Development	12923
 Customs Union. ARTICLE	14409
@@ -556,10 +562,11 @@ Customs. WCO Risk Management Compendium WCO	13051
 CustomsTariff Act	14843
 Customs’ Strategic Role	13051
 Customs’ Zone. Article	15492
-Custos	2816,7967,578,69,3928
+Custos	2816,7967,578,69,3928,3426,10,8
 Custos Cadastrais Normas de Serviço	11898
 Custos Redução	11893
 Custos da Inação	7948
+Custos de Financiamento	18794
 Custos de Transações Imobiliárias Normas de Atendimento	11898
 CustosClarus	3391
 Custódia	966
@@ -584,6 +591,7 @@ Data Owners and Custodians	15034
 Data Protection Agency CUSTODIAN Ministry of Information	1161
 Data and Information Custodianship Policy. Agencies	11854
 Decentralization and Customary Affairs	11900
+Dedicated Customer Support	18837
 Definition of Customer Categories Individual	5687
 Definitions I. Customer	16851
 Department of Customs	13042,4325
@@ -612,7 +620,7 @@ Directorate General of Customs	9343,7866
 Directorate of Customs	4827
 Directorate of Customs Union and Taxation	10572,6104
 Directorate of Customs Union and Taxation Darlingston Y	10644
-Directorate-General of Customs	17209
+Directorate-General of Customs	17209,1616
 Directors General of Customs	7512
 Discriminatory Customary Practices	16951
 Discriminatory Customary Practices Systemic	16951
@@ -709,6 +717,7 @@ Gabon Customs	15478
 Gambia. Customary	16951
 Games Customer Service Week COMESA Committee	11131
 Gendema Customs	18500,77
+General Customs Authority	18857
 General Department of Customs and Excise	13042
 General Directorate of Customs	10870,5633
 General Directorate of Customs and Excise	477
@@ -762,6 +771,7 @@ Investigating the Protection of Customers’ Personal Data	226
 Investment and Customs	12962
 Invoices and Remittances of Other Customers	12062,6124,31
 Iraq’s Customs Authority	13042
+Isento de Custos Por	18834
 Issuing the Customs Law	15492
 Issuing the Customs Law URL	15492
 Jamaica Customs Agency	13042
@@ -772,7 +782,7 @@ KYC Know Your Customer	7763
 KYC Know Your Customer LMP Labor	15518
 KYC Know Your Customer LTE Long	16942
 KYC Know Your Customer MICS Multiple	15415
-Know Your Customer	1880,36,639,23,227,36,269,7,284,28,79,139,464,737,7,179,335,170,226,232,100,80,10,45,513,476,298,82,162,171,159,943,320,59,350,85,6,151,22,101,450,2,132,90,18,17,144,981,12,62,106,83,14,7,26,17,6,20,6,109,17,214,21,6,288,8,22,72,15,437,9,397,536,29,316,15,613,46,25,383,1475,161,595,359,211
+Know Your Customer	1880,36,639,23,227,36,269,7,284,28,79,139,464,737,7,179,335,170,226,232,100,80,10,45,513,476,298,82,162,171,159,943,320,59,350,85,6,151,22,101,450,2,132,90,18,17,144,981,12,62,106,83,14,7,26,17,6,20,6,109,17,214,21,6,288,8,22,72,15,437,9,397,536,29,316,15,613,46,25,383,1475,161,595,359,211,68
 Know Your Customer Facility	18471
 Know Your Customer FinTech Financial Technologies	18454
 Know Your Customer Lesotho Wire Local	12701
@@ -814,6 +824,7 @@ Mandatory Crediting of Customer Accounts	12579
 Mauritius Customs	14789
 Mauritius Customs News	14789
 Mauritius Customs URL	14789
+Menor Custo	18793
 Mercy Fosoh The Directorate General of Customs	16298
 Metered Customer	18186
 Metering End-Use Customers	12062,6124,31

@@ -107,6 +107,7 @@ Border Management Border Management Authority and Department	11986
 Botswana Department of Meteorological Services. SPI	12614
 Budget Department	16942
 Budget Department of MoFEA	16944
+Budget Department. Data	18792
 Budget. The Department	11224
 Budgetary State Department	7548
 Buildings Department	15473
@@ -130,6 +131,7 @@ CENTRAL MINISTRY OF HEALTH DEPARTMENTS	16971
 CERTIFICATION DEPARTMENT Request	10819
 CERTIFICATION DEPARTMENT Request PTSP	10819
 CHAPTER TWO The Customs Department	15492
+CHEFE DE DEPARTAMENTO Carlos	18798
 CID Criminal Investigation Department	6936
 CLIMATE CHANGE AND FORESTRY STATE DEPARTMENT	14471
 COCS and FDA Commercial Department	16843
@@ -199,7 +201,7 @@ Commission's Legal and Regulatory Services Department	9564
 Commissioner for Refugees Department	1988
 Committee of Departmental Directors’ Retreat	11606
 Communication Department	13985
-Communication and External Relations Department	2807,7908,2714,4511,126
+Communication and External Relations Department	2807,7908,2714,4511,126,796
 Communication and Public Affairs Department	10522
 Communications Department	2450,11501,177,3234
 Community Development DSW Department of Social Welfare	16867
@@ -379,10 +381,11 @@ Depart	4775,12064,59
 Depart Form	11986
 Depart-	16836
 Departa	11561
-Departamento	1701,2508,7172,54,14,170,3884,1368,27,124,172
+Departamento	1701,2508,7172,54,14,170,3884,1368,27,124,172,1566
+Departamento Administrativo	18773
 Departamento Autónomo de Tecnologias de Informação	17604
 Departamento Especializado	10750
-Departamento Financeiro	15503
+Departamento Financeiro	15503,3270
 Departamento Forestal Miriam Minerva ONDO MBANG	16875
 Departamento Governamental	11901,3532,139,117
 Departamento Governativo	11361
@@ -401,7 +404,7 @@ Departamento da Comunicação Social	11561
 Departamento da Defesa	11405
 Departamento de Acreditação	11381
 Departamento de Administração	167,4051,7163,1,67
-Departamento de Administração de Sistemas	11382
+Departamento de Administração de Sistemas	11382,7391
 Departamento de Apoio	4218,7163,1
 Departamento de Aquisições PEDIDO DE MANIFESTAÇÃO	17604
 Departamento de Assessoria Técnico-Jurídico	167
@@ -409,18 +412,23 @@ Departamento de Auditoria	167
 Departamento de Avaliação de Desempenho	167
 Departamento de Aviación Civil	4209
 Departamento de Cibersegurança	11382
+Departamento de Ciências Exatas	18796
 Departamento de Comunicación	9927,7386
 Departamento de Comunicação	4218,7163,1
 Departamento de Comunicações	9236,2225
+Departamento de Contas	18757
 Departamento de Contencioso. Artigo	167
 Departamento de Cooperação	167
+Departamento de Demografia	18757
 Departamento de Documentação	167
 Departamento de Estado	2816,8867
 Departamento de Estadísticas Demográficas	16969
 Departamento de Estatística. Artigo	167
 Departamento de Estatísticas	11418
+Departamento de Estatísticas Económicas	18757
 Departamento de Estudos	1526,1258,32
 Departamento de Gestão	167
+Departamento de Gestão de Conhecimento	18773
 Departamento de Gestão de Infra-Estruturas Tecnológicas	11382
 Departamento de Información	17194
 Departamento de Informação	4044,6713,288,376,1442
@@ -436,7 +444,7 @@ Departamento de Minas	17194
 Departamento de Normalização	11381
 Departamento de Operações de Cibersegurança	4218
 Departamento de Orçamento	167
-Departamento de Planeamento	11449
+Departamento de Planeamento	11449,7345
 Departamento de Planificación	16893
 Departamento de Prensa	16933,12,20,16,6,35,9,18,2,38,20,3,181,50,20
 Departamento de Procedimentos Fiscais DSF	11435
@@ -444,11 +452,13 @@ Departamento de Procedimentos Fiscais DTF	11435
 Departamento de Protecção de Infra-Estruturas Críticas	4218
 Departamento de Recursos Humanos	2816,8633,4054
 Departamento de Recursos Humanos Dande. Corrupção	10751
+Departamento de Redes	18773
 Departamento de Registo de Ficheiros	167
 Departamento de Relações Internacionais	167
 Departamento de Relações Públicas. Artigo	167
 Departamento de Resposta	4218
 Departamento de Segurança Cibernética	2816,4920
+Departamento de Segurança de Sistemas	18773
 Departamento de Serviço Público	11461
 Departamento de Serviços Bancários	5169,1293,6352
 Departamento de Sistemas Operativos	9694
@@ -456,8 +466,9 @@ Departamento de Sistemas de Informação	167,2649
 Departamento de Sistemas de Pagamento	11438
 Departamento de Tesorería	17022
 Departamento de UAS	17093
+Departamento de Utilizadores	18773
 Departamento. Artículo	4209
-Departamentos	4209,7346,5304,39
+Departamentos	4209,7346,5304,39,1901
 Departamentos Governamentais	15572
 Departamentos Ministeriais	794,398,2954,72,6534,2,18,11,588,8,2,1,5,10,33,13,15
 Departamentos Ministeriais. Todavia	11394
@@ -478,6 +489,7 @@ Departamentos de Educación	4209
 Departamentos de Estatística	11561
 Departe-	1009
 Departement	1009,10190,14
+Departement de Demographie	18757
 Departement van Grondhervorming	11260
 Departement van Kommunikasie	11199
 Departement van R	12047
@@ -549,6 +561,7 @@ Department and Agency MoD Ministry of Defence MoECC	18512
 Department and SITA	9684
 Department and Unit Heads	17364
 Department for Animal	17157
+Department for Assessment and Accreditation	18765
 Department for Business	11135
 Department for Continental Shelf	14742,105
 Department for Culture	5675
@@ -577,6 +590,7 @@ Department of Agriculture Livestock and Blue Economy Data	7167
 Department of Agriculture and Rural Development	9609
 Department of Anthropology	4448,10218
 Department of Arts	5246
+Department of Assessment and Accreditation	18765
 Department of Atmospheric Science	15715
 Department of Banking and Supervision	16949
 Department of Basic Education	6832,3270,1078,38,2,5,16,686,70,10,487,1863,970
@@ -607,7 +621,7 @@ Department of Civil and National	12533,40
 Department of Civil and National Registration	1662,3972,6899,1,63,10,32
 Department of Civil and National Registration The Department	12533
 Department of Climate Change and Meteorological Services	13062,78
-Department of Commerce	5773,1017,139,1566,1254,778,1052,814,3841,43,963,1,187,1135
+Department of Commerce	5773,1017,139,1566,1254,778,1052,814,3841,43,963,1,187,1135,294
 Department of Commerce of India	18691
 Department of Commerce. ACTION	5773
 Department of Commerce. Proposers	5773
@@ -931,7 +945,7 @@ Department of Social Welfare and Royal Eswatini Police	12977
 Department of Social Welfare. Any	13332
 Department of Space and Satellite	15167
 Department of Special Education	12661
-Department of State	4165,1527,1084,4229,999,1750,291,2913,1244
+Department of State	4165,1527,1084,4229,999,1750,291,2913,1244,640,37
 Department of State Foreign Assistance	4349
 Department of State Foreign Assistance and CDC	4349
 Department of State Security	11277
@@ -1280,6 +1294,7 @@ Financial Stability Monitoring Department. Director	15023
 Financial Surveillance Department	6938,1845,57,165,122
 Financial Surveillance Department. Version	8840
 Financial and Administrative Department	11417
+Finanças Departamento de Estudo	18791
 Fintech Department	17104
 Fintech Department. Members	17104
 Fintech and Innovation Department	7464,142,1126,802
@@ -1341,6 +1356,7 @@ General Department of Customs and Excise	13042
 General Departments for Physical Planning	15473
 General Education Central Department	15604
 General Information Department of Agriculture	11197
+General Labor Inspection Department	18797
 General Support Services Department	17235
 General Traffic Department	8706
 General’s Department	16873
@@ -1461,6 +1477,7 @@ Information Department	16926
 Information Security Medium Term Department	12917
 Information Services Department	16276,262
 Information Services Department URL	16163
+Information Technology Department NFIS	18770
 Information and Communication Technology Department	2958
 Information and Communications Technology Department	13504
 Information and Coordination Department	16833
@@ -1527,6 +1544,7 @@ Law Enforcement Department.Verification	16843
 Law LVD Liberia Verification Department	16843
 Law Officers Department	18449,51
 Law Officers’ Department	18437
+Le Departement	18757
 Leadership Departments Affiliated Institutions Contact Us	13309
 Leadership Philosophy Departmental	13532
 Lecturer and Acting Head of Department	18558
@@ -1714,10 +1732,12 @@ O Departamento Financeiro	15503
 O Departamento Governativo	11361
 O Departamento Ministerial	10783
 O Departamento da Força Aérea	2816
+O Departamento da Proteção da Criança da DPSSF	18799
 O Departamento de Acreditação	11381
 O Departamento de Administração	4218,7163,1
 O Departamento de Administração de Sistemas de Redes	11382
 O Departamento de Apoio	4218,7163,1
+O Departamento de Assuntos Económicos	18767,5
 O Departamento de Cibersegurança	11382
 O Departamento de Comunicação	4218,7163,1
 O Departamento de Estatística	12788
@@ -1791,7 +1811,7 @@ Percive Chinyama Director Standards Department SMART	13308
 Performance for Ministries and Departments	14746
 Pl'ocedures I. The Department of Energy	16851
 Plan NDT National Department of Tourism NGI	11261
-Planning Department	11738,482
+Planning Department	11738,482,6550
 Planning Department and Building	14746
 Planning The Department	12917
 Planning and Development Department	18467
@@ -2172,7 +2192,7 @@ Transformation and Gender DEPARTMENT OF HOME AFFAIRS	11986
 Transmission and Distribution Department	14745
 Transport Department	13504
 Treasury Corporate and Business Registration Department	14830
-Treasury Department	11130,1842,4,1,65,11,961
+Treasury Department	11130,1842,4,1,65,11,961,4783
 Treasury and Risk Management Departments	8944
 Treasury. The Human Resources Department	13504
 Trump Commerce Department	7209
@@ -2191,6 +2211,7 @@ U.S. Department of State and Liberia. All	4202
 U.S. Department of State's Bureau of International Narcotics	13754
 U.S. Department of State. Health	7187
 U.S. Department of State’s Bureau of International Narcotics	17330
+U.S. Department of State’s Office of Overseas Citizens	18842,37
 U.S. Department of War	5287
 U.S. Department ofState	4153
 U.S. State Department	4961,1968,1550,4666,1760,2652
@@ -2238,7 +2259,7 @@ United States Department of Commerce	15901
 United States Department of Energy. Retrieved	12325
 United States Department of State	3972,181,11,38,58,41,1051,1454,9095,1071,265,560
 United States Department of State Published	15092
-United States Department of State Search	16972
+United States Department of State Search	16972,1825
 United States Department of State URL	16972,1230
 University of Oxford's Department of Computer Science	8529
 University of Pretoria Department of Library Services	8022
@@ -2282,6 +2303,7 @@ Works Department The Local Government	11129
 World Bank DIME Department	15658
 World Bank Finance and Loan Department and FM	15518
 World Bank’s Department of Institutional Integrity	13332
+Worldwide Caution The Department of State	18842,37
 Xiahong Yang Responsible Department	15905
 Yumnaa Ocks Department of Library and Information Science	8022
 ZRP Finance Department	13361

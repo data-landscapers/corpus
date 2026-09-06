@@ -91,9 +91,9 @@ Dip. Law. Secretary-General African Telecommunications Union	8497
 Diphtérie	13300,1322,801,262,1037
 Diphtérie-Tétanos-coqueluche HepB	13300
 Diphtérie-tétanos-coqueluche HepB	13300
-Diplo	2816,4356
+Diplo	2816,4356,11589
 Diplo-chatbot	10815
-Diploma	14,153,263,119,195,8,42,2725,87,1,539,1,71,678,1936,114,3801,2,5,1,1,16,11,165,183,228,1,1,1,1,1,3,1,1,1,1,1,1,4,1,3,1,1,1,1,1,2,6,2,8,1,4,10,6,5,1,2,5,5,6,3,3,2,4,6,67,897,541,68,38,45,128,90,1488,2412,196,1141,92
+Diploma	14,153,263,119,195,8,42,2725,87,1,539,1,71,678,1936,114,3801,2,5,1,1,16,11,165,183,228,1,1,1,1,1,3,1,1,1,1,1,1,4,1,3,1,1,1,1,1,2,6,2,8,1,4,10,6,5,1,2,5,5,6,3,3,2,4,6,67,897,541,68,38,45,128,90,1488,2412,196,1141,92,82,3,23
 Diploma Artigo	167,263,314,8,42
 Diploma As Tecnologias de Informação	15
 Diploma Bachelor’s Degree GEN. SECONDARY EDUCATION	14896
@@ -120,11 +120,12 @@ Diploma and Certificate	14775
 Diploma and Master Levels	16970
 Diploma da Autoridade	11430
 Diploma. ARTIGO	11445
-Diploma. Artigo	167,577,8,10031
+Diploma. Artigo	167,577,8,10031,7995,22
 Diploma. CAPÍTULO III PROCESSO DE PROGRAMAÇÃO	10783
 Diploma. Conteúdo	167,577,8,10031
 Diploma. O Presidente da República	10754
 Diploma. SECÇÃO II CARTEIRA DE PROJECTO	10783
+Diplomacia Proacti	18853
 Diplomacy	4934,506,1557,3091,3386,1331
 Diplomacy Eswatini	4934
 Diplomacy Gendered Voices Volume	11332
@@ -135,7 +136,7 @@ Diplomado Universitario Licenciados	16920
 Diplomados	11419
 Diplomados Universitarios	16969
 Diplomados Universitarios Ingenieros	16969
-Diplomas	15,6931,3809,17,610,37
+Diplomas	15,6931,3809,17,610,37,7333,79
 Diplomas Complementares	10755
 Diplomas Legais	167,372,10922
 Diplomas de Desenvolvimento	11430,1
@@ -341,14 +342,14 @@ Pr Jean-Marie DIPAMA	2732
 Presidente Cámara de Dip. Suprema de Justicia	4209
 Professional Banking Diploma	17235
 Professional Banking Diploma Program. Accordingly	17235
-Professional Course for Foreign Diplomats	13744,1713
+Professional Course for Foreign Diplomats	13744,1713,3400
 Programmes Honours' Degree Post Graduate Diploma	11134
 RURAL DTSM DIPLÔME DE TECHNICIEN SUPÉRIEUR	18170
 Registered. Primary Teachers Diploma	13078
 Registered. Secondary Teachers Diploma	13078
 Represent Diplomáticas Pedido de Restituição	12018
 Representación Diplomática	16871,34
-Representações Diplomáticas	15380
+Representações Diplomáticas	15380,3370
 Représentations Diplomatiques	18120
 Republic of Liberia Government Rejects Misused of Diplomatic	17320
 Rural Urban Skills Award Diploma	12431
@@ -400,4 +401,5 @@ Verifying the Authenticity of Diplomas	16949
 Visa Waiver Agreement for Diplomatic and Official Passport	16331
 Vía Diplomática de Asuntos Exteriores	16855
 X Renforcement du Diplôme Universitaire	16195
+Years of Diplomatic Relations	18879
 Zambian and Diplomatic	13489

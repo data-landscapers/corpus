@@ -317,7 +317,7 @@ Kenyan President William Samoei Ruto	6715
 Kerala Samajam	12617
 Keur Samba Kane	18322,68
 Khalid Hassan Samatar	14896
-Kind of Data Sample	10862,4162,2141,201,1159,42,3
+Kind of Data Sample	10862,4162,2141,201,1159,42,3,268
 Kingsley Samuel The Federal Government	8627
 Kota Samarahan	7759
 Kukula Capital and Samurai Incubate	12376
@@ -901,7 +901,7 @@ Sammy Rollins	15524
 Samo Gudo	12815
 Samoa	7060,3725,824,1433,128,2,2299,704,1568,606
 Samoa ASP LMI	17743
-Samoa Agreement	13156,14,826,632
+Samoa Agreement	13156,14,826,632,4157
 Samoa Civil Registry	10714
 Samoa Global Cybersecurity Index	10764
 Samoa Rapid	226
@@ -980,21 +980,21 @@ Samples	1554,6434,2726,1812,368,4391,1315,9
 Sampling	418,164,637,2642,3417,3917,101,606,329,148,24,254,242,406,1414,96,17,412,330,570,983,158
 Sampling Design	12445,533,4065
 Sampling Design Sampling	12978
-Sampling Frame	10862,1547,36,973
+Sampling Frame	10862,1547,36,973,5420
 Sampling Frame Structure	15244
 Sampling Frame for SIBES Phase II	15085
 Sampling Frame for SIBES Phase II Data	15085
-Sampling Note	10862,114,898,7,1,464
-Sampling Note-Consolidated-2-16-22.pdf	10862
+Sampling Note	10862,114,898,7,1,464,6492
+Sampling Note-Consolidated-2-16-22.pdf	10862,7976
 Sampling PAGE	2775
 Sampling Procedure	17366
 Sampling Purposive	14666
 Sampling Sampling Procedure	13084,675,1265,819,3,819,380,120,760,600,42,3
-Sampling Sampling Procedure The WBES	10862
+Sampling Sampling Procedure The WBES	10862,7976
 Sampling Selecting	11258
 Sampling Stages	13418
 Sampling Strategy	11136
-Sampling Structure	10862
+Sampling Structure	10862,7976
 Sampling Survey	15843,1,2681
 Sampling Weight Calculation	11136
 Sampling Zones Classification County Uasin Gishu	7869
@@ -1102,6 +1102,7 @@ Samuel Nyangi	5990,95,161,1399
 Samuel Nyangi Starlink	7762
 Samuel Nyangi The Kingdom of Eswatini	13101
 Samuel Ogbonyomi	11344
+Samuel Oguah	18851
 Samuel Olomu	2284,110,68,10,114,4,19,190,10,254,418,76,175,417,472,516,371,10,1048,850,162,1767,18,340,99,106
 Samuel Olomu Nigeria	10743
 Samuel Omonakpeme	7632
@@ -1145,6 +1146,7 @@ Sintchã Sambel	17147
 Sintchã Sambel Latitude	17147
 Sir Samuel Lewis	18580
 Soares Sambú	11544
+Sofia Samuel De Procurement Team	18809
 Son Excellence Monsieur Samuel Vu la Loi	17841
 Son Excellence Samia Suluhu Hassan	13405
 Sondos Samir	16266
@@ -1207,5 +1209,6 @@ Wissal Samlali	3127,1
 Wissal Samtali	3126
 World Bank Financial Support Sampling Sampling	15844
 X Papua New Guinea X Samoa	11005
+XML SAML	18774
 Youth Youth Entrepreneurship SAMA Launches Digital	5322
 Zone Categories Nationally Representative Sample	7869

@@ -220,7 +220,7 @@ Enfant. CEDEF	18100
 Enfant. Ce	15686
 Enfant. MSP	18100
 Enfant. Sur	15965
-Enfants	3396,5412,372,157,46,1443,21,2453,1188,1,1,132,853,245,4,241,513,262,1072,31,2,232,94,94,26,21
+Enfants	3396,5412,372,157,46,1443,21,2453,1188,1,1,132,853,245,4,241,513,262,1072,31,2,232,94,94,26,21,445
 Enfants LIRE Learning Improvment for Results	18171
 Enfants Mise	14489
 Enfants PGES DATA CENTER SECONDAIRE FAMINTINANA	14488
@@ -231,22 +231,28 @@ Enfants Toutes	13300
 Enfants VFE Violences Faites	15746
 Enfants VIH Virus	15746
 Enfants Vulnérables ONG Organisme Non	15746
+Enfatiza	18779
 Enfatiza-se	11569
 Enfatizar	4146
 Enfatizou	8630,3467,4985,65
-Enfermagem	11387,4
+Enfermagem	11387,4,7377,63
+Enfermagem. Esperança de Vida	18768
 Enfermedad	16962
 Enfermedades	16962,7
 Enfermedades Crónicas	4209
-Enfermeiros	11453
+Enfermeiras	18783
+Enfermeiro	18768
+Enfermeiros	11453,7304,11
+Enfermeiros Médio	18768
 Enfermería EDA Enfermedades Diarreicas Agudas Est	16969
+Enfermidade Diarreica Aguda	18757
 Enfermos	4209
 Enfermos Hospitalizados	4209
 Enfermos Sección	4209
 Enfin	643,104,1,250,7,182,781,16,296,62,65,5,144,67,72,5,32,6,30,83,24,76,10,5,115,110,160,5,221,39,278,47,124,260,77,57,198,37,4,176,155,25,411,47,4,141,28,60,160,177,2,79,219,83,14,18,3,105,77,135,10,132,138,199,23,29,7,265,20,9,6,60,82,128,2,49,1,17,72,33,78,50,1,41,47,188,268,44,37,38,8,54,49,10,119,43,3,4,329,127,78,490,25,57,102,15,80,31,31,114,51,1,109,5,49,1,89,10,49,27,12,76,12,441,102,132,118,159,416,781,25,50,15,52,26,14,1,91,67,251,339,84,108,2,25,31,58,9,1,32,17,21,3,74,637,57,84,19,2,1,4,12,27,3,33,5,11,1,7,53,18,3,12,14,12,1,3,7,2,59,115,9,1,28,37,28,11,14,11,26,36,76,20,15,40,31,25,22,14,7,32,13,35,17,5,34,60,18,57,8,5,1,39,29,12,287,447,13,58,4,36,190,56,18,19,6,8,8,2,5,11,12,1,6,15,2,1,26,10,28,10,6,2,14,36,36,16,2,13,16,9,61,12,8,25,16,2,23,1,19,14,62,3,5,6,2,1,6,3
 Enfin-	17864
 Enflure	15712
-Enfoque	16875
+Enfoque	16875,1906
 Enfor1c1e.10meEnntfaonrdceCmoemnptlaianndcCeompliance	10157
 Enforc	9123
 Enforce	1988,471,318,2756,132,767,504,1881,1904,44,10,54,327,784,46,215,13,26,13,106,94,464,47,350,1308,52,77,67,129,87,127,684,132,235,362,277,15,6,79,60,26,120,139,1233,2,46
@@ -479,6 +485,7 @@ Nigeria's Strategy Is Broad. Its Enforcement	8088
 Nigeria. IN-9 Implement Open Implementation and Enforcement	11857
 Nigerian Communications Commission Enforcement	16799
 Nominations. Enfin	2738,588
+Nº Médico Enfermeiro Médicos	18757
 NÉGLIGE LES ENFANTS	13300
 OBJECTIVES STRATEGIES ACTIVITIES Enforce	12453
 ODPC Enforcement Actions	12189
@@ -537,7 +544,7 @@ REGULATORY OVERSIGHT AND ENFORCEMENT Standard Digital	9855
 REUNION DE RESTITUTION Enfin	13468
 RSA. Enforce	11986
 Reciprocal Enforcement	17745
-Recognition and Enforcement of Foreign Arbitral Awards	14008,2964
+Recognition and Enforcement of Foreign Arbitral Awards	14008,2964,1825
 Recoverable Enforcement Costs The Authority	17249
 Referral for Enforcement Action	17243
 Regulatory Enforcement	4528
@@ -589,6 +596,7 @@ Uneven Enforcement of Data Protection Laws Puts	5603
 Uneven Enforcement of Data Protection Laws Ugandas	5603
 Unis. Enfin	16621
 VACCINATION DES ENFANTS	13300
+WIPO Performances and Phonograms Treaty. Enforcement	18797
 Weak Enforcement and Institutional Capacity	11400
 X Enfin	16195
 Year of Enforcement	10629

@@ -142,6 +142,7 @@ SG MSHP PROCHAINE	16722
 SG Mene. ENA	8671
 SG Ministry of Education	11916
 SG Paris	10718
+SG Pessoal	18768
 SG Strategic Objective Key Activity Area	17116
 SG des Ministères	17845
 SG du MAERSA MAERSA	18306
@@ -290,7 +291,7 @@ Tunisia SGMT	6938
 U SOC GUI DES PETROLES SGP	16623
 UN SGDs	2319
 Vice-Chair of SG1	16046
-Visabeira Global SGPS	7381
+Visabeira Global SGPS	7381,11416
 W SGS MINERAL SERVICE GUINEE-SARL SGS	16623
 W Software SGE Secrétariat Général	13341
 Yacouba MALLE SGT	17841

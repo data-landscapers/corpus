@@ -37,6 +37,7 @@ CECILIA WAKIINI WARUI Data Processor INST-377031BDC4B	7167
 CREWS Climate Risk Early Warning Systems	17962
 CSA'S STRONG WARNING TO ALL INSTITUTIONS	9728
 Camila Giraldo. O Wardip	17412
+Captain of Sea and War	18797
 Cell Broadcast Early Warning System	14194
 Cell Broadcast Enabled Early Warning Systems	15120
 Cell Broadcast-Enabled Early Warning Systems	15120
@@ -88,6 +89,7 @@ Data Warehouse	1789,1,1,1,1,684,514,215,3881,3888,3035,1401,2482
 Data Warehouse and Business Intelligence System	33
 Data Warehouse. Regarding	17893
 Data Warehouses	766
+Data Warehousing	18801
 Deed Number Stand Fund Ware-	4896
 Department of War	5287
 Development Committee WDC Ward Development Committee	16926
@@ -111,7 +113,7 @@ EU European Union EWS Early Warning	17849
 EU-funded Strengthening Early Warning	18392
 EW4All Weather Warnings for All Franc CFA	11553
 Early Action Warning System SNIS National	18198
-Early Warning	12003,974,118,26,1802,1036,412,576,4,206,1549
+Early Warning	12003,974,118,26,1802,1036,412,576,4,206,1549,81
 Early Warning A. Disaster Risk Knowledge	12977
 Early Warning Signal Against	5550
 Early Warning System	11134,2505,615,2693,23,187,1152
@@ -264,6 +266,7 @@ Mr. Mohammed Warsama	13899
 Mrs. Bekearedebo Augusta Warrens	17571
 Mrs. Bekearedebo Warrens	13281
 Mtandire Ward	12978
+Multi Hazard Early Warning Systems	18787
 Multi-Hazard Early Warning	12977
 Multi-Hazard Early Warning System	12977,1471,1689
 Multi-Hazard Early Warning Systems	11191,1498
@@ -277,7 +280,7 @@ NamRA Tug of War	13044
 NamRA’S TUG OF WAR CHAMPIONS	13044
 NamRA’s Tug of War	13044
 National Data Warehouse	4260,7883
-National Early Warning System	17969
+National Early Warning System	17969,818
 National Government Data Warehouse	14752
 National Health Data Warehouse	4922
 National Health Data Warehouse I	4260
@@ -435,7 +438,7 @@ WAAJIBAADKA WARBIXIN EE DHINACA KU TIIRSAN	14930
 WAPP West Africa Power Pool WARDIP	17105
 WAR Surgery	15206
 WAR Surgery Damage	15206
-WARCIP	221,86,957,1549,648,8070,1800,2093,87,39,42,29,1005,246,951,39,34,560
+WARCIP	221,86,957,1549,648,8070,1800,2093,87,39,42,29,1005,246,951,39,34,560,298
 WARCIP ACE	15424
 WARCIP APL	15424
 WARCIP APL2	17862
@@ -449,6 +452,7 @@ WARCIP Project	15424
 WARCIP SOP3	1264
 WARCIP WBG TABLE OF CONTENTS DATA	15424
 WARCIP West Africa Regional Communications Infrastructure	17862
+WARCIP West Africa Regional Connectivity Infrastructure	18754
 WARCIP and RCIP	15424
 WARCIP-era	4436
 WARD COMMITTEES	18467
@@ -641,7 +645,7 @@ Warmquelle	12933
 Warmware	5513,38
 Warner	9739,872
 Warner J	5242
-Warning	3665,297,648,3404,1124,1984,298,783,1162,364,719,443,190,171,240,879,507,187,92,812,340,269
+Warning	3665,297,648,3404,1124,1984,298,783,1162,364,719,443,190,171,240,879,507,187,92,812,340,269,209
 Warning Africa Cannot Ignore	8497
 Warning Dissemination and Communication	16137,2551,15
 Warning Doesn't Arrive	17596
@@ -662,6 +666,7 @@ Warning System SCAP-RU Disaster Preparedness Committee	17962
 Warning System and Emergency Response SDR Special	18198
 Warning Systems	17962
 Warning The CSA	9842
+Warning and Advisory Services	18787
 Warning and Crisis Management	18198
 Warning and Emergency	14738
 Warning and Indicative	15081

@@ -55,6 +55,7 @@ CDC Covid Data Tracker	5700
 CFA Franc COVID-19 Coronavirus Disease CPF	15731
 CIAY Accredited Management Centre COVID-19 Yaounde	10980
 CMU Country Management Unit COVID-19 Coronavirus	13836
+CNE Comissão Nacional de Eleições COVID-19 Doença	18779
 COGEDES COVID CPF CRI ECD ECE	16436
 COM COVID-19 CONFIRMADONext	15486
 CONTENT SECURITY INFORMATION FRAUD NO COVERAGE	11004
@@ -80,17 +81,17 @@ COVERED ENTITIES	3861
 COVERED FINANCIAL SERVICE SUPPLIER	1243
 COVERT RISK ASSESSORS LTD Data Processor	7167
 COVI9-19Pesquisa Contem	966
-COVID	550,18,5,13,57,75,43,135,62,12,3,2,23,40,227,459,224,359,170,489,583,34,466,378,248,1711,2164,298,637,276,654,303,61,5,37,8,12,33,397,116,3,182,335,17,41,35,25,166,19,43,83,225,107,254,26,8,376,58,87,46,9,406,39,511,1,247,6,19,58,69,8,1,577,4,15,3,4,18,1,82,36,36,12,352,158,71,170,192,268,6,24,23,2,60,492,124,245,4,17,16,209,179,4,147,35
+COVID	550,18,5,13,57,75,43,135,62,12,3,2,23,40,227,459,224,359,170,489,583,34,466,378,248,1711,2164,298,637,276,654,303,61,5,37,8,12,33,397,116,3,182,335,17,41,35,25,166,19,43,83,225,107,254,26,8,376,58,87,46,9,406,39,511,1,247,6,19,58,69,8,1,577,4,15,3,4,18,1,82,36,36,12,352,158,71,170,192,268,6,24,23,2,60,492,124,245,4,17,16,209,179,4,147,35,312
 COVID ADAMA KOUYATE Locale	17882
 COVID Certificate	11869
 COVID Data Tracker	5700
 COVID Impacted	16902
 COVID Relief	687
-COVID-	10718,245,1,896,393,1079,2161,111,120,288,1104,729,25,146
+COVID-	10718,245,1,896,393,1079,2161,111,120,288,1104,729,25,146,752
 COVID- Former	17872
 COVID- No Jul	17958
 COVID-10	11924
-COVID-19	443,17,5,2,3,30,47,10,3,2,8,3,5,11,42,12,75,29,14,9,19,58,52,41,29,1,5,2,28,13,16,127,51,7,24,5,16,81,356,3,20,90,14,4,35,87,34,105,3,21,174,51,71,105,17,87,45,11,97,173,635,21,68,377,43,334,1,3,402,188,226,287,167,211,339,136,72,374,114,332,280,35,62,95,1,8,86,41,455,174,59,62,447,21,25,175,140,294,221,10,234,508,1,2,4,8,37,5,9,2,5,35,2,1,1,6,2,10,3,2,6,13,1,9,6,32,6,42,2,1,1,12,3,5,19,131,20,37,3,1,40,12,42,29,60,1,7,13,1,16,52,74,2,1,3,11,3,9,72,216,3,3,1,6,6,18,5,3,2,5,4,2,5,1,16,4,16,5,21,4,13,22,150,1,15,19,4,6,26,7,44,31,5,6,22,6,28,3,5,97,40,1,42,11,37,32,6,34,18,5,61,133,2,9,8,3,6,8,12,9,1,12,94,230,10,7,1,14,13,29,2,1,4,23,2,32,25,29,26,42,43,115,61,75,2,27,41,53,1,23,131,282,6,38,16,1,1,63,69,44,70,6,2,4,2,2,23,57,64,1,67,1,47,11,115,204,105,24,3,4,2,11,2,3,4,11,2,1,1,3,1,5,19,7,3,10,8,20,10,3,17,8,29,1,2,2,10,12,4,31,2,2,1,118,1,2,90,23,6,3,22,22,1,243,10,9,90,33,2,36,155,35,2,3,3,7,24,211,1,14,5,2,4,20,4,1,2,13,7,2,7,2,3,3,5,20,5,4,11,6,28,54,15,126,17,3,63,1,43,49,42,169,108,108,1,1,3,14,5,2,1,2,1,10,21,21,9,24,4,154,5,2,39,36,22,73,4,3,1,147,6,1,1,4,4,14,1,4,46,8,26,1,56
+COVID-19	443,17,5,2,3,30,47,10,3,2,8,3,5,11,42,12,75,29,14,9,19,58,52,41,29,1,5,2,28,13,16,127,51,7,24,5,16,81,356,3,20,90,14,4,35,87,34,105,3,21,174,51,71,105,17,87,45,11,97,173,635,21,68,377,43,334,1,3,402,188,226,287,167,211,339,136,72,374,114,332,280,35,62,95,1,8,86,41,455,174,59,62,447,21,25,175,140,294,221,10,234,508,1,2,4,8,37,5,9,2,5,35,2,1,1,6,2,10,3,2,6,13,1,9,6,32,6,42,2,1,1,12,3,5,19,131,20,37,3,1,40,12,42,29,60,1,7,13,1,16,52,74,2,1,3,11,3,9,72,216,3,3,1,6,6,18,5,3,2,5,4,2,5,1,16,4,16,5,21,4,13,22,150,1,15,19,4,6,26,7,44,31,5,6,22,6,28,3,5,97,40,1,42,11,37,32,6,34,18,5,61,133,2,9,8,3,6,8,12,9,1,12,94,230,10,7,1,14,13,29,2,1,4,23,2,32,25,29,26,42,43,115,61,75,2,27,41,53,1,23,131,282,6,38,16,1,1,63,69,44,70,6,2,4,2,2,23,57,64,1,67,1,47,11,115,204,105,24,3,4,2,11,2,3,4,11,2,1,1,3,1,5,19,7,3,10,8,20,10,3,17,8,29,1,2,2,10,12,4,31,2,2,1,118,1,2,90,23,6,3,22,22,1,243,10,9,90,33,2,36,155,35,2,3,3,7,24,211,1,14,5,2,4,20,4,1,2,13,7,2,7,2,3,3,5,20,5,4,11,6,28,54,15,126,17,3,63,1,43,49,42,169,108,108,1,1,3,14,5,2,1,2,1,10,21,21,9,24,4,154,5,2,39,36,22,73,4,3,1,147,6,1,1,4,4,14,1,4,46,8,26,1,56,157,2,2,2,11,15,16
 COVID-19 Accelerated Grant	12175
 COVID-19 Africa Watch	560
 COVID-19 Bill. Public	14750
@@ -105,7 +106,7 @@ COVID-19 Containment and Impacts	13977
 COVID-19 Contingent Emergency Response Component CPF	13331
 COVID-19 Corona Virus Diseases	13359
 COVID-19 Coronavirus	11960
-COVID-19 Coronavirus Disease	10829,442,109,2040,2091,1411,1379
+COVID-19 Coronavirus Disease	10829,442,109,2040,2091,1411,1379,476,32
 COVID-19 Coronavirus Disease CPF Country Partnership	15491
 COVID-19 Country Program Response Note	11380
 COVID-19 Country Report	11224
@@ -164,6 +165,7 @@ COVID-19 Tracing Database	9969
 COVID-19 Urban Cash Intervention	10763,2215
 COVID-19 Vaccine Delivery Support	11401
 COVID-19 Vaccine Effectiveness Study	15725
+COVID-19 Vulnerable Family Program Extension	18809
 COVID-19 Works Projects	12253
 COVID-19 and Cash	15519
 COVID-19 and HIV	9969
@@ -221,7 +223,9 @@ COVID-19. Responding	11380
 COVID-19. Sci Afr	14666
 COVID-19. Selon le Rapport	16626
 COVID-19. Sexual and Reproductive Health	14742
+COVID-19. Situação	18781
 COVID-19. State of Digital Transformation	5700
+COVID-19. São Tomé	18783
 COVID-19. Table	718,10061
 COVID-19. The BCEAO	17870
 COVID-19. The Embassy	16275
@@ -237,7 +241,7 @@ COVID-induced	16996
 COVID-related	562,14916,1424
 COVID. Composante	16012
 COVID. Going	17503
-COVID19	970,242,36,5579,3992,1671,898,2105,97,11,1350,893,1,638
+COVID19	970,242,36,5579,3992,1671,898,2105,97,11,1350,893,1,638,285
 COVID19 SARS COV2 IRAS	966
 CRI COVID-19	17904
 CRVS Coverage and Performance Overview	13005
@@ -277,7 +281,7 @@ Context of COVID-19	15658
 Country Signing Certificate Authority COVID19 Coronavirus	13005
 County Key Districts Requiring Coverage Rivercess	17239
 Covariate	18301
-Covax	760
+Covax	760,18097
 Covcifip	5829
 Covenant	3583,8618,758,81,2564,1347
 Covenant Loan	15372
@@ -314,7 +318,7 @@ Coverage Geographic Coverage	13084,675,1861,226,2799,79
 Coverage Geographic Coverage National	15024,2141,1360,42,3
 Coverage Geographic Coverage National Coverage	15843,822,380,880
 Coverage Geographic Coverage National Coverage Producers	15844
-Coverage Geographic Coverage National Universe All	10862
+Coverage Geographic Coverage National Universe All	10862,7976
 Coverage Improving	17239
 Coverage Infrastructure IN6	11857
 Coverage Is Not the Same	9112
@@ -349,6 +353,7 @@ Coverage of Individuals Population	11857
 Coverage of PHC	17869
 Coverage of Parties	12389
 Coverage of Population Coverage	12373
+Coverage of SP	18809
 Coverage of Social Protection	12373
 Coverage. Data Update	8376
 Coveralls	1988
@@ -481,6 +486,7 @@ Entities Covered This Policy	11995
 Entreprise le COVID-19	14488,1,1
 Equatorial Guinea The COVID-19	16942
 Estimating the Global ID Coverage Gap	10714
+Execução Financeira COVID19	18768
 Expand Mobile Coverage	9924
 Expanded National ID Coverage	10521
 Expanding Coverage of African Languages	3745
@@ -505,6 +511,7 @@ Facility Management Coverage of RMNCH	17869
 Facing the COVID-19	15447
 Factoring for COVID-19-	13332
 Factoring for COVID-19-induced	13332
+Family Program for COVID-19 Response WACA West	18809
 Financial Covenants	11855
 Financial Inclusion of Forcibly Displaced COVID-19	12297
 Financial Literacy Thematic Areas Covered	7763
@@ -721,6 +728,7 @@ Mobile Network Coverage	6946,5449
 Mobile Network Population Coverage	13336,10
 Moderate LEGAL COVENANTS2 LEGAL COVENANTS	16922
 Moderate LEGAL COVENANTS2 RESULT FRAME TBL PD	16896
+Moderate Legal Covenants Effectiveness IBRD	18777
 Moderate. The COVID-19	16922
 Monitoring COVID-19 Impacts	13332
 Monitoring Coverage Monitor	11952
@@ -763,6 +771,7 @@ No. Legal Covenants	11965
 Non-Renewal of Expired Insurance Cover	14546
 Nutrition and Population GPs. During the COVID-19	11924
 Orange Sierra Leone Expands Coverage	18511
+Organization. Cover	18796
 Organized Crime and Violence. Cover	4127
 Ori-ta Covi	10718
 Overlapping Coverages Cybersecurity	6993
@@ -820,6 +829,8 @@ RURAL POPULATION COVERAGE	11211,51
 Rapid Land Cover Mapper	15129
 Real Sector Emergency COVID Facility	687
 Recover From COVID-19	12336
+Recuperação Covid19	18799
+Recuperação da COVID-19	18789
 Reforming for Universal Health Coverage	13166
 Regional COVID-19 Situation Report for West	17323,1
 Regional Coverage	2776
@@ -842,6 +853,7 @@ SECURTIY FRAUD NO COVERAGE SPEEDS USE	11964
 SENI-REDISSE IV- COVID-19 PIU The World	10829
 SOCIAL PROTECTION COVERAGE Despite	11998
 SPECIAL COVENANTS	15399
+STP COVID-19 Human and Economic Response	18851
 Safety and Security With the COVID-19	14736
 Satellite-Based Land Cover Mapping and Monitoring	12667
 Schedule No Legal Covenants No Conditions	2473
@@ -853,6 +865,7 @@ Scope and Coverage Table	18460
 Scope of Coverage The Business Information Register	13954
 Scope of Services Covered Under National Roaming	17212
 Screen Coverage Input	34
+Second COVID	18851
 Security Obligations Covered	3861
 Security Test Coverage Security	11952
 Senegal COVID-19 Response Project	18370
@@ -869,6 +882,7 @@ Services Climatologiques COVID Corona Virus CRA	17873
 Sierra Leone Agency for Universal Health Coverage	18532
 Social Media Coverage	7763
 Social Media Coverage Media	7763
+Social Protection COVID-19 Response and Recovery Project	18809
 Somalia Covers	14964
 Somalia Legal Covenants	14910
 South Africa. Covers	927
@@ -890,6 +904,7 @@ Survey LULC Land Use Land Cover	17157
 Sustainable Development Goals and Universal Health Coverage	16874
 System Information Coverage Area	736
 São Filipe Cova Figueira Mosteiros	16325
+São Tomé and Príncipe’s Social Protection COVID-19	18809
 T COVID-19	16901
 T COVID-19 GAMBIA National Team Capacity	16631
 TB EFFECTIVE TREATMENT COVERAGE	16892
@@ -901,6 +916,7 @@ TRANSFERS NOT COVERED	15600
 TRANSFERS NOT COVERED The Levy	15600
 Tags Publisher Contact Email Temporal Coverage	15714
 Temporal Scope and Lifecycle Coverage	7548
+Third COVID	18851
 Though the National Health Insurance Coverage	18162
 Time of COVID-19	10768,7102
 Timelines Coverage	14777
@@ -946,11 +962,14 @@ Universal Health Service Coverage Index	15725
 Universal Registration Coverage	16520
 University of Botswana Cover	12533
 Using the Land Cover Classification System	15129
+VFP COVID-19	18809
 Vaccination Coverage	14067
 Vaccination Coverage Rises	18582
 Vegetation Cover	17157
 Vegetative Cover Enhancement	17157
 Vodacom Bolster DRC Rural Network Coverage	2278
+Vulnerable Family COVID-19 Program	18809
+Vulnerable Family Program VFP COVID-19 Vulnerable	18809
 WB DDP COVID	463
 WBG COVID-19	11380
 WBG COVID-19 Crisis Approach Paper	15553

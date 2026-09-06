@@ -21,6 +21,8 @@ Attachments ESCOPs	1988
 Aulas de Escuelas Primarias	16864,56
 Aulas de Escuelas de Educación Infantil	16864
 Automação de Escritório	11371
+Avaliação Aferida de Larga Escala	18765
+Avaliação Escolar	18781
 Ação Social Escolar Assistência Técnica Base	10766
 BI. Esclareceu	6614
 Bank. ESCP	15659
@@ -31,6 +33,7 @@ Bruta de Admissão Taxa Bruta de Escolarização Taxa	10766
 CALENDÁRIO ESCOLAR	10766
 CARATERIZAÇÃO FÍSICA DA ESCOLA	10766
 CFO San José Obrero Escuela Taller	4209
+CO Escritório	18783
 COPAY ESCROW SOLUTIONS LIMITED Data Processor	7167
 Cabo Verde Escudo	15491
 Cabo Verde. B. Escopo de Trabalho Espera-se	11898
@@ -49,6 +52,7 @@ Centros Escolares	4209
 Centros Escolares de Religiosos	4209
 China Exim Bank. ESCOM National	14674
 Clase Económica. Escala	4209
+Clubes Escolares	18781
 Cobertura Escolar	4209
 Colonia Altos de Miramontes Escritório Regional Hastings	11563,6180
 Committee Escalation	12359
@@ -60,6 +64,7 @@ Complemento de Escala	4209
 Complexo Escolar	7240,3526
 Computer Security Incident Response Team ESCP	16144
 Conclusão Taxa Líquida de Escolarização Taxa de Transição	10766
+Conectividade Escolar	18796
 Continent Is Escaping Silicon Valley’s Long	226
 Controls and Safeguards Purpose of Escalation and Safeguards	14565
 Coordenação Escolar Comunal Centro de Formação Local	10766
@@ -174,6 +179,7 @@ ESCITALOPRAM	15930
 ESCO and EE	14947
 ESCO-IGES	15550
 ESCOLA CICLO DE ESTUDOS PROVAS	17103
+ESCOLAS DE CAUÉ	18814
 ESCOM	127,12126,807,168,1446
 ESCOM Electricity Supply Commission of Malawi EU	13005
 ESCOM Limited Main	12213
@@ -249,7 +255,7 @@ Escadron Djibrilla MAIGA DGGN. CIVILE	18032
 Escadron Mamadou MARIKO	18032
 Escadron Moussa SANOU	17812
 Escala	4209,12666,23
-Escalabilidade	11463,92
+Escalabilidade	11463,92,7219
 Escalar	2816
 Escalate	7777,5755,1138
 Escalate Escalate Call	16889
@@ -269,7 +275,14 @@ Escalier	14490
 Escalier Ouvrage	15555
 Escaliers	17812
 Escaliers Chaque	17812
-Escalão	10757,5568
+Escalão	10757,5568,2450
+Escalão Número de Pessoas	18775
+Escalão Pessoal	18775
+Escalão de NPS	18775
+Escalão de NPS Pessoas	18775
+Escalão de Número Médio NPS	18775
+Escalão de Volume de Negócio	18775
+Escalão de Volume de Negócio Remuneração Média Mensal	18775
 Escalões	15532
 Escanear	16905
 Escape	3112,8874
@@ -282,6 +295,8 @@ Escaso	16898
 Eschborn	8546,2610
 Escherichia	14142,1961
 Escherichia-coli	14736
+Esclarece-se	18753
+Esclarecer	18801
 Esclareceu	4294
 Esclarecido	17020
 Esclarecimento	3519,1943,1000
@@ -291,7 +306,8 @@ Esclarecimentos Qualquer	16138
 Esclareça	12169
 Esclavage	14774
 Esclaves	14774
-Escola	10750,5212,225,916
+Escola	10750,5212,225,916,1678
+Escola Básica	18843
 Escola Digital	2281
 Escola Endereço Telefone	16325
 Escola Formação de Professores Domingos Mendonça	11552
@@ -306,29 +322,38 @@ Escola Nacional de Formação de Técnicos	10768
 Escola Nacional de Saúde Biombo Prábis Public	11552
 Escola Normal	11552
 Escola Normal Superior Tchico Té Bissau	11552
-Escola Primária	11631,517
+Escola Portuguesa de São Tomé	18843
+Escola Primária	11631,517,6609
 Escola Primária Atanazio Andrade	15380
 Escola Primária Nossa Senhora D'Africa	10752
+Escola Pré-Universitária	18757
+Escola Secundária	18757
 Escola Secundária Abílio Duarte	15448
 Escola Secundária Eugénio Tavares	5329,10870
 Escola Secundária Jorge Barbosa	15448
+Escola Secundária Maria Augusta	18843
+Escola Secundária Professora Mariana Ruth Leal	18843
 Escola Secundária de Mangulamelo	12148
+Escola Superior	18757
 Escola Superior de Desenvolvimento Rural	2816
 Escola Superior de Educação Artes Performativas	17103
 Escola Superior de Informática Bissau Zona-V Private	11552
 Escola Superior de Jornalismo	9099
 Escola Superior de Tecnologia	17103
+Escola Técnica Profissional	18757
 Escola de Administração	10768
 Escola de Formação	16487
 Escola de Formação Amílcar Cabral	11552
 Escola de Formação Serifo Fall Camara	11552
 Escola de Formação Superior	11552
+Escola de Formação de Professores	18765
 Escola de Formação de Professores Ensino Geral Avaliação	10766
 Escola de Hotelaria	15526
 Escola de Negócio	15910
 Escola de Negócios	16487
 Escola de Saúde Pública	12846
 Escolar	16187
+Escolar SIGA Sistema Integrado de Gestão de Assentos	18779
 Escolar de Bata	4209
 Escolar de Ebibeyín	4209
 Escolar de Evinayong	4209
@@ -359,20 +384,20 @@ Escrita Na	16122
 Escrito	11514,5528
 Escritor	11479
 Escritos	12018
-Escritura	11901
+Escritura	11901,6934
 Escritura Pública	16859
 Escritura Pública de Constituição	11383
 Escrituras de Constitución	16859
 Escrituras de Constitución de Sucursal Mercantil	16859
 Escrituração	17100
-Escritório	10750,812,4404
+Escritório	10750,812,4404,2816,32
 Escritório Conjunto	11108
 Escritório Coordenadora da Comissão de Protecção	10750
-Escritório Regional	11459,5025
+Escritório Regional	11459,5025,2379
 Escritório Regional SAUS Quadra	10764,80,7279
-Escritório Regional da OMS	11376
+Escritório Regional da OMS	11376,7407
 Escritório da Coordenadora Residente	11562
-Escritório da OMS	15966
+Escritório da OMS	15966,2817
 Escritório da Organização Mundial da Saúde	15966
 Escritório de Campo	11460
 Escritórios	15991
@@ -438,6 +463,7 @@ Evolución de Repitientes de Escuelas Primarias	16920
 Extranjeros de Escuelas de Educación Primaria	16920
 Extranjeros de Escuelas de Educación Secundaria	16920
 Financing. Sections and Description Per ESCP	10829
+Framework ESCP Environmental and Social Commitment Plan	18777
 GESTION ESCAE ECOLE SUPÉRIEURE DE COMMERCE	18143,27
 Gambia ESCP	1264
 Geopolitical Risks Geopolitical Risks Escalating	17364
@@ -461,6 +487,7 @@ Inteligência Artificial da Escola de Comunicação	3334
 Intermitente Preventivo Taxa Líquida de Frequência Escolar	10777
 Jefe Servicio Zona Escolar	4209
 Jefe de Zona Escolar Jefe Informático Grupo	4209
+Larga Escala	18781
 Legal Notices Subscribe Home News ESCCOM	4058
 Levantamento Escolar	9441,3347
 Lifts. Escalators	13385
@@ -481,13 +508,15 @@ Modelos de Linguagem de Pequena Escala	2816
 Moderada Escolaridad	1701
 Mozambique ESCOM and MNOs	14674
 NOTARIADO CAMPANHA DE REGISTO NAS ESCOLAS	10750
+NPS Escalão de Pessoal	18775
 Ndramé Escale	18390
 Nota de Esclarecimento	7527
 Nota de Esclarecimento Público	5462
 Nota de Esclarecimento. Através	7527
 NÍVEL DE ESCOLARIDADE E ALFABETIZAÇÃO Alfabetização	10777
-Nível de Escolaridade	10777
+Nível de Escolaridade	10777,7998
 Nível de Escolaridade Nível	10777
+O Escritório da OMS	18783
 Oral Taxa Bruta de Frequência Escolar Taxa	10777
 PARTICIPANTES INSTITUCION Cargo Escolástica NSA AKIEME	16875
 PONDERAÇÃO E PRÉ-REQUISITOS ESCOLA CICLO	17103
@@ -504,6 +533,7 @@ Per ESCP	11560,4101
 Pertussis E&S Environmental and Social ESCP Environmental	10829
 Peças Escritas	15388
 Policy Analysis Report. ESCCOM	12395
+Por Escalões	18775
 Potencial da Escola Nacional	11569
 Prensa Escrita	4209
 Procedures ESCON Environmental and Social Compliance Note	11863
@@ -513,10 +543,12 @@ Project Steering Committee Escalation	12359
 Project. AU ESCP	1264
 Project. ESCP	3604
 Project’s Effective Date. Guinea ESCP	1264
+Proposta. Esclarece-se	18753
 Provas Ponderação Escola Superior Agrária Biotecnologia	17103
 Proyecto Nacional de Transporte Escolar	4209
 Proyecto de Alimentación Escolar	4209
 Proyecto de Rendimiento de Centros Escolares	4209
+Pré Escolar	18762
 REG. ESCUELA CONT. MILITAR MILITAR CONT	4209
 REGULAÇÃO DOS RECURSOS ESCASSOS E DOMÍNIOS	11397
 RESUMEN DE LAS ESCUELAS DE EDUCACIÓN	16920
@@ -534,15 +566,18 @@ Reporting and Escalation Matrix	6432
 Reporting and Escalation Pathways	3861
 SAA ESCP	1264
 SC CRW E&S EDGE ESCR FE	1228
+SECÇÃO Escalão Pessoal	18775
 SERTRALINE ESCITALOPRAM ESCITALOPRAM	15930
 SOUS OBJECTIFS RESULTATS ESCOMPTES INDICATEUR LIGNE	15500
+STP Destaque Escrito	18771
 Safeguards Escalation	14565
 Sections and Description ESCP	10964,4589,68
 Sections and Description Per ESCP	10829
 Secundário Taxas Líquidas de Frequência Escolar	10777
 Sierra Leone. Escotel	705
 Sigla AFRO Escritório Regional da OMS	15966
-Sistema Integrado de Gestão Escolar	15448,820,4
+Sistema Integrado de Gestão Escolar	15448,820,4,2509
+Sistema de Gestão Escolar	18765
 Sistemas de Informação ECV Escudo Cabo-verdiano ENDE	15535
 Solicitação de Títulos Escolares	11419
 Strengthen Contingency and Escalation Mechanisms INEC	10049
@@ -555,6 +590,7 @@ Tamanho Escalão	10757
 Taxa Líquida de Frequência Escolar	10777
 Taxas Brutas de Frequência Escolar	10777
 Texto SIEGE Sistema de Información Escolar de Guinea	16920
+Téla Nón O Escritório	18865
 Títulos Escolares	11419
 UN ESCWA	4819
 UN EScAP	10840
@@ -562,3 +598,4 @@ UN EScWA	10840
 UN’s ESCWA Economic	3841
 University of Oxford. ESCWA	15244
 University of Pretoria and ESCCOM	13227
+Volume de Negócios Escalão	18775

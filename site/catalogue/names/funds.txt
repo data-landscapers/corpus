@@ -108,7 +108,7 @@ Funds Insurance Companies Fund of Funds Sovereign	4972
 Funds LBR Liberia Business Registry LITAS	17011
 Funds Managed	11469
 Funds Management	718
-Funds Net Commitment Disbursed Undisbursed	2473,15886
+Funds Net Commitment Disbursed Undisbursed	2473,15886,450
 Funds Raised Global	4972
 Funds Transfer Debit	9752
 Funds Transfer Services	12000
@@ -213,8 +213,9 @@ Social Development Funds	16963
 Social Funds	11857
 Sources and Uses of Funds	15372
 Sources of Funds	16032,855
-Sovereign Wealth Funds	4972,12000,24
+Sovereign Wealth Funds	4972,12000,24,1801
 Sovereign Wealth Funds Eritrea	14008
+Sovereign Wealth Funds São Tomé and Príncipe	18797
 Special Funds	14830
 Special Funds Accounts Committee	10313
 Special Funds NRF	14830

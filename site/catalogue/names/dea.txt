@@ -167,6 +167,7 @@ Crude Death Rate	12151,232,30,259,2384
 Crude Death Rates	12639
 Current Representative Mr Dean Veverka	3513
 D. Deadline	13039
+DA Designated Account DEA Digital Economy	18777
 DEADAN GROUP LIMITED Data Controller INST-15537353009	7167
 DEADAN GROUP LIMITED Data Processor INST-15537353009	7167
 DEADLINE	13185
@@ -213,8 +214,8 @@ Dead Capital	2592
 Dead SIMs Died	3798
 Dead-end	9123
 DeadLock	9815
-Deadline	7253,1232,61,453,893,1,723,206,505,190,872,328,831,2,1368,75,190,1386,288,334
-Deadline Date	13575
+Deadline	7253,1232,61,453,893,1,723,206,505,190,872,328,831,2,1368,75,190,1386,288,334,1673
+Deadline Date	13575,5289
 Deadline Responsible	15659
 Deadline Responsible Body Key Outputs	3861
 Deadline for Bid Submission	13621
@@ -318,7 +319,7 @@ Dear Sirs Space Exploration Technologies Corp	6891
 Dear User	17028
 Dearth of Digital Skills for Business Digital	16876
 Death	418,1410,1144,2169,392,356,2714,796,1413,364,5,759,46,152,13,66,24,86,10,1,29,35,3,5,3,58,159,9,305,15,46,75,15,58,91,63,118,183,36,34,367,669,1,341,153,344,1307,578,530,490,1,15
-Death Certificate	12217,74,348,4221
+Death Certificate	12217,74,348,4221,1950
 Death Certificate Form	14045
 Death Certificate Issuing Authority	14045
 Death Certificate No	14713
@@ -625,6 +626,7 @@ Registration and Certification of Death	16860
 Registration of Births and Death Act	12151
 Registration of Births and Deaths	5533,6444,9
 Registration of Births and Deaths Act	10822,1826,2980
+Registration of Death	18810
 Registration of Deaths	12151,793
 Renewal of Radio Dealer Certificate	736
 Republic. CHAPTER III REGISTRATION OF DEATHS	11176

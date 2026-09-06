@@ -73,11 +73,13 @@ COBIT3	1009
 COBIT5	15023
 COBJ Abdoulaye KONATE	13885
 COBRA SECURITY COMPANY LIMITED Data Controller	7167
+COBRANÇA DO IVA Published	18845
 COBUIN SOLUTIONS LIMITED Data Controller INST-9706484FA5B	7167
 COBUS VISSER Partner Bowmans Windhoek	12232
 COBZZWHA	12252
 COBÂC	15443
 COLMATAR AS LACUNAS DE COBERTURA	17093
+CUS Cobertura	18783
 Central CNE Consejo Nacional de Estadística COBAC	16898
 Che Cob	7759
 Che Cob and Ali	7759
@@ -89,23 +91,27 @@ Cobbe	8283
 Cobbe and Singh2018	8436
 Cobbe and Singh2020	8436
 Cobben	12926
-Cobertura	4436,6324,17,644,25,101,9,21,4107,10,272,909,23,76,119
+Cobertura	4436,6324,17,644,25,101,9,21,4107,10,272,909,23,76,119,1675,11,4,17
+Cobertura A Proposta	18798
 Cobertura Cobertura	11898
 Cobertura Escolar	4209
 Cobertura Existente	17093
+Cobertura Geográfica	18768
 Cobertura Não Significa	9559
 Cobertura Sanitaria Universal CT&I	1701
+Cobertura Universal da Saúde	18768
 Cobertura Universal de Saúde	11543,44,4379
 Cobertura Universal de Saúde. Pilar	15966
 Cobertura de Antigénios Básicos	10777
 Cobertura de Internet	2132,2323,647
 Cobertura de Registro de Propriedade	11898
-Coberturas	15966
+Cobertura de Serviços de Saúde	18768
+Coberturas	15966,2786
 CobiT COBIT	15512
 Cobom Sequeira	15380
 Cobos Muñoz. D.. C. Abouzahr and D	12413
 Cobranet Ltd	3862
-Cobrança	11419,16,466,3479,146,429,67,34
+Cobrança	11419,16,466,3479,146,429,67,34,2742,55
 Cobrança CSPFT	11435
 Cobrança Coerciva	2866
 Cobrança O DUC	15380
@@ -117,8 +123,10 @@ Cobweb Communication Ltd	3862
 Commission COBAC Central African Banking Commission	10841
 Conscil National du Crédit La COBAC	15443
 Conseil POUR LE NICKEL COBALT LATÉRITIQUE	2342
+Consulta de PF. Taxa de Cobertura	18768
 DE DIAN-DIAN COBAD	16623
 DEVOLUCIÓN DE INGRESOS COBRADOS	4209
+Da Cobrança Coerciva	18749
 Decision COBAC D-2022	16942
 Degradación Cobertura	16875
 E. Vergara Cobos	11310
@@ -159,6 +167,8 @@ O Inquérito de Cobertura	11416,5,25,131
 Orange GB. Cobertura	11556
 Percentagem da População Coberta	11418
 Planeamento de Cobertura	9559
+Procedimentos de Cobranças	18752
+Príncipe. Cobertura	18783
 REGULAMENTO DAS TAXAS A COBRAR PELA	744
 Rapport de COBAC	10965
 Rede de Cobrança	15380
@@ -173,5 +183,6 @@ Smile Communications and Cobranet	11506
 Sr. Don Abilio Sagunto Cobanche Director	16920
 TAXAS A COBRAR PELA AGÊNCIA	744
 Taxa de Cobertura Líquida	11416,5,25,131
+Taxa de Cobertura Terapêutica	18768
 Taxas de Cobertura	10777
 Tecnologias Percentagem da População Coberta	11418

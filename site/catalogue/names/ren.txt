@@ -71,6 +71,7 @@ Ariic David Reng	18623
 Asin. Renforcer	7392
 Asoyon Renal and Outpatient Clinic Data Controller	7167
 Atelier de Renforcement	18192
+Ativo Líquido Rentabilidade	18793
 Attribution Renouvellement Kouilou	16249
 Avg Cost of Rent	11863
 Avis de Demande de Renseignements	16395,2000
@@ -266,7 +267,7 @@ Develop Renewable Energy and Digital Infrastructure Projects	6529
 Dewaldt van Rensburg	12478
 Dieu Bizimana Ruilin Ren Yodit Bekele	13300
 Dimitri Renaud OBIBALAGHA	16099,76
-Distributed Renewable Energy	12399,1411,1349,1029
+Distributed Renewable Energy	12399,1411,1349,1029,2607
 Distributor NP NamPower NREP National Renewable	12399
 DoE IPP Office Renewable	11953
 D’ENERGIE RENOUVELABLE ET LEUR MODE	13809
@@ -288,6 +289,7 @@ Egyptian Renewable	15473
 Egyptian Renewable Energy Authority	15473
 El Renacimiento Cultural	16898
 El Renacimiento Cultural Africano	16898
+Electricity Access Clean Cooking Installed Renewable	18795
 Electricity and Renewable Energy	718,8696
 Electricity and Renewable Energy Sector	12256
 Electricity and Renewable Energy The Regulatory Board	718
@@ -627,6 +629,7 @@ MINISTERE RENFORCEMENT	15999
 MOMBASA Kenya Renewed	7167
 MOT Online Vehicle Renewal Service	17142
 MW of Renewable Energy and Next-Generation AI Compute	3049
+MW. PILLAR II ADOPT DISTRIBUTED RENEWABLE	18795
 MYHYDRO RENEWABLES SARLU	15670
 Madagascar. Renforcer	14662
 Madeleine Orlane RENGUILA IKANA	16231
@@ -709,6 +712,7 @@ Number of Post Boxes Rented	12395
 Numérique Renforcement	18346
 Numérique Renforcer	18319
 O RENT	10778
+O Rendimento Nacional Bruto	18768
 O6 DIRECTION TECHNIQUE PROGRAMME DE RENFORCEMENT	15670
 OBJECTIFS Renforcement	10712
 OBSERVATIONS Rendement	16328
@@ -949,6 +953,7 @@ REREC Rural Electrification and Renewable Energy Corporation	2775
 RESSOURCES HUMAINES Renforcer	17882
 RESULTATS ATTENDUS Renforcement	10712
 RIS Rend RIN Rend RIS&RIN	10975
+RNB Rendimento	18783
 RREA Rural and Renewable Energy Agency TEC	16978
 RSS Renforcement	17843
 Rapports Rendement du PSE	18286
@@ -1016,7 +1021,7 @@ Renders	1596,1756,639
 Rendez-Vous SGG	17824
 Rendez-vous	11972,1776,4058,65,517
 Rendez-vous du Gouvernement	16378
-Rendimento	10786,597,52,583,784,2594,566,60,116
+Rendimento	10786,597,52,583,784,2594,566,60,116,2619,7,17,17,55
 Rendimento Bruto Mensal	12018
 Rendimento Familiar Mensal	10754
 Rendimento Familiar Per Capita	10754
@@ -1024,11 +1029,17 @@ Rendimento Nacional Per Capita	11430
 Rendimento Social	11855
 Rendimento Social de Inclusão	1265,683,13746,268
 Rendimento Social de Inclusão Program	11855
+Rendimento de Cama	18768
+Rendimento de Participação	18853
+Rendimento de Pessoas Colectivas	18764
 Rendimento de Pessoas Coletivas	16251
-Rendimento de Pessoas Singulares	15477
+Rendimento de Pessoas Singulares	15477,3321,55
 Rendimentos	1265,4202,5310,1241,4004
 Rendimentos Pessoas Coletivas	12018
 Rendimentos Prediais Desdobrável Mecenato Desdobrável Feira	12018
+Rendimentos de Participação	18798,55
+Rendimentos de Pescas	18798,55
+Rendimentos de Pessoas Colecti	18853
 Rendre	747,2657,4657,296,2460,2473,16,35,23,1124,1,1,1010,42,50,81,39,8,4,17,195,609,903,376,12,2,7,18,9,13,1,283,122,15
 Rendreaccessibles	15624
 Rene Kabarisa	2702
@@ -1284,7 +1295,7 @@ Renovation of Karasburg Sub-Regional Office	12984
 Renovation of Kondengui	10990
 Renovation of Market	14830
 Renovations	12421
-Renovação	11376,8,46,471,4094
+Renovação	11376,8,46,471,4094,2798
 Renovação da Autorização	794
 Renovação de Edifícios de IDA	17219
 Renovação de Vistos	11383
@@ -1320,6 +1331,7 @@ RentX	14897
 Renta	4209,12689,71
 Renta de Capital Inmobiliario	4209
 Renta de Capital Mobiliario	4209
+Rentabilidade	18793
 Rentabilité	17640,190,233
 Rentabilizar	1701
 Rentabilização	11396,1
@@ -1359,7 +1371,7 @@ René LAKISSI MAKOSSO	16175
 René MBOZA ORUMBONGANY	16175
 René Paul BOULINGUI	16175
 Renép2a0r2ti3tioent	4459
-Renúncia	15450,639
+Renúncia	15450,639,2711
 Report. Odile Renaud-Basso	1818
 Residential Units Urban Old Rent Rent	15473
 Resource Rent Valuation Method	16996

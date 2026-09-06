@@ -56,7 +56,7 @@ DDEPSA	15673
 DDG Sowa	18580
 DDI DDI-SEN-ANSD-RNU-2025-V1 Producteurs Date	18337
 DDI DZA 2024 FINDEX v02 M WB Producers	15846
-DDI Document	15024,819,1,2,819,380,120,201,559,600,42,3
+DDI Document	15024,819,1,2,819,380,120,201,559,600,42,3,268
 DDI Document ID	15846
 DDI Document ID DDI COG 2024 FINDEX v02 M WB Producers Name	15844
 DDI Document ID DDI GAB 2024 FINDEX v02 M WB Producers Date	15843
@@ -64,6 +64,7 @@ DDI Document ID DDI GIN 2024 FINDEX v02 M WB Producers Date	16665
 DDI Document ID DDI GMB 2024 FINDEX v02 M WB Producers Date	17045
 DDI Document ID DDI MRT 2024 FINDEX v01 M WB Producers Date	17925
 DDI Document ID DDI SDN 2025 WMS-R4 v01 M WB Producers Date	15024
+DDI Document ID DDI STP 2025 WBES v01 M WB Producers Date	18838
 DDI Document ID DDI-LBR-LISGIS-WEN-2024-v01 Producers	17165
 DDI Document ID DDI-SLE-StatsSL-AAS-2023-v03 Producers Date	18525
 DDI Document ID DDI-SLE-StatsSL-AAS-2024-v01 Producers Date	18567
@@ -204,6 +205,7 @@ Planificación DDDD	16898
 Prof. John Ddumba Ssentamu	3693
 Prof. John Ddumba-Ssentamu	6311
 Projet DDR	15965
+R Prevenção de DDoS Usar	18774
 R YYYY MM DD Isebenza	11573
 Recherche DD	10874
 Refugee Board's DDF-supported	16592

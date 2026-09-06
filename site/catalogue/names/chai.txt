@@ -187,7 +187,8 @@ Chainsaw	16843,5
 Chainsaw Milling Market	16853
 Chainsaw Regulation	16843
 Chainsaw Regulations	16843
-Chair	318,244,23,941,209,95,287,420,131,596,249,27,43,520,425,463,254,57,303,660,673,204,36,274,96,1000,97,337,85,440,138,409,259,376,442,3,49,32,57,5,201,429,88,364,153,468,62,307,38,49,25,65,12,53,150,526,166,31,200,78,11,88,188,26,658,39,1096,5,4,10,48,55,47,20,51,17,104,26,22,69,41,136,152,90,164,81,359,87,127,15,17,110
+Chair	318,244,23,941,209,95,287,420,131,596,249,27,43,520,425,463,254,57,303,660,673,204,36,274,96,1000,97,337,85,440,138,409,259,376,442,3,49,32,57,5,201,429,88,364,153,468,62,307,38,49,25,65,12,53,150,526,166,31,200,78,11,88,188,26,658,39,1096,5,4,10,48,55,47,20,51,17,104,26,22,69,41,136,152,90,164,81,359,87,127,15,17,110,118,39
+Chair African Development Fund	18862
 Chair Harry Mahoi	18549
 Chair Mosotho Moepya	10497
 Chair Mr Alex Shimuafeni	12706
@@ -462,7 +463,7 @@ Council the District Council Chairman	18467
 Court of Cassation and Chairman	11641
 Cross-Border Banking Supervision Chaired	6938
 Cybersecurity Supply Chain Risk Management	6936
-D. Results Chain	969,295,603,8901,61,135,416,180,295,1476,1,1578,27,554,24,3,35,68,37,1,2,1288,1155,189,8
+D. Results Chain	969,295,603,8901,61,135,416,180,295,1476,1,1578,27,554,24,3,35,68,37,1,2,1288,1155,189,8,476
 D. Results Chain E. Rationale for World	15518
 D. Results Chain Figure	13331
 D. Results Chain Note	10829
@@ -485,7 +486,7 @@ Deputy Chairperson	8866,2265,3,65,640,692,130,2202,207,32,2507,987
 Deputy District Council Chairman	18467
 Deputy District Council Chairman Meetings of Council	18467
 Deputy Governor and Vice Chairperson	15023
-Deputy Managing Director and Acting Chair	15752,1574,13
+Deputy Managing Director and Acting Chair	15752,1574,13,1484
 Deputy Managing Director and Chair	15029,2180,294,406,81
 Deputy Prime Minister and Chairman	12983,709
 Deputy Vice Chairperson Benny Namugwanya Bugembe	9386
@@ -928,7 +929,7 @@ Republic of Zimbabwe and Outgoing Chairperson	9761
 Republic of Zimbabwe and Outgoing Chairperson of SADC	12640
 Republic of Zimbabwe and Vice Chairperson	13440
 Result Chain E. Rationale for World Bank	18293
-Results Chain	11924,3500,87,90,62,68,705,516,897,13,100,331
+Results Chain	11924,3500,87,90,62,68,705,516,897,13,100,331,472,60
 Results Chain Component	15411
 Results Chain Note	18104
 Results Chain RESULTS CHAIN	15138

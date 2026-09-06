@@ -180,6 +180,7 @@ Child Development Unit CEDAW	14742
 Child Disability Grant	12373
 Child Discipline Percentage	18441
 Child Feeding	15206
+Child Functioning Funcionamento	18762
 Child Functioning Module	16909
 Child Grant Program	10768,2564
 Child Grants	12669
@@ -342,6 +343,7 @@ Childhood	12151,821,2632,1248,1310
 Childhood Care and Education EEDRR Education	13990
 Childhood Development	3604
 Childhood Development ECE Early Childhood Education	15604
+Childhood Development FM Financial Management GBV	18809
 Childhood Education ECF Extended Credit Facility	11560
 Childhood Education ECOWAS Economic Community of West	16935
 Childhood Mortality	12151
@@ -351,7 +353,7 @@ Childline Kenya	8050
 Childline Kenya Data Controller INST-176101095E1 NAIROBI	7167
 Childline Kenya Facebook	8050
 Childline Zimbabwe	9794
-Children	1,581,418,220,594,282,422,30,227,932,594,147,188,306,40,243,1118,177,272,154,221,381,502,525,75,214,379,543,8,547,64,299,125,25,110,107,144,70,115,17,143,88,110,97,50,72,161,13,24,13,14,51,74,1,45,5,5,19,3,26,9,56,122,50,223,68,4,1,13,85,33,2,111,79,133,5,45,211,178,89,43,8,32,14,22,675,4,141,9,11,15,292,15,15,3,85,186,86,57,2,590,347,197,55,8,14,9,4,9,6,19,1,28,2,6,13,4,68,13,13,45,13,12,150,7,475,98,368,133,71,2,34,120,30,16
+Children	1,581,418,220,594,282,422,30,227,932,594,147,188,306,40,243,1118,177,272,154,221,381,502,525,75,214,379,543,8,547,64,299,125,25,110,107,144,70,115,17,143,88,110,97,50,72,161,13,24,13,14,51,74,1,45,5,5,19,3,26,9,56,122,50,223,68,4,1,13,85,33,2,111,79,133,5,45,211,178,89,43,8,32,14,22,675,4,141,9,11,15,292,15,15,3,85,186,86,57,2,590,347,197,55,8,14,9,4,9,6,19,1,28,2,6,13,4,68,13,13,45,13,12,150,7,475,98,368,133,71,2,34,120,30,16,202
 Children AND Social Welfare	16951
 Children Act	8948,5487,58
 Children Age	12151
@@ -442,6 +444,7 @@ Children’s Court Act	14742
 Children’s Department	12977
 Children’s Emergency Fund Unstructured Supplementary Service	15553
 Children’s Fund UNU-WIDER United Nations University	10759,78,1503
+Children’s Fund UPE Universal Primary Education	18765
 Children’s Fund URP Regional Office	11525
 Children’s Fund USSD Unstructured Supplementary Service	17870
 Children’s Fund United States Agency for International	14622
@@ -893,6 +896,7 @@ Nations Children’s Fund WASH Water	11560,6289
 Nations Children’s Fund WB The World	13332
 Nations Children’s Fund WFP World Food	12923
 Nations International Children's Emergency Fund	15556
+Nations International Children's Emergency Fund UNFPA	18777
 Nations International Children’s Emergency Fund United	16973
 Nations International Children’s Fund UNOPS United	18478
 Nations UNICEF United Nations Children's Fund	15731
@@ -1134,11 +1138,12 @@ United Nations Children Fund	15604
 United Nations Children's Fund	2239,937,407,1517,4361,400,11,1068,23,609,333,10,9,127,10,77,30,72,97,390,727,121,106,386,75,835,197,168,389,729,1841
 United Nations Children's Fund UNSDCF United	12962
 United Nations Children's Fund UPi	16951
+United Nations Children's Fund USD	18770
 United Nations Children's Fund VDC Village	16952
 United Nations Children's Fund WASH	12175
 United Nations Children's Fund WCARO	10940
 United Nations Childrenʼs Fund	16876
-United Nations Children’s Fund	969,292,4541,4232,231,358,91,54,61,135,169,392,888,510,345,64,1290,434,191,271,83,57,1284,10,6,1578
+United Nations Children’s Fund	969,292,4541,4232,231,358,91,54,61,135,169,392,888,510,345,64,1290,434,191,271,83,57,1284,10,6,1578,229
 United Nations Children’s Fund Digital Education	13991
 United Nations Children’s Fund OMT	17101
 United Nations Children’s Fund USR Unified	10964
@@ -1147,7 +1152,7 @@ United Nations Children’s Fund WASH Water	15518
 United Nations Children’s Fund. Available	15411
 United Nations Inter-Agency Group for Child Mortality	12138,3466
 United Nations International Children's Emergency	18104
-United Nations International Children's Emergency Fund	12947,28,1467,3382,280
+United Nations International Children's Emergency Fund	12947,28,1467,3382,280,673
 United Nations International Children’s Emergency Fund	1824,8952,4777
 United Nations International Children’s Fund	1261
 VAC Violence Against Children VAT	2775

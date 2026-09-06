@@ -10,6 +10,7 @@ Administrativo Embajada A3 Agregado Militar A1	4209
 Administrativo Embajada A3 Intérprete Traductor Consulado	4209
 Administrativos da Embaixada de Espanha	11531
 African Union and Germany Embassy	7362
+Angola. The Embassy of India	18857
 Arms Embargo and Act	7845
 Arms Embargo and Travel Ban	7845,6964,19,3
 Arret Jatta The Chinese Embassy	17423
@@ -93,23 +94,29 @@ ESWATINI AND U.S. EMBASSY STRENGTHEN ECONOMIC	13213
 ETAPES PRETRAITEMENT ACTIVITES Emballage	14423
 Embaba	15473
 Embai	15380,12
-Embaixada	3093,3744,3915,779,3861,12,652,1304,1
+Embaixada	3093,3744,3915,779,3861,12,652,1304,1,1420
 Embaixada da Finlândia	10440
 Embaixada da França	414
 Embaixada da República Democrática de São Tomé	6837
+Embaixada da República Popular da China	18844,5
 Embaixada de Angola	2581,5364
 Embaixada de Cabo Verde	15380,24,652,320
 Embaixada de Portugal	16484
 Embaixada de São Tomé	2688
-Embaixadas	2688,8849,3843,96,96,450,5,29
+Embaixadas	2688,8849,3843,96,96,450,5,29,2694
 Embaixador	11528,3876,596,3,277
 Embaixador Itinerante	6970
 Embaixador Ronald Münch	12799
 Embaixador da Alemanha	12799
 Embaixador da República Popular da China	16280
 Embaixador da República de Angola	5319
+Embaixador de Portugal	18804,4
 Embaixador de Portugal. Inspirado	6018
+Embaixadora	18849
 Embaixadora Extraordinária	11393
+Embaixadora Maria de Fátima Jardim	18855
+Embaixadora Xu Yingzhen	18844
+Embaixadora Xu Yingzhen Presente	18844
 Embaixadora da Finlândia	10440
 Embaixadora da União Europeia	16141
 Embaixadoras	16305
@@ -142,7 +149,7 @@ Embajador Internacional	4209
 Embajador Servicio	4209
 Embakasi South	2666,76,1016,225,530,597,506,95,212,191,46,156,93,107,15,232,24,9,204,265
 Embalagem	17100
-Embalagens	17100
+Embalagens	17100,1698,55
 Embalagens-	17100
 Emballage	14423,3400
 Emballages	14488,1,1
@@ -160,7 +167,7 @@ Embassies and High Commissions	16921
 Embassies and International Organisations	13954
 Embassies of France and Ireland	13156
 Embassies of Qatar and Switzerland	18215
-Embassy	31,79,681,2166,1995,213,699,626,364,1032,881,34,61,114,253,955,408,610,432,30,344,184,86,223,476,146,128,107,59,23,69,282,358,327,572,8,37,38,268,77,799,56,318,309,147,481,430,204,158,170,93,50
+Embassy	31,79,681,2166,1995,213,699,626,364,1032,881,34,61,114,253,955,408,610,432,30,344,184,86,223,476,146,128,107,59,23,69,282,358,327,572,8,37,38,268,77,799,56,318,309,147,481,430,204,158,170,93,50,119
 Embassy Abuja	4301
 Embassy Asmara	14045
 Embassy Bamako	17883
@@ -173,14 +180,16 @@ Embassy The White House	8921
 Embassy VSAT USD	17250
 Embassy and Permanent Mission of The Gambia	16914
 Embassy of Belgium	13156
+Embassy of Brazil	18873
 Embassy of Canada	9043,232
 Embassy of Finland	1016,9576
 Embassy of France	13312,2
 Embassy of Germany	16730
-Embassy of India	10780,2964,47,2465,984,776
+Embassy of India	10780,2964,47,2465,984,776,794,47
 Embassy of India Algiers	16331
 Embassy of India Algiers INDIA-ALGERIA RELATIONS Diplomatic	16331
 Embassy of India Harare Press Release Embassy	13509
+Embassy of IndiaSao Tome	18810
 Embassy of Ireland	9861,8610
 Embassy of Italy	10592
 Embassy of Japan	7300,105,965,2406,6959
@@ -235,7 +244,7 @@ Emblem	15901
 Emblème	15901
 Embodied	5487
 Embolie Hémorragie	17843
-Embora	2816,518,559,10,1199,2633,758,2273,11,599,11,7,42,12,75,39,7,4778,673,73
+Embora	2816,518,559,10,1199,2633,758,2273,11,599,11,7,42,12,75,39,7,4778,673,73,1667,2,17,2,3,4,6,7
 Embosi Primary	12977
 Emboss	14741
 Emboîtant	1748
@@ -305,6 +314,7 @@ INST-9864382BC16 EMBU Kenya	7167
 Incorporate Embed	1777
 Increased Regional Integration Pillar III Embrace	16188
 Indian Embassy	4849,10270,1530,592
+Information and Contacts By U.S. Embassy	18879
 Institutional Embeddedness	7151
 Interactive Datawrapper Embed	6934
 Interprete Traductor Embajada A1	4209
@@ -340,17 +350,20 @@ Mercado Online. Embaló	2671
 Military Embassy	9123
 NCA EMBARKS ON MAJOR STEPS	18649
 NETO NA EMBAIXADA DE STP EM	6837
+NEWS RESOURCES OVERSEAS MISSIONS Chinese Embassies	18790
 Nairobi Embassy	10521
 Netherlands Embassy	9546
 Newsletter ZIMSTAT Embarks	12499
 Nigeria U.S. Embassy Abuja Federal Ministry	4302
 Norwegian Embassy	14905,1131
+Nota Explicativa Embora	18778
 Num EMBAJADAS Y CONSULADOS Materiales de Fax	4209
 OmniRetail Digital B2B Commerce and Embedded Finance	2232
 Online Embedded Generation	12969
 Organization of SIM Cards and Embedded SIM	14944
 PALOP. Embora	2816
 PILLAR III EMBRACE DRE FOR AFFORDABLE	18537
+Para Embaixadas	18798,55
 President Embaló	17023
 President Umaro Sissoco Embaló	11579
 President of Guinea-Bissau Umaro Sissoco Embaló	17023
@@ -360,6 +373,8 @@ Processor INST-1683148DE2C EMBU Kenya	7167
 Processor INST-2958721BF3D EMBU Kenya	7167
 Professionals Embedding	14566
 Promote Inclusive Data Use and Embed FAIR	17116
+Príncipe Embaixadora Xu Yingzhen Presente	18844
+Príncipe. Embora	18783
 RRA MINECOFIN X Embed	15130
 Recepcionista Consulado B3 Recepcionista Embajada A2	4209
 Recepcionista Embajada A1	4209
@@ -388,9 +403,13 @@ Secretaria Embajador A2	4209
 Secretaria Embajador A3	4209
 Secretaria Embajador A3 Administrativo Consulado B1	4209
 Secretario de Estado Embajador A1 Embajador A2	4209
+Section U.S. Embassy Luanda Contact Us	18797
 Security Engineer. Embed	11803
 Sessão Consular. O Embaixador de STP	2688
 Seychelles Embraces Digital Revolution	4056
+Sistema de Registo de Embarcações	18866
+Sistema de Registo de Embarcações São Tomé	18866
+Sistema de Registo de Embarcações de Pesca de São Tomé	18866
 Small Scale Embedded Generation	11228,1741
 Small Scale Embedded Generation The MTSAO	11228
 Small-Scale Embedded Generation	11228
@@ -399,6 +418,7 @@ Social and Institutional Embeddedness Across	7151
 Somali Embassy	10184,337,4370
 Sources and Methods Embargoed	11286
 Sr. Ramiro Bubacar Embaló	17147
+Sra. Embaixadora Xu Yingzhen. A Sra	18849
 States Embassy Monrovia	4202
 Sudanese Embassy	14905
 Swedish Embassy	3277,10619
@@ -414,8 +434,9 @@ Tripoli Embassy	10409
 Tunisia The US Embassy	10409
 Turkish Embassy	18580
 U. S. Embassy’s Acting-Deputy Chief of Missions	2769
+U.S. Citizens By U.S. Embassy	18842
 U.S. Embassies	9621,1384
-U.S. Embassy	3463,145,559,173,5,7,120,489,202,293,1473,187,61,167,86,371,563,54,383,61,759,525,31,1514,826,1528,962,1512,1690,32
+U.S. Embassy	3463,145,559,173,5,7,120,489,202,293,1473,187,61,167,86,371,563,54,383,61,759,525,31,1514,826,1528,962,1512,1690,32,601,37
 U.S. Embassy Abidjan	4472
 U.S. Embassy Chargé	4340,5,7
 U.S. Embassy Coopera9ao Maputo Maputo Mozambique	10713

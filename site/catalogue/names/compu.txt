@@ -70,6 +70,7 @@ Branch Exchange PC Personal Computer PDF	34
 Bsc. Computer Science Computer Science	17437
 Burkina Faso's Computer Incident Response Team	15550
 Business Case for Edge Computing	6773
+CAB Central African Backbone CAPI Computer-Assisted	18777
 CAPI Computer Assisted Personal Interview Figure	582
 CAPI Computer-Assisted Personal Interview CCT Census	16921
 CAWI Computer-assisted Web Interview CATI Computer-assisted	11192
@@ -194,6 +195,7 @@ Communication and Innovation Search Page Content Computer	14846
 Communications Authority of Kenya's National Kenya Computer	6803
 Community Health Post CMMS Computerized Maintenance	18478
 Competitive Marketplace for Compute	6445
+Component CERT Computer Emergency Response Team	18777
 Compu-	15901
 Compuesto de Actividades Económicas INEGE Instituto Nacional	16898
 Compulsion	7777,4273
@@ -335,7 +337,7 @@ Computer Emergency Readiness Team CIMS	16872
 Computer Emergency Readiness Team CIO	14879
 Computer Emergency Readiness and Response Team	7630,1488
 Computer Emergency Response	783
-Computer Emergency Response Team	587,2750,1273,240,394,1692,2534,1349,3031,340,240,449,576,63,125,1229,103,53,1607
+Computer Emergency Response Team	587,2750,1273,240,394,1692,2534,1349,3031,340,240,449,576,63,125,1229,103,53,1607,142,40
 Computer Emergency Response Team CHU	17824
 Computer Emergency Response Team CIO	16975
 Computer Emergency Response Team CMU CPF	17862
@@ -605,6 +607,7 @@ European High Performance Computing Joint Undertaking	8346
 Examination BoG Board of Governors CAPI Computer	18460
 Exchange of Computer Data	18285
 Existing Infrastructure Compute	11209
+Expectations for Computer Security Incident Response	18774
 Expected Compute and Storage Expansion	5793
 F. Computer Crime and Cyber Crime Act	12939
 FACULTY OF COMPUTER SCIENCE AND INFORMATION	18629
@@ -778,6 +781,7 @@ NCC's Computer Security Incident Response Team	5677
 NCC’s Computer Security Incident Response Team	5308
 NCTS New Computerized Transit System PACER	13042
 NDP ZmCIRT ACRONYMS Computer Applications Electronic	12453
+NIST Definition of Cloud Computing	18774
 NITDA's National Cloud Computing Policy	9877
 Namibia Computer Incident Response Team	12459
 Namibia Super Computer PARAM High Performance	9475
@@ -880,7 +884,7 @@ Química Computacional. Trabalhos	2741
 R Foundation for Statistical Computing	12003
 REview. Comput Inf Nurs	1219
 Recognized Cloud Computing Service Models and Deployment	16923
-Redes de Computadores	12019,5585
+Redes de Computadores	12019,5585,1170
 Region Computer Use Mobile Phone Use	18441
 Registry CAPI Computer-Assisted Personal Interviews CHPS	15628
 Regulamento da Computação	12808

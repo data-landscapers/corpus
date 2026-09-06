@@ -1104,6 +1104,7 @@ Ministre Secrétaire Général du Gouvernement	17895
 Ministre. Le Secrétaire Général	18105
 Ministro Secretario General	11743,5346,86,168
 Ministro Secretario Mesa Magistrado CSJ	4209
+Ministro Secretário Geral	18752
 Ministro Vocal de Mesa Secretario de Mesa	4209
 Ministro de Estado Ministro Vocal de Mesa Secretario	4209
 Ministry of Commerce Secretary-General Ali Abdou Daoud	17593
@@ -1239,11 +1240,13 @@ Nènè COULIBALY Secrétaire	17828
 N’DESSABEKA Membre Gilbert ITOUA Secrétaire	15615,632
 N’Togoma OUATTARA Secrétaire	17833
 O Gabinete de Secretariado	15503
+O Ministro Secretário Geral	18752,1
 O Principal Secretary	7549,7115
 O Secre-tário de Estado	11520
 O Secretariado Executivo	11527,34,1262
 O Secretariado Nacional	17100
 O Secretariado da Parceria Global	16268,4
+O Secretário	18752
 O Secretário Executivo	2866,8695,5532
 O Secretário Regional	17147
 O Secretário de Estado	11519,1
@@ -1684,6 +1687,7 @@ SMART AFRICA SECRETARIAT FOREWORD	10819
 SMEs. The Secretariat	6127
 SNDS II Secrétariat Technique	15580
 SNDS. Le Secrétariat Technique Permanent du Conseil	18169
+SOFF Secretariat Budget	18869
 SOMA's Secretary-General	14984
 SOUTIEN AU PROCESSUS ELECTORAL Secrétaire	18032
 SP CONASUR Permanent Secretariat	16384
@@ -1800,6 +1804,7 @@ Secretariado de Administração Duas	17103
 Secretariado-Geral	4435
 Secretarial Science	13990
 Secretarial Services	14745
+Secretariar	18773
 Secretarias	4209
 Secretarias Fiscalías de Salas	4209
 Secretarias Fiscalías de Salas Servicio	4209
@@ -1959,7 +1964,7 @@ Secretary Dr. Loretta N. Mkhonta	11134
 Secretary Executive Mansion P.O. Box	17391
 Secretary Federal Ministry of Education	11860
 Secretary GENDER DIVISION	13399
-Secretary General	25,2581,1034,985,1150,1171,847,91,66,1419,100,1307,43,54,94,226,307,364,1187,178,81,130,191,239,65,3,10,461,775,156,241,641,57,52,318,5,204,27,355,201,165,54,356,204,73,12,296,1
+Secretary General	25,2581,1034,985,1150,1171,847,91,66,1419,100,1307,43,54,94,226,307,364,1187,178,81,130,191,239,65,3,10,461,775,156,241,641,57,52,318,5,204,27,355,201,165,54,356,204,73,12,296,1,240
 Secretary General ARTICLE	14409
 Secretary General Aline Sylvie Minko-Mi-Etoua. Discussions	8541
 Secretary General Dr Sifundo Chief Moyo	4953
@@ -1979,6 +1984,7 @@ Secretary General of GRCS	17757
 Secretary General of Guinea’s Ministry of Posts	3089
 Secretary General of MFB	18293
 Secretary General of MINEPAT	15601
+Secretary General of Ministry of Education of Sao Tome	18857
 Secretary General of Ministry of National Education Mr	13791
 Secretary General of The Commonwealth of Nations	1353
 Secretary General the Partner State	14409
@@ -2054,7 +2060,7 @@ Secretary of Tax Tribunal	12629
 Secretary of USPF	10386
 Secretary's Desk First Edition	13503
 Secretary's Desk Q1-2026 A PDF	13503
-Secretary-General	1996,1164,677,150,43,1197,1038,223,124,427,20,53,116,228,66,361,40,123,171,280,538,118,102,403,818,225,139,188,872,836,667,413,58,437,357,507,13,53,561,483,673,338,27,1,229,62,141,790,117
+Secretary-General	1996,1164,677,150,43,1197,1038,223,124,427,20,53,116,228,66,361,40,123,171,280,538,118,102,403,818,225,139,188,872,836,667,413,58,437,357,507,13,53,561,483,673,338,27,1,229,62,141,790,117,206
 Secretary-General António Guterres	8143
 Secretary-General Dr. Borlli Michel	5917
 Secretary-General Dr. Borlli Michel Jonas	6707
@@ -2093,12 +2099,13 @@ Secrets Manager. Own	11804
 Secretária	3519,6621,5386
 Secretária Executiva Adjunta	11561
 Secretária Executiva Adjunta da CNE	11561
+Secretária Executiva da CPLP	18855
 Secretária Permanente	10140
 Secretária de Direitos Humanos	10750
 Secretária de Estado	1180,84,9486,2,4774
 Secretária de Estado Moçambique	10750
 Secretária-Geral	15404,128
-Secretário	10750,2,1,625,10,139,1256
+Secretário	10750,2,1,625,10,139,1256,5966,94
 Secretário Administrativo da Região de Bolama	17333
 Secretário Conselho	15526
 Secretário Execu	11561
@@ -2110,12 +2117,14 @@ Secretário Executivo da CNE	11561
 Secretário Executivo da WATRA	11531
 Secretário Executivo. Os	11561
 Secretário Geral	10753
+Secretário Nacional	18843
 Secretário Nacional de APU-PDGB	10114
 Secretário Permanente	12822
 Secretário Regional	17147
 Secretário Regional Administrativo de Bolama Queba Sanhá	17333
 Secretário da Comissão Sub-regional	16134,65
 Secretário da Força Aérea	2816
+Secretário da Mesa da Assembleia Nacional São Tomé	18778
 Secretário de Estado	4075,4234,541,1900,2,1,625,28,691,3429,1574
 Secretário de Estado Adjunto	11963,837
 Secretário de Estado da Acção Social	11378
@@ -2124,7 +2133,7 @@ Secretário de Estado da Administração Pública	15404
 Secretário de Estado da Comunicação Social	11378
 Secretário de Estado da Economia Digital	15899,235
 Secretário de Estado da Saúde	5020
-Secretário-Geral	11361,5705,271
+Secretário-Geral	11361,5705,271,1506
 Secretário-Geral António Guterres	2816
 Secretários	11555,3971
 Secretários Executivos Adjuntos	11561

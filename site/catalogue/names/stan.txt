@@ -36,6 +36,7 @@ Accounting Standards	7204,3589
 Accounting Standards Board	14546
 Accounting Standards IRR Internal Rate of Return	1264
 Accounting Standards and Financial Reporting System for Cabo	11955
+Accounting and Auditing Standards. Table	18825
 Accounting and Financial Reporting System Standards System	11955
 Accounts SGR Standard Gauge Railway SHA	2775
 Activités Standards	15423
@@ -50,6 +51,7 @@ Adopt Standard Operating Procedures. Create	1777
 Adopting the EMIS Norms and Standards	13310
 Adopting the Norms and Standards	13310
 Adoption and Application of Standards	12895
+Advanced Encryption Standard	18774
 Advanced Encryption Standard AHV Acropolis Hypervisor	13185
 Advanced Encryption Standard API Application Programming	11952
 Advertising Standards Authority of South Africa	5872
@@ -301,6 +303,7 @@ Current Security-by-design Standards	7548
 Current Standards and Standards	16900
 Curriculum Digitization Standards	2958
 Cybersecurity Standards	587,8538
+D-001 R6-sdn standard-roadmap 31082017.docx R Infraestrutura	18774
 D-I8-A5 Ensuring Data Quality and Standards	15713
 D. REAFFIRMED STANDARDS S	15027
 D. REVISED STANDARDS ENGINEERING AND URBAN	15027
@@ -847,7 +850,7 @@ International Standard Book Numbers	12597
 International Standard Classification of Activities	236
 International Standard Classification of Education	13310,1465
 International Standard Classification of Education MBBS	14775
-International Standard Classification of Occupations	14815,17
+International Standard Classification of Occupations	14815,17,3945
 International Standard Classification of Occupations Table	14815
 International Standard IS0	11179
 International Standard ISO	13068
@@ -1212,7 +1215,8 @@ OPERATIONAL AND CYBERSECURITY STANDARDS WITHIN NATIONAL	13206
 OVERVIEW OF OPEN BANKING STANDARDS	13092
 OWASP Application Security Verification Standard	5665,9496
 OWASP Security Standards	11952
-Observance of Standards and Codes	14734,43,2664,216,11
+Observance of Standards and Codes	14734,43,2664,216,11,1157
+Observance of Standards and Codes RTGS Real Time	18825
 Observance of Standards and Codes SDDS Special Data	14777
 Office of Health Standards Compliance	396
 Office of Professional Standards	12951
@@ -1684,7 +1688,7 @@ Standalone Projects	17962
 Standalone Solar Home Systems	15011
 Standalone Systems	12195,2752
 Standalone YTD Retail Volumes	7446
-Standard	21,13,12,1,35,297,630,114,31,484,288,58,4,267,311,102,220,32,354,52,452,83,237,421,156,240,84,132,1,23,57,10,122,1,65,70,60,18,450,43,35,13,6,74,26,35,4,1,179,242,116,1,102,7,54,1,67,32,101,160,51,64,1,125,15,323,100,19,13,283,112,149,308,253,6,516,294,92,69,57,138,18,348,313,1,5,17,132,5,46,4,49,26,51,76,299,220,90,11,41,128,66,12,90,17,34,132,23,132,236,31,50,7,30,5,13,27,15,114,99,2,10,21,44,165,155,520,9,39,34,367,62,79,17,26,30,35,241,170,1,136,187,184,370,416,43,48,120,4,39,18,22,2,23,31,121,15,2,24,9,255,37,388,77,200,333
+Standard	21,13,12,1,35,297,630,114,31,484,288,58,4,267,311,102,220,32,354,52,452,83,237,421,156,240,84,132,1,23,57,10,122,1,65,70,60,18,450,43,35,13,6,74,26,35,4,1,179,242,116,1,102,7,54,1,67,32,101,160,51,64,1,125,15,323,100,19,13,283,112,149,308,253,6,516,294,92,69,57,138,18,348,313,1,5,17,132,5,46,4,49,26,51,76,299,220,90,11,41,128,66,12,90,17,34,132,23,132,236,31,50,7,30,5,13,27,15,114,99,2,10,21,44,165,155,520,9,39,34,367,62,79,17,26,30,35,241,170,1,136,187,184,370,416,43,48,120,4,39,18,22,2,23,31,121,15,2,24,9,255,37,388,77,200,333,352
 Standard Arabic	17977
 Standard Articles	13299
 Standard Assessment and Evaluation	13392
@@ -1790,6 +1794,7 @@ Standard HMIS	14923
 Standard Industrial Classification	11296
 Standard Integrated Government Tax Administration System	12500,4511,303
 Standard Integrated Tax Administration System	17011
+Standard International Trade Classification	18777
 Standard Investment Bank	8624
 Standard Kit	3637,595,369,1273,1119,5877
 Standard Lesotho Bank	1908,3075,7693,35
@@ -1813,12 +1818,12 @@ Standard Number C	16900
 Standard Observation Procedure	16947
 Standard Official Use Only Page	11417
 Standard Operating	12500
-Standard Operating Practices	11553,6756
+Standard Operating Practices	11553,6756,478
 Standard Operating Procedure	1000,9721,2463,1651,114,1998
 Standard Operating Procedure CCMP.S6	10721
 Standard Operating Procedure IFIs	17101
 Standard Operating Procedure UBR Universal Birth	13681
-Standard Operating Procedures	396,758,130,270,434,5416,3317,469,62,165,780,60,81,110,523,6,1,27,75,164,88,1214,196,192,539,184,389,91,834,145,846,502,24,87
+Standard Operating Procedures	396,758,130,270,434,5416,3317,469,62,165,780,60,81,110,523,6,1,27,75,164,88,1214,196,192,539,184,389,91,834,145,846,502,24,87,212
 Standard Operating Procedures Manual PPP	18370
 Standard Operating Procedures UN	12338
 Standard Operating Procedures WAPP West African	18537
@@ -1906,7 +1911,7 @@ Standardised Surveys. GESIS Survey Guidelines. Mannheim	8376
 Standardised XML Phase	8606
 Standardiser	747,10129,4748,704
 Standardising ICT	2920
-Standardization	10937,1419,3,1026,1351,185,44,32,29,8,1178,688,23,24,1497,34
+Standardization	10937,1419,3,1026,1351,185,44,32,29,8,1178,688,23,24,1497,34,319
 Standardization Agency Integration	12389
 Standardization Annual Work Plan	12621
 Standardization Connectivity Establishment	12917
@@ -1920,7 +1925,7 @@ Standardization of ICT	14525
 Standardization of Mobile Money Cash-Out Fees	17235
 Standardization. Documentation	16900
 Standardize	2724,2953,5472,1210,1,39,1592,1006,93,154,360,121,1639,1165
-Standardized	970,2891,399,2172,719,397,3171,44,373,721,499,310,376,343,1270,241,101,132,349,1414,50,215,382
+Standardized	970,2891,399,2172,719,397,3171,44,373,721,499,310,376,343,1270,241,101,132,349,1414,50,215,382,1231
 Standardized AI Number	7548
 Standardized APIs	17539
 Standardized Backward and Forward	15372
@@ -1947,7 +1952,7 @@ Standardized Templates	12356
 Standardized Toolkits	12053
 Standardizes	14950
 Standardizing	12255,104,618,4464
-Standards	11,10,13,966,237,587,164,739,324,663,139,8,81,184,76,166,848,312,148,1,234,512,505,18,374,228,223,754,145,453,283,553,484,120,201,55,330,35,38,149,153,566,85,39,26,15,1,100,3,1,29,58,6,59,14,11,138,219,5,8,10,52,8,63,13,27,12,93,121,2,2,10,37,63,41,13,30,28,24,80,69,20,224,55,221,209,7,48,1,246,2,76,53,80,18,69,46,68,96,236,190,43,147,41,275,36,224,205,211,9,11,13,15,8,16,15,10,29,257,133,90,81,146,195,2,134,152,301,9,4,34,85,109
+Standards	11,10,13,966,237,587,164,739,324,663,139,8,81,184,76,166,848,312,148,1,234,512,505,18,374,228,223,754,145,453,283,553,484,120,201,55,330,35,38,149,153,566,85,39,26,15,1,100,3,1,29,58,6,59,14,11,138,219,5,8,10,52,8,63,13,27,12,93,121,2,2,10,37,63,41,13,30,28,24,80,69,20,224,55,221,209,7,48,1,246,2,76,53,80,18,69,46,68,96,236,190,43,147,41,275,36,224,205,211,9,11,13,15,8,16,15,10,29,257,133,90,81,146,195,2,134,152,301,9,4,34,85,109,55
 Standards Act	1988,5560,3721,1257,369,508,1019,4044
 Standards Act. Draft Standard No. and Edition	11269
 Standards Act. No	18469
@@ -2208,6 +2213,8 @@ Strategies and Standards Non	12917
 Strategy NIST U.S. National Institute of Standards	1777
 Strategy Paper PSB Professional Standard Board	16852
 Street Naming And Numbering Standards	12149
+Strengthening Accounting and Auditing Standards	18825
+Strengthening Accounting and Auditing Standards. The Order	18825
 Strengthening Rwanda Industrial Standardisation ICT Capacity	1534
 Strengthening the Adoption of Data and Metadata Standards	17539
 Structure of Standards Council	14736
@@ -2243,6 +2250,7 @@ Technical Specifications and Drawings and Standards	13185
 Technical Standard	13606
 Technical Standards For Digital Identification Systems	18290
 Technical Standards ISO	6432
+Technical Standards and Grid Code	18795
 Technical and Broadcasting Standards Committee	6946
 Telecom Namibia CEO Stanley Shanapinda	10465
 Telecommunication Standardization Bureau	12830
@@ -2275,6 +2283,7 @@ URBAN PLANNING STANDARDS UNIT RSB	15027
 USD11M. Part of Stanbic-led USD55M	198
 UTF-8 Mandatory Standards Format	11952
 Under the Standards Development	13705
+Unicode Consortium. The Unicode Standard	18774
 Unification to standard gauge on May 31	4259
 Unified Arab AI Standards	11135,4578
 Unified Social Registry Standard Operating Procedures	14976

@@ -48,7 +48,7 @@ Administrativos Corporaciones Locales	16898
 Administrativos Corporaciones Locales Muertes	16898
 Administrativos Corporaciones Locales Proporción	16898
 Administrativos Corporaciones Locales de Sendai	16898
-Administração Local	3118,2344,524,551,4235,11,578,2,10,11,41,18,8,4075
+Administração Local	3118,2344,524,551,4235,11,578,2,10,11,41,18,8,4075,3274
 Administração Pública Local. São	1265
 Administrações Locais	11384
 Adoption A2-Data Localisation Rates	7548
@@ -76,6 +76,7 @@ Ambassador Lockard	3232
 Amuwo Odofin Local Government Area	10265
 Amuwo Odofin Local Government Area of Lagos	10034
 Annual Vendor Lock-in Risk Audit	6432
+Anti Lock Brake Serviceing Donec	18837
 Anywhere Local Minutes	15471
 Análise Quantitativa Localidade Nº Total de Participantes	17147
 Application Data Classification Primary Data Location	6432
@@ -87,7 +88,7 @@ Association of Local Governments of Nigeria	10704,1345,2,6088,123,4
 Associations Locales	16012
 Attorney-General's Office Location	14713
 Auditor General for Local Government	13418
-Autarquias Locais	744,6016,4023,601,4,73,1313,15,3123
+Autarquias Locais	744,6016,4023,601,4,73,1313,15,3123,2886,55
 Autoridades Locais	11425
 Autorités Locales	17513
 Avaliação da Governação Digital Local	11451
@@ -138,6 +139,7 @@ Business Location	12389
 Buy Local Safe	14818
 C- Local	7548
 CAPEX- Local Investments	3862
+CAPÍTULO III Localização	18764
 CAPÍTULO V AUTARQUIAS LOCAIS Artigo	16022
 CARACTERISTIQUES ET ETAT DES LOCAUX	10847
 CBN Data Localisation Directive	7960
@@ -429,6 +431,7 @@ Finance. Grants for Local	18467
 FinancesÊ LocalesÊ	18065
 Financing Locally Led Climate Action	14471
 Financing Locally Led Climate Action FM	2775
+Finanças Locais	18798,55
 Finding the Perfect Location	11546
 Fintech Reform Delivery Secretariat Locate	4848
 Fiscal and Local Governance Expert	17011
@@ -490,11 +493,11 @@ Government Local Funds	16951,154
 Government Ministère de Chairs the Local Education Group	11916
 Government Procurement PortalPPDACoST Uganda Local	3969
 Government of India Development Partnership LOC Projects	16285
-Governos Locais	11421,156
+Governos Locais	11421,156,7221
 Gravação Local	794
 Groupe Local de Ciblage	10964
 Groupe Local des Partenaires	15673
-Grupo Local de Educação	11557
+Grupo Local de Educação	11557,7224
 Grupo Local de Parceiros da Educação	16268
 GuarantCo Local-currency Domestic	11310
 Guarantee Agency MLGRD Ministry of Local Government	18504
@@ -751,7 +754,7 @@ LocNet	8161,86,1014
 LocNet’s Africa	8161
 Locais	539,3679,7155,48,25,68,63,1197,2663
 Locais Condicionados	539
-Local	10,5,381,143,34,1,162,53,5,164,51,152,59,64,270,264,49,80,41,9,96,366,324,175,93,226,327,255,3,221,43,133,80,492,17,124,25,289,81,27,119,15,28,196,111,9,233,16,65,80,52,50,85,196,68,174,3,27,25,1,119,107,73,132,170,48,190,189,116,117,93,290,7,1,81,135,37,79,68,124,130,8,24,192,53,5,67,14,21,1,33,282,144,41,30,145,168,261,12,1,10,1,2,9,6,16,13,42,7,26,93,149,4,1,59,22,47,23,1,75,4,6,8,4,3,35,4,16,8,7,4,1,44,20,11,41,5,54,215,6,3,41,23,22,6,24,18,8,26,9,36,25,33,7,63,6,3,36,10,62,7,3,41,7,23,1,41,3,9,59,120,42,16,67,14,234,37,4,6,133,24,63,23,19,6,11,27,60,42,1,45,170,28,164,70,26,15,29,96,28,57,8,196,281,45,4,23,2,33,37,18,43,9,9,38,12,13,25,20,11,57,42,7,3,39,42,4,34,98,17,13,39,36,24,2,7,38,143,60,14,40,249,114,13,35,3,27,329,69,32,62,91,40,4,9,15,5,11,1,25,6,9,2,3,18,16,7,2,1,19,19,88,15,2,33,8,59,20,24,243,101,88,82,108,24,56,7,156,176,4,4,128,13,17,9,28,37,149
+Local	10,5,381,143,34,1,162,53,5,164,51,152,59,64,270,264,49,80,41,9,96,366,324,175,93,226,327,255,3,221,43,133,80,492,17,124,25,289,81,27,119,15,28,196,111,9,233,16,65,80,52,50,85,196,68,174,3,27,25,1,119,107,73,132,170,48,190,189,116,117,93,290,7,1,81,135,37,79,68,124,130,8,24,192,53,5,67,14,21,1,33,282,144,41,30,145,168,261,12,1,10,1,2,9,6,16,13,42,7,26,93,149,4,1,59,22,47,23,1,75,4,6,8,4,3,35,4,16,8,7,4,1,44,20,11,41,5,54,215,6,3,41,23,22,6,24,18,8,26,9,36,25,33,7,63,6,3,36,10,62,7,3,41,7,23,1,41,3,9,59,120,42,16,67,14,234,37,4,6,133,24,63,23,19,6,11,27,60,42,1,45,170,28,164,70,26,15,29,96,28,57,8,196,281,45,4,23,2,33,37,18,43,9,9,38,12,13,25,20,11,57,42,7,3,39,42,4,34,98,17,13,39,36,24,2,7,38,143,60,14,40,249,114,13,35,3,27,329,69,32,62,91,40,4,9,15,5,11,1,25,6,9,2,3,18,16,7,2,1,19,19,88,15,2,33,8,59,20,24,243,101,88,82,108,24,56,7,156,176,4,4,128,13,17,9,28,37,149,62
 Local AI	9921
 Local AI Ecosystem	11140
 Local Access Licence	5872
@@ -784,6 +787,7 @@ Local Area Networks LBDA Lake Basin	6946
 Local Area Plan	1867,121
 Local Area Plans	1778
 Local Area Plans Sanitation and Kalumbila	1988
+Local Artigo	18751
 Local Authorities	789,1199,1063,3205,4370,503,1221,33,70,145,329,19,18,133,21,227,14,10,105,172,18,1074,8,7,21,54,3477
 Local Authorities Act	12890,9,3,3
 Local Authorities Budget Estimates for FY	14746
@@ -913,6 +917,7 @@ Local Economic Growth	970
 Local Economy	6946
 Local Education Group	11905,270,1029,2400,1248
 Local Education Group M&E	12175
+Local Education Group M&E Monitoring and Evaluation	18765
 Local Education Group of Malawi	12175
 Local Education Group. Nkambule	13204
 Local Education SPACE Chaired	11916
@@ -1188,6 +1193,7 @@ Local Workers and Laborers	17099
 Local Workers and Laborers Employment	17099
 Local Workers and Laborers Request	17114
 Local Workforce Training	16947
+Local Yoga	18857
 Local Zone	10505
 Local Zones	6471
 Local Zones and Outposts	10798
@@ -1203,6 +1209,7 @@ Local and National Traffic	3862
 Local and Regional Page	11855
 Local and Traditional Leadership	12453,892
 Local da Consultoria	16321
+Local da República Democrática de São Tomé	18764
 Local de Afixação	11373
 Local de Educação GTT Grupo de Trabalho Técnico	11557
 Local de Execução	11442
@@ -1273,11 +1280,12 @@ Localization	5244,2227,7644,1097,763,769
 Localization Coordination Council MPCA Multi-Purpose Cash	6947
 Localization Sudanese	15116
 Localization and Inclusivity The Joint Committee	6748
-Localização	15,534,10198,626,525,3,3479,174
+Localização	15,534,10198,626,525,3,3479,174,3210,25
 Localização Administrativa	11384
 Localização Celular	549
 Localização Empresa	11898
 Localização Geográfica	11384
+Localização Golfo da Guiné Superfície	18768
 Localização da Empresa	11898
 Localização da Empresa. Este	11898
 Localização de Sinal Celular	549
@@ -1290,7 +1298,7 @@ Localized Identify	1988
 Localized Peaks	6051
 Localized Training	12675
 Localizing	5145,2326,4276
-Locally	1554,434,1390,3543,2340,437,1065,707,700,900,148,200,1140,217,43,262,84,389,407,923,352,1211,95
+Locally	1554,434,1390,3543,2340,437,1065,707,700,900,148,200,1140,217,43,262,84,389,407,923,352,1211,95,295
 Locally Grown Solutions	958
 Locally Identified Priorities Enhanced Lead Institutions	14935
 Locally Led Development	9642
@@ -1305,7 +1313,7 @@ Locataire Logé	18014
 Locataire-acheteur	18312
 Locate	17114
 Locate SEZs	11149
-Located	3049,171,466,3689,948,1243,1210,511,627,336,132,88,2038,983,27,141,1352,513,594,630
+Located	3049,171,466,3689,948,1243,1210,511,627,336,132,88,2038,983,27,141,1352,513,594,630,39
 Locates	6542
 Locating	1988,1162,4254,47,1672,2006,5985,43,1136
 Location	22,12,737,227,11,234,745,320,467,226,160,422,131,68,5,741,148,296,377,351,676,562,533,214,800,241,99,14,160,124,288,35,1429,81,19,1,219,132,225,329,75,50,159,88,3,90,31,101,34,55,15,136,319,290,115,19,10,451,132,36,398,1,1,255,35,87,29,25,7,69,88,98,159,52,79,120,182,126,42,56,296,86,87,246,118,5,6,46,34,24,35,117,15,3,40,88,6,582,132,505,86,3
@@ -1351,6 +1359,8 @@ Location of Project and Description of Site	16776
 Location of Property for Domestic Firms	12389
 Location of Property for Foreign Firms	12389
 Location of Refugees	1867
+Location of STP	18787
+Location of Sanitary Landfills	18787
 Location of Work	12754
 Location-based	6593
 Location-specific	16329
@@ -1366,6 +1376,7 @@ Locations Transport	13042
 Locator	4617
 Locaux	13781,1753,46,305,76,1851,306,3
 Locaux Miniers	2342
+Locação	18764
 Lochery	12227
 Lochet Irancy Bacvich Kanda	16242
 Lock-in	4259,3472
@@ -1417,6 +1428,7 @@ Mauritania BUILD LOCALLY. IMPACT GLOBALLY	18039
 Mauritius Fire and Rescue Service. Local Government	14746
 Mbeki Local Design Thinking	6832
 Meheba Local Area Plan	1867
+Meio de Residência Distribuição da Localização	18775
 Members of Local Councils. Officers and Personnel	15393
 Methodology Handbook. Business Location	12389
 Methodology for Data Local	1867
@@ -1604,6 +1616,7 @@ PTAs Communities Local	15604
 PURCHASED SEED Crop Type Local	17043
 PWD Lockdown	18470
 Pako Lebanna Location	12584
+Parceiros Locais da Educação	18781
 Parliamentary and Local Government Election Petitions	13472
 Parliamentary and Local Government Elections	4609
 Patient End Location	13561
@@ -1621,7 +1634,7 @@ Per Diem Road Traffic and Local	1988
 Percentage of Local Economic Development	14935
 Percentage of Local Government Capacity Development Strategy	14935
 Performance Measurement for Local Governments	16885
-Performance and Data Localization Requirements	14008,2964
+Performance and Data Localization Requirements	14008,2964,1825
 Permanent Secretary Local Authorities Governance Unit	14746
 Permanent Secretary of Local Government	12338
 Permanent Secretary of Local Government Members	15056
@@ -1645,6 +1658,7 @@ Portée LOC	16552
 Post Local Economic Development	11251
 Postcode Locality	11129
 Potatoes Locally	6921
+Praia Lochinga	18856
 Preliminary Mapping of Data Localisation Measures	1243
 President of Association of Local Governments of Nigeria	11126
 Primary Storage Locations Storage ID Country	6432
@@ -1709,6 +1723,7 @@ Regulator Upholds Local Ownership Rules	6785
 Relevant Traditional Local Communities ESS	1867,16331
 Relocation of FSU Ministry of Local Government	14746
 Remarks Local Government	14746
+Remuneradas Localizadas	18775
 Rencrendienemeents DÉVELOPPEMENT LOCAL	15999
 Republic of Angola FAS Local Development Institute	10768
 Research Data Lockdown	3810
@@ -1774,6 +1789,7 @@ Service Delivery and Local COVID-19 Response Project	16949
 Service Local Area LAN	12364
 Services Job Opportunities Craft Centers Localization	15578
 Services Locaux	17842
+Serviço Remuneradas Localizadas	18775
 Serviços Locais	167,4051,6533,631,67
 Serviços Online Locais	11451
 Shepherd Manhokwe Project Location	1554
@@ -1879,6 +1895,7 @@ True Locus of AI's Impact Shifting	16266
 Trusted Location May Be the Missing	8825
 Tsholotsho All Locations Hover	12493
 Tunisian OGP Local	9022
+U.S. Citizens Emergency Assistance Local Emergency	18879
 U.S. and Local Staff	17883
 UK's Government Digital Service E.2 Local	11952
 UNDERSTANDING SOCIO-POLITICAL SITUATION AT LOCAL LEVEL	16970
@@ -1914,6 +1931,7 @@ Valeur Ajoutée Tiers Locaux	15797
 Validation du Répertoire des Localités du Mali	17978
 Vallée des Pretres Ministry of Local Government	14746
 Valorisation du Lait Local	17841
+Veloz Counsel Legal No Lockward Carla	18809
 Vendor Lock-in	6432,6535,3957
 Vendor Lock-in Portability Assurance GCSPs	6432
 Vertiv Cooling and Power Solutions for Strategically Located	11243

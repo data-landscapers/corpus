@@ -3,6 +3,7 @@ AfCFTA. Precedes	3074
 Agriculture Agricultural Precision	10856
 Alerta Precoce	17147
 Alertas Precoces	15996
+Années Precipitação	18757
 Armonizado de Precios	16898
 Armonizado de Precios de Consumo	16898
 Armonizado de Precios de Producción Industrial	16898
@@ -70,6 +71,8 @@ O ESTADO QUE CABO VERDE PRECISA	16487
 Officer CP Condition Precedent DD Due	1818
 PRECA PGPC ONF	10858
 PRECIGEMCE DE LA REPU	15999
+PRECIPITATION Total Milimetro	18757
+PRECIPITAÇÃO	18757
 PRECISER C.ACTIVITES AGRICOLES ET COMMERCIALES	13390
 PRECISION MECHANICS	16900
 PRECISION MECHANICS. JEWELLERY	16900
@@ -123,11 +126,13 @@ Precipitation Estimation	12957
 Precipitation Indicators	11762,1988
 Precipitation Measurement and Analysis	16135
 Precipitation Rate	14256
+Precipitation Temperatura	18757
 Precipitation and Meteorological	17157
 Precipitation-	17157
+Precipitação Anual Temperature	18757
 Precisam	10752
 Precisamente	15392,1463,126,265
-Precisamos	12809
+Precisamos	12809,6058,11
 Precise	789,1078,121,10469
 Precisely	10,7141,1309,2678,852
 Precision	1738,179,2611,717,3359,2,1160,2074,672,873,159,1558,58,1392,491

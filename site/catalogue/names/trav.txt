@@ -447,7 +447,7 @@ Travaillant	10847,3687,940
 Travaille	13300
 Travailler	8515,3528,1347,2280,178,798,1645
 Travailleur	737,17208,259
-Travailleurs	737,10139,3612,1,1,1195,2727
+Travailleurs	737,10139,3612,1,1,1195,2727,345
 Travailleurs Migrants	10841
 Travailleurs Pendant	14489
 Travailleurs Sociaux	17812
@@ -474,7 +474,7 @@ Travaux Vu	15395
 Travaux de Planification	17899,83
 Travaux de Réhabilitation	16152
 Travaux des Commissions. Séance	2063
-Travel	1988,332,1219,1420,19,555,545,180,3915,1079,688,274,114,180,463,5,1,1031,767,703,788,873,77,71,60
+Travel	1988,332,1219,1420,19,555,545,180,3915,1079,688,274,114,180,463,5,1,1031,767,703,788,873,77,71,60,1521
 Travel Agencies	11939
 Travel Agencies Transport	11955
 Travel Authorisation	6867,1

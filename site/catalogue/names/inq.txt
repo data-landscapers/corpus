@@ -28,7 +28,9 @@ Data Market Inquiry	11195
 Data Services Market Inquiry	5872,2526
 Data Services Market Inquiry. Arthur Goldstuck	8668
 Data Workers’ Inquiry	6948
+Desigualdades O Inquérito de Indicadores Múltiplos	18762
 Digital Platforms Market Inquiry	13462
+Distritos Inquiridos	18768
 Economic Inquiry	11924
 Employment and Earnings Inquiry	13479
 Framework of Inquiry	6052,927
@@ -60,6 +62,7 @@ Inq. Digital	3862
 Inq. Digital Nigeria	3862
 Inq. Digital Nigeria Ltd	3862
 Inque	11387
+Inquerito	18762
 Inquest Act	12959
 Inquest Committee	18595,3
 Inquests Act	11176,2109
@@ -67,7 +70,7 @@ Inquests Act. Clause	12959
 Inquirer	17139
 Inquiridor	10777
 Inquiridores	10777
-Inquiridos	10777
+Inquiridos	10777,7991
 Inquiries	14768
 Inquiries PART III	14768
 Inquiries and Comments About IFC	16776
@@ -88,10 +91,13 @@ Inquiry the Commission	13461
 Inquiry98	13461
 Inquisitório	11452
 Inquiétudes	419
-Inquérito	220,10555,2,610,136,3,329,3582,98,159,268
-Inquérito Anual	11423
+Inquérito	220,10555,2,610,136,3,329,3582,98,159,268,2800,15,17,51,11
+Inquérito Agrupado de Indicadores Múltiplos	18783
+Inquérito Anual	11423,7352
 Inquérito Biológico	966
 Inquérito Demográfico	10777
+Inquérito MICS6	18762
+Inquérito Múltiplos	18762
 Inquérito Nacional de Satisfação	6619,4803
 Inquérito Regional Integrado	11562
 Inquérito Sobre Despesas	10768
@@ -100,8 +106,12 @@ Inquérito de Cobertura	11416,5,25,131
 Inquérito de Cobertura. Os	4040,4
 Inquérito de Cobertura. Os Resultados Definitivos	11421,25,131
 Inquérito de Conjuntura	11422
+Inquérito de Indicadores	18762
 Inquérito de Indicadores Multiplus	11417
-Inquérito de Indicadores Múltiplos	10760,5,10,2,3,607,5628
+Inquérito de Indicadores Múltiplos	10760,5,10,2,3,607,5628,1747
+Inquérito de Indicadores Múltiplos MICS	18794
+Inquérito de Satisfação	18794
+Inquérito. MICS6	18762
 Inquéritos	11526,4009,493
 Inquêrito Ligeiro de Avaliação da Pobreza	11525
 Intervalo de Confiança Inquérito Demográfico	10777
@@ -110,7 +120,8 @@ Just AI Framework of Inquiry	5008,3825
 MARKET INQUIRY Article	15126
 MARKET INQUIRY UMUTWE WA IV	15126
 MEDIA INQUIRIES	11357
-MICS Inquérito	966,10581
+MICS Inquérito	966,10581,7236
+MICS Inquéritos	18779
 Madlanga Commission of Inquiry	14357
 Mar IMC Inquérito Multiobjectivo Contínuo INE	15535
 Market Inquiry	11308,2153
@@ -118,12 +129,13 @@ Media Inquiries	4123,8986
 Media and Digital Platforms Inquiry	11195
 Media and Digital Platforms Market Inquiry	4583,8878,1
 O Inquérito de Cobertura	11416,5,25,131
-O Inquérito de Indicadores Múltiplos	10760,17
+O Inquérito de Indicadores Múltiplos	10760,17,7985
 OBJECTIVOS DO INQUÉRITO	10777
 Online Intermediation Platform Market Inquiry	13461
 Operator Bandwidth Capacity Inq. Digital Nigeria	3862
 Outgoing and Inq. Digital	3862
 Part C Inquiries	11181
+Percentagem Idade Homens Mulheres Inquérito de Indicadores	18762
 Policy Inquiries Questions	18745
 Presidential Commission of Inquiry	9377
 Prior Inquiry	15492
@@ -149,6 +161,7 @@ Saúde Inquérito de Indicadores Múltiplos	10777
 Seguimento IDRF Inquérito	15535
 Send Inquiry	15131
 Senior Legal Counsel. The Inquest Committee	18598
+Sexo da População Inquirida	18768
 Sistema Permanente de Inquéritos Agrícolas Integrados	11979
 South Africa. The Inquiry	11308
 South Africa’s Digital Markets Inquiry	6052

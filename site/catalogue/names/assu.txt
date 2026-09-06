@@ -59,7 +59,7 @@ Assume	958,8155,1608,2574,25
 Assume-se	10777
 Assumed	80,1,1,1,201,95,120,1,181,1,1,1,1,1,1,202,1,1,1,1,1,1,229,1,1,237,154,1,1,1,1,2,1,691,7772
 Assumer	14488,1,1,909
-Assumes	13868
+Assumes	13868,4886
 Assumi	15966
 Assumindo	15344,350
 Assuming	1828,7219,1213,556,324,385,60,270,69,293,1097,1574,484,232,59
@@ -99,11 +99,14 @@ Assuntos Constitucionais	1268,7990,2898,675
 Assuntos Consulares	16376
 Assuntos Corporativos	9559
 Assuntos Económicos	11378
+Assuntos Fundiários	18760
 Assuntos Jurídicos	11561
-Assuntos Parlamentares	4435,1583,3253,8041
+Assuntos Parlamentares	4435,1583,3253,8041,1440,20,1,5,18,16
 Assuntos Políticos	10750
 Assuntos R	539
 Assuntos Religiosos	539
+Assuntos Sociais	18752,31
+Assuntos Sociais Estratégia	18783
 Assunção	15433,589
 Assur	11289
 Assura	17829
@@ -287,6 +290,7 @@ Director of Quality Assurance	17645
 Director-General Office of Education Quality Assurance	7444
 Directorate of Accounting Services and Quality Assurance	12321
 Directorate of Programmes and Quality Assurance	12345
+Direcção de Assuntos Fundiários	18760
 DÉMOBILISATION DES Assurer	15999
 E. TESTING AND QUALITY ASSURANCE REQUIREMENTS	13185
 ECZ Assumed the AEAA Secretariat	13477
@@ -309,11 +313,11 @@ Evaluation and Quality Assurance	11791
 Evolution of Selected Macroeconomic Assumptions	13868
 Example Levels of Assurance	10765,10
 FICHE TECHNIQUE Assujettissement des ONG	16328
-FINANCING ASSURANCES REVIEW	15752,1457,117
-FINANCING ASSURANCES REVIEW EXECUTIVE SUMMARY	17209
+FINANCING ASSURANCES REVIEW	15752,1457,117,1497
+FINANCING ASSURANCES REVIEW EXECUTIVE SUMMARY	17209,1614
 Federation Assurance Level	10775
 Fees and Assumptions	11240
-Financing Assurances Review	15752
+Financing Assurances Review	15752,3071
 Findings Against Tested Assumptions	18557
 Footprint Development and Hospitals Assumptions Availability	11986
 G. Quality Assurance and Compliance	16975
@@ -405,6 +409,7 @@ National Software Quality Assurance Guideline for Nigeria	5665
 Nationales des Assurances	11944
 O Assuring	14777
 O Assuring Statistical Confidentiality and Data Security	14777
+O Departamento de Assuntos Económicos	18767,5
 OBLIGATIONS DES ASSUJETTIS Article	15508
 OBLIGATIONS DES ETABLISSEMENTS ASSUJETTIS EN MATIERE	15482
 OS.2. Assurer	18121
@@ -566,6 +571,7 @@ VAS Assumptions	11986
 VAS Reports Assumptions DHA	11986
 VISION DE L’ARE Assurer	15670
 Vendor Lock-in Portability Assurance GCSPs	6432
+Wanderley Lima Paixão Direcção de Assuntos Fundiários	18760
 X Assurer	16195
 Y SOCIETE LANALA ASSURANCES SA LANALA	16623
 Zimbabwe National Quality Assurance Programme	13320

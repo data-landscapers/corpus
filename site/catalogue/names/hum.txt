@@ -77,6 +77,7 @@ Arab Human Development Report Research Paper	16902
 Artificial Humans	8460
 Artificial Intelligence and Human Rights	11135,6645
 Artiﬁcial Intelligence and Human Rights	11135
+Assentamentos Humanos	18763
 Assistance Human-in-the-loop	10726
 Assistência Humanitária	12859
 Association HCI Human Capital Index HCR	17870
@@ -122,7 +123,7 @@ Bureau of Standards HR Human Resources HRH	396
 Burundi HR Human Resources HRM Human	1284
 Burundi Humain Reseach Developpement CADEBU	13377
 Burundi Index Human Development Index Year	13358
-Business and Human Rights	3005,578,3564,1935,1925,3666
+Business and Human Rights	3005,578,3564,1935,1925,3666,4124
 Business and Human Rights Centre	9399
 Business and Human Rights. Modest Activation	17139
 Business and Human Rights.66	11007
@@ -296,7 +297,7 @@ Derechos Humanos	1701,2508,2632,10208
 Derechos Humanos Excelentísimo	1855
 Desarrollo Humano	1701,15197
 Description Cyber Security and Data Security. Human	11131
-Desenvolvimento Humano	795,10567,175,6,1234,11,3699,613
+Desenvolvimento Humano	795,10567,175,6,1234,11,3699,613,1668,13,2
 Desenvolvimento Humano ID	9441
 Desenvolvimento Humano Título	12788
 Desenvolvimento de Recursos Humanos	12777
@@ -354,16 +355,18 @@ Directorate of Human Resources Number	10829
 Directrice des Ressources Humaines	16294
 Direitos Direitos Humanos	10752
 Direitos E DOS DIREITOS HUMANOS Humanos	10753
-Direitos Humanos	220,218,738,92,1313,235,137,653,1,540,309,840,131,236,58,267,72,477,77,26,101,78,125,22,29,315,744,3,202,372,627,1040,452,1,1,1,1,11,7,3,615,3,81,5,5,46,7,3,22,3,502,52,82,3276,217,187,85,16,1021,330,27,1
+Direitos Humanos	220,218,738,92,1313,235,137,653,1,540,309,840,131,236,58,267,72,477,77,26,101,78,125,22,29,315,744,3,202,372,627,1040,452,1,1,1,1,11,7,3,615,3,81,5,5,46,7,3,22,3,502,52,82,3276,217,187,85,16,1021,330,27,1,1411,7,17
 Direitos Humanos A Universidade Lusíadas de Angola	10752
 Direitos Humanos Aposta	10752
 Direitos Humanos Carlos Alberto Cavuquila	10752
 Direitos Humanos Decorreu	10752
+Direitos Humanos Decreto-Lei Instituto de Inovação	18773
 Direitos Humanos Francisco Queiroz	10751
 Direitos Humanos GEPE	10752
 Direitos Humanos Jurisdição Comum	10752
 Direitos Humanos Justiça	10753
 Direitos Humanos MINOPUH Ministério	11390
+Direitos Humanos MLSFPT Ministério	18779
 Direitos Humanos Ministério da Juventude	11569
 Direitos Humanos O Ministério da Justiça	10752
 Direitos Humanos Queria	10752
@@ -453,6 +456,7 @@ Ensure Gender and Human	16951
 Ensuring Human Dignity	12962
 Environmental Human Capacity Gaps	17260
 Essential Functions of Human Resource Section	14761
+Estabelecimentos Humanos UNICEF Fundo	18783
 Eswatini Health System Strengthening for Human Capital	559
 Eswatini Health and Human Research Review Board	12976
 Eswatini's Health System Strengthening for Human Capital	538
@@ -675,6 +679,8 @@ HUMANOS Propiciará	10750
 HUMANOS R.INSULAR	4209
 HUMANOS.- Concepto.-66111	4209
 HUMANOS.- Concepto.-66314	4209
+HUMIDADE RELATIVA	18757
+HUMIDITÉ RELATIF	18757
 HUMINT	3364
 HYDROFLUOROCARBONS HUMAN IMMUNODEFICIENCY VIRUS HIV	12253
 Handbook of Human-Centered AI	4253
@@ -818,7 +824,7 @@ Human Capital. Paris	15447,33
 Human Computer Interaction	12926
 Human Cost of Being Invisible Yet	12057
 Human Decisions and Machine Predictions	18318
-Human Development	643,1,10115,78,1,126,4,568,334,16,1,1,1,16,247,1,1,9,177,1,11,980,660,109,2142,1693,522
+Human Development	643,1,10115,78,1,126,4,568,334,16,1,1,1,16,247,1,1,9,177,1,11,980,660,109,2142,1693,522,327
 Human Development Access	11536
 Human Development Bridging	18458
 Human Development Cash Transfer	14553
@@ -826,7 +832,7 @@ Human Development Department of JICA. Welcoming	17735
 Human Development HE Higher Education HEI	17458
 Human Development I Africa Region Document	13953
 Human Development IDA International Development Association	13332
-Human Development Index	3583,7421,397,124,20,15,21,5,378,975,419,599,785,155,617,4,32,111,64,659,558,24,7,316,214,346,34,79,496,158,43
+Human Development Index	3583,7421,397,124,20,15,21,5,378,975,419,599,785,155,617,4,32,111,64,659,558,24,7,316,214,346,34,79,496,158,43,128,22
 Human Development Index HIV	14857,2094
 Human Development Index of The Gambia	16952
 Human Development Index. Almost	14443
@@ -843,7 +849,7 @@ Human Development Report Briefing. United Nations	13332
 Human Development Reports	13358,1886,309,2925
 Human Development Sectors	15663
 Human Development and Environmental Sustainability	15411
-Human Development and Gender	16952
+Human Development and Gender	16952,1813
 Human Development and Gender Gender ADM STAFF	15601
 Human Development and Gender Sector FY17	16436
 Human Development and Governance and Peacebuilding	13992
@@ -864,6 +870,7 @@ Human Factor	396
 Human Factors	4439,4021
 Human Factors and Usability Case Studies	10919
 Human Fertilisation and Embryology Act	13040
+Human Flight and Brain Drain	18797
 Human Future	961,7499
 Human Geography	12227
 Human Health	2775,10745,1146,419
@@ -1122,6 +1129,7 @@ Human Rights Watch	2518,1065,5816,1427,865,177,3474,584,1769
 Human Rights Watch. Human	7187
 Human Rights Watch17	13313
 Human Rights Women	16951
+Human Rights Working Group	18797
 Human Rights Writers	5215
 Human Rights Writers Association	5215
 Human Rights Writers Association of Nigeria	10093
@@ -1230,7 +1238,7 @@ Human-modified	16996
 Human-rights	9251
 HumanCenteredness Prioritizing AI	16212
 Humanas	414,10366
-Humanidade	2816
+Humanidade	2816,15935
 Humanidades	16864,56
 Humaniser	17499
 Humanising Big Tech Accountability	9817
@@ -1400,6 +1408,7 @@ Information System Unit HPV Human Papilloma	12976
 Information des Ressources Humaines	6240
 Inmunodeficiencia Humana WASH	1701
 Innovation and Human Capital Development	13458
+Innovation for Humanity	18840
 Instituições Nacionais de Direitos Humanos	10750
 Institut des Sciences Humaines	17829
 Institute HIV Human Immunodeficiency Virus ICT	16852
@@ -1415,7 +1424,7 @@ Institutions Human	10969,1386,132
 Instituto Humanitas Unisinos	2816
 Int J Arts Humanit Soc Sci	9739
 Int J Disability and Human Development	12231
-Intangible Cultural Heritage of Humanity	14742
+Intangible Cultural Heritage of Humanity	14742,4068
 Integral Human Development	10841
 Integrate Humanitarian	11285
 Integrated Financial Management System and Human Resources	12325
@@ -1528,6 +1537,7 @@ Masauso Mwale Human Resource	13392
 Matérielles DRH Direction des Resssources Humaines EiE	15541
 Mauritius's UN Human Rights Committee	2363
 Maya Wang of Human Rights Watch. Bulletin	2518
+Mechanism HDI Human Development Index HH	18809
 Medium Human Resource Manage	13053
 Meets the Need for Swift Processing of Humanitarian Aid	13042
 Midrift Human Rights Network	14299
@@ -1666,6 +1676,7 @@ POLÍTICA DE RECURSOS HUMANOS Artigo	16056
 POTENTIAL IMPACT ON HUMAN WELL-BEING	17099
 PROTECTION OF HUMAN RIGHTS ACCEPTANCE	14742
 Pan Africa Humanitarian Summit	11131,3
+Papiloma Humano	18783
 Papiloma Humano IAEA Agência Internacional de Energia	11376
 Papiloma Humano ICOPE Integrated Care for Older	15966
 Participation HUMAN DEVELOPMENT Health	10759,1395
@@ -1724,6 +1735,7 @@ Provincial Justice and Human Rights Delegations	10765,10
 Provost Facility Service Human Resources	17232
 Proyecto de Reforzamiento de Recursos Humanos	4209
 Public Administration Human Resources Management System	10768
+Public Administration and Human Rights	18797
 Public Sector Human Capital Development Policy	13458
 Public Service Commission and Human Resource Management	18467
 Public Service and Human Resource Development	6811
@@ -1758,12 +1770,14 @@ Recovery and Human	970
 Recovery and Human Development Priority Area	970
 Recovery and Human Development SRHR Sexual and Reproductive	970
 Recurso Humanos	10752
-Recursos Humanos	1268,433,1115,5556,2380,31,594,4,10,170,3843,99,519,1072
+Recursos Humanos	1268,433,1115,5556,2380,31,594,4,10,170,3843,99,519,1072,1674,25
 Recursos Humanos Actualmente	2816
 Recursos Humanos Atualização	16487
 Recursos Humanos DCN Departamento de Contas Nacionais	15535
+Recursos Humanos Decreto-Lei Instituto de Inovação	18773
 Recursos Humanos ECEA Estratégia Continental de Educação	11557
 Recursos Humanos Gabinete de Tecnologia de Informação	10766
+Recursos Humanos O Recursos Humanos	18768
 Recursos Humanos ODS	1701
 Recursos Humanos Para	10772
 Recursos Humanos da Administração Pública	10768,626
@@ -1845,13 +1859,14 @@ SOURCES HUMAINES QUALI-	18077
 SPACE Value for Money of Social Protection and Humanitarian	15658
 STAGE FOR MISMANAGEMENT AND HUMAN RIGHTS	18592
 STATE-OF-THE-ART INFO-STRUCTURE HUMAN CAPITAL	14752
+STP COVID-19 Human and Economic Response	18851
 SUMMARIES OF SELECTED HUMAN RIGHTS CASES	13097
 SYSTEM FOR HUMAN CAPITAL AND RESILIENCE	10768
 Sahel Document Food Security and Humanitarian Implications	17323,1
 Samuel Anyanwu Minister of Humanitarian Affairs and Poverty	18243
 Samuel Anyanwu The Honourable Minister of Humanitarian	18269
 Sango. Humanitarian	16358
-Saúde Humana	6970,5853
+Saúde Humana	6970,5853,5952
 School of Humanities and Social Sciences	10780
 School of Social Sciences and Humanities	12178
 Sciences Humaines MFB	13377
@@ -1893,6 +1908,7 @@ Social Sciences and Humanities	8436,3763
 Social Studies and Humanities UdM	14775
 Social and Human Capital Development	12962,2
 Social and Human Development and Special Programmes	12962
+Social and Human Sciences	18796
 Social and Human Sciences Sector	13557,1436
 Social and Human Sciences and Environment	414
 Socioeconomic Indicators Its Human Development Index	17503
@@ -2010,7 +2026,7 @@ UN's Human Development Report	15550
 UN's Human Rights Office	15220
 UN-Habitat United Nations Human Settlements Programme	11887,266,1,9,178
 UNDP Human Development Data Centre	11586
-UNDP Human Development Index	17011
+UNDP Human Development Index	17011,1743
 UNDP Human Development Report	2117,12780,614
 UNDP Human Development Reports	15658
 UNDP’s Human Development Index	17862

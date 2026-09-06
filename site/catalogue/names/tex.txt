@@ -38,6 +38,7 @@ Cost of Transmission Delays Text Figure	13624
 Countries Missing Primary Text Algeria	7707
 Country Text	11180
 Crossroads Textbooks Archived Documents	11241
+Curriculum and Textbooks	18765
 Curriculum and Textbooks FY17	16436
 DJIBOUTI Text Table	13868
 DSA Text Table	17257
@@ -95,7 +96,7 @@ Length Decimal Classwords Text	12360
 Libros de Texto	16864,56
 Longueur de Texte	747
 Luanda Luanda SÔNIA MUHONGO TEXEIRA	10751
-MEFP Text Table	17209
+MEFP Text Table	17209,1614
 MODIFICATIONS DES TEXTES NON CODIFIES	16047
 MODIFICATIONS DES TEXTES NON CODIFIES SECTION	16047
 MOROCCO Text Table	17503
@@ -137,6 +138,7 @@ Reproduces the FULL PRIMARY TEXT	4049
 República de Guinea Ecuatorial. Texto	16868,241
 SOCIETE BURKINABE DES FIBRES TEXTILES	7670
 SOEs. Text Table	13868
+Shane Kyle Texto	18837
 Simple Language High Contrast Large Text	9429
 Sistema Estadístico Nacional. Texto	17408
 Société des Textiles du Mali	8237
@@ -209,9 +211,9 @@ Texas-based	8049
 Texplast Industries Limited Generation	12256
 Texstyle Expo	16331
 Text Books	13991
-Text Figure	13624,3585,700,81
+Text Figure	13624,3585,700,81,833
 Text Sizing Scalable	11952
-Text Table	1828,2,11794,244,3341,48,246,406,81
+Text Table	1828,2,11794,244,3341,48,246,406,81,833
 Text for Adherence	12143
 Text-and-Data Mining	7548
 Text-free	11801
@@ -242,7 +244,7 @@ Textile and Apparel Sector Thematic Working Group	12703
 Textiles	4209,9176,320,1322,1873,1721
 Textiles and Leather	10841
 Texting	10977
-Texto	6298,1785,289,182,511,237,2083,45,2751,2714,50,20,16,5,3,33,5,4,18,2,22,3,13,39,22,11,14,47,1,1,1,2,2,15,2,8,28,11,8,8,10,21,3,6,14,10,4,12,3,30,148
+Texto	6298,1785,289,182,511,237,2083,45,2751,2714,50,20,16,5,3,33,5,4,18,2,22,3,13,39,22,11,14,47,1,1,1,2,2,15,2,8,28,11,8,8,10,21,3,6,14,10,4,12,3,30,148,1204
 Texto SIEGE Sistema de Información Escolar de Guinea	16920
 Texto Validado	11547
 Texto-base de EOI	11456

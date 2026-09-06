@@ -13,6 +13,7 @@ APPLICATION FOR DESIGNATION AS UNIVERSAL SERVICE	22
 APPOINTMENT OR DESIGNATION OF INFORMATION OFFICER	13484
 ASSOCIATION LE DESIR D’AVENIR	16100
 ASYCUDA Graphic Designer	16631
+Abel WINAMOU Designed	18796
 Academy of Design and Innovation	14775
 Academy of Design and Innovation Act	14828,3
 Acrónimos AND Autoridad Nacional Designada CAFI	16875
@@ -63,6 +64,7 @@ CBE’s Digital Lilangeni Design Paper	11048
 CBRAIN EAST AFRICA COMPUTER SYSTEM DESIGN	7167
 CEO Designate Ebène	11800
 CEO Designate. Mr Silber	11800
+CLIMAT DESIGNAÇÃO	18757
 CONGO DESIGNATION ET MISSIONS DU LIQUIDATEUR	16274,182
 CPF Country Partnership Framework DA Designated	1867,9658,3990
 CSD SYSTEM Designation Comment Signature Date	12364
@@ -86,6 +88,7 @@ Climate-Resilient Transport Design	17260
 Combining the EM-DAT and DesInventar	10763
 Complex Project Designs	17962
 Conception and Design	14565
+Condições Perigosas Desigualdades	18762
 Connex Design The President	13911
 Consultancy Model Documentation Design	16867
 Contact Person Designation Email Telephone Date	6432
@@ -106,6 +109,7 @@ D1 Design	899
 DA Designated	11380
 DA Designated Account DBAG Directorate of Budget	17458
 DA Designated Account DE4A Digital Economy	969,5570
+DA Designated Account DEA Digital Economy	18777
 DA Designated Account DEEC Environment and Classified	18293
 DA Designated Account DFIL Disbursement and Financial	10768
 DA Designated Account DGPSN General Delegation	18301
@@ -125,14 +129,27 @@ DESIGN OF PARKING FACILILTIES Built-in Garage	11129
 DESIGN OR BY DEFAULT	14435
 DESIGNATED ENTITIES	12943
 DESIGNATED POINT OF CONTACT REPORTING OBLIGATIONS	11190
-DESIGNATION	10847,2096,4874,165
+DESIGNATION	10847,2096,4874,165,775
 DESIGNATION DE POINTS FOCAUX	15744
 DESIGNATION ETAT ADEN ARPCE ARTF ANSSI	16047
 DESIGNATION ETAT FIGA FONEA ACPE FNH	16047
 DESIGNATION FRAIS D’ETUDE CAHIER DES CHARGES	16047
+DESIGNATION MEDIDA	18757
 DESIGNATION NOMBRE TOTAL CABINET PRESIDENTE	998
 DESIGNATION OF CRITICAL INFRASTRUCTURE	12302
 DESIGNATION QUANTITE Ordinateurs	17817
+DESIGNATION U. MEDIDA	18757
+DESIGNATION U.MEDIDA	18757
+DESIGNATION U.MEDIDA U.MESURE	18757
+DESIGNATION U.MESURE	18757
+DESIGNATION U.Medida	18757
+DESIGNATION U.Medida U.Mesure	18757
+DESIGNATION Valor Anual	18757
+DESIGNAÇÃO	18757,41,55
+DESIGNAÇÃO DESIGNATION	18757
+DESIGNAÇÃO PONDERAÇÕES DESIGNATION PONDERATIONS	18757
+DESIGNAÇÃO Total Em	18798
+DESIGNAÇÃO U. MEDIDA DESIGNATION U.MESURE	18757
 DESIGNEE	4049,1303
 DESIGNING THE DATA INTAKE QUESTIONNAIRE	16867
 DESIGNWORKS LIMITED Data Processor INST-591994082A1 NAIROBI	7167
@@ -156,6 +173,9 @@ Danilo Desiderio	7965
 Data Center Design Floor	9123
 Data Center Design and Implementation Best Practices	9123
 Data Centre Design	12253
+Data de Desig	18753
+Data de Designação	18753
+Data de Designação. Após	18753
 Data for Policy and Digital Product Design. Work	12241
 DeSIRA	12985
 Dedicated and Designated Accounts	15658
@@ -163,7 +183,7 @@ DesInventar	10763
 Desi Individual Consult Limited	17180
 Desig	17219
 Desig Consultant Qualifi Open	17180
-Design	32,364,268,102,5,128,59,4,38,580,408,686,1004,179,4,265,88,44,1,269,235,27,10,48,393,3,169,380,639,10,161,229,104,11,1,11,45,544,100,142,161,62,5,57,15,103,353,57,1,1,207,311,5,475,461,93,557,36,2,13,10,41,3,10,11,123,1,32,8,11,56,12,47,3,7,16,53,7,49,4,107,209,157,62,59,6,47,36,1,3,8,44,11,72,48,29,17,25,2,12,11,7,11,84,21,18,23,1,53,25,34,162,19,141,83,47,11,30,32,43,15,90,128,30,42,39,119,113,139,74,24,45,53,89,57,304,45,51,12,16,86,23,116,22,6,12,59,8,30,5,3,52,10,30,53,10,40,242,52,23,25,8,73,105,3,2,31,19,59,164,41,167,68,151,251,13,206,25,8,6,11,17,42,5,4,20,4,36,7,50,46,13,30,23,75,480,135,32,4,395,53,16,4,107,48,41,50
+Design	32,364,268,102,5,128,59,4,38,580,408,686,1004,179,4,265,88,44,1,269,235,27,10,48,393,3,169,380,639,10,161,229,104,11,1,11,45,544,100,142,161,62,5,57,15,103,353,57,1,1,207,311,5,475,461,93,557,36,2,13,10,41,3,10,11,123,1,32,8,11,56,12,47,3,7,16,53,7,49,4,107,209,157,62,59,6,47,36,1,3,8,44,11,72,48,29,17,25,2,12,11,7,11,84,21,18,23,1,53,25,34,162,19,141,83,47,11,30,32,43,15,90,128,30,42,39,119,113,139,74,24,45,53,89,57,304,45,51,12,16,86,23,116,22,6,12,59,8,30,5,3,52,10,30,53,10,40,242,52,23,25,8,73,105,3,2,31,19,59,164,41,167,68,151,251,13,206,25,8,6,11,17,42,5,4,20,4,36,7,50,46,13,30,23,75,480,135,32,4,395,53,16,4,107,48,41,50,134,55,8
 Design AI	12356
 Design API	6432
 Design Applications	11250
@@ -224,6 +244,7 @@ Design and Development	11216
 Design and Development Guidelines AI	14566
 Design and Enactment of VAT Legislation	17011
 Design and Implement	17011
+Design and Implementation	18754
 Design and Implementation of Management Policy	15372
 Design and Layout	12652
 Design and Methodology	2775
@@ -231,7 +252,7 @@ Design and Modelling	2816
 Design and Preparation	10779
 Design and Procurement	15901
 Design and Procurement Article	15901
-Design and Quality	16614
+Design and Quality	16614,2140
 Design and Road Map Leading	16867
 Design and Set	16600
 Design and Technology	12975
@@ -313,6 +334,8 @@ Designation ETAT ADEN Taxe	16047
 Designation Guard Band Uplink	14780
 Designation Male Female Sum	18578
 Designation Tel No. Email Mr. Faradally	14745
+Designation U.MEDIDA	18757
+Designation U.Medida U.Mesure	18757
 Designation and Protection of CNII Order	10721
 Designation and Protection of CNNI Order	10721
 Designation of Compressed Earth Blocks	16900
@@ -329,9 +352,11 @@ Designation of Startup Ecosystem Builder	14024
 Designation of Systems	12938
 Designations	11129
 Designations of National Operator	16835
-Designação	9799,956,28,578,12,46,11,3928,33,49
+Designação	9799,956,28,578,12,46,11,3928,33,49,3312,5,11,10
+Designação Artigo	18751
 Designação Descrição	2816
-Designed	562,230,844,70,1210,329,13,99,52,623,34,264,334,657,21,77,94,164,494,332,90,239,153,8,305,1751,344,6,230,77,316,9,339,478,499,828,173,55,8,631,15,23,93,103,257,259,77,282,616,24,21,2115,189,246,234,91,219,56,275,235
+Designação U.Medida	18757
+Designed	562,230,844,70,1210,329,13,99,52,623,34,264,334,657,21,77,94,164,494,332,90,239,153,8,305,1751,344,6,230,77,316,9,339,478,499,828,173,55,8,631,15,23,93,103,257,259,77,282,616,24,21,2115,189,246,234,91,219,56,275,235,338
 Designed and Hosted	13518
 Designed for Ethiopia	12215
 Designed for Real-World Use	11987
@@ -340,7 +365,7 @@ Designeid.com Cover	12142
 Designer	2668,9691,3853
 Designer de Convivência Humano-Máquina	2816
 Designers	1988,828,6307,2124,1268,846,1638
-Designing	745,1351,2253,90,75,1306,1118,8,1076,583,632,502,321,210,105,388,234,20,116,354,375,65,81,232,15,1,706,726,877,846,218,84,1154,18,30,7,235,591,622,76,24,214,1
+Designing	745,1351,2253,90,75,1306,1118,8,1076,583,632,502,321,210,105,388,234,20,116,354,375,65,81,232,15,1,706,726,877,846,218,84,1154,18,30,7,235,591,622,76,24,214,1,82,5
 Designing AI	16050
 Designing CPD Programs for Teachers	13070
 Designing Culturally Aligned AI Systems	6948
@@ -355,7 +380,12 @@ Designing for Failure	7678
 Designingasupervised	8606
 Designs	9123,3038,2920,1841,21,1591
 Desigualdade	2816,7949,10,651
-Desigualdades	11569,4115
+Desigualdade de Gênero	18763
+Desigualdades	11569,4115,3078
+Desigualdades Nacional	18762
+Desigualdades O Inquérito de Indicadores Múltiplos	18762
+Desigualdades Região	18762
+Desigualdades Tipos	18762
 Desiinotoire	15429
 Desinformação	17082,279
 Desinforme	16898
@@ -376,7 +406,7 @@ Desistência Angola	10766
 Desistência Angola Bengo	10766
 Detailed Design	12358
 Develop Clear Investment Project Design	17260
-Development Objectives and Design	16614
+Development Objectives and Design	16614,2140
 Devices Design	18485
 Diagnostic Tools Inclusion Design Ecosystem Stakeholder	13005
 Digital Arts and Design	16046
@@ -476,7 +506,7 @@ IDEA USAID Innovation Design	17011
 IGO. Design	16941
 INDICATORS PROJECT DESIGN DECISIONS Component	16144
 INITIATIVES DESIGNATION COUT ESTIMATIF EN USD	13341
-IV. OTHER DESIGN AND APPRAISAL ISSUES	15924
+IV. OTHER DESIGN AND APPRAISAL ISSUES	15924,2927
 Implementation Design	10901
 Implementation Design and Roadmap	10901
 Improve Map Design	15867
@@ -532,9 +562,11 @@ Mecanismo de Designação	11430
 Member Report Presenters Name Designation Agenda	17317
 Members Framework B Design of Monitoring for High-level	961
 Methodology and Convening Design Trust Architecture	11138
+Million Dbs. DESIGNAÇÃO	18757
+Million USD DESIGNAÇÃO	18757
 Miss SAMBAT Patricia Marie Desiree Assistant	14770
 Moderate Moderate Technical Design of Project	16638,1835
-Moderate Technical Design of Project	6928,3942,1118,2992,1916,26,78,96,374,434,102,127
+Moderate Technical Design of Project	6928,3942,1118,2992,1916,26,78,96,374,434,102,127,676,8
 Moderate. Technical Design of Project	11965
 Modest for M&E Design. M&E	16436
 Modular Design	11987
@@ -600,6 +632,7 @@ Partners II. System Design	18531
 Passports Desired	11986
 Patent and Industrial Design Act	18466
 Patents and Industrial Designs Act	18446
+Patents and Industrial Designs. Trademarks	18797
 People-Centered Service Design. The Single Portal	12008
 Planning and Design	14855
 Planning and Design Considerations	1988
@@ -624,7 +657,7 @@ Progress Against the Desired Impact	18125
 Progress Against the Desired Outcome	18125
 Progress Against the Desired Outcome Niger	18125
 Progress Against the Desired Outcome UNHCR	18125
-Project Design	969,295,603,8901,61,135,416,145,24,11,295,110,1366,1,1605,435,39,80,24,3,35,68,37,1,2,82,401,240,230,258,77,311,181,663,189,8
+Project Design	969,295,603,8901,61,135,416,145,24,11,295,110,1366,1,1605,435,39,80,24,3,35,68,37,1,2,82,401,240,230,258,77,311,181,663,189,8,476
 Project Design Conditions for Effectiveness Residual Risk	10829
 Project Design Enhance	16949
 Project Design Residual Risk Rating INHERENT	15518
@@ -638,6 +671,7 @@ Protection for Designated Startups	14024
 Protocol LLD Low Level Design MDAs	13185
 Província Reprovados Desistidos Angola Bengo Benguela	10766
 Província Reprovados MF M F Desistidos	10766
+Príncipe. All Rights Reserved. Designed	18769,2
 Quantitative Engineering Design	12240
 Quarterly and Annually Desired	11986
 Questionnaire Design	17367
@@ -674,6 +708,7 @@ S A Designated Account	10829
 S4 DESIR CNE EMGA	17841
 SAMPLE DESIGN	15244,3
 SAMPLING DESIGN	15574,1553
+SENAPIQ. All Rights Reserved. Designed	18837
 SENI-Plus Designated Account	10829
 SGG PORTANT DESIGNATION DES MEMBRES	16616
 SN TITLE SURNAME NAME DESIGNATION MINISTRY	14770
@@ -704,6 +739,7 @@ Startup Designation	14024
 Startup Ecosystem Builder Designation	14024
 Startup Ecosystem Builder Designation Shall	14024
 Strategic Partner Designed	18039
+Strategies and Policies Technical Design of Project	18792
 Strategy and Business Systems and Digital Design and User	6832
 Strategy and Design	11006,1
 Strategy and Design Consider	11007
@@ -732,16 +768,19 @@ System Design and Development	13037
 System Design and Procurement	18531
 Systems Architecture Design and Modernization Framework	12758
 Systems Design	12917
+SÃO TOMÉ E PRÍNCIPE APRESENTA DESIGUALDADES	18781
+TABLISSEMENTS DE L' ENSEIGNEMENT DESIGNAÇÃO	18757
 TCCF TCCD- Tier Certification of Design Documents	6432
 Table of Contents Digital Lilangeni Design Paper	11130
 Technical Design	6539,4425,3946,501,248,485,254
 Technical Design M N	11469
 Technical Design of Program	11905
-Technical Design of Project	969,898,1737,2935,4229,61,135,416,37,108,35,295,50,1426,1,1605,39,214,363,68,37,3,483,240,565,1155,94,95,8
+Technical Design of Project	969,898,1737,2935,4229,61,135,416,37,108,35,295,50,1426,1,1605,39,214,363,68,37,3,483,240,565,1155,94,95,8,476
 Test Design	5665
 Theorizing About the Design of Information Infrastructures	5700
 Tier III Design	6419,612,285,8845,619
 Tier III Design Par	16780
+Tourism Survey Methodological Design	18846
 Triple Helix Curriculum Design	4528
 Tunisia. Designed	1213
 UDL Universal Design for Learners UNESCO United	13991

@@ -73,6 +73,7 @@ Bangladesh Forecast-Based Financing	11156
 Bangladesh’s Forecast-Based Financing	11156
 Bank Certified Check Foreign	13527
 Bay Forex Bureau and Standard Chartered Bank	6946
+Belgium’s Ministry of Foreign Affairs	18869
 Benin Foreign Minister and Chinese Ambassador. RMB	715
 Benin’s Ministry of Foreign Affairs	4292
 Black Forest Labs	8530
@@ -134,6 +135,7 @@ Central African Forest Initiative	15661,1335,58
 Central African Republic Cassava Production Forecast	15838
 Central African Republic Commercial Forests Briefing	10841
 Central Agriculture Research Institute FDA Forestry	17043
+Central Bank. Foreign	18797
 Certain Financial Forecasts	7198
 Certificate of Registration of Foreign Company	14891
 Chairperson's Foreword	408
@@ -413,7 +415,7 @@ FORETS	15936,163
 FORETS ET DE LA FAUNE	15999
 FOREWARD	16921
 FOREWARD BY THE PRIME MINISTER	14879
-FOREWORD	34,684,291,805,965,3653,506,4042,606,858,85,177,53,143,12,3,6,18,6,17,9,322,25,100,224,321,559,249,84,30,60,116,22,94,68,493,1230,146,22,97,132,503,584,21,3,146,44
+FOREWORD	34,684,291,805,965,3653,506,4042,606,858,85,177,53,143,12,3,6,18,6,17,9,322,25,100,224,321,559,249,84,30,60,116,22,94,68,493,1230,146,22,97,132,503,584,21,3,146,44,128
 FOREWORD AND EXECUTIVE SUMMARY SUMMARY	13420
 FOREWORD As Kenya	6432
 FOREWORD BY THE CHAIRPERSON	16968
@@ -483,6 +485,7 @@ First Foreign Office Consultations	13562
 First India-South Sudan Foreign Office Consultations	18658
 Fisheries Forestry	17235
 Fisheries Monitoring Centre FX Foreign	17105
+Fisheries and Forestry	18770
 Fisheries and Forests	10960,7333
 Fishing and Forestry FY17	15731
 Fishing and Forestry Other Agriculture	15601
@@ -522,7 +525,7 @@ Forecasts for LTE	236
 Forefront	17106,81,79
 Forefront of Environmental Action Across UNDP Namibia	9873
 Forefront of Transformation Videos Rising Up for SIDS	11332
-Foreign	7,229,159,2002,62,317,50,87,157,417,96,71,391,81,1,455,359,28,13,262,411,209,544,15,246,268,1,12,598,668,85,539,64,32,107,356,171,23,37,22,20,67,284,107,27,178,403,55,6,42,139,151,2,1,2,54,34,74,171,55,26,142,231,32,1,44,6,36,109,24,52,42,1,45,98,7,25,45,6,272,3,33,78,142,29,148,113,32,11,30,74,71,13,323,80,9,28,23,16,108,75,214,315,48,1,8,103,101,61,44,34,43,163,278,592,25,614,1,90,18,12,6,160,11,87,21,164,274,78,490,181,9,88,56
+Foreign	7,229,159,2002,62,317,50,87,157,417,96,71,391,81,1,455,359,28,13,262,411,209,544,15,246,268,1,12,598,668,85,539,64,32,107,356,171,23,37,22,20,67,284,107,27,178,403,55,6,42,139,151,2,1,2,54,34,74,171,55,26,142,231,32,1,44,6,36,109,24,52,42,1,45,98,7,25,45,6,272,3,33,78,142,29,148,113,32,11,30,74,71,13,323,80,9,28,23,16,108,75,214,315,48,1,8,103,101,61,44,34,43,163,278,592,25,614,1,90,18,12,6,160,11,87,21,164,274,78,490,181,9,88,56,200
 Foreign AI	4528,7984
 Foreign Account Tax Compliance Act	6524,1,5160
 Foreign Adversaries Act	11154
@@ -569,7 +572,7 @@ Foreign Companies Income	12483
 Foreign Companies Institution Consultants	12325
 Foreign Company	11976
 Foreign Company Branch	14891
-Foreign Control and Right	14008,28,385,2551
+Foreign Control and Right	14008,28,385,2551,1825
 Foreign Corrupt Practices Act	3583
 Foreign Courts and Representatives	12389
 Foreign Crew Members and Service Providers	12389
@@ -583,13 +586,14 @@ Foreign Currency Revaluation Losses	17236
 Foreign Currency-Backed	12882
 Foreign Digital Services Guinea	6342
 Foreign Diplomats	17537
-Foreign Direct Investment	377,2494,991,462,204,1355,126,3752,1549,1066,299,310,138,409,1212,75,288,1865,3,21,130
+Foreign Direct Investment	377,2494,991,462,204,1355,126,3752,1549,1066,299,310,138,409,1212,75,288,1865,3,21,130,1671,54
 Foreign Direct Investment Agreements	12512
 Foreign Direct Investment Equatorial Guinea	16972
 Foreign Direct Investment Eritrea	14008
 Foreign Direct Investment FOI Freedom of Information	17139
 Foreign Direct Investment G2B	17870
 Foreign Direct Investment The Eritrean	14008
+Foreign Direct Investment The Value-Added Tax	18797
 Foreign Direct Investment and Development	11310
 Foreign Direct Investment. Agriculture	17216
 Foreign Direct Investment. Local	17139
@@ -602,26 +606,30 @@ Foreign Embassies and High Commissions	11956
 Foreign Embassy	17108
 Foreign Enterprise and Forced Divestment	11310
 Foreign Equity	14997
-Foreign Exchange	4896,2564,338,3333,5841,498,439,81
+Foreign Exchange	4896,2564,338,3333,5841,498,439,81,807
 Foreign Exchange Act	587,6353,820,5300
+Foreign Exchange BCSTP	18797
 Foreign Exchange Bureaus	17235
 Foreign Exchange Development	13122
 Foreign Exchange FX Any	12364
+Foreign Exchange Law	18797
 Foreign Exchange Loss	14546
 Foreign Exchange Management	13122,352
 Foreign Exchange Management Act	17138
 Foreign Exchange Market Developments	17104
 Foreign Exchange Monitoring and Orchestration Unified System	14124
+Foreign Exchange Operations	18797
 Foreign Exchange Organizations	14008
 Foreign Exchange Rate Fluctuation Adjustments	12256
 Foreign Exchange Rates	1154,1621,276,1845,8157
 Foreign Exchange Rates File	12454
 Foreign Exchange Rates. The Directors	4896
 Foreign Exchange Rates1	2775
+Foreign Exchange Regulations	18797
 Foreign Exchange Reserves	2775,10699
 Foreign Exchange Risk Foreign	11134
 Foreign Exchange Risks	12399
-Foreign Exchange and Remittances	16972
+Foreign Exchange and Remittances	16972,1825
 Foreign Financial Institutions	13532
 Foreign Fintech	14819
 Foreign Firm	12389
@@ -636,7 +644,7 @@ Foreign Human	16942
 Foreign ID	11298
 Foreign Identity Cards	12291
 Foreign Inflow Foreign	6408
-Foreign Investment	5765,6611,1660,2936
+Foreign Investment	5765,6611,1660,2936,1825
 Foreign Investment Law No	14891
 Foreign Investment Policies Towards Foreign Direct	14421
 Foreign Investment Protection Agreement	10120
@@ -649,6 +657,7 @@ Foreign Loans	13093
 Foreign Loans and Grants	15790
 Foreign MTN Rwandacell Plc	15136
 Foreign Minister	2667,13618,364
+Foreign Minister Amado Vaz	18879
 Foreign Minister Dr. Badr Abdelatty	14657
 Foreign Minister Dr. Samura Kamara	18563
 Foreign Minister Kalla Ankourao	18220
@@ -668,6 +677,7 @@ Foreign Minister of Guinea	16649
 Foreign Minister of Mali	18016
 Foreign Minister of Mali Mr. Tiébilé Dramé	18016
 Foreign Minister of Oman	14808
+Foreign Minister of Sao Tome	18857
 Foreign Ministers	13744,2905
 Foreign Ministers of Somalia	15119
 Foreign Ministers. Functional	16331
@@ -745,7 +755,8 @@ Foreign Trade Single Window	5568
 Foreign Trade Statistics GDDS	14857
 Foreign Trade Title	11939
 Foreign Trade Trade Openness Trade Openness	5247
-Foreign Trade Zones	14008,2964
+Foreign Trade Zones	14008,2964,1825
+Foreign Trade and Development Cooperation	18869
 Foreign Trade and Services	5366
 Foreign Trade and Trading	5247
 Foreign Travel Tax Act	18466
@@ -766,7 +777,7 @@ Foreign-currency	10718,2164
 Foreign-exchange	10464,254,3489
 Foreign-owned	8458,2280,2174,4060
 Foreign...........................................36	13461
-ForeignRelation	13744,1640,780,92,19,10,364,591,1,775,204,158,185,128
+ForeignRelation	13744,1640,780,92,19,10,364,591,1,775,204,158,185,128,166
 Foreigner Card	16983
 Foreigner Cards	16983
 Foreigner ID	2770,9471,4742
@@ -942,7 +953,7 @@ Forestry and Tourism	9353
 Forestry and Wildlife Authority	14089,54
 Forestry-based	17043
 ForestryFraud	11215
-Forests	1988,8771,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1074,1567,243,101,128,1013,239,143,144
+Forests	1988,8771,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1074,1567,243,101,128,1013,239,143,144,1711
 Forests Act	13403
 Forests Act No.4	1988
 Forests Land	10837,1315,188
@@ -954,7 +965,7 @@ Forests1	2775
 Foret	643
 Forets	16103,518
 ForewOrd South Africa	396
-Foreword	396,186,358,423,2496,669,320,396,2,840,340,2248,351,1739,80,292,52,9,1,39,13,15,67,231,588,81,1,123,47,10,99,140,107,161,33,52,48,113,189,4,23,3,33,125,138,184,24,99,10,5,521,22,188,11,30,37,7,77,20,6,37,97,8,56,9,115,3,224,1403,12,35,14,6,2,7,42,124,144,29,454,380,321,17,24,47,85,40
+Foreword	396,186,358,423,2496,669,320,396,2,840,340,2248,351,1739,80,292,52,9,1,39,13,15,67,231,588,81,1,123,47,10,99,140,107,161,33,52,48,113,189,4,23,3,33,125,138,184,24,99,10,5,521,22,188,11,30,37,7,77,20,6,37,97,8,56,9,115,3,224,1403,12,35,14,6,2,7,42,124,144,29,454,380,321,17,24,47,85,40,139
 Foreword As the Joint Government	13977
 Foreword Betty Pamela Wabunohua Resident Representative	17101
 Foreword Botswana	12541
@@ -1112,14 +1123,16 @@ Institutions and Foreign Direct Investment	11310
 Instituto de Desarrollo Forestal	16875
 Intact Forest	17140
 Integrated Forecasting System EPA Environmental Protection	18578
+Integrating Forensic Techniques	18774
 Integration of Forest Products Revenue Management Systems	11639
 Interim Secretary General of Minister of Foreign Affairs	13791
 Interior and Foreign Affairs	17264
 Intermediate Level Certified Forensic Examiner	15662
 Intermediate Level Computer Hacking Forensic Investigator	15662
 Intermediate Level GIAC Certified Forensic Examiner	15662
-International Commercial Arbitration and Foreign Courts	14008,2964
+International Commercial Arbitration and Foreign Courts	14008,2964,1825
 International Commercial Arbitration and Foreign Courts Law	16972
+International Commercial Arbitration and Foreign Courts São	18797
 International Organizations and Foreign Governments	13122
 International and Foreign Standards	13705
 Inventaire National Forestier	18150
@@ -1296,7 +1309,7 @@ Ministry of Agriculture and Forestry	1161,10237,7078,7
 Ministry of Education FOREWORD The Rwanda Education	12411
 Ministry of Environment and Forestry	3583,9106
 Ministry of Foreign	4126,7834
-Ministry of Foreign Affairs	11,576,38,438,1,179,965,459,69,760,796,236,112,607,617,409,444,382,651,1232,317,59,480,289,336,33,71,142,132,294,19,333,85,149,204,14,21,120,108,38,112,624,15,116,238,27,158,453,28,137,432,176,9,19,23,26,11,17,27,35,26,137,52,269,99,114,119,606,318,181,13,15,2,10,4,47,33,29,2,52,42,26,5,47,77,6,20,32,38,366,1045
+Ministry of Foreign Affairs	11,576,38,438,1,179,965,459,69,760,796,236,112,607,617,409,444,382,651,1232,317,59,480,289,336,33,71,142,132,294,19,333,85,149,204,14,21,120,108,38,112,624,15,116,238,27,158,453,28,137,432,176,9,19,23,26,11,17,27,35,26,137,52,269,99,114,119,606,318,181,13,15,2,10,4,47,33,29,2,52,42,26,5,47,77,6,20,32,38,366,1045,101
 Ministry of Foreign Affairs Minister of Foreign	17110
 Ministry of Foreign Affairs Monrovia	4202
 Ministry of Foreign Affairs Mr. Adelaid Ben	13744
@@ -1321,6 +1334,7 @@ Ministry of Foreign Affairs of Japan	11154
 Ministry of Foreign Affairs of Malawi	12983
 Ministry of Foreign Affairs of Morocco	14235
 Ministry of Foreign Affairs of Qatar	14668
+Ministry of Foreign Affairs of Sao Tome	18857
 Ministry of Foreign Affairs. Inbound	15492
 Ministry of Foreign Aﬀairs	11135
 Ministry of Foreign Aﬀairs MICSTI	12674
@@ -1439,6 +1453,9 @@ Nouakchott. Foreign Affairs Minister Mohamed Salem	7190
 Nowcasting and Very Short Range Forecasting	16077
 Nowcasting and Very Short Range Forecasting Satellite	16077
 Nuclear Forensics	14745
+Numerical Model and Forecasting	18787
+Numerical Weather Forecast Model and Forecast Tool	18787
+O Informática Forense Guide	18774
 O SSR IS FORESTIERE	15999
 O the Minister of Foreign Affairs	18457
 ONAPE. Foreigners	10841
@@ -1488,13 +1505,16 @@ Prime Cabinet Secretary and Cabinet Secretary for Foreign	10313,4332
 Prime Minister Sam Matekane and Minister of Foreign	11053
 Principal Planning Officer Ministry of Foreign Affairs	12972
 Principal Secretary for Foreign Affairs Dr. Korir	14668
+Principe Foreign Minister	18857
+Principe Minister of Foreign Affairs	18857
 Private Sector Foreign	16996
 Private Sector Foreign Investment and Investor Perceptions	13532
-Professional Course for Foreign Diplomats	13744,1713
+Professional Course for Foreign Diplomats	13744,1713,3400
 Programa Nacional de Acción Forestal	16875
 Property Records The Ministry of Foreign Affairs	10496
 Protected Forest Areas Network	17114
 Protocol for Foreign Office Consultations	17241
+Protocol for Foreign Office Consultations. Mr. Alfonso	18857
 Providers Foreign	14785
 Proyecto de Desarrollo Forestal Comunitario	4209
 Proyecto de Inventario Forestal	4209
@@ -1523,7 +1543,7 @@ Rangeland and Forest	17157
 Rangeland and Forest Certify	17157
 Rangeland and Forest Partner	17157
 Rangeland and Forest Starting	17157
-Recognition and Enforcement of Foreign Arbitral Awards	14008,2964
+Recognition and Enforcement of Foreign Arbitral Awards	14008,2964,1825
 Recorded Sale of Government Forest Products	2775
 Recurrent Foreign Affairs	1777
 Recursos Forestales Mundiales	16875
@@ -1588,6 +1608,7 @@ SMART AFRICA SECRETARIAT FOREWORD	10819
 SUMMURY FOREWORD	10980
 Sales Forestry	17043
 Santos Lucas Minister of Forei	4260
+Sao Tomean Foreign Minister	18857
 Satellite Forest Monitoring	15500
 Saudi Arabia's Minister of Foreign Affairs	14645
 Saudi Foreign Ministry	13959
@@ -1653,13 +1674,14 @@ Summit. EG Foreign Minister	17240
 Supporting Impact-Based Forecasting	16371
 Surveillance du Couvert Forestier	15366
 Sushma Swaraj Foreign Service Institute	17240
-Sushma Swaraj Institute of Foreign Service	13744,47,1328
+Sushma Swaraj Institute of Foreign Service	13744,47,1328,3738
 Sushma Swaraj Institute of Foreign Services	18378
 Sustainable Forest	17140
 Sustainable Forest Management	17140
 Sustainable Management of Forests	17140
 Sustainable Management of Forests Land	17140
 Swamp Forest Woodland Savanna Sparse	16996
+São Tomé and Príncipe. Foreigners	18797
 TABLE OF CONTENT FOREWORD	7548,7437
 TABLE OF CONTENTS FOREWORD	34,1127,9819,1594,127,263,2123,92,1791,169
 TABLE OF CONTENTS Foreword	15036
@@ -1696,10 +1718,12 @@ Trade and Foreign	16996
 Transboundary Forest Complex	17114
 Tropical Forest Alliance and Government of Norway	16848
 Tropical Moist Forest	16463
+Trovoada Ministry of Foreign Affairs	18790
 Type of Building for Foreign Firms	12389
 Type of Service Indicator Baseline Forecast	236
 UAE Minister of State for Foreign Affairs	14064
 UAE-President-of-Guinea Ministry of Foreign Affairs Skip	16622
+UAE-Sao-Tome-and-Principe Ministry of Foreign Affairs Skip	18759
 UK Foreign	2590,4296,1156,2011,950,130,864,3067
 UK Foreign Commonwealth	12191
 UK Foreign and Commonwealth Development Office	11142,7346,89

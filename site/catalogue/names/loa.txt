@@ -164,7 +164,7 @@ Higher Education Loans Board	1838,10474
 Higher Education Students' Loans and Grants Board	13030
 Higher Education Students’ Loans Board	3460
 Higher Loans Board	12149
-Historical Disbursed Loan	11395
+Historical Disbursed Loan	11395,7397
 Home Ownership Scheme and Home Loan Payment	14742
 Home Ownership and Home Loan Payment Schemes	14761
 IBRD LOAN	15511
@@ -189,6 +189,7 @@ IFC Loan	284,403
 IFC Senior Secured Loan	889
 IHS Nigeria Tower Expansion Loan	80
 IV Loandjili	15379
+Inclusion Strategy NPL Non-Performing Loan OTOCA	18825
 Inclusive Growth and Diversification Development Policy Loan	10768
 Information Letter DPL Development Policy Loan	10768
 Institutional Arrangement Yes Clients Yes Loan	18359
@@ -282,9 +283,10 @@ Loan Cancellations	11965
 Loan Cancellations No Development Objective	15969,2390
 Loan Cancellations No Legal Operational	16187
 Loan Closing Date	1228,56,14317,62,1233,26,927,13
-Loan Closing Date Extension	2473,9451,41,1896,4101
+Loan Closing Date Extension	2473,9451,41,1896,4101,863
 Loan Closing Date Extension Loan Cancellations	16032
 Loan Closing Date Extension No Components	15969
+Loan Collateral. Despite	18825
 Loan Currency	11863,4356
 Loan Distribution	17235
 Loan Guarantee Fund	12297
@@ -327,6 +329,7 @@ Loans Financial	15578
 Loans Financial Inclusion Services Paving and Stabilizing	15578
 Loans Financial Inclusion Services Road Paving	15578
 Loans Sources	17257
+Loans System ICR	18825
 Loans and Advances Sector Shares1	2775
 Loans and Advances1	2775
 Loans and Credit Facilities	17236
@@ -354,7 +357,7 @@ MILLION IBRD LOAN	15511
 MRTG Loading	12283,3290
 Management of Loans	5883
 Manual Load Reduction	11953
-Marga de Loayza	10765,10
+Marga de Loayza	10765,10,8004
 Mechanism APL Adaptable Program Loan AReg4DT	1264
 Medicines Wellness Coverage Providers Loading	9429
 Medium Enterprises Small Scale Enterprise Loan	11131
@@ -424,6 +427,7 @@ RATE AVG PERSONAL LOAN RATE AVG	17235
 RCIP Adaptable Program Loan	15411
 Recent Bulletins Loading	17136
 Regions Sandy Loamy Clay Don't Know	17043
+Regulation Agency APL Adaptable Program Loan	18754
 Related Content Loading	17178,153,1195
 Republic of Cabo Verde Loan No	8166
 Research and Statistics Department Balance of Loans Advenced	17236

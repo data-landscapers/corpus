@@ -312,6 +312,8 @@ Plan and Budget API Application Programming Interface	16949
 Provide APIs	6423
 Pulse API	15166
 Qualquer API	16321
+R W3C Geolocation API Specification	18774
+R W3C Metadata API for Media Resources	18774
 REST API	9480,2924,3896,1669
 REST API Design Standards	11952
 REST APIs	7266,9673

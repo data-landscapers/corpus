@@ -24,6 +24,7 @@ Cancel Report Ad Violent Disturbing Offensive	4790
 Caractéristique Violence Violence Violence Violence Violence	13300
 Central African Republic Gender-based Violence	15658
 Centre for Domestic Violence Cases	16600
+Centro de Aconselhamento Contra Violência Doméstica	18812
 Civil Liberties for Women Absence of Violence	10759
 Commission for Combating Violence Against Women	15039
 Complaint Concerning Violation	5113
@@ -61,6 +62,7 @@ Développe Violence Manifes	15715
 EXPÉRIENCE DE DIVERSES FORMES DE VIOLENCE	13300
 Elimination of Gender Based Violence	14742
 Elimination of Gender-Based Violence	14742,9
+Eliminação da Violência	18820
 Ending Violence	13040
 Ending Violence Against Children	10776
 Enfants VFE Violences Faites	15746
@@ -107,7 +109,7 @@ Gender Based Violence and Sexual Exploitation and Abuse	1988
 Gender Based Violence and Social Safety Nets	15601
 Gender- Based Violence	17099
 Gender-Based Violence	1228,5721,2,4279,187,1359,201,497,1268,313,498,106,1292,148,15,472,376,408,142,20
-Gender-Based Violence GDP Gross Domestic Product	16896
+Gender-Based Violence GDP Gross Domestic Product	16896,1881,32
 Gender-Based Violence GIPM	14760
 Gender-Based Violence GPEI	10776
 Gender-Based Violence Gross Domestic Product Geo-Enabling	15658
@@ -152,6 +154,7 @@ LES VIOLENCES	13300
 Lagos State Domestic and Sexual Violence	2445
 Law Against Domestic Violence	12201
 Legal Violations	5665
+Lei da Violência Doméstica	18812
 MESURE DE LA VIOLENCE	13300
 MODULE SUR LA VIOLENCE DOMESTIQUE SEULEMENT	13300
 MODULE SUR LES VIOLENCES	13300
@@ -218,6 +221,7 @@ SI L'ENQUÊTE SUR LES VIOLENCES N'A	13300
 SOP Series of Projects VAC Violence Against	17099
 SUSTAIN A VIOLENCE KNOWLEDGE CENTRE	12939
 Score Rank Absence of Violence	10837,131,1184
+Sexual Abuse and Gender-Based Violence Brigade	18868
 Sexual Gender-Based Violence	18615
 Sexual Offences and Domestic Violence Act	12939
 Sexual Offences and Domestic Violence Regulations	12939
@@ -293,7 +297,7 @@ Violation of Street Naming Standard and Guidelines	11129
 Violations	3021,1589,753,2053,2439,2306,1963,741,509,1783
 Violations and Penalties	4610,10281
 Violators	5696
-Violação	14,525,255,2725,7906,3967,41,17,59
+Violação	14,525,255,2725,7906,3967,41,17,59,3241,5
 Violação Fronteiriça Aquela	11528
 Violação da Livre Iniciativa Os Artigos	11436
 Violence	1264,724,6214,1467,84,1006,70,6,2,1,130,501,401,16,1,1,1,263,1,1,9,177,1,11,1,135,451,38,323,12,2,1110,1,63,1,1,470,16,120,94,152,279,122,105,60,476,260,297,10,7,156,820,49,458
@@ -360,8 +364,8 @@ Violette SABUKUNZE Martin	13300
 Viololion	15429
 Violotion	15429
 Violotion de I'obligotion	15429
-Violência	10760,17,610,3,42,47,83
-Violência Baseada	11406,7,149,1235,3158
+Violência	10760,17,610,3,42,47,83,7200,20,38
+Violência Baseada	11406,7,149,1235,3158,2827,38
 Violência Doméstica	10777
 Violência Doméstica Mulheres	10760
 Violência Iniciada	10777

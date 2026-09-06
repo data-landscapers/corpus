@@ -1,5 +1,5 @@
 A. D. M. Nguyen	11140
-A. M	6832,1839,2047,1615,134,1157
+A. M	6832,1839,2047,1615,134,1157,5163
 A. M. Mashood	11036
 A. M. Mashood Attorney-at-Law	11036
 A. M. Ross and E. Werker	1828
@@ -195,6 +195,7 @@ DDI Document ID DDI GIN 2024 FINDEX v02 M WB Producers Date	16665
 DDI Document ID DDI GMB 2024 FINDEX v02 M WB Producers Date	17045
 DDI Document ID DDI MRT 2024 FINDEX v01 M WB Producers Date	17925
 DDI Document ID DDI SDN 2025 WMS-R4 v01 M WB Producers Date	15024
+DDI Document ID DDI STP 2025 WBES v01 M WB Producers Date	18838
 DIO U M A TE N	17828
 DIRECTION GENERALE Lot III M	9744
 DISPOSITIONS DIVERSES ET FINALES M. NKOUA	15660
@@ -252,7 +253,7 @@ E PA R T M	12500
 E R E M A R	14947
 E S SYS T E M	13841
 E T S A M	18121
-E. M	4676,673,3322,2379,85,5,170
+E. M	4676,673,3322,2379,85,5,170,7499
 E. Mr. Koffi ESAW M	11517
 ECCE.2 Malik M. GARAD	13885
 ELIAS M. MAGOSI SADC EXECUTIVE SECRETARY	9761
@@ -370,7 +371,7 @@ H.E. President George M. Weah	16943
 HHNGE Kenneth M. Green Team Member	16922
 HON. PROF M. NCUBE	13526
 Habib SY Indépendant M	18310
-Hafez M. H. Ghanem Country Director	11380,475,926,550,4773
+Hafez M. H. Ghanem Country Director	11380,475,926,550,4773,661,12
 Hafez M. H. Ghanem Ousmane Diagana	17962
 Hakimi M	8460
 Hanin M Ibrahim Bushosha Ahmed ABUSNEINA	17403
@@ -386,6 +387,7 @@ Henry M Sumo By Henry Sumo	17159
 Henry M Sumo Government of Liberia Presents	17311
 Herce M. Effects	10784
 Hewett M	10919
+Homme M Sexo	18757
 Hon. Chernor R. M. Bah	18455
 Hon. M. C. Mohwasa	12607
 Hon. M. Dinha	13591
@@ -409,6 +411,7 @@ ID M	18418
 IDA FM M Entity	3604
 IDs and Class M	12227
 IFRs M	3604
+INE DE ESTATISTICA M	18802
 INFANTERIE M. PENDZAMOYE TSOMBO	15744
 INFQ INFQE INIDE LBSEE M MED	10766
 INHERENT RISK M M Budgeting Delay	15411
@@ -427,6 +430,7 @@ Industrie M. Abdoulaye Seydou	18247
 Industries M	17829
 Information Minister Jerolinmek M. Piah	11720
 Information Sociale M. Samuel Michel Yameogo	10812
+Information Technology M	18825
 Information. M. Adji Ali Salatou	3337
 Infrastructure Ing. Sahr M. Sewah	18444
 Instituição de Ensino Superior ISCEE ISCJS M EIA	16166
@@ -458,6 +462,7 @@ Kemal M. Factors	1219
 Khalifa Ababacar SALL Taxawu Senegal M	18310
 Khan S. and Isingoma M	13314
 Khavkin M	8460
+Kilomètre M Metro	18757
 Kirkevold M. Conditions	1219
 Kovačević M	12255
 L AUTRE SECTEUR MÉDICAL PRIVÉ M	13300
@@ -493,6 +498,7 @@ Lumpa M	10784
 L’INVITE DU TRIMESTRE Directeur du CNDIFE M	18077
 L’INVITE DU TRIMESTRE M. Ousmane CISSE	17978
 M A A CK PETRO LEU	18322
+M A D R	18757
 M A L A B	16250
 M A U R I T	14736
 M A-loan	889,235,1,392
@@ -579,7 +585,7 @@ M Data Centre and AI Expansion	4504
 M Dec	912
 M Digital Connectivity Loan DFC	1435
 M Dimitri BOTONGO MABEKI	15685
-M Disbursed	16614
+M Disbursed	16614,2140
 M Disbursed IDA	2989
 M Distribution and Access Project	1538
 M Dr. Alain NDIKUMANA	13587
@@ -613,7 +619,7 @@ M Eliot MANIMA-MOUKONO	15685
 M Enabel-managed	256
 M Engineering Hub Nairobi and Lagos Microsoft	388
 M Environment	11469
-M Environmental Category	16614
+M Environmental Category	16614,2140
 M Equity DFC	623,209,228,1
 M Equity Fund Google	673
 M Equity Investment	701
@@ -664,6 +670,7 @@ M Ghyslain KOUENDZE	15685
 M Gilbert Bruno Ernest MOKONGO AMOTONA	15685
 M Government	17962
 M Government Environment	7548
+M Grant	18862
 M Growth Investment	1054
 M Guatemala LATIN W AMERICA M	11004
 M H F M H F	13390
@@ -3441,6 +3448,7 @@ Mahlatse M. Shekgola. Disclaimer	8021
 Mail M. Jean Armand Yanogo Directeur	10812
 Majaha M	12255
 Majumder M	17773
+Makhtar Diop Hafez M. H. Ghanem	18765
 Makoutodé M	766
 Malawi M	13095
 Mamadou Lamine DIALLO Mouvement Tekki M	18310
@@ -3668,6 +3676,7 @@ Ramirez M	1219
 Rapid Response Option. M N	11469
 Re M	15999
 Reema Idrees M TARBAH Omima	17403
+Ref. STP 2025 WBES v01 M. Dataset	18838
 Reference ID SDN 2025 WMS-R4 v01 M DOI	15024
 Replying Affidavit of Haretha M. Bulle	14460
 Reprovados M	10766
@@ -3699,6 +3708,7 @@ S S M	15707
 S S Overall Risk M M	16922
 S T A T E M	12674
 S T M IN I S	14947
+S U M	18752,1,2,3,3,11
 S U P L E M	11527
 S. E. M. Louis-Blaise AKA-BROU	16633
 S. M	2096,1686,4823,3728,4663,161
@@ -3715,6 +3725,7 @@ SERVICES M	582
 SOURGOUBILA M	15639
 SS M START	17127
 SSD 2010-2025 JMR v01 M Title	18645,79
+STP 2025 WBES v01 M Title World Bank Enterprise Survey	18838
 Salim M. AlMalik Directeur Général	13728
 Samadbeik M	10784
 Samantha M. Constant	11572
@@ -3794,6 +3805,7 @@ T. M	2518,8615,9
 TABLE DES MATIÈRES L E M	18122
 TCAM CO M A SEL SL	18322
 TENKODOGO M	15639
+TER M OELÉTR IC A Caterpillar	18793
 TIME STAMP M END	17127
 TOEGHIN M	15639
 TROUPES DE LA RESERVE M	15744
@@ -3856,6 +3868,7 @@ Wave. Assistant Superintendent of Immigration Meita M	14260
 Wayengera M	14666
 Web of Science Google Scholar Atari M	8460
 WilmetDramaix M. Factors	766
+Wilson P. M. Piassa	18816
 World Bank Group Nathan M. Belete	11839
 XX M	18032
 Y A N D M	14935

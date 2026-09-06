@@ -55,7 +55,7 @@ Abagore	13300
 Abahinga	13323
 Abahlinzeki	11573
 Abahuza	13375
-Abaixo	2816,14204
+Abaixo	2816,14204,1733
 Abajejwe	13323
 Abakar	11636
 Abakar Mahamat	2380,9256
@@ -84,7 +84,7 @@ Abandonment	11181,5754
 Abandonment of Female Genital Mutilation	11525
 Abandonment of SIM Card	15302
 Abandonner	7715,5815
-Abandono	11430
+Abandono	11430,7338
 Abandonos	16920
 Abandonos Se	16920
 Abandonos de Alumnos	16920
@@ -144,7 +144,7 @@ Addis Ababa Drivers and Vehicles Licensing	12233
 Addis Ababa Either Participant	4349
 Addis Ababa Ethiopia	12215
 Addis Ababa Ethiopia Cameroon Union	10764
-Addis Ababa Ethiopia Tel	8754,1962,1020,4994
+Addis Ababa Ethiopia Tel	8754,1962,1020,4994,2116
 Addis Ababa Ethiopia Union	10844,7279
 Addis Ababa Ethiopie Cameroun Union	17856
 Addis Ababa For the Government	4349
@@ -316,7 +316,7 @@ Pr Armand Claude Abanda	8906
 President of Addis Ababa University	14084
 Professor Abate	8529
 Professor Alessandro Abate	8529
-Projeto de Abastecimento	15755
+Projeto de Abastecimento	15755,3038
 Provis. Reprov. Sec. Abandonos Aprovados Comparticipada	10766
 PÚBLICO ABACERIAS	4209
 Quartier Abaradjou	17819
@@ -336,7 +336,7 @@ Salaam-Nairobi-Addis Ababa-Berbera-Djibouti	13867
 Saleh Abakar Zene	5398
 Says Deputy PM Addis Ababa	8920
 Silet Abalessa	15467
-Sistema de Abastecimento	1265
+Sistema de Abastecimento	1265,17528
 Speaker Abass Chernor Bundu	18563
 Strategy Addis Ababa	14051
 Strengthen Public Service Delivery Addis Ababa	14034
@@ -347,6 +347,7 @@ Système de Gestion Abattoir	15936
 TX Aban	10847
 TX Aban KOSSI TX Prom	10847
 TX Aban NORD TX Prom	10847
+Taxa de Abandono	18768
 UNESCO Addis Ababa Office	14139
 Ubuyobozi Abagize Inama	14863
 Uganda Abandons Social Media Tax	11310

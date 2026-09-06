@@ -208,6 +208,7 @@ Floating Point Operations Per Second	4126
 Focal Point	14753,2196,1421
 Focal Point Person	1778
 Focal Point for Sierra Leone	18578
+Focal Point for WMO	18787
 Focal Points	1161,14599,1339
 Focal Points for Federal Member States	14910
 Following the HIPC Completion Point	14929
@@ -280,7 +281,7 @@ Integration Points	5665
 International Signaling Point Codes	16934
 International Signaling Point Codes Assignee Assigned	16934
 International Signalling Point	6946
-Internet Exchange Point	762,2705,1081,67,1178,1407,28,3278,2203,195,441,1,358,18,304,402,130,166,140,15,9,484,52,87,740,14,280,300,4,5,18,51,900,39,8,709,54
+Internet Exchange Point	762,2705,1081,67,1178,1407,28,3278,2203,195,441,1,358,18,304,402,130,166,140,15,9,484,52,87,740,14,280,300,4,5,18,51,900,39,8,709,54,121
 Internet Exchange Point ARCEP Autorité de Régulation	15592
 Internet Exchange Point Association of Lesotho	12743
 Internet Exchange Point Emerging Technologies	7548
@@ -302,7 +303,7 @@ Internet Exchange Point of Lesotho	12709
 Internet Exchange Point of Nigeria	2754,4575,1298,3401,4517
 Internet Exchange Point. History The SIXP	16845
 Internet Exchange Point. R1	14897
-Internet Exchange Points	1264,1467,823,324,1798,4,232,1,102,153,374,3253,362,1313,30,109,1295,216,175,17,2,756,398,90,166,155,493,139,633,798,920,229,542
+Internet Exchange Points	1264,1467,823,324,1798,4,232,1,102,153,374,3253,362,1313,30,109,1295,216,175,17,2,756,398,90,166,155,493,139,633,798,920,229,542,203
 Internet Exchange Short Point	14897
 Internet Exchanges Points Accra-IX	10037
 Internet Society IXP Internet Exchange Point	15592
@@ -536,6 +537,7 @@ Point of Delivery	14867
 Point of Presence	2913,226,723,10606,396,963
 Point of Presence R&D	13956
 Point of Sale	1925,924,28,1848,1728,9,516,931,169,40,4064,1122,302,426,887,33,2080,203
+Point of Sale RAP	18770
 Point of Sale and ATM Switching	2276
 Point of Sale-POS-cards	8806
 Point of Sales	4630,50,637,6721,4904
@@ -634,6 +636,7 @@ Points Focaux TIC	13341
 Points Focaux TIC PKI Public Key	13341
 Points Focaux des Systèmes	16112
 Points Jun-24 Jun-25 ATM Number	15023
+Points Mbps Megabits	18754
 Points New Classes Mobile Libraries Literacy	15578
 Points Numériques Communautaires	17584
 Points Scored Compliance	13381
@@ -740,6 +743,7 @@ Service Point Name Long EC Alfred	11986
 Service Points	8999
 Sierra Leone Internet Exchange Point SLREN	18485
 Signaling Point Codes IT Information Technology	6946
+Signaling Transfer Point	18752
 Single Entry Point Single PA	14725
 Single Point Of Failure	17823
 Single Point of Access	12389

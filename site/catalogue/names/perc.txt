@@ -22,6 +22,7 @@ Annual A- Data Centre Compute Percentage	7548
 Annual Percentage Change Ministries	2775
 Annual Percentage Rate	13532
 Annually PRISONS Percentage	15845
+Ansiedade Depressão Percentagem	18762
 Appetite Percentage System Uptime Target Actual	13053
 Area Education Wealth Quintile National Percentage	18441
 Area Wealth Quintile National Percentage	18441
@@ -61,7 +62,7 @@ Consumer Perception Survey. Consumers	11744
 Continued Feeding for Diarrhoea Percentage	18441
 Corruption Perception	14997
 Corruption Perception Index	789,11809,2299,100
-Corruption Perceptions Index	8891,1202,2576,3972,301,1,30,132,34,731
+Corruption Perceptions Index	8891,1202,2576,3972,301,1,30,132,34,731,927
 Corruption Perceptions Index CSC County Service	17139
 Corruption Perceptions Index Country Office Development	16973
 Count Percentage Community	12413
@@ -72,11 +73,13 @@ Current Perceptions Among Senior Practitioners Seventy-two	11138
 Data Governance Act. Country Percentage	11922
 Davis FD. Perceived	10919,3747
 Definition Percentage	11986
+Desagregações Percentagem	18762
 Description Percentage	3604,7813,488,3756
 Descuentos Percibir Mensual	4209
 Digital Freedom Public Perception of Inclusion	12353
 Discrimination Public Perception of Freedom of Speech	11886
 Distribution Plc PP Percentage	12062,6124,31
+Domínios Percentagem	18762
 Down and Scattered.’ Community Priorities and Perceptions	6947
 Dr. Percy Mangoaela Chairman	12646
 ECOWAS Countries and Percentage	16935
@@ -117,6 +120,8 @@ IMF World Economic Outlook Percentage	11964
 INDICATORS AND COMPONENTS VALUES Perceptions	12389
 INTER-CENSAL PERCENTAGE CHANGE	18464
 INTERNET USE Percentage	12344
+INVESTIMENTOS E PERCENTAGENS	18791
+INVESTIMENTOS E PERCENTAGENS DAS RECEITAS INVESTIDAS	18791
 Imports Partner and Percentage	16935
 Improve Perception	17011
 Indicator Summary Perceived	15164
@@ -142,6 +147,7 @@ MINTER Percentage	15845
 MINUTES RESPONDENTS’ PERCEPTIONS	418
 MIS Percentage	11855
 MODALITES DE PERCEPTION ET DECLA TÛNS	15999
+MWh Perc	18793
 Main Economic Activity Percentage	12445
 Mali INTERNET USE Percentage	17877
 Management Perception Recognition	11131
@@ -162,15 +168,20 @@ NCDs Indicator Percent Percent Percentage Point	17869
 NCSI FULFILMENT PERCENTAGE	10911
 NISR Percentages	12413
 NUST’s Prof Percy Chimwamurombe	12357
+Nacional Percentagem	18762
 National Percentage	18441
 National Social Registry. Percentage	10964
 Negative Public Perception of Off-grid Solar Solutions	12399
+Nenhum Básico Secundário Percentagem Crianças	18762
+Nenhum Básico Secundário Percentagem Mulher Homem	18762
+Nenhum Total Percentagem Percentagem	18762
 Net Percentage Balance	17317
 Nigeria Percentage	11004,960
 Number Percentage	15601
 Number of Percentages	12413
 Numbers Percentages	15056
 Numbers Percentages Community Health	15056
+Não Percentagem	18762
 Occupation Percentage	12006
 Opportunities Perception	17870
 Opportunity Perception	16876
@@ -225,7 +236,7 @@ PercentBaseline GDP GrowthNew GDP Growth	13624
 PercentPaanegorecmeoanflt3iae-gsme	10763
 Percenta-	10777
 PercentaPgeercoefnmtaognethosf	10763
-Percentage	236,553,151,30,234,24,36,20,704,486,238,63,1,113,694,21,74,183,1,791,35,559,286,122,21,863,3,37,14,239,96,620,329,1021,231,487,1098,50,1,3,7,5,5,44,15,12,14,93,1,12,28,127,3,2,16,40,6,13,13,28,10,34,99,22,52,56,28,10,292,2,9,8,5,2,1,8,15,13,6,40,1,6,15,2,6,226,8,28,11,70,9,10,29,4,6,18,18,9,13,80,27,164,281,53,273,1,536,42,813,19,3,70,4,16,1,4,3,53,39,12,33,5,12,26,8,8,17,29,53,21,85,180,23,33,31,3,4,35,21,27,16,2,39,1,2,2,53,9,10,2,108,56,4,22,42,8,36,19,47,65,43,73,176,195,7,67,178,9,4,25,1,4,9,7,7,1,10,11,7,16,6,11,7,25,36,17,31,30,91,4,112,106,33,2,238,127,8,26,54,4,44,98,19,10,168,8,41,4,1,4,82,2,21,65,3,2,90,3,56
+Percentage	236,553,151,30,234,24,36,20,704,486,238,63,1,113,694,21,74,183,1,791,35,559,286,122,21,863,3,37,14,239,96,620,329,1021,231,487,1098,50,1,3,7,5,5,44,15,12,14,93,1,12,28,127,3,2,16,40,6,13,13,28,10,34,99,22,52,56,28,10,292,2,9,8,5,2,1,8,15,13,6,40,1,6,15,2,6,226,8,28,11,70,9,10,29,4,6,18,18,9,13,80,27,164,281,53,273,1,536,42,813,19,3,70,4,16,1,4,3,53,39,12,33,5,12,26,8,8,17,29,53,21,85,180,23,33,31,3,4,35,21,27,16,2,39,1,2,2,53,9,10,2,108,56,4,22,42,8,36,19,47,65,43,73,176,195,7,67,178,9,4,25,1,4,9,7,7,1,10,11,7,16,6,11,7,25,36,17,31,30,91,4,112,106,33,2,238,127,8,26,54,4,44,98,19,10,168,8,41,4,1,4,82,2,21,65,3,2,90,3,56,71,8,8,17,5,25,8
 Percentage Addressed	3051
 Percentage Age	15085
 Percentage Agriculture	2775
@@ -308,8 +319,8 @@ Percentage of Expenditures	14987,424,247,1278,1026
 Percentage of Financial	14997
 Percentage of Financial Institutions	2775
 Percentage of Financing Expenditures	11525
-Percentage of GBON	18309
-Percentage of GDP	14896,515
+Percentage of GBON	18309,478
+Percentage of GDP	14896,515,3414
 Percentage of GNI Eswatini	12395
 Percentage of Grade	16436
 Percentage of Health Spending	15411
@@ -373,8 +384,14 @@ Percentage of Unsentenced	15845
 Percentage of Weekly	14997
 Percentage of Women and Men	17127
 Percentage50	11879
-Percentagem	1144,9613,3,6,11,610,634,756,2799
+Percentagem	1144,9613,3,6,11,610,634,756,2799,3181,3,2,6,33
+Percentagem Actividades	18762
+Percentagem Idade Homens Mulheres Distribuição	18762
+Percentagem Idade Homens Mulheres Inquérito de Indicadores	18762
+Percentagem Percentagem	18762
+Percentagem Perfil	18762
 Percentagem da População Coberta	11418
+Percentagem de Coinfetados	18768
 Percentagem de Percentagem	10760
 Percentagens	10777
 Percentages	7151,1285,1336,1232,328,632,126,111,212,2643,108,410,30,55,1384,114,79,1247
@@ -405,6 +422,7 @@ Perceptions of Major Infrastructure Constraints	15473
 Perceptions of Mandatory SIM Registration Regulations	4439
 Perceptions of SIM	4439
 Perceptrons	2816
+Percepção da Corrupção	18763
 Percepções	11569
 Perceuses	16103
 Percevoir	13809
@@ -426,6 +444,7 @@ Port-In Activities Jan-Dec and Percentage Increase	3862
 Port-Out Activities and Percentage Increase	3862
 Postal Network Public Perception of Infrastructure RURAL	10759
 Postal Network Public Perception of Infrastructure Rural	10837,1315,188
+Privado Público Percentagem Malária Disponibilidade	18762
 Private Public Percent Care-seeking for Diarrhoea Percentage	18441
 Private Sector Foreign Investment and Investor Perceptions	13532
 Private Sector Public Perception of Anti-Corruption	10759
@@ -537,6 +556,7 @@ Understanding the Customers’ Perception	226
 Unit of Measure Baseline Percentage	15601
 Unit of Measure Baseline Percentage Percentage	15601
 Urban and Rural Percentage	16916
+Urbano Rural Total Percentagem Casamento	18762
 Usage Percentage	940
 User Perception	17149
 User Perceptions and Use	12379
@@ -551,6 +571,7 @@ Women Percentage	18441
 Women Public Perception of Female Leadership	10759
 Women Public Perception of Female Leadership Participation	10837,1315,188
 Workforce Percentage	11882
+XVIII. Ponto Percentual	18798
 Year Percentage	11395,529,4155
 Yearly Research Firm Once Percentage	10964
 Zambia Percentage	13332

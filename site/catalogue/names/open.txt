@@ -502,6 +502,7 @@ NonVisual Desktop Access OWASP Open Web	11952
 Nwachuku. Miva Open University	8780
 Nwulite Obodo Open Data Licence	5858
 O Open Access	16872
+O Open Documento ODF	18774
 OA2020 Open Access Initiative OA2020 OS	5246
 OBJECTIVES OF THE NATIONAL OPEN DATA	14726
 OBS Open Budget Survey OSR Own-Source	18577
@@ -574,7 +575,7 @@ Open APIs	7596,4763,955
 Open APIs and Protocols	3861
 Open Academy	17856
 Open Academy Né	17856
-Open Access	3378,1760,108,1,2484,552,153,692,1,108,502,1045,370,80,623,89,60,249,452,2416,249,139,1506,756,7,55,1,34,602
+Open Access	3378,1760,108,1,2484,552,153,692,1,108,502,1045,370,80,623,89,60,249,452,2416,249,139,1506,756,7,55,1,34,602,282,42
 Open Access Article	12178
 Open Access Article Publishing Charges	5246
 Open Access Data Centres	892,661,292,505,222,33,432,150,321,351,70,262,834,136,39,870,510,486,263,1262,261,765,260,287,341,738,601,2560
@@ -661,7 +662,7 @@ Open Cycle Gas Turbines	12062,6124,31
 Open DWDM	16545
 Open DWDM Modérateur	16545
 Open DWDM Speaker	16545
-Open Data	170,375,202,1,21,189,229,31,25,4,737,112,1139,626,262,710,15,396,2,1177,9,887,229,1858,74,1305,9,23,57,126,478,376,505,60,143,370,131,251,166,52,1194,26,38,89,568,8,98,22,49,88,245,276,144,23,21,178,273,52,546,4,10,360,52,95,314,14,85,35,3
+Open Data	170,375,202,1,21,189,229,31,25,4,737,112,1139,626,262,710,15,396,2,1177,9,887,229,1858,74,1305,9,23,57,126,478,376,505,60,143,370,131,251,166,52,1194,26,38,89,568,8,98,22,49,88,245,276,144,23,21,178,273,52,546,4,10,360,52,95,314,14,85,35,3,325,7
 Open Data Academic Outreach	16599
 Open Data Access Channels	16939
 Open Data Access Channels MOCDE	16939
@@ -708,9 +709,11 @@ Open Data Institute	747,1,213,1023,3045,5788
 Open Data Intégrer L'Initiative Open Data	15389
 Open Data Inventoriés	17978
 Open Data Inventoriés. Octobre	17978
-Open Data Inventory	769,8508,2206,901,2536,1457,44,1423,217
+Open Data Inventory	769,8508,2206,901,2536,1457,44,1423,217,716
 Open Data Inventory Score	15480
+Open Data Inventory Score ODIN	18840
 Open Data Inventory Score Open Data	15447
+Open Data Inventory. Page	18851
 Open Data Kit	1219,2488,7212,1494,1347,862,2527
 Open Data Kit OMS	14442
 Open Data Kit PRR Programme	18204
@@ -769,7 +772,7 @@ Open Data Strategy and Action Plan	16939
 Open Data Toolkit	1243,14332
 Open Data URL	15389,3053
 Open Data Une	1984
-Open Data Watch	3884,2453,876,1214,7053,897,44
+Open Data Watch	3884,2453,876,1214,7053,897,44,2356
 Open Data Watch and Development Gateway	6337
 Open Data Watch and PARIS21	8427
 Open Data Watch's Open Data Inventory	769
@@ -1204,6 +1207,7 @@ OpenData Madagascar	9482
 OpenData Madagascar Skip	9482
 OpenData Mali	17842
 OpenData du Burkina	15961
+OpenDocument-v1.2.html Portable Docum	18774
 OpenEHR	8606
 OpenEHR Reference Model	1009
 OpenELIS	3604,12332
@@ -1229,6 +1233,7 @@ OpenID Connect	1718,9003,1638,736,611,2321,294,603
 OpenID Connect Application Integration Integrating	12359
 OpenID Connect Specifications B.2 National Regulations	11952
 OpenIMIS	11133,2262,111,2689,1942
+OpenLDAP	18774
 OpenLMIS	18281
 OpenLivingLab Days Conference	11006
 OpenMRS	531,235,5145,1685,1009,3391,383,375,2402,3541
@@ -1308,7 +1313,7 @@ Opening the Forum	5086
 Opening the NPS	5420
 Openings	9123,5655
 Openly	12359
-Openness	27,945,806,3251,1389,69,58,4075,145,419,712,493,919,11,717,329,56,173,156,2189,33,127,1162
+Openness	27,945,806,3251,1389,69,58,4075,145,419,712,493,919,11,717,329,56,173,156,2189,33,127,1162,536
 Openness Openness	10775
 Openness and Interoperability	15629
 Openness and Non-Discrimination Nigeria	10157
@@ -1536,6 +1541,7 @@ Trade and Development WOAN Wireless Open Access	11196
 Translate.org. Open-source	985
 Transport and Communi Open	17219
 UN Open Government Data Index	12453,892
+UNESCO Open Access Repository	18796
 UNESCO Open Science Partnership	5246
 US and India Open Data Initiative	16599
 USAID Open Spaces	12356

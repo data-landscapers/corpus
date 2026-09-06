@@ -30,7 +30,7 @@ ASSEMBLEE VERITE REVELEE	15744
 ASSEMBLEES POPULAIRES COMMUNALES	15507
 ASSEMBLEIA NACIONAL	15359,37,81
 ASSEMBLEIA NACIONAL CAPÍTULO	15450
-ASSEMBLEIA NACIONAL Lei	11365,4724
+ASSEMBLEIA NACIONAL Lei	11365,4724,2675
 ASSEMBLEIA NACIONAL POPULAR Ir	11513,8
 ASSEMBLEIA NACIONAL POPULAR URL	11513
 ASSEMBLY	12612
@@ -48,6 +48,9 @@ AU Assembly Summit	5141
 AU Assembly of Heads of State and Government	7452,5470
 AUC Decision Assembly	16371
 Act The National Assembly	14828
+Acta da Assembleia	18833
+Acta da Assembleia Geral	18833
+Acta da Assembleia-Geral	18833
 African Network of Information Commissions General Assembly	13030
 African Union Assembly of Heads of State and Government	4583,2559
 Amadu Candé. Assembleia	11544
@@ -64,17 +67,21 @@ Assemble Populaire Communale	15555
 Assembled	6921,2478,8186
 Assemblee	15584
 Assemblee-nationale.sn	18295,3,132,1
-Assembleia	6191,3608,978,736,31,25
-Assembleia Geral	11531,7,3853,1643,24
+Assembleia	6191,3608,978,736,31,25,7233
+Assembleia Geral	11531,7,3853,1643,24,1702,3,4,5
 Assembleia Geral Fiscal	15476
 Assembleia Geral da ARCTEL-CPLP	11531
 Assembleia Geral. Artigo	15391
 Assembleia Global da Privacidade	2345
+Assembleia Legislativa	18763
+Assembleia Legislativa Regional	18763
 Assembleia Mundial	16180
+Assembleia Mundial da Saúde	18783
 Assembleia Mundial da Saúde. Um	15966
 Assembleia Municipal Declarando	16290
 Assembleia Municipal de São Lourenço	15380
-Assembleia Nacional	14,1,152,372,10,643,2327,556,661,536,195,324,195,2,294,427,138,233,38,1191,210,639,1,640,948,2,3,3,1,30,286,286,1,4,1,1,2,6,3,8,4,1,20,6,10,11,7,18,1,107,2743,1032,15,26,11,54,27,32,45,468,67,287,111
+Assembleia Nacio	18764,36
+Assembleia Nacional	14,1,152,372,10,643,2327,556,661,536,195,324,195,2,294,427,138,233,38,1191,210,639,1,640,948,2,3,3,1,30,286,286,1,4,1,1,2,6,3,8,4,1,20,6,10,11,7,18,1,107,2743,1032,15,26,11,54,27,32,45,468,67,287,111,2262,2,4,3,3,3,22,10,2,2,53
 Assembleia Nacional Lei	539,10826
 Assembleia Nacional Popu	11518
 Assembleia Nacional Popular	11513,5,10,3,6,6,18,1,7,3775
@@ -84,19 +91,27 @@ Assembleia Nacional Popular. Foi	11561
 Assembleia Nacional Popular. Os	11561
 Assembleia Nacional Poupolar	11528
 Assembleia Nacional Publicação	14,535
+Assembleia Nacional da República Democrática de S. Tomé	18751
 Assembleia Nacional. A Lei	9161
 Assembleia Nacional. ARTIGO	539,2980
 Assembleia Nacional. Artigo	14,1,534
+Assembleia Nacional. CAPÍTULO IV Organização	18800
 Assembleia Nacional. Elaborar	11376
+Assembleia Nacional. Instituições Responsáveis	18796
 Assembleia Nacional. Os	16089
 Assembleia Parlamentar da Francofonia	15477
-Assembleia Popular Nacional	11569
+Assembleia Popular Nacional	11569,7182
+Assembleia Regional	18751
+Assembleia Representativa	18751
 Assembleia República	8745,219
 Assembleia da República	2816,263,1989,1902,77,1196,415,87,3566,459,2,1,2,10,10,14,4,20,21
 Assembleia da República de Moçambique	5841
 Assembleia da República. Na	8658
 Assembleia da República. O Conselho Constitucional	12854
-Assembleia-Geral	15694
+Assembleia de Deus	18802
+Assembleia-Geral	15694,3100
+Assembleias	18751
+Assembleias Distritais Artigo	18751
 Assembleias de Voto	11425
 Assemblers Mean	16266
 Assemblies	7695,6519,638,268,725,318,361
@@ -261,13 +276,16 @@ Chairperson of Transitional National Legislative Assembly	18691
 Citizens’ Assembly Guidelines Revised Citizens’ Assembly	15208
 Citizens’ Assembly Guidelines Revised URL	15208
 Comissão Nacional de Eleições. ASSEMBLEIA DA REPÚBLICA	12772
+Comissão da Assembleia Nacional	18760
 Comissões da Assembleia Nacional	11436
+Comissões da Assembleia Nacional de STP URL	18751
 Comissões de Trabalho Especializadas da Assembleia Nacional	8880
 Community Assemblies	13418
 Composição da Mesa da Assembleia Geral	15391
 Comunicação. PARTE I ASSEMBLEIA NACIONAL POPULAR	11518
 Congo's National Assembly and Senate	852
 Conselho Diretivo da Assembleia Nacional. Compete	15450
+Conselho Nacional de Proteção Social. ASSEMBLEIA NACIONAL	18758
 Constituent Assembly	14128
 Constitution Assembly	12201
 Constitutional Assembly	11245
@@ -282,6 +300,7 @@ DATA SHARING STEWARDSHIP DUTIES A ASSEMBLY	14434
 DCO General Assembly	7169
 DELIVERED TO THE NATIONAL ASSEMBLY	13435
 DISCLAIMER Unofficial Hansard THE NATIONAL ASSEMBLY	12607
+DIÁRIO da Assembleia Nacional	18778
 Datation Assemblée	16047
 Decisão Assembly	15477
 Declares Open National Assembly Open Week	18261
@@ -294,6 +313,7 @@ District Assemblies Common Fund	789,6906
 District Assemblies. The Minister	16163
 District Assembly	11,16065
 District Assembly G. Clearance Approval’s Name	17114
+Diário da Assembleia Nacional	18778
 Dr. Adão de Almeida Presidente da Assembleia Nacional	11436
 Développement ASSEMBLEE DE L'UNION LOI N	13710
 E Assemblée	11139
@@ -308,6 +328,7 @@ East Africa Device Assembly Kenya Ltd	3975
 East African Legislative Assembly	3738,10671
 Education Ministries and National Implementation Assembly	16884
 Eighth National Assembly	14748,5
+Eighth Session of International Solar Alliance Assembly	18857
 Ekumfi District Assembly	16076
 Ekumfi District Assembly Launches Major Business	16076
 Ekumfi District Assembly URL	16076
@@ -328,6 +349,7 @@ Freedom of Assembly and Association	9082,9515
 Freedom of Association and Assembly	6188
 Freedom of Association and Assembly Article	14742
 Funcionamento A Assembleia Geral	15391
+Funções A Assembleia Nacional	18751
 GA WEST MUNICIPAL ASSEMBLY INTENSIFIES REVENUE	16276
 GAFD General Assembly URL	13887
 GAMBIA AT THE NATIONAL ASSEMBLY	17228
@@ -429,7 +451,7 @@ NDICE ASSEMBLEIA NACIONAL O Presidente	15477
 NTIBARUTAYE Athanase Assemblée Nationale	13341
 Natiolial Assembly	11852
 National Assemblies	14409
-National Assembly	783,231,11,241,67,141,61,290,13,120,23,18,68,198,393,69,15,17,85,80,229,29,11,41,17,16,165,162,12,97,43,115,26,61,5,17,101,18,16,109,1,5,35,165,98,115,10,392,107,176,89,399,49,17,105,43,1,102,10,18,54,26,70,15,63,99,58,52,131,43,109,15,35,25,217,202,57,36,192,94,88,13,14,26,202,1,2,5,99,70,176,51,120,70,19,91,71,254,18,256,9,1,100,45,100,231,4,56,27,78,2,133,137,147,260,59,110,208,3,15,115,6,11,25,2,5,1,5,4,43,185,28,4,30,49,129,94,2,13,43,38,29,10,68,8,87,52,126,42,5,4,43,28,4,61,10,2,3,6,11,3,13,18,8,41,23,8,8,67,155,1,1,13,4,37,36,2,64,48,1,37,12,148,32,19,42,49,12,36,5,2,10,25,6,29,30,17,51,203,49,161,29,26,85,55,88,54,1,39,44,53,48,1,31,91,3,1,1,5,1,10,4,1,3,2,3,17,6,5,26,4,9,3,3,4,1,1,13,7,2,2,11,475,1496,3,19,9,7,9,1,1,2,9,19,11,18,7,154,72,31,20,119,219,5,73,11,153,126,36,20,26,37,133,21,10,27,61,319,117
+National Assembly	783,231,11,241,67,141,61,290,13,120,23,18,68,198,393,69,15,17,85,80,229,29,11,41,17,16,165,162,12,97,43,115,26,61,5,17,101,18,16,109,1,5,35,165,98,115,10,392,107,176,89,399,49,17,105,43,1,102,10,18,54,26,70,15,63,99,58,52,131,43,109,15,35,25,217,202,57,36,192,94,88,13,14,26,202,1,2,5,99,70,176,51,120,70,19,91,71,254,18,256,9,1,100,45,100,231,4,56,27,78,2,133,137,147,260,59,110,208,3,15,115,6,11,25,2,5,1,5,4,43,185,28,4,30,49,129,94,2,13,43,38,29,10,68,8,87,52,126,42,5,4,43,28,4,61,10,2,3,6,11,3,13,18,8,41,23,8,8,67,155,1,1,13,4,37,36,2,64,48,1,37,12,148,32,19,42,49,12,36,5,2,10,25,6,29,30,17,51,203,49,161,29,26,85,55,88,54,1,39,44,53,48,1,31,91,3,1,1,5,1,10,4,1,3,2,3,17,6,5,26,4,9,3,3,4,1,1,13,7,2,2,11,475,1496,3,19,9,7,9,1,1,2,9,19,11,18,7,154,72,31,20,119,219,5,73,11,153,126,36,20,26,37,133,21,10,27,61,319,117,29,27,26
 National Assembly Act	12652
 National Assembly Administration Act	7859
 National Assembly Allowances Act	14717
@@ -521,6 +543,7 @@ National Assembly. Key	11866
 National Assembly. Lastly	11230
 National Assembly. Local Government	11976
 National Assembly. Members	11272
+National Assembly. Negotiations	18817
 National Assembly. Offences	12546
 National Assembly. PART	1333,141
 National Assembly. Part VIII	14575
@@ -551,7 +574,9 @@ National and Provincial Assemblies. Overall	12201
 Nigeria's National Assembly	9642
 Nigeria’s National Assembly	3942
 Nine Months The National Assembly's FY	6588
-O Presidente da Assembleia Nacional	14,1,524,10,5269,4929,2,6,1,607,21,4,3971,26,11,54,104,535
+O Presidente da Assembleia Naci	18758
+O Presidente da Assembleia Nacio	18853
+O Presidente da Assembleia Nacional	14,1,524,10,5269,4929,2,6,1,607,21,4,3971,26,11,54,104,535,2660,2
 OHLGS EQUIPS MUNICIPAL ASSEMBLIES WITH DLREV	16524
 OLANDZOBO TSEYI ASSEMY	15524
 ORDINARY MEETING OF THE ASSEMBLY	4103
@@ -567,7 +592,7 @@ País. A Assembleia Nacional	11425
 Per Second MCA Member of County Assembly	2775
 Planned Action National Assembly	16884
 Preceding the Assembly of Governors	17235
-Presidente da Assembleia Nacional	539,2980,7890,16,3971,81,295
+Presidente da Assembleia Nacional	539,2980,7890,16,3971,81,295,2979,47
 Presidente da Assembleia Nacional Popular	11561
 Presidente da Assembleia Nacional Popular da Guiné-Bissau	15403,664
 Presidente da Assembleia da República	6970,5802,24
@@ -582,7 +607,9 @@ Provincial Assembly	12201
 Provincial Assembly AU African Union CAD	12201
 Présidents des Assemblées	15405
 Présidents des Assemblées Populaires Communales	15555
+Príncipe Assembleia Popular Nacional Lei	18749
 Publique-se. O Presidente da Assembleia Nacional	539,14938
+R I O ASSEMBLEIA NACIONAL Lei	18755,3,3,3
 RECALLING Decision Assembly	15641
 RODRIGUES REGIONAL ASSEMBLY	14794
 RODRIGUES REGIONAL ASSEMBLY MAIN DECISIONS Executive	14794
@@ -618,6 +645,7 @@ SESSION OF THE THIRTEENTH NATIONAL ASSEMBLY	13328
 SIGLES ET ABREVIATIONS AN Assemblée	18310
 SITE WEB DA ASSEMBLEIA NACIONAL POPULAR	11531
 SUBMITTED JOINTLY BY HOUSING ASSEMBLY	14673
+SUMÁRIO ASSEMBLEIA NACIONAL Lei	18800,53
 SUMÁRIO Assembleia da República	6970,5802
 SUPLEMENTO SUMÁRIO PARTE I Assembleia Nacional	11518
 Santé. Cinquante-huitième Assemblée Mondiale	16195
@@ -626,6 +654,7 @@ Santé. Soixante-sixième Assemblée Mondiale	16195
 Santé. Soixante-treizième Assemblée Mondiale	16195
 School Parents Assembly	13287
 School Parents Assembly and School Development Committee	13287
+Secretário da Mesa da Assembleia Nacional São Tomé	18778
 Secção II Assembleia Geral Artigo	15391
 Segunda Vice-Presidentes da Assembleia Nacional	11365
 Segundo Vice-Presidente da Assembleia Nacional	11365
@@ -637,6 +666,7 @@ Senhor Presidente da Assembleia Nacional Senhores Membros	15892
 Session of International Solar Alliance Assembly	16649
 Seventy-First World Health Assembly	396
 Seventy-first World Health Assembly	12255
+Sistema Nacional de Pagamentos. ASSEMBLEIA NACIONAL Lei	18761
 Smart Assemblies	17717
 Soixante Onzième Assemblée	17882
 Soixante Treizième Assemblée Mondiale	17882
@@ -652,6 +682,8 @@ State House of Assembly. PART II	11976
 State Houses of Assembly	9876
 States Legislative Assemblies	14852
 Sudan National Assembly The Chairman Date	14865
+SÃO TOMÉ E PRÍNCIPE ASSEMBLEIA NACIONAL	18800,53
+SÃO TOMÉ E PRÍNCIPE Assembleia Nacional	18755
 TABLE OF CONTENTS ANNOUNCEMENTS National Assembly	11230
 TABLINGS National Assembly and National Council of Provinces	11285,4
 TECHNOLOGY NATIONAL ASSEMBLY	12982
@@ -670,6 +702,7 @@ Transitional National Legislative Assembly	3583,6603,1,8432,36,1,35,50
 Transitional National Legislative Assembly's First Deputy	3583
 Trovoil ASSEMBLEE NATIONALE LOI	15399
 Téla Nón O Presidente da Assembleia Nacional	5818
+Título IV Assembleia Nacional Artigo	18751
 UN Assembly President. United Nations Urbain	17773
 UN General Assembly	1038,776,1769,129,3285,177,939,2944,299,1621,63,504,433,765,2132,77,1225,299
 UN General Assembly Resolution	3583,5045,6114

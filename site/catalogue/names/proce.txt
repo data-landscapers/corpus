@@ -415,6 +415,7 @@ Accounts. B. Alternative Procedures for Financial	11233
 Accurate Valuers Limited Data Processor INST-5706553B01B	7167
 Acima Consult Limited Data Processor INST-94310929DCD	7167
 Acorns Investment Limited Data Processor INST-4345480BC4F	7167
+Actual Process Date Process Original Date	18754
 Adelko Consulting Services LTd Data Processor	7167
 Adept Technologies Data Processor INST-15732516986 NAIROBI	7167
 Adjudication and Due Process	3861
@@ -455,6 +456,7 @@ All Africa Conference of Churches Data Processor	7167
 Alliance Membership Criteria and Review Process User-centric	10819
 Alstar Limited Data Processor INST-945839536CE NAIROBI	7167
 Alta HealtchCare Limited Data Processor INST-983616D8380	7167
+Alteração DO Processo de Concurso	18753
 Alternative Dispute Resolution Procedure. Key	1742
 Alupe University Data Processor INST-9238228DAB4 BUSIA	7167
 Aluse Arthur Ondego Data Processor INST-8487037F95A	7167
@@ -1277,7 +1279,7 @@ Centre Data Processor INST-348424E1EB8 NAKURU Kenya	7167
 Centre for Medical Mobilisation Board Data Processor	7167
 Centre for Rights Education and Awareness Data Processor	7167
 Centrino Technologies Ltd Data Processor INST-362147EEE9A	7167
-Centro de Processamento de Dados	5954
+Centro de Processamento de Dados	5954,12842
 Cereal Growers Association Data Processor INST-6608837F224	7167
 Certification Procedure	3861
 Certification Process	5665
@@ -1448,9 +1450,12 @@ Cymunio Limited Data Processor INST-944126A6FE7 NAIROBI	7167
 CÓDIGO DO PROCEDIMENTO ADMINISTRATIVO	11388
 Código Penal. CAPÍTULO III Disposições Processuais	6970
 Código Processos Penal	9176
-Código de Procedimento Administrativo	16138
-Código de Processo Penal	6970,4612
-Código de Processo Penal. Artigo	6970
+Código de Procedimento Administrativo	16138,2623
+Código de Proces	18758
+Código de Processo Civil	18755
+Código de Processo Pe	18758
+Código de Processo Penal	6970,4612,7176
+Código de Processo Penal. Artigo	6970,11788,3
 D Data PrOcessOr	1593,11361
 D Data PrOcessOrs	1593
 D Data PrOcessOrs OF MaJOr IMPOrtance	1593,11361
@@ -1906,6 +1911,7 @@ Digital Media Non-WDT Sacco Data Processor	7167
 Digital Readiness Process	1953
 Digitalising Data Management Processes	12551
 Digitalization of Procurement Procedures	12389
+Digitalização Processual	18786
 Digitised Declaration Process	11134
 Digitization of Court Processes	12389
 Diocese of Kitui Data Processor INST-9374307992B KITUI	7167
@@ -2191,6 +2197,7 @@ General Procedures	18595
 General for Statistics and Data Processing	17043,84
 Generation Intel Xeon Gold Scalable Processor	12681
 Generic Statistical Business Process Model	15077
+Gestão Processual	18786
 Ghana Industries BPO Business Process Outsourcing	236
 Global Cross-Border Transaction Process	2777
 Global Innovation Index GPU Graphics Processing	7548
@@ -2427,6 +2434,7 @@ LIMITED Data Processor INST-934604BD0E9 NAIROBI Germany	7167
 LIMITED Data Processor INST-962378FEB57 NAIROBI Kenya	7167
 LIMITED Data Processor INST-982475A246C NAIROBI Kenya	7167
 LIMITED Data Processor INST-9931888EB80 NAIROBI Kenya	7167
+LINHA DO TEMPO DO PROCESSO	18781
 LIQUIDATION PROCEEDINGS	12389
 LIVESTOCK AND AQUACULTURE DEVELOPMENT Data Processor	7167
 LMP Labor Management Procedure LV Low	15515
@@ -2623,6 +2631,7 @@ Number and Type of Insolvency Procedures	12389
 Number of Tax Refund Applications Processed	12951
 O Código de Processo Penal	9176
 O Procedimento Administrativo	11388
+O Processo Administrativo	18753
 O the PrOcessInG OF PersOnaL Data	1593,11361
 OBJET DE LA PROCEDURE Permettre	10876
 OBJET ET PRINCIPES DE PROCEDURE Réceptionner	10876
@@ -2837,6 +2846,7 @@ Plan Preparation Process	15796
 Planning CONSUMER PROCESS Compare	418
 Planning Process	16851
 Platform APC Article Processing Charge ARC	5246
+Pograma de Gestão Processual	18786
 Policies and Procedures GC-PP	10721
 Policy Design Process	18454
 Policy Design Process The National Digital	18454
@@ -2862,6 +2872,7 @@ Preparation Process	15601
 Prequalification Estimated Am Actual Amount Process	17180,39
 Prequalification Procedures	1638
 Principles of Data Processing	12193
+Princípio O Processo Técnico	18753
 Princípio da Adequação Procedimental	11388
 ProCEED	12399
 ProCEED Mini-Grid Project Host	12399
@@ -2870,9 +2881,9 @@ Procedam	11363,5737
 Procede	12783,2720,635,700
 Procede-se	16122
 Procedendo	16056,1044
-Proceder	167,4051,7156,7,1,53,8,6,69,1,8,42,332,873,2584,30,57,32,27,22,386,947
+Proceder	167,4051,7156,7,1,53,8,6,69,1,8,42,332,873,2584,30,57,32,27,22,386,947,1919
 Procederá	163,16692
-Procedeu-se	11543,26,332,3585
+Procedeu-se	11543,26,332,3585,3307
 Procedi	16855
 Procedia	9129
 Procedia Computer Science	226,5123,3256,523,1
@@ -2893,7 +2904,7 @@ Procedimento de Contratação	4557
 Procedimento de Emissão de Parecer Prévio	11379
 Procedimento de Instalação ARTIGO	539
 Procedimento de Licenciamento Ambiental	11390
-Procedimentos	414,2023,1,1081,755,895,5603,11,575,12,43,6,11,86,2,2,4006,28,10,812
+Procedimentos	414,2023,1,1081,755,895,5603,11,575,12,43,6,11,86,2,2,4006,28,10,812,2373
 Procedimentos Administrativos	4075,7313,45
 Procedimentos Administrativos Conjuntos	11388
 Procedimentos Aduaneiros	15526
@@ -2906,14 +2917,17 @@ Procedimentos Relativos	11520
 Procedimentos Tributários	11383
 Procedimentos de Abertura de Conta	11386
 Procedimentos de Atribuição	11430
+Procedimentos de Cobranças	18752
 Procedimentos de Controlo	4274,12837
 Procedimentos de Encerramento da Conta de Pagamento	11386
 Procedimentos de Estética	7882
+Procedimentos de Gestão Elevada Os	18801
 Procedimentos de Gestão da Mão-de- Obra	11542
 Procedimentos de Gestão da Mão-de- Trabalho	11542
 Procedimentos de Gestão de Mão-de-Obra	11406
 Procedimentos de Licenciamento Ambiental	11390
 Procedimentos de Reclamações	11368
+Procedimentos de Registo Civil	18779
 Procedimentos de Saúde	11542
 Procedimentos de Simplificação Administrativa	11394
 Procedimentos de Supervisão	16122
@@ -2959,6 +2973,7 @@ Procedures Act	14932
 Procedures Article	15393
 Procedures ESCON Environmental and Social Compliance Note	11863
 Procedures LRREN Liberia Research and Education Network	17099
+Procedures M&E Monitoring and Evaluation Mbps Megabits	18777
 Procedures MWFSC Ministry of Women	11525
 Procedures Manual	15372,146,83
 Procedures Manual for Environmental and Social Management	1988
@@ -3023,11 +3038,11 @@ Procesando	16905
 Proceso de Enseñanza-Aprendizaje	4209
 Proceso de Recopilación de Datos	8378
 Procesos	4209
-Process	1161,827,127,4,870,725,399,415,105,716,351,73,116,534,1595,265,93,230,517,114,1528,10,9,30,5,187,125,724,2,52,26,119,148,100,36,29,7,15,123,505,20,153,104,67,20,1143,78,134,8,116,59,2,44,62,7,226,151,62,11,120,59,141,384,645,15,2,17,49,152,299,737,201,226,12
+Process	1161,827,127,4,870,725,399,415,105,716,351,73,116,534,1595,265,93,230,517,114,1528,10,9,30,5,187,125,724,2,52,26,119,148,100,36,29,7,15,123,505,20,153,104,67,20,1143,78,134,8,116,59,2,44,62,7,226,151,62,11,120,59,141,384,645,15,2,17,49,152,299,737,201,226,12,227
 Process A Well	9123
 Process Analysis	11941
 Process At BoZ	13532
-Process Automation	13418
+Process Automation	13418,5407
 Process Autonomy	8283
 Process Autonomy. Stage	8283
 Process Description	15283
@@ -3084,7 +3099,8 @@ Process-to-Outcome	8283
 Process-to-Outcome Threshold	8283
 Process. Public Policy Meeting	8866
 Process.pdf	5550
-Processamento	2816,8589,16,17,8,74,57,3868,611,269
+Processamento	2816,8589,16,17,8,74,57,3868,611,269,2449,24,55
+Processamento de Cifração XML	18774
 Processamento de Dados	10754,23,4726
 Processamento de Dados Pessoais	11374,4103
 Processamento de Dados Pessoais Princípio	11374,4103
@@ -3166,24 +3182,35 @@ Processing of Personal Data Generality	27
 Processing of Personal Data for Private Security	12301
 Processing of Personal Information	13381
 Processing of Sensitive Personal Data	12185,364,2935
-Processo	576,218,7449,2523,6,11,577,5,11,3,6,2,3,35,27,9,86,8,14,1288,2502,117,490,1127
+Processo	576,218,7449,2523,6,11,577,5,11,3,6,2,3,35,27,9,86,8,14,1288,2502,117,490,1127,1657,1,23,9,10,8,33
 Processo Actualmente	10772
-Processo Administrativo	11388
+Processo Administrativo	11388,7365,2
 Processo Automático	11566
 Processo Civil	11537
 Processo Eleitoral	10114,157,1257,33,422,5026,274
 Processo Eleitoral C N D H	6530
 Processo Legislativo	11521
-Processo Penal	5424,10281
+Processo Penal	5424,10281,3053,3
 Processo Penal. Lei	539
 Processo Tributário	15359,1741
 Processo Tributário. Artigo	15359
+Processo Técnico	18753
+Processo Técnico O Processo Técnico	18753
 Processo de Abertura de Conta Usando Redes Neurais	2816
 Processo de Alteração de Integrações	12021
 Processo de Alteração de Manuais de Utilizador	12021
 Processo de Amostragem	10777
 Processo de Candidatura	15532,1571
+Processo de Casamento Nubentes Nacionais	18834
 Processo de Colheita	966
+Processo de Con	18753
+Processo de Concurso	18753
+Processo de Concurso. Antes	18753
+Processo de Concurso. Artigo	18753
+Processo de Concurso. Estes	18753
+Processo de Concurso. Neste	18753
+Processo de Concurso. Não	18753
+Processo de Concurso. Os Concorrentes	18753
 Processo de Conservação	11384
 Processo de Constituição de Sociedades Comerciais	11365
 Processo de Consulta Nacional	11387
@@ -3200,6 +3227,7 @@ Processo de Preparação	10783
 Processo de Programação	10783
 Processo de Recenseamento	11528
 Processo de Registo de Nascimento	10772
+Processo de Revisão	18774
 Processo de Transfor	11366
 Processor	1474,2387,7610,831,117,262,1753,1050,1359
 Processor First	15484
@@ -3373,7 +3401,7 @@ Processor of Personal Data	15484
 Processors	1652,1221,988,1177,6918,229,8,109,702,1430,773,277
 Processors and FMCG	11127
 Processors of Major Importance	8078,40,60,3815
-Processos	2228,8525,607,4,88,569,841,2571,43,56,40,394
+Processos	2228,8525,607,4,88,569,841,2571,43,56,40,394,2813,19,3,52
 Processos Administrativos	12774
 Processos Administrativos. ARTIGO	12774
 Processos de Execução Fiscal	11435
@@ -3381,6 +3409,7 @@ Processos de Negócio	11569
 Processos de Registo	11363
 Processos de Registos	11537
 Processos. Relativamente	10753
+Processuais	18758
 Processual	11371
 Processual Penal	10747
 Processus	1187,2194,6025,74,1356,40,89,10,1068,1332,58,134,250,606,5,52,57,5,882,48,70,41,16,44,30,39,12,212,386,207,87,86,4,828,296,14,50,20,59,59,86,179,9,10,3
@@ -3394,6 +3423,7 @@ Procurement Procedures Findings Procurement	13420
 Procurement Procedures Findings The Fund	13420
 Procurement Procedures for Framework Agreements	12389
 Procurement Process	9274,2721,394,6154
+Procurement Process IC	18864
 Procurement Process Initiated	12977
 Products and Processes	2595
 Professional Secrecy and Rules of Procedure	11517
@@ -3518,6 +3548,7 @@ SECTOR STRATEGIC PLAN ELABORATION PROCESS	14935
 SECÇÃO I INSTRUÇÃO DO PROCESSO	794
 SECÇÃO I PROCEDIMENTOS INSPECTIVOS E PROCESSOS	11452
 SECÇÃO III PROCESSO DE PROGRAMAÇÃO	10783
+SECÇÃO III Processo Artigo	18761
 SELECTION COMMITTEE AND PROCESS	13096
 SELECTION PROCESS AND INSTITUTIONAL ARRANGEMENTS	16843
 SERVICE PROCESS AND ARCHITECTURE STANDARDS	11952
@@ -3558,7 +3589,7 @@ Salaries and Wages Processing	9437
 Sales of Processed Products	17043
 Sampling Procedure	17366
 Sampling Sampling Procedure	13084,675,1265,819,3,819,380,120,760,600,42,3
-Sampling Sampling Procedure The WBES	10862
+Sampling Sampling Procedure The WBES	10862,7976
 Samson Wanjala Clinic Data Processor	7167
 Sanctions Procedures	16219
 Savings and Due Process	17249
@@ -3576,12 +3607,14 @@ Securing and Scaling Digital Process	8386
 Securing the Procedure for Issuing the ACD	10930
 Security Policy and Procedures	14921
 Secção II Procedimento Artigo	15392
+Secção III Do Processo Artigo	18750
 Secção III Processo Artigo	15433
 Selection and Award Procedure	7401
 Selection and Award Procedure. Envelope B	14699
 Service. SECTION THREE PROCEDURES OF CIVIL	12226
 Services POCAMLA Proceeds of Crime and Anti-Money Laundering	12297
 Services Procedure	11619
+Serviço de Processamento de Dados	18767,5
 Shell Processing Support	11405
 Signal Processing Developer	11623
 Simplification of Administrative Procedures	3375
@@ -3589,6 +3622,8 @@ Simplificação de Procedimentos	11379,66
 Simplified Business Licensing Processing	11939
 Simplified Merger Review Procedure	12389
 Simplified Procurement Procedures’. Based	11525
+Sistema de Gestão Processual	18786
+Sistema de Gestão Processual URL	18786
 Sistema de Processamento	574
 Small Claims Procedure	14847
 Smart Process Framework	14750
@@ -3614,7 +3649,7 @@ Standard Operating Procedure	1000,9721,2463,1651,114,1998
 Standard Operating Procedure CCMP.S6	10721
 Standard Operating Procedure IFIs	17101
 Standard Operating Procedure UBR Universal Birth	13681
-Standard Operating Procedures	396,758,130,270,434,5416,3317,469,62,165,780,60,81,110,523,6,1,27,75,164,88,1214,196,192,539,184,389,91,834,145,846,502,24,87
+Standard Operating Procedures	396,758,130,270,434,5416,3317,469,62,165,780,60,81,110,523,6,1,27,75,164,88,1214,196,192,539,184,389,91,834,145,846,502,24,87,212
 Standard Operating Procedures Manual PPP	18370
 Standard Operating Procedures UN	12338
 Standard Operating Procedures WAPP West African	18537
@@ -3645,7 +3680,7 @@ Strengthening Business Processes for Identity Management	12663
 Strengthening Complaints Handling Processes	11134
 Strengthening Revenue Administration Processes	17011
 Structure Description and Process	17099,15
-Supervision Processes	16614
+Supervision Processes	16614,2140
 Supervisory Review and Evaluation Process	11134,6369
 Suppliers Data Processor INST-829020C3D9D NAIROBI Kenya	7167
 Survey Processing System DQr Data Quality	15711

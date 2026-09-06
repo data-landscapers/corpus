@@ -193,6 +193,7 @@ Authority. the Kenya Statistics Authority	14594
 Authorized TV Stations Direct-To-Home Bouquet	18444
 Autocheck Vehicle Examination Station	14753
 Autogas Dispensing Station	12256
+Automated Weather Station	18787
 Automatic Agro-Meteorological Stations	12728
 Automatic Climate Stations	12728
 Automatic Synoptic Weather Stations	12728
@@ -351,6 +352,7 @@ CIVIL COURT STATISTICS	12920
 CIVIL REGISTRATION AND VITAL STATISTICS	12338,2629,38
 CIVIL REGISTRATION AND VITAL STATISTICS SYSTEM	12338
 CNBC and Statista's World's Top Fintech Companies	9079
+CNE National Council of Statistics	18777
 COMITE DE COORDINATION DES ETUDES STATISTIQUES	17535
 COMMUNICATION STATISTICS	16992
 COMPILATION OF VITAL STATISTICS	12413,2643
@@ -772,6 +774,7 @@ DÉVELOPPEMENT DE LA STATISTIQUE	15479
 Déclaration Statistique	15999,329
 Déclaration Statistique Fiscale	17945
 Déclarations Statistiques	16328,89,1528
+Département des Statistiques	18757
 Développement Durable SSN Système Statistique National	18077
 Développement des Statistiques	16250
 E--Cross-cutting Statistics	14594
@@ -1016,6 +1019,7 @@ Google Station	3782
 Goverment Finance Statistics	13868
 Governance Gov. Service Centers Police Stations	15578
 Governance The Census and Statistics Act	13359
+Government Expenditure UIS-UNESCO Institute for Statistics	18765
 Government Finance Statistics	13479,1155,143
 Government Finance Statistics Expert	14777
 Government Finance Statistics GIS	14857
@@ -1029,6 +1033,7 @@ Government Statistician Dr. Alhassan Iddrisu	15980,559
 Government Statistician. High-level	18529
 Grasslands Research Station	1554
 Gross Secondary Market Statistics	2775
+Gross Settlement SCI Statistical Capacity Index	18825
 Ground Station	14742
 Ground Stations	17157
 Groundbreaking Ceremony Held For Construction of Statistics	9322
@@ -1122,6 +1127,7 @@ IMF's International Financial Statistics	10985
 IMF's Statistics Department	11554,419,3778
 IMT Base Station	15654
 INDICATEURS DANS LE SYSTEME STATISTIQUE NATIONAL	17945
+INE National Institute of Statistics	18777
 INEGE National Institute of Statistics	16996
 INFORMATION AND STATISTICS	14528
 INS INSTITUT NATIONAL DE LA STATISTIQUE	18143,27
@@ -1193,7 +1199,7 @@ Institut Africain de Statistique. TITRE III	16616
 Institut Centrafricain de Statistique	15351,400
 Institut Centrafricain des Statistiques	7675,7676,64,818,74,66,4,23,17,19
 Institut National Statistique du Mali	17946
-Institut National de Statistique	15351,2491,141
+Institut National de Statistique	15351,2491,141,774
 Institut National de Statistique EVS	737
 Institut National de Statistique du Burundi	13393
 Institut National de Statistiques	16626
@@ -1605,15 +1611,15 @@ National Committee for Statistics	16863
 National Committee for Statistics Committee	16863
 National Committee for Statistics Office	16863
 National Company Statistics	14819
-National Council of Statistics	15760
+National Council of Statistics	15760,3017
 National Development of Statistics	13082
 National Digital Civil Registration and Vital Statistics	15083
 National Energy Statistical Bulletin	15740
 National Health Statistics Conference MOH Leadership	17116
 National ID and Civil Registration and Vital Statistics	13005
-National Institute for Statistics	1828
+National Institute for Statistics	1828,16949
 National Institute for Statistics and Demography	10812
-National Institute of Statistics	237,5652,1813,1706,1355,13,4,184,16,5,286,146,108,348,92,202,34,157,955,1629,559,52,21,458,18,139,358,449,11,94,230,773,29
+National Institute of Statistics	237,5652,1813,1706,1355,13,4,184,16,5,286,146,108,348,92,202,34,157,955,1629,559,52,21,458,18,139,358,449,11,94,230,773,29,654,9,50
 National Institute of Statistics IRPC	11955
 National Institute of Statistics Internet Service Provider	15480
 National Institute of Statistics RGPH	15574
@@ -1638,6 +1644,7 @@ National Planning Commission Central Statistical Agency	13965
 National Planning Commission. The Statistics Act	12367
 National Population Unit and Central Statistical Office	12962
 National Qualification Framework NSO National Statistics	13310
+National Statisitcs Institute	18792
 National Statistic Law	14882
 National Statistical	115,16718,30,223
 National Statistical Act	11860
@@ -1651,12 +1658,12 @@ National Statistical Council and Committees	12643
 National Statistical Database	16833
 National Statistical Development	13359
 National Statistical Information	14882
-National Statistical Institute	10775,623,4634,261,105,1706
+National Statistical Institute	10775,623,4634,261,105,1706,721
 National Statistical Institute of Angola	11423
 National Statistical Institute of Rwanda	12419
 National Statistical Institutes	8532
 National Statistical Institution	11900
-National Statistical Office	1704,4382,3860,466,1300,566,623,5,99,35,109,8,52,101,4355,184,336
+National Statistical Office	1704,4382,3860,466,1300,566,623,5,99,35,109,8,52,101,4355,184,336,653
 National Statistical Offices	8341,86,2392,4801,1307,222,1036
 National Statistical Offices. Download ZIMSTAT Board	13490
 National Statistical Organization	12210
@@ -1666,7 +1673,7 @@ National Statistical Release Calendar	13479
 National Statistical Statistics	16863
 National Statistical Steering Committee	17116
 National Statistical Systcm	11852
-National Statistical System	2360,415,5638,3438,679,21,92,29,34,10,41,144,1,60,120,67,156,5,7,26,16,27,93,486,445,184,183,80,3,2,20,64,88,43,167,215,730,17,627,30,64,8,23,128,30,33,1025,11,59,231,54,78,57
+National Statistical System	2360,415,5638,3438,679,21,92,29,34,10,41,144,1,60,120,67,156,5,7,26,16,27,93,486,445,184,183,80,3,2,20,64,88,43,167,215,730,17,627,30,64,8,23,128,30,33,1025,11,59,231,54,78,57,113
 National Statistical System Activity	16863
 National Statistical System Bureau of Statistics and Census	16863
 National Statistical System Coordination Unit	16863
@@ -1720,7 +1727,7 @@ National Statistical the National Activity	16863
 National Statistics	14819,2014,30
 National Statistics Act	799,12102,248,3684
 National Statistics Action Plan	16927
-National Statistics Agency	223,12276,408,403,7,1572,3412
+National Statistics Agency	223,12276,408,403,7,1572,3412,491
 National Statistics Agency ZNCC Zimbabwe National	12512
 National Statistics Agency of Côte	10508
 National Statistics Council	11873,2082,822,2090,60,189
@@ -1737,7 +1744,7 @@ National Statistics Development Strategy. This Committee	16863
 National Statistics Fund	14594
 National Statistics Fund PART VIII--MISCELLANEOUS PROVISIONS	14594
 National Statistics Fund--	14594
-National Statistics Institute	222,752,3240,4493,2058,10,1,204,400,21,499,301,5669
+National Statistics Institute	222,752,3240,4493,2058,10,1,204,400,21,499,301,5669,955
 National Statistics Institutes	1407
 National Statistics Office	400,8922,1821,1032,37,705,292,748,9,57,8,58,36,24,1,1031,477
 National Statistics Office ORT	12175
@@ -1844,6 +1851,7 @@ Out Stations Base Station Longitude	736
 Out Stations Longitude Latitude Power Capacity	736
 Out Stations TX	736
 Overall Quality of Official Statistics	17149
+Overall Statistical Capacity Score	18792,33
 Overseas Service Liaison Station	13666
 Overview of Liberia’s National Statistical System	16935
 PAN-AFRICAN STATISTICS PROGRAMME Funded	12706
@@ -1965,6 +1973,7 @@ Project Harmonizing and Improving Statistics	16927
 Project LISGS Liberia Institute of Statistics	17140
 Promote Statistical Advocacy	14857
 Promulgation of Statistics Act	12899
+Property Registration and Statistical Development	18792,33
 Property Statistics	10870
 Proposals SVC Static Voltage Compensator TA	15659
 Proposed Frequency Band Number of Base Stations	736
@@ -2163,6 +2172,7 @@ SNBS Somalia National Bureau of Statistics	14929,130
 SOA.18. Department of Statistics and Data Processing Section	16833
 SOCIAL STATISTICS	16935
 SOCIAL STATISTICS Student Enrolments	13479
+SPI Statistical Performance Indicator STEP Systematic	18777
 SPUR ROUTE Station	736
 SPUR Station	736
 SSN Statistiques	17842
@@ -2381,6 +2391,7 @@ Station Information	18309
 Station Issuance	736
 Station N47ame Latitude Longitude	736
 Station Name Latitude Longitude Altitude Antenna	736
+Station Operation	18787
 Station Privée	16615
 Station Purpose Coordinates	736
 Station Road Cambridge CB1	16628
@@ -2440,7 +2451,9 @@ Statistical Bulletin	16935
 Statistical Bureau of Statistics	16863
 Statistical Business Register	14840,245
 Statistical Capability	13359
-Statistical Capacity	1176,10199,1707
+Statistical Capability Index	18825
+Statistical Capacity	1176,10199,1707,5695
+Statistical Capacity Building	18825
 Statistical Capacity Score	13312,2
 Statistical Clearing House	11201
 Statistical Code Card	10645
@@ -2459,8 +2472,9 @@ Statistical Data and Metadata	12499,2278,1961,801,865
 Statistical Data and Metadata Exchange	9207,1737,768,1445
 Statistical Database Relevant	13418
 Statistical Databases Comprehensive	18747
-Statistical Development	14860
+Statistical Development	14860,3965
 Statistical Development Project	15518
+Statistical Development and Property Registration	18825
 Statistical Digest	15604
 Statistical Disruptor and Change Agent	17116
 Statistical Disruptor and National Change Agent	17116
@@ -2576,7 +2590,7 @@ Statisticians and Situation Room Officers	18460
 Statisticien	17845,446
 Statisticien Général Senior Publication	7675
 Statisticiens	15848,2443
-Statistics	7,315,256,383,282,18,553,130,150,681,114,587,128,134,46,1649,789,71,378,161,380,336,154,303,69,174,165,14,32,669,488,92,73,292,345,90,114,153,5,64,7,27,227,73,23,36,49,8,2,199,68,194,94,9,7,12,26,108,51,83,4,82,8,110,56,6,6,111,21,49,106,35,27,119,15,60,10,5,44,31,253,5,33,14,324,274,38,3,102,312,24,70,90,125,15,4,5,3,5,18,4,4,38,4,13,4,4,17,3,2,27,5,1,36,103,22,29,159,236,38,35,3,61,11,30,1,29,28,171,122,533,3,288,27,3,13,11,40,13,2,76,25,43,30,11,22,147,145,17,386,33,1,245,168,151,22,11
+Statistics	7,315,256,383,282,18,553,130,150,681,114,587,128,134,46,1649,789,71,378,161,380,336,154,303,69,174,165,14,32,669,488,92,73,292,345,90,114,153,5,64,7,27,227,73,23,36,49,8,2,199,68,194,94,9,7,12,26,108,51,83,4,82,8,110,56,6,6,111,21,49,106,35,27,119,15,60,10,5,44,31,253,5,33,14,324,274,38,3,102,312,24,70,90,125,15,4,5,3,5,18,4,4,38,4,13,4,4,17,3,2,27,5,1,36,103,22,29,159,236,38,35,3,61,11,30,1,29,28,171,122,533,3,288,27,3,13,11,40,13,2,76,25,43,30,11,22,147,145,17,386,33,1,245,168,151,22,11,302,2
 Statistics Access	13704
 Statistics Accreditation Committee. Stats SL	18475
 Statistics Acknowledgement The Somalia National Bureau	15085
@@ -2610,6 +2624,7 @@ Statistics CHAPTER	15085
 Statistics CRODT	18291
 Statistics CSOs Civil Society Organizations CSCA	13005
 Statistics Cabinet	10765
+Statistics Capacity Baseline Actual	18792
 Statistics Centre de Santé de Base Couverture Sanitaire	14622
 Statistics Charter	12757
 Statistics Consumer Price Index Dimensions	14777
@@ -2822,6 +2837,7 @@ Statistique Directeur Général	16708
 Statistique Dix	18089
 Statistique EBS Echantillonnage Base de Sondage EPA	18169
 Statistique EDSM	17844
+Statistique EMAE Empresa	18757
 Statistique Equipe	15599
 Statistique Femme	17845
 Statistique GAR	17842
@@ -3191,7 +3207,7 @@ Unit Statistics Mauritius	14836
 United Nations Development Programme UNDP and Statistics	14767
 United Nations Fundamental Principles of Official Statistics	11201,1701,247,156,1414,2144,253
 United Nations Principles of Official Statistics	11201
-United Nations Statistical Commission	13305
+United Nations Statistical Commission	13305,5512
 United Nations Statistical Commission ABOUT	18464
 United Nations Statistical Division	16996
 United Nations Statistical Division. Team Lead	14895
@@ -3266,6 +3282,7 @@ WOMEN’S EMPOWERMENT METRIC FOR NATIONAL STATISTICAL	17127
 Water Pumping Stations	12436
 Water Station	15578
 Weather Station BECE Basis Education Certificate	18578
+Weather Station Works	18869
 Weather Stations and Climate Database Management Systems	14738
 WhenThey Don’tTrust Official Statistic	17149
 Whether Official Statistics	17149

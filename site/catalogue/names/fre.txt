@@ -41,7 +41,7 @@ African Continental Free Trade	14997
 African Continental Free Trade Agreement	961,38,244,874,889,1117,1121,1119,1422,3034,366,624,1254,417,542,2475,475,133
 African Continental Free Trade Agreement AMP	5244
 African Continental Free Trade Agreement’s Digital	5487
-African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11,279,43,23,169,115,298,29,219,29,172,234,83,88,123,80,205,49,153,1,50,8,33,43,38,58,9,96,71,129,119,25,1,116,192,514,190,29,284,154,937,82,1,49,186,29,11,13,16,4,34,57,28,11,40
+African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11,279,43,23,169,115,298,29,219,29,172,234,83,88,123,80,205,49,153,1,50,8,33,43,38,58,9,96,71,129,119,25,1,116,192,514,190,29,284,154,937,82,1,49,186,29,11,13,16,4,34,57,28,11,40,1001
 African Continental Free Trade Area ADEEG	11271
 African Continental Free Trade Area AIP	13080
 African Continental Free Trade Area Agreement	5247
@@ -171,6 +171,7 @@ Citizen Frequency User	736
 City of Paris and French Ministry for Europe and Foreign	789
 Civic Freedom Monitor	9022
 Claude KIREZI Remy Bruce SHEMA Fred	12445
+Code of Free and Offshore Activities	18797
 Code of Practice for Packaging and Transport of Fresh Fruit	16900
 Comments Freetown Polytechnic	18547
 Commissioner General Fred Morel	7911
@@ -517,7 +518,7 @@ Free Movement of Workers	12164
 Free Newsletters Free Insider Gold R70pm	7343
 Free Open Source Software ICT	13956
 Free Overall Coverage	11314
-Free Ports	14008,2964
+Free Ports	14008,2964,1825
 Free Press	5349,2672,6702
 Free Press Unlimited	15342
 Free Press of Namibia	11122
@@ -583,6 +584,7 @@ Free Trade Area AfDB African Development	7548
 Free Trade Area COMESA	13563
 Free Trade Area Secretariat	9154
 Free Trade Areas	13320
+Free Trade Zone	18797
 Free Trade Zones	8278
 Free University of Brussels	4577
 Free Use	170
@@ -684,6 +686,7 @@ Freedom of Religion	13948
 Freedom's Future	17967
 Freedom.gov	5366
 Freedom70	18563
+FreedomFromFear	18868
 FreedomPay Wallet	9170
 Freedomhouse	12333
 Freedoms	12214
@@ -801,7 +804,7 @@ Frejus Thoto	10852
 Freleases	4861,929,900
 Frelick	12227
 Frelimo	5815,6333,53
-French	25,31,69,64,21,25,10,1,14,48,30,99,38,6,225,29,31,195,1,55,26,6,147,269,60,67,136,43,7,59,5,24,19,13,5,49,3,4,3,280,63,119,83,163,12,341,5,6,25,72,3,23,41,1,144,173,44,147,40,87,48,14,72,66,93,5,8,64,33,30,17,9,110,31,162,29,1,36,2,12,3,31,46,4,115,39,12,36,15,18,14,45,2,17,16,33,37,64,29,169,31,5,7,26,25,15,24,2,10,22,87,2,1,1,1,20,45,49,8,44,6,33,34,21,31,30,91,19,43,49,1,76,49,120,22,2,4,4,7,29,4,22,21,17,12,29,56,69,52,16,19,20,30,3,6,92,30,1,22,55,13,21,43,74,39,12,6,23,34,1,20,29,62,125,278,3,45,93,111,6,88,1,62,36,234,46,8,205,32,674,99,117,83,52,179,43,71,40,74,57,176,19,108,57,97,4,8,11,29,21,57,29,14,9,3,4,1,136,14,6,28,307,55,61,207,112,2,3,6,34,53,39,1,87,133,56,387,269,339,44,184,33,1,105,52,6,129,58,277,64,274,15,20,14,15,29,17,15,22,16,10,1,30,15,1,5,160,6,65,152,182,80,13,23,64,42,69,19,18,2,240,131,112,51,29,14,5,42,44,2,27,78,227,180,9,64,26,30,127,28,118,22,20,357,129,7,89,24,13,28,2,102,271,36,25,236
+French	25,31,69,64,21,25,10,1,14,48,30,99,38,6,225,29,31,195,1,55,26,6,147,269,60,67,136,43,7,59,5,24,19,13,5,49,3,4,3,280,63,119,83,163,12,341,5,6,25,72,3,23,41,1,144,173,44,147,40,87,48,14,72,66,93,5,8,64,33,30,17,9,110,31,162,29,1,36,2,12,3,31,46,4,115,39,12,36,15,18,14,45,2,17,16,33,37,64,29,169,31,5,7,26,25,15,24,2,10,22,87,2,1,1,1,20,45,49,8,44,6,33,34,21,31,30,91,19,43,49,1,76,49,120,22,2,4,4,7,29,4,22,21,17,12,29,56,69,52,16,19,20,30,3,6,92,30,1,22,55,13,21,43,74,39,12,6,23,34,1,20,29,62,125,278,3,45,93,111,6,88,1,62,36,234,46,8,205,32,674,99,117,83,52,179,43,71,40,74,57,176,19,108,57,97,4,8,11,29,21,57,29,14,9,3,4,1,136,14,6,28,307,55,61,207,112,2,3,6,34,53,39,1,87,133,56,387,269,339,44,184,33,1,105,52,6,129,58,277,64,274,15,20,14,15,29,17,15,22,16,10,1,30,15,1,5,160,6,65,152,182,80,13,23,64,42,69,19,18,2,240,131,112,51,29,14,5,42,44,2,27,78,227,180,9,64,26,30,127,28,118,22,20,357,129,7,89,24,13,28,2,102,271,36,25,236,191
 French AI	10527
 French African	17773
 French Agency for Development	11380,5931
@@ -1002,7 +1005,8 @@ Frequency of Publication	17149
 Frequency of Release of Official Statistics	17149
 Frequency of Report	13005
 Frequency of Review	11956
-Frequent	8436,1520,873,12,627,57,24,437,247,712,3,385,85,1324,422,495,186,1077,1,204,133,359,506,353
+Frequent	8436,1520,873,12,627,57,24,437,247,712,3,385,85,1324,422,495,186,1077,1,204,133,359,506,353,287,12
+Frequent Interruptions	18795
 Frequent Terms	13532
 Frequent Traveller Express Pass	17687
 Frequentemente	11376,193
@@ -1013,6 +1017,7 @@ Frequently Asked Questions	5420,715,805,326,293,1297,3021,340,10,116,2431,8,2107
 Frequently Asked Questions Business Registration	12342
 Frequently Asked Questions Find	18540
 Frequently Used Official Statistics	14777
+Frequentou	18762
 Frequência	10760,17,610,34,156
 Frequência Académica	11472
 Frequência Mínima de Alimentação	10777
@@ -1040,6 +1045,7 @@ Fresnel	15901
 Fresque du Numérique	16205
 Fress MOKOBANDA MALONDA. Mme	16175
 Frestor WONDO WANY	16381
+Frete	18757
 Frete de Transporte	17111
 Frets	17945
 Frets CEE	13377
@@ -1341,6 +1347,7 @@ Orange’s French	10380
 Orçamento da União Europeia António Freitas de Sousa	4938
 Others Free	11017
 Oyo Schoolchildren Regain Freedom	7176
+PERGUNTAS FREQUENTES	18799
 PHCs. Free	16329
 PIM. Frequency Annual Data	3604
 PISU. Frequency Quarterly Data	15658
@@ -1377,6 +1384,7 @@ Point City Freetown Country SL Continental	18579
 Policy of Free and Open Source Software	1009
 Port of Freetown	18577
 Ports and Free Zones Authority	1287
+Portuguese and French	18797
 Power of Data Initiative Freetown Sierra Leone	18520
 President Mr. Frederick Chiluba	13561
 Presidential Decree for Targeted Free Healthcare	10829

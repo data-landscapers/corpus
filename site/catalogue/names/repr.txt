@@ -40,6 +40,7 @@ Anteproyecto de Ley de Represión	17415
 Appointed Representative of Thema Capital Limited	5879
 Appointment of Local Representative	573
 Artci. Représentant Fatim Cissé	4287
+Assembleia Representativa	18751
 Assembly of People’s Representatives	5101
 Assistant FAO Representative	13049
 Authorised Representative	8866,8233,15
@@ -150,6 +151,7 @@ Diversity Representation	15713
 Domest. Respons. Repres. Annual Bruto	4209
 Dr. Isaias Barreto da Rosa Représentant	3269
 Dr. Zabulon Yoti WHO Representative	10776
+Dr.ª Françoise Bigirimana Representante	18783
 Déléguée du Représentant	13549
 ECOWAS Permanent Representation	15879
 ECOWAS Resident Representative	10509,6167,1795
@@ -412,6 +414,7 @@ Private Sector Representatives	14116,2859
 Procurement Representative	12400
 Product Importers Le Représentant Légal	15027
 Professeur Laurent MUSANGO Représentant	14622
+Programa de Saúde Reprodutiva	18768
 Project Representative	17114
 Provided the Representative	16830
 Providers Tax Representative Registration Charging	14785
@@ -482,31 +485,51 @@ Represent the Government	16926
 Represent the Government of Somalia	14879
 Represent the Kingdom of Eswatini	13168
 Represent. Carestia de Vida	4209
-Representa	9289,405,3104,3689
+Representa	9289,405,3104,3689,2276,1,4
 Representación	11563,5312,868
 Representación Diplomática	16871,34
 Representación Habilitada	16855
 Representación Parlamentaria	4209
 Representando	10325
 Representant	14662,922
-Representante	2437,1,610,1663,36,1071,200,154,2458,2121,4753,634,841,36,397
+Representante	2437,1,610,1663,36,1071,200,154,2458,2121,4753,634,841,36,397,1348,23,5
 Representante Fiscal	11383
 Representante Municipal da Educação	10751
 Representante Permanente	4209,7184
 Representante Permanente Adjunto	4209
-Representante Residente	758,8502,6639,160,920
+Representante Residente	758,8502,6639,160,920,1790
+Representante Residente Adjunta	18861
 Representante da CEDEAO	11540
-Representante da Delegação da União Europeia	6018
-Representante da OMS	15966
+Representante da Câmara Distrital	18760
+Representante da Câmara Distrital de Cantagalo	18760
+Representante da Câmara Distrital de Caué	18760
+Representante da Câmara Distrital de Lembá	18760
+Representante da Câmara Distrital de Lobata	18760
+Representante da Câmara Distrital de Mé-Zóchi	18760
+Representante da Delegação da União Europeia	6018,12786
+Representante da Direcção	18760
+Representante da Direcção Nacional	18760
+Representante da Direcção de Apoio	18760
+Representante da Direcção de Estudos	18760
+Representante da Direcção de Florestas	18760
+Representante da Direcção-Geral	18760
+Representante da Federação	18760
+Representante da Federação Nacional	18760
+Representante da OMS	15966,2817
+Representante da OMS Desde	18783
+Representante da Organização Mundial da Saúde	18863
+Representante da Presidência da República	18760
+Representante da Região Autónoma	18760
 Representante da União Europeia	11540
 Representante de UNICEF	16894
 Representantes	4209,2761,734,3725,25,4,58,1307,2536
 Representantes Legais	11404
 Representantes da Comissão Intersectorial	10752
 Representantes da Sociedade Civil	10752
+Representantes da UIT	18818
 Representantes de GETESA	17087
 Representantes de MOOV Gabon	17087
-Representar	13,154,4051,7163,1,53,8,6,69,3873,112,23,46,340
+Representar	13,154,4051,7163,1,53,8,6,69,3873,112,23,46,340,2839,22,5,22
 Representation	27,945,502,2240,147,1815,1872,207,166,707,136,4007,300,248,155,1553,686,1123,1764
 Representation Conflicts	12360
 Representation Equal Civil Liberties Equal Socioeconomic	10759
@@ -566,9 +589,10 @@ Representatives of SCRA	7647
 Representatives of School Based Management Committees	11860
 Representatives of Taxpayers	12629
 Representatives of Vodacom Lesotho Foundation	12692
-Representação	11569,3827,298
+Representação	11569,3827,298,3080
 Representação da OMS	11376
-Representações Diplomáticas	15380
+Representações	18779
+Representações Diplomáticas	15380,3370
 Represented	2933,4918,270,588,277,1611,1538
 Represented Political Parties Fund	11218
 Represented Political Parties' Fund	11285,701
@@ -686,7 +710,7 @@ Reproductive and Maternal Health Services	14033
 Reproduire	17845,457
 Reprodutiva	10777,2020
 Reprodutiva Antes	10777
-Reprodução	2816,7941,20,4777,535
+Reprodução	2816,7941,20,4777,535,2669,42
 Reprofilage	2342
 Reprographe Contractuel	17827
 Reprographie	17899
@@ -777,12 +801,12 @@ Republic The House of Representatives	15484
 Republic of Benin Represented	15399
 Republic of Kenya and Permanent Representative	14039
 Resident Coordinator and Resident Representative	16973
-Resident Representative	158,6178,1366,19,953,631,461,1505,274,1343,160,1981,35,9,55,1868,213,117,544,39,27,54,445,107,17
+Resident Representative	158,6178,1366,19,953,631,461,1505,274,1343,160,1981,35,9,55,1868,213,117,544,39,27,54,445,107,17,264
 Resident Representative Aissatou Diallo	1751
 Resident Representative Aliou Mamadou Dia	17370
 Resident Representative Fatou Fall	13840
 Resident Representative Mauritius and Seychelles Digital	14752
-Resident Representative Office	15029
+Resident Representative Office	15029,3794
 Resident Representative for UNDP	15195
 Resident Representative of UNDP	5356
 Resident Representative of UNDP Liberia	17173
@@ -801,11 +825,12 @@ Samegrelo- Zemo Svaneti State Representative and Municipal	14621
 Santé REST Representational State Transfer	13306
 Santé Reproductive	14622
 Santéde la Reproduction	18100
-Saúde Reprodutiva	15966
+Saúde Reprodutiva	15966,2802
 Saúde Reprodutiva IEFP Instituto	15535
 Schematic Representation of Implementation Arrangements Note	17962
 Score Rank Rural Representation	12353
 Senate and House of Representatives	700,16132,3,6,10,57
+Senhora Representante Residente	18786
 Sexual Reproductive	13163
 Sexual Reproductive Health	16951
 Sexual Reproductive Health and Rights	8604
@@ -846,6 +871,8 @@ Tanzania. Representatives	1261
 Taux Brut de Reproduction TELEX	13377
 Tax Agents and Tax Representatives	14533
 Tax Representatives	14784
+Taxa Bruta de Reprodução	18768
+Taxa Líquida de Reprodução	18768
 Tobacco Control FRH Family and Reproductive Health	17289
 Togo’s Representative	965,3924,206
 Tourism ASRH Adolescent Sexual and Reproductive Health	17289
@@ -931,6 +958,7 @@ V5T V5V Loyers V5W V5X Reprises	18032
 V6L Loyers V6N V6P Reprises	18032
 V7A V7B Loyers V7C V7D Reprises	18032
 Vehículo Domes. Repres. Respons. Soberanía Annual	4209
+Vera Cravid Representante Interino	18812
 WELFARE Equal Political Representation	10835,3,130,902,16,466,1,135
 WFP Representative and Country Director	16526
 WMO Permanent Representative of South Sudan	18677

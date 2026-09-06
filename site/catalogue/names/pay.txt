@@ -120,6 +120,7 @@ Automated Payment The POS	11955
 Automated Payments	15260
 Automatic Payment	11955
 Automatic Payment Terminals	11955
+Automatic Payments System Management Company TVS	18770
 Automation of Government of Liberia’s Payments	17235
 Autres Pays	18332
 Autres Pays MENA	17478
@@ -152,7 +153,7 @@ BUY NOW PAY LATER	4824
 Balance of Pay-	2775
 Balance of Payment	13122,3982,213
 Balance of Payment BR	14857
-Balance of Payments	2775,1132,2102,5122,1791,34,167,356,389,3281,60,26,22,60,9,95,82,406,81
+Balance of Payments	2775,1132,2102,5122,1791,34,167,356,389,3281,60,26,22,60,9,95,82,406,81,833
 Balance of Payments Developments	17104,213
 Balance of Payments Eswatini	11134
 Balance of Payments International Investment Position	2775
@@ -496,6 +497,7 @@ Electronic Payment Directive. The Federal Government	14014
 Electronic Payment Forum and Exhibition	4680,13064
 Electronic Payment Forum and Exhibition URL	17744
 Electronic Payment Management System	12270
+Electronic Payment Platform	18767
 Electronic Payment Service Provider	10418
 Electronic Payment Services	7391,773,4373,5
 Electronic Payment Services Citation	5687
@@ -523,6 +525,8 @@ Empowering Digital Payments	3895
 Enable Nationwide Instant Interoperable Payments	7301
 Enable Nationwide Instant Interoperable Payments Nigerian	6887
 Enable Nationwide Instant Interoperable Payments Rwanda	7301
+Encapsulating Security Payload	18774
+Encrypted Security Payload	18774
 Enhance ATI NaCCED Chair Pays Courtesy	18442
 Enhanced Payment Service Provider	6368
 Enhanced Payment System	16944
@@ -1475,7 +1479,7 @@ Paylogic	11955
 Paymaster	13533
 Paymaster General	6921,2571
 Paymaster's Office	13533
-Payment	822,140,905,908,808,131,1110,300,316,190,61,172,534,16,259,266,176,40,8,11,48,1,473,313,11,6,122,1164,185,407,69,39,2,144,250,98,214,44,22,44,135,13,153,1,38,12,37,332,305,2,12,86,1,4,16,10,14,8,33,170,3,55,1,65,23,1,5,1,9,15,11,2,3,4,38,7,36,181,241,26,93,11,11,24,8,100,103,43,1,1,24,25,13,25,32,22,92,419,29,123,256,29,5,31,4,84,128,43,11,50,4,37,15,9,15,39,22,78,26,97,5,247,106,88,63,29,1,4,238,76,167,109,299,77,213,1,35,7,93,22,11,97,6,24,105,6,1,117,361,96,25,57,198,197,18,129,2,12,11,70,13,20
+Payment	822,140,905,908,808,131,1110,300,316,190,61,172,534,16,259,266,176,40,8,11,48,1,473,313,11,6,122,1164,185,407,69,39,2,144,250,98,214,44,22,44,135,13,153,1,38,12,37,332,305,2,12,86,1,4,16,10,14,8,33,170,3,55,1,65,23,1,5,1,9,15,11,2,3,4,38,7,36,181,241,26,93,11,11,24,8,100,103,43,1,1,24,25,13,25,32,22,92,419,29,123,256,29,5,31,4,84,128,43,11,50,4,37,15,9,15,39,22,78,26,97,5,247,106,88,63,29,1,4,238,76,167,109,299,77,213,1,35,7,93,22,11,97,6,24,105,6,1,117,361,96,25,57,198,197,18,129,2,12,11,70,13,20,185
 Payment A. Ceiling For Services	13037
 Payment Access Devices	4517,2461
 Payment Access Points	4517,2461
@@ -1912,6 +1916,7 @@ Processing Payment for Road Tolls User Guidelines	12454
 Program PSD Payment System Department URDCA	14897
 Programme Pays de Renforcement des Capacités	15712
 Promote Safety and Efficiency of Kenya's Payments System	12286
+Promotion of Digital Payments. Development	18825
 Proof of Payment	14216
 Property Tax Payment	16949
 Province Nationalité Nationalité Burundaise PAYS	13390
@@ -2112,6 +2117,7 @@ Sub- Paymaster General’s Account	13420
 Sudan Payment Infrastructure Assessment Report URL	14909
 Sudan's National Payment Switch	9451
 Sudan's National Payment System Director	3679
+Superficie du Pays	18757
 Supervision Payment	11131,3
 Support Banking Department Payment Systems Services	17235
 Support for Digital Payments	603

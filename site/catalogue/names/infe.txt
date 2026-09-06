@@ -1,6 +1,7 @@
 Abuse STI Sexually Transmitted Infection TWG	12939
 Accidents Road Traffic Accident Respiratory Infections	12151
 Acute Respiratory Infections	21
+Administrativos Inferior	18768
 Anaemia Infections Cardio Pul-	12151
 Associate Professor of Infectious Disease	15321
 Autodeclaração de Infecções de Transmissão Sexual	10777
@@ -76,9 +77,11 @@ Infectious Disease Research	13430
 Infectious Disease Response Goes Digital	10374
 Infectious Disease Unit	13122
 Infectious Diseases	10919
+Infecção	18768
+Infecção Respiratória Aguda	18768
 Infecções	966,9794
 Infecções Transmissíveis Sexualmente	10777
-Infelizmente	1215,1601,8707,46
+Infelizmente	1215,1601,8707,46,7214
 Inference	6879,669,241,2288,374,807,320,378,992,214
 Inference AI	6232
 Inferior	11416
@@ -121,6 +124,7 @@ Sexually Transmitted Infections TA Technical Assistance	1988
 Sexually Transmitted Infections TB	10776
 Sintomas de Infecção Respiratória Aguda	10777
 Sintomas de Infecções Transmissíveis Sexualmente	10777
+Sintomas de Infeção Respiratória Aguda	18762
 Symptoms of Acute Respiratory Infection	13454,4987
 Symptoms of Sexually Transmitted Infections and Prior HIV	15247
 T Infection Sexuellement Transmissible	15711

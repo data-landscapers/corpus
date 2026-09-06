@@ -1,3 +1,4 @@
+ACESSO A BANDA LARGA FIXA	18791
 Abonnements Internet Fixe	16326
 Abonnées Fixes	18122
 Abonnés Tel. Fixe	419
@@ -7,7 +8,8 @@ Application Fixed Wireless Access Maximum	736
 Authority FTE Full-Time Equivalent FWA Fixed	12395
 B. Fixed Penalty Notice	7845
 BRICS FIXED AFFORDABILITY	11262
-Banda Larga Fixa	16558
+Banda Larga Fixa	16558,2233
+Banda Larga Fixa Trimestres	18791
 Banque Centrale des Comores Fixe	13712
 Basis for Enterprise Solution Fixed Broadband Services	14151
 Basket Fixed- Mobile- Data-only Mobile	11563
@@ -23,6 +25,7 @@ Broadband Fixed-broadband	11563
 Bug Fixes	15867
 Business Corporations GFCF Gross Fixed Capital	14777
 Business Unit Fixe	9916
+CAPÍTULO IV Fixação	18752
 COMMUNICATION AUTHORITY OF KENYA Fixed Telephony	6946
 CORE TELECOMMUNICATION SERVICES B1. Fixed Line	17250
 CRA Iraq Yes Fixed Broadband Policy	11529
@@ -54,7 +57,11 @@ ENDROIT FIXE	13300
 ET DES FINANCES FIXATION DE PRIX	15692
 EVOLUÇÃO DE ACESSO FIXO VIA RÁDIO	11531
 Electricity Infrastructure Not Fixtures	16851
+Engine Issues Fix	18837
 Enhanced Mobile Broadband and Fixed Wireless Access	2528
+Evolução Assinantes Banda Larga Fixa	18791
+Evolução de Banda Larga Fixa	18791
+Evolução de Tráfego Internacional Fixo	18791
 Excise and Preventive Service CFC Consumption of Fixed	236
 F FIXED WIRELESS	14879
 FBB Fixed Broadband FDI Foreign Direct	10781,80,1566,2055
@@ -138,16 +145,16 @@ Fix Jdid	2405
 Fix Leadership Before Chasing	4942,664,283,454,183
 Fix SQL	11922
 Fixant	9080,1895,3488,3631
-Fixar	11430,4659
+Fixar	11430,4659,2689,22
 Fixate	7751
 Fixating	9759
 Fixation	13291,84,58,1961,32,266,193,58,104,248,72,58,1671
 Fixation des Conditions	13313
 Fixation des Conditions de Mise	15497
-Fixação	11518,2,1333,2505
+Fixação	11518,2,1333,2505,3440,55
 Fixe Taux	998
 Fixe. En	18122
-Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58,379,165,94,2,784,53,117,353,215,17,44,223,16,69,167,52,47,40,106,145,105,685,258,73,6,11,40,35,261,14,129,364,12,107,8,7,1,245,362,71,77
+Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58,379,165,94,2,784,53,117,353,215,17,44,223,16,69,167,52,47,40,106,145,105,685,258,73,6,11,40,35,261,14,129,364,12,107,8,7,1,245,362,71,77,121,23
 Fixed Annual	13331
 Fixed Asset	13053,2037
 Fixed Asset Management Units	9004
@@ -414,6 +421,7 @@ International Fixed Voice Traffic Jan-Mar	6671
 International Incoming Fixed Network Voice	6671
 International Outgoing Fixed Network Voice	6671
 International Outgoing Fixed VoIP	6671
+Internet Fixa	18791
 Internet Fixe	998,14594
 Internet Fixe Graphique	998
 Internet Fixe Parc	998
@@ -476,7 +484,10 @@ National Fixed Voice Traffic	15136
 Network Operator Fixed Network Operator Q3	2776
 Nigeria’s Wholesale Fixed Broadband Market Assessment	10958
 Non-Protected Fixed Links	6946
+O SERVIÇO BANDA LARGA FIXA	18791
+O SERVIÇO BANDA LARGA FIXA--12	18791
 OPERATORS The Fixed	3862
+ORIGINADOS NA REDE FIXA DURANTE OS	18791
 Offices Operational Service Points Fix Service	8999
 On-Net Fixed	2776
 Only One Cable-laying Ship Can Fix	2677
@@ -509,12 +520,20 @@ Quarterly Domestic Fixed Voice Traffic	6671
 Quarterly Variation Fixed	6671
 RECEITA DE INTERNET FIXO VIA RÁDIO	11531
 RECEITAS DE SERVIÇO DE INTERNET FIXO	11531
+REDE TELEFÓNICA FIXA Tabela	18791
+Rede Fixa	18791
+Rede Telefónica Fixa	18791
 Retail Tariffs for Mobile and Fixed Telephone Service	718
 Rural Fixed Broadband Wireless Access Systems	736
 SADC FIXED-BROADBAND AFFORDABILITY	11262
 SADC FIXED-BROADBAND BASKET	11211
 SAMU Niger MOTOROLA Base Fixe VHF	998
 SDF Sans Domicile Fixe SCA Stratégie	18286
+SERVIÇO DE VOZ FIXA	18791
+SERVIÇO TELEFÓNICO FIXO	18791
+SERVIÇO TELEFÓNICO FIXO Conforme	18791
+SERVIÇOS DA REDE FIXA	18791
+SERVIÇOS NA REDE FIXA	18791
 SEZ Special Economic Zone FBB Fixed	3184,1,1340,6470
 SGG FIXANT LES TARIFS DES ACTES	16635
 SMS AMERICAN TOWERS Fixe	998
@@ -529,8 +548,10 @@ TANGIBLE FIXED ASSETS AND INTANGIBLE ASSETS	11955
 TAUX FIXE	15901
 TAUX FIXE Anatole Collinet MAKOSSO	15901
 TECHNOLOGY SECTOR REPORT Fixed Telephony Main	12395
+TELEFONIA FIXA	18791
 TELEPHONE LINES Fixed	14853
 TRANCHE A TAUX FIXE	15901
+TRÁFEGO NA REDE TELEFONE FIXO Registou-se	18791
 Taux Fixe	15901
 Taux Fixe Projet	15901
 Technical Global KPIs for Fixed Access Networks	13331
@@ -543,6 +564,10 @@ Thousand Fixed Line Subscriptions Devices and Terminals	9781
 TradeSmart Fixed Income EMS Cyber Heroines	7156
 Trend of Fixed Broadband	15136
 Trend of Fixed Broadband Subscriptions	15136
+Tráfego Internacional Fixo A Companhia	18791
+Tráfego Nacional Fixo	18791
+Tráfego Nacional Fixo GRÁFICO	18791
+Tráfego Nacional Fixo-Fixo Tráfego Nacional Fixo-Móvel	18791
 TÉLÉPHONE FIXE	13300
 UGPE. Fixed-broadband Internet	11965
 UHF Fixed	17250
@@ -550,6 +575,7 @@ UHF Television Fixed Links	17250
 UTILIZADORES DE SERVIÇO DE INTERNET FIXO	11531
 Usage Basket Fixed Broadband	12395
 Uzbekistan. Fixed-broadband	10844,7279
+V.2. Análise de Despesas Fixadas	18798
 VDSL and Fixed Wireless Access	1818
 VHF Fixed	17250
 VHF PMR Fixed	6946

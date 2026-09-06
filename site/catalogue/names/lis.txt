@@ -249,6 +249,8 @@ II LIST OF TABLES	16041
 II LISTE DES SIGLES	15475
 II List of Tables V List of Figures	13991
 II Liste	15599
+II. LISTA DE TABELAS	18794
+II. LISTA DE TABELAS Tabela	18794
 II. LISTE DES SECTEURS	10906
 II. List	16872
 III LIST OF ANNEX	10980
@@ -274,6 +276,7 @@ Inc.iii TABLE DES MATIÈRES Liste	7655
 Individual License APPENDIX B LIST	762
 Infrastructure Following VFEX Listing	7534
 Initial LIST OF ANNEXES Annex	13037
+Internacionais Lista	18751
 International LISGIS	17116
 Intégration FIXANT LA LISTE NOMINATIVE DES	17829
 JOUR DE LA LISTE ELECTORALE	18101
@@ -346,7 +349,7 @@ LISGISshould	16833
 LISGIS’s Coordinating and Consolidating Role LISGIS	17116
 LISSEME NTSOUMOU Stanislas UGP Responsable des Activités	16012
 LIST OF ABBREVIATED TERMS Alternative Dispute	11956
-LIST OF ABBREVIATIONS	1000,3126,88,7004,6,3499,934,1243
+LIST OF ABBREVIATIONS	1000,3126,88,7004,6,3499,934,1243,1887
 LIST OF ABBREVIATIONS AND ACRONYMS	14985,2058
 LIST OF ABBREVIATIONS AND ACRONYMS AEO	14985
 LIST OF ABBREVIATIONS AND ACRONYMS ARREST	17043
@@ -433,6 +436,7 @@ LISTA DAS SIGLAS E ACRÓNIMOS	11523
 LISTA DE ABREVIATURAS E SIGLAS	10777
 LISTA DE ABREVIATURAS E SIGLAS ADECOS	10777
 LISTA DE CARTOGRAMAS Cartograma	4044
+LISTA DE CONTABILISTAS E EMPRESAS	18845
 LISTA DE EXCLUSÃO	11406
 LISTA DE FIGURAS	11387
 LISTA DE FIGURAS Figura	11555,3980
@@ -450,6 +454,7 @@ LISTA DE TABELAS Quadro	2138
 LISTA DE TABELAS Tabela	15535
 LISTA DE TABLAS	16898,64,7
 LISTA DE TABLAS Tabla	16898,64,7
+LISTA DOS ANEXOS Anexo	18753
 LISTA DOS CANDIDATOS SELECIONADOS BOLSA	17308
 LISTAS DOS GRAFICOS Gráfico	10757
 LISTAS DOS QUADROS Quadro	10757
@@ -589,8 +594,10 @@ Lisa Weedon	13259
 Lisala Fifita	16631
 Lisant	7788
 Lisboa	2618,1338,982,454,1950,3814,431,555,642,3272
+Lisboa Portugal	18875
 Lisboa T	3079
 Lisbon	627,586,150,1712,3293,840,566,1722,882,947,683,153
+Lisbon Agreement	18797
 Lisbon Council	7471
 Lisbon Forum	15881
 Lisbon and Johannesburg	9496
@@ -675,7 +682,7 @@ List of FIGURES	18443
 List of Fees	12389,6206
 List of Figures	236,346,1232,4186,946,4249,55,812,89,800,1824,183,671,1314,32,17,51,73,33,8,1029,31,237
 List of Figures Chapter	10763
-List of Figures Figure	958,856,174,787,3225,946,709,3063,477,64,803,855,1074,738,401,474,1272,59,57,4,131,1059,31,237,6,167
+List of Figures Figure	958,856,174,787,3225,946,709,3063,477,64,803,855,1074,738,401,474,1272,59,57,4,131,1059,31,237,6,167,143
 List of Figures Glossary of Terms Abbreviation Expansion	12917
 List of Figures PART	11250
 List of Figures Page	14775
@@ -748,12 +755,12 @@ List of Tables List of Figures List of Abbreviations	18460
 List of Tables Ministry of Information Civic Education	12917
 List of Tables PART	11250
 List of Tables Page List of Figures Page	11986
-List of Tables Table	1814,961,2880,345,5195,64,12,791,855,22,1052,784,147,208,34,440,1359,33,131,133,926,31,237,6,15,10,19,123
+List of Tables Table	1814,961,2880,345,5195,64,12,791,855,22,1052,784,147,208,34,440,1359,33,131,133,926,31,237,6,15,10,19,123,143
 List of UN	14006
 List of UNCTAD	13382
 List of Values	6423
 List of ZEMA	1988
-Lista	10753,24,588,1,90,72,19,27,8,1192,3516,608,134,71,44
+Lista	10753,24,588,1,90,72,19,27,8,1192,3516,608,134,71,44,1613,19
 Lista Anexa	16022
 Lista Contactos Técnicos de Apoio	12018
 Lista de Abreviaturas	11537
@@ -764,12 +771,14 @@ Lista de Normas Cabo-verdianas URL	15645
 Lista de Países	2816
 Lista de Países Africanos	2816
 Lista de Referências	2138
+Lista de Termos	18788
 Listado	16904
 Listagem	10777
 Listagem de Utilizadores de Risco NIB	17032
 Listahanan	11133
 Listahanan Info Kit. Quezon City	11133
 Listar	11435,586
+Listas	18752
 Listas de Presença Figura	17147
 Listas de Recenseamento Eleitoral	11528
 Liste	747,18,57,176,233,418,3981,1329,696,3056,102,8,26,25,4,99,613,356,99,1257,24,51,2,37,280,794,1,1,47,2,83,807,29,16,94,12,19,71,36,18,3,40,14,53,14,60,25,3,7,69,25,10,101,1,34,139,6,31,261,6,96,25,738,3,26,19,1,285,4,12,8,1,1,19,8,10,12,8,5,6,70,32,2,82,19,3,149,20,7,15,3,7,5,63,4,38
@@ -866,6 +875,7 @@ Master Health Facility List MP	11252
 Master List	13310
 Methods Timing Proposed Project Stage List	17114
 Migration Projection LISGIS	16935
+Miguel Anjos da Cunha Lisboa Trovoada	18749,1
 Ministry of Public Service and Administrative Reforms List	14770
 Mme DIARRA Aminata DEMBELE LISTE DES	17829
 Mme Paule LISSENGUET YAPA. DIRECTION GENERALE	16381
@@ -902,6 +912,7 @@ National List of Essential Medicines	10776
 National List of Essential Medicines LQAS	10776
 National List of Occupations	6832
 National Standardised Price List	13685
+Natural Vegetation Charter. Lisbon	18787
 Negative List	16219
 Negative List. Fill	1988
 Nigeria Joins Lisbon and Johannesburg Gbenga Ajao	9496
@@ -1024,6 +1035,7 @@ Strange Son Listed	10265
 Submitted List	11276
 Sumário Lista	11574
 Sustainable Development Goals. Lisa Singh United	14566
+São Tomé and Principe. Lisbon	18787
 Sékou Bamba DIAKITE LISTE DES MEMBRES	17829
 TABLE DES MATIERES LISTE DES ABREVIATIONS	14442
 TABLE DES MATIERES LISTE DES FIGURES	15936,2167
@@ -1056,6 +1068,7 @@ UK and Lisbon	7774
 UNESCO List of Intangible Cultural Heritage	14742
 UNESCO Representative List of Intangible Cultural Heritage	14742
 UNESCO World Heritage List	14742
+UNESCO’s List	18810
 UNHCR. The Lisungi Experience	11905
 Uganda Lisa Chesney	5109
 Uncleared Cargo List	11036
@@ -1087,6 +1100,7 @@ WORK TRANSITION List of Figures Figure	11271
 WRS-ITC and LISA	15552
 Waiting List Program	15977
 Washington DC. Liscence	12255
+Web Summit de Lisboa	18871
 Web-based LIS	18293
 WebSummit Lisboa	16251
 White List	11184

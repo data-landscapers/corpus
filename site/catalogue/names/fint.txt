@@ -178,6 +178,7 @@ FinTech and Digital Banks	4972
 FinTech and Digital Payments	6938
 FinTech and Digital Payments In the UMOA	6938
 FinTech and Innovation Department	3870,3070
+FinTech and Regtech	18770
 FinTech and Regulatory Innovations The Bank of Tanzania	7763
 FinTech and Tech	5244
 FinTech and Telecoms	4528
@@ -188,9 +189,10 @@ FinTechDigital	5384
 FinTechMalawiDigital	6809
 FinTechRwandaInnovationFintechAfricaRead	6184
 FinTechRwandaNational Bank of RwandaDigital	7272
-FinTechs	2974,5367,946,55,3102,154,2399,675,472,401,1325,576
+FinTechs	2974,5367,946,55,3102,154,2399,675,472,401,1325,576,324
 FinTechs Cloud	6938
 FinTechs Format	16545
+FinTechs and RegTechs	18770
 FinTechs da Sandbox	2974
 FinTechs. Infrastructure	12444
 Financial Fintech	14997
@@ -458,7 +460,7 @@ Nigeria’s Fintech Evolution	3931
 Nigeria’s Fintech Landscape and Global Trends	4848
 Nigeria’s Fintech Landscape and Global Trends Financial	4848
 Novatek Fintech Owned Offices N	4896
-Number of FinTech	14997
+Number of FinTech	14997,3773
 Number of FinTechs	14997
 Number of Fintech-specific	14819
 OWLPRESS Fintech Firm Open Hub Launches	5939

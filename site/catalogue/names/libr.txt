@@ -48,7 +48,7 @@ Department of Library	8022
 Department of Library and Information Science	8022
 Digital Incubator Libreville	15411
 Digital Law Library	11607
-Digital Library	4439
+Digital Library	4439,14357
 Digital Library Management	15164
 Digital Library Management System	15164
 Directorate of Library and Archive Services	12345
@@ -109,6 +109,7 @@ LIBREVILLE	1575,2634,3579,152,212,150,459,1,656,213,95,110,92,557,1,3846,1728,99
 LSE Library	14706
 Law Library	11235,2126
 Le RIC de Libreville	16037
+Libra Esterlina	18829,31,20
 Libralian	13532
 Libraport	16714
 Librarian and Information Officer Jankee	14841
@@ -193,6 +194,11 @@ M Cloud Library	8022
 M. Régis Parfait EFFAH. Libreville	16381
 MW Libreville	16037
 Maltahohe Maltahohe Library	13046
+Marché de Change Libre Fonte	18757
+Marché de Change Libre II	18757
+Marché de Change Libre III	18757
+Marché de Change Libre IV	18757
+Marché de Change Libre MÉDIA ANUAL	18757
 Math Library	11471
 Mauritius Council of Registered Librarians	14847
 Media Library News Events E-Services Accessibility	14721

@@ -110,7 +110,7 @@ Consumption Score	12978
 Consumption Score FES Food Expenditure	17285
 Copy of Education Plan P3-10. Scope	12500
 Corner of Fidel Castro and Rev. Michael Scott	13073
-Corporate Scorecard	11965,587,3214,266
+Corporate Scorecard	11965,587,3214,266,2777
 Corporate Scorecard Indicator	15658
 Corporate Scorecard Indicators	3604,2935
 Corporte Scorecard Indicator. Frequency Quarterly Data	15658
@@ -306,7 +306,7 @@ Integration Test Scope Integration	11952
 Interim President Guy Scott	12353
 Interior and Scope	9399
 Internet Freedom Score28	15926
-Internet Resilience Score	11470,3088,4075
+Internet Resilience Score	11470,3088,4075,203
 J. Scott	17780
 Justice and Anti-Corruption. Trend Measure Score	10838
 Kenya ERI Scores	12256
@@ -381,6 +381,7 @@ Objectives and Scope	2112,13052
 Obs Emp. Score	17127
 Ongoing Assessment Scoring	16963
 Open Data Inventory Score	15480
+Open Data Inventory Score ODIN	18840
 Open Data Inventory Score Open Data	15447
 OpenSSF Scorecard	11922
 Operational Performance Scorecards KPA KPI BASELINE	16968
@@ -389,6 +390,7 @@ Orientation Scolaire	16196,2071
 Orientation Scolaire LPB	15673
 Overall Connectivity Score	2552
 Overall Score	11863
+Overall Statistical Capacity Score	18792,33
 Oversight Ethics Adaptability Total Score	15713
 P1-1 Assessment Scoring Score Score Method	12500
 P1-2 Assessment Scoring Score Score Method	12500
@@ -464,6 +466,7 @@ Principle and Scope Data	3861
 Privacy Scorecard Report	6212
 Progress DARE Index Score Summary	11935
 Project Scope	14576
+Project Scope Total Budget	18795
 Promoter Score Point of Sale Quarterly Gross	11134
 Propensity Score	12978
 Propensity Score Matching	9349,1503,2126
@@ -471,6 +474,8 @@ Propensity Score Matching Analysis. Milan	12978
 Propensity Scores Distribution and Common Support for Food	12978
 Protecting Minority Investors Score	18109
 Provision of Credit Scores	12389
+Príncipe Doing Business Score	18767
+Príncipe UN EGOV Survey Score	18767
 PubMed and Scopus	766
 Public Broadcasting Scorecard	8481
 Purpose and Scope	3972,77,105,93,55,6411,2222,2229,1686,1
@@ -600,7 +605,7 @@ Scolarité	13390,2178
 Scolarité Axe	15568
 Scombined	8606
 Scooters	16047
-Scope	25,3,208,526,97,150,176,24,5,9,20,94,14,163,72,1,5,13,132,5,43,9,83,36,75,102,5,64,1,48,217,40,314,423,5,389,32,1,22,27,78,105,24,159,56,13,16,173,64,16,11,97,1,27,22,1,193,162,236,59,1,6,61,406,199,39,529,133,189,78,59,46,1,122,23,2,3,133,181,49,97,183,59,101,258,53,344,44,163,11,297,2,39,21,186,294,1,484,69,31,576,98,70,85,44,95,23,1,1,28,56,48,43,44,1,16,100,284,59,1,79,1,11,4,57,138,15,44,30,13,2,47,37,21,14,15,11,13,34,53,172,231,27,107,5,86,57,21,104,4,6,2,21,5,7,3,23,80,9,481,25,465,52,72,37,45,11,8,94,55,15,2,2,28,5,3,4,33,14,60,12,41,22,7,18,45,35,355,259,23,389,7,18,627,3,1,10,32,75,108,31,92,21,43,112,136,606,66,195,82,73,6,25,11,45,33,79
+Scope	25,3,208,526,97,150,176,24,5,9,20,94,14,163,72,1,5,13,132,5,43,9,83,36,75,102,5,64,1,48,217,40,314,423,5,389,32,1,22,27,78,105,24,159,56,13,16,173,64,16,11,97,1,27,22,1,193,162,236,59,1,6,61,406,199,39,529,133,189,78,59,46,1,122,23,2,3,133,181,49,97,183,59,101,258,53,344,44,163,11,297,2,39,21,186,294,1,484,69,31,576,98,70,85,44,95,23,1,1,28,56,48,43,44,1,16,100,284,59,1,79,1,11,4,57,138,15,44,30,13,2,47,37,21,14,15,11,13,34,53,172,231,27,107,5,86,57,21,104,4,6,2,21,5,7,3,23,80,9,481,25,465,52,72,37,45,11,8,94,55,15,2,2,28,5,3,4,33,14,60,12,41,22,7,18,45,35,355,259,23,389,7,18,627,3,1,10,32,75,108,31,92,21,43,112,136,606,66,195,82,73,6,25,11,45,33,79,114
 Scope Anticipated	17330
 Scope Conditions and Limitations	7966
 Scope Development	14441
@@ -739,7 +744,7 @@ Scopus	766,482,6542,881,566,7230,1306
 Scopus and PubMed	766
 Scopus and Web of Science	10323
 Scopus. Among	766
-Score	643,256,288,631,1578,391,1878,5094,76,2,1,36,38,56,1,7,276,618,4,7,3,1,1,1,1,1,6,3,37,217,2,5,1,3,42,36,99,1,5,5,1,1,2,21,111,1,90,339,268,115,25,33,662,1144,283,27,6,32,44,157,12,211,25,361,400,170,104,118,13,22,8,128,585,14,193,32,249,275
+Score	643,256,288,631,1578,391,1878,5094,76,2,1,36,38,56,1,7,276,618,4,7,3,1,1,1,1,1,6,3,37,217,2,5,1,3,42,36,99,1,5,5,1,1,2,21,111,1,90,339,268,115,25,33,662,1144,283,27,6,32,44,157,12,211,25,361,400,170,104,118,13,22,8,128,585,14,193,32,249,275,154,38
 Score Academic	13031
 Score Adoption Situation	17157
 Score Angola	5247
@@ -789,7 +794,7 @@ Score Slowing Improvement Warning Signs	10835,3,130,902,16,466,1,135
 Score Social Protection	12340
 Score Sub-category	11870,16
 Score Women's Equality	10968
-Scorecard	10912,557,436,4127,962
+Scorecard	10912,557,436,4127,962,1815
 Scorecard.pdf	6133
 Scored	6214,306,115,9083
 Scorefam	2826

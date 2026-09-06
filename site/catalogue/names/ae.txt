@@ -56,7 +56,7 @@ AEL DDS LTD Transport	14738
 AEMBI Niyongabo Christian Team Member GTFS2	1284
 AEME RAPPORT ANNUEL	18322
 AEMEAP	1268,14304
-AEMET	16621,1252,804
+AEMET	16621,1252,804,192
 AEMFI	18638
 AEMP Africa Energy Market Place ARSEE	16037
 AEMSD	14897
@@ -122,6 +122,9 @@ AES OBJECTIFS ACTIVITES INDICATEURS CIBLES CALENDRIER	14490
 AES PGES- DATA CENTER PRINCIPAL OBJECTIFS	14489
 AES Passport. Biometric	6448
 AES Pourcentage	14488,1,1
+AES R Algoritmo	18774
+AES R Certificado Digital X.509	18774
+AES R Tabela	18774
 AES SONEL	10975,4567
 AES States	7452
 AES Structures	14489,1
@@ -206,15 +209,18 @@ Aero India-2025	13562
 Aero Scope Africa	10360
 Aero Toyota Japan	8903,9686
 Aero-India	18220
+Aeronautic Message Handling System	18787
 Aeronautical	6946,5449,5914
 Aeronautical Engineering	14148
 Aeronautical Information Management	5883
 Aeronautical Meteorological Station	14738
+Aeronautical SYNOP	18787
 Aeronautical Telecommunications Engineer	6946
 Aeronautics and Meteorology	18309
 Aeroponics	14818
 Aeroponics Vertical	14818
 Aeroport SSR	10045
+Aeroporto	18787
 Aeroporto Internacional Osvaldo Vieira	11566
 Aeroporto. Essa	11569
 Aeroportos	9040,6340
@@ -230,6 +236,7 @@ Aeropuertos de Malabo	4209
 Aerosol	16900
 Aerospace	13986
 Aerospace Information Research Institute	14140,618
+Aerton	18773
 Aesaj Wd	16857
 Aesdseoqudaeçcãroiadnoçassreecaudrsoolesscmenatteesriaios	15694
 Aesi&a	11964
@@ -297,8 +304,10 @@ Développement AEMET Agence Espagnole	17873
 EAEG2 Michele Sandrine Team Member AEMBI	1284
 ECZ Assumed the AEAA Secretariat	13477
 ELECTRA and AEB	15983
+ENASA Empresa Nacional de Aeroportos	18825
 ESTDEV AEDIB	9697
 Electrification Rurale AES Alliance des Etats du Sahel	15769
+Empresa Nacional de Aeroportos	18851
 Eraixtoa3m. Aengatorantdiaedocaocensdsoiçaõosecsuidcardôosn	15694
 Escuela Aeronáutica de Guinea Ecuatorial	17089
 Espace AES	4124
@@ -377,6 +386,7 @@ SODECI Transports Electricité ACI AERIA CIE	2342
 STATISTIQUE.pdf AECI	15561
 SUSP. INHAL. AERO. AERO. SOL. NEB	15930
 School of Aerospace	9128
+Seguranca Aerea	18851
 Seguridad Aeroportuaria	4209
 Senegalese Pharmaceutical Regulatory Agency AEME	18370
 Siglas AEE ASE AT BD CAARE	10766
@@ -396,6 +406,7 @@ Thales Alenia Space of France and Israel Aerospace	10699
 Turkish Aerospace Industries	12130
 Télévision AES	18063
 UAV Unmanned Aerial Vehicle	12977
+Unit AECC2	18809
 User Interface Aesthetics	5665
 VBG ET AES	14488,1,1
 VBG ET AES Disponibilité	14490

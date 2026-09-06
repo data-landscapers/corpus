@@ -98,6 +98,7 @@ Digital Knowledge Hub Department	10764,80,4627,2652
 Digital Knowledge Hub Department Partnerships for Digital	11563,6180
 Digital Skills and Knowledge Development OUTPUT INDICATOR	11863
 Digital Transformation and Knowledge Economy	1563
+Director General KNMI	18787
 Director of KNN	14984
 Disaster Risk Knowledge	16137
 Disaster Risk Management Knowledge Centre	14896
@@ -180,6 +181,7 @@ IGAD Cross-Border Trade Knowledge-Sharing Network	10634
 IGNASIUS KN	12478
 IIA Know Your Customer IIP Liberia	17235
 III. ACCESS TO INFORMATION AND KNOWLEDGE	14853
+INIC Institute of Innovation and Knowledge	18777
 IXP Internet Exchange Point KCL Knowledge	11552
 Improve Employee Knowledge and Skills SO7	13053
 In-kind Knowledge Transfer	12399
@@ -189,8 +191,8 @@ Indigenous Knowledge Systems. Prof Moalosi	12599
 Information And Knowledge Management	14818
 Information and Knowledge	10323
 Innovation and Knowledge Development Branch of UNCTAD	12786
-Institute for Innovation and Knowledge	5726
-Institute of Innovation and Knowledge	11439
+Institute for Innovation and Knowledge	5726,13114
+Institute of Innovation and Knowledge	11439,7328,10,19
 Int J Sociotechnol Knowl Dev. Apr	10919
 Int J Sociotechnology Knowl Dev. Jul	10919
 Intel and NVIDIA. Known	11502
@@ -235,6 +237,7 @@ KNEC Kenya National Examination Council KPHC	12151
 KNEQAS	4153
 KNEQAS LEN LIMS LLIN MCH MNCH	4153
 KNLS Board	9006
+KNMI. Short	18787
 KNN K-Nearest Neighbours	11258
 KNOMAD	11960,1428
 KNOWLEDGE	13454,1793
@@ -304,7 +307,7 @@ Know Your Business	5369,2150,82
 Know Your Client	12449
 Know Your Client LGAs Local Government	7763
 Know Your Consumer	14880
-Know Your Customer	1880,36,639,23,227,36,269,7,284,28,79,139,464,737,7,179,335,170,226,232,100,80,10,45,513,476,298,82,162,171,159,943,320,59,350,85,6,151,22,101,450,2,132,90,18,17,144,981,12,62,106,83,14,7,26,17,6,20,6,109,17,214,21,6,288,8,22,72,15,437,9,397,536,29,316,15,613,46,25,383,1475,161,595,359,211
+Know Your Customer	1880,36,639,23,227,36,269,7,284,28,79,139,464,737,7,179,335,170,226,232,100,80,10,45,513,476,298,82,162,171,159,943,320,59,350,85,6,151,22,101,450,2,132,90,18,17,144,981,12,62,106,83,14,7,26,17,6,20,6,109,17,214,21,6,288,8,22,72,15,437,9,397,536,29,316,15,613,46,25,383,1475,161,595,359,211,68
 Know Your Customer Facility	18471
 Know Your Customer FinTech Financial Technologies	18454
 Know Your Customer Lesotho Wire Local	12701
@@ -333,6 +336,7 @@ Know-Your- Customer	1704
 Know-Your-Customer	1401,888,5846,2630,10,1412,908,415,3432
 Know-Your-Customer M2M Machine	13346
 Know-Your-Customers	15493
+Know-how	18793
 Know-your-customer	15493
 KnowBe4 Africa	14376
 KnowBe4. The KnowBe4 Africa Human Risk	3253
@@ -376,6 +380,7 @@ Knowledge Graphs	17116
 Knowledge Graphs and NoSQL	17116
 Knowledge Hub	396,6324,6360,1664,253
 Knowledge Hub Digital	630
+Knowledge IRR Internal Return Rate ISR	18754
 Knowledge Integration for Tuberculosis Therapeutics	9969
 Knowledge Lab	12329
 Knowledge Management	1000,7021,525,6190,2116,1441,61

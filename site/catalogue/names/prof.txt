@@ -104,6 +104,7 @@ Background Professor Abate	8529
 Bank Profits	17236
 Base Erosion and Profit Shifting	961,12099,3951
 Base Erosion and Profit Shifting. Ethiopia	12500
+Beneficiam da Profilaxia Completa	18768
 Benin Country Gender Profile. Retrieved	16144
 Benin Labour Market Profile	16144
 Billion Profit	10733
@@ -146,7 +147,7 @@ CYBERWELLNESS PROFILE	13962
 CYCLE CAP CERTIFICAT D'APTITUDE PROFESSIONNELLE CAPES	18143,27
 Cabo Verde. O Professor José Olavo	16229
 Cameroon Country Profile	10841
-Capacitação Profissional	2816
+Capacitação Profissional	2816,15972
 Carteira Profissional	12311
 Catálogo de Cualificaciones Profesionales	4209
 Catégorie Socio Professionnelle CSLP	737
@@ -158,6 +159,8 @@ Centro Profesional de Añisok	4209
 Centro de Formación Profesional	4209
 Centro de Formación Profesional de Añisok	4209
 Centro de Formación Profesional de Pesca de Bidiba	17282
+Centro de Formação Profissional Brasil-São Tomé	18760
+Centro de Formação Profissional de Budo-Budo	18870
 Centro de Formação de Professores	11552
 Centro de Formação de Professores Oio Mansoa Private	11552
 Centros Profesionales	4209
@@ -383,11 +386,15 @@ Ensino Secundário de Formação de Professores	10766
 Ensino Secundário de Formação de Professores Província	10766
 Ensino Técnico Profissional	12777
 Entity's Profile	12400
+Entry Professional	18864
 Equatorial Guinea Country Profile	16996
 Equity Profit Margin Return	1013
 Eritrea Country Profile	14058
 Eritrea Profile	10001,4147
 Escola Formação de Professores Domingos Mendonça	11552
+Escola Secundária Professora Mariana Ruth Leal	18843
+Escola Técnica Profissional	18757
+Escola de Formação de Professores	18765
 Escola de Formação de Professores Ensino Geral Avaliação	10766
 Estatuto da Ordem Profissional	15477
 Estratégia Nacional de Desenvolvimento da Profissão Docente	11557
@@ -465,7 +472,9 @@ Formation Professionnelle. Elle	17830
 Formação Profi	15359
 Formação Profissional	10768,10,609,136,332,163,3468,19,21,9,159,328,165
 Formação Profissional Básica	10766,653
+Formação Profissional Decreto-Lei Instituto de Inovação	18773
 Formação Profissional IMar Instituto	15535
+Formação Profissional MSDM Ministério da Saúde	18779
 Formação Profissional. Todavia	15694
 Formação de Professor	11419
 Formação de Professores	10766,653,1369
@@ -546,6 +555,7 @@ Human Resources Profile Table	12976
 Hybrid Cloud Management Professional	17334
 I Ciclo da Formação Profissional Básica	11419
 I. COUNTRY BACKGROUND INFORMATION Country Profile	12500
+I. Disbursement Profile	18754
 I. Profil	17478
 ICT Country Profiles. Geneva	15480
 ICT Professional Skill	16861
@@ -609,6 +619,7 @@ JOURS GRATUITS Profitez	10387,306
 Judicial Professional and Operational Gap Analysis	16943
 Judiciary and Legal Professionals	17934
 Judiciary and Legal Professions	17934
+Junior Professional Associate	18851
 Junior Professional Officer	11867,3030
 KINGDOM OF ESWATINI ICT PROFILE	12395
 KONE Association Mali Profond	18032
@@ -762,6 +773,7 @@ PRODUCING SUFFICIENT COMPETENT PROFESSIONALS	14004
 PRODUITS EXCEPTIONNELS PROFITS SUR EXERCICES ANTERIEURES	18032
 PROFESIONAL	4209
 PROFESIONAL REGIONAL	4209
+PROFESSEURS DANS LE NIVEAU DE ENSEIGNEMENT	18757
 PROFESSEURS DE CEG FRANCO-ARABE ANAB AGENCE	18170
 PROFESSION Article	14417
 PROFESSION DE NEGOCIANT EN BIENS	17833
@@ -780,6 +792,7 @@ PROFESSOR	10766
 PROFESSOR A. MURWIRA	413
 PROFESSOR GEETOR S. SAYDEE	16921
 PROFESSOR SEM FORMAÇÃO PEDAGÓGICA	10766
+PROFESSORES CONSOANTE O NÍVEL DE ENSINO	18757
 PROFF	15999
 PROFFESSIONAL SERVICES	12977
 PROFI	3868,9934
@@ -926,12 +939,13 @@ Professeur des Arts	17861
 Professeure Amal El Fallah Seghrouchni	16523
 Professeure Mariatou Koné	10925
 Professeure Marie-Thérèse Sombo. Actuellement	15682
-Professeurs	15529
+Professeurs	15529,3228
 Professio	16935,166
 Profession	2775,2121,5879,2256,948,1742,2108,4,266
 ProfessionJudiciaire	15936
 Professional	34,1185,720,1,835,328,1411,14,719,1699,843,56,109,942,210,749,363,157,221,380,204,72,44,51,450,77,6,1,243,51,171,10,23,32,34,12,55,390,69,11,49,6,16,69,1620,3,30,39,26,56,26,13,150,90,487,51,1229,159,15,41,78,25,849,327,14,33,5,68
 Professional Academy for Teachers	15604
+Professional Accountancy Organization	18825
 Professional Accountants	18576
 Professional Accountants Bodies	13420
 Professional Administrative Real	14985
@@ -955,7 +969,7 @@ Professional Certifications Program	14999
 Professional Code of Ethics for Inspectors	14113
 Professional Community Health Workers	17921
 Professional Context	17369
-Professional Course for Foreign Diplomats	13744,1713
+Professional Course for Foreign Diplomats	13744,1713,3400
 Professional Develop	17101
 Professional Development	6946,7815,2340
 Professional Development Programme Result	17101
@@ -1216,13 +1230,13 @@ Professora	2816
 Professora Associada Esselina Macome	9694
 Professora Doutora Paula Meira Lourenço	3079
 Professora de IA da Universidade Stanford	2816
-Professores	2816,7950,621,170
+Professores	2816,7950,621,170,7200
 Professores Dr. Marcelo Kunrath Silva	17020
 Professores Formação Profissional Básica Gabinete de Estudos	10766
 Professores MF M F	10766
 Professores SINDEPROF Sindicato Democrático	11557
 Professores SNA Sistema Nacional de Avaliação ST	11557
-Professores Universitários	12018
+Professores Universitários	12018,6755
 Professores. Anuário Estatístico da Educação	10766
 Professores. Em	10766
 Professores. Gráfico	10766
@@ -1279,11 +1293,12 @@ Profissionais Qualificados	10777
 Profissionais da Justiça	15824
 Profissionais de Comunicação Social Artigo	12311
 Profissionais de Saúde	16019
-Profissional	10777,1534,3215
+Profissional	10777,1534,3215,3242
 Profissional Facebook Instagram	17308
 Profissional Internacional	15966
 Profissional Qualificado	11898
 Profissionalmente	15450
+Profissionnelle	18757
 Profit	2096,2010,1905,985,431,236,378,2649,103,338,3,822,359,74,111,537,16,408,1471,53,12,17,9,1988,225,873,434
 Profit Adjusted	11134
 Profit Assets Liabilities Shareholder Equity Addition PPE	1944
@@ -1417,7 +1432,7 @@ Shortage of Skilled Cybersecurity Professionals Challenge	6936
 Sigilo Profi	15359
 Sigilo Profissional	11425
 Signs Profile FINANCING Global Health Expenditure	17869
-Sindicato Nacional de Professores	17020
+Sindicato Nacional de Professores	17020,1823
 Social Professionals	16266
 Social and Cultural Professionals	16266
 Social and Cultural Professionals Legal	16266
@@ -1479,6 +1494,7 @@ Technical and Professional Education	17870
 Technicians and Associate Professionals	16266
 Technology Professionals	12675
 Through Professional Boost	17101
+Time-Stamping Profile	18774
 TradeICT Professional	14985
 Training and Professional Integration	13816
 Très Haut Patronage de Son Excellence le Professeur	15668

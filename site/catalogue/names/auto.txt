@@ -3,6 +3,7 @@ A21 Principe Saudi Arabia Automated	10714
 A2Z AUTOGLASS LIMITED Data Controller INST-444100E41C1	7167
 ABBREVIATIONS AGO Automotive Gas Oil AI	718
 ABBREVIATIONS AND ACRONYMS ADF Automatic Document	34
+ABBREVIATIONS AND ACRONYMS AGER Autoridade Geral	18851
 ABBREVIATIONS ATM Automated Teller Machine BOT	7763
 ABIS Automated Biometric Identification System AfCFTA	13080
 ABIS Automatic Biometric Identification System AfDB	15518
@@ -13,6 +14,7 @@ ACH Automated Clearing Houses AfCFTA African	1264
 ACP Automated Clearing House Association of Chartered	17235
 ACTIVITES AUTORISEES Article	15442,1
 AECE Autorité Economique de Certification Electronique CP	15472
+AGER Autoridade Geral de Regulação	18753
 AI Artificial Intelligence ASN Autonomous System	12427
 AI Automated Teller Machines ATMs Automated	17235
 AI Automates the Core	16266
@@ -40,6 +42,7 @@ ASYCUDA Automated System for Measurement	15478
 ASYCUDA Automated System for Performance Measurement	15478
 ASYPM The Automated System for Performance Measurement	13042
 ATM Application Programming Interface AU Autonomous	17870
+ATS Automated Transfer System BCSTP Banco	18825
 AU PROFIT DE LA HAUTE AUTORITÉ	15885
 AUTO EDIT SOM ABO&did	5550
 AUTO EXTREME Data Processor INST-856495288C0 KISUMU	7167
@@ -112,6 +115,7 @@ AUTORITES COMPETENTES	15732
 AUTORIZAÇÃO	794
 AUTORIZAÇÃO DE OPERAÇÕES DE PAGAMENTO	10755
 AUTORIZAÇÃO E REGISTO DE SOCIEDADES PRESTADORAS	10755
+AUTORIZAÇÃO GERAL	18784
 AUTOROUTE EDEA-KRIBI	15542
 AUTOSCAN MOTOR ASSESSORS AND VALUERS LIMITED	7167
 AUTOSPAN MOTORS LIMITED Data Controller INST-737918439A2	7167
@@ -317,6 +321,7 @@ Automated Transfer and Settlement System	10845,7025
 Automated Transfert System	13452
 Automated Vehicle Tracking	3862
 Automated Voter Registration	12054
+Automated Weather Station	18787
 Automated Weather System	15097
 Automates	13678,3807
 Automatic	1243,2471,1018,944,756,2385,306,2086,731,15,256,22,1229,406,1041,243,561,1426,18,1152,203
@@ -336,6 +341,7 @@ Automatic Meter Reading	8428
 Automatic Number Plate Recognition	10603
 Automatic Payment	11955
 Automatic Payment Terminals	11955
+Automatic Payments System Management Company TVS	18770
 Automatic Price Mechanism	13060
 Automatic Pricing Mechanism	13122
 Automatic Processing of Personal Data	8776,5957,2151
@@ -398,7 +404,7 @@ Automatisierung	900
 Automatisierung von Prozessen	1531,1
 Automatisé	6146,11724
 Automatización	15478,1397
-Automatizar	2816,5132,3513
+Automatizar	2816,5132,3513,7340
 Automatização	11329
 Automattic	13461
 Automação	2816,5991,6965
@@ -413,6 +419,7 @@ Automotive Control Unit	18444
 Automotive Gas Oil	12256
 Automotive V-belt	13385
 AutomotiveRamaphosa	7253
+Automáticos	18825
 Automóveis	17100
 Automóvel da Praia	15694
 Automóvel de São Vicente	5476
@@ -421,11 +428,14 @@ Autonome de Cotonou	15583
 Autonome de Gestion des Dettes CCE	10876
 Autonomes	13772,9
 Autonomes. Article	13781
-Autonomia	167,11192,1411,3319,236,853
+Autonomia	167,11192,1411,3319,236,853,1571,45
 Autonomia Administrativa	10752
 Autonomia Administrativa E DOS DIREITOS HUMANOS	10752
 Autonomia Científica	11385
+Autonomia Financeira	18793
+Autonomia Na	18800
 Autonomia Tecnológica Após	6530
+Autonomia Técnica	18794
 Autonomia Técnica A Autonomia Técnica	11516
 Autonomie	37,10837,101,2326,141,1354,1052,681,1,1722,54
 Autonomie Section	37
@@ -454,6 +464,9 @@ Autonomous Power Generation	14947
 Autonomous Power Generation Issue	14947
 Autonomous Power Generation Policy Objective	14947
 Autonomous Province of Bolzano	14162
+Autonomous Region	18787
+Autonomous Region of Príncipe	18770,7,10
+Autonomous Region of Príncipe RNSTP	18770
 Autonomous Satellite Wildfire Detection Using Hyperspectral	14769
 Autonomous Sector of Bissau	11536,17,5816
 Autonomous System	7548,7316,728,953
@@ -482,7 +495,7 @@ Autoproduction. Dispatching	16612
 Autoproduction. Efficacité	13809
 Autopromotion	18291
 Autopsy	12367
-Autor	1526,1290,7964,664,19,3936,867,1016
+Autor	1526,1290,7964,664,19,3936,867,1016,1476,117
 Autorations	15999
 Autoregressive	236
 Autoregressive Moving Average	236
@@ -507,7 +520,7 @@ Autoridad Reguladora	1701
 Autoridad de Asignación	16855
 Autoridad de Asignación de Nom	16855
 Autoridad de Competencia	1701
-Autoridade	15,4259,6473,612,71,84,5,8,4,38,13,1188,2680,85,554,1058,214
+Autoridade	15,4259,6473,612,71,84,5,8,4,38,13,1188,2680,85,554,1058,214,1388,45,6
 Autoridade Central	6970
 Autoridade Certificadora Raiz	12810
 Autoridade Competente	6970,3785,827,1192
@@ -517,7 +530,12 @@ Autoridade Credenciadora	8309,3087,1
 Autoridade Estatística	11537
 Autoridade Estatística A Autoridade Estatística	11516
 Autoridade Estatística Nacional	11449
-Autoridade Geral Aduaneira	4747
+Autoridade Geral Adua	18853
+Autoridade Geral Aduaneira	4747,14051
+Autoridade Geral de Regula	18752
+Autoridade Geral de Regulação	18752,1,24,14,2,3,22
+Autoridade Geral de Regulação Avenida	18753
+Autoridade Geral de Regulação de São Tomé	18784,33
 Autoridade Judiciária	794
 Autoridade Migratória	11364,1
 Autoridade Nacional	10188
@@ -532,9 +550,11 @@ Autoridade Nacional de Segurança Cibernética. SUBSECÇÃO IX	6970
 Autoridade Nacional de Segurança Cibernética. SUBSECÇÃO VI	6970
 Autoridade Nacional de Segurança Cibernética. SUBSECÇÃO VII	6970
 Autoridade Nacional de Segurança Rodoviária	11455
+Autoridade Postal	18778
 Autoridade Pública	10747
-Autoridade Reguladora	1338,1528,1408,2188,360,1836,283,493,125,1220,1016,1028,31,2672,456,74,1044
-Autoridade Reguladora Nacional	2701,8817,1,1,11,11,10,3,14,14,473,3470,1509,50
+Autoridade Regulador	18752
+Autoridade Reguladora	1338,1528,1408,2188,360,1836,283,493,125,1220,1016,1028,31,2672,456,74,1044,1684
+Autoridade Reguladora Nacional	2701,8817,1,1,11,11,10,3,14,14,473,3470,1509,50,1699
 Autoridade Reguladora Nacional de Comunicações	17186
 Autoridade Reguladora Nacional. ARTIGO	11520
 Autoridade Reguladora da Concorrência	11430
@@ -544,7 +564,7 @@ Autoridade Reguladora de Farmácia	17039
 Autoridade Reguladora de Farmácias	11543
 Autoridade Reguladora de Tecnologias de Informação	6970
 Autoridade Tradicional	10751
-Autoridade Tributária	8731,1352,2719,3110,110,112,8,57,288
+Autoridade Tributária	8731,1352,2719,3110,110,112,8,57,288,2288
 Autoridade Tributária de Moçambique	12142,76,643
 Autoridade Tributária de Moçambique. Como	12861
 Autoridade da Sociedade da Informação	11461
@@ -553,8 +573,9 @@ Autoridade de Polícia Criminal	549
 Autoridade de Protec	9399
 Autoridade de Protecção de Dados de Maurícias	2816
 Autoridade de Proteção	15477
+Autoridade de Regulação	18752,1
 Autoridade de Segurança Cibernética	6970
-Autoridades	3079,1195,11118,112,676,304,371
+Autoridades	3079,1195,11118,112,676,304,371,1918
 Autoridades Administrativas Tradicionais	11388
 Autoridades Aduaneras	15478
 Autoridades Certificadoras	11396,1
@@ -819,14 +840,17 @@ Autorización	16855,50,184
 Autorización Ad	16855
 Autorización Admi	16855
 Autorización Judicial	16855
+Autorizada	18755
+Autorizada Quem	18750
 Autorizadas	10755
 Autorizado	11368
 Autorizando	15404
-Autorizar	4218,7152,4,8,67,3942,59,27,26,23,563
-Autorização	539,255,9961,609,1,5,2,85,61,2,12,3988,235,272
+Autorizar	4218,7152,4,8,67,3942,59,27,26,23,563,2660,2,10,39
+Autorização	539,255,9961,609,1,5,2,85,61,2,12,3988,235,272,2751,20,55
 Autorização Geral	11520
 Autorização Geral Provisória	2701
 Autorização Legislativa	11443
+Autorização da Agência Nacional de Pro	18755
 Autorização da CNPD	15509
 Autorização da Residência	15520
 Autorização de Abertura de Crédito Adicional Suplementar	3607
@@ -837,6 +861,8 @@ Autorização de Residência Permanente	15520
 Autorização de Residência Temporária	15520
 Autorização de Residência de Cidadão	15520
 Autorização de Residência. Para	15520
+Autorizações	18751
+Autorizações de Paga	18752
 Autorizo	11569
 Autorlte	15584
 Autorlte Nationale de Certification Electronique	15584
@@ -862,12 +888,14 @@ Autovía Bata-Mongomo-Ebibeyin-Evinayong. Durante	17031
 Autovía Malabo-Luba Malabo	4209
 Autres Autorités de Régulation	13301
 B. Automatic	14717
+B3rio Mercado 2023.pdf AGER- Autoridade Geral de Regulação	18791
 BOT. Pour le Port Autonome de Douala	5291
 BUDGET AUTONOME	16006
 BUFFALO AUTOLAB LTD Data Controller INST-7135671F063	7167
 Balancing Autonomy	6487
 Baseline Standards for Automated Anti-Money Laundering	5369
 Benefits Automation	4528
+Best Auto Repair	18837
 Bonne Gouvernance Haute Autorité	15712
 Botswana Automated Clearing House	12537,42
 Business Processes Automation Phase	11231
@@ -885,6 +913,7 @@ CHUI AUTO SPRING INDUSTRIES LIMITED Data	7167
 COMPTES ET DES SIGNATAIRES AUTORISES	15901
 CONSELHO DE MINISTROS Autoriza	11983
 CRAFIC AUTO ASSESSORS	7167
+CST ON A Autoridade Geral de Regulação	18826
 CaIslleusstrative Use Cases Automated AI	14566
 Cabo Verde's Automatic Voter Registration System	11983
 Cabo Verde. Autoria	11108
@@ -894,6 +923,7 @@ Caisse Autonome de Retraite Parlementaire	11597
 Caixa Automática	11438,4007
 Caixa Automático	11403,35,4007
 Caixa Automático BIS	17032
+Caixas Automáticas	18798,26,29
 Caixas Automáticos	11465,3980
 Caja Autonoma de Amortizacion	16942
 Capitalism and Autochthony	12227
@@ -1003,8 +1033,9 @@ Digitization and Automation of Government Services The Kenya	6133
 Diploma da Autoridade	11430
 Directorate of File Automation	4967,30,333
 Direito de Autor	15554
+Direitos Autor	18837
 Direitos Autorais Online	2816
-Direitos de Autor	8385
+Direitos de Autor	8385,10452
 Distributeur Automatique de Billets GABAC Groupe	11944
 Distributeurs Automatiques	17833
 Distributeurs Automatiques de Billets	17833
@@ -1048,6 +1079,7 @@ Electronic Design Automation	6468
 Electronic Money Institutions. Automated Teller Machines	7803
 Embedded Autonomy	5700
 Emissão da Autorização Geral	11520
+Entidades Autorizadas	18750
 Entidades Autorizadas Entidades	16027
 Entreprises ATE Autorisation Temporaire	16249
 Entretien Routier Autonome	18395,17
@@ -1154,6 +1186,7 @@ III.2.4 Caisse Autonome de Gestion des Dettes	10876
 III.4. Autorisation	16249
 INDEPENDANTE HAUTE AUTORITE DE LA COMMUNICATION	16381
 INSTALAÇÃO E FUNCIONAMENTO DA AUTORIDADE CREDENCIADORA	11397
+INTRODUÇÃO A Autoridade Geral de Regulação	18791
 IV. Autorizações	15955
 IV.3.1.2 Automatisation	10711
 Identification System ASYCUDA Automated System for Customs	17105
@@ -1164,6 +1197,7 @@ Information APDP Autorité de Protection des Données	15583
 Information ASYCUDA Automated System for Customs Data	17011
 Information de Communication. Autorisation	13781
 Informational Autonomy	11956
+Ins. Auton. Fiscals Crédito	18757
 Instituições de Crédito de Autorização Restrita	15477
 Insurers Association ATM Automatic Teller Machine	14997
 Integrated National Civil Registration System. Automated	18440
@@ -1186,6 +1220,7 @@ J'aime Commenter Abdoulaye CABA Automation	18376
 Job Automatability Index	16266
 Job Automatability Index Construction	16266
 Judiciary Automation Project	6946
+Jun-2025 Automatically	18825
 KTP Kartu Tanda Penduduk ATM Automated	11994
 Kenya Verbal Autopsy Standards	10822
 Key Process Automated. Improve NSS Coordination	12551
@@ -1240,6 +1275,7 @@ Mauritius Central Automated Switch	1386,13345
 Mauritius Central Automated Switch The Mauritius	14731
 Mean Automatability Index	16266
 Meaning ABIS Automated Biometric Identification System	11218
+Mercado de Telecomunicações AUTORIDADE GERAL DE REGULAÇÃO	18791
 Milieu Achats Autoconsommation Cadeau Total Région	18014
 Ministro Autoridad Judicial Militar Autoridad Judicial	4209
 Minor UI Improvements. Auto	15867
@@ -1333,10 +1369,11 @@ Poste. Cette Autorité	18105
 Power Automate	14694
 Power BI Automate	15090
 Presence of Automated Decision Making	8436
+Presidente da Autoridade Nacional de Proteção de Dados	18806
 Primeiro Ministro Autorizando	16290
 Princípio de Dados Autoritativos	12774
 Princípio de Dados Autoritários	12774
-Process Automation	13418
+Process Automation	13418,5407
 Process Autonomy	8283
 Process Autonomy. Stage	8283
 Processo Automático	11566
@@ -1350,17 +1387,24 @@ Proyecto de Auto-Empleo	4209
 Proyecto de Automatización	4209
 Proyecto de Ley de Derechos de Autor	9303,7891
 Public Service Automated	14729
+Quality Review ARCOP Autoridade Reguladora	18825
 R SOC INTER VISITE TECHNIQUE AUTO	16623
 R Une Autorité Administrative Indépendante de DCP	15624
 RACHAD Réseau Automatisé	18015
+RAP Autonomous Region of Príncipe	18777
+RAP Autonomous Region of Príncipe RF Results	18809
 REQUISES PAR LES AUTORITES COMPETENTES	16617
 RPKI Enabled HUBSIX Route Servers Autonomous	18420
 Raciocínio Automático	2816
 Rapidly Developing Thunderstorms. Auto-update. View Today	14256
+Recenseamento Eleitoral Automático	18859
+Region Autonomia	18777
 Registo Automóvel	10751,1418,3826,492
 Regulations On Net Metering and Autonomous Generation	14947
 Renovação da Autorização	794
+Reparação Automóvel	18775
 Reparação de Automóveis	10757
+Reparação de Veículos Automóveis	18775
 Reporting Standard IPAS Industrial Property Automation	11250
 Respect for Autonomy	3861
 Responsabilidade Geral da Autoridade Reguladora Nacional	11519
@@ -1383,6 +1427,7 @@ Robotics and Automation Laboratory	9225
 Rockwell Automation	17624
 Romaric ENKORO AUTORITE DE REGULATION	16381
 Rurale Autonome	18103
+Rácios Autonomia Financeira	18793
 République du Congo DES PEUPLES AUTOCHTONES	15439
 Réseau Africain des Autorités de Protection des Données	3356
 Réseau des Autorités de Protection des Données Personnelles	3356
@@ -1393,6 +1438,7 @@ SCHEDULE OECD STANDARD FOR AUTOMATIC EXCHANGE	11233
 SECTION FICHIER NATIONAL AUTOMATISE DES EMPREINTES	17899
 SECTION WILL BE POSTED AUTOMATICALLY	13618
 SECÇÃO II COMPETÊNCIA PARA A AUTORIZAÇÃO	794
+SELO DE AUTORIZAÇÃO	18845
 SERVICE A AUTONOMIE TECHNIQUE OU	16175
 SFD and Financial Services Automation Unit	17870
 SICA-UEMOA Système Interbancaire de Compensation Automatisée	17870
@@ -1408,6 +1454,7 @@ SYGMA- Système de Gros Montants Automatisé	969
 SYSTAC- Automated Clearing System	969
 SYstème DOuaNIer Automatisé	15549
 Sector Subsector Tipo de Entidade Autoridades	6970
+Secção. SECÇÃO V Autoridade Cambial Artigo	18800
 Segment Strengthen the Automate	14997
 Selective Yes WAW SAS Autonomous	18420
 Self Assessment Questionnaire Automation of Air Cargo	12454
@@ -1421,6 +1468,7 @@ Signataires Autorisés	15901
 Signature Autorisée	15399
 Signature Autorisée Nom	15399
 Sistema Automático de Recolha de Boletins de Alojamento	15955
+Sistema Nacional de Pagamentos. CAPÍTULO III Autorização	18761
 Sistema de Recenseamento Eleitoral Automático	11983
 Sistema de Registo de Propriedade Automóvel	11480
 Smart-grid and Automation	14947

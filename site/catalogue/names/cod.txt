@@ -263,7 +263,7 @@ Civil Code. MINALOC	12413
 Civil Code. Yet	15473
 Civil Procedural Code	12161
 Civil Processual Code	12201
-Civil Registration Code	10765,10,1392
+Civil Registration Code	10765,10,1392,6610
 Civil Registration Code of Mozambique	12167
 Civil Registration Code. ST	10775
 Civil Registration Code.23 This Legislation	10765
@@ -535,6 +535,7 @@ Code of Ethics for Print	10735,2132,1,1,3923,1,1,1
 Code of Ethics for Public Officers	14835
 Code of Ethics. The CBL	17138
 Code of Forest Harvesting Practices	16843
+Code of Free and Offshore Activities	18797
 Code of GBV	1988
 Code of Good Governance	13868
 Code of Good Practice	5533,6453,909,4005
@@ -659,6 +660,7 @@ Codified Exit Protocols	5141
 Codifies	4366
 Codify	11136,13
 Codifying	3503
+Codigo	18786
 Coding	1261,6017,511,1,497,318,286,3199,2576,84,100,1479,1000,168,95
 Coding Academy	8016,4066
 Coding Academy’s Project-Based Learning	8839
@@ -696,6 +698,7 @@ Commercial Code and Commercial Court Law	16876
 Commercial Code and Payment Systems and Digital Finance	14072
 Commercial Code of Ethiopia	13967,1
 Commercial Code of Liberia	14206
+Commercial Register Code	18797
 Commercial and Administrative Code	17934
 Committee Member. Application of Code of Practice	14594
 Community Customs Code	16843
@@ -746,6 +749,7 @@ D CODE APPROPRIÉ U ET SIGNEZ	13300
 D' CODE	13300
 D'ORIENTATION DU CODE RURAL ORDONNANCE N	18094
 D. Sector and Theme Codes E. Bank	16614
+D. Sector and Theme Codes Original Actual	18754
 D.R. Le QR Code	8357
 DE DISPENSATION CODE DCI	15930
 DE DISPENSATION CODE DCI BRONCHODILATATEURS AVEC	15930
@@ -848,6 +852,7 @@ Electoral Code	6122,6079
 Electoral Code Art	2859
 Electoral Code of Conduct	6907,4169,1576
 Electricity Code	15659
+Electricity Sector Legal Code	18795
 Electronic Communications Code	2296,3383
 Electronic Communications Code. Any	5696
 Electronic Communications Code. Thiam	2301
@@ -878,6 +883,7 @@ Event CPD Code	13381
 Evidence of Business Activity Codes	17328
 Excise Tax Harmonized Code Article Description	17011
 Exemple de Code-Barre	13375
+Expropriation Code	18797
 Extraction and Coding Process Case	7151
 F CFA Code des Investissements	17817
 F-l CODIFIÉ	15399
@@ -906,6 +912,8 @@ Feldspar of HS Code	6921
 Finalize TORs for Coding Camp for Girls Finalize	2989
 Finance Code	15023
 Finances Charge du Budget CODIORO MOUSSA N'GUENOR	17901
+Fiscal Benefit Code	18797
+Fiscal Benefits and Incentives Code	18797
 Forestry Code	10841
 French Civil Code	14761,712
 French Code	15901
@@ -1019,6 +1027,7 @@ Industrie NA Codex Stan	16103
 Industry Price Code	13385
 Information Request COD200966	11868
 Instituant le Code de Sécurité So	16047
+Intellectual Property Code. Protection	18797
 Intelligent Cloud and Computing Resource Code Action	15713
 Intermediary Guidelines and Digital Media Ethics Code	8210,998
 International Academic Alliances Code T-I19-1 T-I19-3	15713
@@ -1033,8 +1042,9 @@ International Signaling Point Codes	16934
 International Signaling Point Codes Assignee Assigned	16934
 Internet Code of Practice	3945,638,7410
 Introduces Digital Code	3153
-Investment Code	11550,2074,1273,50,2987
+Investment Code	11550,2074,1273,50,2987,863
 Investment Code Drawing	11906
+Investment Code and Fiscal Benefits and Incentives Code	18797
 Islamic Law and Civil Code	15473
 JEL CODES D63	10985
 JEL Codes	10323
@@ -1046,6 +1056,7 @@ Kenya Master Facility List Code	2709
 Kenya Penal Code	13040
 Kenya Quick Response Code Standard	11994
 Key Acronyms CODI FCS GDP GNA	16902
+Key Actions Code	18795
 Kids Long Vacation Coding Bootcamp	12876
 King Code	12646
 King Codes	4896
@@ -1071,9 +1082,10 @@ LINKS TO SECTORAL DAC CODES	970
 LMIS- Adopted the Automated Therapeutic Coding System	16971
 LOW CODES TARIFF PER TRANSACTION PRICING	16844
 LTA. Country Code	16934
-Labor Code	10841,7529
+Labor Code	10841,7529,427
 Labour Code	10841,1059,261
 Labour Code and Electronic Transactions Law	12161
+Land Registry and Notary Codes	18825
 Le Code	3267,5054,2553,1,1,1056,167,1343,266,76,2009,6,1864,100,131,428
 Le Code CIMA	10965
 Le Code Electoral	2808,15502
@@ -1219,10 +1231,12 @@ No. QUESTIONS ET FILTRES CODES	18204
 No. QUESTIONS ET FILTRES CODES B	18204
 Nombre Codes Renforcement	15580
 Normes Procédures Gestion du Code	16692
+Notary Code	18797
 Number Length Service Provider Service Code	16934
 Number Portability Routing Codes	6946
 OU UN OU UN PLUS CODE	13300
-Observance of Standards and Codes	14734,43,2664,216,11
+Observance of Standards and Codes	14734,43,2664,216,11,1157
+Observance of Standards and Codes RTGS Real Time	18825
 Observance of Standards and Codes SDDS Special Data	14777
 Official Use Only Workers' Code of Conduct	12253
 One-Time Attendance Code	16218
@@ -1357,6 +1371,7 @@ Regarding the Internet Code of Practice	3945
 Region Code	18374
 Registered Proportion Code National	12151
 Registration The Digital Code	11880
+Regulation of Investment Code	18797
 Rejection Reasons CODE DEFINITION DEFINITION AGNT	12364
 Remote Code Execution	3214,12545
 Repeating The Current Year Ref. Code	11180
@@ -1421,6 +1436,7 @@ Search Code Payment Identification Number	13333
 Secondary Ret Code	11180
 Secrétariats Locaux Permanents du Code Rural Article	18094
 Section S du Code	4567
+Sector Code	18754
 Secure Application Coding Principles	15161
 Secure Coding	15161
 Secure Coding Guidelines for Java SE	15161
@@ -1500,9 +1516,10 @@ Teacher Code of Conduct	15604
 Team CodeCraft Mavericks	9007
 TechCabal Codar	7395
 Technical Model For Post Codes	13298
+Technical Standards and Grid Code	18795
 Telecommunications Code	13920
 Testing Code	11952
-Theme Code	16614
+Theme Code	16614,2140
 Time Security Code	14784
 Title Chapter Extent of Repeal Criminal Code	11857
 Title VI of Penal Code Act No	13331

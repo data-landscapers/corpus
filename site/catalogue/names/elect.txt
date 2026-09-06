@@ -72,6 +72,7 @@ Administración Electrónica	16855
 Administration Electronique	1536,2068,12332
 Administrativos Electrónicos	16855
 Administrativos. CAPITULO IV GOVERNAÇÃO ELECTRÓNICA SECÇÃO	15
+Administração Pública Electrónica	18796
 Admissibility of Electronic Evidence	26
 Adopt the National Electrification Strategy	12717
 Adoption of Electronic Fiscal Devices	12948
@@ -264,6 +265,7 @@ COMMUNICATIONS ELECTRONIQUES Considérant	15545
 COMMUNICATIONS ELECTRONIQUES ET DE LA POSTE	18122
 COMPOSANTS ELECTRONIQUES ET SOUS-ENSEMBLES	16103
 COMPOSITION OF LOCAL COUNCILS AND ELECTION	18467
+COMPRAS DE ELECTRICIDADE MWh	18793
 COMUNICACIONES COMERCIALES ELECTRÓNICAS Artículo	16855
 COMÉRCIO ELECTRÓNICO	11582
 CONCLUSION The NBA Election Working Group	10049
@@ -275,6 +277,7 @@ CONTRAT ELECTRONIQUE	17829
 CONTRATS ELECTRONIQUES	14411
 COTE Electoral Affairs Working Group	9227
 COTE's Electoral and Constitutional Affairs Working Groups	9227
+CP.26 Página Electrónica	18798
 CRVS Electronic Civil Registration and Vital Statistics	16922
 CSO Civil Society Organisations EMB Electoral	12201
 Cabinet. The Electronic Government Division	12453,892
@@ -330,6 +333,7 @@ Chulumanco Mahamba The Electoral Commission	8846
 Circunscripción Electoral	16903
 City Election Commissions	12201
 Civil Registry SIGIEC Integrated Electronic Identification	10812
+Clean Resilient Electricity	18851
 Clients No Appraisal Summary No the Electricity	15969
 Closure Elections	4608
 CoO Electronic Certificate of Origin EU European	12951
@@ -340,6 +344,7 @@ Code Electoral du Niger L’élection	18101
 Code Electoral. Elle	18101
 Collection Loss BEDC Benin Electricity Distribution	12062,6124,31
 Comerciales Electrónicas	16855
+Comité de Governação Electrónica	18767,5
 Commerce Electronique	14411
 Commerce Electronique Section	15362
 Commerce Electroniques	15585
@@ -395,7 +400,8 @@ Computing Weights for American National Election Study	15244
 Comunicaciones Electróni	16855
 Comunicaciones Electrónicas	16855
 Comunicación Electrónica	16855
-Comunicações Electrónicas	15,1200,2388,4706,2438,8,15,1,625,1,18,13,2,1,2,136
+Comunicações Electrónicas	15,1200,2388,4706,2438,8,15,1,625,1,18,13,2,1,2,136,7215
+Comunicações Electrónicas URL	18784
 Comércio Electrónico	2816,7509,1049
 Conduct and Supervision of Election	15927
 Conduct of Council of State Elections	15927
@@ -417,6 +423,7 @@ Consultants’ Qualifications EHR Electronic Health Record	15411
 Consumer Electronics	9827
 Conta de Moeda Electrónica	11404
 Conta de Moeda Electrónica Legenda	11404
+Contadores Electricidade Unidades	18793
 Contas de Moeda Electrónica	11404
 Contas de Moeda Electrónica Limites	11403
 Contas de Moeda Electrónicas	11404
@@ -437,7 +444,7 @@ Copias Electrónicas de Documen	16855
 Core Functions Function Electricity Act Petroleum	12969
 Core System Electronic Invoice Infrastructure and Networks	14952
 Corporation LERC Liberia Electricity Regulatory Commission	17260
-Correio Electrónico	2816
+Correio Electrónico	2816,15962
 Correo Electrónico	16855
 Corruption Electricity Transportation Customs	12346
 Cost Of Electricity	11953
@@ -586,7 +593,7 @@ Department of Veterans Affairs E-NPRS Electronic National	12923
 Deployment of Electronic Tax Registrar	18608
 Description Review of Electoral Processes	5641
 Desenvolvimento da Governação Electrónica	12777
-Desenvolvimento de Governo Electrónico	2581
+Desenvolvimento de Governo Electrónico	2581,16186,5
 Design Criteria Standard for Electronic Records Management	11349
 Designated Electronic Service Address	18556
 Develop and Implement the Electronic Waste Management Plan	1988
@@ -733,6 +740,7 @@ ELECTRICAL ENGINEERING	16900
 ELECTRICIDAD Y ENERGIAS RENOVABLES	4209
 ELECTRICIDAD Y ENERGÍAS RENOVABLES AYUNTAMIENTO	17101
 ELECTRICIDAD Y ENERGÍAS RENOVABLES Cuentas CONCEPTO	4209
+ELECTRICIDADE Dbs	18793
 ELECTRICITE	18322
 ELECTRICITE ET TELEPHONE Article	4420
 ELECTRICITE III. SECTEUR DE L	18322
@@ -858,9 +866,11 @@ ELECTROTECHNICAL STANDARDS	16900
 ELECTRÓNICA	10755
 ELECTRÓNICA DE CONTAS E ACELERA TRANSFORMAÇÃO	11473
 ELECTRÓNICA DOS PROCEDIMENTOS ADMINISTRATIVOS DA PROTECÇÃO	11433
+ELECTRÓNICAS I-INTRODUÇÃO E ENQUADRAMENTO	18784
 ELECTRÓNICO Artículo	16855
 ELECTRÓNICOS CAPÍTULO I DE LOS CIUDADANOS	16855
 ELECTYLAC	15670
+EMAE Water and Electricity Company	18777
 EMR Electronic Medical Record	9855
 EMR Electronic Medical Record EOI Expression	15411
 EN ENERGIE ELECTRIQUE	15670
@@ -1189,7 +1199,7 @@ Electrically	15027
 Electricians	16266
 Electricidad	1701,2508,3874,1220,7617
 Electricidad Antonio Oburo Ondo	9303
-Electricidade	10757,20,644,156
+Electricidade	10757,20,644,156,7175,5,18,2,48
 Electricidade Sim Não	10777
 Electricidade de Moçambique	12206,110,475
 Electricidade de Moçambique Captured	9409
@@ -1202,8 +1212,9 @@ Electricitd	14479
 Electricite	16612
 Electricite de Guinée	16654
 Electricite du Mali Mauritania	18374
-Electricity	21,561,136,1222,48,787,410,419,598,353,670,22,1078,1312,152,229,108,9,245,219,1072,88,318,103,133,377,89,2,50,26,4,108,7,158,2,4,12,63,16,5,33,3,25,8,30,45,144,25,23,9,276,17,7,1,2,1,5,5,23,35,2,1,203,1,32,7,6,9,19,23,5,59,31,7,21,4,5,1,14,24,18,42,14,216,252,84,7,73,198,54,89,5,53,92,24,145,384,245,60,187,4,1,166,27,10,20,50,138,79,80,128,102,100,85,54,1,128,141,54,151,48,1,42,535,37,25,13,11,21,14,7,24,26,4,47,62,12,22,17,79,16,6,759,83,256,105,23,5,16,110
+Electricity	21,561,136,1222,48,787,410,419,598,353,670,22,1078,1312,152,229,108,9,245,219,1072,88,318,103,133,377,89,2,50,26,4,108,7,158,2,4,12,63,16,5,33,3,25,8,30,45,144,25,23,9,276,17,7,1,2,1,5,5,23,35,2,1,203,1,32,7,6,9,19,23,5,59,31,7,21,4,5,1,14,24,18,42,14,216,252,84,7,73,198,54,89,5,53,92,24,145,384,245,60,187,4,1,166,27,10,20,50,138,79,80,128,102,100,85,54,1,128,141,54,151,48,1,42,535,37,25,13,11,21,14,7,24,26,4,47,62,12,22,17,79,16,6,759,83,256,105,23,5,16,110,181,28
 Electricity Access	10976,1280,102,2589,1241,778,1648
+Electricity Access Clean Cooking Installed Renewable	18795
 Electricity Access Ensure	14947
 Electricity Access Expansion	12388,666,5566
 Electricity Access Policy	14947
@@ -1310,11 +1321,12 @@ Electricity Regulatory Index DWT Fuel Energy	12256
 Electricity Regulatory Management Information System	15025
 Electricity Reliability Indices Reliability	12256
 Electricity Safety	1988
-Electricity Sector	11136,244,3365,122,66,582,3105
+Electricity Sector	11136,244,3365,122,66,582,3105,175
 Electricity Sector Development Plan	15574
 Electricity Sector FMS Financial Management Specialist	11380
 Electricity Sector Fees	17250
 Electricity Sector HHI	12256
+Electricity Sector Legal Code	18795
 Electricity Sector Long-Term Development Plan	15574
 Electricity Sector Organization and Performance	13624
 Electricity Sector Policies	18614
@@ -1359,6 +1371,7 @@ Electricity Transmission Projects	13474
 Electricity Transmission Up	11469
 Electricity Transportation Farming	12501
 Electricity Usage	12445
+Electricity and Clean Cooking	18795
 Electricity and Connectivity	7151
 Electricity and Cooking	15244
 Electricity and Digital	14956
@@ -1548,7 +1561,7 @@ Electromagnetic Interference ITE	9123
 Electron	1261
 Electron J Inform Syst Developing Ctries	1261
 Electron. J. Inf. Syst. Dev. Ctries	12926
-Electronic	11,10,5,2,198,10,346,189,12,226,44,208,727,108,310,254,878,176,147,427,172,99,337,351,664,293,181,561,332,179,12,26,65,40,146,35,147,23,425,4,85,116,6,76,52,81,182,877,333,526,50,48,10,22,12,81,42,150,9,41,5,6,50,10,2,298,1,12,33,225,48,40,30,4,12,5,16,10,4,10,25,16,214,39,31,13,12,15,2,12,10,6,10,10,5,33,6,6,2,33,33,29,101,18,19,208,11,11,18,47,90,100,66,44,12,1,6,8,35,68,36,105,302,21,17,79,3,288,121,30,27,193,27,54,2,31,24,36,7,3,19,58,24,33,115,1,117,165,11,37,4,32,15,9,95,24,10,4,1228,7,28,9,2,6,12,4,7,15,4,188,25,302,302,127,253,418,15,119,7,4
+Electronic	11,10,5,2,198,10,346,189,12,226,44,208,727,108,310,254,878,176,147,427,172,99,337,351,664,293,181,561,332,179,12,26,65,40,146,35,147,23,425,4,85,116,6,76,52,81,182,877,333,526,50,48,10,22,12,81,42,150,9,41,5,6,50,10,2,298,1,12,33,225,48,40,30,4,12,5,16,10,4,10,25,16,214,39,31,13,12,15,2,12,10,6,10,10,5,33,6,6,2,33,33,29,101,18,19,208,11,11,18,47,90,100,66,44,12,1,6,8,35,68,36,105,302,21,17,79,3,288,121,30,27,193,27,54,2,31,24,36,7,3,19,58,24,33,115,1,117,165,11,37,4,32,15,9,95,24,10,4,1228,7,28,9,2,6,12,4,7,15,4,188,25,302,302,127,253,418,15,119,7,4,84
 Electronic Addressing	11129
 Electronic Age andE-GovernanceWorkshop	12325
 Electronic Airtime Distribution	3862
@@ -1629,7 +1642,7 @@ Electronic Communication	26,147,545,2475,11956,3526
 Electronic Communication Equipment	718
 Electronic Communication and Transaction Act No	12467
 Electronic Communication and Transactions Act No	13346,1
-Electronic Communications	236,736,2632,1097,84,129,4002,3479,137,417,22,207,40,243,561,1599,635,843
+Electronic Communications	236,736,2632,1097,84,129,4002,3479,137,417,22,207,40,243,561,1599,635,843,1718
 Electronic Communications Act	11,225,160,191,1108,121,301,560,99,161,9,1637,149,328,748,64,61,250,284,72,347,5,15,462,32,356,71,1,22,130,109,72,12,62,347,527,650,810,228,249,144,6,15,24,24,3,3,643,518,504,19,229,1515,936,414,1169,512
 Electronic Communications Act No	7827
 Electronic Communications Act. The Company	11230
@@ -1739,6 +1752,7 @@ Electronic Gazette	12562,760
 Electronic Gazette PART VII GENERAL PROVISIONS	13322
 Electronic General Receipt	15066
 Electronic General Receipts	15066
+Electronic Govern	18767
 Electronic Governance	2096,3519,6248,6593
 Electronic Governance Services	762
 Electronic Governance and Open Society	2096
@@ -1748,7 +1762,7 @@ Electronic Government Act No	4726,14,7713,14,878,1,1,76,40
 Electronic Government Application of Act	13322
 Electronic Government Authority	8908
 Electronic Government Development	16861
-Electronic Government Development Index	12453,892
+Electronic Government Development Index	12453,892,5427
 Electronic Government Development Index An Electronic	12453,892
 Electronic Government Division	1875,1787,8698,6,87,855,14,13,10,2,56,38,204
 Electronic Government Division The Division	13346
@@ -1766,6 +1780,7 @@ Electronic Government Services Government	12453,892
 Electronic Government Standards and Compliance	12453,892
 Electronic Government Standards and Compliance Government	12453,892
 Electronic Government Standards and Compliance Objective	12453,892
+Electronic Government Survey	18767,5
 Electronic Government System	13387
 Electronic Government Systems Interoperability Regulation	4180
 Electronic Government and Corruption	5349
@@ -1877,6 +1892,7 @@ Electronic Payment Directive. The Federal Government	14014
 Electronic Payment Forum and Exhibition	4680,13064
 Electronic Payment Forum and Exhibition URL	17744
 Electronic Payment Management System	12270
+Electronic Payment Platform	18767
 Electronic Payment Service Provider	10418
 Electronic Payment Services	7391,773,4373,5
 Electronic Payment Services Citation	5687
@@ -1904,6 +1920,7 @@ Electronic Procurement System	3284,8583
 Electronic Program Guides	6946
 Electronic Programming Guide Submission Complaints Handling	6946
 Electronic Public Health Emergency Management	14042
+Electronic Public Procurement	18825
 Electronic Public Services	10775
 Electronic Public Services Portal	10775
 Electronic Record Search	11233
@@ -2049,7 +2066,7 @@ Electrotechnique	18315
 Electrotechnique CT1	18315
 Electrum	5408
 Electrum Payments	5408
-Electrónica	795,10666,3931
+Electrónica	795,10666,3931,3375
 Electrónica Mod	12018
 Electrónica de BANGE	7704
 Electrónicas	16855
@@ -2227,6 +2244,7 @@ GOVERNING ELECTRICITY QUALITY OF SERVICE	14867
 GOVERNMENT PROVIDES UPDATE ON NATIONAL ELECTRICITY	18566
 GP Electronic Government Procurement EPR Extended	15621
 GP Electronic Government Procurement EU SBTA	18577
+GUA E ENERGIA ELECTRICA	18757
 GUIDANCE NOTES FOR ELECTORAL PURPOSES DEFINITIONS	1630
 GWh. Electricity	11953
 Gambia Electricity Restoration and Modernization	10857
@@ -2283,7 +2301,9 @@ Gombe State Electricity Regulatory Commission	12062
 Gouvernance Electronique	13290,3336
 Gouvernance Nationale des Communications Electronique	4020
 Governance and Elections. Held	9227
-Governação Electrónica	15,11356,8,17,1,140,1240,2614
+Governação Electrónica	15,11356,8,17,1,140,1240,2614,3381,1
+Governação Electrónica da Univer	18767
+Governação Electrónica da Universidade	18767,5
 Governação Electrónica. OE4. Avaliar	11379
 Governing Democratic Elections	12201
 Government Development Index EMI Electronic Money	17870
@@ -2298,7 +2318,7 @@ Government of Liberia's Electronic Government Procurement	9088
 Government's Provision of Electricity	12501
 Government. The Electronic Library	12325
 Governmental Electronic Certification Authority	2406
-Governo Electrónico	4510,6861,25,65,108,1205,10
+Governo Electrónico	4510,6861,25,65,108,1205,10,5995
 Governo Electrónico da Organização	11379
 Governo Electrónico. Estes	8309
 Governorate Elections Committee	15393
@@ -2421,6 +2441,8 @@ Implementation of Electronic Municipalities	2124
 Implementation of Electronic Travel Authorisation	5533
 Implementation of Electronic Travel ETA	11986
 Implementation of Inspections for Electricity Connections	12389
+Implementação Contratação Pública Electrónica	18796
+Implementação Contratação Pública Electrónica7 PREFÁCIO Não	18796
 Imágenes Electrónicas	16855
 Inadequate Commercial Electricity	13295
 Inadequate Electricity	395
@@ -2546,6 +2568,7 @@ LA MONNAIE ELECTRONIQUE	14417
 LA PUBLICITE PAR VOIE ELECTRONIQUE	15643
 LA TRANSPARENCE POUR UN SECTEUR ELECTRIQUE	10975
 LALIBERTE DE COMMUNICATION ELECTRONIQUE ELECTRONIQUE Article	17829
+LAST MILE ACCESS Electricity Access São	18795
 LC1 Elections	8352
 LE PAIEMENT ELECTRONIQUE	14411
 LEC Klay Substation LIBERIA ELECTRICITY REGULATORY	16978
@@ -2745,6 +2768,7 @@ Member States. II. Elections	6488
 Member States’ Election Management Bodies	7452
 Mercado Nacional de Comunicaciones Electrónicas	9543
 Mercado de Comunicaciones Electronicas	9543
+Mercado de Comunicações Electrónicas	18796
 Mercados de Comunicaciones Electrónicas	9543
 Message Electronique	16617
 Method of Proof Electronic	15374
@@ -2766,12 +2790,14 @@ Ministry of Health's Electronic Mail Acceptable Use	34
 Ministry of Mines and Energy Electricity Control Board	12399
 Miramar Mozambique's National Elections Commission	8963
 Mobile Digital Identity And Electronic Signature	12834
-Moeda Electrónica	11386,1410
+Moeda Electrónica	11386,1410,5965
 Monitoring Election Coverage	12201
 Monthly Electrical Energy Imports	12256
 Monthly Electricity Imports	12256
 Moroccan Society for Electronic Services	4995
 Morpho. The Electronic Voter Identification Devices	11115
+Moveable Asset Electronic Collateral Registry	18825
+Moveable Asset Electronic Collateral Registry. Justification	18825
 Movimentação de Contas de Moeda Electrónica	11404
 Mozambique Electricity	2473
 Multiple Electronic Procurement Platform	15518
@@ -2943,6 +2969,7 @@ National and Provincial Elections	7266,248
 Nationale des Elections	10826
 Natural Gas Network Connection Development of Electricity	15578
 Natural Gas Network Enhancement of Electricity Services	15578
+Negócio Electrónico	18796
 Network Enhancing Electricity Services Providing Employment	15578
 News An Election Pledge Fulfilled	7859
 News Moris Editor The Central Electricity	14801
@@ -3053,6 +3080,7 @@ PRESS RELEASE IMPLEMENTATION OF THE ELECTRONIC	7391
 PREUVE ELECTRONIQUE	17829
 PROCEDURE D’ENCHERE ELECTRONIQUE Conforme	10876
 PROCESSOS ELECTRÓNICOSNext	11473
+PRODUÇÃO ELECTRICIDADE MWh	18793
 PROGRESS Leader Blames Electricity Crisis	17208
 PROJECT RESTRUCTURING OF Strengthening Electricity Services	15969
 PROJECTO DE LEI DAS TRANSACÇÕES ELECTRÓNICAS	11582
@@ -3074,6 +3102,8 @@ Pan American Health Organization. Electronic Immunization	8376
 Parameter Value Electricity	11549
 Parliamentary and Local Government Election Petitions	13472
 Parliamentary and Local Government Elections	4609
+Participação Electrónica	18767,5,7
+Participação Electrônica	18767,5
 Pays When Electronic Payments Fail	9494
 Peace and Security National Water and Electricity Company	16973
 Percy Chinyama National Coordinator ELECTRONIC GOVERNMENT	12453,892
@@ -3090,13 +3120,14 @@ Plataforma Electrónica	10754,6346
 Plataforma Electrónica da Contratação Pública	17100
 Plataforma Electrónica de Contratação Pública	17100
 Plataforma de Interoperabilidade de Governo Electrónico	12774
+Plataforma de Pagamento Electrónicos	18767,5
 Platform ASYSW ASYCUDA-based Electronic Single Window	13042
 Platforms. The Electronic Transactions Law	12294
 Plc EPSRA Electric Power Sector Reform	12062,6124,31
 Plc KAEDC Kaduna Electricity Distribution Plc	12062,6124,31
 Police Electronic Crash Records	1001
 Police Electronic Crash Records and Analytics	1001
-Policy-Driven Electronic Governance	10840
+Policy-Driven Electronic Governance	10840,7927,7
 Political Economy of Electricity Management	194
 Poltech Electronic and Gateway	2970
 Portador de Moeda Electrónica	11386
@@ -3205,6 +3236,7 @@ REA Rural Electrification Agency	18620
 REAP Regional Electricity Access Project ROGEAP	11549
 RECEIPT OF ELECTRONIC COMMUNICATIONS	28
 RECEIPT OF ELECTRONIC COMMUNICATIONS Section	28
+RECEITAS DA VENDA DE ELECTRICIDADE Dbs	18793
 RECEIVING ELECTRONIC RECORDS	16832
 REFINING ESTIMATES OF ELECTRICITY ACCESS	11572
 REG. CONT. ELECTRICO	4209
@@ -3491,6 +3523,7 @@ Sistema de Assinaturas Electrónicas	11461
 Sistema de Compensação Electrónica	12814
 Sistema de Comunicaciones Electrónicas	16855
 Sistema de Firma Electrónica	16855
+Sistema de Registo Electró	18767
 Sistema de Registros Electrónicos	16855
 Sistema de Validação Electrónica de Documentos	11461
 Sistemas Electrónicos	16855
@@ -3622,6 +3655,7 @@ Tramitação Electrónica de Correspondência	794
 Transacções Electrónicas	2816,8558
 Transacções Electrónicas SECÇÃO	11374
 Transacções Electrónicas. Explicou	12791
+Transferência Electrónica de Fundos	18761
 Transmission Company ERERA ECOWAS Regional Electricity	18537
 Transmission of Electronic Communications	12532
 Transmissão Electrónica	11433
@@ -3653,6 +3687,7 @@ Under the Electronic Transaction Law	12294
 Under the Electronic Transactions Law	12294
 Unemployment Living Over-crowding Assets Housing Electricity	15244
 Unemployment Status Over-crowding Assets Housing Electricity	15244
+Unidade de Governação Electrónica da Universidade	18772
 Unified System for Licensing Electricity Providers	15025
 Unified System for Licensing Electricity Providers Just	15025
 Union E- Waste Electronic Waste FAO	2775
@@ -3720,6 +3755,7 @@ WTO Electronic Commerce Agreement. The Agreement	14267
 Waste Electrical and Electronic Equipment Management Plan	10870
 Water and Electricity	12962
 Water and Electricity Allowance	13096
+Water and Electricity Company	18825
 Water and Electricity Upgrading Project	10857
 Water and Electricity of Guinea-Bissau	11549
 WeLight Solar Mini-Grid and Rural Electrification	390

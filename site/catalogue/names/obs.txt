@@ -8,6 +8,7 @@ ANRTIC Observatoires	13716
 ARCEP. OBSERVATOIRE DE LA TELEPHONIE MOBILE	15583
 ARCT- OBSERVATOIRE MARCHE TIC	13586
 AU Election Observation Mission	5236
+AVC. OBS	18875
 Abdi Abdillahi Obsieh	7714
 About the Systematic Observations Financing Facility	13612
 Africa. Observer Research Foundation	2518
@@ -156,10 +157,12 @@ Gender-based Violence Observatory	14742
 Geo-information Science and Earth Observation	15552
 Ghanaian Earth Observation	9561
 Global AI Ethics and Governance Observatory Country	11483,1095
-Global AI Ethics and Governance Observatory URL	15680
+Global AI Ethics and Governance Observatory Search	18840
+Global AI Ethics and Governance Observatory URL	15680,3160
 Global Basic Observations Network	18578
-Global Basic Observing Network	11553,2059,3086,1611,364
+Global Basic Observing Network	11553,2059,3086,1611,364,114,82
 Global Basic Observing Network GDP	18309
+Global Climate Observing System	18869
 Global Drought Observatory Monthly Aridity Index	17157
 Global Drought Observer	17157
 Global Earth Observations for Crop Inventory Forecasting	13094
@@ -171,6 +174,7 @@ Global Heath Observatory	17869
 Global Observatory	1219,6488,10398
 Global Observatory of Science	16627
 Global Observing System WIS	18578
+Global State of Systematic Observations Report	18869
 HSDUs. Obstetric Care	15206
 Harnessing Earth Observation for Agriculture	11407
 Household Size Household Size Observations Mean	12978
@@ -244,7 +248,7 @@ Meteorological Agency SOFF Systematic Observations Financing	18578
 Meteorological Observers Refresher Training	13062
 Migrations OMLCC Observatoire Mauritanien de Lutte	17907
 Ministry of Interior and Land Observatory	18293
-Missão de Observação Eleitoral da União Europeia	3530
+Missão de Observação Eleitoral da União Europeia	3530,15274,3,1,44
 Moderate Undesirable Content Distribution of Obscene	18675
 Moroccan Public Procurement Observatory	17470
 NBA Election Observation Group	10049
@@ -303,6 +307,7 @@ OBSERVATOIRE POSTAL	18417
 OBSERVATOIRE-4EME-TRIM-2026.pdf	13586
 OBSERVATOIRES	17978,99
 OBSERVATÓRIO	11428,103
+OBSERVATÓRIO ESTATÍSTICO	18791
 OBSERVEZ LA PRÉSENCE D'EAU	13300
 OBSERVEZ LA PRÉSENCE DE SAVON	13300
 OBSERVEZ LE MATÉRIAU PRINCIPAL DES MURS	13300
@@ -338,19 +343,25 @@ Obser	16250
 Observa	11824,13,4413
 Observa Mais	17540
 Observa-	18077
-Observa-se	2613,8164,610,59,77,51,3
+Observa-se	2613,8164,610,59,77,51,3,7214,5
 Observability	13037
 Observable	7451
 Observable Characteristics	18318
+Observado	18800
 Observador	2701,115,6583
 Observadores	11527
+Observadores Associados	18793
+Observadores Consultivos da CPLP. Assim	18793
 Observamos	11569
 Observance	17257,1338
 Observance Directe	15685
-Observance of Standards and Codes	14734,43,2664,216,11
+Observance of Standards and Codes	14734,43,2664,216,11,1157
+Observance of Standards and Codes RTGS Real Time	18825
 Observance of Standards and Codes SDDS Special Data	14777
-Observar	15450,1515
+Observando	18767,5
+Observar	15450,1515,1787
 Observaram-se	11523
+Observat	18791
 Observateur	8269,7981
 Observateurs de Court-Terme	18310
 Observation	1988,5,7552,803,1205,648,883,387,288,24,754,318,94,422,22,857,1661,293,105,1,14,254
@@ -360,6 +371,7 @@ Observation Electoral	18310
 Observation Electorale	18310
 Observation Electorale Nationale	18310
 Observation Infrastructure	17962
+Observation Infrastructure Element	18787
 Observation Instruments	16947
 Observation Maroc Météo	17447
 Observation and Data Management Workstation	16947
@@ -368,8 +380,9 @@ Observation of PPE	1988
 Observation. Improved	11420
 ObservationDeLaTerre	16102
 ObservationIdentifiersNamesandCodes	8606
-Observational	11553,1812,364,719,3861,269
-Observational Infrastructure	11553
+Observational	11553,1812,364,719,3861,269,209
+Observational Infrastructure	11553,7234
+Observational Infrastructure. STP	18787
 Observational Practices	16947
 Observations	1828,1568,395,1570,2525,2002,933,55,99,159,151,135,1528,362,158,299,163,219,1,1624,238,310,230,454,143,67,231,862
 Observations Cadre	13468
@@ -456,13 +469,15 @@ Observatory of Employment and Professional Training	10963,1
 Observatory of Killed Journalists.8 C. THE RIGHT	17970
 Observatory of Linguistic and Cultural Diversity	7320
 Observatory. OAMDI	15604
-Observatório	10747,819,8,3903,49,158,5,221
+Observatório	10747,819,8,3903,49,158,5,221,2893,23
 Observatório Digital	16251
-Observatório Estatístico	8729
+Observatório Estatístico	8729,10062
+Observatório Mundial de Saúde	18783
 Observatório Nacional de Inteligência Artificial	2816
 Observatório Nacional de Saúde	966,15000
 Observatório Regional	15966
 Observatório Regional de Saúde	15966
+Observatório da AGER	18796
 Observatório da Sociedade da Informação	15,11381,1,4950
 Observatório da Transformação Digital	11569
 Observatório de Inclusão	11426
@@ -474,7 +489,7 @@ Observação da Terra ANGEO-1	5405
 Observação da Terra. HM	5405
 Observações	11435,13
 Observações Registo	16325
-Observe	4258,4865,1654,42,642,444
+Observe	4258,4865,1654,42,642,444,6857
 Observed	5134,1564,8000,79
 Observed Innovation Performance	12205
 Observed Innovation Performance Relative	12204
@@ -482,6 +497,7 @@ Observed Underlying	15164
 Observemos	12018
 Observer	585,1751,690,189,489,4870,248,1195,636,169,1083,1012,1492,1439,112,1938,314
 Observer Committees	15393
+Observer Various	18787
 Observers	2736,303,179,761,774,281,696,408,39,2434,344,3246,451,880,3415,70
 Observers UNMIL USAID	16853
 Observing	6612,9705,2142,5
@@ -500,6 +516,7 @@ Obstacle	12389,4163,454
 Obstacles	5679,1976,366,1867,2501,936,516,1700,58,2283
 Obstaculizar	16965
 Obste	10881
+Obstetras	18768
 Obstetric	12413,2626,17
 Obstetric Care	15206
 Obstetric Care HSDUs	15206
@@ -546,6 +563,8 @@ PDC Participation Observing Member	15276
 PDC Participation Observing Member Sitemap	11493,5940
 PDC Participation Participating Member Observing Member	16597
 PERCEIVED MAJOR OBSTACLES	12389
+POPULATION OBSERVEE ET ESTIMEE	18757
+POPULAÇÃO OBSERVADA E ESTIMADA	18757
 PORTANT ORGANISATION DES OBSEQUES AU GRADE	18032
 PPE Observations	12253
 Para Ser Observadas A Bolsa de Valores	8003
@@ -610,7 +629,8 @@ Synoptic Observation Station	16947
 System GBON Global Basic Observation Network	18578
 System LOINC Logical Observation Identifiers Names	13306
 System SOFF Systematic Observations Financing Facilities	11553
-Systematic Observations Financing Facility	11553,2059,836,1548,418,2164
+Systematic Observation Impact Bonds	18869
+Systematic Observations Financing Facility	11553,2059,836,1548,418,2164,291
 Systematic Observations Financing Facility Decision	18677
 Systematic Observations Financing Facility SWIFT	18309
 Systematic Observing and Financing Facility	14738

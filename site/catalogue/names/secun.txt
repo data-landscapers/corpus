@@ -1,3 +1,4 @@
+Actividade Económica Secundária	18775
 Ayang Director General de Enseñanza Secundaria Ilmo	16920
 BÁSICO E SECUNDÁRIO	16487
 Centros de Secundaria	16920
@@ -19,7 +20,7 @@ Educación Secundaria Superior	16920
 Educación Secundaria. Las	16864,56
 Educación Secundaria. Un	16920
 Enseñanza Secundaria	4209
-Ensino Secundário	1948,3202,5616,621,32,53,105,490,721,2688,88,130,631,709
+Ensino Secundário	1948,3202,5616,621,32,53,105,490,721,2688,88,130,631,709,1723
 Ensino Secundário Direcção Nacional	10766
 Ensino Secundário Geral	10766,653
 Ensino Secundário Geral Anuário Estatístico da Educação	10766
@@ -71,9 +72,12 @@ Ensino Secundário de Adultos	10766
 Ensino Secundário de Cabo Verde	16325
 Ensino Secundário de Formação de Professores	10766
 Ensino Secundário de Formação de Professores Província	10766
+Escola Secundária	18757
 Escola Secundária Abílio Duarte	15448
 Escola Secundária Eugénio Tavares	5329,10870
 Escola Secundária Jorge Barbosa	15448
+Escola Secundária Maria Augusta	18843
+Escola Secundária Professora Mariana Ruth Leal	18843
 Escola Secundária de Mangulamelo	12148
 Escolas Secundárias	15476
 Estudiantes de Escuela Secundaria	16864
@@ -89,8 +93,13 @@ Instrumentos Secundários	11448
 MATRÍCULA EN LA EDUCACIÓN SECUNDARIA	16920
 Mbombela and Secunda Emalahleni	6832
 Mum Director General de Enseñanza Secundaria Ilmo	16864
+Nenhum Básico Secundário Percentagem Crianças	18762
+Nenhum Básico Secundário Percentagem Mulher Homem	18762
+Nenhum Básico Secundário Superior Pelo	18762
+Nenhum Básico Secundário Superior Quintl	18762
 Nenhum Primário Secundário Superior Quintil	10777
 Nivel Secundario	16920
+NÍVEL SECUNDÁRIO	18757
 O Ensino Secundário	10766
 Primario Secundario Terciario Impuestos	16969
 Primer Grado de Educación Secundaria	16920
@@ -110,10 +119,11 @@ Secundarias	16864
 Secundario	16920
 Secundo	16420
 Secundária de Balala	12148
-Secundário	10766,11,610,32,4275
+Secundário	10766,11,610,32,4275,3068
 Secundário DGESIC Direção-Geral	11557
 Secundário Ensino	10777
 Secundário Taxas Líquidas de Frequência Escolar	10777
 Subsector Educación Secundaria	4209
 Subsector Secundario	4209
 Superior FP Secundaria Primaria Ninguno Hechos	16962
+Superior Secundário Básico Pré-escolar	18762

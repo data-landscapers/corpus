@@ -13,6 +13,7 @@ ADMINISTRATION C	16100
 AF. C. Procurement	16896,26
 AFRICATEL AVS C	998
 AI and Other Emerging Technologies C	7549
+AMBIMETRIC C	18787
 ANEXO C	11406,50
 ANNEX C	3861,3337,6767
 ANNEXE C TABLEAU POUR L’ÉVALUATION	18312
@@ -111,6 +112,7 @@ B. For the Private Sector C	17745
 B. Key Dates C. Ratings Summary	16614
 B. Resource Availability and Utilisation C. Statistical	13310
 B. State-Owned Enterprise Governance Reform 12 C	13868
+B. Strengthening Governance 13 C. Advancing Structural	18823
 B. Theory of Change and PDO Indicators C	13856
 B1 C	18003
 B747 AST C	17006
@@ -229,6 +231,7 @@ C Functions of Refugee Appeals Authority	11177
 C Functions of Standing Committee	11177
 C GEOSOLS INTERNATIONAL GUINEE-SA GIG-SA	16623
 C Gestion	14483
+C Grau	18757
 C H A Q U	18332
 C H N O L	15478
 C Having	16884
@@ -359,6 +362,7 @@ C Sécurité	17899
 C T Frolick	11272
 C T I O N P	17946
 C T I VAT	18032
+C T O D	18781
 C T R P P	14947
 C TERTIFIED TRUE COPY	15999
 C TI	15399
@@ -470,7 +474,7 @@ C. Augmenter	18063
 C. Award Public Citizen	5692
 C. Awoodaha Maxkamadda Dastuurka	14859
 C. B	2816
-C. BANK PERFORMANCE	15424,239,68,1221,910
+C. BANK PERFORMANCE	15424,239,68,1221,910,903
 C. BANK PERFORMANCE Quality	11924,3500,239,2299
 C. BANK’S PERFORMANCE	15511
 C. BANK’S PERFORMANCE Quality	15511
@@ -511,6 +515,7 @@ C. Confidentiality	4610
 C. Confidentiality and FOIA Information	5773
 C. Conjoncture	14437
 C. Consolidate	15604
+C. Consultations and Collaboration	18851
 C. Consumer Empowerment and Redress	5676
 C. Consumer Empowerment and Redress Consumers	5676
 C. Consumer Price Index	14777
@@ -556,7 +561,7 @@ C. E&S Readiness for Emergency Response	18198
 C. E-LEARNING	14853
 C. E-Learning	14853
 C. E. Ndhlovu Prof. I. D.T	1154
-C. EFFICIENCY	15424,87,90,62,68,1221,897,13
+C. EFFICIENCY	15424,87,90,62,68,1221,897,13,903
 C. EFFICIENCY Assessment of Efficiency and Rating	15511,90,62
 C. EFFICIENCY Assessment of Efficiency and Rating Efficiency	15424,2538
 C. EFFICIENCY Assessment of Efficiency and Rating Rating	11924
@@ -619,6 +624,7 @@ C. Horse Racing Fund	14843
 C. House Rehabilitation and Reconstruction The National	12977
 C. Huawei	11740
 C. ICT	14853
+C. IMF Relations	18851
 C. INDUSTRY INFRASTRUCTURAL DEVELOPMENT	3862
 C. INTEGRATED SOCIAL PROTECTION FOR RESILIENCE	12980
 C. IT Governance and Coordination	16975
@@ -652,7 +658,7 @@ C. Lang	9128
 C. Las	16969
 C. Lawson	5700
 C. Leadership	13295
-C. Legal Operational Policies	969,295,603,1737,2935,4229,61,135,416,37,132,11,1771,1,1605,554,24,3,35,68,37,1,2,1288,1344,8
+C. Legal Operational Policies	969,295,603,1737,2935,4229,61,135,416,37,132,11,1771,1,1605,554,24,3,35,68,37,1,2,1288,1344,8,476
 C. Legal Operational Policies D. Environmental	1264,5275
 C. Legal Operational Policies Page	15659
 C. Legal Operational Policies Triggered	13331
@@ -716,6 +722,7 @@ C. PARTICIPANTS AU SYRAD	13838
 C. PDO Level Results Indicators	15411
 C. PDO-Level Results Indicators	11525
 C. PERSONNEL	13478
+C. PFM	18851
 C. POLICIAL S ECONOMICOS DISCIPLINA DISCIPLINA	4209
 C. PREPARATION OF BIDS	14766
 C. PREPARATION OF PROPOSALS	15080
@@ -750,7 +757,7 @@ C. Program Development Objectives	11905
 C. Programme de Modernisation Urbaine	15542
 C. Programmes	16902
 C. Project	15758
-C. Project Beneficiaries	969,295,603,1737,2935,4229,61,135,416,37,132,11,295,1476,1,1578,581,24,3,35,68,37,1,2,82,401,240,565,1155,94,95,8
+C. Project Beneficiaries	969,295,603,1737,2935,4229,61,135,416,37,132,11,295,1476,1,1578,581,24,3,35,68,37,1,2,82,401,240,565,1155,94,95,8,476
 C. Project Components	11863,2075
 C. Project Cost and Financing	15411
 C. Project Financing and Beneficiaries	14937
@@ -770,7 +777,7 @@ C. REQUEST FOR PROPOSAL CONDITIONS	12400
 C. RIGHT TO FREELY PARTICIPATE	17970
 C. Raise	15604
 C. Rapports	13442
-C. Ratings Summary C.1 Performance Rating	16614
+C. Ratings Summary C.1 Performance Rating	16614,2140
 C. Rationale	14966,1066
 C. Rationale for Bank's Involvement	14080
 C. Rationale for Bank’s Involvement	13938
@@ -781,7 +788,7 @@ C. Reforming Universal Service Mechanisms All	14723
 C. Registration	12452
 C. Regular Audits	4610
 C. Relationship	11905,271,5282
-C. Relevance	969,295,603,1737,2935,4229,61,135,416,37,132,11,1771,1,1578,27,554,24,3,35,68,37,1,2,1288,1155,189,8
+C. Relevance	969,295,603,1737,2935,4229,61,135,416,37,132,11,1771,1,1578,27,554,24,3,35,68,37,1,2,1288,1155,189,8,476
 C. Relevant	18370
 C. Request for Proposal Conditions	12400
 C. Resource	12977
@@ -803,6 +810,7 @@ C. Se	12018
 C. Section	13390
 C. Sector and Institutional Context	15983
 C. Sectoral Context Key PFM Processes1	1284
+C. Sectoral and Institutional Context	18809
 C. Session and Cookie Management	15161
 C. Social	12977
 C. Solar Energy Investment Allowance	14717
@@ -824,7 +832,7 @@ C. Supporting Economic Growth	16975
 C. Supprimer	13375
 C. Sur	15507,670
 C. Suspension	14843
-C. Sustainability	969,295,603,1737,2935,4229,196,416,145,35,295,1476,1,1605,435,39,80,24,3,35,68,37,1,2,1288,492,663,189,8
+C. Sustainability	969,295,603,1737,2935,4229,196,416,145,35,295,1476,1,1605,435,39,80,24,3,35,68,37,1,2,1288,492,663,189,8,476
 C. Synthesis	17116
 C. Synthèse	16328
 C. System Deployment	17255
@@ -1071,6 +1079,7 @@ Electricité Où C d	10975
 Emerging C- Annual	7548
 Emerging Technologies C	14664
 Encargado Grupo C Especialista Grupo C	4209
+Energy Bank and Banco Equador. C. Advancing	18823
 Engr. Ngozi Ogujiofor Mohammed C. Babajika	11857
 Environment and Planning C	11028,1199
 Environmental Assessment Category C	16960
@@ -1193,6 +1202,7 @@ Initial C	13037
 Inspecteur des C Timbre Services	17982
 Inspector Grupo C	4209
 Inspector Grupo C Interventor Grupo C	4209
+Instituições. C. Investimentos	18772
 Interfaces Service C	10876
 Intermédiaire Axe C	18015
 Internet Series C Equity Investment Africa50	810
@@ -1210,6 +1220,7 @@ Jeffery C	3791
 Jene M. C. Jippe Team Member	16922
 Joachim C. Data	3791
 Jonathan C. Space Activities	6467
+Jose C. Janeiro Team Member	18809
 Joël C. TOKPONOU	3682,3040,73,206,167
 Joël C. Tokponou	5516
 K. C	11135
@@ -1235,6 +1246,7 @@ LEGISLATIVE AND STATUTORY AFFAIRS C COPIE	10974
 LER C	16851
 LES COMMUNES D'ARRONDISSEMENTS Article C	15999
 Laptop C- Sending	582
+Laurence C. Clarke Abdoulaye Seck Director	18765
 Layer C Integration Layer	1009
 Le C	10876
 Legal Framework Administration A C C	17116
@@ -1369,6 +1381,7 @@ Orientation SOSUP Bac Séries C	15674
 Ortega C. Financial	12231
 O’Donnell C	1219
 O’Shea C	10784
+P A R C E R	18781
 P O L I C	12674
 P R O T E C	11586
 P. C	11927,1051
@@ -1507,7 +1520,7 @@ Second Edition C. ADOPTED INTERNATIONAL STANDARDS	15027
 Secretario General Adjunto C. Nac. UNESCO	4209
 Secretario Grupo C Segundo Jefe Estado	4209
 Secretario Grupo C Servicio	4209
-Section C	582,179,2047,9329,4880,82,50
+Section C	582,179,2047,9329,4880,82,50,1616
 Section C. ICT Infrastructure and Systems	15164
 Section I. C	10964
 Section IV. C	15663

@@ -108,6 +108,7 @@ CP.17	16875,265
 CP.17 Modalities	17140
 CP.17. Table	17140
 CP.19	16875
+CP.26 Página Electrónica	18798
 CP1 CP2 CE1 CE2 CM1 CM2	10847
 CP1 Filles	10847
 CP1 Nouveaux	10847
@@ -200,7 +201,7 @@ CPF CPP CRI DA DFIL DIME	15658
 CPF Country Management Unit CPS National	11855
 CPF Country Partnership Framework	15138
 CPF Country Partnership Framework CPIA Country	969
-CPF Country Partnership Framework CPS Country	11380,4131
+CPF Country Partnership Framework CPS Country	11380,4131,3266
 CPF Country Partnership Framework CR Civil	15518
 CPF Country Partnership Framework CRI Corporate	15621,763
 CPF Country Partnership Framework CRVS Civil	16896,26
@@ -208,6 +209,7 @@ CPF Country Partnership Framework CSA Food	18301
 CPF Country Partnership Framework CSF Climate	11549
 CPF Country Partnership Framework CT Cash	15663
 CPF Country Partnership Framework DA Designated	1867,9658,3990
+CPF Country Partnership Framework DPSSF Directorate	18809
 CPF Country Partnership Framework EIRR Economic	13836
 CPF ECD FCV FY IDA IFC	11468
 CPF FINANCIAL SERVICES LIMITED Data Controller	7167
@@ -279,6 +281,7 @@ CPLP. Ao	6571
 CPLP. Brazil and Portugal	10188
 CPLP. Consequently	10188
 CPLP. Fonte	2816
+CPLP. Segundo Daniel Martins	18871
 CPLP24	11473
 CPM Valid	14671
 CPM. Google	13461
@@ -322,6 +325,7 @@ CPS Country Partnership Framework	13861
 CPS Country Partnership Strategy	15411
 CPS Country Partnership Strategy CQS Selection	17441
 CPS Country Partnership Strategy CSIRT Computer	17862
+CPS Country Partnership Strategy DPEI Directorate	18765
 CPS Education	17842
 CPS Elaborer le Plan Stratégique du Système CPS	17845
 CPS Etat	17845
@@ -354,6 +358,7 @@ CPS Santé	17842
 CPS Secteur	17842
 CPS Statement	14717
 CPS and CAWIS	11237
+CPS for STP	18825
 CPS- Activité	17845
 CPS- Justice Act.1.2.2.2	17842
 CPS- SE	17830
@@ -463,6 +468,7 @@ Competencia CPDN	1701
 Component CHW Community Health Worker CPF	11560
 Computer Emergency Response Team CMU CPF	17862
 Conferência Estatística da CPLP	2816
+Conselho Nacional de Estatística CPLP	18794
 Contingent Emergency Response Component CPF Comité	10964
 Contingent Emergency Response Component CPF Country	10768
 Coopération Internationale CPCSP	18291
@@ -490,6 +496,7 @@ DU MALI La CPS-SE	17830
 Decentralization of CPD	13070
 Designing CPD Programs for Teachers	13070
 Directeur CPS	17978
+Diretor Geral da CPLP	18855
 Disaster Affected Communities CPA Comprehensive Peace	15342
 Do the CPF	14116
 Doter la CPS	17845
@@ -507,6 +514,7 @@ EPI for CP1 and CP2	11905
 EPST CPS Etat	17845
 Edo CP	9876
 Education CPS-SE	17830
+Eh1TT CpCk	18869
 El CPE	16898
 Emergency Response Component CPCC Critical Information	16144
 Endorsement of BS CP	13385
@@ -518,6 +526,7 @@ Enquête CPS-SDR	17842
 Enquête CPS-SICAEPIP	17842
 Enquête CPS-SSDSPF	17842
 Enquête Eau- CPCSP	18291
+Ensino Superior da CPLP	18855
 Estado-Membros da CPLP	11393
 Estados-Membros da CPLP	11393
 Estadosmembros da CPLP	15955
@@ -626,6 +635,7 @@ O CPBI	10772
 OFFICIAL USE ONLY Report No. CPF0000058	11468
 ONS CPS Etat	17845
 Objectifs CP Comité de Pilotage CSC Cellule	10712
+Observadores Consultivos da CPLP. Assim	18793
 Obtain CPIA	11863
 Ocidental CNEST Conselho Nacional de Estatística CPLP	15535
 Officer CP Condition Precedent DD Due	1818
@@ -651,6 +661,7 @@ Perennial Crops. Imagery for CPER High	17140
 Personal Interviewing CPI Consumer Price Index	13359
 Point Calculation Rules For CPD	13381
 Police Corporal CPU	14760
+Policy CPF Country Partnership Framework MFD	18851
 Population and Development CPs Country Programmes CSO	12962
 Pr AT ORANGE CMSS HDB CPS	17882
 Preparing CP’s Monthly Strategic Coordinating Meetings	14760
@@ -684,6 +695,8 @@ Renforcement des CPS-CI	17842
 Renforcement des CPS-CJ	17842
 Renforcement des CPS-Justice	17842
 Report No. CPF0000054	16384
+Repositório Científico da CPLP	18855
+Repositório Comum da CPLP	18855
 Results-Oriented Annual Report CPD	17101
 Réaliser CPS SS DS PF Etat	17845
 Réviser le Schéma Directeur du Système CPS	17845
@@ -707,6 +720,7 @@ SNISS CPS	17845
 SSN du Mali CPS	18077
 SUCC SP AND CP LIMITED	16623
 SUD-OUEST CP1 Filles	10847
+Secretária Executiva da CPLP	18855
 Secteur Développement Rural CPS	17842
 Secteur Education CPS	17842,235
 Secteur Justice CPS	17842,235
@@ -735,6 +749,7 @@ TRAORE Conseil Technique Chargé de Statistique CPS	17845
 Taux de CPN4	17843
 Technologies CPD	7548
 Technology AA CJ CM CPA DCJ	12920
+Telecomunicações da CPLP	18818
 Tierra. Las CPDN	16875
 Tom- CPS Etat Monitoring Activité	17845
 Tourism CBL Central Bank of Liberia CPI	17139
@@ -749,6 +764,7 @@ Updated CP	15080
 Updates CPM	12058
 VISIOWORLD CPL Traitement	10821
 WBG Evolution. The CPF	12968
+WB’s CPF for STP	18851
 Week. CPJ Tells Them	7176
 World Bank CPF	969
 World Bank Group’s CPF for Egypt FY2023-27	15663
@@ -756,3 +772,4 @@ World Bank Report No. CPF0000062	14627
 World Bank's CPIA	18488
 X X X X X CPS	17882
 X X X X X CPS-	17882
+de CPN	18768

@@ -28,7 +28,7 @@ Amadou Hott the Bank's Vice President for Power	14871
 Ana Elizabeth Pires Carvalho Vicente	11955
 Anatole Collinet MAKOSSO Le Vice-Premier	16456
 Anwar Sharif Practice Group Vice President	15731
-Approval Vice President	16614
+Approval Vice President	16614,2140
 Asriya de Nouakchott Vice-Président	17895
 Attributions du Vice Président du Conseil	15102
 Auguste ILOKI Président Pierre PASSI Vice-président	15420,827
@@ -40,6 +40,7 @@ Avani Victoria Falls Resort	13477
 B2 Vice Cónsul B3	4209
 BCRG First Vice-Governor Mohamed Lamine Conté	4337
 Bakary SAMAKE Vice-président	18032
+Bank Group Vice President	18754
 Bank’s Vice President for Digital Transformation	10451
 Batundi Mushaho Victor	7888
 Benericia Grace Victoire	16177
@@ -228,7 +229,7 @@ Huawei’s Southern Region Vice President for Operations	6541
 IAFS-III. Vice President Gen	13562
 IATA’s Regional Vice President	10723
 ICR DOCUMENT Regional Vice President	16436
-ICR Regional Vice President	15663,2186
+ICR Regional Vice President	15663,2186,916
 ICT and Vice President	4798
 IDA Vice President Hafez M.H. Ghanem	579
 IDC Vice-President	8289
@@ -240,6 +241,7 @@ Identification des Victimes de Armées	17899
 Ilha de S. Vicente	15966
 India Hon’ble Vice President Shri Venkaiah	18563
 India Vice President of India Shri M	18378
+Instituto Superior de Ciências da Saúde Victor Sá	18867
 Integrity Vice Presidency	16960
 Intendants du Vice-Président	16099
 Intérieur. Le Vice-président	14431
@@ -355,6 +357,7 @@ Noël GBAGUIDI Vice-président	16485
 Ntate Vice-President	12748
 Nórcia Vicente	12277,39
 O Comando Regional de São Vicente	15503
+O Instituto Superior de Ciências da Saúde Victor	18783
 O Vice-Primeiro Ministro	3558,12580
 O Vice-Primeiro-Ministro	5355,68,10644,126,6
 OLAVO AVELINO CORREIA VICE PRIME MINISTER	16219
@@ -410,7 +413,7 @@ R.T. Masekes Vice ChairpPerrsoofn. I. D.T	1154
 RENVOI DES VICTIMES VERS LES SERVICES	16085
 RPE Victims and Groups of Victims	17870
 Refugees and Disaster Victims	13938
-Regional Vice President	969,295,20,583,1022,673,42,2935,126,4103,196,416,37,132,11,279,16,50,19,41,211,605,550,1,127,275,8,1,93,20,5,595,481,39,88,74,52,234,67,20,4,3,35,68,37,1,2,2,39,29,12,39,187,14,49,112,240,14,524,27,3,489,17,391,13,100,236,95,8,324
+Regional Vice President	969,295,20,583,1022,673,42,2935,126,4103,196,416,37,132,11,279,16,50,19,41,211,605,550,1,127,275,8,1,93,20,5,595,481,39,88,74,52,234,67,20,4,3,35,68,37,1,2,2,39,29,12,39,187,14,49,112,240,14,524,27,3,489,17,391,13,100,236,95,8,324,140,12,32,16
 Regional Vice President Iffath Anwar Sharif	11924
 Regional Vice President for Eastern and Southern Africa	6539
 Regional Vice President of Sales	5528
@@ -765,7 +768,7 @@ Vice-President of India Shri M. Venkaiah Naidu	13744
 Vice-President of India and Chairman	18016
 Vice-President of Opay	11126
 Vice-President of Parliament	17101
-Vice-Presidente	4209,6543,764,10,5811,74
+Vice-Presidente	4209,6543,764,10,5811,74,1338
 Vice-Presidente Executivo de Space Systems da Airbus	5405
 Vice-Presidente Primero	4209
 Vice-Presidente Segundo	4209
@@ -802,6 +805,7 @@ Vice-Présidents	11944,3759,270
 Vice-Recteur	9044,7337
 Vice-Rectores	16871
 Vice-Reitor da Universidade de Aveiro	11566
+Vice-Secretário-Geral	18843
 Vice-Secrétaire	18400,2,1
 Vice-chairperson	7845
 Vice-chancellor Professor Nana Aba Appiah Amfo	8287
@@ -813,7 +817,7 @@ Vice-premier Ministre	15547
 Vice-premier Ouattara	10942
 Vice-premiers Ministres	15569,801
 Vice-president Dr Mohamed Juldeh Jalloh	4619
-Vice-presidente	2816,8663,52
+Vice-presidente	2816,8663,52,7265
 Vice-presidentes. Subsecção III Fiscal	15912
 Vice-primeiro-ministro	4081
 Vice-présidence	13341
@@ -857,7 +861,7 @@ Vices	15429,282
 Vichey Bartholo	15692
 Vichittra Purdassee Digital Portfolio Manager	11332
 Vichy Djibercia	15744
-Viciação	14
+Viciação	14,18741
 Vicious	18461
 Vickram Cuttaree and Prashant Singh	11149
 Vickrey BG. Using	1219
@@ -917,7 +921,8 @@ Victor Pouliquen	12948,5370
 Victor Reader Stream	13633
 Victor S	17773
 Victor Shale	10729
-Victor Steenbergen	10841
+Victor Steenbergen	10841,8010
+Victor Steenbergen SAO TOME AND PRINCIPE	18851
 Victor Sulla	12541
 Victor Uwaifo	9739
 Victor and Ndwiga	12227
@@ -991,6 +996,7 @@ Victory Hall	11717
 Victory Teens Organisation	14351
 Victória Cupessala	10778
 Vinci Vice President of Huawei	6008
+WBG World Bank Group Regional Vice	18851
 WFP World Food Programme Regional Vice	11525
 War Veterans and Victims Compensation Framework	13685
 West Africa. Vice President	17277

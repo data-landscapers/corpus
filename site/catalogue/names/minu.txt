@@ -14,7 +14,7 @@ Capture Consultation Minutes Stakeholder	1778
 Culture MINIJUST Ministry of Justice MINUBUMWE Ministry	14935
 DIX HEURES ZERO MINUTE	14287
 Downloaded Domestic Off Net Minutes	9781
-EM MINUTOS	11531
+EM MINUTOS	11531,7260
 EN UNE MINUTE Après	8637
 Five Free International Minutes for Calls	11642
 Fixed Minutes International	3862
@@ -61,7 +61,7 @@ Minute Santé	14742
 Minute Writing	6946
 Minute of Use	2776
 Minute.bf	16353,122
-Minutes	585,385,2,277,389,140,210,731,57,1086,265,998,875,100,332,239,275,1969,63,803,967,483,20,312,90,160,832,540,285,958,166,45,105,22,70,31,213,22,28,6,356,540,11,101,561,138,20,64,65,188,39,243,1005,76,13
+Minutes	585,385,2,277,389,140,210,731,57,1086,265,998,875,100,332,239,275,1969,63,803,967,483,20,312,90,160,832,540,285,958,166,45,105,22,70,31,213,22,28,6,356,540,11,101,561,138,20,64,65,188,39,243,1005,76,13,241
 Minutes Average	16631
 Minutes Domestic Mobile	6946
 Minutes Figure	18444
@@ -79,6 +79,7 @@ Minutes of Use	2776,3895,6673,5100
 Minutes of Use and Average Revenue Per User	18444
 Minutions Sécurité B2	17899
 Minutos	11531,43,1267
+Minutos Dados Pessoais	18796
 MoU Minutes of Use NCA National Communications	2776
 Mobile Voice Minutes Others	6671
 Mobile Voice Traffic Minutes of Use	2776

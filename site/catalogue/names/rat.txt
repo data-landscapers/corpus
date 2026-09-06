@@ -93,8 +93,10 @@ Ashish Kumar Rathore	226
 Assessment Framework A. Rating Criteria Naymote	17139
 Assessment of Economic Impact and Rating Economic	17962
 Assessment of Relevance of PDOs and Rating	15511,90,130,2131
+Assessment of Relevance of PDOs and Rating Overall Rating	18825
 Assessment of Relevance of PDOs and Rating PDO Relevance	11924
-Assessment of Relevance of PDOs and Rating Rating	15424,239
+Assessment of Relevance of PDOs and Rating Rating	15424,239,3102
+Assessments Indicators Rating Performance	18754
 Asset Quality Ratios Indicator	17236
 Asset Turnover Ratio	1944
 Assorted Export Duties Description Rate Unprocessed	17011
@@ -137,10 +139,11 @@ Background and Rationale The Somalia National Bureau	15085
 Background and Rationale2	15085
 Balance Capacity Utilization Rate	17503
 Bank Performance Rating Satisfactory	14888
-Bank Ratings Borrower Ratings Quality	16614
+Bank Ratings Borrower Ratings Quality	16614,2140
 Bank for International Settlement Capital Adequacy Ratio	11134
 Base SEC Reserve Ratio	12882
 Bed Occupancy Rate	18627
+Benefit Cost Ratio CCT Conditional Cash	18809
 Benefit-Cost Ratio	15411
 Benin Telecom. Rationale for Bank Assistance	15424
 Billion Nominal Revenue Growth Inflation Rate	14985
@@ -161,7 +164,7 @@ C. EFFICIENCY Assessment of Efficiency and Rating	15511,90,62
 C. EFFICIENCY Assessment of Efficiency and Rating Efficiency	15424,2538
 C. EFFICIENCY Assessment of Efficiency and Rating Rating	11924
 C. RATIONALE FOR BANK’S INVOLVEMENT	11863,2075
-C. Ratings Summary C.1 Performance Rating	16614
+C. Ratings Summary C.1 Performance Rating	16614,2140
 C. Rationale	14966,1066
 C. Rationale for Bank's Involvement	14080
 C. Rationale for Bank’s Involvement	13938
@@ -300,7 +303,7 @@ Currently Contraceptive Prevalence Rate	18441
 Cybersecurity RATING SYSTEMATIC STAGE The National	12214
 Câmara Municipal Ratificando	16290
 D. Cost Efficiency and Sustainability Rationale	18531
-D. JUSTIFICATION OF OVERALL OUTCOME RATING	11924,3500,87,90,62,68,705,516,910,100
+D. JUSTIFICATION OF OVERALL OUTCOME RATING	11924,3500,87,90,62,68,705,516,910,100,803
 D. Rationale	1264,13646
 D. Rationale for AF. B. Financial Management	16896
 D. Rationale for AF. Paris Alignment	16922
@@ -380,8 +383,8 @@ Dropout Rate	12199
 Dropout Rates	12411,988
 Dynamic Infrared Rain Rate	12957
 E. Rate Limiting	15161
-E. Rationale for Additional Financing	15983
-E. Rationale for Bank Involvement and Role of Partners	969,898,8901,196,416,475,1476,1606,2012,1155
+E. Rationale for Additional Financing	15983,2826
+E. Rationale for Bank Involvement and Role of Partners	969,898,8901,196,416,475,1476,1606,2012,1155,673
 E. Rationale for World Bank	11549
 E. Rationale for World Bank Involvement	14910
 E. Rationale for World Bank Involvement and Role	1264,9565,731,1772,2159,24,3,35,68,37,1,2,2632,8
@@ -397,6 +400,7 @@ EQUIPEMENT STRUCTURES RATTACHEES SECURITE Sous-lieutenant	15455
 EQUIVALENTS Exchange Rate Effective	15601
 ERR Economic Rate of Return ESF Environmental	10768
 ERR Economic Rate of Return ESMF Environmental	11525
+ERR Economic Rate of Return FSDIP Financial	18825
 ESA. Rather	17405
 ESMF Purpose and Rational The ESMF	1988
 EU Ratio	15901
@@ -462,7 +466,7 @@ Exchange Rate	3583,2825,6652,3906,269,1471
 Exchange Rate Development	17104
 Exchange Rate Developments	17235
 Exchange Rate Developments Following	12962
-Exchange Rate Effective	969,295,20,583,1022,673,42,2935,4290,135,416,88,57,24,11,345,19,41,211,1155,1,402,8,1,93,25,1076,39,162,52,182,39,13,67,20,7,35,68,37,3,2,39,29,12,39,362,240,14,38,178,282,26,30,489,408,13,242,94,95,8,324
+Exchange Rate Effective	969,295,20,583,1022,673,42,2935,4290,135,416,88,57,24,11,345,19,41,211,1155,1,402,8,1,93,25,1076,39,162,52,182,39,13,67,20,7,35,68,37,3,2,39,29,12,39,362,240,14,38,178,282,26,30,489,408,13,242,94,95,8,324,129,11,12,32,16,26
 Exchange Rate Effective Dec	16032
 Exchange Rate Effective Oct	17458
 Exchange Rate Mechanism	17235
@@ -505,12 +509,14 @@ Fertility Rate ASMR Age-Specific Mortality Rate	12413
 Fertility Rate NRR Net Reproduction Rate	16950
 Fertility Rate Poorest	18441
 Fertility Rate TJ Tera Joules	2775
+Financial Inclusion Rate	18770
 Financial Inclusion and Lending Interest Rate	7763
 Financial Inclusion and Savings Deposit Rate	7763
 Financial Rate of Return	16960
 Financial Ratio Guidebook	16614
 Financial Report IRR Internal Rate of Return	16922
 Financial Services RATING SYSTEMATIC STAGE Malawi	12214
+First Restructuring Ratings Key Revisions Date	18825
 Fitch Ratings.... Lifestyle Nollywood	13626
 Fitch and S&P Global Ratings	18561
 Fixed Base Rate	16219
@@ -538,7 +544,7 @@ Fund Leverage Ratio	4528,7984
 Funding Rationale	8866
 Future of Statistical Science. Boca Raton	8376
 Future-Ready NSS Goal Rationale	17116
-G. Ratings of Project Performance	16614
+G. Ratings of Project Performance	16614,2140
 GDP Ratio	12951,102
 GDP Ratio Additional Tax USD	14897
 GDP Ratio Tax Revenue	17011
@@ -617,7 +623,7 @@ Higher Tax Rates	12389
 Hospitalization Rates and Hospital Capacity Specijalnosti	10780
 Hour Proposed Fixed Rate	13037
 Household Response Rate	2775
-I. BACKGROUND AND RATIONALE FOR ADDITIONAL	1284,1605,10570,1679,52,592,201,913,26,1703
+I. BACKGROUND AND RATIONALE FOR ADDITIONAL	1284,1605,10570,1679,52,592,201,913,26,1703,184
 I. PROJECT STATUS AND RATIONALE	1228,1245,2180,9244,559,510,5,722,109,167,63,155,2172
 I. Project Rationale Promoting	12174
 I. The Monetary Policy Rate	17193,123,105
@@ -644,6 +650,7 @@ IRR Internal Rate of Return ISP Internet	15621
 IRR Internal Rate of Return KfW Kreditanstalt	15661
 ISR Archived DO Rating IP Rating	17849
 ISR RATINGS No. Date ISR Archived	17962
+ISR Ratings	18754
 IV.3.2 RATIONALISATION DES INVESTISSEMENTS Le PNDIS	13306
 IV.3.2 Rationalisation	13306
 Idiosyncratic and Covariate Vulnerability Rate	18301
@@ -672,6 +679,7 @@ Ind.2.1.2.4. Ratio	15722
 Indemnity and Insurance Rationale	8866
 Indian Ocean High Rate SEVIRI IR3.9	13701
 Indicator Capital Adequacy Liquidity Ratio Credit	11134
+Indicator IRR Internal Rate of Return ISEC	18765
 Industry Ratios	17235
 Infant Mortality Rate	12367,16,30,226,760,1657
 Infant Mortality Rate ASFR	12639
@@ -732,6 +740,7 @@ Justification for Overall Rating Quality of M&E	15663
 Justification of Overall Efficacy Rating	11924,3500,87,90,62,68
 Justification of Overall Efficacy Rating Overall Efficacy	17962
 Justification of Overall Efficiency Rating	15424
+Justification of Overall Outcome Rating	18754
 Justification of Overall Rating of Bank Performance	15601,130,705
 Justification of Overall Rating of Bank Performance Overall	17962
 Justification of Overall Rating of Bank Performance Rating	15424
@@ -753,10 +762,12 @@ Key Rate	14744
 Key Revisions KEY RATINGS Bank Performance	15424
 Kimberly Peven Rathavuth Hong Harouna Koche	13300
 Know Your Rates	9781
+Knowledge IRR Internal Return Rate ISR	18754
 Korea Rating	15713
 Korea’s Rating Based	15713
 Kwacha-US Dollar Exchange Rate During Droughts	12376
 LA RATIFICATION DE L’ORDONNANCE N	17841
+LAST ISR RATINGS	18809
 LFR Late Fertility Rate TFR	16950
 LGAs Rationale	17285
 LNMR Late Neonatal Mortality Rate MAS2	12413,2643
@@ -765,7 +776,9 @@ La Ratio Alumno-Docente	16920
 Labour Force Participation Rate	12600,799
 Lack of Completion Rate Analysis	14546
 Last Approved Rating	11965,23,1932,1060,51,128,578,2396
-Last Approved Rating ISR Seq	6579,349,949,3518,1632,2708,278,987,96,374,35,501,344,4,1
+Last Approved Rating ISR Seq	6579,349,949,3518,1632,2708,278,987,96,374,35,501,344,4,1,437,25
+Last Approved Rating Risk Category Proposed	18809
+Last ISR Operation Ratings NAME IMPLEMENTATION	18809
 Last Operation Ratings	15190
 Latest Internal Risk Rating	15905
 Latest Internal Risk Rating Date	15905
@@ -863,7 +876,7 @@ Mobile Voice Subscriptions and Penetration Rate3	2776
 Moderate Rationale	12376
 Moderately Satisfactory C.2 Detailed Ratings of Bank	16614
 Moderately Satisfactory IP Rating Satisfactory Satisfactory	16436
-Moderately Satisfactory Overall Risk Rating	6579,5409,1932,136,1103,1546,295,904,102,349
+Moderately Satisfactory Overall Risk Rating	6579,5409,1932,136,1103,1546,295,904,102,349,462
 Moderately Satisfactory. Achievement Rating	10779
 Moderately Unsatisfactory Overall Bank Performance Rating	10779
 Moderately Unsatisfactory Overall Risk Rating	2712,4216,9085
@@ -954,10 +967,11 @@ OVERALL EFFICACY Rationale Objective	16960
 OVERALL RATINGS	13859,51,6,1,1114
 OVERALL RATINGS Name	11988,1932,136,924,179
 OVERALL RATINGS Name Current Progress	4688
-OVERALL RATINGS Name Previous Current Progress	2712,3867,349,949,2993,525,1632,2708,278,692,295,96,374,35,399,102,127,217,4,1,179
+OVERALL RATINGS Name Previous Current Progress	2712,3867,349,949,2993,525,1632,2708,278,692,295,96,374,35,399,102,127,217,4,1,179,258,25
 OVERALL RATINGS Previous Current	11971,4108,915,85,879
 OVERALL RATINGS Previous Current Satisfactory Satisfactory	12228,39,173
 OVERALL RATINGS Progress	13058,1959,720
+OVERALL RISK RATING Overall Risk	18851
 Oct Proposed Rating	2712,1976
 Offence Rate	14760
 Offence Rate Jul	14760
@@ -972,12 +986,13 @@ Operator Response Rate NTRA Receives	11642
 Orange Digital Center de Ratoma	16726
 Organiser Time Location Attendance RATING SCALE	17099
 Out-of-Bundle Rates	12395
-Outcome Rating	15424
+Outcome Rating	15424,3341
 Outcome Rating Moderately Satisfactory	16960
 Outcome Rating Satisfactory	14888
 Outcome Rationale The Overall Outcome	10779
 Overall Bank Performance Rationale With Bank	10779
 Overall Efficacy Rating Substantial	14888
+Overall Efficacy Rating. Table	18825
 Overall Rating	15553
 Overall Rating Rating High High High	15663
 Overall Ratings	12724
@@ -988,6 +1003,7 @@ Overall Risk Rating Dec	17958
 Overall Risk Rating During Comments Implementation	15372
 Overall Risk Rating Jan	16079
 Overall Risk Rating Jun	16994
+Overall Risk Rating Moderately Satisfactory Moderately	18792
 Overview of Projects and Their Completion Rates NAME	13053
 P Global Ratings Confirms Rwanda's Credit	14873
 PDO3. Overall Efficacy Rating Moderately Unsatisfactory	10779
@@ -1100,8 +1116,8 @@ Property Rates and Market Tolls	16276
 Proposed National Roaming Wholesale Rates	17212
 Proposed National Roaming Wholesale Rates Based	17212
 Proposed National Roaming Wholesale Rates Service	17212
-Proposed Rating	11965,1093,862,1111,159
-Proposed Rating Political and Governance	6579,349,949,4111,2992,179,578,276,987,96,374,536,127,222
+Proposed Rating	11965,1093,862,1111,159,3602
+Proposed Rating Political and Governance	6579,349,949,4111,2992,179,578,276,987,96,374,536,127,222,462
 Proposed Rating Political and Governance High High	15735
 Proposed Rating Political and Governance Low Moderate	18354
 Proposed Rating Political and Governance Moderate Moderate	13027
@@ -1160,7 +1176,7 @@ RATINGS	15019
 RATINGS OF PROJECT PERFORMANCE IN ISRs	15601,62,2199
 RATINGS Project Data	13378
 RATINGS Project Data Key Project	13392
-RATINGS SUMMARY	15702,257
+RATINGS SUMMARY	15702,257,2866
 RATINGS SUMMARY Outcome Bank Performance M&E	11924,6038
 RATINGS SUMMARY Outcome Moderately Unsatisfactory Bank	16436
 RATIO DU PERSONNEL DE SANTÉ	18105
@@ -1168,7 +1184,7 @@ RATION DE COMBAT	17982
 RATIONALE	12843,4262
 RATIONALE FOR A RWANDA ENERGY POLICY	14947
 RATIONALE FOR A SPECTRUM ROADMAP	5245
-RATIONALE FOR ADDITIONAL FINANCING	2889,12249,644,1114,26,1703
+RATIONALE FOR ADDITIONAL FINANCING	2889,12249,644,1114,26,1703,184
 RATIONALE FOR DEVELOPING A DIGITAL ECONOMY	17870
 RATIONALE FOR RESTRUCTURING	2473,2180,11316,63,155
 RATIONALE FOR RESTRUCTURING A. Project	18359
@@ -1213,6 +1229,8 @@ Rate Demand Notices	18448
 Rate Exchange Rates	17909
 Rate Female Female	12151
 Rate GER Gross Enrolment Rate GIR	18460
+Rate GPE Global Partnership for Education GRM	18765
+Rate Indicator	18754
 Rate Limiting	5665
 Rate Located	17011
 Rate MPR Micro	17235
@@ -1236,6 +1254,7 @@ Rate of Return IFR Interim Financial Report	17458
 Rate of Return ISP Internet Service Provider	15511
 Rate of Return IT Information Technology IVA	17458
 Rate of Return IVA Independent Verification Agent	15515
+Rate of Return LMIC Lower Middle-Income Country	18809
 Rate of Tax	13108
 Rateable	12369
 Ratebk Lahzi	3425
@@ -1257,12 +1276,12 @@ Rates and Fees	17243
 Rates and Valuation Office	11129
 Rates and Valuation Officer	11129
 Rates. Respondents	17212
-Rather	10,418,533,75,1,124,827,129,337,248,304,301,163,37,76,12,531,1,132,188,116,39,23,75,32,19,221,25,47,128,70,40,4,16,161,237,73,5,21,1,3,66,23,22,61,177,125,67,37,5,1,31,49,24,7,14,32,15,3,31,10,245,3,96,1,23,25,1,1,68,5,71,9,21,3,3,31,11,33,28,33,23,2,28,15,24,14,45,3,105,5,40,71,57,5,2,23,13,1,63,16,7,31,1,13,18,13,14,15,2,1,17,22,51,4,17,12,4,10,13,2,127,12,8,8,10,10,69,13,33,1,23,8,2,4,119,22,4,15,18,75,47,17,8,34,19,15,9,5,1,43,63,5,4,20,23,2,15,66,36,20,20,33,87,55,97,34,16,82,23,50,15,25,33,2,18,4,5,7,65,31,6,3,24,91,38,29,36,40,50,5,59,54,4,65,44,4,66,48,62,42,51,34,19,53,21,22,113,9,1,19,23,30,14,51,18,19,11,20,52,51,20,21,40,3,135,72,33,12,12,3,35,72,37,155,2,66,16,46,38,20,122,2,63,31,1,27,3,1,72,252,48,216,92,120,44,24,52,30,211,86,17,37,20,458,21,405,1,140,113,78,25,67,175,15,17,7,3,14,122,131,537,134,278,166,110,81,30,3,5,5,62,112,120,33,108,110,38,152,14,51,23,65,25,1,3,29,3,16,312,347,29,82
+Rather	10,418,533,75,1,124,827,129,337,248,304,301,163,37,76,12,531,1,132,188,116,39,23,75,32,19,221,25,47,128,70,40,4,16,161,237,73,5,21,1,3,66,23,22,61,177,125,67,37,5,1,31,49,24,7,14,32,15,3,31,10,245,3,96,1,23,25,1,1,68,5,71,9,21,3,3,31,11,33,28,33,23,2,28,15,24,14,45,3,105,5,40,71,57,5,2,23,13,1,63,16,7,31,1,13,18,13,14,15,2,1,17,22,51,4,17,12,4,10,13,2,127,12,8,8,10,10,69,13,33,1,23,8,2,4,119,22,4,15,18,75,47,17,8,34,19,15,9,5,1,43,63,5,4,20,23,2,15,66,36,20,20,33,87,55,97,34,16,82,23,50,15,25,33,2,18,4,5,7,65,31,6,3,24,91,38,29,36,40,50,5,59,54,4,65,44,4,66,48,62,42,51,34,19,53,21,22,113,9,1,19,23,30,14,51,18,19,11,20,52,51,20,21,40,3,135,72,33,12,12,3,35,72,37,155,2,66,16,46,38,20,122,2,63,31,1,27,3,1,72,252,48,216,92,120,44,24,52,30,211,86,17,37,20,458,21,405,1,140,113,78,25,67,175,15,17,7,3,14,122,131,537,134,278,166,110,81,30,3,5,5,62,112,120,33,108,110,38,152,14,51,23,65,25,1,3,29,3,16,312,347,29,82,197,11
 Rathoar Parsand	14797
 Rathäuser	1533,687
 Ratifi	15380
 Ratificación	17089
-Ratificar	4146
+Ratificar	4146,14605
 Ratification	240,2385,2900,3278,4508,12,3,4,4,53,571,115,65,595,9,9,487,730,207,539,170,861,97,59,33,36,321
 Ratification Report	14671
 Ratification Status for Guinea-Bissau	11765
@@ -1273,7 +1292,8 @@ Ratification of Framework Agreement of ISA	16256
 Ratification of International Legal Instruments	13212
 Ratification of Ultra Vires Acts	3714
 Ratification of Zambia's Membership	13387
-Ratificação	11374,527
+Ratificação	11374,527,6850
+Ratificação da CAE	18794
 Ratified	1243,2618
 Ratified ECOWAS Supplementary Act	10908
 Ratified International Treaties	3861
@@ -1288,7 +1308,7 @@ Ratifying	16847,898
 Ratifying the AU	16884
 Ratifying the Convention	7102
 Ratifying the Malabo	969
-Rating	5247,1332,342,7,949,2993,261,3,721,39,30,47,17,240,39,173,120,467,31,862,212,741,107,51,128,265,239,72,2,21,201,24,30,66,821,94,6,79,17,3,161,210,35,344,109,4,44,127,217,4,1,118
+Rating	5247,1332,342,7,949,2993,261,3,721,39,30,47,17,240,39,173,120,467,31,862,212,741,107,51,128,265,239,72,2,21,201,24,30,66,821,94,6,79,17,3,161,210,35,344,109,4,44,127,217,4,1,118,336,8
 Rating Act.16	12369
 Rating Class EGDI Rank LOSI Rank	10840
 Rating Dimension Relevance of Objectives Efficacy	16436
@@ -1376,7 +1396,7 @@ Rationale for Change	15138
 Rationale for Change IRI	11417
 Rationale for Change Indicator	15138
 Rationale for Changes	15731,2118,113
-Rationale for Changes and Their Implication	11924,3677,2261
+Rationale for Changes and Their Implication	11924,3677,2261,903,60
 Rationale for Developing the NFIR	15130
 Rationale for Developing the NFIR Financial	15130
 Rationale for Digital Pharmacy Services	9855
@@ -1471,7 +1491,7 @@ Resilience Rating System. The Authority	6946
 Resilience. Phase One Implementation Rates H.E	16049
 Response Rate	17165
 Response Rate Out	18570
-Response Rate Overall	10862
+Response Rate Overall	10862,7976
 Response Rates	13454,613,1180
 Response Rates Household	18441
 Result Chain E. Rationale for World Bank	18293
@@ -1488,7 +1508,7 @@ Revised Rationale	1228
 Risk Assessment and Mitigation Risk Risk Rating	10829
 Risk Category Latest ISR Rating Current	1284,15612,26
 Risk Category Proposed Rating Political and Governance	11395
-Risk Category Rating	969,898,1737,2935,4229,61,135,416,37,108,35,1771,1,2079,210,40,977,1466,94,95,8
+Risk Category Rating	969,898,1737,2935,4229,61,135,416,37,108,35,1771,1,2079,210,40,977,1466,94,95,8,476
 Risk Category Rating Page	15743
 Risk Rating	11525
 Risk Rating Residual Risk Rating Risk	15518
@@ -1539,9 +1559,11 @@ STRUCTURES RATTACHEES AU PR	15744
 STRUCTURES RATTACHEES AU PRESIDENT	15744,157
 STRUCTURES RATTACHEES AU Pour	15901
 SUICIDE MORTALITY RATE	16892
-SYSTEMATIC OPERATIONS RISK- RATING TOOL	1264,603,1737,2935,4229,649,143,4098,3,82,2455
-SYSTEMATIC OPERATIONS RISK-RATING TOOL Rating	2712,1976,6707,6509,630
+SYSTEMATIC OPERATIONS RISK- RATING TOOL	1264,603,1737,2935,4229,649,143,4098,3,82,2455,611
+SYSTEMATIC OPERATIONS RISK-RATING TOOL Rating	2712,1976,6707,6509,630,258
 Sale Price Flat Rate	9409
+Sao Tome and Principe Safety Rating	18864
+Satisfactory C.2 Detailed Ratings of Bank and Borrower	18754
 Satisfactory Moderately Satisfactory Overall Risk Rating	17505
 Satisfactory Overall Risk Rating	4688,3189,2993,2188,1922,2116,374,663
 Satisfactory RATINGS OF PROJECT PERFORMANCE	15424
@@ -1666,6 +1688,7 @@ Textbook Ratio SQARM School Quality Assurance	18460
 Theory of Change E. Rationale for Bank Involvement	16949
 Theory of Change E. Rationale for World Bank	1264,14289,108
 Tokyo Overnight Average Rate	13185,3034
+Tome and Principe The Financial Inclusion Rate	18770
 Top Combined Rates and Productivity	10997
 Trade Finance Approval and Rejection Rates	10718
 Trade Finance Approval and Rejection Rates Banks	10718

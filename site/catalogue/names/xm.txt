@@ -13,6 +13,7 @@ Données XML	1984
 Ensure XML	12360
 Especificacao Tecnica Gerador Ficheiro XML XSD.pdf	12018
 Especificação Técnica Gerador XML V07.pdf DPR	12018
+Especificações de Gerenciamento de Chave XML	18774
 Estrutura XML	12018
 Format XML	14483
 IEC Secure XML	12360
@@ -26,11 +27,13 @@ Metadata Data Cite XML RDF	10878
 Normalise structure XML Require	8606
 Normalised XML	8606
 Normalised XML3Normalised XML2Normalised XML1 Extraction	8606
+O Cifração XML Sintaxe	18774
 O XML	12018
 OASIS XML Common Biometric	12360
 OpenURL ContextObject RIOXX2 XML METS Dublin	10878
 Patient Patient Administration XML V1	1009
 Pre-Treatment Heterogeneous XML Input	8606
+Processamento de Cifração XML	18774
 RFC2616 W3C XML	1009
 RFC2616 XML V1	1009
 RS XDS-1.b XDS XML V1	1009
@@ -43,7 +46,7 @@ Standardised XML Phase	8606
 Statistics South Africa. The XMUVI	11258
 Unité de Gouvernance Digitale XML	14438
 Use XML Metadata Interchange	12360
-W3C XML	1009
+W3C XML	1009,17765
 WAF Web Application Firewall XML	6432
 WSDL and XML Schema	12360
 WTO World Trade Organization XML Extensible	13042
@@ -136,9 +139,12 @@ XML Output	8606
 XML Registry	1009
 XML Registry Document Reliable Interchange	1009
 XML Registry Services Specifications	1009
+XML SAML	18774
 XML Schema	1009
 XML Schema for Data Interoperability	12360
 XML Signature XML DSIGW3C W3C XML	12360
+XML Sintaxe	18774
+XML Transformação	18774
 XML V1	1009
 XML Variable XML	12360
 XML XSD actualizado.pdf Gerador XML XSD Modelo	12018
@@ -157,6 +163,7 @@ XMLdataintorelationaldatabase	8606
 XMLdatasupportinguserpersonalization. IEEE Access	8606
 XMLdocuments	8606
 XMLdocumentsfromdi-	8606
+XMLenc	18774
 XMLfile	8606
 XMLfile. Ethicalconsider-	8606
 XMLfileandallpatientsacrossthe	8606
@@ -179,6 +186,7 @@ XMLnormalisation	8606
 XMLoutput.Theremainderofthispaperisorganisedasfollows. Sec-	8606
 XMLremainswidelyusedasamedium	8606
 XMLschema	8606
+XMLsig	18774
 XMLsources	8606
 XMLsourcesintoaunifiedandconsistentdatabase	8606
 XMLsourcesoriginatingfromseveralinstitutions. Somefilesdonot	8606

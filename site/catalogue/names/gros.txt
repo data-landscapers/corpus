@@ -22,6 +22,7 @@ C. Financial InfrastructureReal Time Gross Credit	14897
 CFC Gross	16996
 Capital Formation GNI Gross National Income	16996
 Cedi GDP Gross Domestic Product GSMA	14674
+Central Africa. Gross National Income	18825
 Challenge Program GIZ Gross Domestic Product	3604
 Commission GNI Gross National Income GOSL	18537
 Community Real-Time Gross Settlement	11960
@@ -45,7 +46,7 @@ Development Strategy GDP Gross Domestic Product	14997
 Directorate of Energy Resources GDP Gross Domestic	15515
 Disaggregation of Gross Value Added	236
 Domestic Product GFCF Gross Fixed Capital	2775
-Domestic Product GNI Gross National Income	11271
+Domestic Product GNI Gross National Income	11271,7554
 Domestic Product Government of Lesotho Gross National	12701
 DÉCEMBRE DES GROS D’ABIDJAN	2342
 EAC Gross Domestic Product Green House	12256
@@ -138,7 +139,7 @@ GT HC Foreign Exchange Gross Domestic	11134
 GWP Gross Written Premium HHI Herfindahl-Hirschman	14997
 GenAI Generative AI GDP Gross Domestic	1814
 Gender Based Violence GDP Gross Domestic	970,12362
-Gender-Based Violence GDP Gross Domestic Product	16896
+Gender-Based Violence GDP Gross Domestic Product	16896,1881,32
 Gender-Based Violence Gross Domestic Product Geo-Enabling	15658
 Gender-Based Violence Gross Domestic Product Government	1228
 General Government Gross Debt	14777,827
@@ -158,7 +159,7 @@ Gros Petits Volaille	737
 Grosh	15601
 Grosjean J	14666
 Grosman	7966
-Gross	236,1881,595,63,2472,2301,215,82,1890,247,2,233,28,162,358,10,54,27,113,35,127,3,2,62,73,253,360,1,10,10,50,9,195,1,45,146,4,9,12,7,13,17,18,56,435,946,876,3,68,81,101,208,206,102,91,30,802,440,26,25,69,15,127,97,15,7,404,119,129,81
+Gross	236,1881,595,63,2472,2301,215,82,1890,247,2,233,28,162,358,10,54,27,113,35,127,3,2,62,73,253,360,1,10,10,50,9,195,1,45,146,4,9,12,7,13,17,18,56,435,946,876,3,68,81,101,208,206,102,91,30,802,440,26,25,69,15,127,97,15,7,404,119,129,81,833,28
 Gross Amount Accumulated	11955
 Gross Amount Impairment	11955
 Gross Annual N	10407
@@ -177,7 +178,7 @@ Gross Completion Rate	18460
 Gross Disorderly Conduct A Member	13387
 Gross Domestic	2775
 Gross Domestic Expenditure	2775,9601
-Gross Domestic Product	236,337,367,423,625,787,641,167,279,1587,876,122,27,65,339,68,746,1343,119,98,617,935,52,124,154,35,26,33,308,13,457,241,9,100,29,10,31,27,98,69,319,23,91,58,184,17,2,31,73,642,41,484,160,2,150,68,546,7,35,68,38,4,68,12,39,147,54,869,6,18,10,56,10,40,4,15,205,12,61,169,287,431,9,290,8,5
+Gross Domestic Product	236,337,367,423,625,787,641,167,279,1587,876,122,27,65,339,68,746,1343,119,98,617,935,52,124,154,35,26,33,308,13,457,241,9,100,29,10,31,27,98,69,319,23,91,58,184,17,2,31,73,642,41,484,160,2,150,68,546,7,35,68,38,4,68,12,39,147,54,869,6,18,10,56,10,40,4,15,205,12,61,169,287,431,9,290,8,5,321
 Gross Domestic Product ECR Electronic Cash	18488
 Gross Domestic Product Financial and Insurance Activities	2775
 Gross Domestic Product GDP	2775
@@ -185,6 +186,7 @@ Gross Domestic Product GDPR	5244
 Gross Domestic Product GDPR General Data	969,274
 Gross Domestic Product GEA	12175
 Gross Domestic Product GEMS Geo-Enabling	11560
+Gross Domestic Product GER Gross Enrollment	18765
 Gross Domestic Product GER Gross Enrolment	15604
 Gross Domestic Product GFCF Gross Fixed	16996
 Gross Domestic Product GFPA	16951
@@ -268,6 +270,7 @@ Gross Sectoral Value Added	13624
 Gross Services	10407
 Gross Settlement	12364
 Gross Settlement SAP System Application Product	13420
+Gross Settlement SCI Statistical Capacity Index	18825
 Gross Settlement Southern African Customs Union	11134
 Gross Settlement The Settlement	12364
 Gross Sexual Imposition	16935
@@ -303,6 +306,7 @@ Inclusive Development Grievance Redress Mechanism Gross	15553
 Increased Gross	16436
 Increasing Gross Domestic Expenditure	12175
 Indicator Dec-24r Dec-25 Gross Assets	17235
+Indicator GDP Gross Domestic Product SDR	18851
 Infrastructure Gross	16996
 Initiative GER Gross Enrollment Rate GHG	15661
 Instant Gross Settlement	16907
@@ -324,6 +328,7 @@ Maladie Grossesse Mariage Refus	18014
 Management GDP Gross Domestic Product GERME	18104
 Management GDP Gross Domestic Product GoM	17862
 Markets and Developing Economies GDP Gross Domestic	17011
+Memorandum Item Gross Domestic Product Millions	18823
 Memorandum Items Gross International Reserves	17235
 Monthly Gross National Income	11262
 Months Gross	11131
@@ -402,6 +407,7 @@ SYGMA Automated Gross Amount System	969
 SYGMA Système de Gros Montants Automatisé SWIFT	11960
 SYGMA- Système de Gros Montants Automatisé	969
 Secondary Gross Enrollment Ratio	14897
+Sector Development Implementation Plan GDP Gross	18825
 Sector Gross Exposure	11469
 Security Office GDP Gross Domestic Product	17849
 Service Gross Compensation of Consumption of Fixed Taxes	236
@@ -438,6 +444,7 @@ Violence GDP Gross Domestic Product GHG	1264
 Violence GDP Gross Domestic Product GMD	16952
 Violence GDP Gross Domestic Product GRF	1867
 Work Gross Fixed Changes	236
+Year GDP Gross Domestic Product GEEDR	18754
 Year Gross	236
 Year Gross Amount Accumulated	11955
 Zambia’s Gross Domestic Product	13332

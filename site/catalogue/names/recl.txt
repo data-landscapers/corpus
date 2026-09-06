@@ -35,6 +35,8 @@ Livro de Reclamações Livro de Reclamações	9040
 MECANISMO DE GESTÃO DE RECLAMAÇÕES	11406
 MECANISMO DE RECLAMAÇÕES SENSÍVEL A EAS	11413
 MECANISMO DE RESOLUÇÃO DE RECLAMAÇÕES	11390
+Mecanismo De Resolução de Reclamação	18789
+Mecanismo De Resolução de Reclamação Emails	18789
 Mecanismo de Gestão de Reclamações	11406
 Mecanismo de Reclamações	11413
 Mecanismo de Resolução de Reclamação	11390
@@ -63,9 +65,13 @@ Reclamar	11901,3487
 Reclamation Date	14659
 Reclamation of Mined-out Areas	16511
 Reclamação	2866,1408,6481,670,5,471,3653,474
-Reclamações	539,10829,38,19,11,2,90,14,1236,2618,1183
+Reclamação Geral AFAP	18789
+Reclamações	539,10829,38,19,11,2,90,14,1236,2618,1183,2210
 Reclamações ARTIGO	539
+Reclamações Canais de Informação	18789
 Reclamações N	11413
+Reclamações Queridos	18803,23
+Reclamações Vera	18789
 Reclamações de Utilizadores	11520
 Reclassification	13053
 Reclassification Asessement	5665
@@ -77,6 +83,7 @@ Reclusos	4209
 Reclutadas	16898
 Registo de Imóveis Mecanismos de Reclamação	11898
 Regulamento de Tratamento de Reclamações	5169
+SUGESTÕES E RECLAMAÇÕES	18832,1,1,1
 South Africa Reclaims Momentum	4722
 TRAITEMENT DES RECLAMATIONS ET RECOURS DES	15482
 TRAITEMENT DES RECLAMATIONS PAR LES ETABLISSEMENTS	18292

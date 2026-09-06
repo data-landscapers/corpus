@@ -58,6 +58,7 @@ Average Treatment	12978
 Average Treatment Effect	12978
 B Treasury Bills Interest EGP	5869
 BESOINS DE FINANCEMENT ET DE TRESORERIE	15999
+Beijing Treaty	18797
 Ben Treynor Sloss	3782
 Beninese Treasury	7871
 Better Outcomes and Results UNESCO Treasury Single	11905
@@ -304,8 +305,9 @@ International Treaty Obligations and Commitments	3861
 International and Regional Treaties and Declarations	11860
 Investment Treaties	11310
 Investment Treaty News	11310
-Investment and Taxation Treaties	16972
+Investment and Taxation Treaties	16972,1825
 Investment and Taxation Treaties Equatorial Guinea	16972
+Investment and Taxation Treaties São Tomé and Príncipe	18797
 Invitation To Treaty	1222
 Irregular Treasury Tax Undertakings Review	14546
 Isabelle Tresson	4722
@@ -376,7 +378,7 @@ Mapping Trends	13313
 Market Share Trend	15136
 Market Share Trends of Active Mobile Money	15136
 Market Trend Analysis	15120
-Marrakesh Treaty	10358,1577,4075,1286,1009
+Marrakesh Treaty	10358,1577,4075,1286,1009,492
 Marrakesh Treaty Ratification	11935
 Marrakesh Treaty Signing	11935
 Marrakesh Treaty The Republic of Niger	10358
@@ -429,7 +431,7 @@ National Public Treasuries	10853
 National SMS Traffic Trends	15136
 National Treasuries	10022
 National Treasuries and BEAC National Directorates. About	10022
-National Treasury	396,893,457,88,4,322,147,307,128,201,72,249,240,110,100,27,148,744,160,31,36,463,210,3,1,256,129,211,18,1,114,166,156,358,112,38,44,40,320,14,18,16,59,103,124,76,108,26,520,35,1,103,61,15,4,57,106,3,56,1,121,112,128,309,111,152,104,59,20,7,184,496,197,164,23,5,16,4,2,2,2,1,5,6,1,3,4,4,2,2,9,16,1,2,5,4,175,196,15,265,46,11,4,207,113,43,1829,29,48,105,25,10,12,27,29,15,28,25,48,5,65,215,1972,696,52,140,131
+National Treasury	396,893,457,88,4,322,147,307,128,201,72,249,240,110,100,27,148,744,160,31,36,463,210,3,1,256,129,211,18,1,114,166,156,358,112,38,44,40,320,14,18,16,59,103,124,76,108,26,520,35,1,103,61,15,4,57,106,3,56,1,121,112,128,309,111,152,104,59,20,7,184,496,197,164,23,5,16,4,2,2,2,1,5,6,1,3,4,4,2,2,9,16,1,2,5,4,175,196,15,265,46,11,4,207,113,43,1829,29,48,105,25,10,12,27,29,15,28,25,48,5,65,215,1972,696,52,140,131,955
 National Treasury AI	7548
 National Treasury Date	4633
 National Treasury Director-General	3741,7484
@@ -531,7 +533,7 @@ Pan-African Survey and Noted Trends. Journal	1243
 Pandemic Treaty	7187
 Parliament and The National Treasury	14546
 Participation and Rights. Trend Measure Score	10835
-Patent Cooperation Treaty	11550,611,513,1311,2987
+Patent Cooperation Treaty	11550,611,513,1311,2987,1825
 Payment for Treatment	15977
 Pensions Department of The National Treasury	14546
 People On Antiretroviral Treatment	4153,49,15,132,1003
@@ -773,7 +775,7 @@ Treasurer's REPORT	9437
 Treasurers Report	9437
 Treasuries	10922
 Treasurv	11180
-Treasury	648,104,217,185,118,12,121,149,22,207,1,5,1,1,1,3,2,13,18,6,473,121,244,70,187,86,186,7,2,117,256,31,100,86,327,401,105,9,13,138,67,334,14,195,130,260,76,53,487,476,197,3,4,1,47,153,258,605,330,102,118,76,61,165,234,128,92,86,359,115,103,96,575,16,20,16,137,3,246,164,460,45,5,4,31,15,31,15,253,246,12,2,376,61,5,49,48,27,42,1,2,2,187,4,13,1,11,77,113,152,183,317,8,29,48,140,12,124,53,2,41,188,17,41,9,581,88,186,149,76,55,810,100,16,143,3,105,26,22,59,1,9,95,37,45,367,630,76,1
+Treasury	648,104,217,185,118,12,121,149,22,207,1,5,1,1,1,3,2,13,18,6,473,121,244,70,187,86,186,7,2,117,256,31,100,86,327,401,105,9,13,138,67,334,14,195,130,260,76,53,487,476,197,3,4,1,47,153,258,605,330,102,118,76,61,165,234,128,92,86,359,115,103,96,575,16,20,16,137,3,246,164,460,45,5,4,31,15,31,15,253,246,12,2,376,61,5,49,48,27,42,1,2,2,187,4,13,1,11,77,113,152,183,317,8,29,48,140,12,124,53,2,41,188,17,41,9,581,88,186,149,76,55,810,100,16,143,3,105,26,22,59,1,9,95,37,45,367,630,76,1,215,31,2,26
 Treasury AU African Union OECD Organisation	11193
 Treasury Account	14891
 Treasury Accounting System	16885
@@ -803,7 +805,8 @@ Treasury Circular No	13420
 Treasury Circular Number	13420
 Treasury Compute	7548
 Treasury Corporate and Business Registration Department	14830
-Treasury Department	11130,1842,4,1,65,11,961
+Treasury Department	11130,1842,4,1,65,11,961,4783
+Treasury Directorate	18825
 Treasury Directory	13331
 Treasury Fifth Flr	12322
 Treasury Flow	11855
@@ -813,7 +816,7 @@ Treasury Infrastructure Guidelines	7548
 Treasury Instruction	13420
 Treasury Instructions	9437,3983
 Treasury MINISTRY OF FINANCE AND NATIONAL	13343
-Treasury Management	2527,4756,9952,1341
+Treasury Management	2527,4756,9952,1341,249
 Treasury Management System	2527
 Treasury Management and Financial Assets	11231
 Treasury Management and Global Markets	11131,3
@@ -887,7 +890,7 @@ Treating Broadband	16884
 Treating DPI	4424,6582
 Treating Senior Secondary Education	18461
 Treating.ng	4690
-Treatment	1988,2165,49,15,43,41,48,1003,5896,337,421,624,124,720,1373,246,154,423,55,1111,7,128,130
+Treatment	1988,2165,49,15,43,41,48,1003,5896,337,421,624,124,720,1373,246,154,423,55,1111,7,128,130,1675
 Treatment Adherence Using	10784
 Treatment Antiretroviral Biosafety Cabinet Biosafety Level	4153
 Treatment Baseline	4202
@@ -1097,9 +1100,12 @@ Trevor Koverko	8510
 Trevor Manuel	562,9406
 Trevor Saaka	3726
 Trevor Vieweg	7303,828
-Treze	10777
+Treze	10777,7984
+Treze Mil	18798
+Trezentas	18798
 Trezor and Ledger	12882
 Tropical Tree Cover	16359
+Três Mil Trezentos	18798
 Título de Residência de Estrangeiros TRE	4415,1,1,1
 U.S. Ambassador Pamela Tremont	5163
 U.S. Treasuries	14135
@@ -1134,8 +1140,9 @@ Violence NATTIC Nhlangano AIDS Testing Treatment	12939
 Vision. Treasury	395
 VoIP Voice Traffic Trend	3862
 WHAT'S TRENDING	13532
-WIPO Copyright Treaty	13985
+WIPO Copyright Treaty	13985,4812
 WIPO Performances and Phonograms Treaty	13985
+WIPO Performances and Phonograms Treaty. Enforcement	18797
 WIPO-Administered Treaties	11935
 Wastewater Treatment Plant	14830
 Watch Monitor Trends Visualization	17157

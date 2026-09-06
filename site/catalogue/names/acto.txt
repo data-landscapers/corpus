@@ -21,12 +21,14 @@ Actor-network	7966
 Actores	1701,3962
 Actors	6423,9,2202,982,865,248,90,231,1494,1452,2401
 Actors Interest Index	12210
-Actos	167,11266,16,133,3776,38
+Actos	167,11266,16,133,3776,38,3365,18,17,37,2
 Actos Administrativos da Protecção Social Obrigatória	11433
 Actos Complementares	4274
 Actos Jurídicos	4209
 Actos Jurídicos Electrónicos	11360
 Actos Jurídicos Envolvendo Alterações	11384
+Actos Normativos	18751
+Actos Normativos Artigo	18751
 Actos Notariais	12169
 Actos Praticados	11363
 Actos TCA Tribunal de Contas de Angola Rua	11473
@@ -45,6 +47,7 @@ CAPÍTULO I Actos	15396
 CAPÍTULO II Actos	15396
 CAPÍTULO III FISCALIZAÇÃO DOS ACTOS	11528
 CAPÍTULO VI DO ACTO	11461
+CLIQUE AQUI Averbamentos Indeterminado Actos	18835
 Challenges for International Humanitarian Actors	6947
 Civil Society Actors	17771
 Defining Actors	12139

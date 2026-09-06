@@ -8,7 +8,8 @@ A. PROJECT DEVELOPMENT OBJECTIVE	11863,2075
 A. Project	11549,3823
 A. Project Background	14456
 A. Project Components	11525,3886
-A. Project Development Objective	969,295,603,1737,2935,4229,61,551,180,295,1476,1,1578,27,554,24,3,35,68,38,2,82,401,240,565,1155,94,95,8
+A. Project Components and Costs	18809
+A. Project Development Objective	969,295,603,1737,2935,4229,61,551,180,295,1476,1,1578,27,554,24,3,35,68,38,2,82,401,240,565,1155,94,95,8,476
 A. Project Development Objective PDO Statement	10829,6120
 A. Project Oversight and Coordination	16975
 A. Project Strategic Context	15743,401,240
@@ -34,6 +35,7 @@ ADOPTION PAR LE SÉNAT DU PROJET	15375,34,19,36,69,64,84,22,75,242
 ADR Operationalization Project	15187
 AF for Digital Cabo Verde Project	11965
 AF2 AF2 Parent Project AF1 AF1	16922
+AFAP Project Fiduciary and Administrative Agency BCR	18809
 AFFAIRES DROIT MONETAIRE FINANCES PROJETS EGYPT	10996
 AFFECTER LES TRAVAILLEURS DU PROJET	14424
 AFFORDABLE HOUSING FINANCE PROJECT	14546
@@ -75,6 +77,7 @@ ANNEX IV. ONGOING PROJECTS FINANCED	12680
 ANNEXE III Projets	16037
 ANNUAL REPORT Project Title	1154
 AOSP Project	5246
+APL2 Project ID	18754
 APOIE ESTE PROJETO	11538
 APPRAISAL REPORT ERITREA ENERGY INTEGRATED PROJECT	14080
 ARCT Project Steering Committee	1284
@@ -120,6 +123,7 @@ Accountable Governance for Basic Service Delivery Project	18500
 Accounts Committee PDO Project Development Objective	18488
 Accès Universel Conteneurisés Projet	18079
 Achievement of Project Development Objective	12980
+Achievement of Project Development Objectives	18754
 Achievements Project Results Indicator Appraisal Additional	15663
 Achievements Project Results Indicator Baseline Target	15663
 Achèvement du Projet	2342
@@ -158,6 +162,8 @@ Administration Modernization Project	13861
 Administration Projet Régional	17902
 Administration Projet de Gouvernance Digitale	14423,1,1
 Administrative Data Project	16935
+Administração de Projectos	18796
+Administração de Projetos	18765
 Adultes Projet	18286
 Advanced AI UpSkilling Project	4109
 Advancing Strategic Mineral Investment Projects	13060
@@ -178,6 +184,7 @@ Africa Cyber Project Manager	11299
 Africa Mini Grids Project	12969
 Africa PDO Components Project Board Approval	15411
 Africa Project	11863
+Africa Project Name	18754
 Africa Region Project Development Objective	13722
 Africa Regional Digital Integration Project	15164,3580
 Africa School of Project Management	7167
@@ -203,6 +210,11 @@ Agriculture PADEC Projet	18286
 Agriculture Project	3604
 Agriculture Sénégalaise PRAPS Projet	18286
 Agriculture and Rural Projet	10985
+Agência Fiduciária de Administraçao de Projecto	18754
+Agência Fiduciária de Administração de Projecto	18754
+Agência Fiduciária de Administração de Projectos	18777
+Agência Fiduciária de Administração de Projetos	18789
+Agência Fiduciária de Administração de Projetos Inovação	18789
 AidData Project	35,9531
 Air and Water Communities Project	1988
 Airport Modernisation Project	17228
@@ -221,6 +233,7 @@ Amilcar Cabral Cable Consortium of Liberia Project	17099
 Amilcar Cabral Submarine Cable Project	1264
 Amorçage de Projet Fonds Routier Partenariat Public	15542
 Amélioration des Performances PASBMIR Projet	16037
+Analysis Project Development Objectives	18754
 Analysis Security Dept of Prog Services Projects	16943
 Analysis. The Project	15411
 Analytics PBF Performance-Based Financing PDO Project	10829
@@ -295,7 +308,7 @@ B. Parent Project Design and Scope	16896,26
 B. Project	13897,1069
 B. Project Background	15969
 B. Project Beneficiaries	11525,3886
-B. Project Components	969,295,603,1737,2935,4229,61,135,416,169,11,295,533,943,1,1578,27,554,24,3,35,68,37,1,2,1288,1155,189,8
+B. Project Components	969,295,603,1737,2935,4229,61,135,416,169,11,295,533,943,1,1578,27,554,24,3,35,68,37,1,2,1288,1155,189,8,476
 B. Project Components Component	10768,4893,1288,1155
 B. Project Components Table	10829
 B. Project Cost and Financing	11525
@@ -449,7 +462,7 @@ C. Implementation of VACS Data Project	12977
 C. PROJECT COMPONENTS	11863,2075
 C. Parent Project Status and Results	13459
 C. Project	15758
-C. Project Beneficiaries	969,295,603,1737,2935,4229,61,135,416,37,132,11,295,1476,1,1578,581,24,3,35,68,37,1,2,82,401,240,565,1155,94,95,8
+C. Project Beneficiaries	969,295,603,1737,2935,4229,61,135,416,37,132,11,295,1476,1,1578,581,24,3,35,68,37,1,2,82,401,240,565,1155,94,95,8,476
 C. Project Components	11863,2075
 C. Project Cost and Financing	15411
 C. Project Financing and Beneficiaries	14937
@@ -682,6 +695,7 @@ Climate-Responsive Project Appraisal	17257
 Close the Project	14546
 Cloture du Projet de Preparation	14662
 Coastal Resilience Project SLMet Sierra Leone	18578
+Coastal Resilience and Sustainable Tourism Project	18809
 Coding Academy’s Project-Based Learning	8839
 Coega Green Ammonia Project. Local	11226
 Cohesion Project	3604
@@ -832,6 +846,7 @@ D The Network Access Support Project	182
 D. Concept Description The Project Development	15097
 D. Original Project Description and Performance	15983
 D. PROJECT COST AND FINANCING ARRANGEMENTS	11863,2075
+D. Parent Project Status and Results	18809
 D. Project Components	15743,401,240
 D. Project Components Component	15743
 D. Project Cost and Financing Arrangements	13938
@@ -891,11 +906,13 @@ DIGITAL ID SYSTEM PROJECT. The Government	16953
 DIGITAL MALAWI ACCELERATION PROJECT	12253
 DIGITAL MALAWI ACCELERATION PROJECT PROJECT NUMBER	3678
 DIGITAL MALAWI PROJECT DECIBELS COC	12253
+DIGITAL SÃO TOMÉ AND PRÍNCIPE PROJECT	18777
 DIGITAL ZAMBIA ACCELERATION PROJECT	2254,1308,6041,1
 DIGITALIZATION PROJECT MANAGEMENT	14921
 DISTRICT DEVELOPMENT MODEL Area of Project Name	11986
 DMAP Project Implementation Unit	14395
 DMAP Project Manager Chimwemwe Matemba	13114,3709
+DO MS IP MS Improve Project	18825
 DO PROJECTO Artigo	10783
 DOIS NOVOS PROJECTOS VÃO GARANTIR	1215
 DOTATIONS MISE EN PLACE DU PROJET	17861
@@ -1080,6 +1097,7 @@ Digital Rural Transformation Project World Bank	425
 Digital Skilling Project	10397
 Digital Superhighway Project	6946
 Digital Superhighway Project. The Authority	6946
+Digital São Tomé and Príncipe Project	18809,42
 Digital Tanzania Project	3366,2527,3256
 Digital Tanzania Project World Bank Group	754
 Digital Technology Park Project	44
@@ -1143,6 +1161,7 @@ Document de Projet	10492
 Document de Projets	15542
 Documentation and Project Management	11209
 Documentation of Project Results	16614
+Documentação Jurídica. Projecto de Licença	18753
 Documents de Projet	17846
 Dolel Admin Project	18305
 Dollars. Le Projet	16681
@@ -1296,6 +1315,7 @@ Educational Technical Cooperation Project	122,337
 Educational Technical Cooperation Project. China’s Ministry	122,337
 Effectiveness The Project Agreement	15138
 Effets du Projet	15901
+Efficiency and Expansion Project	18862
 Egypt Financial Services Project	15473
 Egypt Genome Project	15725
 Egypt Strengthening Social Safety Net Project	15663
@@ -1334,6 +1354,7 @@ Enable Service Delivery Project	6754,6368
 Energy Efficiency Project Phase II Air	14736
 Energy Projects	11310,1089
 Energy Scale-up and Access Project SME Small	11549
+Energy Targets and Indicators Partner Project Calendar	18795
 Engage- le Promoteur du Projet	15901
 Engineering Services Project Description Helios Towers	16776
 English AFRICAN DEVELOPMENT BANK GROUP PROJECT	14080
@@ -1343,6 +1364,7 @@ Entidade Promotora de Projecto	10783
 Entrepreneurship Support Project for Refugees	13938
 Entreprise ARECOR Projet	15670
 Entreprise GET SERVICE CONGO SARL Projet	15670
+Entry Project	18754
 Entrée le Promoteur du Projet	15901
 Enumerated UN Estimates Projected Estimated	16921
 Environmental Categorization The Project	18728
@@ -1403,6 +1425,7 @@ Executive Summary of Bid Evaluation Report Project	14802
 Executive and Project Management Support	11237
 Expand Malawi Digital Acceleration Project	14674
 Expanding Opportunities for Learning Project	13938
+Expansion Project	18862
 Expected PEF Projections Cumulative	16032
 Expected Project Impact	18293
 Expenditure Review POM Project Operational Manual	17441
@@ -1437,6 +1460,7 @@ FINANCIAL PROJECTIONS	1818
 FINANCING DEVELOPMENT OBJECTIVES AND COMPONENTS Project	13731
 FINANÇAS UNIDADE DE GESTÃO DE PROJETOS	16110,383
 FINDINGS Progress Towards Achieving Project Development	18635
+FIRST TA Project	18825
 FJ Project	10841
 FM Expansion Project	12552
 FM Manual for World Bank Investment Project	1867,11464
@@ -1455,6 +1479,7 @@ Farmer Profile Project The Farmer Profile	12223
 Farmer Visibility Project	8374
 Faso Digital Acceleration Project	15621
 Faso Digital Transformation Project	15550
+Fast Track Initiative Project Implementation Unit	18754
 Favilli Raffaele. Project	427
 Feb-2027 Projected Date for Full Disbursement	2473
 Feb-25 SN Project Name Request	14746
@@ -1464,6 +1489,8 @@ Feedback Response of Project Follow-up Timetable	1988
 Feliciana Mendonça Coordenadora Projeto Alerta Rápida	17147
 Female Frequency Annual Project	15661
 Fiches Projet	17860
+Fiduciary Agency for Project Administration	18754,71
+Fiduciary Agent for Project Administration	18825
 Filles PAPEJF Projet	18286
 Final Consolidated Project Report	15090
 Final Project Completion Report	14185
@@ -1496,6 +1523,7 @@ Financing Financing Total Project Cost	1284,15638
 Financing Instrument Investment Project Financing	4653,9385,916,1721
 Financing Instrument Investment Project Financing Revised	15601
 Financing Instrument No Investment Project Financing	11525
+Financing Instrument P178018 Investment Project Financing	18809
 Financing Instrument P179466 Investment Project Financing	14553
 Financing Investment Project Financing Total US	17906
 Financing Project Promoter	15901
@@ -1505,6 +1533,7 @@ Financing of Project Expenditures	14430
 Finanzierungsreife von Projekten	9062
 Finanças Project	8166
 Fiscal Governance Institutions Project	12013
+Fiscal and Educational Resources Project	18851
 Five Star Hotel Project Budget	12962
 Five Star Hotel Project The Five	12962
 Flagship Projects	958,11252
@@ -1541,7 +1570,7 @@ Funding Project	10784
 G Government Network Smart City Project	13132
 G Project	54
 G and Project	13331
-G. Ratings of Project Performance	16614
+G. Ratings of Project Performance	16614,2140
 G20 Base Erosion and Profit Shifting Project	14932
 G42. Project	3617
 GABON COVID-19 Strategic Preparedness and Response Project	15500
@@ -1626,7 +1655,7 @@ Gestion du Projet Cette	15746
 Gestion du Projet Revue	16012
 Gestion du Projet UNFPA Fonds des Nations Unies	16104
 Gestor de Projecto	11448
-Gestão de Projectos	8000,3390,50,1
+Gestão de Projectos	8000,3390,50,1,7384
 Gestão de Projectos de IA	2816
 Gestão de Projetos Informáticos	12019
 Ghana Digital Acceleration Project	3250,3027,2490,3100,4121,414
@@ -1638,6 +1667,7 @@ Ghana Trade Fair Redevelopment Project	1041
 Ghana Vocational Education and Training Upgrade Project	258
 Giga Project School Connectivity. Retrieved	899
 Giga's Project Connect	15253
+Girls Empowerment and Quality Education for All Project	18777,32
 GitHub Project Contributor	11922
 Given the Project	15138
 Global Challenge Project	11417
@@ -1783,6 +1813,7 @@ Higher Education Sector Project P164293	15550
 Highly Unsatisfactory. Project Mgmt Procurement FM	14010
 Highway Project	14546
 Hillacondji Road Capacity Expansion and Upgrading Project	18533
+Hiran Herat I. PROJECT CONTEXT	18825
 Historical Projected	13868
 Historical Projections Public	13868
 Home Solar Project	14742,3
@@ -1812,7 +1843,7 @@ I PROJETS EN COURS ET ENGAGES14	13433
 I'Administration du Projet	15406
 I'achèvement du Projet	15399
 I. DESCRIPTION COMPLÈTE DU PROJET	18118
-I. PROJECT CONTEXT AND DEVELOPMENT OBJECTIVES	11924,3500,87,90,62,39,29,228,31,446,516,897,13,100
+I. PROJECT CONTEXT AND DEVELOPMENT OBJECTIVES	11924,3500,87,90,62,39,29,228,31,446,516,897,13,100,803,60
 I. PROJECT DESCRIPTION	11855
 I. PROJECT DESCRIPTION A. Project Development	11855
 I. PROJECT STATUS AND RATIONALE	1228,1245,2180,9244,559,510,5,722,109,167,63,155,2172
@@ -1882,7 +1913,7 @@ II. PROJECT DATA AND RATINGS	12195
 II. PROJECT DATA AND RATINGS Project	18494
 II. PROJECT DATA AND RATINGS Table	13875
 II. PROJECT DATA Table	18635
-II. PROJECT DESCRIPTION	969,295,603,1737,2935,4229,61,551,169,11,1772,1605,554,24,3,35,68,38,2,82,401,240,565,1155,197
+II. PROJECT DESCRIPTION	969,295,603,1737,2935,4229,61,551,169,11,1772,1605,554,24,3,35,68,38,2,82,401,240,565,1155,197,476
 II. PROJECT DESCRIPTION A. Project Development	1264,603,1737,2935,4229,196,453,1914,1,2159,27,35,105,1,2,483,1960,197
 II. PROJECT DEVELOPMENT OBJECTIVES	11525,3886
 II. PROJECT DEVELOPMENT OBJECTIVES A. PDO	11525
@@ -1918,6 +1949,7 @@ INFORMATIONS RELATIVES AU PROJET	15901
 INFORMAÇÕES DO PROJETO Projeto Estudo de Viabilidade	11555
 INFRASTRUCTURE PROJECTS	5533
 INFRASTRUCTURE PROJECTS Table	11986
+ININTELIGIBILIDADE E INCOERÊNCIAS DO PROJETO	18784
 INITIATIVE Project Overview BI Zambia	13636
 INSPIRE-O Key Project Data Government Request	12980
 INTEGRATED COMMUNITY RESILIENCE PROJECT	13856
@@ -1926,11 +1958,13 @@ INTEREST FOR THE PROJECT REFERENCE	962
 INVESTMENT PROJECT FINANCING COMPONENT	11905
 IPEMBA Euphrème Projet SPISA	15580
 IPF Investment Project Financing	11965,2073
+IPF Investment Project Financing IP Implementation	18825
 IPF Investment Project Financing IPP Independent	11549
 IPF Investment Project Financing IPPs Independent	11380
 IPF Investment Project Financing IRI Intermediate	13861
 IPF Investment Project Financing IRR Internal	17458
 IPF Investment Project Financing ISP Implementation	11855
+IPF Investment Project Financing IT Information	18777
 IPP Baynes Hydro Project	12399
 IPP PV Projects	12399
 IPPIS Data Harmonization Project	7973
@@ -1947,11 +1981,12 @@ ITU-EC Project	26,1,1
 ITU-EC-ACP Project Assistant	26,1,1
 ITU-EC-ACP Project Manager	26,1,1
 IV. DESCRIPTION DU PROJET FAISANT OBJET	13635
-IV. PROJECT APPRAISAL SUMMARY	969,295,603,1737,2935,4229,612,37,132,11,1771,1,1578,27,554,27,35,68,37,1,2,82,641,565,1155,197
+IV. PROJECT APPRAISAL SUMMARY	969,295,603,1737,2935,4229,612,37,132,11,1771,1,1578,27,554,27,35,68,37,1,2,82,641,565,1155,197,476
 IV. PROJECT APPRAISAL SUMMARY A. Technical	1264,2340,2935,4229,196,2367,1,2221,105,1,2
 IV. PROJECT APPRAISAL SUMMARY Page	1867
 IV. PROJECTIONS FINANCIÈRES Présenter	10836
 IV. Project Appraisal Summary	13743
+Identification Number PIU Project Implementation Unit	18777
 Identification Observatoire du Service Public Projet	15936
 Identification of Projects	18445
 Identified Project FM Risks	13332
@@ -1969,7 +2004,7 @@ Implementation Arrangements and Project Support	14910
 Implementation Manual PIP Project Implementation Plan	18293
 Implementation Manual PIU Project Implementation Unit	1264,14395
 Implementation Status and Key Decisions Project	15159
-Implementation Status and Key Decisions The Project	13917
+Implementation Status and Key Decisions The Project	13917,4875
 Implementation Unit PDO Project Development Objective	11924
 Implementation Unit Post-Disaster Needs Assessment Project	1228
 Implementation of Key Projects	14985
@@ -2033,6 +2068,8 @@ Infrastructure and Local Development Project II	15411
 Inland Aquaculture Value Chain Development Project	18533
 Innovation Projects	18039
 Institucional-Consulta Pública- Projeto de Lei	11583
+Institutional Capacity Building Project	18777,15,33,26
+Institutional Capacity Building Project URL	18825
 Institutional Coordination and Project Management	1284,12047
 Institutional Coordination and Project Management Note	13331
 Institutional Strengthening Project	16949
@@ -2066,7 +2103,7 @@ Invavise Alien Species Project Officer Kamini	11332
 Investissements Projet Figure	10975
 Investment Project	1704
 Investment Project Finance Modality	16963
-Investment Project Financing	1774,517,421,850,1126,1891,175,79,95,949,74,215,1437,1,1175,596,20,130,330,50,60,6,17,232,8,39,121,24,14,14,284,108,148,47,351,14,131,211,8,1,44,6,63,3,38,13,6,1,3,50,45,23,418,97,357,27,11,18,5,5,4,37,14,66,62,322,120,18,39,1,34,9,2,27,4,2,45,20,122,30,15,21,23,19,47,65,149,105,240,16,51,231,13,14,31,6,79,17,18,344,446,54,175,65,152,4,1,118,31,30,91
+Investment Project Financing	1774,517,421,850,1126,1891,175,79,95,949,74,215,1437,1,1175,596,20,130,330,50,60,6,17,232,8,39,121,24,14,14,284,108,148,47,351,14,131,211,8,1,44,6,63,3,38,13,6,1,3,50,45,23,418,97,357,27,11,18,5,5,4,37,14,66,62,322,120,18,39,1,34,9,2,27,4,2,45,20,122,30,15,21,23,19,47,65,149,105,240,16,51,231,13,14,31,6,79,17,18,344,446,54,175,65,152,4,1,118,31,30,91,167,25,8
 Investment Project Financing Component	12176
 Investment Project Financing Current Closing	1228
 Investment Project Financing Environmental and Social Risk	15553
@@ -2354,13 +2391,14 @@ MAJOR COMPONENTS OF THE PROJECT	18543
 MALI'S JIGISÉMÉJIRI PROJECT	17906
 MANDRINDRARIVONY Ogascar Fenosoa PROJET DE LOI	14538
 MAREN's Projects and Partnerships Coordinator	13098
+MBITO DO PROJETO ERGUES O Projeto	18814
 MDAP Mozambique Digital Acceleration Project MEF	4214
 MDAs. The Project	18618
 MESRS Projets	15568
 MESURES GENERALES PROJETS DE LOI Au	16323
 MESURES GENERALES PROJETS D’ORDONNANCES	15757
 MFB MFPRA PCU Project Coordinator Component	15661
-MFD-Enabling Project	1264,440,163,424,182,983,106,42,1049,6115,649,143,345,521,685,904,561,378,704,3,308,63,112,43,467,21,1684
+MFD-Enabling Project	1264,440,163,424,182,983,106,42,1049,6115,649,143,345,521,685,904,561,378,704,3,308,63,112,43,467,21,1684,492
 MFD-e. II. PROJECT DESCRIPTION	16384
 MFIS Project's GRM	11855
 MFIS and Project	11855
@@ -2541,6 +2579,7 @@ Ministry of Finance and Development Planning. Project Name	12669
 Ministry of Finance's Program and Project Monitoring Unit	15990
 Ministry's Capital Projects	12982
 Ministry-level Project Steering Committees	14786
+Ministério da Educação. O Projeto ERGUESé	18814
 Mission Mode Projects	14965
 Mitete Grid Development Project	13413
 Mitigating Water Stress Project	18533
@@ -2560,7 +2599,7 @@ Model Projects	12606
 Model Projects Construction of Hospitals	12606
 Moderate Moderate Technical Design of Project	16638,1835
 Moderate Risk Project Works	13017
-Moderate Technical Design of Project	6928,3942,1118,2992,1916,26,78,96,374,434,102,127
+Moderate Technical Design of Project	6928,3942,1118,2992,1916,26,78,96,374,434,102,127,676,8
 Moderate-Risk Construction Project	12389
 Moderate. Project	14576
 Moderate. Technical Design of Project	11965
@@ -2623,8 +2662,11 @@ NIS Project Roll-Out	15430
 NIS Project. The Government	15430
 NISR’S Data Governance Project Lead	6088
 NOM DU PROJET UNESCO	15673
+NOTA DE IMPRENSA Projeto de Reforma	18804
 NOTE EXPLICATIVE SUR LE PROJET	15102
 NPV Net Present Value PAD Project	15511
+NPV Net Present Value PDO Project	18765
+NRD Cyber Security Projeto	18788
 NRGP Natural Resource Governance Project PDO	2889
 NSDS III Budget Projections	13359
 NTIC Project	343,18
@@ -2639,6 +2681,7 @@ Name Recurrent Due Date Frequency Project	17441
 Name of Project	9603,1
 Namibia E-Governance Capacity Building Project Starting	12354
 Nant Energy Project	18582
+Natasha De Andrade Falcao I. PROJECT	18765
 Nation Address PMO Project Management Office	11986
 National AI Projects	1204
 National Addressing Project and Infrastructure	12971
@@ -2791,14 +2834,15 @@ Nutrition and Health Results Project	16867
 Nutrition and Health Results Project M&E Monitoring	16867
 O INTRODUCTION ABOUT THE PROJECT	18487
 O PROJECTO Support WARDIP-F-002-2024	17219
-O Projecto	6595,4188,607
+O Projecto	6595,4188,607,7394
 O Projecto Conecta	11072
 O Projecto Conecta Angola	7240
 O Projecto de Aceleração Digital de Angola	8594,2857
 O Projecto de Aceleração Digital de Moçambique	9558
 O Projecto de Audiências Virtuais	10782
 O Projecto de Protecção Social	11406
-O Projeto	11901,4099
+O Projeto	11901,4099,2784
+O Projeto Ergues	18811
 O Projeto Ngola Digital	10614
 O Projeto PReSE	4711
 O Projeto SIMple	15922
@@ -2806,7 +2850,8 @@ O Projeto de Adaptação	16055
 O Projeto de Audiências Virtuais	10782
 O Projeto de Decreto	17312
 O Projeto de Desenvolvimento da Agricultura Comercial	10769
-O Projeto de Reforma	3530
+O Projeto de LCE	18784
+O Projeto de Reforma	3530,15277
 O&M Operations and Maintenance PASEL Projet	15969
 O2 ABOUT THE PROJECT ECOSYSTEM MAPPING	18487
 O6 DIRECTION TECHNIQUE SUIVI DES PROJETS	15670
@@ -2837,10 +2882,12 @@ Objectifs du Projet	15357
 Objective PIM Project Implementation Manual PIU	6539
 Objective PIM Project Implementation Manual PMU	1867
 Objective PIU Project Implementation Unit PSC	17099
+Objective PIU Project Implementation Unit PSE	18825
 Objective Project Development Objective	10768
 Objectives Flagship Projects Intermediate KPIs	12210
 Objectives Flagship Projects Intermediate KPIs Outcomes	12210
 Objectives Flagship Projects Intermediate Outcomes KPIs	12210
+Objectives PCU Project Coordination Unit PPA	18754
 Objectives The Project Development Objective	10779,4109
 Objectives of Project Grievance Mechanism	17114
 Objectives of Project Grievance Redressal Mechanism	17099
@@ -2886,7 +2933,7 @@ Organized Crime and Corruption Reporting Project	13537,1764
 Original M&E Design. The Project's RF	16436
 Original Project	14971,3523
 Original Project Amount US	14010
-Original Project Development Objectives	15663,951
+Original Project Development Objectives	15663,951,2140
 Os Projectos	10783
 Os Projectos Novos	10783
 Os Projectos de Estudos de Investimento Público	10783
@@ -2920,10 +2967,12 @@ P509258 Contingent Emergency Moderate Response Project	18198
 PA Paris Alignment PDO Project	10768
 PA Project Account PAGDS Enhancing Government	3604
 PACAD. The Project Implementation Support Unit	15658
+PAD Project Appraisal Document PAFA	18825
 PAD Project Appraisal Document PANA National	17962
 PAD Project Appraisal Document PAP Project	16926
 PAD Project Appraisal Document PCN Project	17114
 PAD Project Appraisal Document PFM Public	15411
+PAD Project PPP	18754
 PAD4675 INTERNATIONAL DEVELOPMENT ASSOCIATION PROJECT PAPER	16896
 PAD5486 INTERNATIONAL DEVELOPMENT ASSOCIATION PROJECT PAPER	16922
 PAD5527 INTERNATIONAL DEVELOPMENT ASSOCIATION PROJECT PAPER	1284
@@ -2941,7 +2990,7 @@ PASE Safo Projet	18103
 PBC and Project Expenditure Composition Project	15659
 PBF Performance-based Financing PCU Project Coordination	11560
 PCA Principal Component Analysis PDO Project	18104
-PCM Private Capital Mobilization PDO Project	11549
+PCM Private Capital Mobilization PDO Project	11549,7228
 PCR Project Completion Report PDMS-CV Public	11863
 PCU Project Administrative	16614
 PCU Project Coordination Unit PDISA Water	11380
@@ -2996,6 +3045,7 @@ PIDIA01635 BASIC INFORMATION A. Basic Project	13787
 PIDIAF0158 Project Information Document	14553
 PIDIAF0329 Project Information Document	12832
 PILOTAGE DU PROJET	17829
+PIM Project Implementation Manual PIN Personal	18777
 PIM Project Implementation Manual PIU Project	11924
 PIM Project Implementation Manual PMU Project	1988
 PIM Project Implementation Manual PPC Public	15518
@@ -3045,6 +3095,7 @@ PPA PPP Project Preparation Advance Public-Private	17862
 PPA Power Purchase Agreement PPA Project	17105
 PPA Project Preparation Advance PP Procurement	13331
 PPA Project Preparation Advance PPP Public	1264
+PPA Project Preparation Advance PPP Public-Private	18777
 PPA Project Preparation Advance PPSD Project	18293
 PPA Project Preparation Advance PURIC Emergency	15731
 PPM&ED and MSH-HSS Local Health Solutions Project	16971
@@ -3059,6 +3110,7 @@ PPSD Project Procurement Strategy for Development PRAMS	11560
 PPSD Project Procurement Strategy for Development PRODEL	11380
 PPSD Project Procurement Strategy for Development PROSPERE	15515
 PPSD Project Procurement Strategy for Development PrDO	6539
+PPSDC Projeto de Proteção Social Resposta	18789
 PRA Project Procurement Strategy for Development SBD	10964
 PRENANTES TOUCHEES PAR LE PROJET Collectivités	14425
 PRESENTATION DU PROJET DE LOI Ministère	1247
@@ -3082,7 +3134,7 @@ PROJECT Absence	15411
 PROJECT CATEGORISATION Environmental and Social Risk	11863
 PROJECT CFCS	12253
 PROJECT COMPLETION REPORT	15758
-PROJECT COST BY COMPONENT	15424,87,90,62,68,1221,897,13
+PROJECT COST BY COMPONENT	15424,87,90,62,68,1221,897,13,903,60
 PROJECT COST BY COMPONENT ANNEX	15511
 PROJECT COST BY COMPONENT Additional Actual	15663
 PROJECT COST BY COMPONENT Component	17962
@@ -3102,7 +3154,7 @@ PROJECT EVALUATION AND MONITORING Post-project	16963
 PROJECT FEASIBILITY	11863,2075
 PROJECT FEASIBILITY A. Financial and Economic Analysis	11863,2075
 PROJECT FINANCING	13966,2888
-PROJECT FINANCING DATA	1264,20,420,163,424,1165,106,42,7164,195,1,453,108,35,295,1256,220,1,455,228,561,334,27,39,537,37,3,105,3,483,510,21,247,1379
+PROJECT FINANCING DATA	1264,20,420,163,424,1165,106,42,7164,195,1,453,108,35,295,1256,220,1,455,228,561,334,27,39,537,37,3,105,3,483,510,21,247,1379,550
 PROJECT FINANCING PLAN IN UA Financing	15758
 PROJECT GRANT NO. AFD CKE	14546
 PROJECT GRIEVANCE REDRESS COMMITTEE PIU	12253
@@ -3156,11 +3208,13 @@ PROJECT US	15411
 PROJECTED DEMOGRAPHICS FOR CALENDAR YEAR	16971
 PROJECTED PROFITABILITY FOR THE BANK	1818
 PROJECTION	2021
-PROJECTO	10783,607
+PROJECTO	10783,607,7370
 PROJECTO DE ACELERAÇÃO DIGITAL DE ANGOLA	11413
+PROJECTO DE INVESTIMENTOS PÚBLICOS	18798,55
 PROJECTO DE LEI DAS TRANSACÇÕES ELECTRÓNICAS	11582
 PROJECTO DIGITAL CABO VERDE	11898,123
 PROJECTO DIGITAL CABO VERDE Av. Amílcar	16110
+PROJECTO DIGITAL de STP	18803
 PROJECTO Nº P178040	11390
 PROJECTO Projecto de Protecção Social	11406
 PROJECTS	12971,4,527,3464,1538
@@ -3229,7 +3283,9 @@ PROPOSITION DE PROJETS DE TEXTES L'ARE	15670
 PROjet de Gouvernance DIgitale	14488,1,1,8,51,15,14
 PROjet de Gouvernance Digitale	14502
 PRÉPARATION DES PROJETS DE TEXTES PROJET	15670
+PSC Project Steering Committee PRSP Poverty	18765
 PSC Project Steering Committee PSE Emerging	18293
+PSC Project Steering Committee PSWG Private	18777
 PSC Project Steering Committee PwD Person	3604
 PSC Project Steering Committee QoS Quality	13331
 PSC2 Project Team Members	15905
@@ -3240,6 +3296,7 @@ PSIP Project URL	17295
 PSSNYE Project	14226,4347
 PSSNYE Project URL	18573
 PSTAT Projet de Renforcement des Capacités	15580
+PTPC Projecto de Empoderamento de Raparigas	18789
 PUBLIC DEBT MANAGEMENT SUPPORT PROJECT	14546
 PUBLIC SERVICE DELIVERY PROJECT SHARED	12698
 PUBLICATION DOCUMENTS GRES DU PROJET PRODIGY	14589
@@ -3258,7 +3315,10 @@ Parent Project and UGPE	11965
 Parent Project. In Mauritania and Senegal	18374
 Parent Project. Use of Common Approach	18374
 Parent Project’s End Target	15511
+Parental Education Program PIU Project Implementation	18809
 Paris Alignment. The Project	11417
+Parity PPSD Project Procurement Strategy	18809
+Parity PRCI Institutional Capacity-Building Project PSC	18825
 Parliament Project	12962
 Parliament. A Project Compendium	18500
 Parlons Projet	9715
@@ -3314,6 +3374,7 @@ Plan de Gestion Environnementale du Projet PGES DATA	14488
 Planning and Execution of Projects	10157
 Planning and Project Management	13999
 Plus Project	10829
+Policies PDO Project Development Objective PEP	18809
 Policy Framework PIU Project Implementation Unit	18104
 Policy PBC Performance-based Condition PCU Project	15515
 Policy Project	13991
@@ -3362,6 +3423,7 @@ Private Partnership PPSD Project Procurement Strategy	1264
 Private Sector Competitiveness Project	2674
 Private Sector Electricity Generation Projects	13474
 ProCEED Mini-Grid Project Host	12399
+Problem Project	18754
 Procedure. B. Project	15802
 Procurement Decree PPSD Project Procurement Strategy	17458
 Procurement Performance. The Project	13392
@@ -3377,7 +3439,7 @@ Program. The Project's MIS	11855
 Programmes and Projects	13051
 Proje	10829
 Projec	1228,3425
-Project	22,33,1,3,1,5,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1,1,3,1,1,2,17,5,5,1,12,1,1,1,1,1,1,1,1,1,1,1,6,9,1,3,2,3,1,3,5,3,5,3,3,1,8,4,1,1,1,3,1,1,1,2,9,1,1,1,3,3,7,1,6,1,1,1,1,8,5,6,1,1,1,1,1,1,1,3,1,1,1,1,1,2,1,2,4,1,5,5,1,4,3,2,2,1,1,1,2,2,17,1,5,21,1,1,2,1,1,2,2,4,16,1,6,1,6,3,4,8,1,1,11,12,1,1,1,2,6,1,1,11,1,3,11,2,3,1,2,3,1,2,3,2,1,7,15,2,4,5,2,8,1,14,9,2,6,1,16,4,3,5,9,1,1,1,16,2,6,3,3,1,1,1,3,1,1,1,1,1,1,1,1,1,1,2,7,2,1,1,1,2,1,2,1,1,8,5,1,11,1,4,2,7,20,1,3,2,1,6,1,8,1,11,3,1,1,1,11,5,1,13,1,8,1,1,1,4,19,4,4,1,1,3,1,1,1,3,1,1,3,1,2,2,2,4,4,4,9,2,5,1,1,1,1,1,1,1,1,1,4,6,4,1,1,6,7,1,6,10,1,1,3,5,2,6,5,1,3,1,6,20,1,31,2,3,1,1,22,1,7,4,2,1,1,3,3,1,1,1,1,1,3,3,1,1,7,3,2,4,26,29,4,3,2,2,15,12,1,14,17,4,13,3,4,6,90,1,25,2,11,1,15,1,1,32,1,3,11,1,2,1,2,1,2,5,1,1,2,1,1,5,4,4,1,5,1,4,1,9,1,2,1,1,10,18,7,6,11,59,50,66,1,3,4,4,36,49,32,7,8,74,3,1,55,8,38,3,16,14,25,21,1,1,1,1,3,1,3,4,4,1,2,3,1,2,1,1,1,11,2,2,4,3,1,23,4,3,35,91,91,1,200,38,153,24,100,65,58,344,6,11,24,65,24,8,10,5,69,43,39,108,179,167,43,171,23,15,5,6,23,28,34,91,35,15,7,54,4,66,55,74,41,122,118,32,17,13,56,8,70,35,245,144,92,140,443,48,5,73,59,24,6,149,43,91,214,108,67,163,106,256,34,37,279,99,34,60,28,52,34,61,57,22,17,2,1,49,79,51,36,2,77,61,1,113,38,78,80,1,325,96,21,281,23,130,73,337,9,34,1,4,7,47,7,3,9,13,2,8,2,20,34,10,1,9,2,1,20,1,21,26,68,18,8,29,22,75,17,4,25,32,66,5,10,5,22,3,49,56,24,11,19,276,2,6,4,2,22,9,5,13,6,14,1,1,25,21,2,55,94,31,27,19,6,3,5,5,8,4,1,7,14,22,69,1,6,9,14,3,4,4,16,5,6,3,11,72,40,1,30,4,7,1,59,21,18,5,26,34,74,2,9,74,33,12,14,1,3,10,27,20,5,11,1,6,20,3,12,16,44,30,29,117,1,60,3,29,19,16,3,3,6,139,44,77,36,3,17,31,6,16,17,2,10,1,27,20,3,2,14,2,19,9,8,17,4,3,41,12,106,188,85,11,15,10,2,2,76,7,23,75,23,71,1,47,37,25,33,8,1,13,2,10,2,1,3,1,7,24,5,1,5,5,9,2,10,13,1,8,36,9,11,5,21,37,26,19,38,151,5,22,12,13,6,43,5,33,2,5,35,17,8,3,9,11,18,2,37,1,2,2,7,2,21,4,7,33,6,15,24,20,88,11,4,11,43,10,15,29,131,43,2,6,98,24,12,42,13,14,38,32,25,18,2,27,60,14,24,16,65,57,77,32,6,5,4,22,4,9,1,3,4,4,2,3,11,7,24,6,11,17,9,42,17,3,7,8,2,8,15,18,7,10,6,5,34,16,20,2,3,6,8,37,75,55,17,391,13,8,36,30,22,4,77,65,29,65,95,8,8,45,5,11,4,4,78,2,12,8,3,3,4,6,6,4,1,28,1,9,26,4,3,5,3,34,5,11,1,9,17,15,35,1,6,3,7,11,5
+Project	22,33,1,3,1,5,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1,1,3,1,1,2,17,5,5,1,12,1,1,1,1,1,1,1,1,1,1,1,6,9,1,3,2,3,1,3,5,3,5,3,3,1,8,4,1,1,1,3,1,1,1,2,9,1,1,1,3,3,7,1,6,1,1,1,1,8,5,6,1,1,1,1,1,1,1,3,1,1,1,1,1,2,1,2,4,1,5,5,1,4,3,2,2,1,1,1,2,2,17,1,5,21,1,1,2,1,1,2,2,4,16,1,6,1,6,3,4,8,1,1,11,12,1,1,1,2,6,1,1,11,1,3,11,2,3,1,2,3,1,2,3,2,1,7,15,2,4,5,2,8,1,14,9,2,6,1,16,4,3,5,9,1,1,1,16,2,6,3,3,1,1,1,3,1,1,1,1,1,1,1,1,1,1,2,7,2,1,1,1,2,1,2,1,1,8,5,1,11,1,4,2,7,20,1,3,2,1,6,1,8,1,11,3,1,1,1,11,5,1,13,1,8,1,1,1,4,19,4,4,1,1,3,1,1,1,3,1,1,3,1,2,2,2,4,4,4,9,2,5,1,1,1,1,1,1,1,1,1,4,6,4,1,1,6,7,1,6,10,1,1,3,5,2,6,5,1,3,1,6,20,1,31,2,3,1,1,22,1,7,4,2,1,1,3,3,1,1,1,1,1,3,3,1,1,7,3,2,4,26,29,4,3,2,2,15,12,1,14,17,4,13,3,4,6,90,1,25,2,11,1,15,1,1,32,1,3,11,1,2,1,2,1,2,5,1,1,2,1,1,5,4,4,1,5,1,4,1,9,1,2,1,1,10,18,7,6,11,59,50,66,1,3,4,4,36,49,32,7,8,74,3,1,55,8,38,3,16,14,25,21,1,1,1,1,3,1,3,4,4,1,2,3,1,2,1,1,1,11,2,2,4,3,1,23,4,3,35,91,91,1,200,38,153,24,100,65,58,344,6,11,24,65,24,8,10,5,69,43,39,108,179,167,43,171,23,15,5,6,23,28,34,91,35,15,7,54,4,66,55,74,41,122,118,32,17,13,56,8,70,35,245,144,92,140,443,48,5,73,59,24,6,149,43,91,214,108,67,163,106,256,34,37,279,99,34,60,28,52,34,61,57,22,17,2,1,49,79,51,36,2,77,61,1,113,38,78,80,1,325,96,21,281,23,130,73,337,9,34,1,4,7,47,7,3,9,13,2,8,2,20,34,10,1,9,2,1,20,1,21,26,68,18,8,29,22,75,17,4,25,32,66,5,10,5,22,3,49,56,24,11,19,276,2,6,4,2,22,9,5,13,6,14,1,1,25,21,2,55,94,31,27,19,6,3,5,5,8,4,1,7,14,22,69,1,6,9,14,3,4,4,16,5,6,3,11,72,40,1,30,4,7,1,59,21,18,5,26,34,74,2,9,74,33,12,14,1,3,10,27,20,5,11,1,6,20,3,12,16,44,30,29,117,1,60,3,29,19,16,3,3,6,139,44,77,36,3,17,31,6,16,17,2,10,1,27,20,3,2,14,2,19,9,8,17,4,3,41,12,106,188,85,11,15,10,2,2,76,7,23,75,23,71,1,47,37,25,33,8,1,13,2,10,2,1,3,1,7,24,5,1,5,5,9,2,10,13,1,8,36,9,11,5,21,37,26,19,38,151,5,22,12,13,6,43,5,33,2,5,35,17,8,3,9,11,18,2,37,1,2,2,7,2,21,4,7,33,6,15,24,20,88,11,4,11,43,10,15,29,131,43,2,6,98,24,12,42,13,14,38,32,25,18,2,27,60,14,24,16,65,57,77,32,6,5,4,22,4,9,1,3,4,4,2,3,11,7,24,6,11,17,9,42,17,3,7,8,2,8,15,18,7,10,6,5,34,16,20,2,3,6,8,37,75,55,17,391,13,8,36,30,22,4,77,65,29,65,95,8,8,45,5,11,4,4,78,2,12,8,3,3,4,6,6,4,1,28,1,9,26,4,3,5,3,34,5,11,1,9,17,15,35,1,6,3,7,11,5,10,11,27,17,8,8,37
 Project ADVISORY	11469
 Project APPROVED	2473,2180,11316
 Project ARPCE Support Coordination Support Chair	15372
@@ -3404,10 +3466,11 @@ Project Agreement	5793,5996,4355
 Project Alignment	13981
 Project Amount US	13392
 Project Annually Review	11855
-Project Appraisal Document	541,2,16,183,42,187,25,294,575,123,264,637,659,2072,919,215,4078,569,16,507,267,197,1355,107,6,114,918,22,56,17,389,39,13,67,20,4,3,35,48,3,15,2,37,1,2,2,41,39,401,240,52,178,24,258,26,4,23,3,8,139,15,735,13,44,384,4,6,173,271
+Project Appraisal Document	541,2,16,183,42,187,25,294,575,123,264,637,659,2072,919,215,4078,569,16,507,267,197,1355,107,6,114,918,22,56,17,389,39,13,67,20,4,3,35,48,3,15,2,37,1,2,2,41,39,401,240,52,178,24,258,26,4,23,3,8,139,15,735,13,44,384,4,6,173,271,10
 Project Appraisal Document PAD3340	424
 Project Appraisal Document PAD3556	554
 Project Appraisal Document PASyFiS Support	17849
+Project Appraisal Document PDO Project Development	18754
 Project Appraisal Document PHEOC Public Health	11417
 Project Appraisal Document Project Development Objective	15601
 Project Appraisal Document URL	14976,2465,663
@@ -3441,7 +3504,7 @@ Project BRIDGE SPV. Private Sector	5903
 Project Background	12693,5968
 Project Background Coordinates	1988
 Project Background Name	1988
-Project Beneficiaries	1867,9988,1888,1629,1554,173,15,327
+Project Beneficiaries	1867,9988,1888,1629,1554,173,15,327,1313
 Project Beneficiaries Component Beneficiary Profile	10964
 Project Beneficiaries D. Project Components III	13856
 Project Beneficiaries Teachers	15661
@@ -3499,14 +3562,14 @@ Project Connect	403,14850
 Project Considerations	15659
 Project Constitution of Liberia	17114
 Project Consultant	18155
-Project Context	16436,178
+Project Context	16436,178,2140
 Project Contract	7951
 Project Contributes	11525,330,3517,39,2030
 Project Control System	10626,1055
 Project Controls Specialist	16963
 Project Coordinating Unit	18554
 Project Coordination Management	16384
-Project Coordination Unit	3604,2673,5248,887,980,1573,125,282,289,483,470,24,700,624,542
+Project Coordination Unit	3604,2673,5248,887,980,1573,125,282,289,483,470,24,700,624,542,250
 Project Coordination Unit Cofinanciers and Other External	16614
 Project Coordination Unit PCU	15372
 Project Coordination Unit. Specifically	11863
@@ -3537,7 +3600,7 @@ Project Cost and Financing	1264,15632,26
 Project Cost and Financing Project Cost IBRD	17441
 Project Cost and Private Sector Requirement	5903
 Project Costs	11525,338,3509,39,2030
-Project Costs and Financing	1264,15350
+Project Costs and Financing	1264,15350,2140
 Project Costs and Financing Sources	13331
 Project Costs and IDA	16144
 Project Counsel Tingying Wang	15905
@@ -3566,7 +3629,7 @@ Project Description The Liberia	17114
 Project Description The Project	18728
 Project Description The Universal Access and Service	12945
 Project Description The Zambia Refugees and Host	1778
-Project Design	969,295,603,8901,61,135,416,145,24,11,295,110,1366,1,1605,435,39,80,24,3,35,68,37,1,2,82,401,240,230,258,77,311,181,663,189,8
+Project Design	969,295,603,8901,61,135,416,145,24,11,295,110,1366,1,1605,435,39,80,24,3,35,68,37,1,2,82,401,240,230,258,77,311,181,663,189,8,476
 Project Design Conditions for Effectiveness Residual Risk	10829
 Project Design Enhance	16949
 Project Design Residual Risk Rating INHERENT	15518
@@ -3579,7 +3642,7 @@ Project Development	15372,247,1307
 Project Development Director	16921
 Project Development Fund	14830
 Project Development Indicators	11924
-Project Development Objective	427,801,639,1022,100,615,1049,967,919,4290,134,1,453,108,440,23,149,91,39,145,312,108,148,47,27,277,47,14,67,367,24,7,60,162,1,376,510,45,6,2,71,48,52,182,39,80,9,11,2,37,3,105,5,30,11,27,51,20,167,14,204,249,218,21,30,191,26,4,26,8,3,37,441,408,13,42,54,4,331,61,5,175,89,2
+Project Development Objective	427,801,639,1022,100,615,1049,967,919,4290,134,1,453,108,440,23,149,91,39,145,312,108,148,47,27,277,47,14,67,367,24,7,60,162,1,376,510,45,6,2,71,48,52,182,39,80,9,11,2,37,3,105,5,30,11,27,51,20,167,14,204,249,218,21,30,191,26,4,26,8,3,37,441,408,13,42,54,4,331,61,5,175,89,2,184
 Project Development Objective Improved	1988
 Project Development Objective Indicators	1228,56
 Project Development Objective Indicators PBC Baseline	13331
@@ -3596,7 +3659,7 @@ Project Development Objective Public Finance Management	15658
 Project Development Objective and Results Framework	18554
 Project Development Objective for KSEIP	14487
 Project Development Objective. Under	17096
-Project Development Objectives	10829,1095,1973,1514,13,87,90,130,12,693,178,24,1211,13,100,397,145
+Project Development Objectives	10829,1095,1973,1514,13,87,90,130,12,693,178,24,1211,13,100,397,145,261,60
 Project Development Objectives The SOP2	18504
 Project Development Outcome Indicators for CAB3 Congo	15372
 Project Development and Costing Methods. The TOT	18500
@@ -3751,7 +3814,7 @@ Project Implementation Report	3604
 Project Implementation Responsible	12253
 Project Implementation Services For Establishing Data	4576
 Project Implementation Steering Committee	761
-Project Implementation Support	11965,3526,211,267,2504
+Project Implementation Support	11965,3526,211,267,2504,319,33
 Project Implementation Support Component	15659
 Project Implementation Support Mission	18623
 Project Implementation Support Revised Indicator Name	15969
@@ -3858,7 +3921,7 @@ Project Manag Individual Consult Preparation	17180
 Project Manag QUISIÇÃO DE VEÍCULOS PAR	17219
 Project Manag Request for Quota Single Stage	17180
 Project Manag Solicitação de Cot Single Stage	17219
-Project Management	888,340,56,300,194,89,121,724,277,615,1049,1779,107,40,254,113,3822,61,423,138,465,7,1,102,6,270,171,140,172,193,53,10,57,43,251,61,339,179,100,477,251,198,1,43,31,20,23,36,100,182,39,100,2,40,68,38,143,157,10,110,108,685,24,26,4,188,327,408,57,56,142,205,41,9,175,91,10
+Project Management	888,340,56,300,194,89,121,724,277,615,1049,1779,107,40,254,113,3822,61,423,138,465,7,1,102,6,270,171,140,172,193,53,10,57,43,251,61,339,179,100,477,251,198,1,43,31,20,23,36,100,182,39,100,2,40,68,38,143,157,10,110,108,685,24,26,4,188,327,408,57,56,142,205,41,9,175,91,10,119
 Project Management Baseline Actual	2712
 Project Management Committee	16970
 Project Management Company	3456
@@ -3973,7 +4036,7 @@ Project No	10780,3145,1218
 Project No. P128534	15601
 Project Note	16468
 Project Number	12241,839
-Project Objective	2712,1976,1891,349,949,3518,576,17,240,39,173,1480,50,86,891,33,639,116,2,276,66,559,67,289,6,79,17,808,54,48,127,217,4,1,118,61
+Project Objective	2712,1976,1891,349,949,3518,576,17,240,39,173,1480,50,86,891,33,639,116,2,276,66,559,67,289,6,79,17,808,54,48,127,217,4,1,118,61,258,25
 Project Objectives	12212,733,567
 Project Objectives and Components	13850
 Project Objectives and Components DEVOBJ TBL	14888,2072
@@ -3986,6 +4049,7 @@ Project Operation Manual	1988,15453
 Project Operation Manual. Inputs	15411
 Project Operational	17180
 Project Operational Manual	17441
+Project Operational Manual PPP Purchasing Power	18809
 Project Operations	11855
 Project Operations Manual	427,6112,4290,588,438,2140,981,435,103,183,1199,1765
 Project Operations Manual Effectiveness Article IV	15661
@@ -4011,7 +4075,7 @@ Project Page	3760,8095,3803,486
 Project Panama	8494
 Project Pangolin	4528,2265,5719,1137
 Project Pangolin AI	12512
-Project Paper	1284,1605,3621,5414,41,3173,52,341,132,119,201,71,344,498,26,984
+Project Paper	1284,1605,3621,5414,41,3173,52,341,132,119,201,71,344,498,26,984,903
 Project Paper PAD5527	1578
 Project Paper URL	13860,4338
 Project Parts	15553
@@ -4029,13 +4093,14 @@ Project Planning And Management	899
 Project Planning and Governance	14185
 Project Planning and Implementation of Public Procurement	6946
 Project Population IPF Digital Development	11469
-Project Preparation	13017,3597
+Project Preparation	13017,3597,2140
 Project Preparation Adv	15731
 Project Preparation Advance	1770,942,1976,6080,4604,39,13,87,458
 Project Preparation Advance Consulting Services Ref	17180
+Project Preparation Advance PPP Public Private	18754
 Project Preparation Advance Public	15424
 Project Preparation Advancement Project	17180
-Project Preparation Advances	1264
+Project Preparation Advances	1264,17490
 Project Preparation Facility	16614
 Project Preparation Facility of Ireme Invest	14997
 Project Preparation GFPP Greenhouse Gases GHG	11417
@@ -4120,6 +4185,7 @@ Project STEP Systematic Tracking of Exchanges	10964
 Project Safeguard Policies Triggered	15411
 Project Scale Up and Replication	16963
 Project Scope	14576
+Project Scope Total Budget	18795
 Project Senior Legal Advisor Implementation Unit	15901
 Project Showcase Video Gender-Based Violence Scenarios	11332
 Project Sierra Leone	16144
@@ -4147,6 +4213,7 @@ Project Steering Committee High Moderate Provide	16926
 Project Steering Committee PSW Private Sector	17099
 Project Steering Committee PTC Project Technical	1264
 Project Steering Committee PwDs People	1988
+Project Steering Committee RF Results Framework	18825
 Project Steering Committee SAP Food Security	17962
 Project Steering Committee Sets Strategic Directions	14107
 Project Steering Committee and Technical Committee	1284,2320
@@ -4177,7 +4244,7 @@ Project Targeted Regions and Beyond	13998
 Project Targeting Index	17906
 Project Team	11209,1445,383,148,2293
 Project Team Lead	14352
-Project Team Leader	12693,492
+Project Team Leader	12693,492,5569
 Project Team Working Session Picture	15478
 Project Teams	15478
 Project Teams Meetings Meetings Meetings Meetings	11131
@@ -4296,6 +4363,7 @@ Project. C. Project Beneficiaries	11855
 Project. Capacity	15659
 Project. Comments	16638
 Project. Complementary	11855
+Project. Component	18825
 Project. Currently	16949
 Project. D. Alignment	11417
 Project. D. Results Chain	11855
@@ -4425,7 +4493,7 @@ Projections Domestic	11134
 Projections GDP	11131
 Projections PEF Actuals	16032
 Projections and Business Targets	3487
-Projecto	1176,16,1624,1767,1138,874,1350,2805,19,14,589,18,16,7,27,1,1,2,1,16,2,62,17,3849
+Projecto	1176,16,1624,1767,1138,874,1350,2805,19,14,589,18,16,7,27,1,1,2,1,16,2,62,17,3849,3369,24,5,64
 Projecto A NAS1	11542
 Projecto A. Visão	11441
 Projecto ANEXO IV	10783
@@ -4439,10 +4507,14 @@ Projecto CONNECT	10276
 Projecto China-FAO	6571
 Projecto Cidade Segura	8638,1356
 Projecto Complementar	10783
+Projecto Digital São Tomé	18779
 Projecto EDGE	2816
 Projecto EDGE. Desenvolvimento	2816
+Projecto ERGUES	18814
 Projecto Elegível	10783
+Projecto Este	18789
 Projecto Estruturante	10783
+Projecto Gestão	18760
 Projecto IDEA	7945,214
 Projecto Ilumina Angola	6595,4823
 Projecto Knowledge Hub Digital da União Europeia	12840
@@ -4453,18 +4525,23 @@ Projecto MozSkills	9694
 Projecto Multissectorial	10783
 Projecto Município Digital	2434
 Projecto Nacional de Banda Larga	1215
+Projecto Nacional de Ordenamento	18760
 Projecto Nant Power	3093
 Projecto Novo	10783
 Projecto Nº P178040 QUADRO DE GESTÃO	11390
 Projecto Os	11441,1
 Projecto PPSFCH	11406
 Projecto Paralisado	10783
+Projecto Promoção	18760
 Projecto Relatório da Consulta Nacional Título da Acção	11387
 Projecto SIMPLIFICA. OE3. Revisar	11379
 Projecto SIMPle	15922
 Projecto SKA	2816
+Projecto STP	18796
+Projecto STP Digital	18796,7
 Projecto Sempre	10783
 Projecto Simplifica	11458
+Projecto São Tomé	18779
 Projecto UNESCO United Nations Educational	11390
 Projecto UPS Unidades de Alimentação Ininterrupta VBG	11413
 Projecto URIP Unidade Regional de Implementação	11390
@@ -4491,6 +4568,7 @@ Projecto de Desenvolvimento Urbano	574
 Projecto de Desenvolvimento da Ciência	11387
 Projecto de Desenvolvimento de Ciência	11387
 Projecto de Educação Digital de Angola	10490
+Projecto de Empoderamento de Raparigas	18789
 Projecto de Estudos	10783
 Projecto de Execução	10783
 Projecto de Fortalecimento da Governança	11390
@@ -4513,11 +4591,13 @@ Projecto de Modernização Chave	11372
 Projecto de Plataforma Eletrónica	17278
 Projecto de Protecção Social	11406
 Projecto de Resolução	5791
+Projecto de Restauração	18760
 Projecto de Simplificação de Actos	10772
 Projecto de Simplificação de Procedimentos	11379
 Projecto de Transferência Monetária	10763
 Projecto de Transformação Agrícola de Angola	10769
 Projecto. CAPÍTULO IV EXECUÇÃO E CONTROLO	10783
+Projecto. DO USO DE CONCEITOS VAGOS	18784
 Projecto. ID	11440
 Projecto. Tabela	11413
 Projector	899
@@ -4525,7 +4605,7 @@ Projector Specifications	34
 Projectors	34,15130
 Projectors Standards and Guidelines	34
 Projectors Standards and Guidelines The ICT Unit	34
-Projectos	2816,6616,1323,28,589,79,3937
+Projectos	2816,6616,1323,28,589,79,3937,3364,21,25,55
 Projectos Estratégicos	12790
 Projectos Estruturantes	10783,596
 Projectos Estruturantes de Investimento Público	10783
@@ -4533,9 +4613,11 @@ Projectos Excluídos	10783
 Projectos Intersectoriais	10783
 Projectos Mostrar	10783
 Projectos Municípios	11390
+Projectos Prioritários	18763
 Projectos REDISSE IV	10777
 Projectos Sujeitos	11390
 Projectos Suspensos	10783
+Projectos TIC	18772
 Projectos de Estudo	10783
 Projectos de Estudos	10783
 Projectos de Grande Dimensão	12789
@@ -4543,9 +4625,10 @@ Projectos de Investimento	10783
 Projectos de Investimento Associados	10783
 Projectos de Investimento Público	10783
 Projectos de Investimento Público Sectoriais	10783
+Projectos de Lei	18773
 Projectos de Saúde	10760,17
 Projectos. Artigo	10783
-Projects	11,274,504,365,130,182,60,303,38,121,714,275,479,148,522,402,238,745,22,442,86,100,127,241,417,1,192,12,2248,233,504,632,61,134,1,52,215,58,16,112,83,25,47,283,8,42,60,21,151,77,34,91,17,2,1,54,40,40,19,408,42,15,2,63,69,74,146,1,13,16,141,21,415,53,31,10,402,111,1,7,23,39,121,2,7,1,12,60,12,18,74,25,18,91,82,52,182,39,102,5,1,34,105,3,483,112,19,265,135,175,26,46,4,70,118,102,44,279,17,27,135,152,234,94,95,81,56,28,30,12,58
+Projects	11,274,504,365,130,182,60,303,38,121,714,275,479,148,522,402,238,745,22,442,86,100,127,241,417,1,192,12,2248,233,504,632,61,134,1,52,215,58,16,112,83,25,47,283,8,42,60,21,151,77,34,91,17,2,1,54,40,40,19,408,42,15,2,63,69,74,146,1,13,16,141,21,415,53,31,10,402,111,1,7,23,39,121,2,7,1,12,60,12,18,74,25,18,91,82,52,182,39,102,5,1,34,105,3,483,112,19,265,135,175,26,46,4,70,118,102,44,279,17,27,135,152,234,94,95,81,56,28,30,12,58,279
 Projects ABOUT	10068
 Projects Accounts for Ministries	18576
 Projects Agency	15473
@@ -4601,7 +4684,11 @@ Project’s Performance-Based Conditions	13392
 Project’s RF	16436,1413
 Project’s Results Framework	13392,3044,1413
 Project’s Works Contractor Destruction	17114
+Projecção	18763
+Projecções Demográficas de STP	18768
+Projecções Demográficas de São Tomé	18768
 Projekte	384
+Projekten	18815
 Projektet	77
 Projektinformation-Good-Governance	10856
 Projet	246,65,27,19,124,84,63,212,129,36,233,32,11,3,17,7,104,47,125,65,29,47,19,27,142,5,55,20,3,6,30,28,16,194,137,157,30,2,59,220,85,6,53,138,139,6,94,47,29,132,35,29,7,2,38,41,24,5,7,32,12,110,43,50,270,32,1,31,12,1,10,1,1,4,4,183,482,20,130,82,209,19,9,256,18,85,158,10,173,159,40,26,140,222,279,77,14,66,176,150,79,7,5,157,48,108,459,2,14,33,6,49,278,57,396,55,140,37,149,376,160,4,265,46,5,187,130,17,15,1,1,1,99,10,7,4,2,141,390,20,48,49,251,8,11,2,6,20,83,9,7,1247,11,28,12,34,15,29,14,9,3,7,12,85,3,3,10,2,18,43,10,39,94,25,68,44,33,482,1,1,27,20,7,9,1,1,47,2,1,30,3,36,102,126,436,84,15,27,7,21,22,25,19,7,24,5,13,26,12,5,6,4,26,11,7,13,6,1,6,5,1,2,12,5,12,10,8,2,2,7,15,20,33,20,31,16,35,7,15,13,4,2,2,10,7,4,4,4,16,1,9,2,11,20,5,8,23,17,7,1,6,4,27,39,6,10,39,26,87,25,6,5,8,34,2,4,70,43,12,70,4,1,5,1,1,18,15,1,1,15,3,12,21,9,725,185,38,18,128,3,8,1,17,3,4,3,4,1,2,7,4,8,3,5,4,1,2,2,1,7,9,2,27,4,29,23,18,58,10,16,1,6,4,2,2,2,23,2,5,21,30,9,12,27,42,6,4,3,8,4,6,34,6,22,11
@@ -4875,7 +4962,8 @@ Projet. Une	17846
 ProjetMIONJO	14625
 Projetar	16321
 Projetet	15901
-Projeto	1265,8169,1610,494,4,27,329,123,3734,570,51,771,141
+Projeto	1265,8169,1610,494,4,27,329,123,3734,570,51,771,141,1465,29,2,4
+Projeto ACRE	18793
 Projeto Alerta Precoce	17147
 Projeto Alerta Rápida	17147
 Projeto Alerta Rápida Relatório de Missão de Terreno	17147
@@ -4885,6 +4973,8 @@ Projeto Cidade Segura	342,15938
 Projeto Cidade Segura URL	16280
 Projeto Contacto UGP	17147
 Projeto Digital Cabo Verde	3558,13628
+Projeto ERGUES	18814
+Projeto Educação de Qualidade	18765
 Projeto Formazione	17308
 Projeto Fortalecimento	17147
 Projeto GESTOC	11569
@@ -4894,21 +4984,36 @@ Projeto Ianda Guiné Saúdi	11543
 Projeto Infra-estrutura Tecnológica da Rede Electrónica	181,9
 Projeto Mobilidade Transfronteiriça de Mulheres Importadoras	5402
 Projeto PESIDE	11538,5520
+Projeto PREsSe	18852
+Projeto PReSE	18808
 Projeto Promoção da Paz	17360,1
 Projeto Quantum	17147
-Projeto Reforma	4938
+Projeto Reforma	4938,13870
 Projeto SIMple	15922
+Projeto STP Digital	18788
 Projeto WARDIP Guiné-Bissau	9846
-Projeto de Abastecimento	15755
+Projeto de Abastecimento	15755,3038
 Projeto de Aceleração	15755,621
+Projeto de Acesso	18793
 Projeto de Apoio	8536
 Projeto de Decreto	3246,6180,7934
+Projeto de Desenvolvimento	18789
 Projeto de Energias Renováveis	16059
 Projeto de Fim de Curso	12019
 Projeto de Inovação Morabeza	1409,2672
-Projeto de Lei	11583
-Projeto de Reforma	3530,1181
+Projeto de Investimentos	18839
+Projeto de LCE	18784
+Projeto de Lei	11583,7205
+Projeto de Licença	18753
+Projeto de Preparação	18789
+Projeto de Proteção Social	18789,20,15
+Projeto de Proteção Social Resposta	18789
+Projeto de Proteção Social de Resposta	18799
+Projeto de Recuperação	18793
+Projeto de Reforma	3530,1181,14096
+Projeto de Resiliência	18789
 Projeto de Resolução	15477
+Projeto de Salvaguarda	18789
 Projeto de Transformação Digital	11893
 Projeto. Em	12021,3734,621
 Projeto. Esta	17147
@@ -4944,6 +5049,7 @@ Projets de Réforme	16099,76
 Projets du PANU	18426
 Projetsetprogrammes	18297
 Projeção	4436,7101
+Projeções Demográficas de São Tomé	18791
 Promote EdTech Innovation and Encourage PPP Project	13991
 Promoteur Projet	10975
 Promoteur de Projet	15901
@@ -4986,6 +5092,8 @@ Préparation du Projet PPMEC Projet de Préparation de Mise	10876
 Présentation du Projet Africa-BB-Maps	13482
 Présentation du Projet Panafricain	15357
 Présentation du Projet de Loi de Finances Initiale	14530
+Príncipe O Projeto de Reforma	18804
+Príncipe. O Projeto ERGUES	18814
 Public Accountability Project	10109
 Public Admin. Modernization Project	13850
 Public Admin. Modernization Project. Country	13850
@@ -5015,6 +5123,8 @@ Public-Interest Projects	10405
 Publicação de WARDIP Guiné-Bissau O Projeto WARDIP	9846
 Purchase Agreement PP-A Project Preparation Advance	11549
 Purchasing Power Parity PPSD Project Procurement	10829
+QUALITY EDUCATION FOR ALL PROJECT	18765
+Quality Education for All Project	18765
 Quarterly Project	13331,2327
 Quarterly Projection Model. Annual Integrated Report	11134
 Quarterly Regional Project Implementation Committee	16922
@@ -5043,6 +5153,7 @@ RECONSTRUCTION AND DEVELOPMENT PROJECT APPRAISAL	15553
 RECOVERY PROJECT	14546
 REFERÊNCIA Projeto Cabo Verde Digital Assistência	11898
 REGIONAL DIGITAL INTEGRATION PROJECT The Eastern	18744
+REGIONAL SAÚDE Projeto de Desenvolvimento	18789
 REILA Project Objectives	13998
 REIUP Project	15983
 RELATIF AU PROJET DE LOI PORTANT	15671
@@ -5053,6 +5164,7 @@ REPUBLIQUE DEMOCRATIQUE DU CONGO PROJET	12043
 REPÚBLICA DE ANGOLA PROJECTO DE FORTALECIMENTO	11390
 REREC Project Manager Francis Mutua	14665
 RESEARCH PROJECT A. Institution	16189
+RESILIENCE AND RECOVERY PROJECT	18809
 RESILIENCE PROJECT	16384
 RESILIENCE PROJECT AS PHASE	11417
 RESPITE Project	6523
@@ -5081,6 +5193,7 @@ Rail Project	12979
 Rail and Port Freight Logistics Projects	2626
 Raleigh Fitkin Memorial Hospital Demonstration Project	13207
 Ramana GCF Low-Carbon Economy Project Coordinator	11332
+Randeep Sudan Project Team Leader	18754
 Rapport Final Projection Population	18286
 Rapport Général du Projet de Loi de Finances	4249
 Ratings of Project Performance	16614
@@ -5089,9 +5202,9 @@ Readiness Project	18481
 Real GDP Growth Projections	13532
 Real Property Tax Project	17011
 Recovery Development Policy Financing Project	11918
-Recovery Project	15017
+Recovery Project	15017,3799
 Refinery Project	5765
-Reform Project	10829,7655
+Reform Project	10829,7655,384
 Refugee and Host Communities Project TABLE	1867
 Refugees Project	13991
 Regional Access Increase and Sustainable Energy Project	17353
@@ -5154,12 +5267,15 @@ Resilience Project	11417,803,3523
 Resilience Project PPSD Project Procurement Strategy	18198
 Resilience Project Using the Multi- Operation ID	11417
 Resilience Project. The GT Board	17105
+Resilience and Recovery Project	18809
+Resilience and Recovery Project URL	18809
 Resilient Gambia Project	17105
 Resilient Urban Sierra Leone Project	18456,20,99,3
 Resilient Urban Sierra Leone Project RWC	18578
 Responsables de Projets	18169
 Response Project	11924,3266,1208,551,1249
 Response Project CFS Social Safety Net	18198
+Response and Recovery Project	18809
 Response and Resilience Project	1867,9723
 Response of Project Implementation Team	1778
 Responsive Services Project	15518
@@ -5249,6 +5365,7 @@ SADC Trade and Transport Facilitation Project	13655
 SAFETY POTENTIAL IMPACT ON THE PROJECT	17099
 SAMALA Project	12985
 SAMPLE KEY PROJECTS Provider Facility Metro	10861
+SARFE Projeto de Proteção Social	18789
 SARIMA Project Manager Zimasa Sobuza	18591
 SCHEDULE I Project Description	14430
 SCOPE OF THE WORK General Project	962
@@ -5321,6 +5438,7 @@ STEM Teacher Training Pilot Project LOT	15183
 STEP Projet	15990
 STOP-AMDR Project The Gambia Benchmarks Makerere	17735
 STOP-AMDR Project Undergraduate Admissions	17735
+STP Quality Education for All Project	18765
 STRENGTHENING ELECTRICITY SERVICES PROJECT	15659
 STRUCTURE DU PROJET DE DÉCRET TITRE	14483
 SUBSTANTIAL IDT4M Project	12241
@@ -5415,7 +5533,7 @@ Senegal Digital Economy Acceleration Project World	1190
 Senegal Energy Access Scale Up Project	18355
 Senegal Safety Net Project	18301
 Sep-2023 Related Project	16638
-Series of Projects	1175,2,1,1,1,1,1,95,7,583,1022,673,42,1758,1566,3840,61,135,453,143,295,1476,1,590,988,228,415,68,37,3,322,161,778,4,173,15,748,642
+Series of Projects	1175,2,1,1,1,1,1,95,7,583,1022,673,42,1758,1566,3840,61,135,453,143,295,1476,1,590,988,228,415,68,37,3,322,161,778,4,173,15,748,642,305
 Series of Projects II	12245
 Series of Projects SSA Sub-Saharan Africa SPV	1264
 Series of Projects1	18504
@@ -5519,6 +5637,7 @@ Social Nets Systems Project	17849
 Social PDESOC Projet de Développement	18286
 Social PHASAOC PRODESS Projet	18077
 Social Projecto de Protecção Social	11406
+Social Protection COVID-19 Response and Recovery Project	18809
 Social Protection Project	12370
 Social Protection Project Environmental and Social Risk	13332
 Social Protection System Project	11855
@@ -5526,6 +5645,7 @@ Social Protection Transformation Project	12440,2698
 Social Protection and Economic Resilience Project	12220,560,52
 Social Protection and Economic Resilience Project Operation	12832
 Social Protection and Employment Project	17906
+Social Protection and Skills Development Project	18809
 Social Protection and Youth Economic Inclusion Project	11924
 Social Protection and Youth Employment Project	14976,7,23,184
 Social Protection and Youth Productive Inclusion Project	11905,19,4089
@@ -5538,6 +5658,7 @@ Social Safety Net Project Systematic Tracking	15601
 Social Safety Net System Project	17849
 Social Safety Net System Project II	17904
 Social Safety Nets Project	14553,1048,57,855,447,297
+Social Sector Support Project	18754,11
 Social Support for Resilient Livelihoods Project	12181,799,131,1563
 Social Welfare PROJECT FINANCING DATA	13523
 Social Welfare Project Progress	12448
@@ -5581,6 +5702,7 @@ Specialized Projects and Programs Financial Report	16970
 Sponsoring of High School Projects	11134
 Spécialistes du Projet	14424
 Stabilisation- PROJES	17841
+Stability Project	18777
 Staff Project	13991
 Stakeholder Engagement Plan Template for Emergency Projects	12990
 Stakeholder Project Component	17099
@@ -5607,6 +5729,7 @@ Strategic Project Valued	6581
 Strategic Projects	12969
 Strategic Projects Coordinator	5036,7974,38
 Strategic Projects Director ICT	11857
+Strategies and Policies Technical Design of Project	18792
 Strategy PSIPs Public Sector Investment Projects	16943
 Strategy for Development Education Sector Support Project	11905
 Strategy for Development PTC Project Technical Committee	16144
@@ -5668,6 +5791,7 @@ Supplies for Project F	17180
 Supply and Sanitation Development Project DCAF Geneva	17105
 Support Comoros Digital Connectivity Project	9988
 Support IPF Investment Project Financing	15969
+Support Program for Vulnerable Families. The Project	18825
 Support Project	792,620,15024
 Support Project Management	11855,4332
 Support Project Management Organizations Republic of Cabo	11855
@@ -5698,6 +5822,7 @@ Systems Diagnostic Assessment Project	11986
 Systems Modernization Project	12735
 Systems Project Conceptual	12395
 Systems Upgrade Project LEDFC Liberia Pension	17235
+São Tomé and Príncipe. Revised Project Development	18754
 Sénégal PADAES Projet	18316
 Sénégal PAMACEL Projet	18316
 Sénégal Projet Publié	18346
@@ -5720,7 +5845,7 @@ TKP Expansion Project	15663
 TRADE AND LOGISTICS PROJECT. The Roads	12742
 TRANSFORMATION NUMÉRIQUE PROJET N	12043
 TRANSFORME Project	12031
-TRI Project	10841
+TRI Project	10841,7929
 TSB Project Coordinator	17940
 TSF Pillar I Grants Total Project	14080
 TUNISIA PROJECT HANNIBAL	1818
@@ -5753,7 +5878,7 @@ Technical Assistance Project The ASYCUDA Programme	13042
 Technical Assistance Project for Economic Growth	10774
 Technical Assistance Project for Spectrum Management	13888
 Technical Cooperation Projects	12962
-Technical Design of Project	969,898,1737,2935,4229,61,135,416,37,108,35,295,50,1426,1,1605,39,214,363,68,37,3,483,240,565,1155,94,95,8
+Technical Design of Project	969,898,1737,2935,4229,61,135,416,37,108,35,295,50,1426,1,1605,39,214,363,68,37,3,483,240,565,1155,94,95,8,476
 Technical Education Project	15604
 Technical Project Manager	15080,2882
 Technical Project Portfolio Management	4528,7984
@@ -5943,6 +6068,7 @@ Universal Access Project Implementation Unit	16850,22
 Universal Connectivity Project	5514,4653
 Universal Health Insurance Project	15971
 University Research Partnership Project	8456
+União Europeia. O Projeto	18793
 Up Project	18355
 Up Project-Phase	16654
 Updating the Project Operations Manual	2989
@@ -5993,6 +6119,8 @@ Vincent De Paul Mboutchouang I. PROJECT	16436
 Virtual University Creation Project	15550
 Vision. Project PI	14681
 Vuyiswa Khutlang SA Mine Project Leader	7751
+W Solar PV Project	18857
+WACA Project	18787
 WARCIP Benin Project	15424
 WARCIP Project	15424
 WARDIP Project	4359,12679

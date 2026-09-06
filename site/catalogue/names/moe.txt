@@ -23,6 +23,7 @@ Contas de Moeda Electrónica	11404
 Contas de Moeda Electrónica Limites	11403
 Contas de Moeda Electrónicas	11404
 County MOE	16935
+DBS Dobras EURO Moeda Oficial da Zona	18757
 DEPRAVATION DE NOS MOEURS	8236
 DNEA MoE	13143
 Defence and Security Mr Moeti Mohwasa	10363
@@ -33,6 +34,7 @@ Directorate and MoETE	15604
 Distribution of MoECHE	14896
 Doña María Ebiaka Moete	17192
 Dr. Moeketsi Majoro	12660,5
+Dr.ª Matshidiso Moeti Directora Regional da OMS	18783
 EMIS Unit of MoET	13016
 EMISSÃO E CARÁCTER REEMBOLSÁVEL DA MOEDA	10755
 ESP. Although the MoETE	15604
@@ -53,6 +55,7 @@ Hon Moeti Mohwasa	9708
 Hon. Beatrice Askul Moe	17645
 Honourable Moeti Caesar Mohwasa	12585
 ICT Strategy MoETE	15604
+III. Moeda	18798
 IRENA LSMS MoEWR MTF MW NGO	11136
 Imprensa Nacional Casa da Moeda	3192
 Imprensa Nacional Casa de Moedas de Portugal	5819
@@ -200,8 +203,9 @@ MoE’s Project Implementation Unit	13392
 MoGCDSW and MoE	12175
 MoHP and MoETE	15663
 MoSS. MoETE and MoSS	15604
-Moeda	10755,1178,3500
-Moeda Electrónica	11386,1410
+Moeda	10755,1178,3500,3324
+Moeda Dobra Cambio	18768
+Moeda Electrónica	11386,1410,5965
 Moeda Eletrónica	15440
 Moeda de Liquidação Sempre	11370
 Moedas Metálicas	11438

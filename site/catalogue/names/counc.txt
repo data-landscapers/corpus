@@ -172,6 +172,7 @@ CIO Council Secretariat CIO Council Comprising	16872,103
 CIO Council The President of Liberia	16872,103
 CIO Council. The CIO Council	16872,103
 CNCR National Rural Consultation and Cooperation Council	18293
+CNE National Council of Statistics	18777
 COMESA Business Council	279,593
 COMMITTEE REPORTS National Assembly and National Council	11289
 COMMUNITY COUNCILS Leribe	12697
@@ -382,6 +383,7 @@ Council of Elders	585,8281,1125
 Council of Europe	25,404,346,501,538,303,3246,1000,2073,2699,1260,3613,1322,415,35
 Council of Europe Convention	8776,2132,246,3636
 Council of Europe Framework Convention	7112,4023
+Council of Europe's Budapest Convention	18873
 Council of Europe's Glacy	783
 Council of Europe's Global Action	783
 Council of Europe’s AI Framework Convention. JCMS	17780
@@ -407,7 +409,7 @@ Council of Liberia	17070
 Council of Min-	15901
 Council of Minis	14874
 Council of Minister Resolution	15924
-Council of Ministers	7,738,17,443,66,310,218,165,162,180,45,55,136,510,176,18,348,12,132,123,16,48,436,1,40,18,15,140,214,47,93,139,293,56,358,191,100,116,10,139,46,7,56,3,31,495,93,29,361,86,394,810,1,26,194,463,322,1006,21,4,33,373,332,28,24,38,115,84,99,1,227,13,18,21,16,25,545,8,7,33,26,504,537,62,38,18,12,8,27,5,66,207,80,25,123,293,15,9,10,5,118,65,19,57,87,105,23,11,19,54,103,71,20,18,310,415,50,468,14,56,185,620,85,8,64,56,16,299,291,15,8
+Council of Ministers	7,738,17,443,66,310,218,165,162,180,45,55,136,510,176,18,348,12,132,123,16,48,436,1,40,18,15,140,214,47,93,139,293,56,358,191,100,116,10,139,46,7,56,3,31,495,93,29,361,86,394,810,1,26,194,463,322,1006,21,4,33,373,332,28,24,38,115,84,99,1,227,13,18,21,16,25,545,8,7,33,26,504,537,62,38,18,12,8,27,5,66,207,80,25,123,293,15,9,10,5,118,65,19,57,87,105,23,11,19,54,103,71,20,18,310,415,50,468,14,56,185,620,85,8,64,56,16,299,291,15,8,135,11,30,1,1,20,6
 Council of Ministers Approves	14122
 Council of Ministers Approves Digital Ethiopia	14051
 Council of Ministers Decree	12201
@@ -425,6 +427,7 @@ Council of Ministers Responsible for Trade	7142
 Council of Ministers Shall	11517
 Council of Ministers Value Added Tax Regulations	12500
 Council of Ministers View Profile	5775
+Council of Ministers and Parliamentary Affairs of Sao Tome	18857
 Council of Ministers and Parliamentary Committee	12500
 Council of Ministers' Communiqué No	10930
 Council of Ministers. A National AI Commission	6377
@@ -1039,7 +1042,7 @@ Minerals Council South Africa. Drawn	7751
 Minister Establishment of Digital Advisory Council	16963
 Ministerial Advisory Council	8982
 Ministerial CIO Council	16872,103
-Ministerial Council	1243
+Ministerial Council	1243,17554
 Ministerial Sector Administrative Council	4400
 Ministers' Council	14853
 Ministries and District Council	1778,210
@@ -1133,7 +1136,7 @@ National Children’s Council	14742,32
 National Communication Council	10370
 National Competitiveness Council	17139
 National Construction Council	1988
-National Council	1988,1640,498,3316,217,104,1185,1202,453,1257,144,304,19,29,626,66,48,405,520,580,696,2865,91
+National Council	1988,1640,498,3316,217,104,1185,1202,453,1257,144,304,19,29,626,66,48,405,520,580,696,2865,91,534
 National Council Industry Act	12253
 National Council for AI	15713
 National Council for Artificial Intelligence	6997,4138,4578,1,155,333,10
@@ -1151,6 +1154,7 @@ National Council for Economic and Social Development	16958
 National Council for Emergency Relief and Rehabilitation	15621,696,67
 National Council for Financial Inclusion	7763,372,9440
 National Council for Financial Inclusion Bank of Tanzania	7763
+National Council for Financial Inclusion DITEI	18770
 National Council for Food Security	16384,1925
 National Council for Food Security SIG	18309
 National Council for Higher Education	15164,3427,79
@@ -1192,7 +1196,7 @@ National Council of Provinces The Chairperson	11289
 National Council of Regions and Districts	7766
 National Council of SERVICOM Nodal Officers	11951
 National Council of State	11954
-National Council of Statistics	15760
+National Council of Statistics	15760,3017
 National Council the Huduma Bill	12138
 National Councils	14918
 National Cybenecurity Advisory Council	18457
@@ -1302,7 +1306,7 @@ National Women Council. Prevention	14742
 National Women Entrepreneur Council	14742,77,28
 National Women’s Council	13418,1324,193,2016
 National Women’s Council Act	14742
-National Youth Council	7171,5030,171,1046
+National Youth Council	7171,5030,171,1046,5379
 National Youth Council Departments	12642
 National Youth Council of Malawi	13122
 National Youth Environment Council	14742

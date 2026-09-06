@@ -249,6 +249,7 @@ Bank State Bank of Mauritius Ltd Letter	14736
 Bank of Central African States	969,1409,1849,54,752,1905,212,2443,333,312,603,3366,1394,150,746,91,354,30,24
 Bank of Central African States BCEAO Central	2775
 Bank of West African States BMI Body	2775
+Bank’s Small States Strategy	18851
 Bauchi State	12037
 Bavarian State Office for Data Protection Supervision	10090
 Bayelsa State	7176,11010
@@ -551,7 +552,7 @@ Delta State	8207,2179
 Delta State Ministry of Justice	11654
 Democratic State	4206
 Department FinEd Financing Statements FMD Financial	17235
-Department of State	4165,1527,1084,4229,999,1750,291,2913,1244
+Department of State	4165,1527,1084,4229,999,1750,291,2913,1244,640,37
 Department of State Foreign Assistance	4349
 Department of State Foreign Assistance and CDC	4349
 Department of State Security	11277
@@ -666,7 +667,7 @@ ESSP Mission Statement	14922
 ESSP Vision Statement	14922
 ESWATINI PREAMBLE The United States	4247
 EU Joint Press Statement	9067
-EU Member States	644,145,181,8582,538,1120,16,767,208,1259,423,745,2003,1541,286
+EU Member States	644,145,181,8582,538,1120,16,767,208,1259,423,745,2003,1541,286,327
 EU Member States Ambassadors	13170
 EU Member States. Special	10090
 EU State Building Contract	18500
@@ -701,7 +702,7 @@ Econometric Modelling for Arab States	17870
 Economic Community Of West African States	27
 Economic Community for West African States	16888
 Economic Community of African States	10841
-Economic Community of Central African States	26,1,1,2633,201,3471,4426,78,131,181,738,73,381,1047,750,797,437,202,84,3,170,128,178,835
+Economic Community of Central African States	26,1,1,2633,201,3471,4426,78,131,181,738,73,381,1047,750,797,437,202,84,3,170,128,178,835,1825
 Economic Community of Central African States EESI	15574
 Economic Community of Central African States ESIA	15511
 Economic Community of Central African States ESO	10841
@@ -912,7 +913,7 @@ Former State Lodge EAC	8546
 Forward-Looking Statements	4896
 Foster United States of America-Kenya	4153
 Founding Statement	12342,689
-Fragile State	969,315,583,1695,42,7164,61,135,453,143,295,50,1426,1,402,9,1167,27,616,68,37,3,483,254,524,1276
+Fragile State	969,315,583,1695,42,7164,61,135,453,143,295,50,1426,1,402,9,1167,27,616,68,37,3,483,254,524,1276,611
 Fragile State Index	13358
 Fragile State and Conflict	10832
 Fragile States Facility TSF	14132
@@ -1019,6 +1020,7 @@ Ghazal States	18625,105
 Global Anti-Scam Alliance’s State of Scams	8711
 Global Partnerships and State-Owned Enterprises Governance	5185,1,1,11
 Global State of Democracy	1981
+Global State of Systematic Observations Report	18869
 Goals SOE State-Owned Enterprise UNDP United	17260
 Godfrey Kabyanga Minister of State for National Guidance	3050
 Gombe State	5765,5116,1181,6077,107
@@ -1197,7 +1199,7 @@ Introduce Broadband State Ranking Report	11857
 Introduction The State	11262
 Introduction of State Age Pension	14828
 Investment Climate Statement	14036
-Investment Climate Statement URL	16972
+Investment Climate Statement URL	16972,1825
 Investment Climate Statements	14008,28,2906
 Investment Current State	12356
 Investment Promotion Agencies of West African States	10262
@@ -1214,7 +1216,7 @@ James Burty David State Secondary School	14792
 Jigawa State	11857
 Joint Board and Receiver Statement	9914
 Joint Press Statement	2787,6280
-Joint Statement	1243,5606,298,1920,1434,578,104,481,261,1407,2174,420
+Joint Statement	1243,5606,298,1920,1434,578,104,481,261,1407,2174,420,2864
 Joint Statement Initiative	1243
 Jonglei State	3583,15032,86,29
 Jonglei State. South Sudan Revenue Authority	3583
@@ -1446,7 +1448,7 @@ Member State. Article	15374
 Member State. Medium	15725
 Member State. Section	28
 Member State. This Supplementary Act	11517,3846
-Member States	7,20,1,290,326,145,152,20,1,8,273,14,7,333,210,7,303,841,204,110,311,254,150,136,659,45,536,216,96,1,1,3,1,144,597,46,3,6,11,124,321,87,54,38,87,253,96,4,126,46,69,62,28,1,66,13,9,269,105,183,218,415,20,25,48,37,106,71,1,139,152,71,127,210,41,25,86,99,56,33,63,29,119,44,12,43,21,16,53,141,104,39,33,57,8,65,64,4,93,19,12,15,141,98,81,37,40,92,3,146,137,29,160,79,34,31,31,84,57,61,9,5,23,1,20,10,22,48,21,85,8,63,21,70,72,6,52,17,23,77,6,66,26,215,10,9,7,26,26,29,14,5,83,30,30,43,54,40,158,13,39,18,7,213,94,1,7,13,89,65,38,116,216,11,104,28,135,72,12,100,6,38,10,60,86,21,195,2,191,160,82,92,75,71,37,59,7,157,47,68,29,62,51,122,41,94,55,132,47,14,155,214,44,106,37,15,48,166
+Member States	7,20,1,290,326,145,152,20,1,8,273,14,7,333,210,7,303,841,204,110,311,254,150,136,659,45,536,216,96,1,1,3,1,144,597,46,3,6,11,124,321,87,54,38,87,253,96,4,126,46,69,62,28,1,66,13,9,269,105,183,218,415,20,25,48,37,106,71,1,139,152,71,127,210,41,25,86,99,56,33,63,29,119,44,12,43,21,16,53,141,104,39,33,57,8,65,64,4,93,19,12,15,141,98,81,37,40,92,3,146,137,29,160,79,34,31,31,84,57,61,9,5,23,1,20,10,22,48,21,85,8,63,21,70,72,6,52,17,23,77,6,66,26,215,10,9,7,26,26,29,14,5,83,30,30,43,54,40,158,13,39,18,7,213,94,1,7,13,89,65,38,116,216,11,104,28,135,72,12,100,6,38,10,60,86,21,195,2,191,160,82,92,75,71,37,59,7,157,47,68,29,62,51,122,41,94,55,132,47,14,155,214,44,106,37,15,48,166,64,11
 Member States Agriculture	6422
 Member States Approved	10819
 Member States Benin Cabo Verde Côte	16243
@@ -1510,7 +1512,7 @@ Minister for State President Mr Moeti Mohwasa	3360
 Minister for State President Mr. Moeti Mohwasa	12572
 Minister for State President. ISSN	12575
 Minister for State President. Statutory Instrument No	12575
-Minister of State	1767,4224,3597,142,725,1470,1058,608,101,267,116,248,86,513,97,67,42,459,674,18,6,32,1699,113,562
+Minister of State	1767,4224,3597,142,725,1470,1058,608,101,267,116,248,86,513,97,67,42,459,674,18,6,32,1699,113,562,166
 Minister of State Administration	5417,4331
 Minister of State Administration and Public Service	5068
 Minister of State Anne Désirée Ouloto and Minister	3281
@@ -1534,9 +1536,10 @@ Minister of State for Digital Economy and Artificial	17620
 Minister of State for Disability Affairs	4133
 Minister of State for Economic Coordination José de Lima	4876
 Minister of State for Economy and Finance	2369
+Minister of State for Economy and Finance Gareth Haddad	18823
 Minister of State for Electronics	8210
 Minister of State for Energy Ato Adisalem Mebrahtu	12195
-Minister of State for External Affairs	13561,2695,19,965,1138
+Minister of State for External Affairs	13561,2695,19,965,1138,479
 Minister of State for External Affairs Eduardo Faleiro	15119
 Minister of State for External Affairs Kirti Vardhan	15119
 Minister of State for External Affairs Shri M.J	17240,776
@@ -1594,6 +1597,9 @@ Ministry of State Modernization and Public Administration	11873,36
 Ministry of State President	2736,9850
 Ministry of State Property	10987
 Ministry of State Telecommunicatio	1777
+Ministry of State for Economy and Finance	18797
+Ministry of State for Economy and Finance. The General	18797
+Ministry of State for Economy and Finance. The Statute	18797
 Ministry of State for Presidential Affairs	1777,5838,2,1471,7882
 Ministry of State for Social Action	10763
 Ministry of State for Women’s Affairs	17157
@@ -1779,6 +1785,7 @@ Ondo State House of Assembly	18154
 Ondo State. Day	9427
 Online High School. Boise State University	961
 Open Government Information Each State Party	15641
+Operation SOE State-Owned Enterprise DPF Development	18851
 Operations Centre SONA State	5533
 Opuwo State Hospital	12947
 Ordinary Summit of Heads of State and Government	10169,4676
@@ -2109,6 +2116,7 @@ SOE State	11224
 SOE State Owned Enterprise SOP Standard	18577
 SOE State Owned Enterprise SSA Sub-Saharan	11545
 SOE State-Owned Enterprise I. INTRODUCTION	13060
+SOE State-Owned Enterprise SPAUT Sistema de Pagamentos	18825
 SOE State-Owned Enterprise STEP Systematic Tracking	6539
 SOE State-owned	1284,10096
 SOE Statement of Expenditures SRA Annual Reform	17441
@@ -2123,7 +2131,7 @@ SPECIFIED STATE CORPORATIONS Hon. Emmanuel Wangwe	10313
 SSA State Security Agency PNR Passenger	11986
 SSA State Security Agency Stats SA	11196
 SSA Sub-Saharan Africa USAID United States	12006
-STAFF STATEMENT	17209
+STAFF STATEMENT	17209,1614
 STATE	5692,5169,1159,4950
 STATE AND GOVERNMENT	7452,5188,5932
 STATE AND GOVERNMENT AT THE EXTRAORDINARY	4114
@@ -2176,7 +2184,7 @@ STATEMENT BY BENEFICIAL OWNER	12374
 STATEMENT BY H.E. MR. ADAMA BARROW	17124
 STATEMENT BY HIS EXCELLENCY DR JULIUS	4114,14432
 STATEMENT BY THE CHAIRPERSON	12951
-STATEMENT BY THE EXECUTIVE DIRECTOR	13741,1288,444,1736,48,246,406,81
+STATEMENT BY THE EXECUTIVE DIRECTOR	13741,1288,444,1736,48,246,406,81,833
 STATEMENT BY THE PRESIDENT	17347
 STATEMENT FOR THE WORLD TELECOMMUNICATION	6168
 STATEMENT FROM THE MINISTER	14746
@@ -2288,8 +2296,9 @@ Sharing of State ICT	12917
 Shorter Maturity Loan SOE State-Owned Enterprise	15983
 Single State Payments Reference	10762
 Sir Abdool Raman State College	14736
-Small Island Developing State	10348,984,237,2997,163,15,74,1165
-Small Island Developing States	2663,250,3405,838,79,1757,1772,656,1622,734,790,176,10,21,20,1344,2212
+Small Island Developing State	10348,984,237,2997,163,15,74,1165,2868
+Small Island Developing State Explore	18836
+Small Island Developing States	2663,250,3405,838,79,1757,1772,656,1622,734,790,176,10,21,20,1344,2212,446,74
 Small Island Developing States SIGMAT Regional	13042
 Small Island Developing States. Education	8992
 Small Island Development States. UT and INIDA	15552
@@ -2297,7 +2306,7 @@ Small Island State	14748
 Small Island States and Countries	14721
 Small Islands Developing States	13889
 Small Medium and Micro Enterprises SOC State	11224
-Small State	1284,583,1695,42,7164,61,135,453,143,295,50,60,1366,1,402,9,1810,68,37,3,483,778,1276
+Small State	1284,583,1695,42,7164,61,135,453,143,295,50,60,1366,1,402,9,1810,68,37,3,483,778,1276,611
 Small States	7060,4849
 Small States Can Move Differently Ambassador	9741
 Small States Navigate	7857
@@ -2344,6 +2353,7 @@ Southwest State Ministry of Livestock	15093
 Sovereignty and Strategic Autonomy Policy Statement	7548
 Space Exploration Technologies Corp. Registration Statement	6467
 Spain Sri Lanka State of Palestine Sudan	11765
+Spain’s State Meteorological Agency	18869
 Special Circumstances Thematic Policy Statement	16951
 Special Funds and State-Owned Enterprises	14830
 Specify State Party	1243
@@ -2351,14 +2361,14 @@ Spectrum Management States	12395
 Speech Commissioner HHS Statement	11283
 Speech STATEMENT FOR H.E. Moses Vilakati	11283
 Speech Statement	14724
-Staff Statement	17326
+Staff Statement	17326,1497
 Standardized Statement of Accounting Policies	18444
 Standards Council of MSB STATEMENT OF MEMBERS	14736
 StatEduc	1017,930,12,1007,3082,2339,3809
 StatEduc-2	17830
 StatEduc2	15639,2191,313,28
 StatEduc2. Pour	18170
-State	27,369,33,6,1,1,150,157,39,6,143,26,3,8,1,2,18,23,81,111,9,29,21,24,288,115,123,4,10,63,198,2,5,17,4,28,114,48,188,23,23,34,39,2,110,1,15,2,15,16,40,37,96,57,15,41,92,10,21,1,4,188,32,27,25,122,21,61,49,58,19,70,26,25,215,50,10,19,64,134,16,59,9,25,12,151,66,52,29,37,36,21,59,32,9,11,4,200,12,70,30,44,98,11,33,3,41,13,39,31,1,7,4,23,19,62,59,9,37,83,26,72,180,44,33,7,109,84,3,12,57,38,57,87,17,9,36,2,109,57,64,46,97,122,73,39,11,96,4,22,59,22,9,31,150,64,12,135,14,70,67,39,38,85,7,229,34,80,11,12,1,10,23,68,47,43,270,35,12,148,9,144,108,1,87,135,11,46,20,89,21,2,85,59,97,16,116,216,103,1,10,6,11,27,12,9,16,5,87,21,5,6,7,8,9,1,1,30,7,42,20,24,6,5,8,28,2,1,3,6,2,3,2,2,1,13,1,1,2,3,6,6,7,3,5,1,15,1,3,2,10,3,137,100,7,5,7,17,33,21,56,41,24,37,31,1,56,2,2,3,2,22,1,10,5,5,1,19,14,10,3,3,1,20,10,8,4,6,16,18,12,4,83,8,6,8,1,14,11,3,13,4,22,5,21,41,1,7,35,1,12,1,4,14,4,23,3,28,29,3,28,61,1,3,4,6,5,1,20,41,22,10,59,51,45,74,1,1,1,6,3,4,6,8,9,1,6,15,8,3,15,2,3,51,7,20,36,12,19,58,91,11,7,1,1,1,8,6,2,1,2,1,1,3,5,13,13,29,1,5,4,12,17,32,6,12,23,11,37,20,5,73,15,208,6,43,18,9,10,2,14,5,8,34,5,66,50,61,106,6,35,69,69,4,42,42,28,7,72,1,1,31,7,4,3,2,1,4,1,2,3,9,1,5,3,17,6,4,31,19,1,12,2,7,2,1,7,2,1,2,5,6,3,3,15,21,14,1,14,11,49,29,23,43,23,1,51,1,6,22,38,92,4,2,32,19,54,10,16,7,4,8,19,7,48,4,1,33,32,5,38,40,2,37,151,22,8,38,55,1,16,65,30,32,36,67,86,225,59,70,18,93,3,3,3,4,4,4,12,11,12,30,7,1,18,7,2,5,2,12,2,45,1,77,32,30,71,61,5,2,35,7,40,20,40,32,33,62,84,7,3,9,10,65,2,10,25,8,82,14,9,41,16,159,21,24,20,24,65,30,12,54,11,8,52,4,3,1,8,19,6,106,16,3,1,18,12,34,30,34,12
+State	27,369,33,6,1,1,150,157,39,6,143,26,3,8,1,2,18,23,81,111,9,29,21,24,288,115,123,4,10,63,198,2,5,17,4,28,114,48,188,23,23,34,39,2,110,1,15,2,15,16,40,37,96,57,15,41,92,10,21,1,4,188,32,27,25,122,21,61,49,58,19,70,26,25,215,50,10,19,64,134,16,59,9,25,12,151,66,52,29,37,36,21,59,32,9,11,4,200,12,70,30,44,98,11,33,3,41,13,39,31,1,7,4,23,19,62,59,9,37,83,26,72,180,44,33,7,109,84,3,12,57,38,57,87,17,9,36,2,109,57,64,46,97,122,73,39,11,96,4,22,59,22,9,31,150,64,12,135,14,70,67,39,38,85,7,229,34,80,11,12,1,10,23,68,47,43,270,35,12,148,9,144,108,1,87,135,11,46,20,89,21,2,85,59,97,16,116,216,103,1,10,6,11,27,12,9,16,5,87,21,5,6,7,8,9,1,1,30,7,42,20,24,6,5,8,28,2,1,3,6,2,3,2,2,1,13,1,1,2,3,6,6,7,3,5,1,15,1,3,2,10,3,137,100,7,5,7,17,33,21,56,41,24,37,31,1,56,2,2,3,2,22,1,10,5,5,1,19,14,10,3,3,1,20,10,8,4,6,16,18,12,4,83,8,6,8,1,14,11,3,13,4,22,5,21,41,1,7,35,1,12,1,4,14,4,23,3,28,29,3,28,61,1,3,4,6,5,1,20,41,22,10,59,51,45,74,1,1,1,6,3,4,6,8,9,1,6,15,8,3,15,2,3,51,7,20,36,12,19,58,91,11,7,1,1,1,8,6,2,1,2,1,1,3,5,13,13,29,1,5,4,12,17,32,6,12,23,11,37,20,5,73,15,208,6,43,18,9,10,2,14,5,8,34,5,66,50,61,106,6,35,69,69,4,42,42,28,7,72,1,1,31,7,4,3,2,1,4,1,2,3,9,1,5,3,17,6,4,31,19,1,12,2,7,2,1,7,2,1,2,5,6,3,3,15,21,14,1,14,11,49,29,23,43,23,1,51,1,6,22,38,92,4,2,32,19,54,10,16,7,4,8,19,7,48,4,1,33,32,5,38,40,2,37,151,22,8,38,55,1,16,65,30,32,36,67,86,225,59,70,18,93,3,3,3,4,4,4,12,11,12,30,7,1,18,7,2,5,2,12,2,45,1,77,32,30,71,61,5,2,35,7,40,20,40,32,33,62,84,7,3,9,10,65,2,10,25,8,82,14,9,41,16,159,21,24,20,24,65,30,12,54,11,8,52,4,3,1,8,19,6,106,16,3,1,18,12,34,30,34,12,30,3,17,22,16
 State AI Observatory	11135
 State Abbreviation International	11129
 State Accessibility	14958
@@ -2388,6 +2398,7 @@ State Border Changes	13948
 State Border Management and Trade Facilitation Single	13403
 State Budget	5841,186,5509,319,84,16
 State Budget Allocations	16032
+State Budget Proposal	18797
 State Budgets	11536
 State Building	13902,1030
 State Building Contract III	18500
@@ -2706,7 +2717,7 @@ State Owned	11224
 State Owned Corporations	11854
 State Owned Enterprise	1282,8875,1083
 State Owned Enterprise Sub-Saharan Africa	10157
-State Owned Enterprises	789,12167
+State Owned Enterprises	789,12167,5869
 State Owned Enterprises SG Statistician General	11192
 State Owned Enterprises and CEOs	12557
 State Owned Entities	12956
@@ -2771,6 +2782,7 @@ State Security Agency TTOS Trusted Tour	11218
 State Security Statistical Agencies Capacitation Regulatory	961
 State Service	11976
 State Service Establishment	11976
+State Services	18796
 State Shareholding Policy	17503
 State Social Protection Policy	12135
 State Sponsor	14897
@@ -2979,7 +2991,7 @@ State-Owned Companies	14753
 State-Owned Companies’ Support Services	11272
 State-Owned Company	11250
 State-Owned Desert Lands	15473
-State-Owned Enterprise	1228,2145,5598,99,1081,1079,2151,487,1279,406,1389
+State-Owned Enterprise	1228,2145,5598,99,1081,1079,2151,487,1279,406,1389,1883
 State-Owned Enterprise Governance	13868
 State-Owned Enterprise Great Horn Investment Holding	13868
 State-Owned Enterprise Reform Task Team	11131,3
@@ -3030,15 +3042,17 @@ State-of-the-Nation-Address	12567
 State-of-the-art	18446
 State-of-the-art European	5846
 State-of-the-art Info-structure PILLAR	14752
-State-owned	18,1800,437,929,421,109,155,114,1050,25,1331,103,24,102,257,10,960,126,1004,264,327,1393,36,202,51,276,462,286,913,823,760,625,80,1366,103,172
+State-owned	18,1800,437,929,421,109,155,114,1050,25,1331,103,24,102,257,10,960,126,1004,264,327,1393,36,202,51,276,462,286,913,823,760,625,80,1366,103,172,1711
 State-owned Commercial Banks	7589
 State-owned Company	14835
 State-owned Distribution	4301
 State-owned Enterprise Governance and Investment Management	5187
+State-owned Enterprise Reform and Privatization	18825
 State-owned Enterprise. Page	11525
-State-owned Enterprises	396,12586,1026,2964
+State-owned Enterprises	396,12586,1026,2964,1825
 State-owned Enterprises Governance Act	12905
 State-owned Enterprises SOEs	16972
+State-owned Enterprises When São Tomé and Príncipe	18797
 State-owned Facilities	4301
 State-owned Facilities for Warehousing	4301
 State-owned Libya Telecom and Technology	4554
@@ -3111,7 +3125,7 @@ Statelessness Regional Strategic Meeting Publish	17323,1
 Statelessness Report	17323,1
 Statelessness Statistics	13873
 Statelessness and Climate Change Factsheet	1867
-Statement	1243,292,200,95,158,638,281,807,387,288,3,191,313,1292,244,1116,958,537,60,1210,408,47,25,21,340,2,25,16,1,11,26,605,485,17,22,119,146,17,20,384,3,258,9,23,77,146,58,1050,64,6,2,31,58,15,179,185,243,172,84,39,81,1041,77,10,76,172,48,18,51,177,406,81,164,288,35,23,12,44,20,1,155
+Statement	1243,292,200,95,158,638,281,807,387,288,3,191,313,1292,244,1116,958,537,60,1210,408,47,25,21,340,2,25,16,1,11,26,605,485,17,22,119,146,17,20,384,3,258,9,23,77,146,58,1050,64,6,2,31,58,15,179,185,243,172,84,39,81,1041,77,10,76,172,48,18,51,177,406,81,164,288,35,23,12,44,20,1,155,91
 Statement 0.pdf Author	13122
 Statement AICT000 of Code Series AICT	11235
 Statement AICT000 of Code Series AICT000	11235
@@ -3183,6 +3197,7 @@ Statements	571,983,2429,182,2222,45,2004,1745,132,627,1046,260,1231,2,2933,676,1
 Statements Bi-weekly Executive Reports Reports	11131
 Statements Data	8376
 Statements Reports Legislations Magazines Media Events	12390
+Statements and Messages	18846
 Statements and Questions. Consequently	10313
 Statements and Reports	3714
 Statements and The Receiver of Revenue	14546
@@ -3327,6 +3342,7 @@ Swiss State Secretariat for Migration	15222
 Systems Edo State's DHIS2-based EMIS	11970
 T1 Role-modelling Brazil United States Tier	10764
 TA European Union State Building Technical	18488
+TA Technical Assistance USD United States	18754
 TABLE OF CONTENT Statement	18576
 TABLE OF CONTENTS STATEMENT OF FINANCIAL	14736
 TENURE IN CAMEROON The Ministry of State	10987
@@ -3339,6 +3355,8 @@ Tags Deputy Secretary of State Equatorial Guinea	17237
 Tajikistan Turkmenistan Iraq Jordan Lebanon State	13042
 Tanzania’s State Telecom Targets	6083
 Taraba State	11860,6294
+Tax Base and Governance of State-Owned Enterprises	18825
+Tax Base and Governance of State-Owned Enterprises Indicator	18825
 Taxation and State Properties Department	18293
 Taxpayer Experience Statement	8670
 Taxpayer Experience Statement VAT Modernisation	8670
@@ -3365,6 +3383,7 @@ U.S. Department of State and Liberia. All	4202
 U.S. Department of State's Bureau of International Narcotics	13754
 U.S. Department of State. Health	7187
 U.S. Department of State’s Bureau of International Narcotics	17330
+U.S. Department of State’s Office of Overseas Citizens	18842,37
 U.S. Dept of State	4472
 U.S. Secretary of State	6534
 U.S. Secretary of State Marco Rubio	4426,1124
@@ -3460,7 +3479,7 @@ United Nations. State Minister Bereket Feshatsion	14121
 United State	14030
 United State Agency for International Development and United	17289
 United State of America N	12151
-United States	10,561,196,194,4,73,185,11,9,120,191,168,92,183,99,21,40,1,121,6,233,159,1,91,6,94,55,151,157,173,36,21,20,72,29,43,25,135,188,75,78,5,21,1,11,2,35,13,2,30,11,2,1,40,1,43,4,3,74,21,1,66,24,45,86,5,82,31,174,11,57,13,2,104,15,2,48,3,26,15,30,15,50,14,5,66,19,27,67,66,84,16,57,90,138,196,1,1,28,37,2,60,60,24,61,6,43,1,13,8,40,51,39,7,11,9,77,14,12,4,2,41,30,18,32,17,1,50,154,23,3,32,33,2,12,88,102,5,97,29,35,26,57,25,30,30,9,78,72,103,7,1,45,31,5,84,133,112,19,33,21,81,30,26,10,30,78,1,63,10,42,17,55,39,10,42,29,25,8,59,33,8,34,21,106,203,29,84,3,106,253,20,67,22,11,13,22,47,80,80,13,1,1,154,3,99,12,1,79,12,14,22,5,2,92,65,31,14,4,41,36,4,5,9,5,15,108,33,32,221,9,37,76,7,171,5,12,29,13,68,10,25,53,6,67,57,2,46,9,36,24,192,23,342,55,25,37,41,68,164,7,32,55,104,25,37,74,2,1,76,323,106,20,1,24,113,35,33,3,45,21,157,35,30,35,7,2,11,20,17,154,13,6,1,35,65,95,107,11,201,13,47,47,141,211,135,28,13,140,600,1,12,15,60,122,103,2,3,1,5,4,24,97,181,1,140,12,16,188,7,90,13,85,136,5,16,77,7,32,37,223,47,74,41,5,43
+United States	10,561,196,194,4,73,185,11,9,120,191,168,92,183,99,21,40,1,121,6,233,159,1,91,6,94,55,151,157,173,36,21,20,72,29,43,25,135,188,75,78,5,21,1,11,2,35,13,2,30,11,2,1,40,1,43,4,3,74,21,1,66,24,45,86,5,82,31,174,11,57,13,2,104,15,2,48,3,26,15,30,15,50,14,5,66,19,27,67,66,84,16,57,90,138,196,1,1,28,37,2,60,60,24,61,6,43,1,13,8,40,51,39,7,11,9,77,14,12,4,2,41,30,18,32,17,1,50,154,23,3,32,33,2,12,88,102,5,97,29,35,26,57,25,30,30,9,78,72,103,7,1,45,31,5,84,133,112,19,33,21,81,30,26,10,30,78,1,63,10,42,17,55,39,10,42,29,25,8,59,33,8,34,21,106,203,29,84,3,106,253,20,67,22,11,13,22,47,80,80,13,1,1,154,3,99,12,1,79,12,14,22,5,2,92,65,31,14,4,41,36,4,5,9,5,15,108,33,32,221,9,37,76,7,171,5,12,29,13,68,10,25,53,6,67,57,2,46,9,36,24,192,23,342,55,25,37,41,68,164,7,32,55,104,25,37,74,2,1,76,323,106,20,1,24,113,35,33,3,45,21,157,35,30,35,7,2,11,20,17,154,13,6,1,35,65,95,107,11,201,13,47,47,141,211,135,28,13,140,600,1,12,15,60,122,103,2,3,1,5,4,24,97,181,1,140,12,16,188,7,90,13,85,136,5,16,77,7,32,37,223,47,74,41,5,43,86,45,37
 United States AMS HI	17743
 United States African Network	13331
 United States Agency for International Development	396,370,453,42,563,8944,9,229,125,875,162,11,746,37,370,34,88,613,75,165,36,91,188,437,599,1175,43,59,8,6,11,10,1,1339,314
@@ -3475,6 +3494,7 @@ United States Agency for International Development WB	16975
 United States Ambassador	6199,65
 United States American	16978
 United States Artificial Intelligence Institute	7564
+United States Celebrates	18879
 United States Centers for Disease Control and Prevention	10641,2284
 United States Citation Ocks	8022
 United States Civil Registry	10714
@@ -3486,10 +3506,11 @@ United States Department of Commerce	15901
 United States Department of Energy. Retrieved	12325
 United States Department of State	3972,181,11,38,58,41,1051,1454,9095,1071,265,560
 United States Department of State Published	15092
-United States Department of State Search	16972
+United States Department of State Search	16972,1825
 United States Department of State URL	16972,1230
 United States District Court	5692
-United States Dollar	4653,243,5869,10,2278,132,753,611,73,163,2193
+United States Dollar	4653,243,5869,10,2278,132,753,611,73,163,2193,1792
+United States Dollar IFC International Finance	18851
 United States Dollar IPRS Integrated Population	12297
 United States Dollar Ten Million Five	17011
 United States Dollar Thirteen Million Six	17011
@@ -3557,7 +3578,7 @@ United States and CAR	4340,5,7
 United States and Cameroon	12517
 United States and Cameroon Announce	12517
 United States and Canada	11085
-United States and China	2117,3085,1401,548,580,1438,899,778,289,2397,4248
+United States and China	2117,3085,1401,548,580,1438,899,778,289,2397,4248,1016
 United States and China. EU	10710
 United States and China. Mario Draghi	9832
 United States and China. Section	7151
@@ -3582,6 +3603,8 @@ United States and South Korea	11028
 United States and South Korea. Minerva	11050
 United States and Sudan	14890
 United States and Sweden. Industrial and Corporate Change	15424
+United States and São Tomé and Príncipe	18842,37
+United States and São Tomé and Príncipe. Today	18879
 United States and Uganda	4217
 United States of America	1243,624,908,1197,77,104,1,10,3,50,30,11,44,47,90,89,259,326,1500,1232,688,1112,573,495,72,394,715,257,59,209,93,133,317,22,138,1,187,151,1,421,547,312,51,17,102,989,143,175,332,29,290,66,22,20,132,661,109,54,486,115
 United States of America Data Controller INST-449650E1463	7167
@@ -3621,7 +3644,7 @@ United States. PIX	9832
 United States. Part	1435
 United States. Rather	6231
 United States. Retrieved	1243
-United States. Section	16972
+United States. Section	16972,1825
 United States. Since the Cooperation Framework	4154
 United States. State	5692
 United States. The Balkans	12088
@@ -3726,6 +3749,7 @@ World Bank's State Fiscal Transparency	2364
 World Bank. A Statement	13741
 World Bank. The State of Social Safety	16952
 World Meteorological Organisations’ State	1814
+Worldwide Caution The Department of State	18842,37
 Yambio State Hospital	18697
 Yambio State Hospital. Together	18697
 Year Statement	4535

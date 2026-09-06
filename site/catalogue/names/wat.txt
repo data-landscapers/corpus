@@ -169,6 +169,7 @@ Drought Risk and Water Availability	17157
 Drought Watch	17157
 EAGB Water and Electricity of Guinea Bissau	11549
 ECOWAS ICT Regulatory Watch	17870
+EMAE Water and Electricity Company	18777
 EU Water Framework Directive	17157
 EWSC Eswatini Water Services Corporation FAO	12970
 East Africa Hazard Watch	14103
@@ -246,6 +247,7 @@ HOUSEHOLD ACCESS TO WATER	15574
 HOUSEHOLD WATER AND SANITATION	13454,1793
 Habari TANZANIA NA HUAWEI WATIA SAINI	7863
 Harakat El Binaa El Watani	15394
+Head Above Water. São Tomé and Príncipe	18809
 Health Coverage WASH Water	16922
 Health Organization WSIM Water Supply Infrastructure	718
 Health Policy Watch	4202,224,1030,3023
@@ -265,6 +267,7 @@ I Actions Watch	17157
 I.4 TESTING DRINKING WATER QUALITY	15574
 IA. WAT	8219
 IBM Watson	2816,14107,1
+IBM Watson XPRIZE AI for Good	18776
 IDA-financed Water and Electricity Upgrading Project	15702
 INS. Open Data Watch	16421
 Immunodéficience Humaine Volontaires des Nations Unies Water	14622
@@ -281,6 +284,7 @@ Inland Waterways Transport	14409
 Inland Waterways Transport ARTICLE	14409
 Inland Waterways Transport The Partner States	14409
 Installing Household Drinking Water Connections Achieving	15578
+Institute of Water	18787
 Integrated Land and Water Resources Management	15129
 Integrated National Water Quality Management Policy	2626
 Integrated Water Quality Management Policy	2626
@@ -437,10 +441,12 @@ Nairobi City Water and Sewerage Company	7548
 Nairobi. Watajikuta	17630
 Nama Water Services	8428
 National Framework for Water and Climate Services	13060
+National Institute for Water	18787
 National Institute for Water Resources	11380
 National Integrated Water Resources Management	17257
 National Integrated Water Resources Management Plan	14745,3
 National Public Health Institute of Liberia Water	17011
+National Wat	18787
 National Water Act	2626
 National Water Action Plan	8599
 National Water Authorities	17157
@@ -451,6 +457,7 @@ National Water Conservation and Pipeline Corporation	14546
 National Water Crisis Committee	8599
 National Water Directorate	11380
 National Water Harvesting and Storage Authority	12254
+National Water Institute	18787
 National Water Policy	1988,12757,3
 National Water Policy for South Africa	2626
 National Water Resource Management Agency	18578
@@ -483,7 +490,7 @@ ONEE Water	8905
 ONG WATERDROP	9620
 Olifantspoort and Ebenezer Water Supply Programme	11248
 Onkani Sauyemwa Water Tower	12933
-Open Data Watch	3884,2453,876,1214,7053,897,44
+Open Data Watch	3884,2453,876,1214,7053,897,44,2356
 Open Data Watch and Development Gateway	6337
 Open Data Watch and PARIS21	8427
 Open Data Watch's Open Data Inventory	769
@@ -636,11 +643,12 @@ Treatment Plant Household Drinking Water Connections	15578
 Treatment of Drinking Water	15247
 Trend of Non-Revenue Water	718
 Trend of Water	718
+UAE Highlights Water Resilience	18759
 UN Water Conference	14075
 Under Water and Sanitation Sector	718
 United Nations Children’s Fund WASH Water	15518
 United Nations University Institute for Water	8258,6415
-United Nations Water Conference	18550
+United Nations Water Conference	18550,209
 Upgrading of Piton Du Milieu Water Treatment	14830
 Urban Planning Water Sanitation Education Finance	18476
 V&A Waterfront	8564
@@ -767,7 +775,7 @@ Watching	8642
 Watching Kona	9007
 Wateja	6019
 Watendaji	2868,3151
-Water	395,23,300,222,30,258,326,270,4,160,440,198,149,276,1477,719,222,100,581,272,481,44,396,205,710,341,524,5,309,705,339,267,11,17,18,41,2,1,130,184,4,36,39,5,9,3,21,14,134,172,131,124,26,16,1,1,1,11,98,154,1,1,9,12,17,37,24,87,1,11,1,36,19,3,34,43,13,10,1,9,410,31,2,6,7,76,143,114,75,2,73,14,88,123,58,44,6,238,2,45,12,13,153,290,20,107,63,9,33,40,12,10,34,48,48,57,58,44,67,176,146,34,22,30,55,72,12,46,467,180,30,397,26,7,4,16,19,108,56,6,9,3,22,10,7,1,93,1,6,32,214,286,78,16,79,9,128,271,73,17,16,7,21,28,11
+Water	395,23,300,222,30,258,326,270,4,160,440,198,149,276,1477,719,222,100,581,272,481,44,396,205,710,341,524,5,309,705,339,267,11,17,18,41,2,1,130,184,4,36,39,5,9,3,21,14,134,172,131,124,26,16,1,1,1,11,98,154,1,1,9,12,17,37,24,87,1,11,1,36,19,3,34,43,13,10,1,9,410,31,2,6,7,76,143,114,75,2,73,14,88,123,58,44,6,238,2,45,12,13,153,290,20,107,63,9,33,40,12,10,34,48,48,57,58,44,67,176,146,34,22,30,55,72,12,46,467,180,30,397,26,7,4,16,19,108,56,6,9,3,22,10,7,1,93,1,6,32,214,286,78,16,79,9,128,271,73,17,16,7,21,28,11,252
 Water Abstraction Licensing Regulation	17228
 Water Access	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Water Access Absence of Corruption	10835,3,130,902,16,466,1,135
@@ -936,6 +944,7 @@ Water and Climate	940
 Water and Climate Services	11283
 Water and Electricity	12962
 Water and Electricity Allowance	13096
+Water and Electricity Company	18825
 Water and Electricity Upgrading Project	10857
 Water and Electricity of Guinea-Bissau	11549
 Water and Energy	7538,7196
@@ -952,6 +961,8 @@ Water and Land Information Management	15129
 Water and Land Reform	12923,1,255
 Water and Meteorology	12942
 Water and Plant Analysis Laboratory	17306
+Water and Power Supply Company	18797,54
+Water and Power Supply Company PER Public	18851
 Water and Rural Developement	13320
 Water and Rural Development	1554,2188,8765,813,74,81
 Water and Rural Development. Digital	12507

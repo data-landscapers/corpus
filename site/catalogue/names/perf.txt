@@ -77,9 +77,11 @@ Application Security Project PFS Perfect Forward	11952
 Aspect Impact Mitigatio Frequenc Time Performance	1988
 Assessment Area Network Performance Service Quality	5676
 Assessment of Bank Performance	10779,4109,2072
-Assessment of Bank and Borrower Performance	16614
+Assessment of Bank and Borrower Performance	16614,2140
+Assessments Indicators Rating Performance	18754
 Assurance Review TASS Performance Assessment Report	12500
 Attachment III. Performance Assessment Report	12500
+Audiovisual Performances	18797
 Authority PERFORMANCE OF THE NATIONAL CREDIT	11198
 Availability and Performance	11995
 Axe Stratégique Indicateurs de Performance Cible	14622
@@ -120,12 +122,12 @@ Bulletin de Performance Sanitaire N	16722
 Burkina Faso Restoring Education System Performance	15743
 Business Performance	3898
 Business- Critical High Performance Standard Basic	5665
-C. BANK PERFORMANCE	15424,239,68,1221,910
+C. BANK PERFORMANCE	15424,239,68,1221,910,903
 C. BANK PERFORMANCE Quality	11924,3500,239,2299
 C. BANK’S PERFORMANCE	15511
 C. BANK’S PERFORMANCE Quality	15511
 C. Project Performance	16896,26
-C. Ratings Summary C.1 Performance Rating	16614
+C. Ratings Summary C.1 Performance Rating	16614,2140
 C. Tax Revenue Performance and Challenges Tax	10997
 CADRE DE PERFORMANCE ET DE SUIVI	17845
 CADRE DE PERFORMANCE PS-SNISS	17845
@@ -196,7 +198,7 @@ D Performance	15493
 D'INTERIM PERFE BCEIP	16623
 D. Load and Performance Testing	13185
 D. Original Project Description and Performance	15983
-DATA ON FINANCIAL PERFORMANCE	2712,1976,1891,349,949,2993,525,576,257,39,173,587,31,1922,179,576,2,276,66,626,289,6,79,17,374,35,399,54,48,127,217,4,1,179
+DATA ON FINANCIAL PERFORMANCE	2712,1976,1891,349,949,2993,525,576,257,39,173,587,31,1922,179,576,2,276,66,626,289,6,79,17,374,35,399,54,48,127,217,4,1,179,258,25
 DATA SHEET RATINGS OF PROJECT PERFORMANCE	15511
 DC. The Performance and Learning Review	15659
 DCDT Performance Information	11230
@@ -353,7 +355,7 @@ Frw16Bn AMOUNTING TO IN VALUE PERFORMANCE	15023
 Functional Performance Requirements	10616
 Fund Performance	4528,7984
 G Operator Performance Trend	6051
-G. Ratings of Project Performance	16614
+G. Ratings of Project Performance	16614,2140
 GAC Performance Reports	17364
 GAC Strategic Performance Review Report	17364
 GOVERNMENT PERFORMANCE REPORT FOR THE PERIOD	12950
@@ -435,7 +437,7 @@ INTERNATIONAL COOPERATION ANNUAL PERFORMANCE REPORT	13126
 INTERNATIONAL MONETARY FUND Performance Assessment Report	12500
 INTRODUCTION The Annual Health Service Performance	16971
 IV- PERFORMANCE DU PORTEFEUILLE	2342
-IV. BANK PERFORMANCE	11924,3500,177,62,68,705,516,910,100
+IV. BANK PERFORMANCE	11924,3500,177,62,68,705,516,910,100,803,60
 IV. BANK’S PERFORMANCE	15511
 IV. FISCAL PERFORMANCE	12922,34,167
 IV.BANK’S PERFORMANCE	15511
@@ -581,6 +583,7 @@ MINISTRY’S RECURRENT BUDGET PERFORMANCE	12962
 MINISTRY’S RECURRENT BUDGET PERFORMANCE Estimated	12962
 MINPMEESA Strategic Performance Framework	10980
 MOBILE NETWORK PERFOMANCE	12395
+MODIFICATION OF PERFORMANCE CRITERIA	18823
 MOH ANNUAL HEALTH SECTOR PERFORMANCE REPORT	16971
 MOH Performance Management and Compliance System	16971
 MONETARY POLICY STANCE DOMESTIC ECONOMIC PERFORMANCE	15023
@@ -625,6 +628,7 @@ Moderately Satisfactory Bank Performance	14948
 Moderately Satisfactory. Bank Performance	15704
 Moderately Unsatisfactory Overall Bank Performance Rating	10779
 Modernize Ministry Performance	9009
+Modification of Performance Criteria	18823
 Moh user ANNUAL REPORT ON PERFORMANCE	14773
 Monitoring and Evaluation of Operational Performance	5677
 Monitoring and Evaluation of Operational Performance Finally	5677
@@ -658,6 +662,7 @@ National Performance-Based	1284,583,12686,1068,40,1261
 National Performance-Based Allocation	18625
 National Performance-Based Allocations	1264,4098,6603,4984
 Needs Improvement and Poor Performer	11131
+Negligible Bank Performance	18754
 Network Performance	6946,383
 Network Performance Following	14151
 Network Performance Network Performance Powered	6051
@@ -727,7 +732,7 @@ PERFORMANCE AGAINST KEY HEALTH SECTOR	16971
 PERFORMANCE AND SCALABILITY STANDARDS	11952
 PERFORMANCE AUDIT REPORT OF THE AUDITOR-GENERAL	15657
 PERFORMANCE BENCHMARKS	4153
-PERFORMANCE CRITERIA	13741,2011,2238
+PERFORMANCE CRITERIA	13741,2011,2238,833
 PERFORMANCE Cameroon	15480
 PERFORMANCE DASHBOARD SCHEDULE	14723
 PERFORMANCE DE LA REGULATION	15769
@@ -756,6 +761,8 @@ PERFORMANCE REPORT FOR THE FINANCIAL YEAR	13126
 PERFORMANCE REPORT ON THE MINISTRY’S CAPITAL	12975
 PERFORMANCE REPORT TO PARLIAMENT	12971
 PERFORMANCE SUMMARY BY CAPITALS	13133
+PERFORMANCE UNDER THE ECF ARRANGEMENT	18823
+PERFORMANCE UNDER THE ECF ARRANGEMENT 8 POLICY	18823
 PERFORMANCES	16714
 PERFORMANCES FINANCIÈRES EN	2342
 PERFORMANT	10975
@@ -807,6 +814,7 @@ Pay for Performance for Improved Health	15977
 Pay-As-You-Go PBR Performance-Based Regulation PPAs Power	12399
 Pedormance Indicators Performance	17394
 Percentage Top Performer	11131
+Percentagem Perfil	18762
 Perf Sénégal	7571
 Perfec-	18077
 Perfeccionamiento	11529,5346
@@ -815,7 +823,7 @@ Perfect for ISPs	13704
 Perfect. Thank	7065
 Perfectionnement	15424,144,2260,14,136
 Perfectionnement Professionnel des Jeunes	13630
-Perfil	11441,15,75,12,4,4147,1910
+Perfil	11441,15,75,12,4,4147,1910,1158
 Perfil Demográfico	2138
 Perfil Urbano	15388
 Perfil da Empresa. Disponível	2816
@@ -823,6 +831,7 @@ Perfil de Provincia	16864
 Perfil de Saída	16325
 Perfil de Saída Em	12019
 Perfilagens	11405
+Perfilhação	18834
 Perfis	11444
 Perfis de Fluxo de Programas	17093
 Perfluoro	12253
@@ -842,7 +851,7 @@ Perform Linkage YESYES NO NO C	8604
 Perform Occupational Health and Safety Act	11986
 Perform Testing Services	5665
 Performanc	10829,3917
-Performance	22,6,391,347,234,161,103,113,1,158,408,152,246,433,621,107,148,256,219,41,35,15,43,41,48,214,46,472,271,313,435,81,915,667,272,266,527,63,155,82,189,97,282,159,302,564,43,11,54,33,113,1,155,3,2,4,55,3,26,7,19,19,20,128,108,356,1,42,28,3,9,22,17,299,44,13,141,31,1,367,20,3,8,26,14,7,60,5,11,70,62,87,120,11,15,56,3,27,28,153,55,251,141,19,373,15,1,198,7,1,13,2,12,4,37,21,20,7,73,50,12,22,61,84,329,19,92,148,6,87,91,276,414,15,3,2,73,4,109,7,13,37,3,8,27,44,25,120,1,22,17,37,58,6,3,27,77,3,74,117,311,5,28,7,9,72,196,100,32,1,169,68,21,51,5
+Performance	22,6,391,347,234,161,103,113,1,158,408,152,246,433,621,107,148,256,219,41,35,15,43,41,48,214,46,472,271,313,435,81,915,667,272,266,527,63,155,82,189,97,282,159,302,564,43,11,54,33,113,1,155,3,2,4,55,3,26,7,19,19,20,128,108,356,1,42,28,3,9,22,17,299,44,13,141,31,1,367,20,3,8,26,14,7,60,5,11,70,62,87,120,11,15,56,3,27,28,153,55,251,141,19,373,15,1,198,7,1,13,2,12,4,37,21,20,7,73,50,12,22,61,84,329,19,92,148,6,87,91,276,414,15,3,2,73,4,109,7,13,37,3,8,27,44,25,120,1,22,17,37,58,6,3,27,77,3,74,117,311,5,28,7,9,72,196,100,32,1,169,68,21,51,5,121,69,15
 Performance Against Targets	5245
 Performance Agreement	16858
 Performance Agreements	12706
@@ -1007,16 +1016,17 @@ Performance Testing Regular	11952
 Performance Testing Requirement	11952
 Performance The African Development Bank	12256
 Performance Trends	14985
+Performance Upgrades Donec	18837
 Performance and Accountability	4528,7984
 Performance and Cash Flow Metrics	9103
 Performance and Challenges	10997,288
 Performance and Compliance. The Project	13392
 Performance and Conformance Monitoring G04 Investigate	9237
 Performance and Continuous Improvement	11131,3
-Performance and Data Localization Requirements	14008,2964
+Performance and Data Localization Requirements	14008,2964,1825
 Performance and Impact of Starlink's Satellite Internet	2846
 Performance and Improving Resilience Project	15743
-Performance and Learning Review	579,10385,960,1044,363,2080,247,85,1206,509
+Performance and Learning Review	579,10385,960,1044,363,2080,247,85,1206,509,1367
 Performance and Learning Review. Despite	17962
 Performance and Reliability	6432
 Performance and Results	13860
@@ -1051,7 +1061,7 @@ Performance-Based Budgeting	14748
 Performance-Based Cash Grants	10964
 Performance-Based Condition	13860,689,2414
 Performance-Based Condition PBG	12175
-Performance-Based Conditions	773,511,583,1022,673,42,2935,4229,61,135,453,143,1771,1,411,1395,415,68,37,1,2,141,181,161,494,16,1,267
+Performance-Based Conditions	773,511,583,1022,673,42,2935,4229,61,135,453,143,1771,1,411,1395,415,68,37,1,2,141,181,161,494,16,1,267,1887
 Performance-Based Conditions Disbursement	15515
 Performance-Based Financing	10829,3030
 Performance-Based Financing Unit	16971
@@ -1106,6 +1116,7 @@ Prevention of Sexual Exploitation and Abuse PVS Performance	15966
 Primary Health Care Performance Initiative	17869
 Primary Healthcare Performance Initiative	17869
 Primary Healthcare Performance Initiative. The PHCPI	17869
+Principe National Performance-	18809
 Private Sector Performance and Job Creation	17862
 Private and Cabinet Office First Quarter Performance	13226
 Procedures Performed	4896
@@ -1204,6 +1215,7 @@ SECTEUR ELECTRIQUE PERFORMANT	10975
 SECTEUR ELECTRIQUE PERFORMANT XV Rapport	10975
 SECURITY ANNUAL PERFORMANCE REPORT	13126
 SEP. Several Key Performance Indicators	16926
+SPI Statistical Performance Indicator STEP Systematic	18777
 SPMM School Performance Management Meeting SQAD	16852
 SRA Performance Indicators Project	15478
 SRA’s Performance Indicators Project Team	15478
@@ -1216,8 +1228,9 @@ STRENGTHENING HEALTH SYSTEM PERFORMANCE AND PREPAREDNESS	10829
 SUMMARY OF KEY PERFORMANCE	15716
 SUMMARY OF KEY PERFORMANCE INDICATOR	14985
 SUPPLIER PERFORMANCE MANAGEMENT	11209
-Satisfactory Borrower Performance	16614
+Satisfactory Borrower Performance	16614,2140
 Satisfactory E&S Performance	18374
+Satisfactory Performance Financial	18809
 Satisfactory RATINGS OF PROJECT PERFORMANCE	15424
 Satisfactory. Bank Performance	15990
 Satisfactory. C. BANK PERFORMANCE Quality	15601
@@ -1336,6 +1349,7 @@ Vendor Performance Reviews GCSPs	6432
 WAIVERS OF NONOBSERVANCE OF PERFORMANCE CRITERIA	17209
 WCO Performance Measurement Mechanism	17201
 WIPO Performances and Phonograms Treaty	13985
+WIPO Performances and Phonograms Treaty. Enforcement	18797
 Waiver of Applicability of Performance Criteria	17990
 Worker Performance	18318
 World Bank Performance	16436

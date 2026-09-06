@@ -19,6 +19,7 @@ Algeria's Yassir Buys Uno Hypermarkets	5397
 Alliance for Hydromel Development ASECNA Agency	11553
 Alliance for Hydromet Development	14448
 Alliance for Hydromet Development. The Alliance	18309,269
+Alliance for Hydrometeorological Development. The Alliance	18787
 Aménagement Hydro Agricole BAD	18118
 Aménagement Hydroélectrique	16037
 Analysis of Hydrological Trends	18198
@@ -47,6 +48,7 @@ Burkina Faso Ministry of Health and Public Hygiene	10881
 Business Development Director of Hytera	2511
 CEO of Hydro-Link	15870
 CHAPITRE VII RISQUES ET HYPOTHESES VII.1	15722
+CHD Methodology The Hydrometeorological Diagnostic	18787
 CICrêtes BIO OSTEO HYGIMED Révision	16103
 CICrêtes HYGIMED Révision PROJET DE PROGRAMME	16103
 CM-CH.S10 Hygiene CM-CH.S11	10721
@@ -55,8 +57,8 @@ CM-CH.S2 Hygiene Tier	10721
 CM-CH.S3 Hygiene	10721
 CODE DES DOUANES CODE DES HYDROCARBURES	15449
 CONTRE LES MALADIES A TRANSMISSION HYDRIQUE	15456
-COUNTRY HYDROMET	11553,2176,4849
-COUNTRY HYDROMET DIAGNOSTICS	18309,269
+COUNTRY HYDROMET	11553,2176,4849,209
+COUNTRY HYDROMET DIAGNOSTICS	18309,269,209
 COUNTRY HYDROMET DIAGNOSTICS Element	18578
 COUNTRY HYDROMET DIAGNOSTICS Informing	14448
 COUNTRY HYDROMET URL	13729
@@ -104,8 +106,9 @@ Conservateur des Hypo-	15349
 Conservateur des Hypothèques	15349
 Conservation des Hypothèques	15349
 Construction Hydro Solaire Hydro Tshopo Kasaï	15670
-Country Hydromet Diagnostics	11553,2176,719,3861,269
-Country Hydromet Diagnostics Element	11553,1812,1083,3861
+Country Hydromet Diagnostic	18787
+Country Hydromet Diagnostics	11553,2176,719,3861,269,209
+Country Hydromet Diagnostics Element	11553,1812,1083,3861,478
 Cyber CM-CH.S4 Hygiene	10721
 Cyber CM-CH.S8 Hygiene	10721
 Cyber CM-CH.S9 Hygiene	10721
@@ -343,6 +346,7 @@ Hydro-Mekin	10975
 Hydro-Mékin	15542
 Hydro-electric	14422
 Hydro-meteorological	17962
+Hydro-électrique	18757
 HydroFem Autonomisation	16693
 HydroMet AI	17969
 Hydrobox Kenya Ltd Distribution and Supply	12256
@@ -403,12 +407,17 @@ Hydrologiques	17873
 Hydrologists	15914,1243
 Hydrology	11420,833,3882,1120,1323
 Hydrology AgroMet Agrometeorological AIFS African Integrated	18578
+Hydrology Element	18787
 Hydrology XVII. Bellingham	15129
 Hydrology and Meteorology Regional Centre	15129
 Hydrology and Meteorology. AIBD	18309
-Hydromet	17962,236,111
+Hydromet	17962,236,111,478
 Hydromet Diagnostics CSO Civil Society Organization	11553
-Hydrometeorological	18309
+Hydromet-type	18787
+Hydrometeorological	18309,478
+Hydrometeorological Diagnosis	18787
+Hydrometric	18787
+Hydrometry	18787
 Hydrométéorologie	15371
 Hydroneo	13433
 Hydroponic Farming Units MoALMR	17157
@@ -596,6 +605,7 @@ Julius Nyerere Hydropower Project	9492,287
 K PROJET D'AMENAGEMENT HYDROELECTRIQUE DE SOUAPITI	16623
 KASI Hyperscale Data Centre	14381
 KASSACK-SUD TRANSPORT HYDROCARBURES	18322
+KEMRI and The London School of Hygiene	18776
 KOFFI Hyacinthe	2342
 Kang Hyung-shik	8274
 Karuma Hydropower	18736
@@ -641,6 +651,7 @@ MW Lower Maguduza Hydropower Plant	13123
 MW Mpatamanga Hydro	13060
 MW Tedzani Hydro Power Plant	13060
 MW. Hydropower	14947
+MWp Hydro	18795
 Maguduza Hydro Plant	12956
 Maguga Hydro Plant	12956
 Malagasy National Meteorological and Hydrological Service	14448
@@ -813,7 +824,7 @@ TEXTES GENERAUX MINISTERE DES HYDROCARBURES Arrêté	15615
 TRANSMISSION HYDRIQUE Art	15456
 TSS HYGIMED ISO	16103
 TWh. Hydropower	13624
-Table of Contents COUNTRY HYDROMET DIAGNOSTICS	18309,269
+Table of Contents COUNTRY HYDROMET DIAGNOSTICS	18309,269,209
 Taux Source Observation Hypertension	15724
 Tencent's Hy3	10038
 Terms of Reference Feasibility Study for Hydrogen Power	14947
@@ -843,6 +854,7 @@ WASH Hygiène	18077
 WASH Water Sanitation and Hygiene WBT Working	970
 WMO Hydrological Advisories	17157
 WMO Hydrological Observing System	16239
+WMO Hydrology Survey	18787
 Warak Hybride	10975
 Water Quality and Hydrology	17114
 Water Sanitation and Hygiene	970,13652,2300

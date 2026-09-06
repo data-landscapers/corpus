@@ -16,7 +16,7 @@ AGRIC SHOW Mambo	12454
 AGRICHEM AFRICA LIMITED Data Controller INST-7396380818D	7167
 AGRICOLE	17820
 AGRICOLE ET SECURITE ALIMENTAIRE DEVELOPPEMENT DES	15999
-AGRICULTURA	4209
+AGRICULTURA	4209,14548
 AGRICULTURAL AND OTHER ECONOMIC ACTIVITIES CHAPTER	14903
 AGRICULTURAL AREA AND PLANTED AREA	17043
 AGRICULTURAL DATA GOVERNANCE FRAMEWORK	14575
@@ -36,7 +36,7 @@ AGRICULTURAL PRODUCTIVITY IN BURUNDI	13624
 AGRICULTURAL PURPOSES	17043
 AGRICULTURAL SECTOR	12090
 AGRICULTURAL SUB-PROJECT ACTIVITIES Date Submitted	1988
-AGRICULTURE	737,12287,396,54,1553,1691,182,35,293,1091
+AGRICULTURE	737,12287,396,54,1553,1691,182,35,293,1091,438
 AGRICULTURE AND FOOD SECURITY	14409
 AGRICULTURE AND FOOD SECURITY ARTICLE	14409
 AGRICULTURE EXTRACTIVE MANUFACTURING CONSTRUCTION SERVICES	17235
@@ -47,6 +47,7 @@ AGRICULTURE MÉDIA	2342
 AGRICULTURE STRATEGY Ref No MW-MOA-516371-CS-INDV	13083
 AGRIHUB	1009
 AGRINATURA	13325
+AGRIPLAMA	18797
 AGRIPSYCH BEAM LIMITED Data Controller INST-8527681FC29	7167
 AGRIPSYCH BEAM LIMITED Data Processor INST-8527681FC29	7167
 AGRIS	18291,276
@@ -195,11 +196,13 @@ Agriculteurs	17584,361
 Agriculteurs Connectés de Guinée	9325
 Agricultores	1701,9725,53,48
 Agricultu	18324
-Agricultura	1265,436,1115,1393,1454,2340,45,2439,270,633,31,61,45,15,5,30,324,78,798,46,2610,1054,351,37,23,71,12,112,7
+Agricultura	1265,436,1115,1393,1454,2340,45,2439,270,633,31,61,45,15,5,30,324,78,798,46,2610,1054,351,37,23,71,12,112,7,1657,3,7,8,91
 Agricultura FETP Programa de Formação	11376
 Agricultura FMI Fondo Monetario Internacional GBR	16898
 Agricultura FND	1701
 Agricultura FRA Informe	16875
+Agricultura GAVI Aliança	18783
+Agricultura INE	18794
 Agricultura Inteligente	2816
 Agricultura Sem	10777
 Agricultura Utilizando	2816
@@ -365,7 +368,7 @@ Agricultural and Marine Media Subsidize	17157
 Agricultural and Mining Agricultural and Mining	16853
 Agriculturalists	6948
 Agriculturally	17285
-Agriculture	278,117,23,102,123,94,52,151,30,161,30,393,40,88,5,91,36,24,102,48,343,3,8,131,88,63,1,150,33,124,25,108,178,340,21,138,117,2,165,51,49,75,81,246,97,32,238,85,97,167,3,120,913,142,12,514,72,131,5,3,8,116,255,7,3,76,38,8,61,145,102,94,197,34,18,15,142,181,56,3,100,468,39,81,69,6,45,27,115,93,198,16,228,17,211,69,92,171,5,73,15,19,1,24,21,15,28,1,15,17,130,13,48,77,15,5,11,9,102,62,55,57,282,3,15,44,19,50,41,15,142,7,11,146,1,19,9,18,10,18,26,44,6,4,1,86,64,13,14,79,177,11,6,10,3,54,24,2,5,33,7,11,11,1,21,146,5,5,10,2,2,6,5,6,10,17,17,10,5,4,9,4,11,24,32,1,43,2,12,30,51,11,24,37,42,10,9,43,1,16,37,172,16,50,8,231,1,60,51,116,18,19,9,25,3,6,34,12,45,50,49,11,6,1,4,33,1,17,5,1,38,30,32,88,33,12,8,66,162,6,4,50,34,12,1,1,5,21,18,24,38,3,129,3,5,11,26,6,173,6,31,26,21,17,10,2,55,13,27,31,68,6,32,4,2,36,36,12,10,3,101,1,61,69,4,1,6,14,4,23,25,25,115,19,9,11,4,8,1,1,14,16,5,23,5,1,1,1,14,4,3,2,10,7,4,15,32,62,11,11,11,1,1,9,8,71,7,22,3,14,15,75,3,70,11,35,20,20,61,39,189,8,4,3,1,1,12,1,2,16,1,12,3,8,15,1,11,4,21,9,4,13,16,4,1,20,13,12,4,31,31,5,1,4,11,36,5,13,28,1,6,16,7,11,27,2,19,5,2,8,5,3,10,103,13,21,2,25,24,5,51,14,106,6,11,7
+Agriculture	278,117,23,102,123,94,52,151,30,161,30,393,40,88,5,91,36,24,102,48,343,3,8,131,88,63,1,150,33,124,25,108,178,340,21,138,117,2,165,51,49,75,81,246,97,32,238,85,97,167,3,120,913,142,12,514,72,131,5,3,8,116,255,7,3,76,38,8,61,145,102,94,197,34,18,15,142,181,56,3,100,468,39,81,69,6,45,27,115,93,198,16,228,17,211,69,92,171,5,73,15,19,1,24,21,15,28,1,15,17,130,13,48,77,15,5,11,9,102,62,55,57,282,3,15,44,19,50,41,15,142,7,11,146,1,19,9,18,10,18,26,44,6,4,1,86,64,13,14,79,177,11,6,10,3,54,24,2,5,33,7,11,11,1,21,146,5,5,10,2,2,6,5,6,10,17,17,10,5,4,9,4,11,24,32,1,43,2,12,30,51,11,24,37,42,10,9,43,1,16,37,172,16,50,8,231,1,60,51,116,18,19,9,25,3,6,34,12,45,50,49,11,6,1,4,33,1,17,5,1,38,30,32,88,33,12,8,66,162,6,4,50,34,12,1,1,5,21,18,24,38,3,129,3,5,11,26,6,173,6,31,26,21,17,10,2,55,13,27,31,68,6,32,4,2,36,36,12,10,3,101,1,61,69,4,1,6,14,4,23,25,25,115,19,9,11,4,8,1,1,14,16,5,23,5,1,1,1,14,4,3,2,10,7,4,15,32,62,11,11,11,1,1,9,8,71,7,22,3,14,15,75,3,70,11,35,20,20,61,39,189,8,4,3,1,1,12,1,2,16,1,12,3,8,15,1,11,4,21,9,4,13,16,4,1,20,13,12,4,31,31,5,1,4,11,36,5,13,28,1,6,16,7,11,27,2,19,5,2,8,5,3,10,103,13,21,2,25,24,5,51,14,106,6,11,7,50,13,7,18,2,54
 Agriculture AI	4528,7984
 Agriculture About	16921
 Agriculture Act Cap	18466
@@ -541,6 +544,7 @@ Agriculture and Research	14879
 Agriculture and Rural Development	1228,13041
 Agriculture and Rural Equipment	18293
 Agriculture and Rural Projet	10985
+Agriculture and Services	18797
 Agriculture and Social Statistics	12962
 Agriculture and Social Statistics Division	12962
 Agriculture and Waste	12261
@@ -772,6 +776,7 @@ Departments of Agriculture	11188
 Dept of Agriculture	7167
 Deputy Chief Agriculture Officer Prof. Aiah	9965
 Deputy Minister of Agriculture and Animal Husbandry	18220
+Desenvolvimento da Agricultura	18760
 Development Authority FAO Food and Agriculture Organization	17043
 Development DoA Department of Agriculture DOD Department	11261
 Development of Agricultural Services and Irrigation Services	15578
@@ -795,6 +800,7 @@ Director of Agriculture and Environment Division	13896
 Directorate of Agriculture	15473,2836
 Directorate of Agriculture DEEC	18309
 Directorate of Agriculture DIREL	18309
+Direcção Regional da Agricultura	18760
 Distribution of Agricultural Holdings	17043
 Distribution of Agricultural Households	16921
 Distribution of Agriculture	16935
@@ -912,6 +918,7 @@ FinTech and AgriTech	4528
 Finance Assessment European Union Food and Agriculture	16973
 Finance Manufacturing Professional Health Arts Agriculture	14985
 Financial Agriculture Insurance Financial	14997
+Financial Service Providers Ministry of Agriculture	18770
 Financing and Investment for Agri-Innovation	14818
 First Agri-PV	14745
 Fishing Agricultural	17043
@@ -1183,7 +1190,7 @@ Ministries of Lands and Resettlement and Agriculture	12912
 Ministro da Agricultura	15503,493
 Ministro de Agricultura	16925
 Ministry Of Agriculture	16863
-Ministry of Agriculture	940,221,361,165,180,121,574,310,711,945,719,982,44,673,273,600,364,725,577,41,124,820,293,5,163,254,368,76,268,217,44,23,13,29,44,24,34,87,100,27,2,106,27,27,39,97,75,10,1,8,14,11,1,5,10,5,65,7,31,3,10,1,1,28,242,38,107,282,186,20,4,2,34,54,33,21,5,11,146,255,63,371,132,9,340,72,39,69,726,14,450,5,5,58,11,8,12,4,16,3,73,4,23,29,6,9,13,13,17,8,51,58,15,17,5,55,1,231,438,162,103,167,110
+Ministry of Agriculture	940,221,361,165,180,121,574,310,711,945,719,982,44,673,273,600,364,725,577,41,124,820,293,5,163,254,368,76,268,217,44,23,13,29,44,24,34,87,100,27,2,106,27,27,39,97,75,10,1,8,14,11,1,5,10,5,65,7,31,3,10,1,1,28,242,38,107,282,186,20,4,2,34,54,33,21,5,11,146,255,63,371,132,9,340,72,39,69,726,14,450,5,5,58,11,8,12,4,16,3,73,4,23,29,6,9,13,13,17,8,51,58,15,17,5,55,1,231,438,162,103,167,110,219
 Ministry of Agriculture Agriculture	17011
 Ministry of Agriculture By Dorcas Kabuya	13366
 Ministry of Agriculture Immediate Ban	17157
@@ -1234,8 +1241,9 @@ Ministry of Health and Ministry of Agriculture. Accelerate	14020
 Ministry of Lands and Agriculture	1663,977,2996,1005,595,5369
 Ministry’s Agricultural and Animal Extension	17157
 Ministère Agriculture	3396
-Ministério da Agricultura	3519,7235,9,6,800,18,3948,755,744,291,87
-Ministério de Agricultura	11530
+Ministério da Agricultura	3519,7235,9,6,800,18,3948,755,744,291,87,1348,7,5
+Ministério da Agricultura DGTH	18794
+Ministério de Agricultura	11530,7264,4
 Mission AgriConnect Initiative	14576
 MoA Ministry of Agriculture MoH Ministry of Health	17289
 MoA&I Ministry of Agriculture and Irrigation MOAR&F Ministry	15118
@@ -1351,6 +1359,7 @@ Parastatal Agricultural Marketing Board	14847
 Parlementaires CNCAS Caisse Nationale de Crédit Agricole	18286
 Partial Agricultural Collapse Full Agricultural Collapse	17157
 Participatory Integrated Climate Services for Agriculture	4172
+Pequenos Agricultores	18760
 Percentage Agriculture	2775
 Percentage Distribution Agricultural Households	16921
 Percentage Distribution of Agricultural Households	16921
@@ -1393,6 +1402,7 @@ Promotion of Precision Agriculture Precision	14818
 Prospective DSA Direction des Statistiques Agricoles DSEE	15479
 Provincial and District AGRITEX	520
 Provision of Agricultural Extension Services	13060
+Príncipe MADR Ministério da Agricultura	18757
 Public Agriculture Monitoring Activity	12194
 Q3. Agricultural	17503
 Quality Management System RAB Rwanda Agricultural	14985
@@ -1406,6 +1416,7 @@ RRPP RREE Agricultura	4209
 RUMMUN Yashin Krishna Harry Agricultural	14770
 RURALES ET MECANISATION AGRICOLE GOUVERNANCE ET	15999
 Rainfall Anomaly Index Agricultural NDVI	17157
+Ramos Ministro da Agricultura	18773
 Rapports des Modules Agricoles RGPHAE	2624
 Re-organizing Agricultural R&D	16861
 Real Agriculture Growth Rate	2775
@@ -1415,6 +1426,7 @@ Recommendations Agricultural Land Protection	17157
 Recorded Marketed Agricultural Production	2775
 Recursos Hídricos Sí Ministerio de Agricultura	16898
 Refugee Agricultural Value Chains for Economic	10841
+Regarding Agriculture	18770
 Regenerative And Sustainable Agriculture	14818
 Regional Agricultural Delegations	17969
 Regional Agricultural Trade	10841

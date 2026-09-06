@@ -122,7 +122,7 @@ Budgetary Constraints and Efficiency	16867
 Burundi’s Efforts To Improve Remittance Inflows...........6	13388
 BÉNÉFICIAIRES EFFECTIFS	3868
 Bénin EFB	15475
-C. EFFICIENCY	15424,87,90,62,68,1221,897,13
+C. EFFICIENCY	15424,87,90,62,68,1221,897,13,903
 C. EFFICIENCY Assessment of Efficiency and Rating	15511,90,62
 C. EFFICIENCY Assessment of Efficiency and Rating Efficiency	15424,2538
 C. EFFICIENCY Assessment of Efficiency and Rating Rating	11924
@@ -212,6 +212,7 @@ Closing Rev. Closing IDA-75110 Effective	17079
 Closing Rev. Closing IDA-75340 Effective	17904
 Closing Rev. Closing IDA-79260 Effective	7877
 Closing Rev. Closing IDA-E0600 Effective	18534
+Closing Rev. Closing IDA-E0730 Effective	18817
 Closing for Withdrawal Applications IDA-E0930 Effective	1284
 Cloud Commercial Efficiency Cloud-by-default Compliance	6432
 Collection Efficiency	12062,6124,31
@@ -296,6 +297,8 @@ Design Efficiency Ratios	9123
 Design for Greater Efficiencies	1264,2340,7813
 Design for Greater Efficiencies EDGE Financial Management	11417
 Design for Greater Efficiencies High Multinational School	3604
+Despesas Efectivas	18853
+Despesas Efetivas	18798
 Deuxième Enquête Nationale Sur Les Effectifs	17945
 Developing Government Effectiveness	5349
 Development EFA Education For All EMIS	16852
@@ -314,7 +317,9 @@ Disbursed IDA-70470 Effective	18355
 Disbursed IDA-72690 Effective	18350
 Disbursed IDA-75030 Effective	18006
 Disbursed IDA-79260 Effective	7877
+Disbursed IDA-D8180 IDA-D3080 Effective Effective	18792
 Disbursed IDA-E0600 Effective	18534
+Disbursed IDA-E0730 Effective	18817
 Disbursed IDA-E2940 Effective	17096
 Disbursed P166601 IDA-63670 Effective USD	18473
 Disbursed P167478 IDA-D4840 Effective USD	16638
@@ -336,6 +341,7 @@ Duplication of Effort Due	15960
 Duration and Level of Effort	12754
 Dynamic Effects of Tax Audits	18318
 Dépôt Effectifs	13390
+Dívida Produção Efetiva Diferença Considerando	18793
 E&S Environmental and Social EFA Economic and Financial	1867
 E-Government Effectiveness Index	16641
 E-council Services Enhance Efficiency At Solwezi	13670
@@ -359,6 +365,7 @@ EF-RF Land	17140
 EF-RF Lands Uncertainty	17140
 EF38E6A	15724
 EFA Education for All	11860
+EFA Education for All EFOPE Teacher Training	18765
 EFA Goals	13960
 EFA and ITAP	11916
 EFA and NEPAD	16852
@@ -373,6 +380,7 @@ EFDs. Likewise	12948
 EFECTIVA E EFICIENTE	16487
 EFECTIVA E EFICIENTE Uma Administração Pública	16487
 EFECTIVO ESCOLAR	10766
+EFECTIVOS DE PESSOAL Unidades	18793
 EFECTO INVERNADERO	16875
 EFECTO INVERNADERO Escala	16875
 EFEITOS DA NÃO TRANSFERÊNCIA DE RECEITAS	17100
@@ -413,11 +421,11 @@ EFFETS PUBLICS ET VALEURS ASSIMILEES	17841
 EFFETS PUBLICS ET VALEURS ASSIMILES	17841
 EFFICACITÉ EXTERNE	18143,27
 EFFICACITÉ INTERNE	18143,27
-EFFICACY	11924,636,2864,87,90,62,68,228,477,516,897,13,100
+EFFICACY	11924,636,2864,87,90,62,68,228,477,516,897,13,100,803,60
 EFFICACY TBL OBJECTIVE	10779,4109,2072
 EFFICIENCE Investissements	8637
 EFFICIENCY	12701,246,4,144,3790
-EFFICIENCY ANALYSIS	11924,3500,87,152,68,705,1413,13
+EFFICIENCY ANALYSIS	11924,3500,87,152,68,705,1413,13,903,60
 EFFICIENCY ANALYSIS A. External Efficiency	16436
 EFFICIENCY ANALYSIS Financial Analysis	15424
 EFFICIENCY FOR BROADBAND SERVICES	16884
@@ -452,6 +460,8 @@ EFKEN LEASING LTD Data Controller INST-541270110B5	7167
 EFKEN LEASING LTD Data Processor INST-541270110B5	7167
 EFLOPS	11502
 EFOFATPublié	8673
+EFOPE	18765
+EFOPE and ISEC	18765
 EFP App	11607
 EFRIS	2744,828,4174
 EFSA Enquête	15580
@@ -474,6 +484,7 @@ EKABA EFAMBO	15524
 EMELIA EFFAH GYANE MINTER MINTER	15845
 EMPLOIS EFFECTIFS	15410
 EMPLOIS Effectifs	16171
+ENDE. Efetivamente	18794
 ENERGY EFFICIENCY	12358
 ENERGY EFFICIENCY ACT Regulations	14814
 ENERGY EFFICIENCY AND DEMAND-SIDE MANAGEMENT	14947
@@ -507,7 +518,8 @@ Efectiva	11367
 Efectiva da IA	2816
 Efectivamente	2729,12662
 Efectivação	12311
-Efectivo	10766,6256
+Efectividade Governamental	18767,5
+Efectivo	10766,6256,1823
 Efectivo da Polícia Nacional	11392
 Efectivo de Professores	10766
 Efectos	16855
@@ -515,9 +527,10 @@ Efectos de Valor	17022
 Efectos de Valor. Igualmente	17022
 Efectos de Valor. Los	17022
 Efectuada	11425
-Efectuar	167,10586,30,600,14,33,19,9,60
+Efectuar	167,10586,30,600,14,33,19,9,60,7255
+Efectuem	18752
 Efeito	11582
-Efeitos	10755,605,5,96,440,3443
+Efeitos	10755,605,5,96,440,3443,3407
 Efeitos da Suspensão	11383
 Eferol MBINGA Mmes	16175
 Efetiva	15694
@@ -594,7 +607,7 @@ Effectifs des Chercheurs	18286
 Effectifs des Etudiants	18286
 Effectifs des Etudiants des Grandes Ecoles Publiques	18286
 Effectifs5000	18286
-Effective	396,544,21,39,131,88,29,34,69,419,218,724,165,71,783,130,188,210,173,103,88,65,94,462,3,35,383,11,1,2,421,102,230,161,113,152,88,2,215,114,1,61,209,203,256,10,58,208,58,188,163,32,399,6,108,162,93,42,82,58,143,21,39,62,30,82,266,23,215,46,163,16,13,204,9,127,1,4,2,14,2,37,19,19,5,25,24,132,60,76,146,156,2,4,55,24,16,38,60,36,86,9,16,9,4,19,13,7,44,5,54,9,4,5,2,68,3,53,124,51,227,5,60,37,38,11,5,9,18,49,72,89,17,2,30,21,53,44,70,92,61,44,139,70,127,60,60,5,238,6,7,7,117,36,46,89,9,5,31,38,15,45,56,21,9,15,54,32,56,8,19,10,5,178,69,107,83,3,57,2,9,65,164,912,19,9,2,9,6,5,9,6,6,1,30,28,25,17,11,15,19,18,68,41,100,3,145,65,33,381,25,216,8,50,110,16,166,3,34,44,22
+Effective	396,544,21,39,131,88,29,34,69,419,218,724,165,71,783,130,188,210,173,103,88,65,94,462,3,35,383,11,1,2,421,102,230,161,113,152,88,2,215,114,1,61,209,203,256,10,58,208,58,188,163,32,399,6,108,162,93,42,82,58,143,21,39,62,30,82,266,23,215,46,163,16,13,204,9,127,1,4,2,14,2,37,19,19,5,25,24,132,60,76,146,156,2,4,55,24,16,38,60,36,86,9,16,9,4,19,13,7,44,5,54,9,4,5,2,68,3,53,124,51,227,5,60,37,38,11,5,9,18,49,72,89,17,2,30,21,53,44,70,92,61,44,139,70,127,60,60,5,238,6,7,7,117,36,46,89,9,5,31,38,15,45,56,21,9,15,54,32,56,8,19,10,5,178,69,107,83,3,57,2,9,65,164,912,19,9,2,9,6,5,9,6,6,1,30,28,25,17,11,15,19,18,68,41,100,3,145,65,33,381,25,216,8,50,110,16,166,3,34,44,22,209,8
 Effective AI	6948,600,2389,410,4218,36
 Effective AML	2193
 Effective Administration	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135
@@ -630,6 +643,7 @@ Effective Governance Model	1777
 Effective Governance Systems and Institutions	12987
 Effective Governance Through	11332
 Effective ICT Governance and Management	12359
+Effective Implementation	18795
 Effective Implementation of Actions and Activities	1777
 Effective Institutions	13474
 Effective Internal Pro	13005
@@ -648,6 +662,7 @@ Effective Oversight	15713
 Effective PPP Research	13991
 Effective PPP Research Cooperation and Learning Digital	13991
 Effective Page	16144
+Effective Partnerships	18787
 Effective Practice and Organisation of Care	8376
 Effective Publishers	13462
 Effective Regulations	12376
@@ -682,7 +697,7 @@ Effectively Communication Key Health Messages	17289
 Effectively They Tackle the Gender Gap	17870
 Effectively Use Data	15960
 Effectivement	6827,2021,1978,4716,2343
-Effectiveness	2055,463,1086,3229,1188,1216,1748,390,488,439,21,33,197,42,459,4,273,391,9,207,142,392,383,30,11,60,203,213,39,70,178,4,74,108,114,31,154,470,270,101,114,342,452,211,29,328,33,63,21,45
+Effectiveness	2055,463,1086,3229,1188,1216,1748,390,488,439,21,33,197,42,459,4,273,391,9,207,142,392,383,30,11,60,203,213,39,70,178,4,74,108,114,31,154,470,270,101,114,342,452,211,29,328,33,63,21,45,131
 Effectiveness ARTICLE V	16144
 Effectiveness Analysis.2003	16922
 Effectiveness Art	14976
@@ -771,7 +786,7 @@ Efficacité Temps	15936
 Efficacité du Conseil	2342
 Efficacité du Gouvernement	4325
 EfficacitéÉnergétique	16691
-Efficacy	10779,4109,623,152,773,524
+Efficacy	10779,4109,623,152,773,524,1865
 Efficacy Rating PDO PDO	15663
 Efficacy of PDO	15663
 Efficience	10712,2629,500
@@ -780,7 +795,7 @@ Efficience Dans	13635
 Efficience Pour	1679
 Efficience Taux	16328
 Efficiencies	11986
-Efficiency	718,71,1039,1667,1411,102,861,3713,575,611,208,155,109,568,66,7,26,9,8,138,147,137,10,2,53,9,168,10,366,78,11,242,36,673,147,352,245,4,62,41,33,109,427,87,168,34,723,415,1,8,24,1,42,22,11,481,663,357,73
+Efficiency	718,71,1039,1667,1411,102,861,3713,575,611,208,155,109,568,66,7,26,9,8,138,147,137,10,2,53,9,168,10,366,78,11,242,36,673,147,352,245,4,62,41,33,109,427,87,168,34,723,415,1,8,24,1,42,22,11,481,663,357,73,220,108
 Efficiency AI	14674
 Efficiency Analysis	15704
 Efficiency Burundi	13349
@@ -796,6 +811,7 @@ Efficiency Rating Substantial	14888
 Efficiency and Access	10768,3688
 Efficiency and Equity of Domestic Financing Over	13349
 Efficiency and Equity of Domestic Financing The ITAP	11907
+Efficiency and Expansion Project	18862
 Efficiency and Sustainability	16885
 Efficiency for Access Coalition	11923,268
 Efficiency for Broadband Services	16884
@@ -843,7 +859,7 @@ Effondrement	18331
 Effondrements	15542
 Effort	10874,2421,1155,3392
 Effortless and Cost Effective Payments for All	11940
-Efforts	571,218,475,290,1322,82,14,632,656,108,308,539,29,23,266,853,255,191,115,3,462,113,238,183,1462,208,353,749,46,16,1,83,22,91,147,10,21,381,50,65,254,35,35,212,19,2,2,4,28,13,14,64,23,11,9,3,34,32,15,26,4,10,51,95,13,147,158,13,8,20,48,7,63,18,85,82,2,4,33,2,71,41,16,133,75,319,18,214,59,327,120,180,10,3,30,32,32,20,7,60,6,16,204,131,7,13,25,86,57,52,12,191,44,64,163,454,3,208,9,80,1,7,21,1,40,6,1,78,9,52,100,32,114,1,466,39,53,163,176,199,64,60
+Efforts	571,218,475,290,1322,82,14,632,656,108,308,539,29,23,266,853,255,191,115,3,462,113,238,183,1462,208,353,749,46,16,1,83,22,91,147,10,21,381,50,65,254,35,35,212,19,2,2,4,28,13,14,64,23,11,9,3,34,32,15,26,4,10,51,95,13,147,158,13,8,20,48,7,63,18,85,82,2,4,33,2,71,41,16,133,75,319,18,214,59,327,120,180,10,3,30,32,32,20,7,60,6,16,204,131,7,13,25,86,57,52,12,191,44,64,163,454,3,208,9,80,1,7,21,1,40,6,1,78,9,52,100,32,114,1,466,39,53,163,176,199,64,60,163
 Efforts Awareness Activities and Partnerships	1777
 Efforts Current	15473
 Efforts So Far	16468
@@ -854,7 +870,9 @@ Efica Santé	17882
 Eficacia	16855,43
 Eficiencia	1701
 Eficiente	11394,5093
-Eficiência	9432,1323,615,9,152,24,343,3791,798,850
+Eficiência	9432,1323,615,9,152,24,343,3791,798,850,1424,2,18,20
+Eficiência Combinada	18793
+Eficiência Comercial	18793
 Eficiência Económica	11430,1
 Eficiência Energética	2816,12868
 Eficiência Num	7948
@@ -938,8 +956,10 @@ Evaluate Effectiveness of Tax Dialogues Comparison	17011
 Evaluate Program Effectiveness	12675
 Evaluate Select Control Baseline Effectivenes Control	1000
 Examen Effectif	13300
+Exames Efectuados	18768
 Examining E-Government Development Effects	5349
-Exchange Rate Effective	969,295,20,583,1022,673,42,2935,4290,135,416,88,57,24,11,345,19,41,211,1155,1,402,8,1,93,25,1076,39,162,52,182,39,13,67,20,7,35,68,37,3,2,39,29,12,39,362,240,14,38,178,282,26,30,489,408,13,242,94,95,8,324
+Excepção Daquele Efectuado	18775
+Exchange Rate Effective	969,295,20,583,1022,673,42,2935,4290,135,416,88,57,24,11,345,19,41,211,1155,1,402,8,1,93,25,1076,39,162,52,182,39,13,67,20,7,35,68,37,3,2,39,29,12,39,362,240,14,38,178,282,26,30,489,408,13,242,94,95,8,324,129,11,12,32,16,26
 Exchange Rate Effective Dec	16032
 Exchange Rate Effective Oct	17458
 Exchange Rates Real and Nominal Effective Exchange	17909
@@ -968,6 +988,7 @@ Feb-2028 TF-C3630 Effective	17096
 Femmes Effectif de Pourcentage	13300
 Femmes Hommes Ensemble Caractéristique Pourcentage Effectif	13300
 Fiber Backbone Energy Efficiency Improvements	1264
+Financ. Correntes RECEITAS EFECTIVAS	18798,55
 Finance Inclusive TEG Taux Effectif Global	10965
 Financial Sector Efficiency	1046
 Financing Approval Effectiveness Closing IDA SASPP	17906
@@ -1003,7 +1024,8 @@ Global Renewables and Energy Efficiency Pledge	18550
 Goal Rationale Effective	17116
 Gobierno. Efectivamente	16865
 Governance and Institutional Effectiveness	15845
-Government Effectiveness	1828,2700,7984,2385,2099
+Government Effecti	18767
+Government Effectiveness	1828,2700,7984,2385,2099,1771,5
 Government Effectiveness Index	2945
 Government Studies. Efficient	14965
 Government and Government Effectiveness and Its Effect	5349
@@ -1078,6 +1100,7 @@ IDA-D6110 Effective	15735
 IDA-D6120 Effective	15735
 IDA-D7730 Effective	17958
 IDA-D7830 Effective	17000
+IDA-D8180 Effective	18792
 IDA-D8410 Effective	18354
 IDA-E2610 Effective	16705
 IDA-E2620 Effective	16705
@@ -1121,6 +1144,8 @@ INTERNAL EFFICIENCIES	16968
 IOnS EfzyHMB-dnTpAYoymtCcxbFc934	10819
 IS. Efficience	16328
 ISF Effectifs	13442
+IV. Receitas Efetivas São	18798
+IX. Despesas Efectivas São	18798
 Impact Cadre de Mesure du Effets Impacts Rendement	18286
 Impact- Effets-Produits Matrices	18286
 Implementation Effectiveness and Key Outcomes	13005
@@ -1179,9 +1204,10 @@ Jul-2026 IDA-D6110 Effective	15735
 Jul-2026 IDA-D6120 Effective	15735
 July. The EFA	15688
 Jun-2016 Expected Effectiveness Date	17441
+Jun-2018 Effectiveness	18792,33
 Jun-2020 Effectiveness	16013,66
 Jun-2021 Effectiveness	18354
-Jun-2022 Effectiveness	11971,6563
+Jun-2022 Effectiveness	11971,6563,283
 Jun-2023 Effectiveness	10870
 Jun-2024 Effectiveness	2712,3867,9158,1342
 Jun-2024 Signing Effectiveness Orig. Closing Rev	6579
@@ -1263,6 +1289,7 @@ Matrice des Intrants Effets	18286
 Mauritius. Effective	14790
 Mauritius. Two Energy Efficiency Competitions	14745
 May-2017 Effectiveness	15731
+May-2018 Effectiveness	18792
 May-2022 Effectiveness Date	15619
 May-2023 Effectiveness	6928
 May-2025 Effectiveness	15159
@@ -1272,7 +1299,9 @@ Merger Remedies Should Prioritize Efficiency and Allow	12389
 Meyang Efac Múltiples	4209
 Microfinance Effectif	13390
 Middle Powers Digital Antitrust Efforts	5044
+Milhões de Dobras. As Despesas Efectivas	18798,55
 Ministry of Education and Training Procurement Unit EFU	12700
+Ministry of Planning and Finance. Effective	18825
 Ministry of Revenue's EFY	1789,1,1,1
 Mme EFOURI-ELOGOEBO Romaine	16381
 Mme Georgina EFFOUA	16381
@@ -1280,6 +1309,7 @@ Mme Sandrine EFFA OBAME	16175
 MoF. Effective	12444
 MoMo and EFT	11666
 Modeling the Effect	11140
+Moderate Legal Covenants Effectiveness IBRD	18777
 Moderating Effects of Process Sophistication and Mimetic	5349
 Modern Energy Enhanced Energy Efficiencies Improved	12515
 Modest Efficacy	16436
@@ -1341,6 +1371,7 @@ Oct-2025 Effectiveness	4688,3189
 Office des Changes. Effectivité	17485
 Officer Effective Date	13068
 Official Use Only IDA-D8410 Effective	18354
+Official Use Only TF-B8649 Effective	18817
 Operación Periodicidad Responsable EF Estadística	16898
 Operación Periodicidad Responsable EF Estadística Cantidad	16898
 Operación Periodicidad Responsable EF Estadística Gastos	16898
@@ -1354,16 +1385,19 @@ Operational Efficiency BUSINESS ENTRY BUSINESS LOCATION	12389
 Operational Efficiency of Arbitration-Related Processes	12389
 Operational Efficiency of Court Processes	12389
 Operational Efficiency of Security Interest and Credit Data	12389
+Orçamento Efectivas	18798,55
 Oscar Nkhuwa Effective	13532
 Oui Effectifs	13390
 Oui Non Effectifs	13390
 Oui Non NSP Effectifs	13390
 Oui Non NSP Total Effectifs	13390
 Oui Non Oui Non Effectifs	13390
+Outros Indicadores Eficiência Técnica	18793
 Overall Effectiveness	15096
 Overall Effectiveness of EMIS	15096
 Overall Efficacy	10779,5657
 Overall Efficacy Rating Substantial	14888
+Overall Efficacy Rating. Table	18825
 Overall Equipment Effectiveness	13185
 P.A EFFECTIF	18032
 PART II LEGAL EFFECT OF ELECTRONIC	12930
@@ -1417,6 +1451,7 @@ Principale- Autre Total Effectif de Principale- Femme	13300
 Prise Effective du Pouvoir	16635,10,6
 Produits Effets Axe	15720
 Produits Effets Impacts P	15720
+Produção Efetivamente Entregue	18793
 Profitability Operational Efficiency Prudential Indicators	11955
 Program Design Effectiveness Risk Internal Audit	3604
 Proibição de Efectuar Serviços de Pagamento	10755
@@ -1460,6 +1495,7 @@ Quelqu’un Effectif	13300
 R EFE R E N C	396
 R Institutional Effectivenes	15845
 REC Effective Refractive Error Coverage EVD	17289
+RECEITAS EFECTIVAS	18798,55
 RECOMENDAÇÕES PARA A ADOPÇÃO EFECTIVA	2816
 RECRUITMENT EFFORTS Vacant Positions DEPARTMENT POSITION	12970
 REER NEER Real and Nominal Effective Exchange	17990
@@ -1475,6 +1511,8 @@ Rating Substantial OVERALL EFFICACY Rationale	14888
 Real Effective Exchange Rate	17317
 Reasons and Effects	7198
 Reasons and Effects Regulation M-A Item	7198
+Receitas Efectivas	18798,55
+Receitas Efetivas	18798
 Reduced Efficiency	16600
 Regional Efforts	6426
 Regional Efforts and International Conventions	10841
@@ -1602,10 +1640,12 @@ TAXES IN EFFECT IN LIBERIA	17011
 TAXES IN EFFECT IN LIBERIA Business	17011
 TB EFFECTIVE TREATMENT COVERAGE	16892
 TF IBRD-90020 Status Effective Approval	11395
+TF IDA-D3080 Status Effective Approval	18792
 TF Status Approval IBRD-96930 Effective	6579
-TF Status Approval Signing Effectiveness Orig	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179
+TF Status Approval Signing Effectiveness Orig	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179,283
 TF Status IBRD-96930 Effective Original Revised	6579
 TF-B3129 Effective	17958
+TF-B8649 Effective	18817
 TF-C1620 Effective	17000
 TF-C3623 Effective	17096
 TF-C3630 Effective	17096
@@ -1613,10 +1653,12 @@ TF-C4543 Effective	17904
 TME Effectif	13300
 Taux Effectif Global	11944
 Taux Effectif Global Tranche	15901
+Taux de Croissance Efectif	18757
 Tax Effort	10997
 Tax Effort Estimates	1828
 TaxNet Effect	13624
 Taxa Anual de Encargos Efetiva Global	16122
+Taxa de Crescimento Efectivo	18757,11
 Taxation for Improved Efficiency	14932
 Taxpayer Compliance and Administrative Efficiency	12948
 Technology and Efficiency Improvements Embrace	17011

@@ -500,6 +500,7 @@ Forensic Science Services N	12984
 Forensic Scientist Cadre	14742
 Forensics Science Laboratory	14745
 Foreword The National Open Science Policy	5246
+Foster Science	18840
 Foundations of Computer Science	13356
 Founder and Scientific Director	3654
 Framework Science and Technology Development. Human Capital	12512
@@ -529,6 +530,7 @@ Gordon Institute of Business Science	1997,4675,4459,3
 Govern Scientific	8380
 Graduate School of Health Care Sciences	16329
 Grand Bassa County. Scientific	17099,15
+Gross Settlement SCI Statistical Capacity Index	18825
 Guinean City of Science and Innovation	16679
 Guinée Structure de Science	16627
 Guinée. Rapport de Science	16627
@@ -1148,7 +1150,7 @@ SciPap	7886
 SciPy. Stats	17157
 Scidev.Net	4674
 Scien	12674
-Science	737,52,57,53,255,7,304,89,156,46,58,282,590,14,9,107,69,73,92,90,218,5,241,257,265,402,26,82,249,49,102,61,120,27,1,1,3,8,17,97,42,110,177,366,108,306,143,209,80,85,365,136,50,171,303,208,150,80,99,14,127,101,213,112,352,98,6,48,156,424,82,8,300,168,8,117,71,5,59,22,85,21,59,5,1,9,58,190,82,288,15,21,1,10,10,26,9,27,39,84,43,26,1,15,29,1,124,22,4,1,5,15,35,67,9,25,32,21,109,1,10,2,4,3,1,1,6,2,4,5,1,1,10,2,9,14,1,7,4,4,20,180,5,1,3,4,77,45,16,195,2,6,21,36,15,66,11,5,197,14,34,253,32,20,161,13,268,4,124,135,18,11,17,37,12,24,49,25,1,28,187,45,291,19,60,38,13,39,30,25,15,135,85,60,99,1,37,14,83,28,11,109,111,41,100,225,24,66,9,7,17,46,84,52,81,109,90,135,69,143,58,32,225,1,6,65,115,32,128,8,6,1,19,32,85,52,40
+Science	737,52,57,53,255,7,304,89,156,46,58,282,590,14,9,107,69,73,92,90,218,5,241,257,265,402,26,82,249,49,102,61,120,27,1,1,3,8,17,97,42,110,177,366,108,306,143,209,80,85,365,136,50,171,303,208,150,80,99,14,127,101,213,112,352,98,6,48,156,424,82,8,300,168,8,117,71,5,59,22,85,21,59,5,1,9,58,190,82,288,15,21,1,10,10,26,9,27,39,84,43,26,1,15,29,1,124,22,4,1,5,15,35,67,9,25,32,21,109,1,10,2,4,3,1,1,6,2,4,5,1,1,10,2,9,14,1,7,4,4,20,180,5,1,3,4,77,45,16,195,2,6,21,36,15,66,11,5,197,14,34,253,32,20,161,13,268,4,124,135,18,11,17,37,12,24,49,25,1,28,187,45,291,19,60,38,13,39,30,25,15,135,85,60,99,1,37,14,83,28,11,109,111,41,100,225,24,66,9,7,17,46,84,52,81,109,90,135,69,143,58,32,225,1,6,65,115,32,128,8,6,1,19,32,85,52,40,76
 Science Academy	4353
 Science Advances	15342,1121
 Science And Technology	899
@@ -1195,6 +1197,7 @@ Science and Engineering Professionals	16266
 Science and English	14922
 Science and English. Outcome	14922
 Science and Higher Education MInT Ministry of Innovation	13991
+Science and Higher Education of STP	18857
 Science and Industry Japan AI Strategy	11135
 Science and Innovation	1614,5218
 Science and Linguistics	16942
@@ -1210,7 +1213,7 @@ Science and Research’s Mission	14747
 Science and Resources	11135
 Science and Scientific Researchers	14073,1895,2002
 Science and Social Science	16942
-Science and Technology	309,590,335,320,2029,543,910,210,265,622,347,517,113,514,217,181,802,143,140,1,336,654,577,508,2,103,229,106,2,300,250,236,101,17,15,112,9,121,33,163,12,16,38,41,120,20,723,334,69,54,333,33,44,320,224,11,1478,35,40,40,6,145,78,134,17,81,118,25,20,64,881,70,17,12
+Science and Technology	309,590,335,320,2029,543,910,210,265,622,347,517,113,514,217,181,802,143,140,1,336,654,577,508,2,103,229,106,2,300,250,236,101,17,15,112,9,121,33,163,12,16,38,41,120,20,723,334,69,54,333,33,44,320,224,11,1478,35,40,40,6,145,78,134,17,81,118,25,20,64,881,70,17,12,130
 Science and Technology Accelerator-Systems	9697
 Science and Technology Act	5036
 Science and Technology Bindura Nickel Corporation Civil	1554
@@ -1339,7 +1342,7 @@ Scientific and Cultural Organization AUC African Union	10835,3,130,902,16,466,1,
 Scientific and Cultural Organization UNFPA United Nations	15604,3020
 Scientific and Cultural Organization UNHCR United Nations	17157
 Scientific and Cultural Organization UNICEF United	12970
-Scientific and Cultural Organization UNICEF United Nations	13312,2,3791,765
+Scientific and Cultural Organization UNICEF United Nations	13312,2,3791,765,895
 Scientific and Cultural Organization UNWTO United Nations	2775
 Scientific and Cultural Organization UPI Unique Project	16996
 Scientific and Cultural Organization USA United States	12512
@@ -1413,6 +1416,7 @@ Social Sciences SSS Sector Statistical System	16927
 Social Sciences and Humanities	8436,3763
 Social Studies of Science	11028,1062
 Social and Economic Sciences	13952
+Social and Human Sciences	18796
 Social and Human Sciences Sector	13557,1436
 Social and Human Sciences and Environment	414
 Software Development and Data Science Units	18481

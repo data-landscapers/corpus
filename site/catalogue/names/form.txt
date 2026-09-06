@@ -212,11 +212,13 @@ Centro de Formación Profesional	4209
 Centro de Formación Profesional de Añisok	4209
 Centro de Formación Profesional de Pesca de Bidiba	17282
 Centro de Formalização de Empresas	17036,130
-Centro de Formação	15910
+Centro de Formação	15910,2933
 Centro de Formação Agrária	15380
 Centro de Formação Autárquica	17062
 Centro de Formação Domingos Ramos Bafata Bafatá	11552
 Centro de Formação Local	10766
+Centro de Formação Profissional Brasil-São Tomé	18760
+Centro de Formação Profissional de Budo-Budo	18870
 Centro de Formação de Professores	11552
 Centro de Formação de Professores Oio Mansoa Private	11552
 Centros de Formación Múltiples Nacional	4209
@@ -226,6 +228,7 @@ Centros de Formación Superior	4209
 Centros de Formación Técnica Profesional	16920
 Centros de Formação Profissional	11387
 Centros de Formação Profissional. Para	11387
+Cerimónia de Encerramento da Formação	18804,3
 Certificados de Título de Terra Formato	11898
 Certification des Formateurs	13390
 Chad Forms Committee	6002
@@ -431,6 +434,7 @@ Escola de Formação	16487
 Escola de Formação Amílcar Cabral	11552
 Escola de Formação Serifo Fall Camara	11552
 Escola de Formação Superior	11552
+Escola de Formação de Professores	18765
 Escola de Formação de Professores Ensino Geral Avaliação	10766
 Escuela Universitaria de Formación	16864
 Espagne Formation	18105
@@ -702,10 +706,11 @@ Form-V	18543
 Form-VI	18543
 Form-factor Pluggable SFP	13185
 Form-feed	10718,3
-Forma	167,382,4620,5597,592,30,61,69,793,464,2605,174,1305
+Forma	167,382,4620,5597,592,30,61,69,793,464,2605,174,1305,1892,2,2
 Forma Electrónica	11374
 Forma Eletrónica Artigo	15477
-Forma Jurídica	10753,6106
+Forma Jurídica	10753,6106,1916
+Forma Jurídica A Forma Jurídica	18775
 Forma da Execução	549
 Forma de Acesso	11425
 Forma de Funcionamento	4147
@@ -739,7 +744,7 @@ Formación de Formadores	17409
 Formación de Recursos Humanos	4209
 Formadora	17308
 Formadores	15359
-Formal	418,522,21,48,815,269,682,808,131,718,96,585,815,286,618,116,199,131,270,215,134,124,1,160,110,84,252,501,93,15,379,1177,147,23,1,12,1,3,153,5,18,24,116,578,31,89,220,32,51,49,10,27,26,36,67,583,219,17,148,955,343,220,88,45,34,178,30,39,62,671,401,69,234,115,74,59,3,15,2,23,110,621,423,143,28,6
+Formal	418,522,21,48,815,269,682,808,131,718,96,585,815,286,618,116,199,131,270,215,134,124,1,160,110,84,252,501,93,15,379,1177,147,23,1,12,1,3,153,5,18,24,116,578,31,89,220,32,51,49,10,27,26,36,67,583,219,17,148,955,343,220,88,45,34,178,30,39,62,671,401,69,234,115,74,59,3,15,2,23,110,621,423,143,28,6,295
 Formal AI-specific	8301
 Formal Account Ownership	11138
 Formal Amendment Pathways	3861
@@ -830,7 +835,7 @@ Formalités	1231,4528,5083,3570,125,812,587,1549,634
 Formalités Administratives	17461
 Formaliza	4557
 Formalizacao de Emprego CIA Confidencialidade	11555
-Formalizar	11376
+Formalizar	11376,7418
 Formalization	12031
 Formalization Program	15473
 Formalization and Social Protection	14039
@@ -848,9 +853,10 @@ Formally Revised Actual Achieved	15663
 Formally Revised Target	15601
 Formalmente	11543
 Formant	17856
-Formar	1701,7857,1818,73
+Formar	1701,7857,1818,73,7311
 Formar Parcerias Público-Privadas	15689
-Formas	13,5156,5591,17,581,4038,44
+Formas	13,5156,5591,17,581,4038,44,3311
+Formas de Casos de TB	18768
 Formas de Comportamentos Controladores	10777
 Formas de Discriminação	11562
 Formas de Discriminação Contra	11557
@@ -876,6 +882,7 @@ Format of Disclosure	11198
 Format of Information Resources	13532
 Format. Issuing Authority Personnel Title	14045
 Format1-day	18039
+Formatação	18801
 Formateur	18249
 Formation	28,207,408,105,960,634,624,154,276,318,174,514,1269,990,166,358,32,417,21,72,42,74,135,291,185,301,136,111,268,543,1,897,110,53,1,69,31,49,155,418,33,277,9,2,26,575,13,376,11,11,357,3,10,1,5,35,34,58,9,57,118,72,13,8,150,12,22,6,381,142,1,1,37,26,1,1,47,824,8,2,5,40,6,2,23,25,3,4,9,1,4,3,4,12,17,12,27,17,10,4,40,11,20,3,12,27,3,46,16,71,15,73,25,4,2,34,11,8,27,51,77,20,1,9,43,2,78,53,12,37,3,18,34,27,23,11,32,15,12,23,5,1,28,45,7,12,113,124,120,359,6,136,239,6,1,6,5,1,3,1,7,3,4,3,10,8,1,6,11,3,39,4,1,3,23,6,4,60,35,4,18,1,5,13,3,17,5,27,116,5,5,10,4,2,7,3,17,7,66,144,41
 Formation Ahmadou Abdoulaye DIALLO Professionnelle	17817
@@ -956,17 +963,17 @@ Formations Sanitaires Privees de Base GESRESS	14442
 Formative	1200,11014
 Formative Assessment	14566
 Formative Evaluation	7548
-Formato	966,10439,493,3656
+Formato	966,10439,493,3656,3220
 Formato da Placa	11373
 Formato de Arquivo SEG-D	11405
 Formato de Arquivo SEG-Y	11405
-Formatos	794
+Formatos	794,17980
 Formats	1984,2230,6778,4603,339
 Formats Fingerprint Data	13005
 Formatted	512,3349,13086
 Formatting	16963
-Formação	167,1264,715,670,876,771,6289,14,6,5,6,577,1,20,32,29,2,4,8,5,65,12,23,1,7,13,439,3505,168,130,142,176,45,300
-Formação Académica	11456
+Formação	167,1264,715,670,876,771,6289,14,6,5,6,577,1,20,32,29,2,4,8,5,65,12,23,1,7,13,439,3505,168,130,142,176,45,300,2265,10,4,15,7
+Formação Académica	11456,7323
 Formação Académica Mínima	11448
 Formação Avançada	15910
 Formação Ciências Exatas	12019
@@ -977,7 +984,9 @@ Formação Média Técnica	10766,653
 Formação Profi	15359
 Formação Profissional	10768,10,609,136,332,163,3468,19,21,9,159,328,165
 Formação Profissional Básica	10766,653
+Formação Profissional Decreto-Lei Instituto de Inovação	18773
 Formação Profissional IMar Instituto	15535
+Formação Profissional MSDM Ministério da Saúde	18779
 Formação Profissional. Todavia	15694
 Formação Prévia	11361
 Formação de Agentes Comunitários	16000
@@ -1114,7 +1123,7 @@ Formulaires	13427,72,161,765,1189,1133
 Formulaires de Soumissions	13524
 Formulam	2816
 Formulamos	10752
-Formular	1701,1818,7855,4076,27,49
+Formular	1701,1818,7855,4076,27,49,3274
 Formularios	12169
 Formulate	396,562,856,56,10486,43,49,514,348,681,790,37,71,824,1006,114,39,12,60,26,144,121,1241
 Formulate EMIS	13310
@@ -1131,7 +1140,7 @@ Formulation of Programmes	16887
 Formulation of Regulation	6512
 Formulação	3519,7235
 Formulação da Reclamação	11369
-Formulação da Visão	15535
+Formulação da Visão	15535,3259
 Formule	10876,1068,3992,1549,837
 Formule Dénombrement des CEC	10876
 Formule L'audit	10876
@@ -1142,7 +1151,7 @@ Formule Un	10876
 Formulent	10876,3661
 Formuler	1702,4999,6589,491,1761,13,1086,1183
 Formules	747
-Formulário	11461,3927
+Formulário	11461,3927,3391,66
 Formulário NIF MOD	12018
 Formulário de Cadastramento	10754
 Formulários	10754,4634
@@ -1223,6 +1232,7 @@ Ia Formaiion Professionnelle	15489
 Ia Formation	15489
 Import Declaration Forms	7695
 Imposto de Consumo.pdf Formulários Imposto de Selo Imposto	12018
+Incident Object Description Exchange Format	18774
 Incident Reporting Forms Refer	775
 Income Tax Self-Assessment Forms	11976
 Indemnity Form Saga	12038
@@ -1281,6 +1291,7 @@ International Form	18628
 International Labour Organization Enterprise Formalization	10823
 Internet FOAD Formation Ouverte	15541
 Introduction of Formal Training and Study Programmes	13998
+Intrusion Detection Message Exchange Format	18774
 Irembo Agent Application Form	12333
 JMIR Form Res. Oct	10919
 JSON Data Exchange Format	11952
@@ -1337,6 +1348,7 @@ Licence Application Forms	736
 Licence Renewal Forms Application for Renewal of Submarine	9109
 Lightning Talks Format	16545
 Liquid Form	14760
+Liquidação de Forma Liquida	18761
 Livestock Breeders’ Associations Form	17157
 Lump-Sum Form of Contract	13037
 L’ALPHABETISATION ET L’EDUCATION NON FORMELLE	18171
@@ -1438,6 +1450,8 @@ Open Data Watch. Formation Internationale Participants	13689
 Optional Formula	3161
 Orange Digital Center Formed	17870
 Organisational TIN Form	16601
+Original Target Actual Value Formally Values	18754
+Original Target Formally Actual Value Values	18754
 Original Target Formally Revised	15424
 Original Target Formally Revised Target Number	15511
 Original Target Yes Formally	15601
@@ -1509,6 +1523,7 @@ Pretas Formato da Placa	11373
 Price Adjustment Formula	13185
 Price Schedule Form Annex VI	14131
 Price Schedule Forms	13185,1895
+Principe. Formação	18804,3
 Pro Forma Information	7198
 Processing Fee for Simplified Customs Assessment Form	14828,3
 Processor Registration Form	15207
@@ -1548,6 +1563,8 @@ QUE SUR LA FORME. Nous	15901
 QUIPE DES FORMATEURS	10237
 Quad Small Form-factor Pluggable RAID Redundant	13185
 Query Form	13108
+R Formato	18774
+R Portable Document Format	18774
 REAS E FORMAS DE COOPERAÇÃO	11455
 RECURSOS HUMANOS Formação	10752
 REGIONAL AGRHYMET FORMATION FORMATIONS CONTINUES FORMATIONS	17941

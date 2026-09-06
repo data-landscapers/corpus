@@ -211,6 +211,7 @@ ENSEIGNEMENTS TIRÉS Retours	16529
 EPT PAT PEFCA PNDE RE RETEP	10766
 ERR Economic Rate of Return ESF Environmental	10768
 ERR Economic Rate of Return ESMF Environmental	11525
+ERR Economic Rate of Return FSDIP Financial	18825
 Early Childhood Development Economic Rate of Return	15601
 Early Retirement	12972
 Early Voluntarily Retirement Scheme	12922
@@ -319,6 +320,7 @@ Income Tax Returns	13142,1391
 Income Tax Returns Kenya Revenue Authority	14526
 Income Tax Returns for Companies	11976
 Income Tax Returns for Individuals	11976
+Indicator IRR Internal Rate of Return ISEC	18765
 Individual Merchants Retail Large Customer Agent	5687
 Individuals Merchants Retail Agents and Category Lite	5687
 Information Model Representational State Transfer Retrieve	1009
@@ -353,6 +355,7 @@ Judicial Retreats	16943
 Just Digital Transformation. Retrieved	1243
 Kagame Retires Three RDF Generals	4942,664,737,183
 Kenya. Retrieved	899
+Knowledge IRR Internal Return Rate ISR	18754
 L RETRAIT	13300
 L'HOTEL RETAJ MORONI Date	13783
 LA COLONNE RETOURNEZ	13300
@@ -586,6 +589,7 @@ Rate of Return IFR Interim Financial Report	17458
 Rate of Return ISP Internet Service Provider	15511
 Rate of Return IT Information Technology IVA	17458
 Rate of Return IVA Independent Verification Agent	15515
+Rate of Return LMIC Lower Middle-Income Country	18809
 ReTAPS	17894
 Real Estate Publicity Department RETA Real	15473
 Refugees and Returnee Service	8074
@@ -607,7 +611,7 @@ Reta Ingingo	13323
 Reta. BOB N	13323
 Retabled Performance Information for Programme	11218
 Retai Volumes	4517
-Retail	418,300,510,476,1008,63,51,131,647,603,446,1399,209,147,171,254,105,508,189,1,209,121,181,889,194,1589,22,135,235,58,612,1,404,60,848,58,136,1034,327,160,88,208,167,52,87,755,668,238,63,635,263,226,182,142
+Retail	418,300,510,476,1008,63,51,131,647,603,446,1399,209,147,171,254,105,508,189,1,209,121,181,889,194,1589,22,135,235,58,612,1,404,60,848,58,136,1034,327,160,88,208,167,52,87,755,668,238,63,635,263,226,182,142,71
 Retail Africa Mobile Pricing	16186
 Retail Army	7446
 Retail Automobiles	4972
@@ -681,7 +685,7 @@ Retaj Moroni	13777
 Retaj de Moroni. L’ordre	8360
 Retaj. Sous	5669
 Retalhistas Vídeo	12018
-Retalho	10757
+Retalho	10757,8018
 Retaliation	17243
 Retard	10874,2426,213,2029,359,35,672,1274,409
 Retard de Près	13300
@@ -746,7 +750,7 @@ Retificação	11901,120,3511
 Retificação de Pedido	12021
 Retinal Screening	14773
 Retira	16855
-Retirada	10755,619,4103
+Retirada	10755,619,4103,3323
 Retirar	15445
 Retire	6432,4699,855,3459
 Retire Age	6432
@@ -769,6 +773,7 @@ Retirer	13300,90,1098,1,1
 Retiring	3714,4413
 Retiring Allow	14717
 Retiring Allowances	14828,15
+Retoma	18793
 Retomamos	1948
 Retombées	15493,2831
 Retool	11956

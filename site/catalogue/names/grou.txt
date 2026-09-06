@@ -127,9 +127,9 @@ Africa. World Bank Group Page	10768
 Africa. World Bank Group. Bastagli	10768
 AfricaNenda and Equity Group	7073
 African Caucus World Bank Group Meeting	17235
-African Development Bank Group	1715,415,677,4,54,92,1186,71,626,130,381,1530,571,755,320,935,1,442,317,493,3,419,726,1114,87,365,509,147,34,2059,1,40,149,410,6,321,130,304,401,58,59,9,81
+African Development Bank Group	1715,415,677,4,54,92,1186,71,626,130,381,1530,571,755,320,935,1,442,317,493,3,419,726,1114,87,365,509,147,34,2059,1,40,149,410,6,321,130,304,401,58,59,9,81,715
 African Development Bank Group Amb. Baba	7452
-African Development Bank Group Approves	11310
+African Development Bank Group Approves	11310,7552
 African Development Bank Group Avenue Joseph	10718
 African Development Bank Group Carlos Monteiro	2865
 African Development Bank Group Contract Awards	13893
@@ -139,6 +139,7 @@ African Development Bank Group Independent Recourse	11863
 African Development Bank Group President	9905,6879
 African Development Bank Group Published	13429
 African Development Bank Group Reflecting	2865
+African Development Bank Group São Tomé	18862
 African Development Bank Group The TechPark	2811
 African Development Bank Group and African	9905
 African Development Bank Group and Niger	18147
@@ -256,6 +257,8 @@ Bank Group Funded Operations	13938
 Bank Group Strategy	4840,9045
 Bank Group TABLE OF CONTENTS DATASHEET	13331,2222
 Bank Group Technical Report	10841
+Bank Group Vice President	18754
+Bank Group WDR World Development Report	18777
 Bank Group's	10715
 Bank Group's ICT Operations Division Manager	10715
 Bank Group's Interim Country Strategy Paper	14043
@@ -886,6 +889,7 @@ GROUPEMENTS DE GENDARMERIE SECTION	16100
 GROUPEMENTS DE GENDARMERIE Sont	15901
 GROUPS	17127
 GSMA and Invictus Global Media Group	9820
+GTI Group	18797
 GTMI Group	10785,1082
 GTMI Group A Extensive GovTech Maturity	10785
 GTMI Group Average GTMI	10785
@@ -1235,6 +1239,7 @@ Groupe Sectoriel Statistique	13689
 Groupe Sexe Milieu	18014
 Groupe Sonatel	18387
 Groupe Sotel Tchad	2863
+Groupe Speciale Mobile Association	18779
 Groupe Spé-	16942
 Groupe Spéciale Mobile Association	16942
 Groupe Spéciale Mobile Association Information	15480
@@ -1358,6 +1363,7 @@ Hub Ground Station Fee	6891
 Human Rights Committee’s Working Group	13040
 Human Rights Consulting Group	9082
 Human Rights Council Working Group	16958,976
+Human Rights Working Group	18797
 Humanitarian Action Working Group	15115
 Humanitarian Policy Group	10841
 Hydro Meteorological Working Group	14949
@@ -1457,7 +1463,7 @@ Inter-American Development Bank Group	16219
 Inter-American Development Bank Group and World Bank	13031
 Inter-Cluster Coordination Groups IDP Internally	18668
 Inter-Departmental Working Group	11940
-Inter-Governmental Action Group	14325
+Inter-Governmental Action Group	14325,4472
 Inter-Governmental Action Group Against Money Laundering	17183
 Inter-Ministerial Consultation and Coordination Group	18293
 Inter-Ministerial Regulatory Working Group	13320
@@ -1591,6 +1597,7 @@ List of TRS Technical Working Group Members	17367
 Load Shedding Groups	12213
 Local Education Group	11905,270,1029,2400,1248
 Local Education Group M&E	12175
+Local Education Group M&E Monitoring and Evaluation	18765
 Local Education Group of Malawi	12175
 Local Education Group. Nkambule	13204
 Local Group of Education Partners	11907
@@ -1600,6 +1607,7 @@ Loita Group	7705
 London Stock Exchange Group	7007
 Low Participation of Women and Vulnerable Groups	13998
 L’évaluation du Groupe	1679
+M&E Monitoring and Evaluation MIGOP Guarantees Group	18754
 M2M Group	5111,183
 MAJOR GROUPS Dec-17 Jan Feb	16935
 MATERIAL ACQUISITIONS The Econet Group	4896
@@ -1926,6 +1934,7 @@ Parirenyatwa Group of Hospitals. Example Zimbabwean Patient	6666
 Paris. World Bank Group	11879
 Parliamentary Group	10841
 Parliamentary Monitoring Group	6832,4057
+Partnership QAG Quality Assessment Group QEA	18754
 Payment Systems Development Group	3238
 Periodic Focus Group Discussions	1778
 Permanent Dialogue Groups	11900
@@ -2101,6 +2110,7 @@ Sector IT Working Group. Accountabilities	12359
 Sector Working Group	12175,184,2576
 Sector Working Group IT Committee	12359
 Sector Working Group Project Steering	12359
+Sector Working Group QoS Quality of Service	18777
 Sector Working Group SSP Sector Strategic	14942
 Sector Working Group Secretariat	14935
 Sector Working Group TaRL	12175
@@ -2325,6 +2335,7 @@ Treatment and Control Groups FCS	12978
 Treatment and Control Groups HDDS	12978
 Trois Boutiques Football Ground District Council	14746
 Turkish Albayrak Group	16972
+Turkish Group FB	18797
 Tyme Group	611,529,3832
 Tyme Group Holdings	611
 Tyme Group Holdings PTE	611
@@ -2438,6 +2449,7 @@ WATRA Cybersecurity Working Group	5677
 WATRA Infrastructure Development Working Group	5681
 WATRA Working Group	5678,1,1
 WBG Approach The World Bank Group	13592
+WBG World Bank Group Regional Vice	18851
 WBG World Bank Group WEF World	11380
 WEILY KAKIMBO GROUP SA	16623
 WFP Technical Working Group	12297
@@ -2492,7 +2504,7 @@ Working Group UHC Universal Health Coverage	12240
 Working Group UNFPA United Nations Population	17116
 Working Group. The Appeal Committee	14433
 Working Group. The CHD	18578
-Working Groups	4103,425,2410,3297,2277,194,2424,1794,1735
+Working Groups	4103,425,2410,3297,2277,194,2424,1794,1735,111
 Working Groups MICDE	7548
 Working Groups Meeting	5790
 Working Groups Specifications Document Interoperability	1009
@@ -2503,7 +2515,7 @@ World Bank Africa Group	17235
 World Bank Country and Lending Groups	10785,219
 World Bank Development Economics Data Group	15620
 World Bank Executive Director Africa Group	11134
-World Bank Group	166,155,8,83,124,16,14,7,4,2,160,50,180,12,235,74,461,77,39,159,447,204,139,345,212,210,21,523,87,151,159,960,186,30,337,3,211,129,159,393,53,412,29,122,107,231,592,601,654,1,1,24,112,71,42,674,56,4,50,12,5,27,7,22,15,25,3,17,62,1,21,19,127,3,2,1,12,49,38,35,39,70,37,51,7,1,10,39,20,7,20,283,2,22,39,5,1,41,162,31,17,17,61,4,21,19,38,78,88,33,7,118,4,84,57,34,95,23,6,6,17,138,62,71,56,2,17,1,25,38,36,92,9,60,32,202,42,63,7,65,14,76,23,160,63,6,111,120,26,1,24,15,6,21,5,55,148,20,32,135,100,80,3,125,5,34,4,9,23,26,1,4,2,11,2,20,1,1,3,35,68,38,4,62,18,240,41,22,13,85,1,43,1,12,18,165,51,7,1,70,113,28,120,102,20,26,27,14,3,30,72,37,9,25,18,23,55,117,1,171,338,7,1,187,229,7,1,7,17,138,51,3,1,6,10,17,20,10,9,33,10,118
+World Bank Group	166,155,8,83,124,16,14,7,4,2,160,50,180,12,235,74,461,77,39,159,447,204,139,345,212,210,21,523,87,151,159,960,186,30,337,3,211,129,159,393,53,412,29,122,107,231,592,601,654,1,1,24,112,71,42,674,56,4,50,12,5,27,7,22,15,25,3,17,62,1,21,19,127,3,2,1,12,49,38,35,39,70,37,51,7,1,10,39,20,7,20,283,2,22,39,5,1,41,162,31,17,17,61,4,21,19,38,78,88,33,7,118,4,84,57,34,95,23,6,6,17,138,62,71,56,2,17,1,25,38,36,92,9,60,32,202,42,63,7,65,14,76,23,160,63,6,111,120,26,1,24,15,6,21,5,55,148,20,32,135,100,80,3,125,5,34,4,9,23,26,1,4,2,11,2,20,1,1,3,35,68,38,4,62,18,240,41,22,13,85,1,43,1,12,18,165,51,7,1,70,113,28,120,102,20,26,27,14,3,30,72,37,9,25,18,23,55,117,1,171,338,7,1,187,229,7,1,7,17,138,51,3,1,6,10,17,20,10,9,33,10,118,10,55,42
 World Bank Group Annual Meetings	14774
 World Bank Group Approach	10714,292,1437
 World Bank Group Approach. Digital	11310
@@ -2526,12 +2538,12 @@ World Bank Group Data	6539
 World Bank Group DataBank	10768
 World Bank Group Digital Economy	18454
 World Bank Group Djibouti Health System	13859
-World Bank Group Document	15511,1103,1248
+World Bank Group Document	15511,1103,1248,903
 World Bank Group Document of The World	17849
 World Bank Group Energy Sector Management	17524
 World Bank Group Environmental	1988,4551
 World Bank Group Evolution Roadmap	15659
-World Bank Group FOR OFFICIAL USE	969,10580,3969,2586
+World Bank Group FOR OFFICIAL USE	969,10580,3969,2586,673
 World Bank Group Finance Competitiveness and Innovation	17870
 World Bank Group Financing	3456,148,7813,488,483,38,243,662,462,1117,44,22,1317
 World Bank Group Financing International Bank	15553
@@ -2564,6 +2576,7 @@ World Bank Group More Blogs	17338
 World Bank Group Nathan M. Belete	11839
 World Bank Group Ndiamé Diop	11839
 World Bank Group Office	14744
+World Bank Group Official Use Only	18809
 World Bank Group President David Malpass	13332
 World Bank Group Program Adjustment	18293
 World Bank Group Project	13395
@@ -2615,6 +2628,7 @@ World Bank Group. OPERATION INFORMATION	11965
 World Bank Group. Page	13332,2092,234
 World Bank Group. Peer Comparison	16260,988,4
 World Bank Group. Retrieved	16144,798
+World Bank Group. Sao Tome	18838
 World Bank Group. The University	12533,1
 World Bank Group. The World Bank	15372
 World Bank Group. Third-party	13312,2,1583,550,33,1396,994

@@ -1,5 +1,5 @@
 A. Approval	7845
-A. CONTEXT AT APPRAISAL	15424,87,90,62,68,259,962,897,13
+A. CONTEXT AT APPRAISAL	15424,87,90,62,68,259,962,897,13,903
 A. CONTEXT AT APPRAISAL Context	11924,3677,62,2186,113
 A. CONTEXT AT APPRAISAL Context Country	15424
 A. CONTEXT AT APPRAISAL Country Context	15702
@@ -9,7 +9,7 @@ ACRONYMS CARI Consolidated Approach for Reporting Indicators	17285
 ADAPTING INNOVATIVE APPROACHES TO THE E-GOVERNMENT	16885
 ADE-LEGRE Jocelyne Appraisal	13938
 ADM STAFF At Approval At ICR	15424
-ADM STAFF Role At Approval	11924,3739,68,1221,897,13,100
+ADM STAFF Role At Approval	11924,3739,68,1221,897,13,100,803
 ADTPME. Approved Management Centers	17615
 AE's Internal Approval	18581
 AF Approval	17849
@@ -26,7 +26,7 @@ APP BRAZZAVILLE APPROCHE	16552
 APPLICATION OF THE PROPOSED MATHEMATICAL APPROACH	8606
 APPR Agreement for Peace and Reconciliation	969
 APPRAISAL Context	15511,1441
-APPRAISAL Country Context	15731
+APPRAISAL Country Context	15731,3034
 APPRAISAL REPORT COMORIAN ECONOMIC DIGITALISATION SUPPORT	13731
 APPRAISAL REPORT ERITREA ENERGY INTEGRATED PROJECT	14080
 APPRECIATED	13440
@@ -99,7 +99,8 @@ Aepspidreonvatilal Approval	10157
 Africa PDO Components Project Board Approval	15411
 Africa. Approved	452
 African Approved By Department	1828
-African Development Bank Group Approves	11310
+African Development Bank Group Approves	11310,7552
+African Development Fund Approves	18862
 Agency PAD Project Appraisal Document PAT	15518
 Agile and Collaborative Approach	11940
 Agile and Iterative Development Approaches Software	5665
@@ -121,12 +122,12 @@ Appendix A Appendices List of Approved Abbreviations	11129
 Application Form for Approval of Binding Corporate Rules	12302
 Application for Type Approval	14883,2367
 Applying the Blue Economy Approach	17458
-Appraisal	7198,3570,1156,62,560,7,42,367,18,751,1641,121,18,152,773,178,338,8,154,748,100,412
+Appraisal	7198,3570,1156,62,560,7,42,367,18,751,1641,121,18,152,773,178,338,8,154,748,100,412,380
 Appraisal Additional Actual Financing Achieved Project	15663
 Appraisal Additional Financing Baseline Original	15663
 Appraisal Country Background	16614
 Appraisal Date	16654
-Appraisal Document	1584,3778,6603
+Appraisal Document	1584,3778,6603,6844
 Appraisal Document PAD PDO Project Development	11855
 Appraisal Document PDO Project Development Objective	15511
 Appraisal Document. Does	15190
@@ -282,19 +283,21 @@ Approuve	10876,3556
 Approuver	10876,3663,1030
 Approuvée	8891
 Approuvés	15395,391,253,138
-Approval	287,417,1,13,18,178,1,1,1,1,1,1,1,1,1,86,210,658,111,724,718,108,176,974,1744,12,95,40,253,1,95,18,258,139,264,270,111,313,1204,652,561,57,95,266,48,46,145,20,98,369,43,19,28,13,6,15,2,213,27,39,28,7,56,6,25,6,26,19,43,45,196,108,106,67,22,26,5,13,25,192,73,98,107,156,104,7,7,19,51,6,1,3,18,13,105,129,441,99,137,23,71,24,24,15,12,99,29,5,260,49,8,120,130,4,2,45,177,10,21,23,41,25,123,17,395,91,143,5,10,21,16,27,67,6,79,17,18,2,22,332,35,399,54,4,44,33,94,217,4,1,83,29,27,40,3,86
+Approval	287,417,1,13,18,178,1,1,1,1,1,1,1,1,1,86,210,658,111,724,718,108,176,974,1744,12,95,40,253,1,95,18,258,139,264,270,111,313,1204,652,561,57,95,266,48,46,145,20,98,369,43,19,28,13,6,15,2,213,27,39,28,7,56,6,25,6,26,19,43,45,196,108,106,67,22,26,5,13,25,192,73,98,107,156,104,7,7,19,51,6,1,3,18,13,105,129,441,99,137,23,71,24,24,15,12,99,29,5,260,49,8,120,130,4,2,45,177,10,21,23,41,25,123,17,395,91,143,5,10,21,16,27,67,6,79,17,18,2,22,332,35,399,54,4,44,33,94,217,4,1,83,29,27,40,3,86,131,33,5,17,8,8
 Approval Activity	16863
 Approval Actual	15424
-Approval Approval Package	6579,349,949,3518,1632,2708,278,987,96,374,35,501,344,4,1
+Approval Approval Package	6579,349,949,3518,1632,2708,278,987,96,374,35,501,344,4,1,437,25
 Approval Approved Approved	12364
 Approval Approved Installation	736
+Approval At ICR Co-Team Leader	18825
 Approval Date	4653,7312,255,454,1060,163,141,933,12,710,89
+Approval Date Closing Date	18809
 Approval Date Investment Project Financing IBRD	16896
 Approval Date Investment Project IBRD	1284,15638
 Approval Date Practice Area	1704
 Approval Date Social Risk Rating	3604
 Approval Environmental	11417
-Approval Fiscal	15190
+Approval Fiscal	15190,3619
 Approval Fiscal Year	15702,257
 Approval Fiscal Year Operation	11924,6038
 Approval Fiscal Year P167569 Investment Project	18374
@@ -312,7 +315,7 @@ Approval Signing Effectiveness ICR Sequence.01	16436
 Approval Task Team Leader	12412,14
 Approval The Board	11131,3
 Approval Threshold	3502
-Approval Vice President	16614
+Approval Vice President	16614,2140
 Approval and License Issuance	5665
 Approval and Licensing of Su	13606
 Approval and Licensing of Suppliers	13606
@@ -339,14 +342,14 @@ Approvalof	16833
 Approvals	762,3521,5874,2115,2608,1021,2603
 Approvals P-7 Site Acquisition Define	11857
 Approvals P-7 Site Acquisition Permits Intervention	11857
-Approve	3861,667,1815,89,1116,4811,153,205,603,1714,1799,30,253,1362
+Approve	3861,667,1815,89,1116,4811,153,205,603,1714,1799,30,253,1362,317
 Approve Business Cases	12359
 Approve GCT	6947
 Approve JIC	16853
 Approve Payment System Vision	10767
 Approve Requisition	9124
 Approve the Proposals	7198
-Approved	26,2,6,285,285,132,25,46,87,76,804,54,160,67,657,882,155,112,242,61,298,226,152,1604,135,175,79,95,528,92,329,272,517,173,41,87,157,609,122,40,262,496,68,58,91,261,57,73,134,462,34,14,19,41,6,15,2,240,28,11,92,60,21,284,47,8,53,145,50,31,79,322,147,136,91,7,19,38,13,6,1,3,48,3,85,76,301,113,7,131,33,239,24,37,14,107,21,218,295,5,25,12,17,4,2,12,9,24,231,66,319,38,202,67,128,10,7,35,93,16,6,79,17,9,11,248,106,35,357,42,54,4,44,127,217,4,1,128,51,27,16,4
+Approved	26,2,6,285,285,132,25,46,87,76,804,54,160,67,657,882,155,112,242,61,298,226,152,1604,135,175,79,95,528,92,329,272,517,173,41,87,157,609,122,40,262,496,68,58,91,261,57,73,134,462,34,14,19,41,6,15,2,240,28,11,92,60,21,284,47,8,53,145,50,31,79,322,147,136,91,7,19,38,13,6,1,3,48,3,85,76,301,113,7,131,33,239,24,37,14,107,21,218,295,5,25,12,17,4,2,12,9,24,231,66,319,38,202,67,128,10,7,35,93,16,6,79,17,9,11,248,106,35,357,42,54,4,44,127,217,4,1,128,51,27,16,4,211,17,8,52
 Approved Actual Exec Approved Actual Exec	6422
 Approved Actual YTD YTD Budget YTD	6422
 Approved Approved Date	16638
@@ -355,6 +358,7 @@ Approved Budget	750,540,494,1,1,1,1,5,3,1
 Approved Budgets	17634
 Approved Budgets and Strategic Plans	18500
 Approved By Bert Kroese and Abebe Selassie	14777
+Approved By Costas Christou	18823
 Approved By Montfort Mlachila	17209,117
 Approved By Practice Manager	10963,3613
 Approved By Taline Koranchelian and Bergljot Barkbu	13868
@@ -394,6 +398,7 @@ Approved Public Schools	18460
 Approved Push Payment	7334
 Approved RE Strategy Renewable Energy	970
 Approved Regulations	16885
+Approved Restructuring Date	18754
 Approved Revenue Budget	17011
 Approved Schools and Umphakatsi Child Justice Committees	12977
 Approved Supplier	13606
@@ -475,7 +480,7 @@ Bank’s Approval Date	17180
 Based Approach. Brima	18449
 Basics Approach Goal	11188
 Benchmarking Approach	15164
-Board Approval	2712,1976,1891,254,95,949,3518,576,17,240,39,173,540,74,786,80,50,86,924,31,608,116,2,276,66,559,67,289,6,79,17,161,647,54,48,127,217,4,1,118,61
+Board Approval	2712,1976,1891,254,95,949,3518,576,17,240,39,173,540,74,786,80,50,86,924,31,608,116,2,276,66,559,67,289,6,79,17,161,647,54,48,127,217,4,1,118,61,258,25
 Board Approved Financing Envelope	11417
 Board Approved Financing Envelope US	6539
 Board Approved MPA Financing Envelope	3562,7855
@@ -609,7 +614,7 @@ DES APPROVISIONNEMENTS	15395,349
 DES ECHANGES APPROFONDIS	16417
 DEVELOPMENT AND APPROVAL OF BUSINESS RESCUE	3714
 DEVELOPMENT ASSOCIATION PROJECT APPRAISAL DOCUMENT	15491,167
-DEVELOPMENT OBJECTIVES A. CONTEXT AT APPRAISAL	17862
+DEVELOPMENT OBJECTIVES A. CONTEXT AT APPRAISAL	17862,963
 DEVELOPMENT PROGRAM APPRAISAL DOCUMENT	17458
 DEVELOPMENT PROJECT APPRAISAL DOCUMENT	10768,612,4031,107,141
 DEVELOPMENT Public Disclosure Authorized PROJECT APPRAISAL	11417
@@ -629,6 +634,7 @@ Date Estimated Approval Date	14576
 Date of Board Approval	14888
 Deemed Appropriate Safeguards	12302
 Delayed Approval	18661
+Democratic Republic of São Tomé and Príncipe and Approves	18823
 Dependencies Approach	6432
 Description Appraisal-Stage Project Information Document	1572
 Description Project Appraisal Document	538,196,1520
@@ -655,6 +661,7 @@ Discourse-Theoretical Approach	11028
 District Assembly G. Clearance Approval’s Name	17114
 Document Approval	13308
 Document Approval History Version	2779
+Dominican Republic and Suriname Approved for SOFF Investment	18869
 Dual Apprenticeship System	14997
 Duration of Obtaining Building Approvals	2775
 E&S Approvals	17114
@@ -716,6 +723,7 @@ Exemptions From Type Approval	18609
 Existing Approach	16600
 Expected Approval Date	1584,668,1310,7270,1133,423,2522,26,1,253,363,105,124,616
 Expected Approval Date Expected Closing Date	1867,1737,7164,61,135,453,143,295,50,1426,1,2289,40,483,2054
+Expected Approval Date Review Type	18809
 Expenditure Approach and The Income Approach	18483,5
 Explanatory Notes. SUGGESTED APPROACH TO DRAFTING	3161
 Explorer. Approfondir. Concevoir. Inspirer	15292
@@ -812,14 +820,14 @@ IPF FIDUCIARY APPRAISAL AND IMPLEMENTATION ARRANGEMENTS	17458
 IRB Approvals	2709
 IRISE Project Appraisal Document	16963
 IV. APPRAISAL OF EMERGENCY RESPONSE READINESS	18198
-IV. APPRAISAL SUMMARY	1284,1605,12249,644,201,913,26,1703
+IV. APPRAISAL SUMMARY	1284,1605,12249,644,201,913,26,1703,184
 IV. APPRAISAL SUMMARY A. Economic Analysis	11965
 IV. APPRAISAL SUMMARY A. Economic and Technical	16922
 IV. APPRAISAL SUMMARY A. Technical and Economic	1284
 IV. Approach	15515
 IV. Appréciation	15512
-IV. OTHER DESIGN AND APPRAISAL ISSUES	15924
-IV. PROJECT APPRAISAL SUMMARY	969,295,603,1737,2935,4229,612,37,132,11,1771,1,1578,27,554,27,35,68,37,1,2,82,641,565,1155,197
+IV. OTHER DESIGN AND APPRAISAL ISSUES	15924,2927
+IV. PROJECT APPRAISAL SUMMARY	969,295,603,1737,2935,4229,612,37,132,11,1771,1,1578,27,554,27,35,68,37,1,2,82,641,565,1155,197,476
 IV. PROJECT APPRAISAL SUMMARY A. Technical	1264,2340,2935,4229,196,2367,1,2221,105,1,2
 IV. PROJECT APPRAISAL SUMMARY Page	1867
 IV. Project Appraisal Summary	13743
@@ -864,6 +872,7 @@ Judgment Approved	1829
 Julia Rachel Ravelosoa Approved By Practice	14553
 KEY DATES Approval	15704,33
 KEY DATES Approval Effectiveness MTR Review	15663,2186
+KEY DATES Key Events Approval Planned	18792
 Kaoru Kimura Approved By APPROVALTBL Country	18456
 Kenya's Two-Track Approach Kenya	7786
 Key Attributes of Digital System Acquisition Approaches	17870
@@ -887,7 +896,8 @@ Last Approved International Bank for Reconstruction	15983
 Last Approved International Development Association	2889,12249
 Last Approved Proposed Additional	15983
 Last Approved Rating	11965,23,1932,1060,51,128,578,2396
-Last Approved Rating ISR Seq	6579,349,949,3518,1632,2708,278,987,96,374,35,501,344,4,1
+Last Approved Rating ISR Seq	6579,349,949,3518,1632,2708,278,987,96,374,35,501,344,4,1,437,25
+Last Approved Rating Risk Category Proposed	18809
 Launch and Testing Approach	11957
 Letter of Approval	9393
 Level of Assurance Approve Periodic Audit	10819
@@ -929,6 +939,7 @@ Mali Apprécier	17978
 Mamadou Saliou Diallo Approved By Practice	16675
 Management Approach Material Matters Assurance Finance	11131
 Manufacturing Projects Approved	2775
+Mar-2018 Approval	18825
 Mar-2019 Approval	17962
 Market-Aware Approach	2278
 Mass Approx SECAM Inputs	34
@@ -1026,6 +1037,7 @@ P514166 Estimated Approval	13787
 PAACAMA Phase I Appraisal Report	7160
 PACAD Operation Status Approval Fiscal Year	15731
 PAD Client Information Activities At Appraisal	15424
+PAD Project Appraisal Document PAFA	18825
 PAD Project Appraisal Document PANA National	17962
 PAD Project Appraisal Document PAP Project	16926
 PAD Project Appraisal Document PCN Project	17114
@@ -1114,10 +1126,11 @@ Program for Appropriate Technology	1261,563,1827,9779
 Programme AIA Appropriation In Aid AIDS	2775
 Progressive Approach	15760
 Project APPROVED	2473,2180,11316
-Project Appraisal Document	541,2,16,183,42,187,25,294,575,123,264,637,659,2072,919,215,4078,569,16,507,267,197,1355,107,6,114,918,22,56,17,389,39,13,67,20,4,3,35,48,3,15,2,37,1,2,2,41,39,401,240,52,178,24,258,26,4,23,3,8,139,15,735,13,44,384,4,6,173,271
+Project Appraisal Document	541,2,16,183,42,187,25,294,575,123,264,637,659,2072,919,215,4078,569,16,507,267,197,1355,107,6,114,918,22,56,17,389,39,13,67,20,4,3,35,48,3,15,2,37,1,2,2,41,39,401,240,52,178,24,258,26,4,23,3,8,139,15,735,13,44,384,4,6,173,271,10
 Project Appraisal Document PAD3340	424
 Project Appraisal Document PAD3556	554
 Project Appraisal Document PASyFiS Support	17849
+Project Appraisal Document PDO Project Development	18754
 Project Appraisal Document PHEOC Public Health	11417
 Project Appraisal Document Project Development Objective	15601
 Project Appraisal Document URL	14976,2465,663
@@ -1143,6 +1156,8 @@ Project. VI. Appraisal Summary A. Economic	17441
 Projects Approval Committee	12962
 Project’s Appraisal Environmental and Social Review Summary	1284,583,1737,2935,4229,61,135,453,143,1771,1,2221,68,37,3,82,401,752,26,27,1249
 Proposed Additional Total Last Approved	2889,12249
+Proposed Last Approved Additional	18809
+Proposed Source Last Approved Additional	18809
 Proposed Training and Capacity Building Approach	1988
 Proposed Training and Capacity Building Approach S	1988
 Proprietorship Public and Private Schools Schools Approval	18460
@@ -1221,7 +1236,7 @@ SOUS-CATEGORIES SCORE RATING APPRECIATION Bilan Transparence	10975
 SOUTHERN AFRICA P510605 Estimated Appraisal	14576
 SPECIFICATIONS AND TYPE APPROVALS	18602
 SSNP Project Appraisal Document	15601
-STAFF APPRAISAL	13868,3341,48,69,177
+STAFF APPRAISAL	13868,3341,48,69,177,1320
 STAFF APPRAISAL 24 FIGURES	17990
 STAFF APPRAISAL 29 BOXES	17909
 STAFF ASSESSMENT AND PRIORITY RECOMMENDATIONS Approved	14777
@@ -1301,9 +1316,10 @@ Systems Approach	1248,14400
 Systems Approach for Better Education Results	11557
 TB. Approximately	12395
 TF IBRD-90020 Status Effective Approval	11395
+TF IDA-D3080 Status Effective Approval	18792
 TF Status Approval Date Signing Date	15619,1019,1835
 TF Status Approval IBRD-96930 Effective	6579
-TF Status Approval Signing Effectiveness Orig	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179
+TF Status Approval Signing Effectiveness Orig	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179,283
 TThe Risk-Based Approach	16212
 TYPE APPROVAL FEES	14883,2367
 TYPE APPROVAL FEES Refer	14883
@@ -1386,6 +1402,7 @@ VI. APPROPRIATION	12956,167
 VI. Appraisal Summary	15372
 VI. Appraisal Summary A. Economic and Financial	15372
 VII. APPROPRIATION	12922
+VII. Approach	18770
 VISUAL APPROACH	17006
 Vendor Management Approved Vendor Registry Only	6432
 Vetting and Approval	11995

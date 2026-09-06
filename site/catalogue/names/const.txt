@@ -90,6 +90,7 @@ BLOX CONSTRUÇÕES S.A. Nos	10751
 BRIGADA DE CONSTRUC. Y OBRAS	4209
 BSG Société Security Services Constitution	10821
 BUILDING CONSTRUCTION AND CIVIL ENGINEERING	16900
+Bandeira Hino Constituição da República Detalhes	18751
 Bata Construcción	4209
 Bende Federal Constituency	15336
 Bende Federal Constituency of Abia State	15336
@@ -230,8 +231,8 @@ CSJ Constitucional	4209
 Cadet Constables	12984
 Cameroon's Constitution	10841
 Capacidade de Autenticação Construída Fase III	11480
-Capacity Constraint	11965,3225
-Capacity Constraints	10829,696,831,405,2176,253,1208,1895,81,251
+Capacity Constraint	11965,3225,3619
+Capacity Constraints	10829,696,831,405,2176,253,1208,1895,81,251,184
 Capacity Constraints Are Emerging Further	7762
 Capacity Constraints Financial Policy Frameworks Standards	12457
 Capacity Constraints Mean for Africa's Satellite	7762
@@ -286,9 +287,10 @@ Conselho Constitucional. Em	12854
 Conselho Constitucional. Lei	12785
 Conselho Constitucional. Num	12854
 Consolidated The Constitutional Declaration In the Name	16847
+Const	18757
 Const. Civ	17812
 Const2010. Accessed	12143
-Consta	6595
+Consta	6595,12201
 Constable Bongekile Mamba	12463
 Constance	14773
 Constancia Mangue Obiang Lima	6841
@@ -321,7 +323,8 @@ Constantinou	10073
 Constantly	961,1132,9037,5728
 Constat	1005,13483,1,1,797,1341,1191
 Constat Causes Leviers	15673
-Constata-se	11577,356
+Constata-se	11577,356,6863
+Constatam-se	18775
 Constatant	13720,4577
 Constatation	16047
 Constatations	13849
@@ -352,10 +355,11 @@ Constitucional. Uno. Estos	4209
 Constitucionales	4209,12662
 Constitucionales Bussnes Clase	4209
 Constitucionales Técnicos	4209
+Constitucionalidade	18751
 Constitucionalmente	11569
 Constitución	1701
 Constitue	1231,9645,90,2753,710,1000,129,26,10,4,1019,823,3,845,8,31
-Constituem	13,2,152,409,2290,653,699,951,1801,3785,627,4,33,11,13,18,6,49,2,2,8,591,192,472,2597,16,37,7,10,54,22,563
+Constituem	13,2,152,409,2290,653,699,951,1801,3785,627,4,33,11,13,18,6,49,2,2,8,591,192,472,2597,16,37,7,10,54,22,563,2660,3,21,5,22
 Constituencies	2668,8466,1067,1219,52,5133
 Constituencies. Incorrect	13420
 Constituencies. Once	13420
@@ -383,17 +387,21 @@ Constituent Assembly	14128
 Constituer	7282,1411,848,3834,2167,2340,181
 Constituer le Capital Humain	17824
 Constituer le Dossier des Ouvrages Exécutés	17846
-Constitui	13,4205,4609,1928,675,97,42,332,3458,21,146,530,1044
+Constitui	13,4205,4609,1928,675,97,42,332,3458,21,146,530,1044,1668,10,22,65
 Constitui-se	3519
 Constituindo	11366
 Constituindo-se	3519
-Constituir	1701,9054,627,61,126,332,3487,3,521
+Constituir	1701,9054,627,61,126,332,3487,3,521,2861,1
 Constituir Empresa Online Como Constituir Empresa	10753
-Constituição	15,524,4672,3447,87,30,189,1789,319,316,48,7,9,9,52,15,9,32,8,324,120,98,192,459,3,81,2490,14,1,21,5,6,1,4,8,29,7,10,27,26,1,5,17,6,22,18,117,5,61,157,43,64,3,34,33,49,81,157,644,166,225
+Constituição	15,524,4672,3447,87,30,189,1789,319,316,48,7,9,9,52,15,9,32,8,324,120,98,192,459,3,81,2490,14,1,21,5,6,1,4,8,29,7,10,27,26,1,5,17,6,22,18,117,5,61,157,43,64,3,34,33,49,81,157,644,166,225,1338,1,1,1,6,3,3,9,5,6,12,2,2,53
+Constituição Artigo	18751
+Constituição Política	18773
 Constituição Republica de Cabo Verde	15532
+Constituição da RDSTP	18784
 Constituição da RGB	11562
 Constituição da Repú-	539
-Constituição da República	795,6175,2206,1576,673,11,77,3,2,1,1,27,764,464,2,5,2,1,38,10,21,2504,46,99,191,395
+Constituição da República	795,6175,2206,1576,673,11,77,3,2,1,1,27,764,464,2,5,2,1,38,10,21,2504,46,99,191,395,2660,2,4,5
+Constituição da República Democrática de São Tomé	18753,2,33
 Constituição da República Info	11513
 Constituição da República da Guiné-Bissau	11557,5463
 Constituição da República de Angola	13,1,1,152,263,109,10,195,8,42,2725,88,539,1,71,339,2290,3900,2,5,1,1,16,11,576,1,1,1,1,1,1,2,1,1,2,1,1,5,3,1,1,1,1,3,2,4,2,1,8,1,3,10,6,5,1,2,3,7,2,4,3,3,1,1,1,3,6
@@ -402,15 +410,20 @@ Constituição da República de Angola. Verificação	11461
 Constituição da República de Cabo Verde	15694,362
 Constituição da República de Durante	10753
 Constituição de Direito de Superfície	11443
+Constituição de STP	18779,17
+Constituição de São Tomé	18783
 Constituição. ARTIGO	11513
-Constituição. Artigo	15344
+Constituição. Artigo	15344,3407
+Constituição. CAPÍTULO II Incidência Subjectiva	18764
 Constituição. Manda	15503
+Constituição. O Governo	18752
+Constituição. Se	18784
 Constituição. Sociedades Pesquisar	10753
 Constituição. TÍTULO II DIREITOS	15344
 Constitute	12253
 Constitute the Strategic Plan Implementation Committee	13005
 Constituting	17157
-Constitution	3,8,6,8,3,85,195,105,16,156,2,160,1,51,100,59,11,1,2,238,4,17,53,63,283,112,95,1,146,109,24,190,205,3,16,16,52,27,100,1,9,39,31,2,197,53,168,157,13,105,82,127,4,147,181,85,79,15,140,1,1,57,1,107,39,21,9,156,360,28,1,31,71,289,40,280,19,122,128,183,82,56,45,27,12,61,24,54,205,36,93,176,67,204,1,10,12,24,44,10,147,87,50,87,159,6,34,60,10,252,30,9,34,135,94,1,61,62,1,19,1,4,79,14,22,198,26,169,246,93,56,42,78,1,24,1,51,1,57,25,5,137,32,22,35,8,62,19,123,133,62,17,36,10,46,1,4,15,35,32,141,49,31,2,3,5,38,1,1,2,1,6,2,3,3,5,10,5,2,6,6,15,2,14,1,3,7,5,3,5,1,3,128,47,87,7,22,12,15,11,32,12,129,5,5,10,1,1,31,10,14,32,5,2,41,8,20,1,9,7,16,45,41,18,32,1,5,10,24,3,13,25,6,21,40,1,8,17,8,10,12,23,38,102,16,3,15,2,1,7,24,39,32,1,9,7,103,8,112,1,11,6,1,2,2,2,2,2,2,7,1,2,7,7,24,2,15,46,7,57,123,28,1,38,1,4,2,5,8,4,5,1,1,1,2,1,17,8,2,3,19,4,12,16,15,2,22,5,14,9,2,5,14,2,4,4,3,62,66,6,21,26,13,9,2,1,11,5,13,42,62,3,31,46,14,3,8,7,3,10,5,31,20,48,1,28,12,14,1,82,14,16,41,18,6,103,1,1,6,6,2,7,4,14,9,1,1,4,5,24,7,24,13,6,3,15,5,28,16,63,41,1,5,2,20,6,3,9,30,22,27,8,5,9,1,1,2,5,6,15,2,14,11,8,101,75,46,29,84,50,29,21,5,3,2,2,3,6,1,10,7,5,5,3,3,2,2,3,6,2,8,5,15,5,5,4,34,18,8,9,5,4,9,6,3,19,3,6,5,1,1,11,24,4,17,18,3,4,16,2,19,3,2,17,3,13,18,2,68,15,102,3,5,4,24,19,1,59,5,14,76,2,26,7,37,16,8,2,94,3,11,4,162,21,6,42,1,8,9,113,34,49,10,1,6,4,1,6,29,15,24,17,8,7,14,1,126,15,10,104,68,34,34,24,39,14,7,4,4,29,7,34,8,32,52,12,26,89,82,14,20,2,26,45,16,20,33,60,37,1,4,13,36,53,79,5,2,12,5,13,4,44,15,43,5,1,1,1,20,2,4,4,1,9,42,37,39,1,1,1,7,1,55,41,38
+Constitution	3,8,6,8,3,85,195,105,16,156,2,160,1,51,100,59,11,1,2,238,4,17,53,63,283,112,95,1,146,109,24,190,205,3,16,16,52,27,100,1,9,39,31,2,197,53,168,157,13,105,82,127,4,147,181,85,79,15,140,1,1,57,1,107,39,21,9,156,360,28,1,31,71,289,40,280,19,122,128,183,82,56,45,27,12,61,24,54,205,36,93,176,67,204,1,10,12,24,44,10,147,87,50,87,159,6,34,60,10,252,30,9,34,135,94,1,61,62,1,19,1,4,79,14,22,198,26,169,246,93,56,42,78,1,24,1,51,1,57,25,5,137,32,22,35,8,62,19,123,133,62,17,36,10,46,1,4,15,35,32,141,49,31,2,3,5,38,1,1,2,1,6,2,3,3,5,10,5,2,6,6,15,2,14,1,3,7,5,3,5,1,3,128,47,87,7,22,12,15,11,32,12,129,5,5,10,1,1,31,10,14,32,5,2,41,8,20,1,9,7,16,45,41,18,32,1,5,10,24,3,13,25,6,21,40,1,8,17,8,10,12,23,38,102,16,3,15,2,1,7,24,39,32,1,9,7,103,8,112,1,11,6,1,2,2,2,2,2,2,7,1,2,7,7,24,2,15,46,7,57,123,28,1,38,1,4,2,5,8,4,5,1,1,1,2,1,17,8,2,3,19,4,12,16,15,2,22,5,14,9,2,5,14,2,4,4,3,62,66,6,21,26,13,9,2,1,11,5,13,42,62,3,31,46,14,3,8,7,3,10,5,31,20,48,1,28,12,14,1,82,14,16,41,18,6,103,1,1,6,6,2,7,4,14,9,1,1,4,5,24,7,24,13,6,3,15,5,28,16,63,41,1,5,2,20,6,3,9,30,22,27,8,5,9,1,1,2,5,6,15,2,14,11,8,101,75,46,29,84,50,29,21,5,3,2,2,3,6,1,10,7,5,5,3,3,2,2,3,6,2,8,5,15,5,5,4,34,18,8,9,5,4,9,6,3,19,3,6,5,1,1,11,24,4,17,18,3,4,16,2,19,3,2,17,3,13,18,2,68,15,102,3,5,4,24,19,1,59,5,14,76,2,26,7,37,16,8,2,94,3,11,4,162,21,6,42,1,8,9,113,34,49,10,1,6,4,1,6,29,15,24,17,8,7,14,1,126,15,10,104,68,34,34,24,39,14,7,4,4,29,7,34,8,32,52,12,26,89,82,14,20,2,26,45,16,20,33,60,37,1,4,13,36,53,79,5,2,12,5,13,4,44,15,43,5,1,1,1,20,2,4,4,1,9,42,37,39,1,1,1,7,1,55,41,38,57
 Constitution Amendment Bill No	12556
 Constitution Art	2456,2686
 Constitution Article	2456,16152
@@ -636,6 +649,7 @@ Constitutional Evolution	3861
 Constitutional Foundation	3861
 Constitutional Foundation The National Data Governance	3861
 Constitutional Framework	14748
+Constitutional Government of São Tomé and Príncipe	18809
 Constitutional Human Rights The Constitution	12201
 Constitutional Imperative	3861
 Constitutional Imperative The Policy	3861
@@ -816,7 +830,7 @@ Construction and Financial Model	13122
 Construction and Financing	16714
 Construction and Infrastructure	16887
 Construction and Installation Phase	12253
-Construction and Maintenance Agreement	124,15300,1292
+Construction and Maintenance Agreement	124,15300,1292,2038
 Construction and Maintenance of School Buildings	15661
 Construction and Nationwide X X X X	15845
 Construction and Operation	18602
@@ -888,7 +902,7 @@ Constructive Multilateral Dialogue Rwanda	15131
 Constructtheconfusionmatrix	8606
 Construida	16898
 Construindo	11963
-Construir	1701,1115,2847,5713,20,1,129,3950,88,1329,5
+Construir	1701,1115,2847,5713,20,1,129,3950,88,1329,5,1903
 Construir Operar Transferência	1192
 Construire	1316,724,1486,507,284,50,2057,535,119,28,174,73,1,713,152,50,409,198,205,4260,287,797,63,1,1,1052,170,26,571,300,1227,24,3,33,203,37,252
 Construire des Datacenters	15542
@@ -899,7 +913,7 @@ Construisons	18363
 Construit	15466,2829
 Construtores Civis Internacionais da China	17337
 Construyendo	1701
-Construção	2242,371,906,917,5678,636,7,616,40,16,51,43,46,329,123,3455,96,183,301
+Construção	2242,371,906,917,5678,636,7,616,40,16,51,43,46,329,123,3455,96,183,301,2696,23,21
 Construção Centro Ambulatório Hospital Baptista de Sousa	15689
 Construção Completa	11480
 Construção Educação Electricidade	10757
@@ -911,6 +925,7 @@ Construção de Redes de Informação	3519
 Construção de Sistema de Adução	15755
 Construções	10751,776
 Construída	10766
+Constâncio Andrade	18767,5
 Constâncio Trigo	1583
 Contractor After Construction	12253
 Corporate Governance Board Meetings The Constitution	6946
@@ -986,10 +1001,12 @@ DIFICULDADES E CONSTRANGIMENTOS Com	11561
 DISPOSITIONS Vu la Constitution	15439
 DO DIPLOMA Constituição da República A Constituição	11461
 DRAFTING AMENDMENTS TO THE CONSTITUTION	13472
+Da Constituição	18753
 Dahua Développement Ressources Vu la Constitution	16177
 Dam Construction	13474
 Data Center de Constantine	6419,612
 Data Centre Project China Construction Bank	340
+Data da Constituição Artigo160.º	18751
 Decision of Constitutional Court	15473
 Declaração Constitutiva	11393
 Definition Constraining Constraining Processing	12364
@@ -1149,6 +1166,7 @@ Government of Sierra Leone and Constrat Systems	18471
 Groundbreaking Ceremony Held For Construction of Statistics	9322
 Group. Constant	10793
 Guardian. Constitutional and Legal Affairs Minister	9804
+Guiché Unico Para Empresa Constituição	18833
 Gweru Urban and Luveve Constituencies	13420
 Gweru Urban and Luveve Constituencies Audit of Gweru	13420
 Général de Division Abdoulaye MAIGA Vu la Constitution	17899,83,50
@@ -1310,6 +1328,8 @@ Licence To Construct Solar Power Plant	306
 Licenciamento de Construção	11898
 Licenças Ambientais de Construção	11898
 Licenças de Construção	11898
+Licenças de Construção World Bank Worldwide Governance	18767
+Licençasde Construção	18772
 Lilongwe Msinja South Constituency Member of Parliament	7486
 Limitations and Constraints A. Data Availability Challenges	17139
 Limpopo Central Hospital Project Implementation Construction	11248
@@ -1396,6 +1416,7 @@ Ministry of Justice and Constitutional Affairs. The Unit	12459
 Ministry of Justice and Constitutional Affairs. Under	9242
 Ministry of Justice and Constitutional Development	5107,11836
 Ministry of Urban Development and Construction	5655
+Ministério Público TÍTULO VII Tribunal Constitucional	18751
 Mkhari Academic Hospital Health Construction	11248
 Mkhomazi Bulk Water Supply Scheme Construction	11248
 Mkoba Constituency	13420
@@ -1428,6 +1449,7 @@ NCA National Construction Authority NCC Nairobi	2775
 NORMAS REGULAMENTARES PARA REGULAMENTO DE CONSTRUÇÕES	11898
 NOTE The Constitution of Kenya	1630
 NOUVELLE CONSTITUTION	17861
+NOVOS DESAFIOS RUMO AO FUTURO Construir	18793
 Namibe Cabinda ISABEL CONSTÂNCIA TOMÉ	10751
 Namibian Constitution	3714,8613,46,522,4,3,3,7,7,27,87,64
 Namibian Constitution Judiciary Act	12920
@@ -1463,6 +1485,7 @@ Nombre de Constructions	3396
 Noordoewer Omaruru Karibib Karibib Constituency Office	13046
 North Imenti Constituency	10313
 Nov-2025 Construction	13893
+Noção Constitui	18749
 Number of Constituencies	13598
 Number of Grievances and Grievance Contractor's Construction	12253
 Numbering New Construction and Development	11129
@@ -1545,6 +1568,7 @@ Praia. Construção	16251
 Preamble WHEREAS the Constitution of Zimbabwe	13470
 Predicted Survey Constraints	16876
 Primary Constitutional Authority	3861
+Principais Constrangimentos	18763
 Princípio da Constitucionalidade	11388
 Prisma Construction Company	5394
 Processes Construction Contractors Ongoing	17260
@@ -1617,6 +1641,7 @@ Republic of Vu la Constitution	1214
 Republican Constitution	13005
 República Fiscal Tribunal Constitucional Magistrado Corte	4209
 Resource Constraints	17139,606
+Responsável Máximo da Empresa Constata-se	18775
 Review of Present Construire	18099
 RoC Constitution	11905
 RoC's Constitution	11905
@@ -1732,6 +1757,7 @@ TRIBUNAL CONSTITUCIONAL Cuentas CONCEPTO	4209
 TURNING EXISTING CONSTRAINTS INTO FUTURE OPPORTUNITIES	14723
 Tackling Psychosocial and Capital Constraints	18301
 Tarhini Construction	17260
+Technical Capacity Constraints	18795
 Technical Constraints	12399
 Technicien Constructions Civiles	17812
 Technicien des Constructions	17982
@@ -1756,14 +1782,17 @@ Transitional Constitution. Bills	12492
 Transitional Constitution.51	3583
 Transport and Energy Project Construction Budgets Civil	16872
 Trencon Construction	2307
-Tribunal Constitucional	1701,2508,4327,640,6168,678,465,384
+Tribunal Constitucional	1701,2508,4327,640,6168,678,465,384,1880
+Tribunal Constitucional Artigo	18751
 Tribunal Constitucional Magistrado Corte Suprema Justicia	4209
 Tribunal Constitucional Ministro de Estado Ministro Vocal	4209
 Tribunal Constitucional Servicio	4209
 Tribunal Constitucional Tribunal de Cuentas	4209
 Tribunal Constitucional de Angola	11473
+Tribunal de Constitucional	18751
 Tráfico de Constituição	10750
 Type of Inspections Carried Out During Construction	12389
+TÍTULO II Revisão da Constituição Artigo	18751
 Télécoms3 Constant	13324
 UNESCO Regional Office for Southern Africa Constantinou	10073
 UNESCO's Elena Constantinou	10073
@@ -1820,6 +1849,8 @@ Wilfrid Constant	15848
 Winners Construction Co. Ltd	3583
 Woman Police Constable WPI	14760
 X MINTER Ghana Immigration Construct	15845
+XVIII Governo Constitucional	18796
+XVIII Governo Constitucional. Este	18781
 XXXX04 Construction	4874
 Yellow Card The Next Constraint	9903
 Youth Constituency	11572

@@ -21,6 +21,7 @@ Article Tags Weather Climate MTG Meteogambia	16957
 Asset Wealth	12006
 Asset Wealth Index	12006
 Asset Wealth Index AtlasAI’s Asset Wealth	12006
+Automated Weather Station	18787
 Automated Weather System	15097
 Automatic Synoptic Weather Stations	12728
 Automatic Weather Observing Station	16947
@@ -122,6 +123,7 @@ Nowcast-Based Numerical Weather Prediction	12728
 Nuclear Weapon Search War	10
 Nuclear and Radiological Weapons Acts Cap	3887
 Nuclear and Radiological Weapons Management Authority	3887
+Numerical Weather Forecast Model and Forecast Tool	18787
 Numerical Weather Prediction	11191,1537,3188
 Numerical Weather Prediction NWP	18309
 ORS Income Group Wealthiest Income Group	10829
@@ -176,8 +178,9 @@ Sovereign Wealth Fund Act	13685
 Sovereign Wealth Fund Paradox	4535
 Sovereign Wealth Fund for Eswatini	11131
 Sovereign Wealth Fund. Improving	16996
-Sovereign Wealth Funds	4972,12000,24
+Sovereign Wealth Funds	4972,12000,24,1801
 Sovereign Wealth Funds Eritrea	14008
+Sovereign Wealth Funds São Tomé and Príncipe	18797
 Stationary Weather Information Display Board	16947
 Strength Weaknesses Opportunities Threats UN United	14965
 Strengths Weaknesses	961,11483,56,814
@@ -252,7 +255,7 @@ Weaker-than-expected	17257
 Weaker-than-expected Artificial Intelligence	13685
 Weakest	15164
 Weakness	5134,543,692,4769,123,2400,1273,2077,1143
-Weaknesses	766,2396,964,88,314,3020,3853,124,338,53,243,1,44,308,399,62,32,307,2,1232,314,63,488,62,83,240,49,132,351,530,5,64,16,29,13,26,185,61,32,555,465,166,10
+Weaknesses	766,2396,964,88,314,3020,3853,124,338,53,243,1,44,308,399,62,32,307,2,1232,314,63,488,62,83,240,49,132,351,530,5,64,16,29,13,26,185,61,32,555,465,166,10,309
 Weaknesses AI	4528
 Weaknesses Experienced	5533,6453
 Weaknesses Indicator	12351
@@ -295,7 +298,7 @@ Wearables Are Actually Being Tested	9456
 Wearables for Chronic Disease Management	9456
 Wearing	17114
 Wears the Crown	17780
-Weather	395,5867,4702,319,1673,1862,3491,325
+Weather	395,5867,4702,319,1673,1862,3491,325,153
 Weather Alerts	16371
 Weather Dashboard	16947
 Weather Forecasting OCB	18309
@@ -309,6 +312,7 @@ Weather Observer Training	18309
 Weather Prediction WIGOS WMO Global Observing	11553
 Weather Services	14738
 Weather Station BECE Basis Education Certificate	18578
+Weather Station Works	18869
 Weather Stations and Climate Database Management Systems	14738
 Weather Widget	4706
 Weather and Climate	10584

@@ -94,7 +94,7 @@ Cham. Schuller	7886
 Chama	2868,4443,2065,2855
 Chama Cha Mapinduzi	6019
 Chama North	13387
-Chama-se	5154,5615
+Chama-se	5154,5615,8060
 Chamada	414,3860,11498
 Chamada A Assumir Papel Nacional Américo	8827
 Chamada Quadro	15772
@@ -121,7 +121,7 @@ Chamber Summons Application	14460
 Chamber for Small and Medium Businesses Association	12230
 Chamber of AI	4126
 Chamber of Accounts	15984
-Chamber of Commerce	1000,4172,692,6648,149,1277,782,177,188,191,135,36,1521,102,464,901
+Chamber of Commerce	1000,4172,692,6648,149,1277,782,177,188,191,135,36,1521,102,464,901,362
 Chamber of Commerce Bureau of Standards	12376
 Chamber of Commerce Civil Society Organizations Gambia	16973
 Chamber of Commerce Data Controller INST-585749569B8 NAIROBI	7167
@@ -291,6 +291,8 @@ Dubai Chamber of Commerce	14476
 Dubai Chambers	12750
 ESCCOM Champions Universal Access	13198
 ET DU CHAMP D'APPLICATION Arlicle	10813
+EVOLUÇÃO DE TRÁFEGO DE CHAMADAS INTERNACIONAIS	18791
+EVOLUÇÃO DO TRÁFEGO DE CHAMADAS NACIONAIS	18791
 EcTtoN I OBJET ET CHAMP D'APPTICATION	15687
 Egyptian Chambers of Commerce	15473
 Ekurhuleni Business Chamber	9129
@@ -485,6 +487,7 @@ TARIFA MÉDIA DE CHAMADAS OFF-NET PRATICADAS	11531
 TARIFAS MÉDIAS DE CHAMADAS INTERNACIONAIS	11531
 TITRE PREMIER CHAMP D’APPLICATION ET CADRE	17443
 TITRE PREMIER DEFINITION ET CHAMPS D'APPLICATION	14408
+Tarifação de Chamadas Internacionais de Entrada	18752,32
 Tax Chamber	15175,13,53
 Tax Chamber Announces Official Launch of Electronic	15188
 Tax Chamber Badr Al-Tamam Mohamed Saad	15241

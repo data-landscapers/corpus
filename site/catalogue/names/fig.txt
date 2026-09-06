@@ -139,6 +139,7 @@ Cassava Figure	15838
 Category Fig	1554
 Celebration FIGURE	13095
 Central African Republic Figures	2504,1414
+Central West Africa Figure	18787
 Certificat Foncier Figure	13375
 Cetic.br. Figura	2816
 CfRN LUA. Figure	17140
@@ -165,6 +166,7 @@ Confusionmatrix Figure17	8606
 Congo Total Public Debt Compared Figure	1828
 Connect Combine Collaborate Collaborate Communicate Figure	8603
 Contents Figures	12327
+Contexto Geo-Demográfico Figura	18768
 Coping Strategy Figure	17285
 Copperbelt and Figure	12431
 Cost of Scaling Up Safety Nets Figure	10763
@@ -184,6 +186,7 @@ Cybersecurity and Fight	1264
 D Clustering Figure8	8606
 D Figure	14674
 D. Results Chain Figure	13331
+DB2018-Full-Report.pdf Figura	18767
 DBSCANClustering Figure13	8606
 DE LA TARIFICATION Figure	15670
 DE4A Figure	16626
@@ -214,6 +217,7 @@ Debit Cards Credit Cards Figure	15023
 December. Figure	17157
 Dedza One-Go Border Post Figure	13053
 Department of Veterinary Service Lupane District Fig	1554
+Desenho da Estratégia de Dados Figura	18801
 DesignModelforaLiveHealthcareConsoleversion0.2 Figure	8603
 Desktop Application Veriﬁcation Figure	8604
 Development and Innovation Figure	4528
@@ -252,6 +256,7 @@ ECONOMIC OVERVIEW Figure	13053
 ECOWAS EU Other Figure	16935
 EDRMS. Figure	17116
 EEAA. Figure	15473
+EGDI Index Figura	18767
 ELECTRICITY Figure	15740
 ENEO. Figure	10975
 EQUATORIAL GUINEA IN FIGURES KEY RESULTS	17101
@@ -305,7 +310,7 @@ FIGURE	1009,152,4053,2441,104,262,1,108,999,108,379,1514,26,115,301,307,335,155,
 FIGURE A.3 GENERIC EXAMPLE	1009
 FIGURE B135.10	11572
 FIGURE ES.1	11572
-FIGURES	1828,9169,1503,2747,1854,108,48,69,41,539,3
+FIGURES	1828,9169,1503,2747,1854,108,48,69,41,539,3,914
 FIGURES ARCEP	15512
 FIGURES Figure	11136,48,3952,1791
 FINANCIAL INFORMATION No Figures Part G	11250
@@ -328,8 +333,12 @@ Fig. VI.8 Carte	13341
 Fig.1	15713
 Fig.1- Digitalization and Digital Economy	15713
 Fig.2	15713
+Fig.2 Esperança	18783
 Fig.2- Regression Analysis of Computing Index and GDP	15713
-Fig.3	15713
+Fig.3	15713,3070
+Fig.4 Despesas	18783
+Fig.5 Despesa de São Tomé	18783
+Fig.7	18787
 Fig.VI.9 Carte	13341
 FigFuigreur1e.21	2775
 Fight	961,249,7250,2825,2029,2718,1471,431,371
@@ -366,10 +375,11 @@ Figueiredo Di-as	9176
 Figueiredo Dias	9176
 Figuil	3412
 FigurPeO2P.U10L	10763
-Figura	2138,678,7956,5,613,6,1,9,10,131,8,19,3961,159,631,695,127
+Figura	2138,678,7956,5,613,6,1,9,10,131,8,19,3961,159,631,695,127,1613,3,4,1,4,2,5,17,5,1,73
+Figura Figura	18768
 Figuras Figura	2816,8590
 Figuratively	16858
-Figure	10,226,160,186,136,19,34,169,18,51,4,141,46,12,31,5,9,4,3,20,43,227,260,10,4,39,71,2,4,44,108,679,1,113,24,35,216,1,1,1,1,436,258,132,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,233,173,7,75,3,11,148,296,273,2,286,122,4,22,19,40,260,408,18,113,3,51,78,58,103,104,10,32,173,115,12,173,204,47,57,31,96,135,1,108,72,81,71,22,60,6,18,143,1,1,196,322,1,4,1,108,379,143,773,180,2,4,45,1,1,3,7,5,5,9,18,17,12,11,4,2,43,18,13,8,23,1,1,5,5,1,9,12,7,13,112,1,3,2,1,2,2,2,14,28,8,1,2,21,2,10,8,23,12,15,8,2,14,107,52,18,38,27,1,10,9,6,3,274,2,6,4,7,5,2,24,14,5,17,11,12,22,8,12,56,28,48,13,41,18,4,19,7,1,5,7,3,22,19,30,1,1,17,10,2,1,8,2,7,19,4,14,6,12,13,9,47,1,11,147,4,254,6,16,2,7,3,10,1,7,8,1,27,11,26,11,27,14,216,2,2,17,1,13,30,15,5,1,22,43,71,36,18,38,2,59,72,92,19,123,432,2,16,1,37,142,1,44,8,49,6,7,2,7,5,11,12,2,2,13,35,5,5,1,4,56,1,35,3,7,13,2,1,7,20,12,26,11,22,7,66,1,6,2,26,2,39,42,55,40,30,39,4,9,23,24,2,1,6,13,18,7,1,31,3,2,1,2,16,9,12,4,2,3,17,37,1,2,2,7,15,21,1,3,5,9,7,12,3,53,39,70,28,33,175,51,17,117,30,6,19,52,164,26,18,199,15,5,4,5,4,26,14,5,2,1,2,1,8,4,3,1,4,2,3,16,3,21,4,15,32,56,15,2,11,13,9,8,100,28,4,37,41,38,53,20,25,233,7,2,78,13,7,1,5,13,5,2,1,9,2,1,12,2,10,3,53,21,7,24,42,47,2,4,9,4,47,17,12,19,76,4,4,3,5,9,52,73,1,10,2,4,4,11,3,5,2,3,69,7,14,49,74
+Figure	10,226,160,186,136,19,34,169,18,51,4,141,46,12,31,5,9,4,3,20,43,227,260,10,4,39,71,2,4,44,108,679,1,113,24,35,216,1,1,1,1,436,258,132,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,233,173,7,75,3,11,148,296,273,2,286,122,4,22,19,40,260,408,18,113,3,51,78,58,103,104,10,32,173,115,12,173,204,47,57,31,96,135,1,108,72,81,71,22,60,6,18,143,1,1,196,322,1,4,1,108,379,143,773,180,2,4,45,1,1,3,7,5,5,9,18,17,12,11,4,2,43,18,13,8,23,1,1,5,5,1,9,12,7,13,112,1,3,2,1,2,2,2,14,28,8,1,2,21,2,10,8,23,12,15,8,2,14,107,52,18,38,27,1,10,9,6,3,274,2,6,4,7,5,2,24,14,5,17,11,12,22,8,12,56,28,48,13,41,18,4,19,7,1,5,7,3,22,19,30,1,1,17,10,2,1,8,2,7,19,4,14,6,12,13,9,47,1,11,147,4,254,6,16,2,7,3,10,1,7,8,1,27,11,26,11,27,14,216,2,2,17,1,13,30,15,5,1,22,43,71,36,18,38,2,59,72,92,19,123,432,2,16,1,37,142,1,44,8,49,6,7,2,7,5,11,12,2,2,13,35,5,5,1,4,56,1,35,3,7,13,2,1,7,20,12,26,11,22,7,66,1,6,2,26,2,39,42,55,40,30,39,4,9,23,24,2,1,6,13,18,7,1,31,3,2,1,2,16,9,12,4,2,3,17,37,1,2,2,7,15,21,1,3,5,9,7,12,3,53,39,70,28,33,175,51,17,117,30,6,19,52,164,26,18,199,15,5,4,5,4,26,14,5,2,1,2,1,8,4,3,1,4,2,3,16,3,21,4,15,32,56,15,2,11,13,9,8,100,28,4,37,41,38,53,20,25,233,7,2,78,13,7,1,5,13,5,2,1,9,2,1,12,2,10,3,53,21,7,24,42,47,2,4,9,4,47,17,12,19,76,4,4,3,5,9,52,73,1,10,2,4,4,11,3,5,2,3,69,7,14,49,74,53,11,5,17,36
 Figure A	11250
 Figure A.1	1009,7594,2,2380
 Figure A.1. Social	10985
@@ -646,7 +656,7 @@ Figure5-7 TWS	17157
 Figure6	8606
 Figure9	8606
 FigureB1.2	11136
-Figures	10,26,200,321,56,209,191,371,141,258,1,1,1,1,1,1,1,1,1,1,1,1,1,1,31,1,91,68,353,20,137,6,1,408,288,1,1,1,1,1,1,1,1,1,373,335,1,1,422,142,33,651,462,84,26,40,290,338,172,306,59,1,21,11,104,1,1,1,1,1,1,1,1,121,206,46,116,27,359,788,863,165,877,56,61,10,56,15,3,117,26,134,56,67,37,42,536,5,2,14,99,8,158,67,19,3,79,18,9,58,28,46,827,53,165,92,24,648,289,89,49,21,92,61,123,36,62,11,118,130,96,1,6,235,10,194,113,14,239,45,451,230,69,36,251,285,93,161,110,288,140,239
+Figures	10,26,200,321,56,209,191,371,141,258,1,1,1,1,1,1,1,1,1,1,1,1,1,1,31,1,91,68,353,20,137,6,1,408,288,1,1,1,1,1,1,1,1,1,373,335,1,1,422,142,33,651,462,84,26,40,290,338,172,306,59,1,21,11,104,1,1,1,1,1,1,1,1,121,206,46,116,27,359,788,863,165,877,56,61,10,56,15,3,117,26,134,56,67,37,42,536,5,2,14,99,8,158,67,19,3,79,18,9,58,28,46,827,53,165,92,24,648,289,89,49,21,92,61,123,36,62,11,118,130,96,1,6,235,10,194,113,14,239,45,451,230,69,36,251,285,93,161,110,288,140,239,174
 Figures CPoS	12486
 Figures ES.1 Mobile	10977
 Figures English Version	15415
@@ -871,7 +881,7 @@ Line Ministry. Fig	1554
 List of FIGURES	18443
 List of Figures	236,346,1232,4186,946,4249,55,812,89,800,1824,183,671,1314,32,17,51,73,33,8,1029,31,237
 List of Figures Chapter	10763
-List of Figures Figure	958,856,174,787,3225,946,709,3063,477,64,803,855,1074,738,401,474,1272,59,57,4,131,1059,31,237,6,167
+List of Figures Figure	958,856,174,787,3225,946,709,3063,477,64,803,855,1074,738,401,474,1272,59,57,4,131,1059,31,237,6,167,143
 List of Figures Glossary of Terms Abbreviation Expansion	12917
 List of Figures PART	11250
 List of Figures Page	14775
@@ -1001,6 +1011,7 @@ Northeast Blue Nile State. Figure	14955
 Northern Central Luapula Eastern Western Figure	12431
 Note Figures	324
 Number of Domestic Audits and Revenues Collected Figure	13053
+Números Figura	18779
 O FIGURE	18487
 O Figure	15574
 O LOMAMI O TANGANYIKA Figure	15670
@@ -1011,6 +1022,7 @@ ODK Briefcase Figure	13375
 OK Figure	13375
 OK. Figure	13375
 OMS. Figure	17882
+ONGs. Figura	18763
 ORGANIGRAMME DE L' ARE Figure	15670
 ORGANIGRAMME Figure	18297
 ORGANISATIONAL SIZE Figure	1940
@@ -1096,6 +1108,7 @@ Project Preparatory Advance. Figure	16949
 Prosperity Insight Figure	10785
 Protecting Minority Investors Figure	18109
 Protest Figure	7886
+Príncipe. Figura	18760
 Public Health Figure	12508
 Public Private GFCF Figure	16996
 Puis Exécuter Figure	13375
@@ -1110,6 +1123,7 @@ QGIS Figure	13375
 QGIS. Figure	13375
 QUADRO DE FIGURAS Figura	2138
 QUALIFICATIONS Figure	1940
+Qualidade da Regulamentação Figura	18767
 RCA. Les Figures	15474
 RDC Figure	15670
 REFERENCIAL ESTRATÉGICO Figura	11397
@@ -1135,6 +1149,7 @@ Research Department Figure	13532
 Reserve Bank of Zimbabwe Figure	940
 Resilient Households and Individuals Figure	15130
 Results Figure	8022,414
+Resumo Fig	18783
 Retail Institutional Figure	6408
 Revenue Collection Figure	13053
 Ring With IBO Africa Title Fight	10151
@@ -1172,6 +1187,7 @@ SSS Figure	14745
 STAFF APPRAISAL 24 FIGURES	17990
 STATA. Figure	18169
 STATISTICS SYSTEMS OF Figure	12138
+STP. Figure	18787
 SUAVIEE BU FIGHIER Lébls	15485
 SUBSCRIPTIONS Figure	6000
 SYNTHÈSE DU RAPPORT Figures	15711
@@ -1259,7 +1275,7 @@ Target ATC&C Actual ATC&C Figure D	18217
 Taxes Figure	10976,1370
 TeleGeography. Figure	15447,1495
 Telesol Figure	2776
-Text Figure	13624,3585,700,81
+Text Figure	13624,3585,700,81,833
 Theoverallsystemarchitectureisillustratedin Figure10	8606
 ToT FIGURE	13095
 Top Management Figure	14761
@@ -1268,10 +1284,12 @@ Transactions Value and Volume of Transfers Figure	15023
 Transition Fig	6959
 Type of Investment Figure	14830
 Type of Poultry FIGURE	17043
+Táticas. Figura	18801
 U Gre W Figure	2776
 U. Fight	16958
 UEMOA. Figure	10712
 UMC. Facts and Figures	11424
+UN DESA Figura	18767
 UN Department of Field Support Figure	11552
 UN SEUL CODE DOIT FIGURER DANS	13300
 UN Statistical Division. Figure	16921
@@ -1279,6 +1297,7 @@ UN-Habitat. Figure	16916
 UNFILLED POSITIONS Figure	1940
 UNFM. Figure	18105
 UNIMA FIGURE	13095
+UNU-EGOV. Figura	18767
 Uganda. Figure	11964
 Unemployment Figure	11296
 United States and South Africa. Figure	12376
@@ -1318,7 +1337,7 @@ Workers Trained Figure	10976
 World Bank Client Connection. Figure	10768
 World Bank Figure	14965
 World Bank World Development Indicators Figure	10856
-World Bank. Figure	11874,7
+World Bank. Figure	11874,7,6906
 World Development Indicators Figure	13314
 World Figure	1828,15183
 XMLfiles. Figure6	8606

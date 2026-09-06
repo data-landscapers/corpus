@@ -45,6 +45,7 @@ Act. SUBSIDIARY LEGISLATION The Laws of Zambia	12410
 Act0526.pdf LEGAL SUPPLEMENT THE ELECTRONIC TRANSACTIONS	14821
 Acting Director of Legal and Company Secretary Anthony	9093
 Ad Legal International Ltd	8290
+Adaptação de Boas Práticas Legais	18788
 Addressing Legacy Systems	14525
 Adequate Legislative Framework for Broadband	16884
 Adequate Legislative Framework for Broadband No Parameter	16884
@@ -72,6 +73,8 @@ Appendix A LEGALITY DEFINITION	16843
 Application For NGO Legal Personality	12333
 Application Legislation	13403
 Appropriate Legislation In Libya	17157
+Assembleia Legislativa	18763
+Assembleia Legislativa Regional	18763
 Assessing Legal Standards	11662
 Assessment Area Findings Legal and Regulatory Kenya	12210
 Assessment of Existing Policy and Legal Framework	11905
@@ -112,7 +115,7 @@ Bugesera Kirehe Nyanza Nyamasheke Nyamagabe Legend	15056
 Building Legal Framework Phase-based Implementation	14137
 Business and Intellectual Property Authority Legislation	3714
 C. LEGISLATION	14031
-C. Legal Operational Policies	969,295,603,1737,2935,4229,61,135,416,37,132,11,1771,1,1605,554,24,3,35,68,37,1,2,1288,1344,8
+C. Legal Operational Policies	969,295,603,1737,2935,4229,61,135,416,37,132,11,1771,1,1605,554,24,3,35,68,37,1,2,1288,1344,8,476
 C. Legal Operational Policies D. Environmental	1264,5275
 C. Legal Operational Policies Page	15659
 C. Legal Operational Policies Triggered	13331
@@ -236,6 +239,7 @@ D. Legal Framework	14742
 D. Legal Operational Policies	1284,15638
 D. Legal Operational Policies. E. Environmental	16896
 D.C. The Center’s International Legal Program	13040
+DA VACATIO LEGIS DA LCE	18784
 DAS ELEiÇÕES LEGISLATIVAS	11528
 DCAF Legal Databases	0
 DE Legend	17140
@@ -363,11 +367,13 @@ Effective Legislation and Regulation	11007
 Egyptian Legal System and Legal Research	15473
 Electoral Legislation The CC	12201
 Electricity Regulatory Commission LLPA Legal	16978
+Electricity Sector Legal Code	18795
 Electricity Tariff Legal	16889
 Electronic Legal Aid System	11939
 Eleições Legislativas	15404,737
 Element Legal	10819
 Elements Criteria Legislation Legislation	17157
+Elevada Quadro Legal	18801
 Emerging Legal Frameworks	3861
 Emerging Legal Frameworks Register	3861
 Emerging Legislation	5244,2304
@@ -393,7 +399,8 @@ Environmental and Legal	11552
 Environmental and Legal PETROSA Petroleum Oil and Gas	11261
 Environmental and Legal QoS	12759
 Equity Affect the Legitimacy of Natural Resource Governance	11006
-Estrutura Legal	11898
+Estrutura Legal	11898,6890
+Estruturantes Legislativos	18767
 Eswatini Government Gazette Legal Notice No	12972
 Eswatini Legal Aid Office	12936
 Eswatini Legal Aid X	12936
@@ -532,11 +539,13 @@ III.1. ANALYSE DU CADRE LEGISLATIF	18291
 INCM's Legislação Institucional	2866
 INDIVIDUAL RIGHTS AND LEGAL STANDING	3861
 INDUST LEGERE SOGECILE	16623
+INE. Legenda	18801
 INFORMATION Constitutional and Legislative Framework	13739
 INTEGRATION WITH EMERGING LEGAL FRAMEWORKS	3861
 INTERNATIONAL LEGAL OBLIGATIONS	3861
 INTIC's Legal Department	17603
 INTRODUCTION AND LEGAL FRAMEWORK	9855
+ISR Implementation Status and Results Report LEG	18765
 ITU Legal	10764
 Identidade Legal	17015
 Identify the Legal Obligation	14524
@@ -773,7 +782,7 @@ Legacy of Listening	18493,15,6,7,45
 Legados. Servidor	16027
 Legafrik	14396
 Legais	12791
-Legal	28,208,513,212,1,7,40,152,82,21,20,63,250,33,147,41,49,11,1,60,157,10,1,782,69,81,57,130,71,94,203,3,8,73,36,73,74,111,18,136,1,27,13,35,15,43,41,48,19,53,107,29,6,298,112,29,111,19,220,11,170,132,51,176,15,508,8,9,10,366,119,9,2,172,63,105,193,67,10,48,100,67,209,55,19,132,258,1,34,23,109,193,44,48,93,24,77,235,73,83,21,12,97,13,44,67,150,74,80,10,47,128,293,255,1,10,18,19,2,5,3,19,3,67,86,9,37,86,1,1,2,5,2,9,5,2,23,2,41,47,7,95,30,151,17,38,194,6,5,51,35,7,4,10,36,1,4,26,122,43,50,13,5,31,47,5,23,2,11,5,6,7,11,22,4,20,70,29,20,2,15,49,52,24,222,16,7,11,6,26,11,32,9,22,1,11,5,132,114,9,2,1,9,11,12,20,19,36,132,104,27,88,179,16,60,114,68,190,32,65,106,56,74,6,8,7,2,7,9,6,3,13,29,5,10,16,12,17,86,32,22,12,5,19,1,2,15,8,21,62,19,7,152,30,21,6,27,47,38,7,86,17,523,44,55,23,328,3,122,68,52,9,13,2,9,4,8,8,10,13,1,10,10,3,3,36,39,1,1,95,13,12,18,93,1,9,36,73,25,43,148,110,50,28,7,90,64,2,34,148,5,235,79,9,8,11,2,9,28,25,2,25,19,6,17,9,5,133
+Legal	28,208,513,212,1,7,40,152,82,21,20,63,250,33,147,41,49,11,1,60,157,10,1,782,69,81,57,130,71,94,203,3,8,73,36,73,74,111,18,136,1,27,13,35,15,43,41,48,19,53,107,29,6,298,112,29,111,19,220,11,170,132,51,176,15,508,8,9,10,366,119,9,2,172,63,105,193,67,10,48,100,67,209,55,19,132,258,1,34,23,109,193,44,48,93,24,77,235,73,83,21,12,97,13,44,67,150,74,80,10,47,128,293,255,1,10,18,19,2,5,3,19,3,67,86,9,37,86,1,1,2,5,2,9,5,2,23,2,41,47,7,95,30,151,17,38,194,6,5,51,35,7,4,10,36,1,4,26,122,43,50,13,5,31,47,5,23,2,11,5,6,7,11,22,4,20,70,29,20,2,15,49,52,24,222,16,7,11,6,26,11,32,9,22,1,11,5,132,114,9,2,1,9,11,12,20,19,36,132,104,27,88,179,16,60,114,68,190,32,65,106,56,74,6,8,7,2,7,9,6,3,13,29,5,10,16,12,17,86,32,22,12,5,19,1,2,15,8,21,62,19,7,152,30,21,6,27,47,38,7,86,17,523,44,55,23,328,3,122,68,52,9,13,2,9,4,8,8,10,13,1,10,10,3,3,36,39,1,1,95,13,12,18,93,1,9,36,73,25,43,148,110,50,28,7,90,64,2,34,148,5,235,79,9,8,11,2,9,28,25,2,25,19,6,17,9,5,133,16,64
 Legal Access	6432
 Legal Accountability	18207
 Legal Action Against Individuals Behind Disinformation	15217
@@ -887,7 +896,7 @@ Legal Experts	4126
 Legal Finish	15263
 Legal Firms	14784
 Legal Foster	4126
-Legal Framework	21,1261,91,615,319,2478,1086,2719,3547,116,136,64,121,78,109,156,60,351,17,1,35,37,56,170,786,347,112,526,1445,61,6,84,1464,83
+Legal Framework	21,1261,91,615,319,2478,1086,2719,3547,116,136,64,121,78,109,156,60,351,17,1,35,37,56,170,786,347,112,526,1445,61,6,84,1464,83,237
 Legal Framework A. Review	12977
 Legal Framework Administration A C C	17116
 Legal Framework Analysis	7548
@@ -1018,7 +1027,7 @@ Legal Reform	12250
 Legal Reform Reform	16968
 Legal Reform and Training	13042
 Legal Reforms Addressing	17586
-Legal Regime	16942,30
+Legal Regime	16942,30,1825
 Legal Regime Netwk Ops	16594
 Legal Regime of Taxpayer Number	10775
 Legal Regulation Finance CEOs Office	12969
@@ -1063,7 +1072,7 @@ Legal Structure The Supreme Court	14742
 Legal Succession	11551
 Legal Support Assistance	18745
 Legal Support Services Division	12947
-Legal System and Judicial Independence	16972
+Legal System and Judicial Independence	16972,1825
 Legal System and Judicial Independence Eritrea	14008
 Legal System and Judicial Independence The Fundamental	16972
 Legal Teams Application of Divestiture Proceeds	15372
@@ -1177,7 +1186,7 @@ Legal and Regulatory Reforms and Audit Pathways	18531
 Legal and Regulatory Requirements	14546
 Legal&Tax Services	9951
 Legal-counsel	11801
-Legal-framework	1438
+Legal-framework	1438,17435
 Legal-jurisdictional	6471
 Legal-review	11801
 Legal. Para	11371
@@ -1187,7 +1196,9 @@ LegalIdentity	13244
 LegalNotices	2709,12223
 LegalPedia and LawPavilion. Ohio Books Ltd	11654
 LegalTech	9993
-Legalidade	6970,4413,78,437
+Legalidade	6970,4413,78,437,6890
+Legalidade Artigo	18751
+Legalidade O Estado de Direito Democrático	18751
 Legalisation of Foreign Public Documents Page	10819
 Legalising Surveillance and Interception of Communication	13313
 Legality	6432,10,4281,1615,2228,2277,5,5,1440
@@ -1215,7 +1226,7 @@ Legend Patient Facility	8605
 Legend Registered Marriage	15056
 Legend for Somalia	15129
 Legend. Natural Color RGB The Natural	14256
-Legenda	11404,4562,359
+Legenda	11404,4562,359,2476
 Legendary Bollywood	14771
 Legendary Foods	7482
 Legende	17140
@@ -1239,7 +1250,7 @@ Legislate	17260
 Legislate and Enforce	16884
 Legislated Master Plan	17260
 Legislating	18207
-Legislation	21,375,177,216,366,670,292,592,688,153,164,1533,5528,66,119,169,68,22,5,37,616,19,90,152,187,64,285,1,73,143,91,51,57,196,24,4,2,15,72,548,34,236,213,240,62,6,11,126,16,458,29,31,60,74,22,414,864,25,2,10,1,126,249,1183,35,7,27,84
+Legislation	21,375,177,216,366,670,292,592,688,153,164,1533,5528,66,119,169,68,22,5,37,616,19,90,152,187,64,285,1,73,143,91,51,57,196,24,4,2,15,72,548,34,236,213,240,62,6,11,126,16,458,29,31,60,74,22,414,864,25,2,10,1,126,249,1183,35,7,27,84,199
 Legislation Acts Policies Regulations Standards Consumer	12515
 Legislation Against Illegal Ministry of Justice Immediate	17157
 Legislation Against Overgrazing	17157
@@ -1335,6 +1346,7 @@ Legislativo. Metrópoles. Disponível	2816
 Legislator	12514
 Legislators	7117
 Legislators Cleaners and Helpers	16266
+Legislatura Artigo	18751
 Legislature	587,113,258,1349,701,575,1068,824,691,802,1047,2112,1409,923,121,819,102,158,382,5,228,272,147,2137,5,5,1,2,8,57,35,6,2,19,41,103,2,3,20,10,6,4,96,2,3,20,78,6,12,18,25,1017,76,85
 Legislature Assembled	700,16132,9,10
 Legislature PART I PRELIMINARY	16835
@@ -1345,7 +1357,7 @@ Legislature. Construction Projects Behind Schedule	9650
 Legislature. Judgments	16943
 Legislature. Providing Services	13502
 Legislature’. Statutes	2307
-Legislação	167,577,2775,755,3192,3910,18,21,3,10,470,3460,1,29,3,1,41,17,54,28,152,10,78,183,11,123,162,849
+Legislação	167,577,2775,755,3192,3910,18,21,3,10,470,3460,1,29,3,1,41,17,54,28,152,10,78,183,11,123,162,849,1651,2,2,48,23,5
 Legislação Ambiental	11406
 Legislação Angolana. Sempre	11390
 Legislação Aplicável	167,4051,6537,626
@@ -1356,8 +1368,12 @@ Legislação Penal	10747
 Legislação Relatório	11933
 Legislação Social	11406
 Legislação Subsidiária	752
+Legislação de Instituição de Assinatura Digital	18767
 Legislação de Licenciamento Ambiental	11898
+Legislação de Participação	18767
+Legislação de Partilha de Dados	18767
 Legislação de Protecção de Dados	167
+Legislação de Transparência	18767
 Legislações	15554
 Legit	6368
 Legit.ng	1128,4084,2895,243
@@ -1462,6 +1478,7 @@ Mobile and Legacy Applications Government	11872,3
 Model LDCs Least Developed Countries LEG	18578
 Moderate LEGAL COVENANTS2 LEGAL COVENANTS	16922
 Moderate LEGAL COVENANTS2 RESULT FRAME TBL PD	16896
+Moderate Legal Covenants Effectiveness IBRD	18777
 Modified Legal Framework	10
 Momento da Abertura da Conta Legenda	11404
 Mount Pleasant Business Park Leghar Ethio	11563,6180
@@ -1476,6 +1493,7 @@ NATIONAL LEGISLATION Specific	13962
 NCDA. Legal	12338
 NCRIC Legal Framework	14430
 NDS Pillars Data Literacy and Skills Legal	14790
+NDT. Fraquezas Quadro Legal	18760
 NERAL SERVICE DU'FICHIER LEGISLATIF ET REGLÉIRENT	15530
 NESIP. The LEG	12175
 NIA.67 Legal	10822
@@ -1564,6 +1582,7 @@ Pharmaceutical and Food Legislation Database	11939
 Phone JOB CORNER LegalTech LinkedIn Management	9993
 Planned Action Legislation	16884
 Planta Legal	15388
+Poder Legislativo	18763,11
 Police General Headquarters. The Legal Services	13361
 Policies and Legal Framework	6432
 Policies and Legislation	12642
@@ -1734,6 +1753,7 @@ SERVICE DU FICHIER LEGISLATIVE Ang	15999
 SERVICE DUIFICHIER LEGIE ARTICLE	15530
 SERVICE Où FICHER LEGISLATIF ET REGLEMENTAIRE	15999
 SERY E DU FICHIER LEGISLATS GISLATIVE	10974
+SESSÃO LEGISLATIVA SUMÁRIO Págs. Proposta de Lei	18778
 SIGNIFICANT ECONOMIC PRESENCE LEGISLATION	3161
 SIXTH SESSION OF THE FIFTY-SECOND LEGISLATURE	16841
 SOV-2 Legal	3787
@@ -1756,6 +1776,7 @@ Secretary Adv. Kedilatile Legodi NATIONAL CREDIT	11198
 Sector-Specific Legislation	17243
 Secured Transactions Legal and Regulatory Framework	12598
 Securities and Exchange Commission. Legal	8788
+Secção II Legitimidade	18755
 Selection of Manifestation Legal Specialist	11855
 Senate Legislation Committee	12738
 Senior Legal Adviser	8712
@@ -1895,6 +1916,7 @@ VS ENHANCED SYSTEM SMARTCARE LEGACY SMARTCARE	2477
 VSWIFT Legal Technical Working Group	13042
 VSWIFT Legislative Framework	13042
 Vague Topic Legally Legally Legally	1243
+Veloz Counsel Legal No Lockward Carla	18809
 Verification System ILPD Institute of Legal Practice	718
 Visa and Legal Assistance	12675
 Voter Registration Legal	18531
@@ -1918,6 +1940,7 @@ X Legislatura	15572
 X Legislature	15590
 X No Financing Conditions and Legal	15372
 X Snr Legal Officer	13097
+XI LEGISLATURA	18778
 XI Legislatura	11569,3834,664
 XII. Legal	14729
 Y9 SCHEDULE LEGISLATION REPEALED	11178

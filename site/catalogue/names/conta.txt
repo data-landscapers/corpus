@@ -3,6 +3,7 @@ ANY INFORMATION CONTAINED HEREIN DOES	12400
 APPLICANT’S CONTACTS Physical Address	14880,1998
 Abertura de Conta Bancária	11383
 Abertura de Conta de Moeda Electrónica	11404
+Abertura de Contas de Depósitos	18750
 Abertura de Contas de Moeda Electrónica	11404
 About Contactable Contactable	6559
 Acto de Abertura de Conta de Moeda Electrónica	11404
@@ -43,7 +44,9 @@ CIV III. CONTACT POINT World Bank	18374
 CNFTS Contas Nacionais da Força de Trabalho	15966
 CONFIDENT SUFFICIENT IS NOT CONTENT CONTACTING	11964
 CONFIDENT SUFFICIENT NOT RELEVANT CONTENT CONTACTING	11004
+CONTABILIDADE A Direção de Impostos	18845
 CONTABILIDADE PróximoTRIBUNAL DE CONTAS ANALISA ESTADO	11473
+CONTABILISTAS CERTIFICADOS	18845
 CONTACT	578,2763,12577,701,34,8,8,40,6,16,674,536,691
 CONTACT Adresse	15944,154,424
 CONTACT Claire Mattei	14445
@@ -75,6 +78,7 @@ CONTACT WAPIS PROGRAMME	16633
 CONTACTING CONTENT INFORMATION DRAINS MY	11964
 CONTACTO Djibloho	17307
 CONTACTOS	15520,660
+CONTACTOS EMAE	18793
 CONTACTS Jessica Somé	11897
 CONTACTS Mr Moses Bayingana-BayinganaM	16854
 CONTACTS Sydjai Rose Christelle Vangah	16580
@@ -92,6 +96,8 @@ Careers IDF-Application AI Assistant Contact	12495
 Central Africa CFS Container Freight Station	2775
 Central Africa. Contacts Lionel Yaro	16513
 Central Bank of The Gambia CBPP Contagious	17105
+Central Hidroelétrica de Contador	18793
+Central de Contador	18793
 Change Accounting Period and Update Contact Details	14533
 Change Password Reset Password Contact Us	13051
 Charge of ICT Contact Person	15372
@@ -102,15 +108,18 @@ Cities Contact Live Demo Digital Land	12211
 Click Here Contact Us	12282
 Cold Aisle Containment System	12253
 Colegio Nacional de Expertos Contables	17415
+Comissão de Normalização Contabilística	18764
 Confirmar Conta	16027
 Consulta Conta Corrente DCI	12018
 Consultant Culturel Contact	16693
-Conta	744,50,545,1,1,2877,6496,38,634,182,1228,2644,86,386,1188
+Conta	744,50,545,1,1,2877,6496,38,634,182,1228,2644,86,386,1188,1661,9,28,55
 Conta Autárquica	12796
+Conta BISTP	18834,1
 Conta Bancária	16579
 Conta Fiduciária	11386
 Conta Float	11438
-Conta Geral	1338,1,1,1,2326,1345,1179,6598,7,2730,436
+Conta Geral	1338,1,1,1,2326,1345,1179,6598,7,2730,436,2834
+Conta Nacional de Petróleo	18798,55
 Conta ORIENTAÇÕES PARA PAGAMENTO SIMPLIFICADO	11532
 Conta Primeiro Pagamento Por Conta da CI	11532
 Conta Provisória	1339,750,1578,1345,1179
@@ -125,9 +134,10 @@ Conta de Pagamento Pré-Paga	11386
 Conta de Pagamento Pós-Paga	11386
 Conta de Receitas Transitórias de Petróleo	12796
 Contabilidad Publica Secretario de Estado	16904
-Contabilidade	10614,4889,23,246
+Contabilidade	10614,4889,23,246,3003,56
 Contabilidade Financeira	15772
 Contabilidade Nacional	8775
+Contabilidade Número de Empresas Porcentagem	18775
 Contabilidade O Ministro	15526
 Contabilidade Organizada	12018
 Contabilidade Pública	3118,12286,122,46,484
@@ -136,11 +146,12 @@ Contabilidade de Custo	15772
 Contabilidade. SECÇÃO III SERVIÇOS DE APOIO	167
 Contabilistas	11381,54,4477
 Contabilistas Certificados de Cabo Verde	15477
+Contabilização	18791
 Contabilização de Custos	11430
 Contabilístico	11449
 Contables Púb	4209
 Contac'tos	11544
-Contact	761,248,238,278,169,253,41,812,7,472,85,149,572,349,240,209,218,250,148,177,227,48,204,1731,415,302,313,27,24,100,362,46,455,421,68,244,52,20,58,19,80,110,196,16,20,17,47,43,231,17,30,313,21,88,96,20,36,5,9,46,28,1,5,15,43,48,61,23,18,32,112,7,108,15,98,1,1,182,113,57,79,92,37,74,47,10,58,130,1,50,14,158,454,76,23,35,5,113,81,57,17,249,46,2,126,120,27,7,12,43,69,13,51,28,1,55,22,75,32,41,50,341,23,99,10,41,137,79,65,80,2,14,1,1,1,50,21,23,65,1,51,22,35,1,35,18,32,7,1,44,50,41,22,151,2,28,32,49,107,199,5,5,11,33,4,25,6,65,2,1,27,81,83,57,25,53,61,55,1,11,6,2,6,1,2,1,6,4,6,1,16,2,1,13,6,6,2,8,1,139
+Contact	761,248,238,278,169,253,41,812,7,472,85,149,572,349,240,209,218,250,148,177,227,48,204,1731,415,302,313,27,24,100,362,46,455,421,68,244,52,20,58,19,80,110,196,16,20,17,47,43,231,17,30,313,21,88,96,20,36,5,9,46,28,1,5,15,43,48,61,23,18,32,112,7,108,15,98,1,1,182,113,57,79,92,37,74,47,10,58,130,1,50,14,158,454,76,23,35,5,113,81,57,17,249,46,2,126,120,27,7,12,43,69,13,51,28,1,55,22,75,32,41,50,341,23,99,10,41,137,79,65,80,2,14,1,1,1,50,21,23,65,1,51,22,35,1,35,18,32,7,1,44,50,41,22,151,2,28,32,49,107,199,5,5,11,33,4,25,6,65,2,1,27,81,83,57,25,53,61,55,1,11,6,2,6,1,2,1,6,4,6,1,16,2,1,13,6,6,2,8,1,139,140,2
 Contact AVCA	4972
 Contact About Us	17025
 Contact About Us Departments	16961
@@ -231,7 +242,8 @@ Contact Us TECHNOPOLE	18430
 Contact Us Tenengfara Business Complex	16914
 Contact Us User Manuals	12454
 Contact Zoie Jones	18707
-Contact for More Information Tags Back	16972
+Contact for More Information Luanda Political and Economic	18797
+Contact for More Information Tags Back	16972,1825
 Contact for More Information U.S. Embassy Malabo	16972
 Contact of Administrator	17114
 Contact of Nonusers	15247
@@ -245,7 +257,7 @@ ContactFor	14789
 Contactable CEO Shaun Strydom	6559
 Contactable9	6559
 Contactar	17259
-Contacte-nos	11488,3998,818
+Contacte-nos	11488,3998,818,2465,2,66,8
 Contacted	7518,440,3670
 Contacter	15908
 Contacter DTMNiger	18193
@@ -257,7 +269,7 @@ Contactez-nous Se	14683
 Contactez-nous. Bluezone de Dixinn	16693
 Contacting	7886,3131,4325,1525
 Contacting the Purchaser	14766
-Contacto	966,1472,8945,5,47,4013,1062,349
+Contacto	966,1472,8945,5,47,4013,1062,349,1910
 Contacto ECTS Análise Matemática	12019
 Contacto ECTS Base de Dados	12019
 Contacto ECTS Centro de Dados	12019
@@ -268,16 +280,17 @@ Contacto ECTS Programação	12019
 Contacto ECTS Robótica	12019
 Contacto Entre	10777
 Contacto Tm	11518,1
-Contactos	11425,102,11,31
+Contactos	11425,102,11,31,7261,1
 Contactos Perguntas Frequentes Mapa	11374
 Contactos Redacção da Praia	15998,558
 Contactos TACs Lista Contactos Tecnicos de Apoio	12018
+Contactos de SMI	18768
 ContactosRedacção da Praia	16262,85
-Contacts	1579,322,87,4944,266,487,988,45,267,64,581,136,780,1331,406,300,164,777,1482,362,205,64,323,99,142,47,190,3,2,909,536,132,367
+Contacts	1579,322,87,4944,266,487,988,45,267,64,581,136,780,1331,406,300,164,777,1482,362,205,64,323,99,142,47,190,3,2,909,536,132,367,429,52,5
 Contacts Andries Rossouw Africa Energy	7751
 Contacts Assistance	13360
 Contacts CBE Complex	11134
-Contacts Contacts	15024,819,822,380,120,760,412
+Contacts Contacts	15024,819,822,380,120,760,412,501
 Contacts Contacts Name Affiliation Email GlobalFindex	15844
 Contacts Evénements	2407,41,490,2760,1057,3206
 Contacts For Inquiries About the Project	16776
@@ -299,6 +312,9 @@ Contacts World Bank Media Relations	11137
 Contacturer Investment Holding	5291
 Contacté	2346,4531,1976,7639
 Contactée	5412
+Contador	18793
+Contadores	18793
+Contadores Electricidade Unidades	18793
 Contadores Prepagos	4209
 Contagem	11416,4722,187
 Contagious Bovine Pleuropneumonia	17105
@@ -319,20 +335,20 @@ Contaminación	16898
 Contaminated	1988,9134
 Contaminated Site Assessment	14774
 Contamination	1988,12435
-Contamos	1701
+Contamos	1701,17140
 Contar	1701,7838,7359
-Contas	13,731,687,1,659,55,1,719,555,472,570,1,6291,3,628,79,556,775,2595,42,7
+Contas	13,731,687,1,659,55,1,719,555,472,570,1,6291,3,628,79,556,775,2595,42,7,3333,10
 Contas Bancárias	10777
 Contas Bancárias Limites	11403
 Contas Detidas Junto	10755
 Contas Especiais	15526
 Contas Estratégicas da Uniti Wholesale	6356
-Contas Nacionais	3421,5354,548,118
+Contas Nacionais	3421,5354,548,118,9308,26
 Contas Nacionais DPA	10757
 Contas Nacionais Trimestrais	11447
 Contas Nacionais da Força de Trabalho	15966
 Contas Nacionais da Saúde	15966
-Contas Nacionais de Saúde	15966
+Contas Nacionais de Saúde	15966,2817
 Contas Tituladas	11386
 Contas Transacionáveis	11426
 Contas de Fundo de Maneio	15526
@@ -346,6 +362,7 @@ Contato	11534,622
 Contatos Loremipsum	15470
 Contatos Rua Cidade	15470
 Cost Containment	12598
+Câmara Municipal de Cascais CONTACTOS	18877
 Código de Contaminación	1701
 DA CONTA GERAL DO ESTADO	12796
 DE TRIBUNAL DE CONTAS	17100
@@ -356,12 +373,15 @@ Da Conta Digital	8003
 Data Stories Contact	12499
 Date of Birth Contact	16955
 Delays of Tribunal de Contas	10768
+Departamento de Contas	18757
 Department Contact Info	17232
 Description Containing	8603
 DesignLab Organisation Contact People	15552
 Development Policy Operations. Contacts	14603
 Director da Contabilidade Pública	15404
 Direcção Nacional de Contabilidade Pública	10768
+Direcção de Contabi	18853
+Direcção de Contabilidade Pública	18798,55
 Direcção de Contas Nacionais	11449
 Djibouti Port Container Traffic	13868
 Documentation Contact	1297,14152,799
@@ -398,6 +418,7 @@ Financing Transportation Durban Container Terminal Pier	11248
 First Contact	5029
 Floor Contact Us	9125
 Floor Contact Us Newsletter	15162
+Fluxo de Informação Quem Data Contacto NRD	18788
 Forum News Sierra Leone Contact	4619
 Français Contact Us Home About Us	13309
 G. CONTACT DETAILS First Transfer Secretaries	4896
@@ -414,6 +435,7 @@ HOME REPORTS ABOUT CONTACT NEWSLETTER Digital	12441
 Help Desk Contact	12364
 Helpdesk Contact	14900
 Homens...............................159 Contacto	10777
+HÍDRICA ISOLADAS PRÍ NCI PE CONTADOR	18793
 I I Citizenship of Applicant Contact Person	736
 I Technical Contact Agent D Government	736
 ID of Contact Person Type of Identity	18452
@@ -429,8 +451,11 @@ Idem Comunicação Contacto	17147
 Impacts CONTACT POINT World Bank Juan	16675
 Implementation of Catastrophe Containment and Relief	13868
 Implementing Agency. Contact	12220
+Information and Contacts By U.S. Embassy	18879
 Informações Contactos	11415,13
+Informações de Contacto Telefone	18799,25
 Insights CONTACT US APPLY NOW Cross-border	13666
+Instituto Universitário de Contabilidade	18819
 Integrated Digital Contact Centre	11231
 Inter-Agency CONTACTS Bernadette-Mah Ippet	10864
 Introd. Contabilidade	15772
@@ -442,6 +467,7 @@ Kenyans. Contacts	14642
 LEARNING IS NOT CONTENT CONTACTING CONTENT	11964
 LECTRONIQUE CONTACT DE L’ARE	15670
 LECTRONIQUE CONTACT DE L’ARE Dans	15670
+LISTA DE CONTABILISTAS E EMPRESAS	18845
 Last Contact	5687
 Le Container	15744
 Leadership Departments Affiliated Institutions Contact Us	13309
@@ -465,6 +491,7 @@ Measles Containing Vaccine	18627
 Media Contact	6932,4328,549,1805,2883
 Media Contact GSMA Press Office	11003
 Media Contact Name	14890
+Media Contact Zacharie Roger MBARGA	18846
 Media Contacts	9852
 Media Contacts GSMA Press Office	14093
 Media Contacts Greg Sellars	14405
@@ -483,6 +510,7 @@ Morada Encarregado de Educação Contacto	16325
 Movimentação de Contas de Moeda Electrónica	11404
 Mozambique. Contacts	12220
 Mozambique. Contacts Arrone Santos Macuácua	12855
+Mário Sousa Direcção de Contabilidade	18798
 N Company Name Date of Contact Details	3386
 NA REVISTA DO TRIBUNAL DE CONTAS	11473
 NAME AND CONTACT ADDRESSES OF PROCURING	1638
@@ -502,6 +530,7 @@ National Government Contact Centre. The PS	6316
 Nature of Business Certificate of Incorp Contact Person	736
 News Contact	13666,3397,1,137
 Normas Generales de Contabilidad. También	17282
+Nossos Serviços Contacte-nos FAQ Encontre-nos Criar	18837
 Nous Contacter	18061
 Nous Contacter SUIVEZ-NOUS	17993,96
 Nous Contactez Hamdallaye ACI	17897
@@ -515,6 +544,8 @@ Operational and Maintenance Phase Contamination	1988
 Organisation Contact Person Position	17212
 Organisations Addresses Contact	17099,15
 Organização da Contabilidade	12018,4004
+Organização de Contabilidade	18775
+Organização de Contabilidade Empresa Organizada Segundo	18775
 Ouest. Contactez-nous	18363
 PARA A PRESTAÇÃO DE CONTAS	11473
 POPULARES DAS LUNDAS CONTAM ABUSOS NA	9399
@@ -595,11 +626,14 @@ Sanitaire de Premier Contact HDc Groupe de Travail	15711
 Sanitaires de Premier Contact	3604
 Saúde CNS Contas Nacionais de Saúde COP26	15966
 Search Info About Contact Citation	12441
+Section U.S. Embassy Luanda Contact Us	18797
+Secção III Sistema de Contabilidade Analítica Artigo	18778
 Send Message Contact Information Our Office	12211
 Separação de Contas	11430,90
 Serviço de Contabilidade Pública	15526
 Signing of Contact	11869
 Sistema de Contabilidad Nacional	16898
+Sistema de Contabilidade Analítica	18778
 Sistema de Contas Nacionais SNU Sistema	15535
 Sistemas de Contabilização de Custos	11430
 Soil Contamination	1988
@@ -627,7 +661,7 @@ Togo's Ministry of Education. Contact	1959
 Tonnes. Contact	17006
 Trade Consular Services Contact Us Home	791
 Transnet and International Container Terminal Services Inc	11236
-Tribunal de Contas	13,1,153,3500,1345,1179,4577,649,32,24,70,26,3822,13,508,50,60,34,33,398,613
+Tribunal de Contas	13,1,153,3500,1345,1179,4577,649,32,24,70,26,3822,13,508,50,60,34,33,398,613,1693,3,2,55
 Tribunal de Contas Angola	11473
 Tribunal de Contas O Tribunal de Contas	16487
 Tribunal de Contas da União	11473
@@ -636,6 +670,7 @@ Tribunal de Contas. ARTIGO	17100
 Tribunal de Contas. CAPÍTULO V PESSOAL	167
 Tribunal de Contas. Every	1339
 Turma N.º Nome Idade Contacto	16325
+Técnicos Oficiais de Contas	18825
 UNAIDS. Contacts	18080
 UNESCO Eswatini. Contact	12347
 UNICEF UNICEF Contact	17882
@@ -648,6 +683,7 @@ Universal Contact Points	5676
 Unsafe Containers Sierra Leone Confirms Measles	4619
 Update Contact Details Menu	14533
 Useful Links CONTACT US Electricity House	18453
+Utilização da Conta Nacional	18798,55
 VICE-PRESIDENTE DO TRIBUNAL DE CONTAS	11473
 Video Gallery FAQ's Contact Us Search	12322
 Videos Gallery Contact Contact FAQ Home	12390

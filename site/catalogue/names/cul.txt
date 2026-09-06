@@ -58,6 +58,8 @@ CULTURAL AND LINGUISTIC DIVERSITY Local	14853
 CULTURAL LIFE OF THE COMMUNITY	17970
 CULTURAL RIGHTS	17970
 CULTURALES	4209
+CULTURAS DE EXPORTAÇÃO	18757
+CULTURAS TRADICIONAIS	18757
 CULTURE	7167,6307
 CULTURE AND CHILDREN SERVICES State Department	14487,29
 CULTURE AND HERITAGE Cabinet	13673
@@ -73,6 +75,7 @@ CULTURE TRANSFORMATION	16968
 CULTURELLES ET	15999
 CULTURELLES ET AUX LOISIRS ARTICLE	15436
 CULTURELS Le Président	17833
+CULTURES DE EXPORTATIONS Cacau	18757
 Cadre de Vie Culture	4895
 Capacity Building and Culture	14790
 Capital Culture Infrastructure	16942
@@ -82,7 +85,7 @@ Centro Cultural	12814
 Centro Cultural Ecuatoguineano	17026
 Centro Cultural Ecuatoguineano de Malabo	17349
 Centro Cultural Franco-Bissau-Guineense	17082
-Centro Cultural Português	3530
+Centro Cultural Português	3530,15274,3,1,6
 Centro Cultural de Cabo Verde	3956
 Centro Culutal Português	7882
 Centros Culturales	4209
@@ -137,9 +140,10 @@ Cultivation	12512,783
 Cultivation of Platform Dependence	226
 Cultiver	8566,4824,4473,120
 Cultivos	16875,23
-Culto	1855,2354,2632,10057,67,84
+Culto	1855,2354,2632,10057,67,84,1702
+Culto Artigo	18751
 Culto. Sobre	12795
-Cultura	1701,1115,1393,1454,1178,85,956,1421,1135,314,638,4,163,12,3907,218,793,411,138,5,153,88
+Cultura	1701,1115,1393,1454,1178,85,956,1421,1135,314,638,4,163,12,3907,218,793,411,138,5,153,88,1468,1,1,5,3,5,8,8,13,2,2,3,13,23
 Cultura CV	15772
 Cultura Cabo	15772
 Cultura Estatística	17058
@@ -148,17 +152,20 @@ Cultura Na	2816
 Cultura ONG	11387
 Cultura Oficina de Información	17262
 Cultura Organizacional	2816,13150
+Cultura Orientada	18801
 Cultura UNICEF	1701
 Cultura UNICEF GEN Fundo	11557
 Cultura de Cibersegurança	4146
+Cultura de Cibersegurança Com	18788
 Culturais	11547,15
-Cultural	582,358,614,1113,291,1474,1279,1235,2,842,340,2839,169,77,669,1,10,99,157,8,1,45,5,4,32,105,4,132,130,388,75,278,119,84,1645,267,764,19,75,772,11,43,603,256,362,109
+Cultural	582,358,614,1113,291,1474,1279,1235,2,842,340,2839,169,77,669,1,10,99,157,8,1,45,5,4,32,105,4,132,130,388,75,278,119,84,1645,267,764,19,75,772,11,43,603,256,362,109,309
 Cultural Activities	16275
 Cultural Affairs	16872,103,18,44
 Cultural Affairs and Tourism	3239,13722
 Cultural Affairs and Tourism Minister Jerolinmek Matthew	9211
 Cultural Appropriateness	18370
 Cultural Appropriateness and Inclusivity	15055
+Cultural Artigo	18751
 Cultural Cartography By Atwemereireho Alex	8352
 Cultural Centres	14742
 Cultural Confidence	11138
@@ -226,7 +233,7 @@ Culturally	17114
 Culturally Develop	4126
 Culturally Grounded Misogyny Detection Framework	7790
 Culturas Autóctonas	4209
-Culture	1200,47,741,820,150,438,91,338,301,276,493,351,305,43,1238,335,381,251,44,135,254,5,32,449,32,38,103,515,463,21,71,32,307,219,328,284,3,1,16,123,940,32,99,67,479,80,1,318,100,84,87,124,43,16,56,108,523,32,75,56,154,82,86,81,167,212,50,28,12,13,9,5,19,34,34,44,89,2,12,121,6,79,3,63,81,126,50,229,11,131,14,52,165,18,66,26,7,164,28,73,1,220,33,169,8,153,3,2,4,11,12,4,10,12,9,4,4,38,12,10,19,4,9,8,33,15,4,26,10,3,26,53,22,36,11,48,5,15,19,14
+Culture	1200,47,741,820,150,438,91,338,301,276,493,351,305,43,1238,335,381,251,44,135,254,5,32,449,32,38,103,515,463,21,71,32,307,219,328,284,3,1,16,123,940,32,99,67,479,80,1,318,100,84,87,124,43,16,56,108,523,32,75,56,154,82,86,81,167,212,50,28,12,13,9,5,19,34,34,44,89,2,12,121,6,79,3,63,81,126,50,229,11,131,14,52,165,18,66,26,7,164,28,73,1,220,33,169,8,153,3,2,4,11,12,4,10,12,9,4,4,38,12,10,19,4,9,8,33,15,4,26,10,3,26,53,22,36,11,48,5,15,19,14,418,8,92
 Culture AI	2958
 Culture Any Arab	2958
 Culture Applications	2958
@@ -414,6 +421,7 @@ GABON CULTURE	16175
 GESTION DU PATRIMOINE CULTUREL	15999
 GET INTOUCH Namibian Broadcasting Corporation Cullinan	13247
 Georges Culta	15615
+Gestão Cultural	18831
 Google Arts and Culture. Digit Scholarsh Humanit	17773
 Governance Cultural Confidence Institutional Accou Consumer	11138
 Guardians of Cultural Representation	8460
@@ -444,8 +452,8 @@ Inside Bayobab’s Culture of Recognition Corporate Bayobab	11234
 Institut Master Culture	17829
 Institutionalize Data Use Culture	15960
 Int J Cult Stud	9739
-Intangible Cultural Heritage	14073,669,1226,2002
-Intangible Cultural Heritage of Humanity	14742
+Intangible Cultural Heritage	14073,669,1226,2002,887
+Intangible Cultural Heritage of Humanity	14742,4068
 Intangible National Cultural Heritage. Mauritius	14742
 International and Cultural Cooperation	14373
 International and Cultural Cooperation Center	14685
@@ -457,6 +465,7 @@ JEUNESSE ET CULTURE Conseiller Spécial du Président	16099
 JEUNESSE ET DE LA CULTURE Projet	4402
 JKIA’s... Lifestyle News Culture Boncana Maïga	5407,676
 Journal of Cultural Economy	3782
+Kochi. Cultural Relations	18857
 LA CULTURE	13908
 LA CULTURE ET DES ARTS MINISTERE	15747
 LA PROMOTION CULTURELLE DES US ET	15780
@@ -514,6 +523,7 @@ Ministry of Sports Culture and Youth Affairs	13093
 Ministry of Tourism and Culture	16967
 Ministry of Youth Sports Culture	12551
 Ministério da Cultura	2816,7938,773,5514
+Ministério da Educação Cultura	18796
 MoU. Arts and Culture	11185
 Mogoditshane Community Library and Cultural Centre	12597
 Mozambican Ministry of Education and Culture	12819
@@ -536,6 +546,7 @@ News Culture Moroccan Filmmaker and Rapper	5407,676
 News Southern Africa Strengthens Protection of Cultural	11439
 Nut Cultivation	17043
 O Centro Cultural Franco-Bissau-Guineense	17082
+O Centro Cultural Português	18820
 O- Cultural	582
 Objectifs de Développement Durable. C. Cultural Rights	15968
 Observatory of Linguistic and Cultural Diversity	7320
@@ -624,7 +635,7 @@ Scientific and Cultural Organization AUC African Union	10835,3,130,902,16,466,1,
 Scientific and Cultural Organization UNFPA United Nations	15604,3020
 Scientific and Cultural Organization UNHCR United Nations	17157
 Scientific and Cultural Organization UNICEF United	12970
-Scientific and Cultural Organization UNICEF United Nations	13312,2,3791,765
+Scientific and Cultural Organization UNICEF United Nations	13312,2,3791,765,895
 Scientific and Cultural Organization UNWTO United Nations	2775
 Scientific and Cultural Organization UPI Unique Project	16996
 Scientific and Cultural Organization USA United States	12512
@@ -682,6 +693,7 @@ Technical and Cultural	18016
 Technical and Cultural Cooperation	18016
 Technical and Socio Cultural	16237
 Tomás Culolo	3899
+Tonne CULTURES TRADITIONNAUX Banana	18757
 Tourism and Culture	16872
 Tourism and Culture Honourable Speaker	17105
 Transmod J Peripher Cult Prod Luso-Hisp	9739

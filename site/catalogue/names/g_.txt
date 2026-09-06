@@ -20,8 +20,8 @@ Albert G	10763
 Albert G Zeufack	15697
 Albert G. Zeufack	1914
 Albert G. Zeufack Acting Practice Manager	11417
-Albert G. Zeufack Practice Manager	10768
-Albert G. Zeufack Regional Director	1284
+Albert G. Zeufack Practice Manager	10768,8041,42
+Albert G. Zeufack Regional Director	1284,17541
 Alexia Sanzey G. En	16310
 Alleyne G	10780
 Alport G. E. S. A	17282
@@ -230,7 +230,7 @@ G Fifth Generation Network ABMT Appropriate	2775
 G Fifth Generation Telephone Wireless Technology	11857
 G Fifth-generation	16915
 G Fixed Wireless Access	6100,10710
-G Fourth Generation	6671,6675
+G Fourth Generation	6671,6675,5431
 G Fourth Generation GSM GNI Gross	14897
 G Fourth Generation Network	2775
 G Fourth Generation Telephone Wireless Technology	11857
@@ -419,7 +419,7 @@ G TOTAL CF	17140
 G TRAITEMENTS DONNÉS	13300
 G Taxe	16047
 G Technology Will Contribute	5675
-G Third Generation	6671,6675
+G Third Generation	6671,6675,5431
 G Third Generation GSM	14897
 G Third Generation Network	2775
 G Third Generation Telephone Wireless Technology	11857
@@ -430,6 +430,7 @@ G Tower URL	17151
 G Transport Network Ericsson	5332
 G Troisième	15493
 G Tunisia	8828
+G U A M3	18793
 G URINE FONCÉ	13300
 G URL	14780,45,3210
 G USIM	5391
@@ -629,7 +630,7 @@ G. Quels	7715
 G. R	16996
 G. RISK MANAGEMENT	11863,2075
 G. ROLE DE LA BCD	13838
-G. Ratings of Project Performance	16614
+G. Ratings of Project Performance	16614,2140
 G. Response	14777
 G. Review	12939
 G. Risk Management	13381,557

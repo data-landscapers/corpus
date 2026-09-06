@@ -81,6 +81,7 @@ Bank of Ghana Mobile Payments Integration Strategy	6938
 Bank of Uganda Integrated Annual Report	10299
 Bank's Integrated Safeguards System	13938
 Bank’s Integrated Safeguard System	11863
+Base de Dados Pública Integrada de Numeração	18752
 Bi-Switch. Integration	13388
 Bilhete de Identidade Integrado	10750
 Binary Integer	12360
@@ -175,6 +176,8 @@ Centro de Acção Social Integrado	10763
 Centro de Acҫão Social Integrada	10768
 Centro de Integridade Pública	12148
 Centro de Integridade Pública Bairro da Sommerschield	12148
+Centro de Integridade Pública de STP	18822
+Centro de Integridade Pública de STP URL	18822
 Centro de Serviços Integrados de Transportes	17220
 Centro de Serviços de Atendimento Integrado	15572
 Centros de Acҫão Social Integrada	10768
@@ -225,6 +228,7 @@ Continuity of Information Systems Integrity	16885
 Continuous Integration	11952
 Continuous Registration and Voter Integrity Mr. Kwaah	16574
 Cooperation and Integration	1814
+Coordenação Integrada	18788
 Core Values Core Values Integrity	14835
 Core Values Integrity Excellent Performance Professionalism	11152
 Corporate and Business Registration Integrated System	14830
@@ -400,6 +404,7 @@ Ensuring the Integrity and Continuity of Information	16885
 Environmental Agency Integration	12389
 Enzygnost HIV Integral II Enzygnost HIV	13300
 Eritrea Energy Integrated Project	14080,5
+Escolar SIGA Sistema Integrado de Gestão de Assentos	18779
 Eskom integrated report 2023.pdf	11953
 Establish Integrated Soil Health Programmes	14818
 Establish Integrity and Strengthen Governance Mechanisms	17291,31,79
@@ -506,6 +511,7 @@ HDSS Data Cleaning and Integration Using SAS	8604
 HIV Services Integration The U.S. Government	4167
 HRIS Integrated Human Resource Information System	13306
 HRIS Integrated Human Resources Information System	18478
+Harassment SIGA Integrated	18777
 Hardware Integration	16600
 Having Vertically Integrated Markets	16884
 Head of United Nations Integrated Transition Assistance	15342
@@ -533,7 +539,7 @@ IEC Defends Integrity of Process IEC Vice	9315
 IECMS Integrated Electronic Case Management System	12413,2643
 IFC International Finance Corporation IFMIS Integrated	7548,5764,2,2058
 IFMIS Integrated Financial Management FPS Fast	14897
-IFMIS Integrated Financial Management Information System	1284,15601
+IFMIS Integrated Financial Management Information System	1284,15601,1892
 IFMIS STANDARDS AND GUIDELINES The Integrated	34
 IFMIS The Integrated Financial Management Information	18500
 IFR Interim Financial Report INRIS Integrated	1867
@@ -671,6 +677,7 @@ Integrado Licenciatura Pós-graduação DESP Ciclo de Estudos	16166
 Integrado de Gestão Patrimonial	17100
 Integrado de Mokom	4209
 Integrado de Registo Civil	10765,10
+Integrado de Registo de Propriedade	18825
 Integrados	15503
 Integrados de Atendimento	10765,10
 Integrados. Tal	11371
@@ -684,7 +691,7 @@ Integral. DPI Roadmap Playbook	11006
 Integralidade	10777,766
 Integram	10783,4743,496
 Integrando	15404
-Integrar	1701,2445,6626,11,593,20,1,64,76,1247,3235,302,572,5
+Integrar	1701,2445,6626,11,593,20,1,64,76,1247,3235,302,572,5,1862,12,7
 Integrat	13053
 Integrate	395,504,101,380,505,1698,543,1118,432,4,743,513,12,600,434,618,740,1501,29,90,173,16,7,701,84,217,27,29,32,113,45,40,64,185,141,130,116,230,2,2,611,291,458,49,67,28,104,63,12,37,8,202,98,248,135,120,94,21,17,899,75,20,25,15,26,79,11,12,18,103,25,11,68,1165,3,25,18,2,58
 Integrate A- Kenya's AI	7548
@@ -852,6 +859,7 @@ Integrated Financial Management Information System IMC	18454
 Integrated Financial Management Information System IMF	12663
 Integrated Financial Management Information System ISM	16872
 Integrated Financial Management Information System IoT	6432
+Integrated Financial Management Information System WB	18851
 Integrated Financial Management Information Systems	14524,4052
 Integrated Financial Management System	1389,10551
 Integrated Financial Management System Cash Collection	12984
@@ -1007,6 +1015,7 @@ Integrated Population of Refugees and Host Communities	12297
 Integrated Program MDGs Millennium Development Goals	15725
 Integrated Project Administration Unit	18500
 Integrated Project Management	6946
+Integrated Property Registration System	18825
 Integrated Provincial Special Economic Zones Framework	13685
 Integrated Public	9399
 Integrated Public Alert and Warning System DSLAM	14723
@@ -1085,7 +1094,9 @@ Integrated Sustainable Energy Strategy	16236
 Integrated System	12761
 Integrated System ISMS Information Security Management	13345
 Integrated System for Budgetary and Financial Management	11939
+Integrated System for Certificate Management	18777
 Integrated System for Human Resources Management of Civil	10812
+Integrated System for Property Registration	18825
 Integrated System for Survey Analysis	16921
 Integrated System of Citizen Registers and Statistics	3004
 Integrated Systems	5913,11010,1
@@ -1142,6 +1153,7 @@ Integrating ESG	14997
 Integrating Earth	12837
 Integrating Emerging Technologies Innovation	16975
 Integrating Environment	14818
+Integrating Forensic Techniques	18774
 Integrating Fourth Industrial Revolution	6948
 Integrating Government Development Financing	11356
 Integrating Hydromet Services	17962
@@ -1162,6 +1174,7 @@ Integrating the System of Environmental-Economic Accounting	16996
 Integratinghetero-	8606
 Integration	432,1,373,21,182,252,563,123,1788,126,242,157,89,85,94,16,19,970,132,11,1,116,119,440,368,216,2,10,318,104,178,25,23,167,26,176,146,493,524,75,332,13,217,90,607,150,150,1,12,356,2,1,4,4,7,7,53,13,678,5,37,10,112,58,53,33,6,13,11,3,5,10,11,60,32,1,40,4,18,35,1,54,22,142,48,4,33,73,34,49,88,32,5,11,27,15,90,59,70,34,47,23,188,71,1,3,306,27,8,115,14,73,217,126,88,19,68,19,58,16,39,48,25,5,13,20,12,37,27,29,30,18,26,36,278,40,72,14,57,2,244,53,17,55,568,260,25,2,124,90,13,28,15,103,135,75,69,331,14,241,156,219,12,17,2,25,19
 Integration Advanced	13042
+Integration Africa Region CURRENCY EQUIVALENTS	18754
 Integration All African	6938
 Integration And Sharing	16884
 Integration Approaches	16600
@@ -1254,10 +1267,10 @@ Integrative Literature Reviews	17773
 Integrative Model Explaining Community Acceptance	11006
 Integrator	15080
 Integrators	11995
-Integração	2816,3646,4292,18,599,8,51,12,6,3,10,19,50,25,338,5,123,3375,8,66,62,40,122,272,53,249,53,772,54,153
+Integração	2816,3646,4292,18,599,8,51,12,6,3,10,19,50,25,338,5,123,3375,8,66,62,40,122,272,53,249,53,772,54,153,1474,27
 Integração Digital	11555
 Integração Interinstitucional	11480
-Integração Regional	7666,3861,22,11,3966,530,431,525,62
+Integração Regional	7666,3861,22,11,3966,530,431,525,62,1779
 Integração Regional Ministério da Educação Nacional	11569
 Integração Regional Pela República da Guiné-Bissau Carlos	11393
 Integração X X Regional	11569
@@ -1275,6 +1288,8 @@ Integrer	17845
 Integrer DNDS	17845
 Integridad	16855,43
 Integridade	15,6955,4102,380,91,4944
+Integridade Pessoal	18751
+Integridade Pessoal Artigo	18751
 Integridade da Base Nacional de Dados Antonica Bengue	9259
 Integridade da Informação	11393,5968
 Integridade da Rede	11430
@@ -1424,6 +1439,7 @@ Maisha Integrated Database	12165,62
 Maisha Integrated Database.126 Despite	12227
 Maisha Integrated Population	12323
 Maisha Integrated Population Register	12323,2180
+Makhtar Diop Regional Integration Director	18754
 Malawi Integrated Digital Agenda	12917
 Management Education Integrated	17097
 Management IFMIS Integrated Financial Management Information	18577
@@ -1522,6 +1538,8 @@ Northern Corridor Integration Projects	10819,256,1251
 Northern Corridor Integration Projects. NIDA	12328
 Northern Integrated Development Agency	12779
 O Programa Integração Digital Regional	11542
+O Sistema Integra	18767
+O Sistema Integrado de Gestão de Assentos	18772
 O Sistema Integrado de Monitorização	8324
 OBJECTIVES AND SCOPE These Guidelines for Integrating	1243
 ODPC Calls for Integration of Data Protection	2668
@@ -1548,6 +1566,7 @@ OpportunityOpportunity OpportunityOpportunity Integrate AI	14566
 Options for Informal Economic Integration	7588
 Organization IQS Integrated Quaranic School ISCED	14896
 Organizations Will Integrate AI	2816
+Organização Integram	18778
 Orgão de Integração de Segurança Pública	539
 Ousmane Diagana Regional Integration Director	17862
 Outer Islands and Territorial Integrity	14744
@@ -1644,10 +1663,13 @@ Promote Integrated Soil Fertility Management	14818
 Promoting Gas Power Market Integration	7426
 Promoting Policy Integration and Advocacy	16963
 Promotional Prepaid Integrated Plans	11259
+Proposals RIAS Regional Integration Assistance Strategy	18754
 Protect Data Privacy and Security Integrate	12675
+Proteção de Dados SIGE Sistema Integrado de Gestão	18779
 Protocolo Nacional de Gestão Integrada da Desnutrição Aguda	10777
 Provides Integrated Basic Education	11939
 Proyecto de Marco Integrado Mejorado	4209
+Príncipe Center for Public Integrity	18797
 Public Access Mobile Radio and Integrated Services	18444
 Public Consultation Integration	16212
 Public Integrated External Information	17097
@@ -1688,10 +1710,11 @@ Regional Digital Integration Program	16144,792
 Regional Digital Integration Project	1216,6751,3602,238,1803,4894
 Regional Digital Integration Project Table of Contents	18504
 Regional Integrated Budget	15790
-Regional Integration	1179,2425,510,1127,1696,218,547,3057,76,2,1,74,56,581,321,16,2,1,16,247,1,1,9,177,1,11,1,135,474,601,92,424,72,667,94,641,106,1379,67,226
+Regional Integration	1179,2425,510,1127,1696,218,547,3057,76,2,1,74,56,581,321,16,2,1,16,247,1,1,9,177,1,11,1,135,474,601,92,424,72,667,94,641,106,1379,67,226,1423
 Regional Integration And Employment	17038
 Regional Integration And Inclusion	10909
 Regional Integration Assistance Strategy	15511
+Regional Integration Assistance Strategy for Africa	18754
 Regional Integration Boutheina Guermazi	16936
 Regional Integration COMESA	13563
 Regional Integration Division	10634
@@ -1727,6 +1750,7 @@ Rehabilitación de Centro Integrado de Oyala	4209
 Relatório de Diagnóstico Integrado	11451
 Remote Monitoring Integration Platform	12195
 Renewable Integrated Sustainable Energy and Digitalisation	14027,1
+Report Corruption Centro de Integridade Pública de São	18797
 Report IHS Integrated Household Survey IR	16952
 Report IT Information Technology ITAS Integrated	1284
 Republicação Integral	11430
@@ -1771,6 +1795,7 @@ SIGIP the Integrated Public Investment Management System	17870
 SIGMAP Integrated Public Procurement Management System	17870
 SIGPE Integrated State Asset Management System	10768
 SIGTAS Standard Integrated Government Tax Administration	17011
+SIIPS Sistema de Informação Integrado de Proteção Social	18779
 SIM Integration	3764
 SIS Project Integration	15590
 SKLD Integrated Services Limited	7444
@@ -1831,7 +1856,7 @@ Sistema Integrado de Gestión de Ingresos Tributarios	16930
 Sistema Integrado de Gestão	10783,662,13,15,5559
 Sistema Integrado de Gestão Documental	4294
 Sistema Integrado de Gestão Eleitoral	11893
-Sistema Integrado de Gestão Escolar	15448,820,4
+Sistema Integrado de Gestão Escolar	15448,820,4,2509
 Sistema Integrado de Gestão Financeira	10768,15,4
 Sistema Integrado de Gestão Monetária	17032
 Sistema Integrado de Gestão Orçamental	15572
@@ -1841,7 +1866,7 @@ Sistema Integrado de Gestão SIGFE Financeira	11417
 Sistema Integrado de Gestão Tributária	11371,1477
 Sistema Integrado de Gestão Tributária Base da Dados	10762
 Sistema Integrado de Gestão Tributária SPFT	11435
-Sistema Integrado de Gestão de Assentos	2688
+Sistema Integrado de Gestão de Assentos	2688,16089,2
 Sistema Integrado de Gestão de Património	10768
 Sistema Integrado de Identificação Nacional	2953
 Sistema Integrado de Informação Criminal	11540

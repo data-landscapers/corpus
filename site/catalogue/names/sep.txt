@@ -171,7 +171,7 @@ SEP Newspaper	17099
 SEP Report	17114
 SEP Stakeholder Engagement Plan ITU International	18504
 SEP Stakeholder Engagement Plan SESAP Solar	11549
-SEP Stakeholder Engagement Plan SH Sexual	1988,16313
+SEP Stakeholder Engagement Plan SH Sexual	1988,16313,476
 SEP Stakeholder Engagement Plan SOE State-Owned	1818
 SEP Stakeholder Engagement Plan SOP Standard	16384
 SEP Stakeholder Engagement Plan State’s Integrated	11417
@@ -254,12 +254,12 @@ Sep-2021 TO Republic of Mozambique Institutions Global	2473
 Sep-2021. Borrower	15802
 Sep-2021. Current Closing Date	15802
 Sep-2021. Practice Area	761
-Sep-2022	1284,10185,971,2698
+Sep-2022	1284,10185,971,2698,3654
 Sep-2022 Effectiveness	12440
 Sep-2022 Portal EA Category	11924
 Sep-2022 Restructuring Sequence.04 Not Applicable	11924
 Sep-2022. RATINGS	13722
-Sep-2023	15619,460,559
+Sep-2023	15619,460,559,2154
 Sep-2023 IN01367413 Teachers	16638
 Sep-2023 IN01367415	16638
 Sep-2023 Mar	17904
@@ -273,14 +273,16 @@ Sep-2024 TF-B5069 Closed	17904
 Sep-2024 TF-C4543 Effective	17904
 Sep-2024 Yes Jan	15969
 Sep-2024 Yes Jun	15969
-Sep-2025	2254,1352,7264,599,519,279,159,14,284,334,698,164,1060,3,207,997,892,391,434,630
+Sep-2025	2254,1352,7264,599,519,279,159,14,284,334,698,164,1060,3,207,997,892,391,434,630,283
 Sep-2025 Country Director	13111,3564
 Sep-2025 Estimated Approval Date	14015
 Sep-2025 Expected Closing Date	3562,11414
 Sep-2025 Government and African Development Bank	13429
 Sep-2025 IDA-E3140 Effective	17904
 Sep-2025 Operation Closing	11971,6563
+Sep-2025 Regular Decision Meeting	18809
 Sep-2025 Yes Dec	12267
+Sep-2025 Yes Jun	18817
 Sep-2026	14316,1763
 Sep-2026. Practice Area	16398
 Sep-2026. Restructuring Level	15481
@@ -305,7 +307,7 @@ Separate Toilets	14778
 Separated	11900,483,4538,29
 Separated Divorced Widowed Currently	18441
 Separated and Unaccompanied Children	16874
-Separately	2504,1,178,113,787,335,1,1,941,774,557,507,402,127,2059,208,28,117,572,647,1143,439,1007,1572,215,1802,43,423
+Separately	2504,1,178,113,787,335,1,1,941,774,557,507,402,127,2059,208,28,117,572,647,1143,439,1007,1572,215,1802,43,423,1320
 Separates	14601,563
 Separating	4896,2040,5946
 Separating ICT	14897
@@ -352,7 +354,7 @@ September-October	577,12815,1727
 September14	12201
 September30	10007
 SeptemberTender	12868
-Septembre	1247,402,217,1686,5203,584,67,338,789,389,43,10,2315,22,1,1,138,116,134,51,72,2,460,1,137,153,736,125,103,170,12,91,2,2,11,43,95,132,58,19,142,200,93,15,18,6,63,287,468,202,1,26,126,43,15,96,85,55,17,9,26,1,115,5,31,2,2
+Septembre	1247,402,217,1686,5203,584,67,338,789,389,43,10,2315,22,1,1,138,116,134,51,72,2,460,1,137,153,736,125,103,170,12,91,2,2,11,43,95,132,58,19,142,200,93,15,18,6,63,287,468,202,1,26,126,43,15,96,85,55,17,9,26,1,115,5,31,2,2,431
 Septembre N	10876
 Septembre PPMP	10876
 Septembre Régulier	14425
@@ -392,4 +394,5 @@ Trade Analysis. Sept	1243
 Transit Local Transit Jul-24 Aug-24 Sep-24	12256
 Trillion Sep	9781
 UNE FOSSE SEPTIQUE	13300
+Viuva Divorciada Separada Nunca	18762
 ZAF. Separate	1564

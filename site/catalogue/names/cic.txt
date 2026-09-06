@@ -26,6 +26,7 @@ CICA-RE	18182
 CICA-Ré	18182
 CICAD	5514
 CICAM	10841
+CICC.php DGRN	18832
 CICED	17748
 CICES	7641
 CICG Juin	15712
@@ -49,13 +50,14 @@ CICTE	4209,12662,101
 CICrêtes BIO OSTEO HYGIMED Révision	16103
 CICrêtes HYGIMED Révision PROJET DE PROGRAMME	16103
 CiCricruciutitLelennggtthhppeerrVvoollttaaggee	12256
-Ciclo	10750,5022,1092,56
+Ciclo	10750,5022,1092,56,1861,20,30
 Ciclo Ensino Secundário	15772
 Ciclo Individual	10783
 Ciclo de Estudos	16166
 Ciclo de Formación	16920
 Ciclo de Formación Ofrecido	16920
 Ciclo de Vida	10783,772
+Ciclo de Vida da Gestão de Dados Os	18801
 Ciclos	15564
 Ciclos de Ascensão	2816
 Ciclos de Estudo de Licenciatura	17103
@@ -87,7 +89,9 @@ Le CICR	13442
 Liberia CEO County Education Officer CICO	16876
 MICS Multiple Indicators Clusters CICM Décentralisation	17845
 MTND SNDI ANSUT ANSSI ARTCI CICG	15936
+O CICC	18832
 O Ciclo Individual	10783
+O Ciclo de Gestão	18801
 ONA CICrêtes Nouveau	16103
 PONDERAÇÃO E PRÉ-REQUISITOS ESCOLA CICLO	17103
 Primeiro Ciclo	11451

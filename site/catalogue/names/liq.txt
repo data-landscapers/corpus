@@ -205,16 +205,19 @@ Liquidation Proceeding	12389
 Liquidation and Reorganization	12389
 Liquidator	3714,14842
 Liquidators	18556
-Liquidação	744,4425,5586,615,33,35,495,85,3341,81,1592,68
+Liquidação	744,4425,5586,615,33,35,495,85,3341,81,1592,68,1661,37,55
 Liquidação Correctiva. Contribuição Industrial	11532
 Liquidação Interbancária	11438,1376
 Liquidação O Sistema de Pagamentos Cabo-Verdiano	11933
 Liquidação SICIL	17032
 Liquidação SIGMA	17032
+Liquidação de Forma Liquida	18761
 Liquidação de Valores Mobiliários	11370,5662
 Liquide	18014
 Liquides	13300,5012
 Liquides Aliments	13300
+Liquidez Corrente	18793
+Liquidez Geral	18793
 Liquidificador	10777
 Liquidity	1020,808,2675,1360,534,823,3911,3,106,1813,70,351,1523,26,1820,392,1,81
 Liquidity BNR MPFSS Coverage Ratio	14997
@@ -282,6 +285,7 @@ Pétrole Liquéfié IFC International Finance Corporation	16037
 Ratio Liquidity Ratio Minimum	15023
 Reduced Liquidity	11955
 Registrar. Liquidation	3714
+Regras de Liquidação	18761
 Reorganization and Liquidation Proceedings	12389
 Required Liquid Asset Reserve	17236
 Revisão da Liquidação	744
@@ -292,7 +296,7 @@ Secção II Liquidação	15359,81
 Servicios Liquidadores	4209
 Shoprite LiquorShop	9763
 Sistema Centralizado de Liquidação	11933
-Sistema de Liquidação	11465
+Sistema de Liquidação	11465,7296
 Sistemas de Liquidação	10755
 Solid Liquid Gas	12445
 Stability and Liquidity Risks Cyber Security and Data	11134

@@ -28,10 +28,12 @@ Authentication Authentication	12364
 Authentication Code and QR Code	13606
 Authentication Code and QR Codes. Security	13606
 Authentication Framework	11952
+Authentication Header	18774
 Authentication Mechanism	10721
 Authentication Mechanism Information	10721
 Authentication Methods and Use Cases Method Use	11952
 Authentication PART VII	18556
+Authentication Platform	18767
 Authentication Procedure	14850
 Authentication Refer	10617
 Authentication Service	12000,146
@@ -108,6 +110,7 @@ Focus On Authentic Products	10274
 HL7 HNSF Enterprise User Authentication European	1009
 HNSF BACKWARDS COMPATIBILITY Authenticate	1009
 Happily Authenticated	2277,16,36,88,121,224,64,180,5,1,53,46,22,18,62,165,202,41,104,2,10,227,360,99,138,41,199,33,221,29,288,91,11,232,163,11,34,225,389,55,265,123,135,177,1
+IPv4 IPSec Authentication Header RFC	18774
 Identity Authentication	10721
 Identity Authentication and Verification Fees	10822
 Identity Management and Authentication	14921,240
@@ -150,6 +153,7 @@ SI ETAT CIVIL Authentification	3381
 Santé Authentification	3381
 Secure Authentication	16144
 Security Authenticatio	11952
+Simple Authentication and Security Layer	18774
 Single Authentication and Digital Signature	11869
 Smartselfie Authentication	12404
 South Africa Happily Authenticated	7382

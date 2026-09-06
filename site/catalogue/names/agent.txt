@@ -76,20 +76,22 @@ Agent-to-agent	4265
 Agent. Creating	13333
 AgentTesla	9830
 Agentcy Labs	17695
-Agente	11582,3858,1415
+Agente	11582,3858,1415,1906
 Agente Consular	4209
 Agente Criminoso	549
 Agente Diplomático	16871
+Agente Financeiro	18800
 Agente Grupo	4209
 Agente Grupo E Auxiliar Grupo	4209
 Agente Grupo F Auxiliar Grupo F	4209
 Agente Grupo F Servicio	4209
 Agente Grupo G Delineante Director Grupo	4209
+Agente Postal	18778
 Agente Principal da Polícia Nacional	16290
 Agente Público	11452
 Agente de Desenvolvimento Comunitário	11390
 Agente de Registo	576
-Agentes	1701,1115,1393,7203,102,60,1203,3974,104,747
+Agentes	1701,1115,1393,7203,102,60,1203,3974,104,747,1150
 Agentes Bancários	11438
 Agentes Pofivalentes de Saude	4260
 Agentes Registradores de Nombres de Dominio	16855
@@ -210,6 +212,7 @@ Expanding Agent and Branch Networks	7763
 Exports Clearing Agents Application Form CE	12454
 External Verification Agent	11560
 FORMATION PRIVE DES AGENTS DE SANTE	18170
+Fiduciary Agent for Project Administration	18825
 Flood Intelligence Agent	9561
 Flooding Agent Solution	16881
 Fluxos de Agentes	2816
@@ -222,7 +225,7 @@ General Statute of State Employees and Agents	4260
 Generative AI and Agentic AI	14308
 Geographic Agent	12297
 Glossary Agent	11994
-Grant Agent	12175,1825
+Grant Agent	12175,1825,4765
 Grant Agent GDP	12175
 Grant Agents. Malawi	12175
 Group GA Grant Agent GEA Girls	13990

@@ -81,6 +81,7 @@ Bank In Progress Completion Measurement Focal	17470
 Bank Not Yet Due Completion Measurement	17470
 Bank. Completion Measurement Comments All	17470
 Begin Mandatory Data Protection Compliance Inspections	13695
+Beneficiam da Profilaxia Completa	18768
 Beyond Compliance	12969
 Bidding Forms Price and Completion Schedule	13185
 Birth Complica-	12151
@@ -165,7 +166,7 @@ COMPLIANCE AND ENFORCEMENT	718
 COMPLIANCE AUDIT	15152
 COMPLIANCE CHECKLIST	12302
 COMPLIANCE CHECKLIST Questions Yes No Comments	14524
-COMPLIANCE ISSUES	11924,3500,87,90,62,68,705,516,897,13,100
+COMPLIANCE ISSUES	11924,3500,87,90,62,68,705,516,897,13,100,803,60
 COMPLIANCE MONITORING	718
 COMPLIANCE MONITORING BY THE MINISTRY RESPONSIBLE	13484
 COMPLIANCE NOTICES AND CORRECTIVE DIRECTIVES	17249
@@ -211,6 +212,7 @@ Central Bank of Eswatini Complex	3977,7157
 Central Bank of Liberia CCS Compliance Clustering	17011
 Cerebral Vascu- Complications	12151
 Certidão Narrativa Completa	10749,7
+Certidão Narrativa Completa de Nascimento	18752
 Certificate of Completion	17235
 Certificate of Compliance	14883
 Certification and Compliance	11995
@@ -337,7 +339,7 @@ Complementarity The CRVS	14889
 Complementarity of Interventions Activities Level of EBESP	15661
 Complementarity of Interventions Between the EBESP	15661
 Complementarmente	11444,125,449,795,3149
-Complementary	1688,224,379,515,167,514,75,272,1058,552,1149,955,1886,1983,52,1601,27,69,148,300,10,149,1045,79,100,141,466,442,98,714,84,24,7,165,119,1036
+Complementary	1688,224,379,515,167,514,75,272,1058,552,1149,955,1886,1983,52,1601,27,69,148,300,10,149,1045,79,100,141,466,442,98,714,84,24,7,165,119,1036,502
 Complementary Agreement and Complementary Agreement II	125
 Complementary Education	15796
 Complementary Instructions	12364
@@ -372,6 +374,7 @@ Complements the FDSI	2107
 Complements the Ministry of Health	2615
 Complements the OpenClinic HMIS	7132
 Complet	17006
+Completa	18768
 Completa Representantes	8003
 Completar	1701
 Completação de Registos de Nascimentos	11537
@@ -452,7 +455,7 @@ Completeness and Timeliness of Weekly Reports	11912
 Completeness of DDPs	8436
 Completeness of Registration	12151,262,1231
 Completing	3604,7530,349,264,1678,1151,1085,150,2298
-Completion	1830,80,78,901,972,667,368,1936,1013,640,768,313,259,1,1383,22,21,621,51,497,91,162,295,2,66,21,127,125,82,1278,44,1,206,1,489,13,177,3,111,94,132,108,95,470,234,5,73,74,11,90,15,23,57,13,51,262,210,756
+Completion	1830,80,78,901,972,667,368,1936,1013,640,768,313,259,1,1383,22,21,621,51,497,91,162,295,2,66,21,127,125,82,1278,44,1,206,1,489,13,177,3,111,94,132,108,95,470,234,5,73,74,11,90,15,23,57,13,51,262,210,756,266,69
 Completion Audit Report	17114
 Completion Comments	15424
 Completion Date	1988,2908,9850,2368
@@ -534,7 +537,7 @@ Complexo Laboratorial de Saúde Digital	12846
 Complexo. Depois	11435
 Complian	6432
 Complianc	6432
-Compliance	436,282,282,9,11,5,189,119,193,462,645,35,290,29,227,437,63,147,111,182,13,35,15,43,41,48,179,235,3,82,284,36,184,181,58,74,198,159,33,321,56,303,211,119,139,314,30,241,238,409,28,639,25,123,349,74,21,160,84,218,250,209,13,92,44,3,41,47,118,157,2,1,64,24,28,2,611,89,3,1,9,21,9,167,4,48,26,13,48,24,31,4,5,9,26,22,17,14,37,7,3,12,37,9,103,25,7,210,6,13,16,29,2,36,31,1,5,9,2,132,10,125,98,2,84,123,54,504,237,13,14,75,51,152,1,2,48,31,3,7,39,7,2,30,35,65,26,11,32,14,1,45,23,3,109,215,187,549,419,204,4,3,21,23,38,23,2,29,59,62,15,129,6,73,212,212,732,4,18,17,26
+Compliance	436,282,282,9,11,5,189,119,193,462,645,35,290,29,227,437,63,147,111,182,13,35,15,43,41,48,179,235,3,82,284,36,184,181,58,74,198,159,33,321,56,303,211,119,139,314,30,241,238,409,28,639,25,123,349,74,21,160,84,218,250,209,13,92,44,3,41,47,118,157,2,1,64,24,28,2,611,89,3,1,9,21,9,167,4,48,26,13,48,24,31,4,5,9,26,22,17,14,37,7,3,12,37,9,103,25,7,210,6,13,16,29,2,36,31,1,5,9,2,132,10,125,98,2,84,123,54,504,237,13,14,75,51,152,1,2,48,31,3,7,39,7,2,30,35,65,26,11,32,14,1,45,23,3,109,215,187,549,419,204,4,3,21,23,38,23,2,29,59,62,15,129,6,73,212,212,732,4,18,17,26,227
 Compliance Adherence	13042
 Compliance Advisor Ombudsman	11007
 Compliance Agreement	14828,3
@@ -937,7 +940,7 @@ FDA Complaints National	16848
 FDA Compliance Audit Report	16843
 FDA Compliance Audit Report.Verification	16843
 FDA Compliance Audits	16843
-FIDUCIARY COMPLIANCE	15424,87,152,68,705,516,910
+FIDUCIARY COMPLIANCE	15424,87,152,68,705,516,910,903
 FIDUCIARY COMPLIANCE Environmental	17962
 FIDUCIARY COMPLIANCE Environmental and Social	11924
 FIDUCIARY COMPLIANCE Environmental and Social Safeguards	15601
@@ -979,6 +982,7 @@ Fund. CHAPTER XIV COMPLAINTS AND APPEALS	18602
 G. G. COMPLAINT	14753
 G. Quality Assurance and Compliance	16975
 GBON Compliance	16947
+GBON Implementation and Compliance Monitoring	18787
 GDPR Cookie Compliance	3907
 GOK Entities CSPs Compliance	6432
 GOVERNANCE AND COMPLIANCE	10721
@@ -1044,6 +1048,8 @@ IA. Complementarmente	2816
 ICC Complaint Against DR Congo... Rebel	3245
 ICC Complaint Management System	12241,839
 ICR00002962 IMPLEMENTATION COMPLETION AND RESULTS REPORT	16614
+ICR00003141 IMPLEMENTATION COMPLETION AND RESULTS REPORT	18754
+ICR00005036 IMPLEMENTATION COMPLETION AND RESULTS REPORT	18765
 ICR00005249 IMPLEMENTATION COMPLETION AND RESULTS REPORT	17849
 ICR00006152 IMPLEMENTATION COMPLETION AND RESULTS REPORT	15601
 ICR00006333 IMPLEMENTATION COMPLETION AND RESULTS REPORT	15663
@@ -1055,6 +1061,7 @@ ICR00338 IMPLEMENTATION COMPLETION AND RESULTS REPORT	15731
 ICR00460 IMPLEMENTATION COMPLETION AND RESULTS REPORT	12560
 ICR00525 IMPLEMENTATION COMPLETION AND RESULTS REPORT	15959
 ICR00659 IMPLEMENTATION COMPLETION AND RESULTS REPORT	13742
+ICR00764 IMPLEMENTATION COMPLETION AND RESULTS REPORT	18825
 ICT COMPLAINTS AND CALL CENTRE HUMAN	11198
 ICT Completed	6133
 ICT Complex	5416
@@ -1070,6 +1077,7 @@ IMF Executive Board Completes Fourth Reviews	17909
 IMF Executive Board Completes the Eleventh Review	17326,13
 IMF Executive Board Completes the Fifth Review	13741
 IMF Executive Board Completes the Ninth and Tenth	17209
+IMF Executive Board Completes the Second Review	18823
 IMF Executive Board Completes the Third and Fourth	15752
 IMF Staff Completes	10841
 IMPLEMENTATION COMPLETION AND RESULTS REPORT	13722,1163,63,563
@@ -1084,7 +1092,7 @@ Impact Negative ENHANCING TAX COMPLIANCE05	13053
 Implementation Completion	11866
 Implementation Completion Report	10779,1145,1926,1038,630,1442
 Implementation Completion and Results	15511,2451
-Implementation Completion and Results Report	10964,2367,1554,487,52,87,90,62,39,29,228,31,446,178,1235,13,100,236,258
+Implementation Completion and Results Report	10964,2367,1554,487,52,87,90,62,39,29,228,31,446,178,1235,13,100,236,258,298,71
 Improve Stakeholder Engagement Voluntary Compliance Index	13053
 Improve Tax Compliance	12948
 Improved Compliance	14761,2183
@@ -1237,6 +1245,7 @@ NOTICE TO COMPLY WITH COURT ORDER	12924
 NRB Completes Phase One of National Birth	12291
 NRIS Compliance	13005
 Name Request From Start Date Completion	14746
+Narrativa Completa	18834
 National Addressing and GIS Program Complete the National	16975
 National Assembly Building Complex	17241
 National Compliance Authority	15120
@@ -1310,7 +1319,7 @@ PFMA Compliance Reporting	11224
 PIB Complexe Numérique	17824
 PKF Financial Consulting Services Zambia. Compliance	10628
 POLICIES AND COMPLIANCE	16041
-POLICY COMPLIANCE Does	3562,12421
+POLICY COMPLIANCE Does	3562,12421,2826
 POLICY COMPLIANCE Legal Covenants Sections and Description	17458
 POLICY COMPLIANCE Policy Does	1867,1737,2935,4229,649,143,345,3753,3,483,240,565
 POLICY COMPLIANCE Policy Official Use Only	18198
@@ -1391,6 +1400,7 @@ Protection of Complainants	18596
 Protection of Complainants and Confidentiality	15055
 Proven Compliance and Certification	15080
 Provide Accurate and Complete Information	17249
+Príncipe ICR Implementation Completion and Results Report	18754
 Purpose Question Response Type Complete	16963
 Purpose of Compliance Notices	17249
 QUE MODIFIEE ET COMPLETEE A CE	14862
@@ -1491,6 +1501,7 @@ SHOULD BE COMPLETED TOGETHER	14528
 SIM Registration Compliance	3805
 SMEs Complexity Financial	9129
 SMF Complex	14760
+SOFF Compliance Phase Framework	18869
 SSR Sports Complex	14830
 STATEMENT OF COMPLIANCE	14736,24
 STATISTICS OF COMPLAINTS RECEIVED	13097
@@ -1574,6 +1585,7 @@ Support the Digital Economy Completed	11965
 Supporting Voluntary Compliance	12500
 Supporting Voluntary Compliance P3-8. Scope	12500
 Survey Details Estimated Completion Time	9478
+Survey ICR Implementation Completion and Results Report	18765
 Sustainable Development Goals. DEFINITIONS Completeness	13644
 System PCR Pupil Completion Rate PI	2775
 System That Freezes Before Completion	14235
@@ -1594,7 +1606,7 @@ Tableau C.17 Complétude	18312
 Tableau C.3 Complétude	13300
 Tableau C.6 Complétude	18312
 Tableau C.8 Complétude	18312
-Target Completion	15424
+Target Completion	15424,3330
 Target Completion Average	15424
 Target Completion Page	15424
 Target Completion Retail Price of Internet	15424
@@ -1644,6 +1656,7 @@ Technical Compliance Re-Rating	5130
 Telcom Consumer Compliance Supply Chain Services	6946
 Telecom Complaints	11642
 Telecommunications Compliance and Telkom Kenya Limited	6946
+Tempo Completo	18775
 Tenengfara Business Complex	16914
 Teraco Completes JB4 Expansion	14673
 Terminal Complex Aquifer	17157

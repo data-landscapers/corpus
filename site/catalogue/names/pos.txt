@@ -40,7 +40,7 @@ Additional Positive Effects	11863,2075
 Addressing and Postcode Manual	11129
 Addressing and Postcode Systems. The Kingdom	12395
 Administration Centrale des Postes	15455
-Administração Postal	13
+Administração Postal	13,18765
 Advertising and Filling of SMS Posts	11218
 Africa. Positioned	2750
 African Common Position	16874,1605
@@ -51,6 +51,7 @@ Agence de Régulation des Postes	6684,5237,3451,121,60
 Agencies MoPT Ministry of Post and Telecommunications PCM	17099
 Agency NAMPOST Namibia Post Limited NBC	12973
 Agency for Regulation of Posts and Electronic Communications	5075
+Agente Postal	18778
 Agro Industries and Post-Harvest Management Service	17945
 Aid Posts Number	12977
 Aleksandra Posarac	12541
@@ -94,6 +95,7 @@ Author CIPESA Posted	6294,3643
 Authority for Regulation of Telecommunications and Posts	4803
 Automate the Postal Clearance	13108
 Automated Payment The POS	11955
+Autoridade Postal	18778
 Autorité de Régulation Postes	16615
 Autorité de Régulation des Postes	3104,4980,3796,52,3653,1030,2,22,2,58,13,1393
 Autorité des Postes	10691
@@ -157,6 +159,7 @@ Bouyahia Belaassel Bouzegza Sidi Khettab Poste	15690
 Boîte Postale N	11139
 Boîte Postale Numérique CI	15936
 Branch Exchange PAYG Pay-As-You-Go PCK Postal	6946
+Brasil By Téla Nón Posted	18871
 Bridgetown Apartado Postal	11563,6180
 Bridging Namibia's Digital Possibilities	3410
 Broadband Speed Ranking for Africa Position	1944
@@ -217,7 +220,7 @@ CQS Post Technical	15411
 Cabinet Postes	2050,2596
 Cabo Verde. Posição	5476
 Cadre Post Cadre Number of Established Posts	12976
-Caixa Postal	539,1599,1906,6713,608,56,5089
+Caixa Postal	539,1599,1906,6713,608,56,5089,2283,9
 Cambodia Post	13042
 Cameroon Minister of Posts and Telecommunications	7958
 Cameroon Postal Services	1946,9037,4559
@@ -279,6 +282,7 @@ Compelling the Gambia Postal Services Corporation	16915
 Complexity Positive	9129
 Compliance Postal Services	396
 Compte Courant Postal	10981
+Comunicações Postais	18778
 Conférence des Postes des Etats	16327
 Congo Post and Telecommunications Regulatory Authority	10474
 Congo's Minister of Posts	3197
@@ -428,7 +432,7 @@ E DE OLHOS POSTOS NA ERA	11473
 E Monitoring and Evaluation MOPT Ministry of Posts	1777
 E-I17-1 Develop Positive AI News Publication	15713
 E-O49 Positive	15713
-E. Bank Staff Positions At ICR	16614
+E. Bank Staff Positions At ICR	16614,2140
 E. Positioning Nigeria	4848
 E2610 Development and Integratio Posterior	17219
 E2610 Development and Integratio Posterior Open	17219
@@ -482,10 +486,12 @@ Electronic and Postal Communications Code	13331
 Email Postal Address	15721
 Email Postal Address Give	15721
 En.pdf Central African Rep. Position	15546
+Encomendas Postais	18778
 Endpoint POST	15630
 Energie Poste de Rubirizi	13411
 Enquête Post-Censitaire	9277,7396
 Ensemble Aucun Primaire Post	737
+Envio Postal	18778
 Epukiro In Epukiro Post	9666
 Epukiro Post	8960
 Equatorial Guinea Position	16919
@@ -590,6 +596,7 @@ Guardian Post	10962,9,4
 Guardian Post Cameroon	10971
 Guardian Post Edition	16298
 Guelb Errichat Next Post Le Premier	18001
+Guilherme Posser da Costa	18750
 Guinea's Minister of Posts	4615
 Guinea-Bissau Postcode Postcode	11515
 Guiné-Bissau Postado	17374
@@ -742,6 +749,11 @@ Le POSAF	10712
 Le Poste de Kinsuka	15670
 Le Service du Poste	17899
 Legal Integration and Hierarchical Positioning	3861
+Lei de Base Postal	18778
+Lei de Base Postal Carta	18778
+Lei de Base Postal URL	18778
+Lei. Capítulo III Serviço Postal Universal	18778
+Lei. Secção II Operador Postal Público	18778
 Lesotho Post	5168
 Lesotho Post Bank	12252,422
 Lesotho Postbank	12676
@@ -755,6 +767,7 @@ Liberia Posts and Addressing Services	16975
 Liberians. Minister of Post and Telecommunications	1777
 Libya Post	2101
 Libyan Post Telecommunications	2837
+Licença. Posteriormente	18753
 LinkedIn Post	3627
 Liquid POS	14219
 Livingstone Border Post	11112
@@ -823,6 +836,7 @@ Mauritius Post Limited	14847
 Mauritius Post Ltd	6399,1993,6358,97
 Mauritius. Three POS	14376
 Melchior Koba Posted	7496,34
+Mensagem Postal	18778
 Mensuelle Poste	16328
 Merchants ATMs POS Debit Cards Credit	6978
 Merchants and POS	4517
@@ -1053,6 +1067,7 @@ OUTPUTS POSITIVE	12971
 OUTPUTS POSITIVE Fund	12971
 OVERVIEW A. Post-Independence Development Background B	13969
 Objectives of Post-Project Management	16963
+Objecto Postal	18778
 Obligatoire Postes	17006
 Obstetric Care Post-partum	15206
 October. Egypt Post	9064
@@ -1070,6 +1085,13 @@ Open As Possible	5246
 Opening of Postal Article	18602
 Opening of Postal Articles	18602
 Operador Postal Designado Decreto	12794
+Operador Postal Privado	18778
+Operador Postal Público	18778
+Operador Postal Público Compete	18778
+Operador Postal Público São	18778
+Operadores Postais Compete	18778
+Operadores Postais Públicos. Portanto	18778
+Operadores Postal Público	18778
 Orange Digital Center Presenters Position	17260
 Order. The Positives	18613
 Organisation Contact Person Position	17212
@@ -1271,6 +1293,7 @@ PROPORTION DE POSTE DE SANTÉ DISPOSANT	17843
 PROTECT AND PRESERVE POSITIVE LIBERIAN CULTURE	16970
 PSTN RAP Office National des Postes	15372
 PUBLIC ENTITY Postal Address	13031
+Pacote Postal	18778
 Pan African Postal Union	5185,1761
 Pan African Postal Union PESTEL	12759
 Pan-African Postal Union	4953,5556
@@ -1403,6 +1426,7 @@ Positions Rwanda	14997
 Positions The Gambia	4829
 Positions WSIS	2110
 Positions for AfCFTA-interoperable	4791
+Positiva	18763
 Positive	940,888,2620,77,914,1765,1925,3149,19,396,284,28,1883,12,580,365,483,632,11,25,118,43,52,117,1217
 Positive Discipline	12914
 Positive H10	9129
@@ -1430,6 +1454,7 @@ Positivo	10750,1
 Positon	16641
 Posição	6038,6739,3312
 Posição Significativa	11519
+Posições	18798,55
 Poskantoor	11199
 Poskantoor Geregistreer CAPE TOWN	11178
 Poskantoor-infrastruktuur	11199
@@ -1437,7 +1462,7 @@ Poskantore	11199
 Posle	15429
 Posmo	7313
 Posner	7886
-Posse	10760,17,607,37,25,131,324,3619
+Posse	10760,17,607,37,25,131,324,3619,3231
 Posse de Bens	10777
 Posse de MTI	10777
 Posse de Mosquiteiros Tratados	10777
@@ -1456,8 +1481,9 @@ Possession of PMP	15090
 Possessions	18014
 Possi	15524
 Possibilidade	11386,44,591,4466
+Possibilidades	18763
 Possibilidades de Pagamentos Instantâneos Cargo	11569
-Possibilita	2816
+Possibilita	2816,15966
 Possibilitar	11368,4691
 Possibilities	970,1707,7082
 Possibilities and Prospects	17157
@@ -1479,6 +1505,7 @@ Possible Topics Chapter	13582
 Possibly	555,849,5,175,553,16,56,29,12,2274
 Posso	11488,3957
 Posso Substituir	15520
+Possuam	18800
 Possuem	10777
 Possui	2816,4650,3294,4760
 Possuir	2437,2732,5614,586,79,24
@@ -1488,7 +1515,8 @@ Possèdent	15498
 Posséder	13635,1944,1971
 Possédez	13390
 Possédez-vous	13390
-Possíveis	11374
+Possíveis	11374,7398
+Possível Impacto	18767
 Post AG	8436
 Post Abortion Care	13040,3911
 Post Boxes Rentals	12395
@@ -1524,6 +1552,7 @@ Post IDP	11251
 Post Implementation Support	15080
 Post Informal Tenders	11251
 Post Kwanokuthula Business Hub	11251
+Post Level	18864
 Post Limited	17180
 Post Local Economic Development	11251
 Post Luxembourg	15471
@@ -1535,7 +1564,7 @@ Post Natal Coverage	18627
 Post National Individuals	11855
 Post Novembe ARPCE	15372
 Post Number Male Female	14760
-Post Office	1810,1454,3457,4408,50,1,19,1,1016,1,183,265,416,440,61,1811,126,59,85,41,1211
+Post Office	1810,1454,3457,4408,50,1,19,1,1016,1,183,265,416,440,61,1811,126,59,85,41,1211,1882
 Post Office Address Type	11129
 Post Office Box	11129
 Post Office Box Ad	3386
@@ -1549,6 +1578,7 @@ Post Office Fiber Optics Services	15578
 Post Office Guide. Specific	11129
 Post Office Installation	15578
 Post Office Installation of Fiber Optic Network	15578
+Post Office Protocol	18774
 Post Office RO Registration Officers PESTLE	13005
 Post Office Savings Bank and East African	6946
 Post Office Upgrading	15578
@@ -1695,6 +1725,7 @@ Post-award	7368
 Post-basic	13349
 Post-census Evaluation Consultant	16921
 Post-commencement Standards	12389
+Post-completion Operation	18754
 Post-conflict	15661
 Post-coup	7707
 Post-deployment	8301,2316,4411
@@ -1752,7 +1783,7 @@ PostCode	14155
 PostDoc	12926
 PostGIS	13031,4871
 PostNet	11180
-Posta	2868,3151
+Posta	2868,3151,12733
 Posta Afrika	2868,3151
 Posta Dunia	6019
 Posta Duniani	2868
@@ -1769,7 +1800,8 @@ Postage Stamp	15340
 Postage Stamps	15340,2880
 Postage Stamps and Letter Boxes	18602
 Postagens Relacionadas	10114
-Postais	11415,13
+Postais	11415,13,7324
+Postais Nacional	18778
 Postal	718,18,222,265,1033,181,949,328,273,541,640,785,47,890,56,1970,865,1348,2,3,46,17,1,13,50,1,1133,5,112,40,6,369,115,27,12,230,3,67,1140,322,36,257,204,256,1276,103,1479,31,118
 Postal Act	11211,51
 Postal Address	1735,142,431,2588,7250,254,10,510,117,574,1269,2188
@@ -1833,7 +1865,7 @@ Postal Service General Operators	958
 Postal Service Point Counter	12395
 Postal Service Revenue	12395
 Postal Service SDGs Sustainable Development Goals	18454
-Postal Services	1223,1552,357,285,7794,1184,143,20,101,422,217,1581,461,32,1500,1729,1,33,88
+Postal Services	1223,1552,357,285,7794,1184,143,20,101,422,217,1581,461,32,1500,1729,1,33,88,128
 Postal Services ARTICLE	14409
 Postal Services Act	7878,3321,1,11,51,2036,49,56,1440
 Postal Services Act No	7779,99,4498,77,892
@@ -1994,6 +2026,7 @@ Poste Restante Figure	11129
 Poste Restante Poste Restante	11129
 Poste SA	3540
 Poste de Bafoussam	10975
+Poste de Corte	18793
 Poste de Côte	15936
 Poste de Deido	10975
 Poste de Directeur	2400,40,1,1,1,304,373,300,2086,273,1345
@@ -2021,7 +2054,7 @@ Poste. Initiative	17824
 Poste. L’objet	18118
 Poste. Un	17819
 Postebank S.A. Ce	16381
-Posted	225,973,492,2046,73,801,1071,222,550,946,16,2,2,15,51,101,43,563,51,171,417,1795,259,859,115,146,460,450,101,48,95,35,231,168,918,526,146,82,500,57,412,49,880,51,151,30,818
+Posted	225,973,492,2046,73,801,1071,222,550,946,16,2,2,15,51,101,43,563,51,171,417,1795,259,859,115,146,460,450,101,48,95,35,231,168,918,526,146,82,500,57,412,49,880,51,151,30,818,611,34,18
 Posted By David Indeje	9738
 Postefinances	15596
 Postel	3644,2956,1077,4,1,389,3629,4837
@@ -2034,7 +2067,7 @@ Posterior	17219
 Posteriormente	11633,486,4786,242,202
 Posterity	14748
 Posters	13095,3876
-Postes	37,528,404,220,96,1,1,47,3,313,32,8,54,93,76,60,78,39,193,17,41,5,96,98,14,2,40,59,77,7,54,61,9,69,10,78,78,6,19,1,14,35,67,28,30,4,17,27,22,2,26,10,49,14,2,1,101,60,25,7,3,2,86,36,3,17,6,7,102,19,47,36,30,134,18,27,24,7,77,6,3,14,15,1,14,141,1,66,40,24,74,77,1,51,7,5,32,1,4,13,129,105,89,121,54,76,159,11,15,27,1,36,323,159,34,84,23,38,37,154,74,16,30,20,1,16,219,170,40,77,5,27,48,67,478,16,1,83,68,110,120,47,110,47,40,93,22,1,64,87,26,346,89,18,55,59,311,106,80,95,98,164,4,68,27,3,22,2,162,2,59,87,152,20,71,41,92,84,429,118,3,244,85,13,36,24,1187,11,5,35,142,306,22,53,65,13,219,47,1,41,186,2,1,24,20,51,8,7,1,23,13,7,3,22,686,53,49,10,10,18,3,27,6,13,25,24,4,4,36,5,5,6,19,11,7,1,2,23,5,15,16,19,67,33,44,4,16,5,12,1,145,22,23,1,2,20,21,8,3,4,7,10,1,3,5,151,7,4,31,53,123,27,10,4,28,2,17,3,4,20,13,14,26,33,270,681,121,5,8,9,61,5,13,15,47,50,42,48,29,137,3,20,20,18,50,13,5
+Postes	37,528,404,220,96,1,1,47,3,313,32,8,54,93,76,60,78,39,193,17,41,5,96,98,14,2,40,59,77,7,54,61,9,69,10,78,78,6,19,1,14,35,67,28,30,4,17,27,22,2,26,10,49,14,2,1,101,60,25,7,3,2,86,36,3,17,6,7,102,19,47,36,30,134,18,27,24,7,77,6,3,14,15,1,14,141,1,66,40,24,74,77,1,51,7,5,32,1,4,13,129,105,89,121,54,76,159,11,15,27,1,36,323,159,34,84,23,38,37,154,74,16,30,20,1,16,219,170,40,77,5,27,48,67,478,16,1,83,68,110,120,47,110,47,40,93,22,1,64,87,26,346,89,18,55,59,311,106,80,95,98,164,4,68,27,3,22,2,162,2,59,87,152,20,71,41,92,84,429,118,3,244,85,13,36,24,1187,11,5,35,142,306,22,53,65,13,219,47,1,41,186,2,1,24,20,51,8,7,1,23,13,7,3,22,686,53,49,10,10,18,3,27,6,13,25,24,4,4,36,5,5,6,19,11,7,1,2,23,5,15,16,19,67,33,44,4,16,5,12,1,145,22,23,1,2,20,21,8,3,4,7,10,1,3,5,151,7,4,31,53,123,27,10,4,28,2,17,3,4,20,13,14,26,33,270,681,121,5,8,9,61,5,13,15,47,50,42,48,29,137,3,20,20,18,50,13,5,340
 Postes ART Agency for Regulation of Communications	15415
 Postes Agence	17856
 Postes BAD	18291
@@ -2095,9 +2128,10 @@ Postnatal Health Check for Mothers	15247
 Postnatal Health Check for Newborns	15247
 Postnatal Health Checks for Mothers and Newborns	15247
 Postnet Suite	573
-Posto	6741,4009,665,103,2,1264,4363
+Posto	6741,4009,665,103,2,1264,4363,1632
 Posto Consular	15392
 Posto Fiscal	744
+Posto Público	18752
 Posto da Guarda Fiscal	15503
 Posto da Samba	10750
 Posto de Fronteira	11365
@@ -2105,7 +2139,7 @@ Posto de Identificação	10772
 Posto de Recenseamento	15359
 Postoji	10780
 Postole. Arllcle	15397
-Postos	9399,1351,1,3,18,653,112,1238
+Postos	9399,1351,1,3,18,653,112,1238,5977,5,36,41
 Postos Administrativos	12784
 Postos Aduaneiros	15526
 Postos Consulares	15380,676
@@ -2119,6 +2153,7 @@ Postos de Recolha	10772
 Postos de Registo	11537
 Postos de Registo Civil	11537
 Postos de Transformação	16055
+Postos de Transformação Unidades	18793
 Postpaid	2776,3961,3996,60,182,1461,165,2468
 Postpaid Account Payment Account	13333
 Postpaid Active SIM	1944
@@ -2221,7 +2256,11 @@ Prepaid and Postpaid Mobile Voice Subscriptions Prepaid	2776
 Preschool Primary Post	15056
 Prescribed Timeframes for Filling SMS Posts Within	11218
 Presence Postbank’s	8999
+President Caixa Postal	18797
 President Position	17394
+Prestadores de Serviços Postais Compete	18778
+Prestadores de Serviços Postais Secção I Direitos	18778
+Prestadores de Serviços Postais. Artigo	18778
 Pretoria Postal Address P.O. Box	11250
 Prev Post	17930,21,1,115
 Prev Post CSA Deputy Director-General	17057
@@ -2262,6 +2301,8 @@ Proposed Position	13037
 Proposed Revised Budget Post Restructuring	2989
 Provide Postal Services	18602
 Préscolaire Primaire Postprimaire Secondaire Ensemble	737
+Príncipe By Téla Nón Posted	18807
+Príncipe. Possui	18760
 Public Counter Positions	6946
 Public Key Infrastructure POS- Point of Sales	11955
 Public Post Operator	15340
@@ -2309,7 +2350,10 @@ Rebuilding Post-Conflict	17011
 Recent AU African Position	1814
 Recent Post	17258
 Recent Posts	8639,1766
+Recomendações da União PostaI Universal	18778
+Recommended Post	18824
 Red Postal Mundial	1701
+Rede Postal	18778
 Reforma Postal	1701
 Regional Digital Services Exporter Position Nigeria	10157
 Regional FinTech Positioning Eswatini	12444
@@ -2394,6 +2438,7 @@ SQL-like PostgreSQL	17068
 STATEMENT OF CASH POSITION	16978
 STATEMENT OF FINANCIAL POSITION	14736
 STOCK IMAGES Postbank	7856
+STP Post Office	18825
 SUBMISSIONS RECEIVED PERSUANT FOLLOW-UP QUESTIONS POST	4732
 SUMMARY OF THE NIGERIAN POSTCODE	11129
 SYSTEME D’ADRESSAGE NUMERIQUE POSTAL GEOREFERENCE	17902
@@ -2430,8 +2475,9 @@ Servicio Postal Universal	1701
 Servicios Postales	1701
 Serviço Postal	11386
 Serviço Postal Decreto	12794
-Serviço Postal Universal	10755
-Serviços Postais	11396,1
+Serviço Postal Universal	10755,8023
+Serviços Postais	11396,1,7381
+Serviços Postais O Estado	18778
 Seychelles Postal Services	2104
 Shareholders Post-Corporate Actions Structure	4896
 Shifting U.S. Posture Toward Africa	6790
@@ -2445,8 +2491,10 @@ Sierra Leone Postal Services	18523
 Signature Type of Radio System Position Held	736
 Similar Posts	11297
 Sistema Nacional de Códigos Postales Digitales	17389
+Sistema Postal Nacional	18778
 Sistema de Posicionamento Global	10777,750
 Skills Posted	14913
+Small and Medium Enterprises POS	18770
 Smart Card Card Possession	13095
 Smart One Stop Border Post	12742
 Smear Positive	16971
@@ -2545,6 +2593,7 @@ Tanzania and Botswana. Position	1013
 Tasks and Position of Data Protection Officers	6608,4976
 Taux Préscolaire Primaire Post Secondaire Nombre	737
 Tax Posts	10762
+Taxa de Positividade	18768
 Technical Model For Post Codes	13298
 TechnoMag By Gamuchirai Mapako The Postal	13656
 Technology and Postal Services	5083,9246,4392
@@ -2572,6 +2621,7 @@ Telecommunications and Postal Services P567	1670
 Telecommunications and Postal Services Tariff	15340
 Telecoms and Postal Director Licensing	11857
 Tendai Gukutikwa Post Reporter THE Ministry	13439
+Teste de Sífilis Positivo	18768
 Thailand Post Training Center	17856
 Think Before You Post	10341
 Tomada de Posse	10752
@@ -2591,6 +2641,7 @@ Tutelle du Ministère des Postes	18105
 Tweet This Post	5765
 Type de POS	13390
 TÉ UTILISÉ QUESTION NON POSÉE	13300
+Téla Nón Posted	18866
 UN POSITIONNEMENT INSTITUTIONNEL RENFORCÉ Missions	2342
 UN20 POS	11955
 UNDERSTANDING ZIMBABWE'S POSTAL AND COURIER LANDSCAPE	13582
@@ -2666,6 +2717,7 @@ Virtual Postal Boxes	15136
 Visa-Free Entry Posted	12164
 WARDIP SOP1. The Ministry of Post and Telecommunication	17099,15
 WBAR PAPI Position	16552,454
+Washington Post	18777
 Weekly Organic Posts Promoted Social Media	8999
 Weibo. Posts	8460
 Wenela Border Post	12984

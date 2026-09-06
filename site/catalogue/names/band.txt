@@ -1,4 +1,5 @@
 ACE Bandwidth	15424
+ACESSO A BANDA LARGA FIXA	18791
 ACK SAMUEL ACHOLA MEMORIAL BANDE Data	7167
 ADMINISTRATIVE PENALTY CATEGORIES AND BANDS	17249
 APPLICATION OF PENALTY BANDS	17249
@@ -21,6 +22,7 @@ Available International Bandwidth	6671
 B. Improved Bandwidth and Service Delivery	16975
 BANDA	13481,2179
 BANDA ANCHA	16865
+BANDA LARGA MOVEL	18791
 BANDA RIDE LIMITED Data Controller INST-557459D1DD2	7167
 BANDA RIDE LIMITED Data Processor INST-557459D1DD2	7167
 BANDARI DT SACCO Data Controller INST-962231FD9C1	7167
@@ -61,8 +63,9 @@ Banda Ancha	9543,1986,5652
 Banda Ex Officio Member	13053
 Banda Head Teacher	13392
 Banda Larga	11396,1
-Banda Larga Fixa	16558
-Banda Larga Móvel	16558
+Banda Larga Fixa	16558,2233
+Banda Larga Fixa Trimestres	18791
+Banda Larga Móvel	16558,2233
 Banda Larga Móvel Small Screen	16558
 Banda Larga Nacional	5272,5800
 Banda Larga Taxa de Penetração	11418
@@ -95,8 +98,9 @@ Bande Rose	13300
 Bande Violette	13300
 Bande-Passante	17836
 Bandeau	16006
-Bandeira	2816,8697,3831
-Bandeira Nacional	15344
+Bandeira	2816,8697,3831,3407
+Bandeira Hino Constituição da República Detalhes	18751
+Bandeira Nacional	15344,3407
 Bandeira Nacional da República da Guiné-Bissau	11513
 Bandes	15943,352
 Bandes LT0-9 FC	16395
@@ -147,8 +151,12 @@ Broad Band Access	14729
 Burundi Large Bande	13313
 C and Ku Bands	736
 C-Bande Circular C-Bande Bande WHH-NOR-CBC-	998
+CAPACIDADE BANDA LARGA INTERNACIONAL	18791
+CAPACIDADE DE BANDA LARGA INTERNACIONAL	18791
 CRESCIMENTO DE BANDA LARGA MÓVEL	11531
 Cabo Verde Brasão Bandeira Tecnologias de Informação	16325
+Capacidade Banda Larga Internacional	18791
+Capacidade de Banda Larga Internacional	18791
 Cercle de Bandiagara BAN DIAG AR	17828
 Channel Bandwidth	14825
 Channel Spacing MHz Bandwidth	736
@@ -188,10 +196,14 @@ E-Health Application Bandwidth	21
 E. Banda	13387
 EQUIPPED INTERNATIONAL INTERNET BANDWIDTH CAPACITY	6000
 EQUIPPED INTERNATIONAL INTERNET BANDWIDTH CAPACITY Overall	6000
+EVOLUÇÃO DO ACESSO A BANDA LARGA	18791
 Elizabeth Banda	12978
 Equipped International Incoming Internet Bandwidth Capacity	6000
 Equity Total Liability Size Band	12445
 Evolution des Emplois BANDE PASSANTE INTERNATIONALE	998
+Evolução Assinantes Banda Larga Fixa	18791
+Evolução Banda Larga Móvel	18791
+Evolução de Banda Larga Fixa	18791
 F Maestro Banda Secretario Grupo F	4209
 Fredrick Banda PIC Member	13392
 Frequency Assignments for Non-Protected Fixed Links Band	6946
@@ -238,6 +250,7 @@ International Bandwidth Tariffs	16883
 International Bandwidth Usage	14836
 International Bandwidth Usage Megabits	14836
 International Internet Bandwidth	718,5953,275,8190
+Internet Banda Larga Móvel	18791
 Internet Bandwidth	14858
 Internet Usage International Bandwidth Usage	14836
 Jane Banda Assistant Director-Internal Audit Eastern	13392
@@ -250,6 +263,7 @@ Kaga Bandoro	10829,4790,112
 Kelvin Banda	13429
 L'ESTIMATION DE LA BANDE PASSANTE	15850
 LANDILANI BANDA	13481
+LARGA MÓVEL Banda Larga Móvel Anual	18791
 LOCAL AND INTERNATIONAL BANDWIDTH CAPACITY	16883
 La Guinéenne de Large Bande	16647
 La Société Guinéenne de Large Bande	16641
@@ -309,7 +323,10 @@ Ndola Teaching Hospital Dr. Justo Banda	7384
 Necessary Bandwidth	736
 Ntayi Anfani Bandawa	15190
 Number of Bandwidth	15164
+NÚMERO DE ASSINANTES DE INTERNET BANDA	18791
 O Portal Nacional de Banda Larga	9559
+O SERVIÇO BANDA LARGA FIXA	18791
+O SERVIÇO BANDA LARGA FIXA--12	18791
 Occupational Bands	11218
 Operator Bandwidth Capacity Inq. Digital Nigeria	3862
 Others Bandwidth Growth	2830

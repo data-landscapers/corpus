@@ -63,6 +63,7 @@ Application Platform	12969
 Apresentação da Plataforma I Participate Mamadu	17082
 Attribution-provisoire platforme-citoyenne.pdf	18031
 Audio and Video Conferencing Platform	14327
+Authentication Platform	18767
 Authentication and Authorization Platform for Web	11872,3
 Authority Digital MSME Platform	6335
 Automated Civil Service Platform	17057
@@ -171,6 +172,7 @@ Contratação Pública ADI2 Sim EST-TEC18 Plataforma	15532
 Coordination and Visualization Platform	6903
 Creation of Knowledge Sharing Platforms	15845
 Credit Platform	14274
+Credit Registry Platform	18825
 CropWatch and ETWatch Cloud Platforms	14140
 Cultivating Open Government Data Platform Ecosystems	226
 Cultivation of Platform Dependence	226
@@ -389,6 +391,7 @@ Electoral Platform Decide	12201
 Electronic Auctions Platform	10411
 Electronic Facilities and Compliance Platform The MRA	14785
 Electronic One-Stop Platform Khartoum	17564
+Electronic Payment Platform	18767
 Electronic Payments Platforms	14879
 Electronic Pharmacy Platform	15798
 Electronic Police Report Platform	14914
@@ -455,6 +458,7 @@ GEP Global Electrification Platform GtCO2	11572
 GIS Platform	17470
 GM Platform	18205
 GOV Cloud Platform	8632
+GOV.ST Mobile Platform	18767
 GPT Educational Platform	4759,10012
 GPT Educational Platform Pilot Project	14771
 GUIDE ON E-TAXATION PLATFORM	12676
@@ -572,7 +576,7 @@ Interim Financial Report IoP Interoperability Platform	15518
 Intermediation Platform	3161
 Intermediation Platform Intermediation Platform	3161
 International Recovery Platform	17157
-Interoperability Platform	3612,9222,127
+Interoperability Platform	3612,9222,127,5806
 Interoperability Platforms. Since GTMI	10785
 Interoperable Cloud Governmental Platform	11869
 Interoperable Instant Payment Platform	10203,726
@@ -903,12 +907,14 @@ País Plataforma	15684
 Pillar Infrastructure Platform Objectives	15480
 Pilot Cross-Border Data Exchange Platform	4326
 Plataform	15590
-Plataforma	2613,3361,3425,1374,598,23,19,24,24,19,75,14,329,41,82,836,6,2613,10,86,423,32,871,82,32,325,24
+Plataforma	2613,3361,3425,1374,598,23,19,24,24,19,75,14,329,41,82,836,6,2613,10,86,423,32,871,82,32,325,24,1391,27,17
 Plataforma Analítica	2132,481
 Plataforma Autentika Uma	11939
 Plataforma Balcão	15476
+Plataforma CST	18826
 Plataforma Chave Móvel Digital de Cabo Verde	15532
 Plataforma Comum de Comunicação de Dados	12774
+Plataforma Continental	18764
 Plataforma Digitais	2816
 Plataforma Digital	7527,3246,4911
 Plataforma E-learning	11463
@@ -931,6 +937,7 @@ Plataforma Integrada GOV.AO	11461
 Plataforma Kobo Collect	11562
 Plataforma Municipal de Toponímia	16262
 Plataforma Móvel	11569
+Plataforma Móvel GOV.ST	18767,5
 Plataforma Nacional de Certificação	11419
 Plataforma Nacional de Gestión Minera	9303
 Plataforma Nacional de Identidade Digital	9909
@@ -946,10 +953,12 @@ Plataforma Streaming Netflix	2816
 Plataforma Streaming Netflix. Fonte	2816
 Plataforma Tecnológica	17186
 Plataforma Tecnológica de Interoperabilidade	11371,1403
+Plataforma U-Report STP	18872
+Plataforma U-Report São Tomé	18872
 Plataforma Unificada de Segurança. Paralelamente	16487
 Plataforma de Acção de Beijing	11362
 Plataforma de Atendimento Online	11480
-Plataforma de Autenticação	16027
+Plataforma de Autenticação	16027,2740,5
 Plataforma de Autenticação Eletrónica	15572
 Plataforma de Ação de Pequim	11562
 Plataforma de Ação de Pequim URL	11562
@@ -962,12 +971,13 @@ Plataforma de Gestão	11480
 Plataforma de Gestão Integrada da Identificação Civil	180,40,10545,10
 Plataforma de Inteligência Artificial da ITU	12846
 Plataforma de Interação	15572
-Plataforma de Interoperabilidade	11569,1205,48,41
+Plataforma de Interoperabilidade	11569,1205,48,41,5904,5,2,14
 Plataforma de Interoperabilidade Central. O Plano Nacional	11371
 Plataforma de Interoperabilidade da Administração Pública	1770,9624,48,2,17,2853,3240
 Plataforma de Interoperabilidade de Governo Electrónico	12774
 Plataforma de Mulheres	11362
 Plataforma de Pagamento	11569
+Plataforma de Pagamento Electrónicos	18767,5
 Plataforma de Pagamentos	8003,4845
 Plataforma de Recrutamento	17012
 Plataforma de Recrutamento INE-GB	17012
@@ -1403,6 +1413,7 @@ Unified Platform Product Line	15308
 Unified Platform for Business Services Designed	3907
 Unique Administrative and Payroll Management Platform	4142
 Updated ToRs for FMIS Platform Enhancement Rollout	15090
+Upgrading of Credit Registry Platform	18825
 Usagers Plateforme	3381
 Use of Data Sharing Platform	12419
 Use the National Agritech Data Platform	14818

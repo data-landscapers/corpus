@@ -157,6 +157,7 @@ Commerce Services Industrie	10875
 Commerce and Industry	10550,782,4651,648,609
 Commerce and Industry Every Property	9437
 Commercial and Industrial Sector	12502
+Communicatios Industria	18757
 Comparison of Telecoms Industry Performance	3862
 Competitive Advantage Industrial	3796,1205
 Computing Resources Ecosystem Start-up Environment Industry	15713
@@ -511,16 +512,17 @@ Inductive	736,1357,2346,3134,1032,518
 Inductive EN	736
 Inductively Coupled Plasma-Mass Spectrometry ICT Information	13420
 Indulgence	6959
+Indultar	18751
 Indus Towers Ltd	4896
 Indus Towers' African	7942
 Indus-	17812,265
 Indus- Taxes	2775
 Indust Trans Servic Autre	737
-Industria	1701,2508,2632,3086,434,1181,5356
+Industria	1701,2508,2632,3086,434,1181,5356,1862
 Industria Excelentísimo	1855
 Industria de Guinea Ecuatorial	17175
 Industriais	15772
-Industrial	736,39,788,265,1008,1025,815,1582,1055,418,56,2370,689,123,165,15,735,1,10,60,204,1,45,51,95,4,14,27,40,51,898,569,765,27,69,21,43,148,103,242,101,79,52,109,59,1083,17,28,96,15,89,40,110,374,246,565,106
+Industrial	736,39,788,265,1008,1025,815,1582,1055,418,56,2370,689,123,165,15,735,1,10,60,204,1,45,51,95,4,14,27,40,51,898,569,765,27,69,21,43,148,103,242,101,79,52,109,59,1083,17,28,96,15,89,40,110,374,246,565,106,216
 Industrial Accommodation	17114
 Industrial Applicability	12389
 Industrial Area Prison	9188
@@ -573,7 +575,7 @@ Industrial Officer	12972
 Industrial Park	13474
 Industrial Parks	9852,1372,1152,1098
 Industrial Pension Owned Industrial Stand	4896
-Industrial Policies	16972
+Industrial Policies	16972,1825
 Industrial Policy	13474
 Industrial Policy Action Plan	7785
 Industrial Policy Perspective	226
@@ -582,7 +584,7 @@ Industrial Production Census Results ANNEX	16833
 Industrial Production Index	8532
 Industrial Projects Approved	2775
 Industrial Promotion Services	2342,4803
-Industrial Property	16873
+Industrial Property	16873,1924
 Industrial Property Act	3714,4131,2196,4381,406,3,2042
 Industrial Property Code	12161
 Industrial Property Institution	12161
@@ -727,6 +729,8 @@ Industrie. Le Conseil des Ministres	13923,14
 Industrie. Professeur	17827
 Industrie..p.380 MALI	17827
 Industriel	10893
+Industriel Dbs	18757
+Industriel MWh	18757
 Industriel du Sénégal SODEFITEX	18291
 Industrielles	13290
 Industriels ARRETE	17817
@@ -749,7 +753,7 @@ Industries Transparency Initiative FDI Foreign Direct	16996
 Industries and Real Estate	2775
 Industries de Réseau AER Agence	10975
 Industries-	18323,4
-Industry	11,576,202,169,42,131,857,276,65,76,172,90,108,1,77,93,11,146,118,70,62,225,284,71,188,47,27,64,100,73,151,18,8,23,143,43,30,132,230,31,4,1,1,2,117,215,14,32,145,2,26,2,20,58,142,48,162,58,75,48,27,119,105,25,44,2,13,25,1,58,10,31,11,10,41,1,10,2,72,41,5,93,45,44,8,22,124,136,10,12,54,262,33,113,108,77,1,13,19,1,48,72,1,2,50,1,44,53,75,17,184,47,36,84,88,83,3,24,84,74,111,142,223,33,32,104,102,151,104,150,125,268,92,89,97,1,5,12,32,81,67,137,112,238,38,95,12,62,7,2,6,173,19,28,8,87,20,9,15,44,1,8,40,14,87,50,31,26,58,84,61,31,37,65,35,116,124,2,17,14,3,37,55,80,42,70,22,51,194,39,86,135,138,94,267,16,50,5,41,49,48,12,12,6,100,2,517,62,101,34,76,542,318,212,25,14,73,2,21,15,27,40,21,6,34,10,8,59,19,6,19,107,1,324,67,111,574,39,58
+Industry	11,576,202,169,42,131,857,276,65,76,172,90,108,1,77,93,11,146,118,70,62,225,284,71,188,47,27,64,100,73,151,18,8,23,143,43,30,132,230,31,4,1,1,2,117,215,14,32,145,2,26,2,20,58,142,48,162,58,75,48,27,119,105,25,44,2,13,25,1,58,10,31,11,10,41,1,10,2,72,41,5,93,45,44,8,22,124,136,10,12,54,262,33,113,108,77,1,13,19,1,48,72,1,2,50,1,44,53,75,17,184,47,36,84,88,83,3,24,84,74,111,142,223,33,32,104,102,151,104,150,125,268,92,89,97,1,5,12,32,81,67,137,112,238,38,95,12,62,7,2,6,173,19,28,8,87,20,9,15,44,1,8,40,14,87,50,31,26,58,84,61,31,37,65,35,116,124,2,17,14,3,37,55,80,42,70,22,51,194,39,86,135,138,94,267,16,50,5,41,49,48,12,12,6,100,2,517,62,101,34,76,542,318,212,25,14,73,2,21,15,27,40,21,6,34,10,8,59,19,6,19,107,1,324,67,111,574,39,58,256,54
 Industry Actors Providers	17099
 Industry Advisory Boards	14566
 Industry Affairs Harding Tommy	18444
@@ -1206,16 +1210,20 @@ Parque Industrial de Topuito	10083
 Partner Joint Industry Solution	8208
 Patent and Industrial Design Act	18466
 Patents and Industrial Designs Act	18446
+Patents and Industrial Designs. Trademarks	18797
 Payment Card Industry	434
 Payment Card Industry Data Security Standard	2312,38,4588,7896,2090
 Payment Card Industry Data Security Standards	16878
 Payment Card Industry PIN	11955
 Payments Card Industry Payment	12286
+Peche Artisan Pesca Industrial	18757
+Peche Industriel Fonte	18757
 Percentage Industrial	12256
 Percentage Industry	2775
 Performance Metrics Induded	3972
 Permanent Secretary Ministry of Industry	14770
 Pesca Industrial No Sí Sí	16898
+Pesche Industriel Valor da Produção	18757
 Petroleum Industry Act	12308,5846
 Petroleum Industry Performance	408
 Pharmaceutical Industry	18541
@@ -1238,6 +1246,7 @@ Products FISIM Services Industry Agriculture	18483
 Progress Reports EXTERNAL Construction Industry Council	11131
 Promotion Industrielle	17913
 Promotion of Industry and Innovation	6175
+Propriedade Industrial	18837
 Propriété Industrielle	4402,165,12881,50,33,325
 Protection of Industrial Property	17870
 Providing Trainings Industry Finance Education Health	12445

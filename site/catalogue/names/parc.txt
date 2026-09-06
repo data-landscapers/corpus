@@ -15,13 +15,16 @@ Burkina Faso. Parce	8678,43
 CF Parcelle	13375
 COMMUNICATION TECHNOLOGY SECTOR REPORT Parcels	12395
 CONSIGNAÇÃO PARCIAL DA RECEITA DO VISTO	17100
+COORDENAÇÃO ENTRE PARCEIROS DE DESENVOLVIMENTO	18781
 Cadastre de Parcelles Assainies	18324
+Capacidade Institucional. O Pacto de Parceria	18781
 Centre Parc	17812
 Characteristics of Parcels	17043
 Congo Télécom. Parce	10543
 Couche Parcelle	13375
 Couche Parcelles	13375
 Cumbersome Parcel	11129
+D. Parcerias	18772
 DE PLANS PARCELLAIRES EN LIGNE	9976
 DISTRIBUTION OF AGRICULTURAL PARCELS BY GREENHOUSE	17043
 DISTRIBUTION OF IRRIGATED PARCELS	17043
@@ -42,6 +45,7 @@ ELEVES SELON LA DISTANCE PARCOURUE V.5.2	10847
 ELEVES SELON LA DISTANCE PARCOURUE V.5.3	10847
 ELEVES SELON LA DISTANCE PARCOURUE V.5.4	10847
 ELEVES SELON LA DISTANCE PARCOURUE V.5.5	10847
+ENDOSSO DOS PARCEIROS	18781
 ET D’ENREGISTREMENT DE PARCELLES AU CADASTRE	10876
 ET D’INDUSTRIE DU MALI DES PARCELLES	17812
 ETAT DU PARC AUTOMOBILE DE L’APDP	10821
@@ -88,7 +92,9 @@ NACIONAL DE PRODUTORES AGROPECUÁRIOS E PARCEIROS	10769
 NGO Nongovernmental Organization PARCA Niger Refugees	18104
 NOSSOS PARCEIROS	15966
 NUMBER OF PARCEL DELIVERY SERVICES	11211,51
+Não Resposta Parcial Corresponde	18775
 O Pacto de Parceria	11557
+O Pacto de Parceria São Tomé	18781
 O Secretariado da Parceria Global	16268,4
 Optimizing Land Parcel Certification Costs	13998
 Os Parceiros	15962
@@ -118,11 +124,13 @@ PLUS L'INTERVIEW PARCE QU'UN ADULTE	13300
 PME Parceria Mundial	11557
 PNA Parc National	17907
 PNBA Parc National du Banc	17907
+PREPARAÇÃO DO PACTO DE PARCERIA	18781
 PREVALENCE OF EROSION ON PARCEL	17043
 Packets Inbound Parcels	12395
 Packets Total Parcels	12395
 Packets and Parcels	12395
-Pacto de Parceria	11557
+Pacto de Parceria	11557,7224
+Pactos de Parceria	18781
 Parc Ce	15715
 Parc Haut	15706
 Parc Informatique	18297
@@ -138,8 +146,9 @@ Parc des Technologies Numériques	10795,7511,34
 ParcInformatique	18297
 Parce	2514,951,1314,2110,385,80,376,100,43,805,41,2,1309,612,980,51,2980,30,581,278,180,964,54,1195,363
 Parceiro	10777,696,65
-Parceiros	9434,1332,11,1371,3814
-Parceiros Técnicos	11526,31,3978
+Parceiros	9434,1332,11,1371,3814,2821
+Parceiros Locais da Educação	18781
+Parceiros Técnicos	11526,31,3978,3259
 Parcel	12211,2310,952,1538,32,1550
 Parcel Identification Number	14713,9
 Parcel Post	11129
@@ -158,21 +167,23 @@ Parcels	10937,1458,4648
 Parcels Domestic	6671
 Parcels and Packages	9781
 Parcentage	12413
-Parceria	2816,6444,2128,138,43,3966,646,48
-Parceria Estratégica	11564
-Parceria Global	2816,13452
+Parceria	2816,6444,2128,138,43,3966,646,48,2565,50
+Parceria Estratégica	11564,7260
+Parceria Global	2816,13452,2513
 Parceria Mundial	11557
 Parceria OMS	16484
 Parceria Público-	15526
 Parceria Público-Privada	17218
 Parceria Público-Privado	15476
-Parcerias	2816,136,3578,4849,190,1220,2737,158,282
+Parcerias	2816,136,3578,4849,190,1220,2737,158,282,2797,74
 Parcerias Académicas	15684
 Parcerias Essenciais Transformação Digital	11569
+Parcerias Internacionais Favoráveis	18774
 Parcerias Publico Privadas	15526
 Parcerias Público Privadas	12789
-Parcerias Público-Privadas	2816,8580,1393,2737
+Parcerias Público-Privadas	2816,8580,1393,2737,3237
 Parceval Liyali	13003
+Parcial	18775
 Parcialmente	15535
 ParcoiognraalmdaeNCaocnicoinliaalçdãoe	15694
 Parcolis	15999
@@ -190,4 +201,5 @@ Sociedade de Garantia Parcial	15526
 Superficie de Parcelles	15999
 T-1 Parc	15706
 TOUR PARC NATIONAL Tour	17006
+Tempo Parcial	18775
 Transformação Parceria OMS	16484

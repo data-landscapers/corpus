@@ -261,6 +261,7 @@ CONTENT SECURTIY TRUST FRAUD NO COVERAGE	11964
 CONVENTION ON CYBER SECURITY AND PERSONAL	12913
 COTISATION DE SECURITE SOCIALE	15999
 CREDIT SUISSE SECURITIES	1829
+CRGM Central Securities Register DGRN General	18825
 CRVS and Securing the Future of CRVS	9765
 CRYPTOGRAPHIC AND SECURITY STANDARDS	12047
 CSIR Defence and Security	10889
@@ -299,6 +300,7 @@ Central Securities Depository	3714,803,2461,4156,973,257,688,400,16,1555
 Central Securities Depository Company of Botswana	12537
 Central Securities Depository Participant	4896
 Central Securities Dépositoire	13452
+Central Securities Register	18825
 Centre for Cyber Security	14441
 Centre for Security Sector Governance DCD Department	17105
 Certified Cloud Security Professional	15662
@@ -468,6 +470,7 @@ Cyber Security Committee	972
 Cyber Security Conference	318
 Cyber Security Consultant	2989
 Cyber Security Critical	2727
+Cyber Security Cronologia	18788
 Cyber Security Cyber Security Risk Register	2727
 Cyber Security Cyber-attacks	958
 Cyber Security Data	9937
@@ -723,7 +726,7 @@ Djibouti's National Security Agency	183
 Document Security Object	14740
 Documentation Security	12499
 Documented Security Controls	15149
-Domain Name System Security Extensions	1036,3174,6554,2531,2258,992
+Domain Name System Security Extensions	1036,3174,6554,2531,2258,992,2229
 E- Government Security	12253
 E-Social Security	6458
 E. SECURITY MECHANISM	16867
@@ -766,6 +769,8 @@ Emotional Intelligence for Security Presentation	11131
 Employment Promotion and Social Security	16958
 Empower Tomorrow. One Identity. Simple. Secure	12291
 Enactment of Cyber Security Law	16885
+Encapsulating Security Payload	18774
+Encrypted Security Payload	18774
 End-point Security	11231
 Endpoint Security	3279
 Endpoint Security Evidence	10721
@@ -803,6 +808,7 @@ Entry Level GIAC Security Essentials	15662
 Environment for Security	16947
 Environmental Assessment Security Management Plan Traffic	17114
 Equatorial Guinea INSESO Institute of Social Security	16996
+Equipa da NRD Cyber Security	18788
 Establish Cyber Security Framework	395
 Establish Information Security Assurance	1000
 Establish Secure and Reliable	1000
@@ -829,6 +835,7 @@ Examination Security Heightens	13477
 Example. The Kenya Social Security Agency	14524
 Execution S9 Develop Security	12917
 Expand Secure APIs	14997
+Expectations for Computer Security Incident Response	18774
 Expo Benghazi Security Directorate	4630
 Extension of Security of Tenure Act	11188
 Extension of Security of Tenure Act ETC Et	11261
@@ -1165,6 +1172,7 @@ Institute for Security Studies	4127,2260,563,1900,549,217,446,2165
 Institute for Security Studies and African Futures	7233
 Institute for Security Studies. All	9616
 Institute of Social Security	16942
+Institute of Social Security of São Tomé and Príncipe	18770
 Institutional Reforms and National Security	13685
 Institutional Security Clearance	14113
 Insurance and Social Security Fund	15518
@@ -1433,6 +1441,7 @@ Mortgage Backed Securities	10
 Mortgage Secured Credit Credit Facility Unsecured	11198
 Mortgages and Security Interests	14647
 Movable Property Security Interests Act	13333
+Movable Securities Law	18825
 Mr. Robert Paywala National Social Security	16853
 Multi-Tenant ABIS for Secure Identity Checks Congo	11987
 Multisectoral National Action Plan for Health Security	11417
@@ -1454,6 +1463,7 @@ NIS2 Network and Information Security Directive	6936
 NIST Cyber Security Framework	1939
 NITA Security Operation Centre	15704
 NRD Cyber Security	2298,948,10634,3148
+NRD Cyber Security Projeto	18788
 NSSWC National Social Security	16843
 NUTRITION SECURITY	16867
 NX Secures Partnership	2552
@@ -1795,7 +1805,7 @@ Police Seal Security Partnership Deal-Sign MoU	17213
 Policy and Compliance Policy Unit Data Security	16963
 Policy and Strategy for National Energy Security	11366
 Political Pluralism Security	10835,3,130,902,16,466,1,135
-Political and Security Environment	16972
+Political and Security Environment	16972,1825
 Political and Security Environment Eritrea	14008
 Political and Security Environment Politically	16972
 Politics and Security SITA State Information Technology	11986
@@ -2039,6 +2049,7 @@ SECUROUTE	4765,2447,3640
 SECURTIY FRAUD NO COVERAGE SPEEDS INTERNET	11964
 SECURTIY FRAUD NO COVERAGE SPEEDS USE	11964
 SELECT COMMITTEE ON SECURITY	11285
+SERVICES THAT GUARANTEE ENERGY SECURITY	18795
 SH Sexual Harassment SMP Security Management	15621
 SIDC Smart ID Card SIEM Security	5533
 SME Small and Medium-sized Enterprises SOC Security	13312,2
@@ -2057,6 +2068,7 @@ SSA State Security Agency PNR Passenger	11986
 SSA State Security Agency Stats SA	11196
 SSC-DF Social Security Commission Development Fund	12923
 SSDLC Secure Software Developement Life Cycle	15472
+SSH FTP R Securing FTP	18774
 SSH Secure Shell Protocol SSL Secure	34
 SSL Secure Sockets Layer NHBS National	14897
 STABILISATION ET DE SECURISATION DU BETAIL	18032
@@ -2141,7 +2153,7 @@ Secure Enjoy	10956
 Secure Environment	1000
 Secure Eswatini	3716,8721
 Secure Experience	11620
-Secure File Transfer Protocol	14483
+Secure File Transfer Protocol	14483,4291
 Secure Funding and Resources	12675
 Secure Future	10415,4357
 Secure Global Cyberspace	16872
@@ -2218,6 +2230,7 @@ Secured Party's Identification Information	14647
 Secured Storage of Allocate	12253
 Secured Transaction Collateral Registry	11755
 Secured Transactions	7763,4626,2372
+Secured Transactions Law and Regulation	18792
 Secured Transactions Legal and Regulatory Framework	12598
 Secured and Shared Infrastructure	12359
 Securely	5533,6419,34,2766
@@ -2668,6 +2681,7 @@ Sierra Leone Secures Third IMF Disbursement	18501
 Sierra Leone Securities and Exchange Commission	6938
 Sierra Leone Water Security and WASH Access	18498
 Sim EST-ADM11 Computer Security Incident Report	15532
+Simple Authentication and Security Layer	18774
 Simplification and Security of Acts	10937
 Site Security	9123
 Site Security and Safety	13392
@@ -2679,7 +2693,7 @@ Smart and Secure Environment	12926
 Smart and Secure Environments	12926
 Smile Secure	12404
 Social Development ESTA Extension of Security of Tenure	11188
-Social Security	2307,2303,1848,480,1831,2006,37,1093,1059,8,507,1269,4,78,849,1162,61,40,30,1137,374,5,52
+Social Security	2307,2303,1848,480,1831,2006,37,1093,1059,8,507,1269,4,78,849,1162,61,40,30,1137,374,5,52,230,27,12
 Social Security Act	12327
 Social Security Commission	12466,12,445,38,76
 Social Security Commission Good Standing Certificate	12400
@@ -2724,6 +2738,7 @@ Social Security of São Tomé and Príncipe	11939
 Social Transfer for Nutrition Security	16867
 Social Transfer for Nutrition Security CAPI Computer	16867
 Social and Security Specialists	18623
+Solidarity and Social Security	18797
 Somalia's Minister of Internal Security	5045
 Sources SECURITY	10759,76,2,1,130,902,16,3,274,177,1,11,1,135
 South Africa's National Computer Security Incident	8897
@@ -2765,6 +2780,7 @@ Strengthening National and Regional Security	11928
 Strengthening Secure Lending and Responsible Borrowing	14274
 Strengthening Secured Lending and Responsible Borrowing	14206
 Strengthening Security and Trade Effi	13042
+Strengthening the Justice and Security Sectors	18873
 Strict-Transport- Security	15161
 Structure Launch the National Quest Secure Foundational	4528
 Sub-categories Security	10759
@@ -2825,7 +2841,7 @@ Transforming Food Security	11140
 Transmission System Security and Performance	14867
 Transparency Enhance Data Security Measures	15713
 Transport Laver Security	14483
-Transport Layer Security	11952,1085,2124,1763
+Transport Layer Security	11952,1085,2124,1763,1850
 Transport and Security Management	11237
 Treasury's Secure Data Facility	11940
 Trump National Security Strategy. Same	4258
@@ -2842,6 +2858,7 @@ UEFI Secure Boot and Secure	12681
 UK National Cyber Security Centre	10540
 UK National Cyber Security Centre’s Cyber	6936
 UK-Nigeria Security and Defence Partnership	9358
+UN Peacebuilding Fund’s Justice and Security Sector	18868
 UN Security Council	2117,1467,529,162,941,2236,342,2341,274,55,746,715,1584,1450,326,1854,1340,84
 UN Security Council Counter-Terrorism Committee Executive	571
 UN Security Council Resolution	7452,6486,2952

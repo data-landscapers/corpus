@@ -69,6 +69,7 @@ Enquête TIC	3159,15045
 Enquête TIC RTP P1	18291
 Enseignement des TIC	15632
 Equipements TIC	14442
+Estratégias de TIC	18796
 Events KAUTRA Introduces Smarter Onboard Ticketing	3907
 FAIBLE PENETRATION DES TIC Faible	15542
 FINANCEMENT INTERNE DE LA COMPOSANTE TIC	18105
@@ -142,6 +143,7 @@ Plan Nacional TIC Hong Kong	11529
 Plan Stratégique TIC	13290
 Plan TIC Benin	11529
 Plan de Développement des TIC	18105
+Plano Anual de TIC	18773
 Plano Nacional de Desenvolvimento TIC	11387
 Point Focal TIC Point Focal TIC	13341
 Point Focal TIC du Ministère	13290
@@ -155,9 +157,13 @@ Postes Direction Générale des TIC	13341
 Postes ESATIC Ecole Supérieure Africaine des TIC	15746
 Primary Health Tickets	12976
 Produtos de TIC. Os	2816
+Projectos TIC	18772
 Promotion des TIC	15632
 Président du Comité Technique Sectoriel TIC	13290
+Príncipe TI Tecnologias de Informação TIC Tecnologias	18788
+Príncipe TIC	18779,15
 PÉNÉTRATION DES SERVICES TIC	18105
+QNI Quadro Nacional de Interoperabilidade TIC Tecnologias	18774
 QUIPEMENTS SANITAIRES ET TIC	13306
 Quadro Regulamentar de TIC	12808
 Quadro de Indicadores de TIC. Este	2816
@@ -205,6 +211,7 @@ Système Statistique National TIC	18291
 TAT ACTUEL DES TIC DANS	15541
 TAUX DE PÉNÉTRATION DES SERVICES TIC	18105
 TELECOMMUNICATIONS ET TIC	17819
+TIC ANPDP Agência Nacional de Proteção de Dados	18788
 TIC AU MALI	18032
 TIC Accès	15542
 TIC Actualité Cameroun	10379,3104
@@ -217,6 +224,7 @@ TIC Avant	13290
 TIC Bamako	18032
 TIC Beaugas Orain DJOYUM	3658,2617,145
 TIC Bureau	15936
+TIC CNPD Comissão Nacional de Proteção de Dados	18788
 TIC CTD	15542
 TIC CTD PRIVE Axes	15542
 TIC Ce	13290
@@ -343,8 +351,10 @@ TIC. L’enjeu	17824
 TIC. L’opérationnalisation	17881
 TIC. L’élévation	13290
 TIC. Malgré	17856
+TIC. Mas	18796
 TIC. Mode	16627
 TIC. O Dia	16305
+TIC. O Plano de Ação	18788
 TIC. Outro	11555
 TIC. Par	17448
 TIC. Para	16325
@@ -390,7 +400,9 @@ TICSeed	15476
 TICs Issoufa	12128
 TICs Organisation	16195
 TICs. Dans le Discours	13364
+TICs. INFRAESTRUTURAS TECNOLÓGICAS PARA IA EM	18796
 TICs. Os CETEM	15684
+TICs. Para	18767,5
 TICseed	15476
 TICʹs	17604
 Taux Brut de Fréquentation Scolaire TIC	737

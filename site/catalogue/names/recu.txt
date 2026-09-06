@@ -1,6 +1,8 @@
 APD. O Gabinete de Recursos Humanos	167
 API Integration for Recurring Debit Orders	15260
 APPROPRIATED RECURRENT BUDGET	13093
+Alocação de Recursos	18788
+Aplicação de Recursos	18752
 Appropriated Recurrent Expenditure	12922,34
 B. SUMMARY OF RECURRENT BUDGET	12977
 BCPFS BCPFS Recurrent Yearly Post	16032
@@ -27,6 +29,7 @@ Departamento de Recursos Humanos Dande. Corrupção	10751
 Desenvolvimento de Recursos Humanos	12777
 Development Budget. RECURRENT BUDGET	12597
 Director. O Gabinete de Recursos Humanos	167
+Direcção-Geral de Recursos Naturais	18760
 Direito de Recurso	10755
 Direção Geral de Recursos Hídricos	17147
 Direção de Recursos	15503
@@ -46,10 +49,13 @@ Economy and Recurrent Continuous In Progress Finance	10870
 Economy and Recurrent Yearly In Progress Comments	10870
 Eficiência de Recursos	11542
 Ensino Secundário Recursos Gerais	16325
+Estado. VII. Recursos de Privatização Esses	18798
+Estratégia. E. Recursos	18772
 Expenditure Recurrent Capital Block Grants	5655
 Exploração de Recursos Naturais	2816
 Exploração de Recursos Naturais Na	2816
 FINANCIAL REPORT A. Summary of Recurrent Expenditure	12977
+FINANCIAMENTO E ALOCAÇÃO DE RECURSOS	18788
 FIRST Recurrent	1777
 FUENTE DE LOS RECURSOS MONTO UTILIZACIÓN	4209
 Fernandes Recursos Hídricos	17147
@@ -84,13 +90,14 @@ MINISTRIES RECURRENT BUDGET	17105
 MINISTRIES RECURRENT BUDGET ALLOCATION	17105
 MINISTRY’S RECURRENT BUDGET PERFORMANCE	12962
 MINISTRY’S RECURRENT BUDGET PERFORMANCE Estimated	12962
+MINISTÉRIO DAS INFRAESTRUTURAS E RECURSO S	18793
 MRR Monthly Recurring Revenue CapEx Capital	3184,1,1340,6470
 Measurement Ministry of Comments NA Economy and Recurrent	10870
 Ministries Recurrent	17105
 Ministries Recurrent Budget	17105
 Ministry of Finance Recurrent and Development Budget	12598
 Ministry’s Capital and Recurrent Budget Performance	12962
-Mobilização de Recursos	11362,4141
+Mobilização de Recursos	11362,4141,3260
 Monthly Recurring Revenue MSP Managed Service	10861
 Motivos de Recusa	11520
 Movilización de Recursos	8048
@@ -109,7 +116,7 @@ OPERAÇÕES DE CRÉDITO ATIVAS E RECUPERAÇÃO	17100
 Only Fiduciary Systems NA IGF Recurrent	17470
 Operator MRR Monthly Recurring Revenue MSP	10781,1646,2055
 Outputs Primary Secondary National Security Recurrent	1777
-Outros Recursos	11362
+Outros Recursos	11362,7390
 PEDS II Recuperação Económica	15684
 POLÍTICA DE RECURSOS HUMANOS Artigo	16056
 POM. Name Recurrent Due Date Frequency	17441
@@ -125,6 +132,7 @@ Poverty Alleviation and Empowerment Recurrent Expenditure	14835
 Prices for Recurrent Costs	14766
 Programa de Formação de Recursos Humanos	4754
 Project Name Recurrent Due Date Frequency	17441
+Projeto de Recuperação	18793
 Proposed Recurrent Budget	12606
 Proposta de Programas de Capacitação de Recursos Humanos Com	2816
 Protection Sector Recurrent Strategic Objective	1777
@@ -165,8 +173,10 @@ Recueillir	13301,2369,178,60,2107,276,21
 Recueillis	7725
 Recupel	14423
 Recuperar	1701
-Recuperação	8493
-Recurrent	1777,16,2,854,1,125,431,2,2447,1432,2,3674,368,776,462,237,200,543,243,1144,2,8,20,122,8,268,440,1248,5,248,130,22,60,141,667
+Recuperação	8493,10308,8,15
+Recuperação Covid19	18799
+Recuperação da COVID-19	18789
+Recurrent	1777,16,2,854,1,125,431,2,2447,1432,2,3674,368,776,462,237,200,543,243,1144,2,8,20,122,8,268,440,1248,5,248,130,22,60,141,667,698
 Recurrent Account	2775
 Recurrent Awareness Activities. Institutions	1777
 Recurrent Awareness Campaigns. Society	1777
@@ -226,11 +236,11 @@ Recurring Surveys	15760
 Recurring Transactions	12175
 Recurring Transactions P1	12175
 RecurringPayments	15260
-Recurso	576,2240,50,1408,6486,17,583,5,60,10,85,381,3490,163
+Recurso	576,2240,50,1408,6486,17,583,5,60,10,85,381,3490,163,3196
 Recurso Contencioso	4274
 Recurso Humanos	10752
 Recurso de Alzada	16855
-Recursos	13,2,148,1538,1165,1343,1454,5120,603,1,140,1,15,26,1293,2518,5,150,159,1170,34,22,227
+Recursos	13,2,148,1538,1165,1343,1454,5120,603,1,140,1,15,26,1293,2518,5,150,159,1170,34,22,227,1621,30,24
 Recursos Conexos	11430
 Recursos Digitais	12846
 Recursos Económicos	16855
@@ -238,16 +248,19 @@ Recursos Escassos	11795,1047
 Recursos Externos	4209
 Recursos Financeiros	10783
 Recursos Financeiros Artigo	2866
+Recursos Fiscais	18789
 Recursos Forestales Mundiales	16875
 Recursos Forestales Mundiales FVC Fondo Verde	16875
 Recursos Gerais	16325
 Recursos Hidricos ID	9441
-Recursos Humanos	1268,433,1115,5556,2380,31,594,4,10,170,3843,99,519,1072
+Recursos Humanos	1268,433,1115,5556,2380,31,594,4,10,170,3843,99,519,1072,1674,25
 Recursos Humanos Actualmente	2816
 Recursos Humanos Atualização	16487
 Recursos Humanos DCN Departamento de Contas Nacionais	15535
+Recursos Humanos Decreto-Lei Instituto de Inovação	18773
 Recursos Humanos ECEA Estratégia Continental de Educação	11557
 Recursos Humanos Gabinete de Tecnologia de Informação	10766
+Recursos Humanos O Recursos Humanos	18768
 Recursos Humanos ODS	1701
 Recursos Humanos Para	10772
 Recursos Humanos da Administração Pública	10768,626
@@ -256,24 +269,28 @@ Recursos Humanos. Em	2816
 Recursos Hídricos	1701,7740,1949,137
 Recursos Hídricos MSBS Ministerio de Sanidad	16898
 Recursos Hídricos Sí Ministerio de Agricultura	16898
+Recursos Materiais	18768
 Recursos Minerais	4147,7211,47,1382
 Recursos Minerais de Timor-Leste	17337
 Recursos Minerales	1701
 Recursos Mundiales Forestales. Informe Nacional	16875
-Recursos Naturais	2816,8711,42
+Recursos Nacionais	18779
+Recursos Nacionais MJAPDH Ministério da Justiça	18779
+Recursos Naturais	2816,8711,42,7181,2,1,7,13,4,2,9,3,7
 Recursos Naturales	1701
 Recursos Ordinários	752,10031
 Recursos Partilhados	570
 Recursos Propios	4209
-Recursos Próprios	10783
+Recursos Próprios	10783,8039
 Recursos Tecnológicos	10783
+Recursos Tecnológicos Partilhados	18774
 Recursos de Numeração	11430
 Recursso Humanos	11569
 Recusa	539,10891,90,4856
 Recusa de Abertura da Conta de Pagamento	11386
 Recusa de Decisões Baseadas	3519
 Recusa de Ordens de Pagamento	10755,631
-Recusar	11386,3999
+Recusar	11386,3999,3370
 Responsibility Timing Completion Recurrent Measurement CCDB	11905
 SANGRE ESTUPEF. RECURSOS FINANCIERA SERVICIOS SERVICIOS	4209
 Serviço de Gestão de Recursos Humanos	15526

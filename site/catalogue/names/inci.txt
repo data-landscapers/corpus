@@ -50,6 +50,7 @@ Computer Security Incident Response Team-CSIRT	15504
 Computer Security Incident Response Teams	5677,1259,1961,573,1219,4799,656
 Comunicação de Incidentes de Segurança	3519
 Conclusion Incidence	13513
+Constituição. CAPÍTULO II Incidência Subjectiva	18764
 Continuous Monitoring Feedback Loops Incident Reporting	16212
 Critical Network Incident	15081
 Cyber Crisis Incident Management	10721
@@ -77,6 +78,7 @@ DADOS SOBRE OS ACIDENTES E INCIDENTES	10770
 DHIS2 Incidence	4349
 Data Incident Management	15034
 Date of Incident	3583
+Dbs. Incineração	18834
 Departments and Agencies CIRCIA Cyber Incident Reporting	6936
 Details of Incidence	17114
 Detection and Reporting of Cybersecurity Incidents	4610
@@ -96,6 +98,7 @@ Establish the Incident Establish the Incident Response Fully	1777
 Establish the Incident Response NCC MOPT	1777
 Establish the Incident Response Task Force	1777
 Establishment Of The National Computer Incident	2256
+Expectations for Computer Security Incident Response	18774
 Exploração Florestal Incidência- Taxas-Notas Taxa Lei	17100
 F7F14F1 Probabilité Incidence	18063
 FORMULÁRIO INCIDENTES	11413
@@ -184,6 +187,7 @@ Incident Management Tier	10721
 Incident Management and Reporting Protocols	5132
 Incident Management and Response Plans	15054
 Incident No	17114
+Incident Object Description Exchange Format	18774
 Incident Recovery Plan	10721
 Incident Reporting	1000,2651,3897,8664
 Incident Reporting Establish	1777
@@ -193,7 +197,7 @@ Incident Reporting. Develop	1777
 Incident Reports Awareness	10721
 Incident Resolution Advising	775
 Incident Responders	1000
-Incident Response	775,225,1709,1152,749,1822,4289,1231,586,429,1954,741,2084
+Incident Response	775,225,1709,1152,749,1822,4289,1231,586,429,1954,741,2084,1028
 Incident Response A. All Telecommunications Service	4610
 Incident Response GC-SCRM.S1	10721
 Incident Response Plan	10721
@@ -227,11 +231,15 @@ Incidentes	4218,2752,3777,630,2935
 Incidentes Cibernéticos	2816,8715,4956
 Incidentes Cibernéticos de Nível Nacional	7736
 Incidentes Informáticos	10747,649,1
+Incidentes de Cibersegurança	18788
+Incidentes de Cibersegurança de São Tomé	18788
+Incidentes de Segurança	18774
 Incidentes de Segurança Cibernética	3838,3132,3470,5460
 Incidentes de Segurança Cibernética Artigo	6970
 Incidentes de Segurança Cibernética Sectoriais	6970
 Incidentes de Segurança Digital	15899
 Incidentes de Segurança Informática	4218,5008,6278
+Incidentes de Segurança da Informação	18774
 Incidentes de Seguridad Informática	16965
 Incidents	1777,161,1645,1950,2489,2741,274,102,701,3040,201,820,7,267,667,128,854
 Incidents Cybernétiques	16296
@@ -240,10 +248,12 @@ Incidents Informatiques	2695
 Incidents Large-Scale Incidents Large-Scale Incidents	1777
 Incidents Reported By Pbo Field Monitors	16970
 Incidents de Paiement	15934
-Incidência	11537,10,3812,32,564,11,1134
+Incidência	11537,10,3812,32,564,11,1134,1668
 Incidência Objectiva	744,10686
 Incidência Subjectiva	744
 Incidência Taxa Ad Ad	17100
+Incidência de Algumas Doenças de Declaração Obrigatória HAM	18768
+Incidência de Paludismo	18768
 Incidência- Taxas-Notas Taxa Doméstico	17100
 Incinerated	15206
 Incinerator	18737
@@ -292,6 +302,7 @@ Maintenance of Incident	12253
 Major Incidents	15081
 Marketing CIRTs Computer Incident Response Teams	6946
 Means and Incidents of Payment	4785
+Ministério da Saúde. Taxa de Incidência	18768
 Minor Incidents	15081
 Monitoring Locations Incident Response Processes Physical	6432
 Multidimensional Poverty Incidence	15244
@@ -358,6 +369,7 @@ Probabilité Incidence	18063
 Qe7FtjalG The Namibia Cyber Security Incident	5794
 RESPOSTAS AOS INCIDENTES INFORMÁTICOS	10747
 RW-CSIRT Report Incident	9125
+Razão Padronizada de Incidência	18875
 Records of Processing Evidence of Incident GC-SE	10721
 Red Sea Incident Shows	2677
 Reporte de Incidentes Tecnológicos	5169
@@ -385,8 +397,10 @@ Somalia Computer Incident Response Team	4810,528,332,6843
 South Africa's National Computer Security Incident	8897
 South Sudan Computer Incident Response Team	18649,18
 Système de Remontée des Incidents Environnementaux	15936
+TABELA ACTUALIZADA DE CÓDIGOS DE INCIDÊNCIA	18845
 TRAITEMENTS DES INCIDENTS DE SECURITE	10906
 Task Incident Response Unit	1777
+Taxa de Incidência	18768
 Technical Support and Incident	12917
 Technology Authority ZMCIRT Zambia Computer Incident	13346
 Technology IRMS Incident Recording Management System	12717

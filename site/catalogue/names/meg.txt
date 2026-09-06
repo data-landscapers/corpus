@@ -105,7 +105,7 @@ MegaEdu26	899
 MegaMatcher	13005
 MegaMore Wireless Broadband Ltd	3862
 Megabit	15621,1262,2
-Megabits	3456,1232,1312,1877,3334,1325,138,243,1919,494,2532
+Megabits	3456,1232,1312,1877,3334,1325,138,243,1919,494,2532,915
 Megabits-per-second	11085
 Megabyte	15513,40
 Megabyte Aprili	2868
@@ -149,6 +149,8 @@ Operators MW Mega Watts MWSI Ministry	2775
 Orlando Mendes Megas Felix Bulutna Nan	11544
 Outlook MW Megawatt NERSA National Energy	11228
 Plan M&E Monitoring and Evaluation Mbps Megabits	15621
+Points Mbps Megabits	18754
+Procedures M&E Monitoring and Evaluation Mbps Megabits	18777
 Project MBPS Megabyte	14897
 Provider MW Megawatts OEM Original Equipment	10861
 RAMESH MEGHI SHAH Data Processor	7167

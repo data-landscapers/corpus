@@ -135,6 +135,7 @@ Communications and Technology and Google Cloud EMEA Ltd	5799
 Communities Project Management Contingent Emergency Response	17962
 Community CERC Contingency Emergency Response Component	969
 Complex Emergencies. Shabaka Working Paper. Accessed	6947
+Component CERT Computer Emergency Response Team	18777
 Component CONASUR National Council for Emergency Relief	16384
 Componente de Resposta de Emergência	11406
 Componente de Resposta de Emergência Contingente	11440,1,101
@@ -149,7 +150,7 @@ Computer Emergency Readiness Team CIMS	16872
 Computer Emergency Readiness Team CIO	14879
 Computer Emergency Readiness and Response Team	7630,1488
 Computer Emergency Response	783
-Computer Emergency Response Team	587,2750,1273,240,394,1692,2534,1349,3031,340,240,449,576,63,125,1229,103,53,1607
+Computer Emergency Response Team	587,2750,1273,240,394,1692,2534,1349,3031,340,240,449,576,63,125,1229,103,53,1607,142,40
 Computer Emergency Response Team CHU	17824
 Computer Emergency Response Team CIO	16975
 Computer Emergency Response Team CMU CPF	17862
@@ -165,13 +166,13 @@ Continency Emergency Response Component	13331
 Contingency Emergency Reconstruction Component	1228
 Contingency Emergency Response	13331,4970
 Contingency Emergency Response Comment	13392
-Contingency Emergency Response Component	2989,7779,195,1002,2611,977,108,76,276,174
+Contingency Emergency Response Component	2989,7779,195,1002,2611,977,108,76,276,174,2622
 Contingency Emergency Response Component. Following	14576
 Contingency Emergency Response Part	16936
 Contingency Fund for Emergencies	15966
 Contingent Emergency	1284
-Contingent Emergency Response	1284,3369,2275,4489,554,204,1156,1125,97,357,608,184,442,292,1522,397,268
-Contingent Emergency Response Component	761,235,232,36,20,300,283,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61,990,2,226,353,27,35,66,2,37,1,2,82,39,187,14,96,65,43,197,52,460,26,4,68,6,96,3,15,848,171,160,8,49,4,5,97,48,30
+Contingent Emergency Response	1284,3369,2275,4489,554,204,1156,1125,97,357,608,184,442,292,1522,397,268,186,8
+Contingent Emergency Response Component	761,235,232,36,20,300,283,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61,990,2,226,353,27,35,66,2,37,1,2,82,39,187,14,96,65,43,197,52,460,26,4,68,6,96,3,15,848,171,160,8,49,4,5,97,48,30,275
 Contingent Emergency Response Component CERC Country	11417
 Contingent Emergency Response Component CERC Steering	1228
 Contingent Emergency Response Component CPF Comité	10964
@@ -243,6 +244,7 @@ Disaster Risk Reduction and Emergency Response MINTER	15845
 Domain Somalia Kenya Uganda Rwanda Emerging	15164
 Dr. Emebet Melese	12195
 Dr. Joseph Emeshili Head	5680
+Dr. Patrice Emery Trovoada	18752,105
 Drought Emergency	17157
 E Obras Emergenci	17219
 E&S Environmental and Social EAP Emergency Action	16384
@@ -291,6 +293,7 @@ EMERUSENGEAlice	13390
 EMEs Sélection Fondée	18007
 EMEs and LIDCs	12948
 ERRs Emergency Response Rooms	15220
+ESP Emergência	18783
 ESPAI Emergência de Saúde Pública	11376
 ET Emerging Ministry	7548
 Effective Response Public Health Emergencies	17289
@@ -307,7 +310,7 @@ Emedia and Sud Communication	18358
 EmediaSN	18343
 EmediaSN URL	18343
 Emeka Afigbo	8299
-Emeka Anuforo	13429
+Emeka Anuforo	13429,5433
 Emeka Anuforo Communication and External Relations African	16778
 Emeka Ike	8440
 Emeka Okonkwo Johannesburg	3546,6329
@@ -830,11 +833,13 @@ Emergência Informática	10747
 Emergência de Saúde Pública	15966
 Emergência de Segurança	10747
 Emergência. Sendo	11413
-Emergências	3519,699,7302,4006,725
+Emergências	3519,699,7302,4006,725,2532
 Emergências Informáticas	4218
 Emergências Radiológicas	11376
 Emergências Sanitárias	15966
 Emergências da OMS	11459
+Emergências de Saúde	18789
+Emergências de Saúde Pública Promoção da Saúde	18783
 Emergências de Segurança	3519
 Emergências de Sáude Pública Figura	15966
 Emergências----------------------------------	11376
@@ -1107,6 +1112,7 @@ National University of Computer and Emerging Sciences	15251
 National Water Security Strategy. Emergency Feed	17157
 National and Sectoral Computer Emergency Response Teams	587
 Nations International Children's Emergency Fund	15556
+Nations International Children's Emergency Fund UNFPA	18777
 Nations International Children’s Emergency Fund United	16973
 Nations of International Children's Emergency Fund US	14425
 Niger Contingent Emergency Response Project	18198
@@ -1145,7 +1151,9 @@ Parque de Emergencias de Mbini Mbini	4209
 Parque de Emergencias de Sampaka Malabo Malabo	4209
 Part V PUBLIC EMERGENCY	18451
 Part VI-PUBLIC EMERGENCY	18451
+Patrice Emery Trovoada	18753
 Percentage of Public Health Emergency Operations Centers	11417
+Personal Interviews CERC Contingent Emergency Response	18777
 Physical Annual Emerging Technologies Technologies	7548
 Pillar Emerging	12214
 Plan Comores Emergent	1996,11721
@@ -1287,6 +1295,8 @@ Through the WHO Health Emergencies	17289
 Towards the Emergence	17870
 Traffic Management and Emergency	15659
 Training Emerging Technologies Technologies	7548
+Transfer CERC Contingency Emergency Response Component	18809
+U.S. Citizens Emergency Assistance Local Emergency	18879
 U.S. President's Emergency Fund for AIDS Relief	12334
 U.S. President's Emergency Plan for AIDS Relief	18697
 U.S. President’s Emergency Plan for AIDS Relief	10641
@@ -1305,7 +1315,7 @@ Unified National Network for Emergency Services	15977
 Union Commission CERC Contingency Emergency Response	18504
 United Nations Central Emergency Resoponse Fund	13003
 United Nations International Children's Emergency	18104
-United Nations International Children's Emergency Fund	12947,28,1467,3382,280
+United Nations International Children's Emergency Fund	12947,28,1467,3382,280,673
 United Nations International Children’s Emergency Fund	1824,8952,4777
 United Nations Office for Digital and Emerging Technologies	11057
 United States President's Emergency Plan	12944

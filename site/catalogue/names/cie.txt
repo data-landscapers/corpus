@@ -26,10 +26,10 @@ Ciencia MEC	16942
 Ciencia PRODEGE Programa de Desarrollo Educativo de Guinea	16864
 Ciencias	4209,6229,6460,22,295,98,96
 Ciente	11531
-Cientes	15572
+Cientes	15572,3221
 Cientista de Dados	2816
 Cientistas de Dados	2816
-Científica	5405
+Científica	5405,13391
 Científicas Informática Informações Informações	11534
 Columbia University CIESIN	196
 Comissão Científica	11542
@@ -51,7 +51,7 @@ Gestores de Informação Científica	8000
 Grupo de Investigação Científica	11385
 INSPECCION GRAL. POLICIA CIENTIF. E INVESTIG.-	4209
 Instituições de Investigação Científica	11385
-Investigação Científica	11385,40,98,34,1266,4180
+Investigação Científica	11385,40,98,34,1266,4180,1764,5,1
 Investigação Científica ABREVIATURAS E ACRÓNIMOS ADPP-GB	11557
 Investigação Científica DGEPASE Direcção-Geral	11557
 Investigação Científica MEESJCD Ministério da Educação	11557
@@ -73,7 +73,9 @@ Política de Ciencia	1701
 Produção Científica	11385
 Programa de Iniciação Científica Tutelada	15910
 R CIE DES EAUX MINERALES	16623
+Repositório Científico da CPLP	18855
 Repositório Científico de Moçambique	8000
+Repositório Científico de São Tomé	18855
 SODECI Transports Electricité ACI AERIA CIE	2342
 Sector de Investigação Científica	6970,5853
 Sistema Nacional de Ciencia	1701

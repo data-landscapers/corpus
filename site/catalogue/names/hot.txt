@@ -88,6 +88,7 @@ Four Points By Sheraton Hotel	5371
 Gadileh Resort Hotel	4774
 Garden Court Hotel	13465
 George Hotel	13043,154
+Gestão Hoteleira	18831
 Gestão de Hotelaria	16290
 Glee Hotel	6946
 Golden Sands Hotel	13060
@@ -130,13 +131,15 @@ Hotel Industry and Tourism	18016
 Hotel Industry and Tourism of Mali	18016
 Hotel Les Oliviers	8713
 Hotel Occupancy	2775
+Hotel Pestana	18810,36
 Hotel Sofitel Malabo	4209
 Hotel Sofitel Presidencial de Malabo Malabo	4209
 Hotel Tourism Statistics Section	12962
 Hotel Verde	10392
 Hotel and Casino	12989
 Hotel de Bata	4209
-Hotelaria	17308
+Hotelaria	17308,1449,10,5,73
+Hotelaria DPA	18794
 Hotelería	4209
 Hotelière Sir Gaetan Duval	14829
 Hotellerie	2342,11048
@@ -165,7 +168,7 @@ Hotspot Provider	17250
 Hotspot WiFi Avenida Digital-	17219
 Hotspots	10763
 Hotuba	2868,3151
-Hotéis	11416,42
+Hotéis	11416,42,7299
 Hotêl Président de Yamoussoukro	2342
 Hunger Hotspots	3583
 INTRODUCING THE WHISTLEBL WER HOTLINE NamRA	13044

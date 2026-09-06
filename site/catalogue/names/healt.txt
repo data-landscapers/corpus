@@ -1074,6 +1074,7 @@ District Health Information System	21,13,362,370,395,100,563,1967,558,3669,358,2
 District Health Information System DHRMD Department	12917
 District Health Information System Electronic Management	12037
 District Health Information System Version	12037
+District Health Information System-2	18768
 District Health Information System2	15936
 District Health Management Information System	1261,17217
 District Health Management Information Systems	396
@@ -2347,6 +2348,7 @@ Health Tech	2577,140,2255
 Health Tech Figure	4972
 Health Technical Working Group	34
 Health Technology Assessment	4153
+Health Technology SaaS	18776
 Health The EU and South Sudan	18640
 Health The Minister of Health	12661
 Health The PNDIS II	13314
@@ -2534,6 +2536,7 @@ Healthcare Data Analytics and Management	8603
 Healthcare Data Processor INST-6029251E5C0 SIAYA Kenya	7167
 Healthcare EHR	5665
 Healthcare Enterprise IoT Internet of Things SAPC	396
+Healthcare Exhibition	18857
 Healthcare Facilities	17099
 Healthcare Facilities Clinics	17099
 Healthcare Facilities Components	17099
@@ -3170,7 +3173,7 @@ Minis- Health Maps	10780
 Minister for Health	13870,1686
 Minister for Health Mduduzi Matsebula	13008
 Minister for Health Sudan	14898
-Minister of Health	396,1911,1276,249,1,334,121,61,2125,1490,122,1004,177,258,1251,53,572,16,331,232,358,75,148,46,122,293,18,64,283,483,999,54,27,50,56,206,994,393,192,130,139,98,32,629,147,519,10,14,23,75,80
+Minister of Health	396,1911,1276,249,1,334,121,61,2125,1490,122,1004,177,258,1251,53,572,16,331,232,358,75,148,46,122,293,18,64,283,483,999,54,27,50,56,206,994,393,192,130,139,98,32,629,147,519,10,14,23,75,80,120
 Minister of Health Ali Haji Adam Abubakar	15119
 Minister of Health Dr. Haitham Mohamed Ibrahim	8613
 Minister of Health Dr. Sabin Nsanzimana	4781
@@ -3193,6 +3196,7 @@ Minister of Health and Transport Minister	2667
 Minister of Health and Wellness	14773,1
 Minister of Health for Botswana	12583
 Minister of Health of Botswana	11748,3514
+Minister of Health of STP	18857
 Minister of Health. YES YES NA	15758
 Minister of Public Health	8506,8775
 Minister of Public Health Manaouda Malachie	8666
@@ -3297,6 +3301,7 @@ Ministry of Health of Comoros	13813
 Ministry of Health of Ethiopia	1824,10431
 Ministry of Health of Liberia	17395
 Ministry of Health of Mozambique	12266
+Ministry of Health of Sao Tome	18810
 Ministry of Health of Uganda	4217
 Ministry of Health's Community Health Services	13160
 Ministry of Health's Electronic Mail Acceptable Use	34
@@ -3771,6 +3776,7 @@ Orotta College of Medicine and Health Sciences	14120
 Ouest MTA Médicaments Traditionnels Country Health	17845
 Over-extraction. Vegetation Health Decline	17157
 Overall Financial Health	2775
+Overseas Development Aid OHS Occupational Health	18777
 Own Health Decisions	17127
 Oxford Open Digital Health	1824
 Oxford Open Digital Health. Published	12581

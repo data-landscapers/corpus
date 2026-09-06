@@ -10,7 +10,7 @@ ADM Responsible Team Leader Co-Team Leader	11924
 ADM SAWS4 Waterinckx Responsible	1284
 ADM STAFF	13722
 ADM STAFF At Approval At ICR	15424
-ADM STAFF Role At Approval	11924,3739,68,1221,897,13,100
+ADM STAFF Role At Approval	11924,3739,68,1221,897,13,100,803
 ADM Samuel Lantei Mills Health Systems	16922
 ADM Social Development SAWS4 Smith Responsible	16922
 ADM Sophie Lo Diop Environment SAWE1	16922
@@ -39,6 +39,7 @@ Chargés des Adm	17827
 Chargés des Etudes Adm	17827
 Chef de Centre Adm	17827
 Contract Adm. Fee	16848
+Core Team Name Role Specialization ADM	18809
 DADIE Sylvie Adm MMPE	2342
 DJAA Koffi Antoine FAITS MARQUANTS Adm	2342
 DJOHAN Gerard Adm MCI	2342
@@ -83,6 +84,7 @@ Mokondeh University ADM	18485
 Moriba Town ADM	18485
 Moyama Junction ADM	18485
 Moyamba ADM	18485
+Official Use Only ADM STAFF Role	18825
 Pendembu ADM	18485
 Port Loko ADM	18485
 Port Loko Teachers' College University ADM	18485

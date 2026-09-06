@@ -80,6 +80,7 @@ BOZ Housekeeping	12364
 BUNNY HOUSE SCHOOLS LIMITED Data Processor	7167
 Background A Population and Housing Census	16921
 Bama Houet Hauts-Bassins	15715
+Bank Trust Funded STP Household Budget	18825
 Basic Phone Smartphone Feature Phone HOUSEHOLD	582
 Belmont House	14847
 Benjamin Hounkpatin	16406
@@ -373,6 +374,7 @@ Félix Houphouët-Boigny	5377,858,2660
 Félix Houphouët-Boigny National Polytechnic Institute	3604,1152
 GENDER AND REGION Region Household Labor	17043
 GENDER OF HOUSEHOLD MEMBERS ENGAGED	17043
+GHG Green House Gas GoSTP Government	18809
 GO TO THE HOUSEHOLD AND ATTEMPT	17127
 GRM Grievance Redress Mechanism HEA Household	17849
 Gaborone BOTSWANA MULTI TOPIC HOUSEHOLD SURVEY	12600
@@ -405,8 +407,9 @@ Government ICT House	11184
 Government Printing House	17934
 Government Procurement Opportunities AHP Affordable Housing	2775
 Government of Sierra Leone Open Hours	18453
-Green House Gas	12256,1824,1579,485,2309
+Green House Gas	12256,1824,1579,485,2309,356
 Grid Electricity Services for Households and Priority	12429
+Grievance Redress Mechanism HBS Household Budget	18765
 Group Indi- House- Active Popula- Popu-	17743
 Guest House House Grove Drive Number	4896
 HAUTS-BASSINS HOUET	10847
@@ -711,6 +714,7 @@ Household Head Sex Age	17114
 Household Head and County Agriculture Households Male	16921
 Household Headship Male-headed	12383
 Household Hunger Scale	17285
+Household IDA International Development Association IGA	18809
 Household Identifying Information	15244
 Household Impact	10964
 Household Income	10841,2121,2642,59
@@ -812,7 +816,7 @@ Houses of Justice	11541
 Houses of JusticeJanvier	18305
 Houses of Parliament	3714,7516,59,1184,414,69,20,350
 Houses of Parliament. B. National Drought Policy	12977
-Housing	1431,509,206,282,164,6,177,271,667,750,482,1726,877,828,603,435,1206,143,429,93,572,83,58,253,122,10,579,1,9,121,381,211,1057,76,56,60,63,207,40,3,226,576,138,715,14,19,12,167,35,111,1216,121,22,40
+Housing	1431,509,206,282,164,6,177,271,667,750,482,1726,877,828,603,435,1206,143,429,93,572,83,58,253,122,10,579,1,9,121,381,211,1057,76,56,60,63,207,40,3,226,576,138,715,14,19,12,167,35,111,1216,121,22,40,158
 Housing Activities	16187
 Housing Allowance	13096
 Housing And Household Characteristics	16921
@@ -871,7 +875,7 @@ Housing and Household Characteristics	16921
 Housing and Human Settlements Development	6123
 Housing and Lands	14753
 Housing and Local Development	15473
-Housing and Population Census	12749,1985,8,3,70,17
+Housing and Population Census	12749,1985,8,3,70,17,3945
 Housing and Property Rights	16916
 Housing and Rehabilitation Programme	14742
 Housing and Settlement	1131,1644
@@ -949,6 +953,7 @@ III.3 ELECTRICITY CONSUMPTION EXPENDITURE IN HOUSEHOLDS	15574
 INEGE Household Survey Findings Report	16996
 INTEGRATED HOUSEHOLD LIVING CONDITIONS SURVEY REPORT	12403
 INTRODUCTION A Census of Population and Housing	13367
+IOF Household Budget Survey	18777
 ISIbalo House	11192,66,28,10
 ITU DataHub ICT Households and Individuals ICT	14098
 IV. The First Hour Now	7777

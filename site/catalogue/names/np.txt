@@ -38,6 +38,9 @@ Edéa NPEN	10980
 Elevated NPL	16996
 Employment Policy NPF Nongovernmental Organization PANEJ2	10964
 Entrepreneurship Activity NPS National Payment System	14897
+Escalão de NPS	18775
+Escalão de NPS Pessoas	18775
+Escalão de Número Médio NPS	18775
 Evaluation Directorate NPIOM National Public Investment	18488
 Evaluation NPV Net Present Value PBF	11924
 Expediting the NPL	17503
@@ -57,7 +60,9 @@ Housing Authority NPA National Port Authority	17260
 IRR and NPV	15661
 Immunization NPHIL National Public Health Institute	16971
 Implement the NPKI	14441
+Inclusion Strategy NPL Non-Performing Loan OTOCA	18825
 Index NGO Non-governmental Organization NPV Net	11560
+Indicators NPV Net Present Value ODA	18777
 Intellectual Property Management Office NPO Non-Profit	5246
 Internal Audit NPC Secretariat Director	11224
 Investment NPV Return	11924
@@ -194,6 +199,7 @@ NPRRI	14874
 NPRRI National Policy	14874
 NPRS Electronic National Population Registration System	12947
 NPRS National Population Registration System	12367
+NPRS National Poverty Reduction Strategy PAD	18754
 NPRS Person Profile Data Architecture	12337
 NPRS. Birth	12327,10
 NPRS. Death	12327
@@ -210,11 +216,13 @@ NPS Act. Purpose	14834
 NPS Act. Scope	14834
 NPS Bill. Entry	3318
 NPS Digitization Committee	14467
+NPS Escalão de Pessoal	18775
 NPS HQ Jogoo House. NPSIMS	3320
 NPS Headquarters	3320,11147
 NPS Officers	14467
 NPS Oversight Policy Framework Practice Note	12390
 NPS Payment Trends Table	13076
+NPS Porcentagem	18775
 NPS Rankings	6051
 NPS Regulations	14834
 NPS Strategic Plan	3320
@@ -245,7 +253,9 @@ NPV Net Present Value O&M Operation	11863
 NPV Net Present Value O&M Operations	11549
 NPV Net Present Value ODS Operational	15411
 NPV Net Present Value ONECI National	3604
+NPV Net Present Value OP Operational	18809
 NPV Net Present Value PAD Project	15511
+NPV Net Present Value PDO Project	18765
 NPV Net Present Value PaaS Platform	15621
 NPV Return	11924
 NPV US	15661
@@ -302,6 +312,7 @@ Postal and Courier Services NPA National Prosecuting	13420
 Procurement NPPA Chief Executive Calls for Procurement	18500
 Project. The NPV	16949
 Project’s NPV	15659
+Príncipe NPS Número de Pessoas	18775
 Publication of Price Norm NPPA	18577
 Regions Monthly NPC	15845
 Registration Authority NPSE National Primary Schools	18460

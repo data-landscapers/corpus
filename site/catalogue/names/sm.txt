@@ -50,8 +50,9 @@ Accelerate Digital Innovation and Empower ICT SMEs	11254
 Accelerating Affordable Smartphone Ownership	13331
 Accelerating Smartphone Adoption	3975,3205,3752,3742
 Accelerating Smartphone Affordability	14674
+Adam Smith	18837
 Adam Smith International	18487
-Additional Financing Credit Grant SML Guarantee	2889,12249,845
+Additional Financing Credit Grant SML Guarantee	2889,12249,845,2826
 Adopted Smart Applications	16885
 Advanced Level GIAC Advanced Smartphone Forensics	15662
 Advancing Evidence for Smarter Policy Launched	11332
@@ -107,6 +108,8 @@ Assist SMEs	1885
 Assistant Minister for Smart Governance Sherif Kishk	16255
 Association Sustainable Development Goals Small and Medium	15480
 Association of Start-up and SME Enablers GRP Government	14897
+Atlas Sovereign Smart Solutions	18815
+Atlas Sovereign Smart Solutions LLC	18815
 Audrey Smock Amoah	6508
 Aurélio Prudence Le Smart Car Park	10045
 Authority SMS Short Message Service TV	2776
@@ -133,6 +136,7 @@ BYOD Android Smart Phones	34
 Banda Larga Móvel Small Screen	16558
 Bank Smart Africa Unesco African Union	9886
 Bank. Small	15372
+Bank’s Small States Strategy	18851
 Baraka Smiles Dental Limited Data Controller	7167
 Basic Phone Smartphone Feature Phone HOUSEHOLD	582
 Benchmarking SMEs Banking Activity	1828
@@ -233,6 +237,7 @@ Connected Africa and Smart Africa	6178
 Connected Home and SME Broadband	14692
 Consumption of Traditional Small Protein Foods	17127
 Contact Information SMART Zambia Institute	12375,6
+Contactos de SMI	18768
 Context Small	17140
 Context of Digital Transformation. Smith	11927
 Costs of Transport of Canes for Small Planters	14753
@@ -677,6 +682,7 @@ Message Type TTC Types MT298 SMT	12364
 Micro Small and Medium Enterprise MTF Multi-tier	15515
 Micro Small and Medium Enterprises	279,12001,4581
 Micro and Small Businesses	8669
+Micro and Small Enterprises	18847
 Micro and Small Enterprises Act	7548
 Micro-entreprise Small and Medium Enterprises	10985
 Micro1-3 Small	12445
@@ -772,6 +778,7 @@ Numériques SMS Short Message Service SPU	16327
 Nutzung von Smartphones	614
 Nvidia GPUs. Smith	5161
 O SMR	15526
+O Serviço de Mensagens SMS	18767,5
 ONG Small Média	2377
 ORDER ORDER GOOD NEWS FOR SMALL	13044
 OS. Smartphones	2776
@@ -839,6 +846,7 @@ Plan Ye'low SMS	15471
 Planned Two-Year Smelter Shut Down	13387
 Planning and Urban Development SME Small and Medium	15473
 Plano Director Smart Rwanda	11461
+Plano Smart	18830
 Postal and Courier Services. The Smart Zimbabwe	395
 Posts SMME KICKSTART	11251
 Pour le Service SMS	15710
@@ -898,6 +906,7 @@ Recognition of Smallholders	14818
 Recognition of Smallholders Smallholder	14818
 Recognition of Smallholders Smallholders	14818
 Record Smart ID	11274
+Redress Service SIDS Small Island Developing	18851
 Reference Smith2023	2117
 Refugee and Migration Management MINTER SMTDP	15845
 Region Regional Institution Credit Grant SML	16144
@@ -1141,6 +1150,7 @@ SME SOP STEM SWOT TWG UN	4528
 SME SPI SSELGS SWP UNESWA USA	11134
 SME Scorecard	11469
 SME Serviço de Migração	10765,10
+SME Small and Medium Enterprise GRS Grievance	18851
 SME Small and Medium Enterprise SSA Sub-Saharan	15515
 SME Small and Medium Enterprises	18614
 SME Small and Medium-sized Enterprises SOC Security	13312,2
@@ -1327,6 +1337,7 @@ SMS Jovem	11387
 SMS Line	13461,1
 SMS Media Burundi	13301
 SMS Members	11218
+SMS Message Service	18767
 SMS Messages. The Notification Engine	12359
 SMS Mobile Data and Voice	12395
 SMS OECD	1013
@@ -1421,6 +1432,8 @@ SMTD Service Providers Sotelma	17870
 SMTD-	17841
 SMTD-SA	7999,809,9033
 SMTDP	15845
+SMTP AUTH	18774
+SMTP. R Protocolo	18774
 SMTPS	10764
 SMdhluli	11953
 SMoE State Ministries of Education	11860
@@ -1459,6 +1472,7 @@ Services Act SADA Smart Africa Digital	4126
 Services Developmen MINTER SMTDP	15845
 Services SMS GRATUIT Accès	17833
 Services SMSWF SMS Women’s Forum SOE	11197
+Serviço de SMS	18767
 Sexual Harassment SMC School Management Committee	15661
 Seychelles With Huawei's SMART Education	3511
 Short Message Service SME Small and Medium	12923
@@ -1476,7 +1490,7 @@ Sm.Aa	15694
 SmPaI3lie	10763
 Smail Nassima	16230
 Smait Maven	7564
-Small	418,257,1313,213,1526,347,52,460,214,25,419,3,227,16,175,68,19,131,452,50,305,281,32,57,96,242,75,50,170,66,4,82,444,125,524,141,50,543,37,32,99,12,225,599,42,47,10,18,48,123,12,41,117,15,30,17,272,27,54,71,120,134,7,1,78,34,195,21,23,23,45,45,53,1,25,11,8,1,55,356,61,1,59,23,53,19,39,12,133,23,106,5,84,5,42,417,141,27,53,235,152,30,143,99,117,62,88,67,12,92,217,18,1,61,21,4,23,544,504,125,78,6,42,2,19,5,49,36,32,71,43,93,7,119,246,248,448,186,3,49
+Small	418,257,1313,213,1526,347,52,460,214,25,419,3,227,16,175,68,19,131,452,50,305,281,32,57,96,242,75,50,170,66,4,82,444,125,524,141,50,543,37,32,99,12,225,599,42,47,10,18,48,123,12,41,117,15,30,17,272,27,54,71,120,134,7,1,78,34,195,21,23,23,45,45,53,1,25,11,8,1,55,356,61,1,59,23,53,19,39,12,133,23,106,5,84,5,42,417,141,27,53,235,152,30,143,99,117,62,88,67,12,92,217,18,1,61,21,4,23,544,504,125,78,6,42,2,19,5,49,36,32,71,43,93,7,119,246,248,448,186,3,49,198,16,27,28
 Small AI	9558
 Small Aperture Terminal RAPPORT ANNUEL D'ACTIVITES	16327
 Small Arms Survey Briefing Paper	3583
@@ -1523,8 +1537,9 @@ Small Industrial Development Organization	7763
 Small Irrigation Management Information System	14002
 Small Irrigation Management Information System of Ethiopia	14002
 Small Island Developing Countries	11191
-Small Island Developing State	10348,984,237,2997,163,15,74,1165
-Small Island Developing States	2663,250,3405,838,79,1757,1772,656,1622,734,790,176,10,21,20,1344,2212
+Small Island Developing State	10348,984,237,2997,163,15,74,1165,2868
+Small Island Developing State Explore	18836
+Small Island Developing States	2663,250,3405,838,79,1757,1772,656,1622,734,790,176,10,21,20,1344,2212,446,74
 Small Island Developing States SIGMAT Regional	13042
 Small Island Developing States. Education	8992
 Small Island Development States. UT and INIDA	15552
@@ -1560,7 +1575,7 @@ Small Scale Enterprise Loan Guarantee Scheme	13123
 Small Scale Mining Formalisation	13474
 Small Service Contract	12389
 Small Shareholders' Grievance Mechanism	18556
-Small State	1284,583,1695,42,7164,61,135,453,143,295,50,60,1366,1,402,9,1810,68,37,3,483,778,1276
+Small State	1284,583,1695,42,7164,61,135,453,143,295,50,60,1366,1,402,9,1810,68,37,3,483,778,1276,611
 Small States	7060,4849
 Small States Can Move Differently Ambassador	9741
 Small States Navigate	7857
@@ -1596,6 +1611,7 @@ Small and Medium Enterprises NaNA National Nutrition	17105
 Small and Medium Enterprises National Development Strategy	940
 Small and Medium Enterprises National Financial Inclusion	13938
 Small and Medium Enterprises Nonbank Financial Institutions	11134
+Small and Medium Enterprises POS	18770
 Small and Medium Enterprises SWOT	16968
 Small and Medium Enterprises Significant Economic Presence	14932
 Small and Medium Enterprises and Animal Husbandry	16649
@@ -2265,6 +2281,7 @@ Unlimited SMS	15471
 Unplanned Smelter Shutdown Madam Speaker	13387
 Unveil New Smart Glasses Zimbabwe’s Digital	3016,2546
 Urban MINTER SMTDP	15845
+Usar SMTP	18774
 Used Smartphone Changes What Affordability	16799
 Using Smarter	12241
 V VERY SMALL APERTURE TERMINAL	14879

@@ -1,6 +1,7 @@
 A3.1. Land	15129
 A3.2. Land	15129
 A3.3. Land	15129
+A4.1. Ateliê de Lançamento de NDT	18760
 ABSENTEE LANDLORDS	12912
 ACCESS TO LAND ANNEXE	17285
 ACT LAND REGISTRATION	14427
@@ -209,6 +210,7 @@ Category Tenure Application Fee Landing Rights	10407
 Cellular and Landline Phone	11211,51
 Central Equatoria State Ministry of Land	3046
 Central Lands Registry	18619
+Cerimónia de Lançamento	18766
 CfRN Land Use Assessment Application	17140
 Chance- Stands Fund Land	4896
 Change and Adaptive Land Management	11407
@@ -258,7 +260,7 @@ Communication Langues	15467
 Communities Document Language	13669
 Community Land Act	10313,4114
 Community Land and Forests Loss	17114
-Community of Portuguese Language Countries	6778,4767,1300
+Community of Portuguese Language Countries	6778,4767,1300,5952
 Compensation and Land Costs	11549
 Competitive Landscape	3859,8517
 Compilation of Land	16863
@@ -280,8 +282,9 @@ Council Cession Stand Land Gwanda	4896
 Council Cession. Pur- Land	4896
 Council of Land Surveyors	12511
 Country Landscape	11483,1095
-Country Landscape AI	11483
+Country Landscape AI	11483,7357
 Country Landscape. Botswana's Country Report	12578
+Country Landscape. São Tomé and Príncipe's Country	18840
 County Land Authority	18593
 County Land Commissioners	17016
 Cover Meta Language	15129
@@ -557,6 +560,7 @@ Gallup Land Partners	6529
 Gambian Sign Language	17096
 Gambians. The National Land Policy	17124
 Gender Data Landscape URL	17248
+Gender Landscape Washington	18809
 General Assembly. Language	7320
 General Directorate of National Land Domain	4596
 General Directorate of State Lands	15473
@@ -790,6 +794,7 @@ LANOIX	16175
 LANVIA Rappel	17882
 LANet	7457
 LANets	7457
+LANs Wireless	18752
 LANÇAMENTO DA JANELA	11384,24
 LAYER Land-border	9399
 LCCS Land Cover Classification System LCHS	15129
@@ -881,6 +886,7 @@ Land Administration System IMC Inter-Ministerial Committee	11261
 Land Administration Use Directorate Monitoring	14002
 Land Administration and Cadastral Services	12662
 Land Administration and Information System	13418
+Land Administration and Management	18825
 Land Advisor	8903
 Land Affairs	11906
 Land Affairs and Land Transport	5805
@@ -1038,6 +1044,7 @@ Land Reference Number	14407
 Land Reform	12912,761
 Land Reform Act	12912,112
 Land Reform DPME Department of Planning Monitoring	11224
+Land Reform Law	18797
 Land Reform Program. SCCLRM	12912
 Land Reform Programme	13703
 Land Reform and Mineral Resources	11285
@@ -1055,7 +1062,7 @@ Land Registration Act	14427
 Land Registration Coverage	12389
 Land Registration Division LTR	15657
 Land Registration of Deeds Act	16968
-Land Registry	10937,196,3514,114,1809,557,982,484
+Land Registry	10937,196,3514,114,1809,557,982,484,204
 Land Registry Agency	18109
 Land Registry Information System	11862,77
 Land Registry Office	11862
@@ -1063,6 +1070,7 @@ Land Registry Offices and Notaries	11862
 Land Registry Streamline	11939
 Land Registry System	16943
 Land Registry and Mapping Agency	12389
+Land Registry and Notary Codes	18825
 Land Registry. Valuation	14761
 Land Regulations	1988,10659
 Land Rehabilitation	17157
@@ -1404,7 +1412,7 @@ Langlotz	8603
 Langman	8960
 Lango Lippaye	16971
 Langseth	9129
-Language	940,45,6,223,1210,1198,1462,140,374,616,594,1318,554,439,5,137,1190,390,292,59,206,107,358,89,89,105,68,28,55,63,4,12,342,433,3,31,167,40,172,162,850,182,138,12,3,7,1,7,1,84,91,24,3,48,165,129,396,685,284,170,133,199,218,880,107,54
+Language	940,45,6,223,1210,1198,1462,140,374,616,594,1318,554,439,5,137,1190,390,292,59,206,107,358,89,89,105,68,28,55,63,4,12,342,433,3,31,167,40,172,162,850,182,138,12,3,7,1,7,1,84,91,24,3,48,165,129,396,685,284,170,133,199,218,880,107,54,199
 Language Academy	10451
 Language Amharic	14129
 Language Data Commons of Australia	7313
@@ -1491,12 +1499,13 @@ Lanuit. Article	13719
 Lanzado	10848
 Lanzamiento	758,943,6677,8515,37,49,108,306
 Lanzar	1701
-Lançamento	2242,371,203,5066,503,7011,503,67,34,146,341,797
+Lançamento	2242,371,203,5066,503,7011,503,67,34,146,341,797,1571
 Lançamento da Campanha Integrada de Vacinação	17015
 Lançamento da Campanha de Sensibilização Cívica	7310
 Lançant	8719
 Lançar	11569
 Lançar Iniciativas de Inclusão Digital	15689
+Lançámos	18841
 Large Landowning	15473
 Large Landowning Class	15473
 Large Language Model	2871,780,877,1704,750,882,285,70,4293,4956
@@ -1540,6 +1549,7 @@ Literature Review Namibia’s ICT Landscape Information	12325
 Local Authorities Governance Unit The Land	14738
 Local Language Interface	14965
 Localise Traffic IN- Submarine Cable Landing	11857
+Location of Sanitary Landfills	18787
 Loss of Land	17114
 L’INTELLIGENCE ARTIFICIELLE PARLE NOS LANGUES	9916
 M P507935 Land IPF	11469
@@ -1825,6 +1835,8 @@ Non-Registration of Land	18465
 Number LLM Large Language Models	3184,1,1340,6470
 Number and Type of Land Disputes	12389
 Number of Landing Points	18091
+O Intercomunicação LAN	18774
+O Lançamento	18760
 ORGANISATION DU LANADA	2342
 OS1.I3.P2 Lancer	17860
 OVER AGRICULTURAL LAND LAAS-2024	17043
@@ -1832,6 +1844,7 @@ Object Based Similarity Assessment Using Land	15129
 Off-grid LAN Generator Features Area	15574
 Official Language	12533,1876
 Official Language ARTICLE	14409
+Official Language and Timor Leste	18777
 Official Use Only Senegal Cadastre and Land	18354
 Old Lands	15473
 Old Lands All	15473
@@ -1942,9 +1955,11 @@ Public-Sector Risk Landscape	6442
 Published Data Landscapers	6470,95
 Pula Investments and Stephen Lansdown	5930
 Pvt Ltd Stand Land Chegutu CBD	4896
+Q-2014.html R Virtual LAN VLAN	18774
 QUESTIONNAIRE RÉPUBLIQUE DU BURUNDI LANGUE	13300
 Quantity and Value of Fish Landed	2775
 Query Language SIPS Sub-Saharan Africa SMEs	17235
+R LAN	18774
 RANITIDINE HYDROCHLORIDE LANSOPRAZOLE	15930
 RECAP OF THE NIGERIAN COMMUNICATIONS LANDSCAPE	5245
 RECOMMENDATIONS FOR ACHIEVING THE LAND DEGRADATION	17157
@@ -1975,6 +1990,7 @@ Recording and Registration of Land Rights	18539
 Recording and Registration of Land Tenure Rights	18534
 Recording and Registration of Land Tenure Rights Baseline	18534
 Reform Priorities Land	15473
+Reform and Modernization of Property and Land Registry	18825
 Regarding the Socialist Land Registry Real	16916
 Regional Lands Commission Chairman	16410
 Regional Market Landscape and Key Policy Drivers	12048
@@ -2067,6 +2083,7 @@ Samuel Bull THE NATIONAL LAND COMMISSION	18465
 Samuel Lantei Mills ABBREVIATIONS AND ACRONYMS	16922
 Samuel Lantei Mills Additional Financing	16896
 Santos José Sambo Benjamin Langa Anésio	2989
+Sao Tome and Principe Gender Landscape. Country	18809
 Satellite Landing Rights and Satellite Filings. LANDING	10407
 Satellite-Based Land Cover Mapping and Monitoring	12667
 Saturnin Landry	15455
@@ -2366,6 +2383,7 @@ Wh Kilowatt Hour LLM Large Language	10781,1646,2055
 Will Language Modelers Like ChatGPT	11140
 Will Language Models	16266
 Wirtschaft des Landes	614
+Wirtschaftswachstum des Landes	18815
 Women Land	17043
 Woodmill Lane Cntr PnP Parow PnP	8999
 World Language	12360

@@ -133,18 +133,22 @@ Departmental Advisory Committee DDG Deputy Director-General	11218
 Depuis	12,1426,241,127,16,439,81,12,23,72,2,105,137,75,198,54,78,2,5,14,38,38,72,89,43,127,64,218,225,103,102,129,55,37,20,295,107,1,75,97,380,92,192,22,142,6,104,1,164,6,61,11,160,225,84,139,214,63,63,97,75,19,47,13,28,120,88,5,39,77,39,58,13,67,60,35,173,289,28,66,22,37,43,29,49,92,2,39,21,66,25,10,111,13,102,44,2,183,1,71,150,313,195,20,14,13,105,48,28,81,94,41,29,108,6,87,73,29,59,42,476,56,60,76,34,126,184,1162,10,25,35,4,26,38,14,63,25,1,34,3,67,67,66,52,92,526,1,100,3,56,16,48,134,542,52,8,25,32,19,1,3,5,13,4,42,33,4,20,32,37,2,3,7,5,27,8,2,2,15,38,70,1,4,59,54,8,64,25,31,65,37,57,13,97,11,5,28,1,10,3,1,52,5,1,4,9,23,42,25,27,18,1,1,17,71,9,275,447,2,11,3,2,29,2,10,6,5,33,37,43,193,6,12,6,8,16,1,6,2,97,5,32,48,42,51,5,39,65,2,10,9,2,2,1,19,6,8,66,3
 Depuis Janvier	15712
 DepuisÊ	18065
+Depurar	18801
+Depuração	18801
 Deputada Joana Lina Ramos Baptista	11365
 Deputada Maria de Lourdes Roque Caposso Femandes	539
 Deputada Maria de Lourdes Roque Caposso Fernandes	539
 Deputada Welwitschea José	539
 Deputada da Nação	15404
-Deputado	539,10211
+Deputado	539,10211,8001
 Deputado Bento Joaquim Sebastião Francisco Bento	11365
 Deputado Boaventura da Silva Cardoso	539
 Deputado José António Lopes Semedo	539
-Deputados	539,6579,2587,1047,606,104,4015
+Deputados	539,6579,2587,1047,606,104,4015,3274,45
+Deputados Artigo	18751
 Deputados Boaventura da Silva Cardoso	539
 Deputados João Manuel Gonçalves Lourenço	11365
+Deputados Os Deputados	18751
 Deputados da ANP	11561
 Deputados da Assembleia da República	12796
 Deputados. Anteriormente	2816
@@ -210,7 +214,7 @@ Deputy Chief State Counsel Prisca Wambui	14631
 Deputy Chief Whip	14742
 Deputy Chief of Air Staff	18220
 Deputy Chief of Office	13776
-Deputy Chief of Staff	1014,2676,4356,195,128,2,1359,520
+Deputy Chief of Staff	1014,2676,4356,195,128,2,1359,520,8547
 Deputy Commerce Minister Wilmot Reeves	14318
 Deputy Commissioner	3360,7929,1260,105,581,853,2769,1609,86,32
 Deputy Commissioner Azezew Chane	14088
@@ -387,7 +391,7 @@ Deputy Majority Leader	10313
 Deputy Majority Leader Owen Baya	7000
 Deputy Manager	7192,2600
 Deputy Managing Director	12526
-Deputy Managing Director and Acting Chair	15752,1574,13
+Deputy Managing Director and Acting Chair	15752,1574,13,1484
 Deputy Managing Director and Chair	15029,2180,294,406,81
 Deputy Managing Director of Gamtel	6226
 Deputy Managing Director of Huawei Technologies Nigeria	8560
@@ -805,6 +809,7 @@ Natasha Odendaal Creamer Media Senior Deputy	8618
 National Assembly Deputy Clerk Lotun	14841
 National Assembly The Honourable Deputy Prime	10210,2482
 National Director of Communications Deputy National Director	2989
+Nenhum Deputado	18751
 Nerteley Nettey The Deputy Minister for Communication	17573
 Network Product and Deputy Group CPIO	10138
 Number Deputy Commissioner of Police	14760
@@ -812,6 +817,7 @@ OPS Deputy Director-General	11986
 Office of Deputy Minister	8999
 Officer Deputy General Director Manager of Cybersecurity	2989
 Offices The Deputy Prime Minister’s Office	12977
+Os Deputados	18751
 PAPSS Deputy CEO John Bosco Sebabi	1854
 PAS DE RÈGLES DEPUIS DERNIÈRE NAISSANCE	13300
 PMSM Deputy Commissioner of Police Administration BUILDING	14760

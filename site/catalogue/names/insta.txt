@@ -111,6 +111,7 @@ Elaboration du Plan INSTAT	17842
 Elaborer le Bulletin INSTAT	17842
 Electrical Installations Regulations	14867
 Electrical Installations Regulations N	718
+Electricity Access Clean Cooking Installed Renewable	18795
 Electricity Generation Installed Capacity	12358
 Electricity Installed Capacity	12256
 Emergency Aid Install	17157
@@ -177,6 +178,7 @@ INSTAD Once	13938
 INSTAD. L'accent	2768
 INSTALAÇÃO DE UM PAVILHÃO	15404
 INSTALAÇÃO E FUNCIONAMENTO DA AUTORIDADE CREDENCIADORA	11397
+INSTALAÇÕES EM SERVIÇO Redes de Transporte	18793
 INSTALL ITEMS	13185
 INSTALLATION	13621,1459,1883
 INSTALLATION D’ENERGIE	17846
@@ -287,11 +289,16 @@ Instalaciones	4209,12655,56
 Instalaciones Deportivas	4209
 Instalación	4209,12770
 Instalación Eléctrica	4209
+Instalada Garantida Produzida	18793
+Instaladores	18784
 Instalar	11111
-Instalação	539,10,1888,429,1408,7156,8,5,15,62,4052,122,306,1219,385
+Instalação	539,10,1888,429,1408,7156,8,5,15,62,4052,122,306,1219,385,1156,2,24
 Instalação de Infra-estruturas	11520
 Instalação de Sistema de Videovigilância	539
-Instalações	4274,3066,4027,54,20,136
+Instalações	4274,3066,4027,54,20,136,7216
+Instalações Inteligentes Period	18864
+Instalações Radioeléctricas	18784
+Instalações da Tesla. Desta	18793
 Instalações de Controlo	6970
 Instalações de Telecomunicações	15772
 Install	1988,1795,91,1209,1763,2277,1598,832,310,390,146,301,63,242,1813,103,26,50,132,716,1008,5,89,41,126,43,1374
@@ -359,7 +366,7 @@ Installments	11642,3757
 Installé	8895,160,9145
 Installée	16258
 Installée Ther Grid MW	10975
-Instalment	6921,4260,676,1196,4190
+Instalment	6921,4260,676,1196,4190,1511
 Instalment Adjustment Voucher	14533
 Instamos	16864
 Instance	308,128,2193,4215,605,581,642,219,574,5925,209,366,1863,273,126
@@ -390,6 +397,7 @@ Instant Cross-Border Payments TechAfrica News	5263
 Instant Funds Transfer	15057
 Instant Gross Settlement	16907
 Instant Messaging	17114
+Instant Messaging and Presence Protocol	18774
 Instant Onboarding	12022
 Instant Payment	8008,5044
 Instant Payment Namibia	10306,2094,77,715
@@ -533,6 +541,7 @@ Possibilidades de Pagamentos Instantâneos Cargo	11569
 Post Office Fiber Optic Network Installation	15578
 Post Office Installation	15578
 Post Office Installation of Fiber Optic Network	15578
+Pot. Instalada MVA	18793
 Power Installation Assessments	1988
 Power the Future of Instant Payments	4972
 Present for Facebook and Instagram. Unclear for Google	8436
@@ -683,6 +692,7 @@ USSD Instant	6938
 UTILIZAÇÃO DOS RECURSOS INSTALADOS	11397
 Uganda. Tanzania Instant Payment System	514
 Unclear. Facebook and Instagram	8436
+Usada Instalada GRÁFICO	18791
 Use Case. Business Instances	1009
 Use Case. Several Business Instances	1009
 VIII.1.3 Installer	13306

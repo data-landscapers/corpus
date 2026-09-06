@@ -91,7 +91,8 @@ Affaire Dangnivo	7392,1
 Affaire Jabaroot	11835
 Affaire Martinez Zogo	10379,2,310,2792
 Affaire Semlex	17590
-Affaires	998,596,88,662,63,154,790,45,15,567,349,665,86,39,6,566,177,33,566,90,251,21,56,13,63,226,220,25,111,41,88,152,156,21,73,80,85,2,22,8,67,105,143,134,15,30,58,70,151,2,243,55,106,102,106,319,202,54,173,96,19,26,47,234,34,42,73,116,580,242,32,27,55,56,344,615,375,23,2,107,6,31,111,26,67,1,148,91,104,15,140,168,926,43,35,127,17,71,9,22,25,116,94,6,51,48,21,22,15,16,36,48,40,5,33,3,1,116,97,2,2,15,47,11,30,20,9,66,746,44,34,58,2,103,138,1,1,12,1,6,8,5,20,56,23,22,1,9,11,29,58,21,58,99,42,22,14,54,2,1,9,11,112
+Affaires	998,596,88,662,63,154,790,45,15,567,349,665,86,39,6,566,177,33,566,90,251,21,56,13,63,226,220,25,111,41,88,152,156,21,73,80,85,2,22,8,67,105,143,134,15,30,58,70,151,2,243,55,106,102,106,319,202,54,173,96,19,26,47,234,34,42,73,116,580,242,32,27,55,56,344,615,375,23,2,107,6,31,111,26,67,1,148,91,104,15,140,168,926,43,35,127,17,71,9,22,25,116,94,6,51,48,21,22,15,16,36,48,40,5,33,3,1,116,97,2,2,15,47,11,30,20,9,66,746,44,34,58,2,103,138,1,1,12,1,6,8,5,20,56,23,22,1,9,11,29,58,21,58,99,42,22,14,54,2,1,9,11,112,307
+Affaires Cazeau	18842,37
 Affaires Chiffre	15707
 Affaires Commerciales	16099
 Affaires Contentieuses ST	10975
@@ -124,6 +125,8 @@ Affaires Policières	16633
 Affaires Politiques	17848,462
 Affaires Pénitentiaires	17815
 Affaires Religieuses	18096
+Affaires Shannon Cazeau	18879
+Affaires Shannon Cazeau Strengthens U.S	18842
 Affaires Sociales	10829,2500,12,101,1934,7,33,2,5,752,206,182,1252,67,234,170
 Affaires Sociales Article	17815
 Affaires Sociales Chef de Service	16099
@@ -278,7 +281,7 @@ Affluent	4563
 Afflux	10688,3800,1,1
 Affognon Thierry AHOVE	17584
 Affoires	15397
-Affordability	395,1,544,1000,1516,148,591,157,2241,115,2019,280,96,42,4,307,303,165,565,355,88,72,28,104,126,301,9,285,45,1,61,30,12,230,42,55,52,4,10,137,16,105,9,9,246,391,2,30,1277,53,205,49,36,59,448,1270,142,1,2,80,273,631,253,331,179
+Affordability	395,1,544,1000,1516,148,591,157,2241,115,2019,280,96,42,4,307,303,165,565,355,88,72,28,104,126,301,9,285,45,1,61,30,12,230,42,55,52,4,10,137,16,105,9,9,246,391,2,30,1277,53,205,49,36,59,448,1270,142,1,2,80,273,631,253,331,179,144,18
 Affordability Affordability	11964
 Affordability Bangladesh Affordability	11964
 Affordability Broadband	17239
@@ -398,6 +401,7 @@ Application Forms Consumer Affairs	16889
 Appointment of Director of Corporate Affairs	18556
 Arlette SOUDAN-NONAULT MINISTERE DES AFFAIRES SOCIALES	16413
 Assistant Deputy Minister for Fiscal Affairs	16949
+Assistant Minister for Energy and Sustainability Affairs	18759
 Assistant Minister for Technical Office Affairs	15664
 Assistant Minister of Defence for Executive Affairs Dr	18173
 Assistant Minister of Foreign Affairs for Economic and Trade	12983
@@ -426,6 +430,7 @@ BUSINESS AND AFFAIRS OF THE BOARD	14410
 Background The Ministry of Gender and Children’s Affairs	18512
 Bangladesh Affordability Social	11004
 Banks. Per the Home Affairs	6072
+Belgium’s Ministry of Foreign Affairs	18869
 Benin Affairs and Digitalisation	10856
 Benin's Minister of Digital Affairs	1909,1288
 Benin's Minister of Digital Affairs and Digitization	1909
@@ -604,6 +609,7 @@ Corporate Communications and Public Affairs Department	18689,16
 Corporate Communications and Public Affairs Department EAC	11806,1845
 Corporate Communications and Public Affairs Department Tel	11807,2444
 Corporation Vice President for Government Affairs	8567
+Council of Ministers and Parliamentary Affairs of Sao Tome	18857
 Counter Affidavit	18154
 Court. DEPARTMENT OF HOME AFFAIRS	11986
 Criminal Affairs	17441
@@ -798,9 +804,11 @@ Director of Legal Affairs and Consumer Protection	9514
 Director of Regulation and Affairs	10474
 Director of Regulatory Affairs	15203
 Director-General DEPARTMENT OF HOME AFFAIRS	11986
+Director-General for Maritime Affairs and Fisheries	18813
 Director-General of Home Affairs	6387,3671
 Directorate for Refugee Affairs	13773
 Directorate of Corporate Affairs	18746
+Directorate-General for Maritime Affairs and Fisheries	18813
 Directrice des Affaires	8269
 Disability Affairs CEO	14019
 Disability and Social Affairs Inclusion	14033
@@ -854,6 +862,7 @@ Economic Affairs Ministry of Transport	17105
 Economic Affairs Ministry of Works	17105
 Economic Affairs NFRL National Forestry Reform	16843
 Economic Affairs Officer	11736
+Economic Affairs Review	18770
 Economic Affairs The Ministry of Foreign Affairs	16973
 Economic Affairs and Agriculture	7452
 Economic Affairs and Employment Enterprises France	11135
@@ -1149,8 +1158,8 @@ ID for All Tanzania’s Home Affairs Minister	2947
 ID for All The Department of Home Affairs	2614
 II. Affordable	12333
 II. KEY FACTORS THAT AFFECTED IMPLEMENTATION	15424
-III. KEY FACTORS AFFECTED IMPLEMENTATION	11924,4512,1526
-III. KEY FACTORS THAT AFFECTED IMPLEMENTATION	15511,90,62,68,1221,910
+III. KEY FACTORS AFFECTED IMPLEMENTATION	11924,4512,1526,863
+III. KEY FACTORS THAT AFFECTED IMPLEMENTATION	15511,90,62,68,1221,910,903
 III.2.10 Direction Générale des Affaires Sociales	10876
 III.2.7 Affichage	17864
 IMF Fiscal Affairs Department	16955,1622
@@ -1240,7 +1249,7 @@ Karas Civic Affairs Regional Office	12984
 Kasi Cloud Datacenters Lagos State Affirms	6376
 Kenya Affordability Safety and Internet	11004
 Kenya. Institute of Economic Affairs	12192
-Key Factors Affecting Implementation and Outcomes	16614
+Key Factors Affecting Implementation and Outcomes	16614,2140
 Key Project Affected Parties	17099
 Korea's Ministry of Foreign Affairs	16752,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 Ksh.11.6 Billion The Affordable Housing	2428
@@ -1395,6 +1404,7 @@ Minister for Tourism and Environmental Affairs	7030
 Minister of Cabinet Affairs	3583,15097
 Minister of Cabinet Affairs Martin	3583
 Minister of Cabinet Affairs Martin Lomuro	3583
+Minister of Defence and Internal Affairs of Sao Tome	18857
 Minister of Defence and Veterans Affairs	18691
 Minister of Defence and War Veterans Affairs	13562
 Minister of Digital Affairs	1270
@@ -1465,7 +1475,7 @@ Minister of Social Affairs and Gender Equality	17101
 Minister of Social Affairs and High Committee	3073
 Minister of Social Affairs and Solidarity	13911
 Minister of State for Disability Affairs	4133
-Minister of State for External Affairs	13561,2695,19,965,1138
+Minister of State for External Affairs	13561,2695,19,965,1138,479
 Minister of State for External Affairs Eduardo Faleiro	15119
 Minister of State for External Affairs Kirti Vardhan	15119
 Minister of State for External Affairs Shri M.J	17240,776
@@ -1535,7 +1545,7 @@ Ministry of Finance and Economic Affairs Responsible	16926
 Ministry of Finance and Economic Affairs and GRA	17064
 Ministry of Finance and Economic Affairs and These RBM	14674
 Ministry of Finance and Economic Affairs. Any	16966
-Ministry of Foreign Affairs	11,576,38,438,1,179,965,459,69,760,796,236,112,607,617,409,444,382,651,1232,317,59,480,289,336,33,71,142,132,294,19,333,85,149,204,14,21,120,108,38,112,624,15,116,238,27,158,453,28,137,432,176,9,19,23,26,11,17,27,35,26,137,52,269,99,114,119,606,318,181,13,15,2,10,4,47,33,29,2,52,42,26,5,47,77,6,20,32,38,366,1045
+Ministry of Foreign Affairs	11,576,38,438,1,179,965,459,69,760,796,236,112,607,617,409,444,382,651,1232,317,59,480,289,336,33,71,142,132,294,19,333,85,149,204,14,21,120,108,38,112,624,15,116,238,27,158,453,28,137,432,176,9,19,23,26,11,17,27,35,26,137,52,269,99,114,119,606,318,181,13,15,2,10,4,47,33,29,2,52,42,26,5,47,77,6,20,32,38,366,1045,101
 Ministry of Foreign Affairs Minister of Foreign	17110
 Ministry of Foreign Affairs Monrovia	4202
 Ministry of Foreign Affairs Mr. Adelaid Ben	13744
@@ -1560,6 +1570,7 @@ Ministry of Foreign Affairs of Japan	11154
 Ministry of Foreign Affairs of Malawi	12983
 Ministry of Foreign Affairs of Morocco	14235
 Ministry of Foreign Affairs of Qatar	14668
+Ministry of Foreign Affairs of Sao Tome	18857
 Ministry of Foreign Affairs. Inbound	15492
 Ministry of Foreign and Diaspora Affairs	7548
 Ministry of Foreign and International Affairs	1161
@@ -1760,6 +1771,7 @@ PORTANT AFFECTATION AU MINISTERE DE L’ADMINIS-	17817
 PORTANT AFFECTATION AU MINISTÈRE	17812
 POTRAZ Ministry of Foreign Affairs	4528
 PREMIER MINISTRE MINISTERE DES AFFAIRES ETRANGERES	15660
+PROVIDE RELIABLE AND AFFORDABLE SERVICES	18795
 PROVISIONS AFFECTING CHEQUES	14728,2
 Paludisme Affections	15599
 Parliament Affairs Ministry	14853
@@ -1767,6 +1779,7 @@ Parliament Draft Home Affairs Bill	5533
 Parliament Home Affairs Bill	5533
 Parliamentary Affairs	2428,10223
 Parliamentary Affairs Minister Mary Nawai Martin	18691
+Parliamentary Affairs and Women’s Rights	18797
 Partnership Economic Affairs Commission Proposed Development	1704
 Partnerships. Foreign Affairs	1777
 Patricia Luhanga Corporate Affairs Manager	13593
@@ -1811,6 +1824,7 @@ Principal Planning Officer Ministry of Foreign Affairs	12972
 Principal Secretary for Foreign Affairs Dr. Korir	14668
 Principal Secretary for Parliamentary Affairs	8382
 Principal Social Affairs Officer	13164
+Principe Minister of Foreign Affairs	18857
 Print Media Affairs	12982
 Project Affected Parties	17099
 Project Affected Parties Project-affected	17099
@@ -2063,12 +2077,14 @@ Transfer of Responsibility for Refugee Affairs	12227
 Transformation and Gender DEPARTMENT OF HOME AFFAIRS	11986
 Transports Affaires Maritimes	4895
 Trends of Religious Affiliation of Population	16921
+Trovoada Ministry of Foreign Affairs	18790
 Tuesday. Home Affairs	9691
 Tunisia's Ministry of Social Affairs	1954
 Types of Disasters and Number of Affected People	17257
 U.S. Government CHARGE D' AFFAIR	4247
 UAE Minister of State for Foreign Affairs	14064
 UAE-President-of-Guinea Ministry of Foreign Affairs Skip	16622
+UAE-Sao-Tome-and-Principe Ministry of Foreign Affairs Skip	18759
 UCC Director of Corporate Affairs Fred Otunnu	9781
 UCC's Director for Legal Affairs	9781
 UN Department of Economic and Social Affairs	1912,10501,2484,1729,248

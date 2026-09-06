@@ -50,6 +50,7 @@ Bypass Global IPv4 Address Depletion Somalia	6622
 CNII IP	10721
 CSP CSP CSP IP	9123
 Camoes IP	4415,1,1,1
+Camões IP	18811
 Cash Basis IPSAS	16978
 Cash Flow Statement IPSAS	14736
 Centro de Reconciliação da IPD	15755
@@ -69,6 +70,7 @@ D'ÉTUDES SUPÉRIEURES IPHE INSTITUT PRIVÉ DES	18143
 DE BANQUE ET DE RECYCLAGE IPHEC	18170
 DE DROIT ET DE GESTION IPDR-KOLLO	18170
 DE TECHNOLOGIE IPNTA INSTITUT PRIVÉ DES	18170
+DO MS IP MS Improve Project	18825
 DO Rating IP Rating Actual Disbursements	15511,2451
 DPs and IPs	1261
 Data Center and IP Multimedia Subsystem Center	3669
@@ -105,6 +107,7 @@ Emerging Technologies IP	7548
 Emerging Technologies IP AI	7548
 Emerging Technologies IP Technologies IP	7548
 Employee Benefits IPSAS	14736
+Endereçamento IP	18752
 Endereço IP	15
 Endereços IP	15
 Energy Storage IPP	11228
@@ -146,6 +149,7 @@ GESTION IPISTLMES INSTITUT PRIVE INTERNATIONAL SPECIALISE	18170
 GHG HIPC IDP IEA IMF IPC	11136
 Gas IPP Bid Windows	11228
 Gates Foundation. The IPS	12269
+General Authority for Regulation IPP Independent Power	18851
 Geological IP	4844
 Global IPv6 Development Report	1702
 Government IPSASs	3051
@@ -189,10 +193,12 @@ IP Address Mapping	12041
 IP BTS	54
 IP Cloud Raccourci	15512
 IP Commercialization C1-Number	7548
+IP Como	18752
 IP Configuration and Assign IPs	13185
 IP Core	10721
 IP Core Networks for EthERNet	14010
 IP Core and Metro	5444
+IP Disbursements Archived	18754
 IP Déblocage IPÉtat	14683
 IP Express Ltd	3862
 IP Indigenous People IPP Indigenous People	969
@@ -263,6 +269,7 @@ IP. Cette	17823
 IP. Chaque	15643
 IP. Choplife	9869
 IP. Dans	7010
+IP. IKE	18774
 IP. Licence Ces	9480
 IP. Mais	15592
 IP. Na	14342
@@ -341,17 +348,20 @@ IPF Component	11905
 IPF Environmental and Social Risk Program-for-Results	11905
 IPF FIDUCIARY APPRAISAL AND IMPLEMENTATION ARRANGEMENTS	17458
 IPF Investment Project Financing	11965,2073
+IPF Investment Project Financing IP Implementation	18825
 IPF Investment Project Financing IPP Independent	11549
 IPF Investment Project Financing IPPs Independent	11380
 IPF Investment Project Financing IRI Intermediate	13861
 IPF Investment Project Financing IRR Internal	17458
 IPF Investment Project Financing ISP Implementation	11855
+IPF Investment Project Financing IT Information	18777
 IPF and IPF	15659
 IPF du PAGIR	15908
 IPF-TA	17458
 IPF-financed	11525
 IPF. Considering	15659
 IPF. The PIU	11905
+IPFIX	18774
 IPFMRP	16949
 IPHD International Partnership for Human Development M&E	11525
 IPHE INSTITUT PRIVÉ DES HAUTES ETUDES	18170
@@ -491,10 +501,12 @@ IPVPN Internet Protocol Virtual Private Network	12769
 IPXEG	16942
 IPage	18154
 IPnwteCr	12205
+IPosição	18767
 IPs of Gabon	15518
 IPs. AI Civil	4126
 IPs. In the RoC	11905
 IPsec	10721
+IPv4 IPSec Authentication Header RFC	18774
 IPv4 IPv4	18579
 IPv4 Prefix	12743
 IPv4 RS1	14827
@@ -654,6 +666,8 @@ Ningizimu Iphasiphothi Isitatimende	11573
 Note IPSM T2-2026 ENCADRE L’Indice des Prix	18418
 Numeração IP	11430,1
 O IPAS	10614
+O IPv4	18774
+O IPv6	18774
 Ombudsman and IPCB	18477
 Ombudsman and IPCB Key Policy Area	18477
 Online Publication of List of Qualified IP Professionals	12389
@@ -813,6 +827,7 @@ University of Cape Town’s IP Chair	6041
 Updated IPC	3583
 Vodacom MPLS IP-VPN	12769
 W IPO Intellectual Property Statistics	12487
+WAN IPv6	18774
 WASH and IPC	15977
 WIOCC's Carrier-Grade IP Transit	18280
 WORKS IPN	12477

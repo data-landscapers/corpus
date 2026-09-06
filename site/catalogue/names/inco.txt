@@ -60,6 +60,7 @@ Capital Initial Nombre Réserves Incorporées Capital	18003
 Cash Income	12977
 Category A Income Exemption Threshold	14717
 Center PIT Personal Income Tax	16955
+Central Africa. Gross National Income	18825
 Certificate of Incorporation	736,1252,3550,365,1465,4981,900
 Certificate of Incorporation Certificate CM1	12342
 Certificate of Incorporation Number	1877
@@ -133,7 +134,7 @@ Displaced Person IGA Income-Generating Activity IPF	16384
 Displaced Person IGA Income-generating	17906
 Do Income	13108
 Domain Level Incompatibilities	12360
-Domestic Product GNI Gross National Income	11271
+Domestic Product GNI Gross National Income	11271,7554
 ECONET WIRELESS ZIMBABWE LIMITED Incorporated	4896
 ECONOMY Namibia REGION Sub-Saharan Africa INCOME	12389
 EXTENTION INCOUNTRY The Nigerian National	11857
@@ -252,6 +253,7 @@ INELIGIBILITES ET INCOMPATIBILITES Article	15727
 INELIGIBILITES ET INCOMPATIBILITES ET DU MODE	17861
 INFORMACIÓN CARTOGRÁFICA PARA INCORPORARLOS EN	16875
 INFORMATION ON WEBSITES SCAMS OR INCONSISTENT	11004
+ININTELIGIBILIDADE E INCOERÊNCIAS DO PROJETO	18784
 INTERNAL INCONSISTENCY	3705
 INTERNATIONAL ASPECTS OF INCOME TAX	14717
 INTERNATIONAL INCOMING AND OUTGOING FIXED TELEPHONE	11211,51
@@ -401,7 +403,10 @@ Incoming Total Tráfego	11574
 Incoming Traffic	3862
 Incoming and Outgoing International Internet Bandwidth	13295
 Incomlete SS Incomplete JS Higher	16876
+Incompatibilidade	18751
+Incompatibilidade Artigo	18751
 Incompatibilidades	15391
+Incompatibilidades Não	18800
 Incompatibilities	14862,1,239
 Incompatibility Membership	11517
 Incompatibilités	14412,450,1,239,1513,1204,39,261
@@ -429,11 +434,12 @@ Inconsistent Policy Regulator	11857
 Inconsistent and Confusing Boundaries	15473
 Inconsistent and Unpredictable Outputs	3651
 Inconsistentstandardsasroadblockstodatainter-	8606
-Inconstitucionalidade	12854
+Inconstitucionalidade	12854,5897
 Incontrast	8606
 Inconvenience	5247
 Inconveniences	17157
 Inconvénients	17823
+Incorpora	18783
 Incorporar	1701,2445,7368
 Incorporate	170,788,856,174,2138,722,817,5600,589,360,185,638,1529,108,77,67,129,50,133,531,299,888,99,167,43,1338
 Incorporate AI	14812
@@ -462,11 +468,12 @@ Incorporation	28,1658,1817,211,1962,3307,589,2384,20,65,205,673,392,2348,310,359
 Incorporation and Nature	3714
 Incorporation of ACE GIE	15424
 Incorporation of Namibian	12895
+Incorporation of SPV	18754
 Incorporation of Shikomori	13774
 Incorporation of Sustainability Clauses	12389
-Incorporação	2816,8580,1
+Incorporação	2816,8580,1,7384
 Incorporer	17983
-Incorre	6970
+Incorre	6970,11788
 Incorrect	11578,398,2671,23,249,2149
 Incorrectamente Executadas	10755
 Incorrectos	10755
@@ -623,6 +630,7 @@ Price Stability Financial Stability Sustainable Income	11131
 Primary Income	17235
 Product GPN Gross National Income GRM	11855
 Product HNII High Net Income Individuals	17011
+Proj. National Income and Prices GDP	18823
 Property Income	17011,224
 Property and Site-Based Income	4896
 Prosperous Middle Income Country	13346

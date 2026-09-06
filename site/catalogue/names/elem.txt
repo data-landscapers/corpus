@@ -13,7 +13,7 @@ COUNTRY HYDROMET DIAGNOSTICS Element	18578
 CPI Elements of Reliability	14777
 CPI Elements of Serviceability	14777
 Core Elements	7548,7116
-Country Hydromet Diagnostics Element	11553,1812,1083,3861
+Country Hydromet Diagnostics Element	11553,1812,1083,3861,478
 Critical Data Elements	15034
 Critical Data Elements CDEs	15034
 Critical Elements	12717
@@ -28,6 +28,7 @@ Data Element Name	12360
 Data Element Specification	12360
 Data Element Specification ISO	12360
 Data Elements	12864
+Data and Product Sharing and Policies Element	18787
 Different Digital Futures and Their Elements	11028
 Digital Elements Analogue Elements	16885
 Digital Identity Element Risk	10819
@@ -45,7 +46,7 @@ ELEMENTS Tier	10721
 ELEMOLA MOUNDOKO	16100
 Eleme Climate	11469
 Elemen	14777
-Element	9810,1009,734,1812,364,4580,269
+Element	9810,1009,734,1812,364,4580,269,209
 Element Element	11553
 Element Legal	10819
 Element Maturity	18309
@@ -100,8 +101,11 @@ Foundational Elements	16876
 Gobierno Director General Elemento Seguridad Parlamentaria	4209
 Guidelines for Data Element Definitions	12360
 Guidelines for Data Element Definitions Table	12360
+Hydrology Element	18787
 I- RAPPEL DES PRINCIPAUX ELEMENTS	10858
 IIP Accuracy and Reliability Elements of Quality Alignment	14777
+Information and Communication Technology Element	18787
+Institutional Settings Element	18787
 Item Type Article Elements ID	10878
 Journal of Integrated Elementary Education	6948
 KEY ELEMENTS FOR A SUCCESSFUL STRATEGY1	1000
@@ -116,13 +120,16 @@ Liberia. Elements	16876
 Logical Data Element Names Prime Qualifier	12360
 MFSMCG Elements of Quality	14777
 Mantenimiento Elemento	4209
+Maturity Level for Element	18787
 Mohamed Cheikh Mohamed El Amine Elemine	17905
+NECESSARY ELEMENT	18795
 NOTABLE ELEMENTS IN THE ICT INDUSTRY	12395
 National Accounts Elements of Reliability	14777
 National Accounts Elements of Serviceability	14777
 Notable Elements	12395
 Noções Elementares de Direito	15772
 Objectives and Essential and Fundamental Elements	15506
+Observation Infrastructure Element	18787
 Outros Elementos de Avaliação	16325
 PPI Elements of Accessibility	14777
 PPI Elements of Serviceability	14777
@@ -130,12 +137,14 @@ PR Activity Schedule Media Elements	8999
 Physical Data Element Logical DB	12360
 Portal Consular Navigation Elements	11877
 Primary Schools Elements of ICT and TVET	18606
+Principais Elementos Estatísticos Unidades	18793
 Public Consultations Requirement Elements	12389
 Rare Earth Elements	13060
 Recs. Element Weights	14777
 Recs. Not Relevant Element Weights ROSC	14777
 Refuse Workers and Other Elementary	16266
 STANDARD FOR DATA ELEMENT DEFINITIONS	12360
+STP. Element	18787
 Saud Elementary	15578
 Schools El-shahid Salah Kotb Elementary and El-Shahid	15578
 Science and Elementary Technology	12411
@@ -143,6 +152,7 @@ Seguro Elemento de Transporte	4209
 Standardized Data Element Definitions	12360
 Statistics Mauritius Elements	14777
 Statistics Mauritius Elements of Assurances of Integrity	14777
+São Tomé and Príncipe Element Maturity Level	18787
 TIER ELEMENTS Tier	10721
 Vulcan Elements	4447
 Workers Refuse Workers and Other Elementary Workers	16266

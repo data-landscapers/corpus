@@ -57,7 +57,7 @@ African Intellectual Property Organization	10358,1192,3930
 African Intelligence	4127
 African Regional Intellectual Property Organisation	14748
 African Regional Intellectual Property Organisation B-BBEE	11250
-African Regional Intellectual Property Organization	6997,848,4899,4129
+African Regional Intellectual Property Organization	6997,848,4899,4129,1924
 African Research Centre for Artificial Intelligence	1814
 African Union Artificial Intelligence	1243
 African Union Continental Artificial Intelligence	14128
@@ -65,7 +65,7 @@ African Union Continental Artificial Intelligence Strategy	14128
 African Union's Continental Artificial Intelligence Strategy	8088,3739
 African Union’s Continental Artificial Intelligence	9119
 African Union’s Continental Artificial Intelligence Strategy	10620
-Age of Artificial Intelligence	2918,7808,3947
+Age of Artificial Intelligence	2918,7808,3947,4123
 Age of Artificial Intelligence Botswana	12625
 Age of Intelligence	8343
 Age of Networked Intelligence	395,848
@@ -292,6 +292,7 @@ BUSINESS AND INTELLECTUAL PROPERTY AUTHORITY	3714
 Bachelor of Artificial Intelligence	13089
 Bachelor of Artificial Intelligence Honours	13089
 Balanced Legal Framework for Artificial Intelligence	10270
+Banco de Dados de Inteligência da GSMA	18779
 Bank AI Artificial Intelligence API Application	7548
 Bank Group AI Artificial Intelligence API	13042
 Behavioural Intelligence and Infodemic Management	17688
@@ -314,6 +315,7 @@ Business Intellegence System	1789,1,1,1
 Business Intelligence	11131,3,1106,2076,306,854,1640
 Business Intelligence Analysts	14744
 Business Intelligence CDHO Chief Digital Health	12240
+Business Intelligence Elevada Dados Mestre	18801
 Business Intelligence Framework	11131
 Business Intelligence Platform Successfully Launched	11134
 Business Intelligence Specialists	6832
@@ -575,7 +577,7 @@ Ethical Charter for Artificial Intelligence	2958
 Ethical Development and Implementation of Artiﬁcial Intel-	1204
 Ethical Use of Artificial Intelligence	2958
 Ethics for Artificial Intelligence	2958
-Ethics of Artificial Intelligence	1814,1144,1168,563,347,1258,818,58,378,1199,457,1952,327,873,692,509,106,476,525,148,181,2024
+Ethics of Artificial Intelligence	1814,1144,1168,563,347,1258,818,58,378,1199,457,1952,327,873,692,509,106,476,525,148,181,2024,1779
 Ethics of Autonomous and Intelligent Systems	11135
 Ethiopia Artificial Intelligence	2162
 Ethiopian Artificial Intelligence Institute	3595,1478,1683,241,95,382,204,4544,1782,48,32,68,3651
@@ -645,6 +647,7 @@ GLOSSARY OF TERMS Artificial Intelligence	12453,892
 GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73,72,757,31,65,107,30,8,439,871,2,17,1343,346,2,452,6,13,20,40,366,1,224,655,73,70,138,1239
 GSMA Intelligence Adult	11964
 GSMA Intelligence Connectivity	6593
+GSMA Intelligence Database	18777
 GSMA Intelligence Database. Available	16872
 GSMA Intelligence Enterprise	6593
 GSMA Intelligence Fig	11857
@@ -781,6 +784,7 @@ Information and Labour Market Intelligence	11791
 Infrastructure National ICT Policy Intellectual Property	4528
 Innovation and Business Intelligence Unit	5587
 Inspector-General of Intelligence	11277
+Instalações Inteligentes Period	18864
 Instituto de Inteligencia Artificial	2816
 Instituto de Inteligência Artificial	2816
 Instruments Continental Artificial Intelligence Strategy	5244
@@ -809,7 +813,7 @@ Inteligencia Artificial. En	9318
 Inteligente	11394
 Inteligência	539,255,2022,703,7942,3802
 Inteligência Artifical	2816
-Inteligência Artificial	2618,123,75,518,185,2144,697,349,186,350,97,243,1045,228,241,459,288,644,555,27,324,34,1,20,4,17,18,79,18,106,326,78,726,7,5,11,1467,1511,32,25,110,189,71,53,778,255,24,209
+Inteligência Artificial	2618,123,75,518,185,2144,697,349,186,350,97,243,1045,228,241,459,288,644,555,27,324,34,1,20,4,17,18,79,18,106,326,78,726,7,5,11,1467,1511,32,25,110,189,71,53,778,255,24,209,1226,5,60
 Inteligência Artificial A Parceria Global	2816
 Inteligência Artificial Actualmente	2816
 Inteligência Artificial Centrada	2816
@@ -846,9 +850,10 @@ Intellectual Barrier	11180
 Intellectual Disabilities	2518
 Intellectual Learning Disability	14775
 Intellectual Proper-	15901
-Intellectual Property	1243,571,5146,2330,3066,135,184,672,21,1398,314,633,1259
+Intellectual Property	1243,571,5146,2330,3066,135,184,672,21,1398,314,633,1259,1825
 Intellectual Property Act	3714,13159,997
 Intellectual Property Although Eritrea	14008
+Intellectual Property Code. Protection	18797
 Intellectual Property Documentation Center	16972
 Intellectual Property Institute	11550
 Intellectual Property Intricom Resources S.L	8530
@@ -868,6 +873,7 @@ Intellectual Property Rights Protocol	7142
 Intellectual Property Rights. For the MoEF	15901
 Intellectual Property Rights. PART VIII INSTITUTIONAL	15641
 Intellectual Property Strategy	7624,1343
+Intellectual Property The National Intellectual Property	18797
 Intellectual Property Tribunal. Instead	10041
 Intellectual Property UN	13042
 Intellectual Property and Benefit Sharing	1554
@@ -958,6 +964,7 @@ Intelligent Hyper Automation	8974,392
 Intelligent Island	14748,71
 Intelligent Mauritius	14723
 Intelligent Media and Public Communication	8460
+Intelligent Network	18753
 Intelligent Operation Center	5793
 Intelligent Operations	3487
 Intelligent Operations Center	7688,6463
@@ -1285,9 +1292,10 @@ Propiedad Intelectual	9303,7552
 Proposta da Estratégia Nacional de Inteligência Artificial	12830,16
 Proposta da Lei de Inteligência Artificial	2816
 Proposta de Lei da Inteligência Artificial	11490
-Propriedade Intelectual	11456,1326,3240,229
+Propriedade Intelectual	11456,1326,3240,229,2586
+Propriedade Intelectual Patentes Marcas	18837
 Propriedade Intelectual Todo	11456
-Propriété Intellectuelle	15901,480,591,526,358,14,394
+Propriété Intellectuelle	15901,480,591,526,358,14,394,564
 Propriété Intellectuelle. En	15901
 Protecting Intellectual Property and Cultural Data	16212
 Protecção de Direitos de Propriedade Intelectual	3519
@@ -1351,6 +1359,7 @@ Seamless Intelligence	13042
 Sector Risk Intelligence	11840
 Senior Research Analyst Artificial Intelligence	7334
 Services Data-Driven Intelligent Policy Making Create	15713
+Serviço Nacional da Propriedade Intelectual	18837
 Serviço de Inteligência	4147,1064,4779,2129
 Serviço de Inteligência Externa	4147
 Serviços de Inteligência	794
@@ -1412,6 +1421,7 @@ Sul A Estratégia Nacional de Inteligência Artificial	3519
 Swarm Intelligence and Speech Technologies. CAIR	11336
 System BI Tools Business Intelligence Tools	15023
 System Processor Minimum Intel Quad Core	34
+SÃO TOMÉ E PRÍNCIPE Inteligência Artificial	18796
 Sénégal Villes Intelli	18319
 TEC3 Não EST-TEC23 Solução de Inteligência Artificial	15532
 TELECOMUNICACIONES Y SISTEMAS DE INTELIGENCIA ARTIFICIAL	4209
@@ -1533,7 +1543,7 @@ World Health Assembly. The Epidemic Intelligence	15725
 World Intel-	13357
 World Intellectual Property	11550
 World Intellectual Property Organisation	961,13605,182
-World Intellectual Property Organization	7548,3421,914,1,1,10,40,224,1,1,43,1,146,4,21,111,1498,868,2020,69,376
+World Intellectual Property Organization	7548,3421,914,1,1,10,40,224,1,1,43,1,146,4,21,111,1498,868,2020,69,376,1479
 World Intellectual Property Organization COVID-19	13312,2
 World Intellectual Property Organization Copyright Treaty	11550
 World Intellectual Property Organization. Suggested	14898,827

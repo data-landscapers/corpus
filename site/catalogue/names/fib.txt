@@ -70,12 +70,14 @@ Ensure Fibre	11857
 Enters Active Deployment of Africa-Middle East Fibre	10583
 Espinha Dorsal Nacional de Fibra	4436
 Ethernet and Fibre Channel	11209
+Europe Optical Fiber Submarine Cable AFAP	18754
 Expand Fibre Network	4069
 FAISCEAU HERTZIEN FO I3N FIBRE OPTIQUE	18105
 FAS Financial Access Survey FTTH Fiber-to-the-Home	16942
 FAULTS AND RELATED ADMINISTRATIVE FINES FIBRE	15081
 FIBANE	10965
 FIBANE RNSM CREMF	10965
+FIBRA	18791
 FIBRE DE CIMENT	13300
 FIBRE NETWORKS LENGTH	16885
 FIBRE OPTICS CONNECTIVITY Exciting	18744
@@ -117,6 +119,7 @@ Fiber Optics	3862,7086,7694
 Fiber Optics Market	17114
 Fiber Option Commission	15511
 Fiber Sonic Limited	5212
+Fiber Submarine Cable Map	18754
 Fiber To The Home	1885,4399,1444
 Fiber Transceiver	17334
 Fiber-Channel Switches	17334
@@ -155,6 +158,7 @@ Fibertime Group	1092
 Fibertime Group Proprietary Limited	1092
 Fibertime Group South Africa Fibre Internet	1092
 Fibra	3179,8217,122,1,12,3836
+Fibra Empresarial	18830
 Fibras	11382
 Fibre	998,15,130,504,225,221,820,557,489,1157,445,119,174,365,25,152,23,330,102,516,658,182,435,200,205,102,411,109,18,390,182,329,205,163,2,79,820,273,265,368,6,202,212,123,79,987,302,55,107,43,202,83,170,90,69,178,497,159,314,259,819,407,191,2,68
 Fibre Backhaul	15081
@@ -371,6 +375,7 @@ Pan-African Terrestrial Fibre Optic Network Africa50	1048
 Paratus Activate First Cross-Border Fiber Link	2987
 Paratus Fibre and Data Centre Expansion	1146
 Phase I of Malawi National Fibre Backbone	127
+Por Tecnologia ADSL FIBRA R. Via	18791
 Post Office Fiber Optic Network Installation	15578
 Post Office Fiber Optics Services	15578
 Post Office Installation of Fiber Optic Network	15578

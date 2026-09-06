@@ -138,7 +138,7 @@ Board GCF Gross Capital Formation GCNet	236
 Body ABOUT THE UNITED NATIONS CAPITAL	12941
 Bondoukou. REPARTITION DU CAPITAL	2342
 Branches Capital	10875
-Branqueamento de Capitais	11386,18,279,3676
+Branqueamento de Capitais	11386,18,279,3676,3402
 Brazzaville Capital	15488
 Breakdown of Global Venture Capital	4972
 Bringing Capital	11356
@@ -151,6 +151,7 @@ Business Corporations GFCF Gross Fixed Capital	14777
 Business Daily Africa. Capital Ethiopia	8671
 C. Developing Human Capital	11140
 C. Supporting Capital Access and Sustainable Busi-	4848
+CAB Central African Backbone CAPI Computer-Assisted	18777
 CAF Caisse des Affaires CAR Capital Adequacy	15023
 CAP CAPI CENA CFP-STAT CNPM CO	17978
 CAPEX Capital	12911
@@ -221,6 +222,7 @@ CAPITULO	163,16799
 CAPITULO I Cartão Nacional de Identidade Secção	15392
 CAPITULO I DISPOSIÇÕES GERAIS Artigo	16138
 CAPITULO I Disposições	15380
+CAPITULO I Disposições Gerais Artigo	18752
 CAPITULO II	4209,11187,1566
 CAPITULO II A ENTIDADE DE TUTELA	11518
 CAPITULO II Competências	15392
@@ -327,7 +329,8 @@ Capitaine de Vaisseau MIBISSA Jean Claude	16381
 Capitaine de Vaisseaux Cheikh Lahmoud Hemetti Commandant	17895
 Capitaines	15524,576
 Capitais Maioritariamente Públicos	10783
-Capital	10,226,12,692,80,681,77,7,2,1,200,74,72,208,96,337,182,245,2,1,378,131,495,210,109,320,47,1,76,230,12,324,117,32,225,1,98,137,38,80,75,239,156,150,52,145,2,1,487,34,156,26,16,179,2,149,310,19,8,135,178,55,3,488,54,30,13,165,510,16,38,516,45,13,2,5,1,16,2,36,43,5,34,64,15,26,125,26,3,2,4,9,49,27,23,62,46,30,83,55,240,19,74,98,98,78,110,97,27,44,35,68,189,181,100,71,32,38,10,83,63,52,59,176,302,164,33,120,436,79,23,15,8,84,23,9,1,17,16,26,75,182,212,35,30,9,8,20,60,5,46,11,20,25,32,28,18,6,42,62,57,4,137,43,11,166,8,93,46,12,31,171,14,201,30,70,2,25,6,21,109,88,42,1,21,59,1,168,18,353,53,4,70,7,296,5,159,33,17,56,46
+Capitais Próprios	18793
+Capital	10,226,12,692,80,681,77,7,2,1,200,74,72,208,96,337,182,245,2,1,378,131,495,210,109,320,47,1,76,230,12,324,117,32,225,1,98,137,38,80,75,239,156,150,52,145,2,1,487,34,156,26,16,179,2,149,310,19,8,135,178,55,3,488,54,30,13,165,510,16,38,516,45,13,2,5,1,16,2,36,43,5,34,64,15,26,125,26,3,2,4,9,49,27,23,62,46,30,83,55,240,19,74,98,98,78,110,97,27,44,35,68,189,181,100,71,32,38,10,83,63,52,59,176,302,164,33,120,436,79,23,15,8,84,23,9,1,17,16,26,75,182,212,35,30,9,8,20,60,5,46,11,20,25,32,28,18,6,42,62,57,4,137,43,11,166,8,93,46,12,31,171,14,201,30,70,2,25,6,21,109,88,42,1,21,59,1,168,18,353,53,4,70,7,296,5,159,33,17,56,46,155,94
 Capital Account	17235
 Capital Account Overall Balance	17990
 Capital Accounts	17236
@@ -366,6 +369,7 @@ Capital Enabling PCM Private Capital Mobilization	1264
 Capital Enabling PDO Project Development Objective	15659
 Capital Entretanto	11569
 Capital Ethiopia	8671
+Capital Europeia da Democracia	18877
 Capital Expenditure	3583,2417,1695,5222,34,1884,824,268,1051,257,129,1080
 Capital Expenditure Additions	12951
 Capital Expenditure CBC Competency-Based Curriculum CBL	16876
@@ -394,6 +398,7 @@ Capital Goods Finance Companies	13976
 Capital Graduated Startups	15268
 Capital Grant	14736
 Capital Grant NEF	14835
+Capital Grants	18851
 Capital Hill	127,12126,4896
 Capital Hotel	10049,3167
 Capital Humain	10965,5186,470,1203,159,417,2,1
@@ -451,8 +456,9 @@ Capital Markets Services	7763
 Capital Markets Strategic	14997
 Capital Markets Union	6938
 Capital Markets and Mi-	6938
-Capital Markets and Portfolio Investment	16972
+Capital Markets and Portfolio Investment	16972,1825
 Capital Markets and Portfolio Investment Eritrea	14008
+Capital Markets and Portfolio Investment Portfolio	18797
 Capital Markets and Securities Act	7763
 Capital Markets and Securities Authority	7763,6413
 Capital Markets and Securities Authority DFS Digital	7763
@@ -486,6 +492,8 @@ Capital Projects	12920,1910
 Capital Projects Appraisal	11248
 Capital Projects Hon. Chairperson	12971
 Capital Projects Programme	12962
+Capital Próprio	18793
+Capital Próprio Dbs	18793
 Capital Público	17112
 Capital R&D Research and Development SEMED Southern	1818
 Capital Raising	4896
@@ -495,6 +503,7 @@ Capital Reconfigures Fundraising	4972
 Capital Requirement	16878
 Capital Rwanda. Article	15102
 Capital Social	1701,11886,1,2512,759
+Capital Social Dbs	18793
 Capital Strategies Kenya Limited Data Controller	7167
 Capital Strategies Kenya Limited Data Processor	7167
 Capital Structure Prior	4896
@@ -512,6 +521,7 @@ Capital and Liquidity	15023
 Capital and O&M	18537
 Capital and Resilience Project Environmental and Social Risk	10768
 Capital and Women and Girls' Empowerment	10829
+Capital da Dívida Pública	18798
 Capital da República	15344
 Capital da República de Cabo Verde	15344
 Capital de Risco	17074
@@ -548,10 +558,12 @@ Capitalized	3503
 Capitalizing	3905
 Capitalrisque Travail	17856
 Capitals	10908
-Capitania	4747
+Capitania	4747,14119
 Capitation	12312,2610
 Capitation Grant	7695,8905
 Capitaux	2342,11126,2299,1316,830
+Capitação Nascentes M3	18793
+Capitação Superficies M3	18793
 Capitec	3435,1337,352,202,207,58,1662,78,308,119,674,151,600,1436,180,1187
 Capitec Bank	5326,3857
 Capitec Bank’s Stellenbosch	3435
@@ -571,13 +583,17 @@ Capitol Building	17260
 Capitol Diamond Sorage and Auction Yard Data	7167
 Capitol Hill	12917,143,4331
 Capitulate	11036
-Capitulo	2228
+Capitulo	2228,16540
 Capitulo II	2228
-Capitulo III	2228
+Capitulo II Competências da AGER Artigo	18752
+Capitulo III	2228,16540
+Capitulo III Artigo	18752
+Capitulo V	18768
 Capitán General	4209
 Capitán de Fragata	4209
 Capitán de Navío Coronel	4209
 Carlyle Group and Anchorage Capital Group	9016
+Cartões SIM Capitulo I Disposições Gerais	18752
 Cases Action Steps Impact Strengthen the Capital	14997
 Census and Population Studies CAPI	15574
 Century Oak Capital and Consonance	10464
@@ -963,6 +979,7 @@ Internal Capital Adequacy Assessment Process	11131,3,3889
 International Breakdown of Venture Capital	4972
 Inua Capital	909
 Investable Capital	15460
+Investimento Capital Investido Dbs	18793
 Investment and Movement of Capital	12389
 Investments AVCA’s Venture Capital Database	4972
 Ivoire Capital	2342
@@ -1135,7 +1152,7 @@ PARTECH AFRICA VENTURE CAPITAL FUND	188
 PARTECH AFRICA VENTURE CAPITAL FUND II	855
 PCE Private Capital Enabling PCM	6539
 PCE Private Capital Enabling PCM Private	3604
-PCM Private Capital Mobilization PDO Project	11549
+PCM Private Capital Mobilization PDO Project	11549,7228
 PCM Private Capital Mobilization PFM Public	1284
 PER CAPITA	11211,51,5630
 PER- Capitaux	2342
@@ -1178,8 +1195,8 @@ President and CEO of Biu Capital	9371
 Price Information Capital Revenue	3583
 Priority Outcomes for Accelerating Human Capital	15059
 Private Capital	7523,5194,3427,44
-Private Capital Enabled	11469
-Private Capital Enabling	1264,440,163,386,38,182,983,106,42,176,873,1886,4229,649,143,345,521,685,904,561,378,704,1,2,308,63,112,43,467,21,1684
+Private Capital Enabled	11469,7382
+Private Capital Enabling	1264,440,163,386,38,182,983,106,42,176,873,1886,4229,649,143,345,521,685,904,561,378,704,1,2,308,63,112,43,467,21,1684,492
 Private Capital Mobilization	1264,14254
 Private Capital Mobilization PDO Project Development	6539,10560
 Private Capital Mobilization Scheme	4500
@@ -1418,6 +1435,7 @@ VTB CAPITAL PLC	1829
 Valorisation du Capital Humain	16175
 Value-Based Capital Allocation Framework	8607
 Variable Capital Companies Act	7845,6964,19,3
+Vendas de Divisas de Capital	18750
 Venture Capital	4528,444,2261,2501,1220,993,47,216,129,37,136,802,44,666,973,463
 Venture Capital Availability	16876
 Venture Capital Company of Zimbabwe Providing	12495

@@ -249,6 +249,7 @@ Data Residency Requirements	6432
 Data Subject Access Requests	14524
 Data Subject's Access Request	11956
 Data Subjects' Access Request	11956
+Dbs. Onde Requerer	18834
 De Minimis Contracts This Request for Quotation	17068
 Denial of Requests	16840
 Description Format Requir	11952
@@ -269,6 +270,7 @@ Document Requirement Responsibility Table	17114
 Documentation Requirements	13185
 Documentation and Support Requirement	11952
 Documents Requis	16438,3
+Duas Testemunhas Onde Requerer	18834
 Due Diligence Requirements A	11233
 Dévéloppement OBJET DE LA REQUETE Traitement	10821
 D’ÉQUIPEMENT NÉCESSAIRE SELON LES NORMES REQUISES	17843
@@ -308,6 +310,7 @@ Enhance Acce Request for Propo Open	17180
 Enhance Acce Request for Quota Single Stage	17180
 Enhance the Request for Quota Single Stage	17180
 Enquiries PART VII ADDITIONAL REGULATORY REQUIREMENTS	13085
+Entry QSA Quality of Supervision RFP Request	18754
 Environmental Permits Requirements for Construction	12389
 Environmental and Social Requirements	1988
 Environmental-Related Requirements	12389
@@ -319,7 +322,7 @@ EvaluationMetricsComputation Require	8606
 Experience Requirements	5665,9363
 Export Requirements	12389
 External Financing Requirement	17257
-External Financing Requirements and Sources	17909,81
+External Financing Requirements and Sources	17909,81,833
 F. National Requirements	17114
 FACILITY ARRANGEMENT AND REQUEST	17257
 FACILITY ARRANGEMENT AND REQUEST FOR AUGMENTATION	15029
@@ -462,6 +465,7 @@ Interoperability Requirements	11995
 Interoperability Requirements Cloud	11995
 Interoperability Requirements Services	11952
 Introduction of Market Structure Requirements	6935,2815
+Investment Funding Requests	18869
 Investment Required	12399
 Investment Requirement	16966
 Issuing Authority. Additional Requirements for Nationality	18595
@@ -632,6 +636,7 @@ Occupational Health and Safety Requirements	1988
 Offical States Secrets Act Requirement	11952
 Office Equipm Request for Quota Single Stage	17180
 Older Persons Request	17114
+Onde Requerer	18834
 Open-source Ticket Request System	13185
 Operational Requirements	13037
 Operational Requirements. Each RIR	3503
@@ -679,12 +684,13 @@ Payment Cancellation Request	12364
 Payments and Settlement Department. Requests	12542
 Performance Requirements	15027
 Performance Testing Requirement	11952
-Performance and Data Localization Requirements	14008,2964
+Performance and Data Localization Requirements	14008,2964,1825
 Plaintiff’s FOIA Requests	5692
 Planning Requirements	16835
 Policy Clause Implementation Guidelines Actor Requirements	6432
 Policy Clauses Implementation Guidelines Actor Requirements	6432
 Policy Rate and Liquidity Reserve Requirement	13060
+Policy Requirements for Time-Stamping Authorities	18774
 Policy and Planning Department RBS Reserve Requirements	17235
 Policy. Requirements	10157
 Portal. Requests	18470
@@ -702,6 +708,7 @@ Privacy-by-Design and Default Requirements	6936
 Procurement Notice Request for Bids Purchaser	12700
 Professional Associations Request	17114
 Program Requirement	17437
+Proj. Financing Requirements	18851
 Project Cost and Private Sector Requirement	5903
 Project Manag Request for Quota Single Stage	17180
 Project REQUIRED	15411
@@ -730,6 +737,7 @@ Qualification Requirements Candidates	14993
 Quality Gates Requirement	11952
 Quality Requirements and Evaluation	11216
 R Experience Required	13077
+R Requisitos	18774
 REC Rural Education Centres RFQ Request	12975
 RECURRENT AND DEVELOPMENT BUDGET REQUESTS	12580
 REGULATORY REQUIREMENTS	12374,73,4652
@@ -771,7 +779,7 @@ REQUESTS FOR CLARIFICATION OR FURTHER INFORMATION	11240
 REQUESTS FOR MODIFICATION OF PERFORMANCE CRITERIA	17326
 REQUESTS FOR REPHASING OF ACCESS	17209
 REQUESTS FOR STATEMENTS Hon. Speaker	10313
-REQUESTS FOR WAIVERS OF NONOBSERVANCE	15752
+REQUESTS FOR WAIVERS OF NONOBSERVANCE	15752,3071
 REQUETE Considérant	15615,632
 REQUETE DECISION FINALE Agence Nationale de Traitement	10821
 REQUETE DECISION FINALE Bénin Control Traitement	10821
@@ -842,11 +850,12 @@ Reporting Requirements and Time Schedule for Deliverables	11869
 Reporting and Oversight Requirements	3861
 Reporting and Oversight Requirements Entities	3861
 Reqistre de Commerce	15584
+Requer	18774
 Requerente	15520
 Requerente de Asilo	11365
 Requerentes de Asilo	11364,1
-Requerer	11383,47
-Requerimento	794,10625,48,1308
+Requerer	11383,47,7321
+Requerimento	794,10625,48,1308,6059,1
 Requerimento de Reembolso	11467
 Requerimiento	16965
 Requerir	163,16692
@@ -871,7 +880,7 @@ Request for Bid RSSH Resilient and Sustainable Systems	16896
 Request for Bids	11417,108,1660,342,1991,1378,432,6
 Request for Bids Non-Consulting Services	13527
 Request for Bids for Design	12253
-Request for Comments	991
+Request for Comments	991,17783
 Request for Documents The Chamber	15175
 Request for Exemptions. Available	13461
 Request for Expression of Interest	962,10563,225,2175,1218,229,822,2381
@@ -930,6 +939,7 @@ Requests ARTICLE	15484
 Requests and Complaints First	15484
 Requests for Expression of Interest	15663
 Requests for Expressions of Interest	11855,3663
+Requests for Extension and Augmentation	18823
 Requests for Interconnection	16835
 Requests for Rephasing of Access	17209
 Requests for Rollover of Funds	11250
@@ -946,6 +956,7 @@ Require TLS	14997
 Require Transparent Reporting	12675
 Require the FM	3604
 Required	34,1906,175,4,1595,1,146,2003,452,107,2700,80,1775,175,3,77,452,172,19,65,11,441,169,192,285,146,137,1133,647,16,11,534,889,516,46,25,18,82,128,482,54,382,398
+Required Accompanying Documentation	18851
 Required Breakeven Revenue	10738
 Required Budget for Ethiopian National Strategy	13965
 Required C. Lessons Learned and Reflected	17441
@@ -1059,8 +1070,8 @@ Requisitar	11537
 Requisite	12674
 Requisite National ICT Backbone Infrastructure	16861
 Requisite Regulatory Approvals	7198
-Requisito	11898
-Requisitos	14,525,255,1644,2731,1801,3785,20,585,10,16,4,40,31,59,22,13,10,17,316,3,3457,38,108,634,717
+Requisito	11898,6876
+Requisitos	14,525,255,1644,2731,1801,3785,20,585,10,16,4,40,31,59,22,13,10,17,316,3,3457,38,108,634,717,1897,9,37,2,53
 Requisitos Académicos Específicos. Os	11472
 Requisitos Data de Atualização	15645
 Requisitos Especiais	3519,7844
@@ -1137,6 +1148,7 @@ SUR LA RECEVABILITE DE LA REQUETE	15439
 SYSTEM AND DATA WAREHOUSE. Request	18506
 SYSTEM REQUIREMENTS	13037
 Safety Requirements	14736,38
+Sao Tome and Principe Requesting Unit Responsible	18809
 Schedule of Requirements	13185,4149
 Schedule of Requirements B. FUNCTIONAL	13185
 Schedule of Requirements Contents	13185

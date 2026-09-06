@@ -184,7 +184,7 @@ Historical Data	12389,4727
 Historical Data Sheet H1	4150
 Historical Disadvantaged Individual HPRS	11252
 Historical Disbursed	6579,8580
-Historical Disbursed Loan	11395
+Historical Disbursed Loan	11395,7397
 Historical Drought Events	17157
 Historical Financials for The Company	4896
 Historical GDP	13685
@@ -211,6 +211,7 @@ Historically Disadvantaged Groups	5808,5427
 Historically Disadvantaged Individuals	11224
 Historically Disadvantaged Institutions	5246,1586
 Historically Disadvantaged Universities of South Africa	11288
+Historically-weak	18809
 Historien	16287,1574
 Historique	2342,1316,1465,1152,145,534,1843,2168,4562,56,16,337,1924,457
 Historique de DHIS2	14442
@@ -239,7 +240,7 @@ History of SLP	18486
 History of Voting System	10062
 Histó	15772
 Histór	15772
-História	414,11123,4235,1331
+História	414,11123,4235,1331,1728
 História Económica	15772
 História Organigrama Politicas	11358
 História da Arquitetura	15772
@@ -247,7 +248,8 @@ História da Cultura	17103
 História da Inteligência Artificial. Disponível	2816
 História da Nação Cabo-verdiana. Factor	15344
 História de Arquitetura	15772
-Histórico	11441,5423
+Histórias. P9 Como	18799
+Histórico	11441,5423,1903,5
 Histórico de Revisão Versão	11555
 Hiswaca	10473,1551,3929,4,173,44
 Hyperscaler Sovereignty and Geopolitical Stakes Historically	6773
@@ -301,7 +303,7 @@ RACONTER DES HISTOIRES A B X	13300
 REA Delivers Historic Project	13413
 RENT CONTROL LAWS History	15473
 RESTRUCTURING HISTORY	2712,1976,1891,1298,4094,257,39,173,2719,578,968,295,79,17,1037,217,184
-RESTRUCTURING HISTORY Restructuring Level	6928,4467,4618,66,915,910,54,396,1
+RESTRUCTURING HISTORY Restructuring Level	6928,4467,4618,66,915,910,54,396,1,437,25
 RESTRUCTURING HISTORY The World Bank Implementation	15735
 REVISION HISTORY	9855
 REVISION HISTORY Dat Prepared Section	9855

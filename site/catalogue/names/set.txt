@@ -137,7 +137,7 @@ Diesel Generator Sets	12253
 Digital Public Infrastructure Set	16814
 Displacement Settings	13938
 Dispute Avoidance and Dispute Settlement	1243
-Dispute Settlement	1243,11788,3941,773
+Dispute Settlement	1243,11788,3941,773,1052
 Dispute Settlement Chapter	1243
 Dispute Settlement Disputes	15641
 Dispute Settlement Mechanism	1243
@@ -196,6 +196,7 @@ Global Human Settlement Layer	14674
 Global Settlement Network	5743,1835
 Goal Setting	12356
 Governance and Institutional Setting	11553
+Governance and Institutional Settings	18787
 Governing Law and Dispute Settlement Annex	15901
 Governing Law and Dispute Settlement B	15901
 Gov’t Sets Ambitious Health Reform Agenda	17416
@@ -203,6 +204,7 @@ Grassland Shrub Savannah Grassland Settlement Settlement	17140
 Grassland Wetland Settlement Otherland DEF	17140
 Gross Settlement	12364
 Gross Settlement SAP System Application Product	13420
+Gross Settlement SCI Statistical Capacity Index	18825
 Gross Settlement Southern African Customs Union	11134
 Gross Settlement The Settlement	12364
 Gross Time Settlement Southern African Customs	12701
@@ -254,6 +256,7 @@ Installation and Setup	578
 Instant Gross Settlement	16907
 Institute Cybercrime Set	1777
 Institutional Set-up	12333
+Institutional Settings Element	18787
 Institutional Setup	10829
 Institutional Setup Training	3861
 Institutional Setup and Coordination	3861
@@ -265,9 +268,10 @@ Interbank Payment and Settlement System	3736
 International Centre for Settlement of Investment Dispute	13326
 International Centre for Settlement of Investment Disputes	3583,10425
 Interpretation PART II Clearance and Settlement Systems	12528
-Investor-State Dispute Settlement	16972
+Investor-State Dispute Settlement	16972,1825
 Investor-State Dispute Settlement Equatorial Guinea	16972
 Investor-State Dispute Settlement Eritrea	14008
+Investor-State Dispute Settlement São Tomé and Príncipe	18797
 Ivorian Economy Ministry Sets	4284
 KARORERO Christian Informaticien Informaticien SETIC SETIC	13341
 KARORERO Christian SETIC	13341
@@ -332,6 +336,7 @@ Meheba Refugee Settlement. Component	1988
 Meheba Settlement	1988
 Meheba Settlement Land	1988
 Methods of Setting Public Communication Services Tariffs	18602
+Minimum Set of Gender Indicators	18817
 Minister Chang. The Settlements	1829
 Minister of Human Settlements	11285
 Minister of Human Settlements and Another	14673
@@ -371,6 +376,7 @@ National Settlement Policy	12529
 Nations Human Settlements Programme Cable Cable.co.uk	10835,3,130,902,16,466,1,135
 Net Settlement	12364
 Net Settlement Instructions	12364
+Network Operators MSGI Minimum Set of Gender	18777
 Newsfeed Global Settlement Holdings	5743
 Niger Partnership Sets New Benchmark for Resilient	18197
 Nigeria Inter-Bank Settlement System	2841,894,196,917,8,116,734,1360,942,703,1041,967,419,3559
@@ -502,6 +508,7 @@ SETAs	6832,4471
 SETCO	14897
 SETED	1180,84,15955
 SETEG	16037
+SETEMBRO	18781,12
 SETEMU	13442
 SETENTA MIL	4209
 SETENTA Y CINCO MIL	4209
@@ -599,8 +606,13 @@ Set-up Institutional Governance Framework for Cybersecurity	1000
 Set-up Provincial	12453
 Set. Artículo	163
 Setareh Razmara	17906
+Sete Dobras	18798
+Sete Milhões de Dobras	18798
+Setecentas	18798
+Setecentos	18798
 Setect	3972
-Setembro	13,417,144,2,219,731,612,678,277,426,8,79,1,433,4,159,2259,390,675,1469,913,416,425,1,21,5,254,286,45,3,3,1,1,3,6,4,3,1,17,4,1,1,5,6,1,3,1,2,7,3,8,7,4,8,8,20,20,3,3,1,3,3,2,9,5,35,5,495,10,33,70,598,3,1,1,19,2495,37,14,9,13,5,7,11,1,435,1165,11,20,112,457
+Setem	18764
+Setembro	13,417,144,2,219,731,612,678,277,426,8,79,1,433,4,159,2259,390,675,1469,913,416,425,1,21,5,254,286,45,3,3,1,1,3,6,4,3,1,17,4,1,1,5,6,1,3,1,2,7,3,8,7,4,8,8,20,20,3,3,1,3,3,2,9,5,35,5,495,10,33,70,598,3,1,1,19,2495,37,14,9,13,5,7,11,1,435,1165,11,20,112,457,1148,5,3,1,3,3,5,1,10,15,2,7,46
 Setembro AUTORIZAÇÃO PARA REALIZAÇÃO DE DESPESAS	15404
 Setembro Ao	15404
 Setembro Considerando	15404
@@ -612,7 +624,8 @@ Setembro. Com	15391
 Setembro. Na Sessão Plenária	2816
 Setembro. Nota	11446
 Setembro. Não	11359
-Setenta	10760
+Setenta	10760,8038
+Setenta Milhões	18798
 Seteoedihgv	15399
 Seth Farbman Podcast	16412
 Seth Fiagorme	17656
@@ -624,12 +637,13 @@ Sethuraman	9237
 Setic	5905
 Setif	4902
 Setlopo Clinic	11980
-Setor	15433,93,6,1561,54
+Setor	15433,93,6,1561,54,1642
 Setor Administrativo	11528
 Setor Autónimo de Bissau	17166
 Setor Autónomo de Bissau	7666,3871,6
 Setor Educativo	16268,4
-Setor Elétrico	15892
+Setor Elétrico	15892,2901
+Setor Elétrico Nacional	18793
 Setor Elétrico de Cabo Verde	16059
 Setor Empresarial	15526,158,240,38
 Setor Financeiro	15526
@@ -643,6 +657,9 @@ Setor Tecnológico Nacional	15689
 Setor de Atividade Distribuição	11571
 Setor de Bambadinca	3246
 Setor de Caju	17312
+Setor de Educação Alta	18781
+Setor de Educação Alta Prioridade Destaques	18781
+Setor de Eletricidade	18793
 Setor de Energias Renováveis	15433
 Setor de Quebo Relatório de Missão de Terreno	17147
 Setores	11569
@@ -659,7 +676,7 @@ Setsetse	9466
 Setshwane	12625
 Setswana	8108,2698,374,51,1325,85,4944
 Settat	3375,14066
-Setting	21,552,210,217,885,87,2760,116,852,577,669,1071,113,1337,1352,37,104,17,40,889,336,53,15,190,174,290,331,19,44,649,667,55,19,4,21,8,43,6,6,18,68,75,31,6,68,18,44,122,125,62,188,582,606,23,13,78,12,182,859,285,263
+Setting	21,552,210,217,885,87,2760,116,852,577,669,1071,113,1337,1352,37,104,17,40,889,336,53,15,190,174,290,331,19,44,649,667,55,19,4,21,8,43,6,6,18,68,75,31,6,68,18,44,122,125,62,188,582,606,23,13,78,12,182,859,285,263,201
 Setting Aside Campaign Funds	15393
 Setting Deprivation Cut-offs for Each Indicator	15244
 Setting Zone Setting Gender Mt Kenya	7869
@@ -702,7 +719,7 @@ Settlement and Securities Systems	13468
 Settlement of Disputes	13185,4058
 Settlement of Disputes. Article	15641
 Settlement of Investment Dispute	13326
-Settlement of Investment Disputes	16972,1491
+Settlement of Investment Disputes	16972,1491,334
 Settlement of Net Settlement Instructions	12364
 Settlement of Net Settlement Instructions NSIs	12364
 Settlement of ZIPSS	12364
@@ -763,7 +780,7 @@ Time Gross Settlement	12000,671
 Time Gross Settlement EIPA Corporation RWA	12444
 Togo Sets New Priorities	8610,233
 Tongogara Refugee Settlement	9794,3748
-Top Cookie Settings Cookie Settings	16972
+Top Cookie Settings Cookie Settings	16972,1825
 Trans-European Automated Real-time Gross Settlement Express	16219
 UK Setting	14723
 UN Women Head of Office Setcheme Mongbo	18520

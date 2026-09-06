@@ -233,7 +233,7 @@ FINANCIAL YEAR V	11224
 FINANCIAL YEAR VII Table	11224
 FINANCIAL YEAR VOTE	12982
 FINANCIAL YEARS	11986
-FISCAL YEAR	969,315,583,549,473,673,42,2935,4229,61,135,416,37,51,57,24,11,345,19,41,1003,363,403,8,1,93,25,24,1052,39,9,153,52,182,39,13,67,20,4,3,35,48,20,37,1,2,2,39,29,51,127,74,49,112,240,52,178,282,26,30,489,17,391,13,100,142,94,95,8,324
+FISCAL YEAR	969,315,583,549,473,673,42,2935,4229,61,135,416,37,51,57,24,11,345,19,41,1003,363,403,8,1,93,25,24,1052,39,9,153,52,182,39,13,67,20,4,3,35,48,20,37,1,2,2,39,29,51,127,74,49,112,240,52,178,282,26,30,489,17,391,13,100,142,94,95,8,324,129,11,12,32,16,26
 FISCAL YEAR Agricultural	13122
 FISCAL YEAR Despite	14985
 FISCAL YEAR ENDED	18661
@@ -249,7 +249,8 @@ Faecal Sludge Management FY Financial Year	718
 Farming and Agribusiness. Approval Fiscal Year	16398
 Fibre-To-The-Home FTTO Fibre-To-The-Office FY Financial Year	6671
 Final Year Project Docs	14965
-Financial Management FY Fiscal Year GBV	16896
+Financial Management FY Fiscal Year GBV	16896,1881
+Financial Management FY Fiscal Year GDP	18765
 Financial Services Commission FY Financial Year	14828,3
 Financial Year	483,235,5953,74,201,602,921,1844,818,3,84,10,46,11,474,227,409,105,30,22,28,17,24,47,244,44,16,4,1,7,71,63,4,233,1381,2,4,2,1,1,27,62,188,3465,55,34,84
 Financial Year Collection Target Performance	13053
@@ -722,7 +723,7 @@ Sergei Yeliseyev	18471
 Service SSA Sub-Saharan Africa YE	10781,3701
 Seven Years	12732
 Severe Yellow Alert Triggered After Electricity	14801
-Shri Shripad Yesso Naik	17240
+Shri Shripad Yesso Naik	17240,1617
 Sidi Yehiya WANGARA Secrétaire	17982
 Sierra Leone FY-Financial Year HR-Human Resource	18576
 Silvestre&publication year	771
@@ -755,6 +756,7 @@ TV Platform OF The Year	17069
 Taken Year	15056
 Target Outcome Indicator Unit of Measurement Year	15716
 Target Year	12399
+Target Years Impact	18754
 Target Years Indicator	16614
 Target and Year	12175
 Tariff Regulation and Multi Year Tariff	16978
@@ -794,6 +796,7 @@ UNICEF Yemen	11156
 UNICEF Yemen UCT	11156
 UOOS Ye	16857
 USD Million FY Year	16285
+USD Million Year Export	18857
 Ukrainian Prime Minister Yuriy Yekhanurov	7493
 Unadjusted Adjusted Year	12413
 Under Two Years	16971
@@ -806,6 +809,7 @@ Unresolved Prior Years Audit Matters	14546
 VAT Payments Made During for Financial Year	12500
 VAT Refunds for Financial Year	12500
 VII. BUDGET UTILISATION FOR FINANCIAL YEAR	12598
+Values Target Years International	18754
 Variances Between Prior Year Audited Outstanding	14546
 Various Census Years	16921
 Verdugo Yepes	11559
@@ -976,6 +980,7 @@ Year FY2022 FY2023 FY2024 FY2025 FY2026	16032
 Year Figure	12151,2624
 Year Fixed Mobile	14836
 Year Full	13037
+Year GDP Gross Domestic Product GEEDR	18754
 Year GDP Value Growth	13418
 Year GII Position	11884,467,136
 Year GII Position Innovation Inputs Innovation	10969,916,320
@@ -992,6 +997,7 @@ Year Health Systems Partnership	11748
 Year Households	17000
 Year Impact Evaluation of Zambia’s Cash	13332
 Year Implementation Plan	1814,10361,78,752,50,5,51,11,120
+Year Improved Capacity	18792
 Year Incoming Outgoing	16992
 Year Increased	17470
 Year India’s Export India’s Import	11579,5662,775
@@ -1024,7 +1030,7 @@ Year No	7538,4688,1729,3,15,13,38
 Year No Apr	15735
 Year No Aug	18355
 Year No Dec	17079
-Year No Mar	18534
+Year No Mar	18534,283
 Year No Nov	12267
 Year No Oct	15969
 Year No.101	13967
@@ -1043,7 +1049,7 @@ Year Opposition Roadmap ENTEBBE	8352
 Year Original Estimation	18359
 Year Page	11152,4880
 Year Payment Fee Home Visit Registration	14741
-Year People	2712,1976,3189,2993,1101,4734,1650,4
+Year People	2712,1976,3189,2993,1101,4734,1650,4,458
 Year Percentage	11395,529,4155
 Year Performance	4818,4143
 Year Policy Idicator	18532
@@ -1058,6 +1064,7 @@ Year Purpose	11261
 Year Quantitative Trade Barometer	5247
 Year Quar- Agriculture Mining	2775
 Year Quarter Public Ad- Profes- Real	2775
+Year Quarterly	18817
 Year Registration of Births and Deaths Act	10822
 Year Regulatory Implementation	4126
 Year Repair	4653
@@ -1089,7 +1096,7 @@ Year Target	7921
 Year Targeted	16994
 Year Teachers	17096
 Year Technology Used Key Features Challenges	18531
-Year The World Bank Implementation	17000
+Year The World Bank Implementation	17000,1792
 Year Three-year	10870
 Year Time	18534
 Year Timely	17505
@@ -1117,8 +1124,9 @@ Year Under Review	11250
 Year Under Review Throughout	14916
 Year Unemployment Rate	14815
 Year Upskill	4126
+Year Value Added Tax	18792
 Year Value Apr	6928
-Year Value Date Value Date	2712,5165,2993,525,576,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179
+Year Value Date Value Date	2712,5165,2993,525,576,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179,258,25
 Year Value Date Value Month	4688,13216
 Year Value Indicator Name	6579,349
 Year Value Indicator Name Grievances	6579
@@ -1274,10 +1282,12 @@ Years Unemployed	14999
 Years and Above	12151
 Years and Over	16921,193
 Years of Counting South Africa	11294,47
+Years of Diplomatic Relations	18879
 Years of ECA Land Registration Projects	18293
 Years of Empowering Malawi's Economy	14674
 Years of Freedom and Democracy	2626
 Years of Inactivity By Gerald C. Koinyeneh	7410
+Years of Independence	18879
 Years of Learning About G2P Choice	12335
 Years of Life Lost	16922
 Years of Network Partnership	6017

@@ -2,6 +2,7 @@ ABSA BANCASSURANCE INTERMEDIARY LIMITED Data Controller	7167
 ACCES AUX PRODUITS ET SERVICES BANCAIRES	15482
 AFRICAN CENTURY BANK CHANNELS BANC ABC	11002
 AGT Mobile Banco	10762
+ATS Automated Transfer System BCSTP Banco	18825
 AUTRES CHARGES D’EXPLOITATION BANCAIRE	17841
 AUTRES PRESTATAIRES DE SERVICES BANCAIRES Section	14429
 AUTRES PRODUITS D’EXPLOITATION BANCAIRE	17841
@@ -13,6 +14,8 @@ Ao Banco Nacional de Angola	11368
 Associação Moçambicana de Bancos	12808,6
 Atribuições O Banco	16089
 Autoridade Reguladora de Energia Atómica BM Banco	11376
+BAD Banco Africano de Desenvolvimento	18760
+BAD Banco Africano de Desenvolvimento ACP Avaliação	18783
 BANC ABC	18489
 BANCAIRE	16629
 BANCAIRE Chapitre	15594
@@ -36,21 +39,25 @@ BANCOBU IBB ECOBANK BCB BBCI BGF	13390
 BANK BANC ABC EMPOWER BANK NATIONAL	17242
 BCAB BIJE CRDB AFI BANCOBU BNDE	13390
 BCB Brazil’s Banco Central	11994
+BCSTP Banco Central de São Tomé	18779
 Banca	2816
 Banca Digital	7704
 Banca Instituições	6970
 Banca Quer Previsibilidade	8003
 Bancaire	6163,4802,2425,2118,428
+Bancas	18775
 Bancassurance	7763,7234
 Bance	16815
 Banchale Gufu	10764
-Banco	2816,422,5827,1697,15,595,5,192,329,916,2566,375,312,22,33,776,27,44,284,173,699
-Banco Africano	11569
+Banco	2816,422,5827,1697,15,595,5,192,329,916,2566,375,312,22,33,776,27,44,284,173,699,636,32,42
+Banco Africano	11569,7229,55
 Banco Africano de Desarrollo	1701,2508,3839,8850,415,29
-Banco Africano de Desenvolvimento	2816,893,372,1362,5944,4089,486,105,152,855
+Banco Africano de Desenvolvimento	2816,893,372,1362,5944,4089,486,105,152,855,1689,4,5,21,1,77
+Banco Africano de Desenvolvimento BCSTP	18794
 Banco Africano de Desenvolvimento BEE	11387
 Banco Africano de Desenvolvimento. Para	1948
 Banco Africano de Desenvolvimento.AB	9259
+Banco Africano de Importação	18778
 Banco Africano de Investimentos	5309
 Banco Angolano de Investimentos SA	12252
 Banco Artigo	16089
@@ -66,49 +73,68 @@ Banco Caboverdeano de Negócios	11955
 Banco Caboverdiano de Negócios	11878,77
 Banco Caboverdiano de Negócios BI	17032
 Banco Caboverdiano de Negócios Manuel Fernando Monteiro	11955
-Banco Central	1701,1273,1773,1613,4395,383,378,417,61,3690,294,111,809,134
+Banco Cen	18800
+Banco CentraI O Banco Central	18750
+Banco Central	1701,1273,1773,1613,4395,383,378,417,61,3690,294,111,809,134,1717,1,11,37,2,53,23
+Banco Central Artigo	18800
+Banco Central SECÇÃO I Disposições Gerais	18800
 Banco Central da RDC	7115
 Banco Central da República Democrática	7115
+Banco Central da República Democrática de São Tomé	18761
 Banco Central da República de Cabo Verde	16089
 Banco Central de Cabo Verde	16089
-Banco Central de São Tomé	7156
+Banco Central de S. Tomé	18757,103
+Banco Central de São Tomé	7156,11605,3,24,6,6,80
 Banco Central de Timor-Leste	11683
+Banco Central. Artigo	18800
+Banco Central. Neste	18750
+Banco Central. Todas	18798
 Banco Comercial	2816,9139,5077
 Banco Comercial Português	9832
 Banco De Desenvolvimento Enfrenta O Desafio	8003
 Banco De Moçambique Dá	12841
 Banco De Negocios Internacional Angola	12252
-Banco Europeu de Investimento	15476,867
+Banco Emissor	18750
+Banco Europeu de Investimento	15476,867,2450
+Banco Europeu de Investimentos	18793
 Banco Interatlântico	11955
 Banco Interatlântico Ana Elizabeth Pires Carvalho	11955
 Banco Interatlântico CECV	17032
 Banco Interatlântico Supervisory Board Chairman Manuel	11955
-Banco Internacional	11390,50
-Banco Internacional de São Tomé	7156
+Banco Internacional	11390,50,7339
+Banco Internacional de São Tomé	7156,11668
 Banco Millennium BIM	2816
 Banco Millennium BIM. Fonte	2816
 Banco Mundia	11390
-Banco Mundial	574,221,381,92,433,247,633,235,711,31,31,249,598,1285,548,156,1241,37,33,56,89,64,103,3,543,181,52,52,679,1,135,152,63,848,1,2,9,8,601,1,11,4,12,7,10,3,14,1,1,2,4,3,5,26,49,11,13,14,5,324,65,16,42,756,37,7,14,1365,112,1,1,1162,28,395,1,159,8,43,158,630,114,62,11,4,4,93,19,13,194
+Banco Mundial	574,221,381,92,433,247,633,235,711,31,31,249,598,1285,548,156,1241,37,33,56,89,64,103,3,543,181,52,52,679,1,135,152,63,848,1,2,9,8,601,1,11,4,12,7,10,3,14,1,1,2,4,3,5,26,49,11,13,14,5,324,65,16,42,756,37,7,14,1365,112,1,1,1162,28,395,1,159,8,43,158,630,114,62,11,4,4,93,19,13,194,1355,1,4,7,2,12,1,2,2,7,19,17,12,5,13
 Banco Mundial CACS Conselhos Municipais de Auscultação	11390
+Banco Mundial CAE	18794
 Banco Mundial Comunidade	11569
 Banco Mundial EDIÇÃO Eugénia Tavares Ulo	10757
 Banco Mundial GdA Governo de Angola GFP	11390
+Banco Mundial GdSTP Governo da República de São	18779
 Banco Mundial PPPP INSTITUTO NACIONAL	16898
 Banco Mundial Reforça Apoio	16059
 Banco Mundial Regulamento de Aquisições	16110
+Banco Mundial São Tomé	18779
 Banco Mundial X X	11569
+Banco Mundial de US	18768
+Banco Mundial. Conteúdo de Terceiros	18779
 Banco Mundial. Durante	15962
 Banco Mundial. Em	11390,6164
 Banco Mundial. Entre	1268
 Banco Mundial. Este	11461
 Banco Mundial. Estão	11456
+Banco Mundial. O Banco Mundial	18779
 Banco Mundial. O DGRA	11394
 Banco Mundial. O Mutuário	11413
-Banco Mundial. Os	11456
+Banco Mundial. Os	11456,7323
 Banco Mundial. P	11898
 Banco Mundial. Por	17093
 Banco Mundial. Segundo	7666
+Banco Mundial. São Tomé	18779
 Banco Mundial. También	16898
+Banco Mundial. Trata-se	18796
 Banco Mundial.A	7945
 Banco Mundial1. Entregaveis Atividade	11898
 Banco Nacional Angola	11438
@@ -125,7 +151,9 @@ Banco Nacional de Datos. Proporción	16898
 Banco Nacional de Desarrollo	1701
 Banco Nacional de G.E	4209
 Banco Nacional de Guinea Ecuatorial	1701,3293,11948
+Banco Nacional de São Tomé	18800
 Banco Paille Sans	10847
+Banco Privado	18797,26
 Banco Santander	1414,2942
 Banco Societé Générale	11372
 Banco Yetu	12252
@@ -144,6 +172,7 @@ Banco de Cabo Verde. Artigo	15433,7,649
 Banco de Cabo Verde. Em	15359
 Banco de Cabo Verde. PREÂMBULO	16089
 Banco de Dados	17009
+Banco de Dados de Inteligência da GSMA	18779
 Banco de Desarrollo	1701
 Banco de Desarrollo de Guinea Ecuatorial	1701
 Banco de Desarrollo de Guinea Ecuatorial. Estos	1701
@@ -151,6 +180,7 @@ Banco de Desenvolvimento	8003
 Banco de Desenvolvimento de Angola	144,6708
 Banco de Desenvolvimento de Moçambique	8003
 Banco de Fomento Angola	5589
+Banco de Importação	18778
 Banco de Mexico	9709
 Banco de Ministro	15526
 Banco de Moambique	6938
@@ -165,6 +195,8 @@ Banco de Moçambique. Maputo	5169
 Banco de Sangre	4209
 Banco de Sangre de Bata	4209
 Banco de Sangre de Malabo	4209
+Banco de Urgência	18768
+Banco-Central	18829,31,20
 Banco-Coura. TRAORE LISTE DES MEMBRES	18003
 Banco. Artigo	15380,709
 Banco. Os	16089
@@ -173,7 +205,7 @@ Bancom	11119
 Banconi	18032
 Banconi ARRETE N	17819
 Banconi Razel	17817
-Bancos	10762,13,2066,4124,44
+Bancos	10762,13,2066,4124,44,1791
 Bancos Centrais	3137,8796,4156
 Bancos Comerciais	2816,9980
 Bancrofti	15712
@@ -242,6 +274,7 @@ DU SECTEUR BANCAIRE	3715
 Departamento de Serviços Bancários	5169,1293,6352
 Direito. Banco de Moçambique	6462
 Distribuição da Rede Bancária	10775
+Do Banco Central de São Tomé	18749
 Développement de Banco-Koura	18003
 ENFERM. DE INFORM. LAB. Y BANCO	4209
 ENTRE SERVICES BANCAIRES ET PAIEMENT MOBILE	6883
@@ -250,6 +283,8 @@ El Banco Central	1701
 El Banco Nacional de Guinea Ecuatorial	17246
 Encarregados de Educação BM Banco Mundial CICL	11557
 Encerramento de Contas de Depósito Bancário	11386
+Energy Bank and Banco Equador. C. Advancing	18823
+Estratégia. O Banco Mundial	18772
 Etudes Bancaires Direction des Enseignements	10237
 Export Credit Line for Banco de Desenvolvimento de Angola	144
 FCA-authorized Electronic Money Institution Bancom Europe	11119
@@ -261,8 +296,9 @@ FRAUDE AUX CARTES BANCAIRES Arllcle	15429
 Futuro da Banca	6360
 Fédération Bancaire Française	17485
 GARANTIES ET CAUTIONS BANCAIRES	17485
+Garantia Bancária	18753,40
 Groupe des Superviseurs Bancaires Francophones. The Bank	14744
-Grupo Banco Mundial	6269,3289,1836,50,454,4161,51,24,65,52,1175
+Grupo Banco Mundial	6269,3289,1836,50,454,4161,51,24,65,52,1175,1353
 Grupo Banco Mundial URL	17426
 Guichet Automatique Bancaire	11944
 Guichet Automatiques Bancaires	13390
@@ -297,11 +333,13 @@ MODELE DE GARANTIE BANCAIRE DE BONNE	13524
 MODELE DE LA GARANTIE BANCAIRE	13524
 Madagascar BAD Banco Africano de Desarrollo BEAC	16898
 Meta-Informação BM Banco Mundial CAE Carta	15535
+Modelo de Garantia Bancária	18753
 Moza Banco	8003
 NAS E DIRECTRIZES DO BANCO MUNDIAL	11390
 NOMBRES DE CARTES BANCAIRES ET DETENTEURS	13390
 NORMAS DO BANCO MUNDIAL	11390
 National du Banc	17895
+Natureza O Banco Central da República Democrática	18800
 Natureza O Banco de Cabo Verde	16089
 Number of Bancassurance Agent Networks	7763
 Number of Bancassurance Agents	7763
@@ -309,9 +347,10 @@ Não Bancárias	11386
 Número de Identificação Bancária	15445
 Número de Identificação Bancária PIB	17032
 O Banco	16089
-O Banco Central	8003,8576
-O Banco Central de São Tomé	2974
-O Banco Mundial	8701,857,1,1552,279,33,4636
+O Banco CentraI	18750
+O Banco Central	8003,8576,2171,50
+O Banco Central de São Tomé	2974,15775
+O Banco Mundial	8701,857,1,1552,279,33,4636,2720
 O Banco Nacional de Angola	7115,225,3415,631,18
 O Banco de Cabo Verde	15433,7,10,672
 O Banco de Desenvolvimento	8003
@@ -329,6 +368,8 @@ PRODUITS D’EXPLOITATION BANCAIRE	17841
 Paul Bance	15415
 Plan Comptable Bancaire	18063
 PlayStation SANS BESOIN DE CARTES BANCAIRE	5567
+Producer BCSTP Banco Central de São Tomé	18851
+Príncipe Preâmbulo O Banco Central de São	18800
 R8J CHARGES DIVERSES D’EXPLOITATION BANCAIRE R8L	17833
 RAPPORT ANNUEL 2025 DE LA COMMISSION BANCAIRE.pdf	14203
 RGÃOS DO BANCO E COMITÉ	16089
@@ -357,15 +398,20 @@ Seção III Capítulo IV Banco de Cabo	15450
 Sistema Bancarização	11898
 Sistema de Bancarização	15572,458
 Subsariana BAD Banco Africano de Desenvolvimento BCV	15535
+Supervisão Bancária	18749
+São Tomé and Príncipe. The Banco Internacional	18797
 Só Depois Avançar O Banco Mundial	9558
 T81 FONDS POUR RISQUES BANCAIRES GENERAUX	17833
 TITRE III. PRESTATAIRES DE SERVICES BANCAIRES	14429
 TITRE V ORGANISATION BANCAIRE Chapitre	15594
 Taux de Base Bancaire	17833
 Teller Machine BANGE Banco Nacional de Guinea	16942
+UN DESA O Banco Mundial	18767,5
 Uma Instituição Financeira Bancária	11438
 Un Banco Nacional de Datos	16898
+Utilização de Cartões Bancários	18829
 V6T PRODUITS DIVERS D’EXPLOITATION BANCAIRE	17833
+World Banck Country Manager for São Tomé	18816
 Y BANCO DE SANGRE	4209
 Y BANCO DE SANGRE.- Concepto.-66111	4209
 Y BANCO DE SANGRE.- Concepto.-66314	4209

@@ -62,7 +62,7 @@ Angolan President João Lourenço	2791,920
 Angolans. Presidential Decree	10765,10
 Anwar Sharif Practice Group Vice President	15731
 Ao Presidente da CNIA	12823
-Approval Vice President	16614
+Approval Vice President	16614,2140
 Arminda Fortes Presidente de Chã de Lopes Matias	15694
 Armée Assimi GOITA LE PRESIDENT	17899,83,50
 Arret Jatta President Adama Barrow	6941
@@ -86,6 +86,7 @@ BYTHE PRESIDENT OF THE REPUBLIC	11217
 Bacal SANHA President	15363
 Badejo-Okusanya Emerges NBA’s New National President	2355,176,4,1,56,3,339,96,901,1006,1761,673
 Bajo la Presidencia de S.E. Obiang Nguema Mbasogo	16925
+Bank Group Vice President	18754
 Bank’s Vice President for Digital Transformation	10451
 Benin President Dr. Thomas Boni Yayi	15402
 Bilhete de Identidade O Presidente da República	10772
@@ -330,6 +331,7 @@ Elon Musk and US President Donald Trump	5808
 Emirati President	17459
 Employment PEGEP President's Empowerment of Girls' Education	16852
 Enhance the Presidential Digital Talent Program	12210
+Ensino Superior O Presidente	18788
 Entebbe. The President	6262
 Equatoguinean President Obiang Nguema	17237
 Equatoguinean President Obiang Nguema URL	17237
@@ -444,6 +446,7 @@ Founding President and Leader	13024
 Freetown. His Excellency the President Dr. Julius	18471
 Freetown. President Bio	4114
 French President Emmanuel Macron	4259,770,972,307,2039,1928,796,3534
+Funções O Presidente da República	18751
 G.C.S.K. President	14566
 G20 Presidencies	7242
 G20 Presidency	2526,6905,627
@@ -571,7 +574,7 @@ IAEA President	13477
 IAFS-III. Vice President Gen	13562
 IATA’s Regional Vice President	10723
 ICR DOCUMENT Regional Vice President	16436
-ICR Regional Vice President	15663,2186
+ICR Regional Vice President	15663,2186,916
 ICT and Vice President	4798
 ICTA Presidential Digital Talent Programme	1732
 ICTAM President	4038
@@ -594,6 +597,7 @@ Ifeloju Alakija- President	7329
 Ihe President	11517
 Immediate Past President	13401
 Immediately President Hakainde Hichilema	13387
+Independence Day President His Highness Sheikh	18759
 India Hon’ble President Ram Nath Kovind	17241
 India Hon’ble President of India Shri Ram	17240
 India Hon’ble Vice President Shri Venkaiah	18563
@@ -763,7 +767,7 @@ Minister of State for Presidential Affairs of Liberia. FTL	17173
 Ministra da Presidência	15358
 Ministries and State Presidencies. At District	14925
 Ministro Do Interior Preside Acto	9399
-Ministro da Presidência	4435,10969
+Ministro da Presidência	4435,10969,3368,24
 Ministry for Presidency	1920
 Ministry for State President	1660,977,723,2272,1806,5168
 Ministry for State President. Based	12556
@@ -828,21 +832,27 @@ Nigerian Presidency. Mr. Torre	2610
 Nigerians. Vice President Shettima	2610
 Nigeria’s Vice President Kashim Shettima	8046
 Noticias Presidencia	16871
+Novo Presidente da ADI	18875
 Nsue Ada Consejera Presidencial Encargado	16920
 Nuestro Presidente	16865
 Numérique LE PRESIDENT DE LA REPUBLIQUE	18311
 O Decreto Presidencial	11432
 O Despacho Presidencial	4641,9559
 O Ministro da Presidéncia	17312
-O Presidente	13,154,3980,2315,75,1199,2704,346,572,30,61,67,2,25,1227,1413,1208,5,81,9,17,409,1096,95
+O Presi	18764
+O Presiden	18853
+O Presidente	13,154,3980,2315,75,1199,2704,346,572,30,61,67,2,25,1227,1413,1208,5,81,9,17,409,1096,95,1648,21,16,12
 O Presidente Interino da CNE	11561
 O Presidente João Lourenço	14314
 O Presidente Ordem	15477
 O Presidente Sr. Fang Qiuchen	17337
-O Presidente da Assembleia Nacional	14,1,524,10,5269,4929,2,6,1,607,21,4,3971,26,11,54,104,535
+O Presidente da Assembleia Naci	18758
+O Presidente da Assembleia Nacio	18853
+O Presidente da Assembleia Nacional	14,1,524,10,5269,4929,2,6,1,607,21,4,3971,26,11,54,104,535,2660,2
 O Presidente da CNPD	16142
+O Presidente da Comissão	18753
 O Presidente da ENG	15910
-O Presidente da República	13,154,263,314,8,42,1877,936,539,1,71,339,49,35,412,152,67,707,1,990,3784,18,11,577,1,1,7,2,1,1,5,3,1,1,2,9,2,23,11,1,2,10,2,4,3,3,2,1,9,46,17,1303,1479,1,1241,2000
+O Presidente da República	13,154,263,314,8,42,1877,936,539,1,71,339,49,35,412,152,67,707,1,990,3784,18,11,577,1,1,7,2,1,1,5,3,1,1,2,9,2,23,11,1,2,10,2,4,3,3,2,1,9,46,17,1303,1479,1,1241,2000,1197,2,30
 O Presidente de INE-GB	17012
 OBIANG NGUEMA MBASOGO PRESIDENTE	16859
 OBIANG NGUEMA MBASOSO PRESIDENTE	16893
@@ -1057,6 +1067,7 @@ PRÉSIDENCE DE PRESIDENCY	15999
 PT- LE PRESIDENT DE LA TRANSITION	17861
 PUBLIC PUBLIC PRESIDENT'S RECOMMENDATION	1818
 PUBLIQUE DE GUINEE LE PRESIDENT	16651
+PUBLIQUE-SE. O PRESIDENTE DA REPÚBLICA	18773
 Pak Regional Vice President	13897
 Palacio Presidencial	4209
 Palacio Presidencial de Djibloho	4209
@@ -1099,7 +1110,7 @@ Presidencial Nº	10750
 Presidencial República	4209
 Presidencial de Malabo	4209
 Presidencies	6386,856,3735
-Presidency	435,579,325,428,119,110,71,78,447,3,29,1,915,43,84,255,333,125,174,34,167,28,511,239,389,150,52,464,38,425,45,30,322,8,110,1005,28,1,179,243,54,159,134,31,276,15,76,116,12,64,482,273,6,48,48,6,152,32,129,47,11,4,4,17,6,1,12,19,21,8,7,253,183,129,83,46,11,324,729,262,1,1,163,314,754,31,90,7,192,528,37,54,8,19,7,53,108,123,42,133,7,291,597,70,33,164,30,222,479,221,210,4,4,275,82
+Presidency	435,579,325,428,119,110,71,78,447,3,29,1,915,43,84,255,333,125,174,34,167,28,511,239,389,150,52,464,38,425,45,30,322,8,110,1005,28,1,179,243,54,159,134,31,276,15,76,116,12,64,482,273,6,48,48,6,152,32,129,47,11,4,4,17,6,1,12,19,21,8,7,253,183,129,83,46,11,324,729,262,1,1,163,314,754,31,90,7,192,528,37,54,8,19,7,53,108,123,42,133,7,291,597,70,33,164,30,222,479,221,210,4,4,275,82,130,61
 Presidency Affairs	14865
 Presidency CREDICORP	3030
 Presidency DGPSN National	18301
@@ -1146,7 +1157,7 @@ Presidency.156	3583
 Presidency.36	13313
 Presidency’s Digital Services Unit	3922
 Presidency’s Inter-Ministerial Committee	3922
-President	3,8,16,206,1,79,2,230,42,312,59,14,42,117,23,44,16,8,11,1,48,51,10,45,86,80,39,149,12,19,56,45,1,16,18,60,19,129,125,63,1,1,4,7,1,58,1,11,5,26,37,8,70,31,60,32,9,60,67,51,20,44,1,50,58,12,6,25,56,36,22,44,10,49,86,19,8,90,81,21,1,16,1,31,5,77,32,14,37,16,13,33,3,21,8,51,5,14,4,21,1,67,28,20,1,11,12,42,21,8,9,22,19,8,25,2,20,212,14,47,22,43,13,10,5,45,25,17,18,25,72,55,27,56,25,112,3,96,5,13,8,57,3,56,147,47,121,34,73,41,23,41,19,3,11,7,34,4,3,9,3,2,39,75,11,12,53,33,33,1,7,91,26,54,84,8,93,115,28,4,12,3,2,1,3,22,14,39,53,12,2,8,5,70,30,16,77,28,17,103,79,70,6,1,4,6,34,2,44,12,3,62,2,30,44,2,9,19,124,14,10,89,54,3,31,171,29,1,120,12,4,10,25,6,61,28,20,38,38,72,67,6,70,11,120,28,60,4,20,15,6,57,67,18,5,7,9,110,1,37,78,59,67,1,75,51,35,87,28,80,6,83,9,32,13,54,12,41,90,13,8,3,6,86,60,32,1,48,42,31,32,51,27,79,10,79,40,14,2,1,2,7,13,97,13,15,14,7,4,13,4,1,7,14,1,1,1,2,1,1,5,1,1,9,2,9,8,6,13,9,1,16,9,8,9,14,77,84,53,8,20,6,90,22,19,166,3,2,4,7,41,2,9,9,15,14,21,1,10,5,44,19,8,30,41,3,9,6,50,19,48,20,31,6,44,3,3,6,7,12,59,33,20,34,2,1,3,10,4,2,1,19,19,8,4,11,10,20,8,92,58,72,1,4,4,2,4,1,13,1,3,36,1,22,2,3,37,26,72,21,67,76,1,1,4,2,1,1,1,14,1,1,1,1,1,1,4,1,5,1,3,4,20,32,1,3,12,37,3,16,11,2,5,4,10,2,8,25,1,5,11,1,36,66,3,10,14,19,47,5,72,44,39,12,37,4,4,52,28,21,62,8,181,17,23,6,33,18,4,1,12,8,19,27,17,11,14,17,11,20,28,6,5,68,1,11,34,1,2,1,1,3,9,6,1,5,4,16,4,21,15,1,12,3,4,2,13,2,2,3,2,2,4,4,3,4,1,9,14,4,9,1,3,8,7,1,40,12,6,43,3,17,55,62,67,18,35,52,27,9,21,9,9,46,2,14,19,19,42,21,10,3,17,17,8,41,9,34,18,3,64,60,12,16,83,158,55,20,4,37,13,19,2,2,6,46,188,57,20,7,11,17,18,30,37,80,6,28,3,2,1,3,1,1,2,4,3,1,7,12,2,2,2,8,1,2,56,8,10,9,2,3,8,2,32,2,6,12,20,13,35,3,11,19,1,20,1,13,1,13,29,19,10,12,3,17,3,11,29,10,1,16,17,15,9,3,3,44,119,22,29,12,32,26,30,40,44,1,116,25,2,4,30,1,19,26,83,48,7,32,4,8,9,10,36,8,8,7,17,12,54,71,4,1,1,2,2,5,1,3,1,3,2,2,2,4,1,1,1,1,1,3,6,2,6,42,5,3,6,6,3,18,3,1,1,3,16,1,1,1,1,1,1,1,1,1,1,2,1,3,44,8,12,66,4
+President	3,8,16,206,1,79,2,230,42,312,59,14,42,117,23,44,16,8,11,1,48,51,10,45,86,80,39,149,12,19,56,45,1,16,18,60,19,129,125,63,1,1,4,7,1,58,1,11,5,26,37,8,70,31,60,32,9,60,67,51,20,44,1,50,58,12,6,25,56,36,22,44,10,49,86,19,8,90,81,21,1,16,1,31,5,77,32,14,37,16,13,33,3,21,8,51,5,14,4,21,1,67,28,20,1,11,12,42,21,8,9,22,19,8,25,2,20,212,14,47,22,43,13,10,5,45,25,17,18,25,72,55,27,56,25,112,3,96,5,13,8,57,3,56,147,47,121,34,73,41,23,41,19,3,11,7,34,4,3,9,3,2,39,75,11,12,53,33,33,1,7,91,26,54,84,8,93,115,28,4,12,3,2,1,3,22,14,39,53,12,2,8,5,70,30,16,77,28,17,103,79,70,6,1,4,6,34,2,44,12,3,62,2,30,44,2,9,19,124,14,10,89,54,3,31,171,29,1,120,12,4,10,25,6,61,28,20,38,38,72,67,6,70,11,120,28,60,4,20,15,6,57,67,18,5,7,9,110,1,37,78,59,67,1,75,51,35,87,28,80,6,83,9,32,13,54,12,41,90,13,8,3,6,86,60,32,1,48,42,31,32,51,27,79,10,79,40,14,2,1,2,7,13,97,13,15,14,7,4,13,4,1,7,14,1,1,1,2,1,1,5,1,1,9,2,9,8,6,13,9,1,16,9,8,9,14,77,84,53,8,20,6,90,22,19,166,3,2,4,7,41,2,9,9,15,14,21,1,10,5,44,19,8,30,41,3,9,6,50,19,48,20,31,6,44,3,3,6,7,12,59,33,20,34,2,1,3,10,4,2,1,19,19,8,4,11,10,20,8,92,58,72,1,4,4,2,4,1,13,1,3,36,1,22,2,3,37,26,72,21,67,76,1,1,4,2,1,1,1,14,1,1,1,1,1,1,4,1,5,1,3,4,20,32,1,3,12,37,3,16,11,2,5,4,10,2,8,25,1,5,11,1,36,66,3,10,14,19,47,5,72,44,39,12,37,4,4,52,28,21,62,8,181,17,23,6,33,18,4,1,12,8,19,27,17,11,14,17,11,20,28,6,5,68,1,11,34,1,2,1,1,3,9,6,1,5,4,16,4,21,15,1,12,3,4,2,13,2,2,3,2,2,4,4,3,4,1,9,14,4,9,1,3,8,7,1,40,12,6,43,3,17,55,62,67,18,35,52,27,9,21,9,9,46,2,14,19,19,42,21,10,3,17,17,8,41,9,34,18,3,64,60,12,16,83,158,55,20,4,37,13,19,2,2,6,46,188,57,20,7,11,17,18,30,37,80,6,28,3,2,1,3,1,1,2,4,3,1,7,12,2,2,2,8,1,2,56,8,10,9,2,3,8,2,32,2,6,12,20,13,35,3,11,19,1,20,1,13,1,13,29,19,10,12,3,17,3,11,29,10,1,16,17,15,9,3,3,44,119,22,29,12,32,26,30,40,44,1,116,25,2,4,30,1,19,26,83,48,7,32,4,8,9,10,36,8,8,7,17,12,54,71,4,1,1,2,2,5,1,3,1,3,2,2,2,4,1,1,1,1,1,3,6,2,6,42,5,3,6,6,3,18,3,1,1,3,16,1,1,1,1,1,1,1,1,1,1,2,1,3,44,8,12,66,4,55,54,6
 President Abdel Fattah	15926
 President Abdel Fattah Al-Sisi. Rashwan	16490
 President Abdel Fattah El Sisi	10103,5553
@@ -1215,6 +1226,8 @@ President Brice Clotaire Oligui Nguema	6779,314
 President Brice Oligui	4659
 President Brig	18526
 President Buhari	1250
+President Caixa Postal	18797
+President Carlos Vila Nova	18823,56
 President Chakwera	12983
 President Chapo	6626,145,1983
 President Compaoré	16256
@@ -1455,7 +1468,7 @@ President Ruto's Rebuttal President William Ruto	2515
 President Ruto's US	1720
 President Sahle-Work Zewde. Daniel Fikadu Law	12185
 President Salva Kiir	3583,716,379,2769,1631,9577,7,4,5,1,14,5,26
-President Salva Kiir Mayardit	5107,1174,530,2775,9066,15,13
+President Salva Kiir Mayardit	5107,1174,530,2775,9066,15,13,79
 President Samia	1644,12956
 President Samia Suluhu	1644,3109
 President Samia Suluhu Hassan	741,647,1978,1348,1074,295,40,439,953,2989,3733,155,208
@@ -1492,6 +1505,7 @@ President URL	17391
 President Uhuru Kenyatta	12227
 President Umaro Sissoco Embaló	11579
 President United Arab Emirate Mohamed	12026
+President Vila Nova	18797
 President Wadagni	6440
 President Wavel Ramkalawan of Seychelles	2371
 President Weah	16870
@@ -1500,7 +1514,7 @@ President William Ruto and Raila Odinga	7833
 President William Ruto. Kang	8274
 President William Samoei Ruto of Kenya and Salim	1639
 President Xi	7474,3680,2155,3561
-President Xi Jinping	2518,3473,2281,2158,724,4118,1657,627,139,784
+President Xi Jinping	2518,3473,2281,2158,724,4118,1657,627,139,784,311
 President Xi Jinping and President Bio	18479
 President Yahya Jammeh	9201
 President Yoweri K. Museveni	9781
@@ -1636,7 +1650,7 @@ President of Sierra Leone Skip	4114
 President of Sierra Leone. The LAB	18477
 President of Somalia	15119
 President of South Africa	11967
-President of South Sudan	3583,15027
+President of South Sudan	3583,15027,149
 President of Strategic Business of NAVER	3049
 President of TechPark CV	2803,62
 President of The Gambia	3710,833,12430,173
@@ -1657,6 +1671,7 @@ President-	16970
 President-El-Sisi-Witnesses-Inauguration-of-Government-Data	15656
 President-Meter-Report-Jan-Dec-2025-REVISED compressed-1.pdf	17139
 President-designate	10342
+President-elect Vila Nova	18879
 President. All	16843
 President. Despite	18478
 President. Digitisation	14295
@@ -1685,7 +1700,7 @@ President. These Terms of Reference	17394
 President. Today	16858
 PresidentFebruary	2541,73,1275,141,801
 Presidenta	4209,12685,39,12,131,148
-Presidente	13,2,152,53,210,1271,107,976,32,50,741,540,62,9,1054,152,148,648,242,157,1433,692,482,77,96,295,300,146,607,625,10,6,61,64,3,2,2,8,3,9,21,5,3,14,160,220,348,488,9,1,1,20,5,5,1343,1176,8,24,42,17,27,26,23,355,18,13,380,546,26,1,3,3,27,22,5,8,54,2,23,15,60,16,25,33,1,9,21,2,28,3,57,23,106,259,43,2
+Presidente	13,2,152,53,210,1271,107,976,32,50,741,540,62,9,1054,152,148,648,242,157,1433,692,482,77,96,295,300,146,607,625,10,6,61,64,3,2,2,8,3,9,21,5,3,14,160,220,348,488,9,1,1,20,5,5,1343,1176,8,24,42,17,27,26,23,355,18,13,380,546,26,1,3,3,27,22,5,8,54,2,23,15,60,16,25,33,1,9,21,2,28,3,57,23,106,259,43,2,1034,2,2,10,9,16,8,4,56,20
 Presidente Audiencia Provincial	4209
 Presidente B. Maria	10770
 Presidente Consejo	4209
@@ -1709,13 +1724,15 @@ Presidente Xi Jinping	11564
 Presidente da APD	167
 Presidente da Agência	14,153
 Presidente da Agência Nacional de Protecção	5818
+Presidente da Agência Nacional de Proteção de Dados Pessoais	18806
 Presidente da Agência de Protecção de Dados	15
 Presidente da Agência de Protecção de Dados Pessoais	10747
-Presidente da Assembleia Nacional	539,2980,7890,16,3971,81,295
+Presidente da Assembleia Nacional	539,2980,7890,16,3971,81,295,2979,47
 Presidente da Assembleia Nacional Popular	11561
 Presidente da Assembleia Nacional Popular da Guiné-Bissau	15403,664
 Presidente da Assembleia da República	6970,5802,24
 Presidente da Associação	11566,5771
+Presidente da Autoridade Nacional de Proteção de Dados	18806
 Presidente da CNE	11432,129
 Presidente da CNE Carmem Batista Lobo	10271
 Presidente da CNEST	15450
@@ -1730,7 +1747,7 @@ Presidente da Empresa de Gestão	17337
 Presidente da Huawei	3692
 Presidente da Ministro da Justiça	10752
 Presidente da Rep	11513
-Presidente da República	13,1,424,2006,137,467,644,383,71,1,71,339,154,36,558,87,426,156,6,6,2,30,519,77,26,407,1063,198,1,227,1158,215,841,1,3,18,11,575,2,1,1,7,2,1,1,5,3,1,1,1,10,2,9,3,11,2,9,3,10,6,3,3,2,10,46,5,10,33,16,734,479,2,1521,1459,1782
+Presidente da República	13,1,424,2006,137,467,644,383,71,1,71,339,154,36,558,87,426,156,6,6,2,30,519,77,26,407,1063,198,1,227,1158,215,841,1,3,18,11,575,2,1,1,7,2,1,1,5,3,1,1,1,10,2,9,3,11,2,9,3,10,6,3,3,2,10,46,5,10,33,16,734,479,2,1521,1459,1782,1197,2,45,55,19
 Presidente da República João Manuel Gonçalves Lourenço	10772
 Presidente da República Luanda	11379
 Presidente da República Pela República Federativa	11393
@@ -1740,14 +1757,17 @@ Presidente da República de Angola	10772
 Presidente da República de Moçambique	12792,15
 Presidente da República de Portugal	15403
 Presidente da República de Transição	4435,12694
-Presidente da República. Artigo	13,154,263,314,8,42,9978,11,613
+Presidente da República. Artigo	13,154,263,314,8,42,9978,11,613,7355
 Presidente da República. Publicação	11361,1,7,16,60,10,2,1
 Presidente de Huawei Norte	17128
 Presidente de Moçambique Filipe Nyusi	3048,1663,36,1071,200
 Presidente. ARTIGO	11528
+Presidente. Além	18788
 Presidente. Artigo	12823
+Presidente. Nessa	18753
 Presidentes	11393,168,4468,842,232
 Presidentes Parlamento Nacional	4209
+Presidentes da República	18751
 Presidentes de Comunidades	16925
 Presidential	958,812,7,992,224,1595,9,12,2843,98,2095,512,156,466,257,179,74,697,150,65,98,39,12,21,42,98,57,30,307,1,406,2,104,54,231,53,731,233,205,46,85,280,343,23,23,202,903,195,203,13,182,369,423,221,23,72
 Presidential AI Scholarships	4528,7984
@@ -1899,10 +1919,10 @@ Presiding	4768,505,6431,2348,357,4027
 Presiding Judge	10960
 Presiding Officer	13387,204,4868
 Presiding Officers	10049,1240,7170
-Presidir	13,11422,14,4463
+Presidir	13,11422,14,4463,2839,49
 Presidium	1554
 Presido	16865
-Presidência	2401,4123,2747,719,1416,163,1264,2617,462
+Presidência	2401,4123,2747,719,1416,163,1264,2617,462,2860,21,62
 Presidência da CNE	11561
 Presidência da República	5046,7787,3189,354
 Presidência da República. Segundo	12792
@@ -1932,13 +1952,15 @@ Prosperity Vice Presidencies	10977
 Prosperity Vice Presidency	11149,1935,675,2087
 Président LE PRESIDENT DE LA TRANSITION	17861
 Public Relations SERVICOM Presidency	18205
-Publique-se O Presidente da República	15380,146
+Publique-se O Presidente da República	15380,146,3226
 Publique-se. Competência O Presidente da República	15450
 Publique-se. O Presidente da Assembleia Nacional	539,14938
-Publique-se. O Presidente da República	14,1,524,10,2970,7228,2,6,1,602,5,21,4,21,16,94,1,7,3,371,410,461,2586,1,26,6,1,4,37,7,64,22,46,340,177,287
+Publique-se. O Presidente da República	14,1,524,10,2970,7228,2,6,1,602,5,21,4,21,16,94,1,7,3,371,410,461,2586,1,26,6,1,4,37,7,64,22,46,340,177,287,2374,2,1
+Publique-se.- O Presidente da República	18749,9,40
 QUALITE LE PRESIDENT DE LA REPUBLIQUE	17821
 Qasr Al Watan Presidential Palace	17459
 Quit Presidential Race	2355,176,4,1,56,3,339,96,901,1006,1761,673
+R I O PRESIDÊNCIA DO CONSELHO	18772
 RE ELECTION AS PRESIDENT	15052
 REGIONAL LEADERSHIP His Excellency the President	14566
 RELATED ARTICLESMORE FROM AUTHOR President Bio	18522
@@ -1966,7 +1988,7 @@ Recurrent Engagement. President	1777
 Recurrent President	1777
 Regional Integration and Development The President	10321
 Regional President	2310,6807
-Regional Vice President	969,295,20,583,1022,673,42,2935,126,4103,196,416,37,132,11,279,16,50,19,41,211,605,550,1,127,275,8,1,93,20,5,595,481,39,88,74,52,234,67,20,4,3,35,68,37,1,2,2,39,29,12,39,187,14,49,112,240,14,524,27,3,489,17,391,13,100,236,95,8,324
+Regional Vice President	969,295,20,583,1022,673,42,2935,126,4103,196,416,37,132,11,279,16,50,19,41,211,605,550,1,127,275,8,1,93,20,5,595,481,39,88,74,52,234,67,20,4,3,35,68,37,1,2,2,39,29,12,39,187,14,49,112,240,14,524,27,3,489,17,391,13,100,236,95,8,324,140,12,32,16
 Regional Vice President Iffath Anwar Sharif	11924
 Regional Vice President for Eastern and Southern Africa	6539
 Regional Vice President of Sales	5528
@@ -1975,6 +1997,7 @@ Relations SERVICOM PRESIDENCY Office	11951
 Remarks of President Halla Tómasdóttir of Iceland	8628
 Renewed Hope Agenda of President Bola Ahmed	8980,1083,1918,45,23,6081,89
 Renewed Hope Agenda of President Bola Tinubu	10156
+Representante da Presidência da República	18760
 Representing His Excellency President Dr. Julius	18524
 Representing President Joseph Nyuma Boakai Sr	10405
 Representing Senate President Godswill Akpabio	4690
@@ -2129,6 +2152,7 @@ Suivi-Evaluation LE PRESIDENT DE LA REPUBLIQUE	17841
 Supprimé. PRÉSIDENCE DE PRESIDENCY	15999
 Sutherland Egypt Concentrix Egypt President Amr	11162
 System PDU Presidential Delivery Unit PO	13005
+SÃO TOMÉ E PRÍNCIPE PRESIDÊNCIA	18772
 TABLEAUX MOT DU PRESIDENT INTRODUCTION I	16327
 TAYE ATSKE SELASSIE PRESIDENT	7538,4688,1798
 TEXTES GENERAUX PRESIDENCE DE LA REPUBLIQUE	16274,182
@@ -2160,6 +2184,7 @@ Trump and Chinese President Xi Jinping	17802
 Tsedey Bank President Yohannes Ayalew	11741
 Tshokoma Training and Consulting. President Cyril Ramaphosa	8598
 Téla Nón O Presidente da Assembleia Nacional	5818
+Título II Presidente da República Artigo	18751
 U.S. President	17736
 U.S. President Donald Trump	5440,3333,1956,7073
 U.S. President Donald Trump and Chinese	8014
@@ -2213,7 +2238,7 @@ VOL PRESIDENTIEL	17006
 VOLET LE PRESIDENT DE LA REPUBLIQUE	17820
 Vajpayee and President Mugabe	13562
 Vendor. President Bio	18471
-Venerando Juiz Conselheiro Presidente	11473
+Venerando Juiz Conselheiro Presidente	11473,7313
 Venerando Presidente	10750
 Viabilidade Financeira Presidencial	10750
 Vice Chair and President of Microsoft	2525
@@ -2349,6 +2374,7 @@ World Bank Vice President for Eastern and Southern	14276
 World Bank's Development Economics Vice Presidency	10977
 World Health Organization Regional Vice President	10829,6067
 Wrongdoing President Kagame	4942,664,283,454,183
+Wuando Borges Castro de Andrade Ministro da Presidência	18773
 X. The President	6198
 Yaya GOLOGO LE PRESIDENT	18003
 ZCSA Cites Tanzania Vice President Report	14237

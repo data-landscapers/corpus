@@ -67,6 +67,7 @@ Billion Nominal Revenue Growth Inflation Rate	14985
 Billion Revenue	17723
 Billion' Revenue Drive	11710
 Bissau Revenue Authority	11550
+Bitu Rever	18797
 Blue Book Estimates of Revenue and Expenditure	362
 Bn. Fixed Service and IoT Revenue	6100
 Board Gambia Revenue Authority	16968
@@ -175,6 +176,7 @@ DNRE National Directorate of State Revenue	11965
 DPI Readiness and Intelligent Revenue Authorities	3735
 DRM Domestic Revenue Mobilization	14929
 DRM Domestic Revenue Mobilization E&S Environmental	15661
+DRM Domestic Revenue Mobilization ODA Official	18851
 Data Revenue Growth Mobile	17239
 Data Revenue Share Mobile	17239
 Data Services Revenue E9	12395
@@ -201,6 +203,7 @@ Distributed Power and Energy Services Revenue	4896
 District Local Revenue	16163
 Division of Revenue Bill	11289
 Domestic Revenue	13122,3889,246
+Domestic Revenue Administration	18825
 Domestic Revenue Difference	5655
 Domestic Revenue Effort	1828
 Domestic Revenue Increased	17216
@@ -365,6 +368,7 @@ Hon. Reverend Aino Kapewangolo. The Policy	12923
 Hospital Revenue General Services	12976
 Huambo. Revelou	7585
 I. IMPOSITION DU REVENU GLOBAL	15534
+I. Revenue Administration	18823
 IAPs Average Revenue Per User	6000
 IAPs Revenue	6000
 ICT Sector Revenues	14897
@@ -654,7 +658,7 @@ OPERATING COST CATEGORY CAPEX REVENUE	3862
 OPERATING REVENUES	15411
 OPTIMISING REVENUE COLLECTION	12951
 OVERALL REVENUE PERFORMANCE	14985
-Oil Revenue	10997
+Oil Revenue	10997,7800
 Oil Revenue Differential Financial Reserve	10779
 Oil Revenue Stabilization Account	3583
 Oil Revenue Stabilization Account.347	3583
@@ -792,7 +796,9 @@ Reveals	7345
 Revegetating	17114
 Revelación	16855,110
 Revelations	2742,1342
-Revelação	6970,3807
+Revelação	6970,3807,7981
+Revelem	18800
+Revelia	18761
 Revelou	5542,1624
 Revenant	3591,3625,132,26,1144,1300,6183,98,70,212,364,1421
 Revenda	11520
@@ -804,7 +810,7 @@ Revenge Pornography Child Pornography and Related Offences	18675
 Revenir	7078
 Revenons	3157
 Revente	998,15617
-Revenu	737,1207,532,11296,1600,83,252,292,1486,460,27,344
+Revenu	737,1207,532,11296,1600,83,252,292,1486,460,27,344,441
 Revenu Avoirs Inchangé Augmenté Diminué Inchangé	737
 Revenu Maximum	10975
 Revenu Maximum Autorisé	10975,7347
@@ -818,7 +824,7 @@ Revenu des Personnes Physiques	6954,9045
 Revenu des Personnes Physiques IS Impôt	10712
 Revenu des Personnes Physiques Impôts	16328
 Revenu des Valeurs Mobilières	2342
-Revenue	236,337,201,150,89,350,271,194,116,52,761,294,110,13,236,77,50,46,279,36,504,161,265,68,228,223,186,122,214,131,20,119,746,155,387,221,223,26,10,5,124,88,1,283,22,240,115,58,270,526,96,24,48,132,38,241,117,146,258,23,1,2,10,18,63,14,90,37,4,130,3,2,4,58,13,20,4,27,9,198,486,21,10,76,114,32,25,89,73,105,422,29,5,20,66,2,9,69,192,101,3,11,32,163,30,214,261,56,339,183,29,25,58,77,33,56,12,7,62,82,21,113,337,40,43,23,27,6,32,134,600,195,114,135,2,3,5,33,94,34,70,26,15,7,17,229,204,41,121,24,97,196,31,227,22,22,12,108
+Revenue	236,337,201,150,89,350,271,194,116,52,761,294,110,13,236,77,50,46,279,36,504,161,265,68,228,223,186,122,214,131,20,119,746,155,387,221,223,26,10,5,124,88,1,283,22,240,115,58,270,526,96,24,48,132,38,241,117,146,258,23,1,2,10,18,63,14,90,37,4,130,3,2,4,58,13,20,4,27,9,198,486,21,10,76,114,32,25,89,73,105,422,29,5,20,66,2,9,69,192,101,3,11,32,163,30,214,261,56,339,183,29,25,58,77,33,56,12,7,62,82,21,113,337,40,43,23,27,6,32,134,600,195,114,135,2,3,5,33,94,34,70,26,15,7,17,229,204,41,121,24,97,196,31,227,22,22,12,108,215,28
 Revenue Accounting	12491
 Revenue Accounts	17030
 Revenue Administration	1155,673,9312,1360,448,676,3344,1520,12,77
@@ -915,6 +921,7 @@ Revenue Management	12951
 Revenue Management Budget	11939
 Revenue Management System	14830
 Revenue Measures	13122,3983
+Revenue Measures and Yields	18823
 Revenue Mobilisation	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,5988
 Revenue Mobilisation Absence of Crime	10835,3,130,902,16,466,1,135
 Revenue Mobilisation Allocation and Fiscal Commission	11976
@@ -984,6 +991,7 @@ Revenue Water O&M Operation and Maintenance OHS	15659
 Revenue Year	10793
 Revenue Yield	13053
 Revenue and Approximately	16412
+Revenue and Border Authorities	18797
 Revenue and Customs	17367
 Revenue and Customs Authority HR Frequently Asked	12500
 Revenue and Employment	10763
@@ -1021,7 +1029,7 @@ Revenus Maximum Autorisé	18322
 Revenus Non Salariaux	2476
 Revenus Salariaux	2476
 Revenñus	15999
-Rever	2816,1330,1517,5894,3919,218
+Rever	2816,1330,1517,5894,3919,218,3085,22
 Reverend Chris Nissen	10453
 Reversal	3503,7290,1162
 Reversal of Last Year's Court Ruling	12227
@@ -1145,16 +1153,18 @@ Tanzania’s Medium-Term Revenue Strategy	10064
 Taux de Taux de Revenu Taux	737
 Tax Collection and Revenue Management System URL	13429
 Tax Kenya Revenue Authority	14591
-Tax Revenue	1828,3827,5215,127,2056,69,502,1361,2026,198,26,268
+Tax Revenue	1828,3827,5215,127,2056,69,502,1361,2026,198,26,268,1322
 Tax Revenue Appeals Act	6921
 Tax Revenue Collections1	12500
 Tax Revenue Composition	10997
+Tax Revenue Contributors Registered	18792
 Tax Revenue Domestic	5655
 Tax Revenue In The Republic	1828
 Tax Revenue Performance	13053
 Tax Revenue System	18577
 Tax Revenue The Ministry of Finance and Economic	17216
 Tax Revenues	10819,4166
+Tax Revenues Collected	18825
 Tax and Non-Tax Revenue	13122
 Tax and Other Revenue	14985
 Tax and Revenue Management System	9253,144,3094,18,864,56

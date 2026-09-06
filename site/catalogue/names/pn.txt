@@ -47,6 +47,7 @@ COPIL. Le PNDIS II	13306
 Car- Diseases Pneumonia	12151
 Car- Pneumonia	12151
 Cardiorespirato- Pneumonia	12151
+Carla Neto PNUD	18861
 Causes Of Death Pneumonia	12151
 Ce PNDIS II	13306
 Ce PNE	15799
@@ -95,6 +96,7 @@ Equipment and Materials for PNAD. Os	8474
 Esquadra da PN	15520
 Estratégia de Implementação da PNPS	11547
 Etat PNDES Plan	16620
+Evolução da Pneumonia	18768
 FAQ PNARDI	2975
 Finance Inclusive PNUD Programme des Nations Unies	10965
 Financement PNDTIC	13290
@@ -186,6 +188,7 @@ National PNLS	16422
 National Program for PNPS Development Participation	10964
 National de Développement Rural PNDSE Programme National	17907
 National de Développement Sanitaire PNDIS Plan National	13306
+Nações Unidas PNUD Programa	18783
 Ngoyo PNR	15659,310
 Nouvelle PNDTIC	13290
 O PNAGIA	11371
@@ -232,7 +235,9 @@ PNA Parc National	17907
 PNA Plan	15724
 PNACC	15724
 PNACC Plan	15724
+PNACLM	18795
 PNADT	18324
+PNAECLM	18795
 PNAEPI	8891
 PNAEPI-2020-2027.aspx	8891
 PNAGIA	10775,596
@@ -335,6 +340,7 @@ PNDS Plan	15724,2119
 PNDS Plan National de Développement Informatique	13341
 PNDS Plan National de Développement Sanitaire	18286
 PNDS Plano Nacional de Desenvolvimento Sanitário PNUD	11376
+PNDS Plano Nacional de Desenvolvimento da Saúde SIDA	18783
 PNDS Principes de Protection des Données PNPE Programme	15583
 PNDS Quarterly Administrativ	10829
 PNDS. Ce	15720
@@ -414,6 +420,7 @@ PNN Plan	14666
 PNN Plan National	643
 PNN and PNDIS II	14666
 PNN2. KEY	5093
+PNOST	18760
 PNP Preventive Nutrition Package FFRAMED Medical	17906
 PNP. La Política Nacional de Población	1701
 PNPCR	18265
@@ -437,6 +444,7 @@ PNSD Vendredi	2951
 PNSD-2024-2028-V41.pdf	14666
 PNSFR	10936
 PNSFR Programme National de Sécurisation du Foncier Rural	10876
+PNSTP O Fundo da População	18782
 PNTHA	15685
 PNTIC	13290,4655
 PNTL Programme	17843
@@ -459,6 +467,7 @@ PNUD Guinea Ecuatorial. El Ministro de Sanidad	16979
 PNUD Guiné-Bissau	17374
 PNUD Guinée	16683
 PNUD Implementation of SDGs PNUD Ministère	15500
+PNUD Katarzyna Wawiernia	18786
 PNUD Mali	17964
 PNUD Mali Désormais	17964
 PNUD Mali Un	17964
@@ -470,15 +479,17 @@ PNUD Niger Vers	18180
 PNUD Parlamento	758
 PNUD Partager Facebook X WhatsApp E-mail	16527
 PNUD Pourcentage	15720
-PNUD Programa	16898
+PNUD Programa	16898,1862,19
 PNUD Programme des Nations	15961
 PNUD Programme des Nations CREDOS Santé	17845
 PNUD Programme des Nations Unies	15474,106,144,845,114,1160
 PNUD Renforcer	10965
 PNUD République du Congo. Cette	9619
+PNUD São Tomé	18786
 PNUD URL	16310
 PNUD USAID	15724
 PNUD and UNGE Technologies and AI for UNGE	16942
+PNUD de São Tomé	18769
 PNUD-GEF	17147
 PNUD-RDC En République Démocratique du Congo	15783
 PNUD. Además	16898
@@ -492,6 +503,8 @@ PNUD. Dans	10492
 PNUD. Par	10965
 PNUD. Sendo	11537
 PNUD. Si	15668
+PNUD. Uma	18819
+PNUD.29 CAPACITAÇÃO E SENSIBILIZAÇÃO	18796
 PNUDCameroun	16593
 PNUER	18316
 PNVBG	17845,101
@@ -520,6 +533,7 @@ Plan National de Développement Agricole PNDR Plan	17907
 Plan National de Développement PNUD	15848
 Plan National de Développement Sanitaire PNLP	15685
 Plan National de Développement Sanitaire PNLS	15423
+Plano Estratégico da PNSTP	18782
 PnK Published	13904
 Pname	12577
 Pnarso	15694
@@ -532,9 +546,10 @@ Pneumatic	13385,1642
 Pneumo	10780,6155
 Pneumococcal Conjugate Vaccine	14742
 Pneumocoque	13300
-Pneumonia	12138,13,4784
+Pneumonia	12138,13,4784,1822
 Pneumonia Respiratory	12151
 Pneumonia Road Traffic	12151
+Pneumonie	18757
 Pneus	17100
 Pnge Kayonza District Ile Bugarura Bwira	12413
 PnrordowedxtuhrcoefrsroePmrbiyc2e80I.2n80dpetexhrr	11152
@@ -579,6 +594,7 @@ Senegal’s PNBSF	18301
 Sida PNP	13377
 Sida PNRCCH	15475
 Sida PNS	15423,262
+Sistema de Informação da PNSTP	18782
 Social PNDES	737
 Social PNSAN Politique Nationale de Nutrition PPBA	643
 Sociale PNEDD	18118

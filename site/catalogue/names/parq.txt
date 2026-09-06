@@ -17,6 +17,9 @@ Parque	12842,2842,448
 Parque Industrial de Topuito	10083
 Parque Nacional de Malabo	4209,12880
 Parque Nacional de Malabo Sección	4209
+Parque Natural	18760
+Parque Natural Obo de São Tomé	18760
+Parque Natural Obô de São Tomé	18760
 Parque Natural da Serra	15380
 Parque Solar	16132
 Parque Tecnológico	2281,1277,11918,208,5,457,799
@@ -30,6 +33,9 @@ Parque de Emergencias de Mbini Mbini	4209
 Parque de Emergencias de Sampaka Malabo Malabo	4209
 Parques	11367,4317
 Parques Nacionales	4209
+Parques Naturais	18760
+Parques Naturais Obo de São Tomé	18760
+Parques Naturais Obô de São Tomé	18760
 Parques Tecnológicos	16251
 Parques Tecnológicos da Praia	1265,683,14303
 Parques de Campismo	11458
@@ -44,3 +50,4 @@ SANIDAD PARQUE Cuentas CONCEPTO	4209
 SEGUNDO DIRECTIVO PERSONAL Y SANIDAD PARQUE	4209
 TURÍSTICO PARQUES	4209
 Transf. Parque de Bomberos	4209
+Wilder da Costa Carvalho Parque Natural Obô	18760

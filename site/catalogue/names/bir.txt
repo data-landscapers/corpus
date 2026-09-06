@@ -103,6 +103,7 @@ Bird's Peter Swire	8773
 BirdLife Data Zone. BirdLife International	16996
 BirdLife DataZone. Retrieved	16996
 BirdLife International	16996
+Birdelife Internacional	18760
 Birds	1988,15055
 Birdwatching	8550
 Birembo and Shango	12358
@@ -149,7 +150,7 @@ Birth Asphyxia	12151
 Birth Asphyxia Asphyxia	12151
 Birth Attestation	10765,10
 Birth Birth Order Previous Birth Interval	18441
-Birth Certificate	6392,3642,231,500,10,37,1404,1,1,73,46,973,1452,2079,19,1592,18
+Birth Certificate	6392,3642,231,500,10,37,1404,1,1,73,46,973,1452,2079,19,1592,18,340
 Birth Certificate Access Changes Lives	12227
 Birth Certificate No	14713
 Birth Certificate Number	13477
@@ -492,6 +493,7 @@ National ID Birth	12216
 National ID Birth Death Resident	12241
 National IDs and Birth Certificates	13080
 National Strategy for Birth Registration	10765,10
+National Strategy for Permanent Birth Registration	18777
 Non-Citizen Birth Certificates	12496
 Notices of Birth	11986
 Notification of Birth	12226,2488,1,3987
@@ -537,7 +539,7 @@ Registrar of Births and Deaths	12523,762
 Registrar-General of Births and Deaths	13286,29
 Registrar-General of Births and Deaths for Zambia	13285
 Registration Personnel Birth	16860
-Registration of Birth	12496
+Registration of Birth	12496,6314
 Registration of Births	12944,61
 Registration of Births and Death Act	12151
 Registration of Births and Deaths	5533,6444,9

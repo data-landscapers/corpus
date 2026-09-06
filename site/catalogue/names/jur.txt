@@ -18,6 +18,7 @@ Afrique Centrale DAJR Département des Affaires Juridiques	11944
 Além da Jurisdição Nacional	5791
 Areas Beyond National Jurisdiction	8681
 Asesor Jurídico	4209
+Assessores Jurídicos	18796
 Assessoria Jurídica	15503
 Assistance Juridique	15585
 Association des Femmes Juristes du Burundi	13635
@@ -86,6 +87,7 @@ De Jure Population	12655
 Departamento Jurídico	11449,6121
 Diagnóstico Estratégico Jurídico	11448
 Diagnóstico Jurídico-Institucional	11456
+Dimensão Jurídica	18796
 Directeur Central Adjoint des Affaires Juridiques	16175
 Directeur Général des Affaires Juridiques	16381
 Directeur Juridique	16639
@@ -97,6 +99,10 @@ Direction des Affaires Juridiques	10975,3456,1000,338,945
 Director. O Gabinete Jurídico	167
 Direitos Humanos Jurisdição Comum	10752
 Documentation Juridique	15936
+Documentação Jurídica	18753
+Documentação Jurídica Licença	18753
+Documentação Jurídica. Na	18753
+Documentação Jurídica. Projecto de Licença	18753
 Dr. Jur	9491
 Département Juridique Département Système	17866
 ECONOM. JURIDICOS CENTRALES TOTAL GENERAL ESTADO	4209
@@ -122,11 +128,14 @@ FISCALÍA DE JURIDICCIÓN MALABO LUBA ANTONIO	4209
 FORMATION AND JURISTIC PERSONALITY OF CLOSELY	3714
 FORME JURIDIQUE DU TITULAIRE	15394
 Faculté des Sciences Juridiques	17918
+Finalização da DOCUMENTAÇÃO JURÍDICA	18753
 Fiscal Jurisdicción Militar	4209
-Forma Jurídica	10753,6106
+Forma Jurídica	10753,6106,1916
+Forma Jurídica A Forma Jurídica	18775
 Formação Jurídica	10752
 Formc de I'Avis Juridique Destinatairc	15399
 Francine GAHIMBARE Emelyne JURURYIZA Florence GAHUNGU	13300
+Função Jurisdicional Artigo	18751
 Gabinete Jurídico	167
 Gabinete Jurídico GPCGC	11435
 General Jurisdicción Militar Secretario General Ministerio	4209
@@ -174,6 +183,8 @@ Jur River Activist	3212,2216,578
 Jurafsky	2816
 Jural	11956
 Juralvie Esther	15692
+Juramento Ao	18751
+Juramento Artigo	18751
 Jure Leskovec	18318
 Juridical	12146
 Juridicial	16855
@@ -235,7 +246,10 @@ Jurlic. T.ovoit MDIENSISPTERRoEGRDEAML'MECEOs NDOEMDIEE	15399
 Jurnal Hasil Penelitian	2093
 Jurnal Kependidikan	2093
 Jurnal Mantik	4432
-Juros	11435,97,486,5082
+Juros	11435,97,486,5082,1753
+Juros da Dívida	18798,55
+Juros de Mora A TESLA	18793
+Juros. XXV. Resultado Primário Ajustado	18798
 Jurvel Daci	15524
 Jury Management Offices	16943
 Jurídica	11518
@@ -322,7 +336,7 @@ REGIME JURÍDICO DOS POLOS DE DESENVOLVIMENTO	11443
 REGULAÇÃO DA IA NO ORDENAMENTO JURÍDICO	3519
 Rapports Textes Juridiques	3675
 Reference Jurg	8436
-Regime Jurídico	1948,489,8928,17,1,1,1,5,40,2,3,27,5,52,382,3479,8,8,44,37,49,530
+Regime Jurídico	1948,489,8928,17,1,1,1,5,40,2,3,27,5,52,382,3479,8,8,44,37,49,530,2696,9,3,20,14,33,22
 Regime Jurídico Aplicável	744
 Regime Jurídico Assim	15526
 Regime Jurídico Especial	16022
@@ -349,6 +363,7 @@ Regime Jurídico de Acesso	11448
 Regime Jurídico de Cibersegurança	15504
 Regime Jurídico de Organização	15477
 Regime Jurídico de Protecção de Dados Pessoais	12813
+Regime Jurídico de Qualificação	18781
 Regulatory Roaming Frameworks Jurisdiction Regulatory	17212
 Relatório de Diagnóstico Jurídico Institucional	11456
 Renforcement du Cadre Juridique Relatif	15585
@@ -393,3 +408,4 @@ TÍTULO III DEL RÉGIMEN JURÍDICO	16855
 UN CADRE JURIDIQUE PROTECTEUR POUR	2695
 Veille Juridique	16175
 Veille Juridique Chef de Service	16099
+XVII. Taxa de Juro de Referência	18798

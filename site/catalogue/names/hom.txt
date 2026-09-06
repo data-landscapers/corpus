@@ -149,6 +149,7 @@ DEPARTMENT OF HOME AFFAIRS AND BMA	11285
 DEPARTMENT OF HOME AFFAIRS C	6512
 DEPUTY As the Deputy Minister of Home Affairs	11986
 DEPUTY MINISTER OF HOME AFFAIRS	11986
+DES HOMMES DANS LES DISTRICTS	18757
 DES QUESTIONNAIRES SUPPLÉMENTAIRES. HOMME	13300
 DG DEPARTMENT OF HOME AFFAIRS	11986
 DHA DEPARTMENT OF HOME AFFAIRS	11986
@@ -162,6 +163,7 @@ DHIS2. Home	3791
 DILMANYALE NURSING HOME LIMITED Data Controller	7167
 DIRECTOR-GENERAL OF HOME AFFAIRS	11986
 DIVINE HOMES RESORT LIMITED Data Controller	7167
+DOS HOMMES NOS DISTRITOS	18757
 DUNTOW NURSING HOME LIMITED Data Controller	7167
 Data Acquisition SHS Solar Home Systems	12399
 Data Processor INST-6332844F250 HOMABAY Kenya	7167
@@ -309,6 +311,7 @@ HOME. SCHEDULE AN APPOINTMENT	17127
 HOMEGROWN	16942
 HOMELESSNESS	11192
 HOMENAGEM E REFLEXÃO	11473
+HOMENS	18757
 HOMINDEVE MONDE RECHERCHES	15848
 HOMME	13300
 HOMME ADULTE	13300
@@ -318,11 +321,12 @@ HOMME PLUS NE CONNAÎT PAS L'ANNÉE	13300
 HOMME SEULEMENT ANNÉE	13300
 HOMME SÉLECTIONNÉ HOMME POUR CETTE SECTION	13300
 HOMME SÉLECTIONNÉ POUR LE MODULE SUR	13300
-HOMMES	13300
+HOMMES	13300,5457
 HOMMES ET FEMMES Prévalence du VIH	13300
 HOMMES FEMMES MENAGE S	13390
 HOMMES FEMMES MENAGES	13390
 HOMMES Groupe	13300
+HOMMES MULHERES	18757
 HOMMES Propre	13300
 HOMMES Résidence	13300
 HOMMES Soins	13300
@@ -504,12 +508,17 @@ Homeless Number Liberia	16921
 Homeless Total Number Percent Number	16921
 Homeless Total Number Regular Number Institutional	16921
 Homelessness	11192,3481
-Homem	14,9385,2175,3770,133
+Homem	14,9385,2175,3770,133,3274,11
+Homem Mulher Pré-escola	18762
+Homem Mulher Tabela	18775
+Homem Mulher Urbano Rural Menos	18762
 Homem Secundário	10777
 Homem. ARTIGO	11513
+Homem. Artigo	18751
+Homem. Nestes	18751
 Homem. Para	10777
 Homemakers	14815
-Homens	4044,6716,17
+Homens	4044,6716,17,7980,5
 Homens Características	10777
 Homens Casados	10777
 Homens Contra Cônjuges	10777
@@ -552,7 +561,7 @@ Homme Emile DOUMBA Le Ministre du Budget	15371
 Homme Erlyne Antonela NDEMBET	15597
 Homme Erlyne Antonella NDEMBET	15533,27
 Homme FMI	15848
-Homme Femme	737,12563,90,52
+Homme Femme	737,12563,90,52,5360
 Homme Femme Adulte Mixte Jeune Adulte	13390
 Homme Femme Crédits	13390
 Homme Femme Ecocash Nombre	13390
@@ -588,6 +597,7 @@ Homme Femme Total Femme Femme	13300
 Homme Femme Total S2Q07 Quelles	6959
 Homme HCA Haut Conseil	18310
 Homme La Guinée-Bissau	16633
+Homme M Sexo	18757
 Homme Medecins	18105
 Homme Ministère	15712
 Homme OMC	15848
@@ -613,9 +623,10 @@ Homme. Elle	429,10397,6614
 Homme. Il	14412
 Homme. L’ensemble	11067
 Homme. Vu le Décret	17841
-Hommes	3670,7177,27,49,52,2325,29,61,1180,886,44,99,2033,382,265,7
+Hommes	3670,7177,27,49,52,2325,29,61,1180,886,44,99,2033,382,265,7,471
 Hommes Adulte	13390
 Hommes Adultes Sous-total	13390
+Hommes Anos	18757
 Hommes Clients	13390
 Hommes Crédits	13390
 Hommes Effectif	13300
@@ -692,6 +703,7 @@ KT PRESS Home	3245,11,1686,664,283,454,183
 Kiambu Laikipia Siaya Kisumu Homa Bay	7869
 Kisii Homa Bay Bung	12151
 Kisii and Homa Bay	2615
+Km2 Les Hommes	18757
 L'HOMME HOMME SÉLECTIONNÉEPOUR LE MODULE SUR	13300
 LES HOMMES	13300
 LES HOMMES ET LES FEMMES DERRIÈRE	16633,1215
@@ -845,6 +857,7 @@ National Payment Systems Home National Payment	12390
 National Treasury and Presidency Home Affairs Bill	5533
 Ndapandula Vanyika The Ministry of Home Affairs	7742
 Negligent Homicide	16935
+Nenhum Básico Secundário Percentagem Mulher Homem	18762
 Netherlands Ministry of Home Affairs	12972
 Niveau Hommes Femmes	18286
 Niveau National Femme Homme	13390
@@ -867,6 +880,8 @@ Parliament Draft Home Affairs Bill	5533
 Parliament Home Affairs Bill	5533
 Participação de Homens	11362
 Patience Makwele Home	14382
+Percentagem Idade Homens Mulheres Distribuição	18762
+Percentagem Idade Homens Mulheres Inquérito de Indicadores	18762
 Phone Home	4842
 Physical Security Standards HANIS Home Affairs	11986
 Plan. The Ministry of Home Affairs	12337
@@ -892,12 +907,14 @@ RedeVinti4.aspx Rede Vinti4 Homepage	15445
 References Republic of South Africa. Department of Home	6512
 Register Login Home	12486
 Registre National des SIH Homologués	16441
+Região Família Mulheres Homens Criança	18762
 Regulations. The Department of Home Affairs	6512
 Renewed Hope National Home Grown School	2318
 Representatives DEPARTMENT OF HOME AFFAIRS	11986
 Republic of South Africa. Department of Home Affairs	6512
 Residential Care Home Act	14742
 Residential Care Home and Private Health Institutions	14828,3
+Responsável Máximo Homem Mulher Gráfico	18775
 Result Home ALL NEWS TALKING POINT	4619
 Result View All Result Home Business	5774,1047,222
 Result View All Result Home News	4885,49,187,1152,547
@@ -914,6 +931,7 @@ Région Homme Femme Ensemble Boucle du Mouhoun	15557
 Région Homme Femme Total Adamaoua	15599
 SA Home Affairs	5326
 SECTION HOMMES ADULTES	13300
+SECÇÃO Homens Mulheres	18775
 SHS Solar Home System	18614,6
 SI HOMME	13300
 SIDA Homens	10760

@@ -45,6 +45,7 @@ BILLS REPORT STAGE The Geological and Minerals	13387
 Background The Liberia Institute of Statistics and Geo-	17127
 Based Violence GMIS Geological and Mineral Information	2889
 Bay Shoprite Thembalethu George Shoprite Vredenburg	8999
+Belmiro Capela. Os Serviços Geográficos	18848
 Benjamin Rosman and George Konidaris	17700
 Biblioteca Geológica	1701
 Biological Diversity GIS Geographic Information System	15129
@@ -67,19 +68,25 @@ Centro de Geodados	6610
 Chief Justice George Mcheche Masaju	17618
 Chris Hani Baragwanath Academic Hospital George	11248
 Christian Georges	16413
+Cobertura Geográfica	18768
 Communication World Geodetic System Management	1009
 Communications Minister Samuel Nartey George	8765
 Community Recovery and Local Governance Geographical	14925
 Configuração Geométrica	11384
 Conrad C. Daly and Tina George Karippacheril	1217
 Consumer GIS Geographic Information System HR	14965
+Contexto Geo-Demográfico	18768
+Contexto Geo-Demográfico Figura	18768
+Contexto Geográfico	18768
 Coordenadas Geográficas	11405
+Coordenadas Geográficas Coordonnée Geographique R. Autónoma	18757
+Countries Geographical Identifier Sao Tome and Principe	18809
 Country Snapshot Geography The Federal Democratic	12500
 Coverage Geographic Coverage	13084,675,1861,226,2799,79
 Coverage Geographic Coverage National	15024,2141,1360,42,3
 Coverage Geographic Coverage National Coverage	15843,822,380,880
 Coverage Geographic Coverage National Coverage Producers	15844
-Coverage Geographic Coverage National Universe All	10862
+Coverage Geographic Coverage National Universe All	10862,7976
 Croatia Czech Republic Ecuador Georgia Hungary	10764
 Cronin and George	17773
 Curriculum Coordinating Committee. Geography	12975
@@ -107,6 +114,7 @@ Digital Geographies	226
 Digital Geography and Society	8185,1047
 Digital Technology and Innovation Samuel Nartey George	3543,4744
 Digital Technology and Innovations Samuel Nartey George	3550
+Direcção de Serviços Geográficos	18760
 Direção de Geofísica	15503
 Direção-Geral de Geologia	11527
 Distribution of Risk Across Geography and Work Mode	16266
@@ -294,7 +302,7 @@ Geofisica de São Tomé	11553
 Geoforum	9739,8034
 Geofrey O	12138
 Geofísica	13,10755,604,24,1,40,4066
-Geografia	414,15358,1331
+Geografia	414,15358,1331,1676
 Geografia da Conectividade Até	9559
 Geografia1	15772
 Geografía	16875,94
@@ -361,6 +369,7 @@ Geographical Distribution of Bank Branches Regions	7763
 Geographical Distribution of Persons	12460
 Geographical Identifier	14456,510,836
 Geographical Identifier Ethiopia	14038
+Geographical Indication	18810
 Geographical Information	13978
 Geographical Information System	12369,1215,2075,310
 Geographical Information System GSMA	958
@@ -389,7 +398,7 @@ Geográfico	11430,1
 Geoid	15774,778,454
 Geojson	1187,797
 Geolocation	11892,149,4826
-Geologia	1265,10125,4382,1331
+Geologia	1265,10125,4382,1331,1657
 Geological Exploration Technology Institute	191
 Geological IP	4844
 Geological Investigations for Small-Scale Mining	16511
@@ -850,6 +859,7 @@ QGIS Sistema de Informação Geográfica Quântica RFB	17093
 QGIS and Geoserver	11941
 Qualifications Geography	13031
 Quantum Geographic Information System	14622
+R W3C Geolocation API Specification	18774
 Raluca Georgiana Golumbeanu ABBREVIATIONS AND ACRONYMS	15983
 Raluca Georgiana Golumbeanu Team Leader Senior	15983
 Rao and Georgi	8436
@@ -894,6 +904,7 @@ Senator George Akume	2382,1321,399,3459,1420,8590
 Service Description Under GEOGLAM	13094
 Servicio Geológico Nacional	9303
 Servicos Provinciais de Geografia	427
+Serviços Geográficos	18760,88
 Shar Tsav Geopark	15618
 Sir George	10313
 Sistema Integrado de Gestão Patrimonial Georreferenciado	16056
@@ -902,6 +913,7 @@ Sistema de Informação Geográfica	4040,4,7361,16,25,3,128,321,136
 Sistema de Referência Geográfica	11405
 Sistemas de Informação Geográfica	4979
 Situación Geográfica de Guinea Ecuatorial	16969
+Situação Geográfica	18757
 Snow and Cold The NASA Harvest GEOCIF	13094
 Society Libyan Society for Remote Sensing and Geographic	16916
 Society of Exploration Geophysicists	11405

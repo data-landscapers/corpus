@@ -21,6 +21,7 @@ ACTUAL Certificado de Actualización PE	4209
 ACTUAL Certificado de Actualización PE ACTUAL Certificado	4209
 ACTUAL Certificado de Comercio Certificado de Comercio	4209
 AECE Autorité Economique de Certification Electronique CP	15472
+AES R Certificado Digital X.509	18774
 AFFAIRS CARD INDEX SERVICE PIE CERTIFIEE	15999
 AGENCY CERTIFICATION Eritrea	13962
 AI ANSICE ANTIC CERT ECCAS EU	9616
@@ -143,7 +144,7 @@ Basic Education Certificate Examination	18461,51,66
 Basic Education Certificate Examinations	18455
 Basic Education Certification Examination BED	15796
 Bata and Malabo. Certain	16972
-Birth Certificate	6392,3642,231,500,10,37,1404,1,1,73,46,973,1452,2079,19,1592,18
+Birth Certificate	6392,3642,231,500,10,37,1404,1,1,73,46,973,1452,2079,19,1592,18,340
 Birth Certificate Access Changes Lives	12227
 Birth Certificate No	14713
 Birth Certificate Number	13477
@@ -317,6 +318,7 @@ CERT-MU Secured	14729
 CERT-MU The Mauritian Cybercrime Online Reporting	14750
 CERT-MZ	1228
 CERT-NG	4861
+CERT-STP	18788
 CERT. L'organisation	15643
 CERT.ao	4146,72
 CERT.tg	3866,4396,1208,1105
@@ -406,6 +408,7 @@ CIC Certified Public Accountant CISA Crude	17235
 CII. Le Certificat	17898
 CIVIL EVENT RECORDS AND CERTIFICATES Clause	12959
 COA Certificate of Airworthiness COHO Community Oral	2775
+COM CURSOS TÉCNICO-PROFISSIONAIS DE DUPLA CERTIFICAÇÃO	18814
 COMERCIO Certificado de Comercio	4209
 COMERCIO Certificado de Comercio C1 COMERCIO Certificado	4209
 COMERCIO Certificado de Comercio C1 Libreta	4209
@@ -417,6 +420,7 @@ CONDITIONS DE RETRAIT D’UN CERTIFICAT D’INVESTISSEMENT	17898
 CONFORME CERTIFIED TRUE COPY	15999
 CONFORME CERTIFIED TRUE COPY SECTION	10974
 CONPONME J CERTIFIED TRUE CO	15999
+CONTABILISTAS CERTIFICADOS	18845
 COPIE CERTIFIEE CONF CERTIFIED TRUE C	15999
 COPIE CERTIFIEE CONFONM CERTIFIED TRUE Ca	15999
 COPIE CERTIFIEE CONFORME	15999
@@ -447,7 +451,7 @@ Center for Media Studies and Peacebuilding CERT	5244
 Cer6ficated	16860
 Ceramic	13385,3550
 Cerapport	18427
-Cerca	795,3249,6713,830,5447,291,87
+Cerca	795,3249,6713,830,5447,291,87,1348,2,17
 Cercle	3520,5200,567,55,155,7227,1103,1,9,8,16,38,92,12
 Cercle République du Mali	17829
 Cercle de Abéïbara ABEI BARA	17828
@@ -533,6 +537,9 @@ Ceriificoh	15429
 Cerillion	2235,1304
 Cerimónia	5329
 Cerimónia de Assinatura da Convenção	17066
+Cerimónia de Encerramento da Formação	18804,3
+Cerimónia de Entrega	18844
+Cerimónia de Lançamento	18766
 Cerise	5022
 Cerist	15568
 Cerlificotion	15429
@@ -567,29 +574,34 @@ Certains EMF	11944
 Certains SF	14598
 Certainty	5487,6370,5001
 Certamen Miss Guinea	4209
+Certas Actividades	18775
 Certes	8891,1604,326,1278,1207,35,376,1825,41,429,621,1261,381,11,5
 Certi	4896
 CertiTrust	16170
-Certidão	10772,5,668,453,3,120,754,2583,1,195,441,1105
+Certidão	10772,5,668,453,3,120,754,2583,1,195,441,1105,1733,1,1
 Certidão Cadastral	11384
 Certidão Comercial	15995
 Certidão Comercial Online	12021
 Certidão Comercial Online Manuais de Utilizador	12021
 Certidão Identificação Predial	15470
 Certidão Narrativa Completa	10749,7
+Certidão Narrativa Completa de Nascimento	18752
 Certidão Nascimento	10765,10
+Certidão Negativa	18834,1
+Certidão Negativa de Dívida	18833
 Certidão Notarial	11435
 Certidão Predial	15995
 Certidão de Baptismo	10749,7
 Certidão de Casamento	10777,5218
 Certidão de Dívida Tributária	11435
 Certidão de Dívida Tributária CRF	11435
-Certidão de Nascimento	10765,7,3,2009,3211
+Certidão de Nascimento	10765,7,3,2009,3211,2839
 Certidão de Nascimento. Ou	10772
 Certidão de Perfilhação	15995
 Certidão de Quitação Fiscal	8731
 Certidão de Quitação Número	11532
 Certidão de Regularidade Fiscal	17100
+Certidão de Serviço	18834
 Certidões	11452,449,3457
 Certidões Cadastrais	11384
 Certidões São	11528
@@ -599,7 +611,7 @@ Certificaciones de Pagos	4209
 Certificación	16981
 Certificación de Productos	4209,12772
 Certificación de Productos URL	16981
-Certificado	794,9956,1,620,2,46,53,426,413,3044,121,279,621,495,34
+Certificado	794,9956,1,620,2,46,53,426,413,3044,121,279,621,495,34,1928,1
 Certificado Conciso	16859
 Certificado Digital de Teste	16220
 Certificado Electrónico	16855
@@ -626,12 +638,15 @@ Certificado de Conformidade	12829
 Certificado de Estudios Primarios	16864
 Certificado de Extravió	16871
 Certificado de Homologación	16855
+Certificado de Mérito	18849
 Certificado de Registo Comercial	11404
 Certificado de Registo Criminal	2688,3298,10009
 Certificado de Registo Criminal. Edição Nº	10752
 Certificado de Residência Fiscal	11435
 Certificado de Vacinação	15532
-Certificados	10752,667,1443
+Certificados	10752,667,1443,5973
+Certificados Atribuidos	18837
+Certificados Certidões	18835
 Certificados Concisos. Articulo	16859
 Certificados Digitais	1431,715,2317
 Certificados Electróni	16855
@@ -678,6 +693,7 @@ Certificate Expires	13068
 Certificate FCTA Federal Capital Territory Administration	11857
 Certificate Final.pdf	7210
 Certificate Fraud	18206
+Certificate Management	18777
 Certificate Management System	5983,963,11091
 Certificate Master	1940
 Certificate Of Registration	12397
@@ -771,7 +787,7 @@ Certificates of Recognition and Merit	7702
 Certificates of Registered Title	12605
 Certificates of Registration	9646,511,4579
 Certificates. Revocation	13951
-Certification	587,149,264,9,222,13,1098,1519,1690,114,71,57,639,504,119,493,1451,617,697,499,29,28,87,18,165,81,21,106,146,108,166,185,89,296,1,29,527,1,110,26,6,31,3,114,135,55,330,141,755,126,56,23,78,13,10,90,46,223,97,49,4,68,69,46,62,9,266,208,26,42,36,19,61,471,33,20,40,8,933,8,4,15,21,26,215,116,202,19,4,93
+Certification	587,149,264,9,222,13,1098,1519,1690,114,71,57,639,504,119,493,1451,617,697,499,29,28,87,18,165,81,21,106,146,108,166,185,89,296,1,29,527,1,110,26,6,31,3,114,135,55,330,141,755,126,56,23,78,13,10,90,46,223,97,49,4,68,69,46,62,9,266,208,26,42,36,19,61,471,33,20,40,8,933,8,4,15,21,26,215,116,202,19,4,93,241
 Certification Authorities	9880
 Certification Authority	1009,10175,1650,1176,730,1,11
 Certification Authority and Digital Trust Centre	2692
@@ -829,7 +845,7 @@ Certificats Annuels	15999
 Certificats Fonciers	13375
 Certificats Internationaux de Transhumance Nombre	3396
 Certificats de Nationalité	3045,12712
-Certificação	2816,703,2943,4957,25,577,770,3175,1137
+Certificação	2816,703,2943,4957,25,577,770,3175,1137,1650,84
 Certificação Artigo	6462
 Certificação Digital	7948,361,4501
 Certificação Digital.Ao	8308
@@ -941,6 +957,7 @@ Company Registration Certificate	13031
 Competency Certificates	14024
 Compliance Audit Returns Certificate	11956
 Compliance and Certification	4791
+Component CERT Computer Emergency Response Team	18777
 Comprehensive Agriculture Trade Programme. Certain	8550
 Comprehensive Qualification Certification System	15713
 Comprehensive Qualification Certification System AI	15713
@@ -1010,7 +1027,7 @@ Data Protection Certification	13381
 Data Protection Certified	15152
 Data Protection Compliance Certificate	12323,2180
 Dead Body Certificate	14045
-Death Certificate	12217,74,348,4221
+Death Certificate	12217,74,348,4221,1950
 Death Certificate Form	14045
 Death Certificate Issuing Authority	14045
 Death Certificate No	14713
@@ -1262,6 +1279,7 @@ Institute’s Certificate of Achievement	17235
 Institutions HSC Higher School Certificate ICT	14747
 Intangible Assets Certain	14736
 Integrated Modern Agricultural Morcellement Certificate	7845
+Integrated System for Certificate Management	18777
 Integration of Independent Certification Schemes	16843
 Intelligence BEC Basic Education Certi	18564
 Interim Digital Registration Certificate Understanding	13095
@@ -1380,7 +1398,7 @@ Maquette du Certificat Foncier Page	13375
 Market Differentiation and Certification	14818
 Market Differentiation and Certification Premium	14818
 Markets Authority CMC Cabin-Crew Member Certificate	2775
-Marriage Certificate	12291,2471
+Marriage Certificate	12291,2471,4048
 Marriage Certificate No	14713
 Marriage Certificates Available Fees	14045
 MauSign Certification Authority	14740
@@ -1465,6 +1483,7 @@ Number of Certificate of Naturalisation	12410
 Number of Certified Financial Educators	7763
 Number of Cervical	18627
 Number of Issued Certificates	12256
+O CERT-STP	18788
 O Certificado	10750,1,1560
 O Certificado de Avisadores Luminosos	15307
 O Certificats	15999
@@ -1539,9 +1558,12 @@ Paula Maria Cerutti ICR Main Contributor	15601
 Paula Maria Cerutti Jesse Jon Gerome	15601
 Payment for Certificate	12226
 Pedido Certidão Comercial	12021
+Pedido de Certidão Certidão de Registo	18834
+Pedidos de Certidões	18835
 People TRANCRAA Transformation of Certain Rural Areas	11197
 Permits and Certifications ARTICLE	15484
 Permits and Registration Certificates	12062,6124,31
+Personal Interviews CERC Contingent Emergency Response	18777
 Pesticides Cereals	17043
 Phytosanitary Certificate	1988
 PiE CERTIFIEE CON CERTIFIED TRUECOPY	15999
@@ -1560,6 +1582,7 @@ Primary Education KCSE Kenya Certificate of Secondary	2775
 Primary School Achievement Certificate	14815,17
 Primary School Leaving Examinations Certificate. Will	13477
 Primary Teacher Certificate	16852
+Private Investment Registration Certificate	18797
 Prize Giving Ceremony	14745
 Proactive Activities CERT-GH	775
 Procedural Certainty	12389
@@ -1645,6 +1668,7 @@ Préfet du Cercle de Yanfolila	17991,12
 Préfet du Cercle de Yangasso	17991,12
 Préfet du Cercle de Yorosso	17991,12
 Préfets de Cercle	18003
+Príncipe Confere Certificado de Mérito	18849
 Public Keys and Encryption Information CERT	775
 Public Private Partnerships Certification	14546
 Public Register of Testing Entities and Certified Software	5665
@@ -1666,6 +1690,7 @@ REASONS AT CERTAIN	11964
 RECOGNITION OF CERTIFICATION AUTHORITIES AND CERTIFICATES	16832
 RECOGNIZED CERTIFICATION AUTHORITIES	16832
 REGULATION OF SERVICE PROVIDERSAND CERTIFICATION AUTHORITIES	16839
+RELAÇÃO A ACIDENTE VASCULAR CEREBRAL	18875
 REPUBLIC A1ﬂAT OENERAŸ COIE CERTIFIBE	15999
 RESEAU MONDIAL DE CERTIFICATION SANITAIRE NUMERIQUE	16195
 RESULTATS AU CERTIFICAT D'ETUDE PRIMAIRE SESSION	10847
@@ -1743,6 +1768,7 @@ SME Certificate	13037
 SME Certification Model	13320
 SME' Certificate	12400
 SOC and CERT	1264
+SOCIEDADES CERTIFICADAS	18845
 SR.3147 and CERD	14751
 SSL Certificates The Department of E-Government	12917
 SSN. Certaines	10874
@@ -1825,6 +1851,7 @@ System Certification SALE OF STANDARDS Local	16900
 Systems Security Certified Practitioner	1940
 Systems Security Professional CISM Certified Information	18531
 Système Certificat	5063
+São Tomé. Cerca	18779
 T COPIE CERTIFIEE CONFORME	15999
 T-I21-A1 AI Qualification and Certification System Egypt	15713
 TAXE ENVIRONNEMENTALE SUR CERTAINS PRODUITS	15999
@@ -1876,6 +1903,7 @@ Training Certificates	13185
 Training Completion Certificates	12400
 Training and Certification	14225
 Training and Certification of Data Protection Officers	13381
+Transfer CERC Contingency Emergency Response Component	18809
 Transport Insurance Certificate	16737
 Travel Certificate	17174
 Treasury Cashier Office. Birth Certificates	12216

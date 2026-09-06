@@ -299,9 +299,11 @@ Coast Lower Eastern Lower Eastern Lower	7869
 Coast South Rift Nairobi Lower Eastern	7869
 Coast and Lower Eastern	7869
 Collaborative EA	14441
-Collect Earth	16875
+Collect Earth	16875,1885
 Collect Earth Online	15715,1339,86
+Collect Earth. Anexo	18760
 Collect Earth. Las	16875
+Collect Earth. Nº Nome Instituição Email	18760
 Collect Earth. Open Foris-Collect Earth	16875
 Columbia Center for International Earth Science Information	10759,78,1050,2,264,1,9,177,1
 Comité Eau	18315
@@ -413,7 +415,7 @@ Diaspora Citizens EAC Citizens	12164
 Dieng Financial Management EAWG1 Specialist	16922
 Difficult Easy Undecided Very Difficult Very	17149
 Digital Development Global Practice East and South	13722
-Digital Development Global Practice Eastern and Southern	1284,2278,2977
+Digital Development Global Practice Eastern and Southern	1284,2278,2977,12238
 Digital Earth Africa	345,714,8563,1172,408,1,1,1,1,1,1,31,168,2075,3445
 Digital Earth Africa Agriculture	11239,7140
 Digital Earth Africa Innovation Challenge	9561
@@ -828,7 +830,7 @@ EASTERN AFRICA REGIONAL DIGITAL	14910
 EASTERN AFRICA REGIONAL DIGITAL INTEGRATION PROJECT	13875,4760
 EASTERN AFRICA REGIONAL DIGITAL INTEGRATION PROJECT-	15055
 EASTERN AND SOUTHERN	13111
-EASTERN AND SOUTHERN AFRICA	2712,3867,254,95,4447,20,833,39,145,14,14,284,303,31,382,616,924,37,14,128
+EASTERN AND SOUTHERN AFRICA	2712,3867,254,95,4447,20,833,39,145,14,14,284,303,31,382,616,924,37,14,128,3633,25,34
 EASTERN AND SOUTHERN AFRICA ELECTION	10016
 EASTERN AND SOUTHERN AFRICA Estimated Appraisal	13787,1167
 EASTERN AND SOUTHERN AFRICA Financing	14015,2278
@@ -877,6 +879,7 @@ EAU ET ASSAINISSEMENT EAU	2342
 EAU ET ASSAINISSEMENT HYDROCARBURES En	2342
 EAU ET ASSAINISSEMENT Le Cameroun	15542
 EAU ET DE L’ENERGIE FIRST NATIONAL	15574
+EAU ET ENERGIE	18757
 EAU NON DISPONIBLE	13300
 EAU NON POTABLE	14488,1,1
 EAU TECHNOLOGIE ENVIRONNEMENT SA	16299
@@ -911,6 +914,7 @@ ECOWAS and East African Community	1264
 EGMA Early Grade Mathematics Assessment EGP	15604
 EGMA Early Grade Maths Assessment EGRA	13310
 EGRA Early Grade Reading Assessment EI	11560
+EGRA Early Grade Reading Assessment EMIS	18765
 EGYPRO EAST AFRICA LIMITED Data Controller	7167
 EGYPRO EAST AFRICA LIMITED Data Processor	7167
 EHRIS Electronic Easy Health Record Information	12379
@@ -954,14 +958,14 @@ Eanque	14479
 Eansmission	18457
 Earl Road	4896
 Earlbeam Plaza	3386
-Earlier	10,187,29,1300,116,53,130,18,44,16,170,211,241,148,2,124,275,190,68,10,166,180,62,9,343,30,5,34,30,26,202,643,428,80,16,1,168,41,326,64,94,55,32,261,25,9,236,42,366,55,54,29,59,56,63,11,8,57,82,57,33,327,38,16,27,13,123,75,87,23,50,121,92,101,9,135,167,74,178,39,1,185,247,97,289,179,102,451,10,472,169,24,268,309,240,663,106,94,23,53,1009,157,396,45,309,858,188,775,324,34,104,17,170,7,294,15,7,466
+Earlier	10,187,29,1300,116,53,130,18,44,16,170,211,241,148,2,124,275,190,68,10,166,180,62,9,343,30,5,34,30,26,202,643,428,80,16,1,168,41,326,64,94,55,32,261,25,9,236,42,366,55,54,29,59,56,63,11,8,57,82,57,33,327,38,16,27,13,123,75,87,23,50,121,92,101,9,135,167,74,178,39,1,185,247,97,289,179,102,451,10,472,169,24,268,309,240,663,106,94,23,53,1009,157,396,45,309,858,188,775,324,34,104,17,170,7,294,15,7,466,125
 Earlier Giga Kenya	1164
 Earlier MIS	1371
 Earliest	2432,108,500,898,716
 Earliest Delivery Date	13185
 Earliest of CAR	2611
 Earliest-dated	5513
-Early	587,202,110,365,99,360,55,50,561,131,486,5,1,53,46,22,18,6,56,48,25,92,82,10,113,21,17,121,98,47,287,175,765,249,170,18,19,130,122,349,122,51,154,41,33,57,171,197,325,252,30,44,142,191,569,54,66,45,81,211,15,81,25,10,32,67,97,384,11,37,170,33,219,227,378,36,15,110,87,90,4,1,95,8,35,209,383,58,62,39,126,24,26,32,8,88,102,192,66,43,238,7,28,35,2,3,35,43,37,154,18,129,147,162,6,241,548,142,1,44,144,1,25,49,26,62,14,65,26,42,347,51,121,108,311,156,136,156,46,141,73,40,51,171,13,12,18,78,40,321,184,90,14,20,58,142,19,186,132,123,64,66,9
+Early	587,202,110,365,99,360,55,50,561,131,486,5,1,53,46,22,18,6,56,48,25,92,82,10,113,21,17,121,98,47,287,175,765,249,170,18,19,130,122,349,122,51,154,41,33,57,171,197,325,252,30,44,142,191,569,54,66,45,81,211,15,81,25,10,32,67,97,384,11,37,170,33,219,227,378,36,15,110,87,90,4,1,95,8,35,209,383,58,62,39,126,24,26,32,8,88,102,192,66,43,238,7,28,35,2,3,35,43,37,154,18,129,147,162,6,241,548,142,1,44,144,1,25,49,26,62,14,65,26,42,347,51,121,108,311,156,136,156,46,141,73,40,51,171,13,12,18,78,40,321,184,90,14,20,58,142,19,186,132,123,64,66,9,84,10
 Early Access	8698
 Early Access Ethiopia	12199
 Early Action Protocol	11156
@@ -1011,7 +1015,7 @@ Early Foundation	6603
 Early Grade Mathematics Assessment	13310,2294
 Early Grade Mathematics Assessment Early Grade	16436
 Early Grade Reading	16436
-Early Grade Reading Assessment	15604,583,249
+Early Grade Reading Assessment	15604,583,249,2329
 Early Grade Reading Assessments	13310
 Early Grade Reading Assessments EMIS Education	13310
 Early Identification and Intervention	15915
@@ -1047,7 +1051,7 @@ Early Stages Accelerate	4972
 Early Support Programme	14742
 Early Training Projects	18318
 Early Voluntarily Retirement Scheme	12922
-Early Warning	12003,974,118,26,1802,1036,412,576,4,206,1549
+Early Warning	12003,974,118,26,1802,1036,412,576,4,206,1549,81
 Early Warning A. Disaster Risk Knowledge	12977
 Early Warning Signal Against	5550
 Early Warning System	11134,2505,615,2693,23,187,1152
@@ -1165,12 +1169,13 @@ Ease Cross-Border Connectivity	3986
 Ease of Access Working Group	6867,1
 Ease of Accessing Official Statistics	17149
 Ease of Bidding	12389
-Ease of Doing Business	464,3443,9413,1405,753,2,16
-Ease of Doing Business Index	4528,7984,444
+Ease of Doing Business	464,3443,9413,1405,753,2,16,3271,5
+Ease of Doing Business Index	4528,7984,444,5811,5
 Ease of Doing Business Index and Competitiveness	12920
 Ease of Doing Business Portal	3725,182,4300
 Ease of Doing Business Reforms	13474,211
-Ease of Doing Business Report	11379,4153
+Ease of Doing Business Report	11379,4153,3240
+Ease of Doing Business. Fonte	18767,5
 Ease of Doing Business. Nigeria	8440
 Ease of Doing Business. Zambia	12376
 Ease of EMR	12379
@@ -1184,12 +1189,12 @@ Easier	2319,8445,1927,351,253,1271
 Easier Said Than Done	5366
 Easily	12090,197,2710,476
 Easiness	12389
-Easing	14729,2220,286
+Easing	14729,2220,286,1616
 Easler	1885
 Eassy	3559
 East AFRITAC	12500
 East Afri-	13357
-East Africa	107,71,196,136,203,73,44,12,45,48,141,47,122,19,263,193,1,1,56,46,4,29,131,287,73,328,1,2,95,24,16,36,107,29,201,6,107,122,94,7,53,7,42,102,11,7,29,14,71,80,15,198,287,116,8,49,140,43,11,42,70,17,23,1,13,16,26,19,40,51,100,23,125,46,67,36,80,26,1,1,61,16,59,257,19,5,15,35,17,37,81,27,8,52,20,65,23,80,97,88,25,1,56,16,1,52,8,87,1,8,15,21,27,3,22,106,11,4,45,8,198,34,20,47,18,23,25,46,18,179,18,33,54,11,33,2,34,32,78,40,50,5,320,2,18,4,94,133,5,44,46,102,42,10,59,61,3,116,46,176,4,102,86,28,74,14,10,132,127,11,118,16,3,24,25,127,10,53,13,61,107,3,27,1,34,21,13,3,57,5,26,155,125,17,47,141,93,172,205,6,23,1,348,9,9,18,30,6,6,12,10,2,28,12,36,8,44,42,12,102,771,1,1,17,27,252,41,96,104,16,16,12,20,29,37,119,40,38,73,31,152,30,43,1,5,87,296,19,17,47,18,98,25,26,75,957,609,1,499,266,21,70,1,1,99,58,67,819,16
+East Africa	107,71,196,136,203,73,44,12,45,48,141,47,122,19,263,193,1,1,56,46,4,29,131,287,73,328,1,2,95,24,16,36,107,29,201,6,107,122,94,7,53,7,42,102,11,7,29,14,71,80,15,198,287,116,8,49,140,43,11,42,70,17,23,1,13,16,26,19,40,51,100,23,125,46,67,36,80,26,1,1,61,16,59,257,19,5,15,35,17,37,81,27,8,52,20,65,23,80,97,88,25,1,56,16,1,52,8,87,1,8,15,21,27,3,22,106,11,4,45,8,198,34,20,47,18,23,25,46,18,179,18,33,54,11,33,2,34,32,78,40,50,5,320,2,18,4,94,133,5,44,46,102,42,10,59,61,3,116,46,176,4,102,86,28,74,14,10,132,127,11,118,16,3,24,25,127,10,53,13,61,107,3,27,1,34,21,13,3,57,5,26,155,125,17,47,141,93,172,205,6,23,1,348,9,9,18,30,6,6,12,10,2,28,12,36,8,44,42,12,102,771,1,1,17,27,252,41,96,104,16,16,12,20,29,37,119,40,38,73,31,152,30,43,1,5,87,296,19,17,47,18,98,25,26,75,957,609,1,499,266,21,70,1,1,99,58,67,819,16,157
 East Africa Addis Ababa	14100
 East Africa Avg	12385
 East Africa BMZ	178
@@ -1221,6 +1226,7 @@ East Africa IGF	10694
 East Africa Information Security Conference	10416
 East Africa Innovation Lab	1720,10490
 East Africa Internet Disrupted Again	2677
+East Africa Malawi	18862
 East Africa Monetary Union	7815
 East Africa Order	12151
 East Africa Outbound UGANDA	9781
@@ -1604,6 +1610,7 @@ Eastern Cape. Using	7574
 Eastern Caribbean	15478
 Eastern Caribbean Central Bank	9179
 Eastern Caribbean Central Bank Governor Timothy	9179
+Eastern Caribbean Supreme Court	18868
 Eastern Central Atlantic. Supporting	11536
 Eastern Chad Academy	15008
 Eastern Coast of Africa	12151
@@ -1812,6 +1819,7 @@ Eaves and Sandman	5700
 Eaves' Tech Policy Press	6445
 EavnadluRaetivoienwand Review	10157
 Ebeli EA	17773
+Economic Policy Eastern And Southern Africa	18851
 Economic and Monetary Community of Central Africa EA	15574
 Economy and Finance MENA Middle East and North	17458
 EdTech. Earn Mwachangu	13095
@@ -1879,6 +1887,7 @@ FOOD SYSTEMS RESILIENCE PROGRAM FOR EASTERN	13925
 FSSES Fixed Satellite Service Earth Stations	6946
 Facebook Connectivity Lab and Center for International Earth	1013
 False Easting	12413
+Family E&S Environmental and Social ECD Early	18809
 Famine Early Warning Systems Network	13686
 Famines Early Warning Systems Network	10763
 Far East	14935
@@ -2029,6 +2038,7 @@ IMMONGAULT. MINISTERE DES EAUX ET FORÊTS	16381
 IMPROVING EASE OF DOING BUSINESS	14828,3
 INCIDENTES EAS	11413
 INCLUSIVE DIGITALIZATION IN EASTERN AND SOUTHERN	6539,6451
+INDICATEURS SUR LA PRODUCTION D' EAU	18757
 ITU Radio Regulations. Gateway Earth Station	2913
 IUCEA Inter-University Council for East Africa IXP	13312,2
 IV.1.1. EAPS	13452
@@ -2079,6 +2089,7 @@ James Eaton-Lee	10764
 Jane Banda Assistant Director-Internal Audit Eastern	13392
 January. The Tahrir Institute for Middle East	15342
 Jarra East	17152
+Jobs Eastern And Southern Africa	18809
 Jobs Global Practice Middle East	15663
 Joining EACO	15120
 Journal of Eating Disorders	7759
@@ -2229,8 +2240,9 @@ Microsoft Excel Ease	9124
 Microsoft Middle East and Africa	5327
 Microsoft's Middle East and Africa Emerging Markets	11777
 Mid East	13897
-Middle East	344,3,273,416,676,7,22,228,56,350,143,159,1,131,21,55,17,147,64,285,238,91,41,86,18,249,115,165,275,209,5,44,38,149,105,21,5,5,341,9,14,80,98,340,169,30,30,42,183,128,152,142,141,72,189,102,15,219,106,190,27,47,1,1,96,187,22,96,57,307,195,402,222,26,34,161,54,63,156,58,81,9,111,93,28,109,22,4,67,8,53,158,8,122,2,4,45,86,6,12,1,20,179,7,2,382,22,20,42,62,43,232,235,296,6,118,64,240,98,327,110,44,34,10,181,50,279,228,6,178,3,31,40,17,1,5,33,62,26,72,108,45,60,165,240,2,112,114,105,68,298,304,60,220,15,111,106,7,22,54,5,1,9,13,82,37,45,8
+Middle East	344,3,273,416,676,7,22,228,56,350,143,159,1,131,21,55,17,147,64,285,238,91,41,86,18,249,115,165,275,209,5,44,38,149,105,21,5,5,341,9,14,80,98,340,169,30,30,42,183,128,152,142,141,72,189,102,15,219,106,190,27,47,1,1,96,187,22,96,57,307,195,402,222,26,34,161,54,63,156,58,81,9,111,93,28,109,22,4,67,8,53,158,8,122,2,4,45,86,6,12,1,20,179,7,2,382,22,20,42,62,43,232,235,296,6,118,64,240,98,327,110,44,34,10,181,50,279,228,6,178,3,31,40,17,1,5,33,62,26,72,108,45,60,165,240,2,112,114,105,68,298,304,60,220,15,111,106,7,22,54,5,1,9,13,82,37,45,8,1331,37
 Middle East Africa	16799
+Middle East Americans	18879
 Middle East Conflict	11285
 Middle East Democracy Center	15926
 Middle East Europe	11922
@@ -2320,6 +2332,7 @@ Mozambique Eastern and Southern Africa Region Attachment	2474
 Muchinga Eastern Luapula Northern Western Figure	12431
 Muchinga Luapula Northern Eastern Western	12431
 Muchinga Northern Eastern Western Copperbelt Male	12431
+Multi Hazard Early Warning Systems	18787
 Multi-Hazard Early Warning	12977
 Multi-Hazard Early Warning System	12977,1471,1689
 Multi-Hazard Early Warning Systems	11191,1498
@@ -2339,7 +2352,7 @@ National Assembly. EAM	2667
 National Centre for Earth Observation and National Centre	13686
 National EA	18464
 National Early Childhood Development	12964
-National Early Warning System	17969
+National Early Warning System	17969,818
 National Government Debt Service Charges and Earnings	2775
 National Health Accounts ENT Ear	14773
 Natural Hazards and Earth System Sciences	15715
@@ -2418,6 +2431,7 @@ OSHAKATI EAST UUKWIYU Total Eligible	13025
 OTI NAH EAST AS E W	2776
 OUTLOOK EAST AFRICA DATA CENTER CONSTRUCTION	10861
 OVERALL LMICs Middle East Europe	11964
+Objective DPO Development Policy Operation EA	18825
 Observing the Earth	16472
 Oct’25 Middle East	5247
 Offices Earmarked	11986
@@ -2768,6 +2782,7 @@ U EAU ATFCfA ANIHC KU EYIKRÜT	14843
 U.S. and East Asia	6582
 UMc Eritrea Africa Eastern Africa Asmara	10840
 UMc Japan Asia Eastern Asia Tokyo	10840
+UN E-Government Survey World Bank Ease	18767
 UN Early Warnings for All	15916
 UNESCO Regional Office for Eastern Africa	14993
 UNICEF Regional Director for Eastern and Southern Africa	15214
@@ -2855,7 +2870,7 @@ Will East African	12227
 Within the Eastern Africa Power Pool	14667
 Women Middle East	11004,960
 Working Group Monitoring and Early Warning Drought	17157
-World Bank Ease of Doing Business	10841
+World Bank Ease of Doing Business	10841,7931
 World Bank Ease of Doing Business Index	4528,7984
 World Bank Eastern and Southern Africa	1867
 World Bank Vice President for Eastern and Southern	14276

@@ -12,6 +12,7 @@ CAPACIDADE ELEITORAL PASSIVA E REGIME	11528
 CAPÍTULO II ORGANIZAÇÃO DO RECENSEAMENTO ELEITORAL	11528
 CNE Cadernos Eleitorais	10271
 CNE Comissão Nacional Eleitoral	10765,10
+CNE Comissão Nacional de Eleições COVID-19 Doença	18779
 COMISSÃO NACIONAL DE ELEIÇÕES	11528,3831
 COMISSÕES REGIONAIS DE ELEIÇÕES	11528
 Caderno Eleitoral	11425,5584
@@ -21,12 +22,12 @@ Cadernos Eleitorais. O GTAPE	10271
 Calendário Eleitoral	16141
 Candidatos Eleitos	11544
 Capacidade Eleitoral	11425
-Cartão de Eleitor	539,9575,642,16,756,592
+Cartão de Eleitor	539,9575,642,16,756,592,6632
 Cartão de Eleitor de Cidadão Estrangeiro Aquele	11528
 Cartão de Eleitor. VI. METODOLOGIA	10772
 Cartões de Eleitor	10114
 Circulo Eleitoral Nacional	539
-Comissão Eleitoral Nacional	3530,2288,2718
+Comissão Eleitoral Nacional	3530,2288,2718,10227,41,3,1,51
 Comissão Nacional Eleitoral	6640,3788,997,694
 Comissão Nacional de Eleições	4419,519,5333,1290,369,218,3211,335,447,868
 Comissão Nacional de Eleições. ARTIGO	11528
@@ -54,14 +55,16 @@ Eleitoral	11528,3831,111
 Eleitoral A Direção Geral	15470
 Eleitoral Oficioso	9399
 Eleitores	11561,587
-Eleições	2315,129,509,577,2027,15,247,821,4888,33,378
+Eleição	18751
+Eleições	2315,129,509,577,2027,15,247,821,4888,33,378,6818
 Eleições Gerais	10772,593,60,5584
 Eleições Legislativas	15404,737
-Eleições’26	2315,129,1086,2027,15,247
+Eleições'26	18859
+Eleições’26	2315,129,1086,2027,15,247,13040
 FINANCIAMENTO ELEITORAL	11528
 FISCALIZAÇÃO DOS ACTOS DE RECENSEAMENTO ELEITORAL12	11528
 Falsificação de Cartão de Eleitor	11425
-Gabinete Técnico Eleitoral	3530
+Gabinete Técnico Eleitoral	3530,15274,3
 Gestão Eleitoral Guineense	11561
 Gestão de Eleições Legislativas Antecipadas	11561
 I PERíODO DE RECENSEAMENTO ELEITORAL ARTIGO	11528
@@ -80,7 +83,7 @@ Listas de Recenseamento Eleitoral	11528
 MODO DE RECENSEAMENTO ELEITORAL	11528
 Mapa Globais de Eleitores Inscrito	17283
 Marcação da Data de Eleições	11561
-Missão de Observação Eleitoral da União Europeia	3530
+Missão de Observação Eleitoral da União Europeia	3530,15274,3,1,44
 Nacional de Eleições Lista	11544
 Número de Eleitor	10749
 ORGANIZAÇÃO DO RECENSEAMENTO ELEITORAL	11528
@@ -97,9 +100,11 @@ RECENSEAMENTO ELEITORAL	11561
 RECENSEAMENTO ELEITORAL ARTIGO	11528
 REGISTO ELEITORAL OFICIOSO	11425
 RESULTADOS DA ATUALIZAÇÃO DO RECENSEAMENTO ELEITORAL	11561
-Recenseamento Eleitoral	10271,1257,9,24,332,3466,45
+Recenseamento Eleitoral	10271,1257,9,24,332,3466,45,3455
+Recenseamento Eleitoral Automático	18859
 Recenseamento Eleitoral Oficioso	9990
 Recenseamento Eleitoral URL	15359
+Recenseamento Eleitoral de São Tomé	18859
 Recenseamento Eleitoral. CONSELHO DE MINISTROS	15359
 Recolha Coerciva de Cartão de Eleitor	11425
 Redação Partilhar Tweetar Partilhar Email Eleições’26	5819
@@ -115,6 +120,7 @@ SECÇÃO II REGISTO ELEITORAL DOS CIDADÃOS	11425
 SISTEMA ELEITORAL E CAPACIDADE ELEITORAL PASSIVA	11528
 Sapo Economia Eleições	4938
 Secretariado Técnico de Administração Eleitoral	12772
-Sistema Eleitoral	3530,1181,227,3598
+Sistema Eleitoral	3530,1181,227,3598,10268,3,1,44,7
+Sistema Eleitoral Veja	18807
 Sistema Integrado de Gestão Eleitoral	11893
 Sistema de Recenseamento Eleitoral Automático	11983

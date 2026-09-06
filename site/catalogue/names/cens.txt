@@ -38,7 +38,7 @@ Bureau of Statistics and Census Request	16863
 Bureau of Statistics and Census Strategy	16863
 Bureau of Statistics and Census and Census	16863
 Bureau of Statistics and Census and Statistical Units	16863
-Business Census	15085,1911
+Business Census	15085,1911,1842
 Business Establishment Census	15084,1,106
 Business Establishment Census The Somali Business	15085
 CAPI Computer-Assisted Personal Interview CCT Census	16921
@@ -51,6 +51,7 @@ CENSUS OF POPULATION	12431
 CENSUS OF POPULATION AND HOUSING	13367
 CENSUS PHASES CHAPTER	14903
 CENSUS PUBLICATION 20260826152056 039d1199.pdf FINAL RESULTS	16921
+CNE Census	18817
 COMMUNITY Census Census Census Census NUCA	15473
 COR Chief Census Officer Statistician General	18464
 CSPro Census and Survey Processing DCMQAD Directorate	16927
@@ -58,7 +59,7 @@ CSPro Census and Survey Processing System CTA	13300,3621
 Cartografia Censitária	4979,6442,156
 Cartographie Censitaire	13518
 Censitaire INSTAT	17842
-Censo	4040,4,42,123,941,1841,2450,1046,270,9,11,639,5,1,24,130,1,4117,1204,524
+Censo	4040,4,42,123,941,1841,2450,1046,270,9,11,639,5,1,24,130,1,4117,1204,524,1341,33
 Censo Agro-Pecuário	9441
 Censo Agrícola	16898
 Censo Electoral	16903
@@ -214,7 +215,7 @@ EMIS-2021-Annual Education Census	12345
 EMIS-2022-Annual Education Census	12345
 EMIS-2023-Annual Education Census	12345
 ESTABLISHMENT CENSUS GENDER	6911
-Economic Census	12445,60,542,2840
+Economic Census	12445,60,542,2840,2890
 Egypt Census	15473
 El Censo Electoral	16903
 El IV Censo General de Población	16969
@@ -261,7 +262,7 @@ History Of Population Censuses In Liberia	16921
 Household Surveys and Censuses	11237
 Housing Census	10870,1281,1854,2916,1554,132
 Housing Census Preparatory Activities LISGIS	17116
-Housing and Population Census	12749,1985,8,3,70,17
+Housing and Population Census	12749,1985,8,3,70,17,3945
 I Censo Agropecuario	17422
 I Censo Agropecuario URL	17422
 I Censo Agropecuario V Censo de Población	10487
@@ -369,7 +370,7 @@ POPULATION AND HOUSING CENSUS Power	14594
 POPULATION AND HOUSING CENSUS The Census	16921
 Phase Census	16863
 Pilot Census	18464,62
-Population Census	10748,122,1037,1460,1465,772,3001,2
+Population Census	10748,122,1037,1460,1465,772,3001,2,210
 Population Census Commission	13948
 Population Census Preliminary Report	11905
 Population Census Team	12413

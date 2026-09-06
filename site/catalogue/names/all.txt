@@ -1,4 +1,4 @@
-A. All	10862
+A. All	10862,7976
 A. Oath of Allegiance	18436
 A. TARIFFS FOR ALL CUSTOMER CATEGORIES	12436
 A4AI Alliance	15474
@@ -408,7 +408,7 @@ All Request	17099
 All Result No Result View All	4619
 All Right Reserved	16967
 All Rights	14760
-All Rights Reserved	6408,4835,1079,39,1273,32,775,82,757,1586,7,41,40,144,128,6,60,1161
+All Rights Reserved	6408,4835,1079,39,1273,32,775,82,757,1586,7,41,40,144,128,6,60,1161,336
 All Rights Reserved AfricaNenda Foundation	12000,269,1,220
 All Rights Reserved Arab Finance	11739
 All Rights Reserved Contacts DDI Document	17366
@@ -436,6 +436,7 @@ All Sectors	14815,2057
 All Segments	3862
 All Senior Secondary Schools	18461
 All Service Providers	10721,6114
+All Services	18837
 All Share Index	10
 All Social Assistance Old Age Grant	12373
 All Somalis	14879
@@ -656,7 +657,7 @@ Alliance for Affordable Internet4	16872
 Alliance for Community Action	8513,569
 Alliance for Digital and Financial Services Activity USAID	298
 Alliance for Financial	12444
-Alliance for Financial Inclusion	275,665,557,154,9480,3,4,1306,512,434,3748,97
+Alliance for Financial Inclusion	275,665,557,154,9480,3,4,1306,512,434,3748,97,1535,77
 Alliance for Financial Inclusion Africa Regional Office	4173
 Alliance for Financial Inclusion Central Bank of Lesotho	12701
 Alliance for Financial Inclusion Page	940
@@ -673,6 +674,7 @@ Alliance for Hippocratic Medicine	13040
 Alliance for Hydromel Development ASECNA Agency	11553
 Alliance for Hydromet Development	14448
 Alliance for Hydromet Development. The Alliance	18309,269
+Alliance for Hydrometeorological Development. The Alliance	18787
 Alliance for Innovative Regulation	12048
 Alliance for Innovative Regulation Institute	2203
 Alliance for International Medical Action	12003
@@ -879,6 +881,7 @@ Bank of Botswana Fintech Portal. All	12603
 Bank. All	11855,8,2881
 Bank. Completion Measurement Comments All	17470
 Banque Allemande de Développement LNCQ	15475
+Based Allocations	18809
 Baseline Allocation	11890
 Baseline Assumptions All	10157
 Basic Books. Allison	17780
@@ -1049,7 +1052,7 @@ Cost Allocation	6432
 County Governments Additional Allocations Act	14546
 County Governments Additional Allocations Bill	10122
 Coverage All	17458
-Coverage Geographic Coverage National Universe All	10862
+Coverage Geographic Coverage National Universe All	10862,7976
 Creating Prosperity and Equal Opportunity For All	582
 Creating Prosperity and Equal Opportunity for All	789
 Credit Allocated	4653
@@ -1121,6 +1124,7 @@ Develop Crop-Loss Relief Allowance	14818
 Developing Telecoms Ltd. All	2405,106,3397,442
 Development Allocate	11007
 Development EFA Education For All EMIS	16852
+Development Objective PEQPT Quality Education for All	18765
 Digital Access for All	6946
 Digital Access for All Mission	6946
 Digital Access for All. Our Mission	17746
@@ -1175,6 +1179,7 @@ ECOWAS and Smart Africa Alliance	16936
 ECOWAS and Smart Africa Alliance. Confirmed	1277
 ECZ All	13477
 EFA Education for All	11860
+EFA Education for All EFOPE Teacher Training	18765
 EGM. All	8939
 EMR. All the EMRs	10784
 EN ALLAITANT	13300
@@ -1214,6 +1219,7 @@ Education for All Project. Beyond	17338
 Efficient Allocation of Retail Service Stations	12969
 Efficient Allocation of Service Stations Model	12969
 Effortless and Cost Effective Payments for All	11940
+Eighth Session of International Solar Alliance Assembly	18857
 Electoral Allocation of Seats Constituency City of Maputo	12201
 Electrification Rurale AES Alliance des Etats du Sahel	15769
 Electronic Search Available for All Company Records	12389
@@ -1229,7 +1235,7 @@ Enceinte Allaite	13300
 Energy for All	11137
 English. All	766,3673
 Enhance the All	14997
-Enterprise Surveys. All	10862
+Enterprise Surveys. All	10862,7976
 Entertainment Allowance	13096
 Environmental and Social Management Plan All	12253
 Equality All	13948
@@ -1325,6 +1331,7 @@ General Requirements All	12949
 General Requirements for All Applications	18595
 Get Involved All Business Business Fueling	12495
 Ghana. All	6041
+Girls Empowerment and Quality Education for All Project	18777,32
 GitHub Classroom. All GitHub Classroom	11922
 GitHub Copilot and VS Code. All	6498
 Glimmertech and Starlink. All	12395
@@ -1527,9 +1534,10 @@ International Big Cat Alliance	18691
 International Big Cat Alliance. Formal	16256
 International Disputes All	3861
 International Gaucher Alliance	10188
-International Solar Alliance	2787,8396,396,1400,530,235,1375,1045,92,19,10,693,262,776,204,471
+International Solar Alliance	2787,8396,396,1400,530,235,1375,1045,92,19,10,693,262,776,204,471,166
 International Solar Alliance Agreement. Visits	16164
 International Solar Alliance Framework Agreement	18016
+International Solar Alliance's Seventh Regional Committee	18857
 International Standards Certificates. All	6432
 Internet Numbers Registry System. All RIRs	3503
 Internet for All	226,3058,2954,6605,1354
@@ -1887,12 +1895,14 @@ Project. All	16949
 Promote Legal Identity for All Decentralization of Services	13080
 Promoting Clean Energy for All	11332
 Proposed Allocation Current Proposed Category No	16187
+Prosperity for All Saotomeans	18777
 Protection of All Persons	11765,2977,3208
 Provide All Services Citizen	14137
 Provide Digitally Inclusive Education for All	13991
 Provide Digitally Inclusive Education for All Goal	13991
 Providus-backed Allawee	13273
 Provisional All	14832
+Príncipe. All Rights Reserved. Designed	18769,2
 Public Allocation	7548
 Public Budget Allocation	14033
 Publication All	16467
@@ -1900,8 +1910,10 @@ PwC. All	7751
 Pygmies. All	15372
 Q.175A DEUX OU PLUS UN ALLER	13300
 QCBS All Firms	15372
+QUALITY EDUCATION FOR ALL PROJECT	18765
 QUESTIONS ET FILTRES CODES ALLEZ	13300
 Quadripartite Alliance	13870
+Quality Education for All Project	18765
 Quality Foundational Learning for All Girls and Boys	12175
 Quality Foundational Teaching and Learning for All Girls	13990
 Quality and Transformative Education for All Children	12977
@@ -2013,6 +2025,7 @@ SE4ALL Sustainable Energy for All SENELEC Société	18316
 SE4ALL Sustainable Energy for All SIG Système	18103
 SECTOR ALLOCATION	17105
 SECTOR DIGITAL STRATEGIC PLAN All	14921
+SENAPIQ. All Rights Reserved. Designed	18837
 SEP. All	3161
 SERVICE ACT ALLIED HEALTH PROFESSIONALS COUNCIL	14773
 SERVICES FOR ALL	1885
@@ -2034,6 +2047,8 @@ SNAIC. All	14943
 SSF. All	16902
 SSS All	15372
 SSS All Individuals	15372
+STP Education for All	18754
+STP Quality Education for All Project	18765
 STRATEGIC ALLIANCES AND RESOURCE MOBILIZATION PROMOTION	17101
 STRUCTURE DE GOUVERNANCE ALLOCATION BUDGETAIRE Mali	17824
 SUPPORTING DOCUMENTS World Bank. All Aide	11924
@@ -2048,6 +2063,7 @@ Sample Allocation	17043
 Sample Size and Allocation Considering	15244
 Sample Size and Allocation Sample	17043
 Santé Alliance for Health Policy and Systems Research	14622
+Sao Tome. All Rights Reserved. Visitors	18810
 Satellite Communications Guidelines. All	17191
 Satisfactory Environment All	14742
 Savings of Prior Law and Acts All	3861
@@ -2152,6 +2168,7 @@ System All	15661
 System Recovery A. All Telecommunications Service	4610
 System SEforALL Sustainable Energy for All WBG	12717
 Systems. All Public Bodies	14014
+São Tomé and Príncipe. All	18797
 T ALLIANCE MINING COMMODITES GUINEE	16623
 T-Digital Impact Alliance	102
 T-I19. International Academic Alliances Partnerships	15713
@@ -2176,6 +2193,7 @@ Tax. JE SUIS ALLE AU BOUT	16629
 Teacher Trainee Allowance	7695
 Teaching and Learning for All Girls and Boys	12175
 Team Allocation Each MCDA	12157
+Technical Country Mission of International Solar Alliance	18857
 Technical Migration Schedule All	3861
 Technical Requirements All	11209
 Technologies Allocations	7548

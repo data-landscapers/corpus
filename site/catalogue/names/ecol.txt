@@ -94,7 +94,7 @@ ET INFORMATIQUE ESTEL-CATEF ECOLE SUPÉRIEURE PRIVÉE	18170
 ETUDES COMMERCIALES ET FINANCIERES HEGEPRINE ECOLE	18170
 ETUDES MÉDICALES EMIG ECOLE DES MINES	18170
 Ecolabelling	13385
-Ecole	3465,4205,401,198,52,1570,1706,1744,1279,775,61,33,53,13,28,107,30,222,59,249,37,57,276,7,1234,2,98,21,21,235,48,5,33
+Ecole	3465,4205,401,198,52,1570,1706,1744,1279,775,61,33,53,13,28,107,30,222,59,249,37,57,276,7,1234,2,98,21,21,235,48,5,33,433
 Ecole Article	17982
 Ecole Expert Génie Informatique Licence Générale	17829
 Ecole Formation Cours Autres	737
@@ -118,8 +118,10 @@ Ecole Normale Supérieure EPT	15673
 Ecole Normale Supérieure de Yaoundé	15480
 Ecole Normale de Toulouse	17873
 Ecole Pay	10942,1
+Ecole Pré-Universiteur	18757
 Ecole Républicaine	17979
 Ecole S	18291
+Ecole Superielle	18757
 Ecole Supérieur Polytechnique	17844,16
 Ecole Supérieur Polytechnique ISMS	17844
 Ecole Supérieure Africaine Des TIC Application	15936
@@ -134,6 +136,7 @@ Ecole Supérieure de Commerce	15480
 Ecole Supérieure de Gestion	17829,16
 Ecole Supérieure des Communications Electroniques	18122
 Ecole Supérieure des Hautes Etudes Licence Pro	17829
+Ecole Technique	18757
 Ecole de Commerce	15936
 Ecole de Franceville	16001
 Ecole de Mouila	16001
@@ -164,6 +167,7 @@ Ecoles de Statistiques Africaines CAPI Computer Assisted	15479
 Ecoles par Lot Fourniture	13694
 Ecoligo Ltd Generation	12256
 Ecological	10969,915,1,10,264,1,45,146,136,4627,26,17
+Ecological Charter of São Tomé and Príncipe. Draft	18787
 Ecological Economy	17884
 Ecological Fund of Nigeria	12145
 Ecological Informatics	8604
@@ -201,6 +205,7 @@ Grandes Ecoles Supérieures Privées	18286
 Guinée Ecologie	16627
 I- INSTITUTS ET GRANDES ECOLES	15674
 INFANTERIE COMMANDEMENT DES ECOLES Commandant BOUMPOTOU	15744
+Imposto Ecológico	18798,24,31
 Ingénieurs-Abderrahmane Baba TOURE ENSUP Ecole Normale	12
 Innovation Ecole Doctorale Direction	18121
 Jeunesse200 Ecole	1594

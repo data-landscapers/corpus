@@ -530,7 +530,7 @@ High Commission for Justice Reform	17934
 High Commission for Planning	17458
 High Commission of India	12979,2140,1166
 High Commission of India Lillongwe	13029
-High Commissioner	2845,6147,1128,887,970,1145,3836,276,1203
+High Commissioner	2845,6147,1128,887,970,1145,3836,276,1203,360
 High Commissioner Asthana	17234
 High Commissioner H.E Mr. Amararam Gujar	13029
 High Commissioner H.E. Innocent B. Muhizi	9885
@@ -772,6 +772,7 @@ High Priority	899,10646,630,5695
 High Priority Enabling Factor Challenges and Rationale	11907,1442
 High Priority Rating Data and Evidence Challenge	11907
 High Priority Rating Gender-Responsive Sector Planning	13349
+High Production Costs	18795
 High Profile Cases	11250
 High Profile Companies	11250
 High Quality Sectoral Arabic Data	15713
@@ -1014,7 +1015,7 @@ High-value	7548,4357,3114,1920
 High-voltage	12233
 High. All	15511
 High. Although the Ministry	15661
-High. B. ACHIEVEMENT OF PDOs	16436
+High. B. ACHIEVEMENT OF PDOs	16436,2329
 High. Borrower	14971
 High. Congo	15553
 High. Despite	15663
@@ -1138,7 +1139,7 @@ Higher Institute of Management	13312,2
 Higher Institutions	11956
 Higher Junior Secondary Primary Pre-primary	18441
 Higher Learning Institutions. Affordability	12333
-Higher Level Objectives	969,295,603,1737,2935,4229,61,135,416,37,143,1771,1,411,1167,27,554,27,35,68,37,1,2,2,1286,913,242,189,8
+Higher Level Objectives	969,295,603,1737,2935,4229,61,135,416,37,143,1771,1,411,1167,27,554,27,35,68,37,1,2,2,1286,913,242,189,8,476
 Higher Level Objectives Policy Context and Strategic	969
 Higher Life Foundation	42
 Higher Loans Board	12149
@@ -1167,7 +1168,7 @@ HigherEducationZambia	13556
 Higherlife Foundation	562
 Higherlife Owned Land N	4896
 Highervalue ICT	10793
-Highest	6432,505,932,3100,915,1,10,69,189,6,1,191,4,41,91,1461,949,49,298,330,30,1331,15,207,1321
+Highest	6432,505,932,3100,915,1,10,69,189,6,1,191,4,41,91,1461,949,49,298,330,30,1331,15,207,1321,292
 Highest Annual	18627
 Highest Attainable Standard of Health	3583
 Highest Degree Male Female Sum	18578
@@ -1211,7 +1212,7 @@ Highlights The World Bank	10857
 Highlights of Cabinet Meeting	14793,46,6
 Highlights of Medium-Term Power Requirements REPUBLIC	15904
 Highlights. KNBS	12138
-Highly	1988,4066,1934,1411,275,203,181,2984,272,71,713,799,514,107,1609,30
+Highly	1988,4066,1934,1411,275,203,181,2984,272,71,713,799,514,107,1609,30,1680
 Highly Dollarized Economies	9331
 Highly Hazardous Pesticides	15500
 Highly Insulated	16266
@@ -1219,7 +1220,10 @@ Highly Little	17157
 Highly Pathogenic Avian Influenza and African Swine	11197
 Highly Performing Asian Economies	16858
 Highly Satisfactory	10779,3231,1009,492,152
+Highly Satisfactory Closing	18754
+Highly Satisfactory Risk	18754
 Highly Satisfactory S	18494
+Highly Satisfactory Satisfactory	18754
 Highly Satisfactory. PBF	16896
 Highly Satisfactory. The Bank	15511
 Highly Satisfactory. Through CAB4	15511
@@ -1256,7 +1260,7 @@ Highway Spotlight	4130
 Highway Spotlight Tracing Digital Corridors	4130
 Highways	5700,11803
 High’. CAR	10829
-Higiene	10777,613,4748,760
+Higiene	10777,613,4748,760,1864
 Higiene Menstrual	10777
 Higiene Menstrual Entre	10760
 Higino Cardoso	11561
@@ -1304,6 +1308,7 @@ Implication High	12210
 Importance of High-Level Leadership and Coordination	13312,2
 Incentives for Higher	14897
 Incomlete SS Incomplete JS Higher	16876
+Independence Day President His Highness Sheikh	18759
 Index HCP High Commission for Planning HD	17458
 Index HNWI High Net-Worth Individuals HQLA	14997
 India High Commission	12361
@@ -1316,6 +1321,7 @@ Infrastructure The Socioeconomic Rationale High-speed	16876
 Innovative and Emerging High Capacity Broadband Access	12918
 Inside Higher Ed Oct	146
 Institute HEMIS Higher Education Management Information	13991
+Institute of Higher Education and Communications	18765
 Institution of Higher Learning	21
 Institutional Factors High NRW	17157
 Institutional High Interest Rates	17260
@@ -1419,6 +1425,7 @@ M. K. Gertze High School Hall	13046
 MACRO-FINANCIAL HIGHLIGHTS	17235
 MACRO-FINANCIAL HIGHLIGHTS The Year	17235
 MAJOR HIGHLIGHTS	6000
+MEES Ministry of Education and Higher Education	18765
 MHTESTD Ministry of Higher and Tertiary Education	13310
 MINISTRY OF TECHNICAL AND HIGHER EDUCATION	18512
 MIPROMALO Reports Higher Industrial Activity	965,3804,120,206,68,334,86
@@ -1461,6 +1468,7 @@ Medium High Working Group CBE	12444
 Medium Medium High High Horizon Short-term	15480
 Medium and High Voltage Class of Consumers Sale	9409
 Members Framework B Design of Monitoring for High-level	961
+Meteorologist Higher	18787
 Methodology The National Strategy for Higher Education	14747
 Methodology and Highlights	18460
 Mhubhe High School	3331
@@ -1483,6 +1491,7 @@ Ministries of Higher and Tertiary	13310
 Ministries of Higher and Tertiary Education	13310
 Ministry of Communication High Strong Maintain	16926
 Ministry of Education Short High Improve	13314
+Ministry of Education and Higher Education	18765
 Ministry of Finance Highlight Final	11866
 Ministry of Higher	4528,7984
 Ministry of Higher Commission	13314
@@ -1774,6 +1783,7 @@ School Child High School Child	15663
 School High Secondary	15244
 Schools and Higher	12436
 Science and Higher Education MInT Ministry of Innovation	13991
+Science and Higher Education of STP	18857
 Seamless High	13042
 Secondary Education Ministry of Higher Education Ministry	17105
 Secondary Education and Higher Education. Education	12253
@@ -1880,6 +1890,7 @@ Transforming High-Potential Resilient Value Chains	6754
 Transforming High-Potential Resilient Value Chains Project	8399
 Transforming High-potential Resilient Value Chains	8400
 Tripoli and Benghazi. High	16916
+UAE Highlights Water Resilience	18759
 UAE President His Highness Sheikh Mohamed	15587
 UEMOA of BCEAO High	17870
 UN High Commissioner	3583

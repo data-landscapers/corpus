@@ -147,7 +147,7 @@ Continental Level	1264
 Contract and Service Level Agreement The Ministry	34
 Cooperation Levels of Assurance	10819
 Corporate Climate Responsibility Levy Offsetting	14828,3
-Corporate Review Level	11965,3225,1208
+Corporate Review Level	11965,3225,1208,2411
 Corruption Levels	16943
 Country Level Overview and Highlights	17196
 County Level	17139
@@ -345,7 +345,7 @@ High Level Targets and Action Plan	18537
 High Level Visits	2667,13589
 High. Leveling	10779
 Higher Education Level	14775
-Higher Level Objectives	969,295,603,1737,2935,4229,61,135,416,37,143,1771,1,411,1167,27,554,27,35,68,37,1,2,2,1286,913,242,189,8
+Higher Level Objectives	969,295,603,1737,2935,4229,61,135,416,37,143,1771,1,411,1167,27,554,27,35,68,37,1,2,2,1286,913,242,189,8,476
 Higher Level Objectives Policy Context and Strategic	969
 Highest Level	16950
 Highest Level of Education Completed	16921
@@ -398,6 +398,9 @@ Intermediate Level GIAC Certified Incident Handler	15662
 Intermediate Level GIAC Certified Intrusion Analyst	15662
 Intermediate Level GIAC Continuous Monitoring Certification	15662
 Intermediate Level GIAC Security Operations Certified	15662
+Intermediate Level Indicators Average	18825
+Intermediate Level Indicators Real	18825
+Intermediate Level Indicators Registered	18825
 Intermediate Level Tenable Certified Nessus Auditor	15662
 Intermediate Level Tenable Certified Passive Vulnerability	15662
 Internal Levers and Enablers	11131
@@ -421,6 +424,7 @@ LA TECHNOLOGIE COMME LEVIER TRANSVERSE	5478
 LCD Liquid Crystal Display LMGH Levy	34
 LEAPFROGGING SOCIO-ECONOMIC DEVELOPMENT BY LEVERAGING ICT	18454
 LEC Regulatory Levy	16978
+LEVAGE	18757
 LEVAGE BUSINESS	18319
 LEVEL	899,2705,7248,1143,2783,118
 LEVEL AGE RANGE POPULATION PERCENTAGE Pre-primary	17870
@@ -438,6 +442,7 @@ LEVERAGING DIGITAL INFRASTRUCTURE TO COLLECT	14935
 LEVERAGING PASSIVE INFRASTRUCTURE	14879
 LEVERAGING THE OPPORTUNITIES OF THE DIGITAL	17870
 LEVERS	1885
+LEVESINSCRITS DANS	18757
 LEVETIRACETAM OXCARBAZEPINE GABAPENTINE	15930
 LEVIERS	15673,2592
 LEVIERS MAIN-D’ŒUVRE L’OIM	18265
@@ -467,7 +472,7 @@ Levantine Arabic and African French	6705
 Levar	11362
 Levari S	1219
 Levee	14479
-Level	427,62,300,96,55,18,3,9,135,49,36,94,704,437,101,249,114,494,3,7,7,461,292,14,35,15,43,41,48,895,105,3,269,241,319,206,45,400,96,18,1041,450,1310,54,3,23,261,69,153,465,10,80,75,24,167,3,419,25,277,8,3,39,19,71,204,157,23,30,553,13,78,70,43,19,113,12,4,67,92,35,146,214,70,318,200,109,111,78,12,9,3,1,23,9,24,12,49,26,13,12,5,82,390,150,27,57,5,68,348,187,170,283,57,101,15,34,17,7,2,8,3,136,15,13,13,17,39,91,77,77,93,315,13,100,332,65,11,90,18,98,2,124
+Level	427,62,300,96,55,18,3,9,135,49,36,94,704,437,101,249,114,494,3,7,7,461,292,14,35,15,43,41,48,895,105,3,269,241,319,206,45,400,96,18,1041,450,1310,54,3,23,261,69,153,465,10,80,75,24,167,3,419,25,277,8,3,39,19,71,204,157,23,30,553,13,78,70,43,19,113,12,4,67,92,35,146,214,70,318,200,109,111,78,12,9,3,1,23,9,24,12,49,26,13,12,5,82,390,150,27,57,5,68,348,187,170,283,57,101,15,34,17,7,2,8,3,136,15,13,13,17,39,91,77,77,93,315,13,100,332,65,11,90,18,98,2,124,52,11,22,38
 Level AA	9603,1403,1,945,275
 Level Agreement SMS Short Message Service	34
 Level Agreement SMT Senior Management Team	16852
@@ -509,7 +514,7 @@ Level Table	18460
 Level The Founding Level	17364
 Level The Managed Level	17364
 Level The Optimized Level	17364
-Level Two Restructuring	16032
+Level Two Restructuring	16032,2793
 Level and Field of Study	14775
 Level and Gender Table	18460
 Level and Mode of Study	14775
@@ -729,8 +734,9 @@ Mark Levy	11335
 Mark and Brett Levy	11159
 Market Level Assessment	15474
 Market Level Assessment. International Trade Center	15474
-Maturity Level	11252,301,1613,199,1689,3305,219
+Maturity Level	11252,301,1613,199,1689,3305,219,209
 Maturity Level MOH	10776
+Maturity Level for Element	18787
 Maturity Level of ML2	7008
 Mauritius AI Fellowship Programme Leverage Multilateral	14566
 Mavindini Level	14546
@@ -818,6 +824,7 @@ Policy Level	18443
 Policy Level Inter-Ministerial Committee Meeting	16970
 Political Problems Unusually High Level	16902
 Population and Housing Census Country Level	14005
+Post Level	18864
 Pre-Primary and Primary Levels	18460
 President Mr. Levy Mwanawasa	13561
 Primary Healthcare Level	14773
@@ -835,7 +842,7 @@ Quality Level	13310
 R5. Level	13314
 R8. Leverage	16876
 REFUND OF THE LEVY	15600
-RESTRUCTURING HISTORY Restructuring Level	6928,4467,4618,66,915,910,54,396,1
+RESTRUCTURING HISTORY Restructuring Level	6928,4467,4618,66,915,910,54,396,1,437,25
 RIGHTS ARE PROMOTED AT NATIONAL LEVEL	14742
 Railway Development Levy	7548,2765
 Reading CP-EPI and CE-EPI Level	11905
@@ -962,6 +969,7 @@ Subnational Level	14141,1091
 Summary of Maturity Level Assessment of Zambia Meteorology	13365
 Supervisory Levy Regulations. Directives	13060
 System Development Lifecycle SLA Service Level	12359
+São Tomé and Príncipe Element Maturity Level	18787
 TA Level	12241,839
 TEVET Levy	13060
 TEVET Levy and Toll	13053
@@ -969,8 +977,11 @@ TMMi Level	5665
 TRANSFERS COVERED The Electronic Transfer Levy	15600
 TRANSFERS NOT COVERED The Levy	15600
 TVET Levels	12411
+Target Achieved PDO Level Indicator Component	18825
+Target Achieved PDO Level Indicator Global	18825
 Target Compliance Level	6946
 Target Leverage Ratio	11134
+Targets Achieved PDO Level Indicator Strengthen	18825
 Taxes and Levies Act	11857
 Technical Level	16212
 Technologies. The High Level Ministerial Round	12918

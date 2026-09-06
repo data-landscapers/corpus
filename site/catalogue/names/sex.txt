@@ -36,6 +36,7 @@ BOLETIM OFICIAL Sexta-feira	15433,71,185
 BRUT D'ADMISSION PAR SEXE	10847
 BRUT DE SCOLARISATION PAR SEXE Nombre	10847
 Body Sexta-feira	12823
+Brigada de Abuso Sexual	18868
 Burkinabè Sexe MORTALITÉ GÉNÉRALE Milieu	15557
 CE2 CM1 CM2 Total Sexe	10847
 CM1 CM2 Total Sexe	10847
@@ -63,10 +64,11 @@ Collation and Analysis of Sex Disaggregated Data	16951
 Command Stations and Sex	2775
 Commercial Sexual Exploitation of Children	14742
 Communicable Sexual and NCD	15206
-Comportamento Sexual	10777
+Comportamento Sexual	10777,7985
 Comportamentos de Saúde Sexual	10777
 Comprehensive Sexual and Reproductive Health Services	13040
 Comprehensive Sexuality Education DAP	12175
+Country Diagnostic SEA Sexual Exploitation and Abuse	18777
 County Male Female Sex Ratio Number	16921
 County and Sex	2775
 Course and Sex	2775
@@ -79,6 +81,7 @@ Document Contractor During Sexual Exploitation	12253
 Document SEP Sexual Exploitation and Abuse SH	10964
 Drawing Rights SEA Sexual Exploitation and Abuse	1264
 Drawing Rights Sexual Exploitation	1228
+EMPLOI ET DU CHÔMAGE PAR SEXE	18757
 EMPLOI ET RÔLE DES SEXES	13300
 ENSEIGNANTS PAR SEXE	10847
 ENSEIGNANTS SEXE ET AGE	10847
@@ -122,11 +125,13 @@ Goals SGBV Sexual and Gender-Based Violence SLCS	18477
 Gross Sexual Imposition	16935
 Groupe Sexe Milieu	18014
 H Sexe	13442
+H Sexo	18757
 HABITUELS LIEN AVEC SEXE RÉSIDENCE	13300
 HIV and Sexually Transmitted Infections	14839
 HS Harcèlement Sexuel IST Infection Sexuellement	15746
 Harcèlement Sexuelles MECIE	14488,1,1
 Health and Rights STD Sexually Transmitted Disease	970
+Homme M Sexo	18757
 Hotel Amid Sex-for-Grade Plot. He Got	10034,231
 Household Head Sex Age	17114
 Hygiène Publique MST Maladies Sexuellement Transmissibles	15746
@@ -292,7 +297,7 @@ SEA Sexual Exploitation and Abuse SH Sexual	16922
 SEA Sexual Exploitation and Abuse Se-CNSA Food	18301
 SEA Strategic Environmental Assessment SEAH Sexual	11863
 SECTION II DES INFRACTIONS SEXUEIIES ET	15429
-SEP Stakeholder Engagement Plan SH Sexual	1988,16313
+SEP Stakeholder Engagement Plan SH Sexual	1988,16313,476
 SERAT Sexuality Education Review and Assessment Tool	12975
 SEX DISTRIBUTION BY DISTRICTS	18464
 SEX OF HOUSEHOLD HEAD	15244
@@ -312,6 +317,7 @@ SEXUELS DE RAPPORTS SEXUELS	13300
 SEXUELS RAPPORTS SEXUELS	13300
 SEXUELS SANS RISQUE AVEC LE MARI	13300
 SGBV Sexual and Gender-Based Violence SODV Sexual	12939
+SH Sexual Exploitation	18809
 SH Sexual Exploitation and Abuse	1867,1737,7164,792,3578,377,1434,509
 SH Sexual Exploitation and Abuse and Sexual Harassment	11417,132,4434,401,568,162
 SH Sexual Harassment SME Small and Medium	1264
@@ -423,11 +429,13 @@ Sexo Gráfico	11387
 Sexo Homens Mulheres Urbana Rural	11421
 Sexo Instituição	11387
 Sexo Masculino Feminino	10777
+Sexo Meio	18762
 Sexo Província	4044
 Sexo Tabela	11387
 Sexo Total Província	4044
 Sexo Urbana Rural Homens Mulheres	4044
-Sexta	3906,2835,1853,665,1,1518,654,47,6,91,3687
+Sexo da População Inquirida	18768
+Sexta	3906,2835,1853,665,1,1518,654,47,6,91,3687,3498
 Sexta Edição	10752
 Sexta-feira	14,781,2071,8607,1301,11,2619
 Sextafeira	17147
@@ -435,6 +443,7 @@ Sextortion	16505
 Sexual	587,10163,26,53,1087,337,650,36,23,396,1780,68,41,1679,25,176,1328,3,54
 Sexual Abuse	13185,1895,3424
 Sexual Abuse Of Ward	16935
+Sexual Abuse and Gender-Based Violence Brigade	18868
 Sexual Assault	16935
 Sexual Behavioral Change Communication SGBV	16951
 Sexual Behaviour	14067,1180,3194
@@ -543,6 +552,7 @@ Urbain Rural Ensemble Sexe du CM Masculin	737
 Urbain Sexe Masculin Féminin Total NYANZA	13390
 VIOLENCE SEXUELLE Violence	13300
 Violences Sexuelles	13442
+Vitoriano Sexta	18758
 WhatsApp. The Domestic and Sexual Violence Case	2445
 Women's Experience of Physical and Sexual Violence	13454
 Year Male Female B. Sexes Female	14815

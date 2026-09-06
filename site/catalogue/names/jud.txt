@@ -66,6 +66,7 @@ Commissioner Judith Mbabazi and Executive Secretary	12372
 Communications Officer Annual Retreat Judiciary Project	16943
 Competencia Judicial	16855
 Competent Judge	14852
+Competência da Polícia Judiciária	18758
 Compétence Judiciaires	13330
 Congo's ARPCE and Judiciary Strengthen Collaboration	3961
 Conseil Superieur du Pouvoir Judiciaire	17441
@@ -255,7 +256,7 @@ Judicaël TSOUMBOU NGOULOU	16175
 Judicaëlle Joëlle OTAKAYA	16175
 Judiciaire	14549,1352,35,1886
 Judiciaires	13908
-Judiciais	15520
+Judiciais	15520,3266
 Judiciais Estrutura	6568
 Judiciais. ARTIGO	539
 Judicial	477,62,3322,348,2178,2449,1296,620,156,480,568,245,25,34,77,1,75,135,372,52,532,1969,1368,14,71,17,74,122,117,1300,39
@@ -303,7 +304,7 @@ Judicial Officer. Nigeria Tax Administration Act	11976
 Judicial Officers	12668,461
 Judicial Organ	17438
 Judicial Performance Enhancement for Service	17441
-Judicial Police	11536,332,1446
+Judicial Police	11536,332,1446,5554,5
 Judicial Police Officers of Rwanda National Police	14869
 Judicial Power	16943,498
 Judicial Powers	13948
@@ -369,6 +370,7 @@ Judiciary LAN	6946
 Judiciary LAN The Authority	6946
 Judiciary Law	16943
 Judiciary Location of Courts	14847
+Judiciary Police	18797
 Judiciary President Boakai	17398
 Judiciary Reform Implementation Roadmap	15231
 Judiciary SECTION	16943
@@ -416,7 +418,7 @@ Judiciary.6	16943
 Judiciary4. His Majesty's Correctional Services5. Commission	12936
 Judiciary’s Electronic Court Case Management System	8470
 Judiciary’s Public Relations Office	8470
-Judiciária	6970
+Judiciária	6970,11788
 Judiciária Internacional	6970
 Judiciário	11414
 Judiciário. Desde	11543
@@ -462,7 +464,7 @@ Lagos State Judiciary	8978
 Latest Headlines WASPAN Appeals Judgement Upholding	7776
 Law of Judicial Organisation	12161
 Le Casier Judiciaire Central	16684
-Legal System and Judicial Independence	16972
+Legal System and Judicial Independence	16972,1825
 Legal System and Judicial Independence Eritrea	14008
 Legal System and Judicial Independence The Fundamental	16972
 Legal Year. The Judiciary	13504
@@ -569,6 +571,7 @@ Poder Judicial FUNCION Consejo	4209
 Poder Judicial Secretario Sala	4209
 Poder Judicial Servicio	4209
 Poder Judicial. O Governo	16487
+Poder Judiciário	18774
 Police Judiciaire	14653
 Police Judiciaire Police	13301
 Police Judiciaire de Cabo Verde	17848
@@ -576,10 +579,13 @@ Police Judiciaire du Cabo Verde	17848
 Police Judiciaire du Cap-Vert	16633
 Police Judiciaire. Il	16633
 Policia Judiciara	11325
+Policia Judiciária	18758
 Policía Judicial Grupo D	4209
 Policía Judicial Grupo D Servicio	4209
-Polícia Judiciária	2368,3799,200,5164,9,499,3320,145,983,613
+Polícia Judici	18758
+Polícia Judiciária	2368,3799,200,5164,9,499,3320,145,983,613,1658,28
 Polícia Judiciária. Em	1265
+Portuguese Judiciary Police	18797
 Pouvoir Judiciaire	15603
 Pouvoir Judiciaire. Il	15603
 Pr Judith NSONDE MALANDA	15685
@@ -623,7 +629,7 @@ Selon Judicaël Gbaguidi	7355
 Senior Judge	13504
 Sierra Leone Judiciary	18477
 Sierra Leone Judiciary Strategic Plan	16943
-Sistema Judicial	1701,14786
+Sistema Judicial	1701,14786,2299
 Sistema Judicial Las	1701
 Sistema Judiciário	10750
 Sistema de Justiça O Sistema Judicial	16487

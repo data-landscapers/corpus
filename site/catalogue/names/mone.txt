@@ -113,6 +113,7 @@ Banking and Monetary Supervision Department	17236
 Banks and Mobile Money Operators	4901
 Baraka Trust Money Transfer	13452
 Barry Maher and Nicolas Million INTERNATIONAL MONETARY	1828
+Base Monetária	18757,72,31,20
 Benin’s MonEntreprise.bj	10887
 Best Value for Money	12389
 Beyon Money To Bolster Digital Payments	5322
@@ -164,7 +165,7 @@ Cash Card Mobile Money	5247
 Cash Mobile Money	5247
 Cash Money	15291
 Catégorie Western Union Money	13390
-Central African Economic and Monetary Community	969,859,550,484,4076,212,2029,747,149,163,603,1064,112,2190,1240,214,836,445,16,38
+Central African Economic and Monetary Community	969,859,550,484,4076,212,2029,747,149,163,603,1064,112,2190,1240,214,836,445,16,38,1801
 Central African Economic and Monetary Community. BCEAO	9593
 Central African Economic and Monetary Union	15514,4
 Central African Interbank Monetary Group	4227
@@ -257,6 +258,7 @@ Economic WAMZ West African Monetary Zone	17235
 Economic and Monetary	15713
 Economic and Monetary Commu-	2775
 Economic and Monetary Community of Central Africa	26,1,1,4099,2994,2495,406,1938,3451,36,33,94,85,172,1111,54
+Economic and Monetary Community of Central Africa CST	18754
 Economic and Monetary Community of Central Africa EA	15574
 Economic and Monetary Community of Central Africa IWP	17101
 Economic and Monetary Community of Central Africa. Central	8147
@@ -305,7 +307,7 @@ Fondo Monetario Internacional	1701,6677,8520,6,185
 Free Money	241,3019
 Fund ICS International Monetary and Financial Committee	17235
 Fund UEMOA West African Economic and Monetary	11552
-Fundo Monetário Internacional	1948,6827,2794,1245,2619,479,177
+Fundo Monetário Internacional	1948,6827,2794,1245,2619,479,177,2704
 Fundo Monetário Internacional GenAI	2816
 G Money	15600
 G. Monetary and Financial Statistics	14777
@@ -353,6 +355,7 @@ IBS Bank Head of Mobile Money Mohamed	2819
 ICT MANDATE AND ITS MONEY	1285,1,1837,1,1260,1
 ID-Required Mobile Money	4439
 IGEPSA Implementation Manual International Monetary Fund	11905
+IMF ECF. Monetary	18851
 IMF Fiscal Affairs Department. International Monetary	16955
 IMF International Monetary Fund	11887,266,1,9,178,2588,291,3394
 IMF International Monetary Fund IMS Information	11863
@@ -400,11 +403,11 @@ Intergovernmental Action Group Against Money Laundering	17235
 Interim Financial Reports IMF International Monetary	18293
 Intermediated Money Transfer Tax	9904
 International Growth Centre IMF International Monetary	15023
-International Monetary Fund	1155,129,544,57,1693,5,21,6,43,474,917,97,106,1091,600,304,223,113,26,33,116,70,166,21,251,97,68,289,303,212,198,31,31,21,59,169,464,216,324,98,128,28,134,3,2,4,9,44,2,63,28,94,145,11,13,23,312,11,10,19,23,47,133,32,3,14,29,150,21,9,10,92,13,338,84,26,8,6,82,11,5,62,210,292,117,127,140,538,192,6,30,3,96,56,3,97,212,131,99,2,5,2,11,27,35,105,1,2,64,65,243,111,45,275,369,109,7,6,5,36,15,26,67,1,88,16,26,22,59,1,9,13,25,57,82,165,202,39,81,73,230,25,170,19,5,65
+International Monetary Fund	1155,129,544,57,1693,5,21,6,43,474,917,97,106,1091,600,304,223,113,26,33,116,70,166,21,251,97,68,289,303,212,198,31,31,21,59,169,464,216,324,98,128,28,134,3,2,4,9,44,2,63,28,94,145,11,13,23,312,11,10,19,23,47,133,32,3,14,29,150,21,9,10,92,13,338,84,26,8,6,82,11,5,62,210,292,117,127,140,538,192,6,30,3,96,56,3,97,212,131,99,2,5,2,11,27,35,105,1,2,64,65,243,111,45,275,369,109,7,6,5,36,15,26,67,1,88,16,26,22,59,1,9,13,25,57,82,165,202,39,81,73,230,25,170,19,5,65,220,26,2,26
 International Monetary Fund About the Global Innovation	11895,264
 International Monetary Fund BURUNDI SELECTED ISSUES	13624
 International Monetary Fund Code	11895
-International Monetary Fund Copies	17990
+International Monetary Fund Copies	17990,833
 International Monetary Fund Country Report	15511
 International Monetary Fund Country Report No	11905
 International Monetary Fund Deputy Director of Statistics	8413
@@ -426,7 +429,7 @@ International Monetary Fund Outdated	11895,264,328
 International Monetary Fund PPP	10969
 International Monetary Fund Quota Subscription Account	11131
 International Monetary Fund SIP	10997
-International Monetary Fund Washington	1828,11796,244,909,2432,48,69,177,406,81
+International Monetary Fund Washington	1828,11796,244,909,2432,48,69,177,406,81,833
 International Monetary Fund and Gartner	14729
 International Monetary Fund and World Bank	10829,6406
 International Monetary Fund and World Bank Group	14774
@@ -550,9 +553,12 @@ Managing Director of Airtel Money Kenya	8623
 Market Share Trends of Active Mobile Money	15136
 Market Share of Active Mobile Money	15136
 Marketing de Orange Money	2983
+Massa Monetária	18757
+Masse Monetaire	18757
 Media and Broadcasting IMF International Monetary Fund	17105
 Meeting. Global Money Week Fair Hosted	11131
 Mercado Monetário	12789
+Mercado Monetário Interbancário	18829,31,20
 Meta Monetisation Programs	13462
 Middle East. The International Monetary Fund	17316
 Migrant Money	14909
@@ -682,7 +688,8 @@ Monetary Fund KGS Keeping Girls	13332
 Monetary Fund UNDP Lesotho European Union	12701
 Monetary Fund. TADAT Secretariat	10997
 Monetary Integration Programme	16844
-Monetary Policy	4103,261,2574,4193,3,842,946,34,104,62,1875,2141
+Monetary Law	18797
+Monetary Policy	4103,261,2574,4193,3,842,946,34,104,62,1875,2141,1685
 Monetary Policy Committee	4265,1988,68,1607,479,164,2627,3546,358,2002,34,55,42,22,59,1,104
 Monetary Policy Committee MPC Monetary Policy	17235
 Monetary Policy Committee Meeting	17104,213
@@ -722,7 +729,7 @@ Monetary Policy and Interest Rates	13123
 Monetary Policy and Research Directorate	15023
 Monetary Sector Indicators	17909,81
 Monetary Stability	13474
-Monetary Survey	17209,48,60,9,177,406,81
+Monetary Survey	17209,48,60,9,177,406,81,833
 Monetary Transfers Program and Accompanying Measures	17906
 Monetary Union	2775,963,4229,559,2330,694,2859,1735
 Monetary Union Agreement	17235
@@ -769,7 +776,7 @@ Money For Terror	11579
 Money Gram	17833
 Money Gram Nombre	13390
 Money Laun-	14897
-Money Laundering	3586,945,2921,3679,3,727,2464,473,21,1082,1327,642
+Money Laundering	3586,945,2921,3679,3,727,2464,473,21,1082,1327,642,927
 Money Laundering Act	7845
 Money Laundering Regulations. Hence	12558
 Money Laundering and Countering the Financing of Terrorism	13532
@@ -801,10 +808,12 @@ Money Transmission	12490
 Money Warrant	14135
 Money Warrant The New Money	14135
 Money Without Borders	17467
-Money and Banking System	16972
+Money and Banking System	16972,1825
 Money and Banking System Due	14008
 Money and Banking System Per the Central Bank	16972
+Money and Banking System São Tomé and Príncipe	18797
 Money and Capital Market	17235
+Money and Credit Base	18823
 Money and Efficiency	13998
 Money and Payments	7
 Money and Quasi-Money Supply	2775
@@ -984,8 +993,12 @@ SAMIR Money SA EP.SN.005	17024
 SARA MONEY ECOBANK CI CashXpress Cell	18313
 SARL ABSERVICE MONETIQUE GUINEE SAR	16623
 SASPP Technical Paper Series Monetary	17906
+SECÇÃO III Emissão Monetária Artigo	18800
+SECÇÃO IV Política Monetária Artigo	18800
 SERVICES GENERATION INFORMATION SUPPORT MOBILE MONEY	11964
 SIM Card and Mobile Money Registration	4439
+SITUATION MONETAIRE	18757
+SITUAÇÃO MONETÁRIA	18757
 SPACE Value for Money of Social Protection and Humanitarian	15658
 SPECIFIC MONETARY PENALTIES	14880
 SSA. Mobile Money	836
@@ -1005,6 +1018,8 @@ Selon Moov Money	3361
 Service Provider Global Money Week Insurance	940
 Seul Moov Money	3361
 Sistema Integrado de Gestão Monetária	17032
+Situation Monetaire	18757
+Situação Monetária	18757
 Small Money Issuer	12286
 Small and Medium-sized Enterprise Africa MTO Money	12444
 Smart Money Talks	13532
@@ -1096,7 +1111,9 @@ West African Monetary Zone	999,47,218,9144,2980,3456,391,1265
 Western African Economic and Monetary Union	17870
 Western Union and MoneyGram	11169,791
 Western Union and MoneyGram.28 Micro Finance Institutions	13388
+Western Union and Moneygram	18770
 Working Digital Money	226
+World Bank IMF International Monetary Fund	18851
 World Bank PAD. Money	7453
 World Bank and International Monetary Fund	12584,117
 World Bank. The International Monetary Fund	18301

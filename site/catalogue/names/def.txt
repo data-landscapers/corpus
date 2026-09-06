@@ -162,6 +162,7 @@ Compendium of Concepts and Definitions	13359
 Concepts and Definitions	11258,38,1135,275,2330
 Consejo Nacional Fiscalía Defensor	4209
 Conselho Administrativo de Defesa Econômica	8760
+Conselho Superior de Defesa	18751
 Constitution. Defence	18597
 Construction of Ntchisi-Malomo Road Fiscal Deficit	13122
 Consumers of ICT ICTs. Services Define and Implement	13295
@@ -237,7 +238,7 @@ DEFENSORIA DEL PUEBLO	4209
 DEFENSORIA DEL PUEBLO Servicio	4209
 DEFERRALS	11955
 DEFESA NACIONAL	16487
-DEFEXPO	17241
+DEFEXPO	17241,1616
 DEFI NA	17828
 DEFICIENCE	15364
 DEFICIT	11572
@@ -463,7 +464,7 @@ Defendant United States Department of State	5692
 Defendants	1829,11211
 Defendants Namonde and Madukani	13040
 Defende	2921,598,1960
-Defender	1701,9817,3826,159
+Defender	1701,9817,3826,159,3248,119
 Defenders Coalition Somalia	15007
 Defenders Project	15007
 Defendeu	5272,33,1690,1008,3675,4304,1355,75
@@ -509,9 +510,11 @@ Deferred Fines	12920
 Deferred Net DNS Participant	12364
 Deferred Net Settlement	12364
 Deferred Retirement	12972
-Defesa	539,255,1643,347,32,3170,3413,1351,680,90,4442
-Defesa Nacional	549,6421,3802,11,786,1218,36,2535,893
+Defesa	539,255,1643,347,32,3170,3413,1351,680,90,4442,2788
+Defesa Nacional	549,6421,3802,11,786,1218,36,2535,893,2500,37,8
+Defesa Nacional Artigo	18751
 Defesa Nacional Portaria	15358
+Defesa Nacional. Assim	18788
 Defficiency	6729
 Defi Media	6993
 Defiba Ka Ouagadou- Tangali	18077
@@ -522,7 +525,7 @@ Deficiency Syndrome ANFEU Adult and Non-Formal Education	16852
 Deficiency Syndrome ARI Acute Respiratory Infection	16971
 Deficiency Syndrome NHC National Health Council	396
 Deficient	9123,5835
-Deficiente	15694
+Deficiente	15694,3069,31
 Deficientes	15694
 Deficientes Mo	12201
 Deficientes Visuais de Cabo Verde	15694
@@ -530,16 +533,17 @@ Deficit	5655,9081,958,742,669,155,104
 Deficit Financing	13474
 Deficit of Males	18464
 Deficits	961,10584,647
-Deficiência	10754,23,644,1399,2874,1484
+Deficiência	10754,23,644,1399,2874,1484,1597,95
 Deficiência Author	12797
 Deficiência FICEICEAGD FInesdteitruatçoãCo	15694
 Deficiência Mental	15694
+Deficiência Número de Empresas Porcentagem	18775
 Deficiência O Censo	11577
 Deficiência PNC Plano Nacional de Cuidados ANEXO	15694
 Deficiência. Esta	17178
 Defilement	15845
 Defin-	8602
-Define	1000,777,1742,159,294,154,1118,421,12,1,745,9,400,104,404,208,1558,749,781,129,10,185,57,55,84,60,331,6,16,234,2,52,6,145,206,97,32,13,3,40,20,144,112,11,93,6,295,215,86,629,175,256,160,176,35,6,1,60,10,108,37,96,31,3,306,10,110,387,79,23,109,645,28,78,24,130,21,26,17,34,5,674,439,171,51
+Define	1000,777,1742,159,294,154,1118,421,12,1,745,9,400,104,404,208,1558,749,781,129,10,185,57,55,84,60,331,6,16,234,2,52,6,145,206,97,32,13,3,40,20,144,112,11,93,6,295,215,86,629,175,256,160,176,35,6,1,60,10,108,37,96,31,3,306,10,110,387,79,23,109,645,28,78,24,130,21,26,17,34,5,674,439,171,51,221
 Define Campaign Objectives	12675
 Define Core Principles	12675
 Define Enterprise Architecture	12359
@@ -570,15 +574,15 @@ Defined Broadband Capacity Target	16883
 Defined Contribution Pension Scheme	14828,15
 Defined Milestones and Timelines	12356
 Defined Standards	12419
-Defines	396,2662,7850,314,47,1658,258,200,1392,257,726,1354
+Defines	396,2662,7850,314,47,1658,258,200,1392,257,726,1354,1681
 Defines the Application Programming Interface	11269
 Defines the Year	7445
 Defini9õea Para	11514
 Definiciones	163,16692,9,56,45,9
 Definición	1701,15174,87
-Definido	11569
+Definido	11569,7232
 Definimos	15892
-Defining	226,170,565,282,534,1874,2026,23,839,432,2266,522,1218,156,23,699,151,2,232,882,173,1428,209,3,99,1178,655,5,12,32,59,182,623,887
+Defining	226,170,565,282,534,1874,2026,23,839,432,2266,522,1218,156,23,699,151,2,232,882,173,1428,209,3,99,1178,655,5,12,32,59,182,623,887,103
 Defining AI and Automated Systems	6442
 Defining Actors	12139
 Defining Artificial Intelligence	3651
@@ -606,7 +610,7 @@ Defining the Conditions	17157
 Defining the Mauritian Broadband Ecosystem	14723
 Defining the RPPI	11286
 Defining the RPPI An RPPI	11286
-Definir	167,1534,1115,703,699,6536,29,577,21,49,14,4,3,5,2,3,55,2,1,50,332,873,1676,990,10,26,50,38,191,334,232,865
+Definir	167,1534,1115,703,699,6536,29,577,21,49,14,4,3,5,2,3,55,2,1,50,332,873,1676,990,10,26,50,38,191,334,232,865,1574,1,2,9,1,1,4,5,17,1
 Definite-match	8,11,11,5,4,4,1,1,1,1,1,1,2,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,2,1,2,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,9,8,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,3,10,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,2,6,3,4,7,9,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,2,3,13,1,21,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,3,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,30,18,10,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,12,5,4,2,1,19,11,1,2,11,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,15,23,6,16,3,1,1,17,1,3,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,4,1,3,1,1,2,1,1,1,1,1,2,2,1,1,1,1,1,1,1,2,1,23,4,6,73,123,2,1,1,1,2,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,1,1,1,1,2,1,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,2,1,1,1,109,93,357,1,7,3,1,1,1,1,7,1,4,5,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,6,1,3,1,2,1,1,1,1,6,1,1,2,3,1,1,2,2,279,1640,286,1,2,7,1,5,8,3,23,4,11,1,5,2073,2044,299,102,24,256,144,41,95,12,86,109,123,233,154,745,2765,4,3,851,188,529,348,906,96,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1529,45
 Definitely	12214,1173
 Definition	545,221,1058,1337,924,1580,35,1048,143,995,890,348,113,1484,431,25,81,18,20,121,452,47,27,43,160,29,10,109,7,59,29,521,9,134,246,12,557,70,17,31,5,726,37,61,43,3,1,53,6,209,114,419,1173,7,17,24,39,27,190,744,559,27,86
@@ -733,21 +737,25 @@ Definitive	1537
 Definitive Concession Order	10930
 Definitive Proxy Statement of IHS Holding Limited	7198
 Definitive Purchase Agreement	16412
-Definição	2816,1331,71,7159,4,7,17,4,16,11,6,2,4,3,5,11,51,2,49,329,2414,1164,28,5,17,9,554,398
+Definição	2816,1331,71,7159,4,7,17,4,16,11,6,2,4,3,5,11,51,2,49,329,2414,1164,28,5,17,9,554,398,2263,1,9,2,12,7,20
+Definição Artigo	18751
 Definição de Abono de Família	11467
 Definição de Mercados	11430
 Definição de Necessidades de Implementação	11406
 Definição de Políticas	11457
-Definições	14,1,524,37,218,1643,1,428,653,755,2188,508,3777,7,1,28,575,1,1,4,1,2,2,1,7,6,1,1,1,18,1,14,11,3,5,5,18,55,2,1,1,8,614,169,459,3,9,3,2655,10,104,1539,7
+Definição de Residentes	18750
+Definição de Trabalho Infantil	18762
+Definições	14,1,524,37,218,1643,1,428,653,755,2188,508,3777,7,1,28,575,1,1,4,1,2,2,1,7,6,1,1,1,18,1,14,11,3,5,5,18,55,2,1,1,8,614,169,459,3,9,3,2655,10,104,1539,7,1655,6,3
 Definições CAPÍTULO II	11461
-Definições Os	5169
-Definições Para	6462,4912,527,952,2624,27,634
+Definições Os	5169,13584
+Definições Para	6462,4912,527,952,2624,27,634,2614,6,20
+Definições de Operações Cambiais	18750
 Deflation	12403
 Deflator	11258
 Deflator Administrative	14985
 Deforestación	16875
 Deforestación Ilustración	16875
-Deforestation	12233,4615,148,58,85,1
+Deforestation	12233,4615,148,58,85,1,1645
 Deforestation Rates. World Development	13624
 Deforestation Regulation	11149
 Deforestation and Degradation	17054
@@ -928,6 +936,7 @@ IV.8. RELEVER LE DEFI DE REVOLUTION	18291
 Immune Deficiency Syndrome AMICAALL Alliance of Municipal	12970
 Implementation Shall Define Budget Outcomes	8723
 Index Definition	17140
+India Africa Defence Ministers Meet	18857
 India-Africa Defence Dialogue	16164,113,964,979
 India-Africa Defence Minister's Conclave	11579
 India-Africa Defence Ministers Meet	17241
@@ -1038,11 +1047,14 @@ Microsoft and Oracle. The Department of Defence	6477
 Microsoft’s Digital Defense Report	8711
 Minister of Defence	7845,5717,386,796,9,88,1323
 Minister of Defence Dr. Feston Kaupa	6813
+Minister of Defence and Internal Affairs of Sao Tome	18857
 Minister of Defence and Veterans Affairs	18691
 Minister of Defence and War Veterans Affairs	13562
 Minister of Defence of The Gambia Mr. Sering	17241
 Minister of Defense	15473,11
+Minister of Defense Brigadeiro Horacio de Sousa	18879
 Minister of Defense Exempted	15473
+Minister of Defense and Internal Order	18842
 Minister of Defense and Military Production Mohamed Zaki	15656
 Minister of Defense of Djibouti	13878
 Minister of National Defence	16275,2,54
@@ -1060,6 +1072,7 @@ Ministry of Defence Ministry of Agriculture	17105
 Ministry of Defence and Security	2736
 Ministry of Defence and Veteran Affairs	18016
 Ministry of Defence of DRC	16164
+Ministry of Defence of Sao Tome	18857
 Ministry of Defense	1000,2604,9710,2159,11,493,895,44,26,838
 Ministry of Defense and Military Production	15473
 Ministry of Defense. Law	15473
@@ -1070,7 +1083,7 @@ Ministry of National Defense	1777,1061,1917,515,11602,103,8
 Ministry of National Defense MoE	16975
 Ministry of National Defense The Ministry of National	16975
 Ministry of National Defense Year	16872
-Ministério da Defesa	11531
+Ministério da Defesa	11531,7229,38
 Ministério da Defesa Nacional	10754,776,39
 Modou Njie and Chief of Defence Staff Lt	17241
 Mutual Defence Cooperation	12326
@@ -1086,6 +1099,7 @@ NDU National Defence University NEMA National	2775
 NFMC Deferred	11857
 NFRASTRUCTURE Defining	961
 NISR Definitions	12413
+NIST Definition of Cloud Computing	18774
 NOTE ON A DEFECT	573
 NSDS Category Definition	13082
 Na DEF	15520
@@ -1113,6 +1127,7 @@ Nigeria’s Defence Industries Corporation of Nigeria	10200
 Nigeria’s Defence Intelligence Agency	5215
 Nigeria’s Minister of Defense	8120
 Number of Public Defenders	16943
+O Ministro da Defesa	18750,2
 O Serviço de Defesa Patrimonial	15526
 OBJECTS AND APPLICATION Definitions	11179
 OBRIGATORIEDADE DIREITOS DAS PESSOAS COM DEFICIENCIA	15694
@@ -1157,10 +1172,12 @@ Part D Deferral	11181
 Part I Definitions HIPSSA	27
 Period Period Definition Period	11905,3754
 Persistent Gaps and Capacity Deficits	17116
+Pessoal Portador de Deficiência	18775
 Pillar Definition Digital Provides	17870
 Plan SN ITEM DEFINITION METRICS	11857
 Plantation Forests Define GoL	16848
 População Deficiente	15694
+Portabilidade de Deficiência	18775
 Preliminary Definitions	26
 Presidential Defence	3583
 Primary Data Governance Terms and Definitions	15034
@@ -1170,6 +1187,7 @@ Principles for National Defence	13948
 Privacy-by-Design and Default Requirements	6936
 Probably Definitely Very	12214
 Processo de Definição de Mercados	11430
+Programa de Definição de Metas de Neutralidade da Degradação	18760
 Programa deFortalecimento da Protecção Social	7882
 Promoción Artesanal MDN Ministerio de Defensa Nacional	16898
 Protection Law CHAPTER ONE Definitions ARTICLE	15484
@@ -1179,6 +1197,7 @@ Public Defenders	16943
 Public Officers’ Defined Contribution Pension Fund	12701
 Pueblo la Defensa	16855
 Question That Cannot Be Deferred	10570
+R Protocolo de Rede Definida	18774
 REBALANCING THE LEGAL ECOSYSTEM Defining	961
 REDUCTION OF EMISSIONS Deforestation	17140
 RELATIF A LA DEFENSE ET	18032
@@ -1205,6 +1224,7 @@ Replacement of Definitive Driving License	12333
 Requirements Definition	9237
 Requirements Requir Data Definition Explanation Example	12360
 Reserve Operation Default TTC	12364
+Resiliência da Defesa Nacional	18788
 Responsibility for Data Indicator Name Definition	1284,15638
 Resultados Definitivos	4044,2551,4162,664,1,155
 Resultados Definitivos Empresa Pública	10757

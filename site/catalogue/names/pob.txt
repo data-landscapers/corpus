@@ -35,6 +35,8 @@ Mega-Sistema Poblacional	1701
 PNP. La Política Nacional de Población	1701
 POBLACIÓN Y DEMOGRAFÍA	16969
 POBLADOS CATEGORÍA MINISTERIO CONCEPTO ACTUAL CATEGORÍA	4209
+Países Pobres	18853
+Países Pobres Altamente Endividados- HIPC	18798
 Población	1701,6347,8850,71
 Población Activa Empleo	16898
 Población Gráfico	16969
@@ -42,7 +44,8 @@ Población UNICEF Fondo	16898
 Población Vulnerable	4209
 Poblado	4209
 Poblados	16962
-Pobreza	1701,247,8806,11,10,587,28,172,15,101,5215,5
+Pobre	18803,23
+Pobreza	1701,247,8806,11,10,587,28,172,15,101,5215,5,1958
 Pobreza DESARROLLO SOSTENIBLE	1701
 Pobreza Multidimensional	11586
 Pobreza PIPGR Programa de Inclusão Produtiva	11390

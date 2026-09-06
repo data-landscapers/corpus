@@ -189,6 +189,7 @@ CHEF DU GOUVERNEMENT LE PRESIDENT	13923
 CHEF DU GOUVERNEMENT L’EDUCATION CIVIQUE	15558
 CHEF DU GOUVERNEMENT VU La Constitution	13825,2,16,80,14,3
 CHEF OU MAITRE PRINCIPAL	15524
+CHEFE DE DEPARTAMENTO Carlos	18798
 CHEFIA DO GOVERNO	15358,46,128
 CHEFIA DO GOVERNO A2026	17411
 CHEFS D’ETAT CONFEDERATION DES ETATS	18032
@@ -554,7 +555,8 @@ Chef-lieu de District. Au	14423
 Chef-lieu de Région	18101
 Chef. Article	17861
 Chefchaouen	17524
-Chefe	2054,730,32,949,382,2421,1168,374,90,1494,1056,1,1,2,681,78,53,1226,41,2670,629
+Chefe	2054,730,32,949,382,2421,1168,374,90,1494,1056,1,1,2,681,78,53,1226,41,2670,629,2619,1,1,19,1,23,2,55
+Chefe da Auditora-Chefe da Bureau Veritas	18876
 Chefe da Casa Civil	2581,1566,2390,103,4753,15
 Chefe da Casa Militar	4147,7274,156
 Chefe da Divisão de Documentação	11473
@@ -574,6 +576,7 @@ Chefe de Estado	3692,1512,1,67,702,6,557,103,3455,2216,2002
 Chefe de Estado. Aos	5053
 Chefe de Estado. Esta	6537
 Chefe de Gabinete	11561
+Chefe de Governo	18750
 Chefe de Repartição	15526
 Chefe de Repartição Fiscal	11435
 Chefe de Secção	11435
@@ -782,6 +785,7 @@ Chengeto Moyo. FORM OF ELECTION	4896
 Chenini	17157
 Chennai	6480,554,7739
 Chennai and Mumbai	10846
+Chennai. During October-November	18857
 Chennouf El Nadhir EAC Cherifi Mohamed	15690
 Chenosis	924,2233,3436,10216
 Chenouf Alkama Derradji Belloum Sihem Medani	15432
@@ -807,7 +811,7 @@ Cheptel. RGP	18100
 Chepurai Lomor	3005
 Chepyuk Health Centre Data Controller INST-14227872BCF	7167
 Chepyuk Health Centre Data Processor INST-14227872BCF	7167
-Cheque	8412,2343,631,614,1532,1196,295,2339,1100
+Cheque	8412,2343,631,614,1532,1196,295,2339,1100,299,37,55
 Cheque Clearing	11955
 Cheque Clearing The Cheque Clearing	11955
 Cheque Clearing Transactions	11955
@@ -816,7 +820,7 @@ Cheque System	13532
 Cheque Truncation Project	12286
 Cheque of Rs	14835
 Chequeo	16974
-Cheques	585,799,7482,629,670,590,375,256,79,2067,2557
+Cheques	585,799,7482,629,670,590,375,256,79,2067,2557,2740
 Chequia ALLO	6613
 Cher Collègue	7470
 Cher Monsieur	15908
@@ -1207,6 +1211,7 @@ Lourino Alberto Chemane	2784,32,7323
 Lourino Chemane	2784,32,2111,103,1301,46,158,243,958,1490,125,1988,439,323,698,10,31,1343,3487
 Lourino Chemane and Eugénio Alberto Macumbe	4214
 Lourino ChemaneChairman	11439
+Lourino Chemani	18806
 Lubricants Chemicals	17235
 Lydia Cheruto	12297
 Lynne Chepkwony	17761

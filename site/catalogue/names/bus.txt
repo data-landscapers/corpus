@@ -272,7 +272,7 @@ Bus.Mngt	13053
 BusCRI	11198
 BusPirnoefsessessioonwaln	15085
 Busamed Bram Fischer International Airport Hospital	11986
-Busan	10444,1419,5035
+Busan	10444,1419,5035,1885
 Busan Action Plan for Statistics	16863
 Busan Port Community System	5993
 Busanga	15670,69
@@ -315,7 +315,7 @@ Busia Senator Okiya Omatah	9645
 Busia Senator Okiya Omtatah	8949
 Busia West Pok	12151
 Busia and Mandera	14464
-Business	3,8,225,182,155,9,193,14,157,12,51,152,82,14,27,313,231,112,6,147,496,93,154,3,81,295,68,25,102,27,116,161,68,88,28,25,46,157,1,305,27,69,159,66,38,260,161,35,96,6,45,139,32,90,3,7,68,40,1,326,97,42,66,6,90,175,672,123,8,35,12,141,184,11,39,15,51,91,36,13,123,229,40,181,197,107,4,235,5,109,16,68,78,336,158,96,36,27,105,248,2,32,87,29,20,88,48,1,9,38,34,19,11,12,2,1,3,15,6,50,52,4,1,4,3,1,13,14,3,10,33,33,46,2,3,1,49,11,36,54,39,23,122,112,165,111,4,2,7,4,7,1,2,1,1,1,1,1,6,1,6,38,4,8,3,9,1,11,10,8,6,43,109,1,1,5,1,3,39,2,1,9,55,1,58,12,1,5,5,1,1,2,4,5,12,7,13,1,23,11,14,2,5,1,7,23,4,1,2,15,7,27,147,213,18,68,20,32,5,41,73,13,16,32,41,37,13,3,3,10,7,14,13,10,19,11,63,71,18,114,118,105,51,11,5,124,361,2,153,81,48,29,22,1,61,7,10,26,1,17,24,7,4,33,4,28,17,20,46,5,5,212,109,13,15,21,14,4,2,13,19,2,4,24,11,30,80,50,271,160,32,84,55,1,311,216,24,5,2,4,6,1,41,9,7,9,45,15,6,82,15,25,10,99,4,118,67,176,2,105,103,37,10,169,70,136,203,6,7,49,31,15
+Business	3,8,225,182,155,9,193,14,157,12,51,152,82,14,27,313,231,112,6,147,496,93,154,3,81,295,68,25,102,27,116,161,68,88,28,25,46,157,1,305,27,69,159,66,38,260,161,35,96,6,45,139,32,90,3,7,68,40,1,326,97,42,66,6,90,175,672,123,8,35,12,141,184,11,39,15,51,91,36,13,123,229,40,181,197,107,4,235,5,109,16,68,78,336,158,96,36,27,105,248,2,32,87,29,20,88,48,1,9,38,34,19,11,12,2,1,3,15,6,50,52,4,1,4,3,1,13,14,3,10,33,33,46,2,3,1,49,11,36,54,39,23,122,112,165,111,4,2,7,4,7,1,2,1,1,1,1,1,6,1,6,38,4,8,3,9,1,11,10,8,6,43,109,1,1,5,1,3,39,2,1,9,55,1,58,12,1,5,5,1,1,2,4,5,12,7,13,1,23,11,14,2,5,1,7,23,4,1,2,15,7,27,147,213,18,68,20,32,5,41,73,13,16,32,41,37,13,3,3,10,7,14,13,10,19,11,63,71,18,114,118,105,51,11,5,124,361,2,153,81,48,29,22,1,61,7,10,26,1,17,24,7,4,33,4,28,17,20,46,5,5,212,109,13,15,21,14,4,2,13,19,2,4,24,11,30,80,50,271,160,32,84,55,1,311,216,24,5,2,4,6,1,41,9,7,9,45,15,6,82,15,25,10,99,4,118,67,176,2,105,103,37,10,169,70,136,203,6,7,49,31,15,197,14,29,42
 Business A2C	14438
 Business Accountability	15034
 Business Acumen	6432
@@ -371,7 +371,7 @@ Business Case for Interoperability Interoperability	15540
 Business Case for Providing Financial Services	12297
 Business Cases and Project Closure Reports	15023
 Business Category. FI's Compliance Officers	11861
-Business Census	15085,1911
+Business Census	15085,1911,1842
 Business Center	2807,4
 Business Change Request	9124
 Business Clase	4209
@@ -519,13 +519,14 @@ Business Eswatini CEO Nathi Dlamini. Minister	5015
 Business Eswatini Pivotal Power Meeting	5015
 Business Eswatini Sugar	3422,225,6,324,50,146,12,487,343
 Business Event Customer Applies for ID	9124
-Business Facilitation	14008,2964
+Business Facilitation	14008,2964,1825
 Business Facilitation Act	14736
 Business Facilitation Bill	6887,7942
 Business Facilitation Company	13100
 Business Facilitation Directorate	18463
 Business Facilitation Directorate Public Private Partnership	18463
 Business Facilitation Single Window	12703
+Business Facilitation São Tomé and Príncipe	18797
 Business Faiba	9940
 Business FinTech Strategy	4185
 Business Financial Services	12214
@@ -587,6 +588,7 @@ Business Intellegence System	1789,1,1,1
 Business Intelligence	11131,3,1106,2076,306,854,1640
 Business Intelligence Analysts	14744
 Business Intelligence CDHO Chief Digital Health	12240
+Business Intelligence Elevada Dados Mestre	18801
 Business Intelligence Framework	11131
 Business Intelligence Platform Successfully Launched	11134
 Business Intelligence Specialists	6832
@@ -850,7 +852,7 @@ Business and Economic Research	4432
 Business and Economics	9237,2962
 Business and Farmers	789
 Business and Government-to-Citizen	14729
-Business and Human Rights	3005,578,3564,1935,1925,3666
+Business and Human Rights	3005,578,3564,1935,1925,3666,4124
 Business and Human Rights Centre	9399
 Business and Human Rights. Modest Activation	17139
 Business and Human Rights.66	11007
@@ -883,7 +885,7 @@ Business and Technology Developments	13053
 Business and Trade Associations	14800
 Business of Artificial Intelligence	11265
 Business- Critical High Performance Standard Basic	5665
-Business-Government	10862
+Business-Government	10862,7976
 Business-registration	3594
 Business-related	17149
 Business-to-Business	7221,1449,4644,88,1388,155
@@ -1219,6 +1221,7 @@ Doing Business Doing Business Doing Business	18109
 Doing Business Index. Key	15447
 Doing Business Infrastructures	15493
 Doing Business Made Easier URL	12280
+Doing Business Melhorar	18767
 Doing Business Methodology	18534
 Doing Business Page	18109
 Doing Business Portal	6593
@@ -1273,12 +1276,13 @@ EU-Ethiopia Business Forum	5873,8235
 EU-Tanzania Investment and Business Forum	10592
 EVALUATION CRITERIA BUSINESS VALUE TECHNICAL COMPLEXITY	6432
 EVERYDAY BUSINESS IN ZAMBIA	13532
-Ease of Doing Business	464,3443,9413,1405,753,2,16
-Ease of Doing Business Index	4528,7984,444
+Ease of Doing Business	464,3443,9413,1405,753,2,16,3271,5
+Ease of Doing Business Index	4528,7984,444,5811,5
 Ease of Doing Business Index and Competitiveness	12920
 Ease of Doing Business Portal	3725,182,4300
 Ease of Doing Business Reforms	13474,211
-Ease of Doing Business Report	11379,4153
+Ease of Doing Business Report	11379,4153,3240
+Ease of Doing Business. Fonte	18767,5
 Ease of Doing Business. Nigeria	8440
 Ease of Doing Business. Zambia	12376
 East Africa Business World	6397
@@ -1538,6 +1542,7 @@ Incubation Acceleration Ecosystem Players Sample Business	12376
 Incubation Acceleration Institute Type Business Training	12376
 Independent News Business Desk	11048
 Index ESB Enterprise Service Bus FISP	13345
+India Means Business	18810
 India-Gabon Business Council	16285
 India-Gabon Business Forum	16285
 India-Malawi Business Seminar	13029
@@ -1909,6 +1914,7 @@ Project for ICT-Based Business Creation and SME Support	505
 Projections and Business Targets	3487
 Provide Business Innovation Support	12675
 Provide Citizens and Businesses	15679
+Príncipe Doing Business Score	18767
 Public Administration Business	10837,1315,188
 Public Business	18436
 Public Business Sector	15393
@@ -2255,7 +2261,7 @@ World Bank Digital Business	16942
 World Bank Doing Business	16876
 World Bank Doing Business Report	12376
 World Bank Doing of Business Report. Available	12376
-World Bank Ease of Doing Business	10841
+World Bank Ease of Doing Business	10841,7931
 World Bank Ease of Doing Business Index	4528,7984
 World Bank's Ease of Doing Business Index	8440
 World Bank’s Business Pulse Surveys	17870

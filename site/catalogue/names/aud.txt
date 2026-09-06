@@ -102,6 +102,9 @@ Accountants and Auditors Act	3714
 Accountants’ and Auditors’ Act	3714
 Accountants’ and Auditors’ Regulatory Authority of Namibia	3714
 Accounting and Audit	6998
+Accounting and Auditing	18825
+Accounting and Auditing ROSC Report	18825
+Accounting and Auditing Standards. Table	18825
 Accounts and Audit	14410,39,271,15,1,7,25,56,4,3,12,7,3751,1
 Accounts and Audit. CHAPTER VI MISCELLANEOUS PROVISIONS	18599
 Accounts and Audits	12531
@@ -204,6 +207,7 @@ Audiotex	14847
 Audiovisual	9067
 Audiovisual Communication5	17970
 Audiovisual Na	16122
+Audiovisual Performances	18797
 Audiovisual and Digital Media Industry Support	5198
 Audiovisual and Digital Media Industry Support and Services	5188
 Audiovisuales	4209
@@ -396,7 +400,7 @@ Auditeurs	15027,2557
 Auditeurs Internes	15027
 Auditeurs du LE PRESIDENT DE LA TRANSITION	17982
 Auditif	13390
-Auditing	236,547,1944,324,553,283,1009,3092,2841,304,392,1370,158,268,10,89,41,1436,272,203,39,107,140,1,2,428,835,25,193,1389,70,1
+Auditing	236,547,1944,324,553,283,1009,3092,2841,304,392,1370,158,268,10,89,41,1436,272,203,39,107,140,1,2,428,835,25,193,1389,70,1,249
 Auditing Arrangements	11855
 Auditing Chambers	14850
 Auditing Cybersecurity	1940
@@ -487,11 +491,12 @@ Auditor-General’s Responsibility My	14546
 Auditor-General’s Special Audit Report	5536
 Auditor-general	11184
 AuditorGeneral'sOffice.The Financial Report	1154
-Auditores	15477
+Auditores	15477,3348
 Auditores Certificados de Cabo Verde	15912
-Auditoria	13,731,2072,1458,1045,1651,4482,130,3809
+Auditoria	13,731,2072,1458,1045,1651,4482,130,3809,3440
 Auditoria Algorítmica	2816
 Auditoria Ambiental	11390
+Auditoria Interna	18800
 Auditorias	11406,55
 Auditorias Artigo	11461
 Auditorium	3661,5668,15,1600,297,6494
@@ -518,13 +523,14 @@ Audits of DST	573
 Audits. Finally	11855
 Auditório	15910
 Audição	15450
-Audiência	11901
+Audiência	11901,6850
 Audiências	7585
 Audre Lorde	4258
 Audrey	1806,13974
 Audrey Alban Jean-Baptiste Mapithy-Ma-Mapithy	5063,40
 Audrey Anne Alexandra Ariss ICR Main	13861
 Audrey Ariss	1284,9430,2617
+Audrey Ariss ABBREVIATIONS AND ACRONYMS	18777
 Audrey Aymard	15692
 Audrey BLANC	16463
 Audrey Baloyi	10102
@@ -592,6 +598,8 @@ Certified Information System Auditor	17235
 Certified Information Systems Auditor	1940,8925
 Certified Internal Auditor	3632,11365
 Certified SIM3 Auditor Training	9470
+Chartered Accountants and Auditors	18825
+Chefe da Auditora-Chefe da Bureau Veritas	18876
 Chengeto Moyo Reporting Accountants and Auditors	4896
 Chief Audit Executive CARA Criminal Assets	11218
 Circulation CIBN Certified Information Systems Auditor	17235
@@ -603,7 +611,8 @@ Co-Investment Audit	4153,14,35,15,43,1092
 Co-lnvesbnent Audit	4301
 Code of Ethics for Accountants and Auditors	11955
 Combined Assurance Framework and Revised Internal Audit	15023
-Comité de Auditoria	16089
+Comité de Auditoria	16089,2711
+Comité de Auditoria. Artigo	18800
 Commit AUD	249,96,714
 Committee Audit	14736
 Committee The Audit	14736
@@ -635,6 +644,7 @@ Conduct Internal Audits Management	14546
 Conduct Internal Process Audits	16985
 Conduct of Compliance Audit	4583,7718
 Conducts Assessment Audit	18482
+Conselho de Administração. SECÇÃO V Comité de Auditoria	18800
 Consolidated Audited Financial Statements	4896
 Consolidated Fringe Benefits Package for Management Audit	15023
 Consult Limited. Auditors	9650
@@ -649,7 +659,7 @@ Controls and Audits Svetla Dalbokova	15901
 Corporate IT and IT Audit Units	17364
 Cost Recovery Audit Findings	3583
 Council's Audit Committee Charter. Financial Reporting	1554
-Court of Audit	16994
+Court of Audit	16994,1803
 Court of Audit Court of Audit	16994
 Court of Audit. Economic	15752
 Court of Auditors	3667,7101,768,50,3964,1408,1347
@@ -1084,7 +1094,7 @@ No. Audit Issues	14546
 Non-Preparation of Quarterly Financial Reports Audit	14546
 Number of Audit Cases	18318
 Number of Domestic Audits and Revenues Collected Figure	13053
-O Comité de Auditoria	16089
+O Comité de Auditoria	16089,2711
 O Projecto de Audiências Virtuais	10782
 O Projeto de Audiências Virtuais	10782
 O Serviço de Auditoria Interna	15526
@@ -1209,6 +1219,7 @@ Regarding Cyber Security Audit and Cyber Sec	7538
 Regular Audits and Reporting	12675
 Regular Security Audits and Penetration Testing	10721
 Regulatory Compliance Audit	4153,14,35,15,43,89,1003
+Relatório de Auditoria de Conformidade	18793
 Relevant Audit Matters Relevant	11955
 Removal of Auditors	18556
 Reporting Accountants and Auditors	4896
@@ -1294,6 +1305,8 @@ Stock Analysis and Supply Chain Audits	14985
 Strategic Plan The General Auditing	17364
 Strengthen Audit Capacity	17011
 Strengthen Audit Capacity No. Activities Implementation	17011
+Strengthening Accounting and Auditing Standards	18825
+Strengthening Accounting and Auditing Standards. The Order	18825
 Stronger Governance and Compliance Audit	13532
 Subsequent Audit	15492
 Summary of Audit Opinion Opinion Issued Number	13420
@@ -1367,6 +1380,7 @@ WEIRD Audits	4253
 Waste Audit	1988
 Welfare Analysis of Tax Audits Across	18318
 Work-Integrated Audit	6832
+World Audio Visual	18810
 World Audiovisual	17240
 XI. AUDIT EXTERNE DU PROGRAMME	10876
 Year-End Report and Audit Report	14212

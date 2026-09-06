@@ -374,6 +374,8 @@ Educational Level District Hospital	12379
 Edward Francis Small Teaching Hospital	16896,26,7,299,13
 Eenhana State Hospital	12947
 Eldoret Regional Hospital Moi Barracks Data	7167
+Eleunilza Lopes- Estatística Hospital Ayres de Menezes	18768
+Elizabete Costa Alegre- Estatística Hospital Ayres	18768
 Email Hosting	9455
 Emergency Doctor Health Information Oﬃcer Hospital	8603
 Emerging Technologies Hosting	7548
@@ -385,8 +387,10 @@ Enhancing Data Hosting Capacity	14674
 Equipamiento Hospital Distrital de Niefang	4209
 Equipamiento de Hospitales	4209
 Erdogan Hospital and Waberi	14923
+Erica Neto- Estatística Hospital Ayres de Menezes	18768
 Essau District Hospital for Family Medicine	16922
 Essau General Hospital	16922
+Estatística Hospital Ayres de Menezes	18768
 Estonian Hospitals Union	11006
 Estruturas Hospitalares	11537
 Eswatini Payment Switch Roadshows Hosted	11131
@@ -479,11 +483,13 @@ Hospedagem de Dados Públicos Termos de Referência Luanda	11448
 Hospedagem de Dados Públicos. Tal	11448
 Hospedagem de Infra-Estrutura	4556,1
 Hospice KOUMONDJI	2623
-Hospitais	11537,5556,7
+Hospitais	11537,5556,7,1657
 Hospitais Amigos	15966
 Hospitais Regionais	16019
-Hospital	4209,1176,1645,353,1,1219,828,757,592,400,249,3,47,378,129,342,648,64,167,107,1232,283,415,160,1496,62,972,693
+Hospital	4209,1176,1645,353,1,1219,828,757,592,400,249,3,47,378,129,342,648,64,167,107,1232,283,415,160,1496,62,972,693,141
 Hospital Adamawa North East	11857
+Hospital Ayres Menezes- HAM	18757
+Hospital Ayres de Menezes	18768
 Hospital Beds and Cots Available	2775
 Hospital Buildings	11129
 Hospital CEOs and Provincial	8603
@@ -498,6 +504,8 @@ Hospital Director of Queen Elizabeth Central Hospital	13040
 Hospital Distrital de Micomiseng	4209
 Hospital Distrital de Micomiseng Micomiseng	4209
 Hospital Divina Providência	10784
+Hospital Dr. Ayres de Menezes	18783
+Hospital Dr. Manuel Quaresma Dias da Graça	18783
 Hospital Edition	5984
 Hospital Edition. Byline	5984
 Hospital Electronic Health Record	12606
@@ -593,6 +601,8 @@ Hospitality Think Tank	7253
 Hospitality and Tourism Activities Management	16996
 Hospitality and Tourism Association of Botswana	12552
 Hospitality. Marketing	16266
+Hospitalizados	18768
+Hospitalizados Ocorridos	18768
 Hospitalization	10780
 Hospitalization Rates and Hospital Capacity Specijalnosti	10780
 Hospitalizations	10780
@@ -1071,6 +1081,7 @@ Tsumeb State Hospital	12947
 Tygerberg Central Hospital	8564
 Tygerberg Hospital WC Cape Winelands DM	11986
 Tygerberg. Kimberly Hospital	11986
+UAE Strongly Condemns Hostile Iranian Attack	18759
 UNESWA. Hosted	11131
 UNICEF. Host Ministry	14000
 US CDC and Bundung Hospital	4338

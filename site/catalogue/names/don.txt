@@ -34,6 +34,7 @@ Analyse de Données	16026,1905,186
 Analyse des Défis de Transmission des Données	13783
 Andréa Rosa IGOUWE DONDIA	16381
 Angelo Donou Francis Tasha Venayen Harouna	16436
+Anti Lock Brake Serviceing Donec	18837
 Architecture des Référentiels de Données	15624
 Architecture des Référentiels de Données R	15624
 Archivage des Données	9277,7123
@@ -71,6 +72,7 @@ Base de Données Spéciale des Ménages Pauvres	17927
 Base de Données. C’est	10975
 Base des Données	17899
 Bases de Données	18169
+Battery Replacement Donec	18837
 Blog de Données	17338
 Blood Donation	12970
 Blood Donation Events	14738
@@ -204,6 +206,7 @@ DON NGOMA	16100
 DON'T'S FOR ENTITIES	13004
 DONA Foundation	5185
 DONATIONS AND EXPENDITURE	3714
+DONATIVOS	18798,55
 DONCA MEDICAL CLINIC Data Controller INST-5671794BF89	7167
 DONE AT ADDIS ABABA	762
 DONE BY THE LIBERIA TELECOMMUNICATIONS AUTHORITY	4610
@@ -334,6 +337,7 @@ Don Webster	13975
 Don't	5247,553,458,174,722,290,707,407,1111,84,207,2518,1028,1658,410,2121,746
 Don't Know	12383
 DonConsultingServices	12478
+Dona Augusta	18793
 Dona Daye	16177
 Dona Maria	10751
 Donaciones	4209
@@ -367,14 +371,18 @@ Donation of Military Equipment	18241
 Donations	236,3478,7415,826,1098,1682,8,81,1825,329
 Donations and Education Support TechAfrica News	6320
 Donations and Grants	16833
-Donativo	1339,1,1,1,739,2,1,2327,2,1
+Donativo	1339,1,1,1,739,2,1,2327,2,1,14439
 Donativo and Empréstimo	2083,2330
+Donativos	18853
+Donativos Externos Dbs	18822
+Donativos. V. Receitas Correntes	18798
 Donato-Woodger	11156
 Donatus	13464
 Dondo	5407,676
 Dondo Dry Port	5407,676
 Dondo Mogajane	5323
 Dondo and Nhamatanda. National Tabulation	12201
+Donec	18837
 Dong and Srivastava	9128
 Donga	5478,1877,8043,1,695,265,124,1101
 Dongbo	16100,77
@@ -404,9 +412,10 @@ Donnell&volume	1219
 Donnelly	8301
 Donnent	13293,2241
 Donner	2992,1133,1034,3065,1686,3380,10,1,89,24,367,1511,247,131,950,87,1115,23,31,8,94
+Donneés	18757
 Donny-28	12478
-Donnée	436,795,12146,1985,237,44,974,1205,6,283
-Données	232,187,10,7,111,3,18,1,19,159,1,436,3,44,1,447,122,183,358,257,757,116,105,14,742,70,1149,1402,1383,108,446,515,75,727,609,4,4,11,130,601,251,126,1356,25,52,37,8,11,9,10,26,241,18,31,651,44,17,57,85,36,25,179,49,403,38,10,67,3,33,9,1,4,6,3,5,5,2,42,38,3,12,4,25,11,1,34,3,18,19,5,8,1,43,32,49,53,35,2,74,25,111,1,2,176,129,160,1,19,111,701,32,8,6,20,249,56,3,1,3,2,1,2,10,1,1,1,23,18,14,14,32,38,13,81,9,20,13,24,143,26,4,3,3,2,13,81
+Donnée	436,795,12146,1985,237,44,974,1205,6,283,646
+Données	232,187,10,7,111,3,18,1,19,159,1,436,3,44,1,447,122,183,358,257,757,116,105,14,742,70,1149,1402,1383,108,446,515,75,727,609,4,4,11,130,601,251,126,1356,25,52,37,8,11,9,10,26,241,18,31,651,44,17,57,85,36,25,179,49,403,38,10,67,3,33,9,1,4,6,3,5,5,2,42,38,3,12,4,25,11,1,34,3,18,19,5,8,1,43,32,49,53,35,2,74,25,111,1,2,176,129,160,1,19,111,701,32,8,6,20,249,56,3,1,3,2,1,2,10,1,1,1,23,18,14,14,32,38,13,81,9,20,13,24,143,26,4,3,3,2,13,81,339
 Données Annexe	16569
 Données Banque Mondiale	11944,4682
 Données DEEG Périodique DEEG	18286
@@ -453,7 +462,7 @@ Données. Par	747
 DonnéesFiables	13904
 DonnéesSpatiales	16102
 Donohoe	7397,5441
-Donor	40,650,1,2892,1064,2300,1,661,1790,1430,395,263,368,8,143,169,1174,589,62,546,342,98,178,178,30,1480,123,1502
+Donor	40,650,1,2892,1064,2300,1,661,1790,1430,395,263,368,8,143,169,1174,589,62,546,342,98,178,178,30,1480,123,1502,346
 Donor Agencies	12917
 Donor Aid	11134
 Donor Alignment	10829
@@ -623,6 +632,7 @@ IGITAL IDENTITY DRIVERS DON’T Regulatory	1939
 II. DONNEES ET NOTATIONS DU PROJET	14540
 II. DONNEES GENERALES	18099
 II. DONNÉES ET NOTATIONS DU PROJET	14539
+II.2.2. Donativos	18798
 III. PROCEDURES DE COLLECTE DES DONNEES	15595
 III. USAGE DES DONNEES OUVERTES DANS	16618
 III.2.1 ENTREPÔT DE DONNÉES	13306
@@ -792,12 +802,14 @@ Normes Procédures Sécurité des Données	16692
 Nouakchott- Ouest le Centre de Données de Nouakchott	17908
 Noël Donatien	15901
 Nzomo Ilmo. Sr. Don Antonio Edo	16920
+O Donativo	18798,55
 OAuth2. Base de Données	17902
 OPERATIONS DE COLLECTE DES DONNEES	17945
 OPERATIONS DE COLLECTE DES DONNEES Cette	17945
 OU DONNEES Art	15643
 OUTILS DE COMPARAISON DE DONNÉES LONGITUDINALES	17830
 OUTILS ET DONNÉES	13482
+Os Donativos	18798,55
 Others Donors Grand Total Compensation	15716
 Ouest BDEMF Base de Données Economiques	11944
 Ouest. Donc	2514
@@ -836,6 +848,7 @@ Partnerships and Donor Relations	11469
 Paschal Donohoe	7397,5441
 Pathologie de Donka	16627
 Pauvreté SGDD Système Général de Diffusion des Données	15479
+Performance Upgrades Donec	18837
 Philippe Dongier Boutheina Guermazi Senior Global	15424
 Philippe Dongier Theme	15372
 Piliers Indicateurs Données	15799
@@ -884,6 +897,7 @@ RELATIVE A LA PROTECTION DES DONNEES	436
 REMEDIES IN CASE OF UNAUTHORISED DONATIONS	3714
 RGAE Donatus Center Conference	13689
 RITE DES DONNEES	18077
+Randeep Sudan Philippe Dongier Manager	18754
 Rapport Initiative Données	15599
 Receiving Donations Article	15393
 Recognition of Donors UNHCR	10864
@@ -964,6 +978,7 @@ Temps Réel des Données Financières	15738
 Texte Données	1984
 Thoma VPA SU Mr. Donald Lunan	16857
 Tim Donovan. Copyright	13365
+Tire And Wheel Repair Donec	18837
 ToT and Trained Blood Donor Mobilisers Disaggregated	12977
 Tobias Dongjur	18154
 Tobias Dongjur. The Respondent	18154
@@ -992,6 +1007,8 @@ Universitaria Excmo. Sr. Don Vicente Nsue	16920
 Universitaria Ilmo. Sr. Don Pergentino Esangui	16920
 Utilisation des Bases de Données	15715
 V. TRAITEMENT ET ANALYSE DES DONNEES	15595
+V.1.2. Donativos	18798
+VI. Donativos Os	18798
 VII. PROCEDURE DE COLLECTE DE DONNEES	10876
 VUE D’ENSEMBLE DES DONNÉES SUR	18143,27
 Validation de Données	747

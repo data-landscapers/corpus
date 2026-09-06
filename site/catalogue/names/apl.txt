@@ -1,12 +1,13 @@
 ABBREVIATIONS AND ACRONYMS APL Adaptable Program	16614
 APL Adaptable Program Loan ARAP Abbreviated	15511,2351
-APL Borrower	16614
+APL Borrower	16614,2140
 APL Fourth	15424
 APL SFTP	3972
 APL-1B	1264
 APL1A	17862
 APL1B	17862
 APL1C	17862
+APL2 Project ID	18754
 APL3 Communications Infrastructure and Technology	15372
 APLESA	8090
 APLICACIONES FINANCIERAS TOTAL FINANCIAMIENTO	4209
@@ -17,16 +18,16 @@ Africa Action Plan. CAB APL	15372
 Aplahoué	2354,3177,4379,7674
 Aplahoué. Cette	5823
 Aplazamiento	4209
-Aplica-se	14,535,2267,7939,628,55,463,3479,11,381
+Aplica-se	14,535,2267,7939,628,55,463,3479,11,381,3026,2,53
 Aplicabilidade	11448,3
 Aplicacional	10752
 Aplicaciones	1701,15154
 Aplicaciones Móviles	10361
 Aplicación	1701,2508,12629,17,43,82
 Aplicación de Fuentes Abiertas	16855
-Aplicam-se	11433,10,18
+Aplicam-se	11433,10,18,7290,47,55
 Aplicando	7881,4893
-Aplicar	167,11207,168,3935,49
+Aplicar	167,11207,168,3935,49,3274,1
 Aplication Express BI	11435
 Aplicativo	11435
 Aplicativo CONFIN	4209
@@ -37,18 +38,21 @@ Aplicativo de Control de Gastos	4209
 Aplicativo de Gestión	4209
 Aplicativos	4209
 Aplicativos de Transporte	2816
-Aplicação	14,1,534,195,8,42,2022,50,653,755,6473,8,28,581,3,18,3,17,4,10,11,84,2,4,35,1298,2491,15,21,5,55,472,110
+Aplicação	14,1,534,195,8,42,2022,50,653,755,6473,8,28,581,3,18,3,17,4,10,11,84,2,4,35,1298,2491,15,21,5,55,472,110,2728,5,3,3,13
 Aplicação Específica	11367
 Aplicação IAS	15392
 Aplicação OTP MCHIP CAP	15392
 Aplicação Subsidiária	549,10206,678
 Aplicação Web	12021
 Aplicação da Convenção	15477
+Aplicação da Lei Penal	18751
+Aplicação da Lei Penal Artigo	18751
 Aplicação da Multa	2866
 Aplicação de Capitais II	11435
 Aplicação de IA	2816
 Aplicação de Inteligência Artificial	2816
 Aplicação de Multa	4274
+Aplicação de Recursos	18752
 Aplicações	1192,1624,9198,3378,172,260
 Aplicações Práticas	2816
 Aplicações Tecnológicas de Eletrónica	15772
@@ -76,13 +80,16 @@ Desarrollo de Aplicativos	4209
 Desenvolvimento de Aplicacoes	570
 Desenvolvimento de Aplicações Web	12019
 Director for CAB APL3	15372
+Direito Aplicável	18773
 Economia Aplicativo PayPay	5309
 Economía Aplicada IST Información Científica	16898
 Encargos Aplicáveis	10755
+Gestão Aplicadas	18831
 Horizontal APL	15372
 Hospedagem de Aplicacoes. Key	570
 IA Aplicada	2816
 Informática Aplicada	15772
+Injectáveis Aplicados	18768
 Interface de Programas de Aplicação	11430
 JURÍDICO E INSTITUCIONAL APLICÁVEL AO PROJECTO	11406
 LEGISLAÇÃO ANGOLANA APLICÁVEL	11390
@@ -116,6 +123,7 @@ Regime Aplicável	10755
 Regime Jurídico Aplicável	744
 Reglamento Aplicación. TITULO I DEFINICION ARTICULO	16871
 Reglamento de Aplicación	16871,34
+Regulation Agency APL Adaptable Program Loan	18754
 SECÇÃO II REGRAS ESPECÍFICAS APLICÁVEIS	10747
 SECÇÃO III OBRIGAÇÕES APLICÁVEIS AOS OPMS	11430
 SECÇÃO III REGRAS ESPECÍFICAS APLICÁVEIS AOS	10747
@@ -128,6 +136,7 @@ Sanções Aplicáveis	11419
 Sierra Leone APL-1A	18456
 Subjectivo de Aplicação	11430
 Taxas Aplicáveis	11520
+Termos Gerais Aplicáveis	18793
 Theory of Change for WARCIP APL2 Supporting	17862
 WARCIP APL	15424
 WARCIP APL2	17862

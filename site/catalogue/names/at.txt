@@ -1,6 +1,9 @@
 A. Attwairi	16916
 A. M. Mashood Attorney-at-Law	11036
 A2 IDENTIFICAÇÃO ATORES-CHAVE Instituição	11569
+A4.1. Ateliê de Lançamento de NDT	18760
+A4.2. Ateliê	18760
+A4.3. Ateliê	18760
 ABBREVIATIONS ATF Accounting	15556
 ABBREVIATIONS ATM Automated Teller Machine BOT	7763
 ABC Attribute-Based Credential ANSI American National	10765
@@ -138,6 +141,7 @@ ATIPO OBINDI	16177
 ATIPOT	15558
 ATISTICS ACT	11178
 ATITUDES E COMPORTAMENTOS RELACIONADOS COM VIH	10777
+ATIVAR Vê	18830
 ATIVE AN T	15485
 ATIVO	11531
 ATIVO NOS	11531
@@ -225,6 +229,7 @@ ATRIBUIÇÕES DOS CHEFES DAS RF	11435
 ATRIBUIÇÕES DOS CHEFES DAS RF’S	11435
 ATS ADJOINT TECHNIQUE DE LA STATISTIQUE	18170
 ATS Annexe	13452
+ATS Automated Transfer System BCSTP Banco	18825
 ATS Dans	13452
 ATS H	16552
 ATS H24	17006
@@ -491,13 +496,15 @@ Atendendo	167,577,2072,1330,1,71,2051,4486,606,8,3,9,15,9,14,14,16,6,2,112,361,3
 Atender	163,11206,61,5425,4
 Atendibilidade	15396
 Atendiendo	1701
-Atendimento	2816,2503,1218,77,26,120,550,3118,63,274,10,604,106,533,101,1,3652,255
+Atendimento	2816,2503,1218,77,26,120,550,3118,63,274,10,604,106,533,101,1,3652,255,2803
 Atendimento Prioritário	11368
 Atendimento Público	10775
 Atendimento Telefónico	11368
 Atendimento de Reclamações	11368
 Ateng	5083
-Atento	11569,4553
+Atenta	18784
+Atentar	18758
+Atento	11569,4553,2662
 Atentos	539,15216,200
 Atenu Blog	12199
 Atenu.org	12199
@@ -509,8 +516,9 @@ Ateny and Wang Shibo	12866
 Atenção	10769,763
 Ateria	7167
 Aterido	11136
-Atestado	11419
+Atestado	11419,7415
 Atestados	11419
+Ateu Nenhuma	18802
 Atfagha	3355
 Athanase	15786
 Athanase C. HOUNNAKAN Agnès P. VISSOH	15475
@@ -553,8 +561,8 @@ Atiku Alleges Bank Data Breach	9400
 Atimpoku-Ho-Aflao	7695
 Atingi	15553
 Atingi-Ego	6009,2517,1169,90,198
-Atingido	12853
-Atingir	15470
+Atingido	12853,5940
+Atingir	15470,3290
 Atingirem	12853
 Atinkou	15623
 Ationship	10974
@@ -563,22 +571,29 @@ Atiributions du Conseil	15489
 Atitany	14488,1,1
 Atitre	37
 Atitude	10777
-Atitudes	10777,5548
+Atitudes	10777,5548,2437
 Atitudes Discriminatórias Face	10777
 Atitwararika	13300
-Ativar	15504
-Atividade	11898,3622
+Ativar	15504,3326
+Atividade	11898,3622,3313
 Atividade Estatística Oficial	11537,3913
 Atividade Estatística Oficial Por	11537
 Atividade Internacional	11531
 Atividade Internacional A ARN-TIC	11531
 Atividade de Criptologia	15477
 Atividade de Integração Curricular	12019
-Atividades	11531,3909,37,58
+Atividades	11531,3909,37,58,3259
 Atividades Económicas	17166
 Atividades Eleitorais	11561
 Atividades Orçamento ECV	15476
-Ativos	11933
+Atividades Preliminares	18794
+Atividades da Empresa	18793
+Ativo	18793,8
+Ativo Circulante	18793
+Ativo Líquido Rentabilidade	18793
+Ativo Líquido da Empresa	18793
+Ativo Solvabilidade	18793
+Ativos	11933,6860
 Atkinson	3782,12543
 Atkinson and Oshadami	3782
 Atlancis	5368
@@ -636,7 +651,7 @@ Atlantis Special Economic Zone Company	11224
 Atlantis Sports Club Narraville Community Hall	13046
 Atlantis Technologies	10640
 Atlantis Télécom ADSL	18105
-Atlas	226,3396,2619,3752,863,510,161,1848,2096,20,416,2525
+Atlas	226,3396,2619,3752,863,510,161,1848,2096,20,416,2525,322
 Atlas AI	942,901,10163
 Atlas Cloud Services	3859
 Atlas Countries Support	287
@@ -644,6 +659,8 @@ Atlas Figure	13375
 Atlas Forestal de Guinea Ecuatorial	16875
 Atlas Mara	12335
 Atlas Network	7669
+Atlas Sovereign Smart Solutions	18815
+Atlas Sovereign Smart Solutions LLC	18815
 Atlas Tower Kenya	889,5835
 Atlas Towers	3862
 Atlas Umoja AI	8096
@@ -706,6 +723,7 @@ Atos Notariais Eletrônicos ADI4 LEG13 Sim	15532
 Atos and Idemia	5956
 Atos. Melchior Koba	8162
 Atou Seck	14603,66
+Atou Seck Emily Elaine Gardner ICR	18765
 Atoughnuttocrack	8606
 Atoulelou Kpatcha	8673
 Atout	8657
@@ -718,19 +736,19 @@ Atrair Nómadas	15684
 Atrair Nómadas Digitais	15689
 Atraso	10783,647,102
 Atrasos	4209
-Através	576,1478,2240,726,1575,4791,44,98,41,573,642,70,2504,87,81,469,32,1005,61,620,2
+Através	576,1478,2240,726,1575,4791,44,98,41,573,642,70,2504,87,81,469,32,1005,61,620,2,1043,30,83
 Através Deste	10755
 Através da RTPE	15900
-Através da Resolução	2816,12878
+Através da Resolução	2816,12878,3102
 Atração	15684,567
 Atress Lungu PIC Member	13392
 Atrho Wald	7886
 Atriaobnic	15713
 Atribuciones	163,16692
-Atribui-se	16376
-Atribuir	10750,22,596,51,11,5,8,4121,348
+Atribui-se	16376,2377
+Atribuir	10750,22,596,51,11,5,8,4121,348,2846,20
 Atribuir Bilhete de Identidade	12784
-Atribuição	3607,7158,10,2,596,10,36,100,12,3824,37,172,8,122
+Atribuição	3607,7158,10,2,596,10,36,100,12,3824,37,172,8,122,3059,26
 Atribuição da Autorização Geral	11520
 Atribuição de Benefícios	10754
 Atribuição de Licenças Individuais	11520
@@ -739,11 +757,12 @@ Atribuição de NIF	11435
 Atribuição de Número de Polícia	11373
 Atribuição de Topónimos	11373
 Atribuição de Títulos	11419
-Atribuições	13,154,4051,2350,4791,1,14,7,1,2,4,47,14,69,2,381,882,6,2570,74,44,26,1,22,496
+Atribuição-NãoComercial	18774
+Atribuições	13,154,4051,2350,4791,1,14,7,1,2,4,47,14,69,2,381,882,6,2570,74,44,26,1,22,496,2727,1,11,12,5
 Atribuições Compete	15433
 Atribuições Específicas	10754
 Atribuições O Banco	16089
-Atribuições São	15358,554
+Atribuições São	15358,554,2860
 Atribuições da ARN	11574
 Atribuições da ARN Nos	11574
 Atribuído	10754
@@ -774,6 +793,7 @@ Attachment I. Memorandum of Economic and Financial Policies	17209,700,81
 Attachment II. Data Tables Numerical	12500
 Attachment II. Technical Memorandum of Understanding	17257,69,583,81
 Attachment II. Technical Memorandum of Understanding 55	17209
+Attachment II. Technical Memorandum of Understanding 59	18823
 Attachment III	12500
 Attachment III. Institutional Framework Ethiopia	12500
 Attachment III. P5-16	12500
@@ -872,6 +892,7 @@ Attestation de Con fôrmîté	14469
 Attestation de Destination	17589
 Attestation de Naissance	12328
 Attestation of HNSF	1009
+Attestation-services	18810
 Attestation. Participants	12328
 Attestations	7620,357,8345,1511
 Attester	16245
@@ -1040,6 +1061,7 @@ Attribution du Marché	9339,4228,720,1,276,3630
 Attribution--Please	10812,165,1351,2569
 Attribution-NonCommercial	13425
 Attribution-Noncommercial	2775,9376
+Attribution-ShareAlike	18796
 Attribution-provisoire platforme-citoyenne.pdf	18031
 AttributionNonCommercialShareAlike	12227
 Attributions	1214,1411,2736,5620,3556,356,18,460,117,1,105,173,194,366,288,1,9,5,5,1,9,6
@@ -1073,21 +1095,24 @@ Attécoubé East	10930
 Atténuation	10965,3460,3448
 Atténuer	14488,1,1
 Atualidade	6550
+Atualizada	18774
 Atualizadas	11898
 Atualizado	12018,3948
 Atualizado OE	12018
 Atualizado OE2020 MOD106	12018
 Atualizado OE2022	12018
 Atualizar	10766,4711,207,5,5,1453
-Atualização	11561,460,3934,67,88,266
+Atualização	11561,460,3934,67,88,266,2405
 Atualização Económica	7881
 Atualização Económica de Cabo Verde	7881
 Atualização de Políticas	11555
+Atualização de Registo de Empresas	18833
 Atualizações	11898
-Atualmente	2125,4405,4799,689,2173,1285,59,159,361,965
+Atualmente	2125,4405,4799,689,2173,1285,59,159,361,965,1742,26,6,30
 Atualmente Terra	2125
 Atuam	15440
 Atuar	15440,64
+Atuação de Governo	18774
 Atud Eseng	4209
 Atuge	7649,1432
 Atuge La Presse	7649
@@ -1102,6 +1127,7 @@ Atypical	14742
 Atypical Work	14742
 Atzberger	15129
 Até Abril	2816
+Até Junho	18853
 Atómica IATA Associação Internacional de Transporte Aéreo	11376
 Auffret and Athanase Danhossou I. PROJECT CONTEXT	15731
 Authorised Representatives and Power of Attorneys	8866
@@ -1122,6 +1148,7 @@ BI-Switch and ATS. Short Address	13314
 BUREAU CL2 ATT.D’ADMIN CL	15670
 Babylas ATINKPAHOUN	5436,556
 Bai Gbala Independent Consultant Atty. Darius	17260
+Balanço Ativo Líquido Dbs	18793
 Balcão de Atendimento	4214
 Banco Mundial1. Entregaveis Atividade	11898
 Bank ATM Know	418
@@ -1212,8 +1239,10 @@ Canais de Atendimento	1192
 Candidate Attorney	6727
 Card-based PoS and ATM	11131
 Cde. Dr. Emmerson Dambudzo Mnangagwa's Attendance	3760,9683
-Centro de Atendimento	11386
+Centro de Atendimento	11386,7366
 Centro de Serviços de Atendimento Integrado	15572
+Centros de Atendimento. Estas	18824
+Certificados Atribuidos	18837
 Chairman of ATAF	7694
 Channels Branch ATM	12490
 Charge for ATM	13304
@@ -1253,7 +1282,7 @@ Contribuições Atraso	11532
 Controllers ATOS Approved Training Organizations ATPL	2775
 Couleur Cibles Atteignables	16012
 Counselor Ahmed Saad Abdel Ati	14373
-Creative Commons Attribution	1212,6519,28,262,1,108,153,153,1303,20,955,51,10,37,2,163,172,396,27,21,3,287,123,1,83,238,206,292,486,1,1,703,709,171,34,1,132,383,27,6,13,221,1,9,742,160,316,831,7,90,26,142,227,100,251
+Creative Commons Attribution	1212,6519,28,262,1,108,153,153,1303,20,955,51,10,37,2,163,172,396,27,21,3,287,123,1,83,238,206,292,486,1,1,703,709,171,34,1,132,383,27,6,13,221,1,9,742,160,316,831,7,90,26,142,227,100,251,163
 Creative Commons Attribution CC	9025,1689,249,1,13,159,13,730,376,1057,2,1583,550,33,1396,66,928,26,806
 Creative Commons Attribution International License	11927
 Creative Commons Attribution License	8376,2543,1084,228,15,1877,543,1358
@@ -1348,10 +1377,13 @@ Data Protection Office and The Attorney	14726
 Data Sheet. Attending	13037
 Database Attacks	17746
 Deadly Attacks	10025
+Decreto de Atribuição da Licença	18753
 Deneys Attorneys	9127
 Department of Atmospheric Science	15715
 Deputy Attorney General Amabelia Chuquela	4270
 Description NOTICE AT-A-GLANCE Project ID	18711
+Desenvolvimento Rural. A4.3. Ateliê	18760
+Dias de Ativismo	18820
 Digital Rights Attorney	5321
 Digital Skills and Attitudes Hypothesis	11541
 Directeur Général de Banque Atlantique Niger	6883
@@ -1529,6 +1561,7 @@ Global Atmosphere	11191
 Global Wind Atlas	14745
 Glossary Term Definition ABAC Attribute-Based Access	11952
 Goods for University of Djibouti Download Attached Awarded	15052
+Governança de Dados Critério Importância Estágio Atual	18801
 Government of Malawi's ATMM	13029
 Governor Dr Michael Atingi-Ego	9695
 Gross School Attendance Rate	12431
@@ -1802,6 +1835,7 @@ NOAA National Oceanic and Atmospheric Administration NRW	17157
 NTIBARUTAYE Athanase Assemblée Nationale	13341
 NUCA. Attempts	15473
 NUMBER OF ATMS PROVINCES DISTRICTS	16942
+Nacionalidade Atribuição de Nacionalidade Atribuição	18834
 Nahr Atbara	15244
 Nairobi Atelier	13783
 NamRA Officials Attend Training	13044
@@ -1834,6 +1868,7 @@ Number of ATM Installed Total Number	16878
 Number of ATMs	7763,10107
 Number of ATMs Per	17870
 Nursery Attendant	14760
+Número de Unidades de Atendimento	18768
 O Ateliê de Apresentação	2953
 O Conselho Consultivo da ATCV	15912
 O F TH E REGUL ATO	13357
@@ -1919,11 +1954,13 @@ PROLIFERATION D'INTERMEDIAIRES VEREUX ET ATTIRE SON	15970
 PROMOTION ET ATTRACTIVITÉ Mise	1896
 PROPORTION OF BIRTHS ATTENDED BY SKILLED	16892
 PROVIDE SUFFICIENT INFORMATION TO ATTRACT	13618
+PS Atingidos	18768
 PUBLIC ATTENTION	8794
 PYTHON Atelier	15639
 Par Belmondo ATIKPO	9042
 Participation and Attendance WUF13	11285
 Partners Attorney General	7548
+Parâmetros de Atendimento	18812
 Pelouro Corporativo da ATDI	14342
 Percival Street Freetown Attn	18575
 Performance Assessment Report Template Attachment IV	12500
@@ -1933,7 +1970,10 @@ Petitioner and The Honourable Attorney General	14460
 Pew Global Attitudes and Trends	11004,960
 Phillippe Auffret and Athanase Danhossou The World	15731
 Phishing Attack for Financial Institution	13532
+Plano Anual da Atividade Estatística	18794
+Plano Anual da Atividade Estatística PALOP	18794
 Plano Anual de Atividades	15535
+Plano Anual de Atividades Estatísticas PAAE	18794
 Plano de Atividades	1338,93,1,648,66,1,2316,1,11448
 Plano de Atividades Anual Orçamentado	11557
 Plataforma de Atendimento Online	11480
@@ -1973,6 +2013,7 @@ Project Coordinator Ato Mesfin Dabi	12195
 Project Manager Ato Samuel Shawel	12195
 Project Title and Atlas Project Number	13095
 Promote and Attract Investment	958
+Protection of Personal Data ATM	18770
 Proyección de Atracción	4209
 Purpose and Scope The Reconciliation and Attestation Tool	12400
 Q1 ATMs	4517
@@ -2032,6 +2073,8 @@ Regional Director for Atlantic and West Africa	6056
 Registrar of Deeds and The Attorney-General	12924
 Registration Link Contributions ATU-R	10235
 Related News Atiku	10220
+Relatório Anual da Atividade Estatística	18794
+Relatório Anual da Atividade Estatística SADC	18794
 Relatório Anual de Atividades	15535
 Relatório Final Até	11456
 Relatório de Atividades	2080
@@ -2199,6 +2242,7 @@ T REGLEMENTAIRE ATIVE AND STATUTORY AFFAIR	10974
 T-I18. Senior AI Experts Cultivation and Attraction	15713
 TAYE ATSKE SELASSIE PRESIDENT	7538,4688,1798
 TD ATD Adult	15604
+TECHNICAL AND FINANCIAL COOPERATION Attracting	18785
 TECHNIQUE DE ATTENDUS DE ACTIVITES TÂCHES	10975
 TERMS AND CONDITIONS ATTACHED ARE APPLICABLE	12400
 TINZAW ATEN	17828
@@ -2213,6 +2257,7 @@ Target ATC&C Actual ATC&C Figure D	18217
 Target ATC&C Actual ATC&C Variance	12062,6124
 Target Back Cybercriminals Attack Seychelles	3364
 Target and Actual ATC&C	12062,6124,31
+Taxa de Atividade	18757
 Taye Atske Selassie	4864,2674
 Teacher Attendance System	16911
 Technical Attributes	11216
@@ -2235,6 +2280,7 @@ U ATELIER DE TOURNAGE	16623
 U EAU ATFCfA ANIHC KU EYIKRÜT	14843
 U.S. Attorney Adam Gordon	11342
 U.S. Attorney’s Office	11342
+UAE Strongly Condemns Hostile Iranian Attack	18759
 UCC Unveils the Atakulaaba Heritage Music Initiative	9781
 UGD. OUTRAS ATRIBUIÇÕES PRAZOS Ref.ª Para	11435
 UGP Vendredi Atelier	16012
@@ -2263,6 +2309,7 @@ Virtual Machine DAC Direct Attach Cable	13185
 Virtually Attended Bid Information Meetings	16949
 Visa Athletics Club	12478
 Vision Atlantique	17512
+Visão Até	18763
 Volonté IMPACT ATTENDU	17983
 Voltar Canais de Atendimento Fale	1192
 WEST AFRICA COUNTRY ATTRACTIVENESS	10861

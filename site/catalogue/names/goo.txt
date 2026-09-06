@@ -486,7 +486,7 @@ Goodman	1243
 Goodness Morakinyo	7444
 Goodnight	6197,10,40,15,1,4326,155
 Goodrick	15659
-Goods	1243,395,836,301,114,1764,880,167,562,139,1550,215,968,140,163,493,29,897,108,266,295,211,119,8,42,50,21,10,403,628,20,148,146,537,70,218,590,20,130,16,75,93,97,195,39,107,35,88,17,1,145,415,717,36,39,86,83,39,16,99,33,74,1009
+Goods	1243,395,836,301,114,1764,880,167,562,139,1550,215,968,140,163,493,29,897,108,266,295,211,119,8,42,50,21,10,403,628,20,148,146,537,70,218,590,20,130,16,75,93,97,195,39,107,35,88,17,1,145,415,717,36,39,86,83,39,16,99,33,74,1009,304,97
 Goods Account	17235
 Goods Agreement	13042
 Goods Dispatch Date	12360
@@ -911,6 +911,7 @@ Google for Startups Accelerator Africa	1363,4512,861,1239,1346
 Google for Startups Accelerator South Africa	7975
 Google for Startups Black Founders Fund	9321
 Google for Startups Black Founders Fund Africa	674
+Google for Startups SDGs Active Countries Mozambique	18776
 Google for Startup’s Black Founders Fund	1363
 Google of ZAR	13462
 Google's AI	6886,1089
@@ -1056,6 +1057,7 @@ Household Durable Goods	15247
 Human Rights and Good Governance	10841
 I Assent Dr. Goodluck Ebele Jonathan	11853
 IA da Google	2816
+IBM Watson XPRIZE AI for Good	18776
 IFB Goods	8166
 IFC and Google	1243
 II.2.3. Google Pagespeed Insights	15936
@@ -1319,6 +1321,7 @@ Transaction Value of Identical Goods Method	11036
 Transaction Value of Similar Goods Method	11036
 Translating Google	1363
 Trevor Goott	7656
+Tropical Medicine and Goodbye Malaria. Zzapp	18776
 Twitter. Unclear for Google	8436
 Twitter. Unclear for Google and TikTok	8436
 Twitter. Unclear for Google and WhatsApp	8436

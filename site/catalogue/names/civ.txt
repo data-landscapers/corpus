@@ -15,6 +15,7 @@ Accelerators and Civil Associations	16942
 Accessible Digital Civic Participation for Blind Communities	14284
 Acknowledgements The Civil Registration Vital Statistics	12337
 Acknowledgment The Somalia Civil Registration and Vital	14894
+Acknowledgments The Civil Society	18770
 Act. Civil Registry Data	14854
 Acts Year Year URL Civil	10812
 Addis Ababa Civil Registration	12222
@@ -340,7 +341,7 @@ CivicVoice	17173
 Civics	18461
 Civics Services	5533,6453
 Civicus	9022
-Civil	163,394,212,130,59,11,1,30,161,67,36,20,485,8,100,5,166,58,212,6,66,28,29,28,46,45,92,4,58,36,1,1,20,3,39,3,66,36,22,25,45,1,23,244,9,9,134,1,22,97,24,2,21,19,67,52,11,9,41,17,41,206,21,38,83,48,26,270,10,68,13,9,25,148,5,30,85,139,50,7,73,95,15,36,57,38,19,25,80,16,13,88,170,26,63,210,89,19,149,76,47,93,43,118,7,16,10,33,70,166,9,32,29,49,1,67,31,50,9,47,100,22,6,90,65,193,44,128,439,35,288,107,63,16,98,11,259,158,4,85,1,118,9,39,143,114,155,77,47,30,62,65,217,36,2,1,12,10,37,2,5,9,26,84,22,19,27,1,21,22,54,160,1,4,121,451,13,1,5,6,7,23,13,34,28,167,13,50,126,1,6,3,1,18,2,9,9,23,14,31,9,138,60,23,130,125,15,15,46,306,20,15,39,54,215,7,20,225,32,34,7,13,324,38,68,58,59,10,16,58,91,1,27,6,141,5,13,28,92,4,25,142,103,41,17,33,1,22,103,10,25,51,15,8,98,201,10,91,43,125,17,33,21,73,33,97,13,47,4,60,126,25,99,5,5,2,3,5,9,6,9,57,5,9,13,1,3,43,19,62,15,25,10,183,44,21,7,37,29,138,5,2,56,74,26,56,43,23,57,126,91,29,81,13,1,14,69,66,9,28,79,118,28
+Civil	163,394,212,130,59,11,1,30,161,67,36,20,485,8,100,5,166,58,212,6,66,28,29,28,46,45,92,4,58,36,1,1,20,3,39,3,66,36,22,25,45,1,23,244,9,9,134,1,22,97,24,2,21,19,67,52,11,9,41,17,41,206,21,38,83,48,26,270,10,68,13,9,25,148,5,30,85,139,50,7,73,95,15,36,57,38,19,25,80,16,13,88,170,26,63,210,89,19,149,76,47,93,43,118,7,16,10,33,70,166,9,32,29,49,1,67,31,50,9,47,100,22,6,90,65,193,44,128,439,35,288,107,63,16,98,11,259,158,4,85,1,118,9,39,143,114,155,77,47,30,62,65,217,36,2,1,12,10,37,2,5,9,26,84,22,19,27,1,21,22,54,160,1,4,121,451,13,1,5,6,7,23,13,34,28,167,13,50,126,1,6,3,1,18,2,9,9,23,14,31,9,138,60,23,130,125,15,15,46,306,20,15,39,54,215,7,20,225,32,34,7,13,324,38,68,58,59,10,16,58,91,1,27,6,141,5,13,28,92,4,25,142,103,41,17,33,1,22,103,10,25,51,15,8,98,201,10,91,43,125,17,33,21,73,33,97,13,47,4,60,126,25,99,5,5,2,3,5,9,6,9,57,5,9,13,1,3,43,19,62,15,25,10,183,44,21,7,37,29,138,5,2,56,74,26,56,43,23,57,126,91,29,81,13,1,14,69,66,9,28,79,118,28,83,10
 Civil Abogado	4209
 Civil Action No	5692,7770
 Civil Actions	12920
@@ -395,6 +396,7 @@ Civil HISWACA Projet	16104
 Civil ID	10765,10
 Civil ITU International Telecommunication Service GBPS	14897
 Civil Identification	6474,1205,3096,37,4603,2875
+Civil Identification Law	18777
 Civil Identification Linkages	10765,10
 Civil Identification and Authentication	11909
 Civil Identity Document	11872
@@ -459,7 +461,7 @@ Civil Registration Bulletin	10765,10
 Civil Registration CRO	12338
 Civil Registration Capacity	10759,78,1315,188
 Civil Registration Certificates	14889
-Civil Registration Code	10765,10,1392
+Civil Registration Code	10765,10,1392,6610
 Civil Registration Code of Mozambique	12167
 Civil Registration Code. ST	10775
 Civil Registration Code.23 This Legislation	10765
@@ -504,6 +506,7 @@ Civil Registration Uptake	13005
 Civil Registration Vi-	13681
 Civil Registration Vital	18449
 Civil Registration Vital Statistics and Identity DCR	12337
+Civil Registration and Civil Identification	18777
 Civil Registration and Civil Identification and Criminal	10775
 Civil Registration and Digital Identity	14640
 Civil Registration and Education	13681
@@ -637,7 +640,7 @@ Civil Services	12917
 Civil Services Reforms	12917
 Civil Social Organisation	15004
 Civil Societ	899
-Civil Society	789,110,59,12,30,630,1391,1105,2810,516,1970,395,120,882,209,373,135,318,1,85,261,13,142,88,9,59,162,243,5,34,357,32,1064,333,77,60,93,606,1270,5,19,79,148,15,2,23,121,485,148,41,371,139,14,38,26
+Civil Society	789,110,59,12,30,630,1391,1105,2810,516,1970,395,120,882,209,373,135,318,1,85,261,13,142,88,9,59,162,243,5,34,357,32,1064,333,77,60,93,606,1270,5,19,79,148,15,2,23,121,485,148,41,371,139,14,38,26,263
 Civil Society ARTICLE	14409
 Civil Society Actors	17771
 Civil Society Advocacy Position	15238
@@ -675,7 +678,7 @@ Civil Society Organisations Civil Society Organisations	5244
 Civil Society Organization	14742,118
 Civil Society Organization DHIS2	10776
 Civil Society Organization DPI Digital Public	7548
-Civil Society Organizations	1778,6155,3074,122,731,144,171,181,319,257,30,15,28,117,210,27,59,698,819,69,600,356,893,4,4,109,5,36,94,11,33,140,1215,28,45,38
+Civil Society Organizations	1778,6155,3074,122,731,144,171,181,319,257,30,15,28,117,210,27,59,698,819,69,600,356,893,4,4,109,5,36,94,11,33,140,1215,28,45,38,170
 Civil Society Organizations COVID-19 Corona Virus	12241,839,15
 Civil Society Organizations CTT	14857
 Civil Society Organizations Financing	7548
@@ -863,6 +866,7 @@ Culture Civil Service College Deliver	14566
 Código Civil	11537,364,3495,742,717
 Código Civil Cabo-Verdiano	15470
 Código Civil. Artigo	11901
+Código de Processo Civil	18755
 Código de Registo Civil	11363,174,32,1206,2621
 Código de Registo Civil URL	15396
 D'ENREGISTREMENT DES FAITS D'ÉTAT CIVIL CHAPITRE	16636
@@ -900,6 +904,7 @@ DG Commends Tribal Heads for Strengthening Civil	18519
 DG of Civil Identification	4984
 DGPC Directorate General of Civil Protection DGRC	18198
 DGSC General Directorate of Civil Security	13729
+DIALOGUE WITH CIVIL SOCIETY	18785
 DIGITALISATION OF CIVIL STATUS REGISTRATION	16569
 DIRECTEUR REGIONAL DE LA PROTECTION CIVILE	17861
 DIRECÇÃO NACIONAL DE IDENTIFICAÇÃO CIVIL SISTEMA	12784
@@ -985,6 +990,7 @@ Diretor Geral de Identificação Civil	11566
 Direção Geral de Identificação Civil	11537
 Direção-Geral de Identificação Civil	11565,1
 Disabilities CSO Civil Society Organisation CWSN	15604
+Divisão de Identificação Civil	18832
 Donors Support Civil Society	6948
 Download CIV1 Site Tech Specs Download	10956
 Droits Civils	10826,2504,112,1419
@@ -1005,6 +1011,7 @@ ET DEL'EDUCATION CIVIQUE	15999
 ETAT CIVIL	3381,10296
 ETAT CIVIL Article	16636
 ETC UTILISATEURS DE DONNEES D'ETAT CIVIL	3381
+EU Roadmap for Civil Society Engagement	18785
 EUR Civil	970
 EWCA Civ	8776
 EXIM CIV	4472
@@ -1038,7 +1045,7 @@ Establish the Zanzibar Civil Registration Agency	11133
 Establishing the Civil Service Training Center	16985
 Establishment of Civil Registration Offices	12064
 Establishment of National Civil Registration Authority	18440
-Estado Civil	10777,6121
+Estado Civil	10777,6121,1935
 Estadística MAC Ministerio de Aviación Civil MAGBMA	16898
 Estatísticas Vitais Do Registo Civil	12862
 Etat Civil	5135,2858,1675,1144,108,18,2354,542,409,188,109,882,108,30,25,14,204,133,170,423,4,118,803,368,20,3,37,18,338,52
@@ -1173,6 +1180,7 @@ History of Civil Registration	12151
 HuMENA for Human Rights and Civic Engagment	15926
 Hun and Sukna Civil Registry Offices	4531
 Hydromet Diagnostics CSO Civil Society Organization	11553
+I. ESTADO CIVIL DA POPULAÇÃO	18802
 IADB Dictionary of Civil Registration and Identification	12338
 ICAO International Civil Aviation Organization ICT	12663
 ICD10. The Civil Registration Service	12138
@@ -1188,7 +1196,7 @@ INTRODUÇÃO A Identificação Civil	12784
 IPs. AI Civil	4126
 Identidade Civil	12784
 Identifiant Digital Civil	557
-Identificação Civil	10750,1,1,20,765,32,1215,78
+Identificação Civil	10750,1,1,20,765,32,1215,78,5917
 Identity Day and Civil Registration Day	13007
 Immigration Management Services and Civic Services	5533
 Implementation of Civil	14738
@@ -1269,7 +1277,7 @@ Legal Framework for Civil Identification	12161
 Legal Void Civic Watch Cameroon and Paradigm	10370
 Legislative Committee. Civil Society	18522
 Legislative Framework for Civil Registration	12959
-Lei da Identificação Civil	5986
+Lei da Identificação Civil	5986,12793
 Lesotho’s National ID and Civil Registration System	12663
 Ley de Funcionarios Civiles	4209,12818
 Liberia Civil Aviation Authority	16947
@@ -1390,6 +1398,7 @@ National Civil Protection Agency	17613
 National Civil Protection Commission	10763,5
 National Civil Protection Commission National Civil	10763
 National Civil Protection System	11553
+National Civil Protection and Fire Service	18787
 National Civil Registrar	6147,6797
 National Civil Registration	3234,9104,6111,25
 National Civil Registration Act	2872,6484,1318,7766,6,3,82
@@ -1463,6 +1472,7 @@ Nigerian Civil Service	10063,93
 Nigeria’s Federal Civil Service	2347
 No. of Area No. of Area Civil	15473
 Non-State Actors Civil	13313
+Notariado Pesquisa O Centro de Identificação Civil	18832
 Notariado SISTEMA DE REGISTO CIVIL	12156
 Notwithstanding the Civil Status Act	14843
 Número de Identificação Civil	11419
@@ -1503,11 +1513,13 @@ PROCLAMATION TO REGULATE THE CIVIL	12226
 PROMOUVOIR LE CIVISME FISCAL ET RENFORCER	17901
 PUBLIC ADMINISTRATION Civil Registration	10837,1503
 Pacte Civil de Solidarité Prise	17882
+Paisagem De Registo Civil E Identificação	18779
 Parc National de Matériel de Génie Civil	15542
 Parc National de Matériels de Génie Civil	15542
 Part of Ongoing Civil Service Reforms	17057
 Part of Ongoing Civil Service Reforms URL	17057
 Participation and Civic Engagement	15663
+Partnership Strategy CR Civil Registration CST	18777
 Passport and Border Control System. Under Civil	5250
 Pathways for Civil Service Reform	16858
 Permanent Representatives SNPC National Civil Protection	11553
@@ -1535,6 +1547,7 @@ Principal Civil Registrar	12151
 Principles of Commerce Civics	18461
 Private Sector and Civil Society	11940
 Private University of Angola. Civil	10776
+Procedimentos de Registo Civil	18779
 Processo Civil	11537
 Professional Integration and Civic Service	6730
 Program ANACM National Agency of Civil Aviation	13729
@@ -1556,6 +1569,7 @@ Proteção Civil	11376,4586
 Proteção Civil SNV Serviço Nacional de Vigilância	11376
 Provisional Commercial Code of Eritrea and Provisional Civil	13985
 Proyecto de Sociedad Civil	4209
+Príncipe OACI Organização da Aviação Civil Internacional	18779
 Public Administration. Civil Registration	11887
 Public Awareness and Civic Education	13005
 Public Institutions Civil Society	17018
@@ -1566,6 +1580,7 @@ Publication of Civil Marriages of Mauritian Citizens	14755
 Périmètre CNI Etat Civil IDVS Outils	14480
 Quarterly Head of Civ	13005
 R SOCIETE YALI GENIE CIVIL	16623
+RC Registo Civil RGPD Regulamento Geral	18779
 RCI Registo Civil Integrado	10765,10
 RECTIFICATION OF CIVIL STATUS RECORDS Despite	12338
 REGISTER OF CIVIL	12226
@@ -1596,7 +1611,7 @@ Regional Civil Registration Coordinator CCRO	12138
 Regional Coordinator for Civil Registration Hesbon Odhiambo	14640
 Register Civil Registry of South Sudanese Nationals	18595
 Register of Civil	12226
-Registo Civil	2953,4513,3284,15,7,3,2,586,27,35,55,48,9,32,7,593,606,2584,37,176,455,460,528,132
+Registo Civil	2953,4513,3284,15,7,3,2,586,27,35,55,48,9,32,7,593,606,2584,37,176,455,460,528,132,1632,55,16
 Registo Civil Artigo	12775,2621
 Registo Civil Código	11537
 Registo Civil Guineense	11537
@@ -1711,6 +1726,7 @@ Snapshot of Civil Registration and Vital Statistics Systems	327,1,11810
 Social de Angola OSC Organizações da Sociedade Civil	11390
 Sociedad Civil	1701,15197,527
 Sociedade Civil	15,2801,7936,817,1254,2653,705
+Sociedade Civil Organizada Prazo	18796
 Sociedade Civil Organizada Sociedade de Cabo da Guiné-Bissau	11569
 Sociedade Civil Organizada X X	11569
 Sociedade Civil. Artigo	15
@@ -1802,6 +1818,7 @@ Tunisian Civil Forum for OGP	9022
 Tweet Nine Civil Society Organisations	8513
 Types of Register of Civil	12226
 U AST CIV	16552
+UAE's General Civil Aviation Authority	18759
 UNDP Youth Civic and Political Participation Curriculum	8860,352
 UNICEF and Civil Society Organisation	12977
 US Dollars. Ideal for Civil	5800

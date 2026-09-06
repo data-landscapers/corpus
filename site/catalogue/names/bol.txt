@@ -95,7 +95,11 @@ Boldnet Internet Solutions Authorisa	3386
 Bole International Airport	9031
 Bole-Megenagna	4806
 Bolesti	10780
-Boletim	10772,3,2000,2675,53
+Boletim	10772,3,2000,2675,53,3278
+Boletim Estatístico	18781
+Boletim Estatístico Anual	18781
+Boletim Estatístico Anual. Em	18781
+Boletim Estatístico MEES	18781
 Boletim Estatístico de Construção	9441
 Boletim Informativo	167,10583
 Boletim ODINES	11453
@@ -113,7 +117,7 @@ Boletim da Repùblica	12808
 Boletim da República	576,219,2071,995,413,895,1801,77,1196,415,4114,1,1,5,3,1,6,34,30,1
 Boletim da República I Série	2437,1,428,2303,1293,508
 Boletim da República I Série. Disponível	2816
-Boletim de Nascimento	10756,9,7,3,2086
+Boletim de Nascimento	10756,9,7,3,2086,5973
 Boletim de Nascimento. Ou	10772
 Boletim de Registo de Nascimento	10749
 Boletin Oficial	16942
@@ -161,6 +165,7 @@ Bolsa Família and Program Keluarga Harapan	11468
 Bolsa Família. Over	11133
 Bolsa Fantasia	12021
 Bolsa Formação	12021
+Bolsa Social	18799
 Bolsa de Dívida	7340,1085,68
 Bolsa de Empreendedor. Participaram	17074
 Bolsa de Fantasia	12021
@@ -171,9 +176,11 @@ Bolsa de Valores de Cabo Verde CCV	17032
 Bolsa de Valores de Cabo Verde. Meios	11933
 Bolsa de Valores de Luanda	8260
 Bolsas	11391
+Bolsas de Estudo	18831
 Bolsas de Estudo Externa	11472
 Bolsas de Estudo Externas BEI	11387
 Bolsas de Estudo Internas CTEM	11387
+Bolsasde Estudo	18831
 Bolster Digital Trust and Compliance	2987
 Bolster Governance	17909,81
 Bolster Security	8520
@@ -253,6 +260,8 @@ Mc Bolivia Americas South America Santa	10840
 Mercado de Bolsa de Acções da Unitel	8122
 Michela Boldrini	18318
 Michele Bolognesi	15129
+Mohamed Boly	18825
+Mohamed Ould Abdallah Boly	18851
 Monsieur Saïdou BOLY	16287
 Montagem Boletim Estatístico de Construção	9441
 Moussa BOLY	17812

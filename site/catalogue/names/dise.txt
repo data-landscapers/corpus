@@ -37,7 +37,7 @@ CENTRE FOR RHEUMATIC DISEASES Data Controller	7167
 CFA Franc COVID-19 Coronavirus Disease CPF	15731
 COMMUNICABLE DISEASES CONTROL UNIT	14773
 COVID-19 Corona Virus Diseases	13359
-COVID-19 Coronavirus Disease	10829,442,109,2040,2091,1411,1379
+COVID-19 Coronavirus Disease	10829,442,109,2040,2091,1411,1379,476,32
 COVID-19 Coronavirus Disease CPF Country Partnership	15491
 CPSD Coronavirus Disease	13331
 CSD International Statistical Classification of Diseases	1009
@@ -162,6 +162,7 @@ Epidemiology and Disease Control	16922
 Epidemiology and Disease Control Unit	17098
 Europe AIDS Auto Immunodeficiency Disease Syndrome	18504
 European Centre for Disease Prevention and Control	8376
+Evolução de Casos de Disenteria	18768
 Expenditure Framework NCDs Non-Communicable Diseases TB	396
 Fight Against AIDS and Major Endemic Diseases	10776
 Foot and Mouth Disease	5444,7144,535,3920

@@ -46,6 +46,7 @@ ESTADO MAYOR DE LAS FUERZAS ARMADAS.-Concepto	4209
 Electricity Drinking Water Sanitation Cooking Fuel	15244
 Electricity Regulatory Index DWT Fuel Energy	12256
 Electricité HFO Heavy Fuel Oil INS	10975
+Empresas FUE Ficheiro de Unidades Estatísticas RE2020	18775
 Every Fuel Fiscal Device	13606
 Every Fuel Operator	13606
 Excessively High Fuel Supply Cost	1828
@@ -134,6 +135,7 @@ Fuel and Utilities	2775
 Fuel-	10829
 FuelMonthly	18305
 Fueland Power	16833
+Fueled	18777
 Fueling H24	17006
 Fueling H24 SNPC	16552
 Fuelled	1248
@@ -189,6 +191,8 @@ NACIONAL Y ACADEMIAS FUERZAS ARMADAS R	4209
 NACIONALES Y DE OTRAS FUENTES	16875
 NIFTI Fuel Platform	14897
 NIFTI Fuel Platform Nifti	14897
+National Fuel Company	18851
+National Fuel Company PV Photovoltaic ENDS	18851
 National Fuel Society of Angola	11380
 Net Domestic Sales of Petroleum Fuels	2775
 Number of Fuel Fiscal Device Interruptions	13606

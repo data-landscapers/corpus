@@ -15,6 +15,7 @@ Apesar da IA	2816
 Aplicação IAS	15392
 Aplicação de IA	2816
 Application Form Web Services IATA CXML	12454
+Aprovação da Lei da Estratégia Nacional de IA	18796
 Architecte IA	12079
 Armonizado de Producción Industrial IAPPI	16898
 Articles IA	11673
@@ -62,8 +63,10 @@ DA IA ARTIGO	3519
 DA IA EM MOÇAMBIQUE	2816
 DATA CENTER SECONDAIRE IAVOLOHA	14589
 DATA CENTER SECONDAIRE IAVOLOHA BUREAU D’ETUDE	14488
+DE STP EM IA	18796
 DESENVOLVEDORES E FORNECEDORES DE IA SECÇÃO	3519
 DESENVOLVIMENTO E PROMOÇÃO DA IA ARTIGO	3519
+DIAGNÓSTICO DO PANORAMA NACIONAL DE IA	18796
 Data Center IA Cloud	6375
 De Ia Direction Générale Article	13334
 Decisões de IA	2816
@@ -85,6 +88,7 @@ Développement Durable IA	16195
 D’INFORMATIQUE NIGER IAMP INTITUT AFRICAIN	18170
 E IA PASSATIoN	14479
 EDG IA Challenge	16693
+ESTRATÉGIA NACIONAL DE IA	18796
 ESTRATÉGIAS E QUADRO REGULAMENTAR SOBRE IA	2816
 ET DE TECHNOLOGIE IAI-NIGER INSTITUT AFRICAIN	18170
 EU Ianda Guiné	11536
@@ -99,7 +103,8 @@ Entidades de IA Crítica	3519
 Estado da Arte da IA	2816
 Estratégia Continental de IA	2816
 Estratégia Continental de IA da União Africana	2816
-Estratégia Nacional de IA	2816,2847,1263
+Estratégia Nacional de IA	2816,2847,1263,11870
+Estratégia Nacional de IA. Instituições Responsáveis	18796
 Estratégia de IA	15689
 Estratégias Nacionais de IA	2816
 Estratégias de IA	2816
@@ -279,6 +284,7 @@ IA. Cette	3019,7239,5325
 IA. Ceux	8219
 IA. Ceux-ci	2582
 IA. Clément Delangue	8702
+IA. Com	18796
 IA. Complementarmente	2816
 IA. Composante	14539
 IA. Concrètement	2387
@@ -301,6 +307,7 @@ IA. Enquanto Melina	2816
 IA. Entre	9519,1810
 IA. Essas	2816,703
 IA. Esta	2816,2847,5666
+IA. Estando	18796
 IA. Este	2816,8513
 IA. Et	7032,6444,2816
 IA. Etablir	15667
@@ -313,8 +320,10 @@ IA. Gouvernance	15938
 IA. Há	2816
 IA. Il	3107,1958,2241,913,225,2027,4793,31,288,116,448,145,44
 IA. Ils	3194,1871
+IA. Importa	18796
 IA. Inclui Cúpulas Globais	2816
 IA. Incluir	2816
+IA. Instituições Responsáveis	18796
 IA. Investir	2816
 IA. Isso	3519
 IA. Je	18070
@@ -353,7 +362,7 @@ IA. Par Jean Materne Zambo URL	16147
 IA. Para	2816
 IA. Plus	11063
 IA. Plusieurs	15583
-IA. Por	2816,5814
+IA. Por	2816,5814,10166
 IA. Pour	2387,13196,363
 IA. Pourquoi	7715
 IA. Pourtant	15295
@@ -369,9 +378,11 @@ IA. Sem	3519
 IA. Ses	3465
 IA. Si	18388
 IA. Si Djibouti	17738
+IA. Sobre	18796
 IA. Sur	15680
 IA. S’exprimant	7124
 IA. Tabela	2816
+IA. Talvez	18796
 IA. Un	9541
 IA. Varela	2584
 IA. Voilà	11673
@@ -412,13 +423,14 @@ IAEE3	11136
 IAEfiit	1009
 IAF CODE DESCRIPTION	13068
 IAFDR	15493
+IAFS III	18857
 IAFS III Summit	16256
 IAFS Participation	17240,776
 IAFS Projects	16256
 IAFS-I	16237,19
 IAFS-II	17240
 IAFS-II Summit	17240
-IAFS-III	11579,2212,1328,2121,1,775,204,158,313
+IAFS-III	11579,2212,1328,2121,1,775,204,158,313,166
 IAFS-III. Vice President Gen	13562
 IAI's Space Division	12078
 IAI-Cameroun	8906
@@ -596,8 +608,10 @@ L'offensive IA	4065
 LLD and IA	16843
 Laboratório de IA	3519
 Leading the IAA	14997
+Lei da Estratégia Nacional de IA	18796
 Lei da IA da UE	3519
 Lei de IA da UE	3519
+Lei de Protecção de Dados Pessoais. A IA	18796
 Leonardo Iacovone	10964
 Les IA	3465,1219,3535
 M Proparco. IATI	1416
@@ -622,6 +636,7 @@ Modelos de IA	2816
 Moçambicanos. A IA	2816
 Mr. Ian KotzéE-mail	11334
 Mudanças Climáticas A IA	2816
+Média ESTRATÉGIA NACIONAL DE IA Aprovação	18796
 NBP and IAP	12921
 NHAOTUIOSENHWOILDDE SSUURRVVEEYY OONN IICCTT IANC GCHESASN	582
 Nganga IA	15928
@@ -720,6 +735,7 @@ T IM O N IA L	17101
 TELECOMUNICACIONES Y SISTEMA DE IA	4209
 TELECOMUNICACIONES Y SISTEMAS DE IA	4209
 TELECOMUNICACIONES Y SITEMAS DE IA Cuentas	4209
+TICs. INFRAESTRUTURAS TECNOLÓGICAS PARA IA EM	18796
 Tags Technologie IA	16375
 Tech IA Sport Culture	16242
 Tech IA Sport Culture Aucun	16242

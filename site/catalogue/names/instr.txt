@@ -212,7 +212,7 @@ Instructively	7695
 Instructor Training Centre	12926
 Instructor-led	10617
 Instructors	395,2380,4173
-Instruir	167,15359
+Instruir	167,15359,3252
 Instruire	13719
 Instruisez	18431
 Instrument-type	4353
@@ -221,14 +221,14 @@ Instrumental Agency	17127
 Instrumental Music	14835
 Instrumental Variable	10852
 Instrumente	902
-Instrumento	15440
+Instrumento	15440,3321
 Instrumento Jurídico Regulador	163
 Instrumento de Coleta de Dados	11569
 Instrumento de Financiamento	11440
 Instrumento de Governação	11451
 Instrumento de Pagamento	10755,631
 Instrumento de Recolha de Dados	11569
-Instrumentos	2816,1393,6546,631,515,32,3458,144,431,996
+Instrumentos	2816,1393,6546,631,515,32,3458,144,431,996,1839
 Instrumentos Ambientais	11406
 Instrumentos Legais	2816
 Instrumentos Normativos Secundários	11448
@@ -239,6 +239,9 @@ Instrumentos de Búsqueda	16855
 Instrumentos de Gestão	4218
 Instrumentos de Pagamento	10755
 Instrumentos de Pagamento de Baixo Valor	10755
+Instrumentos de Pagamentos Os	18829
+Instrumentos de Pagamentos URL	18829
+Instrumentos de Seguimento	18794
 Instruments	557,232,890,3623,2149,97,3326,1396,1061,1157,1,1,533,697,181,1046,310,228,379,6,592
 Instruments Algeria Algeria ARTS	6938
 Instruments Card	12000
@@ -260,7 +263,7 @@ Instrutivo	11368,2,33,1,1,33,27
 Instrutivo de Nomenclatura	11405
 Instrutivos	4218,7217
 Instrutor	11452
-Instrução	794,4375,5586,610,23,42,471,117,3378,108,68,1528,3
+Instrução	794,4375,5586,610,23,42,471,117,3378,108,68,1528,3,1647,11
 Instrução Criminal	15
 Instrução de Actos	11363
 Instrução de Pagamento	5169

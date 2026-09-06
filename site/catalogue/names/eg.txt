@@ -209,8 +209,10 @@ EEC EG ESERA ESWASA FY GET	12969
 EEDCV and EGDCV	12008
 EG Agriculture Minister	17240
 EG Commerce Minister Mr. Borupu	17240
+EG Extensão	18757
 EG Foreign Minister Mr. Simeon Oyono	17240
 EG Minister of Mines and Energy	17240
+EG Oeste	18757
 EG Saamoi Speaks	16984
 EG-08	16996
 EG-18 and EG-31	16996
@@ -244,6 +246,7 @@ EGDI H1	10840
 EGDI H2	10840
 EGDI H3	10840
 EGDI High EGDI Middle EGDI Low	10840
+EGDI Index Figura	18767
 EGDI Index Score	11863
 EGDI M-OSI H-HcI M-TII Africa Burkina	10840
 EGDI M-OSI H-HcI VH-TII Europe Antigua	10840
@@ -331,6 +334,7 @@ EGP760	15604
 EGPAF	12240,1,764
 EGPAF Elizabeth Glaser Paediatric AIDS Foundation	13005
 EGRA Early Grade Reading Assessment EI	11560
+EGRA Early Grade Reading Assessment EMIS	18765
 EGRA Official Use Only Page	16187
 EGRA and EGMA	16638,214
 EGRISS	13873
@@ -446,7 +450,7 @@ Egipto A Estratégia Nacional de Inteligência Artificial	3519
 Egipto ABDELBASET	6613
 Egis Road Operation	12095
 Egis Road Operations S.A	12319
-Egito	2125,565
+Egito	2125,565,16112
 Egito Praia	10298
 Egito Praia Durante	10298
 Eglash	17773
@@ -1201,6 +1205,7 @@ PSL and Egis	12319
 PalArch’s Journal of Archaeology of Egypt	4432
 Part of Egypt's National Spectrum Strategy	4974
 Partenariat EDIFIS Egalité	18346
+Participação Eletrónica EGDI	18779
 Partnership Education Sector Plan for Egypt Education	15604
 Paulo Very High EGDI V2	10840
 People's Democratic Republic Middle EGDI M-OSI	10840
@@ -1217,6 +1222,7 @@ Property Egypt	16004
 Property Markets and Mortgages Egypt	15473
 Provide Egypt	15725
 Providing Egyptian	15393
+Príncipe UN EGOV Survey Score	18767
 Public Bodies EGD	12453
 Public Education Sector Plan for Egypt Education	15604
 Public Private Education Sector Plan for Egypt	15604
@@ -1235,6 +1241,7 @@ Region. Egypt	15725
 Regional EGDI	1893
 Regulations Egypt	15713
 Related Posts Egypt	9747
+Replacing EGRA	18765
 Reports Education Sector Plan for Egypt Education	15604
 Republic OFFICIAL GAZETTE Price EGP	15492
 Republic X Ecuador X Egypt X	11005
@@ -1379,6 +1386,7 @@ UNICEF Egypt Data Snapshot. Issue	15604
 UNICEF Egypt and Baseera. TIMSS	15604
 UNICEF OOSC Egypt	15604
 UNSDCF for Egypt. The UNSDCF	15725
+UNU EGOV	18772
 UN’s EGDI	16876
 UN’s EGovernment Development Index	16876
 URSB and Caroline Egesa	6121

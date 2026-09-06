@@ -187,7 +187,7 @@ DISCUSSION Définition	13390
 DISCUSSION OF FINDINGS	18612
 DISCUSSION OF RESULTS	18443
 DISCUSSION Thisstudyexaminedtheinstitutional	8602
-DISCUSSIONS	4592
+DISCUSSIONS	4592,14231
 DISCUSSIONS SUR LES POLITIQUES	18063
 DISCUSSIONS SUR LES POLITIQUES 13	18063
 DISclAIMERS United Nations Department of Economic and Social	10840
@@ -233,7 +233,9 @@ Discharged Of Firearm	16935
 Discharges	17367
 Discharging	8603,3842,3047
 Disciples of Mercy School	10313
-Disciplina	10760,17,602,4677
+Disciplina	10760,17,602,4677,2712,25
+Disciplina Infantil	18762
+Disciplina Infantil Sanção	18762
 Disciplina de Tecnologia	11555
 Disciplinary	5147,386,1844,3847,26,736,1301,677,796,732,1622
 Disciplinary Action	11218
@@ -258,7 +260,7 @@ Disciplined Forces	14742
 Disciplined Forces Service Commission	14742,6
 Disciplined Practice	11658
 Disciplines	14812,740,2909
-Disclaimer	2093,683,172,103,1163,218,464,351,753,671,266,558,264,263,648,458,75,34,898,178,102,236,190,418,41,49,204,453,132,67,139,35,27,91,220,62,641,309,268,569,81,74,57,171,75,593,55,171,1,57,563,201,275,105,120,7,194,370,141,1,47,600,31,11,3
+Disclaimer	2093,683,172,103,1163,218,464,351,753,671,266,558,264,263,648,458,75,34,898,178,102,236,190,418,41,49,204,453,132,67,139,35,27,91,220,62,641,309,268,569,81,74,57,171,75,593,55,171,1,57,563,201,275,105,120,7,194,370,141,1,47,600,31,11,3,217,51
 Disclaimer ABOUT THE RESEARCH The Stanbic	5247
 Disclaimer APPENDICES Appendix	5247
 Disclaimer All	8376,3870
@@ -361,6 +363,7 @@ Discontinuities And Recent Transformations	12227
 Discontinuities and Recent Transformations	12227
 Discord283. Ces	8891
 Discorda	16262
+Discordamos	18784
 Discothèques	17812
 Discount	14997,556,106,2,2301
 Discount Factors and Implied Valuation	4896
@@ -391,7 +394,7 @@ Discourse Theory	11028
 Discourse Theory of Ernesto Laclau	11028
 Discourse-Theoretical Approach	11028
 Discourses	5700
-Discover	4554,866,1753,2566,1045,751,357,1569,1,2119,1824,631
+Discover	4554,866,1753,2566,1045,751,357,1569,1,2119,1824,631,833
 Discover Artiﬁcial Intelligence	11135
 Discover I-participate	17164
 Discover RFI3	13461
@@ -425,7 +428,8 @@ Discovery of Grounded Theory. Strategies	5349
 Discrepancies	11585,597,3422,1536,174
 Discrepancy	2775,11231,620
 Discrepancy2	2775
-Discrepâncias	11901
+Discrepância Estatística	18853
+Discrepâncias	11901,6878
 Discrete	5237,1013
 Discrete Decimal	12203
 Discrete Dynamics	12926
@@ -496,11 +500,11 @@ Discussion des Resultats	15907
 Discussion des Resultats L'analyse	15907
 Discussion of Key Findings	16971
 Discussion papers and Presentations	14932
-Discussions	1814,16,326,187,26,180,57,108,252,41,225,527,4,14,519,366,28,200,198,48,22,69,55,57,24,244,65,43,27,40,2,18,115,47,149,17,2,15,63,52,86,63,95,41,36,142,54,56,64,30,7,94,34,113,96,423,13,161,68,8,128,7,201,72,61,12,181,66,35,87,203,91,18,27,126,109,1,351,59,19,1,42,42,15,17,21,399,104,146,61,59,22,384,18,154,3,1,10,8,291,200,33,194,113,37,94,59,267,223,59,1,34,66,102,15,286,9,143,56,74,129,76,28,42,196,5,68,42,2,16,128,61,441,132,57,12,3,5,58,52,15,193,49,262,17,13,215,52,14,91,70,25,85,12,145,47,218,64,182,271,1,3,243,36,26,12,2,86,81,270,52,129,96,207,23,27,27,5,107
+Discussions	1814,16,326,187,26,180,57,108,252,41,225,527,4,14,519,366,28,200,198,48,22,69,55,57,24,244,65,43,27,40,2,18,115,47,149,17,2,15,63,52,86,63,95,41,36,142,54,56,64,30,7,94,34,113,96,423,13,161,68,8,128,7,201,72,61,12,181,66,35,87,203,91,18,27,126,109,1,351,59,19,1,42,42,15,17,21,399,104,146,61,59,22,384,18,154,3,1,10,8,291,200,33,194,113,37,94,59,267,223,59,1,34,66,102,15,286,9,143,56,74,129,76,28,42,196,5,68,42,2,16,128,61,441,132,57,12,3,5,58,52,15,193,49,262,17,13,215,52,14,91,70,25,85,12,145,47,218,64,182,271,1,3,243,36,26,12,2,86,81,270,52,129,96,207,23,27,27,5,107,134
 Discussão	15396,81,87
 Discussões	2816
 Discuter	13783,1887,2474,147
-Discutir	12021
+Discutir	12021,6730,49
 Discutiram	12807
 Discuz Insert	18497,22,3
 E&S Information Disclosure Plan	17114
@@ -718,6 +722,7 @@ PIDIA01568 Official Use Only Public Disclosure	14576
 PM Panel Discussion	14054
 POLICY DISCUSSIONS	13868,3341,117,177,487
 POLICY DISCUSSIONS 11 A. Fiscal Policy	17990
+POLICY DISCUSSIONS A. Addressing Macroeconomic Imbalances	18823
 POLICY DISCUSSIONS A. Fiscal Policy Fiscal	17209
 POLICY DISCUSSIONS Amid	13868
 POLICY DISCUSSIONS Discussions	17257
@@ -853,6 +858,7 @@ STAKEHOLDER CONSULTATIONS AND INFORMATION DISCLOSURE	17114
 STAKEHOLDER ENGAGMENT AND PUBLIC DISCLOSURE	1988
 STATEMENTS AND FURTHER REQUIREMENTS Disclosure	3714
 SUPPLEMENTARY DISCLOSURES	16978
+Sanção Disciplinar da Criança Severa	18762
 Sarker D. Discrimination	12231
 Scheme of Reconstruction Disclosure	4896
 School of Economic Disciplines	5700
@@ -870,6 +876,7 @@ Sierra Leone Civil Service Disclaimer	7182
 Similarly for Discover	13461
 Six-in-one Palm Tree Discovered	5390,965,827
 Social Protection Discussion Paper Series	10985
+Social Protection and Jobs Discussion Paper No	18809
 Somali Manufacturers Association. Discussions	10476
 Sources A1- Disclosure	7548
 Sous-officiers des Forces la Discipline Armées	17899

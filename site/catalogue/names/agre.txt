@@ -108,6 +108,7 @@ Agreement URL	15826
 Agreement and ECOWAS	17582
 Agreement and Plan of Merger	7198,1741
 Agreement and Section	16219
+Agreement for Economic Cooperation	18857
 Agreement for Future Equity	12376
 Agreement for Mutual Enforcement of Debarment Decisions	13185,753,2281
 Agreement for National Unity	7452,11079
@@ -164,7 +165,7 @@ Agreements. SCCLRM	12912
 Agreementto	15399
 Agreen.rent	15399
 Agrees	2303,121,6,31,1269,2424,246,10740
-Agregado	10760,17,641,28,131
+Agregado	10760,17,641,28,131,7185
 Agregado Administrativo	4209
 Agregado Administrativo A1	4209
 Agregado Administrativo A2	4209
@@ -189,7 +190,7 @@ Agregado MilitarA3 Consejero A1 Consejero A2	4209
 Agregado Não Conjugal	16138
 Agregado de Prensa	4209
 Agregado de Prensa de Guinea Ecuatorial	16980,222,197
-Agregados	10777,669,131,4867,427
+Agregados	10777,669,131,4867,427,1891
 Agregados Familiares	4044,6733,644,5023
 Agregados Jovens	16138
 Agregados Jovensnão	16138
@@ -201,6 +202,9 @@ Agregation	2461
 Agregação Pedagógica	11419
 Agresment	3972
 Agression	13300,1188,1,1,1418
+Agressão	18762
+Agressão Psicológica Sim	18762
+Agressões	18762
 Air Services Agreement	11185,2377
 Air Transport Agreement	9275
 Algeria and UNDP Sign Agreement	3881
@@ -316,7 +320,7 @@ Concessional Loan Framework Agreement of Rwanda Smart	791
 Confidentiality and Non-Disclosure Agreement	9211
 Congo Signs Agreement	2398
 Connection Agreements	14745
-Construction and Maintenance Agreement	124,15300,1292
+Construction and Maintenance Agreement	124,15300,1292,2038
 Consular B1 Agregado Administrativo A1 Embajador	4209
 Consultancy Agreement	12962
 Contact Agreement	13185
@@ -465,6 +469,7 @@ Facility Agreement No.CKE3004	14546
 Fiber-Optic Agreement	5001
 Fiduciary Principles Agreement	13938
 Fiduciary and Principles Agreement	13938
+Financial Agreement	18754
 Financial and Administrative Framework Agreement	15901
 Financing Agreement	577,687,440,67,96,606,1,415,715,2935,2130,2099,61,10,1016,8,42,19,296,965,146,1,60,67,297,94,696,366,75,151,234,229,57,85,59,230,155,249,460,26,4,10,13,11,295,1104,129,173,83
 Financing Agreement Description Under Category	10964
@@ -485,12 +490,13 @@ Financing Agreement. Specifically	11863
 Financing Agreement. The AWPB	16949
 Financing Agreement. The NSC	18661
 Financing Agreement. The Procurement Plan	11417
-Financing Agreements	1264,14880,805
+Financing Agreements	1264,14880,805,1816
 Financing Agreements for Vision	7426
 Financing Agreements. Procurement Plans	16144
 Financing Agreements61	16144
 Financing and Project Agreements	1867
 Fisheries Subsidies Agreement	13042
+Fishery Partnership Agreement	18813
 Florence Agreements	13624
 Force. The Loan Agreement	16219
 Forces Agreement	3583
@@ -501,7 +507,7 @@ Form of Notice ofEffectiveness of Loan Agreement	15399
 Formalize Agreements	12675
 Frame Supply Agreement	78,1
 Framelvork Agrecnrcnt	15399
-Framework Agreement	6921,4180,1288,1023,149,1181,657,857,19,525,441,1287,163
+Framework Agreement	6921,4180,1288,1023,149,1181,657,857,19,525,441,1287,163,166
 Framework Agreements	6432
 Free Roaming Agreements Across West Africa	17106,81,79
 Free Trade Agreement	3861
@@ -562,6 +568,7 @@ HAVE AGREED AS FOLLOWS	13996,1645
 HEREBY AGREE AS FOL.L.OWS	11517
 HEREBY AGREE AS FOLLOWS	16843
 HERESY AGREE AS FOLLOWS	15363
+Hague Agreement	18797
 Having Concluded Performance Agreements	11218
 Headquarters Agreement	14409,3733,55
 Health Cooperation Agreement	18535
@@ -578,6 +585,7 @@ IDA Effectiveness the Loan Agreement of Effectiveness	11417
 IDA Financing Agreement	784,12548,1634
 IDA Grant Agreement	16922
 IDA KOE Loan Agreement	6539
+IDA The Grant Agreement	18777
 IDA The Guarantee Agreement	6539
 IDA the Equity Subscription Agreements	16144
 IGAD Constitutive Agreement	14912
@@ -599,6 +607,7 @@ Identification Agency OLA Operational Level Agreement	12359
 Implement Digital Cooperation Agreement By Awa	11670
 Implementation Agreement	1867,8492
 Implementing Agreements	14742
+Implementing Partnership Agreement	18868
 Indemnity Agreement	15905
 Information Technology Agreement	11550
 Information and Technology Agreement	13985
@@ -626,6 +635,7 @@ Intrants de Santé Long Term Agreement Lot	14622
 Investec and Old Mutual Bank. Agreements	5533,58
 Investment Grant Agreement	15901
 Investment Promotion and Protection Agreements	14742,77
+Investment Protection Agreements	18797
 Investment and Network Modernization Agreement	4527,2668
 Johannesburg Interbank Agreed Rate	16219
 Joint Commission Agreement	13562
@@ -671,6 +681,7 @@ Liberia Agrees	17358
 Libyan Political Agreement	16902
 License Agreement	5665
 Licensing Agreement	12723
+Lisbon Agreement	18797
 LoC Agreements	16649
 Loan Agreement	1770,144,4625,4229,649,3663,319,12,107,35,110,306,250
 Loan Agreement Name	17441
@@ -797,7 +808,7 @@ PSMA Port State Measures Agreement QPR	17105
 Pandemic Agreement	4049,1501
 Pandemic Preparedness Agreement	6534
 Parent Support Agreement	7198
-Paris Agreement	789,181,294,20,534,49,1022,541,1,173,1643,1292,917,1105,832,31,889,405,50,415,27,207,446,42,60,291,143,712,184,329,512,492,369,141,415,51,54,1,2,322,722,217,53,79,86,117,61,880,260,120
+Paris Agreement	789,181,294,20,534,49,1022,541,1,173,1643,1292,917,1105,832,31,889,405,50,415,27,207,446,42,60,291,143,712,184,329,512,492,369,141,415,51,54,1,2,322,722,217,53,79,86,117,61,880,260,120,231,42
 Paris Agreement Implementation Platform	13057
 Paris Agreement for Greenhouse Gas Inventories of CRT	17140
 Paris Agreement's Enhanced Transparency Framework	3431
@@ -824,7 +835,7 @@ Performance Agreements	12706
 Plus Pacific Agreement	13042
 Possible Agreement VIII	1243
 Posts Performance Agreements	11251
-Power Purchase Agreement	1196,11858,69,32,492,2390,2500
+Power Purchase Agreement	1196,11858,69,32,492,2390,2500,286
 Power Purchase Agreement Pre	12358
 Power Purchase Agreements	12233,23,64,79,2346,914,1192,1686
 Power Purchase and Grid Connection Agreement	13123
@@ -914,13 +925,14 @@ SPS Agreements. Further	13320
 STRONGLY DISAGREE DISAGREE NEUTRAL AGREE STRONGLY	17099
 SUSTAINABLE FISHERIES PARTNERSHIP AGREEMENT BETWEEN	14447
 Sales and Purchase Agreement	14845
-Samoa Agreement	13156,14,826,632
+Samoa Agreement	13156,14,826,632,4157
 Saúde Agregados Familiares Alimentação de Lactentes	10777
 Schedule AGREEMENT BETWEEN THE GOVERNMENT	13326
 Scheme of Reconstruction Agreement	4360
 Scheme. The Connection Agreement	14807
 Secretario A3 Agregado Comercial A1 Agregado	4209
 Section III B Agreement	1867
+Sector Plan FA Financing Agreement FM	18765
 Seed Capital Grant Agreements	16144
 Separate Agreements	4153
 Service Agreement	10829
@@ -982,6 +994,7 @@ Sudatel Group Sign Tripartite Agreement	13915
 Summary Table of Agreed Actions	18494
 Supplemental Agreement	12256
 Support Agreements	7198
+Sustainable Fisheries Partnership Agreement	18785
 Sustainable Fisheries Partnership Agreements	14628
 Sustainable Investment Facilitation Agreement	16521
 Sustainable Investment Facilitation Agreement Today	16521
@@ -1057,6 +1070,7 @@ Voluntary Partnership Agreements	17019
 Voting and Support Agreement	7198
 WARDIP SOP-1. Framework Agreement Title	17287
 WHEREAS the Agreement	13326
+WIGOS National Partnership Agreement	18787
 WTO Agreement	1243,9793,2321,868
 WTO Agreements	1243
 WTO Customs Valuation Agreement	11036

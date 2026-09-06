@@ -47,6 +47,7 @@ Allow South Complete Its Turn	2355,176,4,1,56,3,339,96,901,1006,1761,673
 Alojamentos Turísticos	15645
 Ambassador Turyare	10701
 Ambassador Yusuf Maitama Tuggar	5001
+Ambiente. Tutela	18760
 Amen Bank and Attijari Bank Tunisia	10692
 Amesema Tume	3447
 Aminata Turay Office	18524
@@ -120,6 +121,7 @@ Caleb Jack Tunde Buremo Hush Naidoo	10861
 Camp Tuli Bonse	10374
 Cans. Tins. Tubes	16900
 Capacity Make Model Tx Power Tunability	736
+Capítulo VIII Tutela	18755
 Care and Treatment for Tuberculosis	15247
 Category A6- Tuna Long Liner No	18541
 Central Bank Of Tunisia Reports	5125
@@ -190,6 +192,8 @@ Developing Telecoms Orange Tunisia	2405
 Devlet Republic of Turkey Identity Card	10714
 Digital Tunisia	1596,3422
 Digital and Online Learning. Turin	15480
+Direcção Geral de Turismo	18767,5
+Direcção de Turismo	18775
 Discuss Identity System Modernization TUNIS	10521
 Dispensário Anti Tubercolose	10784
 District Sakaraha District Tulear II	14425
@@ -318,6 +322,8 @@ Houndé Tuy Hauts-Bassins	15715
 Hôtel Golden Tulip Le Diplomate de Cotonou	16545
 I D Ecosystem for Tunisia	12328
 III.2.9 Tutelle	17864
+INDICADORES SOBRE TURISTAS	18757
+INDICATEURS SUR LES TURISTES	18757
 INFRAESTRUCT. GRAL. PROVINCIAL PROVINCIAL KIE- TURÍSTICAS	4209
 INFRAESTRUCTURAS TURÍSTICAS MINISTERIO DE TRANSPOR TES	17101
 INST-560693B0A73 TURKANA Kenya	7167
@@ -452,7 +458,8 @@ Minister of Interior Dr. Olubunmi Tunji-Ojo	6871
 Ministerio de Turismo	4209,12880
 Ministre de Tutelle	13301,4572
 Ministries Evangeliese Sending Kerk Narraville Tutaleni	13046
-Ministro de Tutela	13
+Ministro de Tutela	13,18736
+Ministro de Tutela. Artigo	18749
 Ministro de Tutela. Dois	13
 Ministro de Tutela. O Conselho de Administração	13
 Ministry of Education Tunisia Dr. Youssef Ben	2958
@@ -484,6 +491,7 @@ Muslim World. Tute	16916
 Mzimba Turn-off- Kacheche- Chiweta	13122
 Mº TURISMO E INFRAESTRUCTURAS TURISTICAS Cuentas	4209
 Mº de TURISMO E INSFRAESTRUCTURAS TURÍSTICAS Servicio	4209
+Móvel Turbo	18830
 NCFI Chairperson Emmanuel M. Tutuba	8135
 NDMA Engages Turkish Ambassador Over Kono	18580
 NIGER TURKIYE MINING COMPANY	18191
@@ -572,6 +580,7 @@ Program Keluarga Harapan and Bantuan Langsung Tunai	11468
 Programa de Iniciação Científica Tutelada	15910
 Provincial ICT Officer Mr. Richard Tumeo	34
 Proyecto de Marketin Turístico	4209
+Príncipe TB Tuberculose PGT13 Décimo Terceiro	18783
 Pshoki Rugarama Tumba Muzo Mutete Muko	12413
 PubMed Google Scholar Daniel Tulomba View	10784
 PwC Tunisia	1596,4579
@@ -608,6 +617,7 @@ République de Turquie	15594,750
 République du Tunisie	10819
 S.A TUJANE Microfinance S.A FSTE	13390
 S.E. Judith Suminwa Tuluka	6383
+SIDA- Tuberculose	18768
 SMEs. Boaventura Tuzine	7734
 SMSI de Tunis	13290
 SOUS TUTELLE FLY GABON HOLDING CONSEIL	16099
@@ -617,6 +627,7 @@ SST Self-Service Terminal TAT Turn Around	11250
 STI Sexually Transmitted Infection TB Tuberculosis	16971
 STRATEGIC CONTEXT Tunisia	1818
 STRONGER TOGETHER STAY TUNED	11157
+SUPER TURBO MAX	18830
 Sami Tunji The Nigeria Data	8118
 Sao Tom Djibouti Tunisia Mauritania BUCMEOAAO	6938
 Scale Precision Agriculture AI Tunisian	9385
@@ -624,6 +635,7 @@ School Tuhingireni Project School Masivi Road	13046
 School of Future Tunisia	1577
 Secretario de Estado de Turismo	1855
 Sector Turístico	16898
+Secção I Tutela	18755
 Senegal Sierra Leone Trinidad and Tobago Tunisia	10764
 Series B for Tugende	935
 Several Tunisian	5340
@@ -634,6 +646,7 @@ Sierra Leone Turns	3712
 Signs and Symptoms of Tuberculosis	15247
 Simplifica Turismo	11445,13
 Single Window TURKMENISTAN	16631
+Situação da Tuberculose	18768
 Skip Jack Tuna	16935
 Smart Tunisian Technoparks	8139
 Social Justice Fund. Tuma	11994
@@ -657,6 +670,7 @@ Surge In Mobile Payments As Tunisia	5125
 Suzanne Tumba	4893
 T4 Evolving Armenia Tajikistan Turkmenistan T3	10764
 TARIFFS AND THE GAS TURN	14673
+TARIFÁRIOS O TURBO	18830
 TAX EXAMPLES PURPOSE Turnover Digital Market	14932
 TB Drug-Resistant Tuberculosis EDCU Epidemiology and Disease	12976
 TB Tuberculose UE Union Européenne UM	17843
@@ -692,10 +706,12 @@ TUNISIA UGANDA ZAMBIA ZIMBABWE SOMALIA UPCOMING	17242
 TUNPAY	6103
 TUPPI	11387
 TURAME COMMUNITY FINANCE S.A	13390
+TURBINHO	18830
+TURBO	18791,39
 TURBULENCIAS	1701
 TURI NORD KIVU	15670
 TURI P.i	15670
-TURISMO	2816,13671
+TURISMO	2816,13671,2270
 TURISMO E INFRAESTRUCTURAS TURÍSTICAS	4209
 TURISMO LICENCIA	4209
 TURISMO LICENCIA ACTUAL	4209
@@ -771,7 +787,7 @@ Tuber Crops Cultivation	17043
 Tuber-	10780
 Tuberc	4301
 Tubercules	15999
-Tuberculose	12800,1822,977,86,27,773,1358,39,223,46
+Tuberculose	12800,1822,977,86,27,773,1358,39,223,46,606,11,15
 Tuberculose Au	15711
 Tuberculose CDTUB	15475
 Tuberculose DSRP	15685
@@ -779,6 +795,7 @@ Tuberculose Maladies	15599
 Tuberculose Optimisation	14622
 Tuberculose Paludisme Otalgie	15599
 Tuberculose Pulmonaire	15475
+Tuberculose Pulmonar	18757
 Tuberculosis	771,592,625,2221,5760,807,4,4,1367,205,57,8,308,2327,150,519,1210,6,28,2,130,139,49,580
 Tuberculosis Angola Profiles Claudia Robbiati View	10784
 Tuberculosis Control Program	18162
@@ -1051,7 +1068,9 @@ Turah	15473
 Turamye	11615
 Turbine	15952
 Turbines	16047,56
-Turbo	2405,7908
+Turbinho	18830
+Turbo	2405,7908,8517
+Turbo Max	18830
 Turbogas	17309
 Turbogas de Malabo	17309
 Turbulencias	1701
@@ -1067,11 +1086,14 @@ Turikumwe	13331
 Turin	40,7982,2922
 Turing	2816,7503
 Turing Institute	7008
-Turismo	1265,436,736,379,1393,1454,1178,3597,991,3,13,13,21,48,42,452,766,2689,50,168,328,876,202,208,4
+Turisme	18757
+Turismo	1265,436,736,379,1393,1454,1178,3597,991,3,13,13,21,48,42,452,766,2689,50,168,328,876,202,208,4,1438,7,6,4,6,21,37,14,33
 Turismo Hoteleira	17008
 Turismo Juan José Ekuna Esono Mangue	9303
 Turismo Na	2816
 Turismo Rural	1265
+Turismo Sustentável	18798,41,33
+Turismo Sustentável de São Tomé	18789
 Turismo da Universidade de Santiago	16290
 Turismo de Aventura	16022
 Turismo de Cabo Verde	15526
@@ -1116,7 +1138,7 @@ Turkey.274	3583
 Turkey’s Rating Based	15713
 Turki	2096
 Turkic Muslim	2518
-Turkish	233,3593,1438,4764,381,1228,3612
+Turkish	233,3593,1438,4764,381,1228,3612,3548
 Turkish Aerospace Industries	12130
 Turkish Airlines	15542
 Turkish Albayrak Group	16972
@@ -1126,6 +1148,7 @@ Turkish Court of Accounts	11637
 Turkish Court of Accounts and TİKA	11637
 Turkish Embassy	18580
 Turkish Government	18580
+Turkish Group FB	18797
 Turkish Universities Expand Their Global Footprint	15249
 Turkiye	6849
 Turkiye Rating	15713
@@ -1206,7 +1229,7 @@ Turnover Tax Provisions. The Finance Act	12208
 Turns	7367,981
 Turns Supply	16799
 Turoge	15687
-Turquia	10772
+Turquia	10772,7988
 Turquie	2514,2847,1598,1838,94,2731,16,436,3349,119,495,120,299,1235,566
 Turquie. Au	16714
 Turquie. Si	3842
@@ -1216,6 +1239,7 @@ Turtle Tech	13095
 Turtle and Sherbro Islands	18475
 Turubanova S	16463
 Turunen	8605
+Turísmo	18757
 Tusaalaha	15152
 Tushka	15473
 Tusi Fokane	15931
@@ -1228,7 +1252,7 @@ Tusome	899
 Tustin	9045
 Tut Gatluak Manime	18666
 Tuta-Me. Abed Tau	10605
-Tutela	13,1,149,4,11192,102,55,12,1255,2561,47,1464
+Tutela	13,1,149,4,11192,102,55,12,1255,2561,47,1464,1900,18
 Tutela Administrativa	11388
 Tutela Económica	15391
 Tutela Financeira	12789

@@ -451,7 +451,7 @@ GI-TOC	4127,207
 GI7TLJGcQMeTTLeTWPA	6423
 GIA General Information Authority GIS Geographic	17157
 GIA's Eng. Ayoub Al-Shweikh	5027
-GIABA	6422,1030,6273,600,2813,45,45,7
+GIABA	6422,1030,6273,600,2813,45,45,7,1562
 GIABA Office	6422
 GIAC Certifications Entry Level GIAC Security	15662
 GIAC Certifications Intermediate Level GIAC Certified	15662
@@ -510,6 +510,7 @@ GIEWS Food Price Monitoring and Analysis	16464,708
 GIEWS Global Information and Early Warning System	15118
 GIF CONCEPT NOTE	14441
 GIF Electronic Government Interoperability Framework FRAND	13308
+GIF Global Infrastructure Facility GoSTP Government	18777
 GIF Governance	15540
 GIF Working Group	15540
 GIF and Digital Government Strategy	798
@@ -1202,6 +1203,7 @@ Girls Education Policy. Part	12329
 Girls Education Strategy	12175
 Girls Education and Women's Empowerment and Livelihoods	12335
 Girls Education and Women’s Empowerment and Livelihoods	13332
+Girls Empowerment and Quality Education for All Project	18777,32
 Girls GER	16436
 Girls Men	9772
 Girls Not Brides	12188
@@ -1361,7 +1363,7 @@ Give the Authority	762
 Give the Presidential Task Team	6832
 GiveDirectly	5233,6761,4779
 GiveDirectly’s Lieberman	16773
-Given	10,226,159,23,153,2,6,192,18,110,41,21,9,30,243,5,9,27,363,54,3,73,33,18,22,17,121,108,211,152,2,54,34,42,77,138,83,59,41,81,91,15,209,71,127,15,6,10,37,131,345,87,39,179,221,23,56,116,35,45,42,2,70,215,25,395,5,18,132,9,309,46,59,88,80,45,114,44,88,118,2,113,1,155,9,110,22,261,83,90,11,22,176,96,39,180,174,60,97,137,22,333,92,6,372,39,82,19,126,118,373,250,25,187,4,3,42,1,1,3,7,4,1,42,7,12,3,7,1,29,38,21,15,5,3,1,13,3,5,19,24,8,14,80,1,2,1,1,1,4,3,11,42,20,1,11,49,12,20,57,14,37,133,10,3,9,6,7,270,2,6,20,9,8,5,2,2,7,8,31,9,1,21,8,12,84,51,20,14,35,4,6,7,30,13,58,1,8,1,31,7,9,14,4,7,1,2,2,11,5,14,45,10,126,43,248,24,5,2,11,19,82,219,33,2,17,1,17,38,74,16,27,19,15,143,187,123,13,181,155,8,86,233,56,13,8,17,13,3,57,43,2,9,8,1,25,10,3,12,18,20,12,22,4,16,17,46,13,23,11,15,61,12,65,70,39,13,23,15,11,7,31,2,5,35,48,3,17,37,1,2,2,25,25,52,118,100,49,112,292,374,42,15,5,4,20,25,1,17,3,7,2,7,2,3,12,10,11,23,18,6,56,6,9,13,12,18,82,18,28,41,41,37,54,45,277,1,68,21,13,10,13,44,154,19,170,25,41,15,69,18,3,114,38,4,15
+Given	10,226,159,23,153,2,6,192,18,110,41,21,9,30,243,5,9,27,363,54,3,73,33,18,22,17,121,108,211,152,2,54,34,42,77,138,83,59,41,81,91,15,209,71,127,15,6,10,37,131,345,87,39,179,221,23,56,116,35,45,42,2,70,215,25,395,5,18,132,9,309,46,59,88,80,45,114,44,88,118,2,113,1,155,9,110,22,261,83,90,11,22,176,96,39,180,174,60,97,137,22,333,92,6,372,39,82,19,126,118,373,250,25,187,4,3,42,1,1,3,7,4,1,42,7,12,3,7,1,29,38,21,15,5,3,1,13,3,5,19,24,8,14,80,1,2,1,1,1,4,3,11,42,20,1,11,49,12,20,57,14,37,133,10,3,9,6,7,270,2,6,20,9,8,5,2,2,7,8,31,9,1,21,8,12,84,51,20,14,35,4,6,7,30,13,58,1,8,1,31,7,9,14,4,7,1,2,2,11,5,14,45,10,126,43,248,24,5,2,11,19,82,219,33,2,17,1,17,38,74,16,27,19,15,143,187,123,13,181,155,8,86,233,56,13,8,17,13,3,57,43,2,9,8,1,25,10,3,12,18,20,12,22,4,16,17,46,13,23,11,15,61,12,65,70,39,13,23,15,11,7,31,2,5,35,48,3,17,37,1,2,2,25,25,52,118,100,49,112,292,374,42,15,5,4,20,25,1,17,3,7,2,7,2,3,12,10,11,23,18,6,56,6,9,13,12,18,82,18,28,41,41,37,54,45,277,1,68,21,13,10,13,44,154,19,170,25,41,15,69,18,3,114,38,4,15,119,41,1,13,14
 Given Africa	415
 Given Algeria	16279
 Given Angola	10768
@@ -1381,6 +1383,7 @@ Given Nigeria	11469,459
 Given Somalia	11136,3919
 Given South Africa	16795
 Given South Sudan	18616,86
+Given São Tomé and Príncipe	18840
 Given That the Constitution	16983
 Given Weibo	8460
 Given Yekhanurov	7493
@@ -1955,7 +1958,7 @@ Samson Girmay	10001
 Sauli Giliard and Hilda MhagamaApril	5855
 Schools Enrolment Distribution Boys Girls	18460
 Scope Subsystem Type Nominal Given	7221
-Search Give Feedback	16972
+Search Give Feedback	16972,1825
 Secrtaire Gindral du Gouvernement	17441
 Secteur Sous- Entreprise SAe SARL GIE	10875
 Security and Resilience Framework Given	4528,7984

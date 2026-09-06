@@ -95,7 +95,7 @@ Commodity Unit	17235
 Commodity Voucher	14945
 Commodity-backed	12882
 Commodité	10711
-Common	21,550,648,721,2236,263,89,883,742,998,115,747,30,562,1104,230,880,198,112,4,77,25,34,195,333,155,42,47,155,50,7,167,92,405,47,78,269,45,164,158,679,52,246,19,144,10,3,13,26,65,62,167,80,229,252,1118,20,4,9,8,1,38,1,31,88,73,24,1169,154,2,1,90
+Common	21,550,648,721,2236,263,89,883,742,998,115,747,30,562,1104,230,880,198,112,4,77,25,34,195,333,155,42,47,155,50,7,167,92,405,47,78,269,45,164,158,679,52,246,19,144,10,3,13,26,65,62,167,80,229,252,1118,20,4,9,8,1,38,1,31,88,73,24,1169,154,2,1,90,231
 Common African Position	5825
 Common Agenda	11028
 Common Agenda Policy Brief	11028
@@ -266,7 +266,7 @@ Conduct Agricultural Commodity and Market Information Survey	17116
 Continental Common Market. Trading	2117
 Corporate Finance Commons	10
 Creative Commons	432,948,2481,2193,1677,552,153,692,304,307,991,34,20,60,34,276,1,221,187,664,28,452,2019,172,231,342,242,1,1,9,1,906,308,348,456,30,7,76,25,242,316
-Creative Commons Attribution	1212,6519,28,262,1,108,153,153,1303,20,955,51,10,37,2,163,172,396,27,21,3,287,123,1,83,238,206,292,486,1,1,703,709,171,34,1,132,383,27,6,13,221,1,9,742,160,316,831,7,90,26,142,227,100,251
+Creative Commons Attribution	1212,6519,28,262,1,108,153,153,1303,20,955,51,10,37,2,163,172,396,27,21,3,287,123,1,83,238,206,292,486,1,1,703,709,171,34,1,132,383,27,6,13,221,1,9,742,160,316,831,7,90,26,142,227,100,251,163
 Creative Commons Attribution CC	9025,1689,249,1,13,159,13,730,376,1057,2,1583,550,33,1396,66,928,26,806
 Creative Commons Attribution International License	11927
 Creative Commons Attribution License	8376,2543,1084,228,15,1877,543,1358
@@ -396,6 +396,7 @@ Liberia Agricultural Commodities Regulatory Authority	17235
 Liberia Agriculture Commodity Regulatory Authority	17070,83
 Liberia National Common Statistical Production Architecture	17116
 License Creative Commons Attribution International	15232
+Licença Creative Commons	18774
 Licença Creative Commons Nossos	9432
 Live Commonwealth Secretariat Meridian System	14546
 MNCH Total Commodity I Total Cost	4301
@@ -480,6 +481,7 @@ UK Foreign Commonwealth	12191
 UK Foreign and Commonwealth Development Office	11142,7346,89
 UK House of Commons	14753
 UN Common Approach	14959
+UN Common Country Analysis	18787
 UNESCO and Commonwealth of Learning	14812
 Under the Commonwealth’s Nagdi	4172
 Under the Creative Commons Attribution	10714,51,10,37,165,172,396,783,206,778,2,1583,550,33,1396,66,928

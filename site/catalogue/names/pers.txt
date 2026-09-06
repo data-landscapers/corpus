@@ -121,6 +121,7 @@ C INSISTEZ POUR DÉTERMINER AUTRE PERSONNEL	13300
 C PGES- CENTRE DE PERSONALISATION DES	14490
 C. PERSONNEL	13478
 C. Persons	12939
+CADRE PERSONNEL	18757
 CAPI Computer Assisted Personal Interview Figure	582
 CAPI Computer-Assisted Personal Interview CCT Census	16921
 CAR Perspective	10829
@@ -962,6 +963,7 @@ Names of Persons Filing Statement	7198
 National Academy of Information Technology for Persons	16046
 National Advisory Council for Persons	12916,61
 National Agency for Identification of Persons	6147
+National Agency for Personal Data Protection	18840
 National Association of Persons	16958
 National Commission for Person	18504
 National Commission for Persons	11975,63,843,5562,42
@@ -1186,6 +1188,7 @@ PGES CENTRE DE PERSONALISATION DES	14490
 PGES CENTRE DE PERSONALISATION DES CARTES	14490
 PGES- CENTRE DE PERSONALISATION DES CARTES	14490
 PII Personally	14434
+PIM Project Implementation Manual PIN Personal	18777
 PIN Personal Identification Number IP Internet	15472
 PIN Personal Identification Number PPI Producer	2775
 PIN Personal Identification Number PPP Purchasing	12663
@@ -1277,10 +1280,10 @@ Persian	7790,7681
 Persian Gulf	11272,1770
 Persian and Pashto	7790
 Persistance	8891,5682,969,2340
-Persistem	11461
+Persistem	11461,7406
 Persisten	17425
 Persistence	9855,5274
-Persistent	1828,1755,270,8,2507,124,340,106,2087,568,166,180,790,274,353,61,52,975,179,106,311,71,52,107,1548,104,13,50,49,625,4,182,6,293,292,530,30,118,13,12,100,10,36,4,701,497,44
+Persistent	1828,1755,270,8,2507,124,340,106,2087,568,166,180,790,274,353,61,52,975,179,106,311,71,52,107,1548,104,13,50,49,625,4,182,6,293,292,530,30,118,13,12,100,10,36,4,701,497,44,278,42
 Persistent ACV Fund	14111,1
 Persistent Benchmarks	6051
 Persistent Bottlenecks High	6051
@@ -1297,7 +1300,7 @@ Persistent Tax Arrears	14985
 Persistently	11469,712
 Persistentwordpress secUsed	3212,2216,578
 Persisting	10964,4037,2905
-Persistência	15694
+Persistência	15694,3069
 Perso	4997,5977,5881
 Perso Server	4924
 Persol	236
@@ -1372,7 +1375,7 @@ Personal Data Personal Data Protection	1243
 Personal Data Pro	10974
 Personal Data Proclamation	1368
 Personal Data Proclamation No	12257
-Personal Data Protection	16,210,735,200,82,231,1534,185,182,226,1350,293,119,1574,515,830,2088,449,20,17,52,3,63,576,2640,244,940,110,29,40,1035,336,144,677,125
+Personal Data Protection	16,210,735,200,82,231,1534,185,182,226,1350,293,119,1574,515,830,2088,449,20,17,52,3,63,576,2640,244,940,110,29,40,1035,336,144,677,125,927
 Personal Data Protection ASN Authority	17870
 Personal Data Protection Act	2806,309,1836,51,242,681,97,724,181,331,3875,529,472,4815
 Personal Data Protection Act. OUT	7258
@@ -1392,7 +1395,7 @@ Personal Data Protection Exception	11154
 Personal Data Protection Guidelines	10832
 Personal Data Protection Guidelines for Africa	961
 Personal Data Protection Handbook	12301
-Personal Data Protection Law	16,3612,1354,481,3936,705,5380,230,88,410,2158
+Personal Data Protection Law	16,3612,1354,481,3936,705,5380,230,88,410,2158,407
 Personal Data Protection Law No	16972
 Personal Data Protection Law Num	16942
 Personal Data Protection Law. INTRODUCTION Data	12419
@@ -1480,6 +1483,7 @@ Personal Initiative Training Leads	10963,1
 Personal Initiative Training. The GoL	16876
 Personal Interviewing	15479
 Personal Interviewing CPI Consumer Price Index	13359
+Personal Interviews CERC Contingent Emergency Response	18777
 Personal Jurisdiction Over Data Controllers and Processors	3861
 Personal Liability	18600
 Personal Liberties	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
@@ -1581,9 +1585,9 @@ Personne Sanctionnée	15901
 Personne Vivant	14622,801,52
 Personne. Arllcle	15397
 PersonneiCategory	11180
-Personnel	429,118,3,18,20,149,447,352,978,85,25,168,174,390,480,341,2659,60,1092,1867,302,112,452,100,154,156,3,5,59,26,425,398,930,60,253,10,1,89,88,22,368,551,6,114,31,88,263,106,397,2,3,45,5,89,68,75,232,89,15,248,325,22,145,71,42,24,181,184,191,14,320,8,1,5,1,55,119,29,87,8,16,27,78,38,24,85,5,2,1
+Personnel	429,118,3,18,20,149,447,352,978,85,25,168,174,390,480,341,2659,60,1092,1867,302,112,452,100,154,156,3,5,59,26,425,398,930,60,253,10,1,89,88,22,368,551,6,114,31,88,263,106,397,2,3,45,5,89,68,75,232,89,15,248,325,22,145,71,42,24,181,184,191,14,320,8,1,5,1,55,119,29,87,8,16,27,78,38,24,85,5,2,1,420
 Personnel ASSI Agence des Services	15583
-Personnel Administratif	18121
+Personnel Administratif	18121,636
 Personnel Art	18327
 Personnel Audit and Skills Gap Analysis	7659
 Personnel Commune	14425
@@ -1682,6 +1686,7 @@ Perspectiva Mundo	11523
 Perspectiva-se	5721
 Perspectivas	795,1343,9249
 Perspectivas Futuras	16028
+Perspectivas da População Mundial	18779
 Perspective	3,958,1135,2948,305,14,55,1069,392,233,35,27,3652,1180,2006,1712,2562,5
 Perspective Taking	10954
 Perspective of Human Rights Watch	2518
@@ -1698,7 +1703,8 @@ Perspectives Production	18013
 Perspectives T2	16722
 Perspectives de Recouv	3396
 Perspectives for Potential Investors	5278
-Perspetivas	15477,415
+Perspetivas	15477,415,2887,14
+Perspetivas da População Mundial da Divisão de População	18779
 Persson B	14666
 Persson LÅ	10881
 Persuading	12445
@@ -1717,6 +1723,7 @@ Policy. Personal Data	12419
 Politically Exposed Persons	17183
 Politique Nationale des Personnes Handicapées	13442
 Politiques Réseau des Centres des Personnes Handicapées	13442
+Poluentes Orgânicos Persistentes	18760
 Popular Administrative Unit PLWD Person Living	15244
 Population of Persons	11935
 Portable Document Format PII Personally Identifiable	34
@@ -1780,7 +1787,8 @@ Protection of Elderly Persons Act	14742,1
 Protection of Elderly Persons' Act	14742
 Protection of Persona	15901
 Protection of Personal	1939,15078
-Protection of Personal Data	1243,643,5,18,1416,303,1,232,24,870,240,2457,3319,51,4696,123,260,226
+Protection of Personal Data	1243,643,5,18,1416,303,1,232,24,870,240,2457,3319,51,4696,123,260,226,2650,19
+Protection of Personal Data ATM	18770
 Protection of Personal Data Law	3325,12086
 Protection of Personal Data and Access	1906
 Protection of Personal Data and Privacy	9969,2450,2730

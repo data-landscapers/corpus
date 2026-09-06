@@ -42,7 +42,7 @@ Dependability	8021
 DependabilityThe	7278
 Dependabot	11922
 Dependants and Foreign Spouses Act	12984
-Depende	1701,9054,2086
+Depende	1701,9054,2086,6007
 Dependence	1777,682,2069,1149,800,1071,799,772,1602,1791,2306,129,643,1385,182,1330
 Dependenceonshort-termproject	15164
 Dependencia	1701
@@ -63,7 +63,7 @@ Dependerá	1701
 Dependerán	16859
 Depending	21,1222,144,260,57,74,29,60,121,690,902,1096,570,1421,298,287,82,377,40,676,686,10,114,482,1002,108,151,156,12,128,3,357,273,323,187,81,537,5,228,40,21,56,544,634,279,77,72,15,156,149,59,39,62,1370,1,8,15,59,1,69,747,558,69
 Depends	15471
-Dependência	10777,4758,149
+Dependência	10777,4758,149,3079,18
 Dependência Primária de Tecnologias	10777
 Dependência de IA	2816
 Depenses	17972
@@ -103,6 +103,7 @@ RATIONS DE DEPENSES DU BUDGET GENERAL	16047
 RECETTES BUDGETAIRES TOTAL DEPENSES BUDGETAIRES	15999
 Radio Frequency Spectrum Dependent Individual License	762
 Radio and Television. Depending	12982
+Razão de Dependência	18768
 Reducing Dependence	14818
 Reducing the Continent's Dependence	4103
 Resource Dependence and Fiscal Effort	1828

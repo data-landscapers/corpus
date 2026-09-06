@@ -91,6 +91,7 @@ DE LA FEMME Article	15405
 DE L’INTEGRATION DE LA FEMME AU	15780,68
 DEP Collection Sub-indicators Female	11905
 DES DROITS DE LA FEMME	15780
+DES FEMMES DANS LES DISTRICTS	18757
 DES JEUNES ET DES FEMMES	13630
 DES QUESTIONNAIRES SUPPLÉMENTAIRES. FEMME	13300
 DHA Gender-based Violence and Femicide Plan	11986
@@ -200,7 +201,7 @@ FEMoUS	14124
 FemCode Africa	16942
 FemDataSummit	8713
 FemTech	2239
-Female	582,207,151,18,196,713,226,404,215,892,187,71,130,661,35,34,1857,254,95,19,505,311,106,8,9,244,716,935,855,132,12,32,17,41,70,24,12,28,79,97,12,203,130,28,7,295,19,7,1,20,3,13,6,40,1,6,17,6,12,145,24,24,21,8,18,5,16,61,8,10,33,4,17,9,2,2,18,9,20,33,162,322,355,14,12,34,69,137,322,88,658,79,33,37,17,4,15,71,58,27,16,8,25,29,45,6,108,167,13,36,93,48,3,13,41,3,2,62,120,124,44,19,47,65,43,73,6,170,178,24,214,24,20,6,19,1,13,15,1,20,23,2,4,79,17,3,17,11,22,86,13,4,33,593,26,54,4,171,160,57,5,4,78,4,2,91
+Female	582,207,151,18,196,713,226,404,215,892,187,71,130,661,35,34,1857,254,95,19,505,311,106,8,9,244,716,935,855,132,12,32,17,41,70,24,12,28,79,97,12,203,130,28,7,295,19,7,1,20,3,13,6,40,1,6,17,6,12,145,24,24,21,8,18,5,16,61,8,10,33,4,17,9,2,2,18,9,20,33,162,322,355,14,12,34,69,137,322,88,658,79,33,37,17,4,15,71,58,27,16,8,25,29,45,6,108,167,13,36,93,48,3,13,41,3,2,62,120,124,44,19,47,65,43,73,6,170,178,24,214,24,20,6,19,1,13,15,1,20,23,2,4,79,17,3,17,11,22,86,13,4,33,593,26,54,4,171,160,57,5,4,78,4,2,91,220,55,8
 Female Across	12409
 Female Address	17099,15
 Female Agripreneurs	5923,191,295,107,247,33,469
@@ -324,7 +325,9 @@ Femi Odugbemi	6036
 Femi Oladele	11942
 Femi-Adejobi	10284
 Feminina	11418
-Feminino	11460,97,3835
+Feminino	11460,97,3835,3370,40
+Feminino Masculino	18781
+Feminino Total Masculino Feminino Total Masculino	18802
 Femininos Magistério Primário Núcleos de Apoio	10766
 Feminism	226
 Feminist	7790,923,548
@@ -383,7 +386,7 @@ Femme de CEDEAO Sécurité Sanitaire	17845
 Femme. Cette	16607
 Femme. Considérant	15885
 Femme. Le Chargé	15885
-Femmes	3549,1832,3510,919,1016,21,128,2315,10,90,240,533,262,145,886,44,99,121,188,22,69,13,466,1339,53,144,18,68,154,32,26
+Femmes	3549,1832,3510,919,1016,21,128,2315,10,90,240,533,262,145,886,44,99,121,188,22,69,13,466,1339,53,144,18,68,154,32,26,445
 Femmes Adulte	13390
 Femmes CEP Cellule	18286
 Femmes Clôture	9810
@@ -443,6 +446,7 @@ Gender-based Violence and Femicide	5533,6453
 Gender-based Violence and Femicide Plan	5533,6453
 Genre Femme	16249
 Ghana Female	11004
+Grande Cantagalo Masculino Feminino Total Masculino	18802
 Graphique Femme Homme	13300
 HAUTS-BASSINS HOUET Femmes	10847
 HOMMES ET FEMMES Prévalence du VIH	13300
@@ -456,7 +460,7 @@ Hom Femm S	13390
 Homens Participação Participação Feminina Masculina	17147
 Homm Femm TOT	13390
 Homm Femm TOT Homm Femm TOT	13390
-Homme Femme	737,12563,90,52
+Homme Femme	737,12563,90,52,5360
 Homme Femme Adulte Mixte Jeune Adulte	13390
 Homme Femme Crédits	13390
 Homme Femme Ecocash Nombre	13390
@@ -522,6 +526,7 @@ KOMPIENGA Femmes	10847
 KOULPELOGO Femmes	10847
 KOURITTENGA Femmes	10847
 KOURWEOGO Femmes	10847
+Km2 Les Femmes	18757
 LA FEMME Contrôle	13300
 LA FEMME ET DE LA PROTECTION	18100
 LA FEMME FEMME SÉLECTIONNÉE POUR	13300
@@ -616,6 +621,7 @@ Masculino Femenino Nacidos Vivos Muertes Fetales	16962
 Masculino Femenino Porcentaje	16920
 Masculino Femenino Sin	16962
 Masculino Feminino	10777
+Masculino Feminino Total Masculino Feminino	18802
 Masculino Feminino Total Total Masculino Feminino	10777
 Mastercard Hommes Femmes Total Jeunes	13390
 Menage Hom Femm Homm Femm Hom	13390
@@ -830,6 +836,7 @@ Urban Rural Male Female Usage	582
 Use Only Female	17000,96
 V N Masculino Femenino Masculino Femenino	16864
 VIH Femme Homme	13300
+VISITANTE Masculino Feminino Total Masculino Feminino	18802
 VIT AVEC UNE FEMME	13300
 VS201505CNIS QUESTIONNAIRE FEMME RÉPUBLIQUE DU BURUNDI	13300
 Violence FGM Female Genital Mutilation FM	11560

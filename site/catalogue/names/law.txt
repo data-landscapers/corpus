@@ -122,6 +122,7 @@ Banking Law and Licensing Regulation	14997
 Basic Education Law of Guinea-Bissau	11552
 Basic Education Laws SAHRC Summit Report	10729
 Basic Law	10768,7,1
+Basic Law of Telecommunications	18777
 Basic Pension Law	16902
 Basis Law	10775
 Belief Rule of Law	10835,3,130,902,16,466,1,135
@@ -235,6 +236,7 @@ Cina Lawson. Présentée	5705
 Citizenship Law	14465
 Citizenship Law Angola. RSCAS	10765,10
 Civil Birth Registration Simplification Law	10775
+Civil Identification Law	18777
 Civil Law Court	16840,103
 Civil Law Courts	16851
 Civil Procedure Law	16943,353
@@ -273,9 +275,10 @@ Company Law SAPS South African Police	11250
 Competent Court of Law	16830
 Competent Court of Law. Article	14867
 Competition Law Code of Conduct	3513
-Competition and Antitrust Laws	16972
+Competition and Antitrust Laws	16972,1825
 Competition and Antitrust Laws All	14008
 Competition and Antitrust Laws Equatorial Guinea	16972
+Competition and Antitrust Laws The Directorate of Regulation	18797
 Compliance Laws and Regulations	11250
 Comprehensive Data Protection Law	12675
 Comput Law Secur Rev	5242
@@ -367,6 +370,7 @@ Data Protection and Privacy Law	14921,113,2204,92
 Data Protection and Privacy Law Insights	17330
 Data Protection and Privacy Law N	12419
 Data Protection and Privacy Law Nº	14921
+Data Protection and Privacy Laws	18796
 Data Protection and Privacy Laws of Liberia. Section	16983
 Data Security Law	8277,2073
 Data Sovereignty Laws Are Changing	6266
@@ -546,19 +550,20 @@ Finance GIMPA Law School Dept. Faculty	10123
 Finance Law	3579,2080,634,476,655,3561,878,44,1961,1890,151,70,1015,592,420,364
 Finance Law No	11900
 Financial Institutional Law	10779
-Financial Institutions Law	10779,357,3743
+Financial Institutions Law	10779,357,3743,3944
 Financial and Accounting Procedures Law	14865
 Financing Law BCPFS	16032
 Fintech Law	15713,499
 Fiscal Autonomy Law	16943
 Fisheries and Aquaculture Management Law	17114
 Following the Electricity Decree Law	15983
+Foreign Exchange Law	18797
 Foreign Investment Law No	14891
 Foreigners Law	11900
 Forest Law Enforcement	16843,176
 Forest Law Enforcement Governance and Trade	17019
 Fourth Associate Justice Law Clerk Bailiff	16943
-Framework Law	17503,467,148
+Framework Law	17503,467,148,679
 Fransiscus Nanga Roka Faculty of Law University	11692
 Free Zone Law	13624
 Freedom of Information Law	15411
@@ -682,7 +687,7 @@ International Law Integration and Treaty Compliance	3861
 International Law Studies	4676
 International Lawyers Assisting Workers Network	8764
 International Review of Law	9616
-International Trade Law	8796,1922,101,2563,1370,377,1706,50
+International Trade Law	8796,1922,101,2563,1370,377,1706,50,1912
 International Trade Law United Nations Conference	15480
 International Trade Law. Intellectual	13357
 International and Comparative Law Quarterly	3782
@@ -759,7 +764,7 @@ LAwasnotpositionedpurelyasatech-	8602
 LEGAL TECH MEETING AFRICA LAW ACCES	10996
 LIBERIAN CODE OF LAWS	16832
 LRC Law Reform Commission M&E Monitoring	18477
-Labor Law	3058,13154
+Labor Law	3058,13154,2585
 Labor Law Launch	2989
 Labour Code and Electronic Transactions Law	12161
 Labour Law	12101,193,4549
@@ -771,6 +776,7 @@ Lagos State Electricity Law	17571,89
 Land Law No	16570
 Land Law Regulations	12137
 Land Law and Regulations	12137
+Land Reform Law	18797
 Land Rights Law	17260
 Land Settlement and Registration Law	16916
 Land-Act-2009.pdf LAWS OF SOUTHERN SUDAN	18593
@@ -788,6 +794,8 @@ Law CHAPITRE PREMIER	14870
 Law CHAPITRE V	14870
 Law Commission	13040
 Law Day	17618
+Law Decree	18787
+Law Decree No	18787
 Law Definitions Authority Registration Data	12468
 Law Development Commission of Zimbabwe	13286,1,1,8,1,18,2
 Law El Nasser	15473
@@ -1004,7 +1012,7 @@ Laws and Impact Assessments	10721
 Laws and Legislations of Land Administration	16916
 Laws and Marquette	11006
 Laws and Policies	11905,1034,3040,2632
-Laws and Regulations	11995,1190,823,939,2025,127,1112,391
+Laws and Regulations	11995,1190,823,939,2025,127,1112,391,195
 Laws and Regulations Laws	1263
 Laws and Regulations Liberian Constitution	17099
 Laws and Regulations. Business Continuity	11131
@@ -1105,6 +1113,7 @@ Malawi Law Commission	13040
 Management Law	17260
 Management System LSK Law Society of Kenya	6946
 Marginalization. NYU Rev Law Soc Chang	5242
+Maritime Law	18857
 Massi Lawson	8066
 Master of Law	12951
 Meaningful Consultation ESS and Requirements National Laws	1988
@@ -1147,6 +1156,7 @@ Model Law. Despite	5363
 Model Laws	962,281
 Modernising and Enforcing Data Protection Law	6936
 Modernize and Simplify Tax Laws and Rules	17011
+Monetary Law	18797
 Monsieur Agblulu Latevi Massi LAWSON Adjoint	10237
 Monsieur Olagoké Arouna LAWANI Membre	16485
 Moore's Law	10846
@@ -1154,6 +1164,7 @@ Moore’s Law	9968
 Morocco's Finance Law	3113
 Mortgage Law	15473
 Mortgage Law No	15473
+Movable Securities Law	18825
 Move Beyond Laws	5910,491
 Mozambican Copyright and Related Rights Law	12161
 Mozambican Interoperability Law	12161
@@ -1222,6 +1233,7 @@ Nigeria’s Existing Data Protection Law Does	7173
 Non-retroactivity of Criminal Law	13948
 Northwest Univ Law Rev	5242
 Northwestern University Law Review	17780
+Notary Law	18797
 Nuclear Energy Policy and Law	14947
 OBOHA LAWOLA	15901
 OFFICES CONFERENCE. The Ministry of Law and Justice	12744
@@ -1284,7 +1296,7 @@ Penal Law of Liberia	16833
 Pension Law	14997
 Pension Laws	15031
 Personal Data Guarantee and Protection Law	1387
-Personal Data Protection Law	16,3612,1354,481,3936,705,5380,230,88,410,2158
+Personal Data Protection Law	16,3612,1354,481,3936,705,5380,230,88,410,2158,407
 Personal Data Protection Law No	16972
 Personal Data Protection Law Num	16942
 Personal Data Protection Law. INTRODUCTION Data	12419
@@ -1321,7 +1333,7 @@ Private Ownership and Establishment Law No	16972
 Private Sector The Private Review Law	14997
 Procedural Law	26
 Procedural Law Assistance	26
-Procurement Law	10829
+Procurement Law	10829,7996
 Procurement Law. Emergency	10829
 Professor Lawrence Muganga of Victoria University	4795
 Professor of Comparative Criminal Law	10270
@@ -1359,6 +1371,7 @@ Public Law	1234,3013,55,6411
 Public Law Conference	432
 Public Perception of Anti-Corruption Rule of Law	11889,274,178
 Public Private Partnership Law	14947
+Public Procurement Law	18823,2
 Public Services for Women Laws	10759,78,1315,188
 Public Utilities Authority Law	16835
 Publish New Cybersecurity Law Amid Rising	6845
@@ -1545,12 +1558,14 @@ Score Rank Laws	10837,1315
 Second Associate Justice Law Clerk Bailiff	16943
 Secrétaire Général du Gouvernement M. Mahamane Lawali	18216
 Section Five of Law No	15909
+Secured Transactions Law and Regulation	18792
 Security Under the Electronic Transactions Law	12294
 Security and Rule of Law	16935
 Selon Massi Lawson	8066
 Senegal Constitutional Council Blocks Parliamentary Law	5163
 Senegal's Startup Law Advances	2333
 Senior Associate Justice Law Clerk Bailiff	16943
+Senior Rule of Law Advisor	18868
 Senocean Law	7003
 Sensitive Data Data Retention and Lawful	1243
 Services. American University International Law Review	1243
@@ -1562,7 +1577,7 @@ Single Digital Identification Law	5399
 Slowing Deterioration. Rule of Law	11888
 Social Law	15901
 Social Orientation Law No	18370
-Social Protection Law	2508,14434,54
+Social Protection Law	2508,14434,54,1813
 Social Solidarity Law No	16902
 Soft Law	2816,13396
 Somali Anti-Terrorism Law	15007
@@ -1639,6 +1654,7 @@ Telecommunications Law No	16972
 Telecommunications Regulation Law	16212
 Telecoms Law	15697
 Telecoms Law.37 Today	13331
+Temporary Law	18797,26
 Territorial Planning Law	12779
 Tex Law Rev	5242
 TheCriminal Law	972
@@ -1670,9 +1686,11 @@ UN Joint Rule of Law Programme II	15231
 UN Liberia Rule of Law Programme	16890
 UN Model Law	10718
 UNCITRAL Model Law	1163,12822
+UNCITRAL Model Law. Created	18797
 UNCITRAL's Model Law	14752
 UNCITRAL’s Model Law	11550
 UNMISS's Rule of Law Advisory Section	18714
+UNODC Programme Office and Senior Rule of Law	18873
 UPIN and Law	1399
 UPSA Law School	8697
 UPSA Law School Roundtable	8697
@@ -1712,6 +1730,7 @@ Urban Planning Law No	15473
 V Laws	16837
 VAT Law	15184
 Vietnam’s Landmark Law	8629
+Voluntary Arbitration Law	18797
 Voter Database. Law	15393
 Voter Identification and Registration Law No	11864
 Voter Registration Law	12845

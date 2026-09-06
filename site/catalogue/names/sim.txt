@@ -28,6 +28,7 @@ Africa. SIM3	10689
 Africa. Similar	6085
 Africa. Simultaneously	4448
 African SIM	3801
+Agressão Psicológica Sim	18762
 Agritech and Biotech Similarly	14566
 Akani Simbine	2626
 All SIM	1910
@@ -96,6 +97,7 @@ COMESA Clearing House Bank Al-Maghrib SIMT	6938
 COMESA Simplified Trade Regime	13053
 CONTRIBUINTE PARA PAGAMENTO SIMPLICADO NO KONTAKTU	11532
 CSA. Similarly	13965
+Cafés de Similiares	18757
 Cairo. Similarly	15473
 Cameroonian SIM	9616
 Canadá Sim Avançado Sim	2816
@@ -103,8 +105,15 @@ Capacity-Building Program Package and Simulation Materials	12008
 Capacity-Building Program and Simulation Workshops	12008
 Carte SIM	15710
 Cartes SIM	10869,5178
+Cartão SIM	18752
+Cartões SIM	18752,32
+Cartões SIM Capitulo I Disposições Gerais	18752
+Cartões SIM. Artigo	18752
+Cartões SIM. Considerando	18752
+Cartões SIM. Decreto	18752
 Case Study SIMO Mozambique Origin Story	12270
 Central African SIM ba	1930,1,1,1,1,1,1,1,72,2,1,1
+Central Bank Lara Simone Beirão	18823
 Centro de Simulação Médica	16019
 Certificate of Simple Prior Notification	8769
 Certified SIM3 Auditor Training	9470
@@ -203,6 +212,7 @@ Environmental Consultant Addis Bekele Simie	12195
 Environmental and Simultaneous	3604
 Epidemiology Simplified	9718
 Equal Access and Simplified Environment for Investment	15473
+Equipa de Simplificação de Serviços	18767,5
 Especially Women and Children. Similarly	16874
 Estados Unidos da América Sim Avançado Sim	2816
 Estonia Digital Simon Kemp	12441
@@ -366,6 +376,7 @@ M2M SIM	5771,957
 MACRA SIM-registration and RBM KYC	14674
 MATERIELS ELECTRODOMESTIQUES ET SIMILAIRES	16103
 MDAs. Similarly	9123
+MII Sim	18762
 MIROMIROKURI Jean Paul SIMBANANIYE Diomede MPOZENZI	13300
 MIX. Simbanet	12965
 MP Simon Moabi	12617
@@ -454,6 +465,7 @@ Number of Repeaters Number of Outstations Simplex Duplex	736
 Nyasha Simon	5529,1980
 O Projeto SIMple	15922
 O Similar	18457
+O Simple Network Time Protocol	18774
 ORIENTAÇÕES PARA PAGAMENTO SIMPLIFICADO DE CONSTRIBUIÇÕES	11532
 ORIENTAÇÕES PARA PAGAMENTO SIMPLIFICADO DE CONTRIBUIÇÕES	11532
 OS2.I2.P2 Simplification	17860
@@ -530,6 +542,7 @@ Provincial Minister Tertuis SimmersTel	11253
 Provincial Minister of Infrastructure Tertuis Simmers	11253
 PubMed Google Scholar Luca De Simeis	10784
 Public Prosecution Over Unauthorized SIM Registrations	11642
+Punição Física Sim	18762
 Purchasing Pre-registered SIMs	4439
 Quiosque Digital SPD7 SPD8 Sim EST-TEC7	15532
 RAM Random Access Memory SIM Card	34
@@ -538,6 +551,7 @@ RICA'd SIM	7505
 ROW Right of Way SIM Card Subscriber	11857
 RSF. Similar	15342
 RSI SAFER SCORE SIMR SIS Impact	14622
+Raparigas Rapazes Sim	18762
 Really Simple	12360
 Rector of SIMAD University	15043
 Refugee Identity Cards for SIM	12305
@@ -548,6 +562,7 @@ Registration of SIM	1401,8629
 Registration of SIM Cards	10822
 Registration of SIM Cards Regulation	10822
 Registration of Subscribers of SIM and UIM Cards	18452
+Regulamento Sobre Registo de Identificação de Cartões Sim	18752
 Regulation Governing SIM Card Registration	1840
 Regulatory Authority SIM Subscriber Identity Module	718
 Reino Unido Sim Avançado Sim	2816
@@ -623,6 +638,7 @@ SIM Waste	3003,962
 SIM Zamani	18204
 SIM Zamani Télécom	18204
 SIM ba	3064,473,459,649,11093
+SIM da CST	18791
 SIM de Muni	17029
 SIM-Card Registration	13313
 SIM-ID	1640,2799
@@ -732,8 +748,10 @@ SPD7 Sim EST-ADM5 Unidade de Missão	15532
 Sa Divinité Papa Simon Kimbangu Kiangani	6460
 Safaricom SIM	7265
 Saidi Sima	9014
+Satisfactory. Similarly	18809
 Select Operational Stress Traps Simulate	12882
 Sept-2025 SIM	3550
+Service Simplification Team	18767
 Servicios Similares	16855
 Serviço de Simplificação	15532
 Sh4.4m SIM-swap	7265
@@ -818,14 +836,14 @@ Similaire En	9993
 Similairement	15591
 Similaires	18317
 Similaires Dépêches Congo	16227
-Similar	10,305,258,9,317,320,24,409,172,844,221,671,44,522,24,289,124,20,211,242,38,247,73,1314,124,44,71,309,223,66,150,214,113,414,1,23,145,19,186,152,120,97,58,376,126,25,53,206,26,716,10,9,57,3,115,47,22,102,5,19,29,2,24,3,3,6,4,20,1,10,19,2,1,3,1,8,4,357,122,82,44,1,22,64,20,84,111,26,4,15,9,15,63,5,166,372,83,94,7,179,73,2,74,73,833,332,116,154,127,73,24,44,33,276,77,54,356,369,511,34,2,45,21,8,93,71,13,12,731,36,217,2,372,40,27,18
+Similar	10,305,258,9,317,320,24,409,172,844,221,671,44,522,24,289,124,20,211,242,38,247,73,1314,124,44,71,309,223,66,150,214,113,414,1,23,145,19,186,152,120,97,58,376,126,25,53,206,26,716,10,9,57,3,115,47,22,102,5,19,29,2,24,3,3,6,4,20,1,10,19,2,1,3,1,8,4,357,122,82,44,1,22,64,20,84,111,26,4,15,9,15,63,5,166,372,83,94,7,179,73,2,74,73,833,332,116,154,127,73,24,44,33,276,77,54,356,369,511,34,2,45,21,8,93,71,13,12,731,36,217,2,372,40,27,18,172
 Similar Agreements Across Africa	5163
 Similar Posts	11297
 Similar Signals	10954
 Similar The National Communications Authority	582
 Similar Transactions	7198
 Similar Universal	12214
-Similares	11445
+Similares	11445,7330
 Similares. Revoga	11445
 Similarities	10829
 Similarity	8606
@@ -834,7 +852,7 @@ Similarity-based	8605
 SimilarityBetweenTwoPatients Require	8606
 Similarityalgorithmsforfuzzyjoincomputationinbigdata	8606
 Similarityscoresareconvertedintodistances	8606
-Similarly	10,226,335,196,4,187,3,258,144,191,76,8,174,12,4,23,16,73,40,8,108,191,217,1,172,25,73,401,207,59,16,29,96,21,155,103,56,1,1,35,128,43,69,106,131,85,66,142,7,116,15,33,16,60,8,53,80,28,74,27,5,93,23,15,25,195,57,22,23,2,211,273,108,31,12,49,91,62,132,12,15,238,2,9,1,30,19,99,21,116,70,285,8,82,17,53,15,73,50,136,52,16,77,116,6,12,75,60,24,13,26,11,78,39,20,56,44,81,159,128,8,104,389,93,10,9,11,230,80,139,82,43,284,117,4,45,2,3,7,4,6,44,12,11,4,3,2,58,41,3,1,13,3,5,12,7,1,23,8,14,55,26,2,1,1,5,12,2,41,16,17,2,7,10,24,265,42,7,11,54,210,3,4,1,11,21,2,7,7,2,6,3,1,26,2,8,26,4,8,1,34,17,8,28,48,13,20,30,9,4,32,9,1,6,10,6,15,4,22,9,11,20,10,7,9,14,4,6,4,6,12,10,4,88,1,7,96,37,222,21,5,24,2,8,6,16,1,26,19,13,2,1,13,49,25,58,125,4,18,15,40,5,5,21,37,6,71,149,4,225,28,22,25,19,119,3,151,157,90,22,17,3,19,138,52,61,38,5,17,1,25,10,53,12,23,3,16,17,8,16,5,35,16,21,7,80,77,90,13,23,13,11,2,5,40,1,55,30,17,37,3,2,50,30,176,225,1,17,104,388,198,20,2,2,7,3,10,6,14,5,1,4,16,1,7,1,7,2,11,1,3,3,18,15,32,37,24,1,9,4,7,2,11,11,44,35,7,22,59,1,50,12,37,5,49,69,197,7,13,24,89,1,14,22,280,31,26,50,25,52,74,4,8,5,3,14,9,1,15,5,56
+Similarly	10,226,335,196,4,187,3,258,144,191,76,8,174,12,4,23,16,73,40,8,108,191,217,1,172,25,73,401,207,59,16,29,96,21,155,103,56,1,1,35,128,43,69,106,131,85,66,142,7,116,15,33,16,60,8,53,80,28,74,27,5,93,23,15,25,195,57,22,23,2,211,273,108,31,12,49,91,62,132,12,15,238,2,9,1,30,19,99,21,116,70,285,8,82,17,53,15,73,50,136,52,16,77,116,6,12,75,60,24,13,26,11,78,39,20,56,44,81,159,128,8,104,389,93,10,9,11,230,80,139,82,43,284,117,4,45,2,3,7,4,6,44,12,11,4,3,2,58,41,3,1,13,3,5,12,7,1,23,8,14,55,26,2,1,1,5,12,2,41,16,17,2,7,10,24,265,42,7,11,54,210,3,4,1,11,21,2,7,7,2,6,3,1,26,2,8,26,4,8,1,34,17,8,28,48,13,20,30,9,4,32,9,1,6,10,6,15,4,22,9,11,20,10,7,9,14,4,6,4,6,12,10,4,88,1,7,96,37,222,21,5,24,2,8,6,16,1,26,19,13,2,1,13,49,25,58,125,4,18,15,40,5,5,21,37,6,71,149,4,225,28,22,25,19,119,3,151,157,90,22,17,3,19,138,52,61,38,5,17,1,25,10,53,12,23,3,16,17,8,16,5,35,16,21,7,80,77,90,13,23,13,11,2,5,40,1,55,30,17,37,3,2,50,30,176,225,1,17,104,388,198,20,2,2,7,3,10,6,14,5,1,4,16,1,7,1,7,2,11,1,3,3,18,15,32,37,24,1,9,4,7,2,11,11,44,35,7,22,59,1,50,12,37,5,49,69,197,7,13,24,89,1,14,22,280,31,26,50,25,52,74,4,8,5,3,14,9,1,15,5,56,213,32,42
 Similarly Kongaut	15424
 Similarly PA8c	10779
 Similarly for Discover	13461
@@ -909,6 +927,7 @@ Simphiwe Mehlomakulu. Abraham	10735
 Simple	2948,2649,835,1116,3310,222,1206,1,2050,408,152,68,506,130,1266,18,17,141,1056,194,238,134
 Simple Agreement for Future Equity	2773,9603
 Simple Assault	16935
+Simple Authentication and Security Layer	18774
 Simple Date	15593
 Simple IPD	2477
 Simple Language High Contrast Large Text	9429
@@ -927,7 +946,7 @@ Simple Transfer Gets Complicated	7460
 Simpler	9123,5066
 Simpler And More Trusted	16402
 Simpler And More Trusted Renewing	16402
-Simples	4812,6046,4706
+Simples	4812,6046,4706,3271
 Simples Multigra Double- Total CP1 CP2	10847
 Simplex Channel	17250
 Simplex Channel Duplex Channel Annual Spectrum	17250
@@ -956,10 +975,10 @@ Simplification and Security of Acts	10937
 Simplification for SMCs	7972
 Simplification of Administrative Procedures	3375
 Simplification of Birth Registration	10765,10
-Simplificação	11379,82,108,449
+Simplificação	11379,82,108,449,6756,5
 Simplificação de Procedimentos	11379,66
 Simplificotion	15429
-Simplified	7020,770,3004,342,840,383,61,80,8,531,364,1326,90,261,398,40,1356,50,1259
+Simplified	7020,770,3004,342,840,383,61,80,8,531,364,1326,90,261,398,40,1356,50,1259,612
 Simplified Birth Registration System	6807
 Simplified Business Information	11423
 Simplified Business Licensing Processing	11939
@@ -1045,7 +1064,7 @@ Simultaneous Increase	6539
 Simultaneous Issuance of NRCs and Voter's Card Committee	12415
 Simultaneous PforR	11417
 Simultaneous Phase’s Proposed	6539
-Simultaneously	611,350,863,272,1302,89,304,307,485,664,546,930,69,760,1050,931,436,806,66,187,103,23,42,390,235,317,89,1963,258,275,22,28,45,800,95,12,487,54,1859,407
+Simultaneously	611,350,863,272,1302,89,304,307,485,664,546,930,69,760,1050,931,436,806,66,187,103,23,42,390,235,317,89,1963,258,275,22,28,45,800,95,12,487,54,1859,407,253,24
 Simultanéité	17828,14
 Simultanément	17896
 Simumba	13387
@@ -1079,6 +1098,7 @@ Sudan. Similar	10841
 Summarized and Simplified Version	12227
 Supplementary Service SDD Simplified Due Diligence	14897
 Sydney Simelane	12412
+São Tomé. Similarly	18777
 TBC Simultaneous PforR	3604
 TEC8 Sim EST-TEC25 Framework	15532
 TESORO PÚBLICO DISCOTECAS Y SIMILARES	4209
@@ -1126,6 +1146,7 @@ VIDEOS CLUBS Y SIMILARES CARPINTERIAS EN	4209
 VIP NEO S SIM	15471
 Vision Simandou	16731
 Vista Group Chairman Simon Tiemtoré	18507
+WFA No Fernando Simao Baptista Team	18809
 Watu Simu	10209
 Western Cape Minister of Infrastructure Tertuis Simmers	8564
 Western Cape Minister of Infrastructure Tertuis SimmersThe	11253

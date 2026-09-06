@@ -144,7 +144,7 @@ Inactifs	18204
 Inactivated Polio Vaccine	11401,7226
 Inactivated Polio Vaccine Integrated Specimen RefeITal	4153
 Inactivated Poliovirus Vaccine	11401
-Inactive	8436,6379,1799,397
+Inactive	8436,6379,1799,397,1743
 Inactive Employed Unemployed Inactive	10763
 Inactive NEET	11581
 Inactive Population Both Sexes	14815
@@ -176,6 +176,7 @@ Inadequate Incident Detection and Response Capabilities	5677
 Inadequate Limited	12241
 Inadequate Logistics and Infrastructure	15845
 Inadequate Monitoring and Evaluation	14546
+Inadequate Network Structure	18795
 Inadequate Objective	15845
 Inadequate R&D	14729
 Inadequate Resources	11289
@@ -198,6 +199,7 @@ Inaltérable	10387,7495
 Inama	1214,12089,20,1539,1,164,75,75
 Inama Ngenzuramikorere	1214
 Inama Nshikiranganji	13303,20
+Inamovibilidade Os	18800
 Inanda	13259
 Inani	11551,22
 Inani Ilayisha	11573

@@ -1146,7 +1146,7 @@ AI. Center for Strategic and International Studies	11135
 AI. China	5682,1108
 AI. Collect	15713
 AI. Complex AI	1814
-AI. Consequently	6952,7052,1709
+AI. Consequently	6952,7052,1709,3127
 AI. Constraint	8182
 AI. Context	3187
 AI. Cost	3734
@@ -1900,7 +1900,7 @@ Council National AI	12356
 Council of County AI Focal Point Intergovernme	7548
 Council of Europe’s AI Framework Convention. JCMS	17780
 Council of Ministers. A National AI Commission	6377
-Country Landscape AI	11483
+Country Landscape AI	11483,7357
 County AI	7548
 County AI Focal Point	7548
 County AI Focal Points	7548
@@ -2336,7 +2336,7 @@ Ethics Guidelines for Trustworthy AI	11156
 Ethics and Regulatory Framework AI Research	4528,7984
 Ethics and Responsible AI	3859
 Ethics and Responsible AI Mission Transform	4528
-Ethics of AI	1072,742,2312,608,2814,130,163,2096,1198,130,71,874,146,194,444,550,1022,1052,251,343
+Ethics of AI	1072,742,2312,608,2814,130,163,2096,1198,130,71,874,146,194,444,550,1022,1052,251,343,2628
 Ethics of AI Unit	14993
 Ethics of AI and OECD Principles. While the Charter	16212
 Ethiopia's AI	7092
@@ -2600,7 +2600,8 @@ Global AI Diffusion Report Q1	8126
 Global AI Divide	4734
 Global AI Economy Players and AI Intensity	1814
 Global AI Ethics and Governance Observatory Country	11483,1095
-Global AI Ethics and Governance Observatory URL	15680
+Global AI Ethics and Governance Observatory Search	18840
+Global AI Ethics and Governance Observatory URL	15680,3160
 Global AI Ethics and Governance Review	14566
 Global AI Governance	1814,6329,597,2205,6826,9
 Global AI Governance Dialogue	6933
@@ -2806,6 +2807,7 @@ I AI	11143
 I-I13-A2 AI	15713
 I-I13-A2 Promote AI	15713
 IA As A SERVICE AI	15583
+IBM Watson XPRIZE AI for Good	18776
 ICT Monitor AI	6832
 ICT and AI	12084,126,2141
 ICT and AI Infrastructure	15713
@@ -2842,6 +2844,7 @@ Identify AI	14674
 Igniting the National AI Mission	4528,7984,1031
 Imane Abdel Jelil AI	18039
 Impact of Generative AI	13461
+Impacto da AI	18796
 Impacts of AI	6948
 Imperative Successful AI	12512
 Implement AI	12210,465,3264
@@ -3335,6 +3338,7 @@ National AI Delivery Architecture	7548
 National AI Delivery Plan	7548
 National AI Digital Strategy	14555
 National AI Ethics	12512
+National AI Ethics Commission	18840
 National AI Ethics Committee	4528
 National AI Ethics Framework	13600,2
 National AI Fellows and PhD	4528
@@ -3396,7 +3400,7 @@ National AI Strategic Implementation Plan	11230
 National AI Strategic and AI Delivery Unit	14674
 National AI Strategies	1814,5774,3547,1075,4002
 National AI Strategies. AI	11135
-National AI Strategy	2557,129,85,483,29,83,190,19,29,130,26,349,17,402,445,254,159,25,188,102,92,139,2,12,95,164,28,144,3,62,141,20,189,755,1,462,78,152,92,31,55,612,174,12,335,306,215,138,36,55,834,3,301,339,144,288,31,115,156,568,15,18,330,189,31,677,225,1,108,1039,156,67,110,85,71,10,43,33,2071,215
+National AI Strategy	2557,129,85,483,29,83,190,19,29,130,26,349,17,402,445,254,159,25,188,102,92,139,2,12,95,164,28,144,3,62,141,20,189,755,1,462,78,152,92,31,55,612,174,12,335,306,215,138,36,55,834,3,301,339,144,288,31,115,156,568,15,18,330,189,31,677,225,1,108,1039,156,67,110,85,71,10,43,33,2071,215,266
 National AI Strategy Committee	9511
 National AI Strategy Date	6440
 National AI Strategy Ecosystem Category	4528
@@ -3514,6 +3518,7 @@ No. AI	12210
 No. of AI	12210
 Noah Intelligence AI	6852
 Non-Citizen Card the AI	17537
+Non-diverse AI	18796
 Normative Foundation Egypt’s AI Governance	16212
 Nouakchott AI Build	18039
 Nouakchott AI Build. Stanford University	18039
@@ -3775,6 +3780,7 @@ Regional AI Strategy	8995,187,9523
 Regional AI Technologies Fund	6937,11752
 Regional Policy Context for AI	1814
 Registry. The African Union AI Strategy	9937
+Regulamentação de AI	18796
 Regulating AI	11028
 Regulating AI and Big Data	11028
 Regulation of AI	7548
@@ -4451,3 +4457,4 @@ Zimbabwe’s AI Readiness Zimbabwe’s National AI	4528
 Zimbabwe’s AI Strategy Elevating AI	4528
 Zimbabwe’s AI and Cyber Conference	7780
 Zimbabwe’s National AI Strategy	4528,1766,499,6856
+Zzapp Malaria AI	18776

@@ -64,6 +64,7 @@ Akon City	8943
 Alamein City	10448,5556,476
 Alaro City	3006,6863,636
 Albania’s Citizen Centric Service Delivery	15518
+Alerts for U.S. Citizens	18842,37
 All CIT	12500
 Allexer Namundjembo The City of Windhoek	8676
 Amend the Filed CIT	12676
@@ -101,6 +102,7 @@ Bank of America Europe DAC and Citibank N.A	7198
 Based Black Economic Empowerment CBM Citizen-based	11224
 Bata City Council	17101
 Benefits Functionalities Cities Resources Documentation Case	12211
+Bengaluru. The National Citizen Portal	18857
 Benguela City of Lobito	11366
 Benin City	4130,4458
 Benin City Cotonou	16044
@@ -783,7 +785,7 @@ CitizenExperience Management	12359
 CitizenLab	9201
 CitizenTVKe	6133
 Citizenry	4528,7984,4431
-Citizens	395,360,203,42,780,313,289,207,633,43,113,115,102,15,5,246,37,59,12,158,79,39,27,14,277,189,103,259,130,105,50,49,46,102,504,112,100,31,28,16,65,65,81,38,67,90,143,268,267,138,48,157,72,127,61,181,179,278,10,67,17,164,8,378,91,75,78,52,44,34,183,46,103,84,124,70,113,7,57,80,54,21,53,50,185,3,1,42,167,23,35,22,12,355,30,216,1,9,33,9,33,1,98,114,1,52,10,21,30,29,14,12,5,21,1,13,80,222,296,35,8,47,54,193,5,1,31,39,4,30,55,134,42,31,311,88,158,40,14,49,101,214,32,39,3,12,1,10,9,118,56,30,54,15,174,104,150,78,13,126,166,892,121,14,12,1,17,14,8,15,10,21,5,8,42,114,237,15,50,178,99,551,180,25,3,192
+Citizens	395,360,203,42,780,313,289,207,633,43,113,115,102,15,5,246,37,59,12,158,79,39,27,14,277,189,103,259,130,105,50,49,46,102,504,112,100,31,28,16,65,65,81,38,67,90,143,268,267,138,48,157,72,127,61,181,179,278,10,67,17,164,8,378,91,75,78,52,44,34,183,46,103,84,124,70,113,7,57,80,54,21,53,50,185,3,1,42,167,23,35,22,12,355,30,216,1,9,33,9,33,1,98,114,1,52,10,21,30,29,14,12,5,21,1,13,80,222,296,35,8,47,54,193,5,1,31,39,4,30,55,134,42,31,311,88,158,40,14,49,101,214,32,39,3,12,1,10,9,118,56,30,54,15,174,104,150,78,13,126,166,892,121,14,12,1,17,14,8,15,10,21,5,8,42,114,237,15,50,178,99,551,180,25,3,192,199
 Citizens Access	17037
 Citizens Advice Bureau	11648
 Citizens Advice Bureaus	14742
@@ -853,6 +855,7 @@ Citizenship and Travel Documents	11986
 Citizenship of Zambia	13498
 Citizenship of Zambia Act	13307,191
 Citizenship of Zambia Regulations	13498
+Citizenship-by-Investment Program	18823
 Citizenship. Plus	18606
 Citizens’ Assembly Guidelines Revised Citizens’ Assembly	15208
 Citizens’ Assembly Guidelines Revised URL	15208
@@ -1030,6 +1033,7 @@ Connect Citizens	3306
 Construction Citoyenne	17856,430
 Construction of Citron Donis	14830
 Contractor CITCC	1150
+Convenção CITES	18763
 Cooperation Framework CoK City of Kigali DP	14935
 Core EP3 XML HTML Citation Export	10878
 Cosmas Data Cities	3937
@@ -1061,6 +1065,7 @@ DONE IN THE CITY OF PAYNESVILLE	10407
 DPI. Cites Aadhaar	5700
 Daniel Kisito Kouawo. Citation	18265
 Danielle Keats Citron and Daniel J	5113
+Data Access Citation	18838
 Data City	3937
 Day Three. Nairobi City County Recognises	11033
 Dear Citizens	14729
@@ -1079,6 +1084,7 @@ Developing City	16885
 Development Link That Citizens Can	12456
 Development of Smart Cities Applications	16885
 Diaspora Citizens EAC Citizens	12164
+Die Citizenship and Investment Unit	18815
 Diem Co and Salt Rock City	5621
 Digital Citizen Engagement	10785,1082
 Digital Citizen Engagement Index	10785,1082,2117
@@ -1104,6 +1110,7 @@ Digital Media City Project	10667
 Digital Response Connecting Citizens	641
 Digital Rights and Citizens’ Privacy Protection	14772
 Digital Rights and Citizens’ Privacy Protection Honourable	14748
+Digital. Citam-se	18767
 Diotali Citoyen. L’entreprise	8229
 Director General of Immigration and Citizenship	5045
 Directorate of Citizenship and Immigration Control	3005,3430,58,1581,2748,3558
@@ -1227,6 +1234,7 @@ Good Governance and Citizens’ Rights Priority Area	970
 Good Governance and Citizen’s Rights Specific Objective	970
 Gov Platform for Citizen Feedback I-31	10785
 GovTech and Citizen Engagement Project World Bank	157
+Governação Digital. Citam-se	18772
 Governement To Citizen	17824
 Government Press and Nairobi City County	3983
 Government Services Bus and Citizen Support Services	11640
@@ -1508,6 +1516,7 @@ Namibian Citizenship	12373
 Nasr City	16266
 National Citizen Database	12917
 National Citizen Identity Card for Civil Identification	10775
+National Citizen Portal	18857
 National Citizens Identification Cards	17207
 National Citizenship and Tax Education Plan	10762
 National Day Celebrations Municipality City Council	14746
@@ -1819,6 +1828,9 @@ Transitional Arrangements. PART I PRELIMINARY Citation	12929
 Translucent Window Applicable for Senior Citizen THIRD	14740
 Transportation Kenema City Waste Management Economy	18476
 Tunísia. Cita	2690
+U.S. Citizens By U.S. Embassy	18842
+U.S. Citizens Emergency Assistance Local Emergency	18879
+U.S. Department of State’s Office of Overseas Citizens	18842,37
 U.S. and Dubai’s Internet City	3006
 UK Towns and Cities	12006
 UK Towns and Cities. Simmons	12006

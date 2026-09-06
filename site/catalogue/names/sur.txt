@@ -51,7 +51,7 @@ AXES STRATEGIQUES Sur	18100
 About Report Publications Economic Surveys	14585
 About the Survey	10718
 Abstract The Women's Empowerment and Nutrition Survey	17165,1405
-Abstract The World Bank Enterprise Survey	10862
+Abstract The World Bank Enterprise Survey	10862,7976
 Acacia Surgical	7167
 Account DHS Demographic and Health Survey DP	15515
 Accounting System CBS Case-based Surveillance NHISSA	396
@@ -341,6 +341,7 @@ Coordinated Portfolio Investment Survey DQAF Data	14777
 Coordination of Censuses and Surveys	14857
 Coping Mechanisms Survey	16902
 Corporations Survey PAGE	2775
+Corruption and Governance Survey	18797
 Cost of Payments Survey	10901
 Council of Land Surveyors	12511
 Country ICT Survey for Namibia. Sweden	12325
@@ -453,6 +454,8 @@ David Zeledon Farrand and Suri Pan	13624
 Day Survey	13016
 Death Surveillance and Response MR Measles-Rubella NAPHS	12729
 Deep Learning for Sentiment Analysis A Survey	11265
+Demand Side Financial Inclusion Survey	18770
+Demand-Side Survey	18847
 Demographic Health Survey	10812,1516,4598,25,45
 Demographic Health Surveys	10777
 Demographic and Health Survey	6946,2539,280,3158,41,361,58,298,440,21,752,1982,75,165,173,580,235,189,182,115
@@ -501,6 +504,8 @@ Domestic Economy Economic Survey	2775
 Domestic Macroeconomic Developments Financial Lending Survey	17317
 Domestic Pools Surpass External Flows	5913
 Domestic Violence Survivors	2445
+Dominican Republic and Suriname	18869
+Dominican Republic and Suriname Approved for SOFF Investment	18869
 Downsized Mass Surveillance	2117
 Drone Surveillance Unit	17105
 Déconce MSAHRN Survey CNAM	17845
@@ -563,6 +568,7 @@ Egypt Labor Market Survey	15604
 Egyptian Family Health Survey	15725
 Egyptian Survey Authority	15473
 Electricité ASC Avances Sur Consommation BAD	10975
+Electronic Government Survey	18767,5
 Electronic Integrated Disease Surveillance and Response	4202
 Electronic Surveillance Training	16971
 Emploi Sur	17844
@@ -576,19 +582,19 @@ Engagement REDISSE Regional Disease Surveillance Systems	11417
 Enquête Nationale Sur La Situation Nutritionnelle	13325
 Enquête Point Prévalence Survey	14622
 Enquête Régionale Intégrée Sur L’emploi ET	17945
-Enterprise Analysis Unit. The Enterprise Surveys	10862
+Enterprise Analysis Unit. The Enterprise Surveys	10862,7976
 Enterprise Opportunity Survey	6593
-Enterprise Survey	10862,4611,1403,1599,62
+Enterprise Survey	10862,4611,1403,1599,62,301
 Enterprise Survey WDI World Development Indicators	16996
 Enterprise Survey for Cabo Verde	11874
 Enterprise Survey for Congo	11881
 Enterprise Survey for Congo Democratic Republic. Business	11882
 Enterprise Survey for Sudan	14897
-Enterprise Surveys	1400,698,8764,114,898,7,1,464,3798
+Enterprise Surveys	1400,698,8764,114,898,7,1,464,3798,2694
 Enterprise Surveys Excluded Included SECTORS SECTORS	11874
-Enterprise Surveys Manual and Guide	10862
-Enterprise Surveys. All	10862
-Enterprise Surveys. Cooperatives	10862
+Enterprise Surveys Manual and Guide	10862,7976
+Enterprise Surveys. All	10862,7976
+Enterprise Surveys. Cooperatives	10862,7976
 Enterprise Surveys. Excluded	11881
 Environment GEOSPATIAL PRIORITIZATION SURVEY KEY FINDINGS	18476
 Environment Survey Statistics	16863
@@ -678,6 +684,7 @@ Financial Access Survey	10969,926,310,4737
 Financial Access Survey Data	15480
 Financial Application System. Surveillance System	11134
 Financial Corporations Survey	14777
+Financial Inclusion Survey	18770
 Financial Lending Survey	17317
 Financial Literacy Survey Results Report	10775
 Financial Scoping Survey	12409
@@ -713,6 +720,7 @@ GAINS DE DETENTATION SUR ACTIÉFINANCIER	15999
 GAINS OU PERTES NETS SUR ACTIFS	17841
 GAINS OU PERTES NETS SUR OPERATIONS	17841
 GBC Survivors	10829
+GBON Surface and Upper Air	18787
 GBV Survivors	10829
 GBV Survivors District	10829
 GENERAL SURGERY	14773
@@ -899,7 +907,13 @@ IMPOTS SUR LES BENEFICES	17841
 IMPOTS SUR LES BENEFICES ET REVENUS	16020
 IMPOTS SUR LES REVENUS	15999
 IMPOTS SUR LES REVENUS CHAPITRE	16047
+INDICATEURS SUR L' ENSEIGNEMENT	18757
+INDICATEURS SUR LA PECHE	18757
+INDICATEURS SUR LA PRODUCTION D	18757
+INDICATEURS SUR LA PRODUCTION D' EAU	18757
+INDICATEURS SUR LA SANTÉ	18757
 INDICATEURS SUR LES OBJECTIFS DE DÉVELOPPEMENT	13300,5012
+INDICATEURS SUR LES TURISTES	18757
 INE SurFviegyuorneE2x.p1e5nd	10763
 INE Survey	10763
 INEGE Household Survey Findings Report	16996
@@ -923,6 +937,7 @@ INTERETS SUR LES DEPÔTS A TERME	15999
 INTERETS SUR LES TITRES DE PLACEMENT	15999
 INTRODUCTION AND SURVEY METHODOLOGY	13454
 INVENTAIRE DES INITIATIVES EXISTANTES SUR	16621
+IOF Household Budget Survey	18777
 IP Surveillance	12253
 IP Surveillance System	12253,932
 IV. RESULTATS SUR LA QUALITE DES	15711
@@ -930,7 +945,7 @@ IV. SUR LA CONSTITUTIONNALITE DES ARTICLES	15439
 IV. SUR LA RECEVABILITE	16247
 IV. SUR LE FOND Considérant	15615
 IV. Sur	16177
-Identification Survey ID	10862,2222,675,1265,819,3,819,380,120,760,600,42,3,75,79
+Identification Survey ID	10862,2222,675,1265,819,3,819,380,120,760,600,42,3,75,79,114
 Ikoyi and Surulere	7256
 Il- TAXE D’INSPECTION SANITAIRE VETERINAIRE SUR	15999
 Il. SUR LA REGULARITE	15439
@@ -1184,7 +1199,7 @@ Mme Aissatou Abdoulaye Tondi. Sur	4813
 MoC Surfline Ghana Chamber of Telecommunication	236
 Mobile App Surveillance Problem	6212
 Mobile Money Ecosystem Survey	17870
-Monetary Survey	17209,48,60,9,177,406,81
+Monetary Survey	17209,48,60,9,177,406,81,833
 Monitoring Learning Achievement Survey	12175
 Monitoring Learning Achievement Survey MoE	12175
 Monitoring and Surveillance	13532
@@ -1416,6 +1431,7 @@ Protocols Control Surgery	15206
 Province of Bioko Sur. D. Combating	16958
 Provisionally Registered. Bachelor of Medicine and Surgery	13078
 Président du Conseil de Surveillance	7805,464
+Príncipe UN EGOV Survey Score	18767
 Public Digital Services Experience Survey	9478
 Public Digital Services Experience Survey Lesotho	9478
 Public Expenditure Tracking Survey	18494
@@ -1571,6 +1587,7 @@ STAKEHOLDER EXPERIENCE SURVEY	13186
 STANDALONE SURVEY PUBLICATION	4848
 STAR-UEMOA. Sur	10711
 STATISTIQUES GLOBALES SUR LES FORMALITÉS D’ENTREPRISES	16249
+STP 2025 WBES v01 M Title World Bank Enterprise Survey	18838
 STRENGTHEN AMR SURVEILLANCE	13252
 SUDAN MULTIDIMENSIONAL POVERTY SURVEY	15244
 SUDAN MULTIDIMENTIONAL POVERTY SURVEY	15244
@@ -1787,6 +1804,7 @@ Sudan Spain Sri Lanka Sudan Suriname	11470
 Sudan Welfare Monitoring Survey	15024
 Sudan X Suriname X Tajikistan X	11005
 Sudan. The World Bank Enterprise Surveys	14897
+Summary of Findings of Beneficiary Survey	18754
 Sur ATOM	16518
 Sur Bioko-Sur Annobón Masculino Femenino	16864
 Sur Bioko-Sur Annobón Nacional	16864
@@ -1821,7 +1839,7 @@ Surajkund Art and Craft Mela	16649
 Surajkund Arts	16237
 Surajkund International Craft Fair	17240
 Surajkund International Craft Mela	17240
-Surajkund International Crafts Mela	11579,1038,3639,21,964,775,204
+Surajkund International Crafts Mela	11579,1038,3639,21,964,775,204,590,47
 Surajkund Int’l Crafts Mela	18378
 Surajkund Mela	12617,362,5584
 Surajkund Mela Authority	16649
@@ -1834,6 +1852,7 @@ Surayo Buzurukova	15179
 Surbhi	8021
 Surcharge	7845,1209,3331,2820,519,604,201,2012
 Surcouts	15542
+Surdos	18811
 SurdécisionduConseil	15366
 Sure. Ed. Yeah. So	6985
 Sureffectif	15799
@@ -1850,7 +1869,8 @@ Sureties	13563
 Sureté	3396,14607
 Sureté Nationale	13725,1830,2304
 Surf WEEKLY 1000	718
-Surface	1005,983,7135,2430,850,972,10,398,705,1,1,537,102,77,349,160,59,778,348,35,12,59,5,103,42,1,1152
+Surface	1005,983,7135,2430,850,972,10,398,705,1,1,537,102,77,349,160,59,778,348,35,12,59,5,103,42,1,1152,478
+Surface AWS	18787
 Surface Area	18448
 Surface Description	17114
 Surface Geoscientific Exploration Survey Report	13054
@@ -1873,13 +1893,13 @@ Surfaces-based	18309
 Surfacturation	10278,5392
 Surfshark	8711,2095,2464
 Surfspot Communications Ltd	3862
-Surge	5794,3329,53,2093,4332,57
+Surge	5794,3329,53,2093,4332,57,3130
 Surge In Mobile Payments As Tunisia	5125
 Surge Protection Device	9123
 Surge Protection Device NFPA	9123
 Surge Protective Devices	9123
 Surge Suppression	9123
-Surgem	9176
+Surgem	9176,9591,5
 Surgeons of The Gambia	16922
 Surgery	8605,2175,6142,1081
 Surgery and Anesthesia	16922
@@ -1889,8 +1909,9 @@ Surgical	16900
 Surgical Infrastructure Assessment	16971
 Surgimiento	1701
 Surging Ahead	11140
+Surging Seas and Increasing Rains	18809
 Suriadi	9237
-Suriname	4292,2026,4467,824,1433,2429,2272,934
+Suriname	4292,2026,4467,824,1433,2429,2272,934,192
 Suriname AMS UMI	17743
 Suriname Global Cybersecurity Index	10764
 Suriname No Sweden Yes Digital Agenda	11529
@@ -1976,7 +1997,7 @@ Surveillance-f	4301
 Surveillant	15595
 Surveiller	7977,2998,957,1369,1124,112
 Surveillonce L'Autorilé	15429
-Survey	418,164,388,942,28,835,1310,763,382,12,5,1292,33,314,52,852,79,53,100,935,989,331,437,4,57,54,11,1,21,8,94,40,127,3,2,4,55,63,38,253,345,70,7,67,52,61,24,17,18,4,27,10,27,19,59,20,8,1,18,6,91,1,50,150,216,88,37,268,108,114,448,319,277,46,100,1,54,85,35,100,27,140,10,70,167,62,80,3,18,139,130,1,57,29,454,242,39,193,5,4,9,16,30,5,36,80,2,8,63,33,16,120,4,77,82,376,22,3,76,268,98,150,34,50,42,3,145,9
+Survey	418,164,388,942,28,835,1310,763,382,12,5,1292,33,314,52,852,79,53,100,935,989,331,437,4,57,54,11,1,21,8,94,40,127,3,2,4,55,63,38,253,345,70,7,67,52,61,24,17,18,4,27,10,27,19,59,20,8,1,18,6,91,1,50,150,216,88,37,268,108,114,448,319,277,46,100,1,54,85,35,100,27,140,10,70,167,62,80,3,18,139,130,1,57,29,454,242,39,193,5,4,9,16,30,5,36,80,2,8,63,33,16,120,4,77,82,376,22,3,76,268,98,150,34,50,42,3,145,9,101,13
 Survey 0.pdf	7548
 Survey 0.pdf SUMMARY OF ICT INDICATORS	6671
 Survey ASSL Audit Service Sierra Leone	18577
@@ -2001,6 +2022,7 @@ Survey Findings	2775
 Survey Fund the Mineral Survey Fund	6921
 Survey Government-E	17053
 Survey IC Intermediate Consumption ICOR Incremental	236
+Survey ICR Implementation Completion and Results Report	18765
 Survey ID	15620,1746
 Survey KNBS Kenya National Bureau of Statistics	12151
 Survey LULC Land Use Land Cover	17157
@@ -2172,6 +2194,7 @@ Telegram. Sur	10389
 Through the Evidence-Based FinScope Survey	418
 Time Use Survey	17116
 Timing Survey	10714
+Tourism Survey Methodological Design	18846
 Tout Savoir Sur	10907,4805
 Tracer Study Survey	6832
 Tracking Survey K06	15604
@@ -2189,7 +2212,8 @@ UN E Government Survey	11451
 UN E-GovErNmENt SUrvEy	10840
 UN E-Governement Survey Indice de Développement des TIC	16641
 UN E-Governement Survey Selon	16641
-UN E-Government Survey	1749,156,9664,3183,145
+UN E-Government Survey	1749,156,9664,3183,145,3870,5
+UN E-Government Survey World Bank Ease	18767
 UN E-government Survey	11569
 UN EGovernment Index Survey Report	15553
 UN Global Survey	16648
@@ -2218,7 +2242,7 @@ Uganda National Household Survey The Uganda	9024
 Understanding Surveillance Trends	2549
 Unemployment Survey and Census Conduct the Hotels Bureau	16863
 Unis. Sur	11014
-United Nations E-Government Survey	1912,8928,1493,1673,1405,1474
+United Nations E-Government Survey	1912,8928,1493,1673,1405,1474,1882,5
 United Nations E-Government Survey. Countries EDGI	10840
 United Nations E-Government Survey. Legend	10840
 United States Geological Survey	15129,156,1631,80,161
@@ -2279,6 +2303,7 @@ WAR Surgery Damage	15206
 WB Enterprise Surveys Benin	1400
 WELE-NZAS NTEM BIOKO SUR BIOKO NORTE	4209
 WELE-NZAS NTEM CENTRO SUR BIOKO SUR	4209
+WMO Hydrology Survey	18787
 War Surgery Protocols Radiology	15206
 Web-Based Survey	10919
 Web-Based Survey Data	10919
@@ -2292,10 +2317,10 @@ Wheat Rust Surveillance Information System	14002
 Witness Digital Surveillance Innovations	15158
 Women's Empowerment and Nutrition Survey	18570
 Women’s Civil Society Organizations Survey	17116
-World Bank Enterprise Survey	1828,13169,476,1523,874
+World Bank Enterprise Survey	1828,13169,476,1523,874,968
 World Bank Enterprise Survey Cameroon	15480
-World Bank Enterprise Survey Implementation Report	10862
-World Bank Enterprise Surveys	1400,9462,107,915,1,10,264,196,132,2993
+World Bank Enterprise Survey Implementation Report	10862,7976
+World Bank Enterprise Surveys	1400,9462,107,915,1,10,264,196,132,2993,3358
 World Bank Enterprise Surveys. Washington	11140
 World Bank Survey of Enterprises	1828
 World Bank. The Enterprise Surveys	10976,898,7,465

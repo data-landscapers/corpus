@@ -1,5 +1,6 @@
 A. Description of Activity B. Site Characteristics	17114
 A. POLITICAL SITUATION Sierra Leone	18455
+ADDITIONAL FINANCING Situations of Urgent Need of Assistance	18809
 ANALYSE DE LA SITUATION DU GENRE	18100
 ANALYSE DIAGNOSTIQUE DE LA SITUATION	15720
 ANALYSE SITUATIONNELLE	16195
@@ -54,10 +55,12 @@ CIV1 Site Tech Specs Raxio CIV1	10956
 CMIL Site	14537
 COMMENT ACCEDER AU SITE ETAX	16629
 CONFORMITE DES PLATEFORMES ET SITES MARCHANDS	13652
+COVID-19. Situação	18781
 CRM-SAIS.S1 Situation Awareness	10721
 CS Lydia Sitienei	6946
 CSIRT Security Operations Center and Recovery Site	15019
 CURRENT SITUATION	9399
+CURRENT SITUATION AND CHALLENGES	18795
 CURRENT SITUATION The SIS	15590
 Cabo Verde Consulta Situação Fiscal Detalhes	12018
 Cabo Verde. Situação	11855
@@ -72,6 +75,8 @@ Comité National de Pilotage des Site	15936
 Commercial Registry. Situates	2508
 Committee Stage. C. HUMAN RIGHTS SITUATION	18455
 Community Care Sites	11892
+Componente Especificação Situação Transferência	18774
+Componente Especificação Situação Transporte	18774
 Compétitivité des Industries de Côte Site	15936
 Conecte-Se Sites	12156
 Conflict-Affected Situations FY23	1264
@@ -92,9 +97,11 @@ Consumer Site	12256
 Contaminated Site Assessment	14774
 Contexte Située	17001
 Contexto Nacional Situação Económica	12787
+Correio Eletrónico Componente Especificação Situação Acesso	18774
 Council Cession Industial Site N	4896
 Cour des Comptes Site	15936
 Court Services Public Defenders Magistrate Sitting	16943
+Criptografia Componente Especificação Situação Algoritmo	18774
 Crisis Situation	12227
 Crown Business. Sithole	6832
 Current Situation	9399,8485,570
@@ -102,6 +109,7 @@ Current Situation and Challenges	15604
 Current Situation and Challenges Catalysed	15604
 Current Situation and Challenges Community	15604
 Current Situation and Challenges Egypt	15604
+Current Situation and Challenges PILLAR V GENERATION	18795
 Current Subsector Situation and Challenges	15604
 Current Subsector Situation and Challenges Access	15604
 Current Subsector Situation and Challenges Structure	15604
@@ -159,6 +167,7 @@ Equatorial Guinea. Link Situcka	16942
 Equatorial Guinea. Situation	10841
 Equipment for DR Site	12681
 Eritrea. Situation	14057
+Estados Unidos. BREVE CARACTERIZAÇÃO DA SITUAÇÃO	18796
 Etats Généraux. POINT DE SITUATION DES	15673
 Ethiopia Economic Situation Ethiopia	12500
 Ethiopia Humanitarian Situation Report No.10	12188
@@ -260,6 +269,7 @@ LoC for RSTP Disaster Recovery Site	688
 Location of Project and Description of Site	16776
 Loi SITA	15936
 M. Sitoe	2816
+MAIN Situations of Urgent Need of Assistance	18809
 MASO-ATHU Election Situation Room	12241
 MESR SIT	15580
 Macro-Economic Situation	14000
@@ -269,6 +279,7 @@ Malawi CRVS Systems Situational Analysis	13005
 Malawi's Situational Analysis. Unlocking	13209
 Mali. Située	16026
 Malkerns and Siteki	12962
+Man-made Disaster Other Situations	18809
 Managing Campement Site Taxes	14761
 Mapas Contas 1º Trim 2026 Site.xlsx	6191
 Mapas Contas 4º Trim 2025 Site.xlsx	5012
@@ -301,6 +312,7 @@ Nhlangano and Siteki	10033
 No. of Sites	12453,892
 Nokoué. Située	15852
 Notify the Site Engineer	1988
+Nuvem Componente Especificação Situação Serviços	18774
 O SITA	15526
 O8 DIRECTION ADMINISTRATIVE ET FINANCIERE SITUATION	15670
 OFFICERS AND SITTINGS OF PARLIAMENT S.O	18436
@@ -364,6 +376,7 @@ Rapport Sur la Situation	17945
 Rating I Location and Site Condition Subtitle	14778
 Rating Location and Site Condition	14778
 Reading the Strategy Against Itself Sitsofe Mensah	11827
+Redes Sem Fio Componente Especificação Situação	18774
 Redesigning SITA	3264
 Redundancy Site for Existing Datacenters	16144
 Regional COVID-19 Situation Report for West	17323,1
@@ -389,6 +402,8 @@ SIPL Actualiser le Site	17845
 SIT AKILLY	17828
 SIT Board	7252
 SIT Consulting	1805
+SIT-IVA	18825
+SIT-VAT	18825
 SITA Act	4845,688,5651,802
 SITA Act and Public Service Regulations	11184
 SITA General Regulations	11184
@@ -470,6 +485,7 @@ SITUATION IN BURUNDI Non-banks	13388
 SITUATION IN BURUNDI Only	13388
 SITUATION IN BURUNDI The NPS	13388
 SITUATION INTERNATIONALE ET REGIONALE EN SANTE	16195
+SITUATION MONETAIRE	18757
 SITUATION OVERVIEW	17985
 SITUATION PAR PAYS DE L'ACTIVITÉ DANS	4459
 SITUATION PAR PAYS DE L’ACTIVITÉ DANS	4459
@@ -487,6 +503,7 @@ SITUATIONS OF RISK AND HUMANITARIAN EMERGENCIES	16887
 SITUAÇÃO	2816
 SITUAÇÃO DO SISTEMA ESTATÍSTICO NACIONAL Tendo	11526
 SITUAÇÃO Governo	2816
+SITUAÇÃO MONETÁRIA	18757
 SITUAÇÃO PATRIMONIAL	11531
 SITUE AU CROISEMENT DES AVENUES DES	15970
 SOUTH AFRICAN POLICE SERVICE KJ SITOLE	11188
@@ -498,6 +515,7 @@ Score Adoption Situation	17157
 Secondary DR Site	14761
 Sector Education and Training Authority SITA State	11261
 Self-Care SOP Situational Analysis Validation	16971
+Serviços de Rede Componente Especificação Situação Diretório	18774
 Settings Sitemap	12339
 Sierra Leone. OPERATOR NO. OF SITES	18485
 Single Site	17823
@@ -606,7 +624,7 @@ Siteki	5121,1418,4592,1274,572,23,22,94
 Siteki Branch	12977
 Siteki School	12977
 Siteki. Together	13153
-Sitemap	13051,3192,354,1339
+Sitemap	13051,3192,354,1339,892
 Siteny Randrialasoloniaiko	17806
 Sites	718,1270,2272,2699,2040,124,1738,1534,113,1025,1548,395,161,75,287,2119,367
 Sites Internet Volonté	18291
@@ -639,6 +657,7 @@ Sitto	12926
 Situación	1701,15163,34,64
 Situación Geográfica de Guinea Ecuatorial	16969
 Situación de Personal	4209
+Situada	18788
 Situant	3719,12525
 Situata	8774
 Situated	1710,2212,11821,1514,1275
@@ -669,6 +688,7 @@ Situation Economique du Sénégal	18286
 Situation Energétique du Cameroun	15542
 Situation Eswatini	16631
 Situation Lesotho	16631
+Situation Monetaire	18757
 Situation Méthode	10876
 Situation Previously	16631
 Situation Recent	16631
@@ -696,12 +716,22 @@ Situational Analysis Sierra Leone	18531
 Situational Analysis Zambia	13347
 Situational Analysis and Theory of Change	18529
 Situational Assessment Report	12674
-Situations	6290,4858,2228,358,2313,2052
+Situations	6290,4858,2228,358,2313,2052,710
 Situations de Crise	17945
 Situations of Urgent Need of Assistance	10829,696,3665,1208,1800,95,332
-Situação	795,9962,20,746,3953,218
+Situação	795,9962,20,746,3953,218,3066
 Situação Atual	9289
+Situação Económica	18768
+Situação Económica Estimativas	18768
+Situação Geográfica	18757
+Situação Líquida	18793
+Situação Líquida da Empresa	18793
+Situação Monetária	18757
+Situação Socioeconómica	18768
+Situação Socioeconómica A República de São Tomé	18768
 Situação da Inclusão Financeira	2138
+Situação da TB	18768
+Situação da Tuberculose	18768
 Situação de Género	11406
 Situação de Vulnerabilidade	16022
 Situações	5169,10222,934,51,726
@@ -749,6 +779,7 @@ Timothy Sithole	2569,4257,683
 Tourism Sites	13479
 Tower Site Initiative	12299,815
 Transform Industrial Sites Hicham Zouaoui Revolutionizes	7324
+Transporte Componente Especificação Situação Transporte TCP	18774
 Travaux Site	15936
 Télécharger Site	13730
 UK Acknowledges Dire Situation Facing Congo	3245

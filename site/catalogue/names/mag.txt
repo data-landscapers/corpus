@@ -403,7 +403,7 @@ Magic FM	718
 Magisterial Courts	16943
 Magisterial Courts and Circuit Courts	16943
 Magistracy	12920
-Magistrado	539,3670,6538,621
+Magistrado	539,3670,6538,621,7405
 Magistrado Audiencia Provincial	4209
 Magistrado Audiencia Provincial Oficial Mayor	4209
 Magistrado Corte Suprema Justicia	4209
@@ -414,7 +414,7 @@ Magistrado Tribunal Constitucional	4209
 Magistrado Tribunal Constitucional Servicio	4209
 Magistrado Tribunal de Cuentas	4209
 Magistrado Tribunal de Cuentas Servicio	4209
-Magistrados	10752,6119
+Magistrados	10752,6119,1915
 Magistrados Judiciais	4435,2027,4285,814
 Magistrat	7670,651,7263,92,225,41,59,286,1530,10,14,20,121,21,336,73
 Magistrat. Garde des Sceaux	17841

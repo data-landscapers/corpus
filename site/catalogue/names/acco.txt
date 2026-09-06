@@ -182,7 +182,7 @@ Accouchement Graphique	18286
 Accouchements	13300,3422
 Accoucheuse	13300
 Accoucheuses AFGRAD	13377
-Account	940,280,64,544,39,1716,638,1466,1590,486,1360,43,1797,1,13,161,95,722,1,20,367,141,849,1213,182,57,82,54,1,101,107,34,34,201,861,616,13,228,39,92,3,1,37,45,1154
+Account	940,280,64,544,39,1716,638,1466,1590,486,1360,43,1797,1,13,161,95,722,1,20,367,141,849,1213,182,57,82,54,1,101,107,34,34,201,861,616,13,228,39,92,3,1,37,45,1154,309
 Account Aggregator	3391,4590
 Account Balance Account Employee Salary	12360
 Account Balance CBR Central Bank Rate	11271
@@ -237,7 +237,7 @@ Account-to-Account and Wallet-to-Wallet	8708
 Account-to-Wallet	8708
 Account-to-account	8432
 Accountabilities	12359,2680
-Accountability	27,762,183,259,102,297,466,268,185,227,182,903,667,235,462,19,105,107,29,48,41,91,249,140,333,55,350,2,38,104,119,167,326,418,317,346,94,24,1404,6,227,39,198,138,6,10,44,16,2,1,43,8,23,56,32,7,43,55,26,4,3,2,16,68,6,295,335,6,4,16,1,1,1,7,11,49,52,131,14,1,4,5,13,9,29,88,39,11,1,3,97,35,12,12,40,123,252,19,23,3,32,263,54,24,4,32,11,82,85,48,54,567,206,7,83,22,19,550,1,542,3,184,81,117,817,25,1,37,1,25,19,7,3,7,265,30,438,253,154,37,156,147,35,58,37,64
+Accountability	27,762,183,259,102,297,466,268,185,227,182,903,667,235,462,19,105,107,29,48,41,91,249,140,333,55,350,2,38,104,119,167,326,418,317,346,94,24,1404,6,227,39,198,138,6,10,44,16,2,1,43,8,23,56,32,7,43,55,26,4,3,2,16,68,6,295,335,6,4,16,1,1,1,7,11,49,52,131,14,1,4,5,13,9,29,88,39,11,1,3,97,35,12,12,40,123,252,19,23,3,32,263,54,24,4,32,11,82,85,48,54,567,206,7,83,22,19,550,1,542,3,184,81,117,817,25,1,37,1,25,19,7,3,7,265,30,438,253,154,37,156,147,35,58,37,64,192
 Accountability Accountability	4563,9961,1321
 Accountability Article	15027
 Accountability Assessment Central African Backbone Program	15372
@@ -316,6 +316,7 @@ Accountable Owner	16924
 Accountable Practices	18125
 Accountable Public Institutions	11469
 Accountable and Capable State Institutions	14935
+Accountancy Association	18825
 Accountant	11525,1445,7,355,2040,146,141
 Accountant Aboubakar Ousmane	10961
 Accountant General	2531,925,3735,247,37,1529,2218,247,784,479,1577,427,330,24,57,1,2068,1250,34,76
@@ -384,6 +385,9 @@ Accounting System BASA Banking Association of South	11261
 Accounting System CBS Case-based Surveillance NHISSA	396
 Accounting Treatment	7198
 Accounting and Audit	6998
+Accounting and Auditing	18825
+Accounting and Auditing ROSC Report	18825
+Accounting and Auditing Standards. Table	18825
 Accounting and Budgeting Division	14744
 Accounting and Business	8029
 Accounting and FM IFR. RAPID-CI PCU	3604
@@ -607,6 +611,7 @@ Chart of Accounts Design	15090
 Chartered Accountant	4896,6235,3,1817,2046,3546
 Chartered Accountant Zimbabwean	4896
 Chartered Accountants	10270
+Chartered Accountants and Auditors	18825
 Chartered Accountants and Business Advisors	13053
 Chartered Certified Accountant	4896
 Chartered Mr Cleopas Kadzimu Chartered Accountant	4896
@@ -705,6 +710,7 @@ D E ENCERCLEZ LE ACCORDÉ	13300
 D ENCERCLEZ LE ACCORDÉ	13300
 DA Designated Account DBAG Directorate of Budget	17458
 DA Designated Account DE4A Digital Economy	969,5570
+DA Designated Account DEA Digital Economy	18777
 DA Designated Account DEEC Environment and Classified	18293
 DA Designated Account DFIL Disbursement and Financial	10768
 DA Designated Account DGPSN General Delegation	18301
@@ -853,6 +859,7 @@ Financial and Accounting Procedures	18104
 Financial and Accounting Procedures Law	14865
 Financial and Management Accounting	11131
 First Let’s Talk About Boardroom Accountability	8629
+Fiscal Accounts	18851
 Force Account	17180
 Foreign Account Tax Compliance Act	6524,1,5160
 Foreign Currency Account	13532
@@ -948,6 +955,7 @@ ID Account F25 Apr	10714
 IDA Account	15658
 IDMP. Accordingly	17157
 IFAC International Federation of Accountant IFR Interim	11855
+IFAC Pan African Federation of Accountants	18825
 IFC Own Account	11469
 IFMIS Accounting Module Operationalized	18359
 IFR. Accounting and Reporting Arrangements	3604
@@ -1169,7 +1177,7 @@ National Accounts Unit. PURA	16992
 National Accounts and Productivity	14734
 National Accounts. E. Response	14777
 National Accounts16	236
-National Chart of Accounts	11955
+National Chart of Accounts	11955,6870
 National Directorate of Public Accounting	10768
 National Directorate of Treasury and Public Accounting	2597,15273
 National Exchequer Account. Emphasis of Matter	14546
@@ -1178,6 +1186,7 @@ National Health Accounts	12729,437,2559,252,994,1507
 National Health Accounts ENT Ear	14773
 National Health Accounts Exercise	16971
 National Health Workforce Accounts	10829,1900
+National Oil Account	18797,26
 National Transfer Accounts	12962
 National Transfer Accounts for Sub-Populations	12962
 National Treasury and Public Accounting Directorate	10845
@@ -1193,6 +1202,7 @@ Number of Accounts	7763
 Number of Active Taxpayer Accounts	12951
 Number of Low Cost Bank Accounts	940
 Number of Mobile Payment Accounts	6938
+O International Bank Account Number	18829
 ODD. Accord AFRISTAT	16250
 OECD Air Emission Accounts	17257
 OECD National Accounts	17870
@@ -1279,6 +1289,7 @@ Private Account	9400
 Procurement Officer M&I Accountant Accountants MIS	13332
 Procurement Terms of Reference Treasury Single Account	15658
 Produced National Health Accounts	12729
+Professional Accountancy Organization	18825
 Professional Accountants	18576
 Professional Accountants Bodies	13420
 Professional Banking Diploma Program. Accordingly	17235
@@ -1286,6 +1297,7 @@ Professional Bar of Certified Auditors and Accountants	11955
 Professional Excellence and Accountability	17116
 Professional Women Accountants of Nigeria	11866
 Programs of Benin Account	15399
+Proj. National Accounts GDP	18851
 Project Account	15901
 Project Accountant	1867,15247
 Project Accounting	11231
@@ -1393,6 +1405,7 @@ Reporting Accountants and Auditors Announcement of Dividend	4896
 Reporting Period. B. Entity Accounts Subject	11233
 Reporting and Accountability	14747
 Reports and Annual Accounts of Statutory Corporations	18436
+Required Accompanying Documentation	18851
 Required. For Pre-existing Entity Accounts	11233
 Research and Project Finance and Accounts	6946
 Reserve Accounts	12364
@@ -1499,6 +1512,8 @@ Strengthen Local Authority Accountability	13646
 Strengthen National Accounts	14777
 Strengthened Transparency and Accountability HRIMS	13477
 Strengthening Accountability	13792
+Strengthening Accounting and Auditing Standards	18825
+Strengthening Accounting and Auditing Standards. The Order	18825
 Strengthening Government Leadership and Accountability	15224
 Strengthening Judicial Independence and Accountability	18631
 Strengthening Transparency and Accountability	17037
@@ -1520,7 +1535,7 @@ Sub-Paymaster’s General Account Reconciliations Finding	13420
 Sub-Treasury Account	18469
 Submission of Fund Accountability	17274
 Submit Account Details	13333
-Summary Accounts	13868
+Summary Accounts	13868,4955
 Sun Accounting	16949
 Sun Accounting System	16949
 Supply Utilization Accounts	13049
@@ -1556,6 +1571,7 @@ Third-Party Benefits Assessment Accountability Collaborators	1243
 Tinkhundla Social Accountability Programme	12970
 Togo Activates National Accounting Council	15298
 Tourism Satellite Account	12631
+Tourism Satellite Accounts	18846
 Tracy Mpofu Chartered Accountant Zimbabwean	4896
 Trade and Other Receivables Accounts	14736
 Trade' Statistics and National Accounts	16833
@@ -1616,7 +1632,7 @@ V.3. Accompagnement	15639
 VIA Account	12397
 VIII ACTING ACCOUNTING OFFICER STATEMENT	11261
 Verify RDF SSO Account	16518
-Voice and Accountability	8075,3450,3372,2099
+Voice and Accountability	8075,3450,3372,2099,1771,5
 Volume of Mobile Payment Accounts	6938
 WCO Area Map and Accommodation	13051
 WTO Customs Valuation Agreement. Accordingly	11036

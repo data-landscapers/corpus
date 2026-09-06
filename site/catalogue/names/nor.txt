@@ -24,6 +24,8 @@ Accountability and Learning MENA Middle East and North	15604
 Accra North Operational	3386
 Acting North West Regional Education Director	12636
 Actividades de Normalização	12782
+Actos Normativos	18751
+Actos Normativos Artigo	18751
 Adamaoua Centre Est Extrême-Nord Littoral Nord	15599
 Adjusted CA Norm	13868
 Adopting the EMIS Norms and Standards	13310
@@ -62,6 +64,7 @@ Agencia de Normalización	4209,12772
 Agencia de Normalización AGENOR	17282
 Agriculture Régions du Nord and Rural Cameroun Development	10985
 Agência Espacial Norte-Americana	11437
+Agência Norueguesa de Cooperação	18779
 Ahafo and Western North	8370
 Alex Norris	4052
 Alexandra Norris	10977,4866,1,821,380,880
@@ -194,6 +197,7 @@ Chef de Service Normes	16175
 Cohésion Sociale des Régions du Nord du Golfe de Guinée	10876
 Comando Regional de Santiago Norte	15503
 Comissão Técnica de Normalização Sectorial	12782
+Comissão de Normalização Contabilística	18764
 Comissões Técnicas de Normalização	12782
 Comissões Técnicas de Normalização Permanente	11381
 Comissões Técnicas de Normalização. ARTIGO	12782
@@ -209,6 +213,7 @@ Convergence That Matters for Broader North	5340
 Copperbelt North Western	12431
 Copperbelt and Northwestern Provinces	3524
 Corniche Nord Rue	16624
+Coroa Norueguesa	18829,31,20
 Corée du Nord	17663
 Country Manager for North West Africa	7271
 County Urban Rural Total North Western	17043
@@ -599,6 +604,7 @@ La-Toden Passoré Nord	15715
 Lake Victoria North	12151
 Lake Victoria North Water Service Board	14546
 Latitude Nord	16641
+Latitude Norte	18757
 Laura Starita Alexandra Norris	10977
 Laws of Northern Section	11857
 Lazaret Nord Faisceau	18191
@@ -971,19 +977,21 @@ Noriana Muneku Permanent Secretary	13392
 Norleo Space Investments	10162,37,1
 Norleo Space Investments and Grant Gordon	10162
 Norm Average	13310
-Norma	15,11446,850,463,2676,54,141,493
+Norma	15,11446,850,463,2676,54,141,493,2614
 Norma Ambiental	11390,152
 Norma Angolana	11450
 Norma ISO IEC	11381
 Norma NP4427	15476
 Norma Revogatória	11370,7,1406
+Norma Revogatória Fica	18749
+Norma Revogatória Ficam	18750
 Norma Transitória	576,10857
 Norma Técnica	4274
 Norma de Aplicação	10755
 Norma de Pequenos Alojamentos Turísticos	15645
 Norma de Sustentabilidade	15645
 Normahomed Tomás Banze Elis Manuela Artur	2989
-Normal	5267,4863,663,730,429,544,481,131,192,90,134,1947,837,244,346,259,1284
+Normal	5267,4863,663,730,429,544,481,131,192,90,134,1947,837,244,346,259,1284,393
 Normal Early	17157
 Normal Entre	13300
 Normal Manuais de Utilizador Formação Assinatura	12021
@@ -1021,7 +1029,7 @@ Normalización	16898
 Normalizado	11403
 Normalizar	16898
 Normalization	17743
-Normalização	11409,5691
+Normalização	11409,5691,1737
 Normalize	17157
 Normalized	17743
 Normalized Difference	17157
@@ -1047,18 +1055,20 @@ Norman Wooding	7378,2777
 Norman and Skinner	14666
 Normand Bigendako	5942
 Normane Omarjee	15333
-Normas	2816,3646,4321,587,78,8,99,4139,1204
+Normas	2816,3646,4321,587,78,8,99,4139,1204,1876,27,17
 Normas Ambientais	6269,5121,16,7
 Normas C2PA	2816
 Normas Executivas	11430
 Normas Generales de Contabilidad. También	17282
 Normas Operacionais	11442
+Normas Revogatória	18752
 Normas Técnicas	4274,6481,4633
 Normas Técnicas Ferramentas Exemplos Benefícios Riscos	2816
 Normas Técnicas Internacionais	12782
 Normas Técnicas Moçambicanas	12782
 Normas da Actividade Inspectiva	11452
 Normas de Conduta	11368
+Normas de Dados	18801
 Normativa	1701
 Normative	1161,935,5355,515,311,2992,631,3770
 Normative Alignment	16212
@@ -1135,7 +1145,7 @@ Norte-Centro-Sul	11366
 Norte-Sul	11373,20
 Norte-Sur	16898
 Nortey Street	3386
-North	627,162,54,421,1302,820,26,318,61,19,49,15,574,524,275,1315,375,23,37,485,196,208,1853,1073,29,23,2,54,43,1,6,6,4,158,42,41,145,102,1,388,129,8,4,90,63,23,45,8,51,50,117,15,109,235,14,25,74,28,178,175,694,750,10,29,177,262,24,11,319,27,58,725,499,1,63,96,71,13,332,447,403,132,19
+North	627,162,54,421,1302,820,26,318,61,19,49,15,574,524,275,1315,375,23,37,485,196,208,1853,1073,29,23,2,54,43,1,6,6,4,158,42,41,145,102,1,388,129,8,4,90,63,23,45,8,51,50,117,15,109,235,14,25,74,28,178,175,694,750,10,29,177,262,24,11,319,27,58,725,499,1,63,96,71,13,332,447,403,132,19,327
 North Africa	285,46,179,138,412,27,547,180,338,110,213,483,49,106,240,4,83,419,1,12,323,129,326,13,309,264,1,41,24,38,258,106,399,164,59,177,62,226,146,1,23,491,341,128,29,15,111,419,244,89,668,207,648,341,22,4,67,6,213,136,137,123,502,62,1933,308,422,270,12,564,131,380,732,147,83,211,42,88,16,164,44,351,263
 North Africa By Lina Kacyem	5159
 North Africa MTEF Medium-Term Expenditure Framework	11271
@@ -1515,7 +1525,7 @@ Northwestern Province	1867,121,11390
 Northwestern Province and Mayukwayukwa	1988
 Northwestern University Law Review	17780
 Norton	7367,6165
-Noruega	10752
+Noruega	10752,8050
 Noruega FINSLAND	6613
 Norval	8436
 NorvanReports	8174
@@ -1590,6 +1600,7 @@ Ouindigui Loroum Nord	15715
 Oula Yatenga Nord	15715
 Owerri North Local Government Area	18243
 P. Norris	7886
+P1. Adoção Preferencial de Normas Abertas	18774
 PL-2 Plateau North	11857
 PL-4 Plateau North	11857
 PREVALENCE OF NORMAL BLOOD PRESSURE	16892
@@ -1606,6 +1617,7 @@ Pemba North	7763
 Pemba North and South Regions and North Unguja	11133
 Per Nordlund	10785
 Performance Benchmarks Metric Normal Peak Conditions	11952
+Permanent Norm	18797
 Personal Information HNSF Health Normative Standards	396
 Pilimpikou Passoré Nord	15715
 Plano de Acção. Norma Ambiental	11542
@@ -1664,6 +1676,11 @@ Region North Bank Region Upper River	16973
 Region North Western	16935,192
 Regional Director for North Africa and Horn of Africa	18626
 Região Norte	11406
+Região Norte Oeste	18762
+Região Norte RAP Caué Cantagalo	18768
+Região Norte-Oeste	18762
+Região Sul Região Centro Região Norte	18768
+Regiões Norte-Oeste	18781
 Regulamento de Normalização	12782
 Reino da Noruega	10752
 Resource Plan Nored Northern Regional Electricity	12399

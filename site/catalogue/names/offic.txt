@@ -291,6 +291,7 @@ Bansang Regional Health Directorate Office and Staff	16896,26
 Bavarian State Office for Data Protection Supervision	10090
 Beatrice Nyangulu Stores Officer	13392
 Beau Bassin Sub Office	14847
+Benedicte Baduel FOR OFFICIAL USE ONLY	18851
 Benjamin Mkapa Foundation Chief Executive Officer	7321
 Benue State Office	18260
 Bethanie Community Hall Magistrate Office	13046
@@ -511,7 +512,7 @@ Chief Electoral and Referenda Officer	12905
 Chief Enterprise Business Officer	3220,6500
 Chief Enterprise Business Officer Angela Mensah-Poku	9840
 Chief Enterprise Business Officer Lynda Saint-Nwafor	3155,31
-Chief Executive Officer	585,2,149,395,202,689,489,176,330,203,318,176,6,41,126,376,94,306,233,435,28,90,89,126,48,405,511,146,164,8,127,22,19,93,18,173,46,108,42,12,8,49,122,10,45,253,49,80,34,152,11,58,150,32,207,72,103,41,20,160,182,510,91,53,52,99,269,52,92,143,248,73,5,1,2,64,23,19,40,468,28,200,20,50,199,54,16,43,80,97,97,19,249,148,9,65,3,60,76,14,30,66,16,16,181,232,136,51,7,141,62,12,162,8,27,27,15,29,30,52,33,53,37,2,34,2,7,10,71,38,18,139,243,222,634,13,791,148,300,9,377,710,34,94,14,140
+Chief Executive Officer	585,2,149,395,202,689,489,176,330,203,318,176,6,41,126,376,94,306,233,435,28,90,89,126,48,405,511,146,164,8,127,22,19,93,18,173,46,108,42,12,8,49,122,10,45,253,49,80,34,152,11,58,150,32,207,72,103,41,20,160,182,510,91,53,52,99,269,52,92,143,248,73,5,1,2,64,23,19,40,468,28,200,20,50,199,54,16,43,80,97,97,19,249,148,9,65,3,60,76,14,30,66,16,16,181,232,136,51,7,141,62,12,162,8,27,27,15,29,30,52,33,53,37,2,34,2,7,10,71,38,18,139,243,222,634,13,791,148,300,9,377,710,34,94,14,140,120
 Chief Executive Officer Antoine Sebera	6388
 Chief Executive Officer Ato Kinfe Negash	12195
 Chief Executive Officer CI Continuous Integration	6432
@@ -656,7 +657,7 @@ Chief Immigration Officer IOM	12972
 Chief Impact Officer	9544
 Chief Information Office	16975
 Chief Information Office Regime	16975
-Chief Information Officer	1777,3124,171,1302,5171,24,5303,4,99,95,324
+Chief Information Officer	1777,3124,171,1302,5171,24,5303,4,99,95,324,1378
 Chief Information Officer CLSG	16872
 Chief Information Officer CMMI Capability Maturity	12917
 Chief Information Officer CSIRT	16975
@@ -821,7 +822,7 @@ Company’s Executive Officers and Directors	7198
 Compliance Officer	10738,4342,2287
 Compliance Officers	7123,4619,6004
 Component CLOs Community Liaison Officers CLSG	18504
-Components For Official Use Only	15735,2615
+Components For Official Use Only	15735,2615,467
 Conexxia and OfficeTech	16942
 Conference for Official Statistics	16927
 Conference of Official Statistics The Conference	16927
@@ -923,6 +924,7 @@ Custody and Guardianship The Office	12977
 Customs Business Offices	10581,6786
 Customs Exit Officers and Port Gate Officers	17367
 Customs Judicial Police Officers	15976
+Customs Office	18797
 Customs Officer	11289,2274,1915
 Customs Officers	15478,1153
 Customs and Excise Junior Officer	11289
@@ -966,6 +968,7 @@ DPO Office of NCSA	12419
 DPO. Data Protection Officers	13381
 DRAFT OFFICIAL IDENTITY MANAGEMENT POLICY	11977
 DRC Launches Data Protection Officers Network	5425
+DRM Domestic Revenue Mobilization ODA Official	18851
 DSE Chief Executive Officer Peter Nalitolela	14176
 DSTI Director and Chief Operating Officer	8903
 Dakar Mobilité Chief Executive Officer Cheikh	7324
@@ -1014,12 +1017,14 @@ Data Protection and Cybersecurity Office	4126
 Data Protection and Cybersecurity Officer	4126
 Data Sources Official Government Reports	17139
 David Mwale John Account Office	13392
+Debt Office	18825
 Deeds Office	7278,4008,1965,1044
 Deeds Office Fund	13311
 Deeds Office Records	13251
 Deeds Office. All	11286
 Deeds Officer Records	13251
 Deeds Registry Office	12511,451,289
+Delhi. An Officer	18857
 Delivery Post Office	13081
 Demographics Officials	7230
 Departmental Heads and Officials	14742
@@ -1156,6 +1161,7 @@ District Surveillance Officers	16971
 District and County Education Officers	17233
 District and Provincial Offices	1778
 District and Regional Offices	18449
+District. Official Use Only Page	18809
 Districts. The Provincial Social Welfare Office	13332
 Divisional Officer for Tiko	9513
 Djeina Issa Kalidi FOR OFFICIAL USE	13856
@@ -1383,7 +1389,7 @@ Fees of Office	11249
 Female Prison Officers	14742
 Fight Poverty and Unlock Prosperity. Official Use	3604
 FinTech Coordination Office	4185,8259
-Finance Officer	11129,7309
+Finance Officer	11129,7309,413
 Finance Officers	16524,1976
 Finance Principal Finance Officer Republic of China	12972
 Finance Principal Finance Officer SADC Secretariat	12972
@@ -1593,10 +1599,12 @@ Head of National Office	16580
 Head of Office	11905,1142
 Head of Office and UNESCO Representative	9139,6033,20,3458
 Head of Office for Madagascar	6806
+Head of Programme Office	18873
 Head of State's Office	16996
 Head of Strategy and Programme Office	18259
 Head of UNESCO Office	5935,2428,4866
 Head of UNESCO Office and UNESCO Representative	9755
+Head of UNODC Programme Office	18868
 Headquarters and Other Offices	14409
 Headquarters and Regional Offices	12970
 Heads of ECOWAS National Offices	10909
@@ -1750,6 +1758,7 @@ Information PMO Provincial Medical Office PMTCT	34
 Information Technology Office	12927
 Information Technology Officer	3005,14298
 Information Technology Officers	9901
+Information. Official Use Only The World	18809
 Infrastructure Chief Economist Office. Bateman	11310
 Innovation Officer	7204,744
 Instagram OMSMadagascar Officiel L'OMS Madagascar	14662
@@ -1851,6 +1860,7 @@ Judicial Police Officers of Rwanda National Police	14869
 Judiciary’s Public Relations Office	8470
 Jul-2026 For Official Use Only	18354
 Jun-2019 Completed Completion Measurement For Official	17505
+Jun-2027 For Official Use Only	18817
 Jun-25 Attorney General’s Office	14746
 Junior Officer's Command Course	13361
 Junior Professional Officer	11867,3030
@@ -1964,6 +1974,7 @@ Les Officiers	14420,1179,2218,165,50
 Les Officiers de Police Judiciaire	15597,46
 Les Officiers des Forces Armées	17817,82
 Lesotho Officials for Capacity Building	10123
+Liaison Officer	18851
 Liaison Officer Estela Vilanova Núñez Volunteer	17101
 Liberia CEO County Education Officer CICO	16876
 Liberia Country Office	17068
@@ -2177,7 +2188,7 @@ MoF and Office	18576
 MoH Head Office	14950
 MoHAIS Office	1988
 MoJ Ministry of Justice OHCHR Office	16943
-Moderate For Official Use Only	17470
+Moderate For Official Use Only	17470,1347
 Moderate Moderate For Official Use Only	18350
 Modernisation and Revamping of Postal Offices	6946
 Modernization and Revamping of Postal Offices Project	6946
@@ -2191,6 +2202,7 @@ Monitoring and Evalaution Officers	17116
 Monitoring and Evaluation Officer	7990,6845
 Monitoring and Evaluation Officer KICTANet. David Indeje	9547
 Monrovia Head Office	10644
+Monsalve Montiel Official Use Only	18809
 Monsieur Abdoulaye KEÏTA Exploitant Office Riz	17841
 Monsieur Galy KALAPO Jeune Exploitant Office	17841
 Monsieur Gaoussou BOUARE Exploitant Office Riz	17841
@@ -2338,7 +2350,7 @@ National Social Safety-Nets Coordinating Office	12049
 National Space Program Management Office	4350,756,661,715,142,638
 National Space Programme Management Office	6513
 National Staff. Offices	15181
-National Statistical Office	1704,4382,3860,466,1300,566,623,5,99,35,109,8,52,101,4355,184,336
+National Statistical Office	1704,4382,3860,466,1300,566,623,5,99,35,109,8,52,101,4355,184,336,653
 National Statistical Offices	8341,86,2392,4801,1307,222,1036
 National Statistical Offices. Download ZIMSTAT Board	13490
 National Statistics Office	400,8922,1821,1032,37,705,292,748,9,57,8,58,36,24,1,1031,477
@@ -2622,6 +2634,7 @@ Office Supervisor	14835
 Office Taux	17845
 Office Togolais des Recettes	4034,5942
 Office UHF	14723
+Office UNDP-STP	18864
 Office UNDP-ZWE	13618
 Office VPA Secretariat	16857
 Office and Representative	6211
@@ -2762,7 +2775,7 @@ Office. These Statements	10313
 Office. Through	12977
 Office.2.Vacation	14410
 Officeholders	7721
-Officer	22,1756,2345,3,770,415,216,1409,631,719,226,372,994,1973,125,250,102,30,611,1,2,5,54,32,45,202,22,60,88,183,830,31,15,163,30,10,3,90,180,1818,20,68,22,156,295,143,911,92
+Officer	22,1756,2345,3,770,415,216,1409,631,719,226,372,994,1973,125,250,102,30,611,1,2,5,54,32,45,202,22,60,88,183,830,31,15,163,30,10,3,90,180,1818,20,68,22,156,295,143,911,92,317
 Officer ACFRI Amadou Konare Sr. Environment	15372
 Officer ACM African Continental Mission ADRA	12970
 Officer AUDA-NEPAD AFR100 Secretariat Seminar-	12972
@@ -2798,6 +2811,7 @@ Officer Mawano Kambeu	6187
 Officer Ministry of Labour and Industrial Relations	14770
 Officer Ministry of Youth and Sports	14770
 Officer MoF	13005
+Officer No Astrid Sophie F Team	18809
 Officer Officer	12364
 Officer Research Dissemination	12972
 Officer Signature Ms Tampane Molefe-Sefanyetso	11986
@@ -2810,7 +2824,7 @@ Officer of Orange Botswana	5717
 Officer-In-Charge	17183
 Officer-in-Charge	10073,3356,1345
 Officer. Example	14524
-Officers	34,1843,111,787,212,143,2432,870,2819,146,518,72,181,2043,39,41,51,121,37,52,141,68,202,7,2,5,334,70,172,142,1019,1,17,4,6,11,7,68,3,4,56,143,92,1741,59,25,808,404,297,5,92,41
+Officers	34,1843,111,787,212,143,2432,870,2819,146,518,72,181,2043,39,41,51,121,37,52,141,68,202,7,2,5,334,70,172,142,1019,1,17,4,6,11,7,68,3,4,56,143,92,1741,59,25,808,404,297,5,92,41,259,11,5
 Officers Annually	15845
 Officers Commanding Stations	14505
 Officers Doctors	4260
@@ -2836,7 +2850,7 @@ Officetech	16942
 Office’s Guidance Note	1630
 Office’s Steering Committee	18253
 Officia	14479
-Official	173,802,671,473,564,8,353,409,130,169,282,93,140,135,126,32,572,189,592,291,94,469,377,319,85,700,714,546,273,940,93,97,26,42,75,124,118,298,123,134,125,10,9,156,23,10,8,9,64,62,11,18,156,18,99,408,184,90,75,6,26,450,5,120,417,178,146,43,103,3,193,88,5,6,167,115,16,5,85,150,208,6,123,94,141,318,138,122,80,100,96,10,108,131,521,34,47,119,184,171,92
+Official	173,802,671,473,564,8,353,409,130,169,282,93,140,135,126,32,572,189,592,291,94,469,377,319,85,700,714,546,273,940,93,97,26,42,75,124,118,298,123,134,125,10,9,156,23,10,8,9,64,62,11,18,156,18,99,408,184,90,75,6,26,450,5,120,417,178,146,43,103,3,193,88,5,6,167,115,16,5,85,150,208,6,123,94,141,318,138,122,80,100,96,10,108,131,521,34,47,119,184,171,92,295
 Official Accreditation Marks	13816
 Official Africa CDC	4782
 Official Authority	15516
@@ -2853,7 +2867,7 @@ Official Creditor Committee Under the G20 Common	14018
 Official Creditor Committee. Ethiopia	14135
 Official Creditors Committee	6001
 Official Development Aid	13310
-Official Development Assistance	1828,3416,1094,4994,24,1726,40,502,4366
+Official Development Assistance	1828,3416,1094,4994,24,1726,40,502,4366,789,30
 Official Development Assistance PUL	5244
 Official Documentation and Rights	17043
 Official ECOWAS	4827
@@ -2863,7 +2877,7 @@ Official FIRST	16144
 Official Flag Receipt	16949
 Official Flows	13624
 Official Gambian	17388
-Official Gazette	3,4,1013,194,119,423,1,1,1,1,1,1,1,1,1,1375,1,1,1,1,1,1,1,1,713,266,226,244,163,2152,1,1,1,1,1,1,1,1,3801,54,44,698,438,21,225,132,5,75,79,926,991,238,211,3,1,1,7,14,7,2,15,3,7,1,108,75,24,51,216,80,11,8,1450,1656,1
+Official Gazette	3,4,1013,194,119,423,1,1,1,1,1,1,1,1,1,1375,1,1,1,1,1,1,1,1,713,266,226,244,163,2152,1,1,1,1,1,1,1,1,3801,54,44,698,438,21,225,132,5,75,79,926,991,238,211,3,1,1,7,14,7,2,15,3,7,1,108,75,24,51,216,80,11,8,1450,1656,1,198
 Official Gazette A- Adle	14884
 Official Gazette Issue	14884
 Official Gazette No	1220
@@ -2887,6 +2901,7 @@ Official Journal Page	3604
 Official LRA	17142
 Official Language	12533,1876
 Official Language ARTICLE	14409
+Official Language and Timor Leste	18777
 Official Launch	5244,7851,541,887
 Official Launch Date	12631
 Official Launch and Platform Capabilities The Fayda	12238
@@ -2928,14 +2943,16 @@ Official Twitter Account Announcements	11953
 Official URL	6666,4212
 Official Use	12400,3113
 Official Use Onl Licence N	736
-Official Use Only	3456,148,443,606,945,981,254,95,949,3009,99,432,52,6,568,210,764,94,416,1026,23,1393,218,249,527,233,1158,5
+Official Use Only	3456,148,443,606,945,981,254,95,949,3009,99,432,52,6,568,210,764,94,416,1026,23,1393,218,249,527,233,1158,5,458
 Official Use Only ABBREVIATIONS AND ACRONYMS	12253,6106
 Official Use Only ABSTRACT	10985
+Official Use Only ADM STAFF Role	18825
 Official Use Only APPENDICES Appendix	12253
 Official Use Only Acronyms AIDT Agency	17196
 Official Use Only Action Description	17505
 Official Use Only Activity Main Machines	12253
 Official Use Only Actual	4653,2275
+Official Use Only Adaptation Co-benefits	18825
 Official Use Only Additional	10985
 Official Use Only AfDB ABBREVIATIONS	3604
 Official Use Only Allocated Frequency	736
@@ -2943,6 +2960,7 @@ Official Use Only Any	12253
 Official Use Only Appendix	12253
 Official Use Only Approach	17196
 Official Use Only Assigned Frequencies	736
+Official Use Only Average	18817
 Official Use Only B. Introduction	14576
 Official Use Only Barricade	12253
 Official Use Only Baseline Actual	18359
@@ -2963,20 +2981,23 @@ Official Use Only Date	6579
 Official Use Only Delayed	17470
 Official Use Only Description of Type of Air	12253
 Official Use Only Develop	12253
+Official Use Only Digital Sao Tome	18817
 Official Use Only ESMP	12253
 Official Use Only EXECUTIVE SUMMARY Introduction	12253
 Official Use Only Emissions	12253
 Official Use Only Enhancement	12253
 Official Use Only Ensuring	12253
+Official Use Only Environment and Social	18817
 Official Use Only Environmental	18359
 Official Use Only Executive	10985
 Official Use Only Executive Summary	17196
 Official Use Only Expected Environmental Proposed	12253
+Official Use Only FINANCING Financing	18825
 Official Use Only Figure	10985,484,784
 Official Use Only Figure A.2. Transfer	10985
 Official Use Only First	12253
-Official Use Only For Official	11395,4340,1265,96,374,35,501,127,217,4,1
-Official Use Only For Official Use	15735,1735,35,845,4
+Official Use Only For Official	11395,4340,1265,96,374,35,501,127,217,4,1,437,25
+Official Use Only For Official Use	15735,1735,35,845,4,463
 Official Use Only Frequent	12253
 Official Use Only Grievance Redress Mechanism	12253
 Official Use Only Have	12253
@@ -2988,7 +3009,7 @@ Official Use Only II. Financing and Implementation	11469
 Official Use Only III. WBG Portfolio	11469
 Official Use Only Implementation Status and Key	7877
 Official Use Only Indicator Intervention	11469
-Official Use Only Indicator Name	17000
+Official Use Only Indicator Name	17000,1792
 Official Use Only Install	12253
 Official Use Only Item Anticipated Proposed	12253
 Official Use Only Item Expected Environmental	12253
@@ -3009,7 +3030,7 @@ Official Use Only Okamura	10985
 Official Use Only Outcome	11469
 Official Use Only Overarching Goal	11469
 Official Use Only PROCUREMENT PLAN	13017
-Official Use Only Page	3456,148,1049,1926,349,4489,3159,1860,1762
+Official Use Only Page	3456,148,1049,1926,349,4489,3159,1860,1762,611,16
 Official Use Only Part	13527
 Official Use Only People	7877,10473,9
 Official Use Only Potential Impact Enhancement	12253
@@ -3038,6 +3059,7 @@ Official Use Only Stakeholder Responsibility	12253
 Official Use Only Stakeholder Responsibility Contractor	12253
 Official Use Only Stakeholders Low	18350
 Official Use Only TABLE OF CONTENTS	18359
+Official Use Only TF-B8649 Effective	18817
 Official Use Only Table	12253
 Official Use Only Table of Contents Executive	10985
 Official Use Only Table of Contents Part	13527
@@ -3045,7 +3067,8 @@ Official Use Only The Act	12253
 Official Use Only The Contractor	12253
 Official Use Only The Policy	12253
 Official Use Only The World	3456,11120,2520
-Official Use Only The World Bank	3456,148,1049,6764,1694,1442,23,1159,297,404,1762
+Official Use Only The World Bank	3456,148,1049,6764,1694,1442,23,1159,297,404,1762,611
+Official Use Only Themes Major Theme	18825
 Official Use Only Total Expenditure	10985
 Official Use Only UNDP United Nations	3604
 Official Use Only UNITE DE GESTION	16104
@@ -3126,8 +3149,9 @@ Ondangwa Urban Ondangwa Urban Constituency Office	13046
 One-Stop Land Office	2597
 Ongoing IT Director Infrastructure Maintenance Official	16963
 Online Protection CSO Central Statistics Office	13346
-Only For Official Use Only	15735,1735,35,845,4
+Only For Official Use Only	15735,1735,35,845,4,463
 Only For Official Use Only CE	18350
+Only For Official Use Only Educational	18817
 Only For Official Use Only Morocco	17470
 Ooredoo Group Chief Legal and Regulatory Officer	17620
 Open Data Officers	15714
@@ -3180,7 +3204,7 @@ PARTIE OFFICIELLE Loi	15488
 PARTIE OFFICIELLE MINISTERE DE L’INTERIEUR ET	15465,991
 PARTIE OFFICIELLE MINISTERE DES AFFAIRES FONCIERES	15455
 PARTIE OFFICIELLE TITRE II	15524
-PDO Outcomes For Official Use Only	17096
+PDO Outcomes For Official Use Only	17096,1696
 PERCENTAGE OF HOLDINGS WITH OFFICIAL DOCUMENTATION	17043
 PERMALL Vinayagan Employment Counselling Officer	14770
 PERSONAL DATA PROTECTION OFFICE AT KAMPALA	3307
@@ -3307,7 +3331,7 @@ Population Projections Report. National Statistics Office	12175
 Portail Officiel du Gouvernement de Côte	14689
 Portal. Official	6493
 Position Office	14806
-Post Office	1810,1454,3457,4408,50,1,19,1,1016,1,183,265,416,440,61,1811,126,59,85,41,1211
+Post Office	1810,1454,3457,4408,50,1,19,1,1016,1,183,265,416,440,61,1811,126,59,85,41,1211,1882
 Post Office Address Type	11129
 Post Office Box	11129
 Post Office Box Ad	3386
@@ -3321,6 +3345,7 @@ Post Office Fiber Optics Services	15578
 Post Office Guide. Specific	11129
 Post Office Installation	15578
 Post Office Installation of Fiber Optic Network	15578
+Post Office Protocol	18774
 Post Office RO Registration Officers PESTLE	13005
 Post Office Savings Bank and East African	6946
 Post Office Upgrading	15578
@@ -3364,7 +3389,7 @@ Prime Minister and Cabinet Office Mr. Bheki	12989
 Prime Minister's Office	583,200,507,87,718,1806,980,1002,2623,863,1463,132,941,103,193,136,163,1510,127,584,21,4,4,5,23,1,14,15,3,19,9,6,126,760,200,251,2016,111,61
 Prime Minister's Office Public Disclosure Authorized	12228
 Prime Ministers’ Office	18198
-Prime Minister’s Office	3604,3555,1347,2547,675,1234,10,5,335,2,17,992,393,22,4,6,2,10,14,4,1,32,18,685,4,866,773,947,94,172
+Prime Minister’s Office	3604,3555,1347,2547,675,1234,10,5,335,2,17,992,393,22,4,6,2,10,14,4,1,32,18,685,4,866,773,947,94,172,427
 Prime Minister’s Office Prime Minister	14778
 Prime Minister’s Office and MEPU	14745
 Prime Minister’s Office- National ID Card	14778
@@ -3417,6 +3442,7 @@ Procurement Officer M&I Accountant Accountants MIS	13332
 Procurement Officers	9004,9496
 Procurement Policy Office	13031,1707,28,12,69
 Procurement Policy Office Portal	14759,3
+Procurement and Coordination and Supervision Office	18825
 Procurement and Supply Officer	14835
 Procurement and Supply Officer Support Staff Administration	14835
 Procurement of Genuine Software License for Microsoft Office	16927
@@ -3462,6 +3488,7 @@ Protection of Officers. Departments. Units	18466
 Protection of Officers. PART V	18465
 Protection of Personal Draft Official Identity Cybersecurity	1939
 Protocol for Foreign Office Consultations	17241
+Protocol for Foreign Office Consultations. Mr. Alfonso	18857
 Provincial Cadastral Offices	427
 Provincial Education Office PIU Project Implementation	13332
 Provincial Education Officers	13636
@@ -3488,6 +3515,7 @@ Provincial Registry Office	13434
 Provincial Social Welfare Office. The Provincial	13332
 Provincial and District Meteorological Officers	520
 Public Debt Management Office	14546
+Public Debt Management. The Debt Office	18825
 Public Disclosure Authorized FOR OFFICIAL USE	3604,7360,453,488
 Public Disclosures Official Use Only	12253
 Public Information Officer	16631,222
@@ -3507,7 +3535,7 @@ Public Private Office	7548
 Public Procurement Office	4633,6646,3457
 Public Prosecutor's Office	4531,642,7006,22,3283
 Public Prosecutors Office	12201
-Public Prosecutor’s Office	1829,8245
+Public Prosecutor’s Office	1829,8245,8723
 Public Relations Office Tel No	14781
 Public Relations Officer	3360,8678,1051,1101,4079
 Public Relations and Communication Officer	16978
@@ -3672,7 +3700,7 @@ Research Council of Zimbabwe Offices	1554
 Research Officer	12162,810,1840
 Research and Statistics Officer	13310
 Resident Coordinator's Office	18665
-Resident Representative Office	15029
+Resident Representative Office	15029,3794
 Resilience Officer	10572
 Resolution Office NCCSO National Council of Chiefs	16970
 Resource Executive Office Management Assistant Support	14835
@@ -3759,6 +3787,7 @@ SSRA Kampala Liaison Office	10599,6958
 STATE PRESIDENT'S OFFICE No	11181
 STATISTIQUES OFFICIELLES	15439
 STEMpower Chief Executive Officer	10621
+STP Post Office	18825
 SUBDIVISION OSHAKATI REGIONAL OFFICE	13097
 SUBDIVISION OTJIWARONGO REGIONAL OFFICE	13097
 SUBDIVISION RUNDU REGIONAL OFFICE	13097
@@ -3970,16 +3999,17 @@ Strategic Program Management Office	11272
 Strategy Implementation Office Delivery Oversight	17364
 Strategy Office National	13938
 Strategy for Official Statistics	14734
+Strengthen Public Procurement. The Office	18825
 Studies and Dissemination Office	12147
 Sub Offices	10864
 Sub- National Committee for Statistics Coordination Office	16863
 Sub-Post Offices	6946
 Sub-Saharan Africa. Publications Office	17870
 Sub-regional Offices	12337,610
-Subregional Office for Central Africa	11736
+Subregional Office for Central Africa	11736,7110
 Subregional Office for West Africa	17594
 Subsahara Africa Office	9082
-Substantial For Official Use Only	18354
+Substantial For Official Use Only	18354,463
 Substantial Official Use Only	15969,218
 Substantial. Official Use Only Page	16436
 Sudan Country Office	14897
@@ -3999,6 +4029,7 @@ Sustain Early Deployment of Election Officials and Materials	10049
 Swedish National Audit Office	17364
 Switzerland Office of Deputy Director and Regional Presence	10764,80,7279
 Systems Officer AIH	17539
+São Tomé Dobra Official Use Only	18809
 Sécurité M. Kafando Directeur de Production Office	10812
 TENURE OF OFFICE	14753
 TINs. Officials	3938
@@ -4097,6 +4128,7 @@ Twitter Officiel	8673
 Types of Official Statistics Used	17149
 U.N. Office	16902
 U.S. Attorney’s Office	11342
+U.S. Department of State’s Office of Overseas Citizens	18842,37
 U.S. Government Accountability Office	17364
 U.S. Mission Comoros Comorian Officers Join	13754
 U.S. State Department Senior Bureau Official	18209
@@ -4104,6 +4136,7 @@ UCC Head Office	8730
 UCC Official	4761,5020
 UK Foreign and Commonwealth Development Office	11142,7346,89
 UK Home Office	14905
+UK MET Office and Meteo France	18787
 UK Met Office	11191,6937,181
 UK National Audit Office	16923
 UK Officials Prime Minister and Minister of Foreign	16114
@@ -4114,7 +4147,7 @@ UN Fundamental Principles of Official Statistics	13386,1348,2352,1389,270
 UN Human Rights Office	3584,543,6880
 UN Multi-Partner Trust Fund Office	14622,4055
 UN OCHA UN Office	15220
-UN Office	4810,2137,4953,2139,1053,1199
+UN Office	4810,2137,4953,2139,1053,1199,2506
 UN Office for Digital and Emerging Technologies	7112,3894,1,5195
 UN Office for Disaster Risk Reduction	17157
 UN Office of Information and Communications Technology	5825
@@ -4147,7 +4180,7 @@ UNESCO Liaison Office	14157
 UNESCO Member States. UNESCO Windhoek Office	12994
 UNESCO Multisectoral Regional Office for West Africa	17017
 UNESCO National Programme Officer	13662
-UNESCO Office	8548,2053,1949,2642
+UNESCO Office	8548,2053,1949,2642,3604
 UNESCO Regional Office	12675
 UNESCO Regional Office for Eastern Africa	14993
 UNESCO Regional Office for Southern Africa	12565,654,250,88
@@ -4183,6 +4216,7 @@ UNICEF's Sudan Country Office	15253
 UNITEL Chief Executive Officer	5106
 UNMPTF Office	18677
 UNOCHA United Nations Office	13042
+UNODC Programme Office and Senior Rule of Law	18873
 UNODC United Nations Office	17105
 UNOPS United Nations Office for Project Services	15731,2894
 UNOPS West Africa Multi-Country Office Director	18509
@@ -4211,7 +4245,7 @@ United Kingdom’s Office for AI. Ghana	4126
 United Nations Fundamental Principles of Official	14594
 United Nations Fundamental Principles of Official Statistics	11201,1701,247,156,1414,2144,253
 United Nations Human Rights Office	11977
-United Nations Office	970,3157,1211,332,1136,954,1591,265,125,1035,380,416,994,406,122,288,1184,176,154,143,303,279,37,67,477,741,94,756,141,189,536,4
+United Nations Office	970,3157,1211,332,1136,954,1591,265,125,1035,380,416,994,406,122,288,1184,176,154,143,303,279,37,67,477,741,94,756,141,189,536,4,205
 United Nations Office Office	13003
 United Nations Office for Digital and Emerging Technologies	11057
 United Nations Office for Disarmament Affairs	2117
@@ -4238,7 +4272,7 @@ University’s International Office	17735
 Update.pdf Official Use Only Horn of Africa	14022
 Upper Primary Official	14896
 Usab Community Hall Usakos Constituency Office	13046
-Use Only For Official Use Only	11395,4340,1265,96,374,35,501,127,217,4,1
+Use Only For Official Use Only	11395,4340,1265,96,374,35,501,127,217,4,1,437,25
 Use Only Official Use Only Official	12253
 User Prime Minister's Office	14721
 Users Landowners Investors Service Officers Legal	12211
@@ -4306,11 +4340,12 @@ World Bank Country Office	13312,2
 World Bank Country Office Information	17114
 World Bank Country Office. Information	17099
 World Bank Document FOR OFFICIAL USE	11380
-World Bank FOR OFFICIAL USE	13722,114,1675,90,1295,56,910
+World Bank FOR OFFICIAL USE	13722,114,1675,90,1295,56,910,903
 World Bank FOR OFFICIAL USE ONLY	15372,52
-World Bank Group FOR OFFICIAL USE	969,10580,3969,2586
+World Bank Group FOR OFFICIAL USE	969,10580,3969,2586,673
 World Bank Group For Official Use	17470
 World Bank Group Office	14744
+World Bank Group Official Use Only	18809
 World Bank Official Use Only Page	11417
 World Bank Safeguard Office. Review	12253
 World Bank. For Official Use Only	17470

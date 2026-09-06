@@ -310,7 +310,7 @@ Clarian Makungu	10540
 Clarias	18118
 Claricia Doriane	15848
 Clarifai Full	4434
-Clarification	3675,451,3861,559,1691,534,1272,108,249,785,1039,201,334,3,165,175,82,1523
+Clarification	3675,451,3861,559,1691,534,1272,108,249,785,1039,201,334,3,165,175,82,1523,2116
 Clarification No	13404,1355,3
 Clarification Period	13621
 Clarification RFP N 96 2024 SOM	14927
@@ -448,7 +448,7 @@ Class0wasperfectlypredicted	8606
 Class1	8606
 Class1precisionof98	8606
 Class1withonlyeightfalsepos-	8606
-Classe	737,3830,6199,81,28,1,510,49,360,3920,2267,21,29,67,313
+Classe	737,3830,6199,81,28,1,510,49,360,3920,2267,21,29,67,313,345
 Classe Acadêmica	11569
 Classe Alunos Angola	10766
 Classe Alunos Angola Bengo Benguela Bié	10766
@@ -515,7 +515,7 @@ Classical	826,7140,317,1476
 Classical Arabic	18665
 Classical SCM	12006
 Classical SCM Designed	12006
-Classif	9123
+Classif	9123,9634
 Classif Fonctionnelle	2286
 Classif Prog-Admin-Eco	1325,1,1,1,1,1,685,1,1,1,1,1,266,1869,1,1,1,1,1,770
 Classifi11c.3atiConlaFssraifimceawtioonrkFramework	10157
@@ -528,6 +528,8 @@ Classificador Intersectorial	10783
 Classificador Orgânico	10783
 Classificador Territorial	10783
 Classificador de Programa	10783
+Classificados	18768
+Classificar	18801
 Classification	747,440,44,96,661,144,13,928,603,170,1,251,1034,533,767,133,886,97,337,436,1836,153,411,233,185,119,309,230,108,90,953,105,18,196,20,506,75,156,399,26,295,253,132,77,38,102,126,1,82,69,89,2,5,4,121,63,28,351,265,348,106,151,703,6,16,63
 Classification Activité	15936
 Classification Après	14423
@@ -578,7 +580,8 @@ Classification of Standardized Precipitation Index	17157
 Classification of Standards THE TGSB STANDARDS CATALOGUE	16900
 Classification of Subprojects Based	17114
 Classifications	13306,1288,440
-Classificação	2784,32,703,7238,613,11,24,1,45,447,413,4014,778
+Classificação	2784,32,703,7238,613,11,24,1,45,447,413,4014,778,1672,26
+Classificação Funcional	18798
 Classificação Internacional da Funcionalidade	15694
 Classificação Internacional de Doenças	16484
 Classificação Internacional de Funcionalidade	11577
@@ -595,6 +598,7 @@ Classified Warning Signs No Change	10835,3,130,918,466,1,135
 Classified Warning Signs No Change Best	10835,3,130,918,602
 Classified. The NDGC	3861
 Classifies	17157
+Classifique	18771
 Classify	34,4092,3155,3950,979,794,1918,2235
 Classifying	13356
 Classique Satellite Bilingue Franco arabe Passerelle	10847
@@ -686,7 +690,7 @@ Claudine Nyinawagaga	12370
 Claudine Silaho Weber Hilty The Republic	11936
 Claudino Filipe	10752
 Claudino Moreira	16083
-Claudio Machado	10765,10
+Claudio Machado	10765,10,8004
 Claudio Machado Cavalcanti	10714
 Claudio Mendonca	16876
 Claudio Tognola	18166
@@ -843,7 +847,7 @@ Environmental And Social Risk Classification	13787,1167,1700
 Environmental And Social Risk Classification Moderate	2291,12285
 Environmental And Social Risk Classification Substantial	1704,1752
 Environmental and Social Clauses	1988
-Environmental and Social Risk Classification	761,2801,42,8361,255,168,24,14,243,1065,9,113,159,895,27,39,121,93,592,250,261,105
+Environmental and Social Risk Classification	761,2801,42,8361,255,168,24,14,243,1065,9,113,159,895,27,39,121,93,592,250,261,105,2411
 Environmental and Social Risk Classification Concept Review	13111,2402,37,1125
 Environmental and Social Risk Classification Investment	15621,122
 Environmental and Social Risk Classification Substantial	15658
@@ -928,6 +932,7 @@ Harmonised Systems Commodity Classification Code	18541
 Harmonized Classification of Fees	12164
 Heads of Tax Administrations Master Class	7692,1
 Henri Claude KOMBILA	16381
+Henri Claude Oyima	18876
 Heures CLASSE DE PREMIERE CONTENUS OBJECTIFS	18099
 Heures. CLASSE DE TERMINALE CONTENUS OBJECTIFS	18099
 High Court. Clause	14594
@@ -1001,7 +1006,7 @@ International Classification of Standards	16900
 International Standard Classification of Activities	236
 International Standard Classification of Education	13310,1465
 International Standard Classification of Education MBBS	14775
-International Standard Classification of Occupations	14815,17
+International Standard Classification of Occupations	14815,17,3945
 International Standard Classification of Occupations Table	14815
 International Standard Industrial Classification	236,10916,1293,592,5446
 International Standard Industrial Classification LFS	12445
@@ -1080,6 +1085,7 @@ Land Cover Classification System User Manual	15129
 Large Landowning Class	15473
 Large-Scale Remote Sensing Image Classification	14769
 Launch Jean Claude Musabyimana	12370
+Laurence C. Clarke Abdoulaye Seck Director	18765
 Legal Claim	12302
 Length Decimal Classwords Text	12360
 Letrado Mayor Clase Económica Director General	4209
@@ -1118,7 +1124,7 @@ Mar-2027. Environmental and Social Risk Classification	15802
 Mar-2028 Environmental and Social Risk Classification	14456,1731
 March. Clashes	18701
 Marguerite Clarke AGIR ABBREVIATIONS AND ACRONYMS	11905
-Maria Claudia Pachon	1264,9450,4779,20
+Maria Claudia Pachon	1264,9450,4779,20,3264
 Maria Claudia Pachon ABBREVIATIONS AND ACRONYMS	15491
 Marie Claire DIALLO	17861
 Master Class	7692,2
@@ -1216,6 +1222,7 @@ OpenAI and Claude	8405
 Operation ID Classification Investment Project P500628	16144
 Operation ID Financing Instrument Classification Investment	10768
 Oui Clarification	13433
+Outros Act. Não Classif	18757
 Overview and Clarifications	11998
 P176459 Environmental and Social Risk Classification	1228
 PART FOUR CLASS LICENSES	762
@@ -1248,6 +1255,7 @@ Points New Classes Mobile Libraries Literacy	15578
 Policy Clarity	17260
 Policy Clause Implementation Guidelines Actor Requirements	6432
 Policy Clauses Implementation Guidelines Actor Requirements	6432
+Política de Classificação de Dados	18801
 Pour le Pr Armand Claude Abanda	8906
 Pr Armand Claude Abanda	8906
 Pre-Primary Class PBC	12175
@@ -1379,6 +1387,7 @@ Species Identification and Classification	15478
 Staff Clarification Requests	12058
 Standard Contractual Clauses	5244,6712,37,1388
 Standard Industrial Classification	11296
+Standard International Trade Classification	18777
 Standards Department Document Classification	12360
 Starlink Namibia's Class Comprehensive Telecoms Licence	5498
 Statement of Claim	18154

@@ -1,6 +1,6 @@
 AASA and IATA. Dateline Nairobi	10723
 ACC-153-01-056-25 DATE	7206
-ADDITIONAL FINANCING Date	11924,3500,177,62,68,705,1413,13,100
+ADDITIONAL FINANCING Date	11924,3500,177,62,68,705,1413,13,100,863
 AF. Date	15601
 AFD Date	18346
 AFRICA EAST. Estimated Appraisal Date	761
@@ -30,9 +30,10 @@ Activity Date	5853
 Activity Dates RFP Issued	12693
 Actll51 Date of Gazette	17108
 Actual Date	11131,5483
-Actual Date Concept Review	11924,6038
+Actual Date Concept Review	11924,6038,863
 Actual No. Date ISR Archived	15663
-Added Date	13575
+Actual Process Date Process Original Date	18754
+Added Date	13575,5289
 Address Date	12591
 Address Issue Parties Involved Date Investigation	17099
 Adoni Conrad Quenum Date	4181,2712,1203
@@ -53,6 +54,7 @@ Appraisal Date	16654
 Appraisal Stage Date Prepared	14954
 Appraisal Stage. Date Prepared	761,13032
 Approval Date	4653,7312,255,454,1060,163,141,933,12,710,89
+Approval Date Closing Date	18809
 Approval Date Investment Project Financing IBRD	16896
 Approval Date Investment Project IBRD	1284,15638
 Approval Date Practice Area	1704
@@ -60,6 +62,7 @@ Approval Date Social Risk Rating	3604
 Approved Approved Date	16638
 Approved Date	16638
 Approved Date Approvi	736
+Approved Restructuring Date	18754
 ApprovingOffice Approved Date	736
 Apr-2018. Closing Date	13850
 Apr-2023 Actual Mid-Term Review Date	16638
@@ -75,6 +78,7 @@ Availability Date Disbursement	17257
 Avon Rise Avenue Date Daily	4896
 B Date SPG Disclosed	18728
 B. Key Dates C. Ratings Summary	16614
+B. Key Dates Revised	18754
 BADEA's Board of Directors Date	12634
 BAOBAB MALI Date	18032
 BAOBAB MALI Date D'arrêté	18032
@@ -271,6 +275,7 @@ DDI Document ID DDI GIN 2024 FINDEX v02 M WB Producers Date	16665
 DDI Document ID DDI GMB 2024 FINDEX v02 M WB Producers Date	17045
 DDI Document ID DDI MRT 2024 FINDEX v01 M WB Producers Date	17925
 DDI Document ID DDI SDN 2025 WMS-R4 v01 M WB Producers Date	15024
+DDI Document ID DDI STP 2025 WBES v01 M WB Producers Date	18838
 DDI Document ID DDI-SLE-StatsSL-AAS-2023-v03 Producers Date	18525
 DDI Document ID DDI-SLE-StatsSL-AAS-2024-v01 Producers Date	18567
 DE DATE DE REALIS ATION	16103
@@ -475,10 +480,11 @@ Dates de Remboursement	15901
 Dates of Budget Consultation The FY	15004
 Dates of Consultations	1778
 Dates of Data Collection	15620,223,1,2,819,380,880
+Dates of Data Collection Data Collection	18838
 Dates of Data Collection Mode	10862,4162,2141,201,1159,42,3
 Dates of Statutory Board and Board Committee Meetings	12951
 Datetime	12360
-Deadline Date	13575
+Deadline Date	13575,5289
 Dec-2020 Closing Date	10779
 Dec-2021 Closing Date	10779
 Dec-2022 Planned Mid Term Review Date	15619
@@ -566,6 +572,7 @@ Ethiopia. Date	9031
 Event Date	12618
 Expected Approval Date	1584,668,1310,7270,1133,423,2522,26,1,253,363,105,124,616
 Expected Approval Date Expected Closing Date	1867,1737,7164,61,135,453,143,295,50,1426,1,2289,40,483,2054
+Expected Approval Date Review Type	18809
 Expected Closing Date	2252,8580,1556,2522
 Expected Completion Date	16308
 Expected Decision Date Decision Outcome	16926
@@ -602,6 +609,7 @@ Financing Loan Closing Date Extension Financial	11924
 Financing and Dates The Angola Growth and Inclusion	10779
 First Release Date of Release	7869
 First Repayment Date	15399
+First Restructuring Ratings Key Revisions Date	18825
 Fixing Date	16219
 Force Short Title and Date of Entry	16850
 Foundations for Collaborative Regulation Date	5241
@@ -635,6 +643,7 @@ ICTD Date	12162
 ICTD. Date	12485
 IDA-62270. Closing Date	13850
 IDA-H3300 ICR Date	16614
+IDA-H6420 ICR Date	18754
 IDC BID CLOSING DATE	11209
 IFC Collaboration No Expected Approval Date	1284,15638
 IFC Collaboration No Expected Closing Date	15553,105
@@ -645,6 +654,7 @@ INITIATIVE PRIORITÉ DATE DATE FIN PARTIE	15936
 IPS Date	2342
 ISDS Concept Stage. Date Prepared	12137
 ISR RATINGS No. Date ISR Archived	17962
+ISRs Actual Date ISR No	18754
 ISRs No. Date ISR Archived	15424,87
 Ia Date Limite de Remboursement	15399
 Ihre Daten	13014
@@ -706,9 +716,10 @@ KEY DATES Decision Review	15702
 KEY DATES For Official Use Only	18350
 KEY DATES Jun	6579
 KEY DATES Key Events	13058,2101,2974
+KEY DATES Key Events Approval Planned	18792
 KEY DATES Key Events Jun	6928
-KEY DATES Key Events Planned Actual	2712,1976,6182,1358,39,3468,278,692,295,96,374,35,399,54,48,348,1
-KEY DATES Key Events Planned Date	11924,6038
+KEY DATES Key Events Planned Actual	2712,1976,6182,1358,39,3468,278,692,295,96,374,35,399,54,48,348,1,462
+KEY DATES Key Events Planned Date	11924,6038,863
 KEY DATES Key Revisions Key Events	16436
 KEY DATES Page	11971,469,3639,915,85
 KEY DATES The World Bank Implementation	7877,3518
@@ -716,7 +727,7 @@ KEZA Faith Non-Executive Director Date of Appointment	15023
 KINGDOM OF ESWATINI Date	12930
 KNPHI LIMS Tender Closing Date	7988
 Kenneth Sackey. Dateline	5932
-Key Dates	2712,1976,1891,254,95,949,2993,525,576,257,39,173,163,121,334,2101,460,116,2,276,66,559,67,289,6,79,17,374,35,399,54,48,127,217,4,1,118,61
+Key Dates	2712,1976,1891,254,95,949,2993,525,576,257,39,173,163,121,334,2101,460,116,2,276,66,559,67,289,6,79,17,374,35,399,54,48,127,217,4,1,118,61,258,25
 Key Dates Approval	14948
 Key Dates Guarantee Key Dates Approval	15905
 Key Events Planned Date Actual Date	15731
@@ -759,7 +770,7 @@ Link CLOSING DATE	11240
 Links Title Publisher Country Publication Date	16830
 Listing Date	4896
 Loan Closing Date	1228,56,14317,62,1233,26,927,13
-Loan Closing Date Extension	2473,9451,41,1896,4101
+Loan Closing Date Extension	2473,9451,41,1896,4101,863
 Loan Closing Date Extension Loan Cancellations	16032
 Loan Closing Date Extension No Components	15969
 Loan Number Date	14132
@@ -1203,7 +1214,7 @@ X DATE	3972
 X Date	17841
 X. RÉTROPLANNING ETAPES Date	13635
 Year Result Date Result Date Result	4653,11316,63,155,2172
-Year Value Date Value Date	2712,5165,2993,525,576,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179
+Year Value Date Value Date	2712,5165,2993,525,576,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179,258,25
 Year Value Date Value Month	4688,13216
 ZIPSS SYSTEM Designation Comment Signature Date	12364
 ZRCP Date	1988

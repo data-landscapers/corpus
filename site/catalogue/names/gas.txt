@@ -93,6 +93,7 @@ GASTOS PRESUPUESTARIOS	4209
 GASTOS PÚBLICOS	4209
 GASTROENTEROLOGY INCLUDING HEPATOLOGY SERVICES	14773
 GED Government Education Department GCMS Gas	13420
+GHG Green House Gas GoSTP Government	18809
 GHG Greenhouse Gas GHGI Greenhouse Gas	17140
 GHG Greenhouse Gas GoBF Government of Burkina	15621
 GN Gasu	9616
@@ -131,6 +132,7 @@ Gas Storage Hydro	11953
 Gas Storage Load Load	11953
 Gas Stove	12383
 Gas Supply	11272,3401
+Gas Supply Options	18795
 Gas Tech	17907
 Gas Transport Ltd ROAD ACCIDENT VIVO	14738
 Gas and Downstream	718
@@ -173,6 +175,7 @@ Gaso Grace Pascal	18692
 Gasoduto Africano Atlântico Segunda	11429
 Gasoil	15542,1172,186,1072,350
 Gasoil Price	17177
+Gasolina	18757
 Gasoline	16902
 Gasoline Diesel Kerosene Jet	1828
 Gasoline Diesel Sources	1828
@@ -182,6 +185,7 @@ Gaspar Datondji	1814
 Gaspar Dos Santos	5542,432,6,605,32,628,4184,3,47
 Gaspar EDU MBO Jefe de Servicio de Metodología	16898
 Gaspar Micolo	11417
+Gaspar Pinto Vaz Direcção Nacional	18760
 Gaspard	15524
 Gaspard MASSOUKOU	16249
 Gaspard MEZUI OVONO	16099
@@ -236,13 +240,14 @@ Gastroenteritis	12151
 Gastroenteritis Pneumococcal	15725
 Gastroentritis	12151
 Gastrointestinal Outpatient Department	14773
+Gastão Ferreira. Foi	18843
 Gasura	7880
-Gasóleo	17100
+Gasóleo	17100,1657
 Gataraga Gashaki Gatebe Manyagiro Shangasha Ngarama	12413
 Gatare. In Gasabo District	4941
 Ghana National Gas Company	15740,164
 Global Forest Observation Initiative GEI Gases	16875
-Green House Gas	12256,1824,1579,485,2309
+Green House Gas	12256,1824,1579,485,2309,356
 Greenhouse Gas	789,13955,667,1729
 Greenhouse Gas Accounting Methodology for Energy Access	15659
 Greenhouse Gas Accounting for Energy Investment Operations	15659
@@ -382,6 +387,7 @@ Petroleum and Gas	14947
 Petroleum and Gas Board	14947
 Petroleum and Gas Ensure	14947
 Petroleum and Gas Policy Objective	14947
+Planeamento Gasparvpinto53	18760
 Presidential and Parliamentary Elections. Gasinzigwa	12372
 Prima de Prima de Prima de Gastos de Cantidad	4209
 Prima de Prima de Prima de Gastos de Mayor Gratif	4209

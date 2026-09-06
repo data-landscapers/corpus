@@ -18,7 +18,7 @@ ANNEX III OPERATIONAL INDEPENDENT POWER PRODUCER	12399
 ANNEXES TO OPERATION REPORT	1818
 ANNUAL REPORT Operating Procedures	1154
 AOC Air Operator Certificate AOI Agriculture	2775
-ASSOCIATED OPERATION	2712,1976,1891,349,949,3518,576,257,39,173,2719,576,2,276,66,626,289,6,79,17,808,54,48,127,217,4,1,179
+ASSOCIATED OPERATION	2712,1976,1891,349,949,3518,576,257,39,173,2719,576,2,276,66,626,289,6,79,17,808,54,48,127,217,4,1,179,258,25
 ASYCUDA Express Operators Module	15478
 ATC KENYA OPERATIONS LIMITED Data Controller	7167
 AUTORIZAÇÃO DE OPERAÇÕES DE PAGAMENTO	10755
@@ -142,6 +142,7 @@ B4. Wireless Cellular Operators	17250
 BASIC DATA Operation ID	14971,1019
 BASIC DATA Product Information Operation ID	2473,2180,11316,63,155,249,1923
 BASIC DATA Product Information Operation Name	11924,6038
+BASIC INFORMATION Operation ID Programmatic	18851
 BCPFS BCPFS BCPFS Due Date Operations	16032
 BEST Operation Name Regional Electricity Access	18374
 BOMS Beneficiary Operations Management System CBO	16384
@@ -194,12 +195,13 @@ Business Operations Strategy	15966
 Business Operations Support ESIEID Cluster DEPARTMENT	11986
 Business Operations Support ESIEID LGBTQIA	5533
 Business Operations25	15085
-C. Legal Operational Policies	969,295,603,1737,2935,4229,61,135,416,37,132,11,1771,1,1605,554,24,3,35,68,37,1,2,1288,1344,8
+C. Legal Operational Policies	969,295,603,1737,2935,4229,61,135,416,37,132,11,1771,1,1605,554,24,3,35,68,37,1,2,1288,1344,8,476
 C. Legal Operational Policies D. Environmental	1264,5275
 C. Legal Operational Policies Page	15659
 C. Legal Operational Policies Triggered	13331
 C01 OPERATIONS DIVERSES	18032
 CAMTEL's Network Operations Center	4271
+CAPÍTULO I DAS OPERAÇÕES CAMBIAIS Secção	18750
 CAPÍTULO II OPERAÇÕES ECONÓMICAS E FINANCEIRASCOM	15433
 CAPÍTULO IV OPERADORES COM PODER	11430
 CAPÍTULO IV OPERAÇÃO DE RECENSEAMENTO SECÇÃO	11528
@@ -229,6 +231,7 @@ COMPONENT Key Modules Description Operational Protocol	17157
 CONCESSION OPERATEUR CONDITIONS ECO. NUMERO DECISION	18322
 CONSIDERATIONS GENERALES SUR LES OPERATIONS	16047
 CONSTRUCTION AND OPERATION OF A GOVERNMENT	12253
+CONTEXT AND OPERATION SUMMARY	18851
 CONTINUOUS OPERATIONS	13189
 COORDINATION OF WHO OPERATIONS	18668
 CORS Continuous Operating Reference Stations COVID-19	18293
@@ -251,6 +254,7 @@ Capacity Operational Jan Feb Mar Apr	11953
 Capital Market Operators	8178
 Card Operations	15054
 Caribe de Operadores de Puntos de Intercambio de Tráfico	14468
+Cash-Flow Operacional Grau de Utilização	18793
 Categories of Operators Obliged	12558
 Cease Operation	6946
 Cease Operation. Enforcement	6946
@@ -322,6 +326,7 @@ Comparative Analysis of Operation Usalama Watch	12227
 Compatibility Operating Systems	34
 Compliance and Enforcement Operators	17212
 Computer Operator Ms. Virginia Simushi	34
+Comunicação UNU-EGOV United Nations University Operating	18774
 Conception and Scoping E Operations and Maintenance	11006,1
 Conclusions Operationalizing ODH	14666
 Conclusão da Operação	15388
@@ -417,6 +422,7 @@ DISCLAIMER While the System Operator	11228
 DISPONIBILITE ET CAPACITE OPERATIONNELLE DE SERVICES	17843
 DLRs. Risks Systematic Operations Risk-rating Tool	16638
 DONNÉES DES OPERATEURS	15670
+DOS DIREITOS ADQUIRIDOS PELOS OPERADORES	18784
 DPO Development Policy Operation E2C Energie	15969
 DPO Development Policy Operation ENAM National	969
 DPO Development Policy Operation ESRS Environmental	18301
@@ -443,6 +449,7 @@ Dec-2023 Operation Closing	13742,1206
 Dec-2024. Operation Closing	15702
 Dec-2026 Operation Closing	10870,1397,173
 Dec-2027 Operation Closing	2712
+Definições de Operações Cambiais	18750
 Departamento de Operações de Cibersegurança	4218
 Departamento de Sistemas Operativos	9694
 Department of Operations Management	7278
@@ -452,6 +459,7 @@ Deputy Commissioner of Operations	16254
 Deputy Director of Operations for Payments	3964,63
 Deputy Governor Operations	13532
 Des Procedures Operationnelles Standardisees	14662
+Desempenho Operacional	18793
 Desenvolvimento POP Procedimentos Operacionais Padrão	11376
 Designated Operational Entities	9393
 Designated Postal Operator	6946
@@ -466,7 +474,7 @@ Develop and Operationalise	12453
 Develop and Operationalize	17155,100
 Development Interpeople Finance Operations	13390
 Development Partner DPO Development Policy Operation	15515
-Development Policy Operation	1284,9545,2225,956,185,447,1017,2642
+Development Policy Operation	1284,9545,2225,956,185,447,1017,2642,524,26
 Development Policy Operation ECOWAS Economic Community	17862
 Development Policy Operations	18488
 Development Policy Operations. Contacts	14603
@@ -637,6 +645,7 @@ FORSA Operational Manual	15663
 FOURNIE PAR LES OPERATEURS Un MoU	15670
 FRW Operator Jun-18 Jun-19 Jun-20 Jun-21	718
 Facility SOP Standard Operating Practices SWFP	18578
+Feb-2023 Operation Closing	18792,33
 Feb-2024 Operation Closing	17470
 Feb-2026 Operation Closing	4688
 Federated Data Operating Model	15034
@@ -654,7 +663,7 @@ Financial Intermediaries. B.2 Legal Operational Policies	18374
 Financial Market Operations	17235
 Financial Markets Operational Compliance Financial Stability	15023
 Financial Markets Operations Division	14744
-Financial Operations	11995,2750,28,62
+Financial Operations	11995,2750,28,62,3988
 Financial Operations Cadre	14745,90
 Financial Operations Finance Operations Officer	14835
 Financial Operations Mr Gurudeo Murlidhar Prushad	14746
@@ -680,6 +689,7 @@ Fixed VoIP Subscriptions Operator Q3	6000
 Floating Point Operations Data Protection Per	4126
 Floating Point Operations Per Second	4126
 Force Election Tactical Operation Room	14760
+Foreign Exchange Operations	18797
 Foreign Operations	11005
 Foreign Public Postal Operator	15136
 Forestry and Fishery Workers Plant and Machine Operators	16266
@@ -713,6 +723,7 @@ GIS Operators	18496
 GM Operator	16926
 GM- CSIRT PRIVATE OPERATORS	1000
 GOS Gross Operating Surplus GPRS Ghana	236
+GRM Grievance Redress Mechanism ID Operation	18825
 GSM Operator Gambia Cellular Company LTD	16982
 GSM Operators	16926
 GSM Operators and ISPs	16982
@@ -759,6 +770,7 @@ Gross Operating Surplus	236
 Group Chief Operating Officer of WTES Projects	11168
 Group. Operating	10793
 Growth Development Policy Operation	14056,586
+Guia Operacional Nacional	18812
 Guia Operacional de Implementação	11451
 Guinea-Bissau's Strategic and Operational Plan	11552
 Guy Bandolo An Operational Guide	13681
@@ -803,6 +815,7 @@ Humanitarian Operations SLA Sudan Liberation Army	6947
 I C T Operator	15136
 I I Operational Frequency	736
 I. BASIC INFORMATION A. Basic Operation	18374
+I. COUNTRY CONTEXT AND OPERATION SUMMARY	18851
 IANA Functions Operator	3503
 ICANN’S Emergency Back-end Registry Operator	3502
 ICR DOCUMENT BASIC DATA Operation ID	15704
@@ -818,6 +831,8 @@ II- MATRICE DU PLAN D’ACTION OPERATIONNEL	10858
 II. OPERATIONNALISATION DE LA COMMISSION	18322
 III. PROPOSED CHANGES Operation Information Proposed	2473,13496,63,155,2172
 III. PROPOSED CHANGES Operation Information Summary	4653
+III. PROPOSED OPERATION	18851
+III. PROPOSED OPERATION A. Link	18851
 IMMATRICULATION ET CATEGORISATION DES OPERATEURS ECONOMIQUES	17485
 IMPLEMENTATION PLAN FOR OPERATIONALISING THE STRATEGIES	15556
 IMS Operations Support	11986
@@ -941,6 +956,7 @@ Land Operations Manual	18293
 Large Operations	15760
 Larger Sectoral Operations	17962
 Lashibi-Klagon Road Operational	3386
+Last ISR Operation Ratings NAME IMPLEMENTATION	18809
 Last Not Operational Authorisa	3386
 Last Operation Ratings	15190
 Launch of Operation New Broom	11218
@@ -958,6 +974,7 @@ Legal Operational Policies Triggered	1867,8901,195,942,3608,148
 Legal Operational Policies and Screening Risk Projects	12426
 Legal and Operational Structure	4896
 Legal and Operations	9889
+Lei. Secção II Operador Postal Público	18778
 Lending Operations	14109
 Les Procedures Operationnelles Standardisees des CRRA	14662
 Liberia COC Standard Operating Procedures Liberia	16843
@@ -1024,9 +1041,11 @@ Manager Financial Operations MHR	14760
 Manager Operations BACM Biometric Access Control	11986
 Manned Guards Security Operations Centre	9446
 Manual de Procedimentos Operacionais	17093
+Mar-2025 Operation Closing	18817
 Mar-2026 Operation Closing	6928
 Mar-2026 Operation Name	13787
 Marie Stopes Zambia Operations Director Inonge	13400
+Maritime Operations Control Center	18879
 Market Operator	11236,826,6124,31
 Market Share of Mobile GSM Operators	3862
 Market Share of Mobile Operators	3862
@@ -1147,6 +1166,7 @@ NPA National Power Authority OM&M Operation	18537
 NPV Net Present Value O&M Operation	11863
 NPV Net Present Value O&M Operations	11549
 NPV Net Present Value ODS Operational	15411
+NPV Net Present Value OP Operational	18809
 NRB Operational Plan for National Birth Registration	12241
 NRB Standard Operating Procedures	12217
 Nacional. Operador da Rede	6462
@@ -1215,6 +1235,7 @@ Network Operators	736,4160,6961,577
 Network Operators MNP Mobile Numbers Ported	2775
 Network Operators MOA Ministry of Agriculture MoCDE	17105
 Network Operators MOF Ministry of Finance	7763
+Network Operators MSGI Minimum Set of Gender	18777
 Network Operators Micro Finance Institutions Ministry	12701
 Network Operators MoE Ministry of Education MoEO	14897
 Network Operators NECF National Economic Consultative	13295
@@ -1276,6 +1297,7 @@ OFFENCES AND PENALTIES FOR PETROLEUM OPERATIONS	11976
 OGN Network Operations Center	15019
 OP Operational Technology PABX Private Automatic	6946
 OPERABILIDAD DE SISTEMAS Y APLICACIONES Artículo	16855
+OPERACIONAL	18793
 OPERACIONALIZAÇÃO	11397
 OPERACIONES DE FINANCIAMIENTO	4209
 OPERADOR	11531
@@ -1315,10 +1337,11 @@ OPERATING WITHOUT A LICENSE The CSA	9728
 OPERATION	2776
 OPERATION AND PROTECTION OF COMMUNICATION NETWORKS	18602
 OPERATION EXCELLENCE Eﬃciency	11131
+OPERATION INFORMATION BASIC DATA	18809
 OPERATION OF COLLATERAL REGISTRIES	12389
 OPERATION OF CREDIT BUREAUS AND REGISTRIES	12389
 OPERATION OF IMT NETWORKS	14780
-OPERATION STATUS Development Objective	16032
+OPERATION STATUS Development Objective	16032,2777
 OPERATION STATUS Project Development Objective	2473,2180,13706
 OPERATION TOTAL NO. NOT IN OPERATION	2776
 OPERATIONAL	10852,2228,1885
@@ -1412,11 +1435,15 @@ OS Operating System PABX Private Automated	34
 OSL Operations Support and Logistics PCV Pneumococcal	18668
 OTT Operators	5681
 OVERVIEW OF PROGRESS Operation Vulindlela Phase	11236
+Objective DPO Development Policy Operation EA	18825
 Objective Legal Operational Policies MFD	4653
 Objectives Operational Programme	15604
 Objectives Operational Programme A. Improve	15604
 Objectives Operational Programmes	15604
+Objetivo Operacional	18794
+Objetivo Operacional PAAE	18794
 Objetivo Operativo	16898
+Objetivos Operacionais	18794
 Objetivos Operativos	16898
 Objetivos Operativos Ejes	16898
 Obligations of Licensed Satellite Network Operators	10407
@@ -1439,7 +1466,7 @@ Opera-	11156
 Operability	5665
 Operability of Courts	12389
 Operacionais	11386
-Operacional	11448,78,17,1258,2587,3
+Operacional	11448,78,17,1258,2587,3,3361,41
 Operacional da Sociedade de Informação	15391
 Operacionalidade	11421,25,131
 Operacionalización	4209
@@ -1460,12 +1487,18 @@ Operación Periodicidad Responsable EF Estadística Sí	16898
 Operación Periodicidad Responsable EF Estadística Valor	16898
 Operado	11574,5281
 Operado Volume Global de Negócios	11574
-Operador	15,4259,2696,4435,25,1,87,2,54,3866,64,1351,749
+Operador	15,4259,2696,4435,25,1,87,2,54,3866,64,1351,749,1148,1,8
 Operador Económico de Novas Tecnologias	2437,1,9857
 Operador Investimento Global	11574
 Operador Nacional de Sistema Elétrico de Cabo Verde	15983
 Operador Postal Designado Decreto	12794
+Operador Postal Privado	18778
+Operador Postal Público	18778
+Operador Postal Público Compete	18778
+Operador Postal Público São	18778
+Operador Público	18778
 Operador TRIMESTRE TELECEL Orange Bissau TRIMESTRE	11574
+Operador Titular	18753
 Operador da Rede	6462
 Operador de Centro de Dados	11430
 Operador de Centros de Dados	6970
@@ -1481,15 +1514,20 @@ Operador de Serviços Essenciais	6970
 Operador de Serviços Essenciais Artigo	6970
 Operador de Subsistema de Compensação	11370
 Operador. Artículo	16855
-Operadora	4274
+Operadora	4274,14478
 Operadoras	11531
 Operadoras Express	15478
 Operadoras de Comunicações	1251,831,2330
-Operadores	1701,1165,1408,2696,3777,623,26,1,33,6,84,54,444,3486,60,1291,245,504
+Operadoras de Telecomunicações Prazo	18796
+Operadores	1701,1165,1408,2696,3777,623,26,1,33,6,84,54,444,3486,60,1291,245,504,1174,18
 Operadores Económicos	17112
 Operadores Informais	12018
+Operadores Postais Compete	18778
+Operadores Postais Públicos. Portanto	18778
+Operadores Postal Público	18778
 Operadores Sujeitos	11430
 Operadores TRIMESTRE	11574
+Operadores Tabela	18796
 Operadores de Centros de Dados	2437,4533
 Operadores de Comunicações Digitais	6970,4466
 Operadores de Comunicações Electrónicas	6970,4460,1
@@ -1574,7 +1612,7 @@ Operating Transport Fleet	14738
 Operating Unit	10840
 Operating Without	762
 Operating and Spectrum	7204
-Operation	970,1018,590,198,137,590,2573,3047,1738,3,267,338,393,1,42,51,52,219,26,105,827,496,61,196,1010,23,401,39,258,35,197,82,7,845,279,105,239,912,167,64
+Operation	970,1018,590,198,137,590,2573,3047,1738,3,267,338,393,1,42,51,52,219,26,105,827,496,61,196,1010,23,401,39,258,35,197,82,7,845,279,105,239,912,167,64,250
 Operation Abstract	2473,2180,7312,3173,831,63,155,2172
 Operation Amid	10864
 Operation Audio	34
@@ -1587,7 +1625,7 @@ Operation Come	899
 Operation Contender	8777
 Operation Copper	11289
 Operation Copper and Operation Thiba	11289
-Operation Cost	1264,440,1185,567,3083,4878,488,60,423,24,14,406,955,6,1144,39,121,41,839,6,161,149,105,2227
+Operation Cost	1264,440,1185,567,3083,4878,488,60,423,24,14,406,955,6,1144,39,121,41,839,6,161,149,105,2227,184
 Operation Cost Total Financing	14576
 Operation Cost US	2254
 Operation DRC	9399
@@ -1611,7 +1649,7 @@ Operation ID P176932	1175,2,1,1,1,1,1,82
 Operation ID P179410 Financing Instrument Does	11905
 Operation ID P511453 Estimated Approval	16654
 Operation ID P511651 Estimated Appraisal Date	16675
-Operation ID Product	14553
+Operation ID Product	14553,4256
 Operation ID Sequential	3604,2935
 Operation ID Strengthening Climate Resilience	17962
 Operation Information Product Information	13734
@@ -1641,11 +1679,13 @@ Operation Phase	12253
 Operation Phase Improved	12253
 Operation Phase Official Use Only Item	12253
 Operation Ratings	11965,4433
+Operation SOE State-Owned Enterprise DPF Development	18851
 Operation Sentinel	16008
 Operation Sentinel and Operation Red Card	8777
 Operation Serengeti	8777
 Operation Shanela	2626
 Operation Short Name	15702,257
+Operation Specific Annex	18851
 Operation Status Active Does	16032
 Operation Status Closed Current ESRC High	16436
 Operation Sukuma Sakhe	11266
@@ -1657,11 +1697,12 @@ Operation Vulindlela Phase	9250
 Operation Vulindlela Phase II	3741,4859,3397
 Operation Vulindlela Phase II Q1	8779
 Operation Vulindlela. When Operation Vulindlela	10058
-Operation and Maintenance	13809,1850
+Operation and Maintenance	13809,1850,3128
 Operation and Maintenance OHS Occupational	15515
 Operation and Maintenance Phase	1988
 Operation and Maintenance Phase Ensure	1988
 Operation and Maintenance Phase of Agrobusiness Activities	1988
+Operation and Maintenance and ICT	18787
 Operation and Maintenance of Boats	17105
 Operation and Maintenance of Nairobi Nakuru Mau Summit	14546
 Operation of Data Center	9123
@@ -1670,7 +1711,7 @@ Operation of National Statistical System	12530
 Operation of Various Types of Bodies Performing Inspection	16900
 Operation the Information Regulator	10729
 OperationVulindlela	11236
-Operational	1554,167,81,16,61,212,1295,1048,354,745,144,199,270,296,29,197,270,235,105,124,146,100,103,414,176,436,346,114,221,155,3,486,666,25,19,7,22,3,76,17,32,1,27,134,2,1,4,18,261,190,277,1,7,3,10,47,1,33,67,5,4,97,1,45,92,41,13,5,8,63,60,13,49,358,31,12,55,48,219,59,87,433,78,737,7,55,2,6,23,77,8,53,25,20,3,26,26,26,11,2,54,40,6,28,41,1,38,98,69,49,58,86,57,2,50,264,31,24,180,105,95,293,127,46,46,44,2,179,8,23,225,290,267,118,23,20,50,13,31,245,3,64,2,6
+Operational	1554,167,81,16,61,212,1295,1048,354,745,144,199,270,296,29,197,270,235,105,124,146,100,103,414,176,436,346,114,221,155,3,486,666,25,19,7,22,3,76,17,32,1,27,134,2,1,4,18,261,190,277,1,7,3,10,47,1,33,67,5,4,97,1,45,92,41,13,5,8,63,60,13,49,358,31,12,55,48,219,59,87,433,78,737,7,55,2,6,23,77,8,53,25,20,3,26,26,26,11,2,54,40,6,28,41,1,38,98,69,49,58,86,57,2,50,264,31,24,180,105,95,293,127,46,46,44,2,179,8,23,225,290,267,118,23,20,50,13,31,245,3,64,2,6,250
 Operational Acceptance	7987,5198,1905
 Operational Acceptance Certificate	13054,5607
 Operational Acceptance Tests	13185,1905
@@ -1703,7 +1744,7 @@ Operational Context	14945,3180
 Operational Continuity Ensured	16698
 Operational Core	11965
 Operational Cost Recovery	18537
-Operational Costs	17180
+Operational Costs	17180,1574
 Operational Cybersecurity Centres	961
 Operational DWH Ghana Ltd	3386
 Operational Dashboard	12241
@@ -1845,7 +1886,7 @@ Operational and Cybersecurity Standards	13206
 Operational and Governance Framework	12675
 Operational and Human Capacity	13005
 Operational and Maintenance Phase Contamination	1988
-Operational and Risk Management	11553,6756,269
+Operational and Risk Management	11553,6756,269,209
 Operationalisation	1771,1639,1022,177,406,4746,396,2176,282,144,192,177,215,667,734,3833
 Operationalisation Initiative Timbuktoo	951
 Operationalisation of Law	4583
@@ -1870,7 +1911,7 @@ Operationalization of Districts Emergency Command Centre	14935
 Operationalization of MITA	1704
 Operationalization of No Dec	11971
 Operationalization the Technology Park Infrastructure	11863
-Operationalize	1204,60,9885,1091,159,681,1594,323,247,1683,437,1112
+Operationalize	1204,60,9885,1091,159,681,1594,323,247,1683,437,1112,319
 Operationalize AfCFTA	11149
 Operationalize Chapter XIII	12970
 Operationalize DCIMS	13080
@@ -1925,6 +1966,7 @@ Operations Consultant	10763
 Operations Coordination Center	17962
 Operations Coordination Centre	17962
 Operations Coordination Department	10764,80,719,6180,380
+Operations Course	18857
 Operations Dashboard	5848
 Operations ECOWAS Economic Community of West African	17906
 Operations Environmental and Social Review Committee	3604
@@ -2058,7 +2100,7 @@ Operators of Digital Platforms	12294
 Operators' Prices for Prepaid Daily Data Bundles	11259
 Operators' Returns	6671
 Operators' Returns Figure	6671
-Operação	3192,1082,6509,613,1,45,1366,2551,29,57,1655
+Operação	3192,1082,6509,613,1,45,1366,2551,29,57,1655,1664
 Operação Mócus	9176
 Operação STOP	17129
 Operação da Infra-estrutura	11442
@@ -2068,22 +2110,22 @@ Operação de Execução	15388
 Operação de Pagamento	11386
 Operação de Plataformas de Computação	2816
 Operação de Renovação de Cadastro	11384
-Operações	4820,5935,631,17,2,613,3415,43,33,580,1011
+Operações	4820,5935,631,17,2,613,3415,43,33,580,1011,1650,14,36,1,79
+Operações Artigo	18764
 Operações Bancárias	11383
 Operações Cibernéticas	6970
 Operações Cliente	15445
 Operações Permitidas Legenda	11404
 Operações Petrolíferas	11405
+Operações Tributáveis	18764
 Operações da BVM	8003
+Operações de Dados Muito	18801
 Operações de Depósito	11438
 Operações de Pagamento	10755
 Operações de Pagamento Individuais	10755
 Operações de Resposta	11376
 Operações de Tesouraria	15380
 Operações de Transferência	11403
-Operesheni	2797,3805
-Operesheni Anwani	2868
-Operíodo	16138
 Opportunities and Threats SOP Standard Operating Procedures	13005
 Optimization of Military Operations	17884
 Orange Business Ghana Last Operational	3386
@@ -2206,7 +2248,7 @@ Phase Operation Sequential	11417
 Plan Nacional de Operacionalización	4209
 Plan de Operacionalización	4209
 Planned Action PURA and Operators Implementation	16884
-Plano Operacional	12777
+Plano Operacional	12777,5975
 Plano Operacional. CONSELHO DE MINISTROS Resolução	12777
 Plano de Operação Base E6	11442
 Plant and Machine Operators	16266
@@ -2222,6 +2264,7 @@ Port and Coastal Facility Operators Raise	17114
 Portugal. An INTERPOL Operational Support Team	11325
 Portuguese O Manual Operacional	12797
 Possession and Operation of Communication Networks	18602
+Post-completion Operation	18754
 Posta Uganda National Postal Operator	9781
 Postal Operations Council	4093
 Postal Operator	12558
@@ -2277,6 +2320,7 @@ Project Operation Manual	1988,15453
 Project Operation Manual. Inputs	15411
 Project Operational	17180
 Project Operational Manual	17441
+Project Operational Manual PPP Purchasing Power	18809
 Project Operations	11855
 Project Operations Manual	427,6112,4290,588,438,2140,981,435,103,183,1199,1765
 Project Operations Manual Effectiveness Article IV	15661
@@ -2378,6 +2422,7 @@ Resilience Project Using the Multi- Operation ID	11417
 Responsibilities of Technology Companies Operating	8485
 Responsibility for Data Collection The MOH Operational	11417
 Restructuring Implementation Start Date Operation Closing	16032,2327
+Resultados Operacionais da EMAE	18793
 Revenue Water O&M Operation and Maintenance OHS	15659
 Revised Regulation Governing Foreign Exchange Operations	15023
 Revision CNOE Centro Nacional de Operações de Emergência	15966
@@ -2399,6 +2444,8 @@ SARHO Sudanese Agency for Relief and Humanitarian Operations	15220
 SASPP Operational and Policy Note Series	18301
 SECURITY OF SWIPSS OPERATIONS SECTION	12484
 SECÇÃO I CONCEITOS OPERACIONAIS	11388
+SECÇÃO II Operações Permitidas	18800
+SEN Objetivo Operacional	18794
 SEN Objetivo Operativo	16898
 SENIOR TECHNICAL ADVISOR OPERATIONS MULTILATERAL RELATIONS	17235
 SERVICE OPERATORS	5679
@@ -2440,11 +2487,11 @@ SYSTEM OPERATOR STATISTICS	11228
 SYSTEM OPERATORS	12374
 SYSTEM OPERATORS AND SYSTEM PARTICIPANTS	12374
 SYSTEM The Standard Operating Procedures	12338
-SYSTEMATIC OPERATIONS RISK- RATING TOOL	1264,603,1737,2935,4229,649,143,4098,3,82,2455
+SYSTEMATIC OPERATIONS RISK- RATING TOOL	1264,603,1737,2935,4229,649,143,4098,3,82,2455,611
 SYSTEMATIC OPERATIONS RISK-RATING TOOL	969,315,9545,135,416,145,330,110,1366,1,1858,301,62,68,777,498,26,1371,8
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Last Approved	16705
-SYSTEMATIC OPERATIONS RISK-RATING TOOL Rating	2712,1976,6707,6509,630
-SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173,587,31,862,1060,51,128,576,2,276,66,915,6,79,17,374,35,453,48,127,217,4,1
+SYSTEMATIC OPERATIONS RISK-RATING TOOL Rating	2712,1976,6707,6509,630,258
+SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173,587,31,862,1060,51,128,576,2,276,66,915,6,79,17,374,35,453,48,127,217,4,1,462
 Sales Operation	16883
 Salvador Nzamio ENZEMA Jefe de Servicio de Operación	16898
 Sandboxes Operations	7763
@@ -2486,6 +2533,7 @@ Security and Network Operations Center	6539
 Security and Security Operations	14255
 Secção II Operações	15433
 Secção IV Operações	15433
+Secção IV Operações Cambiais Artigo	18750
 Segments Operators Staff Count	3862
 Sekharan Renooka Beejan International Operations Head	11332
 Select Operational Stress Traps Simulate	12882
@@ -2540,12 +2588,12 @@ Staff Operational Guidance	16955
 Stakeholder and Operations	17367
 Standard Copy of Standard Operating Procedures	1988
 Standard Operating	12500
-Standard Operating Practices	11553,6756
+Standard Operating Practices	11553,6756,478
 Standard Operating Procedure	1000,9721,2463,1651,114,1998
 Standard Operating Procedure CCMP.S6	10721
 Standard Operating Procedure IFIs	17101
 Standard Operating Procedure UBR Universal Birth	13681
-Standard Operating Procedures	396,758,130,270,434,5416,3317,469,62,165,780,60,81,110,523,6,1,27,75,164,88,1214,196,192,539,184,389,91,834,145,846,502,24,87
+Standard Operating Procedures	396,758,130,270,434,5416,3317,469,62,165,780,60,81,110,523,6,1,27,75,164,88,1214,196,192,539,184,389,91,834,145,846,502,24,87,212
 Standard Operating Procedures Manual PPP	18370
 Standard Operating Procedures UN	12338
 Standard Operating Procedures WAPP West African	18537
@@ -2562,6 +2610,7 @@ State Properties Operations Control Commission	18293
 State's Operations. Standardization	11939
 State-Owned Enterprise SOP Standard Operational Procedure	17105
 Statement of National Government Operations	2775
+Station Operation	18787
 Station- Adabraka Accra Operational	3386
 Stationary Plant and Machine Operators	16266
 Statistical Operational Functions and Services	13993
@@ -2664,7 +2713,6 @@ Terrestrial Operators Face New Competition	16811
 ThriveAgric’s Agricultural Operating System	11127
 Through Special PAREC Operation	13681
 Time-of-Use TSO Transmission System Operator USD	12233
-Tipo Oper	12018
 Tipo de Operação. Consulte	12018
 Toneladas Métricas TOFE Tabla de Operaciones Financieras	16969
 Tour Operators and Hotels	14736
@@ -2707,7 +2755,7 @@ UNDP The Gambia’s Operations	16973
 UNHCR Operational Data Portal	12227,4353
 UNIC Operación Periodicidad Responsable EF Estadística	16898
 Under Ethio Telecom's Green Operator	9529
-Unidade Operacional	11569
+Unidade Operacional	11569,7198,5,2
 Unified Social Registry Standard Operating Procedures	14976
 Unified Telecommunications Operator	762
 Unified Telecommunications Operator License	762
@@ -2716,6 +2764,7 @@ Unified Telecommunications Operator Licenses	762
 Unified Telecommunications Operators	762
 Unit POM Project Operations Manual PPP	10829
 United Nations An Operational Guide	13681
+United Nations University Operating Unit	18767
 United Nations University's Operating Unit	5615
 United States and Europe. Operators	1036
 Universal Access Fund and Public Operators	718

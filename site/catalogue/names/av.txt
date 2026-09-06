@@ -55,11 +55,12 @@ AVAILABLE NA NOT APPLICABLE	16892
 AVAILABLE OF ADDITIONAL SPECTRUM FOR OPERATION	14825
 AVAILABLE TO SELECT COUNTRIES	5352
 AVALI AÇÃO E REESTRUTURAÇÃO I NSTITUCIONAL	17219
-AVALIAÇÃO	15535
+AVALIAÇÃO	15535,3259
 AVALIAÇÃO DA IMPLEMENTAÇÃO DA ENDE	15535
 AVALIAÇÃO DA MÃE Falou	10760
 AVALIAÇÃO DE IMPACTOS E MEDIDAS	11406
 AVALIAÇÃO DO RECÉM-NASCIDO Examinou	10760
+AVALIAÇÃO E APRENDIZAGEM	18781
 AVALIAÇÃO E MONITORIZAÇÃO	11397
 AVALIAÇÃO EXTERNA CONJUNTA DAS PRINCIPAIS CAPACIDADES	11376
 AVALIAÇÃO Na	11526
@@ -137,6 +138,7 @@ AVASAN Situation	18077
 AVASPs	10155,406
 AVC MANAGEMENT COMPANY LTD Data Controller	7167
 AVC. Disponível	2816
+AVC. OBS	18875
 AVCA Africa-Based Investor International Investor	4972
 AVCA Data	4972
 AVCA Female-only	4972
@@ -254,6 +256,7 @@ AVIS EMIS IV. SECTEUR AVAL DES	18322
 AVIS GENERAL DE PASSATION DES MARCHES	5370
 AVISIG	17006
 AVISO N	11583
+AVISO Nº	18845
 AVITECH SOLUTIONS LTD Data Processor INST-901096A2B1B	7167
 AVL CAPITAL LIMITED Data Controller INST-2137467856D	7167
 AVM Tools Market Analysis Tax Calculation	12211
@@ -344,6 +347,7 @@ Assuring Sustainable Water Availability and Safe Sanitation	8012,3,3268,7267
 Atlantic Council. Available	2518
 Austria. Available	10775
 Autoregressive Moving Average	236
+Autoridade Geral de Regulação Avenida	18753
 Autoridade de Avaliação Ambiental Competente	11542
 Autorité. Avec	14549
 AvXpJWp2Rn9pm1Bx2cVNxFpump	4127
@@ -437,12 +441,13 @@ Availability of Tax Guidance	12389
 Availability of Tax Incentives	12389
 Availability of Technology Transfer Offices	12389
 Availabiliÿ	15399
-Available	396,503,59,170,26,110,290,141,401,616,236,508,148,47,159,866,210,329,31,1,188,265,673,172,34,246,113,8,813,4,203,21,39,350,84,456,207,5,488,336,774,39,10,5,4,35,10,52,136,116,83,15,22,43,143,44,374,52,7,37,53,56,28,83,58,15,9,42,41,26,3,2,7,3,20,5,9,87,4,38,136,416,1,217,2,17,130,704,411,83,7,7,50,29,67,70,8,131,136,327,23,4,32,109,242,408,127,436,3,9,18,20,27,29,33,146,52,30,87,232,149,163,14,78,9,138,77,31,76,25,152,70,76
+Available	396,503,59,170,26,110,290,141,401,616,236,508,148,47,159,866,210,329,31,1,188,265,673,172,34,246,113,8,813,4,203,21,39,350,84,456,207,5,488,336,774,39,10,5,4,35,10,52,136,116,83,15,22,43,143,44,374,52,7,37,53,56,28,83,58,15,9,42,41,26,3,2,7,3,20,5,9,87,4,38,136,416,1,217,2,17,130,704,411,83,7,7,50,29,67,70,8,131,136,327,23,4,32,109,242,408,127,436,3,9,18,20,27,29,33,146,52,30,87,232,149,163,14,78,9,138,77,31,76,25,152,70,76,252
 Available Bandwidth Capacity	6946
 Available Career Pathways Applicants	11314
 Available Crosas	12090
 Available Data Portals Explore	18747
 Available Financial Audits	11863
+Available Financing	18851
 Available Generation Capacity	12062,6124,31
 Available International Bandwidth	6671
 Available Materials Main	16839
@@ -463,13 +468,18 @@ Avalia	11569
 Avaliacao	2228
 Avaliacao Nacional da Qualidade	2228
 Avaliacao Rapida	574
-Avaliar	13,2803,1330,72,7163,1,15,164,8,600,3281,26,50,158,1502,92
-Avaliação	576,1562,646,32,703,699,2244,2941,1369,3,8,593,14,16,7,13,9,6,3,5,2,10,81,15,341,136,3442,33,17,6,3,29,130,272,359,768,54
+Avaliar	13,2803,1330,72,7163,1,15,164,8,600,3281,26,50,158,1502,92,1510,12,1
+Avaliação	576,1562,646,32,703,699,2244,2941,1369,3,8,593,14,16,7,13,9,6,3,5,2,10,81,15,341,136,3442,33,17,6,3,29,130,272,359,768,54,1605,1,14,7
+Avaliação Aferida de Larga Escala	18765
 Avaliação Ambiental	6269,5137
 Avaliação Contínua	16019
 Avaliação Diagnóstica	15564
+Avaliação Educacional	18781
+Avaliação Escolar	18781
+Avaliação Existe	18801
 Avaliação Externa Conjunta	11376
 Avaliação Formativa	15564
+Avaliação Inicial	18801
 Avaliação Nacional da Economia Digital da Guiné-Bissau	11555
 Avaliação Nacional de Risco Cibernético	2784
 Avaliação Nacional de Riscos	15966
@@ -479,12 +489,16 @@ Avaliação Sumativa	15564
 Avaliação da Conformidade	11381,1401
 Avaliação da Conformidade CAPÍTULO I Disposições	12782
 Avaliação da ENDE-1	11526
+Avaliação da Economia Digital	18779
+Avaliação da Estratégia	18788
 Avaliação da Execução	10783
 Avaliação da Governação Digital Local	11451
+Avaliação da Implementação da ENDE	18794
+Avaliação da NDT	18760
 Avaliação da Preparação	5663
 Avaliação de Desempenho	11361,80
 Avaliação de Impacte Ambiental	11390
-Avaliação de Impacto Ambiental	11542
+Avaliação de Impacto Ambiental	11542,7218
 Avaliação de Impactos Ambientais	11390
 Avaliação de Impactos Cumulativos	11406
 Avaliação de Maturidade	14312
@@ -503,6 +517,7 @@ Avancement des Magistrasts	17817
 Avancement. Une	16143
 Avancements Cinquante-neuf	10975
 Avances	15456,1291
+Avances Depósitos Orçamentais	18757
 Avances Officiers	17899
 Avancé	18077
 Avancé Premières	18077
@@ -555,7 +570,7 @@ Avanzar	17094
 Avanzar Technologies Limited	3862
 Avança	15966
 Avançar	15684,5
-Avanços	2816,8571
+Avanços	2816,8571,7407
 Avançou	2821,7967
 Avassa	13711
 Avatar	12478
@@ -878,6 +893,7 @@ Avenida Eduardo Mondlane	11619
 Avenida Ho-Chi-Minh C.P	10760
 Avenida Maguiguana	12207
 Avenida Professor Doutor Cavaco Silva	4938
+Avenida da Independência	18769,2
 Avenids Joso Bermardo Viera CP.n	17111
 Avenir	2366,14016
 Avenir Durable	18322
@@ -937,7 +953,7 @@ Avenue du Mali BP	17841
 Avenue du Mali Hamdallaye ACI	17993,68,28
 Avenues	1161,9680,119
 Averag	17043
-Average	418,164,240,118,30,858,39,73,835,1,634,386,102,630,336,108,273,431,324,100,238,75,258,161,114,25,456,121,267,451,170,90,20,61,236,773,366,263,473,45,1,1,10,5,13,36,15,12,5,9,70,14,9,1,12,28,127,3,58,3,222,132,4,19,14,280,8,7,1,20,51,11,1,6,35,186,60,1,9,35,47,2,21,22,10,14,88,11,143,181,95,38,84,294,114,108,299,839,108,4,17,60,84,17,59,74,19,15,83,125,52,23,24,9,31,39,3,21,30,13,4,92,132,168,131,487,227,82,26,45,32,84,11,1,1,9,23,63,54,78,136,196,44,119,8,7,1,31,53,28,119,14,170,16,45,5,85,16,18,92,113
+Average	418,164,240,118,30,858,39,73,835,1,634,386,102,630,336,108,273,431,324,100,238,75,258,161,114,25,456,121,267,451,170,90,20,61,236,773,366,263,473,45,1,1,10,5,13,36,15,12,5,9,70,14,9,1,12,28,127,3,58,3,222,132,4,19,14,280,8,7,1,20,51,11,1,6,35,186,60,1,9,35,47,2,21,22,10,14,88,11,143,181,95,38,84,294,114,108,299,839,108,4,17,60,84,17,59,74,19,15,83,125,52,23,24,9,31,39,3,21,30,13,4,92,132,168,131,487,227,82,26,45,32,84,11,1,1,9,23,63,54,78,136,196,44,119,8,7,1,31,53,28,119,14,170,16,45,5,85,16,18,92,113,71,33,30,6,2
 Average Annual Growth Rates	18464
 Average Annual Increase	16921
 Average Annual Inter-Censal Growth Rates	18464
@@ -1069,10 +1085,10 @@ Averaged	3583,9469
 Averagely	771
 Averages	10844,7279
 Averaging	11549
-Averbamentos	15396
+Averbamentos	15396,3439
 Averbug D	10780
 Averiguar	167
-Averiguação	15433
+Averiguação	15433,3317
 Averroès Africa	1428
 Averti Paterne	15455
 Avertissemeni	15429
@@ -1099,8 +1115,9 @@ Avgerou	12333
 Aviación Civil	4209,2632,259,603,1,379,70,401,764,3200,4571,288,12,20,17
 Aviación Civil. El Ministerio	14304
 Aviación Civil. En	7100
+Aviano Faria	18855
 Aviat	778
-Aviation	1828,4084,553,5491,966,34,167,177,77,390,709,924,775,1666,162,209,97,51
+Aviation	1828,4084,553,5491,966,34,167,177,77,390,709,924,775,1666,162,209,97,51,427
 Aviation Authority	17157
 Aviation Authority SLCRP The Sierra Leone	18578
 Aviation Authority of Zimbabwe Spanish National Research	1554
@@ -1168,7 +1185,7 @@ Avis-TER-VF-1.pdf	8891
 Avis-biodiversite-FR-V2.pdf	8891
 Avis-biodiversite-FR-V3.pdf	8891
 Avis-littoral-VF.pdf	8891
-Aviso	6,5163,1293,532,3761,613,2,7,9,16,1,1,11,7,6,10,27,117,351,236,672,12,2580,689
+Aviso	6,5163,1293,532,3761,613,2,7,9,16,1,1,11,7,6,10,27,117,351,236,672,12,2580,689,2709,14
 Aviso de Comunicações	11433
 Aviso. ARTIGO	12853
 Aviso. Artigo	16122
@@ -1217,6 +1234,7 @@ Avondale	12495,1187
 Avonl	15397
 Avons-nous	747
 Avont	15429,132
+Avort	18869
 Avortement	15599
 Avotrou	10833
 Avr Le Registre Social Unique du Congo	16283
@@ -1224,7 +1242,7 @@ Avr. Code	8673
 Avr. Loi	8673
 Avr. Loi de Finances	8673
 Avr. Nouveau	8673
-Avril	747,1,457,779,164,548,36,845,843,1334,76,65,34,1691,35,1522,1698,46,1,53,2326,11,1,1,154,221,115,614,7,237,793,24,191,15,27,27,146,318,91,12,3,60,249,2,10,10,11,57,6,795,1,330,8,19,22,56,69,1,62,28,13,1,52,51,1,67,1,19,12,2,36,26
+Avril	747,1,457,779,164,548,36,845,843,1334,76,65,34,1691,35,1522,1698,46,1,53,2326,11,1,1,154,221,115,614,7,237,793,24,191,15,27,27,146,318,91,12,3,60,249,2,10,10,11,57,6,795,1,330,8,19,22,56,69,1,62,28,13,1,52,51,1,67,1,19,12,2,36,26,371
 Avril CPS	18077
 Avril Kaplan The World Bank CAR	10829
 Avril de Bétou	15965
@@ -1243,6 +1261,7 @@ B VÉCU AVEC UNE FEMME	13300
 B. Availability	15604
 B. Resource Availability and Utilisation C. Statistical	13310
 B. Resource Availability and Utilization	13310
+BAD Banco Africano de Desenvolvimento ACP Avaliação	18783
 BAI04 Managed Availability ITGov	9237
 BANCO DE MOÇAMBIQUE Aviso	6462,6391
 BCEAO Avenue Abdoulaye Fadiga BP	10711
@@ -1296,6 +1315,7 @@ CHARGE DES RELATIONS AVEC LES INSTITUTIONS	15676,266
 CHARGES SUR OPERATIONS AVEC LES INSTITUTIONS	18032
 CHARRETTE AVEC ANIMAL	13300
 CHARRETTE AVEC PETITE CITERNE	13300
+CLIQUE AQUI Averbamentos Indeterminado Actos	18835
 CMA Available	17006
 CNS. Avec	17842
 CONDOM UTILISÉ AVEC	13300
@@ -1322,6 +1342,7 @@ Capacity ASSIGNED CAPACITY ACTIVATED CAPACITY AVAILABLE	16942
 Capture Average	17043
 Caractéristique Avec	13300
 Caractéristique Con- Avaient Sont Chaque Une	13300
+Carne de Aves	18757
 Cell Avenue	6008
 Centrafrique. Avant	2071
 Centrafrique. Avec	15686
@@ -1567,6 +1588,7 @@ Elections. Avant	2817
 Electricité ASC Avances Sur Consommation BAD	10975
 Electricité Avant-propos	10975
 Electronic Search Available for All Company Records	12389
+Eletricidade Avenida	18793
 Elgin Avenue George Town	7198
 Elvis K. Avenyo	11149
 Elvis Korku Avenyo	11149
@@ -1781,6 +1803,7 @@ Instrumentos de Avaliação da Prontidão	11394
 Integrity and Availability	8897
 Intelligence. Available	2518
 Interest Rates Average	17235
+Intermediate Level Indicators Average	18825
 International Average Calling Time	15136
 International Civil Aviation	14409,323
 International Civil Aviation Air Services Agreement	11185
@@ -1812,6 +1835,7 @@ Jan. Fév. Ma. Avr. Mai Juin	16714
 Janvier Février Mars Avril Mai Juin	15670
 Japão Sim Avançado Sim	2816
 Johannesburg Availability Zones	376
+Jorge Eduardo Avalos Team Member Productive	18809
 Judicial Training Institute Availability	16943
 Julius Nyerere Avenue	14847
 July. Available	11133
@@ -1908,6 +1932,7 @@ MIT Press. Available	12090
 MODALITES D'INTERCONNEXION AVEC LES RESEAUX FIXES	15394
 MONITORING Availability	16892
 MONITORIZAÇÃO E AVALIAÇÃO	17093
+MONITORIZAÇÃO E AVALIAÇÃO DA ESTRATÉGIA	18788
 MPRENSA NACIONAL DA GUINÉ-BISSAU Avenida	11544
 MTEN Avez-vous	3658
 MTN Group Available	9871
@@ -1925,6 +1950,7 @@ MWc STATUT Avis	15670
 Mac. Available	13461
 Madagascar. Avec PROFI	13802
 Madison Ave	13143
+Maintenance Average	18787
 Maison. Avec	3465
 Making Available of Additional Spectrum for Operation of IMT	14825
 Making Broadband Services Available	16884
@@ -1960,6 +1986,7 @@ Merveille Manuella Ngoufack Tsafack. Avant	2513
 Meta. Available	13461
 Method Availability	10881
 Metodologia de Avaliação	15962
+Metodologia de Avaliação da Prontidão	18796
 Metodologia de Avaliação da Prontidão RAM	2816
 Metodologia de Avaliação de Prontidão	6926
 Metodologia de Avaliação de Prontidão de IA da UNESCO	2816
@@ -1980,6 +2007,7 @@ Mme. Frédérique AVOME ANGUE OLIVEIRA	16099
 Mobility54. Available	12376
 Model Mandatory Disclosure Rules for CRS Avoidance	11233
 Modelo Nacional de Avaliação	11451
+Modelo de Avaliação da Maturidade	18801
 Moi Avenue P.O. Box	12256
 Moins Avancés	8237,6667,1717,6,1246,110,122
 Moins Avancés PNA Plan National Adaptation	17873
@@ -2052,6 +2080,7 @@ November. Available	11133,776
 Number of Type Approved Equipment Average Approved	12395
 NÉGOCIER DES RAPPORTS SEXUELS AVEC LEUR	13300
 NÍVEIS PRÉ-DEFINIDOS DE AVALIAÇÃO DE COBERTURA	11531
+O AVC	18875
 O Avant	17858
 O Certificado de Avisadores Luminosos	15307
 O LA EN ERGY Avis	18322
@@ -2061,12 +2090,14 @@ OBTENU LE CONSENTEMENT ET CONTINUEZ AVEC	13300
 ODK Briefcase. Avant	13375
 OECD Publishing. Available	11133
 OLAVO AVELINO CORREIA VICE PRIME MINISTER	16219
+OMS Avenue Appia	18783
 ONECI. Avec	3762
 OPERATEURS IV. SECTEUR AVAL DES HYDROCARBURES	18322
 OPERATIONS AVEC L’ETRANGER	17833
 OU AVOIRS ILLICITES Art	18327
 Objet Avis	16395
 Oct-25 Annual Average	13060
+Official Use Only Average	18817
 Offres National Avis	15449
 Olavo Avelino Garcia Correia	11901,3532,71,22,46,340,226,81
 Olavo Avelino Garcia Correia Promulgado	15440
@@ -2129,6 +2160,7 @@ PRENDRE CONTACT AVEC SES SERVICES	15970
 PRODUITS SUR OPERATIONS AVEC	18032
 PSC Avaliacao Laboratorial HIV Contem	966
 PUIS CONTINUEZ AVEC	13300
+Painel de Avaliação Técnica Independente	18781
 Palais de Ia Nation. Avenue Roi Baudouin	15584
 Park Avenue	11372
 Parlement Avec	10576
@@ -2146,6 +2178,7 @@ Percentage Distribution of Average Household Size	16921,193
 Percentage of Average	15845
 Percurso Avaliativo	11419
 Performance Organisational Average	11131
+Period Average	18823
 Period Average Exchange Rate	17235
 Period Averages GHC	17235
 Personnel. Avont	15429
@@ -2189,6 +2222,7 @@ Proof of Identity Documents Available	17870
 Proposants Avis Spécifique de Passation de Marchés	13555
 Province Avez-vous	13390
 Présence Nationale Avec	16214
+Príncipe OACI Organização da Aviação Civil Internacional	18779
 Public Online Availability of Detailed Criteria and Steps	12389
 Public Online Availability of Requirements Needed	12389
 Public Procurement Authority’s Average Price Database	15845
@@ -2232,6 +2266,7 @@ RELATION AVEC LES ACTEURS INSTITUTIONNELS	15670
 RELATIONS AVEC LE RESEAU NATIONAL ARTICLE	13809
 RELATIONS AVEC LES INSTITUTIONS	15973,126,76,206
 RELATIONS DE LA BNR AVEC D’AUTRES	15102
+RELATIONS ECONOMIQUES AVEC EXTERIEUR	18757
 RELATÓRIO DA AVALIAÇÃO NACIONAL DE RISCOS	2784
 REPÚBLICA DE ANGOLA Avaliação	11376
 REQUISITOS DE MONITORIZAÇÃO E AVALIAÇÃO	11406
@@ -2247,6 +2282,7 @@ RL Avis	18322
 ROBERT MUGABE AVENUE WINDHOEK YOURS FAITHFULLY	12400
 Raisons Pertinence Avec	15936
 Rate Available	16960
+Realização de Avaliação da Implementação da ENDE	18794
 Recognise. Avoid. Respond. Recognise	10725
 Recomendações da Avaliação	10750
 Recouvremet des Avoirs Saisis	6959
@@ -2265,7 +2301,10 @@ Reino Unido Sim Avançado Sim	2816
 Relatório da Avaliação Nacional de Riscos Cibernéticos	2784
 Relatório da UNESCO de Avaliação	2816
 Relatório da UNESCO de Avaliação de Prontidão	2816
+Relatório de Avaliação da Implementação da ENDE	18794
 Relatório de Avaliação de Prontidão	2816,4079
+Relatório de Avaliação de Prontidão12 São Tomé	18796
+Relatório de Avaliação de ProntidãoPublished	18796
 Reparación de Aviones	4209
 Republic of Angola Average	11417
 Republic of South Africa. Aviation	12922
@@ -2278,6 +2317,7 @@ Resources Availability and Utilisation	13310
 Resources Availability and Utilisation Norm Average Score	13310
 Responsables Coût Avec	14488,1
 Responsibility for Data Collection The MOH Average	11417
+Resultados da Avaliação da Maturidade da Gestão	18801
 Reuven Avi-Yonah	14932
 Rev SMP Prévisions Avoirs	18063
 Revenu Avoirs Inchangé Augmenté Diminué Inchangé	737
@@ -2415,6 +2455,8 @@ System Average Interruption Frequency Index SS	12358
 Système de Comptage Avancé	1993
 Systèmes de Comptage Avancé	1993
 SÍNTESE DA AVALIAÇÃO DA IMPLEMENTAÇÃO	15535
+SÍNTESE DA AVALIAÇÃO DE IMPLEMENTAÇÃO	18794
+São Tomé Avenida Kwame N’krumah	18789
 Séance Avant	14488,1,1
 Sécurité Publique Avec	13445
 Sénégal. Avec	4924,13392
@@ -2483,6 +2525,8 @@ Types of Sex-disaggregated Data Available Online	12389
 Téla Nón Aviso de Concurso 43GDescarregar Related Items	6172
 U M Avis	18322
 U SSO Avis	18322
+UAE and Germany Explore Avenues	18759
+UAE's General Civil Aviation Authority	18759
 UEMOA. Avec	10344,5549
 UGPE Coordinator Avenida Amilcar Cabral	16493
 UNDER NOT OFFICIALLY AVAILABLE DEVELOPMENT PLANNED	16942
@@ -2499,7 +2543,7 @@ United Nations Avenue	4154
 United Nations Children’s Fund. Available	15411
 United Nations. Available	11133
 Univ of Aveiro	3004
-Universidade de Aveiro	3530,1408,6627,1
+Universidade de Aveiro	3530,1408,6627,1,7201,5,32,3,1,6
 University of Aveiro	3004
 University of Chicago Press. Available	12090
 Université Abdou Moumouni de Niamey. Avec	18121

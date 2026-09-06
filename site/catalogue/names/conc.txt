@@ -45,9 +45,10 @@ Accord de Prêt Concessionnel Gouvernemcntal	15399
 Action Concrète	15287
 Action-Taken Report and Conclusion	13336
 Activists Flag Security Concerns By Tetee	6166
-Actual Date Concept Review	11924,6038
+Actual Date Concept Review	11924,6038,863
 Address Ethical and Privacy Concerns	12675
 Addressing Growing Surveillance Concerns	14190
+Adjudicatário Provisório Concorrente	18753
 Adverse Conclusion	4896
 AfCFTA Secretariat. Under the Concession Agreement	9255
 Affordability Concerns Persist	4182
@@ -60,7 +61,9 @@ Aims and Concerns II Introduction Kenya	17745
 Aims and Concerns III. THE STATE	17745
 Al-Qantara Center Concludes Entrepreneurship Program	5322
 All Concluded Unsolicited Bid Proposals	11250
+Alteração DO Processo de Concurso	18753
 Aménagement Concerté	18286
+Anexos Conceitos População Estatística	18775
 Anúncio de Concurso Público O Escritório	8474
 Arbitration and Conciliation Act	11861
 Arrêté de Concession Définitive	15936
@@ -336,6 +339,7 @@ Common Concerns and Challenges	14964
 Compendium of Concepts and Definitions	13359
 Competition Concentration	961
 Complaint Concerning Violation	5113
+Comunicação Apreender Lembrar Concentrar Aceitar	18762
 ConCourt	12591,28,2074
 ConCourt Establishing	12591
 Conakry. Concernant	16627
@@ -352,16 +356,21 @@ Concebida	15344
 Concebido	9694
 Concede	11372
 Concedente	15526
-Conceder	10754,1,4748,23,563
+Conceder	10754,1,4748,23,563,2662,49
 Concedida	11901
-Conceito	11555,346
+Conceito	11555,346,6873
+Conceito de Comércio de Câmbios Entende-se	18750
 Conceito de Estudante Internacional	17103
-Conceitos	11413,35,4116,761
+Conceito de Interoperabilidade	18774
+Conceito de Interoperabilidade Interoperabilidade	18774
+Conceitos	11413,35,4116,761,2449,1
 Conceitos Objetivos de Aprendizagem	15564
+Conceitos-chave	18779
 Conceituar	15564
 Conceived	3150
 Concelhias de Finanças	16056
 Concelho	15380,70,606
+Concelho Administrativo	18876
 Concelho OnLine	15593
 Concelho de Direção	10752
 Concelhos	16056
@@ -408,7 +417,7 @@ Concept Note for Zimbabwe's National Research Policy	1554
 Concept Note. Page	10819
 Concept Paper	13960
 Concept Project Information Document	12253,3260
-Concept Review	12980,3634
+Concept Review	12980,3634,2140
 Concept Review Decision	12426,243
 Concept Review Decision Review Authorize Negotiations	16436
 Concept Selon	17945
@@ -610,7 +619,7 @@ Concessions de COMASEL	18322
 Concessionária	11443,4083
 Concessionária Geral	15526
 Concessionária Nacional	11405
-Concessão	11384,21,25,84,13,374,3487,138
+Concessão	11384,21,25,84,13,374,3487,138,3224,28,22,35
 Concessão de Asilo ARTIGO	11365
 Concessão de Crédito	11386
 Concessão de Direitos Fundiários	11408
@@ -637,6 +646,7 @@ Conclave of Chiefs of Armies of African Nations	18016
 Conclaves	18691
 Conclit	15399
 Conclu	13524,3205,709,30
+Conclua	18845
 Concluant	6600,2332,7701
 Conclude	11246,709,1098,3958
 Concluded	906,10292,3579,2194,286,181
@@ -653,7 +663,7 @@ Concluding Reflections While AI	17771
 Concluding Remarks	5655,9589,2626
 Concluding Strategies for FDP Economic Empowerment	10841
 Conclue	4549
-Conclui-se	10780
+Conclui-se	10780,8004
 Concluir	1701,9675,4069
 Concluiu	10777
 Concluiu-se	15956
@@ -797,27 +807,42 @@ Conclusions and Way Forward Somalia	15164
 Conclusions du Conseil des Ministres	18227,11
 Conclusive	15762
 Conclusiveness	14717
-Conclusão	2784,32,6360,2358,35,3966,1612
+Conclusão	2784,32,6360,2358,35,3966,1612,1613,7
+Conclusão Anexos Anexo	18760
 Conclusão Taxa Líquida de Escolarização Taxa de Transição	10766
 Conclusão da Operação	15388
 Conclusão de Processo	11452
 Conclusões	11461,100,1,7,573
-Concluída	10747,626,15,513,958,2537,37,549,18
+Concluída	10747,626,15,513,958,2537,37,549,18,2750,11
 Concluído	5462,11757
 Concluídos	11430
 Concomitamment	737,261,14903
 Concomitant	11149
 Concomitantemente	15440,452
 Concomitantly	961,15653,260
+Concor	18753
 Concord	11155
 Concord Times	3895,5785,1971
 Concorda	16262
+Concordamos	18784
 Concordance	18697
 Concordaram	11564
 Concorde	18227
 Concorde Co-operative Savings and Credit Society Limited	7167
 Concorde Edition	18227
 Concordia	2540
+Concorren	18753
+Concorrente	18753
+Concorrente A Proposta	18753
+Concorrente Anexo	18753
+Concorrente Potencial Investidor	18753
+Concorrente Qualificado	18753
+Concorrente Qualificado Potencial Investidor	18753
+Concorrente. Por	18753
+Concorrentes	18753
+Concorrentes Qualificados	18753
+Concorrentes. Artigo	18753
+Concorrentes. Estas	18753
 Concorrência	11380,45,106,4153,1676
 Concorrência ARC	10779
 Concorrência Nacional	17360
@@ -883,10 +908,19 @@ Concurrent Power of Taxation	13948
 Concurrently	1828,931,417,407,864,206,594,1755,202,1924,488,236,916,73,370,1395,239,132,76,42,590,749,310,1,184,68,132,596,786,717,57
 Concurrently Maintainable Tier III	9123
 Concursal	4557
-Concurso	14,1,11414,50,41,1330,2583,705,1170
+Concurso	14,1,11414,50,41,1330,2583,705,1170,1445,2,6
+Concurso Inovação STARTUPS	18769
 Concurso Por	17103
-Concurso Público	11619,3769
+Concurso Público	11619,3769,3365
 Concurso de Crime	3519
+Concurso. A Garantia da Proposta	18753
+Concurso. Artigo	18753
+Concurso. Cada Concorrente	18753
+Concurso. Conterá	18753
+Concurso. Note-se	18753
+Concurso. Os	18753
+Concurso. Os Concorrentes	18753
+Concurso. Por	18753
 Concursos	15388,1467
 Concursos Públicos	17100
 Conduct Review of Resource Bureau of Concessions Year	17260
@@ -1131,6 +1165,7 @@ GP Training The Public Procurement and Concessions	17304
 GRAL. DESERVICIOS.- Concepto	4209
 Gabon. Conclu	16423
 Gambian Standard for Processed Tomato Concentrate	16900
+Garantia da Proposta. O Concorrente	18753
 Gender Concern	18512
 Gestão Concedendo Licença	16290
 Ghana Kenya Uganda Conclusion	10822
@@ -1357,6 +1392,8 @@ Nombre Des Concessionnaires	13500
 Number of Cases Concluded	11131
 Níveis de Interoperabilidade Conceptualmente	11371
 O Concedente	15526
+O Concorrente	18753
+O Concurso	18753
 OE LA CONCURRENCE SECTION	15429
 OFICINA INFORMAC. DIPLOMAT.- Concepto	4209
 OHS Concerns	17114
@@ -1373,6 +1410,8 @@ Office PPCC Public Procurement and Concession Commission	16970
 Opération Domaniale Concertée	14598
 Organe Stratégique de Concertation	18100
 Organe Stratégiquede Concertation	18100
+Os Concorrentes	18753
+Os Concorrentes Qualificados	18753
 Ouest CER Concessions	18316
 Ouest Note Conceptuelle Réunion	17324
 Ouest. Concernant	998
@@ -1419,6 +1458,7 @@ Personnes Concernées	15901
 Persons of Concern	1988,10157,6397
 Plataforma de Concertação Técnica Regiões	11587,5447,291,87
 PoC Proof of Concept PPP Public-Private Partnership	4126
+Poder Concedente	18778
 Porto Novo. No Concelho de Ribeira Grande	15755
 Potential Interests and Concerns of Different Disadvantaged	17099
 Pre-Emptive Concessions The Brussels Effect	17780
@@ -1432,14 +1472,23 @@ Privacy Concerns	14524
 Privacy Concerns Government	16923
 Problemas Concretos	8827
 Procedimento de Concurso Público	4556,1
+Processo de Concurso	18753
+Processo de Concurso. Antes	18753
+Processo de Concurso. Artigo	18753
+Processo de Concurso. Estes	18753
+Processo de Concurso. Neste	18753
+Processo de Concurso. Não	18753
+Processo de Concurso. Os Concorrentes	18753
 Project Concept Note	13731,1693,1690
 Project Conceptual Note PCU Project Coordination	13731
+Projecto. DO USO DE CONCEITOS VAGOS	18784
 Projet. Conclusion	1005
 Proof Of Concept	14539,1
 Proof of Concept	5409,178,1051,540,14,2822,945,3620,150,1871,534,1190
 Proofs of Concept	18399
 Proposta de Lei da Concorréncia Nacional	17312
 Proposta de Lei da Concorrência Nacional	17360
+Propostas Financeiras Finais. O Concorrente	18753
 Prosperity Insight Conclusions	10785
 Provisions Concerning Closely Held Companies	3714
 Proyecto de Concierto Educativo	4209
@@ -1618,6 +1667,7 @@ Tanzania Instant Payment System Proof of Concept	14282
 Team Concludes Strategic Visit	4271
 Telcables South Africa Conclusion	4993
 Terms and Concepts	12164
+Titular Concorrente	18753
 Town Planning Schemes for Cairo Conceived	15473
 Téla Nón Aviso de Concurso 43GDescarregar Related Items	6172
 Título NC Conceptos Liquidac. Liquidac. Liquidac	4209
@@ -1638,6 +1688,7 @@ Ucrânia. Concebemos	1948
 Uganda Kenya Uganda Conclusion	10822
 Uganda Kenya Uganda Conclusion Legal	10822
 Uganda Kenya Uganda Conclusion Uganda	10822
+Um Concorrente	18753
 Um Relatório de Conclusão	11898
 Un Concept Mal Défini OU Mal	17945
 Under the Extended Credit Facility Arrangement and Concludes	13741
@@ -1667,6 +1718,7 @@ VIII. Conclusion South Africa	6832
 VIII. Conclusions	3583
 VIII.1. Conclusion	18310
 VIII.1. Conclusion La Mission	18310
+VISÃO Conciliar	18793
 VIVIENDAS Y URBANISMO Cuentas CONCEPTO	4209
 Vaccination Min Santé Concernant	17844
 Validate Concept	17116

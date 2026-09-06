@@ -21,9 +21,11 @@ Dec-2029 TF-C9269	13058
 Digital Market Supply TFDE	14932
 Disbursed TF-B2030 Closed	17904
 ECOWAS Community TFA	17367
+Education TF Trust Fund TGE	18765
 El Mourtada Ould Tfeil	18051
 Exploratory TFGBV Study of Survivor Narratives	17771
 Feb-2028 TF-C3630 Effective	17096
+GPE Grant TF16391	18765
 GRANT NO. TF0B6810-KE	14546
 GRANT No. TF092930	16614
 GRANT TF-19374	17849
@@ -49,6 +51,7 @@ Mme Tfeilaa Mohameden Haden	17994
 OASIS Standard ITI TF-2b	1009
 Occup Sous- Sous- Chômeu Taux TF	737
 Oct-2030 TF-C5652	15737
+Official Use Only TF-B8649 Effective	18817
 Procurement STI Sexually Transmitted Infection TFP	10829
 Procurement TF Trust Fund UHC Universal	16922
 Program TF Trust Fund UNHCR United	17849
@@ -67,19 +70,20 @@ Southern African Development Community TFP Trade	12951
 TDR TFG TGF TIP TLF TMPF	10777
 TF IBRD-90020 Status Effective Approval	11395
 TF IDA-67920-001	11965
+TF IDA-D3080 Status Effective Approval	18792
 TF Inacti	737
 TF LEGAL TBL1 Description Status Action	1284
 TF Money	14997
-TF Number	10779,3071,1038,1726,346
+TF Number	10779,3071,1038,1726,346,1794
 TF Risk Assessment Report	14774
 TF Rpeak	9475
 TF Status Approval Date Signing Date	15619,1019,1835
 TF Status Approval IBRD-96930 Effective	6579
-TF Status Approval Signing Effectiveness Orig	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179
+TF Status Approval Signing Effectiveness Orig	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179,283
 TF Status Currency Original Revised Cancelled	15619,1019,1835
 TF Status IBRD-96930 Effective Original Revised	6579
 TF Status Original	11395
-TF Status Original Revised Cancelled Disbursed	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179
+TF Status Original Revised Cancelled Disbursed	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179,258,25
 TF TF	737
 TF Total Committed	12980
 TF Trust Fund UN United Nations	16384
@@ -102,6 +106,7 @@ TF-B6576	15531,452
 TF-B6853	15531,452
 TF-B6885	15531,452
 TF-B8338	16032
+TF-B8649 Effective	18817
 TF-C1620	16891
 TF-C1620 Effective	17000
 TF-C3623 Effective	17096

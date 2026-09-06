@@ -1,8 +1,11 @@
 AACB AML BCM BIS CAF CBE	11131
 AF ALCP Anti-HBc ARV BCG CAPI	10777
+AFAP Project Fiduciary and Administrative Agency BCR	18809
+AFAP and BCSTP	18792
 AFG BANK BCI MALI BDM BIM	11588,6682
 AM BCC BOMS CAR CERC CIFS	15658
 ASYCUDA Automated System for Customs Data BCC	18577
+ATS Automated Transfer System BCSTP Banco	18825
 AUDIENCE DU GOUVERNEUR DE LA BCEAO	2556,995,1106,1302,1374
 Abandon BCG	16722
 Acronyms and Definitions BC Birth Certificate CSOs	12328
@@ -181,6 +184,15 @@ BCRs. Processors	12302
 BCS EUR	253
 BCS Group	651
 BCS Ltd	15136
+BCSTP	18749,12,9,22,2,3,3,23,2,22,4,2
+BCSTP Artigo	18761
+BCSTP Banco Central de São Tomé	18779
+BCSTP Board of Directors	18823
+BCSTP Líquido	18798,55
+BCSTP O BCSTP	18761,33
+BCSTP. Artigo	18761
+BCSTP’s Core Banking System	18825
+BCSTP’s FY2025	18823
 BCT-Lab	10692
 BCT. Organizational	17751
 BCV Os	11933
@@ -293,6 +305,7 @@ BEAC and BCEAO	6938
 BIDF KCB CRDB BCAB BIJE Aucune	13390
 BIDF KCB CRDB BCAB BIJE Population	13390
 BTS BREVET DE TECHNICIEN SUPERIEUR BX BC	18143,27
+Banco Africano de Desenvolvimento BCSTP	18794
 Banco BAI Cabo Verde BCA	17032
 Banco BCS	13275
 Banco BCS and Mastercard	13275
@@ -351,6 +364,7 @@ CFT BCM BIS CAR CBE CBDC	11134
 COVID-19. The BCEAO	17870
 CSP CSP CSP BCR-	9123
 Central African Economic and Monetary Community. BCEAO	9593
+Central Bank of São Tomé and Príncipe BCSTP	18797
 Central and Southern Africa. BCS	651
 Cognisance des Banques BANCOBU BCB IBB ECOBANK	13390
 Comoros. BCC	1854
@@ -374,7 +388,9 @@ Ethiopia AFE BCP ABBREVIATIONS AND ACRONYMS	12500
 Europe BAC Brikama Area Council BCC	16884
 Expanding Financial Inclusion BCRG Governor Karamo	8082
 Financial Calculation The BCEAO	10929
+Financial Inclusion. BCSTP	18825
 Financing Law BCPFS	16032
+Foreign Exchange BCSTP	18797
 G Mixed Use SFF BC	12681
 G. ROLE DE LA BCD	13838
 Groupe BCP	6883
@@ -385,11 +401,13 @@ ID and BCs	12328
 ID. CSOs and NGOs BCs	12328
 IDs and BCs	12328
 IMPRIMERIE BCEAO	4459
+Improved Capacity of BCSTP	18825
 Initial Participation Falls Short The BCEAO	10929
 Interface AWS Amazon Web Services BCP	6432
 Interior BCP Business Continuity Plan PKI	1000
 Isa. BCF	15474
 Issuance of Budget Call Circular The BCC	18488
+Key BCSTP	18792
 Kicukiro CSOs and NGOs BCs	12328
 L'INDUSTRIE GUINEE SA BCI GUINEE SA	16623
 La BCC	6146,4017,7477
@@ -399,6 +417,7 @@ La BCRG	10479,6266
 La Bceao	3259,318,73,2342,1277
 Lack of BCs	12328
 Le Groupe BCP	6883
+Licenciamento O BCSTP	18761
 List of Abbreviations BCMS	12961
 List of Abbreviations and Acronyms BCC Budget Call	18512
 MEDD BC	15580
@@ -412,6 +431,7 @@ Modibo SIDIBE BCEAO	17817
 National Director of BCEAO Ms. Cassama	17209,117
 Numérique BAD Banque Africaine de Développement BCEAO	15583
 O BCEAO	11569
+O BCSTP	18761,68
 O BCV	15450,85
 Ouest BCDF Bureau Communal du Domaine	10876
 Ouest BCI	18291
@@ -419,6 +439,7 @@ Plateforme. La BCEAO	16259,1959
 Pour la BCC	17640
 Pour la BCEAO	10711
 Press Council and BCCSA	13461
+Producer BCSTP Banco Central de São Tomé	18851
 Production du BCEAO	18291
 Rapport Annuel 2025 BCEAO vf.pdf	7595
 Rapport BCEAO	17945
@@ -434,6 +455,7 @@ SOLAR ERP. BCX	11231
 Selon la BCRG	10479
 Selon la Bceao	5436
 Silenou BC	10919
+Sistema Nacional de Pagamentos O BCSTP	18761
 Solidarité des Marchés du Bénin BCEAO Banque Centrale	4459
 Statistique BAD Banque Africaine de Développement BCEAO	15479
 Statistique BCM	17844

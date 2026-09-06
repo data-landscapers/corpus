@@ -1,7 +1,9 @@
+AA RECENSEAMENTO INE DE ESTATISTICA	18802
 AFOGO INEGE Jefa de Servicio de Planificación	16875
 AGRADECIMENTOS O INE	10757
 AIRE INE ABD-STITUTORY APFAIRS CARD INDEX	15999
 AKAPO INEGE	16898
+Agricultura INE	18794
 Anual INEGE	16898
 Ao INE	15450
 ArcGIS Pro Advanced INEGE	16898
@@ -13,6 +15,7 @@ August. The INE	8707
 Automating Inequality	11156
 Avoiding Ineligible Expenditures	18500
 Banco Nacional de Datos INEGE	16898
+Besides INE	18777
 Bm. Inexistente	11556
 C INEO ENERGY	16623
 CA de INEGE	16898
@@ -74,7 +77,7 @@ GDPand Inequality	1828
 Gender Gap Index. Inequality	18301
 Gender Inequalities Index	16951
 Gender Inequality	13332
-Gender Inequality Index	10829,757,1728,1722,479,143,3,64,659,565,17,996,496
+Gender Inequality Index	10829,757,1728,1722,479,143,3,64,659,565,17,996,496,351
 Gender Inequality Index GMD	16951
 Gender Inequality Index Government of Congo Green	15553
 Gender Inequality Index UN Human Development	11004,960
@@ -96,6 +99,7 @@ IACN INEGE	16898
 IACN INEGE AFRIST	16898
 IACN INEGE AFRISTAT	16898
 IAPC INEGE	16898
+ID IDA International Development Association INE	18825
 IDD09 Ines Melissa Emma Attoua Team	1284
 IIMS IMC INE INIS IPG IRA	10777
 IMF International Monetary Fund INE Instituto	11380
@@ -105,11 +109,18 @@ INE Angola	4044,2947
 INE Avaliar	11422
 INE Census	115
 INE Côte D	17360,1
+INE DE ESTATISTICA M	18802
 INE GE GEEPS YNG	16898
 INE GE GEEPSYNG	16898
+INE GRÁFICO1	18757
 INE ID	9441
+INE Instituto Nacional de Estatística INIC Instituto	18779
 INE Instituto Nacional de Estatísticas	10765,10
+INE Milhões Dbs	18757
 INE Moçambique	9441
+INE NACIONAL RECENSEAMENTO DE ESTATISTICA ESTATlSTICA	18802
+INE National Institute of Statistics	18777
+INE O INE	18794
 INE OE Objetivo Estratégico OPEO	15535
 INE Plano de Acção Nacional de Educação Para	10766
 INE SurFviegyuorneE2x.p1e5nd	10763
@@ -121,6 +132,7 @@ INE de Angola	11423
 INE de España	16898
 INE de Luanda	5150
 INE de Portugal	11423
+INE de São Tomé	18763
 INE's Board of Directors	16189
 INE- Multidimensional Poverty	10765,10
 INE-AO	11423
@@ -130,6 +142,7 @@ INE-Instituto Nacional De Estatísticas	11422
 INE-STP	3048
 INE. Anália Nunda da Silva	10758
 INE. Dez	4086
+INE. Legenda	18801
 INE. Luanda	4044,6713,664
 INE. O REMPE	10757
 INE. Ultimately	17007
@@ -277,7 +290,7 @@ Inensus	18103
 Ineo Energy	15426
 Ineo Engineering	15426
 Inequalities	1988,8841,366,895,188,2619,3544
-Inequality	1264,564,2906,2098,116,2811,967,53,184,22,286,254,330,814,254,2136,352,855,626,611
+Inequality	1264,564,2906,2098,116,2811,967,53,184,22,286,254,330,814,254,2136,352,855,626,611,1306
 Inequality Index	14897
 Inequality Innovation Gender Index Global Index	13358
 Inequality Productivity	1828
@@ -308,13 +321,14 @@ Inexistence	10712,2578,2252,170,224,692,1254
 Inexistence Insalubrité	14488,1,1
 Inexistencia	16898
 Inexistencias	16898
-Inexistente	11556
+Inexistente	11556,7245
 Inexistindo	11363
-Inexistência	549,14971,52
+Inexistência	549,14971,52,3222
 Inexécution	10836,4533,4
 Inezincwadi	11551
 Ineﬃcient	15658
 Informes de Comercio Exterior INEGE	16898
+Inovação Educativa INE Instituto Nacional de Estatística	18788
 Instituições de Crédito INECV	17032
 Instituições de Ensino Superior INE	11387
 Institutional Inertia	11265,5874
@@ -348,7 +362,7 @@ Nacional Quinquenal INEGE	16898
 Nacional de Saúde. INE Instituto Nacional de Estatística	11543
 Nigerian INEC	2339
 Négatif Inexistence de Environnement	14488,1,1
-O INE	6461,2240,2056,1,663,1,1,23,3,67,61,1193,2680,85,304
+O INE	6461,2240,2056,1,663,1,1,23,3,67,61,1193,2680,85,304,2910,45
 O INECV	5578
 O Presidente de INE-GB	17012
 Official INEC	3154
@@ -374,6 +388,7 @@ REMPE INE	10757
 RGÃOS DELEGADOS DO INE Artigo	11516
 Radio Television All Three Inequalities	18441
 Raissa Ines MABIKA	16381
+Recenseamento INE	18791
 Recognised By INEC	2355,176,4,1,56,3,339,96,901,1006,1761,673
 Reduced Inequalities	3745,8110,1109
 Reduced Inequalities Goal	11332
@@ -388,8 +403,10 @@ SCN2008 INEGE BM	16898
 SDG10 Reduced Inequalities	13327
 SEN INEGE Implementación	16898
 SPE GRH GTIC INADE INE INEE	10766
+STP. INE	18777
 SUBSCRIBERS INENTIFICATION AND REGISTRATIONS	18452
 SYSTEMS GUINEE INEO	16623
+Serviço INE Instituto Nacional de Estatística GUE	18775
 Socioeconomic Inequality Mitigation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Socioeconomic Inequality Mitigation Decent Housing Food	10837,1315,188
 Software ArcGIS Pro Advanced. INEGE	16898

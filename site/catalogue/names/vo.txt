@@ -357,6 +357,7 @@ Data Overtakes Voice	8646
 Data Voice	582
 Data Volume	5665
 Data Volumes	6671
+De Volta	18781
 Deal Volume	4972
 Deal Volume Deal	4972
 Deals VENTURE DEBT DEAL VOLUME	4972
@@ -413,6 +414,7 @@ EU EOM. Voter	10017
 EU FLEGT Voluntary Partnership Agreement	16848,5,4
 EU FLEGT Voluntary Partnership Agreement AIDE	16848,9
 EUR for Vodafone Group	8037
+EVOLUÇÃO DO VOLUME DE TRÁFEGO EM	18791
 EXIGEZ VOTRE FACTURE ELECTRONIQUE CERTIFIEE	7346
 EXISTENCE DE PROJETS STATISTIQUES Q4.1 Votre	18169
 Early Voluntarily Retirement Scheme	12922
@@ -450,6 +452,8 @@ Enhancing Women’s Voice and Agency and Engaging Men	13331,5125
 Enriching Voyage	2367
 Entrepreneurial and Vocational Education and Training	13060
 Equatorial Guinea’s Second Voluntary National Review	17101
+Escalão de Volume de Negócio	18775
+Escalão de Volume de Negócio Remuneração Média Mensal	18775
 Estimates Carbon Tax Volume Specific	17105
 Eswatini Mobile Network Voice Traffic ANNUAL	12395
 Eswatini Mobile Voice Traffic ANNUAL INFORMATION	12395
@@ -1149,7 +1153,9 @@ SCHEDULE REGION CONSTITUENCY VENUE NATIONAL VOTERS	13046
 SECTION V DES VOIES DE RECOURS	15397
 SERVICE VOIX ET SMS Nombre	13586
 SERVICES MOBILES DE TEST SI VOUS	13300
+SERVIÇO DE VOZ FIXA	18791
 SERVIÇO DE VOZ Verificou-se	11556
+SERVIÇO VOZ EM	18791
 SI VOUS NE POUVEZ DÉTERMINER SI	13300
 SIGNEZ ET INSCRIVEZ N VOTRE	13300
 SIGNEZ ET INSCRIVEZ NUMÉRO D'AGENT VOTRE	13300
@@ -1270,6 +1276,7 @@ TRAFIC VOIX OFF-NET INTERNATIONAL	15707
 TRAFIC VOIX OFF-NET NATIONAL	15707
 TRAFIC VOIX ON-NET	15707
 TRO UNICEF USAID VHB VIH VOP	10777
+TRÁFEGO DO SERVIÇO DE VOZ MÓVEL	18791
 TSA Algérie VOLZ	4277
 TV Interactive Television IVR Interactive Voice	14965
 TVET Context The Technical and Vocational Education	16942
@@ -1459,6 +1466,8 @@ VOLREP	13769,4
 VOLTA Disaggregation	582
 VOLTRO By Falkenherz	15323
 VOLUME	11955,2020,1526,2367
+VOLUME FOB	18757
+VOLUME FOB Tonelada Tonne	18757
 VOLUME FOUR NO	16935
 VOLUME GLOBAL DE TRÁFEGO DE VOZ	11531
 VOLUME HORAIRE ANNUEL	18099
@@ -1477,6 +1486,8 @@ VOLUNTARY RESOLUTION OF DISPUTES	3714
 VOLUNTARY RESOLUTION OF DISPUTES Alternative	3714
 VOLUNTAS	2093
 VOLUTION DES SERVICES FINANCIERS NUMÉRIQUES DANS	4459
+VOLUTION MENSUELLE DE L' INDICE DES	18757
+VOLUTION MENSUELLE DU TAX D'INFLATION ACCUMULÉE	18757
 VOLUTION RÉCENTE DE L'ÉCONOMIE ET PERSPECTIVES	18063
 VOLUTIONS	7655
 VOLUtIONs	7655
@@ -1566,6 +1577,7 @@ Vocabulary Part	11269
 Vocabulary RS ISO	15027
 Vocabulary-Augmented Prompting for Sango	16358
 Vocabulary. Defines	11269
+Vocabulários	18774
 Vocal	4209
 Vocal Carnatic	14742
 Vocal Consejo General de Justicia Secretario Consejo	4209
@@ -1611,6 +1623,7 @@ Vocational and Technical Education	16852,123
 Vocational and Tertiary	958
 Vocational and University Education	13310
 Voconces	15429
+Vocês	18819,2
 VodaCash. Al Americani	5714
 VodaPay	6563,1474
 Vodacash	11994
@@ -1810,7 +1823,7 @@ Voice Traffic	2776,3895,8465
 Voice Traffic Fixed	2776
 Voice Voice	10793
 Voice Vox Limited Iberdrola Vulcable Igi	8530
-Voice and Accountability	8075,3450,3372,2099
+Voice and Accountability	8075,3450,3372,2099,1771,5
 Voice and Broadband Internet Services	14879
 Voice and Data Traffic	718
 Voice and Global South Summit	17240
@@ -1827,6 +1840,7 @@ Voice of Nigeria Federal Government of Nigeria United	11129
 Voice of Our People	14747
 Voice of South Summit	11579
 Voice-Data-Image	10948
+Voice-Over-Internet	18791
 Voice-enabled AI	4625
 Voice-first	6498,653,6930
 Voice-over-LTE	2543
@@ -1981,7 +1995,7 @@ Voltamos	16528
 Voltar Canais de Atendimento Fale	1192
 Volts	12256
 Volts No Limit	12256
-Volume	579,157,1,52,220,275,1,1,393,25,67,57,35,125,724,64,347,1,1003,147,110,1,74,69,69,375,152,45,604,617,189,349,20,600,183,32,47,212,163,98,93,60,170,2106,2,66,199,106,55,170,221,26,39,311,9,39,1,47,172,71,6,45,28,70,117,35,160,89,182,66,9,94,160,17,1,6,16,2,18,47,28,19,37,34,277,166,15,543,33,35,33,79,123,44,117,26,73,42,242,44,23,20,13,26,62,105,34,226,66,231,19,73,5,1,303,74,132,6,58,34,61,22,122,69,26,22,181,10,200,132,63,19,23,60,118,36,187,23,9,157
+Volume	579,157,1,52,220,275,1,1,393,25,67,57,35,125,724,64,347,1,1003,147,110,1,74,69,69,375,152,45,604,617,189,349,20,600,183,32,47,212,163,98,93,60,170,2106,2,66,199,106,55,170,221,26,39,311,9,39,1,47,172,71,6,45,28,70,117,35,160,89,182,66,9,94,160,17,1,6,16,2,18,47,28,19,37,34,277,166,15,543,33,35,33,79,123,44,117,26,73,42,242,44,23,20,13,26,62,105,34,226,66,231,19,73,5,1,303,74,132,6,58,34,61,22,122,69,26,22,181,10,200,132,63,19,23,60,118,36,187,23,9,157,279,10,17,19,22
 Volume CXVII	1844
 Volume CXVIII	14484
 Volume Down Global	4972
@@ -2004,11 +2018,13 @@ Volume and Value of Venture Deals	4972
 Volume de HFO	10975
 Volume de LFO	10975
 Volume de Negócio	11574
-Volume de Negócios	10757,817
+Volume de Negócio Remuneração Média Mensal de Pessoal	18775
+Volume de Negócios	10757,817,7201,18
 Volume de Negócios Corresponde	10757
+Volume de Negócios Escalão	18775
 Volume de Negócios TELECEL ORANGE Figura	11574
 Volume de Transacções	11434
-Volume de Tráfego	11531
+Volume de Tráfego	11531,7260
 Volume des TRANSACTIONS BÉNIN	4459
 Volume of BWA Traffic	2776
 Volume of Credit	11105
@@ -2039,6 +2055,7 @@ Volumetric	13385
 Volumétrie	11944
 Voluntarios	16864
 Voluntary	3714,725,457,3234,540,2461,3,47,82,231,1444,373,70,185,203,4,901,200,6,105,42,99,1748,94,140,49,1280,104
+Voluntary Arbitration Law	18797
 Voluntary Assessment	13381
 Voluntary Carbon Market	9393
 Voluntary Code of Conduct	16212
@@ -2087,7 +2104,7 @@ Vomberg	9129
 VonHagen	15129
 Vonjy Razafindratsimba	14491
 Vonnisoplegging DEEL VI	11190
-Vontade	11555
+Vontade	11555,7208
 Voolinks	17870
 Voorgeskryf	11249
 VoorheisPPetchJPhamQKuluskiK. Maximizing	8376
@@ -2251,6 +2268,7 @@ Voz Múltiples Nacional	4209
 Voz de América	2444
 Voz de Annobón	4209
 Voz de Centro Sur	4209
+VozeResponsabilização	18772
 Vozes	2870
 Voëlvlei Dam R1.1	11248
 VÉRIFIEZ EN DEMANDANT DE VOIR	13300

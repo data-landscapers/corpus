@@ -7,6 +7,7 @@ CONTROL Y SUPERVISIÓN DE LAS OBRAS	17342
 Comisión de Obras Públicas	10438
 Comunicações Obrigatórias	11363
 Construcción Obras	4209
+Cumprimento de Obrigação Fiscal	18833
 D.G OBRAS	4209
 D.G. DE OBRAS PUBLICAS	4209
 D.G. OBRAS HIDRAULICAS	4209
@@ -22,6 +23,7 @@ Entidade Gestora da Protecção Social Obrigatória	11433,34
 Entidade Gestora de Protecção Social Obrigatória	11433,34
 Fiscalização de Obras	10783
 Hidrocarburos MOPVU Ministerio de Obras Públicas	16898
+Incidência de Algumas Doenças de Declaração Obrigatória HAM	18768
 M MILITARES CATASTRAL Y OBRAS BOMBEROS	4209
 MBITO DAS OBRAS	11372
 MFBPE and OBR	1284
@@ -59,10 +61,10 @@ OBRIGATORIEDADE DE ENTIDADES PÚBLICAS E PRIVADAS	10770
 OBRIGATORIEDADE DIREITOS DAS PESSOAS COM DEFICIENCIA	15694
 OBRIGAÇÕES DE PAGAMENTO Contribuintes	12018
 OBRIGAÇÕES E REQUISITOS A OBSERVAR PELOS	3519
-Obras	4209,7163,57,3,47,63,4596
+Obras	4209,7163,57,3,47,63,4596,2633
 Obras Component	17219
 Obras Publicas	9303,138,1949
-Obras Públicas	4209,1512,3599,121,1949,137,34,8,3835,1725,115
+Obras Públicas	4209,1512,3599,121,1949,137,34,8,3835,1725,115,1508,1
 Obras Públicas Habitação	17337
 Obras Públicas. CAPÍTULO V DISPOSIÇÕES FINAIS	10783
 Obras de Construção Civil	11372
@@ -79,13 +81,14 @@ Obrigatoriedade de Existência	11369
 Obrigatoriedade de Identificação	11373
 Obrigatoriedade de Partilha	11430
 Obrigatoriedade de Uso	10754
-Obrigação	14,2423,1,1836,7086,83,139,316,120,3367
+Obrigatório	18774
+Obrigação	14,2423,1,1836,7086,83,139,316,120,3367,3370
 Obrigação Legal de Registar	11898
 Obrigação de Intercepção	10747
 Obrigação de Notificação de Incidentes	11377
 Obrigação de Não Discriminação	11519
 Obrigação de Reportar Alterações	3519
-Obrigações	576,1861,429,4104,3785,28,577,9,1,4,10,21,25,13,77,62,319,117,756,21,2691,652,166,789,7
+Obrigações	576,1861,429,4104,3785,28,577,9,1,4,10,21,25,13,77,62,319,117,756,21,2691,652,166,789,7,1664,14,6,14,55
 Obrigações Acessórias	12018
 Obrigações Aplicáveis	11430
 Obrigações Azuis	15263
@@ -101,6 +104,7 @@ Obrigações de Identificação	3519
 Obrigações de Informação	11430
 Obrigações de Interligação	11430
 Obrigações de Segurança	3519
+Obrigações de Tesouro	18853
 Obrigações de Transporte	11430
 Obrizum Group Ltd Chief Executive Officer	13539
 Outras Obrigações de Acesso	11430
@@ -128,6 +132,8 @@ SECÇÃO IV OBRIGAÇÕES DAS ENTIDADES COM	11519
 SIDA OBR Office Burundais des Recettes ODD	13341
 SOCIAL OBRIGATÓRIA	11433
 Secretario de Estado de Obras Públicas	1855
+Secção II Obrigações	18778
+Secção II Obrigações Artigo	18778
 Sistema da Protecção Social Obrigatória	11433
 Sistema de Protecção Social Obrigatória	11433
 Social Obrigatória	11433

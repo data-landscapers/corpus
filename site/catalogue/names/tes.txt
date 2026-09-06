@@ -42,6 +42,7 @@ Bartlett’s Test of Sphericity	4432
 Base de Artemisina Teste de Diagnóstico Rápido Taxa	10777
 Beach Testing	14774
 Benoit Tessier	8273
+Bilhetes de Tesouro	18798
 C. Network and Integration Tests	13185
 C. Tailored Tests C1. Combined	13868
 CENTRE INDÉPENDANT DE TEST	13300
@@ -73,6 +74,8 @@ Comité de Coordenação de Tesouraria	15526
 CompTIA Intermediate Level CompTIA Pen Test	15662
 Compatibility Testing	5665
 Compatibilité Tester	15936
+Compra da Eletricidade da TESLA	18793
+Compra de Eletricidade TESLA MWh	18793
 Comprehensive Pre-Election Testing of BVAS INEC	10049
 Computer Literacy Test	17565
 Computerised Learner's Licence Testing System	12476
@@ -88,6 +91,7 @@ Counties Clients Tested for HIV Client Tested	16971
 Couple Means Test	14828
 Coverage Rates for HIV Testing	15247
 Coverage of HIV Testing Services	15247
+Crianças Testadas	18768
 Cyber Resilience Testing Resilience	10721
 D CENTRE INDÉPENDANT DE TEST INSISTEZ	13300
 D'HÉMOGLOBINE ET TEST DU VIH DES	13300
@@ -106,6 +110,7 @@ Disaster Recovery Test Tier	10721
 Dr. Teshale	14050
 Drive Test	718
 Drive Tests	15135
+Duas Testemunhas Onde Requerer	18834
 Dynamic Application Testing	11952
 Dynamic Strength Tester	14736
 E SERVICES MOBILES DE TEST ET	13300
@@ -183,6 +188,7 @@ Industrial Training and Trade Testing Fund	13420
 Infosec Institute Certified Penetration Tester	15662
 Infrastructure Test Penetration	11153
 Inspections and Tests	13185
+Instalações da Tesla. Desta	18793
 Integration Test Scope Integration	11952
 Integration Testing	11952
 Integration Testing Requirement	11952
@@ -191,6 +197,7 @@ Interopérabilité Tests	15936
 J176 Anum Tessa Avenue	7886
 Julien Tessier	5712
 Junho O Regime de Tesouraria	15380
+Juros de Mora A TESLA	18793
 Key Testing	12241
 L CENTRE INDÉPENDANT DE TEST ET	13300
 L'ENQUÊTÉ MINEUR POUR DES TESTS SUPPLÉMENTAIRES	13300
@@ -291,6 +298,7 @@ Non-Destructive Testing Laboratory	14736
 Non-Functional Testing	5665
 O Serviço de Tesouraria	15526
 O Tesouro	15440
+Obrigações de Tesouro	18853
 Offensive Security Exp. Penetration Tester	15662
 Operaciones Centrales de Tesorería	1701
 Operational Acceptance Tests	13185,1905
@@ -311,6 +319,7 @@ POUR DES TESTS	13300
 POUR LE TEST	13300
 POUR LE TEST D'ANÉMIE. Pour	13300
 PPINCÍPIO DA UNIDADE TESOURARIA Os	17100
+PRODUÇÃO GESTÃO PRIVADA Central TESLA São	18793
 PROXY MEANS TESTS	16867
 Pagamento Online Testes	12021
 Pagamentos Online Testes	12021
@@ -349,6 +358,7 @@ Proxy Means Test	11855,172,453,2355,766,1351,1246
 Proxy Means Test Project Implementation Manual	15601
 Proxy Means Testing	12567,4078
 Proxy Means Testing RI	12560
+Proxy Means Tests	18809
 Proxy-Means Testing	12220
 Proxy-Means Testing National Policy	10763
 Proyecto de Implementación Plan de Tesorería	4209
@@ -404,6 +414,7 @@ Serviço de Tesouraria	15526
 Serviços de Testagem	10777
 Severe Disabilities CTU Cane Testing Units	2775
 Simulator Test	12882
+Sistema de Faturação da TESLA A TESLA	18793
 Six Tests Starlink Had	6825
 Skilled Manpower Trade Testing and Certification Fund	13420
 Smart Test Spa	3609
@@ -451,8 +462,12 @@ TDR DU PALUDISME. TESTÉ	13300
 TES IMPOSSIBLE D'ÊTRE EN PRIVÉ	13300
 TES NOTE BY THE DEPARTMENT	4247,55
 TES Phase II	7544
+TES-GM-250127-L003	18793
 TESCOs	17870
 TESCREAL	5302
+TESLA	18793
+TESLA STP	18793,4
+TESLA STP Unipessoal	18793
 TESLIM TOBATELE GIWA ESQ	18154
 TESORERIA	4209
 TESORERIA TOTAL AUTÓNOMA	4209
@@ -520,8 +535,11 @@ Tesh Mbaabu and Mesongo Sibuti	10464
 Teshie Nungua Estates	3386
 Teshome	14153
 Tesjil	17924
-Tesla	2816,4587,1057,1007
+Tesla	2816,4587,1057,1007,9326,2
 Tesla Cascading Hydro Plant	14745
+Tesla STP Unipessoal	18793
+Tesla. Fornecimento de Combustível	18793
+Tesla. Paralelamente	18793
 Teslem Zein	17896
 Teslin	10812
 Tesliuc	16867
@@ -540,9 +558,9 @@ Tesoro. En	16925
 Tesou	15380
 Tesoum	15999
 Tesouraria	11449,452,3479,123,23,246
-Tesouro	744,8,42,545,1,1,1,739,2,1,2134,193,2,1,333,6003,33,587,8,190,330,897,1,2584,11,12,123,28,476,26,33,1011
+Tesouro	744,8,42,545,1,1,1,739,2,1,2134,193,2,1,333,6003,33,587,8,190,330,897,1,2584,11,12,123,28,476,26,33,1011,1698,2,53
 Tesouro Nacional	4218,6534,626
-Tesouro Público	11532,36,1228,2637,1667
+Tesouro Público	11532,36,1228,2637,1667,1693,5,2,53
 Tesouro Público. ARTIGO	17100
 Tesouro SPD6 TEC9 Não EST-TEC5 Sistemas	15532
 Tesouro. ARTIGO	17100
@@ -605,10 +623,12 @@ Testable STATS SL Statistics Sierra Leone	18478
 Testada	11693
 Testagem	10777
 Testar	16022
-Teste	16325
+Teste	16325,2437,6
 Teste Piloto	10777
 Teste Prévio	10777
 Teste Prévio de VIH	10777
+Teste de Sífilis	18768
+Teste de Sífilis Positivo	18768
 Teste de Turing	2816
 Teste de VIH	10777
 Teste-	539
@@ -623,11 +643,12 @@ Tester	5665,10271,2376
 Testers	5665
 Testes	10777,665,114,465,4199,105
 Testes Recentes de VIH	10777
+Testes de Genexpert	18768
 Testes de VIH	10760,17
 Testes de VIH Prévios	10777
 Testex and Bureau Veritas	14736
 Testified	6635
-Testimonial	12771,352,1660,2990
+Testimonial	12771,352,1660,2990,1064
 Testimonial Injustice	17773
 Testimonial Injustice OR Hermeneutic Injustice	17773
 Testimonial Injustice. AI	17773
@@ -703,10 +724,12 @@ Third-Party Testing Providers Pre- Deployment Requirement	5665
 Togo First. Test	1635
 Transitioning Early Testing	4349
 True Tesla Technologies	14745
+Títulos de Tesouro	18798
 UNDP-Eritrea and Tsegai Tesfai	13977
 UPS Testing	9123
 Ultrasonic Testing	14736
 Un Test de Un	13300
+Unit PMT Proxy Means Test POM	18809
 Unit Project Implementation Unit Proxy-Means Testing	15658
 Unit Testing	11952
 Unit Testing Requirement	11952

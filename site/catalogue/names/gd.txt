@@ -26,6 +26,7 @@ B5-Cluster GDP	7548
 BEST PRACTICES The EU GDPR	14434
 Backbone GDP Gross Domestic Product GSM	11857
 Banco Mundial GdA Governo de Angola GFP	11390
+Banco Mundial GdSTP Governo da República de São	18779
 Benin’s GDP	10887,4537
 Board GDP Gross Domestic Product GIS	16935
 Boost GDP	3636,9384
@@ -133,6 +134,7 @@ Fig.2- Regression Analysis of Computing Index and GDP	15713
 Finance Infrastructure Indicator GDP	5247
 Financial Access and GDP Per Capita	1828
 Financial Inclusion and GDP	7763
+Financial Management FY Fiscal Year GDP	18765
 Financial Management GDP Gross Domestic Product	15663,2630
 Financial Management Information System GDP Gross	11271
 Financial Year GDP Gross Domestic Product	15411
@@ -303,6 +305,7 @@ GDP Referenced Index	18483
 GDP Rwf	14997
 GDP Signal Strong High and Acceptable Moderate	11134
 GDP Tax	17209
+GDP Total PPG	18851
 GDP Transport	5245
 GDP US	12500
 GDP Unicorn	10969
@@ -340,6 +343,7 @@ GDP-P	18483
 GDP-ga	11136
 GDP-projection	5230
 GDP-weighted	1828
+GDP. Achieving	18823
 GDP. Agriculture	16942
 GDP. Around	10963,1
 GDP. Authorities	6458
@@ -401,9 +405,11 @@ GDP. Social	10846
 GDP. Spending	12669
 GDP. Statistics Botswana	12551
 GDP. Structural	17503
+GDP. Structurally	18795
 GDP. Submarine	1363
 GDP. Taking	10980
 GDP. Thanks	3394
+GDP. The DSA	18823
 GDP. The GDP	12385
 GDP. The GSS	236
 GDP. The Global Crypto Adoption Index	9709
@@ -521,13 +527,14 @@ GdD. D’une	747
 GdD. En	747
 GdG Gouvernement	16626
 GdG. D’après	16626
+GdSTP	18779
 GdanG51lU4Q&t	4447
 GdeedfsaeeeiimNcgcsrm	15694
 Gdyel. Wilaya de Tipaza	15732
 GenAI Generative AI GDP Gross Domestic	1814
 Gender Based Violence GDP	16951
 Gender Based Violence GDP Gross Domestic	970,12362
-Gender-Based Violence GDP Gross Domestic Product	16896
+Gender-Based Violence GDP Gross Domestic Product	16896,1881,32
 General Data Dissemination Systems GDP	14857
 Generative Artificial Intelligence GDPR General Data	14790
 Ghana’s GDP	789,3337
@@ -559,6 +566,8 @@ ICT Sector GDP	12395
 ICT Sector’s Share of GDP	16975
 INFANTERIE GDR Enseignes	15744
 Inclusion GDP Gross Domestic Product AI	12444
+Indicator GDP Gross Domestic Product SDR	18851
+Inflation GDP	18851
 Infrastructure GDP	14897
 Insurance Nominal GDP	2775
 International Scene World Real GDP Growth	2775
@@ -606,7 +615,7 @@ National GDP	13418
 Nigeria's GDP	8466
 Nigerian GDP	3782
 Nigeria’s GDP	2417,4755,4685
-Nominal GDP	2775,8361,1364,1148,37,183,1117,2250,22,246,985
+Nominal GDP	2775,8361,1364,1148,37,183,1117,2250,22,246,985,363
 Nominal GDP USD	5247
 Nominal GDP of K31.5	13122
 Nominal Rebased GDP	18483
@@ -614,6 +623,7 @@ Non-Oil GDP	1828
 Non-agricultural Net Exports GDP Growth	17503
 Number of Digital Businesses Per Dollar of GDP	17870
 O GdM	12142
+O GdSTP	18779
 Observing Network GDM General Directorate of Meteorology	13729
 Oil GDP Non-oil GDP Real GDP	16996
 Oil and Non-oil GDP	16996
@@ -623,7 +633,7 @@ PA9 MU GDP RI9	10779
 PERCENTAGE OF GDP	17105
 PPP-adjusted GDP	11581
 PercentBaseline GDP GrowthNew GDP Growth	13624
-Percentage of GDP	14896,515
+Percentage of GDP	14896,515,3414
 Percentages GDP	18483
 Person GDP Gross Domestic Product GDPR	12663
 Person GDP Gross Domestic Product GEI	16876
@@ -634,6 +644,8 @@ Private Sector GDP Gross Domestic Product	13295
 Processing System GDP Gross Domestic Product	15244
 Product GDP Gender	11417
 Productivity and GDP	11140
+Proj. National Accounts GDP	18851
+Proj. National Income and Prices GDP	18823
 Proj. New Proj. Output Real GDP	17209
 Projections GDP	11131
 Quarterly GDP Reports Population Census National	12499
@@ -644,7 +656,7 @@ Ratio GDP Global Partnership for Education GER	11905
 Rationale for Rebasing the GDP Estimates	18483
 Rationale for Rebasing the GDP Estimates Rebasing	18483
 Ready For Service GDPR General Data	3184,1,1340,6470
-Real GDP	940,888,947,762,1710,408,2040,3086,353,2,135,198,55,57,680,166,1441,233,381,415,88,38,13,336,232,429,940,23,15,94,33,71,26,22,69,38,94,45,367,39,81,273,38
+Real GDP	940,888,947,762,1710,408,2040,3086,353,2,135,198,55,57,680,166,1441,233,381,415,88,38,13,336,232,429,940,23,15,94,33,71,26,22,69,38,94,45,367,39,81,273,38,476,74
 Real GDP Gini	1828
 Real GDP Growth	940,1835,2880,6202,1675,153,3311,239,268
 Real GDP Growth Demand Contribution	17503
@@ -675,6 +687,7 @@ SSA’s GDP	11149,5847
 SULPHLUR PLQLVWUR QR XVR GD FRPSHWrQFLD	11530
 SURYHQLHQWHV GD	11530
 Saharan Africa's GDP. Yet	3691
+Sector Development Implementation Plan GDP Gross	18825
 Sector GDP	10856,7627
 Sectoral Share of Real GDP Percentage Contribution	17235
 Security Office GDP Gross Domestic Product	17849
@@ -746,6 +759,7 @@ World Bank and OECD GDP	10969,1236
 World Development Indicators Benin’s GDP	10856
 YDWLYR GD WHUUD SDUD	11527
 YOUTH GDP	17101
+Year GDP Gross Domestic Product GEEDR	18754
 Year GDP Value Growth	13418
 Year Information and Communication GDP-Current	6946
 Yet the GDC	7242

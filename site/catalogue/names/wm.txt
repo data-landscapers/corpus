@@ -3,7 +3,9 @@ Bank WFP World Food Program WMO	17157
 DDI Document ID DDI SDN 2025 WMS-R4 v01 M WB Producers Date	15024
 Environment Programme WMO World Meteorological Organization	11553
 Ethiopian Meteorological Institute and President of WMO RA-I	16371
+Focal Point for WMO	18787
 ICAO and WMO	18128
+INFORMATION SUPPLIED THROUGH WMO	18787
 Libya National Meteorological Service WMO Member	16956
 Quality Monitoring System WIGOS WMO Integrated	18578
 Reference ID SDN 2025 WMS-R4 v01 M DOI	15024
@@ -24,6 +26,7 @@ WMO Climate Risks and Early Warning Services	11191
 WMO Congress	11191
 WMO Content Management System	16371
 WMO Drought Classification Standards	17157
+WMO EW4All Rapid Assessment for Pillar-2	18787
 WMO Fellowships Programme. SLMet	18578
 WMO Funding	11420,2347
 WMO Gender Action Plan	16947
@@ -33,6 +36,7 @@ WMO Global Telecommunication System	18309
 WMO Guidance Materials	18309
 WMO Hydrological Advisories	17157
 WMO Hydrological Observing System	16239
+WMO Hydrology Survey	18787
 WMO Information	11420
 WMO Information System	11553,4686,459,1880,95
 WMO Information System WMO	18309
@@ -41,25 +45,30 @@ WMO Long-Term Goal	13767
 WMO Long-Term Goals	11420
 WMO Member	15916,401,2317
 WMO Members	18309
+WMO OSCAR	18787
 WMO Oscar	18309
-WMO PR of Peer Reviewing Agency	18309
+WMO PR of Peer Reviewing Agency	18309,478
 WMO Permanent Representative of South Sudan	18677
 WMO Policy	16947
+WMO RTH	18787
 WMO Regional Institutions	12918
 WMO Regional Representative	14471
+WMO Regional Telecommunication Hub	18787
 WMO Regional Training Centres	14448
 WMO Regional and Specialized Meteorological Centre Severe	11191
 WMO Severe Weather Forecasting Program	11191
 WMO Technical Authority	16947
-WMO WIS	16947
+WMO WIS	16947,1840
 WMO World Meteorological Organization NGO Non-Governmental	13729
 WMO World Meteorological Organization WMO-RO World	18578
 WMO and ANAM	16317
 WMO and GWP-IDMP	17157
+WMO and ICAO	18787
 WMO and INM-GB	11553
 WMO and UNDRR	11420
 WMO's State	17275
 WMO-No	17157,1152
+WMO-WIS	18787
 WMO-specified	16947
 WMO. Calculated	17157
 WMO. Examples	11553

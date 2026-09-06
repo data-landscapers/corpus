@@ -24,6 +24,7 @@ Ambassador of India Mr. Bramha Kumar	13509
 Americans and Indians	12138
 Analytics India Mag	3598
 Angola and India	4275
+Angola. The Embassy of India	18857
 Annexure-I. Bilateral Mechanism India and Burkina Faso	16256
 Arab States Asia-Pacific Indonesia India International	11563,6180
 Army Staff of India	16331
@@ -31,6 +32,7 @@ Assistance India	18563
 Association of Indians	16275
 Atlantic and Indian	9768
 Australia Bangladesh India Indonesia Japan Malaysia	10764
+Ayurveda of India	18810
 BANK OF INDIA Data Controller INST-2062751BC30	7167
 BANK OF INDIA Data Processor INST-2062751BC30	7167
 BRICS India	2117
@@ -91,6 +93,7 @@ Delhi. India	18563
 Delhi. The Indian	6480
 Department of Commerce of India	18691
 Description Government of India Line of Credit	381,307
+Development Partnership Government of India	18857
 Development Partnership LOCs India	18378
 Developmental Cooperation India	18563
 Diego Garcia Military Base and British Indian	14753,40
@@ -115,10 +118,11 @@ Egypt Sudan Pakistan India Nepal Myanmar	418
 Egypt and India	9332
 Egyptian and Indian	9332
 Election Commission of India. H.E. Mr. Marcel	16164
-Embassy of India	10780,2964,47,2465,984,776
+Embassy of India	10780,2964,47,2465,984,776,794,47
 Embassy of India Algiers	16331
 Embassy of India Algiers INDIA-ALGERIA RELATIONS Diplomatic	16331
 Embassy of India Harare Press Release Embassy	13509
+Embassy of IndiaSao Tome	18810
 Emmanuel Adewale Adedokun. For the Indian Ocean	9507
 Ethical Development and Implementation of AI. In India	11135
 European Union. India's FTAs	16234
@@ -158,7 +162,7 @@ Global South. Indian	4676
 Global Trade and Technology Council of India	11284
 Google. India	6411
 Governance Services India Ltd	15936
-Government of India	2667,1909,6559,132,312,989,49,362,530,53,229,962,52,25,135,391,28,73,799,393,585,6,776,126,55,23,158,165,20
+Government of India	2667,1909,6559,132,312,989,49,362,530,53,229,962,52,25,135,391,28,73,799,393,585,6,776,126,55,23,158,165,20,294
 Government of India Bilateral	18378
 Government of India Cashew	11579
 Government of India Development Partnership LOC Projects	16285
@@ -169,6 +173,8 @@ Government of India and We-Fi	5921
 Government of India's Duty Free Tariff Preference	13029
 Government of India. Address	12972
 Government of India. The Mauritius Ports Authority	14829
+Government of India. Trade	18857
+Government of India’s Media Familiarization Programme	18857
 Govt of India	13029
 Govt. of India	13974,3266
 Grant-in-Aid Under the India-Brazil-South Africa Fund	11579
@@ -214,7 +220,7 @@ IPv6 Libyan Indian	5592
 IRDAI India	14997
 Important Indian	13562
 In-Charge for India	13744
-India	10,192,24,189,146,157,49,14,257,16,82,83,6,18,458,123,27,170,4,77,15,201,6,103,8,12,94,25,48,44,9,10,43,5,35,15,3,9,4,13,15,1,3,8,37,5,41,11,18,4,70,1,8,227,32,18,60,28,69,123,27,13,119,40,9,29,69,33,20,38,50,37,21,127,44,16,17,8,144,3,106,23,55,45,10,90,31,24,18,47,85,48,15,41,10,27,2,23,53,24,7,11,15,10,43,56,1,81,45,40,20,43,86,15,3,52,126,34,31,13,63,6,47,89,10,25,6,53,19,70,19,8,15,25,1,68,19,42,2,3,55,49,1,41,43,38,17,9,1,7,16,9,2,15,6,12,1,26,5,31,1,7,8,51,11,26,7,24,86,16,53,22,101,27,109,60,9,21,27,47,5,63,20,122,68,60,61,4,91,45,24,4,44,1,121,73,122,45,13,35,6,106,13,153,36,9,29,9,47,56,1,41,38,13,29,82,67,32,44,160,5,6,63,40,33,113,12,151,30,69,16,169,73,8,82,11,198,13,38,10,10,61,6,125,8,19,1,1,1,64,64,3,16,1,1,27,33,20,14,17,4,13,26,158,1,86,17,6,1,30,55,193,22,1,22,1,15,4,3,15,24,26,4,3,40,32,41,29,12,59,55,35,1,60,117,7,15,68,8,41,119,229,7,5,2,3,23,24,49,2,13,15,14,30,14,26,2,101,15,102,54,43,17,6,29,1,62,57,4,59,47,63,25,4,91,107,67,203,37,5,173,163,13,2,1,28,2,4,26,13,1,10,10,40,18,62,6,32,110,12,101,136,55,46,14,2,7,38,63,132,181,42,74,154,70,3,3,16,19,2,8,46,318,162,11,93,27,7,26,50,60,127,22,1,5,1,301,23,58,335,58,93,20,13,55,23,1,97,60,165,20,87,41
+India	10,192,24,189,146,157,49,14,257,16,82,83,6,18,458,123,27,170,4,77,15,201,6,103,8,12,94,25,48,44,9,10,43,5,35,15,3,9,4,13,15,1,3,8,37,5,41,11,18,4,70,1,8,227,32,18,60,28,69,123,27,13,119,40,9,29,69,33,20,38,50,37,21,127,44,16,17,8,144,3,106,23,55,45,10,90,31,24,18,47,85,48,15,41,10,27,2,23,53,24,7,11,15,10,43,56,1,81,45,40,20,43,86,15,3,52,126,34,31,13,63,6,47,89,10,25,6,53,19,70,19,8,15,25,1,68,19,42,2,3,55,49,1,41,43,38,17,9,1,7,16,9,2,15,6,12,1,26,5,31,1,7,8,51,11,26,7,24,86,16,53,22,101,27,109,60,9,21,27,47,5,63,20,122,68,60,61,4,91,45,24,4,44,1,121,73,122,45,13,35,6,106,13,153,36,9,29,9,47,56,1,41,38,13,29,82,67,32,44,160,5,6,63,40,33,113,12,151,30,69,16,169,73,8,82,11,198,13,38,10,10,61,6,125,8,19,1,1,1,64,64,3,16,1,1,27,33,20,14,17,4,13,26,158,1,86,17,6,1,30,55,193,22,1,22,1,15,4,3,15,24,26,4,3,40,32,41,29,12,59,55,35,1,60,117,7,15,68,8,41,119,229,7,5,2,3,23,24,49,2,13,15,14,30,14,26,2,101,15,102,54,43,17,6,29,1,62,57,4,59,47,63,25,4,91,107,67,203,37,5,173,163,13,2,1,28,2,4,26,13,1,10,10,40,18,62,6,32,110,12,101,136,55,46,14,2,7,38,63,132,181,42,74,154,70,3,3,16,19,2,8,46,318,162,11,93,27,7,26,50,60,127,22,1,5,1,301,23,58,335,58,93,20,13,55,23,1,97,60,165,20,87,41,118,1,47
 India AI	4300
 India AI Action Summit	5044
 India AI Governance Guidelines	9208
@@ -227,6 +233,7 @@ India AI Summit Intent	5044
 India Actually Got Right	8206
 India Addis Ababa	10516
 India Affordability Safety	11964
+India Africa Defence Ministers Meet	18857
 India Africa Forum Summit	2667,12452,1045,92,2435
 India Africa Forum Summit III	11579
 India Africa Growth Partnership	13562,2713
@@ -281,8 +288,10 @@ India Kenya South Africa Rwanda Egypt	11857
 India LDC Ministerial Conference	16649
 India Limited	16331
 India Line of Credit	14745
+India Means Business	18810
 India Men	11964
 India Meteorological Department	4300
+India Ministerial-level	18857
 India Ms. Nirmala Sitharaman	16331
 India Nigerian Communications National	17212
 India Ocean	14808
@@ -357,6 +366,7 @@ India and ROC	16275
 India and Republic of Guinea	16649
 India and Romania	17808
 India and Rwanda	2338,8508
+India and Sao Tome	18857
 India and Saudi Arabia	5035,3360,3756
 India and Senegal	18378
 India and Sierra Leone	18563
@@ -370,6 +380,7 @@ India and South Sudan	18650,8
 India and South Sudan. India	18650
 India and Southeast Asia	6909
 India and Sub-Saharan Africa. The Accelerator	9072
+India and São Tomé and Príncipe	18857
 India and TAFINA	9589
 India and The Gambia	10719,6515
 India and UNDP. Capacity Building	2667
@@ -479,6 +490,8 @@ India-Niger Relations URL	18220
 India-Niger26.pdf Political Relations India and Niger	18220
 India-Nigeria	11925
 India-RoC26.pdf Brief	16275
+India-Sao Tome	18857
+India-SaoTome26.pdf Page	18857
 India-Senegal Joint Trade Committee	18378
 India-Senegal Relations Political Relations Diplomatic	18378
 India-Senegal Relations URL	18378
@@ -534,6 +547,7 @@ India. Malian	18016
 India. PLoS ONE	3791
 India. PLoS One	1219
 India. President Touré	18016
+India. Previously	18857
 India. Reserve Bank	3318
 India. Social	3791
 India. South Africa	11183
@@ -544,7 +558,7 @@ India. The Energy Journal	13624
 India. The Ethiopian	11664
 India. Thousands	15581
 India. Trop Med Int Health	12246
-India. Visits	11579
+India. Visits	11579,7278
 India.Addressing	11284
 India10	4848
 IndiaAI Mission	7151
@@ -553,7 +567,7 @@ IndiaIndonesia PakistanPhilippinesGuatemala Mexico Men Women	11964
 IndiaStack	5700,992
 IndiaStack. Everyone	6692
 IndiainNiger	18220
-Indian	2667,53,84,12,547,428,484,25,132,144,273,833,18,103,428,140,15,25,69,212,43,64,56,39,41,210,6,69,349,27,115,270,225,404,332,177,89,124,72,27,209,1431,63,1,41,4,3,9,1,91,641,144,69,430,49,187,175,335,195,52,1,182,47,154,245,275,340,34,280,265,73,707,70,3,19,19,2,8,46,318,585,1,5,1,382,393,113,91,1,157,165,20,95,33
+Indian	2667,53,84,12,547,428,484,25,132,144,273,833,18,103,428,140,15,25,69,212,43,64,56,39,41,210,6,69,349,27,115,270,225,404,332,177,89,124,72,27,209,1431,63,1,41,4,3,9,1,91,641,144,69,430,49,187,175,335,195,52,1,182,47,154,245,275,340,34,280,265,73,707,70,3,19,19,2,8,46,318,585,1,5,1,382,393,113,91,1,157,165,20,95,33,166
 Indian AI	7151,830
 Indian Africa Forum Summits	18220
 Indian Ambassador	2667,4232
@@ -567,6 +581,7 @@ Indian Business Council Sierra Leone	18563
 Indian Central Leather Research Institute	1554
 Indian Citizen	13791
 Indian Classical Dance Performance	13509
+Indian Coast Guard	18857
 Indian Coast Guard Ship	13791
 Indian Community	11579,1930,2747,21,8,955,776,204
 Indian Community Indian	18563
@@ -584,6 +599,7 @@ Indian Economic and Trade Organization	16285
 Indian Embassy	4849,10270,1530,592
 Indian Experience	11006
 Indian Express	2541,6380
+Indian Festival of Lights	18810
 Indian Firm By Bitrus Kozah	18221
 Indian Foreign Minister	14805
 Indian Government	14829,1427
@@ -654,8 +670,9 @@ Indian Supreme Court	8776
 Indian T20	7242
 Indian Technical	16237,19
 Indian Technical and Economic	18016
-Indian Technical and Economic Cooperation	4849,7076,4312,40,957,6,776
+Indian Technical and Economic Cooperation	4849,7076,4312,40,957,6,776,841
 Indian Technical and Economic Cooperation Indian Ambassador	4849
+Indian Tourism	18810
 Indian and Brazilian	8603
 Indian and Chinese	12227
 Indian-Ocean	2479
@@ -792,14 +809,16 @@ President of India Late Dr. A.P.J. Abdul	13974
 President of India. Ambassador	13509
 Prime Minister of India	7365,6379
 Prime Minister of India Shri Narendra Modi	14829
+Principe. India	18857
 Processor INST-7253202629D NAIROBI India	7167
+Products of India	18810
 RailTel Corporation of India	4576
 Recent Visits From India	2667
 Regarding India and Namibia	3253
 Region Key Features Lessons for Ghana India	10415
 Regional Director for Southern Africa and Indian Ocean	10790
 Reiterating India	14805
-Republic Day of India	13509,2776
+Republic Day of India	13509,2776,2525
 Republic of Congo Relations India	16275
 Republic of India	11183,742,1047,1295,475,88,627,1971,714,55,453
 Republic of India and Republic of The Gambia. Culture	17241
@@ -813,6 +832,7 @@ Reserve Bank of India. Rogers	11310
 Rural India. The World Bank Economic	13624
 Rwanda and India	11964
 SENEGAL India’s Export India’s Import	18378
+Sao Tome. Indian Community Till	18857
 Screen Reader Access India-Comoros	13791
 Second India Arab Foreign Ministers' Meeting	13744
 Second India-Africa Forum Summit	17240
@@ -853,7 +873,7 @@ Technologies Bangladesh ICT Division India Ministry	11135
 Technology India and South Africa	6480
 Telecommunications Consultants India Limited	18220
 Terminal WIOCC West Indian Ocean Cable	13295
-Third India-Africa Forum Summit	11183,6057
+Third India-Africa Forum Summit	11183,6057,1617
 Third India-Africa Summit Forum	11183
 Third India-Senegal Joint Commission	18378
 Times of India	6692,11081

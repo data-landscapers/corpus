@@ -182,7 +182,7 @@ Critical Justice Health	1777
 Culture MINIJUST Ministry of Justice MINUBUMWE Ministry	14935
 Cybercrime Reporting Ministry of Justice	1777
 D'UNE FOIS UNE FOIS A. Jusqu'ici	13300
-D. JUSTIFICATION OF OVERALL OUTCOME RATING	11924,3500,87,90,62,68,705,516,910,100
+D. JUSTIFICATION OF OVERALL OUTCOME RATING	11924,3500,87,90,62,68,705,516,910,100,803
 D.G.DE JUSTICIA-Concepto	4209
 DATA JUSTiCE	961
 DE JUSTICE DELIVRES AUX PARTICULIERS PAR	16635
@@ -243,6 +243,7 @@ Directorate of National Justice Policy	10765,10
 Directorate-General for Justice and Consumers	7685
 Direitos Humanos Justiça	10753
 Direitos Humanos O Ministério da Justiça	10752
+Diretor da Política de Justiça	18861
 Direção-Geral da Política de Justiça	15535,289
 Document and Justify	14524
 Download Common Core Document Ministry of Justice	12936
@@ -641,6 +642,7 @@ Justice Domine BANYANKIMBONA	13330
 Justice Dr. James Alala	18714
 Justice Dr. Jane Mayemu Ansah SC	13095
 Justice E.O Ashade	11993
+Justice Education Society of British Columbia	18868
 Justice Edward Amoako Asante	11704
 Justice Egonda-Ntende	5422
 Justice Extraction	15583
@@ -904,6 +906,7 @@ Justification of Broadband Policy	18485
 Justification of Overall Efficacy Rating	11924,3500,87,90,62,68
 Justification of Overall Efficacy Rating Overall Efficacy	17962
 Justification of Overall Efficiency Rating	15424
+Justification of Overall Outcome Rating	18754
 Justification of Overall Rating of Bank Performance	15601,130,705
 Justification of Overall Rating of Bank Performance Overall	17962
 Justification of Overall Rating of Bank Performance Rating	15424
@@ -914,6 +917,7 @@ Justification of Overall Rating of Quality of M&E Rating	15424
 Justificativa	11456
 Justificativa Preliminar Texto	11456
 Justificação	11373,528
+Justificações	18798
 Justificotion	15429
 Justified	3861
 Justifier	13781,28,769,2907,498
@@ -963,7 +967,7 @@ Justinho	10762
 Justino Nchama Ondo	16989
 Justisa	11586,5783
 JustiÞcatifs	15901
-Justiça	438,101,713,1,1,1,693,106,31,1,1,1,493,235,137,95,559,667,141,1,1,1,854,24,128,239,58,267,72,107,370,77,26,101,78,125,22,4,25,315,744,577,927,1192,1,1,1,635,48,25,18,5,46,7,3,2,5,15,7,17,315,38,75,25,80,656,56,2527,1,44,123,46,122,130,57,81,33,72,420,516,217,105,8,41
+Justiça	438,101,713,1,1,1,693,106,31,1,1,1,493,235,137,95,559,667,141,1,1,1,854,24,128,239,58,267,72,107,370,77,26,101,78,125,22,4,25,315,744,577,927,1192,1,1,1,635,48,25,18,5,46,7,3,2,5,15,7,17,315,38,75,25,80,656,56,2527,1,44,123,46,122,130,57,81,33,72,420,516,217,105,8,41,1377,1,11,4,15,30
 Justiça Algorítmica	2816
 Justiça Chega	10751
 Justiça Digital	10782
@@ -1116,7 +1120,7 @@ Ministerio de Justicia	1701,5140,2698,7320,35,39,32,84,40
 Ministerios de Justicia	16894
 Ministers of Justice	12527,2299
 Ministers of Justice Adopt AfCFTA Protocol	14674
-Ministra da Justiça	3048,2376,594,5548,474
+Ministra da Justiça	3048,2376,594,5548,474,6732,14,10,16
 Ministries of Communications and Justice	11641
 Ministries of Finance and Justice	15241
 Ministries of Foreign Affairs and Justice	16046
@@ -1133,7 +1137,7 @@ Ministry Justice	12674
 Ministry for Justice The Gambia Poverty and Gender	16951
 Ministry of Education and Ministry of Justice	13310
 Ministry of Foreign Ministry of Territorial Security Justice	10812
-Ministry of Justice	39,82,640,209,30,161,82,431,193,121,355,130,210,321,600,31,491,88,29,40,132,1,1,1,110,149,307,260,658,571,750,686,484,673,762,275,24,582,52,4,3,7,37,16,13,138,156,400,6,17,83,212,56,117,111,30,171,29,48,58,39,305,103,57,5,23,9,26,40,15,2,25,3,126,2,15,42,53,40,27,8,34,5,27,3,87,86,1,49,135,17,81,1,45,16,6,10,5,26,35,42,1,145,135,244,178,13,9,15,8,8,118,55,52,1,56,32,12,168,16,58,19,19,42,18,475,98,336,214,154,5,4,1,2,13,11,3,3,25,1,23,3,1,6,2,7,9,5,3,8,13,105,13,25,18,103,54,80,47,62,390,41,191,180,141,152,1,5,63
+Ministry of Justice	39,82,640,209,30,161,82,431,193,121,355,130,210,321,600,31,491,88,29,40,132,1,1,1,110,149,307,260,658,571,750,686,484,673,762,275,24,582,52,4,3,7,37,16,13,138,156,400,6,17,83,212,56,117,111,30,171,29,48,58,39,305,103,57,5,23,9,26,40,15,2,25,3,126,2,15,42,53,40,27,8,34,5,27,3,87,86,1,49,135,17,81,1,45,16,6,10,5,26,35,42,1,145,135,244,178,13,9,15,8,8,118,55,52,1,56,32,12,168,16,58,19,19,42,18,475,98,336,214,154,5,4,1,2,13,11,3,3,25,1,23,3,1,6,2,7,9,5,3,8,13,105,13,25,18,103,54,80,47,62,390,41,191,180,141,152,1,5,63,125,5
 Ministry of Justice CHAPTER I PRELIMINARY PROVISIONS	18602
 Ministry of Justice CHAPTER XIII	18601
 Ministry of Justice Foreign Affairs	1777
@@ -1169,6 +1173,7 @@ Ministry of Justice and Liberties Contact	17441
 Ministry of Justice and Ministry of Interior	761
 Ministry of Justice and Ministry of Revenues	7909
 Ministry of Justice and Security. This ToR	13997
+Ministry of Justice and UNICEF	18873
 Ministry of Justice's Real Property Registry	12137
 Ministry of Justice-hosted PDF	14113
 Ministry of Justice. Addis Ababa	14014
@@ -1184,7 +1189,7 @@ Ministry. of Justice	13005
 Ministère de Justice Pour	18394
 Ministère de Transpare Secteur la Justice	15712
 Ministério Da Justiça	1252,1,1,1
-Ministério da Justiça	220,956,76,1,1,1,1,798,31,1,1,1,865,239,414,1,808,1,1,1,38,968,3,294,1098,1235,1,2,202,1012,1479,1,1,1,1,11,7,3,615,90,47,4,6,32,471,27,89,707,2496,111,214,21,119,171,1008,280
+Ministério da Justiça	220,956,76,1,1,1,1,798,31,1,1,1,865,239,414,1,808,1,1,1,38,968,3,294,1098,1235,1,2,202,1012,1479,1,1,1,1,11,7,3,615,90,47,4,6,32,471,27,89,707,2496,111,214,21,119,171,1008,280,1496,7,8,2,16,8
 Ministério da Justiça Africana	10750
 Ministério da Justiça. Depois	12863
 Ministério da Justiça. Estes	12863
@@ -1205,6 +1210,7 @@ Monsieur Léon Juste Ibombo	15901
 Monsieur TOKELY Justin	14492
 Monsieur le Ministre Léon Juste IBOMBO	15901
 Moov Africa. Jusqu’ici	3658
+Moveable Asset Electronic Collateral Registry. Justification	18825
 Mozambican Justice Ministry	5609
 Mozambique’s Minister of Justice	6880
 Mozambique’s Ministry of Justice	4545
@@ -1226,7 +1232,8 @@ National Justice Sector Transformation Roadmap	14012
 Ndola Teaching Hospital Dr. Justo Banda	7384
 Needs Assessment and Justification	11995
 Nota Justificativa O Decreto-Regulamentar	15503
-O Ministro da Justiça	9271
+O Ministro da Justi	18753
+O Ministro da Justiça	9271,9479,2
 O Ministério da Justiça	6060,1997,2693,1,2,726,58,477,26,791
 O Portal da Justiça	2054,14197
 O Princípio da Justiça	11388
@@ -1300,6 +1307,8 @@ Project Manager for CJID’s Tech Justice and Digital	10571
 Promoting Justice and Social Equality	2958
 Promotion of Administrative Justice Act	2307,3226,854,1017,3878,704,2238
 Promotion of Social Justice	2958
+Promotion of Social Justice and Inclusion	18809
+Promoção da Justiça Social	18853
 Proposed Data Protection Agency Ministry of Justice	1161
 Protection and Justice Act	12253
 Provedor de Justiça	14,1324,742,6163,415,87,219,1818,2072,2490
@@ -1321,7 +1330,9 @@ RECOGNITION ECONOMIES AND EPISTEMIC JUSTICE Credit	12090
 RENFORCER LA JUSTICE ET ASSURER	17901
 REPORT OF THE MINISTRY OF JUSTICE	13131
 Radio Justice BUJUMBURA ARCT	13414
+Recursos Nacionais MJAPDH Ministério da Justiça	18779
 Reference the Criminal Justice	11857
+Reforma da Justiça	18786
 Regional and Global Frameworks. Ministry of Justice Foreign	1777
 República Fiscal Corte Suprema Justicia Fiscal	4209
 República de Guinea Ecuatorial. JUSTIFICACION	16871
@@ -1342,8 +1353,11 @@ SADC Legal Instruments Ministers of Justice	14826
 SAPS and Justice	3225
 SIERRA LEONE'S JUSTICE SECTOR REFORM STRATEGY	18477
 STAFF REPORTER The Ministry of Justice	13014
+STPCB Ministry of Justice Financial	18770
 SUITE JUSQU'À CE QUE VOUS AYEZ	13300
 Safety and Protection Justice and Legal Empowerment Trust	14566
+Santomean Ministry of Justice. DireitosAoPovo	18868
+Santos Lima Correia Ministra da Justiça Administração	18773
 Second Associate Justice Law Clerk Bailiff	16943
 Secretario de Estado Magistrado Corte Suprema Justicia	4209
 Secretario de Estado de Justicia	1855
@@ -1384,12 +1398,14 @@ Solicitor General and Secretary for Justice Gertrude Hiwa	13177
 Solutions The Ministry of Justice	11641
 Spiro Just Raised	5200
 Sr Public Sector Spec. Justice Reform	17441
+Sr. Ministra da Justiça	18834
 Sr. Ministry of Justice	16853
 State Law Office and Department of Justice	14546
 State of California Department of Justice	1243
 Statutory and Customary Justice	18631
 Stockage des Justificatifs GED Base	14480
 Strengthening Justice	16973
+Strengthening the Justice and Security Sectors	18873
 Sua Excelência Justino Feltro da Costa Pinto	11436
 Sudan Ministry of Justice	14868,287
 Suprema Justicia Ministro de Estado Ministro Vocal	4209
@@ -1398,7 +1414,8 @@ Supreme Court of Justice	17101
 Supreme Court of Kenya Hon. Justice Martha	9546
 Supreme Court. Justice Zannah	12063
 Supreme Court. The Chief Justice and Associate	16943
-Supremo Tribunal de Justiça	11513,27,4482
+Supremo Tribunal de Justiça	11513,27,4482,2729,35
+Supremo Tribunal de Justiça Artigo	18751
 Supremo Tribunal de Justiça. CAPÍTULO V CONTENCIOSO	11528
 Supremo Tribunal de Justiça. Como	11561
 System The Ministry of Justice and Constitutional Affairs	12936
@@ -1432,6 +1449,7 @@ Truth and Justice Commission	14742,9
 Truth and Justice Commission Act	14742
 UK Ministry of Justice	6477
 UMA JUSTIÇA E UMA SEGURANÇA PARA	16487
+UN Peacebuilding Fund’s Justice and Security Sector	18868
 US Department of Justice. Upon	9188
 Uganda Digital Health Data Justice	9248
 Uma Justiça	16487

@@ -3,6 +3,7 @@ ABOUT CIVITAS ID Civitas ID	17417
 ADDFIN TABLE Project ID Project Name Additional	16896
 AES ID	6448
 AIIB Project ID P000462. Approved	607
+APL2 Project ID	18754
 AU ID	2979
 AU Interoperability Framework for Digital ID	7529
 Aadhaar ID	5267
@@ -45,6 +46,7 @@ BASIC DATA Operation ID	14971,1019
 BASIC DATA Product Information Operation ID	2473,2180,11316,63,155,249,1923
 BASIC DATA Product Information Project ID	1228
 BASIC INFORMATION OPS TABLE BASIC DATA Project ID Project	10963
+BASIC INFORMATION Operation ID Programmatic	18851
 BIOMETRIC NATIONAL ID	4634
 BRR Benin the Mobile ID Bénin	10714
 BU CLA Database ID AO.143	645
@@ -97,7 +99,7 @@ Buypass ID	10714
 CA02 Physical Address Participant’s ID of Participant	12364
 CEFORE ID	10812
 CNSS ID	10812
-CR and ID	969,9796,10,1562,69,3112,35
+CR and ID	969,9796,10,1562,69,3112,35,3224
 CR and ID Expand CR	10765
 CR and ID Process and Procedures Rationalize CR	10765
 CR and ID Working Group	10775
@@ -169,6 +171,7 @@ DDI Document ID DDI GIN 2024 FINDEX v02 M WB Producers Date	16665
 DDI Document ID DDI GMB 2024 FINDEX v02 M WB Producers Date	17045
 DDI Document ID DDI MRT 2024 FINDEX v01 M WB Producers Date	17925
 DDI Document ID DDI SDN 2025 WMS-R4 v01 M WB Producers Date	15024
+DDI Document ID DDI STP 2025 WBES v01 M WB Producers Date	18838
 DDI Document ID DDI-LBR-LISGIS-WEN-2024-v01 Producers	17165
 DDI Document ID DDI-SLE-StatsSL-AAS-2023-v03 Producers Date	18525
 DDI Document ID DDI-SLE-StatsSL-AAS-2024-v01 Producers Date	18567
@@ -191,6 +194,7 @@ Deploy National ID System	2398
 Description NOTICE AT-A-GLANCE Project ID	18711
 Description UNIQUE LEARNER ID	18506
 Desenvolvimento Humano ID	9441
+Desenvolvimento IDEEA ID Habilitando	18779
 Develop ID	15553
 Development of ID Verification Kit	12241,839,15
 Development of Integrated ID and CRVS Software	12241,839
@@ -198,7 +202,7 @@ Diagnostic of ID Systems	442,10323,10
 Digetal ID Unique Number	12226
 Digital Acceleration Project Project ID Financing	15621
 Digital Digital ID System	10714
-Digital ID	772,189,282,111,22,186,377,14,215,86,37,275,92,4,221,96,39,144,115,114,171,32,148,217,217,25,582,158,67,24,213,5,283,6,87,267,179,124,147,169,15,9,3,915,107,8,500,531,1553,561,51,10,10,34,3,34,30,326,34,18,111,112,432,21,31,15,8,128,43,37,7,5,27,4,36,85,60,18,9,120,24,77,307,46,53,15,143,76,31,105,380,3,7,170,664,78,4,34,29,69,9,70,38,513,35,1400,1406
+Digital ID	772,189,282,111,22,186,377,14,215,86,37,275,92,4,221,96,39,144,115,114,171,32,148,217,217,25,582,158,67,24,213,5,283,6,87,267,179,124,147,169,15,9,3,915,107,8,500,531,1553,561,51,10,10,34,3,34,30,326,34,18,111,112,432,21,31,15,8,128,43,37,7,5,27,4,36,85,60,18,9,120,24,77,307,46,53,15,143,76,31,105,380,3,7,170,664,78,4,34,29,69,9,70,38,513,35,1400,1406,411
 Digital ID Access Estimates and Methodology	10714
 Digital ID App	12165
 Digital ID Architecture and Rights	4863
@@ -379,6 +383,7 @@ GEF Project ID	3430
 GOL GNI ID IMF KYC LSW	12701
 GPE0000298 ID	13732
 GRANT NO.5500155013902 ID NO. P-KE-KOO-011	14546
+GRM Grievance Redress Mechanism ID Operation	18825
 GUP ID Ministry	13314
 Gabon's ID	114
 Gambia's ID	4708
@@ -498,6 +503,7 @@ ID General Security Requirement Description Compliant	13037
 ID Ghana	10822
 ID Guinea	10714
 ID ID	11986,3429
+ID IDA International Development Association INE	18825
 ID Identification ID4D Identification	15474
 ID Identification IDA International Development Association	1284
 ID Identificação	11555
@@ -623,6 +629,7 @@ ID and Passport	7569,3145
 ID and Proof	1223
 ID and Related Services	12406
 ID and SIM	4439
+ID and TIN	18797
 ID and UGHub	8074
 ID and UNHCR	3597
 ID and UPI. REPUBLIC OF KENYA	12165
@@ -729,6 +736,7 @@ ID. Only	10812
 ID. Participants	12328
 ID. Passport	3126
 ID. Phased	3094
+ID. Principais	18779
 ID. Proof	10714
 ID. Protection	15447
 ID. R12. Improving the Cybersecurity Institutional Framework	13314
@@ -759,6 +767,7 @@ ID. The Somalia	2691
 ID. Twelve	10841
 ID. TymeBank	4772
 ID. Type	12533
+ID. Um	18779
 ID. Vanguard	7561
 ID. Vetting	12227
 ID. Where ID	10714
@@ -782,7 +791,7 @@ ISSUANCE OF BIOMETRIC ID CARDS	11706
 Id BUlosuEO	16857
 Id and Digital Signature	16885
 Identification ID	13804,2,4531
-Identification Survey ID	10862,2222,675,1265,819,3,819,380,120,760,600,42,3,75,79
+Identification Survey ID	10862,2222,675,1265,819,3,819,380,120,760,600,42,3,75,79,114
 Identity Card Yes Electronic ID Card	10714
 Identity Card Yes NIA ID	10714
 Identity Yes Electronic ID Card	10714
@@ -988,7 +997,7 @@ National Digital ID Program	8920,3337
 National Digital ID Strategy	3781
 National Digital ID and Digital Transformation Strategy	1360,354
 National Fayda Digital ID Registration Project	7129
-National ID	445,339,985,47,73,31,195,4,199,6,66,57,74,45,92,17,45,50,8,42,3,101,1,22,50,8,12,1,9,14,20,224,18,105,52,112,38,13,119,61,14,3,247,21,3,81,85,21,275,78,9,138,48,5,57,28,38,14,117,57,125,43,15,175,80,16,101,196,63,159,140,19,225,40,7,254,7,16,43,245,32,32,513,75,106,53,494,524,207,268,73,25,291,326,163,103,125,193,51,10,47,17,13,110,1203,8,14,15,7,5,2,1,24,40,7,3,37,9,69,94,33,1,407,64,70,5,15,583,413,46,14,15,196,156,6,131,19,223,8,57,3,13,41,11,30,131,32,207,83,5,35,1314,55,20,7,311,116,494,631,232
+National ID	445,339,985,47,73,31,195,4,199,6,66,57,74,45,92,17,45,50,8,42,3,101,1,22,50,8,12,1,9,14,20,224,18,105,52,112,38,13,119,61,14,3,247,21,3,81,85,21,275,78,9,138,48,5,57,28,38,14,117,57,125,43,15,175,80,16,101,196,63,159,140,19,225,40,7,254,7,16,43,245,32,32,513,75,106,53,494,524,207,268,73,25,291,326,163,103,125,193,51,10,47,17,13,110,1203,8,14,15,7,5,2,1,24,40,7,3,37,9,69,94,33,1,407,64,70,5,15,583,413,46,14,15,196,156,6,131,19,223,8,57,3,13,41,11,30,131,32,207,83,5,35,1314,55,20,7,311,116,494,631,232,124
 National ID Achieves Breakthrough Penetration and Everyday	13095
 National ID Agency	10812,1521,37,2649
 National ID Birth	12216
@@ -1115,7 +1124,7 @@ Operation ID P176932	1175,2,1,1,1,1,1,82
 Operation ID P179410 Financing Instrument Does	11905
 Operation ID P511453 Estimated Approval	16654
 Operation ID P511651 Estimated Appraisal Date	16675
-Operation ID Product	14553
+Operation ID Product	14553,4256
 Operation ID Sequential	3604,2935
 Operation ID Strengthening Climate Resilience	17962
 Optimally the ID	16876

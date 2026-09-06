@@ -3,7 +3,7 @@ A2 Agregado Militar A3 Consejero A1	4209
 AFFAIRES ETRANGERES Le Conseil	8321
 AFFAIRES ETRANGERESLe Conseil	7670
 AGENCE GABONAISE DE DEVELOPPEMENT AGRICOLE CONSEIL	16175
-AI. Consequently	6952,7052,1709
+AI. Consequently	6952,7052,1709,3127
 ANCIENS COMBATTANTS Conseiller	8237
 ANCIENS COMBATTANTS Le Conseil	15942
 APD. O Conselho de Administração da APD	167
@@ -112,6 +112,7 @@ CABINET DU MINISTRE Conseillers Techniques	16175
 CAMES Conseil Africain	15474
 CAPÍTULO II DE LA CONSERVACIÓN	16855
 CC Conseil Constitutionnel CDPH Convention	18310
+CCM Conselho de Coordenação Multissectorial ECP Estratégia	18783
 CDED Conseil de Développement Economique de Djibouti	13836
 CDV Conseil	15724
 CENTRE INDÉPENDANT DE TEST ET CONSEIL	13300
@@ -201,7 +202,7 @@ CONSELHO DE MINISTROS Decreto-lei	15526
 CONSELHO DE MINISTROS Estabelece	11983
 CONSELHO DE MINISTROS Lei	17100
 CONSELHO DE MINISTROS Procede	11983
-CONSELHO DE MINISTROS Resolução	795,14899,61,264,1167
+CONSELHO DE MINISTROS Resolução	795,14899,61,264,1167,1586
 CONSELHO NACIONAL DE CIBERSEGURANÇA	11397
 CONSELHO TÉCNICO	11531
 CONSENSUS ET VALIDATION	16195
@@ -288,11 +289,11 @@ Conditions for Consent DATA PROTECTION AND PRIVACY	1474
 Condições de Conservação	10747
 Confidentiality and Consent	17099
 Congolese Institute for Nature Conservation	14666
-Conse	15584
+Conse	15584,3216
 Conse-	8301,6596
 Consecutive	5968,5937
 Consegue	10777
-Conseguimos	14191
+Conseguimos	14191,4679
 Conseguir	16898
 Conseguiu-se	6895
 Consei	15416,583
@@ -679,7 +680,7 @@ Consejos de Poblado. Siendo	16898
 Consejos de Poblados	4209,12629,124
 Consel'Vatória	11514
 Conselheiro da ARC	15982
-Conselho	13,2,152,263,2386,1331,1839,2758,31,1985,754,4,51,3881,76
+Conselho	13,2,152,263,2386,1331,1839,2758,31,1985,754,4,51,3881,76,3223,3,48
 Conselho Administrativo Geral da Justiça	10750
 Conselho Administrativo de Defesa Econômica	8760
 Conselho Africano de IA	3519
@@ -690,11 +691,12 @@ Conselho Constitucional de Moçambique	8243
 Conselho Constitucional. Em	12854
 Conselho Constitucional. Lei	12785
 Conselho Constitucional. Num	12854
-Conselho Consultivo	13,4068,11691,140
+Conselho Consultivo	13,4068,11691,140,2884,4
 Conselho Consultivo Tributário	15526
 Conselho Consultivo da Economia Digital	1409,2672
 Conselho Consultivo de IA	2816
 Conselho Consultivo. Durante	4081
+Conselho Consultivo. O Conselho de Administração	18796
 Conselho Directivo	3421,168,629,1360,847,36,2314,2607
 Conselho Diretivo	15433,17,36,426,222,65
 Conselho Diretivo Artigo	15912
@@ -715,6 +717,7 @@ Conselho Fiscal. Serviços Executivos	167
 Conselho Geral	17103
 Conselho Gestor	15476
 Conselho Judicial	6462
+Conselho Ministros.14 São	18796
 Conselho Municipal	1808
 Conselho Municipal da Beira	1808
 Conselho Municipal da Cidade de Nampula	1808
@@ -729,10 +732,12 @@ Conselho Nacional de Cibersegurança	4146,1,71,4662,919,1273,343
 Conselho Nacional de Comunicação Social	11513,48
 Conselho Nacional de Desenvolvimento	15526
 Conselho Nacional de Electricidade	9226
-Conselho Nacional de Estatística	6619,4830,4001,85
+Conselho Nacional de Estatística	6619,4830,4001,85,3242,17
+Conselho Nacional de Estatística CPLP	18794
 Conselho Nacional de Informação Estatística	11516
 Conselho Nacional de Inteligência Artificial	3519
 Conselho Nacional de Protecção de Dados	2816
+Conselho Nacional de Proteção Social. ASSEMBLEIA NACIONAL	18758
 Conselho Nacional de Segurança Cibernética	6970,5853
 Conselho Nacional de Transição	6307,2437,8356
 Conselho Presidencial de IA	3519
@@ -745,6 +750,7 @@ Conselho Superior da Magistratura Judicial	4435,6923,115,566
 Conselho Superior da Magistratura Judicial. Artigo	14
 Conselho Superior da Magistratura Judicial. O Conselho	11561
 Conselho Superior da Magistratura Judicial. Os	11561
+Conselho Superior de Defesa	18751
 Conselho Superior de Estatística	12770
 Conselho Superior de Estatística Artigo	12770
 Conselho Superior de Magistratura Judicial	167
@@ -755,14 +761,17 @@ Conselho da Administração Geral Tributária	10786
 Conselho da Europa	2345,13536,370
 Conselho da Europa A Convenção-Quadro	2816
 Conselho da União Europeia	2816,12693
-Conselho de Ad	15391
-Conselho de Admi	11518
-Conselho de Adminis	11518,3873
-Conselho de Administra	11518,3873
+Conselho de Ad	15391,3409
+Conselho de Admi	11518,7282
+Conselho de Adminis	11518,3873,3361
+Conselho de Administra	11518,3873,3361,48
 Conselho de Administracao da NOSi	15899
-Conselho de Administração	13,154,1924,693,32,50,1281,103,1322,247,509,291,1117,1490,468,105,287,54,300,928,4,5,72,69,1281,9,1,1,4,16,5,5,1343,1208,42,43,27,252,334,919,24,638,43,2
+Conselho de Administraão	18788
+Conselho de Administração	13,154,1924,693,32,50,1281,103,1322,247,509,291,1117,1490,468,105,287,54,300,928,4,5,72,69,1281,9,1,1,4,16,5,5,1343,1208,42,43,27,252,334,919,24,638,43,2,1037,9,12,15,8,4,76
 Conselho de Administração O Conselho de Administração	15503
+Conselho de Administração da AGER	18752,1,35,38
 Conselho de Administração da AGT	10787
+Conselho de Administração da ANPDP	18788
 Conselho de Administração da APD	167,577,8,9690
 Conselho de Administração da APD. Artigo	752
 Conselho de Administração da APD. CAPÍTULO II REMUNERAÇÃO	752
@@ -784,13 +793,14 @@ Conselho de Administração da Pró-Empresa	10349
 Conselho de Administração da UNITEL	8260
 Conselho de Administração da Unitel	8493
 Conselho de Administração da Universidade de Ciências	17008
-Conselho de Administração. Artigo	13,154,15224,698
+Conselho de Administração. Artigo	13,154,15224,698,2684
 Conselho de Administração. CAPÍTULO III ORGANIZAÇÃO	13
 Conselho de Administração. Documento	15391
 Conselho de Administração. Em	13
 Conselho de Administração. O Conselho Consultivo	16089
 Conselho de Administração. Podem	167
 Conselho de Administração. SECÇÃO III CONSELHO FISCAL	13
+Conselho de Administração. SECÇÃO V Comité de Auditoria	18800
 Conselho de Auscultação	11425
 Conselho de Auscultação Social. Disse	5721
 Conselho de Competitividade	11898
@@ -800,15 +810,19 @@ Conselho de Desenvolvimento	15526
 Conselho de Direcção	10753,699,1331
 Conselho de Direcção A Delegação da Justiça	10752
 Conselho de Diretivo da Autoridade Tributária	17411
+Conselho de Estado	18751
 Conselho de Europa	2816,12693
 Conselho de Gestão da AMECON	8003
+Conselho de Mi	18800
 Conselho de Minis	11527
-Conselho de Ministro	15503
-Conselho de Ministros	13,154,409,168,8,42,1,1642,379,50,326,54,273,556,71,1,71,56,141,1,1,1,17,1551,723,261,978,1016,307,843,640,18,11,575,2,1,1,7,2,1,1,5,3,1,1,11,2,1,18,4,11,3,10,6,3,3,2,10,47,4,1,1,6,1,10,20,12,332,410,463,3,5,1,12,13,15,19,2516,1,21,11,1,12,29,7,10,54,22,6,22,18,117,5,61,157,107,3,67,130,128,29,658,95,57,126,48,51
+Conselho de Ministro	15503,3269
+Conselho de Ministros	13,154,409,168,8,42,1,1642,379,50,326,54,273,556,71,1,71,56,141,1,1,1,17,1551,723,261,978,1016,307,843,640,18,11,575,2,1,1,7,2,1,1,5,3,1,1,11,2,1,18,4,11,3,10,6,3,3,2,10,47,4,1,1,6,1,10,20,12,332,410,463,3,5,1,12,13,15,19,2516,1,21,11,1,12,29,7,10,54,22,6,22,18,117,5,61,157,107,3,67,130,128,29,658,95,57,126,48,51,1339,1,1,1,19,1,1,19,3,2,2,53
+Conselho de Ministros Artigo	18751
 Conselho de Ministros Decreto	11569
 Conselho de Ministros Resolução	17411
 Conselho de Ministros. Artigo	6970,5341,512,2627,122
 Conselho de Ministros. CAPÍTULO III MEDIDAS	16056
+Conselho de Ministros. Deverá	18788
 Conselho de Ministros. Em	5988
 Conselho de Ministros. José Maria Pereira Neves	15358,1
 Conselho de Prevenção da Corrupção	15477
@@ -854,7 +868,7 @@ Consent-based	6423
 Consent-driven	14081
 Consent-required	6423
 Consentement	232,204,795,9594,11,40,2843,818,356,26,513,33,23,96,52,272,126,422,161,1205,9,288
-Consentimento	14,1,10740,4630,92,32
+Consentimento	14,1,10740,4630,92,32,3246
 Consentimiento	163,16692
 Consenting	5050,494,389,353,79,194,162,177,2871
 Consenting Banks	14546
@@ -869,11 +883,11 @@ Consequences of Licence Cancellation	18602
 Consequences of Slavery	17849
 Consequences of Treating Electricity	13624
 Consequent	771,18,11808
-Consequentemente	7527,3894,25,131,4744
+Consequentemente	7527,3894,25,131,4744,2462,5,3
 Consequential	587,14135,6,2,2,3,8,81,4,3728
 Consequential AI-related	13661
 Consequential Amendments	3714
-Consequently	25,211,335,2,145,48,192,51,255,201,240,110,9,79,190,682,173,41,929,1,1,206,134,172,7,92,52,56,37,56,116,370,2,22,3,2,117,88,53,61,405,189,134,115,40,9,15,4,11,24,159,155,121,1,133,197,3,267,211,31,79,152,1,108,53,118,66,8,227,2,2,42,99,102,173,107,108,276,103,143,13,197,93,208,43,450,2,10,1,4,51,26,83,15,10,71,69,26,3,6,14,2,72,49,19,1,16,155,57,179,153,3,1,2,3,13,21,52,13,26,3,8,88,71,13,27,55,13,28,11,30,20,2,9,7,9,10,5,3,6,4,6,22,12,111,108,54,196,14,11,1,8,21,1,58,4,71,11,63,125,2,2,31,1,9,3,60,2,57,55,92,57,5,318,47,100,7,32,281,75,20,10,14,64,12,57,19,10,1,21,10,69,24,20,25,10,1,2,12,18,20,12,17,6,3,33,64,44,42,136,30,75,26,5,40,32,3,51,53,6,16,37,668,127,48,299,16,22,15,4,24,3,1,23,4,26,15,32,37,19,6,9,26,95,50,31,1,50,54,150,157,15,30,7,69,13,8,36,56,163,29,290,14,11,8,10,38,6,33,3,11,14,53,16,63
+Consequently	25,211,335,2,145,48,192,51,255,201,240,110,9,79,190,682,173,41,929,1,1,206,134,172,7,92,52,56,37,56,116,370,2,22,3,2,117,88,53,61,405,189,134,115,40,9,15,4,11,24,159,155,121,1,133,197,3,267,211,31,79,152,1,108,53,118,66,8,227,2,2,42,99,102,173,107,108,276,103,143,13,197,93,208,43,450,2,10,1,4,51,26,83,15,10,71,69,26,3,6,14,2,72,49,19,1,16,155,57,179,153,3,1,2,3,13,21,52,13,26,3,8,88,71,13,27,55,13,28,11,30,20,2,9,7,9,10,5,3,6,4,6,22,12,111,108,54,196,14,11,1,8,21,1,58,4,71,11,63,125,2,2,31,1,9,3,60,2,57,55,92,57,5,318,47,100,7,32,281,75,20,10,14,64,12,57,19,10,1,21,10,69,24,20,25,10,1,2,12,18,20,12,17,6,3,33,64,44,42,136,30,75,26,5,40,32,3,51,53,6,16,37,668,127,48,299,16,22,15,4,24,3,1,23,4,26,15,32,37,19,6,9,26,95,50,31,1,50,54,150,157,15,30,7,69,13,8,36,56,163,29,290,14,11,8,10,38,6,33,3,11,14,53,16,63,99,2
 Consequência	9176
 Conser	15396
 Conser-	15349
@@ -887,6 +901,7 @@ Conservación. Centralización	16898
 Conservador	5296,180,6545,754,2621,1619,132
 Conservador Adjunto	10751
 Conservadora da Direção Geral	11566
+Conservados	18755
 Conservancy Office	13046
 Conservar	1701,9046,4638,1470,43
 Conservas	17100
@@ -929,7 +944,7 @@ Conservator	14713
 Conservator of Mortgages	14713,9,39
 Conservatorship	15553
 ConservatórSiaOdSosSãRoegVisictoesntCeomercial	15694
-Conservatória	5296,554,4901,10,602,165,9,39,322,3,874,2621,894
+Conservatória	5296,554,4901,10,602,165,9,39,322,3,874,2621,894,2463,81
 Conservatória de Bissau	11566
 Conservatória de Registo Civil	10756,690
 Conservatórias	10753,12,7,3,633,17,103,9,1238,2621,80,96,423,32,460
@@ -938,10 +953,11 @@ Conservatórias Regionais de Registo Civil	11537
 Conservatórias de Registo Civil	11537
 Conservatórias de Registos	16556
 Conservatórias. Na	10753
-Conservação	539,5252,5582,1,10,49,28,121,319,874,2617,984
+Conservação	539,5252,5582,1,10,49,28,121,319,874,2617,984,2385
 Conservação Expedita de Dados	10747
 Conservação Expedita de Dados de Tráfego	10747
 Conservação da Biodiversidade	414,9862,1266
+Conservação da Natureza	18760
 Conservação de Alimentos	17308
 Conservação de Cadernos de Recenseamento Compete	11528
 Conserve	5246,9572,702,193
@@ -1077,10 +1093,12 @@ Directeur Général I- CONSEILLERS TECHNIQUES	17817
 Directeur Général. III.1.2.1 Conseil	10876
 Directeur du Conseil Interministériel	15973
 Directorate of Cadastre and Land Conservation	4034
+Direcção de Conservação SQA	18760
 Direção Municipal da Conservatória	10765,10
 Dissolução O Conselho de Administração	15391
 Divers Le Conseil des Ministres	13445
 Division Appui Conseil	17872
+Do Conselho Nacional de Estatística	18749
 Docteur Boubou CISSE STATUANT EN CONSEIL	17841
 Domicile of Conservator	14713
 Dotation Conseil	16047
@@ -1303,7 +1321,7 @@ José Mario Vaz. PRESIDÊNCIA DO CONSELHO	11530
 Judicial Militar Delegada Consejero Presidencia	4209
 Juiz Conselheiro	11561
 Juiz Conselheiro Alberto Batista Lopes	11561
-Juízes Conselheiros	11473,88
+Juízes Conselheiros	11473,88,7225
 Kinshasa. Le Conseil	16001
 Kourwéogo. III.2. NOMINATIONS DANS LES CONSEILS	16287
 L'ACCES AU GRADE DE CONSEILLER ANALYSTE	16230
@@ -1384,6 +1402,7 @@ Le Secrétariat Technique Permanent du Conseil National	18169
 Le Secrétariat du Conseil	15412,4
 Legal Consequences	14742,9
 Legal Consequences The ZCSA	14237
+Lei da Conservação da Fauna	18760
 Les Conseiller Technique du MSDS	17845
 Les Conseillers	13292,560,4009
 Les Conseillers des Collectivités	17861
@@ -1525,7 +1544,7 @@ O Conselho	15,15511
 O Conselho Administração	15391
 O Conselho Científico. Artigo	15503
 O Conselho Constitucional	8658,87
-O Conselho Consultivo	13,15899
+O Conselho Consultivo	13,15899,2888
 O Conselho Consultivo Tributário	15526
 O Conselho Consultivo da ATCV	15912
 O Conselho Consultivo. Artigo	15912
@@ -1537,16 +1556,17 @@ O Conselho Fiscal	13,154,4051,7164,67,4001
 O Conselho Nacional	15526
 O Conselho Nacional de Cibersegurança	4147
 O Conselho Nacional de Desenvolvimento	15526
-O Conselho Nacional de Estatística	11963,3487
+O Conselho Nacional de Estatística	11963,3487,3299
 O Conselho Nacional de Segurança Cibernética	6970
 O Conselho Nacional de Transição	6307,2437,8356,215
 O Conselho Superior de Estatística	11516,1254
 O Conselho Técnico	167,11282,69
-O Conselho de Administração	13,154,11282,69,13,3860,85,27
+O Conselho de Administração	13,154,11282,69,13,3860,85,27,3270,23,4
 O Conselho de Administração Dr. Herry Mané	11583
 O Conselho de Administração da APD	167,577
 O Conselho de Administração da Autoridade Reguladora	2866
-O Conselho de Ministros	4075,360,6980,46,1359,4309,231
+O Conselho de Estado	18751
+O Conselho de Ministros	4075,360,6980,46,1359,4309,231,1440
 O Conselho de Supervisão	16089
 O Democrata GB O Conselho de Administração	11583
 O Venerando Conselheiro	11561
@@ -1671,6 +1691,7 @@ Présidents des DES CONSEILS CONSULTATIFS NATIONAUX	15405
 Présidents du Conseil des Ministres	16250
 Q CONSEILS ASSOCIES EN AFRIQUE GUINEE	16623
 Qualquer Conservatória	11363
+R I O PRESIDÊNCIA DO CONSELHO	18772
 RADIO GABON Président du Conseil	16175
 RDB. Le Conseil	14862
 REGIMENTO DO CONSELHO NACIONAL DE CIBERSEGURANÇA	4147
@@ -1686,6 +1707,7 @@ Recenseamento Eleitoral. CONSELHO DE MINISTROS	15359
 Records of Conservator of Mortgages	14828,3
 Recovery and Consequences of Non-Payment	17249
 Recovery and Consequences of Non-Payment PART VIII	17249
+Rede Omidyar. Um Conselho Consultivo de Alto	18779
 Registre de Conseil	18003
 Regiões Nº de Conservatórias Nº de Postos Anos	11537
 Représentants du Conseil	14425
@@ -1718,6 +1740,7 @@ SECRETARIAT DU CONSEIL DES MINISTRES Sous	16099
 SECRETARIO GENERAL DEL CONSEJO SUPER. PODER	4209
 SECTION CONSERVATION FONCIERE Inspecteur des Impôts	17982
 SECÇÃO I CONSELHO DE ADMINISTRAÇÃO Artigo	13
+SECÇÃO I Conselho de Administração Artigo	18773
 SECÇÃO III CONSELHO FISCAL Artigo	13
 SECÇÃO III CONSERVAÇÃO DO CADASTRO	11384
 SEMINAIRES ET CONFERENCES Le Conseil	16175
@@ -1821,6 +1844,8 @@ Transparency and Consent	10721
 Troisième Conseiller	8237
 Tuli Conservation Trust	5879,78
 TÍTULO II RÉGIMEN JURÍDICO DE CONSERVACIÓN	16855
+TÍTULO III Conselho de Estado	18751
+TÍTULO III Conselho de Estado Artigo	18751
 UAE Consensus	14075,4475
 UEMOA Le Conseil des Ministres DIRECTIVE N	14849
 UK Tax Consequences	7198
@@ -1852,8 +1877,10 @@ VU Les Délibérations du Conseil	13923
 Vaincrons CONSEIL NATIONAL DE LA STATISTIQUE	15961
 Valère TCHOBO Conseiller	10821
 Venerando Conselheiro Dr. N	11561
+Venerando Conselho de Ministros	18853
+Venerando Conselho de Ministros. Artigo	18798
 Venerando Juiz Conselheiro	11414
-Venerando Juiz Conselheiro Presidente	11473
+Venerando Juiz Conselheiro Presidente	11473,7313
 Vice-President du Conseil	13292
 Vice-Président du Conseil	13292,2244
 Vice-Présidente du Conseil	16620

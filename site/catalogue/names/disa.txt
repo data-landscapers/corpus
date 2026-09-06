@@ -42,6 +42,7 @@ C. Disability Grants Currently	12977
 C. Disability Mainstreaming and Inclusion	12977
 CEO of Disaster Avoidance Experts	14291
 CLIMATE Climate Change and Disaster Screening	3604
+CLIMATE Climate Change and Disaster Screening Has	18809
 COUNCIL FOR PERSONS WITH DISABILITIES	16887
 CRI Disability-Adjusted Life Years DALYs District	11417
 CRI Disaggregated	10768
@@ -422,7 +423,7 @@ Disaster Risk Financing	1828,14204,1225
 Disaster Risk Financing Consultant	10763
 Disaster Risk Financing Strategy	17257
 Disaster Risk Knowledge	16137
-Disaster Risk Management	10763,2214,1148,2012,1825,142,94,278
+Disaster Risk Management	10763,2214,1148,2012,1825,142,94,278,311
 Disaster Risk Management Act	11134,1989
 Disaster Risk Management Bill	12977
 Disaster Risk Management CNEDD National Framework	18198
@@ -442,9 +443,11 @@ Disaster Risk Management and Governance	12977
 Disaster Risk Management and Governance A. Strategy	12977
 Disaster Risk Management and Pandemic Preparedness	17257
 Disaster Risk Management and Social Protection Global	16032
+Disaster Risk Management. Summary	18787
 Disaster Risk Management. The NDRRMC	14738
 Disaster Risk Reduction	970,10450,1359,198,790,3184,24
 Disaster Risk Reduction Master Plan	12206
+Disaster Risk Reduction Services	18787
 Disaster Risk Reduction and Emergency Response	15845
 Disaster Risk Reduction and Emergency Response Indicators	15845
 Disaster Risk Reduction and Emergency Response MINTER	15845
@@ -573,7 +576,8 @@ MUBS Disability Resource and Learning Centre	4028
 Mainstreaming Disability Inclusion	13474
 Malawi Against Physical Disabilities	12993
 Malawi. J Disability Policy Stud	12231
-Man-made Disaster	1867,1695,42,7164,61,135,453,143,295,50,1426,1,2221,68,37,3,483
+Man-made Disaster	1867,1695,42,7164,61,135,453,143,295,50,1426,1,2221,68,37,3,483,2665
+Man-made Disaster Other Situations	18809
 Man-made Disaster. COSTS	16398
 Management Disaster Recovery Planning	9123
 Management System SNRRC National Strategy for Disaster	13729
@@ -659,7 +663,7 @@ National Union of Disability Organizations	15130
 National Union of Disability Organizations of Rwanda	12461
 Nations Disaster Management Team United Nations	10763
 Natural Disaster Management	18370
-Natural Disasters	1828
+Natural Disasters	1828,16959
 Natural Disasters Adaptation	1828
 Needs and Disability SLE School Life Expectancy	14896
 Network Disaster	11857

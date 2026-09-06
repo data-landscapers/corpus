@@ -56,6 +56,7 @@ Advance Passenger Information and Passenger Name Record	4275,6448
 Affairs and Immigration NAFIS Namibia Automatic Fingerprint	12947
 Africa MoU Memorandum of Understanding NAMFISA Namibian	11198
 Africa Namibia’s ICT	1013
+Africa Project Name	18754
 Africa Union Commission. Goverment Republic of Namibia	12367
 Africa. MTC Namibia and Botswana Fibre Networks	5066
 Africa. Namibia	4980
@@ -197,8 +198,10 @@ COMPONENTS Name	13027,893,1239,2745,229,221
 COMPONENTS Name Accelerating Learning	17958
 COMPONENTS Name Building	12228,39
 COMPONENTS Name Component	2712,3867,349,4467,576,469,3639,626,374,17,1254,5
+COMPONENTS Name Digital	18817
 COMPONENTS Name Economic Shock Responsive Cash	11988
 COMPONENTS Name Emergency	16013
+COMPONENTS Name Financial Soundness and Access	18792
 COMPONENTS Name Grant Support	17000
 COMPONENTS Name Institutional Development and Legal Reform	18534
 COMPONENTS Name Resilient Digital Infrastructure	4688,3189
@@ -253,7 +256,7 @@ Client Information Name of Applicant Postal Address	736
 Client Information Name of Controller	1877
 Client Information Name of Data Controller	1877
 Client Information Name of Fax Number Applicant	736
-Closing Period Indicator Name Value Month	2712,1976,3189,3518,4340,278,692,295,96,374,35,399,102,344,4,1,179
+Closing Period Indicator Name Value Month	2712,1976,3189,3518,4340,278,692,295,96,374,35,399,102,344,4,1,179,258,25
 Closing PeriodIndicator Name Result Month	18359
 Cloud Computing BANK OF NAMIBIA No	12967
 CoW NamPower	12399
@@ -310,6 +313,7 @@ Contact Name	16312
 Contacts Contacts Name Affiliation Email GlobalFindex	15844
 Contacts List Name Position Ministry	10812
 Contingent Emergency Response Component Indicator Name	4653
+Core Team Name Role Specialization ADM	18809
 Core Team for Social Protection NTA Namibia	12923
 Counsel Chikumbutso Namelo	13087
 Counsel Oounsel LEGEN Extended Team Name	11525
@@ -333,7 +337,7 @@ DATASHEET BASIC INFORMATION Operation Name Project	15743
 DATASHEET BASIC INFORMATION Project Name BASIC INFO TABLE	10964
 DATASHEET BASIC INFORMATION Project Name Environmental	11855
 DATASHEET BASIC INFORMATION Project Operation Name	1867,1737,7164,649,4244,483,2054
-DATASHEET Component Name Cost	11380,169,3942,24,3,2586,197
+DATASHEET Component Name Cost	11380,169,3942,24,3,2586,197,476
 DATASHEET Project Name BASIC INFORMATION Burundi	13331
 DDI Document ID DDI COG 2024 FINDEX v02 M WB Producers Name	15844
 DEATH REGISTRATION In Namibia	12337
@@ -399,7 +403,7 @@ Domain Name Administration	6946,8315,49
 Domain Name Authority	8435,166,2578,788
 Domain Name System	958,33,3219,2936,283,5866,2217,1033
 Domain Name System DSTV	958
-Domain Name System Security Extensions	1036,3174,6554,2531,2258,992
+Domain Name System Security Extensions	1036,3174,6554,2531,2258,992,2229
 Domain Name Systems	2117
 Domain Names and Postal Addresses	15340
 Domains Names	15340
@@ -713,6 +717,7 @@ LTA Name Project Manager	17260
 La Namibie	6241,7327,58
 Lagos. Named	3187
 Laldemira Nambala	5405,1392
+Last ISR Operation Ratings NAME IMPLEMENTATION	18809
 Last Name	10812,1049,6322,269
 Last Name Government MEPST	11916
 Last Name Role	11916
@@ -1909,9 +1914,9 @@ ORDER ORDER IN NUMBERS NamRA	13044
 ORGANIZATION NAME	2709
 OVERALL RATINGS Name	11988,1932,136,924,179
 OVERALL RATINGS Name Current Progress	4688
-OVERALL RATINGS Name Previous Current Progress	2712,3867,349,949,2993,525,1632,2708,278,692,295,96,374,35,399,102,127,217,4,1,179
+OVERALL RATINGS Name Previous Current Progress	2712,3867,349,949,2993,525,1632,2708,278,692,295,96,374,35,399,102,127,217,4,1,179,258,25
 Officer Table of Contents INTERPRETATION NAME TYPE	585
-Official Use Only Indicator Name	17000
+Official Use Only Indicator Name	17000,1792
 Old Namibian ID	12350
 Omaheke and Namibia	8250
 Ombudsman of Namibia	13097
@@ -1939,6 +1944,7 @@ Optional Protocol. Namibia	13033
 Oranjemund Namcol Centre	13046
 Oranjemund Namdeb Mine-Oranjemund Central Kitchen Bagdad	13046
 Order With Me’ Operators NamRA Commissioner	13044
+Organisation Name Zzapp Malaria	18776
 Organization Also Known As Long Name	16948
 Organization Name	11129
 Organization Performer Name	10244
@@ -2276,6 +2282,7 @@ Sul Malanje Moxico Namibe Uíge	10766
 Sul Malanje Moxico Namibe Uíge Zaire	10766
 Suleiman Namara	12412,2485,162,5
 Suleiman Namara Boban Varghese Paul	10768
+Suleiman Namara Guillaume Kroll	18809
 Suleiman Namara Task Team Leader	15190
 Suleiman Namara Task Team Leaders	14976,162
 Supporting Connectivity Indicator Name Unit of Measure	15424

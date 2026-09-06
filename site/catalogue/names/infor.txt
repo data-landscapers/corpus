@@ -1,4 +1,5 @@
 A-SEAT Audit Management Information System	9680
+A. Basic Information Central African Country	18754
 A. Basic Information Country	16614
 A. Basic Information26 Project Title	13938
 A. Basic Information35 Project Title	11863
@@ -277,6 +278,7 @@ BASIC INFORMATION	1284,10241,5397
 BASIC INFORMATION A. Basic Project Data	3456,9655,412,1053,937,37
 BASIC INFORMATION Financing Instrument Adaptable Program	15424
 BASIC INFORMATION OPS TABLE BASIC DATA Project ID Project	10963
+BASIC INFORMATION Operation ID Programmatic	18851
 BASIC INFORMATION Project	13856,1081
 BBBEE Compliance Performance Information	11218
 BEAM Management Information System	13420
@@ -465,6 +467,7 @@ Cambridge Centre for Quantum Information and Foundations	9698
 Cameroon Customs Information System	3730,1889,711
 Cameroon Customs Information System. Under	6293
 Canadian Police Information Center	10979
+Canais de Informação	18789
 Candidate and Party Information	7266
 Capacity Building and Information	18370
 Capital Output Ratio ICT Information and Communication	236
@@ -543,7 +546,7 @@ Chief Executive Officer State Information	11184
 Chief Executive Officer of AVID Information Technology	14358
 Chief Information Office	16975
 Chief Information Office Regime	16975
-Chief Information Officer	1777,3124,171,1302,5171,24,5303,4,99,95,324
+Chief Information Officer	1777,3124,171,1302,5171,24,5303,4,99,95,324,1378
 Chief Information Officer CLSG	16872
 Chief Information Officer CMMI Capability Maturity	12917
 Chief Information Officer CSIRT	16975
@@ -650,6 +653,7 @@ Computer Science Information Systems	10060
 Computer Science and Informatics	6832
 Computer Science and Information Systems Dept. Economics	10123
 Computer Science and Information Technology. UPPER NILE	18629
+Comunicação DITEI Direção de Tecnologia da Informação DGRN	18788
 Comunicações and Tecnologias de Informação	2295
 Concept Project Information Document	12253,3260
 Concessions Information Management System	16872
@@ -677,6 +681,7 @@ Constituency Development Fund Management Information System	13423
 Constitution. A Freedom of Information Act	14748
 Construction Phase Increased Inform	12253
 Construção de Redes de Informação	3519
+Consular Information for Americans	18879
 Consular Portal Information	11877
 Consulta Informações Online Formação	12021
 Consultor Informático	10757
@@ -692,7 +697,8 @@ Contact Information Name	9892,1
 Contact Information SMART Zambia Institute	12375,6
 Contact Information Technical Phone	14881
 Contact Information Website	11878
-Contact for More Information Tags Back	16972
+Contact for More Information Luanda Political and Economic	18797
+Contact for More Information Tags Back	16972,1825
 Contact for More Information U.S. Embassy Malabo	16972
 Contemporary Computing and Informatics	9237
 Contents Program Information	12138
@@ -770,6 +776,7 @@ Cybersecurity and Information Assurance	6832
 Cybersecurity and Information Security	5677
 Cybersecurity and Information Security Directive	5677,4708
 Cybersecurity for Network and Information Systems	14921
+Cúpula Mundial da Sociedade da Informação	18767,5
 D Informal	17127
 D Information Modeling	8604
 D Ministry of Information Techonology	14770
@@ -846,6 +853,7 @@ DHMIS District Health Management Information NIDS	396
 DIAGNOSTICS Informing	18578
 DIGITAIS PARA A GESTÃO DE INFORMAÇÃO	16321
 DIGITAL AGRICULTURAL INFORMATION BILL	14575
+DITEI Information Technology Directorate DO Development	18825
 DMI Dossier Médical Informatisé DODS Direction	13306
 DO SISTEMA INTEGRADO DE INFORMAÇÃO CRIMINAL	11540
 DONNEES INFORMATISEES STOCKEES	17841
@@ -943,7 +951,7 @@ Description Projets Informatiques	1293,765,2313
 Description Service Informationnel Ces	15936
 Description USAID Tanzania Health Information Systems	218
 Desenvolvimento da Sociedade de Infor	16251
-Desenvolvimento da Sociedade de Informação	1251,88,743,734,1596,11114,725
+Desenvolvimento da Sociedade de Informação	1251,88,743,734,1596,11114,725,2522
 Design and Access for Large Information Spaces	5700
 Designation of Critical National Information Infrastructure	10721
 Desporto NTIC Novas Tecnologias da Informação	11557
@@ -966,6 +974,8 @@ Development of Information and Communications Technologies	12896
 Development of Information and Communications Technology	11529
 Developmental Model API Advance Passenger Information	11986
 Developments Informing the BP-2014	16883
+Dever de Informar	18750
+Dever de Informar Quem	18750
 Diaspora Integrated Information Management System	5160
 Difficulty Formal Enterprises Informal Enterprises Working	12445
 Difusão Departamento de Informação	4044,7377
@@ -1039,6 +1049,7 @@ Directorates for Information Systems	2321
 Directors of Information Systems	3661,1256
 Directory Immigration and Visas Tourist Information	16982
 Direcção Nacional de Informação	1192
+Direcção de Tecnologia de Informação	18765,8
 Direito de Informação	11383,42
 Diretor de Informação	11555
 Diretor-Geral da Unidade de Informação Financeira	15881
@@ -1073,6 +1084,7 @@ District Health Information System	21,13,362,370,395,100,563,1967,558,3669,358,2
 District Health Information System DHRMD Department	12917
 District Health Information System Electronic Management	12037
 District Health Information System Version	12037
+District Health Information System-2	18768
 District Health Information System2	15936
 District Health Management Information System	1261,17217
 District Health Management Information Systems	396
@@ -1189,8 +1201,9 @@ Education Information System Decentralization	16909
 Education Information and Management System	15743
 Education Management Information	11860
 Education Management Information Directorate	15693
-Education Management Information System	210,1749,1460,153,1672,6308,46,262,45,13,119,15,123,21,149,63,86,522,27,2,98,167,4,18,86,211,231,41,89,4,102,480,320,20,6,65,460,157,57,27,55,7,210,49,347,80,475,110,128,36,1344,35,53,22,45,1
+Education Management Information System	210,1749,1460,153,1672,6308,46,262,45,13,119,15,123,21,149,63,86,522,27,2,98,167,4,18,86,211,231,41,89,4,102,480,320,20,6,65,460,157,57,27,55,7,210,49,347,80,475,110,128,36,1344,35,53,22,45,1,80,16
 Education Management Information System ERP Enterprise	12917
+Education Management Information System ESP Education	18765
 Education Management Information System EU	5244
 Education Management Information System EoI	12175
 Education Management Information System F2F	6832
@@ -1259,7 +1272,7 @@ Energy Information	17880
 Energy Information Administration	14851
 Energy Information System	17260
 Engagement Plan SGF DGID Land Information	18293
-Engenharia Informática	2816,8632,86,485,2,4208,92
+Engenharia Informática	2816,8632,86,485,2,4208,92,2498,12
 Engenharia Informática Apresentação	11534
 Engenharia Informática da Universidade de Cabo Verde	16229
 Engenharia Informática da Universidade de Santiago	16290
@@ -1409,6 +1422,7 @@ Financial Information Letter Development Impact Evaluation	15658
 Financial Information No Financial Information	12961
 Financial Information Performed	4896
 Financial Information UNHCR	16580
+Financial Information Unit	18797
 Financial Information for Financial	14997
 Financial Management Information System	969,859,8957,4305
 Financial Management Information System GDP Gross	11271
@@ -1436,9 +1450,12 @@ Five-Year Plan for National Informatization	10350
 Flight Information Region	14732
 Fluxo de Informacao	2228
 Fluxo de Informação	11537
+Fluxo de Informação Quem Data Contacto NRD	18788
 Fluxograma de Informações	11537
 Fokontany Information	14488,1,1
 Following the Request for Information	14759
+Fonte de Informações	18772
+Fontes de Informações Lidar	18767
 Food Safety Management Systems and Information Security	14736
 Foreign Direct Investment FOI Freedom of Information	17139
 Foreword Information and Communication Technology	12896
@@ -1503,7 +1520,7 @@ Further Information Further	1246
 Future of National Information Platform for Nutrition	13578
 Fórum Internacional de Tecnologias de Informação	6617,2,11009
 GDP. The Information and Communication	6325
-GENERAL INFORMATION	11197,1,20,6,26,2083,891,4354
+GENERAL INFORMATION	11197,1,20,6,26,2083,891,4354,209
 GENERAL INFORMATION ABOUT COLLATERAL REGISTRY SYSTEM	13333
 GENERAL INFORMATION Figure A	11250
 GENERAL INFORMATION Introduction Sierra Leone	18578
@@ -1608,6 +1625,7 @@ Gestão Informática Administração Local	10614
 Gestão de Informação Sanitária	11569
 Gestão de Lamego Engenharia Informática	17103
 Gestão de Projetos Informáticos	12019
+Gestão de Sistema de Informação Sanitária	18768
 GhILMIS Ghana Integrated Logistics Management Information	15556
 Ghana Agricultural Information and Monitoring System	9561
 Ghana Enterprise Land Information System LC	15657
@@ -1891,7 +1909,7 @@ IEBC Information Communication	3758
 IEC Information	11924
 IEC Information Technology	12360
 IEEE Journal of Biomedical and Health Informatics	8606
-IFMIS Integrated Financial Management Information System	1284,15601
+IFMIS Integrated Financial Management Information System	1284,15601,1892
 IFMIS The Integrated Financial Management Information	18500
 II. INFORMATIONS GENERALES SUR LE PROJET	13737
 II. INFORMATIONS GÉNÉRALES SUR LE PAYS	14437
@@ -2008,6 +2026,7 @@ INFORMATION SERVICES	12971,3862
 INFORMATION SOCIETY	14879
 INFORMATION SOCIETY DAY	6168
 INFORMATION SOCIETY ISSUES	16839
+INFORMATION SUPPLIED THROUGH WMO	18787
 INFORMATION SUPPLIED. PART VI Data Subject	972
 INFORMATION SUR	15908
 INFORMATION SUR LES DELAIS DE LIVRAISON	17825
@@ -2083,6 +2102,7 @@ INTRODUCTION The Namibia Integrated Employment Information	13037
 INTRODUCTION The Nigeria Education Management Information	11860
 IOM South Sudan Public Information	18678
 IOs The Information Commission	17612
+IPF Investment Project Financing IT Information	18777
 IPP Independent Power Producer IT Information	10781,1646,2055
 IPv6 General Authority for Communications and Informatics	4849
 IRAKOZE Belyse Informaticienne des Mines REGIDESO	13341
@@ -2118,6 +2138,7 @@ In-person Key Informal Interviews	17099
 Incidente Informático	10747
 Incidentes Informáticos	10747,649,1
 Incidentes de Segurança Informática	4218,5008,6278
+Incidentes de Segurança da Informação	18774
 Incidentes de Seguridad Informática	16965
 Incidents Informatiques	2695
 Income ICT Information and Communications Technology ID	10765,10
@@ -2168,7 +2189,7 @@ Información	975,726,1328,150,315,715,3839,833,1557,697,394,5326,10,3,26,4,64,3,
 Información Publicada	17301
 Información Pública	17171
 Información Sanitaria	6841
-Informal	418,522,69,819,2520,215,238,39,332,524,378,140,171,1233,1,144,952,1024,1018,6,213,4,26,99,33,42,116,285,293,120,96,124,83,49,37,26,35,1,12,3,545,353,266,786,575,12,88,45,34,178,131,7,31,633,655,122,193,25,731
+Informal	418,522,69,819,2520,215,238,39,332,524,378,140,171,1233,1,144,952,1024,1018,6,213,4,26,99,33,42,116,285,293,120,96,124,83,49,37,26,35,1,12,3,545,353,266,786,575,12,88,45,34,178,131,7,31,633,655,122,193,25,731,917
 Informal CBFIs	12409
 Informal CBT	13418
 Informal Cross-Border Trade Survey	15929
@@ -2232,7 +2253,7 @@ Informant Interview LDHS Liberia Demographic and Health	16860
 Informant. Birth	12216
 Informante	8114
 Informants Registration	12327
-Informar	163,4,10605,11,585,6,8,67,83,3945,43,34,18,749,534,4
+Informar	163,4,10605,11,585,6,8,67,83,3945,43,34,18,749,534,4,1914
 Informarse	16855
 Informateur Sensibilisation	14425
 Informati	14775
@@ -2253,7 +2274,7 @@ Informatics&volume	2096
 Informatik	9237
 Informatika	14412
 Informatikai Kft. Consilia ApS AustriaContent Moss	8530
-Information	1,2,9,5,4,1,4,1,1,6,15,161,26,72,120,8,98,13,18,17,5,150,6,5,14,4,3,2,4,8,116,41,18,11,3,28,9,51,17,108,2,27,17,5,25,23,1,1,47,124,97,44,5,35,11,129,23,6,7,2,2,19,40,29,143,44,3,58,170,18,76,33,63,116,5,25,35,14,18,6,42,26,54,37,21,18,20,7,3,162,1,37,23,1,10,110,28,4,3,1,14,1,19,20,24,56,37,71,21,110,1,67,9,70,1,25,80,18,4,26,75,36,44,44,32,9,18,24,28,17,42,1,17,22,65,36,120,108,38,32,58,1,54,81,96,131,3,102,25,6,60,162,15,60,23,33,81,16,3,214,1,77,150,133,15,48,41,81,7,32,106,54,1,78,63,8,4,2,21,18,13,20,61,70,6,26,95,29,39,34,42,17,12,63,34,114,6,6,13,37,35,46,40,41,54,15,38,29,36,72,47,37,58,11,53,12,39,49,24,47,61,34,1,1,1,1,64,170,20,2,1,98,17,89,7,8,41,88,1,9,16,27,23,37,9,9,64,10,93,88,3,53,7,8,71,116,35,2,178,24,8,114,2,54,13,168,79,69,10,46,44,7,4,2,4,3,8,36,10,5,13,16,3,2,5,2,8,2,5,4,4,18,3,1,9,1,16,3,1,1,1,5,1,1,1,1,4,10,4,15,4,4,21,5,1,2,18,10,1,11,11,22,45,34,1,9,12,27,1,2,3,12,2,20,10,5,17,9,10,2,70,8,68,22,78,12,24,27,9,29,12,64,159,2,9,9,7,4,1,10,1,9,13,6,4,4,8,1,3,12,9,2,9,10,61,7,74,4,6,13,8,1,25,3,13,1,3,27,8,6,7,49,18,5,2,10,1,13,5,3,1,1,15,13,11,3,10,6,26,22,20,13,12,20,10,6,1,13,86,3,23,1,18,15,12,39,109,38,1,10,1,1,3,6,2,11,1,6,8,3,3,9,1,1,4,10,18,25,7,5,9,2,18,31,21,1,4,4,53,65,17,9,4,10,5,6,5,4,2,2,5,2,1,1,4,4,1,1,8,5,6,7,16,1,3,6,10,19,2,2,24,19,18,5,22,28,21,35,38,10,11,6,3,15,7,25,12,1,1,3,7,8,11,1,22,9,1,2,7,6,3,5,2,1,1,5,23,19,6,3,4,4,47,23,12,10,38,29,36,6,69,42,115,31,17,35,2,39,2,6,3,7,1,2,5,10,3,10,16,1,1,8,26,4,9,2,7,3,16,8,21,37,27,55,29,2,3,3,2,4,24,39,6,3,3,5,4,10,4,7,1,3,2,3,9,1,11,2,3,1,22,2,44,16,3,72,24,5,35,6,3,20,12,45,41,17,48,30,15,6,10,3,2,11,5,5,12,12,1,1,6,3,12,1,4,7,14,1,2,4,1,5,2,1,5,3,16,1,4,1,5,5,13,1,11,2,1,10,8,5,4,12,4,5,4,10,3,6,4,1,3,2,1,1,4,15,1,2,2,10,1,4,2,5,1,15,9,1,1,8,4,3,11,5,4,12,10,9,11,12,27,17,5,51,2,5,13,9,6,7,7,17,6,61,36,5,17,1,6,4,2,7,18,14,28,3,20,8,24,1,2,11,8,1,45,75,4,1,7,2,5,84,13,9,3,29,3,70,3,12,1,1,2,1,6,1,1,6,5,2,11,59,3,11,6,101,1,2,4,1,3,1,4,3,1,6,2,1,2,4,5,6,7,15,15,6,1,2,2,16,1,6,2,1,3,3,2,8,2,2,45,1,50,29,2,6,9,13,12,1,9,8,8,78,6,40,41,21,43,38,5,4,1,6,10,2,40,105,47,21,98,9,37,2,4,1,2,1,1,1,1,1,1,1,3,5,1,2,1,10,1,4,1,8,1,3,1,5,3,3,14,3,5,9,10,20,4,15,1,12,4,1,20,6,23,8,7,3,1,26,13,10,4,1,1,3,3,4,2,1,2,2,4,8,2,4,2,1,13,1,6,1,5,1,7,2,12,2,2,8,4,2,12,5,4,4,1,3,10,1,2,1,12,21,5,1,1,4,1,6,3,2,2,8,2,6,10,2,15,4,12,30,2,1,16,3,10,3,3,3,1,3,9,3,3,2,7,1,8,7,5,10,10,11,15,6,10,4,14,3,5,6,13,27,51,16,31
+Information	1,2,9,5,4,1,4,1,1,6,15,161,26,72,120,8,98,13,18,17,5,150,6,5,14,4,3,2,4,8,116,41,18,11,3,28,9,51,17,108,2,27,17,5,25,23,1,1,47,124,97,44,5,35,11,129,23,6,7,2,2,19,40,29,143,44,3,58,170,18,76,33,63,116,5,25,35,14,18,6,42,26,54,37,21,18,20,7,3,162,1,37,23,1,10,110,28,4,3,1,14,1,19,20,24,56,37,71,21,110,1,67,9,70,1,25,80,18,4,26,75,36,44,44,32,9,18,24,28,17,42,1,17,22,65,36,120,108,38,32,58,1,54,81,96,131,3,102,25,6,60,162,15,60,23,33,81,16,3,214,1,77,150,133,15,48,41,81,7,32,106,54,1,78,63,8,4,2,21,18,13,20,61,70,6,26,95,29,39,34,42,17,12,63,34,114,6,6,13,37,35,46,40,41,54,15,38,29,36,72,47,37,58,11,53,12,39,49,24,47,61,34,1,1,1,1,64,170,20,2,1,98,17,89,7,8,41,88,1,9,16,27,23,37,9,9,64,10,93,88,3,53,7,8,71,116,35,2,178,24,8,114,2,54,13,168,79,69,10,46,44,7,4,2,4,3,8,36,10,5,13,16,3,2,5,2,8,2,5,4,4,18,3,1,9,1,16,3,1,1,1,5,1,1,1,1,4,10,4,15,4,4,21,5,1,2,18,10,1,11,11,22,45,34,1,9,12,27,1,2,3,12,2,20,10,5,17,9,10,2,70,8,68,22,78,12,24,27,9,29,12,64,159,2,9,9,7,4,1,10,1,9,13,6,4,4,8,1,3,12,9,2,9,10,61,7,74,4,6,13,8,1,25,3,13,1,3,27,8,6,7,49,18,5,2,10,1,13,5,3,1,1,15,13,11,3,10,6,26,22,20,13,12,20,10,6,1,13,86,3,23,1,18,15,12,39,109,38,1,10,1,1,3,6,2,11,1,6,8,3,3,9,1,1,4,10,18,25,7,5,9,2,18,31,21,1,4,4,53,65,17,9,4,10,5,6,5,4,2,2,5,2,1,1,4,4,1,1,8,5,6,7,16,1,3,6,10,19,2,2,24,19,18,5,22,28,21,35,38,10,11,6,3,15,7,25,12,1,1,3,7,8,11,1,22,9,1,2,7,6,3,5,2,1,1,5,23,19,6,3,4,4,47,23,12,10,38,29,36,6,69,42,115,31,17,35,2,39,2,6,3,7,1,2,5,10,3,10,16,1,1,8,26,4,9,2,7,3,16,8,21,37,27,55,29,2,3,3,2,4,24,39,6,3,3,5,4,10,4,7,1,3,2,3,9,1,11,2,3,1,22,2,44,16,3,72,24,5,35,6,3,20,12,45,41,17,48,30,15,6,10,3,2,11,5,5,12,12,1,1,6,3,12,1,4,7,14,1,2,4,1,5,2,1,5,3,16,1,4,1,5,5,13,1,11,2,1,10,8,5,4,12,4,5,4,10,3,6,4,1,3,2,1,1,4,15,1,2,2,10,1,4,2,5,1,15,9,1,1,8,4,3,11,5,4,12,10,9,11,12,27,17,5,51,2,5,13,9,6,7,7,17,6,61,36,5,17,1,6,4,2,7,18,14,28,3,20,8,24,1,2,11,8,1,45,75,4,1,7,2,5,84,13,9,3,29,3,70,3,12,1,1,2,1,6,1,1,6,5,2,11,59,3,11,6,101,1,2,4,1,3,1,4,3,1,6,2,1,2,4,5,6,7,15,15,6,1,2,2,16,1,6,2,1,3,3,2,8,2,2,45,1,50,29,2,6,9,13,12,1,9,8,8,78,6,40,41,21,43,38,5,4,1,6,10,2,40,105,47,21,98,9,37,2,4,1,2,1,1,1,1,1,1,1,3,5,1,2,1,10,1,4,1,8,1,3,1,5,3,3,14,3,5,9,10,20,4,15,1,12,4,1,20,6,23,8,7,3,1,26,13,10,4,1,1,3,3,4,2,1,2,2,4,8,2,4,2,1,13,1,6,1,5,1,7,2,12,2,2,8,4,2,12,5,4,4,1,3,10,1,2,1,12,21,5,1,1,4,1,6,3,2,2,8,2,6,10,2,15,4,12,30,2,1,16,3,10,3,3,3,1,3,9,3,3,2,7,1,8,7,5,10,10,11,15,6,10,4,14,3,5,6,13,27,51,16,31,48,6,1,61
 Information AMCD Accès	15493
 Information ANDE	16641
 Information APDP Autorité de Protection des Données	15583
@@ -2499,6 +2520,7 @@ Information Management Framework	11854
 Information Management Framework Information	11854
 Information Management Services	16872
 Information Management System	10829,1412,84,123,1127,1
+Information Management System for EMAE	18823
 Information Management System for School Registration	13575,1
 Information Management Systems	12253
 Information Management UNGGIM	15129
@@ -2696,7 +2718,7 @@ Information Socia	17827
 Information Social	17845
 Information Sociale	17845
 Information Sociale M. Samuel Michel Yameogo	10812
-Information Society	437,521,3,1612,202,1191,1649,1021,312,49,41,11,86,54,14,15,10,200,448,237,777,55,1826,668,90,344,18,18,56,931,17,301,81,1428,6,13,111,519,218,456,449,377,899,99,853
+Information Society	437,521,3,1612,202,1191,1649,1021,312,49,41,11,86,54,14,15,10,200,448,237,777,55,1826,668,90,344,18,18,56,931,17,301,81,1428,6,13,111,519,218,456,449,377,899,99,853,44,5
 Information Society Authority	6041
 Information Society Authority RURA Rwanda Utilities	1204
 Information Society Award	1888
@@ -2830,6 +2852,7 @@ Information Technology Chairman	16212
 Information Technology Company	2837,11148
 Information Technology DATA GOVERNANCE	3184,1,7810
 Information Technology Day	6243
+Information Technology Department NFIS	18770
 Information Technology Development Agency	5665
 Information Technology Development Company	4284
 Information Technology Equipment CRAC	9123
@@ -2853,6 +2876,7 @@ Information Technology LAN	14857
 Information Technology LMICs Low and Medium	15411
 Information Technology LMP Labor Management Procedures	15138
 Information Technology LTA Libyan Tax Authority	16955
+Information Technology M	18825
 Information Technology M&E Monitoring and Evaluation MDTF	16922
 Information Technology M&E Monitoring and Evaluation MoTS	13345
 Information Technology MCIT	15714
@@ -2947,6 +2971,7 @@ Information and Communication Technology Commission	7515
 Information and Communication Technology Country	13731
 Information and Communication Technology Department	2958
 Information and Communication Technology Development	12982
+Information and Communication Technology Element	18787
 Information and Communication Technology For Développement	17824
 Information and Communication Technology House	11184
 Information and Communication Technology IE	12175
@@ -3003,6 +3028,7 @@ Information and Communications. Establish	13314
 Information and Communications. SETIC	13314
 Information and Compliance	18442
 Information and Consumer Relations and Advocacy	13102
+Information and Contacts By U.S. Embassy	18879
 Information and Coordination	16833
 Information and Coordination Department	16833
 Information and CoordinationDepartment	16833
@@ -3142,6 +3168,7 @@ Information. Le Procureur	15643
 Information. M. Adji Ali Salatou	3337
 Information. Missions	15472
 Information. Notamment	5103
+Information. Official Use Only The World	18809
 Information. Pour	18047
 Information. Public Disclosure Authorized Public Disclosure	11560,5881
 Information. REPORT ON LAWFULNESS	14546
@@ -3247,10 +3274,10 @@ Informatización	2585,1624,5315,2005,5326,13,65,9,3,35,7
 Informatización Admón. Púb	4209
 Informatizar	12774
 Informatization	16942
-Informatização	15396
+Informatização	15396,3383
 Informatização Nacional	11461
 Informatlon	16833
-Informação	13,154,372,37,218,1501,142,1,1081,3451,3783,1,608,1,4,1,19,18,20,5,5,9,3,1,3,1,4,7,57,41,8,5,8,127,189,3,118,755,17,2568,32,59,27,95,122,272,156,199,4,162,595,96,183,267
+Informação	13,154,372,37,218,1501,142,1,1081,3451,3783,1,608,1,4,1,19,18,20,5,5,9,3,1,3,1,4,7,57,41,8,5,8,127,189,3,118,755,17,2568,32,59,27,95,122,272,156,199,4,162,595,96,183,267,1132,14,1,13,6,2,2,31,6,18
 Informação Administrativa Consulta Prévia	3079
 Informação Básica. A. Dados Básicos	11440
 Informação Crítica	795
@@ -3269,12 +3296,14 @@ Informação Técnica de Pesquisa	11405
 Informação de Moçambique	14261
 Informação de Pesquisa	11405
 Informação. Assembleia da República Lei	12773
-Informações	167,2271,1081,2763,2894,1579,22,6,603,19,5,15,5,22,69,7,54,316,3,120,98,3269,52,92,490,6,82,28
+Informações	167,2271,1081,2763,2894,1579,22,6,603,19,5,15,5,22,69,7,54,316,3,120,98,3269,52,92,490,6,82,28,2615,15,5,18,8
 Informações Administrativas	11873
 Informações Auxiliares Individuais	15450
 Informações Cadastrais	11384
+Informações Confidencias	18753
 Informações Contactos	11415,13
 Informações Estatísticas Individuais	15450
+Informações Estatísticas Para	18750
 Informações Falsas	9161,1895,380
 Informações Falsas A Ordem	11436
 Informações Geográficas	11405
@@ -3283,6 +3312,7 @@ Informações Governamentais ADI8 ADI9 TEC3 TEC2	15532
 Informações Jurídicas	10753
 Informações Pessoais	3519
 Informações Relativas	11425
+Informações de Contacto Telefone	18799,25
 Informações de Crédito	15526
 Informações de Perigo	15388
 Informe	1701,1115,8060,5032,967,23
@@ -3314,14 +3344,14 @@ Informes Específicos	1701
 Informes de Comercio Exterior INEGE	16898
 Informes de Evaluación Global	1701
 Informes de Implementación	16898
-Informing	1580,5368,600,3216,426,363,371,990,547,268,1613,1490,179,1492
+Informing	1580,5368,600,3216,426,363,371,990,547,268,1613,1490,179,1492,284
 Informing Policy	15765
 Informing Policy and Planning	17116
 Informini.org C’est	17879
 Informotion	15429
 Informou	3692,602,3291,3175,816
 Informá-la	15344
-Informática	2816,2237,4471,1878,70,1,88,337,121,2,3338,413,1193,43
+Informática	2816,2237,4471,1878,70,1,88,337,121,2,3338,413,1193,43,1823
 Informática Aplicada	15772
 Informática Duas	17103
 Informática de Gestão	11898,123
@@ -3330,7 +3360,7 @@ Informático	4209
 Informático José Afonso	10757
 Informático João Paulo Serrão	10757
 Informático SUBCOMISSÃO DE MOBILIDADE E PUBLICIDADE	10757
-Informáticos	11421,25,131
+Informáticos	11421,25,131,7181
 Informé	5022,10914
 Informé Appui	15936
 Informé CAIDP Ministères Informé Informé Consulté	15936
@@ -3347,7 +3377,7 @@ Infra-Estrutura Informática	10747
 Infra-estrutura de Tecnologias de Informação	6970
 Infra-estruturas Críticas de Informação	2784
 Infra-estruturas Críticas de Informação. Edição	2784
-Infraestruturas Críticas de Informação	2784
+Infraestruturas Críticas de Informação	2784,16004
 Ingénieur Informaticien. Vu le Décret	18032
 Ingénieur Statisticien Informaticien	13937
 Ingénieurs Informaticiens	18169
@@ -3370,12 +3400,13 @@ Institute of Information Technology Professionals South	6832
 Institution Basic Information and Address	13333
 Institutional Programme Performance Information	11197,789
 Institutions Clients No Operation Information Reallocations	16032
+Instituto Brasileiro de Informação	18855
 Instituto Nacional de Fomento da Informação	11389
 Instituto Nacional de Fomento da Sociedade da Informação	11317,54,11
 Instituto Nacional de Fomento da Sociedade de Informação	1192,4762,25,702,4091
 Instituto Nacional de Tecnologia da Informação	11394,1416
 Instituto Nacional de Tecnologia de Informação	12294
-Instituto Nacional de Tecnologias de Informação	2473,311,32,242,1156,295,1822,3103,1006,899,100,703,649,8,2,7,1,1,3,14,13,1343,3387,100
+Instituto Nacional de Tecnologias de Informação	2473,311,32,242,1156,295,1822,3103,1006,899,100,703,649,8,2,7,1,1,3,14,13,1343,3387,100,1136
 Instituto de Fomento da Sociedade da Informação	2581,8749,507
 Insufficient Information	14647
 Insular SNIS Sistema Nacional de Información Sanitaria	16962
@@ -3394,6 +3425,7 @@ Integrated Financial Management Information System IMC	18454
 Integrated Financial Management Information System IMF	12663
 Integrated Financial Management Information System ISM	16872
 Integrated Financial Management Information System IoT	6432
+Integrated Financial Management Information System WB	18851
 Integrated Financial Management Information Systems	14524,4052
 Integrated Financial Management and Information System	127,31,2731,10067,167,1842
 Integrated Financial Management and Information System12	15550
@@ -3455,6 +3487,7 @@ Interoperability The Kenya Health Management Information	12143
 Interswitch's Chief Information Officer	10010
 Introduction General Information Country	12327
 Introduction The Rwanda Information Society Authority	15028
+Introdução O Sistema de Informação da Saúde SIS-MS	18768
 Inventory Management Information System	13005
 Investigation and Information Gathering Office	8806
 Investment Project Financing IT Information Technology	15491
@@ -3560,7 +3593,7 @@ Key Informant Interviews	10852,1358,1208,218,4109
 Key Informant Interviews Key	12978
 Key Informant Interviews The Key Informant	12210
 Key Informants Interviewed	16858
-Key Information	11965,3225,592,616
+Key Information	11965,3225,592,616,2411
 Key Information Application Window	11345
 Key Information Funded	16312
 Key Information and Knowledge-based Economy	16861
@@ -3713,6 +3746,7 @@ L’Emprunteur Informera	15901
 M&E Monitoring and Evaluation MICSTI Ministry of Information	12674
 MA. Health Information and Management Systems Society	2948
 MAGS INFORMATIQUE Service	998
+MAIN Product Information	18809
 MAITRISE EN SCIENCES INFORMATIQUES	15529
 MALTIS Malawi Traffic Information System Mbps	12917
 MANAGEMENT OF HEALTH INFORMATION	2709
@@ -3746,6 +3780,8 @@ MINISTRY OF INFORMATION and COMMUNICATION TECHNOLOGY	14723
 MINISTRY of Information and Media Permanent Secretary Thabo	13680
 MIS Management Information System	14038,1021,3566
 MIS Management Information System M&E Monitoring	11924
+MIS Management Information System MLSSS Ministry	18809
+MIS Management Information System MNO Mobile	18777
 MIS Management Information System MOP Manual	18301
 MIS Management Information System MoETE Ministry	15663
 MIS Management Information System NDC Nationally	10768
@@ -3800,7 +3836,7 @@ Management IFMIS Integrated Financial Management Information	18577
 Management Information Insurance Department Internal Audit	17235
 Management Information Management Systems IFMIS Integrated	11545
 Management Information PCU	11525
-Management Information System	899,472,1404,1378,3610,3228,404,460,5,64,258,32,121,77,369,51,500,174,1238,114,39,885,16,35,199,112,292,431,93,54,221,1235
+Management Information System	899,472,1404,1378,3610,3228,404,460,5,64,258,32,121,77,369,51,500,174,1238,114,39,885,16,35,199,112,292,431,93,54,221,1235,339
 Management Information System EMIS Essential Package	11905
 Management Information System ENA Ecole Nationale	13312,2
 Management Information System EQG Equatorial Guinea	16942
@@ -3881,6 +3917,7 @@ Medios Informativos Nacionales	16859,12
 Medios Informativos Nacionales. Dada	163,16692
 Medios Informativos Nacionales. Dado	16893
 Medição da Sociedade de Informação	2816
+Mehr Informationen	18815
 Mental Health Information Line	11350
 Metrics Network PRISM Performance of Routine Information	766
 Microfinance Information Exchange	16942
@@ -4255,12 +4292,14 @@ Nome N.º Turma Tecnologias de Informação	16325
 Non-Disclosure of Confidential Information Nothing	15641
 Non-IFRS Financial Information	10793
 Northwest Ethiopia. BMC Med Inform Decis	3791
+Nota Informativa	18855
 Notary Informati	11862
 Notary's Information System	11939
 Notice of Unavailable Information Notifies	13416
 Notify and Inform ARTICLE	15484
 Notify the Chamber of Information Related	15175
 Notify the Information Officer	11984
+Novas Tecnologias de Informação	18773
 Nthati Moorosi Minister of Information	12674
 Nuevas Tecnologías de Información	8083
 Number of Broadcasting Productions ANNUAL INFORMATION	12395
@@ -4275,6 +4314,7 @@ O Ficheiro Informático	11425
 O Fórum Internacional de Tecnologias de Informação	6585,34
 O Gabinete de Informação de Macau	11683
 O Gabinete de Tecnologias de Informação	167,11282
+O Informática Forense Guide	18774
 O Instituto Nacional de Fomento da Sociedade da Informação	11382
 O Instituto Nacional de Tecnologias de Informação	2437,1,346,6442,914,2665,41
 O Núcleo Operacional da Sociedade de Informação	6328
@@ -4291,6 +4331,7 @@ ON-SITE REGISTRATION TEACHERS AS INFORMANTS TEACHERS	13681
 ONATEL Internet Informatique Postes Ministère des Finances	13290
 ONATEL Internet Informatique Postes Radiodiffusion Ministère	13290
 OP Information Technology	6946
+OPERATION INFORMATION BASIC DATA	18809
 OUTIL INFORMATISE DE SUIVI	17897
 OVERALL SAFEGUARDS TO PRESERVE INFORMATION INTEGRITY	17017
 Objective IFR Information and Communication Technology IGF	3604
@@ -4329,6 +4370,7 @@ Organization NHIC National Health Information Center	15411
 Organization National Information Center of Sudan	14881
 Organizing and Distributing Tax Information	1793,1413,3881
 Original Performance Information for Programme	11218
+Orçamento Informações	18798
 Os Sistemas de Informação	15476
 Overview of Information Technologies Equipment	1988
 Ownership Information	12400
@@ -4619,6 +4661,8 @@ Provisions for Information Submission System for Patents	12389
 Proyecto de Informatización	4209,12724,12,42
 Préambule Le Plan Directeur Informatique	18297
 Préservation des Informations	13841
+Príncipe Informação	18788
+Príncipe TI Tecnologias de Informação TIC Tecnologias	18788
 Public Disclosure Authorized Project Information Document	3456,7507
 Public Disclosure IV. FOR MORE INFORMATION	18374
 Public Entity’s General Information	11250
@@ -4635,6 +4679,7 @@ Public Information Desk	14778
 Public Information Disclosure	9855
 Public Information Officer	16631,222
 Public Information Officers	18442
+Public Information Registry. The National Oil	18797
 Public Information System	10765
 Public Information Technology	5349
 Public Information and Awareness	13998
@@ -4712,6 +4757,7 @@ Rationalité Information	17842
 Reading Assessment Education Management Information System	16436
 Real- Credit Electronic Time Gross Information	6938
 Recensements DI Division Informatique	18169
+Reclamações Canais de Informação	18789
 Recognizing Digital Leadership The Minister of Information	4535
 Recolha de Informações Básicas	11406
 Recolha de Informações Pessoais	11368
@@ -4868,12 +4914,15 @@ SHARING OF INFORMATION	12413,2643
 SHS and Communication and Information	13048
 SIDA. Informes	16898
 SIG Sistema de Información Geográfica SMTS Sistema	16875
+SIGE Education Management Information System	18765
 SIGE Sistema de Informação	11557
 SIH Hospital Information System	3604
+SIIPS Sistema de Informação Integrado de Proteção Social	18779
 SIKOGUKIRA Agathon Informaticien ONATEL	13341
 SINZINKAYO Isabelle Informaticien	13341
 SIS-MA Sistema de Informação	966
 SIST. DE INFORM. SAN	4209
+SISTEMA DE INFORMAÇÃO DA SAÚDE	18768
 SISTEMA DE INFORMAÇÃO PREDIAL Artigo	11901
 SISTEMAS INFORMÁTICOS CAPÍTULO I DISPOSIÇÕES GERAIS	10747
 SITA State Information Technology Agency SMME	11224
@@ -4911,6 +4960,7 @@ STATISTICAL INFORMATION MAY BE COLLECTED	16833
 STATISTICS SYSTEMS OF Program Information About	12138
 STORAGE INFORMATION REQUIREMENTS AS PRESCRIBED	14528
 STORAGE OF PERSONAL INFORMATION	13376
+STP’s National Education Management Information System	18765
 STRANGERS HARMFUL INFORMATION DO NOT TRUST	11004
 STRATEGIC INFORMATION	12976
 STRENGTHENING OF THE HEALTH INFORMATION SYSTEM	15590
@@ -4992,7 +5042,7 @@ Sensitive Information Disclosure	3214,12545
 Sensitive Information The Authority	13381
 Sensitization of Informal Cross-Border Traders	14935
 September. South Africa’s Information Regulator	4583
-Series Information	10862,4162,822,2679,42
+Series Information	10862,4162,822,2679,42,271
 Series Information Real Time Prices	15620
 Series Information The Global Findex	13084,675,2084,1,821,380,880
 Series Information The Liberia Annual Agricultural	17366
@@ -5057,6 +5107,7 @@ Sistema Nacional de Información Sanitaria TIC	1701
 Sistema Nacional de Información Sanitaria. Estos	17293
 Sistema Nacional de Informação Estatística	11516
 Sistema Nacional de Informação Sanitária	11543
+Sistema Nacional de Informação da Proteção Social	18799
 Sistema de Gestao de Informacao da Terra	427
 Sistema de Gestión de Seguridad Informática	17342
 Sistema de Informacao	574,1654
@@ -5078,6 +5129,14 @@ Sistema de Informação Policial	11540
 Sistema de Informação Sanitária	11453,4547,3,318
 Sistema de Informação Sanitária. PSB Projeto de Saúde	11543
 Sistema de Informação da Justiça	2054,37,3333,6615,3785,138,184
+Sistema de Informação da PNSTP	18782
+Sistema de Informação da Proteção Social	18799
+Sistema de Informação da Proteção Social URL	18799
+Sistema de Informação da Saúde	18766
+Sistema de Informação da Saúde A Organização Mundial	18766
+Sistema de Informação da Saúde SNU	18794
+Sistema de Informação da Saúde URL	18766
+Sistema de Informação da Saúde- SIS	18768
 Sistema de Informação de Gestão de Domínios. CV	1736
 Sistema de Informação de Justiça	15705,251,39
 Sistema de Informática	11449
@@ -5119,13 +5178,15 @@ Sociedad de Información	975
 Sociedad de Información de Guinea Ecuatorial	975
 Sociedade Global da Informação	795
 Sociedade Globalizada da Informação	12777
+Sociedade Informação	18773
 Sociedade Sector Informal Unipessoal Quadro	10757
-Sociedade da Informação	15,780,1639,382,4154,3777,624,8,14,3,1,1380,2699
+Sociedade da Informação	15,780,1639,382,4154,3777,624,8,14,3,1,1380,2699,3291,5
 Sociedade da Informação. Contudo	15476
 Sociedade da Informação. O PDN	11396,1
 Sociedade de Infor	15358
-Sociedade de Informação	13,782,10587,163,318,78,24,812,2614,86,14,35,46,183
+Sociedade de Informação	13,782,10587,163,318,78,24,812,2614,86,14,35,46,183,3012,5,1,15,8
 Sociedade de Informação EPE	11909
+Sociedade de Informação. Artigo	18773
 Société Comores Informatique Service	3868
 Société Nationale de Développement Informatique	2342,1262,51,34,12247
 Soft Logistics Management Information System	4202
@@ -5319,6 +5380,7 @@ TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO SOCIAL	3519
 TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO. Artigo	15
 TERMS AND CONDITIONS OF INFORM-ATION	16839
 TERMS AND CONDITIONS OF INFORMATION	16839
+TI Tecnologias da Informação	18779
 TIC Tecnologia de Informação	11555
 TIC Tecnologias de Informação	12787
 TMIS Teacher Management Information System	14971
@@ -5368,11 +5430,13 @@ Technology ICT Development Index Information Technology	15480
 Technology ISO Information Technology Infrastructure	1009
 Technology MBA Information Systems	11134
 Technology The Management Information System and Technology	17235
-Tecnologia de Informação	2365,66,353,1464,2,1292,3454,1618,760,39,50,27,529,78,726,2680
-Tecnologias da Informação	2816,50,1352,7169,9,1,172,573
+Tecnologia da Informação	18793
+Tecnologia de Informação	2365,66,353,1464,2,1292,3454,1618,760,39,50,27,529,78,726,2680,3259,11,1
+Tecnologias da Informação	2816,50,1352,7169,9,1,172,573,6630,42
 Tecnologias da Informação COGEMO	2816
+Tecnologias da Informação UIT União Internacional	18779
 Tecnologias da Informação-CNTI	11371
-Tecnologias de Informação	13,2,415,146,219,397,23,1080,116,23,147,32,88,28,55,32,5,316,382,387,240,1,71,1187,137,412,20,5,1,557,48,10,15,7,23,158,97,31,44,148,122,5,491,209,214,41,343,284,31,22,61,158,137,21,1,436,392,54,26,324,124,140,18,8,292,86,159,13,28,13,1,2,5,3,4,3,3,2,2,1,5,26,7,6,77,13,11,41,48,78,115,141,53,38,41,677,17,18,14,2516,52,85,1,27,5,63,450,282,1,16,4,710,505,30,10,48
+Tecnologias de Informação	13,2,415,146,219,397,23,1080,116,23,147,32,88,28,55,32,5,316,382,387,240,1,71,1187,137,412,20,5,1,557,48,10,15,7,23,158,97,31,44,148,122,5,491,209,214,41,343,284,31,22,61,158,137,21,1,436,392,54,26,324,124,140,18,8,292,86,159,13,28,13,1,2,5,3,4,3,3,2,2,1,5,26,7,6,77,13,11,41,48,78,115,141,53,38,41,677,17,18,14,2516,52,85,1,27,5,63,450,282,1,16,4,710,505,30,10,48,1124,21,6,15
 Tecnologias de Informação da Administração Central	10754
 Tecnologias de Informação da Polícia Nacional	11392
 Tecnologias de Informação. Artigo	167
@@ -5430,6 +5494,7 @@ Transversal Information Technology Management	1618,3915,6453
 Trata-se da Proposta de Lei Contra Informações Falsas	11415
 Tratamento de Incidentes Informáticos	10747,649
 Tripoli General Information Authority	3826
+Troca de Informação	18774
 Trust Fund MIS Management Information System	17849
 Twitter L’Agence Nationale de Sécurité Informatique	2314
 Type Information Incentives Investment Implementation	12376
@@ -5473,7 +5538,7 @@ Umlindi Newsletter Information	11334
 Undersecretary for Information Mawien Bulabek	5014
 Undersecretary of Information	18636
 Understanding Informality	10997,2627
-Unidade de Informação Financeira	6360,5008,315,3676
+Unidade de Informação Financeira	6360,5008,315,3676,3438
 Unidade de Informação Financeira de Cabo Verde	11683
 Unified Credit Information Platform	6107
 Union EMIS Education Management Information System	14855

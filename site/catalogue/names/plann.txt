@@ -200,6 +200,7 @@ Directorate of Land Management and Urban Planning	16614
 Directorate of Planning	11855,490,6133
 Directorate of Planning Health Facility Quality Index	16922
 Directorate of Planning and Development and EMIS Manager	13310
+Directorate of Planning and Education Innovation	18765
 Directorate of Planning and Education Statistics	13349
 Directorate of Planning and Information	16896,26
 Directorate of Policy Development and Strategic Planning	16951
@@ -461,8 +462,9 @@ Investment Description Planned	11955
 Joint Financial Planning	17311
 Joint Planning and Construction	12389
 Jul-2020 Planned Mid Term Review Date	16638
-KEY DATES Key Events Planned Actual	2712,1976,6182,1358,39,3468,278,692,295,96,374,35,399,54,48,348,1
-KEY DATES Key Events Planned Date	11924,6038
+KEY DATES Key Events Approval Planned	18792
+KEY DATES Key Events Planned Actual	2712,1976,6182,1358,39,3468,278,692,295,96,374,35,399,54,48,348,1,462
+KEY DATES Key Events Planned Date	11924,6038,863
 KRA Enterprise Resource Planning	1835
 Kenya's Cabinet Secretary for National Treasury and Planning	3867
 Key Events Planned Actual Approval	6579,4816,576,469,3639,915,85,1455
@@ -623,7 +625,7 @@ Ministry of Lands Housing and Country Planning	18476
 Ministry of Lands and Physical Planning	14427
 Ministry of National Planning	11857
 Ministry of National Treasury and Economic Planning	10313
-Ministry of Planning	32,1603,609,2505,1832,66,2761,1353,7,217,201,719,2969,91,50,25,151,181,90,11,40,146,4,386,794,20,39,14,241,141
+Ministry of Planning	32,1603,609,2505,1832,66,2761,1353,7,217,201,719,2969,91,50,25,151,181,90,11,40,146,4,386,794,20,39,14,241,141,1479
 Ministry of Planning Ministry of Social Affairs Recovery	16902
 Ministry of Planning and Administrative	15473
 Ministry of Planning and Administrative Reform	15519,144
@@ -635,6 +637,8 @@ Ministry of Planning and Economic Development MOMMR	18485
 Ministry of Planning and Economic Development MTDS Medium	18488
 Ministry of Planning and Economic Development. HSSP III	12240
 Ministry of Planning and Economic Diversification	16958
+Ministry of Planning and Finance	18754,38
+Ministry of Planning and Finance. Effective	18825
 Ministry of Planning and Territorial Development	10765,10
 Ministry of Planning and UN-Habitat	16916
 Ministry of Planning. Failure	15473
@@ -880,7 +884,7 @@ Planned and Unplanned HV	14867
 Planners	396,7570,4996
 Planners KM Kilometers KMHFL Kenya Master	2775
 Planners and M&E Officers	16944
-Planning	55,1,50,19,23,36,52,11,92,57,22,540,256,47,516,47,141,23,105,3,679,214,594,21,297,17,1,1,3,291,83,486,892,556,437,280,600,154,388,1033,84,1106,467,49,135,21,144,2,2,3,57,16,7,6,34,5,8,591,47,9,24,36,10,16,23,216,12,44,26,2,33,51,32,4,8,93,128,1,41,201,33,27,354,1,13,73,211,362,145,367,235,7,25,85,66,7,69,23,2,142,309,80,3,23,14,8,3,25,32,2,39,14,66,63,74,299,204,430,6,27,26,5,26,7,14,3,4,1,2,5,18,84,59,10,8,39,37,2,25,71,33,503,430,181,157,11,38,1
+Planning	55,1,50,19,23,36,52,11,92,57,22,540,256,47,516,47,141,23,105,3,679,214,594,21,297,17,1,1,3,291,83,486,892,556,437,280,600,154,388,1033,84,1106,467,49,135,21,144,2,2,3,57,16,7,6,34,5,8,591,47,9,24,36,10,16,23,216,12,44,26,2,33,51,32,4,8,93,128,1,41,201,33,27,354,1,13,73,211,362,145,367,235,7,25,85,66,7,69,23,2,142,309,80,3,23,14,8,3,25,32,2,39,14,66,63,74,299,204,430,6,27,26,5,26,7,14,3,4,1,2,5,18,84,59,10,8,39,37,2,25,71,33,503,430,181,157,11,38,1,82,5,4
 Planning Act	1988
 Planning Ahead Will Make	10763
 Planning Assumptions The Electoral Commission	7266
@@ -892,7 +896,7 @@ Planning Commission ZRCP Zanzibar Research Centre	11133
 Planning Component	17157
 Planning Coordination	3583
 Planning Cycle	16861
-Planning Department	11738,482
+Planning Department	11738,482,6550
 Planning Department and Building	14746
 Planning Detail	9123
 Planning Director General of Capital Market Authority	6938
@@ -964,6 +968,7 @@ Planning and Economic Diversifica	17101
 Planning and Economic Diversification	17101
 Planning and Economic Research	12816
 Planning and Economics	16830
+Planning and Education Innovation	18765
 Planning and Evaluation	16885,453
 Planning and Execution of Projects	10157
 Planning and Financing Constraints	17139
@@ -1088,6 +1093,7 @@ Resettlement Impact and Required Planning Instruments	17114
 Resource Planning B2B Business	14897
 Responsive Planning UN United Nations and Budgeting	11193
 Risk Analysis and Contingency Planning Conduct	16963
+Risk Management Planning	18787
 Risk Management and Contingency Planning	5245
 Risk and Contingency Planning	16963
 Risk-Informed Planning	17260
