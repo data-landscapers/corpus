@@ -537,6 +537,7 @@ Indicator Proportion Acceptable Use Policy	15164
 Indicator Proportion Comment	15164
 Indicator Proportion Institutions	15164
 Indicator Proportion Observation Formal	15164
+Individuals Proportion	17743
 Individuelle Collective Propriétaire Prêt	737
 Industrial Property	16873
 Industrial Property Act	3714,4131,2196,4381,406,3,2042
@@ -1074,7 +1075,7 @@ Propinas Valor Taxa	17103
 Propo Open	17180
 Propoftion	15999
 ProponAI European Court of Auditors Refreshworks Fastweb	8530
-Proponents	4970,4769,7420
+Proponents	4970,4769,7420,586
 Proponha	15564
 Propor	13,154,2649,1330,1,71,6565,585,13,1,66,1,12,66,42,332,512,361,2617,59,53,1,22,229,157
 Proporcionalidade	6970,4478,13
@@ -1083,7 +1084,7 @@ Proporcione	1701,15273
 Proporción	16898
 Proportio	12917,3946
 Proportio Privé Etat Etat Employeu Autre	737
-Proportion	419,224,94,52,181,352,742,278,433,621,683,1,221,48,110,2120,253,716,3164,51,93,2,16,1,52,48,1,286,291,19,302,7,1,20,249,77,28,11,79,21,16,12,18,27,13,470,55,322,25,22,95,656,524,214,60,1,38,50,71,7,101,393,17,25,5,20,96,4,1,120,56,98,261,68,108,190,15,231,49,6,116,36,48,13,108,4,33,109
+Proportion	419,224,94,52,181,352,742,278,433,621,683,1,221,48,110,2120,253,716,3164,51,93,2,16,1,52,48,1,286,291,19,302,7,1,20,249,77,28,11,79,21,16,12,18,27,13,470,55,322,25,22,95,656,524,214,60,1,38,50,71,7,101,393,17,25,5,20,96,4,1,120,56,98,261,68,108,190,15,231,49,6,116,36,48,13,108,4,33,109,349
 Proportion Dernière	13300
 Proportion Enfants	13300
 Proportion Femmes	2624,10676
@@ -1144,7 +1145,7 @@ Propos	8219,774,1266
 Propos Le Cameroon Internet Exchange	16265
 Propos de PAPSS	17465
 Propos du Président du Conseil	15741
-Proposal	578,384,242,60,374,1178,663,24,211,2059,703,1,11,1463,485,2180,160,184,271,321,321,82,103,979,148,1416,70,107,149,5,148,1783,148,8,161,39
+Proposal	578,384,242,60,374,1178,663,24,211,2059,703,1,11,1463,485,2180,160,184,271,321,321,82,103,979,148,1416,70,107,149,5,148,1783,148,8,161,39,561
 Proposal Data Sheet	15080
 Proposal Development	17065
 Proposal Development URL	17065

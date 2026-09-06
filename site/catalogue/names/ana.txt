@@ -285,10 +285,10 @@ Analyses	11131,3,451,413,3208,306,392,518,199
 Analyses Alimentaires	4402
 Analyses Médicales Malagasy	14622
 Analyses Médicales Malagasy Liste Nationale des Médicaments	14622
-Analysing	4866,3156,1106,309,1289,310,194,1137,18,60
+Analysing	4866,3156,1106,309,1289,310,194,1137,18,60,5328
 Analysing Infrastructure	11990
 Analysing the Italian	5700
-Analysis	446,353,462,23,48,267,60,83,11,229,6,108,166,101,93,164,963,35,244,265,23,282,96,271,165,69,9,2,180,28,97,17,52,115,44,114,131,230,180,255,347,45,56,3,236,139,235,141,6,64,127,97,189,204,228,524,1,378,1,286,629,295,45,78,15,64,20,27,13,5,19,145,75,35,6,35,225,20,106,204,24,23,14,48,22,8,96,243,5,62,45,55,12,423,37,5,28,450,169,117,281,524,75,102,27,129,16,1,36,3,24,75,22,164,24,98,30,21,18,107,515,220,169,436,5,11,47,1,20,1,68,32,84,30,78,1,3
+Analysis	446,353,462,23,48,267,60,83,11,229,6,108,166,101,93,164,963,35,244,265,23,282,96,271,165,69,9,2,180,28,97,17,52,115,44,114,131,230,180,255,347,45,56,3,236,139,235,141,6,64,127,97,189,204,228,524,1,378,1,286,629,295,45,78,15,64,20,27,13,5,19,145,75,35,6,35,225,20,106,204,24,23,14,48,22,8,96,243,5,62,45,55,12,423,37,5,28,450,169,117,281,524,75,102,27,129,16,1,36,3,24,75,22,164,24,98,30,21,18,107,515,220,169,436,5,11,47,1,20,1,68,32,84,30,78,1,3,541
 Analysis By Allen Mangava	6099
 Analysis By Pamellah Musimwa and Chinga Govhati	8864
 Analysis By VERITAS THE Cyber and Data	9251
@@ -477,7 +477,7 @@ Anasthasie MOUGHOLA BOUCHOMBO	16175
 Anasthasie Ossangatsama	16403
 Anat Lewin	15019
 Anatananarivo	9480
-Anatel	10764,80,719,3936
+Anatel	10764,80,719,3936,2244
 Anatel Prize for Accessibility	15499
 Anatel's Resolution	5366
 Anatin’izany	14488,1,1
@@ -781,6 +781,8 @@ Desenho Analítico	15772
 Desenvolvimento. Analytics Insight	2816
 Design and Analysis	15244
 Detailed Analysis	236
+Detailed Analysis Article	17745
+Detailed Analysis V. COMPARATIVE ANALYSIS	17745
 Detailed Risk Analysis and Mitigation Strategies. National	4528,7984
 Detailed Sector Analyses	2957
 Deterministic Frontier Using Data Envelopment Analysis	1828
@@ -874,6 +876,7 @@ Expatriate Female CHAPTER SIX ANALYSIS	3862
 Expatriate Female CHAPTER THREE ANALYSIS	3862
 Expected Results and Analytical Underpinnings	15924
 Expenditure Analysis	11986
+Exploratory Analysis of Policy	17750
 External Analysis	12759
 External Environment Analysis	11986
 F. Results Framework Analysis Project Development	16614
@@ -913,6 +916,7 @@ Forensic Data Analysts	5323
 Foundations of Economic Analysis	5700
 Founder of Phoenix Analytics Ms. Susan Gatura	14555
 Fragmented Ecosystem Participation. Analysis	4528
+Frameworks G. Multi-Year Empirical Analysis	17745
 Fritz VB. Problem-driven Political Economy Analysis	1261
 GAP Analysis	1867
 GBC-2. ANALYSIS REPORT	10980
@@ -994,7 +998,7 @@ I.1.1 Analyse FFOM	13341
 I.9 DATA ANALYSIS AND REPORT WRITING	15574
 ICT Analytical Report Based	12251
 ICT Data Analytics Training Programme Opens	17407
-ICT Data and Analytics Division	11424,2674,1373
+ICT Data and Analytics Division	11424,2674,1373,2272
 ICT Gap Analysis Survey Report	12453,892
 ICT Investment Analysis	219
 ICT Price Basket Analysis	15120
@@ -1130,6 +1134,7 @@ Legal Framework Analysis	7548
 Legal Framework Analysis Kenya	7548
 Legislations Data Governance and Analytics EdTech Innovation	13991
 Legislative Analysis	15473
+Legislative Gap Analysis	17745
 Liberia and EMIS Data Analytical Support	14131
 Liberia. Analysis	17127
 Libya LIST OF ACRONYMS AHP Analytic	17157

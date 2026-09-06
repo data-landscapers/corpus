@@ -187,7 +187,7 @@ Latvia Register of Natural Persons	10714
 Legal and Natural Persons	14409
 Legal and Natural Persons ARTICLE	14409
 Legend. Natural Color RGB The Natural	14256
-Lilongwe University of Agriculture and Natural Resources	12194,928,1552
+Lilongwe University of Agriculture and Natural Resources	12194,928,1552,3093
 Liquefied Natural Gas	11185,30,33,3582
 Liquefied Natural Gas. LPG	16996
 Living Natural Resources ESS	1988
@@ -342,7 +342,7 @@ Naturalización	16871
 Naturalization	2115,10102,1730,2974
 Naturally	1647,6848,2648,2318,846
 Naturalmente	15358
-Nature	737,25,1115,111,89,1318,1,318,539,1424,2703,563,1769,146,18,389,257,434,50,84,95,68,112,9,397,168,96,790,841,47,35,618,9,92,28,47,41,78,9,4,72,139,23,28,7,56,48,202,46,27,6,419,203,5,159,371,17
+Nature	737,25,1115,111,89,1318,1,318,539,1424,2703,563,1769,146,18,389,257,434,50,84,95,68,112,9,397,168,96,790,841,47,35,618,9,92,28,47,41,78,9,4,72,139,23,28,7,56,48,202,46,27,6,419,203,5,159,371,17,278
 Nature Africa	16011
 Nature Africa Phase	12985
 Nature Cameroun	10975
@@ -356,7 +356,7 @@ Nature Health	11578
 Nature Health URL	11578
 Nature Indemnisable	15901
 Nature Kenya	10313
-Nature Machine Intelligence	11156
+Nature Machine Intelligence	11156,6624
 Nature Medicine	11585
 Nature Medicine URL	11585
 Nature Medicine. Volume	12712
@@ -439,7 +439,8 @@ Programme Programme Social Economic Natural	15845
 Project Cost and Amount and Nature of IFC	16776
 Promotion du Patrimoine Naturel du Gabon	16175
 Proyecto de Gas Natural Licuado de Guinea Ecuatorial	1701
-Publisher's Note Springer Nature	9739
+Publisher's Note Springer Nature	9739,8034
+Publisher’s Note Springer Nature	17780
 Quarter Total Natural Resources	12972
 REPORT OF THE MINISTRY OF NATURAL	13131
 REPORTING ENTITY NATURE OF BUSINESS	1154
@@ -472,6 +473,8 @@ Special Nature Economic Zones Article	15492
 Special Nature Economic Zones. Practice	15492
 Springer Nature	766,5,490,2530,3487,744,649,2113
 Springer Nature America	12712
+Springer Nature Link	17773,7
+Springer Nature Link URL	17773,7
 Springer Nature SharedIt	9739,1045
 Springer Nature Singapore	6948
 Springer Nature Switzerland	2096,422

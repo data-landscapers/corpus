@@ -347,7 +347,7 @@ Cabinda- Os	10366
 Cabinda. Charges	15799
 Cabinda. FF	11837
 Cabinda. Figure	15724
-Cabinet	765,18,1,212,154,4,60,8,61,6,324,95,34,36,89,53,68,116,106,199,137,80,55,139,17,129,23,72,249,227,97,18,62,46,42,122,34,89,7,216,110,12,136,105,20,128,2,285,96,11,69,84,66,56,70,13,93,75,73,124,88,22,168,20,23,255,38,14,1,37,157,71,41,88,109,26,251,9,232,21,191,118,28,28,72,82,162,119,2,178,60,230,58,30,196,119,154,18,380,63,109,280,256,57,153,100,10,80,6,2,54,132,35,3,44,1,3,11,8,14,3,6,6,6,28,1,7,8,5,4,220,92,29,127,32,2,149,46,11,85,150,105,19,2,9,86,47,12,29,5,2,40,58,77,2,61,106,4,13,3,10,24,10,5,1,8,7,5,17,9,7,39,41,23,37,71,66,18,3,3,2,13,1,13,7,32,3,12,4,15,25,1,28,29,141,17,14,12,183,399,19,21,55,48,74,37,25,15,160,21,10,1,21,19,26,20,2,4,13,4,17,3,6,19,28,12,18,19,35,10,206,196,42,1,18,50,42,17,3,54,5,64,53,121,76,70,61,86,8,51,35,6,73,14,105,25,138,32,21,20,113,23,9,5,1,12,30,12,24,15,126,13,123,29,3,293,13,18,63,92
+Cabinet	765,18,1,212,154,4,60,8,61,6,324,95,34,36,89,53,68,116,106,199,137,80,55,139,17,129,23,72,249,227,97,18,62,46,42,122,34,89,7,216,110,12,136,105,20,128,2,285,96,11,69,84,66,56,70,13,93,75,73,124,88,22,168,20,23,255,38,14,1,37,157,71,41,88,109,26,251,9,232,21,191,118,28,28,72,82,162,119,2,178,60,230,58,30,196,119,154,18,380,63,109,280,256,57,153,100,10,80,6,2,54,132,35,3,44,1,3,11,8,14,3,6,6,6,28,1,7,8,5,4,220,92,29,127,32,2,149,46,11,85,150,105,19,2,9,86,47,12,29,5,2,40,58,77,2,61,106,4,13,3,10,24,10,5,1,8,7,5,17,9,7,39,41,23,37,71,66,18,3,3,2,13,1,13,7,32,3,12,4,15,25,1,28,29,141,17,14,12,183,399,19,21,55,48,74,37,25,15,160,21,10,1,21,19,26,20,2,4,13,4,17,3,6,19,28,12,18,19,35,10,206,196,42,1,18,50,42,17,3,54,5,64,53,121,76,70,61,86,8,51,35,6,73,14,105,25,138,32,21,20,113,23,9,5,1,12,30,12,24,15,126,13,123,29,3,293,13,18,63,92,46
 Cabinet Affairs	2428
 Cabinet Affairs Central Bureau of Statistics	15244
 Cabinet Affairs Central Bureau of Statistics SUDAN	15244
@@ -365,7 +365,7 @@ Cabinet Cabinet	11986
 Cabinet Cabinet Within	7548
 Cabinet Cluster	11193,72
 Cabinet Committee	958,10833,534,657,108,205,378,3212
-Cabinet Decision	12946,1807
+Cabinet Decision	12946,1807,2992
 Cabinet Decision No	12984,113
 Cabinet Decisions	14721,148
 Cabinet Decisions Cabinet Business	7760
@@ -410,6 +410,7 @@ Cabinet Patrick Kangwa	7223,6419
 Cabinet Postes	2050,2596
 Cabinet Resolution No	8967,8176
 Cabinet Retreat	16858
+Cabinet Secre	17745
 Cabinet Secretaries	2742,4806,2765,1493,2825,33
 Cabinet Secretary	1131,615,920,43,1443,479,1600,201,156,199,159,602,59,224,1,736,1712,33,934,217,675,12,81,24,24,21,13,1556,169,143,40,48,130,7,3,5,7,5,8,14,11,11,22,12,16,3,22,29,19,5
 Cabinet Secretary MICDE	7548
@@ -480,6 +481,7 @@ Cabinet for ESIEID and JCPS	11986
 Cabinet for Immigration and Refugee	11986
 Cabinet for Parliament	11986
 Cabinet for Studies	10748
+Cabinet of Kenya	17745
 Cabinet of Mauritius	14839
 Cabinet of Ministers	12220,2532,1,720,131
 Cabinet of Ministers of Libya. Cabinet Decision No	16902
@@ -598,6 +600,7 @@ Cabo Venton	15658
 Cabo Ver	16251
 Cabo Verde	356,46,401,440,13,8,1,73,1,1,2,5,1,61,1,21,1,31,2,271,125,48,15,24,106,26,1,1,7,2,3,33,218,56,99,118,64,8,117,4,5,31,13,5,56,31,127,337,142,45,64,42,12,44,78,113,125,207,123,8,159,5,252,40,137,4,138,111,3,51,36,68,20,11,8,14,33,106,204,65,123,20,10,3,25,126,45,294,20,18,3,221,15,126,5,404,110,255,174,67,95,136,21,124,314,91,447,113,616,89,194,161,242,123,45,5,4,17,50,3,8,10,112,37,103,224,107,22,52,18,2,13,15,4,1,3,286,8,4,2,1,3,13,1,2,2,4,3,3,8,21,1,2,6,2,14,8,2,4,33,6,3,3,2,2,3,18,1,113,1,9,47,68,63,11,1,32,103,347,878,155,457,978,41,11,3,1,21,5,6,1,4,7,1,29,7,5,5,20,1,5,15,12,1,1,4,11,6,5,1,3,15,3,17,2,18,3,28,63,5,5,61,69,15,40,2,11,7,1,10,2,12,31,7,4,16,1,8,5,7,16,3,5,27,2,3,8,22,21,4,20,8,39,5,1,6,6,20,10,22,17,4,8,24,1,16,4,18,33,4,28,76,3,6,17,18,30,21,54,189,120,78,12,30,124,92,45,1,37
 Cabo Verde A Organização Mundial da Saúde	16484
+Cabo Verde AFR LMI	17743
 Cabo Verde ARN	15526
 Cabo Verde Action Plan	11873
 Cabo Verde Action Plan Review	11873
@@ -820,6 +823,7 @@ Cabosse	15493
 Cabot	15658
 Cabot Venton	10763,4895
 Cabotage	12389
+Cabotage Act	17808
 Cabouco de Cosco	15755
 Caboverde24	6461
 Caboxanque	17147
@@ -1078,6 +1082,7 @@ Firms Cabo Verde2024 Sub-Saharan Africa Lower	11874
 First Cable Repair Ship Arrives	2677
 First Deputy Director of Cabinet Resolution	4640
 Fixed Cable Modem	6946
+Following Cabinet	17745
 Francis Cabrel Mbothak	2513
 Full Restoration of Cables	2677
 G EM CABO VERDE O Papel	17186
@@ -1146,8 +1151,8 @@ Household Electrification Strategy The Cabinet	11890
 Human Resources Cabinet	10775
 IAEA Chief of Cabinet Briefs Missions	15131
 ICPC International Advisory Body for Submarine Cable	3513
-ICT Cabinet Secretary Eliud Owalo	3983,13724
-ICT Cabinet Secretary William Kabogo	8091,2714
+ICT Cabinet Secretary Eliud Owalo	3983,13724,48
+ICT Cabinet Secretary William Kabogo	8091,2714,6950
 ICT Cabinet and Principal Secretaries	12149
 ICT and Digital Economy Cabinet Secretary William	6160
 ICTs. Cabinet Office Cabinet	13346
@@ -1177,6 +1182,7 @@ Importance of Angola Cables and Uniti Wholesale	6604
 Importance of Undersea Cables	2677
 Imprensa Nacional de Cabo Verde	1265,3,468,4794,41,5450,3941,67,395
 Improvisadas Angola Bengo Benguela Bié Cabinda	10766
+Includes Kenya Cabinet Approval	17745
 Indice Global de Inovação. Cabo Verde	1948
 Indonesian Cable Express IV	2677
 Information Technology Cabinet	10765,10
@@ -1208,6 +1214,7 @@ Kanto Kai Okanta Cabo Verde Digital	5509
 Kenya Cabinet	10246
 Kenya Cabinet Secretary for East African Community	17645
 Kenya Digital Economy Cabinet Secretary William	4030
+Kenya's Cabinet	17745
 Kenya's Cabinet Secretary	3878,2168,2451
 Kenya's Cabinet Secretary for Health	4165
 Kenya's Cabinet Secretary for National Treasury and Planning	3867
@@ -1263,6 +1270,7 @@ L’ARTISANAT CABINET DU MINISTRE	16175
 L’ENERGIE CABINET DU MINISTRE	16381
 L’INSTRUCTION CIVIQUE CABINET DU MINISTRE D’ETAT	16175
 L’URBANISME CABINET DU MINISTRE	16099
+M Cabinet	17745
 M. DANA Raphael Alexandre Denis. CABINET	15780
 M. Jean-Claude MACKAYA CABINET DU HAUT-REPRESENTANT	16099
 M. Landry BOUDOUGHOU. Cabinet du Commissaire-Membre Donatien	16381

@@ -44,6 +44,7 @@ Actualização de Valores	10783
 Actuals Variances Percentage	12977
 Added Tax VAT	14932
 Address Valid TIN	4602
+Address Validation	17746
 Adiar Vacinas.......216	10777
 Aditya Vashistha	6948
 Afghanistan and Vanuatu	15471
@@ -1193,6 +1194,7 @@ Request for VAT	12630
 Resource Rent Valuation Method	16996
 Resources Valuation	13051
 Responsive Regulation Core Values	6946
+Responsive Regulation. Our Core Values	17746
 Retail Transaction Values	4517,2461
 Retail Vaues	4517
 Revalidation of VAPT	10721
@@ -1283,7 +1285,7 @@ Show VaMijo	15867
 Shri Atal Bihari Vajpayee Tower	14760,37,50
 Shri Kirti Vardhan Singh	13561
 Shri Parbhubhai Nagarbhai Vasava and Smt D	12568
-Silicon Valley	415,156,387,405,990,255,411,359,404,518,169,207,524,24,78,180,200,287,441,77,96,225,521,74,142,34,376,251,277,146,398,92,376,16,91,408,420,67,230,4,319,104,755,335,112,812,127,1973,192,224,252,940
+Silicon Valley	415,156,387,405,990,255,411,359,404,518,169,207,524,24,78,180,200,287,441,77,96,225,521,74,142,34,376,251,277,146,398,92,376,16,91,408,420,67,230,4,319,104,755,335,112,812,127,1973,192,224,252,940,904
 Silicon Valley AI	11050
 Silicon Valley Google	1363
 Silicon Valley Responsable	7403
@@ -2008,6 +2010,7 @@ Validée	8328,3775,5431
 Valija Vehiculo Vehiculo Estudiantes GENERAL	4209
 Valinho Antonio	2816
 Valinho António	2816
+Vallary Acholla of Mzalendo Trust	17745
 Valle	8605
 Vallee Pitot Police Station	14760
 Vallee des Pretres	14830
@@ -2154,6 +2157,8 @@ Valère Dèhouégnon TCHOBO	16485
 Valère TCHOBO Conseiller	10821
 Valéria Semedo	11969
 Valérie NGOMBO-NDINGUI	16381
+Vambe	17773
+Vambe B	17773
 Vambo AI	5875
 Vamos	1948,1744,1055,549,59,3871,1045,801,460,447,811,3377,361
 Van&volume	1219
@@ -2209,11 +2214,13 @@ Vanthienen	9128
 Vanthienen and De Witte	9128
 Vanu Wireless	3862
 Vanuatu	10785,824,285,1148,2429,7
+Vanuatu ASP LMI	17743
 Vanuatu Civic Identification	10714
 Vanuatu Customs	13042
 Vanuatu Electronic Single Window Project	15478
 Vanuatu Global Cybersecurity Index	10764
 Vanuatu National ID Card	10714
+Vanuatu The ICT Development Index	17743
 Vanuatu and Venezuela. Notably	13042
 Vanuatu and Zimbabwe. ASYCUDA	13042
 Vanuatu. Workshop	13042
@@ -2383,7 +2390,7 @@ Vaulttec	12478
 Vavoua	15712
 Vaxmonsky	3782
 Vaya Africa	562
-Vayena	11135
+Vayena	11135,6645
 Važno	10780
 Velocity and Variety	11956
 Vereador Carlos Alberto Varela	16290

@@ -44,7 +44,7 @@ Artificial IntelligenceCloud ComputingCloud	6506
 Asia Pacific Computer Emergency Response Team	10764
 Assisted Telephone Interviewing CAPI Computer Assisted	13359
 Association for Computational Linguistics	7548,1058,2534
-Association for Computing Machinery	2093,6671,364,109,502,951,445,955
+Association for Computing Machinery	2093,6671,364,109,502,951,445,955,5690
 Association for Computing Machinery. Crossref Google Scholar	8460
 Atmospheric Administration PC Personal Computer PR	11553
 B1- Compute	7548
@@ -142,6 +142,7 @@ Chapman Computer Ltd	3862
 Chapman Computers Nigeria Ltd	3862
 Checklist of Compulsory Returnable Schedules and Documents	11240
 Chief Information Officer CSIRTs Computer Security	15164
+China. Computer Law	17780
 Citizen Computer Centres	5244
 Civil Service Commission CSIRT Computer Security	12917
 Civil Service Computerization Computerizing	16885
@@ -202,7 +203,7 @@ Compulsory Standards Department	13320
 Compulsory Under Sections	12138
 Compulsory VAT Registration URL	14757
 Compunet	13312,2
-Comput	1219,4023
+Comput	1219,4023,12503
 Comput Inform Nurs CIN	12246
 Comput Law Secur Rev	5242
 Computable	15244
@@ -214,7 +215,7 @@ Computation	2775,1753,3438,3939,607
 Computation and Language	3726
 Computation of Gross Tertiary Education Enrolment Ratio	14775
 Computation of Sovereignty Score Commission	3787
-Computational	4528,2447,815,2974,371,1377,3201
+Computational	4528,2447,815,2974,371,1377,3201,2060
 Computational Center for IOT Project Expansion	1787,1417,3881
 Computational Chemistry	9475
 Computational Conflicts	12360
@@ -327,25 +328,27 @@ Computer Engineer	12693
 Computer Engineering	11862,831
 Computer Hardware and Networking Technology	14147
 Computer Incidence Response Team	958
-Computer Incident Response Team	4693,10,61,2081,2588,1701,1261,58,1986,102,3,79
+Computer Incident Response Team	4693,10,61,2081,2588,1701,1261,58,1986,102,3,79,3122
 Computer Incident Response Team CMIL	14438
-Computer Incident Response Teams	11920
+Computer Incident Response Teams	11920,5825
 Computer Information Systems	4896,419,8053
 Computer Internet Access Rural Urban Education	15604
 Computer Lab	12971
 Computer Laboratory	1246,12929
 Computer Law	1243,6779,754,461
+Computer Law Review International	17780
 Computer Literacy	21
 Computer Literacy Test	17565
 Computer Misuse	3983,2966,2196,3087,3081
 Computer Misuse Act	3005,2417,1527,5151,132,3081
 Computer Misuse Act. NITA-U ED	3275
-Computer Misuse and Cyber	12302
-Computer Misuse and Cyber Crimes Act	6432
-Computer Misuse and Cybercrime	6432,5778
+Computer Misuse and Cyber	12302,5443
+Computer Misuse and Cyber Crimes Act	6432,11314
+Computer Misuse and Cybercrime	6432,5778,5536
 Computer Misuse and Cybercrime Act	783,11519,2133,89,205,21
 Computer Misuse and Cybercrimes	4583,2204,3153,1175
-Computer Misuse and Cybercrimes Act	2709,1883,1840,355,694,66,1,2095,212,2355,92,2125,1509
+Computer Misuse and Cybercrimes Act	2709,1883,1840,355,694,66,1,2095,212,2355,92,2125,1509,1809
+Computer Misuse and Cybercrimes Act Framework	17745
 Computer Misuse and Cybersecurity	7548
 Computer Networks	13356
 Computer Networks and ISDN Systems	3782
@@ -681,11 +684,12 @@ Journal of Mobile Computing and Application	9616
 Journal of Organizational Computing and Electronic Commerce	4432,917
 Journal of Parallel and Distributed Computing	8605
 K COMPUTER INFORMATION SYSTEMS GUINEE SA	16623
+Kenya Computer Incident Response Team Coordination	17745
 Kenya's Compute Access	7548
 Kenya's Computer Misuse and Cybercrimes Act	17658
 Kenya. Computer Misuse and Cybercrimes Act	6432
 Kenya’s Computer Misuse and Cybercrime Act. Kennedy	8095
-Kenya’s Computer Misuse and Cybercrimes Act	8095
+Kenya’s Computer Misuse and Cybercrimes Act	8095,9650
 Kenya’s National Computer and Cyber Crimes Coordination	8095
 LOCATION OF FINANCIAL COMPUTING FACILITIES	1243
 Lack of Digital Facilities Computers	16876
@@ -767,8 +771,9 @@ National Computer Security Incident Response Team	6778,1795,324,6223,433
 National Computer Systems Company	15679
 National Computer and Cyber Crimes Co-ordination Committee	11115
 National Computer and Cybercrime Coordination Committee	7481,3139
-National Computer and Cybercrimes Co-ordination Committee	6787,5445
-National Computer and Cybercrimes Coordination Committee	17566,92
+National Computer and Cybercrimes Co-or	17745
+National Computer and Cybercrimes Co-ordination Committee	6787,5445,5513
+National Computer and Cybercrimes Coordination Committee	17566,92,88
 National Data Centers and HighPerformance Computing	16212
 National Data Park and Compute Infrastructure	10157
 National Data and Cloud Computing Policy	7510
@@ -777,7 +782,7 @@ National High-Performance Computing	4528,7984
 National ICT Policy Definitions Computer Incident	13346
 National Institute for Computer Science	15679
 National Kenya Computer Incident	6946
-National Kenya Computer Incident Response Team	7481,4781
+National Kenya Computer Incident Response Team	7481,4781,5484
 National University of Computer and Emerging Sciences	15251
 National and Sectoral Computer Emergency Response Teams	587
 Nations International Computing Centre	12241

@@ -232,7 +232,7 @@ Palais des Nations	2262,7479,3301,2089,347,1149,4
 Palais des Sports de Treichville LES PLUS LUS	8755,4813
 Palais du DEPAR TEMENTALES Peuple	15488
 Palais du Gouvernement	9498,98,4605
-Palais du Peuple	2738,240,213,135,44,2697,4589,3166,90,784,792,2156
+Palais du Peuple	2738,240,213,135,44,2697,4589,3166,90,784,792,2156,119
 Palais du Peuple. Entreprises	10531
 Palakiyem Assih	8262,2502
 Palakiyem Assih Named Chairman of Cyber Defense	8262
@@ -255,7 +255,8 @@ Palermo Protocol and International Labour Organization	16874
 Palesa	12679
 Palesa Mucivame	13233
 Palesa and Lethabo	12679
-Palestine	1741,3144,49,187,1152,547,1825,1527,557,112,260,84,424,3862,1970,37
+Palestine	1741,3144,49,187,1152,547,1825,1527,557,112,260,84,424,3862,1970,37,265
+Palestine ARB UMI	17743
 Palestine Monetary Authority	940
 Palestine PSE Papua New Guinea PNG	13082
 Palestine Sudan Suriname Syrian Arab Republic	10764
@@ -280,9 +281,10 @@ Palgrave	8022,3006
 Palgrave Handbook of Global Health Data	12255
 Palgrave Handbook of Methods for Media	11028
 Palgrave MacMillan	11028
-Palgrave Macmillan	2096,7032,2007
+Palgrave Macmillan	2096,7032,2007,6638
 Palgrave Macmillan UK	12255
 Palgrave Macmillan. Disponível	2816
+Palgrave-Macmillan	17773
 Palha	10777
 Palivamwe	12478
 Pall Mall Process	10949

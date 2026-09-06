@@ -359,7 +359,7 @@ Gender Direct Female Total TKP	15663
 Gender Directorate	13040
 Gender Disaggregation	16970
 Gender Disinformation	7946
-Gender Disparities	2423
+Gender Disparities	2423,15322
 Gender Distribution	7763,6998,74
 Gender Distribution Among Management Staff	12951
 Gender Distribution Gender	7763
@@ -642,6 +642,7 @@ GenderStrategy	9516
 Gendered	1237,3804,2749,156
 Gendered Consequences	4443
 Gendered Impact of Cash Transfers	15663
+Gendered Realities of Digital Inclusion	17771
 Gendered Voices	11332
 Gendered Voices Newsletter	11332
 Gendered Voices Volume	11332

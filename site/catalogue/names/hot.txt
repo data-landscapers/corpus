@@ -148,7 +148,7 @@ Hoth Mai	3583
 Hotline	718,10413,3,1269,8,34,915,1382,105,208,72
 Hotline E-mail	14745
 Hotline Police	14847
-Hotlines	15845
+Hotlines	15845,1901
 Hotmail	4150,1714
 Hotspot Analysis Prioritization Matrix	10763
 Hotspot Analysis Prioritization Matrix Priority	10763
@@ -199,7 +199,7 @@ Metzy Residence Hotel	4359
 Mount Soche Hotel	7270
 Mountain View Hotel	6273
 Mountain View Hotel. Maziya	14258
-Mpilo Boutique Hotel	7898,633
+Mpilo Boutique Hotel	7898,633,9253
 Mövenpick Hotel and Residences. Looking	6946
 NCG Hotline	14760
 Nakuru Hotel	14523

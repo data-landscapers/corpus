@@ -1,4 +1,4 @@
-A. Methodology	14927
+A. Methodology	14927,2818
 A1.1.1.12.NA Mettre	10858
 A1.1.1.13.NA Mettre	10858
 A3.2.3.4 Mettre	10858
@@ -227,6 +227,7 @@ Data Collection Methods	7548,4808
 Data Collection Methods Develop	16963
 Data Collection Methods GM	1778
 Data Collection and Analysis Methods	16963
+Data Protection Bill. A. Methodology	17745
 Data Quality and Metadata Standards The NDGC	3861
 Data Sources and Methodology	12413,259,972,1412
 Data Standards and Methods	400
@@ -697,7 +698,7 @@ Met MAURITIUS Appendix II. Users	14777
 Met Office	13365
 Met Office UK	12649
 Met Office. Authors	13365
-Meta AI	3465,2151,2339,5506,214,3112
+Meta AI	3465,2151,2339,5506,214,3112,993
 Meta AI Chief Scientist Shengjia Zhao	9592
 Meta AI RFI	13461
 Meta AI.444 Google	13461
@@ -733,6 +734,7 @@ Meta Selects Safaricom	3839
 Meta Submission	13461
 Meta Support Operations	13461
 Meta Way	13462
+Meta Won’t	17780
 Meta and Apple	15984
 Meta and Deloitte	5804
 Meta and Google	4676,8591,1630
@@ -832,6 +834,7 @@ Metas Resultado	16898
 Metatheory of E-Government	5700
 Metaverse Era	1347,40,10774
 Metaverse. Digital	14997
+Meta’s AI	17780
 Meta’s Dawn Song	9027
 Meta’s Detectron2	5367
 Meta’s Director of Privacy and Data Policy for Africa	7409
@@ -971,12 +974,12 @@ Methodological Rigor and Validation	16266
 Methodological Soundness	2775
 Methodological Tools UNESCO	15750
 Methodological and Technical Recommendations	15244
-Methodologically	7759,207,2886
+Methodologically	7759,207,2886,6928
 MethodologicalstudiesonXML-baseddatabasemodelling	8606
 Methodologie	14472
 Methodologies	15120,2020
 Methodologies for Calculating ICT Price Basket Indicators	15120
-Methodology	236,663,362,102,522,103,105,581,274,110,1072,229,73,7,89,35,1115,1,729,55,473,1,214,70,1,56,270,321,85,67,1,279,75,60,176,516,1,108,162,217,143,210,795,1,10,47,118,40,24,13,139,55,19,32,27,110,2,162,342,17,5,37,44,143,31,17,11,36,7,72,3,11,37,37,99,22,159,24,204,13,1,9,34,12,15,143,165,69,556,68,668,73,28,37,3,40,41,27,9,124,7,17,140,24,98,131,149,6,33,52,83,47,1,344,24,117,336,237,14,5,5,24,95,69,2,11,13,17,209
+Methodology	236,663,362,102,522,103,105,581,274,110,1072,229,73,7,89,35,1115,1,729,55,473,1,214,70,1,56,270,321,85,67,1,279,75,60,176,516,1,108,162,217,143,210,795,1,10,47,118,40,24,13,139,55,19,32,27,110,2,162,342,17,5,37,44,143,31,17,11,36,7,72,3,11,37,37,99,22,159,24,204,13,1,9,34,12,15,143,165,69,556,68,668,73,28,37,3,40,41,27,9,124,7,17,140,24,98,131,149,6,33,52,83,47,1,344,24,117,336,237,14,5,5,24,95,69,2,11,13,17,209,377,30
 Methodology AHACI	12318
 Methodology ANNEX	11156
 Methodology Bank	14897
@@ -1349,6 +1352,7 @@ OpenAI and Meta	8092,124,5245
 OpenURL ContextObject RIOXX2 XML METS Dublin	10878
 Operation Meta- Dta Data Governance Data	15034
 Operator NMMP National Mass Metering Program	12062
+Organ Res Methods	17773
 Organisation Internationale de Metrologie Legale	13320
 Organización Mundial de Meteorología	1701
 Organização Meteorológica Mundial	17147,153

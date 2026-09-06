@@ -168,10 +168,10 @@ Localidade Latitude Longitude Altitude	17147
 Localidade Latitude Longitude Altitude Estado	17147
 Lona E HS Pe Bes	1885
 Lonchura	16552
-Londa	1375,283,10620
+Londa	1375,283,10620,5493
 Londa Senegal	2622
 Londolozi	8857
-London	396,3,354,988,352,419,79,144,271,785,82,553,3,543,230,55,225,31,187,163,62,261,281,98,15,519,361,159,44,32,247,107,1,677,299,35,37,30,16,201,4,162,82,9,43,231,161,120,5,37,1,52,41,26,444,56,37,147,24,92,21,16,154,231,549,137,28,130,587,68,464,120,511,54,170,315,100,55,7,61,8,27,574,446,824,84,297,84,226
+London	396,3,354,988,352,419,79,144,271,785,82,553,3,543,230,55,225,31,187,163,62,261,281,98,15,519,361,159,44,32,247,107,1,677,299,35,37,30,16,201,4,162,82,9,43,231,161,120,5,37,1,52,41,26,444,56,37,147,24,92,21,16,154,231,549,137,28,130,587,68,464,120,511,54,170,315,100,55,7,61,8,27,574,446,824,84,297,84,226,306,24
 London Branch	7198
 London Capstone	10252
 London College of Accountancy Ltd	14775
@@ -182,6 +182,7 @@ London Internet Exchange	7200,825,4212
 London Internet Exchanges	7329
 London Metal Exchange	10078
 London Metro	6832
+London New York	17780
 London Pop-Up Registration	7099
 London Review of Books Blog	12227
 London School of Economics	7174,809,3023,1,2411
@@ -191,6 +192,7 @@ London School of Hygiene and Tropical Medicine NaNA	16927
 London Stock Exchange	81,4815,1317,1836,5352,3375
 London Stock Exchange Group	7007
 London University	12951
+London Utami LS	17773
 London and Johannesburg	2731,3071
 London's Docklands	3554
 London- and Johannesburg-listed Ninety One Plc	9060

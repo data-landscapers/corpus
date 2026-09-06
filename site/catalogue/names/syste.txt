@@ -393,6 +393,7 @@ Bank's Climate Safeguards System	13938
 Bank's Gender Marker System	13938
 Bank's Integrated Safeguards System	13938
 Bank's Systematic Tracking of Exchanges	13017
+Banking Data Protection System	17744
 Banking System	13868
 Banking System Opens Direct Yuan	9387
 Banking System Surveillance The CBL	17138
@@ -1291,7 +1292,7 @@ District Magistrate. The Judicial System	14742
 Division LIMS Laboratory Information Management System	14773
 Djibouti Health System Strengthening	13859
 Djibouti Port Community Systems	1288,4705
-Djibouti Ports Community System	9821,1912,2963,3042
+Djibouti Ports Community System	9821,1912,2963,3042,25
 Document Management System	6432,4799,3599,334
 Document Management System EFT Electronic Funds	16876
 Domain Name System	958,33,3219,2936,283,5866,2217,1033
@@ -1521,7 +1522,7 @@ Electronic Invoice System	14952
 Electronic Invoicing System	4699,287,1483,1018,5566,69,1552
 Electronic Invoicing System Administration Directive WHEREAS	14129
 Electronic Invoicing System Introduce	16968
-Electronic Journal of Information Systems	5349,5377
+Electronic Journal of Information Systems	5349,5377,7024,1
 Electronic Land Titles With AMLAK System	4596
 Electronic Legal Aid System	11939
 Electronic Logistics Management Information System	1261,11345,581,3784
@@ -1547,6 +1548,7 @@ Electronic Rental Income Tax System	14515
 Electronic Single Window System	14985
 Electronic Single Window System The Electronic	13563
 Electronic State Financial Administration System	4260,8010
+Electronic System	17759
 Electronic System Activated	17562
 Electronic System for International Trade	12389
 Electronic Systems and Interoperability of Services	12389
@@ -2400,7 +2402,7 @@ Information System Unit HPV Human Papilloma	12976
 Information System and Social Action Management	10763
 Information System for Birth Registration	10812
 Information System for Development Repositories	15621
-Information Systems	34,966,9,239,13,2866,305,917,351,3537,823,1096,723,48,12,16,406,28,365,72,749,1,105,504,712,183,10,2347
+Information Systems	34,966,9,239,13,2866,305,917,351,3537,823,1096,723,48,12,16,406,28,365,72,749,1,105,504,712,183,10,2347,337
 Information Systems Audit and Control Association	9237,1179,13
 Information Systems Design	15080
 Information Systems Frontiers	11156
@@ -2469,7 +2471,7 @@ Integrated Document and Records Management System	11349
 Integrated Document and Records Management Systems	11349
 Integrated Education Information and Management System	210
 Integrated Education Management Information System	11695
-Integrated Elections Management System	12113
+Integrated Elections Management System	12113,5674
 Integrated Electronic Case Management System	5039,3635,3713,86,524,132,309,66,115,1459,141
 Integrated Electronic Identification Management System	10812
 Integrated Electronic Medical Record System	4260
@@ -2689,6 +2691,7 @@ Kenya Health Management Information Systems	10641
 Kenya Integrated Agricultural Management Information System	14575
 Kenya Integrated Agriculture Management Information System	14551
 Kenya Integrated Election Management System	11115
+Kenya Integrated Elections Management System	17787
 Kenya Intelligent Transport System	355
 Kenya's National Logistics Management System	4153
 Kenya's New Digital Identity System	12227
@@ -3095,6 +3098,7 @@ Ministry of Mines' Export Permit Management System	13688
 Ministry of Territorial Administration DGDEN System	15553
 Ministry of Tourism's Zimbabwe Tourism Fund System	13688
 Ministry's Human Resource Information System	6432
+Miru Systems	17787
 Miss BEHAREE Sabinta Assistant Systems Analyst	14770
 MoH E.H.R System	2477
 MoH's System Architecture and Security Unit	12240
@@ -4464,6 +4468,7 @@ Small Irrigation Management Information System	14002
 Small Irrigation Management Information System of Ethiopia	14002
 Smart Border Custom Management System	14088
 Smart Court System	11607,2427
+Smart Office Management System	17785
 Smart Police Station System	11607
 Smart Traffic Management System	9394
 SmartCare System	34
@@ -4677,6 +4682,7 @@ Successful ID Systems	10714,293
 Sudan Educational System	14924
 Sudan Interbank Settlement System	15154
 Sudan's National Payment System Director	3679
+Sugar Industry Information Management System	17770
 Sun Accounting System	16949
 Superseded Systems	6432
 Support Banking Department Payment Systems Services	17235
@@ -4711,7 +4717,7 @@ Switching System	16844
 Sybrin Systems Johannesburg	10193
 Synergy International Systems	12936
 Syste Request for Quota Single Stage	17180
-System	34,62,114,48,37,63,1,221,1,155,483,3,21,18,3,20,660,152,191,108,82,197,35,180,614,101,31,101,55,411,27,72,680,52,330,170,378,137,375,369,40,106,8,275,659,48,59,1,34,523,58,1,1,27,91,211,44,105,4,1,35,6,79,216,225,29,177,4,36,44,123,60,174,320,98,49,12,5,32,40,18,61,19,14,165,2,2,1,94,41,34,13,55,154,28,298,1,8,2,1,42,11,36,1,23,10,14,62,31,45,1,4,3,29,25,11,3,42,13,1,16,28,13,10,27,3,7,21,62,18,9,6,38,2,13,138,12,8,5,55,195,6,16,6,21,32,5,11,132,125,10,13,55,7,109,8,20,74,75,7,172,78,42,11,7,424,27,5,33,46,13,48,5,117,1,24,9,5,11,12,31,21,47,20,12,12,14,36,16,10,19,3,4,57,10,74,42,75,130,51,56,83,3,53,4,52,505,75,200,4,23,80,116,142,2,3,9,1,3,16,8,7,15,20,29,7,59,31,46,2,23,3,15,78,15,10,74,103
+System	34,62,114,48,37,63,1,221,1,155,483,3,21,18,3,20,660,152,191,108,82,197,35,180,614,101,31,101,55,411,27,72,680,52,330,170,378,137,375,369,40,106,8,275,659,48,59,1,34,523,58,1,1,27,91,211,44,105,4,1,35,6,79,216,225,29,177,4,36,44,123,60,174,320,98,49,12,5,32,40,18,61,19,14,165,2,2,1,94,41,34,13,55,154,28,298,1,8,2,1,42,11,36,1,23,10,14,62,31,45,1,4,3,29,25,11,3,42,13,1,16,28,13,10,27,3,7,21,62,18,9,6,38,2,13,138,12,8,5,55,195,6,16,6,21,32,5,11,132,125,10,13,55,7,109,8,20,74,75,7,172,78,42,11,7,424,27,5,33,46,13,48,5,117,1,24,9,5,11,12,31,21,47,20,12,12,14,36,16,10,19,3,4,57,10,74,42,75,130,51,56,83,3,53,4,52,505,75,200,4,23,80,116,142,2,3,9,1,3,16,8,7,15,20,29,7,59,31,46,2,23,3,15,78,15,10,74,103,309,23
 System AU African Union B2B Business-to-Business	13312,2
 System Access	8999
 System Activity	16863
@@ -4727,6 +4733,8 @@ System Analysis and Requirements Gathering	13037
 System Analyst	12693,268
 System Architecture As the CBE	11130
 System Architecture and Security Unit	12240
+System Attack Trends System Attacks	17746
+System Attacks	17746
 System Audit Logs	14546
 System Availability	11952
 System Average Duration Index	12358
@@ -5427,6 +5435,7 @@ Vital Records System	10822
 Vital Statistics System	10765,10,1376,186,1,29,46,546,2097
 Vital Statistics System HIS Health Information	12151
 Vital Statistics System The Namibia Statistics	12337
+Volunteer and Membership Management System	17757
 Vote Book System	12322
 Voucher and CropScope Systems	10931
 W GLOBAL OUTDOOR SYSTEMS GUINEE SARL	16623

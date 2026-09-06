@@ -225,7 +225,7 @@ Food Crops and Related Items	2775
 Food Items	12977
 Food and Agriculture Laboratory Items	14736
 Foundation for Sustainable Development. ITU	15553
-France and Italy	4617
+France and Italy	4617,13163
 G SOCIETE ITC GUINEE	16623
 G. Evaluation of Technical Part of Proposals ITP	15080
 G. Evaluation of Technical Parts of Bids ITB	13185
@@ -250,6 +250,7 @@ Geraldine Itana	8250,4,1
 Geraldine Itana. Leading	13238
 German Hebrew Hindi Italian Urdu	14771
 German and Italian Embassies	14162
+Germany and Italy	17780
 Ghana Greece Iceland India Indonesia Italy	10764
 Ghana.gov. ITAS	10419
 Gigabyte of ITU ICT	1284,12047
@@ -524,7 +525,7 @@ ITU Critical	10764
 ITU Cybersecurity	10764
 ITU DFS	5428
 ITU Data Hub	11965
-ITU DataHub	3569,7855,139,402,2133
+ITU DataHub	3569,7855,139,402,2133,3645
 ITU DataHub ICT Households and Individuals ICT	14098
 ITU DataHub Int'l	14098
 ITU DataHub International	14098
@@ -578,7 +579,7 @@ ITU ICTPriceBaskets Allowance 2024.xlsx	11563
 ITU IDI Rank	13344
 ITU In LLDCs	10844
 ITU Indicator	14897
-ITU Innovation Centre	10764,80,719
+ITU Innovation Centre	10764,80,719,6180
 ITU International Telecommunication Union	11887,266,1,9,178
 ITU International Telecommunication Union ITUC International	10759,78,1052,451
 ITU International Telecommunication Union IUCD Intrauterine	2775
@@ -597,9 +598,10 @@ ITU L.1036	3604
 ITU Legal	10764
 ITU Localities	4653
 ITU Make	11857
+ITU Manual for Measuring ICT Access	17743
 ITU Median	11563
-ITU Member State	15471
-ITU Member States	6168,4596,498,4209
+ITU Member State	15471,2272
+ITU Member States	6168,4596,498,4209,2272
 ITU Methodology for Data Collection Data	3604
 ITU Names	11917
 ITU National E-Health Strategy Toolkit	21
@@ -611,7 +613,8 @@ ITU PP-26	6488,1753
 ITU PP-26. V. Social	6488
 ITU Partner2Connect	1634,503,526,1857
 ITU Penetration	11857
-ITU Plenipotentiary Conference	6488,154,304,723,124,157,602,93,1111,1008,4707,1331
+ITU Plenipotentiary Conference	6488,154,304,723,124,157,602,93,1111,1008,4707,1331,941
+ITU Plenipotentiary Conference. Annex	17743
 ITU Plenipotentiary Conference. Maida	7562
 ITU Policy	17097
 ITU Presentation	5681
@@ -639,6 +642,7 @@ ITU Report	958,10258,998
 ITU Report ITU-R BT.2383-5	14780
 ITU Rural Access	5241
 ITU SG Doreen Bogdan-Martin	7197
+ITU Secretariat	17743
 ITU Secretary General Dr Hamadoun I	14723
 ITU Secretary-General	7235,91,4594
 ITU Secretary-General Doreen Bogdan-Martin	1883,5256,60
@@ -652,7 +656,7 @@ ITU Statistics Update	11424
 ITU Study Group	7174
 ITU Subregional	11424
 ITU TDAG30	403
-ITU Telecommunication Development Bureau	26,1,1,4492,2529,86,93,1390,2146,80,719
+ITU Telecommunication Development Bureau	26,1,1,4492,2529,86,93,1390,2146,80,719,6180
 ITU Telecommunication Development Sector	8945,7101
 ITU Together	10764
 ITU UMC	4110
@@ -763,13 +767,14 @@ ITURI ENERGY	15670
 ITU’s AI for Good Global Summit	1814
 ITU’s CAB	11500
 ITU’s Digital Health Platform Handbook	396
-ITU’s Expert Group	11563
+ITU’s Expert Group	11563,6180
 ITU’s G4	15120
 ITU’s Global Africa	6946
 ITU’s Global Cybersecurity Index	10785,6157
 ITU’s Global Cybersecurity Index Penetration of ICT	6946
 ITU’s ICT	11399
 ITU’s ICT Regulatory Tracker	15480,1396
+ITU’s Member States	17743
 ITU’s Partner2Connect	7139
 ITU’s Publication Composition Service	26,1,1
 ITU’s Telecommunication Development Bureau	11563
@@ -873,7 +878,7 @@ Italia	3238,5536,8101
 Italia CORINTO	6613
 Italia Matlala Executive Group Head	5247
 Italia. Attraverso	8774
-Italian	2367,452,1211,533,1354,31,946,174,369,783,591,1279,502,543,1651,33,93,1982,658,107,310,834,40,73,123
+Italian	2367,452,1211,533,1354,31,946,174,369,783,591,1279,502,543,1651,33,93,1982,658,107,310,834,40,73,123,741
 Italian Agency for Development Cooperation	9434,1029,321,3298
 Italian Ambassador	7030,6177
 Italian Association Amici	16950
@@ -909,11 +914,12 @@ Italie. Entre	5916
 Italie. Etant	15500
 Italie. Monsieur Hamidou DIPAMA	15649
 Italienne	16249
-Italy	402,568,243,34,3,1019,19,45,14,9,11,13,65,84,4,11,6,12,38,10,6,3,7,1,49,4,157,264,241,2,9,4,265,96,154,268,265,221,430,39,243,332,124,146,163,223,132,155,9,56,112,59,38,143,33,179,59,23,698,324,324,728,154,252,167,621,111,82,79,424,37,247,14,23,542,57,292,167,295,16,229,103,314,215,29,15,125,89,65,564,143,58,70,11,463,523,586,223,71,42,21,102
+Italy	402,568,243,34,3,1019,19,45,14,9,11,13,65,84,4,11,6,12,38,10,6,3,7,1,49,4,157,264,241,2,9,4,265,96,154,268,265,221,430,39,243,332,124,146,163,223,132,155,9,56,112,59,38,143,33,179,59,23,698,324,324,728,154,252,167,621,111,82,79,424,37,247,14,23,542,57,292,167,295,16,229,103,314,215,29,15,125,89,65,564,143,58,70,11,463,523,586,223,71,42,21,102,704,37
 Italy Boosts Eswatini's Green Future	17048
 Italy Boosts Eswatini's Green Future Projects	13207
 Italy Claudia Robbiati	10784
 Italy Claudia Robbiati Doctors	10784
+Italy EUR HI	17743
 Italy Fabio Manenti Authors Claudia Robbiati	10784
 Italy Global Cybersecurity Index	10764
 Italy Identification Document Jun	10714
@@ -1019,6 +1025,7 @@ Iterative HNSF Development FIGURE	1009
 Iterative Improvements	11216
 Iterative Input	12356
 Itezhi-Tezhi	13387
+Ithabeleng Qhasho ARTIFICIAL	17784
 Ithenda	11573
 Ithete	13041
 Ithiel Batumike	16504
@@ -1048,6 +1055,8 @@ Itsali	15379
 Itsandra	3772
 Itsandra Beach Hotel	13799
 Itsandra. Cette	3772
+Itsekor V	17773
+Itshekiri	17773
 Itshmdons	16836
 Itsinda	14893
 Itsinkudi	13786

@@ -6,6 +6,7 @@ AFR Afrobarometer UNESCO United Nations Educational	10835,3,130,902,16,466,1,135
 AFR EAP ECA LCR MNA NAM	10785
 AFR FSPs	15130
 AFR FSPs X Program	15130
+AFR LMI	17743
 AFR MINAGRI	15130
 AFR MINICOM	15130
 AFR NGOs	15130
@@ -25,31 +26,71 @@ Afr Identities	9739
 Afr J Reprod Health	13040
 Afr Lit Today	9739
 Afr Music J Int Libr Afr	9739
+Afr Musicol Online	17773
 Afr Popul Stud	12246
 Africa. Afr Health Sci	14666
 Analyze the AFR	14997
+Angola AFR LMI	17743
+Benin AFR LMI	17743
+Botswana AFR UMI	17743
+Burkina Faso AFR LI	17743
+Burundi AFR LI	17743
 Burundian and Central Afr	11900
 COVID-19. Sci Afr	14666
 CSU. Résolution AFR	16195
+Cabo Verde AFR LMI	17743
+Cameroon AFR LMI	17743
+Chad AFR LI	17743
 Codevelop and AFR	8449
+Congo AFR LI	17743
+Equatorial Guinea AFR UMI	17743
+Eswatini AFR LMI	17743
+Ethiopia AFR LI	17743
 FSPs AFR	15130
+Gabon AFR UMI	17743
+Ghana AFR LMI	17743
 Ghana Cote Nigeria Bangladesh AFR	10985
+Guinea-Bissau AFR LI	17743
+Ivoire AFR LMI	17743
 J Afr Media Stud	9739
 J Health Inf Afr	766,495
 J Mus Arts Afr	9739
+Kenya AFR LMI	17743
+Lesotho AFR LMI	17743
+Liberia AFR LI	17743
 Liberia Other EMDEs Other AE AFR	17257
 MINAGRI AFR	15130
 MINECOFIN AFR	15130
 MINEMA AFR	15130
+Madagascar AFR LI	17743
+Malawi AFR LI	17743
+Mali AFR LI	17743
+Mauritius AFR UMI	17743
+Mozambique AFR LI	17743
 NBR AFR	15130
+Namibia AFR UMI	17743
+Nigeria AFR LMI	17743
 Nigeria. Ikenga Int J Inst Afr	9739
 Pan Afr Med J	3791
 Region AFR	10785
+Rwanda AFR LI	17743
 Résolution AFR	15423,772
 S Afr Med J	7836
+S Afr Rev Sociol	17773
 Santé. Résolution AFR	16195
+Sao Tome and Principe AFR LMI	17743
+Senegal AFR LMI	17743
+Seychelles AFR HI	17743
+Sierra Leone AFR LI	17743
+South Africa AFR UMI	17743
 Southern Afr Bill	135
+Southern Africa. Indilinga Afr J Indig	17773
 Strateg Rev South Afr	9739
+Tanzania AFR LMI	17743
+Togo AFR LI	17743
 TransUnion AFR	15130
 UE de Résolution AFR	16195
+Uganda AFR LI	17743
 World AFR Most Vulnerable Countries LBR	17257
+Zambia AFR LMI	17743
+Zimbabwe AFR LMI	17743

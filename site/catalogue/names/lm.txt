@@ -1,17 +1,34 @@
 ADOPTION In LMICs	11902
+AFR LMI	17743
+AMS LMI	17743
+ASP LMI	17743
 Across LMICs	11004,898,62,30
+Algeria ARB LMI	17743
 All LMICs	11004
+Angola AFR LMI	17743
 Asia and LMICs	11964
 BMC and LMC	17260
+Bangladesh ASP LMI	17743
+Benin AFR LMI	17743
+Bhutan ASP LMI	17743
 CAMES-certified LMD	10948
 CEMAC SSA LMIC Cameroon Djibouti Ghana	10997
+Cabo Verde AFR LMI	17743
+Cambodia ASP LMI	17743
+Cameroon AFR LMI	17743
+Comoros ARB LMI	17743
 Control LMHRA Liberia Medicines and Health Products	17289
 Dihlabeng LM	11980
 Dispositions LMI	6832
+Djibouti ARB LMI	17743
 ESCP. The LMP	16144
+Egypt ARB LMI	17743
+Eswatini AFR LMI	17743
 External Evaluation JEE Lower-Middle-Income Country LMIC	11417
+Ghana AFR LMI	17743
 H UM LM L	10785
 HOTL ICRC LMIC MLOp OCHA OCR	11156
+Honduras AMS LMI	17743
 IDA IFC ISP IT ITU LMI	15553
 IDSR Integrated Disease Surveillance and Response LMIC	14666
 IPMP Integrated Pest Management Plan LMP	1988
@@ -23,7 +40,12 @@ Information Technology LMP Labor Management Procedures	15138
 International Finance Corporation LMP Labor Management	17099
 International Standard Serial Number LMS Learning	14747
 International Telecommunication Union LMP Labor Management	15621
+Ivoire AFR LMI	17743
+Jordan ARB LMI	17743
 KYC Know Your Customer LMP Labor	15518
+Kenya AFR LMI	17743
+Kiribati ASP LMI	17743
+Kyrgyzstan CIS LMI	17743
 LAN Local Area Network LMS Learning	15604
 LCD Liquid Crystal Display LMGH Levy	34
 LEO Low Earth Orbit LMS Licensing	6946
@@ -126,9 +148,11 @@ LMS. The Public Procurement and Concessions Commission	16947
 LMTPB Nouveau	16103
 LMTPB Réunion	16103
 LMTPB Révision Réunion	16103
+Lao P.D.R. ASP LMI	17743
 Latvia’s LMT	2511
 Le LMIS	13306
 Le LMS	9555
+Lesotho AFR LMI	17743
 Lire LMBJ	3639
 Lmackisinog	15713
 Lmder	16851
@@ -139,15 +163,23 @@ Mahikeng LM	11980
 Malawi's LMIS	13157
 Management System LMIS Logistics Management Information	13306
 Mastic Asphalt LMTPB Nouveau	16103
+Mauritania ARB LMI	17743
 Mauritius-based United Investment LMT	12035
 Meteowiz for LMS	16947
 Methods Five LIC and LMICs	771
+Mongolia ASP LMI	17743
 Monitoring and Evaluation IT Information Technology LMIS	15556
+Morocco ARB LMI	17743
+Myanmar ASP LMI	17743
+Nicaragua AMS LMI	17743
+Nigeria AFR LMI	17743
 Nquthu LM	11980
 OVERALL LMICs Middle East Europe	11964
 OVERALL LMICs Proportion of Europe	11004,960
 Organization for Standardization LMICs	11960,1428
 Overall LMICs	11902
+Pakistan ASP LMI	17743
+Philippines ASP LMI	17743
 Phokwane LM	11980
 Planning Framework LMIC Implementation and Status Results	10964
 Profiling of LMS Staff Category Number	16947
@@ -167,19 +199,32 @@ SSA LMIC Cameroon Cameroon and Comparators Median	10997
 SSA Non-Oil MENA LMICs Djibouti Fiscal	13868
 SSA and LMIC	10768,229
 SSA and LMICs	10997
+Samoa ASP LMI	17743
+Sao Tome and Principe AFR LMI	17743
+Senegal AFR LMI	17743
 Sociétés LM Lettre de Mission PLAN D'ORIENTATION	10712
 Software LMS	15183
 Somalia LMS Project Organization	15183
 South Asia and LMICs	11902
+Sri Lanka ASP LMI	17743
 Steve Tshwete LM	11980
 Strategic Plan for LMPS	12731
 Sudan Senegal Zimbabwe SSA LMIC CEMAC	10997
 SupTech Tool for LMIC	1491
 System LIC Low Income Countries LMIC	771
 Système LMD	10855
+Tanzania AFR LMI	17743
+Timor-Leste ASP LMI	17743
 Train LMS	16947
+Tunisia ARB LMI	17743
 UN.20 LMIC	11004
 UNDP and LMPS	12732
+Ukraine EUR LMI	17743
 Un LMIS	13306
 United Investment LMT	12035
+Uzbekistan CIS LMI	17743
 V LMC	15799
+Vanuatu ASP LMI	17743
+Viet Nam ASP LMI	17743
+Zambia AFR LMI	17743
+Zimbabwe AFR LMI	17743

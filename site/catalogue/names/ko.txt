@@ -1,3 +1,4 @@
+A. Korinek	17780
 AANGEWESE KONTAKPUNT	11190
 AC Kollie	17294
 ACK GOOD SHEPHERD KOMOLORUME CYDC Data	7167
@@ -477,7 +478,7 @@ Hon. Kou Dorliae Assistant Minister	16857
 Hon. Kou Dorliae Liberia Revenue Authority	16853
 Hon. Kou Meapeh Gono	17260
 Hon. Lady Justice Martha Koome	6946
-Hong Kong	961,75,210,168,2942,320,179,1008,705,131,126,1390,881,25,683,351,289,355,22,25,1065,1197,424,38,1201,700,502,1494
+Hong Kong	961,75,210,168,2942,320,179,1008,705,131,126,1390,881,25,683,351,289,355,22,25,1065,1197,424,38,1201,700,502,1494,276
 Hong Kong Aerospace Technology Group	4880
 Hong Kong English Arabic English French	14771
 Hong Kong SAR	6679,4035,71,1137
@@ -823,7 +824,7 @@ Ko Goma	10543
 Ko-funda	15660
 KoBoCollect	16300
 KoN and TB	771
-KoTDA	1245,393,84,11,4060,1153,602,2688
+KoTDA	1245,393,84,11,4060,1153,602,2688,7510
 KoTDA CEO John Paul Okwiri	10236
 KoTDA Chairman Prof. Raphael Munavu	1245
 KoTDA Tender Box	1638
@@ -989,7 +990,7 @@ Kombi	12977
 Kombissiri	10875
 Kombissiri Bazèga Centre-Sud	15715
 Kombissiri. Après	9050
-Kombo	17327
+Kombo	17327,482
 Kombo East	17152
 Kombo North	16926
 Kombo North. Now	16915
@@ -1071,6 +1072,7 @@ Komsilga Résultat	3396
 Komtoèga Boulgou Centre-Est	15715
 Komtoéga	10875
 Kona Mouhoun Boucle du Mouhoun	15715
+Konan ASK	17773
 Konankro	2342
 Konaté	3131,66,120,338,441,6837
 Konaté Issa	10096
@@ -1164,6 +1166,8 @@ Konti	15027,75
 Kontrolle	11316
 Konya Secondary School	7394
 Konyagi	6921,6481
+Konyana	17773
+Konyana EG	17773
 Konyo-Konyo	3046
 Konyo-konyo	4825
 Konza	1236,497,13,1269,363,1183,346,754,132,340,297,2809,610,4,383,215,216,1589
@@ -1186,7 +1190,7 @@ Konza Technology City	359
 Konza Technopolis	359,877,9,393,1030,34,73,1786,1232,340,28,426,359,602,726,108,410,291,250,518,2,85,3,342,168,88,128,498,1045,4593
 Konza Technopolis Authority	6946
 Konza Technopolis Development	5793,1153
-Konza Technopolis Development Authority	1722,4439,785,2903,1316,3313
+Konza Technopolis Development Authority	1722,4439,785,2903,1316,3313,3268
 Konza Technopolis Development Authority Address	1638
 Konza Technopolis Development Authority CEO	5108
 Konza Technopolis Development Authority Chief Executive	9853
@@ -1243,7 +1247,7 @@ Kordofan State	14955,289
 Kordofan and Darfur	14877,367
 Kordofan and RSF-controlled	15342
 Kore Kore	8681
-Korea	354,435,2346,592,1304,93,601,294,1666,989,276,117,354,798,495,71,187,89,74,19,11,189,133,721,2,912,1276,325,3,171,68,32,474,242,1040,1,1,1,2,14,86,14
+Korea	354,435,2346,592,1304,93,601,294,1666,989,276,117,354,798,495,71,187,89,74,19,11,189,133,721,2,912,1276,325,3,171,68,32,474,242,1040,1,1,1,2,14,86,14,871
 Korea Access Rights	12837
 Korea C&C Mining	15542
 Korea Communications Commission and Mr. Jeong Hyun-cheol	9067
@@ -1669,6 +1673,7 @@ Madame Souad El Kohen	547,3,18,20
 Madaxa Koowaad	14859
 Madjoari Kompienga Est	15715
 Madouba Kossi Boucle du Mouhoun	15715
+Mahmoud Thabit Kombo	17809
 Maj. Gen. Elia Kosta Faustino	6115
 Maj. Gen. Ellia Kosta	9122,464
 Major General Eliza Kosta	8940
@@ -1691,6 +1696,7 @@ Marie-Claire Tari Koumninga	4568
 Maroc Egypte Jordanie Koweït Turquie Tunisie	7655
 Maroc Jordanie Koweït Tunisie Royaume-Uni Banque	7655
 Martha Koome	6946
+Martin Koome	17761
 Martin Koyabe	11675
 Martin Koyabe Danson Mukile and Dr	9645
 Maryse Declombeault MOUPIGA KOUMBA	16175
@@ -1829,6 +1835,7 @@ Mr. Ali Koné	10828
 Mr. Bukwa Kola	11129
 Mr. David S.K. Kollie	16848
 Mr. Dong Wan Koo	10123
+Mr. Eric Kobia	17746
 Mr. Ian KotzéE-mail	11334
 Mr. Jacob Kotcho	15831
 Mr. Jacob Kotcho. Next Steps	15831
@@ -2161,7 +2168,7 @@ South Korea's AI Basic Act and China	8435
 South Korea's Economic Development Cooperation Fund	9647
 South Korea's Naver	3113
 South Korea's Naver Cloud	10136
-South Korean	3651,796,2096,1142,1107,2292,3314,2657
+South Korean	3651,796,2096,1142,1107,2292,3314,2657,732
 South Korean Ambassador	13551
 South Korea’s AI Act	15713
 South Korea’s Daedeok Innopolis	6161
@@ -2278,6 +2285,7 @@ Wasiirka Koowaad	14859
 Watching Kona	9007
 WaterAid Liberia Chuchu Kordor Selma Interim	17260
 Web Foundation. Esquivel Korsiak	15474
+Weldon Korir	17745
 Wesley Korkpor PPP and Energy Investment Specialist	17260
 West Kordofan	14897,58,251,38
 West Kordofan SNAPSHOT	15206

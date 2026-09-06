@@ -19,7 +19,7 @@ Congo Malawi Dominican Rep. Moldova Eswatini	10764
 DOCUMENT CG Rep. LISUNGI Safety Nets	11924
 DU PRESIDENCE DE LA REP	15485
 Dem Rep. World Bank	14666
-Dem. Rep	10714,50,21,744,43,310,3589,146
+Dem. Rep	10714,50,21,744,43,310,3589,146,2126
 Dem. Rep. Chad Equatorial Guinea Central	15553
 Dem. Rep. Civil Registry	10714
 Dem. Rep. Congo	13314
@@ -30,6 +30,7 @@ Democratic Rep. of Congo	4972,8398
 Digital Economy Dem. People's Rep. of Korea	11529
 Dominica No Dominican Rep. Yes Programa	11529
 Dominican Rep	15471
+Dominican Rep. AMS UMI	17743
 Dominican Rep. Kyrgyz Republic Kazakhstan Ecuador	11563
 E BANQUE CENTRALE DE LA REP	16623
 E Government E Democratic Rep	13042
@@ -66,6 +67,7 @@ Rep. CameroonChadCAR	16996
 Rep. Canada Japan Release	11135
 Rep. Central African Rep. Mauritania Asia-Pacific	11563
 Rep. Dem. People’s Rep. of Korea Eritrea	10764
+Rep. Ecuador	17743
 Rep. Equatorial Guinea	16996
 Rep. Equatorial Guinea Gabon	16942
 Rep. Eritrea Guinea-Bissau T4 Evolving Angola	10764
@@ -81,7 +83,9 @@ Rep. Wongbe	4998
 Rep. Zambia Register VIZ Database	10714
 Rep. de Caminos	4209
 Rep. of Korea Maldives Marshall Islands Micronesia	10764
+Republic24 Dem. Rep	17743
 Res Rep	1751,15506
+Sci Rep	17773
 Southern Region CFDC Rep	16857
 St. Solomon Peters CFDC Rep	16857
 Timor-Leste Congo Rep. Azerbaijan Costa Rica	16942

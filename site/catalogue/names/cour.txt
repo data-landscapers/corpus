@@ -70,6 +70,7 @@ Blantyre High Court	12174
 Body Court	13698
 Body Korea and Africa Chart New Course	16784
 Body LESOTHO COURTS DATA CENTRES	12750
+Bombay High Court	17773
 Brazilian Supreme Court's	5366
 Building Law No. The Constitutional Court	15473
 Bulawayo High Court	13504
@@ -361,7 +362,7 @@ Court of Accounts and Parliament	969
 Court of Accounts. Expected	15924
 Court of Accounts. Reclassified	16152
 Court of Accounts’ Execution Control	1284
-Court of Appeal	11,2692,164,499,71,195,532,448,102,288,114,269,126,272,239,8,490,1,56,239,111,99,8,71,50,37,129,39,19,47,137,144,69,316,3,384,184,113,769,100,327,988,681,352,70,111,392,25,77,898,1176,190,2019,662,2
+Court of Appeal	11,2692,164,499,71,195,532,448,102,288,114,269,126,272,239,8,490,1,56,239,111,99,8,71,50,37,129,39,19,47,137,144,69,316,3,384,184,113,769,100,327,988,681,352,70,111,392,25,77,898,1176,190,2019,662,2,130
 Court of Appeal Performance	12668
 Court of Appeal for East Africa	14409
 Court of Appeal of Kenya	13040
@@ -380,7 +381,7 @@ Court of Criminal Appeal	14742,105
 Court of First Instance	5902,5060,17,3763,105,546
 Court of First Instance Yaoundé	10979
 Court of First Instance.13	10979
-Court of Justice	1807,4615,659,1355,311,26,3,2325,4800
+Court of Justice	1807,4615,659,1355,311,26,3,2325,4800,1879
 Court of Law	13053,1725,2052
 Court of Member States. Sanctions	15374
 Court of Rodrigues	14742,105
@@ -554,6 +555,7 @@ European Court of Human Rights	10335,2705
 European Court of Justice	1243
 Expertise of Courts	12389
 Expertise of Specialized Courts	12389
+FDS. US District Court	17773
 Fast-Track Courses	13998
 Federal Court of Justice	10090
 Federal First-Instance Court	13948
@@ -621,6 +623,7 @@ High Court JR No	14460
 High Court Judge	13504
 High Court Judge Emmanuel Baguma	8470
 High Court Judge Gregory Mutai	9645
+High Court Justice Lawrence Mugambi	17745
 High Court Mugure Thande	9645
 High Court PART	13071
 High Court Petition No	3005
@@ -756,7 +759,7 @@ Jurisdiction of National Courts ARTICLE	14409
 Juvenile Court	14847,2096
 Karonga Magistrate Court	12174
 Katana Coulibaly Economiste Courriel	16063
-Kenya's High Court	5203,4535
+Kenya's High Court	5203,4535,8007
 Kenyan Court	3583
 Kenyan Court Ruling	9399,5035
 Kenyan High Court	4583,2209,1687,3660
@@ -888,6 +891,7 @@ Nigeria. Nigerian Court	11956
 Nigerian High Court	4583,1472
 Nigeria’s Apex Court	8978
 No. of Courts	12453,892
+North Coast Courier Orphan Fund	17800
 North Gauteng High Court	2307
 Number of Magisterial Courts	16943
 OFFICER OF DISTRICT COURT Date	7845
@@ -1117,7 +1121,7 @@ Superior Courts Act	11190
 Superior Courts Department. As the Commission	13504
 Superior Courts of The Gambia	16951
 Supervisory Development Management Course	6946
-Supreme Court	3,222,1558,46,90,1942,3085,899,312,376,171,69,31,174,421,146,100,397,1073,871,77,138,135,332,252,2,33,4,81,13,448,3,115,40,737,64,282,6,3,2,56,38,44,16,20,304,242,93,1008,256,18,95,8,7,165
+Supreme Court	3,222,1558,46,90,1942,3085,899,312,376,171,69,31,174,421,146,100,397,1073,871,77,138,135,332,252,2,33,4,81,13,448,3,115,40,737,64,282,6,3,2,56,38,44,16,20,304,242,93,1008,256,18,95,8,7,165,622
 Supreme Court Act	12920
 Supreme Court Bar	16943
 Supreme Court Bench	13504,3439

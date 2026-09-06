@@ -32,9 +32,9 @@ Centrale des Incidents de Paiement	13452,3490
 Centrale des Incidents de Paiement La Banque	13452
 Circulação de Veículos Incidência- Taxas-Notas Taxa	17100
 Computer Incidence Response Team	958
-Computer Incident Response Team	4693,10,61,2081,2588,1701,1261,58,1986,102,3,79
+Computer Incident Response Team	4693,10,61,2081,2588,1701,1261,58,1986,102,3,79,3122
 Computer Incident Response Team CMIL	14438
-Computer Incident Response Teams	11920
+Computer Incident Response Teams	11920,5825
 Computer Security Incident Handling Guide	13381
 Computer Security Incident Response Center	15511
 Computer Security Incident Response Team	1200,28,549,1817,249,44,766,1886,5622,3000,343,9,40,90,1513
@@ -182,7 +182,7 @@ Incident Reporting. Develop	1777
 Incident Reports Awareness	10721
 Incident Resolution Advising	775
 Incident Responders	1000
-Incident Response	775,225,1709,1152,749,1822,4289,1231,586,429,1954,741
+Incident Response	775,225,1709,1152,749,1822,4289,1231,586,429,1954,741,2084
 Incident Response A. All Telecommunications Service	4610
 Incident Response GC-SCRM.S1	10721
 Incident Response Plan	10721
@@ -257,6 +257,7 @@ Intermediate Level Certified Incident Handler	15662
 Intermediate Level GIAC Certified Incident Handler	15662
 JEFATURA TOTAL DIRECTIVO INCIDENTES Y INFRAESTRUCTURAS	4209
 KEY INCIDENTS AND CHALLENGES IDENTIFIED	10049
+Kenya Computer Incident Response Team Coordination	17745
 La Centrale des Incidents de Paiement	11944
 Lack of Efficient Help Desk Mechanisms for Incident	14546
 Launch of National Incident Response Center Somalia	5338
@@ -309,7 +310,7 @@ National Incident Response Unit	1777
 National Incident Response Unit Response Unit	1777
 National Incident Response Unit. Strategic Objective	1777
 National Kenya Computer Incident	6946
-National Kenya Computer Incident Response Team	7481,4781
+National Kenya Computer Incident Response Team	7481,4781,5484
 Nature of Incident	17114
 Nature of Incidents Employees	11131
 Nature of Incidents Road Transport Accident Sports	11131

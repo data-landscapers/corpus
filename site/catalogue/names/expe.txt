@@ -16,6 +16,8 @@ AI Expert Factory	16261
 AI Expert Mission and AI National Strategy	12210
 AI Experts	12675
 AI Experts Trained	3254
+AI Power Experience	17784
+AI Power Experience Workshop	17784
 AI Regulatory Sandboxes and Experimental Innovation Zones	14566
 AI and Growing Expertise	10662
 AI. While the High-Level Expert Group	11050
@@ -182,7 +184,7 @@ Comité des Experts	14849
 Comité des Experts Statutaire	15352
 Commercialization Experts	4528,7984
 Commission of Experts	14828
-Committee of Experts	12977,1955
+Committee of Experts	12977,1955,2813
 Common Expenditure	17209
 Common and Specialized Expenses Expenditures	17043
 Communications Expert	15221
@@ -204,6 +206,7 @@ Consumer Access and Experience	5676,2,1
 Consumption Score FES Food Expenditure	17285
 Consumption and Expenditure Survey RISDP Regional Indicative	13359
 Contractor Official Use Only Item Expected	12253
+Convention's Committee of Experts	17745
 Corporate Governance Expert Sandile Mbhamali	10517
 Cost Efficiency Expenditure	11134
 Countries of Work Experience	13037
@@ -626,7 +629,7 @@ Expert E-Gouvernance	14424
 Expert Evidence	17243
 Expert FP	14424
 Expert GovTech	12043
-Expert Group	582,1232,1827,7123,498,162,139,2310,1598
+Expert Group	582,1232,1827,7123,498,162,139,2310,1598,2272
 Expert Group Meeting	10840,4787
 Expert Group Meeting of Registrars General of Civil	17397
 Expert Groups	11424
@@ -687,7 +690,7 @@ Expertise of Courts	12389
 Expertise of Specialized Courts	12389
 Expertises	15429
 Expertos UNCTAD	15478
-Experts	1968,583,41,111,105,59,91,28,77,303,212,54,494,109,293,84,78,24,62,19,37,33,50,35,43,9,114,29,122,49,55,14,126,86,186,17,141,81,8,120,73,93,116,145,74,9,156,111,21,78,8,71,50,24,8,5,122,7,39,548,239,204,144,15,117,84,180,26,245,77,364,1,11,327,53,43,61,13,125,209,92,166,60,48,7,15,295,39,786,83,6,184,285,970,50,472,98,295,12,15,10,14,299,292,81,83,154,172,55,101,163,31,57,76,248,38,75,4,244,162,70,63,94,130,17,91,4,373
+Experts	1968,583,41,111,105,59,91,28,77,303,212,54,494,109,293,84,78,24,62,19,37,33,50,35,43,9,114,29,122,49,55,14,126,86,186,17,141,81,8,120,73,93,116,145,74,9,156,111,21,78,8,71,50,24,8,5,122,7,39,548,239,204,144,15,117,84,180,26,245,77,364,1,11,327,53,43,61,13,125,209,92,166,60,48,7,15,295,39,786,83,6,184,285,970,50,472,98,295,12,15,10,14,299,292,81,83,154,172,55,101,163,31,57,76,248,38,75,4,244,162,70,63,94,130,17,91,4,373,131
 Experts Biometric Update	4865
 Experts Call for Accelerating Digital Transformation	15203
 Experts Call for Responsible AI Integration	10355
@@ -842,7 +845,7 @@ INFRASTRUCTURE EXPENDITURE	11211,51
 IRM’s International Experts Panel	17037
 ISTQB Expert Level	5665
 ITU GCI Expert Group	10764
-ITU’s Expert Group	11563
+ITU’s Expert Group	11563,6180
 Impact for Research and Education Benefits Expected	3840
 Implementation Experience Report RFC	11797
 Implementation Start TBD Expected End Date	17196

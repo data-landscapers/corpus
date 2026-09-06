@@ -176,6 +176,7 @@ Atenu.org Research Desk	12199
 Atlantic Council’s Digital Forensic Research Lab	5252
 Audit Standards GIABA Gross International Reserves	17235
 Auditing Research Vol	9237
+Austrian Institute of Economic Research. Christou	17780
 Author Directorate-General for Research and Innovation	11288
 Authorised Reseller	6394
 Authority NARI National Agricultural Research Institute	17105
@@ -472,7 +473,7 @@ Draft NCA Research	236
 Driver of Conflict and Displacement. Refugee-Led Research	15342
 Dusens Research	16826
 Dutch Organisation for Scientific Research	8436
-Dutch Research Council	4368,1125,463,585,3206
+Dutch Research Council	4368,1125,463,585,3206,8033
 Dynamics of Higher Education and Research	6832
 D’EXPLOITATION DU RESEAU Art	15943
 E-I15-3 Initiate Industry-Funded AI Research Labs	15713
@@ -568,7 +569,7 @@ European Journal of Development Research	7886,5092
 European Journal of Operational Research	9128
 European Journal of Political Research	7886
 European Parliamentary Research	14932
-European Parliamentary Research Service	10088
+European Parliamentary Research Service	10088,7692
 European Research Council	9739,2351
 European Review of Labour and Research	226
 Evaluation Framework The Department of Research	16985
@@ -893,7 +894,7 @@ Jessica Wells Research Scientist	7590
 Johannesburg Business School Research Ethics Committee	2948
 John Mushayavanhu THE Reserve Bank of Zimbabwe	5222
 Joint Research	12675
-Joint Research Centre	1814,9606,2447,2084,193,319
+Joint Research Centre	1814,9606,2447,2084,193,319,1280
 Joint Research Centre News	13867
 Joint Research Initiatives	12356,319
 Joint Research Report	12376
@@ -941,7 +942,7 @@ Kenyatta University Centre for Research Ethics and Safety	12231
 Kenya’s National Intelligence Research University	4258
 Khomo Director Research PhD	11134
 Kicukiro. RESEARCH FINDINGS	12328
-Kigali Collaborative Research Center	12358
+Kigali Collaborative Research Center	12358,5403
 Kigali Collaborative Research Centre	942
 Knowledgeable Research	8022
 Kola Ijasan and Pria Chetty of Research ICT	6052
@@ -1249,7 +1250,7 @@ Open Researcher and Contributor ID	11922
 Oracle's Regional Research and Development Office	6924
 Ordinance. National Research Council	16852
 Organisation NRF National Research Foundation NSI	5246
-Original Research	8130,998,1,108
+Original Research	8130,998,1,108,8515,1
 Original Research Anonymity	9129
 Original Research Ethical	9237
 Original Research Guardians	8022
@@ -1562,7 +1563,7 @@ Research Handbook	2096
 Research Highlights	10763
 Research Hospital	12972
 Research Hubs	7548
-Research ICT Africa	236,350,74,120,1,1,179,24,6,1126,1555,504,268,70,186,83,225,36,197,80,482,19,230,366,18,76,374,62,155,206,645,71,118,303,152,235,3,923,1436,1130,332,1090,67,1118,1254
+Research ICT Africa	236,350,74,120,1,1,179,24,6,1126,1555,504,268,70,186,83,225,36,197,80,482,19,230,366,18,76,374,62,155,206,645,71,118,303,152,235,3,923,1436,1130,332,1090,67,1118,1254,1585
 Research ICT Africa After Access	544
 Research ICT Africa Just AI Framework	7103
 Research ICT Africa Mobile Pricing	15491
@@ -1787,7 +1788,7 @@ Researchand Innovation	14747
 Researched	13094,3782
 Researcher	3162,3645,305,1189,2988,261,4639,274,439,19
 Researcher Dr Nyasha Mlambo	13597
-Researchers	571,328,915,10,268,866,321,85,703,109,256,431,361,78,167,247,782,20,652,851,1,261,68,29,56,241,133,646,513,681,144,175,63,111,122,89,151,153,226,1,10,27,168,69,1,45,5,141,4,14,118,1504,575,181,65,169,1208,674,689,117
+Researchers	571,328,915,10,268,866,321,85,703,109,256,431,361,78,167,247,782,20,652,851,1,261,68,29,56,241,133,646,513,681,144,175,63,111,122,89,151,153,226,1,10,27,168,69,1,45,5,141,4,14,118,1504,575,181,65,169,1208,674,689,117,121,7
 Researchers Academia H H University of Nairobi	12210
 Researchers Thobekile Matimbe	1383
 Researcher’s Own Compilation	14932
@@ -2086,6 +2087,7 @@ Statistics and Research. Details	12151
 Statutory Reserve	12364
 Stochastic Environmental Research and Risk Assessment	17157
 Stonehill Research	7786
+Strategic Bloc Effect and Anticipated Reservations	17745
 Strategic Development Plan RBZ Reserve Bank	13359
 Strategic Grain Reserve	13122,563
 Strategic Grain Reserves	13122,352
@@ -2188,6 +2190,7 @@ UK Research and Innovation	7548
 UNESCO Research Chairs	12926
 UNESWA Centre for Sustainable Energy Research	12361
 UNICEF Office of Research	15658
+UNU World Institute for Development Economics Research	17790
 US Federal Reserve	7579,5383
 USDA Forest Service Research Paper SE-38	17157
 Uganda Report. Research ICT Africa	3672

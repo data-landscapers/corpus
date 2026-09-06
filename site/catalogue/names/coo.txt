@@ -483,7 +483,7 @@ CoopID	9876
 CoopID and CoopCHECK	9876
 CoopID. The Minister	9876
 Coopec	5835
-Cooper	7720,1,10,2987
+Cooper	7720,1,10,2987,7062
 Cooper-Harding DIRECTOR DIRECTOR DIRECTOR DIRECTOR Research	17235
 Cooper-Thomas	9129
 Coopera9ao Avenida	4260
@@ -519,6 +519,7 @@ Cooperation Agency KIEP Kenya Industry and Entrepreneurship	14897
 Cooperation Agreement	1228,9613,447,237,1437
 Cooperation Agreement.170 Oil	3583
 Cooperation And Collaboration	11960
+Cooperation Architecture	17745
 Cooperation Benghazi Chamber of Commerce	4849
 Cooperation Data	13042
 Cooperation Deepening Agency SIM Subscriber Identity	12297
@@ -765,14 +766,14 @@ Coordinador de Formadores	17192
 Coordinadora de Actividades	16920
 Coordinar	1701,15264
 Coordinat- Whereas the Government	14897
-Coordinate	899,41,60,131,2995,402,320,1565,1135,1575,1034,120,865,7,252,453,522,23,1,13,31,68,242,25,183,8,666,351,198,249,240,49,11,300,8,14,74,34,549,3,9,35,200,873,34,5,12,31,56,4,124,58,39,64
+Coordinate	899,41,60,131,2995,402,320,1565,1135,1575,1034,120,865,7,252,453,522,23,1,13,31,68,242,25,183,8,666,351,198,249,240,49,11,300,8,14,74,34,549,3,9,35,200,873,34,5,12,31,56,4,124,58,39,64,488
 Coordinate Border Management	16968
 Coordinate ICT	12384
 Coordinate Kenya	7548
 Coordinate National M&E Reporting	10060
 Coordinate System	12413
 Coordinate the Response	5677
-Coordinated	1000,2840,1201,286,4830,763,213,97,32,158,877,432,241,433,278,993,273,395,1542,87,264,54
+Coordinated	1000,2840,1201,286,4830,763,213,97,32,158,877,432,241,433,278,993,273,395,1542,87,264,54,491
 Coordinated Australian	4776,1512,75
 Coordinated Border Management	12389,662
 Coordinated Border Management Committee	6042
@@ -838,7 +839,7 @@ Coordination	26,1,1,794,118,18,3,9,28,133,30,100,23,395,149,39,12,216,871,23,55,
 Coordination Act	7548
 Coordination Agent for GPE	12175
 Coordination Breakdown	17139
-Coordination Centre	6946,535,4751
+Coordination Centre	6946,535,4751,5514
 Coordination Centre KEMSA Kenya Medical Supplies	6946
 Coordination Centre KEPSA Kenya Private Sector	7548
 Coordination Centre KenInvest Kenya Investment Authority	2775
@@ -1014,6 +1015,7 @@ Country Cooperation Strategy	10776,1953,1129,1867,1149,415
 Country Cooperation Strategy CSO	10776
 Country Cooperation Strategy for WHO and Egypt	15725
 Country Coordinating Mechanism	12729
+Country Mutual Legal Assistance and Enforcement Cooperation	17745
 Country Programme Coordinator	13042
 County Civil Registration Coordinator SCRO	12138
 County Intergovernmental Coordination Committee	14594
@@ -1049,6 +1051,8 @@ D- Strengthening Partnerships and Technical Cooperation	17157
 D. DEVELOPMENT PARTNERS COORDINATION	11863,2075
 D. Development Partners Coordination D.1	11863
 D. G. COORD. HOSP Y ENFERM	4209
+D. Institutional Landscape and Coordination Understanding	17745
+D. International Cooperation	17745
 D.9 Coordinating	15604
 D.G COORD. ADMIN. ASUNT. JUR.- Concepto	4209
 D.G COORDINAC. ADMINISTIVA-Concepto	4209
@@ -1184,6 +1188,7 @@ E-Commerce Cooperation	7407
 E-I16-3 International Cooperation Initiative	15713
 E. Cooperation	12979
 E. Coordinator	16552
+E. International Cooperation Architecture	17745
 E04 Votre Coopérative	13390
 E05 Votre Coopérative	13390
 E06 Votre Coopérative	13390
@@ -1199,6 +1204,7 @@ ELECTRICITY ACCESS CLEAN COOKING ACCESS RENEWABLES	16188
 EMCP ECOWAS Monetary Cooperation Program EMDEs	17235
 ENCARGADO DE LA COORDINACIÓN ADMINISTRATIVA	17022
 ENCOURAGE COOPERATION TO FACILITATE USE	1243
+ENFORCEMENT COOPERATION FRAMEWORK IMPLICATION FOR KENYA	17745
 ENGAGEMENTS INTERNATIONAUX ET COOPERATION INTERNATIONALE	15394
 ENHANCE THE COORDINATION EFFICIENCY IN E-GOVERNMENT	16885
 ENVIRONMENT AND COORDINATION Articulate	16942
@@ -1301,6 +1307,7 @@ Eyanga Obiang Ntongono Coordinadora Distrital de Malabo	16920
 F Programa de Cooperación	4209
 F. Cooperation	12979
 F. Coordination	7977
+F. International Cooperation	17745
 FAGACE African Guarantee and Economic Cooperation Fund	17099
 FAO Project Coordinator	11639
 FATO Coordinates TLOF	16552,454
@@ -1506,7 +1513,7 @@ Indian Technical and Economic Cooperation Indian Ambassador	4849
 Indicative Cooperation Program	7379
 Indicative Cooperation Programme	4502
 Industry and Cooperative Development	7167
-Industry and Cooperatives	10313
+Industry and Cooperatives	10313,7457
 Industry and Cooperatives and Col Edith Nakalema	6576
 Information and Coordination	16833
 Information and Coordination Department	16833
@@ -1557,7 +1564,7 @@ Intergovernmental Coordination Group	14732
 Interim Cooperation Framework	14959,80,76
 Interim Coordinator	14925
 International Cooperating Partners	9761,3181,378
-International Cooperation	961,282,21,513,2110,1360,1783,1162,1108,1548,1611,513,88,33,1839,140,589,53
+International Cooperation	961,282,21,513,2110,1360,1783,1162,1108,1548,1611,513,88,33,1839,140,589,53,2031
 International Cooperation Affairs	13440
 International Cooperation Agency	286
 International Cooperation Ahmed Maghawry	9332
@@ -1637,6 +1644,7 @@ KICTANet County Coordinator	7990
 KOAFEC Korea-Africa Economic Cooperation MFBSB Ministry	13731
 Kay-Lyne Wolfenden SMART Zambia National Coordinator	12474
 Kaylin Fabian and Nada Moudallal. Coordinators	13906
+Kenya Computer Incident Response Team Coordination	17745
 Kenya Cooperative Creameries Limited	12254
 Kenya Deepens EU Digital Cooperation	6725
 Kenya and Lesotho Deepen ICT Regulatory Cooperation	14701
@@ -1777,6 +1785,7 @@ Mid-Term Review of Cooperation	13957
 Mikue Coordinador Distrital de Evinayong Ilmo. Sr	16920
 Mining Cooperation Agreement	13666
 Mining Cooperation Agreement URL	13666
+Minister for Foreign Affairs and East African Cooperation	17809
 Minister for Foreign Affairs and International Cooperation	7030
 Minister of Economic Planning and International Cooperation	16277
 Minister of Finance and Coordinating Minister	9690
@@ -1835,7 +1844,7 @@ National Children’s Coordination Unit	11134
 National Clean Cooking Energy Strategy	10460
 National Clean Cooking Strategy	11936,4033
 National Computer and Cybercrime Coordination Committee	7481,3139
-National Computer and Cybercrimes Coordination Committee	17566,92
+National Computer and Cybercrimes Coordination Committee	17566,92,88
 National Cooperative	14847
 National Cooperative Digital Architecture Platform	9876
 National Cooperative Excellence Awards	14793
@@ -1950,7 +1959,7 @@ Office PSC Provincial Survey Coordinator PPE	11192
 Office of Research Support and Cooperation	13952
 Office of Science and Technology Services Coordination	13952
 Ondó Mikue Coordinador Distrital de Baney Ilmo	16920
-Operations Coordination Department	10764,80,719
+Operations Coordination Department	10764,80,719,6180
 Organisation de Coopération	13290,345,2470
 Organisation for Economic Cooperation and Development	236,1007,5999,3913,78,4,4476
 Organisation for Economic Cooperation and Development. OECD	15604
@@ -2312,7 +2321,7 @@ Singapore Cooperation Enterprise	1701,10121
 Singapore Coopération Enterprise	2342
 Sistema de Coordenadas	11405
 Sistema de Coordenação da Estratégia Multissetorial	15694
-Smart Zambia Institute National Coordinator	9379
+Smart Zambia Institute National Coordinator	9379,8406
 Smart Zambia Institute National Coordinator PERCY	5483
 Smart Zambia Institute National Coordinator Percy	12416,1155
 Smart Zambia National Coordinator	5527,7936

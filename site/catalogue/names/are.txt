@@ -59,7 +59,7 @@ AfCFTA African Continental Free Trade Area	12241,4701
 Africa Continental Free Trade Area	4891,10,1468,454,5792,73,632,602
 Africa Continental Free Trade Area Agreement	4368
 Africa Free Trade Area	961
-African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11,279,43,23,169,115,298,29,219,29,172,234,83,88,123,80,205,49,153,1,50,8,33,43,38,58,9,96,71,129,119,25,1,116,192,514,190,29,284,154,937,82,1,49,186,29,11,13,16,4,34,57
+African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11,279,43,23,169,115,298,29,219,29,172,234,83,88,123,80,205,49,153,1,50,8,33,43,38,58,9,96,71,129,119,25,1,116,192,514,190,29,284,154,937,82,1,49,186,29,11,13,16,4,34,57,28,11,40
 African Continental Free Trade Area ADEEG	11271
 African Continental Free Trade Area AIP	13080
 African Continental Free Trade Area Agreement	5247
@@ -129,12 +129,12 @@ Area Land Committee	1391
 Area Network	718,14020,45,353
 Area Network ECOWAS Economic Community of West	16883,1
 Area Network VM Virtual Machine VMs	13185
-Area Office	10764,80,719
+Area Office	10764,80,719,6180
 Area Office Gedung Sapta Pesona	10764,80
-Area Office International Telecommunication Bureau	11563
-Area Office Telecomunicaciones	11563
+Area Office International Telecommunication Bureau	11563,6180
+Area Office Telecomunicaciones	11563,6180
 Area Office USAF POTRAZ Building	10764,80
-Area Office Union	11563
+Area Office Union	11563,6180
 Area Office United Nations House Marine	10764,80
 Area Office and Innovation Centre C-DOT Campus	10764,80
 Area Operator Urban Rural	6000

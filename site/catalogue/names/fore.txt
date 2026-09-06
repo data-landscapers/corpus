@@ -170,6 +170,7 @@ Congo Basin Forest	16996
 Congo FCDO Foreign	12006
 Conservation of Forest-Carbon Stocks	17140
 Contents Foreword	4528,7686,142,156,1031,1355,25,141
+Contiguous and Foreign Countries	17745
 Contract FUP Forest Use Permit GBL	16843
 Control of Foreign Products	4045
 Convicted Foreign Nationals	2775
@@ -245,8 +246,9 @@ Digital Forensic Lab The Digital	5244
 Digital Forensic Laboratory Slides	10911
 Digital Forensic Research Lab	10088
 Digital Forensic Unit	12437
-Digital Forensics	12926,1755,981
+Digital Forensics	12926,1755,981,2084
 Digital Forensics Laboratories	16243
+Digital Forensics and Cyber Investigations	17746
 Digital Forensics and Information Security Research Cluster	12926
 Digital and Crypto Forensic Expert	3691
 Director Ministry of Foreign Affairs Summons Ambassador	17025
@@ -486,7 +488,7 @@ Forecasts for LTE	236
 Forefront	17106,81,79
 Forefront of Environmental Action Across UNDP Namibia	9873
 Forefront of Transformation Videos Rising Up for SIDS	11332
-Foreign	7,229,159,2002,62,317,50,87,157,417,96,71,391,81,1,455,359,28,13,262,411,209,544,15,246,268,1,12,598,668,85,539,64,32,107,356,171,23,37,22,20,67,284,107,27,178,403,55,6,42,139,151,2,1,2,54,34,74,171,55,26,142,231,32,1,44,6,36,109,24,52,42,1,45,98,7,25,45,6,272,3,33,78,142,29,148,113,32,11,30,74,71,13,323,80,9,28,23,16,108,75,214,315,48,1,8,103,101,61,44,34,43,163,278,592,25,614,1,90,18,12,6,160,11,87,21,164,274
+Foreign	7,229,159,2002,62,317,50,87,157,417,96,71,391,81,1,455,359,28,13,262,411,209,544,15,246,268,1,12,598,668,85,539,64,32,107,356,171,23,37,22,20,67,284,107,27,178,403,55,6,42,139,151,2,1,2,54,34,74,171,55,26,142,231,32,1,44,6,36,109,24,52,42,1,45,98,7,25,45,6,272,3,33,78,142,29,148,113,32,11,30,74,71,13,323,80,9,28,23,16,108,75,214,315,48,1,8,103,101,61,44,34,43,163,278,592,25,614,1,90,18,12,6,160,11,87,21,164,274,78
 Foreign AI	4528,7984
 Foreign Account Tax Compliance Act	6524,1,5160
 Foreign Adversaries Act	11154
@@ -596,6 +598,7 @@ Foreign Investment Policies Towards Foreign Direct	14421
 Foreign Investment Protection Agreement	10120
 Foreign Investor	14024
 Foreign Investors	6408
+Foreign Judgments	17745
 Foreign Launch Providers Africa	8275
 Foreign Loans	13093
 Foreign Loans and Grants	15790
@@ -885,7 +888,7 @@ Forests1	2775
 Foret	643
 Forets	16103,518
 ForewOrd South Africa	396
-Foreword	396,186,358,423,2496,669,320,396,2,840,340,2248,351,1739,80,292,52,9,1,39,13,15,67,231,588,81,1,123,47,10,99,140,107,161,33,52,48,113,189,4,23,3,33,125,138,184,24,99,10,5,521,22,188,11,30,37,7,77,20,6,37,97,8,56,9,115,3,224,1403,12,35,14,6,2,7,42,124,144,29
+Foreword	396,186,358,423,2496,669,320,396,2,840,340,2248,351,1739,80,292,52,9,1,39,13,15,67,231,588,81,1,123,47,10,99,140,107,161,33,52,48,113,189,4,23,3,33,125,138,184,24,99,10,5,521,22,188,11,30,37,7,77,20,6,37,97,8,56,9,115,3,224,1403,12,35,14,6,2,7,42,124,144,29,454
 Foreword As the Joint Government	13977
 Foreword Betty Pamela Wabunohua Resident Representative	17101
 Foreword Botswana	12541
@@ -1126,6 +1129,8 @@ MINISTERS OF FOREIGN AFFAIRS COMMITTEE	14434
 MINISTRY OF FOREIGN AFFAIRS	13126,3828,338
 MINISTRY OF FOREIGN AFFAIRS GOVERNMENT	17025
 MINISTÈRE DES EAUX ET FORETS	16381
+MLA and Foreign Judgments Framework	17745
+MLA and Foreign Judgments Framework F	17745
 MOH Department of Programming and Foresight	10833
 MRA Board Chairperson FOREWORD	13053
 MSc Digital Forensics	14681
@@ -1159,6 +1164,7 @@ Minister and Minister of Foreign Affairs Receives Phone	16114
 Minister for Europe and Foreign Affairs	3036
 Minister for Europe and Foreign Affairs Choose Africa	3036
 Minister for Foreign Affairs	16832,122
+Minister for Foreign Affairs and East African Cooperation	17809
 Minister for Foreign Affairs and International Cooperation	7030
 Minister of Environment and Forestry Thabo Mofosi	8801
 Minister of Foreign Affairs	4345,7,1473,1627,740,1083,1292,1012,759,1224,421,770,21,19,570,129,672,111,2,555,409

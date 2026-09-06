@@ -1111,7 +1111,7 @@ Cloud Service Provide	6432
 Cloud Service Provider	9123,6159,2252
 Cloud Service Provider GoK Government of Kenya	6432
 Cloud Service Provider Requirements	6432
-Cloud Service Providers	6432,5482,81,4929,610
+Cloud Service Providers	6432,5482,81,4929,610,212
 Cloud Service Providers Qualification Requirements	17534
 Cloud Service Providers and Internet Exchange Points	10956
 Cloud Service Provisioning and Procurement Guidelines	11995
@@ -1991,6 +1991,7 @@ Disponibilidade de Serviços	11430
 Dispute Resolution Service	1264,20,583,1022,715,2935,4229,649,488,60,3173,520,1,2,483,778,27
 Distributed Denial of Service	1777,2777,1878,1309,1035
 Distributed Denial of Service API Application Programming	6432
+Distributed Denial of Service Attacks	17746
 Distributed Power and Energy Services Revenue	4896
 Distribution of Types of TV Services	2776
 Diversified Service Delivery Platforms	15977
@@ -2204,7 +2205,7 @@ Electricity Service	3862
 Electricity Service Providers	15025
 Electronic Banking Services	9451,5446
 Electronic Banking Services Company	1851
-Electronic Certification Service Providers	6946,10588
+Electronic Certification Service Providers	6946,10588,212
 Electronic Communications Network Service	5543,3298,2370,51
 Electronic Communications Service	5543,5668,51
 Electronic Communications Service Providers	11277
@@ -2421,7 +2422,7 @@ Ethiopia’s MESOB One Stop Service	7820
 European Blockchain Service Infra	11869
 European Commission’s Science and Knowledge Service	12675
 European External Action Service	4127,2820,4962,1348
-European Parliamentary Research Service	10088
+European Parliamentary Research Service	10088,7692
 European Union External Action Service	11155
 European Union FSRA Financial Services	12395
 European Union's Digital Services Act	5366
@@ -3058,6 +3059,7 @@ Head of Public Service Felix Koskei	14641
 Head of Schools Services	11860
 Head of Service	2616,7447,6461
 Head of Service Lauds NIMC Reforms	7144
+Head of Service of Ondo State	17788
 Head of Service of Rivers State	7659
 Head of Technical Services	16474
 Heads of Service	7659
@@ -3480,8 +3482,8 @@ Internet Service Provider ITU	958
 Internet Service Provider LAN	13956
 Internet Service Provider License	762
 Internet Service Provider5	14858
-Internet Service Providers	718,65,506,562,36,206,257,563,198,392,359,1350,469,112,445,33,268,351,345,166,729,77,502,338,1360,761,91,598,136,247,213,148,108,469,40,95,32,1,358,1019,1,50,19,71,15,227,14,16,80,156,52,56,31,110,523,728,11,6,53,33,124,15,136
-Internet Service Providers Association	12625,721
+Internet Service Providers	718,65,506,562,36,206,257,563,198,392,359,1350,469,112,445,33,268,351,345,166,729,77,502,338,1360,761,91,598,136,247,213,148,108,469,40,95,32,1,358,1019,1,50,19,71,15,227,14,16,80,156,52,56,31,110,523,728,11,6,53,33,124,15,136,495,1,23
+Internet Service Providers Association	12625,721,4428
 Internet Service Providers Association of Zambia ITU	13346
 Internet Service Providers JSI Joint Statement	1243
 Internet Service Providers. Notices	14793
@@ -3645,6 +3647,7 @@ Key Indicators Report Ethiopian Statistical Service	14067
 Key Services Managed	17142
 Key Services and Other Incentives	12406
 Kigali Bus Services	718
+Kinyarwanda-language Unstructured Supplementary Service Data	17761
 Klean and Klear Services Co. Ltd	3583
 Knowledge Products and Services	14511
 Korea Customs Service	13044
@@ -4445,7 +4448,7 @@ National ID and Public Service Integration Working	15223
 National Information Service Centre	13251
 National Information Services	12971
 National Institute of Statistics Internet Service Provider	15480
-National Intelligence Service	5711,1076,820,3857,211,2871,794
+National Intelligence Service	5711,1076,820,3857,211,2871,794,2405
 National Intelligence Service. Shoshana Zuboff	4258
 National Intelligence and Security Service	15342
 National Library Service Authority GRTS Gambia	16852
@@ -4469,7 +4472,7 @@ National National AI and Public Service Treasury	7548
 National Network for PWD Services	16046
 National Parks and Conservation Services	14847
 National Plan for Social Care Services	11855
-National Police Service	2775,1208,2828,55,682,1400,2516,211,635,1954,158,124,118
+National Police Service	2775,1208,2828,55,682,1400,2516,211,635,1954,158,124,118,3081
 National Police Service Commission	14546
 National Police Service Information Management System	3320
 National Police Service Level Four Hospital	12310
@@ -4989,7 +4992,7 @@ Payment Service Provider Licence	6074
 Payment Service Provider Returns	12365
 Payment Service Provider SFSP	14948
 Payment Service Provider and Payment System Operator	4405
-Payment Service Providers	2857,4078,825,972,2399,1155,49,155,621,95,326,482,805,204,577,58,136,1568
+Payment Service Providers	2857,4078,825,972,2399,1155,49,155,621,95,326,482,805,204,577,58,136,1568,384
 Payment Service for Commercial Registration	4542
 Payment Services	10785,2300,1644,2149
 Payment Services Directive	7468,2026
@@ -6167,6 +6170,7 @@ SWIFT SERVICES SECTION	12484
 SWIFT Service	11955
 SWIFT Service Bureau	15215
 SYSTEMS AND SERVICES	13322
+Saban Media Services	17792
 Sabur Printing Services CODIFICATION	13963
 Safaricom Launches Kenya's First Fiber-to-the-Room Service	6081
 Safaricom Money Transfer Services	6971
@@ -8063,7 +8067,7 @@ Universal Service Advisory Council	6946,2390
 Universal Service Advisory Council Licensing	6946
 Universal Service Agency GIFEC	8025
 Universal Service Development Fund	9756,168,2111,4907
-Universal Service Fund	958,265,647,30,688,325,64,433,98,238,782,334,430,111,131,14,683,715,476,126,1216,454,118,736,325,68,63,120,405,177,705,310,54,143,70,145,17,28,2,55,4,219,120,12,36,162,1,1,17,602,54,319,89,206,73,49,174,413,30,140,33,37,3,68,523,645,34,16,103,723
+Universal Service Fund	958,265,647,30,688,325,64,433,98,238,782,334,430,111,131,14,683,715,476,126,1216,454,118,736,325,68,63,120,405,177,705,310,54,143,70,145,17,28,2,55,4,219,120,12,36,162,1,1,17,602,54,319,89,206,73,49,174,413,30,140,33,37,3,68,523,645,34,16,103,723,90
 Universal Service Fund Ad	10856
 Universal Service Fund Agreement	13150
 Universal Service Fund Cell Tower Initiative	1572
@@ -8245,6 +8249,7 @@ Virtual Asset and Initial Token Offering Services	7845,6964,19,3,12,1
 Virtual Asset and Initial Token Offerings Services	14742,102
 Virtual Assets Service Provider	11976
 Virtual Assets Service Providers	14674
+Virtual Assets Service Providers Act	17745
 Virtual Assets Services Coordination Forum	7607
 Virtual Assets and Initial Token Offering Services	14819
 Virtual Assets and Virtual Asset Service Providers	14844
@@ -8298,6 +8303,7 @@ Web Service	12359,3071
 Web Services	34,11337,3354,705,1517
 Web Services BDC Bureau of National Communications	4126
 Web Services for MDAs	13502
+WebTrust for Electronic Certification Service Providers	17746
 Wellbeing and Better Services	14829
 Western Cape Region Current Service Delivery	8999
 White Services	15244

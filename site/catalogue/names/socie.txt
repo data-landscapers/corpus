@@ -171,8 +171,9 @@ Cimeira Mundial da Sociedade da Informação	11396,1
 Civic Society	13295
 Civic Society Guiding	12511
 Civil Societ	899
-Civil Society	789,110,59,12,30,630,1391,1105,2810,516,1970,395,120,882,209,373,135,318,1,85,261,13,142,88,9,59,162,243,5,34,357,32,1064,333,77,60,93,606,1270,5,19,79,148,15,2,23,121
+Civil Society	789,110,59,12,30,630,1391,1105,2810,516,1970,395,120,882,209,373,135,318,1,85,261,13,142,88,9,59,162,243,5,34,357,32,1064,333,77,60,93,606,1270,5,19,79,148,15,2,23,121,485
 Civil Society ARTICLE	14409
+Civil Society Actors	17771
 Civil Society Advocacy Position	15238
 Civil Society Alliances for Digital Empowerment	12442
 Civil Society And Specialist Groups	5677
@@ -202,7 +203,7 @@ Civil Society National Grant Préparation	15500
 Civil Society Organisation	12551
 Civil Society Organisation EIA Environmental Impact	16843
 Civil Society Organisation.5.3. Participants	2626
-Civil Society Organisations	1630,919,2695,2213,2273,1281,849,473,120,300,168,25,18,23,131,202,69,2538,1787
+Civil Society Organisations	1630,919,2695,2213,2273,1281,849,473,120,300,168,25,18,23,131,202,69,2538,1787,72
 Civil Society Organisations Civil Society Organisations	5244
 Civil Society Organization	14742,118
 Civil Society Organization DHIS2	10776
@@ -253,6 +254,7 @@ Coordinating Team CSOs Civil Society Organization	16921
 Copyright Society of Malawi	7726,1232,4095
 Corporate Results Indicator CSO Civil Society	15138
 Credit Society Ltd Data Controller INST-4859217F76E	7167
+Cross Society	17757
 Cuanza- Norte Sociedade Cuanza Norte	10778
 Culture and Society	1200
 Cyber Culture and Society	15480
@@ -286,6 +288,7 @@ DSP Digital Society Project	11887,266,1,9,178
 DSP Digital Society Project V-DEM Varieties	10835,3,130,902,16,466,1,135
 DTSER Sociedade	3899
 DU CONSEIL CONSULTATIF DE LA SOCIETE	15405
+Data Protection Governance Society of Kenya	17745
 Data Protection and Governance Society of Kenya	5363
 Desenvolvimento da Sociedade de Infor	16251
 Desenvolvimento da Sociedade de Informação	1251,88,743,734,1596,11114,725
@@ -303,8 +306,8 @@ Digital Economy and Society. Research ICT	961
 Digital Geography and Society	8185,1047
 Digital Nations and Society Index	14674
 Digital Nations and Society Index. Figure	14674
-Digital Networks and Society	10764,80,719
-Digital Society	395,563,5988,2,1403,3506,503,613,335,36,2335
+Digital Networks and Society	10764,80,719,6180
+Digital Society	395,563,5988,2,1403,3506,503,613,335,36,2335,2101
 Digital Society Digital Economy Digital Governance	15679
 Digital Society FOUNDATIONS OF THE STRATEGY	15679
 Digital Society Industry Growth	958
@@ -413,6 +416,7 @@ Gambia Red Cmss Society	16836
 Gambia Red Cross Society	17065
 Gambian Information and Knowledge Economy and Society	16861
 Gambian Information and Knowledge Economy and Society PART	16861
+General Purpose AI. The Future Society	17780
 Global Information Society Watch	2110,9978
 Government And Civil Society	18
 Government And Civil Society. Flow Type	7589
@@ -455,7 +459,7 @@ IndabaX Hackathon Computer Science Society Staff	12361
 India-based Centre for Internet and Society. The CIS	4176
 Industrial Electronics Society	8606
 Industry and Society. Building Synergies and Partnerships	11221
-Information Society	437,521,3,1612,202,1191,1649,1021,312,49,41,11,86,54,14,15,10,200,448,237,777,55,1826,668,90,344,18,18,56,931,17,301,81,1428,6,13,111,519,218,456,449,377
+Information Society	437,521,3,1612,202,1191,1649,1021,312,49,41,11,86,54,14,15,10,200,448,237,777,55,1826,668,90,344,18,18,56,931,17,301,81,1428,6,13,111,519,218,456,449,377,899
 Information Society Authority	6041
 Information Society Authority RURA Rwanda Utilities	1204
 Information Society Award	1888
@@ -570,7 +574,7 @@ LacInternet Society Khachoum Al-Wadi	2384
 Lack of Civil Society Inclusion and Participation	12556
 Law Society	4753,2525,5122,268,237,92
 Law Society of Eswatini	12473
-Law Society of Kenya	4801,1430,715,2699,398,7616
+Law Society of Kenya	4801,1430,715,2699,398,7616,86
 Law Society of Lesotho	12661
 Law Society of Namibia	12905
 Law Society of Namibia. PIETER KRUGER	12951
@@ -810,7 +814,7 @@ SOCIETE SOGUIMED UBIPHARM GUINEE SOGUIMED	16623
 SOCIETE WEBB FONTAINE GUINEE SA WFGN	16623
 SOCIETES	13293
 SOCIETES ET AUX IMPOTS SUR	16047
-SOCIETY	2096,6772,1,122,2144,3274
+SOCIETY	2096,6772,1,122,2144,3274,3364
 SOCIETY LIMITED Data Controller INST-274553D7C0F EMBU	7167
 SOCIETY LIMITED Data Controller INST-522236DC30F NAIROBI	7167
 SOCIETY LIMITED Data Processor INST-522236DC30F NAIROBI	7167
@@ -923,7 +927,7 @@ Societies	11156,1071,370,1273,3287
 Societies Act	13339
 Societies Registration Act	12533
 Societies and Education	6832
-Society	226,169,285,100,119,878,316,3,422,1264,471,423,548,125,15,1566,956,237,7,330,10,394,55,148,154,143,35,193,228,205,701,93,209,22,85,5,16,698,73,28,143,129,4,145,77,221,303,290,91,327,306,160,313,272,980,101,141,522,195,173,279,532
+Society	226,169,285,100,119,878,316,3,422,1264,471,423,548,125,15,1566,956,237,7,330,10,394,55,148,154,143,35,193,228,205,701,93,209,22,85,5,16,698,73,28,143,129,4,145,77,221,303,290,91,327,306,160,313,272,980,101,141,522,195,173,279,532,98,3,12,8
 Society Authority	15936
 Society COMGOV Government Communication CTI Centre	13312,2
 Society Division and Ms. Souhila Amazouz	1243
@@ -958,6 +962,7 @@ Solutions System Ltd Computer Society Ayuba	11857
 Somali Civil Society	15021
 Somali Civil Society Issued Advocacy Position	15238
 Somali Civil Society Observers Present Duri	15021
+Somali Society	17797
 Sonangol Sociedade Nacional de Combustíveis de Angola	11380
 South African Society	11289
 South African Society of Archivists	8021
@@ -972,7 +977,7 @@ Sudanese Red Crescent Society	15125
 Sudanese Society for Information Technology. D. PROGRESS	14853
 Supreme Council of Digital Society	16212
 Sustainable Cities and Society	8603
-Sustainable Digital Society	6946
+Sustainable Digital Society	6946,10800
 Swaziland Building Society	11130,1,1212
 Swaziland Building Society and E-mali Limited. Participation	2276
 System Program CSO Civil Society Organization	17011

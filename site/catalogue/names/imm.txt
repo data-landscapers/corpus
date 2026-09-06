@@ -257,7 +257,7 @@ Immeuble OKTOPUS	16213
 Immeuble Plan	14527
 Immeuble Postel	7805,1714
 Immeuble Pérignon	15537
-Immeuble Rokhaya	11563
+Immeuble Rokhaya	11563,6180
 Immeuble Royal	15670
 Immeuble SOGEFIHA	15577
 Immeuble Skyview	15670
@@ -529,7 +529,7 @@ R Immigration Guard Unit	15845
 RH and Immunization	15977
 RMNCAH and Immunisation	13163
 Red Crescent Immediate Collaborate	17157
-Regional Office Immeuble CAMPOST	11563
+Regional Office Immeuble CAMPOST	11563,6180
 Regions Annually Ghana Annually Immigration	15845
 Regions Annually Ghana Quarterly Immigration Rate	15845
 Regions Quarterly Ghana Immigration	15845

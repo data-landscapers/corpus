@@ -272,6 +272,7 @@ Advanced Passenger Information System	4102
 Advanced Patient Privacy Consents and Care Services	1009
 Advanced Patient The Advanced Patient Privacy	1009
 Advanced Payments	14819
+Advanced Persistent Threat	17746
 Advanced Python	17173
 Advanced RGB Composites	13062
 Advanced RMA	13185
@@ -305,12 +306,12 @@ Advancement of Public and Private Sector Data Utilization	11529
 Advancement of Women	15480
 Advancements	12090,1778,1064,1951
 Advancements Series	11243
-Advances	2816,2428,105,249,535,813,844,232,108,475,632,94,857,588,489,307,383,1465,241,330,1381,1551,1,311,1,12,4,75,90
+Advances	2816,2428,105,249,535,813,844,232,108,475,632,94,857,588,489,307,383,1465,241,330,1381,1551,1,311,1,12,4,75,90,356
 Advances Total Assets	17235
 Advances and Facilities	17236
 Advances and Overdrafts	17236
 Advances and Overdrafts Million LYD	17236
-Advancing	1580,3860,3688,1636,227,14,129,133,319,334,251,126,102,36,106,22,31,135,313,734,898,116,207,980,996,166,118,24,257,1
+Advancing	1580,3860,3688,1636,227,14,129,133,319,334,251,126,102,36,106,22,31,135,313,734,898,116,207,980,996,166,118,24,257,1,234
 Advancing AI	2525,2209,8823
 Advancing AI for Higher Education and Public Sector	12723
 Advancing Accountability	8202,2954,5817
@@ -418,7 +419,7 @@ Advaxe Ndayisenga	9995
 Adventist	12411
 Adventist Development and Relief Agency AIDS Acquired	12970
 Adventist Regulated Non WDT Sacco Ltd	7167
-Adventist University of Central Africa	9760
+Adventist University of Central Africa	9760,8001
 Adventiste	13300,90
 Adversarial	11156
 Adversarial Attack	7548
@@ -606,7 +607,7 @@ Africa Community Advocacy Workshop	9760
 Africa. Advanced	10841
 Africa. Advances	99,1,1
 African Advanced Level	6946
-African Advanced Level Telecommunications Institute	7167
+African Advanced Level Telecommunications Institute	7167,10579
 African Advanced Level The Authority	6946
 African DPG Advocacy	7921
 African Development Bank AMI Advanced Metering	12717
@@ -803,6 +804,7 @@ Customary Conflict Resolution Advisory Committees	11900
 Cyber Security Advisor	775
 Cyber Security Advisories and Reported Online Crimes	2775
 Cyber Threat Advisories	6671
+Cyber Threat Advisories Issued	17746
 Cybersecurity Advisory Board	1000
 Cybersecurity Advocacy	10721
 D. Policy Advice	1828
@@ -1097,6 +1099,7 @@ Introduction Advanced DFS	11994
 Investment Adviser	14828,3
 Investment Advisor for Phase	5897
 Ivoire Advances Digital Tourism Strategy	5931
+J Adv Nurs	17773
 JAMES ASSOCIATES ADVOCATES LLP Data Processor	7167
 JLA ADVOGADOS Além	2125
 JLA Advogados	2125
@@ -1338,6 +1341,7 @@ President’s Youth Advisory Council	8195
 Prime Minister's Advisory Commission	17620
 Private Analysts and Policy Advocates	17149
 Procedures and Advance Rulings	12389
+Program Advisor	17782
 Program Advisory	11469
 Programmatic Advisory Services	11469
 Project ADVISORY	11469
@@ -1387,6 +1391,7 @@ Renewable Energy Resource Advisory Committee	14422
 Reporting Exchange Control Secretaries Advisor Broker	4896
 Republic of Congo Advances Electricity Market Reform	11936
 Republic of Congo's ARPCE Advances Technical and Regulatory	3696
+Res J Adv Humanit	17773
 Research and Advisor	17735
 Research and Statistics Department Balance of Loans Advenced	17236
 Resident Adviser	16298
@@ -1477,7 +1482,7 @@ South Africa and Past President of IASP Advisory	12786
 South Africa-based Fides Advisory Services	4672
 South African Institute for Advancement	9128
 South Africa’s ADvTECH	9868
-Special Adviser	3101,3386,384,8,972,1122,471,785,1739,2734,2988
+Special Adviser	3101,3386,384,8,972,1122,471,785,1739,2734,2988,102
 Special Advisers	1014
 Special Advisor	6250,9620,294
 Special Advisors and Regional Governors Appointment Act	12905
@@ -1597,7 +1602,7 @@ United States Council of Economic Advisors	15518
 Universal Service Advisory Council	6946,2390
 Universal Service Advisory Council Licensing	6946
 University of Khartoum and Advisor	15203
-University of Lay Adventists of Kigali	718
+University of Lay Adventists of Kigali	718,17043
 Utilities Advertising	16266
 V. Advocate	12333
 VARIANCE-EXPENDITURE ADVERSE-This	9437

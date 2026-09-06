@@ -212,7 +212,7 @@ Bidder. The Proposal Security	15080
 Bidder1	13185
 Bidder22	15080
 BidderBidder	15080
-Bidders	1638,1342,2813,1473,721,179,819,149,513,970,592,31,12,1148,281,19,63,274,148,342,604,632,3,12,149,101,52,74,257,107,1550,112,107,41,6
+Bidders	1638,1342,2813,1473,721,179,819,149,513,970,592,31,12,1148,281,19,63,274,148,342,604,632,3,12,149,101,52,74,257,107,1550,112,107,41,6,453
 Bidders A. GENERAL	14766,314
 Bidders Bid Price	14778
 Bidders Bond Receipt	16843
@@ -272,7 +272,7 @@ Bidding Procedures	13185,342
 Bidding Procedures Part	13527
 Bidding Procedures Section	13185
 Bidding Utility	11231
-Biden	1038,1778,1860,1474,4280,3102
+Biden	1038,1778,1860,1474,4280,3102,4248
 Biden Information Technology Beijing Co Ltd	8285
 Biden-era	11740
 Biden-era Minerals Security Partnership	4447

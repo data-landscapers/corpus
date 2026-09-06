@@ -79,6 +79,7 @@ Africa. In SCHUFA Holding AG	8747
 Africa. Schools	1814
 African Continental Trust Scheme Authority	10819
 African Day of School Feeding	15208,1
+African Scholars	17773
 African School of Economics and Université	7886
 African Trust Scheme Authority. A Trust	10819
 African Women School of AI	9261
@@ -798,7 +799,8 @@ Global Schools Prize RIC	8839
 Global Smart Schools Program	11673
 Goal SM Simulation Model SRGBV School-Related	15604
 Golden Visa Scheme A Golden Visa	14828,3
-Google Scholar	766,5,448,42,835,422,1264,9,648,237,566,107,351,1487,572,31,881,1298,1059,1203,15,9,2411,902
+Google Arts and Culture. Digit Scholarsh Humanit	17773
+Google Scholar	766,5,448,42,835,422,1264,9,648,237,566,107,351,1487,572,31,881,1298,1059,1203,15,9,2411,902,2205
 Google Scholar APC	11028
 Google Scholar Adedeji W	9739
 Google Scholar BSM-Academy	11028
@@ -1653,8 +1655,11 @@ Provide Grants and Scholarships	12675
 Provision of School Grants	14936,1
 Provision of School Materials Free Examination Fees	14835
 Proyecto Educativo CANIGE Multilingual School	4209
+PubMed Google Scholar	17773,7
+PubMed Google Scholar Awakhiwe Thabiso Ncube	17773
 PubMed Google Scholar Contributions	9739
 PubMed Google Scholar Contributions Conceptualization	10784
+PubMed Google Scholar Daniel Mügge Search	17780
 PubMed Google Scholar Daniel Tulomba View	10784
 PubMed Google Scholar Fabio Manenti View	10784
 PubMed Google Scholar Femke de RijkView	9739
@@ -2038,6 +2043,8 @@ Schengen	9895
 Schenker	1243,9890
 Scherezad Joya Monami Latif Task Team	11905,3756
 Scherezad Joya Monami Latif Trina S	16436
+Scheuerman	17773
+Scheuerman MK	17773
 Schief	11140
 Schiefelbein and Wolff	15661
 Schiff	11135
@@ -2046,7 +2053,7 @@ Schildkraut	9969
 Schillinger D	1219
 Schillinger&volume	1219
 Schimmel	8022
-Schimmelfennig	8460
+Schimmelfennig	8460,9320
 Schindler	4676
 Schindler and Tiffin	7545
 Schipper	10964
@@ -2067,9 +2074,9 @@ Schmid	11135
 Schmidbauer	8436
 Schmidt	961
 Schmidt Chintu	8480,602,1470
-Schmitt	5242,5893
+Schmitt	5242,5893,6645
 Schmitt MN	5242
-Schmitz	11156
+Schmitz	11156,6624
 Schneider	2093,855,7913,136,159,5766,74
 Schneider Electric	2157,248,1136,35,50,1307,773,94
 Schneider Electric's Hady Stephan	5800
@@ -2085,10 +2092,10 @@ Scholar	9237
 Scholar Mansell	11028
 ScholarConnect	17173
 Scholarly	766,5,441,7,42,338,225,1958,9,885,570,2776
-Scholars	2096,422,2158,1465,1010,870,415,693
+Scholars	2096,422,2158,1465,1010,870,415,693,8644
 Scholars Journal of Engineering and Technology	7759
 Scholars Nick Couldry and Ulises Mejias	6001
-Scholarship	12962,1960
+Scholarship	12962,1960,2851
 Scholarship Policy Incentives Subsidies Visa Convenience	15713
 Scholarship Programme	7548,6450
 Scholarship Recovery Project	12922
@@ -2377,7 +2384,7 @@ Schreier	11156
 Schrems	8436,337
 Schrems II	11154
 Schreurs B	10780
-Schuett	8283
+Schuett	8283,9497
 Schuit	7759
 Schuknecht	1243
 Schulen	383,1150,687
@@ -2425,6 +2432,7 @@ Schémas Directeurs	15542
 Schémas Thérapeutiques Standardisés TAR	15685
 Schémo	15429
 Schönlein Street Windhoek West WINDHOEK NAMIBIA	12920
+Schütte	17780
 Screen Talent and Global Entertainment Scheme	5533,3717,1986
 Secod Schedule	736
 Second Sch	14720

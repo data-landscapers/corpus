@@ -510,6 +510,7 @@ Collaboratrice	3812,247,2709
 Collaborer	1702,12079,1843,42,360,344
 Collado	10763
 Collapse	1988,14870
+Collapse of Digital and Social Boundaries	17797
 CollapseItems	6997
 Collar	15553
 Collarana	8606
@@ -629,7 +630,7 @@ Collection and Recovery of Tax Division	12629
 Collection and Registration Centre	16888
 Collection and Reporting of VAT Following	14785
 Collection and Transportation	718
-Collection of Administrative	16940
+Collection of Administrative	16940,803
 Collection of Administrative Data	12344,1754,1519,1323
 Collection of Biometric Data	11877
 Collection of DST	14932
@@ -674,7 +675,7 @@ Collective Threshold Below	8283
 Collective X	6832,4114
 Collective X and Harambee	5551
 Collective. At Venture	12339
-Collectively	1154,2316,17,870,75,151,323,66,153,89,30,1,2,197,89,58,202,72,708,220,99,656,338,136,24,163,273,120,264,112,150,1,33,508,299,219,237,339,29,257,84,4,330,518,255,98,253,137,240,84,23,4,15,382,55,117,36,466,415,181,71,167,49,51,516,1372,38,32,95,97,1,131
+Collectively	1154,2316,17,870,75,151,323,66,153,89,30,1,2,197,89,58,202,72,708,220,99,656,338,136,24,163,273,120,264,112,150,1,33,508,299,219,237,339,29,257,84,4,330,518,255,98,253,137,240,84,23,4,15,382,55,117,36,466,415,181,71,167,49,51,516,1372,38,32,95,97,1,131,406
 Collectivites Decentralisees	16611
 Collectivites Locales	16611
 Collectivité	14414,30,1093,166,317,616
@@ -754,8 +755,9 @@ Collines RGPHAE	2624
 Collines. Au Burundi	13300
 Collines. En	13300
 Collines. Odjoutchoni Florent OGA Un	16530
-Collingridge	7451
+Collingridge	7451,10329
 Collingridge-dilemma	7451
+Collingridge-type	17780
 Collins	8301,1438,230,6981
 Collins Avenue	4896
 Collins Injera	899
@@ -763,6 +765,7 @@ Collins Mbulo	13571
 Collins Mumo	9079
 Collins Ochieng Odhiambo	13425
 Collinson	7836
+Collisheen Estate	17800
 Collision	1988
 Collision Detection	3604
 Colloborotion L'OCRC	15429
@@ -832,7 +835,8 @@ Colocação de Sinais	794
 Colocolisotion	15429
 Cologne-based	6879
 Colombe Blanche	1576
-Colombia	226,1017,4106,1614,1058,608,802,401,882,50,21,61,159,128,2,20,201,207,46,285,24,46,246,127,783,541,1336,474,29,1367
+Colombia	226,1017,4106,1614,1058,608,802,401,882,50,21,61,159,128,2,20,201,207,46,285,24,46,246,127,783,541,1336,474,29,1367,876
+Colombia AMS UMI	17743
 Colombia Ambassador	6963
 Colombia Civil Registry Information System	10714
 Colombia Costa Rica Cuba Dominican Rep	10764
@@ -907,7 +911,7 @@ Colonel-major Mamadou Namballa TRAORE. AU TITRE	8237
 Colonel-major Moussa DEME. AU TITRE	8237
 Colonels	15901,199
 Colonia Altos de Miramontes Calle	10764,80
-Colonia Altos de Miramontes Escritório Regional Hastings	11563
+Colonia Altos de Miramontes Escritório Regional Hastings	11563,6180
 Colonial	6808,2931,7658
 Colonial-era	6997
 Colonial-geography	5252
@@ -1318,6 +1322,7 @@ Greater Virunga Transboundary Collaboration	15158
 Group. Collectively	6100
 Guidelines for Data Collection and Analysis Collecting	15120
 Guizhou Tongren Data Vocational College	12864
+H. Enhancing Policy Coherence and Regional Collaboration	17745
 Happy Reading. Collaboration NamRA and NDTC	13108
 Health Data Collaboration Hg Hôpital Général	15711
 Health Data Collaborative	2678
@@ -1458,7 +1463,7 @@ Kenya Utalii College Graduates	2775
 Kenya and Colombia	10591
 Kenyan Wall Street. Collections	7786
 Key Indicators Data Collection Tools Frequency	16975
-Kigali Collaborative Research Center	12358
+Kigali Collaborative Research Center	12358,5403
 Kigali Collaborative Research Centre	942
 Kilo Tonnes KUC Kenya Utalii College	2775
 Kings College	12227
@@ -1624,6 +1629,7 @@ Michèle Colombe	16100
 Mida Collect	7907
 Militaire Colonne	5361
 Military College	11131,3
+Million Song Dataset and GTZAN Genre Collection	17773
 Minimal Data Collection	12281
 Mining Otherland Legend Color REDD	17140
 Minister Jeror Cole Bangalu	17260
@@ -1817,6 +1823,7 @@ Police Inspector General Gregory Coleman	17294
 Police Staff College	13361
 Police Training College	12763
 Police Training College Police Stations	12763
+Policy Colloquium	17792
 Pollution de Collecter	14488,1,1
 Poor Collaboration and Institutional Fragmentation	6936
 Poor Collaboration and Institutional Fragmentation Challenge	6936

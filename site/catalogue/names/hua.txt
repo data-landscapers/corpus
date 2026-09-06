@@ -169,7 +169,7 @@ Huawei Technologies	362,119,1789,2266,762,3261,1656,4561,541
 Huawei Technologies Co	54,1,1,4,46,75,9,3,1,51,2,10,2,44,14,20,2,3,1,15,1,1,1,114,2,2,4,15,55,93,6943
 Huawei Technologies Co. Ltd	8520
 Huawei Technologies Gabon	7399
-Huawei Technologies Kenya	6946
+Huawei Technologies Kenya	6946,10800
 Huawei Technologies Nigeria Limited	8560
 Huawei Technologies Southern Region Vice President	12474
 Huawei Technologies Tanzania Limited	7863
@@ -220,6 +220,7 @@ Huawei's President for North Africa	7398
 Huawei's SD-WAN	8148
 Huawei's SMART Education	3511
 Huawei's Safe City	9399
+Huawei's Training Centre	17746
 Huawei's US	8936
 Huawei's Vice President for North Africa. Talks	4381
 Huawei-built	3185,413,14097

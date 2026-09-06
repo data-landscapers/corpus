@@ -285,7 +285,7 @@ Registration Road Traffic	12151
 Regulatory Fees Our Telecommunications Traffic Monitoring	15120
 Reported Road Traffic Accidents	2775
 Reported Road Traffic Accidents and Persons Killed	2775
-Road Traffic	1988,5857,4306,2116,507,65,6
+Road Traffic	1988,5857,4306,2116,507,65,6,2921
 Road Traffic Accident	12151
 Road Traffic Accidents	12151,802
 Road Traffic Act	7845,320,5238,864,486,75,3
@@ -347,7 +347,8 @@ Telecommunications Traffic Monitoring	15120
 Telecommunications Traffic Monitoring Guideline	15120
 Telecommunications Traffic Monitoring Regulation	15120
 Telephone Call Traffic	2775
-Traffic	26,210,159,197,182,358,856,689,99,1064,22,2138,671,3110,1350,100,19,524,479,124,1026,232,1146,339,252,220,451,796,275
+Traf-	17743
+Traffic	26,210,159,197,182,358,856,689,99,1064,22,2138,671,3110,1350,100,19,524,479,124,1026,232,1146,339,252,220,451,796,275,629
 Traffic Acci-	12151
 Traffic Acci- Kidney	12151
 Traffic Acci-385Heart	12151

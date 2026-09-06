@@ -60,6 +60,7 @@ Abroad Total Kigali City Northern Province	15056
 Abrogation CLEFT- KINDER Décision	998
 Absence Forces Delay In Kidnapping Trial	7312
 Access for RDB KIFC	14997
+Accessibility KICTANet.or.ke	17782
 Accra and Kigali	9593
 Activité Source Kasaï Oriental Mai-Ndombe Kinshasa	15670
 Acute Kidney Injury	16922
@@ -199,6 +200,7 @@ Boyani Dispensary Data Processor INST-14979822BC5 KILIFI	7167
 Brazza and Kinshasa	15372
 Brazzaville and Kinshasa	15372
 Brian King	5822
+Brian Kipkirui	17761
 Bugesera Kirehe Nyanza Nyamasheke Nyamagabe Legend	15056
 Bugesera Ruhango Ngoma Kayonza Rubavu Kicukiro	15056
 Bureau of Statistics ERI Kipevu Oil Storage	12256
@@ -270,6 +272,7 @@ Chief Executive Officer Ato Kinfe Negash	12195
 Child. The Kingdom of Eswatini	12977
 Chris Kiptoo	5537
 Christ KILINGUI	16381
+Christabel Kisang	17781
 Christiane Kirketerp de Viron	8351
 Chul Ju Kim	14932
 Chuo Kikuu	5416,6211
@@ -417,9 +420,10 @@ David Kibira Data Processor INST-429820F224E NAKURU	7167
 David Kipngeno Rono Data Processor INST-82266993A0F	7167
 David Kitenge	12227
 Dedan Kimathi	5343
-Dedan Kimathi University of Technology	4561,10102
+Dedan Kimathi University of Technology	4561,10102,3083
 Deliverance Church Kiserian Data Controller INST-533250540CE	7167
 Dem. Rep. Europe CIS Fiji Kiribati	11563
+Demas Kiprono	17745
 Democratic Republic of Congo The Kingdom	12527
 Denis Kizito	11819
 Denis-Sassou-N'Guesso de Kintélé	2564
@@ -810,6 +814,7 @@ João Kiasekoka	10782
 João Kiasekoka A Constituição da República de Angola	10782
 Judy Kilobi	14641
 Judyth Engels and Kinfemichel Yibkaw Abraha	14017
+Justices Patrick Kiage	17745
 Jérémie KILUBU	14322
 K of KICA	6946
 K. Kimura	1264
@@ -843,11 +848,12 @@ KICD Kenya Institute of Curriculum Development KIXP	7548
 KICD TVETA	7548
 KICD5	899
 KICO Mining	6843
-KICTANet	3162,196,217,683,2447,847,160,278,105,669,318,465,101,90,508,448,324,15,53,116,902,1150,1210,137,331,396
+KICTANet	3162,196,217,683,2447,847,160,278,105,669,318,465,101,90,508,448,324,15,53,116,902,1150,1210,137,331,396,2453,1
 KICTANet Begins Training	11018
 KICTANet Blog	14932
 KICTANet Board	10694
 KICTANet CEO Dr. Grace Githaiga	8095
+KICTANet Communications	17781
 KICTANet County Coordinator	7990
 KICTANet Dear KICTANet Community	10694
 KICTANet Delivered	7552
@@ -874,7 +880,7 @@ KIE NTEM RIABA CIUDAD	4209
 KIE- PROVINCIAL PROVINCIAL TOTAL Y MODERNIZACION	4209
 KIE- PROVINCIAL TOTAL ARTESANÍA REGIONAL DISCAP	4209
 KIEFFER	6613
-KIEMS	3758,5787,1570
+KIEMS	3758,5787,1570,6672
 KIENGU Data Processor INST-40538053BF8 MERU Kenya	7167
 KIESA	11136
 KIFC Annual	14997
@@ -1064,6 +1070,7 @@ Kiazolu	17011
 Kiba Koesse	17323,1
 Kibaale District	7771
 Kibabi	5209
+Kibabii University	17746
 Kibaha	4534
 Kibaha. Officials	10460
 Kibaja	11026
@@ -1209,7 +1216,7 @@ Kigali City Northern Province Southern Province	15056
 Kigali City Rwamagana Rwinkwavu P	12413
 Kigali City and Rubavu	12333
 Kigali City. Includes	1130
-Kigali Collaborative Research Center	12358
+Kigali Collaborative Research Center	12358,5403
 Kigali Collaborative Research Centre	942
 Kigali Communities	10669
 Kigali Convention	14940
@@ -1227,6 +1234,7 @@ Kigali Global Artificial Intelligence Summit	2685
 Kigali Global Summit The Ugandan	2686
 Kigali Health City	4167
 Kigali House	5625
+Kigali Independent University	17761
 Kigali Innovation City	812,2586,5808
 Kigali Innovation City Company	812
 Kigali Institute of Technology	12333
@@ -1291,7 +1299,7 @@ Kigo. Any	14862
 Kigobe	4634,4253
 Kigobe Congress Palace	4643
 Kigobe. Cette	6162
-Kigoma	2868,4895,2246,2349,1075
+Kigoma	2868,4895,2246,2349,1075,4376
 Kigoma Activists	2857,3026,94
 Kigoma China	2857,3026,94
 Kigoma Kilimanjaro Kusini Pemba Kusini Unguja	7763
@@ -1555,13 +1563,14 @@ King's Office	13093
 King-Sackie Atty. Decontee T. King-Sackie	17011
 KingDafie	12478
 KingHost	10558
-Kingdom	25,1546,243,2,69,107,300,5,996,78,30,479,186,47,821,674,166,25,740,74,52,189,599,234,199,344,15,1060,221,20,1218,59,23,18,267,3,500,83,475,86,117,49,36,1,20,151,11,234,25,8,26,15,1,4,23,102,22,30,8,9,1,42,10,3,132,1187,352,136,1547,51,810,17,1,13,141
+Kingdom	25,1546,243,2,69,107,300,5,996,78,30,479,186,47,821,674,166,25,740,74,52,189,599,234,199,344,15,1060,221,20,1218,59,23,18,267,3,500,83,475,86,117,49,36,1,20,151,11,234,25,8,26,15,1,4,23,102,22,30,8,9,1,42,10,3,132,1187,352,136,1547,51,810,17,1,13,141,130
 Kingdom AI Sector Deal Department for Business	11135
 Kingdom Eastern Europe East Asia Moldova	11135
 Kingdom European	17212
 Kingdom For the Republic of Morocco	17438
 Kingdom Moldova NAIS	11135
 Kingdom This Strategy	12444
+Kingdom United	17743
 Kingdom of Automating Data Capture	16631
 Kingdom of Bahrain	8645,5162,1
 Kingdom of Denmark	10088
@@ -1626,6 +1635,7 @@ Kingharman Road	9765
 Kingo Mchombu	12325
 Kingoma	16177
 Kingouari	15379
+Kings	17773
 Kings Bakery	8888
 Kings Birthday	12971
 Kings College	12227
@@ -1648,6 +1658,7 @@ Kingwill	15473
 Kingwill R	15473
 King’Ori	5463
 King’s Conference Center de Bujumbura	13574
+King’s Speech. Financial Times	17780
 Kinihira Rukumberi Zaza Kabagali Gashora Sake	12413
 Kinindo	13360
 Kinisha Evenson WHO'S LOOKING	7628
@@ -1732,11 +1743,12 @@ Kintélé. Un	15493
 Kinuthia Otieno	7942
 Kinyamulenge	1778
 Kinyarwand	15080
-Kinyarwanda	8376,1776,19,992,1170,78,2,2449,57,3,4,130,93,1075,1374
+Kinyarwanda	8376,1776,19,992,1170,78,2,2449,57,3,4,130,93,1075,1374,163
 Kinyarwanda Illustrations of Digital Birth Registration	12328
 Kinyarwanda and Crioulo. Makerere University	9944
 Kinyarwanda and Mathematics. Addressing	14922
 Kinyarwanda-English-French	11497
+Kinyarwanda-language Unstructured Supplementary Service Data	17761
 Kinyarwanda. Article	14861,1
 Kinyarwanda. Ingingo	14862
 Kinyarwanda. Tunga	17598
@@ -1802,7 +1814,8 @@ Kiret	13303
 Kiretse	13300
 Kirghizistan	5361,1252
 Kirguistán SATYBALDIEVA	6613
-Kiribati	10764,21,778,9,37,1433,2429
+Kiribati	10764,21,778,9,37,1433,2429,2272
+Kiribati ASP LMI	17743
 Kiribati National Integrated Identity Management System	10714
 Kiribati TAATOA	6613
 Kiridi	7977
@@ -1836,6 +1849,8 @@ Kirstin Conti	12663
 Kirstin I. Conti	11545
 Kirti Thakur	6048
 Kirti Vardhan Singh	13562
+Kirui AK	17773
+Kirui and Owoaje	17773
 Kirundi	1778,11512,3,21,15,61
 Kirundo	13300,6,18,1,49,16,52,76,139,20
 Kirundo Kirundo Pilier	13433
@@ -1973,6 +1988,7 @@ Kiyimba Joseph	6576
 Kiyombe	15255
 Kiyovu	14950
 Kiyovu-Rue Bigogwe KN	718
+Kizhner	17773
 Kizimkazi Festival	10746
 Kizingitini Orphans	6946
 Kizito Ballans	8369,2
@@ -2148,6 +2164,7 @@ Mme Marthe Augustine Kirimat	16129
 MoE and KICD	899
 Mobile and Self-service Kiosks Develop	12917
 Model Is Working Kigali	9206
+Modernising KICA	17745
 Mohamed Tidjane KINDA	7670
 Molo MP Kuria Kimani	6409
 Mombasa Kisumu Eldoret	6946
@@ -2162,6 +2179,7 @@ Moonshot's Kimi K3	8014,876
 Moonshot’s Kimi K3	8788
 Moses Kipkogei	9645
 Moses Sonia Arias Kirsten Galisson Edición	16864
+Mount Kigali University	17761
 Mount Kilimanjaro	3954
 Mountain Kingdom	7362
 Mouvement Martin Luther King	9898,470,7182
@@ -2237,6 +2255,7 @@ Ngera Nzahaha Kibeho Gisagara District Niboye	12413
 Nidaamka Canshuurta Dakhliga Kirada	9583
 Nominations Warren King	16158
 Norah Kimathi	7435
+Norah Kipruto	17781
 Norah Kipwola	12195
 Nord Kivu	15670
 Nord- Kivu	15670
@@ -2405,6 +2424,7 @@ Republic of Rwanda. Kigali	14861,1,1
 Repubulika Kigali	14861,1,8
 Resident Magistrate Gladys Kiama	7984
 Results Report KP Kimberley Process MMG	2889
+Reuben Kigame	17745
 Rev. Kigali	10764
 Revenue Authority Commissioner General KINGDOM	16631
 Richard Kintu	15833
@@ -2467,7 +2487,9 @@ Sabou Kids Art	16693
 Sacco Data Controller INST-435165E7BB5 KIAMBU Kenya	7167
 Said Eng. Kipkemoi Kibias	14615
 Saint KIZITO. Tableau	13442
+Saint Kitts	17743
 Saint Kitts and Nevis	10764,240,605,3862
+Saint Kitts and Nevis AMS HI	17743
 Saint Kitts and Nevis Saint Lucia Saint	13042
 Saint Kitts and Nevis Yes National ICT	11529
 Salaam. The Jakaya Kikwete Cardiac Institute	7360
@@ -2605,6 +2627,7 @@ Tombouctou Gao Kidal Taoudenni Ménaka	6959
 Traffic Acci- Kidney	12151
 Tribe Vai Kissi Lorma Mano Grebo	16921
 Tridentity Kinshasa. Il	3110
+Triphonia Kilasara	17761
 Tygerberg. Kimberly Hospital	11986
 Türkiye United Kingdom	10764
 UAC-owned Kingsway Rendezvous	4725
@@ -2625,9 +2648,10 @@ Uganda. Edward Kimbugwe	5658
 Ukraine United Arab Emirates United Kingdom	11470,295
 Under the High Patronage of His Majesty King	2577
 Under the Kigali Agreement	15860
-United Kingdom	10,563,216,181,68,205,311,260,735,77,149,149,24,404,161,70,864,525,63,74,93,45,32,23,185,124,5,59,197,136,161,347,274,59,97,51,102,99,253,97,71,197,29,8,412,175,131,218,278,29,25,106,122,9,101,44,142,53,8,126,124,132,67,63,52,317,102,25,4,67,56,5,103,182,3,1,19,15,5,5,13,107,273,37,259,54,18,85,126,57,168,442,104,118,68,14,210,102,146,29,76,62,67,752,107,48,21,8,3,21,5,14,26,26,51,1,100,95,280,99,35,114,385,431,192,148,82,9,7,231,107,23,132
+United Kingdom	10,563,216,181,68,205,311,260,735,77,149,149,24,404,161,70,864,525,63,74,93,45,32,23,185,124,5,59,197,136,161,347,274,59,97,51,102,99,253,97,71,197,29,8,412,175,131,218,278,29,25,106,122,9,101,44,142,53,8,126,124,132,67,63,52,317,102,25,4,67,56,5,103,182,3,1,19,15,5,5,13,107,273,37,259,54,18,85,126,57,168,442,104,118,68,14,210,102,146,29,76,62,67,752,107,48,21,8,3,21,5,14,26,26,51,1,100,95,280,99,35,114,385,431,192,148,82,9,7,231,107,23,132,378,35,28
 United Kingdom Centers for Disease Control and Prevention	16860
 United Kingdom Corresponding Author	12025
+United Kingdom EUR HI	17743
 United Kingdom Foreign	10768,3299,75
 United Kingdom Global Cybersecurity Index	10764
 United Kingdom Government	2664,919,6470,3148
@@ -2640,7 +2664,7 @@ United Kingdom UN United Nations UNCTAD	1243
 United Kingdom United Arab	12151
 United Kingdom Yes Connectivity	11529
 United Kingdom Yes the UAE Pass	10714
-United Kingdom and Australia	7256
+United Kingdom and Australia	7256,10528
 United Kingdom and France	10701
 United Kingdom and Italy	9815
 United Kingdom and Oman	16234
@@ -2678,9 +2702,10 @@ United Kingdom’s Office for AI. Ghana	4126
 United Kingdom’s Strategic Partnership for Egypt Inclusive	15977
 United States South Africa United Kingdom	4972
 Universidade Kimpa Vita	6585,4844
+University of Kigali	17761
 University of Kigali’s Musanze	8038
 University of Kinshasa	10469,4197
-University of Lay Adventists of Kigali	718
+University of Lay Adventists of Kigali	718,17043
 University of Nairobi. Dr. Kiptoo	6946
 University of Pretoria. Kihara	4432
 Université Denis-Sassou-N’Guesso de Kintelé. Deux	1299

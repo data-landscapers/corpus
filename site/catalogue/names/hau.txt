@@ -82,6 +82,7 @@ Haulage	11129
 Hauling	16843
 Hausa	3582,40,1116,119,32,681,28,634,55,123,1035,476,283,2,346,128,302,168,111,478,140,65,1219,334,455,2754
 Hausa and Swahili	9007
+Hausa-Fulani	17773
 Hausa.ArewaAgenda.com	4738
 HausaNLP	9944
 HausaNLP's DialectBridge	9929
@@ -138,7 +139,7 @@ Haut-Katanga. Répondant	16420
 Haut-Lomami	8834,4585,2251
 Haut-Mbomou	15620,38,180
 Haut-Nyong	8737
-Haut-Ogooué	6818,4262,4848
+Haut-Ogooué	6818,4262,4848,1867
 Haut-Ogooué. Dans	11322
 Haut-Oubangui	15658
 Haut-Sassandra	15711,1
@@ -153,7 +154,7 @@ Haut-parieur	13524
 Haut-parleur	13524
 HautOubangui Region	15658
 HautSassandra	15712
-Haute	1682,705,4856,1400,290,1456,2876,2161,67,49,128,3,49,214,29,82,124,151,114,185,13,113,709
+Haute	1682,705,4856,1400,290,1456,2876,2161,67,49,128,3,49,214,29,82,124,151,114,185,13,113,709,339
 Haute Autorite	4237
 Haute Autorité	3348,3230,545,332,464,417,555,1935,754,2130,28,1865,109,224,239,98,100,243,25,45,799,7
 Haute Autorité de Communication	15968

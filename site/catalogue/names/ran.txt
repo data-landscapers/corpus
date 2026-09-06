@@ -105,7 +105,7 @@ GP Johannesburg MM Far East Rand	11986
 GP West Rand DM Dr Yusuf	11986
 GP West Rand DM Leratong Hospital	11986
 Gambia Ranks Third	14212
-Garry Fabrice Ranaivoson	17600,64
+Garry Fabrice Ranaivoson	17600,64,142
 Ghana Randomized Air Pollution and Health Study	16996
 Global AI Research Ranking	4528,7984
 Global Competitiveness Rank WEF	11379
@@ -331,7 +331,7 @@ Range Nulls	3861
 Range Weather Forecasts Reanalysis	16135
 Range of FinTech Products	12444
 Range of Skin Disease and Diagnostic Rate Study	16329
-Rangel	6060,5329,57
+Rangel	6060,5329,57,6327
 Rangeland	12229
 Rangeland Drought	17157
 Rangeland and Designate	17157
@@ -406,7 +406,7 @@ Ranqueamento	11569
 Ransford A. Acheampong	9232
 RansomHub	6426
 Ransomlook	4924
-Ransomware	1686,544,3447,749,340,2367,93,125,327
+Ransomware	1686,544,3447,749,340,2367,93,125,327,8068
 Ransomware Attack	5597
 Ransomware Attacks Double	10672
 Ransomware Attacks Double Year	9830
@@ -468,6 +468,7 @@ Short Range Radars	12949
 Short Range Radio Devices	14883
 Short Range and Utrawide Band Devices	736
 Sierra Leone’s Sixth Parliament Leone Ranks	5390,965,827
+Siteny Randrialasoloniaiko	17806
 Sno. Name Rank Responsibilities	14760
 Software Class Score Range Alternative Classification	5665
 South Africa Rank Firm Intensity	11885

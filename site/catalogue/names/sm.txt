@@ -158,7 +158,7 @@ Business Enterprises Formal Informal Micro1-3 Small4-30	12445
 Business Enterprises Small	12445
 Business Registries KAUTRA Introduces Smarter Onboard	3907
 C- Sibling C- Smartphone D	582
-C-DOT Campus Smart Village	11563
+C-DOT Campus Smart Village	11563,6180
 CAC and SMEDAN	10274
 CCTV Smart Camera Surveillance System	259
 CEMAC. SMAC	15474
@@ -662,6 +662,7 @@ Ministry of Small and Medium Enterprise	12376
 Ministry of Small and Medium Enterprises	1867,9096,1,4589,795
 Ministry of Small and Medium Enterprises and Cooperatives	13479
 Ministry of Small and Medium-sized Enterprises	10985
+Mkhombo SM	17773
 MoF Ministry of Finance MSME Micro Small	16942
 MoHP’s SMCs	15663
 MoHP’s SMCs and PHFs	15663
@@ -1786,6 +1787,9 @@ Smart National Transport Databank	10603
 Smart News Liberia	17037
 Smart News Liberia Monrovia	14354
 Smart Nkunganire	5267,12331
+Smart Office	17785
+Smart Office Management System	17785
+Smart Office Platform	17785
 Smart One Stop Border Post	12742
 Smart PLS	4432
 Smart Paper Technology	4338
@@ -1796,7 +1800,7 @@ Smart Police Station	5481
 Smart Police Station Ethiopia	5481
 Smart Police Station System	11607
 Smart Policing Programme	9394
-Smart Port	5291
+Smart Port	5291,12472
 Smart Process Framework	14750
 Smart Procurement	16212
 Smart Production	11469
@@ -1858,11 +1862,11 @@ Smart Workplace Functionalities Enhanced E Governance	15716
 Smart Zambia	3662,1078,782,1701,3329,1783,21,10,942,24,3,124,4,49
 Smart Zambia Brings Starlink Internet	3662
 Smart Zambia Chief Government Technical	5527
-Smart Zambia Institute	194,1771,289,1308,100,1585,253,1,1882,51,605,1564,1,189,2563,10,136,833,52,63,13,2,8,16,32,6,84,53,6,36
+Smart Zambia Institute	194,1771,289,1308,100,1585,253,1,1882,51,605,1564,1,189,2563,10,136,833,52,63,13,2,8,16,32,6,84,53,6,36,4079
 Smart Zambia Institute Director of Infrastructure	13571
 Smart Zambia Institute MPA FINANCING DETAILS	3562
 Smart Zambia Institute National Co-ordinator Percy	5501
-Smart Zambia Institute National Coordinator	9379
+Smart Zambia Institute National Coordinator	9379,8406
 Smart Zambia Institute National Coordinator PERCY	5483
 Smart Zambia Institute National Coordinator Percy	12416,1155
 Smart Zambia Institute Proposed Development Objective	2291
@@ -1901,6 +1905,7 @@ Smart-phone	14037
 Smart.VIEWER	7729
 Smart4U’ Bundle Integrated Electronic Case Management	2987,16,13,949,1438,159,1347
 SmartAfrica	7860
+SmartApps AI	17788
 SmartBots	2731,1455,8358,10,33,7,14
 SmartBots Lab	12587,7,14
 SmartBots Strategy	2576

@@ -126,7 +126,7 @@ Culturally Grounded Misogyny Detection Framework	7790
 Cutoff Age Determination	10714
 Cyber Security Threat Detection and Analytics	12359
 Cyber Threat and Harmful Content Detection	14752
-Cyber Threats Detected	6671
+Cyber Threats Detected	6671,11075
 D. BANKING DETAILS Name of Bank	4896
 D.G. DE PERSONAL Y DETALL.- Concepto	4209
 D.G. DETALL REG	4209
@@ -241,9 +241,11 @@ DetailFreeIncluded	10848
 DetailFreeIncludedOrderOfMagnitude	10848
 DetailFreeSubscriberCount	10848
 DetailOrderOfMagnitude	10848
-Detailed	236,500,476,45,7,20,540,43,121,721,969,220,74,242,87,48,17,310,437,552,470,697,242,464,763,596,226,75,990,59,467,7,130,5,74,87,113,94,125,50,2,171,291,61,28,43,293,40,9,19,2,16,15,11,13,32,55,44,30,457,154,146,14,2,45,3,84,459,7,511,109,347,46,39,59,24,10,39,1,242,39,62,38,111,39,52,256,390,241,243,5,5,97,61,8,95,2,24,9,111,245
+Detailed	236,500,476,45,7,20,540,43,121,721,969,220,74,242,87,48,17,310,437,552,470,697,242,464,763,596,226,75,990,59,467,7,130,5,74,87,113,94,125,50,2,171,291,61,28,43,293,40,9,19,2,16,15,11,13,32,55,44,30,457,154,146,14,2,45,3,84,459,7,511,109,347,46,39,59,24,10,39,1,242,39,62,38,111,39,52,256,390,241,243,5,5,97,61,8,95,2,24,9,111,245,238
 Detailed Action Table	17116
 Detailed Analysis	236
+Detailed Analysis Article	17745
+Detailed Analysis V. COMPARATIVE ANALYSIS	17745
 Detailed Assessments	14777
 Detailed Assessments Using the Data Quality Assessment	14777
 Detailed Audit Trails	5665
@@ -259,7 +261,7 @@ Detailed Evaluation of Technical Part	15080
 Detailed Findings	7869,7701
 Detailed Gescmotice	3972
 Detailed Guidelines	16212
-Detailed ICT	15471
+Detailed ICT	15471,2272
 Detailed Implementation Plan	4349
 Detailed Implementation Roadmap	14964
 Detailed Manifestation	15960
@@ -860,6 +862,7 @@ Warning Signs Bouncing Back Slowing Deterioration	10759
 Warning Signs Increasing Deterioration	10835,3,130,902,16,466,1,135
 Water Leakage Detection	593
 Watt NDC Nationally Determined Contribution NES	15515
+Webinar Details	17782
 Weitere Details	9062
 WhatsApp. Determination	5113
 Willing CERTIFICATION DEPARTMENT Determines	10819

@@ -198,7 +198,7 @@ Adrar Centre	16085
 Adult Centres	2775
 Adult Education Centres	2775
 Advancing National AI Strategy and Data Centre	14198
-Adventist University of Central Africa	9760
+Adventist University of Central Africa	9760,8001
 Advisory Centre MMM Memorandum of Understanding GWEA	11986
 AfCFTA. African Central Banks	982
 AfCFTA. The African Trade Policy Centre	10819
@@ -555,6 +555,7 @@ Bank of Eswatini Nedbank Eswatini Bank Central	11131
 Bank of Uganda. The Central Bank	3238
 Bank of Zambia BoZ The Central Bank	12364
 Banking Commission for Central Africa	15447,33
+Banking Sector Security Operations Centre	17746
 Banking Supervision Application Central Bank of Lesotho	12701
 Banquc Centrale	15443
 Banque Africaine de Développement BCEAO Banque Centrale	10876
@@ -1180,7 +1181,7 @@ CentrafriqueDigitale	14168
 Centrais	15,11355,199,1205,2622,623
 Centrais de Depósito de Títulos	11370
 Centrais de Mediação de Serviço de Táxi	16022
-Central	10,24,202,6,495,424,58,45,437,647,213,107,34,74,69,157,236,85,270,384,176,56,371,92,2,49,15,299,23,46,131,7,3,81,15,4,97,159,217,44,49,1,113,399,246,118,144,3,284,57,89,181,147,60,210,1,17,39,73,52,223,140,44,51,66,394,54,2,390,198,107,201,58,89,96,295,169,28,11,2,2,12,4,29,29,136,18,49,89,3,42,66,48,18,51,10,30,16,32,120,70,112,106,133,16,158,18,31,1,36,6,22,65,13,3,50,22,13,174,152,26,66,55,39,14,5,7,23,17,31,69,198,16,31,25,33,30,11,18,20,97,84,183,110,104,222,75,187,100,8,70,3,26,4,4,99,17,58,30,12,45,87,213,81,103,2,25,46,86,75,5,33,35,5,221,85,93,84,9,181,13,72,18,70,187,4,2,17,4,18,6,3,17,24,19,102,12,6,23,11,36,34,19,7,1,21,32,18,82,16,20,1,15,62,33,3,118
+Central	10,24,202,6,495,424,58,45,437,647,213,107,34,74,69,157,236,85,270,384,176,56,371,92,2,49,15,299,23,46,131,7,3,81,15,4,97,159,217,44,49,1,113,399,246,118,144,3,284,57,89,181,147,60,210,1,17,39,73,52,223,140,44,51,66,394,54,2,390,198,107,201,58,89,96,295,169,28,11,2,2,12,4,29,29,136,18,49,89,3,42,66,48,18,51,10,30,16,32,120,70,112,106,133,16,158,18,31,1,36,6,22,65,13,3,50,22,13,174,152,26,66,55,39,14,5,7,23,17,31,69,198,16,31,25,33,30,11,18,20,97,84,183,110,104,222,75,187,100,8,70,3,26,4,4,99,17,58,30,12,45,87,213,81,103,2,25,46,86,75,5,33,35,5,221,85,93,84,9,181,13,72,18,70,187,4,2,17,4,18,6,3,17,24,19,102,12,6,23,11,36,34,19,7,1,21,32,18,82,16,20,1,15,62,33,3,118,123
 Central AEC Auxiliares de Enfermería Comunitaria ASECNA	16969
 Central AI Risk Function and AI Security	11135
 Central Adjudication	11986
@@ -1440,9 +1441,10 @@ Central Asia	8449,2528,27,151,155,592,62,1078,1579,1094,1095,425
 Central Asia CenEturraol	11964
 Central Asia Proportion	11964
 Central Asia Sub-Saharan Eastern Asia Western	11572
+Central Asia and Canada	17797
 Central Asia and South America	16576
 Central Asia and Southern Asia	11572
-Central Asian	10068
+Central Asian	10068,7705
 Central Assessment Unit	10550
 Central Authentication Server Common ICT Processes	9123
 Central Authority	783,8405
@@ -1451,7 +1453,7 @@ Central Automated Switch	14731
 Central BEP Barriles Equivalentes de Petróleo CGA	16969
 Central BM Banco Mundial BVMAC Bolsa	16898
 Central Backup Service	14846
-Central Bank	940,42,38,264,601,138,989,168,312,112,11,64,216,6,76,353,71,124,86,69,70,98,186,90,1,26,1,254,69,212,13,87,1047,104,128,90,379,1,12,69,89,117,107,4,90,58,87,471,60,787,155,112,21,232,15,402,268,161,8,40,105,99,25,1,3,335,241,151,39,5,50,5,15,19,6,231,55,90,14,94,44,9,116,128,136,5,16,18,6,92,69,189,2,43,31,144,153,56,37,160,280,11,45,65,6,129,127,46,101,132,39,46,4,28,7,19,34,45,28,17,1,6,72,11,17,226,12,166,1079,105,2,34,29,16,3,1,15,30,143,4,69,5,6,36,1,24,25,29,2,1,50,11,43,115,32
+Central Bank	940,42,38,264,601,138,989,168,312,112,11,64,216,6,76,353,71,124,86,69,70,98,186,90,1,26,1,254,69,212,13,87,1047,104,128,90,379,1,12,69,89,117,107,4,90,58,87,471,60,787,155,112,21,232,15,402,268,161,8,40,105,99,25,1,3,335,241,151,39,5,50,5,15,19,6,231,55,90,14,94,44,9,116,128,136,5,16,18,6,92,69,189,2,43,31,144,153,56,37,160,280,11,45,65,6,129,127,46,101,132,39,46,4,28,7,19,34,45,28,17,1,6,72,11,17,226,12,166,1079,105,2,34,29,16,3,1,15,30,143,4,69,5,6,36,1,24,25,29,2,1,50,11,43,115,32,176
 Central Bank Act	12653,4189
 Central Bank Affirms Mobile Money	3308
 Central Bank Bill	11131,3
@@ -1546,7 +1548,7 @@ Central Bank of Full	12000
 Central Bank of Georgia	9709
 Central Bank of India	13561
 Central Bank of Iran	10793
-Central Bank of Kenya	1349,131,503,792,463,865,502,767,318,16,525,556,184,577,59,191,36,108,42,231,46,442,11,597,1002,151,274,84,967,159,46,156,77,4,25,30,11,25,2127,97,451,2238
+Central Bank of Kenya	1349,131,503,792,463,865,502,767,318,16,525,556,184,577,59,191,36,108,42,231,46,442,11,597,1002,151,274,84,967,159,46,156,77,4,25,30,11,25,2127,97,451,2238,510,1,12
 Central Bank of Kenya Act	12286
 Central Bank of Kenya Agency Agreement	14546
 Central Bank of Kenya Annual Report	1349
@@ -1589,7 +1591,7 @@ Central Bank of Liberia Table	17235
 Central Bank of Liberia The Liberian	17235
 Central Bank of Liberia and NIR	3438
 Central Bank of Liberia-supported	8101
-Central Bank of Libya	3023,1607,50,463,174,545,835,462,1619,28,138,108,161,813,6837,44,292,12,6,19,29,33,4,76
+Central Bank of Libya	3023,1607,50,463,174,545,835,462,1619,28,138,108,161,813,6837,44,292,12,6,19,29,33,4,76,366
 Central Bank of Libya Announces Adoption	17265
 Central Bank of Libya Governor Naji Issa	10026
 Central Bank of Libya and Ministry of Planning	17135
@@ -1597,7 +1599,7 @@ Central Bank of Mauritania	5796,1332
 Central Bank of Morocco	4920
 Central Bank of Mozambique	12161
 Central Bank of Nige-	4848
-Central Bank of Nigeria	10,989,111,1066,111,31,79,365,64,15,171,479,241,138,61,11,648,181,77,8,35,10,10,17,272,67,102,541,131,375,133,95,35,10,10,1,35,79,121,238,6,230,7,32,12,8,26,413,21,32,127,20,50,29,106,388,37,269,244,16,39,74,211,8,16,96,60,2,2,121,80,97,23,80,2,4,109,40,114,81,148,28,21,2,15,79,63,241,27,9,468,158,87,9,1,5,110,17,7,38,12,182,1957,264,21,223,2620
+Central Bank of Nigeria	10,989,111,1066,111,31,79,365,64,15,171,479,241,138,61,11,648,181,77,8,35,10,10,17,272,67,102,541,131,375,133,95,35,10,10,1,35,79,121,238,6,230,7,32,12,8,26,413,21,32,127,20,50,29,106,388,37,269,244,16,39,74,211,8,16,96,60,2,2,121,80,97,23,80,2,4,109,40,114,81,148,28,21,2,15,79,63,241,27,9,468,158,87,9,1,5,110,17,7,38,12,182,1957,264,21,223,2620,472
 Central Bank of Nigeria Act	11993
 Central Bank of Nigeria Banking Sector Reform	10
 Central Bank of Nigeria CBN Fintech Report	4848
@@ -2086,7 +2088,7 @@ Centrally	1009
 Centrally Managed Initiatives of Government	14830
 Centrarse	1701
 Centraux	11944
-Centre	235,330,123,49,11,250,2,5,126,58,15,41,16,418,135,63,281,51,60,31,7,70,16,316,18,5,122,57,22,58,53,39,23,10,75,5,106,60,19,105,158,16,54,143,9,66,105,55,34,154,47,75,83,43,79,122,161,65,41,25,42,40,104,84,79,375,137,45,43,267,140,102,104,32,12,165,16,19,5,21,93,78,7,21,322,128,139,29,5,93,55,42,56,16,159,98,127,15,65,114,118,4,19,38,26,35,199,95,31,6,31,15,35,5,96,1,1,44,42,48,93,77,187,161,71,170,106,18,145,41,102,10,26,35,79,92,2,2,6,20,14,3,11,1,15,16,12,25,18,3,10,5,5,39,56,51,10,27,63,23,25,8,374,196,7,4,109,9,38,12,76,102,13,14,12,142,64,53,94,343,13,13,4,3,4,54,2,35,108,91,14,5,5,1,5,71,65,117,71,170,44,16,40,8,139,314,40,22,85,47,20,6,41,52,64,4,6,81,51,85,184,208,9,5,5,18,20,12,13,7,28,1,5,13,1,6,12,6,24,13,2,17,6,15,4,40,13,18,3,3,6,3,5,22,3,5,4,3,16,31,12,15,47,29,59,2,4,11,21,1,37,35,19,19,2,4,8,4,14,7,5,1,23,8,13,21,19,36,24,7,6,2,2,4,40,38,28,10,6,4,8,2,10,13,2,5,23,1,13,1,13,33,7,65,10,6,3,42,3,33,36,30,107,40,31,48,82,36,117,36,46,1,55,69,37,7,18,12,43,117,15
+Centre	235,330,123,49,11,250,2,5,126,58,15,41,16,418,135,63,281,51,60,31,7,70,16,316,18,5,122,57,22,58,53,39,23,10,75,5,106,60,19,105,158,16,54,143,9,66,105,55,34,154,47,75,83,43,79,122,161,65,41,25,42,40,104,84,79,375,137,45,43,267,140,102,104,32,12,165,16,19,5,21,93,78,7,21,322,128,139,29,5,93,55,42,56,16,159,98,127,15,65,114,118,4,19,38,26,35,199,95,31,6,31,15,35,5,96,1,1,44,42,48,93,77,187,161,71,170,106,18,145,41,102,10,26,35,79,92,2,2,6,20,14,3,11,1,15,16,12,25,18,3,10,5,5,39,56,51,10,27,63,23,25,8,374,196,7,4,109,9,38,12,76,102,13,14,12,142,64,53,94,343,13,13,4,3,4,54,2,35,108,91,14,5,5,1,5,71,65,117,71,170,44,16,40,8,139,314,40,22,85,47,20,6,41,52,64,4,6,81,51,85,184,208,9,5,5,18,20,12,13,7,28,1,5,13,1,6,12,6,24,13,2,17,6,15,4,40,13,18,3,3,6,3,5,22,3,5,4,3,16,31,12,15,47,29,59,2,4,11,21,1,37,35,19,19,2,4,8,4,14,7,5,1,23,8,13,21,19,36,24,7,6,2,2,4,40,38,28,10,6,4,8,2,10,13,2,5,23,1,13,1,13,33,7,65,10,6,3,42,3,33,36,30,107,40,31,48,82,36,117,36,46,1,55,69,37,7,18,12,43,117,15,48,4
 Centre AKAMURI de Bujumbura	13442
 Centre Administrator	11336
 Centre Africain	15618,1003
@@ -2345,6 +2347,7 @@ Centre for Cartography and Remote Sensing	10219
 Centre for Central Banking and Finance Pillar	11131,3
 Centre for Child Law	11977
 Centre for Civil and Human Rights	11868
+Centre for Communications Governance NLU Delhi	17771
 Centre for Cyber Security	14441
 Centre for Cybersecurity	1000
 Centre for Data and Digital Communications	15318
@@ -2373,6 +2376,8 @@ Centre for Enhancement of Quality Education Sector Plan	15604
 Centre for Environment and Development	10960
 Centre for Environmental Rights	11228
 Centre for European Policy Analysis	10201
+Centre for European Reform	17780
+Centre for European Reform and Chatham	17780
 Centre for Experiential Learning and Innovation	6211
 Centre for Financial Inclusion	418,10716,1227,83,577
 Centre for Financial Policy-advocacy	12444
@@ -2979,7 +2984,7 @@ Convergence Partners. Rack Centre	447
 Coordenação Central	10754,4683
 Coordenação Central Forte	11461
 Coordenação Escolar Comunal Centro de Formação Local	10766
-Coordination Centre	6946,535,4751
+Coordination Centre	6946,535,4751,5514
 Coordination Centre KEMSA Kenya Medical Supplies	6946
 Coordination Centre KEPSA Kenya Private Sector	7548
 Coordination Centre KenInvest Kenya Investment Authority	2775
@@ -3022,7 +3027,7 @@ Cyber Coordination Centre	5841
 Cyber Security Authority and Financial Intelligence Centre	11699
 Cyber Security Centre	958,14,12347
 Cyber Security Centre of Excellence	6803
-Cyber Security Operations Centre	11131
+Cyber Security Operations Centre	11131,6615
 Cyber Security Operations Centre Deposit Protection	11131
 Cyber Security and Monitoring Centre	972
 Cyber Threat Centre	14729
@@ -3843,6 +3848,7 @@ Household Centred Market Publicly	13532
 Hr Centre Hospitalier	15711
 Hu Centre Hospitalier Universitaire	15711
 Huawei's Headquarters Exhibition Centre	13210
+Huawei's Training Centre	17746
 Huduma Centre	9435,1215,1559,18
 Huduma Centre Go	12209
 Huduma Centres	9334,101,211,2492
@@ -3897,7 +3903,7 @@ IRC. Central Bank of Kenya Guidance Note	12297
 ISAC Information Sharing and Analysis Centre BoG	6936
 ISoorts Centre Table	11180
 ITC International Trade Centre M&E Monitoring	12962
-ITU Innovation Centre	10764,80,719
+ITU Innovation Centre	10764,80,719,6180
 IX. CONCLUSION L’aménagement du CENTRE DE PERSONALISATION	14490
 IXAfrica Data Centre	887
 IXAfrica Data Centre Limited	887
@@ -3945,7 +3951,7 @@ Information and Returns Centre	16585
 Information du Centre de Santé SIH Système	13306
 Infrastructure Development The Central Bank of Eswatini	11134
 Inkosi Albert Luthuli International Convention Centre	9959,1316
-Innovation Centre	10764,29,51,719,1354,160
+Innovation Centre	10764,29,51,719,1354,160,4666
 Innovation and Entrepreneurship Centre	6946
 Insight Centre	12720
 Inspecteur Central	15415
@@ -4040,7 +4046,7 @@ Jobs Western And Central Africa	11924,4108
 Jobs Western And Central Africa Public	15731
 Johannes Ramokhoase Pretoria Central	11218
 John L. Thornton China Centre	10444
-Joint Research Centre	1814,9606,2447,2084,193,319
+Joint Research Centre	1814,9606,2447,2084,193,319,1280
 Joint Research Centre News	13867
 Julius Maada Bio International Conference Centre	14226
 Julius Maada Bio Paediatric Centre of Excellence	7964
@@ -4086,7 +4092,8 @@ Kenya Copyright Board Central Bank of Kenya	12210
 Kenya Data Centre Market Size Opportunities	7548
 Kenya International Conference Centre	10662
 Kenya International Convention Centre	14525
-Kenya Network Information Centre	6946
+Kenya Network Information Centre	6946,10800
+Kenya's Central Authority	17745
 Kenya's Huduma Centres	12227
 Kenyatta International Convention Centre	5084,5245,2,3109,957,3310
 Kenyatta University Centre for Research Ethics and Safety	12231
@@ -4175,6 +4182,7 @@ Lagos Central Bank of Nigeria	6698
 Lake Basin Mall Eagle Africa Centre	12256
 Lalgaye Koulpélogo Centre-Est	15715
 Landinfo Country of Origin Information Centre Fredrik	14905
+Landmark Centre	17756
 Launch Centre of Excellence	14723
 Launch of National Mini Data Centres	4728
 Launch of Siphofaneni Service Centre	12970
@@ -4193,6 +4201,7 @@ Le Centre de Données Intégré National	13341
 Le Centre de Formation	11599,2293
 Le Centre de Formation des Handicapés Moteurs	10826
 Le Centre de Promotion	16627
+Le Centre de Recherche	17749
 Le Centre du Système Intégré	16633
 Le Commandant Central des Unités Territoriale	15918
 Le Directeur Général du Centre	15366
@@ -5568,7 +5577,7 @@ TelOne's Omni Centre	9397
 Tele Centres	12917
 Tele-Medical Centre	15447
 Telecel Centrafrique	4346,528,1311,3094,6195
-Telecommunication Gedung Sapta Pesona Centre Union	11563
+Telecommunication Gedung Sapta Pesona Centre Union	11563,6180
 Telecommunication Regulators’ Association of Central Africa	26,1,1
 Telecommunications Operations Centre	14674
 Temporary Learning Centres	16580

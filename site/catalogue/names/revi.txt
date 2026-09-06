@@ -72,6 +72,7 @@ Annual Review Meeting	14033
 Annual Review of DHIS2	16922
 Annual Review of Economics	10964
 Annual Review of Environment and Resources	11006
+Annual Review of Law and Social Science	17780
 Annual Review of Organizational Psy-	8603
 Annual Review of Political Science	7886
 Annual Strategic Review Summit	4528,7984
@@ -188,6 +189,7 @@ Complaint Review Board CRC Constitutional Review	17105
 Component Review	14546
 Comprehensive Review	11140,2278,3681
 Comprehensive Review. Open Journal of Social	13418
+Computer Law Review International	17780
 Computer Science Review	8603,2
 Concept Environment and Social Review Summary	1988
 Concept Review	12980,3634
@@ -353,6 +355,7 @@ Eswatini Health and Human Research Review Board	12976
 Ethical Committee Review	771
 Ethiopian Business Review	12200
 Ethiopian Business Review URL	12200
+Europe. European Review	17780
 European Review of Labour and Research	226
 European Union’s Revised Payment Services	4848
 Evaluation and Review	10157,2441
@@ -517,6 +520,8 @@ Institutional Coordination and Mandate Review Fragmented	14818
 Institutional Review	12896
 Institutional Review Board	1219,1490,9537,133,921
 Institutional Review Boards	1212
+Integrative Literature Review	17773
+Integrative Literature Reviews	17773
 Intercomparisons. Reviews of Geophysics	16135
 Internal Review	3861,12979
 International Fleet Review	11579
@@ -526,7 +531,7 @@ International Review of Administrative Sciences	2093,3256
 International Review of Law	9616
 International Review of Sociology	8460
 International Statistical Review	8604,2552
-Internet Policy Review	6029,4999,22,3882
+Internet Policy Review	6029,4999,22,3882,2848
 Investment Policy Reviews	16972
 Investment Policy Reviews The Equatorial	16972
 Investment Policy Reviews The Eritrean	14008
@@ -766,6 +771,7 @@ Ninth and Tenth Reviews	17209
 Ninth and Tenth Reviews Under the Extended Credit	17209
 No. Contract Estimated Procurement Review Market	17180
 None Revising the Approval Under	14997
+Northwestern University Law Review	17780
 Nov-2023 Mid-Term Review No	10870
 Nov-2024 Mid-Term Review No	17079
 November. World Politics Review	15342
@@ -923,7 +929,7 @@ Public Expenditures Review	10963,1
 Public Finance Review	6539,4930
 Public Finance Review Meeting	2392
 Public Management Review	2096,3253
-Public Procurement Administrative Review Board	2512,9601
+Public Procurement Administrative Review Board	2512,9601,5674
 Public Relations Review	2096
 Public Review Component	17157
 Public Service Salary Review	13123
@@ -1032,7 +1038,7 @@ Return Tax Assessment Audit and Review Tax	15175
 Revi Sterling	5822
 Revibe	4972
 Revidirano	10780
-Review	226,170,31,158,2,179,174,1,17,4,38,131,130,264,105,147,37,174,108,572,41,280,594,21,110,147,26,239,306,96,444,160,217,184,132,11,146,368,242,400,104,10,5,9,37,281,173,97,147,95,96,102,313,135,110,320,125,8,150,601,189,218,190,421,7,4,33,17,41,90,25,146,46,4,7,45,3,12,277,60,8,3,201,58,2,16,32,1,10,40,28,2,22,115,72,6,9,21,22,55,14,34,3,5,25,10,54,49,10,18,5,6,3,14,4,36,76,1,31,23,152,26,10,9,13,30,2,1,5,28,26,9,31,5,41,40,138,15,4,6,8,4,1,85,2,204,226,8,10,112,27,3,14,49,112,308,53,55,21,37,11,4,62,9,3,2,1,3,23,41,1,54,6,10,33,13,12,50,26,11,56,36,118,167,69,31,7,35,3,48,54,1,2,2,50,1,131,82,50,55,47,432,321,1,6,4,5,5,8,2,4,5,4,8,1,7,30,4,1,16,1,3,4,9,11,7,33,7,19,31,31,5,10,2,41,39,13,26,8,7,7,32,7,21,9,38,3,74,93
+Review	226,170,31,158,2,179,174,1,17,4,38,131,130,264,105,147,37,174,108,572,41,280,594,21,110,147,26,239,306,96,444,160,217,184,132,11,146,368,242,400,104,10,5,9,37,281,173,97,147,95,96,102,313,135,110,320,125,8,150,601,189,218,190,421,7,4,33,17,41,90,25,146,46,4,7,45,3,12,277,60,8,3,201,58,2,16,32,1,10,40,28,2,22,115,72,6,9,21,22,55,14,34,3,5,25,10,54,49,10,18,5,6,3,14,4,36,76,1,31,23,152,26,10,9,13,30,2,1,5,28,26,9,31,5,41,40,138,15,4,6,8,4,1,85,2,204,226,8,10,112,27,3,14,49,112,308,53,55,21,37,11,4,62,9,3,2,1,3,23,41,1,54,6,10,33,13,12,50,26,11,56,36,118,167,69,31,7,35,3,48,54,1,2,2,50,1,131,82,50,55,47,432,321,1,6,4,5,5,8,2,4,5,4,8,1,7,30,4,1,16,1,3,4,9,11,7,33,7,19,31,31,5,10,2,41,39,13,26,8,7,7,32,7,21,9,38,3,74,93,239
 Review AI	14565
 Review Action Plans	940
 Review Activity	16863
@@ -1292,7 +1298,7 @@ ReviseCSOs	15138
 ReviseDistrict	15138
 ReviseNumber	15138
 ReviseProject	15138
-Revised	1433,1276,66,114,74,2,204,1,1,1725,262,1788,1430,823,1569,8,4,374,221,516,33,227,24,3,42,41,406,378,13,410,274,88,20,560,25,231,94,72,4,52,8,39,12,9,15,48,104,15,21,265,47,7,3,30,7,83,60,2,41,27,6,295,47,357,178,234,5,7,1,23,1,11,26,38,3,116,156,15,67,11
+Revised	1433,1276,66,114,74,2,204,1,1,1725,262,1788,1430,823,1569,8,4,374,221,516,33,227,24,3,42,41,406,378,13,410,274,88,20,560,25,231,94,72,4,52,8,39,12,9,15,48,104,15,21,265,47,7,3,30,7,83,60,2,41,27,6,295,47,357,178,234,5,7,1,23,1,11,26,38,3,116,156,15,67,11,415
 Revised AF End Target	15511
 Revised Actual Achieved	15663
 Revised Agreement	1284
@@ -1523,7 +1529,7 @@ Sector Performance Review	15796
 Sector Review	13349,1648
 Sector Review. NISR	14935
 Sectoral Review	13349
-Security Review	1243,6779,754,461
+Security Review	1243,6779,754,461,8543
 Selection Pre Domestic Review	15372
 Selection Review	15372
 Selon le World Population Review	4325

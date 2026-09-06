@@ -441,9 +441,9 @@ Certain Effects	7198
 Certain Financial Forecasts	7198
 Certain Residents of Namibia	12984
 Certain Responsible Parties	11255
-Certaines	748,439,635,162,85,331,2913,60,864,722,396,48,310,117,268,257,286,250,389,444,542,21,102,90,232,110,5,49,100,770,1545,10,60,4,26,43,113,988,15,49,84,14,680,14,44,44,1,14,7,42,6,104,21,38,4,133,25,63,25,4,61,11,291,31,62,398,182,447,37,157
+Certaines	748,439,635,162,85,331,2913,60,864,722,396,48,310,117,268,257,286,250,389,444,542,21,102,90,232,110,5,49,100,770,1545,10,60,4,26,43,113,988,15,49,84,14,680,14,44,44,1,14,7,42,6,104,21,38,4,133,25,63,25,4,61,11,291,31,62,398,182,447,37,157,164
 Certainly	11665,1796,16,818,2862
-Certains	643,104,1,483,753,277,152,352,700,343,430,918,743,616,100,344,138,558,58,989,35,79,75,627,480,241,48,102,126,196,110,5,49,90,49,485,246,199,168,1178,10,29,31,15,15,52,71,33,27,309,657,302,451,3,66,29,33,51,19,49,7,77,45,44,9,22,409,55,17,318,81,15,893,16
+Certains	643,104,1,483,753,277,152,352,700,343,430,918,743,616,100,344,138,558,58,989,35,79,75,627,480,241,48,102,126,196,110,5,49,90,49,485,246,199,168,1178,10,29,31,15,15,52,71,33,27,309,657,302,451,3,66,29,33,51,19,49,7,77,45,44,9,22,409,55,17,318,81,15,893,16,213,41
 Certains Camerounais	3808
 Certains EMF	11944
 Certains SF	14598
@@ -897,6 +897,7 @@ Digital Government CERT	12917
 Digital Identity AUTHORISATION REGULATED Brith Certificate	10819
 Digitalizing Birth Certificates	10989
 Diploma and Certificate	14775
+Dipo Ceremony	17773
 Director Cereals and Other Produce Regulatory Authority	5883
 Director of CERT-MU	783
 Director of Ceremonies	13118
@@ -939,7 +940,7 @@ Electronic Certificate of Origin	13440,123
 Electronic Certification	15261,49
 Electronic Certification Administration	6946,8315
 Electronic Certification Authority	11906
-Electronic Certification Service Providers	6946,10588
+Electronic Certification Service Providers	6946,10588,212
 Electronic Certification System	11965
 Electronic Certification and Domain Name Administration	14435,826
 Electronic Certification and Renewal Process	12389
@@ -1305,7 +1306,7 @@ Online Certificate Status Protocol	14439
 Online Certificate Status Protocol SI	14438
 Online Certificates Made	11939
 Online IT Certification System	5466
-Opening Ceremony	15748
+Opening Ceremony	15748,2045
 Operational Acceptance Certificate	13054
 Optimizing Land Parcel Certification Costs	13998
 Opération Certificat	10876
@@ -1614,6 +1615,7 @@ Treasury Cashier Office. Birth Certificates	12216
 Trust Certification	10819
 Trust Framework Provision of Trust Certificate Trust	10819
 Trust Service Provider CERTIFICATION DEPARTMENT Request	10819
+Tsimbazaza. Certains	17807
 Twenty Certificates of Registrations	14736
 Two-week Certified RBM	17407
 Type Approval Certificate	14883
@@ -1647,6 +1649,8 @@ Valid Trading License Certified	12693
 Verification and Certification of Imported ICT Systems	6936
 Veterinary Health Certificate	15478
 Vint Cerf	7010
+WebTrust for Certification Authorities	17746
+WebTrust for Electronic Certification Service Providers	17746
 Webmaster du CERAP	15273
 West African Senior School Certificate Examination	7171,9705,87
 West African Senior Secondary Certificate Examinations	16852

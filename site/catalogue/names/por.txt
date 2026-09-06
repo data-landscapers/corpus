@@ -307,7 +307,7 @@ District Council of Grand Port IOWAVE Tsunami	14738
 District Magistrate Port Louis	14727
 Djibouti Port Community Systems	1288,4705
 Djibouti Port Container Traffic	13868
-Djibouti Ports Community System	9821,1912,2963,3042
+Djibouti Ports Community System	9821,1912,2963,3042,25
 Doing Business Portal	6593
 Domaine des PORTS	15542
 Domestic and Foreign Portfolio Investment	6408
@@ -1453,7 +1453,7 @@ Portland	1036,5885,335,518,5611,3515
 Portland Cement	13122
 Portland Cement Company	6946
 Portnet	168
-Porto	7199,36,3207,109,224,5,6367
+Porto	7199,36,3207,109,224,5,6367,626
 Porto Alegre	4711
 Porto Amboim	8729
 Porto Grande	16193
@@ -1511,6 +1511,7 @@ Portugal	627,133,94,2,357,52,325,358,148,505,17,59,11,128,31,105,52,71,117,165,4
 Portugal BARBAS	6613
 Portugal Cambodia	16973
 Portugal Civil ID System	10714
+Portugal EUR HI	17743
 Portugal Infelizmente	15476
 Portugal Portugal	11461
 Portugal Qatar Republic of Korea Republic of Moldova	11765
@@ -1572,7 +1573,7 @@ Portuárias. ARTIGO	11514
 Portuário	8729,2798,4666
 Portuários	17147
 Porté	2851,2085,576,722,1592,699,15,1281,430,3572,71,655,780,374,723,1055
-Portée	1187,1763,829,641,1153,576,1384,122,485,189,196,111,255,353,376,246,339,327,44,135,379,2200,914,325,5,945,104,267,207,174,175,325
+Portée	1187,1763,829,641,1153,576,1384,122,485,189,196,111,255,353,376,246,339,327,44,135,379,2200,914,325,5,945,104,267,207,174,175,325,1052
 Portée LOC	16552
 Portée du CID	13841
 Portées	15783,459
@@ -1713,7 +1714,7 @@ Single Transaction Portal	14985
 Situation At the Port of Conakry	16631
 Small Business Portfolio Digital Transformation Strategy	8458
 Smart Invoice Smart Invoice Portal FAQs	12454
-Smart Port	5291
+Smart Port	5291,12472
 Snapshot Operations Portfolio	11469
 Social Security Portability Bill	14997
 Société PORTNET SA	17448

@@ -231,7 +231,7 @@ Kangro	2096
 Kangro and Lepik	2096
 Kangudie DM	14666
 Kangundo	10464
-Kangwa	13642,21
+Kangwa	13642,21,4122
 Kangwa SECRETARY TO THE CABINET	13345
 Kangwa SECRETARY TO THE CABINET ACKNOWLEDGEMENT	12453
 Kangwana	4734
@@ -239,7 +239,7 @@ Kang’ombe	13387
 Kanhalelor	12478
 Kaniama Kasese	8834
 Kaniasso	2342
-Kanifing	3066,6250,2400,369,2175,2636,26,310,53,94
+Kanifing	3066,6250,2400,369,2175,2636,26,310,53,94,378
 Kanifing General Hospital	16922,306
 Kanifing Hospital	10062,6860
 Kanifing ID Card Centre	12085
@@ -271,7 +271,7 @@ Kano State Polytechnic. Pledge	13261
 Kano and Kaduna	1681,9061
 Kano and Lagos	11954
 Kanombe	718
-Kanono Ramashamole	5523,218,6967,12
+Kanono Ramashamole	5523,218,6967,12,5064
 Kanono Ramashande	4636
 Kansanshi	1988
 Kansanshi’s Copper Output Hits Record High	6011,985
@@ -395,6 +395,7 @@ P Gahara Musaza Kagano Kanjongo Nyamasheke	12413
 PS Raymond Omollo and IG Douglas Kanja	12313
 Paix Immeuble Kante	16413
 Passalé Kanabé Marcelin	4568
+Patrick Kangwa	17785
 Paul Kanthambi	1632,4400,7133
 Paul Kanu	5939
 Pemphero Kanyenda	13112

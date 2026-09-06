@@ -1,5 +1,6 @@
 ABNT Chicago Harvard IEEE MLA Turabian	12467,19
 ADI6 ADI9 IEI4 TEC1 TEC2 TEC4	15532
+AI IEEE	17773
 AIDS IEC	15206
 AL DAS ELEtçÕeS IeeSLAnVAS	11544
 ARPCE IEC	16103
@@ -155,6 +156,7 @@ IEC's Voter Participation Survey	10453
 IEC. En	16267
 IEC. Firstly	11949
 IEC. Members	16951
+IEC. Since the AIA	17780
 IEC.pdf	5641
 IEC17025	15669
 IEC20000	1000
@@ -194,7 +196,7 @@ IEEE Tongsuksai	9129
 IEEE Transactions	2093,6511,4322,2733
 IEEE Visualization and Visual Analytics	8022
 IEEE Wireless Communications	8130
-IEEE Xplore	7759,31
+IEEE Xplore	7759,31,9983
 IEEE. Son	15670
 IEEE. Sotomane	2816
 IEEE.pdf Roldán	8604
@@ -262,7 +264,7 @@ Iedécretn	15489
 Ieee.ors	1009
 Ielles	15397
 Iemps	15429
-Ienca	11135,21
+Ienca	11135,21,6624
 Iendont	15429
 Ienitoire	15429
 Ienlveectstricmiteyntarcceeqsusire	11572

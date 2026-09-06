@@ -159,6 +159,7 @@ Bamboo Securities LLC Data Controller INST-770198D6179	7167
 Bank Supervision and Information Security	11131
 Bank of Ghana’s Cyber and Information Security Directive	6940
 Bank of Mauritius Securities	14728,2
+Banking Sector Security Operations Centre	17746
 Banking Services Labour Relations Secure Employment	10759,78,1315,188
 Baseband Security	10721
 Benefits of Data Security and Privacy Standards	12360
@@ -307,7 +308,7 @@ Chief Information Officer CSIRTs Computer Security	15164
 Chief Information Officer and Chief Information Security	6936
 Chief Information Security Officer	4755,3808,137,654,1367,1551,1330
 Chief Information Security Officer MoE Ministry	6936
-Chief Information Security Officers	3214,6149,1326
+Chief Information Security Officers	3214,6149,1326,7057
 Chief Security Evangelist	9830
 Chief Security Officer	9948
 Chief Security and Risk Officer	4528,7984
@@ -474,7 +475,7 @@ Cyber Security Law	5841
 Cyber Security Legal Framework Blockchain Talent	14729
 Cyber Security Management	6946
 Cyber Security Monitoring and Management	6946
-Cyber Security Operations Centre	11131
+Cyber Security Operations Centre	11131,6615
 Cyber Security Operations Centre Deposit Protection	11131
 Cyber Security P13	5646
 Cyber Security Policy	4126,8293,645,282
@@ -514,7 +515,7 @@ Cyber Security and Metallurgy	15315
 Cyber Security and Monitoring Centre	972
 Cyber Security and Other ICT Legislative Initiatives	13295
 Cyber Security and Personal	9399
-Cyber Security and Personal Data Protection	958,3,1,238,43,21,123,148,242,772,1312,563,383,277,29,131,163,33,47,1449,61,681,514,1207,386,935,44,1,10,44,843,499,140,612,5,41,253,134,111,388,35,554,1,493,309,1,1676,22,81
+Cyber Security and Personal Data Protection	958,3,1,238,43,21,123,148,242,772,1312,563,383,277,29,131,163,33,47,1449,61,681,514,1207,386,935,44,1,10,44,843,499,140,612,5,41,253,134,111,388,35,554,1,493,309,1,1676,22,81,728
 Cyber Security and Personal Data Protection AfCFTA	12055,1402
 Cyber Security and Personal Data Protection. Aligning	5244
 Cyber Security and Personal Data Protection. Document	5244
@@ -889,6 +890,7 @@ Germany Consortium Veridos. Uganda Security Printing	1282
 Ghana Cyber Security Authority Launches	14698
 Ghana Link's Information Security Management System	16170
 Ghana Takes Major Step Towards Secure	3384
+Ghana's Cyber Security Authority	17745
 Ghana. Securing	9007
 Ghana’s Cyber Security Authority	8947,892,429
 Ghana’s Ministry of National Security	358
@@ -1119,7 +1121,7 @@ International Organisation of Securities Commissions	10570
 International Organization of Securities Commission	14844
 International Organization of Securities Commissions	4103,7162,2203,1376
 International Organization of Securities Commissions FMI	17032
-International Security	4676
+International Security	4676,13104
 International Ship and Port Facility Security	17260
 International Social Security Association	11156,4821
 Internet Security Operations	16872
@@ -1317,6 +1319,7 @@ Mobile Security Object	1379
 Modern Agro-Industry for Better Food Security	14748
 Modern Security and Food Inspection	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
 Monetisation and Security	7315
+Monitoring and Security of Goods	17759
 Mortgage Backed Securities	10
 Mortgage Secured Credit Credit Facility Unsecured	11198
 Mortgages and Security Interests	14647
@@ -1667,6 +1670,7 @@ Practices for Issuers of Securities	7204
 Presidential Security	9399
 Prevention of Illegal Eviction PSIRA Private Security	11188
 Previous Previous Addressing Food Security	12366
+Principal Secretaries for Internal Security	17745
 Principal Secretary Ministry of Homeland and Security	13214
 Printing Works MIOS Minimum Information Security	11986
 Prior Security Check	12185
@@ -1936,7 +1940,7 @@ Sector Security	14997
 Sector-Specific Security Requirements	5665
 Secur	5242,3881
 Secur1it1y.8anSdeAccucrietyssanCdoAnctrcoel	10157
-Secure	21,13,361,504,110,152,43,39,282,415,48,620,69,706,743,94,308,180,99,726,58,86,113,280,85,115,162,172,603,71,35,1,234,48,495,514,530,311,1205,56,14,171,64,174,5,14,87,686,18,12,34,1,223,1,42,103,3,25,35,25,9,5,54,20,142,43,9,43,236,9,23,106,26,16,129,31,36,121,30,171,375,22,282,52,7,125,28,80,103,41,1,2,58,71,47,37,127,60,60,61,131,45,72,14,109,264,654,241,12,40,15,79,81,17,11,15,246,307
+Secure	21,13,361,504,110,152,43,39,282,415,48,620,69,706,743,94,308,180,99,726,58,86,113,280,85,115,162,172,603,71,35,1,234,48,495,514,530,311,1205,56,14,171,64,174,5,14,87,686,18,12,34,1,223,1,42,103,3,25,35,25,9,5,54,20,142,43,9,43,236,9,23,106,26,16,129,31,36,121,30,171,375,22,282,52,7,125,28,80,103,41,1,2,58,71,47,37,127,60,60,61,131,45,72,14,109,264,654,241,12,40,15,79,81,17,11,15,246,307,85,10
 Secure APIs	14997
 Secure Access	15061
 Secure Affordable and Universal Access	16872
@@ -1963,6 +1967,7 @@ Secure Data. Usage Gap	14674
 Secure Decentralized Algerian E-Voting	2722
 Secure Deletion	11952
 Secure Digital Future	2459
+Secure Digital Future Endnotes	17745
 Secure Digital Infrastructure	6653
 Secure Digital Infrastructure and Services	11230
 Secure Digital Infrastructure and Services The Department	11230
@@ -2091,6 +2096,7 @@ Securing the Future	6310
 Securing the Future Through Digital Trust	10416
 Securing the Nation Against Advanced Cryptographic Attacks	17736
 Securing the Procedure for Issuing the ACD	10930
+Securing the Sovereign Frontier	17792
 Securite	15584
 Securite Sécurité	4960
 Securite des Systemes	6969
@@ -2318,7 +2324,7 @@ Security RISA RISA RISA Operation	12359
 Security Ratings	17156
 Security Req-1	13037
 Security Requirements	6432
-Security Review	1243,6779,754,461
+Security Review	1243,6779,754,461,8543
 Security Risk Assessment	783,10046,6285
 Security Risk Assessment Management Framework	14912
 Security Risk Assessment Regularly	12359
@@ -2535,6 +2541,7 @@ South African Social Security Agency	2307,307,138,191,535,124,1065,193,172,1800,
 South African Social Security Agency Act	2307
 South African Social Security Agency and South	10394
 Southern African Journal of Security	8022
+Sovereignty and National Security Concerns	17745
 Special Interest Group for Cyber Security	8563
 Special Security Corps for Strategic SME	9399
 Specific Security Controls	6432

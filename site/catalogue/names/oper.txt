@@ -149,6 +149,7 @@ Bank of Ghana. Operating	6940
 Bank of Namibia's Currency and Banking Operations Department	5254
 Bank of Namibia’s Currency Management and Banking Operations	8252
 Banking Operations	17235
+Banking Sector Security Operations Centre	17746
 Banking Supervision MNO Mobile Network Operator	12444
 Banks and Mobile Money Operators	4901
 Banks and Mobile Network Operators	13332
@@ -334,7 +335,7 @@ Current Operations and Practice	15473
 Currently Relevant Legal Operational Policies	13523
 Customs Operations Manager Ms. Lorina Seady	13042
 Cybastion's Chief Operating Officer	3608
-Cyber Security Operations Centre	11131
+Cyber Security Operations Centre	11131,6615
 Cyber Security Operations Centre Deposit Protection	11131
 Cyber Special Operations Unit	1000
 Cybersecurity Operations Services	9963,213
@@ -982,7 +983,7 @@ Mobile Network Operator NCR	14948
 Mobile Network Operator SSA	1551
 Mobile Network Operator and Market Share	2776
 Mobile Network Operator and Market Share Mobile	2776
-Mobile Network Operators	479,103,136,240,852,528,438,236,850,1520,57,242,319,238,652,56,455,532,1177,136,1031,130,813,39,598,478,60,164,419,366,188,37,38,583,590,42,3,54,18,223,16,1736,17,79,7,8,122,145,455
+Mobile Network Operators	479,103,136,240,852,528,438,236,850,1520,57,242,319,238,652,56,455,532,1177,136,1031,130,813,39,598,478,60,164,419,366,188,37,38,583,590,42,3,54,18,223,16,1736,17,79,7,8,122,145,455,41
 Mobile Network Operators Fintech Companies Pension	12701
 Mobile Network Operators Fixed Network Operators	12395
 Mobile Network Operators Malawi National Social	10763
@@ -1765,7 +1766,7 @@ Operations Centres	2709
 Operations Committee	13053
 Operations Commons	10
 Operations Consultant	10763
-Operations Coordination Department	10764,80,719
+Operations Coordination Department	10764,80,719,6180
 Operations Dashboard	5848
 Operations Environmental and Social Review Committee	3604
 Operations Executive Director- Regulation Director- National	6938
@@ -1872,7 +1873,7 @@ Operator-Operator Complaints	15670
 Operator-facing	11801
 Operator-level	14297
 Operator. Hence	3862
-Operators	718,18,1565,153,257,65,695,44,33,93,160,61,42,519,136,49,29,438,41,84,44,261,23,257,15,11,97,92,266,73,220,34,78,37,40,142,56,120,221,115,146,361,218,80,59,132,270,160,282,2,9,2,385,15,120,93,23,91,5,1,299,382,51,268,102,536,56,13,79,86,113,16,127,248,153,10,283,271,363,2,17,57,218,345,36,220,184,282,1,145,9,3,250,17,22,16,13,186,37,75,33,236,629,464,2,2,26,4,41,186,29,15,11,87,38
+Operators	718,18,1565,153,257,65,695,44,33,93,160,61,42,519,136,49,29,438,41,84,44,261,23,257,15,11,97,92,266,73,220,34,78,37,40,142,56,120,221,115,146,361,218,80,59,132,270,160,282,2,9,2,385,15,120,93,23,91,5,1,299,382,51,268,102,536,56,13,79,86,113,16,127,248,153,10,283,271,363,2,17,57,218,345,36,220,184,282,1,145,9,3,250,17,22,16,13,186,37,75,33,236,629,464,2,2,26,4,41,186,29,15,11,87,38,524
 Operators Are Expanding Beyond Connectivity Africa	6714
 Operators Gross Mobilisation and Turnover Costing	16884
 Operators Gross Turnover	16884

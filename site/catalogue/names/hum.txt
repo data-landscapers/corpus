@@ -64,7 +64,7 @@ Antigüedad de Empleados Centro Nacional de Derechos Humanos	4209
 April. The New Humanitarian	15342
 Arab Human Development Report Research Paper	16902
 Artificial Humans	8460
-Artificial Intelligence and Human Rights	11135
+Artificial Intelligence and Human Rights	11135,6645
 Artiﬁcial Intelligence and Human Rights	11135
 Assistance Human-in-the-loop	10726
 Assistência Humanitária	12859
@@ -488,6 +488,7 @@ Global Partnerships for Human-Centric ICT Standardisation	1068
 GmbH Human Asset Clouds&Training Inetum España	8530
 GoGB Government of Guinea-Bissau HRMIS Human Resources	11545
 Golden Ratio of Human Resource Management	4432
+Google Arts and Culture. Digit Scholarsh Humanit	17773
 Gouvernement du Bénin GRH Gestion des Ressources Humaines	10876
 Gov-Cloud Government Cloud HR Human Resource	6432
 Governance and Human	16970
@@ -636,6 +637,7 @@ Honourable Minister for Humanitarian Affairs and Poverty	11998
 Housing and Human Settlements Development	6123
 HuMENA for Human Rights and Civic Engagment	15926
 Hubert Humphrey	13358
+Hum Resour Dev Rev	17773
 Hum Resour Health	771,448,11027
 Hum Resour Manage	10780
 HumAngle	5267
@@ -647,7 +649,7 @@ Humaines	13306,1231,1562
 Humaines Système	15674
 Humaines de Helios Towers Congo	16002
 Humains	4325
-Human	21,13,737,18,169,3,8,1,97,64,88,65,154,376,4,10,39,121,319,468,183,529,96,27,81,435,1,312,89,716,77,590,303,91,846,53,344,242,96,209,188,18,159,329,21,257,56,81,195,70,83,64,170,151,199,276,314,38,4,8,4,49,27,14,93,1,5,59,105,23,32,5,5,17,33,17,40,112,136,7,18,23,6,253,24,1,10,10,89,165,1,44,1,28,8,12,80,18,4,24,17,25,23,1,42,13,12,217,162,5,26,34,30,19,48,27,15,2,14,22,75,87,18,19,292,57,267,48,8,217,189,31,124,29,72,76,10,88,11,28,17,39,23,1,21,105,53,26,102,252,161,34,580,143,359,52,5,1,19,2,53,15,1,6,22,2,2,21,22,96,25,121,70,34,67,10,64,67,46,12
+Human	21,13,737,18,169,3,8,1,97,64,88,65,154,376,4,10,39,121,319,468,183,529,96,27,81,435,1,312,89,716,77,590,303,91,846,53,344,242,96,209,188,18,159,329,21,257,56,81,195,70,83,64,170,151,199,276,314,38,4,8,4,49,27,14,93,1,5,59,105,23,32,5,5,17,33,17,40,112,136,7,18,23,6,253,24,1,10,10,89,165,1,44,1,28,8,12,80,18,4,24,17,25,23,1,42,13,12,217,162,5,26,34,30,19,48,27,15,2,14,22,75,87,18,19,292,57,267,48,8,217,189,31,124,29,72,76,10,88,11,28,17,39,23,1,21,105,53,26,102,252,161,34,580,143,359,52,5,1,19,2,53,15,1,6,22,2,2,21,22,96,25,121,70,34,67,10,64,67,46,12,143
 Human A.i Co-evolution	12478
 Human AI	10726
 Human AI Capabilities and Development AI Adoption	10726
@@ -981,7 +983,7 @@ Human Rights Council Resolution	6949
 Human Rights Council Sixtieth	3583
 Human Rights Council Working Group	16958
 Human Rights Crisis	3584
-Human Rights Defenders	14742
+Human Rights Defenders	14742,3003
 Human Rights Defenders Network Strategic Plan	11586
 Human Rights Department	16958
 Human Rights Dialogue	11210
@@ -1036,6 +1038,7 @@ Human Rights and Gender Equity Digitalzentrum	1426
 Human Rights and Good Governance	10841
 Human Rights and Human Dignity	1814
 Human Rights and International	13948
+Human Rights and Multistakeholderism Engagement	17771
 Human Rights and Peoples	12201
 Human Rights and Promotion of Indigenous	15553
 Human Rights and Public Administration	12936,20
@@ -1075,13 +1078,15 @@ Human and People's Rights AMUSI United Movement	12201
 Human and People's Rights. Attention	3583
 Human and Peoples	17296
 Human and Peoples Rights	3005,1748,8599,132,3467
-Human and Peoples' Rights	2958,204,421,278,2165,2459,262,652,261,793,312,76,676,187,497,738,94,1040,76,515,372,2294
+Human and Peoples' Rights	2958,204,421,278,2165,2459,262,652,261,793,312,76,676,187,497,738,94,1040,76,515,372,2294,415
+Human and Peoples' Rights Declaration of Principles	17771
 Human and Peoples' Rights and Article	7458
 Human and Peoples' Rights of Women	3583
+Human and Peoples' Rights. Article	17745
 Human and Peoples' Rights. Continued	3583
 Human and Peoples' Rights. Joof	9313
 Human and Peoples' Rights29	3583
-Human and Peoples’ Rights	961,853,1191,2316,212,655,763,727,1404,1647,46,320,5,1940,1369,333,119,13,2077,7,59,1,278
+Human and Peoples’ Rights	961,853,1191,2316,212,655,763,727,1404,1647,46,320,5,1940,1369,333,119,13,2077,7,59,1,278,449
 Human and Peoples’ Rights AKRM	14742
 Human and Peoples’ Rights Declaration of Principles	9416
 Human and People’s Right	14742
@@ -1098,6 +1103,7 @@ Human-Centeredness and Meaningful Human Control AI	7548
 Human-Centred Digitalisation	842,322,11125
 Human-Centred Digitalisation. EUR	1164
 Human-Centric	16212
+Human-Centric AI	17780
 Human-Centric Approach	12356
 Human-Centric and Ethical Ai Local First and Transparency	12512
 Human-Centricity	14772
@@ -1311,6 +1317,7 @@ International Partnership for Human Development	11525
 Introduction The Human Resource Development	12972
 Isatou Ceesay Bah The National Human	17177
 J Hum Dev Capab	10780
+J Relig Hum Relat	17773
 JHOTTEE Nand Manager Human Resources	14770
 JMIR Hum Factors	8376,3870,9
 JUGMOHUNSING Savita Assistant Manager Human	14770
@@ -1626,6 +1633,7 @@ Renforcement du Capital Humain Bien	14622
 Renforcement du Capital Humain Domaine Impacts	14622
 Reports Gender Development Index UN Human	11004,960
 Republic of Zambia HIV Human Immunodeficiency Virus	1988
+Res J Adv Humanit	17773
 Research and Human Capital	11134
 Research and Human Resource Development	13990,67
 Resident and Humanitarian Coordinator	14959
@@ -1729,7 +1737,7 @@ Somalia's Human Capital Agenda	15059
 Somalia's Human Capital Index	15059
 Somalia's National Human Capital Development Strategy	15141
 Sous-Direction des Ressources Humaines SDRDC	10975
-South African Human Rights Commission	5806,499,3377,659,112,237,32,7,536,579,2333
+South African Human Rights Commission	5806,499,3377,659,112,237,32,7,536,579,2333,3597
 South African Human Rights Commission Act	6305,4960,579
 South African Human Rights Commission URL	14673
 South African Human Rights Commission's Policy	10453
@@ -1802,7 +1810,7 @@ U.S. Department of Health and Human Services. Empowering	10641
 UIT. VII.4 Indice du Capital Humain	13341
 UN AI Governance for Humanity Lab	9106
 UN Development Programme's Human Development Index	14101
-UN High Commissioner for Human Rights	15001
+UN High Commissioner for Human Rights	15001,2770
 UN Human Capital Index	10785
 UN Human Development Index	3584,8318
 UN Human Development Ranking	11935

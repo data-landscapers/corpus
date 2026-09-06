@@ -53,6 +53,7 @@ Accueil des Réseaux Electriques Nationaux de Distribution	17491
 Acquisition of Electronic Catch Reporting System	14830
 Acronym Definition Acronym Definition ETA Electronic	11986
 Act Creating the Liberia Elect.ricity Corporation	16851
+Act Framework C. Electronic Transactions	17745
 Act of Parliament Purpose Electronic Communications Security	396
 Act0526.pdf LEGAL SUPPLEMENT THE ELECTRONIC TRANSACTIONS	14821
 Acting Director of Elections	12652,104
@@ -193,6 +194,7 @@ Burundi. Electrification and Economic Growth	13624
 C- Electronic	582
 C. ELECTION SHAREHOLDER ENTITLEMENTS UNDER	4896
 C. Electricity	13624
+C. Electronic Transactions	17745
 CAPÍTULO I DE LOS DOCUMENTOS ELECTRÓNICOS	16855
 CAPÍTULO I TRANSACÇÕES ELECTRÓNICAS Secção	15477
 CAPÍTULO II COMUNICAÇÃO ELECTRÓNICA DOS PROCEDIMENTOS	11433
@@ -1388,7 +1390,7 @@ Electromagnetic Interference ITE	9123
 Electron	1261
 Electron J Inform Syst Developing Ctries	1261
 Electron. J. Inf. Syst. Dev. Ctries	12926
-Electronic	11,10,5,2,198,10,346,189,12,226,44,208,727,108,310,254,878,176,147,427,172,99,337,351,664,293,181,561,332,179,12,26,65,40,146,35,147,23,425,4,85,116,6,76,52,81,182,877,333,526,50,48,10,22,12,81,42,150,9,41,5,6,50,10,2,298,1,12,33,225,48,40,30,4,12,5,16,10,4,10,25,16,214,39,31,13,12,15,2,12,10,6,10,10,5,33,6,6,2,33,33,29,101,18,19,208,11,11,18,47,90,100,66,44,12,1,6,8,35,68,36,105,302,21,17,79,3,288,121,30,27,193,27,54,2,31,24,36,7,3,19,58,24,33,115,1,117,165,11,37,4,32,15,9,95,24,10,4,1228,7,28,9,2,6,12,4,7,15,4,188,25,302
+Electronic	11,10,5,2,198,10,346,189,12,226,44,208,727,108,310,254,878,176,147,427,172,99,337,351,664,293,181,561,332,179,12,26,65,40,146,35,147,23,425,4,85,116,6,76,52,81,182,877,333,526,50,48,10,22,12,81,42,150,9,41,5,6,50,10,2,298,1,12,33,225,48,40,30,4,12,5,16,10,4,10,25,16,214,39,31,13,12,15,2,12,10,6,10,10,5,33,6,6,2,33,33,29,101,18,19,208,11,11,18,47,90,100,66,44,12,1,6,8,35,68,36,105,302,21,17,79,3,288,121,30,27,193,27,54,2,31,24,36,7,3,19,58,24,33,115,1,117,165,11,37,4,32,15,9,95,24,10,4,1228,7,28,9,2,6,12,4,7,15,4,188,25,302,302
 Electronic Addressing	11129
 Electronic Age andE-GovernanceWorkshop	12325
 Electronic Airtime Distribution	3862
@@ -1431,7 +1433,7 @@ Electronic Certificate of Origin	13440,123
 Electronic Certification	15261,49
 Electronic Certification Administration	6946,8315
 Electronic Certification Authority	11906
-Electronic Certification Service Providers	6946,10588
+Electronic Certification Service Providers	6946,10588,212
 Electronic Certification System	11965
 Electronic Certification and Domain Name Administration	14435,826
 Electronic Certification and Renewal Process	12389
@@ -1643,7 +1645,7 @@ Electronic Invoicing System Administration Directive WHEREAS	14129
 Electronic Invoicing System Introduce	16968
 Electronic Issuance of Company Incorporation Certificate	12389
 Electronic Journal	12467
-Electronic Journal of Information Systems	5349,5377
+Electronic Journal of Information Systems	5349,5377,7024,1
 Electronic Journal of Knowledge Management	8021
 Electronic Journals and Scientific Databases In Ministry	12325
 Electronic Know Your Customer	8971,4105,1886
@@ -1703,7 +1705,8 @@ Electronic Patient Tracking System	12266
 Electronic Payment	12389,4455
 Electronic Payment Directive	14014
 Electronic Payment Directive. The Federal Government	14014
-Electronic Payment Forum and Exhibition	4680
+Electronic Payment Forum and Exhibition	4680,13064
+Electronic Payment Forum and Exhibition URL	17744
 Electronic Payment Management System	12270
 Electronic Payment Service Provider	10418
 Electronic Payment Services	7391,773,4373,5
@@ -1768,6 +1771,7 @@ Electronic Single Window for Trade	13042
 Electronic State Financial Administration System	4260,8010
 Electronic Submission of Deed	14828,3
 Electronic Surveillance Training	16971
+Electronic System	17759
 Electronic System Activated	17562
 Electronic System for International Trade	12389
 Electronic Systems and Interoperability of Services	12389
@@ -1786,9 +1790,10 @@ Electronic Transaction Act	4126,358,8435
 Electronic Transaction Bill	13357
 Electronic Transaction Proclamation No	13987
 Electronic Transaction-Act	16594
-Electronic Transactions	28,3833,3061,1543,423,606,1417,1303,703,54,1456,394,542,150,40,591
+Electronic Transactions	28,3833,3061,1543,423,606,1417,1303,703,54,1456,394,542,150,40,591,1601
 Electronic Transactions Act	410,29,148,444,132,726,1116,53,381,6,111,31,127,2066,940,220,333,504,494,121,812,1447,688,211,664,18,750,13,53,23,2,116,1064,117,12,331,15,24,69,29,348,431,1479
 Electronic Transactions Act. Namibia	10651
+Electronic Transactions B. Ghana	17745
 Electronic Transactions Bill	4583,8330
 Electronic Transactions Law	3058,803,1383,1291,5626,40,93,2030,2508
 Electronic Transactions Order	10388
@@ -1799,9 +1804,11 @@ Electronic Transactions and Cyber Security	14674
 Electronic Transactions and Cyber Security Act	799,9611,1756,66,676,9,64,1693
 Electronic Transactions and Cybersecurity Act	12214,39
 Electronic Transactions and Cyberspace Management	6671
+Electronic Transactions and Digital Integration E. Tunisia	17745
 Electronic Transactions and E-	28
 Electronic Transactions and Electronic Commerce	6720
 Electronic Transactions and Electronic Communications Bill	12674
+Electronic Transactions and Fintech Innovation	17745
 Electronic Transfer	15600
 Electronic Transfer Levy	7695,7905
 Electronic Transfer Levy Act	15600
@@ -1846,7 +1853,7 @@ Electronic-Money	13206
 Electronic-Transactions-Bill-2025-20-10-25.pdf	4583
 ElectronicHealthRecord	8606
 Electronically	12389
-Electronics	226,1718,6895,290,346,3910,2404
+Electronics	226,1718,6895,290,346,3910,2404,1984
 Electronics Expansion Project	1795,1413,3881
 Electronics Infrastructure Expansion Project	1795,1413,3881
 Electronics Innovation Complexes	16046
@@ -1943,7 +1950,7 @@ Ethiopian Electric Utility	8231,4002
 Ethiopian Electricity Power	12233
 Ethiopian Electronic Single Window System Development	208
 Ethiopia’s Electronic Transactions Proclamation	11607
-European Committee for Electrotechnical Standardization	15149
+European Committee for Electrotechnical Standardization	15149,2631
 European Economic Community EEE Electrical and Electronic	2775
 European Electronic Communications Code	13512
 European Union Election Observation Mission	10017
@@ -2042,11 +2049,11 @@ Gartner Says Electricity Demand for Data Centers	7548
 Gas Service Connection Electricity Network Development	15578
 Gebretsadik T. Evaluation of Electronic Medical Record	12379
 General Directorate of Electronic Communications	4296,2955
-General Election	1210,2548,902,27,2095,1051,36,53,2094,2,24,296,777,998,194,3,162,1121,380
+General Election	1210,2548,902,27,2095,1051,36,53,2094,2,24,296,777,998,194,3,162,1121,380,3814
 General Election Political Parties	7869
 General Election. The Bill	8791
 General Election. The Electronic	12465
-General Elections	4378,283,2381,1818,352,165,384,225,31,45,1140,999,271,373,277,410
+General Elections	4378,283,2381,1818,352,165,384,225,31,45,1140,999,271,373,277,410,4250
 General Elections Act	14852
 General Elections. On Electoral Processes	7452
 General Elections. Public Accounts Committee	5343
@@ -2228,7 +2235,7 @@ Independent Electoral Commission Mr. Mphasa Mokhochane	12652
 Independent Electoral Commission Rev. Dr. John	12756
 Independent Electoral Commission of Lesotho IEC Head	12652
 Independent Electoral Commission of The Gambia	10062
-Independent Electoral and Boundaries Commission	1630,2128,4075,958,754,100,693,484,262,31,998,36,2397
+Independent Electoral and Boundaries Commission	1630,2128,4075,958,754,100,693,484,262,31,998,36,2397,3241
 Independent Electoral and Boundaries Commission Act	1630,9192
 Independent Electricity Distribution Network	12062
 Independent Electricity Distribution Network IE Ikeja	12062
@@ -2257,7 +2264,7 @@ Instituto Nacional de Governo Electronico	570
 Instituto Nacional de Governo Electrónico	2816,1694,4924,3340
 Instituto Nacional de Governo Electrónico INTIC	2816
 Instituto Nacional de Governo Electrônico	2473
-Integrated Elections Management System	12113
+Integrated Elections Management System	12113,5674
 Integrated Electricity Plan	14745
 Integrated Electronic Case Management System	5039,3635,3713,86,524,132,309,66,115,1459,141
 Integrated Electronic Diagnosis Approach	10881
@@ -2275,7 +2282,7 @@ Interlinked Electronic Registries UHC Universal	396
 International Electro	9123
 International Electro-technical Commission	13320,1547
 International Electronical Commission	1988
-International Electrotechnical Commission	7174,5190,531,1919,2619
+International Electrotechnical Commission	7174,5190,531,1919,2619,347
 International Foundation for Electoral Systems	11115
 International Journal of Electrical	14965
 International Transfers Electronic Fund Transfers	5247
@@ -2311,6 +2318,7 @@ Kenya Electronic Communications	17212
 Kenya Electronic Medical Records	4153
 Kenya Electronic Payment and Settlement System	1983,2622,7681
 Kenya Integrated Election Management System	11115
+Kenya Integrated Elections Management System	17787
 Kenya National Electrification Strategy	12139,52
 Kerosine Electricity	16921
 Key Performance Indicators LEC Liberia Electricity	17260
@@ -3406,6 +3414,7 @@ Water and Electricity Allowance	13096
 Water and Electricity Upgrading Project	10857
 Water and Electricity of Guinea-Bissau	11549
 WeLight Solar Mini-Grid and Rural Electrification	390
+WebTrust for Electronic Certification Service Providers	17746
 Webinars Business Agents Customs Electronic Licensing	12454
 West Africa Regional Electricity Market	7426
 West Africa Regional Electricity Market Program	17352,1

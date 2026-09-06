@@ -163,7 +163,7 @@ Authentication and Authorisation Requirement	11952
 Authentication and Authorization	5665,5056
 Authentication and Authorization Platform for Web	11872,3
 Authonty	11517
-Author	10,756,5,250,198,24,18,386,176,115,158,238,25,13,155,36,13,17,70,45,3,5,19,19,22,51,37,45,9,4,1,10,2,119,13,13,8,8,6,6,31,11,43,21,4,10,7,3,25,18,18,1,6,7,1,31,52,12,7,20,5,17,22,2,3,6,32,1,4,8,6,22,14,15,6,13,1,13,14,8,13,1,1,6,10,17,6,26,1,11,3,1,7,12,1,6,16,2,2,1,6,8,32,44,10,37,4,2,19,8,95,13,1,1,5,6,11,3,49,21,28,13,12,6,9,5,4,29,23,1,30,18,1,197,4,16,13,2,45,5,5,11,7,20,12,11,19,1,15,2,25,25,18,5,95,2,1,2,14,46,1,17,10,46,29,1,8,13,20,4,26,13,16,96,5,20,1,3,16,31,30,13,46,9,7,9,5,2,6,6,23,22,4,13,2,12,12,1,46,7,1,57,2,58,23,2,1,59,7,10,47,4,12,4,1,7,8,1,13,6,21,15,3,5,3,18,4,4,7,9,3,21,8,46,61,4,1,8,9,14,28,7,10,45,8,21,12,4,12,28,4,8,26,4,41,7,18,5,18,31,11,5,3,89,7,9,22,16,11,2,12,13,13,1,29,5,3,24,18,14,10,10,7,1,30,3,33,49,57,5,45,21,14,3,17,37,16,4,26,18,64,46,17,6,2,3,5,4,2,5,6,16,2,1,2,4,7,22,2,13,9,5,9,1,4,8,1,17,1,2,3,10,12,6,5,2,110,46,79,51,51,19,1,1,17,7,22,6,12,1,3,9,11,5,9,2,23,9,25,17,1,12,6,79,74,18,29,46,7,53,469,73,13,662,67,19,44,7,6,7,8,9,13,1,3,2,4,6,2,3,17,11,15,2,13,5,3,4,6,27,1,6,13,4,222,120,92,171,4,74,1,2,1,2,93,22,37,118,24,27,144,19,1,21,4,8,1,8,4,16,10,1,2,1,3,10,4,1,2,2,1,3,3,1,9,16,8,47,24,22,11,37,38,6,6,30,31,7,9,19,2,13,257,1,6,4,15,30,6,42,101,3,29,82,61,3,1,1,8,9,4,18,12,65,6,102,12,93,15,81,44,5,275,48,3,31,74,216,81,23,107,76,78,30,85,8,5,1,5,3,1,4,1,3,1,1,5,6,1,1,7,1,1,1,1,2,3,3,2,1,2,2,10,4,3,4,2,1,2,2,1,13,69,14,13,89,41,150,19,11,22,2,171,2,1,21,1,57,1,40,53,7,1,8,19,4,2,2,12,8,8,2,4,5,6,5,11,1,16,1,16,52,19,13,6,22,4,11,12,4,14,20,19,6,5,13,34,7,5,5,3,9,4,10,3,6,1,9,4,16,33,4,11,26,8,72,1,8,20,4,5,8,11,113,102,128,58,9,1,106,13,17,11,13,10,4,1,6,4,8,37,1,10,4,5,7,1,7,3,2,10,5,4,3,17,19,1,1,3,16,7,12,3,2,7,3,3,12,2,7,13,4,30,1,14,1,19,3,23,17,1,23,3,9,18,20,29,4,17,5,2,4,9,4,15,4,8,3,21,16,3,18,37,8,19,2,26,4,11,12,4,7,13,2,113,22,2,10,37,1,27,50,3,4,12,16,5,43,14,31,30,13,37,17,19,13,27,4,3,16,3,47,2,14,2,4,36,32,3,29,243,1,1,1
+Author	10,756,5,250,198,24,18,386,176,115,158,238,25,13,155,36,13,17,70,45,3,5,19,19,22,51,37,45,9,4,1,10,2,119,13,13,8,8,6,6,31,11,43,21,4,10,7,3,25,18,18,1,6,7,1,31,52,12,7,20,5,17,22,2,3,6,32,1,4,8,6,22,14,15,6,13,1,13,14,8,13,1,1,6,10,17,6,26,1,11,3,1,7,12,1,6,16,2,2,1,6,8,32,44,10,37,4,2,19,8,95,13,1,1,5,6,11,3,49,21,28,13,12,6,9,5,4,29,23,1,30,18,1,197,4,16,13,2,45,5,5,11,7,20,12,11,19,1,15,2,25,25,18,5,95,2,1,2,14,46,1,17,10,46,29,1,8,13,20,4,26,13,16,96,5,20,1,3,16,31,30,13,46,9,7,9,5,2,6,6,23,22,4,13,2,12,12,1,46,7,1,57,2,58,23,2,1,59,7,10,47,4,12,4,1,7,8,1,13,6,21,15,3,5,3,18,4,4,7,9,3,21,8,46,61,4,1,8,9,14,28,7,10,45,8,21,12,4,12,28,4,8,26,4,41,7,18,5,18,31,11,5,3,89,7,9,22,16,11,2,12,13,13,1,29,5,3,24,18,14,10,10,7,1,30,3,33,49,57,5,45,21,14,3,17,37,16,4,26,18,64,46,17,6,2,3,5,4,2,5,6,16,2,1,2,4,7,22,2,13,9,5,9,1,4,8,1,17,1,2,3,10,12,6,5,2,110,46,79,51,51,19,1,1,17,7,22,6,12,1,3,9,11,5,9,2,23,9,25,17,1,12,6,79,74,18,29,46,7,53,469,73,13,662,67,19,44,7,6,7,8,9,13,1,3,2,4,6,2,3,17,11,15,2,13,5,3,4,6,27,1,6,13,4,222,120,92,171,4,74,1,2,1,2,93,22,37,118,24,27,144,19,1,21,4,8,1,8,4,16,10,1,2,1,3,10,4,1,2,2,1,3,3,1,9,16,8,47,24,22,11,37,38,6,6,30,31,7,9,19,2,13,257,1,6,4,15,30,6,42,101,3,29,82,61,3,1,1,8,9,4,18,12,65,6,102,12,93,15,81,44,5,275,48,3,31,74,216,81,23,107,76,78,30,85,8,5,1,5,3,1,4,1,3,1,1,5,6,1,1,7,1,1,1,1,2,3,3,2,1,2,2,10,4,3,4,2,1,2,2,1,13,69,14,13,89,41,150,19,11,22,2,171,2,1,21,1,57,1,40,53,7,1,8,19,4,2,2,12,8,8,2,4,5,6,5,11,1,16,1,16,52,19,13,6,22,4,11,12,4,14,20,19,6,5,13,34,7,5,5,3,9,4,10,3,6,1,9,4,16,33,4,11,26,8,72,1,8,20,4,5,8,11,113,102,128,58,9,1,106,13,17,11,13,10,4,1,6,4,8,37,1,10,4,5,7,1,7,3,2,10,5,4,3,17,19,1,1,3,16,7,12,3,2,7,3,3,12,2,7,13,4,30,1,14,1,19,3,23,17,1,23,3,9,18,20,29,4,17,5,2,4,9,4,15,4,8,3,21,16,3,18,37,8,19,2,26,4,11,12,4,7,13,2,113,22,2,10,37,1,27,50,3,4,12,16,5,43,14,31,30,13,37,17,19,13,27,4,3,16,3,47,2,14,2,4,36,32,3,29,243,1,1,1,34,2,10,1,7,3
 Author Adebowale Jeremy Adetayo	9256
 Author Barhy	14941
 Author CIPESA	15265
@@ -245,7 +245,7 @@ Authoritative	3583,1000
 Authoritative Declaration	2682
 Authoritative Definitions	3861
 Authoritativeness	13461
-Authorities	789,151,274,614,52,7,20,70,2,303,31,23,97,181,129,200,108,177,312,38,5,22,5,21,337,64,172,32,48,6,91,19,183,13,41,25,2,4,42,46,4,72,5,50,27,12,36,15,27,52,206,45,9,22,34,49,4,5,22,9,3,5,21,15,49,34,9,15,7,40,17,21,23,47,25,2,76,47,2,22,1,16,14,1,12,17,40,19,31,1,10,8,92,1,2,22,15,37,8,5,19,21,116,9,15,18,44,11,35,12,54,10,21,69,9,89,9,18,21,1,122,46,1,95,70,88,189,43,2,160,193,95,191,107,152,191,361,4,366,25,20,201,439,72,20,435,139,276,4,123,128,73,395,127,113,367,204,386,136,259,2,107,149,298,378,267,28,3,8,38,49,10,97,31,1,96,120,13,294,39,2,870,704,99,82,17,31,12,100,3,116
+Authorities	789,151,274,614,52,7,20,70,2,303,31,23,97,181,129,200,108,177,312,38,5,22,5,21,337,64,172,32,48,6,91,19,183,13,41,25,2,4,42,46,4,72,5,50,27,12,36,15,27,52,206,45,9,22,34,49,4,5,22,9,3,5,21,15,49,34,9,15,7,40,17,21,23,47,25,2,76,47,2,22,1,16,14,1,12,17,40,19,31,1,10,8,92,1,2,22,15,37,8,5,19,21,116,9,15,18,44,11,35,12,54,10,21,69,9,89,9,18,21,1,122,46,1,95,70,88,189,43,2,160,193,95,191,107,152,191,361,4,366,25,20,201,439,72,20,435,139,276,4,123,128,73,395,127,113,367,204,386,136,259,2,107,149,298,378,267,28,3,8,38,49,10,97,31,1,96,120,13,294,39,2,870,704,99,82,17,31,12,100,3,116,401
 Authorities Certification	17097
 Authorities Data Protection	961
 Authorities Governance Unit	14738,8
@@ -260,7 +260,7 @@ Authorities and Agencies	3025
 Authorities and Bodies	15393
 Authorities and IMF	13868
 Authorities’ Views	13868,3635
-Authority	11,11,5,209,70,90,12,174,5,131,18,26,21,116,73,28,214,2,7,210,80,41,188,8,27,33,1,33,26,7,23,75,5,8,125,195,5,217,138,21,31,7,49,137,24,7,2,21,58,191,69,179,7,22,90,21,19,28,63,32,41,100,82,119,38,78,47,241,37,8,7,15,51,82,40,117,136,90,21,45,25,2,78,182,70,31,14,19,30,54,9,10,5,9,68,46,61,1,17,26,6,95,1,133,59,89,21,8,156,155,6,44,113,2,34,6,6,59,15,32,1,7,213,6,105,24,74,1,25,6,1,9,3,39,96,3,71,24,1,53,24,53,51,4,13,112,23,97,38,168,2,38,43,14,13,23,39,2,87,38,34,132,42,30,106,29,123,31,12,2,7,59,140,6,21,30,93,157,92,37,74,2,1,8,6,4,75,84,21,228,12,25,8,63,21,8,1,4,9,103,59,5,38,7,191,30,122,46,1,5,12,1,14,29,30,29,38,16,16,24,3,21,3,255,67,23,103,91,29,146,10,8,47,67,41,36,8,34,4,1,24,6,10,48,5,40,2,7,21,52,12,38,38,3,20,1,3,39,15,9,19,1,1,35,5,73,135,12,2,11,4,46,2,64,1,3,14,20,12,17,20,3,2,79,10,82,16,5,2,10,8,7,1,3,1,20,5,5,32,5,11,11,9,101,6,67,42,261,29,13,154,45,29,20,36,102,27,34,7,32,1,66,3,4,18,48,1,6,30,54,8,6,15,1,2,3,8,2,13,11,26,29,9,3,4,3,3,2,1,7,2,22,2,13,27,1,18,21,4,4,23,7,12,22,27,12,18,5,25,14,6,23,15,20,14,29,75,91,80,11,31,1,88,43,36,140,22,126,72,169,3,17,22,92,134,31,57,35,229,3,4,1,3,10,19,6,9,2,27,10,13,29,7,36,5,14,75,1,2,5,1,3,8,31,1,44,11,14,17,6,1,1,6,37,28,45,4,30,148,36,22,117
+Authority	11,11,5,209,70,90,12,174,5,131,18,26,21,116,73,28,214,2,7,210,80,41,188,8,27,33,1,33,26,7,23,75,5,8,125,195,5,217,138,21,31,7,49,137,24,7,2,21,58,191,69,179,7,22,90,21,19,28,63,32,41,100,82,119,38,78,47,241,37,8,7,15,51,82,40,117,136,90,21,45,25,2,78,182,70,31,14,19,30,54,9,10,5,9,68,46,61,1,17,26,6,95,1,133,59,89,21,8,156,155,6,44,113,2,34,6,6,59,15,32,1,7,213,6,105,24,74,1,25,6,1,9,3,39,96,3,71,24,1,53,24,53,51,4,13,112,23,97,38,168,2,38,43,14,13,23,39,2,87,38,34,132,42,30,106,29,123,31,12,2,7,59,140,6,21,30,93,157,92,37,74,2,1,8,6,4,75,84,21,228,12,25,8,63,21,8,1,4,9,103,59,5,38,7,191,30,122,46,1,5,12,1,14,29,30,29,38,16,16,24,3,21,3,255,67,23,103,91,29,146,10,8,47,67,41,36,8,34,4,1,24,6,10,48,5,40,2,7,21,52,12,38,38,3,20,1,3,39,15,9,19,1,1,35,5,73,135,12,2,11,4,46,2,64,1,3,14,20,12,17,20,3,2,79,10,82,16,5,2,10,8,7,1,3,1,20,5,5,32,5,11,11,9,101,6,67,42,261,29,13,154,45,29,20,36,102,27,34,7,32,1,66,3,4,18,48,1,6,30,54,8,6,15,1,2,3,8,2,13,11,26,29,9,3,4,3,3,2,1,7,2,22,2,13,27,1,18,21,4,4,23,7,12,22,27,12,18,5,25,14,6,23,15,20,14,29,75,91,80,11,31,1,88,43,36,140,22,126,72,169,3,17,22,92,134,31,57,35,229,3,4,1,3,10,19,6,9,2,27,10,13,29,7,36,5,14,75,1,2,5,1,3,8,31,1,44,11,14,17,6,1,1,6,37,28,45,4,30,148,36,22,117,22
 Authority Account National Construction Authority	14546
 Authority Accreditation and Certification	587
 Authority Act	7845,5208,1664
@@ -379,7 +379,7 @@ Authority of Heads of State and Government	7,7445,4065,3846
 Authority of Heads of State and Government of ECOWAS	15363
 Authority of His Majesty the King Price	12722
 Authority of His Majesty the King. Price	12653,13
-Authority of Kenya	6946,602
+Authority of Kenya	6946,602,10197
 Authority of Kenya CEO Chief Executive Officer	6946
 Authority of Namibia	9692
 Authority of Protection	11517
@@ -395,6 +395,7 @@ Authority's Experts Office	7923
 Authority's Inquiry	6891
 Authority's Licensing and Compliance	7957
 Authority's NMS	12616
+Authority's National KE-CIRT	17746
 Authority's Regular	4251
 Authority's Tripoli	5904
 Authority's Universal Service Fund	10397
@@ -585,7 +586,9 @@ Authors Saniya Ansar	16822
 Authors Seid Yimam Mohamed Seid Yimam	12162
 Authors Thomas Byrnes Simone Dobre Laura	11156
 Authors Wilmari Strachan Your Author LinkedIn	6683
+Authors and Affiliations Department of Sociology	17773
 Authors and Affiliations National Center for Global Health	10784
+Authors and Affiliations Political Science Department	17780
 Authors and Affiliations University of Groningen	9739
 Authors. Introduction Licensee	9237
 Authors. Licensee	7759,263,108
@@ -717,6 +720,7 @@ Business and Intellectual Property Authority DPSITM	12961
 Business and Intellectual Property Authority Legislation	3714
 BusinessStatistics 2Qtr26 290726.pdf Author	14840
 C Functions of Refugee Appeals Authority	11177
+CA and ICT Authority	17755
 CAPITAL MARKETS AUTHORITY Data Controller INST-472162F400C	7167
 CAPITAL MARKETS AUTHORITY Data Processor INST-472162F400C	7167
 CASH INFLOWS Authorized Allocation	16978
@@ -864,7 +868,7 @@ Communications Authority Kenya	6946
 Communications Authority Sector	7548
 Communications Authority and KNBS	11086
 Communications Authority of Ghana	5164
-Communications Authority of Kenya	2677,948,249,109,621,737,582,210,494,44,62,12,18,24,38,5,34,82,158,100,190,154,3,56,26,76,233,15,93,517,1,2,272,29,1,212,105,21,125,1,307,93,2,112,800,172,263,745,1,273,45,102,11,2259,74,36,70,560,74
+Communications Authority of Kenya	2677,948,249,109,621,737,582,210,494,44,62,12,18,24,38,5,34,82,158,100,190,154,3,56,26,76,233,15,93,517,1,2,272,29,1,212,105,21,125,1,307,93,2,112,800,172,263,745,1,273,45,102,11,2259,74,36,70,560,74,2410,1,23
 Communications Authority of Kenya Figure	6946
 Communications Authority of Kenya Financial Statements	6946
 Communications Authority of Kenya Identity Module	6946
@@ -973,6 +977,7 @@ Cyber Security Authority and Financial Intelligence Centre	11699
 Cyber Security Authority and NITA	4488
 Cybersecurity Authority	587,2642,11968
 Cybersecurity Cybersecurity Authority	4126
+Cybersecurity Simulation Exercise The Authority	17746
 Céline Thévenot Authorized	10997
 D SDS-2026-2030.pdf Author	15961
 D.C Zanzibar Commission for Social Security Authority	11133
@@ -1002,6 +1007,7 @@ DPI Readiness and Intelligent Revenue Authorities	3735
 DRAFT GEA DIAGRAM ICT Authority Telposta	14441
 DRC's Postal and Telecommunications Regulatory Authority	4681
 DTT The Authority	6946
+Daniel Mügge Authors Sina Hoch Search	17780
 Daoukro and Dabou. Authorities	6449
 Data Boom and Airtel Money Surge Author	7663
 Data Centre The Authority	6946
@@ -1064,6 +1070,7 @@ Digital Regulatory Authority Create	11906
 Digital Services Authority	5444,7111,7
 Digital Superhighway Project. The Authority	6946
 Digital Transformation Authority	3902
+Digital Upskilling Training Programme The Authority	17746
 DigitalMauritius2030.pdf Author	14729
 Dinda Iryawati Author	14666
 Diplomatic Missions. The Land Authority	17114
@@ -1470,6 +1477,7 @@ Ghana Shippers’ Authority	14216
 Ghana Standards Authority	6936,3695,401,3184
 Ghana Standards Authority Act	15562
 Ghana Standards Authority The Ghana Standards	16232
+Ghana's Cyber Security Authority	17745
 Ghana's Food and Drugs Authority	8479
 Ghana's National Communications Authority	89,1496,111,1928,1134,160,2483,1143,180,202
 Ghana's National Identification Authority	2385,411,697,2654
@@ -1533,7 +1541,7 @@ Human Resource Establishment The Authority	6946
 ICR Contributing Author	15424,87,90
 ICR00609 Public Disclosure Authorized Public Disclosure	16436
 ICR29620P0912900disclosed0100240140.pdf Author	16614
-ICT Authority	899,1843,171,1624,1469,127,145,3,151,74,121,814,39,68,2,1214,314,777,25,2382,2179,84,21,234,42,3,2774
+ICT Authority	899,1843,171,1624,1469,127,145,3,151,74,121,814,39,68,2,1214,314,777,25,2382,2179,84,21,234,42,3,2774,156
 ICT Authority Bill	8382
 ICT Authority CEO	5108
 ICT Authority Chairperson Tassarajen Pillay Chedumbrum	9949
@@ -1624,7 +1632,7 @@ Insurance Sector Education and Training Authority IoT	6832
 Insurance Supervisory Author-	14897
 Insurance and Social Security Supervisory Authority	6938
 Integrated Revenue Management System for Local Authorities	17470
-Intergovernmental Authority	26,1,1,1188,2022,345,1000,1513,832,2279,1110,317,783,746,1447,260,10,16,26,3,19,57,7,13,1,52,5,1,58,296,77,398,1,2,16,44,29,142,114,2439
+Intergovernmental Authority	26,1,1,1188,2022,345,1000,1513,832,2279,1110,317,783,746,1447,260,10,16,26,3,19,57,7,13,1,52,5,1,58,296,77,398,1,2,16,44,29,142,114,2439,107
 Internal Trade Authority	15473
 Internal Trade Development Authority	10498,5647
 International Civil Aviation Authority	4102
@@ -1702,6 +1710,7 @@ Kenya Statistics Authority	14594
 Kenya Statistics Authority. Clause	14594
 Kenya Statistics Authority. Continuity	14594
 Kenya Urban Roads Authority	9647
+Kenya's Central Authority	17745
 Kenya's Communications Authority	3413,1170,2268,3546
 Kenya's ICT Authority	8214
 Kenya's Information and Communication Technology Authority	4918,1128
@@ -1718,7 +1727,7 @@ Kisumu Energy and Petroleum Regulatory Authority	12256
 Kola Ijasan Authors	9759
 Konza Development Technopolis Development Authority	1638
 Konza Technopolis Authority	6946
-Konza Technopolis Development Authority	1722,4439,785,2903,1316,3313
+Konza Technopolis Development Authority	1722,4439,785,2903,1316,3313,3268
 Konza Technopolis Development Authority Address	1638
 Konza Technopolis Development Authority CEO	5108
 Konza Technopolis Development Authority Chief Executive	9853
@@ -2342,10 +2351,12 @@ Network Authority. C4	8670
 Network MACRA Malawi Communications Regulatory Authority	12917
 Network Operations and Regulatory Authority. Describing	5849
 Network of African Data Protection Authorities	1243,1526,40,1774,12752
+Next Quarter The Authority	17746
 Niger and Burkina Faso. Authorities	4859
 Nigeria Communications Authority of National	17212
 Nigeria Export Processing Zones Authority	17652
 Nigeria Sovereign Investment Authority	3054,1446,700,1176,204,5077,2724
+Nigeria's Sustainable Development Agenda Authors	17750
 Nigeria. Authority	5665
 Nigeria’s Root Certification Authority	9880
 No. of Local Authorities	12453,892
@@ -2596,7 +2607,7 @@ Public Procurement Authority	4126,48,2762,521,2271,111,3,577
 Public Procurement Authority GICTA Gambia ICT	16923
 Public Procurement Authority's GHANEPS	10305
 Public Procurement Authority’s Average Price Database	15845
-Public Procurement Regulatory Authority	1284,354,3811,184,4871,325,4721
+Public Procurement Regulatory Authority	1284,354,3811,184,4871,325,4721,2237
 Public Procurement Regulatory Authority Promote	7548
 Public Procurement Regulatory Authority. Adoni Conrad	4181
 Public Procurement Specialized Oversight Authority Inclusive	7548
@@ -2902,6 +2913,7 @@ Somalia's National Identification and Registration Authority	2114,1472
 Somalia. The National Communications Authority	15120
 Somalia’s National Communications Authority	4555,2233,8332
 Somalia’s National Identification and Registration Authority	2743,76,8305
+South Africa Awakhiwe Thabiso Ncube Authors	17773
 South Africa Local AuthorityB	12325
 South Africa's Electronic Travel Authorisation	9076,159
 South Africa's Independent Communications Authority	10589
@@ -3010,6 +3022,7 @@ Takoradi Office National Communications Authority	2776
 Tamale Office National Communications Authority	2776
 Tanger Med Port Authority	17445
 Tanzania Airports Authority	5883
+Tanzania Authors	17751
 Tanzania Civil Aviation Authority	5883
 Tanzania Communications Regulatory Authority	721,1956,2276,163,581,74,112,147,138,409,134,17,88,2198,675,281,39,90,927,711,94,269,2292,7,3335
 Tanzania Communications Regulatory Authority. South Korea	2947
@@ -3175,6 +3188,7 @@ Water Resources Management Authority	13365,1181
 Water Resources Management Authority. Ministry of Labour	1988
 Water Service Authorities	11236
 Water and Sanitation Authority	12358,2589
+WebTrust for Certification Authorities	17746
 Website IGADsecretariat Intergovernmental Authority	15143
 West African National Regulatory Authorities Focuses	17010
 Whenever the Authority	762,12291

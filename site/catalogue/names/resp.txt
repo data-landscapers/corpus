@@ -294,9 +294,9 @@ Computer Emergency Response Team of Mauritius	783,14046
 Computer Emergency Response Team of Mauritius CFT	14828,3
 Computer Emergency Response Teams	395,5137,145,5087,147,2969,1608
 Computer Incidence Response Team	958
-Computer Incident Response Team	4693,10,61,2081,2588,1701,1261,58,1986,102,3,79
+Computer Incident Response Team	4693,10,61,2081,2588,1701,1261,58,1986,102,3,79,3122
 Computer Incident Response Team CMIL	14438
-Computer Incident Response Teams	11920
+Computer Incident Response Teams	11920,5825
 Computer Security Incident Response Center	15511
 Computer Security Incident Response Team	1200,28,549,1817,249,44,766,1886,5622,3000,343,9,40,90,1513
 Computer Security Incident Response Team CERT	1000
@@ -759,7 +759,7 @@ Incidence Response CIRMR-IRP.S3	10721
 Incidence Response Plan CIRMR-IRP.S1	10721
 Incident Management and Response Plans	15054
 Incident Responders	1000
-Incident Response	775,225,1709,1152,749,1822,4289,1231,586,429,1954,741
+Incident Response	775,225,1709,1152,749,1822,4289,1231,586,429,1954,741,2084
 Incident Response A. All Telecommunications Service	4610
 Incident Response GC-SCRM.S1	10721
 Incident Response Plan	10721
@@ -849,6 +849,7 @@ KNUST Responsible AI Laboratory	4126
 KNUST's Responsible AI Lab	5227
 KOUKA Lydie Fortunée UGP Responsable Suivi	16012
 KPIs and Responsible Agencies	16963
+Kenya Computer Incident Response Team Coordination	17745
 Kenya National Bureau Sustainable and Responsible Financial	12297
 Kenya Quick Response Code Standard	11994
 Key Duties and Responsibilities	15286
@@ -1042,7 +1043,7 @@ National Incident Response Plan	10689
 National Incident Response Unit	1777
 National Incident Response Unit Response Unit	1777
 National Incident Response Unit. Strategic Objective	1777
-National Kenya Computer Incident Response Team	7481,4781
+National Kenya Computer Incident Response Team	7481,4781,5484
 National Payments STAKEHOLDER RESPONSIBILITY	16926
 National Policy and Response Strategy	17257
 National Response	16951
@@ -1419,7 +1420,7 @@ Republic of Madagascar Responsible Agency	14456
 Republic of Mozambique. Responsible Agency	12220
 Resilient and Responsible Design	5892
 Resources and Responsibilities	1778,11212
-Respect	37,968,209,5745,589,461,1651,1052,124,40,124,131,102,4,704,15,377,25,198,346,195,345,26,2,7,98,1,59,389,400,1,63,1,1,39,8,589,237,31,35,71,12,30,26,67,77,12,17,39,68,37,16,7,25,3,7,352,341,216,288,156,189
+Respect	37,968,209,5745,589,461,1651,1052,124,40,124,131,102,4,704,15,377,25,198,346,195,345,26,2,7,98,1,59,389,400,1,63,1,1,39,8,589,237,31,35,71,12,30,26,67,77,12,17,39,68,37,16,7,25,3,7,352,341,216,288,156,189,282
 Respect Gono	1713,6582
 Respect and Dignity	12642
 Respect for Arab	2958
@@ -1891,6 +1892,7 @@ Responsive Planning UN United Nations and Budgeting	11193
 Responsive Regulation	6946
 Responsive Regulation Connectivity	6946
 Responsive Regulation Core Values	6946
+Responsive Regulation. Our Core Values	17746
 Responsive Services Project	15518
 Responsiveness	4130,1546,1156,4384,24,712,975,26,19,5,120,213,108,1176,189,19,2100,22,2
 Responsiveness Access	16885

@@ -44,7 +44,7 @@ ACT. I Y99	11178
 ADDED TAX ACT	6921,5703,6,4478
 ADMINISTRATION ACT	6921
 ADR Act	17139
-AI Act	1807,7,454,548,1229,639,5,62,291,321,361,1748,76,273,145,6,42,32,390,93,1,66,90,5,1,198,2160,104,1,767,753,1453,438,120
+AI Act	1807,7,454,548,1229,639,5,62,291,321,361,1748,76,273,145,6,42,32,390,93,1,66,90,5,1,198,2160,104,1,767,753,1453,438,120,3094
 AI Act AI Act Service Desk	8529
 AI Act Single Information	8530
 AI Act The AI Office	8529
@@ -112,7 +112,7 @@ Act Batch Batch	12364
 Act Business Names	3714
 Act C	14790
 Act CAP	1988
-Act Cap	3005
+Act Cap	3005,14740
 Act Cap. A2	11976
 Act Cap. C38 Section	11857
 Act Chapter	16840
@@ -131,6 +131,7 @@ Act Ele	14790
 Act Ensure	1630
 Act Establishing the Central Bank of Liberia	17030,205
 Act FY Financial Year GHC Ghana	14674
+Act Framework C. Electronic Transactions	17745
 Act GCIS Government Communication and Information System	11188
 Act GenCos Generation Companies GWh Gigawatt	12062
 Act Internationally	11154
@@ -141,7 +142,7 @@ Act N	11178
 Act NGDX Nigerian Data Exchange NIBSS	11952
 Act NRS National Resilience Strategy NSNS	12964
 Act News Defeat Poverty	12336
-Act No	22,761,185,4,37,16,449,119,307,88,84,565,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,72,1,924,63,386,289,1,1,1,1,333,807,70,269,640,379,16,371,52,426,72,22,990,2001,289,3,43,2,1,1,1,1,3,4,1,6,2,3,10,2,4,11,2,5,2,12,1,5,4,2,1,1,2,4,7,3,1,5,4,262,315,110,10,61,7,85,6,192,27,1,2,6,1,2,34,37,12,8,82,26,3,67,2,248,3,1,1,2,3,2,5,4,3,1,1,3,4,1,1,8,5,8,3,5,2,6,31,33,2,4,9,25,2,3,9,7,4,1,45,47,17,79,10,3,19,4,1,24,5,4,48,13,61,19,70,844,39,6,267,5,1,14,1,25,41,12,3,19,1992,1,122
+Act No	22,761,185,4,37,16,449,119,307,88,84,565,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,72,1,924,63,386,289,1,1,1,1,333,807,70,269,640,379,16,371,52,426,72,22,990,2001,289,3,43,2,1,1,1,1,3,4,1,6,2,3,10,2,4,11,2,5,2,12,1,5,4,2,1,1,2,4,7,3,1,5,4,262,315,110,10,61,7,85,6,192,27,1,2,6,1,2,34,37,12,8,82,26,3,67,2,248,3,1,1,2,3,2,5,4,3,1,1,3,4,1,1,8,5,8,3,5,2,6,31,33,2,4,9,25,2,3,9,7,4,1,45,47,17,79,10,3,19,4,1,24,5,4,48,13,61,19,70,844,39,6,267,5,1,14,1,25,41,12,3,19,1992,1,122,787
 Act No. Short	11852
 Act No. Short Title	11851
 Act No. Short Title Page	1220
@@ -487,8 +488,9 @@ Architects Act	13311
 Archives Act	12890
 Arms Embargo and Act	7845
 Artificial Alignment Proposal Data Protection Act	7548
-Artificial Intelligence Act	1807,1151,1793,2721,574,390,2614,85,21,1519,1926
+Artificial Intelligence Act	1807,1151,1793,2721,574,390,2614,85,21,1519,1926,3179
 Artificial Intelligence Regulation Act	8991
+Artificial Intelligence and Data Act	17780
 Artist Act	14742
 Artiﬁcial Intelligence Act	11154
 Artiﬁcial Intelligence and Data Act	11154
@@ -691,6 +693,7 @@ CYBER SECURITY ACT	2727
 CYBERCRIME ACT	12928
 CYBERSECURITY ACT	587
 CYBERSECURITY AND CYBERCRIME ACT	783
+Cabotage Act	17808
 Cadastral Survey Act	14722
 California AI Transparency Act SB	14601
 California Consumer Privacy Act	1243,2276,4917
@@ -851,9 +854,10 @@ Computer Crime and Cyber Security Act	1535
 Computer Crime and Cybercrime Act	26,1790,4723,2986,508,433,1929,31,502,1329
 Computer Misuse Act	3005,2417,1527,5151,132,3081
 Computer Misuse Act. NITA-U ED	3275
-Computer Misuse and Cyber Crimes Act	6432
+Computer Misuse and Cyber Crimes Act	6432,11314
 Computer Misuse and Cybercrime Act	783,11519,2133,89,205,21
-Computer Misuse and Cybercrimes Act	2709,1883,1840,355,694,66,1,2095,212,2355,92,2125,1509
+Computer Misuse and Cybercrimes Act	2709,1883,1840,355,694,66,1,2095,212,2355,92,2125,1509,1809
+Computer Misuse and Cybercrimes Act Framework	17745
 Concealment of Birth Act	1
 Concessions Commission Act	16843
 Concessions and Disposals Act	14965
@@ -1018,7 +1022,7 @@ Data Harmonization Act	3384
 Data Infrastructure Statistics Act	12907
 Data Markets Act	8436
 Data Privacy and Protection Act	10202
-Data Protection Act	3,24,560,5,207,43,116,38,80,124,133,18,25,254,12,10,85,5,74,293,254,305,41,18,146,311,108,68,222,96,32,48,129,43,34,63,45,82,18,51,159,146,55,7,2,61,104,6,10,17,10,10,75,102,213,15,4,102,42,93,7,24,63,76,167,148,65,154,21,52,33,12,3,151,34,54,19,53,16,184,28,13,103,4,11,23,247,31,112,1,182,1,35,50,78,121,195,51,30,10,18,42,83,515,18,123,32,21,11,223,424,8,10,209,85,29,64,124,11,112,58,113,15,51,54,23,3,32,193,39,182,72,15,10,24,83,337,78,65,402,10,4,27,19,21,4,18,8,53,8,1,29,17,12,35,19,12,86,36,1,13,10,6,8,65,12,12,82,172,52,6,17,1,30,1,3,23,259,1,30,39,39,82,54,444,76,136,53,95,64,1,14,11,1,32,31,37,5,33,65,10,42,7,3,1,2,14,9,7,31,44,5,4,64,16,9,232,138,327,910,242,158
+Data Protection Act	3,24,560,5,207,43,116,38,80,124,133,18,25,254,12,10,85,5,74,293,254,305,41,18,146,311,108,68,222,96,32,48,129,43,34,63,45,82,18,51,159,146,55,7,2,61,104,6,10,17,10,10,75,102,213,15,4,102,42,93,7,24,63,76,167,148,65,154,21,52,33,12,3,151,34,54,19,53,16,184,28,13,103,4,11,23,247,31,112,1,182,1,35,50,78,121,195,51,30,10,18,42,83,515,18,123,32,21,11,223,424,8,10,209,85,29,64,124,11,112,58,113,15,51,54,23,3,32,193,39,182,72,15,10,24,83,337,78,65,402,10,4,27,19,21,4,18,8,53,8,1,29,17,12,35,19,12,86,36,1,13,10,6,8,65,12,12,82,172,52,6,17,1,30,1,3,23,259,1,30,39,39,82,54,444,76,136,53,95,64,1,14,11,1,32,31,37,5,33,65,10,42,7,3,1,2,14,9,7,31,44,5,4,64,16,9,232,138,327,910,242,158,806,22
 Data Protection Act 2011.pdf	12675
 Data Protection Act DSM Dispute Settlement	1243
 Data Protection Act Date	14435
@@ -1100,7 +1104,9 @@ Development and Labour Council Act	11280
 Development and Management of Indigenous Knowledge Act No	5246
 Diamond Export Levy Act	11181
 Digital Agricultural Information Act	14575
+Digital Charter Implementation Act	17780
 Digital Code Act	2679
+Digital Economy Act	17745
 Digital Government Act	12917,4477
 Digital Government Act Digital Government Strategy	12917
 Digital Health Act	2709,1444,1,1302,94,970,1781,633,921,176,4418
@@ -1168,11 +1174,13 @@ ESA Act	14748
 ESCCOM Act	12395,783,40
 ESCCOM Act. The Commission	13178
 ESWATINI COMMUNICATIONS COMMISSION ACT	13218
-EU AI Act	1814,2568,307,45,441,127,61,255,202,369,25,17,404,477,222,117,97,262,173,300,65,281,63,882,34,593,849,85,1075,465,3537
+EU AI Act	1814,2568,307,45,441,127,61,255,202,369,25,17,404,477,222,117,97,262,173,300,65,281,63,882,34,593,849,85,1075,465,3537,1568
 EU AI Act Enforcement	8629
 EU AI Act Jump	7972
 EU AI Act The EU AI	7451
+EU AI Act. Carnegie	17780
 EU AI Act. Examples	11135
+EU AI Act. Institute for European Policymaking	17780
 EU AI Act. This Act	12210
 EU Act	4734,1480,2134
 EU Artificial Intelligence Act	7966
@@ -1186,7 +1194,7 @@ EU's Cloud and AI Development Act	10088
 EU's Digital Markets Act	8436,256
 EU's Digital Services Act	8050,5217
 EU-US CLOUD Act	10088
-EU’s AI Act	4689,774,768,1985,475,1806
+EU’s AI Act	4689,774,768,1985,475,1806,7283
 EU’s Artificial Intelligence Act	11156
 EU’s Critical Raw Materials Act	10592
 EU’s Digital Services Act	7983
@@ -1744,7 +1752,8 @@ Kenya Digital Health Act The Digital	2709
 Kenya Finance Act	7786
 Kenya Information and Communication Act	12235,2192
 Kenya Information and Communication Act Cap	2530
-Kenya Information and Communications Act	2530,4416,601,1,3,2389,4691,630
+Kenya Information and Communications Act	2530,4416,601,1,3,2389,4691,630,2484
+Kenya Information and Communications Act Legacy	17745
 Kenya Kenya's Digital Health Act	8301
 Kenya National Library Service Act	9006
 Kenya National Qualifications Framework Act	7832
@@ -1753,17 +1762,18 @@ Kenya National Qualifications Framework Act. ENACTED	7832
 Kenya Registration of Persons Act	4439
 Kenya Revenue Authority Act	10822,3593
 Kenya's Computer Misuse and Cybercrimes Act	17658
-Kenya's Data Protection Act	4223,5515,2562,2,133,1999,90
+Kenya's Data Protection Act	4223,5515,2562,2,133,1999,90,3221
 Kenya's Data Protection Act No	1742
 Kenya's Digital Health Act	7707
 Kenya's Movable Property Security Rights Act	12297
 Kenya's Refugees Act	12227
 Kenya. Computer Misuse and Cybercrimes Act	6432
 Kenya. The Act	12151
+Kenya. The Kenya Information and Communications Act	17746
 Kenyan Data Protection Act	12302,2132
 Kenya’s Act	6161
 Kenya’s Computer Misuse and Cybercrime Act. Kennedy	8095
-Kenya’s Computer Misuse and Cybercrimes Act	8095
+Kenya’s Computer Misuse and Cybercrimes Act	8095,9650
 Kenya’s Data Protection Act	2459,2625,158,121,1069,89,482,708,7624
 Kenya’s Data Protection Act and Digital Health	6520
 Kenya’s Finance Act	14932
@@ -1888,6 +1898,7 @@ MFRS Act	14738,8
 MINDEUL of Supplementary Act	15363
 MINDFUL of ECOWAS Supplementary Act AlSA	11517
 MINING ACT	6921
+MLA Act	17745
 MRA Act	13053,1731,49
 MRA Act. Deregistration	14833
 MSB Act	14736
@@ -1964,7 +1975,7 @@ Mental Health Act	2727,10594,18,32,32,163,3730
 Mental Health Act No	13389
 Mental Health Care Act	11177,877,2689
 Merchandise Marks Act	3714,9186
-Merchant Shipping Act	14717
+Merchant Shipping Act	14717,3091
 Metrology Act	13403
 Metrology Act No	1988
 Micro and Small Enterprises Act	7548
@@ -1984,6 +1995,7 @@ Miscellaneous Amendment Act No	12227
 Miscellaneous Fees and Levies Act	7548
 Miscellaneous Regulations AN ACT	16887
 Misuse Act	12232
+Misuse and Cybercrimes Act	17745
 Mobile Money Transaction Levy Act	13496
 Modern ICT Act	17260
 Money Bills and Related Matters Act	11289
@@ -2001,7 +2013,7 @@ Municipal Finance Management Act and Municipal Borrowing	14997
 Municipal Structures Act	11182,369
 Municipal Systems Act	5872,5310,66,2,29
 Muslim Marriage and Divorce Act Cap	16873
-Mutual Legal Assistance Act	587
+Mutual Legal Assistance Act	587,17158
 NATIONAL DISABILITY COUNCIL ACT	13033
 NATIONAL ELECTIONS ACT	14852
 NATIONAL HEALTH ACT	1009
@@ -2044,6 +2056,7 @@ NHIS Act	16896
 NIA Act	3493
 NIGERIA DATA PROTECTION ACT	1220,10736
 NIGERIA TAX ADMINISTRATION ACT	11976
+NIMASA Act	17808
 NIMC Act	738,1087,248,585,4213,270,2,1,75,235,59,48,69,21,97,99,21,252,320,272,402,766,543,1,673,963
 NIMC Act A Facebook	7561
 NIMC Act No	4794
@@ -2533,7 +2546,7 @@ Public Procurement Act	2364,3085,2246,150,771,2632,31,716,603,363,70,6,310,150,8
 Public Procurement Act Government	7695
 Public Procurement Act. Ce	14841
 Public Procurement Act. Madam Speaker	14841
-Public Procurement and Asset Disposal Act	2512,3,3917,1116,1386,1379,1800,422,2011,1390
+Public Procurement and Asset Disposal Act	2512,3,3917,1116,1386,1379,1800,422,2011,1390,1851
 Public Procurement and Asset Disposal Act. GCSPs	6432
 Public Procurement and Assets Disposal Act	14449
 Public Procurement and Concessions Act	9088,4953,2802,7,99,88,143,214
@@ -2826,7 +2839,7 @@ Start-up Act Implementation	12053
 Start-up Act Tunisie	1247
 Start-up and Digital Enterprise Act	4970
 Startup ACT Mauritania	1271
-Startup Act	1247,1211,561,112,26,40,756,17,229,130,196,42,898,49,1370,1255,545,217,1057,54,53,627,103,1581,1856,1351,106
+Startup Act	1247,1211,561,112,26,40,756,17,229,130,196,42,898,49,1370,1255,545,217,1057,54,53,627,103,1581,1856,1351,106,2060
 Startup Act Djibouti	3953,17
 Startup Act Mauritanie	1247
 Startup Act Mauritanie II. Analyse	1247
@@ -2876,7 +2889,7 @@ Sudan’s Criminal Act and Articles	10334
 Sugar Industry Efficiency Act	7845
 Superior Courts Act	11190
 Superiority of Act	13299
-Supplementary Act	961,282,21,4099,6154,2328,589,929,1545,16,93
+Supplementary Act	961,282,21,4099,6154,2328,589,929,1545,16,93,728
 Supplementary Act Article	11517
 Supplementary Act. Article	11517,3846
 Supplementary Act. CHAPTER Vil	15363
@@ -3086,6 +3099,7 @@ Virtual Asset Act	3270,19
 Virtual Asset Service Providers Act	3793,1115,2699,227,863,6,608,223,2165
 Virtual Assets Act	12365
 Virtual Assets Providers Act	11699
+Virtual Assets Service Providers Act	17745
 Voter Registration Act	13248
 Voter Registration Act. The Commission	13248
 WAMZ Model Act	10408

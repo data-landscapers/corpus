@@ -67,6 +67,7 @@ Amref Health Africa Ethical and Scientific Review	11585
 Ana Horigoshi Research Scientist	7590
 Anhui YISHANG Digital Science Co. Ltd	189
 Animal Science	12972
+Annual Review of Law and Social Science	17780
 Annual Review of Political Science	7886
 Annual SG3 SO2 Data Scientist	17116
 Annual Scientific Conference	10523
@@ -93,6 +94,7 @@ Atmospheric Science Letters	16996
 Atomic Scientists	2518,2158
 Authority NCST Rwanda National Commission of Science	718
 Authority RSTP Royal Science and Technology Park	12444
+Authors and Affiliations Political Science Department	17780
 Availability of Science and Technology Parks	12389
 BINDURA UNIVERSITY OF SCIENCE EDUCATION	13368
 BRICS Science	6480
@@ -416,6 +418,7 @@ Faculty of Organizational Sciences	10780
 Faculty of Science	14775
 Faculty of Science and Engineering	4058
 Faculty of Social Sciences	13078,1697
+Faculty of Social and Behavioural Sciences	17780
 Faculté des Sciences	1183,5818,8422,251,8,677,126
 Faculté des Sciences Agronomiques	15682
 Faculté des Sciences Economiques	15797
@@ -517,7 +520,7 @@ IndabaX Hackathon Computer Science Society Staff	12361
 Independent International Scientific Panel	5074,1859,105,74,208,358,435,30,237,248
 Industrial Scientific and Medical	16872
 Informatics Geographical Sciences	12407
-Information Science	8022,4303,142,611,18
+Information Science	8022,4303,142,611,18,4688
 Information Science Literature	14790
 Information Science and Technology	9129,4823
 Information Sciences	9128
@@ -531,6 +534,7 @@ Innovative and Scientific Conference	8288
 Institut Supérieur des Sciences	10881,4884
 Institut des Sciences	3604,12332
 Institut des Sciences Agronomiques du Burundi	13290
+Institute of Applied Sciences Ruhengeri	17761
 Institute of Communication Sciences and Techniques	3604
 Institute of Mathematical Sciences GI-KACE Ghana-India Kofi	4126
 Institute of Science Tokyo	16329
@@ -681,6 +685,7 @@ Medical Laboratory Sciences	13368
 Medical and Health Sciences	1554
 Medicine and Clinical Sciences Medicin3e5a	1154
 Medicine and Health Science	12199
+Mediterr J Soc Sci	17773
 Medium Enterprises Standard Operating Procedures Science	4528
 Meru University of Science and Technology	5711,8835,117
 Meta AI Chief Scientist Shengjia Zhao	9592
@@ -770,7 +775,7 @@ National Commission of Computer Science	15679
 National Commission of Science and Tech	14947
 National Commission of Science and Technology	1154
 National Company of Science and Technology Parks	12786
-National Council for Science and Technology	12358,2564
+National Council for Science and Technology	12358,2564,2839
 National Council for Science and Technology. Equity	14922
 National Data Science Training Hub	13426
 National Deep Science Institute	4126
@@ -1007,6 +1012,7 @@ Schools. Open Journal of Social Sciences	11927
 Sci Data	14666
 Sci Description	15129
 Sci Pract	3791
+Sci Rep	17773
 Sci&title	1219,42
 SciDev.Net	4674
 SciDev.Net's Sub-Saharan Africa English	4674
@@ -1020,7 +1026,7 @@ SciPap	7886
 SciPy. Stats	17157
 Scidev.Net	4674
 Scien	12674
-Science	737,52,57,53,255,7,304,89,156,46,58,282,590,14,9,107,69,73,92,90,218,5,241,257,265,402,26,82,249,49,102,61,120,27,1,1,3,8,17,97,42,110,177,366,108,306,143,209,80,85,365,136,50,171,303,208,150,80,99,14,127,101,213,112,352,98,6,48,156,424,82,8,300,168,8,117,71,5,59,22,85,21,59,5,1,9,58,190,82,288,15,21,1,10,10,26,9,27,39,84,43,26,1,15,29,1,124,22,4,1,5,15,35,67,9,25,32,21,109,1,10,2,4,3,1,1,6,2,4,5,1,1,10,2,9,14,1,7,4,4,20,180,5,1,3,4,77,45,16,195,2,6,21,36,15,66,11,5,197,14,34,253,32,20,161,13,268,4,124,135,18,11,17,37,12,24,49,25,1,28,187,45,291,19,60,38,13,39,30,25,15,135,85,60,99,1,37,14,83,28,11,109,111,41,100,225,24,66,9,7,17,46,84,52,81,109,90,135,69
+Science	737,52,57,53,255,7,304,89,156,46,58,282,590,14,9,107,69,73,92,90,218,5,241,257,265,402,26,82,249,49,102,61,120,27,1,1,3,8,17,97,42,110,177,366,108,306,143,209,80,85,365,136,50,171,303,208,150,80,99,14,127,101,213,112,352,98,6,48,156,424,82,8,300,168,8,117,71,5,59,22,85,21,59,5,1,9,58,190,82,288,15,21,1,10,10,26,9,27,39,84,43,26,1,15,29,1,124,22,4,1,5,15,35,67,9,25,32,21,109,1,10,2,4,3,1,1,6,2,4,5,1,1,10,2,9,14,1,7,4,4,20,180,5,1,3,4,77,45,16,195,2,6,21,36,15,66,11,5,197,14,34,253,32,20,161,13,268,4,124,135,18,11,17,37,12,24,49,25,1,28,187,45,291,19,60,38,13,39,30,25,15,135,85,60,99,1,37,14,83,28,11,109,111,41,100,225,24,66,9,7,17,46,84,52,81,109,90,135,69,143
 Science Academy	4353
 Science Advances	15342,1121
 Science And Technology	899
@@ -1117,7 +1123,7 @@ Science and Technology Research Foundations	13952
 Science and Technology Research and Development Institutions	13952
 Science and Technology Service Institutions	13952
 Science and Technology and Innovation	12720
-Science and Technology for Development	12864,1894,2330
+Science and Technology for Development	12864,1894,2330,705
 Science and Technology for Development Theme	17238
 Science and Technology of Namibia	1554
 Science and Techology	16852
@@ -1391,9 +1397,10 @@ Urban Planning and Environmental Science	718
 Valorisation-Manicaland State University of Applied Science	1154
 Vietnam’s Minister of Science and Technology	9377
 Visit SciDev.Net	4674
-Web of Science	1248,4101,3322,1298,1059,5439
+Web of Science	1248,4101,3322,1298,1059,5439,1306
 Web of Science Google Scholar Atari M	8460
 Web of Science and Scopus	1248
+West East J Soc Sci	17773
 White House Office of Science	5216
 White House Office of Science and Technology	14601
 White House Office of Science and Technology Policy	10527,6901

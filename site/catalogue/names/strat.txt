@@ -486,6 +486,7 @@ Cascading the Strategy for Cross-cutting Themes	14997
 Cases STRATEGIC STRATEGIC AI	14566
 Ce Plan Stratégique National de Santé Numérique	16195
 Center NES National Electrification Strategy	15659
+Center for Strategic	17780
 Center for Strategic and International Studies	4676,566,2346,1176,140,2406
 Centers Sub-total of Strategy	16863
 Central African Regional Integration Strategy	15511
@@ -1434,6 +1435,7 @@ I. Strategic Context	13743
 I. Strategic Context A. Country Context	15372,2069
 I.2- ORIENTATIONS STRATEGIQUES	10858
 I.2- ORIENTATIONS STRATEGIQUES I.2.1- Objectif	10858
+IA. La Stratégie Nationale	17763
 IA. OBJECTIF STRATÉGIQUE	15583
 IAC A Strategic Hub for Innovation	13551
 ICAP Cameroun PLAN STRATEGIQUE NATIONAL	16195
@@ -1460,6 +1462,7 @@ ICT Strategies	12917
 ICT Strategy	12917,2687,438,1399
 ICT Strategy MoETE	15604
 ICT Strategy Norway Yes Digital Agenda	11529
+ICT and Telecommunications Sector. Strategic Direction	17746
 ICT for Education Strategy	12333
 ICT for Governance Cluster Strategy	12333
 ICT. The Strategy	12917
@@ -1469,6 +1472,7 @@ ICTs. Under the National Development Strategy	958
 ID Credentials Strategy	3427
 IDA I. STRATEGIC CONTEXT A. Country	17458
 IDP Management Policy and Strategy	12779
+IGAD AI Framework and Strategy	17803
 IGAD Regional Artificial Intelligence Framework and Strategy	17696
 IGAD Regional Strategy Volume	14434
 IHS Strategic Rationale and Digital Infrastructure	5752
@@ -1591,6 +1595,7 @@ Initial Strategic Action Portfolio and Costed Activities	17116
 Initiative Strategic Objective Rehabilitating	15578
 Initiatives and Key Target Outputs Strategic Objective	16858
 Inline With The Strategic Plan Improved	12515
+Innovation Balance F. Strategic Lessons for Kenya	17745
 Innovation Une Stratégie Nationale	16747
 Insight Description Our Strategic Move Insight	12512
 Institut Royal des Etudes Stratégiques	15512
@@ -1737,7 +1742,7 @@ LRA's Corporate Strategic Plan	11710
 LRA’s Corporate Strategic Plan	17011
 LSO60 Lesotho National Digital Transformation Strategy	1370
 La Stratégie	5786,2057,1216,2759,1624,2051,98,33,849,161,814
-La Stratégie Nationale	10914,51,4618,41,86
+La Stratégie Nationale	10914,51,4618,41,86,2053
 La Stratégie Nationale de Cybersanté	15583
 La Stratégie Nationale de Développement	14452,1090,708
 La Stratégie Nationale de Développement du Numérique	15710
@@ -1799,6 +1804,7 @@ Liberia’s National Strategy	17149
 Libya AI Strategy 2025 2030.pdf	17329
 Libya Launches National Strategy for Artificial Intelligence	3841
 Libya's National Artificial Intelligence Strategy	17291
+Libya's National Financial Inclusion Strategy	17744
 Libyan National Biodiversity Strategy and Action	17157
 Libyan National Statistics Development Strategy	16863
 Libyan National Statistics Development Strategy Libyan	16863
@@ -2323,7 +2329,7 @@ National Financial Access Strategy	12273
 National Financial Development Strategy	14674
 National Financial Education Strategy	12956,1084,957,133
 National Financial Inclusion Strat-	14897
-National Financial Inclusion Strategy	418,522,2467,488,981,341,921,1664,3328,8,448,320,54,34,255,21,139,35,257,255,96,262,624,959,1979,312,47
+National Financial Inclusion Strategy	418,522,2467,488,981,341,921,1664,3328,8,448,320,54,34,255,21,139,35,257,255,96,262,624,959,1979,312,47,509
 National Financial Inclusion Strategy DPI Distributed	12444
 National Financial Inclusion Strategy II	940,3025,10067
 National Financial Inclusion Strategy III	14674
@@ -2480,6 +2486,7 @@ National Strategy and Action Plan	12939,685,1118,9,23
 National Strategy and Costed Action Plan	14742
 National Strategy and Plan of Action	12977
 National Strategy and UN SDGs	12917
+National Strategy for AI	17780
 National Strategy for Artificial Intelligence	3826,15,1674,260,4366
 National Strategy for Birth Registration	10765,10
 National Strategy for Broadband Access	11529
@@ -2710,6 +2717,7 @@ PVHES Strategic Plan	13060
 Package Projects Strategically	17260
 Page The Strategic Plan	13504
 Pakistan NADRA Strategic Reform Unit	11007
+Pan-Canadian AI Strategy	17780
 Pan-Canadian Artificial Intelligence Strategy	11135
 Pan-Canadian Artificial Intelligence Strategy AI Technology	11135
 Parliament Digital Transformation Strategy	12580
@@ -3382,7 +3390,7 @@ Strat Session	13108
 Strat-	11909
 Strata Identity	2778
 Strateg Rev South Afr	9739
-Strategic	396,322,258,155,30,100,23,534,275,723,132,839,74,26,239,45,31,12,45,90,83,96,266,96,6,544,93,27,117,352,403,303,73,24,104,11,1,330,270,172,39,262,69,94,419,1126,30,554,463,53,12,99,37,40,114,2,1,59,4,1,32,7,52,319,200,144,13,21,20,132,72,4,27,54,32,32,73,68,12,18,4,1,23,353,51,41,50,27,15,27,190,2,17,1,86,52,17,198,250,3,44,9,517,57,1,10,25,73,55,16,73,61,42,1,13,10,2,18,20,12,26,13,3,25,100,178,131,77,69,42,8,44,12,176,68,8,193,266,416,6,3,11,11,1,31,28,6,21,5,36,81,24,41,103,29,75,77,98
+Strategic	396,322,258,155,30,100,23,534,275,723,132,839,74,26,239,45,31,12,45,90,83,96,266,96,6,544,93,27,117,352,403,303,73,24,104,11,1,330,270,172,39,262,69,94,419,1126,30,554,463,53,12,99,37,40,114,2,1,59,4,1,32,7,52,319,200,144,13,21,20,132,72,4,27,54,32,32,73,68,12,18,4,1,23,353,51,41,50,27,15,27,190,2,17,1,86,52,17,198,250,3,44,9,517,57,1,10,25,73,55,16,73,61,42,1,13,10,2,18,20,12,26,13,3,25,100,178,131,77,69,42,8,44,12,176,68,8,193,266,416,6,3,11,11,1,31,28,6,21,5,36,81,24,41,103,29,75,77,98,209
 Strategic AI Funding	15713
 Strategic Accounts	6270
 Strategic Achievements and Milestones Over	15120
@@ -3427,6 +3435,7 @@ Strategic Background	12175
 Strategic Background The Malawi MICS	12175
 Strategic Bargain	9119
 Strategic Bill Bill	6409
+Strategic Bloc Effect and Anticipated Reservations	17745
 Strategic Build	12512
 Strategic Business Groups	10157
 Strategic Business Initiatives	2552
@@ -3458,6 +3467,7 @@ Strategic D	16861
 Strategic DIRECTION	13005
 Strategic DPI and Delivery	5072
 Strategic Decisions	12210
+Strategic Defence Architecture	17792
 Strategic Delivery The Bank	11134
 Strategic Development	10856,6404
 Strategic Development Area	1867
@@ -3736,7 +3746,7 @@ Strategic Pillars and Objectives	14747
 Strategic Pillars and Objectives The National Cybersecurity	1777
 Strategic Pillars for Eswatini's National Fintech Strategy	12444
 Strategic Pillars. Members	14747
-Strategic Plan	789,211,131,767,1753,10,159,436,334,288,367,288,303,652,24,274,160,761,53,333,1346,46,622,1,668,4,505,47,24,173,7,17,363,70,233,22,39,57,29,186,46,70,18,73,192,22,4,28,2,35,38,15,13,124,133,112,27,28,467,12,20,698,25,6,21,79,74,51,38,14,127,309,7,31,3,4,86,429,665,160,25,1,1,11,26,21,25,5,12,153,19,78,22,38,69,34,140
+Strategic Plan	789,211,131,767,1753,10,159,436,334,288,367,288,303,652,24,274,160,761,53,333,1346,46,622,1,668,4,505,47,24,173,7,17,363,70,233,22,39,57,29,186,46,70,18,73,192,22,4,28,2,35,38,15,13,124,133,112,27,28,467,12,20,698,25,6,21,79,74,51,38,14,127,309,7,31,3,4,86,429,665,160,25,1,1,11,26,21,25,5,12,153,19,78,22,38,69,34,140,208
 Strategic Plan Based	16883
 Strategic Plan Code Of Ethics NDS2	12515
 Strategic Plan Committee	1131
@@ -4182,7 +4192,7 @@ Stratgeic Goals	15713
 Strathern and Pfeffer	7790
 Strathmore	1742,523
 Strathmore Business School	8623
-Strathmore University	1742,11,434,4284,964,2420,475
+Strathmore University	1742,11,434,4284,964,2420,475,7416
 Strathmore University Business School	8728
 Stratification	10976,898,7,465,57,2841,692,1107
 Stratification Criteria Stratification	13418
@@ -4199,7 +4209,7 @@ Strattcomm Director Sibusiso Mngadi	11666
 Stratum	15244
 Stratup	1574
 Straté	15479
-Stratégie	555,88,122,453,537,587,11,65,128,222,40,48,19,144,12,24,204,39,23,7,1,52,263,232,192,102,213,436,120,16,557,239,154,436,54,42,123,55,46,144,77,619,180,1,36,125,47,298,49,32,409,119,88,6,11,157,73,46,109,55,42,22,309,329,21,220,371,56,146,16,7,54,30,10,176,378,289,89,9,28,68,31,60,1226,2,102,9,132,151,13,105,5,61,411,1,102,2,26,1,28,57,85,801,35,16,5,9,5,3,16,30,38,11,8,25,8,41,12,35,2,2,6,3,13,20,33,49,2,48,38,25,4,34,2,11,25,10,22,31,47,4,23,1,20,55,19,146,3,1,50,48,43,60,8,13,682,1,124,6,9,8,7,106,56,13,85
+Stratégie	555,88,122,453,537,587,11,65,128,222,40,48,19,144,12,24,204,39,23,7,1,52,263,232,192,102,213,436,120,16,557,239,154,436,54,42,123,55,46,144,77,619,180,1,36,125,47,298,49,32,409,119,88,6,11,157,73,46,109,55,42,22,309,329,21,220,371,56,146,16,7,54,30,10,176,378,289,89,9,28,68,31,60,1226,2,102,9,132,151,13,105,5,61,411,1,102,2,26,1,28,57,85,801,35,16,5,9,5,3,16,30,38,11,8,25,8,41,12,35,2,2,6,3,13,20,33,49,2,48,38,25,4,34,2,11,25,10,22,31,47,4,23,1,20,55,19,146,3,1,50,48,43,60,8,13,682,1,124,6,9,8,7,106,56,13,85,25
 Stratégie Activités	10874
 Stratégie Agricole	13806
 Stratégie Burundi Large	13314

@@ -282,7 +282,7 @@ Pan Soutenu	11752
 Pan- Page	10819
 Pan-Africa	2224
 Pan-Africa E-network Project	13561
-Pan-African	36,141,876,506,168,78,216,114,100,13,535,653,103,57,309,247,308,498,166,27,151,577,207,1141,6,24,82,20,260,166,364,365,522,543,340,428,514,93,141,215,43,456,105,300,162,902,500,361,155,703,122,199,38,881,537,765,40
+Pan-African	36,141,876,506,168,78,216,114,100,13,535,653,103,57,309,247,308,498,166,27,151,577,207,1141,6,24,82,20,260,166,364,365,522,543,340,428,514,93,141,215,43,456,105,300,162,902,500,361,155,703,122,199,38,881,537,765,40,217
 Pan-African AI	11095
 Pan-African Anti-Corruption Network	15301
 Pan-African Clinical Trials Registry	11585
@@ -343,6 +343,7 @@ Pan-Africanism	1814,11011,139,1636
 Pan-Africanist	9739
 Pan-Atlantic University	6955,9598
 Pan-Atlantic University Foundation	72,299,511
+Pan-Canadian AI Strategy	17780
 Pan-Canadian Artificial Intelligence Strategy	11135
 Pan-Canadian Artificial Intelligence Strategy AI Technology	11135
 Pan-SSA Data Centres IFC	684
@@ -350,7 +351,8 @@ Panafricain URL	17465
 Panafricain de Johannesburg	15357
 Panafrican	12339
 Panafrique Développer	14683
-Panama	1243,5370,236,3865,71,61,71,88,558,46,1511,2351,29,614,135
+Panama	1243,5370,236,3865,71,61,71,88,558,46,1511,2351,29,614,135,1494
+Panama AMS HI	17743
 Panama Global Cybersecurity Index	10764
 Panama N	10714
 Panama Papers	3279,85

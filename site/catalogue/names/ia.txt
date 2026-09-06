@@ -41,6 +41,7 @@ Cocody-II-Plateaux. Impact IA	14320
 Code Implement IaC	11952
 Comité de Iniciativa Nacional de IA	3519
 Command Line. Querying the IATI	6982
+Concours National de Prototypage IA	17763
 Conferência de IA da SADC	2816
 Conferências de IA	2816
 Conselho Africano de IA	3519
@@ -255,7 +256,7 @@ IA. CAPÍTULO III PROTECÇÃO DOS DIREITOS	3519
 IA. CHANGEMENT	15583
 IA. CITADEL	2732
 IA. Ce	3940,4090
-IA. Cela	2582,1358
+IA. Cela	2582,1358,13809
 IA. Celle-ci	5029
 IA. Cem Sonel	5029
 IA. Ces	15583
@@ -303,10 +304,11 @@ IA. Incluir	2816
 IA. Investir	2816
 IA. Isso	3519
 IA. L'IA	13476
-IA. L'enjeu	10205
+IA. L'enjeu	10205,7544
 IA. L'objectif	5786,11857
 IA. L'organisation	9167
 IA. L'étude	9541,2564
+IA. La Stratégie Nationale	17763
 IA. Le Dr Kais Hammami	13728
 IA. Lors	7122,75
 IA. L’intégration	2582,1358
@@ -317,7 +319,7 @@ IA. Muitos	2816
 IA. Nessa	3519
 IA. Neste	2816
 IA. Nota	2690
-IA. Notre	15494
+IA. Notre	15494,2255
 IA. Nous	2732,733
 IA. Não	3334
 IA. O Canadá	2816
@@ -696,7 +698,7 @@ US CIA IaaS Centre	16923,1
 Uma IA	9558
 Under IAFS	16256
 Under IAFS-II	16256
-Une IA	3465,528,840,196,3190,7709,1715
+Une IA	3465,528,840,196,3190,7709,1715,120
 Union IaaS Infrastructure	11196
 United States. IAFOR Journal of Psychology	2518
 Unlimited IAM	15471

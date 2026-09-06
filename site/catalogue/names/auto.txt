@@ -148,6 +148,7 @@ Auto-allocation Mardi	3943
 Auto-assessment	8670
 Auto-assignment	12211
 Auto-ciblage	16645
+Auto-essentialization	17773
 Auto-generate REST	6423
 Auto-generated	2674
 Auto-populates	13037
@@ -193,7 +194,7 @@ Automate EMIS	13310
 Automate GAC	17364
 Automate Spectrum	5245
 Automate the Postal Clearance	13108
-Automated	28,543,649,876,578,977,210,1508,1063,10,496,852,340,306,360,711,274,1,107,381,69,211,295,285,3,5,41,428,332,13,3,1,30,225,22,156,160,102,268,10,1,29,83,279,1114,130,162,34,204,69,130,38,399,112,511,615,68,242,390
+Automated	28,543,649,876,578,977,210,1508,1063,10,496,852,340,306,360,711,274,1,107,381,69,211,295,285,3,5,41,428,332,13,3,1,30,225,22,156,160,102,268,10,1,29,83,279,1114,130,162,34,204,69,130,38,399,112,511,615,68,242,390,253
 Automated Assessment and Feedback	14812
 Automated Biometric	11986
 Automated Biometric Identification	11986
@@ -320,7 +321,7 @@ Automatic Weather Stations	11553,1175,2010,80,2129
 Automatic Weather Stations. Key Objectives	12728
 Automatically	9123,3296,2841,1897
 Automaticmapping	8606
-Automating	8436,409,392,1919,750,327,136,1633
+Automating	8436,409,392,1919,750,327,136,1633,3771
 Automating Data Capture KINGDOM	16631
 Automating Data Capture The Eswatini Revenue	16631
 Automating Inequality	11156
@@ -350,7 +351,7 @@ Automation of Operational Processes	5677
 Automation of Operational Processes Automation	5677
 Automation of Smart Invoice	12420
 Automationofduplicaterecord	8606
-Automatisation	4913,5111,507,180,2579,11,5,2172,59,12,101,111,286,594
+Automatisation	4913,5111,507,180,2579,11,5,2172,59,12,101,111,286,594,1142
 Automatisation des Fichiers	4924,36
 Automatisation des STAR-UEMOA	10711
 Automatiser	7390,259,2895,2746,51,172
@@ -430,6 +431,7 @@ Autonomía	1701
 Autonte	15584
 Autopax Limited Data Controller INST-612415FD98A NAIROBI	7167
 Autopax Limited Data Processor INST-612415FD98A NAIROBI	7167
+Autopia	17773
 Autopilot	5482,1016
 Autopilots	5482
 Autopista Bata-Mongomo Akurenam	4209
@@ -589,7 +591,7 @@ Autorite de Regulation du Nurnertque	15584
 Autoriteit Persoonsgegevens	8436
 Autoritfde	15584
 AutoritÈ	15394
-Autorité	37,76,122,330,200,204,14,25,206,17,53,366,340,77,194,29,224,142,74,62,1,87,58,12,70,49,180,13,88,155,15,31,119,142,30,33,19,165,63,9,74,6,65,4,259,28,116,61,70,60,49,34,120,14,65,14,200,11,34,338,13,125,16,9,33,6,140,139,7,16,22,222,69,90,10,26,43,218,30,23,87,25,27,88,26,29,101,227,48,69,70,110,180,91,125,131,79,2,208,153,5,68,83,17,105,13,150,191,213,216,26,151,35,16,83,29,81,19,2,58,46,1,50,34,69,46,128,4,11,40,18,1,1,12,58,9,117,47,12,416,13,146,35,171,111,1258,418,66,24,352,48,70,1,23,81,28,1,25,50,1,1,22,37,300,277,228,8,4,4,54,5,13,1,1,17,3,18,25,4,7,24,3,40,18,32,35,1,5,11,33,43,4,2,115,1,16,35,6,1,25,52,95,2,31,1,28,18,8,60,32,32,5,28,34,29,155,34,3,2,9,8,2,76,9,732
+Autorité	37,76,122,330,200,204,14,25,206,17,53,366,340,77,194,29,224,142,74,62,1,87,58,12,70,49,180,13,88,155,15,31,119,142,30,33,19,165,63,9,74,6,65,4,259,28,116,61,70,60,49,34,120,14,65,14,200,11,34,338,13,125,16,9,33,6,140,139,7,16,22,222,69,90,10,26,43,218,30,23,87,25,27,88,26,29,101,227,48,69,70,110,180,91,125,131,79,2,208,153,5,68,83,17,105,13,150,191,213,216,26,151,35,16,83,29,81,19,2,58,46,1,50,34,69,46,128,4,11,40,18,1,1,12,58,9,117,47,12,416,13,146,35,171,111,1258,418,66,24,352,48,70,1,23,81,28,1,25,50,1,1,22,37,300,277,228,8,4,4,54,5,13,1,1,17,3,18,25,4,7,24,3,40,18,32,35,1,5,11,33,43,4,2,115,1,16,35,6,1,25,52,95,2,31,1,28,18,8,60,32,32,5,28,34,29,155,34,3,2,9,8,2,76,9,732,296,14,32
 Autorité Administrative	9565,7052
 Autorité Administrative Indépendante	15636,74,2,224,679
 Autorité Administrative de Tutelle	16615
@@ -957,6 +959,7 @@ FOSSE D'AISANCES FOSSES D'AISANCES AMÉLIORÉE AUTO-AÉRÉE	13300
 Features Automatic Duplexing Consumables	34
 Ferramentas Automatizadas de Decisão de Emprego	2816
 Fichier Automatisé de Recherche	16143
+Financial Autonomy	17745
 Fiscal Autonomy Law	16943
 French Autorité	6477
 Full Nationwide Automation	16520

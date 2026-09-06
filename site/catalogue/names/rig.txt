@@ -54,7 +54,7 @@ Anti-Corruption Rights Every IIAG	10835,3,130,902,16,466,1,135
 Appraisal Rights	7198
 Arab Republic of Egypt Right Honourable Russell	13440
 Area Consumer Rights and Obligations Digital Literacy	5676
-Artificial Intelligence and Human Rights	11135
+Artificial Intelligence and Human Rights	11135,6645
 Artiﬁcial Intelligence and Human Rights	11135
 Assert Epistemic Media and Communication Rights Today	11028
 Audit Rights Extended	12302
@@ -238,7 +238,7 @@ Digital Accessibility Rights Evaluation Index Key	11935
 Digital Dignity and Fundamental Rights Integration	3861
 Digital ID Architecture and Rights	4863
 Digital Identification and Rights Realisation	6512
-Digital Rights	1250,2611,1652,38,1400,2986,4253,274
+Digital Rights	1250,2611,1652,38,1400,2986,4253,274,3318
 Digital Rights Alliance Africa	2549,6596,2255,92
 Digital Rights Attorney	5321
 Digital Rights Digital-rights	2622
@@ -358,6 +358,7 @@ Getting It Right	8088
 Getting Patient Records Right	12458
 Getting the Basics Right	16858
 Global Alliance of National Human Rights Institutions	13097,1654
+Global Digital Rights Coalition	17771
 Global Human Rights Framework Integration	3861
 Global Human Rights Framework Integration Universal	3861
 Global Right	11873
@@ -412,7 +413,7 @@ Human Rights Council Resolution	6949
 Human Rights Council Sixtieth	3583
 Human Rights Council Working Group	16958
 Human Rights Crisis	3584
-Human Rights Defenders	14742
+Human Rights Defenders	14742,3003
 Human Rights Defenders Network Strategic Plan	11586
 Human Rights Department	16958
 Human Rights Dialogue	11210
@@ -467,6 +468,7 @@ Human Rights and Gender Equity Digitalzentrum	1426
 Human Rights and Good Governance	10841
 Human Rights and Human Dignity	1814
 Human Rights and International	13948
+Human Rights and Multistakeholderism Engagement	17771
 Human Rights and Peoples	12201
 Human Rights and Promotion of Indigenous	15553
 Human Rights and Public Administration	12936,20
@@ -482,13 +484,15 @@ Human and People's Rights	1988,9917,81,1983,62
 Human and People's Rights AMUSI United Movement	12201
 Human and People's Rights. Attention	3583
 Human and Peoples Rights	3005,1748,8599,132,3467
-Human and Peoples' Rights	2958,204,421,278,2165,2459,262,652,261,793,312,76,676,187,497,738,94,1040,76,515,372,2294
+Human and Peoples' Rights	2958,204,421,278,2165,2459,262,652,261,793,312,76,676,187,497,738,94,1040,76,515,372,2294,415
+Human and Peoples' Rights Declaration of Principles	17771
 Human and Peoples' Rights and Article	7458
 Human and Peoples' Rights of Women	3583
+Human and Peoples' Rights. Article	17745
 Human and Peoples' Rights. Continued	3583
 Human and Peoples' Rights. Joof	9313
 Human and Peoples' Rights29	3583
-Human and Peoples’ Rights	961,853,1191,2316,212,655,763,727,1404,1647,46,320,5,1940,1369,333,119,13,2077,7,59,1,278
+Human and Peoples’ Rights	961,853,1191,2316,212,655,763,727,1404,1647,46,320,5,1940,1369,333,119,13,2077,7,59,1,278,449
 Human and Peoples’ Rights AKRM	14742
 Human and Peoples’ Rights Declaration of Principles	9416
 Human and People’s Right	14742
@@ -864,13 +868,14 @@ Right-sizing	6432
 Right. Journal of Economic Perspectives	13624
 Right. So	7065
 Rightly	4259
-Rights	3,24,485,446,12,241,9,113,648,128,198,370,328,578,46,85,147,1024,11,425,708,26,1092,20,381,435,365,734,657,55,547,29,389,6,10,9,28,7,16,2,1,74,25,23,8,60,43,14,440,82,158,92,13,16,1,1,1,18,232,6,7,1,1,9,3,35,52,74,8,2,3,1,11,1,14,22,99,173,230,3,18,47,18,28,26,2,7,40,17,51,183,13,24,78,24,211,267,3,11,49,398,13,12,59,224,25,99,33,15,18,19,101,9,90,206,42,41,58,131,297,935,3,12,9,14,76,8,13,143,182,34
+Rights	3,24,485,446,12,241,9,113,648,128,198,370,328,578,46,85,147,1024,11,425,708,26,1092,20,381,435,365,734,657,55,547,29,389,6,10,9,28,7,16,2,1,74,25,23,8,60,43,14,440,82,158,92,13,16,1,1,1,18,232,6,7,1,1,9,3,35,52,74,8,2,3,1,11,1,14,22,99,173,230,3,18,47,18,28,26,2,7,40,17,51,183,13,24,78,24,211,267,3,11,49,398,13,12,59,224,25,99,33,15,18,19,101,9,90,206,42,41,58,131,297,935,3,12,9,14,76,8,13,143,182,34,443,7
 Rights Action Plan	13097
 Rights Annex III	12241
 Rights Categories Internally Displaced Person	14074,391,2229,733
 Rights Commission	12201,1260,3716
 Rights Commission Office	16973
 Rights Committee's General Comment	9399
+Rights Concern	17745
 Rights Culture Democracy Education	9067
 Rights Foundation	7983,3045
 Rights Foundation. Cover	6029
@@ -942,6 +947,7 @@ Rights of Way	12389,2490,1993
 Rights of Way and Buffer Zones	14947
 Rights of Women	1988,3545,2145,3087,10,418,793,215,738,101,908,83,118,2802,7
 Rights-Based Framework Aligned	15224
+Rights-Based Lesson	17745
 Rights-based	11156,2525
 Rights-compatible	17114
 Rights-compliance	17099
@@ -1028,7 +1034,7 @@ Social and Cultural Rights. Revitalized Agreement	3583
 Social and Cultural Rights. South Sudan	3583
 Socio-Economic Rights Institute	11660,2533
 Socio-Economic Rights and Accountability Project	7458,3642
-South African Human Rights Commission	5806,499,3377,659,112,237,32,7,536,579,2333
+South African Human Rights Commission	5806,499,3377,659,112,237,32,7,536,579,2333,3597
 South African Human Rights Commission Act	6305,4960,579
 South African Human Rights Commission URL	14673
 South African Human Rights Commission's Policy	10453
@@ -1039,6 +1045,7 @@ South Sudan Human Rights Defenders Network	17609
 Southern Africa Digital Rights	1642,17,157
 Southern Africa Digital Rights. Historical	1816
 Southern Africa Digital Rights. Named-analyst	1642
+Southern African Music Rights Organisation	17773
 Special Drawing Rights	1264,9565,302,3,415,375,1832,295,818,43,746,486,792,299
 Special Drawing Rights Department	7845
 Special Drawing Rights SAT	15424
@@ -1046,6 +1053,7 @@ Strength of Intellectual Property Rights Protection	12389
 Strengthen Disability Rights Implementation	17177
 Strengthen Disability Rights Implementation Feb	17177
 Strengthen Disability Rights Implementation URL	17177
+Strengthening the Legal Framework for Digital Rights VII	17745
 Stronger Rights Protections	9937
 Stronger Rights Protections By Patricia Ainembabazi	9145
 Study AI Patentability and Digital Rights	7624
@@ -1068,7 +1076,7 @@ Toxics and Human Rights	14742
 Trade-Related Aspects of Intellectual Property Rights TVET	11250
 Transparency Anti-Corruption Participation Rights Inclusion	10759
 Trend Slowing Deterioration Rights	12341
-UN High Commissioner for Human Rights	15001
+UN High Commissioner for Human Rights	15001,2770
 UN Human Rights	12201
 UN Human Rights Commission	12201
 UN Human Rights Committee	12201,758

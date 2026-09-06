@@ -67,7 +67,7 @@ Dave Manneh	5035
 Davenport and Mittal	7789
 Daventry Street	11198
 Davey	15342
-David	4429,3017,1142,88,2066,221,43,1,1460,481,1727,798,307
+David	4429,3017,1142,88,2066,221,43,1,1460,481,1727,798,307,1993
 David A Yates	10644
 David A and Elliott	14675
 David A. Yates	3092,5059
@@ -83,6 +83,8 @@ David Barnard	8713
 David Behr	9720
 David Birch	11705
 David Borketey	8724
+David Bowie	17773
+David Bowie Simulator	17773
 David Bunei	4796,2273
 David CARRENA	16545
 David David	12478
@@ -92,6 +94,7 @@ David Dzigba	5788
 David Eaves	4259,170,1271,721,24,1026,3381,154
 David Edoja	10164
 David Eurin	965
+David Fanshawe	17773
 David Fayon	15512
 David Gichuru	10661
 David Goldman	5863
@@ -99,7 +102,7 @@ David Gonahasa	3065,2184
 David Gyedu	8479
 David H. Haindongo	12478
 David Higgins	6423
-David Indeje	9648,598
+David Indeje	9648,598,7535
 David J. Gbakolo	17116
 David K	10985
 David Kabata	10330
@@ -184,13 +187,14 @@ Davies	3782,4846,1137
 Davies Chikalanga. Zambia	3014
 Davin Muthoni29th	8216
 Davins Horiode	16100
-Davis	2948,2401,1929,852,541,3256,79,972,1529,2892
+Davis	2948,2401,1929,852,541,3256,79,972,1529,2892,374
 Davis AI	16825
 Davis Chikalanga	7879
 Davis Chirchir	1245
 Davis FD. Perceived	10919,3747
 Davis FD. User	14666
 Davis GB	14666
+Davis JL	17773
 Davis Moshweunyane	7850
 Davis and Bavanandan	5957
 Davis and Granić	8130
@@ -312,7 +316,7 @@ Mr. David Birech	14505
 Mr. David Collison and Margaret Ann Wilson	15988
 Mr. David Mathiu	14505
 Mr. David Maxwell Bessah	3384
-Mr. David Mugonyi	6946,7575
+Mr. David Mugonyi	6946,7575,3225
 Mr. David Mugonyi EBS	6946
 Mr. David Nchinga	34
 Mr. David Ogundipe and Mr. Salami Toluope	8648

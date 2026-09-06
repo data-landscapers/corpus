@@ -1072,7 +1072,7 @@ Kariba North Bank Power Station	12382
 Kariba Power Station	408,9050
 Karibib Karibib Fire Station Harambee	13046
 Kazakhstan Station	13666
-Kenya National Bureau of Statistics	497,1950,328,3741,3,12,7,408,17,585,979,2295,1316,13,76,4,20,2054,105,5,70,38,71
+Kenya National Bureau of Statistics	497,1950,328,3741,3,12,7,408,17,585,979,2295,1316,13,76,4,20,2054,105,5,70,38,71,3164
 Kenya National Bureau of Statistics Data	7548
 Kenya National Bureau of Statistics ISBN	2775
 Kenya National Bureau of Statistics KoTDA Konza	6946
@@ -1987,6 +1987,7 @@ Sector Statistics Committees	13343
 Sector Statistics Plan	13343
 Sector Statistics Plans	1188
 Sector Statistics Report	3898,2932,3992,1440
+Sector Statistics Reports	17745
 Sectoral Statistical Systems	14860
 Sectoral and Institutional Context The National Statistical	16293
 Senior Statistical Knowledge Management Officer	13157

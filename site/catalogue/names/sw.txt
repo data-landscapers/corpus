@@ -191,7 +191,7 @@ IMIS. The Swiss Tropical and Public Health	10970
 IMTT Affects Every Swipe and Transfer	3016,2546
 INCLUSIVE GAMBIA Germany Japan Sweden Switzerland	16973
 Impersonation Sim Swap Related Fraud Remittance	17362
-India CIS Europe Russian Federation Switzerland	10844,719
+India CIS Europe Russian Federation Switzerland	10844,719,6180
 Innovation SWOT Strength	4126
 Instant Core Payments Switch	12269
 Instant Payment Switch	6355
@@ -672,8 +672,9 @@ Swazis	2885
 Swe Tax Agency	33
 Swearing	12531
 Swear’n’Slash	3395
-Sweden	8,11,11,1,1,59,19,5,33,58,291,270,121,82,49,136,1084,1,133,575,326,309,965,754,111,1200,36,141,59,30,769,111,127,974,352,212,221,1069,4,67,61,18,322,1,7,335,80,248,294,41,16,19,51,47,8,2,166,596,117,96,22,94,611,715,255,86,322,56,47,528,480,54,287,422
+Sweden	8,11,11,1,1,59,19,5,33,58,291,270,121,82,49,136,1084,1,133,575,326,309,965,754,111,1200,36,141,59,30,769,111,127,974,352,212,221,1069,4,67,61,18,322,1,7,335,80,248,294,41,16,19,51,47,8,2,166,596,117,96,22,94,611,715,255,86,322,56,47,528,480,54,287,422,454
 Sweden Approves Lifesaving New Anticipatory and Early	15093
+Sweden EUR HI	17743
 Sweden Global Cybersecurity Index	10764
 Sweden Government	13896
 Sweden Reaffirm	17057
@@ -822,22 +823,25 @@ Switching Centres	15205
 Switching Companies	6935,9943
 Switching System	16844
 Switching and Processing Licence Granted	11138
-Switzerland	789,181,273,1216,606,1028,34,769,68,291,1358,430,92,283,10,4,97,99,131,915,393,61,133,291,189,973,4,46,16,5,61,18,55,138,78,289,139,46,313,229,821,108,42,86,6,86,161,351,930,217,170,2,91,7,242,7,103,132,120,747,51,351,81,172
+Switzer-	17743
+Switzerland	789,181,273,1216,606,1028,34,769,68,291,1358,430,92,283,10,4,97,99,131,915,393,61,133,291,189,973,4,46,16,5,61,18,55,138,78,289,139,46,313,229,821,108,42,86,6,86,161,351,930,217,170,2,91,7,242,7,103,132,120,747,51,351,81,172,508
 Switzerland Agriculture	970
+Switzerland EUR HI	17743
 Switzerland Email	10764,80
-Switzerland Geneva	10764,80,719,3908
-Switzerland ISBN	10764,799
+Switzerland Geneva	10764,80,719,3908,2272
+Switzerland ISBN	10764,799,6180
 Switzerland Identity Card	10714
 Switzerland Office of Deputy Director and Regional Presence	10764,80
 Switzerland Published	10844,4627
 Switzerland Rwanda’s National Heroes Day	15131
 Switzerland Sensi Tech Innovation Hub Sierra	15460
-Switzerland Switzerland Email	11563
+Switzerland Switzerland Email	11563,6180
 Switzerland Tel	16892
 Switzerland and African	7418
 Switzerland and Canada	2626
 Switzerland and EEA	15471
 Switzerland and GWP	17157
+Switzerland and Permanent Representative	17793
 Switzerland for UNHCR	16580
 Switzerland's SDC	8985
 Switzerland. Experts	11424

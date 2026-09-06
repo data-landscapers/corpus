@@ -553,7 +553,7 @@ Atlancis Technolo- KShs	6946
 Atlancis Technologies	5368
 Atlancis Technologies Limited	5368
 Atlanta	5700,3428,2784,5555
-Atlantic	411,600,202,1581,36,35,210,18,264,425,58,12,448,376,234,1259,97,42,102,1555,1082,785,256,1447,328,1597,1,2057,1136,62,170,228
+Atlantic	411,600,202,1581,36,35,210,18,264,425,58,12,448,376,234,1259,97,42,102,1555,1082,785,256,1447,328,1597,1,2057,1136,62,170,228,666
 Atlantic Asset Management	6883
 Atlantic Coast	17099,15
 Atlantic Coast of West Africa	17099,15
@@ -754,7 +754,7 @@ Attachés de Cabinet	16099,76
 Attachés de Presse	16175
 Attack	1938,3659,473,1401,2344,6998
 Attack Monarch	10274
-Attackers	8640,71,1314,2277,4511
+Attackers	8640,71,1314,2277,4511,933
 Attacking U.S. Tech Firms Won’t Help	6582
 Attacks	5247,430,2527,2012,1770,4898
 Attacq	2246,293
@@ -777,7 +777,7 @@ Atteintes	15429,59,54
 Attempt	11179,1280,2934
 Attempted	15164
 Attempting	11190,1738
-Attempts	961,2346,676,1550,1146,3736,1494,9,68,241,1087,1422,229,508,2257
+Attempts	961,2346,676,1550,1146,3736,1494,9,68,241,1087,1422,229,508,2257,13
 Attend	2119,5665,4469,103,4111,647
 Attend Global Summit	16275
 Attend Toolbox	1988
@@ -848,7 +848,7 @@ Attorney Advertising. Copyright	11880,421
 Attorney Annual	7548
 Attorney Establish	7548
 Attorney Expand	7548
-Attorney General	3,1151,44,45,586,618,558,302,265,1181,697,43,1313,742,1301,100,128,136,432,1,92,336,1055,2,1,475,68,178,13,229,56,89,50,10,297,291,4,44,104,14,43,31,233,31,109,158,350,334,66,51,293,73,11,26,6,22,97,19,39,1789
+Attorney General	3,1151,44,45,586,618,558,302,265,1181,697,43,1313,742,1301,100,128,136,432,1,92,336,1055,2,1,475,68,178,13,229,56,89,50,10,297,291,4,44,104,14,43,31,233,31,109,158,350,334,66,51,293,73,11,26,6,22,97,19,39,1789,910
 Attorney General AGOA African Growth and Opportunity	2775
 Attorney General ASFR Age Specific Fertility	12151
 Attorney General Githu Muigai	9645
@@ -889,7 +889,7 @@ Attorney Technologies Emerging Technologies Act	7548
 Attorney's General Office	14770
 Attorney- General	587,8391
 Attorney-At-Law	14778
-Attorney-General	3,584,1401,721,33,1090,696,1370,25,864,661,46,2819,802,349,325,64,4,119,169,86,281,398,395,6,7,4,49,16,117,844,62,12,172,120,1,27,1,31,19,16,1702
+Attorney-General	3,584,1401,721,33,1090,696,1370,25,864,661,46,2819,802,349,325,64,4,119,169,86,281,398,395,6,7,4,49,16,117,844,62,12,172,120,1,27,1,31,19,16,1702,1234
 Attorney-General of Zimbabwe	13493
 Attorney-General's Department	15894
 Attorney-General's Office	783,8616,906,4412
@@ -1084,7 +1084,8 @@ Body FBC HOLDINGS ATTAINS ISO	13634
 Bonafide and Atom Finance	16942
 Botnet Attacks	3214
 Breega and Attijariwafa Ventures	7015
-Brute Force Attacks	6671
+Brute Force Attack Trends	17746
+Brute Force Attacks	6671,11075
 Bula Atumba. ACC	11824
 Burkina ATA	8886
 BusinessSouth SudanAteny Wek AtenyDigital	12866
@@ -1184,7 +1185,7 @@ Contribuições Atraso	11532
 Controllers ATOS Approved Training Organizations ATPL	2775
 Couleur Cibles Atteignables	16012
 Counselor Ahmed Saad Abdel Ati	14373
-Creative Commons Attribution	1212,6519,28,262,1,108,153,153,1303,20,955,51,10,37,2,163,172,396,27,21,3,287,123,1,83,238,206,292,486,1,1,703,709,171,34,1,132,383,27,6,13,221,1,9,742,160,316
+Creative Commons Attribution	1212,6519,28,262,1,108,153,153,1303,20,955,51,10,37,2,163,172,396,27,21,3,287,123,1,83,238,206,292,486,1,1,703,709,171,34,1,132,383,27,6,13,221,1,9,742,160,316,831,7
 Creative Commons Attribution CC	9025,1689,249,1,13,159,13,730,376,1057,2,1583,550,33,1396,66
 Creative Commons Attribution International License	11927
 Creative Commons Attribution License	8376,2543,1084,228,15,1877,543,1358
@@ -1193,7 +1194,7 @@ Creative Commons Attribution NonCommercial-ShareAlike	11376
 Creative Commons Attribution-	15129
 Creative Commons Attribution-4.0 International	15118
 Creative Commons Attribution-Non Commercial-Share Alike	13889,99
-Creative Commons Attribution-Non- Commercial-Share Alike	10844,719,3908
+Creative Commons Attribution-Non- Commercial-Share Alike	10844,719,3908,2272
 Creative Commons Attribution-Non-Commercial	10841
 Creative Commons Attribution-NonCommercial	12467,240
 Creative Commons Attribution-NonCommercial-NoDerivatives	5656,5128,370,1,1100
@@ -1263,6 +1264,7 @@ Data ATI Access	17105
 Data Embassies Are Gaining Attention	3907
 Data Protection Office and The Attorney	14726
 Data Sheet. Attending	13037
+Database Attacks	17746
 Deadly Attacks	10025
 Deneys Attorneys	9127
 Department of Atmospheric Science	15715
@@ -1275,9 +1277,12 @@ Direitos Humanos. Até	10752
 DisCos. The ATC&C	12062
 Discriminatory Attitudes	15247
 Distinguished Attendees	15026
+Distributed Denial of Service Attacks	17746
+Distributed Denial-of-Service Attacks	17746
 Djamel Atamna	16171
 Document An Attorney-at-Law	14828,3
 Documento Atraso	11532
+Domain Attacks	17746
 Dominique ATCHAWE	16485
 Double Tax Agreements. ATAF	3161
 Dr. Atangana Stephane Introduction Artificial Intelligence	16050
@@ -1346,6 +1351,7 @@ Entreprises ATE Autorisation Temporaire	16249
 Environmental Expert Ato Mentesnot Tesfaye	12195
 Escola Primária Atanazio Andrade	15380
 Especializada de Atendimento	11368
+Essonioumondom Atcholadi	17759
 Esta da ENTD.GW. Atenção	11569
 Estadístico-Demógrafo Atanasio Ntutumu NCOGO BETO	16962
 Estatutos da ATCV	15912
@@ -1450,6 +1456,7 @@ Horário de Atendimento	11368
 Human and People's Rights. Attention	3583
 I'hébergeur. CHAPITRE III DES ATTEINTES AUX	15429
 I.2 ATTRIBUTIONS DU MINISTERE	13500
+ICS Attacks	17746
 IDD09 Ines Melissa Emma Attoua Team	1284
 II. Attacks	12677
 III. Atividades	17147
@@ -1632,7 +1639,8 @@ Mme Léa Virginie ATSAME IRANGA MIDOUNGANI	16175
 Mme MVOU LOUBA Idlège Anouchka. Attachés	16381
 Mme. Barbara Jacqueline DJOMBOUE ATSAME. MINISTERE	16099
 Mme. Hafida Attallah	16344
-Mobile Application Attacks	6671
+Mobile Application Attack Trends	17746
+Mobile Application Attacks	6671,11075
 Modelos Institucionais Até	11456
 Modelos de Atestado	11419
 Mohammed El-Tahir Atmani	15410
@@ -1688,6 +1696,7 @@ Net Attendance Rate	12413
 Net School Attendance Rate	12431
 NetOne Remains Idle O-Mari’s CABS ATM	6996
 Network Attached Storage	9123
+Network Attacks	17746
 Never Attend	15244
 Never Attended	15244,1677
 News ATCON President	11168
@@ -2032,6 +2041,8 @@ Sustainability. Promote and Attract Investment. Training	13295
 Swakopmund Municipality Training Hall Atlantic Junior	13046
 Swimming Pool Attendant	14760
 Swiss Attorney General	4127
+System Attack Trends System Attacks	17746
+System Attacks	17746
 Systèmes RESULTATS ATTENDUS Acquisition	10712
 T REGLEMENTAIRE ATIVE AND STATUTORY AFFAIR	10974
 T-I18. Senior AI Experts Cultivation and Attraction	15713
@@ -2097,7 +2108,8 @@ Voltar Canais de Atendimento Fale	1192
 WEST AFRICA COUNTRY ATTRACTIVENESS	10861
 WEST AFRICA COUNTRY ATTRACTIVENESS TO DATA	10861
 Water Sanitation Cooking Fuel School Attendance	15244
-Web Application Attacks	6671,275
+Web Application Attack Trends	17746
+Web Application Attacks	6671,275,10800
 Web Application Attacks System Attacks Mobile	6671
 Web of Science Google Scholar Atari M	8460
 Werksmans Attorneys Skip	6727

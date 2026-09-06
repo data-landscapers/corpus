@@ -415,7 +415,7 @@ International Computer Driving License	10865,4648,40
 International Courier License	718
 International Gateway License	762
 International Licence	14726
-International License	5656,4083,1045,222,1,147,1,852,83,137,28,212,19,221,119,1245,860,1
+International License	5656,4083,1045,222,1,147,1,852,83,137,28,212,19,221,119,1245,860,1,2841,7
 International Public License. Any	10841
 Internet Applications License	15282
 Internet Service Provider License	762
@@ -830,6 +830,7 @@ N Licensees Total Number of Gateways	3862
 NAICOM Issues New Licences	9117
 NAICOM Revokes Nigeria Reinsurance’s Licence	9117
 NATURE DE LA LICENCE	15394
+NBR Licence Passporting MoU	17745
 NEA Licensing Regulations	15025
 NETWORK ACCESS The Licensee	15149
 NGO's. Issuance of Value-Added Services License Process	15283

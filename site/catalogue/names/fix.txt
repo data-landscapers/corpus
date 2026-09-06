@@ -123,7 +123,7 @@ Fixation des Conditions	13313
 Fixation des Conditions de Mise	15497
 Fixação	11518,2,1333,2505
 Fixe Taux	998
-Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58,379,165,94,2,784,53,117,353,215,17,44,223,16,69,167,52,47,40,106,145,105,685,258,73,6,11,40,35,261,14,129
+Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58,379,165,94,2,784,53,117,353,215,17,44,223,16,69,167,52,47,40,106,145,105,685,258,73,6,11,40,35,261,14,129,364,12
 Fixed Annual	13331
 Fixed Asset	13053,2037
 Fixed Asset Management Units	9004
@@ -131,6 +131,7 @@ Fixed Asset Register	9004
 Fixed Assets Coverage	11955
 Fixed Assets Register	16978
 Fixed Assets Tax	12452
+Fixed BB	17743
 Fixed BB Subscription	13314
 Fixed Base Rate	16219
 Fixed Based Rate	16219
@@ -288,7 +289,7 @@ Fixed Wireless Subscriptions Fixed Line Subscriptions	12395
 Fixed Wireless Telephone	12395
 Fixed Wireless and Fiber Access Network Expansion	956
 Fixed Wireless-Fixed Wireless	6671
-Fixed and Mobile	14836
+Fixed and Mobile	14836,2907
 Fixed and Mobile Last Mile Solutions	14879
 Fixed and Mobile Network Facilities. Application	15205
 Fixed and Mobile Network Services	2775
@@ -308,7 +309,8 @@ Fixed-Wireless Telephone Subscriptions	12395
 Fixed-Wireless-Internet-Works.jpg	7110
 Fixed-broad	10844
 Fixed-broadband	6648,298,3898,719,2535,799,574
-Fixed-broadband Internet	11563,402
+Fixed-broadband Entry-level	17743
+Fixed-broadband Internet	11563,402,5778
 Fixed-effect	10881
 Fixed-effects	10852
 Fixed-line	1013,1763,1783,6652,1184,2441,61
@@ -340,6 +342,8 @@ Frequency Assignments for Non-Protected Fixed Links	6946
 Frequency Assignments for Non-Protected Fixed Links Band	6946
 Furniture and Fixtures	16978
 G Fixed Wireless Access	6100,10710
+G and Mobile Fixed Mobile Fixed Indi-	17743
+G and Mobile Fixed Mobile Fixed Individ-	17743
 GSM FIXED ISP VAS C&I OTHERS	3862
 Gabon Telecom Fixe GVA GBM Comparativement	15706
 General UI Improvement Minor Bug Fixes	15867
@@ -365,6 +369,7 @@ Incoming Fixed	3862
 Incoming Fixed International	3862
 Incoming Fixed International Traffic for MTN	3862
 Incoming Fixed Voice Traffic	6671
+Indicator Definition Fixed	17743
 Indicator Fixed-telephone	14897
 Interconnection and Provision of Fixed Links	15261
 International Fixed Voice Traffic	6671,8465
@@ -409,6 +414,8 @@ Mn Fixed Service and IoT	3898
 Mobile Data and Fixed Broadband	11262
 Mobile Drive Test and Fixed Internet Test	12616
 Mobile Fixed	1013
+Mobile Fixed Mobile Fixed Indi- Indi-	17743
+Mobile Fixed Mobile Fixed Individ- Individu-	17743
 Mobile Network Operators Fixed Network Operators	12395
 Mobile and Fixed Network	2776
 Mobile and Fixed Network Breakdown of Off- Q3	2776

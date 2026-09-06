@@ -205,6 +205,7 @@ Arab Republic of Egypt. The Executive Regulations	15484
 Areas of Collaboration National Regulatory Authorities	5676
 Arms Regulations	5773
 Arrangement of Regulations	1020
+Artificial Intelligence Regulation	17780
 Artificial Intelligence Regulation Act	8991
 Artificial Intelligence Regulatory Sandboxes	6331
 Assembly of Telecommunications Regulators of West Africa	5679
@@ -358,6 +359,7 @@ CHAPITRE IV DE I'AUTORITE DE REGULATION	15429
 CIC REGULATED NWDT SACCO SOCIETY LTD	7167
 CII Regulations	5780
 CIRCULAR TO ALL STAKEHOLDERS REGULATORY GUIDELINES	11861
+CMCA Regulations	17745
 COMESA Competition Regulations and Competition Rules	961
 COMMUNICATION REGULATED NON-WDT SACCO SOCIETY LTD	7167
 COMMUNICATIONS REGULATORY AUTHORITY OF NAMIBIA No	13071
@@ -456,6 +458,7 @@ Companies Act Regulations	12041
 Company Embedded Generation Eswatini Energy Regulatory	12969
 Company Law Regulations	14891
 Comparative Constitutional and Regulatory Analysis	10270
+Competing Regulatory Frameworks	17745
 Competition Regulation	15120
 Competition Regulation Acknowledging	15120
 Competition Regulation Over	15120
@@ -650,6 +653,8 @@ Digital Platforms The Regulator	14357
 Digital Policy and Regulation	13347
 Digital Policy and Regulatory Index	6593,188,80,7813
 Digital Regular	16963
+Digital Regulation	17743
+Digital Regulation Handbook	17743
 Digital Regulation and AI Governance	4577
 Digital Regulations	1347,40,10774
 Digital Regulatory Authority Create	11906
@@ -742,6 +747,7 @@ EU Deforestation Regulation. Given	17019
 EU Delegated Regulation	7548
 EU General Data Protection Regulation	962,1762,4212,1086,4937,2190,1775
 EU Policy and Regulation Initiative for Digital Africa	1264
+EU Regulatory Ambitions	17780
 EU Timber Regulations. Communication	16848
 EU's General Data Protection Regulation	4763,5325
 EUSSC Regulations	4732
@@ -878,7 +884,7 @@ Ethics and Regulatory Framework AI Research	4528,7984
 Ethics and Regulatory Framework Strategic Objective	4528,7984
 Ethiopian Investment Holdings Regulation No	14024
 European General Data Protection Regulation	12232
-European Journal of Risk Regulation	11050,90
+European Journal of Risk Regulation	11050,90,6640
 European Union Deforestation Regulation	11659,5494
 European Union General Data Protection Regulation	3861,10891
 European Union Policy and Regulation Initiative for Digital	1264
@@ -1047,7 +1053,7 @@ Gambling Regulatory Board	14828
 Gateway Regulations	17250
 Gazette. T. MUFETI CHAIRPERSON COMMUNICATIONS REGULATORY	13071
 Gazettment of Regulations	12912
-General Data Protection Regulation	842,234,1763,119,1087,706,615,121,900,549,145,885,80,390,311,29,1988,55,29,306,1,1,506,15,555,2202,295,743,40,1411,1
+General Data Protection Regulation	842,234,1763,119,1087,706,615,121,900,549,145,885,80,390,311,29,1988,55,29,306,1,1,506,15,555,2202,295,743,40,1411,1,821,35
 General Data Protection Regulation Acts	1243
 General Data Protection Regulation English	9067
 General Data Protection Regulation GREAT	5244
@@ -1150,7 +1156,7 @@ ICT Regulatory Authority	2759,8152
 ICT Regulatory Authority of Côte	7189,2734
 ICT Regulatory Database	11529
 ICT Regulatory Sandbox	6946
-ICT Regulatory Tracker	10844
+ICT Regulatory Tracker	10844,6899
 ICT Regulatory Transformational Strategy and Roadmap. Four	15120
 ICT Responsive Regulation	6946
 ID. While the Malawi Communications Regulatory Authority	12187
@@ -1284,6 +1290,7 @@ JOÃO MANUEL GONÇALVES LOURENÇO. REGULAMENTO	744,50
 JUN The Postal and Telecommunications Regulatory Authority	13650
 Joint External Evaluation of International Health Regulation	11912
 José Mário Vaz. REGULAMENTO GERAL	11527
+Journal of Banking Regulation	17780
 Jun-25 Core FSIs for Deposit Takers Regulatory	17257
 Junho. O Regulamento	11795
 Jurisdictional Complexity and Regulatory Overlap	4848
@@ -1497,6 +1504,7 @@ Mauritius. Under the Regulations	14839
 Mavuso Director Financial Regulation Lindiwe Mlambo	11131
 Mayamiko Nkoloma. The Malawi Communications Regulatory	7413
 Meaningful Information Regulator	6512
+Measuring Digital Development and Global Digital Regulatory	17743
 Media Coverage Regulations Article	15393
 Media Regulatory Authority The Ministry	2311
 Medical Aid Funds Regulations	12598
@@ -1951,7 +1959,7 @@ Public Finance Management Regulation	15147
 Public Investment Management Regulations	5793
 Public Procurement Regulations	14766
 Public Procurement Regulatory Agency	17558
-Public Procurement Regulatory Authority	1284,354,3811,184,4871,325,4721
+Public Procurement Regulatory Authority	1284,354,3811,184,4871,325,4721,2237
 Public Procurement Regulatory Authority Promote	7548
 Public Procurement Regulatory Authority. Adoni Conrad	4181
 Public Procurement Regulatory Body	15411
@@ -2170,6 +2178,7 @@ Registration of SIM Cards Regulation	10822
 Registration of Telephone Subscribers Regulations	11993
 Regul	16851
 RegulAIte Working Paper No	11135
+RegulAite	17780
 Regula	2819,207,4440,3899,5,91,1352,2545,75,87,1356,89
 Regula-	4848,2090
 Regula-se	16122,254
@@ -2429,7 +2438,7 @@ Regulation and Control of Telecommunications	13388
 Regulation and Cybersecurity	2001
 Regulation and Directive	12185
 Regulation and Directives	12146
-Regulation and Governance	5349,2844,619
+Regulation and Governance	5349,2844,619,8968
 Regulation and Land Access	14818
 Regulation and Legislation	11965
 Regulation and Licensing	14745
@@ -2489,7 +2498,7 @@ Regulation. The Regulatory Authority	14867
 Regulation.12 Pillar	4126
 Regulation.pdf	17037
 Regulation29	10765
-Regulations	3,8,11,551,14,131,18,47,15,174,24,24,141,62,40,70,46,22,229,120,27,30,3,4,30,3,30,23,9,79,319,40,16,96,167,48,3,32,18,91,95,45,29,9,134,31,65,62,19,231,176,79,68,26,82,614,27,43,46,33,112,107,162,3,353,18,46,26,3,41,62,15,7,46,132,430,137,42,38,96,13,11,103,57,4,37,67,23,23,3,2,418,22,78,3,66,10,12,40,7,93,11,49,3,58,11,2,11,5,5,172,153,35,86,164,122,29,47,7,33,91,46,1,75,6,12,47,270,274,193,20,41,190,3,15,43,13,21,66,38,145,408,55,80,5,115,30,15,29,65,62,2,2,1,2,1,4,1,11,12,20,2,14,6,4,18,2,71,234,78,189,23,7,1,23,72,9,7,1,53,15,32,6,49,15,6,15,41,6,1,20,3,37,1,3,4,1,44,19,9,2,13,6,15,5,29,15,25,5,1,36,4,5,2,5,4,3,9,4,13,1,21,1,26,5,1,9,4,4,4,10,8,5,48,15,1,27,95,27,8,2,1,1,4,3,6,5,2,10,1,8,5,6,20,1,1,4,7,5,37,11,25,11,2,5,7,38,5,50,7,33,68,1,9,1,1,7,2,7,1,4,2,1,6,3,8,13,19,10,22,13,4,17,33,14,14,55,6,4,14,29,89,309,4,16,166,5,11,16,45,3,5,140,7,5,8,19,39,31,2,2,5,13,13,35,1,4,43,5,27,39,1,1,1,1,1,1,1,2,1,4,1,2,2,3,1,5,1,1,2,3,5,13,2,6,19,11,2,3,3,2,10,10,5,4,1,1,5,17,3,9,1,11,41,12,3,67,52,15,45,23,112,79,53,80,7,4,116,55,139,107,23,587,27,292,2,1,2,1,3,3,1,5,2,3,19,6,5,1,1,2,29,8,10,8,7,29,33,26,71,32,47,56,6,1,1
+Regulations	3,8,11,551,14,131,18,47,15,174,24,24,141,62,40,70,46,22,229,120,27,30,3,4,30,3,30,23,9,79,319,40,16,96,167,48,3,32,18,91,95,45,29,9,134,31,65,62,19,231,176,79,68,26,82,614,27,43,46,33,112,107,162,3,353,18,46,26,3,41,62,15,7,46,132,430,137,42,38,96,13,11,103,57,4,37,67,23,23,3,2,418,22,78,3,66,10,12,40,7,93,11,49,3,58,11,2,11,5,5,172,153,35,86,164,122,29,47,7,33,91,46,1,75,6,12,47,270,274,193,20,41,190,3,15,43,13,21,66,38,145,408,55,80,5,115,30,15,29,65,62,2,2,1,2,1,4,1,11,12,20,2,14,6,4,18,2,71,234,78,189,23,7,1,23,72,9,7,1,53,15,32,6,49,15,6,15,41,6,1,20,3,37,1,3,4,1,44,19,9,2,13,6,15,5,29,15,25,5,1,36,4,5,2,5,4,3,9,4,13,1,21,1,26,5,1,9,4,4,4,10,8,5,48,15,1,27,95,27,8,2,1,1,4,3,6,5,2,10,1,8,5,6,20,1,1,4,7,5,37,11,25,11,2,5,7,38,5,50,7,33,68,1,9,1,1,7,2,7,1,4,2,1,6,3,8,13,19,10,22,13,4,17,33,14,14,55,6,4,14,29,89,309,4,16,166,5,11,16,45,3,5,140,7,5,8,19,39,31,2,2,5,13,13,35,1,4,43,5,27,39,1,1,1,1,1,1,1,2,1,4,1,2,2,3,1,5,1,1,2,3,5,13,2,6,19,11,2,3,3,2,10,10,5,4,1,1,5,17,3,9,1,11,41,12,3,67,52,15,45,23,112,79,53,80,7,4,116,55,139,107,23,587,27,292,2,1,2,1,3,3,1,5,2,3,19,6,5,1,1,2,29,8,10,8,7,29,33,26,71,32,47,56,6,1,1,494,1
 Regulations Act	12523,5
 Regulations Act. Assistance	14736
 Regulations Amendment	5687
@@ -2641,7 +2650,7 @@ Regulators and Agencies	13320
 Regulators and MRA Customs	14736
 Regulators' Association of Southern Africa DSL Digital	12395
 Regulators. A Public Limited Company	12483
-Regulatory	236,159,1,60,179,83,43,179,18,3,9,30,814,115,10,352,168,318,235,14,39,118,123,2,102,77,164,210,26,239,56,346,31,4,18,2,21,15,70,43,92,24,122,64,98,68,41,38,271,24,40,51,10,156,81,354,39,56,40,9,3,19,107,54,106,247,210,48,74,40,95,38,9,88,58,360,164,153,8,63,32,78,31,134,34,177,283,5,301,187,6,87,111,35,92,40,115,53,2,156,27,83,113,34,148,1,57,68,12,5,78,30,38,25,99,3,1,1,2,2,55,3,61,6,3,283,306,27,1,10,57,42,6,48,111,1,45,5,4,56,27,11,43,5,18,2,9,43,4,3,1,8,1,42,21,4,23,139,1,9,236,47,328,1,1,17,6,11,222,13,415,677,16,145,25,35,18,94,6,105,24,38,41,129,8,82,289,12,212,207,695,5,7,21,4,7,1,39,19,24,12,41,168,63,10,468
+Regulatory	236,159,1,60,179,83,43,179,18,3,9,30,814,115,10,352,168,318,235,14,39,118,123,2,102,77,164,210,26,239,56,346,31,4,18,2,21,15,70,43,92,24,122,64,98,68,41,38,271,24,40,51,10,156,81,354,39,56,40,9,3,19,107,54,106,247,210,48,74,40,95,38,9,88,58,360,164,153,8,63,32,78,31,134,34,177,283,5,301,187,6,87,111,35,92,40,115,53,2,156,27,83,113,34,148,1,57,68,12,5,78,30,38,25,99,3,1,1,2,2,55,3,61,6,3,283,306,27,1,10,57,42,6,48,111,1,45,5,4,56,27,11,43,5,18,2,9,43,4,3,1,8,1,42,21,4,23,139,1,9,236,47,328,1,1,17,6,11,222,13,415,677,16,145,25,35,18,94,6,105,24,38,41,129,8,82,289,12,212,207,695,5,7,21,4,7,1,39,19,24,12,41,168,63,10,468,52
 Regulatory Action	16212
 Regulatory Actions Report	8354,570
 Regulatory Activities	17235
@@ -2711,6 +2720,7 @@ Regulatory Board. The Corporate Governance and Human	718
 Regulatory Bodies	12240,4771
 Regulatory Body	16942
 Regulatory Capacity	5042,9981
+Regulatory Capacity and Non-Divisibility Ex	17780
 Regulatory Change and Compliance Complexity Evolving	11134
 Regulatory Clarification This Spectrum Roadmap	5245
 Regulatory Commission	16851
@@ -2955,6 +2965,7 @@ Responsabilidade da Entidade Reguladora	576
 Responsive Regulation	6946
 Responsive Regulation Connectivity	6946
 Responsive Regulation Core Values	6946
+Responsive Regulation. Our Core Values	17746
 Rethinking Regulation	5241,811
 Revenue Assurance System Regulations	17250
 Revenue Sharing Law Regulations	16970
@@ -3137,6 +3148,7 @@ Strengthening the Regulatory Sandbox	11131,3
 Strong Regulation	17260
 Strong Regulatory Framework	16886
 Structured Regulatory Dialogue	11138
+Students Rules and Regulations	17767
 Subject Company Information Regulation M-A Item	7198
 Subject Company Regulation M-A Item	7198
 Subscriber Service Charter Regulations	4732

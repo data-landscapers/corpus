@@ -382,9 +382,10 @@ McAdam	11050
 McAfee	5700,1132,4433
 McAfee and Brynjolfsson	5700
 McAllister Kröhne	12478
-McBride	2096,5635,1553
+McBride	2096,5635,1553,8496
 McCabe	3782
 McCabe and Flynn	3782
+McCahery	17780
 McCallum	7548
 McCarthy	2816
 McCombs	10822
@@ -398,6 +399,7 @@ McDonaldetal	8606
 McDonough	6948
 McDowell	6467
 McFarlane SI	8460
+McGann	17780
 McGeachy	3782,894
 McGoey	6231
 McGovern	16384

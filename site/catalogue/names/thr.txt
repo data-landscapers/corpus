@@ -15,6 +15,7 @@ Accelerating the SDGs Through Digital Public Infrastructure	5700
 Addressing Regional Exclusion Through Shared Infrastructure	12432,252
 Administration Through the ICT	11986
 Advance Ethical AI Governance Through Civil	13557
+Advanced Persistent Threat	17746
 Advancing Africa's Digital Future Through Innovation	8050,2657
 Advancing Africa’s Digital Future Through Innovation	10707
 Advancing Digital Public Infrastructure Through Evidence	2185
@@ -72,6 +73,7 @@ Building Smarter Regulation Through Better Intelligence	7876
 Building Trust Through Collaboration and Cyber Resilience	14691,7,2875
 Building Trust Through Responsible Management	13510
 Burundian Ambassador’s Threats	6343
+CA Kenya Cyber Threat Report Q1	17745
 CA. Through	1856
 CALL FOR PARTNERSHIPS Through	15977
 CC Cyber Threat Advisories FY	6946
@@ -111,11 +113,14 @@ Cyber Security Threat Detection and Analytics	12359
 Cyber Security Threats Mechanisms	958
 Cyber Threat	6946
 Cyber Threat Advisories	6671
+Cyber Threat Advisories Issued	17746
 Cyber Threat Alliance	9698
 Cyber Threat Analyst	5533
 Cyber Threat Centre	14729
-Cyber Threat Intelligence	17156
+Cyber Threat Intelligence	17156,590
 Cyber Threat Intelligence Sharing Platform	7845
+Cyber Threat Landscape Overview Global Cyber	17746
+Cyber Threat Landscape Roundup	17746
 Cyber Threat Levels Spike Worldwide	10672
 Cyber Threat Management	15054
 Cyber Threat Monitoring System	14729
@@ -124,7 +129,7 @@ Cyber Threat Resil- CA	6946
 Cyber Threat Volumes Continue	9830
 Cyber Threat and Harmful Content Detection	14752
 Cyber Threats	2117,3560,994,7793,951
-Cyber Threats Detected	6671
+Cyber Threats Detected	6671,11075
 Cybersecurity Threat	4610
 Cybersecurity Threats	4610
 D S Through the GEF Small Grants	11586
@@ -271,6 +276,8 @@ Increasing WHO’s Resource Base and Visibility Through	17289
 India Through	12490
 Indian Ocean. Through	3292
 Indicator Calculation Drought Threshold SPI Standardized	17157
+Indicator Threshold Goalpost Additional	17743
+Indicator Value Threshold Goalpost Formula Score	17743
 Individual-to-Collective Threshold	8283
 Industry-Specific Threat Assessment	12189
 Information-to-Authority Threshold	8283
@@ -287,9 +294,12 @@ KT Family Thrills Fans During Muhanga	5889
 Kawambwa Rebuilding Trust Through People	13521
 Kenya and Uganda. Through	9079
 Kenya and Zambia. Through	12435
+Kenya's Cyber Threat Trajectory	17745
+Kenya. Threat	17746
 Kenya. ThriveAgric	11127
 Kenya. Throughout	12210
 Kenyans. Through	6100
+Kenya’s Cyber Threat Trajectory	17745
 Key Cybercriminal Threats	6426
 Ksh.4.45 Billion Through the Back Door State	6588
 LEAP Through the Years	16253
@@ -307,6 +317,7 @@ Liberia Through Digital Inclusion	5244
 Liberia. Through	16970
 Libya. Through	17303,98
 Looming Free Trade Agreements Pose Threats	1243
+Low- Lower- Upper- High- Thresh	17743
 Lower River and Central River. Through	8311
 Lumpsum Throughout	17099
 MADAGASCAR THROUGH	14445
@@ -516,7 +527,7 @@ Threads Email Copy Link Print Previous	5322
 Threads Whatsapp	9832
 Threads Whatsapp Anthropic	9608
 Threads Whatsapp China	9816
-Threat	587,1352,1,737,3328,427,2178,233,280,1598,417,848,2455,901,32,1644,96,215,108
+Threat	587,1352,1,737,3328,427,2178,233,280,1598,417,848,2455,901,32,1644,96,215,108,309
 Threat Analysis and Investigation	15662
 Threat Assessment	1000
 Threat Containment	15662
@@ -526,6 +537,7 @@ Threat Intelligence Platforms. CRM-SAIS	10721
 Threat Intelligence Platforms. Membership	10721
 Threat Intelligence Sharing Platform	14829
 Threat Intelligence and Analytics	11231
+Threat Landscape Overview	17746
 Threat Model	7471
 Threat Report	9830
 Threat Tiers	10721
@@ -580,7 +592,7 @@ Thriving AI Ecosystem KICTANet's Dr. George	12104
 Thriving MSMEs	15130
 Thromde High EGDI H3	10840
 Throne	12956
-Through	21,215,284,51,147,71,110,62,8,227,8,24,18,15,3,99,28,32,131,26,159,89,39,34,52,35,105,164,21,13,1,2,12,91,23,15,24,59,26,13,34,1,24,52,66,1,55,4,9,29,9,3,6,7,8,7,86,48,24,146,42,46,14,22,18,53,6,1,7,13,126,21,4,13,21,12,1,19,17,20,10,34,24,23,1,24,14,1,15,7,26,3,38,8,1,17,63,99,6,27,21,5,26,7,15,11,14,15,7,39,7,26,146,2,3,2,8,81,8,10,20,58,26,13,1,6,6,15,10,6,2,5,95,28,11,16,32,5,24,10,23,3,1,82,16,15,9,65,4,2,89,1,1,1,35,15,29,1,64,8,11,3,17,52,32,1,18,58,11,56,6,13,13,10,2,9,26,20,7,29,4,37,2,47,2,30,3,35,45,5,2,39,2,11,21,3,19,3,7,43,15,28,68,24,11,45,6,3,5,74,57,68,2,5,54,9,11,8,7,3,12,15,46,14,45,19,15,57,53,6,8,51,33,4,4,35,22,55,26,31,18,14,5,93,45,6,6,1,3,67,30,20,1,18,5,4,1,4,21,11,10,6,29,27,36,3,4,7,44,6,5,2,4,1,1,12,8,17,6,6,5,21,88,35,3,24,11,20,1,12,16,27,60,5,8,21,12,26,62,15,13,2,26,7,20,20,5,30,5,9,3,10,7,3,3,9,2,71,36,7,5,25,1,56,3,6,54,6,65,9,56,1,46,1,30,33,7,21,23,10,4,5,38,15,4,5,1,24,34,39,2,4,5,10,5,10,11,14,69,15,8,45,9,15,4,25,14,4,63,7,39,43,19,39,40,39,41,17,16,20,2,17,1,3,9,74,4,6,89,6,3,51,15,19,15,2,2,8,18,4,2,90,19,23,8,103,13,1,181,10,15,3,20,8,5,8,8,23,27,6,1,1,17,7,12,7,10,15,12,1,7,67,22,17,6,4,21,5,11,11,4,18,27,6,48,3,1,19,1,43,13,4,12,3,16,10,1,5,3,9,1,8,2,2,2,43,10,2,12,45,16,22,29,8,110,5,7,15,2,25,22,1,19,31,22,13,3,8,50,39,7,8,4,7,7,10,25,36,2,6,26,10,4,4,2,19,6,21,38,42,39,17,22,4,19,8,4,10,2,34,46,6,3,10,3,7,1,28,37,5,2,4,2,45,3,14,5,42,10,3,7,2,5,18,5,2,3,17,48,6,4,8,10,5,4,9,8,4,4,5,18,5,2,45,68,38,5,12,5,12,5,8,5,2,5,1,5,21,2,19,9,9,6,1,4,7,1,11,5,3,9,6,2,5,9,1,11,20,7,3,20,9,1,24,13,17,21,19,35,2,67,6,2,8,21,21,11,7,20,10,17,17,21,54,19,6,3,13,24,1,1,2,6,10,4,15,47,63,6,26,32,5,22,14,11,6,1,27,17,14,1,48,2,35,2,2,3,26,10,5,14,9,3,6,22,11,2,7,3,31,3,15,1,129,7,6,11,29,14,20,54,9,20,6,9,35,36,26,60,6,9,7,1,1,1,4,8,1,11,9,37,1,10,1,13,15,64,12,8,3,6,14,20,5,7,5,6,7,1,7,11,2,26,15,18,4,2,19,7,11,2,24,23,5,3,21,29,17,20,33,4,53,39,60,47,63,23,54,5,50,4,8,6,12,5,17,53,27,12,3,9,52,125,16,69,13,18,27,12,40,12,8,5,51,12,80,27,7,54,14,15,54,95,41,35,24,3,22,1,1,3,43,4,14,6,2,2,7,1,1,38,1,2,1,2,10,3,16,5,7,1,2,2,3,7,8,18,26,6,14,2,10,15,15,2,4,9,5,19,2,2,7,7,7,1,24,8,32,6,1,1,2,17,2,7,21,2,2,3,6,5,169,39,28,37,50,74,10
+Through	21,215,284,51,147,71,110,62,8,227,8,24,18,15,3,99,28,32,131,26,159,89,39,34,52,35,105,164,21,13,1,2,12,91,23,15,24,59,26,13,34,1,24,52,66,1,55,4,9,29,9,3,6,7,8,7,86,48,24,146,42,46,14,22,18,53,6,1,7,13,126,21,4,13,21,12,1,19,17,20,10,34,24,23,1,24,14,1,15,7,26,3,38,8,1,17,63,99,6,27,21,5,26,7,15,11,14,15,7,39,7,26,146,2,3,2,8,81,8,10,20,58,26,13,1,6,6,15,10,6,2,5,95,28,11,16,32,5,24,10,23,3,1,82,16,15,9,65,4,2,89,1,1,1,35,15,29,1,64,8,11,3,17,52,32,1,18,58,11,56,6,13,13,10,2,9,26,20,7,29,4,37,2,47,2,30,3,35,45,5,2,39,2,11,21,3,19,3,7,43,15,28,68,24,11,45,6,3,5,74,57,68,2,5,54,9,11,8,7,3,12,15,46,14,45,19,15,57,53,6,8,51,33,4,4,35,22,55,26,31,18,14,5,93,45,6,6,1,3,67,30,20,1,18,5,4,1,4,21,11,10,6,29,27,36,3,4,7,44,6,5,2,4,1,1,12,8,17,6,6,5,21,88,35,3,24,11,20,1,12,16,27,60,5,8,21,12,26,62,15,13,2,26,7,20,20,5,30,5,9,3,10,7,3,3,9,2,71,36,7,5,25,1,56,3,6,54,6,65,9,56,1,46,1,30,33,7,21,23,10,4,5,38,15,4,5,1,24,34,39,2,4,5,10,5,10,11,14,69,15,8,45,9,15,4,25,14,4,63,7,39,43,19,39,40,39,41,17,16,20,2,17,1,3,9,74,4,6,89,6,3,51,15,19,15,2,2,8,18,4,2,90,19,23,8,103,13,1,181,10,15,3,20,8,5,8,8,23,27,6,1,1,17,7,12,7,10,15,12,1,7,67,22,17,6,4,21,5,11,11,4,18,27,6,48,3,1,19,1,43,13,4,12,3,16,10,1,5,3,9,1,8,2,2,2,43,10,2,12,45,16,22,29,8,110,5,7,15,2,25,22,1,19,31,22,13,3,8,50,39,7,8,4,7,7,10,25,36,2,6,26,10,4,4,2,19,6,21,38,42,39,17,22,4,19,8,4,10,2,34,46,6,3,10,3,7,1,28,37,5,2,4,2,45,3,14,5,42,10,3,7,2,5,18,5,2,3,17,48,6,4,8,10,5,4,9,8,4,4,5,18,5,2,45,68,38,5,12,5,12,5,8,5,2,5,1,5,21,2,19,9,9,6,1,4,7,1,11,5,3,9,6,2,5,9,1,11,20,7,3,20,9,1,24,13,17,21,19,35,2,67,6,2,8,21,21,11,7,20,10,17,17,21,54,19,6,3,13,24,1,1,2,6,10,4,15,47,63,6,26,32,5,22,14,11,6,1,27,17,14,1,48,2,35,2,2,3,26,10,5,14,9,3,6,22,11,2,7,3,31,3,15,1,129,7,6,11,29,14,20,54,9,20,6,9,35,36,26,60,6,9,7,1,1,1,4,8,1,11,9,37,1,10,1,13,15,64,12,8,3,6,14,20,5,7,5,6,7,1,7,11,2,26,15,18,4,2,19,7,11,2,24,23,5,3,21,29,17,20,33,4,53,39,60,47,63,23,54,5,50,4,8,6,12,5,17,53,27,12,3,9,52,125,16,69,13,18,27,12,40,12,8,5,51,12,80,27,7,54,14,15,54,95,41,35,24,3,22,1,1,3,43,4,14,6,2,2,7,1,1,38,1,2,1,2,10,3,16,5,7,1,2,2,3,7,8,18,26,6,14,2,10,15,15,2,4,9,5,19,2,2,7,7,7,1,24,8,32,6,1,1,2,17,2,7,21,2,2,3,6,5,169,39,28,37,50,74,10,50,11,2,15
 Through AFAWA and We-Fi	16778
 Through AI	14566
 Through AI-native	14391

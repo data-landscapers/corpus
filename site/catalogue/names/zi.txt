@@ -27,7 +27,7 @@ Affaires Dr Melanie Anne Zimmerman	4352
 Affaires Dr Zimmerman	4352
 Affaires Dr. Melanie Anne Zimmerman	4340,5
 Affaires Zimmerman	4340,5
-Africa Cameroon Senegal Zimbabwe Union	11563
+Africa Cameroon Senegal Zimbabwe Union	11563,6180
 Africa Ethiopia Cameroon Senegal Zimbabwe International	10844
 Africa and Zimbabwe's National Development Strategy	13446
 Africa. In Zinder	11846
@@ -590,6 +590,7 @@ Ms Zimasa Sobuza	1554
 Ms Zipporah Maubane	7795
 Mthetho Wokuphathwa Kwezimali Zikahulumeni	11573
 Much of Zimbabwe	5599
+Munyaradzi and Zimidzi	17773
 Mushiri University of Zimbabwe Coal Beneficiation	1154
 Mélanie ZIMMERMANN	4327
 N. Wekwete University of Zimbabwe Kudzaishe Mangombe	12486
@@ -698,6 +699,7 @@ Potraz Telecommunications ZiG Econet Wireless	2888
 Powertel Communications Paratus Zimbabwe Zesa Iru	7014
 Powertel Communications and Paratus Zimbabwe	7036,6631
 Preamble WHEREAS the Constitution of Zimbabwe	13470
+Preparing Zimbabwean	17773
 President Emmerson Mnangagwa of Zimbabwe	1812
 President and Cabinet GOVERNMENT OF ZIMBABWE GOVERNMENT	2779
 President and Cabinet of Zimbabwe Martin Rushwaya	8419
@@ -983,7 +985,7 @@ Workforce Development and Lifelong Learning Zimbabwe	4528,7984
 World Bank's Zimbabwe Economic Update	3385
 YKK Zippers	5774
 Yoff Senegal Zimbabwe International Telecommunication Union	10764
-Yoff Zimbabwe Addis Ababa Cameroon Senegal	11563
+Yoff Zimbabwe Addis Ababa Cameroon Senegal	11563,6180
 ZABS and ZICTA	1988
 ZAS Exhibition The Research Council of Zimbabwe	1554
 ZBC ZCHPC ZIMSTAT ZNCC Postal and Telecommunications	4528
@@ -1350,8 +1352,9 @@ Zimba-Soaring Eagle	4528,7984
 Zimba-corn	4528,7984
 Zimbabawe	40
 Zimbabve	13575,1
-Zimbabwe	21,1,14,4,2,9,54,91,29,17,7,113,33,7,1,5,112,58,43,30,32,1,30,22,17,13,96,78,18,4,8,2,41,24,1,116,6,31,32,20,5,115,177,14,31,34,64,12,1,8,9,99,2,1,2,55,5,48,52,2,46,68,24,139,262,51,91,22,97,37,72,32,26,41,16,13,5,30,60,19,55,62,27,3,55,20,27,6,99,65,29,18,2,144,4,14,18,139,48,9,120,6,163,35,41,43,11,56,68,11,55,39,261,13,16,60,88,17,71,14,1,2,38,9,1,9,16,4,5,16,101,18,4,17,8,22,11,12,5,68,4,5,12,12,37,23,94,11,6,94,20,61,92,1,10,74,14,6,60,40,7,29,3,1,49,45,11,27,50,36,29,20,81,28,14,7,24,1,2,39,2,22,60,1,5,28,36,14,9,7,17,42,45,18,22,151,69,51,5,16,94,14,57,16,12,13,5,7,58,41,33,29,73,1,64,16,18,1,127,43,19,21,157,48,1,141,40,2,4,16,140,42,24,42,115,2,27,1,44,7,33,54,31,84,84,22,143,2,3,30,4,22,4,1,1,138,6,15,15,124,2,33,193,32,53,1,9,86,1,300,12,21,99,1,5,16,91,45,5,21,50,3,6,106,18,36,92,35,18,6,37,110,178,129,2,7,38,21,3,12,99,1,51,27,16,1,2,75,22,78,89,1,9,12,17,9,5,4,32,10,4,7,70,8,11,1,27,2,1,2,14,16,71,1,1,2,3,1,1,1,1,1,1,2,2,1,1,2,1,3,1,2,1,35,90,121,175,6,6,24,10,27,31,2,53,52,72,1,66,1,1,7,1,1,13,1,2,2,2,2,1,7,19,8,5,11,6,5,1,1,2,1,8,3,1,3,6,1,4,3,5,1,8,5,5,4,1,2,1,1,3,5,2,11,1,5,10,2,6,1,1,6,1,2,3,1,1,7,7,3,7,8,1,1,1,1,3,3,2,4,2,3,1,19,2,5,2,6,3,1,1,2,1,1,3,5,1,9,1,7,1,1,5,5,2,3,1,9,6,2,4,2,2,3,4,3,3,4,7,4,10,290,95,39,52,30,88,36,33,92,158,2,27,25,41,54,51,109,88,424,13,11,537,178,296,47,115,144,27,580,229,3,78
+Zimbabwe	21,1,14,4,2,9,54,91,29,17,7,113,33,7,1,5,112,58,43,30,32,1,30,22,17,13,96,78,18,4,8,2,41,24,1,116,6,31,32,20,5,115,177,14,31,34,64,12,1,8,9,99,2,1,2,55,5,48,52,2,46,68,24,139,262,51,91,22,97,37,72,32,26,41,16,13,5,30,60,19,55,62,27,3,55,20,27,6,99,65,29,18,2,144,4,14,18,139,48,9,120,6,163,35,41,43,11,56,68,11,55,39,261,13,16,60,88,17,71,14,1,2,38,9,1,9,16,4,5,16,101,18,4,17,8,22,11,12,5,68,4,5,12,12,37,23,94,11,6,94,20,61,92,1,10,74,14,6,60,40,7,29,3,1,49,45,11,27,50,36,29,20,81,28,14,7,24,1,2,39,2,22,60,1,5,28,36,14,9,7,17,42,45,18,22,151,69,51,5,16,94,14,57,16,12,13,5,7,58,41,33,29,73,1,64,16,18,1,127,43,19,21,157,48,1,141,40,2,4,16,140,42,24,42,115,2,27,1,44,7,33,54,31,84,84,22,143,2,3,30,4,22,4,1,1,138,6,15,15,124,2,33,193,32,53,1,9,86,1,300,12,21,99,1,5,16,91,45,5,21,50,3,6,106,18,36,92,35,18,6,37,110,178,129,2,7,38,21,3,12,99,1,51,27,16,1,2,75,22,78,89,1,9,12,17,9,5,4,32,10,4,7,70,8,11,1,27,2,1,2,14,16,71,1,1,2,3,1,1,1,1,1,1,2,2,1,1,2,1,3,1,2,1,35,90,121,175,6,6,24,10,27,31,2,53,52,72,1,66,1,1,7,1,1,13,1,2,2,2,2,1,7,19,8,5,11,6,5,1,1,2,1,8,3,1,3,6,1,4,3,5,1,8,5,5,4,1,2,1,1,3,5,2,11,1,5,10,2,6,1,1,6,1,2,3,1,1,7,7,3,7,8,1,1,1,1,3,3,2,4,2,3,1,19,2,5,2,6,3,1,1,2,1,1,3,5,1,9,1,7,1,1,5,5,2,3,1,9,6,2,4,2,2,3,4,3,3,4,7,4,10,290,95,39,52,30,88,36,33,92,158,2,27,25,41,54,51,109,88,424,13,11,537,178,296,47,115,144,27,580,229,3,78,38,28,2,11
 Zimbabwe A Xalam Analytics Country Report	3185
+Zimbabwe AFR LMI	17743
 Zimbabwe AI	5733
 Zimbabwe AI Ethics Framework	8483
 Zimbabwe AI Innovation Fund	4528,7984
@@ -1949,6 +1952,7 @@ Zimbu Musima Noëlla	15813
 Zimelewicz	11156
 Zimfuneko Ezincane	11573
 Zimi Charge	7015,7693
+Zimidzi W	17773
 Zimmerman	4352,7226,610
 Zimmerman and Umoja	11578
 Zimpapers	8975,2643

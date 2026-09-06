@@ -132,6 +132,7 @@ Basic Health Care Provision Fund	4301,493,7210,46,2344
 Basic Health Care Provisions Fund	12004
 Basic Healthcare Provision Fund	4301
 Belgium-based Internet Service Provider GBS	15513,40
+Best Practical AI Training Provider	17784
 Bié Province Cuando Cubango Province C	11418
 Bié Province Huam	11418
 Blantyre. Provides	14674
@@ -239,7 +240,7 @@ Cloud Service Provide	6432
 Cloud Service Provider	9123,6159,2252
 Cloud Service Provider GoK Government of Kenya	6432
 Cloud Service Provider Requirements	6432
-Cloud Service Providers	6432,5482,81,4929,610
+Cloud Service Providers	6432,5482,81,4929,610,212
 Cloud Service Providers Qualification Requirements	17534
 Cloud Service Providers and Internet Exchange Points	10956
 Cloud Service Provisioning and Procurement Guidelines	11995
@@ -378,6 +379,7 @@ DEVELOPMENT Barcelona Provincial Council AI25.Studio BB23	8530
 DG Provincial Engagements Resources Programmes Care	11241
 DPA. Transitional Provisions	1652
 DRC With Haut Katanga Province Highlighted	11912
+DRC's Tanganyika Province	17809
 DRC. Kwango Province	12003
 DURATION AND PLACE OF SERVICE PROVISION	15590
 Dado Provisório Professor Provisória Reprovados Secundário	10766
@@ -488,7 +490,7 @@ Educational Provincial Offices	11916
 Egypt Action Details Provide	15713
 Electricity Service Providers	15025
 Electricity Supply Providers	14957
-Electronic Certification Service Providers	6946,10588
+Electronic Certification Service Providers	6946,10588,212
 Electronic Communications Service Providers	11277
 Electronic Gazette PART VII GENERAL PROVISIONS	13322
 Electronic Government PART VII GENERAL PROVISIONS	13322
@@ -592,6 +594,7 @@ Executive Director. Provided	16830
 Expenditures MSP Managed Service Provider CDN	3184,1,1340,6470
 Explainability Provide	14566
 Exploitation des Carrières Provisions	15542
+Extradition Provision	17745
 F Régions Provinces Garçons Filles G	10847
 F. Evaluation of Proposals- General Provisions	15080
 FAILURE TO PROVIDE ANY	11240
@@ -629,6 +632,8 @@ Femme Conjoint PROVINCE COMMUNE Jeune Adulte	13390
 Femme Conjoint Province Commune Jeune Adulte	13390
 FinTech Companies and Payment Service Providers RMAFC	9750
 Final Provision This Chapter	12913
+Final Provisions	17745
+Final Provisions and Implementation Architecture	17745
 Final Report General and Provincial Assembly Elections	12201
 Finance E ENS ArticleThird-party Payment Providers	6998
 Financial Institutions Providers	17099
@@ -761,6 +766,8 @@ Guidance Note for Digital Credit Providers	12301
 Guidelines for Bodies Providing Halal Certification	16900
 Guidelines for Financial Service Providers	12297
 Guidelines for Payment Intermediation Service Providers	12365
+Guizhou Province	17793
+Guizhou Provincial Big Data Laboratory	17793
 HAs. Kwango Province	12003
 HIDRAÚLICAS GENERAL DE DELEGACIÓN PROVINCIAL DELEGACIÓN	4209
 Harare Metropolitan Province	1191
@@ -890,8 +897,8 @@ Internet Service Provider ITU	958
 Internet Service Provider LAN	13956
 Internet Service Provider License	762
 Internet Service Provider5	14858
-Internet Service Providers	718,65,506,562,36,206,257,563,198,392,359,1350,469,112,445,33,268,351,345,166,729,77,502,338,1360,761,91,598,136,247,213,148,108,469,40,95,32,1,358,1019,1,50,19,71,15,227,14,16,80,156,52,56,31,110,523,728,11,6,53,33,124,15,136
-Internet Service Providers Association	12625,721
+Internet Service Providers	718,65,506,562,36,206,257,563,198,392,359,1350,469,112,445,33,268,351,345,166,729,77,502,338,1360,761,91,598,136,247,213,148,108,469,40,95,32,1,358,1019,1,50,19,71,15,227,14,16,80,156,52,56,31,110,523,728,11,6,53,33,124,15,136,495,1,23
+Internet Service Providers Association	12625,721,4428
 Internet Service Providers Association of Zambia ITU	13346
 Internet Service Providers JSI Joint Statement	1243
 Internet Service Providers. Notices	14793
@@ -922,6 +929,7 @@ Justice ISP Internet Service Provider RNP	1000
 Jésus Providence	16177
 K ProvableHQ	11922
 KEY DATA PROVISIONS IN RTAS	1243
+KEY PROVISIONS	17745
 KIE- PROVINCIAL PROVINCIAL TOTAL Y MODERNIZACION	4209
 KIE- PROVINCIAL TOTAL ARTESANÍA REGIONAL DISCAP	4209
 KZN Amajuba DM Newcastle Provincial Hospital	11986
@@ -1042,6 +1050,7 @@ Mafikeng Provincial	11986
 Magistrado Audiencia Provincial	4209
 Magistrado Audiencia Provincial Oficial Mayor	4209
 Maintenance Proven Support and Maintenance	15080
+Malabo Convention Key Provisions	17745
 Malawi Internet Service Providers' Association	12965
 Male Female Provisional	14832
 Managed GDC Providers	4434
@@ -1430,7 +1439,7 @@ Payment Service Provider Licence	6074
 Payment Service Provider Returns	12365
 Payment Service Provider SFSP	14948
 Payment Service Provider and Payment System Operator	4405
-Payment Service Providers	2857,4078,825,972,2399,1155,49,155,621,95,326,482,805,204,577,58,136,1568
+Payment Service Providers	2857,4078,825,972,2399,1155,49,155,621,95,326,482,805,204,577,58,136,1568,384
 Payment Services Providers	15023
 Payment Solution Service Providers	3491,3207,237,2755
 Payment Systems Providers	13388
@@ -1938,7 +1947,7 @@ Provincially	8846,2346
 Provincias	1701,2508,7157,5505,27
 Provions of Paragraph	14919
 Provis. Reprov. Sec. Abandonos Aprovados Comparticipada	10766
-Provision	940,191,23,7,59,373,274,121,319,166,688,517,294,182,48,694,769,1167,114,592,10,297,509,543,212,535,763,368,54,300,440,286,5,1,53,41,1,37,2,245,6,7,48,22,15,21,36,133,1,2,4,17,141,219,26,16,21,2,8,68,235,43,235,843,40,44,10,91,135,9,8,6,9,17,50,3,36,3,10,27,5,35,63,173,23,157,13,34,14,32,17,7,73,105,5,34,323,27,97,292,164,31,67,141,13,11,9,12,1,2,28,1,10,15,2,4,4,4,16,84,59,121,1,205
+Provision	940,191,23,7,59,373,274,121,319,166,688,517,294,182,48,694,769,1167,114,592,10,297,509,543,212,535,763,368,54,300,440,286,5,1,53,41,1,37,2,245,6,7,48,22,15,21,36,133,1,2,4,17,141,219,26,16,21,2,8,68,235,43,235,843,40,44,10,91,135,9,8,6,9,17,50,3,36,3,10,27,5,35,63,173,23,157,13,34,14,32,17,7,73,105,5,34,323,27,97,292,164,31,67,141,13,11,9,12,1,2,28,1,10,15,2,4,4,4,16,84,59,121,1,205,303
 Provision Mechanisms	4154
 Provision Oversight	15206
 Provision Regional Development Plans	16916
@@ -2508,6 +2517,7 @@ Virtual Asset Service Providers and Issuers of Initial	14844
 Virtual Assets Providers Act	11699
 Virtual Assets Service Provider	11976
 Virtual Assets Service Providers	14674
+Virtual Assets Service Providers Act	17745
 Virtual Assets and Virtual Asset Service Providers	14844
 Virtual Assets and Virtual Assets Service Providers	11134
 Virtual Internet Service Provider License	762
@@ -2519,6 +2529,7 @@ WEAK PROVENANCE	1960
 WIFI A.2 Provide	15604
 Water Security and Provision	2626
 Water Service Providers	11236
+WebTrust for Electronic Certification Service Providers	17746
 Weight Provincial	11252
 Western Cape Province	732,13941
 Western Cape Province Broadband Expansion	732

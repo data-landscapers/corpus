@@ -899,11 +899,13 @@ LTD Y WI- Mongomo FI	4209
 LTD. Data Controller INST-5146773CC00 NAIROBI Kenya	7167
 LTE Android	9997,35
 LTE Evolution	15474
+LTE LTE-Advanced	17743
 LTE Licensees Expansion	11857
 LTE Long Term Evolution Figure	582
 LTE Long Term Evolution MB Megabytes	6671
 LTE Long Term Evolution Mbps Megabits	16885
 LTE Mobile Spectrum	17250
+LTE Percentage	17743
 LTE RAN	5675
 LTE Routers	11980
 LTE Terminals	6946
@@ -917,6 +919,7 @@ LTE-M	11016
 LTE-TDD	16942
 LTE-capable	5341
 LTE-covered	17723
+LTE. The Meaningful	17743
 LTE. Together	6749
 LTE14	236
 LTEP1.html	236

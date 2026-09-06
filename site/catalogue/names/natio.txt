@@ -529,6 +529,7 @@ Authority PERFORMANCE OF THE NATIONAL CREDIT	11198
 Authority Survey Department of Libya United Nations	16916
 Authority ZIMSTAT Zimbabwe National Statistics Agency	13359
 Authority of South Africa UN United Nations	11986
+Authority's National KE-CIRT	17746
 Authority’s National	6946
 Authority’s National Table of Frequency	762
 Authors and Affiliations National Center for Global Health	10784
@@ -1314,6 +1315,7 @@ Concept Note for Zimbabwe's National Research Policy	1554
 Concertations Nationales	3240,88
 Conclusion The Zimbabwe National AI Strategy	13649
 Conclusion and Recommendations. The National	12151
+Concours National de Prototypage IA	17763
 Concurrence Nationale	14564
 Conduct Internal Audits Despite The National	14546
 Conduct Internal Audits Despite the National Treasury	14546
@@ -3067,6 +3069,7 @@ I-2. Approbation du Plan Cadre de Coopération des Nations	14904
 I-I10-A2 National	15713
 I-I10-A2 National Data Center The Egyptian	15713
 I.3.2.1. PRIME Le Programme National	15936
+IA. La Stratégie Nationale	17763
 IACC. National	16853
 ICAP Cameroun PLAN STRATEGIQUE NATIONAL	16195
 ICB and National SBD	15372
@@ -3267,6 +3270,7 @@ Information System National Public Health Institute	4153
 Information Technology NCP National Contribution Plan	11553
 Information and Communication Technology National Institute	15447
 Information and Counselling Centre NERCHA National Emergency	12939
+Information and National Orientation Minister Mohammed Idris	17792
 Informatique ONU Organisation des Nations Unies OPEX	15474
 Informatique SNLVBG Stratégie Nationale de Lutte	15746
 Informatique Sanitaire PNS Politique Nationale	13306
@@ -3475,6 +3479,7 @@ KNA The National Treasury	10122
 KNCHR Kenya National Commission	7548
 KNEC Kenya National Examination Council KPHC	12151
 KPI Key Performance Indicator NIDA National	12359
+Kabete National Polytechnic	17746
 Kamuzu University Health Sciences and National College	12253
 Kanja Sesay The National Civil Registration	9765
 Karenyi Calls for National Dementia Strategy	8639
@@ -3496,7 +3501,7 @@ Kenya National Artificial Intelligence Strategy	6231
 Kenya National Bureau	12151
 Kenya National Bureau Sustainable and Responsible Financial	12297
 Kenya National Bureau of Standards	12210
-Kenya National Bureau of Statistics	497,1950,328,3741,3,12,7,408,17,585,979,2295,1316,13,76,4,20,2054,105,5,70,38,71
+Kenya National Bureau of Statistics	497,1950,328,3741,3,12,7,408,17,585,979,2295,1316,13,76,4,20,2054,105,5,70,38,71,3164
 Kenya National Bureau of Statistics Data	7548
 Kenya National Bureau of Statistics ISBN	2775
 Kenya National Bureau of Statistics KoTDA Konza	6946
@@ -3550,6 +3555,7 @@ Kenya's National Integrated Identity Management Scheme	14434
 Kenya's National Logistics Management System	4153
 Kenya's National Long Distance	2814
 Kenya's National Police Service	14664
+Kenya's National Public Key Infrastructure	17746
 Kenya's Nationally Determined Contributions	7548
 Kenya. Kenya’s National AI Strategy	10246
 Kenya. The National Integrated Identity Management	12139
@@ -3633,7 +3639,7 @@ L'utilisation du Numéro National	13832,2
 L'École Nationale	13908
 LA COMMISSION NATIONALE DE RECOURS Art	16344
 LA GENDARMERIE NATIONALE	14450
-LA NATION	13939
+LA NATION	13939,3824,1
 LA NATION D'OBSERVER SCRUPULEUSEMENT LA CONSTITUTION	15603
 LA NATION URL	13872,20,6,30,11
 LA REGULATION DU MARCHE NATIONAL Arrêté	4658
@@ -3693,7 +3699,7 @@ La Politique Nationale de Développement des Technologies	13442
 La Politique Nationale de Santé	13306,2117,262
 La Société Nationale	15936
 La Société Nationale de Développement Informatique	3675
-La Stratégie Nationale	10914,51,4618,41,86
+La Stratégie Nationale	10914,51,4618,41,86,2053
 La Stratégie Nationale de Cybersanté	15583
 La Stratégie Nationale de Développement	14452,1090,708
 La Stratégie Nationale de Développement du Numérique	15710
@@ -3917,6 +3923,7 @@ Libya National Meteorological Service Extreme	16956
 Libya National Meteorological Service WMO Member	16956
 Libya The United Nations Support Mission	17403
 Libya's National Artificial Intelligence Strategy	17291
+Libya's National Financial Inclusion Strategy	17744
 Libya's National High Electoral Commission	1849
 Libyan Digital National Identity	7159
 Libyan Experts Forum Outlines National Development	11747
@@ -5017,7 +5024,7 @@ Nationa IDA	17219
 Nationa9l.1DiNgiatatiloMnalrDkeigtpitlaalcMearketplace	10157
 Nationai	3972
 Nationaie	15999
-National	3,9,9,98,117,49,110,1,23,163,61,46,47,1,52,110,59,3,8,31,8,1,195,39,14,4,23,244,127,33,89,39,12,39,5,13,27,76,410,30,121,77,50,99,41,74,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,93,47,13,37,64,26,231,167,12,9,187,70,13,98,47,25,82,11,16,49,12,51,36,123,2,99,3,81,12,75,144,8,329,1,1,1,1,1,1,1,9,1,1,1,1,1,46,1,1,33,84,12,36,38,83,67,34,32,108,5,76,219,80,23,134,52,70,39,37,10,25,36,24,32,71,42,180,8,2,8,1,91,61,3,12,40,8,3,10,29,62,19,9,28,19,27,170,10,4,21,5,129,2,22,128,27,77,171,104,138,240,12,58,205,108,400,35,148,53,144,76,3,111,159,26,34,58,67,131,111,159,5,2,42,1,1,10,1,8,9,1,15,3,29,3,3,9,9,1,8,2,32,32,20,5,4,22,9,5,1,10,27,62,24,1,5,1,13,30,1,4,4,5,3,32,2,18,17,20,11,47,13,64,97,7,1,4,23,1,7,26,3,7,110,146,3,2,3,13,7,4,1,5,5,5,5,1,49,1,20,5,5,8,10,21,29,10,73,1,13,8,1,15,16,8,2,3,1,3,2,4,19,7,1,9,1,2,2,14,9,16,44,12,1,4,3,1,8,9,7,12,4,4,6,1,3,8,10,13,9,6,8,20,13,8,4,17,4,1,12,2,15,18,7,1,9,27,14,35,1,42,42,10,2,127,8,7,4,8,1,9,4,8,9,7,1,6,5,3,4,23,12,23,55,2,66,86,46,10,2,7,7,1,9,16,12,2,6,8,43,2,149,23,33,48,12,20,30,32,5,4,37,100,25,18,4,19,12,2,6,5,10,1,4,16,2,100,23,37,25,188,5,6,1,2,1,9,36,46,30,20,33,23,44,8,40,6,3,3,10,5,7,2,8,19,42,5,4,3,1,19,1,1,7,14,5,10,6,1,1,8,4,12,3,11,12,12,6,32,37,5,3,14,25,37,11,7,18,2,8,15,4,13,10,2,36,37,59,26,6,11,28,4,9,23,14,11,1,6,16,1,4,13,2,3,10,14,11,3,12,24,7,5,55,2,9,9,28,5,1,12,3,12,17,42,2,44,76,15,41,22,10,2,21,5,107,44,7,17,30,139,3,52,28,47,110,24,1,59,84,47,3,1,1,2,5,4,6,5,9,12,2,1,2,3,4,6,13,1,5,1,2,2,1,15,1,8,7,5,8,4,3,5,13,15,6,82,2,13,2,1,22,1,9,7,1,23,32,7,32,9,25,4,7,68,12,27,2,98,102
+National	3,9,9,98,117,49,110,1,23,163,61,46,47,1,52,110,59,3,8,31,8,1,195,39,14,4,23,244,127,33,89,39,12,39,5,13,27,76,410,30,121,77,50,99,41,74,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,93,47,13,37,64,26,231,167,12,9,187,70,13,98,47,25,82,11,16,49,12,51,36,123,2,99,3,81,12,75,144,8,329,1,1,1,1,1,1,1,9,1,1,1,1,1,46,1,1,33,84,12,36,38,83,67,34,32,108,5,76,219,80,23,134,52,70,39,37,10,25,36,24,32,71,42,180,8,2,8,1,91,61,3,12,40,8,3,10,29,62,19,9,28,19,27,170,10,4,21,5,129,2,22,128,27,77,171,104,138,240,12,58,205,108,400,35,148,53,144,76,3,111,159,26,34,58,67,131,111,159,5,2,42,1,1,10,1,8,9,1,15,3,29,3,3,9,9,1,8,2,32,32,20,5,4,22,9,5,1,10,27,62,24,1,5,1,13,30,1,4,4,5,3,32,2,18,17,20,11,47,13,64,97,7,1,4,23,1,7,26,3,7,110,146,3,2,3,13,7,4,1,5,5,5,5,1,49,1,20,5,5,8,10,21,29,10,73,1,13,8,1,15,16,8,2,3,1,3,2,4,19,7,1,9,1,2,2,14,9,16,44,12,1,4,3,1,8,9,7,12,4,4,6,1,3,8,10,13,9,6,8,20,13,8,4,17,4,1,12,2,15,18,7,1,9,27,14,35,1,42,42,10,2,127,8,7,4,8,1,9,4,8,9,7,1,6,5,3,4,23,12,23,55,2,66,86,46,10,2,7,7,1,9,16,12,2,6,8,43,2,149,23,33,48,12,20,30,32,5,4,37,100,25,18,4,19,12,2,6,5,10,1,4,16,2,100,23,37,25,188,5,6,1,2,1,9,36,46,30,20,33,23,44,8,40,6,3,3,10,5,7,2,8,19,42,5,4,3,1,19,1,1,7,14,5,10,6,1,1,8,4,12,3,11,12,12,6,32,37,5,3,14,25,37,11,7,18,2,8,15,4,13,10,2,36,37,59,26,6,11,28,4,9,23,14,11,1,6,16,1,4,13,2,3,10,14,11,3,12,24,7,5,55,2,9,9,28,5,1,12,3,12,17,42,2,44,76,15,41,22,10,2,21,5,107,44,7,17,30,139,3,52,28,47,110,24,1,59,84,47,3,1,1,2,5,4,6,5,9,12,2,1,2,3,4,6,13,1,5,1,2,2,1,15,1,8,7,5,8,4,3,5,13,15,6,82,2,13,2,1,22,1,9,7,1,23,32,7,32,9,25,4,7,68,12,27,2,98,102,140
 National ADU Caravan	10937
 National AI	1204,610,2312,399,3,757,540,143,824,156,600,1061,1637,754,135,1075,146,156,2054,98,1049
 National AI A- National AI	7548
@@ -5206,7 +5213,7 @@ National Accreditation and Quality Assurance Authority	16852,75,299
 National Accreditation and Quality Assurance Authority NDP	16927
 National Accredited Technical Education Diploma	6832
 National Action Coalition	10216
-National Action Plan	1389,7091,3471,357,289,390,166,304,1285,9,30,93,676,193,1207,8,181,150,7
+National Action Plan	1389,7091,3471,357,289,390,166,304,1285,9,30,93,676,193,1207,8,181,150,7,449
 National Action Plan Programme Development and Reviews	12642
 National Action Plan for Children	3583
 National Action Plan for Gender and Energy Access	15983
@@ -5456,7 +5463,7 @@ National Artiﬁcial Intelligence Policy	1204
 National Arts Fund	14742
 National Arts Open Commission	14748
 National Assemblies	14409
-National Assembly	783,231,11,241,67,141,61,290,13,120,23,18,68,198,393,69,15,17,85,80,229,29,11,41,17,16,165,162,12,97,43,115,26,61,5,17,101,18,16,109,1,5,35,165,98,115,10,392,107,176,89,399,49,17,105,43,1,102,10,18,54,26,70,15,63,99,58,52,131,43,109,15,35,25,217,202,57,36,192,94,88,13,14,26,202,1,2,5,99,70,176,51,120,70,19,91,71,254,18,256,9,1,100,45,100,231,4,56,27,78,2,133,137,147,260,59,110,208,3,15,115,6,11,25,2,5,1,5,4,43,185,28,4,30,49,129,94,2,13,43,38,29,10,68,8,87,52,126,42,5,4,43,28,4,61,10,2,3,6,11,3,13,18,8,41,23,8,8,67,155,1,1,13,4,37,36,2,64,48,1,37,12,148,32,19,42,49,12,36,5,2,10,25,6,29,30,17,51,203,49,161,29,26,85,55,88,54,1,39,44,53,48,1,31,91,3,1,1,5,1,10,4,1,3,2,3,17,6,5,26,4,9,3,3,4,1,1,13,7,2,2,11,475,1496,3,19,9,7,9,1,1,2,9,19,11,18,7,154,72,31,20,119,219,5,73,11
+National Assembly	783,231,11,241,67,141,61,290,13,120,23,18,68,198,393,69,15,17,85,80,229,29,11,41,17,16,165,162,12,97,43,115,26,61,5,17,101,18,16,109,1,5,35,165,98,115,10,392,107,176,89,399,49,17,105,43,1,102,10,18,54,26,70,15,63,99,58,52,131,43,109,15,35,25,217,202,57,36,192,94,88,13,14,26,202,1,2,5,99,70,176,51,120,70,19,91,71,254,18,256,9,1,100,45,100,231,4,56,27,78,2,133,137,147,260,59,110,208,3,15,115,6,11,25,2,5,1,5,4,43,185,28,4,30,49,129,94,2,13,43,38,29,10,68,8,87,52,126,42,5,4,43,28,4,61,10,2,3,6,11,3,13,18,8,41,23,8,8,67,155,1,1,13,4,37,36,2,64,48,1,37,12,148,32,19,42,49,12,36,5,2,10,25,6,29,30,17,51,203,49,161,29,26,85,55,88,54,1,39,44,53,48,1,31,91,3,1,1,5,1,10,4,1,3,2,3,17,6,5,26,4,9,3,3,4,1,1,13,7,2,2,11,475,1496,3,19,9,7,9,1,1,2,9,19,11,18,7,154,72,31,20,119,219,5,73,11,153
 National Assembly Act	12652
 National Assembly Administration Act	7859
 National Assembly Allowances Act	14717
@@ -5464,7 +5471,7 @@ National Assembly Authority	3887
 National Assembly Bill No	1221,617,4295,4180,341
 National Assembly Bills No	7832,7100
 National Assembly Building Complex	17241
-National Assembly Committee	6787,159,2388,1320,1604,1964,377
+National Assembly Committee	6787,159,2388,1320,1604,1964,377,3182
 National Assembly Debates	10313
 National Assembly Departmental Committee	9940,2370,2285
 National Assembly Deputy Clerk Lotun	14841
@@ -6181,8 +6188,9 @@ National Computer Security Incident Response Team	6778,1795,324,6223,433
 National Computer Systems Company	15679
 National Computer and Cyber Crimes Co-ordination Committee	11115
 National Computer and Cybercrime Coordination Committee	7481,3139
-National Computer and Cybercrimes Co-ordination Committee	6787,5445
-National Computer and Cybercrimes Coordination Committee	17566,92
+National Computer and Cybercrimes Co-or	17745
+National Computer and Cybercrimes Co-ordination Committee	6787,5445,5513
+National Computer and Cybercrimes Coordination Committee	17566,92,88
 National Concession Conflict Resolution Unit	16970
 National Concession Conflicts Resolution Office	16970
 National Concession Conflicts Resolution Offices	16970
@@ -6297,7 +6305,7 @@ National Council for Population and Development Dr. Mohammed	14523
 National Council for Preschool	11907
 National Council for Press and Journalistic Publications	15342
 National Council for Prices	11380
-National Council for Science and Technology	12358,2564
+National Council for Science and Technology	12358,2564,2839
 National Council for Science and Technology. Equity	14922
 National Council for Social Protection	16384
 National Council for Strategic Planning	14860
@@ -6458,6 +6466,7 @@ National Cybersecurity Incident Response Center	14246
 National Cybersecurity Incident Response Team Purpose	12674
 National Cybersecurity Index	15120
 National Cybersecurity Index Company NCR National	14897
+National Cybersecurity Management Framework	17746
 National Cybersecurity NCC	1777
 National Cybersecurity Office	1777
 National Cybersecurity Operations Center	11464,211,5300
@@ -6768,7 +6777,7 @@ National Development Vision	5883,2393,2315,7143
 National Development Vision Plan	5883
 National Development Visions	16858
 National Development Zimbabwe Vision	12512
-National Development and Reform Commission	9238
+National Development and Reform Commission	9238,8564
 National Development and Research Centre	10464
 National Development of Statistics	13082
 National Development-Impact Measurement System	8184
@@ -6895,7 +6904,7 @@ National Digital Market OBJECTIVE	15679
 National Digital Marketplace	10157,1,152
 National Digital Marketplace Median	10157
 National Digital Marketplace. NITDA	10310
-National Digital Master Plan	6974,574,4662
+National Digital Master Plan	6974,574,4662,5535
 National Digital Payment Literacy Strategy	13076
 National Digital Payment Strategy	1657,1629,912,8075,1759
 National Digital Payment System	8017
@@ -7432,7 +7441,7 @@ National Financial Inclusion Roadmap Vision	15130
 National Financial Inclusion Secretariat	940
 National Financial Inclusion Steering Committee	940
 National Financial Inclusion Strat-	14897
-National Financial Inclusion Strategy	418,522,2467,488,981,341,921,1664,3328,8,448,320,54,34,255,21,139,35,257,255,96,262,624,959,1979,312,47
+National Financial Inclusion Strategy	418,522,2467,488,981,341,921,1664,3328,8,448,320,54,34,255,21,139,35,257,255,96,262,624,959,1979,312,47,509
 National Financial Inclusion Strategy DPI Distributed	12444
 National Financial Inclusion Strategy II	940,3025,10067
 National Financial Inclusion Strategy III	14674
@@ -8113,7 +8122,7 @@ National Identity Management	3742,954,1
 National Identity Management Act	7172,10502
 National Identity Management Com-	4848
 National Identity Management Commis-	4848
-National Identity Management Commission	767,506,1117,79,189,67,80,129,279,490,40,377,303,149,222,67,354,52,17,37,239,14,151,422,352,37,153,182,270,3,75,95,95,45,59,48,69,21,13,82,2,99,61,165,47,468,124,113,289,276,280,210,213,64,117,149,281,393,29,3,561,24,49,152,13,60,49,13,1,6,3,4,58,1159,4325,54,14
+National Identity Management Commission	767,506,1117,79,189,67,80,129,279,490,40,377,303,149,222,67,354,52,17,37,239,14,151,422,352,37,153,182,270,3,75,95,95,45,59,48,69,21,13,82,2,99,61,165,47,468,124,113,289,276,280,210,213,64,117,149,281,393,29,3,561,24,49,152,13,60,49,13,1,6,3,4,58,1159,4325,54,14,82
 National Identity Management Commission Act	6689,1751,1230
 National Identity Management Commission National Information	10157
 National Identity Management Commission. Tags	7144
@@ -8229,7 +8238,7 @@ National Information Technology Authority-Uganda	5064,1512,1456,42,649,1060,2,44
 National Information Technology Authority-Uganda Palm Courts	11750
 National Information Technology Development	5215
 National Information Technology Development Act	5665
-National Information Technology Development Agency	2218,176,68,218,45,208,1,120,79,489,122,198,641,38,69,35,940,60,333,478,153,308,113,451,69,116,2,675,1,15,547,131,1,245,210,2,96,82,127,77,1,57,142,113,40,117,146,107,1,271,1,88,85,178,34,268,226,120,41,2,237,643,1,5,400,3532,758,154
+National Information Technology Development Agency	2218,176,68,218,45,208,1,120,79,489,122,198,641,38,69,35,940,60,333,478,153,308,113,451,69,116,2,675,1,15,547,131,1,245,210,2,96,82,127,77,1,57,142,113,40,117,146,107,1,271,1,88,85,178,34,268,226,120,41,2,237,643,1,5,400,3532,758,154,31,54
 National Information Technology Development Agency Act	10157,1836
 National Information Technology Development Agency NVDA	11952
 National Information Technology Development Agency Nigeria	8764
@@ -8403,7 +8412,7 @@ National Intelligence Estimates	1000,10277
 National Intelligence Law	17695
 National Intelligence Priority	11277
 National Intelligence Research University	2775,2936
-National Intelligence Service	5711,1076,820,3857,211,2871,794
+National Intelligence Service	5711,1076,820,3857,211,2871,794,2405
 National Intelligence Service. Shoshana Zuboff	4258
 National Intelligence and Security Service	15342
 National Intelligence and Security System	10822
@@ -8470,11 +8479,12 @@ National Judiciary Conference	15231
 National Jun	16436
 National Justice Conference	15231
 National Justice Sector Transformation Roadmap	14012
+National KE CIRT	17746
 National KE- Visit	6946
-National KE-CIRT	3983,2688,275,602,4127,587
+National KE-CIRT	3983,2688,275,602,4127,587,5484
 National KYC	14997
 National Kenya Computer Incident	6946
-National Kenya Computer Incident Response Team	7481,4781
+National Kenya Computer Incident Response Team	7481,4781,5484
 National Key Points Act	5161
 National Key Result Areas	14965
 National LIMS	14750
@@ -8841,7 +8851,7 @@ National Organisations	10819
 National Organization for Social Insurance	15519
 National Organization for Urban Unified Building Law	15473
 National Organizing Committee	17260
-National Orientation Agency	7141,3,1407,2578,737
+National Orientation Agency	7141,3,1407,2578,737,5926
 National Outcome Indicator Reporting Frequency Biennial	14819
 National Outcomes	12444
 National Outgoing	3862
@@ -9067,7 +9077,7 @@ National Police Leadership Academy	14505
 National Police Publicist Peter Kalaya	14190
 National Police Reservists	14535
 National Police Security Management Information System	14965
-National Police Service	2775,1208,2828,55,682,1400,2516,211,635,1954,158,124,118
+National Police Service	2775,1208,2828,55,682,1400,2516,211,635,1954,158,124,118,3081
 National Police Service Commission	14546
 National Police Service Information Management System	3320
 National Police Service Level Four Hospital	12310
@@ -9591,6 +9601,7 @@ National Science and Technology Policy	12544,397,3920
 National Scientific Committee	14286
 National Scientific and Technological Research Council	16852
 National Scrap Metal Management Framework	16511
+National Seafarers Development Programme	17808
 National Secretariat	13332,4344
 National Secretary	8588
 National Sector Review	11900
@@ -9996,6 +10007,7 @@ National Strategy and Action Plan	12939,685,1118,9,23
 National Strategy and Costed Action Plan	14742
 National Strategy and Plan of Action	12977
 National Strategy and UN SDGs	12917
+National Strategy for AI	17780
 National Strategy for Artificial Intelligence	3826,15,1674,260,4366
 National Strategy for Birth Registration	10765,10
 National Strategy for Broadband Access	11529
@@ -10057,6 +10069,7 @@ National Student Union	16963
 National Study Office Techniques and Development	15622
 National Subscriber Identification System	3805
 National Sudanese	14853,489
+National Sugar Stakeholders Council	17770
 National Summary Data	9485
 National Summary Data Page	11554,419,2804,974,1335
 National Summary of Human Resources for Health	4217
@@ -10947,7 +10960,7 @@ Office Nationale du Cacao	15999
 Office des Nations	14403
 Office du Service Civique National	15936
 Office for Europe Place des Nations CH-1211 Geneva	10764,80
-Office for Europe Place des Nations Union	11563
+Office for Europe Place des Nations Union	11563,6180
 Office of National Identification	10812
 Office of National Identification PNDES National Plan	10812
 Office of National Identification of Burkina Faso	10812
@@ -11217,7 +11230,7 @@ Pie Chart Key Progress National Rice	17139
 Pipeline Corporation NWHS National Water Harvesting	2775
 Place des Nations CH-1211 Geneva	10764,80,719
 Place des Nations CH-1211 Geneva E-mail	26,1,1
-Place des Nations Place des Nations CH-1211 Geneva	11563
+Place des Nations Place des Nations CH-1211 Geneva	11563,6180
 Plan Comptable National	13301
 Plan Foncier National	16420,6
 Plan NBS National Bureau of Statistics NCC	11857
@@ -11451,7 +11464,7 @@ Programme UNECE United Nations Economic Commission	13042
 Programme UNESCO United Nations Educational	6946,602
 Programme UNMIL United Nations Mission	16943
 Programme United Nations Population Fund United	16973
-Programme des Nations	3850,757,1475,3212,1237,3166,97,1043,978,129,431,29,284,2,870
+Programme des Nations	3850,757,1475,3212,1237,3166,97,1043,978,129,431,29,284,2,870,223
 Programme des Nations Unies	737,28,2638,922,3315,85,179,846,141,164,413,151,873,220,109,53,91,979,1433,99,107,34,825,92,8,75,5,31,821,1,247,2,59,65,486,144,163,3,26,13,788
 Programme des Nations-Unies	1684,9028,4958
 Programmes Nationaux	15848
@@ -12192,7 +12205,7 @@ Smart National Transport Databank	10603
 Smart Wallet National	3616
 Smart Wallet National. Cet	3616
 Smart Zambia Institute National Co-ordinator Percy	5501
-Smart Zambia Institute National Coordinator	9379
+Smart Zambia Institute National Coordinator	9379,8406
 Smart Zambia Institute National Coordinator PERCY	5483
 Smart Zambia Institute National Coordinator Percy	12416,1155
 Smart Zambia Institute UNCDF United Nations	13347
@@ -12389,6 +12402,7 @@ Southern Nations	12158,1790
 Southern Nations Nationalities and People’s Region	1212
 Sovereign National Cloud	5403
 Sovereignty and National Interest	4528,7984
+Sovereignty and National Security Concerns	17745
 Space Policy and National Space Strategy	1131
 Spanish National Research Council	1554
 Spanish National Research Council MOU	1554
@@ -12874,6 +12888,7 @@ UK's National Health Service	10538
 UK. UK Government. United Nations Conference	11879
 UML United Nations Convention	15129
 UMOA TPN Trésor Public National UEMOA	4459
+UN Assembly President. United Nations Urbain	17773
 UN DESA United Nations Department of Economic	11960
 UN DEVELOPMENT SYSTEM SUPPORT TO NATIONAL	14959
 UN IGME United Nations Inter-agency Group	11887,266,1,9,178
@@ -13038,7 +13053,7 @@ United Nation's E-Government Development Index	12674
 United Nation's Sustainable Development Goals	940,11734
 United National Children’s Fund World Food	15601
 United National Population Fund VAC Violence	12939
-United Nations	236,79,626,20,282,391,4,176,73,25,205,145,87,86,90,4,148,114,167,203,71,12,321,18,21,108,149,57,1,1,207,143,258,98,378,40,30,13,23,55,80,122,166,21,188,261,195,114,61,101,138,29,64,244,94,16,53,58,29,43,67,11,103,9,20,8,79,9,130,71,96,25,136,44,63,250,17,248,85,27,205,73,25,39,24,30,512,3,57,364,138,82,159,263,51,10,1,9,34,21,1,11,4,107,1,1,4,35,24,43,78,5,23,8,3,5,2,15,14,34,4,17,5,48,8,58,71,56,11,16,17,12,28,4,38,206,10,1,16,3,8,14,11,40,26,10,6,136,15,1,4,1,4,38,4,9,13,4,10,37,49,3,5,2,1,3,10,4,2,3,7,9,37,28,46,20,5,21,11,82,33,8,7,1,17,33,34,27,42,82,31,7,14,2,8,3,6,5,51,3,2,7,31,13,2,27,22,4,18,19,29,5,34,78,1,27,8,15,6,6,81,10,24,34,1,68,49,91,12,31,12,1,130,39,12,19,22,89,79,79,132,25,52,31,49,108,1,54,3,10,3,21,8,3,32,10,9,3,22,21,5,15,1,1,1,37,1,24,6,36,19,2,17,17,24,13,36,91,15,10,166,4,32,31,13,1,26,56,16,14,16,1,13,24,3,2,52,10,6,170,18,32,85,153,9,382,51,156,49,7,4,16,9,4,6,1,2,5,6,6,14,5,6,8,6,1,1,3,4,1,1,6,57,33,20,12,21,26,12,1,17,8,73,19,32,3,11,15,48,50,22
+United Nations	236,79,626,20,282,391,4,176,73,25,205,145,87,86,90,4,148,114,167,203,71,12,321,18,21,108,149,57,1,1,207,143,258,98,378,40,30,13,23,55,80,122,166,21,188,261,195,114,61,101,138,29,64,244,94,16,53,58,29,43,67,11,103,9,20,8,79,9,130,71,96,25,136,44,63,250,17,248,85,27,205,73,25,39,24,30,512,3,57,364,138,82,159,263,51,10,1,9,34,21,1,11,4,107,1,1,4,35,24,43,78,5,23,8,3,5,2,15,14,34,4,17,5,48,8,58,71,56,11,16,17,12,28,4,38,206,10,1,16,3,8,14,11,40,26,10,6,136,15,1,4,1,4,38,4,9,13,4,10,37,49,3,5,2,1,3,10,4,2,3,7,9,37,28,46,20,5,21,11,82,33,8,7,1,17,33,34,27,42,82,31,7,14,2,8,3,6,5,51,3,2,7,31,13,2,27,22,4,18,19,29,5,34,78,1,27,8,15,6,6,81,10,24,34,1,68,49,91,12,31,12,1,130,39,12,19,22,89,79,79,132,25,52,31,49,108,1,54,3,10,3,21,8,3,32,10,9,3,22,21,5,15,1,1,1,37,1,24,6,36,19,2,17,17,24,13,36,91,15,10,166,4,32,31,13,1,26,56,16,14,16,1,13,24,3,2,52,10,6,170,18,32,85,153,9,382,51,156,49,7,4,16,9,4,6,1,2,5,6,6,14,5,6,8,6,1,1,3,4,1,1,6,57,33,20,12,21,26,12,1,17,8,73,19,32,3,11,15,48,50,22,335
 United Nations AI for Good Global Commission	11682
 United Nations AI for Good Global Summit	7174
 United Nations Administrative Region	13042
@@ -13117,7 +13132,7 @@ United Nations Development Program UNECA United	13005,3916
 United Nations Development Program UNICEF United	13332
 United Nations Development Program USAID	16975
 United Nations Development Program. Experts	3583
-United Nations Development Programme	871,249,144,222,15,4,173,189,86,311,116,146,476,602,39,107,121,10,14,29,122,126,431,263,229,3,149,170,283,134,49,36,384,26,7,9,548,55,82,38,83,50,31,316,40,29,74,29,1,373,144,12,4,1,37,51,128,60,438,137,28,23,40,30,47,31,8,40,70,55,127,268,322,151,183,62,124,114,134,26,43,101,7,192,13,11,131,58,8,17,2,14,404,152,26,33,13,64,147,48,201,39,18,25,62,70,74,2,13,28,2,11,8,6,48,127,7,23,1,15,78,15,268,4,43,207,64,6,138,8,482,3,105,14,64,15,6,66,186,14,46,13,30,37,29,1,28,12,9,203,106,48,58,4,62,321,85,130,27,24,281,240,57,26,27,6,9,15,75,6,24,12,2,9,15,41,3,13,58,14,15,4,58,48,1,171,23,55,3,61
+United Nations Development Programme	871,249,144,222,15,4,173,189,86,311,116,146,476,602,39,107,121,10,14,29,122,126,431,263,229,3,149,170,283,134,49,36,384,26,7,9,548,55,82,38,83,50,31,316,40,29,74,29,1,373,144,12,4,1,37,51,128,60,438,137,28,23,40,30,47,31,8,40,70,55,127,268,322,151,183,62,124,114,134,26,43,101,7,192,13,11,131,58,8,17,2,14,404,152,26,33,13,64,147,48,201,39,18,25,62,70,74,2,13,28,2,11,8,6,48,127,7,23,1,15,78,15,268,4,43,207,64,6,138,8,482,3,105,14,64,15,6,66,186,14,46,13,30,37,29,1,28,12,9,203,106,48,58,4,62,321,85,130,27,24,281,240,57,26,27,6,9,15,75,6,24,12,2,9,15,41,3,13,58,14,15,4,58,48,1,171,23,55,3,61,76
 United Nations Development Programme DPI Safeguards	11940
 United Nations Development Programme Equatorial Guinea	17101
 United Nations Development Programme GDP	17101
@@ -13268,7 +13283,7 @@ United Nations Member States	12453,695,197,1397,705,1438
 United Nations Mission	3583,9368,4020
 United Nations Missions	16857
 United Nations Offi	13042
-United Nations Office	970,3157,1211,332,1136,954,1591,265,125,1035,380,416,994,406,122,288,1184,176,154,143,303,279,37,67,477,741,94
+United Nations Office	970,3157,1211,332,1136,954,1591,265,125,1035,380,416,994,406,122,288,1184,176,154,143,303,279,37,67,477,741,94,756
 United Nations Office Office	13003
 United Nations Office for Digital and Emerging Technologies	11057
 United Nations Office for Disarmament Affairs	2117
@@ -13295,7 +13310,7 @@ United Nations Pop-	15247
 United Nations Population Division	10881,4015
 United Nations Population Division. Review	11572
 United Nations Population Division’s World Urbanization	11964
-United Nations Population Fund	6705,997,47,1791,321,248,2029,13,262,167,169,190,7,16,78,7,438,582,75,754,143,17,669,1138,58,30,7,47,2,61,48,478
+United Nations Population Fund	6705,997,47,1791,321,248,2029,13,262,167,169,190,7,16,78,7,438,582,75,754,143,17,669,1138,58,30,7,47,2,61,48,478,203
 United Nations Population Fund Country	15039
 United Nations Population Fund UNICEF	16951
 United Nations Population Fund UNICEF United	11586
@@ -13354,7 +13369,7 @@ United Nations Sustainable Development	961
 United Nations Sustainable Development Cooperation Framework	10776,2186,24,2739,1218,30,316,2,31,79
 United Nations Sustainable Development Framework Guidance	16950
 United Nations Sustainable Development Goal	8147,889,3566,1538,608,64
-United Nations Sustainable Development Goals	582,358,21,235,1078,314,1538,1550,798,730,154,329,335,2569,231,155,27,898,54,400,57,526,141,311,1175,186,17,125,735,1245,37,64,168,152
+United Nations Sustainable Development Goals	582,358,21,235,1078,314,1538,1550,798,730,154,329,335,2569,231,155,27,898,54,400,57,526,141,311,1175,186,17,125,735,1245,37,64,168,152,501
 United Nations Sustainable Development Goals Guidance	1243
 United Nations Sustainable Development Goals. Africa	1196
 United Nations Sustainable Development Goals. Concurrently	4126
@@ -13390,7 +13405,7 @@ United Nations UR	12338
 United Nations USAID United States Agency	14434
 United Nations United Nations Education	15553
 United Nations Universal Declaration of Human Rights	8747,2430,779
-United Nations University	1380,4997,2233,2225,3,2,128,602,300,16,341,125,1,135,438,1747,877
+United Nations University	1380,4997,2233,2225,3,2,128,602,300,16,341,125,1,135,438,1747,877,2240
 United Nations University Centre for Policy Research	9616
 United Nations University Institute for Water	8258,6415
 United Nations University for Peace	17011
@@ -13470,9 +13485,10 @@ Universal Periodic Review National Report	14742
 Universal Postal Union and United Nations Commission	13382
 University NAIC National AI Council NAIS	12512
 University NDP National Development Plan NRA	12241,839,15
+University of Johannesburg United Nations	17773
 Université Nationale	7001,9484
 Université Nationale des Sciences	7001,9484
-União Internacional de United Nations House Oficina	11563
+União Internacional de United Nations House Oficina	11563,6180
 Unlimited Palau National Communications Company	15471
 Upgrade Required National Vision Vision	12512
 Upgrade of National Seismic Network	16511

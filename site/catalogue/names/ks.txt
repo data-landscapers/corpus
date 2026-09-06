@@ -58,7 +58,8 @@ KSMD Serekunda The Gambia Admin Contact	16845
 KSSF190	14997
 KSSF191	14997
 KSV TAF	12191
-KSh Bn	2775
+KSh Billions	17745
+KSh Bn	2775,14970
 KSh Gross	2775
 KSh Gross Fixed Capital Formation	2775
 KSh KSh	2775
@@ -74,6 +75,7 @@ KSh Mining	2775
 KSh Mn	2775
 KSh Mobile	2775
 KSh Overview	2775
+KSh Trillions	17745
 KSh Wholesale	2775
 KSh0.85	8782
 KSh1.1	12268

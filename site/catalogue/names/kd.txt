@@ -14,7 +14,7 @@ KD-5 Kaduna NorthWest	11857
 KD-6 Kaduna NorthWest	11857
 KDC-IDB Capital Limited	14546
 KDC-Kenya Tourist Development Corporation	14546
-KDEAP	6430,1050,153,936,640,5316
+KDEAP	6430,1050,153,936,640,5316,3220
 KDEAP TOLLFREE	14525
 KDEAP Through KDEAP	14525
 KDELOLWDGR FRP R FXUVR VXSH ULRU	11530
@@ -33,4 +33,5 @@ KDS Centre	12256
 Organization for Migration KDHS Kenya Demographic and Health	12151
 QV KDELWDFLR	11527
 Through KDEAP	14525
+World Bank KDEAP	17745
 World Bank-backed KDEAP	6430,157

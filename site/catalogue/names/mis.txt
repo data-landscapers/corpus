@@ -188,12 +188,13 @@ Composição da Missão	17147
 Computer Misuse	3983,2966,2196,3087,3081
 Computer Misuse Act	3005,2417,1527,5151,132,3081
 Computer Misuse Act. NITA-U ED	3275
-Computer Misuse and Cyber	12302
-Computer Misuse and Cyber Crimes Act	6432
-Computer Misuse and Cybercrime	6432,5778
+Computer Misuse and Cyber	12302,5443
+Computer Misuse and Cyber Crimes Act	6432,11314
+Computer Misuse and Cybercrime	6432,5778,5536
 Computer Misuse and Cybercrime Act	783,11519,2133,89,205,21
 Computer Misuse and Cybercrimes	4583,2204,3153,1175
-Computer Misuse and Cybercrimes Act	2709,1883,1840,355,694,66,1,2095,212,2355,92,2125,1509
+Computer Misuse and Cybercrimes Act	2709,1883,1840,355,694,66,1,2095,212,2355,92,2125,1509,1809
+Computer Misuse and Cybercrimes Act Framework	17745
 Computer Misuse and Cybersecurity	7548
 Conakry. Mise	8556
 Congo Life Word Mission	15786
@@ -264,6 +265,7 @@ Deputy Data Protection Commissioner Ms Misozi	13430
 Deputy Head of Mission	4952,5640,6705
 Deputy Heads of Mission of Belgium	13528
 Digital Access for All Mission	6946
+Digital Access for All. Our Mission	17746
 Digital Governance The Taiwan Technical Mission	15002
 Digital Lending Platform Still Missing	9650
 Digital Mission	10901
@@ -368,6 +370,7 @@ GabonReview Mis	12091
 Gambia Chapter of Africa Missions Global	17088
 Gambia's National Misinformation and Disinformation Response	17277
 German Forestry Mission	17140
+Germany’s Aleph Alpha and France’s Mistral AI	17780
 Gestion des Missions	15936
 Gestion des Moyens Missions	17446
 Ghana Mission	7099
@@ -482,7 +485,7 @@ Kenya MISSION	14503
 Kenya's Computer Misuse and Cybercrimes Act	17658
 Kenya. Computer Misuse and Cybercrimes Act	6432
 Kenya’s Computer Misuse and Cybercrime Act. Kennedy	8095
-Kenya’s Computer Misuse and Cybercrimes Act	8095
+Kenya’s Computer Misuse and Cybercrimes Act	8095,9650
 King Misuzulu KaZwelithini Deadly	2885,1650,350,49,187,653,25,474,547,1,222
 Kushang Mishra	12139
 Kwenda MIS	10768
@@ -1034,6 +1037,7 @@ Misuraca	12333
 Misuse	783,3878,1527,6271,846,1129
 Misuse Act	12232
 Misuse and Cybercrimes	12232
+Misuse and Cybercrimes Act	17745
 Misuse of EIB Group Resources and Assets	15901
 Misused of Diplomatic Pouch MOI Holds	17320
 MoSS MIS	15663

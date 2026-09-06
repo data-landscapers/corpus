@@ -252,7 +252,7 @@ Virgin	7343
 Virgin Islands	11470
 Virgin Orbit and Galactic	562
 Virgin Unite	562
-Virginia	3554,2966,147,470,42,292,1135
+Virginia	3554,2966,147,470,42,292,1135,9183
 Virginia Dignum	7112
 Virginia Eubanks	11156
 Virginia Tax Review	14932
@@ -300,6 +300,7 @@ Virtual Assets Developments The CBE	11134
 Virtual Assets Providers Act	11699
 Virtual Assets Service Provider	11976
 Virtual Assets Service Providers	14674
+Virtual Assets Service Providers Act	17745
 Virtual Assets Services Coordination Forum	7607
 Virtual Assets White Paper	7494,1736
 Virtual Assets and Initial Token Offering Services	14819

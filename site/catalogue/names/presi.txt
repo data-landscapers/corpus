@@ -1017,7 +1017,7 @@ Presidency.156	3583
 Presidency.36	13313
 Presidency’s Digital Services Unit	3922
 Presidency’s Inter-Ministerial Committee	3922
-President	3,8,16,206,1,79,2,230,42,312,59,14,42,117,23,44,16,8,11,1,48,51,10,45,86,80,39,149,12,19,56,45,1,16,18,60,19,129,125,63,1,1,4,7,1,58,1,11,5,26,37,8,70,31,60,32,9,60,67,51,20,44,1,50,58,12,6,25,56,36,22,44,10,49,86,19,8,90,81,21,1,16,1,31,5,77,32,14,37,16,13,33,3,21,8,51,5,14,4,21,1,67,28,20,1,11,12,42,21,8,9,22,19,8,25,2,20,212,14,47,22,43,13,10,5,45,25,17,18,25,72,55,27,56,25,112,3,96,5,13,8,57,3,56,147,47,121,34,73,41,23,41,19,3,11,7,34,4,3,9,3,2,39,75,11,12,53,33,33,1,7,91,26,54,84,8,93,115,28,4,12,3,2,1,3,22,14,39,53,12,2,8,5,70,30,16,77,28,17,103,79,70,6,1,4,6,34,2,44,12,3,62,2,30,44,2,9,19,124,14,10,89,54,3,31,171,29,1,120,12,4,10,25,6,61,28,20,38,38,72,67,6,70,11,120,28,60,4,20,15,6,57,67,18,5,7,9,110,1,37,78,59,67,1,75,51,35,87,28,80,6,83,9,32,13,54,12,41,90,13,8,3,6,86,60,32,1,48,42,31,32,51,27,79,10,79,40,14,2,1,2,7,13,97,13,15,14,7,4,13,4,1,7,14,1,1,1,2,1,1,5,1,1,9,2,9,8,6,13,9,1,16,9,8,9,14,77,84,53,8,20,6,90,22,19,166,3,2,4,7,41,2,9,9,15,14,21,1,10,5,44,19,8,30,41,3,9,6,50,19,48,20,31,6,44,3,3,6,7,12,59,33,20,34,2,1,3,10,4,2,1,19,19,8,4,11,10,20,8,92,58,72,1,4,4,2,4,1,13,1,3,36,1,22,2,3,37,26,72,21,67,76,1,1,4,2,1,1,1,14,1,1,1,1,1,1,4,1,5,1,3,4,20,32,1,3,12,37,3,16,11,2,5,4,10,2,8,25,1,5,11,1,36,66,3,10,14,19,47,5,72,44,39,12,37,4,4,52,28,21,62,8,181,17,23,6,33,18,4,1,12,8,19,27,17,11,14,17,11,20,28,6,5,68,1,11,34,1,2,1,1,3,9,6,1,5,4,16,4,21,15,1,12,3,4,2,13,2,2,3,2,2,4,4,3,4,1,9,14,4,9,1,3,8,7,1,40,12,6,43,3,17,55,62,67,18,35,52,27,9,21,9,9,46,2,14,19,19,42,21,10,3,17,17,8,41,9,34,18,3,64,60,12,16,83,158,55,20,4,37,13,19,2,2,6,46,188,57,20,7,11,17,18,30,37,80,6,28,3,2,1,3,1,1,2,4,3,1,7,12,2,2,2,8,1,2,56,8,10,9,2,3,8,2,32,8,12,20,13,35,3,11,19,1,20,1,13,1,13,29,19,10,12,3,17,3,11,29,10,1,16,17,15,9,3,3,44,119,22,29,12,32,26,30
+President	3,8,16,206,1,79,2,230,42,312,59,14,42,117,23,44,16,8,11,1,48,51,10,45,86,80,39,149,12,19,56,45,1,16,18,60,19,129,125,63,1,1,4,7,1,58,1,11,5,26,37,8,70,31,60,32,9,60,67,51,20,44,1,50,58,12,6,25,56,36,22,44,10,49,86,19,8,90,81,21,1,16,1,31,5,77,32,14,37,16,13,33,3,21,8,51,5,14,4,21,1,67,28,20,1,11,12,42,21,8,9,22,19,8,25,2,20,212,14,47,22,43,13,10,5,45,25,17,18,25,72,55,27,56,25,112,3,96,5,13,8,57,3,56,147,47,121,34,73,41,23,41,19,3,11,7,34,4,3,9,3,2,39,75,11,12,53,33,33,1,7,91,26,54,84,8,93,115,28,4,12,3,2,1,3,22,14,39,53,12,2,8,5,70,30,16,77,28,17,103,79,70,6,1,4,6,34,2,44,12,3,62,2,30,44,2,9,19,124,14,10,89,54,3,31,171,29,1,120,12,4,10,25,6,61,28,20,38,38,72,67,6,70,11,120,28,60,4,20,15,6,57,67,18,5,7,9,110,1,37,78,59,67,1,75,51,35,87,28,80,6,83,9,32,13,54,12,41,90,13,8,3,6,86,60,32,1,48,42,31,32,51,27,79,10,79,40,14,2,1,2,7,13,97,13,15,14,7,4,13,4,1,7,14,1,1,1,2,1,1,5,1,1,9,2,9,8,6,13,9,1,16,9,8,9,14,77,84,53,8,20,6,90,22,19,166,3,2,4,7,41,2,9,9,15,14,21,1,10,5,44,19,8,30,41,3,9,6,50,19,48,20,31,6,44,3,3,6,7,12,59,33,20,34,2,1,3,10,4,2,1,19,19,8,4,11,10,20,8,92,58,72,1,4,4,2,4,1,13,1,3,36,1,22,2,3,37,26,72,21,67,76,1,1,4,2,1,1,1,14,1,1,1,1,1,1,4,1,5,1,3,4,20,32,1,3,12,37,3,16,11,2,5,4,10,2,8,25,1,5,11,1,36,66,3,10,14,19,47,5,72,44,39,12,37,4,4,52,28,21,62,8,181,17,23,6,33,18,4,1,12,8,19,27,17,11,14,17,11,20,28,6,5,68,1,11,34,1,2,1,1,3,9,6,1,5,4,16,4,21,15,1,12,3,4,2,13,2,2,3,2,2,4,4,3,4,1,9,14,4,9,1,3,8,7,1,40,12,6,43,3,17,55,62,67,18,35,52,27,9,21,9,9,46,2,14,19,19,42,21,10,3,17,17,8,41,9,34,18,3,64,60,12,16,83,158,55,20,4,37,13,19,2,2,6,46,188,57,20,7,11,17,18,30,37,80,6,28,3,2,1,3,1,1,2,4,3,1,7,12,2,2,2,8,1,2,56,8,10,9,2,3,8,2,32,2,6,12,20,13,35,3,11,19,1,20,1,13,1,13,29,19,10,12,3,17,3,11,29,10,1,16,17,15,9,3,3,44,119,22,29,12,32,26,30,40,44,1
 President Abdel Fattah	15926
 President Abdel Fattah Al-Sisi. Rashwan	16490
 President Abdel Fattah El Sisi	10103,5553
@@ -1297,7 +1297,7 @@ President Renewed Hope Agenda	7664
 President Roch Marc Christian Kabore	16256
 President Romuald Wadagni	8500,2387
 President Romuald Wadagni. Akplogan	6440
-President Ruto	1236,486,706,19,65,154,878,431,821,346,771,237,260,170,135,72,9,344,729,53,204,91,57,109,1947,1938,32,2176,124,15
+President Ruto	1236,486,706,19,65,154,878,431,821,346,771,237,260,170,135,72,9,344,729,53,204,91,57,109,1947,1938,32,2176,124,15,3140
 President Ruto's Rebuttal President William Ruto	2515
 President Ruto's US	1720
 President Sahle-Work Zewde. Daniel Fikadu Law	12185
@@ -1329,7 +1329,7 @@ President Tinubu Directs FCCPC To Investigate	11313
 President Tinubu’s Renewed Hope Agenda	3018
 President Touadéra	4127,11625
 President Trina S. Haque Country Director	11924
-President Trump	2547,172,464,866,1114,5281,691,19,1969,907,1062,2031,434
+President Trump	2547,172,464,866,1114,5281,691,19,1969,907,1062,2031,434,223
 President Trump AA Enough	2719
 President Trump's Senior Adviser URL	14030
 President Trump’s Cyber Strategy for America	11342
@@ -1340,7 +1340,7 @@ President United Arab Emirate Mohamed	12026
 President Wadagni	6440
 President Wavel Ramkalawan of Seychelles	2371
 President Weah	16870
-President William Ruto	1236,486,90,616,19,65,154,1486,318,672,1019,393,233,9,7,20,2,110,546,152,201,35,53,295,166,701,125,572,465,83,303,29,423,591,52,541,32,1895,69,212,124,15,2952,140
+President William Ruto	1236,486,90,616,19,65,154,1486,318,672,1019,393,233,9,7,20,2,110,546,152,201,35,53,295,166,701,125,572,465,83,303,29,423,591,52,541,32,1895,69,212,124,15,2952,140,48
 President William Ruto and Raila Odinga	7833
 President William Ruto. Kang	8274
 President William Samoei Ruto of Kenya and Salim	1639
@@ -1418,6 +1418,7 @@ President of Djibouti Ismaïl Omar Guelleh	183
 President of ECOWAS Commission H.E. Amina J	7452
 President of Ethiopia Sahle-Work Zewde	12188
 President of Federal Government of Somalia. The Board	14882
+President of GRCS	17757
 President of Gabon	16285
 President of Guinea	16622
 President of Guinea Bissau H.E. Jose Mario	11579
@@ -1472,6 +1473,7 @@ President of The Rockefeller Foundation	11137
 President of Zimbabwe	4528,7984,799,5,154,87,135
 President of Zimbabwe. PART I PRELIMINARY	13319
 President of Zimbabwe. PART I Preliminary	972
+President von Der Leyen. European Commission	17780
 President&CEO	9796
 President's Delivery Unit	3237,2238,4652
 President's Emergency Plan for AIDS Relief	7750,5175
@@ -1566,7 +1568,7 @@ Presidente. Artigo	12823
 Presidentes	11393,168,4468,842,232
 Presidentes Parlamento Nacional	4209
 Presidentes de Comunidades	16925
-Presidential	958,812,7,992,224,1595,9,12,2843,98,2095,512,156,466,257,179,74,697,150,65,98,39,12,21,42,98,57,30,307,1,406,2,104,54,231,53,731,233,205,46,85,280,343,23,23,202,903,195,203,13,182
+Presidential	958,812,7,992,224,1595,9,12,2843,98,2095,512,156,466,257,179,74,697,150,65,98,39,12,21,42,98,57,30,307,1,406,2,104,54,231,53,731,233,205,46,85,280,343,23,23,202,903,195,203,13,182,369
 Presidential AI Scholarships	4528,7984
 Presidential Adviser	4668
 Presidential Advisor	16197
@@ -1874,7 +1876,7 @@ South Africa. President Zuma	11183
 South African Presidency Establish	11195
 South African President	544,18,7453
 South African President Cyril	1997
-South African President Cyril Ramaphosa	4057,2873,100
+South African President Cyril Ramaphosa	4057,2873,100,10744
 South Africa’s G20 Presidency. Department of Home	9250
 South Africa’s Presidency	5044
 South Asia President Zuma and Prime Minister	11183
@@ -1919,11 +1921,12 @@ Travail PRESIDENCE DE LA REPUBLIQUE LOI	15351,151
 Travail PRESIDENCE DE LA RÉPUBLIQUE LOt	15429
 Treaty. The Presidential Council	17438
 Trovoll PRESIDENCE DE LA REPUBLIQUE LOt	10813
+Trump and Chinese President Xi Jinping	17802
 Tsedey Bank President Yohannes Ayalew	11741
 Tshokoma Training and Consulting. President Cyril Ramaphosa	8598
 Téla Nón O Presidente da Assembleia Nacional	5818
 U.S. President	17736
-U.S. President Donald Trump	5440,3333,1956
+U.S. President Donald Trump	5440,3333,1956,7073
 U.S. President Donald Trump and Chinese	8014
 U.S. President's Emergency Fund for AIDS Relief	12334
 U.S. President’s Emergency Plan for AIDS Relief	10641
@@ -1936,6 +1939,7 @@ UL President Unveils Bold Plan	10405
 UL Vice President for ICT	17090
 UL Vice President for Institutional Development Planning	17090
 ULS Vice President Anthony Asiimwe	4753
+UN Assembly President. United Nations Urbain	17773
 UNE PRIORITE PRESIDENTIELLE POUR L'EMERGENCE	2695
 US Presidency	7242
 US President	2626,8528
@@ -2024,6 +2028,8 @@ Vice President Teodoro Nguema Obiang Mangue	12870,4102
 Vice President Tiémoko Meyliet Koné	9275
 Vice President Visi Perezida	15027
 Vice President W.K. Mutale Nalumango	12474
+Vice President Wang	17793
+Vice President Wang Xu	17793
 Vice President and Chief Executive Officer of Liquid	13615
 Vice President and Head of Customer Unit West	4906
 Vice President and Head of East Africa	8623

@@ -33,6 +33,7 @@ Adoption Rate	4528,7984
 Adoption Rates Private	7548
 Adult Literacy Rate	17503
 Africa Credit Ratings Initiative	11356
+Africa Ratification Map	17745
 Africa. Ratification	12302
 African Average Banking NPL Ratio	6938
 African Average Inflation Rate	6938
@@ -728,6 +729,7 @@ M Interbank Rate	15023
 M&E Quality Rating Modest	14888
 M&E Quality Rating Substantial	16960
 M. Georges Crepin MIHINDOU RATANGA. M	16175
+MALABO RATIFICATION SENEGAL Malabo	17745
 MALAWI DIGITAL READINESS ASSESSMENT Identification RATING	12214
 MATERNAL MORTALITY RATIO	16892,79
 MBANKOMO Rationalisation des Révision	10975
@@ -749,6 +751,7 @@ Madagascar Youth Employment Rate	14576
 Madame RATSIMBAZAFY SOLIFARA Hanitranirina Yvette Liva	14537
 Main Villages Demonstrating High Rates	15578
 Maintaining Banking Sector Adequate Liquidity Ratios	11131
+Malabo Ratification and Implementation	17745
 Mansakonko Rationale	17285
 Marked for Deletion Rationale	1228
 Marrakesh Treaty Ratification	11935
@@ -1139,13 +1142,13 @@ Rates and Fees	17243
 Rates and Valuation Office	11129
 Rates and Valuation Officer	11129
 Rates. Respondents	17212
-Rather	10,418,533,75,1,124,827,129,337,248,304,301,163,37,76,12,531,1,132,188,116,39,23,75,32,19,221,25,47,128,70,40,4,16,161,237,73,5,21,1,3,66,23,22,61,177,125,67,37,5,1,31,49,24,7,14,32,15,3,31,10,245,3,96,1,23,25,1,1,68,5,71,9,21,3,3,31,11,33,28,33,23,2,28,15,24,14,45,3,105,5,40,71,57,5,2,23,13,1,63,16,7,31,1,13,18,13,14,15,2,1,17,22,51,4,17,12,4,10,13,2,127,12,8,8,10,10,69,13,33,1,23,8,2,4,119,22,4,15,18,75,47,17,8,34,19,15,9,5,1,43,63,5,4,20,23,2,15,66,36,20,20,33,87,55,97,34,16,82,23,50,15,25,33,2,18,4,5,7,65,31,6,3,24,91,38,29,36,40,50,5,59,54,4,65,44,4,66,48,62,42,51,34,19,53,21,22,113,9,1,19,23,30,14,51,18,19,11,20,52,51,20,21,40,3,135,72,33,12,12,3,35,72,37,155,2,66,16,46,38,20,122,2,63,31,1,27,3,1,72,252,48,216,92,120,44,24,52,30,211,86,17,37,20,458,21,405,1,140,113,78,25,67,175,15,17,7,3,14,122,131,537,134,278,166,110,81,30,3,5,5,62,112,120,33,108,110,38,152,14,51,23,65,25,1,3
+Rather	10,418,533,75,1,124,827,129,337,248,304,301,163,37,76,12,531,1,132,188,116,39,23,75,32,19,221,25,47,128,70,40,4,16,161,237,73,5,21,1,3,66,23,22,61,177,125,67,37,5,1,31,49,24,7,14,32,15,3,31,10,245,3,96,1,23,25,1,1,68,5,71,9,21,3,3,31,11,33,28,33,23,2,28,15,24,14,45,3,105,5,40,71,57,5,2,23,13,1,63,16,7,31,1,13,18,13,14,15,2,1,17,22,51,4,17,12,4,10,13,2,127,12,8,8,10,10,69,13,33,1,23,8,2,4,119,22,4,15,18,75,47,17,8,34,19,15,9,5,1,43,63,5,4,20,23,2,15,66,36,20,20,33,87,55,97,34,16,82,23,50,15,25,33,2,18,4,5,7,65,31,6,3,24,91,38,29,36,40,50,5,59,54,4,65,44,4,66,48,62,42,51,34,19,53,21,22,113,9,1,19,23,30,14,51,18,19,11,20,52,51,20,21,40,3,135,72,33,12,12,3,35,72,37,155,2,66,16,46,38,20,122,2,63,31,1,27,3,1,72,252,48,216,92,120,44,24,52,30,211,86,17,37,20,458,21,405,1,140,113,78,25,67,175,15,17,7,3,14,122,131,537,134,278,166,110,81,30,3,5,5,62,112,120,33,108,110,38,152,14,51,23,65,25,1,3,29,3,16
 Rathoar Parsand	14797
 Rathäuser	1533,687
 Ratifi	15380
 Ratificación	17089
 Ratificar	4146
-Ratification	240,2385,2900,3278,4508,12,3,4,4,53,571,115,65,595,9,9,487,730,207,539,170
+Ratification	240,2385,2900,3278,4508,12,3,4,4,53,571,115,65,595,9,9,487,730,207,539,170,861
 Ratification Report	14671
 Ratification Status for Guinea-Bissau	11765
 Ratification and Signatories	11935
@@ -1159,11 +1162,12 @@ Ratificação	11374,527
 Ratified	1243,2618
 Ratified ECOWAS Supplementary Act	10908
 Ratified International Treaties	3861
+Ratifier	17745
 Ratifier la Convention	15968
 Ratify	1000,11453,2412,2086
 Ratify the Convention	14073
 Ratify the Reviewed National Treasury	14546
-Ratifying	16847
+Ratifying	16847,898
 Ratifying the AU	16884
 Ratifying the Convention	7102
 Ratifying the Malabo	969
@@ -1365,8 +1369,9 @@ Rural Electrification Rate Number	11923
 Rural Urbana Rural Ratio Alumno-Aula	16920
 Rwandans. Rather	12328
 S S Unemployment Rate	17503
-S&P Global Ratings	5202,2583,4024,3064
+S&P Global Ratings	5202,2583,4024,3064,2916
 S&P Global Ratings Confirms Rwanda's Credit	14873
+S&P Global Ratings Nigeria	17789
 SARB POLICY RATE CPI PPI PRIME	8571
 SCHEDULE IV REFERENCE RATE TERMS Part	16219
 SCR Student-Classroom Ratio SDG Sustainable Development	15604
@@ -1547,6 +1552,7 @@ Users’ Ratings of Accuracy	17149
 Users’ Ratings of Reliability	17149
 V. Overall PCR Rating	15758
 VAT Productivity and Standard Rates	10997
+VI. Rationale for Ratification	17745
 VOLUME NPLs Ratio Sources	17235
 Valuation and Rating of Properties	12531
 Variable Interest Rate. Maturity	7589

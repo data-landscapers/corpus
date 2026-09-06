@@ -159,6 +159,7 @@ Business Ministry of ICT	5658
 Businesses. Commercial ICT	13331
 C. ICT	14853
 C15 Capacity Building of ICT Common Services	12917
+CA and ICT Authority	17755
 CBS Principal Secretary State Department for ICT	6432
 CD-10 Identifier ICT Integrating the Healthcare Enterprise	1009
 CD. The ICT	34
@@ -253,6 +254,7 @@ Corporate Governance of ICT Policy Framework	1009
 Council ICT Information	14922
 Council of ICT Ministers	10073
 Country ICT Survey for Namibia. Sweden	12325
+Country The ICT Development Index	17743
 County Education and ICT	899
 County Governments Public Private ICTA Transparent	7548
 County ICT Directorate	9939
@@ -266,6 +268,7 @@ Currently the Liberian ICT	16963
 Cyber Security Capability THE ICT4D PILLARS	16861
 Cyber Security and Other ICT Legislative Initiatives	13295
 Cybersecurity Bill. INTIC Oversees ICT	3058
+Czech The ICT Development Index	17743
 D. ICT	14853
 D. ICT EQUIPMENT AND SERVICES	14853
 DBI ECOWAS FEC FMCIDE GBB ICT	10157
@@ -320,7 +323,7 @@ Description USAID ICT	534
 Description USTDA ICT	219
 Description While ICT-vote	2962
 Designation of National ICT Steering Committee	13956
-Detailed ICT	15471
+Detailed ICT	15471,2272
 Dev-supported Survey of ICT	14851
 Develop Gambia’s ICT Productive Sectors and Develop	16861
 Develop Government Government ICT ICT	12453
@@ -755,7 +758,7 @@ ICT Association of Malawi	2231,33,1774,7591,612,818,21,15,17,4591
 ICT Association of Uganda	4235
 ICT Association of Zambia	13347
 ICT Association of Zambia Act No	13347
-ICT Authority	899,1843,171,1624,1469,127,145,3,151,74,121,814,39,68,2,1214,314,777,25,2382,2179,84,21,234,42,3,2774
+ICT Authority	899,1843,171,1624,1469,127,145,3,151,74,121,814,39,68,2,1214,314,777,25,2382,2179,84,21,234,42,3,2774,156
 ICT Authority Bill	8382
 ICT Authority CEO	5108
 ICT Authority Chairperson Tassarajen Pillay Chedumbrum	9949
@@ -782,8 +785,8 @@ ICT Business Resilience Subcommittee	11134
 ICT CFT	899,16064
 ICT CHAMBER	1204
 ICT COMPLAINTS AND CALL CENTRE HUMAN	11198
-ICT Cabinet Secretary Eliud Owalo	3983,13724
-ICT Cabinet Secretary William Kabogo	8091,2714
+ICT Cabinet Secretary Eliud Owalo	3983,13724,48
+ICT Cabinet Secretary William Kabogo	8091,2714,6950
 ICT Cabinet and Principal Secretaries	12149
 ICT Cadre	12674
 ICT Capacity Development	4483,2,6,11225
@@ -830,7 +833,7 @@ ICT Data Collection Unit	14888
 ICT Data Hub	6946
 ICT Data Interoperability Standard	12360
 ICT Data Week	11424
-ICT Data and Analytics Division	11424,2674,1373
+ICT Data and Analytics Division	11424,2674,1373,2272
 ICT Data and Statistics Division	961
 ICT Day	958,5375,5908,839,15,1856,169,50,1134
 ICT Day Celebration	12241
@@ -842,14 +845,16 @@ ICT Departments	14750
 ICT Deployment	16861
 ICT Deputy Minister Wenzel Kavaka	14293
 ICT Develop	1161
-ICT Development	3382,2272,6599
+ICT Development	3382,2272,6599,5490
 ICT Development Agency	4132
 ICT Development Foreword	582
-ICT Development Index	582,213,1094,381,113,185,7,644,13,539,35,167,105,6686,660,1871,1541,536,75,33,32,1360,146,389
+ICT Development Index	582,213,1094,381,113,185,7,644,13,539,35,167,105,6686,660,1871,1541,536,75,33,32,1360,146,389,336
+ICT Development Index ICT Development Index	17743
 ICT Development Index IDI	14836
 ICT Development Index IGF	958
 ICT Development Index IGF Internet Government	13295
 ICT Development Index Ranking	11935
+ICT Development Index This Annex	17743
 ICT Development Report	13930,3518
 ICT Development Review Institutional	13295
 ICT Development and Management	12917
@@ -918,7 +923,7 @@ ICT HUB Information	12911
 ICT Help Desk	34
 ICT Helpdesk	15164
 ICT House	11184
-ICT Household Indicators	3641,7783
+ICT Household Indicators	3641,7783,6319
 ICT Households	14739,31
 ICT Housing	9455
 ICT Hub	5109,3552,134,8091
@@ -937,7 +942,7 @@ ICT Implementation	14921
 ICT Implementation Regulation	961
 ICT Imports	236
 ICT Indicator Summary	15164
-ICT Indicators	582,3059,3305,4316,162,139,3908
+ICT Indicators	582,3059,3305,4316,162,139,3908,2272
 ICT Indicators Database	1248,8511,2585,3167,106,1323
 ICT Indicators Database. Geneva	16872
 ICT Indicators Quarterly Bulletin	15604
@@ -1093,6 +1098,7 @@ ICT OFFICE OF THE OFFICE	17235
 ICT Objectives and Goals Outcome	11231
 ICT Observatory	2913,11591
 ICT Observatory Focal Point Persons	3476
+ICT Offences	17745
 ICT Office	34,13957
 ICT Officer	34,9278,3067,1086,436
 ICT Officer MoH	34
@@ -1175,7 +1181,7 @@ ICT Regulatory Authority	2759,8152
 ICT Regulatory Authority of Côte	7189,2734
 ICT Regulatory Database	11529
 ICT Regulatory Sandbox	6946
-ICT Regulatory Tracker	10844
+ICT Regulatory Tracker	10844,6899
 ICT Regulatory Transformational Strategy and Roadmap. Four	15120
 ICT Research	13346
 ICT Research Hub	14681
@@ -1416,6 +1422,7 @@ ICT and Skills	12333
 ICT and Surveillance	15845
 ICT and Telecommunication Sector	16872
 ICT and Telecommunications	15120
+ICT and Telecommunications Sector. Strategic Direction	17746
 ICT and Trade	7990
 ICT and Vice President	4798
 ICT and Workshop	6946
@@ -1455,7 +1462,7 @@ ICT-dependent	16885
 ICT-dominated	14723,113
 ICT-driven	4877,1,137,93,1838,2750,1499,1778,341,2390,820,337
 ICT-driven SME	11032
-ICT-enabled	899,5312,72,442,3155,2745,1366,1173,247,36,106,456,863,103,432
+ICT-enabled	899,5312,72,442,3155,2745,1366,1173,247,36,106,456,863,103,432,338
 ICT-enhanced	899,453
 ICT-equipped	13625,1539
 ICT-focused	1554,1730,12207
@@ -1533,7 +1540,7 @@ ICT4AD	236,1653,1834,403,3828,4720,2955
 ICT4AD ICT for Accelerated Development ISP Internet	4126
 ICT4AD Policy	236
 ICT4AD and Digital Financial Services	7954
-ICT4D	226,759,3105,1730,2,2099,2805,2200,1953,1982,11,12,2,37,1
+ICT4D	226,759,3105,1730,2,2099,2805,2200,1953,1982,11,12,2,37,1,826
 ICT4D Action Plan	16861
 ICT4D Action Plans	16861
 ICT4D Community Should Demand Now	5820
@@ -1737,6 +1744,7 @@ ITU ICT Price Basket Questionnaire	15471
 ITU ICT-DF CHF	689
 ITU ICTPriceBaskets 2008-2024.xlsx	11563
 ITU ICTPriceBaskets Allowance 2024.xlsx	11563
+ITU Manual for Measuring ICT Access	17743
 ITU Price Baskets ICT Price Basket	12395
 ITU’s Global Cybersecurity Index Penetration of ICT	6946
 ITU’s ICT	11399
@@ -1817,6 +1825,7 @@ Interview Director ICT Public Utilities Regulatory	16926
 Introduce ICT	12453
 Introduction The ICT Sector Market	1944
 Introduction The National ICT Policy	16975
+Islamic The ICT Development Index	17743
 Ivoire’s ICT	3604
 JALIM Kunal Rai Principal ICT	14770
 Japan Donates ICT Equipment	7405
@@ -1840,7 +1849,7 @@ Kenya News Agency. ICT CS	899
 Kenya Strengthens ICT Devolution Partnership	8569
 Kenya and Lesotho Deepen ICT Regulatory Cooperation	14701
 Kenya's Department for ICT and Digital Economy	6792
-Kenya's ICT	8214,802,922,601
+Kenya's ICT	8214,802,922,601,7207
 Kenya's ICT Authority	8214
 Kenya's ICT-policy	9738
 Kenya's Ministry of ICT	12289
@@ -1874,12 +1883,15 @@ Lagos' ICT	2825
 Landlocked Developing Countries ICT	10844
 Landlocked Developing Countries Share of ICT	10844
 Languages ICT Devices	958
+Lao P.D.R. The ICT Development Index	17743
 Laptops Standards and Guidelines The ICT Unit	34
 Lead ICT	17099
 Lead ICT Policy Specialist TIC GTIDR	10812
 Lead Policy Officer ICT	10812
 Leader ICT Policy Advisor AFCW3	15411
 Leads ICT	17099
+Leone The ICT Development Index	17743
+Leste The ICT Development Index	17743
 Leverage ICT	1161,15814
 Leveraging ICT	5015,10019,1941
 Lex-Informatica Cyber Law and ICT Conference	8521
@@ -2400,7 +2412,7 @@ Republic of Rwanda Ministry of ICT and Innovation	1204
 Require ICT OpEx	15164
 Requisite National ICT Backbone Infrastructure	16861
 Research Council ICT Information	5246
-Research ICT Africa	236,350,74,120,1,1,179,24,6,1126,1555,504,268,70,186,83,225,36,197,80,482,19,230,366,18,76,374,62,155,206,645,71,118,303,152,235,3,923,1436,1130,332,1090,67,1118,1254
+Research ICT Africa	236,350,74,120,1,1,179,24,6,1126,1555,504,268,70,186,83,225,36,197,80,482,19,230,366,18,76,374,62,155,206,645,71,118,303,152,235,3,923,1436,1130,332,1090,67,1118,1254,1585
 Research ICT Africa After Access	544
 Research ICT Africa Just AI Framework	7103
 Research ICT Africa Mobile Pricing	15491
@@ -2626,6 +2638,7 @@ Swedish Programme for ICT	93,851,11681
 System ICT Information and Communication Technology ITU	13991
 Systems ICT Information Communication Technology IMF	13359
 T Green ICT	1284
+T ICT	17745
 TA and ICT	16949
 TA. ICT	6539
 TECHNOLOGY SECTOR REPORT The ICTAUS	12395
@@ -2746,6 +2759,7 @@ Uzbekistan No Vanuatu Yes National ICT	11529
 V. The ICT Expo	13053
 VII. ICT APPLICATIONS	14853
 VII. ICT APPLICATIONS A. E-GOVERNMENT	14853
+Vanuatu The ICT Development Index	17743
 Various ICT	395
 Vendor and ICT	9455
 Vendors Suppliers of ICT	17099

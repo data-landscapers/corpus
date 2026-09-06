@@ -132,6 +132,8 @@ KNEQAS LEN LIMS LLIN MCH MNCH	4153
 KPI LLM M&E MCAZ ML MOU	4528
 Key Performance Indicator LLM Large Language	12512
 Kuiper Systems LLC	4632
+LDCs LLDCs SIDS	17743
+LDCs LLDCs SIDS Universal Meaningful IDI	17743
 LDCs and LLDCs	11004
 LLA Act	17114
 LLA Bong County Administrator Amelia D.C	17145
@@ -144,9 +146,10 @@ LLC. Liberian International Ship and Corporate Registry	16832
 LLD and IA	16843
 LLD for FLEGT	16843
 LLDC Landlocked Developing Country ML Machine	13042
-LLDCs	2663,6282,1819,80,160,559,9,348,1122,3589
+LLDCs	2663,6282,1819,80,160,559,9,348,1122,3589,1112
 LLDCs Africa	10844
 LLDCs Africa N	10844
+LLDCs Arab States Lower-middle-income Asia-Pacific SIDS	17743
 LLDCs Asia	10844
 LLDCs Asia N	10844
 LLDCs Averages	10844
@@ -154,9 +157,10 @@ LLDCs Emerging	10844
 LLDCs Landlocked	10844
 LLDCs N	10844
 LLDCs Percentage	10844
+LLDCs SIDS	17743
 LLDCs World	10844
 LLDCs and LLDCs	10844
-LLDCs and SIDS	11004,2038
+LLDCs and SIDS	11004,2038,4701
 LLDCs-Africa and LLDCs-Asia	10844
 LLDCs. Artiﬁcial	10844
 LLDCs. Despite	10844
@@ -217,7 +221,7 @@ LlCSATDUN	16853
 LlLre	15399
 Llaitcieonnssi	736
 Llama	6879,1217,2037,3328
-Llama AI	6287
+Llama AI	6287,11493
 Llegó	14304
 Lleva	16871
 Llevar	16855,4,34

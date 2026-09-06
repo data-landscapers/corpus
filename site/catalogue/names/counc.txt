@@ -264,7 +264,7 @@ Coordination Council	11006,5909
 Corporate Council	3093,4
 Cost Sources Technologies Council	7548
 CounCil of Ministers	11517
-Council	7,134,444,373,196,66,23,292,19,223,187,24,129,202,114,305,845,119,89,70,126,43,96,1,308,93,47,101,220,350,11,265,303,308,12,34,25,52,221,39,2,13,301,89,25,23,48,64,61,178,122,6,3,1,20,22,54,111,162,11,13,93,149,156,106,393,22,34,269,61,102,57,49,90,11,324,23,104,49,54,255,101,472,187,44,51,28,6,19,1,1,22,4,16,3,30,6,18,10,10,14,228,147,40,102,51,48,62,37,147,50,26,111,18,156,14,1,4,112,18,13,1,26,5,20,60,107,1,11,1,10,3,51,1,99,8,179,146,15,44,8,7,468,3,76,27,71,212,75,13,12,127,40,29,34,50,1,4,16,1,2,4,26,5,1,20,12,20,9,4,8,50,100,4,6,228,128,538,149,152,319,281,41,4,5,24,9,2,40,31,17,44,33,87,38,180,81,3,7,55,45
+Council	7,134,444,373,196,66,23,292,19,223,187,24,129,202,114,305,845,119,89,70,126,43,96,1,308,93,47,101,220,350,11,265,303,308,12,34,25,52,221,39,2,13,301,89,25,23,48,64,61,178,122,6,3,1,20,22,54,111,162,11,13,93,149,156,106,393,22,34,269,61,102,57,49,90,11,324,23,104,49,54,255,101,472,187,44,51,28,6,19,1,1,22,4,16,3,30,6,18,10,10,14,228,147,40,102,51,48,62,37,147,50,26,111,18,156,14,1,4,112,18,13,1,26,5,20,60,107,1,11,1,10,3,51,1,99,8,179,146,15,44,8,7,468,3,76,27,71,212,75,13,12,127,40,29,34,50,1,4,16,1,2,4,26,5,1,20,12,20,9,4,8,50,100,4,6,228,128,538,149,152,319,281,41,4,5,24,9,2,40,31,17,44,33,87,38,180,81,3,7,55,45,232,28
 Council ARTICLE	14409
 Council Act OAG Office	6432
 Council Administrations	15721
@@ -344,11 +344,12 @@ Council of County AI Focal Point Intergovernme	7548
 Council of County Governors	14422,27,44
 Council of Education Ministers	11180,40
 Council of Elders	585,8281,1125
-Council of Europe	25,404,346,501,538,303,3246,1000,2073,2699,1260,3613,1322
+Council of Europe	25,404,346,501,538,303,3246,1000,2073,2699,1260,3613,1322,415,35
 Council of Europe Convention	8776,2132,246,3636
 Council of Europe Framework Convention	7112,4023
 Council of Europe's Glacy	783
 Council of Europe's Global Action	783
+Council of Europe’s AI Framework Convention. JCMS	17780
 Council of Europe’s Framework Convention	11135
 Council of Europe’s Steering Committee for New and Emerging	16202
 Council of Financial System Supervisors	6938
@@ -369,7 +370,7 @@ Council of Liberia	17070
 Council of Min-	15901
 Council of Minis	14874
 Council of Minister Resolution	15924
-Council of Ministers	7,738,17,443,66,310,218,165,162,180,45,55,136,510,176,18,348,12,132,123,16,48,436,1,40,18,15,140,214,47,93,139,293,56,358,191,100,116,10,139,46,7,56,3,31,495,93,29,361,86,394,810,1,26,194,463,322,1006,21,4,33,373,332,28,24,38,115,84,99,1,227,13,18,21,16,25,545,8,7,33,26,504,537,62,38,18,12,8,27,5,66,207,80,25,123,293,15,9,10,5,118,65,19,57,87,105,23,11,19,54,103,71,20,18,310,415,50,468,14,56,185
+Council of Ministers	7,738,17,443,66,310,218,165,162,180,45,55,136,510,176,18,348,12,132,123,16,48,436,1,40,18,15,140,214,47,93,139,293,56,358,191,100,116,10,139,46,7,56,3,31,495,93,29,361,86,394,810,1,26,194,463,322,1006,21,4,33,373,332,28,24,38,115,84,99,1,227,13,18,21,16,25,545,8,7,33,26,504,537,62,38,18,12,8,27,5,66,207,80,25,123,293,15,9,10,5,118,65,19,57,87,105,23,11,19,54,103,71,20,18,310,415,50,468,14,56,185,620
 Council of Ministers Approves	14122
 Council of Ministers Approves Digital Ethiopia	14051
 Council of Ministers Decree	12201
@@ -474,6 +475,7 @@ DRC's Presidential Strategic Oversight Council	3424
 Danish Refugee Council	6947,3894,1456
 Danish Refugee Council Diaspora Programme	6947
 Data CSIR Council for Scientific and Industrial Research	5246
+Data Governance Council	17745
 Dec-2025 Council	6969
 Deficiency Syndrome NHC National Health Council	396
 Dental Council	12413,2426
@@ -537,7 +539,7 @@ Dowa Council	6256
 Dowa District Council	6256,2319,4616
 Dr. Moses J. MRL-Teaching Council of Zambia	13392
 Drug and HIV. This Council	14742
-Dutch Research Council	4368,1125,463,585,3206
+Dutch Research Council	4368,1125,463,585,3206,8033
 Duties of Council	14714,1
 EAC Basic Education Council	14251
 EAC Council of Ministers	12164,2783
@@ -609,7 +611,7 @@ Eswatini National Research Council	11718
 Eswatini National Youth Council	13245
 Ethics Councils	11135
 Europe BAC Brikama Area Council BCC	16884
-European Council	11154
+European Council	11154,6626
 European Council and Mrs Ursula	11210
 European Payments Council	6938,5056
 European Research Council	9739,2351
@@ -914,7 +916,7 @@ Mayor of Limbe I Council	4594
 Mbabane City Council	12977
 Media Council	7650,1311
 Media Council Code of Media Practice	12100
-Media Council of Kenya	6160,786,763,859
+Media Council of Kenya	6160,786,763,859,9177
 Media Council of Kenya and Copyright Tribunal	8570
 Media Self-Regulation Council of Zambia	11691
 Media and Advertising Media Council L L	12210
@@ -1065,7 +1067,7 @@ National Council for Population and Development Dr. Mohammed	14523
 National Council for Preschool	11907
 National Council for Press and Journalistic Publications	15342
 National Council for Prices	11380
-National Council for Science and Technology	12358,2564
+National Council for Science and Technology	12358,2564,2839
 National Council for Science and Technology. Equity	14922
 National Council for Social Protection	16384
 National Council for Strategic Planning	14860
@@ -1173,6 +1175,7 @@ National Statistics Council Institut National	15501
 National Statistics Council NSDS II National	16927
 National Statistics Council SG1	17116
 National Strategic Planning Council	14857,3
+National Sugar Stakeholders Council	17770
 National Superintendents Council of Liberia. The Ministry	16970
 National Teachers Council	12175
 National Technical and Vocational Education Council	9450
@@ -1540,7 +1543,7 @@ Togo's Council of Ministers	1205
 Town Council	11171
 Town Councils and Town Boards	12970
 Town Foreman of Helao Nafidi Town Council	13003
-Trade and Technology Council	11155
+Trade and Technology Council	11155,6625
 Traditional Councils. The Public Private Partnerships	11285
 Traditional Leaders Grand Bassa Traditional Council	17099
 Traffic Safety Council of Zimbabwe	9394

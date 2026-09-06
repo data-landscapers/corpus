@@ -245,6 +245,8 @@ Information Literacy	1987,3546,2191,1136,352,2774,5415
 Information Science Literature	14790
 Information and Data Literacy	16942
 Integrating Digital Literacy	11879
+Integrative Literature Review	17773
+Integrative Literature Reviews	17773
 International Certification of Digital Literacy	12245
 International Reading Literacy Study	15604
 International Reading Literacy Study PPP Public-Private	15604
@@ -375,7 +377,7 @@ Literat	15342
 Literate	16950,1,176
 Literatura	16864
 Literaturas de Língua Portuguesa	15772
-Literature	1248,845,3,852,110,1374,2516,1073,1,108,330,668,109,522,1082,1086,304,102,615,1043,1670,52,76
+Literature	1248,845,3,852,110,1374,2516,1073,1,108,330,668,109,522,1082,1086,304,102,615,1043,1670,52,76,1984
 Literature Note	12948
 Literature Review	1988,3361,2952,2705,921,1051,170
 Literature Review Authors	9969
@@ -397,7 +399,8 @@ Litho	12748
 Lithops	13139
 Lithops BESS	12399
 Lithotripsy	14773
-Lithuania	5658,955,236,1497,2418,21,220,604,1066,1946,112,678,60
+Lithuania	5658,955,236,1497,2418,21,220,604,1066,1946,112,678,60,2272
+Lithuania EUR HI	17743
 Lithuania Lithuania	12675
 Lithuania N	10714
 Lithuania Residents Register	10714
@@ -405,7 +408,7 @@ Lithuania's AI	12675
 Lithuanian	1713,10962,4168
 Litigants	4718,4260
 Litigating	5242
-Litigation	4583,4395,528,2480,179,888,1343
+Litigation	4583,4395,528,2480,179,888,1343,3349
 Litigation Guardian Mr CJ CLAIMANT	13040
 Litigation Litigation	13053
 Litigation Registrars	8978
@@ -443,6 +446,7 @@ Litsoeneng and Khukhune Substations	12767
 Litter	17140
 Litter Pools	17140
 Little	1219,609,690,3,1062,8284,38,555,488,1999,606,471,834
+Little Accountability	17782
 Little Bassa	17139
 Little Elobey	16942
 Little Help From My Friends	5349

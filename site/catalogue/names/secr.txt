@@ -192,6 +192,7 @@ CRASA Secretariat	11798
 CRASA and SADC Secretariats	26,1,1
 CRS Secretary Paul Mwangemi	5299
 CS Cabinet Secretary for ICT CSP Cloud	6432
+Cabinet Secre	17745
 Cabinet Secretaries	2742,4806,2765,1493,2825,33
 Cabinet Secretary	1131,615,920,43,1443,479,1600,201,156,199,159,602,59,224,1,736,1712,33,934,217,675,12,81,24,24,21,13,1556,169,143,40,48,130,7,3,5,7,5,8,14,11,11,22,12,16,3,22,29,19,5
 Cabinet Secretary MICDE	7548
@@ -270,6 +271,7 @@ Committee Secretary. ISSUED BY PARLIAMENT COMMUNICATIONS	10569
 Commonwealth Secretariat	249,1083,9799,3,59,1482,4560
 Commonwealth Secretariat Debt Reducing and Management Sys	16876
 Commonwealth Secretariat While the WBI	11193
+Communications Ministry's Principal Secretary	17784
 Communications and Advocacy Expert EAC Secretariat Arusha	17646
 Community The Secretary General	14409
 Comoros Mr. Abdourahamani Said Bakari and Secretary	13791
@@ -292,6 +294,7 @@ Constitucional Secretario Sala	4209
 Contabilidad Publica Secretario de Estado	16904
 Contact The Secretary Bank of Ghana	17536
 Contrôle des Marchés Publics SECRÉTARIATS PERMANENTS	15449
+Convention Secretariat	17745
 Cooperatives Cabinet Secretary Wycliffe Oparanya	12268
 Coordinator and Secretariat	9838
 Copperbelt Permanent Secretary Lawrence Mwanza	5984
@@ -582,8 +585,8 @@ I'Etot Béninois. CHAPITRE VI SECRET STATISTIQUE	15561
 I- Secrétariat	15901
 IATI Secretariat	1651
 ICT Assistant Executive Secretary	12972
-ICT Cabinet Secretary Eliud Owalo	3983,13724
-ICT Cabinet Secretary William Kabogo	8091,2714
+ICT Cabinet Secretary Eliud Owalo	3983,13724,48
+ICT Cabinet Secretary William Kabogo	8091,2714,6950
 ICT Cabinet and Principal Secretaries	12149
 ICT Ministry Permanent Secretary Yves Iradukunda	2914
 ICT Principal Secretary	6787
@@ -597,6 +600,7 @@ ID for All The Cabinet Secretary for Interior	4631
 IDs. NRB Principal Secretary Patrick Machika	7041
 IFAP Secretariat	17401
 IFM de Ségou. Le Secrétaire	8577
+IGAD Deputy Executive Secretary Mohamed Abdi	17803
 IGAD Executive Secretary	14972
 IGAD Executive Secretary Dr.Workeneh Gebeyehu	14434
 IGAD Executive Secretary Workneh Gebeyehu	17696
@@ -615,6 +619,7 @@ ISO Secretary General The Secretary-General	17368
 ISO Secretary-General	17368
 ISO Secretary-General Sergio Mujica	15860
 ITU Deputy Secretary-General Tomas Lamanauskas and ICPC	7199
+ITU Secretariat	17743
 ITU Secretary General Dr Hamadoun I	14723
 ITU Secretary-General	7235,91,4594
 ITU Secretary-General Doreen Bogdan-Martin	1883,5256,60
@@ -853,6 +858,7 @@ NATIONAL AIDS SECRETARIAT	14773
 NATIONAL DE SÉCURITÉ Secrétaire de Cabinet	16381
 NATIONALE ET DE L’INSTRUCTION CIVIQUE SECRETARIAT	16381
 NBA National Secretariat	10049
+NC4 Secretariat	17745
 NCPWD Executive Secretary	12038
 NDCMP. The Secretariat	14742
 NEC Executive Secretary	12372
@@ -978,7 +984,7 @@ Perfect Forward Secrecy	11952
 Permanent Secretariat	6361,5539,2779,1705
 Permanent Secretariat for Innovation and Forecasting	7361
 Permanent Secretariat of CNR	11900
-Permanent Secretaries	1014,974,5985,1008,688,1921,863,642,237,13,1064,364,357,1722,99,137
+Permanent Secretaries	1014,974,5985,1008,688,1921,863,642,237,13,1064,364,357,1722,99,137,700
 Permanent Secretaries Committee	16885
 Permanent Secretaries and Accounting Officers. The Committee	16885
 Permanent Secretaries and Equivalent Grades	2779
@@ -1059,6 +1065,7 @@ Primer Secretario A2	4209
 Primer Secretario A3	4209
 Principal Secretaries	5536,5763,1000,113,560,4,1623
 Principal Secretaries for Interior	6787
+Principal Secretaries for Internal Security	17745
 Principal Secretaries for Reforms	10736
 Principal Secretary	3349,299,230,635,118,5,887,13,1003,248,44,107,8,123,338,73,68,57,777,187,223,365,52,7,224,380,493,86,732,2,1,330,675,160,1,9,21,82,14,259,9,1,1,17,7,7,29,138,16,26,36,5,24,4,49,3,18,26,13,2,8,102,644,537,3,12,27,44,68,33,5,42,4,2652
 Principal Secretary Dr.Bonface Makokha	14523
@@ -1381,7 +1388,7 @@ Secretarias Fiscalías de Salas	4209
 Secretarias Fiscalías de Salas Servicio	4209
 Secretarias Municipais	10766
 Secretarias Municipais Virtuais	1808
-Secretariat	21,5,1,1,290,269,184,169,22,20,172,89,21,290,1922,107,278,242,425,1173,426,217,297,221,177,222,191,70,1,25,215,535,69,102,58,212,296,118,15,39,48,106,221,348,29,198,12,17,1,73,53,4,4,24,131,364,24,265,9,134,493,32,1,8,1,93,16,142,87,30,163,6,12,156,34,6,6,84,32,1,241,2,14,4,15,11,10,6,64,398,37,86,719,29,19,79,25,40,19,11,12,158,5,51,44,26,19,116,195,454,20,13,24,204,56,296,44,270,88,231,3,3,3,28,49,11,13,7,5,58,170,187,255,4,20,14,16
+Secretariat	21,5,1,1,290,269,184,169,22,20,172,89,21,290,1922,107,278,242,425,1173,426,217,297,221,177,222,191,70,1,25,215,535,69,102,58,212,296,118,15,39,48,106,221,348,29,198,12,17,1,73,53,4,4,24,131,364,24,265,9,134,493,32,1,8,1,93,16,142,87,30,163,6,12,156,34,6,6,84,32,1,241,2,14,4,15,11,10,6,64,398,37,86,719,29,19,79,25,40,19,11,12,158,5,51,44,26,19,116,195,454,20,13,24,204,56,296,44,270,88,231,3,3,3,28,49,11,13,7,5,58,170,187,255,4,20,14,16,80
 Secretariat ARTICLE	14409
 Secretariat African Financial Stablity Committee	6938
 Secretariat Arusha	11806,1845
@@ -1518,7 +1525,7 @@ Secretarios Técnicos	4209
 Secretarios de Estado	1855,4986
 Secretarios de Estado. En	6841
 Secretarios de Mesa	4209
-Secretary	11,576,149,47,231,206,334,224,221,382,1,8,162,115,253,5,9,579,374,744,441,1272,136,302,156,8,96,140,282,315,66,93,650,393,329,644,109,16,150,900,2,3,445,278,3,116,15,4,150,6,89,1,82,41,3,86,82,109,1,16,227,6,11,5,91,47,5,27,16,31,62,92,6,18,11,2,14,7,4,2,26,21,11,14,55,32,138,767,13,27,54,52,161,6,13,8,13,12,6,4,41,5,4,7,8,184,28,285,53,66,796,76,499,3,3,79,6,236,385
+Secretary	11,576,149,47,231,206,334,224,221,382,1,8,162,115,253,5,9,579,374,744,441,1272,136,302,156,8,96,140,282,315,66,93,650,393,329,644,109,16,150,900,2,3,445,278,3,116,15,4,150,6,89,1,82,41,3,86,82,109,1,16,227,6,11,5,91,47,5,27,16,31,62,92,6,18,11,2,14,7,4,2,26,21,11,14,55,32,138,767,13,27,54,52,161,6,13,8,13,12,6,4,41,5,4,7,8,184,28,285,53,66,796,76,499,3,3,79,6,236,385,243
 Secretary Absent	17317
 Secretary Administration	12433,2034
 Secretary Adv. Kedilatile Legodi NATIONAL CREDIT	11198
@@ -1549,6 +1556,7 @@ Secretary General of AFRAA	10723
 Secretary General of COMESA H.E. Mahmoud Ali	13440
 Secretary General of EDU-NC	15813
 Secretary General of FAB	2773
+Secretary General of GRCS	17757
 Secretary General of Guinea’s Ministry of Posts	3089
 Secretary General of MINEPAT	15601
 Secretary General of Ministry of National Education Mr	13791
@@ -1575,6 +1583,7 @@ Secretary Rubio	4165
 Secretary Rubio. The Zambian	5456
 Secretary The Secretary	15027
 Secretary WEST AFRICA	16841
+Secretary Xu Lin and Pakistan's Hon. Chief	17793
 Secretary and Treasurer	736
 Secretary for Administration	4631
 Secretary for Civil Registration	4631
@@ -1623,7 +1632,7 @@ Secretary of Tax Tribunal	12629
 Secretary of USPF	10386
 Secretary's Desk First Edition	13503
 Secretary's Desk Q1-2026 A PDF	13503
-Secretary-General	1996,1164,677,150,43,1197,1038,223,124,427,20,53,116,228,66,361,40,123,171,280,538,118,102,403,818,225,139,188,872,836,667,413,58,437,357,507,13,53,561,483,673,338,27,1,229,62
+Secretary-General	1996,1164,677,150,43,1197,1038,223,124,427,20,53,116,228,66,361,40,123,171,280,538,118,102,403,818,225,139,188,872,836,667,413,58,437,357,507,13,53,561,483,673,338,27,1,229,62,141
 Secretary-General António Guterres	8143
 Secretary-General Dr. Borlli Michel	5917
 Secretary-General Dr. Borlli Michel Jonas	6707
@@ -1738,7 +1747,7 @@ Secrétaire Général des Services du Premier Ministre	15542
 Secrétaire Général du CNEF. Le CNSMO	11944
 Secrétaire Général du CNPA	13781
 Secrétaire Général du FONSTI	15993
-Secrétaire Général du Gouvernement	8750,7349
+Secrétaire Général du Gouvernement	8750,7349,1664
 Secrétaire Général du MATD	16723,23
 Secrétaire Général du MFBSB	13796
 Secrétaire Général du MVUH	13898
@@ -1780,7 +1789,7 @@ Secrétaires de Cabinet du Président	16099
 Secrétaires de Cabinet du Vice-Président du Gouvernement	16099
 Secrétaires. Le Président du Conseil Economique	15703
 Secrétare	15744
-Secrétariat	737,942,1020,267,571,409,1880,79,19,390,992,792,171,52,203,226,141,102,288,641,609,316,27,1,1,26,728,102,200,1358,11,33,99,98,222,597,187,159,652,28,7,14,2,15,2,2,11,2,7,41,10,23,13,17,13,25,8,88,11,33,49,18,114,100,79,19,9,179,12,63,123,21,110,26,72,667,67,17,24,3
+Secrétariat	737,942,1020,267,571,409,1880,79,19,390,992,792,171,52,203,226,141,102,288,641,609,316,27,1,1,26,728,102,200,1358,11,33,99,98,222,597,187,159,652,28,7,14,2,15,2,2,11,2,7,41,10,23,13,17,13,25,8,88,11,33,49,18,114,100,79,19,9,179,12,63,123,21,110,26,72,667,67,17,24,3,271
 Secrétariat Exécutif	3045,7831,2845,147,669,12,1208,570
 Secrétariat Exécutif National	13721
 Secrétariat Exécutif Permanent	13442
@@ -1947,6 +1956,7 @@ TÉLÉCOMMUNICATIONS General Secretariat	7074
 Técnico I Secretaria-Geral	15404
 U.S. Secretary of State	6534
 U.S. Secretary of State Marco Rubio	4426,1124
+U.S. Treasury Secretary Scott Bessent	17802
 U.S. Treasury Secretary Steven Mnuchin	14890
 UESP Secrétaires Permanents	13433
 UK SADC Secretariat	12972

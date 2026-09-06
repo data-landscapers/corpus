@@ -248,7 +248,7 @@ Capacity Assessment Framework	15713
 Capacity Audit Checklist	3861
 Capacity Base Station Name	736
 Capacity Base Stations Latitude Longitude Antenna	736
-Capacity Building	578,686,2597,667,82,522,544,756,514,602,3300,283,3,118,31,286,238,48,5,65,31,39,200,46,115,2,41,113,163,49,4,189,53,1,6,28,26,11,20,18,15,300,79,38,124,330,114,136,224,24,286,11,25,111,46,80,97,18,564,586,366,99,1,1,1,1,2,93,1,94,19,5,14,130,1,33,111,27
+Capacity Building	578,686,2597,667,82,522,544,756,514,602,3300,283,3,118,31,286,238,48,5,65,31,39,200,46,115,2,41,113,163,49,4,189,53,1,6,28,26,11,20,18,15,300,79,38,124,330,114,136,224,24,286,11,25,111,46,80,97,18,564,586,366,99,1,1,1,1,2,93,1,94,19,5,14,130,1,33,111,27,458
 Capacity Building A. The LTA and Telecommunications	4610
 Capacity Building ASYCUDA New Generation	13042
 Capacity Building Capacity	1988,10629
@@ -354,7 +354,7 @@ Capacity Constraints Mean for Africa's Satellite	7762
 Capacity Constraints P177263	16896
 Capacity Constraints and Challenges	11250
 Capacity Dev	1878
-Capacity Development	395,493,990,110,2179,2779,511,3767,196,1497,557,38,255,271,1714,93,1125,51,95,141
+Capacity Development	395,493,990,110,2179,2779,511,3767,196,1497,557,38,255,271,1714,93,1125,51,95,141,489
 Capacity Development HR	17116
 Capacity Development Level Statement Stakeholders Output	17116
 Capacity Development Measures	2230
@@ -1061,6 +1061,7 @@ Registration Capacity	12457
 Regular Capacity Building Efforts	13998
 Regulation and Capacity Building	15716
 Regulatory Capacity	5042,9981
+Regulatory Capacity and Non-Divisibility Ex	17780
 Regulatory Reform and Capacity Building. The Digital	15704
 Reinforced Institutional Capacities	14750
 Reinforced Institutional Capacities Implemented	14750

@@ -537,6 +537,7 @@ Higher Education Institution HR Human Resources	13312,2
 Hon. Minister for Natural Resources and Energy	13126
 Hon. Minister of Lands and Natural Resources	13387
 Housing and Water Resources	1228,6467
+Hum Resour Dev Rev	17773
 Hum Resour Health	771,448,11027
 Hum Resour Manage	10780
 Human Intermediate No Yes Yes Resources	16436
@@ -829,7 +830,7 @@ Liberia Water Resources Profile WHO	17257
 Liberia's Domestic Resource Mobilization	17011
 Liberia's Domestic Resource Mobilization Strategy	17294
 Licensing of Telecommunication and Scarce Resources	12294
-Lilongwe University of Agriculture and Natural Resources	12194,928,1552
+Lilongwe University of Agriculture and Natural Resources	12194,928,1552,3093
 Linguistique Resources	15661
 List of Abbreviations ADR Alternative Dispute Resolution	12062
 List of Equipment and Resources	16963
@@ -1235,7 +1236,7 @@ Resolución Extrajudicial	16855
 Resolución Judicial	16855
 Resolución Núm	10487,6411,524
 Resolutio	4301
-Resolution	11,23,362,832,586,1191,110,449,19,1,138,139,242,971,459,132,1438,1044,338,597,690,323,634,35,1,10,363,43,28,43,172,126,263,78,65,30,20,35,120,40,54,39,65,41,379,133,112,13,312,217,411,736,29,9,250,119,291,60,2,372,1071,62,40,81,15,26,17,400
+Resolution	11,23,362,832,586,1191,110,449,19,1,138,139,242,971,459,132,1438,1044,338,597,690,323,634,35,1,10,363,43,28,43,172,126,263,78,65,30,20,35,120,40,54,39,65,41,379,133,112,13,312,217,411,736,29,9,250,119,291,60,2,372,1071,62,40,81,15,26,17,400,186
 Resolution AGM22	5677
 Resolution BCB No	11138
 Resolution BROAD-BASED BLACK ECONOMIC EMPOWERMENT	11986
@@ -1306,7 +1307,7 @@ Resort Estate	2841
 Resort and Spa	7512
 Resorts	11458
 Resour	1219
-Resource	789,172,9,66,125,58,547,48,1769,862,1088,1401,213,4,61,336,242,393,420,525,378,107,489,768,265,805,12,34,264,109,1,16,37,262,18,228,109,108,849,4,66,598,93,237,51,20,286,138,233,47,85,115,17,459,30,418,31,11,1,14,30,25,143,436
+Resource	789,172,9,66,125,58,547,48,1769,862,1088,1401,213,4,61,336,242,393,420,525,378,107,489,768,265,805,12,34,264,109,1,16,37,262,18,228,109,108,849,4,66,598,93,237,51,20,286,138,233,47,85,115,17,459,30,418,31,11,1,14,30,25,143,436,173
 Resource Allocation	11193,4572,1349
 Resource Allocation and Budget Execution The AAID	17139
 Resource Allocation and Implementation Readiness	17116
@@ -1323,7 +1324,7 @@ Resource Centre	13046
 Resource Centres	12175
 Resource Committee	718
 Resource Concession Agreements	17260
-Resource Constraints	17139
+Resource Constraints	17139,606
 Resource Contact	16466
 Resource Cost	16943
 Resource Cost for Strategic Plan	16943

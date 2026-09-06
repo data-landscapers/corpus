@@ -135,7 +135,7 @@ Android and Apple	1869,11154
 Annual Applicable Output	13095
 Appl&title	1219
 Applause	10313
-Apple	961,805,1050,649,186,1022,569,124,435,19,548,935,34,276,118,442,263,324,396,837,4,41,46,6,399,561,294,1956,161,932,162,1381,1006
+Apple	961,805,1050,649,186,1022,569,124,435,19,548,935,34,276,118,442,263,324,396,837,4,41,46,6,399,561,294,1956,161,932,162,1381,1006,838
 Apple Account	14393
 Apple App Store	7266,4058,153,1255
 Apple App Store and Google Play Store	9952
@@ -231,7 +231,7 @@ Applicants. E. Procedures for Evaluation of Applications	1638
 Applicant’s Signature	14754
 Applicati	15580
 Applicatifs Promotion des TICs	10812
-Application	3,8,11,120,253,192,56,93,1,9,1,15,137,73,26,11,211,3,20,90,141,164,112,127,61,6,44,131,590,18,89,345,220,333,455,1076,288,132,14,54,187,512,352,764,59,238,143,34,108,993,561,55,668,311,3,98,37,109,10,154,48,4,9,45,34,76,172,63,286,75,11,4,20,10,9,46,6,91,7,66,3,2,25,92,4,1,4,22,1,2,7,28,3,5,37,84,1,3,13,1,31,23,26,1,18,2,1,2,8,110,120,15,3,7,3,10,6,3,10,1,10,8,69,4,31,14,121,81,12,9,3,8,2,50,27,5,30,9,26,25,5,20,41,7,701,142,13,2,1,16,19,23,10,44,10,19,81,66,1,1,2,3,7,6,7,1,2,2,9,52,8,36,30,25,21,67,26,8,54,45,35,1,15,6,15,7,135,32,50,51,1,4,15,87,3,56,2,2,7,48,14,8,79,108,29,253,64,75,171,24,105,86,118,3,1,3,4,5,3,9,25,15,2,76,254,11,6,1,10,29,45,127,9,64
+Application	3,8,11,120,253,192,56,93,1,9,1,15,137,73,26,11,211,3,20,90,141,164,112,127,61,6,44,131,590,18,89,345,220,333,455,1076,288,132,14,54,187,512,352,764,59,238,143,34,108,993,561,55,668,311,3,98,37,109,10,154,48,4,9,45,34,76,172,63,286,75,11,4,20,10,9,46,6,91,7,66,3,2,25,92,4,1,4,22,1,2,7,28,3,5,37,84,1,3,13,1,31,23,26,1,18,2,1,2,8,110,120,15,3,7,3,10,6,3,10,1,10,8,69,4,31,14,121,81,12,9,3,8,2,50,27,5,30,9,26,25,5,20,41,7,701,142,13,2,1,16,19,23,10,44,10,19,81,66,1,1,2,3,7,6,7,1,2,2,9,52,8,36,30,25,21,67,26,8,54,45,35,1,15,6,15,7,135,32,50,51,1,4,15,87,3,56,2,2,7,48,14,8,79,108,29,253,64,75,171,24,105,86,118,3,1,3,4,5,3,9,25,15,2,76,254,11,6,1,10,29,45,127,9,64,246
 Application Application	11
 Application Architecture	9124,5841
 Application Architecture Principles	14441
@@ -811,6 +811,7 @@ Environne- Application	15583
 Estimate Application	14267
 Eswatini Applauds Zambia’s Strides	13477
 Europe and Japan. Used Apple	16799
+Europe. Applied	17780
 Evaluation Application	15192
 Expanded Scope of Application	7391
 Experience Applicants	10060
@@ -936,6 +937,7 @@ Insights CONTACT US APPLY NOW Cross-border	13666
 Installers Database Application Forms	12515
 Institut Pédagogique Appliquée I.T.S	13377
 Institut de Pédagogie Appliquée	13364
+Institute of Applied Sciences Ruhengeri	17761
 Integrated Application	13666
 Integrated Registration Application	12241,839
 Integrated Tax Application and Preparation System	15629
@@ -1041,7 +1043,8 @@ Ministry of Immediate Apply	17157
 Ministry of Information and Application Rollout	12241
 Miscellaneous Application No	8470
 Mobile Application	12241,4706
-Mobile Application Attacks	6671
+Mobile Application Attack Trends	17746
+Mobile Application Attacks	6671,11075
 Mobile Application Development	13037,319,1595
 Mobile Application Security	10721
 Mobile Applications	11952,4,961,2366
@@ -1432,7 +1435,8 @@ Water Use Licence Application	11236
 Water Use License Applications	11236
 Water-Use License Application	11236
 Web Application	12253
-Web Application Attacks	6671,275
+Web Application Attack Trends	17746
+Web Application Attacks	6671,275,10800
 Web Application Attacks System Attacks Mobile	6671
 Web Application Firewall	6432,6621
 Web Application Other Admin. Selectivity Picture	15478

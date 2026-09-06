@@ -447,7 +447,7 @@ Chefes de Estado Cronologia	11523
 Chefes de Estado da Comunidade	11531
 Chefes de Finanças Serviços	11555
 Chefes de Secção	4218
-Cheffe	2565,401,1102,6069,3339,996,1654,507,40
+Cheffe	2565,401,1102,6069,3339,996,1654,507,40,1132
 Cheffe de Cabinet	16678,9
 Cheffe de Cabinet du Ministre	7403
 Cheffe de Coopération	16455
@@ -568,8 +568,9 @@ Chems Eddine Bemmoussat	16085
 Chemura	520
 Chemura3	520
 Chemworor	7167
-Chen L	14666
+Chen L	14666,3107
 Chen Li	6541
+Chen P	17773
 Chen X	5242
 Chen Yiyong	3177
 Chen Zhenlin	9186
@@ -638,7 +639,10 @@ Cherif	1828
 Cherif Aït-Igrine	15467
 Cherif Kane Coordinateur	8105,6157
 Cherifa Lorabi	15410
+Chernenko	17780
 Cherno Luís Mendes Especialista	17147
+Chernoff	17773
+Chernoff JM	17773
 Chernor Bah	3924,1974
 Cherns	7278
 Cherolle KANDJO AKENDENGUE	16381
@@ -914,6 +918,7 @@ Lourino Chemane and Eugénio Alberto Macumbe	4214
 Lourino ChemaneChairman	11439
 Lubricants Chemicals	17235
 Lydia Cheruto	12297
+Lynne Chepkwony	17761
 M. Abdellatif Cherif	15602
 M. Abderrahmane Chellal	15933
 M. CHE Philip	16195
@@ -1234,5 +1239,6 @@ Wafula Chebukati	9645
 West Chester	9237
 Wilfred Chege	10353
 Y. Chen	11140
+Y.-C. Chen	17780
 Youcef CHERFA. MINISTERE DE L’AGRICULTURE	15747
 ZUE ABESSOLO. Chef	16381

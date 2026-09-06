@@ -1259,7 +1259,7 @@ Nonetheless	408,163,147,251,292,761,1369,192,21,187,335,998,123,116,25,2427,790,
 Nongo	8022
 Nongo Conteya	16662
 Nongobzanga Zongo	3668,543,85,2472
-Nongolougo Soro	16537,1098,1
+Nongolougo Soro	16537,1098,1,139,26
 Nongoma	2626
 Nongovernmental Organization NIR National Identifi	16876
 Nongr-Massom	16097
@@ -1269,7 +1269,7 @@ Nonkqubela Jordan-Dyani	1810,3365,1546,872,3577,325
 Nonlinear	11140,4104
 Nonmonetary	1154
 Nonobslont	15561,126
-Nonobstant	113,624,494,448,122,541,123,229,1705,21,2926,1545,1821,113,11,686,1771,426,560,138,12,420,21,482,8,1,12,21,29,9,53,3,14,5,27,24,26,10,41,97,15,20,25,93,16,35,29,34,48,38,178,11,21,27,134,291,692,4
+Nonobstant	113,624,494,448,122,541,123,229,1705,21,2926,1545,1821,113,11,686,1771,426,560,138,12,420,21,482,8,1,12,21,29,9,53,3,14,5,27,24,26,10,41,97,15,20,25,93,16,35,29,34,48,38,178,11,21,27,134,291,692,4,362
 Nonoil	10841
 Nonperforming	10841,6662
 Nonperforming Loans	1746,15757
@@ -1445,6 +1445,7 @@ Recovery and Consequences of Non-Payment	17249
 Recovery and Consequences of Non-Payment PART VIII	17249
 Registered Non-Bank Financial Institutions	13479
 Regulatory Balancing Act Ahead None	8717
+Regulatory Capacity and Non-Divisibility Ex	17780
 Reliable Non-invasive Method for Monitoring Pangolin	1154
 Remedial Actions A. Non-compliant Telecommunications Service	4610
 Removal of Non-Tariff Barriers NTBs	13563

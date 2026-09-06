@@ -333,7 +333,7 @@ Federal First-Instance Court	13948
 Federal Gazette	11976
 Federal General	11857
 Federal Govern	14874
-Federal Government	32,706,390,1125,65,8,55,209,281,62,97,353,127,38,38,135,22,1,358,7,192,274,54,179,40,81,726,410,311,109,3,383,239,31,32,6,40,15,80,57,83,4,36,138,219,32,12,13,213,86,143,58,9,7,15,147,41,5,193,152,2,1,1,1,135,113,80,48,3,1,124,86,118,186,6,54,221,1,116,36,76,90,205,448,163,21,156,60,175,10,140,3,3,68,14,12,22,5,14,54,2,10,75,9,1,80,1055,667,19,47,42,292,531,10,7,11,9,9,9,70,69,30,44,77,97,1475,775,81,22
+Federal Government	32,706,390,1125,65,8,55,209,281,62,97,353,127,38,38,135,22,1,358,7,192,274,54,179,40,81,726,410,311,109,3,383,239,31,32,6,40,15,80,57,83,4,36,138,219,32,12,13,213,86,143,58,9,7,15,147,41,5,193,152,2,1,1,1,135,113,80,48,3,1,124,86,118,186,6,54,221,1,116,36,76,90,205,448,163,21,156,60,175,10,140,3,3,68,14,12,22,5,14,54,2,10,75,9,1,80,1055,667,19,47,42,292,531,10,7,11,9,9,9,70,69,30,44,77,97,1475,775,81,22,82
 Federal Government Agency	12145
 Federal Government Budget and Donor Agencies	11866
 Federal Government Circular	8922,1235
@@ -735,7 +735,7 @@ INFRASTRUCTURE ASSET SHARING P-3 Federal	11857
 Identity Federation	15164
 Immunization Federal Ministry of Health	5225
 Implementing Agency The Federal Republic of Federal	3456
-India CIS Europe Russian Federation Switzerland	10844,719
+India CIS Europe Russian Federation Switzerland	10844,719,6180
 India CIS Russian Federation International Telecommunication	10764
 Industry Electricity Service Provider Federal Government	11136
 Intergovernmental Fiscal Federalism Committee	15004
@@ -914,8 +914,10 @@ Revenue The Federal Government	13948
 Revised Family Code. Federal Negarit	12188
 Roger Federer Foundation	12175
 Romania Russian Federation Rwanda Saint Kitts	11765
+Russian Federa-	17743
 Russian Federation	2117,3764,732,4101,50,21,61,131,3919,575,1396,561
-Russian Federation Email	10764,799
+Russian Federation CIS UMI	17743
+Russian Federation Email	10764,799,6180
 Russian Federation International Telecommunication Union	10844
 Russian Federation and Ukraine. The Russia-Ukraine	14008
 Russia’s Federal Agency for Youth Affairs	7515
