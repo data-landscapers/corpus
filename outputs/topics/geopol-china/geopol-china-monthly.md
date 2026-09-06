@@ -3,13 +3,13 @@ title: China activities — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: geopol.china
-places: DZA; BWA; BFA; TCD; GMB; KEN; NER; NGA; SEN; SSD; SDN; ZMB; ZWE
-record: d609a16a8b5e
+places: DZA; BWA; BFA; TCD; GMB; KEN; NER; NGA; SEN; SSD; SDN; TGO; ZMB; ZWE
+record: c0b2d56562f5
 ---
 
 # China activities: monthly update, August 2026
 
-*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -60,6 +60,10 @@ This is a repair, not an opening. [Government officials accused the company in 2
 ## Sudan
 
 The China relationship acquired a physical address. Sudan's minister of digital transformation and communications [attended the opening of a digital cooperation centre with China](https://sudanhorizon.com/sudans-minister-of-digital-transformation-participates-in-opening-of-china-africa-digital-technology-cooperation-center/). Until this month the base held nothing at all on Chinese digital engagement with Sudan. What it still holds nothing on is the instrument behind the centre, its value, or what it is to do.
+
+## Togo
+
+Togolese officials [toured China's G60 science and technology corridor on 31 July](https://territoire.gouv.tg/seminaire-en-chine-les-cadres-togolais-decouvrent-le-modele-dinnovation-du-corridor-scientifique-et-technologique-g60/) during a seminar run by the Chinese commerce ministry, with partnerships, internships and training named as prospects. Nothing was signed. The standing instrument remains a [protocol concluded with Huawei in September 2024](https://www.republiquetogolaise.com/tic/0909-9696-numerique-le-togo-et-huawei-scellent-un-partenariat-strategique) whose text, amount, scope and timetable are unpublished.
 
 ## Zambia
 

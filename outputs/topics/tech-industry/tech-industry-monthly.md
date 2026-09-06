@@ -4,7 +4,7 @@ compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: tech.industry
 places: DZA; BWA; EGY; GNQ; GAB; GHA; MAR; NER; NGA; SEN; ZAF; SDN; TZA; TGO; ZMB; ZWE
-record: bda6cc4a69e3
+record: 5e1ee4c9d329
 ---
 
 # ICT Industry: monthly update, August 2026
@@ -76,7 +76,7 @@ The sector has multiplied and says it cannot scale. A United Nations capital dev
 
 ## Togo
 
-[Fuel marking and traceability began at Lome](https://togopresse.tg/commerce-illegal-des-hydrocarbures-le-processus-de-marquage-et-de-tracabilite-des-produits-petroliers-lance-au-togo/), the obligation having applied since 1 July: every litre through legal channels carries a molecular marker verifiable at depot, station and roadside, with sanctions running to seizure, fines of FCFA 50,000 to 10,000,000 and closure. Neither the contract amendment nor the marking regulation is held, and no contract value, duration or data-ownership term is published.
+[Fuel marking and traceability began at Lome](https://togopresse.tg/commerce-illegal-des-hydrocarbures-le-processus-de-marquage-et-de-tracabilite-des-produits-petroliers-lance-au-togo/), the obligation having applied since 1 July: every litre through legal channels carries a molecular marker verifiable at depot, station and roadside, with sanctions running to seizure and closure. Neither the contract amendment nor the marking regulation is held, and no contract value, duration or data-ownership term is published.
 
 ## Zambia
 

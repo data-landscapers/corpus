@@ -4,7 +4,7 @@ compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: gov.discourse
 places: BEN; BFA; CMR; TCD; COG; CIV; COD; EGY; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; NAM; NER; NGA; SYC; SOM; ZAF; SSD; TZA; TGO; UGA; ZMB
-record: bab5e1794871
+record: a31f13a11a93
 ---
 
 # Public debate and participation in policymaking: monthly update, August 2026
@@ -147,7 +147,9 @@ The month's one finding about political speech came from outside the state. A ci
 
 ## Togo
 
-The regulator spent August on the road rather than on rules. Its [seventh national consumer-sensitisation tour ran from 3 to 28 August with consumer associations and operators](https://atop.tg/bassar-telecommunications-les-consommateurs-sensibilises-sur-leurs-droits-et-obligations/), briefing operators and association leaders on electronic-communications rights and, at Bassar, on preventing mobile-money fraud. At the Kara leg on 6 August, [local officials asked the regulator to widen its remit to all economic operators](https://atop.tg/kozah-communications-electroniques-larcep-edifie-les-consommateurs-de-kozah-assoli-et-binah-sur-leurs-droits-et-obligations/) — a request to be regulated more, not less, and the clearest signal in the record of what consumers think the alternative is. No attendance figure, complaint volume or outcome measure for the tour is published.
+The regulator spent August on the road rather than on rules. Its [seventh national consumer-sensitisation tour ran from 3 to 28 August with consumer associations and operators](https://atop.tg/bassar-telecommunications-les-consommateurs-sensibilises-sur-leurs-droits-et-obligations/), briefing them on electronic-communications rights. At the Kara leg, [local officials asked the regulator to widen its remit to all economic operators](https://atop.tg/kozah-communications-electroniques-larcep-edifie-les-consommateurs-de-kozah-assoli-et-binah-sur-leurs-droits-et-obligations/) — a request to be regulated more, not less.
+
+The room where digital policy is argued is now on record: the [national internet governance forum](https://intgovforum.tg/) has run annually since 2010 and held its twelfth edition on 19 June, with every digital regulator on the panels alongside civil society. Civic space around it is rated [Repressed at 29 of 100](https://monitor.civicus.org/country/togo/), unchanged since 2020.
 
 ## Uganda
 

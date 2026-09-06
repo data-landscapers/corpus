@@ -4,7 +4,7 @@ compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 04514f30f538
+record: 11cf457b24ba
 ---
 
 # Connectivity: monthly update, August 2026
@@ -292,7 +292,7 @@ The month's other route is a border crossing that has not begun. The foreign min
 
 ## Togo
 
-The Council of Ministers [authorised a five-year renewable licence for Internet-of-Things networks](https://togopresse.tg/les-grandes-decisions-du-conseil-des-ministres-du-4-aout-2026/) on 4 August, distinct from the incumbent mobile and internet authorisations; the decree authorises the grant rather than recording it, and no licence number, fee, coverage obligation or ownership of the licensee is published. Separately, [capacity was added on a second submarine system for route diversity](https://www.mobileeurope.co.uk/csquared-boosts-internet-resilence-integrating-with-2africa-west/) after three multi-country West African outages in twenty-eight months — a pan-regional arrangement in which Togo is one of eleven places named and no Togo-specific capacity, price or route figure appears.
+The Council of Ministers [authorised a five-year renewable licence for Internet-of-Things networks](https://togopresse.tg/les-grandes-decisions-du-conseil-des-ministres-du-4-aout-2026/) on 4 August; the decree authorises the grant rather than recording it, and no licence number, fee, coverage obligation or ownership of the licensee is published. Separately, [capacity was added on a second submarine system for route diversity](https://www.mobileeurope.co.uk/csquared-boosts-internet-resilence-integrating-with-2africa-west/) after three multi-country West African outages in twenty-eight months — a pan-regional arrangement carrying no Togo-specific capacity, price or route figure.
 
 ## Tunisia
 

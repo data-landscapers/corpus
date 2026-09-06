@@ -4,7 +4,7 @@ compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: gov.standards
 places: AGO; BEN; CPV; CAF; TCD; COM; CIV; COD; EGY; GNQ; SWZ; GAB; GMB; GIN; KEN; LBY; MWI; MLI; MRT; MUS; MOZ; NER; NGA; RWA; STP; SEN; SYC; SOM; ZAF; SDN; TZA; TGO; UGA; ZMB
-record: 043c9b8e2515
+record: 0c55a5b5d7ab
 ---
 
 # Standards: monthly update, August 2026
@@ -148,7 +148,9 @@ The window's only standards movement is a visit. The communications regulator [u
 
 ## Togo
 
-Togo launched the National Accounting Council, [the body a regional directive of 28 November 1997 requires each member state to establish](https://www.togofirst.com/en/economic-governance/3108-19908-togo-activates-national-accounting-council-to-improve-financial-reporting), tasked with making accounting information reliable, relevant, comparable and consistent with international standards. [The directive itself](https://www.dge.gouv.ci/sites/default/files/tableau/TEXTES%20COMMUNAUTAIRES%20CLASSSIFIES/UEMOA/DIRECTIVE/Directive%20n%C2%B003-97-CM-UEMOA%20portant%20cr%C3%A9ation%20d%27un%20Conseil%20National%20de%20la%20Comptabilit%C3%A9%20ds%20l%27Uemoa..pdf) is now held. Twenty-nine years between the obligation and the institution is the finding, and it is the one instrument this section gained in the period whose text a reader can actually reach.
+Togo launched the National Accounting Council, [the body a regional directive of 28 November 1997 requires each member state to establish](https://www.togofirst.com/en/economic-governance/3108-19908-togo-activates-national-accounting-council-to-improve-financial-reporting). [The directive itself](https://www.dge.gouv.ci/sites/default/files/tableau/TEXTES%20COMMUNAUTAIRES%20CLASSSIFIES/UEMOA/DIRECTIVE/Directive%20n%C2%B003-97-CM-UEMOA%20portant%20cr%C3%A9ation%20d%27un%20Conseil%20National%20de%20la%20Comptabilit%C3%A9%20ds%20l%27Uemoa..pdf) is now held. Twenty-nine years between obligation and institution is the finding.
+
+The standards machinery came into view too: the [national standards agency is a full member body](https://www.iso.org/member/2143.html) of the international standards organisation; under the food-system resilience programme it drew up [46 national standards and the accreditation committee 31 certification programmes](https://agriculture.gouv.tg/fsrp-togo-46-normes-nationales-et-31-programmes-de-certification-pour-renforcer-la-qualite-et-la-competitivite-des-produits-agroalimentaires/) in August — drawn up and disseminated, the ministry says, not homologated.
 
 ## Uganda
 

@@ -4,7 +4,7 @@ compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: tech.ai
 places: DZA; AGO; BEN; BFA; CMR; CAF; TCD; COM; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; KEN; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ee7a16c28948
+record: c714939f4501
 ---
 
 # AI: monthly update, August 2026
@@ -224,7 +224,7 @@ Three deployments were reported. A cardiac institute stated on 16 July that its 
 
 ## Togo
 
-The month's only artificial-intelligence movement is a procurement. The United Nations Development Programme's country office [sought an international consultant to draft a regional guidance note on the governance of artificial-intelligence infrastructure, for a mission running from September 2026 to January 2027](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49349), with submissions closing on 14 September. Which region the note is to cover, who it is written for and what standing it will have once written are not stated.
+The month's only artificial-intelligence movement is a procurement. The development programme's country office [sought an international consultant to draft a regional guidance note on the governance of artificial-intelligence infrastructure, for a mission running September 2026 to January 2027](https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=49349). Which region it covers, who it is for and what standing it will have are not stated.
 
 ## Tunisia
 

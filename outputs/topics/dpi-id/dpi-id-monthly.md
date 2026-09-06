@@ -4,7 +4,7 @@ compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 4d6304b5fb0e
+record: 8d777e5249f8
 ---
 
 # Digital Identity and CRVS: monthly update, August 2026
@@ -223,7 +223,9 @@ The budget behind it was set out to Parliament on 19 August: the home affairs mi
 
 ## Togo
 
-Enrolment is now going to people rather than waiting for them. The national documentation directorate [has spent about a year sending mobile identity-card teams to large public gatherings, handling every step of an application on site, currently at a trade fair in Lome](https://togo-today.com/carte-didentite-la-direction-generale-de-la-documentation-nationale-veut-se-rapprocher-des-populations/), with the stated aim of shortening processing times and putting a card in the hands of the majority of Togolese by 2028. No count of cards issued through the mobile teams is published, so the register's own figure - more than six million unique identification numbers at the end of 2025 - remains the only measure of how far the effort has got.
+Enrolment now goes to people rather than waiting for them. The documentation directorate [has spent about a year sending mobile identity-card teams to large public gatherings, handling every step of an application on site](https://togo-today.com/carte-didentite-la-direction-generale-de-la-documentation-nationale-veut-se-rapprocher-des-populations/), aiming to shorten processing times and put a card in the hands of the majority of Togolese by 2028. No count of cards issued through the mobile teams is published, so the register's own figure — more than six million unique identification numbers at the end of 2025 — remains the only measure of how far the effort has got.
+
+What no amount of enrolment has produced is a way to use the credential: there is still no citizen account or single sign-on, and June's [examination-results service asked candidates to pre-register by e-mail and table number](https://education.gouv.tg/resultats-du-bac1-2026-quand-la-digitalisation-du-systeme-educatif-prend-corps/) rather than to sign in.
 
 ## Tunisia
 

@@ -4,7 +4,7 @@ compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: gov.regional
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COG; CIV; COD; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; ZWE
-record: 53e392113b07
+record: 6b2e52e7fab3
 ---
 
 # Regional collaboration: monthly update, August 2026
@@ -182,7 +182,7 @@ Tanzania was the one being studied this month. A Somali government delegation [e
 
 ## Togo
 
-The corridor the country sits on is the subject of the month's regional work. A [regional dialogue at the Togo-Ghana joint border post on 13 August sought to accelerate free movement along the Abidjan-Lagos corridor, reaffirming rollout of the regional biometric identity card and the interconnected transit system to cut border delays](https://www.togofirst.com/fr/transport/1408-19821-togo-ghana-la-cedeao-veut-accelerer-la-libre-circulation-au-poste-frontalier-de-noepe-akanu). No deployment figure, timetable or data-protection arrangement for the shared border and transit data is stated, and the reaffirmation is of commitments the base has held for some time rather than of anything newly delivered.
+A [regional dialogue at the Togo-Ghana joint border post on 13 August sought to accelerate free movement along the Abidjan-Lagos corridor, reaffirming rollout of the regional biometric identity card and the interconnected transit system to cut border delays](https://www.togofirst.com/fr/transport/1408-19821-togo-ghana-la-cedeao-veut-accelerer-la-libre-circulation-au-poste-frontalier-de-noepe-akanu). No deployment figure, timetable or data-protection arrangement for the shared border and transit data is stated,.
 
 ## Tunisia
 

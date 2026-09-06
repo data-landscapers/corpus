@@ -3,13 +3,13 @@ title: Technical Capacity — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: infra.capacity
-places: BDI; COD; GHA; KEN; LBY; MOZ; RWA; SEN; ZAF
-record: 9484b9baa653
+places: BDI; COD; GHA; KEN; LBY; MOZ; RWA; SEN; ZAF; TGO
+record: 1c21ff4149eb
 ---
 
 # Technical Capacity: monthly update, August 2026
 
-*9 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*10 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -48,3 +48,7 @@ A continental count puts [seven data centres in Senegal at mid-2025, level with 
 ## South Africa
 
 Parliament's science committee reported after an oversight visit that the [Centre for High Performance Computing has reached maximum capacity and that available infrastructure is insufficient for future growth](https://www.parliament.gov.za/press-releases/media-statement-committee-science-visits-national-integrated-cyber-infrastructure-system). The centre is one of three pillars of the national cyber infrastructure system, alongside the research network and the secure national data centre, and it supports the electronic vaccination data system.
+
+## Togo
+
+The digital agency's [governance model for building and maintaining government systems](https://ressources.digital.gouv.tg/shares/documentations/Cadre_de_digitalisation_des_services_publics/html/gouvernance.html) is now held: ministry, agency, public institutions, a super-integrator training integrators on the agency's low-code platforms, and integrators. It names giving itself the force of law as still outstanding. What arrived is the base's holding of the document, not a change in the arrangement.

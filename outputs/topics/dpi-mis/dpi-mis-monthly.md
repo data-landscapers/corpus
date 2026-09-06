@@ -4,7 +4,7 @@ compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BDI; CMR; CAF; COM; COG; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NGA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a8232f9fdaeb
+record: dbf514bb7a38
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, August 2026
@@ -181,9 +181,9 @@ The state's own asset record is being enforced rather than built. The finance mi
 
 ## Togo
 
-Togo put a [national platform online centralising climate-risk data for public decision-making across agriculture, forestry, water resources, tourism and energy](https://www.togofirst.com/en/itc/2408-19852-togo-launches-platform-to-improve-climate-risk-monitoring). Indicators on droughts and floods are entered by field agents, checked by sector focal points and regional officials before national consolidation, time-stamped to leave an audit trail, and viewable at regional, prefecture and municipal level; it was developed by the environment ministry with technical support from a UN agency and climate-fund financing, and follows the regional adaptation plans adopted by all five regions in 2025. The source gives no launch date.
+Togo put a [platform online centralising climate-risk data across agriculture, forestry, water resources, tourism and energy](https://www.togofirst.com/en/itc/2408-19852-togo-launches-platform-to-improve-climate-risk-monitoring). Drought and flood indicators are keyed by field agents and checked by sector and regional focal points before national consolidation, time-stamped to leave an audit trail; no launch date is given. The modules for a [National Malaria Data Repository were approved](https://www.togofirst.com/en/health/2608-19870-togo-launches-digital-platform-to-improve-malaria-response) after a training-of-trainers workshop, with no go-live date or facility coverage stated.
 
-The modules for a [National Malaria Data Repository were approved](https://www.togofirst.com/en/health/2608-19870-togo-launches-digital-platform-to-improve-malaria-response), following a training-of-trainers workshop held at the public-health training and research centre. No go-live date, facility coverage or data flow is stated.
+Both sit on a system the base can now describe: [DHIS2 has been the health ministry's platform since 2016](https://dhis2.org/climate/country-profiles/togo/) and is the national repository. The chain into it still begins on paper at the facility.
 
 ## Tunisia
 

@@ -4,7 +4,7 @@ compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: capacity.literacy
 places: AGO; COD; GHA; KEN; LBR; MOZ; RWA; SEN; SSD; TZA; TGO; ZMB
-record: 5595a802db35
+record: 73f36bfc99a8
 ---
 
 # Literacy: monthly update, August 2026
@@ -55,7 +55,7 @@ The telecoms regulator's director general put the [digital clubs programme at 80
 
 ## Togo
 
-A programme of [school FabLabs, trained fabmanagers and regional innovation and technology centres](https://actulome.com/fabmanagers-fablabs-crit-ecole-au-togo/) was set out publicly, together with the vocabulary it will be run in. No site count, budget or opening date is given.
+The staffing has moved ahead of the estate. On 24 August [101 fabmanagers, recruited through the national teacher competition, began a month-long training](https://education.gouv.tg/fablabs-educatifs-et-crit-le-togo-prepare-une-generation-de-createurs-et-dinnovateurs/) in programming, robotics, artificial intelligence, the internet of things and 3D printing, to run educational FabLabs in colleges and scientific lycees and in regional innovation centres — a [programme set out publicly](https://actulome.com/fabmanagers-fablabs-crit-ecole-au-togo/) the week before. The trainers are named and dated; the laboratories have no site count, budget or opening date.
 
 ## Zambia
 

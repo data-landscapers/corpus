@@ -4,7 +4,7 @@ compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: include.access
 places: DZA; AGO; BWA; BDI; CMR; CAF; COM; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GHA; KEN; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; STP; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; UGA; ZMB; ZWE
-record: 5041cee7dab8
+record: 341ef16097de
 ---
 
 # Access to services: monthly update, August 2026
@@ -179,7 +179,9 @@ Access moved for a group the digital estate rarely reaches. The central bank [la
 
 ## Togo
 
-A service was built for people who cannot rely on a connection. A pilot of LébéNam, [an offline-capable platform for reporting gender-based violence and routing victims to the nearest care point](https://www.afrikelles.tg/lebenam-linnovation-numerique-au-service-de-la-lutte-contre-les-vbg/), was run this month. Designing for intermittent connectivity is the notable part. It is a pilot: no case volume, geographic coverage or referral outcome is in the record held.
+A service was built for people who cannot rely on a connection. A pilot of LébéNam, [an offline-capable platform for reporting gender-based violence and routing victims to the nearest care point](https://www.afrikelles.tg/lebenam-linnovation-numerique-au-service-de-la-lutte-contre-les-vbg/), was run this month. Designing for intermittent connectivity is the notable part; no case volume, coverage or referral outcome is in the record held.
+
+Documentation for the displaced is the larger operation. A [grant of US$1 million approved on 4 August funds registration and documentation of 5,000 new arrivals in the Savanes, a region now hosting more than 55,000 refugees and close to 16,000 internally displaced people](https://www.afdb.org/fr/news-and-events/togo-un-don-dun-million-de-dollars-pour-repondre-lurgence-humanitaire-dans-la-region-des-savanes-96033). None of it runs through the national identity register: refugees are documented on a separate system.
 
 ## Uganda
 

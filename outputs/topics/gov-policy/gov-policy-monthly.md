@@ -4,7 +4,7 @@ compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: gov.policy
 places: BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MWI; MLI; MRT; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: eb612443820e
+record: 80e1c57cef7f
 ---
 
 # Strategies, plans and policies: monthly update, August 2026
@@ -183,7 +183,7 @@ The education, science and technology ministry [completed a draft National Techn
 
 ## Togo
 
-The [government roadmap for 2026-2031 is in force](https://www.republiquetogolaise.tg/gouvernance-economique/0108-12153-vision-2040-le-gouvernement-renforce-son-dialogue-avec-le-secteur-prive) with headline targets of a doubling of gross domestic product per head and poverty below 15 per cent. The text is not held, no digital chapter or digital target is on record, and the three sectoral tracks at its private-sector workshop of 30 July were agro-industry, logistics and transport, and energy — none of them digital. The [regulator's head was elected president of the West African regulators' association](https://www.togofirst.com/en/trombinoscope-uk/3107-19753-michel-yaovi-galley-head-of-arcep-togo) at the assembly Togo hosted in April.
+The [government roadmap for 2026-2031 is in force](https://www.republiquetogolaise.tg/gouvernance-economique/0108-12153-vision-2040-le-gouvernement-renforce-son-dialogue-avec-le-secteur-prive) with headline targets of a doubling of gross domestic product per head and poverty below 15 per cent. The text is not held, no digital chapter or target is on record, and the three sectoral tracks at its private-sector workshop of 30 July were agro-industry, logistics and transport, and energy — none of them digital.
 
 ## Tunisia
 

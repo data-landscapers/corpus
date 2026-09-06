@@ -4,7 +4,7 @@ compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 34ee4161ea9e
+record: a2c16c92c2c6
 ---
 
 # Other GovTech and e-Gov: monthly update, August 2026
@@ -308,9 +308,9 @@ The commodity exchange took its first crop online. The cereals regulator [sold 3
 
 ## Togo
 
-One procedure came off paper. The council of ministers [adopted a decree on 26 August amending the investment-approval committee so that the approval procedure is handled electronically](https://www.republiquetogolaise.tg/gestion-publique/2708-12211-conseil-des-ministres-du-26-aout-2026). The wider programme it sits in was described the same week: the ministry [set out accelerating reforms across governance, land and digital, naming cyberdefence and biometrics](https://www.republicoftogo.com/toutes-les-rubriques/eco-finance/gouvernance-foncier-numerique-les-reformes-accelerent). Neither account carries a timetable or a cost.
+One procedure came off paper. The council of ministers [adopted a decree on 26 August amending the investment-approval committee so that the approval procedure is handled electronically](https://www.republiquetogolaise.tg/gestion-publique/2708-12211-conseil-des-ministres-du-26-aout-2026). The ministry the same week [set out accelerating reforms across governance, land and digital, naming cyberdefence and biometrics](https://www.republicoftogo.com/toutes-les-rubriques/eco-finance/gouvernance-foncier-numerique-les-reformes-accelerent). Neither account carries a timetable or a cost.
 
-The transit-tracking system took on a new cargo type. The revenue office [opened a Lome pilot on 1 September extending electronic tracking to trucks carrying petroleum products in transit to Burkina Faso, Mali and Niger, under a system operational since October 2022 and until now used mainly for other cargo, with petroleum-specific devices fitted after route, cargo type, vehicle specification and driver details are recorded and monitored from a command centre running around the clock that flags route deviations](https://www.togofirst.com/en/public-finance/0209-19934-togo-pilots-electronic-tracking-for-petroleum-transit-cargo). Industry stakeholders are to take part in evaluating the pilot before any wider rollout; no device count, cost, duration or evaluation criterion is published.
+The transit-tracking system took on a new cargo type: the revenue office [opened a Lome pilot on 1 September extending electronic tracking to trucks carrying petroleum products in transit to Burkina Faso, Mali and Niger](https://www.togofirst.com/en/public-finance/0209-19934-togo-pilots-electronic-tracking-for-petroleum-transit-cargo), under a system operational since October 2022. No device count, cost or evaluation criterion is published.
 
 ## Tunisia
 

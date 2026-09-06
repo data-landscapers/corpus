@@ -3,13 +3,13 @@ title: Training and skills — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: capacity.training
-places: AGO; BEN; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: c751e32fdbfb
+places: AGO; BEN; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: df82c2128cea
 ---
 
 # Training and skills: monthly update, August 2026
 
-*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -195,6 +195,10 @@ Türkiye's higher education council and the Sudanese higher education ministry [
 ## Tanzania
 
 Training in the window is bought rather than built. Zanzibar's public service [signed a three-year memorandum for artificial-intelligence and cybersecurity capacity building](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-public-servants-to-build-capacity-in-ai-cybersecurity-5560558), and an operator's foundation [expanded its digital skills programme for young people](https://techafricanews.com/2026/08/26/airtel-africa-foundation-digital-skills-tanzanian-youth/). Neither carries a cohort size, curriculum, certification or cost on the record held, so the base can date the commitments and cannot size them.
+
+## Togo
+
+The university's own [programme catalogue](https://etu.univ-lome.tg/information/offre) is now held: licences in software engineering, systems and networks, computing, and artificial intelligence and big data, masters in the last two, and a doctorate in computing. It carries no enrolment or graduate figure and names no cybersecurity degree, so annual output in the field stays unmeasured.
 
 ## Tunisia
 

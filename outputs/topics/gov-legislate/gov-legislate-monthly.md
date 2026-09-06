@@ -4,7 +4,7 @@ compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: gov.legislate
 places: DZA; AGO; BDI; CMR; CPV; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
-record: f3266fb26f25
+record: 8d7d9fac8fcd
 ---
 
 # Legislation and regulation: monthly update, August 2026
@@ -265,7 +265,7 @@ The legislative response to all of this is a review rather than a bill. The gove
 
 ## Togo
 
-The month's legislating was about commercial justice and civil status rather than about digital instruments. The National Assembly [adopted bills on commercial-courts reform and on accession to the Hague Apostille Convention in first reading on 14 August](https://togopresse.tg/lassemblee-nationale-adopte-en-1ere-lecture-deux-projets-de-loi-sur-la-reforme-des-juridictions-commerciales-et-ladhesion-du-togo-a-la-convention-apostille/); the Senate [adopted the courts reform on 21 August](https://togopresse.tg/la-reforme-sur-les-juridictions-commerciales-adoptee-au-senat/), and neither promulgation is held. Separately a scoping meeting [opened a review of the 2009 civil registration law to support digital transformation, proposals due before the end of 2026](https://www.togofirst.com/en/justice/2408-19853-togo-reviews-civil-registration-law-to-support-digital-transformation). An apostille accession is a digital question in practice: it is the route by which a document issued by one state's register is accepted by another's.
+The month's legislating was about commercial justice and civil status rather than digital instruments. The National Assembly [adopted bills on commercial-courts reform and on accession to the Hague Apostille Convention in first reading on 14 August](https://togopresse.tg/lassemblee-nationale-adopte-en-1ere-lecture-deux-projets-de-loi-sur-la-reforme-des-juridictions-commerciales-et-ladhesion-du-togo-a-la-convention-apostille/); the Senate [adopted the courts reform on 21 August](https://togopresse.tg/la-reforme-sur-les-juridictions-commerciales-adoptee-au-senat/), and neither promulgation is held. A scoping meeting [opened a review of the 2009 civil registration law, proposals due before the end of 2026](https://www.togofirst.com/en/justice/2408-19853-togo-reviews-civil-registration-law-to-support-digital-transformation). An apostille accession is a digital question in practice: it is how one state's register is accepted by another's.
 
 ## Uganda
 

@@ -4,7 +4,7 @@ compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: digital.localgov
 places: AGO; BFA; BDI; GHA; MWI; MLI; NAM; NGA; RWA; SEN; ZAF; SDN; TZA; TGO; ZMB; ZWE
-record: 615a90a82d98
+record: da2278627c4e
 ---
 
 # Digitalisation of sub-national government: monthly update, August 2026
@@ -77,7 +77,7 @@ A [constituency digitalisation strategy opened on 4 August with 20 computers and
 
 ## Togo
 
-A commune of Greater Lome began building the kind of register a municipality has not had. Golfe 2 [launched a georeferenced census of households, businesses and taxpayers on 11 August, running to 10 October](https://www.republicoftogo.com/toutes-les-rubriques/politique/une-connaissance-plus-precise-du-territoire-communal), to build a secure municipal database under the communes federation's digitalisation push and the 2023-2027 communal development plan. No data-protection basis, custodian, retention rule or access arrangement is stated for a file that ties households, businesses and tax position to a location.
+A commune of Greater Lome began building the kind of register a municipality has not had. Golfe 2 [launched a georeferenced census of households, businesses and taxpayers on 11 August, running to 10 October](https://www.republicoftogo.com/toutes-les-rubriques/politique/une-connaissance-plus-precise-du-territoire-communal), to build a secure municipal database. No data-protection basis, custodian, retention rule or access arrangement is stated for a file that ties households, businesses and tax position to a location.
 
 ## Zambia
 

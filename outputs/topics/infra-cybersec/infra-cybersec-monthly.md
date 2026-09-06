@@ -4,7 +4,7 @@ compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: infra.cybersec
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COG; CIV; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MWI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 7ef63e3951ac
+record: 8feb6ab5f21d
 ---
 
 # Cybersecurity: monthly update, August 2026
@@ -193,9 +193,9 @@ The same budget statement [provides for cybercrime investigation centres at Dodo
 
 ## Togo
 
-The cyber institutions are in place and the record of what they do is thin. [The national incident-response function runs inside a joint venture of the Togolese state and a Polish group](https://www.togofirst.com/en/itc/2907-19721-palakiyem-assih-named-chairman-of-cyber-defense-africa), so the incident record, tooling and institutional memory sit with a foreign supplier; no incident-response profile or annual report is held. The agency's director-general put [more than 333,000 incidents handled between 2021 and 2024, rising from 39,168 to 181,088](https://launetogo.tg/cybersecurite-le-togo-erige-la-confiance-numerique-en-priorite-nationale/) â€” a 4.6-fold increase with no figure for 2022, 2023 or 2025 and no definition of an incident.
+The cyber institutions are in place and the record of what they do is thin. [The national incident-response function runs inside a joint venture of the Togolese state and a Polish group](https://www.togofirst.com/en/itc/2907-19721-palakiyem-assih-named-chairman-of-cyber-defense-africa), so the incident record, tooling and institutional memory sit with a foreign supplier. The agency's director-general put [more than 333,000 incidents handled between 2021 and 2024, rising from 39,168 to 181,088](https://launetogo.tg/cybersecurite-le-togo-erige-la-confiance-numerique-en-priorite-nationale/) — with no figure for 2022, 2023 or 2025 and no definition of an incident.
 
-The team is at least visibly operating: it [issued a high-severity alert on an active online account-compromise campaign on 19 August](https://savoirnews.net/togo-le-cert-tg-alerte-sur-une-nouvelle-vague-de-piratage-de-comptes-en-ligne/). It is the first published alert the base holds from it, and no post-incident account, affected count or resolution follows.
+The team is visibly operating: it [issued a high-severity alert on an active account-compromise campaign on 19 August](https://savoirnews.net/togo-le-cert-tg-alerte-sur-une-nouvelle-vague-de-piratage-de-comptes-en-ligne/), the first published alert the base holds from it.
 
 ## Tunisia
 

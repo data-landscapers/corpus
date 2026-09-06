@@ -4,7 +4,7 @@ compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: dpi.exchange
 places: DZA; AGO; BEN; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NER; NGA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 96bdfac188bc
+record: 76bc46466532
 ---
 
 # Data Exchange: monthly update, August 2026
@@ -199,7 +199,9 @@ On forest-products revenue the government chose integration over replacement, a 
 
 ## Togo
 
-The tax authority closed the paper route into the land record. From 17 August 2026 [digital submission of land parcel plans is mandatory through its single land window, ending paper filing by surveyors registered with the professional order](https://www.otr.tg/index.php/fr/blog/avis-communiques/1611-communique-n-005-2026-otr-cg-ci-dccf-relatif-aux-depots-des-dossiers-de-plans-parcellaires-en-ligne.html). No fallback channel, fee schedule, submission volume or data-protection basis for the cadastral record is stated — and the country's own national interoperability and data-exchange framework remains ***Not held***, so this is a single authority's window rather than a piece of a shared layer.
+The tax authority closed the paper route into the land record. From 17 August 2026 [digital submission of land parcel plans is mandatory through its single land window, ending paper filing by surveyors registered with the professional order](https://www.otr.tg/index.php/fr/blog/avis-communiques/1611-communique-n-005-2026-otr-cg-ci-dccf-relatif-aux-depots-des-dossiers-de-plans-parcellaires-en-ligne.html). No fallback channel, fee schedule, submission volume or data-protection basis for the cadastral record is stated.
+
+The shared layer it would fit into is now visible, and it is a draft: the enterprise-architecture guide defines a common interoperability framework over four levels, and its own [version page](https://ressources.digital.gouv.tg/shares/documentations/Guide_architecture_national/html/controle_version.html) still records version 1.0, status *Brouillon*, with an empty revision log. This is still a single authority's window rather than a piece of a shared layer; the reason has changed from an absent framework to an unadopted one.
 
 ## Tunisia
 

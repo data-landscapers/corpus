@@ -3,13 +3,13 @@ title: National statistics — monthly update, August 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 subject: data.statistics
-places: BWA; BDI; CMR; CAF; TCD; COM; COG; COD; GNQ; GAB; GHA; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; UGA; ZWE
-record: 9ba9e5ad3007
+places: BWA; BDI; CMR; CAF; TCD; COM; COG; COD; GNQ; GAB; GHA; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TGO; UGA; ZWE
+record: 4885e6784bfc
 ---
 
 # National statistics: monthly update, August 2026
 
-*28 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*29 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -134,6 +134,10 @@ A second national collection was launched inside nine months. The [2026 Demograp
 A statistical series came back after five years. Statistics South Africa [restored its monthly insolvencies series, interrupted since the 2021 cyber incident at the Department of Justice cut off the administrative supply, with a first release on 21 July covering June 2026 and a time series back to January 2023](https://www.statssa.gov.za/?p=19751). It is the clearest cost of a security failure this ledger holds: an official series lost because another department's systems went down, and recovered only now.
 
 The office also published [a frame update for the continuous population survey and household survey programme redesign](https://www.statssa.gov.za/?page_id=14209), the instrument intended to carry population statistics between censuses. No first release is named with it.
+
+## Togo
+
+The dissemination layer is being rebuilt while the strategy above it has lapsed. The 2024 [national statistical yearbook](https://inseed.tg/download/7668/) was reissued in a revised edition in August, compiled from sectoral administrative systems and ministry returns as well as censuses. The [2020-2024 statistics strategy](https://afristat.org/wp-content/uploads/2022/04/22_Togo-SNDS-II_Adopte-CNS-le-27aout20_avant-propos-signe-MPDC.pdf) beneath it expired with no successor adopted; orientations were set in June, and orientations are not a strategy.
 
 ## Uganda
 
