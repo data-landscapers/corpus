@@ -3,9 +3,9 @@ title: Chad — monthly update, August – September 2026
 compiled: 2026-09-06
 period: 2026-08-01 to 2026-09-06
 place: TCD
-ledger_rows: 24
-not_held: 41
-record: 6e9b1ecac676
+ledger_rows: 40
+not_held: 23
+record: 6d36593c7392
 ---
 
 # Chad: monthly update, August – September 2026
@@ -27,10 +27,22 @@ The money came from two directions. Chad and China [signed two grant agreements 
 <!-- narrative: governance--gov-policy -->
 The policy movement of the window is advice rather than instrument. The economic, social, cultural and environmental council [closed a plenary session running 5 to 19 August on the public administration facing the digital transition, and adopted recommendations calling for an affirmed national digitalisation policy of wider scope, a durable national financing mechanism for the sector, adequate power supply, stronger public-agent skills and public-private partnerships](https://www.ndjamenaactu.com/2026/08/19/tchad-le-cesce-plaide-pour-une-transition-numerique-inclusive-et-securisee/). What the list describes is a stack the base can confirm is missing at almost every layer — which is why the recommendations read as a gap analysis. Nothing binds government to act on them and no response is on record.
 <!-- /narrative -->
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+Chad's digital statutes entered the base this month by being listed, not by being made. The regulator's register [names the 2015 laws on cybersecurity, electronic transactions and personal data protection as the laws it works under](https://arcep.td/lois.html) and links the text of none; the statistics institute [names Loi n. 026/PR/2019 and four decrees](https://www.inseed.td/index.php/systeme-statistique-national/textes-reglementaires).
+
+On payments there is nothing national to name at all: the central bank's register [gives the regional payment systems regulation of December 2016 as the instrument in force](https://www.beac.int/systemes-paiement/instructions-circulaires-reglements/). A payments law that is regional and a practice that runs on conventions with four operators leave no statute a citizen can be pointed to.
+<!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
 The telecommunications minister [received an Azerbaijani delegation in N'Djamena to explore e-government cooperation](https://www.digitalbusiness.africa/e-gov-lazerbaidjan-propose-son-expertise-aux-administrations-tchadiennes/). Nothing is agreed, and no memorandum, scope or value is on file.
+<!-- /narrative -->
+### Standards
+
+<!-- narrative: governance--gov-standards -->
+The standards agency published its first adoptions: [the quality management systems committee adopted ten international standards as draft Chadian norms on 5 August 2026, with sessions of the electrotechnical and petroleum products committees either side of it](https://atnor.td/). It is the first movement the base holds against a mandate standing since 2014.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -52,6 +64,11 @@ The fund's own appraisal report now settles the amount the base could not reconc
 
 ## ICT Infrastructure
 
+### Energy
+
+<!-- narrative: ict-infrastructure--infra-energy -->
+The grid the digital estate sits on went backwards. After a fire at the Farcha thermal plant in late July, [load-shedding in parts of N'Djamena had run close to a month by 20 August, the utility saying the burnt sets need new equipment and giving no date](https://www.rfi.fr/fr/afrique/20260820-tchad-des-d%C3%A9lestages-r%C3%A9currents-%C3%A0-ndjamena-depuis-l-incendie-de-la-centrale-%C3%A9lectrique-de-farcha). The data centre awaiting certification and the government network both sit on that supply, and no power arrangement for either is held.
+<!-- /narrative -->
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
@@ -64,6 +81,11 @@ The window's one cyber measure is a loss figure, and it comes from research rath
 
 <!-- narrative: dpi--dpi-exchange -->
 The 2027 budget orientations [prohibit any ministry putting in place a computer system incompatible with the existing platforms](https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/), and require tax, customs, treasury, budget, accounting, cadastre, identity, state property and land registry to interconnect on a single identifier. It is the strongest interoperability commitment this ledger carries, and the base holds none of the framing text: no cost, phasing or implementing agency is named.
+<!-- /narrative -->
+### Digital Identity and CRVS
+
+<!-- narrative: dpi--dpi-id -->
+The identity agency stated its own position for the first time in the base, [describing a system that assigns every enrolled individual a unique national identification number across 29 centres](https://www.anats.td/). What it does not give is a number: no enrolment total and no coverage rate, so the three per cent holding a card at appraisal in 2023 has no successor.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -103,6 +125,19 @@ The platform the state already uses to watch itself surfaced on 7 August, when t
 
 <!-- narrative: technology--tech-ai -->
 The base holds its first record of an artificial-intelligence strategy for Chad: a [consultancy is being recruited to draft a National Digital Transformation and Artificial Intelligence Strategy for 2026 to 2031](https://www.ungm.org/Public/Notice/311924). The row that stood as not held is settled to that extent and no further; there is no draft, adoption route or delivery date.
+<!-- /narrative -->
+
+## Data
+
+### National statistics
+
+<!-- narrative: data--data-statistics -->
+The statistics institute set out what it publishes and on what terms: [five channels, from an Open Data Portal to a development-plan indicator tracker](https://www.inseed.td/), against an archive policy [barring transmission of microdata without prior written agreement](https://anad.inseed.td/index.php/politique-dacc). The pipes are built and the licence is what is missing.
+<!-- /narrative -->
+### Open data
+
+<!-- narrative: data--data-open -->
+Publication and access moved in opposite directions. The statistics archive [bars redistribution of microdata without written consent](https://anad.inseed.td/index.php/politique-dacc), which settles whether Chadian public data is open: it is published and it is not open. On the access side the media regulator [suspended applications to create online newspapers until further notice](https://tchadinfos.com/2026/08/03/la-hama-suspend-la-creation-de-journaux-en-ligne-et-appelle-a-mettre-fin-au-desordre-informationnel/), against a record holding no freedom of information law at all.
 <!-- /narrative -->
 
 ## Geopolitics
