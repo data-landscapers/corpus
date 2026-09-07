@@ -64,7 +64,7 @@ Apache Spark and Apache Hadoop	5256
 Apple and SpaceX	16811
 ArcGIS's Spatial Analyst	17157
 Area of Office Space	14778
-Assembly Political Pluralism Civil Society Space	10759,78,1315,188
+Assembly Political Pluralism Civil Society Space	10759,78,1315,188,7598
 Availability of Spatial Plans and Zoning Requirements	12389
 Avatar of Spartanforever1	12478
 Aviation Authority of Zimbabwe Spanish National Research	1554
@@ -108,7 +108,7 @@ Citizen Generated Data and Spatial Data	19519
 Civic Space	12987
 Civic Space Monitor	9022
 Civic Space Open	12336
-Civil Society Space	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Civil Society Space	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Close SpaceX	6467
 Closing Civic Space	1250
 Co-Working Spaces	14024
@@ -360,7 +360,7 @@ National Space Science and Technology Policy	13106
 National Spatial	15473
 National Spatial Data	12453
 National Spatial Data Infrastruc-	15473
-National Spatial Data Infrastructure	976,820,1193,220,2035,1449,2792,166,2211,507,88,442,3,5,124,1848,3414,611
+National Spatial Data Infrastructure	976,820,1193,220,2035,1449,2792,166,2211,507,88,442,3,5,124,1848,3414,611,1077
 National Spatial Data Infrastructure ODA	5244
 National Spatial Data Infrastructure Policy	12902
 National Spatial Data Infrastructure Project	15473

@@ -594,6 +594,7 @@ Access Control	1009,9712,4200,133,1870
 Access Control Buttons. Below	13333
 Access Control Language	1009
 Access Control List	14921
+Access Control Management Section	19968
 Access Control Mechanisms Enforce	13381
 Access Control OASIS Cross-Enterprise Security and Decision	1009
 Access Control Participants	12364
@@ -1999,6 +2000,7 @@ Client Information Name of Data Controller	1877
 Climate Change NDC Nationally Determined Contribution	18809
 Climate Contribution	14818
 Climate Contribution Agriculture	14818
+Cloud Agreements Data Ownership and Control Ghana	19968
 Cloud Computing Contract and Monitoring	19546
 Cloud Productivity Solutions Limited Data Controller	7167
 Cláusulas Contratuais Mínimas	11448
@@ -2094,7 +2096,7 @@ Contraceptive Use	14067
 Contracepção	10777
 Contracepção de Emergência	10777
 Contracng	15658
-Contract	59,295,608,160,516,1199,152,594,845,1248,756,107,532,1475,1151,1112,389,20,6,9,17,575,44,72,15,176,121,49,87,11,149,144,7,278,39,14,6,17,131,207,184,346,513,111,192,8,17,3,12,115,34,1,68,1,83,63,229,27,12,248,2,240,942,5,5,43,203,81,713,650,13,79,272,18,660,127
+Contract	59,295,608,160,516,1199,152,594,845,1248,756,107,532,1475,1151,1112,389,20,6,9,17,575,44,72,15,176,121,49,87,11,149,144,7,278,39,14,6,17,131,207,184,346,513,111,192,8,17,3,12,115,34,1,68,1,83,63,229,27,12,248,2,240,942,5,5,43,203,81,713,650,13,79,272,18,660,127,222
 Contract A Lump-Sum	11869,72
 Contract Account Number. Customers	8231
 Contract Adm. Fee	16848
@@ -2283,7 +2285,7 @@ Contractors and Supervisors	17114
 Contractor’s Equipment	18543
 Contractor’s Equipment Details	18543
 Contractor’s Interim Payment Certificates	14546
-Contracts	961,1027,1726,849,113,12,988,756,1116,208,121,751,491,280,540,902,390,20,274,25,142,303,200,724,53,213,126,20,61,262,272,496,143,180,307,28,84,5,203,39,252,238,82,736,120,4,73,990,650,331,478,220
+Contracts	961,1027,1726,849,113,12,988,756,1116,208,121,751,491,280,540,902,390,20,274,25,142,303,200,724,53,213,126,20,61,262,272,496,143,180,307,28,84,5,203,39,252,238,82,736,120,4,73,990,650,331,478,220,383
 Contracts Awarded	15052
 Contracts Entered	15473
 Contracts Lack Critical Legal	19584
@@ -2301,6 +2303,7 @@ Contracts. Section	15080
 Contractual	970,2613,1991,841,5490,81,379,9,711,300,276,1336,366,1560,120,2764
 Contractual Forms This Section	15080
 Contractual Obligation	1243,10713
+Contractual Protections Contracts	19968
 Contractual RITA Staff	19541
 Contractual RITAs Staff	19541
 Contractual Requirements	5676,6689
@@ -2312,6 +2315,7 @@ Contractual Timelines	19585
 Contractual Undefined	19585
 Contractual and Certification Actions	11995
 Contractual and Governance Considerations Contracts	14565
+Contractual and Operational Measures	19968
 Contractual and Regulatory Obligations All	3861
 Contractual and SLA Adherence	11995
 Contractualisation	16747,1160,1035,279
@@ -2621,7 +2625,7 @@ Contributions Nationales Déterminées	15500
 Contributions Welcome	18038
 Contributions and Limitations	7242
 Contributions and Participation	6951
-Contributions and Statements	7697,1,1,667,2962,766
+Contributions and Statements	7697,1,1,667,2962,766,7868,13
 Contributions of Dr. Francis Mading Deng	2685,2,359,86,176,15,119,65,590,447,96,374,93,240
 Contributions of GRACE	17157
 Contributions of Indicators	15244
@@ -2725,7 +2729,7 @@ Control and Surveillance Coordination Centre	12640
 Control and Use of Personal Mobile Devices	14839
 Control da Polícia Nacional	10788
 Control de Gestión	15478
-Control of Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Control of Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Control of Communicable Diseases Access	19822
 Control of Corruption	1828,2700,10369,2099
 Control of Counterfeit and Low-Quality Medicines	10776
@@ -2737,7 +2741,7 @@ Control of Goods Act	8399,5004
 Control of Goods Prices and Other Charges	12629
 Control of HIV	11417
 Control of Neglect-	10780
-Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Control of Personal Data Protection	3563,1441
 Control of Private Hospitals	1009
 Control of Public Procurement	11906
@@ -2768,7 +2772,7 @@ Controlled Transfers	3861
 Controlled Transfers Cross-border	3861
 Controlled Unclassified Information	6423
 Controlled Vocabulary Data Data	19638
-Controller	25,1326,123,2387,2727,1690,158,693,3290,962,1053,1050,3399,643,275,94
+Controller	25,1326,123,2387,2727,1690,158,693,3290,962,1053,1050,3399,643,275,94,73
 Controller General Tougoud Digo Maïdé	8171
 Controller INST-1108083D4A0 NAKURU Kenya Renewed	7167
 Controller INST-1108838FBD4 MACHAKOS Kenya	7167
@@ -3057,7 +3061,7 @@ Controller INST-983295E6FBF NAIROBI Afghanistan	7167
 Controller INST-9857503D92D NAIROBI Kenya	7167
 Controller Obligations ARTICLE	15484
 Controller and A.uAdll	19526
-Controller and Accountant-General	587
+Controller and Accountant-General	587,19364
 Controller and Accountant-General Kwasi Agyei	12094
 Controller and Accountant-General's Department	3287,8807
 Controller and Accountant-General. Management	587
@@ -3083,7 +3087,7 @@ Controller and Processor Subject	14727
 Controller of Budget	2742,2392,1454,208,2153,990,2315,2292
 Controller of Certifying Authorities	18883
 Controller. The PDPL	19895
-Controllers	1474,156,22,85,1069,823,4807,3730,27,2241,773,277,90,4290,31
+Controllers	1474,156,22,85,1069,823,4807,3730,27,2241,773,277,90,4290,31,73
 Controllers ATOS Approved Training Organizations ATPL	2775
 Controllers PRSAP Poverty Reduction Strategy and Action	12975
 Controllers and Processors	12302,117,3065,4411
@@ -3839,10 +3843,12 @@ Data Controllers and Processors of Major Importance. Quoting	8118
 Data Controllers and Processors of Significant Importance	4583
 Data Labelers Association Data Controller INST-9143850AC00	7167
 Data Management and Data Controls	6432
+Data Ownership and Control	19968
 Data Privacy Access Control Policy	10721
 Data Processor and Data Controller	12170
 Data Quality Control	12151
 Data Security Controls and Standards	11956
+Data Security and Technical Controls Evaluate	19968
 Datasec Limited Data Controller INST-9632430615D NAIROBI	7167
 Daudics Medical Centre Data Controller INST-441872FC94E	7167
 De Minimis Contracts	17068
@@ -3929,6 +3935,7 @@ Direction des Grands Contribuables	19687
 Direction du Contrôle	4420,10992,300
 Direction du Contrôle des Dépenses	4420
 Direction du Contrôle des Marchés	16384
+Director General of Internal Control	19967
 Director of Seed Quality Control and Certification	18197
 Director-General of Health Emergencies and Epidemics Control	13870
 Directorate General of Contributions and Taxes	11939
@@ -4243,6 +4250,7 @@ Exchange Control Regulations and Compliance Trained Nedbank	11131
 Exchange Control Regulations. The Financial Surveillance	8840
 Execution of Binding Contracts	19585
 Execution of Contracts	19585
+Exit Strategies Contracts	19968
 Expected Delivery Date Expected Contract Signature	13392
 Expenditure Control	19847
 Expenditure Control Measures	13122
@@ -4262,6 +4270,7 @@ FDA.Regulatory Control	16843
 FIJ Story Forced Contractor Back	7176
 FINANCES ET DU BUDGET CONTRAT	15426
 FINANCIERES ET DE CONTRÔLE CHAPITRE PREMIER	17816
+FORENSIC AUDIT OF NIA CONTRACT	19934
 FORMATION DES CONTRATS ET PROTECTION	17825
 FUP.Regulatory Control	16843
 Factors Outside the Control of Implementing Entity	17962
@@ -4426,6 +4435,7 @@ Haute Autorité de Lutte Contre la Corruption	11905
 Have Greater Control Over How Teachers	10280
 Hazard Analysis and Critical Control Point	16900
 Hazard Analysis and Critical Control Points	16900
+Hazardous and Electronic Waste Control and Management Act	19943
 Health Cancer Control Focal Person St	12972
 Health Centre COBIT CSIR Control Objectives	1009
 High Contracting Parties	19185
@@ -4478,6 +4488,7 @@ Identification des Contribuables. Sous	15353
 Immigration Control Act. Although Namibia	13097
 Immigration Control and Citizenship N	12984
 Immigration Control and Ministry	19641
+Immigration Departure Control	19950
 Immigration and Border Control System	16885
 Impact UNDP Mauritius Contribution	11332
 Implement Security Controls	11995
@@ -5101,7 +5112,7 @@ Olorropil Child Development Center Data Controller	7167
 Ondo Oil Commission Hid N6.7bn Contract	7176
 One-Stop Border Control Act	13060
 One-Stop Border Control Regulations	13060
-Open Contracting	12308,4729
+Open Contracting	12308,4729,2900
 Open Contracting Data Standard	17037,2502
 Open Contracting Data Standard29	1984
 Open Contracting Data Standards	11867,1120
@@ -5381,7 +5392,7 @@ RSA Contracted	11953
 Randomized Control Trial	13332
 Randomized Controlled Trial of Two Ready-to-Use	11525
 ReDSS's Contribution Beyond Legislative Advocacy Beyond	15224
-Readers and Contributors	7697,1,1,667,2962,766
+Readers and Contributors	7697,1,1,667,2962,766,7868,13
 Real GDP Growth Demand Contribution	17503
 Rebola Control	4209
 Receive Payment of Contract	16949

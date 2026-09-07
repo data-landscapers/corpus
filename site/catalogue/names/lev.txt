@@ -262,12 +262,12 @@ Educational Level District Hospital	12379
 Educational Levels	15796
 Egypt Level	15473
 Electronic Money Transfer Levy	9113
-Electronic Transfer Levy	7695,7905
-Electronic Transfer Levy Act	15600
+Electronic Transfer Levy	7695,7905,4371
+Electronic Transfer Levy Act	15600,4357
 Electronic Transfer Levy Management and Assurance System	15600
 Elementary and Middle Levels	13960
 Elementary and Middle Levels Currently	13960
-Emissions Levy	7695
+Emissions Levy	7695,12271
 Employees With Salary Levels Higher	11218
 Employment Level	17503
 Employment Levels	11262
@@ -442,6 +442,7 @@ Implementation Arrangements Level	1988
 Implementation Level	1802,10382,51,7626
 Improve People and Culture Leverage Technology	17364
 Inadequate Definition of Service Levels	19584
+Includes Regulatory Levy	19976
 Income Level	10785,1082
 Increase the Level of Security Management Consumer Awareness	6946
 Increased Reliability Level	16885
@@ -868,6 +869,7 @@ Miscellaneous Fees and Levies Act	7548
 Mission Leveraging	19642
 Mkulazi Holding Company Level	19584
 MoCT Level	15055
+Mobile Money Levy	19966
 Mobile Money Transaction Levy	13496
 Mobile Money Transaction Levy Act	13496
 Mode and Year and Level of Study	14775
@@ -1178,6 +1180,7 @@ Tanzania Insurance Regulatory Authority Level	19584
 Tanzania Investment Centre Level	19584
 Tanzania Livestock Research Institute Level	19584
 Tanzania Meteorological Agency Level	19584
+Tanzania Mobile Money Levy Impact Assessment	19966
 Tanzania National Parks Authority Level	19584
 Tanzania National Roads Agency Level	19584
 Tanzania Official Seed Certification Institute Level	19584

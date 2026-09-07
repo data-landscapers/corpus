@@ -117,7 +117,7 @@ African Financial Stability Framework Index	6938
 African Framework for Public Policies	19904
 African Internet Governance Framework	9858
 African Reference Financial Stability Framework	6938
-African Union Data Policy Framework	1753,61,304,1044,196,260,243,319,244,166,654,808,296,878,16,306,595,604,1281,45,1366,616,619,17,470,62,524,197,1090,1696,212,142,2638
+African Union Data Policy Framework	1753,61,304,1044,196,260,243,319,244,166,654,808,296,878,16,306,595,604,1281,45,1366,616,619,17,470,62,524,197,1090,1696,212,142,2638,235
 African Union Data Policy Framework CBL	5244
 African Union Data Policy Framework Implementation	3861
 African Union Data Policy Framework and Malabo	3861
@@ -398,7 +398,7 @@ Constitutional Framework	14748
 Constitutional and Legal Framework	16943
 Constitutional and Legislative Framework	14073,4857
 Consumer Compensation Framework	9112
-Consumer Protection Framework	940,10198
+Consumer Protection Framework	940,10198,8828
 Contents Public Disclosure Authorized Results Framework	11469
 Continental Assessment Framework	13477
 Continental Assessment Framework for Africa	13477
@@ -549,8 +549,10 @@ Data Infrastructure and Open Data Framework Data	14566
 Data Management Framework	1243
 Data Policy Framework	961,2900,2389,102,119,3151,10,1633,3247,212,5207
 Data Privacy Framework	14897
+Data Privacy Framework for NIA-User Agency	19964
 Data Protection Authority. National Governance Framework	4528,7984
 Data Protection Frame-	14897
+Data Protection Framework	19966
 Data Protection Frameworks for Banking Sector Beyond	2668
 Data Quality Assessment Framework	12902,1875,4742
 Data Quality Assessment Framework DSBB Dissemination	14777
@@ -606,7 +608,7 @@ Digital Competence Framework for Citizens	13314,1583,577,6,13,832,1545
 Digital Competence Framework for Citizens ICT	14915
 Digital Competence Framework for Citizens. Update	15447
 Digital Consumer Protection Framework	12444
-Digital Economy Framework	10856
+Digital Economy Framework	10856,9110
 Digital Economy Strategic Framework	4714,1848,184,3353,4300
 Digital Economy Strategy Framework	19578
 Digital Economy Strategy Framework. NEEC	5883
@@ -776,6 +778,8 @@ Enhance and Streamline Sandbox Frameworks Sandbox	14819
 Enhanced Integrated Framework	15478
 Enhanced Legal Framework	16944
 Enhanced Transparency Framework	3430,1,5130
+Enhancement of Regulatory Framework	19940
+Enhancement of Regulatory Framework The Bank	19940
 Enhancing Regulatory Frameworks	12399
 Enquête Multi-Tier Framework	13433
 Enterprise Architecture Framework	2868,6365,3126,4746,289
@@ -1163,6 +1167,7 @@ GeoPandas Framework	19654
 Geodetic Reference Frame	18904
 Geodetic Reference Frame Spatial	18904
 Geospatial Information Framework	17983
+Ghana's CHPS Operational Policy Framework	19974
 Gigler’s Alternative Evaluation Framework	10726
 Global AI Governance Frameworks Comparative	16212
 Global AI Governance Frameworks Comparative Study	16202
@@ -1219,6 +1224,7 @@ Government Capability Maturity Framework THE UNITED	19576
 Government Data Governance Framework Based	5349
 Government Digital Policy and Legal Framework	12453,892
 Government Digital Policy and Legal Framework Government	12453,892
+Government Engagement Framework	19937
 Government Enterprise Architecture Framework	5994,11286,114
 Government Interoperability Framework	2,429,320,212,850,3251,930,364,2766,2431,440,678,635,679,1553,1336,48,356,114,2116,128
 Government Interoperability Framework Reference Architecture	19638
@@ -1305,7 +1311,7 @@ IMF’s Data Quality Assessment Framework	14777
 IMPLEMENT A LICENCE PASSPORTING FRAMEWORK	2450
 IMPLEMENTATION AND COORDINATION FRAMEWORK The Agency	1131
 IMPLEMENTATION FRAME WORK Implementation	19519
-IMPLEMENTATION FRAMEWORK	961,6587,4309,596,892,1407,1289,2437,736
+IMPLEMENTATION FRAMEWORK	961,6587,4309,596,892,1407,1289,2437,736,723
 IMPLEMENTATION FRAMEWORK AND STRATEGIES FOR PARTNERSHIP	19646
 IMPLEMENTATION FRAMEWORK Section	19214
 IMPLEMENTATION OF CYBER RESILIENCE FRAMEWORK	10721
@@ -1632,7 +1638,7 @@ Legislative and Regulatory Framework Spatial	18904
 Liberia Country Partnership Framework FY25-FY30	16144
 Liberia’sNational Reference Framework	17140
 Licence Passporting Framework	5372
-Licensing Framework	15120,3365
+Licensing Framework	15120,3365,1481
 Licensing and Permit Framework The Regulations	19910
 Light Steel Frame Building	19749
 Liquidity Coverage Framework	13868
@@ -1859,6 +1865,7 @@ National CII Governance Framework	1000
 National CPD Framework	14057
 National Carbon Market Framework	14997
 National Certification and Qualification Framework	6747
+National Child Online Protection Framework	19957
 National Climate Services Framework COGIC	18309
 National Cloud Governance Framework	11995
 National Cloud Governance Framework A Sovereign	11995
@@ -1889,6 +1896,7 @@ National Data Quality Assessment Framework	16927
 National Data Standards Framework	18529
 National Development Framework	3861,13110
 National Development Plan Framework of Zambia	12376
+National Development Policy Framework	19966
 National Digital Cooperation and Interoperability Framework	3942
 National Digital Economy Strategic Framework	19609
 National Digital Forensics Framework	10689
@@ -2030,7 +2038,7 @@ Observatory Framework	15120
 Off-cuts and Frames Small	19602
 Official Use Only I. Results Framework	11469
 Open Banking Framework	6757,4374,3,3695
-Open Data Framework	3604,10962
+Open Data Framework	3604,10962,5392
 Open Group Architecture Framework	21,12338,222,7057
 Open Group Architecture Framework UML	11184
 Open Science Framework	8436
@@ -2178,7 +2186,7 @@ Policy and Legal Framework. Thematic Area	12453,892
 Policy and Legal Frameworks	13310
 Policy and Legal Frameworks Norm Average Score	13310
 Policy and Legislative Framework	12975
-Policy and Regulatory Framework	7548,2961,1847,1644
+Policy and Regulatory Framework	7548,2961,1847,1644,5966
 Policy and Regulatory Framework Development	12356
 Policy and Regulatory Framework Kenya	7548
 Policy and Regulatory Framework The Project Officer	13512
@@ -2332,6 +2340,7 @@ Refugee Policy Review Framework. Country Summary	11905
 Regarding the Framework	19900
 Regional AI Governance Framework	4738
 Regional CERT Communication Framework	15120
+Regional Competition Policy Framework	19957
 Regional Cooperative Oversight Framework	11807,141
 Regional Digital Economy Digital Economy Framework	16705
 Regional Framework	11400
@@ -2900,6 +2909,8 @@ World Bank's Environment and Social Framework	1778,11212,1497
 World Bank's Environmental Social Framework	13792
 World Bank's Environmental and Social Framework	15055
 World Bank's Framework for Financial Incentives	19424
+World Bank- Ghana Country Partnership Framework	19966
+World Bank-Ghana Country Partnership Framework	19966
 World Bank. Country Partnership Framework	15601
 World Bank’s Country Partnership Framework	16436,1413,1435
 World Bank’s Environmental and Social Framework	16144,955,15

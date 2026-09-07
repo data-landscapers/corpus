@@ -456,6 +456,7 @@ Faculty of Commerce Professor Suki Goodman	11027
 Fake Profile Computer Related Fraud Computer	18675
 Farmer Profile Project The Farmer Profile	12223
 Federal Minister of Health Professor Haitham Mohamed	15100
+Filing Professional Bodies	19961
 Filing and Manage Your User Profile	11276
 Finalité Professionnelle Secteur Privé	15674
 Finance Manufacturing Professional Health Arts Agriculture	14985
@@ -534,7 +535,7 @@ Global Profile Week	6065
 Good Professional Practices	14736
 Google Business Profile. Africa	1363
 Google Business Profiles	1363
-Governance PROFILE	11888,265,10,7490
+Governance PROFILE	11888,265,10,7490,286
 Governance Profile	19858,1
 Government of Sierra Leone National Budget Profiles	18529
 Gross Loans Profitability	11131
@@ -720,6 +721,7 @@ MSMEs. Professor Eric Osei-Assibey	11032
 MUST Vice-Chancellor Professor Mauakowa Malata	4558
 Madagascar. Avec PROFI	13802
 Malawi and Zimbabwe Professor Nhamo Nhamo Indigenous	1154
+MaleFemale Profession	19947
 Management Indicators The EBITDA Profitability Indicator	11955
 Management Our Profile Corporate Subscription Home	9750,247
 Master Professionnel	19366
@@ -850,7 +852,7 @@ PROFIL DU CABINET ET DES EXPERTS	12043
 PROFIL DU PAYS	15685
 PROFIL ET COMPETENCES COMMUNICATION ET ACCOMPAGNEMENT	16646
 PROFIL PAYS	17830
-PROFILE	4429,5,792,5686,977,263,188,1,335,6868,380
+PROFILE	4429,5,792,5686,977,263,188,1,335,6868,380,14
 PROFILE African Trade Policy Centre	11550,2435
 PROFILE Fact Sheets	14807
 PROFILE OF CHAIRPERSON AND COUNCIL MEMBERS	14736
@@ -944,6 +946,7 @@ Professeur Amadou Mahtar MBOW Le Président	18339
 Professeur Assétou Founè SAMAKE MIGAN	17861
 Professeur Balla DIARRA	17861
 Professeur Bay Karim DIALLO	18412
+Professeur Bill Raphaël BIKANGA	19955
 Professeur Bouba DIARRA	17829
 Professeur Chargés	17982
 Professeur Denis MUKWEGE	15973,145,38
@@ -1004,7 +1007,7 @@ Profession	2775,2121,5879,2256,948,1742,2108,4,266
 Profession Etat	19226
 Profession Numéro	19226
 ProfessionJudiciaire	15936
-Professional	34,1185,720,1,835,328,1411,14,719,1699,843,56,109,942,210,749,363,157,221,380,204,72,44,51,450,77,6,1,243,51,171,10,23,32,34,12,55,390,69,11,49,6,16,69,1620,3,30,39,26,56,26,13,150,90,487,51,1229,159,15,41,78,25,849,327,14,33,5,68,394,129,478,118,27,72,33,28
+Professional	34,1185,720,1,835,328,1411,14,719,1699,843,56,109,942,210,749,363,157,221,380,204,72,44,51,450,77,6,1,243,51,171,10,23,32,34,12,55,390,69,11,49,6,16,69,1620,3,30,39,26,56,26,13,150,90,487,51,1229,159,15,41,78,25,849,327,14,33,5,68,394,129,478,118,27,72,33,28,100,1,15,10
 Professional Academy for Teachers	15604
 Professional Accountancy Organization	18825
 Professional Accountants	18576
@@ -1021,7 +1024,8 @@ Professional Associations Request	17114
 Professional Banking Diploma	17235
 Professional Banking Diploma Program. Accordingly	17235
 Professional Bar of Certified Auditors and Accountants	11955
-Professional Bodies	12453,892,1455
+Professional Bodies	12453,892,1455,5161
+Professional Body	19961
 Professional Boost	17101
 Professional Boost Programme	17101
 Professional Category	14828
@@ -1449,6 +1453,7 @@ Reforma Profunda	10750
 Refugee Profiles	10841
 Refugee Profiles Chad	10841
 Refugee Profiles The Central African Republic	10841
+Registration of Professional Bodies	19961
 Republic of Kenya. GO-SPIN Country Profiles	7548
 Research Professional News	5246
 Resource Profiles	6666

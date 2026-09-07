@@ -30,6 +30,7 @@ Angola’s ID Card	10765,10
 Annual Digital ID	15553
 Annual ID	15553
 App-based Mobile ID	12834
+Applicant's Institutional ID	19935
 Application ID	1920
 Application ID Number	19805
 Application for National ID	12333
@@ -213,7 +214,7 @@ Diagnostic of ID Systems	442,10323,10
 Digetal ID Unique Number	12226
 Digital Acceleration Project Project ID Financing	15621
 Digital Digital ID System	10714
-Digital ID	772,189,282,111,22,186,377,14,215,86,37,275,92,4,221,96,39,144,115,114,171,32,148,217,217,25,582,158,67,24,213,5,283,6,87,267,179,124,147,169,15,9,3,915,107,8,500,531,1553,561,51,10,10,34,3,34,30,326,34,18,111,112,432,21,31,15,8,128,43,37,7,5,27,4,36,85,60,18,9,120,24,77,307,46,53,15,143,76,31,105,380,3,7,170,664,78,4,34,29,69,9,70,38,513,35,1400,1406,411,903
+Digital ID	772,189,282,111,22,186,377,14,215,86,37,275,92,4,221,96,39,144,115,114,171,32,148,217,217,25,582,158,67,24,213,5,283,6,87,267,179,124,147,169,15,9,3,915,107,8,500,531,1553,561,51,10,10,34,3,34,30,326,34,18,111,112,432,21,31,15,8,128,43,37,7,5,27,4,36,85,60,18,9,120,24,77,307,46,53,15,143,76,31,105,380,3,7,170,664,78,4,34,29,69,9,70,38,513,35,1400,1406,411,903,293
 Digital ID Access Estimates and Methodology	10714
 Digital ID App	12165
 Digital ID Architecture and Rights	4863
@@ -1300,6 +1301,7 @@ SIM-based Mobile ID	12834
 SMART ID CARDS AND PASSPORTS	11986
 SONELEC. Operation ID	13793
 SRHR ID Number	8604
+SSNIT ID Card	19935,1
 SSRN Scholarly Paper ID	961
 ST Digital ID	10765
 ST Expand the CR and ID	10775
@@ -1478,7 +1480,8 @@ Virtual ID Card	19044
 Virtual ID Card and Digital Driving License	19044
 Virtual ID Cards for Permit Holders and Seychellois	1882
 Vital Events Registration and National ID Proclamation	12226
-Voter ID	1367,9398,10,7695
+Voter ID	1367,9398,10,7695,1465
+Voter ID Card	19935,1
 Voter ID Card No N	10714
 Voter's ID Card	18452
 Vove ID	7518

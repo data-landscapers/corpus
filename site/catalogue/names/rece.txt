@@ -36,6 +36,8 @@ Aké MIDA Recettes	3638
 Analyse des Recettes	17872
 Annual Financial Statements Received and Reviewed	11250
 Antecedentes Evolução Recente	10783
+Applications Received	19940
+Applications Received The Bank	19940
 Approval of Broadcasting Receiver Equipment	13951
 Assurance Maladie Univeverselle RGPH Recensement Général	15685
 Autres Recettes	16047
@@ -224,6 +226,7 @@ Echantillonnage du Recensement General de L’Agriculture	17945
 Education Return Receipt	16554
 Electronic Fiscal Receipting and Invoicing Solution	19796
 Electronic Fiscal Receipting and Invoicing System	2744,5002
+Electronic General Counterfoil Receipt	19956
 Electronic General Receipt	15066
 Electronic General Receipts	15066
 Electronic Warehouse Receipts	14997
@@ -635,7 +638,7 @@ Receitas de Serviços	18798,55
 Receitas. Neste	11532
 Receivable	2775
 Receivables	718,11681,7313
-Receive	3513,1383,780,589,1283,1055,1183,1028,9,179,15,460,380,4,528,4,282,1349,410,730,309,1158,202,30,86,94,56,43,43,173,9,246,2,2186
+Receive	3513,1383,780,589,1283,1055,1183,1028,9,179,15,460,380,4,528,4,282,1349,410,730,309,1158,202,30,86,94,56,43,43,173,9,246,2,2186,179
 Receive Freehold Titles	19711
 Receive Frw	15164
 Receive Notices and Communications	7198
@@ -645,7 +648,7 @@ Receive Trip Details	17687
 Receive With Confidence	12745
 Receive and Register	17099,15
 Receive- Type	998
-Received	22,396,801,1299,4694,598,566,226,1,1,1,1,148,374,1,108,416,86,33,1008,4,1462,9,1170,1231,10,457,1709,12,32,13,154,207,523,7,1739,183,44,154
+Received	22,396,801,1299,4694,598,566,226,1,1,1,1,148,374,1,108,416,86,33,1008,4,1462,9,1170,1231,10,457,1709,12,32,13,154,207,523,7,1739,183,44,154,74
 Received Date	11276
 Received Feedback	9772
 Received Finalized Stock	12500
@@ -718,7 +721,7 @@ Recensement des Propriétaires des Propriétés	13689
 Recensements	10875,6603,691,784
 Recensements DI Division Informatique	18169
 Recenser	10876,3697,3299,1349,141
-Recent	233,728,8,274,41,544,59,209,422,108,41,159,187,339,231,21,202,42,279,301,86,334,124,70,203,140,148,73,306,256,58,7,199,84,77,337,8,179,241,1,186,166,20,59,86,10,80,56,125,2,125,9,18,125,214,52,177,21,239,20,6,279,7,298,117,21,19,57,179,56,242,120,214,117,116,31,108,4,9,6,269,45,55,25,11,261,59,44,76,25,32,33,118,19,6,53,11,4,32,36,133,115,46,258,27,366,17,1,15,11,29,145,201,8,274,84,2,41,48,253,79,43,99,2,8,49,274,132,9,56,53,164,62,45,32,54,17,40,263,126,334,270,207,41,64,30,15,146,52,48,107,175,18,312,1,120,303,207,116,193,42,28,8,350,8,39,71,165,254,27,25,21,43,5
+Recent	233,728,8,274,41,544,59,209,422,108,41,159,187,339,231,21,202,42,279,301,86,334,124,70,203,140,148,73,306,256,58,7,199,84,77,337,8,179,241,1,186,166,20,59,86,10,80,56,125,2,125,9,18,125,214,52,177,21,239,20,6,279,7,298,117,21,19,57,179,56,242,120,214,117,116,31,108,4,9,6,269,45,55,25,11,261,59,44,76,25,32,33,118,19,6,53,11,4,32,36,133,115,46,258,27,366,17,1,15,11,29,145,201,8,274,84,2,41,48,253,79,43,99,2,8,49,274,132,9,56,53,164,62,45,32,54,17,40,263,126,334,270,207,41,64,30,15,146,52,48,107,175,18,312,1,120,303,207,116,193,42,28,8,350,8,39,71,165,254,27,25,21,43,5,60
 Recent AI Factories and Gigafactories	6879
 Recent AU African Position	1814
 Recent Actions	18931
@@ -761,6 +764,7 @@ Recent Posts	8639,1766,9293
 Recent Riots	5482
 Recent Safeguard Assessments	15102
 Recent Sexual Activity	15247
+Recent Study. Modern Perspectives	19944
 Recent Survey	14897
 Recent Tax Administration Reforms Liberia	17011
 Recent Trends	19890

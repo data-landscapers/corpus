@@ -368,6 +368,7 @@ MOP Manuel des Opérations du Programme Terra MTFP	10876
 Male Female Total Manufacturing	236
 Male Female Total Manufacturing Electricity	12445
 Management Manual FMS Financial Management Specialist	18887
+Manu F	19944
 Manuais	11898
 Manuais Relatórios	12021
 Manuais da Aplicação	12021
@@ -532,7 +533,7 @@ Manufacturer’s Name	19745
 Manufacturer’s Suggested Resale Prices	11036
 Manufactures	13263
 Manufacture’s Authorizations	15080
-Manufacturing	236,182,300,1222,391,3,441,182,1477,788,311,792,1640,1163,1260,304,71,93,120,146,30,144,228,57,293,7,1,94,370,43,10,1,31,5,9,153,364,91,7,62,1,62,110,19,6,65,89,174,465,606,92,4,14,7,4,51,94,100,113,6,138,30,884,10,567,67,111,224,268,980,58,985,6,25,155,56,10
+Manufacturing	236,182,300,1222,391,3,441,182,1477,788,311,792,1640,1163,1260,304,71,93,120,146,30,144,228,57,293,7,1,94,370,43,10,1,31,5,9,153,364,91,7,62,1,62,110,19,6,65,89,174,465,606,92,4,14,7,4,51,94,100,113,6,138,30,884,10,567,67,111,224,268,980,58,985,6,25,155,56,10,188
 Manufacturing Accommodation	5247
 Manufacturing Construction Wholesale	14832
 Manufacturing Cyber Security	3760,9683

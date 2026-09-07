@@ -184,6 +184,7 @@ Forum des Femmes Parlementaires de Centrafrique	15686
 Funcion. Grupos Parlamentarios	4209
 Funcionamiento Grupos Parlamentarios	4209
 G548 Construction of New Parliament Building	12962
+Ghana Parliamentary Monitoring Network IDEG Institute	19937
 Ghana's Parliament	9191
 Ghana’s Parliament	258,100
 Gobierno Director General Elemento Seguridad Parlamentaria	4209
@@ -279,7 +280,7 @@ Management Response Parliament	13420
 Mandate The Parliament of Zimbabwe	13420
 Meeting MP Member of Parliament MPSS Minimum	11218
 Member Parliamentary Goodwill	16331
-Member of Parliament	3229,1354,174,3456,155,177,1768,2328,4,603,46,93,33,52,19,2840,2105,23,82,22,962,77,28,1
+Member of Parliament	3229,1354,174,3456,155,177,1768,2328,4,603,46,93,33,52,19,2840,2105,23,82,22,962,77,28,1,304,1
 Member of Parliament Fadiel Adams. Take	10263
 Member of Parliament MPox Monkey Pox MPCU	12970
 Member of Parliament Minister of Trade	11250
@@ -296,6 +297,7 @@ Member of Parliament for Kamfinsa	13387
 Member of Parliament for Kavuu Constituency	19602
 Member of Parliament for Kibamba	8884
 Member of Parliament for Kilifi North	10313
+Member of Parliament for Korle Klottey	19965
 Member of Parliament for Maswa West Constituency	19602
 Member of Parliament for Maun West	7671
 Member of Parliament for Molepolole South	12573
@@ -345,9 +347,11 @@ Non-Delivery of Procured Motor Vehicles Finding Parliament	13420
 Notícias Parlamento	1265,3,468
 O Parlamento	5467
 OFFICERS AND SITTINGS OF PARLIAMENT S.O	18436
+OPEN PARLIAMENT	19937
 Office of Parliamentary Counsel	12706
 Open Data Parlementaire Accueil Open Data	9480
-Open Parliament	12987
+Open Parliament	12987,6950
+Open Parliament Commitments	19937
 Open Parliament. Malaŵi	12987
 Ordenes Nacionales Portavoz Grupo Parlamentario Secretario	4209
 Outside Parliament	7264
@@ -474,7 +478,7 @@ Parlez-nous de VaulFi	5159
 Parlia-	15473
 Parliame	5533
 Parliamemnt. Ditective Takhona Mkhatshwa	13235
-Parliament	11,11,5,209,79,262,10,57,125,20,164,5,12,2,24,29,64,61,41,19,11,51,11,74,178,58,44,18,49,42,64,1,5,22,33,57,71,77,41,190,60,49,12,84,59,5,50,10,43,57,131,79,69,20,16,21,104,6,74,32,2,59,11,144,63,16,32,99,88,14,12,5,13,1,11,3,8,11,7,37,114,24,38,14,12,1,47,85,147,15,107,6,24,25,50,9,11,100,48,46,178,3,40,2,38,34,102,84,10,37,45,2,28,6,77,3,1,54,29,11,37,164,9,10,21,26,37,74,12,9,2,224,49,82,19,16,41,48,1,41,35,166,33,29,17,88,15,13,51,96,168,30,70,8,32,8,39,97,8,1,12,81,45,17,27,1,15,1,1,64,21,13,19,12,46,52,23,5,2,1,80,66,4,4,41,62,8,88,3,28,35,1,30,13,16,51,50,6,73,7,19,41,1,1,119,42,13,10,7,14,13,15,98,3,5,14,25,5,2,75,12,1,13,5,9,98,24,34,40,38,11,57,40,94,115,63,26,52,2,3,101,2,23,42,14,24,147,20,50,31,21,38,49,67,81,4,3,15,140,78,84,47,25,39,30,16,3,2,40,1,1,1,2,1,7,9,1,2,23,6,6,1,10,3,6,7,1,6,2,2,5,1,5,4,14,40,121,72,15,100,33,161,18,27,26,33,22,15,68,41,80,9,10,7,26,5,62,16,9,8,10,19,16,81,6,14,27,1,4,7,2,32,2,7,1,5,1,4,3,1,3,7,4,5,8,1,7,3,30,3,5,5,1,9,13,213,4,1,2,1,1,2,1,6,4,10,9,8,19,1,16,3,1,1,5,7,10,25,6,10,20,33,30,2,5,4,59,33,61,7,1,16,5,1,2,22,4,20,22,12,21,42,8,2,19,2,8,43,13,34,68,26,325,46,110,45,17,129,53,5,7,56,6,9,28,25,19,29,1,6,63,10,19,49,11,88,2,30,6,9,35,12,29,20,20,98,157,50,2,61,85,16,19,14,47,51,53,229,38,5,327,75,180,63,40,91,76,2,75,65,28,21,24,41,71,8,148,177,125,19,14,141,169,352,173,1,1,1,1,2,5,1,4,1,4,2,1,1,3,1,2,1,1,1,7,2,4,7,12,19,3,5,7,3,4,14,1,21,9,66,3,86,82,338,73,247,28,3,6,1,6,1,59,4,10,3,24,2,1,1,1,3,7,1,19,76,31,1,9,20,17,42,11,6
+Parliament	11,11,5,209,79,262,10,57,125,20,164,5,12,2,24,29,64,61,41,19,11,51,11,74,178,58,44,18,49,42,64,1,5,22,33,57,71,77,41,190,60,49,12,84,59,5,50,10,43,57,131,79,69,20,16,21,104,6,74,32,2,59,11,144,63,16,32,99,88,14,12,5,13,1,11,3,8,11,7,37,114,24,38,14,12,1,47,85,147,15,107,6,24,25,50,9,11,100,48,46,178,3,40,2,38,34,102,84,10,37,45,2,28,6,77,3,1,54,29,11,37,164,9,10,21,26,37,74,12,9,2,224,49,82,19,16,41,48,1,41,35,166,33,29,17,88,15,13,51,96,168,30,70,8,32,8,39,97,8,1,12,81,45,17,27,1,15,1,1,64,21,13,19,12,46,52,23,5,2,1,80,66,4,4,41,62,8,88,3,28,35,1,30,13,16,51,50,6,73,7,19,41,1,1,119,42,13,10,7,14,13,15,98,3,5,14,25,5,2,75,12,1,13,5,9,98,24,34,40,38,11,57,40,94,115,63,26,52,2,3,101,2,23,42,14,24,147,20,50,31,21,38,49,67,81,4,3,15,140,78,84,47,25,39,30,16,3,2,40,1,1,1,2,1,7,9,1,2,23,6,6,1,10,3,6,7,1,6,2,2,5,1,5,4,14,40,121,72,15,100,33,161,18,27,26,33,22,15,68,41,80,9,10,7,26,5,62,16,9,8,10,19,16,81,6,14,27,1,4,7,2,32,2,7,1,5,1,4,3,1,3,7,4,5,8,1,7,3,30,3,5,5,1,9,13,213,4,1,2,1,1,2,1,6,4,10,9,8,19,1,16,3,1,1,5,7,10,25,6,10,20,33,30,2,5,4,59,33,61,7,1,16,5,1,2,22,4,20,22,12,21,42,8,2,19,2,8,43,13,34,68,26,325,46,110,45,17,129,53,5,7,56,6,9,28,25,19,29,1,6,63,10,19,49,11,88,2,30,6,9,35,12,29,20,20,98,157,50,2,61,85,16,19,14,47,51,53,229,38,5,327,75,180,63,40,91,76,2,75,65,28,21,24,41,71,8,148,177,125,19,14,141,169,352,173,1,1,1,1,2,5,1,4,1,4,2,1,1,3,1,2,1,1,1,7,2,4,7,12,19,3,5,7,3,4,14,1,21,9,66,3,86,82,338,73,247,28,3,6,1,6,1,59,4,10,3,24,2,1,1,1,3,7,1,19,76,31,1,9,20,17,42,11,6,60,17,20,10
 Parliament Affairs Ministry	14853
 Parliament Approves Draft Law	5674
 Parliament Assistant Clerk	12972
@@ -535,7 +539,7 @@ Parliament of Botswana. PART	12531,4,11,3,13,67
 Parliament of Eswatini	12955
 Parliament of Eswatini. ARRANGEMENT OF SECTION PART	12916
 Parliament of Eswatini. ARRANGEMENT OF SECTIONS PART	12929
-Parliament of Ghana	9191,12,1619,214
+Parliament of Ghana	9191,12,1619,214,8899
 Parliament of Kenya	5142,2690,2108,306,4329
 Parliament of Lesotho	12643,1,1,3,3,1,1,8,14
 Parliament of Malawi	483,1110,11307,9,45,25,149
@@ -656,6 +660,7 @@ Parliamentary Liaison Office	10313
 Parliamentary Liaison Officer	11289
 Parliamentary Monitoring Group	6832,4057
 Parliamentary Network Africa	9191
+Parliamentary Network- Africa PSRS Public Sector	19937
 Parliamentary Online System	19533
 Parliamentary Oversight	0
 Parliamentary Oversight Committee. No. Observation	14546
@@ -786,7 +791,7 @@ Somali Parliament	4810,10086
 South Africa's Parliament	11303,593
 South Sudan Parliamentary Network	7749
 Speaker and Deputy Speaker of Parliament	18436
-Speaker of Parliament	5935,11,3175,2974,3216,3123,2
+Speaker of Parliament	5935,11,3175,2974,3216,3123,2,1545
 Speaker of Parliament Hon. Segepoh Solomon Thomas	11651
 Speaker of Parliament Mr. Jacob Oboth-Oboth	12319
 Speaker of Parliament Sameer Suleman	13134

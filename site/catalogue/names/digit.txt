@@ -300,6 +300,7 @@ AfCFTA Senior Digital Trade Expert	2783
 AfCFTA's Digital Trade	14674
 AfDB-MCDF African Digital Connectivity	8726
 Affordability and Digital Inclusion	19633
+Affordability and Digital Skills	19966
 Africa AWS Public Sector Blog Digital	10794
 Africa Accelerator for Digital Public Infrastructure	17623
 Africa CDC Chief Digital Advisor Nsengimana	5378
@@ -348,6 +349,7 @@ Africa-Europe Digital Innovation Bridge Procurement	9309
 Africa-wide Digital Earth Africa	1059
 Africa. Brookings Institution. National Digital Initiative	12278
 Africa. Digital	1060,1164,14652
+Africa. Front Digit Health	19974
 Africa50 AnnualReport23 Final EN RevA DIGITAL.pdf	810,1,1,235,1
 African Centre for Digital Justice	7750
 African Centre for Statistics Digital Repository	19082
@@ -404,6 +406,7 @@ African Union’s Digital Transformation Strategy for Africa	5242,5577,4672,2379
 Africa’s Digital Connectivity The African	2677
 Africa’s Digital Economy	11140
 Africa’s Digital Economy Is Expanding Faster	6212
+Africa’s Digital Financial Service	19940
 Africa’s Digital ID Landscape	10819
 Africa’s Digital ID Landscape Generally	10819
 Africa’s Digital Public Infrastructure	5789
@@ -600,6 +603,7 @@ Avaliação Nacional da Economia Digital da Guiné-Bissau	11555
 Avaliação da Economia Digital	18779
 Avaliação da Governação Digital Local	11451
 Avec CGI Digital	10941
+Avoiding Digital Gridlock	19964
 Ayushman Bharat Digital Mission	7981
 AÇÃO PARA A DIGITALIZAÇÃO DOS PRINCIPAIS	11555
 B Digital Plan	12035
@@ -647,6 +651,7 @@ Bank Mozambique Digital Acceleration Project	1228
 Bank Senegal Digital Economy Acceleration Project	18359
 Bank of Botswana Banking Services Digitilisation	12598
 Bank of Botswana Digitalisation and Innovation Hub	12603
+Bank of Ghana’s Central Bank Digital Currency	19940
 Bankable Africa and Africa Digital News	6138
 Bank’s Digital Lilangeni Pilot	11134
 Bank’s Vice President for Digital Transformation	10451
@@ -658,7 +663,7 @@ Become Southern Africa's Digital Hub	6771
 Bede' Digital Wallet	2737
 Bedrock of Digital Trust. Digital	6936
 Beera Ku Digital	3990
-Belief Media Freedom Digital Freedom Protection	10759,78,1315,188
+Belief Media Freedom Digital Freedom Protection	10759,78,1315,188,7598
 Benchmarking Digital Government Strategies	17448
 Benchmarking Somalia's Digital Inclusion Somalia	14964
 Benefits Digital	4563
@@ -844,6 +849,7 @@ Building Digital ID for Inclusion and Service Delivery	17070
 Building Digital Talent	14752
 Building Foundations Towards Digital Governance	8121,302
 Building Gender-Responsive Digital Public Infrastructure	4794
+Building Ghana's Digital Workforce	19958
 Building Inclusive Digital Societies As AI	14139
 Building Inclusive and Resilient Digital Futures	7101
 Building Liberia’s Digital Future	17090
@@ -941,6 +947,7 @@ CARE ALGERIA DIGITAL BRIEF CARE	8637
 CARTE SANITAIRE SANTÉ DIGITALE DE L'OBSERVATOIRE	18306
 CBDC Central Bank Digital Currency	8590
 CBDC Central Bank Digital Currency CBHI	14997
+CBDC Central Bank Digital Currency CFTC	19940
 CBDC. The Digital Lilangeni	11130
 CBE’s Digital Lilangeni Design Paper	11048
 CBL Building Digital Payment Infrastructure	12092
@@ -1118,7 +1125,7 @@ Central African Republic Fully Digitizes Ministry	5268
 Central Bank Digital Currencies	3965,12,7071,82,731,2958,4845,32
 Central Bank Digital Currencies EZULWINI	3977
 Central Bank Digital Currencies. Sending	982
-Central Bank Digital Currency	3705,2995,1063,372,1224,350,1422,3,687,522,2476,178,26,107,959,1447,2180
+Central Bank Digital Currency	3705,2995,1063,372,1224,350,1422,3,687,522,2476,178,26,107,959,1447,2180,224
 Central Bank Digital Currency CFT	19664
 Central Bank Digital Currency Central Bank	11130
 Central Bank Digital Currency Research	11131
@@ -1273,11 +1280,12 @@ Cloud and Digital Transformation	3300
 Clube Mundo Digital	9732
 Cluster de Economia Digital	17074
 Coalition for Digital Africa	4196,3050,9299
+Code for Digital Identity Data Use	19964
 Cognitive Divide Digital	14666
 Collaborative Regulation and Building Digital Ecosystems	6052
 Collapse of Digital and Social Boundaries	17797
 Colombia Yes Plan Vive Digital	11529
-Columbia University DSP Digital Society Project	10759,78,1052,451
+Columbia University DSP Digital Society Project	10759,78,1052,451,7598
 Combat Mobile and Digital Fraud	10580
 Combating Digital Illiteracy	19900
 Comercio Digital	10361
@@ -1358,7 +1366,7 @@ Conceptual Framework Inclusive Digital Transformation	12241
 Conceptual Future Model for Digital Gabon	15447
 Conceptualising and Measuring the Digital Economy	226,14706
 Concerns and Needs Digital	17099
-Conclusion Digital	10725
+Conclusion Digital	10725,9239
 Conclusion Digitalisation	12278
 Conclusion Digitalising	7910
 Conclusion The Digital VAT Model	8670
@@ -1875,6 +1883,7 @@ DOI Digital Object Identifier DORA San	5246
 DORIS Digital Online Reporting and Information System	12729
 DORIS Digital Open Rule Integrated Cause	18668
 DOSSIER DU TRIMESTRE DIGITALISATION DU SSN	18077
+DPA Digital Digest	19957
 DPG Digital Public Good DPS Directorate	18478
 DPGA Initiatives Digital Public Infrastructure	13080,15
 DPGs Create Value for Digital Public	4430
@@ -1953,6 +1962,7 @@ Datareportal Digital	13461
 De La Digitalisation	15936
 De-Risking the Digital Foundations of AI	11310
 Dearth of Digital Skills for Business Digital	16876
+Decades of Digitization	19981
 Decentralisation and Digitalisation	9765
 Decentralisation and Digitalisation Présenté	13677
 Decentralisation and Digitalisation URL	13677
@@ -2122,13 +2132,13 @@ Digitais APD Ajuda Pública	18779
 Digitais Artigo	6970
 Digitais Assegurar	11569
 Digitais Públicas	6694,8
-Digital	82,17,47,9,22,2,32,15,10,8,78,55,8,1,1,3,3,2,1,5,1,16,89,2,62,2,5,4,2,8,51,46,13,1,4,18,5,25,8,9,17,5,32,36,35,2,5,6,3,14,1,12,11,1,6,3,8,1,15,24,59,19,8,38,4,23,1,38,5,9,15,15,5,9,4,3,19,1,72,7,60,2,33,10,3,36,59,41,1,1,1,1,1,1,2,7,1,4,77,48,25,33,52,23,54,1,6,45,3,99,3,1,109,26,25,29,5,8,20,28,2,20,2,35,50,19,2,7,7,2,1,1,4,1,1,1,1,1,1,5,8,31,68,10,35,7,9,60,35,2,32,4,8,12,26,39,1,1,1,1,1,1,1,45,7,5,29,26,3,19,9,4,63,4,44,30,6,3,12,2,1,23,68,7,17,22,33,13,9,28,16,36,12,39,56,2,8,53,31,13,8,73,49,30,13,34,1,2,1,2,1,1,1,1,1,1,8,34,2,78,4,1,67,4,8,1,21,23,7,112,67,2,9,13,39,10,1,1,82,2,19,9,4,6,9,45,11,9,8,17,3,12,10,22,14,9,28,1,10,4,2,26,13,18,3,12,4,4,50,8,24,10,18,1,11,6,32,3,5,1,19,97,16,9,23,1,1,1,9,1,1,3,12,5,9,1,17,2,1,71,5,8,4,7,16,3,8,18,45,10,30,15,48,18,14,9,5,12,8,3,73,1,24,99,23,24,30,2,1,4,9,19,1,14,18,31,47,31,40,3,1,17,19,28,5,2,20,14,10,7,20,82,29,11,1,23,1,1,2,5,29,13,10,22,31,13,24,9,7,7,3,1,20,4,6,75,55,25,17,29,21,1,16,96,8,2,2,6,2,1,1,1,53,26,49,47,13,4,13,16,3,7,9,10,3,49,17,3,5,6,40,15,13,6,25,15,71,9,17,20,28,5,13,17,10,8,4,71,17,43,20,2,10,147,18,18,17,2,1,15,3,6,31,8,10,5,26,43,35,3,20,42,36,71,29,2,31,4,28,44,6,9,8,16,31,3,7,1,48,13,3,2,38,18,2,2,35,13,2,15,28,9,10,18,93,31,1,50,1,2,5,2,4,51,6,2,2,13,12,13,32,5,8,1,1,4,15,40,8,1,5,50,12,9,1,28,18,23,16,37,37,18,15,6,5,10,3,38,6,2,10,53,9,7,16,1,20,7,42,7,9,2,9,9,21,23,3,6,29,11,1,22,1,2,14,2,11,1,11,41,10,16,25,1,34,29,10,5,21,13,35,6,13,2,1,30,15,13,2,105,1,15,45,1,30,38,7,51,9,35,6,9,26,30,15,7,3,41,11,1,10,15,34,2,10,9,9,19,7,20,1,1,3,8,4,3,6,5,11,20,18,21,22,1,1,6,7,20,9,22,4,11,7,83,1,1,3,2,14,1,15,3,1,10,11,1,6,6,8,32,18,1,18,20,1,4,46,19,86,7,1,11,3,3,1,9,45,4,7,17,17,10,12,42,12,4,4,35,10,121,18,3,6,4,2,10,29,1,9,4,16,2,6,3,3,13,5,5,2,9,8,2,1,3,2,1,1,2,41,7,3,7,20,8,34,20,35,15,5,13,13,9,4,1,4,5,3,2,9,12,1,1,2,12,5,1,17,13,1,4,23,3,1,4,2,3,15,11,14,12,14,6,3,9,4,45,5,1,25,31,68,42,5,9,35,3,28,7,48,13,12,35,13,44,9,5,1,7,23,15,17,15,11,13,31,7,15,19,24,79,6,17,14,4,22,32,2,17,1,12,1,1,11,61,7,33,3,45,18,8,27,43,13,10,26,10,103,10,66,35,27,13,5,2,14,2,41,7,5,19,12,12,28,17,5,4,49,14,8,23,10,7,29,24,1,52,35,7,9,2,11,9,4,15,5,26,13,93,7,3,77,9,36,8,7,10,31,18,8,2,2,9,1,10,13,33,1,11,20,29,18,15,16,4,3,29,1,32,22,1,2,20,78,2,6,2,8,10,6,10,38,18,17,26,55,24,69,36,27,2,4,4,7,2,21,4,8,27,18,33,25,29,21,5,5,24,59,17,112,18,1,16,3,21,51,35,98,32,23,20,97,94,57,73,91,74,70,13,1,1,13,12,17,40,4,8,2,29,1,20,3,3,1,20,5,5,2,42,1,52,8,2,8,5,4,2,2,13,2,22,1,10,15,30,34,17,5,10,22,56,26,39,171,18,28,2,1,27,1,11,48,8,5,20,14,14,2,4,3,17,63,2,8,14,155,84,110,60,37,19,10,71,16,8,20,2,2,25,2,5,24,30,52,2,64,11,9,21,47,2,5,106,21,6,21,2,22,30,22,10,28,176,16,22,6,19,28,84,26,99,11,2,37,14,15,15,26,1,3,15,3,12,2,44,35,15,3,27,6,14,26,23,1,7,11,11,3,1,14,13,1,1
+Digital	82,17,47,9,22,2,32,15,10,8,78,55,8,1,1,3,3,2,1,5,1,16,89,2,62,2,5,4,2,8,51,46,13,1,4,18,5,25,8,9,17,5,32,36,35,2,5,6,3,14,1,12,11,1,6,3,8,1,15,24,59,19,8,38,4,23,1,38,5,9,15,15,5,9,4,3,19,1,72,7,60,2,33,10,3,36,59,41,1,1,1,1,1,1,2,7,1,4,77,48,25,33,52,23,54,1,6,45,3,99,3,1,109,26,25,29,5,8,20,28,2,20,2,35,50,19,2,7,7,2,1,1,4,1,1,1,1,1,1,5,8,31,68,10,35,7,9,60,35,2,32,4,8,12,26,39,1,1,1,1,1,1,1,45,7,5,29,26,3,19,9,4,63,4,44,30,6,3,12,2,1,23,68,7,17,22,33,13,9,28,16,36,12,39,56,2,8,53,31,13,8,73,49,30,13,34,1,2,1,2,1,1,1,1,1,1,8,34,2,78,4,1,67,4,8,1,21,23,7,112,67,2,9,13,39,10,1,1,82,2,19,9,4,6,9,45,11,9,8,17,3,12,10,22,14,9,28,1,10,4,2,26,13,18,3,12,4,4,50,8,24,10,18,1,11,6,32,3,5,1,19,97,16,9,23,1,1,1,9,1,1,3,12,5,9,1,17,2,1,71,5,8,4,7,16,3,8,18,45,10,30,15,48,18,14,9,5,12,8,3,73,1,24,99,23,24,30,2,1,4,9,19,1,14,18,31,47,31,40,3,1,17,19,28,5,2,20,14,10,7,20,82,29,11,1,23,1,1,2,5,29,13,10,22,31,13,24,9,7,7,3,1,20,4,6,75,55,25,17,29,21,1,16,96,8,2,2,6,2,1,1,1,53,26,49,47,13,4,13,16,3,7,9,10,3,49,17,3,5,6,40,15,13,6,25,15,71,9,17,20,28,5,13,17,10,8,4,71,17,43,20,2,10,147,18,18,17,2,1,15,3,6,31,8,10,5,26,43,35,3,20,42,36,71,29,2,31,4,28,44,6,9,8,16,31,3,7,1,48,13,3,2,38,18,2,2,35,13,2,15,28,9,10,18,93,31,1,50,1,2,5,2,4,51,6,2,2,13,12,13,32,5,8,1,1,4,15,40,8,1,5,50,12,9,1,28,18,23,16,37,37,18,15,6,5,10,3,38,6,2,10,53,9,7,16,1,20,7,42,7,9,2,9,9,21,23,3,6,29,11,1,22,1,2,14,2,11,1,11,41,10,16,25,1,34,29,10,5,21,13,35,6,13,2,1,30,15,13,2,105,1,15,45,1,30,38,7,51,9,35,6,9,26,30,15,7,3,41,11,1,10,15,34,2,10,9,9,19,7,20,1,1,3,8,4,3,6,5,11,20,18,21,22,1,1,6,7,20,9,22,4,11,7,83,1,1,3,2,14,1,15,3,1,10,11,1,6,6,8,32,18,1,18,20,1,4,46,19,86,7,1,11,3,3,1,9,45,4,7,17,17,10,12,42,12,4,4,35,10,121,18,3,6,4,2,10,29,1,9,4,16,2,6,3,3,13,5,5,2,9,8,2,1,3,2,1,1,2,41,7,3,7,20,8,34,20,35,15,5,13,13,9,4,1,4,5,3,2,9,12,1,1,2,12,5,1,17,13,1,4,23,3,1,4,2,3,15,11,14,12,14,6,3,9,4,45,5,1,25,31,68,42,5,9,35,3,28,7,48,13,12,35,13,44,9,5,1,7,23,15,17,15,11,13,31,7,15,19,24,79,6,17,14,4,22,32,2,17,1,12,1,1,11,61,7,33,3,45,18,8,27,43,13,10,26,10,103,10,66,35,27,13,5,2,14,2,41,7,5,19,12,12,28,17,5,4,49,14,8,23,10,7,29,24,1,52,35,7,9,2,11,9,4,15,5,26,13,93,7,3,77,9,36,8,7,10,31,18,8,2,2,9,1,10,13,33,1,11,20,29,18,15,16,4,3,29,1,32,22,1,2,20,78,2,6,2,8,10,6,10,38,18,17,26,55,24,69,36,27,2,4,4,7,2,21,4,8,27,18,33,25,29,21,5,5,24,59,17,112,18,1,16,3,21,51,35,98,32,23,20,97,94,57,73,91,74,70,13,1,1,13,12,17,40,4,8,2,29,1,20,3,3,1,20,5,5,2,42,1,52,8,2,8,5,4,2,2,13,2,22,1,10,15,30,34,17,5,10,22,56,26,39,171,18,28,2,1,27,1,11,48,8,5,20,14,14,2,4,3,17,63,2,8,14,155,84,110,60,37,19,10,71,16,8,20,2,2,25,2,5,24,30,52,2,64,11,9,21,47,2,5,106,21,6,21,2,22,30,22,10,28,176,16,22,6,19,28,84,26,99,11,2,37,14,15,15,26,1,3,15,3,12,2,44,35,15,3,27,6,14,26,23,1,7,11,11,3,1,14,13,1,1,24,9,4,4,1
 Digital Academy	3982,144,4434,4153,2840,3740
 Digital Acceleration	1176,10199,839,213,4012
-Digital Acceleration Plan	14674
+Digital Acceleration Plan	14674,5292
 Digital Acceleration Program World Bank Projects	3604
 Digital Acceleration Programme	8824
-Digital Acceleration Project	1228,413,1602,447,90,873,765,178,733,5642,243,39,2421,292,53,494,108,3624,30
+Digital Acceleration Project	1228,413,1602,447,90,873,765,178,733,5642,243,39,2421,292,53,494,108,3624,30,682
 Digital Acceleration Project Project ID Financing	15621
 Digital Acceleration Project The Government of Malawi	12253
 Digital Acceleration Project World Bank Group	784
@@ -2162,7 +2172,7 @@ Digital Action Matrix	7945
 Digital Activation Team	7751
 Digital Adaptation Kits	14622
 Digital Address	1263,2123,12988,463,29,7,15,26,40,144,140,54
-Digital Address Code	16915
+Digital Address Code	16915,3021
 Digital Address Data Aggregators	16915
 Digital Address Data Distributors	16915
 Digital Address Data Roles	16915
@@ -2182,7 +2192,7 @@ Digital Addressing Policy	16915
 Digital Addressing Policy for The Gambia	16915
 Digital Addressing Policy. Digital	16915
 Digital Addressing Portal	16915
-Digital Addressing System	12276,4639,11
+Digital Addressing System	12276,4639,11,3018
 Digital Addressing System Central Bank	16926
 Digital Addressing System and Address Verification System	8825
 Digital Addressing System for The Gambia	16915
@@ -2212,10 +2222,11 @@ Digital Affairs and Special Advisor	3436
 Digital Africa	226,712,1491,607,687,56,1380,996,3607,513,612,1540,1724,523,2125,2446
 Digital Africa Cluster	17870
 Digital Africa Corridor	3527
-Digital Africa Index	1923,4670,8081
+Digital Africa Index	1923,4670,8081,5292
 Digital Africa Index and Digital Policy	14674
+Digital Africa Index and Methodology	19966
 Digital Africa Nations and Society Index	14674
-Digital Africa Policy and Regulatory Index	14674
+Digital Africa Policy and Regulatory Index	14674,5292
 Digital Africa Post the Pandemic	3672,7523
 Digital Africa Post the Pandemic Policy Paper	11195
 Digital Africa Report	19245
@@ -2316,7 +2327,7 @@ Digital Asset Operators	4602
 Digital Asset Platform Operators	12882
 Digital Asset Tax	15328
 Digital Asset Taxes	14932
-Digital Assets	3870,740,8272
+Digital Assets	3870,740,8272,7058
 Digital Assets Regulation	8697
 Digital Assets Tax	14932
 Digital Assets Tax Accordingly	14932
@@ -2348,7 +2359,7 @@ Digital Broadcasting	16872,1572,10
 Digital Broadcasting Policy	16886
 Digital Burkina Faso	9993
 Digital Burundi	13314
-Digital Business	415,6417,1683,2502,1657,2000,2268,928
+Digital Business	415,6417,1683,2502,1657,2000,2268,928,2096
 Digital Business Africa	1648,2010,2208,39,370,107,38,3959,2,310,2792,709,1326,427,202
 Digital Business Africa Internet	3658
 Digital Business Africa Se	3658,2617,145
@@ -2496,6 +2507,7 @@ Digital Connectivity for Inclusive Trade URL	16631
 Digital Connectivity. Nigeria	11469
 Digital Constitutionalism	11028
 Digital Consultant	18635
+Digital Consumer	19966
 Digital Consumer Protection Framework	12444
 Digital Consumer Protection Laws	12214
 Digital Content	3161,8080,616,2134,5698
@@ -2517,6 +2529,7 @@ Digital Convergence Initiative DEEP Data	11133
 Digital Convergence Initiative Data Protection Impact	11156
 Digital Cooperation	8276
 Digital Cooperation Organization	2435,1402,3332,7165,598,2137
+Digital Cooperation Organization Generative AI Initiative	19957
 Digital Coordination Board	12008
 Digital Coordination Committee	13095
 Digital Coordination Specialist	15019
@@ -2676,7 +2689,7 @@ Digital Economics	16266
 Digital Economies	226
 Digital Economies and Development	226
 Digital Economies and Societies	6948
-Digital Economy	226,169,184,35,344,11,73,93,26,82,21,374,248,398,1,21,5,40,8,35,78,38,19,40,240,16,22,24,74,13,7,124,44,64,123,57,32,7,2,38,43,49,27,24,23,41,57,50,1,72,19,80,45,194,14,145,5,7,101,95,72,61,4,38,111,25,114,116,15,4,2,131,3,44,249,42,7,366,12,9,73,4,15,85,82,55,143,2,84,3,108,230,1,88,123,45,40,8,15,143,87,34,102,4,1,2,58,2,99,116,49,9,1,162,45,1,2,27,93,47,23,80,133,71,40,122,59,191,3,79,177,26,615,58,195,25,88,64,229,96,33,66,88,89,66,322,46,200,7,305,34,61,19,14,11,207,7,175,68,179,31,310,339,2,30,1,1,1,127,425,111,324,187,3,97,43,233,35,87,242,49,101,80,21,1,37,3,68,8,50,110,54,1,2,55,30,8,726,211,38,12,16,103,24,172,465,164,55,207,81,90,2,41,13,85,2,8,2,29,38,93,315,17,584,247
+Digital Economy	226,169,184,35,344,11,73,93,26,82,21,374,248,398,1,21,5,40,8,35,78,38,19,40,240,16,22,24,74,13,7,124,44,64,123,57,32,7,2,38,43,49,27,24,23,41,57,50,1,72,19,80,45,194,14,145,5,7,101,95,72,61,4,38,111,25,114,116,15,4,2,131,3,44,249,42,7,366,12,9,73,4,15,85,82,55,143,2,84,3,108,230,1,88,123,45,40,8,15,143,87,34,102,4,1,2,58,2,99,116,49,9,1,162,45,1,2,27,93,47,23,80,133,71,40,122,59,191,3,79,177,26,615,58,195,25,88,64,229,96,33,66,88,89,66,322,46,200,7,305,34,61,19,14,11,207,7,175,68,179,31,310,339,2,30,1,1,1,127,425,111,324,187,3,97,43,233,35,87,242,49,101,80,21,1,37,3,68,8,50,110,54,1,2,55,30,8,726,211,38,12,16,103,24,172,465,164,55,207,81,90,2,41,13,85,2,8,2,29,38,93,315,17,584,247,187
 Digital Economy Abbreviation	13084,675,2084,1,2,819,380,880
 Digital Economy Acceleration Project	5056,13303
 Digital Economy Accelerator Programme	7172
@@ -2736,7 +2749,7 @@ Digital Economy Foundations	4522,770
 Digital Economy Foundations Project	2383
 Digital Economy Foundations Support Project	5566,405
 Digital Economy Foundations and Pillars DIGITAL ECONOMY	16942
-Digital Economy Framework	10856
+Digital Economy Framework	10856,9110
 Digital Economy Fund	1169,1,8618
 Digital Economy Growth	17745
 Digital Economy H.E. Hon. William Kabogo	7548
@@ -2778,9 +2791,10 @@ Digital Economy Package for Kenya	11155
 Digital Economy Paper-based	18446
 Digital Economy Partnership Agreement	1243
 Digital Economy Please	14561
-Digital Economy Policy	226,563,2934,7431,713,3762,1297
+Digital Economy Policy	226,563,2934,7431,713,3762,1297,3031
 Digital Economy Policy DIODE Paper	226
 Digital Economy Policy Strategy Brief	226
+Digital Economy Policy and Strategy	19957
 Digital Economy Principal Secretary Eng. John	8214
 Digital Economy Programme	13382
 Digital Economy Project Promoter	15901
@@ -2839,7 +2853,7 @@ Digital Economy and ICT	1794,1,1412,1,3880,1
 Digital Economy and Inclusive Development	226
 Digital Economy and Inclusiveness Score for Malawi	12941
 Digital Economy and Innovation	3613,340,376,647,1227,101,718,166,40,2768,3846,19,26,2829,14,9,905,2203
-Digital Economy and Innovation Development Fund	8364
+Digital Economy and Innovation Development Fund	8364,11602
 Digital Economy and Innovation Mariam Hamadou Ali	3970
 Digital Economy and Innovation Minister	4976
 Digital Economy and Innovation Mourana Soumah	16741
@@ -3048,7 +3062,7 @@ Digital Financial Literacy Component	16144
 Digital Financial Service	2889,1385,11345,2837
 Digital Financial Service Performance	14151
 Digital Financial Service Providers and Innovative ICT	18485
-Digital Financial Services	779,161,126,198,2862,1302,2335,4603,293,42,611,2,30,2,44,632,857,18,126,19,88,317,1429,66,184,109,635,633,60,53,154,161,640
+Digital Financial Services	779,161,126,198,2862,1302,2335,4603,293,42,611,2,30,2,44,632,857,18,126,19,88,317,1429,66,184,109,635,633,60,53,154,161,640,369
 Digital Financial Services Adoption Mobile	7763
 Digital Financial Services Advancing	16942
 Digital Financial Services Africa-wide	13312
@@ -3074,7 +3088,7 @@ Digital Financial Services Mobile	15130
 Digital Financial Services PWD	12460
 Digital Financial Services Pillar	18770
 Digital Financial Services Pillar Specific Objective	18770
-Digital Financial Services Policy	4126
+Digital Financial Services Policy	4126,15831
 Digital Financial Services Policy and Regulatory Framework	11138
 Digital Financial Services Responsible Ministry	16872
 Digital Financial Services SICOI	18770
@@ -3129,12 +3143,12 @@ Digital Fraud Awareness	13095
 Digital Fraud Awareness Campaign	13095
 Digital Fraud Remains	8482
 Digital Fraud Trends	6261,2450
-Digital Freedom	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Digital Freedom	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Digital Freedom Enabling Networks	1566
 Digital Freedom Public Perception of Inclusion	12353
 Digital Freedom of Expression	1157
 Digital Frontiers	217,9889
-Digital Frontiers Institute	128,144,215,3090
+Digital Frontiers Institute	128,144,215,3090,16401
 Digital Frontiers Institute. Over	15128
 Digital Frontline	11840
 Digital Functional Identification	10819
@@ -3204,7 +3218,7 @@ Digital Governance and Economy Project World Bank	772
 Digital Governance and National AI Strategies	10375
 Digital Governance and Natural Resources	12987
 Digital Governmen	17394
-Digital Government	239,156,3199,835,920,351,5140,16,14,263,807,419,315,243,56,374,255,408,515,204,21,2,877,411,586,768,54,1006,2,475,2
+Digital Government	239,156,3199,835,920,351,5140,16,14,263,807,419,315,243,56,374,255,408,515,204,21,2,877,411,586,768,54,1006,2,475,2,1033
 Digital Government Academy	3604
 Digital Government Academy. Participants	7687
 Digital Government Act	12917,4477
@@ -3255,7 +3269,7 @@ Digital Government Readiness Assessment Toolkit	11394
 Digital Government Research	2096,3253
 Digital Government Review of Norway	17448
 Digital Government Service	12917
-Digital Government Services	761,3100,3676,4498,882,5771
+Digital Government Services	761,3100,3676,4498,882,5771,1278
 Digital Government Services Platforms	11965
 Digital Government Steeri	17394
 Digital Government Steering Committee	5994,8735,2551,114
@@ -3294,7 +3308,7 @@ Digital Green Foundation Data Processor INST-8837942E222	7167
 Digital Guarantee Programme	1818
 Digital Guardian	10780
 Digital Hea	1009
-Digital Health	396,613,25,131,290,1254,239,987,1005,516,1492,759,594,633,1035,91,805,1139,210,26,6,9,78,592,241,867,633,1529,2283,1043,123,1,201
+Digital Health	396,613,25,131,290,1254,239,987,1005,516,1492,759,594,633,1035,91,805,1139,210,26,6,9,78,592,241,867,633,1529,2283,1043,123,1,201,120
 Digital Health Act	2709,1444,1,1302,94,970,1781,633,921,176,4418
 Digital Health Act Copy	14449
 Digital Health Act No	7707
@@ -3407,7 +3421,7 @@ Digital Human Resource Management	10870
 Digital Humanitarian Assistance	13314,2160,19
 Digital Hygiene	11033
 Digital I.D. Infrastructure	12941
-Digital ID	772,189,282,111,22,186,377,14,215,86,37,275,92,4,221,96,39,144,115,114,171,32,148,217,217,25,582,158,67,24,213,5,283,6,87,267,179,124,147,169,15,9,3,915,107,8,500,531,1553,561,51,10,10,34,3,34,30,326,34,18,111,112,432,21,31,15,8,128,43,37,7,5,27,4,36,85,60,18,9,120,24,77,307,46,53,15,143,76,31,105,380,3,7,170,664,78,4,34,29,69,9,70,38,513,35,1400,1406,411,903
+Digital ID	772,189,282,111,22,186,377,14,215,86,37,275,92,4,221,96,39,144,115,114,171,32,148,217,217,25,582,158,67,24,213,5,283,6,87,267,179,124,147,169,15,9,3,915,107,8,500,531,1553,561,51,10,10,34,3,34,30,326,34,18,111,112,432,21,31,15,8,128,43,37,7,5,27,4,36,85,60,18,9,120,24,77,307,46,53,15,143,76,31,105,380,3,7,170,664,78,4,34,29,69,9,70,38,513,35,1400,1406,411,903,293
 Digital ID Access Estimates and Methodology	10714
 Digital ID App	12165
 Digital ID Architecture and Rights	4863
@@ -3489,7 +3503,7 @@ Digital Identification and Trust Services Mali	17870
 Digital Identification for Development	2253
 Digital Identifier	19642
 Digital Identities	15641
-Digital Identity	364,416,1,1,936,221,1452,203,147,869,197,1055,262,72,191,125,24,608,425,1031,1032,106,913,168,3,18,16,390,694,46,11,212,2,148,73,141,877,984,318,67,596,226,2219,19,567,321,194
+Digital Identity	364,416,1,1,936,221,1452,203,147,869,197,1055,262,72,191,125,24,608,425,1031,1032,106,913,168,3,18,16,390,694,46,11,212,2,148,73,141,877,984,318,67,596,226,2219,19,567,321,194,1005
 Digital Identity APPENDIX First Edition	10819
 Digital Identity AUTHORISATION REGULATED Brith Certificate	10819
 Digital Identity Alignment Alignment	10819
@@ -3583,6 +3597,7 @@ Digital Inclusion	129,66,199,255,393,85,339,352,345,171,343,2999,711,445,505,774
 Digital Inclusion Grants	1914
 Digital Inclusion Operational Framework	8812
 Digital Inclusion Policy	14964
+Digital Inclusion Policy Brief	19966
 Digital Inclusion Policy for Advancing Access	14964
 Digital Inclusion Programs	1914
 Digital Inclusion Roadmap	13521
@@ -3768,7 +3783,9 @@ Digital Labour Platforms	226
 Digital Labour Skills and Digital	4359
 Digital Labour and Development	226
 Digital Ladies	13312,2
+Digital Land Acquisition and Management Platform	19981
 Digital Land Administration Platform	5733
+Digital Land App	19981
 Digital Land Management and Identification System	12389
 Digital Land System	637,16468
 Digital Landscape Assesment Report	6273
@@ -3798,7 +3815,7 @@ Digital Learning for Schools Across SSA UNICEF	724
 Digital Learning. June	13991
 Digital Legal Identity	2995,7,15
 Digital Legislative Database ODS	17101
-Digital Lending	8663,3781
+Digital Lending	8663,3781,7496
 Digital Lending Platform Still Missing	9650
 Digital Lending Thematic Review NBR	15023
 Digital Lesotho	5052
@@ -3966,6 +3983,10 @@ Digital Memberships Services FAQ Impact Impact	12493
 Digital Mentorship Exchange Program	13080
 Digital Meta KHARTOUM	14194
 Digital Mhuri	4528,7984
+Digital Micro Credit	19940
+Digital Micro Loans	19940
+Digital Micro Pension	19940
+Digital Micro Pension Remote Account Opening	19940
 Digital Migration	12971,5473
 Digital Migration Policy	19641
 Digital Migration Project	13336
@@ -3998,7 +4019,7 @@ Digital National Education Management Information System	12061
 Digital National Identification System	14930
 Digital Nations Malawi	14674
 Digital Nations Score Index	6593
-Digital Nations and Society Index	14674
+Digital Nations and Society Index	14674,5292
 Digital Nations and Society Index. Figure	14674
 Digital Navigator System	6201
 Digital Nepal Framework Netherlands Yes Actieplan	11529
@@ -4118,8 +4139,8 @@ Digital Platforms and Digital Financial Services	17870
 Digital Platforms for MSME Growth	12241
 Digital Platforms. Borrower's Institutional Capacity	11965
 Digital Platforms.16	17018
-Digital Policy	3398,1951,2844,619,1241,35
-Digital Policy Alert	1259,543,2781,1472,3367,116,2646,1
+Digital Policy	3398,1951,2844,619,1241,35,9856
+Digital Policy Alert	1259,543,2781,1472,3367,116,2646,1,7772
 Digital Policy Engagement	10370
 Digital Policy Engagement Roundtable	7101
 Digital Policy Engagement Series	3710,2970,3690
@@ -4129,7 +4150,7 @@ Digital Policy Matrix	13875,147
 Digital Policy Roadmaps. Discussions	17620
 Digital Policy and Legal Landscape	12659
 Digital Policy and Regulation	13347
-Digital Policy and Regulatory Index	6593,188,80,7813
+Digital Policy and Regulatory Index	6593,188,80,7813,5292
 Digital Policy and Rwanda	14674
 Digital Population	12674
 Digital Population Identity	11994
@@ -4207,6 +4228,7 @@ Digital Public Infrastructure Now	3391
 Digital Public Infrastructure Reform	11236
 Digital Public Infrastructure Roadmap Bill	2205
 Digital Public Infrastructure Set	16814
+Digital Public Infrastructure Strategy	19966
 Digital Public Infrastructure Tanzania	2868
 Digital Public Infrastructure Through	4981
 Digital Public Infrastructure Without Redress	11007
@@ -4321,7 +4343,7 @@ Digital Revenue Collection	16163
 Digital Revenue Growth	12035
 Digital Revenue Instruments	15066
 Digital Revolution and Inclusion	19534
-Digital Revolutions	10856,2092,1984
+Digital Revolutions	10856,2092,1984,5034
 Digital Rights	1250,2611,1652,38,1400,2986,4253,274,3318
 Digital Rights Alliance Africa	2549,6596,2255,92
 Digital Rights Attorney	5321
@@ -4340,6 +4362,7 @@ Digital Rights and Elections	7101,845
 Digital Rights and Inclusion	1375,283
 Digital Rights and Inclusion Board Learning Experience	7101
 Digital Rights and Inclusion Forum	7101,845
+Digital Rights and Inclusion Forum Next Post	19947
 Digital Rights and Literacy Workshops	8311
 Digital Rights and Peaceful Elections	8551
 Digital Rights and Principles	11155
@@ -4682,10 +4705,11 @@ Digital Technologies Park	808
 Digital Technologies Solly Malatsi	5969
 Digital Technologies and Educational Inequality	10831
 Digital Technologies and Financial Management APCICT	11017
+Digital Technologies and Innovation	19958
 Digital Technologies and Services	12948
 Digital Technologies for Gender	12926
 Digital TechnologiesX	11254
-Digital Technology	1363,1335,1428,1237,161,408,4899,1026,1604,1205,84,2340,2799
+Digital Technology	1363,1335,1428,1237,161,408,4899,1026,1604,1205,84,2340,2799,77
 Digital Technology Adoption	17870
 Digital Technology Adoption and Skills Development	4653
 Digital Technology Design	12994
@@ -4700,9 +4724,9 @@ Digital Technology Park Project	44
 Digital Technology Park Project African Development	44
 Digital Technology Systems	3969
 Digital Technology Use	11195
-Digital Technology and Innovation	2338,1799,569,67,1197,4147,5871
+Digital Technology and Innovation	2338,1799,569,67,1197,4147,5871,3970,8
 Digital Technology and Innovation Samuel Nartey George	3543,4744
-Digital Technology and Innovations	2208,506,515,155,198,544,48,317,134,132,140,239,28,55,8,305,169,77,157,11,202,28,66,464,230,132,304,1,990,1,1,4,2,177,176,24,17,2,655,115,1,696,181,169,1,44,107,382,613,2967,619,488,401,82,186,1099
+Digital Technology and Innovations	2208,506,515,155,198,544,48,317,134,132,140,239,28,55,8,305,169,77,157,11,202,28,66,464,230,132,304,1,990,1,1,4,2,177,176,24,17,2,655,115,1,696,181,169,1,44,107,382,613,2967,619,488,401,82,186,1099,2374,19
 Digital Technology and Innovations Ghana	15988
 Digital Technology and Innovations Minister	5473
 Digital Technology and Innovations Minister Samuel Nartey	9538
@@ -4783,7 +4807,7 @@ Digital Trade Should Remain Open	14932
 Digital Trade and Cross-Border Fintech and Payments	18523
 Digital Trade and Intellectual Property	4431
 Digital Trade and Its Annexes	7596
-Digital Trade for Development	10856
+Digital Trade for Development	10856,9110
 Digital Trade. Build Africa	7039
 Digital Trade. Many African	5878
 Digital Trade. Mene	17756
@@ -4799,13 +4823,14 @@ Digital Training for Police Officers	17213
 Digital Transaction and Services	15054
 Digital Transactions	12241
 Digital Transf Strategy I-35	10785
-Digital Transformation	969,198,209,187,155,100,1,105,169,459,692,207,32,4,117,318,204,6,506,169,223,58,41,115,613,392,183,10,16,138,236,114,443,63,96,2445,350,223,411,154,85,15,5,49,72,112,77,192,189,13,57,217,81,38,43,15,62,134,2,19,67,69,17,64,101,79,48,27,265,2,71,51,100,82,347,443,15,57,161,11,53,12,2,9,25,93,18,18,41,97,111,28,320,41,126,40,86,126,8,107,3,194,252,16,194,210,53,15,133,119,129,15,1148,534,176,35,57,273,58,36,3,13,11,162
+Digital Transformation	969,198,209,187,155,100,1,105,169,459,692,207,32,4,117,318,204,6,506,169,223,58,41,115,613,392,183,10,16,138,236,114,443,63,96,2445,350,223,411,154,85,15,5,49,72,112,77,192,189,13,57,217,81,38,43,15,62,134,2,19,67,69,17,64,101,79,48,27,265,2,71,51,100,82,347,443,15,57,161,11,53,12,2,9,25,93,18,18,41,97,111,28,320,41,126,40,86,126,8,107,3,194,252,16,194,210,53,15,133,119,129,15,1148,534,176,35,57,273,58,36,3,13,11,162,81
 Digital Transformation Accelerate Digital Transformation	15713
 Digital Transformation Acceleration Program	6444,1140
 Digital Transformation Acceleration Project	1641,84,1507,81,610,1068,1100,10493
 Digital Transformation Acceleration Project for Cameroon	16588
 Digital Transformation Accelerator Project	3763,14
 Digital Transformation Achieve	11131
+Digital Transformation Across the Economy	19966
 Digital Transformation Across the Economy of Benin	10856
 Digital Transformation Action Plan	2807,4
 Digital Transformation Advisor	18510
@@ -4824,7 +4849,7 @@ Digital Transformation Center Kenya	614,6111
 Digital Transformation Centers	1264,1027,6654
 Digital Transformation Centre	845,581,2794,2430,1896,1246
 Digital Transformation Centre Tanzania	1426
-Digital Transformation Centres	9137,3316,892,2,174,4809,175
+Digital Transformation Centres	9137,3316,892,2,174,4809,175,1452
 Digital Transformation Centres Initiative	9137
 Digital Transformation Centres. Supports	689
 Digital Transformation Change Management Strategy	13345
@@ -4888,7 +4913,7 @@ Digital Transformation Scorecard	14752
 Digital Transformation Section	13457
 Digital Transformation Steering Committee	15411
 Digital Transformation Strategic Objective	13005
-Digital Transformation Strategy	961,35,247,126,264,181,79,523,573,295,113,198,9,146,208,695,649,231,428,1272,1313,2174,120,425,304,672,433,1,56,349,15,18,344,1029,188,223,98,28,11,519,378,2428,572,204
+Digital Transformation Strategy	961,35,247,126,264,181,79,523,573,295,113,198,9,146,208,695,649,231,428,1272,1313,2174,120,425,304,672,433,1,56,349,15,18,344,1029,188,223,98,28,11,519,378,2428,572,204,831
 Digital Transformation Strategy and ICT Strategy	12241
 Digital Transformation Strategy for Africa	542,247,169,3,282,571,863,485,961,969,1158,119,102,665,190,203,19,948,2344,729,1105,1,388,46,205,17,149,1994,19,148,503,586,212,76,300,1592,1021
 Digital Transformation Strategy for Africa Ilustração	11569
@@ -5055,6 +5080,7 @@ Digital and AI Transformation Driving	11332
 Digital and Analogue Elements	16885
 Digital and Artificial Intelligence	13112,3032
 Digital and Beyond	10583,3568
+Digital and Cashless Services	19940
 Digital and Community Information Centres	11791
 Digital and Creative Enterprise Programme	1128
 Digital and Creative Enterprises	602,804,6944,1569,3337,3518
@@ -5221,7 +5247,7 @@ Digitalhealthmodelsforconnectingandsharinginformation	8603
 Digitalhealthtransformation	13187
 Digitalis	1728,13204
 Digitalisa	15778
-Digitalisation	557,43,44,145,172,120,185,4,49,1,1,5,3,1,268,80,6,246,27,17,30,12,3,1,23,1,1,1,112,108,4,64,53,20,5,6,136,139,9,31,75,46,1,1,7,12,45,11,29,59,13,1,12,76,56,47,25,19,34,9,38,13,19,21,47,37,19,32,67,40,16,15,7,1,15,19,82,76,125,1,76,12,16,20,31,3,1,10,103,3,44,1,1,1,10,64,415,118,9,84,97,115,8,17,11,245,114,118,66,179,21,135,8,6,117,61,77,2,476,268,104,90,41,438,52,1,84,203,363,17,204,419,157,81,297,49,49,206,17,26,32,96,4,62,294,112,42,4,3,1,8,2,97,37,18,33,6,1,19,32,230,90,8,287,13,167,483,90,36,51,581,243,97,56,61,16,8,195,4,12,68,106,212,144,227,172,39,13,76,36,10,136,3,285,148,98,23,11,17,6,2,40,10,8,5,4,3,29,16,46,24,26,10,8,3,6,15,39,32,52,35,10,21,1,97,34,6,7,16,16,15,6,10,1,67,30,33,22,13,41,12,11,77,47,127,5,30,23,3,5,217,714,207,43,16,64,94,49,52,35,45,37,2,1,8,13,13,99,23,49,191,294,22,22,1,22,15,2,54,1,40,4,1,4,45,59,11,5,18,122,209,6,15,242
+Digitalisation	557,43,44,145,172,120,185,4,49,1,1,5,3,1,268,80,6,246,27,17,30,12,3,1,23,1,1,1,112,108,4,64,53,20,5,6,136,139,9,31,75,46,1,1,7,12,45,11,29,59,13,1,12,76,56,47,25,19,34,9,38,13,19,21,47,37,19,32,67,40,16,15,7,1,15,19,82,76,125,1,76,12,16,20,31,3,1,10,103,3,44,1,1,1,10,64,415,118,9,84,97,115,8,17,11,245,114,118,66,179,21,135,8,6,117,61,77,2,476,268,104,90,41,438,52,1,84,203,363,17,204,419,157,81,297,49,49,206,17,26,32,96,4,62,294,112,42,4,3,1,8,2,97,37,18,33,6,1,19,32,230,90,8,287,13,167,483,90,36,51,581,243,97,56,61,16,8,195,4,12,68,106,212,144,227,172,39,13,76,36,10,136,3,285,148,98,23,11,17,6,2,40,10,8,5,4,3,29,16,46,24,26,10,8,3,6,15,39,32,52,35,10,21,1,97,34,6,7,16,16,15,6,10,1,67,30,33,22,13,41,12,11,77,47,127,5,30,23,3,5,217,714,207,43,16,64,94,49,52,35,45,37,2,1,8,13,13,99,23,49,191,294,22,22,1,22,15,2,54,1,40,4,1,4,45,59,11,5,18,122,209,6,15,242,58
 Digitalisation Adresse	15624
 Digitalisation As Ghana	15629
 Digitalisation Day	15120
@@ -5266,6 +5292,7 @@ Digitalisation du Tchad	7865
 Digitalisation for All	1161
 Digitalisation for East African Trade and Integration	827
 Digitalisation of Basic Public Services	6946
+Digitalisation of Economic Sectors	19966
 Digitalisation of Fixed Penalty Notice	14830
 Digitalisation of Food Assistance	15220
 Digitalisation of Government Services Kangemi Boda Boda	6946
@@ -5297,7 +5324,7 @@ Digitalise Youth	10089
 Digitalised RBF System Belgian	10865
 Digitaliser	13341,23,1900,610,62,53,1871,1128,233,139
 Digitalisierung	384,120,110,82,127,4,1,72,1,1,1,149,479,1,687
-Digitalising	13003
+Digitalising	13003,6963
 Digitalising Data Management Processes	12551
 Digitalising Food Assistance	15220
 Digitalising G2P	11994
@@ -5387,7 +5414,7 @@ Digitalizing CR	15553
 Digitalizing CR and ID	969
 Digitalizing CRVS	12064
 Digitalizing G2P Payments	5700
-Digitalizing Government Payments	10856
+Digitalizing Government Payments	10856,9110
 Digitalizing HEP	12246
 Digitalizing Malawi	230,14444
 Digitalizing Selected Health Services	18359
@@ -5446,6 +5473,7 @@ Digitisation of Archives	14830
 Digitisation of Civic Records	3200
 Digitisation of NRCs	12415
 Digitise	7495,256,5458,1609,524
+Digitise Its Land Registry System. Progress	19981
 Digitise Teacher Training	9783
 Digitised	10962,268,977,6274
 Digitised Declaration Process	11134
@@ -5453,7 +5481,7 @@ Digitised Government	395
 Digitised Modern Addressing System	11126
 Digitised Organization	12551
 Digitises	354,284,12399
-Digitising	3243,2002,1522,2868,689,532,160,8651
+Digitising	3243,2002,1522,2868,689,532,160,8651,299
 Digitising MINDCAF	10987
 Digitising South Africa	8521
 Digitization	680,539,17,1358,295,125,590,538,159,1674,1073,672,2906,149,37,7,412,675,54,178,76,113,32,26,4,10,362,570,94,566,906,294,287,93,262,1069,40,1,94,127,96,898,143,145,28,303,156,37,275,462,31
@@ -5534,6 +5562,7 @@ Director Nacional de Transformação Digital	12840
 Director da Divisão de Governação Digital	2816
 Director of Digital Development Services	9117
 Director of Digital Economy and Post	10509
+Director of Digital Infrastructure	19947
 Director of Digital Infrastructure and Postal Development	6374
 Director of Digital Infrastructure and Posts	8177
 Director of Digital Togo	19245
@@ -5629,7 +5658,8 @@ Driving Digital Climate Action	17318
 Driving Digital Inclusion Through Affordable Devices	14151
 Driving Digital Inclusion Within the AfCFTA Framework	1006
 Driving Digital Solutions	396
-Driving Digital Transformation	1923,408,3,35,1146,16,3238,12,80,2959,708,4146
+Driving Digital Transformation	1923,408,3,35,1146,16,3238,12,80,2959,708,4146,5292
+Driving Digital Transformation for African Economies	19966
 Driving Digital and Economic Progress	15748
 Driving Economic Growth Through Digital Technology	10157
 Driving Innovation and Digital Transformation	17116
@@ -5844,6 +5874,7 @@ Elderly and Children. Digital Health Strategy	1261
 Electricity Digitalization	3604
 Electricity and Digital	14956
 Electronic Digital ID	961
+Electronic Money Issuer DESFT Digital Economy	19940
 Electronic Payments And Digital Reforms Take	10328
 Electronic Transactions and Digital Integration E. Tunisia	17745
 Eletrónica Digital	15772
@@ -5870,6 +5901,7 @@ Empreendedorismo Digital	16251,954
 Empreendedorismo Digital. WARDIP Guiné-Bissau	17205
 Enable Digital Banking Services and Promote Financial	16590
 Enablers Remarks Digital	14752
+Enablers of Digital Financial Services	19940
 Enabling Data Policy Framework Transversal Digital	961
 Enabling Digital Infrastructure	19571
 Enabling Digital Public Infrastructure	12438
@@ -5902,6 +5934,7 @@ Enhance the Country’s Digital Transformation URL	18303
 Enhance the Presidential Digital Talent Program	12210
 Enhanced Climate Governance Through Digital Solutions	11721
 Enhanced Digital Accessibility Index	12948
+Enhancement of Digital Wallet Services	19940
 Enhancing Digital Access and Community Resilience	2163
 Enhancing Digital Governance	12241,839
 Enhancing Digital Government and Digital Economy	15553
@@ -6090,6 +6123,7 @@ Evaluating Deepfake Defense Technologies Cyber Digital	2318,6,103,20,94,25,48,44
 Evaluating the Conduct and Practice of Digital Lending	12227
 Evaluating the Impact of Digital Wallet Savings	17574
 Evaluation Framework for Digital Identity	4176
+Evaluation of Digital Addressing System Implementation	19944
 Evaluation of Digital Skills Acquisition	16963
 Every African Country's National Digital Health	7707
 Every Digital Champion	16775
@@ -6373,7 +6407,8 @@ GSMA Building Digital Ecosystems	5241
 GSMA DPRI GSMA Digital Policy and Regulatory	14674
 GSMA Digital	14674
 GSMA Digital Africa	14674
-GSMA Digital Africa Index	14674
+GSMA Digital Africa Index	14674,5292
+GSMA Digital Africa Index Presentation. Note	19966
 GSMA Digital Africa Index for Digital Nations	9820
 GSMA Digital Africa Index. Malawi's GSMA	14674
 GSMA Digital Africa Nations and Society Index	14674
@@ -6384,15 +6419,15 @@ GSMA Digital Identity	10822
 GSMA Digital Inclusion Fund	6748
 GSMA Digital Inclusion Policy Brief	14674
 GSMA Digital Nations and Society	6861
-GSMA Digital Nations and Society Index	6781,34,7859
-GSMA Digital Policy and Regulatory Index	14674
+GSMA Digital Nations and Society Index	6781,34,7859,5292
+GSMA Digital Policy and Regulatory Index	14674,5292
 GSMA Driving Digital Transformation of African Economies	14674
 GSMA Kenya Digital Economy Report Oct	17745
 GSMA Nigeria Digital Economy Report	5245
 GSMA Report Highlights Digitalisation's Role	2334
 GSMA The GSMA Digital Identity Programme	10822
 GSMA and Caribou Digital	249
-GSMA's Digital Africa Index	14674
+GSMA's Digital Africa Index	14674,5292
 GSMA's Digital Africa Summit	6781
 GSMA's Digital The GSMA Digital Africa	14674
 GSMA’s Digital Africa Index	7825
@@ -6454,8 +6489,9 @@ Ghana Card. Cybersecurity and Digital Identity Platforms	4791
 Ghana Champions Continental Digital Trade Corridor	6136
 Ghana Colab Innovation Hub Nigeria Digital	15460
 Ghana Digital	4126
-Ghana Digital Acceleration Project	3250,3027,2490,3100,4121,414,2843
-Ghana Digital Acceleration Project World Bank	979
+Ghana Digital Acceleration Plan	19966
+Ghana Digital Acceleration Project	3250,3027,2490,3100,4121,414,2843,721,15
+Ghana Digital Acceleration Project World Bank	979,18987
 Ghana Digital Address	2308
 Ghana Digital Centres	7285
 Ghana Digital Centres Limited	4126,3159
@@ -6469,7 +6505,7 @@ Ghana Digital Economy Policy and Strategy Foreword	15629
 Ghana Digital Economy Policy and Stratey	4126
 Ghana Digital Transformation	1052
 Ghana Integrated Digital	4126
-Ghana Integrated Digital Transformation Blueprint	4126
+Ghana Integrated Digital Transformation Blueprint	4126,15840
 Ghana Integrated Digital Transformation Limited Leadership	4126
 Ghana Post Digital Address	17114
 Ghana Rural Telephony and Digital Inclusion Project	478,1,7546
@@ -6479,6 +6515,8 @@ Ghana's Ministry of Communications and Digitalisation	15386
 Ghana's Ministry of Communications and Digitalization	1889
 Ghana's Official National Digital Address... URL	16604
 Ghana. Journal of African Digital Policy and Governance	6936
+Ghana’s Digital Addressing	19944
+Ghana’s Digital Addressing System. Nearly	19944
 Ghana’s Digital Economy Policy	4970
 Global Digital	10840,1374
 Global Digital Collaboration	16807
@@ -6495,7 +6533,7 @@ Global Digital Governance Lab	7320,537
 Global Digital Government Twinning Initiative	13807,1
 Global Digital Health Certificate Network	1455
 Global Digital Health Index	1824,10431
-Global Digital Health Monitor	15720
+Global Digital Health Monitor	15720,4254
 Global Digital Health Monitor GMAO	15720
 Global Digital Health Strategy	396
 Global Digital Health Transformation Framework	15200
@@ -6514,7 +6552,7 @@ Global Digital Public Infrastructure	13095,2951,3677
 Global Digital Public Infrastructure Repository	7981
 Global Digital Public Infrastructure Summit	12227
 Global Digital Public Infrastructure Summit. Demonstrated	4554
-Global Digital Reports	2504,1,1413,1,1,6939,1143,439,2579,2060
+Global Digital Reports	2504,1,1413,1,1,6939,1143,439,2579,2060,2890
 Global Digital Rights Coalition	17771
 Global Digital Rulebook	11154,1
 Global Digital Standards	8610
@@ -6897,6 +6935,7 @@ ISACA Workforce Development Programme Digital Pioneers	13401
 ISART Digital	16046
 ISDN Integrated Services Digital Network KINGDOM	12395
 ITU AIMS TO BOOST DIGITAL TRANSFORMATION	12695
+ITU Digital Development Index	19966
 ITU Digital Rights Report	12214
 ITU Digital Transformation Centers	3604
 ITU Green Digital Action Framework and OECD	14752
@@ -7021,6 +7060,7 @@ Increase Jobs Through Inclusive Digital Access	13431
 Increase Uptake of Digital Services	14729
 Increase the Use of Digital Systems	15679
 Increased Access To Digital Skills	346
+Increased Adoption of Digital Services Africa	19940
 Increased Digital Literacy and Productivity	12241,839
 Increased Digital Literacy and Productivity Partnerships	13095
 Indepay Introduces Zero-Fee Digital Payments Platform	11994
@@ -7117,6 +7157,7 @@ Integrated Digital ID	4677
 Integrated Digital ID System	4677
 Integrated Digital ID and CRVS System	12241,839,15
 Integrated Digital TV	13301
+Integrated Digital Transformation Blueprint	19966
 Integrated National Digital Mortality Surveillance	9370
 Integrated Services Digital Network	16900
 Integrating Civil Registration and Digital Identification	10775
@@ -7172,6 +7213,7 @@ Introducing Digital Foundations for Service Delivery	1771
 Introduction Benin Ghana Digital ID	10822
 Introduction Digital	5242,5639,1113,1353,1617,4578
 Introduction of Digital Learner Records	16909
+Introduction of Wero Digital Wallet The European	19940
 IoT Services RISA RISA RISA Digital	12359
 Irembo Digital Platform	12333
 Iridimi Digital Learning Center	15008
@@ -7881,6 +7923,7 @@ Minister Sierra Leone Launches Digital	18523,28
 Minister and High Commissioner for Digitalisation	2838
 Minister for Communication and Digital Economy	17125
 Minister for Communications and Digital Economy	5273,11804
+Minister for Communications and Digitalisation	19947,10
 Minister for Digital Transformation and Innovation	6440
 Minister for Digital Transition and Technological Innovation	6730
 Minister for Digitalisation	10856
@@ -7952,7 +7995,7 @@ Ministry of Communications and Digital Economy The Policy	11857
 Ministry of Communications and Digital Economy of The Gambia	16939
 Ministry of Communications and Digital Economy. Once	16939
 Ministry of Communications and Digital Transformation	1129,1860,295,577,792,461,303,137,780,201,236,62,2132,7,253,209,707,160,2542,1354
-Ministry of Communications and Digitalisation	1692,3278,6165,732,3762,87
+Ministry of Communications and Digitalisation	1692,3278,6165,732,3762,87,4241
 Ministry of Communications and Digitalisation CERT-GH	775
 Ministry of Digital	5023,5833,4568
 Ministry of Digital Affairs	5056,11088
@@ -8041,6 +8084,7 @@ Modelo de Governança Digital Multinível	11451
 Modelo de Referência de Plataforma Digital Pública	11555
 Modelos Digitales de Elevaciones	16875
 Modernise Digital Infrastructure	14819
+Modernizing Digital Government Services	19966
 Moen A. One Digital Health	14666
 Mongolia's Ministry of Digital Development	13902
 Moniepoint Digital Payments Equity Investment Swedfund	2243
@@ -9216,6 +9260,7 @@ Related Posts Digital Mali	9993
 Relevant Continental Frameworks AU Digital Transformation	12055
 Relevant Divisions The Digital Health	12240
 Reliable Digital Future	6051
+Remittance Digital Micro Loans Agency Banking	19940
 Renewable Energy and Digitalization	12214
 Renewable Integrated Sustainable Energy and Digitalisation	14027,1
 Renewed Hope Students Leaders Engagement and Digital	8824
@@ -9230,6 +9275,7 @@ Republic of Zambia National Digital Transformation Strategy	13347
 República DigitalPrograma República Digital Ecuador	11529
 Requirements Criteria Digital	10911
 Research and Academic Digital Repository of Ethiopia OER	13991
+Research for GSMA Digital Economy Reports for Nigeria	19966
 Resetting Africa's Digital Identity and Sovereignty	5970
 Resettlement Policy Framework SDM Single Digital	16926
 Resident Representative Mauritius and Seychelles Digital	14752
@@ -9551,6 +9597,7 @@ Senior Programmes Officer and Digital Inclusion Lead	7564
 Series Digits Number Range Allocation	16934
 Service Delivery and Digital Solutions	18446
 Service Efficiency and Digital Transformation	19272
+Service POS and ATM Acquiring Digital Micro	19940
 Services Act SADA Smart Africa Digital	4126
 Services CURRENT STATUS DIGITAL FINANCIAL SERVICES	16942
 Services DLGF Digital Literacy Global Framework	13312,2
@@ -10088,6 +10135,7 @@ Technology and Innovation and Digital	644
 Technology and Science The National Digital Transformation	13347
 Tecnologias Digitais	9236
 Tehilah Base Digital Ltd	3862
+Telecel Digitech Academy	19966
 Telecom Infrastructure and Digital Connectivity Development	6459
 Telecommunication and Digital Transfor-	14897
 Telecommunications and Digital	11880,3017,3462
@@ -10173,6 +10221,7 @@ Training for Young Digital Innovators NITDA	14703
 Transaction Accounts and Digital Financial Services	15130
 Transfer Operator COMESA Digital Financial Services	12444
 Transform Nigeria’s Digital Financial Ecosystem	6700
+Transform and Ghana Digital Acceleration Programme	19966
 Transformation Digital Fév	13783
 Transformation Digital Terminé Type	13783
 Transformation Digital URL	13783
@@ -10222,6 +10271,7 @@ Transmission of Terrestrial Digital Television	16942
 Transparency Digitize Government Processes	17260
 Transparent Results Management and Digital Reforms	16574
 Transport Digitalisation	14674
+Treasury Digitalization	19940
 Triangular Cooperation for Digitial Innovation Made	1423
 Trident Aliska Digital Tech	6335
 Trident Aliska Digital Tech Ghana Ltd	6335,3642,365
@@ -10275,6 +10325,7 @@ UN Agency for Digital Technologies	11920
 UN DESA Division for Public Institutions and Digital	11894
 UN Digital Literacy Target	11857
 UN E-Government Development Digital Readiness Assessment	14674
+UN E-Government Digital Index	19966
 UN Global Digital Compact	1862,820,4865,1,373,3107,126,6542
 UN Global Digital Compact Digital	7548
 UN Office for Digital and Emerging Technologies	7112,3894,1,5195
@@ -10285,7 +10336,7 @@ UNCDF Digital Literacy for Financial Services	14106
 UNCDF Inclusive Digital Economy Scorecard	12941
 UNCDF National Digital Financial Services	14106
 UNCDF Zambia Digital Finance and Services Sida	527
-UNCDF's Digital Finance for Resilience	18152
+UNCDF's Digital Finance for Resilience	18152,1826
 UNCTAD Partnership On Digital Economy	1064
 UNDP Chief Digital Office UNDP Resident	12384
 UNDP Chief Digital Office’s Digital Capacity	13080,15
@@ -10426,6 +10477,7 @@ Universal Digital Access	4234
 Universal Digital Public Infrastructure Safeguards	11006,1
 Universal Service and Digital Inclusion	13582
 Universidade Digital	11411
+Unleashing Africa’s FinTech and Digital Economic Potential	19940
 Unlicensed Digital Credit Service Providers	7559
 Unlicensed Digital Credit Services Providers	8732
 Unlicensed Digital Credit Services Providers Acquired	7464
@@ -10620,7 +10672,7 @@ World Bank and Digital Development Partnership	3773
 World Bank's Botswana Digital Economy Diagnostic	12540
 World Bank's Digital Acceleration Project	11918,4042
 World Bank's Digital Development Global Practice	13459
-World Bank's Digital Economy for Africa	3604,11451
+World Bank's Digital Economy for Africa	3604,11451,4911
 World Bank's Digital Entrepreneurship Program	14897
 World Bank's Digital Governance and Economy	1782
 World Bank's Digital Practice for Eastern and Southern	14022
@@ -10629,6 +10681,7 @@ World Bank's Prosperity and Digital Transformation Vice	10977
 World Bank's Public Sector Digital Governance	15890
 World Bank's Senior Digital Specialist for Western	6277
 World Bank-backed Digital Malawi Acceleration Project	19817
+World Bank-backed Ghana Digital Acceleration	19981
 World Bank-backed Kenya Digital Economy Acceleration	6587
 World Bank-financed Angola Digital Acceleration Project	10765,10
 World Bank-financed Digital Tanzania Project	9149

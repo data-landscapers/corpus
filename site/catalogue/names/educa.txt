@@ -526,6 +526,7 @@ Construção Educação Electricidade	10757
 Consulting Ltd. LBSE Basic Education Law	11552
 Consumer Awareness and Education Mechanisms	5676
 Consumer Education	1000,18651
+Consumer Education Office	19940
 Consumer Education and Protection	958
 Consumer Engagement and Education	408
 Contemporary Perspective for Higher Education Stakeholders	6948
@@ -612,7 +613,7 @@ DCP Digital for Tertiary Education Program DFIL	3604
 DE TÍTULOS ESCOLARES DA EDUCAÇÃO PRÉ-ESCOLAR	11419
 DEP Ministry of Education	11916
 DEPARTMENT OF EDUCATION	7167
-DEVELOPMENT Education	10837,1315,188
+DEVELOPMENT Education	10837,1315,188,7598
 DEVELOPMENT OF AN EDUCATION MANAGEMENT INFORMATION	14855
 DGEB General Directorate of Basic Education	11905
 DHET Department of Higher Education and Training DIRISA	5246
@@ -711,7 +712,7 @@ Development Association UNESCO United Nations Educational	18851
 Development Cycles Ministry of Education Emerging Pilot	7548
 Development EFA Education For All EMIS	16852
 Development Federal Ministry of Education	11860
-Development Health Education Social Protection	10837,1315,188
+Development Health Education Social Protection	10837,1315,188,7598
 Development Objective PEQPT Quality Education for All	18765
 Development Programme UNESCO United Nations Educational	12512
 Development and Education	12914
@@ -826,7 +827,7 @@ EDUCACION ENSEÑANZA FORMACION PROFESIONAL	4209
 EDUCATE	7167
 EDUCATEURS	18171
 EDUCATIF CONGOLAIS	15673
-EDUCATION	737,3590,2840,3592,76,2,1,130,224,678,16,2,1,263,1,10,177,1,11,1,135,426,1532,163,114,441,336,232,1140,11,1,51,293,1242,6,36,245,895,1,169,14,22,1,65
+EDUCATION	737,3590,2840,3592,76,2,1,130,224,678,16,2,1,263,1,10,177,1,11,1,135,426,1532,163,114,441,336,232,1140,11,1,51,293,1242,6,36,245,895,1,169,14,22,1,65,14,1
 EDUCATION AND BIOSECURITY	7167
 EDUCATION AND EMPOWERMENT OPPORTUNITIES	16970
 EDUCATION AND EMPOWERMENT OPPORTUNITIES Bomi	16970
@@ -845,7 +846,7 @@ EDUCATION EMERGENCY SUPPORT PROJECT	14936,1
 EDUCATION ET FORMATION	19273
 EDUCATION ET RECHERCHE Formation	18425
 EDUCATION Education	15244
-EDUCATION Equality	10759,78,1052,451
+EDUCATION Equality	10759,78,1052,451,7598
 EDUCATION FINANCIERES Q53 Accepteriez-vous	13390
 EDUCATION FOR AFRICA CHARITY ORGANIZATION Data	7167
 EDUCATION FUND TO BURKINA FASO	15743
@@ -861,7 +862,7 @@ EDUCATION MANAGMENT INFORMATION SYSTEM LIST	11860
 EDUCATION NATIONALE	3381
 EDUCATION PROJECT	15661
 EDUCATION Public Disclosure Authorized	11905
-EDUCATION Rank	10759,78,1,1502,148
+EDUCATION Rank	10759,78,1,1502,148,7450
 EDUCATION SECTOR	14922
 EDUCATION SECTOR ANALYSIS	14922
 EDUCATION SECTOR FOR BETTER OUTCOMES	11905
@@ -873,7 +874,7 @@ EDUCATION SECTOR STRATEGIC PLAN	14922
 EDUCATION SECTOR The Ministry of Education	13310
 EDUCATION SECTOR. Outcome	14924
 EDUCATION SECTOR. Sources of Funding	14924
-EDUCATION SOCIAL PROTECTION	10837,1503
+EDUCATION SOCIAL PROTECTION	10837,1503,7598
 EDUCATION SOCIAL PROTECTION INFRASTRUCTURE Rank	11870
 EDUCATION STATISTICAL YEARBOOK	15087
 EDUCATION STATISTICAL YEARBOOK SCHOOL YEAR ENDED	12411
@@ -1010,7 +1011,7 @@ Educateur	16287
 Educati	13368,2326
 Educatif	18099
 Educating	958,3774,7443,1183,2355,1238
-Education	12,9,188,1,185,23,102,93,30,1,93,38,14,2,31,38,39,59,12,36,148,7,58,144,234,107,4,69,1,36,10,4,49,111,105,380,3,128,62,21,83,5,41,109,33,8,92,323,15,166,21,21,86,101,68,2,42,125,98,156,246,30,57,10,28,176,164,93,23,118,17,3,264,22,122,16,131,173,236,3,209,116,209,84,44,70,2,11,38,30,158,19,181,59,37,57,10,114,10,59,112,33,10,383,151,182,50,21,45,222,16,5,106,36,17,8,1,10,298,41,4,333,9,372,90,119,203,103,3,45,6,10,1,8,30,7,5,3,6,2,1,3,3,3,9,14,43,27,25,2,1,1,7,3,27,73,55,1,5,40,5,7,1,2,1,2,22,1,44,1,5,25,11,162,67,16,5,24,30,33,38,72,16,21,64,2,3,6,1,3,4,5,2,3,1,1,1,1,1,6,5,5,2,9,2,6,1,2,8,9,12,14,1,23,4,10,49,27,67,1,1,1,5,1,3,12,17,13,5,4,13,26,5,70,1,4,3,1,3,1,4,1,5,1,1,2,1,27,16,4,6,1,1,20,8,5,1,42,1,13,3,8,88,42,19,13,1,79,137,5,7,4,7,3,5,1,3,8,1,15,6,7,1,8,3,2,1,16,11,26,6,16,40,21,9,7,74,86,5,5,10,4,27,5,3,15,4,17,5,11,17,36,16,4,3,43,42,13,1,57,13,29,6,4,25,18,4,1,41,16,70,88,8,4,12,7,11,1,3,6,73,5,173,16,143,13,23,4,22,6,23,65,28,15,17,32,16,45,4,11,2,6,6,4,1,17,5,54,1,9,1,11,4,19,5,10,7,1,25,3,10,23,7,11,9,12,27,32,29,5,32,42,18,10,20,2,30,3,125,4,35,23,13,7,6,12,2,6,8,1,2,2,7,15,14,21,3,21,9,21,28,6,1,22,2,10,12,3,5,20,4,20,6,7,15,12,68,3,2,16,70,32,26,5,13,34,1,46,62,48,2,7,41,34,80,69,15,134,41,1,1,13,3,31,85,1,1,1,1,1,1,1,2,64,19,9,11,12,1,2,24,10,6,8,7,2,7,7,5,5,2,3,2,10,7,4,22,3,16,6,56,6,3,6,2,11,12,10,8,6,4,47,21,22,3,25,4,7,42,26,73,5,61,152,14,72,71,3,2,10,2,1,5,6,1,18,3,7,12,2,1,10,21,30,24,13,20,6,5,33,52,1,4,19,2,41,5,92,23,5,11,3,4,10,10,6,4,25,5,72,2,3,12,2,23,2,5,9,30,24,10,1,33,14,28,50,13,55,8,5,119,14,8,19,1,11,9,2,35,50,28,13,10,4,35,13,79,1,13,11,25,63,15,9,9,13,6,62,8,50,14,7,16,13,2,2,26,24,4,5,11,17,6,1,4,32,1,12,13,12,1,55,11,7,6,15,12,1,1,11,11,1,3,3,37,22,7,2
+Education	12,9,188,1,185,23,102,93,30,1,93,38,14,2,31,38,39,59,12,36,148,7,58,144,234,107,4,69,1,36,10,4,49,111,105,380,3,128,62,21,83,5,41,109,33,8,92,323,15,166,21,21,86,101,68,2,42,125,98,156,246,30,57,10,28,176,164,93,23,118,17,3,264,22,122,16,131,173,236,3,209,116,209,84,44,70,2,11,38,30,158,19,181,59,37,57,10,114,10,59,112,33,10,383,151,182,50,21,45,222,16,5,106,36,17,8,1,10,298,41,4,333,9,372,90,119,203,103,3,45,6,10,1,8,30,7,5,3,6,2,1,3,3,3,9,14,43,27,25,2,1,1,7,3,27,73,55,1,5,40,5,7,1,2,1,2,22,1,44,1,5,25,11,162,67,16,5,24,30,33,38,72,16,21,64,2,3,6,1,3,4,5,2,3,1,1,1,1,1,6,5,5,2,9,2,6,1,2,8,9,12,14,1,23,4,10,49,27,67,1,1,1,5,1,3,12,17,13,5,4,13,26,5,70,1,4,3,1,3,1,4,1,5,1,1,2,1,27,16,4,6,1,1,20,8,5,1,42,1,13,3,8,88,42,19,13,1,79,137,5,7,4,7,3,5,1,3,8,1,15,6,7,1,8,3,2,1,16,11,26,6,16,40,21,9,7,74,86,5,5,10,4,27,5,3,15,4,17,5,11,17,36,16,4,3,43,42,13,1,57,13,29,6,4,25,18,4,1,41,16,70,88,8,4,12,7,11,1,3,6,73,5,173,16,143,13,23,4,22,6,23,65,28,15,17,32,16,45,4,11,2,6,6,4,1,17,5,54,1,9,1,11,4,19,5,10,7,1,25,3,10,23,7,11,9,12,27,32,29,5,32,42,18,10,20,2,30,3,125,4,35,23,13,7,6,12,2,6,8,1,2,2,7,15,14,21,3,21,9,21,28,6,1,22,2,10,12,3,5,20,4,20,6,7,15,12,68,3,2,16,70,32,26,5,13,34,1,46,62,48,2,7,41,34,80,69,15,134,41,1,1,13,3,31,85,1,1,1,1,1,1,1,2,64,19,9,11,12,1,2,24,10,6,8,7,2,7,7,5,5,2,3,2,10,7,4,22,3,16,6,56,6,3,6,2,11,12,10,8,6,4,47,21,22,3,25,4,7,42,26,73,5,61,152,14,72,71,3,2,10,2,1,5,6,1,18,3,7,12,2,1,10,21,30,24,13,20,6,5,33,52,1,4,19,2,41,5,92,23,5,11,3,4,10,10,6,4,25,5,72,2,3,12,2,23,2,5,9,30,24,10,1,33,14,28,50,13,55,8,5,119,14,8,19,1,11,9,2,35,50,28,13,10,4,35,13,79,1,13,11,25,63,15,9,9,13,6,62,8,50,14,7,16,13,2,2,26,24,4,5,11,17,6,1,4,32,1,12,13,12,1,55,11,7,6,15,12,1,1,11,11,1,3,3,37,22,7,2,5,1,13
 Education A Mixed School Bag	5606
 Education ADRA Adventist Development and Relief Agency	14896
 Education About	17114
@@ -1091,7 +1092,7 @@ Education Common Fund	13349
 Education Communication and Section Communicati	19541
 Education Community of Interest Event As AI	19595
 Education Compact	11905
-Education Completion	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Education Completion	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Education Completion Score Rank	11886
 Education Completion Warning Signs Business	11870
 Education Consultant	14897,1979,994,1061
@@ -1149,14 +1150,14 @@ Education Economics	16436
 Education Economist	17070
 Education Education	7751,10312
 Education Education Any	15244
-Education Education Enrolment Education Completion Human	10837,1315,188
+Education Education Enrolment Education Completion Human	10837,1315,188,7598
 Education Education Nor Employment	17503
-Education Education Quality Public Perception of Education	10837,1315,188
+Education Education Quality Public Perception of Education	10837,1315,188,7598
 Education Eector Development Plan	19565
 Education Empowerment	19532
 Education Enabling Factor	12175
 Education Enabling Factor Due	12175
-Education Enrolment	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Education Enrolment	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Education FY17	16436
 Education Facilities	16436
 Education Finance Management Intern	13310
@@ -1380,7 +1381,7 @@ Education Proposed Development Objective	14576
 Education Prédiction	15583
 Education Préscolaire	10847
 Education Psychology and Public Media	8130
-Education Quality	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1503,5661,1,169,14,22,1,65
+Education Quality	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1503,5661,1,169,14,22,1,65,14,1
 Education Quality Project	19835
 Education Quality SADC Southern African Development	13310
 Education Quick Win	17860
@@ -2124,6 +2125,7 @@ GPT Educational Platform Pilot Project	14771
 GPU Technologies Accelerator Educational B1- Volume	7548
 GUIDING PRINCIPLES AND AIMS OF EDUCATION	16852
 GUP NIC Education G2G	13314
+Gabon's Minister of State for National Education	19982
 Gabon's Ministry of National Education	2545,874
 Gabonese Ministry of National Education	15518
 Gairo DC Education and Failure	19585
@@ -2183,7 +2185,7 @@ Gestão da Educação Secretaria Provincial da Educação Taxa	10766
 Gestão da Educação da Nigéria Digital	11454
 Ghana Education	4126
 Ghana Education ICT	4126
-Ghana Education Service	258,6678,1448,7778,377
+Ghana Education Service	258,6678,1448,7778,377,3423
 Ghana Education Services	4126
 Ghana Education Strategic Plan	789
 Ghana Education Trust Fund	9202
@@ -3472,6 +3474,7 @@ Pre- University Education System	15604
 Pre-Primary Education	2775,9424,212
 Pre-Primary Education Enrollment Rates	12411
 Pre-Primary Education GER	12199
+Pre-Tertiary Education Act	19951
 Pre-University Education	3900
 Pre-University Education Sector Plan	15604
 Pre-primary Education	15604
@@ -3599,7 +3602,7 @@ Public Education and Advocacy	12256
 Public Education and Awareness	18485
 Public Education and Public Outreach Programmes	19664
 Public Participation and Anti-Corruption Education	17037
-Public Perception of Education Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Public Perception of Education Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Public Perception of Education Provision Social Protection	10759,1395
 Public Perception of Health Provision Education	10759,1395
 Public Private Azhari Education Sector Plan	15604
@@ -4287,6 +4290,7 @@ Threats TVET Technical and Vocational Education and Training	4126
 Through Eswatini Higher Education Council	12922
 Through the Tackling Education and Skills Data Challenge	15182
 Time Higher Education	15568
+Times Higher Education	19952
 Times Higher Education TNE Transnational	14747
 Times Higher Education World University Rankings	17458
 Title Education	13287

@@ -47,6 +47,7 @@ ASYCUDA Automated System for Measurement	15478
 ASYCUDA Automated System for Performance Measurement	15478
 ASYPM The Automated System for Performance Measurement	13042
 ATM Application Programming Interface AU Autonomous	17870
+ATM Automated Teller Machine B2W Bank-to-Wallet	19940
 ATS Automated Transfer System BCSTP Banco	18825
 AU PROFIT DE LA HAUTE AUTORITÉ	15885
 AUTO EDIT SOM ABO&did	5550
@@ -243,7 +244,7 @@ Automate GAC	17364
 Automate Interbank Transactions and Develop Digital	19829
 Automate Spectrum	5245
 Automate the Postal Clearance	13108
-Automated	28,543,649,876,578,977,210,1508,1063,10,496,852,340,306,360,711,274,1,107,381,69,211,295,285,3,5,41,428,332,13,3,1,30,225,22,156,160,102,268,10,1,29,83,279,1114,130,162,34,204,69,130,38,399,112,511,615,68,242,390,253,78,14,694,407,536,94,274
+Automated	28,543,649,876,578,977,210,1508,1063,10,496,852,340,306,360,711,274,1,107,381,69,211,295,285,3,5,41,428,332,13,3,1,30,225,22,156,160,102,268,10,1,29,83,279,1114,130,162,34,204,69,130,38,399,112,511,615,68,242,390,253,78,14,694,407,536,94,274,62
 Automated Assessment and Feedback	14812
 Automated Biometric	11986
 Automated Biometric Identification	11986
@@ -258,7 +259,7 @@ Automated Check Processing and Automated Clearing House	17235
 Automated Cheque Processing	16844
 Automated Civil Service Platform	17057
 Automated Civil Service Test	16985
-Automated Clearing House	2358,1299,22,26,8005,576,78,950,138,1605,543,1244,32,66,196,97,2481
+Automated Clearing House	2358,1299,22,26,8005,576,78,950,138,1605,543,1244,32,66,196,97,2481,224
 Automated Clearing House AML	13452
 Automated Clearing House Related Indicator	7221
 Automated Clearing House System	19716
@@ -325,15 +326,17 @@ Automated System for Customs Data Sydonia World	16942
 Automated System for Customs Data Why ASYPM	13042
 Automated System for Relief Emergency Consignments	13042
 Automated Systems for Customs Data	19839
-Automated Teller Machine	6462,1447,3225,904,1266,1615,2023,90,2558
+Automated Teller Machine	6462,1447,3225,904,1266,1615,2023,90,2558,350
 Automated Teller Machine ATS Automated Transfer	13312,2
 Automated Teller Machine B2B Business	16876
 Automated Teller Machine BACH	19664
 Automated Teller Machine BBS Bank of Uganda	19647
 Automated Teller Machine Coronavirus Disease Digital	940
-Automated Teller Machines	6774,3387,1794,83,193,1801,1546,22,63,1215,357,2429
+Automated Teller Machines	6774,3387,1794,83,193,1801,1546,22,63,1215,357,2429,284
 Automated Teller Machines ATMs	11955
 Automated Teller Machines BCG	14742
+Automated Teller Machines and Point of Sale Devices	19940
+Automated Teller Machines and Points of Sales	19940
 Automated Tracking	15282
 Automated Tracking Service	15283
 Automated Tracking Service for Public	15283
@@ -350,6 +353,7 @@ Automated Weather System	15097
 Automated Wheel Chair	19565
 Automates	13678,3807
 Automatic	1243,2471,1018,944,756,2385,306,2086,731,15,256,22,1229,406,1041,243,561,1426,18,1152,203,1127,128,122
+Automatic Adjustment	19976
 Automatic Agro-Meteorological Stations	12728
 Automatic Call Distribution	16922
 Automatic Climate Stations	12728
@@ -690,7 +694,7 @@ Autorite de Regulation du Nurnertque	15584
 Autoriteit Persoonsgegevens	8436
 Autoritfde	15584
 AutoritÈ	15394
-Autorité	37,76,122,330,200,204,14,25,206,17,53,366,340,77,194,29,224,142,74,62,1,87,58,12,70,49,180,13,88,155,15,31,119,142,30,33,19,165,63,9,74,6,65,4,259,28,116,61,70,60,49,34,120,14,65,14,200,11,34,338,13,125,16,9,33,6,140,139,7,16,22,222,69,90,10,26,43,218,30,23,87,25,27,88,26,29,101,227,48,69,70,110,180,91,125,131,79,2,208,153,5,68,83,17,105,13,150,191,213,216,26,151,35,16,83,29,81,19,2,58,46,1,50,34,69,46,128,4,11,40,18,1,1,12,58,9,117,47,12,416,13,146,35,171,111,1258,418,66,24,352,48,70,1,23,81,28,1,25,50,1,1,22,37,300,277,228,8,4,4,54,5,13,1,1,17,3,18,25,4,7,24,3,40,18,32,35,1,5,11,33,43,4,2,115,1,16,35,6,1,25,52,95,2,31,1,28,18,8,60,32,32,5,28,34,29,155,34,3,2,9,8,2,76,9,732,296,14,32,24,3,7,2,10,14,5,1,4,11,18,13,6,24,14,32,13,7,16,13,74,13,3,102,64,4,24,6,5,92,8,2,472,15,56,16,9,7,48,147,10,9,18,14,1,44,2,4,25,14,22
+Autorité	37,76,122,330,200,204,14,25,206,17,53,366,340,77,194,29,224,142,74,62,1,87,58,12,70,49,180,13,88,155,15,31,119,142,30,33,19,165,63,9,74,6,65,4,259,28,116,61,70,60,49,34,120,14,65,14,200,11,34,338,13,125,16,9,33,6,140,139,7,16,22,222,69,90,10,26,43,218,30,23,87,25,27,88,26,29,101,227,48,69,70,110,180,91,125,131,79,2,208,153,5,68,83,17,105,13,150,191,213,216,26,151,35,16,83,29,81,19,2,58,46,1,50,34,69,46,128,4,11,40,18,1,1,12,58,9,117,47,12,416,13,146,35,171,111,1258,418,66,24,352,48,70,1,23,81,28,1,25,50,1,1,22,37,300,277,228,8,4,4,54,5,13,1,1,17,3,18,25,4,7,24,3,40,18,32,35,1,5,11,33,43,4,2,115,1,16,35,6,1,25,52,95,2,31,1,28,18,8,60,32,32,5,28,34,29,155,34,3,2,9,8,2,76,9,732,296,14,32,24,3,7,2,10,14,5,1,4,11,18,13,6,24,14,32,13,7,16,13,74,13,3,102,64,4,24,6,5,92,8,2,472,15,56,16,9,7,48,147,10,9,18,14,1,44,2,4,25,14,22,583,4
 Autorité Administrative	9565,7052
 Autorité Administrative Indépen-	18322
 Autorité Administrative Indépendante	15636,74,2,224,679,1507,200
@@ -788,7 +792,7 @@ Autorité de Régulation de Communication Electronique	1935,76,2005
 Autorité de Régulation des CCDB Marchés Publics	11905
 Autorité de Régulation des Com	19218
 Autorité de Régulation des Communica	19218
-Autorité de Régulation des Communications	969,1585,335,430,37,115,1331,20,96,252,620,467,354,141,485,1304,1357,5620,103,21,59,414,29,28,155,218,42,1129,406,113,698,269,20,15,101
+Autorité de Régulation des Communications	969,1585,335,430,37,115,1331,20,96,252,620,467,354,141,485,1304,1357,5620,103,21,59,414,29,28,155,218,42,1129,406,113,698,269,20,15,101,625
 Autorité de Régulation des Communications Electroniques	37,961,5243,4581,245,513,3835,59,38,142,673,1778,17,1087,9,4,14,9,6,46,4,5,20,8
 Autorité de Régulation des Communications Eléctroniques	969
 Autorité de Régulation des Jeux de Hasard	16323
@@ -939,6 +943,7 @@ BOT. Pour le Port Autonome de Douala	5291
 BUDGET AUTONOME	16006
 BUFFALO AUTOLAB LTD Data Controller INST-7135671F063	7167
 Balancing Autonomy	6487
+Banks GACH Ghana Automated Clearing House	19940
 Baseline Standards for Automated Anti-Money Laundering	5369
 Benefits Automation	4528
 Best Auto Repair	18837
@@ -1082,6 +1087,7 @@ Digitalisation and Automation of Service Delivery	16511
 Digitisation and Automation Strategy	6133
 Digitization and Automation of Government Services The Kenya	6133
 Diploma da Autoridade	11430
+Direct Credit The Ghana Automated Clearing	19940
 Directorate of File Automation	4967,30,333
 Direito de Autor	15554
 Direitos Autor	18837
@@ -1176,6 +1182,7 @@ GUCE-Douanes-Port Autonome	15936
 Gambia. The Intellectual Property Automation	16873
 Generalized Auto-Regressive Conditional Heteroskedasticity	15620
 Gestão Autorizando	16290
+Ghana Automated Clearing House	19940
 Ghana Automotive Manufacturing Development Programme	17108
 Glossary AI Artificial Intelligence ASN Autonomous	10781,3701
 Glossary Autonomous	15415
@@ -1244,12 +1251,14 @@ III.4. Autorisation	16249
 INDEPENDANTE HAUTE AUTORITE DE LA COMMUNICATION	16381
 INSTALAÇÃO E FUNCIONAMENTO DA AUTORIDADE CREDENCIADORA	11397
 INTRODUÇÃO A Autoridade Geral de Regulação	18791
+IV ABBREVIATIONS ACH Automated Clearing House	19940
 IV. Autorizações	15955
 IV.3.1.2 Automatisation	10711
 Identification System ASYCUDA Automated System for Customs	17105
 Implementation Guide Automated Threshold Checks Integrated	17157
 Improving Substations System Automation and Security	12358
 Independent Autonomous Authority AI Artificial Intelligence	13731
+Indicators Automated Teller Machines	19940
 Information APDP Autorité de Protection des Données	15583
 Information ASYCUDA Automated System for Customs Data	17011
 Information de Communication. Autorisation	13781
@@ -1566,6 +1575,7 @@ Sustainability and Autonomy Closely	6947
 Swaziland Automated Electronic Clear-	6938
 Swaziland Automated Electronic Clearing House	12484
 System ATM Automated Teller Machine BAKWATA	19590
+System Audit Automated	19942
 System CCV Computer Coded Verbal Autopsy	12413
 System VA Verbal Autopsy IV	15056
 Système Automatisé SYDONIA de Mesure de Performance	15478

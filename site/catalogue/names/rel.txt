@@ -155,7 +155,7 @@ BUILDING NATIONAL CAPACITY IN RELATION	14004
 BUREAU RELATIONS PUBLIQUES Chef de Bureau Commissaires	17899
 Bagre-Kompienga Release Protocol	17596
 Banjul Plan... Document Press Release	17323,1
-Banking Services Labour Relations Secure Employment	10759,78,1315,188
+Banking Services Labour Relations Secure Employment	10759,78,1315,188,7598
 Banque Centrale. CHAPITRE III RELATIONS	17816
 Barrow Pressing for Investment and Debt Relief	17069
 Battery Energy Storage Systems and Related Facilities	16468
@@ -1020,7 +1020,7 @@ Labor and Working Conditions Relevant ESS	1867,1737,2935,4229,649,143,345,3753,3
 Labor and Working Conditions Relevant Key	18374
 Labor and Working Conditions Relevant Not Currently	19284
 Laboratoires DRG Diagnosis Related Groups DSNIS	13306
-Labour Relations	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Labour Relations	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Labour Relations Act	11182,98
 Labour and Industrial Relations Organisations	12597
 Land Related Matters	12912
@@ -1395,7 +1395,7 @@ Presidents Emergency Plan for AIDS Relief	12240
 President’s Emergency Plan for AIDS Relief	7187,3415,8927,242
 President’s Emergency Plan for Aids Relief	17883
 Press Quarterly Public Relations	15845
-Press Release	1830,561,286,155,944,1085,441,659,568,669,1137,556,155,304,1126,242,104,1279,475,1017,148,127,643,92,121,208,97,209,164,350,307,142,296,609,82,5,16,48,1,68,26,151,406,81,452,381,151,171,131,8,205
+Press Release	1830,561,286,155,944,1085,441,659,568,669,1137,556,155,304,1126,242,104,1279,475,1017,148,127,643,92,121,208,97,209,164,350,307,142,296,609,82,5,16,48,1,68,26,151,406,81,452,381,151,171,131,8,205,477
 Press Release AfCFTA DIGITAL TRADE FORUM	7039
 Press Release Deployment Final.pdf	17922
 Press Release Djibouti	13915
@@ -1513,7 +1513,7 @@ RELACIONADO	16059
 RELANCE	8321,1804
 RELANCE Plan	6707
 RELATED	5618,1521,5283,3779,1151,1146
-RELATED ARTICLES	3962,6100,7361
+RELATED ARTICLES	3962,6100,7361,2539
 RELATED ARTICLESMORE FROM AUTHOR	18519
 RELATED ARTICLESMORE FROM AUTHOR As Government	18497
 RELATED ARTICLESMORE FROM AUTHOR President Bio	18522
@@ -1850,7 +1850,7 @@ Relations Strategy	19660
 Relations and Employment Creation MLR Ministry of Land	12923
 Relations and Trade	5086
 Relationsaveclesfournisseurs	15525
-Relationship	766,495,1687,913,26,3661,338,3083,915,1,274,46,5,92,49,4,28,43,61,156,258,135,75,412,1042,109,110,111,1,617,37,54,37,80,572,382,321,131,30,86,6,192,1029,86,377,51,532,11,14,85,3,10
+Relationship	766,495,1687,913,26,3661,338,3083,915,1,274,46,5,92,49,4,28,43,61,156,258,135,75,412,1042,109,110,111,1,617,37,54,37,80,572,382,321,131,30,86,6,192,1029,86,377,51,532,11,14,85,3,10,327
 Relationship Between Data Management and Data	15034
 Relationship Between Vision	15604
 Relationship Between the Cybersecurity Strategy	19801
@@ -1871,7 +1871,7 @@ Relationships Fashion	19572,17
 Relativa	9543
 Relativamente	1215,1100,501,1478,1694,340,374,117,76,49,1831,726,1251,5,3,6,11,593,17,169,13,8,324,117,826,2589,17,244,216,2,104,542,474,68,1662,13,6,10,7,2,53
 Relativas	18896
-Relative	582,781,3609,18,2769,3085,2,15,108,226,689,1,10,58,53,153,1,45,41,105,4,28,37,67,1381,269,282,745,80,236,1137,9,19,215,7,20,217,1,22,376,240,356,24,75,262,1200,202,3
+Relative	582,781,3609,18,2769,3085,2,15,108,226,689,1,10,58,53,153,1,45,41,105,4,28,37,67,1381,269,282,745,80,236,1137,9,19,215,7,20,217,1,22,376,240,356,24,75,262,1200,202,3,87
 Relative Citation Ratio	2518
 Relative Contribution	15244
 Relative Contribution Above	15244
@@ -2058,7 +2058,7 @@ Relebohile Clinic	11980
 Relecture	10975,5274
 Relecture des Textes du Système Statistique National du CNS	17842
 Relecture du Règlement de Conciliation Dans	10975
-Relevance	1988,787,2776,1226,55,70,646,3231,225,898,62,211,78,2,101,204,115,356,69,210,151,282,247,482,74,177,54,78,80,576,93,154,386,68,224,447,231,35,713,599,96,688,310,246
+Relevance	1988,787,2776,1226,55,70,646,3231,225,898,62,211,78,2,101,204,115,356,69,210,151,282,247,482,74,177,54,78,80,576,93,154,386,68,224,447,231,35,713,599,96,688,310,246,143
 Relevance Collaborate	11004
 Relevance Compliance	1988
 Relevance Date	13824
@@ -2287,7 +2287,7 @@ Religions	17773
 Religiosos	12156,675
 Religious	1877,1169,8083,63,724,269,714,1049,948,2901,508,139,17,24,1230
 Religious Act	14742
-Religious Affairs	4126,10763,2026,190,1381,130
+Religious Affairs	4126,10763,2026,190,1381,130,1346
 Religious Affairs The Ministry of Lands	16915
 Religious Affairs The Office	16163
 Religious Affiliation	16921

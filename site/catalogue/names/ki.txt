@@ -3,7 +3,7 @@ A. D. Kibenge PERMANENT SECRETARY	19685
 A.G. KIMANI	7167
 A1- KIXP	7548
 AB United Kingdom	6593,4411,13,947,30
-AB United Kingdom Tel	10856,3818
+AB United Kingdom Tel	10856,3818,5292
 ABOUT US VALUES KINGDOM OF ESWATINI	12395
 ACCES ABORDABLE AU DERNIER KILOMETRE	18316
 ACCES ABORDABLE AU DERNIER KILOMETRE Statut	18967
@@ -187,7 +187,7 @@ Bakari Kitwana Makame	19542
 Ban Ki-Moon	14723
 Bandari Dispensary Data Controller INST-40822487397 KILIFI	7167
 Bandari Dispensary Data Processor INST-40822487397 KILIFI	7167
-Bank of Kigali	6343,1006,668,275,6705
+Bank of Kigali	6343,1006,668,275,6705,4983
 Bank of Kigali Courts Chinese Businesses	14969
 Barthélemy Saint Helena Saint Kitts and Nevis	11470,7872
 Basel Core KIFC	14997
@@ -859,7 +859,7 @@ Interior Cabinet Secretary Kipchumba Murkomen	5711,1072,4,79,5437,10
 International Telecommunications Union. Geneva. Kim	15493
 Intérieur de Kinshasa	15913
 Irembo. One KII	12333
-Irene KIMENYI	16224
+Irene KIMENYI	16224,3736
 Irene KIMENYI Sous	16209
 Irene Kimathi	4513
 Iris Kissiti	12941
@@ -1413,6 +1413,7 @@ Kie-Ntem Nsok	16942
 Kielektroniki	2868,3151,2444,152,10975,2
 Kielektroniki Nchini	6019
 Kiellet Tenart Antenne	16552
+Kielmann K	19974
 Kiembara Sourou Boucle du Mouhoun	15715
 Kiems	11115
 Kiendrebeogo	11140
@@ -1772,9 +1773,11 @@ Kilosa DC Health Centres	19585
 Kilosa DC Unqualified Compliant	19585
 Kilosa Mjini	19517
 Kilovolt	15739
+Kilovolt Ampere	19976
 Kilovolt- Amphere	18355
 Kilowatt	12358,6538,399
 Kilowatt RAP Região Autónoma	18757
+Kilowatt-Hour	19976
 Kilowatt-hours LEDs	15574
 Kilowattheure	15739,3556
 Kilowattheure KPA	18118
@@ -1914,7 +1917,7 @@ Kindia. Cette	16668
 KindiaDeveloppe	16691
 Kindiki	2742,1016,225,530,597,506,95,212,191,46,156,93,107,15,232,24,9,204,265,2675,4333
 Kindiki and Uhuru Revealed	2742,1016,2558,471,213
-Kindly	4732,1061,2194,803,879,84,482,2129,673,1722,64,10,2120,75
+Kindly	4732,1061,2194,803,879,84,482,2129,673,1722,64,10,2120,75,2908
 Kindonou. Présentement	2697
 Kindu	5710,3045,6915,831
 Kindu Analyse	15670
@@ -1971,6 +1974,7 @@ Kingdom European	17212
 Kingdom For the Republic of Morocco	17438
 Kingdom Moldova NAIS	11135
 Kingdom This Strategy	12444
+Kingdom UPI Unified Payments Interface USSD	19940
 Kingdom United	17743
 Kingdom of Automating Data Capture	16631
 Kingdom of Bahrain	8645,5162,1
@@ -2045,6 +2049,7 @@ Kings College	12227
 Kings Order	12893
 Kings Tower	778
 Kingsburgh	5569
+Kingsford Obeng	19977
 Kingsley	740
 Kingsley Samuel The Federal Government	8627
 Kingsley Udeh	8824
@@ -2155,6 +2160,7 @@ Kinsuka. Mme le DG	15670
 Kintambo	16548,19
 Kintambo Objet	10400
 Kintambo. L'autorité	16548
+Kintampo Health Research Centre	19974
 Kintele	987,2186,55
 Kintelé	1299
 Kintinga Issouf	2603
@@ -2239,6 +2245,7 @@ Kira Mama	19645
 Kira Municipality	11848,7951
 Kira Municipality MP	19778
 Kira. Another	9696
+Kiracho EE	19974
 Kiragiranira	13303
 Kiragu	16858
 Kiragu Kimani and Immanuel Mbita	9645
@@ -2389,7 +2396,7 @@ Kissy Road	18583
 Kistnasamy B	14666
 Kisu Simwaka	5831
 Kisubi Associated Writers Agency	11022
-Kisumu	1857,660,151,1893,573,779,778,175,80,3367,151,1687,105,998,1090
+Kisumu	1857,660,151,1893,573,779,778,175,80,3367,151,1687,105,998,1090,5630
 Kisumu Central	2668
 Kisumu Central Constituency	10313
 Kisumu Central MP Shakeel Shabir	10654
@@ -3341,7 +3348,7 @@ Under the KIX	19657
 Under the Kigali Agreement	15860
 United International Kingdom	19900
 United International Kingdom Virtual University	19900
-United Kingdom	10,563,216,181,68,205,311,260,735,77,149,149,24,404,161,70,864,525,63,74,93,45,32,23,185,124,5,59,197,136,161,347,274,59,97,51,102,99,253,97,71,197,29,8,412,175,131,218,278,29,25,106,122,9,101,44,142,53,8,126,124,132,67,63,52,317,102,25,4,67,56,5,103,182,3,1,19,15,5,5,13,107,273,37,259,54,18,85,126,57,168,442,104,118,68,14,210,102,146,29,76,62,67,752,107,48,21,8,3,21,5,14,26,26,51,1,100,95,280,99,35,114,385,431,192,148,82,9,7,231,107,23,132,378,35,28,62,36,79,140,490,62,227,698,20,40,70
+United Kingdom	10,563,216,181,68,205,311,260,735,77,149,149,24,404,161,70,864,525,63,74,93,45,32,23,185,124,5,59,197,136,161,347,274,59,97,51,102,99,253,97,71,197,29,8,412,175,131,218,278,29,25,106,122,9,101,44,142,53,8,126,124,132,67,63,52,317,102,25,4,67,56,5,103,182,3,1,19,15,5,5,13,107,273,37,259,54,18,85,126,57,168,442,104,118,68,14,210,102,146,29,76,62,67,752,107,48,21,8,3,21,5,14,26,26,51,1,100,95,280,99,35,114,385,431,192,148,82,9,7,231,107,23,132,378,35,28,62,36,79,140,490,62,227,698,20,40,70,208
 United Kingdom Centers for Disease Control and Prevention	16860
 United Kingdom Corresponding Author	12025
 United Kingdom EUR HI	17743

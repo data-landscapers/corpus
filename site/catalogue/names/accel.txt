@@ -34,7 +34,7 @@ Abu Dhabi Accelerator Acquisition Africa Agritech	5322
 Acceler8	12540
 Accelera Cloud Program	4144
 Accelerat-	8606
-Accelerate	1814,71,2241,1119,91,1407,205,91,168,2866,357,704,6,717,59,48,250,145,36,4,94,70,117,295,337,2,104,69,381,154,652,49,25,4,66,1,73,30,25,50,111,442,427,2,209,719,32,12,19,1,4,139,25,18,103,44,566,328,339,40,51,303,603,37,31,75
+Accelerate	1814,71,2241,1119,91,1407,205,91,168,2866,357,704,6,717,59,48,250,145,36,4,94,70,117,295,337,2,104,69,381,154,652,49,25,4,66,1,73,30,25,50,111,442,427,2,209,719,32,12,19,1,4,139,25,18,103,44,566,328,339,40,51,303,603,37,31,75,289
 Accelerate AI	4126
 Accelerate AI Adoption	4126
 Accelerate AI Invest	4126
@@ -132,7 +132,7 @@ Accelerated Transformation Plan for Development	15518
 Accelerated and Inclusive Growth. Washington	10841
 Accelerates	12359,2588
 Accelerates Its Digital Transformation	5125
-Accelerating	411,1011,355,1614,65,31,117,1929,518,488,863,202,3114,422,53,3,273,278,467,19,45,51,70,164,196,587,522,15,55,736,55,16,74,207,487,40,209,288,811,112,11,12,261,39,109,26,72,487,172,187,659,630,39
+Accelerating	411,1011,355,1614,65,31,117,1929,518,488,863,202,3114,422,53,3,273,278,467,19,45,51,70,164,196,587,522,15,55,736,55,16,74,207,487,40,209,288,811,112,11,12,261,39,109,26,72,487,172,187,659,630,39,260,29
 Accelerating AI	1814,3234,6092
 Accelerating AI Investment Figure	1814
 Accelerating AU Member States	1814
@@ -153,6 +153,7 @@ Accelerating Digitalization Program	15658
 Accelerating Digitalization. Approach Paper	19245
 Accelerating Digitization	10768
 Accelerating Economic Transformation and Building Resilience	13685
+Accelerating Economic Transformation and Creating Jobs	19966
 Accelerating FinTech Growth	6653
 Accelerating Gender Equality To End Poverty	1867
 Accelerating Governance Institutional Reforms	11905
@@ -301,10 +302,10 @@ Description Accelerates Mozambique	996
 Description Accelerates Rwanda	784
 Description Accelerates the Congo Republic	987
 Digital Acceleration	1176,10199,839,213,4012
-Digital Acceleration Plan	14674
+Digital Acceleration Plan	14674,5292
 Digital Acceleration Program World Bank Projects	3604
 Digital Acceleration Programme	8824
-Digital Acceleration Project	1228,413,1602,447,90,873,765,178,733,5642,243,39,2421,292,53,494,108,3624,30
+Digital Acceleration Project	1228,413,1602,447,90,873,765,178,733,5642,243,39,2421,292,53,494,108,3624,30,682
 Digital Acceleration Project Project ID Financing	15621
 Digital Acceleration Project The Government of Malawi	12253
 Digital Acceleration Project World Bank Group	784
@@ -368,8 +369,9 @@ GIRLS' EDUCATION ACCELERATOR Submitted By Federal	13999
 GLOSSARY A ACCELERATOR	14879
 GPU Technologies Accelerator Educational B1- Volume	7548
 Ghana Accelerated National Reserve Accumulation Policy	7695
-Ghana Digital Acceleration Project	3250,3027,2490,3100,4121,414,2843
-Ghana Digital Acceleration Project World Bank	979
+Ghana Digital Acceleration Plan	19966
+Ghana Digital Acceleration Project	3250,3027,2490,3100,4121,414,2843,721,15
+Ghana Digital Acceleration Project World Bank	979,18987
 Ghana ICT for Accelerated Development Policy	15629
 Ghana Integrated ICT for Accelerated Development Policy	4126
 Ghana's National ICT for Accelerated Development	7954
@@ -528,7 +530,7 @@ Results Report Congo Digital Acceleration Project	11971
 Rwanda Digital Acceleration Project	607,111,2680,206,463,899,1580,5787,998,1749,473
 SEACOM and EASSy. Under the Malawi Digital Acceleration	14674
 SEC’s Accelerated Regulatory Incubation Programme	9285,469
-SME Accelerate	9840
+SME Accelerate	9840,10126
 SMEs Enhanced Through the Xport Accelerator Programme	11332
 SOUTHERN Digital Malawi Acceleration P505095	1704
 Salone Off-Grid Renewable Energy Acceleration	18509
@@ -580,6 +582,7 @@ Togo Togo Digital Acceleration Project Environmental	19245
 TogoX Accelerator.49 Through	19245
 Tower Related Charges P-9 Accelerate Telecoms	11857
 Training Acceleration Implement	12508
+Transform and Ghana Digital Acceleration Programme	19966
 Transformation Accelerating	13347
 UGANDA UGANDA DIGITAL ACCELERATION PROJECT	11750
 UN Global Compact SDG Innovation Accelerator	8035
@@ -619,6 +622,7 @@ World Bank Senegal Digital Economy Acceleration	18359
 World Bank Togo Digital Acceleration	19245
 World Bank's Digital Acceleration Project	11918,4042
 World Bank-backed Digital Malawi Acceleration Project	19817
+World Bank-backed Ghana Digital Acceleration	19981
 World Bank-backed Kenya Digital Economy Acceleration	6587
 World Bank-financed Angola Digital Acceleration Project	10765,10
 World Bank-financed Program Name PACTE-ESRI Accelerating	17458

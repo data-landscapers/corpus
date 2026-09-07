@@ -34,7 +34,7 @@ African Journal of Education	11927
 African Journal of Empirical Research	12467
 African Journal of Entrepreneurship and Innovations	6948
 African Journal of Information Systems	8856
-African Journal of Information and Communication	12948
+African Journal of Information and Communication	12948,6996
 African Journal of Innovation and Entrepreneurship	6948
 African Journal of Inter	7759
 African Journal of Land Policy and Geospatial Sciences	12369,7505
@@ -208,7 +208,7 @@ Educational Journal	2093
 Egypt CRVS Journey	16520
 Egypt's Pioneering Journey Towards Financial Inclusion	19875
 Electronic Journal	12467
-Electronic Journal of Information Systems	5349,5377,7024,1
+Electronic Journal of Information Systems	5349,5377,7024,1,2193
 Electronic Journal of Knowledge Management	8021
 Electronic Journals and Scientific Databases In Ministry	12325
 Emile OUOSSO Journal	15848
@@ -267,9 +267,11 @@ Gambia Journal	4967,30
 General Federation of Sudanese Journalists	15342
 Ghana Innovation Journal	8025
 Ghana Journalists Association	3691,6451,897
+Ghana. Asian Journal of Research	19944
 Ghana. Data Science Journal	12090
 Ghana. International Journal of Social Economics	7886
 Ghana. Journal of African Digital Policy and Governance	6936
+Ghana. Journal of Consumer Marketing	19944
 Gilbert Gilbert Journal	17751
 Global Health Journal	2518,430
 Global Journal	9128
@@ -329,6 +331,7 @@ India’s Digital Journey	11140
 Information Systems Journal	226,1867
 Information Technology. International Journal of Innovations	11265
 Integrated Company Creation Journey	12259
+Integrated Perspective. African Journal of Business	19944
 International Committee of Medical Journal Editors	11585
 International Journal	2518,1914,3589,583,524,3339
 International Journal CRediT	9129
@@ -392,6 +395,7 @@ International Journal of Urban Sustainable Development	15473
 International Journal of Water Resources Development	17701
 International Journalism	6946
 International Meetings and Journals Research Association	19900
+International Organisations Research Journal	19944
 International Research Journal of Education and Technology	8022
 International Small Business Journal	2093
 Investigative Journalists	3279,85
@@ -706,6 +710,7 @@ Journal of Research	8602,526,488
 Journal of Research Results and Literature Review	2093
 Journal of Resources Development and Management	4432
 Journal of Risk and Financial Management	7759,4
+Journal of Rural Health	19944
 Journal of Science and Technology Policy Management	7759
 Journal of Selected Topics	14769
 Journal of Services Marketing	8460
@@ -727,7 +732,7 @@ Journal of Vocational Education and Training	6832
 Journal of Workplace Learning	8021
 Journalis	14775
 Journalisation	15472
-Journalism	2320,1219,1044,376,19,1100,180,1837,2014,1525,615,182,495,535,653,1228,2095,1104
+Journalism	2320,1219,1044,376,19,1100,180,1837,2014,1525,615,182,495,535,653,1228,2095,1104,1410
 Journalism Fund SA	13461
 Journalism NPC and Another	13461
 Journalism and Information	14775
@@ -824,6 +829,7 @@ LA POPULATION Journal	15524
 LOIS JOURNAL OFFICIEL DE LA REPUBLIQUE	15767
 La Journée	3591,5696,55,8885
 La Journée Africaine	9638
+Labari Journal	19972,9
 Lancement des Journées	19037
 Le Jour	302,1112,16,714,1384,2591,370,4486
 Le Jour's	302

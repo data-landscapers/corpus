@@ -34,7 +34,7 @@ Act ENTITLED THE TAX PROCEDURES CODE	19769
 Act. Nigeria Tax Administration Act	11976
 Actual Collections of Taxes and Fees	13418
 Actual Domestic Taxes Net Revenue	12951
-Added Tax	236,918,130,2023,1206,186,197,455,304,799,15,320,449,501,629,206,16,523,308,308,140,333,186,31,619,114,107,39,625,32,21,200,15,17,177,9,1,2,3,22,17,6,7,31,17,98,26,52,46,43,183,3,102,69,49,179,274,401,31,701,21,7,43,3,101,36,17,199,416,438,904,69,94,3,1001,151,25,33,507,62,640,7,51,17
+Added Tax	236,918,130,2023,1206,186,197,455,304,799,15,320,449,501,629,206,16,523,308,308,140,333,186,31,619,114,107,39,625,32,21,200,15,17,177,9,1,2,3,22,17,6,7,31,17,98,26,52,46,43,183,3,102,69,49,179,274,401,31,701,21,7,43,3,101,36,17,199,416,438,904,69,94,3,1001,151,25,33,507,62,640,7,51,17,355
 Added Tax Act	4896,2025,3102,1924,562,115,5,1,622,98,1,255,809,39,263,2,18,47,25,19,3,12,1195,930,140,2419,7,51,17,25
 Added Tax Act Ca	13403
 Added Tax Amount of Tax N	11976
@@ -147,7 +147,7 @@ Benin Tax Application Base Current	10856
 Benin's Directorate General of Taxes	1724
 Benin. Tax	10856
 Benue State Tax Controller	18260
-Betting Tax	7695
+Betting Tax	7695,12271
 Bilateral Investment and Taxation Treaties The Eritrean	14008
 Bill the Senate the House of Representatives Nigeria Tax	11976
 Billions RWF Fiscal Year Taxes Fees	13418
@@ -266,6 +266,7 @@ Commissioner of Domestic Taxes	5347
 Commissioner of Tax Gayathri Chetty	7163
 Committee Nigeria Tax Administration Act	11976
 Communication TVA Taxe	10876
+Communications Service Tax	19957,9
 Community Preferencial Tax	18285
 Community Solidarity Tax	18285
 Companies Income Tax	9869
@@ -1021,6 +1022,7 @@ MoF Tax Directorate. Sub-Component	18825
 MoR Medium Taxpayers No	7909
 Mobile Money Taxes and Affordability	5234
 Mobile Sector Taxation	15205
+Mobile Sector Taxes	19966
 Model Taxpayer	7909
 Model and Methodology for Value-Added Tax Gap Estimation	13624
 Modern Tax System02 Conclusion03 CONTENT	10762
@@ -1408,7 +1410,7 @@ Standard Integrated Tax Administration System	17011
 Standing Tax Certificate	13037
 State Minister for Tax Operations Division	12500
 State Power of Taxation	13948
-Statistical System Effective Administration Tax	10759,78,1315,188
+Statistical System Effective Administration Tax	10759,78,1315,188,7598
 Statistics Tax Portal Tax Tools Tax	12454
 Still Highly Volatile Tax Revenue	1828
 Strengthen Tax Policy Formulation and Tax Administration	13910,5937
@@ -1734,7 +1736,7 @@ Tax ID. CHAPTER	11976
 Tax ID. Nigeria Tax Administration Act	11976
 Tax IDs	9956,2020
 Tax Identification	14897,3286
-Tax Identification Number	3161,574,203,17,647,254,2065,774,51,2318,701,10,1247,235,173,1176,756,606,117,1870,664,831,258,221,589,9,30,210,18
+Tax Identification Number	3161,574,203,17,647,254,2065,774,51,2318,701,10,1247,235,173,1176,756,606,117,1870,664,831,258,221,589,9,30,210,18,150,1
 Tax Identification Number TSA Treasury Single	19647
 Tax Identification Numbers	9570,3430,1484,664,3560,1088
 Tax Incentive Returns	11976
@@ -1902,7 +1904,7 @@ Tax Stamp	11955
 Tax Statistics	14935,62
 Tax Statistics Bulletin and Monthly Bulletins	13479
 Tax Submission History Select	12497
-Tax System	17011,1670
+Tax System	17011,1670,1263
 Tax System Modernization Plan	10997
 Tax System for Regional Integration	13624
 Tax Systems Division	12500
@@ -2059,7 +2061,7 @@ Taxas de Resposta	10777
 Taxas de Resposta Número Taxas	18762
 Taxas de Telecomunicações	18784
 Taxas. Artigo	15391
-Taxation	7,1116,3773,383,1314,1102,1372,95,2794,20,215,194,4,287,272,3,363,634,726,258,65,180,28,275,86,231,223,27,281,307,241,66,69,97,1340,160,1067
+Taxation	7,1116,3773,383,1314,1102,1372,95,2794,20,215,194,4,287,272,3,363,634,726,258,65,180,28,275,86,231,223,27,281,307,241,66,69,97,1340,160,1067,282,9
 Taxation Act	3583,9539,5472,14,53
 Taxation Amendment Act	18594
 Taxation Authority LRA Lesotho Revenue Authority	16631
@@ -2072,6 +2074,7 @@ Taxation Regime	14932
 Taxation Taxes	16942
 Taxation The Authority	13053
 Taxation The Council	1154
+Taxation The Customs Division	19943
 Taxation Without Information	18318
 Taxation and Development	1828
 Taxation and Financial Crimes Department	13466

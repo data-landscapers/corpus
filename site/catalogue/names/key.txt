@@ -41,6 +41,7 @@ Auditor General Maintains Key Findings	9650
 Autentika Cabo Verde Mobile Digital Key	11875
 Automatic Weather Stations. Key Objectives	12728
 Aweno Norman Keywords	18694
+Azure Key Vault and Google Cloud KMS	19968
 B. KEY FACTORS DURING IMPLEMENTATION	15424,87,90,62,68,705,516,910,100,803
 B. KEY FACTORS DURING IMPLEMENTATION Factors	11924
 B. KEY OUTPUTS BY COMPONENT Component	15601
@@ -799,7 +800,7 @@ Key Implications	9530
 Key Improvements Mobilization	16973
 Key Income Statement Indicators	17235
 Key Indicator	9772
-Key Indicators	12675,2260,1679,1248,892,788,2,69
+Key Indicators	12675,2260,1679,1248,892,788,2,69,353
 Key Indicators Data Collection Tools Frequency	16975
 Key Indicators Report Ethiopian Statistical Service	14067
 Key Indicators Report Federal Democratic Republic	14067
@@ -926,6 +927,7 @@ Key Performance Baseline Target Data	17260
 Key Performance Highlights	11297
 Key Performance Indicator	3898,2202,732,5524,1635,1099,59,1814,2838
 Key Performance Indicator KSAD	6832
+Key Performance Indicator KYC Know	19940
 Key Performance Indicator LLM Large Language	12512
 Key Performance Indicator MARENA Mauritius Renewable	14745
 Key Performance Indicator MDAs Ministries	4126
@@ -1141,11 +1143,12 @@ Keypoints	4723
 Keyrock and Bitso	9367
 Keyse	15025
 Keystone	11922,1602
+Keystone Bank	19980
 Keystone Bank Limited	4771
 Keyuren Maharaj	9952
 Keyword	13949
 Keyword&text1	5349
-Keywords	680,86,5,448,42,563,269,425,430,834,9,641,302,615,1196,733,453,28,127,136,108,171,135,168,1,524,108,1543,101,38,188,486,3,331,98,153,77,212,2167,32,457,470,673,1273,234,7,865,79,915,184,77,26
+Keywords	680,86,5,448,42,563,269,425,430,834,9,641,302,615,1196,733,453,28,127,136,108,171,135,168,1,524,108,1543,101,38,188,486,3,331,98,153,77,212,2167,32,457,470,673,1273,234,7,865,79,915,184,77,26,18
 Keywords AI	8283
 Keywords Electronic	10784,1541
 Keywords Employment Unemployment Labour Force Participation	19613

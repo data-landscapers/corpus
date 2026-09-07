@@ -254,7 +254,7 @@ Gasóleo	17100,1657
 Gas’ Industrial Revolution	19642
 Gataraga Gashaki Gatebe Manyagiro Shangasha Ngarama	12413
 Gatare. In Gasabo District	4941
-Ghana National Gas Company	15740,164
+Ghana National Gas Company	15740,164,4072
 Global Forest Observation Initiative GEI Gases	16875
 Green House Gas	12256,1824,1579,485,2309,356,854,14
 Greenhouse Gas	789,13955,667,1729
@@ -416,6 +416,7 @@ Project Preparation GFPP Greenhouse Gases GHG	11417
 Promoting Exploration of Oil and Gas	13060
 Promoting Gas Power Market Integration	7426
 Proyecto de Gas Natural Licuado de Guinea Ecuatorial	1701
+Publication of Natural Gas Tariffs	19976
 RECURSOS Y GASTOS PÚBLICOS CAPÍTULO	4209
 ReconAfrica Confirms Gas Beneath the Kalahari Desert	5407,676
 Regulator OCGT Open-Cycle Gas Turbine PV	11228
@@ -457,8 +458,12 @@ Violence GHG Green House Gas GM	18504
 Violence and Harassment GHG Greenhouse Gas GIIP	1818
 Water Connection Natural Gas Network Connection	15578
 Water Supply Connections Connecting the Natural Gas	15578
+Weighted Average Cost of Gas	19976
+Weighted Average Gas Commodity Charge	19976
+Weighted Average Gas Service Cost	19976
+Weighted Average Gas Transmission Service	19976
 West Africa GHG Greenhouse Gas GIF	15983
-West African Gas Pipeline	19239
+West African Gas Pipeline	19239,737
 West African Gas Pipeline Company	15740
 Wet Flue Gas Desulphurisation	11223
 Wh Kilowatt-hour LPG Liquefied Petroleum Gas	12399

@@ -18,7 +18,7 @@ ANNEX VI CRITERIA FOR EVALUATION	16843
 ANNUAL CRIME TRENDS	19772
 ASSEGURAR A CRIAÇÃO DOS PARQUES TECNOLÓGICOS	11397
 Abrogation CRISTAL Décision	998
-Absence of Crime	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Absence of Crime	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Academia Criteria	12376
 Accelerate War Crimes Court	17139
 Acceptance Criteria	5665
@@ -377,7 +377,7 @@ Crichton&author	766
 Cricket	8884
 Cridem	7707
 Crier	13300
-Crime	3,4124,3320,1950,2,217,1134,226,201,11,97,589,7,1,310,109,45,155,138,314,3,16,1622,166,1085,1151,1481,1269
+Crime	3,4124,3320,1950,2,217,1134,226,201,11,97,589,7,1,310,109,45,155,138,314,3,16,1622,166,1085,1151,1481,1269,205
 Crime Act	18457
 Crime Against Person Crime Against Property	14760
 Crime Against Property	14760
@@ -685,7 +685,7 @@ Criterion	3321,4227,9376
 Criterion How It’s Proven	15080
 Criterios	414,1287,15154
 Criterios Determinantes	16855
-Critical	26,755,2,116,59,196,130,493,1,109,53,649,138,60,397,1,29,369,21,257,664,100,235,384,3,304,114,12,420,91,85,159,516,225,132,243,40,298,80,21,296,177,663,6,637,89,162,51,131,1,521,44,10,6,210,4,136,4,5,86,46,13,116,68,436,50,31,9,115,122,70,57,62,6,17,9,179,285,125,11,110,43,125,1,819,8,282,41,453,30,32,182,163,211,105,73,481,672,40,15,3,24,45,88,15,26,17,103,702,408,115,15,29,8,91,17,79,85,122,170,136,218,207,28,70,41,46
+Critical	26,755,2,116,59,196,130,493,1,109,53,649,138,60,397,1,29,369,21,257,664,100,235,384,3,304,114,12,420,91,85,159,516,225,132,243,40,298,80,21,296,177,663,6,637,89,162,51,131,1,521,44,10,6,210,4,136,4,5,86,46,13,116,68,436,50,31,9,115,122,70,57,62,6,17,9,179,285,125,11,110,43,125,1,819,8,282,41,453,30,32,182,163,211,105,73,481,672,40,15,3,24,45,88,15,26,17,103,702,408,115,15,29,8,91,17,79,85,122,170,136,218,207,28,70,41,46,117
 Critical Alerts Should Never Auto-Diffuse	17969
 Critical Areas Seed Distribution Orange Alert	17157
 Critical Assessment Information	13477
@@ -982,6 +982,7 @@ ELIGIBILITY CRITERIA AND ENTITLEMENT MATRIX	17114
 ELIGIBILITY CRITERIA AND ENTITLEMENT MATRIX Project	17114
 ELIGIBILITY CRITERIA The Ministry	13037
 EN SITUATION DE CRISE Article	15792
+EOCO Economic and Organised Crime Office EPI	19940
 EU’s Critical Raw Materials Act	10592
 EVALUATION AND QUALIFICATION CRITERIA	15080
 EVALUATION CRITERIA	13031
@@ -1094,7 +1095,7 @@ Fit and Proper Criteria for Key Officials of Payment	15794
 Fit and Proper Person Criteria	14834
 Food Crisis	15589
 Food Crisis Unit	18198
-Forced Labour Absence of Crime Public Perception	10759,78,1315,188
+Forced Labour Absence of Crime Public Perception	10759,78,1315,188,7598
 Forces Armées Centrafricaines FCR Financial Crime	15415
 Forfeiture of Proceeds of Crime Act	13403
 Forfeiture of Proceeds of Crimes Act	2726,1
@@ -1362,6 +1363,7 @@ National Water Crisis Committee	8599
 Nenhum Básico Secundário Percentagem Crianças	18762
 Nexus Between Organized Crime and Terrorism	9616
 Nigeria Police Crime and Incident Database Centre	11928
+Nigeria's Critical National Information Infrastructure Order	19966
 Nigeria’s Critical National Information Infrastructure	8983
 Nigeria’s Data Protection Crisis	6770
 No.7 The Cyber Securiry and Crime Act	18457
@@ -1377,6 +1379,7 @@ Occurrence Incidence Criticité	10874
 Opioid Crisis	4426
 Oral Presentation Evaluation Criteria	11252
 Oral Presentation Evaluation Criteria WEIGHT CRITERIA	11252
+Organisation EOCO Economic and Organised Crime Office	19937
 Organisation Internationale de Police Criminelle	15452
 Organized Crime and Corruption Reporting Project	13537,1764
 Organized Crime and Violence. Cover	4127

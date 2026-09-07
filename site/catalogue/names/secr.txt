@@ -117,6 +117,7 @@ Africa Summit Secretariat	6097
 Africa. AfCFTA Secretary-General	9154
 Africa. Kenya's Cabinet Secretary for Information	5586
 African Continental Free Trade Area Secretariat	10819
+African Development Bank. The Executive Secretary	19959
 African Telecommunications Union Secretariat	7562
 African Union and AfCFTA Secretariat	5201
 Afrique. Le Secrétaire	11051
@@ -649,7 +650,7 @@ Executive Secretariat for ICT	2840,10472,2,17
 Executive Secretariat for Telecommunications	13314
 Executive Secretariat of ICT	13312,2
 Executive Secretariat of Information and Communication	13395
-Executive Secretary	1474,80,754,1444,1189,28,382,122,19,297,28,182,311,82,546,356,29,553,684,194,64,626,397,328,475,72,106,231,815,177,293,75,1005,59,524,408,647,2589,561,5,17,12,6,192,21,72,61,97
+Executive Secretary	1474,80,754,1444,1189,28,382,122,19,297,28,182,311,82,546,356,29,553,684,194,64,626,397,328,475,72,106,231,815,177,293,75,1005,59,524,408,647,2589,561,5,17,12,6,192,21,72,61,97,1270
 Executive Secretary Albert Nsengiyumva	10359
 Executive Secretary Dr. Ally Yahaya Simba	15120
 Executive Secretary Gatete	8754
@@ -778,6 +779,7 @@ Georges KONE Secrétaire	17899
 Geremi KONE Souleymane DIALLO Secrétaire	18032
 Gestion de Secrétaire	17982
 Gestão da Educação Secretaria Provincial da Educação Taxa	10766
+Ghana OGP Secretariat	19937
 Gilbert SAMAKE Secrétaire	17899
 Global Partnership for Education Secretariat	16272
 Gobernador Provincial Secretario Administrativo	4209
@@ -930,6 +932,7 @@ Joint SDG Fund Secretariat	19571
 Joint Secretariat	18529
 Joint Secretary	2667,7082,8909
 Judicial Commissions Secretariat JCS Justice	12920
+Judicial Secretary	19951
 Judiciary Service Commission Secretary	13507
 Juez Primera Instancia Secretario Audiencia Provincia	4209
 Julia Romary MOMBO. Secrétaires	16381
@@ -1003,6 +1006,7 @@ La Secrétaire	7956
 Ladji DEMBELE Secrétaire	17841
 Lagos State. DSVA Executive Secretary Vivour-Adeniyi	2445
 Lamine KOLOMA Secrétaire	18003
+Lands Commission's Executive Secretary	19981
 Lands Secretary Sarah Maina	3374
 Laptops for Permanent Secretaries	2779
 Lassana TOURE Secrétaire	17829
@@ -1334,7 +1338,7 @@ OACPS Secretariat	12675
 OATH OF SECRECY	19526
 OGP Liberia Secretariat	17037
 OGP Nigeria Secretariat. Report	11866
-OGP Secretariat	11866,1140,4031,1188
+OGP Secretariat	11866,1140,4031,1188,1712
 OGP Secretariat Published	13006
 OHADA. Le Secrétaire Permanent	18905
 OPEN SECRETS	14673
@@ -1636,6 +1640,7 @@ Rasel KONE Secrétaire	18032
 Rassemblement Secrétaire	17828
 Ra’eesa Pather and Cheriese Dilrajh for Open Secrets	7910
 Recruitment and Good Governance Secretariat	19519
+Reform Secretariat PWD Persons	19937
 Refugee Affairs Secretariat	12227
 Refugee Secretariat	12227
 Region and The Secretariat	16867
@@ -1935,7 +1940,7 @@ Secretarias Fiscalías de Salas	4209
 Secretarias Fiscalías de Salas Servicio	4209
 Secretarias Municipais	10766
 Secretarias Municipais Virtuais	1808
-Secretariat	21,5,1,1,290,269,184,169,22,20,172,89,21,290,1922,107,278,242,425,1173,426,217,297,221,177,222,191,70,1,25,215,535,69,102,58,212,296,118,15,39,48,106,221,348,29,198,12,17,1,73,53,4,4,24,131,364,24,265,9,134,493,32,1,8,1,93,16,142,87,30,163,6,12,156,34,6,6,84,32,1,241,2,14,4,15,11,10,6,64,398,37,86,719,29,19,79,25,40,19,11,12,158,5,51,44,26,19,116,195,454,20,13,24,204,56,296,44,270,88,231,3,3,3,28,49,11,13,7,5,58,170,187,255,4,20,14,16,80,121,1,15,77,326,5,133,3,26,2,2,5,59,22,25,70,259,160,23,95,334,66,44,28,150,40,27
+Secretariat	21,5,1,1,290,269,184,169,22,20,172,89,21,290,1922,107,278,242,425,1173,426,217,297,221,177,222,191,70,1,25,215,535,69,102,58,212,296,118,15,39,48,106,221,348,29,198,12,17,1,73,53,4,4,24,131,364,24,265,9,134,493,32,1,8,1,93,16,142,87,30,163,6,12,156,34,6,6,84,32,1,241,2,14,4,15,11,10,6,64,398,37,86,719,29,19,79,25,40,19,11,12,158,5,51,44,26,19,116,195,454,20,13,24,204,56,296,44,270,88,231,3,3,3,28,49,11,13,7,5,58,170,187,255,4,20,14,16,80,121,1,15,77,326,5,133,3,26,2,2,5,59,22,25,70,259,160,23,95,334,66,44,28,150,40,27,63,28
 Secretariat ARTICLE	14409
 Secretariat African Financial Stablity Committee	6938
 Secretariat Arusha	11806,1845
@@ -2085,7 +2090,7 @@ Secretarios Técnicos	4209
 Secretarios de Estado	1855,4986
 Secretarios de Estado. En	6841
 Secretarios de Mesa	4209
-Secretary	11,576,149,47,231,206,334,224,221,382,1,8,162,115,253,5,9,579,374,744,441,1272,136,302,156,8,96,140,282,315,66,93,650,393,329,644,109,16,150,900,2,3,445,278,3,116,15,4,150,6,89,1,82,41,3,86,82,109,1,16,227,6,11,5,91,47,5,27,16,31,62,92,6,18,11,2,14,7,4,2,26,21,11,14,55,32,138,767,13,27,54,52,161,6,13,8,13,12,6,4,41,5,4,7,8,184,28,285,53,66,796,76,499,3,3,79,6,236,385,243,231,160,29,229,3,3,5,18,2,1,1,1,7,66,22,133,197,268,357,1,6,1,100,4,30,55,13,9,68
+Secretary	11,576,149,47,231,206,334,224,221,382,1,8,162,115,253,5,9,579,374,744,441,1272,136,302,156,8,96,140,282,315,66,93,650,393,329,644,109,16,150,900,2,3,445,278,3,116,15,4,150,6,89,1,82,41,3,86,82,109,1,16,227,6,11,5,91,47,5,27,16,31,62,92,6,18,11,2,14,7,4,2,26,21,11,14,55,32,138,767,13,27,54,52,161,6,13,8,13,12,6,4,41,5,4,7,8,184,28,285,53,66,796,76,499,3,3,79,6,236,385,243,231,160,29,229,3,3,5,18,2,1,1,1,7,66,22,133,197,268,357,1,6,1,100,4,30,55,13,9,68,156
 Secretary Absent	17317
 Secretary Administration	12433,2034
 Secretary Adv. Kedilatile Legodi NATIONAL CREDIT	11198

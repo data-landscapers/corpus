@@ -366,6 +366,8 @@ Federal Ministry of Industry	9035,841,281,1869,6497
 Federation of Egyptian Industries	15604
 Female Male Other Services Industry	12445
 Film Industry Production Scheme	11236
+FinTech Industry Performance	19940
+FinTech Industry Performance The Mobile Money	19940
 Finance Other Services Industry Education Health	12445
 Financial Industry Command Security Operations Centre	14691
 Financial Industry Cyber Council	4073
@@ -572,7 +574,7 @@ Industria	1701,2508,2632,3086,434,1181,5356,1862
 Industria Excelentísimo	1855
 Industria de Guinea Ecuatorial	17175
 Industriais	15772
-Industrial	736,39,788,265,1008,1025,815,1582,1055,418,56,2370,689,123,165,15,735,1,10,60,204,1,45,51,95,4,14,27,40,51,898,569,765,27,69,21,43,148,103,242,101,79,52,109,59,1083,17,28,96,15,89,40,110,374,246,565,106,216,776,32,68,9,70,150,3
+Industrial	736,39,788,265,1008,1025,815,1582,1055,418,56,2370,689,123,165,15,735,1,10,60,204,1,45,51,95,4,14,27,40,51,898,569,765,27,69,21,43,148,103,242,101,79,52,109,59,1083,17,28,96,15,89,40,110,374,246,565,106,216,776,32,68,9,70,150,3,111
 Industrial Accommodation	17114
 Industrial Applicability	12389
 Industrial Area Prison	9188
@@ -818,7 +820,7 @@ Industries Transparency Initiative FDI Foreign Direct	16996
 Industries and Real Estate	2775
 Industries de Réseau AER Agence	10975
 Industries-	18323,4
-Industry	11,576,202,169,42,131,857,276,65,76,172,90,108,1,77,93,11,146,118,70,62,225,284,71,188,47,27,64,100,73,151,18,8,23,143,43,30,132,230,31,4,1,1,2,117,215,14,32,145,2,26,2,20,58,142,48,162,58,75,48,27,119,105,25,44,2,13,25,1,58,10,31,11,10,41,1,10,2,72,41,5,93,45,44,8,22,124,136,10,12,54,262,33,113,108,77,1,13,19,1,48,72,1,2,50,1,44,53,75,17,184,47,36,84,88,83,3,24,84,74,111,142,223,33,32,104,102,151,104,150,125,268,92,89,97,1,5,12,32,81,67,137,112,238,38,95,12,62,7,2,6,173,19,28,8,87,20,9,15,44,1,8,40,14,87,50,31,26,58,84,61,31,37,65,35,116,124,2,17,14,3,37,55,80,42,70,22,51,194,39,86,135,138,94,267,16,50,5,41,49,48,12,12,6,100,2,517,62,101,34,76,542,318,212,25,14,73,2,21,15,27,40,21,6,34,10,8,59,19,6,19,107,1,324,67,111,574,39,58,256,54,34,8,5,52,20,275,298,13,29,17,11,29,24,159,22,85
+Industry	11,576,202,169,42,131,857,276,65,76,172,90,108,1,77,93,11,146,118,70,62,225,284,71,188,47,27,64,100,73,151,18,8,23,143,43,30,132,230,31,4,1,1,2,117,215,14,32,145,2,26,2,20,58,142,48,162,58,75,48,27,119,105,25,44,2,13,25,1,58,10,31,11,10,41,1,10,2,72,41,5,93,45,44,8,22,124,136,10,12,54,262,33,113,108,77,1,13,19,1,48,72,1,2,50,1,44,53,75,17,184,47,36,84,88,83,3,24,84,74,111,142,223,33,32,104,102,151,104,150,125,268,92,89,97,1,5,12,32,81,67,137,112,238,38,95,12,62,7,2,6,173,19,28,8,87,20,9,15,44,1,8,40,14,87,50,31,26,58,84,61,31,37,65,35,116,124,2,17,14,3,37,55,80,42,70,22,51,194,39,86,135,138,94,267,16,50,5,41,49,48,12,12,6,100,2,517,62,101,34,76,542,318,212,25,14,73,2,21,15,27,40,21,6,34,10,8,59,19,6,19,107,1,324,67,111,574,39,58,256,54,34,8,5,52,20,275,298,13,29,17,11,29,24,159,22,85,8,26,9
 Industry Actors Providers	17099
 Industry Advisory Boards	14566
 Industry Affairs Harding Tommy	18444
@@ -860,7 +862,7 @@ Industry Finance Health	12445
 Industry Finance Health Total Graph	12445
 Industry Finance Micro	12445
 Industry Financial Report	3862
-Industry Forum	11,576,6349
+Industry Forum	11,576,6349,13015
 Industry Forum Establishment of Industry Forum	11
 Industry Fraud Report	11138
 Industry GIEPA Gambia Investment and Export Promotion	16927
@@ -888,7 +890,7 @@ Industry Needs	14566
 Industry Needs Assessment New Standard Request	15127
 Industry Outlook	1243
 Industry Partners Lead Institutions	6936
-Industry Performance	4818
+Industry Performance	4818,15135
 Industry Performance Monitoring	408
 Industry Players	395,9965,6739
 Industry Players Expand	17099
@@ -905,7 +907,7 @@ Industry Revolution	14752
 Industry Sector	17114
 Industry Sector Environmental Health and Safety Guidelines	1988
 Industry Services and Solutions	6593,1232,3178,1,13,977,2099
-Industry Services and Solutions and Outreach	10856,1529,2820
+Industry Services and Solutions and Outreach	10856,1529,2820,4761
 Industry Skills Committees	12934
 Industry Stakeholders. LTA	1777
 Industry Stakeholders. Promote	1777
@@ -963,6 +965,7 @@ Industry and Private Sector Entities	4528
 Industry and Sector	2775
 Industry and Sectoral Development	12356
 Industry and Service	16992
+Industry and Services	19966
 Industry and Services Sector	10980
 Industry and Sex	2775
 Industry and Small Business	12674
@@ -1211,7 +1214,7 @@ Ministry of Labour and Industrial Relations	14770,4,56,17
 Ministry of Trade Industry and Cooperatives	19641,168
 Ministry of Trade Industry and Employment	16967
 Ministry of Trade and Industries	10599,6958
-Ministry of Trade and Industry	3583,4688,525,2236,790,503,335,323,70,901,54,117,822,3540,29,100,19
+Ministry of Trade and Industry	3583,4688,525,2236,790,503,335,323,70,901,54,117,822,3540,29,100,19,1322
 Ministry of Trade and Industry's Malawi National Single	14674
 Ministry of Trade and Industry. Private	5014
 Ministère du Développement Industriel	18315
@@ -1397,6 +1400,7 @@ SCIENCES ET TECHNIQUES Chimie Industrielle	15674
 SERVICE INDUSTRY AWARD	12454
 SIEC Standard Industrial Energy Product Classification	2775
 SITC Siteki Industrial Training Centre SNI	12975
+SMEs. Industry Association The Association of Ghana	19943
 SODIQUE LEVOTHYROXINE SODIQUE INDUCTEURS DE L’OVULATION	15930
 SOVEREIGNTY AND INDUSTRY STRUCTURE RISKS	11156
 STATE OF THE INDUSTRY	12062,6124,31
@@ -1441,6 +1445,7 @@ Society SIDO Small Industries Development Organization	7763
 Société Industrielle de Karité du Mali-Nouvelle	17817
 Société Mauritanienne des Industries de Raffinage	17894
 Société Nationale Industrielle	17896
+Solar Industries	19943
 Somali Chamber of Commerce and Industry	10476,4759
 Somali Chamber of Commerce and Industry Upon	10476
 South Africa Industrial and Commercial Bank of China	378

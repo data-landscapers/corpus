@@ -223,7 +223,7 @@ Group Cash Value Insurance Contract	11233
 Group Personal Accident Insurance	19712
 Group Personal Accident Insurance Company	19712
 HEALTH INSURANCE ACT	6921
-Health Insurance	13726,307,1630,3621,431
+Health Insurance	13726,307,1630,3621,431,251
 Health Insurance Act	6921
 Health Insurance Authority Ghana	14997
 Health Insurance Bill	12598
@@ -239,6 +239,7 @@ Health Insurance Organization	17648
 Health Insurance Premium	14717
 Health Insurance Scheme	17934,1350
 Health Insurance Scheme NIN National Identification	16922
+Health Insurance Supporting NHIS	19942
 Health Insurance Units	10865
 Health NHIA National Health Insurance Authority	15556
 Health R Immigration Insurance Scheme Service	15845
@@ -509,6 +510,7 @@ Motor Third Party Insurance	7591
 Motor Vehicle Insurance Accident Levy	13122
 Mutual Insurers	15023
 Mwanza CC Education and Insufficient Financing	19585
+My National Health Insurance Scheme	19966
 NFO's Non-life Insurance Division	9675
 NHI National Health Insurance BAS Basic	396
 NHIA National Health Insurance Authority DPIA	6936
@@ -553,7 +555,7 @@ National Health Insurance Management Authority	13465
 National Health Insurance NDoH Non-patient File	1009
 National Health Insurance Policy	11748,3511,3
 National Health Insurance Program	16993
-National Health Insurance Scheme	2714,854,2431,1696,3633,2019,2451,25,22,408,93,550,26,183,2179
+National Health Insurance Scheme	2714,854,2431,1696,3633,2019,2451,25,22,408,93,550,26,183,2179,690
 National Health Insurance System	16922
 National Health Insurance Tribunal	16896
 National Health Insurance and Social Guarantee Fund	9837

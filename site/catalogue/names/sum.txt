@@ -76,7 +76,7 @@ Africa HealthTech Summit	937,11501
 Africa Internet Summit	3874
 Africa Scholarship Scheme and India-Africa Forum Summit	12979
 Africa Social Impact Summit Lagos	16158
-Africa Summit	5519,556,22,39,12,10531
+Africa Summit	5519,556,22,39,12,10531,3261
 Africa Summit Malawi Edition	9820
 Africa Summit Secretariat	6097
 Africa Tech Policy Summit	12104
@@ -166,9 +166,10 @@ Botswana Tech Summit Date	12554
 Builders Summit	8424
 C-PIMA Summary Assessment for Liberia	17257
 C. Ratings Summary C.1 Performance Rating	16614,2140
-C. Summary	13040
+C. Summary	13040,6926
 C. Summary Description of Proposed Project	18374
 C. Summary of Activities	12977
+C. Summary of Impacts of Policy Reforms	19966
 C. Summary of Project	14971
 C. Transforming Education Summit Commitments	13990
 CHAPTER FOUR THE SUMMIT ARTICLE	14409
@@ -334,6 +335,7 @@ EXECUTIVE SUMMARY Nigeria	11857
 EXECUTIVE SUMMARY OVERVIEW OF EACH PILLAR’S	15447,33
 EXECUTIVE SUMMARY Overview and Strategic Context	14022
 EXECUTIVE SUMMARY Overview of Conference Objectives	17260
+EXECUTIVE SUMMARY PAYMENT SYSTEMS OVERSIGHT ANNUAL	19940
 EXECUTIVE SUMMARY Policy Insight Series	4848
 EXECUTIVE SUMMARY REPUBLIC OF GHANA NATIONAL	4126
 EXECUTIVE SUMMARY Rt. Hon. Speaker and Honourable	19689
@@ -400,9 +402,10 @@ Ethiopia Indicator Scores Scores Summary Explanation	12500
 Ethiopia Pledge Summary	12257
 Ethiopia Summary of TADAT Performance Assessment Indicator	12500
 Event Summary	12556
+Events GHN Summit	19941
 Executive Director EXECUTIVE SUMMARY The Ministry	12973
 Executive Secretary of SADC. Summit	12640
-Executive Summary	395,184,3,317,358,106,234,633,828,799,2,669,55,389,160,112,2,1,533,271,375,16,448,57,18,186,2877,690,45,12,1,65,15,121,153,6,52,7,14,50,12,274,7,1,19,268,69,97,42,103,31,32,19,8,56,31,28,20,8,27,101,21,126,4,254,4,14,43,27,71,4,15,71,146,2,45,23,36,2,123,432,2,10,29,1,73,374,8,94,181,28,44,36,21,19,2,19,16,32,22,78,56,43,1,56,24,203,33,98,51,34,50,247,912,4,79,20,10,11,47,71,2,80,39,634,440,152,24,3,43,46,1,34,5,3,11,71,65,20,117,138,500,15,14,68,3,5,45,10,158,42
+Executive Summary	395,184,3,317,358,106,234,633,828,799,2,669,55,389,160,112,2,1,533,271,375,16,448,57,18,186,2877,690,45,12,1,65,15,121,153,6,52,7,14,50,12,274,7,1,19,268,69,97,42,103,31,32,19,8,56,31,28,20,8,27,101,21,126,4,254,4,14,43,27,71,4,15,71,146,2,45,23,36,2,123,432,2,10,29,1,73,374,8,94,181,28,44,36,21,19,2,19,16,32,22,78,56,43,1,56,24,203,33,98,51,34,50,247,912,4,79,20,10,11,47,71,2,80,39,634,440,152,24,3,43,46,1,34,5,3,11,71,65,20,117,138,500,15,14,68,3,5,45,10,158,42,64
 Executive Summary Africa	3859
 Executive Summary Angola	10763
 Executive Summary Artificial	1814
@@ -423,6 +426,7 @@ Executive Summary Executive Summary	14997
 Executive Summary Executive Summary Allocations	15578
 Executive Summary Executive Summary Weather and Climate	11553
 Executive Summary For Namibia	12934
+Executive Summary Ghana's National Identification Authority	19964
 Executive Summary Global	11136
 Executive Summary I. Introduction	10841
 Executive Summary In Algeria	19902
@@ -576,6 +580,7 @@ Global Digital Public Infrastructure Summit. Demonstrated	4554
 Global Digital Summit	16046
 Global Government Summit	2347
 Global Leaders Gather for India’s AI Summit	5044
+Global OGP Summit	19937
 Global Offshoring Summit	16046
 Global South Summit	13744
 Global Summit	3791,2586
@@ -652,6 +657,7 @@ ITU’s AI for Good Global Summit	1814
 ITWeb Security Summit	5806
 ITWeb Security Summit Cape Town	5806
 IV EXECUTIVE SUMMARY	17127
+IV Executive Summary V CHAPTER	19940
 IV. APPRAISAL SUMMARY	1284,1605,12249,644,201,913,26,1703,184,475,171
 IV. APPRAISAL SUMMARY A. Economic Analysis	11965
 IV. APPRAISAL SUMMARY A. Economic and Technical	16922
@@ -838,6 +844,7 @@ National Summary Data	9485
 National Summary Data Page	11554,419,2804,974,1335
 National Summary of Human Resources for Health	4217
 Nature Portfolio Reporting Summary	11585
+Network Summit	19941
 Nigeria CONTENTS Executive Summary Key Findings	11138
 Nigeria Education Supplies Summit	7444
 Nigerian Economic Summit	6893
@@ -883,6 +890,7 @@ PUBLIC PUBLIC INVESTMENT PROPOSAL SUMMARY	1818
 PULSE Summit	17634
 Page Non Technical Summary	18118
 Pan Africa Humanitarian Summit	11131,3
+Paris AI Action Summit	19957
 Partnership Summit	16331
 Patient Summary	10100
 Peering Updates Summary	19682
@@ -1198,7 +1206,7 @@ Summarized Procurement Plan	15411
 Summarized and Simplified Version	12227
 Summarizes	11269
 Summarizing the Plan	14781
-Summary	236,160,503,305,24,33,284,1,84,148,40,170,105,373,1,1,1,1,1,2,1029,81,544,442,1,1,1,1,1,79,195,399,228,202,489,279,501,1,35,216,561,617,227,2,593,307,1,1,1,104,1,97,99,105,1,76,1,25,318,491,307,83,21,59,105,74,78,32,216,99,16,25,12,2,10,12,29,19,33,93,59,29,14,2,72,1,31,8,17,1,28,2,5,8,7,258,150,126,21,72,20,13,2,261,7,316,309,142,33,276,193,37,102,57,49,14,4,11,3,7,4,11,64,30,29,34,36,64,54,229,100,46,40,54,30,15,211,63,1,154,197,474,3,2,9,44,10,1,28,16,4,3,121,15,26,96,24,104,505,1,23,13,403,50,11,115,19,74,36,11,162,124,20,18,335,258,43,54,23,66
+Summary	236,160,503,305,24,33,284,1,84,148,40,170,105,373,1,1,1,1,1,2,1029,81,544,442,1,1,1,1,1,79,195,399,228,202,489,279,501,1,35,216,561,617,227,2,593,307,1,1,1,104,1,97,99,105,1,76,1,25,318,491,307,83,21,59,105,74,78,32,216,99,16,25,12,2,10,12,29,19,33,93,59,29,14,2,72,1,31,8,17,1,28,2,5,8,7,258,150,126,21,72,20,13,2,261,7,316,309,142,33,276,193,37,102,57,49,14,4,11,3,7,4,11,64,30,29,34,36,64,54,229,100,46,40,54,30,15,211,63,1,154,197,474,3,2,9,44,10,1,28,16,4,3,121,15,26,96,24,104,505,1,23,13,403,50,11,115,19,74,36,11,162,124,20,18,335,258,43,54,23,66,238,14
 Summary AFRINIC	11796,1,15
 Summary AFRINIC Resolution	11813
 Summary About	19542
@@ -1425,7 +1433,7 @@ Summer Youth Olympics	7324
 Summerfields	4896
 Summerfields EWZL Residential	4896
 Summerhill House	17800
-Summit	183,1081,645,717,61,1073,226,822,132,1852,139,293,111,30,6,81,239,30,992,148,256,624,20,59,227,122,560,299,155,27,108,290,56,774,74,15,113,322,43,90,345,1,2,230,465,129,26,116,183,13,137,5,82,16,1094,107,85,71,477,561,327,15,968,307,328,538,56,92
+Summit	183,1081,645,717,61,1073,226,822,132,1852,139,293,111,30,6,81,239,30,992,148,256,624,20,59,227,122,560,299,155,27,108,290,56,774,74,15,113,322,43,90,345,1,2,230,465,129,26,116,183,13,137,5,82,16,1094,107,85,71,477,561,327,15,968,307,328,538,56,92,69
 Summit ARTICLE	14409
 Summit Amid Calls	17069
 Summit CHAPTER FIVE	14409
@@ -1495,6 +1503,7 @@ TikTok Safer Internet Summit	17106
 Today’s Google Cloud Summit	6930
 Togo AI Summer School	19349
 Togo By Ellen Summey HISP WCA	1017
+Toolkits News And Events GHN Summit	19941
 Trade Facilitation Progarmme Balness Sumani Senior	13563
 Trade and Development Abbreviations Executive Summary	19639
 Trade and Industry Executive Summary	5247

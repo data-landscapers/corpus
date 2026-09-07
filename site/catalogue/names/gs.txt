@@ -61,7 +61,7 @@ Finds New GSMA Study. Press Release	10822
 G Coverage GSMA	10856
 G Fourth Generation GSM GNI Gross	14897
 G Second Generation GSM GII Gender	14897
-G Spectrum GSMA Public Policy Position	14674
+G Spectrum GSMA Public Policy Position	14674,5292
 G Third Generation GSM	14897
 GAMBIA GSC CAPACITY	16883
 GDJF and GSA	6960
@@ -179,7 +179,8 @@ GSMA Data	1264
 GSMA Device Registry	16799
 GSMA Digital	14674
 GSMA Digital Africa	14674
-GSMA Digital Africa Index	14674
+GSMA Digital Africa Index	14674,5292
+GSMA Digital Africa Index Presentation. Note	19966
 GSMA Digital Africa Index for Digital Nations	9820
 GSMA Digital Africa Index. Malawi's GSMA	14674
 GSMA Digital Africa Nations and Society Index	14674
@@ -190,8 +191,8 @@ GSMA Digital Identity	10822
 GSMA Digital Inclusion Fund	6748
 GSMA Digital Inclusion Policy Brief	14674
 GSMA Digital Nations and Society	6861
-GSMA Digital Nations and Society Index	6781,34,7859
-GSMA Digital Policy and Regulatory Index	14674
+GSMA Digital Nations and Society Index	6781,34,7859,5292
+GSMA Digital Policy and Regulatory Index	14674,5292
 GSMA Driving	14674
 GSMA Driving Digital Transformation of African Economies	14674
 GSMA Foundation	19868
@@ -203,11 +204,13 @@ GSMA Global Mobile Suppliers Association DE4A	15491
 GSMA Handset Affordability Coalition	6593,7500,581
 GSMA Handset Affordability In Malawi	14674
 GSMA Handset Ethiopia	6593
-GSMA Head Office	6593,4411,13,885,62,30
+GSMA Head Office	6593,4411,13,885,62,30,7972
 GSMA Head Office One Angel Lane	10856,3818
 GSMA ICT IDI IT INS ISP	15480
+GSMA Inclusive E-Government Services	19966
+GSMA Index	19966
 GSMA Innovation Fund	19534
-GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73,72,757,31,65,107,30,8,439,871,2,17,1343,346,2,452,6,13,20,40,366,1,224,655,73,70,138,1239,698,642,211
+GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73,72,757,31,65,107,30,8,439,871,2,17,1343,346,2,452,6,13,20,40,366,1,224,655,73,70,138,1239,698,642,211,96,4
 GSMA Intelligence Adult	11964
 GSMA Intelligence Connectivity	6593
 GSMA Intelligence Database	18777
@@ -243,7 +246,7 @@ GSMA Mobile Connectivity Index Launch Report	15480
 GSMA Mobile Data for Humanitarian Action.pdf	6024
 GSMA Mobile Economy	18446
 GSMA Mobile Economy Africa	6714,7960
-GSMA Mobile Economy SSA	10856
+GSMA Mobile Economy SSA	10856,9110
 GSMA Mobile Industry Leadership	214
 GSMA Mobile Internet Skills Training Toolkit	11004,13,947,1367,3632
 GSMA Mobile Internet Skills Training Toolkit.43	11964
@@ -271,7 +274,7 @@ GSMA MobileEconomy2020 SSA Eng.pdf Page	10819
 GSMA MobileEconomy2020 SSA Infographic French.pdf. Herman	15480
 GSMA MobileEconomy2020 SSA Infographic French.pdf. Ibounde	15447
 GSMA National Emergency Telecommunications Plans	14674
-GSMA Nations and Society Index	14674
+GSMA Nations and Society Index	14674,5292
 GSMA Nigeria Digital Economy Report	5245
 GSMA Open Gateway	6593,241,7840
 GSMA Open Gateway APIs	5820
@@ -305,6 +308,8 @@ GSMA Vertiv	2405
 GSMA Welcomes Abuja Declaration	7825
 GSMA Workshop	9762
 GSMA and ATU	14674
+GSMA and ATU. Universal	19966
+GSMA and African Telecommunications Union	19966
 GSMA and Caribou Digital	249
 GSMA and Five African Governments Launch ATLAS	8552
 GSMA and French AI	8552
@@ -324,10 +329,11 @@ GSMA and Women	17620
 GSMA and World Bank	15621,2835
 GSMA and Zindi	8204
 GSMA's African AI	6593
-GSMA's Digital Africa Index	14674
+GSMA's Digital Africa Index	14674,5292
 GSMA's Digital Africa Summit	6781
 GSMA's Digital The GSMA Digital Africa	14674
 GSMA's Mobile Economy Africa	6467,389,2256
+GSMA's Responsible AI	19966
 GSMA's Sh662bn	7989
 GSMA's State	8514
 GSMA's US	10209
@@ -351,6 +357,7 @@ GSMA. Mobile Infrastructure Sharing	5675
 GSMA. Organisations	11017
 GSMA. QoS	10856
 GSMA. Road	5675
+GSMA. Subsequent	19966
 GSMA. Supports	1169
 GSMA. The Mobile Disability Gap Report	12231
 GSMA. What Is the Impact of Mobile Telephony	5675
@@ -426,6 +433,7 @@ Geographic Information System GSA	16975
 Geographical Information System GSMA	958
 Ghana Living Standards Survey GSS Ghana	15556
 Ghana. GSMA	10819
+Ghana. The GSA	19943
 Given GS	11417
 Global System for Mobile Communications GSMA GSM	11857
 Go Gigaoctet GSM Système	15493
@@ -531,6 +539,7 @@ Recent GSMA	9349
 Reference Gsenger and Strle2021	8283
 Registered GST	18450
 Reports the GSMA State	5497
+Research for GSMA Digital Economy Reports for Nigeria	19966
 Rwanda. GSMA	10819
 S. No. Town GSR	18543
 SL906 TELECOMMUNIC ATIONS GSM	17006

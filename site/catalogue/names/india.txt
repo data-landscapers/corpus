@@ -42,6 +42,7 @@ BRICS Science and Innovation Initiatives India and South	6480
 Bangladesh India Australia South Africa Rwanda	11135
 Bangladesh and India	11902
 Bank of India	13561
+Bank of India RTGS Real Time Gross	19940
 Benin and India	15457
 Billion Indians	5700
 Black African Coloured Indian	11192
@@ -85,6 +86,7 @@ Congo. From the Embassy of India	16275
 Consider India's UPI	7596
 Constitution of India	16275
 Consulate General of India	13791
+Corporation of India NPSS National Payment Systems	19940
 Credit Information Bureau India Ltd	18543
 Cultural Relations India and Burkina Faso	16256
 Culture India and Sierra Leone	18563
@@ -229,7 +231,7 @@ IPv6 Libyan Indian	5592
 IRDAI India	14997
 Important Indian	13562
 In-Charge for India	13744
-India	10,192,24,189,146,157,49,14,257,16,82,83,6,18,458,123,27,170,4,77,15,201,6,103,8,12,94,25,48,44,9,10,43,5,35,15,3,9,4,13,15,1,3,8,37,5,41,11,18,4,70,1,8,227,32,18,60,28,69,123,27,13,119,40,9,29,69,33,20,38,50,37,21,127,44,16,17,8,144,3,106,23,55,45,10,90,31,24,18,47,85,48,15,41,10,27,2,23,53,24,7,11,15,10,43,56,1,81,45,40,20,43,86,15,3,52,126,34,31,13,63,6,47,89,10,25,6,53,19,70,19,8,15,25,1,68,19,42,2,3,55,49,1,41,43,38,17,9,1,7,16,9,2,15,6,12,1,26,5,31,1,7,8,51,11,26,7,24,86,16,53,22,101,27,109,60,9,21,27,47,5,63,20,122,68,60,61,4,91,45,24,4,44,1,121,73,122,45,13,35,6,106,13,153,36,9,29,9,47,56,1,41,38,13,29,82,67,32,44,160,5,6,63,40,33,113,12,151,30,69,16,169,73,8,82,11,198,13,38,10,10,61,6,125,8,19,1,1,1,64,64,3,16,1,1,27,33,20,14,17,4,13,26,158,1,86,17,6,1,30,55,193,22,1,22,1,15,4,3,15,24,26,4,3,40,32,41,29,12,59,55,35,1,60,117,7,15,68,8,41,119,229,7,5,2,3,23,24,49,2,13,15,14,30,14,26,2,101,15,102,54,43,17,6,29,1,62,57,4,59,47,63,25,4,91,107,67,203,37,5,173,163,13,2,1,28,2,4,26,13,1,10,10,40,18,62,6,32,110,12,101,136,55,46,14,2,7,38,63,132,181,42,74,154,70,3,3,16,19,2,8,46,318,162,11,93,27,7,26,50,60,127,22,1,5,1,301,23,58,335,58,93,20,13,55,23,1,97,60,165,20,87,41,118,1,47,100,103,1,2,1,69,23,10,32,50,197,89,21,4,6,37,30,1,75
+India	10,192,24,189,146,157,49,14,257,16,82,83,6,18,458,123,27,170,4,77,15,201,6,103,8,12,94,25,48,44,9,10,43,5,35,15,3,9,4,13,15,1,3,8,37,5,41,11,18,4,70,1,8,227,32,18,60,28,69,123,27,13,119,40,9,29,69,33,20,38,50,37,21,127,44,16,17,8,144,3,106,23,55,45,10,90,31,24,18,47,85,48,15,41,10,27,2,23,53,24,7,11,15,10,43,56,1,81,45,40,20,43,86,15,3,52,126,34,31,13,63,6,47,89,10,25,6,53,19,70,19,8,15,25,1,68,19,42,2,3,55,49,1,41,43,38,17,9,1,7,16,9,2,15,6,12,1,26,5,31,1,7,8,51,11,26,7,24,86,16,53,22,101,27,109,60,9,21,27,47,5,63,20,122,68,60,61,4,91,45,24,4,44,1,121,73,122,45,13,35,6,106,13,153,36,9,29,9,47,56,1,41,38,13,29,82,67,32,44,160,5,6,63,40,33,113,12,151,30,69,16,169,73,8,82,11,198,13,38,10,10,61,6,125,8,19,1,1,1,64,64,3,16,1,1,27,33,20,14,17,4,13,26,158,1,86,17,6,1,30,55,193,22,1,22,1,15,4,3,15,24,26,4,3,40,32,41,29,12,59,55,35,1,60,117,7,15,68,8,41,119,229,7,5,2,3,23,24,49,2,13,15,14,30,14,26,2,101,15,102,54,43,17,6,29,1,62,57,4,59,47,63,25,4,91,107,67,203,37,5,173,163,13,2,1,28,2,4,26,13,1,10,10,40,18,62,6,32,110,12,101,136,55,46,14,2,7,38,63,132,181,42,74,154,70,3,3,16,19,2,8,46,318,162,11,93,27,7,26,50,60,127,22,1,5,1,301,23,58,335,58,93,20,13,55,23,1,97,60,165,20,87,41,118,1,47,100,103,1,2,1,69,23,10,32,50,197,89,21,4,6,37,30,1,75,226,6,26
 India AI	4300
 India AI Action Summit	5044
 India AI Governance Guidelines	9208
@@ -750,6 +752,7 @@ India’s Duty Free Tariff Preference	11579,5662
 India’s Equalization Levy	14932
 India’s Exports	17240
 India’s External Affairs Minister	14805
+India’s FPS	19940
 India’s G20	6386
 India’s GIFT City	12110
 India’s GST Tax	14932
@@ -775,6 +778,7 @@ India’s WHT	14932
 India’s.in	4690
 Indonesia India Bangladesh Uganda Senegal Nigeria	11004
 Indonesia India International Telecommunication Union	10764
+Indonesia. In India	19940
 Indorama Group. Indian	18378
 Industry Startup India	19534
 Invest India	9332
@@ -828,7 +832,7 @@ Namba and Indian Puttaswamy	9399
 Namibia and India	9749
 Namibian President Netumbo Nandi-Ndaitwah and Indian Prime	9749
 Natal Indian Congress	2626
-National Payments Corporation of India	6894,2048,2196,1262,752,1592,2879
+National Payments Corporation of India	6894,2048,2196,1262,752,1592,2879,2317
 National Payments Corporation of India. Today	14744
 National Stock Exchange of India Limited Exchange	12576
 Nigeria and India	11925,6296
@@ -877,7 +881,7 @@ Republic of Congo Relations India	16275
 Republic of India	11183,742,1047,1295,475,88,627,1971,714,55,453,408,5,1,102
 Republic of India and Republic of The Gambia. Culture	17241
 Republic of India. The Agreement	14845
-Reserve Bank of India	6735,200,661,2909,633,172,2252,1435,3546
+Reserve Bank of India	6735,200,661,2909,633,172,2252,1435,3546,1397
 Reserve Bank of India Imposes Restrictions	11310
 Reserve Bank of India Innovation Hub	14744
 Reserve Bank of India's Stress Test Model	6938
@@ -943,6 +947,7 @@ UN India	18563
 UNESCO India-Africa	16942
 UNESCO and India	14566
 UNESCO and India's Ministry of External Affairs	18650
+UPI India	19940
 UPI. India	8942
 US and India	14812
 US and India Open Data Initiative	16599

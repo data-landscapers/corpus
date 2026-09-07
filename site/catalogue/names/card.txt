@@ -43,6 +43,7 @@ Arrest Cardio Pul-	12151
 Arrest Cardiopulmo-	12151
 Authority CNIB National Burkinabe Identity Card	10812
 Avenue Cardinal	15901
+Average Value Per Card	19940
 B PROBLÈME CARDIAQU	13300
 B. Staff of National Identity Card Unit	14716
 BIOMETRIC IDENTIFICATION CARDS	16841
@@ -52,6 +53,9 @@ BRR National Identity Card System	10714
 Bahrain ID Card Yes F25 Aug	10714
 Balanced Score Card	16858
 Ballot Card	14852
+Bank of Ghana Indicators Total Number of Cards	19940
+Bank of Ghana Type Debit Cards Banks	19940
+Banks' Own Proprietary Cards	19940
 Bank’s Card Mobile Teams	8999
 Bank’s Card Replacement Sites Eastern	8999
 Belgian Electronic Identity Card	10714
@@ -106,8 +110,11 @@ CBN Governor Mr Olayemi Cardoso	7928
 CBN Governor Olayemi Cardoso	2397,1335
 CEO and Co-Founder of Yellow Card	9903
 COMPREHENSIVE CARDIOVASCULAR CARE CENTER LTD Data	7167
+COST OF THE GHANA CARD PROJECT	19934
 Cambodia Khmer National Identity Card	10714
 Cameroon National Identity Card	10714
+Can the Ghana Card	19935
+Card Access and Document Number	19935
 Card Accountability	6832
 Card Act	14714
 Card Automated Teller Machine	12343
@@ -117,8 +124,11 @@ Card Centres for Deployment of New System	14741
 Card GRATUIT	14683
 Card Guidelines	4848
 Card Insurance Scheme	13563
-Card Issuance	4848
+Card Issuance	4848,15092
+Card Issuance Agency Banking Mobile Money	19940
+Card Issuance POS	19940
 Card Issuance Senior Citizens Documents Required	14741
+Card Issuance The Bank	19940
 Card Not Present	12392
 Card Operations	15054
 Card PIN Verification	17537
@@ -210,7 +220,7 @@ Cardorelle	16177
 Cardoso	2397,444,891,15091
 Cardoza	12948
 Cardozo Arts Entertain Law J	17773
-Cards	1655,1117,4149,5034,455,505,69,2535,1716,2632,62
+Cards	1655,1117,4149,5034,455,505,69,2535,1716,2632,62,11
 Cards Issued	16374
 Cards Prepaid Cards Mobile Money Subscribers	6978
 Cards Printed	16374
@@ -242,6 +252,8 @@ Citizenship Identity Card Yes AGETIC VRR	10714
 Comoros National Identity Card No N	10714
 Companion Card	10418
 Credit Cards	12917,1097
+Credit Cards Number of Cards Issued	19940
+Credit and Prepaid Cards	19940
 Cryptographic Card	3593
 Csmuwow AFFAIRS CARD INBEX SERVICE LEGISLA	15999
 Current Nat'l ID Card	3092
@@ -259,6 +271,7 @@ Debit Card	19702
 Debit Card Users Decrease	11994
 Debit Cards	17235,2640
 Debit Cards Credit Cards Figure	15023
+Debit Cards Number of Cards IIssued	19940
 Debit and Credit Cards	12392,1140
 Department of Transport’s Driving License Card Account	2521
 Deputado Boaventura da Silva Cardoso	539
@@ -275,6 +288,7 @@ Disability Card	12916,3094
 Diseases Cardio Pul-	12151
 Diseases Cardiopulmo-	12151
 Distribution of New Eritrean ID Cards	19921
+Does the Ghana Card	19935
 Domingos Cardoso	5791,1056,233,86,174,4122,635
 Dra. Ana Celeste Cardoso Direitos Humanos	10750
 Driver Vocational Cards Management System. Transport	718
@@ -284,6 +298,7 @@ Driving Licence Card Account	4554
 Dutch Identity Card	10714
 E AND STATUTORY APFAIRS CARD IRD	15999
 E-ID Card	10714
+E-zwich Total Number of Cards Issued	19940
 EATIVE AND STATUTORY APFAIRS CARD IMOEZ	15999
 ECOWAS Biometric Cards	12015
 ECOWAS Brown Card	14679
@@ -306,6 +321,7 @@ Electronic ID Card No N	10714
 Electronic Identity Card No N	10714
 Electronic National Identity Card	1754,19
 Electronic National Registration Cards	12435
+Electronic Payments Cards	19940
 Elsa Maria Cardoso Editor	18757
 Emanuel de Oliveira Cardoso	15404
 Eminence Cardinal Stephen Ameyu Mulla	18666
@@ -343,7 +359,7 @@ Gabon Identity Card	10714
 Gambian Card	16923
 General Multipurpose Card	2318,271,2259
 Georgia Gambian National ID Card Sep	10714
-Ghana Card	84,895,1610,100,32,51,24,33,400,21,141,33,119,24,1,3,231,57,723,95,114,682,19,67,188,252,148,30,133,61,21,707,66,129,23,35,17,1,330,327,339,330,1145,574,407,198,1,97,23,4289,199,18,198,135,238,90,38,192,63,936,12
+Ghana Card	84,895,1610,100,32,51,24,33,400,21,141,33,119,24,1,3,231,57,723,95,114,682,19,67,188,252,148,30,133,61,21,707,66,129,23,35,17,1,330,327,339,330,1145,574,407,198,1,97,23,4289,199,18,198,135,238,90,38,192,63,936,12,2385,1,1,14,16,17
 Ghana Card CAN	17537
 Ghana Card ID	17537
 Ghana Card Number	15647
@@ -353,20 +369,26 @@ Ghana Card Personal Identification Number	16601
 Ghana Card Pin	17537
 Ghana Card Pin Number	17537
 Ghana Card and Biometric	17537
+Ghana Card for Ghanaians	19935,1
 Ghana Card-related	9841,1179
 Ghana Card. Cybersecurity and Digital Identity Platforms	4791
 Ghana Card. Ends	4708
 Ghana Card. Ghanaians	15430
+Ghana Card. Information	19934
+Ghana Card. NIA	19935
 Ghana Card. Now	16346
 Ghana Card. Officials	3752
 Ghana Card. Prior	10822
 Ghana Card. Providing Future Solutions Now	15522
+Ghana Card. Remember	19935
+Ghana Card. The Ghana Card	19935
 Ghana Card. The NIA	5999
 Ghana Card. The NIS	15430
 Ghana Card. Things	5473
-Ghana Cards	2689,878,1,3,181,1872,678,797,218,383,2141,574,667,4440,301,715
+Ghana Cards	2689,878,1,3,181,1872,678,797,218,383,2141,574,667,4440,301,715,3397
 Ghana Cards. Instead	7700
 Ghana Cards. The Authority	7165
+Ghana. The Ghana Card	19935,1
 Gold Card	9037
 Gold Cards	8999
 Gold Cards Outdoor Media	8999
@@ -445,6 +467,7 @@ Integrated Service Cards	15663
 Intelligent Card Production Systems	84,2637,1956,114,6031
 International Card Processing Services	18313
 International Card Schemes	12364
+International Scheme Cards	19940
 International Transfers Card Mobile Money	5247
 Iraqi National ID Card	10714
 Israeli Identity Card Yes Government Identification	10714
@@ -534,8 +557,11 @@ NATIONAL IDENTITY CARD ACT Regulations	14740
 NATIONAL IDENTITY CARDS ACT	18943
 NATIONAL IDENTITY CARDS ACT Revision	18943
 NHA CARD	11939
+NHIS Card	19935
+NHIS Card Category	19936
 NIDA Card	2119
 NINA Card No N	10714
+NON-CITIZEN IDENTITY CARD	19935
 NRC and Voter's Card	12415
 Naing Ngan Thar Sisityay Card	10714
 Namibia Card	12337
@@ -590,7 +616,7 @@ National Identity Card and Population	2658
 National Identity Card and Yusuf	12051
 National Identity Card of Mozambican	6474
 National Identity Card. The Electoral Domicile	15393
-National Identity Cards	1811,109,43,812,1921,1,553,384,840,124,1081,486,424,204,1623,1875,306,137,244,97,1985,1923,1612,1141,14
+National Identity Cards	1811,109,43,812,1921,1,553,384,840,124,1081,486,424,204,1623,1875,306,137,244,97,1985,1923,1612,1141,14,185
 National Identity Cards Act	12648
 National Identity Cards Issued Year	12533
 National Identity Cards. Despite Airtel Malawi	12978
@@ -619,11 +645,13 @@ Noella Grâce Cardinale	16100
 Non-Citizen Card	17537
 Non-Citizen Card and Biometric	17537
 Non-Citizen Card the AI	17537
+Non-Citizen Ghana Card	19935
 Non-Citizen Ghana Cards	15430
 Non-Citizen Identity Card	7317,7465
 Non-Gambian Identity Card	17379
 Non-National ID Cards	1655
 Notwithstanding the National Identity Card Regulations	14716
+Number of Cards Issued	19940
 Number of ID Cards Issued	12533
 Nvidia's GPGPU and Intel MIC Card	9475
 OETR STIVÉ AND-STATUTORY AFFAIRS CARD INDEX	15999
@@ -653,6 +681,7 @@ Payment Card Industry	434
 Payment Card Industry Data Security Standard	2312,38,4588,7896,2090,2740
 Payment Card Industry Data Security Standards	16878
 Payment Card Industry PIN	11955
+Payment Cards	19940
 Payments Card Industry Payment	12286
 People Service Card	2536
 Permanent Residence Card	19927
@@ -682,6 +711,8 @@ Printing of Voter ID Card	18531
 Program Specific ID Cards. Social Protection	12533
 Project Card Category Details Type	13395
 Property Card View Property Details About	12511
+Proprietary Cards	19940
+Proprietary Cards International Scheme Cards	19940
 Pyongyang City Resident Card Yes N	10714
 Q2 Credit Cards	6978
 Q2 Debit Cards Mobile Money	6978
@@ -759,6 +790,7 @@ SIM Cards. In Space	718
 SISLATIF ET REGLEMENTAIRE TATUTORY AFFAIRS CARD	15999
 SMART ID CARDS AND PASSPORTS	11986
 SOMETHING YOU OWN Card Mobile Password	10819
+SSNIT ID Card	19935,1
 STATUTORY AFFAIRS CARD	15999
 STATUTORY AFFAIRS CARD INDEX	15999
 STATUTORY AFFAIRS CARD INDEX JERVICE OPIE-CERTIFIÉ	15999
@@ -822,7 +854,10 @@ Timeline for SIM Card Registration Laws. Benin	10822
 Timor-Leste National Identity Card No N	10714
 Togo Plans Prepaid Cards	7871
 Tonga National Identity Card No N	10714
+Treatment of Captured Payment Cards	19940
+Type Credit Cards Banks	19940
 Type II Card	34
+Type Prepaid Cards	19940
 UAE ID Card	10714
 UIS Card	18452
 UPPC Rate Card	19641
@@ -833,6 +868,8 @@ Understanding NICA National Identity Cards Act	12663
 Unified Government Services Card	6631
 Unique Biometric Identity Cards	18471
 University of South Africa. Cardno	7278
+Use of Ghana Card	19950
+Use of Ghana Card for All Financial Transactions	19983
 Utilizing the National ID Card for Identification	16983
 VE-AND STATUTORY APFAIRS CARD HNDEZ SERVICEI	15999
 VIRTUAL ID CARD	19044
@@ -842,6 +879,7 @@ VRR Card Civil Registry	10714
 VRR India Card	10714
 Vaccination Card Ownership and Availability	15247
 Vanuatu National ID Card	10714
+Virtual Card	19940
 Virtual ID Card	19044
 Virtual ID Card and Digital Driving License	19044
 Virtual ID Cards for Permit Holders and Seychellois	1882
@@ -850,14 +888,17 @@ Visa and Western Union. Yellow Card	9151
 Visa-branded Companion Card	10418
 Vital Events Registration and National Identity Card	12188,38
 Vodacom DRC. M-Pesa Visa Virtual Card	11994
+Volume Total Number of Cards Issued Volume	19940
 Voter Card Information	11864
 Voter Card The Reciprocity Schedule	11864
+Voter ID Card	19935,1
 Voter ID Card No N	10714
 Voter Registration Card	12218,6241
 Voter's Card	15415
 Voter's ID Card	18452
 Voting Card Mozambique Myanmar Civil Registry	10714
 Vult Card	2749
+WhatsApp Banking Virtual Card Quick Response	19940
 White PVC Cards	11955
 White RFID Plastic Cards	11955
 Year the Ghana Card and Ghana	10822
@@ -872,6 +913,7 @@ Yellow Card and Ripple	11819
 Yellow Card. Subramoney	14375
 Yellow Card’s Chris Maurice	9903
 Yellow Card’s Group Head of Policy and Senior	9311
+Yes. The Ghana Card	19935
 Zambia National Registration Card	13477
 Zanzibar Registration and Identity Cards Office. Operating	11133
 Zimbabwe Identity Cards	12496

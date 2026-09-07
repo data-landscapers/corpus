@@ -89,6 +89,7 @@ Backup Standards and Guidelines Guidelines	34
 Bank Guidance	10768,649,4094,42,106
 Bank Procurement and Consultants Guidelines	16614
 Bank of Ghana's Supervisory Guidance Note	17537
+Bank of Ghana’s Guideline	19948
 Bank of Tanzania Guidelines for Handling Financial Consumer	19558
 Bank's Anti-Corruption Guidelines	13185
 Bank's Disbursement Guidelines	8166
@@ -326,7 +327,7 @@ Download ICT POLICY GUIDELINE	19623
 Draft Comprehensive Guidelines	12675
 Draft Guidance	8900
 Draft Guidance Note for Online Intermediation Platforms	4583
-Draft Guidelines	8485
+Draft Guidelines	8485,11455
 Draft ODPC Guidance	8900
 Draft Per Unit Cost Guide	15659
 Draft Satellite Communications Guidelines	17191
@@ -522,6 +523,7 @@ General Guiding Principles	14774
 Generative AI Guidelines for Government	16212
 Give Directions and Issue Guidelines	7845
 Global Landscape of Ethics Guidelines	11156
+Global Practice Guides	19968
 Godfrey Kabyanga Minister of State for National Guidance	3050
 Government Applications and Guidelines for Development	19575
 Government Cloud Computing Guideline	13345
@@ -604,7 +606,7 @@ Guide. Together	16212
 GuideMethodologiqueSimplifDigit 10052025.pdf	1703
 GuideTaxAgents.pdf	14833
 Guidebook	1243,339
-Guided	1814,2714,312,579,534,38,955,813,242,34,1,372,199,321,174,1,653,1108,17,250,3,103,95,664,238,81,197,410,51,87,49,57,782,129,74,678,136,58,16,119,555,47,177,275,299,266,183,13,92,23,28,356,1057,130,349,37,683,4,65
+Guided	1814,2714,312,579,534,38,955,813,242,34,1,372,199,321,174,1,653,1108,17,250,3,103,95,664,238,81,197,410,51,87,49,57,782,129,74,678,136,58,16,119,555,47,177,275,299,266,183,13,92,23,28,356,1057,130,349,37,683,4,65,140
 Guided Leadership	12951
 Guided Learning	10525
 Guidedu	16034
@@ -638,7 +640,7 @@ Guideline. Government Institutions	5665
 Guideline. Non	5665
 Guideline. Software Certification Renewal Software	5665
 Guideline. Such	17537
-Guidelines	34,553,131,181,62,1,38,204,39,21,613,111,359,380,162,24,691,522,457,530,563,2,1,8,481,20,244,4,103,253,136,18,135,123,268,76,215,538,135,93,61,96,137,3,91,5,187,14,114,618,551,1,316,6,39,3,48,3,7,12,209,79,4,1,1,20,1,84,29,80,68,108,82,247,1,2,3,1,5,58,28,8,33,7,241,14,46,59,29,1,63,6,45,34,4,55,19,301,1,1,30,10,45,1,31,3,1,20,20,15,215,11,10,1,20,29,22,58,13,3,7,82,875,124,1,157,4,9,9,67,12,11,44,68,18,62,7,68,270,39,107,140,1,2,52,188,243,68,631,5,4,1,19,6,7,4,11,8,28,13,26,42,1,96,66,7,4,52,17,70,620,248,111,61,4,70,17,6,6,15,12,41,2,13,39,66,226,358,265,10,1,20,5,12,17,1,9,56,26,78,90
+Guidelines	34,553,131,181,62,1,38,204,39,21,613,111,359,380,162,24,691,522,457,530,563,2,1,8,481,20,244,4,103,253,136,18,135,123,268,76,215,538,135,93,61,96,137,3,91,5,187,14,114,618,551,1,316,6,39,3,48,3,7,12,209,79,4,1,1,20,1,84,29,80,68,108,82,247,1,2,3,1,5,58,28,8,33,7,241,14,46,59,29,1,63,6,45,34,4,55,19,301,1,1,30,10,45,1,31,3,1,20,20,15,215,11,10,1,20,29,22,58,13,3,7,82,875,124,1,157,4,9,9,67,12,11,44,68,18,62,7,68,270,39,107,140,1,2,52,188,243,68,631,5,4,1,19,6,7,4,11,8,28,13,26,42,1,96,66,7,4,52,17,70,620,248,111,61,4,70,17,6,6,15,12,41,2,13,39,66,226,358,265,10,1,20,5,12,17,1,9,56,26,78,90,122
 Guidelines Actor Requirements	6432
 Guidelines Advocacy	15604
 Guidelines Article	12616
@@ -961,6 +963,7 @@ Maroc Guide	1187
 Mauritius The Financial Service Commission Guidance	14566
 Mauritius. The Guide	14839
 Mauritius’ National AI Strategy and Fair Guidelines	14811
+Media Guidelines	19957
 Media Landscape Guide	15342
 Medical Guidelines for Disability Assessment	14774
 Metadata Guide	4098

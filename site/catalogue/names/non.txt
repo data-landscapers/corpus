@@ -206,7 +206,7 @@ Consortium des Organisations Non Gouvernementales	18286
 Construction Agriculture Non	10875
 Consumer Price Indices for Food and Non-Alcoholic Beverages	2775
 Contact of Nonusers	15247
-Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Coordinating Assembly of Non Governmental Organisations	12896
 Core and Non-Core Baskets and Weights	2775
 Core and Non-Core Indices	2775
@@ -371,6 +371,7 @@ Functional and Non Functional Requirements Section	13037
 Fund. Non-compliant	6342
 Funded TC None. and Blended Concessional	1818
 G Non-Standalone	8828,7306
+GENERAL PUBLIC SPECIFIC REQUIREMENTS Non-Discrimination	19948
 GOUVERNEM NON AFFILIES AU CLUB	15999
 GOVERNANCE Dr. Petros M. Mashwama Non-Executive	11131
 GRANULES OU NON	13300
@@ -661,6 +662,7 @@ NON-BANK	418
 NON-BANK FINANCIAL INSTITUTIONS DMDTI	17235
 NON-BANK PAYMENT ACCESS POINTS	7763
 NON-BANK REMITTANCE SERVICE PROVIDERS Non-bank RSPs	13388
+NON-CITIZEN IDENTITY CARD	19935
 NON-COMMUNICABLE DISEASE	14773
 NON-COMMUNICABLE DISEASES	19544
 NON-COMMUNICABLE DISEASES AND NUTRITION Rwanda	14935
@@ -899,6 +901,7 @@ Non Wage	19641
 Non Wage Recurrent	19641
 Non- All	14997
 Non- Bank Credit Only Microfinance Institutions	17235
+Non- Banking Financial Institutions and Payment Service	19948
 Non- City	19520
 Non- Communicable Diseases	14773
 Non- Consulting and Consulting Services	11905
@@ -936,6 +939,7 @@ Non-Applicability	14014
 Non-Automated Public Counters	6946
 Non-Automation of Business Processes	19584
 Non-Bank Credit Only Microfinance Institutions	17235
+Non-Bank Financial Institution Act	19948
 Non-Bank Financial Institutions	4987,4839,3380,1817,2081,131,82
 Non-Bank Financial Institutions Act	6940
 Non-Bank Financial Institutions Building Society	11134
@@ -962,6 +966,7 @@ Non-Citizen Birth Certificates	12496
 Non-Citizen Card	17537
 Non-Citizen Card and Biometric	17537
 Non-Citizen Card the AI	17537
+Non-Citizen Ghana Card	19935
 Non-Citizen Ghana Cards	15430
 Non-Citizen Identity Card	7317,7465
 Non-Citizens	7845,6998,3594,3,26
@@ -1003,7 +1008,7 @@ Non-Development Manager	12606
 Non-Disclosure Agreement	7433,3288
 Non-Disclosure Agreement and Memorandum of Understanding	8514
 Non-Disclosure of Confidential Information Nothing	15641
-Non-Discrimination	3861,9234,3744
+Non-Discrimination	3861,9234,3744,3109
 Non-Discrimination ALECSO	2958
 Non-Discrimination Conduct	14566
 Non-Discrimination and Anti Harassment	14760
@@ -1072,11 +1077,11 @@ Non-Governmental Organisation Council	5250,7347
 Non-Governmental Organisation NIPAC	958
 Non-Governmental Organisations	396,544,5181,5033,706,1061,25,1780,16,37,56,2052,52,2581
 Non-Governmental Organisations' Act	13339
-Non-Governmental Organization	12356,684,2371
+Non-Governmental Organization	12356,684,2371,4563
 Non-Governmental Organization NGOs	16951
 Non-Governmental Organization NIDA	12338
 Non-Governmental Organization ORSEC	18309
-Non-Governmental Organizations	21,1757,740,8445,166,726,5,1047,68,1,146,994,744,985,591,416,22,13,262,140,1615
+Non-Governmental Organizations	21,1757,740,8445,166,726,5,1047,68,1,146,994,744,985,591,416,22,13,262,140,1615,1070
 Non-Governmental Organizations Act	3583
 Non-Governmental Organizations. Outcomes	14888
 Non-Grid	11890
@@ -1150,7 +1155,7 @@ Non-Profit Training	17870
 Non-Profit-Mak-	6946
 Non-Proliferation of Weapons of Mass Destruction	2626
 Non-Protected Fixed Links	6946
-Non-QV	11923,268
+Non-QV	11923,268,7752
 Non-Radio Frequency Spectrum Based Alternatives	13295
 Non-Registration of Construction Projects	19585
 Non-Registration of Every Birth Event	19541
@@ -1165,7 +1170,7 @@ Non-Resident Bank Verification Number	2841
 Non-Resident Nigerian Investment Account	2841
 Non-Resident Ordinary Account	2841
 Non-Resident Senior Fellow	4617
-Non-Residential	12436
+Non-Residential	12436,7540
 Non-Residential Buildings	19641
 Non-Residents	11250,7739,110
 Non-Residents Shipping and Airline Companies	11976
@@ -1315,7 +1320,7 @@ Non-digitalization of Every Death and Birth Event	19541
 Non-dilutive	674
 Non-disclosure	9915,3406,1,1395,3965,948
 Non-disclosure Agreement	15662
-Non-discrimination	1243,2618,3361,2935,2940,223,1104,170,280,644,777,341,203,2145
+Non-discrimination	1243,2618,3361,2935,2940,223,1104,170,280,644,777,341,203,2145,964
 Non-discrimination The Contracting States	18437
 Non-discrimination and Inclusion	12663
 Non-discriminatory	16852
@@ -1434,6 +1439,8 @@ Non-postal	11129
 Non-pregnant	16971
 Non-preparation of Club	19585
 Non-pressure	11269
+Non-prioritisation of OGP	19937
+Non-prioritisation of OGP Implementation	19937
 Non-produced	19602
 Non-production	16923,1
 Non-profit	1900,13573,1390,2175
@@ -1464,7 +1471,7 @@ Non-renonciation	15901
 Non-renonciation Ministère	15901
 Non-repayable	12923
 Non-repudiation	5665,6694,4519
-Non-resident	3161,4625,4190,5132
+Non-resident	3161,4625,4190,5132,2849
 Non-resident Ghanaians	17537
 Non-resident Non-resident	3161
 Non-residential	16978
@@ -1580,7 +1587,7 @@ None. Ecobank	15474
 None. Interoperability	12269,7632
 None. MOCAF	15474
 None. TABLE C	3714
-Nonetheless	408,163,147,251,292,761,1369,192,21,187,335,998,123,116,25,2427,790,1,336,1776,45,2,10,66,10,10,20,81,1,1,24,18,95,30,2,1,2,32,103,246,7,48,13,272,43,5,2,87,144,23,27,13,136,72,91,157,284,64,65,53,191,18,86,450,874,163,27,1,2,88,349,52,68,61,51,139,9,217,8,459,408,30,68,1,8,7,8,138,105,26,81,1,13,34,57,82,115,291,53,28,311,17,724,195,8,286,10,113,193,43,5,37
+Nonetheless	408,163,147,251,292,761,1369,192,21,187,335,998,123,116,25,2427,790,1,336,1776,45,2,10,66,10,10,20,81,1,1,24,18,95,30,2,1,2,32,103,246,7,48,13,272,43,5,2,87,144,23,27,13,136,72,91,157,284,64,65,53,191,18,86,450,874,163,27,1,2,88,349,52,68,61,51,139,9,217,8,459,408,30,68,1,8,7,8,138,105,26,81,1,13,34,57,82,115,291,53,28,311,17,724,195,8,286,10,113,193,43,5,37,42
 Nonextractive	17909,81
 Nongo	8022
 Nongo Conteya	16662
@@ -1740,6 +1747,7 @@ Past Contract Non Performance	18543
 Past Contract Non-Performance	18543
 Penalties for Non-Compliance	12389
 Penalties for Non-Compliance Failure	15058
+Penalties for Non-Compliance With Data Privacy Regulations	19968
 Penalties for Non-Performance	11995,1479
 Peptic Ulcers Other Non-Infectious GIT Diseases	19544
 Performance of Non-Banking Sectors	6938

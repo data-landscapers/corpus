@@ -256,6 +256,8 @@ Hon. Apollo Maphalala	13227
 Hon. Senator Chief Mapungwana	13591
 Hospital Central de Maputo	2816,7372
 Hotspot Mapping	17157
+Household Shocks Map	19942
+Household Shocks Map Regional	19942
 II. VSLA Mapping and Database Development	17235
 III. Mapping of Data Flows	13004
 INFRASTUCTURE DEVELOPMENT Works Progress and Road Map	11131
@@ -541,7 +543,7 @@ Maposte.ci	15936
 Mapou Record Centre	14746
 Mapou Records Centre Ministry of Labour	14746
 Mapped	6580,4214,6611,2307,89
-Mapping	1009,819,268,2030,476,74,569,357,821,409,71,645,753,290,122,524,72,879,631,33,4,45,63,86,85,19,2,390,462,289,36,120,928,610,1043,95,124,32,57,131,242,45,148,43,649,276,529,343,32,129,384,16,255,147,65,758
+Mapping	1009,819,268,2030,476,74,569,357,821,409,71,645,753,290,122,524,72,879,631,33,4,45,63,86,85,19,2,390,462,289,36,120,928,610,1043,95,124,32,57,131,242,45,148,43,649,276,529,343,32,129,384,16,255,147,65,758,432
 Mapping AI Infrastructure Investment and Compute Governance	14673
 Mapping Accountability	5215
 Mapping African Digital Infrastructures	990,1
@@ -770,7 +772,7 @@ Rights Mapping and Analysis Platform URL	14074,2620,733
 Risk Mapping	19712
 Risk Mapping Combine	17157
 Rivers Map	15129
-Road Map	11275,2403,1795
+Road Map	11275,2403,1795,4464
 Road Map Development Workshop	1824
 Road Map Integration	11869
 Road Map for EU Engagement	970

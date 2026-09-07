@@ -349,8 +349,8 @@ Live and Dispatch Live	13461
 Live the VALUES	11131
 Live-stock	11185
 Lived	12192
-Lived Poverty	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
-Lived Poverty Health	10837,1052,263,11,177,1,7312
+Lived Poverty	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Lived Poverty Health	10837,1052,263,11,177,1,7312,285
 Lived Poverty Public Perception of Economic Opportunities	10759
 Lived Poverty Score Rank Public Procurement	11870
 Lived Poverty Sustainable Environment	10759,1395
@@ -358,7 +358,7 @@ Livelihood	10763,1534,86,581,1290,2331,317,212,43,213,601,154,1406
 Livelihood Activities	12977
 Livelihood Choices	17127
 Livelihood Coping Strategies Livelihood	17285
-Livelihood Empowerment Against Poverty	4336,11523,19,722
+Livelihood Empowerment Against Poverty	4336,11523,19,722,3365,1
 Livelihood Empowerment Against Poverty Program Impact	13332,2326
 Livelihood Interventions Undertaken	12977
 Livelihood Recovery and Resilience Building	17285

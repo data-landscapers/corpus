@@ -29,7 +29,7 @@ About UNDP	18558
 About UNDP Eritrea The UNDP	14125
 About UNDP UNDP	13752
 About the Digital Readiness Assessment The UNDP	12981
-Absence of Undue Influence	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Absence of Undue Influence	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Accelerating Home Under	10793
 Access Flooring System Underfloor	9123
 Access The UNDP	16883
@@ -51,6 +51,7 @@ Actual Release Under	19585
 Addressing Underage and Ghost Voters In the U.S	9390
 Adequate Level Of Protection Under Cross-Border	13381
 Adequate Level of Protection Under Cross-Border Data	13381
+Administration Undertake	19961
 Administration of Digital Taxes Undoubtedly	14932
 Administration. Under	13487
 Advisory Centre MMM Memorandum of Understanding GWEA	11986
@@ -86,6 +87,7 @@ Antetezambaro. UNDP Madagascar Antananarivo	14569
 Approach UNDP Mauritius	11332
 Area Child Mortality Disparities Under-5 Mortality	18441
 Area SDGs Sustainable Development Goals UNDP	16921
+Arrangement Under the Extended Credit Facility	19966
 Arrangement Under the Extended Credit Facility for Burundi	1284
 Arrangement Under the Resilience and Sustainability Facility	17257
 Article IV Consultation and Review Under the Flexible	8891,8612
@@ -107,7 +109,7 @@ BOARD MEMBERS Under	15023
 Babu Owino Other Undecided NR	7869
 Background Links Underline Readable Font Reset	12322
 Background The UNDP Energy Offer Project	13614
-Balances Absence of Undue Influence Civic Checks	10759,78,1315,188
+Balances Absence of Undue Influence Civic Checks	10759,78,1315,188,7598
 Banjul. Grants Under IAFS-I Scheme	17241
 Bank. ARTICLE V UNDERTAKINGS Section	16219
 Bank. Under	11134
@@ -493,6 +495,7 @@ Jennifer Onyeagoro Under	3648,894
 Joint Retreat for UNDP Staff	17101
 Joyce Onyeagoro Under	7405
 Justice Minister Moussa Sarr and UNDP Resident	13253
+Justice System Underdelivering	19972
 KHALIFA Fund. Under the NEEC	7763
 Kabaale. Under	19706
 Kagame Says... Under New Regulations	3256
@@ -588,7 +591,7 @@ Memoranda of Understanding ND-GAIN Notre Dame Global	18293
 Memoranda of Understanding. BOS	12706
 Memorandum Of Understanding	11923,6547
 Memorandum of Understand	19519
-Memorandum of Understanding	793,176,13,149,23,110,3,287,82,3,166,105,78,223,149,2,88,86,144,75,268,31,9,76,49,65,25,21,64,95,142,1,12,14,68,13,4,31,7,95,105,22,74,3,3,41,18,91,15,30,102,52,127,8,47,9,82,72,104,83,4,24,87,18,26,49,94,12,39,1,15,34,16,104,62,140,116,28,34,44,20,56,5,5,203,28,1,1,1,27,36,125,19,102,32,16,39,5,17,6,210,69,25,107,4,6,28,73,57,36,46,41,39,63,5,254,8,52,38,66,24,131,87,7,25,119,12,39,119,3,40,74,29,66,33,159,7,82,228,19,14,3,31,38,15,11,90,12,56,79,43,43,160,32,22,46,3,24,21,34,109,6,52,147,29,9,97,34,169,38,68,24,63,211,125,8,11,3,49,2,25,75,4,1,1,205,119,24,31,43,25,64,163,80,151,139,23,116,38,33,31,21,1,15,4,20,26,57,3,154,60,33,7,5,33,27,67,1,12,37,22,1,25,103,122,9,98,76,58,109,25,1,46,29,32,6,49,13,35,3,56,16,4,37,93,40,142,67,129,83,54,2,1,26,2,4,15,1,16,30,6,19,26,6,66,28,43,66,10,11,47,68,4,80,11,257,71,168,36,8,18,83,226,9,374,216,5,4,65,26,26,22,3,16,7,41,26,18,23,32,7,1,31,7,47,10,55,7,75,203,109,55,163,56,189,48,17,23,8,7,2,46,27,167,30,32,3,17,21,4,1,43,114,52,36,64,176,1,48,21,4,1,18,10,230,123,66,79,65,139
+Memorandum of Understanding	793,176,13,149,23,110,3,287,82,3,166,105,78,223,149,2,88,86,144,75,268,31,9,76,49,65,25,21,64,95,142,1,12,14,68,13,4,31,7,95,105,22,74,3,3,41,18,91,15,30,102,52,127,8,47,9,82,72,104,83,4,24,87,18,26,49,94,12,39,1,15,34,16,104,62,140,116,28,34,44,20,56,5,5,203,28,1,1,1,27,36,125,19,102,32,16,39,5,17,6,210,69,25,107,4,6,28,73,57,36,46,41,39,63,5,254,8,52,38,66,24,131,87,7,25,119,12,39,119,3,40,74,29,66,33,159,7,82,228,19,14,3,31,38,15,11,90,12,56,79,43,43,160,32,22,46,3,24,21,34,109,6,52,147,29,9,97,34,169,38,68,24,63,211,125,8,11,3,49,2,25,75,4,1,1,205,119,24,31,43,25,64,163,80,151,139,23,116,38,33,31,21,1,15,4,20,26,57,3,154,60,33,7,5,33,27,67,1,12,37,22,1,25,103,122,9,98,76,58,109,25,1,46,29,32,6,49,13,35,3,56,16,4,37,93,40,142,67,129,83,54,2,1,26,2,4,15,1,16,30,6,19,26,6,66,28,43,66,10,11,47,68,4,80,11,257,71,168,36,8,18,83,226,9,374,216,5,4,65,26,26,22,3,16,7,41,26,18,23,32,7,1,31,7,47,10,55,7,75,203,109,55,163,56,189,48,17,23,8,7,2,46,27,167,30,32,3,17,21,4,1,43,114,52,36,64,176,1,48,21,4,1,18,10,230,123,66,79,65,139,98,9
 Memorandum of Understanding Artefact	2450
 Memorandum of Understanding M.Sc. Master of Science NAPs	18578
 Memorandum of Understanding MPOX	10776
@@ -696,6 +699,7 @@ Offences Under Bail Act	14760
 Offences Under Excise Act	14760
 Office UNDP-STP	18864
 Office UNDP-ZWE	13618
+Office of Special Prosecutor Under NAP	19937
 Official Creditor Committee Under the G20 Common	14018
 Official Title UNDP-COD	16312
 Official Use Only UNDP United Nations	3604
@@ -812,6 +816,7 @@ Regulatory Bodies Yes Undertake	18532
 Relationship the Understanding	17097
 Release Under Bank Guarantee	11036
 Renewed Commitment Under	9582
+Report Data Breaches Requirements for Reporting Under	19968
 Reporting. Under	8670
 Reports Minutes Monthly Under Sec	13005
 Representing UNDP Malawi	8286
@@ -819,6 +824,7 @@ Representing the UNDP Resident Representative	3895
 Republic of Benin and Signs Memorandum of Understanding	15587
 Republic of Kenya. Telecom Undersecretary	18642
 Republic of Zambia THIS MEMORANDUM OF UNDERSTANDING	13348
+Requirements Under Act	19968
 Research Underpinning	1123
 Resident Representative for UNDP	15195
 Resident Representative of UNDP	5356
@@ -906,6 +912,7 @@ Standards Under Drafting and Development A Standard	19712
 Starlink. Under	4581
 Statement of Expenditure Under Vote	14773
 Statutory Authority Under Section	14737
+Still Underwhelming	19981
 Strategic Cooperation Memorandum of Understanding	13611
 Strategic Emerging Industries Business Headquarters. Under	6485
 Strategic National Asset Under President	13521
@@ -1032,7 +1039,7 @@ UNDERTAKINGS BY BIDDER	11240
 UNDERTAKINGS BY THE BIDDER	11209
 UNDERUTILIZED LAND AND RESOLUTION NUMBER	12912
 UNDERWEIGHT AMONG CHILDREN AGED	19544
-UNDESA	2510,8204,45,6,10,60,2,1,130,165,436,3,298,16,2,1,46,25,193,1,9,51,119,7,1,11,1,135,474,426,1509,576,1,1411,618,2149,1,169,14,22,1,65
+UNDESA	2510,8204,45,6,10,60,2,1,130,165,436,3,298,16,2,1,46,25,193,1,9,51,119,7,1,11,1,135,474,426,1509,576,1,1411,618,2149,1,169,14,22,1,65,14,1
 UNDESA Département	15474
 UNDESA United Nations Department of Economic and Social	11887,266,1,9,178,7517,1
 UNDG BigData final web.pdf	14434
@@ -1473,7 +1480,7 @@ Undefined Items	14546
 Undeland	18626
 Undenatured	6921,10090
 Undeposited Revenue	19585
-Under	11,16,162,47,124,402,170,8,13,5,14,37,80,60,5,7,51,31,7,34,58,212,127,21,75,18,49,23,121,88,137,35,352,80,51,110,48,116,7,25,14,16,50,44,15,32,10,125,111,2,46,36,45,21,11,33,85,49,89,71,106,1,59,19,25,16,69,5,19,79,45,16,5,20,82,16,2,1,31,1,38,11,11,2,5,6,21,15,6,3,13,6,1,33,22,8,18,56,22,5,28,72,41,60,23,55,1,22,2,45,8,7,19,1,1,4,1,4,27,4,1,11,10,4,9,11,4,4,12,11,9,31,17,109,4,17,69,39,20,65,29,56,41,11,82,8,28,3,60,42,3,15,45,9,1,5,5,6,4,29,22,1,15,70,2,6,29,11,24,13,17,36,58,6,9,120,34,8,2,126,12,4,19,15,51,1,2,2,60,30,5,31,23,10,52,22,14,8,39,19,17,33,11,17,33,8,33,6,5,10,27,15,39,16,28,24,37,83,5,8,55,22,49,23,18,11,22,4,67,38,4,23,25,100,41,5,1,28,1,46,5,54,49,18,7,15,1,17,3,10,9,50,2,18,53,19,8,41,33,5,6,29,45,8,152,86,2,28,7,42,4,6,13,33,2,12,56,43,24,48,9,4,13,19,8,20,58,1,37,47,12,11,7,102,34,25,20,10,59,6,18,2,5,50,25,8,8,15,45,14,16,9,19,15,12,5,36,18,21,39,6,22,13,3,30,4,17,11,33,13,65,5,38,2,20,9,28,26,2,17,2,51,1,8,14,28,3,31,26,1,3,7,21,4,22,7,15,9,3,5,23,3,73,3,1,16,5,51,21,22,2,41,4,5,9,12,2,44,30,20,23,6,15,13,75,37,52,17,1,9,8,21,11,27,9,48,60,11,49,1,10,40,6,4,54,11,39,19,25,21,23,10,19,10,75,8,23,5,8,67,9,63,11,7,5,43,8,3,22,10,14,38,15,3,12,40,22,186,24,63,66,25,26,10,19,9,6,1,1,45,13,23,13,23,26,1,27,21,12,5,1,27,71,23,9,1,12,17,36,2,2,88,7,20,28,92,30,31,11,3,64,105,6,52,12,36,36,55,13,134,22,1,18,21,35,165,79,132,17,27,7,6,2,8,8,22,46,1,2,4,6,5,50,2,3,20,11,33,1,5,32,4,16,4,29,3,15,25,30,9,47,64,86,39,37,13,23,24,2,5,13,20,2,1,4,32,3,51,17,6,21,7,4,2,2,7,55,18,78,2,64,14,20,62,55,106,43,2,23,64,41,257,1,17,187,17,4,32,5,7,4,4,8,3,4,9,9,17,27,13,1,9,6,5,7,1,14,26,32,45,13,13,2,1,23,16,1,56,22,25,29,2,26,9,41,3,34,15,22,128,39,101,11,23,2,124,1,13,23,64,46,23,84,40,35,15,20,7,23,38,140,34,2,8,27,17,19,30,3,82,18,54,19,11,32,26,2,62,50,4,15,143,9,129,8,39,123,48,64,1,9,2,10,3,13,14,13,1,31,6,20,4,31,2,26,10,6,7,6,2,9,16,29,8,20,17,20,13,31,31
+Under	11,16,162,47,124,402,170,8,13,5,14,37,80,60,5,7,51,31,7,34,58,212,127,21,75,18,49,23,121,88,137,35,352,80,51,110,48,116,7,25,14,16,50,44,15,32,10,125,111,2,46,36,45,21,11,33,85,49,89,71,106,1,59,19,25,16,69,5,19,79,45,16,5,20,82,16,2,1,31,1,38,11,11,2,5,6,21,15,6,3,13,6,1,33,22,8,18,56,22,5,28,72,41,60,23,55,1,22,2,45,8,7,19,1,1,4,1,4,27,4,1,11,10,4,9,11,4,4,12,11,9,31,17,109,4,17,69,39,20,65,29,56,41,11,82,8,28,3,60,42,3,15,45,9,1,5,5,6,4,29,22,1,15,70,2,6,29,11,24,13,17,36,58,6,9,120,34,8,2,126,12,4,19,15,51,1,2,2,60,30,5,31,23,10,52,22,14,8,39,19,17,33,11,17,33,8,33,6,5,10,27,15,39,16,28,24,37,83,5,8,55,22,49,23,18,11,22,4,67,38,4,23,25,100,41,5,1,28,1,46,5,54,49,18,7,15,1,17,3,10,9,50,2,18,53,19,8,41,33,5,6,29,45,8,152,86,2,28,7,42,4,6,13,33,2,12,56,43,24,48,9,4,13,19,8,20,58,1,37,47,12,11,7,102,34,25,20,10,59,6,18,2,5,50,25,8,8,15,45,14,16,9,19,15,12,5,36,18,21,39,6,22,13,3,30,4,17,11,33,13,65,5,38,2,20,9,28,26,2,17,2,51,1,8,14,28,3,31,26,1,3,7,21,4,22,7,15,9,3,5,23,3,73,3,1,16,5,51,21,22,2,41,4,5,9,12,2,44,30,20,23,6,15,13,75,37,52,17,1,9,8,21,11,27,9,48,60,11,49,1,10,40,6,4,54,11,39,19,25,21,23,10,19,10,75,8,23,5,8,67,9,63,11,7,5,43,8,3,22,10,14,38,15,3,12,40,22,186,24,63,66,25,26,10,19,9,6,1,1,45,13,23,13,23,26,1,27,21,12,5,1,27,71,23,9,1,12,17,36,2,2,88,7,20,28,92,30,31,11,3,64,105,6,52,12,36,36,55,13,134,22,1,18,21,35,165,79,132,17,27,7,6,2,8,8,22,46,1,2,4,6,5,50,2,3,20,11,33,1,5,32,4,16,4,29,3,15,25,30,9,47,64,86,39,37,13,23,24,2,5,13,20,2,1,4,32,3,51,17,6,21,7,4,2,2,7,55,18,78,2,64,14,20,62,55,106,43,2,23,64,41,257,1,17,187,17,4,32,5,7,4,4,8,3,4,9,9,17,27,13,1,9,6,5,7,1,14,26,32,45,13,13,2,1,23,16,1,56,22,25,29,2,26,9,41,3,34,15,22,128,39,101,11,23,2,124,1,13,23,64,46,23,84,40,35,15,20,7,23,38,140,34,2,8,27,17,19,30,3,82,18,54,19,11,32,26,2,62,50,4,15,143,9,129,8,39,123,48,64,1,9,2,10,3,13,14,13,1,31,6,20,4,31,2,26,10,6,7,6,2,9,16,29,8,20,17,20,13,31,31,13,8,7,8,9
 Under A1.2 Mapubi	15800
 Under AFRINIC	11797
 Under APFA	19874
@@ -1619,7 +1626,7 @@ Under Secretary for Foreign Assistance	17110
 Under Secretary of Commerce for International Trade	5773
 Under Secretary of State	5235
 Under Secretary of State for Economic Affairs Jacob	4447
-Under Section	5113,1068,603,1451,541,172,2088,1266,737,1,1702,3925
+Under Section	5113,1068,603,1451,541,172,2088,1266,737,1,1702,3925,1309
 Under Sections	11036,6176
 Under Senegal's Startup Ecosystem	5330
 Under Siege	9397
@@ -1687,7 +1694,7 @@ Under the DPA	12232
 Under the DSA	16783
 Under the DSR	4676
 Under the Data Protection	12301
-Under the Data Protection Act	7252,3086,72,2626
+Under the Data Protection Act	7252,3086,72,2626,6932
 Under the Data Protection Act and Regulations	12302
 Under the Digital Governance	15590
 Under the Digital Governance Plan	11873
@@ -1805,6 +1812,7 @@ Under the Refugee Sub-window	19835
 Under the Registration of Persons Act	10890,8925
 Under the Regularisation and Sanitisation Framework	13685
 Under the Regulations	6512,1668,4121
+Under the Renewable Energy Master Plan	19943
 Under the Renewable Lesotho	12680
 Under the Renewed Hope Agenda	11126,342
 Under the Renewed Hope Agenda of Mr. President	11954
@@ -1916,6 +1924,7 @@ Undermining	3572,7478
 Undermining National Unity	15393
 Undermining Trust	14932
 Underneath	7955,1157,2593
+Underpaid	19977
 Underperformance	16436,3149
 Underpinned	557,1130,4003,5778,4749,3504
 Underpinning	2845,763,7244,1514,1726,660,245,2212
@@ -2052,6 +2061,7 @@ Undertake Rapid Rural Appraisals	14818
 Undertake Research Development and Dissemination	14947
 Undertaken	5533,6453
 Undertaken Time Frame Responsible Body	15411
+Undertaken Timelines	19937
 Undertakes	12226,1798,865
 Undertaking	1988,5190,1168,3989,60,2661,355,1430,2678,83
 Undertaking Annual Survey of Industrial Production NBS	19519

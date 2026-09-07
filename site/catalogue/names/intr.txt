@@ -1,6 +1,6 @@
 A. Executive Summary Introduction	17018
 A. INTRODUCTION	3862,1251,7867,1151
-A. Introduction	1828,9028,2603,165,273,854,26,2119,115,2444,231
+A. Introduction	1828,9028,2603,165,273,854,26,2119,115,2444,231,280
 A. Introduction Esteemed	19737
 A. Introduction Text Figure	13624
 A. Introduction The African Union Agenda	10856
@@ -236,7 +236,7 @@ INTRODUCCIÓN Los	16962
 INTRODUCES DIGITAL SOLUTIONS	18566
 INTRODUCES DIGITAL SOLUTIONS URL	18566
 INTRODUCING THE WHISTLEBL WER HOTLINE NamRA	13044
-INTRODUCTION	10,386,23,299,47,175,58,2,161,82,5,562,178,530,258,3,382,235,255,63,73,75,265,233,99,389,35,13,348,1,293,117,777,766,350,806,250,795,1376,44,39,17,38,1,8,38,5,15,149,55,8,4,15,5,2,6,4,8,12,14,23,4,9,559,3,92,91,47,150,13,80,27,43,41,9,89,59,1,10,9,54,26,58,153,11,21,24,2,1,2,3,1,27,35,13,3,67,168,5,6,9,23,12,12,24,9,71,13,10,16,185,200,80,102,157,199,1,1,16,1,2,80,5,44,150,67,44,6,34,5,8,28,6,21,23,39,51,4,4,116,281,13,6,14,47,15,1,24,3,12,5,32,7,34,12,27,10,68,58,88,25,234,133,292,1,93,129,29,6,5,1,1,15,26,16,1,20,7,1,46,82,15,2,11,11,1,10,63,155,111,59,293,12,4,100,37,32,85,5,13,179,25,121,3,8,24,5,21,8,19,93,286,21,107,182,30,41,220,9,13,1,7,3,11,19,1,1,8,49,12,1,1,3,10,4,26,25,57
+INTRODUCTION	10,386,23,299,47,175,58,2,161,82,5,562,178,530,258,3,382,235,255,63,73,75,265,233,99,389,35,13,348,1,293,117,777,766,350,806,250,795,1376,44,39,17,38,1,8,38,5,15,149,55,8,4,15,5,2,6,4,8,12,14,23,4,9,559,3,92,91,47,150,13,80,27,43,41,9,89,59,1,10,9,54,26,58,153,11,21,24,2,1,2,3,1,27,35,13,3,67,168,5,6,9,23,12,12,24,9,71,13,10,16,185,200,80,102,157,199,1,1,16,1,2,80,5,44,150,67,44,6,34,5,8,28,6,21,23,39,51,4,4,116,281,13,6,14,47,15,1,24,3,12,5,32,7,34,12,27,10,68,58,88,25,234,133,292,1,93,129,29,6,5,1,1,15,26,16,1,20,7,1,46,82,15,2,11,11,1,10,63,155,111,59,293,12,4,100,37,32,85,5,13,179,25,121,3,8,24,5,21,8,19,93,286,21,107,182,30,41,220,9,13,1,7,3,11,19,1,1,8,49,12,1,1,3,10,4,26,25,57,165
 INTRODUCTION A Census of Population and Housing	13367
 INTRODUCTION A DPIA	13381
 INTRODUCTION A1. Definitions	17017
@@ -284,7 +284,7 @@ INTRODUCTION ET CONTEXTE	15541
 INTRODUCTION En	15712
 INTRODUCTION European Union	11156
 INTRODUCTION GENERALE	18103,66
-INTRODUCTION Ghana	15716
+INTRODUCTION Ghana	15716,4221
 INTRODUCTION Government of Ghana	15540
 INTRODUCTION Hon. F. Sakila Nyumalin	16970
 INTRODUCTION Honourable Speaker	17105
@@ -427,9 +427,11 @@ Intra-European Organisation of Tax Administration	12948
 Intra-Government Committees	5244
 Intra-Governmental Data Access	11995
 Intra-Governmental Data Access Access	11995
+Intra-Group Cross-Border Funds Transfer Special Audit	19940
 Intra-agency	5244
 Intra-cluster	11136
 Intra-data	15149
+Intra-group Cross-Border Funds Transfer Special Audit	19940
 Intra-group Data Protection Impact Assessment WhatsApp	5113
 Intra-hospital Extra-hospital Total Masculino	16962
 Intra-ministerial	16032
@@ -524,7 +526,7 @@ Introducing the Fairwork Foundation	226
 Introducing the MOT Online Vehicle Renewal Service	17142
 Introducing the Reformed Hardship Support Scheme	12175
 Introducir	1701
-Introduction	25,211,160,23,8,146,9,165,1,17,9,125,59,47,8,174,31,61,84,70,5,159,105,35,41,36,10,160,4,105,3,134,46,66,474,132,10,203,230,250,146,53,19,3,265,87,218,96,35,20,149,2,106,56,228,8,110,4,1,102,14,77,93,41,24,77,5,20,80,629,14,3,16,348,2,1,39,59,45,12,1,2,8,122,70,397,183,20,12,26,97,244,330,380,51,212,26,48,222,339,1,20,22,74,114,59,34,126,49,9,104,33,343,3,33,1,1,11,66,1,2,12,45,18,18,19,19,4,6,19,3,10,11,22,83,1,2,20,36,3,2,39,1,13,2,6,1,6,4,2,15,10,14,90,1,68,76,5,2,11,18,69,230,1,24,11,11,17,8,3,1,2,6,22,8,1,11,19,18,5,40,2,8,40,13,24,7,9,2,3,14,17,6,7,15,47,25,6,23,2,9,9,7,12,16,2,6,26,67,21,1,3,1,2,18,21,21,57,2,4,11,1,84,148,14,10,1,3,35,8,9,3,15,16,3,12,1,3,13,23,19,13,40,37,24,71,10,10,8,3,1,1,1,6,21,6,9,2,1,16,43,102,23,101,5,12,20,38,6,4,45,67,97,18,19,7,9,2,4,3,6,27,38,19,33,17,287,37,6,2,62,12,3,16,78,31,1,54,13,3,2,1,25,2,15,25,15,2,3,1,19,2,20,2,16,2,8,27,1,18,13,33,10,27,2,20,29,11,24,9,1,17,43,15,15,82,40,73,15,28,9,6,1,13,81,3,33,25,84,1,1,7,2,1,71,49,62,72,58,9,17,16,280,186,81,1,1,119,101,5,5,2,1,2,9,2,2,40,5,6,7,1,7,1,7,1,12,12,3,7,7,4,15,10,22,40,31,2,24,9,8,6,72,25,188,22,68,1,109,95,30,7,43,1,11,6,5,10,8,5,10,5,18,32,49,116,19,5,168,58,92,2,1,16,1,16,11,24,17,2,46,37,2,4,9,2,48,91,17,98,4,14,1,44,1,1,3,85,4,59,120,144,90,19,36,3,7,1,20,1,12,3,27,1,11,42,1,3,2,3,3,4,6,4,3,23,12,23,20,31,7,18,24,14,21,29,11
+Introduction	25,211,160,23,8,146,9,165,1,17,9,125,59,47,8,174,31,61,84,70,5,159,105,35,41,36,10,160,4,105,3,134,46,66,474,132,10,203,230,250,146,53,19,3,265,87,218,96,35,20,149,2,106,56,228,8,110,4,1,102,14,77,93,41,24,77,5,20,80,629,14,3,16,348,2,1,39,59,45,12,1,2,8,122,70,397,183,20,12,26,97,244,330,380,51,212,26,48,222,339,1,20,22,74,114,59,34,126,49,9,104,33,343,3,33,1,1,11,66,1,2,12,45,18,18,19,19,4,6,19,3,10,11,22,83,1,2,20,36,3,2,39,1,13,2,6,1,6,4,2,15,10,14,90,1,68,76,5,2,11,18,69,230,1,24,11,11,17,8,3,1,2,6,22,8,1,11,19,18,5,40,2,8,40,13,24,7,9,2,3,14,17,6,7,15,47,25,6,23,2,9,9,7,12,16,2,6,26,67,21,1,3,1,2,18,21,21,57,2,4,11,1,84,148,14,10,1,3,35,8,9,3,15,16,3,12,1,3,13,23,19,13,40,37,24,71,10,10,8,3,1,1,1,6,21,6,9,2,1,16,43,102,23,101,5,12,20,38,6,4,45,67,97,18,19,7,9,2,4,3,6,27,38,19,33,17,287,37,6,2,62,12,3,16,78,31,1,54,13,3,2,1,25,2,15,25,15,2,3,1,19,2,20,2,16,2,8,27,1,18,13,33,10,27,2,20,29,11,24,9,1,17,43,15,15,82,40,73,15,28,9,6,1,13,81,3,33,25,84,1,1,7,2,1,71,49,62,72,58,9,17,16,280,186,81,1,1,119,101,5,5,2,1,2,9,2,2,40,5,6,7,1,7,1,7,1,12,12,3,7,7,4,15,10,22,40,31,2,24,9,8,6,72,25,188,22,68,1,109,95,30,7,43,1,11,6,5,10,8,5,10,5,18,32,49,116,19,5,168,58,92,2,1,16,1,16,11,24,17,2,46,37,2,4,9,2,48,91,17,98,4,14,1,44,1,1,3,85,4,59,120,144,90,19,36,3,7,1,20,1,12,3,27,1,11,42,1,3,2,3,3,4,6,4,3,23,12,23,20,31,7,18,24,14,21,29,11,40,3,5
 Introduction A. Contexte	1218
 Introduction A.1. General The Prime Minister	14778
 Introduction AI	7451,7115,3214
@@ -559,6 +561,7 @@ Introduction Chapter Six	15845
 Introduction Characteristics of Establishment	15085
 Introduction China	10350
 Introduction Civil	13425
+Introduction Community-oriented	19974
 Introduction Content	7790
 Introduction Context	11135
 Introduction Copyright	9128
@@ -586,6 +589,7 @@ Introduction Floods	17157
 Introduction Following	3840,10944,49
 Introduction General	11401,5462
 Introduction General Information Country	12327
+Introduction Ghana’s FinTech	19940
 Introduction Global	11487
 Introduction Good	8376
 Introduction Government	13346
@@ -671,6 +675,7 @@ Introduction Table	12534,2363
 Introduction Tertiary	14747
 Introduction The Annual Performance Report	14835
 Introduction The Asbestos Management Plan	1988
+Introduction The Bank of Ghana	19940
 Introduction The Census	12383
 Introduction The Central Bank of Liberia	14647
 Introduction The Central Bank of Nigeria	11861
@@ -733,6 +738,7 @@ Introduction The World Health Organization	1219
 Introduction The XMUVI	11258
 Introduction These Guidelines	8590,6468
 Introduction This Annex	7548
+Introduction This Directive	19948
 Introduction This National Disability Action Plan	18611
 Introduction This Partnership Compact	12175,1815
 Introduction This Report	16978
@@ -773,9 +779,11 @@ Introduction of Hybrid Learning Modality	15604
 Introduction of Market Structure Requirements	6935,2815
 Introduction of Mixed Member Proportion	12652
 Introduction of Online Mobile Payments	13042
+Introduction of Payment Rings	19940
 Introduction of State Age Pension	14828
 Introduction of Transcranial Magnetic Simulation	14773
 Introduction of VAT	12233
+Introduction of Wero Digital Wallet The European	19940
 Introduction. Idt ISO	19474
 Introduction. In M. G. Cowles	17780
 Introduction5	582

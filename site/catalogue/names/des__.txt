@@ -666,7 +666,7 @@ Autorité de RégulatiDn des Communications Electroniques	37
 Autorité de Régulation des CCDB Marchés Publics	11905
 Autorité de Régulation des Com	19218
 Autorité de Régulation des Communica	19218
-Autorité de Régulation des Communications	969,1585,335,430,37,115,1331,20,96,252,620,467,354,141,485,1304,1357,5620,103,21,59,414,29,28,155,218,42,1129,406,113,698,269,20,15,101
+Autorité de Régulation des Communications	969,1585,335,430,37,115,1331,20,96,252,620,467,354,141,485,1304,1357,5620,103,21,59,414,29,28,155,218,42,1129,406,113,698,269,20,15,101,625
 Autorité de Régulation des Communications Electroniques	37,961,5243,4581,245,513,3835,59,38,142,673,1778,17,1087,9,4,14,9,6,46,4,5,20,8
 Autorité de Régulation des Communications Eléctroniques	969
 Autorité de Régulation des Jeux de Hasard	16323
@@ -4693,7 +4693,7 @@ FSRP-Togo. Des	14401
 FTTHCahier des Clauses Techniques Générales	19372
 Facilitation des Aéroports du Gabon	15973
 Facilitation des Echanges	19209
-Faculté des Sciences	1183,5818,8422,251,8,677,126,1342,29,268,288
+Faculté des Sciences	1183,5818,8422,251,8,677,126,1342,29,268,288,1543
 Faculté des Sciences Agronomiques	15682
 Faculté des Sciences Economiques	15797,2030,2,149,221,1010
 Faculté des Sciences Humaines de Gardolé	19032
@@ -5537,6 +5537,7 @@ Inspecteurs des Services Adjoints	16381
 Inspecteurs des Services Assistants	16381
 Inspecteurs des Services Statistiques	18169
 Inspection Générale des Douanes	13809
+Inspection Générale des FPN	19946
 Inspection Générale des Finances	969,2635,374,3645,1127,6622,197,89,54,1746,661,119,1001
 Inspection Générale des Finances- IGF	969
 Inspection Générale des Finances. Article	15569
@@ -5768,6 +5769,7 @@ L'UTILISATION DES TECHNOLOGIES DE L'INFORMATION	15643
 L'Union Internationale des Télécommunications	3449
 L'Union des Comores	5370,8355,3,7,83
 L'Unité de Coordination des Projets	14578
+L'Université des Sciences	19955
 L'administration des Douanes	4269
 L'ambassadeur du Royaume des Pays-Bas	5718
 L'analyse des PAP	15569

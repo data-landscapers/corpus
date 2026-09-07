@@ -76,7 +76,7 @@ Aura Merveille Hountondji	3590
 Austrian State Printing House	10293
 Authority NPHC National Population and Housing Census	19715
 Automated Check Processing and Automated Clearing House	17235
-Automated Clearing House	2358,1299,22,26,8005,576,78,950,138,1605,543,1244,32,66,196,97,2481
+Automated Clearing House	2358,1299,22,26,8005,576,78,950,138,1605,543,1244,32,66,196,97,2481,224
 Automated Clearing House AML	13452
 Automated Clearing House Related Indicator	7221
 Automated Clearing House System	19716
@@ -94,6 +94,7 @@ BUNNY HOUSE SCHOOLS LIMITED Data Processor	7167
 Background A Population and Housing Census	16921
 Bama Houet Hauts-Bassins	15715
 Bank Trust Funded STP Household Budget	18825
+Banks GACH Ghana Automated Clearing House	19940
 Basic Phone Smartphone Feature Phone HOUSEHOLD	582
 Belmont House	14847
 Ben Hounet	19874
@@ -169,7 +170,7 @@ Census The National Population and Housing Census	19715
 Census of Population and Housing	1867,10542,22,936
 Central Liberia Household Labor Men	17043
 Centre RPHC Rwanda Population and Housing Census	12413,2643
-Centre for Affordable Housing Finance	10759,78,1052,451,7313,183,38
+Centre for Affordable Housing Finance	10759,78,1052,451,7313,183,38,64
 Centre of Excellence for CRVS Systems. Housed	12138,189
 Century Program for Results Population and Housing Census	19519
 Chairman Marc Houreau	17579
@@ -201,7 +202,7 @@ Clarisse A Houngbedji	10919
 Clarisse A Houngbedji3	10919
 Clarisse House. Equipment	14830
 Clean Energy Housing	15244
-Clearing House	9516,2848,120
+Clearing House	9516,2848,120,7469
 Clearing House Anti Money	12701
 Clearing House. The Clearing House	4848
 Clearing Houses	12364
@@ -262,7 +263,7 @@ Day End Notification Hours	13606
 Deal House	14230
 Dear Hournorable Speaker	11289
 Decennial Population and Housing Census	19526
-Decent Housing	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,3175,3989,1,169,14,22,1,65
+Decent Housing	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,3175,3989,1,169,14,22,1,65,14,1
 Decent Housing Absence of Armed Conflict	10838
 Demographic and Household Survey	10829
 Demographic and Housing Survey	12962
@@ -396,6 +397,7 @@ FinAccess Household Survey Reporthttps	7548
 FinAccess Household Survey. Nairobi	12297
 FinAccess Household Survey148	11994
 Finance House	12701
+Finance Houses	19948
 Financial Access Household Survey Overview	2775
 Financial Corporations OOH Owner Occupied Housing	14777
 First Discount House	13122
@@ -411,7 +413,7 @@ Fourth Population and Housing Census	12413
 Freedom House	2117,3098,1617,117,2,1281,790,60,74,2535,177,465,43,2966,158,4136,17,183,85
 Freedom House AI Surveillance Index	121,138,83,133
 Freedom House Freedom	17967,217
-Freedom House HEI Health Effects Institute	10759,78,1052,451
+Freedom House HEI Health Effects Institute	10759,78,1052,451,7598
 Freedom House Report	14190
 Freedom House Score	10908,9014
 Freedom House WJP World Justice Project	10835,3,130,902,16,466,1,135,7334
@@ -447,7 +449,10 @@ General Population and Housing Census	7702,4701,3171,236,737,784
 General Population and Housing Census SDG7	15574
 Geneva Libyan Guest House China	4849
 Geo-Information Services LPHC Population and Housing Census	16921
-Ghana National Household Registry	15878,375,347
+Ghana Automated Clearing House	19940
+Ghana National Household Registry	15878,375,347,3342,23
+Ghana National Household Registry. All	19942
+Ghana. The REACT Household Solar Round	19943
 Gigawatt Hour	2775
 Gilles HOUNDOLO Membres	16485
 Global Household Energy Database	11572
@@ -460,6 +465,7 @@ Government ICT House	11184
 Government Printing House	17934
 Government Procurement Opportunities AHP Affordable Housing	2775
 Government of Sierra Leone Open Hours	18453
+Greater Houston	19944
 Green House Gas	12256,1824,1579,485,2309,356,854,14
 Grid Electricity Services for Households and Priority	12429
 Grievance Redress Mechanism HBS Household Budget	18765
@@ -557,7 +563,7 @@ Head ICT Ministry of Housing and Lands	14770
 Head of Household	19702
 Health Assistance Benefit Housing Benefit Education	16902
 Health Services Household	15244
-Helpline of Hope Ghana National Household Registry	16330
+Helpline of Hope Ghana National Household Registry	16330,3612
 Hervé HOUNZANDJI	16545
 Hervé HOUNZANDJI J1 Mercredi	16545
 Hervé HOUNZANDJI Membres	16545
@@ -636,7 +642,7 @@ Hours M2a0r-2235	12256
 Hours R	11259
 Hours South Africa Privacy FW Fairbridges	6632
 Hours Worked	19613
-House	582,568,60,11,1,61,503,1,1,5,3,1,13,932,125,334,1,2,6,400,199,842,159,188,452,746,120,272,95,255,30,114,1,2,5,1,465,1,138,87,60,172,727,155,200,25,2,177,99,340,574,359,29,414,14,55,31,9,6,16,26,13,662,148,90,68,66,84,18,28,43,21,67,155,3,10,174,34,26,2,40,31,67,1,7,257,49,90,12,53,357,188,298,306,8,5,35,53,91,46,43,49,78,99,1600,20,35,135,179,142,208,214,394,262,119,1047,166,10,37
+House	582,568,60,11,1,61,503,1,1,5,3,1,13,932,125,334,1,2,6,400,199,842,159,188,452,746,120,272,95,255,30,114,1,2,5,1,465,1,138,87,60,172,727,155,200,25,2,177,99,340,574,359,29,414,14,55,31,9,6,16,26,13,662,148,90,68,66,84,18,28,43,21,67,155,3,10,174,34,26,2,40,31,67,1,7,257,49,90,12,53,357,188,298,306,8,5,35,53,91,46,43,49,78,99,1600,20,35,135,179,142,208,214,394,262,119,1047,166,10,37,125
 House Approves Close	1798
 House Bill	17485
 House Breaking and Theft	12984
@@ -844,6 +850,8 @@ Household Sanitation and Hygiene	19715
 Household Savings for Resilience	15130
 Household Savings for Resilience Expand Access	15130
 Household Selection	13418
+Household Shocks Map	19942
+Household Shocks Map Regional	19942
 Household Size	12978,3943,2781
 Household Size Household	16921
 Household Size Household Size Observations Mean	12978
@@ -877,7 +885,7 @@ Household-level	11156,1501,7250
 Household-level MPI	15244
 Household. ICT	12403
 HouseholdExpenditure Survey Results	16833
-Households	582,5532,682,2535,216,546,670,5,25,48,11,111,1,21,148,3,56,19,51,38,555,24,45,234,75,28,72,11,14,15,10,16,4,26,7,4,516,7,1,13,1,354,15,2,183,272,294,44,581,22,62,29,60,1,27,235,85,275,55,27,16,41,1,20,290,44,19,56,296,468,15,9,26,38,2,8,16,34,43,56,186,458,106,28,1,26,200,94,103,54,86,2,841,258,2,10,32,53,38,25,13,26,190
+Households	582,5532,682,2535,216,546,670,5,25,48,11,111,1,21,148,3,56,19,51,38,555,24,45,234,75,28,72,11,14,15,10,16,4,26,7,4,516,7,1,13,1,354,15,2,183,272,294,44,581,22,62,29,60,1,27,235,85,275,55,27,16,41,1,20,290,44,19,56,296,468,15,9,26,38,2,8,16,34,43,56,186,458,106,28,1,26,200,94,103,54,86,2,841,258,2,10,32,53,38,25,13,26,190,11
 Households Affected	12977
 Households Agricultural Activities	19554
 Households Avocado	19554
@@ -1092,6 +1100,7 @@ INTRODUCTION A Census of Population and Housing	13367
 IOF Household Budget Survey	18777
 ISIbalo House	11192,66,28,10
 ITU DataHub ICT Households and Individuals ICT	14098
+IV ABBREVIATIONS ACH Automated Clearing House	19940
 IV. The First Hour Now	7777
 IV.1 HOUSEHOLD ACCESS TO DIFFERENT FORMS	15574
 IV.2 FUEL CONSUMPTION IN HOUSEHOLDS	15574
@@ -1458,7 +1467,7 @@ OBJECTIVES Assess Household Food Security	17285
 OPERATIONAL HOURS	15774
 ORODARA TAPOA HOUNDE HAUTS-BASSINS BOBO-DIOULASSO HOUET	10847
 OVP and State House. The NLe70	18576
-Office Hours	13462,2826
+Office Hours	13462,2826,3659
 Official White House	5366
 Ombudsman’s Hour	16958
 Once Household Impact	10964
@@ -1755,7 +1764,7 @@ Social Security House Julius Nyerere Avenue	14766
 Social Security and Housing Finance Corporation	3066,13821
 Socioeconomic Characteristics of Household Head	15244
 Socioeconomic Empowerment for Poor and Vulnerable Households	16384
-Socioeconomic Inequality Mitigation Decent Housing Food	10837,1315,188
+Socioeconomic Inequality Mitigation Decent Housing Food	10837,1315,188,7598
 Somali Integrated Household Budget Survey	3586,505
 Somali Population and Housing Census	14981
 Somali Population and Housing Census Somalia	14981

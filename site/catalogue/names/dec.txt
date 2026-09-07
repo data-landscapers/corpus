@@ -146,6 +146,8 @@ Assembleia Municipal Declarando	16290
 Assembleia Nacional Popular Decreta	11516
 Assembly Decision	5825
 Assessing the Impact of Decentralization Policy	13418
+Asset Declaration	19937
+Asset Declaration Again	19937
 Asset Declaration Forms	1554
 Asset Declaration Program	17037
 Asset Declaration Syst	17180
@@ -180,7 +182,7 @@ BANDE DE DECISION RENOUVELLEE China Petroleum	998
 BEIJING DECLARATION AND PLATFORM	18624
 BILAN DEC	17833
 BMC Med Inf Decis Mak	1261
-BMC Med Inform Decis Mak	1219,2572,6993,1462,9,124
+BMC Med Inform Decis Mak	1219,2572,6993,1462,9,124,7595
 BMC Medical Informatics and Decision Making	8604,2,2550,1223
 BOARD DECISION SHEET	1818
 BURUNDI'S LAW COULD DECIDE	12100
@@ -903,6 +905,7 @@ Decade of Transportable	17260
 Decade. EGMRG Victoria Falls	12761,7043
 Decades	4300,3621,2806,2586,3123
 Decades of Connection	12104
+Decades of Digitization	19981
 Decarbonization and Resilience	18823
 Decarbonization and Resilience Action Plan	18795
 Decarbonizing World	16996
@@ -938,7 +941,7 @@ Decennial Population and Housing Census	19526
 Decennial Review	16436
 Decent	789,4457,1958,4659,1101,6751
 Decent Dwelling for Every Family Honourable	14748
-Decent Housing	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,3175,3989,1,169,14,22,1,65
+Decent Housing	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,3175,3989,1,169,14,22,1,65,14,1
 Decent Housing Absence of Armed Conflict	10838
 Decent Jobs PRESS RELEASE	14092
 Decent Life	1902,2146,3349,2227,2114,3840,147,321,3,3819,17
@@ -1793,9 +1796,10 @@ Judges Pitch Deck Must Include	13168
 Judicial Decisions	16949
 Judicial Review of Data Governance Decisions	3861
 Jul Aug Sep Oct Nov Dec	11953,1142,3840,974,209
+Jul Aug Sept Oct Nov Dec	19940
 Jul- Dec-25	2989
 Jul-23 Aug-23 Sep-23 Oct-23 Nov-23 Dec-23	11953
-Jul-24 Aug-24 Sep-24 Oct-24 Nov-24 Dec-24	11953,303
+Jul-24 Aug-24 Sep-24 Oct-24 Nov-24 Dec-24	11953,303,7684
 Jul-25 Aug-25 Sept-25 Oct-25 Nov-25 Dec-25	18217
 July. The Declaration	7883
 Jun'21 Sep'21 Dec'21 Mar'22 Jun'22 Sep'22	11198
@@ -2376,7 +2380,7 @@ Simplified Declarations	15478
 Single Point of Decision Making	12389
 Sirte Declaration	18479
 Social Registry. DECISION	16867
-Socioeconomic Inequality Mitigation Decent Housing Food	10837,1315,188
+Socioeconomic Inequality Mitigation Decent Housing Food	10837,1315,188,7598
 Soil Fertility and Biological Health Declining	14818
 Solaire DECIM Projet	14479
 Solaire FINEXPO Solaire DEcIM Projet	14479
@@ -2516,6 +2520,7 @@ Vu DECRETE	15431
 W3C Verifiable Credentials and Decentralized Identifiers	13080,15
 WAYA Validé Acceptée DECLA-0023	998
 WELFARE AND DECENT WORK	18624
+WHO. Declaration of Astana	19974
 Waka Seed Deck	5863
 Wali's Decisions	14884
 Wealth Decentralised	11994

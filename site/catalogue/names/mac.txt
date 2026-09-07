@@ -8,6 +8,7 @@ ALICE MUKULU Data Processor INST-978524CB3ED MACHAKOS	7167
 AMUSEMENT MACHINE OPERATOR	14843
 AMUSEMENT MACHINE TECHNICIAN AND OTHER EMPLOYEES	14843
 APPLICATION FOR REGISTRATION OF REGULATED MACHINERY	14814
+ATM Automated Teller Machine B2W Bank-to-Wallet	19940
 ATM Machines	11955,83
 AVANI HEALTHCARE Data Processor INST-1772561357F MACHAKOS	7167
 Acompanhamento Macroeconómico	15526
@@ -55,15 +56,17 @@ Association for Computing Machinery	2093,6671,364,109,502,951,445,955,5690
 Association for Computing Machinery. Crossref Google Scholar	8460
 Aucune MACROLIAS DEMANDE REJETEE	998
 Authority MACs Ministries	16876
-Automated Teller Machine	6462,1447,3225,904,1266,1615,2023,90,2558
+Automated Teller Machine	6462,1447,3225,904,1266,1615,2023,90,2558,350
 Automated Teller Machine ATS Automated Transfer	13312,2
 Automated Teller Machine B2B Business	16876
 Automated Teller Machine BACH	19664
 Automated Teller Machine BBS Bank of Uganda	19647
 Automated Teller Machine Coronavirus Disease Digital	940
-Automated Teller Machines	6774,3387,1794,83,193,1801,1546,22,63,1215,357,2429
+Automated Teller Machines	6774,3387,1794,83,193,1801,1546,22,63,1215,357,2429,284
 Automated Teller Machines ATMs	11955
 Automated Teller Machines BCG	14742
+Automated Teller Machines and Point of Sale Devices	19940
+Automated Teller Machines and Points of Sales	19940
 Automatic Teller Machine	14880
 Automatic Teller Machine DCC	11955
 Automatic Teller Machines	11939
@@ -328,6 +331,7 @@ Ian Mackay	8450
 Ian Mackay Associate Director	7751
 Implementation Scope Pilot Machines	10617
 Implementing MACs	17180
+Indicators Automated Teller Machines	19940
 Indicators MACRA Malawi Communications Regulatory Authority	12240
 Industrial Sewing Machines and Cutting	12979
 Information Commission Chairperson Neneh Macdouall Gaye	17335
@@ -337,7 +341,7 @@ Instituto Ciências da Saúde Victor Sá Machado	18963
 Insurers Association ATM Automatic Teller Machine	14997
 Integrated Macroeconomic Model SOE State-Owned Enterprise	18488,12
 International Macroeconomics Finance	6946
-Internet Archive Wayback Machine	4165,7775,204,24,9,1,12,26,1,1,73,2388,964,1394,2717,67,2,11,3,6,9,5,27,23,26
+Internet Archive Wayback Machine	4165,7775,204,24,9,1,12,26,1,1,73,2388,964,1394,2717,67,2,11,3,6,9,5,27,23,26,17,3
 Interoperable Solution Service Machine	19638
 J.E. Boosting Machine. The Annals of Statistics	19237
 Jacob Machec	18646
@@ -601,7 +605,7 @@ Machine Numbers and Toll-Free Numbers. Toll Free	16934
 Machine Readability	170
 Machine Readable Format	12389
 Machine Readable Passport	15320,1517
-Machine Readable Zone	2430,12962
+Machine Readable Zone	2430,12962,4543
 Machine Subscriptions	2776,1086,3084
 Machine Subscriptions Mobile Network Q3	2776
 Machine' Exploits Spotted	3279
@@ -693,7 +697,7 @@ Macro Fiscal Policy Division	18488,12,77
 Macro Fiscal Strategy Group	18488
 Macro Fiscal Working Group	18500
 Macro Fiscal and Budget Planning Training	18488
-Macro Poverty Outlook	10768,2564,4538,1061
+Macro Poverty Outlook	10768,2564,4538,1061,1035
 Macro Poverty Outlook Fall	18293
 Macro Reforms and Effectiveness	18488
 Macro Stress Testing Framework	11134

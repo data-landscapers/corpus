@@ -152,7 +152,7 @@ Chambers	783,2222,9454,2254,1,1,12,1,14,1,66,563,913,658,1653
 Chambers Cases and Supreme Court Registry	14830
 Chambers Global	2546
 Chambers Union and Align	17291
-Chambers and Partners	5247
+Chambers and Partners	5247,14721
 Chambers of Commerce	5247,5882,3768,2202,15
 Chambers of Commerce and Director of API	16275
 Chambers of Commerce and Industry	12894
@@ -336,12 +336,13 @@ Gambia Chamber of Commerce and Industry Gambia Startup	16973
 Gambia Chamber of Commerce and Industry Promote	16926
 Gambia Women’s Chamber of Commerce	17069
 Gender Champions	13936
+Gender Inclusion Championing	19941
 General News The Namibia Chamber of Commerce	8414
 General Union of Chambers of Commerce	5264,1895,3486
 General Union of Chambers of Commerce The Libyan	5264
 Ghana Chamber	4126
 Ghana Chamber Ghana’s National AI Fund	4126
-Ghana Chamber of Telecommunications	236,3516,2424,9,34,132,3898,883
+Ghana Chamber of Telecommunications	236,3516,2424,9,34,132,3898,883,8834
 Ghana Champions Continental Digital Trade Corridor	6136
 Ghana Community Network GCT Ghana Chamber	236
 Ghana Telecommunications Chamber	236
@@ -524,6 +525,7 @@ Taxation Chamber	8923,6261
 Taxation Chamber Headquarters	15184
 Teacher and Inclusion Champion Each IC	18490
 Teacher and Inclusion Champion Key	18490
+Telecoms Chamber	19966
 Through the Digital Champions Programme	16775
 Titre XII. De la Chambre	15603
 Tripoli Chamber of Commerce	3826

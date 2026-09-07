@@ -273,6 +273,7 @@ Availability of Official	12389
 Availability of Technology Transfer Offices	12389
 Available Registration Officers	19541
 Avances Officiers	17899
+Awoonor-Williams JK. Ghana's Community Health Officers	19974
 Ayham Moussa. Chief Operations Officer	10120
 B ETABLISSEMENETS OFFICE CITY EOC	16623
 B. Recruitment The Office	12977
@@ -676,6 +677,7 @@ Chief Executive Officer of Trident	2698
 Chief Executive Officer of Tunisie Telecom	4650
 Chief Executive Officer of Vision Invest	14405
 Chief Executive Officer of Vodacom Congo	5714
+Chief Executive Officer of Volta River	19959
 Chief Executive Officer of Yas Comoros	3067
 Chief Executive Officer's Overview	408
 Chief Executive Officer. Election Process	8866
@@ -881,6 +883,8 @@ Community Development Office	12970
 Community Development Officer	12970,6820
 Community Development Officers	19531,176
 Community Health Care Officers	14742
+Community Health Officer	19974
+Community Health Officers	19974
 Community Health and Safety Impacts Official Use	12253
 Community Liaison Officer	18504,1321
 Community Liaison Officers	16926,1578
@@ -898,6 +902,8 @@ Compliance Officers	7123,4619,6004
 Component CLOs Community Liaison Officers CLSG	18504
 Components For Official Use Only	15735,2615,467
 Concessions Chief Executive Officer Email	19532
+Conduct of Public Officers Bill	19937
+Conduct of Public Officers’ Bill	19937
 Conexxia and OfficeTech	16942
 Conference for Official Statistics	16927
 Conference of Official Statistics The Conference	16927
@@ -916,6 +922,7 @@ Constitutional Office	14748
 Construction of Office Building	19565
 Construction of Regional Offices	12984
 Consultation Register Official Use Only Official	12253
+Consumer Education Office	19940
 Consumer Liaison Officer	17243
 Consumer Protection Office CSDB	19664
 Contact Information Mahe Central Office	19041
@@ -1039,6 +1046,7 @@ DHA Chief Executive Officer Anthony Lenaiyara	10331
 DHA Live Capture Offices	2115
 DHA Office	2115
 DHA Officials. Intermediate	11986
+DHIS2 Officially Launched	19960
 DIGITAL SHIFT FOR EXTENSION OFFICERS	9526
 DIGITALIZATION OFFICE FUNCTION	14921
 DIRECTORS AND EXECUTIVE OFFICERS	7198
@@ -1151,7 +1159,7 @@ Development AISIO AI Strategy Implementation Office	12512
 Development Central Statistical Office	12944
 Development Coordination Officer	18160
 Development Monitoring and Evaluation Office DMEO	15244
-Development Office	2590,1536,1046,1254,1616,2975,66,840,83,36,149,1876,75,651,266,5,556,816,2025,116,1106
+Development Office	2590,1536,1046,1254,1616,2975,66,840,83,36,149,1876,75,651,266,5,556,816,2025,116,1106,260
 Development Office Famines Early Warning Systems	10763
 Development Office GDP Gross Domestic Product	12006
 Development Office Published	9630
@@ -1229,6 +1237,7 @@ District Internal Security Officer	2928
 District Land Officers	13135
 District Medical Officers	3791
 District National Registration Offices	17686
+District Office	19935
 District Officer	18467
 District Officers	7503,311,10686
 District Offices	2689
@@ -1303,6 +1312,7 @@ EJOURNAL OFFICIEL	18332
 EMS Office. Antivirus	12917
 EN Official Journal	14447
 ENPF Chief Executive Officer	11626,1382
+EOCO Economic and Organised Crime Office EPI	19940
 ESCCOM Acting Chief Executive Officer Fikile	6820,2808
 ESCCOM Chief Executive Officer	4058
 ESCCOM Chief Executive Officer Mvilawemphi Dlamini	13066
@@ -1591,7 +1601,7 @@ GRA Commissioner of Customs Meets UNCTAD Officials	17063
 GRAND FINAL VERSUS OFFICE	18576
 GS1 Tanzania Chief Executive Officer	5883
 GSM Association Official Document FS.31 CM	10721
-GSMA Head Office	6593,4411,13,885,62,30
+GSMA Head Office	6593,4411,13,885,62,30,7972
 GSMA Head Office One Angel Lane	10856,3818
 GSMA Press Office	7825
 GSU Chief Executive Officer and Managing Director	4934
@@ -1618,6 +1628,7 @@ German Federal Foreign Office	7794,1676,237
 German Federal Foreign Office Press Release	7794
 German Federal Statistical Office. Mobile	9149
 Ghana Card. Officials	3752
+Ghana Mission Offices	19935
 Ghana's Official National Digital Address... URL	16604
 Ghana. Officials	7696
 Girl Education Officers	15716
@@ -1634,6 +1645,7 @@ Gouvernement. Official Gazette	15126
 Governance Officer	15034
 Governance Officer Operationalize	15034
 Governance Officers	15034,2082
+Governance Partnership ORC Office	19937
 Government Administrative Officer OMCs Oil Marketing	12256
 Government Chief Information Officer	12359
 Government Chief Information Officer Início	11569
@@ -2193,7 +2205,7 @@ MISA Regional Office	13124
 MISSION MEMBERS AND OFFICIALS	12195
 MIT News Office	12231
 MMFL Chief Executive Officer Shaibu Haruna	10117
-MOC Office	16288
+MOC Office	16288,3659
 MOE Central Office	16963
 MOH Official Use Only Page	11417
 MOJ Office	18477
@@ -2334,6 +2346,7 @@ Ministry Zonal Offices	19711
 Ministry of Education and UNICEF Ethiopia Country Office	13999
 Ministry of Finance Office	15090
 Ministry of Finance's Public Relations Officer	9440
+Ministry of Finance. Officials	19981
 Ministry of Finance’s Legal Advisory Office. CBE	11134
 Ministry of Health and Wellness for Police Officers	14760
 Ministry of Home Affairs Communications Officer	6820
@@ -2413,7 +2426,10 @@ NEPAD Office of Science and Technology	12675
 NET OFFICIAL DEVELOPMENT ASSISTANCE	16892
 NHIA and Passport Office	15823
 NIA District Office	2689,13399
-NIA District Offices	3568
+NIA District Offices	3568,16367,1
+NIA Offices	19935
+NIA Registration Office	19935
+NIA's Registration Offices	19935
 NIDA District Office	2119
 NIGCOMSAT's Managing Director and Chief Executive Officer	10699
 NIRA Officials Visit NADRA Offices for Benchmarking	10521
@@ -2726,7 +2742,7 @@ Occupational Health and Safety Official Use Only	12253
 Oct-2025 For Official Use Only	18350
 Oct-24 Attorney General’s Office	14746
 Offical States Secrets Act Requirement	11952
-Office	395,16,176,131,244,7,1,2,42,11,129,74,15,39,2,6,264,22,54,44,103,1,32,57,7,1,53,16,20,24,81,48,136,79,10,47,135,92,36,16,59,48,4,94,47,111,20,66,2,188,57,22,70,70,6,30,21,9,3,25,40,54,11,217,46,66,53,7,12,8,80,3,11,139,161,7,48,7,7,43,28,47,4,89,28,60,84,53,39,6,35,4,6,11,81,5,143,3,97,70,17,48,18,10,16,9,124,69,150,37,102,26,1,22,47,2,31,128,32,71,13,28,34,149,4,72,13,25,1,17,55,32,10,5,8,15,1,14,65,56,31,18,8,24,121,126,9,1,27,19,54,59,8,2,16,14,23,26,13,11,23,102,60,1,67,45,4,28,24,176,40,49,28,53,49,21,30,9,103,162,10,18,23,46,9,8,81,65,23,35,22,33,8,13,42,44,36,89,20,12,8,1,70,27,5,40,21,1,42,23,10,17,32,2,8,16,85,3,86,11,15,12,90,7,44,1,47,93,57,5,3,25,5,58,15,3,53,38,53,30,6,4,86,47,28,11,5,29,3,10,4,1,14,3,12,70,38,13,66,83,5,2,1,15,7,8,13,5,36,4,2,23,11,3,4,12,3,6,3,180,94,21,2,42,9,25,129,57,18,1,1,47,8,19,9,4,31,9,3,63,1,76,5,2,6,10,9,1,18,21,4,3,15,8,50,11,1,23,2,10,17,13,8,6,10,23,1,13,16,4,4,1,13,12,5,17,12,103,37,15,26,33,5,1,2,10,152,21,3,1,2,4,8,4,11,6,5,1,2,7,1,5,5,2,9,22,18,4,3,13,27,15,2,26,90,23,72,2,1,1,2,6,1,1,3,4,3,3,10,10,4,25,1,2,31,2,39,11,4,30,39,35,71,39,11,74,83,152,1,27,15,85,36,32,63,8,34,34,5,2,60,20,4,1,6,7,76,22,55,63,49,7,3,4,15,4,2,3,10,7,2,2,6,6,4,17,4,4,1,10,6,17,11,4,17,12,15,1,14,4,5,5,30,1,28,29,4,20,12,88,1,16,17,42,12,101,6,30,39,18,27,17,73,7,48,3,16,19,18,13,28,33,123,23,30,23,6,126,144,37,44,224,20,6,15,20,2,6,23,38,116,79,5,2,4,4,7,5,4,10,7,1,11,4,27,16,4,5,3,3,12,1,1,3,31,19,12,64,4,33,1,41,52,3,2,8,35,9,102,3,45,2,7,42,2,65,32,19,46,81,8,2,36,46,43,3,3,58,2,9,87,72,2,17,53,29,8,4,3,20,13,16,7,29,22,12,73,22,3,9,3,4,7,3,4,10,9,2,12,19,12,1,5,9,1,21,4,4,1,1,74,13,1,3,41,21,15,141,1,15,8,1,15,113,2,7,14,1,26,6,23,14,5,2,3,18,20,15,2,36,16,24,10,4,3,32,103,10,15,55,10,3,1,3,3,3,5,7,1,3,9,1,2,15,4,8,1,7,49,1,5,8,5,6,19,1,3,12,11,9,3,3,8,6,6,12,1,12,26,5,84,2
+Office	395,16,176,131,244,7,1,2,42,11,129,74,15,39,2,6,264,22,54,44,103,1,32,57,7,1,53,16,20,24,81,48,136,79,10,47,135,92,36,16,59,48,4,94,47,111,20,66,2,188,57,22,70,70,6,30,21,9,3,25,40,54,11,217,46,66,53,7,12,8,80,3,11,139,161,7,48,7,7,43,28,47,4,89,28,60,84,53,39,6,35,4,6,11,81,5,143,3,97,70,17,48,18,10,16,9,124,69,150,37,102,26,1,22,47,2,31,128,32,71,13,28,34,149,4,72,13,25,1,17,55,32,10,5,8,15,1,14,65,56,31,18,8,24,121,126,9,1,27,19,54,59,8,2,16,14,23,26,13,11,23,102,60,1,67,45,4,28,24,176,40,49,28,53,49,21,30,9,103,162,10,18,23,46,9,8,81,65,23,35,22,33,8,13,42,44,36,89,20,12,8,1,70,27,5,40,21,1,42,23,10,17,32,2,8,16,85,3,86,11,15,12,90,7,44,1,47,93,57,5,3,25,5,58,15,3,53,38,53,30,6,4,86,47,28,11,5,29,3,10,4,1,14,3,12,70,38,13,66,83,5,2,1,15,7,8,13,5,36,4,2,23,11,3,4,12,3,6,3,180,94,21,2,42,9,25,129,57,18,1,1,47,8,19,9,4,31,9,3,63,1,76,5,2,6,10,9,1,18,21,4,3,15,8,50,11,1,23,2,10,17,13,8,6,10,23,1,13,16,4,4,1,13,12,5,17,12,103,37,15,26,33,5,1,2,10,152,21,3,1,2,4,8,4,11,6,5,1,2,7,1,5,5,2,9,22,18,4,3,13,27,15,2,26,90,23,72,2,1,1,2,6,1,1,3,4,3,3,10,10,4,25,1,2,31,2,39,11,4,30,39,35,71,39,11,74,83,152,1,27,15,85,36,32,63,8,34,34,5,2,60,20,4,1,6,7,76,22,55,63,49,7,3,4,15,4,2,3,10,7,2,2,6,6,4,17,4,4,1,10,6,17,11,4,17,12,15,1,14,4,5,5,30,1,28,29,4,20,12,88,1,16,17,42,12,101,6,30,39,18,27,17,73,7,48,3,16,19,18,13,28,33,123,23,30,23,6,126,144,37,44,224,20,6,15,20,2,6,23,38,116,79,5,2,4,4,7,5,4,10,7,1,11,4,27,16,4,5,3,3,12,1,1,3,31,19,12,64,4,33,1,41,52,3,2,8,35,9,102,3,45,2,7,42,2,65,32,19,46,81,8,2,36,46,43,3,3,58,2,9,87,72,2,17,53,29,8,4,3,20,13,16,7,29,22,12,73,22,3,9,3,4,7,3,4,10,9,2,12,19,12,1,5,9,1,21,4,4,1,1,74,13,1,3,41,21,15,141,1,15,8,1,15,113,2,7,14,1,26,6,23,14,5,2,3,18,20,15,2,36,16,24,10,4,3,32,103,10,15,55,10,3,1,3,3,3,5,7,1,3,9,1,2,15,4,8,1,7,49,1,5,8,5,6,19,1,3,12,11,9,3,3,8,6,6,12,1,12,26,5,84,2,48,29
 Office Accommodation	5533,6453,2775
 Office Accommodation Office Management Executive	14746
 Office Accra	2308
@@ -2774,7 +2790,7 @@ Office Faciliter	19250
 Office Furnitur Component	17180
 Office GCF Green Climate Fund KPI	14745
 Office Guide Federal	11129
-Office Hours	13462,2826
+Office Hours	13462,2826,3659
 Office IT Equipment	19245
 Office International des Epizooties	13320
 Office Ivoirien	15936
@@ -2962,6 +2978,8 @@ Office of Science and Technology Research and Development	13952
 Office of Science and Technology Services Coordination	13952,5981
 Office of Solicitor General Level	19584
 Office of Solicitor General. Macro- TMX	19519
+Office of Special Prosecutor	19937
+Office of Special Prosecutor Under NAP	19937
 Office of Standards and Compliance	11182
 Office of Standards and Compliance CHAPTER	11182
 Office of Strategic Capital	4447
@@ -3146,6 +3164,7 @@ Official Launch and Platform Capabilities The Fayda	12238
 Official Launch and Product Demonstration	3895
 Official Launch of The APRM	13673
 Official License	14953
+Official Liquidations	19961
 Official List	4263,633
 Official MLT	17257
 Official Mission Expenses	17236
@@ -3349,7 +3368,7 @@ OfficialUse On RÉPUBLIQUE DU BURUNDI MINISTERE	13555
 Officially	1777,3000,758,404,2027,1643,151,21,270,147,365,18,137,1638,150,119,6,113,1264,1049,496,280,904,235,13,1745,9,954
 Officially Handed Over Updated	5991
 OfficialpublicationsfromtheWorld HealthOrganization	8301
-Officials	791,855,166,30,38,399,3,36,42,75,284,69,32,28,71,3,212,42,59,21,170,11,23,103,47,21,9,72,62,165,19,10,5,59,89,11,152,155,192,3,18,16,58,26,162,97,3,42,14,39,5,7,27,5,9,63,43,18,1,15,10,4,40,15,8,25,17,17,16,10,45,8,16,2,4,32,9,2,3,11,10,52,16,89,13,94,36,11,24,1,8,2,4,17,3,9,5,52,29,21,1,3,28,32,42,15,26,49,9,7,29,10,12,25,13,58,8,14,12,76,40,46,41,15,5,22,26,15,17,9,19,26,27,25,123,2,2,1,2,38,1,58,56,1,42,10,2,93,59,48,49,24,7,71,59,4,1,49,53,1,45,110,93,26,165,49,33,88,8,56,34,24,130,50,134,1,108,17,10,26,54,9,10,212,96,61,16,98,137,318,360,132,66,37,512,45,36,1,74,418,65,40,155,77,71,202,18,204,690,60,79,128,132,438,113,97,4,7,1,30,10,271,90,170,173,20,37,29,6,66,35,30,1758,3,105,82,51,17,98,40,258,60,49,39,709,10,46,27,95,32,5,32,14,9,175,74,260,92,204,38,157,28
+Officials	791,855,166,30,38,399,3,36,42,75,284,69,32,28,71,3,212,42,59,21,170,11,23,103,47,21,9,72,62,165,19,10,5,59,89,11,152,155,192,3,18,16,58,26,162,97,3,42,14,39,5,7,27,5,9,63,43,18,1,15,10,4,40,15,8,25,17,17,16,10,45,8,16,2,4,32,9,2,3,11,10,52,16,89,13,94,36,11,24,1,8,2,4,17,3,9,5,52,29,21,1,3,28,32,42,15,26,49,9,7,29,10,12,25,13,58,8,14,12,76,40,46,41,15,5,22,26,15,17,9,19,26,27,25,123,2,2,1,2,38,1,58,56,1,42,10,2,93,59,48,49,24,7,71,59,4,1,49,53,1,45,110,93,26,165,49,33,88,8,56,34,24,130,50,134,1,108,17,10,26,54,9,10,212,96,61,16,98,137,318,360,132,66,37,512,45,36,1,74,418,65,40,155,77,71,202,18,204,690,60,79,128,132,438,113,97,4,7,1,30,10,271,90,170,173,20,37,29,6,66,35,30,1758,3,105,82,51,17,98,40,258,60,49,39,709,10,46,27,95,32,5,32,14,9,175,74,260,92,204,38,157,28,201
 Officiated	18621
 Officiated UHC Day	13166
 Officiating	9397,4091,1639
@@ -3430,6 +3449,7 @@ Orange Sierra Leone’s Chief Executive Officer	4114,14408
 Orange Sierra Leone’s Chief Technical Officer	4114
 Orange Sierra Leone’s Public Relations Officer	11651
 Ordinance. The Office	18477
+Organisation EOCO Economic and Organised Crime Office	19937
 Outcomes Official	13457
 Outlook Building High Rise Office Tower	11134
 Oval Office	5808,375
@@ -3471,6 +3491,7 @@ PERSONAL DATA PROTECTION OFFICE AT KAMPALA	3307
 PERSONAL PROTECTIVE EQUIPMENT Official Use Only	12253
 PERSONNEL MANAGEMENT OFFICE	16858
 PEs President's Office	19534
+PHC. Community Health Officers	19974
 PIDDC01406 Official Use Only The World	13111
 PIDIA01397 Official Use Only The World	3456
 PIDIA01568 Official Use Only Public Disclosure	14576
@@ -3948,7 +3969,7 @@ Regional Office for Eastern Africa	14899
 Regional Office for Southern Africa	10073
 Regional Office for Southern Africa Regional Groups	12550
 Regional Office for West and Central Africa ROWCA	16411
-Regional Offices	12337,68,512,65,126,1438,5166
+Regional Offices	12337,68,512,65,126,1438,5166,223,1
 Regional Offices CA Central and Eastern CA	6946
 Regional Offices SWMU	14742
 Regional Offices for Capacity Building WCO Structure	13051
@@ -3961,6 +3982,7 @@ Regional Social Welfare Offices and Tinkhundla Centres	12405
 Regional Statistical Officers	15628
 Regional Statistical Offices for Mainland Tanzania and OCGS	19557
 Regional Verification Officers	16922
+Regional and District Offices	19935
 Regional and District Offices. Having	18475
 Regional and Sub-regional Offices	13956
 Registered Office Address	11250,1114
@@ -3970,15 +3992,16 @@ Registrar CRO Civil Registration Officer CRVS	15056
 Registrar General's Office	2371
 Registrar and Chief Executive Officer	13158
 Registrar for Officers for Songwe	19541
+Registrar of Companies OSP Office	19937
 Registrar's Certificates and Special Licenses. The Office	12290
 Registrar's Office	1
 Registrar-General's Office	7782,5917
 Registrar-General's Office. Responding	7782
 Registration Cadre. Officers	14761
-Registration Office	3714,8653,940
+Registration Office	3714,8653,940,6628
 Registration Office and Register	3714
 Registration Office. Registrar	3714
-Registration Officer	10358,1858,6224,19,1082
+Registration Officer	10358,1858,6224,19,1082,394,1
 Registration Officer Dodoma	19541
 Registration Officer Dodoma Kongwa	19541
 Registration Officer Kagera Misenyi	19541
@@ -3990,7 +4013,8 @@ Registration Officer SADC Southern African Development	13005
 Registration Officer Songwe Ileje	19541
 Registration Officer Sonwe	19541
 Registration Officer and Revising Officer	18459
-Registration Officers	12523,482,5454,590,492
+Registration Officer. Once	19935
+Registration Officers	12523,482,5454,590,492,394
 Registration Officers Biharamulo	19541
 Registration Officers Chemba	19541
 Registration Officers Dar	19541
@@ -3998,6 +4022,7 @@ Registration Officers Ilala	19541
 Registration Officers Kigamboni	19541
 Registration Officers Mbagala	19541
 Registration Officers and Revising Officers	18459
+Registration Offices	19935
 Registration Officials	16088
 Registration Program CRO Civil Registration Office	12151
 Registre Officier	14423
@@ -4039,7 +4064,7 @@ Resource Officer Ministry of Health and Wellness	14770
 Responsibilities of Boards and Accounting Officers	19801
 Responsibilities of Data Protection Officer	19801
 Responsibilities of Revenue Officials	15066
-Responsible AI Office	4126,1101,474,340
+Responsible AI Office	4126,1101,474,340,13916
 Responsible Artificial Intelligence Office	5932,2
 Results Framework. Official Use Only Page	16436
 Returning Elections Officer	14852
@@ -4047,6 +4072,7 @@ Returning Officer	9645,8814
 Returning Officers	18459,1278,16
 Revenue Mobilization Officers	18500
 Revenue Officials	15066
+Review Officer	19935
 Reviews and Life Certification Statistics Local Office	8999
 Revising Officer	18459
 Revising Officer-	18459

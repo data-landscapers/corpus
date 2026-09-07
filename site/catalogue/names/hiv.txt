@@ -129,6 +129,7 @@ HIV-TB	11183
 HIV-a	10780
 HIV-exposed	19544
 HIV-positive	1261,15710,1191,279
+HIV-prevalence	19974
 HIV-reactive	13040
 HIV-reduction	6534
 HIV-related	4167,5062,7872
@@ -179,7 +180,7 @@ Infections HIV	12151
 Inno-Lia HIV	13300
 Institute HIV Human Immunodeficiency Virus ICT	16852
 International HIV	19712
-Kumasi Hive	4126
+Kumasi Hive	4126,15840
 Lab Commodities HIV Rapid Test Kits	4217
 Laboratory Commodities Lab Commodity Amount HIV	4153
 Laboratory Commodity TB Lab Commodities HIV	4217

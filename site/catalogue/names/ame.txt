@@ -151,7 +151,7 @@ African Americans. Doctors	4426
 African and American	15870
 African and Latin American	14307
 African and Latin American Countries	19133
-African and South American	124
+African and South American	124,19816
 Agreement Amending Article	19185
 Agreement Amending Articles	19185
 Agreement Amending the SADC Protocol	12615
@@ -238,7 +238,7 @@ Amend the Regulations	6512
 Amend the Statistics Act	14777
 Amend the Uganda Communications Act	6949
 Amende	10842,5486
-Amended	585,5006,5618,60,588,205,32,535,47,229,381,1,28,2,68,583,441,1,303,1,1,1,4,10,150,682,1271,10,4,53,43,1211,729,9,2,291,340,2,222
+Amended	585,5006,5618,60,588,205,32,535,47,229,381,1,28,2,68,583,441,1,303,1,1,1,4,10,150,682,1271,10,4,53,43,1211,729,9,2,291,340,2,222,195
 Amended A.16	12887
 Amended Broad-Based Black Economic Empowerment	11235
 Amended Finance Law	16994
@@ -275,7 +275,7 @@ Amending and Supplementing the Civil Status Law	19900
 Amending the Duration	14647
 Amending the Law	11906
 Amendmen	10713
-Amendment	11,225,337,12,133,18,418,69,40,487,64,30,144,542,147,211,32,5,236,113,229,211,47,17,83,722,27,23,66,27,6,410,80,25,3,113,170,26,128,185,227,6,16,40,44,582,98,6,30,2,17,6,3,51,14,293,62,22,31,30,6,237,5,60,72,195,134,3,1,626,58,296,75,121,204,234,76,85,124,66,150,33,315,22,4,202,165,64,30,20,41,5,18,2,8,4,46,4,16,1,237,34,240,195,7,2,52,7,160,54,34,62,3,23,14,63,22,34,33,10,14,17,27,19,9,16,69,1,10,164,18,26,75,22,7,11,52,31,97,43,56,1,4,65,16,13,23,19,4,1,1,1,3,37,18,8,2,11,41,41,14,275,165,154,142,1,12,39,23,163,67,1,21,6,3,3,3,23,19,12,16,18,2,4,39,139,4,286,50,30,321,76,248,65,435,294,1,18,22,27,43,8,157,49,93,138,197,160,21,670,14,1,11,79,15,46,6,275,9,2,18,6,25,88,3,85,62,33,31,273,6,4,6,6,45,56,5,66,1,17,15,4,20,32
+Amendment	11,225,337,12,133,18,418,69,40,487,64,30,144,542,147,211,32,5,236,113,229,211,47,17,83,722,27,23,66,27,6,410,80,25,3,113,170,26,128,185,227,6,16,40,44,582,98,6,30,2,17,6,3,51,14,293,62,22,31,30,6,237,5,60,72,195,134,3,1,626,58,296,75,121,204,234,76,85,124,66,150,33,315,22,4,202,165,64,30,20,41,5,18,2,8,4,46,4,16,1,237,34,240,195,7,2,52,7,160,54,34,62,3,23,14,63,22,34,33,10,14,17,27,19,9,16,69,1,10,164,18,26,75,22,7,11,52,31,97,43,56,1,4,65,16,13,23,19,4,1,1,1,3,37,18,8,2,11,41,41,14,275,165,154,142,1,12,39,23,163,67,1,21,6,3,3,3,23,19,12,16,18,2,4,39,139,4,286,50,30,321,76,248,65,435,294,1,18,22,27,43,8,157,49,93,138,197,160,21,670,14,1,11,79,15,46,6,275,9,2,18,6,25,88,3,85,62,33,31,273,6,4,6,6,45,56,5,66,1,17,15,4,20,32,160
 Amendment Act	3383,2489,1079,3206,1042,1,786,68,178,821,1683,2215
 Amendment Any	15641
 Amendment Bill	2626,2007,107
@@ -331,6 +331,7 @@ Amendment of Part II	19518
 Amendment of Part II of Act No	18450
 Amendment of Part V of Act No	18451
 Amendment of Prequalification Document	1638
+Amendment of Principal Activities	19961
 Amendment of RFP Document	18543
 Amendment of RFQ Document	18543
 Amendment of Request for Proposals Document	15080
@@ -349,7 +350,7 @@ Amendment of The Vocational Education And Training	19534
 Amendment of Third Schedule	13252,5289,977
 Amendment of Utilisation	12058
 Amendment-branch	15261
-Amendments	22,563,569,109,1555,1043,111,77,105,93,55,281,172,608,2185,307,1890,1020,10,18,349,106,41,502,195,352,464,203,48,132,147,724,490,190,6,24,8,105,48,271,275,11,417,730,208,4,5,36,127,1122,303,595,150,274,72,58,70
+Amendments	22,563,569,109,1555,1043,111,77,105,93,55,281,172,608,2185,307,1890,1020,10,18,349,106,41,502,195,352,464,203,48,132,147,724,490,190,6,24,8,105,48,271,275,11,417,730,208,4,5,36,127,1122,303,595,150,274,72,58,70,306
 Amendments and Repealers	14647
 Amends	12058,1096
 Amends Ghana Revenue Authority Act	15459
@@ -521,14 +522,14 @@ Americans and Indians	12138
 Americans and Ivoirians	7430
 Americans and Ivoirians. American	7430
 Americans for Responsible Innovation	9027
-Americas	2794,71,1983,124,1570,38,366,949,300,26,362,198,1266,671,46,17,59,155,160,408,317,14,407,1813,1357,1617,34,621,606,1307
+Americas	2794,71,1983,124,1570,38,366,949,300,26,362,198,1266,671,46,17,59,155,160,408,317,14,407,1813,1357,1617,34,621,606,1307,284
 Americas ARB	14836
 Americas Antigua and Barbuda Global Cybersecurity Index	10764
 Americas Arab States	17743
 Americas Botswana High EGDI M-OSI H-HcI	10840
 Americas Brazil Barbados Chile Honduras União	10844,7279
 Americas Brazil União Internacional de Telecomunicações	10764
-Americas Conference	5700
+Americas Conference	5700,14244
 Americas In the Americas	15471
 Americas Kiribati Middle EGDI M-OSI H-HcI	10840
 Americas New York	7198
@@ -576,6 +577,7 @@ Ameya-bw-110x110.png	6668
 Ameyasema	11627,7953,37
 Ameyataja	4099
 Ameyaw	10112
+Ameyaw EK	19974
 Amezitaja	6015
 Anglo American	937,2448,9117
 Anglo American’s Impact Finance Network	14708
@@ -609,6 +611,7 @@ Behind Emotions and The American Bias	4554
 Beni Amer	15342
 Billion Deal With America To Court	4258
 Bills of Exchange Amendment Bill	9215
+BoA Bank of America BoG Bank of Ghana	19940
 Body America First Global Health Strategy	19729
 Brahim Ameur	15394
 British American Parliamentary Group	14706
@@ -656,6 +659,7 @@ Community Water System Amendment	17250
 Community and Cessation of Membership ARTICLE’150 Amendment	14409
 Community of Latin American and Caribbean States	10038
 Companies Act Amendment	11250
+Company Amendment	19961
 Computing Weights for American National Election Study	15244
 Connecting America	11529
 Conselho de Gestão da AMECON	8003

@@ -84,6 +84,7 @@ African Countries First	6938
 African Countries Membe World Bank	1885
 African Countries Ministry of Foreign Affairs	626
 African Countries Putting the Cart	6603
+African Countries Reachable	19980
 African Countries Second	6938
 African Countries Secure	4769,394,334,86
 African Countries Third	6938
@@ -581,7 +582,7 @@ Counting President Bio Gains	8115
 Counting and Multidimensional Poverty Measurement	15244
 Countless	13963
 Countney Ltd	18154
-Countries	177,49,65,101,10,26,67,21,57,22,2,51,123,18,31,1,15,55,1,2,42,6,19,87,98,97,21,255,9,21,15,250,14,65,95,227,342,74,46,5,52,41,386,813,75,101,109,98,11,222,217,18,81,178,30,96,6,26,5,5,29,126,56,87,132,9,9,16,194,146,97,33,151,256,58,17,1,20,19,24,58,258,12,4,87,22,164,208,3,130,287,43,38,97,32,20,231,124,79,41,10,33,179,95,132,50,92,172,176,7,19,44,62,18,45,264,5,5,110,576,55,3,18,4,4,4,4,129,6,11,14,113,4,2,14,5,42,160,61,146,9,37,218,27,3,10,27,26,2,43,25,7,154,59,4,25,17,69,31,20,284,29,7,21,115,100,16,29,65,278,36,176,129,20,53,172,163,167,198,289,29,23,2,33,183,4,141,335,19,61,160,12,57,262,144,73,206,84,80,212,24,9,24,11,5,8,18,54,32,9,198,144,160,17,89,126,19,80,253,9,171,46,97,135,70,218,286,82,105,85,93,12,124,12,138,17,64,2
+Countries	177,49,65,101,10,26,67,21,57,22,2,51,123,18,31,1,15,55,1,2,42,6,19,87,98,97,21,255,9,21,15,250,14,65,95,227,342,74,46,5,52,41,386,813,75,101,109,98,11,222,217,18,81,178,30,96,6,26,5,5,29,126,56,87,132,9,9,16,194,146,97,33,151,256,58,17,1,20,19,24,58,258,12,4,87,22,164,208,3,130,287,43,38,97,32,20,231,124,79,41,10,33,179,95,132,50,92,172,176,7,19,44,62,18,45,264,5,5,110,576,55,3,18,4,4,4,4,129,6,11,14,113,4,2,14,5,42,160,61,146,9,37,218,27,3,10,27,26,2,43,25,7,154,59,4,25,17,69,31,20,284,29,7,21,115,100,16,29,65,278,36,176,129,20,53,172,163,167,198,289,29,23,2,33,183,4,141,335,19,61,160,12,57,262,144,73,206,84,80,212,24,9,24,11,5,8,18,54,32,9,198,144,160,17,89,126,19,80,253,9,171,46,97,135,70,218,286,82,105,85,93,12,124,12,138,17,64,2,77,14
 Countries Agree	14932
 Countries By Kennedy Komba	13468
 Countries Countries	6671
@@ -606,7 +607,7 @@ Countries. Out	5508
 Countries. Washington	10997
 Countries’ Rating Based	15713
 Countrv. Postal	11180
-Country	236,76,106,113,42,145,43,10,18,173,161,38,55,13,32,3,13,79,6,103,176,17,160,49,10,111,673,154,346,295,106,21,21,258,265,88,38,46,541,132,262,115,424,252,45,381,37,178,103,165,3,26,167,633,280,403,281,164,176,95,103,134,42,162,1,168,9,407,227,186,158,5,1,3,7,37,7,3,4,3,6,2,1,18,6,3,47,42,10,4,161,64,2,81,129,12,52,1,10,45,25,3,7,10,2,178,104,1,2,6,4,3,16,1,1,1,5,11,30,71,131,1,13,1,1,1,9,51,27,9,11,17,51,7,4,1,5,6,1,1,22,7,15,12,3,40,35,106,63,21,239,18,4,38,56,4,47,11,90,127,2,17,1,11,1,1,1,11,34,136,48,86,98,17,48,44,33,28,9,11,50,46,24,1,4,391,21,37,30,5,68,2,124,23,35,48,4,7,9,3,15,14,8,40,46,20,15,17,24,63,47,2,180,39,4,56,21,8,53,38,30,37,3,16,36,2,10,25,93,1,2,55,59,72,12,100,51,24,90,89,147,120,29,136,13,1,14,2,3,4,49,19,12,1,2,1,19,1,40,34,95,17,141,25,1,103,31,30,255,127,55,2,271,93,18,111,21,14,9,21,3,49,38,4,18,1,27,8,12,66,13,23,13,2,25,22,27,2,26,23,24,244,90,39,236,6,6,9,1,2,89,10,9,1,4,11,2,6,36,3,6,28,11,23,39,13,6,3,3,7,4,1,19,43,3,9
+Country	236,76,106,113,42,145,43,10,18,173,161,38,55,13,32,3,13,79,6,103,176,17,160,49,10,111,673,154,346,295,106,21,21,258,265,88,38,46,541,132,262,115,424,252,45,381,37,178,103,165,3,26,167,633,280,403,281,164,176,95,103,134,42,162,1,168,9,407,227,186,158,5,1,3,7,37,7,3,4,3,6,2,1,18,6,3,47,42,10,4,161,64,2,81,129,12,52,1,10,45,25,3,7,10,2,178,104,1,2,6,4,3,16,1,1,1,5,11,30,71,131,1,13,1,1,1,9,51,27,9,11,17,51,7,4,1,5,6,1,1,22,7,15,12,3,40,35,106,63,21,239,18,4,38,56,4,47,11,90,127,2,17,1,11,1,1,1,11,34,136,48,86,98,17,48,44,33,28,9,11,50,46,24,1,4,391,21,37,30,5,68,2,124,23,35,48,4,7,9,3,15,14,8,40,46,20,15,17,24,63,47,2,180,39,4,56,21,8,53,38,30,37,3,16,36,2,10,25,93,1,2,55,59,72,12,100,51,24,90,89,147,120,29,136,13,1,14,2,3,4,49,19,12,1,2,1,19,1,40,34,95,17,141,25,1,103,31,30,255,127,55,2,271,93,18,111,21,14,9,21,3,49,38,4,18,1,27,8,12,66,13,23,13,2,25,22,27,2,26,23,24,244,90,39,236,6,6,9,1,2,89,10,9,1,4,11,2,6,36,3,6,28,11,23,39,13,6,3,3,7,4,1,19,43,3,9,5,1
 Country Access Rate	11136
 Country Analyses And Plans	899
 Country Analysis Brief	16964
@@ -655,9 +656,12 @@ Country Cooperation Strategy CSO	10776
 Country Cooperation Strategy for WHO and Egypt	15725
 Country Coordinating Mechanism	12729
 Country Country	19925
+Country Coverage Table	19980
 Country Current	1264
 Country Dashboard	17011
 Country Data Development Indicators	18747
+Country Detail	19980
+Country Detail Pages	19980
 Country Development Strategy and Goals	16876
 Country Development Strategy and Goals The Financial	16876
 Country Development Strategy and Goals The GoL	16876
@@ -1261,7 +1265,7 @@ Develop Country LGAs Local Government Aadministrations	16885
 Develop Country LTE Long Term Evolution	16884
 Developed Countries Fund NAP National Adaptation	11586
 Developed Countries LFSP Liberia Forest Sector	17140
-Developing Countries	226,228,158,154,1752,430,2401,351,2910,233,1875,8,1659,82,481,383,1504,826,1261,1396
+Developing Countries	226,228,158,154,1752,430,2401,351,2910,233,1875,8,1659,82,481,383,1504,826,1261,1396,1626
 Developing Countries . Washington	11140
 Developing Countries Are Implementing Universal Health	11133
 Developing Countries DOI	17750,1
@@ -1350,6 +1354,7 @@ Egyptian Countryside	15473,252,324
 Egyptian Countryside Development Company	15473
 Eldoret City of Uasin Gishu Country	3758
 Electoral Commissions Forum of SADC Countries	10390,950,861
+Electronic General Counterfoil Receipt	19956
 Elgeyo Marakwet County	10313
 Elgeyo Marakwet County Data Controller INST-1333811DBB9	7167
 Elgeyo Marakwet County Data Controller INST-6413940884C	7167
@@ -1493,6 +1498,7 @@ General Information Countries	9892,1
 General Information Country	16152
 General Information PROCUREMENT PLAN Country	15804
 Ghana A Xalam Analytics Country Report	3184
+Ghana Country Brief	19943
 Ghana Country Context Over	17196
 Ghana Country Programme	9931
 Ghana GHANA Accra Country	10822
@@ -2070,7 +2076,7 @@ Nadir Mohammed Country Director	19847
 Nairobi City County	2775,8258,431
 Nairobi City County Emergency and Fire Department	6946
 Nairobi City County. County	12231
-Nairobi County	899,1667,3708,672,602,669
+Nairobi County	899,1667,3708,672,602,669,11757
 Nairobi County. Safaricom CEO Peter Ndegwa	4978
 Nakuru County	6150,4111,52,1943
 Nakuru County Government	14299
@@ -2770,6 +2776,8 @@ World Bank's Country Partnership Framework for Mozambique	4214
 World Bank's Country Partnership Strategy	11924
 World Bank's Maghreb Country Management Unit	14627
 World Bank's Systematic Country Diagnostic	15550
+World Bank- Ghana Country Partnership Framework	19966
+World Bank-Ghana Country Partnership Framework	19966
 World Bank. Angola Country Climate and Development	11417
 World Bank. Country Assistance Strategy	15601
 World Bank. Country Partnership Framework	15601

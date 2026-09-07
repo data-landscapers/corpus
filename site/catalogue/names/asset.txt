@@ -40,6 +40,8 @@ Asset Class. Geneva	1243
 Asset Concentration	17236
 Asset Creation and Livelihood	14945
 Asset Deals	19890
+Asset Declaration	19937
+Asset Declaration Again	19937
 Asset Declaration Forms	1554
 Asset Declaration Program	17037
 Asset Declaration Syst	17180
@@ -82,6 +84,7 @@ Asset Recovery and Management Division	14742
 Asset Register	14546,5039
 Asset Register and Inventory Master Public Debt	18488
 Asset Registers	19584,1
+Asset Service Provider PAYMENT SYSTEMS OVERSIGHT	19940
 Asset Sharing	11857
 Asset Turnover Ratio	1944
 Asset Type	7662
@@ -103,7 +106,7 @@ AssetCo	10993
 Assetless Companies Fund	18556
 Assetou DIARRA Trésorière	18032
 Assetou Zongo	10881
-Assets	1944,831,1753,368,453,564,1285,296,168,1830,214,1012,413,100,724,21,382,31,123,444,97,367,612,687,49,229,26,221,248,1622,121,1,1678,65,733,59
+Assets	1944,831,1753,368,453,564,1285,296,168,1830,214,1012,413,100,724,21,382,31,123,444,97,367,612,687,49,229,26,221,248,1622,121,1,1678,65,733,59,166
 Assets Act	13076
 Assets Act PSC Public Service Commission	13420
 Assets Africa	9119
@@ -243,7 +246,7 @@ Digital Asset Operators	4602
 Digital Asset Platform Operators	12882
 Digital Asset Tax	15328
 Digital Asset Taxes	14932
-Digital Assets	3870,740,8272
+Digital Assets	3870,740,8272,7058
 Digital Assets Regulation	8697
 Digital Assets Tax	14932
 Digital Assets Tax Accordingly	14932
@@ -397,6 +400,7 @@ Moveable Asset Electronic Collateral Registry. Justification	18825
 NET ASSETS	14736
 NFA Net Foreign Assets NGAAF National	2775
 NON CURRENT ASSETS Harare	4896
+National Asset	19958
 National Asset Behind Everyday Digital	12632
 National Asset Liability Management Framework	14748
 National Asset and Government Property Commission	18500
@@ -593,7 +597,7 @@ Virtual Asset Investment Advice and Virtual Asset	18974
 Virtual Asset Office	7448,46,1736
 Virtual Asset Service Provider	9311,223,220,121,2101,906,1937,25
 Virtual Asset Service Provider Association	9956
-Virtual Asset Service Providers	3289,581,732,303,226,2210,493,346,410,113,120,3,404,1901,690,310,751,650,1312,4130
+Virtual Asset Service Providers	3289,581,732,303,226,2210,493,346,410,113,120,3,404,1901,690,310,751,650,1312,4130,966
 Virtual Asset Service Providers Act	3793,1115,2699,227,863,6,608,223,2165,7253,22,4,167
 Virtual Asset Service Providers Framework Industry	18952
 Virtual Asset Service Providers Regulations	7607

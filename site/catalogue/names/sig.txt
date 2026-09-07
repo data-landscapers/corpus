@@ -393,7 +393,7 @@ Id and Digital Signature	16885
 Identity Management and Single Sign-On	12359
 Immigration Services Signature Mr Thomas Sigama	5533
 Impact Description RP Requirements Significant Impact	17114
-Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3,130,902,16,466,1,135,7334
+Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3,130,902,16,466,1,135,7334,116
 Inadequate Significantly	11252
 Individual Qualified Signature Qualified Signature	11955
 Information Cadastral SIGD	17824
@@ -423,7 +423,7 @@ Ivoire Sign MoU	4093
 Ivoire Signs AI Partnership	3280
 Ivoire and ARTCI Sign MoU	3139
 Jan-2014 Signing	11924
-Join Sign	18497,22,3
+Join Sign	18497,22,3,1440
 Jul-2019 Signing	11395
 Jul-2020 Signing	13742
 Jun-2024 Signing Effectiveness Orig. Closing Rev	6579
@@ -507,6 +507,7 @@ MIGA Sign Agreement	11310
 MINEUR ENQUÊTÉ MINEUR T ET SIGNEZ	13300
 MINISTRY OF COMMUNICATION AND TECHNOLOGY SIGNED	14917
 MISCELLANEOUS PROVISIONS Signification	14575
+MMBtu Signed	19976
 MOR's SIGTAS	12500
 MTC Namibia and BoFiNet Sign MOU	5066
 MWI NGA UGA ZMB ZWE. Signed	1528
@@ -521,6 +522,7 @@ Mauritian Sign Language	14742
 May-2017 Signing	15731
 May-2018 Signing	18792,33
 May-2019 Signing	17962
+Media More Sign	19962
 Meeting Minimum Fiscal Transparency Requirements Significant	11005
 Meira Té Siga Batista Mário Siano	11544
 Memorandum of Understanding Signing Ceremony Under	14890
@@ -538,6 +540,7 @@ Mobile Signing App	19699
 Modèles-type DNCMP Plateforme SIGMaP	10876
 Mohamed Hassan Souidi and Mohcine Jazouli. Signed	17459
 Moneyweb DATA SIGN IN SUBSCRIBE Create	7343
+Month Signed	19976
 Ms G Chaonamwene Technical Signatories of Laboratory	13068
 Ms. Sigga Kujabi	16973
 My Signal	8518
@@ -1224,7 +1227,7 @@ Signatürc	15399
 Signaux	16103,1719
 Signe	3024,7852,4708,3906
 Signe le B	10876
-Signed	144,92,18,32,271,158,21,347,122,29,229,76,36,203,184,129,151,194,1018,365,230,175,28,210,38,19,3,177,33,164,133,257,112,80,113,19,136,700,596,162,55,19,14,42,92,30,8,351,252,686,557,357,1054,216,926,113,10,99,66,34,143,36,178,151,197,5,4,3,17,118,148,207,636,104,255,18,4,77,198,29,188,498,260,54,881,69,64,126,4,106,175,42,211,824,90,74,105,80,34,82,599,18,560
+Signed	144,92,18,32,271,158,21,347,122,29,229,76,36,203,184,129,151,194,1018,365,230,175,28,210,38,19,3,177,33,164,133,257,112,80,113,19,136,700,596,162,55,19,14,42,92,30,8,351,252,686,557,357,1054,216,926,113,10,99,66,34,143,36,178,151,197,5,4,3,17,118,148,207,636,104,255,18,4,77,198,29,188,498,260,54,881,69,64,126,4,106,175,42,211,824,90,74,105,80,34,82,599,18,560,119
 Signed Abdoulie Jallow Permanent Secretary Ministry	16944
 Signed Bid Submission Form	13031
 Signed CVs	11252
@@ -1266,7 +1269,7 @@ Significance Rating of Project Impacts Assessment	12253
 Significance of Big Data	9128
 Significance of Decree TABLE	15473
 Significance of This Tender	17695
-Significant	34,362,544,29,185,58,52,290,2,258,14,173,888,496,12,59,146,1294,548,81,8,252,647,515,748,659,775,362,389,89,796,10,4,1,5,55,1,5,94,45,12,8,129,2,59,66,11,129,162,9,295,12,15,6,5,11,24,13,2,1,30,8,172,9,1,25,5,27,8,170,89,109,92,304,48,27,15,28,295,183,84,19,164,92,138,373,16,187,62,94,66,26,3,7,3,31,31,22,20,17,60,283,12,69,34,4,103,8,96,120,342,210,455,24,40,34,8,5,33,90,19,9,25,18,7,93,32,75,77,421,8,92,44,117,63,115,199,76,1,672,35,271,30,23,47,7,4,1,1
+Significant	34,362,544,29,185,58,52,290,2,258,14,173,888,496,12,59,146,1294,548,81,8,252,647,515,748,659,775,362,389,89,796,10,4,1,5,55,1,5,94,45,12,8,129,2,59,66,11,129,162,9,295,12,15,6,5,11,24,13,2,1,30,8,172,9,1,25,5,27,8,170,89,109,92,304,48,27,15,28,295,183,84,19,164,92,138,373,16,187,62,94,66,26,3,7,3,31,31,22,20,17,60,283,12,69,34,4,103,8,96,120,342,210,455,24,40,34,8,5,33,90,19,9,25,18,7,93,32,75,77,421,8,92,44,117,63,115,199,76,1,672,35,271,30,23,47,7,4,1,1,272
 Significant Corporate Events	7198
 Significant Cyber	5242
 Significant Economic	14932
@@ -1279,7 +1282,7 @@ Significant Is Sub-Saharan Africa’s Demographic	6948
 Significant Issues	12971
 Significant Market Player	6834,1191
 Significant Market Players	11857
-Significant Market Power	7368,657,5985,869,202,39,252,181,1389,270
+Significant Market Power	7368,657,5985,869,202,39,252,181,1389,270,2745
 Significant Milestone	16961
 Significant Progress	11005,5102
 Significant Remarks	12370
@@ -1418,7 +1421,7 @@ TABLE OF CONTENTS SIGNATURES	7198
 TECHNICIEN SUPERIEUR D’AIDE CHIRURGIEN SIGLES ET	18170
 TF Status Approval Date Signing Date	15619,1019,1835
 TF Status Approval Signing Effectiveness Orig	2712,1976,2240,949,2993,1101,257,39,173,3295,278,66,626,289,6,79,17,374,35,399,54,48,344,4,1,179,283,165,260,7
-TREND Increasing Improvement Warning Signs Slowing	10837,1503
+TREND Increasing Improvement Warning Signs Slowing	10837,1503,7598
 TRENDSNAFRICAAFRICAN NEWS PORTAL Sign	3768
 Table des Sigles	17983
 Tanzanian Sign Language. Sign	9944
@@ -1432,7 +1435,7 @@ Toyota Tsusho Signs Contract for Construction	16468
 TradeMark Africa. Signalling	13415
 Transmitting Spectrum Signal	12949
 Trend Warning Signs	12341
-Trend Warning Signs Slowing Improvement Increasing	10837,1503
+Trend Warning Signs Slowing Improvement Increasing	10837,1503,7598
 Trend Warning Signs Social Protection	12341
 Trésor. Le SIGRHEP	8585
 Tunisia Signs MoU	4933
@@ -1466,11 +1469,11 @@ Very High Not Significant	17157
 Vital Signs Profile	17869
 W Signals Video	34
 WAFS Significant Weather	18128
-Warning Signs	11887,1,1,264,1,9,178,7311,1,205,1,65
+Warning Signs	11887,1,1,264,1,9,178,7311,1,205,1,65,15
 Warning Signs Absence of Forced Migration	12352
 Warning Signs Bouncing Back Slowing Deterioration	10759
 Warning Signs Increasing Deterioration	10835,3,130,902,16,466,1,135,7334
-Warning Signs Score	10837,1315,188
+Warning Signs Score	10837,1315,188,7598
 Warning Signs. African	12163
 Warning Signs. Women's Equality	11888
 Warning Signs. Yearly Overall Governance	11888

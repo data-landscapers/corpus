@@ -15,6 +15,7 @@ Allocation of Devices Out	19758
 Approved Developer of Fuel Fiscal Devices	13606
 Automated Device	12185
 Automated Digital Devices	1988
+Automated Teller Machines and Point of Sale Devices	19940
 Autres Devises	17833
 BIOMETRIC STANDARDS AND DEVICE CERTIFICATION	12047
 BOOJHOWON Chandranee Devi Senior Human	14770
@@ -60,7 +61,7 @@ Deviated	19585
 Deviation	10870,365,751,1199,1361,534,4505
 Deviations	9855,1142,2188,1895,176,407,2862,42,1046
 Deviations of Fiscal Outturns	18823
-Device	26,873,2752,283,1977,140,372,170,130,25,198,785,1198,183,647,273,177,512,211,85,178,662,22,115,53,1216,84,850,477,345,459,2173,1024
+Device	26,873,2752,283,1977,140,372,170,130,25,198,785,1198,183,647,273,177,512,211,85,178,662,22,115,53,1216,84,850,477,345,459,2173,1024,1291
 Device Access	16799
 Device Access Fund	14966,53
 Device Access Management System	15019

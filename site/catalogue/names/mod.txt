@@ -331,6 +331,7 @@ Culture of Care Service Delivery Model Modernisation	7761
 Current Manual of Moderate The MOP and SBD	11525
 Current Moderately Satisfactory	15031
 Customer Equipment Model Make	736
+Customer LLM Large Language Model NLP	19940
 Customs Declaration Modify Stored	17367
 Customs Modernisation Project	9154
 Customs Modernization	16631
@@ -522,6 +523,7 @@ Draft Death Notification Module	19541
 Dreamscapes of Modernity	11028
 Drive-to-Own’ Model for African Mobility Norbert Haguma	7324
 Drought Models	17157
+Dual Interface Chip Module	19935
 Dual-Track Model Finance	7648
 Dynamic Computable General Equilibrium Model	10980
 Dynamic Risk Management and Valuation Module	12539
@@ -950,7 +952,7 @@ Land Administration Modernization Project	19616
 Land Folio System Offence Module	19584
 Land Management Modernization	15473
 Language Models	6593
-Large Language Model	2871,780,877,1704,750,882,285,70,4293,4956
+Large Language Model	2871,780,877,1704,750,882,285,70,4293,4956,2472
 Large Language Model MCTES	2816
 Large Language Model Meta AI	2816
 Large Language Models	2816,910,19,1770,717,47,1294,3497,1140,3503,499,1327,438
@@ -1330,7 +1332,7 @@ Mode of Study Figure	14775
 Mode of Study and Gender	14775
 Mode of Training of Census	18464
 Mode of Transportation	16935
-Model	27,7,202,500,1078,1134,913,265,306,893,42,315,1469,397,211,31,96,257,158,194,185,448,1,1274,48,314,10,205,174,2,154,696,153,46,132,21,2,35,4,207,72,291,388,267,49,132,636,180,262,281,505,106,1662,872,129,349,450,417
+Model	27,7,202,500,1078,1134,913,265,306,893,42,315,1469,397,211,31,96,257,158,194,185,448,1,1274,48,314,10,205,174,2,154,696,153,46,132,21,2,35,4,207,72,291,388,267,49,132,636,180,262,281,505,106,1662,872,129,349,450,417,298
 Model AI Governance Framework and AI Verify	11135
 Model Agility	5226
 Model App Help	13051
@@ -1469,7 +1471,7 @@ Modelos de Arranjo Institucional	11456
 Modelos de Atestado	11419
 Modelos de IA	2816
 Modelos de Linguagem de Pequena Escala	2816
-Models	226,3519,1694,794,370,548,216,70,353,511,818,1595,49,18,375,1045,96,130,2055,2301,140,1,1045,340,49,429
+Models	226,3519,1694,794,370,548,216,70,353,511,818,1595,49,18,375,1045,96,130,2055,2301,140,1,1045,340,49,429,1153
 Models Cloud	16923
 Models Insights	4848
 Models and Chatbots	13461
@@ -1729,7 +1731,7 @@ Modern Ethiopian Service for Organised Benefits	7887,4328
 Modern Ethiopian Service for Organized Benefits	3265,6536
 Modern GIS and ICT	19852
 Modern GPS	15473
-Modern Ghana	4708
+Modern Ghana	4708,15235
 Modern ICT Act	17260
 Modern India	226
 Modern Infrastructure	18679
@@ -1761,7 +1763,7 @@ ModernGhana	10135,280
 Moderna	16487
 Moderne	13405
 Moderni	10775
-Modernisation	643,122,197,219,37,29,17,13,4,41,5,1,77,131,166,6,309,1,46,744,312,121,285,11,67,34,1,114,326,59,19,1,115,94,31,152,94,76,415,294,102,18,153,143,21,10,107,277,288,284,72,730,251,93,89,170,280,39,100,152,70,409,55,19,87,245,53,73,184,59,227,113,76,87,197,50,46,10,6,6,20,2,1,2,32,38,116,2,196,134,248,54,24,237,57,200,1434,68,78,466,221,39,73,126,613,100,13,54,14,13,13,63,8,73,8,145,36,32,3,116,47,7,136,3,120,17,44,43,64,4,79,24,44,25,6,33,269,202,222,7,192,26,178,11,1,4,7,5,1,1,5,2,6,3,2,3,1,3,3,1,2,3,6,10,2,4,7,5,2,4,1,2,2,1,5,1,3,2,1,6,7,5,3,4,1,3,8,2,7,3,12,3,2,1,4,5,5,20,4,3,13,25,6,4,157,11,1,33,576,88,40,49,80,31,33,29,41,396
+Modernisation	643,122,197,219,37,29,17,13,4,41,5,1,77,131,166,6,309,1,46,744,312,121,285,11,67,34,1,114,326,59,19,1,115,94,31,152,94,76,415,294,102,18,153,143,21,10,107,277,288,284,72,730,251,93,89,170,280,39,100,152,70,409,55,19,87,245,53,73,184,59,227,113,76,87,197,50,46,10,6,6,20,2,1,2,32,38,116,2,196,134,248,54,24,237,57,200,1434,68,78,466,221,39,73,126,613,100,13,54,14,13,13,63,8,73,8,145,36,32,3,116,47,7,136,3,120,17,44,43,64,4,79,24,44,25,6,33,269,202,222,7,192,26,178,11,1,4,7,5,1,1,5,2,6,3,2,3,1,3,3,1,2,3,6,10,2,4,7,5,2,4,1,2,2,1,5,1,3,2,1,6,7,5,3,4,1,3,8,2,7,3,12,3,2,1,4,5,5,20,4,3,13,25,6,4,157,11,1,33,576,88,40,49,80,31,33,29,41,396,279
 Modernisation Administrative	10708,6740
 Modernisation Consultation Paper	10326
 Modernisation Des Systèmes Budgétaires	15650
@@ -1784,7 +1786,7 @@ Modernisation of Civil	10854
 Modernisation of Civil Registration	10854
 Modernisation of Civil Registration and Vital Statistics	10972
 Modernisation of Payment Infrastructures	19650
-Modernise	1363,455,5118,103,3817,9,371,1,40,933,491,1973,144,1
+Modernise	1363,455,5118,103,3817,9,371,1,40,933,491,1973,144,1,5147
 Modernise Digital Infrastructure	14819
 Modernise Government Service Delivery Improve	10157
 Modernise Higher Education Sector	5167
@@ -1797,7 +1799,7 @@ Moderniser	12,1299,724,2126,151,84,3401,1094,1821,164,2414,1189,68,995,26,105,22
 Modernises	1407,827,364
 Modernisierung	504,324,75
 Modernisierungsbedarf	900,631,1
-Modernising	2334,2514,5458,550,381,1132,807,1568,2342,1922
+Modernising	2334,2514,5458,550,381,1132,807,1568,2342,1922,958
 Modernising Access	11133
 Modernising Agriculture	12090
 Modernising Ghana’s Tax Regime	7695
@@ -1882,6 +1884,7 @@ Modernized Education Data Systems Sep	17021
 Modernized Service	13418
 Modernizing	54,3714,666,220,163,447,2907,1755,740,331,750,1034,2733,4,383,957,44,73,466,549,380,561,39
 Modernizing CR	15553
+Modernizing Digital Government Services	19966
 Modernizing Government for Better Service Delivery UNDP	8861
 Modernizing IP	4528,7984
 Modernizing Mining and Manufacturing	11221
@@ -2257,6 +2260,7 @@ Ozow. The Payments Ecosystem Modernisation	5691
 Oﬃcer CMM Cybersecurity Capacity Maturity Model	12674
 P502472 Moderate	15743
 P509258 Contingent Emergency Moderate Response Project	18198
+PAHO Information Systems for Health Maturity Model	19974
 PAMAP Public Administration Modernization Project	19847
 PAR LES LOIS SUIVANTES MODIFIEE PAR	15350
 PARISH DEVELOPMENT MODEL INFORMATION SYTEM	19641
@@ -2465,6 +2469,7 @@ Rating Moderately Unsatisfactory	10779
 Rating Modest	10779
 Reading of Some Public Service Models	19900
 Real Stakes of BSS Modernization	16809
+Recent Study. Modern Perspectives	19944
 Recognized Cloud Computing Service Models and Deployment	16923
 Records Continuum Model	9888
 Refactor Moderate	6432

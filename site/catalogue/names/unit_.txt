@@ -60,6 +60,7 @@ Audit Unit	17364
 Authorities Governance Unit	14738,8
 Authority WRU Water Resources Unit	14745
 Automotive Control Unit	18444
+Average Revenue Per Unit	19966
 B RESULTS MATRIX UNIT BASELINE TARGET	11863
 B. Staff of National Identity Card Unit	14716
 BIOMEDICAL ENGINEERING UNIT	14773
@@ -590,13 +591,15 @@ Land Research and Monitoring Unit	14742,9
 Land Use Planning Unit	14746
 Land Use and Planning Unit	14738
 Land Use and Planning Unit Statistics	14738
+Lands Commission ICT Unit Date	19956
+Lands Commission. Lands Commission ICT Unit	19956
 Laptops Standards and Guidelines The ICT Unit	34
 Large Accounts Unit	11986
 Large Accounts Unit Definition	11986
 Large Taxpayers Unit. Third	18318
 Law Reporting Unit	13504
 Legal Affairs Unit	19185
-Legal Unit	11129,1847,6609
+Legal Unit	11129,1847,6609,349
 Level Recovery GPU Graphics Processing Unit	13185
 Liaison Unit for Non-Governmental Organisations	18888
 Liberia Agriculture Census. Secondary Sampling Unit	17043
@@ -1021,12 +1024,14 @@ Rank Unit	10835,3,130,902,16,466,1,135,7334
 Records Management Unit	12597
 Reform Coordination Unit	1284
 Refugee and Asylum Seekers Unit	16836
+Regional Health Directorate Training Unit	19974
 Relation Unit	15845
 Relevant Work Unit	14113
 Remarks No Budget Category Quantity Unit	17099
 Remote Keyless Entry Unit	18444
 Renal Transplant Unit	14748,25,32
 Renal Unit	12976
+Renewable Electrification Unit	19943
 Reporting The M&E Unit	12977
 Requesting Unit	10870,2188,4412,35,1477,260,239
 Research Unit	16971
@@ -1244,6 +1249,7 @@ Unit Baseline Targets Estimated Budget	14947
 Unit CCM Co-ordinating Committee Meeting CCT	16852
 Unit CHNOGRC High Level Steering Committee	18198
 Unit CONSULTING FIRMS Activity Reference No	17180
+Unit Committee	19935,1
 Unit Construction	15578
 Unit Converter Contact Us Resources Login	12511
 Unit Cost	17068

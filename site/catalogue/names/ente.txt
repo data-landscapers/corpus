@@ -358,7 +358,7 @@ Enterprise Email	14151
 Enterprise Enterprise	6593
 Enterprise Finance Gap	11944
 Enterprise Geographic Information System	3101
-Enterprise Land Information System	16410,101
+Enterprise Land Information System	16410,101,3470
 Enterprise Land Information System GELIS	15657
 Enterprise Level Support	18965
 Enterprise Lite Growth	5687
@@ -403,6 +403,7 @@ Enterprise Sparx Enterprise	9124
 Enterprise Strategy Group	4434
 Enterprise Sub Saharan Africa Telecommunications Regulatory	15480
 Enterprise Support C-AI	7548
+Enterprise Support Organisations	19941
 Enterprise Survey	10862,4611,1403,1599,62,301
 Enterprise Survey WDI World Development Indicators	16996
 Enterprise Survey for Cabo Verde	11874
@@ -415,6 +416,7 @@ Enterprise Surveys Manual and Guide	10862,7976
 Enterprise Surveys. All	10862,7976
 Enterprise Surveys. Cooperatives	10862,7976
 Enterprise Surveys. Excluded	11881
+Enterprise TIPS Target Instant Payment Settlement	19940
 Enterprise Technology	6791
 Enterprise Training Program	17235
 Enterprise Transformation Strategist	9230
@@ -512,6 +514,8 @@ Gas MNE Multinational Enterprise MRA Mauritius	14828,3
 Gemini Enterprise	5256,479,1,1
 Ghana Enterprise	4126
 Ghana Enterprise AI	4126
+Ghana Enterprise Agency's High Growth Programme	19966
+Ghana Enterprise Land Information System	19981
 Ghana Enterprise Land Information System LC	15657
 Ghana Enterprises Agency	11032
 GitHub Enterprise	11922
@@ -874,10 +878,11 @@ Small and Medium Enterprise Development	13391,294
 Small and Medium Enterprise Development Corporation	13122
 Small and Medium Enterprise Development and Infrastructure	1778,210
 Small and Medium Enterprise MSME Mobile Transfer	17235
+Small and Medium Enterprise MTO Money Transfer	19940
 Small and Medium Enterprise NDP National Development	19646
 Small and Medium Enterprise NaFAA National Fisheries	17139
 Small and Medium Enterprise SDM Single Digital	16144
-Small and Medium Enterprises	940,30,161,117,16,724,1772,768,1355,1063,157,445,1122,447,12,294,1433,194,81,134,1217,30,189,37,184,34,22,144,190,2,129,242,339,175,347,101,27,223,656,890,97,598,1922,652,97,17
+Small and Medium Enterprises	940,30,161,117,16,724,1772,768,1355,1063,157,445,1122,447,12,294,1433,194,81,134,1217,30,189,37,184,34,22,144,190,2,129,242,339,175,347,101,27,223,656,890,97,598,1922,652,97,17,114
 Small and Medium Enterprises Act	14843
 Small and Medium Enterprises Develop	14717
 Small and Medium Enterprises Development	940,6496,825,3041,2289,82
@@ -908,6 +913,7 @@ Small and Medium-Sized Enterprises and Clients	10718
 Small and Medium-sized Enterprise Africa MTO Money	12444
 Small and Medium-sized Enterprise SSS Securities Settlement	14997
 Small and Medium-sized Enterprises	7734,3298,962,406,2350,69,2123,159,1159,1468
+Small and Medium-sized Enterprises Ghana Awards	19966
 Small and Medium-sized Enterprises MSPLS Ministry of Public	13312,2
 Small and Medium-sized Enterprises NCFI National Council	7763
 Small and Medium-sized Enterprises Programme	10510
@@ -947,7 +953,7 @@ State-Owned Enterprise Reform Task Team	11131,3
 State-Owned Enterprise Reforms	16944
 State-Owned Enterprise SOP Standard Operational Procedure	17105
 State-Owned Enterprise SSA Sub-Saharan Africa TB	11271
-State-Owned Enterprises	6071,1624,2374,82,475,505,3,90,1374,370,92,625,183,678,190,17,75,2,1,316,836,959,9,188,89,32,633,607,77,1025,221
+State-Owned Enterprises	6071,1624,2374,82,475,505,3,90,1374,370,92,625,183,678,190,17,75,2,1,316,836,959,9,188,89,32,633,607,77,1025,221,114
 State-Owned Enterprises Commission	4519,24,12583,20
 State-Owned Enterprises Commission Updates President Barrow	17124
 State-Owned Enterprises Reform	13685

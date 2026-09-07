@@ -74,7 +74,7 @@ Asylum Seeker Management System DEPARTMENT	11986
 Attorney General and Department of Justice	9188
 Attorney General and State Department	12138
 Attorney General and State Department of Justice	12138
-Attorney-General's Department	15894
+Attorney-General's Department	15894,4040
 Audit Department GSSD International Bank Liberia	17235
 Auditor General's Department	2779
 Australia's Department of Families	7147
@@ -216,7 +216,7 @@ Committee of Departmental Directors’ Retreat	11606
 Communication Department	13985
 Communication and External Relations Department	2807,7908,2714,4511,126,796
 Communication and Public Affairs Department	10522
-Communications Department	2450,11501,177,3234
+Communications Department	2450,11501,177,3234,2578
 Community Development DSW Department of Social Welfare	16867
 Community Development Departments	19585
 Community Development Departments. Such	19585
@@ -349,6 +349,7 @@ DEPARTMENTS AND UNITS	12972
 DEPARTMENTS REPORT	12977
 DEPARTMENTS The Ministry	12962
 DEPARTURE OF AN AUDITOR	17534
+DEPARTURE PROCEDURE	19950
 DEPAT	4209
 DES DEPARTEMENTS	17861
 DES RAPPORTS PAR DEPARTEMENT EN	15475
@@ -518,7 +519,7 @@ Departements	16611
 Departing	17780
 Departing Kenyans	2775
 Departing Visitors	2775
-Department	428,533,48,623,38,140,307,459,38,33,1,185,367,25,39,350,512,483,538,28,358,110,130,99,160,120,104,176,48,32,274,63,318,237,281,71,1,1,199,295,206,11,11,179,181,288,307,149,100,208,1,264,254,354,75,165,124,5,42,1,2,1,4,4,5,6,13,1,2,3,6,6,34,1,7,1,7,1,1,3,4,262,12,153,152,22,26,60,1,9,61,7,40,57,63,3,23,1,12,46,28,73,7,104,22,64,5,4,33,4,5,15,254,30,9,6,9,1,3,2,28,54,5,16,15,10,9,30,33,8,135,11,34,112,82,392,273,43,103,64,44,46,22,99,9,66,3,11,2,2,4,4,2,2,3,8,12,5,57,11,38,5,275,235,79,14,129,67,157,758,230,3,7,5,54,56,13,4,3,7,172,71,4,3,508,411,155,135,22,2,1,107,2,10,7,355,569,22,100,5,66,30,1,18,31,79
+Department	428,533,48,623,38,140,307,459,38,33,1,185,367,25,39,350,512,483,538,28,358,110,130,99,160,120,104,176,48,32,274,63,318,237,281,71,1,1,199,295,206,11,11,179,181,288,307,149,100,208,1,264,254,354,75,165,124,5,42,1,2,1,4,4,5,6,13,1,2,3,6,6,34,1,7,1,7,1,1,3,4,262,12,153,152,22,26,60,1,9,61,7,40,57,63,3,23,1,12,46,28,73,7,104,22,64,5,4,33,4,5,15,254,30,9,6,9,1,3,2,28,54,5,16,15,10,9,30,33,8,135,11,34,112,82,392,273,43,103,64,44,46,22,99,9,66,3,11,2,2,4,4,2,2,3,8,12,5,57,11,38,5,275,235,79,14,129,67,157,758,230,3,7,5,54,56,13,4,3,7,172,71,4,3,508,411,155,135,22,2,1,107,2,10,7,355,569,22,100,5,66,30,1,18,31,79,80
 Department AES Annual Economic Survey ASSL	18488
 Department ALECSO Charter	2958
 Department ASSL Audit Service Sierra Leone	18500
@@ -527,6 +528,7 @@ Department Anti-Corruption Bureau	12241
 Department Arrears	12976
 Department Article	15492
 Department Bachelor of Computer Science Bachelor of Software	12407
+Department Bank of Ghana ANNUAL REPORT	19940
 Department Communications	12675
 Department Conduct	15845
 Department Contact Info	17232
@@ -771,7 +773,7 @@ Department of Environmental Health and Climate	11596
 Department of Environmental Protection	7239
 Department of Epidemiology and Biostatistics	12255
 Department of Expenditure	18543
-Department of Finance	7167,3962,64,7251
+Department of Finance	7167,3962,64,7251,1496
 Department of Finance and Administration	12345
 Department of Finance and Economic Planning	7167
 Department of Financial Resources and Property GIZ	16041
@@ -1119,7 +1121,7 @@ Departments Systems	14750
 Departments Table	14729
 Departments The Ministry of Information Technology	14750
 Departments The Ministry of Public Service	14750
-Departments and Agencies	789,169,1569,248,2253,907,497,76,636,225,379,120,253,246,54,19,192,348,1,235,514,224,98,11,94,1,155,290,78,1076,18,16,69,1,95,70,68,41,22,19,64,13,238,183,83,160,47,72,39,20,18,9,3,187,2,6,39,32,29,67,198,510,200,151,419,120,374,55,4,22,561,105,82,114,72,129,255,3,24,41,1,289,572,388,29,54,1,211,1,3,2,8,3,24,7,30,28,9,318,27,588,1,21,92,6,3,4,1,155,1,7
+Departments and Agencies	789,169,1569,248,2253,907,497,76,636,225,379,120,253,246,54,19,192,348,1,235,514,224,98,11,94,1,155,290,78,1076,18,16,69,1,95,70,68,41,22,19,64,13,238,183,83,160,47,72,39,20,18,9,3,187,2,6,39,32,29,67,198,510,200,151,419,120,374,55,4,22,561,105,82,114,72,129,255,3,24,41,1,289,572,388,29,54,1,211,1,3,2,8,3,24,7,30,28,9,318,27,588,1,21,92,6,3,4,1,155,1,7,127
 Departments and Agencies CIRCIA Cyber Incident Reporting	6936
 Departments and Agencies Citizens	12210
 Departments and Agencies Independent	7548
@@ -1140,6 +1142,7 @@ Departments and Agencies MM Materials Management MoFEDIP	13420
 Departments and Agencies MO Market Operator MTS	12062,6124,31
 Departments and Agencies MRA	13053
 Departments and Agencies MS Microsoft MTBF Mean	13185
+Departments and Agencies MSF Multi-Stakeholder Forum MSG	19937
 Departments and Agencies MoF Ministry of Finance	18488
 Departments and Agencies MoF Ministry of Finance MTDS	18500
 Departments and Agencies MoF Ministry of Finance MoGCA	18477
@@ -1464,7 +1467,7 @@ Government Assets Management Department	9492
 Government Department	736,1141,10324,90,242,29,338,1,5,189,286,1338,3,243
 Government Department and National Data Centre	11712
 Government Department of Governments	7548
-Government Departments	958,10226,4,1207,582,274,44,86,1074,91,173,2120
+Government Departments	958,10226,4,1207,582,274,44,86,1074,91,173,2120,3137
 Government Departments Institution	736
 Government Departments and Agencies	17114
 Government Ministries Departments and Agencies	12964,5502
@@ -1565,6 +1568,7 @@ ITE&C Department	11156
 IV. IMMIGRATION DEPARTMENT Structured Categorization Fees	18541
 Immigration Department	1988,787,840,368,1900,4577,2943,857,3418,759,26
 Immigration Department Level	19584
+Immigration Departure Control	19950
 Immigration Services Department	19541
 Immigration and Nationality Department	14045,5876
 Import Monitoring and Domestic Monitoring Department	1988

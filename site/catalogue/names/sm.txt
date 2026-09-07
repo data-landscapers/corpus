@@ -320,6 +320,7 @@ Director General of Smart Africa. Launch	16679
 Director of SM	14777
 Director of SMRP	12403
 Director-General. The SMT	16985
+Disabilities No. of SME Accounts	19948
 Disabilities SMC Specialized Medical Commission	15663
 Disciplinary Steps Taken Against SMS Members	11218
 Disclaimer SMEs	9129
@@ -395,6 +396,7 @@ Est Pr Smain BALASKA	15568
 Establish SMART	15845
 Establishes Small	12444
 Eswatini With Smile ID	12404
+European Payments Area SME Small and Medium	19940
 European Union and Smart Africa	1779
 Events KAUTRA Introduces Smarter Onboard Ticketing	3907
 Evolution du Trafic SMS	13324
@@ -451,6 +453,7 @@ Future of Smart	12499
 G Government Network Smart City Project	13132
 G Network and Smart City Development	12962
 G Smart	11857
+G Smartphone	19966
 GB. Smartphone	11780
 GEF Small Grants Programme	11332
 GENDER GAP IN SMARTPHONE OWNERSHIP	11902
@@ -586,6 +589,7 @@ Introduction Smart	958
 Intégration du SMSPS	14622
 Investment SAA Smart Africa Alliance SEA	18504
 Iraqi SMEs	9129
+Islam SMS	19974
 Islamic Small and Medium-sized Enterprises	10965
 Island Developing States SMP Single Movement	16631
 Japanese Prime Minister Shinzō Abe Smart	11135
@@ -685,6 +689,7 @@ MT298 SMT	12364
 MTN Business SME Accelerate Programme. Looking	8813
 MTN Executives and SME Partners	9840
 MTN GLO AIRTEL EMTS SMILE NTEL	3862
+MTN's SME	19966
 Machine-readable SMDX-compliant	14777
 Malawian Fintech PayChangu Targets SME Growth	5940
 Malaysian SMEs	7759,1370
@@ -781,6 +786,7 @@ Names SmartBots	4186
 Namibia Smart City	13210
 Namibia's Smart City	4495,2614,6101
 Nana Appiah Acquaye Smart Africa	5950,1304,3196,1384
+National Biometric Smartcard Payment System	19940
 National Cloud The Smart Rwanda Master	12359
 National Cooperative Smart Registry	9876
 National Coordinator SMART ZAMBIA INSTITUTE Acknowledgement	13308
@@ -1178,7 +1184,7 @@ SMD En	2342
 SMD OIC VITIB SA SIVAC CIDT	2342
 SMDC and Software	15183
 SME AND Cooperative	14770
-SME Accelerate	9840
+SME Accelerate	9840,10126
 SME Access	1600
 SME Bill	14829
 SME Bundles	14219
@@ -1198,6 +1204,7 @@ SME Impact Fund	909
 SME Innovation	18480
 SME Mauritius	14750,68,1,10
 SME Mauritius and Tourism Authority	14736
+SME Month	19966
 SME Plus	11083
 SME Policy	12444
 SME Registration Unit	14750
@@ -1242,6 +1249,7 @@ SMEDAN	10274,1035,2890
 SMEDCO	13447
 SMEDF	12376
 SMEDOMC	19585
+SMEGA	19966
 SMEGA Pay	4106
 SMEPS	19662
 SMESEH	10980
@@ -1303,8 +1311,10 @@ SMEs. Hypothesis Hypothesised	9129
 SMEs. Implementation of Education	14897
 SMEs. In Nigeria	5463
 SMEs. In Serbia	11356
+SMEs. Industry Association The Association of Ghana	19943
 SMEs. KAMPALA	11659
 SMEs. Lessons Learned	16144
+SMEs. MTN's Adwumapa Bundle	19966
 SMEs. National Identification Registry	17099,15
 SMEs. Only	11032
 SMEs. Part	357
@@ -1561,7 +1571,7 @@ Sm.Aa	15694
 SmPaI3lie	10763
 Smail Nassima	16230
 Smait Maven	7564
-Small	418,257,1313,213,1526,347,52,460,214,25,419,3,227,16,175,68,19,131,452,50,305,281,32,57,96,242,75,50,170,66,4,82,444,125,524,141,50,543,37,32,99,12,225,599,42,47,10,18,48,123,12,41,117,15,30,17,272,27,54,71,120,134,7,1,78,34,195,21,23,23,45,45,53,1,25,11,8,1,55,356,61,1,59,23,53,19,39,12,133,23,106,5,84,5,42,417,141,27,53,235,152,30,143,99,117,62,88,67,12,92,217,18,1,61,21,4,23,544,504,125,78,6,42,2,19,5,49,36,32,71,43,93,7,119,246,248,448,186,3,49,198,16,27,28,420,310,39,8,75,124,77
+Small	418,257,1313,213,1526,347,52,460,214,25,419,3,227,16,175,68,19,131,452,50,305,281,32,57,96,242,75,50,170,66,4,82,444,125,524,141,50,543,37,32,99,12,225,599,42,47,10,18,48,123,12,41,117,15,30,17,272,27,54,71,120,134,7,1,78,34,195,21,23,23,45,45,53,1,25,11,8,1,55,356,61,1,59,23,53,19,39,12,133,23,106,5,84,5,42,417,141,27,53,235,152,30,143,99,117,62,88,67,12,92,217,18,1,61,21,4,23,544,504,125,78,6,42,2,19,5,49,36,32,71,43,93,7,119,246,248,448,186,3,49,198,16,27,28,420,310,39,8,75,124,77,88
 Small AI	9558
 Small Aperture Terminal RAPPORT ANNUEL D'ACTIVITES	16327
 Small Arms Survey Briefing Paper	3583
@@ -1672,10 +1682,11 @@ Small and Medium Enterprise Development	13391,294
 Small and Medium Enterprise Development Corporation	13122
 Small and Medium Enterprise Development and Infrastructure	1778,210
 Small and Medium Enterprise MSME Mobile Transfer	17235
+Small and Medium Enterprise MTO Money Transfer	19940
 Small and Medium Enterprise NDP National Development	19646
 Small and Medium Enterprise NaFAA National Fisheries	17139
 Small and Medium Enterprise SDM Single Digital	16144
-Small and Medium Enterprises	940,30,161,117,16,724,1772,768,1355,1063,157,445,1122,447,12,294,1433,194,81,134,1217,30,189,37,184,34,22,144,190,2,129,242,339,175,347,101,27,223,656,890,97,598,1922,652,97,17
+Small and Medium Enterprises	940,30,161,117,16,724,1772,768,1355,1063,157,445,1122,447,12,294,1433,194,81,134,1217,30,189,37,184,34,22,144,190,2,129,242,339,175,347,101,27,223,656,890,97,598,1922,652,97,17,114
 Small and Medium Enterprises Act	14843
 Small and Medium Enterprises Develop	14717
 Small and Medium Enterprises Development	940,6496,825,3041,2289,82
@@ -1707,6 +1718,7 @@ Small and Medium-Sized Enterprises and Clients	10718
 Small and Medium-sized Enterprise Africa MTO Money	12444
 Small and Medium-sized Enterprise SSS Securities Settlement	14997
 Small and Medium-sized Enterprises	7734,3298,962,406,2350,69,2123,159,1159,1468
+Small and Medium-sized Enterprises Ghana Awards	19966
 Small and Medium-sized Enterprises MSPLS Ministry of Public	13312,2
 Small and Medium-sized Enterprises NCFI National Council	7763
 Small and Medium-sized Enterprises Programme	10510
@@ -1720,7 +1732,7 @@ Small- and Medium-sized Enterprises	14879,2004
 Small-Scale Embedded Generation	11228
 Small-Scale Enterprises	1774
 Small-scale	6355,4273,332,1396,2462,360,805,1131,43,2445
-Smaller	2736,90,2037,1387,636,265,5,17,108,727,597,247,163,108,1615,216,552,43,541,207,307,2236,245
+Smaller	2736,90,2037,1387,636,265,5,17,108,727,597,247,163,108,1615,216,552,43,541,207,307,2236,245,4893
 Smaller DPI	8449
 Smaller ISPs	6732,4774
 Smallholder	5281,3093,6571,1079,972,161,418,295,431,1270
@@ -1738,7 +1750,7 @@ Smallholders’ Credit Guarantee Scheme Tanzania Agricultural	7763
 Smallroombigdream	7655
 Smart	395,187,207,169,507,631,422,184,245,11,319,217,367,667,35,571,366,633,78,221,141,136,770,13,40,16,203,125,146,261,177,143,2,601,503,1103,204,114,727,6,370,126,44,33,54,22,212,281,32,95,95,85,2,10,7,199,3,11,15,1193,170,25,191,26,117,190,81,290,127,997,150,768,411,24,1409,178
 Smart AFAD. Presently	14818
-Smart Africa	961,221,22,218,306,51,35,868,112,45,170,32,121,110,67,39,20,96,55,325,85,27,1,43,6,14,76,200,188,69,222,543,47,5,276,25,120,392,37,16,1,81,21,1,576,58,142,51,31,26,1,107,495,3,183,93,207,628,99,49,17,492,4,78,148,28,187,746,3,318,299,44,339,12,532,512,1066,78,1471,72,18,561,51,6,193,263,22,26,102,168,312,31,1167,138,9
+Smart Africa	961,221,22,218,306,51,35,868,112,45,170,32,121,110,67,39,20,96,55,325,85,27,1,43,6,14,76,200,188,69,222,543,47,5,276,25,120,392,37,16,1,81,21,1,576,58,142,51,31,26,1,107,495,3,183,93,207,628,99,49,17,492,4,78,148,28,187,746,3,318,299,44,339,12,532,512,1066,78,1471,72,18,561,51,6,193,263,22,26,102,168,312,31,1167,138,9,1315
 Smart Africa AI	10801
 Smart Africa AI Blueprint	6054,5211
 Smart Africa AI for Africa Blueprint	2682
@@ -2175,6 +2187,7 @@ Smarter Liberia	7615,76,1170
 Smarter Policymaking Digital	11332
 Smarter Way	11987
 Smartgrid	18381
+Smartgrids	19966
 Smartlife Flexi	13277
 Smartly	13361
 Smartmatic	9545,1570
@@ -2228,7 +2241,7 @@ Smiling Coast	16929
 Smirnov	10076
 Smisha Agarwal. BMJ Global Health	10881
 Smit. The SA SME Fund	13269
-Smith	2117,1674,1159,890,1438,395,77,853,3,1840,283,425,156,569,48,5015,265,2313
+Smith	2117,1674,1159,890,1438,395,77,853,3,1840,283,425,156,569,48,5015,265,2313,454
 Smith J	3791
 Smith M	1261
 Smith Mehta	9364
@@ -2267,6 +2280,7 @@ Smuggling Unit	14760
 Smuggling of Migrants	16874,1060
 Smuha	11050
 Smuts N.O. and Others	6683
+Smutylo T	19944
 Smyrnaios	3782
 Smyth	8604
 So Smith	7750

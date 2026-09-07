@@ -38,6 +38,8 @@ Area Single Point of Contact for ICT	19576
 Artificial Intelligence. Pointing	10370
 Associação Cabo Verde Internet Exchange Point	11878,3695
 Aster Point Hospital Data Controller INST-266477267AE	7167
+Automated Teller Machines and Point of Sale Devices	19940
+Automated Teller Machines and Points of Sales	19940
 Axe Pointe-Noire	15455
 Axe Pointe-Noire- Matombi	15455
 B Point	16552
@@ -122,6 +124,7 @@ Cloud Service Providers and Internet Exchange Points	10956
 Codes NSPC National Signalling Point Codes	6946
 Col NIBIZI Elias Point Focal TIC	13341
 Comité International des Poids	14736
+Commercial EV Charging Point Operators	19976
 Commune de Pointe-Noire	15615,350
 Commune de Pointe-Noire Décret	15558
 Commune de Pointe-Noire Département	15558
@@ -482,10 +485,12 @@ POINTS Courier	11129
 POINTS DE SERVICE DES INSTITUTIONS BANCAIRES	13390
 POINTS DE VIGILANCES	16714
 PORTANT CADRE REGLEMENTAIRE DU POINT D'ECHANGE	13291
+POS Mobile Point of Sale MiCA Markets	19940
 POS Point-of-sale PRODEC II Programme Decennal	17870
 PP Nine Point Plan NT National	11193
 PRETORIA Points of Contact Mr Enos Sella	11180
 PReSTrack Point-of-Service Solution for ANC	18478
+PSP Payment Service Providers POS Point	19940
 PSP Points	13468
 Pain Points	13037
 Paisagem Protegida Barragem de Poilão	15380
@@ -572,16 +577,19 @@ Point de Présence CAMIX	16265
 Point de Vue	9993
 Point of Care	14394
 Point of Common Coupling	11269
-Point of Contact	11190
+Point of Contact	11190,8747
+Point of Contact Implementing Institutions	19937
+Point of Contact Multi-stakeholder	19937
+Point of Contact Submission of Final	19937
 Point of Delivery	14867
 Point of Entry	19354
 Point of Presence	2913,226,723,10606,396,963
 Point of Presence R&D	13956
-Point of Sale	1925,924,28,1848,1728,9,516,931,169,40,4064,1122,302,426,887,33,2080,203
+Point of Sale	1925,924,28,1848,1728,9,516,931,169,40,4064,1122,302,426,887,33,2080,203,2705
 Point of Sale RAP	18770
 Point of Sale and ATM Switching	2276
 Point of Sale-POS-cards	8806
-Point of Sales	4630,50,637,6721,4904,2643
+Point of Sales	4630,50,637,6721,4904,2643,355
 Point of Sales Persons With Disabilities	10763
 Point of View	14434
 Point-	736
@@ -672,7 +680,7 @@ Pointe-noire	15848
 PointeNoire	15780
 Pointed	13387
 Pointing	34,9642,1419,6565
-Points	164,6795,696,1582,1263,211,165,376,683,108,85,99,168,642,57,196,1,84,6,87,1094,60,275,645,82,15,73,8,18,36,74,37,162,281,217,7,287,167,62,751,4,19,59,60,116,502,374,385,204,160,7
+Points	164,6795,696,1582,1263,211,165,376,683,108,85,99,168,642,57,196,1,84,6,87,1094,60,275,645,82,15,73,8,18,36,74,37,162,281,217,7,287,167,62,751,4,19,59,60,116,502,374,385,204,160,7,248
 Points Development Discoveries Education	9989
 Points During FY2024	19712
 Points Focaux	15383,2600
@@ -698,6 +706,7 @@ Points of Customer Contact E-mail	775
 Points of Entry	11590,5406
 Points of Law. Responding	18154
 Points of Presence	1289,2573,2887,4757,522,425,148
+Points of Sale	19948
 Points ofEntry	4260
 Points-Based Valuation System for Property Taxation	11133
 Points-based	18448

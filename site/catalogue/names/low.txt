@@ -210,7 +210,7 @@ Low EAF and High Demand Sensitivities	11228
 Low EGDI	12241
 Low EPI	11569
 Low Earth	4442
-Low Earth Orbit	1812,132,31,938,63,628,92,655,91,234,405,260,37,961,66,264,39,25,131,82,361,360,4164,871,64,459,448,583,864,1024,2059
+Low Earth Orbit	1812,132,31,938,63,628,92,655,91,234,405,260,37,961,66,264,39,25,131,82,361,360,4164,871,64,459,448,583,864,1024,2059,1763
 Low Empowerment	17127
 Low Empowerment Medium Empowerment High Empowerment	17127
 Low Environmental Impacts	12389
@@ -283,7 +283,7 @@ Low Utilisation Rate of Project Funds	19585
 Low Utilisation Rate of Project Funds S	19585
 Low Value Payment Systems Efficient	12286
 Low Very Low Very Low Low	13053
-Low Voltage	9409,5458,4,384,714,3677
+Low Voltage	9409,5458,4,384,714,3677,330
 Low Voltage Installations	12998
 Low Voltage Supply	14867
 Low Voltage. While AI	11768
@@ -333,7 +333,7 @@ Low-Tech Interfaces	4625
 Low-Value Payment Systems	13388
 Low-Voltage	18795
 Low-and-Middle-Income-Countries	11990
-Low-band	5675,918,8081
+Low-band	5675,918,8081,5292
 Low-bandwidth	5513,9651
 Low-birth-weight	15056
 Low-carbon	10969,915,1,10,264,1,44,1,146,45,91,6017,1358,3
@@ -378,7 +378,7 @@ Low. The Environmental and Social Systems Assessment	12176
 Low. Track II	12669
 Low2023-06 Law No	18370
 Lowell. Chris	10794
-Lower	582,2526,1661,203,90,101,334,86,849,161,79,851,240,372,707,489,653,734,20,25,5,25,63,83,30,165,2,48,64,221,94,9,312,1,10,23,76,4,161,1,45,146,4,28,13,15,2,74,368,455,36,42,236,80,164,6,1022,1,100,59,108,80,309,21,30,30,91,50,204,281,176,416,15,17,8,58,20,26,118,13,13,9,8,82,9,4,33,458,127,431,230,4,396,224,387,148,55,117,3,13
+Lower	582,2526,1661,203,90,101,334,86,849,161,79,851,240,372,707,489,653,734,20,25,5,25,63,83,30,165,2,48,64,221,94,9,312,1,10,23,76,4,161,1,45,146,4,28,13,15,2,74,368,455,36,42,236,80,164,6,1022,1,100,59,108,80,309,21,30,30,91,50,204,281,176,416,15,17,8,58,20,26,118,13,13,9,8,82,9,4,33,458,127,431,230,4,396,224,387,148,55,117,3,13,74,14
 Lower ARPU	14707
 Lower Basic	17105
 Lower Casamance. Project	5056
@@ -472,7 +472,7 @@ Lowest	1013,931,4488,4537,915,1,10,264,1,90,101,4,41,91,2757,330,1361,133,2794,3
 Lowest Bidder Difference	19585
 Lowest Evaluated Bidder	19585
 Lowest NSR Coverage	11998
-Lowest Rankings	12204,1
+Lowest Rankings	12204,1,7747
 Lowest Rankings Ethiopia	12205
 Lowincome Low	11572
 Lowland	16996

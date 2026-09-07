@@ -51,7 +51,7 @@ Cedi GDP Gross Domestic Product GSMA	14674
 Co-Develop and GDN	10852
 Competitiveness Index GDP Gross Domestic Product	13312,2
 Compiling GDP	236
-Composition of GDP	12385
+Composition of GDP	12385,7581
 Conflict and Violence GDP Gross Domestic Product	11545
 Congo's GDP	3096
 Congo’s GDI	15553
@@ -96,7 +96,7 @@ ESA’s GDA	17405
 ESI ESP FGS FMS FOB GDP	11136
 EU European Union GDPR General Data	14434
 EU GDP	13532
-EU GDPR	961,282,104,1377,82,750,4880,5692,306,299,79,5078
+EU GDPR	961,282,104,1377,82,750,4880,5692,306,299,79,5078,78
 EU's GDPR	1652,11023,2562,3256,1266
 EU’s GDPR	961,2331,2201,850,5929
 Early Childhood Development GDP Gross Domestic	12512
@@ -121,7 +121,7 @@ Ethiopia’s GDP	14151
 Ethiopia’s ID GDN	10852
 European Union’s GDP	10819
 European Union’s GDPR	5242
-Evolution of GDP	13418,1478
+Evolution of GDP	13418,1478,5070
 Evolution of Real GDP	10841
 FCV FM GBV GDP GEMS GER	16436
 FGM Female Genital Mutilation GDP Gross	19531
@@ -250,6 +250,7 @@ GDP GERD	12351
 GDP GFDRR GoA Senior Health and Community	10763
 GDP GROWS	14873
 GDP GSMA GUOT HCI HEIS ICB	15553
+GDP Ghana	19952
 GDP Global	12205,146
 GDP Graduates	11885
 GDP Gross	11380,505,4998,1
@@ -269,7 +270,7 @@ GDP Gross Domestic Product HCM Human	19633
 GDP Gross Domestic Product ICI Djibouti	13836
 GDP Gross Domestic Product Telecommunications of Equatorial	16942
 GDP Grows	8466
-GDP Growth	8126,3797,268,4914,2427
+GDP Growth	8126,3797,268,4914,2427,411
 GDP Growth and Contributions	17257
 GDP High-income	12369
 GDP High-tech	12205
@@ -358,7 +359,7 @@ GDP-ga	11136
 GDP-projection	5230
 GDP-weighted	1828
 GDP. Achieving	18823
-GDP. Agriculture	16942
+GDP. Agriculture	16942,3024
 GDP. Around	10963,1
 GDP. Authorities	6458
 GDP. Better	18488

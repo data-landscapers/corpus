@@ -341,10 +341,10 @@ National Payments Switch Project	11131,3
 National Retail Payment Switch	12589,9
 National Retail Payments Switch	19650,14
 National Retail Payments Switch PCI DSS	19664
-National Switch	3895,1936,846,1424,3859,34,220,727,1091,4793
+National Switch	3895,1936,846,1424,3859,34,220,727,1091,4793,1115
 National Switch Implementation Committee Education	16876
 National Switch. Increase	14674
-National Switching and Processing System	1889
+National Switching and Processing System	1889,18051
 Neil Swinyard-Jordan MSc	15186
 Netherlands Switzerland	16955
 Netherlands and Switzerland	19455
@@ -851,16 +851,20 @@ Swiss Agency for Cooperation and Development	10970
 Swiss Agency for Development Co-operation	3274
 Swiss Agency for Development Cooperation TVET Technical	18911
 Swiss Agency for Development and Cooperation	8456,529,1756,401,818,1546,1429,150,3251,473,102,544
+Swiss Ambassador	19959
 Swiss Attorney General	4127
 Swiss Center for International Health	10919
 Swiss Confederation	1344,10242,5659
 Swiss Confederation and Head	18546
 Swiss Development Agency	13314
+Swiss Development Agency. GEDAP	19943
 Swiss Development Cooperation	13332,213,3371
+Swiss Embassy	19959
 Swiss Franc	9796,4989,2531
 Swiss Francs	13420,1364
 Swiss Francs. The VAT	14784
-Swiss Government	1596
+Swiss Government	1596,18363
+Swiss Government and African Development Bank	19959
 Swiss Investment Fund for Emerging Markets	945,1,1,611,1
 Swiss National Bank. All	11134
 Swiss Political Science Review	11135
@@ -916,7 +920,7 @@ Switching System	16844
 Switching and Processing Licence Granted	11138
 Switchs Layer	17823
 Switzer-	17743
-Switzerland	789,181,273,1216,606,1028,34,769,68,291,1358,430,92,283,10,4,97,99,131,915,393,61,133,291,189,973,4,46,16,5,61,18,55,138,78,289,139,46,313,229,821,108,42,86,6,86,161,351,930,217,170,2,91,7,242,7,103,132,120,747,51,351,81,172,508,242,95,45,421,1056,147,155
+Switzerland	789,181,273,1216,606,1028,34,769,68,291,1358,430,92,283,10,4,97,99,131,915,393,61,133,291,189,973,4,46,16,5,61,18,55,138,78,289,139,46,313,229,821,108,42,86,6,86,161,351,930,217,170,2,91,7,242,7,103,132,120,747,51,351,81,172,508,242,95,45,421,1056,147,155,55
 Switzerland Agriculture	970
 Switzerland EUR HI	17743
 Switzerland Email	10764,80,7279
@@ -934,6 +938,7 @@ Switzerland and African	7418
 Switzerland and Canada	2626
 Switzerland and EEA	15471
 Switzerland and GWP	17157
+Switzerland and Ghana	19959
 Switzerland and Permanent Representative	17793
 Switzerland for UNHCR	16580
 Switzerland's SDC	8985

@@ -37,7 +37,7 @@ Agence Gabonaise de Sécurité Sanitaire des Aliments	15500
 Agence Nationale des Bourses du Gabon	15376
 Agence Nombre de Guichet Nombre de GAB Nombre	13390
 Agent IA Gabon	15928
-Airtel Gabon	2263,3894,2199,7055,36,116,143,1,687,29,5,659
+Airtel Gabon	2263,3894,2199,7055,36,116,143,1,687,29,5,659,2858
 Airtel Gabon Gabon Telecom Mobile	15707
 Airtel Gabon Gabon Telecom Mobile Sur	15707
 Airtel Gabon and Gabon Telecom	15411
@@ -57,7 +57,7 @@ Ao Gabinete de Secretariado	15503
 Arquivo de Identificação Gabinete de Inspecção Civil	10750
 Assess Gabon	15511
 Assunlos Fiscais GABINETE DO DIRETOR GERAL	17111
-Au Gabon	3581,3874,165,3394,930,3556,233,304,194
+Au Gabon	3581,3874,165,3394,930,3556,233,304,194,3714
 Axione Gabon	11322,4125,952
 Axione Gabon. Pour Bissa Bi Mbele	9418
 Axione and Gabon Télécom	15447
@@ -182,6 +182,7 @@ Digitax Gabon Par Redaction	16749
 Dimnaka Gabriel Adigwe	12478
 Directeur Général Gabonaise des Jeux	16175
 Director General de Gabinete	4209
+Director General of Airtel Gabon	19982
 Director. O Gabinete Jurídico	167
 Director. O Gabinete de Comunicação Institucional	167
 Director. O Gabinete de Recursos Humanos	167
@@ -233,6 +234,7 @@ Facilitation des Aéroports du Gabon	15973
 Faculté des Sciences de Gabès	1183
 Faire du Gabon	4744
 Fiji Finland France Gabon Gambia Georgia	11765
+Financial Technology Companies GAB Ghana Association	19940
 Fiscal Year GABIX Gabon Internet Exchange	15511
 Foreign Minister of Gabon Mr. Pacome Moubele	16285
 Francistown and Gaborone	19702
@@ -373,7 +375,7 @@ Gabix	8541,221
 Gable	13392
 Gabnon Dawi	18940
 Gabode	13884
-Gabon	24,90,46,63,78,326,74,23,40,72,80,97,6,46,178,122,76,75,9,35,39,35,140,6,48,53,17,157,208,19,3,40,11,7,56,107,39,137,93,186,71,51,42,52,1,94,19,7,13,51,56,18,52,7,5,79,2,77,25,34,75,14,88,11,35,23,80,21,61,13,71,18,13,296,84,39,24,61,139,87,2,87,61,33,90,73,424,61,1,98,167,62,25,3,84,34,100,20,25,58,92,43,166,23,16,59,120,38,58,28,29,93,25,23,2,132,30,252,267,178,45,105,19,7,1,26,1,85,99,1,1,99,54,30,36,1,37,126,274,1,218,197,6,105,110,1,91,25,79,4,342,25,34,48,1,228,45,26,50,3,3,8,43,76,7,39,35,31,57,185,1,97,80,29,80,59,1,5,34,159,3,16,1,2,55,16,57,19,38,38,41,1,9,178,11,1,32,103,554,78,154,8,88,18,180,145,476,143,190,158,44,592,41,15,4,1,34,36,8,5,11,3,4,2,13,7,11,2,1,4,15,9,11,7,3,34,2,16,10,38,3,14,5,18,3,1,17,3,6,30,80,45,40,4,36,5,28,6,1,12,5,12,23,11,15,5,8,3,16,8,11,19,3,16,20,1,8,27,19,2,8,22,3,4,7,22,18,5,9,31,1,3,9,5,29,4,1,7,5,9,11,11,13,8,5,4,1,2,3,86,9,195,140,7,9,14,24,220,165,179,93,90,28,24,38,37,884,33,10,90,11,352,41,63,299,169,14,2,20,1
+Gabon	24,90,46,63,78,326,74,23,40,72,80,97,6,46,178,122,76,75,9,35,39,35,140,6,48,53,17,157,208,19,3,40,11,7,56,107,39,137,93,186,71,51,42,52,1,94,19,7,13,51,56,18,52,7,5,79,2,77,25,34,75,14,88,11,35,23,80,21,61,13,71,18,13,296,84,39,24,61,139,87,2,87,61,33,90,73,424,61,1,98,167,62,25,3,84,34,100,20,25,58,92,43,166,23,16,59,120,38,58,28,29,93,25,23,2,132,30,252,267,178,45,105,19,7,1,26,1,85,99,1,1,99,54,30,36,1,37,126,274,1,218,197,6,105,110,1,91,25,79,4,342,25,34,48,1,228,45,26,50,3,3,8,43,76,7,39,35,31,57,185,1,97,80,29,80,59,1,5,34,159,3,16,1,2,55,16,57,19,38,38,41,1,9,178,11,1,32,103,554,78,154,8,88,18,180,145,476,143,190,158,44,592,41,15,4,1,34,36,8,5,11,3,4,2,13,7,11,2,1,4,15,9,11,7,3,34,2,16,10,38,3,14,5,18,3,1,17,3,6,30,80,45,40,4,36,5,28,6,1,12,5,12,23,11,15,5,8,3,16,8,11,19,3,16,20,1,8,27,19,2,8,22,3,4,7,22,18,5,9,31,1,3,9,5,29,4,1,7,5,9,11,11,13,8,5,4,1,2,3,86,9,195,140,7,9,14,24,220,165,179,93,90,28,24,38,37,884,33,10,90,11,352,41,63,299,169,14,2,20,1,80,6,4,5,1,5,3,3,3,1,8,1,3
 Gabon 1997	15968
 Gabon AFR UMI	17743
 Gabon Actu	2282
@@ -394,6 +396,7 @@ Gabon Connect	5105
 Gabon Connect. Elle	16324
 Gabon Customs	15478
 Gabon D	11867
+Gabon Data	19970
 Gabon Datacenter	8540
 Gabon Demographic Health Survey	15411
 Gabon Digital	764,1291,1028,1537,500,1659,1662,4841,2877,182,165,1147
@@ -406,8 +409,10 @@ Gabon En	16118
 Gabon Equatorial Guinea Congo Cameroon CAR	16996
 Gabon Equatorial Guinea Congo Figure	16996
 Gabon FAO	15500
+Gabon Facebook	19970
 Gabon Favorable	10821
 Gabon Fiber. Le Conseil	16381
+Gabon Figures	19970
 Gabon GAB Implementing	13082
 Gabon GRM Grievance Redress Mechanism IBRD	15511
 Gabon Gambia Georgia Germany Ghana Gibraltar	11470,7872
@@ -431,11 +436,13 @@ Gabon Launches	7093
 Gabon Low and Middle Republic Republic Guinea	16942
 Gabon MAEP	16381
 Gabon MAPS	15518
+Gabon MO IBRAHIM FOUNDATION	19939
 Gabon MPTF-Cntrl African Forest	15500
 Gabon Media Time	1516,382
 Gabon Minister of Economy and Participations	1575
 Gabon Ministry	2166
-Gabon Nigeria Madagascar Eswatini Angola Mali	10837,1503
+Gabon NEED THE LATEST DATA	19970
+Gabon Nigeria Madagascar Eswatini Angola Mali	10837,1503,7598
 Gabon Number	15447
 Gabon Numérique	11944,3567
 Gabon Operational Plan for Services	15447
@@ -503,10 +510,13 @@ Gabon's ARCEP	3963
 Gabon's Emerging Digital Economy Strategy	3291
 Gabon's IBOGA	24
 Gabon's ID	114
+Gabon's Minister of State for National Education	19982
 Gabon's Ministry of Digital Economy	3806
 Gabon's Ministry of Justice	2343
 Gabon's Ministry of National Education	2545,874
+Gabon's National Olympic Committee	19954
 Gabon's Nkok Special Economic Zone	3418
+Gabon's Overall Governance	19939
 Gabon's US	15377
 Gabon's Universal Access	15511
 Gabon-Congo	15615
@@ -572,6 +582,7 @@ Gabon. Objectifs	16037
 Gabon. Own	15500
 Gabon. Par	16037
 Gabon. Parmi	10975
+Gabon. Population of Gabon	19970
 Gabon. Pour	11080,5432
 Gabon. Pour le CGI	10486
 Gabon. Principes	16037
@@ -609,7 +620,7 @@ GabonReview Ministres	15928
 GabonReview Mis	12091
 GabonReview and Tech Africa News	7940
 Gabonactu.com	16007
-Gabonais	1231,1032,770,50,42,1000,1118,2000,298,1100,121,3182,3759,24,184,62,47,17,23,222,10,93,9,118,95
+Gabonais	1231,1032,770,50,42,1000,1118,2000,298,1100,121,3182,3759,24,184,62,47,17,23,222,10,93,9,118,95,3356
 Gabonais Economiquement Faible	15428
 Gabonais Economiquement Faibles	15428,90
 Gabonais L'État	4138
@@ -618,7 +629,7 @@ Gabonais. Sans	8441
 Gabonaise	4970,10401,4,53,592,17,23,189,132
 Gabonaise. ABONNEZ VOUS	15409,55,69,64,84,22,75
 Gabonaise. MINISTÈRE DES TRAVAUX PUBLICS ET	16381
-Gabonese	24,138,1363,229,19,509,54,955,288,648,309,84,2172,243,58,28,819,602,657,638,1004,4570,36,31,33,3,4,45,523,199,477,40,194,1801
+Gabonese	24,138,1363,229,19,509,54,955,288,648,309,84,2172,243,58,28,819,602,657,638,1004,4570,36,31,33,3,4,45,523,199,477,40,194,1801,1181,4
 Gabonese Administration Information Center	15518
 Gabonese Administration Network	15518
 Gabonese Digital Incubator Company	15447
@@ -783,6 +794,7 @@ Ku-tagrifalidda Awoodeed Gaboodfallada	14859
 Kwawu Mensan Gaba	16059,595
 Kwawu Mensan Gaba Task Team Leader	15983
 Kwawu Mensan Gaba Task Team Leaders	11549,7690
+L'UNG du Gabon	19954
 L'agence de Moov Africa Gabon Telecom de Mbolo	2325
 LA GABONAISE DES JEUX	16175
 LEVETIRACETAM OXCARBAZEPINE GABAPENTINE	15930
@@ -796,7 +808,7 @@ Law Bookbinder Business Law Gaborone	12232
 Le Centre Gabonais	10486,5277
 Le Directeur Général de Taxi Gab	16382
 Le Directeur Général de Taxi... Gabon	16382
-Le Gabon	3125,52,311,229,2524,1158,541,230,185,86,284,1203,1086,96,382,176,1614,1398,820,180,23,60,205,69,287,141,1095,93
+Le Gabon	3125,52,311,229,2524,1158,541,230,185,86,284,1203,1086,96,382,176,1614,1398,820,180,23,60,205,69,287,141,1095,93,2296
 Le Gabon Internet	8761
 Le Gouvernement Gabonais	16037
 Le PIM Gabon	15500
@@ -839,12 +851,12 @@ Monsieur Gabby Bugaga	13405
 Monsieur Gaby Nestor RAZAKAMANANTSOA Directeur Général	14450
 Monsieur Ousman Ali Gabdjaya. Ouvertes	19051
 Mont Gabaon	15670
-Moov Africa Gabon Telecom	2325,1481,7304,564,4237,483
+Moov Africa Gabon Telecom	2325,1481,7304,564,4237,483,3551
 Moov Africa Gabon Telecom Fixe	15706
 Moov Africa Gabon Telecom Mobile	15706
 Moov Africa Gabon Telecom and Airtel Gabon	3963
 Moov Africa Gabon Telecom. Face	11110
-Moov Africa Gabon Télécom	15707,716
+Moov Africa Gabon Télécom	15707,716,3540
 Moov Africa Gabon Télécom L’Autorité de Régulation	16423
 Moov Africa Gabon Télécom URL	16423
 Moov Africa Gabon Télécom. Cette	16423
@@ -1051,6 +1063,7 @@ UNE Gabon-Modernisation	16382
 UNESCO org UPR42 GAB F Main.pdf	15968
 UNESCO org UPR42 GAB F Main.pdf Author	15968
 UNICEF Gabon Tel	15563
+UNICEF and Airtel Gabon	19982
 UNIVERSITE NUMERIQUE DU GABON	15674
 Un Gabonais	4125,13,11899
 Uniquement GAB	17833
@@ -1060,5 +1073,6 @@ Valeur Ajoutée GAB	11944
 Ville LibrevillePays GABON Tel	15368
 World Bank Country Director for Gabon	1575
 World Bank Group. Gabon	15511
+World Health Organization Gabon	19960
 Yemen Eritrea Eswatini Gabon Gambia	13042
 Zambia Ethiopia Palestinian Authority Zimbabwe Gabon	11005

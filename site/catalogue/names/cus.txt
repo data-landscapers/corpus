@@ -82,6 +82,7 @@ BURS' Customs	12539
 Bambadinca Cusselintra Porto de Bambadinca Governador	17147
 Bangladesh Connecting Customs and PGAs	16631
 Bank Account Customer Customer Number Name	12364
+Bank of Ghana Indicators Number of Registered Customers	19940
 Barbados Customs and Excise Department	15478
 Baseline Customization of Default Settings Interactions Size	13868
 Benefits of Digital Customs Administration	19839
@@ -89,6 +90,8 @@ Benin Customs Administration	8499
 Beninese Customs	2392
 Body Customer Service Charter Department	12927
 Body World Customs Organization	13051
+Bulk Customer	19976
+Bulk Customers	19976
 Bureau of Concessions and Bureau of Customs	16843
 Bureau of Customs.Verification	16843
 Bureaus of Internal Revenue and Customs and Excise	17011
@@ -315,6 +318,7 @@ Customer ISPs	14864
 Customer Interruption Duration Total Number of Customer	14867
 Customer Journey	14921
 Customer LAN Local Area Network M&E	18454
+Customer LLM Large Language Model NLP	19940
 Customer Location	8999
 Customer MAN Metropolitan Area Network MDA	13312,2
 Customer Management System	12358
@@ -370,7 +374,7 @@ Customer-owned	9123
 Customer. Article	14867
 Customer. The Customer	9123
 CustomerSatisfactionandSurvey	4554
-Customers	767,291,671,796,359,128,625,579,366,681,26,144,41,47,208,373,3,145,61,39,12,136,276,118,212,152,21,24,48,33,85,42,116,14,8,149,221,106,75,94,140,159,117,3,131,29,128,47,25,48,4,160,172,105,19,200,253,103,68,25,83,328,26,37,36,60,58,102,205,134,459,197,2,37,218,82,23,301,311,42,303,1,878,193,293,230,130,26,107,39,124,178,129,1206,29,16,27,11,34,1,193,39,95,359,16,103,973,292,602,174,97,11,51
+Customers	767,291,671,796,359,128,625,579,366,681,26,144,41,47,208,373,3,145,61,39,12,136,276,118,212,152,21,24,48,33,85,42,116,14,8,149,221,106,75,94,140,159,117,3,131,29,128,47,25,48,4,160,172,105,19,200,253,103,68,25,83,328,26,37,36,60,58,102,205,134,459,197,2,37,218,82,23,301,311,42,303,1,878,193,293,230,130,26,107,39,124,178,129,1206,29,16,27,11,34,1,193,39,95,359,16,103,973,292,602,174,97,11,51,39
 Customers Are Transferring Their Own Funds	6362
 Customers CHAPTER	12616
 Customers Complaints	17235
@@ -382,6 +386,7 @@ Customers Investors	7204
 Customers M-PESA Network People	7204
 Customers Need	18513
 Customers The Customer	14867
+Customers Trend	19940
 Customers and PURA Beneficiaries	16884
 Customers and Providers. Customers	9123
 Customers and Verifying	16590
@@ -404,7 +409,7 @@ Customizations	16923,1
 Customize M&E	12399,7278
 Customized	11191,5966
 Customizing	12359
-Customs	7,177,52,733,186,88,585,284,280,150,1878,827,243,165,4,66,1787,36,147,120,143,9,200,111,649,416,18,384,674,136,230,60,131,60,100,122,31,235,342,8,7,1,74,125,265,18,28,18,90,39,115,302,86,9,2,55,206,249,61,27,217,100,248,114,79,117,7,58,127,35,36,25,14,3,12,54,32,56,220,16,119,133,5,14,14,60,53,357,322,333,106,106,39,19,22,19,5,21,43,94,130,132,103,87,65,487,176,165,91,36,31,285,61,23,111,277,300,174,8
+Customs	7,177,52,733,186,88,585,284,280,150,1878,827,243,165,4,66,1787,36,147,120,143,9,200,111,649,416,18,384,674,136,230,60,131,60,100,122,31,235,342,8,7,1,74,125,265,18,28,18,90,39,115,302,86,9,2,55,206,249,61,27,217,100,248,114,79,117,7,58,127,35,36,25,14,3,12,54,32,56,220,16,119,133,5,14,14,60,53,357,322,333,106,106,39,19,22,19,5,21,43,94,130,132,103,87,65,487,176,165,91,36,31,285,61,23,111,277,300,174,8,89
 Customs ASYCUDA	17367
 Customs Act	7695,3341,1593,2089,91,5,14,3,12,2265,1342,16,75
 Customs Act. Amiwero	9361
@@ -655,6 +660,7 @@ Directorate of Customs Union and Taxation	10572,6104
 Directorate of Customs Union and Taxation Darlingston Y	10644
 Directorate-General of Customs	17209,1616
 Directors General of Customs	7512
+Disabilities Percentage of Customers	19948
 Discriminatory Customary Practices	16951
 Discriminatory Customary Practices Systemic	16951
 Distribution of Customer Deposits	17236
@@ -798,6 +804,7 @@ Improve Customer Satisfaction	12552
 Improved Customer	13037
 Improved Customer Service	14985
 Index Customer Average Interruption Frequency Index	12969
+Indicators Registered Mobile-Money Customers	19940
 Individual Merchants Retail Large Customer Agent	5687
 Information ASYCUDA Automated System for Customs Data	17011
 Information and Data Custodians	17017
@@ -811,6 +818,7 @@ Integrated Customs Management System and Customs Single	18577
 Interfering With Child Custody	16935
 International Customers	17694
 International Customs Day	11575,1467,9
+Internet Banking Number of Customers Registered	19940
 Investigating the Protection of Customers’ Personal Data	226
 Investment and Customs	12962
 Invoices and Remittances of Other Customers	12062,6124,31
@@ -826,7 +834,7 @@ KYC Know Your Customer	7763
 KYC Know Your Customer LMP Labor	15518
 KYC Know Your Customer LTE Long	16942
 KYC Know Your Customer MICS Multiple	15415
-Know Your Customer	1880,36,639,23,227,36,269,7,284,28,79,139,464,737,7,179,335,170,226,232,100,80,10,45,513,476,298,82,162,171,159,943,320,59,350,85,6,151,22,101,450,2,132,90,18,17,144,981,12,62,106,83,14,7,26,17,6,20,6,109,17,214,21,6,288,8,22,72,15,437,9,397,536,29,316,15,613,46,25,383,1475,161,595,359,211,68,271,623
+Know Your Customer	1880,36,639,23,227,36,269,7,284,28,79,139,464,737,7,179,335,170,226,232,100,80,10,45,513,476,298,82,162,171,159,943,320,59,350,85,6,151,22,101,450,2,132,90,18,17,144,981,12,62,106,83,14,7,26,17,6,20,6,109,17,214,21,6,288,8,22,72,15,437,9,397,536,29,316,15,613,46,25,383,1475,161,595,359,211,68,271,623,300
 Know Your Customer Facility	18471
 Know Your Customer FinTech Financial Technologies	18454
 Know Your Customer Lesotho Wire Local	12701
@@ -886,6 +894,10 @@ Mn Three-Month Active Customers	3898
 Mn. One-month Active Customers	6100
 Mn. One-month Active M-PESA Customers	6100
 Mobile Agent Count and Agent Customer Ratios	19728
+Mobile Banking Number of Customers Registered	19940
+Mobile Money Active Customers	19940
+Mobile Money Customers	19940
+Mobile-Money Customers	19940
 Modernised Customs Code	16843
 Monitoring and Evaluation Plan for Data Strategy CUSTODIAN	1161
 Montserrat Customs Interoperability	16631
@@ -1049,6 +1061,7 @@ Tax and Customs	12162,277,517,1941,2071,43
 Tax and Customs Administrations Expertise France	648
 Tax and Customs Agent Board and Revenue Tribunal	19096
 Tax and Customs Business Officers	17011
+Taxation The Customs Division	19943
 TechCo. Customer	3898
 Technical Working Groups. Customer Focus	2775
 Telecom Review Africa My Custom Home	2302,60,225,502,203,504,1184,21,339,1433

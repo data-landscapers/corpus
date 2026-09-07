@@ -53,7 +53,7 @@ Africa's Voices Foundation Limited Data Controller	7167
 Africa. Founded	10464,1153
 Africa. Observer Research Foundation	2518
 Africa. The SFA Foundation	14225
-AfricaNenda Foundation	885,230,367,876,1619,189,191,704,168,1184,660,633,81,39,182,139,3,1,885,870,360,216,1610,178,3,217,562,951,3029,699,971,1176
+AfricaNenda Foundation	885,230,367,876,1619,189,191,704,168,1184,660,633,81,39,182,139,3,1,885,870,360,216,1610,178,3,217,562,951,3029,699,971,1176,62
 AfricaNenda Foundation AfricaNenda Foundation	8150
 AfricaNenda Foundation C1-402	12269,7632
 AfricaNenda Foundation CEO Dr. Robert Ochola	7073,714
@@ -131,7 +131,7 @@ Bertelsmann Foundation	12227
 Berytech Foundation	14468
 Best Practices Foundational	14752
 Beyond the Big Four	7939
-Big Four	4324,648,230,755,310,1672,4078,204
+Big Four	4324,648,230,755,310,1672,4078,204,7757
 Big Four Consulting	11857
 Big Four of Nigeria	7440
 Bill and Melinda Gates Foundation	562,476,786,1033,1582,6756,980,1948,5432
@@ -448,11 +448,11 @@ FOUNDATION KENYA	7167
 FOUNDATIONAL DATA INFRASTRUCTURE	961
 FOUNDATIONAL ELEMENTS ARE IN PLACE	16942
 FOUNDATIONS	16942
-FOUNDATIONS FOR ECONOMIC OPPORTUNITY	10835,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+FOUNDATIONS FOR ECONOMIC OPPORTUNITY	10835,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 FOUNDATIONS FOR ECONOMIC OPPORTUNITY FOUNDATIONS	10759
 FOUNDATIONS FOR ECONOMIC OPPORTUNITY HUMAN DEVELOPMENT	10835,3,130,902,16,466,1,135,7334
 FOUNDATIONS FOR ECONOMIC OPPORTUNITY PUBLIC ADMINISTRATION	10759,1130
-FOUNDATIONS FOR ECONOMIC OPPORTUNITY Public Administration	10759,78,1052,263,188,1
+FOUNDATIONS FOR ECONOMIC OPPORTUNITY Public Administration	10759,78,1052,263,188,1,7597
 FOUNDATIONS Standards	18478
 FOUR COMMUNITIES	18543
 FOUR COMMUNITIES REPUBLIC OF SIERRA	18543
@@ -522,6 +522,7 @@ Form Four	10650,8892,17
 FouRNtssEURs DE CARBU MoDATITE	14479
 Fouad Ben Seddik	8891
 Fouad Boutouil	15410
+Fouad FM	19974
 Fouad Meddah	16344
 Fouad Omari	15410
 Fouad Wahby Team Member Aissatou Maisha	15663
@@ -687,9 +688,9 @@ Foundations for Accelerated Digital Transformation Component	1228,1761,1664
 Foundations for Accelerated Digital Transformation Page	2989
 Foundations for Collaborative Regulation Date	5241
 Foundations for Designing User-centered Systems	19654
-Foundations for Economic Opportunity	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Foundations for Economic Opportunity	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Foundations for Economic Opportunity and Human	10835
-Foundations for Economic Opportunity and Human Development	10759,76,2,1315,11,178,7495,88
+Foundations for Economic Opportunity and Human Development	10759,76,2,1315,11,178,7495,88,14,1
 Foundations for Peace Throughout the Forum	14139
 Foundations of Computer Science	13356
 Foundations of Data Imbalances and Solutions	5700
@@ -844,6 +845,8 @@ Four Occupational Archetypes	16266
 Four One Wine	8433
 Four Photos Size	19927
 Four Pillars	14566,5130
+Four Pillars of OGP	19937
+Four Pillars of OGP The OGP	19937
 Four Pillars of Success	14999
 Four Points	7248,3168,9386
 Four Points By Sheraton Hotel	5371
@@ -920,7 +923,7 @@ Fourth Anniversary	16331
 Fourth Associate Justice Law Clerk Bailiff	16943
 Fourth Cameroon Household Survey	10964
 Fourth Edition	969
-Fourth Estate	3691,7038,7731
+Fourth Estate	3691,7038,7731,1477
 Fourth Estate Distinguished Ladies and Gentlemen Good	16984
 Fourth Estate Ladies and Gentlemen Your Majesty	12955
 Fourth Estate. Gerard Asagi	3691
@@ -978,7 +981,7 @@ Fourth Reviews Under the Arrangements Under the Extended	17909
 Fourth Reviews of Mauritania’s Extended Credit Facility	17909
 Fourth Round Eritrea Population and Health Survey	6106
 Fourth Sch	14713
-Fourth Schedule	736,1141,331,2272,2,1,1,5,3356,4131,1427,1007,184,119,27,74,29,37,2228,1351,1126,41
+Fourth Schedule	736,1141,331,2272,2,1,1,5,3356,4131,1427,1007,184,119,27,74,29,37,2228,1351,1126,41,350
 Fourth Schedule Section	11976
 Fourth Schedule and Fifth Schedule	1223
 Fourth Schedule. Conditions for Private Radio Transceiver	736
@@ -1027,6 +1030,7 @@ GESTION DES FOURNISSEURS ET PRESTATAIRES	14424
 GSMA Foundation	19868
 GSMA Mobile for Development Foundation	11003,991
 GSMA Mobile for Development Foundation Inc	66
+Gabon MO IBRAHIM FOUNDATION	19939
 Gates Foundation	514,7,740,395,512,902,80,48,458,209,417,3,191,52,177,76,261,190,268,53,45,323,250,60,155,207,75,24,22,99,172,88,493,31,357,495,126,497,444,243,29,141,15,25,51,694,151,112,27,13,66,386,479,16,4,2,27,144,86,73,166,46,549,23,476,199,322,191,975,599,75,894,373,229,714
 Gates Foundation Africa	13560
 Gates Foundation Norat	7065
@@ -1058,6 +1062,7 @@ German Savings Bank Foundation	13532
 Germany. Southern Africa Research Foundation for Artificial	2816
 Ghana Hewlett Foundation	677
 Ghana's NCA Receives Four Applications	14699
+Ghana’s Fourth OGP National Action Plan	19937
 Global Earthquake Model Foundation	19520
 Global Legal Entity Identifier Foundation	3950
 Global Security Sector Foundation	8471
@@ -1072,7 +1077,7 @@ Google for Startup’s Black Founders Fund	1363
 Google’s Black Founders Fund	1363,2763
 Gov Foundation	13513,341
 Gov Foundation Key	13854
-Governance MO IBRAHIM FOUNDATION	10759,76,2,1,130,902,16,1,2,263,2,186,12,1,135,7334
+Governance MO IBRAHIM FOUNDATION	10759,76,2,1,130,902,16,1,2,263,2,186,12,1,135,7334,116
 Governance and Accountability. Foundational	12175
 Governance and Foundations	14674
 Government Foundation and Institutional Building	13830,20
@@ -1085,7 +1090,7 @@ Guinea Bissau Fourth National Communication	11589
 HOUSEHOLD NOT FOUND OR MOVED ELSEWHERE	17127
 HP Foundation	17173
 HUB and Mastercard Foundation EdTech	9944
-HUMAN DEVELOPMENT FOUNDATIONS FOR ECONOMIC OPPORTUNITY	10837,1503
+HUMAN DEVELOPMENT FOUNDATIONS FOR ECONOMIC OPPORTUNITY	10837,1503,7598
 Hacklab Foundation	4126
 Halley Movement and Founder	9658
 Hassan Ali Khaire Four	11150
@@ -1153,8 +1158,10 @@ Information FAI Fournisseur	13341
 Information Security Management Foundation	11131
 Information Technology and Innovation Foundation	961,282,5966
 Information and Documentation Checklist Fourth Schedule	14880
+Innohub Foundation	19943
 Innovation Foundation	1243
 Instagram. The Media Foundation for West Africa	17095
+Institute WFD Westminster Foundation for Democracy	19937
 Integrating Fourth Industrial Revolution	6948
 Integration of Foundational Digital ID and CRVS Core	13424
 Internal Rate of Return FFS Foundations for Financial	13836
@@ -1245,6 +1252,7 @@ MDAs. The Four Federal Member States	15090
 MELINDA GATES FOUNDATION	16991
 MENA. Gates Foundation	290
 MERCK Foundation	16285
+MFWA Media Foundation for West Africa MMDAs	19937
 MICT SETA Fourth Industrial Revolution	6832
 MO IBRAHIM FOUNDATION	10912,1251,178,7495,88
 MONEY INTERNET FOURTH QUARTER ENDING	6978
@@ -1329,7 +1337,7 @@ Ministry of Health and The Susan Buffet Foundation	16224
 Mjini Magharibi Region. Chapter Four	19542
 Mme Emmanuelle OLIVEIRA FOUNZI	16175
 Mme OLIVEIRA FOUNZI Emmanuelle DIRECTION DES	16099
-Mo Ibrahim Foundation	6023,1863,2374,499,76,2,1,130,902,16,1,1,1,263,1,1,9,29,86,62,1,11,1,135,13,7151,1,169,14,22,1,65
+Mo Ibrahim Foundation	6023,1863,2374,499,76,2,1,130,902,16,1,1,1,263,1,1,9,29,86,62,1,11,1,135,13,7151,1,169,14,22,1,65,14,1
 Mo Ibrahim Foundation’s Ibrahim Index of African	11863
 Mohamed Fouad	5996
 Mojaloop Foundation	489,25,7,576,1440,1629,88,28,3,2788,633,120,256,572,862,7599
@@ -1473,11 +1481,12 @@ Property Found	12511
 Préfet du Cercle de Foum-Elba	17991
 Public Key Infrastructure. Founding	8073
 Public Perception of Female Leadership FOUNDATIONS	12154
-Public Perception of Political Participation FOUNDATIONS	12163,178,7312
+Public Perception of Political Participation FOUNDATIONS	12163,178,7312,286
 Public Sector Foundations for Service Delivery	12758
 Purpose Driven Foundation Initiatives	3898,2202
 Python Software Foundation	11922
 Q4-Report.pdf FOURTH QUARTER	18217
+QUELLES SONT LES PIECES A FOURNIR	19946
 QUI FOURNISSENT DES SERVICES FIABLES ET	16037
 Quality Foundational Learning for All Girls and Boys	12175
 Quality Foundational Teaching and Learning	12175,1815
@@ -1589,7 +1598,7 @@ Senior Four and Primary Eight	18733
 Services Financiers Numériques FSVA Fournisseur de Services	11944
 Seven Hundred and Fourty-Eight Million	12602
 Shadowserver Foundation	5780,646,2351,7231
-Shell Foundation	1468,10455,268
+Shell Foundation	1468,10455,268,7752
 Shifo Foundation	4338
 Si le Fournisseur	13524
 Sicalo Foundation	11131,3
@@ -1656,6 +1665,7 @@ Teachers ICDL Foundation	14897
 TechAfrica News Founder Akim Benamara	5752,2359
 TechCabal. Founded	10165
 Technology National Foundation Model National AI	15713
+Telecel Ghana Foundation	19966
 Term Plan MTP IV Fourth Medium	2775
 Theoretical Foundations	10726
 Third Generation Technology Fourth Generation Technology	15553

@@ -16,7 +16,7 @@ BPMC Banque Populaire Maroco-Centrafricaine BSE Bus	15474
 BRIDGE BANK BSIC SENEGAL CBAO	11588,6682
 BS AU	13385
 BS Bertelsmann Stiftung	11887,266,1,9,178,7517,1
-BS Bertelsmann Stiftung Cable Cable.co.uk CAHF	10759,78,1052,451
+BS Bertelsmann Stiftung Cable Cable.co.uk CAHF	10759,78,1052,451,7598
 BS British Standard CBT Changed Block	13185
 BS Clearance	19801
 BS EN	1988,11397
@@ -270,6 +270,7 @@ Pond BS	771
 President Muhammed BS Jallow	7693
 Qvantel BSS	5278
 Qvantel for BSS	5278
+RITA.2018.2809939 Egala BS	19944
 Real Stakes of BSS Modernization	16809
 RÉFORMES ET DIGITALISATION BSD	16722
 SA BSIC	16623

@@ -285,6 +285,7 @@ Back Office	10765,10,4003,187,1363
 Back Office DGID	16328
 Back Overall Governance Namibia’s Overall Governance	12340
 Back Overall Governance While Central African	10837
+Back Overall Governance While Ghana’s Overall	19938
 Back Ratio Gain	736
 Back Ratio I Certify	736
 Back Ratio Main Lobe Azimuth	736
@@ -343,7 +344,7 @@ Backfill	965,17,17,268,95,1,273,11,79,3,10,30,158,98,1594,500,307,248,232,5,149,
 Backfilled	12253
 Backfilling	13392
 Backg	9123
-Background	236,159,183,188,5,187,261,42,336,109,122,91,174,41,77,65,114,558,110,444,30,52,130,21,56,335,88,218,7,29,59,422,297,239,705,242,504,262,8,111,231,499,307,160,614,1,108,162,204,1,123,32,96,468,123,274,64,28,17,188,125,46,3,1,1,42,17,13,20,4,263,308,47,45,54,19,150,7,28,9,23,87,6,19,6,4,31,18,7,24,1,89,138,3,221,25,10,47,61,256,48,6,9,37,62,80,38,1,48,57,275,66,79,22,15,47,339,223,43,22,32,13,3,14,24,24,1,1,4,65,43,19,1,7,93,64,24,3,327,55,59,25,83,445,12,215,53,257,74,6,18,8,1,30,6,2,4,8,8,7,25,10,58,25,31,15,35,8,55,48,29,75,284,222,23,550,5,22,15,22,36,68,3,273,2,10,4,1,7,20,17,3,12,26,53,477,1,11,1,9,1,12,1,83,6,3,10,3,7,48,26,4,110
+Background	236,159,183,188,5,187,261,42,336,109,122,91,174,41,77,65,114,558,110,444,30,52,130,21,56,335,88,218,7,29,59,422,297,239,705,242,504,262,8,111,231,499,307,160,614,1,108,162,204,1,123,32,96,468,123,274,64,28,17,188,125,46,3,1,1,42,17,13,20,4,263,308,47,45,54,19,150,7,28,9,23,87,6,19,6,4,31,18,7,24,1,89,138,3,221,25,10,47,61,256,48,6,9,37,62,80,38,1,48,57,275,66,79,22,15,47,339,223,43,22,32,13,3,14,24,24,1,1,4,65,43,19,1,7,93,64,24,3,327,55,59,25,83,445,12,215,53,257,74,6,18,8,1,30,6,2,4,8,8,7,25,10,58,25,31,15,35,8,55,48,29,75,284,222,23,550,5,22,15,22,36,68,3,273,2,10,4,1,7,20,17,3,12,26,53,477,1,11,1,9,1,12,1,83,6,3,10,3,7,48,26,4,110,82,37
 Background A Population and Housing Census	16921
 Background Across the Global South	16495
 Background Agriculture	17043
@@ -552,9 +553,9 @@ Board Secretariat Bachelor of Laws	11134
 Body Backup	13169
 Body Statistical Data Dissemination and Access Background	14115
 Botho University. Bachelor	12675
-Bouncing Back	10912,975,1,1,264,1,9,178,7311,1,205,1,65
+Bouncing Back	10912,975,1,1,264,1,9,178,7311,1,205,1,65,15
 Bouncing Back African	12341
-Bouncing Back Score	10837,1315,188
+Bouncing Back Score	10837,1315,188,7598
 Bouncing Back Security	12341
 Bouncing Back Year-by-year	19653
 Bouncing Back. African	11887
@@ -670,7 +671,8 @@ Democratic Republic of Congo Abstract Background	12003
 Department Bachelor of Computer Science Bachelor of Software	12407
 Deportes Excmo. Sr. Don Patricio Bacale	16920
 Derecognition Background	3502
-Deterioration Bouncing Back Not Classified	10837,1503
+Deterioration Bouncing Back Not Classified	10837,1503,7598
+Deterioration Bouncing Back Not Classified Between	19938
 Development of National ICT Backbone	13295
 Dhoihirdine Ahamada Bacar	3677
 Digital Drive With World Bank Backing	5056
@@ -826,7 +828,7 @@ Identity and Background of Filing Persons	7198
 Identity and Background of Filing Persons Regulation M-A	7198
 Idriss Saleh Bachar	18923
 Idriss Saleh Bachar. En	565
-Improvement Bouncing Back Increasing Deterioration Slowing	10837,1503
+Improvement Bouncing Back Increasing Deterioration Slowing	10837,1503,7598
 Increasing Improvement Bouncing Back No Change	10835,3,130,902,16,466,1,135,7334
 Information Back-Ups	19801
 Information Back-Ups Reliable	19801
@@ -1142,7 +1144,7 @@ Trend Bouncing Back	10835,3,130,902,16,466,1,135,7334
 Trend Bouncing Back Anti-Corruption	12341
 Trend Bouncing Back Slowing Deterioration Increasing	10835,3,130,902,16,466,1,135,7334
 Trend Increasing Improvement Bouncing Back Overall	10835,3,1048,466,1,135,7334
-Trend Increasing Improvement Bouncing Back Slowing	10759,76,3,130,902,16,466,1,135,7334
+Trend Increasing Improvement Bouncing Back Slowing	10759,76,3,130,902,16,466,1,135,7334,116
 Trusted Digital Backbone of Mauritius	12132
 UK Bachelor of Science	4896
 UPS Back-up	11860

@@ -53,6 +53,7 @@ Aggregation Conflicts	12360
 Aggregation Indicator	10764
 Aggregation Level	3972
 Aggregation Model Aggregation	10157
+Aggregation Service	19940
 Aggregation of Entity Accounts	11233
 Aggregation of Existing Sources of Data DATA	18476
 Aggregation of Individual Accounts	11233
@@ -78,6 +79,7 @@ C. Overall Implementation Progress Aggregate	17139
 CONTENT AGGREGATION LIMITED Data Controller INST-9863606D44F	7167
 CONTENT AGGREGATION LIMITED Data Processor INST-9863606D44F	7167
 Capacity Aggregation	10157
+Clearing Service Aggregation Service ATM Deployment	19940
 County Aggregation	9852
 DATA DE-IDENTIFIED DATA AGGREGATE HEALTH DATA	2709
 Data Aggregation and Analysis	4528,7984

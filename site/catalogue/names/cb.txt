@@ -32,6 +32,7 @@ Ag. Director of CBN's Information Technology Department	2287
 Agence des Systèmes CBL	16144
 Agency for Public Mobilization and Statistics CBE Central	15473
 Aggregate Excess Reserves and Outstanding CBL Bills	17257
+Akinde CB	19974
 Amended and Restated CBL Act	17235
 Analysis of CBN	7173
 Antenatal Care CBHI Community-Based Health Insurance	15138
@@ -107,6 +108,7 @@ CBDC CCBG CFT CMA CPI CSI	11131
 CBDC Cellule	17870
 CBDC Central Bank Digital Currency	8590
 CBDC Central Bank Digital Currency CBHI	14997
+CBDC Central Bank Digital Currency CFTC	19940
 CBDC Channels Branch ATM	12000
 CBDC Instruments POS Card Emoney Debit	12490
 CBDC Project	12343
@@ -226,7 +228,7 @@ CBIP for FDA	16853
 CBIS Community-Based Information System IMAM Integrated	16971
 CBIT Senegal	3430
 CBIT-Sénégal	3431,4209
-CBInsights	11884,1
+CBInsights	11884,1,8067
 CBK Agency Agreement	14546
 CBK Annual Reports	17745
 CBK Central Bank of Kenya CBT Cash-based	11994
@@ -442,7 +444,7 @@ CBT-Computer Based Training	13290
 CBU Mail	11129
 CBUAE	18956
 CBUAE Classification	18956
-CBZ Bank	6205,680,129,293,115
+CBZ Bank	6205,680,129,293,115,12558
 CBZ Bank Crowned Zimbabwe’s Best	3003
 CBZ Bank EMPOWER BANK NATIONAL BUILDING	11002
 CBZ Bank Limited	12252
@@ -570,6 +572,7 @@ July. The CBN	9754
 Kenya CBA Collective Bargaining Agreement CBC	2775
 Kenya CBR Central Bank Rate CCF	2775
 Key CBDC Definitions	11130
+Knight CB	19944
 Kuhn CB	17773
 L'élaboration du CBMT	15569
 Land Mutoko CBD	4896

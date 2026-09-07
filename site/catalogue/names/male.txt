@@ -128,6 +128,7 @@ Kenya Ethiopia Egypt Male	11964
 LATIN AMERICA Male	11004
 Liberia Male Female Urban Rural Literate	16921
 Liberia Urban Rural Male Female	16921
+Ling HK. Male	19974
 Luapula Western Northern Eastern Male Western	12431
 M Female Male	15023
 M Female Male Adults	15023
@@ -151,6 +152,7 @@ Male Annually	15845
 Male Attending	12431
 Male Basic Phone Feature Phone Smartphone	582
 Male Both Sexes Male Both Sexes	19542
+Male CHO	19974
 Male Circumcision	15247
 Male Circumcision Status	15247
 Male Country Of Birth Male Female	12151
@@ -205,6 +207,7 @@ Male Female White Paper	11986
 Male Female Zambia Rural Urban	12431
 Male Geita	19542
 Male Headed Female Headed Figure	17127
+Male Health	19974
 Male Internet	15617,1323
 Male Leader	17099
 Male Literate Female Literate	19542
@@ -230,6 +233,7 @@ Male and Female Council Hospital	19585
 Male-dominated Sectors	10964
 Male-headed	17285,1158
 Male-owned MSMEs	19878
+MaleFemale Profession	19947
 Malebona Mathulise	12712
 Malecela MN. Can	1219
 Malecela&volume	1219

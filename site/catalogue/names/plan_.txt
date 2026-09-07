@@ -81,7 +81,7 @@ Achievement of Road Maintenance Plan	19585
 Acronyms and Abbreviations AOP Annual Operating Plan	17441
 Act. The National Digital Master Plan	14524
 Action Environnemental PARC Plan	10876
-Action Plan	789,172,39,228,36,513,1,36,174,638,1500,457,621,41,29,1695,2053,1754,80,5,103,402,51,112,23,348,86,322,91,164,138,78,139,2,26,25,269,92,27,319,190,123,147,606,4,26,44,10,3,16,88,76,119,348,72,108,3,316,721,86,77,35,26,5,12,12,67,139,100,705,513,57,5,258,14,14,127,727,142
+Action Plan	789,172,39,228,36,513,1,36,174,638,1500,457,621,41,29,1695,2053,1754,80,5,103,402,51,112,23,348,86,322,91,164,138,78,139,2,26,25,269,92,27,319,190,123,147,606,4,26,44,10,3,16,88,76,119,348,72,108,3,316,721,86,77,35,26,5,12,12,67,139,100,705,513,57,5,258,14,14,127,727,142,118
 Action Plan Achieving	19677
 Action Plan Baseline Action Plan Target	18532
 Action Plan Cycle	11866,7
@@ -589,7 +589,7 @@ Devtel Prepaid Tariff Plan	11259
 Diagram Number Search Diagram General Plan	12511
 Dialing Plan	16934
 Dialing Plan for Liberia	16934
-Digital Acceleration Plan	14674
+Digital Acceleration Plan	14674,5292
 Digital Cameroon Strategic Plan	16050
 Digital Economy Development Plan Strategy	15621
 Digital Economy Master Plan	15936,1252
@@ -1064,10 +1064,12 @@ Generation and Transmission Least-Cost Development Plan	11136
 Generic Environmental and Social Management Plan	15661
 Geneva Declaration of Principles and Plan of Action	17870
 Geospatial Least Cost Electrification Plan	12399
+Ghana Digital Acceleration Plan	19966
 Ghana Education Strategic Plan	789
 Ghana Tax Modernisation Master Plan	9729
 Ghana and Malawi. Health Policy Plan	1219
 Ghana's Long-term National Development Plan	1779
+Ghana’s Fourth OGP National Action Plan	19937
 Global Action Plan	10776
 Global Action Plan Monitoring Framework	10776
 Global Action Plan for Healthy Lives and Wellbeing	12141
@@ -1139,7 +1141,7 @@ Health Information and Digital Health Strategic Plan	7707,11960
 Health National Adaptation Plan	19355
 Health PNDIS Plan	14666
 Health Plan	15411
-Health Policy Plan	766,453,9662,704,11
+Health Policy Plan	766,453,9662,704,11,8378
 Health Sector Development Plan	1212,2371
 Health Sector Emergency and Response Plan	16874
 Health Sector HIV Strategic Plan V	19544
@@ -1714,6 +1716,7 @@ Multi Year Action Plan	12975
 Multi-Annual Budgeted Plan of Actions	13349
 Multi-Annual Indicative Plan	9398
 Multi-Hazard Contingency Plan	12977
+Multi-Stakeholder Group NAP National Action Plan	19937
 Multi-Year Action Plan	16863,1007
 Multisectoral National Action Plan for Health Security	11417
 Multistakeholder Action Plan for Integrating MIL	17018
@@ -1797,11 +1800,14 @@ National AI Plan	1912
 National AI Policy and Implementation Plan	4583
 National AI Strategic Implementation Plan	11230
 National Accessibility Action Plan	19140
-National Action Plan	1389,7091,3471,357,289,390,166,304,1285,9,30,93,676,193,1207,8,181,150,7,449,189,371,4,603,38,581
+National Action Plan	1389,7091,3471,357,289,390,166,304,1285,9,30,93,676,193,1207,8,181,150,7,449,189,371,4,603,38,581,406
 National Action Plan III	18225
 National Action Plan IV	18225
 National Action Plan Programme Development and Reviews	12642
+National Action Plan Recruitment	19937
+National Action Plan Review	19937
 National Action Plan and Clean and Modern Cooking	18795
+National Action Plan and Political Economy Analysis	19937
 National Action Plan and Strategic Framework	18912
 National Action Plan for Children	3583
 National Action Plan for Clean Cooking	18795
@@ -1996,6 +2002,7 @@ National Oil Spill Contingency Plan	14748
 National Operational Plan	17289
 National Optical Fibre Network Plan Indonesia	11529
 National PHEOC Strategic Plan	16591
+National Payment Systems Strategic Plan	19940
 National Physical Development Plan	13060
 National Physical Perspective Plan	16916
 National Plan	12214,2452,2792,476
@@ -2082,6 +2089,7 @@ Nigeria National Broadband Plan 2013-2018.pdf OFCOM	16872
 Nigeria OGP Action Plan	11866
 Nigeria Unveils Plan for Unified Digital Services	2529
 Nigeria's National Broadband Plan	2285,2181
+Nigeria. Health Policy Plan	19974
 Nigerian Broadband Plan	11857
 Nigerian National Broadband Plan	11857
 Nigeria’s Digital Economy Policy and Strategy Plan	11857
@@ -2942,6 +2950,7 @@ Regional Postal Master Plan	10509
 Regional Standards Plan	19712
 Regional Work Plan	5579
 Regulatory Response and Sector Development Plan Blidi	17070
+Renewable Energy Master Plan	19943
 Renewable Energy Strategic Plan	14745
 Renewed Hope Development Plan	10157,8106
 Reorganization Plan	12389
@@ -3242,9 +3251,10 @@ Strategic Information Plan	13163
 Strategic Investment Plan for Development	648
 Strategic Management Framework. The Strategic Plan	13532
 Strategic Mapping of Plan Outcomes	11857
+Strategic National Energy Plan	19943
 Strategic Organisation Structure Plan	6946
 Strategic Organisational Plan OAI	17101
-Strategic Plan	789,211,131,767,1753,10,159,436,334,288,367,288,303,652,24,274,160,761,53,333,1346,46,622,1,668,4,505,47,24,173,7,17,363,70,233,22,39,57,29,186,46,70,18,73,192,22,4,28,2,35,38,15,13,124,133,112,27,28,467,12,20,698,25,6,21,79,74,51,38,14,127,309,7,31,3,4,86,429,665,160,25,1,1,11,26,21,25,5,12,153,19,78,22,38,69,34,140,208,124,439,140,6,22,76,24,344,3,7,2,109,59,418,22,24,86,61,7,6,67,3,3
+Strategic Plan	789,211,131,767,1753,10,159,436,334,288,367,288,303,652,24,274,160,761,53,333,1346,46,622,1,668,4,505,47,24,173,7,17,363,70,233,22,39,57,29,186,46,70,18,73,192,22,4,28,2,35,38,15,13,124,133,112,27,28,467,12,20,698,25,6,21,79,74,51,38,14,127,309,7,31,3,4,86,429,665,160,25,1,1,11,26,21,25,5,12,153,19,78,22,38,69,34,140,208,124,439,140,6,22,76,24,344,3,7,2,109,59,418,22,24,86,61,7,6,67,3,3,164
 Strategic Plan Based	16883
 Strategic Plan Code Of Ethics NDS2	12515
 Strategic Plan Committee	1131
@@ -3373,6 +3383,7 @@ TB Acceleration Plan	12729
 TB National Strategic Plan	10776
 TB and TB Acceleration Plan	12729
 TDPRP Tanzania Disaster Preparedness and Response Plan	19520
+TH NATIONAL ACTION PLAN	19937
 TRANSFORMATION ACTION PLAN	1818
 TRANSFORMATION ACTION PLAN ANNEX	1818
 TRANSFORMATION ACTION PLAN Tunisia Telecommunications	1818
@@ -3500,6 +3511,7 @@ Under the GoCV Education Sector Plan	15491
 Under the Integrated Resource Plan	12609
 Under the National Broadband Plan	3725
 Under the National Development Plan	11905
+Under the Renewable Energy Master Plan	19943
 UniSey's Strategic Plan	18924
 Unit DCP Drought Contingency Plan DEM	17157
 United Nations Humanitarian Response Plan for Libya	16902

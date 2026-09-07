@@ -1,7 +1,7 @@
 AFR AMIR	15130
 AFR ASSAR	15130
 AFR Afrobarometer	11887,266,1,9,178,7517,1
-AFR Afrobarometer AUC African Union Commission	10759,78,1052,451
+AFR Afrobarometer AUC African Union Commission	10759,78,1052,451,7598
 AFR Afrobarometer UNESCO United Nations Educational	10835,3,130,902,16,466,1,135,7334
 AFR EAP ECA LCR MNA NAM	10785
 AFR FSPs	15130
@@ -25,6 +25,7 @@ AMIR AFR	15130
 ASSAR AFR	15130
 Afr Aff	5242
 Afr Identities	9739
+Afr J Prim Health Care Fam	19974
 Afr J Reprod Health	13040
 Afr Lit Today	9739
 Afr Music J Int Libr Afr	9739
@@ -57,6 +58,7 @@ Ivoire AFR LMI	17743
 J Afr Media Stud	9739
 J Health Inf Afr	766,495
 J Mus Arts Afr	9739
+J Public Health Afr	19974
 Kenya AFR LMI	17743
 Lesotho AFR LMI	17743
 Liberia AFR LI	17743

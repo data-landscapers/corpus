@@ -23,6 +23,7 @@ AP-HP. Sorbonne Université	16406
 APPLICATION FOR DESIGNATION AS UNIVERSAL SERVICE	22
 ARRUPE JESUIT UNIVERSITY	13368
 ASSISTANT ADU AFRICAN DEVELOPMENT UNIVERSALIS	18170
+ATU Universal Service Fund Policy	19966
 Aalto University	10510
 Abbas Laghrour Khenchela University	19900
 Abdulrahman University	17648
@@ -345,7 +346,7 @@ Colorado State University	15715
 Columbia University	1013,6138,2808,1928,266,1,9,171,7,603,3952,26,1387,388,956,183,22,1
 Columbia University AI for Good	18039
 Columbia University CIESIN	196
-Columbia University DSP Digital Society Project	10759,78,1052,451
+Columbia University DSP Digital Society Project	10759,78,1052,451,7598
 Columbia University Press	3782,11691
 Columbia University UPU Universal Postal Union	10835,3,130,902,16,466,1,135,7334
 Commission for University Education	15164
@@ -623,6 +624,7 @@ GLOBAL INVESTMENT REQUIRED FOR UNIVERSAL ELECTRICITY	11572
 GOVERNANCE Composition of Board of Trustees The Universal	12552
 GOVERNING UNIVERSAL	1214
 GREAT ZIMBABWE UNIVERSITY	13368
+GSMA and ATU. Universal	19966
 GWANDA STATE UNIVERSITY	13368
 Gabon's Universal Access	15511
 Gamal Abdel Nasser University	10106
@@ -643,6 +645,9 @@ Gestion Université Privée du Sahel Licence Droit	17829
 Gestion des Universités du Togo	19209
 Gestão de Recursos Humanos da Universidade de Santiago	16290
 Ghana The University of Professional Studies	8697
+Ghana. Brunel University London	19974
+Ghana. Godwin Asaamoning Bolgatanga Technical University	19944
+Ghana. Solomon Abiam University of Ghana	19944
 Ghazal University	18670
 Global Financial Integrity and American University	4127
 Global Geospatial Information Management UTM Universal	18904
@@ -822,7 +827,7 @@ Kisii University. Ms. Nchamah	6946
 Korea National Open University	10469
 Korean University Council for Social Service	8384
 Kumasi Technical University	10468,9348
-Kwame Nkrumah University of Science and Technology	5227,719,3474,10,131,73,907,2344,6931
+Kwame Nkrumah University of Science and Technology	5227,719,3474,10,131,73,907,2344,6931,150
 Kwame Nkrumah University of Science and Technology KPI	4126
 Kwara State University	7496,2683
 L'ACCÈS UNIVERSEL	16381
@@ -1455,6 +1460,7 @@ TUT Tshwane University of Technology UAT User	11197
 TVT Télévision Togolaise UCAO-UUT Université	19350
 Takaful and Karama Program UHC Universal Health	19889
 Tallinn University of Technology	2909,1
+Tamale Technical University	19944
 Tampere University	3598
 Tanzania Telecommunications Corporation University of Dar	19534
 Tanzania Universal Communications Service and Access Fund	14674
@@ -1467,6 +1473,7 @@ Technical University of Mombasa	17746
 Technical University of Munich	12090
 Technical University of Munich. Prof Jude Osakwe	12926
 Technical and Financial Partner UHC Universal Health	10829
+Technology University	19944
 Technology and Kyambogo University. Through	11829
 Tecnologias da Universidade de São Tomé	18796
 Telecommunications and Post Universal	15340
@@ -1662,6 +1669,7 @@ USIU JKUAT Strathmore University K-AIST	12210
 USOF Committee Universal Service Obligations Fund	12911
 USOF Universal Service Obligations Fund	12911
 UST-TG Université	19350
+UTC Universal Trusted Credentials UK United	19940
 UTG University of The Gambia VNR Voluntary	16927
 UVRES UNIVERSITAIRES	7670,8505,206,1762,27
 UVRES UNIVERSITAIRES DEA DIPLÔME D’ETUDES APPROFONDIES	18143,27
@@ -1700,7 +1708,7 @@ Univeridade Lusíada	18878
 Univers	1219,16610
 Univers J Med Sci	1219
 Univers Sûr Sarl	15848
-Universal	11,11,877,59,41,215,37,5,270,108,70,958,1199,905,767,66,534,1428,1044,1162,264,492,254,42,25,131,204,83,10,536,115,63,14,90,101,23,113,10,48,10,138,147,22,2,187,189,215,176,210,279,177,16,468,53,205,18,38,229,41,135,107,33,457,2,900,47,16,39,1,21,194,100,3,483,127,64,189,226,96,451,38,239,371,21,50
+Universal	11,11,877,59,41,215,37,5,270,108,70,958,1199,905,767,66,534,1428,1044,1162,264,492,254,42,25,131,204,83,10,536,115,63,14,90,101,23,113,10,48,10,138,147,22,2,187,189,215,176,210,279,177,16,468,53,205,18,38,229,41,135,107,33,457,2,900,47,16,39,1,21,194,100,3,483,127,64,189,226,96,451,38,239,371,21,50,328,1
 Universal AI and DPI	10719
 Universal Acceptance	9355
 Universal Acceptance. Universal Acceptance	9355
@@ -1713,7 +1721,7 @@ Universal Access Development Fund	3378,2012,13055,1,8,31,19,11
 Universal Access Development Fund Board of Trustees	18445
 Universal Access Development Fund USB	18485
 Universal Access Development Fund. The IMF	3378
-Universal Access Fund	718,496,1137,1232,475,1190,148,2220,5030,552,1951,1686,15,22,4,10,89,84,201,610,263
+Universal Access Fund	718,496,1137,1232,475,1190,148,2220,5030,552,1951,1686,15,22,4,10,89,84,201,610,263,1833
 Universal Access Fund Gender and Women	16872
 Universal Access Fund V VSAT	14879,1993
 Universal Access Fund and Public Operators	718
@@ -1791,7 +1799,7 @@ Universal Declaration of Human Rights UN	16951
 Universal Declaration of Human Rights. All	16958
 Universal Declaration of Human Rights. Retrieved	10819
 Universal Declaration of Human Rights. UN	15604
-Universal Design	12356,621
+Universal Design	12356,621,6971
 Universal Design CRC	13033
 Universal Design for Learners	13991
 Universal Digital Access	4234
@@ -1805,7 +1813,7 @@ Universal Financial Access	10775
 Universal Guidelines for AI	7678
 Universal HCMIS Six	19584
 Universal Health	12976
-Universal Health Coverage	396,508,357,2343,561,136,2093,1060,377,386,717,270,651,474,312,135,89,55,50,498,1,279,256,236,321,8,37,123,276,158,3,58,546,1003,489,294,421,55,9,177,753,318,580,293,139,4,173,34,20,27,23,75,280,347,260,58,42,183,62
+Universal Health Coverage	396,508,357,2343,561,136,2093,1060,377,386,717,270,651,474,312,135,89,55,50,498,1,279,256,236,321,8,37,123,276,158,3,58,546,1003,489,294,421,55,9,177,753,318,580,293,139,4,173,34,20,27,23,75,280,347,260,58,42,183,62,85
 Universal Health Coverage Day	10776
 Universal Health Coverage Program. While the Equity	18301
 Universal Health Coverage Project	19284
@@ -1842,6 +1850,7 @@ Universal Integrated Service	18452
 Universal Journal of Computer Sciences and Communications	9129
 Universal Meaningful Score Score Economy Region	17743
 Universal Medical Insurance Fund	1828
+Universal Merchant Bank	19980
 Universal Method of Value Access	13314
 Universal Mobile Tele-	16942
 Universal Mobile Telecommunications System	13301
@@ -1877,7 +1886,7 @@ Universal Registration Coverage	16520
 Universal Right	10776
 Universal Serial Bus	12364
 Universal Serial Bus USD	18485
-Universal Service	736,487,5244,367,112,8501,1495,1659,1,612
+Universal Service	736,487,5244,367,112,8501,1495,1659,1,612,752
 Universal Service Access Fund	3264,7966,2967
 Universal Service Access Fund Access Gaps	19728
 Universal Service Access Gap	19214
@@ -1886,7 +1895,7 @@ Universal Service Advisory Council Licensing	6946
 Universal Service Agency GIFEC	8025
 Universal Service Development Fund	9756,168,2111,4907
 Universal Service Financing Fund	18931
-Universal Service Fund	958,265,647,30,688,325,64,433,98,238,782,334,430,111,131,14,683,715,476,126,1216,454,118,736,325,68,63,120,405,177,705,310,54,143,70,145,17,28,2,55,4,219,120,12,36,162,1,1,17,602,54,319,89,206,73,49,174,413,30,140,33,37,3,68,523,645,34,16,103,723,90,115,489,572,283,603
+Universal Service Fund	958,265,647,30,688,325,64,433,98,238,782,334,430,111,131,14,683,715,476,126,1216,454,118,736,325,68,63,120,405,177,705,310,54,143,70,145,17,28,2,55,4,219,120,12,36,162,1,1,17,602,54,319,89,206,73,49,174,413,30,140,33,37,3,68,523,645,34,16,103,723,90,115,489,572,283,603,149
 Universal Service Fund Activity	19214
 Universal Service Fund Activity. The Parties	19214
 Universal Service Fund Ad	10856
@@ -1943,6 +1952,7 @@ Universal Telecommunication Service	2802
 Universal Telecommunications Service	3699
 Universal Telecommunications Services	15340
 Universal Transverse Mercator	16843,2061
+Universal Trusted Credentials	19940
 Universal UAS Acesso	17093
 Universal Weak	1284
 Universal and Inclusive Civil Registration Key Result	13005
@@ -2101,7 +2111,7 @@ Universities of Cornell	11133,9
 Universities of Dr. John Garang Memorial University	18646
 Universities of Niamey and Tahoua	18125
 Universities. Conducted	19742
-University	582,317,101,1093,682,212,399,740,322,543,674,389,314,315,149,319,323,74,474,108,473,257,155,113,1,83,486,157,488,198,59,340,23,1,234,117,21,103,418,12,102,37,17,174,5,1,5,31,116,39,17,44,266,194,61,111,6,114,28,58,19,163,154,185,850,173,77,81,59,90,18,38,42,216,93,51,100,21,1127,59,10,29,199,11,187,111,114,163,227,501,49,109,616,283,1,23,110,246
+University	582,317,101,1093,682,212,399,740,322,543,674,389,314,315,149,319,323,74,474,108,473,257,155,113,1,83,486,157,488,198,59,340,23,1,234,117,21,103,418,12,102,37,17,174,5,1,5,31,116,39,17,44,266,194,61,111,6,114,28,58,19,163,154,185,850,173,77,81,59,90,18,38,42,216,93,51,100,21,1127,59,10,29,199,11,187,111,114,163,227,501,49,109,616,283,1,23,110,246,44,8,14
 University 21.pdf for Uganda	15164
 University ADM	18485
 University ARTIFEX University of Romania Fotabe U	12467
@@ -2178,7 +2188,7 @@ University and Other Related Tanzania Male	19542
 University and Others	19542
 University and UNIPOD	18621
 University and Vocational Education	16958
-University for Development Studies	5349,4986
+University for Development Studies	5349,4986,9608
 University of Aberdeen	12951
 University of Abidjan	3604
 University of Abomey-Calavi	951,6111,3825
@@ -2274,7 +2284,7 @@ University of Fort Hare	9128,760,1393,1670
 University of Fort Hare Authors	9888
 University of Free State	520
 University of Geneva	11149,3859,573
-University of Ghana	905,1406,24,1791,633,98,32,404,613,107,100,280,14,186,166,339,157,80,952,78,867,80,832,191,48,2,172,28,3768,2452,909,58
+University of Ghana	905,1406,24,1791,633,98,32,404,613,107,100,280,14,186,166,339,157,80,952,78,867,80,832,191,48,2,172,28,3768,2452,909,58,2194
 University of Ghana Business School	7154,452,3426,3742
 University of Ghana Korea International Cooperation Agency	905
 University of Ghana Rd	3386
@@ -2334,7 +2344,7 @@ University of Malawi	1656,7693,2843,48,1,37,754,48,15,17,84,13,28,953,212,272,19
 University of Malawi Acronyms	13095
 University of Malawi. Email	12278
 University of Malawi. Handover	12241
-University of Manchester	226,4670,4336
+University of Manchester	226,4670,4336,10712
 University of Manchester Institute of Science and Technology	6946
 University of Mannheim	19237
 University of Marien Ngouabi	15553
@@ -2841,6 +2851,7 @@ World Bank and Oxford University Press. World	11310
 World Bank’s Universal Financial Access Survey	10775
 World Health Organization Universal Health Coverage	18532
 World Health Organization and University of Queensland	12413
+World University Rankings	19952
 World University Service of Canada	18665
 X Renforcement du Diplôme Universitaire	16195
 XSDdatastructureextraction. TRUDY UNIVERSITETA	8606

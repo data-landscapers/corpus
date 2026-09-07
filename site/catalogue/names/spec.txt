@@ -147,6 +147,7 @@ Baison Banda Financial Management Specialist	13392
 Band Spectrum	5245
 Bank Procurement Specialist	15372,3515
 Bank Staff Name Role Title Specialization	15411
+Banks and Specialised Deposit- Taking Institutions Act	19948
 Banks and Specialised Deposit-Taking Institutions Act	7114,9994
 Bapetel Procurement Specialist Ibrah Rahamane Sanoussi	17962
 Bayo Onanuga Special Adviser	18253
@@ -393,6 +394,7 @@ Digital Specialist Valene Emilia Bault	15890
 Direct Payment and Special	15372,3515
 Director General Special Recognition Award	14773
 Directorate of Spectrum Management	18746
+Disabilities Directive For Banks and Specialized Deposit	19948
 Disabilities SMC Specialized Medical Commission	15663
 Disability and Social Inclusion Specialist	11750
 Disability and Social Inclusion Specialist PhD	19807
@@ -542,6 +544,7 @@ Family Planning Fertility Age Specific Fertility	18441
 Fatima Arieiro Team Member FM Specialist	18809
 Fiber Infracos The Data Center Specialists	4525
 Fiber Optic Specifications	19745
+File Special Resolution	19961
 Financial Inclusion Specialist	10774
 Financial Management Manual Financial Management Specialist	15372
 Financial Management Specialist	1867,1122,9206,822,315,1858,182,39,1465,1759,1200,12
@@ -575,9 +578,9 @@ Fulfill Specimen and Data Sharing Commitments	4167,50,43,89,1003
 Functional Specification	11131
 Funds Flow IDA Special Commitments and Directs	13331
 Future Spectrum Outlook	5245
-G Spectrum	7368
+G Spectrum	7368,12598
 G Spectrum Acquisition	926,31
-G Spectrum GSMA Public Policy Position	14674
+G Spectrum GSMA Public Policy Position	14674,5292
 G Spectrum Licence	925
 G Spectrum Licences	7401
 G Spectrum Licences The National Communications	14699
@@ -586,6 +589,7 @@ G Spectrum Spectrum Pricing and Allocation Digital	11857
 GBON Tender Specifications for AWSs. Activities	16947
 GBV Specialist	1988,13067,1871,173,15
 GEN07 Specialist Mountaga Ndiaye Team Member	11525
+GENERAL PUBLIC SPECIFIC REQUIREMENTS Non-Discrimination	19948
 GESTION DU SPECTRE Artlcle	15429
 GESTION DU SPECTRE DES	17819
 GESTION DU SPECTRE DES RESSOURCES L’Autorité	17819
@@ -616,6 +620,7 @@ General and Special Conditions of Contract	14766
 Ghana. Specifically	12090
 GirmaWoldetsadik Sr.Education Specialist	13392
 Global Transit Feed Specification28	1984
+Gomoa Central Special Economic Zone	19981
 Good Governance and Citizen’s Rights Specific Objective	970
 Good Health and Well-being. Specifically	18545
 GovStack Building Blocks Specification	5700
@@ -739,6 +744,8 @@ Interoperability Emerging Technologies and Special Use Cases	5665
 Interoperability Specification	19638
 Interoperability Specifications	1009,18629
 Interoperability Specifications The GIRA	19638
+Intra-Group Cross-Border Funds Transfer Special Audit	19940
+Intra-group Cross-Border Funds Transfer Special Audit	19940
 Invasive Alien Plant Species	11334
 Invasive Species Eradication MoE	17157
 Invavise Alien Species Project Officer Kamini	11332
@@ -820,6 +827,7 @@ Liberia Special Economic Zones Authority	11746
 Libreville Special Economic Zone. ST Digital	7093
 Licence Exempt Spectrum	12949
 License. PART FIVE RADIO FREQUENCY SPECTRUM	762
+Licensing and Spectrum	19966
 Linking Spectrum	5245
 Lipangalala Special Unit	19585
 Listing of Specialised Products	18541
@@ -1011,6 +1019,8 @@ OPTIMISING SPECIALISED HEALTH SERVICES Specialised Health	12606
 Observance of Standards and Codes SDDS Special Data	14777
 Occupational Health and Safety Specialist	11417
 Office for Special Needs	19835
+Office of Special Prosecutor	19937
+Office of Special Prosecutor Under NAP	19937
 Officer CTRFC Haousssia Tchaoussala Procurement Specialist	18887
 Official Gazette no Special of 16.06.2013.pdf	12413
 Official Use Only Specific Procurement Notice	13527
@@ -1104,6 +1114,7 @@ Private Sector Development Specialist	10841,4338
 Private Sector EMRS Specific Requirements	19667
 Private Sector Specialist	761,10080,2471,2,1583,1979,2055
 Private and Non-profit Providers of Specialist Skills	17870
+Processing of Special Personal Data	19951
 Procurement Specialist	1228,1661,3650,4986,1175,317,41,274,1687,171,234,129,48,60,2,1259,192,1773,358,590,12
 Procurement Specialist AFTPC Clement Tukeba Lessa	15372
 Procurement Specialist Ato Abebe Gebremedhin	12195
@@ -1331,6 +1342,7 @@ SPECIFIC OBJECTIVE	18985
 SPECIFIC OF TIME	11964
 SPECIFIC OF TIME OR REASONS	11004,960
 SPECIFIC PURPOSE	418
+SPECIFIC REQUIREMENTS	19948
 SPECIFIC REQUIREMENTS FOR PAYMENT SERVICES	12365
 SPECIFIC SPECIALIZED GOVERNMENTS INSTITUTIONS	16872
 SPECIFIC STRATEGIC MEASURES	940
@@ -1455,6 +1467,7 @@ Senior Urban Specialist and Task Team Leader	15473
 Service Delivery Specialist	19766
 Services Specifications	1009
 Services and Spectrum Policy	16883
+Settlement System SDI Specialized Deposit-Taking Institution	19940
 Sexual Exploitation and Abuse Specialist	11417
 Shekede2 Nyaradzo Marilyn Muzira2 Specialisation Climate	520
 Sierra Leone Residual Special Court	18563
@@ -1501,7 +1514,7 @@ SpecFee	736
 SpecUmt X X X X X	736
 SpecUnit	736
 SpecUnit Spectrum User	736
-Special	11,14,711,204,21,282,18,293,202,1,1,1,1,1,1,1,1,1,13,36,888,73,86,190,79,10,1,1,1,1,1,1,1,1,106,185,422,379,288,288,583,31,72,62,19,849,330,3,147,1,1,1,1,1,1,1,1,28,95,83,140,282,242,942,391,583,21,128,302,156,416,47,43,22,5,11,7,113,156,47,78,11,65,67,16,193,245,8,42,38,12,206,14,26,26,4,9,87,1,9,1,22,29,14,10,32,55,12,17,242,154,19,2,13,46,32,167,107,6,68,4,10,19,54,71,48,90,267,60,402,39,97,48,123,10,15,6,114,8,4,15,4,4,11,3,2,5,1,3,75,30,28,30,17,16,8,3,48,67,128,99,2,19,112,139,234,167,68,172,156,12,300,32,3,9,4,11,11,4,1,8,16,148,15,2,33,31,138,16,30,3,739,3,16,95,73,16,40,85,9,21,11,81,8,233,90,64,294,39,235,12,3,8,2,95,5,3,19,1,22,26,21,47,117
+Special	11,14,711,204,21,282,18,293,202,1,1,1,1,1,1,1,1,1,13,36,888,73,86,190,79,10,1,1,1,1,1,1,1,1,106,185,422,379,288,288,583,31,72,62,19,849,330,3,147,1,1,1,1,1,1,1,1,28,95,83,140,282,242,942,391,583,21,128,302,156,416,47,43,22,5,11,7,113,156,47,78,11,65,67,16,193,245,8,42,38,12,206,14,26,26,4,9,87,1,9,1,22,29,14,10,32,55,12,17,242,154,19,2,13,46,32,167,107,6,68,4,10,19,54,71,48,90,267,60,402,39,97,48,123,10,15,6,114,8,4,15,4,4,11,3,2,5,1,3,75,30,28,30,17,16,8,3,48,67,128,99,2,19,112,139,234,167,68,172,156,12,300,32,3,9,4,11,11,4,1,8,16,148,15,2,33,31,138,16,30,3,739,3,16,95,73,16,40,85,9,21,11,81,8,233,90,64,294,39,235,12,3,8,2,95,5,3,19,1,22,26,21,47,117,51,15,2
 Special Account	16614
 Special Accountability Mechanism	16973
 Special Achievement	12662
@@ -1675,6 +1688,7 @@ Special Issue Advances	12667
 Special Issue Energy Poverty	12178
 Special Issues Descriptive Papers Visualisations About	12486
 Special Levy	14717
+Special Load Tariff	19976
 Special MCC	16923,1
 Special Maintenance Grant	12373
 Special Management Areas	17114
@@ -1727,7 +1741,8 @@ Special Project Management Unit	11862
 Special Project Unit	11863
 Special Projects	6422,5433
 Special Projects Management Unit	2095,9796,74,43,3582,393,520
-Special Prosecutor	16574
+Special Prosecutor	16574,3363
+Special Prosecutor PAC Public Accounts Committee	19937
 Special Prosecutor’s Office	16973,132,123
 Special Protection Unit	18615
 Special Provisions Relating	19524
@@ -1795,6 +1810,7 @@ Specialisations	10771
 Specialised	961,48,1517,2002,4075,1585,945,819,424,68,68,798,3637
 Specialised AI	12210,4577
 Specialised Clinics	12976
+Specialised Deposit Taking Institutions Act	19948
 Specialised Deposit-Taking Institutions	15600,1762
 Specialised Health Care	12606
 Specialised Hospital	12976
@@ -1857,6 +1873,7 @@ Specialized Agency Technical	19613
 Specialized Anti-Corruption Court	17037
 Specialized Court	17934
 Specialized Create	4126
+Specialized Deposit-Taking Institutions	19940
 Specialized Diploma	16046
 Specialized Expertise	14094
 Specialized Hospital	1261
@@ -1899,7 +1916,7 @@ Species Mix	14818
 Species Mix Resource	14818
 Specifi	16876
 Specifi-	19237
-Specific	640,149,173,8,30,68,93,82,21,194,320,89,121,756,860,257,440,812,173,247,1353,61,504,308,1639,790,163,376,37,77,122,1,16,37,84,83,9,2,74,148,100,8,249,80,1,45,43,43,9,166,14,65,13,103,9,20,3,25,31,91,146,98,7,131,60,108,100,129,6,11,25,2,5,55,267,194,46,13,38,738,1,27,3,7,25,78,25,17,25,13,12,50,59,34,66,8,129,70,9,52,23,26,18,27,35,105,55,30,225,219,306,278,61,7,4,24,9,7,1,1,41,16,9,12,9,96,31,15,43,130,47,33,567,375,61,88,37,101,291,98,260,39,236,12,4,48,73,45,10,123,55
+Specific	640,149,173,8,30,68,93,82,21,194,320,89,121,756,860,257,440,812,173,247,1353,61,504,308,1639,790,163,376,37,77,122,1,16,37,84,83,9,2,74,148,100,8,249,80,1,45,43,43,9,166,14,65,13,103,9,20,3,25,31,91,146,98,7,131,60,108,100,129,6,11,25,2,5,55,267,194,46,13,38,738,1,27,3,7,25,78,25,17,25,13,12,50,59,34,66,8,129,70,9,52,23,26,18,27,35,105,55,30,225,219,306,278,61,7,4,24,9,7,1,1,41,16,9,12,9,96,31,15,43,130,47,33,567,375,61,88,37,101,291,98,260,39,236,12,4,48,73,45,10,123,55,84
 Specific Age Group and Sex	19544
 Specific Aspects	11986
 Specific Aspects of Refugee Problems	5533,9393
@@ -1964,12 +1981,12 @@ Specific Types of Data Controllers and Data Processors	11956
 Specific Undertakings	17011
 Specific and Descriptive Impacts	16885
 SpecificObjectives Objective	16951
-Specifically	629,160,172,200,67,15,5,16,554,10,39,121,108,21,647,11,214,467,31,117,23,24,27,352,22,162,3,84,131,177,67,56,134,398,290,101,153,347,28,28,301,27,93,304,11,285,46,193,224,174,507,230,171,140,105,107,220,410,408,596,2,10,1,4,5,34,10,12,40,28,31,23,1,16,127,23,4,6,16,12,27,10,6,17,7,26,25,6,109,67,57,25,28,196,81,2,10,33,2,3,19,15,51,6,7,87,71,14,52,19,7,44,116,127,24,359,13,42,2,10,46,4,13,95,37,24,111,11,26,21,5,9,26,59,147,79,165,68,68,138,9,323,13,89,52,38,124,107,38,25,47,3,29,17,34,6,34,34,247,13,49,7,31,7,35,21,27,47,10,1,2,2,80,102,79,100,374,277,186,15,39,6,1,2,3,15,1,4,2,11,10,8,41,24,56,5,10,2,11,13,9,8,78,132,91,278,7,2,104,20,1,36,198,19,170,12,13,132,54,8,13,284,16,389,23,47,236,1,10,3,7,1,2,14,26,1,77,4,141,28,4,56,5,1
+Specifically	629,160,172,200,67,15,5,16,554,10,39,121,108,21,647,11,214,467,31,117,23,24,27,352,22,162,3,84,131,177,67,56,134,398,290,101,153,347,28,28,301,27,93,304,11,285,46,193,224,174,507,230,171,140,105,107,220,410,408,596,2,10,1,4,5,34,10,12,40,28,31,23,1,16,127,23,4,6,16,12,27,10,6,17,7,26,25,6,109,67,57,25,28,196,81,2,10,33,2,3,19,15,51,6,7,87,71,14,52,19,7,44,116,127,24,359,13,42,2,10,46,4,13,95,37,24,111,11,26,21,5,9,26,59,147,79,165,68,68,138,9,323,13,89,52,38,124,107,38,25,47,3,29,17,34,6,34,34,247,13,49,7,31,7,35,21,27,47,10,1,2,2,80,102,79,100,374,277,186,15,39,6,1,2,3,15,1,4,2,11,10,8,41,24,56,5,10,2,11,13,9,8,78,132,91,278,7,2,104,20,1,36,198,19,170,12,13,132,54,8,13,284,16,389,23,47,236,1,10,3,7,1,2,14,26,1,77,4,141,28,4,56,5,1,33,40
 Specifically Article	5321
 Specifically Identified Needs	16936
 Specifically the GBV	16926
 Specifically the PDO	1867
-Specification	1009,7803,311,1598,54,465,629,491,825,1842,1805,68,434,2217,25,62,29,63,19
+Specification	1009,7803,311,1598,54,465,629,491,825,1842,1805,68,434,2217,25,62,29,63,19,202
 Specification A184	16900
 Specification A184M	16900
 Specification Amd1	19749
@@ -1991,6 +2008,7 @@ Specification for Blocks	16900
 Specification for Burnt Bricks This Standards	16900
 Specification for Hot-dipped Zinc-coated	16900
 Specification for Rice Grains	16900
+Specification of Purpose	19951
 Specification of Types of Portable Identity Card Readers	1263
 Specification-asymmetry-and-digital-inclusion-how Abstract	8812
 Specification. Approved NWI	19749
@@ -2046,10 +2064,11 @@ Spectranet Nigeria Ltd	3862
 Spectranet's Narrowing Lead Spectranet	6749
 Spectre	15429,2437
 Spectroradiometer MoE Ministry of Environment MoET Ministry	17157
-Spectrum	11,725,190,31,9,844,1831,619,89,119,565,212,34,223,173,918,305,449,21,805,495,1091,1287,149,533,129,528,586,324,1379,49,57,45,54,18,308,135,140,244,166,982,12,58,308,612,8,615,148,911,89
+Spectrum	11,725,190,31,9,844,1831,619,89,119,565,212,34,223,173,918,305,449,21,805,495,1091,1287,149,533,129,528,586,324,1379,49,57,45,54,18,308,135,140,244,166,982,12,58,308,612,8,615,148,911,89,333
 Spectrum Access Fees. Fourth Schedule	736
 Spectrum Administration and Trading	17665
 Spectrum Allocation for Broadband	16884
+Spectrum Assignment	19966
 Spectrum Assignment and Pricing	19641
 Spectrum Assignments	5245
 Spectrum Auctions	5245
@@ -2111,7 +2130,7 @@ Spectrum Pricing and Renewals for Sustainable Investments	5390
 Spectrum Proper	16884
 Spectrum Recommendations	18485
 Spectrum Regulations	16839
-Spectrum Roadmap	5245
+Spectrum Roadmap	5245,14721
 Spectrum Roadmap Another	5245
 Spectrum Roadmap Implementation Plan	5245
 Spectrum Roadmap LONG	5245

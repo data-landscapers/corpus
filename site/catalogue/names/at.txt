@@ -229,6 +229,7 @@ ATLASS	14622
 ATLFMNEWS	10234
 ATM Another	10161
 ATM Application Programming Interface AU Autonomous	17870
+ATM Automated Teller Machine B2W Bank-to-Wallet	19940
 ATM BEAC BMZ CEMAC CAR CDN	15480
 ATM Card	12038
 ATM Cash	15480
@@ -244,16 +245,18 @@ ATM PoS	10161
 ATM Policy Out of Touch	12038
 ATM Population Merchants and POS	6978
 ATM Population Page	4517
+ATM Services	19940
 ATM Switch	16878
 ATM Technologies	16942
 ATM USD-cash	16876
-ATM and POS	2849,1437,7669,314,2650
+ATM and POS	2849,1437,7669,314,2650,5021
 ATM and POS. LeSwitch	2849
 ATM. A UNICEF	16942
 ATM. Despite	17739
 ATM. Innbucks	6996
 ATM. Instead	12038
 ATMs NetOne One Wallet AFC Holdings	6996
+ATMs Number of ATMs	19940
 ATMs POS Debit Cards Credit Cards	4517
 ATMs Total Number of Active Users Locations	16878
 ATMs Zimbabwe Zimbabwe	6996
@@ -399,6 +402,7 @@ ATU Secretary General John Omo and Secretary	10336
 ATU Secretary General John Omo. Verbatim	7074
 ATU Secretary-General	9756
 ATU Secretary-General John Omo	11802
+ATU Universal Service Fund Policy	19966
 ATU WRC-27	10235
 ATU WRC-27 Working Groups	7074
 ATU and Cabo Verde	6007
@@ -645,6 +649,7 @@ Aticle21	16625
 AtiedtuIunrtetthsoiowtointbiruü.ieztieoosHndingo	15399
 Atieinle	15429
 Atif Saleem. IGI Global Scientific Publishing	6948
+Atiga	19974
 Atiicle	15551
 Atika Cherifa Sekfali	15467
 Atiku	9400,476,2,82
@@ -805,12 +810,13 @@ Atmospheric Administration PC Personal Computer PR	11553
 Atmospheric Science	13686
 Atmospheric Science Letters	16996
 Atnafu	3791,7805,659
+Atnafu DD	19974
 Atnbd	10965
 AtnraIaNtésCguiaLacUpoSanrÃcaeOaçãDIonAcgSlluoPsbãEaolS	15694
 AtnÁiaf	15694
 Ato Constitutivo da Unido Africana	15477
 Ato Elias Asnake	12195
-Ato Forson	7594,146
+Ato Forson	7594,146,12231
 Ato Forson Finance Minister Dr Cassiel	7740
 Ato Kidina Mariam Aberra. The Ministry	13991
 Ato Mengistu Desalegn	12195
@@ -901,11 +907,13 @@ Attach Documents	11877
 Attach Qualifications	13037
 Attach Reference	13037
 Attach Supporting Documents	12374
+Attach the Registered Constitution	19961
 Attached	2989,4621,972,4458,145,3401
 Attached Analysis	19541
 Attached Files	9854,1414,2577
 Attached PDF	4431,1594
 Attachment	2123,351,3971,4619,804,1317,1581,301,4686,101,67
+Attachment Anonymous Check	19947
 Attachment I	12500
 Attachment I. Memorandum of Economic and Financial Policies	17209,700,81
 Attachment II. Data Tables Numerical	12500
@@ -1014,7 +1022,7 @@ Attenter	13781
 Attentes	2917,49,3993,8977,705,1218
 Attentes des Parties Prenantes	15738
 Attentif	19250
-Attention	747,214,6802,154,34,215,95,186,145,531,2007,1007,1048,342,158,801,479,74,41,84,235,264,238,136,157,25,443,85,169,35,377,6,536,330,232,1177
+Attention	747,214,6802,154,34,215,95,186,145,531,2007,1007,1048,342,158,801,479,74,41,84,235,264,238,136,157,25,443,85,169,35,377,6,536,330,232,1177,365
 Attention Still Needed	16876
 Attenuating	11140
 Attenuation	17114
@@ -1064,7 +1072,7 @@ Attorney Advertising. Copyright	11880,421
 Attorney Annual	7548
 Attorney Establish	7548
 Attorney Expand	7548
-Attorney General	3,1151,44,45,586,618,558,302,265,1181,697,43,1313,742,1301,100,128,136,432,1,92,336,1055,2,1,475,68,178,13,229,56,89,50,10,297,291,4,44,104,14,43,31,233,31,109,158,350,334,66,51,293,73,11,26,6,22,97,19,39,1789,910,732,441,2,5,2,588,1,2,5,2,20,39,117,25
+Attorney General	3,1151,44,45,586,618,558,302,265,1181,697,43,1313,742,1301,100,128,136,432,1,92,336,1055,2,1,475,68,178,13,229,56,89,50,10,297,291,4,44,104,14,43,31,233,31,109,158,350,334,66,51,293,73,11,26,6,22,97,19,39,1789,910,732,441,2,5,2,588,1,2,5,2,20,39,117,25,255
 Attorney General AGOA African Growth and Opportunity	2775
 Attorney General ASFR Age Specific Fertility	12151
 Attorney General Githu Muigai	9645
@@ -1115,7 +1123,7 @@ Attorney-General	3,584,1401,721,33,1090,696,1370,25,864,661,46,2819,802,349,325,
 Attorney-General and Minister of Justice	18463,14,79
 Attorney-General and Minister of Justice The Office	18477
 Attorney-General of Zimbabwe	13493
-Attorney-General's Department	15894
+Attorney-General's Department	15894,4040
 Attorney-General's Office	783,8616,906,4412
 Attorney-General's Office Location	14713
 Attorney-General's Office Sector	12512
@@ -1419,6 +1427,7 @@ Civil Attachment Order	14809
 Cl. ATIPO IBARA	15744
 Clean Energy Access Transformation Project ATU	14674
 Clear Strategy for Attractiveness Morocco	3113
+Clearing Service Aggregation Service ATM Deployment	19940
 Colonel BABATE Atefaimbou	19251
 Commandant ATEKPE Abalo Sosso	19251
 Commandant MBORI Léon. Attachée de Cabinet	16381
@@ -1455,7 +1464,7 @@ Creative Commons Attribution CC	9025,1689,249,1,13,159,13,730,376,1057,2,1583,55
 Creative Commons Attribution CC BY World	19237
 Creative Commons Attribution International	19080
 Creative Commons Attribution International License	11927
-Creative Commons Attribution License	8376,2543,1084,228,15,1877,543,1358
+Creative Commons Attribution License	8376,2543,1084,228,15,1877,543,1358,3950
 Creative Commons Attribution Non-Commercial-Share Alike	17856
 Creative Commons Attribution NonCommercial ShareAlike	2709
 Creative Commons Attribution NonCommercial-ShareAlike	11376
@@ -1466,7 +1475,7 @@ Creative Commons Attribution-Non- Commercial-Share Alike	10844,719,3908,2272
 Creative Commons Attribution-Non-Commercial	10841
 Creative Commons Attribution-Non-Commercial-ShareAlike	17950
 Creative Commons Attribution-Non-commercial-No Derivatives	18937
-Creative Commons Attribution-NonCommercial	12467,240,5329
+Creative Commons Attribution-NonCommercial	12467,240,5329,1921
 Creative Commons Attribution-NonCommercial-NoDerivatives	5656,5128,370,1,1100
 Creative Commons Attribution-NonCommercial-Share Alike	10764
 Creative Commons Attribution-NonCommercial-ShareAlike	14898,827,1216
@@ -1702,10 +1711,11 @@ Female Attorney-General and Minister Parliament Approves Dr	18442
 Fevereiro Através da Resolução	15391
 Finance Attraction	10841
 Finance Minister Dr Cassiel Ato Forson	7739
-Finance Minister Dr. Cassiel Ato Forson	15929,51
+Finance Minister Dr. Cassiel Ato Forson	15929,51,3991
 Finance Team Manager Ato Fitsum Haile	12195
 Finanças Attn	8166,7944,383
 Fire and Attended	12977
+First Atlantic Bank	19980
 Fiscalização da Atualização	11561
 Fitovinany Atsimo Andrefana Atsimo Atsinana Anosy	14622
 Floods Climatology Meteorology Atmosphere	18904
@@ -1731,6 +1741,7 @@ GROUPE ATTIJARIWAFA BANK CORIS BANK CREDIT	11588,6682
 GROUPE ATTIJARIWAFA BANK CORIS BANK ECOBANK	11588,6682
 GROUPE ATTIJARIWAFA BANK ORABANK CORIS BANK	18017
 GSMA and ATU	14674
+GSMA and ATU. Universal	19966
 GSMA and Five African Governments Launch ATLAS	8552
 GTBank ATM	12038
 Gabin ATIGA	16175
@@ -1826,6 +1837,7 @@ International Atomic Energy	12972
 International Atomic Energy Agency	4070,1685,1,7917,1048,24,28,358
 International Attract	14997
 International Cybersecurity Challenge. Dr Attlee M	12926
+Internet Banking ATM	19940
 Internet. ATM	8762
 Internships and Industrial Attachments	6946
 Investigate Attacks	18211
@@ -2190,6 +2202,7 @@ PORTANT ATTRIBUTION DU NUMERO COURT LIBRE	15885
 PORTANT ATTRIBUTION DU NUMERO LONG LIBRE	15885
 POS ATMS MOBILE MONEY INTERNET	4517
 POS and ATM	7781,3353
+POS and ATM Acquiring	19940
 POS and ATM Switching Phase	11134
 POS and ATMs	1908
 POSAF RESULTATS ATTENDUS	10712
@@ -2465,6 +2478,8 @@ Senior Attorney	1919
 Sergent ATOMO AMVAME Guy Roger	16175
 Serial ATA	34
 Serial ATA-600 Serial ATA	34
+Service POS and ATM Acquiring Digital Micro	19940
+Services ATM	19940
 Servicio de Atención Telefónica. Artículo	16855
 Servicio de Atención Telefónica. Los Servicios de Atención	16855
 Serviço de Atendimento	15526,694

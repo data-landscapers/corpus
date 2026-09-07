@@ -38,7 +38,7 @@ About Table of Contents Home Zimbabwe Core	6666
 About Us Vision Core Vlues Digital	6946
 About the Millennium Challenge Corporation	15402
 Absa Group Limited and ABC Banking Corporation	398
-Absence of Corruption	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Absence of Corruption	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Abuse Of Corps	16935
 Account CCSS Counter Corruption and Security Services	5533
 Accra. Ms. Isabel Maria Correia Viegas	18857
@@ -65,6 +65,7 @@ Africa Finance Corporation and Vision Invest	14684
 Africa Growth Corporation	10751
 Africa's Core Systems Complete	6593
 Africa-Asia Digital Corridor	5482
+African Banking Corporation	19980
 African Banking Corporation Limited	17626
 African Banking Corporation of Zimbabwe Limited	12252
 African Correctional Services Association. Administration	17934
@@ -196,11 +197,13 @@ Binding Corporate Rules	11993,309,1079
 Binding Corporate Rules Regulation	12302
 Bindura Nickel Corporation	1554
 Bioneer Corporation Data Processor INST-46323341196 NAIROBI	7167
+Blankson C. Corporate	19944
 Bloomberg Coronation	7343
 Board Corporate Bayobab Press20	11234
 Board of Directors Our Core Values	15023
 Board of Namibia CTSP Core Team	12923
 Board. Chief Executive Officer. Corporation Secretary	14575
+Bodies Corporate	19961
 Body Axelspace Corporation	14077
 Body Botswana Power Corporation Electricity Generation	12604
 Body Corporate	18600
@@ -341,7 +344,7 @@ CORNERSTONE ENTERPRISES PLC Data Controller INST-81759804D7E	7167
 COROBOR. Avec	17873
 CORONAVIRUS	17864
 CORPORATE	13053
-CORPORATE AFFAIRS	18486
+CORPORATE AFFAIRS	18486,1448
 CORPORATE AND PENSION TRUST SERVICES LIMITED	7167
 CORPORATE GOVERNANCE	718,18994
 CORPORATE GOVERNANCE AND CORPORATE LAW ENFORCEMENT	3714
@@ -764,7 +767,7 @@ Corinne Grainger	10970
 Corinne MAGHESHIMANGIENDE MAGNAGA	16175
 Corinne Nikiéma	8098
 Corinthia Hotel Tripoli	5920
-Coris Bank	3671,320,1322,11,5020
+Coris Bank	3671,320,1322,11,5020,9636
 Coris Bank International	3361,1728,235,10569,2
 Coris Bank International Bénin Traitement	10821
 Coris Bank International Côte	4459
@@ -848,7 +851,7 @@ Corona Virus Disease-19	19531
 Corona Virus Disease-19 FBO Faith-Based Organization	19531
 Corona Virus and Management	12253
 Coronation	11986,4800
-Coronation Merchant Bank	4771
+Coronation Merchant Bank	4771,15209
 Coronation Securities Limited	16786
 Coronavirus	547,3,18,20,10961,704,2643,595,24,209,1201,918,450,2,3,132,1,17,35,294,607,2
 Coronavirus Disease	2775,4057,3931,2569,3104,2848,376
@@ -974,7 +977,7 @@ Corporate Income Taxes	14932
 Corporate Information	4896,7462,2378,4243
 Corporate Information and Advisors	4896
 Corporate Insolvency Act	13299,267
-Corporate Insolvency and Restructuring Act	6940
+Corporate Insolvency and Restructuring Act	6940,13021
 Corporate LAN	9123
 Corporate Law Bill	3714
 Corporate Laws Act	3714
@@ -1102,6 +1105,7 @@ Corporation and Orange Money Liberia	17119
 Corporation for Deposit Insurance	14224
 Corporation for Public Deposits	14224
 Corporation for Public Deposits Act	14224
+Corporation of India NPSS National Payment Systems	19940
 Corporation of Kenya PCMS Private Capital Monitoring	2775
 Corporation of Kenya PFM Public Finance Management	6946
 Corporation of South Africa PFMA Public Finance	11261
@@ -1143,7 +1147,7 @@ Corrected	1432,714,1,466,905,420,525,1,6805,981
 Correcting	4786,10685,1625
 Correcting Market Failures	5700
 Correcting Past Injustices	12912
-Correction	1,16,397,595,141,680,879,504,108,1040,1,874,6053,508,404,163,132,27,128,242,5,31,30,327,21,8,60,67,1335,84,30,17,872,934,394,1063,269,545,241,301,3,100,4
+Correction	1,16,397,595,141,680,879,504,108,1040,1,874,6053,508,404,163,132,27,128,242,5,31,30,327,21,8,60,67,1335,84,30,17,872,934,394,1063,269,545,241,301,3,100,4,317
 Correction de Croissance	15907
 Correction des Dates	747
 Correction of Arithmetic	13185
@@ -1262,7 +1266,7 @@ Corridor Vision AI	11733,2963,3042
 Corridor de Lobito	13419
 Corridor-Vision AI	9821
 CorridorVision AI	17763
-Corridors	7965,2891,293,2270
+Corridors	7965,2891,293,2270,6547
 Corrie Cronje	2986,2
 Corriente	4209
 Corrigan	8022
@@ -1286,7 +1290,7 @@ Corrupt	4590,6650,4661,2655
 Corrupt Activities Act PSCBC Public Service	11197
 Corrupt Practice	15901
 Corrupt Practices Act	12932,1920
-Corruption	789,1039,1568,187,1085,383,298,184,1369,57,927,864,141,515,210,1143,78,139,251,647,7,1,23,81,39,127,40,9,139,6,155,11,408,28,8,28,17,184,167,6,29,55,32,10,20,20,201,699,1,25,38,1,1,252,758,158,3,51,173,51,448,224,250,84,7,9,14,39,57,71,38,83,198,45,215,152,12,67,167,202,9,12,326,132,191,232
+Corruption	789,1039,1568,187,1085,383,298,184,1369,57,927,864,141,515,210,1143,78,139,251,647,7,1,23,81,39,127,40,9,139,6,155,11,408,28,8,28,17,184,167,6,29,55,32,10,20,20,201,699,1,25,38,1,1,252,758,158,3,51,173,51,448,224,250,84,7,9,14,39,57,71,38,83,198,45,215,152,12,67,167,202,9,12,326,132,191,232,718
 Corruption Bribery	11874,8
 Corruption Case Tracker	17037
 Corruption Commission	970,12002,121,4221
@@ -1438,6 +1442,7 @@ Deposit Protection Corporation	3025,10663
 Deposit Protection Corporation Amendment Bill	8681
 Depository CSR Corporate Social Responsibility DGF	15023
 Deputy Director of Corporate Affairs	18556
+Deputy Head of Corporation	19959
 Deputy Prime Minister Olavo Correia	3377
 Despesas Correntes de Exercícios Anteriores	18798,55
 Despite the Corporate Insolvency Act	13566
@@ -1474,6 +1479,7 @@ Directorate of Corporate Affairs	18746
 Directorate of Corporate Planning and Strategy	17683
 Directorate of Corruption and Economic Crime	3887
 Distrito Urbano Cor da Placa	11373
+Division. The Corporate Insolvency and Restructuring Act	19961
 Domingos Correia	11566,389
 Domingos Monteiro Correia	11540,5526
 Donativos. V. Receitas Correntes	18798
@@ -2070,7 +2076,7 @@ Mauritius National Transport Corporation	14847
 Mbizo MP Corban Madzivanyika and Chiredzi Central	9229
 Measures Core Activity	16943
 Measuring Corruption	18318
-Mechanisms Absence of Corruption	10759,1393,188
+Mechanisms Absence of Corruption	10759,1393,188,7598
 Medidas Correctivas	4209
 Medidas Corretivas Adotadas	11561
 Medium-sized Corporations Center	14952
@@ -2196,7 +2202,7 @@ National Oil Corporation	16863
 National Oil Corporation AFA Agriculture and Food	2775
 National Oil Corporation Universal Subsidies	16902
 National Operator. The Corporation	16835
-National Payments Corporation of India	6894,2048,2196,1262,752,1592,2879
+National Payments Corporation of India	6894,2048,2196,1262,752,1592,2879,2317
 National Payments Corporation of India. Today	14744
 National Petroleum Corporation Hospital Jama’at Izalatul	11129
 National Police's Career Police Corps	11868
@@ -2675,7 +2681,7 @@ State Corporations Act. The NCSA	6803
 State Corporations Advisory Committee	6946
 State Corporations. Dr. Musangi	6946
 State Department for Correctional Services	14546
-State Institutions Absence of Corruption	10759,78,1315,188
+State Institutions Absence of Corruption	10759,78,1315,188,7598
 State Mining Corporation	19584
 State Mining Corporation Level	19584
 State Owned Corporations	11854

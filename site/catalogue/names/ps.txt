@@ -239,6 +239,7 @@ Legacy PSTN	10721
 Les PSCo	17534
 Les PSP	19898
 Liaison Psychiatry	13040
+License Category Number of Approved Entities PSP	19940
 Link Between Psychological Safety and Cyber	13532
 Liste des PSCo	17534
 Low Tax Compliance Culture Psychological	14985
@@ -601,11 +602,15 @@ PSNSN. Sur	17882
 PSNSN. Une	17882
 PSOs. Instruments	12269
 PSP API. The IPS	12269,1
+PSP DEMI	19940
+PSP Medium	19940
 PSP PayWay	13314
 PSP Payment Service Provider	11130
+PSP Payment Service Providers POS Point	19940
 PSP Points	13468
 PSP Prestataire	15474
 PSP RIBAT RTGS Automated Clearing House	13468
+PSP Standard	19940
 PSP Use	12490
 PSP. C'est	10515
 PSP. L'instruction	19898
@@ -623,6 +628,7 @@ PSPs Sector	17362
 PSPs Sector Count of Fraud Cases Reported	17362
 PSPs and EthSwitch	12269
 PSPs. EthSwitch	12269
+PSPs. First	19940
 PSPs. In the Payment Gateway	12335
 PSPs. NPSs	13388
 PSPs. Open	6814
@@ -750,6 +756,7 @@ Palestine PSE Papua New Guinea PNG	13082
 Para Psico	17570
 Parity PRCI Institutional Capacity-Building Project PSC	18825
 Park PS	8460
+Parliamentary Network- Africa PSRS Public Sector	19937
 Parliamentary Villages. SAPS PSS	11285
 Partenariat PS8	17983
 Participating PSPs	12269

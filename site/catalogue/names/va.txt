@@ -130,6 +130,7 @@ Authority. Vacation	12894
 Authority. Validity	13073
 Avatar of VAC-Nam	12478
 Azerbaijani Member of Parliament Parvana Valiyeva	11285
+Azure Key Vault and Google Cloud KMS	19968
 B ESTRADIOL ESTRADIOL ESTRADIOL ESTRADIOL VALERIANATE	15930
 B ESTRADIOL ESTRADIOL ESTRADIOL VALERIANATE ESTRADIOL	15930
 B. VACCINATION DES ENFANTS	13300
@@ -354,6 +355,7 @@ Comma-separated values	1984
 Commissioner for Refugees VAS Visa Adjudication System	5533
 Commitments Variance Variance	12962
 Community Community Validation Development	16867
+Community Validation Community	19942
 Company Human Resources Officer Vacant	12970
 Comparative Valuation Metrics of Selected African Mobile	4896
 Compensation Paid Before Approval of Valuation Report	19585
@@ -919,6 +921,7 @@ La Valette	15496
 Labor Market and Infrastructure Deprivations Vary	15244
 Lack of Data Validation	16971
 Land Registry. Valuation	14761
+Land Valuation Board	19961
 Land Valuation Division	17114
 Land Valuation Division MLNR	15657
 Land-Based Financing and Land Valuation	15473
@@ -1085,6 +1088,7 @@ Mme OSSEMANE MBENG Anaëlle Vanessa	16381
 Mme Valérie Lefebvre Education Programme FCDO	11916
 Mme Vanessa Elfi NDOUTOUME NGWAZIWO	16099
 MoICE Concludes Final National Validation	18514
+Mobile Money Total Transaction Values Chart	19940
 Mobile Virtual VAT	736
 Model Validity	12978
 Model and Methodology for Value-Added Tax Gap Estimation	13624
@@ -1749,6 +1753,7 @@ Universal Postal Union V-DEM Varieties of Democracy	10759,78,1052,451
 University of Rwanda VA	12338
 Unlimited Telecom Vanuatu Ltd	15471
 Unstructured Supplementary Service Data VASP	18485
+Unstructured Supplementary Service Data VASP Virtual	19940
 Up-to-date VAPT	10721
 Use of National Products and Values	18787
 Users Quarterly Dec-25 Variation	6671
@@ -1928,7 +1933,7 @@ VASP Regulations. VALR	9311
 VASP Virtual Asset Service Provider	8590
 VASP and P2P	8590
 VASPA	9956
-VASPs	3870,732,3988,233,3,744,386,199,406,570,690,155,72,396,438,650,4953,467,22,4
+VASPs	3870,732,3988,233,3,744,386,199,406,570,690,155,72,396,438,650,4953,467,22,4,962
 VASSS	19145
 VAT Act	9972,2377,160,613,127,354,943,211,27,44,3,101,2017,2571
 VAT Act. Submit	14785
@@ -2301,7 +2306,7 @@ Validación	16898
 Validade	11388,37,5,3,12,16,121,319,6852
 Validade da Formação Para	15359
 Validar	10753,1,1264,3,3412,1460,12,242
-Validate	5665,393,365,1125,1055,2117,436,796,741,2341,8,119,83,360,229,88,291,759,1067,1097,666
+Validate	5665,393,365,1125,1055,2117,436,796,741,2341,8,119,83,360,229,88,291,759,1067,1097,666,136
 Validate Concept	17116
 Validated	7759,3005,4489,1590,18,86,23,169,395,2107
 Validated Invalid Cases Cases	12977
@@ -2367,7 +2372,7 @@ Valider Figure	13375
 Valider le DAO	19687
 Validez	16855
 Validite	15584
-Validity	1,586,385,905,832,6420,2060,374,484,208,212,68,94,16,250,178,237,61,99,89,7,841,15,292,1,2,133,429,1273,454,244,1735,540,1,100
+Validity	1,586,385,905,832,6420,2060,374,484,208,212,68,94,16,250,178,237,61,99,89,7,841,15,292,1,2,133,429,1273,454,244,1735,540,1,100,325
 Validity Operator	15471
 Validity Period Hourly URL-specific Data Bundles	11259
 Validity Period Price	11259
@@ -2543,6 +2548,7 @@ Value-Added-Tax-eligible	9690
 Value-Based Capital Allocation Framework	8607
 Value-Chains and Youth Engagement	14818
 Value-Chains for Growth Financing	11469
+Value-For-Money	19934
 Value-add	14997
 Value-added	4207,2131,3646,809,2260,2358
 Value-chain Lifecycle	7548
@@ -2552,7 +2558,7 @@ ValueAdded	11976
 Valued	4523,3,167,2098,59,4924,175
 Valuers Registration Board	19584
 Valuers Registration Board Level	19584
-Values	2096,1391,117,913,2461,243,2748,875,96,191,87,6,26,313,988,91,269,61,5,120,1645,106,524,307,354,902,76,32,114,205,761,1453,114
+Values	2096,1391,117,913,2461,243,2748,875,96,191,87,6,26,313,988,91,269,61,5,120,1645,106,524,307,354,902,76,32,114,205,761,1453,114,250
 Values Bank	7221
 Values Charter	13576
 Values Cross-domain	7221
@@ -2590,10 +2596,10 @@ Van&volume	1219
 Van-Landry	16039
 Vanashree Govendervanashreegovender	9870
 Vancouver	9128,6824
-Vancouver Download Citation Endnote	12467,19
+Vancouver Download Citation Endnote	12467,19,7458
 Vancouver and Montreal	7471
 Vancouver-based	10293
-Vandalism	7287,6187,1473,4699,82
+Vandalism	7287,6187,1473,4699,82,238
 Vandalism and Cyclones Impacted EDM's Performance	12316
 Vandalism's Devastating Blow	14674
 Vandana Chandra ICR Review Coordinator Group	10779
@@ -2751,7 +2757,7 @@ Varies	10726
 Varieties of Democracy Institute	19653,183
 Variety	14566
 Varios Asuntos Sociales	4209
-Various	236,196,1,145,362,18,51,210,45,350,210,164,787,1351,1121,141,145,819,19,1759,473,2172,48,6,27,108,170,131,15,625,47,34,8,14,180,22,22,23,78,43,114,49,13,368,21,44,310,15,48,266,380,670,62,83,78,550,24,130,112,1148,13,49,16,24,8,40,103,327,663,189,16,134,98,70,184,112,4,64,544,66,48,211
+Various	236,196,1,145,362,18,51,210,45,350,210,164,787,1351,1121,141,145,819,19,1759,473,2172,48,6,27,108,170,131,15,625,47,34,8,14,180,22,22,23,78,43,114,49,13,368,21,44,310,15,48,266,380,670,62,83,78,550,24,130,112,1148,13,49,16,24,8,40,103,327,663,189,16,134,98,70,184,112,4,64,544,66,48,211,91
 Various Census Years	16921
 Various Characteristics Type	18441
 Various DFS	11994

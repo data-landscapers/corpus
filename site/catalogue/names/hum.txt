@@ -22,7 +22,7 @@ APO07 Managed Human ITCap L	9237
 APPENDIX AFRICAN CHARTER ON HUMAN	14742
 ASSO- CIATION HUMILITE	16039
 ASYREC for Humanitarian Relief Analytics	13042
-Absence of Human Trafficking	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Absence of Human Trafficking	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Academics Library Calendar Apply for Admissions Human	17232
 Accelerate Human Capital for Youth	11879
 Accelerate of Human Capital Development Indicator Name	12440
@@ -203,7 +203,7 @@ Citing the Universal Declaration of Human Rights	17177
 Civil Protection and Humanitarian Aid Operations ERR	6947
 Civil Service Human Resource Management	15518
 Civil Society Demands Human Rights Centered	7552
-Civilians Absence of Forced Migration Absence of Human	10759,78,1315,188
+Civilians Absence of Forced Migration Absence of Human	10759,78,1315,188,7598
 Clive Humby	6982,729,3443
 CoE APO07 Managed Human ITCap	9237
 Coalition of Human Rights Defenders	15007
@@ -405,6 +405,7 @@ Direção de Serviços de Gestão de Recursos Humanos	16290
 Disponibilidad de Recursos Humanos	4209
 Division Human Resource Management and Development	12920
 Domaine Actions Clés Ressources Humaines Développement	14622
+Dr. Humphrey Ayim Darke	19976
 Dr. Humphrey Mwavali Digital Health Expert	9855
 Dra. Ana Celeste Cardoso Direitos Humanos	10750
 Droits Humains	3396,1707,5964,915,2430,1168,268,522,11,1569,336,725,260
@@ -446,7 +447,7 @@ Economie Numérique Constituer le Capital Humain	17824
 Economie Numérique Constituer le Capital Humain Initiative	17824
 Economie Numérique Constituer le Capital Humain L’ambition	17824
 Economie Solidaire INRSP Humain UEMOA INSTAT	17845
-Education Education Enrolment Education Completion Human	10837,1315,188
+Education Education Enrolment Education Completion Human	10837,1315,188,7598
 Education HNO Humanitarian Needs Overview HRP	18911
 Education Human	12445
 Education and Human Capital	14078
@@ -482,6 +483,7 @@ Ethical and Human-Centric	4528,7984
 Ethics and Human Rights Safeguards	12675
 Ethiopia Humanitarian Situation Report No.10	12188
 Ethiopia'. BMC International Health and Human Rights	12188
+Ethiopia. Hum Resour Health	19974
 Ethiopia. PART ONE HUMAN RIGHTS Article	13948
 European Civil Protection and Humanitarian Aid Operations	970,9871,2704,393,3968
 European Convention of Human Rights and Article	14841
@@ -517,7 +519,7 @@ Foreword Human Capital Development and Education	18460
 Foreword The Ministry of Health and Human Services	14923
 Formación de Recursos Humanos	4209
 Foundations for Economic Opportunity and Human	10835
-Foundations for Economic Opportunity and Human Development	10759,76,2,1315,11,178,7495,88
+Foundations for Economic Opportunity and Human Development	10759,76,2,1315,11,178,7495,88,14,1
 Framework Science and Technology Development. Human Capital	12512
 Francisco Queiroz Direitos Humanos	10753
 Functional Human Resources Mgmt	1284
@@ -664,13 +666,13 @@ HUMAN CAPITAL MANAGEMENT Trainings	11131
 HUMAN CAPITAL PROJECT	13459
 HUMAN CAPITAL REVIEW FOR SOMALIA Somalia	15059
 HUMAN CAPITAL REVIEW MATTERS	15059
-HUMAN DEVELOPMENT	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
-HUMAN DEVELOPMENT FOUNDATIONS FOR ECONOMIC OPPORTUNITY	10837,1503
+HUMAN DEVELOPMENT	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+HUMAN DEVELOPMENT FOUNDATIONS FOR ECONOMIC OPPORTUNITY	10837,1503,7598
 HUMAN DEVELOPMENT HEALTH Access	11889
 HUMAN DEVELOPMENT HUMAN DEVELOPMENT HEALTH Access	10759
 HUMAN DEVELOPMENT Health	12341
 HUMAN DEVELOPMENT INDEX POVERTY INDEX	17101
-HUMAN DEVELOPMENT SCORE	10759,78,1503
+HUMAN DEVELOPMENT SCORE	10759,78,1503,7598
 HUMAN RESOURCE	13053
 HUMAN RESOURCE AND ORGANIZATIONAL CAPACITY09	13053
 HUMAN RESOURCE AND PERFORMANCE	19712
@@ -766,7 +768,7 @@ Housing and Human Settlements Developments	19585
 HuMENA for Human Rights and Civic Engagment	15926
 Hubert Humphrey	13358
 Hum Resour Dev Rev	17773
-Hum Resour Health	771,448,11027
+Hum Resour Health	771,448,11027,7728
 Hum Resour Manage	10780
 HumAngle	5267
 HumAngle Bala Abubakar	5267
@@ -784,7 +786,7 @@ Humaines Licence Management Licence Finances Comptabilité	17829
 Humaines Système	15674
 Humaines de Helios Towers Congo	16002
 Humains	4325,13961
-Human	21,13,737,18,169,3,8,1,97,64,88,65,154,376,4,10,39,121,319,468,183,529,96,27,81,435,1,312,89,716,77,590,303,91,846,53,344,242,96,209,188,18,159,329,21,257,56,81,195,70,83,64,170,151,199,276,314,38,4,8,4,49,27,14,93,1,5,59,105,23,32,5,5,17,33,17,40,112,136,7,18,23,6,253,24,1,10,10,89,165,1,44,1,28,8,12,80,18,4,24,17,25,23,1,42,13,12,217,162,5,26,34,30,19,48,27,15,2,14,22,75,87,18,19,292,57,267,48,8,217,189,31,124,29,72,76,10,88,11,28,17,39,23,1,21,105,53,26,102,252,161,34,580,143,359,52,5,1,19,2,53,15,1,6,22,2,2,21,22,96,25,121,70,34,67,10,64,67,46,12,143,161,16,248,95,8,157,18,7,95,37,42,32,242,49,5,53,477,5,35,2,19,10,60,5,4,2,89,30,2,66,4,14,3
+Human	21,13,737,18,169,3,8,1,97,64,88,65,154,376,4,10,39,121,319,468,183,529,96,27,81,435,1,312,89,716,77,590,303,91,846,53,344,242,96,209,188,18,159,329,21,257,56,81,195,70,83,64,170,151,199,276,314,38,4,8,4,49,27,14,93,1,5,59,105,23,32,5,5,17,33,17,40,112,136,7,18,23,6,253,24,1,10,10,89,165,1,44,1,28,8,12,80,18,4,24,17,25,23,1,42,13,12,217,162,5,26,34,30,19,48,27,15,2,14,22,75,87,18,19,292,57,267,48,8,217,189,31,124,29,72,76,10,88,11,28,17,39,23,1,21,105,53,26,102,252,161,34,580,143,359,52,5,1,19,2,53,15,1,6,22,2,2,21,22,96,25,121,70,34,67,10,64,67,46,12,143,161,16,248,95,8,157,18,7,95,37,42,32,242,49,5,53,477,5,35,2,19,10,60,5,4,2,89,30,2,66,4,14,3,87,14
 Human A.i Co-evolution	12478
 Human AI	10726
 Human AI Capabilities and Development AI Adoption	10726
@@ -880,7 +882,7 @@ Human Capital. Paris	15447,33
 Human Computer Interaction	12926
 Human Cost of Being Invisible Yet	12057
 Human Decisions and Machine Predictions	18318
-Human Development	643,1,10115,78,1,126,4,568,334,16,1,1,1,16,247,1,1,9,177,1,11,980,660,109,2142,1693,522,327,867,1,169,14,22,1,65
+Human Development	643,1,10115,78,1,126,4,568,334,16,1,1,1,16,247,1,1,9,177,1,11,980,660,109,2142,1693,522,327,867,1,169,14,22,1,65,14,1
 Human Development Access	11536
 Human Development Bridging	18458
 Human Development Cash Transfer	14553
@@ -1062,7 +1064,7 @@ Human Resource for Health Information System	1261
 Human Resource for Health Policy	18532
 Human Resource for Health Policy Updated	18532
 Human Resource for Health Strategic Plan	12976
-Human Resources	34,1906,3917,3266,1636,17,59,2,1,130,263,629,10,16,1,1,1,264,1,9,77,100,1,11,1,5,18,77,35,432,7,35,8,6,369,187,104,63,1046,5,85,99,31,125,74,208,146,161,34,1145,506,77,1540,120,440,111,1,169,14,11,11,1,65
+Human Resources	34,1906,3917,3266,1636,17,59,2,1,130,263,629,10,16,1,1,1,264,1,9,77,100,1,11,1,5,18,77,35,432,7,35,8,6,369,187,104,63,1046,5,85,99,31,125,74,208,146,161,34,1145,506,77,1540,120,440,111,1,169,14,11,11,1,65,14,1
 Human Resources Assigned	16885
 Human Resources Audit	15424
 Human Resources Board Committee	15023
@@ -1184,6 +1186,7 @@ Human Rights Impact Assessments	5618
 Human Rights Impact Assessments for AI	6132
 Human Rights Implications of Algorithmic Bias	8747
 Human Rights Implications of Health Care Digitalisation	2615
+Human Rights Initiative CSO Civil Society	19937
 Human Rights Institutions	14742
 Human Rights Journalists Network Nigeria	8712,704
 Human Rights Journalists Nigeria	9082
@@ -1207,7 +1210,8 @@ Human Rights Working Group	18797
 Human Rights Writers	5215
 Human Rights Writers Association	5215
 Human Rights Writers Association of Nigeria	10093
-Human Rights and Administrative Justice	3384,4985,2
+Human Rights and Administrative Justice	3384,4985,2,11580
+Human Rights and Administrative Justice CHRI Commonwealth	19937
 Human Rights and Administrative Justice of Ghana	12956
 Human Rights and Constitutional Matters	7650
 Human Rights and Democracy	789,17161,508
@@ -1445,7 +1449,7 @@ II. RESSOURCES HUMAINES	15475
 III.1. STATISTIQUES DES RESSOURCE HUMAINES ET	13500
 IMF Human Capital Risk IT Headquarters	12500
 IMMUNOGLOBULINE HUMAINE ANTI-D SOL. BUV. GTTES	15930
-INCLUSION HUMAN DEVELOPMENT HEALTH Access	10837,1503
+INCLUSION HUMAN DEVELOPMENT HEALTH Access	10837,1503,7598
 INCLUSION HUMAN DEVELOPMENT PARTICIPATION	10835,3,130,902,16,466,1,135,7334
 INCLUSION HUMAN DEVELOPMENT PARTICIPATION HEALTH Freedom	10835,3,130,902,16,466,1,135,7334
 INSD Indice de Développement Humain	15720
@@ -1566,7 +1570,7 @@ LTO Human Resources MOF Integrated Financial	12500
 La Commission Nationale des Droits Humains	18100
 La Direction des Ressources Humaines	2342,13594,2169,64,995
 La Gestion des Ressources Humaines	14537,3568
-Labour Environment Infrastructure Rural Economy Human	10837,1315,188
+Labour Environment Infrastructure Rural Economy Human	10837,1315,188,7598
 Labour Force Reskilling and Human Capacity Development	12935
 Lack of Human Capital	14729
 Lack of Institutional and Human Resource Capacity	13998
@@ -2110,9 +2114,11 @@ Sécurité Humaine	6578,11582,89,1117
 TBD Social Recovery and Human Development	970
 TSM E CAPITAL HUMANO	11406
 Tanzania Mainland and Zanzibar Human	19519
+Tanzania. Hum Resour Health	19974
 Technical Assistance Human Resources	14879
 Technical Human Capital	12453
 Technical Working Group HAC Humanitarian Aid	6947
+Teklehaimanot A. Human	19974
 Temperature and Relative Humidity Control All Tier	9123
 Through Hormuud’s Humanitarian Portal	6723
 Time and Human Resource Costs	18318

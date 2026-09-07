@@ -238,7 +238,7 @@ Feed-in	17139
 Feed-in-Tariffs	19646
 Feed. X Corp	13461
 Feed...............................................25	13461
-Feedback	1009,769,1724,102,257,700,1104,1557,537,31,257,960,121,644,1098,263,201,262,339,16,290,104,4,9,142,175,242,125,38,452,401,628,160,26,72,699,35,161,46,88,88,76,16,170,14,388,105,147,20,54,9,8,42,26,26,62,50,8,805,74,257,16,130,139,515,144,8,39,236,119,267
+Feedback	1009,769,1724,102,257,700,1104,1557,537,31,257,960,121,644,1098,263,201,262,339,16,290,104,4,9,142,175,242,125,38,452,401,628,160,26,72,699,35,161,46,88,88,76,16,170,14,388,105,147,20,54,9,8,42,26,26,62,50,8,805,74,257,16,130,139,515,144,8,39,236,119,267,50,18
 Feedback Channels	12356
 Feedback Channels Almost	9772
 Feedback Form	7590
@@ -296,7 +296,9 @@ Fees Service Type Tenure Application Annual	10407
 Fees Stress Policy	7695
 Fees The ZIPSS	12364
 Fees and Assumptions	11240
-Fees and Charges	587,7176,3258
+Fees and Charges	587,7176,3258,8914
+Fees and Charges Page	19935
+Fees and Charges Page For Ghanaians Abroad	19935
 Fees and Charges Regulations	9109
 Fees and Commissions	12447
 Fees and Costs Relating	17243
@@ -339,6 +341,8 @@ Gatumba and Ngororero Feeders	12358
 Get Fee	11741
 Ghana School Feeding Program	16600
 Ghana School Feeding Programme	7695,8183
+Ghana's Feed Ghana Programme	19975
+Ghana. School Feeding Targeting	19942
 Give Feedback	11877
 Global Transit Feed Specification28	1984
 Good Manufacturing Practices Inspection Fees	18541

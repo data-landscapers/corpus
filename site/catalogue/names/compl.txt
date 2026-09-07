@@ -276,6 +276,8 @@ Chief Risk and Compliance Officer of MobileMoney Fintech	7114
 Cimetière25 Complexe	15555
 Circuit Court Complexes	16943
 Citizen Complaints	15208
+Citizens Complaint Centre	19937
+Citizens’ Complaints Centre	19937
 Clean Energy Access Transformation CKD Completely	12233
 Close The Compliance And Policy Gaps	1828
 Cloud Commercial Efficiency Cloud-by-default Compliance	6432
@@ -286,6 +288,7 @@ Commercial Banks Total Complaints Unresolved Resolved	17235
 Commission CRM Compliance Risk Management CRR	17105
 Communications Authority of Kenya and KFCB Complete Joint	7957
 Competent Authority. Complaint	18925
+Complacency	19937
 Complain	10819
 Complainant	1778,3335,6843,4933,37
 Complainant Details Grievance Ref	1778
@@ -323,7 +326,7 @@ Complaint Tool	8529
 Complaint Type	13097
 Complaint Unit CEET Compagnie Energie Electrique	12062,6124,31
 Complaint-Stage Determination	17243
-Complaints	34,1230,20,583,801,108,113,715,2061,11,11,57,159,636,281,126,1514,969,18,1321,61,131,2,2,234,26,193,108,117,213,6,44,55,5,220,68,398,42,226,10,1,48,119,224,10,235,869,293,2,50,100,27,116,115,26,176,71,107,35,105,1,2,483,695,1,2,1,24,29,26,2,19,6,51,99,15,129,6,2,1208,3,3,137,369,202,72,39,246,28,70,6,180,33,29
+Complaints	34,1230,20,583,801,108,113,715,2061,11,11,57,159,636,281,126,1514,969,18,1321,61,131,2,2,234,26,193,108,117,213,6,44,55,5,220,68,398,42,226,10,1,48,119,224,10,235,869,293,2,50,100,27,116,115,26,176,71,107,35,105,1,2,483,695,1,2,1,24,29,26,2,19,6,51,99,15,129,6,2,1208,3,3,137,369,202,72,39,246,28,70,6,180,33,29,75,5
 Complaints ARTICLE	15484
 Complaints Article	14907
 Complaints Commission	14742
@@ -452,9 +455,10 @@ Complete Digital Licensees	11857
 Complete EPC Tender Award	11134
 Complete Feasibility Study of Botswana	19677
 Complete Follow-up Action	1778
+Complete Form	19947
 Complete IT3	11276
 Complete JS Incomplete	16876
-Complete List of Unicorn Companies	11884,1
+Complete List of Unicorn Companies	11884,1,8067
 Complete Overhaul	5533,6453
 Complete Peace In Burundi Requires Full	13313
 Complete Provincial Identifier Map	13298
@@ -539,7 +543,7 @@ Completed. NLAF	14971
 Completely	6432,4380,440,8333
 Completely Ban Cross-Border Data Transfers	7173
 Completelyx Partially	10812
-Completeness	170,3691,1804,5216,1122,135,13,34,182,46,73,939,1498,133,1156,680,30,218,254,1135
+Completeness	170,3691,1804,5216,1122,135,13,34,182,46,73,939,1498,133,1156,680,30,218,254,1135,1445
 Completeness Number	12413
 Completeness Rate	12367
 Completeness and Consistency	3861
@@ -652,7 +656,7 @@ Complexo Laboratorial de Saúde Digital	12846
 Complexo. Depois	11435
 Complian	6432
 Complianc	6432
-Compliance	436,282,282,9,11,5,189,119,193,462,645,35,290,29,227,437,63,147,111,182,13,35,15,43,41,48,179,235,3,82,284,36,184,181,58,74,198,159,33,321,56,303,211,119,139,314,30,241,238,409,28,639,25,123,349,74,21,160,84,218,250,209,13,92,44,3,41,47,118,157,2,1,64,24,28,2,611,89,3,1,9,21,9,167,4,48,26,13,48,24,31,4,5,9,26,22,17,14,37,7,3,12,37,9,103,25,7,210,6,13,16,29,2,36,31,1,5,9,2,132,10,125,98,2,84,123,54,504,237,13,14,75,51,152,1,2,48,31,3,7,39,7,2,30,35,65,26,11,32,14,1,45,23,3,109,215,187,549,419,204,4,3,21,23,38,23,2,29,59,62,15,129,6,73,212,212,732,4,18,17,26,227,123,32,51,9,188,354,49,8,45,74,9,23,48,18,89
+Compliance	436,282,282,9,11,5,189,119,193,462,645,35,290,29,227,437,63,147,111,182,13,35,15,43,41,48,179,235,3,82,284,36,184,181,58,74,198,159,33,321,56,303,211,119,139,314,30,241,238,409,28,639,25,123,349,74,21,160,84,218,250,209,13,92,44,3,41,47,118,157,2,1,64,24,28,2,611,89,3,1,9,21,9,167,4,48,26,13,48,24,31,4,5,9,26,22,17,14,37,7,3,12,37,9,103,25,7,210,6,13,16,29,2,36,31,1,5,9,2,132,10,125,98,2,84,123,54,504,237,13,14,75,51,152,1,2,48,31,3,7,39,7,2,30,35,65,26,11,32,14,1,45,23,3,109,215,187,549,419,204,4,3,21,23,38,23,2,29,59,62,15,129,6,73,212,212,732,4,18,17,26,227,123,32,51,9,188,354,49,8,45,74,9,23,48,18,89,61
 Compliance Adherence	13042
 Compliance Advisor Ombudsman	11007
 Compliance Agreement	14828,3
@@ -1004,10 +1008,10 @@ Economic Complexity Index	10157,2219
 Economic Complexity OPEC Organization of Petroleum Exporting	16996
 Economic Complexity PTS Political Terror Scale	10835,3,130,902,16,466,1,135,7334
 Economy Approach ICR Implementation Completion and Results	17849
-Education Completion	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Education Completion	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Education Completion Score Rank	11886
 Education Completion Warning Signs Business	11870
-Education Education Enrolment Education Completion Human	10837,1315,188
+Education Education Enrolment Education Completion Human	10837,1315,188,7598
 Effect of Compliance	17249
 Effect of Compliance PUBLIC UTILITIES REGULATORY AUTHORITY	17249
 Egypt Records the Lowest Mobile Complaint Rate	11642
@@ -1028,6 +1032,7 @@ Emergency and Referral Complex	12956
 Emerging Compliance Toolkit	7548
 Emerging Technologies and Data Readiness and Compliance	7548
 Enable FPI Compliance	11995
+Encrypted Secure Interoperable Compliant Impact Supporting	19942
 Enforce Regulatory Compliance	12675
 Enforcement Following Complaints and Investigations	17249
 Enforcement Independent of Complaints	17249
@@ -1049,6 +1054,7 @@ Enquiry Consumer Complaints FAQs Consumer Complaints	9109
 Enrollment and Completion	13991
 Enrolment and Completion	13991
 Enseignement Général CES Complexe	18171
+Ensure Compliance Legal	19968
 Ensure Compliance and Monitoring	12675
 Entity Compliant Procurement	19585
 Entity Overall Compliance Level Dar	19584
@@ -1075,7 +1081,7 @@ Evidence of Compliance CM-NSG	10721
 Evidence of Compliance GC-OV.S1	10721
 Evidence of Compliance Tier	10721
 Exchange Control Regulations and Compliance Trained Nedbank	11131
-Executive Compliance	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Executive Compliance	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Executive Head of Compliance	12272
 Expected Completion Date	16308
 Expected Registered Completeness County	12151
@@ -1309,7 +1315,7 @@ Ivanhoe Mines Announces Completion of Hydropower Ramp-Up	15952
 Ivoire Compliance	10856
 JIC JIC Complaint	16848
 JOUR KUGEZA UBU COMPLEMENTED TO DATE	14862
-JUSTICE Executive Compliance	10759,78,1052,451
+JUSTICE Executive Compliance	10759,78,1052,451,7598
 Joint Oversight and Compliance Monitoring NPPA and ASSL	18500
 Jul-2021 Dropped Completion Measurement The Ministry	17505
 Jun-2019 Completed Completion Measurement	17505
@@ -1369,6 +1375,7 @@ Legal Compliance	6432
 Legal Effect of Compliance Notices	17249
 Legal Services and Electoral Compliance	12753
 Legal and Fiduciary Compliance. Project	16187
+Legal and Regulatory Compliance Confirm the CSP	19968
 Legal and Regulatory Compliance Requirements NIMC.pdf	4794
 Legislation Interpretation Relevance Compliance	1988
 Legislation Interpretation Relevance Compliance The Gender	1988
@@ -1447,6 +1454,7 @@ Mobile Handset Complaints	11642
 Momba DC Qualified Compliant	19585
 Monduli DC Unqualified Compliant	19585
 Monitoring Compliance	12597
+Monitoring Compliance of Payment Service Providers	19940
 Monitoring and Compliance	236
 Monitoring and Compliance Architecture	3861
 Monitoring and Compliance. Establish	1777
@@ -1549,7 +1557,7 @@ Overall Compliance Level for Each Entity Entity	19584
 Overall ICT Compliance Level	19584
 Overall Substantial COMPLIANCE Policy Does	11380
 Oversight Phase Compliance	16212
-Oversight and Compliance	11995
+Oversight and Compliance	11995,7969
 Overview of Projects and Their Completion Rates NAME	13053
 PAIA Annual Report Compliance	14357
 PART EIGHT COMPLIANCE AND ENFORCEMENT	762

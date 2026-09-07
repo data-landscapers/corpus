@@ -188,7 +188,7 @@ Agribusiness and Digital Transformation	11608
 Agribusiness and Industry	9931,700,5601,876,576
 Agribusiness and Industry Ministry	9931
 Agribusiness. Ces	16627
-Agric	11857,6601
+Agric	11857,6601,1508
 Agric Infrastructure Fund	5267
 Agric Ministry	7219,9958
 Agric Show By Editorial Team	13477
@@ -218,7 +218,7 @@ Agricultura INE	18794
 Agricultura Inteligente	2816
 Agricultura Sem	10777
 Agricultura Utilizando	2816
-Agricultural	970,858,160,2138,1121,318,857,1423,838,878,585,617,16,62,123,233,61,162,300,186,184,124,155,4,16,56,152,315,19,10,83,289,1,44,27,70,169,325,617,3,6,19,224,61,118,30,58,33,254,101,131,111,551,577,5,19,33,96,47,96,18,20,58,5,45,81,518,132,88,21,333,25,5,75,120,849,22,31,17,110,3,159
+Agricultural	970,858,160,2138,1121,318,857,1423,838,878,585,617,16,62,123,233,61,162,300,186,184,124,155,4,16,56,152,315,19,10,83,289,1,44,27,70,169,325,617,3,6,19,224,61,118,30,58,33,254,101,131,111,551,577,5,19,33,96,47,96,18,20,58,5,45,81,518,132,88,21,333,25,5,75,120,849,22,31,17,110,3,159,92
 Agricultural Activities	17043,2672
 Agricultural Activities Agricultural	17043
 Agricultural Activities Practiced and Region	17043
@@ -249,8 +249,8 @@ Agricultural Data and Digital Governance Data	14818
 Agricultural Dependency	17157
 Agricultural Deploy	17157
 Agricultural Development	17157
-Agricultural Development Bank	789,6906,4025,3880
-Agricultural Development IHME Institute for Health Metrics	10759,78,1052,451
+Agricultural Development Bank	789,6906,4025,3880,4380
+Agricultural Development IHME Institute for Health Metrics	10759,78,1052,451,7598
 Agricultural Development Partners	17274
 Agricultural Development Programme	5267
 Agricultural Development and Marketing Corporation	6809
@@ -409,7 +409,7 @@ Agricultural and Marine Media Subsidize	17157
 Agricultural and Mining Agricultural and Mining	16853
 Agriculturalists	6948
 Agriculturally	17285
-Agriculture	278,117,23,102,123,94,52,151,30,161,30,393,40,88,5,91,36,24,102,48,343,3,8,131,88,63,1,150,33,124,25,108,178,340,21,138,117,2,165,51,49,75,81,246,97,32,238,85,97,167,3,120,913,142,12,514,72,131,5,3,8,116,255,7,3,76,38,8,61,145,102,94,197,34,18,15,142,181,56,3,100,468,39,81,69,6,45,27,115,93,198,16,228,17,211,69,92,171,5,73,15,19,1,24,21,15,28,1,15,17,130,13,48,77,15,5,11,9,102,62,55,57,282,3,15,44,19,50,41,15,142,7,11,146,1,19,9,18,10,18,26,44,6,4,1,86,64,13,14,79,177,11,6,10,3,54,24,2,5,33,7,11,11,1,21,146,5,5,10,2,2,6,5,6,10,17,17,10,5,4,9,4,11,24,32,1,43,2,12,30,51,11,24,37,42,10,9,43,1,16,37,172,16,50,8,231,1,60,51,116,18,19,9,25,3,6,34,12,45,50,49,11,6,1,4,33,1,17,5,1,38,30,32,88,33,12,8,66,162,6,4,50,34,12,1,1,5,21,18,24,38,3,129,3,5,11,26,6,173,6,31,26,21,17,10,2,55,13,27,31,68,6,32,4,2,36,36,12,10,3,101,1,61,69,4,1,6,14,4,23,25,25,115,19,9,11,4,8,1,1,14,16,5,23,5,1,1,1,14,4,3,2,10,7,4,15,32,62,11,11,11,1,1,9,8,71,7,22,3,14,15,75,3,70,11,35,20,20,61,39,189,8,4,3,1,1,12,1,2,16,1,12,3,8,15,1,11,4,21,9,4,13,16,4,1,20,13,12,4,31,31,5,1,4,11,36,5,13,28,1,6,16,7,11,27,2,19,5,2,8,5,3,10,103,13,21,2,25,24,5,51,14,106,6,11,7,50,13,7,18,2,54,36,6,11,1,5,23,20,32,3,221,11,1,122,11,2,46,9,16,20,28,44,13,1,1,9,11,1,2,14,42,30,3,28,15,26,6,126
+Agriculture	278,117,23,102,123,94,52,151,30,161,30,393,40,88,5,91,36,24,102,48,343,3,8,131,88,63,1,150,33,124,25,108,178,340,21,138,117,2,165,51,49,75,81,246,97,32,238,85,97,167,3,120,913,142,12,514,72,131,5,3,8,116,255,7,3,76,38,8,61,145,102,94,197,34,18,15,142,181,56,3,100,468,39,81,69,6,45,27,115,93,198,16,228,17,211,69,92,171,5,73,15,19,1,24,21,15,28,1,15,17,130,13,48,77,15,5,11,9,102,62,55,57,282,3,15,44,19,50,41,15,142,7,11,146,1,19,9,18,10,18,26,44,6,4,1,86,64,13,14,79,177,11,6,10,3,54,24,2,5,33,7,11,11,1,21,146,5,5,10,2,2,6,5,6,10,17,17,10,5,4,9,4,11,24,32,1,43,2,12,30,51,11,24,37,42,10,9,43,1,16,37,172,16,50,8,231,1,60,51,116,18,19,9,25,3,6,34,12,45,50,49,11,6,1,4,33,1,17,5,1,38,30,32,88,33,12,8,66,162,6,4,50,34,12,1,1,5,21,18,24,38,3,129,3,5,11,26,6,173,6,31,26,21,17,10,2,55,13,27,31,68,6,32,4,2,36,36,12,10,3,101,1,61,69,4,1,6,14,4,23,25,25,115,19,9,11,4,8,1,1,14,16,5,23,5,1,1,1,14,4,3,2,10,7,4,15,32,62,11,11,11,1,1,9,8,71,7,22,3,14,15,75,3,70,11,35,20,20,61,39,189,8,4,3,1,1,12,1,2,16,1,12,3,8,15,1,11,4,21,9,4,13,16,4,1,20,13,12,4,31,31,5,1,4,11,36,5,13,28,1,6,16,7,11,27,2,19,5,2,8,5,3,10,103,13,21,2,25,24,5,51,14,106,6,11,7,50,13,7,18,2,54,36,6,11,1,5,23,20,32,3,221,11,1,122,11,2,46,9,16,20,28,44,13,1,1,9,11,1,2,14,42,30,3,28,15,26,6,126,119
 Agriculture AI	4528,7984
 Agriculture About	16921
 Agriculture Act Cap	18466
@@ -912,7 +912,7 @@ ECOWAS Commissioner for Economic Affairs and Agriculture	16676
 EDFI AgriFI	19534
 EG Agriculture Minister	17240
 EIMA Agrimach India	16331
-ENACT ENACT Africa FAO Food and Agriculture	10759,78,1052,451
+ENACT ENACT Africa FAO Food and Agriculture	10759,78,1052,451,7598
 ENQUÊTE AGRICOLE DE CONJONCTURE	17945
 ENTREPRISES FAMILIALES NON AGRICOLES	737
 EUR Agriculture	970
@@ -1049,7 +1049,7 @@ Foundation for Transforming Kenya’s Agriculture	11140
 Free Trade Area AIP Agricultural Inputs	13095
 Funding for Agriculture	14969
 G20's Meeting of Agricultural Chief Scientists	2626
-GDP. Agriculture	16942
+GDP. Agriculture	16942,3024
 GOEWERMENTSKENNISGEWINGS Agriculture	1009
 GRC Department of Agriculture	10809
 GSARS Global Strategy for Agricultural and Rural Statistics	19554
@@ -1355,7 +1355,7 @@ Ministry of Agricultutre and Food Security	18626
 Ministry of Defence Ministry of Agriculture	17105
 Ministry of Education B Agricultural Centre Hall	13046
 Ministry of Environment and Agriculture	13312,2
-Ministry of Food and Agriculture	7695,4395,4421
+Ministry of Food and Agriculture	7695,4395,4421,3464
 Ministry of Health and Ministry of Agriculture. Accelerate	14020
 Ministry of Lands and Agriculture	1663,977,2996,1005,595,5369
 Ministry’s Agricultural and Animal Extension	17157

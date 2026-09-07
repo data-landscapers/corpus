@@ -266,7 +266,7 @@ KNPHl	4153
 KNQA Training	7548
 KNSCC	18575
 KNTC. The AFA and KNTC	10313
-KNUST	4126,1101,719,401,3073,10,131,73,907,6719,2556
+KNUST	4126,1101,719,401,3073,10,131,73,907,6719,2556,150
 KNUST E-Learning Centre	8748
 KNUST Management	10541
 KNUST Responsible AI Lab	5935
@@ -289,6 +289,7 @@ Kenya Bibliography Abbreviations KYC Know	12297
 Kenya By KNCCI Comms	9852
 Key Characteristics Knowledge	18441
 Key Information and Knowledge-based Economy	16861
+Key Performance Indicator KYC Know	19940
 Kingdon and Knight	11198
 Kiyovu-Rue Bigogwe KN	718
 Knafl K	17773
@@ -300,6 +301,7 @@ Knife Capital Fund III	1134
 Knife Capital Fund III Mastercard Foundation	1134
 Knife Fund III	1134
 Knight	7662,940,2533,8102
+Knight CB	19944
 Knight Frank	3937
 Knight-Industries3000	12478
 Knits	7547
@@ -320,7 +322,7 @@ Know Your Business	5369,2150,82
 Know Your Client	12449
 Know Your Client LGAs Local Government	7763
 Know Your Consumer	14880
-Know Your Customer	1880,36,639,23,227,36,269,7,284,28,79,139,464,737,7,179,335,170,226,232,100,80,10,45,513,476,298,82,162,171,159,943,320,59,350,85,6,151,22,101,450,2,132,90,18,17,144,981,12,62,106,83,14,7,26,17,6,20,6,109,17,214,21,6,288,8,22,72,15,437,9,397,536,29,316,15,613,46,25,383,1475,161,595,359,211,68,271,623
+Know Your Customer	1880,36,639,23,227,36,269,7,284,28,79,139,464,737,7,179,335,170,226,232,100,80,10,45,513,476,298,82,162,171,159,943,320,59,350,85,6,151,22,101,450,2,132,90,18,17,144,981,12,62,106,83,14,7,26,17,6,20,6,109,17,214,21,6,288,8,22,72,15,437,9,397,536,29,316,15,613,46,25,383,1475,161,595,359,211,68,271,623,300
 Know Your Customer Facility	18471
 Know Your Customer FinTech Financial Technologies	18454
 Know Your Customer Lesotho Wire Local	12701
@@ -364,7 +366,7 @@ Knowingly	3383,13450,1853
 Knowinglyprovides	16833
 Knowinglyreceive	16833
 Knowl Syst	17773
-Knowledge	21,397,153,328,41,874,125,157,1582,371,399,229,1003,178,974,116,600,183,28,187,75,1,161,778,168,69,448,432,636,255,11,150,1,23,2,264,58,377,29,1,10,46,11,12,194,1,1,44,1,36,5,105,4,41,4,45,42,13,174,80,218,105,3,15,90,806,194,743,69,83,50,117,598,467,363,85,92,99,148,58,248,356,275,405,35,148,462,159,276,50,4,82,98,39,68,3
+Knowledge	21,397,153,328,41,874,125,157,1582,371,399,229,1003,178,974,116,600,183,28,187,75,1,161,778,168,69,448,432,636,255,11,150,1,23,2,264,58,377,29,1,10,46,11,12,194,1,1,44,1,36,5,105,4,41,4,45,42,13,174,80,218,105,3,15,90,806,194,743,69,83,50,117,598,467,363,85,92,99,148,58,248,356,275,405,35,148,462,159,276,50,4,82,98,39,68,3,87,22
 Knowledge Ability	11131
 Knowledge Academy	19847
 Knowledge Acquisition	899
@@ -416,6 +418,7 @@ Knowledge PA-17	14997
 Knowledge Partner E&Y Country Managing Partner	13029
 Knowledge Platform	12333,6231
 Knowledge Politics and Imagining the Future of AI	4253
+Knowledge Process Outsourcing	19966
 Knowledge Products and Services	14511
 Knowledge Repositories Only	19657
 Knowledge Representation and Reasoning	11336
@@ -465,7 +468,7 @@ Knowledge-	15085
 Knowledge-2-Knowledge	13358
 Knowledge-Based Systems	8604
 Knowledge-based	18454
-Knowledge-intensive	10969,915,1,10,264,1,45,146,4,41,91,7375,3
+Knowledge-intensive	10969,915,1,10,264,1,45,146,4,41,91,7375,3,87
 Knowledge-sectors	16996
 Knowledge-sharing	8021,7497
 Knowledge7	5712
@@ -506,6 +509,7 @@ NGO Knowledge	11004
 Natekin and Knoll	19237
 National Communications Authority Somalia Also Known	14878
 Nationwide Urban Rural Male Female Know	582
+Neufeld V. Knowledge Capacity	19944
 Nicholas Stern Indigenous Knowledge Systems	13100
 Numbers Every Parent Should Know	12199
 O&M Plan and Knowledge Transfer Plan	15080

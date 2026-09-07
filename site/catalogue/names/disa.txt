@@ -166,7 +166,7 @@ Director of Disability	12661
 Director of Disability Affairs	13470
 Director of Disability Affairs. No	13470
 Disabilites FPE The Free Primary Education	12975
-Disabilities	940,1048,787,230,578,550,1400,350,1063,602,130,328,326,329,134,977,518,231,255,50,307,60,25,12,22,33,210,405,18,17,40,11,52,137,26,13,17,5,92,5,40,38,49,1,11,94,126,189,35,23,7,10,6,15,16,40,90,96,170,29,47,5,541,8,12,51,67,1,592,1,31,113,2,46,5,64,15,17,104,104,75,200,31,54,59,347,36,449,377,15,15,48,8,17,124,6,9,63,118,1,638,371,138,17,30,14,59,180,491,221,76,1,2,51,17,39,5,30,52,77,63,7,10
+Disabilities	940,1048,787,230,578,550,1400,350,1063,602,130,328,326,329,134,977,518,231,255,50,307,60,25,12,22,33,210,405,18,17,40,11,52,137,26,13,17,5,92,5,40,38,49,1,11,94,126,189,35,23,7,10,6,15,16,40,90,96,170,29,47,5,541,8,12,51,67,1,592,1,31,113,2,46,5,64,15,17,104,104,75,200,31,54,59,347,36,449,377,15,15,48,8,17,124,6,9,63,118,1,638,371,138,17,30,14,59,180,491,221,76,1,2,51,17,39,5,30,52,77,63,7,10,63
 Disabilities APP	15244
 Disabilities Acceptance	11765
 Disabilities Act	6949,1383,329,134,3436,685,42,165,347,96,67,913,197,8,285,2141,119,638,514
@@ -181,6 +181,8 @@ Disabilities CWDs	14031
 Disabilities Concluding	17296,1938
 Disabilities DML Desired Mastery Level DP	13990
 Disabilities Despite	15604
+Disabilities Directive	19948
+Disabilities Directive For Banks and Specialized Deposit	19948
 Disabilities Distr	17296,1938
 Disabilities Every	16887
 Disabilities FORCOM National Forum of Community Radios	12201
@@ -198,9 +200,12 @@ Disabilities NCR Nairobi Commuter Rail NDC	2775
 Disabilities NDDP	18485
 Disabilities NDMA National Disaster Management Authority	7548
 Disabilities National Policy	8332
+Disabilities No. of SME Accounts	19948
 Disabilities PMU Project Management Unit PSC-LED	11863
 Disabilities POTRAZ	958
 Disabilities Participants	12328
+Disabilities Percentage of Customers	19948
+Disabilities Persons	19948
 Disabilities Programs	12977
 Disabilities Protocol	11986
 Disabilities R&D Research	19245
@@ -231,14 +236,21 @@ Disabilities and Handicaps	16950
 Disabilities and Older Persons	16958
 Disabilities and South Africa's White Paper	9767
 Disabilities. A. Commemorations of International Days	12977
+Disabilities. Available	19948
+Disabilities. Classification	19948
 Disabilities. Convention	12231
+Disabilities. E.g	19948
 Disabilities. Government	13685
 Disabilities. Ms. Mumbika Mweemba	13465
+Disabilities. PART III	19948
 Disabilities. Regulations	5883
 Disabilities. Representing the Ministry	16495
 Disabilities. Responsible Sector	19532
 Disabilities. Several LGAs	19585
+Disabilities. Such	19948
 Disabilities. Surge	12372
+Disabilities. The Directive	19948
+Disabilities. The FSP	19948
 Disabilities. The Minister	9767
 Disabilities. The Objective	12977
 Disabilities. The Policy	12993
@@ -246,10 +258,10 @@ Disabilities. These International	13033
 Disabilities. Through	12950
 Disabilities.15	3583
 Disabilities.Persons	12231
-Disability	582,3022,1637,981,716,3830,73,290,61,22,4,6,711,51,215,30,97,45,10,192,86,31,231,54,56,165,133,58,11,54,504,816,113,149,208,3,213,118,80,1229,2,32,1,13,15,189,112,418,774,47,14,107,623,297,3,10,69,63,39,28,54,110
+Disability	582,3022,1637,981,716,3830,73,290,61,22,4,6,711,51,215,30,97,45,10,192,86,31,231,54,56,165,133,58,11,54,504,816,113,149,208,3,213,118,80,1229,2,32,1,13,15,189,112,418,774,47,14,107,623,297,3,10,69,63,39,28,54,110,30,11
 Disability Accessibility Conference	12692
 Disability Accessibility Conference. Let	12692
-Disability Act	11975,600,364,38,5466,1354
+Disability Act	11975,600,364,38,5466,1354,151
 Disability Act No	19531
 Disability Adjusted Life Years	16896,26
 Disability Advisory Council	12661,31
@@ -282,6 +294,7 @@ Disability Inclusion Facilitators	18643
 Disability Inclusion Guideline for Food Security	14019
 Disability Inclusion Initiatives Ethio	12236
 Disability Inclusion Principles	14887
+Disability Inclusion Report	19948
 Disability Inclusion and Accountability Framework	19455
 Disability Inclusive Development Programs	17295
 Disability Inclusive Service Site Assessment Tool	13400
@@ -307,6 +320,7 @@ Disability QoS Quality of Service REC Regional	6539
 Disability REIT Real Estate Investment Trust	2775
 Disability RITA President's Office	19541
 Disability RSLAF Republic of Sierra Leone Armed	18512
+Disability RTI Right	19937
 Disability Ratification Proclamation	13958
 Disability Ratification Proclamation No	13958
 Disability Registered Annually1	2775
@@ -592,6 +606,7 @@ FINANCIAL INCLUSION OF PERSONS WITH DISABILITIES	12460
 Facility for Persons With Disabilities	12977
 Federation of Disabled	10826
 Federation of Organizations of Disabled Persons	12977
+Financial Institution Types of Disabilities	19948
 Fiscal Impacts of Climate Disasters	1828
 Form of Disability	16921
 Foster Parents Grant Disability Grants	12373
@@ -666,6 +681,7 @@ LoC for RSTP Disaster Recovery Site	688
 Local And International Our Disaster	15274
 Local Disaster Management Coordinator	14738
 MAINSTREAMING ICT AND PERSONS WITH DISABILITIES	16872
+MINIMUM REQUIREMENTS FOR DISABILITY POLICY	19948
 MINISTER'S OFFICE NATIONAL DISASTER MANAGEMENT STRATEGY	19520
 MMDP Morbidity Management and Disability Prevention TT	19544
 MORBIDITY MANAGEMENT AND DISABILITY PREVENTION SERVICES	19544

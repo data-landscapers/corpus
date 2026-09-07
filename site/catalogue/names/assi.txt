@@ -264,6 +264,7 @@ Assist the Assembly ARTICLE	14409
 Assist the FDA REDD	16853
 Assist the Poor	100,8647,2230,4065
 Assist the Poor Carte Nationale	17870
+Assist the Poor D2C Direct-to-Consumer DEMI Dedicated	19940
 Assist the SADC Secretariat	962
 Assist-Advise	11156
 Assistance	26,1258,499,6,1,1,1,3,931,1,481,329,891,1531,235,891,4,1148,2489,37,113,44,55,10,196,199,525,122,118,152,615,4,12,107,7,258,14,119,9,120,127,249,628,15,148,7,6,35,7,142,485,13,50,15,53,43,29,59,59,6,163,33,2,18,11,134,76,75,25,345,1,6,54,33,188,47,29,136,105,107,13,543,2,10,77,36,8,16,65,23,167,11,13,2,4,106,43,23,52,161,280,233,27,11,8,13,186,23,45,320
@@ -317,7 +318,7 @@ Assistance VAT Value Added Tax TABLE	18825
 Assistance and Cooperation	17249
 Assistance des Nations Unies	15478
 Assistances Techniques	16646
-Assistant	12151,344,198,26,1847,190,660,16,172,81,59,192,351,108,704,230,318,330,205,699
+Assistant	12151,344,198,26,1847,190,660,16,172,81,59,192,351,108,704,230,318,330,205,699,1067
 Assistant AFMCG	15372
 Assistant Accountant	12972,5,5599
 Assistant Accountants	18576
@@ -764,7 +765,7 @@ Employee Assistance Service	11131
 Enabling Assistive Technologies and ICTs	11935
 Enabling Technical Assistance	15372
 Energy Assistance Management Program	18620
-Energy Sector Management Assistance Program	11380,192,619,3472,306,14,2637
+Energy Sector Management Assistance Program	11380,192,619,3472,306,14,2637,1323
 Energy Sector Management Assistance Program ESMP	15969
 Energy Sector Management Assistance Program FM	15663
 Enterprises Technical Assistance Advisor Tax Administration	12500
@@ -838,6 +839,7 @@ Frequency Assignments for Non-Protected Fixed Links Band	6946
 Fronteiras. Assim	15955
 Funding Assistance Fwidin2	4301
 GENERAL DESCRIPTION OF THE ASSIGNMENT	18575
+GHN Assistant	19941
 GLOBAL DEVELOPMENT ASSISTANCE About	17405
 GONPOT Tara Kumari Assistant Manager	14770
 GOÏTA Assitan Dédé DOUCOURE DNDS	17845
@@ -1342,6 +1344,7 @@ South African Assistant	9128
 South-South Cooperation Assistance Fund	13309
 Special Assistant	5235,5891,935
 Specialist Sanaa Bouchikhi Program Assistant Program	17441
+Spectrum Assignment	19966
 Spectrum Assignment and Pricing	19641
 Spectrum Assignments	5245
 Spectrum Management and Assignment	18444

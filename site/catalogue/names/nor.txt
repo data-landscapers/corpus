@@ -391,6 +391,7 @@ Evaluation des Normes du SIGE GTGEAP	17830
 Except for Northern Cape	11192
 Exit North Africa	4972
 Expansion Nord	5745,1
+Expansion of Eurosystem’s IPS Norway	19940
 Exploitation Nord	19295
 Extreme Nord	10985
 Extrême Nord	10965,4577,57
@@ -995,7 +996,7 @@ Nord. Une	16483
 NordOuest	15542
 Nordhaug	1243
 Nordhaus	16996
-Nordic	14308
+Nordic	14308,5632
 Nordic Consulting Group	13957
 Nordic Data Imaginary	11028
 Nordic Development Fund. Apart	19677
@@ -1290,7 +1291,7 @@ North Kordofan	10192,142,4563,58,251,38,98
 North Kordofan SNAPSHOT	15206
 North Kordofan State	14955
 North Kordofan and East Nile Khartoum	15342
-North Korea	6825,646,4138,2505
+North Korea	6825,646,4138,2505,5823
 North Korea North Macedonia Northern Mariana	11470,7872
 North Korea-linked	4127
 North Korean-backed	4127
@@ -1416,7 +1417,7 @@ North-Holland. Stoyan	7886
 North-Kivu	11882,36
 North-South	789,1755,7415,1251,259,629,6358
 North-South Corridor	12804
-North-West	3862,741,4396,751,1091,123,16,5,483,4106,27,2859,18,27,902
+North-West	3862,741,4396,751,1091,123,16,5,483,4106,27,2859,18,27,902,567
 North-West District	19651
 North-West Province	11281
 North-West Sahara Aquifer System	17157
@@ -1452,7 +1453,7 @@ Northeastern Gabon Using the Population Density Gradient	16996
 Northeastern Lusaka	12369
 Northeastern State	3426,5815
 Northen and River Nile	14933
-Northern	34,202,553,1535,452,636,269,1571,142,1319,234,544,204,174,501,1772,487,232,608,455,164,94,31,28,37,50,1,74,10,18,629,305,2,25,26,934,322,107,116,219,13,77,38,186,169,29,29,141,106,314,112,707,120,78,449,759,17,4,11,62,1175,87
+Northern	34,202,553,1535,452,636,269,1571,142,1319,234,544,204,174,501,1772,487,232,608,455,164,94,31,28,37,50,1,74,10,18,629,305,2,25,26,934,322,107,116,219,13,77,38,186,169,29,29,141,106,314,112,707,120,78,449,759,17,4,11,62,1175,87,175
 Northern Africa	585,400,2172,1519,4190,641,1292,41,732,322,327,5066,2583,1
 Northern Africa And Western Asia	19862
 Northern Africa Challenges	19874
@@ -1494,11 +1495,14 @@ Northern Division. Feasibility	12668
 Northern Dodoma	19520
 Northern Electricity Company Limited	15904
 Northern Electricity Distribution Company	15740,856
+Northern Electricity Distribution Company Limited	19976
 Northern Ethiopia	12188
 Northern Ethiopia European Commission	1066
 Northern Europe	12441
 Northern European	2910
-Northern Ghana	17596
+Northern Ghana	17596,2347,31
+Northern Ghana. Extending	19943
+Northern Ghana. PLoS	19974
 Northern Guéra Region	10841
 Northern Integrated Development Agency	12779
 Northern Ireland	6866,6056,118
@@ -1524,9 +1528,11 @@ Northern Province of Zaire	3980
 Northern Provinces of Mozambique	12220
 Northern Provincial ICT Unit	12880
 Northern Red Sea	14125
-Northern Region	2776,6151,3247,79,25,475,4931,788,1243
+Northern Region	2776,6151,3247,79,25,475,4931,788,1243,259
 Northern Region Operational November P. O	3386
+Northern Region's CHPS	19974
 Northern Region. Apart	13361
+Northern Region. Out	19974
 Northern Region. The Chinese Government	13122
 Northern RegionDeputy Director	18536
 Northern Regional Chairman	10142
@@ -1604,7 +1610,7 @@ Norvig	2816,4016
 Norvisi Addo	2824
 Norvège	5667,946,9636,378,821,44,839,96
 Norvège Mode	16627
-Norway	5302,398,406,507,236,1072,455,185,49,457,160,395,23,187,280,181,421,71,34,45,311,397,37,42,524,643,187,117,188,804,658,320,323,56,29,614,466,268,19,876,337,1408,114
+Norway	5302,398,406,507,236,1072,455,185,49,457,160,395,23,187,280,181,421,71,34,45,311,397,37,42,524,643,187,117,188,804,658,320,323,56,29,614,466,268,19,876,337,1408,114,338
 Norway Academic Cooperation	15122
 Norway EUR HI	17743
 Norway Global Cybersecurity Index	10764
@@ -1635,6 +1641,7 @@ Norwegian Hydrometric Project	16947
 Norwegian ID Center	19921
 Norwegian ID Centre	14905
 Norwegian Investment Fund for Developing Countries	211,178,1,123,194,1,1,1,218,1,208,1095,1,1
+Norwegian Krone	19940
 Norwegian Meteorological Institute	15120
 Norwegian PM	16114
 Norwegian People's Aid	15342
@@ -1931,6 +1938,7 @@ Université Norbert Zongo URL	16555
 Université Norbert Zongo de Koudougou. Cet	16555
 Université Sorbonne Paris Nord	10531
 Upgrading the North-South Corridor	12985
+Upper East Region of Northern Ghana. BMC	19974
 V. CADRE NORMATIF ET OUTIL	13341
 VEILLE NORMATIVE MISE EN CONFORMITÉ DES	15670
 VEILLE NORMATIVE NOTE SUR L’EFFICACITÉ	15670

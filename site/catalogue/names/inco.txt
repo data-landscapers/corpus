@@ -177,6 +177,8 @@ FREQUENT INCOME EARNERS	19878
 FURTHER EXTENSION FOR SUBMISSION OF INCOME	13142
 Faso GNI Gross National Income GRID	15621
 Fees for Incorporation of Companies SERVICE	14891
+Filing for Incorporated Partnerships	19961
+Filling for Incorporated Companies	19961
 Finance Income	13053
 Firms Small Medium Large Income	12346
 Firms108 Lower Middle Income	12346
@@ -279,7 +281,7 @@ Incode	2390,1902,563,470,255,313,73,322,83
 Incoherent	14935
 Incoherent Policies and Contradictory Priorities	12227
 Incohérences	16328
-Income	1828,479,854,1632,103,453,306,767,117,1484,459,108,233,1891,49,22,8,183,1,20,7,129,2,60,101,267,311,21,29,31,9,12,18,165,1,44,93,49,5,75,1,18,38,17,255,196,11,9,7,130,206,45,61,172,212,64,541,185,123,26,1,33,38,13,3,5,7,53,33,3,65,2,15,9,125,325,131,30,91,1177,40,9,4,13,10,18,15,138,8,78,1,3,21,106,377,575,117,90,100,413,564,11,89,160,3,13,11
+Income	1828,479,854,1632,103,453,306,767,117,1484,459,108,233,1891,49,22,8,183,1,20,7,129,2,60,101,267,311,21,29,31,9,12,18,165,1,44,93,49,5,75,1,18,38,17,255,196,11,9,7,130,206,45,61,172,212,64,541,185,123,26,1,33,38,13,3,5,7,53,33,3,65,2,15,9,125,325,131,30,91,1177,40,9,4,13,10,18,15,138,8,78,1,3,21,106,377,575,117,90,100,413,564,11,89,160,3,13,11,63
 Income All Firms Small Medium Large	11874
 Income Allowance	14782
 Income Allowance Ehram Court	14782
@@ -446,6 +448,7 @@ Inconnu	13300,5926
 Inconnue Autre	13300
 Inconsistence	19544
 Inconsistencies	961,12388,1197,3772,1266,1,189
+Inconsistencies and Work Overload Without	19972
 Inconsistency	16219,3297,10
 Inconsistent	4848,2700,1348,524,10,212,327,1500,517,254,765,32,381,1400,179,37,95,35,309,1047,455,2546,125,158
 Inconsistent Policy Regulator	11857
@@ -459,7 +462,7 @@ Inconveniences	17157
 Inconvénients	17823
 Incorpora	18783
 Incorporar	1701,2445,7368
-Incorporate	170,788,856,174,2138,722,817,5600,589,360,185,638,1529,108,77,67,129,50,133,531,299,888,99,167,43,1338,739,11,275,281,6
+Incorporate	170,788,856,174,2138,722,817,5600,589,360,185,638,1529,108,77,67,129,50,133,531,299,888,99,167,43,1338,739,11,275,281,6,159
 Incorporate AI	14812
 Incorporate AI Across Disciplines	12675
 Incorporate Compliant	16848
@@ -470,7 +473,10 @@ Incorporate Feedback	12675
 Incorporate SEP	17099
 Incorporate Universal Design for Learning	899
 Incorporated	3714,1182,2051,1239,2643,1671,2391
+Incorporated Companies	19961
 Incorporated Company	18604
+Incorporated Partnerships	19961
+Incorporated Private Partnerships	19961
 Incorporated Trustees	7176
 Incorporated Trustees of Ikigai Innovation Institute	11993
 Incorporates	1686,6918,3812
@@ -483,9 +489,11 @@ Incorporating GATT and GATS General Exception	1243
 Incorporating IDF	17157
 Incorporating the FAIR Principles	14666
 Incorporating the National Transparency Platform	3430
-Incorporation	28,1658,1817,211,1962,3307,589,2384,20,65,205,673,392,2348,310,359,511,9,5,31,601,982,89
+Incorporation	28,1658,1817,211,1962,3307,589,2384,20,65,205,673,392,2348,310,359,511,9,5,31,601,982,89,1395
 Incorporation and Nature	3714
 Incorporation of ACE GIE	15424
+Incorporation of Company Limited	19961
+Incorporation of Company Unlimited	19961
 Incorporation of Namibian	12895
 Incorporation of SPV	18754
 Incorporation of Seychelles Standards	18893
@@ -726,6 +734,7 @@ Sources of Income for Returnees	10841
 Statement of Comprehensive Income	11131,3,821
 Statement of Comprehensive Income Item Amount ZWL	13420
 Statement of Income	14717
+Still Incomplete Ghana	19981
 Sub-Saharan Africa Income Group	11874
 Sub-Saharan Africa and Lower Middle Income. Indicator	11881
 Sub-Saharan Africa. Income	19675

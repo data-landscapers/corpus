@@ -6,6 +6,8 @@ A.3.5 of Volume	17140
 ABB Voir	18371
 ACCEDER A VOTRE ESPACE PROFESSIONNEL Cette	6954
 ACCREDITATION AND VOTING PROCESS	10049
+ACH Direct Credit Volume	19940
+ACH Direct Debit Volume	19940
 ADSL Volume Based	15471
 AE VOTE	1322,1,1,740,1,1
 AFRICA REPUBLIEK VAN SUID AFRIKA Vol	11233
@@ -116,6 +118,7 @@ Autorité. VOCALE	18032
 Autres Voir	15712
 Average Deal Volume Median Deal	4972
 Average Mobile Voice Tariff	15136
+Average Volume of Transactions	19940
 Axel Voss and Bulgarian Socialist Kristian Vigenin	8014
 Ayman Essam and Vodacom Lesotho	5052
 B- Vodafone B- Using	582
@@ -133,6 +136,7 @@ BUTULA TECHNICAL AND VOCATIONAL COLLEGE Data	7167
 BVR Biometric Voter Registration CGEIT Certified	18531
 Bakisa Vocational Training Centre Data Controller	7167
 Bakisa Vocational Training Centre Data Processor	7167
+Bank of Ghana Indicators Volume	19940
 Basic Retirement Pension. Voter	14841
 Bayobab Zambia and Vodacom Moçambique	11234
 Beloko Beloko Volume	16328
@@ -240,6 +244,7 @@ Chesewew Vocational	7167
 Chesongoch Vocational Training Centre Data Controller	7167
 Chesongoch Vocational Training Centre Data Processor	7167
 Chief Executive Officer of Vodacom Congo	5714
+Chief Executive Officer of Volta River	19959
 Christiane Voufo	11918
 Christine Vogeli	18318
 Chuka Technical and Vocational College Data Controller	7167
@@ -278,7 +283,8 @@ Communication. Voir	19202
 Communications for Development Volume	16043
 Communiq Voir	737
 Community Based Volunteers	13332
-Community Health Volunteers	1838
+Community Health Volunteers	1838,18136
+Community Health Volunteers. CHW Central	19974
 Community Mobilization and Youth Volunteers Coordination	15019
 Community Volunteers	14738
 CommunityBased Voluntary Counselling	11134
@@ -508,6 +514,7 @@ Expand Voluntary Savings	13277
 Expatriate Voting Article	15393
 Expenditure Volatility	11134
 Export Volume	12256
+Express ACH Direct Credit Volume Express	19940
 Express Mail Volume	12395
 Extend Medium Voltage Backbones and System Strengthening	16966
 F ARTESUNATE ARTESUNATE VOIE RECTALE	13300
@@ -582,6 +589,8 @@ Funding Volume	10954
 G Both MTN and Vodacom	10797
 G VOIE RECTALE	13300
 G Voice	2528,9867
+G Voice Over New Radio	19966
+G and VoLTE-enabled	19966
 G. Voici	19232
 G. Voss	5700
 GCT. Volunteer	6947
@@ -632,7 +641,7 @@ Hautes Orientations de Votre Majesté	8891
 Heads of State and Government. IX- VOTE	7452
 Health Expenditure TVET Technical and Vocational Education	12923
 Health Volunteers	12138
-High Voltage	2861,6548,5458
+High Voltage	2861,6548,5458,5109
 High Voltage Direct Current IFRS International	12399
 High Volume	11916
 High Volume of Overdue Loans	19585
@@ -694,6 +703,7 @@ Independent Departments and Government Agencies. Volume III	19602
 Indicator Incoming Voice Incoming SMS Outgoing	6671
 Indicator Type of Monitoring Monitoring Voltage SAIDI	14867
 Indicator Voice Voice	6671
+Indicators Volume	19940
 Inf. Sc. Vol.20	12325
 Inflation and Exchange Rate Volatility	6938
 Information Society Vol	1243
@@ -786,6 +796,7 @@ LV Voltage Swells HV	14867
 LV Voltage Unbalance HV	14867
 La Brigade Bleue Votre	15745,616
 La Solution de Gestion des Dotations Voyages	17485
+Lake Volta	19943
 Landlines VoIP Satellite FTTh	1013,931
 Law Gendered Voices Volume	11332
 Lead United Nations Volunteer	15179
@@ -810,7 +821,7 @@ Localized Future Decision and Voluntary Adoption	11797
 Loisirs Voir Voir Voir Télécharger Communication	4895
 Long Term Mean LVSR Low Volume	2775
 Long Voyage	2367
-Low Voltage	9409,5458,4,384,714,3677
+Low Voltage	9409,5458,4,384,714,3677,330
 Low Voltage Installations	12998
 Low Voltage Supply	14867
 Low Voltage. While AI	11768
@@ -874,7 +885,7 @@ Mboulou Voka	15692
 Mbps Voucher	11259
 Means of Voting the Reorganization Plan	12389
 Medianas Empresas Volumen	16898
-Medium Voltage	9409,5336,122,4,2095,2680
+Medium Voltage	9409,5336,122,4,2095,2680,330
 Medium Voltage Agricultural	9409
 Medium Voltage Generation	15255
 Medium Voltage MW	12358
@@ -921,6 +932,7 @@ Mobile Data and Voice Low Consumption Basket	12395
 Mobile Data and Voice Low Usage	17860
 Mobile International Voice Traffic	15136
 Mobile International Voice Traffic Trends	15136
+Mobile Money Total Transaction Volumes	19940
 Mobile Voice	2776,1086,10289
 Mobile Voice Call Traffic	3862
 Mobile Voice Geographical	18485
@@ -1460,7 +1472,8 @@ Training VTC Vocational Training Centre UNAIDS	12923
 Training and Vocational Education and Training	15411
 Transaction Time and Registration Volume	15570
 Transaction Time and Registration Volume Number	15570
-Transaction Volume	10802,6433
+Transaction Volume	10802,6433,2705
+Transaction Volume Chart	19940
 Transactions Value and Volume of Transfers Figure	15023
 Transcription Volume Number	14713
 Transit Petroleum Volumes	12256
@@ -1678,7 +1691,7 @@ VoIP. Crucially	3089
 VoIP. Telecel-RCA	15474
 VoIP10	13301
 VoL53 FOL	18003
-VoLTE	786,1742,15,2735,42,2807,320,367,1859,1722,2741,807,999,488
+VoLTE	786,1742,15,2735,42,2807,320,367,1859,1722,2741,807,999,488,2536
 VoLTE Services	15136
 VoLTE Voice Traffic	15136
 VoLTE-enabled	15136
@@ -1896,7 +1909,7 @@ Vodafone Cash and VodaPay	7009
 Vodafone Egypt	2968,1080,147,273,506,6668,3829
 Vodafone Fiber Connection Node	580
 Vodafone Fiji	15471
-Vodafone Ghana	4150,1628
+Vodafone Ghana	4150,1628,14188
 Vodafone Group	8037
 Vodafone Group Plc	1135,10859
 Vodafone Group UK	1135
@@ -2119,10 +2132,11 @@ Volpicelli	17780
 Vols Négatif Phase	14488,1,1
 Volt Ampere	18103
 Volt Typhoon	11342
-Volta	236,2540,4681,238,675,7060,368,399,42,91,16,165,13,62,10
+Volta	236,2540,4681,238,675,7060,368,399,42,91,16,165,13,62,10,3344
 Volta Aluminium Company Limited	16511
 Volta Economic Corridor	16596
 Volta Impex	16649
+Volta Lake	19943
 Volta Noire	15715
 Volta Region	789,1987,1350,3828,1466,10,106,2554,3726,346,248,186,1060
 Volta Region House of Chiefs and Paramount Chief	16596
@@ -2130,7 +2144,8 @@ Volta Region. Mr Gunu	15816
 Volta Regional	16410
 Volta Regional Coordinating Council	16596
 Volta Regional Minister	15816,594,186
-Volta River Authority	2342,13398,164
+Volta River	19943
+Volta River Authority	2342,13398,164,4055,17
 Volta Serene Hotel	11038
 Volta and Eastern Regions	7695
 Volta and Oti	16346
@@ -2152,7 +2167,7 @@ Voltamos	16528
 Voltar Canais de Atendimento Fale	1192
 Volts	12256
 Volts No Limit	12256
-Volume	579,157,1,52,220,275,1,1,393,25,67,57,35,125,724,64,347,1,1003,147,110,1,74,69,69,375,152,45,604,617,189,349,20,600,183,32,47,212,163,98,93,60,170,2106,2,66,199,106,55,170,221,26,39,311,9,39,1,47,172,71,6,45,28,70,117,35,160,89,182,66,9,94,160,17,1,6,16,2,18,47,28,19,37,34,277,166,15,543,33,35,33,79,123,44,117,26,73,42,242,44,23,20,13,26,62,105,34,226,66,231,19,73,5,1,303,74,132,6,58,34,61,22,122,69,26,22,181,10,200,132,63,19,23,60,118,36,187,23,9,157,279,10,17,19,22,120,5,4,12,258,74,247,112,6,52,3,13,153,6,2
+Volume	579,157,1,52,220,275,1,1,393,25,67,57,35,125,724,64,347,1,1003,147,110,1,74,69,69,375,152,45,604,617,189,349,20,600,183,32,47,212,163,98,93,60,170,2106,2,66,199,106,55,170,221,26,39,311,9,39,1,47,172,71,6,45,28,70,117,35,160,89,182,66,9,94,160,17,1,6,16,2,18,47,28,19,37,34,277,166,15,543,33,35,33,79,123,44,117,26,73,42,242,44,23,20,13,26,62,105,34,226,66,231,19,73,5,1,303,74,132,6,58,34,61,22,122,69,26,22,181,10,200,132,63,19,23,60,118,36,187,23,9,157,279,10,17,19,22,120,5,4,12,258,74,247,112,6,52,3,13,153,6,2,51,4
 Volume Based ADSL Silver	19929
 Volume CII	19629
 Volume CXIX	19769
@@ -2167,9 +2182,12 @@ Volume IV	13418,6184
 Volume LIX	2816
 Volume Le Groupe	1679
 Volume One	16591
+Volume PAYMENT SYSTEMS OVERSIGHT ANNUAL REPORT	19940
 Volume Part	4459
 Volume Part Montant	4459
+Volume Total Number of Cards Issued Volume	19940
 Volume Two	16591
+Volume Value GH	19940
 Volume Weighted Average Price	4896
 Volume Weighted Average Prices	4896
 Volume XII Issue XV	12508
@@ -2197,18 +2215,22 @@ Volume of International Capacity Target	15424
 Volume of International Traffic Sources	15424
 Volume of Internet Traffic	2776
 Volume of Local Calls	16992
-Volume of Mobile Money Transactions	13346
+Volume of Mobile Money Transactions	13346,6594
 Volume of Mobile Payment Accounts	6938
 Volume of P2P	9956
 Volume of RTGS Transactions	6938
 Volume of Report	14997
 Volume of Traffic	2776
+Volume of Transaction	19940
+Volume of Transactions	19940
+Volume of Transactions Value of Transactions	19940
 Volume of VRE	19663
 Volume of Venture Capital Exits	4972
 Volume of Venture Capital Funds	4972
 Volume of Venture Deals	4972
 Volumen	10780,6095,23
 Volumes	579,391,2883,1119,4809,1469,571,179,256,13,1,69,151,479,3358,516,3058
+Volumes ACH Direct Credit Near Real	19940
 Volumes I and II	14777
 Volumes II and III	14777
 Volumes Values	12252
@@ -2218,7 +2240,7 @@ Volumes of RTGS Transactions	4517,2461
 Volumetric	13385
 Volumétrie	11944
 Voluntarios	16864
-Voluntary	3714,725,457,3234,540,2461,3,47,82,231,1444,373,70,185,203,4,901,200,6,105,42,99,1748,94,140,49,1280,104,340
+Voluntary	3714,725,457,3234,540,2461,3,47,82,231,1444,373,70,185,203,4,901,200,6,105,42,99,1748,94,140,49,1280,104,340,1085
 Voluntary Arbitration Law	18797
 Voluntary Assessment	13381
 Voluntary Carbon Market	9393
@@ -2333,7 +2355,8 @@ Voter Database Registration	15393
 Voter Database. Law	15393
 Voter Database. Nevertheless	15393
 Voter Education	7266,4935
-Voter ID	1367,9398,10,7695
+Voter ID	1367,9398,10,7695,1465
+Voter ID Card	19935,1
 Voter ID Card No N	10714
 Voter IDs	12404
 Voter Identification Number	18459

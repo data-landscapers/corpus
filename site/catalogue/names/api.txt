@@ -1,6 +1,7 @@
 ABBREVIATIONS ADR Adverse Drug Reaction API	9855
 ACRONYMS ACRONYMS AI AIA API DCI	11156
 ACRONYMS AND ABBREVIATIONS API Application Programming	17149
+AI Artificial Intelligence API Application Programming	19940
 AML Anti-Money Laundering API Application Program	13312,2
 ANOR ANTIC API APICCAM ARMP ARSEL	15542
 API Access Programmatic	18747

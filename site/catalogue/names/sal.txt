@@ -66,6 +66,8 @@ Atención Primaria de Salud	17094
 Athule Sali	11239
 Atif Saleem. IGI Global Scientific Publishing	6948
 Auction Sales Act	17108
+Automated Teller Machines and Point of Sale Devices	19940
+Automated Teller Machines and Points of Sales	19940
 Autorisation Salubrité	14488,1,1
 Azalai Hôtel Salam	17983
 Azalai Salam	17978
@@ -184,6 +186,7 @@ Dr. Abdoulaye Salifou	14157
 Dr. Abudu Sallam Waiswa	7429,2352
 Dr. Amina S. Msengwa Salum Kassim	19555
 Dr. Bayero Salih Farah	10603
+Dr. Hawawu Salifu	19976
 Dr. Hisham Salah El-Din Shazly	15257
 Dr. Idriss Saleh Bachar	18919
 Dr. Iziaq Adekunle Salako	7895,4109,6154,5
@@ -673,6 +676,7 @@ PFIs Point of Sale PIU PricewaterhouseCoopers Reserve	17235
 PHC Dar Es Salaam	19542
 PIB Saldo Presupuestario	4209
 POINT OF SALES GADGETS	12392
+POS Mobile Point of Sale MiCA Markets	19940
 POS Sales	11955
 PRESIDENCE DE LA REPUBLIQUE Sous-lieutenant SALA	15901
 PRIVINVEST SHIPBUILDING SAL	1829
@@ -688,12 +692,13 @@ Personnel and Salary System	7910
 PoS Point of Sales PPP Public-Private Partnership	19585
 Poder Judicial Secretario Sala	4209
 Point Of Sale	15445
-Point of Sale	1925,924,28,1848,1728,9,516,931,169,40,4064,1122,302,426,887,33,2080,203
+Point of Sale	1925,924,28,1848,1728,9,516,931,169,40,4064,1122,302,426,887,33,2080,203,2705
 Point of Sale RAP	18770
 Point of Sale and ATM Switching	2276
 Point of Sale-POS-cards	8806
-Point of Sales	4630,50,637,6721,4904,2643
+Point of Sales	4630,50,637,6721,4904,2643,355
 Point of Sales Persons With Disabilities	10763
+Points of Sale	19948
 Policy Email Policy Phone Sales Email	16948
 Policy Phone Sales Email	18579
 Politique Politique Procès Khalifa Sall Société	9890
@@ -856,6 +861,8 @@ Sala de Inteligência Artificial	8807
 Sala de Reuniões	12810
 Sala de Servidores	9694
 Salaam	637,177,332,70,11,34,660,329,25,305,138,149,1,79,41,74,304,94,49,445,145,288,52,314,165,35,92,45,26,300,95,204,56,12,142,68,22,7,8,16,37,85,303,106,239,26,85,228,103,63,194,30,218,513,135,52,64,88,140,133,126,135,201,26,313,89,211,51,59,96,65,200,132,618,123,279,11,4,110,495,144,542,136,6,508,42,406,160,424,621,578,359,30,2172,1149,2,6,3,4,5,2,1,2,4,3,1,2,4,9,2,4,2,7,7,4,2,2,3,2,1,9,9,2,313
+Salaam African Bank	19980
+Salaam Bank	19980
 Salaam Bus Rapid Transit	19585
 Salaam Business	19585
 Salaam Business School	6816
@@ -1093,6 +1100,7 @@ Sale MSPC Ministry of Security and Civil Protection	17870
 Sale Of Physical Object For Lethal	16935
 Sale PSF Private Sector Federation QoS	718
 Sale Price Flat Rate	9409
+Sale QR Quick Response RBI Reserve	19940
 Sale and Leaseback	13053
 Sale and Rental	2775
 Sale and Sexual Exploitation of Children	14742
@@ -1167,7 +1175,7 @@ Sales and Internet Devices Manager	19611
 Sales and Purchase Agreement	14845
 Sales and Purchases	19639
 Sales of Excess Electricity	16851
-Sales of Portable Lanterns	11923
+Sales of Portable Lanterns	11923,8020
 Sales of Processed Products	17043
 Sales11 Change	11923
 SalesForce	13461
@@ -1347,6 +1355,7 @@ Saloum	18286,30
 Saloum Delta	18293
 Saloum Islands RSTFA	18309
 Salq Director of Informatics	2958
+Salsi V	19974
 Salt Essential IT	13048
 Salt Industry	14742
 Salt Lake City. Kunene	2948

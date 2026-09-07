@@ -118,6 +118,7 @@ Banco Bradesco	5618
 Bank Branch	2115
 Bank Branch Account Numbers	18577
 Bank Branch Management	17235
+Bank Branches	19940
 Bank of China Johannesburg Branch	10618
 Bankim Brahmbhatt	5033
 Banks’ Branching	17236
@@ -164,8 +165,10 @@ Bradford	5242,2209,3312,287,104,1,6625
 Bradley	7278,688,5334
 Bradley Barcola. Sénégal	18331
 Bradley EH	11596
+Bradley EH. Improving	19974
 Bradley Shodries	8432
 Bradshaw	11012
+Bradshaw D	19974
 Bradstreet	8436
 Bradstreet Nigeria Ltd. Data Controller INST-296748338E9	7167
 Bradstreet Nigeria Ltd. Data Processor INST-296748338E9	7167
@@ -240,6 +243,7 @@ Brakna Brakna Assaba Assaba Hodh	17867
 Brakna. Cependant	17931
 Bralirwa and MTN Rwandacell PLC	14997
 Bram Fudzu	4775
+Bram Peters	19978
 Bram Thuysbaert	10964
 Braman	2096
 Braman Oumar Koné	10389
@@ -293,8 +297,9 @@ Brand	5247,2719,289,1200,514,1048,114,753,321,4436,293,9,1093,1826
 Brand Africa	8919
 Brand Equity	6946
 Brand Equity The Authority	6946
-Brand Finance	10969,926,264,1,45,146,4,7507,3
+Brand Finance	10969,926,264,1,45,146,4,7507,3,87
 Brand Finance About the Global Innovation Index	12487
+Brand Finance. Note	19952
 Brand Management	13053
 Brand Name	6946,7937
 Brand Namibia	12982
@@ -434,6 +439,7 @@ Brazil's AI Governance Vision Got	5366
 Brazil's Active Search	12443
 Brazil's Bolsa Familia	10985
 Brazil's Cadastro	4981,5047,1105,1310
+Brazil's G20 Presidency	19966
 Brazil's Internet Exchange Point	3840
 Brazil's National Data Authority	3601
 Brazil's National Data Protection Authority	6361
@@ -450,6 +456,7 @@ Brazilian AI	11135
 Brazilian Central Bank	9832,1175
 Brazilian Debate	11028
 Brazilian G20	6386
+Brazilian G20 Presidency	19966
 Brazilian Internet Steering Committee	5366
 Brazilian Journal of Public Administration	226
 Brazilian National Data Protection Authority	3601

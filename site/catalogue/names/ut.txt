@@ -426,8 +426,8 @@ Public Utilities Regulatory Authority PURA Equity	16889,362
 Public Utilities Regulatory Authority PWD Person	1264
 Public Utilities Regulatory Authority RoI Return	16923
 Public Utilities Regulatory Authority URL	16889,228,39
-Public Utilities Regulatory Commission	15740,164
-Public Utilities Regulatory Commission Act	11
+Public Utilities Regulatory Commission	15740,164,4072
+Public Utilities Regulatory Commission Act	11,19965
 Public Utilities and Juba County	18725
 Public Utility	19633
 Public Utility Research Center	16978
@@ -578,6 +578,7 @@ UTC SAT	16552
 UTC Services	16552
 UTC TUE-THU	16552
 UTC Total Duration	9477
+UTC Universal Trusted Credentials UK United	19940
 UTC. All	18309
 UTC. Consultation Platform	11811
 UTC. Data	11553
@@ -885,7 +886,7 @@ Utilizar DKIM	18774
 Utilizar HTTP	18774
 Utilizar PKM-EAP	18774
 Utilizar SPF	18774
-Utilization	1219,648,1924,1454,7645,48,39,971,203,737,266,1722,67,17,924,601,3,1053,3
+Utilization	1219,648,1924,1454,7645,48,39,971,203,737,266,1722,67,17,924,601,3,1053,3,430
 Utilization Gap	6051
 Utilization Roadmap	16971
 Utilization and Access	16861

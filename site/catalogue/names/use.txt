@@ -204,6 +204,7 @@ Cleaning Hijacked Resources Use	14659
 Climate Change and Adapted Land Use RAPPORT	15769
 Closed User Group	762,11722,4729
 Closing Period For Official Use Only	17000
+Code for Digital Identity Data Use	19964
 Codes of Conduct for Responsible Use	6432
 Collateral Registry. Such Users	13333
 Colmer. Use	6365
@@ -793,6 +794,7 @@ NATIONAL INTEROPERABILITY USE CASES UNPACKED	1009
 NCC Availability of Efficient Use Spectrum	11857
 NIN. Advertisement Senator Onyewuchi Used Taxpayers	10265
 NMHS. User	14448
+NOTICE TO ALL USERS	19956
 NPLs. Cases Strengthening the Use	14997
 NRI Country NRI Environment Readiness Use	236
 NRS. User	8823
@@ -1157,6 +1159,7 @@ Rating Substantial Substantial For Official Use	18350
 Rationale Users	17149
 Reach More Users	12264
 Real-World Blockchain Use Cases Handbook	9147
+Real-World Use Cases	19958
 References User Guide	11935
 Region Computer Use Mobile Phone Use	18441
 Registered Access User Registration Required Data	18747
@@ -1306,7 +1309,7 @@ Surface Used	17114
 Surface Water Use Permit	1988
 Survey LULC Land Use Land Cover	17157
 Surveyed Internet Use	16876
-Sustainable Use of Land	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Sustainable Use of Land	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Sustaining Use of District Health Information System	150
 System Use of Borrower's Environmental and Social Framework	1988
 System User Access Controls	19584
@@ -1387,6 +1390,7 @@ Types of Official Statistics Used	17149
 UDART Uses Tally	19584
 UHF Radio Users VHF	18485
 UI User Interface UNSD United Nations	16942
+UK. Users	19940
 UNDERSTANDING WOMEN'S MOBILE INTERNET USE	11902
 UNLAWFUL USE	15149
 URBAN LAND USE	15473
@@ -1704,6 +1708,8 @@ Use of Fiscal Electronic Device	7695,9413
 Use of Fixed Broadband Wireless Access	18971
 Use of Force Account Procurement Method Beyond	19585
 Use of Geo-Enabling Initiative	15661
+Use of Ghana Card	19950
+Use of Ghana Card for All Financial Transactions	19983
 Use of Goods and Services	3583,9539,2805
 Use of Goods and Services Grants Social Benefits	13093
 Use of Government Media Outlets Article	15393
@@ -1717,7 +1723,7 @@ Use of Information and Communication	11182
 Use of Intermediaries	12389
 Use of International Quality Certifications	12389
 Use of Lack	16884
-Use of Land	12152,188
+Use of Land	12152,188,7598
 Use of Languages	18467
 Use of Languages. Standing Orders. Minutes. Committees	18467
 Use of Local Port Services	12389
@@ -1799,7 +1805,7 @@ Useful Link	18091
 Useful Links	8897,9039,506,94
 Useful Links CONTACT US Electricity House	18453
 Useful Links Home About	12361
-Useful Resources	18220
+Useful Resources	18220,1736
 Useful Tip	12202
 Useful and Re-usable Data	1243
 Usefully	8182
@@ -1827,6 +1833,8 @@ User Account Management Public Users	12211
 User Accuracy	17140
 User Activity Monitoring	11231
 User Administration Data Exchange and Interoperability	12961
+User Agencies	19935
+User Agencies and Data Processing	19964
 User Assertion	1009
 User Assertion V	1009
 User Asset Immovable Plan	11986
@@ -1916,6 +1924,7 @@ User Support	18904
 User Support Hosting	19639
 User Support The Centre for GIS	18904
 User Survey	13532
+User Tariff	19976
 User Terminals	1872
 User Testing	11216
 User Testing All	18557

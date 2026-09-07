@@ -169,10 +169,12 @@ Electronic Payment and Settlement System	12286
 Em Setembro	2729,12719,2093
 English Kiswahili Reset All Settings Inflation	19614
 English and Setswana	12529
+Enterprise TIPS Target Instant Payment Settlement	19940
 Environmental and Social Project Settings	18374
 Establish Monitoring Set	1777
 Estratégias Setoriais	15532
 Eswatini’s Real-Time Gross Settlement System	12922
+Eurosystem’s Target Instant Payment Settlement	19940
 Executive Secretary of SETIC and Coordinator	6044
 Explanatory Note Setting	11265
 F1. Set	14729
@@ -199,8 +201,14 @@ Gap Alone Set	10015
 Gender Value Set Administrative Gender MaritalStatus	6666
 Genre SETIC	13341
 Ghana Interbank Payment and Settlement System	16600
-Ghana Interbank Payment and Settlement Systems	6075,22,6172,4,3980
+Ghana Interbank Payment and Settlement Systems	6075,22,6172,4,3980,3687,13
 Ghana Interbank Payment and Settlement Systems Limited	982
+Ghana Interbank Settlement	19940
+Ghana Interbank Settlement GhIPSS Ghana Interbank	19940
+Ghana Interbank Settlement System	19940
+Ghana Interbank Settlement The Ghana Interbank	19940
+Ghana Interbank Settlement Transactions	19940
+Ghana’s Real Time Gross Settlement	19940
 Global Human Settlement Layer	14674
 Global Settlement Network	5743,1835
 Goal Setting	12356
@@ -452,11 +460,13 @@ Pan-African Payment and Settlement System	999,855,68,1152,366,663,487,133,48,120
 Pan-African Payment and Settlement System MTN Ghana	5908,442
 Pan-African Payment and Settlement System. Further	6679
 Pan-African Payment and Settlement System. Separate	7880
+Pan-African Payment and Settlement Systems	19940
 Pan-African Payments and Settlement System	9930
 Pan-African Payments and Settlements System	16497
 Part F Settlement	11181
 Payment and Securities Settlement Infrastructures	19664
 Payment and Settlement System	10718,1282,214
+Payment and Settlement System GIP GhIPSS Instant	19940
 Payment and Settlement Systems	13468
 Payment and Settlement URL	16907
 Payments and Settlement Department	12542,7122
@@ -485,7 +495,7 @@ RSE. Set	14997
 RTGS Real-Time Gross Settlement SDM Single	1264
 RTGS Real-Time Gross Settlement System	19847
 RTGS Settlement	12490
-Real Time Gross Settlement	2857,3863,5550,16,78,120,968,80,3344,359,2266
+Real Time Gross Settlement	2857,3863,5550,16,78,120,968,80,3344,359,2266,439
 Real Time Gross Settlement Agency	14897
 Real Time Gross Settlement System	4517,2461,6490,1686,1690,34,260,2578
 Real Time Gross Settlement USSD Unstructured	14897
@@ -670,6 +680,7 @@ Seth Fiagorme	17656
 Seth Garz	10977
 Seth Kevin	15524
 Seth Macheli	12757
+Seth Panyin Boamah Director of Research and Policy	19941
 Sethibe	4432
 Sethroelndgst.hening	19554
 Sethuraman	9237
@@ -716,7 +727,7 @@ Setshwane	12625
 Setswana	8108,2698,374,51,1325,85,4944,2117
 Setswana-language	19702
 Settat	3375,14066
-Setting	21,552,210,217,885,87,2760,116,852,577,669,1071,113,1337,1352,37,104,17,40,889,336,53,15,190,174,290,331,19,44,649,667,55,19,4,21,8,43,6,6,18,68,75,31,6,68,18,44,122,125,62,188,582,606,23,13,78,12,182,859,285,263,201,754,22,101,22,196,29,6
+Setting	21,552,210,217,885,87,2760,116,852,577,669,1071,113,1337,1352,37,104,17,40,889,336,53,15,190,174,290,331,19,44,649,667,55,19,4,21,8,43,6,6,18,68,75,31,6,68,18,44,122,125,62,188,582,606,23,13,78,12,182,859,285,263,201,754,22,101,22,196,29,6,71
 Setting Aside Campaign Funds	15393
 Setting Deprivation Cut-offs for Each Indicator	15244
 Setting Zone Setting Gender Mt Kenya	7869
@@ -730,7 +741,7 @@ Settings Sitemap	12339
 Settle	9328,5699,1899
 Settled	3676,1220,722,13906
 Settled Object	8380
-Settlement	395,1472,121,2908,359,608,6092,21,24,269,1,94,10,116,38,410,247,203,178,119,914,129,2,104,63,29,1917,35,9,143,110,109,1210,3,1,93
+Settlement	395,1472,121,2908,359,608,6092,21,24,269,1,94,10,116,38,410,247,203,178,119,914,129,2,104,63,29,1917,35,9,143,110,109,1210,3,1,93,1384
 Settlement Account	12364,2182
 Settlement Accounts	12364
 Settlement Agent	12364
@@ -748,8 +759,9 @@ Settlement Obligations	12364
 Settlement Reserve Account RA Accounts	12364
 Settlement Settlement	12000,364
 Settlement Settlements Urban	17140
-Settlement System	9673,1045,284,2050,4190,1247
+Settlement System	9673,1045,284,2050,4190,1247,1491
 Settlement System RUS Unique Social Registry	16942
+Settlement System SDI Specialized Deposit-Taking Institution	19940
 Settlement System.............................13 Box	10718
 Settlement System.137	14674
 Settlement Villages	17140
@@ -807,6 +819,7 @@ Swaziland Interbank and Settlement System EPS Financial	12444
 Swaziland Payment Settlement System	11131
 Swedish Employment Setvices	148
 Syria Settlement	10793
+System PAPSS Pan-African Payment and Settlement Systems	19940
 TITLE VI DISPUTE AVOIDANCE AND SETTLEMENT	15506
 Tanzania Interbank Settlement System	7763
 Tanzania Interbank Settlement System ZEEA Zanzibar	7763

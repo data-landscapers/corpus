@@ -123,19 +123,19 @@ Learning Poverty	11905,3699
 Learning Poverty Brief	15743
 Learning Poverty Brief Washington	15743
 Learning Poverty. Nigerian	11469
-Lived Poverty	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
-Lived Poverty Health	10837,1052,263,11,177,1,7312
+Lived Poverty	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Lived Poverty Health	10837,1052,263,11,177,1,7312,285
 Lived Poverty Public Perception of Economic Opportunities	10759
 Lived Poverty Score Rank Public Procurement	11870
 Lived Poverty Sustainable Environment	10759,1395
-Livelihood Empowerment Against Poverty	4336,11523,19,722
+Livelihood Empowerment Against Poverty	4336,11523,19,722,3365,1
 Livelihood Empowerment Against Poverty Program Impact	13332,2326
 Livelihood Resilience and Escaping Poverty	17011
 MCDWD and Poverty Rate MCDWD	10763
 MONITORING AND EVALUATION UNIT The Poverty	12962
 MPI. Poverty	15244
 MULTIDIMENSIONAL POVERTY AND SOCIAL PROTECTION ASSISTANCE	11998
-Macro Poverty Outlook	10768,2564,4538,1061
+Macro Poverty Outlook	10768,2564,4538,1061,1035
 Macro Poverty Outlook Fall	18293
 Madagascar Macro Poverty Outlook	14576
 Madagascar Macro Poverty Outlook. Page	14576
@@ -247,7 +247,7 @@ Poverty Rate	10985,6172
 Poverty Rate Informal Employment Micro	16973
 Poverty Reduction	10964,899,157,903,39,1867
 Poverty Reduction Effects of Mobile Broadband	15621
-Poverty Reduction Policies	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Poverty Reduction Policies	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Poverty Reduction Policies and Goals	16861
 Poverty Reduction Strategy	11924,5019,196,2380
 Poverty Reduction Strategy GRA Ghana Revenue	236
@@ -348,7 +348,7 @@ Samuel Anyanwu Minister of Humanitarian Affairs and Poverty	18243
 Second Strategy for Poverty Alleviation	16861
 Severe Poverty	15244
 Simulated Poverty Impact	13332
-Social Safety Nets Poverty Reduction Policies	10837,1315,188
+Social Safety Nets Poverty Reduction Policies	10837,1315,188,7598
 Social Services and Poverty Reduction	13295
 Social and Poverty	10779
 Society for Poverty Rationale	12376
@@ -381,6 +381,7 @@ Units Targeting the Multi Dimension Poverty Food	15578
 Unstacking Global Poverty	15244
 Urban Poverty Reduction Programme	10763
 Use of Account Poverty	1828
+Vulnerability Groups Poverty	19942
 WB2021 Poverty	16942
 WEST DARFUR STATE MULTIDIMENSIONAL POVERTY INDEX	15244
 WEST KORDOFAN STATE MULTIDIMENSIONAL POVERTY INDEX	15244

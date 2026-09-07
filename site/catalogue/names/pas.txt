@@ -109,7 +109,7 @@ Case Minimum Requirements Password User	11952
 Ce PAS	6959
 Cellule de Passation des Marchés	13524
 Certification Department and External Auditor Pass Pass	10819
-Change Password	18935
+Change Password	18935,1021
 Change Password Reset Password Contact Us	13051
 Cheffe de Service de Passation des Marchés	16373
 Christmas Pass Mining	8639
@@ -220,6 +220,7 @@ Email Address Password Remember Me Add	19796
 Emergency Passport	16837
 Empresa Passos	10753
 Enhance Passenger Protection The Minister for Transport	16215
+Ensure Passage of Affirmative Action Bill	19937
 Eric Pascal	16177
 Eriga Paskale	18665
 Esther Passaris	10662
@@ -261,6 +262,7 @@ Garsu Pasaulis	1713
 Gaso Grace Pascal	18692
 General Administration of Passports	19873
 General Directorate for Passports and Migration	14905
+Ghana Passport	19935,1
 Gigabit Passive Optical Network	319,11361
 Go Pass	6597
 Gomponsom Passoré Nord	15715
@@ -286,6 +288,7 @@ ID. Passport	3126
 IDD04 Blaise Pascal Dushime Team Member	1284
 IDs and Passports	6196,59
 IL M'EST IMPOSSIBLE DE PASSER	16629
+IMMEDIATE PASSWORD UPDATE REQUIRED	19956
 IMPLEMENT A LICENCE PASSPORTING FRAMEWORK	2450
 INCREMENTO DE PASIVOS FINANCIEROS	4209
 INSCRIVEZ EN JOURS. NE SAIT PAS	13300
@@ -355,7 +358,7 @@ Le PASBAP	16175
 Le PASEC	1679
 Le Passeport	7333
 Le Passeport Hadj	7333
-Learning Passport	724,9148,3084,110,1870,617,1075
+Learning Passport	724,9148,3084,110,1870,617,1075,3354
 Leveraging Passive Infrastructure	14879
 Liberia Digital Transformation PASA	16949
 Liberia-ECOWAS Biometric Passport	17025
@@ -392,6 +395,7 @@ Madagascar Passes Law	14590
 Majesty's Passport Office	14091
 Making the Past	14047
 Male Female Total Without SC Passed	14815
+Mandatory Password Requirements	19956
 Marien Pascal	16100
 May. The Ne Touche Pas	17950
 Meeting Password	15028
@@ -878,7 +882,7 @@ Passoré	10847
 Passoré Nord	15715
 Passos	2784
 Passowendé Pélagie Kabré	6464
-Passport	1525,156,198,3,81,1472,1200,410,488,154,428,1441,289,86,1486,414,883,51,10,37,10,497,540,81,46,55,123,38,16,109,10,73,574,21,328,664,650,113,18,6,63,118,139,289,22,15,393,366,652,82,1672,107,339,8,469,58,123,62,106,60
+Passport	1525,156,198,3,81,1472,1200,410,488,154,428,1441,289,86,1486,414,883,51,10,37,10,497,540,81,46,55,123,38,16,109,10,73,574,21,328,664,650,113,18,6,63,118,139,289,22,15,393,366,652,82,1672,107,339,8,469,58,123,62,106,60,8,1
 Passport Act	13497
 Passport Act No	12449
 Passport Administration	4480
@@ -943,7 +947,7 @@ Passports and Immigration Major General Elia Costa	18733
 Passports and Work Permits Issued	2775
 Passports. Ugandan	320
 Passware	18873
-Password	3768,1333,632,218,4858,379,1157,14,692,282,1547,41,243,1760,499,1074,22,3,33
+Password	3768,1333,632,218,4858,379,1157,14,692,282,1547,41,243,1760,499,1074,22,3,33,1407
 Password Expiry Requirement Not Enforced	14546
 Password Management	12364
 Password Policy	10721,4200

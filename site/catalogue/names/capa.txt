@@ -276,7 +276,7 @@ Capacities Project	13207
 Capacities for Data Analysis	18628
 Capacities of MDAs	12932
 Capacitors	1988,14912
-Capacity	111,285,182,49,91,18,53,110,41,18,173,112,18,23,181,237,64,52,49,121,104,367,218,312,195,1,271,139,9,110,126,21,353,209,102,76,52,243,140,176,275,46,87,57,3,320,55,321,163,132,265,31,99,85,71,146,89,91,338,740,321,176,114,732,104,84,293,271,38,5,4,13,48,6,2,1,10,13,1,30,20,52,4,11,16,136,2,49,8,28,10,189,135,23,280,2,5,8,8,8,1,1,1,16,11,4,28,4,1,3,108,74,15,1,9,33,37,7,13,3,5,77,2,1,8,3,1,1,2,2,41,28,13,5,12,31,134,20,51,36,14,18,156,39,14,1,1,5,28,26,6,258,37,60,3,23,76,30,8,31,61,54,98,78,14,70,27,104,277,102,16,18,83,36,72,1,64,7,36,29,8,60,3,7,9,25,13,62,22,15,8,77,11,8,26,80,98,30,39,107,35,25,26,17,37,1,2,184,8,48,131,12,168,25,40,40,119,115,34,258,5,1,4,1,4,9,16,1,1,7,24,10,1,12,3,1,1,3,1,1,2,15,2,3,2,125,16,35,8,100,3,29,37,13,131,69,196,134,40,81,114,21,48,182,15,50,50,6,9,44,2,1,5,19,9,14,35,11,145,141,39,27,109,7,53,93,103,113,64,1,1,11,23,16,5,65,5,6,1,1,23,68,61,16,13,1,22,1,41,24
+Capacity	111,285,182,49,91,18,53,110,41,18,173,112,18,23,181,237,64,52,49,121,104,367,218,312,195,1,271,139,9,110,126,21,353,209,102,76,52,243,140,176,275,46,87,57,3,320,55,321,163,132,265,31,99,85,71,146,89,91,338,740,321,176,114,732,104,84,293,271,38,5,4,13,48,6,2,1,10,13,1,30,20,52,4,11,16,136,2,49,8,28,10,189,135,23,280,2,5,8,8,8,1,1,1,16,11,4,28,4,1,3,108,74,15,1,9,33,37,7,13,3,5,77,2,1,8,3,1,1,2,2,41,28,13,5,12,31,134,20,51,36,14,18,156,39,14,1,1,5,28,26,6,258,37,60,3,23,76,30,8,31,61,54,98,78,14,70,27,104,277,102,16,18,83,36,72,1,64,7,36,29,8,60,3,7,9,25,13,62,22,15,8,77,11,8,26,80,98,30,39,107,35,25,26,17,37,1,2,184,8,48,131,12,168,25,40,40,119,115,34,258,5,1,4,1,4,9,16,1,1,7,24,10,1,12,3,1,1,3,1,1,2,15,2,3,2,125,16,35,8,100,3,29,37,13,131,69,196,134,40,81,114,21,48,182,15,50,50,6,9,44,2,1,5,19,9,14,35,11,145,141,39,27,109,7,53,93,103,113,64,1,1,11,23,16,5,65,5,6,1,1,23,68,61,16,13,1,22,1,41,24,14,1,27
 Capacity ASSIGNED CAPACITY ACTIVATED CAPACITY AVAILABLE	16942
 Capacity Accelerator Network	6729
 Capacity Aggregation	10157
@@ -284,7 +284,7 @@ Capacity Assessment Framework	15713
 Capacity Audit Checklist	3861
 Capacity Base Station Name	736
 Capacity Base Stations Latitude Longitude Antenna	736
-Capacity Building	578,686,2597,667,82,522,544,756,514,602,3300,283,3,118,31,286,238,48,5,65,31,39,200,46,115,2,41,113,163,49,4,189,53,1,6,28,26,11,20,18,15,300,79,38,124,330,114,136,224,24,286,11,25,111,46,80,97,18,564,586,366,99,1,1,1,1,2,93,1,94,19,5,14,130,1,33,111,27,458,217,9,473,32,4,51,532,1,632,32,88
+Capacity Building	578,686,2597,667,82,522,544,756,514,602,3300,283,3,118,31,286,238,48,5,65,31,39,200,46,115,2,41,113,163,49,4,189,53,1,6,28,26,11,20,18,15,300,79,38,124,330,114,136,224,24,286,11,25,111,46,80,97,18,564,586,366,99,1,1,1,1,2,93,1,94,19,5,14,130,1,33,111,27,458,217,9,473,32,4,51,532,1,632,32,88,125
 Capacity Building A. The LTA and Telecommunications	4610
 Capacity Building ASYCUDA New Generation	13042
 Capacity Building Activities Overall	19776
@@ -396,6 +396,7 @@ Capacity Building. Ministry of President	1777
 Capacity Building. Today	2787
 Capacity Capacity Installed Installed Effective Hydro	12256
 Capacity Certified Digital Trainer	12241
+Capacity Charge	19976
 Capacity Committee	15372
 Capacity Component	10768
 Capacity Constraint	11965,3225,3619,475
@@ -557,7 +558,7 @@ Challenges Identified Capacity Constraints	17139
 Change Management and Capacity Building	14185,849
 Chief Information Officer CMMI Capability Maturity	12917
 Cisco. Capacity	7053
-Civil Registration Capacity	10759,78,1315,188
+Civil Registration Capacity	10759,78,1315,188,7598
 Civilians Capacity	10968
 Co-working Spaces and Other Capacity Development Providers	17870
 Collect and Coll Capacity and Openness of S Individual	17180
@@ -625,6 +626,7 @@ DGES TOTAL GENERAL DE CAPACITES D'ACCUEIL	15674
 DIAGNOSTIC DES GAPS EN CAPACITÉS	16621
 DISPONIBILITE ET CAPACITE OPERATIONNELLE DE SERVICES	17843
 DLIs Capacity	11905
+DO Capacity Building	19941
 DRC Development of Statistical Capacity	16293
 DU RENFORCEMENT DES CAPACITES CABINET	16175
 DU RENFORCEMENT DES CAPACITES Le Conseil	16099
@@ -698,6 +700,7 @@ ESTRUTURA DE CAPACITAÇÃO E FORMAÇÃO	2816
 ETAT DES CAPACITES ET BESOINS POUR	18286
 EU-funded State Building Capacity and Technical Assistance	18500
 EXPLOITER LA VALEUR ET LA CAPACITÉ	15624
+Ecosystem Development Capacity Building Toolkits News	19941
 Education Capacity Building Specialist	11134
 Education System Capacity	12175
 Effective Usable Capacity	11209
@@ -1052,6 +1055,7 @@ Malanje Capanda	11366
 Malaria National Diagnostic Capacity Assessment Report	17289
 Malawi. Capacity Development	12917
 Managed National And International Capacity	15274
+Management Capacity Building and Skills Development Research	19941
 Mandate Resident Cybersecurity Teams and Capabilities	1777
 Manpower Development and Capacity Building	11129
 Manpower Development and Capacity Building Strategy	11129
@@ -1104,6 +1108,7 @@ National Qualifications Framework. Capacity-building	13217
 National Space Capability Development	1131
 National Team GAMBIA Capacity Building	16631,270
 Network Capacity	12377
+Neufeld V. Knowledge Capacity	19944
 News NHIA Builds Staff Capacity	16218
 Next Generation Capabilities	15019
 No. Name of Facility Capacity	12256
@@ -1156,6 +1161,7 @@ PUBLiC SECTOR CAPACiTY	961
 Parity PRCI Institutional Capacity-Building Project PSC	18825
 Partially Contracted Capacity	12062,6124,31
 Partners Capacity Building	13051
+Partners Programs Ecosystem Development Capacity Building	19941
 Partnership and Capacity Building EUMETSAT	14522
 Percentage of Local Government Capacity Development Strategy	14935
 Persistent Gaps and Capacity Deficits	17116
@@ -1190,6 +1196,7 @@ Programa de Capacitação	18767
 Programa de Reforço de Capacidade Técnica	16022
 Programme Pays de Renforcement des Capacités	15712
 Programme de Renforcement de Capacité	17894
+Programs Capacity	19941
 Project Coordination and Capacity Building	12175
 Project Management and Capacity Building	15659,310,991
 Project Management and Capacity Building US	6539

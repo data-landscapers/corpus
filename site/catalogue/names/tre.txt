@@ -43,6 +43,7 @@ Additional Treatments for Desk Audits Desk	18318
 AfricaGrow and Alder Tree Investment	11175
 African Union's Data Policy Framework. Trends	6593
 Age Group Treated	12978
+Agents Trend	19940
 Agreement Amending the Treaty	19185
 Alder Tree Investment	13256,3518
 Ambassador Tremont	7780
@@ -104,6 +105,7 @@ Capital Mobility and Foreign Exchange Treatment Investors	10157
 Care and Treatment	1261
 Care and Treatment for Tuberculosis	15247
 Cases Treated	16971
+Cash-Out Trend	19940
 Cedarcrest Comprehensive Cancer Treatment Center	12937
 Central Bank of Kenya and The National Treasury	14546
 Central Treasury Accounting Agency	969
@@ -146,6 +148,7 @@ Creative Economy. The Treasury	7831
 Criação de Centros de Treinamento	2816
 Crime Trend	14760
 Criminal Trespass	16935
+Customers Trend	19940
 CÉLÉBRATION DE TRENTE ANS D’ACTIVITÉS D’AFRISTAT	16250
 DE FINANCEMENT ET DE TRESORERIE Article	16047
 DE FINANCEMENT ET DE TRESORERIE TITRE	16047
@@ -236,6 +239,7 @@ Five-year Trend Analysis	11250
 Fixed Internet Growth Trends	19728
 Fixed Line Growth Trends	19728
 Fixed Voice Telephone Tariff Trend	718
+Float Trend	19940
 Force This Treaty	14409
 Forced Migration Trend Bouncing Back Absence	19822
 Foreign Affairs and Treaties Committee	5525
@@ -760,7 +764,7 @@ TREMAC平台首创	15325
 TREMAC的落地	15325
 TREND	236
 TREND Increasing Improvement Slowing Improvement Warning	10759
-TREND Increasing Improvement Warning Signs Slowing	10837,1503
+TREND Increasing Improvement Warning Signs Slowing	10837,1503,7598
 TREND OF PROPORTION OF NCD	19544
 TREND OF ROAD TRAFFIC CRASHES	19772
 TREND OF STATISTICAL PLANNING IN TANZANIA	19519
@@ -862,6 +866,7 @@ Treasury Circular Number	13420
 Treasury Compute	7548
 Treasury Corporate and Business Registration Department	14830
 Treasury Department	11130,1842,4,1,65,11,961,4783
+Treasury Digitalization	19940
 Treasury Directive	19585
 Treasury Directive Ref. No. CCE.3	19585
 Treasury Directorate	18825
@@ -970,6 +975,7 @@ Treatment and Protection of Debtor’s Assets	12389
 Treatment and Rehabilitation	18937
 Treatment and Supply	11152
 Treatment and Supply NPPI	11152
+Treatment of Captured Payment Cards	19940
 Treatment of Child Illness	14067
 Treatment of Childhood Illness	15247
 Treatment of Confidentiality	4610
@@ -1046,23 +1052,24 @@ Trench Specifications	19745
 Trenches	19745
 Trenching	17114
 Trencon Construction	2307
-Trend	236,482,2333,2196,533,628,538,1161,2652,4,72,3,18,56,56,168,16,718,16,1,1,64,199,3,9,93,84,1,11,1,60,75,123,2204,170,12,59,80,344,124,1367,186,78,50,1227,115,917,41,67,1,59,3,107,14,22,1,65
+Trend	236,482,2333,2196,533,628,538,1161,2652,4,72,3,18,56,56,168,16,718,16,1,1,64,199,3,9,93,84,1,11,1,60,75,123,2204,170,12,59,80,344,124,1367,186,78,50,1227,115,917,41,67,1,59,3,107,14,22,1,65,15
 Trend Analysis of Banks and SDIs Fraud	17362
 Trend Analysis of Grants and Own Source Collection	19585
 Trend Bouncing Back	10835,3,130,902,16,466,1,135,7334
 Trend Bouncing Back Anti-Corruption	12341
 Trend Bouncing Back Slowing Deterioration Increasing	10835,3,130,902,16,466,1,135,7334
 Trend Central African Republic	10837
-Trend Characteristic	10837,1052,263,188
+Trend Characteristic	10837,1052,263,188,7598
 Trend Characteristic Scores	10835,3,130,902,16,466,1,135,7334
 Trend Coverage of Family Planning New Acceptors	19544
 Trend During FY	14985
+Trend Ghana	19938
 Trend Identification and Assessment	11265
 Trend Increasing Deterioration Accountability	12341
 Trend Increasing Deterioration Public Administration	12341
 Trend Increasing Deterioration Women's Equality	12341
 Trend Increasing Improvement Bouncing Back Overall	10835,3,1048,466,1,135,7334
-Trend Increasing Improvement Bouncing Back Slowing	10759,76,3,130,902,16,466,1,135,7334
+Trend Increasing Improvement Bouncing Back Slowing	10759,76,3,130,902,16,466,1,135,7334,116
 Trend Increasing Improvement Education	12341
 Trend Increasing Improvement Slowing Improvement Warning	10759
 Trend Increasing Improvement Sustainable Environment	12341
@@ -1071,7 +1078,7 @@ Trend Measure Score	19822
 Trend Micro	6446,979,2862,5721
 Trend Namibia	12340
 Trend Of Health Facilities In Tanzania	19544
-Trend Overall Governance	10837,1315,188,1
+Trend Overall Governance	10837,1315,188,1,7597
 Trend Rwanda	12341
 Trend SECTION	11152
 Trend Score	10837,1052
@@ -1085,7 +1092,7 @@ Trend Slowing Improvement Rural Economy	12341
 Trend Spotlight	6792
 Trend Trend Increasing Improvement Slowing Improvement	10759
 Trend Warning Signs	12341
-Trend Warning Signs Slowing Improvement Increasing	10837,1503
+Trend Warning Signs Slowing Improvement Increasing	10837,1503,7598
 Trend Warning Signs Social Protection	12341
 Trend and Challenges	14760
 Trend of ANC	16971
@@ -1136,7 +1143,7 @@ Trending News	5784,166,263
 Trending Now	7441,192,3011,6714
 Trending Stories	8884,3494
 Trending Stories Namibia	11122
-Trends	718,1378,679,78,730,1093,1917,353,2,1182,475,2109,4,41,26,50,2,1,130,36,246,46,264,3,304,3,16,1,1,1,30,232,1,1,1,9,177,1,11,1,14,9,112,187,385,298,9,51,36,78,1213,30,54,156,12,59,80,111,224,133,17,38,967,196,50,71,53,161,1284,37,149,321,596,95,11,1,1,1,62,13,73,21,14,22,1,65
+Trends	718,1378,679,78,730,1093,1917,353,2,1182,475,2109,4,41,26,50,2,1,130,36,246,46,264,3,304,3,16,1,1,1,30,232,1,1,1,9,177,1,11,1,14,9,112,187,385,298,9,51,36,78,1213,30,54,156,12,59,80,111,224,133,17,38,967,196,50,71,53,161,1284,37,149,321,596,95,11,1,1,1,62,13,73,21,14,22,1,65,14,1
 Trends In Pregnancy Related Mortality	14067
 Trends Reshaping Africa’s Mobile Industry	6714
 Trends and Determinants of Birth Registration Completeness	12486

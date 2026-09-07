@@ -249,7 +249,7 @@ Action OVERVIEW OF KEY THEMATIC FOCUS	6936
 Action Opérationnel Triennal	16627
 Action Party Timeline	395
 Action Party Timeline Page	395
-Action Plan	789,172,39,228,36,513,1,36,174,638,1500,457,621,41,29,1695,2053,1754,80,5,103,402,51,112,23,348,86,322,91,164,138,78,139,2,26,25,269,92,27,319,190,123,147,606,4,26,44,10,3,16,88,76,119,348,72,108,3,316,721,86,77,35,26,5,12,12,67,139,100,705,513,57,5,258,14,14,127,727,142
+Action Plan	789,172,39,228,36,513,1,36,174,638,1500,457,621,41,29,1695,2053,1754,80,5,103,402,51,112,23,348,86,322,91,164,138,78,139,2,26,25,269,92,27,319,190,123,147,606,4,26,44,10,3,16,88,76,119,348,72,108,3,316,721,86,77,35,26,5,12,12,67,139,100,705,513,57,5,258,14,14,127,727,142,118
 Action Plan Achieving	19677
 Action Plan Baseline Action Plan Target	18532
 Action Plan Cycle	11866,7
@@ -553,7 +553,7 @@ Adopt the Anti-Corruption Action Plan Waiting	11906
 AfDB's Affirmative Finance Action for Women	19818
 Affirmative Action	14546,2405
 Affirmative Action Act	12961,76
-Affirmative Action Bill	17296
+Affirmative Action Bill	17296,2641
 Affirmative Action Bridging	16951
 Affirmative Action Compliance Certificate	13037
 Affirmative Action Loan Scheme	12912
@@ -750,6 +750,7 @@ Communication Strategy and Action Plan	11986
 Community Action	11469,1501
 Community Action Network Africa	7167
 Community Action for Social Protection PforR	11469
+Community Health Action Plans	19974
 Comoros National Action Programme of Adaptation	13813
 Compact Targets and Action Plan	12399,281,6997
 Compact Targets and Action Plan THE RESULTS	15977
@@ -940,11 +941,13 @@ Energy Policy and Action Plan	13054
 Energy and Mines National Action Plan	16973
 Enforcement Action	6792,8075,2382
 Enforcement Action If the Regulatory Authority	14867
-Enforcement Actions	5665
+Enforcement Actions	5665,14275
+Enforcement Actions Despite	19940
 Enforcement Actions for Non-compliance	5665
 Engineers In Action	12962
 Ensure Data Center Sustainability Code Action	15713
 Ensure Data Privacy and Security Code Action	15713
+Ensure Passage of Affirmative Action Bill	19937
 Entrepreneurship Development Strategic Actions Develop	940
 Environment Action Plans	11525
 Environment and Climate Action	17369,1418
@@ -1061,9 +1064,11 @@ General Directorate of Social Action	18305
 General Directorate of Social Action DLI	18370
 Geneva Declaration of Principles and Plan of Action	17870
 Ghana and Sweden. Glob Health Action	1219,11027
+Ghana. Glob Health Action	19974
+Ghana’s Fourth OGP National Action Plan	19937
 Girl Power Action Initiative	12297
 GitHub Action	12478
-GitHub Actions	11922,2729,3251
+GitHub Actions	11922,2729,3251,2075
 Glob Health Action	3791,8440
 Global Action	783,15225,1322
 Global Action Plan	10776
@@ -1363,6 +1368,7 @@ Ms. Zara Mustapha UNVS IN ACTION	16973
 Multi Year Action Plan	12975
 Multi Year Action Plans	12975
 Multi-Annual Budgeted Plan of Actions	13349
+Multi-Stakeholder Group NAP National Action Plan	19937
 Multi-Year Action Plan	16863,1007
 Multisectoral National Action Plan for Health Security	11417
 Multistakeholder Action Plan for Integrating MIL	17018
@@ -1396,11 +1402,14 @@ Namibia Affirmative Action Act	12399
 Namibia's Second National Biodiversity Strategy and Action	9353
 National Accessibility Action Plan	19140
 National Action Coalition	10216
-National Action Plan	1389,7091,3471,357,289,390,166,304,1285,9,30,93,676,193,1207,8,181,150,7,449,189,371,4,603,38,581
+National Action Plan	1389,7091,3471,357,289,390,166,304,1285,9,30,93,676,193,1207,8,181,150,7,449,189,371,4,603,38,581,406
 National Action Plan III	18225
 National Action Plan IV	18225
 National Action Plan Programme Development and Reviews	12642
+National Action Plan Recruitment	19937
+National Action Plan Review	19937
 National Action Plan and Clean and Modern Cooking	18795
+National Action Plan and Political Economy Analysis	19937
 National Action Plan and Strategic Framework	18912
 National Action Plan for Children	3583
 National Action Plan for Clean Cooking	18795
@@ -1414,6 +1423,7 @@ National Action Plan for Rare Diseases	10188
 National Action Plan for Youth Employment	10963,1
 National Action Plan for Youth PBC Employment	10964
 National Action Plan of Senegal	18305
+National Action Plans	19937
 National Action Programme of Adaptation	13813
 National Action Programmes	19086
 National Action for Civic Education and Development	18464
@@ -1555,6 +1565,7 @@ PTT Recommendations and Action Plan	12912
 PV Photovoltaic RAP Resettlement Action Plan	11549,3966
 Pact. Objective Actions Strengthen	18795
 Pacte PROGRAMMATION TRIENNALE DES ACTIONS ET	15673
+Paris AI Action Summit	19957
 Parliamentary Action	8015
 Partnership National Action Plan	18439
 Partnership and Communication Action Plan SP Org	17101
@@ -1976,6 +1987,7 @@ TAPES ET ACTIONS CONVENUES	14539
 TAPES ET ACTIONS CONVENUES Actions Responsables	16012
 TF Description Status Action IDA-D7870 Complied	19284
 TF LEGAL TBL1 Description Status Action	1284
+TH NATIONAL ACTION PLAN	19937
 TIC. Action N	17824
 TRANSFORMATION ACTION PLAN	1818
 TRANSFORMATION ACTION PLAN ANNEX	1818

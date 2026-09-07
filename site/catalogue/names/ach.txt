@@ -2,7 +2,10 @@ ACH Au	13452
 ACH Automated Clearing Houses AfCFTA African	1264
 ACH Checks	17235
 ACH Component	3679
-ACH Direct Credit	17235
+ACH Direct Credit	17235,2705
+ACH Direct Credit Near Real Time	19940
+ACH Direct Credit Volume	19940
+ACH Direct Debit Volume	19940
 ACH NET SETTLEMENTS MT971	16844
 ACH NETV SETTLEMENTS MT971	16844
 ACH PRICING METHOD	16844
@@ -73,6 +76,7 @@ Achai Deng	18665
 Achamil	8891
 Achamil102. Toutefois	8891
 Achamos	18819
+Achana F	19974
 AchaqueactifSIidentifié	15525
 Achard F	16463
 Acharya	8283
@@ -99,6 +103,7 @@ Achats de Médicaments Essentiels	17895
 Achats du Gabon	15973
 Ache Kodo	11636
 Acheampong	7491,67
+Acheampong AO	19944
 Acheleur	13524
 Acheminement	10876,4518,491,58,352
 Achetaur	13524
@@ -331,10 +336,12 @@ Empowering Communities and Achieving Gender Equality	18125
 Eric Achille MBENDJE	16175
 Establishments GOAL TO ACHIEVE	15679
 Eswatini. Achieving	12911
+Express ACH Direct Credit Volume Express	19940
 Ezulwini Complex Achieve	11131
 FDRE MESOB Service Achieves	10709
 FINDINGS Progress Towards Achieving Project Development	18635
 FURTHER REVIEW OF SECTOR ACHIEVEMENTS	14942
+Felix Achana	19974
 First Financial Inclusion Strategy Achieved	16145
 Formally Revised Actual Achieved	15663
 GDP. Achieving	18823
@@ -364,6 +371,7 @@ IMPLEMENTATION ACH AML	12701
 IMPLEMENTED INTERVENTIONS AND ACHIEVEMENTS	19544
 INTEROPERABILITY Achieve	16942
 INTERVENTION INTEROPERABILITY Achieve	16942
+IV ABBREVIATIONS ACH Automated Clearing House	19940
 Igolo ACHPR Observer Status No	8713
 Inadequate Achieve Increase Strengthen	15845
 Indicator Level Baseline Target Achieved	16436
@@ -574,6 +582,7 @@ VISION Achieve Universal Access	19646
 VPA Key Achievements	16848
 Vallary Acholla of Mzalendo Trust	17745
 Vodacom Tanzania Achieves Robust	10678
+Volumes ACH Direct Credit Near Real	19940
 Wellness Management Key Indicators Achievements Quarter	12976
 Year Actual Achieved	16436
 ZIPSS. Automated ACH	12364

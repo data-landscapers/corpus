@@ -33,6 +33,7 @@ Agriculture Show ECZ’s Legacy	13477
 Airport Shopping Mall	8999
 Airtel Nigeria Unveils Hundreds of Retail Shops	9117
 Amendment and Short Title Section	16851
+App and Mobile Short Codes	19966
 Application for Short Code	17250
 Asaase Breakfast Show	9111
 Attachments Should Be Included	13249
@@ -216,6 +217,8 @@ High High Medium Horizon Long-term Short-term	15480
 Horizon Short-term Short-term Short-term Medium-	15480
 Horse Shoe Market	12336
 Hospitals of South West Shoa Zone	3791
+Household Shocks Map	19942
+Household Shocks Map Regional	19942
 Human Capital Shortage	17260
 Human Resource Shortages and Distribution	18370
 Human Rights Short	16996
@@ -311,6 +314,7 @@ MoYPICT Short High Government	13314
 MoYPICT Short High Improve	13314
 MoYPICT Short High SETIC	13314
 MoYPICT Short High Set	13314
+Mobile Short Code	19966
 Model Law Preamble Short Title HIPSSA	27
 Mohamed Ali Jalloh Shows The Way	6355
 Mr. Adeyinka Shorungbe	9444
@@ -590,7 +594,7 @@ Short Message Service VoIP	6000
 Short Message Services	2776
 Short Message Tangaza University. Services	2775
 Short Messages Services	2776
-Short Messaging Service	4732
+Short Messaging Service	4732,15234
 Short Messaging Service SNA Systems of National	236
 Short Messaging Services	15283
 Short Messaging Services SNA System of National	2775
@@ -657,7 +661,7 @@ Short-term Positions	17735
 Short-term Priority of ICT Projects Jointly Convened	16872
 Short-term Reforms	17139
 Short-term Tailor-Made	12972
-Shortage	1261,679,4210,5402,353,474,598,76,938,738,218,50,483,94,1310,273,103,2325,302
+Shortage	1261,679,4210,5402,353,474,598,76,938,738,218,50,483,94,1310,273,103,2325,302,75
 Shortage of Electricity	14867
 Shortage of Electricity The Licensee	14867
 Shortage of Health Facilities	19585
@@ -697,7 +701,7 @@ Shoshana Zuboff	571,7809
 Shoshong Clinic	12607
 Shoshong MP	12610
 Shotgun	19517
-Should	27,546,1205,50,1109,7,2,445,583,178,515,229,346,107,189,255,675,18,334,424,8,91,15,1,596,318,1238,461,90,30,178,153,74,238,29,200,165,1,26,35,49,58,265,346,86,197,167,5,9,3,24,455,12,1,1,162,65,214,75,2,75,70,406,402,334,52,28,5,25,181,115,292,21,80,186,242,35,856,1,1,1,56,263,98,45,280,202,34,675,16,359,64,83,549,148,78,51,77
+Should	27,546,1205,50,1109,7,2,445,583,178,515,229,346,107,189,255,675,18,334,424,8,91,15,1,596,318,1238,461,90,30,178,153,74,238,29,200,165,1,26,35,49,58,265,346,86,197,167,5,9,3,24,455,12,1,1,162,65,214,75,2,75,70,406,402,334,52,28,5,25,181,115,292,21,80,186,242,35,856,1,1,1,56,263,98,45,280,202,34,675,16,359,64,83,549,148,78,51,77,78
 Should Apply	9198,111,2018,6712
 Should Change	6947
 Should ESS5	18374

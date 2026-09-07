@@ -236,7 +236,7 @@ Director of Monitoring and Evaluation Division	12978
 Director of Planning and Monitoring Office	16902
 Disability Annual Monitoring Report	13033
 Disaggregation Monitoring Responsibility	15845
-Displacement Monitoring Centre IFAD International Fund	10759,78,1052,451
+Displacement Monitoring Centre IFAD International Fund	10759,78,1052,451,7598
 Disseminate Monitoring and Evaluation	11860
 Division Division Monitoring	6946
 Djibouti Economic Monitor	11161,110
@@ -379,10 +379,12 @@ Geo-Enabled Monitoring and Supervision GFF Global Financing	10829
 Geo-Enabling Initiative for Monitoring and Supervision	3604,11949,105,1680,568,56,1283
 Geo-Enabling for Monitoring and Supervision	16436
 Ghana Agricultural Information and Monitoring System	9561
+Ghana OGP Monitoring and Evaluation	19937
+Ghana Parliamentary Monitoring Network IDEG Institute	19937
 Global AIDS Monitoring	18937
 Global Action Plan Monitoring Framework	10776
 Global Agriculture Monitoring	17157
-Global Digital Health Monitor	15720
+Global Digital Health Monitor	15720,4254
 Global Digital Health Monitor GMAO	15720
 Global Education Monitoring	19657
 Global Education Monitoring Report	13477,461,1226,1745,2748
@@ -494,6 +496,8 @@ International Gateway Monitoring System ISP	18485
 International Gateway Monitoring System. The Authority	14354
 International Voice Call Monitoring METRO	18485
 Introduction The Monitoring and Evaluation	17116
+Investigation and Ecosystem Monitoring	19940
+Investigation and Ecosystem Monitoring The Bank	19940
 Investment Monitor	6490
 Investment Monitor. USD	6633
 Investment Project Financing M&E Monitoring and Evaluation	10829
@@ -769,7 +773,7 @@ Monitores	15532,1332
 Monitoria	2138,678,7961,664,8,98,7254
 Monitoria da Política	11362
 Monitoria da Política. Revoga	11362
-Monitoring	7,4,23,350,12,197,125,71,169,42,131,83,29,41,494,36,53,121,489,232,3,246,555,70,21,74,183,265,134,268,35,220,462,204,84,890,9,147,100,153,36,78,2,600,215,82,438,246,32,562,270,50,26,45,170,75,180,189,29,564,42,12,1,33,3,17,52,83,43,124,25,32,5,5,26,6,22,149,16,108,266,64,2,6,42,2,17,3,12,13,1,3,9,6,15,9,13,130,11,26,65,5,8,4,101,41,13,5,27,56,12,25,26,35,44,32,43,194,6,15,7,23,2,5,1,6,1,28,32,17,29,12,49,168,2,17,1,17,10,4,18,178,7,58,80,234,52,1,8,79,344,131,12,57,114,9,3,11,22,6,25,6,1,15,1,22,3,7,30,24,1,1,35,7,32,22,15,2,84,9,1,8,26,80,17,24,55,32,39,62,41,4,35,3,45,3,25,26,3,1,2,9,43,12,241,11,167,44,24,6,75,129,14,164,239,4,5,4,1,4,1,2,3,21,2,3,3,23,11,1,15,1,4,2,2,12,3,4,1,14,11,72,31,15,2,1,22,10,7,1,94,34,10,69,3,38,133,307,25,14,22,28,264,95,61,90,26,5,3,2,24,8,25,70,17,4,139,5,4,19,14,78,98,57,37,135,7,5,16,3,256,18,1,3,21,27,5,9,1,9,46,5,31,158,72
+Monitoring	7,4,23,350,12,197,125,71,169,42,131,83,29,41,494,36,53,121,489,232,3,246,555,70,21,74,183,265,134,268,35,220,462,204,84,890,9,147,100,153,36,78,2,600,215,82,438,246,32,562,270,50,26,45,170,75,180,189,29,564,42,12,1,33,3,17,52,83,43,124,25,32,5,5,26,6,22,149,16,108,266,64,2,6,42,2,17,3,12,13,1,3,9,6,15,9,13,130,11,26,65,5,8,4,101,41,13,5,27,56,12,25,26,35,44,32,43,194,6,15,7,23,2,5,1,6,1,28,32,17,29,12,49,168,2,17,1,17,10,4,18,178,7,58,80,234,52,1,8,79,344,131,12,57,114,9,3,11,22,6,25,6,1,15,1,22,3,7,30,24,1,1,35,7,32,22,15,2,84,9,1,8,26,80,17,24,55,32,39,62,41,4,35,3,45,3,25,26,3,1,2,9,43,12,241,11,167,44,24,6,75,129,14,164,239,4,5,4,1,4,1,2,3,21,2,3,3,23,11,1,15,1,4,2,2,12,3,4,1,14,11,72,31,15,2,1,22,10,7,1,94,34,10,69,3,38,133,307,25,14,22,28,264,95,61,90,26,5,3,2,24,8,25,70,17,4,139,5,4,19,14,78,98,57,37,135,7,5,16,3,256,18,1,3,21,27,5,9,1,9,46,5,31,158,72,44
 Monitoring Activities	17099
 Monitoring Activities Throughout	11955
 Monitoring Agricultural Expansion	15715
@@ -783,6 +787,7 @@ Monitoring Centre	972
 Monitoring Committee	6751,187
 Monitoring Committee Meeting	7512
 Monitoring Compliance	12597
+Monitoring Compliance of Payment Service Providers	19940
 Monitoring Coverage Monitor	11952
 Monitoring Creation	12253
 Monitoring Cuts	12253

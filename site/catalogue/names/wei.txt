@@ -167,8 +167,12 @@ Weight-based	9855
 Weighted	4896,3650,58,2189,1070,3741,1392,47,71,43
 Weighted Average	4896
 Weighted Average Cost of Capital	4896,14781
+Weighted Average Cost of Gas	19976
 Weighted Average Exchange Rate Survey	17235
 Weighted Average Exchange Rate Surveys	17235
+Weighted Average Gas Commodity Charge	19976
+Weighted Average Gas Service Cost	19976
+Weighted Average Gas Transmission Service	19976
 Weighted Average Sale Price for Residential Properties	2775
 Weighted Mean VHI	11762,1988
 Weighted Mean Vegetation Health Index	11762,1988

@@ -195,7 +195,7 @@ Comisario Divisionario Teniente Coronel	4209
 Comité Nacional de Diversificación Económica	4209
 Comité. Général de Division Abdoulaye MAIGA Article	17899
 Commerce Division	14847
-Commercial Division	1919,2977,3278,340,190,4915,1123,105
+Commercial Division	1919,2977,3278,340,190,4915,1123,105,5121
 Commissaire Divisionnaire Ousseini Amadou Oumarou	10547
 Commissaire Divisionnaire de Police Mahamadou SANA	1967,1
 Commune. Many Divisions	18370
@@ -531,7 +531,7 @@ Diving	12339
 Divisas	18800
 Diviser	18988
 Divisheni	19517
-Division	970,844,60,1,398,2623,1936,89,2129,974,802,14,12,22,91,13,151,23,36,402,49,47,226,264,64,126,9,6,64,8,215,259,20,15,2,78,11,44,211,14,13,10,37,1052,308,82,11,8,580,55,91,30,145,17,260,174,55,378,3,332,10,38,146,117,167,5,2,379,21,33,7,14,13,194,5,55,122,6,5,64,4,66,52,12,56,325,68,94,183,24,274,1,16,174,61
+Division	970,844,60,1,398,2623,1936,89,2129,974,802,14,12,22,91,13,151,23,36,402,49,47,226,264,64,126,9,6,64,8,215,259,20,15,2,78,11,44,211,14,13,10,37,1052,308,82,11,8,580,55,91,30,145,17,260,174,55,378,3,332,10,38,146,117,167,5,2,379,21,33,7,14,13,194,5,55,122,6,5,64,4,66,52,12,56,325,68,94,183,24,274,1,16,174,61,185
 Division Administrative	18169
 Division Afrique	10708
 Division Appui Conseil	17872
@@ -648,6 +648,7 @@ Division of Statistics	17116
 Division of Sustainable Development	16036
 Division of Technology and Logistics	16631
 Division of Vital Statistics	17395
+Division. The Corporate Insolvency and Restructuring Act	19961
 Division. The Ministry	14835
 Division. World Urbanization Prospects	17870
 Divisional	18370
@@ -787,7 +788,7 @@ Econet InfraCo Mrs Tracy Mpofu Divyajeet	4896
 Econet Shares Trade Ex Dividend	4896
 Economic Activity Division	16916
 Economic Cooperation and Regional Integration Division	13880,56
-Economic Diversification	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Economic Diversification	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Economic Diversification Equality	10835,3,130,902,16,466,1,135,7334
 Economic Diversification Forum	17101
 Economic Diversification Initiative	2508,14488
@@ -1027,6 +1028,7 @@ IMPOTS ET TAXES DIVERS CHAPITRE V	15999
 IMPOTS ET TAXES DIVERS TITRE	16020
 INFORMATION TECHNOLOGY DIVISION	12920
 INGD's Prevention and Mitigation Division	9484
+INSOLVENCY AND LIQUIDATIONS SERVICES DIVISION	19961
 IPBD Division	17881
 IR Division	6832
 Icha Divine	15848
@@ -1342,6 +1344,7 @@ Public Debt Management Division PEFA Public	18577
 Public Debt Management The Division	18500
 Public Financial Management Reform Division	18488,12,77
 Public Financial Management Reform Division PIM	18500
+Public Investments Division	19934
 Public Prosecutions Division	587
 Public Relations Division	14007
 Public Service Management Division	3088
@@ -1372,7 +1375,7 @@ Reform and Modernization Division	17011
 Refugees Division	18437
 Reg. Division	13189
 Regional Integration Division	10634
-Regional Integration Economic Diversification Business	10837,1315,188
+Regional Integration Economic Diversification Business	10837,1315,188,7598
 Regional Integration and Trade Division	10819
 Register of Divorces	18440
 Registration Division	13189,5776
@@ -1515,6 +1518,7 @@ Tax Laws Division	12629
 Tax Operation Division	12500
 Tax Policy and Legal Division Ministry of Finance	15014
 Tax Systems Division	12500
+Taxation The Customs Division	19943
 Taxpayers Division	12629
 Tech Start Diversification	19534
 Technical and Digital Education Division	18975

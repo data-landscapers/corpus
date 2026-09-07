@@ -238,6 +238,7 @@ CAPÍTULO V COMUNICAÇÕES ELECTRÓNICAS Artigo	15
 CAR ARCEP Electronic Communication and Postal Services	969
 CAR Emergency Electricity Supply and Access Project	15702
 CARIMBOS DE TEMPO ELECTRÓNICOS	11582
+CARTE NATIONALE D'IDENTITE ELECTRONIQUE	19946
 CBG Payments Pricing Policy. The Electronic	16844
 CBOS Launches Electronic Integration of Import and Export	15051
 CDE District Election Commission CEDAW Convention	12201
@@ -610,7 +611,8 @@ Datos Electrónicos	16855
 Deborah Sorie The Electoral Commission	14351
 Decentralized Rural Electrification Systems	16900
 Declaração Electrónica Mod	12018
-Dedicated Electronic Money Issuer	7325
+Dedicated Electronic Money Issuer	7325,12615
+Dedicated Electronic Money Issuers	19940,28
 Deepening Uganda E-Cash Electronic Cash EFT	19647
 Deepfake Election	7445
 Default Outcome Where No Election	4896
@@ -618,8 +620,8 @@ Delimitation of Electoral Boundaries	13501
 Demarcation of Electoral Boundaries	15927
 Democracy and Election Management	13561
 Democracy and Electoral Assistance	11909
-Democratic Elections	10759,76,2,1,130,902,16,1,1,1,264,1,9,38,139,1,11,1,135,7164,1,169,14,22,1,65
-Democratic Elections Deliberative	10759,78,1315,188
+Democratic Elections	10759,76,2,1,130,902,16,1,1,1,264,1,9,38,139,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Democratic Elections Deliberative	10759,78,1315,188,7598
 Department of Electricity and Energy	11215,14,43
 Department of Energy and Electricity	11272
 Department of Veterans Affairs E-NPRS Electronic National	12923
@@ -699,6 +701,7 @@ E-GP Electronic Government Procurement FSS Fiscal	18500
 E-Mail Electronic Mail EMR Electronic Medical	34
 E-Waste Definitions Electronic	1988
 E-commerce Programs Electronic	16872
+E-money Electronic Money EMV Europay	19940
 E-tax. Facturation Electronique Normalisée	18973
 E. Electricity	13060
 E. Electronic Services	12500
@@ -1041,6 +1044,7 @@ Election of Deputies	17934
 Election of Deputy Speaker	18436
 Election of District Council Chairman	18467
 Election of Internal Auditors Article	15027
+Election of MMDCEs	19937
 Election of Members	14409
 Election of Mr. Speaker	18436
 Election of President	13501,158
@@ -1320,7 +1324,7 @@ Electricity Biofuels	17257
 Electricity Box	11136
 Electricity Capacity	12261,1363
 Electricity Code	15659,4166
-Electricity Company of Ghana	11132,4608,164,692
+Electricity Company of Ghana	11132,4608,164,692,3363,7,10
 Electricity Company of Ghana FDI Foreign	4126
 Electricity Complaints Chatbot	18566
 Electricity Connection	12389
@@ -1348,6 +1352,7 @@ Electricity Disputes Tribunal The Electricity Disputes	19646
 Electricity Distributer Organize	12399
 Electricity Distribution	12358,7238
 Electricity Distribution Companies of Nigeria	11129
+Electricity Distribution Company	19976
 Electricity Distribution Industry	11272
 Electricity Distribution Infrastructure	12256
 Electricity Distribution Law	15659
@@ -1614,6 +1619,7 @@ Electrification Fund	11923
 Electrification Issue	14947
 Electrification Master Plan	12680
 Electrification Planning	11923,268
+Electrification Planning Electrification Targets	19943
 Electrification Project Operational Manager	18736
 Electrification Rural Garantir	13433
 Electrification Rurale	10975,2458,2109,81,79,297,613,901,298,292,219,898,19,2,36,18
@@ -1637,6 +1643,7 @@ Electrification Zone Bir Zar- Tataouine Electrification	19439
 Electrification and Renewable Energy	899
 Electrification du Littoral Nord	17907
 Electrify	899,11334
+Electrify Off-Grid Communities Lala	19959
 Electrify Over	11229
 Electrify Schools Nationwide	15132
 Electrifying	11572
@@ -1759,7 +1766,7 @@ Electronic Communication Equipment	718
 Electronic Communication and Transaction Act No	12467
 Electronic Communication and Transactions Act No	13346,1
 Electronic Communications	236,736,2632,1097,84,129,4002,3479,137,417,22,207,40,243,561,1599,635,843,1718,428
-Electronic Communications Act	11,225,160,191,1108,121,301,560,99,161,9,1637,149,328,748,64,61,250,284,72,347,5,15,462,32,356,71,1,22,130,109,72,12,62,347,527,650,810,228,249,144,6,15,24,24,3,3,643,518,504,19,229,1515,936,414,1169,512
+Electronic Communications Act	11,225,160,191,1108,121,301,560,99,161,9,1637,149,328,748,64,61,250,284,72,347,5,15,462,32,356,71,1,22,130,109,72,12,62,347,527,650,810,228,249,144,6,15,24,24,3,3,643,518,504,19,229,1515,936,414,1169,512,2233
 Electronic Communications Act No	7827
 Electronic Communications Act. The Company	11230
 Electronic Communications Amendment Act	5872
@@ -1799,6 +1806,7 @@ Electronic Communications and Transactions	1814,5464,8658
 Electronic Communications and Transactions Act	396,613,1717,1,2465,2086,3901,10,7,69,308,959,54,344,392,81,13,96,54,6098
 Electronic Communications and Transactions Act No	11196,1180,77,892,1,1
 Electronic Communications and Transactions Framework	12129
+Electronic Communications. Ghana	19957
 Electronic Community Health Information System	1219,10554,473,9,7556
 Electronic Company Name Verification	12389
 Electronic Congo Development	11960
@@ -1878,6 +1886,7 @@ Electronic Funds Transfer for PAPSS	12000
 Electronic Funds Transfers	12286,293,377,576,3703
 Electronic Gazette	12562,760
 Electronic Gazette PART VII GENERAL PROVISIONS	13322
+Electronic General Counterfoil Receipt	19956
 Electronic General Receipt	15066
 Electronic General Receipts	15066
 Electronic Govern	18767
@@ -1962,7 +1971,7 @@ Electronic Invoicing System Administration Directive WHEREAS	14129
 Electronic Invoicing System Introduce	16968
 Electronic Issuance of Company Incorporation Certificate	12389
 Electronic Journal	12467
-Electronic Journal of Information Systems	5349,5377,7024,1
+Electronic Journal of Information Systems	5349,5377,7024,1,2193
 Electronic Journal of Knowledge Management	8021
 Electronic Journals and Scientific Databases In Ministry	12325
 Electronic Know Your Customer	8971,4105,1886,3511
@@ -2003,6 +2012,7 @@ Electronic Money Institution	17728
 Electronic Money Institutions	3407,72,1779,2545
 Electronic Money Institutions. Automated Teller Machines	7803
 Electronic Money Issuance	12542,990
+Electronic Money Issuer DESFT Digital Economy	19940
 Electronic Money Issuers	7763,7837
 Electronic Money Regulation	18702
 Electronic Money Transfer Levy	9113
@@ -2052,6 +2062,7 @@ Electronic Payment of Court Fees	12389
 Electronic Payment of Taxes	12389
 Electronic Payments	12000,490,425,1759
 Electronic Payments And Digital Reforms Take	10328
+Electronic Payments Cards	19940
 Electronic Payments Introduced	16253
 Electronic Payments Platforms	14879
 Electronic Payments and Collections	12000
@@ -2137,7 +2148,7 @@ Electronic Transaction Bill	13357
 Electronic Transaction Proclamation No	13987
 Electronic Transaction-Act	16594
 Electronic Transactions	28,3833,3061,1543,423,606,1417,1303,703,54,1456,394,542,150,40,591,1601,1138,362
-Electronic Transactions Act	410,29,148,444,132,726,1116,53,381,6,111,31,127,2066,940,220,333,504,494,121,812,1447,688,211,664,18,750,13,53,23,2,116,1064,117,12,331,15,24,69,29,348,431,1479,1448,327,756,3,159
+Electronic Transactions Act	410,29,148,444,132,726,1116,53,381,6,111,31,127,2066,940,220,333,504,494,121,812,1447,688,211,664,18,750,13,53,23,2,116,1064,117,12,331,15,24,69,29,348,431,1479,1448,327,756,3,159,156
 Electronic Transactions Act. Namibia	10651
 Electronic Transactions B. Ghana	17745
 Electronic Transactions Bill	4583,8330
@@ -2156,9 +2167,9 @@ Electronic Transactions and E-	28
 Electronic Transactions and Electronic Commerce	6720
 Electronic Transactions and Electronic Communications Bill	12674
 Electronic Transactions and Fintech Innovation	17745
-Electronic Transfer	15600
-Electronic Transfer Levy	7695,7905
-Electronic Transfer Levy Act	15600
+Electronic Transfer	15600,4366
+Electronic Transfer Levy	7695,7905,4371
+Electronic Transfer Levy Act	15600,4357
 Electronic Transfer Levy Management and Assurance System	15600
 Electronic Transferable Records	3556,7162,4034
 Electronic Transferable Records Each State Party	15641
@@ -2259,6 +2270,7 @@ Energie Electrique Ouest Africain	19295
 Energie Electrique SBIN Société Béninoise	15583
 Energie Electrique TCN Transmission Company of Nigeria	12062,6124,31
 Energie Electrique du Congo	15455,514
+Energy Access Deficit National Electrification Rate	19943
 Energy Generated Electrical	12256
 Energy REDs Regional Electricity Distributors SADC	12399
 Energy Trade Electricity	16964
@@ -2468,7 +2480,7 @@ Ghana Electronic Document Wallet Ecosystem	16474
 Ghana Electronic Document Wallet Initiative	16474
 Ghana Electronic Procurement System	7457
 Ghana Investment Fund for Electronic Communication	11,571
-Ghana Investment Fund for Electronic Communications	11,225,346,4545,232,2595,410,8848
+Ghana Investment Fund for Electronic Communications	11,225,346,4545,232,2595,410,8848,2754
 Ghana Investment Fund for Electronic Communications. Object	11
 Global Electrification Database	11572
 Global Electrification Platform	11572
@@ -2536,6 +2548,7 @@ HEC. III- Electoral	15393
 HISP Electronic Medical Records	16224
 HREA High Resolution Electricity Access ICT	12006
 HRMIS Electronic Human Resource Management Information	16922
+Hazardous and Electronic Waste Control and Management Act	19943
 Head of Electronic	4994
 Health Connect EMR Electronic Medical Records	18478
 Health Electrification and Telecommunications Alliance	19529
@@ -2619,7 +2632,7 @@ Identification France Secure Electronic Titles File	10714
 Identities Electronically	16590
 Identity Card Yes Electronic ID Card	10714
 Identity Yes Electronic ID Card	10714
-Identité Electronique	547,17277
+Identité Electronique	547,17277,2122
 Imagen Electrónica de Documen	16855
 Impact of Electricity	13624
 Impact of Electricity Access	13624
@@ -3200,6 +3213,7 @@ Nimule Electrification Project	18736
 Non-functional Electronic	19715
 Northern Electricity Company Limited	15904
 Northern Electricity Distribution Company	15740,856
+Northern Electricity Distribution Company Limited	19976
 Northern Regional Electricity Distribution Company	12399
 Nos AUTORITE NATIONALE INDEPENDANTE DES ELECTIONS	15467
 Notice of Elections	10049
@@ -3236,6 +3250,7 @@ Operadores de Comunicações Electrónicas	6970,4460,1
 Operadores de Servicios de Comunicaciones Electrónicas	16855
 Operation Name Guinea Electricity Access Scale	16654
 Operation Name P501343 Strengthening Electricity Services	15969
+Operation of Electronic Payment Channels	19948
 Operationalize National Electrification Funding Portfolio	12399
 Operationalize the Electricity Act	11136
 Operations of Electronic Payment	16878
@@ -3448,6 +3463,7 @@ Public Notice TRANSITION FROM ELECTRONIC FISCAL	4699
 Public Sector Hospital Electronic Medical Record	11980
 Public Service ICT Electronic Government Interoperability	13308
 Publicación Electrónica	16855
+Publication of Electricity Tariffs	19976
 Publish the Electricity Distribution Industry	11236
 Punto de Acceso Electrónico	16855
 Puntos de Acceso Electrónico. Los Puntos de Acceso	16855
@@ -3517,6 +3533,7 @@ Regional Electricity Distributor GDP Gross Domestic	12399
 Regional Electricity Distributors	12399,642,92
 Regional Electricity Regulators Association	12969
 Regional Electricity Regulatory Authority	18537
+Regional Off-Grid Electricity Access Project	19943
 Regional Off-Grid Electricity Access Project RPF	11549
 Register CESW Customs Electronic Single Window	18500
 Register of Electors	14788
@@ -3556,6 +3573,7 @@ Reliability and Quality of Electricity Supply	12389
 Reliability of Electricity Supply	12389
 Reliability of Electricity Transmission Infrastructure	19596
 Remisión de Expedientes Electró	16855
+Renewable Electrification Unit	19943
 Renewable and Efficient Electricity Service	15983
 Repeals Kenya Nuclear Electricity Board Order	14422
 Report General and Provincial Assembly Elections	12201
@@ -3605,7 +3623,7 @@ Rural Electrification Plan	2391,9997
 Rural Electrification Programme	13123,351,948
 Rural Electrification Programme Fund	14422
 Rural Electrification Project	16275
-Rural Electrification Rate	12191
+Rural Electrification Rate	12191,7752
 Rural Electrification Rate Number	11923
 Rural Electrification Strategy	14947
 Rural Electrification The Government	7763
@@ -3979,7 +3997,7 @@ Universel des Communications Electroniques	18931
 Unsolicited Commercial Electronic Communications	15641
 Unsure Electronic Transactions	12214
 Updates of Electricity and Petroleum Report	14933
-Urban Electrification Rate	11923,268
+Urban Electrification Rate	11923,268,7752
 Use of Census Data for Electoral Purposes	18531
 Use of Census Data for Electoral Purposes Lastly	18531
 Use of Electronic Com	19365

@@ -173,10 +173,11 @@ Background Uganda Security Printing Company	1282
 Backup and Recovery Infrastructure. Security	12917
 Bamboo Securities LLC Data Controller INST-770198D6179	7167
 Bank Supervision and Information Security	11131
+Bank of Ghana Cyber and Information Security Directive	19968
 Bank of Ghana’s Cyber and Information Security Directive	6940
 Bank of Mauritius Securities	14728,2
 Banking Sector Security Operations Centre	17746
-Banking Services Labour Relations Secure Employment	10759,78,1315,188
+Banking Services Labour Relations Secure Employment	10759,78,1315,188,7598
 Baseband Security	10721
 Baseline Security	19801
 Baseline Security Clearance	19801
@@ -208,6 +209,8 @@ Birr ETCSA Electronic Transactions and Cyber Security	14674
 Blueline Security Data Controller INST-488388D184C NAKURU	7167
 Blueline Security Data Processor INST-488388D184C NAKURU	7167
 Bn Food Security Rs	14830
+BoG Cyber and Information Security Directive	19968
+BoG’s Cyber and Information Security Directive	19968
 BoN Secures Half Billion Worth of Gold	10465
 Body Information Network Security Administration Information	14113
 Body The Ministry of Labour and Social Security	13700
@@ -358,6 +361,7 @@ Cloud Security Alliance	8405,3547
 Cloud Security Below	9123
 Cloud Security Engineer	19801
 Cloud Security Guiding Principles	16924
+Cloud Security Measures Required	19968
 Cloud Security Principles	16924
 Cloud Security Standard	9123
 Cloud Security Working Group Cloud Architecture	16924
@@ -468,7 +472,7 @@ Cyber Security And Data Perfomance Sector	12395
 Cyber Security And Personal Data	1243
 Cyber Security Appeals Search	2727
 Cyber Security Assessment Report	2709
-Cyber Security Authority	587,188,1114,935,867,435,360,97,1352,1001,178,492,1142,17,2,1,128,51,781,114,1,226,179,56,1,71,7,1,565,183,567,2992,1025,1857
+Cyber Security Authority	587,188,1114,935,867,435,360,97,1352,1001,178,492,1142,17,2,1,128,51,781,114,1,226,179,56,1,71,7,1,565,183,567,2992,1025,1857,2384,9
 Cyber Security Authority Annual	6936
 Cyber Security Authority CSA	6936
 Cyber Security Authority Establishment	587
@@ -562,7 +566,7 @@ Cyber Security and Metallurgy	15315
 Cyber Security and Monitoring Centre	972
 Cyber Security and Other ICT Legislative Initiatives	13295
 Cyber Security and Personal	9399
-Cyber Security and Personal Data Protection	958,3,1,238,43,21,123,148,242,772,1312,563,383,277,29,131,163,33,47,1449,61,681,514,1207,386,935,44,1,10,44,843,499,140,612,5,41,253,134,111,388,35,554,1,493,309,1,1676,22,81,728,868,522
+Cyber Security and Personal Data Protection	958,3,1,238,43,21,123,148,242,772,1312,563,383,277,29,131,163,33,47,1449,61,681,514,1207,386,935,44,1,10,44,843,499,140,612,5,41,253,134,111,388,35,554,1,493,309,1,1676,22,81,728,868,522,822
 Cyber Security and Personal Data Protection AfCFTA	12055,1402
 Cyber Security and Personal Data Protection. Aligning	5244
 Cyber Security and Personal Data Protection. Document	5244
@@ -663,11 +667,13 @@ Data Privacy and Security	12356,7215,324
 Data Privacy and Security Baselines Minimum	3861
 Data Privacy and Security Establish Open Data	15713
 Data Protection and Security	11995,4929
-Data Security	2117,1162,4269,2307,1299,1926,15,286,1783,320,1440,2774
+Data Security	2117,1162,4269,2307,1299,1926,15,286,1783,320,1440,2774,270
 Data Security Controls and Standards	11956
 Data Security Law	8277,2073
+Data Security Measures	19968
 Data Security Policy	10721
 Data Security Protocol	19712
+Data Security Safeguards	19951
 Data Security Security	21
 Data Security Sensitive	18747
 Data Security Standard	434
@@ -680,6 +686,7 @@ Data Security and Privacy	12360
 Data Security and Protection	17164
 Data Security and Risk Management Purpose	15164
 Data Security and Risk Management137 List of Figures	15164
+Data Security and Technical Controls Evaluate	19968
 Data Sovereignty and Security	18556
 Data Storage Secure	5244
 Data and National Security Concerns African	6226
@@ -715,7 +722,7 @@ Description Cyber Security and Data Security. Human	11131
 Description Security	1449
 Description USAID Cyber Security Activity	1567
 Designated Account. Security	10829
-Deterioration No Change Not Classified SECURITY	10837,1503
+Deterioration No Change Not Classified SECURITY	10837,1503,7598
 Develop and Implement Security	1000
 Device ICT Affordability Security	12359
 Digital Code. Security	11880
@@ -808,6 +815,7 @@ Empower Tomorrow. One Identity. Simple. Secure	12291
 Enables Secure Remote Work	19755
 Enactment of Cyber Security Law	16885
 Encapsulating Security Payload	18774
+Encrypted Secure Interoperable Compliant Impact Supporting	19942
 Encrypted Security Payload	18774
 End-point Security	11231
 Endpoint Security	3279
@@ -922,7 +930,7 @@ Food Consumption FOOD SECURITY	17285
 Food Safety Management Systems and Information Security	14736
 Food Safety and Security	19783
 Food Secure	19715
-Food Security	1828,1516,1184,5348,89,192,602,9,67,2,1,130,217,54,93,75,62,401,16,1,1,1,263,1,1,9,31,146,1,11,1,135,434,1,41,510,1279,17,4,44,11,1,11,6,50,323,1033,852,180,1094,82,282,161,625,123,1,62,107,14,22,1,65
+Food Security	1828,1516,1184,5348,89,192,602,9,67,2,1,130,217,54,93,75,62,401,16,1,1,1,263,1,1,9,31,146,1,11,1,135,434,1,41,510,1279,17,4,44,11,1,11,6,50,323,1033,852,180,1094,82,282,161,625,123,1,62,107,14,22,1,65,14,1
 Food Security CBG Central Bank	17285
 Food Security CHAPTER NINETEEN	14409
 Food Security Classification	17285
@@ -1021,7 +1029,9 @@ General Security Framework	15550,71
 General Security Requirements	13037
 Germany Consortium Veridos. Uganda Security Printing	1282
 Ghana Cyber Security Authority Launches	14698
+Ghana Energy Security and Climate	19943
 Ghana Link's Information Security Management System	16170
+Ghana Revenue Service and National Security	19936
 Ghana Takes Major Step Towards Secure	3384
 Ghana's Cyber Security Authority	17745
 Ghana. Securing	9007
@@ -1081,6 +1091,7 @@ HOME AFFAIRS AND INTERNAL SECURITY ENVIRONMENTAL	1988
 HOUSEHOLD DEMOGRAPHIC CHARACTERISTICS FOOD SECURITY	17285
 HOUSEHOLD FOOD SECURITY AND NUTRITION SITUATION	18683
 HSM and Security Specialist	15080
+Handling Security Accidents and Breaches	19968
 Hardware Security Modules	11952
 Have Secured the Bank of Ghana EPSP	6368
 Having Public Secure Network	16885
@@ -1323,7 +1334,7 @@ Ivoire’s Ministry of Interior and Security and China Railway	551
 Ivoire’s National Agency for Information System Security	8073
 J LAGUIPRESS SECURITY MINING SARLU LAGUIPRESS	16623
 J.P. Morgan Securities LLC	7198
-JUSTICE SECURITY	10835,2,131,918,454,12,1,135,7334
+JUSTICE SECURITY	10835,2,131,918,454,12,1,135,7334,116
 January-2026 FOOD SECURITY SNAPSHOT Cereal	19054
 Japan Organisation for Metals and Energy Security	2626
 Jessica Heller REI Cameroon Secures	10993
@@ -1682,7 +1693,7 @@ National Public Security Command Centre. LAZ	5626
 National Secure ID Agency	18931
 National Secured Credentials Agency	18933
 National Securities Depository Ltd	6692
-National Security	587,188,225,2493,90,278,1,264,1118,421,3083,148,1548,561,272,718,927,34,167,1741,1348,623,99,279,1244
+National Security	587,188,225,2493,90,278,1,264,1118,421,3083,148,1548,561,272,718,927,34,167,1741,1348,623,99,279,1244,1478,1
 National Security Act	5083,14429
 National Security Adviser	1014,2369,342,217,1273,1926,307,46,1117,501,118,439,85,401,155,293,86,440,728,71,67,150
 National Security Adviser OEM Original Equipment	11857
@@ -1696,7 +1707,7 @@ National Security Authorities	15484
 National Security Co-ordinator	587
 National Security Committee	4188
 National Security Coordinator	587,17853,9
-National Security Council	11,5332,2591,3343,4215,1088,1897
+National Security Council	11,5332,2591,3343,4215,1088,1897,1474
 National Security Council Act	16973
 National Security Council Secretariat	587,16383
 National Security Council’s Secretary	15492
@@ -2016,11 +2027,12 @@ Protection and Security Services	11285
 Protection and Security of Personal Data	12146
 Protection des Données CIS Center of Internet Security	15472
 Protocol Security IS Information Systems ISP	13185
+Protocol for Sustainable and Secure Data Sharing	19964
 Proven Security Features	15080
 Provide Safe and Secure Solutions	12287
 Provider Security Server	11952
 Provisions for Unaffiliated Security Holders	7198
-Public Perception of Security	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Public Perception of Security	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Public Secure Network	16885
 Public Security	2427
 Public Security Department	19863
@@ -2061,8 +2073,8 @@ RISA RISA RISA Digital Identity and Security	12359
 RISA RISA RISA Secure Infrastructure Communication	12359
 RSA Rivest Shamir Adleman Data Security	19647
 RSSB Rwanda Social Security Board RUDP	15138
-RULE OF LAW SECURITY	10759,76,2,1,130,902,16,3,451,12,1,135,7334
-RULE OF LAW Security	10759,78,1052,263,2,9,177,1,7312
+RULE OF LAW SECURITY	10759,76,2,1,130,902,16,3,451,12,1,135,7334,116
+RULE OF LAW Security	10759,78,1052,263,2,9,177,1,7312,285
 Radiation Safety and Nuclear Security Act	14745
 Radiation Safety and Nuclear Security Authority	14745,1,101
 Radiation Safety and Nuclear Security Authority Name	14745
@@ -2107,7 +2119,7 @@ Roaming Kits Over Regulatory and Security Concerns	5990
 RoboCare Secures Funding	9385
 Role of SOC Teams and Security Leaders	13532
 Royal United Services Institute for Defence and Security	4127
-Rule of Law Security	10837,1315,188
+Rule of Law Security	10837,1315,188,7598
 Ruminant Enhancement Project SSHFC Social Security	17105
 Rural Economy Development and Food Security	14002
 Rural Households’ Food Security	19284
@@ -2140,6 +2152,7 @@ SAST Static Application Security Testing SCA	11952
 SCAP-RU and SOS Security	17962
 SCHEDULE Cyber Security	2727
 SEARCH BY SECURITY INTEREST	13333
+SEC Securities and Exchange Commission SEPA Single	19940
 SECURE	10765,10
 SECURE DIGITAL PUBLIC SERVICES	3604
 SECURE PROPERTY RIGHTS	17127
@@ -2185,7 +2198,7 @@ SECURITIES OTHER THAN SHARES	3714
 SECURITIES OTHER THAN SHARES Creation	3714
 SECURITIES REGISTRATIONS AND TRANSFERS	3714
 SECURITIES REGISTRATIONS AND TRANSFERS Securities	3714
-SECURITY	1988,1873,6898,76,2,1,130,902,16,2,1,257,6,1,1,9,177,1,11,1,135,986,960,715,12,1051,672,1,50,7,2710,1,169,14,22,1,65
+SECURITY	1988,1873,6898,76,2,1,130,902,16,2,1,257,6,1,1,9,177,1,11,1,135,986,960,715,12,1051,672,1,50,7,2710,1,169,14,22,1,65,14,1
 SECURITY AGENCY	2727
 SECURITY AGENCY Second Respondent MINISTER	2307
 SECURITY AND CONTROLS	16878
@@ -2282,7 +2295,7 @@ Sector Security	14997
 Sector-Specific Security Requirements	5665
 Secur	5242,3881
 Secur1it1y.8anSdeAccucrietyssanCdoAnctrcoel	10157
-Secure	21,13,361,504,110,152,43,39,282,415,48,620,69,706,743,94,308,180,99,726,58,86,113,280,85,115,162,172,603,71,35,1,234,48,495,514,530,311,1205,56,14,171,64,174,5,14,87,686,18,12,34,1,223,1,42,103,3,25,35,25,9,5,54,20,142,43,9,43,236,9,23,106,26,16,129,31,36,121,30,171,375,22,282,52,7,125,28,80,103,41,1,2,58,71,47,37,127,60,60,61,131,45,72,14,109,264,654,241,12,40,15,79,81,17,11,15,246,307,85,10,112,391,159,26,53,6,3,343,20,142,214,317,26,153,46
+Secure	21,13,361,504,110,152,43,39,282,415,48,620,69,706,743,94,308,180,99,726,58,86,113,280,85,115,162,172,603,71,35,1,234,48,495,514,530,311,1205,56,14,171,64,174,5,14,87,686,18,12,34,1,223,1,42,103,3,25,35,25,9,5,54,20,142,43,9,43,236,9,23,106,26,16,129,31,36,121,30,171,375,22,282,52,7,125,28,80,103,41,1,2,58,71,47,37,127,60,60,61,131,45,72,14,109,264,654,241,12,40,15,79,81,17,11,15,246,307,85,10,112,391,159,26,53,6,3,343,20,142,214,317,26,153,46,167
 Secure APIs	14997
 Secure Access	15061
 Secure Affordable and Universal Access	16872
@@ -2329,7 +2342,7 @@ Secure Domain Controllers	10721
 Secure ESP Funding	15604
 Secure Electronic Signature	12930
 Secure Electronic Signatures	12532
-Secure Employment Opportunities	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Secure Employment Opportunities	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Secure Employment Opportunities ACCOUNTABILITY	10835,3,130,902,16,466,1,135,7334
 Secure Enjoy	10956
 Secure Environment	1000
@@ -2424,7 +2437,7 @@ Secured Transactions	7763,4626,2372,4914
 Secured Transactions Law and Regulation	18792
 Secured Transactions Legal and Regulatory Framework	12598
 Secured and Shared Infrastructure	12359
-Securely	5533,6419,34,2766,5049
+Securely	5533,6419,34,2766,5049,155
 Securely and Remotely Access Services	11940
 Secures	14601,396,1945
 Securinets	19485
@@ -2446,7 +2459,7 @@ Securing Morocco	17503
 Securing NIPN Zambia's Future	13578
 Securing Our Digital Future	6968
 Securing Solutions	18125
-Securing Trust	6936,3448
+Securing Trust	6936,3448,9580
 Securing Trust In Ghana's Digital Future	6936
 Securing Trust In Ghana’s Digital Future	6936
 Securing Trust In Ghanda’s Digital Future	6936
@@ -2491,7 +2504,7 @@ Securities Transactions	7198
 Securities Transfer Tax Act	11181
 Securities Transfer Tax Administration Act	11181
 Securities and Exchange Act	13311
-Securities and Exchange Commission	10,2816,1044,72,660,2336,260,143,68,39,46,692,753,291,304,420,201,115,1387,42,277,400,33,902,36,185,2880
+Securities and Exchange Commission	10,2816,1044,72,660,2336,260,143,68,39,46,692,753,291,304,420,201,115,1387,42,277,400,33,902,36,185,2880,3528
 Securities and Exchange Commission Shall	13347
 Securities and Exchange Commission of Zimbabwe	940
 Securities and Exchange Commission. Legal	8788
@@ -2507,7 +2520,7 @@ Securitized and Multipurpose Biometric ID Cards	18471
 Securitized and Multipurpose ID Cards	18471
 Securitized and Multipurpose Identity Card	18471
 Securitized and Multipurpose National	18471
-Security	21,6,7,548,201,6,172,9,2,28,9,211,113,127,14,156,56,56,86,49,63,48,129,219,141,197,35,349,72,156,149,169,110,147,241,426,35,47,51,99,101,354,29,12,107,59,207,36,108,19,33,491,100,6,1,9,10,323,126,328,259,70,2,25,446,1,383,117,148,397,1,55,6,317,9,400,47,37,44,66,5,19,84,31,33,113,21,105,258,3,4,34,5,1,54,10,6,2,1,71,3,1,43,12,82,79,1,1,2,1,2,44,1,3,4,5,92,34,217,334,16,1,1,1,7,4,22,30,3,29,11,69,82,6,1,1,9,2,1,19,16,8,1,1,16,6,20,4,83,1,11,1,11,1,2,7,26,31,22,4,18,13,24,18,99,22,30,216,22,10,43,5,28,32,5,11,18,51,63,53,73,8,2,1,9,14,2,29,9,10,79,58,27,65,407,154,155,17,52,13,19,8,67,50,65,33,53,2,8,11,52,29,15,46,8,19,12,28,18,32,22,15,24,23,21,47,12,1,2,178,131,45,56,55,29,3,10,174,81,10,276,362,26,239,2,1,25,11,6,1,30,8,1,10,36,3,15,126,99,151,15,24,34,57,224,152,36,30,189,95,116,13,9,88,11,19,110,40,7,250,102,61,14,185,222,49,10,1,3,3,42,1,8,1,42,7,4,1,13,1,2,3,9,35,47,52,21,14,22,1,1,30,5,29
+Security	21,6,7,548,201,6,172,9,2,28,9,211,113,127,14,156,56,56,86,49,63,48,129,219,141,197,35,349,72,156,149,169,110,147,241,426,35,47,51,99,101,354,29,12,107,59,207,36,108,19,33,491,100,6,1,9,10,323,126,328,259,70,2,25,446,1,383,117,148,397,1,55,6,317,9,400,47,37,44,66,5,19,84,31,33,113,21,105,258,3,4,34,5,1,54,10,6,2,1,71,3,1,43,12,82,79,1,1,2,1,2,44,1,3,4,5,92,34,217,334,16,1,1,1,7,4,22,30,3,29,11,69,82,6,1,1,9,2,1,19,16,8,1,1,16,6,20,4,83,1,11,1,11,1,2,7,26,31,22,4,18,13,24,18,99,22,30,216,22,10,43,5,28,32,5,11,18,51,63,53,73,8,2,1,9,14,2,29,9,10,79,58,27,65,407,154,155,17,52,13,19,8,67,50,65,33,53,2,8,11,52,29,15,46,8,19,12,28,18,32,22,15,24,23,21,47,12,1,2,178,131,45,56,55,29,3,10,174,81,10,276,362,26,239,2,1,25,11,6,1,30,8,1,10,36,3,15,126,99,151,15,24,34,57,224,152,36,30,189,95,116,13,9,88,11,19,110,40,7,250,102,61,14,185,222,49,10,1,3,3,42,1,8,1,42,7,4,1,13,1,2,3,9,35,47,52,21,14,22,1,1,30,5,29,14,1,29
 Security A Licensee	762
 Security Accreditation	19801
 Security Accreditation Security	19801
@@ -2536,6 +2549,7 @@ Security Audit. Acts	783
 Security Audits Regular	13381
 Security Authenticatio	11952
 Security Authority	4126,10572,466
+Security Authority CGAP Consultative Group	19940
 Security Authority SME Small and Medium Enterprise	14745
 Security Authority of Ghana	12232
 Security Authority the AI	4126
@@ -2723,7 +2737,7 @@ Security Policy ISO	10721
 Security Policy and Procedures	14921
 Security Positive	9129
 Security Program	17011
-Security Public Perception of Social Protection	10837,1315,188
+Security Public Perception of Social Protection	10837,1315,188,7598
 Security Push	5792
 Security Questions	16958
 Security R MINTER SMTDP	15845
@@ -2731,7 +2745,7 @@ Security RISA RISA RISA Operation	12359
 Security Ratings	17156
 Security Regulatory Authority SWO Social Welfare	19531
 Security Req-1	13037
-Security Requirements	6432
+Security Requirements	6432,13532
 Security Review	1243,6779,754,461,8543
 Security Risk Appetite	19801
 Security Risk Assessment	783,10046,6285
@@ -2750,6 +2764,7 @@ Security Risks Over	12182
 Security Risks Security	6432
 Security Roles and Responsibilities	19801
 Security Roles and Responsibilities National	19801
+Security Safeguards Evaluate the CSP	19968
 Security Sector	0,1655
 Security Sector Reform. Sustainable	17431
 Security Sector Training	17139
@@ -2758,7 +2773,7 @@ Security Secured	14725
 Security Security	11943,1153,3828
 Security Server	11952
 Security Servers	17097
-Security Services	11986,2750
+Security Services	11986,2750,5199,1
 Security Services Data Management	17870
 Security Services Services Analytics Integration Registries	396
 Security Services. The NFMC	5245
@@ -2813,6 +2828,7 @@ Security and Cooperation Framework	11210
 Security and Cybersecurity Controls Control Area Description	6432
 Security and Cybersecurity European Commission	1449
 Security and Data Privacy	13346
+Security and Data Protection	19935
 Security and Data Protection ADLVRS and OVRS	17142
 Security and Data Protection Accessibility Decision Making	14790
 Security and Defence Dialogue	11210
@@ -2988,7 +3004,7 @@ Social Transfer for Nutrition Security CAPI Computer	16867
 Social and Security Specialists	18623
 Solidarity and Social Security	18797
 Somalia's Minister of Internal Security	5045
-Sources SECURITY	10759,76,2,1,130,902,16,3,274,177,1,11,1,135,7334,36
+Sources SECURITY	10759,76,2,1,130,902,16,3,274,177,1,11,1,135,7334,36,80
 South Africa's National Computer Security Incident	8897
 South African Social Security Agency	2307,307,138,191,535,124,1065,193,172,1800,545,123,81,329,557,130,1292,79,371,809,66,8,3,11,424,337,32,94,2070,3546
 South African Social Security Agency Act	2307

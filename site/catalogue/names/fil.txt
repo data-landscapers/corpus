@@ -218,6 +218,7 @@ File Bank of Tanzania	2857
 File CIT	12676
 File Count	11268,1405,1172
 File Dispute Online	12389
+File Form	19961
 File Format	3972,11260,3848
 File My Return	12454
 File Online Payment Receipt	14675
@@ -227,10 +228,12 @@ File Photo The U.S	10068
 File President Dr Samia Suluhu Hassan	5883
 File Returns	573,2588
 File Server	16927
+File Shareholder	19961
 File Size	9854,1414,1405,1172
+File Special Resolution	19961
 File System NOC Network Operating Centre	13185
 File Tanzania	8135
-File Transfer	12395
+File Transfer	12395,7566
 File Transfer Protocol GB Gigabyte GHz	34
 File Type	8831
 File and Pay Taxes	12389
@@ -287,6 +290,7 @@ Filing Filing	13053
 Filing Guidance Air Cargo Manifest User	12454
 Filing Person	7198
 Filing Persons	7198
+Filing Professional Bodies	19961
 Filing Requirements	12389
 Filing Season	8784
 Filing Service Centre	14784,1
@@ -297,11 +301,14 @@ Filing Systems	12389
 Filing and Enforcement CIT	13053
 Filing and Manage Your User Profile	11276
 Filing and Payment	12389
+Filing for Incorporated Partnerships	19961
 Filing for Tax	10785
+Filing of Annual Returns	19961
 Filing of DST	573
 Filing of NDP Act Compliance Audit Returns	11956
 Filing of Salaries and Wages	17011
 Filing of Salaries and Wages Filing	17011
+Filings External Companies	19961
 Filingué	2778,15373
 Filingué Elhadj AOUBA AHMED	18151
 Filingué. Cette	18191
@@ -348,6 +355,7 @@ Filles Total Filles	10847
 Filling	972,2915,5430,1625,1588,5,11,3,853,68,4970,25,2
 Filling Annual	12483
 Filling FY2026	19742
+Filling for Incorporated Companies	19961
 Filling of Council	12531
 Filling of Form EC10	19805
 Filling of Funded Vacant SMS	11218
@@ -625,6 +633,8 @@ Return Filing	13053
 Richard Filakota Selon	8063
 Route Filingué	18191
 S. Filipe	1948
+S1 File. Minimal	19974
+S2 File. Minimal	19974
 SAHEL Filles	10847
 SAHEL OUDALAN Filles	10847
 SANGUIE Filles	10847

@@ -61,7 +61,7 @@ Acceptation Avis	10708
 Acceptation des Paiements Offre	10711
 Acceptations	17485
 Accepte	14432
-Accepted	2518,5241,51,211,1,108,246,226,2,1,1,522,109,112,304,86,1041,4,127,685,331,63,100,72,16,53,15,9,190,63,159,758,698,543,225,232,901,1749,7,2120
+Accepted	2518,5241,51,211,1,108,246,226,2,1,1,522,109,112,304,86,1041,4,127,685,331,63,100,72,16,53,15,9,190,63,159,758,698,543,225,232,901,1749,7,2120,74
 Accepted Contract	13185
 Accepted Everywhere	14273
 Accepted Papers	16467
@@ -111,6 +111,7 @@ Disabilities Acceptance	11765
 E. Final Acceptance Testing Conduct	13185
 EDUCATION FINANCIERES Q53 Accepteriez-vous	13390
 EXIT OFFER ACCEPT THE EXIT OFFER	4896
+Essential Only Accept All Cookies	19942
 FI Financial Accounting GAAP Generally Accepted	13420
 False Acceptance Rate	10812
 Final User Acceptability Testing Completed	16853

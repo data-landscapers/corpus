@@ -1,4 +1,4 @@
-Absence of Undue Influence	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Absence of Undue Influence	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 African Average Inflation Rate	6938
 Analysis of Stakeholder Interests and Influence	17099
 Annual Average Headline Inflation	15023
@@ -7,7 +7,7 @@ Annual Inflation Projections	11131
 Antigénio de Superfície da Hepatite B Haemophilus Influenzae	10777
 Asia. Inflation	17104
 Average Headline Inflation Trend	17235
-Balances Absence of Undue Influence Civic Checks	10759,78,1315,188
+Balances Absence of Undue Influence Civic Checks	10759,78,1315,188,7598
 Banking Services Absence of Undue Influence Freedom	10759
 Billion Nominal Revenue Growth Inflation Rate	14985
 Bn AMOUNTING TO INFLATION DEVELOPMENTS Due	15023
@@ -114,7 +114,7 @@ Infliger	17822
 Inflow	6408
 Inflows	10841,4056
 Influenc	17127
-Influence	940,5625,744,548,164,109,6295,197,871,231,1403,1351,1041,359,12
+Influence	940,5625,744,548,164,109,6295,197,871,231,1403,1351,1041,359,12,84
 Influence Index	12210
 Influence Interest Matrix	12210
 Influence National Achieve	11131
@@ -162,6 +162,7 @@ Middle Powers Can Build Influence	5029
 Mitigating the Malign Influence Foreign	6950
 National Consumer Price Indices and Rates of Inflation	2775
 National Quality Assurance Framework International Influence	15760
+Njoroge KM. Influence	19974
 No. Platform Inflow Outflow Net Inflow	17235
 Outflows Net Inflows Inflows	17235
 Output and Inflation	11140

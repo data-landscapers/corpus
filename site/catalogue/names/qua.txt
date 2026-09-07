@@ -68,7 +68,7 @@ Agency for Healthcare Research and Quality	8604,2176
 Agricultural Quarantine	4811,453,53,458,129
 Aimee Vyda Quashie	7464
 Air Emissions and Ambient Air Quality	17114
-Air Quality	8891,1868,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,986,6178,1,169,14,22,1,65
+Air Quality	8891,1868,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,986,6178,1,169,14,22,1,65,14,1
 Air Quality Act	11228
 Air Quality Index IRI	18309
 Air Quality Management Centre CLIMDEV	18309
@@ -263,6 +263,7 @@ Circular Economy Soil Management Air Quality	4126
 Cloud Service Providers Qualification Requirements	17534
 Cloud and Quantum Computing	13346
 Code of Conduct. Quality	17114
+Collection Quality Assurance Data Sharing Social	19942
 Comité Directeur. Quant	16646
 Commercial Quality Indicator Standard	14867
 Commercial Quality of Electricity	14867
@@ -379,6 +380,7 @@ DQa Routine Data Quality Assessment	15711
 DU CONTROLE QUALITE DES REDRESSEMENTS Article	15999
 Dahua Développement Ressources QUALIFIANTE ET	15744
 Data Collection and Quality Assurance Data	17043
+Data Integrity Quality Assurance	19942
 Data Production and Quality	17116
 Data Production and Quality Data Production and Quality	17116
 Data Quality	27,2748,1086,399,3288,4048,555,31,231,259,964,8,921,469,680,1690,1290
@@ -519,8 +521,8 @@ EXTERNAL RESOURCES Basis for Qualified Opinion	14546
 Ebow Quayson	8442
 Ecole Quartier	19840
 Education Access and Quality Improvement Project	15550
-Education Education Quality Public Perception of Education	10837,1315,188
-Education Quality	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1503,5661,1,169,14,22,1,65
+Education Education Quality Public Perception of Education	10837,1315,188,7598
+Education Quality	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1503,5661,1,169,14,22,1,65,14,1
 Education Quality Project	19835
 Education Quality SADC Southern African Development	13310
 Education Standards and Quality Assurance Council	899
@@ -721,7 +723,7 @@ Health Data Quality Intervention	10881
 Health Facility Quality Index	16896,26
 Health Information Technology Systems and Quality of Care	10784
 Health Network Quality Improvement System IAM	14442
-Health Quality	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Health Quality	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Health Quality Public Perception of Female Leadership	12488
 Health Unit QEHSSSP Quality Essential Health	18478
 Heliodoro Quaresma Ponto Focal CNULCD	18760
@@ -941,7 +943,7 @@ MEPA Quarterly	12253
 MFSMCG Elements of Quality	14777
 MINIMUM REQUIREMENTS FOR CONSULTANT'S QUALIFICATIONS	3678
 MINTER GIFTY QUAYE MINTER PROMISE AKUA	15845
-MIS Quarterly	5349,471,2851,457,109,5429
+MIS Quarterly	5349,471,2851,457,109,5429,5278
 MIS Quarterly. Sep	10919
 MISSÃO Quanto	18788
 MODERNISATION DE L'INFRASTRUCTURE QUALITE T DEVELOPPÈME	15999
@@ -967,7 +969,7 @@ Mandatory Quarterly Level AA	11952
 Mansa Konko Staff Quarters	16896,26
 Marchant T. Quality	771
 Materials Modeling ABINIT Quantam Espresso OpenMX	9475
-Maternal Health Health Quality Public Perception	10837,1315,188
+Maternal Health Health Quality Public Perception	10837,1315,188,7598
 Mauritian Quality Infrastructure	14736
 Mauritian Quality Infrastructure. Institutional Development	14736
 Mauritius Qualifications Authority	7845,395,6579,10,18
@@ -1178,6 +1180,7 @@ Os Concorrentes Qualificados	18753
 Outcome Quarterly Commission Legislative Instrument Outcome	15845
 Output Quarterly	15845
 Overall Quality of Official Statistics	17149
+Overview of USAID Quality Services of Health Activity	19974
 P1 Qualidade	15966
 P2 Quais	18799
 P8 Quais	18799
@@ -1282,6 +1285,7 @@ Private and Cabinet Office First Quarter Performance	13226
 Privé PV Photovoltaïque QER Quality Enhancement	16037
 Prize Winner-Loreto College Quatre-Bornes Figure	14745
 Procedures Time Cost Quality	18109
+Process Data Collection Quality Assurance Data	19942
 Processes Measurement Data Quality Measurement Roles	15034
 Product Quality	1000
 Productivity and Quality Improvements	14738
@@ -1310,7 +1314,7 @@ Projeto Educação de Qualidade	18765
 Projeto Quantum	17147
 Promote Quality-Declared Seed	14818
 Promoter Score Point of Sale Quarterly Gross	11134
-Promoting Quality	11923,268
+Promoting Quality	11923,268,7752
 Promotion of Quality	14736
 Promoção da Qualidade	11550
 Proposta de Quadro de Referência	2816
@@ -1705,7 +1709,7 @@ Qualifying Small Enterprises	11209
 Qualifying Training and Employment	15553
 Qualisys Consulting	11555,5530
 Qualisys Consulting Limited	11555,5530
-Qualitative	445,454,320,42,727,105,1698,3041,446,270,582,2058,631,316,1111,221,1471,1101,83,98,1109,29,256,526,1575,39,787,119,114,104
+Qualitative	445,454,320,42,727,105,1698,3041,446,270,582,2058,631,316,1111,221,1471,1101,83,98,1109,29,256,526,1575,39,787,119,114,104,96
 Qualitative Analysis	5349
 Qualitative Data Collected	11935
 Qualitative Exploratory Study	226
@@ -1726,7 +1730,7 @@ Qualitative and Quantitative Study	15460
 Qualitatively	10852,2126
 Qualitus Ketjimambo	10358
 Qualitus Ketjimambo. Wide-ranging	10358
-Quality	25,2,209,530,5,169,18,12,2,189,48,73,2,534,67,890,876,123,17,1455,103,316,386,781,116,256,74,355,130,367,294,15,628,1708,9,45,52,67,15,1,169,1,22,60,277,364,6,11,7,37,37,196,24,24,28,110,9,49,53,103,100,55,51,143,29,102,27,146,14,92,4,5,1,11,27,27,2,31,28,15,43,182,301,4,9,98,336,14,290,8,6,15,10,78,7,26,5,2,1,4,22,13,23,39,30,99,23,15,80,167,163,30,23,32,2,70,12,17,29,244,111,68,224,178,225,12,33,2,6,8,22,5,12,3,5,13,18,171,138,154,134,294,1,88,13,138,200,61,71,17,71,14,14,21,49,127,157,40,31,302,190,45,2,11,10,2,11,2,19,58,115,86,5,90,1
+Quality	25,2,209,530,5,169,18,12,2,189,48,73,2,534,67,890,876,123,17,1455,103,316,386,781,116,256,74,355,130,367,294,15,628,1708,9,45,52,67,15,1,169,1,22,60,277,364,6,11,7,37,37,196,24,24,28,110,9,49,53,103,100,55,51,143,29,102,27,146,14,92,4,5,1,11,27,27,2,31,28,15,43,182,301,4,9,98,336,14,290,8,6,15,10,78,7,26,5,2,1,4,22,13,23,39,30,99,23,15,80,167,163,30,23,32,2,70,12,17,29,244,111,68,224,178,225,12,33,2,6,8,22,5,12,3,5,13,18,171,138,154,134,294,1,88,13,138,200,61,71,17,71,14,14,21,49,127,157,40,31,302,190,45,2,11,10,2,11,2,19,58,115,86,5,90,1,35
 Quality AI	12210
 Quality Activity	16863
 Quality Analysis Fee	18541
@@ -1877,6 +1881,7 @@ Quality School Education GCR Gross Completion	18460
 Quality Scorecard and KPIs Data Catalogue and Glossary	15034
 Quality Security Use	1243
 Quality Service	12977,5820
+Quality Service for Health	19974
 Quality Standards	4130
 Quality Standards and Awareness	12399
 Quality Standards for Health	17157
@@ -1939,6 +1944,7 @@ Quality of ICR	14888,2072
 Quality of ICR Rating High	14888,2072
 Quality of ICR Rationale The ICR	10779
 Quality of ICR The ICR	14888,2072
+Quality of Information	19951
 Quality of Justice	17441
 Quality of Life	14736
 Quality of Life Index	16049
@@ -1953,7 +1959,7 @@ Quality of Official Statistics	17149
 Quality of Official Statistics Types	17149
 Quality of Reports and Information	12376
 Quality of Rwandan Supply	12445
-Quality of Service	718,491,75,3246,202,436,77,431,68,457,633,112,1342,822,404,50,1292,1001,744,15,355,207,7,146,227,49,544,523,193,282,78,145,1463,51,89,212,1257,41
+Quality of Service	718,491,75,3246,202,436,77,431,68,457,633,112,1342,822,404,50,1292,1001,744,15,355,207,7,146,227,49,544,523,193,282,78,145,1463,51,89,212,1257,41,1481
 Quality of Service Findings for Mobile Voice and Data	5744
 Quality of Service KPIs	9110
 Quality of Service Key Performance Indicators	9110
@@ -2088,7 +2094,7 @@ Quantifying the Revenue Yields	10997,1951
 Quantiles T1 Top	10764
 Quantilope	7278
 Quantitatifs	748
-Quantitative	2948,843,3968,371,246,753,487,1934,458,289,1060,628,1137,1066,783,168,10,8,491,1067,522,297,42,69,15,218
+Quantitative	2948,843,3968,371,246,753,487,1934,458,289,1060,628,1137,1066,783,168,10,8,491,1067,522,297,42,69,15,218,96
 Quantitative Analysis	12978,354
 Quantitative Engineering Design	12240
 Quantitative Impacts The Qualitative Impacts	16885
@@ -2173,11 +2179,12 @@ Quarkus	13042
 Quarries	10873,8729
 Quarry	17105,2656
 Quarrying	2775,4171,11537,58
+Quart J Econ	19974
 Quarta	2581,1494,1221,692,81,291,349,235,22,149,195,849,3233,37,3,5,42
 Quarta Feira	18896
 Quarta-feira	5169,1801,4395,1408,4,2663,582,2873
 Quartafeira	17147
-Quarter	1988,1020,1509,11,2450,1481,140,400,592,481,1062,84,18,41,19,690,255,154,517,59,1,4,104,593,1001,49,62,47,8,57,100,1189,662,36,94,59,1407,707,405,57,28,19,187
+Quarter	1988,1020,1509,11,2450,1481,140,400,592,481,1062,84,18,41,19,690,255,154,517,59,1,4,104,593,1001,49,62,47,8,57,100,1189,662,36,94,59,1407,707,405,57,28,19,187,119
 Quarter Africa Post Tax and Budget	19641
 Quarter Annual Planned Outputs Cumulative	19641
 Quarter Bank of Zambia Peer Learning Sessions	11131
@@ -2714,6 +2721,7 @@ Testing and Quality	11216
 Testing and Quality Assurance	11216,725,459,2527
 Testing and Quality Assurance Reports	16600
 Textbook Ratio SQARM School Quality Assurance	18460
+Thelma Efua Quaye	19947
 Thelma Quaye	10450
 Thematic Qualifications	17287
 Third Quarter	2776,8376,104,1716,4
@@ -2756,6 +2764,8 @@ UNDPMalawi. UNDP Malawi Quarterly Progress Report	12241
 UNHCR ADDS Quarterly	13938
 UNHCR Quarterly	13938
 UQF Uganda Qualifications Framework	19807
+USAID Quality Services for Health	19974
+USAID Quality Services for Health Activity	19974
 Uganda Qualifications Framework	19807
 Uganda. Disability Stud Quarterly	12231
 Uige. Quarta-feira	539

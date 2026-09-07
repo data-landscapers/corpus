@@ -49,8 +49,8 @@ Economie Numérique QUELQUES INDICATEURS SOCIO-ECONOMIQUE	17824
 Enabler of Rapid Socio-Economic Development	16861
 Ensure Socio-Economic Development	11134
 Ensure Socio-economic	11131
-Equal Civil Liberties Equal Socioeconomic Opportunity	10837,1315,188
-Equal Socioeconomic Opportunity	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Equal Civil Liberties Equal Socioeconomic Opportunity	10837,1315,188,7598
+Equal Socioeconomic Opportunity	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Equal Socioeconomic Opportunity Sustainable Use of Land	10838
 Equipement Socio-Administratif BF	15475
 Estudios Sociodemográficos	16962
@@ -176,7 +176,7 @@ Socio-Technical	12007
 Socio-Technical Imaginaries of Digital Personal Data	11028
 Socio-cul	13005
 Socio-cultural	16951
-Socio-demographic	1219,6667,2840,144,1376,2650,2231
+Socio-demographic	1219,6667,2840,144,1376,2650,2231,2847
 Socio-demographic Characteristics	17127
 Socio-demographic Characteristics Influence	17127
 Socio-demographic Characteristics Proportion	17127
@@ -205,7 +205,7 @@ Sociodemographic Restrictions for Domestic Entrepreneurs	12389
 Socioecon	5242
 Socioecon Challenges	5242
 Socioeconom	17157
-Socioeconomic	1867,73,8872,157,915,1,10,264,1,44,1,73,19,54,4,132,3171,67,1389,25,150,214,367,1685,307,3
+Socioeconomic	1867,73,8872,157,915,1,10,264,1,44,1,73,19,54,4,132,3171,67,1389,25,150,214,367,1685,307,3,87
 Socioeconomic Background	15604
 Socioeconomic Benefits Calculations	18485
 Socioeconomic Benefits Calculations. Chapter	18485
@@ -214,11 +214,11 @@ Socioeconomic Conditions	18948
 Socioeconomic Empowerment for Poor and Vulnerable Households	16384
 Socioeconomic Indicators	17503
 Socioeconomic Indicators Its Human Development Index	17503
-Socioeconomic Inequality Mitigation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
-Socioeconomic Inequality Mitigation Decent Housing Food	10837,1315,188
+Socioeconomic Inequality Mitigation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Socioeconomic Inequality Mitigation Decent Housing Food	10837,1315,188,7598
 Socioeconomic Living Conditions of Refugees	10841
 Socioeconomic Opportunities Project	18625,1
-Socioeconomic Opportunity for Women	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Socioeconomic Opportunity for Women	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Socioeconomic Opportunity for Women Anti-Corruption	10835,3,130,902,16,466,1,135,7334
 Socioeconomic Profiling of Sundaneses	10841
 Socioeconomic Snapshot	12297
@@ -233,6 +233,7 @@ Socioeconomic and Measures	17157
 Socioeconomic and Policy Implications	17157
 Socioemotional	16942
 Sociol	15429
+Sociol Methods Res	19974
 Sociologia	414,15358,1248
 Sociologia-	15772
 Sociological	13005

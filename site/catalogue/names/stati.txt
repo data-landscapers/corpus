@@ -591,6 +591,7 @@ Community Radion Stations Community Radio Presence	8999
 Community Stations-	18444
 Community Statistics Implementation of PNSD IV	19744
 Community Statistics. Local Government Statistics Database	19744
+Comparative Payment System Statistics	19940
 Compilation and Publication of Macroeconomic Statistics	10508
 Compilation of National Natural Resource Statistics Report	19519
 Complaints Procedure. Court Statistics	13251
@@ -675,6 +676,7 @@ DE STATISTIQUES ET D’ÉTUDES	13300
 DEATH STATISTICS Key	15056
 DEATHS STATISTICS	15056
 DEMANDE DE DONNÉES ET OFFRE STATISTIQUE	17842
+DEMI Statistics	19940
 DES AUTRES STRUCTURES STATISTIQUES PUBLIQUES SPECIALISEES	15351
 DES COMPETENCES EN PRATIQUES STATISTIQUES EN	18169
 DES DONNEES STATISTIQUES	15530
@@ -1081,6 +1083,8 @@ GENERATION OF VITAL STATISTICS	12413
 GENERATION OF VITAL STATISTICS NISR	15056
 GESTION DES STATISTICIENS ET DEMOGRAPHES	18291
 GMA and GIA Directorate of Statistics	16927
+GNHR Process Statistics News	19942
+GNHR Process Statistics Overview	19942
 GRA Statistics and Data Analysts' Seminar	11038
 GSARS Global Strategy for Agricultural and Rural Statistics	19554
 GSBPM Generic Statistical Business Process Model	12902
@@ -1113,7 +1117,7 @@ Generate and Communicate Fit-for-Purpose Statistics	17116
 Generic Statistical Business Process Model	15077
 German Federal Statistical Office. Mobile	9149
 Get Requested Statistics	17149
-Ghana Statistical Service	236,346,2802,2640,50,434,455,339,1809,308,1662,3132,1415,1,111,189,51,226,333,3,61,546
+Ghana Statistical Service	236,346,2802,2640,50,434,455,339,1809,308,1662,3132,1415,1,111,189,51,226,333,3,61,546,2813,4,8
 Ghana Statistical Service Act	16206
 Ghana Statistical Service Development Partners	15980
 Ghana Statistical Service HISWAP Harmonising and Improving	15628
@@ -1123,6 +1127,7 @@ Ghana Statistical Service. Accordingly	15740
 Ghana's Statistical Service	9419
 Ghana. Deputy Government Statistician Omar Seidu	9111
 Ghana. Energy Statistics and Balances	15740
+Ghana’s Civil Registration and Vital Statistics	19962
 Global Civil Registration and Vital Statistics. Scaling	10819
 Global Commemoration of World Statistics Day	9708
 Global Health Workforce Statistics. Geneva	7548
@@ -1244,6 +1249,7 @@ III.3. Statistiques	13414
 III.4 STATISTIQUES DU TRANSPORT	13500
 III.TABLEAUX STATISTIQUES	13500
 IIP Statistics	14777
+ILO Labour Statistics	19966
 IMF Statistics Department	14777,2458
 IMF's International Financial Statistics	10985
 IMF's Statistics Department	11554,419,3778
@@ -2091,6 +2097,7 @@ Parliament. The Statistics Act	18475
 Partenariat Statistique	15501,2343
 Partnership for Statistics for Development	766
 Payment Systems Statistics	13479
+Payments Statistics	19940
 Per-operator Base Stations	6000
 Perceived Accuracy of Official Statistics	17149
 Perceived Reliability of Official Statistics	17149
@@ -2707,7 +2714,7 @@ Statistic Bureaus	16874
 Statistic Management	16944
 Statistic Prob. C	236
 Statistic SL	18488
-Statistical	115,1040,57,3220,1771,220,552,784,845,525,1851,218,3,36,57,284,7,309,11,101,361,247,29,35,28,193,2,58,351,33,16,59,61,619,496,125,58,83,2,759,40,64,12,1126,29,35,187,2,23,10,292,98,936,50,99,3,1,458,433,7,31,69,123,138
+Statistical	115,1040,57,3220,1771,220,552,784,845,525,1851,218,3,36,57,284,7,309,11,101,361,247,29,35,28,193,2,58,351,33,16,59,61,619,496,125,58,83,2,759,40,64,12,1126,29,35,187,2,23,10,292,98,936,50,99,3,1,458,433,7,31,69,123,138,87
 Statistical Abstract	12138
 Statistical Abstracts	12138
 Statistical Act	11860,2097,2982,2580
@@ -2776,6 +2783,7 @@ Statistical Master Plan Phase	19519
 Statistical Methodology	19555
 Statistical Methods	11237,5690,358
 Statistical National Statistical System Census System	16863
+Statistical Newsletter Q4	19966
 Statistical Office	12706
 Statistical Officer	12768,2047,17
 Statistical Officers	16867
@@ -2816,11 +2824,11 @@ Statistical Standards	11237,7508
 Statistical Studies and Communication Division	19093
 Statistical Support and Informatics	11237
 Statistical Systcln	11852
-Statistical System	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,871,3504,223,1158,1408,1,169,14,22,1,65
+Statistical System	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,871,3504,223,1158,1408,1,169,14,22,1,65,14,1
 Statistical System Absence of Forced Migration	10835,3,130,902,16,466,1,135,7334
 Statistical System Child	10838
 Statistical System Coordination Unit	16863
-Statistical System Effective Administration Tax	10759,78,1315,188
+Statistical System Effective Administration Tax	10759,78,1315,188,7598
 Statistical System OAP Other Accounts Payable	14777
 Statistical System Presented	15760
 Statistical System Sub-total of Strategy	16863
@@ -3054,6 +3062,7 @@ Statistics South Africa. The XMUVI	11258
 Statistics South Africa’s General Household Survey	11195,67
 Statistics Statistics	5050,494,389,353,79,194,162,177,2871,7094
 Statistics Statistics Help	5322
+Statistics Statistics Overview Regional	19942
 Statistics Statistics Storage	13363
 Statistics Strategy	16863
 Statistics Sub-total of Strategy	16863
@@ -3613,6 +3622,7 @@ Vaincrons CONSEIL NATIONAL DE LA STATISTIQUE	15961
 Vallee Pitot Police Station	14760
 Vehicle Examination Station. With the Axle	14753
 Vehicle Inspection Stations	13060
+View Statistics Regional	19942
 Visa Statistique	16616
 Visa Statistique N	13300,90
 Visa Statistique du Ministre	16616
@@ -3652,7 +3662,7 @@ W IPO Intellectual Property Statistics	12487
 WAPIS Work Stations	18486
 WB’s Statistical Capacity Score	13314
 WHAT’S NEW IN ICT STATISTICS Page	11424
-WIPO Intellectual Property Statistics	10969,915,11,264,1,44,1,146,4,7507
+WIPO Intellectual Property Statistics	10969,915,11,264,1,44,1,146,4,7507,90
 WIPO Statistics Database	11883
 WOMEN’S EMPOWERMENT METRIC FOR NATIONAL STATISTICAL	17127
 Water Pumping Stations	12436

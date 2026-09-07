@@ -9,6 +9,7 @@ AI Innovation Fund	13461,1105
 AI National Infrastructure Fund Fund	7548
 AI Research Fund	6132
 AIDS Trust Fund	6921
+ATU Universal Service Fund Policy	19966
 AVANDA Fund of Funds and South Africa	12376
 About the Global Fund The Global Fund	3385,9117
 About the OPEC Fund The OPEC Fund	18561
@@ -277,6 +278,7 @@ Clean Technology Fund	17524,1901,56
 Climate Change Fund	5247
 Climate Fund Energy	7548
 Climate Fund and Global Environment Facility	16975
+Climate Investment Fund	19943,16
 Climate and Sustainability Fund	14830
 Co-Develop Fund	2171,2465,2084
 Codevelop Fund	12366
@@ -406,7 +408,7 @@ Diaspora-Linked Finance and Recovery Fund	15179
 Digital Africa Seed Fund	10275
 Digital Africa Seed Fund. In France	3036
 Digital Economy Fund	1169,1,8618
-Digital Economy and Innovation Development Fund	8364
+Digital Economy and Innovation Development Fund	8364,11602
 Digital Entrepreneurship Support Fund	16144
 Digital Financial Services Electronic Fund Transfer	12701
 Digital Innovation Fund	14752
@@ -429,7 +431,7 @@ Disability Trust Fund	13122
 Disabled Persons Fund	13420
 Disaster Relief Emergency Fund	13140
 Disbursement and Flow of Fund Arrangements	15661
-Displacement Monitoring Centre IFAD International Fund	10759,78,1052,451
+Displacement Monitoring Centre IFAD International Fund	10759,78,1052,451,7598
 District Assemblies Common Fund	789,6906
 District Development Fund	13420
 Djibouti Sovereign Fund	1712
@@ -772,7 +774,7 @@ Ghana Chamber Ghana’s National AI Fund	4126
 Ghana Education Trust Fund	9202
 Ghana Education Trust Fund Levy	16038,1070
 Ghana Investment Fund for Electronic Communication	11,571
-Ghana Investment Fund for Electronic Communications	11,225,346,4545,232,2595,410,8848
+Ghana Investment Fund for Electronic Communications	11,225,346,4545,232,2595,410,8848,2754
 Ghana Investment Fund for Electronic Communications. Object	11
 Ghana Medical Trust Fund	15798,420
 Ghana National Research Fund	17546
@@ -782,8 +784,9 @@ Girls’ Scholarship Trust Fund	16951
 Global Biodiversity Fund	17101
 Global Development and South-South Cooperation Fund	19679,72,1
 Global Disability Fund Programme	13219
+Global Environment Fund	19943
 Global Environment Fund Trustee	15500
-Global Fund	392,170,375,97,1644,707,817,580,359,24,988,381,2695,200,1400,99,324,334,3,169,139,107,375,123,454,166,332,613,75,165,36,203,227,150,177,625,108,178,885,26,5,44,77,57,17,167,80,1310,58,325,540,169
+Global Fund	392,170,375,97,1644,707,817,580,359,24,988,381,2695,200,1400,99,324,334,3,169,139,107,375,123,454,166,332,613,75,165,36,203,227,150,177,625,108,178,885,26,5,44,77,57,17,167,80,1310,58,325,540,169,189
 Global Fund Board Meeting	14869
 Global Fund Data Science Catalytic Fund	392
 Global Fund Digital Health Impact Accelerator	937
@@ -1003,7 +1006,7 @@ International Fund for Agriculture Development Tree Crops	17274
 International Fund for Public	13461
 International Fund for Public Interest Media	13461
 International Fund of Agricultural Development	17870
-International Monetary Fund	1155,129,544,57,1693,5,21,6,43,474,917,97,106,1091,600,304,223,113,26,33,116,70,166,21,251,97,68,289,303,212,198,31,31,21,59,169,464,216,324,98,128,28,134,3,2,4,9,44,2,63,28,94,145,11,13,23,312,11,10,19,23,47,133,32,3,14,29,150,21,9,10,92,13,338,84,26,8,6,82,11,5,62,210,292,117,127,140,538,192,6,30,3,96,56,3,97,212,131,99,2,5,2,11,27,35,105,1,2,64,65,243,111,45,275,369,109,7,6,5,36,15,26,67,1,88,16,26,22,59,1,9,13,25,57,82,165,202,39,81,73,230,25,170,19,5,65,220,26,2,26,247,147,357,51,170,3,10,11,8,7,3
+International Monetary Fund	1155,129,544,57,1693,5,21,6,43,474,917,97,106,1091,600,304,223,113,26,33,116,70,166,21,251,97,68,289,303,212,198,31,31,21,59,169,464,216,324,98,128,28,134,3,2,4,9,44,2,63,28,94,145,11,13,23,312,11,10,19,23,47,133,32,3,14,29,150,21,9,10,92,13,338,84,26,8,6,82,11,5,62,210,292,117,127,140,538,192,6,30,3,96,56,3,97,212,131,99,2,5,2,11,27,35,105,1,2,64,65,243,111,45,275,369,109,7,6,5,36,15,26,67,1,88,16,26,22,59,1,9,13,25,57,82,165,202,39,81,73,230,25,170,19,5,65,220,26,2,26,247,147,357,51,170,3,10,11,8,7,3,107,6
 International Monetary Fund About the Global Innovation	11895,264
 International Monetary Fund BURUNDI SELECTED ISSUES	13624
 International Monetary Fund Code	11895
@@ -1018,7 +1021,7 @@ International Monetary Fund IMR	16951
 International Monetary Fund IOT Input Output	19519
 International Monetary Fund IP Internet Protocol	12663
 International Monetary Fund IPC	14857
-International Monetary Fund IPU Inter-Parliamentary Union	10759,78,1052,451
+International Monetary Fund IPU Inter-Parliamentary Union	10759,78,1052,451,7598
 International Monetary Fund IQR Interquartile Range	11258
 International Monetary Fund IRI Intermediate Results	11924
 International Monetary Fund KPI	16968
@@ -1960,7 +1963,7 @@ United Nations Children’s Fund USR Unified	10964
 United Nations Children’s Fund Vertical Expansion	10763
 United Nations Children’s Fund WASH Water	15518
 United Nations Children’s Fund. Available	15411
-United Nations FFP Fund for Peace FH	10759,78,1052,451
+United Nations FFP Fund for Peace FH	10759,78,1052,451,7598
 United Nations Fund for Population Activities	13938,684,1041
 United Nations International Children's Emergency Fund	12947,28,1467,3382,280,673
 United Nations International Children’s Emergency Fund	1824,8952,4777
@@ -1981,7 +1984,7 @@ Universal Access Development Fund	3378,2012,13055,1,8,31,19,11
 Universal Access Development Fund Board of Trustees	18445
 Universal Access Development Fund USB	18485
 Universal Access Development Fund. The IMF	3378
-Universal Access Fund	718,496,1137,1232,475,1190,148,2220,5030,552,1951,1686,15,22,4,10,89,84,201,610,263
+Universal Access Fund	718,496,1137,1232,475,1190,148,2220,5030,552,1951,1686,15,22,4,10,89,84,201,610,263,1833
 Universal Access Fund Gender and Women	16872
 Universal Access Fund V VSAT	14879,1993
 Universal Access Fund and Public Operators	718
@@ -2010,7 +2013,7 @@ Universal Service Access Fund	3264,7966,2967
 Universal Service Access Fund Access Gaps	19728
 Universal Service Development Fund	9756,168,2111,4907
 Universal Service Financing Fund	18931
-Universal Service Fund	958,265,647,30,688,325,64,433,98,238,782,334,430,111,131,14,683,715,476,126,1216,454,118,736,325,68,63,120,405,177,705,310,54,143,70,145,17,28,2,55,4,219,120,12,36,162,1,1,17,602,54,319,89,206,73,49,174,413,30,140,33,37,3,68,523,645,34,16,103,723,90,115,489,572,283,603
+Universal Service Fund	958,265,647,30,688,325,64,433,98,238,782,334,430,111,131,14,683,715,476,126,1216,454,118,736,325,68,63,120,405,177,705,310,54,143,70,145,17,28,2,55,4,219,120,12,36,162,1,1,17,602,54,319,89,206,73,49,174,413,30,140,33,37,3,68,523,645,34,16,103,723,90,115,489,572,283,603,149
 Universal Service Fund Activity	19214
 Universal Service Fund Activity. The Parties	19214
 Universal Service Fund Ad	10856

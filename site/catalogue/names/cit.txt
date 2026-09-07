@@ -94,6 +94,7 @@ Avec Sèmè City	16406
 B ETABLISSEMENETS OFFICE CITY EOC	16623
 BDIXP Burundi City	19806
 BO CITY	18476
+BOD Beneficial Ownership Disclosure CCC Citizens	19937
 BU. SMART CITY	645
 Bafoussam City Council and CAMTEL	303,7286
 Bahir Dar City	8671
@@ -453,7 +454,7 @@ Casa Finance City	17485
 Casablanca Finance City	17448
 Central Karoo City of Cape Town	8999
 Century City	8999,1812
-Certificate of Acquired Citizenship	5999,393
+Certificate of Acquired Citizenship	5999,393,13543,1
 Changement Citoyen	17861
 Chercheurs CITADEL	15494
 China Citic Bank	1430,714
@@ -469,7 +470,7 @@ Citadelle Mall	14847
 Citado	12844
 Citalic	18448
 Citant	8452,3627
-Citation	427,147,446,1679,10,1152,35,1791,627,608,532,208,510,13,8,267,142,1,1,1,1,206,44,12,1,122,358,1791,713,123,186,44,112,257,49,23,4,10,46,130,92,106,116,3,410,559,524,157,76,618,122,104,119,1,180,641,177,203,120,85,116,559,387,213,42,3,311,11,37,34,68,489,8,12,5,13,6,49,41,169
+Citation	427,147,446,1679,10,1152,35,1791,627,608,532,208,510,13,8,267,142,1,1,1,1,206,44,12,1,122,358,1791,713,123,186,44,112,257,49,23,4,10,46,130,92,106,116,3,410,559,524,157,76,618,122,104,119,1,180,641,177,203,120,85,116,559,387,213,42,3,311,11,37,34,68,489,8,12,5,13,6,49,41,169,151
 Citation Act	15562,3332
 Citation Act No	14449
 Citation Adetayo	9256
@@ -480,7 +481,7 @@ Citation Chapter	13311
 Citation Citation	15844
 Citation Citation Citation	15843,822
 Citation Eaves	7222
-Citation Formats ACM ACS APA	12467
+Citation Formats ACM ACS APA	12467,7477
 Citation GN No	19528
 Citation Government of Zimbabwe	4528
 Citation INTERPOL	6426
@@ -558,6 +559,7 @@ Citations and Acknowledgement The LICENSOR	18904
 Citação	10760,17,599
 Cite Administrative du Mali Facebook Youtube X-twitter	17822
 Cite Botha	12467
+Cite Kubuga	19944
 Cite This Article	12826
 Cite ThisDay	8659
 Cite the Index	6937
@@ -598,6 +600,7 @@ Cities and Urban Planning. Beirut	16916
 Cities&volume	2096
 Cities. The Commission	19737
 Citigroup Global Markets Limited	7198
+Citinewsroom	19944
 Citing	1243,452,767,2987,1691,2288,787,231,283,556,419,1757,555,36
 Citing CBN	7960
 Citing CIPESA	14664
@@ -726,7 +729,7 @@ Citizen Of Kenya Occurring Abroad	12151
 Citizen Onboarding for Ministries	12157
 Citizen Oriented Initiatives	14745,15
 Citizen PCF	6516
-Citizen Participation	11866,1552
+Citizen Participation	11866,1552,6519
 Citizen Participation Information System	19660,29
 Citizen Participation and Engagement	13418
 Citizen Paybill	17599
@@ -833,7 +836,7 @@ CitizenExperience Management	12359
 CitizenLab	9201
 CitizenTVKe	6133
 Citizenry	4528,7984,4431
-Citizens	395,360,203,42,780,313,289,207,633,43,113,115,102,15,5,246,37,59,12,158,79,39,27,14,277,189,103,259,130,105,50,49,46,102,504,112,100,31,28,16,65,65,81,38,67,90,143,268,267,138,48,157,72,127,61,181,179,278,10,67,17,164,8,378,91,75,78,52,44,34,183,46,103,84,124,70,113,7,57,80,54,21,53,50,185,3,1,42,167,23,35,22,12,355,30,216,1,9,33,9,33,1,98,114,1,52,10,21,30,29,14,12,5,21,1,13,80,222,296,35,8,47,54,193,5,1,31,39,4,30,55,134,42,31,311,88,158,40,14,49,101,214,32,39,3,12,1,10,9,118,56,30,54,15,174,104,150,78,13,126,166,892,121,14,12,1,17,14,8,15,10,21,5,8,42,114,237,15,50,178,99,551,180,25,3,192,199,673,74,18,5,86,24,59,40,40,5,8
+Citizens	395,360,203,42,780,313,289,207,633,43,113,115,102,15,5,246,37,59,12,158,79,39,27,14,277,189,103,259,130,105,50,49,46,102,504,112,100,31,28,16,65,65,81,38,67,90,143,268,267,138,48,157,72,127,61,181,179,278,10,67,17,164,8,378,91,75,78,52,44,34,183,46,103,84,124,70,113,7,57,80,54,21,53,50,185,3,1,42,167,23,35,22,12,355,30,216,1,9,33,9,33,1,98,114,1,52,10,21,30,29,14,12,5,21,1,13,80,222,296,35,8,47,54,193,5,1,31,39,4,30,55,134,42,31,311,88,158,40,14,49,101,214,32,39,3,12,1,10,9,118,56,30,54,15,174,104,150,78,13,126,166,892,121,14,12,1,17,14,8,15,10,21,5,8,42,114,237,15,50,178,99,551,180,25,3,192,199,673,74,18,5,86,24,59,40,40,5,8,37
 Citizens Access	17037
 Citizens Advice Bureau	11648
 Citizens Advice Bureaus	14742
@@ -841,6 +844,7 @@ Citizens Band Radio Station C2	17250
 Citizens Benefits	395
 Citizens Budget	14212,414
 Citizens Budget Satisfaction Survey	11866
+Citizens Complaint Centre	19937
 Citizens Core Objectives	395
 Citizens E- Feedback	11951
 Citizens Economic Empowerment Act	13305
@@ -851,6 +855,7 @@ Citizens Financial Total Planned Actual	19541
 Citizens First	14277
 Citizens G2G Government	13345,3538,1,1
 Citizens Government	12453
+Citizens Participation	19937
 Citizens Portal	19633
 Citizens Promoted Digital Literacy of Population	958
 Citizens Promoted ICTs	13295
@@ -912,6 +917,7 @@ Citizenship-by-Investment Program	18823
 Citizenship. Plus	18606
 Citizens’ Assembly Guidelines Revised Citizens’ Assembly	15208
 Citizens’ Assembly Guidelines Revised URL	15208
+Citizens’ Complaints Centre	19937
 Citizens’ Data Update Form	15811
 Citizens’ Fingertips The MOT-OVRS Mobile App	17142
 Citizens’ NINs	3955
@@ -1237,6 +1243,7 @@ Energy City of Johannesburg Alternative Waste Technology	11248
 Enfant CITES	18118
 Engagement Citoyen	8634
 English. Cite	8763
+Enhance Citizens’ Participation	19937
 Enhance City Living MTN Nigeria	2563
 Enhancement of Citizen Engagement Platforms	13080
 Enhancing Citizens Access	13331
@@ -1668,6 +1675,7 @@ Nouvelle Cite EAMAC	18194
 Nouvelle Citoyenneté	4092,1616,6208,4903
 Nouvelle Citoyenneté. Dans	4092
 Nyeri District and Nairobi City	12151
+OGP Commitments Citizens	19937
 OICA. Op. Cit	8891
 OPG Senegal.2.2. Citizen	18305
 Observation Citoyenne	16210
@@ -1721,6 +1729,7 @@ Philippe Dufaure de Citres	17846
 Plaintiff Public Citizen	5692
 Platforms for Citizen Interaction	19641
 Point City Freetown Country SL Continental	18579
+Political Leadership and Citizens	19937
 Population of Cities	19654
 Port Harcourt and Benin City	5874
 Port Loko City	18460,4
@@ -2004,7 +2013,7 @@ V. If Freetown City Council	18448
 VAT CIT	14897
 VAT and CIT	1828,11120
 VERSION DU CITOYEN REPUBLIQUE DU BENIN	2476
-Vancouver Download Citation Endnote	12467,19
+Vancouver Download Citation Endnote	12467,19,7458
 Victory City	15473
 Visit Buchanan City	17099
 Voinjama City	16970

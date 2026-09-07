@@ -789,8 +789,8 @@ Resident of Swaziland	12405
 Resident of Zimbabwe	736
 Residente	10754,8048
 Residentes	4209,7809,3337,37,41,589,2728
-Residential	718,2057,483,229,745,980,1680,531,3706,443,184,477,136,20,10,37,434,1208,668,48,42,161,337,137,2,1538,103,171,1179,1121,17
-Residential Address	12410,2368
+Residential	718,2057,483,229,745,980,1680,531,3706,443,184,477,136,20,10,37,434,1208,668,48,42,161,337,137,2,1538,103,171,1179,1121,17,374
+Residential Address	12410,2368,5169
 Residential Area	17285
 Residential Buildings	15578,1400
 Residential Care Facilities	12977
@@ -801,6 +801,7 @@ Residential Care Institutions for Children Regulations	14774
 Residential Child Care	12373
 Residential Child Care Facilities	12977
 Residential Child Care Facility	12977
+Residential Consumers	19976
 Residential Houses	11129
 Residential Land Partial	17114
 Residential Lite	4232,980,1680
@@ -867,7 +868,7 @@ Resignation of Auditors	18556
 Resignations	11134,1838
 Resili	9123
 Resilien	9123
-Resilience	789,153,28,1369,287,486,401,91,517,1791,256,264,1012,104,309,1814,288,762,120,123,167,2,129,113,91,494,44,594,258,186,121,396,495,17,49,31,313,6,83,206,59,179,123,10,34,80,98,317,318,698,136,131,33,126,56,713,13,264,309,360,95,609,281
+Resilience	789,153,28,1369,287,486,401,91,517,1791,256,264,1012,104,309,1814,288,762,120,123,167,2,129,113,91,494,44,594,258,186,121,396,495,17,49,31,313,6,83,206,59,179,123,10,34,80,98,317,318,698,136,131,33,126,56,713,13,264,309,360,95,609,281,140
 Resilience Action Network Africa	4674,3805
 Resilience And Land Global Practice Western	18198
 Resilience Assessment	11469
@@ -1199,7 +1200,7 @@ UN Resident Representative	13080
 UN Resident and Humanitarian Coordinator	13544
 UN Resident and Humanitarian Coordinator Mr. Edward	13544
 UNCDF Digital Financial Services for Resilience	12941
-UNCDF's Digital Finance for Resilience	18152
+UNCDF's Digital Finance for Resilience	18152,1826
 UNDER THE RESILIENCE AND SUSTAINABILITY FACILITY	17990
 UNDP Chief Digital Office UNDP Resident	12384
 UNDP Deputy Resident Representative	8531,4549,200,1911,1973,1573
@@ -1235,6 +1236,7 @@ UNFPA Nigeria Resident Representative Muriel Mafico	9540
 UNFPA Resident Representative	17331
 UNFPA Resident Representative Mr. John Musoti	12719
 UNFPA Resident Representative. Charting	7702
+UNICEF Resident Representative	19982
 UNICEF Resident Representative Mr. Noel Marie	15563
 USE OF BUILDING Fully Residential	11129
 United Nations Resident Coordinator	5742,7244,158,413,562,1768,1402,1240

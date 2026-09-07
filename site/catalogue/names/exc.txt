@@ -527,7 +527,7 @@ Exceeds	17068
 Exceeds N	13108
 Exceeds Targeted Impact Goals Across Liberia	17167
 Excei	3972
-Excel	7,245,96,1,2,1,112,1,5,1,158,4,2,112,93,5,2,1,1,169,48,1,3,1,1,1,1,2,2,1,108,255,4,1,1,3,5,1,1,1,1,2,362,160,1005,983,681,603,890,286,372,150,37,66,828,111,608,90,712,224,303,833,14,37,59,43,56,147,136,147,17,26,89,107,216,32,94,17,21,66,61,45,5,10,30,172,304,589,8,35,26,50,388,587,266,187,70,76,20,106,168,178,133,30,104,198,24,77,151,61,1,113,14,39,1,4,1,11,50,29,106,10,239,8,23,24,20,43,52,112,8,212,454,22,117,57,44,55,25,26,1,24,103,135,315,164,339,291,43,29,26,21,85,62,82
+Excel	7,245,96,1,2,1,112,1,5,1,158,4,2,112,93,5,2,1,1,169,48,1,3,1,1,1,1,2,2,1,108,255,4,1,1,3,5,1,1,1,1,2,362,160,1005,983,681,603,890,286,372,150,37,66,828,111,608,90,712,224,303,833,14,37,59,43,56,147,136,147,17,26,89,107,216,32,94,17,21,66,61,45,5,10,30,172,304,589,8,35,26,50,388,587,266,187,70,76,20,106,168,178,133,30,104,198,24,77,151,61,1,113,14,39,1,4,1,11,50,29,106,10,239,8,23,24,20,43,52,112,8,212,454,22,117,57,44,55,25,26,1,24,103,135,315,164,339,291,43,29,26,21,85,62,82,85
 Excel Calculation	17140
 Excel Joab	9739
 Excel Spreadsheet	19639
@@ -797,7 +797,7 @@ Excelência Senhor Embaixador	10753
 Excepcionalmente	549,2317,7890,632,64,1323,2605,16
 Excepciones	163,16692
 Exceplion	15429
-Except	3,8,574,658,581,164,1726,436,4,742,137,167,500,122,423,2621,257,1527,546,44,676,40,8,12,78,131,112,67,523,16,3,125,154,102,18,6,6,4,97,598,393,13,71,154,67,1,2,3,8,38,12,89,3,37,5,75,93,69,244,66,52,42,51,297,651,278,3,2,1,3,8,3,10,67,9,6,8,158,6,143,1044,133,2,1,13,13,2,2,135,185,99,28,300,313,99,8,111,108,1,6
+Except	3,8,574,658,581,164,1726,436,4,742,137,167,500,122,423,2621,257,1527,546,44,676,40,8,12,78,131,112,67,523,16,3,125,154,102,18,6,6,4,97,598,393,13,71,154,67,1,2,3,8,38,12,89,3,37,5,75,93,69,244,66,52,42,51,297,651,278,3,2,1,3,8,3,10,67,9,6,8,158,6,143,1044,133,2,1,13,13,2,2,135,185,99,28,300,313,99,8,111,108,1,6,91
 Except ADSU	14760
 Except Article One of Law	15102
 Except Indonesia	11964
@@ -843,7 +843,7 @@ Excess Energy	11228
 Excess Energy Composition	11228
 Excess Reserves	12882
 Excessiva	18794
-Excessive	1867,2661,1005,655,1468,551,1304,1252,93,120,898,7,465,166,2053,109,43,101,3012,1754,1
+Excessive	1867,2661,1005,655,1468,551,1304,1252,93,120,898,7,465,166,2053,109,43,101,3012,1754,1,381
 Excessive Deductions	19585
 Excessive Energy Consumption for Cooling and Operations	17114
 Excessive Privileges Assigned	19584
@@ -971,6 +971,7 @@ Excise Tax Stamp	17011
 Excise Tax Stamp System Implemented	18577
 Excise Tax-to-GDP	12500
 Excise and Income Taxes	13053
+Excise and Preventive Service	19936
 Excise and Preventive Service CFC Consumption of Fixed	236
 Excise-Duty-Act-2015-Revised-2021.pdf	14932
 Excises	1828
@@ -1048,7 +1049,7 @@ Exclusions This Supplementary Act	11517
 Exclusions and Carve-Outs	3861
 Exclusiva Digital	5568
 Exclusivamente	11373
-Exclusive	2677,85,389,976,117,432,400,171,144,1041,821,106,766,613,1707,384,221,1386,99,868,548,1178,1710,411,1191
+Exclusive	2677,85,389,976,117,432,400,171,144,1041,821,106,766,613,1707,384,221,1386,99,868,548,1178,1710,411,1191,1535
 Exclusive Access	18513
 Exclusive Analysis	5278
 Exclusive Breastfeeding	15247
@@ -1183,6 +1184,7 @@ Ghana Internet Exchange	3848
 Ghana Internet Exchange Association	10037
 Ghana Stock Exchange	5136,849,909,1131,149,340
 Ghana-India Kofi Annan Centre of Excellence	7954,3078,3320,965
+Ghana-Indian Kofi Annan Centre for Excellence	19966
 Ghana’s Debt Exchange and Cocoa Board Payments	17714
 Global South Centre of Excellence	18691
 God Bless Zimbabwe. His Excellency	13320
@@ -1692,6 +1694,7 @@ République du Burundi Son Excellence Evariste Ndayishimiye	13406
 SA-based Digital Exchange Port	7005
 SARS Director for Customs and Excise	14330,3292
 SCHEDULE OECD STANDARD FOR AUTOMATIC EXCHANGE	11233
+SEC Securities and Exchange Commission SEPA Single	19940
 SECURITIES EXCHANGE ACT	8939
 SEP Exchange	16926
 SIX Digital Exchange	9796
@@ -1724,7 +1727,7 @@ Securities Exchange	2775,12034,188
 Securities Exchange Act	7198,1741
 Securities Exchange Commission	12376,4859
 Securities and Exchange Act	13311
-Securities and Exchange Commission	10,2816,1044,72,660,2336,260,143,68,39,46,692,753,291,304,420,201,115,1387,42,277,400,33,902,36,185,2880
+Securities and Exchange Commission	10,2816,1044,72,660,2336,260,143,68,39,46,692,753,291,304,420,201,115,1387,42,277,400,33,902,36,185,2880,3528
 Securities and Exchange Commission Shall	13347
 Securities and Exchange Commission of Zimbabwe	940
 Securities and Exchange Commission. Legal	8788
@@ -1766,7 +1769,7 @@ Son Excellence Alassane OUATTARA	16351
 Son Excellence Ali Yousef Al Nuaimi	16357
 Son Excellence Apollinaire Joachimsom KYELEM de Tambèla	15676
 Son Excellence Brice Clotaire OLIGUI NGUEMA	16001,36,81,38,75,27,123,108
-Son Excellence Brice Clotaire Oligui Nguema	3581
+Son Excellence Brice Clotaire Oligui Nguema	3581,16382
 Son Excellence Denis Sassou N’Guesso	3173
 Son Excellence Dr Pierre Somse	16209
 Son Excellence Evariste Ndayishimiye	13405
@@ -2017,6 +2020,7 @@ VAT. Excise	12385
 VERBATIM EXCERPT	1807,5665,383
 VICTORIA FALLS STOCK EXCHANGE	4263
 Varton Edson Excellence	16100
+Vegetable Centre of Excellence	19966
 Vice Chairman and His Excellency Mr. Evariste	13440
 Vice President His Excellency Mohammed	17277
 Victoria Falls Stock Exchange	4263,35,598,642,1996

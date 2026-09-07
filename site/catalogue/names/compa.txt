@@ -6,6 +6,7 @@ ADD Companion	2258
 ADERA AND COMPANY Data Processor INST-48388899194	7167
 ADRIAN KAMOTHO NJENGA AND COMPANY ADVOCATES	7167
 AFS Company	1944
+AGNOS Legal Company	19964
 AI Company Data Initiative	5618,2730
 AI Company Data Initiative Thomson Reuters	5618
 AI Prosperity Compact	17428
@@ -470,9 +471,9 @@ Companhia São Tomense de Telecomunicações	18754
 Companhia São Tomense de Telecomunicações DFI Development	18754
 Companhia São-tomense de Telecomunicações	5557,13215,26
 Companhias	6970,8534
-Companies	571,165,163,878,110,631,91,769,205,131,193,84,685,296,141,89,22,239,155,182,10,10,44,478,79,250,63,194,18,25,44,283,391,62,263,166,26,10,132,11,27,258,609,31,286,72,39,28,160,542,181,45,101,60,3,40,202,107,12,62,19,33,274,173,131,168,60,260,34,46,118,165,207,65,200,102,158,60,23,686,156,31,235,89,25,3,64,298,175,1,209,447,662,118,92,161,11,291,260,199,47,113,611,37,15,64,177,805,110,16,156,35
+Companies	571,165,163,878,110,631,91,769,205,131,193,84,685,296,141,89,22,239,155,182,10,10,44,478,79,250,63,194,18,25,44,283,391,62,263,166,26,10,132,11,27,258,609,31,286,72,39,28,160,542,181,45,101,60,3,40,202,107,12,62,19,33,274,173,131,168,60,260,34,46,118,165,207,65,200,102,158,60,23,686,156,31,235,89,25,3,64,298,175,1,209,447,662,118,92,161,11,291,260,199,47,113,611,37,15,64,177,805,110,16,156,35,21
 Companies API Application Programming Interface	4214
-Companies Act	11,574,697,637,1795,919,263,467,509,1068,258,6,492,149,1021,642,270,137,77,801,437,10,10,26,3,762,301,51,133,2,14,20,88,247,9,46,347,12,87,99,40,29,856,33,91,167,4,3,8,40,41,10,16,2,2145,1453,28,3,77,13,48,279,69,79,487,6
+Companies Act	11,574,697,637,1795,919,263,467,509,1068,258,6,492,149,1021,642,270,137,77,801,437,10,10,26,3,762,301,51,133,2,14,20,88,247,9,46,347,12,87,99,40,29,856,33,91,167,4,3,8,40,41,10,16,2,2145,1453,28,3,77,13,48,279,69,79,487,6,413,14,10
 Companies Act Amendment	11250
 Companies Act No	12897
 Companies Act Regulations	12041
@@ -540,11 +541,12 @@ Companies’ Register	3714
 Companion	22,13,81,123,169,2,4,3,14,12,2,112,2,19,1,12,22,123,2,4,5,4,19,11,1,16,24,118,23,5,18,9,17,16,126,39,13,5,12,9,1,1,22,6,69,6,5,13,2,1,30,44,33,49,28,12,32,1,98,14,1,3,15,17,39,56,1,9,25,1,47,10,22,20,57,33,12,22,1,9,11,10,27,61,19,59,9,235,31,101,37,84,96,29,117,3,126,8,23,150,4,4,30,57,23,49,35,128,2,33,46,10,53,1,48,10,122,110,10,3,16,264,3,1,1,5,16,39,6,26,1,21,5,23,1,18,148,123,17,83,82,120,66,42,19,90,184,65,32,69,1,228,99,8,4,152,51,72,107,5,10,27,20,51,14,32,119,36,13,110,32,6,41,18,18,1,1,6,230,2,114,41,71,27,332,87,69,60,187,160,1,391,272,78,130,573,431,675,20,907,346,218,226,450,751,373,3,263,15,81,1,81,1707,14,359,1053,218,979,352
 Companion Card	10418
 Companion Guide	11156
-Company	22,551,12,20,131,1082,1,169,417,293,765,251,412,137,633,642,326,39,184,248,15,374,52,162,260,6,124,28,404,285,452,83,12,135,139,73,512,119,165,90,15,74,78,801,68,320,17,11,10,15,16,2,24,22,107,486,6,42,16,21,10,55,212,3,46,40,16,35,7,39,6,33,5,381,18,57,114,132,126,51,23,269,314,17,166,395,121,6,11,39,96,9,3,12,48,6,30,70,172,14,232,32,143,82,5,132,335,122,278,175,57,32,174,86,46,43,103,1,73,559,537,111,15,351,238,440,17,44
+Company	22,551,12,20,131,1082,1,169,417,293,765,251,412,137,633,642,326,39,184,248,15,374,52,162,260,6,124,28,404,285,452,83,12,135,139,73,512,119,165,90,15,74,78,801,68,320,17,11,10,15,16,2,24,22,107,486,6,42,16,21,10,55,212,3,46,40,16,35,7,39,6,33,5,381,18,57,114,132,126,51,23,269,314,17,166,395,121,6,11,39,96,9,3,12,48,6,30,70,172,14,232,32,143,82,5,132,335,122,278,175,57,32,174,86,46,43,103,1,73,559,537,111,15,351,238,440,17,44,315,8
 Company Act	14891
 Company Address Changes	12041
 Company Advocates Data Controller INST-25860281847 NAIROBI	7167
 Company All Rights Reserved. Copyright	12342
+Company Amendment	19961
 Company B and Company B	12882
 Company Books All	19884
 Company Closure	11939
@@ -575,7 +577,7 @@ Company Limited The Unified Coffee Management	19584
 Company Listing Estimated	4896
 Company MTDT Ministry of Telecommunication and SFSP Sudan	14897
 Company NITDA National Information Technology Development	11857
-Company Name	12389,311,2054,129
+Company Name	12389,311,2054,129,5078
 Company Name Change	12041
 Company Name IBC No. Financial Services	19049
 Company Name Reservation	14891
@@ -671,7 +673,7 @@ Compara	16898
 Comparability	7204,6106,1854,2203
 Comparability and Integration	13310
 Comparabilité	17828,2
-Comparable	2117,1597,4637,1048,4133,1287,1141,1664
+Comparable	2117,1597,4637,1048,4133,1287,1141,1664,2350
 Comparable Company Multiples	4896
 Comparable Estimates of Returns	16436
 Comparable West African	7777
@@ -715,6 +717,7 @@ Comparative Insight	14819
 Comparative Metrics	4896
 Comparative National	15164
 Comparative National Readiness	15164
+Comparative Payment System Statistics	19940
 Comparative Perspective	12948,2216
 Comparative Perspective Chapter	15164
 Comparative Perspectives	9399
@@ -747,7 +750,7 @@ Comparing CRVS	12413,2643
 Comparing PoPIA	11896
 Comparing Several Financial Services	18770
 Comparing the Palmer	17157
-Comparison	1212,612,406,5560,814,525,1683,321,62,55,925,39,153,18,28,32,501,107,1843,160,149,167,39,13,180,1044,466,2,24,17,586,356,864,579,97
+Comparison	1212,612,406,5560,814,525,1683,321,62,55,925,39,153,18,28,32,501,107,1843,160,149,167,39,13,180,1044,466,2,24,17,586,356,864,579,97,327
 Comparison Between Government Grants and Councils	19585
 Comparison Between Starlink	5874
 Comparison With Regional Neighbours	14297
@@ -804,6 +807,7 @@ Compatibility Options	3861
 Compatibility Positive	9129
 Compatibility Testing	5665
 Compatibility and Integration	19860
+Compatibility of Further Processing	19951
 Compatibilité	17846,469
 Compatibilité Tester	15936
 Compatibilizar	10783
@@ -814,7 +818,7 @@ Compatible Service Delivery and Utilization	16885
 Complaint Unit CEET Compagnie Energie Electrique	12062,6124,31
 Compland Company Limited Data Controller INST-51414381138	7167
 Complementary Interventions This Partnership Compact	12175
-Complete List of Unicorn Companies	11884,1
+Complete List of Unicorn Companies	11884,1,8067
 Complex Company Limited	19585
 Complex Company Limited MLHHSD Ministry of Land	19585
 Complexity H1 Compability Skills Trialability H2	9129
@@ -967,9 +971,10 @@ Electric Company DPP The Office the Director	19519
 Electric Company Janjanbureh Area Council Kanifing	16973
 Electric Power Generation and Distribution Company	15480
 Electrical Company of Ghana	19295
-Electricity Company of Ghana	11132,4608,164,692
+Electricity Company of Ghana	11132,4608,164,692,3363,7,10
 Electricity Company of Ghana FDI Foreign	4126
 Electricity Distribution Companies of Nigeria	11129
+Electricity Distribution Company	19976
 Electricity Distribution and Unique Mobile Access Comparison	19728
 Electricity Generation Company	13241
 Electricity Generation and Transmission Company	1539,16998
@@ -993,6 +998,7 @@ Emirates National Oil Company	16942
 EmpLoi ECG Electricity Company of Ghana EP	10975
 Employees of Companies Tribunal	3714
 Enabling Conditions This Partnership Compact	12175
+Enclave Power Company Limited	19976
 Enclave Power Company Ltd	15740
 End-to-End Digital G2P Companion	1027
 Energie Electrique TCN Transmission Company of Nigeria	12062,6124,31
@@ -1034,7 +1040,8 @@ Expansion of Health Sector Renewal Compact	18163
 Experienced Company	18837
 Experts Company MORE STORIES UIB	5101,850
 Expressed Company	14897
-External Companies	12342
+External Companies	12342,7619
+External Company	19961
 External Company Name and Amendments	12041
 External Company Registration Understanding External	12041
 FCFA. Comparativement	18122
@@ -1055,10 +1062,14 @@ Featured Office of Registrar of Companies	9842
 Features CRPRS Modules Comparison Benefits Functionalities	12211
 Features and Compatibility	9855
 Fees for Incorporation of Companies SERVICE	14891
+Filings External Companies	19961
+Filling for Incorporated Companies	19961
 FinTech Companies and Payment Service Providers RMAFC	9750
 Finance Companies	17104,213
 Finances of Companies Tribunal	3714
 Finances of Companies Tribunal CHAPTER	3714
+Financial Technology Companies	19940
+Financial Technology Companies GAB Ghana Association	19940
 Financial Times' Africa's Fastest Growing Companies	7619,1460
 Finincl Fund Belgian Investment Company for Developing	177
 Fintech Companies	17104
@@ -1125,9 +1136,10 @@ Geographical Distribution of EISOs. Compared	19534
 Geothermal Development Company Limited	14422
 Ghana Airport Company Limited	16215
 Ghana Grid Company	16596
-Ghana Grid Company Limited	15740,164,640
+Ghana Grid Company Limited	15740,164,640,3432
 Ghana Grid Company Ltd	16586
-Ghana National Gas Company	15740,164
+Ghana National Gas Company	15740,164,4072
+Ghana National Petroleum Company	19976
 Ghana Post Company Limited Size	15867
 Ghana Publishing Company and Commissioners for Oaths	11082,6467
 Ghana Publishing Company. The Authority	17549
@@ -1162,6 +1174,7 @@ Graphic Online The Ghana Grid Company	16586
 Greater Pioneer Operating Company	3583
 Green Island Construction Company	19140
 Green Power Company- GPC	19476
+Groital Company Ltd	19943
 Group Company Secretary	4896
 Group Company Secretary and Registered	4896
 Group Personal Accident Insurance Company	19712
@@ -1232,7 +1245,10 @@ Ibadan Electricity Distribution Company	8157
 Idemia and Airports Company South Africa	2521
 Incentive Compatibility	16902
 Income Tax Returns for Companies	11976
+Incorporated Companies	19961
 Incorporated Company	18604
+Incorporation of Company Limited	19961
+Incorporation of Company Unlimited	19961
 Independent Director of Chemelil Sugar Company	6946
 Independent Population Estimates Compared	16921
 Index SBEE Beninese Electrical Energy Company	19239
@@ -1451,6 +1467,7 @@ Mauritius Companies Act NRS	11813
 Mauritius Deposit Insurance Company Ltd	14744
 Mbps. Comparator	1623
 McKinsey and Company	2093,9047
+McKinsey and Company Global Payments	19940
 Medinet Nasr Company	15473
 Meta Companies	5113
 Metro Link City Company Limited	19585
@@ -1611,6 +1628,7 @@ Non-Profit Company	11250,15,3190
 Non-Residents Shipping and Airline Companies	11976
 Northern Electricity Company Limited	15904
 Northern Electricity Distribution Company	15740,856
+Northern Electricity Distribution Company Limited	19976
 Northern Regional Electricity Distribution Company	12399
 Nuctech Company Limited	19565
 Number of Immediate Case Notification Forms Compared	11912
@@ -1775,9 +1793,11 @@ Register Companies	14891
 Register of Companies	13299,198,5107
 Register of Companies and Beneficial Owners	13497
 Register of Companies and Register of Beneficial Owners	13299,198
+Registered External Company	19961
 Registrar of Companies	585,4121,190,2302,498,1170,73,789,111,3,406,57,114,2231,247,9,660,1151,3,41,13,24,11,10,9,3,60,1514
 Registrar of Companies Deeds	12491
 Registrar of Companies Ms Thoko Moyo Nil	4896
+Registrar of Companies OSP Office	19937
 Registrar of Companies Offence	9842
 Registrar of Companies and Close Corporations	12912
 Registrar of Companies. Article	14891
@@ -1994,7 +2014,7 @@ Togo Data Center Market Briefing Companion	3156
 Togo Digital Economy Diagnostic Report Companion	329
 Togo Electrical Energy Company	19239
 Togolese Electric Energy Company	19275,1
-Top Unicorn Companies	11884,1,320,7657
+Top Unicorn Companies	11884,1,320,7657,90
 Top Verticals Amongst Tech-Enabled Companies	4972
 Topaz Group of Companies	16649
 Towards Crowding-in Private Sector Investment Companion	941

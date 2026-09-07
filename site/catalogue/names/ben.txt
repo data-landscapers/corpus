@@ -274,6 +274,7 @@ BEnvironment	5349
 BFA's and BEN's WURI	554
 BGFIBANK BOA BSIC BENIN CBAO	11588,6682
 BIGIRIMANA Jean Marie NDUWIMANA Benjamin BIHAYI	13300
+BOD Beneficial Ownership Disclosure CCC Citizens	19937
 BRA Benadir Regional Administration FMS Federal	14874
 BRR Benin the Mobile ID Bénin	10714
 BSIC BENIN Azalaï Hôtel Cotonou BGFI	10821
@@ -379,7 +380,7 @@ Bench	8978,10663
 Bench Bulletin	14410,39
 Bench Database Exclusive Features Roadmaps Deep	9629
 Bencherif	19874
-Benchmark	235,1,982,771,133,3411,2015,242,733,1332,909,692,703,1151,1508,1,178,483,1161,211,6,17,274,90,627,172,67,349,534,233,580,6
+Benchmark	235,1,982,771,133,3411,2015,242,733,1332,909,692,703,1151,1508,1,178,483,1161,211,6,17,274,90,627,172,67,349,534,233,580,6,159
 Benchmark Analysis	18754
 Benchmark Countries	16876
 Benchmark Countries Study	15713
@@ -397,6 +398,7 @@ Benchmark for CIV	1397
 Benchmark of Algeria	19865
 Benchmark of Cabo Verde	11895
 Benchmark of Egypt	19862
+Benchmark of Ghana	19952
 Benchmark of International Bandwidth	18931
 Benchmark of Kenya	12160
 Benchmark of Namibia	12355
@@ -470,6 +472,7 @@ Beneficial Ownership	170,11080,1139,4648,146,1373
 Beneficial Ownership Act	18907,124
 Beneficial Ownership Data Standard	17037
 Beneficial Ownership Declaration	12041
+Beneficial Ownership Disclosure	19937
 Beneficial Ownership Disclosure Form	7951,215,5019,342,1553,2248,6
 Beneficial Ownership Disclosure Form INSTRUCTIONS	13185
 Beneficial Ownership Disclosure Form. Section IV	13185
@@ -478,13 +481,14 @@ Beneficial Ownership Leadership Group	17037
 Beneficial Ownership Portal	19584
 Beneficial Ownership Register	7845,4463,4729
 Beneficial Ownership Registry	17257
+Beneficial Ownership Transparency	19937
 Beneficial Ownership Transparency Implementers	17037
 Beneficial Ownership Workpage	11276
 Beneficial Ownership of Legal Persons and Legal Arrangements	9750
 Beneficial Ownership.71	17037
 Beneficiam	12018,4004
 Beneficiam da Profilaxia Completa	18768
-Beneficiaries	789,439,56,583,590,478,495,48,105,21,1049,2180,95,219,72,637,494,117,70,60,402,1769,7,37,42,16,93,1,21,6,404,74,56,330,8,61,64,135,59,38,115,38,67,24,29,484,134,69,151,1,130,455,21,60,26,552,172,197,35,69,89,21,123,1,128,100,8,82,57,5,350,19,112,43,197,52,448,18,68,30,96,362,446,2,56,7,135,197,54,106,123,148,33,44,428,5,42,301,243,61
+Beneficiaries	789,439,56,583,590,478,495,48,105,21,1049,2180,95,219,72,637,494,117,70,60,402,1769,7,37,42,16,93,1,21,6,404,74,56,330,8,61,64,135,59,38,115,38,67,24,29,484,134,69,151,1,130,455,21,60,26,552,172,197,35,69,89,21,123,1,128,100,8,82,57,5,350,19,112,43,197,52,448,18,68,30,96,362,446,2,56,7,135,197,54,106,123,148,33,44,428,5,42,301,243,61,76
 Beneficiaries Beneficiaries	7763
 Beneficiaries Beneficiaries Page	10964
 Beneficiaries DLI	15663
@@ -699,7 +703,7 @@ Benign	226
 Benigno	18802
 Benihirwe Munezero Yvette	17610
 Benim	11569,124,2619
-Benin	7,80,112,37,121,45,1,22,120,1,8,73,25,114,57,1,12,22,89,4,10,52,52,152,26,21,6,7,54,63,6,15,26,24,72,59,38,1,71,18,4,41,45,10,85,18,30,23,155,101,21,29,17,18,10,3,35,23,41,81,43,12,113,93,52,49,70,95,29,25,17,38,3,44,1,1,15,8,33,17,27,97,31,87,90,34,1,16,34,101,13,49,53,81,44,6,53,38,21,7,1,1,1,1,1,1,85,46,34,71,1,101,235,31,19,71,48,9,18,1,31,61,10,27,302,33,5,33,96,18,52,82,101,22,38,40,37,31,22,9,166,55,8,41,63,55,15,56,11,97,46,75,41,62,20,34,67,3,108,12,46,108,76,40,166,57,169,29,118,46,5,3,6,1,173,14,77,1,348,1,52,161,130,193,7,123,109,33,11,140,341,1,68,237,97,41,422,46,2,45,5,21,8,23,2,1,3,1,8,2,2,3,2,6,2,4,4,8,1,5,2,4,8,3,22,11,28,2,15,3,8,29,1,134,192,220,17,12,28,185,73,3,9,4,3,1,2,28,2,78,156,1,9,47,11,35,7,78,11,1,32,103,882,219,35,89,612,349,33,17,674,1,2,1,9,13,15,18,3,11,29,11,4,35,37,5,29,114,13,1,26,57,34,29,26,65,1,21,36,91,9,34,1,9,13,40,72,46,83,1,12,12,1,77,16,36,41,184,120,157,224,1,270,149,2,28,60,29,8,66,4,38,113,14,217,70,52,27,15,6,12,383,44,283,31,408,15,154,14,22,1
+Benin	7,80,112,37,121,45,1,22,120,1,8,73,25,114,57,1,12,22,89,4,10,52,52,152,26,21,6,7,54,63,6,15,26,24,72,59,38,1,71,18,4,41,45,10,85,18,30,23,155,101,21,29,17,18,10,3,35,23,41,81,43,12,113,93,52,49,70,95,29,25,17,38,3,44,1,1,15,8,33,17,27,97,31,87,90,34,1,16,34,101,13,49,53,81,44,6,53,38,21,7,1,1,1,1,1,1,85,46,34,71,1,101,235,31,19,71,48,9,18,1,31,61,10,27,302,33,5,33,96,18,52,82,101,22,38,40,37,31,22,9,166,55,8,41,63,55,15,56,11,97,46,75,41,62,20,34,67,3,108,12,46,108,76,40,166,57,169,29,118,46,5,3,6,1,173,14,77,1,348,1,52,161,130,193,7,123,109,33,11,140,341,1,68,237,97,41,422,46,2,45,5,21,8,23,2,1,3,1,8,2,2,3,2,6,2,4,4,8,1,5,2,4,8,3,22,11,28,2,15,3,8,29,1,134,192,220,17,12,28,185,73,3,9,4,3,1,2,28,2,78,156,1,9,47,11,35,7,78,11,1,32,103,882,219,35,89,612,349,33,17,674,1,2,1,9,13,15,18,3,11,29,11,4,35,37,5,29,114,13,1,26,57,34,29,26,65,1,21,36,91,9,34,1,9,13,40,72,46,83,1,12,12,1,77,16,36,41,184,120,157,224,1,270,149,2,28,60,29,8,66,4,38,113,14,217,70,52,27,15,6,12,383,44,283,31,408,15,154,14,22,1,80,27
 Benin 2026.pdf	16105
 Benin ACE GIE	15424
 Benin ACE PPP	15424
@@ -970,6 +974,7 @@ Benjamin ATIPO	15685
 Benjamin Adamafio Commey	8369
 Benjamin Akera	3726
 Benjamin Akimana	12379
+Benjamin Arthur	19981
 Benjamin Avornyotse	8767
 Benjamin Bol Mel	3583,1,15115
 Benjamin Bratton	4448
@@ -1034,6 +1039,7 @@ Bennaidja Aissa	16230
 Benner	2518
 Bennet Phunyanya	8286
 Bennett	17020,753
+Bennett B	19974
 Bennett Institute	5700
 Bennett Institute for Public Policy of Cambridge	1243
 Bennett S. Examining	3791
@@ -1528,6 +1534,7 @@ INCREASING NATIONAL DATA DEVELOPMENT AND BENEFIT	14004
 INGD Vai Digitalizar Registo de Beneficiários de Assistência	12859
 IREG Benin	7662
 ITC Benchmarking	18487
+ITU G5 Benchmark	19966
 ITU G5 Benchmarks	6539
 ITU. Benchmarking	15471
 IV.1.5. Critère Benchmark	15936
@@ -1620,6 +1627,7 @@ Kiaren Bently	7429
 Komora Vocational Training Centre and St. Benedict	7394
 L'ARCEP BENIN	16314,13
 LA RÉPUBLIQUE DU BENIN Le Pacte	15801
+LEAP BENEFICIARIES	19965
 LEGAL Legal Covenants Sections and Description Benin	16144
 LES BENEFICES ET	15999
 LES OPTIONS DE REDYNAMISATION DU BENIIX	15592
@@ -2222,7 +2230,7 @@ Securing Benefits	15411
 Security Benefits Military-grade	12211
 Seddik Allal Benlarbi Abdallah Deguig	8891
 Selected Benchmark Countries	15411
-Senegal São Tomé and Príncipe Benin Rwanda	10837,1503
+Senegal São Tomé and Príncipe Benin Rwanda	10837,1503,7598
 Senegal Togo Benin	17870
 Senegal and Benin	1814,11810
 Senouci Benkaddour	15410

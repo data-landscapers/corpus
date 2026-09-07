@@ -85,7 +85,7 @@ Chartered X X X X Women	12376
 Chief Executive Officer Tanzania Women Chamber	5883
 Children Men Women Children Southeastern	17043
 Children and Women	10780
-Civil Liberties for Women	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Civil Liberties for Women	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Civil Liberties for Women Absence of Violence	10759
 Civil Liberties for Women. Worst	11887
 Comesa Federation of Women	12376
@@ -102,6 +102,7 @@ Connected Women	11003,1,13,947,3589
 Connected Women Amber Ijebor Guest Author	11083
 Connected Women of Gabon	15447
 Connecting Youth and Women	14976
+Connecting the Woman	19966
 Council Resolution UN Women United Nations	18624
 County Women Representatives	9645
 Creating Opportunities for Youth and Women	19179
@@ -164,12 +165,14 @@ Empower and Improve the Life of Women	16916
 Empowered Women	13938
 Empowered Women In Mourouk Valley	11332
 Empowering Rural Women	5244
-Empowering Women	9201,4130,2142,4401
+Empowering Women	9201,4130,2142,4401,66
 Empowering Women Leaders Mentorship Programme	18349
+Empowering of Women	19940
 Empowerment for Women	6946
 Empowerment of Women	13021,2183,43,3377
 Empowerment of Women US United States USD	13312,2
 Empowerment of Women and Girls	15658
+Enhance Women’s Participation	19937
 Enhanced Access and Utilization of Health Services for Women	18370
 Enhanced Utilization of Health Services for Women	18370
 Enhancing Women’s Access and Usage	10856
@@ -182,7 +185,7 @@ Equality WOMEN'S EQUALITY Political Power	10759
 Equality Women's Equality	11889,265,9,178,7312
 Equality Women's Equality Political Power	12152
 Equality Women’s Equality	10759,78
-Equality Women’s Equality Political Power	12340
+Equality Women’s Equality Political Power	12340,7598
 Equality Women’s Equality Public Administration Business	10759
 Equality and Women's Equality. Trend Bouncing Back	11870
 Equality and Women’s Empowerment GoSL Government of Sierra	18577
@@ -319,7 +322,7 @@ Kenya School of Government Women’s Conference	2668
 Kenya Women Parliamentary Association	17746
 Key Terms The Women’s Empowerment and Nutrition	17127
 Kuria West Women Sacco	6946
-LABOUR ENVIRONMENT INFRASTRUCTURE RURAL ECONOMY WOMEN’S	10837,1503
+LABOUR ENVIRONMENT INFRASTRUCTURE RURAL ECONOMY WOMEN’S	10837,1503,7598
 LATIN AMERICA Women Self-Employed	11004
 Labor Men Women Children Men Women	17043
 Land Tenure Livestock Labor Use Women	17366
@@ -491,9 +494,9 @@ Prosperity The GSMA Connected Women	11004
 Prosperity The GSMA’s Connected Women	11964
 Protection of Women	15661
 Public Office. PART IIi- WOMEN’S EMPOWERMENT	18468
-Public Services for Women	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Public Services for Women	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Public Services for Women Education Enrolment Public	10759
-Public Services for Women Laws	10759,78,1315,188
+Public Services for Women Laws	10759,78,1315,188,7598
 Public Services for Women1	10837
 Quality of Life and Status of Women	11193
 REG VC Women	12358
@@ -516,8 +519,8 @@ Relationship Women Men Head	17127
 Remarkable Growth of Women-Owned Small Businesses	10963,1
 Reparations Commission State Corporations Gambia Women	16973
 Report Women	16260,988,4
-Representation of Women	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
-Representation of Women Rights	10759,78,1315,188
+Representation of Women	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Representation of Women Rights	10759,78,1315,188,7598
 Reproductive Age WWD Women	16950
 Reserve Bank of Zimbabwe Urban Women Financial	940
 Residence Wealth Quintile Woman's Education Age	18441
@@ -549,7 +552,7 @@ Sahel WomenEmpowerment and DemographicDividend	18100
 Scale Women-Led Enterprises Across Africa Jordan	5322
 School Certificate Examination WEE Women’s Economic	18512
 School and Supporting Women’s Livelihoods	13332
-Score Women's Equality	10968
+Score Women's Equality	10968,8970
 Secretary for Women	19805
 Senegalese Women's Council	18305
 Series Information The Women's Empowerment and Nutrition	17165,1405
@@ -562,7 +565,7 @@ Smart Woman Loan and VSLA Loan	13938
 Social Affairs and Women	19455
 Social Welfare Centres and Community Centre Women	14745
 Social and Economic Inclusion of Women and Girls	15036
-Socioeconomic Opportunity for Women	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Socioeconomic Opportunity for Women	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Socioeconomic Opportunity for Women Anti-Corruption	10835,3,130,902,16,466,1,135,7334
 Somaliland Women Lawyers Association	15231
 Songhai Initiative. Women	16973
@@ -686,10 +689,10 @@ WOMEN SAVED FORMALLY COMPARED	10977
 WOMEN WITH THE ISSUANCE OF ECOWAS	17221
 WOMEN'S EMPOWERMENT	13454
 WOMEN'S EMPOWERMENT AND LIVELIHOODS MULTI-DONOR TRUST	13459
-WOMEN'S EQUALITY	10835,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135,7164,1,169,14,22,1,65
+WOMEN'S EQUALITY	10835,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 WOMEN'S EQUALITY HEALTH	12488
 WOMEN'S EQUALITY PUBLIC ADMINISTRATION Rank	11870
-WOMEN'S EQUALITY Political Power	10759,78,1052,451
+WOMEN'S EQUALITY Political Power	10759,78,1052,451,7598
 WOMEN'S EQUALITY Public Perception of Social Protection	10835,3,130,902,16,466,1,135,7334
 WOMEN'S EQUALITY RURAL ECONOMY	12352,136,7334
 WOMEN'S EQUALITY Rank	12352
@@ -703,7 +706,7 @@ WOMEN’S EMPOWERMENT METRIC FOR NATIONAL STATISTICAL	17127
 WOMEN’S EMPOWERMENT Thematic Policy Statement	16951
 WOMEN’S EQUALITY INFRASTRUCTURE	10835
 WOMEN’S EQUALITY RURAL ECONOMY	10968,918,467
-WOMEN’S EQUALITY Rank	10759,78,1049,454
+WOMEN’S EQUALITY Rank	10759,78,1049,454,7598
 WOMEN’S EQUALITY Sub-category	10759
 WOMEN’S FINANCIAL INCLUSION	18770
 WOMEN’S PARTICIPATION IN THE DIGITAL	11257
@@ -734,7 +737,7 @@ Woman Superintendent of Police STATEMENT OF COMPLIANCE	14760
 Woman’s Education By Wealth Quintile	18441
 Woman’s Questionnaire	15247
 Wombwira	13300
-Women	598,191,151,29,1,199,1,94,554,49,73,48,638,42,107,104,704,21,522,313,89,35,231,60,50,139,238,41,498,63,656,293,116,191,12,21,349,123,119,229,9,134,240,34,402,36,225,73,116,88,85,113,14,55,8,137,6,5,16,205,24,50,6,20,312,245,45,34,16,14,4,5,67,2,1,3,119,3,1,4,9,26,1,13,1,15,50,60,50,37,22,22,9,2,29,18,85,78,30,20,27,9,5,48,63,68,90,2,6,5,2,9,7,1,1,1,11,2,1,15,13,13,16,4,3,19,8,98,46,13,1,1,1,9,25,4,9,13,39,25,19,31,5,3,4,1,11,1,14,32,10,4,31,16,28,13,11,218,76,85,31,17,98,3,71,62,1,63,77,17,1,26,60,52,2,119,82,164,101,10,12,50,96,36,186,24,372,18,10,63,3,11,45,22,1,38,62,7,32,3,83,8,8,66,21,22,5,90,131,1,6,11,2,21,1,3,35,105,3,2,62,199,89,19,18,55,39,107,9,124,201,46,147,39,35,9,6,5,2,28,14,6,4,16,2,3,2,1,1,7,2,6,5,2,21,24,25,56,15,13,38,2,6,75,4,44,26,49,1,2,27,174,294,1,64,28,9,133,21,112,54,2,8,4,4,45,5,11,71,15,2,10,19,1,16,8,22,3,33,27,27,26,80,9,38,32,16,22,84,2,246,55,3,2,6,39,235,12,13,27,14,67,1,7,55,6,6,33,62,4,2,8,11,8,3,1,15,15,24,11,6
+Women	598,191,151,29,1,199,1,94,554,49,73,48,638,42,107,104,704,21,522,313,89,35,231,60,50,139,238,41,498,63,656,293,116,191,12,21,349,123,119,229,9,134,240,34,402,36,225,73,116,88,85,113,14,55,8,137,6,5,16,205,24,50,6,20,312,245,45,34,16,14,4,5,67,2,1,3,119,3,1,4,9,26,1,13,1,15,50,60,50,37,22,22,9,2,29,18,85,78,30,20,27,9,5,48,63,68,90,2,6,5,2,9,7,1,1,1,11,2,1,15,13,13,16,4,3,19,8,98,46,13,1,1,1,9,25,4,9,13,39,25,19,31,5,3,4,1,11,1,14,32,10,4,31,16,28,13,11,218,76,85,31,17,98,3,71,62,1,63,77,17,1,26,60,52,2,119,82,164,101,10,12,50,96,36,186,24,372,18,10,63,3,11,45,22,1,38,62,7,32,3,83,8,8,66,21,22,5,90,131,1,6,11,2,21,1,3,35,105,3,2,62,199,89,19,18,55,39,107,9,124,201,46,147,39,35,9,6,5,2,28,14,6,4,16,2,3,2,1,1,7,2,6,5,2,21,24,25,56,15,13,38,2,6,75,4,44,26,49,1,2,27,174,294,1,64,28,9,133,21,112,54,2,8,4,4,45,5,11,71,15,2,10,19,1,16,8,22,3,33,27,27,26,80,9,38,32,16,22,84,2,246,55,3,2,6,39,235,12,13,27,14,67,1,7,55,6,6,33,62,4,2,8,11,8,3,1,15,15,24,11,6,8,1,1,34
 Women Absence of Armed Conflict Absence of Forced	10759
 Women Account	12472
 Women Addressing	11964
@@ -830,7 +833,7 @@ Women Political Leaders. Closing	4036
 Women Population	17127
 Women Pre-arrival Customs Processing Tonga	16631
 Women Public Perception of Female Leadership	10759
-Women Public Perception of Female Leadership Participation	10837,1315,188
+Women Public Perception of Female Leadership Participation	10837,1315,188,7598
 Women Redefining Technology	18528
 Women Refugees	12297
 Women Representative of Migori	10313
@@ -904,7 +907,7 @@ Women's Empowerment and Nutrition Survey	18570
 Women's Entrepreneurial Access Center	12376
 Women's Entrepreneurship Access Centre	13346
 Women's Entrepreneurship and Access	16144
-Women's Equality	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,178,11,1,135,7164,1,169,14,22,1,65
+Women's Equality	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,178,11,1,135,7164,1,169,14,22,1,65,15
 Women's Equality Foundations for Economic Opportunity	11889,452
 Women's Equality Rank	11889
 Women's Experience of Physical and Sexual Violence	13454
@@ -998,6 +1001,7 @@ World Bank’s Women	11004,960,4296,988,4,618
 World Conference for Women	11193
 X X X X The Women	12376
 XII. PARTICIPATION OF WOMEN	12201
+Yaya S. Women	19974
 Years Old Woman Tortured	5390
 Young African Women Leaders Programme	17101
 Young Women	11332,7109

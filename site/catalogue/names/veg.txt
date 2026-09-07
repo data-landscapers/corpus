@@ -8,6 +8,7 @@ DES RESSOURCES VEGETALES CHAPITRE	18094
 Difference Vegetation Index	19080
 ESI Anomaly Drought Class Vegetation Response	17157
 ETp Vegetation and Land Normalized NDVI	17157
+Exotic Veg	19966
 Fruits Vegetable	18483
 Fruits and Vegetables Production	19554
 Healthy Vegetation Dense	17157
@@ -46,6 +47,7 @@ VEGETATION Programme	11334
 VEGETATION Programme. The VGT4AFRICA	11334
 VHI Vegetation Health Index WFP World	15118
 Vegetable	12977,145,3778,2,141,1440
+Vegetable Centre of Excellence	19966
 Vegetable Crop Cultivation	17043
 Vegetable Oil	17235
 Vegetable Oils	16285

@@ -5,7 +5,9 @@ ABEPOT CREDIT LTD Data Controller INST-285194D9037	7167
 ACACIA CREST ACADEMY LIMITED Data Controller	7167
 ACACIA CREST ACADEMY LIMITED Data Processor	7167
 ACCEL CO-OPERATIVE SAVINGS AND CREDIT SOCIETY	7167
-ACH Direct Credit	17235
+ACH Direct Credit	17235,2705
+ACH Direct Credit Near Real Time	19940
+ACH Direct Credit Volume	19940
 ACK THIKA TALENTS SAVINGS AND CREDIT	7167
 ACQUIRE CREDIT LIMITED Data Controller INST-90624556963	7167
 ACQUIRE CREDIT LIMITED Data Processor INST-90624556963	7167
@@ -50,6 +52,7 @@ About ASIN Created	15921
 About CreditRegistry Corporation CreditRegistry Corporation	11809
 About LASTIC Creation	15789
 Accelerate Investment and Job Creation Press Release	11476
+Accelerating Economic Transformation and Creating Jobs	19966
 Accessibility of Credit Reporting Agencies	12389
 Accessing User Data and Attribution of Value Created	14932
 Account DVC Digital Verifiable Credentials CCSS	11986
@@ -94,6 +97,7 @@ Applications for CANEX Create-Thon	9641
 Après le CREDD	18014
 Aptic Credit Limited Data Controller INST-64446293E0E	7167
 Arbitragem. CREL ATENDE	10753
+Arrangement Under the Extended Credit Facility	19966
 Arrangement Under the Extended Credit Facility for Burundi	1284
 Artificial Intelligence for Economic Growth and Job Creation	8363,185
 Assessment Unit and CREDD	16852
@@ -435,7 +439,7 @@ Crear Infraestructuras	16865
 Crear Un	16865
 Crear Unidades de Negocio	1701
 Creat Educ	17773
-Create	110,285,1,22,481,41,18,3,39,9,152,43,39,534,37,71,103,471,18,191,471,461,168,93,13,252,76,12,314,320,378,18,433,75,671,409,104,12,1,380,14,205,48,588,416,6,1153,133,1,635,193,44,10,44,4,6,80,51,4,40,3,10,114,2,7,56,40,29,10,579,3,6,43,46,12,22,49,152,6,17,4,27,5,82,17,11,8,12,29,14,25,64,4,39,12,112,5,13,61,7,2,8,8,144,16,98,58,200,15,4,6,39,345,164,123,33,442,100,35,50,4,19,49,67,22,6,61,18,16,34,18,32,37,86,9,1,31,3,283,26,7,33,40,51,109,132,94,38,211,24,388,233,19,9,2,3,6,12,37,6,12,3,1,8,12,3,9,21,22,50,46,25,18,103,63,1,46,500,14,154,1,441,17,22,3,15,18,9,231,90,26,608,12,1,2,41,58,13,18,13,12,10,153,54
+Create	110,285,1,22,481,41,18,3,39,9,152,43,39,534,37,71,103,471,18,191,471,461,168,93,13,252,76,12,314,320,378,18,433,75,671,409,104,12,1,380,14,205,48,588,416,6,1153,133,1,635,193,44,10,44,4,6,80,51,4,40,3,10,114,2,7,56,40,29,10,579,3,6,43,46,12,22,49,152,6,17,4,27,5,82,17,11,8,12,29,14,25,64,4,39,12,112,5,13,61,7,2,8,8,144,16,98,58,200,15,4,6,39,345,164,123,33,442,100,35,50,4,19,49,67,22,6,61,18,16,34,18,32,37,86,9,1,31,3,283,26,7,33,40,51,109,132,94,38,211,24,388,233,19,9,2,3,6,12,37,6,12,3,1,8,12,3,9,21,22,50,46,25,18,103,63,1,46,500,14,154,1,441,17,22,3,15,18,9,231,90,26,608,12,1,2,41,58,13,18,13,12,10,153,54,60
 Create AI	12675
 Create AI Act	2816
 Create AI Special Economic Zones	12210
@@ -542,7 +546,7 @@ Creativa Innovation Hubs	1902,13916,228,161
 Creativa Innovation Hubs Creativa Innovation Hubs	19885
 Creativa Innovation Hubs Regulatory Framework	15713
 Creativa Innovation Hubs. Pillar	15713
-Creative	507,2011,6611,108,1609,123,915,1,10,264,1,28,16,1,146,4,41,91,611,3844,54,2866,3
+Creative	507,2011,6611,108,1609,123,915,1,10,264,1,28,16,1,146,4,41,91,611,3844,54,2866,3,87
 Creative Africa Nexus	8149,1492
 Creative Arts	16206
 Creative Arts and Cultural Development Programme	14829
@@ -554,7 +558,7 @@ Creative Commons Attribution CC	9025,1689,249,1,13,159,13,730,376,1057,2,1583,55
 Creative Commons Attribution CC BY World	19237
 Creative Commons Attribution International	19080
 Creative Commons Attribution International License	11927
-Creative Commons Attribution License	8376,2543,1084,228,15,1877,543,1358
+Creative Commons Attribution License	8376,2543,1084,228,15,1877,543,1358,3950
 Creative Commons Attribution Non-Commercial-Share Alike	17856
 Creative Commons Attribution NonCommercial ShareAlike	2709
 Creative Commons Attribution NonCommercial-ShareAlike	11376
@@ -565,7 +569,7 @@ Creative Commons Attribution-Non- Commercial-Share Alike	10844,719,3908,2272
 Creative Commons Attribution-Non-Commercial	10841
 Creative Commons Attribution-Non-Commercial-ShareAlike	17950
 Creative Commons Attribution-Non-commercial-No Derivatives	18937
-Creative Commons Attribution-NonCommercial	12467,240,5329
+Creative Commons Attribution-NonCommercial	12467,240,5329,1921
 Creative Commons Attribution-NonCommercial-NoDerivatives	5656,5128,370,1,1100
 Creative Commons Attribution-NonCommercial-Share Alike	10764
 Creative Commons Attribution-NonCommercial-ShareAlike	14898,827,1216
@@ -612,6 +616,7 @@ Creator	6351,3621,1980
 Creator Rewards Programme	7602
 Creators	1363,729,6057,1823,820
 Creators KOFFI	16463
+Creators' Spotlight	19977
 Creche	10766
 Creciente	16898
 Crecimiento	1701,15197,71
@@ -642,7 +647,7 @@ Credible Evidence Generation GHAI	13608
 Credible Knowledge Foundations	18461
 Credible and Inclusive Elections	18531
 Credisure	3922
-Credit	940,238,106,544,125,520,239,63,688,389,176,231,129,209,91,160,74,32,293,35,200,732,221,141,3,349,12,412,171,240,82,16,16,44,362,1499,120,368,575,25,61,38,8,128,26,3,64,73,1,38,85,110,379,1,10,29,41,6,23,6,159,1,35,10,13,10,3,3,15,18,2,1,27,54,4,4,1,4,10,15,20,31,4,1,15,27,3,19,65,127,255,6,82,9,5,546,20,206,165,81,354,116,190,73,171,17,26,107,29,183,30,39,179,29,78,38,67,2,86,123,66,7,66,341,145,67,139,17,15,66,18,34,2,4,79,16,1,31,11,42,13,16,10,16,1,21,59,1,45,43,11,5,20,29,33,2,399,54,27,21,103,24,217,4,1,37,81,34,27,164,72,22,25,6,28,36,38,57,116,144,3,4,35,343,16,32,27,133,5,7,15,3,10
+Credit	940,238,106,544,125,520,239,63,688,389,176,231,129,209,91,160,74,32,293,35,200,732,221,141,3,349,12,412,171,240,82,16,16,44,362,1499,120,368,575,25,61,38,8,128,26,3,64,73,1,38,85,110,379,1,10,29,41,6,23,6,159,1,35,10,13,10,3,3,15,18,2,1,27,54,4,4,1,4,10,15,20,31,4,1,15,27,3,19,65,127,255,6,82,9,5,546,20,206,165,81,354,116,190,73,171,17,26,107,29,183,30,39,179,29,78,38,67,2,86,123,66,7,66,341,145,67,139,17,15,66,18,34,2,4,79,16,1,31,11,42,13,16,10,16,1,21,59,1,45,43,11,5,20,29,33,2,399,54,27,21,103,24,217,4,1,37,81,34,27,164,72,22,25,6,28,36,38,57,116,144,3,4,35,343,16,32,27,133,5,7,15,3,10,65,12
 Credit Accounts	7763
 Credit Accumulation and Transfer	12574
 Credit Act NCC National Consumer Commission	11198
@@ -663,6 +668,7 @@ Credit Bank Plc Data Processor INST-5006303240E	7167
 Credit Bureau Compliance	11198
 Credit Bureau Coverage Banks	14997
 Credit Cards	12917,1097
+Credit Cards Number of Cards Issued	19940
 Credit Concentration	17235,1
 Credit Conditions Survey	7907
 Credit Control I.T Risk Management	9437
@@ -678,6 +684,7 @@ Credit Fraud Cyber and IS Fraud E-Money	17362
 Credit Growth	17235
 Credit Growth Differs	11105
 Credit Guarantee Mechanism for MSMEs	15179
+Credit Guarantee PFI Partner Financial Institutions	19940
 Credit Guarantee Scheme	7763,4613
 Credit Guarantee Scheme Application System	11134
 Credit Guarantee Schemes	7763,11839
@@ -725,6 +732,7 @@ Credit Note	8156
 Credit Notes Issued	12509
 Credit Number	577,13284,1921
 Credit Only Microfinance Institutions	14206
+Credit POS Deployment Chat Banking Cheques	19940
 Credit Platform	14274
 Credit Products and Services	6940
 Credit Provider Compliance	11198
@@ -771,6 +779,7 @@ Credit Unions	7760,9344,131,82
 Credit Unions and Payment Service Providers	19181
 Credit and Loans	12297
 Credit and Political Risk Insurance	11310
+Credit and Prepaid Cards	19940
 Credit-active	11198
 Credit-and-political-risk-insurance-A-	11310
 Credit-based	9781
@@ -954,6 +963,7 @@ Digital Identification Credential	12146
 Digital Identification Credentials	12146
 Digital Identity Issued Credentials Strongly	1939
 Digital Identity Roadmap Guide. Creative Commons	10819
+Digital Micro Credit	19940
 Digital Ownership Creating	7337
 Digital Regulatory Authority Create	11906
 Digital Superhighway and Creative Economy	5793
@@ -962,7 +972,8 @@ Digital Travel Credential	1525
 Digital Verifiable Credentials	5533,58,6395
 Digital and Creative Enterprise Programme	1128
 Digital and Creative Enterprises	602,804,6944,1569,3337,3518
-Direct Credit	17235
+Direct Credit	17235,2705
+Direct Credit The Ghana Automated Clearing	19940
 Direct Debit and Credit Clearing	13532
 Directive for Digital Credit Service Providers	8732
 Directive for Digital Credit Services Providers	7464
@@ -1036,6 +1047,7 @@ Export Credit Guarantee Scheme	7763,5360
 Export Credit Line for Banco de Desenvolvimento de Angola	144
 Export Credit and Investment Insurance	15457
 Export Credits	11155
+Express ACH Direct Credit Volume Express	19940
 Extended Credit Facility	1828,1755,544,7409,13,10,617,879,1974,12,711,38,1159,260,26,22,69,13,25,545,81,498,335,28,975
 Extended Credit Facility Arrangement	13741
 Extended Credit Facility Arrangement and Approves US	15752
@@ -1095,6 +1107,7 @@ Future Plans CREWS	11191
 G- Creating	582
 GA Creation	19576
 GA Creation of Document	19575
+GACH Direct Credit Transactions	19940
 GCF-SAP CREWS Scaling Up Framework for Early	17065
 GDP Creative	11884,321,146
 GENERAL INFORMATION National Credit Regulator	11198
@@ -1178,7 +1191,7 @@ IDA-D2980 ON A CREDIT	15601
 II Credits	13313
 III. Creation	14729
 ILLUSTRATOR CEO CREATURES ANIMATION ANIMATOR	9781
-IMF Extended Credit Facility	5247,8285,2127,1576
+IMF Extended Credit Facility	5247,8285,2127,1576,2702
 IMF Rapid Credit Facility	17104
 IMF’s Extended Credit Facility	5247
 IMF’s Extended Credit Facility. Liberia	17364
@@ -1479,7 +1492,7 @@ Pantaleo Creti	10841
 Paper-Based Credentials	2291,1271
 Part II Creation	16850
 Part III Creation	16850
-Partial Credit Guarantee	12701
+Partial Credit Guarantee	12701,7239
 Partial Credit Guarantee Fund	6754,1645,35
 Partial Credit Guarantee Fund FIRST Financial	13836
 Partial Credit Guarantee Point of Sale Real	12701
@@ -1716,6 +1729,7 @@ Training and Job Creation	455
 Training and Job Creation Crosswalk	455
 Trains Content Creators	17187
 Transformation Export Credit Guarantee Scheme Eswatini	11134
+Type Credit Cards Banks	19940
 UHC. Create	396
 UNCITRAL Model Law. Created	18797
 UNDER THE EXTENDED CREDIT FACILITY	17990
@@ -1724,6 +1738,7 @@ UNHCR Creation Date	13769
 UNHCR and Grameen Credit Agricole Foundation	13938
 UNLICENSED DIGITAL CREDIT SERVICES PROVIDERS	7464,1268
 USING A CREDIT CARD INFORMAL	10977
+UTC Universal Trusted Credentials UK United	19940
 Uganda Energy Credit Capitalisation Company	19646
 Uganda Energy Credit Capitalization Trust	19646
 Um Crescimento da Consciência	2816
@@ -1735,6 +1750,7 @@ Unified Credit Information Platform	6107
 Unified Digital Credit Registry	8184
 Union Savings and Credit Cooperatives World Bank	12701
 Universal Identity Credential UN United Nations	15518
+Universal Trusted Credentials	19940
 University of Crete	8604
 Unlicensed Digital Credit Service Providers	7559
 Unlicensed Digital Credit Services Providers	8732
@@ -1770,6 +1786,7 @@ Village Bank and Savings and Credit Co-operatives	12409
 Virtual University Creation Project	15550
 Visualization Tools Create	18747
 Volume of Credit	11105
+Volumes ACH Direct Credit Near Real	19940
 W3C Verifiable Credentials	13095,4322
 W3C Verifiable Credentials and Decentralized Identifiers	13080,15
 W3C Verifiable Credentials and OpenID Connect	13080

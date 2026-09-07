@@ -128,7 +128,7 @@ Africa. Region	522,198,223,213,1
 Africa. Regional Initiatives Africa	15553
 African Development Fund Regional Public Goods	6594
 African Markets for Mauritian and Seychellois SMEs Regional	11332
-African Region	4781,9455,493,13,1499
+African Region	4781,9455,493,13,1499,3733
 African Region Data Governance Protocol	16241
 African Region and Sub-regions	14860
 African Region. Geneva	13300
@@ -250,10 +250,12 @@ Body Eastern Africa Regional Digital Integration	18711
 Body NCA Strengthens Regional Partnerships and Data	18651
 Body SADC Strengthens Regional Integration	13655
 Body Visita de Director Regional	12835
+Bono East Region	19959
 Bono East and Ahafo Regional Media and Stakeholder	8766
 Bono East and Ahafo Regions	8580
 Bono East and Eastern Regions	7695
 Bono Region	16511
+Bono and Upper East Regions	19966
 Boost Regional Digital Connectivity	3788
 Boost Regional Travel	4102
 Botswana. Region	19663,12
@@ -596,7 +598,7 @@ ECOWAS ADVANCES REGIONAL CYBERSECURITY COOPERATION THROUGH	9470
 ECOWAS OCWAR-C Regional	1000
 ECOWAS REGIONAL QUALITY	16908
 ECOWAS REGIONAL QUALITY INFRASTRUCTURE	16908
-ECOWAS Region	3008,4444
+ECOWAS Region	3008,4444,12483
 ECOWAS Regional	1264,5158
 ECOWAS Regional Biobank	16971
 ECOWAS Regional Centre for Surveillance and Disease Control	17688
@@ -661,6 +663,7 @@ Eastern Region Plot No	2776
 Eastern Region-Nangarhar	13042
 Eastern RegionDeputy Director	18536
 Eastern Regions	16511
+Eastern Regions of Ghana	19940
 Eastern and Central Regions. The NIA	15430
 Eastern and Southern Africa Region	989,7,12747,353,4859
 Eastern and Southern Africa Region Regional Vice	14910
@@ -680,6 +683,7 @@ Economy and Regional Development	55
 Education Global Practice Africa Region CURRENCY	18765
 Education Western And Central Africa Regional	16187
 Educational Equity and Regional DevelopmentSpeaking	7672
+Effia Nkwanta Regional Hospital. Munin Open	19944
 Egypt Region. Funds	19871
 Egypt Regional Global	15725
 Eighth Region of The Gambia	16874
@@ -842,6 +846,7 @@ Great Lakes Region Human Rights League	11868
 Greater Accra Region	3229,12201,1081
 Greater Accra Region Accra	16604
 Greater Accra Region Mob	3386
+Greater Accra Regional Lands Commission Board	19981
 Greater Accra and Eastern Regions	15657
 Greater Cairo Region	15473
 Greater Not Operational Accra Region. Tel	3386
@@ -890,6 +895,7 @@ Hospital Regional de Malabo Malabo	4209
 Hospital Regional de Malabo Mbini Nsork	4209
 Host Regional Cyberdrill	3096
 House of Peoples' Representatives and Regional Councils	13973
+Household Shocks Map Regional	19942
 Huawei Technologies Southern Region Vice President	12474
 Huawei’s Southern Region Vice President for Operations	6541
 Human Development I Africa Region Document	13953
@@ -1084,7 +1090,7 @@ Kusini Pemba Region. Dropout	19542
 Kusini Unguja Region	19542
 L'ACTION COMMUNALE ET REGIONALE ARTICLE	15469
 LA REGION DES SAVANES SUR LEURS	19252,21
-LABOUR ENVIRONMENT Regional Integration	10759,78,1052,451
+LABOUR ENVIRONMENT Regional Integration	10759,78,1052,451,7598
 LAND ADMINISTRATION AND REGIONAL	17228
 LAND ADMINISTRATION AND REGIONAL GOVERNANCE	17228
 LEGAL STATUS AND REGION	17043
@@ -1234,6 +1240,7 @@ Monetary Union WARCIP West Africa Regional	1264
 Month Manzini Region Hhohho Region Shiselweni	12977
 Monthly Expenditure SASSA Volumes and Distribution Regional	8999
 Montserrado and Bong Counties’ Regional Blood Banks	16971
+Morogoro Region	19974
 Morogoro Regional Regional Secretariat	19585
 Morogoro Regional Unqualified Compliant	19585
 Mozambique Eastern and Southern Africa Region Attachment	2474
@@ -1324,9 +1331,11 @@ North-West and South-West Regions	4579,10890
 Northern Coastal Regions	17157
 Northern Guéra Region	10841
 Northern Northern Nairobi County Region Meru	7869
-Northern Region	2776,6151,3247,79,25,475,4931,788,1243
+Northern Region	2776,6151,3247,79,25,475,4931,788,1243,259
 Northern Region Operational November P. O	3386
+Northern Region's CHPS	19974
 Northern Region. Apart	13361
+Northern Region. Out	19974
 Northern Region. The Chinese Government	13122
 Northern RegionDeputy Director	18536
 Northern Regional Chairman	10142
@@ -1697,7 +1706,7 @@ Recommendations for WATRA and Regional Institutions WATRA	5676
 Rede Regional	11527
 Reform Within the Regional Framework	15298
 Regio	18764
-Region	92,37,20,37,10,17,1,22,14,48,47,3,1,15,99,2,59,58,44,4,48,48,2,105,8,128,94,1,4,2,1,1,1,86,47,1,1,56,180,1,1,1,1,19,90,608,76,534,55,774,258,1110,468,350,642,778,242,24,215,72,87,19,734,124,164,176,694,840,117,41,26,9,18,10,7,6,2,1,2,1,71,52,4,242,24,146,90,55,28,314,3,11,1,4,1,2,6,10,30,211,7,1,6,3,13,23,2,3,22,30,84,1,11,1,12,8,10,17,9,3,14,22,40,62,185,213,14,8,2,5,83,37,92,784,11,21,19,89,123,322,217,70,345,2,438,28,3,11,53,18,7,95,394,2,25,51,279,8,72,22,70,2,1,81,1,4,10,20,39,9,14,79,15,71,38,83,182,53,273,361,197,140,2,21,6,5,159,59,492,99,2,232,2,22,2,13,95,1,20,3,39,107,14,22,1,3,3,6,53
+Region	92,37,20,37,10,17,1,22,14,48,47,3,1,15,99,2,59,58,44,4,48,48,2,105,8,128,94,1,4,2,1,1,1,86,47,1,1,56,180,1,1,1,1,19,90,608,76,534,55,774,258,1110,468,350,642,778,242,24,215,72,87,19,734,124,164,176,694,840,117,41,26,9,18,10,7,6,2,1,2,1,71,52,4,242,24,146,90,55,28,314,3,11,1,4,1,2,6,10,30,211,7,1,6,3,13,23,2,3,22,30,84,1,11,1,12,8,10,17,9,3,14,22,40,62,185,213,14,8,2,5,83,37,92,784,11,21,19,89,123,322,217,70,345,2,438,28,3,11,53,18,7,95,394,2,25,51,279,8,72,22,70,2,1,81,1,4,10,20,39,9,14,79,15,71,38,83,182,53,273,361,197,140,2,21,6,5,159,59,492,99,2,232,2,22,2,13,95,1,20,3,39,107,14,22,1,3,3,6,53,15,13
 Region ADMINISTRATIVE REGION SENIOR SECONDARY	18461
 Region AFR	10785
 Region AFRICA Conflicts	18358
@@ -1956,6 +1965,7 @@ Regional Community Network of African Data Cross-border	961
 Regional Comparison	12963
 Regional Comparison of Global Venture Capital	4972
 Regional Competency Enhancement Workshop	12726,344,987
+Regional Competition Policy Framework	19957
 Regional Composition	17043
 Regional Composition Region Counties Southeastern	17043
 Regional Comprehensive Economic Partnership	1243
@@ -2112,6 +2122,7 @@ Regional Distribution Of Functional Health Facilities	19544
 Regional Distribution of Customer Connections Changes	12969
 Regional Distribution of FM Stations	2776
 Regional Distribution of Jobs	19284
+Regional Doctoral School	19955
 Regional Durable Solutions Secretariat	12227
 Regional EGDI	1893
 Regional EMIS	19907
@@ -2209,6 +2220,8 @@ Regional Health Bureaus	1824,10431
 Regional Health Data Hub	14236,2005
 Regional Health Data Networks	14434
 Regional Health Data Sharing and Protection Policy	14434
+Regional Health Directorate	19974
+Regional Health Directorate Training Unit	19974
 Regional Health Directors	14773
 Regional Health Information System	3791
 Regional Health Information System SOP Standard	3791
@@ -2241,6 +2254,8 @@ Regional Indicative Strategic Plan	13359
 Regional Indicative Strategic Programme	12975
 Regional Indicator	18754
 Regional Industry	16776
+Regional Infographics	19942
+Regional Infographics Dissemination	19942
 Regional Information Sharing Platform	5677
 Regional Information Sharing Platform Faced	5677
 Regional Information Sharing and Analysis Centre	13880
@@ -2263,7 +2278,7 @@ Regional Instrument Centre	11553
 Regional Instruments	16951
 Regional Insurance Supervisory Commission	6938
 Regional Integrated Budget	15790
-Regional Integration	1179,2425,510,1127,1696,218,547,3057,76,2,1,74,56,581,321,16,2,1,16,247,1,1,9,177,1,11,1,135,474,601,92,424,72,667,94,641,106,1379,67,226,1423,133,358,388,19,1,169,14,22,1,65
+Regional Integration	1179,2425,510,1127,1696,218,547,3057,76,2,1,74,56,581,321,16,2,1,16,247,1,1,9,177,1,11,1,135,474,601,92,424,72,667,94,641,106,1379,67,226,1423,133,358,388,19,1,169,14,22,1,65,14,1
 Regional Integration And Employment	17038
 Regional Integration And Inclusion	10909
 Regional Integration Assistance Strategy	15511
@@ -2271,7 +2286,7 @@ Regional Integration Assistance Strategy for Africa	18754
 Regional Integration Boutheina Guermazi	16936
 Regional Integration COMESA	13563
 Regional Integration Division	10634
-Regional Integration Economic Diversification Business	10837,1315,188
+Regional Integration Economic Diversification Business	10837,1315,188,7598
 Regional Integration Limited	14818
 Regional Integration Page	15424
 Regional Integration Project ESMIS Education Sector	19565
@@ -2356,6 +2371,7 @@ Regional Network for Equity	8479
 Regional News	10025
 Regional News Paper	13017
 Regional Ocean Model	9475
+Regional Off-Grid Electricity Access Project	19943
 Regional Off-Grid Electricity Access Project RPF	11549
 Regional Office	7167,3597,12,68,719,33,3302,25,802,321,195,700,208,594,380,1721
 Regional Office Buteko Avenue	13532
@@ -2373,7 +2389,7 @@ Regional Office for Eastern Africa	14899
 Regional Office for Southern Africa	10073
 Regional Office for Southern Africa Regional Groups	12550
 Regional Office for West and Central Africa ROWCA	16411
-Regional Offices	12337,68,512,65,126,1438,5166
+Regional Offices	12337,68,512,65,126,1438,5166,223,1
 Regional Offices CA Central and Eastern CA	6946
 Regional Offices SWMU	14742
 Regional Offices for Capacity Building WCO Structure	13051
@@ -2586,6 +2602,7 @@ Regional and District	10970,8550
 Regional and District Census Coordinators	19542
 Regional and District Commissioners	19616
 Regional and District Data	18441
+Regional and District Offices	19935
 Regional and District Offices. Having	18475
 Regional and ECOWAS and African Union	1777
 Regional and Economic Integration	14986
@@ -2658,7 +2675,7 @@ RegionaloApadministration Act	19525
 Regiones Insular	17112
 Regionhtas	19525
 Regionless	1729
-Regions	523,59,1362,945,2729,1110,80,138,128,747,2943,21,9,35,12,6,5,303,408,636,3,24,150,536,39,12,7,1,62,979,125,699,249,534,226,187,821,14,290,28,595,90,64,436,94,11,106,479,481,1,2,171,91,34,1
+Regions	523,59,1362,945,2729,1110,80,138,128,747,2943,21,9,35,12,6,5,303,408,636,3,24,150,536,39,12,7,1,62,979,125,699,249,534,226,187,821,14,290,28,595,90,64,436,94,11,106,479,481,1,2,171,91,34,1,100
 Regions Annually	15845
 Regions Annually Gaming	15845
 Regions Annually Ghana Annually Immigration	15845
@@ -2908,6 +2925,7 @@ Startup World Cup Regional Semi-Finals	18518
 State Minister of Trade and Regional Integration	12259
 State Parties and Regional Economic Communities	19067
 Statelessness Regional Strategic Meeting Publish	17323,1
+Statistics Statistics Overview Regional	19942
 Statistics and Regional Integration	15553,106
 Stephane Guimbert Regional Director	13861,1802
 Strategic Sovereignty and Regional Leadership Global	7548
@@ -3024,8 +3042,10 @@ Universal Meaningful Score Score Economy Region	17743
 Universidades Regionais	15367
 Update Regional Brief	11867
 Update Regional Brief for West and Central Africa	11867
-Upper East Region	7165,789
+Upper East Region	7165,789,12020
 Upper East Region E-Mail	2776
+Upper East Region of Ghana	19974
+Upper East Region of Northern Ghana. BMC	19974
 Upper East Regional	3691
 Upper East Regional Chairman	3691
 Upper East Regions	16218
@@ -3050,6 +3070,7 @@ Vertiv’s Regional Director for Northwest Africa	8244
 Vice-President and Regional Manager of Government Solutions	3613
 Victoria Kwakwa Regional Director	1867,606,8295,1408,2280,481
 Victoria Kwakwa. Regional Director	12388
+View Statistics Regional	19942
 Visa's Regional President for CEMEA	2610
 Visited District Region District	19541
 Visited Region Region Age Category Average	19541

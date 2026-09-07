@@ -56,6 +56,7 @@ American Standard Code for Information Interchange	1984
 Angola. While the Code	10765,10
 Angolan Criminal Code	3722
 Any Code of Practice	14727
+App and Mobile Short Codes	19966
 Appeals. PART VIII CODE OF CONDUCT	13319
 Applicant Code	12367
 Application Insufficient Coding High	19533
@@ -81,6 +82,7 @@ B Review of Advertising Code	16884
 B' CODE	13300
 B-BBEE Code	2937
 B-BBEE ICT Sector Code	2946,2114,4875
+B2B Business-to-Business CCC Cheque Codeline Clearing	19940
 BAOBAB Code	18032
 BARRE. CODE BARRE. ABSENT	13300
 BARRE. CODE BARRE. ABSENTE	13300
@@ -264,6 +266,8 @@ Challenge CODAN MCA-COD-ENV- Conforme Account	998
 Challenge Categories and Coding Rules Nine	7151
 Check Codification and MICR Standards	17235
 Check Codification and Magnetic Ink Character Recognition	17235
+Cheque Codeline Clearing	19940
+Cheque Codeline Clearing Cheque Codeline Clearing	19940
 Chief Code	13239
 Chief Codes	13239
 Chief Codes. Dlamini	13239
@@ -527,6 +531,7 @@ Code du Travail8	18930
 Code for Africa	6055,9287
 Code for AfricaFollow6	6055
 Code for Africa’s DataLab	6055
+Code for Digital Identity Data Use	19964
 Code for South Africa	961
 Code of Best Practice	13053
 Code of Civil Procedure	17934
@@ -718,6 +723,7 @@ Codeetlestextesspécifiquesenvigueur.Art.616	19212
 Codeetsestextesd’application.Art.553	19212
 Codeetuncertificatd’inscriptionestremis	19212
 Codemao	16227
+CodenCocktails	19977
 Codenroll Privacy	11539
 Codeou	19212
 Codepeutservir. Art.695	19212
@@ -734,7 +740,7 @@ Coder Débugger Déployer Documenter Tester EXEMPLE	19221
 Coders Eswatini	4866,2821,4776,660,4469
 Coders and AI Practioners	4866
 CodersEswatini	11667
-Codes	961,11,1109,1806,567,1,1,676,1562,252,332,3902,55,1416,681,740,416,1,1,161,76,644,4,34,19,36,69,64,2,15,67,22,75,242,958,1005,326,23,144,440,334
+Codes	961,11,1109,1806,567,1,1,676,1562,252,332,3902,55,1416,681,740,416,1,1,161,76,644,4,34,19,36,69,64,2,15,67,22,75,242,958,1005,326,23,144,440,334,701,23
 Codes Add	8603
 Codes Headings	16927
 Codes MFP Mutuelle	13306
@@ -786,7 +792,7 @@ Codifies	4366
 Codify	11136,13
 Codifying	3503
 Codigo	18786
-Coding	1261,6017,511,1,497,318,286,3199,2576,84,100,1479,1000,168,95,2182
+Coding	1261,6017,511,1,497,318,286,3199,2576,84,100,1479,1000,168,95,2182,200
 Coding Academy	8016,4066
 Coding Academy’s Project-Based Learning	8839
 Coding Camp	2816,10279
@@ -914,7 +920,7 @@ Development of Code of Conduct	1988
 Development of Digitally Signed QR Code and Digital	12241,839
 Dialogue Terms of Reference Structured Dialogue Code	17403
 Digit Short Codes	6946
-Digital Address Code	16915
+Digital Address Code	16915,3021
 Digital Code	1839,1314,40,411,281,68,251,125,254,511,313,18,475,4174,782,1024,26,12,1944,15,10,33,6,1771,447,3101,594,8
 Digital Code Act	2679
 Digital Code Frequency Annual Data	19245
@@ -1084,6 +1090,7 @@ Global and Regional AI Dialogues Code G-I2-A1	15713
 Google Plus Code	16915
 Google Plus Codes	16915,442
 Government AI Adoption Code	7548
+Government's One Million Coders Programme	19966
 Green Building Code. Tourism	14829
 Green Coding	11687
 Grid Code	13054,1813,80,3590
@@ -1300,9 +1307,10 @@ Mauritius Quality Code	14747
 Mauritius Quality Code for Higher Education	14747
 Mauritius Quality Code for Higher Education MRAs	14747
 Media Council Code of Media Practice	12100
-Million Coders	4766,4001,1483,5555
+Million Coders	4766,4001,1483,5555,4161
 Million Coders Initiative	8113,5308
-Million Coders Programme	3582,1637,8,71,480,157,2352,78,400,657,116,534,162,351,4732
+Million Coders Program	19958
+Million Coders Programme	3582,1637,8,71,480,157,2352,78,400,657,116,534,162,351,4732,4649
 Million Coders Programme. Certified	15317
 Million Ethiopian Coders	5871
 Million Ethiopian Coders Initiative	8349,5781
@@ -1318,6 +1326,7 @@ MoMo Code	9223
 Mobile Country Code	16934
 Mobile National Destination Codes	6946
 Mobile Network Code	16934
+Mobile Short Code	19966
 Model Law Part XII Code of HIPSSA	27
 Moderately Unsatisfactory D. Sector and Theme Codes	16614
 Modernised Customs Code	16843
@@ -1435,6 +1444,7 @@ PROJECT NAME AND SAP CODE	11863,2075
 PROV NET Code	18032
 PUBLICS. Code	17812
 Parliamentary Service Code of Conduct	19161
+Pedersen OK. Coding	19974
 Penal Code	3583,1060,475,304,1548,303,2943,317,446,874,348,93,746,699,224,22,56,5,27,76,1,711,1,145,224,162,1442,1115,648,288,2,32,253,192,160,365,5,5
 Penal Code Act	1535,3887,7981
 Penal Code Cap	11857,596,892

@@ -150,7 +150,7 @@ Exames Efectuados	18768
 Exames da Avaliação Externa	15772
 Examina	18802
 Examinar	1701,9748,3942,3397,12
-Examination	3,8351,1842,2031,402,346,168,168,74,92,1193,536,1396,298,1664,361,659,1,229
+Examination	3,8351,1842,2031,402,346,168,168,74,92,1193,536,1396,298,1664,361,659,1,229,137
 Examination B.Sc. Bachelor of Science CAP Common	18578
 Examination BoG Board of Governors CAPI Computer	18460
 Examination Centre	13477
@@ -169,6 +169,7 @@ Examination of Nationality Certificates	18595
 Examination of Nationality Certificates Guidelines	18595
 Examination of Naturalization Certificates	18595
 Examination of Naturalization Certificates Guidelines	18595
+Examination of Payment Service Operations of Banks	19940
 Examinations	736,3874,8533,334,1359,4854
 Examinations Council of Eswatini	12975
 Examinations Council of Zambia	13477
@@ -242,7 +243,7 @@ Example of Rural Addresses	11129
 Example of Rural Addressing	11129
 Example of Urban Addressing	11129
 Example. The Kenya Social Security Agency	14524
-Examples	21,375,36,1,149,379,9,39,252,553,14,160,901,762,210,265,484,15,347,468,158,67,35,453,386,54,121,874,162,1,532,153,563,124,1591,51,10,4,33,7,27,131,30,133,9,47,2,347,27,158,188,34,4,38,1,6,22,67,120,19,24,3,46,26,11,20,60,23,3,89,125,15,267,181,129,47,12,2,2,17,16,14,20,151,92,314,53,443,90,146,53,96,239,27,44,32,3,80,98,105,26,7,124,55,485,700,23,5,4,48,15,3,21,48,26,31,46,2,24,17,103,610,14,314,289,400,44,306,297,21,95,7,144,25,34,30,10,4
+Examples	21,375,36,1,149,379,9,39,252,553,14,160,901,762,210,265,484,15,347,468,158,67,35,453,386,54,121,874,162,1,532,153,563,124,1591,51,10,4,33,7,27,131,30,133,9,47,2,347,27,158,188,34,4,38,1,6,22,67,120,19,24,3,46,26,11,20,60,23,3,89,125,15,267,181,129,47,12,2,2,17,16,14,20,151,92,314,53,443,90,146,53,96,239,27,44,32,3,80,98,105,26,7,124,55,485,700,23,5,4,48,15,3,21,48,26,31,46,2,24,17,103,610,14,314,289,400,44,306,297,21,95,7,144,25,34,30,10,4,62
 Examples Keywords Base Map Base Maps	18904
 Examples for Section	8530
 Examples of Bid	14778

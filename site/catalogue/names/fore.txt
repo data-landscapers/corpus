@@ -406,6 +406,7 @@ FOREIGNERS AND THOSE DRAWN UP	12338
 FOREIGNERS WHO ARE ETHIOPIAN BY BIRTH	14004
 FOREMI	2342,15525
 FOREN	17152
+FORENSIC AUDIT OF NIA CONTRACT	19934
 FORENSIC AUDIT PUBLIC ENGAGEMENT PLATFORM CONTACTS	12557
 FORENSIC SCIENCE SERVICES	12984
 FORENSIC SERVICES	19772
@@ -548,7 +549,7 @@ Forecasts for LTE	236
 Forefront	17106,81,79
 Forefront of Environmental Action Across UNDP Namibia	9873
 Forefront of Transformation Videos Rising Up for SIDS	11332
-Foreign	7,229,159,2002,62,317,50,87,157,417,96,71,391,81,1,455,359,28,13,262,411,209,544,15,246,268,1,12,598,668,85,539,64,32,107,356,171,23,37,22,20,67,284,107,27,178,403,55,6,42,139,151,2,1,2,54,34,74,171,55,26,142,231,32,1,44,6,36,109,24,52,42,1,45,98,7,25,45,6,272,3,33,78,142,29,148,113,32,11,30,74,71,13,323,80,9,28,23,16,108,75,214,315,48,1,8,103,101,61,44,34,43,163,278,592,25,614,1,90,18,12,6,160,11,87,21,164,274,78,490,181,9,88,56,200,244,324,167,10,60,30,23,218,14,14
+Foreign	7,229,159,2002,62,317,50,87,157,417,96,71,391,81,1,455,359,28,13,262,411,209,544,15,246,268,1,12,598,668,85,539,64,32,107,356,171,23,37,22,20,67,284,107,27,178,403,55,6,42,139,151,2,1,2,54,34,74,171,55,26,142,231,32,1,44,6,36,109,24,52,42,1,45,98,7,25,45,6,272,3,33,78,142,29,148,113,32,11,30,74,71,13,323,80,9,28,23,16,108,75,214,315,48,1,8,103,101,61,44,34,43,163,278,592,25,614,1,90,18,12,6,160,11,87,21,164,274,78,490,181,9,88,56,200,244,324,167,10,60,30,23,218,14,14,34
 Foreign AI	4528,7984
 Foreign Account Tax Compliance Act	6524,1,5160
 Foreign Adversaries Act	11154
@@ -815,6 +816,7 @@ Foreigner ID	2770,9471,4742
 Foreigner ID Card	2766,9567
 Foreigner ID Card. Immediate	2766
 Foreigner Identification Management System	16088
+Foreigner Identification Management Systems	19935
 Foreigner Registration Digital	13005
 Foreigner Travel Document	12333
 Foreigner's Residence Permit	11869
@@ -989,10 +991,10 @@ Forestry and Tourism	9353
 Forestry and Wildlife Authority	14089,54
 Forestry-based	17043
 ForestryFraud	11215
-Forests	1988,8771,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1074,1567,243,101,128,1013,239,143,144,1711,36,765,1,169,14,22,1,65
+Forests	1988,8771,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1074,1567,243,101,128,1013,239,143,144,1711,36,765,1,169,14,22,1,65,14,1
 Forests Act	13403,6121
 Forests Act No.4	1988
-Forests Land	10837,1315,188
+Forests Land	10837,1315,188,7598
 Forests Medium	16996
 Forests OP	11525,330,282,3274,2693
 Forests UNFF United Nations Global Geospatial	15129
@@ -1078,6 +1080,7 @@ Functions of Forestry Law Enforcement Dptm. and Planning	16848
 G-20 Foreign Ministers Meeting	13744
 G20 Foreign Ministers' Meeting	18378
 GOVERNORS' FOREWORD DR. J. P. MANGUDYA	940
+GOVERNOR’S FOREWORD	19940
 GT HC Foreign Exchange Gross Domestic	11134
 Gabon MPTF-Cntrl African Forest	15500
 Gabon’s Foreign Minister	16285
@@ -1090,6 +1093,7 @@ German Forestry Mission	17140
 Gestion des Ressources Forestières	17829
 Ghana Digital Economy Policy and Strategy Foreword	15629
 Ghana Forecasting	236
+Ghana's Foreign Missions and Associations of Ghanaians	19935
 Gill's Foreword	9025
 Global Earth Observations for Crop Inventory Forecasting	13094
 Global Forecast System	18309,1145
@@ -1135,6 +1139,7 @@ I. FOREWORD The Government	12939
 ICT Development Foreword	582
 ID. Foreigners	4439
 IGAD Seeks Consultant for Crop Monitoring and Forecasting	13925
+II CONTENT Governor’s Foreword I Abbreviations	19940
 INCIDENTAL TO THE FOREGOING	19161
 INCREASE REMOVALS Enhancement of Forest-Carbon Stocks	17140
 INNOVATIONS TO FOREIGN MARKETS	14004
@@ -1794,7 +1799,7 @@ UAE Minister of State for Foreign Affairs	14064
 UAE-President-of-Guinea Ministry of Foreign Affairs Skip	16622
 UAE-Sao-Tome-and-Principe Ministry of Foreign Affairs Skip	18759
 UK Foreign	2590,4296,1156,2011,950,130,864,3067
-UK Foreign Commonwealth	12191
+UK Foreign Commonwealth	12191,7752
 UK Foreign and Commonwealth Development Office	11142,7346,89
 UK Government’s Foreign	11017,66
 UK Officials Prime Minister and Minister of Foreign	16114

@@ -249,7 +249,7 @@ Civil Social Organisation	15004
 Civil Society Organisation	12551,5914,3
 Civil Society Organisation EIA Environmental Impact	16843
 Civil Society Organisation.5.3. Participants	2626
-Civil Society Organisations	1630,919,2695,2213,2273,1281,849,473,120,300,168,25,18,23,131,202,69,2538,1787,72,674,17,604,634
+Civil Society Organisations	1630,919,2695,2213,2273,1281,849,473,120,300,168,25,18,23,131,202,69,2538,1787,72,674,17,604,634,222
 Civil Society Organisations Civil Society Organisations	5244
 Civil Society Organization	14742,118
 Civil Society Organization DHIS2	10776
@@ -392,6 +392,7 @@ DISTRIBUTION OF PLOTS USING ORGANIC	17043
 DIVINE MERCY COMMUNITY BASED ORGANIZATION Data	7167
 DPF ORGANES D’EXECUTIONS Sécurité	15901
 DU FONCTIONNEMENT DES ORGANES DELIBERANTS DES	18096
+Data Breaches Organisations	19968
 Data Protection Compliance Organisation	11956
 Data Protection Compliance Organisations	8981,329
 Data Protection Compliance Organizations	1014
@@ -415,6 +416,7 @@ Development OPEC Organization	17105
 Development Organization	17105
 Development Plan NGO Non-governmental Organisation NIS	5533
 Digital Cooperation Organization	2435,1402,3332,7165,598,2137
+Digital Cooperation Organization Generative AI Initiative	19957
 Digital Economy Summit Organize	17011
 Digital Trade Organizer Technology	12055
 Digitised Organization	12551
@@ -458,6 +460,7 @@ EFFECTIVE COMMUNICATION AND NATIONAL GUIDANCE Organized	19641
 ELECAM Coordinatio Organiser	15999
 ENTITE ORGANISME PUBLIC Service Informationnel Service	15936
 ENTREPRENEURSHIP AND INNOVATION SUPPORT ORGANISATIONS Number	19534
+EOCO Economic and Organised Crime Office EPI	19940
 EPA Encuesta de Población Activa PAO Organización	16898
 ESI Institutional Organization	15017
 ESO Entrepreneur Support Organizations E-GP E-government	14897
@@ -508,6 +511,7 @@ Empresas Precisam De Organizar A Sua	8003
 Enfants Vulnérables ONG Organisme Non	15746
 Engaging Civil Society Organizations	10714,293
 Enrichissement Illicite ONU Organisation des Nations Unies	6959
+Enterprise Support Organisations	19941
 Entrepreneur Support Orga- Africa	14897
 Entrepreneur Support Organisations	16817
 Entrepreneur Support Organizations	1264,12969,664
@@ -542,7 +546,7 @@ European Organisation	16077,294,2207
 European Patent Organisation	9067
 European Patent Organisation English	9067
 Europe’s the European Organisation	17922
-Evaluation ILO International Labour Organization IMF	10759,78,1052,451
+Evaluation ILO International Labour Organization IMF	10759,78,1052,451,7598
 Evidence Organisation of The Islamic Cooperation	10911
 Example of Organization Address	11129
 Executive Organs	13986,5
@@ -779,6 +783,7 @@ Index NGO Non-governmental Organization NPV Net	11560
 Index Non-Governmental Organisation Near Real-Time National	10763
 Indian Economic and Trade Organization	16285
 Indian Space Research Organisation	16331
+Indonesia and Kenya. Bull World Health Organ	19974
 Infancia UNESCO Organización	16898
 Information Security Organization	19801
 Information Security Organization Organizations	19801
@@ -844,6 +849,7 @@ International Organisation of Migration	19873
 International Organisation of Securities Commissions	10570
 International Organisation of Supreme Audit Institutions	19584,1
 International Organisations	1814,1682,7323,1730,925,960,1851
+International Organisations Research Journal	19944
 International Organisations and Development Partners	14409
 International Organization	4676,6634,6832,55
 International Organization Charters	2958
@@ -1105,11 +1111,11 @@ Non-Governmental Organisation Council	5250,7347
 Non-Governmental Organisation NIPAC	958
 Non-Governmental Organisations	396,544,5181,5033,706,1061,25,1780,16,37,56,2052,52,2581
 Non-Governmental Organisations' Act	13339
-Non-Governmental Organization	12356,684,2371
+Non-Governmental Organization	12356,684,2371,4563
 Non-Governmental Organization NGOs	16951
 Non-Governmental Organization NIDA	12338
 Non-Governmental Organization ORSEC	18309
-Non-Governmental Organizations	21,1757,740,8445,166,726,5,1047,68,1,146,994,744,985,591,416,22,13,262,140,1615
+Non-Governmental Organizations	21,1757,740,8445,166,726,5,1047,68,1,146,994,744,985,591,416,22,13,262,140,1615,1070
 Non-Governmental Organizations Act	3583
 Non-Governmental Organizations. Outcomes	14888
 Non-Profit Organisation	14798,30,3
@@ -1372,6 +1378,7 @@ Organisation Budget	8726,408,140,9437
 Organisation Chart	14736
 Organisation Commune Africaine	15415
 Organisation Contact Person Position	17212
+Organisation EOCO Economic and Organised Crime Office	19937
 Organisation Etant	15495
 Organisation Fonctionnetnent du Ministère des Finances	13334
 Organisation Guinéenne des Droits	16641
@@ -1484,7 +1491,7 @@ Organisation for Economic Development and Cooperation. OECD	15604
 Organisation for Economic and Development Cooperation. PIRLS	15604
 Organisation for ISO	12364
 Organisation for Migration LPG Liquefied Petroleum Gas	19590
-Organisation of African	12675,266,47,1008,110,522,4357
+Organisation of African	12675,266,47,1008,110,522,4357,993
 Organisation of African Unity	6997,3844,3568,333
 Organisation of African Unity Convention	12910
 Organisation of African Unity IT Information Technology	11986
@@ -1523,7 +1530,7 @@ Organisationdelasécuritédusystèmed'information	15525
 Organisationnel	9406
 Organisationnels	748
 Organisationpourl’HarmonisationenAfriqueduDroitdesAffaires	19212
-Organisations	34,361,603,245,443,253,1,153,1037,1128,1301,106,200,633,134,51,44,118,101,109,297,399,195,75,6,256,97,57,126,28,49,8,63,180,278,247,258,141,15,47,141,139,11,46,124,483,5,97,42,247,6,95,453,174,12,4,210,35,776,56,3,341,12,143,21,82,60,15,453,62,132,68,17,123,74,97,50,597,40,51,22,99,90,27,10,2,43,14,16,48,3,438,315,15,1,4,20,10,207,81,8,771,28,81,18,37,64,37,117,165,21,5,15,4,301,446,66,97,1,50,92,3,529,15
+Organisations	34,361,603,245,443,253,1,153,1037,1128,1301,106,200,633,134,51,44,118,101,109,297,399,195,75,6,256,97,57,126,28,49,8,63,180,278,247,258,141,15,47,141,139,11,46,124,483,5,97,42,247,6,95,453,174,12,4,210,35,776,56,3,341,12,143,21,82,60,15,453,62,132,68,17,123,74,97,50,597,40,51,22,99,90,27,10,2,43,14,16,48,3,438,315,15,1,4,20,10,207,81,8,771,28,81,18,37,64,37,117,165,21,5,15,4,301,446,66,97,1,50,92,3,529,15,58
 Organisations Addresses Contact	17099,15
 Organisations DGP Gross Domestic Product ECR	18577
 Organisations ENAP	18324
@@ -1635,7 +1642,7 @@ Organizado	8048,1188,8101
 Organizar	167,1534,1115,703,699,6536,622,5,1,53,9,5,79,3830,33,112,23,1367,5
 Organizar la Administración Pública de Guinea Ecuatorial	1701
 Organizatio	6612
-Organization	766,234,1093,865,625,866,1228,755,180,462,1998,10,41,636,96,245,659,17,4,49,8,4,288,181,559,9,11,52,399,19,30,24,167,32,131,25,180,24,22,225,144,108,104,407,220,661,15,18,31,5,2,31,28,63,73,54,61,42,54,32,43,243,3,53,1186,21,6,15,1,7,8,14,24,27,45,59,13,149,152,443,425,160,261,134,87,568,2,36,113,42,175,13
+Organization	766,234,1093,865,625,866,1228,755,180,462,1998,10,41,636,96,245,659,17,4,49,8,4,288,181,559,9,11,52,399,19,30,24,167,32,131,25,180,24,22,225,144,108,104,407,220,661,15,18,31,5,2,31,28,63,73,54,61,42,54,32,43,243,3,53,1186,21,6,15,1,7,8,14,24,27,45,59,13,149,152,443,425,160,261,134,87,568,2,36,113,42,175,13,38
 Organization Address Figure	11129
 Organization Also Known As Long Name	16948
 Organization CSRWASHDEP Climate Smart Rural Water	17105
@@ -1769,7 +1776,7 @@ Organizational Structure of MoE Table	15796
 Organizational Structures and Human Resources	18612
 Organizational Target	13999
 Organizational and Institutional Development	14857
-Organizations	1988,108,1384,646,133,626,464,804,994,4,424,21,370,452,79,575,1637,56,87,277,25,19,23,667,104,226,104,5,54,32,1,55,828,676,862,87,13,27,121,62,87,3,270,564,879,176,28,1191,102,29,455,438,301,158,5,29,12,8
+Organizations	1988,108,1384,646,133,626,464,804,994,4,424,21,370,452,79,575,1637,56,87,277,25,19,23,667,104,226,104,5,54,32,1,55,828,676,862,87,13,27,121,62,87,3,270,564,879,176,28,1191,102,29,455,438,301,158,5,29,12,8,80
 Organizations Affiliated	12837
 Organizations Borrower	1867,8901,61,696,35,1772,2289,37,3,483,1960,94,103,550,394
 Organizations Borrower Implementing Agency ISLAMIC REPUBLIC	17849
@@ -1826,7 +1833,7 @@ Organizações da Sociedade	10752
 Organizações da Sociedade Civil	11569,3985,140
 Organizações da Sociedade Civil PDCT	11387
 Organizações da Universidade de Santiago	16290
-Organize	1000,204,610,71,1719,522,402,1149,1270,1599,3810,156,163,287,118,911,933,4,7,62,59,428,120,109,132,988,30,13,71,4,20,40,7,81,17,41,1148,65,110,606,148,285,325
+Organize	1000,204,610,71,1719,522,402,1149,1270,1599,3810,156,163,287,118,911,933,4,7,62,59,428,120,109,132,988,30,13,71,4,20,40,7,81,17,41,1148,65,110,606,148,285,325,93
 Organize AI	12356
 Organize Blockchain Technology	12241
 Organize Competitions and Conferences	12675
@@ -2398,11 +2405,12 @@ World Health Organisation INTRODUCTION	19715
 World Health Organisation ZEP	14742
 World Health Organisation’s Regional Office for Africa	16195
 World Health Organiza-	8301
-World Health Organization	396,364,6,5,238,203,7,42,563,164,960,57,578,68,1289,208,17,385,1043,201,222,96,75,361,202,16,43,492,75,103,725,495,156,114,200,19,341,133,114,1,3,4,28,10,7,52,59,585,47,6,18,59,10,222,18,64,21,35,113,13,2,1,9,68,9,15,83,3,26,46,95,98,333,101,64,59,3,264,24,416,150,126,90,198,232,107,66,55,2,2,79,62,17,82,68,41,164,107,56,16,135,252,60,4,66,82,30,94,16,80,487,6,20,4,15,1,7,1,21,286,24,135,453,759,29,264,363,123,137,11,98,127,64,14,1,28,2
+World Health Organization	396,364,6,5,238,203,7,42,563,164,960,57,578,68,1289,208,17,385,1043,201,222,96,75,361,202,16,43,492,75,103,725,495,156,114,200,19,341,133,114,1,3,4,28,10,7,52,59,585,47,6,18,59,10,222,18,64,21,35,113,13,2,1,9,68,9,15,83,3,26,46,95,98,333,101,64,59,3,264,24,416,150,126,90,198,232,107,66,55,2,2,79,62,17,82,68,41,164,107,56,16,135,252,60,4,66,82,30,94,16,80,487,6,20,4,15,1,7,1,21,286,24,135,453,759,29,264,363,123,137,11,98,127,64,14,1,28,2,71,14
 World Health Organization Disability Assessment Schedule	14622
 World Health Organization Ethiopia	14042
 World Health Organization Every	10881
 World Health Organization FFP Fund	10835,3,130,902,16,466,1,135,7334
+World Health Organization Gabon	19960
 World Health Organization LIST OF KEY	15574
 World Health Organization Malawi WHO MALAWI	13166
 World Health Organization Maturity Level	6594
@@ -2454,7 +2462,7 @@ World Health Organization’s Global Strategy	10865
 World Health Organization’s International Health	9718
 World Health Orgnization	8376
 World Intellectual Property Organisation	961,13605,182
-World Intellectual Property Organization	7548,3421,914,1,1,10,40,224,1,1,43,1,146,4,21,111,1498,868,2020,69,376,1479,1065,3
+World Intellectual Property Organization	7548,3421,914,1,1,10,40,224,1,1,43,1,146,4,21,111,1498,868,2020,69,376,1479,1065,3,87
 World Intellectual Property Organization COVID-19	13312,2
 World Intellectual Property Organization Copyright Treaty	11550
 World Intellectual Property Organization. Suggested	14898,827

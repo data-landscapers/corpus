@@ -44,6 +44,7 @@ Bank of Ghana and G	17536
 Berhe G	12379
 Bid. G. Evaluation of Technical Parts of Bids	13185
 Biemba G	3791
+Bisjawit G	19974
 Bjune G. Assessing	10881
 Blank G	8460
 Business Capital By Stephen G. Fellajuah	14274
@@ -90,6 +91,7 @@ DE G. DE GRAL POLICIA JUDICIAL	4209
 DE L'ENDROIT. G	13300
 DES PERSONNES IMPOSABLES Article G	15999
 DR. GABRIEL G. G. MALEBANG	3887,8675,67
+Diallo G. Health	19974
 Diapoulis G	9739
 Dinsa G	3791
 Direction G	14479
@@ -187,7 +189,7 @@ G Connectivity	3770
 G Consumer Business Case	5675
 G Continuum	8283
 G Core	2528,15
-G Coverage	10856,2488,3540,355,631,2061
+G Coverage	10856,2488,3540,355,631,2061,35
 G Coverage ARCEP	10856
 G Coverage Climbs	5715
 G Coverage GSMA	10856
@@ -302,6 +304,7 @@ G Low Earth Orbit	7307
 G L’architecture	15943
 G L’intérêt	16158
 G M O N C S	14947
+G M2M IoT	19966
 G MNOs Mobile Network Operators MTN	12395
 G MOUSTAPHA DAHI-IMPORT EXPORT MOUSTAPHA DAHI	16623
 G MTN Rwandacell Plc	15136
@@ -359,6 +362,7 @@ G Population	1013
 G Population Coverage	13314,837,746
 G Portable Private Network MEC	19394
 G Pourcentage	13324,90
+G Private Networks	19966
 G Programa de Ayuda	4209
 G Programa de Fomento	4209
 G Programa de Reforzamiento	4209
@@ -392,7 +396,7 @@ G SA	2405,106,17,15,1156
 G SARLU	16623
 G SFP	13185
 G SHAPOORJI PALLONJI AND COMPANY PRIVATE	16623
-G SIM	16872,75
+G SIM	16872,75,3019
 G SOC GENERALE GUINEE SGG	16623
 G SOCIETE ABM TECHNOLOGIES SUCC ABM	16623
 G SOCIETE ANGLOGOLD ASHANTI DE GUINEE	16623
@@ -421,10 +425,11 @@ G Servicio	4209
 G Sexe	13442
 G Sites and Respective Coverage	6946
 G Smart	11857
+G Smartphone	19966
 G South Africa	6593
-G Spectrum	7368
+G Spectrum	7368,12598
 G Spectrum Acquisition	926,31
-G Spectrum GSMA Public Policy Position	14674
+G Spectrum GSMA Public Policy Position	14674,5292
 G Spectrum Licence	925
 G Spectrum Licences	7401
 G Spectrum Licences The National Communications	14699
@@ -468,6 +473,7 @@ G Utilization Gap	6051
 G VERNANCE GOVERNANCE GOVERNANCE GOVERNANCE GOVERGNAONCVE	10785
 G VOIE RECTALE	13300
 G Voice	2528,9867
+G Voice Over New Radio	19966
 G W H ELECTRICITY GENERATION	14745
 G W Hydro Wind Solar	12233
 G WDM	2446
@@ -497,6 +503,7 @@ G and Mobile Fixed Mobile Fixed Indi-	17743
 G and Mobile Fixed Mobile Fixed Individ-	17743
 G and Project	13331
 G and S	16996
+G and VoLTE-enabled	19966
 G and Wi-Fi	10047
 G da Lei	15955
 G da Telecel	17093
@@ -734,6 +741,7 @@ Griffin G	17773
 Grupo G Maestro Músico Técnico Disciplina	4209
 Général du CHU du Point G	17841
 Hardavella G	771
+Heath G	19974
 Hon. Gen. Rtd. Dr. C. G	13591
 Honorable Clarence G. Gahr Chairperson	17364
 Hutton G	771
@@ -777,6 +785,7 @@ L'Agence G	18013
 L. G	5349
 LSE G Data&Analytics	12487
 La G de Guinea El Gobierno	14265
+Labrecque G	19974
 Launching Event By Stephen G. Fellajuahs	9861
 Liberians. By Francis G. Boayue	8804
 Lincoln G. Peters	17037
@@ -824,7 +833,7 @@ Ms G Mwakikunga Nominated Representatives	13068
 Ms G Mwakikunga Tel	13068
 Mukasa G. Access	12231
 Munyaradzi G	17773
-Mwinnyaa G	3791
+Mwinnyaa G	3791,16183
 N D G A IN IMF	17257
 N E G A LP	18332
 N G A N G	15901
@@ -899,6 +908,7 @@ Scope G	16900
 Secrétariat Permanent. G. OUTILS DE SUIVI	17842
 Section G	19823
 Section G. Financial Sustainability	15164
+Shibre G	19974
 Sitaraman G	5242
 Social Welfare Department. G. Resignation	12977
 Somi G	1261

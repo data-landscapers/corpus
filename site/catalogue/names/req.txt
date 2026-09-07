@@ -40,7 +40,7 @@ Actor Requirement	6432
 Actor Requirements	6432
 Additional Financing Request	12780,52,1721
 Additional Requirement	18543
-Additional Requirements	18543
+Additional Requirements	18543,1393
 Additional Requirements for Nationality	18595
 Additional Requirements for Nationality of Foundlings	18595
 Additional Requires	13681
@@ -192,6 +192,7 @@ Click Returns and Tax Reference Number Request	11298
 Click Tax Reference Number Request	11298
 Close of Request for Proposal	12400
 Cloud Requirements	15028
+Cloud Security Measures Required	19968
 Cloud Service Provider Requirements	6432
 Cloud Service Providers Qualification Requirements	17534
 Co-Investment Requirements	4167,35,15,43,41,48,1003
@@ -333,6 +334,7 @@ Elementos de Requisito de Consultas Públicas	11898
 Elevated Cross Cutting Requirements	6423
 Eligibility Requirements	18598
 Eligibility Requirements Applicants	11347
+Eligibility and Requirements	19935
 Emerging Technologies Requirement	11952
 Emerging Technologies Requires Clear Operational Guidelines	7548
 Employer’s Requirement	13527
@@ -353,6 +355,7 @@ Estimation of Fertilizer Requirements	17884
 European Commission’s Model Requirements	11349
 Evaluate the Change Request Based	19575
 EvaluationMetricsComputation Require	8606
+Events Data Request The Registry Data	19942
 Experience Requirements	5665,9363
 Export Requirements	12389
 External Financing Requirement	17257
@@ -361,6 +364,7 @@ F. National Requirements	17114
 FACILITY ARRANGEMENT AND REQUEST	17257
 FACILITY ARRANGEMENT AND REQUEST FOR AUGMENTATION	15029
 FINANCE REQUEST FOR EXPRESSIONS	18575
+FINANCIAL SERVICE PROVIDER GENERAL REQUIREMENTS	19948
 FINANCIAL YEAR BUDGET REQUESTS	12597
 FLOWCHART Requests	16189
 FOURNISSEZ LES INFORMATIONS REQUISES DANS	13390
@@ -401,7 +405,8 @@ Funding Requirement GoL	17364
 Funding Requirement Secured Financing Status Ownership	12399
 Further Transfer of Requests	16840
 GEF-8 Request for MSP	3430
-GENERAL REQUIREMENTS	12365
+GENERAL PUBLIC SPECIFIC REQUIREMENTS Non-Discrimination	19948
+GENERAL REQUIREMENTS	12365,7583
 GENERAL REQUIREMENTS FOR ALL MDAs	13381
 GENERAL TECHNICAL REQUIREMENTS	14883
 GENERAL TECHNICAL REQUIREMENTS Generally	14883
@@ -451,6 +456,7 @@ ID General Security Requirement Description Compliant	13037
 ID Requirement for Domestic Travel	15060
 II. Eligible Bidders This Request for Quotation	17068
 II. The Required Reserve	17193,123,105
+IMMEDIATE PASSWORD UPDATE REQUIRED	19956
 IMPACTFUL TRANSFORMATION REQUIRES A DIFFERENT APPROACH	11940
 IMPLEMENTATION AND SPECIFIC REQUIREMENTS	12447,520
 INFRASTRUCTURE REQUIREMENTS	11860,5012
@@ -595,6 +601,7 @@ MINIMUM FIRM REQUIREMENT The Service Provider	12693
 MINIMUM REQUIREMENTS BY CLASS OF SOCIETIES	7845
 MINIMUM REQUIREMENTS FOR A DATA INVENTORY	13004
 MINIMUM REQUIREMENTS FOR CONSULTANT'S QUALIFICATIONS	3678
+MINIMUM REQUIREMENTS FOR DISABILITY POLICY	19948
 MINIMUM REQUIREMENTS FOR OTHER ENTITIES WILLING	16878
 MINIMUM REQUIREMENTS FOR PROVIDING PAYMENT SERVICES	16878
 MITCI Requests	14750
@@ -606,6 +613,7 @@ Managed Requirements DGov	9237
 Mandates Requirement	10738
 Mandatory Documents Mandatory Requirement Compliant	13037
 Mandatory Functional Requirements	11209
+Mandatory Password Requirements	19956
 Mandatory Technical Requirements	11209
 Mandatory Type of Information Required for Beneficial Owners	12389
 May-25 SN Project Name Request	14746
@@ -673,6 +681,7 @@ National Requirements Alignment ASYCUDAWorld	16631
 National Requirements Alignment EQUATORIAL	16631
 Nationality Additional Requirements	18452
 Netflix Membership Information Request Response	8436
+News Data Request Home About Registry	19942
 Next Phase of Digital Inclusion Requires	9120
 Nigeria Request	5692
 Nigeria Request. State	5692
@@ -744,7 +753,7 @@ Participation Requirements	7548
 Partnership Requires Regulatory Fairness While MTN	8111
 Password Expiry Requirement Not Enforced	14546
 Patentability Requirements	12389
-PayShap Request	5691,3317,175
+PayShap Request	5691,3317,175,10757
 PayShap Request. Stitch	9008
 Payment Cancellation Request	12364
 Payment Registration Request'. Upon	18954
@@ -914,12 +923,13 @@ Recordkeeping and Archival Requirements	3861
 Records Updated Require	16374
 Reference Required Adherence	15080
 Registered Access User Registration Required Data	18747
-Registration Requirements	12193,1056
+Registration Requirements	12193,1056,6687
 Registration Requirements Applicants	15058
 Registration Requirements for All Secured Parties	14647
 Regulation Require	6231
 Regulatory Alignment Requirement	11952
 Regulatory Requirements	3651,7070,1698
+Report Data Breaches Requirements for Reporting Under	19968
 Reporting Is Required	11233
 Reporting Requirements	6432,6015,590,6770
 Reporting Requirements and Time Schedule for Deliverables	11869
@@ -935,10 +945,11 @@ Requerimento	794,10625,48,1308,6059,1
 Requerimento de Reembolso	11467
 Requerimiento	16965
 Requerir	163,16692
-Request	34,202,351,1241,167,1892,547,427,932,630,9,2702,140,356,106,157,875,7,34,161,47,164,47,297,272,58,6,16,394,93,1,35,148,351,10,8,134,34,231,36,64,202,698,119,14,329,83,36,11,218,80,218,246,231,617,315,7,3,1,16,3,15,190,31,15,35,388,453,488,7,56,516,471,47
+Request	34,202,351,1241,167,1892,547,427,932,630,9,2702,140,356,106,157,875,7,34,161,47,164,47,297,272,58,6,16,394,93,1,35,148,351,10,8,134,34,231,36,64,202,698,119,14,329,83,36,11,218,80,218,246,231,617,315,7,3,1,16,3,15,190,31,15,35,388,453,488,7,56,516,471,47,376,15
 Request Access	15935
 Request Correction	11276
 Request Data	17149
+Request Data Submit	19942
 Request For Comments	15504
 Request For Proposal	13037
 Request Form Portals Complaints Portal Voice	9109
@@ -1086,7 +1097,7 @@ Requirement Requirement Level	5244
 Requirement Score	13381
 Requirement Service Description Tariffs and Charges Contract	5676
 Requirement of Final Inspection	12389
-Requirements	28,708,478,29,534,47,850,930,47,34,29,147,184,2010,159,209,9,107,999,10,1575,507,527,213,246,93,56,49,27,338,2,28,60,1069,27,37,81,13,36,30,104,264,143,112,123,3,11,63,221,38,778,225,89,122,35,15,3,54,62,53,1,21,75,105,191,839,520,7,4,33,24,504,130,928,142,303,78,489,46,44,11,1,60,28,66,19,52,33,56,10,21
+Requirements	28,708,478,29,534,47,850,930,47,34,29,147,184,2010,159,209,9,107,999,10,1575,507,527,213,246,93,56,49,27,338,2,28,60,1069,27,37,81,13,36,30,104,264,143,112,123,3,11,63,221,38,778,225,89,122,35,15,3,54,62,53,1,21,75,105,191,839,520,7,4,33,24,504,130,928,142,303,78,489,46,44,11,1,60,28,66,19,52,33,56,10,21,47
 Requirements A Energy Efficiency MS ISO	14736
 Requirements Additional	12157
 Requirements All	5665
@@ -1128,6 +1139,7 @@ Requirements The Act	1988
 Requirements This International Standard	16900
 Requirements This Standard	16900
 Requirements Traceability Matrix	13037
+Requirements Under Act	19968
 Requirements and Bid Consultant Qualifi Open	17180
 Requirements and Bid IDA	17180
 Requirements and Guidelines ISO	12360
@@ -1199,6 +1211,7 @@ Requérir	11932
 Requête	10821,2554,15,358,1681,2390
 Requêtes	14480,3887
 Requêtes. Chaque Chambre	15703
+Research News Data Request The Registry	19942
 Reserve Requirements Ratios	17235
 Reserves Requirements	11228
 Reserves Requirements The MTSAO	11228
@@ -1237,6 +1250,7 @@ SOFF Investment Funding Requests	18677
 SOFF Investment Funding Requests The SOFF	18677
 SOFTWARE INSTALLATION REQUEST STANDARDS AND GUIDELINES	34
 SOUTH AFRICAN BIDDERS ARE REQUIRED	11240
+SPECIFIC REQUIREMENTS	19948
 SPECIFIC REQUIREMENTS FOR PAYMENT SERVICES	12365
 SPECIFICATIONS AND OPERATIONS REQUIREMENTS	12400
 SPECTRUM OUTLOOK AND CAPACITY REQUIREMENTS	5245
@@ -1277,7 +1291,7 @@ Section VII. Technical Requirements	10616
 Sector-Specific Requirementss Software	5665
 Sector-Specific Security Requirements	5665
 Security Req-1	13037
-Security Requirements	6432
+Security Requirements	6432,13532
 Security Testing Requirement	11952
 Security and Governance Requirement	11952
 Selected Public Service Post Request for Bids	17180

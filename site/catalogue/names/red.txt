@@ -417,7 +417,7 @@ LFSP REDD	17140
 LOGICIEL DE REDACTION DE PROCEDURES	18114
 LOROUM TX Red	10847
 LOSS REDUCTION	12358
-La Redaction	7797
+La Redaction	7797,12152
 Land Policies for Growth and Poverty Reduction. Washington	18293
 Land Redistribution Bill	11197
 Land Redistribution and Tenure Reform	11261
@@ -601,7 +601,7 @@ Plataforma Rede Cidadã	12857
 Political and Reduce	15845
 Poverty Reduction	10964,899,157,903,39,1867
 Poverty Reduction Effects of Mobile Broadband	15621
-Poverty Reduction Policies	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Poverty Reduction Policies	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Poverty Reduction Policies and Goals	16861
 Poverty Reduction Strategy	11924,5019,196,2380
 Poverty Reduction Strategy GRA Ghana Revenue	236
@@ -847,7 +847,7 @@ Redcliff Constituency	13420
 Redcliff Constituency Regarding	13420
 Redda Ben Geloune	3112
 Reddick	12333
-Reddit	3919,1,2709,842,319,915,3297,439,37,983,774,785,1548,512
+Reddit	3919,1,2709,842,319,915,3297,439,37,983,774,785,1548,512,2890
 Reddit Linkedin Messenger Telegram VK Bluesky	9608,208,16
 Reddit Tumblr Pinterest	12441
 Reddit VKontakte Copy Link Print Leave	9925,238
@@ -1065,7 +1065,7 @@ Redsparkdigital	12478
 Reducción	1701,15174,23
 Reducción de Atrasos Internos	4209
 Reducción de Emisiones	16875
-Reduce	1000,161,667,160,1998,274,704,258,4,19,1,1,286,142,1,1272,1,1654,520,1696,10,27,36,95,144,5,13,7,58,62,80,501,49,80,55,173,15,57,73,25,395,183,43,75,15,156,63,718,642,87,16,4,141,25,11,7,32,96,22,49,260,132,102,67,120,94,38,61,215,619,4,31,16,19,24,5,40,103,1256,88,30,44,263,724,13,50,82,81,56
+Reduce	1000,161,667,160,1998,274,704,258,4,19,1,1,286,142,1,1272,1,1654,520,1696,10,27,36,95,144,5,13,7,58,62,80,501,49,80,55,173,15,57,73,25,395,183,43,75,15,156,63,718,642,87,16,4,141,25,11,7,32,96,22,49,260,132,102,67,120,94,38,61,215,619,4,31,16,19,24,5,40,103,1256,88,30,44,263,724,13,50,82,81,56,165
 Reduce Agricultural Statistics Gaps and Increase	19519
 Reduce Cash Payment Transactions GOAL	15679
 Reduce Cost	2595
@@ -1126,7 +1126,7 @@ Reduces	4983,268,1181,5425,389,198,593,1404,556,1887,31,1616,1187
 Reduces Low	12444
 Reducida	1701
 Reducido	1701
-Reducing	395,1,1414,8,49,467,87,468,375,1700,283,665,374,870,284,801,737,854,943,54,12,15,107,1,41,151,62,6,325,198,150,8,34,219,50,21,4,8,12,75,104,252,396,15,366,1213,71,152,25,25,18,32,284,192,40,5,35,51,55,553,646,16,10,59,27,14,12,15,129,17,103,138,6,37,62,270,189,479,71,112,625,283,2,79,64
+Reducing	395,1,1414,8,49,467,87,468,375,1700,283,665,374,870,284,801,737,854,943,54,12,15,107,1,41,151,62,6,325,198,150,8,34,219,50,21,4,8,12,75,104,252,396,15,366,1213,71,152,25,25,18,32,284,192,40,5,35,51,55,553,646,16,10,59,27,14,12,15,129,17,103,138,6,37,62,270,189,479,71,112,625,283,2,79,64,289
 Reducing Barriers	13095
 Reducing Corruption	5349
 Reducing Costs	13678
@@ -1150,7 +1150,7 @@ Reducing the Continent's Dependence	4103
 Reducing the Digital Divide	12241,839
 Reducing the NEET	11581
 Reducir	1701,15158,39
-Reduction	789,151,288,590,170,393,1221,615,84,48,304,203,5237,683,53,27,275,134,7,582,3,129,12,212,1,165,19,567,43,393,280,26,775,244,105,119,657,33,22,186,234,552,74,147,32,127,105,173,544,51,78,253,28,76,51,66,127,254,432,232,34,29,95,3,162,96
+Reduction	789,151,288,590,170,393,1221,615,84,48,304,203,5237,683,53,27,275,134,7,582,3,129,12,212,1,165,19,567,43,393,280,26,775,244,105,119,657,33,22,186,234,552,74,147,32,127,105,173,544,51,78,253,28,76,51,66,127,254,432,232,34,29,95,3,162,96,66
 Reduction SFDRR Standard Operating Procedures SOP	19520
 Reduction Strategy Paper RESEN Education Sector	18765
 Reduction Strategy SDGs Sustainable Development Goals	16935
@@ -1201,6 +1201,7 @@ Redução da Burocracia	16028
 Redução da Desflorestação	18760
 Reduções	10755
 Redwood City	5628
+Redwood S. Using	19974
 Redwood-Sawyerr	11651
 Redynamisation	17843,278,821,208,91
 Redynamiser	13364,4537,82,323,682
@@ -1267,7 +1268,7 @@ Servicios de Red Social	16965
 Serviços de Rede	18774
 Serviços de Rede Componente Especificação Situação Diretório	18774
 Sistemas de Informação SECÇÃO I Segurança de Redes	6970
-Social Safety Nets Poverty Reduction Policies	10837,1315,188
+Social Safety Nets Poverty Reduction Policies	10837,1315,188,7598
 Social Services and Poverty Reduction	13295
 South Red Sea State	14955
 South and South-Central Red Sea State	14955

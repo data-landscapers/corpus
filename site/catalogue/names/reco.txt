@@ -43,7 +43,7 @@ Absence of Recognition	12246
 Abstract Electronic Health Records	11990
 Accelerated Health and Education Recovery Program Launch	15244
 Accelerated Recovery Framework	7760,11421
-Accessibility of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Accessibility of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Accessible Record	12185
 Account Recovery	13037
 Accreditation Ceremony Reflects Official Recognition	13816
@@ -457,7 +457,7 @@ Disaster Recovery Test Tier	10721
 Disaster Recovery and Business Continuity	16924
 Disaster Recovery and Business Continuity Plans	4610
 Disaster Reduction and Recovery Government of Angola	10763
-Disclosure of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Disclosure of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Discrepancies Between WEZESHA Portal and Manual Records	19585
 Discussion and Recommendations	4439
 Disposal of Obsolete Records	13398
@@ -675,6 +675,7 @@ Generation Recovery Plan. Key Performance Highlights	11992
 German Bank for Reconstruction	18293
 German Credit Institute for Reconstruction	3604,10334
 Getting Patient Records Right	12458
+Ghana’s Innovation Hubs Move From Recovery	19941
 Global Facility for Disaster Reduction and Recovery	10763,1395,2490,1335,1979,1283,39
 Global Recognition	12164
 Global Recovery Initiative	19220
@@ -1188,7 +1189,7 @@ Policy Implications and Recommendations	19542
 Policy Implications and Technical Recommendations	15244
 Policy Recommendation	17239
 Policy Recommendation Infrastructure	17239
-Policy Recommendations	6442,1053,3033,328,129,3689,448,857,1388,2175,2
+Policy Recommendations	6442,1053,3033,328,129,3689,448,857,1388,2175,2,422
 Policy Recommendations Based	17367,2409
 Policy Recommendations Digitalisation	10856
 Policy Recommendations and Reform Agenda	13582
@@ -1439,8 +1440,9 @@ Recognise. Avoid. Respond. Recognise	10725
 Recognised	6832,4568,1252,4231,1,2124
 Recognised By INEC	2355,176,4,1,56,3,339,96,901,1006,1761,673
 Recognised System	12528
-Recognising	26,1,1,368,177,670,575,1130,54,298,351,534,139,524,396,2,434,192,608,427,408,158,455,435,246,138,42,241,630,675,125,42,149,171,34,104,57,66,48,62,2,67,775,358,68,78,72,67,284,5,4,25,312,48,104,223,354,370,55,284,13,11,353,217,1169,264,242,211,1262,570,830,27
+Recognising	26,1,1,368,177,670,575,1130,54,298,351,534,139,524,396,2,434,192,608,427,408,158,455,435,246,138,42,241,630,675,125,42,149,171,34,104,57,66,48,62,2,67,775,358,68,78,72,67,284,5,4,25,312,48,104,223,354,370,55,284,13,11,353,217,1169,264,242,211,1262,570,830,27,41
 Recognising AI	14601
+Recognising Ghana	19958
 Recognising ICT	7365
 Recognising Liberia	5244
 Recognising Malta	8992
@@ -1583,7 +1585,7 @@ Recommendation for Orange Corners	13358
 Recommendation for Orange Corners Innovation Fund	13358
 Recommendation. Chad	18930
 Recommendation. The Ghanaian	4126
-Recommendations	396,503,362,293,198,62,14,268,21,505,102,224,73,217,265,94,44,37,252,160,36,61,396,151,863,78,2,103,249,276,82,76,285,21,12,156,10,1,1,2,247,63,448,896,66,411,47,74,196,217,239,161,12,60,128,547,12,1,36,17,12,24,139,138,143,4,111,153,194,110,45,25,37,13,9,20,52,93,45,5,9,4,13,15,55,28,3,48,3,32,246,2,4,123,131,18,40,3,73,236,23,2,1,1,21,23,30,30,2,41,71,390,94,243,169,6,38,154,48,49,19,35,68,10,40,2,100,26,319,30,43,32,26,7,31,814,275,105,148,4,19,24,16,10,18,3,3,5,8,8,128,15,25,10,8,92,11,609,1,23,57,20,473,17,25,68,59,1,1,2,8,4,55,19,185,24,1,19,177,413,33,3,27,1,56,19,19,221
+Recommendations	396,503,362,293,198,62,14,268,21,505,102,224,73,217,265,94,44,37,252,160,36,61,396,151,863,78,2,103,249,276,82,76,285,21,12,156,10,1,1,2,247,63,448,896,66,411,47,74,196,217,239,161,12,60,128,547,12,1,36,17,12,24,139,138,143,4,111,153,194,110,45,25,37,13,9,20,52,93,45,5,9,4,13,15,55,28,3,48,3,32,246,2,4,123,131,18,40,3,73,236,23,2,1,1,21,23,30,30,2,41,71,390,94,243,169,6,38,154,48,49,19,35,68,10,40,2,100,26,319,30,43,32,26,7,31,814,275,105,148,4,19,24,16,10,18,3,3,5,8,8,128,15,25,10,8,92,11,609,1,23,57,20,473,17,25,68,59,1,1,2,8,4,55,19,185,24,1,19,177,413,33,3,27,1,56,19,19,221,40,26
 Recommendations Adaptive	10763
 Recommendations Africa	6938
 Recommendations Agricultural Land Protection	17157
@@ -1987,7 +1989,7 @@ Recouvremet des Avoirs Saisis	6959
 Recouvrer	10858,4880,536,182
 Recouvrer SDSI Schéma Directeur du Système Informatique	10712
 Recouvrer. Actions	15738
-Recover	252,96,1,2,1,112,1,5,1,158,4,2,205,5,2,1,1,217,1,3,1,1,1,1,2,2,1,363,4,1,1,3,5,1,1,1,1,2,315,1991,1333,632,218,11472,1074,22,3,33,1246
+Recover	252,96,1,2,1,112,1,5,1,158,4,2,205,5,2,1,1,217,1,3,1,1,1,1,2,2,1,363,4,1,1,3,5,1,1,1,1,2,315,1991,1333,632,218,11472,1074,22,3,33,1246,161
 Recover From COVID-19	12336
 Recover Program	14985
 Recoverability	5665
@@ -2085,6 +2087,7 @@ Repayment Records and Actual Bank Receipts	19585
 Reporting and Recording Changes	12302
 Republic of Mozambique. RECOGNISING	3861
 Republic of Sudan Executive Summary Pillar Recommendations	14897
+Reputation and Track Record Check the CSP	19968
 Required Records and Information	13606
 Research Institutions Recommend	17114
 Reservations Recognition	15968,2962
@@ -2319,7 +2322,7 @@ Umthombo National Health Records Dataset	12512
 Unallocated Reserve Transfers Finding Records	13420
 Unit DR Disaster Recovery DTLT Desktop	13185
 United Nations Principles and Recommendations	12151,186,30,1000,6175
-United Nations. Recognizing	10969,915,1,10,264,1,44,1,146,4,132,7375,3
+United Nations. Recognizing	10969,915,1,10,264,1,44,1,146,4,132,7375,3,87
 União Europeia. Reconhecida	18877
 Unresolved Recommendations	19585
 Update and Reconciliation	12364

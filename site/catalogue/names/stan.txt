@@ -236,6 +236,7 @@ Charvi Stanislas	16100
 Check Codification and MICR Standards	17235
 Chegutu EWZL Owned Vacant Shop Stand	4896
 Chemical Standards Committee	14736
+Cheque Printer Accreditation Standard	19940
 Chief Executive Officer of Standard Bank Eswatini	11131,3
 Chief Executive of Stanbic Bank Ghana	8928
 Chikomba EWZL Owned Vacant Shop Stand	4896
@@ -456,6 +457,7 @@ Draft Standards for Public Comment Stakeholders	13705
 Drought Classification Standards	17157
 E Standards	14736
 E-Sale of Gambian Standards	16900
+E-Waste Management The Ghana Standards Authority	19943
 E. REAFFIRMED STANDARDS AGRICULTURE	15027
 E. REFERENCED INTERNATIONAL STANDARDS RS	15027
 ECOWAS Standards Harmonization Mechanism	18469
@@ -522,6 +524,7 @@ Emerging Standards	7548
 Employment Impacts and Standards	226
 Enable Interoperability and Open Standards Ensure	10157
 Enactment SEYCHELLES BUREAU OF STANDARDS ACT	18893
+Encryption Standards for Data	19968
 Energy Efficiency Performance Standards	12389
 Enforce Standards	17260
 Enforcement of ICT Standards	12917
@@ -1329,6 +1332,8 @@ OGC WMS Interface Standard	18904
 OGP Criteria and Standards Subcommittee	17037
 OGP Participation and Co-Creation Standards	9022,1984,1302,4729
 OGP Participation and Co-Creations Standards	17037
+OGP Participation and Co-creation Standards	19937
+OGP Standard	19937
 OIC Standing Committee	15251
 OMNIBSIC PRUDENTIAL BANK STANBIC BANK UBA	11002,6240
 OPEN BANKING STANDARDS	13092
@@ -1355,6 +1360,7 @@ Open Fibre Data Standard	3812
 Open Standard	18439
 Operating Policies and Standards of Conduct	18596
 Operational and Cybersecurity Standards	13206
+Operational and Governance Standards Look	19968
 Opportunities and Threats SOP Standard Operating Procedures	13005
 Optical Fiber Characteristics No. OFC Standard	19745
 Organization for Standardization LC	15129
@@ -1379,6 +1385,7 @@ PRIVATE SECTOR Fibre RoW Standardised Fees	11857
 PROCESS INVOLVED IN OBTAINING STANDARDS	18469
 PROFESSIONAL STANDARDS	18486
 PROPOSED METHOD FOR STANDARDISING AND INTEGRATING	8606
+PSP Standard	19940
 PUBLIC ADMINISTRATION Office of Standards and Compliance	11182
 PUBLISHED BY THE GAMBIA STANDARDS BUREAU	16900
 Pages20 Gambian Standard	16900
@@ -1454,6 +1461,7 @@ Public Sector Accounting Standards Board Reporting	14546
 Public Sector Accounting Standards Board. Further	14546
 Public Sector ICT Data Interoperability Standard	12360
 Public Service ICT Standards	12360
+Public Stand Pipes	19976
 Purchase and Search Egyptian Standards Standard No	15842
 Purchaser. Standards	13185
 Pvt Ltd Stand Land Chegutu CBD	4896
@@ -1806,7 +1814,7 @@ Stana Noria Melanie of Pointe Larue	19049
 Stanbic	982,4265,4561,2732,868
 Stanbic Acceler8	12540
 Stanbic Accelerator	12540
-Stanbic Bank	211,5036,1225,1035,1421,3612,73
+Stanbic Bank	211,5036,1225,1035,1421,3612,73,7330,37
 Stanbic Bank Africa Trade Barometer	5247
 Stanbic Bank Africa Trade Barometer Issue	5247
 Stanbic Bank Africa Trade Barometer. ZAMBIA’S	5247
@@ -1828,14 +1836,14 @@ Stanbic Bank and KCB Group	7567
 Stanbic Bank's AcceleR8	12540
 Stanbic Bank-backed Carnival Cup	6885
 Stanbic Business Incubator	2676
-Stanbic IBTC	4771,3877,69
+Stanbic IBTC	4771,3877,69,11263
 Stanbic IBTC Bank	8648,4835,970
 Stanbic IBTC Bank Limited	8648
 Stanbic IBTC and Meristem	7446
 Stanbic Nominees	4896
 Stanca	16144
 Stand	1828,3068,5640,604,1375,870,1236,875,26,2802,1261
-Stand Alone Solar	12191
+Stand Alone Solar	12191,7752
 Stand Alone Solar Market Update	12191
 Stand Extension	4896
 Stand Land Chinhoyi	4896
@@ -1869,7 +1877,7 @@ Standalone Solar Home Systems	15011
 Standalone Solar Systems	19239
 Standalone Systems	12195,2752
 Standalone YTD Retail Volumes	7446
-Standard	21,13,12,1,35,297,630,114,31,484,288,58,4,267,311,102,220,32,354,52,452,83,237,421,156,240,84,132,1,23,57,10,122,1,65,70,60,18,450,43,35,13,6,74,26,35,4,1,179,242,116,1,102,7,54,1,67,32,101,160,51,64,1,125,15,323,100,19,13,283,112,149,308,253,6,516,294,92,69,57,138,18,348,313,1,5,17,132,5,46,4,49,26,51,76,299,220,90,11,41,128,66,12,90,17,34,132,23,132,236,31,50,7,30,5,13,27,15,114,99,2,10,21,44,165,155,520,9,39,34,367,62,79,17,26,30,35,241,170,1,136,187,184,370,416,43,48,120,4,39,18,22,2,23,31,121,15,2,24,9,255,37,388,77,200,333,352,102,91,4,532,210,19
+Standard	21,13,12,1,35,297,630,114,31,484,288,58,4,267,311,102,220,32,354,52,452,83,237,421,156,240,84,132,1,23,57,10,122,1,65,70,60,18,450,43,35,13,6,74,26,35,4,1,179,242,116,1,102,7,54,1,67,32,101,160,51,64,1,125,15,323,100,19,13,283,112,149,308,253,6,516,294,92,69,57,138,18,348,313,1,5,17,132,5,46,4,49,26,51,76,299,220,90,11,41,128,66,12,90,17,34,132,23,132,236,31,50,7,30,5,13,27,15,114,99,2,10,21,44,165,155,520,9,39,34,367,62,79,17,26,30,35,241,170,1,136,187,184,370,416,43,48,120,4,39,18,22,2,23,31,121,15,2,24,9,255,37,388,77,200,333,352,102,91,4,532,210,19,188,39
 Standard Arabic	17977
 Standard Articles	13299
 Standard Assessment and Evaluation	13392
@@ -1934,12 +1942,13 @@ Standard Black Rack	12681
 Standard British Plug for Systems Unit	34
 Standard Chart of Accounts. Systems	9939
 Standard Chartered	5910,3241,555
-Standard Chartered Bank	7567,3151,1431,103
+Standard Chartered Bank	7567,3151,1431,103,7688
 Standard Chartered Bank Tanzania Ltd	12252
 Standard Chartered Bank Uganda	10202,79,794
 Standard Chartered Egypt	10745
 Standard Chartered Foundation Launches Women	10745
 Standard Chartered Foundation and Village Capital	10745
+Standard Chartered Ghana	19940
 Standard Chartered Kenya and Gulf African Bank	5863
 Standard Chartered Tower	585,8281,5579
 Standard Code Lists	11180
@@ -2097,6 +2106,7 @@ Standardisation of Reporting Formats	17243
 Standardise	1161,7445,4068,636,1437,71,346
 Standardise Testing Practices	11952
 Standardised	961,5462,1125,85,113,2442,1764,3390
+Standardised Data Processing Agreement	19964
 Standardised Mandatory Quarterly	11952
 Standardised Quranic Scripts	16852
 Standardised Root Mean Square Residual	4432
@@ -2145,7 +2155,7 @@ Standardized Templates	12356
 Standardized Toolkits	12053
 Standardizes	14950
 Standardizing	12255,104,618,4464
-Standards	11,10,13,966,237,587,164,739,324,663,139,8,81,184,76,166,848,312,148,1,234,512,505,18,374,228,223,754,145,453,283,553,484,120,201,55,330,35,38,149,153,566,85,39,26,15,1,100,3,1,29,58,6,59,14,11,138,219,5,8,10,52,8,63,13,27,12,93,121,2,2,10,37,63,41,13,30,28,24,80,69,20,224,55,221,209,7,48,1,246,2,76,53,80,18,69,46,68,96,236,190,43,147,41,275,36,224,205,211,9,11,13,15,8,16,15,10,29,257,133,90,81,146,195,2,134,152,301,9,4,34,85,109,55,139,296,310,64,83,55,7,9
+Standards	11,10,13,966,237,587,164,739,324,663,139,8,81,184,76,166,848,312,148,1,234,512,505,18,374,228,223,754,145,453,283,553,484,120,201,55,330,35,38,149,153,566,85,39,26,15,1,100,3,1,29,58,6,59,14,11,138,219,5,8,10,52,8,63,13,27,12,93,121,2,2,10,37,63,41,13,30,28,24,80,69,20,224,55,221,209,7,48,1,246,2,76,53,80,18,69,46,68,96,236,190,43,147,41,275,36,224,205,211,9,11,13,15,8,16,15,10,29,257,133,90,81,146,195,2,134,152,301,9,4,34,85,109,55,139,296,310,64,83,55,7,9,209
 Standards Act	1988,5560,3721,1257,369,508,1019,4044,1085
 Standards Act. Draft Standard No. and Edition	11269
 Standards Act. No	18469
@@ -2474,6 +2484,7 @@ Tanzania Bureau of Standards Level	19584
 Tanzania Bureau of Standards TCB Tanzania Coffee	19584
 Tanzania Financial Reporting Standard No	19585
 Tanzania Standard Newspapers Level	19584
+Tech Standard Chartered Ghana’s Cohort	19940
 Technical Committees of Mauritian Food Standards	14736
 Technical Distribution Standards	15659
 Technical Feasibility and Standards	4528,7984

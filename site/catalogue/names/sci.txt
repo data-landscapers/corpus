@@ -226,7 +226,7 @@ College of Natural Sciences	17735
 College of Science	2958,11014
 College of Science and Technology	431,287,3133,11313
 Collège des Sciences	8891
-Columbia Center for International Earth Science Information	10759,78,1050,2,264,1,9,177,1,7517,1
+Columbia Center for International Earth Science Information	10759,78,1050,2,264,1,9,177,1,7517,1,79
 Comité Scienti-	18077
 Comité Scientifique	15376,1245,1456
 Comité Scientifique Une	16250
@@ -238,7 +238,7 @@ Communication INSTITUT DES SCIENCES TECHNOLOGIQUES	15674
 Communication Sciences	7886
 Communication Sciences and Techniques	11658
 Community and Health Sciences Faculty	8022
-Computer Science	1554,5724,1328,522,347,585,642,429,2,1,510,71,114,40,72,420,39,7,268,18,61,72,100,35,60,10,6,41,107,171,12,817,905,56,407,126,110,1451,15,182,1020,4,168,41,1137
+Computer Science	1554,5724,1328,522,347,585,642,429,2,1,510,71,114,40,72,420,39,7,268,18,61,72,100,35,60,10,6,41,107,171,12,817,905,56,407,126,110,1451,15,182,1020,4,168,41,1137,137
 Computer Science Department	8606,3755
 Computer Science Doctor of Philosophy	12407
 Computer Science Duration	17232
@@ -506,7 +506,7 @@ Faculty of Science and Engineering	4058
 Faculty of Science and Technology	17893,736
 Faculty of Social Sciences	13078,1697
 Faculty of Social and Behavioural Sciences	17780
-Faculté des Sciences	1183,5818,8422,251,8,677,126,1342,29,268,288
+Faculté des Sciences	1183,5818,8422,251,8,677,126,1342,29,268,288,1543
 Faculté des Sciences Agronomiques	15682
 Faculté des Sciences Economiques	15797,2030,2,149,221,1010
 Faculté des Sciences Humaines de Gardolé	19032
@@ -543,6 +543,7 @@ Gestion Publique SCIENCES ET TECHNOLOGIES Sécurité	15674
 Gestion des Affaires Institut des Sciences Politiques	17856
 Gestion des Réseaux SCI	10975
 Ghana. Data Science Journal	12090
+Ghana. Glob Health Sci Pract	19974
 Glob Health Sci Pract	771,11475
 Global Fund Data Science Catalytic Fund	392
 Global Health Sci Pract	1219
@@ -699,9 +700,10 @@ Khazar J Humanit Soc Sci	9739
 Kingdom of Eswatini Academy of Sciences	12966
 Koranteng-Acquah and Leonelli Data Science Journal DOI	12090
 Korean Ministry of Science	11135
-Kwame Nkrumah University of Science and Technology	5227,719,3474,10,131,73,907,2344,6931
+Kwame Nkrumah University of Science and Technology	5227,719,3474,10,131,73,907,2344,6931,150
 Kwame Nkrumah University of Science and Technology KPI	4126
 L Scientifique	15489
+L'Université des Sciences	19955
 LA RECHERCHE SCIENTIFIQUE	13478,2090,607,512
 LA RECHERCHE SCIENTIFIQUE ArrÍtÈ	15410
 LA RECHERCHE SCIENTIFIQUE Arrêté	16344
@@ -771,7 +773,7 @@ Malawi University of Science and Technology	2816,1742,1293,1563,4764,62,840,32,1
 Malawi University of Science and Technology MZUNI Mzuzu	12241,839,15
 Malawi University of Science and Technology NSW	13053
 Malawi University of Science and Technology.59	14674
-Malawi. Glob Health Sci Pract	10881
+Malawi. Glob Health Sci Pract	10881,9093
 Maluana Science and Technology Park	12786
 Maluana Science and Technology Park. Despite	12786
 Maluana Science and Technology Park. Emerging	12786
@@ -1205,7 +1207,7 @@ SciPap	7886
 SciPy. Stats	17157
 Scidev.Net	4674
 Scien	12674
-Science	737,52,57,53,255,7,304,89,156,46,58,282,590,14,9,107,69,73,92,90,218,5,241,257,265,402,26,82,249,49,102,61,120,27,1,1,3,8,17,97,42,110,177,366,108,306,143,209,80,85,365,136,50,171,303,208,150,80,99,14,127,101,213,112,352,98,6,48,156,424,82,8,300,168,8,117,71,5,59,22,85,21,59,5,1,9,58,190,82,288,15,21,1,10,10,26,9,27,39,84,43,26,1,15,29,1,124,22,4,1,5,15,35,67,9,25,32,21,109,1,10,2,4,3,1,1,6,2,4,5,1,1,10,2,9,14,1,7,4,4,20,180,5,1,3,4,77,45,16,195,2,6,21,36,15,66,11,5,197,14,34,253,32,20,161,13,268,4,124,135,18,11,17,37,12,24,49,25,1,28,187,45,291,19,60,38,13,39,30,25,15,135,85,60,99,1,37,14,83,28,11,109,111,41,100,225,24,66,9,7,17,46,84,52,81,109,90,135,69,143,58,32,225,1,6,65,115,32,128,8,6,1,19,32,85,52,40,76,184,288,129,176,29,8,63,12,23,85,16,84,3,35,4
+Science	737,52,57,53,255,7,304,89,156,46,58,282,590,14,9,107,69,73,92,90,218,5,241,257,265,402,26,82,249,49,102,61,120,27,1,1,3,8,17,97,42,110,177,366,108,306,143,209,80,85,365,136,50,171,303,208,150,80,99,14,127,101,213,112,352,98,6,48,156,424,82,8,300,168,8,117,71,5,59,22,85,21,59,5,1,9,58,190,82,288,15,21,1,10,10,26,9,27,39,84,43,26,1,15,29,1,124,22,4,1,5,15,35,67,9,25,32,21,109,1,10,2,4,3,1,1,6,2,4,5,1,1,10,2,9,14,1,7,4,4,20,180,5,1,3,4,77,45,16,195,2,6,21,36,15,66,11,5,197,14,34,253,32,20,161,13,268,4,124,135,18,11,17,37,12,24,49,25,1,28,187,45,291,19,60,38,13,39,30,25,15,135,85,60,99,1,37,14,83,28,11,109,111,41,100,225,24,66,9,7,17,46,84,52,81,109,90,135,69,143,58,32,225,1,6,65,115,32,128,8,6,1,19,32,85,52,40,76,184,288,129,176,29,8,63,12,23,85,16,84,3,35,4,40,8,14
 Science Academy	4353
 Science Advances	15342,1121
 Science And Technology	899

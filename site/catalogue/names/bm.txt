@@ -7,6 +7,7 @@ Africa BMZ	1422,1
 Africa. BMJ Glob Health	771
 Africaine de Développement BM Banque	16037
 African Health Initiative. BMC Health Serv	766,10014,101
+African Health Initiative. BMC Health Services	19944
 Afrika BMZ	456
 Afrique Centrale BM Banque	15474
 Apilotstudy. BMC Medical Ethics	8606
@@ -46,21 +47,25 @@ BMA Self-deportations	11986
 BMA Undocumented	11986
 BMA and GPW	2692
 BMC Geriatrics	7759
-BMC Health Serv Res	3791,4585,2505,715,783
+BMC Health Serv Res	3791,4585,2505,715,783,7595
 BMC Health Serv. Res	11585
 BMC Health Services Research Volume	771
 BMC International Health and Human Rights	12188
+BMC Med Educ	19974
 BMC Med Inf Decis Mak	1261
-BMC Med Inform Decis Mak	1219,2572,6993,1462,9,124
+BMC Med Inform Decis Mak	1219,2572,6993,1462,9,124,7595
+BMC Med Res Methodol	19974
 BMC Medical Informatics and Decision Making	8604,2,2550,1223
 BMC Medical Research Methodology	8671
 BMC Medicine	11156
 BMC Nurs	1219
+BMC Nutr	19974
 BMC Pregnancy Childbirth	15411
 BMC Psychiatry	8671
-BMC Public Health	10881
+BMC Public Health	10881,9093
 BMC Public Health. Sep	10919
 BMC Res	12090
+BMC Res Notes	19974
 BMC and LMC	17260
 BMCE Capital	5054
 BMCS Biometric Movement Control System CA	5533
@@ -71,13 +76,14 @@ BMI's Sub-Saharan Africa Telecommunications Risk	6152
 BMI-CI FINANCES	15577
 BMICE	17909
 BMIT Knowledge Group	10129
+BMJ Glob Health	19974
 BMJ Glob. Health	11585
 BMJ Global Health	4781,4347,1737,1548
 BMJ Group	7187
 BMJ Health Care Inf Online	10784
 BMJ Health Care Inform	3791
 BMJ Medicine	8604
-BMJ Open	771,3020,7090,715,650,794,3956
+BMJ Open	771,3020,7090,715,650,794,3956,2978
 BMJ&volume	7187
 BMJ2025	7187
 BMJ2026	7187
@@ -252,7 +258,8 @@ Gateway Protocol BMS Building Management System	13185
 Germany's BMZ	9806
 Germany's BMZ and Switzerland's SDC	4427
 Ghana BMZ	1052
-Ghana. BMC Health Serv Res	1261,2530
+Ghana. BMC Health Serv Res	1261,2530,16183
+Ghana. BMC Public Health	19974
 Gleichberechtigung BMZ	1426
 Glossaire BM	14472
 HEADLINE LABOUR FORCE INDICATORS BMTHS	12600
@@ -267,6 +274,7 @@ Ivoire. BMC Public Health. Nov	10919
 Jobs and Income BMZ	458
 Jobs and Income II BMZ	1427
 Kamerun BMZ	1051
+Kenya. BMC Public Health	19974
 LOAN NO. BMZ-NO	14546
 La BM	10876,4890
 Le BM	15766
@@ -298,6 +306,7 @@ RMP MASSAH Equipe BM	16012
 RR Représentant Résident Marché Equipe BM	16012
 RSU Equipe BM	16012
 Rapport BM	19220
+Rassekh BM	19974
 Raumordnungsplanun BMZ	49
 Registre Equipe BM	16012
 Remerciements. La BM	19687
@@ -312,6 +321,7 @@ Sauvegardes BM Immédiat Soumettre	16012
 Senegal BMZ	1425
 Smisha Agarwal. BMJ Global Health	10881
 Soukisa BM Equipe BM	16012
+South Africa. BMC Health Serv Res	19974
 South Africa. BMC Med Inform Decis	766
 System BMH Benjamin Mkapa Hospital KCMC	19544
 Tanzania. BMC Health Serv Res	1261,2530
@@ -329,4 +339,6 @@ UGP BM Mai	16722
 UGP Equipe BM	16012
 USAID BM	15724
 Union Africaine BMZ	16195
+Upper East Region of Northern Ghana. BMC	19974
 West Africa Germany's BMZ	11293
+Zambia. BMC Health Serv Res	19974

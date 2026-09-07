@@ -158,12 +158,13 @@ Basic Education Certificate Examination	18461,51,66
 Basic Education Certificate Examinations	18455
 Basic Education Certification Examination BED	15796
 Bata and Malabo. Certain	16972
-Birth Certificate	6392,3642,231,500,10,37,1404,1,1,73,46,973,1452,2079,19,1592,18,340,731,35,263
+Birth Certificate	6392,3642,231,500,10,37,1404,1,1,73,46,973,1452,2079,19,1592,18,340,731,35,263,96,1
 Birth Certificate Access Changes Lives	12227
 Birth Certificate No	14713
 Birth Certificate Number	13477
 Birth Certificate Online	6783
 Birth Certificate Processing	19541
+Birth Certificate. A Birth Certificate	19935
 Birth Certificates	445,3812,6518,1516,37,9,159,603,6442
 Birth Certificates Available Fees	14045
 Birth Certificates Population Projection	19541
@@ -304,7 +305,7 @@ CERHIS	13306
 CERIP	16926
 CERIST	2617,1238,11552,470
 CERME	2966,16400
-CERMEL	15500
+CERMEL	15500,4460
 CERMI	15526,457
 CERN for AI	6960
 CERP Discussion Paper	10997
@@ -710,7 +711,7 @@ Certificados de Título de Terra Formato	11898
 Certificados de Vida	16056
 Certificar	11376
 Certificar-se	15445
-Certificat	1706,1339,407,968,1111,686,4,1567,949,2139,2499,344,136,633,1,1,47,85,730,10,8,6,65,143,59,100,14,179,63,149,1,54,273,159,1,809,40,204,140,4,65,15,90,103,13,170,2,33,911,21,579
+Certificat	1706,1339,407,968,1111,686,4,1567,949,2139,2499,344,136,633,1,1,47,85,730,10,8,6,65,143,59,100,14,179,63,149,1,54,273,159,1,809,40,204,140,4,65,15,90,103,13,170,2,33,911,21,579,111
 Certificat Foncier	13375,1069
 Certificat Foncier Article	14444
 Certificat Foncier Figure	13375
@@ -766,7 +767,7 @@ Certificate for Replacement of National Identification	12333
 Certificate for Widow	12333
 Certificate of Acceptability	11172
 Certificate of Achievement	17235
-Certificate of Acquired Citizenship	5999,393
+Certificate of Acquired Citizenship	5999,393,13543,1
 Certificate of Admissibility	11939
 Certificate of Approval	19745
 Certificate of Approval of Chambers	19712
@@ -801,7 +802,7 @@ Certificate of Marriage Capacity	19834
 Certificate of Nationality	12333,6265
 Certificate of Nationality ACTS	18598
 Certificate of Nationality The Minister	18598
-Certificate of Naturalisation	12410
+Certificate of Naturalisation	12410,7525
 Certificate of Naturalization	12217
 Certificate of Occupancy	11129
 Certificate of Origin	14718,2250,1317
@@ -845,7 +846,7 @@ Certificates of Registered Title	12605
 Certificates of Registration	9646,511,4579
 Certificates of Right of Occupancy	19585
 Certificates. Revocation	13951
-Certification	587,149,264,9,222,13,1098,1519,1690,114,71,57,639,504,119,493,1451,617,697,499,29,28,87,18,165,81,21,106,146,108,166,185,89,296,1,29,527,1,110,26,6,31,3,114,135,55,330,141,755,126,56,23,78,13,10,90,46,223,97,49,4,68,69,46,62,9,266,208,26,42,36,19,61,471,33,20,40,8,933,8,4,15,21,26,215,116,202,19,4,93,241,106,23,5,119,15,36,26,22,40,13,19,307,13,43,217
+Certification	587,149,264,9,222,13,1098,1519,1690,114,71,57,639,504,119,493,1451,617,697,499,29,28,87,18,165,81,21,106,146,108,166,185,89,296,1,29,527,1,110,26,6,31,3,114,135,55,330,141,755,126,56,23,78,13,10,90,46,223,97,49,4,68,69,46,62,9,266,208,26,42,36,19,61,471,33,20,40,8,933,8,4,15,21,26,215,116,202,19,4,93,241,106,23,5,119,15,36,26,22,40,13,19,307,13,43,217,150
 Certification Achieved	19680
 Certification Authorities	9880
 Certification Authority	1009,10175,1650,1176,730,1,11
@@ -951,6 +952,7 @@ Certified Microfinance Professional	14997
 Certified Mobile and Web Application Pen. Tester	15662
 Certified National Government Data Centres All	6432
 Certified Network Specialist	13078
+Certified Network Startup Support Global Reach	19941
 Certified Penetration Testing Professional	15662
 Certified Public Accountant	6946,8051
 Certified Public Accountants	14784
@@ -965,6 +967,7 @@ Certified Server Security Specialist	17334
 Certified Threat Intelligence Managers	10689
 Certified Tier	3534
 Certified Training	13037
+Certified True Copy	19981
 Certified. Document Number	19574
 Certifier	10906,1245,7736
 Certifié	6456,8867,925,3199
@@ -1401,6 +1404,7 @@ Investment Certificate	14828,3
 Investment Certificate SSDS Sector Strategy	16927
 Irembo. Abridged Birth Certificate	12328
 Issuance of Birth and Death Certificates	19541
+Issuance of Cheque Printer Accreditation Certificate	19940
 Issuance of Company Certificate of Incorporation	14891
 Issuance of Foreigner Certificate	12227
 Issuance of Tax Compliance Certificate	18608
@@ -1446,6 +1450,7 @@ La Coordination de Cercle	17861
 Lab Professional Certifications Cohort One Success	14999
 Lab Professional Certifications Program	14999
 Land Certificates	15657
+Land Title Certificate	19981
 Lardit Cerdan	16100
 Le CER	16612
 Le CERE	16627
@@ -1498,7 +1503,7 @@ Maquette du Certificat Foncier Page	13375
 Market Differentiation and Certification	14818
 Market Differentiation and Certification Premium	14818
 Markets Authority CMC Cabin-Crew Member Certificate	2775
-Marriage Certificate	12291,2471,4048
+Marriage Certificate	12291,2471,4048,1125
 Marriage Certificate No	14713
 Marriage Certificates Available Fees	14045
 Master's Certificate	19154
@@ -1577,6 +1582,7 @@ Nature of Business Certificate of Incorp Contact Person	736
 Niamey. Certaines	18118
 Nigeria Begins Sovereign Cloud Certification	10424
 Nigeria’s Root Certification Authority	9880
+No. The Birth Certificate	19935
 No. of Data Controller Certification	15716
 No. of Data Protection Supervisors Certified	15716
 Nokia and Cerillion	2235
@@ -1839,6 +1845,7 @@ Registrar of Marriages Ends Manual Printing of Certificates	12290
 Registrar's Certificates and Special Licenses	12290
 Registrar's Certificates and Special Licenses. The Office	12290
 Registration Certificate	11250,1787
+Registration Certificates	19935,1
 Registration Death and Issuance Deaths Certificates	19541
 Registration Guidelines for Birth and Death Certificates	19541
 Registration and CertificatiCoonm	736

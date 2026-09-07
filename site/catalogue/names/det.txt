@@ -58,6 +58,7 @@ Best Interest Determination	18125
 Best Interests Determination	16580
 Bias Detection Algorithm	15713
 Bidders and Detailed Evaluation	13185
+Blog Details	19958
 Body Details	15093
 Body Government of Zimbabwe Commissions Dete Solar	13614
 Border Crossings Libyan Agricultural Officials Detained	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
@@ -135,6 +136,8 @@ Contractor’s Equipment Details	18543
 Contribuição Nacionalmente Determinada	15962
 Contribuições Determinadas	18760
 Corruption Detection and Prevention Strategy	12598
+Country Detail	19980
+Country Detail Pages	19980
 Court. Issues for Determination	3005
 Crime Detection Strategy NCPS National Crime	11188
 Criterios Determinantes	16855
@@ -423,13 +426,14 @@ Deteriorated	5679
 Deteriorating State of Internet Freedom	13313
 Deterioration	1828,9007,3,130,902,16,466,1,135,973,6124,237
 Deterioration Angola	10759
-Deterioration Bouncing Back Not Classified	10837,1503
+Deterioration Bouncing Back Not Classified	10837,1503,7598
+Deterioration Bouncing Back Not Classified Between	19938
 Deterioration Characteristic Score	10759
 Deterioration Increasing Deterioration Not Classified	10759
 Deterioration Increasing Deterioration Not Classified Best	10759
-Deterioration No Change Not Classified	10759,76,3,130,918,466,1,135,7334
+Deterioration No Change Not Classified	10759,76,3,130,918,466,1,135,7334,116
 Deterioration No Change Not Classified FOUNDATIONS	10759
-Deterioration No Change Not Classified SECURITY	10837,1503
+Deterioration No Change Not Classified SECURITY	10837,1503,7598
 Deterioration Overall Governance	10968,902
 Deterioration of Constructed Structures TZS	19585
 Determinadas	16875
@@ -444,7 +448,7 @@ Determinants of Health Addressed	10776
 Determinants of Informality	13624
 Determinants of Property Tax Revenue	10997
 Determinar	1701,9076,653,88,1,3872,59,76,596,776,32,35,1796,12,5,22,1
-Determination	1,2,19,214,526,2243,302,407,1399,1833,492,1691,1592,460,88,717,379,9,73,76,52,392,86,32,100,21,116,1272,142,6,101,75,109,336,350,1126,318,86,882,756,7,628,10,32,191
+Determination	1,2,19,214,526,2243,302,407,1399,1833,492,1691,1592,460,88,717,379,9,73,76,52,392,86,32,100,21,116,1272,142,6,101,75,109,336,350,1126,318,86,882,756,7,628,10,32,191,202
 Determination Agent	14135
 Determination Committee	11177
 Determination No	6946
@@ -619,18 +623,18 @@ Impact. Detailed	6100
 Implementation. Details	19643
 Improve Detection of Non	17011
 Improve Detection of Non-compliant Professionals	17011
-Improvement Bouncing Back Increasing Deterioration Slowing	10837,1503
+Improvement Bouncing Back Increasing Deterioration Slowing	10837,1503,7598
 Improvement Increasing Deterioration Slowing Improvement	10835,3,130,918,466,1,135,7334
-Improvement No Change Increasing Deterioration Slowing	10837,1503
-Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3,130,902,16,466,1,135,7334
+Improvement No Change Increasing Deterioration Slowing	10837,1503,7598
+Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3,130,902,16,466,1,135,7334,116
 Improving the Detection	11417
 Inadequate Incident Detection and Response Capabilities	5677
 Inadequate Network Monitoring and Threat Detection Controls	19584
 Incident Coordination Determining	775
 Inclusive Obj. Objective Details No	1818
-Increasing Deterioration	10759,1128,1,1,264,1,9,178,7311,1,205,1,65
+Increasing Deterioration	10759,1128,1,1,264,1,9,178,7311,1,205,1,65,15
 Increasing Deterioration Angola	10759
-Increasing Deterioration Score	10837,1315,188
+Increasing Deterioration Score	10837,1315,188,7598
 Increasing Deterioration Security	10835,3,1048,466,1,135,7334
 Increasing Deterioration. Accountability	11888
 Increasing Deterioration. Participation	11888
@@ -749,7 +753,7 @@ Nationally Determined Contributions. WRI	15500
 Nationally Determined Planned Contribution CRT	18309
 Network Intrusion Detection Systems	1000
 Network Operator NDC Nationally Determined Contribution	15621
-News Details	9884,5371
+News Details	9884,5371,4695
 News Details Latest News	2311,24,2424,534,613,107,100,280,14,352,339,157,80
 Niger Details	18109
 Niger’s Nationally Determined Contributions	18198
@@ -903,9 +907,9 @@ Seychelles Details Vaughan O'Grady Category	2511
 Seychelles' Nationally Determined Contributions	18947
 Signs Bouncing Back Slowing Deterioration Increasing	10759
 Size and Determinants	10856
-Slowing Deterioration	11887,1,1,264,1,9,178,11,7300,1,205,1,65
+Slowing Deterioration	11887,1,1,264,1,9,178,11,7300,1,205,1,65,15
 Slowing Deterioration Participation	19836
-Slowing Deterioration Score	10837,1315,188
+Slowing Deterioration Score	10837,1315,188,7598
 Slowing Deterioration. African	11888
 Slowing Deterioration. Between	11888
 Slowing Deterioration. Foundations for Economic Opportunity	11888

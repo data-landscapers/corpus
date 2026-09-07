@@ -292,7 +292,7 @@ Bachelor of Medicine	13040
 Bachelor of Medicine and Bachelor of Surgery MES	14775
 Bachelor of Medicine and Surgery	13078
 Baimoo Afya Medical Centre Data Controller	7167
-Belief Media Freedom Digital Freedom Protection	10759,78,1315,188
+Belief Media Freedom Digital Freedom Protection	10759,78,1315,188,7598
 Bethesda Medical Centre Uganda	10564,9249
 Beyond Medicine	11656
 Bible Faith Church Medical Services Data	7167
@@ -751,6 +751,7 @@ English Media	8564
 English Medium	19585
 English Medium Schools	19585
 English Medium Schools' Revenue	19585
+Enhanced and Medium	19940
 Enterprises MT Metric Tonnes MTP Medium	2775
 Entertainment Internet Social Media Take Pics	582
 Entrada Ilegal de Medicamentos	8324
@@ -776,6 +777,7 @@ European Centre for Medium-Range Weather Forecasts	11553,2969,1849,1938,83
 European Centre for Medium-Term Forecasts EDEQUE	18309
 European Centre for Medium-range Weather Forecasts’ AIFS	4300
 European Medicine Agency	7112
+European Payments Area SME Small and Medium	19940
 European Union-funded Liberia Media Empowerment Project	3008
 Evaluation Medicines Control Authority of Zimbabwe Machine	4528
 Evenements Medicamenteux Indesirables	14662
@@ -806,7 +808,7 @@ Facilitate Media and Information Literacy	1814
 Faculdade de Medicina Bissau Bissau Public	11552
 Faculty of Health and Medical Sciences	14775
 Faculty of Medical Sciences	2422
-Faculty of Medicine	10776,4
+Faculty of Medicine	10776,4,9175
 FairPlanet Media Services	8943
 Faith Medical Bureau	11022
 Faith Medical Bureau-UCC Digital Skilling Project	11022
@@ -1220,6 +1222,7 @@ MEDIUM-TERM EXPENDITURE FRAMEWORK	15716
 MEDIUM-TERM STRATEGIC PLAN	19666
 MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK	11228
 MEDIWR Ministry of Electricity	18614
+MFWA Media Foundation for West Africa MMDAs	19937
 MIMO Medical Informatics and Digital Health Multilingual	14666
 MINISTRY of Information and Media Permanent Secretary Thabo	13680
 MISA Zimbabwe and Media Alliance of Zimbabwe	6951
@@ -1296,7 +1299,7 @@ MediClinic Hospital	12947
 MediClinic Hospital Otjiwarongo	12947
 MediClinic Hospital Swakopmund	12947
 MediPro	1261
-Media	34,192,1058,494,36,148,131,3,246,498,4,100,14,903,287,605,297,165,27,2,241,500,2,645,51,60,89,774,16,203,2,20,39,94,97,53,64,179,12,75,21,284,311,43,4,112,20,57,87,331,31,91,83,32,130,116,84,179,249,4,35,198,66,11,11,79,2,3,1,90,56,27,5,494,162,17,67,102,46,132,12,11,2,18,63,14,53,169,221,36,14,17,90,65,182,13,7,11,87,43,1,12,3,152,56,69,20,155,118,26,5,112,26,353,173,35,79,4,19,4,52,30,39,314,24,32,19,54,24,92,41,109,132,82,25,265,154,126,14,361,71,8,19,47,1,45,1,35,17,33,52,39,330,32,267,167,106,163,14,39,96,10,22,18,16,6,32,22,94,21,53,22,98,1,34,78,26,460,52,1,11,18,92,5,9,82,54
+Media	34,192,1058,494,36,148,131,3,246,498,4,100,14,903,287,605,297,165,27,2,241,500,2,645,51,60,89,774,16,203,2,20,39,94,97,53,64,179,12,75,21,284,311,43,4,112,20,57,87,331,31,91,83,32,130,116,84,179,249,4,35,198,66,11,11,79,2,3,1,90,56,27,5,494,162,17,67,102,46,132,12,11,2,18,63,14,53,169,221,36,14,17,90,65,182,13,7,11,87,43,1,12,3,152,56,69,20,155,118,26,5,112,26,353,173,35,79,4,19,4,52,30,39,314,24,32,19,54,24,92,41,109,132,82,25,265,154,126,14,361,71,8,19,47,1,45,1,35,17,33,52,39,330,32,267,167,106,163,14,39,96,10,22,18,16,6,32,22,94,21,53,22,98,1,34,78,26,460,52,1,11,18,92,5,9,82,54,162
 Media Academy for Journalism and Communication	9313
 Media Access Control	4274,10590
 Media Access Control Parameters	3604,15641
@@ -1307,6 +1310,8 @@ Media Appearances	17289
 Media Authority	6281,1166
 Media Awareness Workshop	16978
 Media Blank	13053
+Media Briefing	19966
+Media Briefing Ministry of Communication	19966
 Media Buying	19641
 Media COMMISSION FOR GENDER EQUALITY UNDERTAKES	11257
 Media Center	14685,570,498,58,3,4,58,95,21,54,77,8,71,5,29,19,3386
@@ -1359,10 +1364,11 @@ Media Foundation For West Africa	17095
 Media Foundation for West Africa	5485,3597,578,300,1135,8148,5
 Media Foundation for West Africa and Co-Develop	4690,104,473,54,1993,594,680,1291,2158,13,7,2337
 Media Foundation for West Africa and Co-Develop Godfrey	11975
-Media Freedom	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,38,139,1,11,1,135,7164,1,169,14,22,1,65
+Media Freedom	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,38,139,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Media Frequencies and Mobile Transceivers	2775
 Media Gateway	15542
 Media Google	13461
+Media Guidelines	19957
 Media High Moderate Develop	16926
 Media Houses	4528,7925,59,5973
 Media Houses Component	17099
@@ -1400,6 +1406,7 @@ Media Media	19791
 Media Monitoring	17139
 Media Monitoring Africa	9967,762,2732
 Media Monthly	17099
+Media More Sign	19962
 Media Newsroom	13051
 Media Officer	9126,1443,660,3
 Media Organisations	9660
@@ -1510,7 +1517,7 @@ Mediación	17089,136
 MediaeMedia	7253
 Mediaguinee Août	11019
 Mediamania	8755,4813,2590,543
-Median	771,851,1,3,1,1,853,5,5,1,3,2,1414,1,5,213,72,770,228,152,699,210,571,813,2114,398,702,81,252,3,368,439,439,601,1773,205,227,357,315,2593,419,728,211
+Median	771,851,1,3,1,1,853,5,5,1,3,2,1414,1,5,213,72,770,228,152,699,210,571,813,2114,398,702,81,252,3,368,439,439,601,1773,205,227,357,315,2593,419,728,211,100
 Median Africa	17743
 Median Broadband Download Speed	18485
 Median Deal	4972
@@ -1966,7 +1973,7 @@ Medium Term Table	14830
 Medium Term The Ministry	18512
 Medium Term and India	11986
 Medium Term. Potential Partners	13987
-Medium Voltage	9409,5336,122,4,2095,2680
+Medium Voltage	9409,5336,122,4,2095,2680,330
 Medium Voltage Agricultural	9409
 Medium Voltage Generation	15255
 Medium Voltage MW	12358
@@ -2273,6 +2280,7 @@ PR Activity Schedule Media Elements	8999
 PRINCIPAL SECRETARY State Department Medical Services	7987,1
 PROGRAMMES MEDIA CURRICULUM School Examination Analysis	18536
 PROVIDERS TO IMPLEMENT THE ELECTRONIC MEDICAL	11252
+PSP Medium	19940
 PWC’s Global Media and Entertainment Outline	1363
 PX Media	11271
 Palgrave Handbook of Methods for Media	11028
@@ -2539,10 +2547,11 @@ Small and Medium Enterprise Development	13391,294
 Small and Medium Enterprise Development Corporation	13122
 Small and Medium Enterprise Development and Infrastructure	1778,210
 Small and Medium Enterprise MSME Mobile Transfer	17235
+Small and Medium Enterprise MTO Money Transfer	19940
 Small and Medium Enterprise NDP National Development	19646
 Small and Medium Enterprise NaFAA National Fisheries	17139
 Small and Medium Enterprise SDM Single Digital	16144
-Small and Medium Enterprises	940,30,161,117,16,724,1772,768,1355,1063,157,445,1122,447,12,294,1433,194,81,134,1217,30,189,37,184,34,22,144,190,2,129,242,339,175,347,101,27,223,656,890,97,598,1922,652,97,17
+Small and Medium Enterprises	940,30,161,117,16,724,1772,768,1355,1063,157,445,1122,447,12,294,1433,194,81,134,1217,30,189,37,184,34,22,144,190,2,129,242,339,175,347,101,27,223,656,890,97,598,1922,652,97,17,114
 Small and Medium Enterprises Act	14843
 Small and Medium Enterprises Develop	14717
 Small and Medium Enterprises Development	940,6496,825,3041,2289,82
@@ -2574,6 +2583,7 @@ Small and Medium-Sized Enterprises and Clients	10718
 Small and Medium-sized Enterprise Africa MTO Money	12444
 Small and Medium-sized Enterprise SSS Securities Settlement	14997
 Small and Medium-sized Enterprises	7734,3298,962,406,2350,69,2123,159,1159,1468
+Small and Medium-sized Enterprises Ghana Awards	19966
 Small and Medium-sized Enterprises MSPLS Ministry of Public	13312,2
 Small and Medium-sized Enterprises NCFI National Council	7763
 Small and Medium-sized Enterprises Programme	10510

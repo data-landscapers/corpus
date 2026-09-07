@@ -19,6 +19,7 @@ AUTHORITY LAW CREATING THE LIBERIA ELECTRICITY	16851
 Abraham Darius Dilon. The Liberian Senate	17376
 Abstract The Liberia	17366
 Acceleration Support Liberia Revenue Authority	17011
+AccessBank Liberia	19980
 Accountability Lab Liberia	17037
 Acronym Full Meaning LLA Liberia Land	17260
 Across Liberia	17370
@@ -192,7 +193,7 @@ Childbearing LPHC Liberia Population and Housing Census	16950
 Chimkwita Her Liberty	5851,660,853
 China's People's Liberation Army	7870
 Civil Liberties	2518,12824,2625,217,1664
-Civil Liberties for Women	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Civil Liberties for Women	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Civil Liberties for Women Absence of Violence	10759
 Civil Liberties for Women. Worst	11887
 Civil Servant Association of Liberia	16985
@@ -348,9 +349,9 @@ Enhancing Liberia’s Digital Connectivity	17260
 Enhancing WHO Liberia’s Operational Capacity	17289
 Enrollment of Liberians	16993
 Enumeration Area GoL Government of Liberia GPS	16921
-Equal Civil Liberties	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Equal Civil Liberties	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Equal Civil Liberties Accountability	10835,3,130,902,16,466,1,135,7334
-Equal Civil Liberties Equal Socioeconomic Opportunity	10837,1315,188
+Equal Civil Liberties Equal Socioeconomic Opportunity	10837,1315,188,7598
 Equal Political Representation Equal Civil Liberties	19822
 Equatorial Guinea Gabon Lesotho Liberia Madagascar	10764
 Equip Liberia	17116
@@ -534,6 +535,7 @@ Institute for Liberty and Democracy and ECES	15473
 Insurer Liberty	5806
 Integrity Watch Liberia	17037
 Interior Regulations of Liberia	16860
+International Bank Liberia	19980
 International Bank Liberia Limited	4283
 International Bank Liberia Limited SCF Systemically	17235
 International Commitments Liberia	17367
@@ -773,7 +775,7 @@ Liberdades	11367,26
 Liberdades Fundamentais da Pessoa	12820
 Liberee HABIMANA Emmanuel NIYOYITA Thacienne HABINEZA	12445
 Liberi	16876
-Liberia	31,77,128,163,114,187,4,117,112,80,32,1,95,1,122,92,16,93,72,3,3,104,130,133,342,204,29,63,21,108,5,84,4,176,51,11,81,6,142,48,153,32,167,8,76,265,131,59,26,10,13,36,11,10,3,141,128,29,27,9,12,20,23,64,71,8,23,38,34,34,52,62,169,15,107,11,33,5,33,42,19,35,51,101,11,74,43,194,21,31,8,103,28,8,30,9,130,10,142,11,60,43,51,22,82,34,66,76,219,28,15,63,117,42,33,24,106,1,1,74,16,13,1,1,28,76,275,49,1,44,198,181,181,48,1,31,25,1,94,81,52,74,49,1,126,210,88,13,1,1,1,90,62,56,1,82,103,81,95,44,27,52,1,59,1,1,1,38,38,66,31,13,10,7,33,74,41,5,21,50,3,18,28,84,86,62,24,405,27,37,101,10,26,121,3,16,1,2,30,173,61,1,9,33,60,85,11,1,23,9,103,235,319,328,18,180,113,32,225,103,5,52,33,58,17,6,6,56,44,7,10,4,6,9,293,60,17,700,47,40,112,256,265,44,13,40,435,18,11,66,59,2,1,2,5,1,2,5,1,1,1,2,4,3,10,2,4,2,12,1,5,12,13,1,12,1,8,4,2,1,10,1,2,7,1,4,3,5,1,1,8,6,1,11,3,2,3,2,4,12,6,4,8,2,2,9,2,5,3,1,5,6,2,7,7,4,4,2,1,2,4,4,11,1,1,2,3,4,2,2,2,4,1,3,2,2,6,7,3,4,3,1,7,5,4,6,1,17,2,2,4,16,1,1,1,2,6,8,6,9,5,1,1,10,5,9,3,1,10,12,4,14,1,1,1,3,5,1,4,11,3,1,3,6,12,3,119,22,8,141,34,90,29,74,155,111,108,154,8,3,3,7,19,27,6,24,193,611,288,169,14,2,20,1
+Liberia	31,77,128,163,114,187,4,117,112,80,32,1,95,1,122,92,16,93,72,3,3,104,130,133,342,204,29,63,21,108,5,84,4,176,51,11,81,6,142,48,153,32,167,8,76,265,131,59,26,10,13,36,11,10,3,141,128,29,27,9,12,20,23,64,71,8,23,38,34,34,52,62,169,15,107,11,33,5,33,42,19,35,51,101,11,74,43,194,21,31,8,103,28,8,30,9,130,10,142,11,60,43,51,22,82,34,66,76,219,28,15,63,117,42,33,24,106,1,1,74,16,13,1,1,28,76,275,49,1,44,198,181,181,48,1,31,25,1,94,81,52,74,49,1,126,210,88,13,1,1,1,90,62,56,1,82,103,81,95,44,27,52,1,59,1,1,1,38,38,66,31,13,10,7,33,74,41,5,21,50,3,18,28,84,86,62,24,405,27,37,101,10,26,121,3,16,1,2,30,173,61,1,9,33,60,85,11,1,23,9,103,235,319,328,18,180,113,32,225,103,5,52,33,58,17,6,6,56,44,7,10,4,6,9,293,60,17,700,47,40,112,256,265,44,13,40,435,18,11,66,59,2,1,2,5,1,2,5,1,1,1,2,4,3,10,2,4,2,12,1,5,12,13,1,12,1,8,4,2,1,10,1,2,7,1,4,3,5,1,1,8,6,1,11,3,2,3,2,4,12,6,4,8,2,2,9,2,5,3,1,5,6,2,7,7,4,4,2,1,2,4,4,11,1,1,2,3,4,2,2,2,4,1,3,2,2,6,7,3,4,3,1,7,5,4,6,1,17,2,2,4,16,1,1,1,2,6,8,6,9,5,1,1,10,5,9,3,1,10,12,4,14,1,1,1,3,5,1,4,11,3,1,3,6,12,3,119,22,8,141,34,90,29,74,155,111,108,154,8,3,3,7,19,27,6,24,193,611,288,169,14,2,20,1,80,41
 Liberia 2012 Revised Youth Policy Presentation.pdf	16872
 Liberia 76 V. Evaluating Progress Towards Reducing	17257
 Liberia AFR LI	17743
@@ -1233,7 +1235,7 @@ Liberia Turns	6166
 Liberia UNODC United Nations Office	16943
 Liberia URL	16876,71,36,190,191
 Liberia USAID	97,857
-Liberia Uganda Mozambique Ethiopia Niger Zimbabwe	10837,1503
+Liberia Uganda Mozambique Ethiopia Niger Zimbabwe	10837,1503,7598
 Liberia Unveils Ambitious Tourism Strategy	17011
 Liberia Upper	16947
 Liberia Urban Resilience Project	17257,71
@@ -1510,6 +1512,7 @@ LiberiaRevenueAuthority	17258
 Liberiaby Sex	16921
 Liberian	31,1746,585,408,469,279,684,59,21,1,2,269,56,4,203,427,231,519,200,494,280,262,180,205,1,1,103,2,28,351,94,379,230,56,95,257,336,101,3,209,266,219,204,31,3460,5,172,56,65,6,9,293,1497,621,68,7,1,2,5,3,2,7,10,2,4,2,43,22,6,1,10,3,7,1,4,3,6,1,26,10,22,12,2,13,14,15,15,5,8,11,1,10,4,14,16,4,20,28,22,3,14,6,9,5,17,56,3,5,1,15,25,1039
 Liberian AI	8861
+Liberian Bank for Development	19980
 Liberian Bank for Development and Investment	17257
 Liberian Business Registry	16949
 Liberian Business Registry Incubators	16876
@@ -1941,8 +1944,8 @@ Peer Review Report The Liberia Education	17014
 Peer Review of Liberia's EMIS	17021
 Penal Law of Liberia	16833
 People’s Liberation Army	8510,1934,898
-Personal Liberties	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
-Personal Liberties Freedom of Expression	10837,1315,188
+Personal Liberties	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Personal Liberties Freedom of Expression	10837,1315,188,7598
 Personal Liberty	18597
 Petroleum Threshold LIBERIA Figure	17257
 Photo-UNDP Liberia	17370
@@ -2011,7 +2014,7 @@ REPUBLIC OF LIBERlA FOR EXECUTIVE APPROVAL	16851
 RESIDENCE IN LIBERIA OF RECOGNIZED REFUGEES	16830
 RESIDENCE IN LIBERIA PENDING RECOGNITION	16830
 REpublic of Liberia H. E. Dr. Badara	11517
-RIGHTS Personal Liberties	10759,78,1052,451
+RIGHTS Personal Liberties	10759,78,1052,451,7598
 RIGHTS Personal Liberties Freedom of Expression	10759
 Re-Establish the Liberia Anti- Corruption Commission	17037
 Real Sector Liberia	17235
@@ -2144,7 +2147,7 @@ Shaping the Future of Liberia’s Telecom Sector Moderator	17070
 Sharing Liberia	10408
 Sierra Leone Guinea Liberia Nigeria SSA	16876
 Sierra Leone Liberia Ghana Gambia Cote	16876
-Sierra Leone and Liberia	513,751,383,15467,748,892
+Sierra Leone and Liberia	513,751,383,15467,748,892,1220
 Sierra Leone and Liberia. CTO	7286
 Signals Digital Government Shift Liberian Observer	5994
 Smart Liberia	16876

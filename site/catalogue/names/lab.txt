@@ -98,7 +98,7 @@ BIPM. Laboratory Accreditation The Metrology Unit	14736
 BIS Innovation Lab	4848
 Bachelor of Medical Laboratory Science	13078
 Bahi DC Laboratories	19585
-Banking Services Labour Relations Secure Employment	10759,78,1315,188
+Banking Services Labour Relations Secure Employment	10759,78,1315,188,7598
 Beijing Zhongguancun Laboratory	8277
 Benin Labour Market Profile	16144
 Beyond Cell C Blu Label	11159
@@ -401,7 +401,7 @@ Eswatini Health Laboratory Services	12976
 Etat L’AI Lab	19336
 Eugénio César Laborinho	11678
 European Review of Labour and Research	226
-Evaluation ILO International Labour Organization IMF	10759,78,1052,451
+Evaluation ILO International Labour Organization IMF	10759,78,1052,451,7598
 Evidence Laboratoire de Criminalistique Numérique	10911
 Example RUNA LABS	14524
 Expérimentation Labs	16693
@@ -453,8 +453,8 @@ Forced Labor Any	1988
 Forced Labor Declaration	14576
 Forced Labor Gender-Based Violence	1988
 Forced Labor Performance Declaration	14576
-Forced Labour	1988,8771,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,2254,4910,1,169,14,22,1,65
-Forced Labour Absence of Crime Public Perception	10759,78,1315,188
+Forced Labour	1988,8771,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,2254,4910,1,169,14,22,1,65,14,1
+Forced Labour Absence of Crime Public Perception	10759,78,1315,188,7598
 Forced Labour Convention	14011,731
 Forced Labour Public Perception of Inclusion	10759
 Forced Labour Rights	10835,3,130,902,16,466,1,135,7334
@@ -500,7 +500,8 @@ General Labor Law No	16972
 General Labour Act	16958
 Geospatial Lab	15552
 Ghana Digital Centres Limitied AI Lab	4126
-Ghana Tech Lab	4126,11260,318
+Ghana Labour Management Information System	19973
+Ghana Tech Lab	4126,11260,318,4262
 Ghana Tech Lab’s National AI Training	4126
 Global Digital Governance Lab	7320,537
 Global Labor Market Conference	14793
@@ -571,6 +572,7 @@ ILO International Labour Organisation IMF International	15604
 ILO International Labour Organisation INT Instance	1818
 ILO International Labour Organization	11887,266,1,9,178,7517,1
 ILO International Labour Organization IPF Investment	19239
+ILO Labour Statistics	19966
 ILO’s Worst Forms of Child Labor Convention	16972
 IMPACT Lab Morocco INCO.org France Ingenious	15460
 INDICATORS AND COMPONENTS VALUES Labor	12389
@@ -734,13 +736,13 @@ LABOUR AND SOCIAL DEVELOPMENT Uganda	19685
 LABOUR AND SOCIAL WELFARE	13420
 LABOUR AND SOCIAL WELFARE APPROPRIATION ACCOUNT	13420
 LABOUR COURT	13504
-LABOUR ENVIRONMENT	10759,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135,7164,1,169,14,22,1,65
+LABOUR ENVIRONMENT	10759,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 LABOUR ENVIRONMENT HEALTH Rank	10835
-LABOUR ENVIRONMENT INFRASTRUCTURE RURAL ECONOMY WOMEN’S	10837,1503
+LABOUR ENVIRONMENT INFRASTRUCTURE RURAL ECONOMY WOMEN’S	10837,1503,7598
 LABOUR ENVIRONMENT Impartiality	10835,3,130,902,16,466,1,135,7334
 LABOUR ENVIRONMENT Judicial Processes	10835,3,130,902,16,466,1,135,7334
-LABOUR ENVIRONMENT Rank	10759,78,1049,454
-LABOUR ENVIRONMENT Regional Integration	10759,78,1052,451
+LABOUR ENVIRONMENT Rank	10759,78,1049,454,7598
+LABOUR ENVIRONMENT Regional Integration	10759,78,1052,451,7598
 LABOUR EXPORT	12746
 LABOUR FORCE CHARACTERISTICS	19715
 LABOUR HEALTH PARTICIPATION ENVIRONMENT Rank	11870
@@ -814,6 +816,7 @@ Labadi Beach Hotel	5946,4761
 Labadie	11585
 Labaduba	14859
 Laban Musinguzi	11659
+Labari Journal	19972,9
 Labbezanga-	17824
 Labe La Direction	16656
 Label	1988,5802,8354,2630,619
@@ -1070,9 +1073,9 @@ Labour Digital Skill Development Methodology Programme	4359
 Labour Disruptions and Economic Impact	12210
 Labour Division	14742,28
 Labour Efficiency	2957,7758
-Labour Environment	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Labour Environment	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Labour Environment Infrastructure Rural Economy Health	10759
-Labour Environment Infrastructure Rural Economy Human	10837,1315,188
+Labour Environment Infrastructure Rural Economy Human	10837,1315,188,7598
 Labour Environment Rank	11889
 Labour Environment. Regional Integration	11887
 Labour Force	11296,1304,2215,17,4781,102
@@ -1130,6 +1133,8 @@ Labour Matters	14476
 Labour Migration	13060,3814
 Labour Migration Action Plan	10324
 Labour Migration Strategy	10463
+Labour Minister	19973
+Labour Ministry	19973
 Labour Ministry Pushes Digital Services	11640
 Labour Mobility	14039
 Labour Module	12445
@@ -1141,7 +1146,7 @@ Labour Organization IMB Information	17105
 Labour Organization IMF International Monetary Fund	10835,3,130,902,16,466,1,135,7334
 Labour Organization LAPF LAPF Pensions Fund	19531
 Labour Prioritise	12253
-Labour Relations	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Labour Relations	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Labour Relations Act	11182,98
 Labour Research SA	11986
 Labour Scarcity and Mechanization	14818
@@ -1187,6 +1192,7 @@ LabourList	226
 Labourdonnais Street	14847
 Labourers	12253
 Labourforce Survey Annual Report	14935
+Labrecque G	19974
 Labrique	10881,1498
 Labrique AB	1219
 Labrique&author	1219
@@ -1282,6 +1288,7 @@ Methodology Handbook. Labor	12389
 Microsoft AI for Good Lab	9929,15,4619
 Microsoft’s AI for Good Lab	8680,1940
 Midkoodna Labada	14859
+Minister for Labour	19973
 Minister of Employment and Labour	11280
 Minister of Justice and Labour Relations	8006
 Minister of Labor	3583,11558

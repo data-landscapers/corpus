@@ -167,7 +167,7 @@ Body REPUBLIC OF NAMIBIA STRATEGIC PLAN	12973
 Body Telecom Namibia and CRAN Formally Sign	13150
 Boma Lathu. Shadric Namalomba	6592
 Boost Household Productivity Indicator Name Unit	15601
-Botswana Namibia Ghana Morocco Tunisia Kenya	10837,1503
+Botswana Namibia Ghana Morocco Tunisia Kenya	10837,1503,7598
 Botswana and Namibia	5382,3789,391,73,124,3710,6194
 Botswana and Namibia. The MoU	5315
 Boulsa Namentenga Centre-Nord	15715
@@ -179,7 +179,9 @@ Broadband Speeds Namibia	1944
 Building Nam	10651
 Bundle Name MBs	718
 Business Name	11129,1213
-Business Names	15283,1318,2917
+Business Name Cancellation	19961
+Business Name Renewal	19961
+Business Names	15283,1318,2917,443
 Business Names CHAPTER	3714
 Business Names Registration Act	12906
 Business Names. Issuance of Value-Added Services Aggregator	15283
@@ -308,7 +310,7 @@ Communications Regulatory Authority of Namibia	1750,150,75,1,1,2,1,6,36,547,19,4
 Communications Regulatory Authority of Namibia FDI Foreign	12973
 Communique Wagon NEWSLETTER NamRA Backs Small	13044
 Communities Indicator Name Baseline Closing Period	17962
-Company Name	12389,311,2054,129
+Company Name	12389,311,2054,129,5078
 Company Name Change	12041
 Company Name IBC No. Financial Services	19049
 Company Name Reservation	14891
@@ -767,6 +769,7 @@ KALAOU Namthissoga ADJ	19251
 KARBOUNI Nambou SCH	19251
 KB. Named-analyst	2125
 Kalumbu and Nambo	13387
+Kenya and Namibia	19966
 Kenya's Huduma Namba	4981
 Kenya's Huduma Namba Programme URL	12139
 Kenya's Maisha Namba	2551,1428,8321
@@ -1250,6 +1253,7 @@ Namageyo-FunaAAketchMTabuCMacNeilABlolandP. Assessment	8376
 Namagondo	19592
 Namahoua Bamba Touré. L'ARTCI	1648
 Namahounondougou	3338
+Namakhoma	19974
 Namakuzu Shandavu and Rabecca Banda	1249
 Namakuzu Shandavu and Rabecca Banda. A Zambian	1249
 Namakwa	11343
@@ -1331,6 +1335,7 @@ Name Reservations and Company Registrations	11250
 Name ReviseHouseholds	19284
 Name Role Specialization ADM Responsible	19455
 Name Satisfactory Satisfactory Progress	12228,39,173
+Name Search	19961
 Name Signature	12364
 Name Signature Date Environmental Safeguards Officer	11863,2075
 Name Signature Date Time BOZ ZIPSS	12364
@@ -1451,7 +1456,7 @@ Namely	1596,3376,2261,3586
 Namentenga	10847,28,5151
 Namentenga Bittou	10875
 Namentenga Centre-Nord	15715
-Names	736,1257,1721,1297,119,323,947,32,705,691,776,2110,98,317,51,1162,636,59,942,944,100,543,1266,11,24,1242,331,511,94,641,148
+Names	736,1257,1721,1297,119,323,947,32,705,691,776,2110,98,317,51,1162,636,59,942,944,100,543,1266,11,24,1242,331,511,94,641,148,113
 Names ARTCI	6340
 Names DIVA	14566
 Names Impilo	3385
@@ -1486,7 +1491,7 @@ Namibe Uíge Zaire Professores	10766
 Namibe. O Conecta Angola	6585
 Namibe. SASSCAL. O Centro	11437
 Namibe.5	11417
-Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,10,113,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63,45,5,21,34,16,3,2,6,94,28,37,91,26,12,6,17,175,2,32,35,6,202,72,32,58,84,15,16,1,2,217,1,46,1,9,47,22,20,4,69,2,6,3,1,3,1,1,3,7,1,1,1,2,5,3,2,6,1,2,2,2,3,2,4,2,4,4,1,13,8,21,5,3,9,7,2,1,7,2,1,9,45,63,21,54,194,25,5,9,1,2,5,1,5,2,1,2,2,1,7,1,1,5,2,4,5,6,2,1,1,1,1,4,1,5,1,8,2,2,5,1,2,1,7,1,6,1,4,1,3,6,4,3,2,1,3,4,3,2,2,3,9,1,6,2,7,5,3,1,4,2,1,2,2,1,5,2,2,2,10,15,3,1,1,1,4,4,1,2,5,4,14,1,1,5,3,5,4,1,1,6,10,7,3,4,1,7,6,9,63,10,26,19,5,42,57,3,32,28,25,106,22,28,56,4,325,154,41,14,36,4,29,6,292,50,102,171,450,24,1418,53,309,492,2,23,16,12,74,622,406,12,455,225,43,20,15,9,145,1,13,2,20,1,30
+Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,10,113,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63,45,5,21,34,16,3,2,6,94,28,37,91,26,12,6,17,175,2,32,35,6,202,72,32,58,84,15,16,1,2,217,1,46,1,9,47,22,20,4,69,2,6,3,1,3,1,1,3,7,1,1,1,2,5,3,2,6,1,2,2,2,3,2,4,2,4,4,1,13,8,21,5,3,9,7,2,1,7,2,1,9,45,63,21,54,194,25,5,9,1,2,5,1,5,2,1,2,2,1,7,1,1,5,2,4,5,6,2,1,1,1,1,4,1,5,1,8,2,2,5,1,2,1,7,1,6,1,4,1,3,6,4,3,2,1,3,4,3,2,2,3,9,1,6,2,7,5,3,1,4,2,1,2,2,1,5,2,2,2,10,15,3,1,1,1,4,4,1,2,5,4,14,1,1,5,3,5,4,1,1,6,10,7,3,4,1,7,6,9,63,10,26,19,5,42,57,3,32,28,25,106,22,28,56,4,325,154,41,14,36,4,29,6,292,50,102,171,450,24,1418,53,309,492,2,23,16,12,74,622,406,12,455,225,43,20,15,9,145,1,13,2,20,1,30,50
 Namibia AFR UMI	17743
 Namibia AI Readiness Assessment Methodology	5036
 Namibia Access	1025
@@ -2018,6 +2023,7 @@ Namtumbo Water Supply and Sanitation Authority	19584
 Namuahidi	19590
 Namugga	5343
 Namugongo Martyrs Shrine	4954
+Namuhani N	19974
 Namuhi	19592
 Namukasa	8661,134
 Namukulo Mwauluka	13532
@@ -2206,6 +2212,7 @@ Parliament. Namalomba	7443
 Participants Name Their Own Challenges Day	13254
 Partner's Transferable Interest Business Names	18556
 Partnership Name	11276
+Partnership Name Renewal	19961
 Passenger Name Record	10360,363,562
 Passenger Name Record Data. Data	10723
 Patience Makwele Namibia	14347
@@ -2214,6 +2221,7 @@ Patrick Namazihana Vendredi	6620
 Payments Association of Namibia	8251,1,4840
 Period Name	1784,1,2,7,3
 Personal Name Records	19590
+Peru and Namibia	19940
 Phase II Project Name Information and Communications	11863
 Phía Việt Nam	8062
 Pillar CCA Name Current	14935
@@ -2325,7 +2333,8 @@ Region Operation ID Operation Name P508383	3456
 Register Your Business The Name Reservation	12280
 Registered Domain Names	6671
 Registered Name	4896,6380,1124
-Registration of Business Names Act	13305,5578
+Registered Partnership Name	19961
+Registration of Business Names Act	13305,5578,1068
 Regularization of Status of Certain Residents of Namibia	12337
 Removal of Names	18556
 Rep. Namibia Ghana Benin Kenya Togo	10819
@@ -2473,7 +2482,8 @@ Sub Saharan Africa. Namibia	12355
 Subcontractor Name	13185
 Subcontractor's Name	13185
 Submitting Entity Name	11276
-Subsidiary Business Names	16601
+Subsidiary Business Name	19961
+Subsidiary Business Names	16601,3360
 Substantial Operation Name Mozambique Digital Acceleration	4653
 Subvented Organisations Name of Organisation Performance	12976
 Successfulimplementation of Phase Three of Namibia	12325

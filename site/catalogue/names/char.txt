@@ -107,6 +107,7 @@ Background Characteristics255 Table	19715
 Baiyezenah W. Brown Prof. Charles Anum	17260
 Banjul Charter	14742
 Bank Charges	13479,1257
+Bank of Ghana Chart	19940
 Basic Characteristics	13454
 Basic Characteristics of Survey Respondents	15247
 Bay Forex Bureau and Standard Chartered Bank	6946
@@ -125,6 +126,7 @@ Body Korea and Africa Chart New Course	16784
 Brachet and Alain Charlet	19823
 Budget Call Circular COA Charts of Account	18577
 Buhera Bulalimamangwe Bulawayo Centenary Charter Chibi	12511
+Bulk Generation Charge	19976
 Burkina Faso Célestin BAMOGO Chargé	10708
 Bénédict Charles Hubert	15744
 C Chargés	17982
@@ -264,6 +266,7 @@ Cahier Spécial des Charges du DAO N	13524
 Cahier des Charges	16615,1479,1124
 Cahier des Charges Environnementales CES	14488,1,1
 Cahier des Charges de KPDC. Réunions	10975
+Capacity Charge	19976
 Carolyne Kubwa LSK President Charles	17659
 Catena-X Organization Chart.pdf	7313
 Cellule des Informations Sanitaires Charles YOPNDOI	15599
@@ -325,7 +328,7 @@ Chardel	15692
 Chareanporn	7759
 Charette	18312
 Charg	1280
-Charge	736,1,1177,861,386,235,727,3244,3509,355,1741,70,11,10,241,176,292,19,239,400,232,51,19,10,2,29,391,219,88,29,499,213,7,109,207,90,878,327,324,111,616,646,100
+Charge	736,1,1177,861,386,235,727,3244,3509,355,1741,70,11,10,241,176,292,19,239,400,232,51,19,10,2,29,391,219,88,29,499,213,7,109,207,90,878,327,324,111,616,646,100,349
 Charge Electronic Know Bank Monthly	18450
 Charge Intégrée des Maladies	14622,801,262,2197
 Charge Mark Remily	11342
@@ -606,7 +609,7 @@ Charriot	17882
 Charroi	13500
 Charrue	18312
 Charrues	15999
-Chart	899,5186,368,296,1014,3389,372,333,24,74,244,2,60,1699,308,547,17,639,7,1661,41,55,627,1176,61,551,212
+Chart	899,5186,368,296,1014,3389,372,333,24,74,244,2,60,1699,308,547,17,639,7,1661,41,55,627,1176,61,551,212,78
 Chart Index Chart	11955
 Chart of Accounts	16876
 Chart of Accounts Design	15090
@@ -724,6 +727,7 @@ Colonel Assimi GOITA Vu la Charte	17861
 Colonel-major Kaya Issa CISSE. Chargés	8237
 Colonel-major Oumar CISSE. Vu la Charte	17899
 Commentaires Charger	3526,841
+Commercial EV Charging Point Operators	19976
 Commission Vu la Charte	18032
 Commissioner General. Charging Entities	15600
 Commissions CHARGES SUR IMMOBILISATIONS FINANCIERES Frais	18032
@@ -834,6 +838,9 @@ Distel Charlem	15901
 Distinctive Characteristics Generative	14565
 Distribution Characteristics	17157
 Distribution Characteristics BWh	17157
+Distribution Service Charge	19976
+Distribution Service Charges	19976
+Distribution Wheeling Charge	19976
 Distribution of Forestry and Charcoal Holdings	17043
 Djamel Eddine Charif	15410
 Docteur Marguerite DEMBELE Chargée des Questions de Santé	17841
@@ -892,7 +899,7 @@ End-User and Subscriber Service Charter Fourth Amendment	10856
 End-User and Subscriber Service Charter Regulations	4732
 End-user and Subscriber Service Charter Regulations	8398,2861
 Energie Cabinet du Ministre Chargé	17895
-Energy Charge	12394,42
+Energy Charge	12394,42,7540
 Enseignants- Chargé	17899
 Enseignement Originel Chargé	17895
 Ensuring Justice and Equality The Charter	2958
@@ -918,7 +925,9 @@ Fasasi Charles Adeniye	5939
 Fashop Agritech E2R Solutions Charbon Déch	16693
 Faya CAU de Massenya Chari-Baguirmi	19201
 Fees Charge	13333
-Fees and Charges	587,7176,3258
+Fees and Charges	587,7176,3258,8914
+Fees and Charges Page	19935
+Fees and Charges Page For Ghanaians Abroad	19935
 Fees and Charges Regulations	9109
 Femme. Le Chargé	15885
 Figure5-5 Drought Characterization	17157
@@ -1027,6 +1036,7 @@ Innovations Lab and Standard Chartered Women	12376
 Institute of Chartered Accountant of Pakistan	1824
 Institute of Chartered Accountants of Ghana	17011
 Institute of Chartered Accountants of Sierra Leone	18576
+Institute of Chartered Auditors	19961
 Intelligence Ethics and International Organization Charters	2958
 Intention de Chargement	16488
 Interconnection Charges	16835
@@ -1175,6 +1185,8 @@ Minière de Charbon	18227
 Mme Annie Charmelle MOMBO	16175
 Mme Charlène SAFOU KOUMBA. Confirmé Contrôleur	16175
 Mme KOWET AYENOUET Charline. DIRECTION CENTRALE	16381
+Mobile Money Active Agents Chart	19940
+Mobile Money Total Transaction Values Chart	19940
 Mogga Charles Guya	7495
 Mohamed Amine Charar	1241
 Mohammed CHARFI. Imprimerie Officielle	15467
@@ -1295,6 +1307,7 @@ Pariksha Pe Charcha	18810
 Paris Charter	4583
 Parlement Cabinet du Ministre Chargé de Mission	17895
 Parlement Cabinet du Ministre Chargés	18087
+Party Transfer Agent-to-Agent Chart	19940
 Patherson Char-	16100
 Patients’ Rights Charter	17289
 Paul Charley	15744
@@ -1398,6 +1411,11 @@ SAMPLE KEY CHARACTERISTICS Nigeria Ghana Cote-d’Ivoire	10861
 SECRÉTAIRE D'ETAT CHARGÉ DES SPORTS Projet	4402
 SELECTED HEALTH CHARACTERISTICS	19715
 SERVICE NATIONAL CHARGE DE LA STATISTIQUE	17814
+SLT-EV Charging	19976
+SLT-EV Charging Energy Charge	19976
+SLT-HV Energy Charge	19976
+SLT-LV Energy Charge	19976
+SLT-MV Energy Charge	19976
 SOCIO-DEMOGRAPHIC CHARACTERISTICS OF RESPONDENTS	17127
 SOCIÉTÉ IVOIRIENNE D’ABATTAGE ET DE CHARCUTERIE	2342
 SPECIAL CHARACTERS	14670
@@ -1418,7 +1436,7 @@ Selon la Charte	13390
 Senate President Akpabio Charges Parliament	18261
 Senator Charles Tavengwa	13551
 Series A for Chari	4972
-Service Charge	11863,2075
+Service Charge	11863,2075,6038
 Service Charter	12936,5640
 Service Charters	13332
 Service Delivery Charter	16961
@@ -1445,12 +1463,13 @@ Special Edition. Progress Chart	18529
 Sr. Prof. Charles Adams	17260
 Standard Chart of Accounts. Systems	9939
 Standard Chartered	5910,3241,555
-Standard Chartered Bank	7567,3151,1431,103
+Standard Chartered Bank	7567,3151,1431,103,7688
 Standard Chartered Bank Tanzania Ltd	12252
 Standard Chartered Bank Uganda	10202,79,794
 Standard Chartered Egypt	10745
 Standard Chartered Foundation Launches Women	10745
 Standard Chartered Foundation and Village Capital	10745
+Standard Chartered Ghana	19940
 Standard Chartered Kenya and Gulf African Bank	5863
 Standard Chartered Tower	585,8281,5579
 Standard and Chartered	18448
@@ -1486,6 +1505,7 @@ Tables for Charts	16921
 Tariff Category Facility Charge	12394
 Tariff Energy Charge US	16978
 Tariffs Charge T1 TOU	12394
+Tech Standard Chartered Ghana’s Cohort	19940
 Technical Characteristics Monitoring Voltage Power Frequency	14867
 Technicien des Travaux de Chargés	17982
 Techniciens des Travaux de Planification Chargé	17899
@@ -1498,9 +1518,13 @@ Toilet Facility and Selected Background Characteristics	19715
 Tontama Charles Millogo	932,51,6787,505
 Tower Related Charges P-9 Accelerate Telecoms	11857
 Tracy Mpofu Chartered Accountant Zimbabwean	4896
+Transaction Volume Chart	19940
+Transactions Chart	19940
+Transmission Service Charge	19976
+Transmission Service Charges	19976
 Transmission Wheeling Charges	12399
 Treaty Amending and Re-enacting the Charter	14409
-Trend Characteristic	10837,1052,263,188
+Trend Characteristic	10837,1052,263,188,7598
 Trend Characteristic Scores	10835,3,130,902,16,466,1,135,7334
 Trn. Chargeable	3898
 Turkmenistan and Tajikistan. Chart	15471
@@ -1546,6 +1570,7 @@ W4J W4K CHARGE FINANCIERE NETTE	18032
 WATER ELECTRICITY CHARGES	14778
 Washington Charles Tembo	4365
 Web Chargés	17845
+Weighted Average Gas Commodity Charge	19976
 Wh Fixed Charge US	16978
 Within the Intervention Characteristics of CFIR	12246
 Women’s Charter	11193

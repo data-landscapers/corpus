@@ -375,7 +375,7 @@ Avail Supply Side	15130
 Availa	19585
 Availa Shortage Facility Villages	19585
 Availabiliry Period	15399
-Availability	21,745,5,169,18,1030,240,249,201,835,274,562,261,637,418,1128,755,753,822,1034,672,72,18,57,56,97,1,1,3,62,658,3,17,7,24,13,38,30,228,32,7,2,47,31,13,13,5,15,10,163,193,9,95,156,32,5,53,111,105,3,45,37,106,147,331,36,411,27,324,41,77,4,9,14,42,178,6,15,42,41,343,14,355,904,20,1,1,1,6,31,1,18,29,40,146,82,1110,21,97,9,1,52,146,8,221,605,4,6,1,1,11,12,32,91,159,34,44
+Availability	21,745,5,169,18,1030,240,249,201,835,274,562,261,637,418,1128,755,753,822,1034,672,72,18,57,56,97,1,1,3,62,658,3,17,7,24,13,38,30,228,32,7,2,47,31,13,13,5,15,10,163,193,9,95,156,32,5,53,111,105,3,45,37,106,147,331,36,411,27,324,41,77,4,9,14,42,178,6,15,42,41,343,14,355,904,20,1,1,1,6,31,1,18,29,40,146,82,1110,21,97,9,1,52,146,8,221,605,4,6,1,1,11,12,32,91,159,34,44,64
 Availability All	9123
 Availability Date	17257
 Availability Date Disbursement	17257
@@ -469,7 +469,7 @@ Availability of Tax Guidance	12389
 Availability of Tax Incentives	12389
 Availability of Technology Transfer Offices	12389
 Availabiliÿ	15399
-Available	396,503,59,170,26,110,290,141,401,616,236,508,148,47,159,866,210,329,31,1,188,265,673,172,34,246,113,8,813,4,203,21,39,350,84,456,207,5,488,336,774,39,10,5,4,35,10,52,136,116,83,15,22,43,143,44,374,52,7,37,53,56,28,83,58,15,9,42,41,26,3,2,7,3,20,5,9,87,4,38,136,416,1,217,2,17,130,704,411,83,7,7,50,29,67,70,8,131,136,327,23,4,32,109,242,408,127,436,3,9,18,20,27,29,33,146,52,30,87,232,149,163,14,78,9,138,77,31,76,25,152,70,76,252,39,24,306,8,275,12,15,28,1,263,21,69
+Available	396,503,59,170,26,110,290,141,401,616,236,508,148,47,159,866,210,329,31,1,188,265,673,172,34,246,113,8,813,4,203,21,39,350,84,456,207,5,488,336,774,39,10,5,4,35,10,52,136,116,83,15,22,43,143,44,374,52,7,37,53,56,28,83,58,15,9,42,41,26,3,2,7,3,20,5,9,87,4,38,136,416,1,217,2,17,130,704,411,83,7,7,50,29,67,70,8,131,136,327,23,4,32,109,242,408,127,436,3,9,18,20,27,29,33,146,52,30,87,232,149,163,14,78,9,138,77,31,76,25,152,70,76,252,39,24,306,8,275,12,15,28,1,263,21,69,15
 Available Available	19576
 Available Bandwidth Capacity	6946
 Available Beds IPD Genera	19544
@@ -916,6 +916,7 @@ Avec le PNDIS II	13306
 Avec le PSIPJ	16012
 Avec le Parlement	14549
 Avec le RGPH4	16722
+Avec le RSU	19979
 Avec le Rfu	6795
 Avec le SIGFIP	16071
 Avec le SNID	3581
@@ -993,6 +994,7 @@ Avenue Rot. Baudoum	15584
 Avenue Tariq Ibn Ziad Hassan	17490
 Avenue de France	19821
 Avenue de France N	13301
+Avenue de Tervueren	19950
 Avenue des Anchois	14847
 Avenue des Premiers Jeux Africains	15744
 Avenue des Trois Martyrs	15439
@@ -1003,7 +1005,7 @@ Avenue du Mali BP	17841
 Avenue du Mali Hamdallaye ACI	17993,68,28
 Avenues	1161,9680,119
 Averag	17043
-Average	418,164,240,118,30,858,39,73,835,1,634,386,102,630,336,108,273,431,324,100,238,75,258,161,114,25,456,121,267,451,170,90,20,61,236,773,366,263,473,45,1,1,10,5,13,36,15,12,5,9,70,14,9,1,12,28,127,3,58,3,222,132,4,19,14,280,8,7,1,20,51,11,1,6,35,186,60,1,9,35,47,2,21,22,10,14,88,11,143,181,95,38,84,294,114,108,299,839,108,4,17,60,84,17,59,74,19,15,83,125,52,23,24,9,31,39,3,21,30,13,4,92,132,168,131,487,227,82,26,45,32,84,11,1,1,9,23,63,54,78,136,196,44,119,8,7,1,31,53,28,119,14,170,16,45,5,85,16,18,92,113,71,33,30,6,2,62,44,2,52,170,129,236,14,7,92,27,52,3,30,81,13,92
+Average	418,164,240,118,30,858,39,73,835,1,634,386,102,630,336,108,273,431,324,100,238,75,258,161,114,25,456,121,267,451,170,90,20,61,236,773,366,263,473,45,1,1,10,5,13,36,15,12,5,9,70,14,9,1,12,28,127,3,58,3,222,132,4,19,14,280,8,7,1,20,51,11,1,6,35,186,60,1,9,35,47,2,21,22,10,14,88,11,143,181,95,38,84,294,114,108,299,839,108,4,17,60,84,17,59,74,19,15,83,125,52,23,24,9,31,39,3,21,30,13,4,92,132,168,131,487,227,82,26,45,32,84,11,1,1,9,23,63,54,78,136,196,44,119,8,7,1,31,53,28,119,14,170,16,45,5,85,16,18,92,113,71,33,30,6,2,62,44,2,52,170,129,236,14,7,92,27,52,3,30,81,13,92,9,26
 Average Annual Growth Rates	18464
 Average Annual Increase	16921
 Average Annual Inter-Censal Growth Rates	18464
@@ -1106,6 +1108,7 @@ Average Retail Market Prices of Selected Food	2775
 Average Rev Gr	15149
 Average Revenu	19440
 Average Revenue	14897
+Average Revenue Per Unit	19966
 Average Revenue Per User	3898,2102,11,89,9607,2737,1284
 Average Revenue Per User CDMA	6000
 Average Roaming-in	15136
@@ -1131,8 +1134,10 @@ Average Treatment	12978
 Average Treatment Effect	12978
 Average Turnaround Times	11250
 Average User Profile Average Monthly Service	9781
+Average Value Per Card	19940
 Average Value of Funded and Unfunded Trade Finance	10718
 Average Value of Total Bank Assets and Trade	10718
+Average Volume of Transactions	19940
 Average Wage Earnings	2775
 Average World Average Taxes	17011
 Average of AGB	17140
@@ -1170,6 +1175,7 @@ Avg GTEI	11867
 Avg GTMI	10785
 Avg Income	11857
 Avg PSDI	11867
+Avg. HH Size Registry Operations Data	19942
 Avg. Household Size Liberia	16921
 Avg. Mbps	19633
 Avgaz	15542
@@ -1287,6 +1293,7 @@ Avoidance of Double Taxation	14409
 Avoidance of Proprietary Lock-ins Contracts	6432
 Avoided	12261
 Avoiding	1988,7135,1927,1278,3014,1772,1355
+Avoiding Digital Gridlock	19964
 Avoiding Ineligible Expenditures	18500
 Avoiding Project Dependency	16963
 Avoiding the Shift	7337
@@ -1582,7 +1589,8 @@ DROITS DES PERSONNES VIVANT AVEC UN	17833
 DS-2 Breadth of Availability	15164
 DSWD. Available	11133
 Daily Average Population of Prisoners	2775
-Data Availability	940,321,6529,20,156,375,1008,2856,26,2435,1358,1756,2151
+Data Availability	940,321,6529,20,156,375,1008,2856,26,2435,1358,1756,2151,43
+Data Availability Ghana	19952
 Data Availability Malawi	12204
 Data Availability Score	4528,7984
 Data Availability Statement	766,5,448,42,2530,4645,2592,1227,2411
@@ -1618,6 +1626,7 @@ Directeur Général. Avec	2342
 Direction Générale des Impots Avant	15625,1
 Director of Civil Aviation	14714,1
 Directorate of Civil Aviation	6946
+Disabilities. Available	19948
 Disaster Not Not Available	19576
 Dispute Avoidance	16144
 Dispute Avoidance and Dispute Settlement	1243
@@ -2783,8 +2792,12 @@ Water Quality and Availability	1988
 Weibo User Consumption Trends Report. Available	8460
 Weighted Average	4896
 Weighted Average Cost of Capital	4896,14781
+Weighted Average Cost of Gas	19976
 Weighted Average Exchange Rate Survey	17235
 Weighted Average Exchange Rate Surveys	17235
+Weighted Average Gas Commodity Charge	19976
+Weighted Average Gas Service Cost	19976
+Weighted Average Gas Transmission Service	19976
 Weighted Average Sale Price for Residential Properties	2775
 Weighted Peer Average	4896
 Wh Ave	11953

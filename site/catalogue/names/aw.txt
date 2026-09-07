@@ -103,6 +103,7 @@ AWS FDE	10638
 AWS GM SSA	5837
 AWS Ground Station	10794
 AWS Investment	1206
+AWS KMS	19968
 AWS Kenya	7208
 AWS Lambda	10794
 AWS Local Zone	10798
@@ -149,6 +150,7 @@ AWS and Microsoft Azure	5925
 AWS and Microsoft. Third-party	11338
 AWS and Microsoft’s Azure	2277
 AWS and OpenAI	5967
+AWS and Vercel	19977
 AWS for GenAI	2984
 AWS-WAF-gated	12162
 AWS-certified	16131
@@ -240,7 +242,7 @@ Awan Moses	18662,51
 Awan Moses The Government of South Sudan	8069
 Awandjelo	16158,3183
 Awandjelo PREFECTURE COMMUNE NOMBRE DE CANTONS	19350
-Award	3861,1111,2396,464,1767,6,1526,3,1255,583,65,58,90,29,1460,406,3885,26
+Award	3861,1111,2396,464,1767,6,1526,3,1255,583,65,58,90,29,1460,406,3885,26,975
 Award Criteria	13185,1581,314
 Award Criterion	3787
 Award Decisions	12389
@@ -405,7 +407,10 @@ Awoodda Ra’iisul-wasaaraha	14859
 Awoodda Ra’iisul-wasaaraha Awoodaha Ra’iisul-wasaaraha	14859
 Awoodda Shacabka	14859
 Awoodda Sharci-dejinta	14859
-Awoonor-Williams K	766
+Awoonor-Williams JK	19974
+Awoonor-Williams JK. Ebola	19974
+Awoonor-Williams JK. Ghana's Community Health Officers	19974
+Awoonor-Williams K	766,19178,30
 Awoonor-Williams&author	766
 Awori	12084
 Awqaafta	15153
@@ -985,6 +990,7 @@ Show Up. Build. Walk Away	18039
 Shukuru Awadh Suleiman	3458
 Siinqee Bank and Awash Bank	7398
 Situation Awareness and Information Sharing CRM-SAIS.S1	10721
+Small and Medium-sized Enterprises Ghana Awards	19966
 Social Protection AWPB Annual Work Program	18301
 Sociales Mme Awa Zoure Directrice Générale	10812
 Soomaaliya Awoodaha	14859

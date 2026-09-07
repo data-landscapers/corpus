@@ -156,6 +156,7 @@ PAD Project Appraisal Document PCN Project	17114
 PAPs Project Affected Persons PCU Project	18504
 PBC Performance Based Condition PCE Private	15659
 PBF Performance-based Financing PCU Project Coordination	11560
+PBM Purpose Bound Money PCG Partial	19940
 PC AMHS	16552
 PC Cable	34
 PC Data and High Limitations	11916
@@ -244,7 +245,7 @@ PCI DSS	434,1916,4121,1310,3218,3662,173,2044,46,993,1747
 PCI DSS Certified	12285
 PCI Security Standards Council	14834
 PCI-CP	11955
-PCI-DSS	3395,394,1876,1273,345,3438,1234
+PCI-DSS	3395,394,1876,1273,345,3438,1234,8013
 PCI-DSS-v4 0 1.pdf	6471
 PCI. L’utilisation du Modèle	14622
 PCIDSS	16997

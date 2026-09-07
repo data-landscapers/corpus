@@ -600,6 +600,7 @@ Agencias Gubernamentales	15478
 Agencies	940,60,872,415,244,248,210,872,265,1118,200,349,484,155,107,247,10,35,107,543,67,921,200,335,70,1239,516,12,68,220,148,437,137,3,3,3,131,2,56,96,12,57,27,12,114,16,61,107,330,106,18,55,20,15,2,25,192,6,34,5,22,618,547,195,116,71,1,6,62,7,86,40,17,312,14,40,40,68,93,82,49,317,439,13,219,25,14,49,6,8,8,35,5,2,94,20,6,9,2,23,10,86,12,13,44,63,229,310,292,103,155,12,13,7,8,4,8,2,2,4,13,33,14,1,1,10,166,150,622,8,21,29,55,3,18,6,23,8,10,54,31,2,4,3,1,8,79
 Agencies ANDE	3549
 Agencies Annually NIA	15845
+Agencies Bilateral Meetings	19937
 Agencies C- Supply	7548
 Agencies Corporation TAWA Tanzania Wildlife Management	19584
 Agencies County Focal Civil Society Points	7548
@@ -652,7 +653,7 @@ Agencies of Government Interoperability	16924
 Agencies. In the MDAs	19519
 Agencies. SERVICOM	18205
 Agencies. The Digital Eswatini Project	12990
-Agency	16,566,115,202,101,131,646,211,319,138,104,160,18,44,733,100,180,342,81,321,139,324,224,55,290,95,10,218,78,214,47,29,170,11,113,241,37,27,294,16,148,69,371,103,6,109,458,175,3,26,506,127,174,79,62,340,20,162,52,7,167,100,160,122,20,86,4,159,154,5,18,32,93,187,22,67,198,104,8,53,60,74,172,19,96,22,54,99,30,144,60,153,38,14,21,5,5,49,13,9,27,15,13,10,67,114,6,5,7,3,11,12,16,6,16,7,32,35,42,164,304,39,233,185,19,8,268,172,8,100,22,121,24,208,101,11,175,2,226,49,47,211,81,109,219,230,20,13,6,12,1,42,20,28,10,120,52,78,25,355,86,148,21,34,205,45,8,119,28,128,26,3,2,17,93,83,104,122,1,16,7,20,85,43,22,164,39,257,4,39,1,54,122,31,84,11,19
+Agency	16,566,115,202,101,131,646,211,319,138,104,160,18,44,733,100,180,342,81,321,139,324,224,55,290,95,10,218,78,214,47,29,170,11,113,241,37,27,294,16,148,69,371,103,6,109,458,175,3,26,506,127,174,79,62,340,20,162,52,7,167,100,160,122,20,86,4,159,154,5,18,32,93,187,22,67,198,104,8,53,60,74,172,19,96,22,54,99,30,144,60,153,38,14,21,5,5,49,13,9,27,15,13,10,67,114,6,5,7,3,11,12,16,6,16,7,32,35,42,164,304,39,233,185,19,8,268,172,8,100,22,121,24,208,101,11,175,2,226,49,47,211,81,109,219,230,20,13,6,12,1,42,20,28,10,120,52,78,25,355,86,148,21,34,205,45,8,119,28,128,26,3,2,17,93,83,104,122,1,16,7,20,85,43,22,164,39,257,4,39,1,54,122,31,84,11,19,45
 Agency A BfLL ENTITLED	16851
 Agency Act No	2727
 Agency Additional Financing	19284
@@ -661,8 +662,10 @@ Agency Agencies	1000
 Agency At Paradigm Initiative	9120
 Agency B. Legal Framework	14897
 Agency BTI Beekeeping Training Institute Conservation	19584
-Agency Banking	11944
+Agency Banking	11944,7996
 Agency Banking Networks and Digitalization of MFI	19829
+Agency Banking Services	19940
+Agency Banking The Bank	19940
 Agency Bill	3746
 Agency CAIR Centre for Artificial Intelligence Research	1814
 Agency CMGs Community Microfinance Groups CMSA	7763
@@ -921,6 +924,7 @@ Canadian International Development Agency Workshop	12972
 Candidate Policy Implementation Agencies	16861
 Capacitation of Border Management Agencies	4390
 Cape Verde's Multisectoral Regulatory Agency	9051
+Card Issuance Agency Banking Mobile Money	19940
 Careers and Further Education Agency	19096
 Center for National Documents Records Agency	17016
 Center for National Documents and Records Agency	14647
@@ -1038,6 +1042,7 @@ Dar Rapid Transit Agency	19584,1
 Dar Rapid Transit Agency Agency	19585
 Dar Rapid Transit Agency Level	19584
 Data Inter-operability for Related Agencies	11129
+Data Privacy Framework for NIA-User Agency	19964
 Data Protection Agencies	1243
 Data Protection Agency	16,1145,226,317,405,1492,1643,426,3435,1660,10
 Data Protection Agency CUSTODIAN Ministry of Information	1161
@@ -1055,7 +1060,7 @@ Department and Agency	11854,5295,2370
 Department and Agency MoD Ministry of Defence MoECC	18512
 Departmental and Agency Information	16885
 Departments Agencies MoFPED Ministry of Finance	19633
-Departments and Agencies	789,169,1569,248,2253,907,497,76,636,225,379,120,253,246,54,19,192,348,1,235,514,224,98,11,94,1,155,290,78,1076,18,16,69,1,95,70,68,41,22,19,64,13,238,183,83,160,47,72,39,20,18,9,3,187,2,6,39,32,29,67,198,510,200,151,419,120,374,55,4,22,561,105,82,114,72,129,255,3,24,41,1,289,572,388,29,54,1,211,1,3,2,8,3,24,7,30,28,9,318,27,588,1,21,92,6,3,4,1,155,1,7
+Departments and Agencies	789,169,1569,248,2253,907,497,76,636,225,379,120,253,246,54,19,192,348,1,235,514,224,98,11,94,1,155,290,78,1076,18,16,69,1,95,70,68,41,22,19,64,13,238,183,83,160,47,72,39,20,18,9,3,187,2,6,39,32,29,67,198,510,200,151,419,120,374,55,4,22,561,105,82,114,72,129,255,3,24,41,1,289,572,388,29,54,1,211,1,3,2,8,3,24,7,30,28,9,318,27,588,1,21,92,6,3,4,1,155,1,7,127
 Departments and Agencies CIRCIA Cyber Incident Reporting	6936
 Departments and Agencies Citizens	12210
 Departments and Agencies Independent	7548
@@ -1076,6 +1081,7 @@ Departments and Agencies MM Materials Management MoFEDIP	13420
 Departments and Agencies MO Market Operator MTS	12062,6124,31
 Departments and Agencies MRA	13053
 Departments and Agencies MS Microsoft MTBF Mean	13185
+Departments and Agencies MSF Multi-Stakeholder Forum MSG	19937
 Departments and Agencies MoF Ministry of Finance	18488
 Departments and Agencies MoF Ministry of Finance MTDS	18500
 Departments and Agencies MoF Ministry of Finance MoGCA	18477
@@ -1300,6 +1306,7 @@ Executive Summary The Agence National	18309
 Executive Summary The Civil Service Agency	16985
 Exemption of Agency	12899
 Existing Systems Agencies	12157
+Expansion of Agency Banking	19940
 Export Promotion Agency	16926,290,1247
 Extra-Ministerial Departments and Agencies	7973,949,59,1175
 FAO Agence	15724
@@ -1378,6 +1385,7 @@ German Agency for International Cooperation	1264,1057,749,1032,1142,319,4266,131
 German Agency for International Development	10964
 German Development Agency	1814,1790,7237,2473
 Germanium IAEA International Atomic Energy Agency	19565
+Ghana Enterprise Agency's High Growth Programme	19966
 Ghana Enterprises Agency	11032
 Ghana Meteorological Agency	2714,5656,2214,5120
 Ghana News Agency	7491,1205,725,691,517,503,4515,169,530
@@ -1386,6 +1394,7 @@ Ghana News Agency By Michael Foli	16596
 Ghana News Agency By Samira Larbie	16591
 Ghana News Agency By Solomon Gumah	14285
 Ghana News Agency URL	15816,381,9,140
+Ghana News Agency. Ghana	19966
 Ghana. Agence France-Presse	8479
 GiZ German Agency for International Cooperation GRA	16631
 Global Internet Tax Agency	14932
@@ -1601,7 +1610,7 @@ International Development Cooperation Agency	11004,960
 International Development Partners and Agencies	17149
 International Energy Agency	6935,613,183,58,1846,1334,171,170,262,312,11,264,33,13,60,111,2297,901,1368,2923
 International Energy Agency IFMIS Integrated Financial	16942
-International Renewable Energy Agency	11140,432,642,47,2578,735,1368
+International Renewable Energy Agency	11140,432,642,47,2578,735,1368,3001
 International Renewable Energy Agency LDC	11572
 International Renewable Energy Agency Living Standards	11136
 Intrinsic Agency	17127
@@ -1865,6 +1874,7 @@ NEA National Environment Agency NGO Non-	16926
 NGARI GNALA. AGENCE NATIONALE DES INFRACTURES	16381
 NIGER AGENCE CONSEIL Décision	998
 NITA National Information Technology Agency Figure	582
+NITA National Information Technology Agency NRGI	19937
 NITA The National Information Technology Agency	11052
 NM021-17881 REPUBLIQUE DU NIGER AGENCE NATIONALE	18194
 NMHS. The National Agency for Civil Aviation	18309
@@ -2013,7 +2023,7 @@ National Identification Agency. Acknowledgements	12328
 National Identity Agency	12371
 National Information Systems Development Agency	6130
 National Information Systems Security Agency	3228
-National Information Technology Agency	587,202,1888,552,21,134,418,324,1809,121,221,70,59,966,1,1615,1397,200,237,39,993,13,4535,72,125
+National Information Technology Agency	587,202,1888,552,21,134,418,324,1809,121,221,70,59,966,1,1615,1397,200,237,39,993,13,4535,72,125,3348,17
 National Information Technology Agency NMCP National	15556
 National Information Technology Development Agency	2218,176,68,218,45,208,1,120,79,489,122,198,641,38,69,35,940,60,333,478,153,308,113,451,69,116,2,675,1,15,547,131,1,245,210,2,96,82,127,77,1,57,142,113,40,117,146,107,1,271,1,88,85,178,34,268,226,120,41,2,237,643,1,5,400,3532,758,154,31,54,401,58,254
 National Information Technology Development Agency Act	10157,1836
@@ -2244,6 +2254,7 @@ Regulatory Agency for Post and Electronic Communications	3805
 Regulatory Agency for Posts and Electronic Communications	2306,9541
 Regulatory Agency for Public Procurement	15518
 Regulatory Postal and Electronic Communications Agency	4577
+Remittance Digital Micro Loans Agency Banking	19940
 Renewable Energy Agency	14745
 Renewable Energy Agency Utility Regulatory Authority	14745
 Report Reviewing Agency	18787
@@ -2511,6 +2522,7 @@ Swiss Agency for Development Co-operation	3274
 Swiss Agency for Development Cooperation TVET Technical	18911
 Swiss Agency for Development and Cooperation	8456,529,1756,401,818,1546,1429,150,3251,473,102,544
 Swiss Development Agency	13314
+Swiss Development Agency. GEDAP	19943
 System Agency	15901
 Systems Agencies	12157
 Systèmes Agence Nationale	10812
@@ -2627,7 +2639,7 @@ United Nations Relief and Works Agency for Palestine	10841
 United Nations System Agencies United Nations	11332
 United Nations USAID United States Agency	14434
 United State Agency for International Development and United	17289
-United States Agency for International Development	396,370,453,42,563,8944,9,229,125,875,162,11,746,37,370,34,88,613,75,165,36,91,188,437,599,1175,43,59,8,6,11,10,1,1339,314,831,87,293
+United States Agency for International Development	396,370,453,42,563,8944,9,229,125,875,162,11,746,37,370,34,88,613,75,165,36,91,188,437,599,1175,43,59,8,6,11,10,1,1339,314,831,87,293,139
 United States Agency for International Development Angola	10780
 United States Agency for International Development UIT	17824
 United States Agency for International Development USAID	17011
@@ -2646,6 +2658,8 @@ Universités Agences	19221
 Urban Land and Property Registration and Information Agency	5655
 Urban Roads Agency	19585
 Urban Roads Agency TCWG Those Charged	19585
+User Agencies	19935
+User Agencies and Data Processing	19964
 V AGENCE NATIONALE D'AMENAGEMENT DES INFRASTRUCTURES	16623
 Verde Park Agency	11863
 Violence SIDA Swedish International Development Agency	16943
@@ -2665,6 +2679,7 @@ Weeks The Environmental Protection Agency	17255
 Weights and Measures Agency	19602
 Weights and Measures Agency Level	19584
 Weights and Measures Agency Regulations	19602
+West Africa. The Environmental Protection Agency	19943
 West African Monetary Agency	7,738,6707,9783
 West African Telecommunications Regulatory Agency	18485
 West African Telecommunications Regulatory Agency WoG	18485
@@ -2672,7 +2687,7 @@ Whilst Agency	13461
 Within ICT Agency	16885
 Within the ICT Agency	16885
 Within the ICT Agency Budget	16885
-Witness Protection Agency	14546
+Witness Protection Agency	14546,5391
 Workforce Development Agency	12329
 Works Implementing Agency CFAF Central African	15731
 Works NaMEA National Monitoring and Evaluation Agency	18477

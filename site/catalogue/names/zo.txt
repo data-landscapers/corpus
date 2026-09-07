@@ -257,6 +257,7 @@ Gilbert ZONGO	7670
 Glo-Djigbé Industrial Zone	10856
 Gogo Zoundwéogo Centre-Sud	15715
 Gomboussougou Zoundwéogo Centre-Sud	15715
+Gomoa Central Special Economic Zone	19981
 Goursi Zondoma Nord	15715
 Government Landing Zone	6432
 Grande Cantagalo Caué Mé Zochi Lembá	18775
@@ -385,7 +386,7 @@ MINISTERE DES ZONES ECONOMIQUES Article	15660,379
 MINISTERE DES ZONES ECONOMIQUES SPECIALES ET	15524,324
 MTN’s Zol Kebir	10657
 MW Abeokuta Technology Zone Data Centre	7960
-Machine Readable Zone	2430,12962
+Machine Readable Zone	2430,12962,4543
 Machine-Readable Zone	2357
 Machinga Zomba Blantyre Lilongwe Salima Mulanje	13080
 Madame Aurelie ADAM SOULE ZOUMAROU	15466,51,48,284,279
@@ -901,7 +902,7 @@ Zone. BirdLife International	16996
 Zone4s60u	10965
 Zoneamento	11898
 Zonebourse Feb	1143
-Zones	643,1039,943,1671,574,608,2391,434,2572,2450,65,1208,24,804,46,70,97,76,284,48,88,1701,1136,13,299,31
+Zones	643,1039,943,1671,574,608,2391,434,2572,2450,65,1208,24,804,46,70,97,76,284,48,88,1701,1136,13,299,31,659
 Zones Franches	5993
 Zones Franches de Djibouti	1287
 Zones Frontalières du Niger	998
@@ -967,7 +968,7 @@ Zorthuun	12478
 Zorzor	16853,68
 Zorzor and Buchanan	16848
 Zot. UCC	9781
-Zotero	12467,19
+Zotero	12467,19,7458
 Zou-Collines	7355,3466,46
 Zou-Couffo	17584
 Zou. L'activité	16094

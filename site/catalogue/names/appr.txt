@@ -306,7 +306,7 @@ Approuve	10876,3556
 Approuver	10876,3663,1030
 Approuvée	8891
 Approuvés	15395,391,253,138
-Approval	287,417,1,13,18,178,1,1,1,1,1,1,1,1,1,86,210,658,111,724,718,108,176,974,1744,12,95,40,253,1,95,18,258,139,264,270,111,313,1204,652,561,57,95,266,48,46,145,20,98,369,43,19,28,13,6,15,2,213,27,39,28,7,56,6,25,6,26,19,43,45,196,108,106,67,22,26,5,13,25,192,73,98,107,156,104,7,7,19,51,6,1,3,18,13,105,129,441,99,137,23,71,24,24,15,12,99,29,5,260,49,8,120,130,4,2,45,177,10,21,23,41,25,123,17,395,91,143,5,10,21,16,27,67,6,79,17,18,2,22,332,35,399,54,4,44,33,94,217,4,1,83,29,27,40,3,86,131,33,5,17,8,8,157,101,98,61,7,35,197,103,18,48,95,84
+Approval	287,417,1,13,18,178,1,1,1,1,1,1,1,1,1,86,210,658,111,724,718,108,176,974,1744,12,95,40,253,1,95,18,258,139,264,270,111,313,1204,652,561,57,95,266,48,46,145,20,98,369,43,19,28,13,6,15,2,213,27,39,28,7,56,6,25,6,26,19,43,45,196,108,106,67,22,26,5,13,25,192,73,98,107,156,104,7,7,19,51,6,1,3,18,13,105,129,441,99,137,23,71,24,24,15,12,99,29,5,260,49,8,120,130,4,2,45,177,10,21,23,41,25,123,17,395,91,143,5,10,21,16,27,67,6,79,17,18,2,22,332,35,399,54,4,44,33,94,217,4,1,83,29,27,40,3,86,131,33,5,17,8,8,157,101,98,61,7,35,197,103,18,48,95,84,111
 Approval Activity	16863
 Approval Actual	15424
 Approval Approval Package	6579,349,949,3518,1632,2708,278,987,96,374,35,501,344,4,1,437,25,425,7
@@ -433,6 +433,7 @@ Approved NWI	19749
 Approved National Data and Cloud Policy Implementation	11230
 Approved National Identification and Registration Bill	5533
 Approved Process	12930
+Approved Products and Services	19940
 Approved Programmes	2775
 Approved Proposed Component Name Cost	19284
 Approved Provider Requirement	6432
@@ -983,6 +984,7 @@ Last Approved Total Financing	19455
 Launch and Testing Approach	11957
 Letter of Approval	9393
 Level of Assurance Approve Periodic Audit	10819
+License Category Number of Approved Entities PSP	19940
 Licensing and Type Approval	6946
 Life Stages Approach	18532
 Lifecycle Governance Approach	16212
@@ -1260,6 +1262,7 @@ Proprietorship Public and Private Schools Schools Approval	18460
 Provisional Register of Voters Approach Madam Speaker	13538
 Provisional Type Approval	18609
 Président Approuve	14537
+Public Private Partnership Approval Committee	19934
 Public and Private Sectors. Data Appraisal	19613
 Purpose and Approach	4848,5309,3834
 Purpose and Approach Regulator Perspective	4848
@@ -1377,6 +1380,7 @@ Secure Cabinet Approval of Bill	18537
 Selection Approach Sources	8301
 Senegal Approval Date Current Closing Date	18359
 Sep-2025 Estimated Approval Date	14015
+Services Numbers Approved Inbound Remittance	19940
 Shareholder Approval Required Econet	4896
 Sierra Leone Approximately	18559
 Sierra Leone Maritime Administration Approves	18504

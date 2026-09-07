@@ -263,6 +263,7 @@ Cartão Nacional de IdentificaçãoDSP7 TEC5 Não EST-TEC16	15532
 Cartão Nacional de Identiicação	15572
 Cartões Nacionais de Identificação	6571
 Center and IDENTIC	16942
+Central Equipment Identity Register	19966
 Centralized Equipment Identity Register	3543
 Centres The National Identity Card	14741
 Centro de Produção de Bilhete de Identidade	10772,6561
@@ -313,6 +314,7 @@ Civil and Criminal Identification Archive	10765,10
 Civil and Criminal Identification Services	10775
 Civil and Criminal Identification Unit	10775
 Cloud Identity	1940
+Code for Digital Identity Data Use	19964
 Collateral Identification Number	13333
 Committee for Statistics Identify	16863
 Common Identifier Standards Service	11952
@@ -448,7 +450,7 @@ Digital Identification and Trust Services Mali	17870
 Digital Identification for Development	2253
 Digital Identifier	19642
 Digital Identities	15641
-Digital Identity	364,416,1,1,936,221,1452,203,147,869,197,1055,262,72,191,125,24,608,425,1031,1032,106,913,168,3,18,16,390,694,46,11,212,2,148,73,141,877,984,318,67,596,226,2219,19,567,321,194
+Digital Identity	364,416,1,1,936,221,1452,203,147,869,197,1055,262,72,191,125,24,608,425,1031,1032,106,913,168,3,18,16,390,694,46,11,212,2,148,73,141,877,984,318,67,596,226,2219,19,567,321,194,1005
 Digital Identity APPENDIX First Edition	10819
 Digital Identity AUTHORISATION REGULATED Brith Certificate	10819
 Digital Identity Alignment Alignment	10819
@@ -655,6 +657,7 @@ Evidence of Identity	12533,1
 Exchequer KNBS Exchequer KEBS Identify	7548
 Executive Director of Ethiopia's National Identity Program	6147
 Executive Regulations. The National Identification Number	15393
+Executive Summary Ghana's National Identification Authority	19964
 Expand Targeted HIV Testing and Identification	19544
 Extent of Identification	19541
 F Identifying	16884
@@ -691,6 +694,7 @@ Firms Identifying Transportation	12389
 Following the Identity Documents Act	8440
 Foreign Identity Cards	12291
 Foreigner Identification Management System	16088
+Foreigner Identification Management Systems	19935
 Foreigners Identification System	15430
 Foreigners Identity Management System	10822
 Forgery and Alteration of Document Identity Theft	17362
@@ -943,7 +947,7 @@ Identificadores	10755,1387
 Identificam-se	11569
 Identificar	167,1534,1115,1402,6529,7,23,6,593,10,1,17,26,19,3,90,27,329,3578,28,22,168,627,772,54,1616,15,3,7,13
 Identificateur	16616
-Identification	33,75,128,237,525,7,4,178,27,78,410,76,36,14,2,109,49,69,361,340,325,389,132,47,24,87,163,53,392,363,1005,35,94,57,462,4,149,143,256,775,183,6,91,25,56,380,443,509,68,163,1,30,49,339,98,83,195,115,165,2,7,43,11,37,2,5,2,33,13,8,1,15,29,18,37,2,179,23,12,4,38,11,21,4,298,290,12,6,2,23,9,1,16,29,5,12,4,10,20,35,2,103,68,13,26,46,34,4,22,5,41,95,7,336,69,14,51,103,15,111,100,34,35,6,4,5,8,5,96,14,10,43,111,4,151,2,1,84,72,252,176,6,14,41,3,5,1,1,47,12,25,48,25,89,114,38,77,32,27,57,163,109,10,30,1,20,1,2,14,13,3,27,19,25,24,5,36,1,55,107,97,1,41,51,7,127,33,14,31,1,40,6,100,27,6,201,2,15,6,89,24,37,4,38,3,94,19,7,5,28,34,21,51,5,34,10,28,16,15,35,8,506,116,40,9,1,7,1,4,25,16,2,2,39,53,5,30,92,13,78,81,6,6,1,1,2,31,13,115,18,6,61,367,22,5,68,86,59,57,13,4,3,10,10,2,1,1,1,2,3,6,27,64,16,155,8,14,113,61,34,12,73,3
+Identification	33,75,128,237,525,7,4,178,27,78,410,76,36,14,2,109,49,69,361,340,325,389,132,47,24,87,163,53,392,363,1005,35,94,57,462,4,149,143,256,775,183,6,91,25,56,380,443,509,68,163,1,30,49,339,98,83,195,115,165,2,7,43,11,37,2,5,2,33,13,8,1,15,29,18,37,2,179,23,12,4,38,11,21,4,298,290,12,6,2,23,9,1,16,29,5,12,4,10,20,35,2,103,68,13,26,46,34,4,22,5,41,95,7,336,69,14,51,103,15,111,100,34,35,6,4,5,8,5,96,14,10,43,111,4,151,2,1,84,72,252,176,6,14,41,3,5,1,1,47,12,25,48,25,89,114,38,77,32,27,57,163,109,10,30,1,20,1,2,14,13,3,27,19,25,24,5,36,1,55,107,97,1,41,51,7,127,33,14,31,1,40,6,100,27,6,201,2,15,6,89,24,37,4,38,3,94,19,7,5,28,34,21,51,5,34,10,28,16,15,35,8,506,116,40,9,1,7,1,4,25,16,2,2,39,53,5,30,92,13,78,81,6,6,1,1,2,31,13,115,18,6,61,367,22,5,68,86,59,57,13,4,3,10,10,2,1,1,1,2,3,6,27,64,16,155,8,14,113,61,34,12,73,3,100
 Identification Act	1939,3594,539,52,263,125,4664,37,69,291,413,61,7,273,10,30,580,12,25
 Identification Act.I	6196
 Identification Agency OLA Operational Level Agreement	12359
@@ -1003,7 +1007,7 @@ Identification Order	12893,260
 Identification PND	15639
 Identification Parcellaire Unique	18178
 Identification Participants	12364
-Identification Personnel	1780,386,1415,7231,768,4147,417
+Identification Personnel	1780,386,1415,7231,768,4147,417,3802
 Identification Personnel NRI Network Readiness Index	15583
 Identification Personnel. Lors	15727
 Identification Personnel. Pour	15727
@@ -1149,7 +1153,7 @@ Identifiez-vous	18375,1
 Identifizierung	9062
 Identifiée	15373
 Identifiés	15901
-Identify	899,101,9,122,73,39,137,397,163,48,1690,183,265,402,82,238,396,1,431,4,752,1116,998,192,740,1242,43,197,47,10,168,6,61,13,10,278,244,69,74,12,3,1,28,2,22,47,102,18,20,19,39,103,3,17,23,1,45,8,45,10,4,163,329,49,261,67,131,149,330,19,175,256,83,42,168,16,6,62,61,10,3,30,13,50,12,26,57,5,79,316,233,1,263,719,167,3,1,5,13,36,18,12,12,5,3,40,88,15,35,8,39,64,107,517,37,449,99,7,1,12,1,41,92,419,93,384,56,89,137,6,71
+Identify	899,101,9,122,73,39,137,397,163,48,1690,183,265,402,82,238,396,1,431,4,752,1116,998,192,740,1242,43,197,47,10,168,6,61,13,10,278,244,69,74,12,3,1,28,2,22,47,102,18,20,19,39,103,3,17,23,1,45,8,45,10,4,163,329,49,261,67,131,149,330,19,175,256,83,42,168,16,6,62,61,10,3,30,13,50,12,26,57,5,79,316,233,1,263,719,167,3,1,5,13,36,18,12,12,5,3,40,88,15,35,8,39,64,107,517,37,449,99,7,1,12,1,41,92,419,93,384,56,89,137,6,71,59
 Identify A Human Need And Reach	36
 Identify AI	14674
 Identify Areas	12389
@@ -1242,12 +1246,12 @@ Identity Data Protection Identity	11952
 Identity Day and Civil Registration Day	13007
 Identity Division	1525
 Identity Doc	12152
-Identity Document	8250,2509,9,67,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,85,386,4155,2538,1,169,14,22,1,65
+Identity Document	8250,2509,9,67,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,85,386,4155,2538,1,169,14,22,1,65,14,1
 Identity Document BUSINESS	10759
 Identity Document Business	10759,1395
 Identity Document Education Business	10835,3,130,902,16,466,1,135,7334
 Identity Document IDP Internally Displace Person	15415
-Identity Document Infrastructure	10837,1052,263,11,177,1,7312
+Identity Document Infrastructure	10837,1052,263,11,177,1,7312,285
 Identity Document Services	12404
 Identity Documents	3602,8725,10,30,147,171,262
 Identity Documents Eritrea	14091
@@ -1311,6 +1315,7 @@ Identity Verification	10193,2196,2813
 Identity Verification Platform	18471
 Identity Verification Services Platform	8027
 Identity Verification System	7700
+Identity Verification System Platform	19935
 Identity Verification System Platform. Businesses	7369
 Identity Verification and Consent	15202
 Identity Wallet	5028
@@ -1353,7 +1358,7 @@ Identité CRVS	12043
 Identité Carte	17485
 Identité Décret	13499
 Identité Dédupliquée	14480
-Identité Electronique	547,17277
+Identité Electronique	547,17277,2122
 Identité Foyers Registre des Foyers	14480
 Identité MalagasY	14488,1,1,12,62,14
 Identité MalagasY PGES POUR LA MISE	14488,1,1
@@ -1582,6 +1587,8 @@ NCRA Biometric Identity Management	18471
 NCRA's Biometrics Digital ID and National Identification	2872
 NIA Identity Verification Platform	7294
 NIA Identity Verification System	5559
+NIA and Identity Management Systems	19934
+NIA's Identity Verification Services	19964
 NIA's Identity Verification System	7700
 NIA's Identity Verification System Platform	7369,9169
 NIA's Identity Verification System. Mr Muntaka	7700
@@ -1602,6 +1609,7 @@ NIRA’s My Identity Expo and National Symposium	14380
 NIS Número de Identificação Social NISS Número	18779
 NIST’s Digital Identity Guidelines	2318,6,103,20,74,20,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,154,105,18,126,31,163,119,78,69,141,37,21,280,185,78,145,55,254,225,32,106,45,60,43,101,181,78,116,183,19,70,19,178,5,104,1,149,7,16,43,210,294
 NO. NAME OF AGENT IDENTITY DETAILS	14880
+NON-CITIZEN IDENTITY CARD	19935
 NOTARIADO E IDENTIFICAÇÃO	16487
 NOTARIADO E IDENTIFICAÇÃO Modernização	16487
 NOVO BILHETE DE IDENTIDADE	12784
@@ -1666,7 +1674,7 @@ National Identifi-	13681
 National Identification	2555,450,87,4671,3012,1538,15,55,712,1867,1990,31,393,1094,125,946,61,39,163
 National Identification Agency	1880,1163,200,172,22,598,32,874,1,457,140,57,360,590,5782,5,5,21,13,41,2553,1,89,57,96,727,3389
 National Identification Agency. Acknowledgements	12328
-National Identification Authority	84,1179,381,475,189,30,351,235,23,546,74,185,422,55,210,95,19,124,289,507,19,32,173,50,108,38,106,124,54,125,8,490,16,111,172,66,129,23,35,17,331,435,231,3,2,1470,574,4,41,131,231,260,59,953,2117,1219,92,125,176,265,220,38,59,133,1,36,25,1,948,1970,12,10,25,18,1,17
+National Identification Authority	84,1179,381,475,189,30,351,235,23,546,74,185,422,55,210,95,19,124,289,507,19,32,173,50,108,38,106,124,54,125,8,490,16,111,172,66,129,23,35,17,331,435,231,3,2,1470,574,4,41,131,231,260,59,953,2117,1219,92,125,176,265,220,38,59,133,1,36,25,1,948,1970,12,10,25,18,1,17,332,1,1
 National Identification Authority Act	1263,14167,92
 National Identification Authority Digital Address	1263,1045
 National Identification Authority Level	19584
@@ -1711,7 +1719,7 @@ National Identification Registry NSDI	5244
 National Identification Registry PART IT POWER	16841
 National Identification Registry ToR Terms of Reference	16860
 National Identification Registry. National	9652
-National Identification System	994,1280,5,2398,957,1,17,95,1622,394,2758,1439,26,195,416,15,27,2791,92
+National Identification System	994,1280,5,2398,957,1,17,95,1622,394,2758,1439,26,195,416,15,27,2791,92,4412,1
 National Identification System MPSS Medium Term	11986
 National Identification System SB	12639
 National Identification System. Outcome	15386
@@ -1748,7 +1756,7 @@ National Identity Card and Population	2658
 National Identity Card and Yusuf	12051
 National Identity Card of Mozambican	6474
 National Identity Card. The Electoral Domicile	15393
-National Identity Cards	1811,109,43,812,1921,1,553,384,840,124,1081,486,424,204,1623,1875,306,137,244,97,1985,1923,1612,1141,14
+National Identity Cards	1811,109,43,812,1921,1,553,384,840,124,1081,486,424,204,1623,1875,306,137,244,97,1985,1923,1612,1141,14,185
 National Identity Cards Act	12648
 National Identity Cards Issued Year	12533
 National Identity Cards. Despite Airtel Malawi	12978
@@ -1785,9 +1793,10 @@ National Identity Number. The Chairman	15393
 National Identity Numbers	2355,778,4428
 National Identity Program	9801,1085
 National Identity Program Figure	10840
-National Identity Register	1263,2305,1924,67,833,977,331,327,413,3654,554,2874,1016
-National Identity Register Act	1263,6106,3453,4608
+National Identity Register	1263,2305,1924,67,833,977,331,327,413,3654,554,2874,1016,3397,1,14,14,19
+National Identity Register Act	1263,6106,3453,4608,4505,29
 National Identity Register Regulations	1263,6031,23,710,7403
+National Identity Register Step	19936
 National Identity Register. Organisations	8027
 National Identity Registration Regulation L.I	17537
 National Identity System	2308,9677,4887,50
@@ -1879,7 +1888,7 @@ OPERATOR AND SIGNALLING IDENTIFIERS Resource Type	17250
 ORGANIZATIONAL IDENTITY	16968
 ORGANIZATIONAL IDENTITY OUR MANDATE	16968
 ORIGINAL IDENTITY CARD	14740
-Oath of Identity	5999,393
+Oath of Identity	5999,393,13543,1
 Objectives The Digital Identification System	12146
 Objectivos Estratégicos OE1. Identificar	11379
 Obrigatoriedade de Identificação	11373
@@ -1949,9 +1958,9 @@ Personal Identifiable Information	4610,6642,2094
 Personal Identifiable Information PPPFA	11252
 Personal Identification Cards	13388
 Personal Identification Document	10714
-Personal Identification Number	1754,19,3082,701,695,1393,3168,44,2088,1510,4248
+Personal Identification Number	1754,19,3082,701,695,1393,3168,44,2088,1510,4248,1232
 Personal Identification Number PKI	11955
-Personal Identification Numbers	12956
+Personal Identification Numbers	12956,6979
 Personal Identifier Number POS	17032
 Personal Identity Document	2683,8031
 Personal Identity Number	1816
@@ -2290,7 +2299,7 @@ Tanzania's National Identification Authority	3027
 Target Identified	19541
 Tax Credit Cheque TIN Tax Identification	14985
 Tax Identification	14897,3286
-Tax Identification Number	3161,574,203,17,647,254,2065,774,51,2318,701,10,1247,235,173,1176,756,606,117,1870,664,831,258,221,589,9,30,210,18
+Tax Identification Number	3161,574,203,17,647,254,2065,774,51,2318,701,10,1247,235,173,1176,756,606,117,1870,664,831,258,221,589,9,30,210,18,150,1
 Tax Identification Number TSA Treasury Single	19647
 Tax Identification Numbers	9570,3430,1484,664,3560,1088
 Tax Payer Identification Number	22,19496

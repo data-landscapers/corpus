@@ -87,7 +87,7 @@ ANNUAL REGULATORY FEE	15149
 ANNUAL REGULATORY FEES	17250
 ANNUAL REGULATORY FEES C1. General Rule	17250
 ANNUAL REGULATORY FEES EveryLicenseeunder	17250
-ANNUAL REPORT	718,436,400,9644,20,6,26,1670,31,20,82,979,706,22,137,2076,1695
+ANNUAL REPORT	718,436,400,9644,20,6,26,1670,31,20,82,979,706,22,137,2076,1695,1272
 ANNUAL REPORT A NOTE	1154
 ANNUAL REPORT ABOUT THE RESEARCH COUNCIL	1154,400
 ANNUAL REPORT ABRIDGED AUDITED FINANCIAL STATEMENTS	1154
@@ -261,7 +261,7 @@ Annuaires Décentralisation	3396
 Annuaires Statis-	18077
 Annuaires Statistiques	13325
 Annuaires Statistiques MEBAPLN	15743
-Annual	11,117,83,25,23,130,1,123,74,121,1,1,26,74,2,112,4,1,17,23,1,43,12,40,72,4,1,72,6,64,73,84,138,163,35,90,37,40,152,679,410,419,110,147,26,51,34,213,32,308,717,291,143,1,423,332,305,95,114,591,11,114,183,439,582,1291,193,409,9,12,1,31,17,6,2,1,18,14,42,27,25,4,8,29,126,2,1,50,14,26,4,8,22,122,21,16,47,61,35,12,190,93,2,3,3,3,4,4,7,1,4,1,2,16,47,1,23,10,159,9,92,93,1,1,5,6,1,5,2,25,14,14,14,17,44,12,8,22,1,4,11,2,14,47,52,80,96,52,1,7,2,10,13,10,6,39,8,20,48,2,68,164,21,3,20,1,7,8,2,22,36,24,48,87,40,18,306,59,421,39,33,11,73,9,19,62,61,10,8,3,5,2,1,15,7,5,4,47,8,3,20,7,1,17,17,13,12,13,2,23,25,12,9,25,3,22,2,44,18,9,9,26,41,135,32,39,80,24,3,35,51,15,2,38,2,64,18,336,65,408,153,131,7,15,5,24,35,5,20,2,21,1,25,10,5,7,61,17,20,23,1,17,36,57,7,3,15,10,4,27,105,10,10,64,388,69,28,114,116,73,8,4,4,9,52,67,1,7,18,2,3,20,44,9,15,101,17,5,9,135,28,36,92,52,11,56,15,48,12,66,6,274,7,4,14,27,14,17,24,2,1,14,14,5,1,49,31,79,13,1,11,12,15,57
+Annual	11,117,83,25,23,130,1,123,74,121,1,1,26,74,2,112,4,1,17,23,1,43,12,40,72,4,1,72,6,64,73,84,138,163,35,90,37,40,152,679,410,419,110,147,26,51,34,213,32,308,717,291,143,1,423,332,305,95,114,591,11,114,183,439,582,1291,193,409,9,12,1,31,17,6,2,1,18,14,42,27,25,4,8,29,126,2,1,50,14,26,4,8,22,122,21,16,47,61,35,12,190,93,2,3,3,3,4,4,7,1,4,1,2,16,47,1,23,10,159,9,92,93,1,1,5,6,1,5,2,25,14,14,14,17,44,12,8,22,1,4,11,2,14,47,52,80,96,52,1,7,2,10,13,10,6,39,8,20,48,2,68,164,21,3,20,1,7,8,2,22,36,24,48,87,40,18,306,59,421,39,33,11,73,9,19,62,61,10,8,3,5,2,1,15,7,5,4,47,8,3,20,7,1,17,17,13,12,13,2,23,25,12,9,25,3,22,2,44,18,9,9,26,41,135,32,39,80,24,3,35,51,15,2,38,2,64,18,336,65,408,153,131,7,15,5,24,35,5,20,2,21,1,25,10,5,7,61,17,20,23,1,17,36,57,7,3,15,10,4,27,105,10,10,64,388,69,28,114,116,73,8,4,4,9,52,67,1,7,18,2,3,20,44,9,15,101,17,5,9,135,28,36,92,52,11,56,15,48,12,66,6,274,7,4,14,27,14,17,24,2,1,14,14,5,1,49,31,79,13,1,11,12,15,57,20
 Annual A- Data Centre Compute Percentage	7548
 Annual ACIST Proceedings	1248
 Annual AI	4126,3422
@@ -329,7 +329,7 @@ Annual Calendar of Government. PART VIL NATIONAL	16841
 Annual Capacity Building Plans	17505
 Annual Cash Based Transfer and Commodity Voucher	14945
 Annual Censuses	13310
-Annual Change	16463,2360
+Annual Change	16463,2360,1117
 Annual Circulation Permit	18541
 Annual Citizen	15518
 Annual Citizens' Satisfaction Survey Reports	11866
@@ -424,6 +424,7 @@ Annual Forum	1554
 Annual GDP	6027,6368,2602
 Annual GHG	15017,888
 Annual Gathering	12053
+Annual Gathering To Strengthen Innovation	19941
 Annual General Audit Report	19585
 Annual General Conference	10390,1442
 Annual General Conference and Gala Dinner	13477
@@ -564,6 +565,7 @@ Annual PIU Government	15518
 Annual PIU Project	15518
 Annual PIU for Government	1284
 Annual Parliamentary National	7548
+Annual Partnership Renewal	19961
 Annual People	15553
 Annual Percentage Change Ministries	2775
 Annual Percentage Rate	13532
@@ -667,7 +669,7 @@ Annual Results Report	12257,1732,4136
 Annual Results Report URL	18125
 Annual Retreats	16943
 Annual Return Gross Filing	11250
-Annual Returns	11250,791
+Annual Returns	11250,791,7920
 Annual Returns Filings	11250
 Annual Revenue Requirements	10779,601
 Annual Review	5665,10547,2256,109
@@ -926,6 +928,7 @@ BPC Annual Report	19663,14
 BROADCASTING MARKET ANNUAL INFORMATION AND COMMUNICATION	12395
 BUDGET ANNUEL REVISE	3164,1,1,1,1,1,1,1,1
 Bank Group ASC Annual School Census	13310
+Bank of Ghana PAYMENT SYSTEMS OVERSIGHT ANNUAL	19940
 Bank of Tanzania’s National Payment Systems Annual	8888
 Bank of Uganda Integrated Annual Report	10299
 Bank of Zambia ZIPSS Rules Annual Audit	12364
@@ -1089,6 +1092,7 @@ Dec Annual Supply Sources	11953
 Democratic Republic of Congo. Rapport Annuel	15670
 Department AES Annual Economic Survey ASSL	18488
 Department Annual	7548
+Department Bank of Ghana ANNUAL REPORT	19940
 Department of Home Affairs Annual Report	11977
 Department's Annual Performance Plan	6512
 Deputy Prime Minister’s Office Annual Performance	12977
@@ -1129,6 +1133,7 @@ ESG-compliant Annual Monitoring	14787
 EVOLUTION ANNUELLE DES COÛTS GLOBAUX	17843
 EVOLUTIONS ANNUELLE En	16708
 EXECUTIVE SUMMARY ANNUAL INFORMATION AND COMMUNICATION	12395
+EXECUTIVE SUMMARY PAYMENT SYSTEMS OVERSIGHT ANNUAL	19940
 EXECUTIVE SUMMARY The Annual Financial Inclusion	7763
 EXECUTIVE SUMMARY The Annual Health Sector	16971
 Economic Planning and Development Annual Report and Audited	14744
@@ -1202,6 +1207,7 @@ Female Frequency Annual Project	15661
 Female. Frequency Annual Data	15661
 Figure5-6 Annual PDSI	17157
 File Annual Returns	12389
+Filing of Annual Returns	19961
 Filling Annual	12483
 Financial Analysis Annual Planned Budget	14058
 Financial Stability Annual Integrated Report	11134
@@ -1211,6 +1217,7 @@ Financière Publique. Rapport Annuel	2342
 Firm Performance Annual	11882
 Five Year Annual Comparison	11250
 Fixed Annual	13331
+Float PAYMENT SYSTEMS OVERSIGHT ANNUAL REPORT	19940
 Focus du Rapport Annuel	8891
 Foreign Affairs Annual	7548
 Foreword UNDP Mauritius Annual Report	11332
@@ -1240,6 +1247,7 @@ GSE. Annual	13349
 Gamal Abd-elmawla Salem Egypt Annual Expert	16520
 Geita Annual Financial Inclusion Report	7763
 Generation Source Annual Electrical Energy Contribution	16978
+Ghana. PAYMENT SYSTEMS OVERSIGHT ANNUAL REPORT	19940
 Giga Annual Results	953
 Gilberte SEGNONNAN AFFO SNIGS-MS SOMMAIRE Annuaire	15475
 Global Banking Annual Review	14997
@@ -1537,6 +1545,7 @@ Output Indicators Annual Target Q1 Q2	11986
 Outputs Name Annual Budget	13080,15
 PAIA Annual Report Compliance	14357
 PAIEMENT DE LA REDEVANCE ANNUELLE POUR	17899
+PAYMENT SYSTEMS OVERSIGHT ANNUAL REPORT	19940
 PENALTIES Delayed Annual	14891
 PIB Annuel	19043
 PIM. Frequency Annual Data	3604
@@ -1562,7 +1571,7 @@ Partenaires Annuel SNEEG	18286
 Participation Financière Publique Rapport Annuel	2342
 Parties Self-Assessment Annual Reporting SPAR Systematic	11417
 Partners Reached Through Annual Report Facebook	17289
-Payment Systems Oversight Annual Report	1384,2881,2897
+Payment Systems Oversight Annual Report	1384,2881,2897,12778
 Payroll Discussion Annual	18577
 Per Annum RAROC Risk-Adjusted Return	1818
 Per Workload Deaths Annum Day National	19541
@@ -1822,6 +1831,7 @@ Union AUC AU Commission AWPB Annual	1264
 United Republic of Tanzania Annual Agricultural	19554
 Universal Access Annual Work	16850
 Utility Annually	15845
+V PAYMENT SYSTEMS OVERSIGHT ANNUAL REPORT	19940
 V Rapport Annuel	15670
 V de Kinsuka Rapport Annuel	15670
 VHF D RAPPORT ANNUEL	998
@@ -1830,6 +1840,7 @@ VIII ANNUAL REPORT	11224
 VOLUME HORAIRE ANNUEL	18099
 Validé RAPPORT ANNUEL	998
 Vehículo Domes. Repres. Respons. Soberanía Annual	4209
+Volume PAYMENT SYSTEMS OVERSIGHT ANNUAL REPORT	19940
 WAPP. RAPPORT ANNUEL	18322
 WATRA Annual General Meeting	5676,1
 WATRA Annual Plan and Programme of Activities	5677
@@ -1838,6 +1849,7 @@ WB Fiscal Year Annual Cumulative	15553
 WFP Kenya Annual Country Report	7548
 WOfS Annual Summary	10794
 Waste Management Ministry of Local Annual	17260
+Web Portal PAYMENT SYSTEMS OVERSIGHT ANNUAL	19940
 Work Trend Index Annual Report	16266
 World Bank Annual Project's MIS	11855
 World Bank Group Annual Meetings	14774

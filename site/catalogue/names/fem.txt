@@ -209,7 +209,7 @@ FGM Female Genital Mutilation GDP Gross	19531
 FemCode Africa	16942
 FemDataSummit	8713
 FemTech	2239
-Female	582,207,151,18,196,713,226,404,215,892,187,71,130,661,35,34,1857,254,95,19,505,311,106,8,9,244,716,935,855,132,12,32,17,41,70,24,12,28,79,97,12,203,130,28,7,295,19,7,1,20,3,13,6,40,1,6,17,6,12,145,24,24,21,8,18,5,16,61,8,10,33,4,17,9,2,2,18,9,20,33,162,322,355,14,12,34,69,137,322,88,658,79,33,37,17,4,15,71,58,27,16,8,25,29,45,6,108,167,13,36,93,48,3,13,41,3,2,62,120,124,44,19,47,65,43,73,6,170,178,24,214,24,20,6,19,1,13,15,1,20,23,2,4,79,17,3,17,11,22,86,13,4,33,593,26,54,4,171,160,57,5,4,78,4,2,91,220,55,8,172,110,143,3,4,35,258,15,145,13,163,9,43,1
+Female	582,207,151,18,196,713,226,404,215,892,187,71,130,661,35,34,1857,254,95,19,505,311,106,8,9,244,716,935,855,132,12,32,17,41,70,24,12,28,79,97,12,203,130,28,7,295,19,7,1,20,3,13,6,40,1,6,17,6,12,145,24,24,21,8,18,5,16,61,8,10,33,4,17,9,2,2,18,9,20,33,162,322,355,14,12,34,69,137,322,88,658,79,33,37,17,4,15,71,58,27,16,8,25,29,45,6,108,167,13,36,93,48,3,13,41,3,2,62,120,124,44,19,47,65,43,73,6,170,178,24,214,24,20,6,19,1,13,15,1,20,23,2,4,79,17,3,17,11,22,86,13,4,33,593,26,54,4,171,160,57,5,4,78,4,2,91,220,55,8,172,110,143,3,4,35,258,15,145,13,163,9,43,1,43
 Female Across	12409
 Female Address	17099,15
 Female Agripreneurs	5923,191,295,107,247,33,469
@@ -229,6 +229,7 @@ Female Both Sexes	19542
 Female Both Sexes Male Female	19542
 Female Both Sexes N	12151
 Female Business Only Personal Only	582
+Female CHO	19974
 Female CLAS	17000
 Female Candidates	19857
 Female Death	12413
@@ -256,6 +257,8 @@ Female Genital Schistosomiasis	13166
 Female Ghana Police	15845
 Female HH	10763
 Female Head	17127
+Female Health	19974
+Female Health Staff	19974
 Female Infant	13040
 Female Internet	15617,2260,1,2053
 Female Irrigation	15473
@@ -786,7 +789,7 @@ Proportion Femmes	2624,10676
 Proportion of Female	19639
 Prévalence du VIH POUVOIR D’ACTION DES FEMMES	13300
 PubMed Google Scholar Femke de RijkView	9739
-Public Perception of Female Leadership	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Public Perception of Female Leadership	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Public Perception of Female Leadership FOUNDATIONS	12154
 Public Perception of Female Leadership Participation	11889,274,178,7312
 Pujehun District List of Female MPs	5390,965,827
@@ -928,7 +931,7 @@ VÉCU AVEC UNE FEMME JAMAIS	13300
 VÉCU AVEC UNE FEMME Ubu	13300
 West Africa Feminist Data Summit	8318,395
 Women Public Perception of Female Leadership	10759
-Women Public Perception of Female Leadership Participation	10837,1315,188
+Women Public Perception of Female Leadership Participation	10837,1315,188,7598
 Women's Femme	10985
 Working Marriage Other Female Primary	15604
 YAGHA Femmes	10847

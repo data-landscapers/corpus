@@ -85,6 +85,7 @@ Broad Money Supply LPSIP LRA L	17235
 Broad Money Supply and Sources	17235
 Building Supply Group	11131,3
 Bukoba Water Supply and Sanitation Authority	19584
+Bulk Supply	19976
 Bulk Supply Point	16596
 C- Supplier	7548
 C1- Supplier	7548
@@ -567,6 +568,7 @@ SPECIAL SUPPLEMENT To The Special Gazette	19530
 STAFF SUPPLEMENT	17257
 STATUTORY INSTRUMENT Supplement	18452
 STATUTORY INSTRUMENTS SUPPLEMENT	1844
+SUPPL.2	19944
 SUPPLEMENT No	14484,4114,1115
 SUPPLEMENT TO OFFICIAL GAZETTE ACT	19096
 SUPPLEMENTAIRE	17861
@@ -645,7 +647,7 @@ Stock Analysis and Supply Chain Audits	14985
 Strengthen Supply Chain Security and ICT Verification	6936
 Strengthening the National Health Supply Chain	10829
 Sumbawanga Water Supply and Sanitation Authority	19584
-Suppl	396,370,5,3020,6989,85,16,715,592,3433,3853,180
+Suppl	396,370,5,3020,6989,85,16,715,592,3433,3853,180,320
 Suppl 1	4781
 Suppl1 Incertitude	19474
 Suppl2 Incertitude	19474
@@ -966,9 +968,10 @@ Uninterruptible Power Supply	5793,1696,5274,4468,103
 Uninterruptible Power Supply VOIP Voice Over	12973
 United States Dollars USSD Unstructured Supplementary	16876
 Unstructured Supplementary Service	3862,11035
-Unstructured Supplementary Service Data	1257,4891,3791,836,190,165,3,503,308,503,1573,1125,138,197,1454,278,658,162,453,752
+Unstructured Supplementary Service Data	1257,4891,3791,836,190,165,3,503,308,503,1573,1125,138,197,1454,278,658,162,453,752,703
 Unstructured Supplementary Service Data South African	11130
 Unstructured Supplementary Service Data VASP	18485
+Unstructured Supplementary Service Data VASP Virtual	19940
 Unstructured Supplementary Service Data WFP	14948
 Unstructured Supplementary Service Delivery	19728
 Users and Suppliers of Statistics	14857

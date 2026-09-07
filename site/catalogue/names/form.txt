@@ -69,7 +69,7 @@ Agência Guineense De Emprego E Formação	17308
 Ale Format	3972
 Alertas Formação	12021
 Annuel Format	19409
-Application Form	1638,4794,8432,2091,1640
+Application Form	1638,4794,8432,2091,1640,1340
 Application Form Web Services IATA CXML	12454
 Application Form for Approval of Binding Corporate Rules	12302
 Application Forms	1638
@@ -249,6 +249,7 @@ Cerimónia de Encerramento da Formação	18804,3
 Certificados de Título de Terra Formato	11898
 Certification des Formateurs	13390
 Chad Forms Committee	6002
+Challenge Form	19935
 Change of Address Forms	11129
 Checklist Format	15080
 Chengeto Moyo. FORM OF ELECTION	4896
@@ -257,7 +258,7 @@ Chiefdom Consent Form	18538
 Choose the Format	12675
 Ciclo de Formación	16920
 Ciclo de Formación Ofrecido	16920
-Citation Formats ACM ACS APA	12467
+Citation Formats ACM ACS APA	12467,7477
 Citizens’ Data Update Form	15811
 Civil Council Against All Forms of Discrimination	8811
 Class and Region Region Form	12977
@@ -266,6 +267,7 @@ Commencement of Formal Reorganization Proceedings	12389
 Common Biometric Exchange File Format	12360
 Communication CEFORE Business Formalities Center CENI	10812
 Communications Services Form SR1A	18452
+Complete Form	19947
 Completed Application Form	9198,1209
 Completed Form	12542
 Completed Form C	12542
@@ -620,6 +622,7 @@ FS Formation	19350
 Family Formation Choices	17127
 Fase de Avaliação Global da Reforma Educativa Formação	10766
 Feedback Form	7590
+File Form	19961
 File Format	3972,11260,3848
 Filling of Form EC10	19805
 FinSurv Division’s Form G	11134
@@ -1194,7 +1197,7 @@ Forms of Knowledge	18461
 Forms of Proxy	4896
 Forms of Racial Discrimination CESCR	14742
 Forms. Second Schedule	13398
-Formula	2685,2,359,86,176,15,119,65,590,447,96,374,93,240,6558,81,387,2631,2153,1331,796
+Formula	2685,2,359,86,176,15,119,65,590,447,96,374,93,240,6558,81,387,2631,2153,1331,796,692
 Formula Annual	17250
 Formula Baseline	19284
 Formula NSHI	19284

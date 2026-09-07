@@ -1,10 +1,11 @@
 African Health Initiative. BMC Health Serv	766,10014,101
-BMC Health Serv Res	3791,4585,2505,715,783
+BMC Health Serv Res	3791,4585,2505,715,783,7595
 BMC Health Serv. Res	11585
 D.G. CONTROL SERV. SERV	4209
 Ethiopia. BMC Health Serv Res	3791,8455,9
 Front. Health Serv	8376
-Ghana. BMC Health Serv Res	1261,2530
+Ghana. BMC Health Serv Res	1261,2530,16183
+Health Serv Res	19974
 Health Serv Res. Aug	19889
 INEGE Serv	16898
 INSPECC. GEN. SERV ADJ. R. CONT.-	4209
@@ -19,5 +20,7 @@ PROF. SERV	13093
 Public Serv	17105
 SERV ICE DES INFRAS TRU C1'TJ	15399
 Serv Res	8376
+South Africa. BMC Health Serv Res	19974
 Tanzania. BMC Health Serv Res	1261,2530
 Works and Infrastructure Ministry of Public Serv	17105
+Zambia. BMC Health Serv Res	19974

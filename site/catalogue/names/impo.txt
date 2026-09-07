@@ -97,6 +97,7 @@ DES PRATIQUES DE PRIX IMPOSES	17828
 DIRECTION GENERALE DES IMPOTS	14436
 DIRECTION GENERALE DES IMPOTS BURKINA FASO	10858
 DIREÇÃO-GERAL DAS CONTRIBUIÇÕES E IMPOSTOS DIREÇÃO-GERAL	11532
+DISCo the Import Tariff	19976
 DLP. Importance	899
 DSS of EUC and Import EUC	11857
 DU MALI ET LA BANQUE IMPORT-EXPORT	17834
@@ -291,7 +292,7 @@ Impoh-Manianga	15379
 Imponderáveis	11569
 Impondo-se	12770
 Impor	11374,4103,3301
-Import	236,1592,947,1645,303,524,408,635,133,1474,2260,699,275,3,359,31,350,7,1,336,38,102,18,24,96,546,11,132,683,256,402,7,185,42,225,12,377,104,734,419,270,34,203,19,78,132,1065,170,930,70,221
+Import	236,1592,947,1645,303,524,408,635,133,1474,2260,699,275,3,359,31,350,7,1,336,38,102,18,24,96,546,11,132,683,256,402,7,185,42,225,12,377,104,734,419,270,34,203,19,78,132,1065,170,930,70,221,153
 Import Bank	4401,5529
 Import Bank of China	5337
 Import Category	14985
@@ -327,6 +328,7 @@ Import Requirements	12389
 Import Shared	12358
 Import Solaire Hydro Gaz HFO	16037
 Import Solution	5247
+Import Tariff	19976
 Import Tariffs	1828
 Import Taxes	13185
 Import Tracking System	5505
@@ -379,7 +381,7 @@ Importance of Strengthening Systems of Care and Support	10776
 Importance of Undersea Cables	2677
 Importance of WUF13 WUF13	11285
 Importancia da Internet	8487
-Important	789,151,1564,1,354,1059,1,1,2512,1212,792,461,814,1108,10,12,18,89,185,132,479,172,23,16,47,39,158,139,65,38,4,653,143,73,35,9,192,1385,62,164,250,203,8,663,46,81,307,157,8,79,117,34,629,127,88,347,153,329
+Important	789,151,1564,1,354,1059,1,1,2512,1212,792,461,814,1108,10,12,18,89,185,132,479,172,23,16,47,39,158,139,65,38,4,653,143,73,35,9,192,1385,62,164,250,203,8,663,46,81,307,157,8,79,117,34,629,127,88,347,153,329,1179,4
 Important Alert	19919
 Important Banks	17236
 Important Conditionality Executive Notaries Public	4896
@@ -712,6 +714,7 @@ Sustainable Fodder Import Policy MoET	17157
 System Wide Important Payment System	19664
 Systematically Important Payment Systems	17235
 Systemically Important Financial Market Infrastructures	4103
+Systemically Important Payment System	19940
 Systemically Important Payment System STP	19664
 Systemically Important Payment Systems	12286,251,4698,2429
 T85 IMPOT SUR LE BENEFICE	17833

@@ -297,10 +297,11 @@ Enforced Disappearance	11765,2977,3208,962
 Enforced Disappearance. Amendment	14751
 Enforced Disappearance. UNHCR	18912
 Enforced Disappearances	17934
-Enforcement	3,8,707,44,481,90,18,1105,549,221,452,35,1,453,50,366,399,102,301,78,202,390,831,50,10,422,83,903,82,93,157,6,289,582,292,85,217,156,103,558,32,143,49,87,572,23,76,20,124,93,79,29,1,46,108,195,15,237,3,23,76,48,258,159,4,79,71,324,37,169,440,79,54,11,8,72,43,4,26,56,50,61,482,123,1172,4,14,31,18,22,19,8,17,4,271,6,2,6,3,849,339,108,369,183,450,84,16
+Enforcement	3,8,707,44,481,90,18,1105,549,221,452,35,1,453,50,366,399,102,301,78,202,390,831,50,10,422,83,903,82,93,157,6,289,582,292,85,217,156,103,558,32,143,49,87,572,23,76,20,124,93,79,29,1,46,108,195,15,237,3,23,76,48,258,159,4,79,71,324,37,169,440,79,54,11,8,72,43,4,26,56,50,61,482,123,1172,4,14,31,18,22,19,8,17,4,271,6,2,6,3,849,339,108,369,183,450,84,16,293
 Enforcement Action	6792,8075,2382
 Enforcement Action If the Regulatory Authority	14867
-Enforcement Actions	5665
+Enforcement Actions	5665,14275
+Enforcement Actions Despite	19940
 Enforcement Actions for Non-compliance	5665
 Enforcement Activity Recoverable Amount Investigation	17249
 Enforcement Authority	14809
@@ -363,7 +364,7 @@ Enforcement and Sanctions	19895
 Enforcement of Competition Regulations	12389
 Enforcement of Data Integrity and Protection	15120
 Enforcement of Digital	12214
-Enforcement of Environmental Policies	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Enforcement of Environmental Policies	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Enforcement of Financial	15023
 Enforcement of ICT Standards	12917
 Enforcement of IP and Related Laws	16839
@@ -469,7 +470,7 @@ LES ENFANTS Prévalence	13300
 LES ENFANTS Recherche	13300
 LISTER CHAQUE ENFANT	13300
 LMP Enforce	17114
-Law Enforcement	1877,2848,2385,3649,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,2159,2304,1952,749,1,169,14,22,1,65
+Law Enforcement	1877,2848,2385,3649,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,2159,2304,1952,749,1,169,14,22,1,65,14,1
 Law Enforcement Affairs	13754,3576
 Law Enforcement Agencies	11131,3,143
 Law Enforcement Department.Verification	16843
@@ -480,7 +481,7 @@ Law Enforcement Verification Tools	17142
 Law Enforcement and Shiprider Agreement	18915
 Law Enforcement and Shiprider Agreement Between the UNITED	18913,1
 Law Enforcement and Shiprider Agreement Between the United	18913
-Law Law Enforcement Property Rights Public	10759,78,1315,188
+Law Law Enforcement Property Rights Public	10759,78,1315,188,7598
 Law enforcement	18486
 Law enforcement agency	18486
 Legal Enforcement Strengthen	17011

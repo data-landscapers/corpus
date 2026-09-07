@@ -267,6 +267,7 @@ Anti-Cyber and Information Technology Crimes Law	16212
 Appendix A Technology Specifications	11552
 Appendix C Technical Specifications	15154
 Application and Technology Architecture BU Business Unit	12359
+Application of Emerging Technologies	19951
 Application of Machine Learning and Deep Learning Techniques	11265
 Applied Sciences and Technology SDDR	18309
 Applied Technical Education System	15604
@@ -1194,6 +1195,7 @@ Data Maintenance Governance Gaps Technology Evolution	12457
 Data Protection Emerging Technology Oversight	12214
 Data Protection Technical	7548
 Data Science and Networking Technology. The University	16975
+Data Security and Technical Controls Evaluate	19968
 Data Sharing Technical Subcommittee	3815
 Data Sharing Technology Platform	3815
 Data Subscriptions Technology Q3	6000
@@ -1292,6 +1294,7 @@ Description Technique	15901
 Description Technique du Projet	15901
 Description The Konza Technopolis	1733
 Design and Technology	12975
+Designated Technical Staff	19948
 Desktops for Technical Staff	2779
 Detailed Evaluation of Technical Part	15080
 Develop Emerging Technology Regulations Framework	12384
@@ -1343,10 +1346,11 @@ Digital Technologies Park	808
 Digital Technologies Solly Malatsi	5969
 Digital Technologies and Educational Inequality	10831
 Digital Technologies and Financial Management APCICT	11017
+Digital Technologies and Innovation	19958
 Digital Technologies and Services	12948
 Digital Technologies for Gender	12926
 Digital TechnologiesX	11254
-Digital Technology	1363,1335,1428,1237,161,408,4899,1026,1604,1205,84,2340,2799
+Digital Technology	1363,1335,1428,1237,161,408,4899,1026,1604,1205,84,2340,2799,77
 Digital Technology Adoption	17870
 Digital Technology Adoption and Skills Development	4653
 Digital Technology Design	12994
@@ -1361,9 +1365,9 @@ Digital Technology Park Project	44
 Digital Technology Park Project African Development	44
 Digital Technology Systems	3969
 Digital Technology Use	11195
-Digital Technology and Innovation	2338,1799,569,67,1197,4147,5871
+Digital Technology and Innovation	2338,1799,569,67,1197,4147,5871,3970,8
 Digital Technology and Innovation Samuel Nartey George	3543,4744
-Digital Technology and Innovations	2208,506,515,155,198,544,48,317,134,132,140,239,28,55,8,305,169,77,157,11,202,28,66,464,230,132,304,1,990,1,1,4,2,177,176,24,17,2,655,115,1,696,181,169,1,44,107,382,613,2967,619,488,401,82,186,1099
+Digital Technology and Innovations	2208,506,515,155,198,544,48,317,134,132,140,239,28,55,8,305,169,77,157,11,202,28,66,464,230,132,304,1,990,1,1,4,2,177,176,24,17,2,655,115,1,696,181,169,1,44,107,382,613,2967,619,488,401,82,186,1099,2374,19
 Digital Technology and Innovations Ghana	15988
 Digital Technology and Innovations Minister	5473
 Digital Technology and Innovations Minister Samuel Nartey	9538
@@ -1957,6 +1961,8 @@ Financial Stability Technical Committee	11131,3
 Financial Technologies	6697,12967
 Financial Technologies Developments	19664
 Financial Technology	11131,3,1310,1115,1170,912,2229
+Financial Technology Companies	19940
+Financial Technology Companies GAB Ghana Association	19940
 Financial Technology Development	11131,3
 Financial Technology FNDS Fonds National de Developpement	18931
 Financial Technology Lab	13559
@@ -2088,6 +2094,8 @@ Gestion Publique SCIENCES ET TECHNOLOGIES Sécurité	15674
 Gestion Technique	18324
 Gestion Technique du Bâtiment	17846
 Ghana Technology	4126
+Ghana. Daniel Azerikatoa Ayoung Bolgatanga Technical	19944
+Ghana. Godwin Asaamoning Bolgatanga Technical University	19944
 Ghana. Technical Information The NCA	9109
 Giga Technology Centre Connecting	13901
 Gigabytes Technology Q1	15136
@@ -2430,6 +2438,7 @@ Individual Use of Information and Communication Technologies	19702
 Industrial Technical	13310
 Industry Technologies	7548
 Inf Technol Dev	766
+InfoDev Climate Technology Program	19943
 InfoHighway Team Technical Team	14725
 Infocom Technologies and Optimization	9128
 Informatics and Technological Traces Directorate	10911
@@ -2559,7 +2568,7 @@ Information Technology and Innovations Division	14843
 Information Technology and Learning	16366
 Information Technology and Media	4583,8748
 Information Technology and Social Communication	2411
-Information Technology for Development	1248,3184,4697,1597
+Information Technology for Development	1248,3184,4697,1597,9218
 Information Technology. Additional	18670
 Information Technology. Conditions	15340
 Information Technology. International Journal of Innovations	11265
@@ -2872,7 +2881,7 @@ Korvek SJ. Health Information Technology. StatPearls	10919
 Kousseri and Amchidé. Huawei Technologies Co	303,7286
 Kumasi Technical University	10468,9348
 Kutana Technologies	10810
-Kwame Nkrumah University of Science and Technology	5227,719,3474,10,131,73,907,2344,6931
+Kwame Nkrumah University of Science and Technology	5227,719,3474,10,131,73,907,2344,6931,150
 Kwame Nkrumah University of Science and Technology KPI	4126
 L ENTRETIEN TECHNIQUE AUTO SARLU ETA	16623
 L'AGENCE NATIONALE DE PROMOTION DES TECHNOLOGIES	15637
@@ -3418,6 +3427,7 @@ NIST National Institute of Standards and Technology	6936,8536
 NIST National Institute of Standards and Technology NITDA	11952
 NIST National Institute of Standards and Technology NUC	10765,10
 NITA National Information Technology Agency Figure	582
+NITA National Information Technology Agency NRGI	19937
 NITA The National Information Technology Agency	11052
 NITA-U National Information Technology Authority-Uganda ODK	19639
 NITAG National Immunization Technical Advisory Group	16941
@@ -3503,7 +3513,7 @@ National Information Communication Technology Policy	3760,9683
 National Information Technol-	4848
 National Information Technologies	1749
 National Information Technology	582,19057
-National Information Technology Agency	587,202,1888,552,21,134,418,324,1809,121,221,70,59,966,1,1615,1397,200,237,39,993,13,4535,72,125
+National Information Technology Agency	587,202,1888,552,21,134,418,324,1809,121,221,70,59,966,1,1615,1397,200,237,39,993,13,4535,72,125,3348,17
 National Information Technology Agency NMCP National	15556
 National Information Technology Authority	1150,133,2952,2123,428,594,4370,482,2202,5195,1,1,3,5,3,18,29,5,3,1,20,6,17,14,11,9,17,9,1
 National Information Technology Authority Draft Bill	6347
@@ -3631,6 +3641,7 @@ Notre Technologie Une	13740
 Nouvelle Technologie	13855,4090
 Nouvelles M&E NCP Technologies	15372
 Nouvelles Technologies	1285,1,1515,322,1,181,32,630,22,50,345,1,989,2619,1675,943,969,114,434,1162,11,2071,27,24,262,16,77,592,246,989,68,139,5,2,5,276,18,9,30,7,40,4,2,21,4,1,3,11,2,13,622,15
+Npontu Technologies	19940
 Nuclear Science and Technology	5755,1,8196
 Number of Technologies	7548
 Nurses and Lab Technicians	14476
@@ -3743,6 +3754,7 @@ PDU Delivery Manager for Technology and Innovation	13569
 PETROLEUM AND RELATED TECHNOLOGIES	16900
 PFM Sectoral Technical Committees	19847
 PFM Technical Committee	19847
+PFTSP Payment and Financial Technology Service Providers	19940
 PHARMACEUTICALS AND TECHNOLOGIES	12976
 PIU MFBPE ARCT MFPTE MINSOLID Technical	1284
 PIU. The Project Steering Committee and Technical	1284
@@ -3796,6 +3808,8 @@ Patents Talent Policy Incentives Technology Data	15713
 Patrice Tano VP Technical Operations	10956
 Patrice Tano VP Technical Operations Raxio	10956
 Payment Interchange Technology	12490
+Payment and Financial Technology Service Providers	19940
+Payment and Financial Technology Services Provider	19940
 Pdg de Grant Thornton Technologies	2441,1
 Peace Technology The Somalia Conflict Navigator	15191
 Peer TVET Technical and Vocational Education P4R	14897
@@ -4702,7 +4716,7 @@ TECHNOLOGIQUE MESS	18143,27
 TECHNOLOGIQUE MINISTERE DE L'AGRICULTURE ET	15999
 TECHNOLOGY	9458,3086,427,324,41,32,106,1059,1679,688,494,1110,125,905
 TECHNOLOGY ADOPTION	6000
-TECHNOLOGY AND INNOVATION	9126
+TECHNOLOGY AND INNOVATION	9126,10811
 TECHNOLOGY AND INNOVATION POLICY The Science	14004
 TECHNOLOGY AND INNOVATION REPUBLIC OF SOUTH	10889
 TECHNOLOGY AND PUBLIC CONFIDENCE MATTER	13532
@@ -4777,6 +4791,7 @@ Taifa Technovation Hub	19534
 Taiwan Technical Mission	15002
 Talent and Technology Development	12512
 Tallinn University of Technology	2909,1
+Tamale Technical University	19944
 Tanyaradzwanashe Dengende of GasPulse Technologies	13688
 Tanzania AI and Digital Technology Institute	19819
 Tanzania Commission for Science and Technology	5715,3575,10244,45
@@ -5156,7 +5171,8 @@ Technical Secretariat of Analysis and Strategic Studies	15550
 Technical Secretariat. The CIFS	15658
 Technical Service	14867
 Technical Service Provider Guideline	11041
-Technical Services	7383,468,405,861,4249,107,1272,1134,1082,2690
+Technical Services	7383,468,405,861,4249,107,1272,1134,1082,2690,291
+Technical Services Commissioned	19942
 Technical Sessions Day	18523
 Technical Sessions Honoraria	17260
 Technical Skills	5533,6453,5082
@@ -5321,7 +5337,7 @@ Technical and Vocational Training Centers Upgrading Project	258
 Technical the StatisticrsveTd	19526
 Technical-Vocational Education and Skills Training	16769
 TechnicalistCommittee	19526
-Technically	4242,95,31,2000,783,4740,3406,847,741,50
+Technically	4242,95,31,2000,783,4740,3406,847,741,50,3000
 Technicalperformanceonadeveloper-controlled	8301
 TechnicalÂ CommitteesÂ	18887
 Technicat Guidance	3972
@@ -5401,7 +5417,7 @@ Techniques Industrielles	10379
 Techniques Licence Pro Réseaux	17829
 Techniques Résultat	15936
 Techniques de Co	17829
-Techniques de Masuku	15733
+Techniques de Masuku	15733,4222
 Techniques de Productions Avicoles	19366
 Techniques du Sénégal	8269,10143
 Techniques for Controlling Anger	13477
@@ -5429,7 +5445,7 @@ Technol	766
 Technolgies	16627
 Technolog	14775
 Technologi-	17812
-Technological	1261,302,530,723,132,10,1168,1407,614,305,131,458,748,341,153,609,237,1,486,170,979,10,44,27,292,99,24,79,212,353,4,77,4,220,234,9,14,156,136,189,57,37,303,73,206,728,1,239,168,119,56,12,50,1930,16,42,710,25,53,7,90,1303,382,99,220
+Technological	1261,302,530,723,132,10,1168,1407,614,305,131,458,748,341,153,609,237,1,486,170,979,10,44,27,292,99,24,79,212,353,4,77,4,220,234,9,14,156,136,189,57,37,303,73,206,728,1,239,168,119,56,12,50,1930,16,42,710,25,53,7,90,1303,382,99,220,92
 Technological Access Social Inequity Lack	17157
 Technological Adaptation and Future-Proofing Mechanisms	3861
 Technological Advancement	11265
@@ -5612,7 +5628,7 @@ Technologiquement	4325
 Technologiques	17829
 Technologiques de Master Management	17829
 Technologiste	7670
-Technology	22,12,192,189,105,51,72,75,71,110,41,18,42,154,7,58,9,29,7,99,165,26,399,35,6,102,196,43,4,134,201,26,171,77,28,127,117,61,97,5,58,163,178,4,12,49,14,1,7,53,171,16,5,12,47,157,102,96,148,14,118,82,118,28,12,16,20,143,15,2,1,1,11,19,73,7,11,51,22,30,16,14,11,8,9,5,28,9,130,15,70,4,94,92,61,20,14,218,2,45,97,113,48,42,1,35,46,115,66,32,8,8,34,82,85,4,21,32,4,12,1,1,5,51,20,14,2,7,13,24,1,6,81,1,6,62,17,5,11,108,36,1,27,1,19,6,5,157,38,44,31,1,108,131,119,78,7,7,78,52,1,25,33,22,9,8,4,1,17,59,14,66,82,35,9,49,42,50,2,100,7,16,81,32,31,2,24,29,21,18,20,49,16,24,16,17,15,4,43,54,6,24,3,2,10,23,78,18,127,18,4,4,22,101,7,24,7,23,20,178,48,38,62,4,30,6,4,40,36,3,1,1,5,42,3,5,43,4,8,10,3,2,6,4,113,58,1,22,7,73,1,2,2,85,17,44,21,11,182,68,6,56,28,14,60,3,111,19,3,21,1,10,10,3,19,4,21,4,11,1,18,67,77,16,13,1,15,29,1,5,4,20,66,1,28,8,14,4,1,1,12,3,4,19,16,4,12,12,5,34,9,20,5,42,8,3,24,85,1,12,7,14,53,25,110,30,22,18,5,1,3,30,37,14,37,24,51,57,33,54,2,71,33,12,27,1,3,13,20,10,8,20,124,15,14,54,5,241,1,18,20,192,12,65,12,29,6,6,1,6,88,122,2,1,128,10,2,23,16,2,3,2,1,19,3,1,10,4,29,5,56,17,20,18,12,4,14,8,24,6,20,11,21,65,16,28,104,192,12,8,73,51,17,13,79,1,265,61,6,98,58,53,597,6,3,11,4,2,6,1,30,9,18,1,8,12,5,7,80,15,35,11,41,78,67,30,105,21,134,49,49,28,15,9,3,40,338,321,1,9,2,22,2,1,1,3,2,14,3,6,1,1,5,1,5,4,1,1,1,14,7,12,1,7,3,9,6,40,17,5,97,120,63,18,93,59,34,11,45,46,8,20,254,13,1,9,34,39,7,11,6,3,4,18,13,30,52,49,3,51,3,68
+Technology	22,12,192,189,105,51,72,75,71,110,41,18,42,154,7,58,9,29,7,99,165,26,399,35,6,102,196,43,4,134,201,26,171,77,28,127,117,61,97,5,58,163,178,4,12,49,14,1,7,53,171,16,5,12,47,157,102,96,148,14,118,82,118,28,12,16,20,143,15,2,1,1,11,19,73,7,11,51,22,30,16,14,11,8,9,5,28,9,130,15,70,4,94,92,61,20,14,218,2,45,97,113,48,42,1,35,46,115,66,32,8,8,34,82,85,4,21,32,4,12,1,1,5,51,20,14,2,7,13,24,1,6,81,1,6,62,17,5,11,108,36,1,27,1,19,6,5,157,38,44,31,1,108,131,119,78,7,7,78,52,1,25,33,22,9,8,4,1,17,59,14,66,82,35,9,49,42,50,2,100,7,16,81,32,31,2,24,29,21,18,20,49,16,24,16,17,15,4,43,54,6,24,3,2,10,23,78,18,127,18,4,4,22,101,7,24,7,23,20,178,48,38,62,4,30,6,4,40,36,3,1,1,5,42,3,5,43,4,8,10,3,2,6,4,113,58,1,22,7,73,1,2,2,85,17,44,21,11,182,68,6,56,28,14,60,3,111,19,3,21,1,10,10,3,19,4,21,4,11,1,18,67,77,16,13,1,15,29,1,5,4,20,66,1,28,8,14,4,1,1,12,3,4,19,16,4,12,12,5,34,9,20,5,42,8,3,24,85,1,12,7,14,53,25,110,30,22,18,5,1,3,30,37,14,37,24,51,57,33,54,2,71,33,12,27,1,3,13,20,10,8,20,124,15,14,54,5,241,1,18,20,192,12,65,12,29,6,6,1,6,88,122,2,1,128,10,2,23,16,2,3,2,1,19,3,1,10,4,29,5,56,17,20,18,12,4,14,8,24,6,20,11,21,65,16,28,104,192,12,8,73,51,17,13,79,1,265,61,6,98,58,53,597,6,3,11,4,2,6,1,30,9,18,1,8,12,5,7,80,15,35,11,41,78,67,30,105,21,134,49,49,28,15,9,3,40,338,321,1,9,2,22,2,1,1,3,2,14,3,6,1,1,5,1,5,4,1,1,1,14,7,12,1,7,3,9,6,40,17,5,97,120,63,18,93,59,34,11,45,46,8,20,254,13,1,9,34,39,7,11,6,3,4,18,13,30,52,49,3,51,3,68,19,14
 Technology AA CJ CM CPA DCJ	12920
 Technology Absorption	17870
 Technology Acceptance Model	5349,2672,109,2810,987,2739
@@ -5787,6 +5803,7 @@ Technology Network	6097
 Technology Neutral Licenses	15447
 Technology Neutral Wholesale-only	15447
 Technology Neutrality	5245,7144
+Technology Neutrality and Legacy Network Sunsets	19966
 Technology New Deal	10861
 Technology Nominal Capacity	11953
 Technology Officers Council Department of Public Service	11184
@@ -5811,6 +5828,7 @@ Technology Policy Commitments	1264
 Technology Polley Framework. Retrieved	1009
 Technology Portals	8208,197,791
 Technology Portia Matsena	14269
+Technology Practice	19964
 Technology Prof. Pierre Gomez	17423
 Technology Professionals	12675
 Technology Program	8788
@@ -5865,6 +5883,7 @@ Technology Type Airtel Africa	4442
 Technology Type Vodacom	4442
 Technology URL	16255,2726
 Technology Uganda Launches Two New E-Services	9783
+Technology University	19944
 Technology Upgrades	16963
 Technology Urban Rural Unit	6051
 Technology Use	19576
@@ -5896,7 +5915,7 @@ Technology and Infrastructure	7182
 Technology and Infrastructure Committee	14721
 Technology and Innova-tion	18487
 Technology and Innovatio	12675
-Technology and Innovation	410,379,57,308,46,14,251,89,156,999,66,97,193,198,95,5,498,89,164,215,24,79,665,148,4,25,2,137,110,10,316,214,111,84,122,100,143,208,72,208,71,180,136,50,171,95,301,115,41,288,14,37,90,96,107,193,30,9,209,12,122,104,536,92,82,129,159,94,132,83,237,95,9,14,3,18,16,7,190,107,66,103,94,15,77,150,43,98,90,223,130,1,10,6,3,1,1,6,2,10,1,10,2,9,14,1,7,4,4,20,137,48,1,3,126,16,197,871,13,29,239,4,348,2034,169,44,173,334,874,8,27,4,2,6,6,5,6,1,3,1,2,5,1,4,2,1,14,10,10,2,2,4,2,9,2,4,100,16,244,1,169,2,413,31,6,70,1,120,142
+Technology and Innovation	410,379,57,308,46,14,251,89,156,999,66,97,193,198,95,5,498,89,164,215,24,79,665,148,4,25,2,137,110,10,316,214,111,84,122,100,143,208,72,208,71,180,136,50,171,95,301,115,41,288,14,37,90,96,107,193,30,9,209,12,122,104,536,92,82,129,159,94,132,83,237,95,9,14,3,18,16,7,190,107,66,103,94,15,77,150,43,98,90,223,130,1,10,6,3,1,1,6,2,10,1,10,2,9,14,1,7,4,4,20,137,48,1,3,126,16,197,871,13,29,239,4,348,2034,169,44,173,334,874,8,27,4,2,6,6,5,6,1,3,1,2,5,1,4,2,1,14,10,10,2,2,4,2,9,2,4,100,16,244,1,169,2,413,31,6,70,1,120,142,33
 Technology and Innovation Act	2709,1644
 Technology and Innovation Commons	14324
 Technology and Innovation Conference	5601,13088
@@ -6024,6 +6043,7 @@ Technology-Organisation-Environment	2948,6180,1,2861
 Technology-Organization-Environment	7759
 Technology-Park	13295
 Technology-and-Tax-PRT-Slides.pdf	17011
+Technology-driven	19951
 Technology-enabled	940,8033
 Technology-enabled Open School Systems for All	19871
 Technology-facilitated	12241,201

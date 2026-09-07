@@ -70,7 +70,7 @@ Ardhi Sacco Society Ltd Data Controller	7167
 Artificial Intelligence Driven Algorithmic Society	11715
 Artificial Intelligence-Powered Society	4126
 Asia Society	225
-Assembly Political Pluralism Civil Society Space	10759,78,1315,188
+Assembly Political Pluralism Civil Society Space	10759,78,1315,188,7598
 Assessment CSOs Civil Society Organisations DGP	18488
 Association Moroccan Internet Society	17448
 Association of Civil Society Organisations	12145
@@ -224,7 +224,7 @@ Civil Society National Grant Préparation	15500
 Civil Society Organisation	12551,5914,3
 Civil Society Organisation EIA Environmental Impact	16843
 Civil Society Organisation.5.3. Participants	2626
-Civil Society Organisations	1630,919,2695,2213,2273,1281,849,473,120,300,168,25,18,23,131,202,69,2538,1787,72,674,17,604,634
+Civil Society Organisations	1630,919,2695,2213,2273,1281,849,473,120,300,168,25,18,23,131,202,69,2538,1787,72,674,17,604,634,222
 Civil Society Organisations Civil Society Organisations	5244
 Civil Society Organization	14742,118
 Civil Society Organization DHIS2	10776
@@ -239,7 +239,7 @@ Civil Society Participate	15845
 Civil Society Raises Alarm	11677
 Civil Society Self-coordinating Mechanism	5162
 Civil Society Shall	13347
-Civil Society Space	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Civil Society Space	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Civil Society Submission	1016
 Civil Society Support	789
 Civil Society The Civil Society	1000
@@ -262,7 +262,7 @@ Civil Society. Lessons	11536
 Civil Society. The Workshop	18619
 Climate and Society	14900
 Co-operative Societies Act	19524
-Columbia University DSP Digital Society Project	10759,78,1052,451
+Columbia University DSP Digital Society Project	10759,78,1052,451,7598
 Commission CSO Civil Society Organization EU	11586
 Compact Fluorescent Lamp CSOs Civil Society	14947
 Company of Togo SMI Mauritanian Information Society	17862
@@ -342,7 +342,7 @@ Digital Economies and Societies	6948
 Digital Economy and Digital Society	395
 Digital Economy and Society. Research ICT	961
 Digital Geography and Society	8185,1047
-Digital Nations and Society Index	14674
+Digital Nations and Society Index	14674,5292
 Digital Nations and Society Index. Figure	14674
 Digital Networks and Society	10764,80,719,6180,380
 Digital Society	395,563,5988,2,1403,3506,503,613,335,36,2335,2101
@@ -459,8 +459,8 @@ GAMS ASTM Adopted American Society for Testing	16900
 GROUP SARL CONSTITUTION DE SOCIETE ICN	16413
 GSMA Digital Africa Nations and Society Index	14674
 GSMA Digital Nations and Society	6861
-GSMA Digital Nations and Society Index	6781,34,7859
-GSMA Nations and Society Index	14674
+GSMA Digital Nations and Society Index	6781,34,7859,5292
+GSMA Nations and Society Index	14674,5292
 Gambia Network of AIDS Support Societies GBoS	16951
 Gambia Red Cmss Society	16836
 Gambia Red Cross Society	17065
@@ -497,6 +497,7 @@ Head of Communications and Societal Purpose	4085
 Head of Information Society Division	12904
 Head of Information Society-African Union Commission	16849
 Health Information and Management Systems Society	2948
+Human Rights Initiative CSO Civil Society	19937
 Hybrid Technology Systems Society	18446
 Hydromet Diagnostics CSO Civil Society Organization	11553
 ICT Information Society and Capacity Development	1612,1289,8329
@@ -519,7 +520,7 @@ IndabaX Hackathon Computer Science Society Staff	12361
 India-based Centre for Internet and Society. The CIS	4176
 Industrial Electronics Society	8606
 Industry and Society. Building Synergies and Partnerships	11221
-Information Society	437,521,3,1612,202,1191,1649,1021,312,49,41,11,86,54,14,15,10,200,448,237,777,55,1826,668,90,344,18,18,56,931,17,301,81,1428,6,13,111,519,218,456,449,377,899,99,853,44,5,113,2,358,120
+Information Society	437,521,3,1612,202,1191,1649,1021,312,49,41,11,86,54,14,15,10,200,448,237,777,55,1826,668,90,344,18,18,56,931,17,301,81,1428,6,13,111,519,218,456,449,377,899,99,853,44,5,113,2,358,120,579
 Information Society Authority	6041
 Information Society Authority RURA Rwanda Utilities	1204
 Information Society Award	1888
@@ -540,6 +541,7 @@ Information Society and Economy	18885
 Information Society. E-Governance Awareness	12325
 Information Society. Rwanda	15019
 Information Society. Sage Publications	6948
+Information WACSI West Africa Civil Society	19937
 Informatiques du Mali Internet Society	17856
 Iniciativa da Sociedade de Informação Africana	15477
 Initiative SACCO Savings and Credit Cooperative Societies	2775
@@ -722,7 +724,7 @@ NGO Non-governmental Organization NOSi Information Society	11863
 NGOs and Civil Society Organisations	14800
 Nacional da Sociedade Civil	10750
 Namibia Chapter Internet Society	7628
-National Building Society	3025
+National Building Society	3025,16955
 National Civil Society	16963
 National Commission for Information Society	13312,2
 National Commission of Civil Society Actors	18305

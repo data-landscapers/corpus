@@ -48,7 +48,7 @@ Automated Decision Making	8436,3520
 Automated Individual Decision Making	12185
 Avenue Makamba	13630
 BMC Med Inf Decis Mak	1261
-BMC Med Inform Decis Mak	1219,2572,6993,1462,9,124
+BMC Med Inform Decis Mak	1219,2572,6993,1462,9,124,7595
 BMC Medical Informatics and Decision Making	8604,2,2550,1223
 BO BONTHE KOIDU NEW-SEMBEHUN KENEMA MAKENI	18476
 BRIXTON MAKUNGA MEDICAL CLINIC Data Controller	7167
@@ -449,7 +449,7 @@ Make Model Frequency Range	736
 Make Model Operation Frequency Range	736
 Make Model Transmit Power	736
 Make Morocco	1885
-Make Payment	11877
+Make Payment	11877,8079
 Make Payment for Tender Processing	16949
 Make Representations	17249
 Make Sure	8629
@@ -555,7 +555,7 @@ Makindye Standards and Utilities Court	4235
 Makindye-Ssabagabo	9696
 Makindye-Ssabagabo. Another	9696
 Makindye-based Standard Utilities and Wildlife Court	9781
-Making	34,1209,745,108,1168,658,1323,105,1037,447,112,472,333,135,80,720,262,175,5,247,334,88,278,249,304,213,117,15,4,102,50,16,2,7,1,391,17,299,11,83,20,10,104,137,137,25,56,120,64,103,273,48,79,103,79,147,47,449,47,670,49,127,12,12,13,48,12,50,728,541,601,5,11,2,57,9,176,133,458,381,48,90,204,37,10,411,803,145
+Making	34,1209,745,108,1168,658,1323,105,1037,447,112,472,333,135,80,720,262,175,5,247,334,88,278,249,304,213,117,15,4,102,50,16,2,7,1,391,17,299,11,83,20,10,104,137,137,25,56,120,64,103,273,48,79,103,79,147,47,449,47,670,49,127,12,12,13,48,12,50,728,541,601,5,11,2,57,9,176,133,458,381,48,90,204,37,10,411,803,145,90,7,30
 Making AI	4528,1310,6674
 Making Access Possible	15447
 Making African Trade Work Like Mobile	7523
@@ -627,6 +627,7 @@ Makoko District. Ivanhoe	15952
 Makokoba Constituency	13420
 Makokoba Constituency My	13420
 Makokou	2325,12991,721,515,46
+Makokou-Okondja	19945
 Makola	6075
 Makola Market	10419
 Makole Health Centre	19541

@@ -47,7 +47,7 @@ Airtel Mobile Money Rwanda	921
 Airtel Mobile Money Tanzania	2226
 Airtel Mobile Money Uganda	922
 Airtel Mobile Money Zambia	923
-Airtel Money	914,1,1,1,1,1,1,1,1,1,782,154,577,575,24,586,322,858,250,423,441,894,137,440,1,1,36,167,72,279,66,41,133,41,312,88,104,1,25,89,30,328,345,193,21,140,313,629,1109,10,34,80,1203,200,882,118,70,130,292,1640,2459,4
+Airtel Money	914,1,1,1,1,1,1,1,1,1,782,154,577,575,24,586,322,858,250,423,441,894,137,440,1,1,36,167,72,279,66,41,133,41,312,88,104,1,25,89,30,328,345,193,21,140,313,629,1109,10,34,80,1203,200,882,118,70,130,292,1640,2459,4,906
 Airtel Money Africa	7387
 Airtel Money Business Wallet	8728
 Airtel Money Commerce Uganda Limited	9899
@@ -120,6 +120,7 @@ Base Monetária	18757,72,31,20
 Benin’s MonEntreprise.bj	10887
 Best Value for Money	12389
 Beyon Money To Bolster Digital Payments	5322
+Billions Cash-in Cash-out Mobile Money Transactions	19940
 Bitcoin. Money	9367
 Blasting Money and Local Liquidity Key	12978
 Blue Money	2785,743,643,184,1024,320,10469
@@ -161,6 +162,7 @@ COMUNIDAD ECONOMICA Y MONETARIA DE AFRICA	16871
 CONSTITUTION DE SOCIETE GOZEM CG MONEY	15780
 CORAF. INTERNATIONAL MONETARY FUND	1828
 CORIS MONEY	5089
+Card Issuance Agency Banking Mobile Money	19940
 Cards Prepaid Cards Mobile Money Subscribers	6978
 Careers Vacancies Speeches Documents Monetary Policy	12390
 Careers Vacancies Speeches Global Money Week	12390
@@ -168,7 +170,7 @@ Cash Card Mobile Money	5247
 Cash Mobile Money	5247
 Cash Money	15291
 Catégorie Western Union Money	13390
-Central African Economic and Monetary Community	969,859,550,484,4076,212,2029,747,149,163,603,1064,112,2190,1240,214,836,445,16,38,1801,134
+Central African Economic and Monetary Community	969,859,550,484,4076,212,2029,747,149,163,603,1064,112,2190,1240,214,836,445,16,38,1801,134,1036
 Central African Economic and Monetary Community. BCEAO	9593
 Central African Economic and Monetary Union	15514,4
 Central African Interbank Monetary Group	4227
@@ -215,7 +217,8 @@ Data Boom and Airtel Money Surge Author	7663
 Datasets Monetary and Financial Statistics External Sector	14777
 Day Accounts Registered Mobile Money Accounts	19728
 Day Mobile Money Subscriptions	19728
-Dedicated Electronic Money Issuer	7325
+Dedicated Electronic Money Issuer	7325,12615
+Dedicated Electronic Money Issuers	19940,28
 Deposit Money Banks	3491,3207,237
 Deputy Money Laundering Reporting Officers	14809
 Description Orange Money	1142
@@ -233,6 +236,7 @@ Double Monetisation of Existing Customers	6362
 Draft-MTRS-Final.pdf INTERNATIONAL MONETARY FUND	13624
 D’IVOIRE UBA MTN ORANGE MONEY BAOBAB	11588
 E Money Issuer and Designation of Payment	12286
+E-money Electronic Money EMV Europay	19940
 EAC Monetary Affair	15023
 EAC Monetary Affairs Committee	7967,3981,7748
 EAC Monetary Union	11948,7748
@@ -264,7 +268,7 @@ Economia Digital Fundo Monetário Internacional	11569
 Economic WAMZ West African Monetary Zone	17235
 Economic and Monetary	15713
 Economic and Monetary Commu-	2775
-Economic and Monetary Community of Central Africa	26,1,1,4099,2994,2495,406,1938,3451,36,33,94,85,172,1111,54
+Economic and Monetary Community of Central Africa	26,1,1,4099,2994,2495,406,1938,3451,36,33,94,85,172,1111,54,2982
 Economic and Monetary Community of Central Africa CST	18754
 Economic and Monetary Community of Central Africa EA	15574
 Economic and Monetary Community of Central Africa IWP	17101
@@ -278,6 +282,7 @@ Electronic Money Institution	17728
 Electronic Money Institutions	3407,72,1779,2545
 Electronic Money Institutions. Automated Teller Machines	7803
 Electronic Money Issuance	12542,990
+Electronic Money Issuer DESFT Digital Economy	19940
 Electronic Money Issuers	7763,7837
 Electronic Money Regulation	18702
 Electronic Money Transfer Levy	9113
@@ -295,6 +300,7 @@ FCFA. Orange Money Sénégal	17559
 FY Financial Year IMF International Monetary	13060
 Facebook Content Monetisation	13462
 Facebook Content Monetisation Program	13462
+FinTech Industry Performance The Mobile Money	19940
 Finances. Banking. Monetary	13385
 Financial Intelligence and Anti Money Laundering Act	14720
 Financial Intelligence and Anti- Money Laundering Act	7845
@@ -335,6 +341,8 @@ Gabon Project CEMAC Economic and Monetary Community	15411
 Galaxy Money Transfer	13452
 Gestión Monetaria	1701
 Getesa Money	6323,10996
+Ghana. Mobile Money Interoperability	19953
+GhanaPay Mobile Money	19953
 Global Monetization and PPP	11469
 Global Money Week	11131,2401,3047
 Global Money Week Fair	11131
@@ -411,7 +419,7 @@ Intergovernmental Action Group Against Money Laundering	17235
 Interim Financial Reports IMF International Monetary	18293
 Intermediated Money Transfer Tax	9904
 International Growth Centre IMF International Monetary	15023
-International Monetary Fund	1155,129,544,57,1693,5,21,6,43,474,917,97,106,1091,600,304,223,113,26,33,116,70,166,21,251,97,68,289,303,212,198,31,31,21,59,169,464,216,324,98,128,28,134,3,2,4,9,44,2,63,28,94,145,11,13,23,312,11,10,19,23,47,133,32,3,14,29,150,21,9,10,92,13,338,84,26,8,6,82,11,5,62,210,292,117,127,140,538,192,6,30,3,96,56,3,97,212,131,99,2,5,2,11,27,35,105,1,2,64,65,243,111,45,275,369,109,7,6,5,36,15,26,67,1,88,16,26,22,59,1,9,13,25,57,82,165,202,39,81,73,230,25,170,19,5,65,220,26,2,26,247,147,357,51,170,3,10,11,8,7,3
+International Monetary Fund	1155,129,544,57,1693,5,21,6,43,474,917,97,106,1091,600,304,223,113,26,33,116,70,166,21,251,97,68,289,303,212,198,31,31,21,59,169,464,216,324,98,128,28,134,3,2,4,9,44,2,63,28,94,145,11,13,23,312,11,10,19,23,47,133,32,3,14,29,150,21,9,10,92,13,338,84,26,8,6,82,11,5,62,210,292,117,127,140,538,192,6,30,3,96,56,3,97,212,131,99,2,5,2,11,27,35,105,1,2,64,65,243,111,45,275,369,109,7,6,5,36,15,26,67,1,88,16,26,22,59,1,9,13,25,57,82,165,202,39,81,73,230,25,170,19,5,65,220,26,2,26,247,147,357,51,170,3,10,11,8,7,3,107,6
 International Monetary Fund About the Global Innovation	11895,264
 International Monetary Fund BURUNDI SELECTED ISSUES	13624
 International Monetary Fund Code	11895
@@ -426,7 +434,7 @@ International Monetary Fund IMR	16951
 International Monetary Fund IOT Input Output	19519
 International Monetary Fund IP Internet Protocol	12663
 International Monetary Fund IPC	14857
-International Monetary Fund IPU Inter-Parliamentary Union	10759,78,1052,451
+International Monetary Fund IPU Inter-Parliamentary Union	10759,78,1052,451,7598
 International Monetary Fund IQR Interquartile Range	11258
 International Monetary Fund IRI Intermediate Results	11924
 International Monetary Fund KPI	16968
@@ -544,7 +552,7 @@ MTN MOBILE MONEY	10821,1571,5921
 MTN MOBILE MONEY Commune	10821
 MTN MOBILE MONEY GUINEE BISSAU	18313
 MTN MoMo and Airtel Money	3727
-MTN Mobile Money	1537,724,696,693,611,2735,166,537,1067,2057,709,4721,689,601,2227
+MTN Mobile Money	1537,724,696,693,611,2735,166,537,1067,2057,709,4721,689,601,2227,196
 MTN Mobile Money Company and Airtel Money	10299
 MTN Mobile Money Corporation	6601
 MTN Mobile Money General Manager	4261
@@ -557,6 +565,7 @@ MTN Mobile Money for Ghana	4750
 MTN Mobile Money. Avec le PSIPJ	16012
 MTN Mobile Money. Cette	6804
 MTN Money	11532,1945
+MTN Money and AirtelTigo Money	19966
 MTN and Orange Money	4261
 MTN's Mobile Money	8580
 Machine M3 Extended Broad Money Supply	2775
@@ -586,16 +595,20 @@ Mobile Banking and Mobile Money Interoperability	19838
 Mobile Mobile Money Registered Posta Uganda	9781
 Mobile Money	98,320,164,164,178,315,25,997,175,25,234,70,20,100,148,66,1,208,15,38,30,51,324,417,25,53,554,312,80,25,121,144,70,173,21,181,221,88,111,237,205,321,681,334,34,45,295,93,75,14,57,5,55,3,203,260,420,82,212,43,99,7,91,246,67,120,45,28,26,9,1,18,52,120,39,136,215,589,50,303,18,23,85,253,207,94,259,216,25,6,724,42,425,206,88,29,133,6,311,8,25,149,100,192,15,71,83,54,73,213,179,233,300,603,125,102,150,13,350,56,492,35,554,77,16
 Mobile Money Account Ownership Per	17870
-Mobile Money Accounts	16975
+Mobile Money Accounts	16975,2965
+Mobile Money Active Agents	19940
+Mobile Money Active Agents Chart	19940
+Mobile Money Active Customers	19940
 Mobile Money Active Subscriptions	19728
 Mobile Money Advocacy Group	10249
 Mobile Money Agent SIM Cards	15136
-Mobile Money Agents	7763,5215,6750
+Mobile Money Agents	7763,5215,6750,212
 Mobile Money Agents Alongside	19728
 Mobile Money Agents Association of Ghana	3543
 Mobile Money Confirmez	16430
 Mobile Money Congo S.A	2436
 Mobile Money Corporation. Dans	6804
+Mobile Money Customers	19940
 Mobile Money Delivery Component World Bank	1023
 Mobile Money Dominant	12444
 Mobile Money Ecosystem Survey	17870
@@ -611,6 +624,7 @@ Mobile Money International Courier Transaction Counts	9781
 Mobile Money Interoperability	8412,4078,4629
 Mobile Money Interoperability Ghana	4908
 Mobile Money KYC	14674
+Mobile Money Levy	19966
 Mobile Money Limited	8766
 Mobile Money Limited Ghana	17742
 Mobile Money Linked SIM Cards	15136
@@ -635,22 +649,29 @@ Mobile Money Platform West Africa	2141
 Mobile Money Platforms	13532
 Mobile Money Policy and Regulatory Handbook	11994
 Mobile Money Providers	17030
+Mobile Money Registered Mobile Money Accounts	19940
 Mobile Money Regulation	16842
 Mobile Money Regulations	17030
+Mobile Money Regulatory Index	19966
 Mobile Money Regulatory Index.49 Malawi	14674
 Mobile Money Research and Innovation Laboratory Bill	276
 Mobile Money Scales Up Fintech	8968
+Mobile Money Service	19940
 Mobile Money Service Provider	13477
-Mobile Money Services	6671,275,8190
+Mobile Money Services	6671,275,8190,4804
 Mobile Money Struggles News Finances	8843
 Mobile Money Subscriptions	6671,275,12782
 Mobile Money Subscriptions All	12601
 Mobile Money Subscriptions FY	6946
+Mobile Money Surveillance	19940
 Mobile Money Suspicious Reporting	14880
 Mobile Money Taxes and Affordability	5234
+Mobile Money Total Transaction Values Chart	19940
+Mobile Money Total Transaction Volumes	19940
 Mobile Money Transaction Levy	13496
 Mobile Money Transaction Levy Act	13496
-Mobile Money Transactions	13346,4524,1858
+Mobile Money Transaction Types	19940
+Mobile Money Transactions	13346,4524,1858,212
 Mobile Money Transfer Services	2743,3928
 Mobile Money War Goes Physical	6996
 Mobile Money Zambia	17742
@@ -690,7 +711,7 @@ Monetary Affairs Committee Sub-Committees	11807
 Monetary Agency WAMI West African Monetary	17235
 Monetary Aggregates	17235
 Monetary Aggregates Current Account Balance	17235
-Monetary Authority of Singapore	11994,349,2476,178
+Monetary Authority of Singapore	11994,349,2476,178,4943
 Monetary Authority of Singapore Fintech Portal	14819
 Monetary Community	15511,1431
 Monetary Community of Central Africa	15518
@@ -831,7 +852,7 @@ Money Supply M2	17235
 Money The World Bank Enhancing	10768
 Money Transfer Agencies and Operators	13122
 Money Transfer Levy	13122
-Money Transfer Operators	16874,230
+Money Transfer Operators	16874,230,2836
 Money Transmission	12490,7348
 Money VSLA Village Savings and Loan Association	19647
 Money Warrant	14135
@@ -863,7 +884,7 @@ MoneyWeb WS2	13461
 MoneyWeek	753
 MoneyWeek Offer	753
 Moneycontrol	7596
-Moneys	11,576,12883
+Moneys	11,576,12883,6481
 Moneyweb	2524,5496,5441,2265
 Moneyweb DATA SIGN IN SUBSCRIBE Create	7343
 Moneyweb Google News	7343
@@ -877,6 +898,7 @@ Moov Money Mali	5760
 Moov Money Mastercard	4183
 Moov Money Tchad	8223
 Moov Money Tchad SA	7620,603
+Moov Money and GIMACPay	19978
 Moov Money-Mastercard	3010
 Moov Money. Au Togo	5324
 Moov Money. Se	3650
@@ -954,6 +976,8 @@ P2P Mobile Money Transaction Count	9781
 PART VI ELECTRONIC MONEY	19509
 PAYMENT SYSTEMS ACCESS POINTS Mobile Money	6978
 PB Mobile Money	10793
+PBM Purpose Bound Money PCG Partial	19940
+PILOTING OF MOBILE MONEY PAYMENTS	19965
 PIU West African Economic and Monetary Union	17099
 PIU. West African Economic and Monetary Union	17099
 PODCASTS LISTEN MoneywebNOW Moneyweb	7343
@@ -983,6 +1007,7 @@ Projecto de Transferência Monetária	10763
 Province Western Money RIA Union	13390
 Public Finance and Monetary Statistics	17149
 Public Money	2093,3
+Purpose Bound Money	19940
 Q2 Debit Cards Mobile Money	6978
 Q2 POS ATMS INTERNET MOBILE MONEY	6978
 Q2 POS ATMs INTERNET MOBILE MONEY	6978
@@ -1059,6 +1084,7 @@ Sistema Integrado de Gestão Monetária	17032
 Situation Monetaire	18757
 Situação Monetária	18757
 Small Money Issuer	12286
+Small and Medium Enterprise MTO Money Transfer	19940
 Small and Medium-sized Enterprise Africa MTO Money	12444
 Smart Money Talks	13532
 South Sudan's Electronic Money Regulation	6776
@@ -1083,6 +1109,7 @@ TNM Mpamba and Airtel Money. Andrew Kamwendo	17703
 TRANSAÇÕES MOBILE MONEY	11531
 TRESOR MONEY	18313
 Tanganyika Money Transfer	13452
+Tanzania Mobile Money Levy Impact Assessment	19966
 Taxing Mobile Money	18063
 TechCabal Intelligence VASP Regulatory Money Maze	12882
 Technology IMF International Monetary Fund LISGIS	17149
@@ -1126,7 +1153,7 @@ Velocity of Money	17235
 Violence Against Children VfM Value for Money	15515
 Visa Appoints Former Airtel Money Kenya	8623
 Visa Transfer Money	12270
-Volume of Mobile Money Transactions	13346
+Volume of Mobile Money Transactions	13346,6594
 Vulekamali and Municipal Money	8013
 WAEMU West African Economic and Monetary Union	11525,5471,874,328
 WAVE MOBILE MONEY	4459

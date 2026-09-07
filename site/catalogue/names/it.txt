@@ -334,7 +334,7 @@ IT-assisted	13991
 IT-based	19860
 IT-contract	13861
 IT-driven	7910
-IT-enabled	9237,63
+IT-enabled	9237,63,10666
 IT-equipment	8985,7167
 IT-governance	4297
 IT-led	9237
@@ -606,6 +606,7 @@ ITU Deputy Secretary-General Tomas Lamanauskas and ICPC	7199
 ITU Devcelopment Index	11569
 ITU Development	15026
 ITU Development Sector	15026
+ITU Digital Development Index	19966
 ITU Digital Rights Report	12214
 ITU Digital Transformation Centers	3604
 ITU Disparity	18123
@@ -621,6 +622,7 @@ ITU Facts and Figures	6946
 ITU Figure	11563
 ITU Focus Group	19673
 ITU G5	6052
+ITU G5 Benchmark	19966
 ITU G5 Benchmarks	6539
 ITU GCI	4810,2480
 ITU GCI Expert Group	10764
@@ -657,6 +659,7 @@ ITU IDI Rank	13344
 ITU In LLDCs	10844,7279
 ITU Indicator	14897
 ITU Innovation Centre	10764,80,719,6180,380
+ITU International Telecommuni	19938
 ITU International Telecommunication Union	11887,266,1,9,178,7517,1
 ITU International Telecommunication Union ITUC International	10759,78,1052,451
 ITU International Telecommunication Union IUCD Intrauterine	2775

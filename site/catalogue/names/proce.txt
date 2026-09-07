@@ -890,7 +890,7 @@ Business Process Map CEC	12338
 Business Process Modelling Business	9124
 Business Process Orchestration	12359
 Business Process Orchestration The Government Service	12359
-Business Process Outsourcing	2428,4518,4917,1451,1131,229,2198,834,1805,21,128
+Business Process Outsourcing	2428,4518,4917,1451,1131,229,2198,834,1805,21,128,306
 Business Process Outsourcing and Innovation	19689
 Business Process Outsourcing. Kabogo	17706
 Business Process Re- Engineering Specialist	12359
@@ -1311,6 +1311,7 @@ Certification Procedure	3861
 Certification Process	5665
 Certified Accountants AEs Automated Check Processing	17235
 Chai Sacco Society Ltd Data Processor	7167
+Challenge Process	19935
 Challenge Process and Data Operational Operational	9237
 Chance Find Procedure	1988
 Chance Find Procedures	1988
@@ -1386,6 +1387,7 @@ Companies. Issuing Technical Support License Process	15283
 Company LLP Data Processor INST-7959174FE30 NAIROBI	7167
 Company Limited Data Processor INST-957624ED452 NAIROBI	7167
 Compassion International Inc Data Processor INST-281755F5493	7167
+Compatibility of Further Processing	19951
 Compea LTD Data Processor INST-454616C800D NAIROBI	7167
 Complaint Handling Process Flow Chart Received	16889
 Complaint Handling and Resolution Procedures	19558
@@ -1600,6 +1602,7 @@ DENNIZ ENTERPRISES LIMITED Data Processor INST-772590E7F2D	7167
 DENT PLAN Data Processor INST-16486501C57 NAIROBI	7167
 DENTAL DYNAMIX LIMITED Data Processor INST-7250795BEF8	7167
 DENTALDOC SERVICES LIMITED Data Processor INST-48821312A5B	7167
+DEPARTURE PROCEDURE	19950
 DERMALLURE SKIN CLINIC LLP Data Processor	7167
 DES DISPOSITIONS DE PROCEDURE ET DES	15727
 DES PRINCIPES ET DU PROCESSUS	19241
@@ -1758,9 +1761,9 @@ Data Integrated Limited Data Processor INST-9352264489B	7167
 Data Labelers Association Data Processor INST-9143850AC00	7167
 Data Processing	3861,1383,1188,1319,3378,827,226,1174,98,613,2186,580,88,26
 Data Processing A R	17116
-Data Processing Agreement	11956,346
+Data Processing Agreement	11956,346,7662
 Data Processing Agreement Article	11956
-Data Processing Agreements	12302,1079
+Data Processing Agreements	12302,1079,6587
 Data Processing Centre	19711
 Data Processing Data Editing	17165,1405
 Data Processing Data Editing The PP	18567
@@ -2097,6 +2100,7 @@ ELEMENTS OF THE NICI-1 PROCESS	16861
 EMRS Development Process	19667
 ENFORCEMENT PROCEEDINGS	15081
 ENHANCED PARTICIPATION IN E-GOVERNMENT PROCESS	16885
+ENTRY PROCEDURES	19950
 ENVIRONMENTAL AND SOCIAL PROCEDURES FOR SUB-PROJECTS	17114
 ENoLL. Proceedings	11006
 EOC Standard Operating Procedures and Anticipatory Action	13095
@@ -2168,6 +2172,7 @@ Enforcement and Compliance Procedure Handbook	16853
 Engagement of Data Processor	14524
 Engagement of Data Processor Public	14524
 Enhance Policy Process and Decision Making	19519
+Enhanced Regulatory Procedures Following	19940
 Enquête Publique Processus	19189
 Enterprise Creation Procedure Centre	10980
 Enterprises SOPs Standard Operating Procedures TDA	15473
@@ -2259,6 +2264,8 @@ GENERAL ASSESSMENT PROCEDURE	13381
 GITIMBINE Data Processor INST-9883074DA3A MERU Kenya	7167
 GM Procedure	16926
 GM Procedures	16926
+GNHR Process Statistics News	19942
+GNHR Process Statistics Overview	19942
 GOVERNMENT WAIVES NATIONAL IDENTIFICATION CARD PROCESSING	12268
 GPUsthroughsparselinearalgebra. Proceedings	8606
 GRB Preparation Process for FY	18512
@@ -2449,8 +2456,8 @@ Job Application Process Section	13037
 Journal of Process Management and New Technologies	9237
 Judicial Procedures Already Digitized	13253
 Judicial Proceedings and Costs	16949
-Judicial Processes	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
-Judicial System Judicial Processes Equality	10759,78,1315,188
+Judicial Processes	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Judicial System Judicial Processes Equality	10759,78,1315,188,7598
 Jurisdiction Over Insolvency Proceedings	12389
 Justice Chief Magistrate Criminal Procedure Act	12920
 KENNETH ADVOCATES LLP Data Processor INST-983602FF56B	7167
@@ -2476,6 +2483,7 @@ Key Processes and Steps	16867
 Khartoum Process Thematic Meeting	12257
 Kimberley Process	2889
 Kisumu County Data Processor INST-175606322DE KISUMU	7167
+Knowledge Process Outsourcing	19966
 L'EAU DES PROCEDES INDUSTRIELS ET	18170
 LABOUR ENVIRONMENT Judicial Processes	10835,3,130,902,16,466,1,135,7334
 LAWFUL BASIS FOR PROCESSING PERSONAL DATA	13381
@@ -2571,7 +2579,7 @@ Lawful Bases of Processing	6792
 Lawful Basis and Context of Processing	11956
 Lawful Basis for Processing	13381
 Lawful Basis for Processing Requirement	13381
-Lawfulness of Processing	12185
+Lawfulness of Processing	12185,7766
 Leegal Proceedings and Notices	19525
 Legal Basis for Processing	12663,341
 Legal Basis for Processing of Personal Data	12549
@@ -2604,6 +2612,7 @@ Limited Data Processor INST-962062D5FA8 NAIROBI Kenya	7167
 Limited Data Processor INST-980337D779F NAIROBI UK	7167
 Lincoln G. Peters Proceedings	17123
 Liquidation Proceeding	12389
+Liquidation Process	19961
 Live Broadcasting of Parliament Proceedings	12580
 Livestock Data Processor INST-1443778C6D8 KITUI Kenya	7167
 Local and International Payment Processing Merchants	4988
@@ -2729,9 +2738,10 @@ National Referral Policy and Standard Operating Procedures	18532
 National Security Data Processing	3861
 National Stand-In Processing Service	6697
 National Standards Development Process	19712
-National Switching and Processing System	1889
+National Switching and Processing System	1889,18051
 Natural Language Processing	1814,1002,1310,402,2806,1387,3489,302,163,3038
 Natural Language Processing Centre of Excellence	4126
+Natural Language Processing NPCI National Payments	19940
 Natural Processed Rubber NATURAL	16935
 Neural Information Processing Systems	8606
 Neural Network Zoo. Proceedings	11265
@@ -3165,7 +3175,7 @@ Proceed Magistrate Rejects Bid	17069
 Proceed Mayor Bensouda Eyes Presidency	17069
 Proceedin	19525
 Proceeding	6950,7764,1
-Proceedings	3,223,359,658,850,3,1618,718,7,590,320,1572,27,811,371,330,144,2,260,262,1,108,502,1041,226,44,85,5,16,934,95,173,173,780,1098,1306,551,891,616,7,538,118,103,622,76,281,7,124,5
+Proceedings	3,223,359,658,850,3,1618,718,7,590,320,1572,27,811,371,330,144,2,260,262,1,108,502,1041,226,44,85,5,16,934,95,173,173,780,1098,1306,551,891,616,7,538,118,103,622,76,281,7,124,5,290
 Proceedings Ministry of Financial Services	14819
 Proceedings of Board	13339,32
 Proceedings of Commission	18459
@@ -3190,13 +3200,14 @@ Procesando	16905
 Proceso de Enseñanza-Aprendizaje	4209
 Proceso de Recopilación de Datos	8378
 Procesos	4209
-Process	1161,827,127,4,870,725,399,415,105,716,351,73,116,534,1595,265,93,230,517,114,1528,10,9,30,5,187,125,724,2,52,26,119,148,100,36,29,7,15,123,505,20,153,104,67,20,1143,78,134,8,116,59,2,44,62,7,226,151,62,11,120,59,141,384,645,15,2,17,49,152,299,737,201,226,12,227,141,175,455,43,92,9,64,85
+Process	1161,827,127,4,870,725,399,415,105,716,351,73,116,534,1595,265,93,230,517,114,1528,10,9,30,5,187,125,724,2,52,26,119,148,100,36,29,7,15,123,505,20,153,104,67,20,1143,78,134,8,116,59,2,44,62,7,226,151,62,11,120,59,141,384,645,15,2,17,49,152,299,737,201,226,12,227,141,175,455,43,92,9,64,85,108
 Process A Well	9123
 Process Analysis	11941
 Process At BoZ	13532
 Process Automation	13418,5407,759
 Process Autonomy	8283
 Process Autonomy. Stage	8283
+Process Data Collection Quality Assurance Data	19942
 Process Description	15283,4258
 Process Digitization	13037
 Process Evaluation	958,14061,1848
@@ -3239,7 +3250,7 @@ Process Validation	19667
 Process Visa Application	9124
 Process and Board	11857
 Process and End Process of Vaccinated Girls	17289
-Process and Policy	2093,3256,351,6767
+Process and Policy	2093,3256,351,6767,7477
 Process and Result Verification for Transparency	9986
 Process and Results Verification Statement	10054
 Process and Results Verification for Transparency	10054
@@ -3295,7 +3306,7 @@ Processes6	8606
 Processes9	8606
 Processiflg	11517
 Processin	972
-Processing	3,13,9,2,284,451,527,44,141,119,37,107,50,90,14,218,666,114,119,196,100,310,247,1121,131,86,45,119,316,744,89,573,246,597,508,170,1551,16,548,120,139,275,150,112,379,60,30,14,166,19,8,101,7,1,35,27,29,12,14,77,16,37,102,247,11,20,25,50,32,6,11,268,60,96,129,828,1,14,75,221,74,24,50,18,116,31,16,410,186,596,365,168,34,10,81,23,313,1190,12,114,409,599,1,17,32,5,195,26,35,32
+Processing	3,13,9,2,284,451,527,44,141,119,37,107,50,90,14,218,666,114,119,196,100,310,247,1121,131,86,45,119,316,744,89,573,246,597,508,170,1551,16,548,120,139,275,150,112,379,60,30,14,166,19,8,101,7,1,35,27,29,12,14,77,16,37,102,247,11,20,25,50,32,6,11,268,60,96,129,828,1,14,75,221,74,24,50,18,116,31,16,410,186,596,365,168,34,10,81,23,313,1190,12,114,409,599,1,17,32,5,195,26,35,32,24
 Processing Birth Applications	19541
 Processing Capacity Centrale	19284
 Processing Conditions ARTICLE	15484
@@ -3309,7 +3320,7 @@ Processing LEARN MORE ABOUT THE METHODOLOGY	11539
 Processing Manually	10814
 Processing Minor Data	12193
 Processing Payment for Road Tolls User Guidelines	12454
-Processing Personal Data	15484
+Processing Personal Data	15484,4484
 Processing Personal Data for Electoral Purposes	12301
 Processing Plant and Establishment	18541
 Processing Plants	18450
@@ -3349,6 +3360,7 @@ Processing of Personal Data Generality	27
 Processing of Personal Data for Private Security	12301
 Processing of Personal Information	13381
 Processing of Sensitive Personal Data	12185,364,2935
+Processing of Special Personal Data	19951
 Processo	576,218,7449,2523,6,11,577,5,11,3,6,2,3,35,27,9,86,8,14,1288,2502,117,490,1127,1657,1,23,9,10,8,33,143
 Processo Actualmente	10772
 Processo Administrativo	11388,7365,2
@@ -3396,7 +3408,7 @@ Processo de Recenseamento	11528
 Processo de Registo de Nascimento	10772
 Processo de Revisão	18774
 Processo de Transfor	11366
-Processor	1474,2387,7610,831,117,262,1753,1050,1359,3052
+Processor	1474,2387,7610,831,117,262,1753,1050,1359,3052,73
 Processor First	15484
 Processor INST-1108083D4A0 NAKURU Kenya	7167
 Processor INST-1108838FBD4 MACHAKOS Kenya	7167
@@ -3615,9 +3627,9 @@ Proposal Evaluation Procedure	19575
 Proposed Procedures for CDD Components	17180
 Proposta de Procedimento de Triagem de Projectos	11406
 Proyecto de Digitalización de Procedimientos	4209
-Public Procurement Procedures	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Public Procurement Procedures	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Public Procurement Procedures. Best	19924
-Public Sector Public Procurement Procedures Absence	10759,78,1315,188
+Public Sector Public Procurement Procedures Absence	10759,78,1315,188,7598
 Publication of Marketplace Listing Process	11995
 Purpose of Processing	13004
 Qualification Process	17534,1009
@@ -3673,6 +3685,7 @@ Reengenharia de Processos	11379
 Referral Processes	1988
 Register of Data Controllers and Data Processors	14524
 Registered Trustees Data Processor INST-89244198CC4 KAKAMEGA	7167
+Registration Procedure	19936
 Registration Process	12654
 Registration Processes	13644
 Registration Processes Overview Note	12216
@@ -3851,6 +3864,7 @@ Standard Operating Procedures. FDA	16853
 Standard Operating Procedures. Goal	17116
 Standard Operational Procedures	19520
 Standard of Procedures	1554
+Standardised Data Processing Agreement	19964
 Standards Operating Procedures	18478,22
 State-Owned Enterprise SOP Standard Operational Procedure	17105
 States GPU Graphics Processing Unit GSM	15164
@@ -3994,6 +4008,7 @@ Update Processes Regularly	12675
 Upheld Appeal Process Reject Amended Reject	10819
 Use Permit SOP Standard Operating Procedure	16843
 User Access Management Procedure	11986
+User Agencies and Data Processing	19964
 User Oprational Manuals and Procedures	19712
 Utilize Drawn Down Loan Proceeds	14546
 V. Overflight and Order-to-Land Operations and Procedures	18914

@@ -685,6 +685,8 @@ Distribution Register ZRCP	1988
 Distribution SGP	10975
 Distribution SRC	10975
 Distribution Sector Recovery Program	18186
+Distribution Service Charge	19976
+Distribution Service Charges	19976
 Distribution Standards	15659
 Distribution Supply Authority EGTC Electricity Generation	18537
 Distribution System	14867
@@ -695,6 +697,7 @@ Distribution Tendances	10975
 Distribution Transformers Loading	12358
 Distribution Unit PMC Preventive Maintenance Compliance	13185
 Distribution Utilise	14674
+Distribution Wheeling Charge	19976
 Distribution and Access Project	1538,16946
 Distribution and Access Project. Budget	1538
 Distribution and Density	19715
@@ -966,6 +969,7 @@ District Health Centers	16951
 District Health In- District Health Information	10780
 District Health Infonnation System	4301
 District Health Information Management System	15556
+District Health Information Management System II	19974
 District Health Information Software	771,441,7164,1812,690,3,38,498,586,22,27,9,135,1433,993,44,232,25,552,237,247,397,66,445,29,26,19,30,1561,399,295,58,339,303
 District Health Information Software DIEM	15475
 District Health Information Software and National Health	15833
@@ -1041,6 +1045,7 @@ District Municipality	8999,2987
 District National Registration Offices	17686
 District Number	16921,1888
 District OSR	13418
+District Office	19935
 District Officer	18467
 District Officers	7503,311,10686
 District Offices	2689
@@ -1065,6 +1070,7 @@ District Registration Officer for Amudat District	3005
 District Registration Officer for Busia District	3005
 District Registration Officers	13095
 District Registration Offices	12216,1,788,5444
+District Registration Review Committee	19935
 District Registry	18465
 District Registry Register District Land Registries	18465
 District Reports	14935
@@ -1217,7 +1223,7 @@ District of Rwanda. Figure	12328
 District- Level Factsheets	13040
 District-Level	3791
 District-led	13418
-District-level	3791,7342,1897,388
+District-level	3791,7342,1897,388,6556
 District. Article	17861
 District. Chaque	17861
 District. District	12440
@@ -1228,7 +1234,7 @@ District. The Committee	19520
 District. Un	17861
 District1	19413
 District14 CHAPTER	15085
-Districts	718,2090,578,405,1279,3929,2130,214,832,45,21,87,85,592,75,60,145,62,14,31,6,20,54,152,998,247,56,10,12,109,199,322,108,27,12,22,507,274,306,34,229,3,140,606,452,167,39,29,885,103,5,16,119,42,13,22,8,31
+Districts	718,2090,578,405,1279,3929,2130,214,832,45,21,87,85,592,75,60,145,62,14,31,6,20,54,152,998,247,56,10,12,109,199,322,108,27,12,22,507,274,306,34,229,3,140,606,452,167,39,29,885,103,5,16,119,42,13,22,8,31,198
 Districts APPENDIX Table	18464
 Districts Adolescent Birth Rate Total Fertility	18441
 Districts And Areas In Which Registration	12138
@@ -1410,6 +1416,7 @@ Electrical Transmission and Distribution Co. T-24 CORE	19584
 Electricity Distributer Organize	12399
 Electricity Distribution	12358,7238
 Electricity Distribution Companies of Nigeria	11129
+Electricity Distribution Company	19976
 Electricity Distribution Industry	11272
 Electricity Distribution Infrastructure	12256
 Electricity Distribution Law	15659
@@ -1883,7 +1890,8 @@ Mukono and Wakiso Districts	19715
 Mulheres Distribuição	10777
 Mulobezi District Commissioner	2386
 Mungwi and Kaputa Districts	13477
-Municipal and District Assemblies	7457,1617,5139,1,71,1816,152,221,122,1121
+Municipal and District Assemblies	7457,1617,5139,1,71,1816,152,221,122,1121,2220
+Municipal and District Assemblies MDAs Ministries	19937
 Municipal and District Assemblies ML Machine Learning	4126
 Municipal and District Chief Executives	15927,669
 Municipal and District Councils	14721,25,4999
@@ -1908,7 +1916,7 @@ NDFS Nutanix Distributed File System NDMP	13185
 NDMA-PR-10 Civil Disturbance	12977
 NDPC’s District Development Data Platform	15845
 NIA District Office	2689,13399
-NIA District Offices	3568
+NIA District Offices	3568,16367,1
 NIDA District Office	2119
 NIRA Deputy Director-General Abdirahman Said and District	2743
 NIRA District	1920
@@ -1963,6 +1971,7 @@ North West District	12618
 North West District.She	7672
 North-West District	19651
 Northern Electricity Distribution Company	15740,856
+Northern Electricity Distribution Company Limited	19976
 Northern Province and Chama District	13477
 Northern Regional Electricity Distribution Company	12399
 Nsue Coordinador Distrital de Nsork Ilmo. Sr	16920
@@ -2192,6 +2201,7 @@ Regional and District	10970,8550
 Regional and District Census Coordinators	19542
 Regional and District Commissioners	19616
 Regional and District Data	18441
+Regional and District Offices	19935
 Regional and District Offices. Having	18475
 Regional and Sex Distribution of Adults Regarding	12409
 Registrar Registrar of District Land Registry Public	18465
@@ -2305,6 +2315,7 @@ Selected Selected RITA Offices Regional Districts	19541
 Selected Wards of Affected Districts. Endline Report	13332
 Self-Provision Broadcasting Signal Distributor	6946
 Senatorial District	11976
+Sene East District	19959
 Sengerema District Council	19585
 Sentinel Panel of Districts	19544
 Service DHIS District Health Information System	396
@@ -2473,6 +2484,7 @@ World Cup Distribution Through Orange Deal	3437,3942,47
 XII POLICING REGIONS AND DISTRICTS	19772
 Xicheng District	15399
 YELLO DISTRIBUTION Traitement	10821
+Yendi District	19974
 Yola Electricity Distribution Plc	12062,6124,31
 ZIMBABWE DISTRIBUTED BY VERITAS	13470
 Zaghouan. District3	19413

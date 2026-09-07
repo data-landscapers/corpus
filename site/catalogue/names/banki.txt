@@ -12,10 +12,13 @@ African Average Banking CAR	6938
 African Average Banking NPL Ratio	6938
 African Average Banking ROA	6938
 African Banking Assets of GDP	6938
+African Banking Corporation	19980
 African Banking Corporation Limited	17626
 African Banking Corporation of Zimbabwe Limited	12252
-Agency Banking	11944
+Agency Banking	11944,7996
 Agency Banking Networks and Digitalization of MFI	19829
+Agency Banking Services	19940
+Agency Banking The Bank	19940
 Agent Banking	11469
 Agent Banking Advisory	11469
 Agent Banking Company	19716
@@ -122,10 +125,10 @@ Banking Sector Stress Test	17104,213
 Banking Sector Supervision	11131
 Banking Sector URL	14962
 Banking Service	11939
-Banking Services	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,2409,4755,1,169,14,22,1,65
+Banking Services	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,2409,4755,1,169,14,22,1,65,14,1
 Banking Services Absence of Undue Influence Freedom	10759
 Banking Services Achieve	11131
-Banking Services Labour Relations Secure Employment	10759,78,1315,188
+Banking Services Labour Relations Secure Employment	10759,78,1315,188,7598
 Banking Services Property Rights	10835,3,130,902,16,466,1,135,7334
 Banking Sidney Jele Legal	11131,3
 Banking Soundness Indicators	17909,81
@@ -191,6 +194,7 @@ COBAC Central African Banking Commission	16996
 COMMENCEMENT OF BANKING INSTITUTIONS ACT	12943
 CORE BANKING SYSTEM	19584
 CURRENCY AND BANKING OPERATIONS	15023
+Card Issuance Agency Banking Mobile Money	19940
 Cellphone Banking	12447,605
 Central African Banking Commission	10967,6005,24
 Central African States BARC Banking Institute	17235
@@ -201,6 +205,7 @@ Central Banking	8268,2863
 Central Banking Operations	2287
 Central Banking. Governor’s Town Hall CBE	11134
 Centre for Central Banking and Finance Pillar	11131,3
+Chat Banking	19940
 Chief Executive for Business and Commercial Banking	10459
 Chief Executive of Business&Commercial Banking	9720
 Class B Banking Licence	14717
@@ -214,6 +219,7 @@ Core Banking Application SP SQL SSA	17235
 Core Banking System	7783,30,79,10933,759,245
 Corporate and Investment Banking	8974
 Course Fundamentals of Central Banking Exchange Control	11131
+Credit POS Deployment Chat Banking Cheques	19940
 Cross-Border Banking Supervision Chaired	6938
 Cumulated RFR Banking Day	16219
 Currency Management and Banking Operations Department	12477
@@ -250,6 +256,7 @@ European Banking Authority	6938
 Expand Agent Banking Services Agent	8184
 Expand Digital Banking Licenses	4848
 Expand Mobile Banking Services	7386
+Expansion of Agency Banking	19940
 Expansion of Banking Services	17235
 Expansion of Banking Services The CBL	17235
 FCFA Banking	17833
@@ -280,6 +287,7 @@ INCOME ONLINE BANKING	11004
 INTERNET BANKING SUBSCRIBERS MOBILE BANKING SUBSCRIBERS	15130
 INVESTMENT BANKING Quest Merchant Bank Limited	5903
 Improved Banking Environment R1	16876
+Inclusive Banking	19948
 Initiative Description Horizon Banking	14997
 Interbank Banking Group of Central GIMAC Africa	18931
 Interbank Electronic Banking Group of Central	16942
@@ -288,14 +296,20 @@ Interest-Free Banking	10025
 International Banking Finance Institute	17235
 International Finance Corporation. Inclusive Banking	12231
 International Finance and Banking Law	12951
-Internet Banking	4695,7260,332,765,980,787,2088,926,1047
+Internet Banking	4695,7260,332,765,980,787,2088,926,1047,1060
+Internet Banking ATM	19940
 Internet Banking Carte	17833
 Internet Banking Interbank Large-Value	6938
 Internet Banking Mobile	15023
+Internet Banking Number of Customers Registered	19940
 Internet Banking PSPs	13314
+Internet Banking Services	19940
+Internet Banking Services Advancements	19940
 Internet Banking Subscribers	6978
 Internet Banking USA United States of America	15023
 Internet Banking and Standard Lesotho Bank App	12711
+Internet and Mobile Banking	19940
+Internet and Mobile Banking Internet Banking	19940
 Investment Banking	4041,2829,2955,1
 Investment Banking Licence	14728,2
 Investment Banking Luvuyo Masinda	9702
@@ -309,6 +323,7 @@ LEARNING HEALTH GOVERNMENT INCOME ONLINE BANKING	11964
 Launches Agency Banking Roll-Out	7964
 Location Contract Number Collection Banking	19585
 M Banking	15455
+MPOS Remote Cheque Deposit Whatsapp Banking	19940
 MTN Eyes Banking Licenses	19622
 Maintaining Adequate Banking Sector Achieve	11131
 Maintaining Banking Sector Adequate Liquidity Ratios	11131
@@ -317,10 +332,12 @@ Marketing Standard Bank Business and Commercial Banking	5247
 Markets and Banking Operations Directorate	15023
 Minimum Guaranteed Banking Service	10967
 Mobil Banking	3715
-Mobile Banking	3715,147,8628,834,1495,4883
+Mobile Banking	3715,147,8628,834,1495,4883,238
 Mobile Banking APP and Bank USSD	12287
 Mobile Banking Dominates DFS Access Age	15130
 Mobile Banking Mobile Payment Internet Banking	15023
+Mobile Banking Number of Customers Registered	19940
+Mobile Banking Services	19940
 Mobile Banking and Mobile Money Interoperability	19838
 Mobile Money and Banki Pafupi Agents	12182
 Mobile Payments and Transfers Internet and Mobile Banking	16942
@@ -344,6 +361,7 @@ National Treasury-owned SafetyWeb Banking System	10809
 Net Banking	12917
 Net Zero Banking Alliance and Net Zero	13532
 Nka Banki Nkuru	15102
+Non- Banking Financial Institutions and Payment Service	19948
 Non-Interest Banking	19608
 Non-Interest Banking Business	7763,11801,38
 OPEN BANKING	16942
@@ -359,6 +377,8 @@ Open Banking Guidelines	4848
 Open Banking Operational Guidelines	4848
 Open Banking Pilot	13092
 Open Banking Pilot Exercise	13092
+Open Banking Service Initiative	19940
+Open Banking Service Initiative Open Banking	19940
 Open Banking Standards	13092
 Open Banking and API	14819
 Open Banking and Open Data. Common	13532
@@ -387,6 +407,7 @@ RIGENGA BANKI NKURU Y’U RWANDA RÉPUBLIQUE	15102
 RIGENGA BANKI NKURU Y’U RWANDA TABLE	15102
 Regional Banking Commission	16942
 Regulatory Framework for Open Banking	11138
+Remittance Digital Micro Loans Agency Banking	19940
 Research and Statistics Department Banking Concentration	17236
 Risk-Free Rates Banking Day	16219
 Rwandan Banking Sector	14997
@@ -428,7 +449,10 @@ UMOA Banking Law	6938
 UN Net Zero Banking Alliance	13532
 Uganda’s Banking Sector Report	5343
 WAEMU Banking Commission	14203
-WhatsApp Banking	5054
+WhatsApp Banking	5054,14886
+WhatsApp Banking Financial	19940
+WhatsApp Banking Virtual Card Quick Response	19940
+Whatsapp Banking	19940
 Women's World Banking	70,987,422
 Women's World Banking. Neli Esipova	10977
 Women’s World Banking	4794

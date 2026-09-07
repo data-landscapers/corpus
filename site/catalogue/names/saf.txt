@@ -64,6 +64,7 @@ Africa. Safaricom	17727
 African Road Safety Charter	13123,5369
 African Road Safety Observatory	18492
 African Union Child Online Safety	1597
+African Union Child Online Safety and Empowerment	19957
 African Union Road Safety Charter	18492
 African Union's Child Online Safety and Empowerment	1597
 Afrique du Nord Safa Korti	5159
@@ -261,6 +262,7 @@ Data Protection Safeguards	12302,1074
 Data Protection Safeguards Alignment	14565
 Data Protection and Child Safety	6748
 Data Safeguarding and Averting Potential Corruption	13998
+Data Security Safeguards	19951
 Deemed Appropriate Safeguards	12302
 Defence and Public Safety	14664
 Department OSHA Occupational Safety and Health Authority	19585
@@ -981,8 +983,8 @@ SAFER	14622
 SAFER PATH FORWARD Regulated	13532
 SAFER. Résultat	14622
 SAFETTYRUST	14566
-SAFETY	10759,76,2,1,130,7,895,16,2,1,263,1,10,177,1,11,1,135,2078,1646,672,2768,1,169,14,22,1,65
-SAFETY ACCOUNTABILITY	10837,1503
+SAFETY	10759,76,2,1,130,7,895,16,2,1,263,1,10,177,1,11,1,135,2078,1646,672,2768,1,169,14,22,1,65,14,1
+SAFETY ACCOUNTABILITY	10837,1503,7598
 SAFETY AND ENVIRONMENT OBLIGATIONS	15149
 SAFETY AND SECURITY	12984,96
 SAFETY AND SECURITY ACCESS HANDSET DATA	11964
@@ -994,7 +996,7 @@ SAFETY AND SECURITY FUNDAMENTAL ENABLERS HANDSET	11004
 SAFETY AND SECURITY FUNDAMENTAL ENABLERS ONLY	11004
 SAFETY AND SECURITY Issues	18476
 SAFETY AND SECURITY Likelihood	12241
-SAFETY Absence of Armed Conflict	10759,78,1052,451
+SAFETY Absence of Armed Conflict	10759,78,1052,451,7598
 SAFETY Absence of Armed Conflict Absence of Violence	10759
 SAFETY EDUCATION HEALTH Rank	10968
 SAFETY FOUNDATIONS FOR ECONOMIC OPPORTUNITY Absence	10835,3,130,902,16,466,1,135,7334
@@ -1003,7 +1005,7 @@ SAFETY NETS AND BASIC SERVICES	11525
 SAFETY POTENTIAL IMPACT ON THE PROJECT	17099
 SAFETY PRECAUTIONS	14778
 SAFETY RURAL ECONOMY	12488
-SAFETY Rank	10759,78,1033,470
+SAFETY Rank	10759,78,1033,470,7598
 SAFETY SOCIAL PROTECTION Rank	10838
 SAFETY WOMEN’S EQUALITY	10835
 SAFEX	16331
@@ -1245,7 +1247,7 @@ Safeguarding Trust and Managing Risks	8282
 Safeguarding of Funds	12542
 Safeguarding the Digital Frontier Early	19728
 Safeguarding the National Research Mandate The Committee	1554
-Safeguards	1204,2657,1252,173,70,768,1424,2158,149,302,807,192,369,330,8,93,258,39,191,536,62,38,266,1219,269,54,5,72,199,247,100,148,143,181,943,34,297,65,119,62,215,27,1142
+Safeguards	1204,2657,1252,173,70,768,1424,2158,149,302,807,192,369,330,8,93,258,39,191,536,62,38,266,1219,269,54,5,72,199,247,100,148,143,181,943,34,297,65,119,62,215,27,1142,1064
 Safeguards Advisor AFTOS Nathalie Munzberg Senior	18887
 Safeguards Advisor Nathalie S. Munzberg	12137
 Safeguards Ato Abrham Abebe	12195
@@ -1271,8 +1273,8 @@ Safer Digital Future Through Regional Cyber	13880
 Safer Internet Day	5551
 Safer Schools Programme	11285
 SaferAI	8014
-Safety	1554,434,689,1906,1082,928,200,245,509,1,424,171,570,410,78,245,409,24,880,4,72,2,1,118,7,1,4,17,19,13,33,81,3,4,18,37,48,9,19,256,53,7,270,2,13,16,1,1,1,13,54,8,98,90,1,1,9,90,87,1,11,1,14,108,13,697,53,82,65,2,262,424,349,172,142,16,131,38,106,54,57,11,425,84,187,367,569,67,36,16,26,8,8,172,146,646,198,82,31,141,12,60,46,159,287,8,49,258,338,77,1,77,16,3,73,14,22,1,43,22
-Safety Accountability	10837,1052,263,11,177,1,7312
+Safety	1554,434,689,1906,1082,928,200,245,509,1,424,171,570,410,78,245,409,24,880,4,72,2,1,118,7,1,4,17,19,13,33,81,3,4,18,37,48,9,19,256,53,7,270,2,13,16,1,1,1,13,54,8,98,90,1,1,9,90,87,1,11,1,14,108,13,697,53,82,65,2,262,424,349,172,142,16,131,38,106,54,57,11,425,84,187,367,569,67,36,16,26,8,8,172,146,646,198,82,31,141,12,60,46,159,287,8,49,258,338,77,1,77,16,3,73,14,22,1,43,22,14,1,27
+Safety Accountability	10837,1052,263,11,177,1,7312,285
 Safety Across	11585
 Safety Act	1988
 Safety Act No	1988
@@ -1350,7 +1352,7 @@ Safety Re-imagination Programme	7060
 Safety Regulations	12389
 Safety Requirements	14736,38
 Safety Rs	14830
-Safety Rule of Law	10759,78,1315,2,186
+Safety Rule of Law	10759,78,1315,2,186,7598
 Safety Signs	14778
 Safety Small-volume	17114
 Safety Standards	13206
@@ -1444,6 +1446,7 @@ Scale Up Safety Nets	10763
 Second Adaptive Safety Net Project	18198
 Sectoral and Institutional Context Social Safety Nets	10963
 Secure and Safe Digital Ecosystem OBJECTIVE	12674
+Security Safeguards Evaluate the CSP	19968
 Security and Safety	7538,8307
 Security and Safety Adopting	16212
 Senegal Adaptive Safety Net Project World	18300
@@ -1488,8 +1491,8 @@ Social Safety Net System Project	17849
 Social Safety Net System Project II	17904
 Social Safety Net The Social Safety	10812
 Social Safety Net Unit	18198
-Social Safety Nets	3604,7155,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,476,2555,144,68,1221,897,276,345,1182,1,169,14,22,1,65
-Social Safety Nets Poverty Reduction Policies	10837,1315,188
+Social Safety Nets	3604,7155,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,476,2555,144,68,1221,897,276,345,1182,1,169,14,22,1,65,14,1
+Social Safety Nets Poverty Reduction Policies	10837,1315,188,7598
 Social Safety Nets Project	14553,1048,57,855,447,297,2379
 Social Safety Nets Social	12964
 Social Safety Programmes	12978
@@ -1593,7 +1596,7 @@ WACA and SAF	18787
 WARDIP-SOP2 Liberia Environment Health Safety and Social	17114
 WCO SAFE Framework	13042
 WCO SAFE Framework. Instead	13042
-WELFARE Social Safety Nets	10759,78,1052,451
+WELFARE Social Safety Nets	10759,78,1052,451,7598
 Wali Khalid Safir	557
 Waste Management Health Safety and Security Disaster	18476
 Women Entrepreneurs Learn Safe Digital Business	11033

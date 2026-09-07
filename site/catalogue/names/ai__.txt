@@ -110,6 +110,7 @@ AI Armory and Defense	16813
 AI Artificial	11050,83,7946
 AI Artificial Intelligence	3184,1,1340,6470,970
 AI Artificial Intelligence ADM Add	12006
+AI Artificial Intelligence API Application Programming	19940
 AI Artificial Intelligence ARC Academic Research	14747
 AI Artificial Intelligence ART Antiretroviral Therapy	396
 AI Artificial Intelligence ASN Autonomous System	12427
@@ -439,7 +440,7 @@ AI Hub Taxonomy and Global Evidence Review	11156
 AI Hub for Sustainable Development	3604,3456,3655,2946,2385
 AI Hub for Sustainable Development Initiative	3604
 AI Hub for Sustainable Development and Head of Digital	13661
-AI Hub of Africa	3582
+AI Hub of Africa	3582,16376
 AI Hubs	4126
 AI Humanitarian Systems	7147
 AI Hype Cycle	2816
@@ -1120,6 +1121,7 @@ AI for Social Good	13021
 AI for Sub-Saharan Africa	11140
 AI for Sustainability	12675
 AI for Sustainable Development	4038,9057
+AI for Sustainable Youth Development	19957
 AI for TB	19062
 AI for TB Screening	19062
 AI for Tomorrow	4028
@@ -1508,6 +1510,7 @@ African Union Development Agency. AI	6948
 African Union's AI	1965
 African Union's AI Agenda	12512
 African Union's Continental AI Strategy	8301,1909,2899
+African Union's Continental AI Strategy. Ghana	19957
 African Union’s AI	12356
 African Union’s AI Agenda	4528
 African Union’s AI Strategy and UNESCO’s AI	12356
@@ -1905,7 +1908,7 @@ Contemporary AI	7451
 Context Digital Infrastructure AI Vision	14566
 Contextual AI Ethic	8991
 Continental AI	1814
-Continental AI Strategy	1814,2875,403,210,116,407,216,14,195,17,316,20,394,329,262,90,3457,130,3409,1372
+Continental AI Strategy	1814,2875,403,210,116,407,216,14,195,17,316,20,394,329,262,90,3457,130,3409,1372,3911
 Continental AI Strategy. Civil	8143
 Continental African AI	7548
 Continental Artificial Intelligence Strategy Harnessing AI	1814,863
@@ -2079,6 +2082,7 @@ Different AI Question Much	8091
 Diffusion of AI Mariana Dahan	11310
 Diffusion of European AI	17780
 Digital Control A National AI Computing	5970
+Digital Cooperation Organization Generative AI Initiative	19957
 Digital Economy The Kenya AI	7548
 Digital Economy and AI Kenya	10805
 Digital Economy’s Announcement The National AI	2359
@@ -2120,6 +2124,7 @@ Drive National AI Adoption CBZ Bank	5403
 Driving AI Transformation	11994
 Driving Inclusive and Trustworthy AI	19298
 Driving Inclusive and Trustworthy AI URL	19298
+Drones and AI	19966
 Duet AI	1267
 E-I14-A1 AI VC Awareness Program Egypt	15713
 E-I14-A2 AI Investment Communication Platform Egypt	15713
@@ -2304,6 +2309,7 @@ Engage Stakeholders AI	12675
 Engaging AI	15321
 English AI	1720
 English. Realizing AI	10727
+Enhance AI	19966
 Enhancement of AI Education and Research	17884
 Ensure AI	1814,2714,7828,156,163,7126
 Ensure Data Center Sustainability Supports for AI	15713
@@ -2360,6 +2366,7 @@ Ethical AI Adoption Framework	14812
 Ethical AI Framework and Implementation Ubuntu-Centred AI	4528,7984
 Ethical AI Governance	14674
 Ethical AI Policy Framework	14812
+Ethical AI Readiness Assessment Measurement	19957
 Ethical AI for Development	4528
 Ethical Challenge. In AI	2518
 Ethical Commitment and International Alignment Embracing AI	12356
@@ -2529,6 +2536,7 @@ G-O7 Unified Arab AI	15713
 G. A Pragmatic AI Agenda	11140
 G. AI	14391
 G20 AI Guidelines	7678
+G20 AI Principles	19966
 G20. Using AI	2526
 G7 AI Hub	5095
 G7-backed AI Hub for Sustainable Development	5095
@@ -2551,6 +2559,7 @@ GPU and AI	7548
 GPU-intensive AI	6735
 GSMA and French AI	8552
 GSMA's African AI	6593
+GSMA's Responsible AI	19966
 GSMA-led AI Language Models Initiative	14093
 GTEC AI STICY	6936
 GUDRA AI	4126
@@ -2607,11 +2616,12 @@ Ghana AI Summit and Awards	8363
 Ghana Chamber Ghana’s National AI Fund	4126
 Ghana Digital Centres Limitied AI Lab	4126
 Ghana Enterprise AI	4126
-Ghana Launches National AI Strategy	5935
+Ghana Launches National AI Strategy	5935,14023
 Ghana Motivations for AI	6948
 Ghana National AI Strategy	8548
 Ghana National AI Strategy. The RAI	4126
 Ghana Tech Lab’s National AI Training	4126
+Ghana the AI Hub of Africa	19958
 Ghana's AI	5227,829,177
 Ghana's AI Strategy	5970
 Ghana's National AI Strategy	5701,269
@@ -2915,6 +2925,7 @@ Inclusive AI	1814,3281,2453,8165
 Inclusive AI Development	4528,7984
 Inclusive and Diverse AI Start-up and Enterprise Ecosystem	1814
 Inclusive and Resilient Development AI	4528,7984
+Inclusive and Sustainable AI	19957
 Inclusive and Sustainable AI for People	4583
 Inclusivity and Impartiality AI	2958
 Inclusivity. The AI Governance Framework	16212
@@ -3451,7 +3462,7 @@ National AI Strategic Implementation Plan	11230
 National AI Strategic and AI Delivery Unit	14674
 National AI Strategies	1814,5774,3547,1075,4002
 National AI Strategies. AI	11135
-National AI Strategy	2557,129,85,483,29,83,190,19,29,130,26,349,17,402,445,254,159,25,188,102,92,139,2,12,95,164,28,144,3,62,141,20,189,755,1,462,78,152,92,31,55,612,174,12,335,306,215,138,36,55,834,3,301,339,144,288,31,115,156,568,15,18,330,189,31,677,225,1,108,1039,156,67,110,85,71,10,43,33,2071,215,266,1045
+National AI Strategy	2557,129,85,483,29,83,190,19,29,130,26,349,17,402,445,254,159,25,188,102,92,139,2,12,95,164,28,144,3,62,141,20,189,755,1,462,78,152,92,31,55,612,174,12,335,306,215,138,36,55,834,3,301,339,144,288,31,115,156,568,15,18,330,189,31,677,225,1,108,1039,156,67,110,85,71,10,43,33,2071,215,266,1045,72,1
 National AI Strategy Committee	9511
 National AI Strategy Date	6440
 National AI Strategy Ecosystem Category	4528
@@ -3460,6 +3471,7 @@ National AI Strategy Framework	19609
 National AI Strategy Kenya	12210
 National AI Strategy National AI Strategy	11135
 National AI Strategy National Strategy for AI	11135
+National AI Strategy Stakeholder Consultation Forum	19958
 National AI Strategy and Data Centre Blueprint	14198
 National AI Strategy and FAIR Guidelines	14781
 National AI Strategy and National Data Governance	3604
@@ -3659,6 +3671,7 @@ Pan-African AI	11095
 Pan-African Green AI and Robotics Data Centre	3954
 Pan-Canadian AI Strategy	17780
 Pan-Canadian Artificial Intelligence Strategy AI Technology	11135
+Paris AI Action Summit	19957
 Paris AI Community	18039
 Part of National AI Push Lenovo	5403,1506
 Part of National AI Push NetOne Turns	3965
@@ -3879,7 +3892,7 @@ Responsible AI Governance Index	9574
 Responsible AI Guidance. Pathways Select	11345
 Responsible AI Network-Africa	12926
 Responsible AI Nigeria	3006,127,809
-Responsible AI Office	4126,1101,474,340
+Responsible AI Office	4126,1101,474,340,13916
 Responsible AI Starlink	4423
 Responsible AI Through Collaboration	2732
 Responsible AI Why Kenya	2329,88,121,474,568,2300
@@ -4139,7 +4152,7 @@ Strengthen AI Capacity	12723
 Strengthen AI Skills Under Digital	7488
 Strengthen Digital Infrastructure for AI and MoCDTI	4126
 Strengthen Establish AI Ethics Hubs	4126
-Strengthening AI	4528,7984,2054
+Strengthening AI	4528,7984,2054,5400
 Strengthening AI Leaders	14566
 Strengthening Rwanda's AI	8674
 Strengthening Young Africa’s AI Skills Authors	6948

@@ -152,7 +152,7 @@ African Freedom for Information Center	19641
 African Information Society Initiative	12896,3965
 African Institute of Informatics	15447,106
 African Journal of Information Systems	8856
-African Journal of Information and Communication	12948
+African Journal of Information and Communication	12948,6996
 African Network Information Center	15120
 African Network Information Centre	585,1334,6947,943,1991,23,4722
 African Network of Information Commissions General Assembly	13030
@@ -310,7 +310,7 @@ BEAM Management Information System	13420
 BIKERS INFORMATION MANAGEMENT SYSTEM Data Controller	7167
 BIKERS INFORMATION MANAGEMENT SYSTEM Data Processor	7167
 BIOMETRIC INFORMATION	16841
-BMC Med Inform Decis Mak	1219,2572,6993,1462,9,124
+BMC Med Inform Decis Mak	1219,2572,6993,1462,9,124,7595
 BMC Medical Informatics and Decision Making	8604,2,2550,1223
 BMJ Health Care Inform	3791
 BO Information	14016
@@ -332,6 +332,7 @@ Background and Informational Materials PART	15080
 Bahrain Further Information AILA	13661
 Bank Supervision and Information Security	11131
 Bank for Reconstruction and Development IDA IFC Information	16144
+Bank of Ghana Cyber and Information Security Directive	19968
 Bank of Ghana’s Cyber and Information Security Directive	6940
 Banked Informal	418
 Banker’s Information ABSA Business Banking PO	11250
@@ -354,6 +355,8 @@ Billing and Debt Management Information System	19584
 Biological Diversity GIS Geographic Information System	15129
 Bissau More Information	17245
 Blaya J. Information	10784
+BoG Cyber and Information Security Directive	19968
+BoG’s Cyber and Information Security Directive	19968
 Board HIS Health Information System HSNP	2775
 Board POPIA Protection of Personal Information Act	5246
 Board-level Information Risk Owner	19801
@@ -660,7 +663,7 @@ Collective Responsibility Information	19801
 College of Computing and Information Sciences	5413,12322
 College of Information Technology NCHE National Council	12917
 Colombia Civil Registry Information System	10714
-Columbia Center for International Earth Science Information	10759,78,1050,2,264,1,9,177,1,7517,1
+Columbia Center for International Earth Science Information	10759,78,1050,2,264,1,9,177,1,7517,1,79
 Comments The Ministry of Information and Civic	18499
 Commercial Registry Information System	11939
 Commercial and Regulatory Trade-related Information Systems	19582
@@ -1022,6 +1025,7 @@ Department’s Objectives The Department of Information	12971
 Dept. of Information and Communications Technology	11529
 Deputy Director Information Technology	13361
 Deputy Director-Generalfor Information and Coordinationshall	16833
+Deputy Directors of Information Systems	19967
 Deputy Information Commissioner	13096
 Deputy Information Officer	11896,88
 Deputy Information Officers	11984
@@ -1174,6 +1178,7 @@ District City Formal Informal Microestablishment	15085
 District Education Management Information Systems Officers	12175
 District Health In- District Health Information	10780
 District Health Information Management System	15556
+District Health Information Management System II	19974
 District Health Information Software	771,441,7164,1812,690,3,38,498,586,22,27,9,135,1433,993,44,232,25,552,237,247,397,66,445,29,26,19,30,1561,399,295,58,339,303
 District Health Information Software DIEM	15475
 District Health Information Software and National Health	15833
@@ -1352,7 +1357,7 @@ Electronic Health Information Network	12241
 Electronic Health Information Network Corruption Bureau	12241
 Electronic Health Information System	18921
 Electronic Information Systems Management Advisory Council	12919,63
-Electronic Journal of Information Systems	5349,5377,7024,1
+Electronic Journal of Information Systems	5349,5377,7024,1,2193
 Electronic Logistics Management Information System	1261,11345,581,3784,1507,201
 Electronic Management Information Systems	18628
 Electronic Pharmaceutical Management Information System	4349
@@ -1400,10 +1405,11 @@ Enhancing Health Information Systems	10776
 Ensure Proper Protection of Data and Information Security	34
 Ensuring the Integrity and Continuity of Information	16885
 Enterprise Geographic Information System	3101
-Enterprise Land Information System	16410,101
+Enterprise Land Information System	16410,101,3470
 Enterprise Land Information System GELIS	15657
 Entertainment Advertising Information Services Software	1944
 Entidade Reguladora de Tecnologias de Informação	6970
+Entity Information Search	19961
 Entry Level GIAC Information Security Fundamentals	15662
 Envio de Informação	15380
 Environmental Informatics	17255
@@ -1559,6 +1565,7 @@ Financial Reporting and Ongoing Information	4896
 Financial and Information Barriers	12376
 Financials and Information Technology	4972
 Finanças. O Instituto Nacional de Tecnologias de Informação	2784
+Find ORC Services and Information	19961
 Finland Finnish Population Information System	10714
 First-Out GePG Government Asset Management Information	19585
 Fiscal Information	11866
@@ -1626,6 +1633,7 @@ Freedom of Information Open	14752
 Freedom of Information P I L L	14752
 Freedom of Information and Censorship of Content	6949,2
 Freedom of Information and Expression	14742
+FulltextThesis.pdf Heeks R. Information	19944
 Functions and Powers of Information Commissioner	16840
 Fund Critical Information Infrastructure	587
 Fund Gross Domestic Product Geographic Information	13290
@@ -1633,7 +1641,7 @@ Fund ISMS Information Security Management System	15023
 Fund IT Information Technology KfW German	18293
 Fund MTRI Information Technology MTRS Large	12500
 Fund. Critical Information Infrastructure Designation	587
-Further Information	4896,7027,268,1470
+Further Information	4896,7027,268,1470,6282
 Further Information Further	1246
 Future of National Information Platform for Nutrition	13578
 Fórum Internacional de Tecnologias de Informação	6617,2,11009
@@ -1751,11 +1759,14 @@ Gestão de Projetos Informáticos	12019
 Gestão de Sistema de Informação Sanitária	18768
 GhILMIS Ghana Integrated Logistics Management Information	15556
 Ghana Agricultural Information and Monitoring System	9561
+Ghana Card. Information	19934
+Ghana Enterprise Land Information System	19981
 Ghana Enterprise Land Information System LC	15657
 Ghana Health Information Management System	3833,12061
 Ghana Integrated Financial Management Information System	15790,55
 Ghana Integrated Social Protection Information System	16600
 Ghana Integrated Tax Management and Information System	10522,102
+Ghana Labour Management Information System	19973
 Ghana Link's Information Security Management System	16170
 Ghana. Technical Information The NCA	9109
 Gigahertz HMIS Health Management Information System	34
@@ -2454,7 +2465,7 @@ Informatik	9237
 Informatika	14412
 Informatikai Kft. Consilia ApS AustriaContent Moss	8530
 Informatio	19633
-Information	1,2,9,5,4,1,4,1,1,6,15,161,26,72,120,8,98,13,18,17,5,150,6,5,14,4,3,2,4,8,116,41,18,11,3,28,9,51,17,108,2,27,17,5,25,23,1,1,47,124,97,44,5,35,11,129,23,6,7,2,2,19,40,29,143,44,3,58,170,18,76,33,63,116,5,25,35,14,18,6,42,26,54,37,21,18,20,7,3,162,1,37,23,1,10,110,28,4,3,1,14,1,19,20,24,56,37,71,21,110,1,67,9,70,1,25,80,18,4,26,75,36,44,44,32,9,18,24,28,17,42,1,17,22,65,36,120,108,38,32,58,1,54,81,96,131,3,102,25,6,60,162,15,60,23,33,81,16,3,214,1,77,150,133,15,48,41,81,7,32,106,54,1,78,63,8,4,2,21,18,13,20,61,70,6,26,95,29,39,34,42,17,12,63,34,114,6,6,13,37,35,46,40,41,54,15,38,29,36,72,47,37,58,11,53,12,39,49,24,47,61,34,1,1,1,1,64,170,20,2,1,98,17,89,7,8,41,88,1,9,16,27,23,37,9,9,64,10,93,88,3,53,7,8,71,116,35,2,178,24,8,114,2,54,13,168,79,69,10,46,44,7,4,2,4,3,8,36,10,5,13,16,3,2,5,2,8,2,5,4,4,18,3,1,9,1,16,3,1,1,1,5,1,1,1,1,4,10,4,15,4,4,21,5,1,2,18,10,1,11,11,22,45,34,1,9,12,27,1,2,3,12,2,20,10,5,17,9,10,2,70,8,68,22,78,12,24,27,9,29,12,64,159,2,9,9,7,4,1,10,1,9,13,6,4,4,8,1,3,12,9,2,9,10,61,7,74,4,6,13,8,1,25,3,13,1,3,27,8,6,7,49,18,5,2,10,1,13,5,3,1,1,15,13,11,3,10,6,26,22,20,13,12,20,10,6,1,13,86,3,23,1,18,15,12,39,109,38,1,10,1,1,3,6,2,11,1,6,8,3,3,9,1,1,4,10,18,25,7,5,9,2,18,31,21,1,4,4,53,65,17,9,4,10,5,6,5,4,2,2,5,2,1,1,4,4,1,1,8,5,6,7,16,1,3,6,10,19,2,2,24,19,18,5,22,28,21,35,38,10,11,6,3,15,7,25,12,1,1,3,7,8,11,1,22,9,1,2,7,6,3,5,2,1,1,5,23,19,6,3,4,4,47,23,12,10,38,29,36,6,69,42,115,31,17,35,2,39,2,6,3,7,1,2,5,10,3,10,16,1,1,8,26,4,9,2,7,3,16,8,21,37,27,55,29,2,3,3,2,4,24,39,6,3,3,5,4,10,4,7,1,3,2,3,9,1,11,2,3,1,22,2,44,16,3,72,24,5,35,6,3,20,12,45,41,17,48,30,15,6,10,3,2,11,5,5,12,12,1,1,6,3,12,1,4,7,14,1,2,4,1,5,2,1,5,3,16,1,4,1,5,5,13,1,11,2,1,10,8,5,4,12,4,5,4,10,3,6,4,1,3,2,1,1,4,15,1,2,2,10,1,4,2,5,1,15,9,1,1,8,4,3,11,5,4,12,10,9,11,12,27,17,5,51,2,5,13,9,6,7,7,17,6,61,36,5,17,1,6,4,2,7,18,14,28,3,20,8,24,1,2,11,8,1,45,75,4,1,7,2,5,84,13,9,3,29,3,70,3,12,1,1,2,1,6,1,1,6,5,2,11,59,3,11,6,101,1,2,4,1,3,1,4,3,1,6,2,1,2,4,5,6,7,15,15,6,1,2,2,16,1,6,2,1,3,3,2,8,2,2,45,1,50,29,2,6,9,13,12,1,9,8,8,78,6,40,41,21,43,38,5,4,1,6,10,2,40,105,47,21,98,9,37,2,4,1,2,1,1,1,1,1,1,1,3,5,1,2,1,10,1,4,1,8,1,3,1,5,3,3,14,3,5,9,10,20,4,15,1,12,4,1,20,6,23,8,7,3,1,26,13,10,4,1,1,3,3,4,2,1,2,2,4,8,2,4,2,1,13,1,6,1,5,1,7,2,12,2,2,8,4,2,12,5,4,4,1,3,10,1,2,1,12,21,5,1,1,4,1,6,3,2,2,8,2,6,10,2,15,4,12,30,2,1,16,3,10,3,3,3,1,3,9,3,3,2,7,1,8,7,5,10,10,11,15,6,10,4,14,3,5,6,13,27,51,16,31,48,6,1,61,49,10,5,2,3,3,1,7,7,1,5,52,2,40,7,6,4,9,4,10,9,10,29,51,3,6,1,2,37,3,3,7,58,27,7,37,5,3,3,6,3,36,6,93,2,3,4,7,1,7,7,1,15,19,52,1,5,5,1,1,4,1,41,28,30,14,35,7,1,12,20,1,27,3,24,41
+Information	1,2,9,5,4,1,4,1,1,6,15,161,26,72,120,8,98,13,18,17,5,150,6,5,14,4,3,2,4,8,116,41,18,11,3,28,9,51,17,108,2,27,17,5,25,23,1,1,47,124,97,44,5,35,11,129,23,6,7,2,2,19,40,29,143,44,3,58,170,18,76,33,63,116,5,25,35,14,18,6,42,26,54,37,21,18,20,7,3,162,1,37,23,1,10,110,28,4,3,1,14,1,19,20,24,56,37,71,21,110,1,67,9,70,1,25,80,18,4,26,75,36,44,44,32,9,18,24,28,17,42,1,17,22,65,36,120,108,38,32,58,1,54,81,96,131,3,102,25,6,60,162,15,60,23,33,81,16,3,214,1,77,150,133,15,48,41,81,7,32,106,54,1,78,63,8,4,2,21,18,13,20,61,70,6,26,95,29,39,34,42,17,12,63,34,114,6,6,13,37,35,46,40,41,54,15,38,29,36,72,47,37,58,11,53,12,39,49,24,47,61,34,1,1,1,1,64,170,20,2,1,98,17,89,7,8,41,88,1,9,16,27,23,37,9,9,64,10,93,88,3,53,7,8,71,116,35,2,178,24,8,114,2,54,13,168,79,69,10,46,44,7,4,2,4,3,8,36,10,5,13,16,3,2,5,2,8,2,5,4,4,18,3,1,9,1,16,3,1,1,1,5,1,1,1,1,4,10,4,15,4,4,21,5,1,2,18,10,1,11,11,22,45,34,1,9,12,27,1,2,3,12,2,20,10,5,17,9,10,2,70,8,68,22,78,12,24,27,9,29,12,64,159,2,9,9,7,4,1,10,1,9,13,6,4,4,8,1,3,12,9,2,9,10,61,7,74,4,6,13,8,1,25,3,13,1,3,27,8,6,7,49,18,5,2,10,1,13,5,3,1,1,15,13,11,3,10,6,26,22,20,13,12,20,10,6,1,13,86,3,23,1,18,15,12,39,109,38,1,10,1,1,3,6,2,11,1,6,8,3,3,9,1,1,4,10,18,25,7,5,9,2,18,31,21,1,4,4,53,65,17,9,4,10,5,6,5,4,2,2,5,2,1,1,4,4,1,1,8,5,6,7,16,1,3,6,10,19,2,2,24,19,18,5,22,28,21,35,38,10,11,6,3,15,7,25,12,1,1,3,7,8,11,1,22,9,1,2,7,6,3,5,2,1,1,5,23,19,6,3,4,4,47,23,12,10,38,29,36,6,69,42,115,31,17,35,2,39,2,6,3,7,1,2,5,10,3,10,16,1,1,8,26,4,9,2,7,3,16,8,21,37,27,55,29,2,3,3,2,4,24,39,6,3,3,5,4,10,4,7,1,3,2,3,9,1,11,2,3,1,22,2,44,16,3,72,24,5,35,6,3,20,12,45,41,17,48,30,15,6,10,3,2,11,5,5,12,12,1,1,6,3,12,1,4,7,14,1,2,4,1,5,2,1,5,3,16,1,4,1,5,5,13,1,11,2,1,10,8,5,4,12,4,5,4,10,3,6,4,1,3,2,1,1,4,15,1,2,2,10,1,4,2,5,1,15,9,1,1,8,4,3,11,5,4,12,10,9,11,12,27,17,5,51,2,5,13,9,6,7,7,17,6,61,36,5,17,1,6,4,2,7,18,14,28,3,20,8,24,1,2,11,8,1,45,75,4,1,7,2,5,84,13,9,3,29,3,70,3,12,1,1,2,1,6,1,1,6,5,2,11,59,3,11,6,101,1,2,4,1,3,1,4,3,1,6,2,1,2,4,5,6,7,15,15,6,1,2,2,16,1,6,2,1,3,3,2,8,2,2,45,1,50,29,2,6,9,13,12,1,9,8,8,78,6,40,41,21,43,38,5,4,1,6,10,2,40,105,47,21,98,9,37,2,4,1,2,1,1,1,1,1,1,1,3,5,1,2,1,10,1,4,1,8,1,3,1,5,3,3,14,3,5,9,10,20,4,15,1,12,4,1,20,6,23,8,7,3,1,26,13,10,4,1,1,3,3,4,2,1,2,2,4,8,2,4,2,1,13,1,6,1,5,1,7,2,12,2,2,8,4,2,12,5,4,4,1,3,10,1,2,1,12,21,5,1,1,4,1,6,3,2,2,8,2,6,10,2,15,4,12,30,2,1,16,3,10,3,3,3,1,3,9,3,3,2,7,1,8,7,5,10,10,11,15,6,10,4,14,3,5,6,13,27,51,16,31,48,6,1,61,49,10,5,2,3,3,1,7,7,1,5,52,2,40,7,6,4,9,4,10,9,10,29,51,3,6,1,2,37,3,3,7,58,27,7,37,5,3,3,6,3,36,6,93,2,3,4,7,1,7,7,1,15,19,52,1,5,5,1,1,4,1,41,28,30,14,35,7,1,12,20,1,27,3,24,41,7,14,1,14,6
 Information AMCD Accès	15493
 Information ANDE	16641
 Information APDP Autorité de Protection des Données	15583
@@ -2466,7 +2477,7 @@ Information ATS Agent Technique	15479
 Information Access	6793
 Information Access Beyond	13649
 Information Accessibility	17401
-Information Act	587,212,210,16,308,141,131,132,202,60,118,1597,216,32,164,606,801,191,82,318,559,317,832,1242,160,79,796,171,835,64,2,9,6,69,608,113,61,129,372,1,13,4,343,73,48,18,48,6,26,224,64,68,196,544,133,53,118,33,33,5,74,259,380,30,594,1003,1965,138,470,116,14,159,13
+Information Act	587,212,210,16,308,141,131,132,202,60,118,1597,216,32,164,606,801,191,82,318,559,317,832,1242,160,79,796,171,835,64,2,9,6,69,608,113,61,129,372,1,13,4,343,73,48,18,48,6,26,224,64,68,196,544,133,53,118,33,33,5,74,259,380,30,594,1003,1965,138,470,116,14,159,13,123
 Information Act AU	5244
 Information Act. Mr. Mohwasa	3360
 Information Act. South Africa Corporate	6683
@@ -2951,7 +2962,7 @@ Information Socia	17827
 Information Social	17845
 Information Sociale	17845
 Information Sociale M. Samuel Michel Yameogo	10812
-Information Society	437,521,3,1612,202,1191,1649,1021,312,49,41,11,86,54,14,15,10,200,448,237,777,55,1826,668,90,344,18,18,56,931,17,301,81,1428,6,13,111,519,218,456,449,377,899,99,853,44,5,113,2,358,120
+Information Society	437,521,3,1612,202,1191,1649,1021,312,49,41,11,86,54,14,15,10,200,448,237,777,55,1826,668,90,344,18,18,56,931,17,301,81,1428,6,13,111,519,218,456,449,377,899,99,853,44,5,113,2,358,120,579
 Information Society Authority	6041
 Information Society Authority RURA Rwanda Utilities	1204
 Information Society Award	1888
@@ -3041,13 +3052,13 @@ Information System and Social Action Management	10763
 Information System for Birth Registration	10812
 Information System for Development Repositories	15621
 Information System for Education Management	17870
-Information Systems	34,966,9,239,13,2866,305,917,351,3537,823,1096,723,48,12,16,406,28,365,72,749,1,105,504,712,183,10,2347,337,535,169,433,20,306,282,65,341
-Information Systems Audit	19584
+Information Systems	34,966,9,239,13,2866,305,917,351,3537,823,1096,723,48,12,16,406,28,365,72,749,1,105,504,712,183,10,2347,337,535,169,433,20,306,282,65,341,19
+Information Systems Audit	19584,383
 Information Systems Audit and Control Association	9237,1179,13
 Information Systems Center	19900
 Information Systems Continuity Management	19513,63
 Information Systems Design	15080
-Information Systems Frontiers	11156
+Information Systems Frontiers	11156,8788
 Information Systems ICT Hyogo Framework of Action	19520
 Information Systems IT Architecture and Projects Risk	15023
 Information Systems Journal	226,1867
@@ -3167,7 +3178,7 @@ Information Technology and Innovations Division	14843
 Information Technology and Learning	16366
 Information Technology and Media	4583,8748
 Information Technology and Social Communication	2411
-Information Technology for Development	1248,3184,4697,1597
+Information Technology for Development	1248,3184,4697,1597,9218
 Information Technology. Additional	18670
 Information Technology. Conditions	15340
 Information Technology. International Journal of Innovations	11265
@@ -3188,6 +3199,7 @@ Information Unit	3930,15112
 Information Use	18628
 Information Utilised	4896
 Information Visit	14667
+Information WACSI West Africa Civil Society	19937
 Information Warfare	1000,785,1417,3881
 Information Warfare and Intelligence	1786,1417,3881
 Information Young Kenyans	899
@@ -4164,7 +4176,7 @@ Management Information System PMO-LYED Prime Minister	19584
 Management Information System Unit of Measure Baseline	15601
 Management Information System Wami	19584
 Management Information System for Social Assistance	1371
-Management Information Systems	12453,892,294,877,344,1018,722,360,275,1403,999
+Management Information Systems	12453,892,294,877,344,1018,722,360,275,1403,999,307
 Management Information Systems Commons	14324
 Management Information Systems Directorate	16218
 Management Information Systems ENS EMIS Norms	13310
@@ -4422,6 +4434,7 @@ NHIS National Health Information System	766,14645
 NIS2 Network and Information Security Directive	6936
 NISP Policy Pillars The National Information	19801
 NITA National Information Technology Agency Figure	582
+NITA National Information Technology Agency NRGI	19937
 NITA The National Information Technology Agency	11052
 NITA-U National Information Technology Authority-Uganda ODK	19639
 NKOUKA Martial UGP Informaticien	16012
@@ -4534,7 +4547,7 @@ National Information Systems Security Strategy	5270,10857
 National Information Technol-	4848
 National Information Technologies	1749
 National Information Technology	582,19057
-National Information Technology Agency	587,202,1888,552,21,134,418,324,1809,121,221,70,59,966,1,1615,1397,200,237,39,993,13,4535,72,125
+National Information Technology Agency	587,202,1888,552,21,134,418,324,1809,121,221,70,59,966,1,1615,1397,200,237,39,993,13,4535,72,125,3348,17
 National Information Technology Agency NMCP National	15556
 National Information Technology Authority	1150,133,2952,2123,428,594,4370,482,2202,5195,1,1,3,5,3,18,29,5,3,1,20,6,17,14,11,9,17,9,1
 National Information Technology Authority Draft Bill	6347
@@ -4619,6 +4632,7 @@ Nigeria Freedom of Information Act	11854
 Nigeria Health Logistics Management Information System	4301
 Nigeria Information Technology Reporters Association	8288
 Nigeria Revenue Service Information Circular No	9570
+Nigeria's Critical National Information Infrastructure Order	19966
 Nigeria's Minister of Information and National Orientation	7144
 Nigeria's National Information Technology Development Agency	9953
 Nigerian Information	7664
@@ -4728,6 +4742,7 @@ Overview of Information Technologies Equipment	1988
 Ownership Information	12400
 P EQUIPEMENT TECHNIQUE INFORMATIQUE ETI-BULL	16623
 PAD Client Information Activities At Appraisal	15424
+PAHO Information Systems for Health Maturity Model	19974
 PAR LE BIAIS D’UN SYSTEME INFORMATIQUE	16617
 PARA A INFORMAÇÃO SOBRE SAÚDE	16321
 PARFSE Informaticien	16620
@@ -4860,6 +4875,7 @@ Personal Information Protection Law and Data Security	6935
 Personal Information Update	16088
 Personal Information Update Service	16088
 Personal Information Update Service Outside NIA	16088
+Personal Information Update and Replacement Services	19935
 Personally Identifiable Information	34,4213,55,6411,8,1519,2794,115,2597,1158
 Persons Management Information System TPA Tanzania	19590
 Petition Management Information System	14738
@@ -4998,6 +5014,7 @@ Property Management and Transaction Information System	11862
 Proposed Strategy for Information Disclosure	17099
 Prospérité Partagée SI Système Informatique SIE	17907
 Protect Personally Identifiable Information	6432
+Protection Contact Information	19942
 Protection Information	7548
 Protection Information Management Systems CPL Commercial	2775
 Protection Policy PIC Public Information Campaign	16867
@@ -5080,6 +5097,7 @@ Qualitative Information	13954
 Quality Assurance Management Information System	13623
 Quality Assurance and Information Technology	13623
 Quality Information Management System	12606
+Quality of Information	19951
 Quality of Reports and Information	12376
 Quantum Geographic Information System	14622
 Quarterly Financial Information PCU System Description	11525

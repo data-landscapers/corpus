@@ -30,6 +30,7 @@ Apdp Bénin. Depuis	6252
 App. Depuis	2513
 Appointment of Deputy Chief Executive Officer	18888
 Appointment of Deputy Data Protection Commissioners	13321
+Appointment of Deputy Director General	19951
 Appointment of Director and Deputy Director	12898
 Appointment of Registrar and Deputy Registrar	13566
 Armed Forces Day Deputy Foreign	17025
@@ -233,7 +234,7 @@ Deputy Chief of Office	13776
 Deputy Chief of Staff	1014,2676,4356,195,128,2,1359,520,8547
 Deputy Clerk	19161
 Deputy Commerce Minister Wilmot Reeves	14318
-Deputy Commissioner	3360,7929,1260,105,581,853,2769,1609,86,32
+Deputy Commissioner	3360,7929,1260,105,581,853,2769,1609,86,32,1367
 Deputy Commissioner Azezew Chane	14088
 Deputy Commissioner General	3583,5570,2821
 Deputy Commissioner General for Technical Affairs	17011
@@ -276,7 +277,7 @@ Deputy Director Commerce	13382
 Deputy Director EMIS	18460
 Deputy Director EMISTel	18536
 Deputy Director Fintech and Innovation	11134
-Deputy Director General	718,6729,3842,574,413,169,455,1110,147,655,176,97,2040,678,637,138,2,147
+Deputy Director General	718,6729,3842,574,413,169,455,1110,147,655,176,97,2040,678,637,138,2,147,1224
 Deputy Director General Administration and Maintenance	12927
 Deputy Director General Email	12445
 Deputy Director General Sulaiman B. Sowa	18580
@@ -319,7 +320,7 @@ Deputy Director of SERAP	11100
 Deputy Director of Space Affairs for Global Partnerships	6897
 Deputy Director of University Cooperation	13816
 Deputy Director-Fintech and Innovation	11134
-Deputy Director-General	396,2331,3825,191,371,492,640,1153,135,1096,555,59,21,24,697,2148,4306,67
+Deputy Director-General	396,2331,3825,191,371,492,640,1153,135,1096,555,59,21,24,697,2148,4306,67,1444
 Deputy Director-General for Innovation	11288
 Deputy Director-General for Statistics and Data Processing	16833
 Deputy Director-General of SINSE	9399
@@ -329,6 +330,7 @@ Deputy Director. During the Minister of Communications	1694
 Deputy Directors	2779,1749,6603,1381,4473,1475
 Deputy Directors General	12706
 Deputy Directors of Education and Team	18460
+Deputy Directors of Information Systems	19967
 Deputy Directors-General	16833
 Deputy District Council Chairman	18467
 Deputy District Council Chairman Meetings of Council	18467
@@ -362,7 +364,7 @@ Deputy Govenor Felicia Dlamini	11131
 Deputy Government Statistician	9419,6040
 Deputy Government Statisticians	15459
 Deputy Government Whip	19161
-Deputy Governor	940,305,17,1025,1153,143,64,318,2707,1143,477,548,1545,77,669,3,4,1733,661,762,24,401,11,293,79,28,124,1981,375,1121
+Deputy Governor	940,305,17,1025,1153,143,64,318,2707,1143,477,548,1545,77,669,3,4,1733,661,762,24,401,11,293,79,28,124,1981,375,1121,1220
 Deputy Governor CBG	4254
 Deputy Governor Dr. Innocent Matshe	3965
 Deputy Governor Engr. Ikechukwu Emetu	5072
@@ -392,6 +394,7 @@ Deputy Head Registrar	14891
 Deputy Head Registrar of Companies	14891
 Deputy Head Teachers	899
 Deputy Head and Inter-Regional Adviser	12757
+Deputy Head of Corporation	19959
 Deputy Head of ICT Projects Ministry of ICT	15019
 Deputy Head of Mission	4952,5640,6705
 Deputy Head of Office for Financial Integrity	7317
@@ -505,6 +508,7 @@ Deputy Minister of Justice	18477
 Deputy Minister of Justice and Constitutional Development	10453
 Deputy Minister of Land Reform and Rural Development	11261
 Deputy Minister of Lands	3742,9820
+Deputy Minister of Local Government	19962
 Deputy Minister of Minister of Higher and Tertiary Education	13562
 Deputy Minister of Ministry of Urban and Rural Development	13118
 Deputy Minister of National Housing and Social Amenities	13591

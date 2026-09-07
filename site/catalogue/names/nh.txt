@@ -42,6 +42,7 @@ Food and Drug Quality Control Laboratory NHIA	16922
 Funding Model NHC National Housing Corporation	2775
 Governmental Organizations NHIF National Health Insurance	19531
 HNSF. For the NHI Fund	1009
+Health Insurance Supporting NHIS	19942
 Health NHIA National Health Insurance Authority	15556
 Hermelinda Nhamuche	10219
 Hlathikhulu Government Hospital and Nhlangano Health Centre	12956
@@ -146,6 +147,8 @@ NHIS Act	16896
 NHIS Bill	16896
 NHIS Bill. III. KEY RISKS	16896,26
 NHIS Bill. The MCNHRP	16896
+NHIS Card	19935
+NHIS Card Category	19936
 NHIS Electronic Health Facility Attendance Management	16218
 NHIS Electronic National Health Insurance System	16922
 NHIS National Health Information System	766,14645

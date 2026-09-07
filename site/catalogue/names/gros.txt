@@ -11,6 +11,7 @@ Assets Quality Gross	17235
 Audit Standards GIABA Gross International Reserves	17235
 Average Gross Commodity Prices	2775
 Backbone GDP Gross Domestic Product GSM	11857
+Bank of India RTGS Real Time Gross	19940
 Baseline Scenario Gross Nominal PPG External	13868
 Board GCF Gross Capital Formation GCNet	236
 Board GDP Gross Domestic Product GIS	16935
@@ -151,6 +152,7 @@ Gender-Based Violence Gross Domestic Product Geo-Enabling	15658
 Gender-Based Violence Gross Domestic Product Government	1228
 General Control of Public Services GDP Gross	19455
 General Government Gross Debt	14777,827
+Ghana’s Real Time Gross Settlement	19940
 Global Challenge Program GDP Gross Domestic	19245
 Global Competitiveness Index GDP Gross Domestic	15491
 Global System for Mobile Communications GVA Gross	2775
@@ -412,7 +414,7 @@ Rate GER Gross Enrolment Rate GIR	18460
 Ratios RCFIS Real Gross Domestic Product	17235
 Real Gross Domestic Product	14744,3698
 Real Gross Domestic Products	17634
-Real Time Gross Settlement	2857,3863,5550,16,78,120,968,80,3344,359,2266
+Real Time Gross Settlement	2857,3863,5550,16,78,120,968,80,3344,359,2266,439
 Real Time Gross Settlement Agency	14897
 Real Time Gross Settlement System	4517,2461,6490,1686,1690,34,260,2578
 Real Time Gross Settlement USSD Unstructured	14897

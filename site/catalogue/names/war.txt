@@ -215,7 +215,7 @@ Impact Based Forecasting and Early Warning Systems	13201
 Importers and Exporters AEO SAQ Bonded Warehouse	12454
 Improve the Data Warehouse Facilities	17011
 Improve the Data Warehouse Facilities Integration	17011
-Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3,130,902,16,466,1,135,7334
+Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3,130,902,16,466,1,135,7334,116
 Indian Ocean Tsunami Warning and Mitigation System	14732
 Indicator WARCIP West African Regional Communications	1000
 Information Warfare	1000,785,1417,3881
@@ -436,7 +436,7 @@ Support WARDIP-F-	17219
 Support WARDIP-F-001-2024-SED	17219
 Support WARDIP-NCS-001-2024	17219
 TREND Increasing Improvement Slowing Improvement Warning	10759
-TREND Increasing Improvement Warning Signs Slowing	10837,1503
+TREND Increasing Improvement Warning Signs Slowing	10837,1503,7598
 Takuma Ward	14394
 Telecoms Early Warning for All	17070
 Temporary Customs Warehouse	15492
@@ -451,7 +451,7 @@ Trade Ministry Warns Importers To Adhere	18516
 Treatment of Prisoners of War	14742
 Trend Increasing Improvement Slowing Improvement Warning	10759
 Trend Warning Signs	12341
-Trend Warning Signs Slowing Improvement Increasing	10837,1503
+Trend Warning Signs Slowing Improvement Increasing	10837,1503,7598
 Trend Warning Signs Social Protection	12341
 Tug of War	13044
 U.S. Department of War	5287
@@ -718,11 +718,11 @@ Warning Infrastructure	17962
 Warning Notices	5665
 Warning Score	10835,3,130,902,16,466,1,135,7334
 Warning Services PDO Indicators	17962
-Warning Signs	11887,1,1,264,1,9,178,7311,1,205,1,65
+Warning Signs	11887,1,1,264,1,9,178,7311,1,205,1,65,15
 Warning Signs Absence of Forced Migration	12352
 Warning Signs Bouncing Back Slowing Deterioration	10759
 Warning Signs Increasing Deterioration	10835,3,130,902,16,466,1,135,7334
-Warning Signs Score	10837,1315,188
+Warning Signs Score	10837,1315,188,7598
 Warning Signs. African	12163
 Warning Signs. Women's Equality	11888
 Warning Signs. Yearly Overall Governance	11888

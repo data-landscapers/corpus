@@ -68,7 +68,7 @@ Address County Service Center Bottlenecks	17139
 Adetic’s Data Center	5088
 Administrative Training Center	15447
 Adult Literacy Centers	12411
-Africa CDD-Ghana Ghana Center for Democratic Development	10759,78,1052,451
+Africa CDD-Ghana Ghana Center for Democratic Development	10759,78,1052,451,7598
 Africa Center	8947
 Africa Center for Digital Transformation	8748,199
 Africa Center for Disease Control	560
@@ -547,7 +547,7 @@ Cloud Computing Center	15656
 Cloud Computing Center URL	15656
 Colo Colocation DC Data Center DIF	10781,1646,2055
 Colocation NDC National Data Center DC	3184,1,1340,6470
-Columbia Center for International Earth Science Information	10759,78,1050,2,264,1,9,177,1,7517,1
+Columbia Center for International Earth Science Information	10759,78,1050,2,264,1,9,177,1,7517,1,79
 Command Center	9123
 Commission BTRC Biotechnology Research Center of Libya	17157
 Common Service Centers	14965

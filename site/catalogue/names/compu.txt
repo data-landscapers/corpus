@@ -169,7 +169,7 @@ Civil Service Computerization Computerizing	16885
 Ciência da Computação	11441
 Ciência de Computação	12021
 Ciências da Computação	8858,3163
-Cloud Computing	34,539,1941,417,3501,221,138,1,40,716,3648,671,435,54,611,4,385,45,1273,475,396,1571,867,400,1150,106,162
+Cloud Computing	34,539,1941,417,3501,221,138,1,40,716,3648,671,435,54,611,4,385,45,1273,475,396,1571,867,400,1150,106,162,167
 Cloud Computing Act	16923,1
 Cloud Computing Adoption and Data Lozalization	12214
 Cloud Computing BANK OF NAMIBIA No	12967
@@ -283,6 +283,7 @@ Compute Node	9475
 Compute Node NVidia GPU	9475
 Compute North	11135
 Compute Plan	7548
+Compute Power	19958
 Compute Rank	4528,7984
 Compute Raxio	11310
 Compute Raxio Group	11310
@@ -408,7 +409,7 @@ Computer Room	9123
 Computer Room Equipment Power Distribution	9123
 Computer Room Wall Construction	9123
 Computer Rural	18441
-Computer Science	1554,5724,1328,522,347,585,642,429,2,1,510,71,114,40,72,420,39,7,268,18,61,72,100,35,60,10,6,41,107,171,12,817,905,56,407,126,110,1451,15,182,1020,4,168,41,1137
+Computer Science	1554,5724,1328,522,347,585,642,429,2,1,510,71,114,40,72,420,39,7,268,18,61,72,100,35,60,10,6,41,107,171,12,817,905,56,407,126,110,1451,15,182,1020,4,168,41,1137,137
 Computer Science Department	8606,3755
 Computer Science Doctor of Philosophy	12407
 Computer Science Duration	17232
@@ -503,12 +504,12 @@ Computerized Paper-based5	16631
 Computerized School Selection and Placement System CENDLOS	15796
 Computerized Transit System	13042
 Computerizing VAT	12948
-Computers	236,346,7440,438,146,234,288,488,1143,76,2,1,74,56,584,204,114,16,1,1,1,91,110,62,1,1,9,177,1,11,1,135,2248,115,70,93,1862,94,1250,221,74,49,1069,6,13,1,1,48,99,21,14,22,1,28,37,9
+Computers	236,346,7440,438,146,234,288,488,1143,76,2,1,74,56,584,204,114,16,1,1,1,91,110,62,1,1,9,177,1,11,1,135,2248,115,70,93,1862,94,1250,221,74,49,1069,6,13,1,1,48,99,21,14,22,1,28,37,9,5,1
 Computers Conference	9237
 Computers For Zambian Schools	13637
 Computers Not Not Monitoring Monitoring Monitoring	19576
 Computers Public Perception of Accountability	10835,3,130,902,16,466,1,135,7334
-Computers Shipping	10759,78,1315,188
+Computers Shipping	10759,78,1315,188,7598
 Computers and Accessories	12962
 Computers and Education	11879
 Computers and Internet	19639
@@ -574,6 +575,7 @@ DEFINITION OF CLOUD COMPUTING	11196
 DEFINITION OF CLOUD COMPUTING The National	11196
 Data Center and Cloud Computing Services	15282
 Data Center and Cloud Computing Services License	15282
+Data Privacy and Cloud Computing Data Privacy	19968
 Data and Cloud Computing Center	15656
 Datasets and Computing Platforms for AI Development	1814
 Declaration of Compulsory Standard Specification	18600

@@ -218,7 +218,7 @@ Jude Nwauzor	8291
 Jude Padayachy	19177
 Jude Scheguel	16100
 Judes Bertrand MEKAME MBA	16099,76
-Judge	3,780,1136,388,1407,2094,375,1269,393,1964,2237,413,84,125,836,177,728,304,1,1,4,8,1,14,1,66,584,1446,389,1206,23,424,37,25,575
+Judge	3,780,1136,388,1407,2094,375,1269,393,1964,2237,413,84,125,836,177,728,304,1,1,4,8,1,14,1,66,584,1446,389,1206,23,424,37,25,575,417,1
 Judge Allen-Yaman	7587
 Judge Brian Spilg	10955
 Judge Details Judges	14675
@@ -273,7 +273,7 @@ Judiciaires	13908
 Judiciais	15520,3266,110
 Judiciais Estrutura	6568
 Judiciais. ARTIGO	539
-Judicial	477,62,3322,348,2178,2449,1296,620,156,480,568,245,25,34,77,1,75,135,372,52,532,1969,1368,14,71,17,74,122,117,1300,39,1295,5,25,2
+Judicial	477,62,3322,348,2178,2449,1296,620,156,480,568,245,25,34,77,1,75,135,372,52,532,1969,1368,14,71,17,74,122,117,1300,39,1295,5,25,2,29
 Judicial Administration Council	13948
 Judicial Administration Council. Article	13948
 Judicial Affairs Officer	18714
@@ -324,7 +324,7 @@ Judicial Power	16943,498
 Judicial Powers	13948
 Judicial Procedures Already Digitized	13253
 Judicial Proceedings and Costs	16949
-Judicial Processes	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Judicial Processes	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
 Judicial Professional and Operational Gap Analysis	16943
 Judicial Redress	18595
 Judicial Reform	15231
@@ -343,20 +343,22 @@ Judicial Review I. LERC	16851
 Judicial Review Upon	3861
 Judicial Review of Data Governance Decisions	3861
 Judicial Sales	18883
+Judicial Secretary	19951
 Judicial Sector Assessment	17441
-Judicial Service	13504,1926
+Judicial Service	13504,1926,4532
 Judicial Service Commission	9241,1,3324,53,49,252,518,63,3,115,803,124,5114,66
 Judicial Service Commission Act	12920
 Judicial Service Commission Meetings	12920
 Judicial Service Commission Meetings The Judicial	12920
+Judicial Service of Ghana	19972
 Judicial Services	16943
 Judicial Services Commission	3583
 Judicial Strategic Plan	16943
 Judicial Strategic Plan Results Framework	16943
 Judicial Strategic Plans	16943
 Judicial Studies	14685
-Judicial System	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
-Judicial System Judicial Processes Equality	10759,78,1315,188
+Judicial System	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Judicial System Judicial Processes Equality	10759,78,1315,188,7598
 Judicial System Slowing Improvement Not Classified	11870
 Judicial Training Institute	10563,2941,3439
 Judicial Training Institute Availability	16943
@@ -369,7 +371,7 @@ Judicial. Artículo	16855
 JudicialService Commission	16943
 Judiciales	16855
 Judiciaries	16705,1066
-Judiciary	587,371,880,937,92,716,278,122,130,13,592,2228,602,922,20,121,89,278,238,330,496,521,1078,422,111,27,126,40,86,6,14,70,39,86,252,2,24,26,25,96,36,166,50,54,102,1,2,444,326,272,48,158,41,37,17,58,373,567,1013,85,8,7,53,46,44,4,34,10,86,25,138,43,177,839,10,10,42,76,2,117,382,37,4,1,381,22,43,18,39,1,104,26
+Judiciary	587,371,880,937,92,716,278,122,130,13,592,2228,602,922,20,121,89,278,238,330,496,521,1078,422,111,27,126,40,86,6,14,70,39,86,252,2,24,26,25,96,36,166,50,54,102,1,2,444,326,272,48,158,41,37,17,58,373,567,1013,85,8,7,53,46,44,4,34,10,86,25,138,43,177,839,10,10,42,76,2,117,382,37,4,1,381,22,43,18,39,1,104,26,179
 Judiciary Automation Project	6946
 Judiciary Branch	16943
 Judiciary Branch of Liberia	17256
