@@ -4,7 +4,7 @@ compiled: 2026-09-07
 period: 2026-08-01 to 2026-09-07
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 5c20a995661b
+record: 16716355a027
 ---
 
 # Digital Identity and CRVS: monthly update, August 2026
@@ -98,6 +98,8 @@ The rollout got the calendar the base had been missing. The government [publishe
 The identity regulator publicised amendment regulations on 16 July that had come into force on 9 June, and the interior minister then set the enforcement date: banks, telecoms operators, hospitals, schools, insurers and agencies have [a three-month transition from 27 July to 2 November 2026](https://www.graphic.com.gh/news/general-news/banks-telcos-and-hospitals-have-until-november-2-to-stop-taking-ghana-card-photocopies.html) to install readers and integrate with the verification service, on a sanctions ladder running to suspension of access and licence withdrawal. Verification tied to SIM registration is explicitly excluded, with no timetable announced.
 
 The first paid round-the-clock identity centre opened on 1 August with all services attracting approved charges and no fee schedule published; by 13 August the agency described the Labone centre as [running registration on three shifts around the clock](https://thehighstreetjournal.com/nia-adopts-three-shift-system-for-24-hour-ghana-card-registration/), presented as part of the government's wider 24-hour economy programme. No throughput or staffing figure is published, and the base holds no equivalent extension of the free daytime service.
+
+The central bank republished its standing directive on 2 September: under regulation 7 of the 2012 national identity register regulations, [the card has been the only identification accepted for transactions at every institution the bank licenses and regulates since 1 July 2022](https://www.bog.gov.gh/news/use-of-ghana-card-for-all-financial-transactions/). The base had carried that requirement only from a January 2026 guidance note. Dated four years earlier, it makes the photocopy ban an enforcement step against a rule already long in force rather than a new obligation.
 
 ## Guinea
 
