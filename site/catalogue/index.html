@@ -586,7 +586,7 @@
            // The subtitle OSINT writes onto a record at ingest. Records taken in
            // before 2026-09-05 carry none, and the line is simply absent for them
            // rather than standing empty (notes-for-corpus 20).
-           (r[12] ? '<p class="hero">' + esc(r[12]) + '</p>' : '') +
+           (r[12] ? '<p class="sub">' + esc(r[12]) + '</p>' : '') +
            '<p class="meta">' + esc(r[1] || 'publisher not recorded') + '</p>' +
            '<div class="tags">' + tags + '</div></div></div>';
     });

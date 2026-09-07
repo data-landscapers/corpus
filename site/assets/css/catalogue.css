@@ -116,8 +116,12 @@ designer looks for the catalogue's CSS.
    title with no margin between them, because title and subtitle are one sentence
    about the document and a gap there reads as two. The publisher below is set in
    italic instead, which is what separates it from the subtitle now that spacing
-   no longer does. */
-.cat .row .hero{font-size:0.82rem;color:var(--ink-light);margin:0 0 0.2rem;line-height:1.4;max-width:78ch}
+   no longer does.
+   Not `.hero`, which is home.css's page banner and unprefixed, so it applies here
+   too: `padding:1.75rem 0 0` on a class this rule only overrode the *margin* of put
+   a blank line under every catalogue title. Overriding the padding would have hidden
+   the collision rather than ended it. */
+.cat .row .sub{font-size:0.82rem;color:var(--ink-light);margin:0 0 0.2rem;line-height:1.4;max-width:78ch}
 .cat .row .meta{font-size:0.78rem;color:var(--ink-light);margin:0 0 0.3rem;font-style:italic}
 .cat .tags{display:flex;flex-wrap:wrap;gap:0.25rem}
 /* The three tag tints are the house badge colours from main.css — grey for a
