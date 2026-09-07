@@ -44,6 +44,7 @@ title: Corpus process log
 
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-07 16:16 · build · 37m · catalogue 20,023, stage 2 re-run twice under a moving mirror; GIN 32 sources: 14 rows minted, 1 moved; finance backfill 18 rows over 19 units; 9 indicators newly mapped; scope 247 in remit; topics 76, bulletin checked — ok
 2026-09-07 14:39 · render · 5m · 251 documents, 54 country + 8 region + 38 topic pages, catalogue 19,956 over 5,612 name shards, finance 1,386 deals US$105,130m, bulletin edition 2026-09-07-2, deployed — ok
 2026-09-07 14:34 · build · 33m · catalogue 19,956, scan 2 units 50 sources; GHA 20 rows minted 15 moved, GAB 6 minted 7 moved 2 gaps settled; 41 indicator cells rewritten, 1 baseline revised; scope 215 in remit; topics 76, bulletin checked — ok
 2026-09-07 10:20 · render · 5m · 251 documents rendered, 41 new editions; catalogue 19,906, names 639,102 in 5,599 shards, finance 1,386 deals; RENDER.md's stale finance and document figures corrected, deployed — ok
