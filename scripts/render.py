@@ -31,7 +31,8 @@ from pathlib import Path
 import markdown
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from chrome_lib import chrome, external_links, foot, ga, styles  # noqa: E402
+from chrome_lib import (asset_version, chrome, external_links, foot, ga,  # noqa: E402
+                        styles)
 from copy_lib import copy  # noqa: E402
 
 # The edition grammar and the same-day suffix live in `editions.py`, because `country.py`,
@@ -123,7 +124,6 @@ def frontmatter(text: str) -> tuple[dict, str]:
             k, v = line.split(":", 1)
             meta[k.strip()] = v.strip().strip('"')
     return meta, body.lstrip("\n")
-
 
 
 def record(body_md: str) -> str:
@@ -219,25 +219,6 @@ def site_rel(path: Path) -> str:
     unit, _ = parse_name(path)
     return f"{tree}/{unit}"
 
-
-def asset_version(path: Path) -> str:
-    """A short digest of an asset's bytes, for a `?v=` on the URL that references it.
-
-    **A stylesheet or script at a fixed URL is cached by the reader's browser, and a corrected
-    one at the same URL is not fetched** *(2026-08-22)*. That is not a theory: the bulletin's
-    filter shipped with a fault, was fixed, deployed, and went on failing for Bill because
-    `bulletin-filter.js` was the same URL it had been ten minutes earlier. Everything on the
-    server was right and the page was still wrong.
-
-    A query string is invisible to a static host — GitHub Pages serves the file and ignores it —
-    so this costs nothing and changes the URL exactly when the bytes change. Where the asset is
-    missing the URL is left bare rather than stamped with a guess: a build that cannot read the
-    file it is linking should link it plainly and let the 404 be visible.
-    """
-    try:
-        return "?v=" + hashlib.sha1(path.read_bytes()).hexdigest()[:8]
-    except OSError:
-        return ""
 
 
 def badge_class(text: str, vocab=BADGE) -> str:
@@ -679,7 +660,7 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     # hides in print, where `.print-masthead` stands in for it on page one.
     css_dir = SITE / "assets" / "css"
     if absolute:
-        sheets = styles(0, "report.css", base=css_dir.parent.as_uri())
+        sheets = styles(0, "report.css", base=css_dir.parent.as_uri(), version=None)
         logo = (BUILD / "assets" / "logo.png").as_uri()
         page_chrome = chrome(nav_active, base=(BUILD / "assets").as_uri(), screen_only=True)
     else:
@@ -691,9 +672,10 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
         # been served unstyled since 2026-08-17. Nothing caught it because a page with no CSS is
         # a page, and `--no-pdf` meant no PDF was cut where the breakage would have been obvious.
         up = "../" * len(rel.split("/"))
-        # `?v=` on the stylesheets and the script, never on the PDF's `file://` URIs above.
-        sheets = styles(0, "report.css", base=f"{up}assets",
-                        version=lambda s: asset_version(css_dir / s))
+        # `?v=` on the stylesheets and the script, never on the PDF's `file://` URIs
+        # above, which is what the explicit `version=None` up there is for. `styles()`
+        # stamps by default now, so this call passes nothing and gets it.
+        sheets = styles(0, "report.css", base=f"{up}assets")
         logo = f"{up}assets/logo.png"
         page_chrome = chrome(nav_active, base=f"{up}assets", screen_only=True)
 

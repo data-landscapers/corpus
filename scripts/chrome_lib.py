@@ -26,8 +26,10 @@ a 404 rather than a sentence that reads badly.
 """
 from __future__ import annotations
 
+import hashlib
 import re
 from datetime import date
+from pathlib import Path
 
 SITE_BASE = "https://corpus.data-landscapers.io"
 MAIN_SITE = "https://data-landscapers.io"
@@ -106,8 +108,56 @@ def assets(depth: int) -> str:
     return "../" * depth + "assets"
 
 
+# The served asset tree, for reading the bytes a `?v=` is taken over. `styles()`
+# and `script()` are handed a *relative* href and cannot find the file from it,
+# so the one absolute path lives here rather than in each builder.
+ASSETS_DIR = Path(__file__).resolve().parents[1] / "site" / "assets"
+
+
+def asset_version(path) -> str:
+    """A short digest of an asset's bytes, for a `?v=` on the URL referencing it.
+
+    **A stylesheet or script at a fixed URL is cached by the reader's browser, and
+    a corrected one at the same URL is not fetched.** That is not a theory, and it
+    has now cost twice. On 2026-08-22 the bulletin's filter shipped with a fault,
+    was fixed, was deployed, and went on failing for Bill because
+    `bulletin-filter.js` was the same URL it had been ten minutes earlier. On
+    2026-09-07 the catalogue's subtitle moved off the `.hero` class `home.css`
+    owns; GitHub Pages gives HTML `max-age=600` and CSS `max-age=14400`, so the
+    new markup arrived within ten minutes and the rule that styles it did not, and
+    the page served an unstyled paragraph for four hours. Both times everything on
+    the server was right and the page was wrong.
+
+    A **content** hash rather than a build stamp, so a sheet that did not change
+    keeps its URL and stays cached: the refetch is paid for only when the bytes
+    move. A query string is invisible to a static host (GitHub Pages serves the
+    file and ignores it), so no filename and no link anywhere else changes.
+
+    Where the asset cannot be read the URL is left bare rather than stamped with a
+    guess: a build that cannot open the file it is linking should link it plainly
+    and let the 404 be visible."""
+    try:
+        return "?v=" + hashlib.sha1(Path(path).read_bytes()).hexdigest()[:8]
+    except OSError:
+        return ""
+
+
+# The default for `version=`, distinguishable from an explicit `None`. `None` is
+# the opt-out and has to stay reachable: the PDF pass resolves the same sheets as
+# `file://` URIs, where a query string is part of the filename and the read fails.
+_DIGEST = object()
+
+
+def _versioner(version):
+    if version is _DIGEST:
+        return lambda sub, name: asset_version(ASSETS_DIR / sub / name)
+    if not version:
+        return lambda sub, name: ""
+    return lambda sub, name: version(name)
+
+
 def styles(depth: int = 1, *extra: str, base: str | None = None,
-           version=None) -> str:
+           version=_DIGEST) -> str:
     """The stylesheet links, in load order, for a page `depth` below `site/`.
 
     `main.css` is a byte-identical copy of the website's and carries the whole
@@ -129,16 +179,35 @@ def styles(depth: int = 1, *extra: str, base: str | None = None,
     hands WeasyPrint `file://` URIs because a relative href has nothing to be
     relative to.
 
-    `version` is a callable taking a sheet's filename and returning the suffix
-    to hang off its href — `render.py`'s `?v=` cache-buster. It is a hook rather
-    than a rule because the buster is only wanted on the served copies: the PDF
-    pass reads the same files off disk, where a query string is part of the
-    filename and the fetch simply fails."""
+    **Every served page carries `?v=<digest>` on every sheet, by default** *(Bill,
+    2026-09-07)*. It used to be a hook `render.py` alone passed in, which left the
+    reports cache-safe and the eight other builders not, and that is the failure
+    `asset_version` records. A default is what makes the *next* builder safe
+    without anyone having to remember. Pass `version=None` to switch it off, which
+    the PDF pass does because its hrefs are `file://` URIs; a callable taking the
+    filename still works, for a caller that wants a suffix of its own."""
     root = base if base is not None else assets(depth)
     sheets = ["main.css", "corpus.css", *extra]
+    ver = _versioner(version)
     return "\n".join(
-        f'<link rel="stylesheet" href="{root}/css/{s}{version(s) if version else ""}">'
+        f'<link rel="stylesheet" href="{root}/css/{s}{ver("css", s)}">'
         for s in sheets)
+
+
+def script(name: str, depth: int = 1, *, base: str | None = None,
+           version=_DIGEST) -> str:
+    """A `<script src>` for `assets/js/<name>`, versioned the way `styles()` is.
+
+    Three builders wrote this tag out by hand for `datatable.js`, which is the
+    shape the header and the stylesheet links were in before this file existed and
+    carries the same consequence: a corrected table script stays cached for four
+    hours on `/finance/` and on every country and region finance page.
+
+    `catalogue.py` keeps a stamp of its own for `catalogue-data.js`. That is a
+    build payload under `site/catalogue/` rather than a shared asset, and it is not
+    on this path."""
+    root = base if base is not None else assets(depth)
+    return f'<script src="{root}/js/{name}{_versioner(version)("js", name)}"></script>'
 
 
 def chrome(active: str | None = None, depth: int = 1, *,

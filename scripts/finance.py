@@ -37,7 +37,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import editions  # noqa: E402  - one implementation of the edition grammar (§9)
 from copy_lib import copy  # noqa: E402
-from chrome_lib import chrome, external_links, foot, ga, styles  # noqa: E402
+from chrome_lib import chrome, external_links, foot, ga, script, styles  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
@@ -198,7 +198,7 @@ PAGE = """<!DOCTYPE html>
 {foot}
 
 </div>
-<script src="../assets/js/datatable.js"></script>
+{datatable}
 </body>
 </html>
 """
@@ -225,6 +225,7 @@ def render(agg: dict, names: dict, csv_name: str) -> str:
     return PAGE.format(
         base=SITE_BASE, main=MAIN_SITE, chrome=CHROME, foot=FOOT,
         styles=styles(1, "home.css", "country.css", "datatable.css"), ga=ga(),
+        datatable=script("datatable.js", 1),
         csv_name=csv_name, labels=labels, metadata=METADATA_CSV,
         page_intro=indent(copy("finance", "page-intro")),
         non_state_intro=indent(copy("finance", "non-state-intro")),

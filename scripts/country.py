@@ -65,7 +65,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from copy_lib import copy_inline  # noqa: E402
-from chrome_lib import chrome, external_links, foot, ga, styles  # noqa: E402
+from chrome_lib import chrome, external_links, foot, ga, script, styles  # noqa: E402
 import editions  # noqa: E402  — §9's filename grammar has one implementation
 
 CORPUS = Path(__file__).resolve().parent.parent
@@ -584,7 +584,7 @@ FINANCE = """<!DOCTYPE html>
 
 </div>
 
-<script src="../../assets/js/datatable.js"></script>
+{datatable}
 </body>
 </html>
 """
@@ -658,6 +658,7 @@ def build(iso: str) -> list[Path]:
             fin_total=f"{sum(amounts):,.0f}",
             y0=(min(ys) if ys else "&mdash;"), y1=(max(ys) if ys else "&mdash;"),
             styles=styles(2, "home.css", "country.css", "datatable.css"),
+            datatable=script("datatable.js", 2),
             ga=ga(), **csv_names, **common)), encoding="utf-8")
         written.append(out_dir / "finance.html")
         written.append(out_dir / csv_names["csv_name"])
