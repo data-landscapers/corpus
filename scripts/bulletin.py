@@ -725,6 +725,22 @@ def held_stamps(path: Path) -> tuple[str, str] | None:
 # a false alarm on the one line whose whole job is to be believed.
 BUILD_CLOCK = "build clock (mirror unreadable)"
 
+# The same fallback for a different reason, and the reason is the point. A manifest that reads
+# perfectly but carries no `collection` block leaves the byline on the build clock exactly as an
+# unreadable mirror does — but "mirror unreadable" would send whoever read it to check a sync
+# that is working, when what changed is the manifest's shape. Both stamps the bulletin needs
+# live in that one block: `collection.sweep_closed` is the byline's claim and
+# `collection.last_admission` is both the `compiled` stamp and the byline's own fallback, so
+# losing the block loses the primary and the fallback together and there is nothing left of
+# OSINT's clocks to stand in. `rotation.newest_close.end` is not a substitute and must not
+# become one: it is when the rotation's jobs finished, hours after collection stopped
+# — 21:17 against 23:35 on 2026-09-06 — so publishing it as *Last updated* would claim
+# coverage the sweep does not have, which is the one direction this byline may not err in.
+NO_COLLECTION = "build clock (manifest carries no collection stamps)"
+
+# Either of them means the run published a stamp that is about Corpus, not about the corpus.
+NO_OSINT_CLOCK = (BUILD_CLOCK, NO_COLLECTION)
+
 
 def stamps_for(now: datetime | None = None) -> tuple[str, str, str]:
     """`(collected_to, compiled, where they came from)`, each `YYYY-MM-DD HH:MM`.
@@ -742,7 +758,9 @@ def stamps_for(now: datetime | None = None) -> tuple[str, str, str]:
     fallback that becomes the normal case without anyone noticing."""
     newest = osint_lib.last_ingest()
     if newest is None:
-        return ((now or datetime.now()).strftime(osint_lib.TS),) * 2 + (BUILD_CLOCK,)
+        data, _why = osint_lib.read_manifest()
+        stood_in = BUILD_CLOCK if data is None else NO_COLLECTION
+        return ((now or datetime.now()).strftime(osint_lib.TS),) * 2 + (stood_in,)
 
     collected, source = osint_lib.collected_to(now)
     if collected is None:
@@ -810,6 +828,9 @@ def assemble(run_date: date, now: datetime | None = None) -> int:
     # which it got, and a caller that says so only when it happens to be writing does not.
     if source == BUILD_CLOCK:
         print(f"mirror     {osint_lib.MIRROR} unreadable — no ingest stamp available this run")
+    elif source == NO_COLLECTION:
+        print(f"manifest   {osint_lib.MANIFEST} read, but carries no collection block — the "
+              f"byline is the build clock, not OSINT's stated close")
 
     if excluded:
         print(f"remit      {len(excluded)} record(s) in the window excluded by the geographic remit")

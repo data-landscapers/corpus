@@ -267,6 +267,30 @@ def case_an_unreadable_mirror_is_said_on_every_run(tmp):
     assert "unreadable" in out, f"the mirror fallback went unsaid:\n{out}"
 
 
+def case_a_manifest_without_collection_says_so_rather_than_blaming_the_mirror(tmp):
+    """A readable manifest carrying no `collection` block is a different fact from an unreadable
+    mirror, and the run has to say which.
+
+    Both leave the byline on the build clock, because both stamps the bulletin needs live in that
+    one block — `collection.sweep_closed` is the claim and `collection.last_admission` is both
+    `compiled:` and the byline's own fallback. What differs is the repair: one is a sync to chase
+    and the other is the manifest's shape, and a run announcing "mirror unreadable" over a mirror
+    it has just read perfectly well sends whoever reads it to the wrong end.
+
+    The case is written because OSINT asked, on 2026-09-07, whether retiring `logs/ingested_log.md`
+    could take the `collection` stamps with it. It can; this is what Corpus does when it happens,
+    and `rotation.newest_close.end` deliberately does not stand in — it is hours later than the
+    close it would be published as."""
+    b = Bench(tmp, [row("only", TODAY, "KEN", "gov.policy")])
+    b.manifest(tmp, rotation_end="2026-05-14 23:35")     # a rotation close, and no collection
+    out = b.assemble()
+    assert "carries no collection block" in out, f"the missing block went unnamed:\n{out}"
+    assert "unreadable" not in out, f"a readable mirror was reported unreadable:\n{out}"
+    assert "23:35" not in b.document(), (
+        "the rotation close was published as the byline — it is not the moment collection "
+        f"stopped:\n{b.document()[:400]}")
+
+
 def case_the_stamp_is_outside_the_edition_digest(tmp):
     """A moved stamp must not cut a dated PDF, which is why the digest is the body alone.
 
@@ -618,6 +642,8 @@ CASES = [
      case_a_moved_stamp_is_written_and_named_as_a_check),
     ("a still clock writes nothing", case_a_still_clock_writes_nothing),
     ("an unreadable mirror is said on every run", case_an_unreadable_mirror_is_said_on_every_run),
+    ("a manifest with no collection block says so, and is not blamed on the mirror",
+     case_a_manifest_without_collection_says_so_rather_than_blaming_the_mirror),
     ("the stamp is outside the edition digest", case_the_stamp_is_outside_the_edition_digest),
     ("an empty window is a finished bulletin", case_an_empty_window_is_a_finished_bulletin),
     ("the byline states the days in hand", case_the_byline_states_the_days_in_hand),
