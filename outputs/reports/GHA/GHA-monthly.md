@@ -3,9 +3,9 @@ title: Ghana — monthly update, August – September 2026
 compiled: 2026-09-07
 period: 2026-08-01 to 2026-09-07
 place: GHA
-ledger_rows: 100
+ledger_rows: 101
 not_held: 9
-record: b58b7831a82d
+record: 272ae3b58256
 ---
 
 # Ghana: monthly update, August – September 2026
@@ -117,6 +117,8 @@ Interoperable mobile-money transfers ran to [33.5 million transactions worth GH�
 The identity regulator publicised amendment regulations on 16 July that had come into force on 9 June, and the interior minister then set the enforcement date: banks, telecoms operators, hospitals, schools, insurers and agencies have [a three-month transition from 27 July to 2 November 2026](https://www.graphic.com.gh/news/general-news/banks-telcos-and-hospitals-have-until-november-2-to-stop-taking-ghana-card-photocopies.html) to install readers and integrate with the verification service, on a sanctions ladder running to suspension of access and licence withdrawal. Verification tied to SIM registration is explicitly excluded, with no timetable announced.
 
 The first paid round-the-clock identity centre opened on 1 August with all services attracting approved charges and no fee schedule published; by 13 August the agency described the Labone centre as [running registration on three shifts around the clock](https://thehighstreetjournal.com/nia-adopts-three-shift-system-for-24-hour-ghana-card-registration/), presented as part of the government's wider 24-hour economy programme. No throughput or staffing figure is published, and the base holds no equivalent extension of the free daytime service.
+
+The central bank republished its standing directive on 2 September: under regulation 7 of the 2012 national identity register regulations, [the card has been the only identification accepted for transactions at every institution the bank licenses and regulates since 1 July 2022](https://www.bog.gov.gh/news/use-of-ghana-card-for-all-financial-transactions/). The base had carried that requirement only from a January 2026 guidance note. Dated four years earlier, it makes the photocopy ban an enforcement step against a rule already long in force rather than a new obligation.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
