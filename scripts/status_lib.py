@@ -25,6 +25,7 @@ from either cwd, so the two prep CSVs are reachable without the workroot having 
 """
 
 import csv
+import urllib.parse
 import os
 import re
 import sys
@@ -160,8 +161,20 @@ def finance_urls():
     return _cache["finance"]
 
 
+SITE_BASE = "https://corpus.data-landscapers.io"
+
+
 def catalogue_urls():
-    """Every URL the published catalogue resolves — what OSINT holds and a reader can trace."""
+    """Every URL the published catalogue resolves — what OSINT holds and a reader can trace.
+
+    **A record that documented having no URL resolves too, to its own row in the catalogue.**
+    `wiki/schemas.md` §4 admits a blank `url:` where `url_note:` states a dated, exhausted
+    search; the record is then the source, and `report-render.slug_offline()` cites it at
+    `/catalogue/#q={slug}` (`notes-for-corpus` 22). Check A is set membership over what a
+    baseline may cite, so it has to hold the same addresses the renderer writes — or a drafter
+    citing a documented absence correctly would fail the check that exists to catch invented
+    URLs. Built here rather than imported so `report-render.py` and this file cannot drift into
+    two answers for the same slug: both derive it from the catalogue's own `slug` column."""
     if "cat" not in _cache:
         out = set()
         with open(CATALOGUE_CSV, encoding="utf-8-sig", newline="") as fh:
@@ -169,6 +182,10 @@ def catalogue_urls():
                 u = (row.get("url") or "").strip()
                 if u:
                     out |= _variants(u)
+                elif (row.get("url_note") or "").strip():
+                    slug = (row.get("slug") or "").strip()
+                    if slug:
+                        out |= _variants(f"{SITE_BASE}/catalogue/#q={urllib.parse.quote(slug)}")
         _cache["cat"] = out
     return _cache["cat"]
 
