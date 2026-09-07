@@ -118,7 +118,7 @@ Ecole Nationale de Magistrature	14635
 Ecole Nationale de Police EPB	13377
 Ecole Nationale de Statistique	18953
 Ecole Nationale des Postes	16641
-Ecole Normale	15376,2711
+Ecole Normale	15376,2711,1901
 Ecole Normale Superieure	14472
 Ecole Normale Supérieure	13364,2012,98,187,2168,1143
 Ecole Normale Supérieure EPT	15673
@@ -143,6 +143,7 @@ Ecole Supérieure Polytechnique	17844,41
 Ecole Supérieure Polytechnique de Yaoundé	2695
 Ecole Supérieure de Commerce	15480
 Ecole Supérieure de Gestion	17829,16
+Ecole Supérieure de Tourisme	19997
 Ecole Supérieure des Communications Electroniques	18122
 Ecole Supérieure des Hautes Etudes Licence Pro	17829
 Ecole Technique	18757
@@ -179,7 +180,7 @@ Ecoles Primaires	15528
 Ecoles de Statistiques Africaines CAPI Computer Assisted	15479
 Ecoles par Lot Fourniture	13694
 Ecoligo Ltd Generation	12256
-Ecological	10969,915,1,10,264,1,45,146,136,4627,26,17,2705,3,87
+Ecological	10969,915,1,10,264,1,45,146,136,4627,26,17,2705,3,87,43
 Ecological Charter of São Tomé and Príncipe. Draft	18787
 Ecological Economy	17884
 Ecological Fund of Nigeria	12145

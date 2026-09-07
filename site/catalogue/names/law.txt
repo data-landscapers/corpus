@@ -603,6 +603,7 @@ Foreign Law Enforcement Agencies	19895
 Foreigners Law	11900
 Forest Law Enforcement	16843,176
 Forest Law Enforcement Governance and Trade	17019
+Foundational ID System Law	19990
 Fourth Associate Justice Law Clerk Bailiff	16943
 Framework Law	17503,467,148,679,1029
 Fransiscus Nanga Roka Faculty of Law University	11692
@@ -653,6 +654,7 @@ Government. By Laws.Africa	19630
 Green Fields Law Representative Nigerian Dynatech	11857
 Groundbreaking Guide For Lawyers	11654
 Guinea-Bissau’s Law	11550
+Guinea’s Law No. L	20004
 Guinea’s Local Content Law	16972
 H.E. Cina Lawson	3987
 HEC. Law	15393
@@ -864,7 +866,7 @@ Law Decree No	18787
 Law Definitions Authority Registration Data	12468
 Law Development Commission of Zimbabwe	13286,1,1,8,1,18,2
 Law El Nasser	15473
-Law Enforcement	1877,2848,2385,3649,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,2159,2304,1952,749,1,169,14,22,1,65,14,1
+Law Enforcement	1877,2848,2385,3649,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,2159,2304,1952,749,1,169,14,22,1,65,14,1,48
 Law Enforcement Affairs	13754,3576
 Law Enforcement Agencies	11131,3,143
 Law Enforcement Department.Verification	16843
@@ -889,7 +891,7 @@ Law High Quality Sectoral Arabic Data	15713
 Law Inclusion	10835,3,130,902,16,466,1,135,7334
 Law Index84	19245
 Law Ingingo	14893,209,24
-Law L	16694
+Law L	16694,3310
 Law LVD Liberia Verification Department	16843
 Law Law Enforcement Property Rights Public	10759,78,1315,188,7598
 Law Lecturer	13213
@@ -1497,7 +1499,7 @@ RENT CONTROL LAWS History	15473
 REPEAL OF LAWS AND COMMENCEMENT	3714
 REPEALING ORGANIC LAW Nº	14862
 REPUBLIC OF SOUTH AFRICA GENERAL LAWS	11279
-RULE OF LAW	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,4447,2717,1,169,14,22,1,65,14,1
+RULE OF LAW	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,4447,2717,1,169,14,22,1,65,14,1,48
 RULE OF LAW FOUNDATIONS FOR ECONOMIC	10835,3,130,902,16,466,1,135,7334
 RULE OF LAW SCORE	10759,76,2,1,130,902,16,266,188,12,1,135,7334,116
 RULE OF LAW SECURITY	10759,76,2,1,130,902,16,3,451,12,1,135,7334,116
@@ -1558,7 +1560,7 @@ Revisits Law	8647
 Rights Lawyer	2626
 Risk and Law Enforcement Strategy Directorate	12500
 Royal Swaziland Police7. Law Society8	12936
-Rule of Law	1828,1563,735,156,962,2441,3074,76,2,1,74,56,167,19,382,50,284,16,1,1,1,263,1,1,9,177,1,11,1,135,153,407,12,1837,62,659,1272,80,5,10,11,47,96,118,3,29,75,3,413,678,19,138,1037,1,169,14,22,1,65,7,7,1
+Rule of Law	1828,1563,735,156,962,2441,3074,76,2,1,74,56,167,19,382,50,284,16,1,1,1,263,1,1,9,177,1,11,1,135,153,407,12,1837,62,659,1272,80,5,10,11,47,96,118,3,29,75,3,413,678,19,138,1037,1,169,14,22,1,65,7,7,1,48
 Rule of Law ACCOUNTABILITY	10759
 Rule of Law Absence of Crime Poverty Reduction	10759
 Rule of Law Accountability	10759,1395
@@ -1589,7 +1591,7 @@ Rule of Law and Consumer Protection Michael McGrath	8773
 Rule of Law and Foundations for Economic Opportunity	12152
 Rule of Law and Fundamental Freedoms	13170
 Rule of Law and Human Development	11887,453
-Rule of Law and Participation	11886,268,7705
+Rule of Law and Participation	11886,268,7705,128
 Rule of Law. UNESCO	13048
 Rule of Law29	1814
 Rwanda Data Protection Law	12333,5
@@ -1693,6 +1695,7 @@ Settlement Law	969
 Seychelles Law Commission	19096
 Seychelles Law Commission's Work Programme	19137,1
 Shariah Laws	16951
+Sharing and Open Data Law	20004
 Sierra Leone Law School	18477
 Sierra Leone's First Data Protection Law	18493
 Single Digital Identification Law	5399
@@ -1831,7 +1834,7 @@ Uganda Law Society President Isaac K	8470
 Uganda. By Laws.Africa	19630
 Under Congo’s Law No	11847
 Under Guinea-Bissau’s Law	11550
-Under Law	7903,3647,8108
+Under Law	7903,3647,8108,344
 Under Law No	3713,7195,4565
 Under Mortgage Law No	15473
 Under OHADA’s Uniform Arbitration Law	16972

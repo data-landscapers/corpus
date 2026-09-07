@@ -502,7 +502,7 @@ ESTABLISHES LIMITS ON PAYMENTS ABROAD MADE	12860
 ESTABLISHES THE MOZAMBIQUE INSTANT PAYMENT SYSTEM	12296
 ESWATINI PAYMENT SWITCH	13052
 ET DES TRANSACTIONS PAR PAYS ENTRE	4459
-ETAT DE PREPARATION DU PAYS	13717,4388
+ETAT DE PREPARATION DU PAYS	13717,4388,1881
 ETRANZACT PAY-IN	17242
 EUR34.3M. Care Pay	186
 EXECUTION OF PAYMENT TRANSACTIONS	14919
@@ -1137,6 +1137,7 @@ National Electronic Payment Switch Implementation Committee	16876
 National Electronic Payment Switch Non-bank	16878
 National Electronic Payments Switch	16878,260
 National Financial Inclusion Strategy National Payment	940
+National Identity the Ministry of Finance Payroll System	20004
 National Instant Payment Network	19883
 National Instant Payment Switch	2395
 National Instant Payment System	2358,854,2652,3912,83,2433,2862,3548
@@ -2040,7 +2041,7 @@ Pays-Bas. La Convention Apostille	9086
 Pays-bas	16249
 Pays. Article	15382
 Pays. Ce	17896
-Pays. Il	10900
+Pays. Il	10900,9085
 Pays. Plus	13442
 Paysage	3242,4413,3310,979,5952
 Paysages Prioritaires de Conservation	15500
@@ -2433,7 +2434,7 @@ Treatment of Captured Payment Cards	19940
 Trend of Pay TV	15136
 Tresor Pay	2597
 Trust Payment	14897
-Trésor Pay	4347,5646,944,45,742
+Trésor Pay	4347,5646,944,45,742,8282
 Trésor Pay. En	10913
 Trésorier Payeur Régional	17817
 Trésorier- Payeur	17861

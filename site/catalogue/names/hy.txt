@@ -325,7 +325,7 @@ Hydrauli-	17812
 Hydraulic	2989,10396,3515
 Hydraulic Resources	16164
 Hydraulic and Hydrocarbons	16649
-Hydraulics	15372,3515
+Hydraulics	15372,3515,1115
 Hydraulics and Hydrocarbons	16649,5
 Hydraulique	4895,2009,1074,900,1143,954,2366,36,2282,98,42,16,121,111,276,36,230,27,5,20,20,968,183,32,8,21,82,28,9,40,86,33,5,10,3,58,11,27,21
 Hydraulique DHB Direction	17873
@@ -366,7 +366,7 @@ Hydrobox Kenya Ltd Generation	12256
 Hydrocarbon	12253,4649,94,244
 Hydrocarbon Law	16972
 Hydrocarbon Tax	11976
-Hydrocarbons	5452,6072,382,1887,2484,377
+Hydrocarbons	5452,6072,382,1887,2484,377,3348
 Hydrocarbons Short	16996
 Hydrocarbure AnalyseContrôle	15542
 Hydrocarbures	1682,660,5636,259,32,404,5064,688,105,896,116,156,349,45,1,37,97,148,62,49,41,114,20,1625,36,955
@@ -704,8 +704,10 @@ Minister of Hydrocarbons	14202
 Minister of Hydrocarbons and Mines	16279
 Ministre de Ressources Hydrauliques	15739
 Ministre des Ressources Hydrauliques	16108
+Ministry of Energy Hydrolics and Hydrocarbons	20002
 Ministry of Energy and Hydraulic	15969
 Ministry of Energy and Hydraulics	11936,3723
+Ministry of Energy and Hydraulics. Finances	20023
 Ministry of Energy and Hydrocarbons	14456
 Ministry of Health and Public Hygiene	4090,14269,11,914
 Ministry of Health and Public Hygiene OFNAC	18370
@@ -824,6 +826,7 @@ Saforo Expands Hybrid Work Through Zuludesk	2269,19,45,14,9,24,65,84,4,11,6,12,3
 Samsung and SK Hynix	10201
 Sanitation and Hygiene	1988,8154,2266,556,159,620,44,3109,1229,335,72,1244,198
 Sanitation and Hygiene GLOSSARY Project-Affected Person	17114
+Sanitation and Hygiene Promotion	19988
 Sanitation and Hygiene WBG World Bank Group	15518
 Sanitation and Hygiene WC	15574
 Sanitation and Hygiene WCO WHO Country Office	17289
@@ -899,6 +902,7 @@ Warak Hybride	10975
 Water Quality and Hydrology	17114
 Water Sanitation and Hygiene	970,13652,2300
 Water and Hydrocarbons	13734
+Water and Hydrocarbons and SONELEC	20025
 Wind PV Nuclear Hydro Hybrid Gas	11236
 Wovwe Hydro	13060
 Wovwe II Hydropower Project	13241

@@ -420,6 +420,7 @@ National Treasury and Planning Public Procurement	12322
 Nazaha National Digital Public Procurement	10008
 Nikolai Sviedrys Procurement Team Systematic	19284
 No. Contract Estimated Procurement Review Market	17180
+No. Procurement	19990
 Non-Competitive Procurement	9650
 Non-Delivery of Procured Motor Vehicles Finding Parliament	13420
 None Procurement Packages	17180
@@ -477,6 +478,7 @@ PPSD Project Procurement Strategy for Development PrDO	6539
 PPSD and Procurement Plan	3604,7921,5424
 PPSD. The Procurement Plan	6539
 PRA Project Procurement Strategy for Development SBD	10964
+PRAMS Procurement Risk Assessment and Management System	19988
 PROCUREMENT	1867,10533,2680
 PROCUREMENT ACTION PLAN	16384
 PROCUREMENT AND DISPOSAL OF ICT EQUIPMENT	34
@@ -573,7 +575,7 @@ Procurem	13938
 Procureme	13938
 Procureme IDA	17180
 Procuremen	6432
-Procurement	352,618,191,67,36,20,6,264,264,49,121,81,630,168,22,100,62,21,319,213,257,265,134,303,90,594,376,809,66,41,64,343,2,112,162,44,282,100,273,30,498,62,117,95,110,301,175,90,204,1,1117,47,17,44,10,47,78,11,154,5,64,13,7,6,24,2,12,139,16,108,225,105,8,4,38,19,11,30,21,5,4,181,19,6,144,13,63,27,54,341,74,17,27,1,9,4,5,10,15,9,3,20,5,80,63,129,17,1,25,35,28,39,68,79,55,277,72,70,105,39,232,109,56,53,55,7,2,8,4,2,31,19,28,28,9,21,46,31,54,9,3,49,10,48,26,26,152,30,39,13,87,7,35,48,18,39,1,2,2,41,9,69,8,111,82,96,65,292,178,40,9,42,9,33,46,70,13,20,26,2,23,2,21,3,64,27,15,35,2,22,1,41,39,16,60,33,6,107,29,379,11,19,83,44,1,191,95,207,58,4,15,58,26,93,71,62,358,39,171,64,20,45,1,54,21,17,35,23,66,34,12,76
+Procurement	352,618,191,67,36,20,6,264,264,49,121,81,630,168,22,100,62,21,319,213,257,265,134,303,90,594,376,809,66,41,64,343,2,112,162,44,282,100,273,30,498,62,117,95,110,301,175,90,204,1,1117,47,17,44,10,47,78,11,154,5,64,13,7,6,24,2,12,139,16,108,225,105,8,4,38,19,11,30,21,5,4,181,19,6,144,13,63,27,54,341,74,17,27,1,9,4,5,10,15,9,3,20,5,80,63,129,17,1,25,35,28,39,68,79,55,277,72,70,105,39,232,109,56,53,55,7,2,8,4,2,31,19,28,28,9,21,46,31,54,9,3,49,10,48,26,26,152,30,39,13,87,7,35,48,18,39,1,2,2,41,9,69,8,111,82,96,65,292,178,40,9,42,9,33,46,70,13,20,26,2,23,2,21,3,64,27,15,35,2,22,1,41,39,16,60,33,6,107,29,379,11,19,83,44,1,191,95,207,58,4,15,58,26,93,71,62,358,39,171,64,20,45,1,54,21,17,35,23,66,34,12,76,65
 Procurement A1-Local AI	7548
 Procurement AI	4126
 Procurement Act	12961,1789,2174,1576
@@ -678,6 +680,7 @@ Procurement Page	10721
 Procurement Performance Rating	16922
 Procurement Performance. Based	16436
 Procurement Performance. The Project	13392
+Procurement Performance. The WB	19988
 Procurement Phase	230
 Procurement Plan	1867,1122,615,1535,1400,4229,61,135,561,330,8,42,1015,97,168,146,217,390,1434,39,107,35,48,57,1,145,348,42,702,26,48,210,39,1082,586,327,31,39,301,262
 Procurement Plan. Based	10829
@@ -748,7 +751,7 @@ Procurement Representative	12400
 Procurement Review of Digital Technologies B1.1Develop	14729
 Procurement Review. Budgets	17180
 Procurement Risk Analysis	11525
-Procurement Risk Assessment and Management System	16949
+Procurement Risk Assessment and Management System	16949,3039
 Procurement Risk Assessment and Management System REDISSE	11560
 Procurement Risk Assessment and Mitigation Action Plan	10768
 Procurement Risk Rating	15518
@@ -778,6 +781,7 @@ Procurement Specialist No Flavia Gabriela Oyo	18809
 Procurement Specialist Procurement No Messan	19284
 Procurement Specialist Tahirou Kalam Procurement Specialist	17962
 Procurement Specialist W	12195
+Procurement Specialist. Mamady Kobele Keita	19988
 Procurement Specialists	1284,9586
 Procurement Spend	11211,51
 Procurement Spread	12951
@@ -803,6 +807,7 @@ Procurement TA Technical Assistance TGR General	17458
 Procurement TA Technical Assistance TOR Terms	1264,5275
 Procurement TA Technical Assistance TORs Terms	15518
 Procurement TA Technical Assistance The Global	11560
+Procurement TA Technical Assistance ToR Terms	19988
 Procurement TA Technical Assistance UNDP United	11525
 Procurement TC Technical Assistance TLM Technical	11905
 Procurement TF Trust Fund UHC Universal	16922
@@ -814,6 +819,10 @@ Procurement Team Harika Masud Team Member	15663
 Procurement Team Mahamadou Ahmadou Maiga Procurement	17962
 Procurement Team No Delfim Mampassi	18809
 Procurement Team STEP EAWRU Wittich Sariette	16922
+Procurement Team. Alpha Mamoudou Bah	19988
+Procurement Team. Germaine M. Ethy	19988
+Procurement Team. Khady Fall Lo	19988
+Procurement Team. Mamadou Saliou Diallo	19988
 Procurement Technology	18531
 Procurement Terms of Reference Treasury Single Account	15658
 Procurement The CAR Public Procurement	10829
@@ -967,7 +976,7 @@ Public Procurement Law	18823,2
 Public Procurement Office	4633,6646,3457
 Public Procurement Order No.4	18543
 Public Procurement Portal	13037,1719,47,44
-Public Procurement Procedures	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Public Procurement Procedures	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Public Procurement Procedures. Best	19924
 Public Procurement Reform	12922,34
 Public Procurement Regulation	19534,51

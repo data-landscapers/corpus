@@ -767,6 +767,7 @@ Digital Public Infrastructure Digitalisation	9535
 Digital Public Infrastructure Duration	17417
 Digital Public Infrastructure EGDI E-Government Development	13861
 Digital Public Infrastructure EMSP Economic Community	3604
+Digital Public Infrastructure Fund	20004
 Digital Public Infrastructure MALAWI DIGITAL READINESS	12214
 Digital Public Infrastructure Map	5700
 Digital Public Infrastructure Next Next Co-Develop	12366
@@ -1312,7 +1313,7 @@ INFRAESTRUTURAÇÃO	16487
 INFRAS TRU ESDE LECOMMI	15399
 INFRASTRUCTU	3396
 INFRASTRUCTURAL DEVELOPMENT	13474
-INFRASTRUCTURE	10759,78,1,23,107,889,13,16,2,1,263,1,10,177,1,11,1,42,93,453,244,1538,50,844,424,842,1,86,258,650,4,1770,1,169,14,22,1,65,14,1
+INFRASTRUCTURE	10759,78,1,23,107,889,13,16,2,1,263,1,10,177,1,11,1,42,93,453,244,1538,50,844,424,842,1,86,258,650,4,1770,1,169,14,22,1,65,14,1,48
 INFRASTRUCTURE AND ACCESS	10852
 INFRASTRUCTURE AND CONNECTIVITY	16884
 INFRASTRUCTURE AND DEVELOPMENT OF NEW SERVICES	14853
@@ -1602,7 +1603,7 @@ Infrastructural Readiness	16963
 Infrastructural Realities	14666
 Infrastructural State Capacity	5700
 Infrastructuras	16187
-Infrastructure	21,374,1,183,14,50,105,14,3,134,63,8,191,103,20,494,89,12,30,79,5,423,359,382,40,21,74,86,78,98,29,13,139,126,1,125,139,41,74,287,112,200,8,48,34,34,16,28,7,226,5,1,29,13,51,24,6,70,73,20,18,51,73,25,43,50,118,35,29,8,47,40,180,136,46,35,92,34,143,37,16,43,2,103,10,1,118,7,78,5,125,6,50,6,16,51,42,1,18,72,3,2,45,3,155,85,53,1,3,58,14,1,42,19,2,45,109,58,60,198,26,39,10,54,126,10,214,145,5,78,138,125,105,42,68,23,11,41,61,4,135,11,25,14,38,23,82,19,17,22,11,159,85,58,140,58,38,22,54,2,1,3,3,17,1,50,1,35,17,3,1,7,65,79,10,1,2,1,5,10,6,38,3,13,66,30,164,60,19,2,257,33,17,6,7,11,1,2,1,1,1,1,1,6,32,13,8,4,8,5,25,16,29,55,59,4,1,5,1,3,29,12,1,5,4,22,4,1,12,49,13,18,7,1,5,5,1,1,2,1,3,5,12,10,9,1,25,15,8,1,8,34,1,5,8,7,4,86,8,11,15,25,24,78,84,53,21,1,7,1,9,6,15,11,4,4,30,1,105,12,15,157,36,9,1,3,1,12,2,59,50,63,79,14,30,7,24,220,80,6,13,74,20,6,16,271,38,27,33,1,44,140,68,19,68,22,28,18,25,1,11,31,20,12,14,8,15,47,15,33,9,11,15,80,38,2,58,30,22,78,1,1,6,8,5,19,30,33,9,33,26,16,2,9,10,33,132,56,35,1,109,59,39,68,31,5,47,109,26,6,46,13,50,81,15,13,65,69,51,19,14,4,7,1,1,30,8,1,3,12,3,1,32,21,142,1,18,39,43,2,19,69,5,108,377,24,11,2,11,3,2,10,14,6,34,26,11,10,24,9,21,56,30,113,54,3,2,3,7,1,10,1,42,36,35,1,15,11,18,3,7,2,42,2,44,6,31,2,19,121,41,43,49,17,3,26,27,119,54,19,5,56,85,2,32,28,2,3,7,21,126,13,1,1,51,11,37,5,4,10,1,7,3,14,21,11,13,6,12,5,33,44,14,3,19,1,1,2,3,42,17,7,7,1,13,6,8
+Infrastructure	21,374,1,183,14,50,105,14,3,134,63,8,191,103,20,494,89,12,30,79,5,423,359,382,40,21,74,86,78,98,29,13,139,126,1,125,139,41,74,287,112,200,8,48,34,34,16,28,7,226,5,1,29,13,51,24,6,70,73,20,18,51,73,25,43,50,118,35,29,8,47,40,180,136,46,35,92,34,143,37,16,43,2,103,10,1,118,7,78,5,125,6,50,6,16,51,42,1,18,72,3,2,45,3,155,85,53,1,3,58,14,1,42,19,2,45,109,58,60,198,26,39,10,54,126,10,214,145,5,78,138,125,105,42,68,23,11,41,61,4,135,11,25,14,38,23,82,19,17,22,11,159,85,58,140,58,38,22,54,2,1,3,3,17,1,50,1,35,17,3,1,7,65,79,10,1,2,1,5,10,6,38,3,13,66,30,164,60,19,2,257,33,17,6,7,11,1,2,1,1,1,1,1,6,32,13,8,4,8,5,25,16,29,55,59,4,1,5,1,3,29,12,1,5,4,22,4,1,12,49,13,18,7,1,5,5,1,1,2,1,3,5,12,10,9,1,25,15,8,1,8,34,1,5,8,7,4,86,8,11,15,25,24,78,84,53,21,1,7,1,9,6,15,11,4,4,30,1,105,12,15,157,36,9,1,3,1,12,2,59,50,63,79,14,30,7,24,220,80,6,13,74,20,6,16,271,38,27,33,1,44,140,68,19,68,22,28,18,25,1,11,31,20,12,14,8,15,47,15,33,9,11,15,80,38,2,58,30,22,78,1,1,6,8,5,19,30,33,9,33,26,16,2,9,10,33,132,56,35,1,109,59,39,68,31,5,47,109,26,6,46,13,50,81,15,13,65,69,51,19,14,4,7,1,1,30,8,1,3,12,3,1,32,21,142,1,18,39,43,2,19,69,5,108,377,24,11,2,11,3,2,10,14,6,34,26,11,10,24,9,21,56,30,113,54,3,2,3,7,1,10,1,42,36,35,1,15,11,18,3,7,2,42,2,44,6,31,2,19,121,41,43,49,17,3,26,27,119,54,19,5,56,85,2,32,28,2,3,7,21,126,13,1,1,51,11,37,5,4,10,1,7,3,14,21,11,13,6,12,5,33,44,14,3,19,1,1,2,3,42,17,7,7,1,13,6,8,21,8,9
 Infrastructure Access	12214
 Infrastructure Accessibility	12411
 Infrastructure Act	1777
@@ -1938,6 +1939,7 @@ Infrastructure and Retail	16285
 Infrastructure and Road Maintenance	16275
 Infrastructure and Road Maintenance22	15553
 Infrastructure and Rural Economy. Category	11887
+Infrastructure and Rural Economy. Year-by-year	19987
 Infrastructure and Security	12529
 Infrastructure and Service Delivery	18370
 Infrastructure and Service Gaps	17260
@@ -2019,7 +2021,7 @@ Infrastructures Publiques Numériques	13530,3043
 Infrastructures Renforcer	17845
 Infrastructures SIS SAE Indicateurs	17845
 Infrastructures SIS SIH Indicateurs	17845
-Infrastructures TIC	13306,4575
+Infrastructures TIC	13306,4575,2105
 Infrastructures Taux	17845
 Infrastructures Upgrades Investing	17011
 Infrastructures Urbaines	16614
@@ -2158,6 +2160,7 @@ Liberia's Digital Infrastructure	5244
 Libya INFRASTRUCTURE	16940
 Libyan Spatial Data Infrastructure	16916
 Ligne ICP Infrastructure	16626
+Limited Interoperability Infrastructure	20004
 Line Ministries National Annual Infrastructure Conference	17260
 Line of Credit LBR Liberia Payments Infrastructure	17235
 Liquid ECG Infraco	1126
@@ -2399,6 +2402,7 @@ National Quality Infrastructure Several	13320
 National Quality Infrastructure and Technical Regulation	13320
 National Quality Infrastructure of Zimbabwe. The NQI	13320
 National Research and Education Infrastructure	9126
+National Service of School Infrastructure and Equipment	19988
 National Spatial Data Infrastruc-	15473
 National Spatial Data Infrastructure	976,820,1193,220,2035,1449,2792,166,2211,507,88,442,3,5,124,1848,3414,611,1077
 National Spatial Data Infrastructure ODA	5244
@@ -2668,7 +2672,7 @@ Public Key Infrastructure Proof-of-Concept Point of Sale	11130
 Public Key Infrastructure. Founding	8073
 Public Key Infrastructures	11939
 Public Perception of Economic Opportunities Infrastructure	10759,1395
-Public Perception of Infrastructure	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Public Perception of Infrastructure	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Public Perception of Infrastructure Rural Economy	10759,1130,265,9,178,7312
 Public Private Infrastructure Advisory UN United	14897
 Public Works and Infrastructure	11248,37
@@ -2876,9 +2880,12 @@ Sentech-Broadband Infraco	5968
 Service Infrastructure	11857
 Service Infrastructure-as-a-Service	9123
 Service Infrastructures Sanitaires	15678
+Service National Infrastructure	19998
+Service National des Infrastructures	19988
 Service PKI Public Key Infrastructure PURA	16923
 Service RCIP Regional Communication Infrastructure Project	13331
 Service des Infrastructures	14537
+Service of School Infrastructure and Equipment	19988
 Services Electronic Commerce ICT Infrastructure Development	16861
 Services and Soft Infrastructure	19533
 Services and Soft Infrastructure Technology Roadmap	19533

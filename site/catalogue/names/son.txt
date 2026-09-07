@@ -401,7 +401,7 @@ SONEB Traitement	10821
 SONEDE	5101,850,7801,5660,71,18
 SONEL	10975
 SONEL. Mise	15542
-SONELEC	3868,9867,17,41,17,6013,2
+SONELEC	3868,9867,17,41,17,6013,2,200
 SONELEC JET Househo	19823
 SONELEC JET Household	19823
 SONELEC Quasi-fiscal Deficit	19823
@@ -469,6 +469,7 @@ Singida Songwe	19517
 Singida Uvuvi Haramu Songwe Kupatikana	19517
 Snehal Soneji	13752
 SoNA-in-Numbers	11245
+Social Specialist. Bolong Landing Sonko	19988
 Société Nationale des Eaux du Bénin SONEB Taxe	15583
 Son Altesse	13405,1
 Son Altesse Royale la Princesse Lalla Meryem	8891
@@ -677,7 +678,7 @@ Sonelgaz	3286,3745,3581,5274,393,52,121,1790
 Sonelgaz Distribution	3286
 Sonelgaz Group	15886,393
 Sonelgaz and Sonatrach	15886,393
-Sonfonia	9542
+Sonfonia	9542,10455
 Song Bingchen	9238
 Song Cf	10975
 Song Dong	15542
@@ -821,6 +822,7 @@ USD. Son	17973
 Unité Primaire de Sondage	17945
 Unité Secondaire de Sondage	17945
 Unités Primaires de Sondage	13300
+Université Général Lansana CONTÉ de Sonfonia	19997
 Université Général Lansana Conté de Sonfonia	16641,46,25
 Upper Sec. Sec Songwe	19542
 V Songloulou	10975
@@ -830,5 +832,6 @@ Vera Songwe	12122
 Vera Songwe Nathan M. Belete Director	17849
 Vwawa Songwe	19592
 W. Son	16621
+Water and Hydrocarbons and SONELEC	20025
 Wilson Sonsini Goodrich	8773
 Yunsang Song	10785

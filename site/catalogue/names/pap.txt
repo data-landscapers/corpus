@@ -585,7 +585,8 @@ Papeis	18801
 Papel	1701,9695,127,14,6,5550
 Papel Transformador	12822
 Papelão	10777
-Paper	970,39,252,567,160,379,2982,133,51,66,273,673,699,8,321,1032,279,94,145,130,146,914,499,29,122,16,18,162,36,1,73,532,126,43,16,104,17,230,42,34,730,242,637,318,383,37,267,444,2,18,172,603,577,57,49,296,512,1480,290,203,157,13
+Paper	970,39,252,567,160,379,2982,133,51,66,273,673,699,8,321,1032,279,94,145,130,146,914,499,29,122,16,18,162,36,1,73,532,126,43,16,104,17,230,42,34,730,242,637,318,383,37,267,444,2,18,172,603,577,57,49,296,512,1480,290,203,157,13,96
+Paper Cards	19996
 Paper Copies Not Required	12389
 Paper Handling	34
 Paper IDs	12214
@@ -638,7 +639,7 @@ Papiloma Humano	18783
 Papiloma Humano IAEA Agência Internacional de Energia	11376
 Papiloma Humano ICOPE Integrated Care for Older	15966
 Papper	18757
-Papua New Guinea	8004,2710,50,21,824,1433,2429,29,1131,2226
+Papua New Guinea	8004,2710,50,21,824,1433,2429,29,1131,2226,1152
 Papua New Guinea Guinea Republic	11005
 Papua New Guinea Samoa Solomon Islands	13042,3589
 Papua New Guinea Under-Bond Cargo Management	16631
@@ -679,7 +680,7 @@ Primary Balance PAPSS Participating Financial Institutions	17235
 Prioritaires PAPDFF Programme	18286
 Priority PAPIRET Action Plan for Innovation and Reform	18931
 Product Appraisal and Project Papers	10985
-Program Paper	14096
+Program Paper	14096,5945
 Program Working Paper	15663
 Program. NBER Working Paper Series	10964
 Program. Working Paper	15663
@@ -687,7 +688,7 @@ Programme Alimentaire Mondial PAP	15848
 Progressive VAT. IMF Working Paper WP	10997
 Project Appraisal and Project Paper	10985
 Project Area. Each PAPJ	17441
-Project Paper	1284,1605,3621,5414,41,3173,52,341,132,119,201,71,344,498,26,984,903,475,171
+Project Paper	1284,1605,3621,5414,41,1868,1305,52,341,132,119,201,71,344,498,26,984,903,475,171,570
 Project Paper PAD5527	1578
 Project Paper URL	13860,4338,1257
 Propos de PAPSS	17465
@@ -697,6 +698,7 @@ Purpose and Objective This Consultation Paper	8670
 Qualitative Report. Regional Program Working Paper	15663
 Quantitative Report. Regional Program Working Paper	15663
 REDEFINIÇÃO DO PAPEL DO ESTADO	11397
+RES00125 RESTRUCTURING PAPER ON A PROPOSED	19990
 RES00365 RESTRUCTURING PAPER ON A PROPOSED	15693
 RES00782 RESTRUCTURING PAPER ON A PROPOSED	2473
 RES01037 RESTRUCTURING PAPER ON A PROPOSED	14038
@@ -719,7 +721,7 @@ Research Papers	19657
 Responsabilidades O Papel	18788
 Response Approach Paper	15511
 Restitution PAPIQ	2966
-Restructuring Paper	2473,9747,1677,1069,635,201,167,63,155
+Restructuring Paper	2473,9747,1677,1069,635,201,167,63,155,3801
 Restructuring Paper No	17862
 Restructuring Paper On A Proposed Project	10856
 Restructuring Paper RES01465	13831
@@ -871,6 +873,8 @@ World Bank HNP Discussion Paper	10829
 World Bank Learning Paper Series	15743
 World Bank Policy Research Working Paper	10963,1,176,784,3734,778,1865
 World Bank Policy Working Paper	15473
+World Bank Program Paper	20041
+World Bank Project Paper	20025,4
 World Bank Restructuring Paper RES01465	13831
 World Bank. Project Paper	15601,62
 World Bank. Restructuring Paper	15601

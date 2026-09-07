@@ -45,7 +45,7 @@ ANTI-ALOPECIQUES ET ANTI-SEBORRHEIQUES ACIDE TRETINOIQUE	15930
 ANTI-ANEMIQUES ACIDE FOLIQUE CYANOCOBALAMINE FEREDETATE	15930
 ANTI-AVOIDANCE PROVISIONS	14717
 ANTI-COMPETITIVE CONDUCT	11240
-ANTI-CORRUPTION	10759,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135,7164,1,183,22,1,65,14,1
+ANTI-CORRUPTION	10759,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135,7164,1,183,22,1,65,14,1,48
 ANTI-CORRUPTION ACCOUNTABILITY SUSTAINABLE BUSINESS	12353
 ANTI-CORRUPTION Anti-Corruption Mechanisms	10759,78,1052,451,7598
 ANTI-CORRUPTION HEALTH	10838,1032
@@ -383,7 +383,7 @@ Anti-Bias National Datasets Analysis	12512
 Anti-Competitive Practice. CHAPTER VIII MANAGEMENT	18602
 Anti-Competitive Practices	16835
 Anti-Cor IDA	17180
-Anti-Corruption	1638,9121,76,2,1,74,56,902,16,1,1,1,27,237,1,9,178,11,1,135,499,2385,1665,102,2513,1,169,14,22,1,65,15
+Anti-Corruption	1638,9121,76,2,1,74,56,902,16,1,1,1,27,237,1,9,178,11,1,135,499,2385,1665,102,2513,1,169,14,22,1,65,15,48
 Anti-Corruption Act	3583,131,3492,1307,4446,518,3496,961,533,10,502
 Anti-Corruption Act No	13477
 Anti-Corruption Activities	17139
@@ -419,7 +419,7 @@ Anti-Corruption Index Foreign Trade	5101,850
 Anti-Corruption Law	16972
 Anti-Corruption Laws of Mauritius	14766
 Anti-Corruption Measures	13685
-Anti-Corruption Mechanisms	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Anti-Corruption Mechanisms	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Anti-Corruption Mechanisms Absence of Corruption	10837
 Anti-Corruption Mechanisms1	19822
 Anti-Corruption Participation	11889,452
@@ -560,7 +560,7 @@ Anticipatory Action Review Workshop Figure	12241
 Anticipatory Action Review Workshop Official Launch	13080
 Anticipatory Cash Transfers	10763
 Anticipatory and Disaster Responses	19685
-Anticipatory and Early Action	15093
+Anticipatory and Early Action	15093,4943
 Anticiper	8891,5532,65,1,1,802,41,209,609,3070
 Anticipos	4209
 Anticipé	15901
@@ -1345,7 +1345,7 @@ Prossy Mukisa and Anthony Odur	3005
 Prove Rani Group and Others Anti-Competitive Practices	10465
 Public Participation and Anti-Corruption Education	17037
 Public Perception of Accountability Anti-Corruption	10759,1130,265,9,178,7312
-Public Perception of Anti-Corruption	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Public Perception of Anti-Corruption	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Public Perception of Anti-Corruption PARTICIPATION	10759,1395
 Public Perception of Anti-Corruption Rule of Law	11889,274,178,7312
 Pushes for Passage of Specialized Anti-Corruption Court	17037

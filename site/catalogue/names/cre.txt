@@ -546,7 +546,7 @@ Creativa Innovation Hubs	1902,13916,228,161
 Creativa Innovation Hubs Creativa Innovation Hubs	19885
 Creativa Innovation Hubs Regulatory Framework	15713
 Creativa Innovation Hubs. Pillar	15713
-Creative	507,2011,6611,108,1609,123,915,1,10,264,1,28,16,1,146,4,41,91,611,3844,54,2866,3,87
+Creative	507,2011,6611,108,1609,123,915,1,10,264,1,28,16,1,146,4,41,91,611,3844,54,2866,3,87,43
 Creative Africa Nexus	8149,1492
 Creative Arts	16206
 Creative Arts and Cultural Development Programme	14829
@@ -647,7 +647,7 @@ Credible Evidence Generation GHAI	13608
 Credible Knowledge Foundations	18461
 Credible and Inclusive Elections	18531
 Credisure	3922
-Credit	940,238,106,544,125,520,239,63,688,389,176,231,129,209,91,160,74,32,293,35,200,732,221,141,3,349,12,412,171,240,82,16,16,44,362,1499,120,368,575,25,61,38,8,128,26,3,64,73,1,38,85,110,379,1,10,29,41,6,23,6,159,1,35,10,13,10,3,3,15,18,2,1,27,54,4,4,1,4,10,15,20,31,4,1,15,27,3,19,65,127,255,6,82,9,5,546,20,206,165,81,354,116,190,73,171,17,26,107,29,183,30,39,179,29,78,38,67,2,86,123,66,7,66,341,145,67,139,17,15,66,18,34,2,4,79,16,1,31,11,42,13,16,10,16,1,21,59,1,45,43,11,5,20,29,33,2,399,54,27,21,103,24,217,4,1,37,81,34,27,164,72,22,25,6,28,36,38,57,116,144,3,4,35,343,16,32,27,133,5,7,15,3,10,65,12
+Credit	940,238,106,544,125,520,239,63,688,389,176,231,129,209,91,160,74,32,293,35,200,732,221,141,3,349,12,412,171,240,82,16,16,44,362,1499,120,368,575,25,61,38,8,128,26,3,64,73,1,38,85,110,379,1,10,29,41,6,23,6,159,1,35,10,13,10,3,3,15,18,2,1,27,54,4,4,1,4,10,15,20,31,4,1,15,27,3,19,65,127,255,6,82,9,5,546,20,206,165,81,354,116,190,73,171,17,26,107,29,183,30,39,179,29,78,38,67,2,86,123,66,7,66,341,145,67,139,17,15,66,18,34,2,4,79,16,1,31,11,42,13,16,10,16,1,21,59,1,45,43,11,5,20,29,33,2,399,54,27,21,103,24,217,4,1,37,81,34,27,164,72,22,25,6,28,36,38,57,116,144,3,4,35,343,16,32,27,133,5,7,15,3,10,65,12,38,5,6
 Credit Accounts	7763
 Credit Accumulation and Transfer	12574
 Credit Act NCC National Consumer Commission	11198
@@ -655,7 +655,7 @@ Credit Adults	17870
 Credit Advanced	17236
 Credit Agreement No	15601
 Credit Agreement No.5157	14546
-Credit Allocated	4653
+Credit Allocated	4653,15337
 Credit Amount Grant	11855
 Credit Amount Grant Amount Guarantee	969,9860,2502,1,4961
 Credit Amount Grant Amount National Performance-Based	15658
@@ -730,7 +730,7 @@ Credit No. IDA-D8380 Project Implementation Support	18494
 Credit No.6121-KE Financing Agreement	14546
 Credit Note	8156
 Credit Notes Issued	12509
-Credit Number	577,13284,1921
+Credit Number	577,13284,1921,4208
 Credit Only Microfinance Institutions	14206
 Credit POS Deployment Chat Banking Cheques	19940
 Credit Platform	14274
@@ -1176,7 +1176,7 @@ ID Credentials Ministry of Health	12241
 ID Credentials Strategy	3427
 IDA CREDIT NO	14546
 IDA CREDIT NO.6980-KE	14546
-IDA Credit	773,491,989,1351,7359,562,380,60,447,257,663,683,538,23,562,412,71,181,181,161,149,91,270,1,20,285,1340,587,358,398,192
+IDA Credit	773,491,989,1351,7359,562,380,60,447,257,663,683,538,23,562,412,71,181,181,161,149,91,270,1,20,285,1340,587,358,398,192,167
 IDA Credit IDA Grant Total Financing	19284
 IDA Credit IDA Resources	10964,891
 IDA Credit No	15802
@@ -1191,7 +1191,7 @@ IDA-D2980 ON A CREDIT	15601
 II Credits	13313
 III. Creation	14729
 ILLUSTRATOR CEO CREATURES ANIMATION ANIMATOR	9781
-IMF Extended Credit Facility	5247,8285,2127,1576,2702
+IMF Extended Credit Facility	5247,8285,2127,1576,2702,103
 IMF Rapid Credit Facility	17104
 IMF’s Extended Credit Facility	5247
 IMF’s Extended Credit Facility. Liberia	17364
@@ -1791,6 +1791,7 @@ W3C Verifiable Credentials	13095,4322
 W3C Verifiable Credentials and Decentralized Identifiers	13080,15
 W3C Verifiable Credentials and OpenID Connect	13080
 WAEMU Credit Information CAISFF Bureau	17870
+WURI-Guinea's Credit Number	19990
 Water and Environment. Credit	14162
 Watu Credit	6593,3720
 Wealth Creation and Rapid Economic Growth	16861

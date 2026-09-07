@@ -248,7 +248,7 @@ Cyber Clinic Outreach	18649
 Cybersecurity Maturity Matrix Outcome	10721
 Cybersecurity and System Outages	18556
 D-STG-SG01.07.5-2021-PDF-E.pdf Output Report	15499
-D. JUSTIFICATION OF OVERALL OUTCOME RATING	11924,3500,87,90,62,68,705,516,910,100,803
+D. JUSTIFICATION OF OVERALL OUTCOME RATING	11924,3500,87,90,62,68,705,516,910,100,803,1223
 D. Output Encoding	15161
 D. RISK TO DEVELOPMENT OUTCOME	11924,3500,87,90,62,68,705,516,910,100,803
 DE LA DISCIPLINE Outre	18003
@@ -352,6 +352,7 @@ E-government Roll Out	958
 E-services PIAP Output	19742
 E. Expected Output	14927
 E. OTHER OUTCOMES AND IMPACTS	11924,3500,87,90,62,68,1221,910,903
+E. OTHER OUTCOMES AND IMPACTS Gender	19988
 EB Financial Audits OUTPUT INDICATOR	11863
 EC Outlines Sweeping Reforms	16574
 ECONOMIC DEVELOPMENTS AND OUTLOOK	13685
@@ -465,6 +466,7 @@ Faculdade de Ciências. Outros	2816
 Fair Business Process Outsourcing ICT Innovation	19709,82,3
 Family Planning Outreach Coverage	19544
 Farmers Expand Output	8639
+Final Outcome Rating	19988
 Finance and Supply Chain Management Outcome	11986
 Financial Audits OUTPUT INDICATOR	11863
 Financial Outcome	14997
@@ -588,8 +590,9 @@ IDs Output	11986
 IEA Africa Energy Outlook	19646
 IGF Outcome	15845
 II. OUTCOME	11924,3587,90,62,68,228,993,897,13,100,803,60
-II. OUTCOME A. RELEVANCE OF PDO	11924,4512,2389
+II. OUTCOME A. RELEVANCE OF PDO	11924,4512,2389,1163
 II. OUTCOME A. RELEVANCE OF PDOs	15511,90,62,2199,903
+II. OUTCOME....11 III. KEY FACTORS AFFECTED	19988
 II.2. Outils	15936
 III. OUTCOME	15424
 III. OUTCOME A. RELEVANCE OF PDOs	15424
@@ -602,6 +605,7 @@ IMF World Economic Outlook Update Publication	2775
 IMF. Outre	12065
 IMF’s World Economic Outlook	13624
 IMPACT AND OUTCOMES	14935
+IMPLEMENTATION AND OUTCOME....20 IV. BANK PERFORMANCE	19988
 IMPROVE LEARNING OUTCOMES High Priority	899
 INCOMING MINUTES OUTGOING MINUTES	15136
 INFLATION OUTLOOK BRIGHTENS The Monetary	13532
@@ -669,9 +673,10 @@ Initiative Dimension Key Outcome	7763
 Initiatives and Key Target Outputs Strategic Objective	16858
 Innovation Fund Management PIAP Output	19742
 Innovation Inputs Innovation Outputs	12487
-Innovation Output Sub-Index	10969,915,1,10,264,1,44,1,146,4,132,7375,3,87
-Innovation Outputs	11884,11,264,192,7511
+Innovation Output Sub-Index	10969,915,1,10,264,1,44,1,146,4,132,7375,3,87,43
+Innovation Outputs	11884,11,264,192,7511,133
 Input Output Table	19519
+Institution Outcome	20004
 Institutional Strengthening and Human Capital Outdated	14818
 Institutions Outcome	14997
 Integrated Community Registration Outreach Programmes	8999
@@ -711,6 +716,7 @@ Ivoire Rolls Out Nationwide Financial Service	5817
 JEP. Outre	2966
 JIC KEY OUTPUTS KEY PRIORITIES	16853
 JSC Rolls Out Digital Magistrates' Courts	13438
+Jun-2024 RATINGS SUMMARY Outcome	19988
 Jun-2024 RATINGS SUMMARY Outcome Bank Performance	15731
 Jun-2024. RATINGS SUMMARY Outcome	15704
 Justice Ministry Outcome Improved	17116
@@ -727,7 +733,8 @@ Kansanshi’s Copper Output Hits Record High	6011,985
 Kenya Ultimate Outcome	12210
 Kenya’s Economic Outlook Remains Stable Amid	10822
 Kept Outside the Holdings	17043
-Key Expected Outcomes and Outcome Indicators	11924,3500,87,90,62,68,705,516,897,113,803,60
+Key Expected Outcomes and Outcome Indicators	11924,3500,87,90,62,68,705,516,897,113,803,60,1163
+Key Expected Outcomes and Outcome Indicators. Project	19988
 Key Factors Affecting Implementation and Outcomes	16614,2140
 Key Manufacturing Output	17235
 Key Outcomes	14681,563
@@ -799,6 +806,7 @@ MEASUREMENTS OF OUTAGES	14867
 MEDIA OUTLETS	14078
 MEDIUM TERM MACROECONOMIC AND FISCAL OUTLOOK	17105
 MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK	11228
+MELQO Monitoring Early Learning Quality and Outcomes	19988
 METHODOLOGY USED TO MEASURE NUTRITION OUTCOME	17127
 MF M F Outros MF M	10766
 MID-TERM OUTCOMES Increased	13938
@@ -879,7 +887,7 @@ Moderately Satisfactory Unsatisfactory Outcome	17962
 Moderately Unsatisfactory E. OTHER OUTCOMES	16436
 Modest Substantial Outcome	17962
 Modules Roll Out	12491
-Monitoring Early Learning Quality and Outcomes	16638
+Monitoring Early Learning Quality and Outcomes	16638,3350
 Monitoring and Evaluation Framework Output Indicators	12356
 Monitoring and Evaluation PIAP Output	19742
 Mpox Outbreak Response	10776
@@ -957,9 +965,9 @@ OUT. Lengo	19565
 OUTBREAK	14736
 OUTBREAK CONTAINMENT WHILE LAYING THE FOUNDATION	18668
 OUTBREAK RESPONSE	4153
-OUTCOME	14925,34,465,87,90,62,68,1221,897,13,903,60
+OUTCOME	14925,34,465,87,90,62,68,1221,897,13,903,60,1163
 OUTCOME A. KEY FACTORS	15424,87,90,62
-OUTCOME A. KEY FACTORS DURING PREPARATION	11924,4512,1526
+OUTCOME A. KEY FACTORS DURING PREPARATION	11924,4512,1526,2026
 OUTCOME INDICATOR	11863,2075
 OUTCOME INDICATOR TARGETS	14942
 OUTCOME OF PROCEEDINGS	15001
@@ -1126,7 +1134,7 @@ Outbreak Response Assessment	14622
 Outbreak Response Funding	4153,14,35,15,43,1092
 Outbreak. Summit	12640
 Outbreaks	21,5204,5972,8563
-Outcome	1129,26,1554,1071,1753,1299,619,1677,1593,160,312,44,158,73,1,116,331,8,62,189,183,95,248,103,132,159,250,2,479,35,128,1,10,125,7,495,118,42,101,34,13,24,38,427,87,90,57,5,39,11,12,6,27,87,56,89,35,359,52,202,229,93,13,45,121,18,39,64,104,485,13,100,74,73,368,99,189,60,420,326,71,79,181
+Outcome	1129,26,1554,1071,1753,1299,619,1677,1593,160,312,44,158,73,1,116,331,8,62,189,183,95,248,103,132,159,250,2,479,35,128,1,10,125,7,495,118,42,101,34,13,24,38,427,87,90,57,5,39,11,12,6,27,87,56,89,35,359,52,202,229,93,13,45,121,18,39,64,104,485,13,100,74,73,368,99,189,60,420,326,71,79,181,86
 Outcome Annually	15845
 Outcome Annually NACOC	15845
 Outcome Area	11905,6220
@@ -1144,6 +1152,7 @@ Outcome Indicator Baseline End-of-project	18765
 Outcome Indicator Units Baseline Target Responsible	15130
 Outcome Indicators	4153,7771,3011,489,87,90,62,1288
 Outcome Indicators for CAB APL1B Development Chad	18887
+Outcome Indicators for Objectives	19988
 Outcome Key	11986
 Outcome Key Performance Baseline Midterm Target	7548
 Outcome Metric Definition	4301
@@ -1180,12 +1189,14 @@ Outcome of Loan Applications	12445
 Outcome-	7451
 Outcome-Based Supervisory Frameworks Financial	11138
 Outcome-based	6832,8090
+Outcome. Scalability	19988
 Outcomes	392,3,545,215,4090,1587,17,1527,337,548,602,1275,99,341,7,355,46,224,146,697,328,80,131,62,344,60,508,207,115,34,13,24,38,45,436,72,113,62,494,419,81,124,117,58,98,287,459,7,24,69,945,735,4,260,60
 Outcomes Among	11284
 Outcomes Baseline Period	11905
 Outcomes Expenditure	15604
 Outcomes Improve	15619
 Outcomes Improved Hydo-Meteorological Early Warning Services	17962
+Outcomes Improving	19988
 Outcomes Increased Investment	958
 Outcomes Indicator	17018
 Outcomes Indicators Targets	17018
@@ -1215,7 +1226,7 @@ Outcomes-medium-term	7548
 Outcomes. Cross	15663
 Outcomes. Evidence	10985
 Outcry	3331
-Outdated	3861,2571,1514,1182,488,1149,10,1385,45,5,141,93,561,309,1583,100,717,1153,75,318,2605,87
+Outdated	3861,2571,1514,1182,488,1149,10,1385,45,5,141,93,561,309,1583,100,717,1153,75,318,2605,87,36,7
 Outdated Licensing Adaptive	12214
 Outdated NRB	13005
 Outdated Policies	17260
@@ -1344,7 +1355,7 @@ Outpatient Visit	6666
 Outpatients	19544
 Outpatients Under-Five Deaths Malaria	16971
 Outposts	5084,753
-Output	236,930,38,1571,2248,510,899,2691,311,1535,222,61,19,149,464,1,10,57,34,22,151,1,44,1,24,12,110,4,3,129,593,15,252,420,365,390,402,11,62,42,719,87,56,737,289,189,23,96,268,806,126,1085,51,70,101,83,37,3,87
+Output	236,930,38,1571,2248,510,899,2691,311,1535,222,61,19,149,464,1,10,57,34,22,151,1,44,1,24,12,110,4,3,129,593,15,252,420,365,390,402,11,62,42,719,87,56,737,289,189,23,96,268,806,126,1085,51,70,101,83,37,3,87,43
 Output Activities Budget	13938
 Output Agreement	14976
 Output Annually	15845
@@ -1377,6 +1388,7 @@ Output Type LaserJet Enterprise	34
 Output VAT	18109
 Output Voltage	13524
 Output and Inflation	11140
+Output. Scalability	19988
 Output1	13095
 Outputs	34,1346,397,1827,5830,1535,916,55,46,219,151,3,646,933,950,47,348,321,832,178,244,26,59,20,65,88,41,805,792,231,586,76,13
 Outputs Achieved	19641
@@ -1537,7 +1549,7 @@ Outward Investment Equatorial Guinea	16972
 Outward Investment Given	14008
 Outward Investment While São Tomé and Príncipe	18797
 Outward Telegraphic Transfers	13408
-Overall Outcome	17962
+Overall Outcome	17962,2026
 Overview Out	19639
 PA-18 Outcome	14997
 PDO Indicators Key Outputs	11924
@@ -1565,6 +1577,7 @@ PDO Outcomes Improving	11905
 PDO Outcomes Increase	2712,3867,4189,2259,2132,2799,397
 PDO Outcomes Increased	10870,1101,4061,1872
 PDO Outcomes Increasing	6928
+PDO Outcomes Legal	19990,11
 PDO Outcomes Legal Robustness Baseline Actual	15735
 PDO Outcomes Monitoring	1867
 PDO Outcomes Objective	18354
@@ -1579,7 +1592,7 @@ PDO Outcomes System Average Interruption Duration	15659
 PDO Outcomes and Corresponding PDO Indicators PDO	17849
 PDO Project Development Outcome	14038
 PDO-level Outcome Indicators	15743
-PDOs and Outcome Targets	16436
+PDOs and Outcome Targets	16436,3552
 PDOs and Outcome Targets The PDO	15511
 PE OUTICHIER LEGISLATIF ET RECLEBENTAIRE	15999
 PERFORMANCE INDICATORS AND PLANNED OUTPUTS	19689
@@ -1712,13 +1725,15 @@ RECOMMENDATION TIMEFRAME OUTCOME INTERVENTION LEGAL	16942
 REGIONAL AND NATIONAL ECONOMIC OUTLOOK	13122
 RESEARCH OUTPUTS	14004
 RESULTS FRAMEWORK AND KEY OUTPUTS	11924,3500,87,90,62,68,705,516,897,13,100,803,60
-RESULTS FRAMEWORK AND KEY OUTPUTS A	15424,177,62
+RESULTS FRAMEWORK AND KEY OUTPUTS A	15424,177,62,4325
 RESULTS FRAMEWORK AND KEY OUTPUTS Actual	15511
+RESULTS FRAMEWORK AND KEY OUTPUTS....28 ANNEX	19988
 REVISIONS OF INTERMEDIATE OUTCOME INDICATORS	17849
 RGB Outcome Indicator	14935
 RGB Output Indicator	14935
 RISK TO DEVELOPMENT OUTCOME	11924,3500,87,90,62,68,705,516,897,13,100,803,60
-RISK TO DEVELOPMENT OUTCOME A	11924,3500,87,90,62,773,1526
+RISK TO DEVELOPMENT OUTCOME A	11924,3500,87,90,62,773,1526,2026
+RISK TO DEVELOPMENT OUTCOME....22 V	19988
 RISKS TO THE OUTLOOK	13685
 ROAMING OUT TELECEL ORANGE	11574
 ROAMING TRAFFIC Out-bound Out-bound Roaming Voice	2776
@@ -1982,6 +1997,7 @@ Unconditional Cash Transfer and Agricultural Outcomes	10985
 Unconditional Cash Transfers and Agricultural Outcomes	15601
 Under Output	12241,839
 Unintended Outcomes and Impacts	15424,87,90,835,1526
+Unintended Outcomes and Impacts Not Applicable	19988
 United Nations Office for Outer Space Affairs	7760,3484,7937,592
 United States Minor Outlying Islands United	11470,7872
 Universal and Inclusive Civil Registration Outcome Baseline	13005
@@ -2041,6 +2057,7 @@ XSLT Schema Output	8606
 Year Incoming Outgoing	16992
 Year-on-Year Outbound International Traffic	2776
 ZIMSTAT Out	12505
+ZIP Outils	19998
 ZOOM OUT	5701,676
 Zambia Green Outcomes Fund	12376
 Zero Out-of-School Children	15101

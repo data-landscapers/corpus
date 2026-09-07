@@ -361,7 +361,7 @@ Temos	1265,596,955,1762,777,3346,3317,5552,1280,20
 Tempa N'TCHA	16485
 Temperatura	794
 Temperatura Média	18757
-Temperature	2775,6348,1846,915,1,10,264,1,44,1,146,4,41,91,444,163,1349,293,1171,1040,101,109,100,1113,387,488,617,3,87
+Temperature	2775,6348,1846,915,1,10,264,1,44,1,146,4,41,91,444,163,1349,293,1171,1040,101,109,100,1113,387,488,617,3,87,43
 Temperature Ice Point Reference	14736
 Temperature and Dust Monitoring System	19725
 Temperature and Precipitation. Reference Guide	17257
@@ -460,11 +460,12 @@ Temporel	19226
 Temporellement	10858
 Temporário	5819
 Tempos	18958
-Temps	643,2883,841,593,62,2035,1794,291,1570,419,2169,90,78,1894,77,273,287,196,382,1252,6,67,204,891,8
+Temps	643,2883,841,593,62,2035,1794,291,1570,419,2169,90,78,1894,77,273,287,196,382,1252,6,67,204,891,8,989
 Temps Moyen de Coupure	2342
 Temps Moyen de Réparation ODD	16195
 Temps Plein Travaillé FMI Fonds	18015
 Temps Réel	8556,4912
+Temps Réel de Gros Montants	19994
 Temps Réel des Données Financières	15738
 Temps de Coupure Equivalent	17462
 Temptations Facing the UN's First	7112,62

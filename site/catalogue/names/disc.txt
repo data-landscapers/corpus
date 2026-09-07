@@ -276,7 +276,7 @@ Disciplined Forces	14742
 Disciplined Forces Service Commission	14742,6
 Disciplined Practice	11658
 Disciplines	14812,740,2909
-Disclaimer	2093,683,172,103,1163,218,464,351,753,671,266,558,264,263,648,458,75,34,898,178,102,236,190,418,41,49,204,453,132,67,139,35,27,91,220,62,641,309,268,569,81,74,57,171,75,593,55,171,1,57,563,201,275,105,120,7,194,370,141,1,47,600,31,11,3,217,51,66,150,824,74
+Disclaimer	2093,683,172,103,1163,218,464,351,753,671,266,558,264,263,648,458,75,34,898,178,102,236,190,418,41,49,204,453,132,67,139,35,27,91,220,62,641,309,268,569,81,74,57,171,75,593,55,171,1,57,563,201,275,105,120,7,194,370,141,1,47,600,31,11,3,217,51,66,150,824,74,52
 Disclaimer ABOUT THE RESEARCH The Stanbic	5247
 Disclaimer APPENDICES Appendix	5247
 Disclaimer All	8376,3870
@@ -354,7 +354,7 @@ Disclosure of Nominee Arrangements	18556
 Disclosure of Official Secrecy Regulations No	18463
 Disclosure of Patent and Trademark Licensing Agreements	12389
 Disclosure of Personal Data	19895
-Disclosure of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Disclosure of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Disclosure of Relevant Information	12389
 Disclosure of Significant Control Over	18556
 Disclosure of Subcontractors GCSP	6432
@@ -384,11 +384,11 @@ Discord283. Ces	8891
 Discorda	16262
 Discordamos	18784
 Discothèques	17812
-Discount	14997,556,106,2,2301
+Discount	14997,556,106,2,2301,2026
 Discount Factors and Implied Valuation	4896
 Discount Houses	18450,12
 Discount TaxableItem TaxTotals Additional Considerations	16554
-Discounted	3604,2935,9122
+Discounted	3604,2935,9122,4327
 Discounted Cash Flow	4896
 Discounts	7966,3989,1230
 Discourage	14670
@@ -445,7 +445,7 @@ Discovery South Africa. The South African	17699
 Discovery and Descriptive Metadata Management	16947
 Discovery of Grounded Theory	5349
 Discovery of Grounded Theory. Strategies	5349
-Discrepancies	11585,597,3422,1536,174
+Discrepancies	11585,597,3422,1536,174,2674
 Discrepancies Between WEZESHA Portal and Manual Records	19585
 Discrepancy	2775,11231,620,4959
 Discrepancy2	2775
@@ -461,7 +461,7 @@ Discrimina	18896
 Discriminaciones	17194,88
 Discriminant	9129
 Discriminate	16887
-Discrimination	1940,367,501,150,4001,3800,67,9,2,1,130,902,16,1,1,1,67,196,1,1,9,90,87,1,11,1,135,403,48,451,52,631,351,1,471,708,304,18,42,906,13,64,21,998,340,8,612,722,1,169,14,22,1,65,14,1,9
+Discrimination	1940,367,501,150,4001,3800,67,9,2,1,130,902,16,1,1,1,67,196,1,1,9,90,87,1,11,1,135,403,48,451,52,631,351,1,471,708,304,18,42,906,13,64,21,998,340,8,612,722,1,169,14,22,1,65,14,1,9,39
 Discrimination Against Persons	12038
 Discrimination Against Women	3583
 Discrimination Against Women GBV Gender Based	18624
@@ -534,7 +534,7 @@ Download Vehicle Road Disc	18935
 Duties and Discharge of Duties	19525
 E&S Information Disclosure Plan	17114
 EDUCATION Public Disclosure Authorized	11905
-ESS10 Stakeholder Engagement and Information Disclosure	14976
+ESS10 Stakeholder Engagement and Information Disclosure	14976,5012
 EXTERNAL USE Disclaimer	16188
 EXTRAIT DU DISCOURS DU PREMIER MINISTRE	18334
 Eastern And Southern Africa Public Disclosure	4653
@@ -824,7 +824,7 @@ Proposed Strategy for Information Disclosure	17099
 Propósito da Disciplina	15564
 Président du Conseil de Discipline des Commissionnaires	18307
 Public Consultations and Disclosure	17114
-Public Disclosure	2712,10811,2212,2639
+Public Disclosure	2712,10811,2212,2639,1627
 Public Disclosure Authorized	4047,6938,490,496,257,39,173,955,2617,67,65,850,85,879,4
 Public Disclosure Authorized A PROPOSED GRANT	11905
 Public Disclosure Authorized AND A PROPOSED	19284

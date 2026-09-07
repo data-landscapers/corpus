@@ -55,7 +55,7 @@ Conditions de PDDSEB PHMECV Vie	737
 Conditions de PNLE Vie des Ménages	17945
 Conditions de Vie	737,14401,2706,243
 Conditions de Vie des Menages Harmonisée	15661
-Conditions de Vie des Ménages	737,6938,3874,11,21,777,45,1343,58,1857,423,281,19,236,58,1267,33,122,1137,106
+Conditions de Vie des Ménages	737,6938,3874,11,21,777,45,1343,58,1857,423,281,19,236,58,1267,33,122,1137,106,645
 Conditions de Vie des Ménages DSSE	10874
 Conditions de Vie des Ménages EIPBF	10874
 Conditions de Vie des Ménages Faculté des Sciences	17978
@@ -253,6 +253,7 @@ Singapore Japan Viet Nam Lead	11135
 Singapore and Vietnam	11154
 Socialist Republic of Vietnam	16870
 South Africa. View the Certificate	7210
+Spain and Vietnam	20009
 Sri Lanka. Vietnam	13042
 Stat View International	16644
 Statistiques de Vie	10812
@@ -392,7 +393,7 @@ Vietnam’s Landmark Law	8629
 Vietnam’s Minister of Science and Technology	9377
 Vietnam’s Ministry of National Defense	4150
 Viettel	1962,906,1282,88,1781,2043,5279,151,1979,9,62,1400
-Viettel Burundi	8753,4559,2,76,140,4
+Viettel Burundi	8753,4559,2,76,140,4,6505
 Viettel Global Joint Stock	6019
 Viettel High Technology	9011
 Viettel High Technology Industries	9011

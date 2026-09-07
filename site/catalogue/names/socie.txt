@@ -239,7 +239,7 @@ Civil Society Participate	15845
 Civil Society Raises Alarm	11677
 Civil Society Self-coordinating Mechanism	5162
 Civil Society Shall	13347
-Civil Society Space	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Civil Society Space	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Civil Society Submission	1016
 Civil Society Support	789
 Civil Society The Civil Society	1000
@@ -656,6 +656,7 @@ Law Society of Zimbabwe	13438,857
 Lectures47 Commentaires Societe	4960,62
 Legislative Committee. Civil Society	18522
 Letshego Bank Eswatini and Swaziland Building Society	13123
+Leverage Civil Society and Media	20004
 Liberia Albino Society	16950
 Liberia Engineering Society	17260
 Liberia Red Cross Society	16947
@@ -898,6 +899,7 @@ SOCIETE DES MINES SMF	2342
 SOCIETE EQUATORIALE DES MINES	16175
 SOCIETE FLY GABON HOLDING	16175
 SOCIETE GEOWORKS Capital	15786
+SOCIETE GESTION BACKBONE NATIONAL SOTELGUI SOCIETE	19986
 SOCIETE MINING LOGISTIQUE TRANSIT	16623
 SOCIETE MIXTE	13587,1
 SOCIETE MODERNE	998
@@ -1025,7 +1027,7 @@ Societal Change and Development. Paris	6832
 Societal Impact	16212
 Societal Trust and Resilience	17017
 Societal Well-being and Public Trust	12356
-Societe	6838
+Societe	6838,13164
 Societe Absolute	4960,62,2035
 Societe Generale	11372
 Societe National	17904

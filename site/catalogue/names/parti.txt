@@ -753,7 +753,7 @@ PARTICIPATE IN AI DEVELOPMENT AND BENEFIT	14004
 PARTICIPATE IN PAYMENT	12374
 PARTICIPATE TO THE INTERVIEW	17127
 PARTICIPATING IN THE JOURNEY	11940
-PARTICIPATION	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135,4397,81,2686,1,169,14,22,1,65,13,1,1
+PARTICIPATION	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135,4397,81,2686,1,169,14,22,1,65,13,1,1,48
 PARTICIPATION A LA SECURITE DES	15999
 PARTICIPATION A LA VIE CULTURELLE ET	15732
 PARTICIPATION AND TRANSPARENCY GOAL	16885
@@ -904,10 +904,10 @@ Parti PASTEF	18310
 Parti Sexe Votes	18310
 Parti du Progrès	8891
 Partiaga Tapoa Est	15715
-Partial	26,2872,2283,2,1484,3421,69,1700,52,862,157,453,1165,660,3828,507
+Partial	26,2872,2283,2,1484,3421,69,1700,52,862,157,453,1165,660,3828,507,449,11
 Partial Access Access	19576
 Partial Agricultural Collapse Full Agricultural Collapse	17157
-Partial Assessment	15411,252,68
+Partial Assessment	15411,252,68,4259
 Partial Assessment Bank	11525
 Partial Assessment Lending	15372
 Partial Assessment. Concept Review Decision	12137
@@ -931,7 +931,7 @@ Partial Partial	10861
 Partial Payments. If the Borrower	16219
 Partial SIS	15164
 Partial Use Used	12214
-Partially	1988,1063,7761,58,1469,40,1006,7,1627,145,42,398,131,344,357,532,26,74,72,330,973,1089,44
+Partially	1988,1063,7761,58,1469,40,1006,7,1627,145,42,398,131,344,357,532,26,74,72,330,973,1089,44,414,11
 Partially Compliant	13381,6195
 Partially Contracted Capacity	12062,6124,31
 Partially Fully	12214
@@ -1104,7 +1104,7 @@ Participating Organizations	19571
 Participating PSPs	12269
 Participating States	10864
 Participating UN	14925
-Participation	395,1,217,345,11,22,170,543,73,37,10,157,361,1014,358,718,131,409,377,201,127,78,708,37,1048,107,54,54,123,521,149,335,238,132,511,1,289,95,31,523,7,41,3,59,14,2,1,3,7,8,18,2,43,45,4,7,1,30,124,4,50,56,17,167,129,144,104,11,43,15,11,5,1,1,1,8,8,39,56,47,105,1,1,9,47,30,15,42,36,7,1,5,6,1,3,33,42,26,31,187,302,103,210,5,5,6,8,6,21,18,22,18,19,24,12,16,4,524,80,347,104,8,57,28,44,63,21,2,21,2,44,77,1,28,40,24,8,11,156,83,127,20,79,27,104,57,2,22,27,8,2,19,107,88,7,56,7,189,55,6,29,10,14,112,15,19,90,36,58,75,171,2,34,50,4,36,7,81,16,12,12,101,56,350,196,6,12,4,6,23,13,28,49,30,3,61,26,1,18,164,5,19,2,4,6,72,49,26,1,42,11,34,67,50,276,263,8,13,61,160,34,31,14,74,38,6,1,11,158,14,14,1,7,1,65,13,1,1
+Participation	395,1,217,345,11,22,170,543,73,37,10,157,361,1014,358,718,131,409,377,201,127,78,708,37,1048,107,54,54,123,521,149,335,238,132,511,1,289,95,31,523,7,41,3,59,14,2,1,3,7,8,18,2,43,45,4,7,1,30,124,4,50,56,17,167,129,144,104,11,43,15,11,5,1,1,1,8,8,39,56,47,105,1,1,9,47,30,15,42,36,7,1,5,6,1,3,33,42,26,31,187,302,103,210,5,5,6,8,6,21,18,22,18,19,24,12,16,4,524,80,347,104,8,57,28,44,63,21,2,21,2,44,77,1,28,40,24,8,11,156,83,127,20,79,27,104,57,2,22,27,8,2,19,107,88,7,56,7,189,55,6,29,10,14,112,15,19,90,36,58,75,171,2,34,50,4,36,7,81,16,12,12,101,56,350,196,6,12,4,6,23,13,28,49,30,3,61,26,1,18,164,5,19,2,4,6,72,49,26,1,42,11,34,67,50,276,263,8,13,61,160,34,31,14,74,38,6,1,11,158,14,14,1,7,1,65,13,1,1,48
 Participation Absence of Corruption	10759
 Participation Adapter le MGP	15908
 Participation Air Quality Political Power	10759
@@ -1176,7 +1176,7 @@ Participatory Budgeting	16994
 Participatory Consultations and Synthesis	13005
 Participatory Evaluation Workshops	15845
 Participatory Geographic Information Systems	1248
-Participatory Governance	7313,3446,76,2,1,130,317,585,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Participatory Governance	7313,3446,76,2,1,130,317,585,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Participatory Governance Participatory	7313
 Participatory Implementation Principle	14664
 Participatory Implementation Principle Implementation	7548
@@ -1225,7 +1225,7 @@ Particulares	11388
 Particulares. Los Docu	16855
 Particularidades	16962
 Particularité	3683
-Particularly	21,13,865,62,90,110,663,1234,1470,148,448,239,1585,640,1994,295,886,156,217,782,172,120,43,133,126,466,2506,268,1221,184,712,37,1378,461
+Particularly	21,13,865,62,90,110,663,1234,1470,148,448,239,1585,640,1994,295,886,156,217,782,172,120,43,133,126,466,2506,268,1221,184,712,37,1378,461,257
 Particularly SDG	16975
 Particularly for Girls Baseline Actual	19249
 Particularmente	2816,3453
@@ -1416,7 +1416,7 @@ Public Participation and Anti-Corruption Education	17037
 Public Participation and Democratic Governance	7548
 Public Perception of Anti-Corruption PARTICIPATION	10759,1395
 Public Perception of Female Leadership Participation	11889,274,178,7312
-Public Perception of Political Participation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Public Perception of Political Participation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Public Perception of Political Participation Access	11886
 Public Perception of Political Participation FOUNDATIONS	12163,178,7312,286
 Public Perception of Political Participation RIGHTS	19822
@@ -1478,7 +1478,7 @@ Risk Management The Participants	12364
 Risk Mitigation Facility for Private Sector Participation	15983
 Rule of Law PARTICIPATION	10837,1052,263,11,177,1,7312,285,1
 Rule of Law Participation	10759,76,3,130,902,16,466,1,135,7334
-Rule of Law and Participation	11886,268,7705
+Rule of Law and Participation	11886,268,7705,128
 Rules of Origin State Parties	15641
 Rules. Participants	12364
 Rules. The Participants	12364

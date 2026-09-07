@@ -635,7 +635,7 @@ Information Technology and Computer Science	6832
 Ingeniero Data Scientist Dámaso Ebogo ONA	16962
 Innovation Science and Economic Department	10819
 Innovative and Scientific Conference	8288
-Institut Supérieur des Sciences	10881,4884,2130
+Institut Supérieur des Sciences	10881,4884,2130,2093,9
 Institut des Sciences	3604,12332,1938
 Institut des Sciences Agronomiques du Burundi	13290
 Institut des Sciences Appliquées	17829,27
@@ -1077,6 +1077,7 @@ Recipient’s Ministry of Science	2473
 Regional Science	10421
 Register SPSS Statistical Package for Social Sciences	19557
 Registered FACULTY OF SCIENCE	13078
+Reports ISSEG Higher Education Science Institute	19988
 Research Assessment DSI Department of Science and Innovation	5246
 Research Science	17105
 Research Science and Technology	5036,11816,382
@@ -1207,7 +1208,7 @@ SciPap	7886
 SciPy. Stats	17157
 Scidev.Net	4674
 Scien	12674
-Science	737,52,57,53,255,7,304,89,156,46,58,282,590,14,9,107,69,73,92,90,218,5,241,257,265,402,26,82,249,49,102,61,120,27,1,1,3,8,17,97,42,110,177,366,108,306,143,209,80,85,365,136,50,171,303,208,150,80,99,14,127,101,213,112,352,98,6,48,156,424,82,8,300,168,8,117,71,5,59,22,85,21,59,5,1,9,58,190,82,288,15,21,1,10,10,26,9,27,39,84,43,26,1,15,29,1,124,22,4,1,5,15,35,67,9,25,32,21,109,1,10,2,4,3,1,1,6,2,4,5,1,1,10,2,9,14,1,7,4,4,20,180,5,1,3,4,77,45,16,195,2,6,21,36,15,66,11,5,197,14,34,253,32,20,161,13,268,4,124,135,18,11,17,37,12,24,49,25,1,28,187,45,291,19,60,38,13,39,30,25,15,135,85,60,99,1,37,14,83,28,11,109,111,41,100,225,24,66,9,7,17,46,84,52,81,109,90,135,69,143,58,32,225,1,6,65,115,32,128,8,6,1,19,32,85,52,40,76,184,288,129,176,29,8,63,12,23,85,16,84,3,35,4,40,8,14
+Science	737,52,57,53,255,7,304,89,156,46,58,282,590,14,9,107,69,73,92,90,218,5,241,257,265,402,26,82,249,49,102,61,120,27,1,1,3,8,17,97,42,110,177,366,108,306,143,209,80,85,365,136,50,171,303,208,150,80,99,14,127,101,213,112,352,98,6,48,156,424,82,8,300,168,8,117,71,5,59,22,85,21,59,5,1,9,58,190,82,288,15,21,1,10,10,26,9,27,39,84,43,26,1,15,29,1,124,22,4,1,5,15,35,67,9,25,32,21,109,1,10,2,4,3,1,1,6,2,4,5,1,1,10,2,9,14,1,7,4,4,20,180,5,1,3,4,77,45,16,195,2,6,21,36,15,66,11,5,197,14,34,253,32,20,161,13,268,4,124,135,18,11,17,37,12,24,49,25,1,28,187,45,291,19,60,38,13,39,30,25,15,135,85,60,99,1,37,14,83,28,11,109,111,41,100,225,24,66,9,7,17,46,84,52,81,109,90,135,69,143,58,32,225,1,6,65,115,32,128,8,6,1,19,32,85,52,40,76,184,288,129,176,29,8,63,12,23,85,16,84,3,35,4,40,8,14,29
 Science Academy	4353
 Science Advances	15342,1121
 Science And Technology	899
@@ -1350,7 +1351,7 @@ Sciences des Agroressources	19366
 Sciences des Productions Animales	19366
 Sciences-Po Paris	11154
 Sciences. The Malawian	7841
-Scientific	789,181,1018,970,903,4519,149,599,1718,123,915,1,10,10,185,69,1,44,1,146,4,41,91,833,636,710,1248,323,29,676,215,301,558,968,571,157,150,3
+Scientific	789,181,1018,970,903,4519,149,599,1718,123,915,1,10,10,185,69,1,44,1,146,4,41,91,833,636,710,1248,323,29,676,215,301,558,968,571,157,150,3,130
 Scientific Advisor	10852
 Scientific Advisory Council	14824
 Scientific Advisory Council PART V	14824
@@ -1374,7 +1375,7 @@ Scientific Professionals	16266
 Scientific Programming	7759,846
 Scientific Progress	14742
 Scientific Reports	19284,490
-Scientific Research	11905,1390,521,1081,1247,1052
+Scientific Research	11905,1390,521,1081,1247,1052,2792
 Scientific Research AI	2958
 Scientific Research AI-powered	2958
 Scientific Research Arab	2958
@@ -1409,7 +1410,7 @@ Scientific and Cultural Organization AUC African Union	10835,3,130,902,16,466,1,
 Scientific and Cultural Organization UNFPA United Nations	15604,3020
 Scientific and Cultural Organization UNHCR United Nations	17157,1754
 Scientific and Cultural Organization UNICEF United	12970
-Scientific and Cultural Organization UNICEF United Nations	13312,2,3791,765,895
+Scientific and Cultural Organization UNICEF United Nations	13312,2,3791,765,895,1223
 Scientific and Cultural Organization UNWTO United Nations	2775
 Scientific and Cultural Organization UPI Unique Project	16996
 Scientific and Cultural Organization USA United States	12512

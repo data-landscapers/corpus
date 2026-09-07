@@ -116,12 +116,13 @@ AfDB Plans	14969
 AfDB President	2807,53
 AfDB President Dr Sidi Ould Tah	19819
 AfDB President Sidi Ould Tah	6338
-AfDB SAP033	18581
+AfDB SAP033	18581,1440
 AfDB Somalia	15011
 AfDB The Youth Entrepreneurship and Investment Bank	17235
 AfDB Trade Finance Middle and Back Office	10718
 AfDB Trade Finance Program	10718
 AfDB Trade Finance Survey	10718
+AfDB Transition Support Mechanism	20050
 AfDB US	8983
 AfDB USD	4466
 AfDB Using	17539
@@ -139,7 +140,7 @@ AfDB and MCDF	9988
 AfDB and MoGCSW	16951
 AfDB and Standard Bank	9702
 AfDB and WBG	4214
-AfDB&AUC	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+AfDB&AUC	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 AfDB's	13966
 AfDB's Affirmative Finance Action for Women	19818
 AfDB's Country Strategy Paper	13938
@@ -278,6 +279,7 @@ UNHCR and AfDB	13938
 UNICEF AFD	15724
 WATAF LAUNCHES AFDB-FINANCED US	10581
 WB IDEA and AFD	4841
+WBG and AfDB-led	20002
 World Bank AfDB N AfDB N	13042
 World Bank IDA and AFD	473
 World Bank and AFD	1771,480

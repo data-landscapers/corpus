@@ -38,7 +38,7 @@ About Table of Contents Home Zimbabwe Core	6666
 About Us Vision Core Vlues Digital	6946
 About the Millennium Challenge Corporation	15402
 Absa Group Limited and ABC Banking Corporation	398
-Absence of Corruption	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Absence of Corruption	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Abuse Of Corps	16935
 Account CCSS Counter Corruption and Security Services	5533
 Accra. Ms. Isabel Maria Correia Viegas	18857
@@ -126,6 +126,7 @@ Application of Corporate Laws Act	3714
 Appointment of Director of Corporate Affairs	18556
 Arbitlage du Cornmerce	15399
 Arquitetura Corporativa	18774
+Assessment CRI Corporate Results Indicators DLI	19988
 Asset Management Corporation LCOE Levelized	12233
 Asset Management Corporation of Nigeria	8157,134
 Association IFC International Finance Corporation IFR	15518
@@ -307,7 +308,7 @@ CORE VALUES TRANSPARENCY INTEGRITY	13053
 CORE VALUES Table	16968
 CORE VALUES The National Statistical System	19519
 CORE VALUES VISION	12358
-CORE-MIS	4427,7908,645,415,111,86,5217
+CORE-MIS	4427,7908,645,415,111,86,5217,1220
 CORE-MIS Building the Unified Social Registry	13395
 CORE-MIS. BOX	13395
 COREA DEL SUR	4209
@@ -384,7 +385,7 @@ CORPS ET FONCTION IV.1.4 Urbain Sexe	10847
 CORPS ET FONCTION IV.1.5 Rural I.P	10847
 CORPS ET FONCTION IV.1.5 Rural Sexe	10847
 CORPSAFRICA	7167
-CORPUS	12486
+CORPUS	12486,1347,1534,4655,1,3,2,3,1,3,6
 CORRE Project	16187
 CORREAC	15739
 CORRECTED AT INGEST	1686
@@ -771,8 +772,10 @@ Coris Bank	3671,320,1322,11,5020,9636
 Coris Bank International	3361,1728,235,10569,2
 Coris Bank International Bénin Traitement	10821
 Coris Bank International Côte	4459
+Coris Bank International Guinée	20008
 Coris Holding	9993,5900,2
-Coris Money	4459,630,478
+Coris Money	4459,630,478,14441
+Coris Money. Avec	20008
 Coris Niger	4459
 Corisco	3179,1030,12666,23,44,16,11,27
 Corisco Funcionamiento Grupos Parlamentarios	4209
@@ -861,6 +864,7 @@ Coronavírus	18779
 Coronel	16871
 Coroner	12337,4523
 Coroner's Office Act	13286,29
+Coronthie	19988
 Corotimi Abiba NIYA	7670
 Corp Fetes Ambassador Michael C.Gonzalez	9989
 Corpo Consultivo de Alto Nível	2816
@@ -999,7 +1003,7 @@ Corporate Real Estate Consolidation Project of R88m	10218
 Corporate Reporting	2518
 Corporate Responsibility	11611
 Corporate Responsibility Is Non-Negotiable' By Ross	11611
-Corporate Results Indicator	13111,6134
+Corporate Results Indicator	13111,6134,743
 Corporate Results Indicator CSO Civil Society	15138
 Corporate Results Indicator Designated Account Disbursement	15658
 Corporate Results Indicators	11417,3136,4731
@@ -1148,6 +1152,7 @@ Correcting	4786,10685,1625
 Correcting Market Failures	5700
 Correcting Past Injustices	12912
 Correction	1,16,397,595,141,680,879,504,108,1040,1,874,6053,508,404,163,132,27,128,242,5,31,30,327,21,8,60,67,1335,84,30,17,872,934,394,1063,269,545,241,301,3,100,4,317
+Correction Guides	19988
 Correction de Croissance	15907
 Correction des Dates	747
 Correction of Arithmetic	13185
@@ -1172,7 +1177,7 @@ Correctional and Rehabilitation	15845
 Correctional and Rehabilitation Services Development	15845
 Corrections	2115,9825,286,672,388,29,209,2488
 Corrections Corrections	12226
-Corrective	5676,5725,1019,129,389,1808,251,662,1185,255,794,1014,988
+Corrective	5676,5725,1019,129,389,1808,251,662,1185,255,794,1014,988,93
 Corrective Action Plan	19801
 Corrective Action Plans	2989,2676
 Corrective Actions	5245,11854,15
@@ -1186,7 +1191,7 @@ Corredor	5542,5890,42,6106
 Corredor Oriental	4209
 Corredor de Transporte	4209
 Corregir	1701,15154
-Correia	2811,5,893,8200
+Correia	2811,5,893,8200,8126
 Correia RC	10780
 Correio	11383,52,4042
 Correio Electrónico	2816,15962
@@ -1224,7 +1229,7 @@ Correspondants Financement BM	15999
 Correspondants Oui	11944
 Corresponde	1701,3468,5588,9,619,189,5281,4,12,1904
 Correspondem	18768
-Correspondence	236,976,2371,1766,3027,1363,1045,492,592,12,347,19,1041,174,1,1322,1,80,100,1882,926,7,763,118
+Correspondence	236,976,2371,1766,3027,1363,1045,492,592,12,347,19,1041,174,1,1322,1,80,100,1882,926,7,763,118,1323
 Correspondence Colleges Act	13287
 Correspondence Colleges Guarantee Fund	13287
 Correspondence Receipt	19783
@@ -1837,7 +1842,7 @@ Inteligência Artificial da ONU O Corpo Consultivo	2816
 International Corporate Service Provider	18952
 International Data Corporation	2816,867,4606,2907
 International Development Finance Corporation	2025,2422
-International Finance Corporation	80,1,1,1,201,95,120,1,181,1,1,1,1,1,1,92,91,19,1,1,1,1,1,1,229,1,1,138,253,1,1,1,1,1,1,1,202,15,285,187,1,1,73,86,9,25,154,11,4,490,188,341,8,1121,499,264,48,1047,205,44,52,62,313,1192,27,601,26,398,1,229,1,1,68,68,113,467,267,123,16,107,16,141,19,35,23,107,450,124,65,301,8,44,36,923,75,607,127,209,65,48,17,1,222,312,58,123,96,443,318,168,298,331,40,128,157,15,24,15,716,1,446,310,588,31,179,178,61
+International Finance Corporation	80,1,1,1,201,95,120,1,181,1,1,1,1,1,1,92,91,19,1,1,1,1,1,1,229,1,1,138,253,1,1,1,1,1,1,1,202,15,285,187,1,1,73,86,9,25,154,11,4,490,188,341,8,1121,499,264,48,1047,205,44,52,62,313,1192,27,601,26,398,1,229,1,1,68,68,113,467,267,123,16,107,16,141,19,35,23,107,450,124,65,301,8,44,36,923,75,607,127,209,65,48,17,1,222,312,58,123,96,443,318,168,298,331,40,128,157,15,24,15,716,1,446,310,588,31,179,178,61,339
 International Finance Corporation Environmental	12253
 International Finance Corporation INP-HB Interim Financial	3604
 International Finance Corporation Internet Service Provider	15553
@@ -2099,7 +2104,7 @@ Microsoft Corporate	16872
 Microsoft Corporation	4950,11922
 Mila Correia	17369
 Millenium Challenge Corporation	12962,6283
-Millennium Challenge Corporation	87,682,769,1,3677,31,6448,950,2756,1,3146,666,81,276
+Millennium Challenge Corporation	87,682,769,1,3677,31,6448,950,2756,1,3146,666,81,276,453
 Millennium Challenge Corporation Attention	19214
 Millennium Challenge Corporation’s Accountable Entities	19214
 Million Corruption Scheme By Fanuel Chinowaita	8639
@@ -2270,6 +2275,7 @@ OFNAC Office National de Lutte Contre la Corruption	18286
 OLAVO AVELINO CORREIA VICE PRIME MINISTER	16219
 ORABANK BOA UBA CORIS BANK ORANGE	18017
 ORIGIN THE CORRECTION PROPAGATES	9144
+OS. Coris Money	20008
 OUI NON INSISTEZ ET CORRIGEZ	13300
 OUI NON VÉRIFIEZ ET CORRIGEZ	13300
 OUI' SEULEMENT SI L'ENQUÊTÉE CORRESPONDANTE	13300
@@ -2283,7 +2289,7 @@ Oil Terminal KPC Kenya Pipeline Corporation	2775
 Olavo Avelino Garcia Correia	11901,3532,71,22,46,340,226,81
 Olavo Avelino Garcia Correia Promulgado	15440
 Olavo Avelino Garcia Correia. Promulgado	15526,386
-Olavo Correia	1861,1697,105,418,497,777,68,20,11,10613,67,59
+Olavo Correia	1861,1697,105,418,497,777,68,20,11,10613,67,59,3842
 Olavo Correia Ministro da Economia Digital	15684
 Olavo Correia O Vice-Primeiro-Ministro	5423
 Olavo Correia URL	16067

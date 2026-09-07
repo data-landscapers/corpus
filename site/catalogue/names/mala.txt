@@ -41,7 +41,7 @@ African Region. Malawi	13166
 African Union Data Policy Framework and Malabo	3861
 African Union Malabo Convention	19801
 African Union's Malabo	9399
-African Union's Malabo Convention	1777,1851,576,19,5393
+African Union's Malabo Convention	1777,1851,576,19,5393,10388
 African Union's Malabo Convention and ECCAS	9616
 African Union's Malabo Convention. Minister Chernor	18493
 African Union’s Malabo Convention	1243
@@ -85,7 +85,7 @@ Artificial Intelligence Malawi	13095
 Asignaciones Globales MALABO LUBA ANTONIO	4209
 Associated MET Office CMA de MALABO Airport	17006
 Association of Obstetrics and Gynecologist of Malawi	13040
-Assurance Maladie	643,5486,3706,3935,520,332,739,50,17,90,418,96,1838,12,13,28,106,1192,43,20,32,2,95,414
+Assurance Maladie	643,5486,3706,3935,520,332,739,50,17,90,418,96,1838,12,13,28,106,1192,43,20,32,2,95,414,163
 Assurance Maladie ANGC	15475
 Assurance Maladie CAS CCSC CNI CERTES	17882
 Assurance Maladie Généralisée	1961
@@ -170,6 +170,7 @@ CERTIFICATE OF ACCREDITATION MALAWI BUREAU	13068
 CHANNELS BANK OF KIGALI BPR MALAWI	18489
 CHANNELS NATIONAL BANK OF MALAWI COUNTRY	18489
 CHAPTER I THE REPUBLIC OF MALAWI	12891
+CHARGE INTÉGRÉE DES MALADIES DE L'ENFANCE	19986
 CNI Biométrique Malagasy	14480
 CONCEPTO NOTARIADO SERVICIOS CIVIL PROPIEDAD MALABO	4209
 CONSTITUTION OF THE REPUBLIC OF MALAWI	12891
@@ -358,6 +359,7 @@ Employers Consultative Association of Malawi	13157
 En Malabo	16962,7
 Enable Surveillance Intégrée des Maladie	14622
 Enabled Malawi	12241
+Energy Specialist Matteo Maria Malacarne	20002
 Enhancing Financial Access Malawian	12214
 Ensuring Malawi	13095
 Environnement Malagasy	14488,1,1
@@ -905,7 +907,7 @@ Malauli	9376
 Malava	6192
 Malava MP Malulu Injendi	2515
 Malavu Data Controller INST-4423414DDF0 NAIROBI Kenya	7167
-Malawi	62,36,56,76,6,13,13,56,22,61,1,1,43,37,118,9,91,23,42,33,26,94,43,51,22,3,10,106,18,71,5,2,82,20,11,1,12,13,45,17,14,75,14,8,11,20,39,24,37,2,9,7,117,4,56,26,63,3,284,54,6,103,20,94,25,3,45,44,24,38,5,3,47,3,38,3,1,3,50,3,6,1,31,8,3,5,13,3,1,70,1,3,5,9,56,11,6,177,18,46,111,24,139,20,35,59,5,6,43,29,69,22,22,97,8,29,21,84,4,49,140,188,5,25,26,22,11,133,1,14,41,57,24,116,32,25,13,120,23,6,63,10,62,51,15,13,32,36,5,9,5,5,42,1,72,24,5,105,29,20,27,28,34,16,29,47,20,20,169,7,7,1,18,17,53,19,64,36,6,42,30,1,4,7,39,6,52,1,59,10,6,28,38,6,2,7,2,4,10,2,1,36,14,62,8,95,29,81,36,14,30,1,14,24,21,73,6,41,1,1,1,29,43,1,22,16,14,17,21,130,19,115,1,28,16,14,62,1,316,7,113,35,116,44,73,290,135,1,43,11,23,44,1,1,4,121,8,202,84,1,8,10,67,24,13,1,61,126,86,41,38,2,18,96,68,116,43,5,69,70,50,70,18,23,4,1,21,50,3,6,37,69,18,9,14,98,7,22,15,16,43,11,129,85,152,3,37,8,95,19,124,15,13,3,1,2,29,1,5,70,87,60,3,9,1,9,3,2,4,2,1,1,2,3,1,5,7,3,4,3,6,3,1,2,1,15,2,6,1,1,10,1,8,2,15,8,5,8,10,6,18,8,11,1,16,16,30,73,169,14,217,3,7,2,1,2,3,2,1,8,1,14,1,8,1,10,1,1,8,2,1,13,1,1,1,2,2,3,5,8,4,1,1,2,18,2,1,2,3,1,3,1,13,2,2,1,1,1,4,6,4,6,3,3,8,1,3,1,12,1,1,1,1,5,1,1,3,2,1,2,4,6,4,3,1,1,3,4,1,1,2,2,3,1,11,8,6,5,3,4,6,5,2,12,1,8,3,1,1,38,33,19,14,19,5,18,19,5,3,16,41,22,38,25,6,73,25,2,50,79,211,95,68,23,1,69,32,39,16,28,21,7,272,152,197,292,156,47,140,350,768,12,1,15,19,373,346,23,4,53,1,42,38,7,2,31,2,88,37,52,97,104,19,45,10,5,120,142,312,134,607,15,55,1,14,51,164,5,14,2,20,1,19,61,27,8,6
+Malawi	62,36,56,76,6,13,13,56,22,61,1,1,43,37,118,9,91,23,42,33,26,94,43,51,22,3,10,106,18,71,5,2,82,20,11,1,12,13,45,17,14,75,14,8,11,20,39,24,37,2,9,7,117,4,56,26,63,3,284,54,6,103,20,94,25,3,45,44,24,38,5,3,47,3,38,3,1,3,50,3,6,1,31,8,3,5,13,3,1,70,1,3,5,9,56,11,6,177,18,46,111,24,139,20,35,59,5,6,43,29,69,22,22,97,8,29,21,84,4,49,140,188,5,25,26,22,11,133,1,14,41,57,24,116,32,25,13,120,23,6,63,10,62,51,15,13,32,36,5,9,5,5,42,1,72,24,5,105,29,20,27,28,34,16,29,47,20,20,169,7,7,1,18,17,53,19,64,36,6,42,30,1,4,7,39,6,52,1,59,10,6,28,38,6,2,7,2,4,10,2,1,36,14,62,8,95,29,81,36,14,30,1,14,24,21,73,6,41,1,1,1,29,43,1,22,16,14,17,21,130,19,115,1,28,16,14,62,1,316,7,113,35,116,44,73,290,135,1,43,11,23,44,1,1,4,121,8,202,84,1,8,10,67,24,13,1,61,126,86,41,38,2,18,96,68,116,43,5,69,70,50,70,18,23,4,1,21,50,3,6,37,69,18,9,14,98,7,22,15,16,43,11,129,85,152,3,37,8,95,19,124,15,13,3,1,2,29,1,5,70,87,60,3,9,1,9,3,2,4,2,1,1,2,3,1,5,7,3,4,3,6,3,1,2,1,15,2,6,1,1,10,1,8,2,15,8,5,8,10,6,18,8,11,1,16,16,30,73,169,14,217,3,7,2,1,2,3,2,1,8,1,14,1,8,1,10,1,1,8,2,1,13,1,1,1,2,2,3,5,8,4,1,1,2,18,2,1,2,3,1,3,1,13,2,2,1,1,1,4,6,4,6,3,3,8,1,3,1,12,1,1,1,1,5,1,1,3,2,1,2,4,6,4,3,1,1,3,4,1,1,2,2,3,1,11,8,6,5,3,4,6,5,2,12,1,8,3,1,1,38,33,19,14,19,5,18,19,5,3,16,41,22,38,25,6,73,25,2,50,79,211,95,68,23,1,69,32,39,16,28,21,7,272,152,197,292,156,47,140,350,768,12,1,15,19,373,346,23,4,53,1,42,38,7,2,31,2,88,37,52,97,104,19,45,10,5,120,142,312,134,607,15,55,1,14,51,164,5,14,2,20,1,19,61,27,8,6,7
 Malawi AFR LI	17743
 Malawi Acceleration Plan	14674
 Malawi Acceleration Project	10411,1842,774,1647
@@ -1038,6 +1040,7 @@ Malawi Fiscal Governance Program for Results	13060
 Malawi Fiscal Governance Program-for-Results	1573
 Malawi Food Systems Resilience Program	13083
 Malawi Food Systems Resilience Project	13060
+Malawi Foundational Learning Program for Results	20027
 Malawi GCC	13185
 Malawi GII Ranking	12204
 Malawi GSMA	10819
@@ -1062,7 +1065,7 @@ Malawi Immigration Services	13060
 Malawi Implementation Plan	3349,9644,102
 Malawi In Malawi	12234
 Malawi Inclusion Strategy III. Digital Acceleration	14674
-Malawi Institute of Education	13058
+Malawi Institute of Education	13058,6969
 Malawi Integrated Digital Agenda	12917
 Malawi Interbank Transfer and Settlement System	2299,3532
 Malawi International Trade Fair	13053
@@ -1300,6 +1303,7 @@ Malawi's Economy Pillar	12214
 Malawi's Economy and Business Bottom Line	14674
 Malawi's EdTech	1656
 Malawi's Foundational Legal Identity System Sets	12144
+Malawi's Foundations of Learning Program for Results	20027
 Malawi's GDP	12176
 Malawi's GSMA DPRI	14674
 Malawi's GSMA Digital Adopting	14674
@@ -1567,6 +1571,7 @@ Mandela Day Malatsi	5808
 Mangochi By Malawi Voice	13164
 Maso-Athu Malawi Election Situation Room	13080,15
 Matteo Maria Malacarne	16654
+Matteo Maria Malacarne Approved By Practice	20002
 Matters Malawi	9820
 Mayamiko Nkoloma. The Malawi Communications Regulatory	7413
 Mbedumu Malabo	4209

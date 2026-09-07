@@ -212,7 +212,7 @@ Burundi Cabo Verde Central African Republic	16631
 Burundi Cabo Verde Côte	13661
 Bénin Djabirou AMADOU Directeur Adjoint de Cabinet	10708
 C. Cabinet	2626
-CAB APL	15424,3463
+CAB APL	15424,3463,1130
 CAB APL1	15372,3515
 CAB APL1A	15372,3515
 CAB APL1A and APL1B	18887
@@ -239,6 +239,7 @@ CAB CITCG	15372
 CAB Central African Backbone CAB3 Central	15511
 CAB Central African Backbone CAB4 Central	15411,107
 CAB Central African Backbone CAPI Computer-Assisted	18777
+CAB Chad	20043
 CAB Company	18887
 CAB Gabon	15511
 CAB International	18887
@@ -349,6 +350,7 @@ CABÂ Program.Â	18887
 CABÂ ProgramÂ	18887
 CABÂ Project	18887
 CAPACITES CABINET DU MINISTRE	16099
+CAR CAB	20020
 CAR and Chad. CAB APL1A	18887
 CAR. The CAB APL1B	18887
 CARTA SANITÁRIA DE CABO VERDE	16019
@@ -421,6 +423,7 @@ Cabinet Approves New Agency	6526
 Cabinet Approves New Agency National Rwanda	6526
 Cabinet Artemis	18199
 Cabinet Assumptions NA Disaggregation	11986
+Cabinet BAO	19984
 Cabinet Bill	11986
 Cabinet Business	11757,7316,8,9,29,18,1
 Cabinet Business President Dr. Patrick Herminie	19073,64
@@ -626,7 +629,7 @@ Cabinets du Ministre	10712
 Cabinets for PAC Secreta	17180
 Cabinets for PAC Secretariat	17180
 Cabiri	4044,7532,1
-Cable	398,456,96,791,247,523,166,341,493,125,146,894,317,259,69,351,1274,2177,1636,76,2,1,130,301,601,16,2,1,264,1,9,90,87,1,11,1,50,85,532,365,684,82,659,111,534,589,100,407,391,546,932,84,75,175,133,45,32,27,100,15,236,310,1,75,17,61,16,14,22,1,65,14,1
+Cable	398,456,96,791,247,523,166,341,493,125,146,894,317,259,69,351,1274,2177,1636,76,2,1,130,301,601,16,2,1,264,1,9,90,87,1,11,1,50,85,532,365,684,82,659,111,534,589,100,407,391,546,932,84,75,175,133,45,32,27,100,15,236,310,1,75,17,61,16,14,22,1,65,14,1,48
 Cable Address	2474
 Cable Cable	6671
 Cable Cable.co.uk	11887,266,1,9,178,7517,1
@@ -688,12 +691,13 @@ Cabling of Surface Type	14778
 Cabnave	1948
 Cabo Amar Vinyo	17010
 Cabo Brazzaville	16195
-Cabo Delgado	761,765,217,2040,4020,951,595,2590,209,53,5,14,559,5,20,7,7,25,1,3314
+Cabo Delgado	761,765,217,2040,4020,951,595,2590,209,53,5,14,559,5,20,7,7,25,1,3314,3880
 Cabo Delgado Club of Mozambique	12811
 Cabo Delgado Frelimo	12201
 Cabo Delgado MDM	12201
 Cabo Delgado Province	12811
 Cabo Delgado Province. Summit	12640
+Cabo Delgado The Government of Japan and UNHCR	20038
 Cabo Delgado and Nampula	12779
 Cabo Delgado's Quissanga	12201
 Cabo Delgado. Intervindo	1808
@@ -708,7 +712,7 @@ Cabo TV	6638,25,1,6524
 Cabo Trabalho	15694
 Cabo Venton	15658
 Cabo Ver	16251
-Cabo Verde	356,46,401,440,13,8,1,73,1,1,2,5,1,61,1,21,1,31,2,271,125,48,15,24,106,26,1,1,7,2,3,33,218,56,99,118,64,8,117,4,5,31,13,5,56,31,127,337,142,45,64,42,12,44,78,113,125,207,123,8,159,5,252,40,137,4,138,111,3,51,36,68,20,11,8,14,33,106,204,65,123,20,10,3,25,126,45,294,20,18,3,221,15,126,5,404,110,255,174,67,95,136,21,124,314,91,447,113,616,89,194,161,242,123,45,5,4,17,50,3,8,10,112,37,103,224,107,22,52,18,2,13,15,4,1,3,286,8,4,2,1,3,13,1,2,2,4,3,3,8,21,1,2,6,2,14,8,2,4,33,6,3,3,2,2,3,18,1,113,1,9,47,68,63,11,1,32,103,347,878,155,457,978,41,11,3,1,21,5,6,1,4,7,1,29,7,5,5,20,1,5,15,12,1,1,4,11,6,5,1,3,15,3,17,2,18,3,28,63,5,5,61,69,15,40,2,11,7,1,10,2,12,31,7,4,16,1,8,5,7,16,3,5,27,2,3,8,22,21,4,20,8,39,5,1,6,6,20,10,22,17,4,8,24,1,16,4,18,33,4,28,76,3,6,17,18,30,21,54,189,120,78,12,30,124,92,45,1,37,487,14,74,155,638,38,1,4,12,13,5,23,26,4,15,783,169,14,22,1,80
+Cabo Verde	356,46,401,440,13,8,1,73,1,1,2,5,1,61,1,21,1,31,2,271,125,48,15,24,106,26,1,1,7,2,3,33,218,56,99,118,64,8,117,4,5,31,13,5,56,31,127,337,142,45,64,42,12,44,78,113,125,207,123,8,159,5,252,40,137,4,138,111,3,51,36,68,20,11,8,14,33,106,204,65,123,20,10,3,25,126,45,294,20,18,3,221,15,126,5,404,110,255,174,67,95,136,21,124,314,91,447,113,616,89,194,161,242,123,45,5,4,17,50,3,8,10,112,37,103,224,107,22,52,18,2,13,15,4,1,3,286,8,4,2,1,3,13,1,2,2,4,3,3,8,21,1,2,6,2,14,8,2,4,33,6,3,3,2,2,3,18,1,113,1,9,47,68,63,11,1,32,103,347,878,155,457,978,41,11,3,1,21,5,6,1,4,7,1,29,7,5,5,20,1,5,15,12,1,1,4,11,6,5,1,3,15,3,17,2,18,3,28,63,5,5,61,69,15,40,2,11,7,1,10,2,12,31,7,4,16,1,8,5,7,16,3,5,27,2,3,8,22,21,4,20,8,39,5,1,6,6,20,10,22,17,4,8,24,1,16,4,18,33,4,28,76,3,6,17,18,30,21,54,189,120,78,12,30,124,92,45,1,37,487,14,74,155,638,38,1,4,12,13,5,23,26,4,15,783,169,14,22,1,80,48,59
 Cabo Verde A Organização Mundial da Saúde	16484
 Cabo Verde AFR LMI	17743
 Cabo Verde ARN	15526
@@ -804,16 +808,18 @@ Cabo Verde Technology Park Development Objective	11863
 Cabo Verde Technology Park Phase II	11863
 Cabo Verde Technology Park Project Phase	11863
 Cabo Verde Tel	16493
-Cabo Verde Telecom	356,1107,4421,154,5853,64,3516,20,35,817,2087
+Cabo Verde Telecom	356,1107,4421,154,5853,64,3516,20,35,817,2087,1616
 Cabo Verde Telecom DA Designated Account	15491
 Cabo Verde Telecom Luís Vasconcelos Lopes	11955
 Cabo Verde Telecom S.A	2091
+Cabo Verde Telecom The Government of Cabo	20046
 Cabo Verde Telecom URL	16343
 Cabo Verde Telecommunication Union	11569
 Cabo Verde Telefones	8166,7944
 Cabo Verde Trade	15526
 Cabo Verde TradeInves	15526
 Cabo Verde URL	15505,65,489,75,394
+Cabo Verde World Bank	20031
 Cabo Verde Yes Programme Stratégique	11529
 Cabo Verde and Burkina Faso	11867
 Cabo Verde and CAR	5268
@@ -921,6 +927,7 @@ Cabo-Verde	11566,4006
 Cabo-Verde Action-Plan 2023	11873
 Cabo-Verde-Digital-Cabo-Verde-Project.pdf	15491
 Cabo-Verde-Digital-Cabo-Verde-Project.pdf Author	15491
+Cabo-Verde-specific	15367
 Cabo-Verde. Os	18768
 Cabo-Verdeans	11955
 Cabo-Verdiana	15470
@@ -1095,7 +1102,7 @@ Digital Cabo Verde Project’. The WB	11863
 Digital Economy Cabinet Secretary	8214
 Digital Economy Cabinet Secretary William Kabogo	9333
 Directeur Général de Medusa Submarine Cable System	19422
-Directeur de Cabinet	4273,3060,863,7384,105,414,76,162,44,328,875,789,8
+Directeur de Cabinet	4273,3060,863,7384,105,414,76,162,44,328,875,789,8,1609
 Directeur de Cabinet Adjoint	16099,282
 Directeur de Cabinet Adjoint du Président	18216
 Directeur de Cabinet Civil	16381
@@ -1112,6 +1119,7 @@ Directeur de Cabinet du Président	7333,8125,2661,97,22
 Directeur de Cabinet du Secrétaire Général du Gouvernement	15973
 Directeur de Cabinet du Vice-Président	16099
 Directeur du Cabinet	14573
+Directeur du Cabinet Adjoint	20011
 Directeurs des Cabinets	18101
 Director for CAB APL3	15372
 Director of Cabinet	15661,270
@@ -1275,14 +1283,14 @@ Governance BoP Balance of Payments CAB Current	11271
 Governação Digital de Cabo Verde	1268,1350,9255,3659,40
 Government Cabinet	10812,1153
 Government Program Cabo Verde's Strategic Plan	11863
-Government of Cabo Verde	181,1,8,152,1067,3426,619,586,2598,3217,14,4,66,26,43,3483,61,18,413,289
+Government of Cabo Verde	181,1,8,152,1067,3426,619,586,2598,3217,14,4,66,26,43,3483,61,18,413,289,3763
 Government of Cabo Verde. MFIS	11855
 Government of Cabo Verde. Taking	15590
 Government of Mauritius. The Cabinet	14742
 Government of Sierra Leone Fiber Cable Assets	18485
 Government. The Government of Cabo Verde	11855
 Governo da República de Cabo Verde	11898,3461,118
-Governo de Cabo Verde	3558,4961,3379,32,91,19,3318,9,21,88,27,23,6,40,183,144,1,22,40,4,34,3,52,28,49,35,14,87,12,63,33,68
+Governo de Cabo Verde	3558,4961,3379,32,91,19,3318,9,21,88,27,23,6,40,183,144,1,22,40,4,34,3,52,28,49,35,14,87,12,63,33,68,3591
 Governo de Cabo Verde Notícias	1736,13667,559,105,67,65
 Governo de Cabo Verde NotíciasDiscurso	1265
 Governo de Cabo Verde NotíciasMinistra Edna Oliveira	1268
@@ -1475,6 +1483,7 @@ MOUSSOUNDA Serge Hervé RGB Directeur de Cabinet	16012
 MTL and Cabinet	4653
 Maareynta Cabashooyinka	14906
 Madame AU CABINET DE L’ANCIEN PRESIDENT	17861
+Madame la Cheffe de Cabinet	19989
 Main One Cable Company Last	3386
 Main One Cable Company Nigeria Ltd	3862
 MainOne Cable	3782
@@ -1801,7 +1810,7 @@ Représentant du Cabinet Civil PR	13290
 Représentant du Cabinet PR	13290
 Représentant du Cabinet VP1	13290
 Représentant du Cabinet VP2	13290
-Republic of Cabo Verde	583,16,205,5203,2159,3697,78,3550,61,38,334,59,131,105,274
+Republic of Cabo Verde	583,16,205,5203,2159,3697,78,3550,61,38,334,59,131,105,274,3538
 Republic of Cabo Verde H. E. Adama	7452
 Republic of Cabo Verde Loan No	8166
 Republic of Cabo Verde. Praia	11909

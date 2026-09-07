@@ -89,7 +89,7 @@ Comandos Tomás Djassi	17315
 Comentários São Tomé	3530
 Comité Nacional de Cibersegurança de São Tomé	18788
 Commission and São Tomé and Príncipe	18985
-Companhia São Tomense de Telecomunicações	18754
+Companhia São Tomense de Telecomunicações	18754,1262
 Companhia São Tomense de Telecomunicações DFI Development	18754
 Constituição da República Democrática de São Tomé	18753,2,33,158
 Constituição de São Tomé	18783
@@ -134,7 +134,7 @@ Diderot Sandjong Tomi	11271
 Diderot Tomi	15474
 Digital Sao Tome and Principe	18817
 Digital Sao Tome and Principe World Bank	992
-Digital São Tomé and Príncipe Project	18809,42
+Digital São Tomé and Príncipe Project	18809,42,1178,11
 Digital de São Tomé	18779
 Diosdado Bull Tomé	17387
 Direcção República Democrática de São Tomé	18845
@@ -417,7 +417,7 @@ STP São Tomé and Príncipe USR Unique	18809
 San Tomeans	18770
 Sao Tom Djibouti Tunisia Mauritania BUCMEOAAO	6938
 Sao Tome	1243,10326,1801,2041,1531,803,1012,52,1,47,7
-Sao Tome and Principe	236,756,6164,70,3538,76,577,146,46,601,832,2382,47,29,1442,1735,82,11,7,10,3,2,25,8,11,2,19,7,15,84
+Sao Tome and Principe	236,756,6164,70,3538,76,577,146,46,601,832,2382,47,29,1442,1735,82,11,7,10,3,2,25,8,11,2,19,7,15,84,1053
 Sao Tome and Principe 2003.pdf	18779
 Sao Tome and Principe AFR LMI	17743
 Sao Tome and Principe Angola Lesotho Guinea	12214
@@ -432,6 +432,7 @@ Sao Tome and Principe World Bank Enterprise	18838
 Sao Tome and Principe and Africa. Sao Tome	18790
 Sao Tome and Principe and Senegal	789
 Sao Tome and Principe and Sudan	15372,3515
+Sao Tome and Principe's ACE	20016
 Sao Tome and Principe-	11863
 Sao Tome and Principe. Established	6361
 Sao Tome and Principe. Region	11420
@@ -493,7 +494,7 @@ São Tomé Avenida Kwame N’krumah	18789
 São Tomé Benin	11569
 São Tomé Copyright	18769,2
 São Tomé Dobra Official Use Only	18809
-São Tomé Island	18777,10,8,67
+São Tomé Island	18777,10,8,67,1182
 São Tomé Príncipe	18796
 São Tomé Príncipe. Foram	18769
 São Tomé Television UNICEF	18770
@@ -506,7 +507,7 @@ São Tomé and Principe	175,2807,7803,1094
 São Tomé and Principe and Ghana	11879
 São Tomé and Principe. Instituto Nacional de Estadística	18787
 São Tomé and Principe. Lisbon	18787
-São Tomé and Príncipe	1380,7,1108,187,300,612,318,238,82,680,148,373,182,1541,353,198,2481,400,171,76,3,130,471,431,9,7,1,2,71,193,1,9,178,11,1,135,357,543,2123,3243,11,2,3,6,1,8,2,8,1,1,9,3,4,3,1,6,2,13,2,2,4,1,4,11,6,1,4,6,105,1,668,183,22,1,80
+São Tomé and Príncipe	1380,7,1108,187,300,612,318,238,82,680,148,373,182,1541,353,198,2481,400,171,76,3,130,471,431,9,7,1,2,71,193,1,9,178,11,1,135,357,543,2123,3243,11,2,3,6,1,8,2,8,1,1,9,3,4,3,1,6,2,13,2,2,4,1,4,11,6,1,4,6,105,1,668,183,22,1,80,48,29,24,4,5
 São Tomé and Príncipe ANNEX Conditions	18985
 São Tomé and Príncipe Abidjan-Lagos	18862
 São Tomé and Príncipe Baseline Actual	18817
@@ -540,7 +541,8 @@ São Tomé and Príncipe Youth Employment Opportunities	18809
 São Tomé and Príncipe and Nigeria	18985
 São Tomé and Príncipe and Portugal	18797
 São Tomé and Príncipe and Seychelles	7795
-São Tomé and Príncipe's National Energy Compact	18862
+São Tomé and Príncipe's National Energy Compact	18862,1182
+São Tomé and Príncipe's Unique Social Registry	20029
 São Tomé and Príncipe-based	18797
 São Tomé and Príncipe. All	18797
 São Tomé and Príncipe. Among	18797
@@ -636,6 +638,7 @@ Tom's Hardware Premium	9629
 Tom- CPS Etat Monitoring Activité	17845
 Tom-Monitoring	17845
 Tom2 Pro	10829
+Tom2Pro	20002
 TomPro Accounting System	19284
 TomTom	1828
 Toma Nayala Boucle du Mouhoun	15715

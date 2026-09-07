@@ -68,7 +68,7 @@ Agency for Healthcare Research and Quality	8604,2176
 Agricultural Quarantine	4811,453,53,458,129
 Aimee Vyda Quashie	7464
 Air Emissions and Ambient Air Quality	17114
-Air Quality	8891,1868,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,986,6178,1,169,14,22,1,65,14,1
+Air Quality	8891,1868,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,986,6178,1,169,14,22,1,65,14,1,48
 Air Quality Act	11228
 Air Quality Index IRI	18309
 Air Quality Management Centre CLIMDEV	18309
@@ -196,7 +196,7 @@ Burundi. Qua	8062
 Bénin. Quatre	4812
 C QUALITÉ DES DONNÉES Tableau C.1	13300
 C- Qualifying	7548
-C. BANK PERFORMANCE Quality	11924,3500,239,2299
+C. BANK PERFORMANCE Quality	11924,3500,239,2299,2026
 C. BANK’S PERFORMANCE Quality	15511
 C. Qualitative Methods	17139
 C.11 Quadro C.12 Quadro C.13 Quadro	10777
@@ -522,7 +522,7 @@ Ebow Quayson	8442
 Ecole Quartier	19840
 Education Access and Quality Improvement Project	15550
 Education Education Quality Public Perception of Education	10837,1315,188,7598
-Education Quality	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1503,5661,1,169,14,22,1,65,14,1
+Education Quality	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1503,5661,1,169,14,22,1,65,14,1,48
 Education Quality Project	19835
 Education Quality SADC Southern African Development	13310
 Education Standards and Quality Assurance Council	899
@@ -723,7 +723,7 @@ Health Data Quality Intervention	10881
 Health Facility Quality Index	16896,26
 Health Information Technology Systems and Quality of Care	10784
 Health Network Quality Improvement System IAM	14442
-Health Quality	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Health Quality	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Health Quality Public Perception of Female Leadership	12488
 Health Unit QEHSSSP Quality Essential Health	18478
 Heliodoro Quaresma Ponto Focal CNULCD	18760
@@ -744,6 +744,7 @@ I. QUANTOS SOMOS EM	18802
 I.4 TESTING DRINKING WATER QUALITY	15574
 IA. Quant	18070
 ICR DOCUMENT Justification of Overall Rating of Quality	15731
+ICR Quality Assurance. B. STAFF TIME	19988
 ICT Indicators Quarterly Bulletin	15604
 ICTs Quarterly Press	958
 IFM Quality Services Pty Ltd	14736
@@ -790,6 +791,7 @@ Improved Quality of National Accounts4	15085
 Improvement of Quality and Relevance of Education	16852
 Improvement of Service Quality and Accessibility	19900
 Improving Education Quality and Results for All MNO	17870
+Improving Pre-school and Basic Education Quality	19988
 Improving Quality and Equity of Basic Education Project	19245,4
 Improving Quality and Focuses	19245
 Improving Quality of Teaching and Learning	19249
@@ -849,7 +851,7 @@ Jovens Quadros	17360,1
 João Quaresma Viegas Bexigas	18750
 Jumia Reports Second Quarter	9735
 Justification for Overall Rating Quality of M&E	15663
-Justification of Overall Rating of Quality of M&E	15601,835,1526
+Justification of Overall Rating of Quality of M&E	15601,835,1526,2026
 Justification of Overall Rating of Quality of M&E Based	15511
 Justification of Overall Rating of Quality of M&E Rating	15424
 KENYA NATIONAL QUALIFICATIONS FRAMEWORK	7832
@@ -939,6 +941,7 @@ MARECHAL DE LOGIS CAPORAL-CHEF-ou QUARTIER MAITRE	15524
 MAURITAS for Quality Management Systems	14736
 MDAs The Quality Assurance and Improvement Programme	18577
 MDAs. Quarterly Government Audit Committee	18577
+MELQO Monitoring Early Learning Quality and Outcomes	19988
 MEPA Quarterly	12253
 MFSMCG Elements of Quality	14777
 MINIMUM REQUIREMENTS FOR CONSULTANT'S QUALIFICATIONS	3678
@@ -1016,11 +1019,12 @@ Mobile le Quatrieme	13313
 Moderado Quadro	11421
 Moderate Post Limited Qualifying	11855
 Moderately Satisfactory. M&E Quality	15704
-Moderately Unsatisfactory. Quality of Supervision	16436
+Moderately Unsatisfactory M&E Quality	19988
+Moderately Unsatisfactory. Quality of Supervision	16436,3552
 Momba DC Qualified Compliant	19585
 Money and Quasi-Money Supply	2775
 Monitor Quality of Service	5676
-Monitoring Early Learning Quality and Outcomes	16638
+Monitoring Early Learning Quality and Outcomes	16638,3350
 Monitoring Educational Quality SEN Special Education	12975
 Monitoring and Quality Assurance	13960
 Monitoring of Quality of Service	12616
@@ -1419,7 +1423,7 @@ QUALITY MANAGEMENT SYSTEM AND ACCREDITATION	19544
 QUALITY MANAGEMENT SYSTEMS CERTIFICATION	13068
 QUALITY MANAGEMENT SYSTEMS CERTIFICATION ISO	13068
 QUALITY OF LIFE AND WELLBEING	12916
-QUALITY OF MONITORING AND EVALUATION	11924,3500,87,90,62,773,1526
+QUALITY OF MONITORING AND EVALUATION	11924,3500,87,90,62,773,1526,2026
 QUALITY OF OFFICIAL STATISTICS	17149
 QUALITY OF SERVICE	14864,285
 QUALITY OF SERVICE AND QUALITY	12601
@@ -1459,6 +1463,7 @@ QUARTER ENDED	17025
 QUARTER ENDING	4517,2461
 QUARTER-ON-QUARTER YEAR-ON-YEAR CHANGE CHANGE IN SOCIAL	12214
 QUARTERLY STATISTICAL BULLETIN ON COMMUNICATIONS	2776,13267
+QUARTIER BOULBINET	19999
 QUARTIER MAITRE	15524
 QUARTIER MAITRF	15524
 QUATER	16020
@@ -1730,7 +1735,7 @@ Qualitative and Quantitative Study	15460
 Qualitatively	10852,2126
 Qualitus Ketjimambo	10358
 Qualitus Ketjimambo. Wide-ranging	10358
-Quality	25,2,209,530,5,169,18,12,2,189,48,73,2,534,67,890,876,123,17,1455,103,316,386,781,116,256,74,355,130,367,294,15,628,1708,9,45,52,67,15,1,169,1,22,60,277,364,6,11,7,37,37,196,24,24,28,110,9,49,53,103,100,55,51,143,29,102,27,146,14,92,4,5,1,11,27,27,2,31,28,15,43,182,301,4,9,98,336,14,290,8,6,15,10,78,7,26,5,2,1,4,22,13,23,39,30,99,23,15,80,167,163,30,23,32,2,70,12,17,29,244,111,68,224,178,225,12,33,2,6,8,22,5,12,3,5,13,18,171,138,154,134,294,1,88,13,138,200,61,71,17,71,14,14,21,49,127,157,40,31,302,190,45,2,11,10,2,11,2,19,58,115,86,5,90,1,35
+Quality	25,2,209,530,5,169,18,12,2,189,48,73,2,534,67,890,876,123,17,1455,103,316,386,781,116,256,74,355,130,367,294,15,628,1708,9,45,52,67,15,1,169,1,22,60,277,364,6,11,7,37,37,196,24,24,28,110,9,49,53,103,100,55,51,143,29,102,27,146,14,92,4,5,1,11,27,27,2,31,28,15,43,182,301,4,9,98,336,14,290,8,6,15,10,78,7,26,5,2,1,4,22,13,23,39,30,99,23,15,80,167,163,30,23,32,2,70,12,17,29,244,111,68,224,178,225,12,33,2,6,8,22,5,12,3,5,13,18,171,138,154,134,294,1,88,13,138,200,61,71,17,71,14,14,21,49,127,157,40,31,302,190,45,2,11,10,2,11,2,19,58,115,86,5,90,1,35,22
 Quality AI	12210
 Quality Activity	16863
 Quality Analysis Fee	18541
@@ -2075,7 +2080,7 @@ Quand la Pourcentage	13300
 Quand le Numérique	18252
 Quando	14,1,534,195,2122,653,3451,148,885,157,1016,147,178,1050,200,1,1,2,22,586,2,3,2,3,1,10,28,4,9,5,13,2,1,15,6,53,3,54,5,319,117,293,464,7,2,77,2497,22,5,7,4,37,7,10,27,32,11,34,18,200,250,5,62,33,203,768,7,78,122,1449,3,1,2,3,3,3,10,4,22,1,1,28,3
 Quansah	11140
-Quant	565,172,550,421,210,145,217,62,281,343,138,234,58,69,241,48,235,394,3,73,91,263,61,848,512,204,312,18,59,36,96,255,92,328,36,203,53,3,298,94,570,676,148,16,658,323,105,4,5,49,2,8,80,683,178,242,1232,25,16,49,37,15,25,15,29,939,29,48,46,24,793,8,1,24,89,30,57,40,34,38,1,116,61,47,259,133,37,13,97,13,57,95,852,113,225,12,3,19,8,13,16,44,14,24,107,10,3,2,43,2,7,12,117,5,16,15,43,53,501,7,46,14,17,1,32,180,44,31,4,350,266
+Quant	565,172,550,421,210,145,217,62,281,343,138,234,58,69,241,48,235,394,3,73,91,263,61,848,512,204,312,18,59,36,96,255,92,328,36,203,53,3,298,94,570,676,148,16,658,323,105,4,5,49,2,8,80,683,178,242,1232,25,16,49,37,15,25,15,29,939,29,48,46,24,793,8,1,24,89,30,57,40,34,38,1,116,61,47,259,133,37,13,97,13,57,95,852,113,225,12,3,19,8,13,16,44,14,24,107,10,3,2,43,2,7,12,117,5,16,15,43,53,501,7,46,14,17,1,32,180,44,31,4,350,266,75,25
 QuantStudio	13617
 Quanta Club	15290
 Quantas	10777
@@ -2636,6 +2641,7 @@ Soft Skills Gaps Mining and Quarrying Manufacturing	12445
 Software Quality	11156
 Solar for Quality Health Care	18679
 Sold Processed Product Quantity	17043
+Solves the Poor Data Quality	20004
 Somali Standards and Quality Control	15276
 South African Qualifications Authority	6832,4350,70
 South African Qualifications Authority SAGEA	6832

@@ -78,7 +78,7 @@ DNS Total Eixo	15694
 DPI. EIH	9070
 DSCR Debt Service Coverage Ratio EIRR	15515
 DTBI Domestic Direct Investment EISOs Dar	19534
-Description EIB	188,66,218
+Description EIB	188,66,218,19554
 Description Eine	457
 Description First EIB	253
 Development Bank. EIB	789
@@ -118,6 +118,7 @@ EIB GSEC	16966
 EIB Global	123,65,65,1,597,3,1,228,381,689,555,11924,1269,2606
 EIB Grants	2708
 EIB Group	15901,2606
+EIB Loan The European Investment Bank	20026
 EIB Representation	18909
 EIB Technical	15901
 EIB US	543
@@ -126,6 +127,7 @@ EIB Use	15901
 EIB Vice-President Ambroise Fayolle	18507,402
 EIB and Cassa Depositi and Prestiti	13883
 EIB and DGT	1405
+EIB and EEAS	20026
 EIB and French Proparco	970
 EIB and KfW	12358
 EIB and PROPARCO	970
@@ -449,6 +451,7 @@ Hundred and Eighty-Three Million	3862
 Hundred and Sixty-One Million Eight Hundred	12982
 I' Eiot	15429
 IATI. EIB	1464
+IDA and EIB	20002
 IFIs. The EIB	789
 IISs and EIRs	8376
 ISD EICV7	14997

@@ -42,6 +42,7 @@ AMESSIKOU Koami Evenyo ADJ	19251
 AMwhSo .SinDtN North Kordofan EN DRAFT.pdf	15206
 AMwhSo .SinDtN South Kordofan EN DRAFT.pdf	15206
 AMwhSo .SinDtN West Kordofan EN DRAFT.pdf	15206
+API- the Koloma National Data Centre	20004
 ARATIME Kodjo SCH	19251
 ASSA Kouassi Georges	2342
 ASSI Komi SGT	19251
@@ -67,13 +68,14 @@ Abdel Karim KONATE Le Président	17829
 Abdel Karim KONATE Vu la Constitution	17829
 Abdelaziz Koulouh	7623
 Abdelkerim Kormé Wachi	19116
+Abdoul Malick Kone	19996
 Abdoulaye DOUMBIA KONE Secrétaire	17819
 Abdoulaye KONATE Profil	17882
 Abdoulaye Ouma Kane DIALLO KONE Secrétaire	17841
 Abou KONE Trésorière	17899
 Aboubacar KOUROUMA	16709
 Aboubacar KOUROUMA MMG DG	16620
-Aboubacar Kourouma	7978
+Aboubacar Kourouma	7978,12033
 Aboudou KONE Commissaire	18032
 Aboulqasim Omar Ali Koukla Murad Husayn	17403
 Accra’s Kosmos Innovation Center	10841
@@ -640,6 +642,7 @@ Fidele Honorine Yobo A Koue Epse	15802
 Fidèle Kodé Ngolo	9448
 Filani KOUYATE Secrétaire	17828
 Finance Minister Ahmed Kouchouk	8770,1678
+Financial Management Specialist. Koulako Camara	19988
 Fintech Report Kora	14819
 Flana N'Golo Bakary KONE ACM GNM	17841
 Fleuve Komo	16037
@@ -1472,7 +1475,7 @@ Kolda New Deal Technologique	5779
 Kolda P1	18291
 Kolda PARTAGEZ CET ARTICLE SUR	5779
 Kolda Region	18370
-Kolenda	16710
+Kolenda	16710,3282
 Kolibri	8144,76,9149
 Kolin Foundation Junior Secondary School Hall	13046
 Kolkata	9128,9093
@@ -1494,6 +1497,10 @@ Kololo	1811,946,9351,2272,5424,9
 Kololo Independence Grounds	3065,6631
 Kololo Independence Grounds. UCC E.D Nyombi	9781
 Koloma	2887,13732,1,94
+Koloma Data Centre	20004
+Koloma National Data An Electronic	20004
+Koloma National Data Centre	20004
+Koloma National Data Tier III National	20004
 Koloma. Au	16714
 Kolsi	19436
 Koltay	8022
@@ -1697,6 +1704,8 @@ Konkola Copper Mines and Mopani Copper Mines	5247
 Konkola Deep Mining Project	13387
 Konkola and Mopani Copper Mines	5247
 Konkola and Mopani Copper Mines.20	5247
+Konkouré	20002
+Konkouré River	20002
 Konkurrenzfähigkeit	457
 Konna and Youwarou	17906
 Konnect	4546,175,1215,4756
@@ -1721,7 +1730,7 @@ Kono Sandor	18464
 Kono Soa	18464
 Kono Tankoro	18464
 Kono Toli	18464
-Kono and Kenema	4140
+Kono and Kenema	4140,15893
 Kono and Port Loko. SEX DISTRIBUTION	18464
 Kono and Pujehun	18464
 Kono and Western Urban	18464
@@ -1800,6 +1809,7 @@ Konza Technopolis. Kampala’s Safe City CCTV	4563
 Konza Technopolis. Last	1236
 Konza Technopolis. Principal Secretary	10667
 Konza Technopolis. Technical	11165
+Konzi Tei	19990
 Konzéné	3927
 Koné Aboubacar Siriki	10936
 Koné Kipeya	10917
@@ -2102,6 +2112,7 @@ Kouka	10546
 Kouka Banwa Boucle du Mouhoun	15715
 Kouka Gansonré	8634
 Koukoutamba	17894,97
+Koukoutamba HPP	20002
 Koukpaizan	13868
 Koula	17955,18
 Koula. Une	17955
@@ -2162,10 +2173,12 @@ Koungueul	58
 Kounindiou	17841
 Kouno	18972
 Kounoungou	10841
+Kountia	19997
 Kountori	16362
 Kountou	17982
 Koupèla	10875
 Koupèla Kourittenga Centre-Est	15715
+Kouremale	19992
 Kouremalé	16710
 Kourfey	18151
 Kourfey. C'était	18151
@@ -2785,7 +2798,7 @@ North Kordofan	10192,142,4563,58,251,38,98
 North Kordofan SNAPSHOT	15206
 North Kordofan State	14955
 North Kordofan and East Nile Khartoum	15342
-North Korea	6825,646,4138,2505,5823
+North Korea	6825,646,4138,2505,5823,72
 North Korea North Macedonia Northern Mariana	11470,7872
 North Korea-linked	4127
 North Korean-backed	4127
@@ -2910,6 +2923,7 @@ President Shri Ram Nath Kovind	13561
 Pretoria High Court Judge Narandran Kollapen	10955
 Prince Kofi Kludjeson	17662,55
 Principal Secretary for Foreign Affairs Dr. Korir	14668
+Procurement Specialist. Mamady Kobele Keita	19988
 Prof. Alpha Oumar Konare	18016
 Prof. Arsène Kobéa	6235
 Prof. Kodjo NDUKUMA	15458
@@ -2970,7 +2984,7 @@ Rep. Dem. People’s Rep. of Korea Eritrea	10764
 Rep. of Korea Maldives Marshall Islands Micronesia	10764
 Representative Yekeh Kolubah of District	17419
 Representing the South Korean	17055
-Republic of Korea	770,473,978,914,1482,943,1053,236,836,110,326,829,117,354,484,859,82,18,271,19,333,85,1472,251,87,265,340,170,143,1171,9,1100,204,644,557,1617
+Republic of Korea	770,473,978,914,1482,943,1053,236,836,110,326,829,117,354,484,859,82,18,271,19,333,85,1472,251,87,265,340,170,143,1171,9,1100,204,644,557,1617,407
 Republic of Korea English	9067
 Republic of Korea People's Republic of China	19542
 Republic of Korea The African Development Bank	9905
@@ -3047,6 +3061,7 @@ Samuel Kofi Woods	5475
 Sandeep Kohli	11572
 Sandy Gaëlle KOULIE	16381
 Sangha Koulpélogo Centre-Est	15715
+Santé Mr OUMAR SAID KOULIBALY Médecin	19986
 Santé de Koulikoro	17819
 Sara Koki Muli-Kinagwi	14663
 Saran KONE Secrétaire	18032

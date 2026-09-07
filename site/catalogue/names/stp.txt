@@ -32,6 +32,7 @@ Financing for STP	18754
 Government of STP	18765,22,64,6
 Government. STP	18851
 Governo de STP	18793
+Highly Satisfactory. STP	20016
 ICT Sector Strategy for STP	18754
 Internet. O FGI STP	8487
 KE STP Company	18793
@@ -81,7 +82,7 @@ STP Digital Economy Assessment	18777
 STP Digital. Cada	18946
 STP Due	18787
 STP Education for All	18754
-STP Fiscal Sustainability	18851
+STP Fiscal Sustainability	18851,1189
 STP Form TECH-3 of Section	13037
 STP Horaires Activités Présentateurs Jour	2966
 STP Há	18796
@@ -107,7 +108,7 @@ STP and Grant No. H088 STP	18754
 STP's National Strategy for Digital Governance	1380
 STP- Cabo	18754
 STP-Cabo	18753,1
-STP-Cabo SARL	18753,1
+STP-Cabo SARL	18753,1,1262
 STP-Cabo. CST	18754
 STP-Cabo. Nestes	18753
 STP-DOC	18819

@@ -284,8 +284,8 @@ Close the Continent	17069
 Close the Continent’s Investment Gap Gambia Hosts	17069
 Close the Project	14546
 Close-out	18761
-Closed	35,10,3,13,2,1,16,1,1,1,93,23,1,8,34,42,18,29,48,74,46,1,98,10,45,28,1,1,1,1,1,1,115,87,1,1,1,1,1,1,195,34,1,1,391,1,1,1,1,2,1,3733,1497,842,2137,1552,58,32,839,205,2265,445,573,29,1158,260,96,6,655
-Closed Approval Fiscal Year	13742,1206
+Closed	35,10,3,13,2,1,16,1,1,1,93,23,1,8,34,42,18,29,48,74,46,1,98,10,45,28,1,1,1,1,1,1,115,87,1,1,1,1,1,1,195,34,1,1,391,1,1,1,1,2,1,3733,1497,842,2137,1552,58,32,839,205,2265,445,573,29,1158,260,96,6,655,2095
+Closed Approval Fiscal Year	13742,1206,5040
 Closed Area	14778
 Closed As Necessary	5246
 Closed Books	5482
@@ -320,12 +320,12 @@ Closer Look	1828,3579,676,1505
 Closer and Easier	15260
 Closes	3228,34,677,3026
 Closes Roads	9989
-Closing	543,1161,124,693,69,590,249,353,464,122,195,430,248,101,521,50,208,50,167,201,40,14,121,76,42,34,210,294,144,65,27,49,131,88,2,237,58,179,363,449,44,260,210,22,127,1,262,14,86,136,296,94,4,17,40,18,16,105,83,6,3,1,32,63,29,25,29,55,332,201,141,50,30,3,222,59,19,103,324,144,169,17,63,36,101,538,314,86,32,204,193,162,19,95,25,58,37,14,188,153,52,129,48,136,184,515,109,69,185,179,112,9,15,2,123,21,533,56,21,92,77,584,61,1,22,47,177,51,119,184,293,71,79,101
+Closing	543,1161,124,693,69,590,249,353,464,122,195,430,248,101,521,50,208,50,167,201,40,14,121,76,42,34,210,294,144,65,27,49,131,88,2,237,58,179,363,449,44,260,210,22,127,1,262,14,86,136,296,94,4,17,40,18,16,105,83,6,3,1,32,63,29,25,29,55,332,201,141,50,30,3,222,59,19,103,324,144,169,17,63,36,101,538,314,86,32,204,193,162,19,95,25,58,37,14,188,153,52,129,48,136,184,515,109,69,185,179,112,9,15,2,123,21,533,56,21,92,77,584,61,1,22,47,177,51,119,184,293,71,79,101,191
 Closing Approval	15663
 Closing Argument	6968
 Closing Civic Space	1250
 Closing Closing	19284
-Closing Date	1179,1294,3832,2421,2053,2252,6,838,1013,24,59,12,207,1029,717,24,1534,1,140,649
+Closing Date	1179,1294,3832,2421,2053,2252,6,838,1013,24,59,12,207,1029,717,24,1534,1,140,649,706
 Closing Date CKS	11269
 Closing Date Extension Components Results Legal	11924
 Closing Date Extension Financial Management Procurement	15731
@@ -350,7 +350,7 @@ Closing Note	14566
 Closing Observation Taken	7151
 Closing Opening Remarks	17104,213
 Closing PDO	15663
-Closing Period	3604,8320,64,240,39,293,498,2101,985,292,1526,171,849,499
+Closing Period	3604,8320,64,240,39,293,498,2101,985,292,1526,171,849,499,507,2,11
 Closing Period Apr	1264
 Closing Period Beneficiaries	16032
 Closing Period Building Policy and Financing Pathways	16144
@@ -865,7 +865,7 @@ Excellence Cloud	3857
 Executive Officer Marna Cloete	15952
 Executive Summary The Nigerian Cloud Policy	11995
 Expected Approval Date Expected Closing Date	1867,1737,7164,61,135,453,143,295,50,1426,1,2289,40,483,2054,1047
-Expected Closing Date	2252,8580,1556,2522
+Expected Closing Date	2252,8580,1556,2522,5109
 Expected Program Closing Date	3604,7813,971
 Exploitation Cloud	18395
 Extend Google Cloud	4434
@@ -1095,11 +1095,13 @@ Jian Cloete	12478
 Johannesburg Cloud Region	6930,75
 Johannesburg Google Cloud	1363
 July. Closing	13646
+Jun-2018. Current Closing Date	19990
+Jun-2018. Operation Closing Date	19990
 Jun-2020. Current Closing Date	15693
 Jun-2021. Closing Date	16398
 Jun-2021. Current Closing Date	14971
 Jun-2023 Closing Date	10779
-Jun-2023 Operation Closing	17904
+Jun-2023 Operation Closing	17904,2084
 Jun-2023 Original Closing Date	16638
 Jun-2023 Rev. Closing	18792
 Jun-2024 Operation Closing	19249
@@ -1144,6 +1146,7 @@ L'infrastructure Cloud	9049
 L2 Support Cloud Operational Experience Timeless	11209
 LAA BRINGS SERVICES CLOSER TO COMMUNITIES	12683
 LOAN CLOSING DATE	1284
+LOANS Loan Closing	19990
 Lagos State and Kasi Cloud	6376
 Land Platform Features Cloud-Based Access	12211
 Launch Sovereign Public Cloud Platform	6299
@@ -1190,7 +1193,7 @@ Marketplace. Cloud Service Providers	16924
 Masiyiwa’s Sovereign AI Cloud	3596
 Material Cloud Service	12967
 May-2022. Closing Date	13734
-May-2024 Operation Closing	17096,1258
+May-2024 Operation Closing	17096,1258,1647
 May-2025 Operation Closing	6579
 Microsoft Azure MMM Private Cloud	11231
 Microsoft Azure and Google Cloud	6471,595,3439,630,2137
@@ -1263,6 +1266,7 @@ Nigeria’s National Cloud Policy	6580
 Nigeria’s National Sovereign Cloud Initiative	9118
 No. DESCRIPTION TENDER NO. Category Closing	1638
 No. Expected Closing Date	14937
+No. Loan Closing Date Extension	19990
 Non-Negotiable Closing the Books	7055
 Nov-2018. Current Closing Date	13897
 Nov-2019 Operation Closing	15731
@@ -1305,8 +1309,8 @@ OracleGoogle CloudAlex OkosiRebecca MianoRead	6506
 Oracle’s EU Sovereign Cloud	6477
 Orange Cloud	7214
 Organization of Data Center and Cloud Computing Services	14944
-Orig. Closing	11375,1683,2101,322,256,2396,1348
-Original Closing	6833,6889
+Orig. Closing	11375,1683,2101,322,256,2396,1348,520
+Original Closing	6833,6889,6268
 Original Closing Actual Closing	15663,2186
 Original Closing Date	12980,2639
 Original Revised Proposed Proposed Loan Closing	19284
@@ -1383,12 +1387,13 @@ Procurement Cloud Procurement	16924
 Procurements of Government Cloud	16924
 Program MS Current Closing Date Dec	13392
 Project Cloning and Institutional Outreach	1554
-Project Closing	11924,6038
+Project Closing	11924,6038,2026
 Project Closing Date	11863,2075,142,931
 Project Closing Sub-objective	11924
 Project Closure Report	1988
 Project Geographical Identifier Mozambique Current Closing	4653
 Project Project Closure	1778
+Proposed Closing	19990
 Proposed Deadline Closing	1284
 Provide Cloud	6432
 Providing Hosting Services for Cloud Computing	19860
@@ -1425,7 +1430,8 @@ Responsiveness The Government Cloud	16923
 Restructuring Implementation Start Date Operation Closing	16032,2327
 Resume CLOUD Act	10088
 Rev. Closing	11375,1683,2101,322,256,2396,1348
-Revised Closing	6833,8123
+Rev. Closing IDA-62390	20001
+Revised Closing	6833,8123,5034
 Revised Closing Date	12980
 Risk Closely	6947
 Risk of Defaults and Closures	12376
@@ -1572,6 +1578,7 @@ XAfrica Data Centres and Baobab Cloud Services	6299
 Yamify's Managed Cloud Prototypes	11344
 Year Closed The World Bank	10857
 Year of Final Close	4972
+Yes. Closing Period	20001
 Zadara AI Cloud	3300
 Zadara AI Sovereign Cloud	3300
 Zadara Cloud Platform	13676

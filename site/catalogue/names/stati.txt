@@ -1604,6 +1604,7 @@ Management Systems GSBPM Generic Statistical Business	17116
 Manager of Population Census and Vital Statistics	19542
 Managing Statistical Organization	19519
 Managing and Promoting Quality Statistics Published	2775
+Mandate Common Task the National Institute of Statistics	20004
 Mandates the National Statistics Office	15760
 Manual for Peer Reviews of National Statistical Systems	12706
 Manual of Government Finance Statistics	14932
@@ -1802,7 +1803,7 @@ National ID and Civil Registration and Vital Statistics	13005
 National Institute for INSEED Statistics	18931
 National Institute for Statistics	1828,16949
 National Institute for Statistics and Demography	10812
-National Institute of Statistics	237,5652,1813,1706,1355,13,4,184,16,5,286,146,108,348,92,202,34,157,955,1629,559,52,21,458,18,139,358,449,11,94,230,773,29,654,9,50,609,373
+National Institute of Statistics	237,5652,1813,1706,1355,13,4,184,16,5,286,146,108,348,92,202,34,157,955,1629,559,52,21,458,18,139,358,449,11,94,230,773,29,654,9,50,609,373,176
 National Institute of Statistics IRPC	11955
 National Institute of Statistics Internet Service Provider	15480
 National Institute of Statistics RGPH	15574
@@ -1841,12 +1842,12 @@ National Statistical Council and Committees	12643
 National Statistical Database	16833
 National Statistical Development	13359
 National Statistical Information	14882
-National Statistical Institute	10775,623,4634,261,105,1706,721
+National Statistical Institute	10775,623,4634,261,105,1706,721,1223
 National Statistical Institute of Angola	11423
 National Statistical Institute of Rwanda	12419
 National Statistical Institutes	8532
 National Statistical Institution	11900
-National Statistical Office	1704,4382,3860,466,1300,566,623,5,99,35,109,8,52,101,4355,184,336,653
+National Statistical Office	1704,4382,3860,466,1300,566,623,5,99,35,109,8,52,101,4355,184,336,653,1166
 National Statistical Office OCGS Office	19557
 National Statistical Offices	8341,86,2392,4801,1307,222,1036
 National Statistical Offices. Download ZIMSTAT Board	13490
@@ -2784,7 +2785,7 @@ Statistical Methodology	19555
 Statistical Methods	11237,5690,358
 Statistical National Statistical System Census System	16863
 Statistical Newsletter Q4	19966
-Statistical Office	12706
+Statistical Office	12706,7298
 Statistical Officer	12768,2047,17
 Statistical Officers	16867
 Statistical Operational Functions and Services	13993
@@ -2824,7 +2825,7 @@ Statistical Standards	11237,7508
 Statistical Studies and Communication Division	19093
 Statistical Support and Informatics	11237
 Statistical Systcln	11852
-Statistical System	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,871,3504,223,1158,1408,1,169,14,22,1,65,14,1
+Statistical System	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,871,3504,223,1158,1408,1,169,14,22,1,65,14,1,48
 Statistical System Absence of Forced Migration	10835,3,130,902,16,466,1,135,7334
 Statistical System Child	10838
 Statistical System Coordination Unit	16863
@@ -3531,6 +3532,7 @@ Training of Trainers TSMP II Tanzania Statistical	19554
 Training the Statistics	12151
 Training. Statistics	6832
 Transformative Agenda for Official Statistics	19519
+Transformer Stations	20002
 Transforming Police Stations	14505
 Transmission Station MTSAO Medium-Term System Adequacy	11228
 Transmission Stations	15340
@@ -3562,7 +3564,7 @@ UNCTAD World Investment Statistics	12376
 UNDP and Statistics Mauritius Launch the MauStats Platform	14767
 UNECA's African Centre for Statistics	14090
 UNECE Conference of European Statisticians	15244
-UNESCO Institute for Statistics	7548,3421,514,396,5,1,10,70,194,46,146,4,132,825,2,677,931,2020,928,1367,625,3,42
+UNESCO Institute for Statistics	7548,3421,514,396,5,1,10,70,194,46,146,4,132,825,2,677,931,2020,928,1367,625,3,42,88
 UNESCO Institute of Statistics	11860,1450,2294,4053
 UNESCO Institute of Statistics. UNESCO	19657
 UNHCR Statistics for Refugees and Asylum Seekers Burkina	15743
@@ -3662,7 +3664,7 @@ W IPO Intellectual Property Statistics	12487
 WAPIS Work Stations	18486
 WB’s Statistical Capacity Score	13314
 WHAT’S NEW IN ICT STATISTICS Page	11424
-WIPO Intellectual Property Statistics	10969,915,11,264,1,44,1,146,4,7507,90
+WIPO Intellectual Property Statistics	10969,915,11,264,1,44,1,146,4,7507,90,43
 WIPO Statistics Database	11883
 WOMEN’S EMPOWERMENT METRIC FOR NATIONAL STATISTICAL	17127
 Water Pumping Stations	12436

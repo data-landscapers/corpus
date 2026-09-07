@@ -184,11 +184,13 @@ Jun-2016 Expected Effectiveness Date	17441
 Jun-2016 Satisfactory Satisfactory	17849
 Jun-2017	11469,2501
 Jun-2017 Satisfactory Satisfactory	15511,2338
-Jun-2018	11924,1798,248,1631,2248,976
-Jun-2018 Effectiveness	18792,33
+Jun-2018	11924,1798,248,1631,2248,976,1176
+Jun-2018 Effectiveness	18792,33,1176
 Jun-2018 Formally Revised Target	15601
 Jun-2018 Portal Financial Management	11924
 Jun-2018 Target	15601
+Jun-2018. Current Closing Date	19990
+Jun-2018. Operation Closing Date	19990
 Jun-2019	381,15282,975
 Jun-2019 Completed Completion Measurement	17505
 Jun-2019 Completed Completion Measurement A Program	17505
@@ -196,13 +198,13 @@ Jun-2019 Completed Completion Measurement For Official	17505
 Jun-2019 Moderately Satisfactory Moderately Satisfactory	15731
 Jun-2019. ICR	15702
 Jun-2019. Listed	381
-Jun-2020	11469,2364,83,1565,212,42,278,66,1783,42
+Jun-2020	11469,2364,83,1565,212,42,278,66,1783,42,2084
 Jun-2020 Effectiveness	16013,66
 Jun-2020 IBRD	14888
 Jun-2020 Mid-Term Review No	17904
 Jun-2020 Satisfactory Moderately Satisfactory	15601
 Jun-2020. Current Closing Date	15693
-Jun-2021	761,13065,14,4514,438,190
+Jun-2021	761,13065,14,4514,438,190,1037
 Jun-2021 Effectiveness	18354
 Jun-2021 Moderately Satisfactory Moderately Satisfactory	11924
 Jun-2021 Moderately Satisfactory Moderately Unsatisfactory	15601
@@ -212,7 +214,7 @@ Jun-2021. Closing Date	16398
 Jun-2021. Current Closing Date	14971
 Jun-2021. Estimated Board Date	761
 Jun-2021. Report	761
-Jun-2022	1284,10687,1360,1,2681,423,1034,488,397,179,283
+Jun-2022	1284,10687,1360,1,2681,423,1034,488,397,179,283,1184
 Jun-2022 Bank	15553
 Jun-2022 Comments	15601
 Jun-2022 Effectiveness	11971,6563,283
@@ -221,26 +223,29 @@ Jun-2022 Mid-Term Review No	17470,885
 Jun-2022 Moderately Satisfactory Moderately Satisfactory	15601
 Jun-2022 Not Yet Due Completion Measurement	17470
 Jun-2022 Restructuring Level	17904
-Jun-2023	6833,4037,599,496,2947,1486,38,455,103,6,1473,336,433
+Jun-2023	6833,4037,599,496,2947,1486,38,455,103,6,1473,336,433,746
 Jun-2023 Closing Date	10779
 Jun-2023 Effectiveness	10870,8372
 Jun-2023 IBRD	10779,6181
 Jun-2023 INTERNATIONAL DEVELOPMENT ASSOCIATION	14912
 Jun-2023 Moderately Satisfactory Moderately Satisfactory	15731
-Jun-2023 Operation Closing	17904
+Jun-2023 Operation Closing	17904,2084
 Jun-2023 Original Closing Date	16638
 Jun-2023 Portal	15731
 Jun-2023 Restructuring Sequence.02 Not Applicable	15731
 Jun-2023 Rev. Closing	18792
-Jun-2024	1744,508,460,1941,1926,254,4562,74,436,60,759,1018,1206,18,515,180,41,2,27,4,2,232,110,357,202,356,6,79,391,35,628,676,433,42
+Jun-2024	1744,508,460,1941,1926,254,4562,74,436,60,759,1018,1206,18,515,180,41,2,27,4,2,232,110,357,202,356,6,79,391,35,628,676,433,42,704,2,11
 Jun-2024 Cumulative Disbursements	16638
 Jun-2024 Digital Development Financing	1704
 Jun-2024 Effectiveness	2712,3867,9158,1342
+Jun-2024 IDA-D3210	20001
 Jun-2024 MoU	19242
 Jun-2024 Operation Closing	19249
 Jun-2024 Partially	15735
+Jun-2024 RATINGS SUMMARY Outcome	19988
 Jun-2024 RATINGS SUMMARY Outcome Bank Performance	15731
 Jun-2024 Reallocations IBRD-96860-001 Currency	15969
+Jun-2024 Restructuring Level	20001
 Jun-2024 Revised Closing Date	16638
 Jun-2024 Satisfactory	17962
 Jun-2024 Satisfactory Satisfactory	15731
@@ -270,12 +275,15 @@ Jun-2025 Yes Dec	16079,626
 Jun-2025 Yes Jun	16079
 Jun-2025 Yes for PHC Dec	16079
 Jun-2025 for UHIS	16079
-Jun-2026	5986,593,349,4541,4967,1468,153,1424
+Jun-2025. Practice Area	20002
+Jun-2026	5986,593,349,4541,4967,1468,153,1424,509,11,47
 Jun-2026 Abidjan-Lagos	18862
 Jun-2026 Actual Date	16436
 Jun-2026 African Development Fund	18862
 Jun-2026 Contract Signing	13548
+Jun-2026 IDA-62400	20001
 Jun-2026 IDA-75350 Effective	17904
+Jun-2026 IDA-D3260	20001
 Jun-2026 IDA-D5680 Effective	17904
 Jun-2026 Malawi	18862
 Jun-2026 Operation Closing	16994
@@ -288,7 +296,9 @@ Jun-2026 Yes Apr	6928
 Jun-2026 Yes Closing Period Month	6928
 Jun-2026. Environmental and Social Risk Classification	14971
 Jun-2026. Implementing Agencies	6833
+Jun-2026. Original EA Category	19990
 Jun-2026. Practice Area	18625
+Jun-2026. Projected Date for Full Disbursement	19990
 Jun-2026. Review Type	16398
 Jun-2027	11469,4544,1945,48,349,462
 Jun-2027 Expected Disbursements	2473,13559

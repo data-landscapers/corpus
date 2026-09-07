@@ -159,6 +159,7 @@ CBN Compliance Department	5369
 CBN Compliance Department. Deposit Money Banks	5369
 CEE Complementary Elementary Education CwD Children	13990
 CEG Lycée Complexe Total CEG Lycée	18171
+CEPE Primary School Completion Certification	19988
 CFT Compliance Financial Institutions	11861
 CFT Compliance Officer	12542
 CHANGES THE ANSWER COMPLETELY	1795,1413,3881
@@ -211,7 +212,7 @@ COMPLIANCE AND ENFORCEMENT	718
 COMPLIANCE AUDIT	15152
 COMPLIANCE CHECKLIST	12302
 COMPLIANCE CHECKLIST Questions Yes No Comments	14524
-COMPLIANCE ISSUES	11924,3500,87,90,62,68,705,516,897,13,100,803,60
+COMPLIANCE ISSUES	11924,3500,87,90,62,68,705,516,897,13,100,803,60,1163
 COMPLIANCE MGT DIVISION INTERNAL AUDIT DEPARTMEN	19712
 COMPLIANCE MONITORING	718
 COMPLIANCE MONITORING BY THE MINISTRY RESPONSIBLE	13484
@@ -286,6 +287,7 @@ Comments Completion Measurement The Government of Morocco	17505
 Comments Partially Comply Not Comply Partially	11209
 Commercial Banks Total Complaints Unresolved Resolved	17235
 Commission CRM Compliance Risk Management CRR	17105
+Communal Complaints Management Committees	19988
 Communications Authority of Kenya and KFCB Complete Joint	7957
 Competent Authority. Complaint	18925
 Complacency	19937
@@ -366,6 +368,7 @@ Complaints Register Requirements	17099
 Complaints Relating	12201
 Complaints Review Committee	18696
 Complaints Submitted Through NTRA	11642
+Complaints Transmission Relays	19988
 Complaints Unit Assistant Permanent Secretary	14746
 Complaints and Appeals	12201
 Complaints and Appeals Module	8616
@@ -554,7 +557,7 @@ Completeness of Death Registration	19544
 Completeness of MCCD	19544
 Completeness of Registration	12151,262,1231
 Completing	3604,7530,349,264,1678,1151,1085,150,2298,1136,289
-Completion	1830,80,78,901,972,667,368,1936,1013,640,768,313,259,1,1383,22,21,621,51,497,91,162,295,2,66,21,127,125,82,1278,44,1,206,1,489,13,177,3,111,94,132,108,95,470,234,5,73,74,11,90,15,23,57,13,51,262,210,756,266,69,762,75,187
+Completion	1830,80,78,901,972,667,368,1936,1013,640,768,313,259,1,1383,22,21,621,51,497,91,162,295,2,66,21,127,125,82,1278,44,1,206,1,489,13,177,3,111,94,132,108,95,470,234,5,73,74,11,90,15,23,57,13,51,262,210,756,266,69,762,75,187,141
 Completion Administrative	19585
 Completion Audit Report	17114
 Completion Comments	15424
@@ -615,7 +618,7 @@ Completion. and Healthcare	19585
 Completou	10777
 Completude de Registo	11537
 Completó Secundaria	16920
-Complex	571,40,350,200,1787,1029,1699,3407,1758,176,116,23,120,287,353,529,1561,1467,372,1223,71,18,2398
+Complex	571,40,350,200,1787,1029,1699,3407,1758,176,116,23,120,287,353,529,1561,1467,372,1223,71,18,2398,435
 Complex Business-To-Business Services	5349
 Complex Company Limited	19585
 Complex Company Limited MLHHSD Ministry of Land	19585
@@ -825,7 +828,7 @@ Complications	12151,889,3836,2350
 Complications of Old Age	12151
 Complice	15429
 Complicité	6959
-Complied	11965,7319
+Complied	11965,7319,706
 Complies	12359
 Complimentary	4743,4288,2835
 Comply	2724,1137,2562,9,3975,802,26,619,98,301,136,538,393,61,1105,394,154,47,1131,902,135,962,1365,169,56
@@ -1008,7 +1011,7 @@ Economic Complexity Index	10157,2219
 Economic Complexity OPEC Organization of Petroleum Exporting	16996
 Economic Complexity PTS Political Terror Scale	10835,3,130,902,16,466,1,135,7334
 Economy Approach ICR Implementation Completion and Results	17849
-Education Completion	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Education Completion	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Education Completion Score Rank	11886
 Education Completion Warning Signs Business	11870
 Education Education Enrolment Education Completion Human	10837,1315,188,7598
@@ -1081,7 +1084,7 @@ Evidence of Compliance CM-NSG	10721
 Evidence of Compliance GC-OV.S1	10721
 Evidence of Compliance Tier	10721
 Exchange Control Regulations and Compliance Trained Nedbank	11131
-Executive Compliance	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Executive Compliance	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Executive Head of Compliance	12272
 Expected Completion Date	16308
 Expected Registered Completeness County	12151
@@ -1097,7 +1100,7 @@ FDA Complaints National	16848
 FDA Compliance Audit Report	16843
 FDA Compliance Audit Report.Verification	16843
 FDA Compliance Audits	16843
-FIDUCIARY COMPLIANCE	15424,87,152,68,705,516,910,903
+FIDUCIARY COMPLIANCE	15424,87,152,68,705,516,910,903,1223
 FIDUCIARY COMPLIANCE Environmental	17962
 FIDUCIARY COMPLIANCE Environmental and Social	11924
 FIDUCIARY COMPLIANCE Environmental and Social Safeguards	15601
@@ -1205,6 +1208,7 @@ Hombolo Local Unqualified Compliant	19585
 Home Compliance	8464
 Honourable Minister Federal Secretariat Complex Phase	5903,12310
 Hosting Location Compliance	6432
+Human Capital Index ICR Implementation Completion	19988
 Human Resource Internal Audit Compliance Management	6946
 Human Rights and Democracy. Complementarity	18458
 Hôtel24 Complexe	15555
@@ -1222,6 +1226,7 @@ ICR00006333 IMPLEMENTATION COMPLETION AND RESULTS REPORT	15663
 ICR00023 IMPLEMENTATION COMPLETION AND RESULTS REPORT	15702
 ICR00028 IMPLEMENTATION COMPLETION AND RESULTS REPORT	15704
 ICR00098 IMPLEMENTATION COMPLETION AND RESULTS REPORT	15990
+ICR00154 IMPLEMENTATION COMPLETION AND RESULTS REPORT	19988
 ICR00178 IMPLEMENTATION COMPLETION AND RESULTS REPORT	13861
 ICR00338 IMPLEMENTATION COMPLETION AND RESULTS REPORT	15731
 ICR00460 IMPLEMENTATION COMPLETION AND RESULTS REPORT	12560
@@ -1262,7 +1267,7 @@ Implementation Completion	11866
 Implementation Completion Report	10779,1145,1926,1038,630,1442
 Implementation Completion and Result Report	18887
 Implementation Completion and Results	15511,2451
-Implementation Completion and Results Report	10964,2367,1554,487,52,87,90,62,39,29,228,31,446,178,1235,13,100,236,258,298,71
+Implementation Completion and Results Report	10964,2367,1554,487,52,87,90,62,39,29,228,31,446,178,1235,13,100,236,258,298,71,1163,28
 Improve Stakeholder Engagement Voluntary Compliance Index	13053
 Improve Tax Compliance	12948
 Improved Compliance	14761,2183
@@ -1630,6 +1635,7 @@ Prestações Complementares	15486,818
 Price and Completion Schedule	13185
 Pricing Requirements Completion	7266
 Primary Completion Rate	15661
+Primary School Completion Certification	19988
 Princípio da Complementaridade	4146
 Privacy Compliance Assessment	14726
 Privacy and Compliance	15034
@@ -1794,6 +1800,7 @@ Safeguards and Compliance	8546
 Same DC Unqualified Compliant	19585
 Satisfactory. Compliance	15983
 Scale Cloud-Native Compliance Platform	14700
+School Complaints Management Committees	19988
 School Questionnaire Completion	18460
 Schools Complementing Routine Civil Registration Systems	13681
 Scope of Compliance Status Assessment	17249
@@ -2029,7 +2036,7 @@ Woman Superintendent of Police STATEMENT OF COMPLIANCE	14760
 Wood- Complete	16853
 Working Group Cloud Compliance Working Group	16924
 World Bank Implementation Completion and Results	19519
-World Bank Implementation Completion and Results Report	978,14408
+World Bank Implementation Completion and Results Report	978,14408,4630
 World Bank's Implementation Completion and Results Report	15377
 X Chief Complaints Investigator	13097
 X Complaints Investigator	13097

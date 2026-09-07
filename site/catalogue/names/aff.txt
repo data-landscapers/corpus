@@ -601,7 +601,7 @@ Constitutional Affairs	12972
 Constitutional Affairs Date	18609
 Constitutional and Legal Affairs MWAUWASA Ministry of Water	19584
 Constitutional and Legal Affairs Minister Dr Juma	4553
-Constitutional and Religious Affairs	4545,2335,5937
+Constitutional and Religious Affairs	4545,2335,5937,7225
 Constitutional and Religious Affairs MoF Ministry of Finance	4214
 Consulaires Affaires Consulaires GOUVERNANCE ET CONTRÔLE	15936
 Consular Affairs Processing System	19927
@@ -802,6 +802,7 @@ Directeur Central Adjoint des Affaires Juridiques	16175
 Directeur Central du Ministère des Affaires	16381
 Directeur Central du Ministère des Affaires Sociales	16381
 Directeur Général des Affaires Juridiques	16381
+Directeur National des Affaires Civiles	20007
 Directeur de Cabinet du Ministère des Affaires Sociales	15415
 Directeur des Affaires Administra	18926
 Directeur des Affaires Financières	16381,2521
@@ -1011,7 +1012,7 @@ First Test of Affordability	16799
 Fiscal Affairs Department	1828,10672,1124,3611,22
 Fiscal Affairs Department International Monetary Fund	12500
 Food and Rural Affairs	12837
-Foreign Affairs	1257,125,269,163,1423,2,17,301,1918,1013,1060,1866,2546,120,65,211,156,460,121,938,722,88,493,29,503,964,2,273,1471,19,146,778
+Foreign Affairs	1257,125,269,163,1423,2,17,301,1918,1013,1060,1866,2546,120,65,211,156,460,121,938,722,88,493,29,503,964,2,273,1471,19,146,778,485
 Foreign Affairs Aboubakar NACANABO	16256
 Foreign Affairs Academy Hall	9680
 Foreign Affairs Annual	7548
@@ -1221,7 +1222,8 @@ ID for All Tanzania’s Home Affairs Minister	2947
 ID for All The Department of Home Affairs	2614
 II. Affordable	12333
 II. KEY FACTORS THAT AFFECTED IMPLEMENTATION	15424
-III. KEY FACTORS AFFECTED IMPLEMENTATION	11924,4512,1526,863
+II. OUTCOME....11 III. KEY FACTORS AFFECTED	19988
+III. KEY FACTORS AFFECTED IMPLEMENTATION	11924,4512,1526,863,1163
 III. KEY FACTORS THAT AFFECTED IMPLEMENTATION	15511,90,62,68,1221,910,903
 III.2.10 Direction Générale des Affaires Sociales	10876
 III.2.7 Affichage	17864
@@ -2253,6 +2255,7 @@ Vulnérables Affectés	17927
 WAICO The Minister of Foreign Affairs and International	12762
 WAY FORWARD The Ministry of Internal Affairs	1920
 WFP Country Director Ministry of Foreign Affairs	17025
+WMO and Belgium's Ministry of Foreign Affairs	20049
 WOMEN AFFAIRS	13420
 WRITTEN RESPONSES The Department of Home Affairs	11285
 Web Foundation's Alliance for Affordable Internet	149

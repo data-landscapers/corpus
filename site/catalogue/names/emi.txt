@@ -16,6 +16,7 @@ African Union's EMIS Norms and Standards	12052
 Agence Emirienne	18988
 Air Emissions	1988
 Air Emissions and Ambient Air Quality	17114
+Air Emissions and Pollution Management Plan	20002
 Air Seychelles and Emirates	19125
 All EMIS Educational Management Information System	13960
 Ancien Emir Hamad Ben Khalifa	18412
@@ -81,6 +82,7 @@ DA IDENTIFICAÇÃO CIVIL E EMISSÃO	10756
 DE LA STATISTIQUE ET DES EMISSIONS	16381
 DHIS2 EMIS	1017,942,10078,4874
 DHIS2-based EMIS	11970,1075,3866
+DLI5 EMIS	19988
 DO IVA NA EMISSÃO DE FACTURAS	18845
 DROIT DE COMMUNICATION EMISSIONS DES AVIS	19250
 Danny Eminence	15524
@@ -133,6 +135,7 @@ EMIS Database	11860
 EMIS Desk	11860
 EMIS Education	14922
 EMIS Education Management Information System	11860,3056,55,88
+EMIS Education Management Information System ENI	19988
 EMIS Education Management Information System GNI	11552
 EMIS Education Management Information System MEPST	15693
 EMIS Education Sector Plan for Egypt Education	15604
@@ -200,6 +203,7 @@ EMIS and IFMIS. Insight Box	18529
 EMIS and LAS	13349
 EMIS and NST	15688
 EMIS and UN	15604
+EMIS and US	20041
 EMIS and ZIMSTAT. The Access and Use	13310
 EMIS for Learners	11860
 EMIS-2019-Annual Education Census	12345
@@ -209,6 +213,7 @@ EMIS-2022-Annual Education Census	12345
 EMIS-2023-Annual Education Census	12345
 EMIS-adjacent	14936
 EMIS-enhancement	14096
+EMIS-integration	20041
 EMIS-linked	19907
 EMIS-score	14058
 EMIS-specific	13310
@@ -319,7 +324,7 @@ Eminye	11573
 Emir Abdelkader	15943
 Emir Abdelkader de Constantine	16344
 Emir Abdelkader. Dans	15877
-Emir Sfaxi	16626
+Emir Sfaxi	16626,3364
 Emir du Qatar	18412
 Emirados	1192,10197,1418,5995
 Emirates	9399,1365,421,884,82,2702,4272,418

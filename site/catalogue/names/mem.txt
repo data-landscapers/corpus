@@ -282,7 +282,7 @@ Civil Members	12413
 Clean Energy Cooperation Document Title Memorandum	17880
 Co-Operatives Act. The Amended Memorandum	14798
 Coastal REC Membership	10759,1395,186,7496,22,81
-Coastal. REC Membership	11887,7972,65
+Coastal. REC Membership	11887,7972,65,63
 Code of Conduct for Council Members	14736
 Code of Conduct for Council Members. The Mauritius	14736
 Combating Fraud and Corruption Honourable Members	14748
@@ -1222,7 +1222,7 @@ Membre du G5 Sahel Câbles	17860
 Membre du Panel des Sages	18310
 Membre. Article2	13588
 Membre. Elle	15724
-Membres	643,540,7708,1950,35,99,2350,1212,98,392,325,14,10,7,17,16,13,3,6,98,149,39,61,116,35,181,78,149,272,29,843,26,298,5,7,5,3,1,26,15,7,1,150,295,102,791,148
+Membres	643,540,7708,1950,35,99,2350,1212,98,392,325,14,10,7,17,16,13,3,6,98,149,39,61,116,35,181,78,149,272,29,843,26,298,5,7,5,3,1,26,15,7,1,150,295,102,791,148,618
 Membres Actifs	16214
 Membres Afrique du Sud Algérie Angola Bénin	15724
 Membres Art	18327
@@ -1255,7 +1255,7 @@ Memoires and Implementation Status Reports	16436
 Memon	8603
 Memoranda	7548,3022,966,5413
 Memoranda of Incorporation	3714
-Memoranda of Understanding	3476,265,233,75,479,824,324,574,284,981,33,215,801,28,1290,894,641,580,4,511,25,138,82,68,158,68,1425,124,635,797,229,418,425,1000,98,261,115,32,453,1,521,47,62
+Memoranda of Understanding	3476,265,233,75,479,824,324,574,284,981,33,215,801,28,1290,894,641,580,4,511,25,138,82,68,158,68,1425,124,635,797,229,418,425,1000,98,261,115,32,453,1,521,47,62,341
 Memoranda of Understanding ND-GAIN Notre Dame Global	18293
 Memoranda of Understanding. BOS	12706
 Memorando	10751,2049,10,36,4188
@@ -1669,6 +1669,7 @@ STATEMENT OF MEMBERS OF THE STANDARDS	14736
 STATEMENT OF RESPONSIBILITIES OF MEMBERS	14736
 STATES FRONTLINE HEALTHCARE COMMUNITY MEMBERS WORKERS	14434
 SUPERVISION A. TASK TEAM MEMBERS ANNEX	15511
+SUPERVISION A. TASK TEAM MEMBERS Juan	19988
 SUPERVISION A. TASK TEAM MEMBERS Name	15601,62,773
 SUPERVISION A. TASK TEAM MEMBERS Role	11924,3500,2538
 Saki Kumagai Team Member Jessey A	15663
@@ -1791,6 +1792,7 @@ TRANSFERS Members	12579
 Tambo Memorial	11986
 Taskforce Members	1243
 Taxpayers Expected Memorandum	12500
+Team Member	19988
 Team Member Disbursement No Valerie F	19284
 Team Member Gabriel Njimgye Tekumafor Team	11924
 Team Member ICR Quality Assurance ICR	16436
@@ -1801,6 +1803,9 @@ Team Member Projeto	15476
 Team Member Senior Governance No Specialist	19284
 Team Member Team Member Counsel Environmental	15601
 Team Member Vladimir Tsirkunov Team Member	17962
+Team Member. Aissatou Tidiane Diallo	19988
+Team Member. Felly Akiiki Kaboyo	19988
+Team Member. Mamadou Diallo	19988
 Team Members Information	775
 Team Team Member Environmental Specialist Counsel	15601
 Technical Committee. Membership	12453,892

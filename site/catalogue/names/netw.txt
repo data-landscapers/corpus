@@ -683,7 +683,7 @@ Glance Infrastructure Geographic Network Coverage	19728
 Glass Fiber Network	11529
 Global AI Capacity Development Network	11057
 Global Basic Observations Network	18578
-Global Basic Observing Network	11553,2059,3086,1611,364,114,82,793
+Global Basic Observing Network	11553,2059,3086,1611,364,114,82,793,387
 Global Basic Observing Network GDP	18309
 Global Development Network	2200,7601,1051
 Global Digital Health Certificate Network	1455
@@ -1089,7 +1089,7 @@ Mobile Telephone Network OIT Other Income	12395
 Mobile Telephone Networks	7198,1741
 Mobile Telephone Networks Holdings Limited Loan	10793
 Mobile Telephony Network	6946
-Mobile Virtual Network Operator	3695,8069,6060,747,1
+Mobile Virtual Network Operator	3695,8069,6060,747,1,1473
 Mobile Virtual Network Operators	7401,1440,2418,6611
 Mobile Virtual Network Operators NDS1	958
 Mobile Virtuol Network	15429
@@ -1602,7 +1602,7 @@ Portulans. THE NETWORK READINESS INDEX	15583
 Possession and Operation of Communication Networks	18602
 Post Office Fiber Optic Network Installation	15578
 Post Office Installation of Fiber Optic Network	15578
-Postal Network	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Postal Network	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Postal Network Public Perception of Infrastructure RURAL	10759
 Postal Network Public Perception of Infrastructure Rural	10837,1315,188,7598
 Postal Network Secure Employment Opportunities Access	10759
@@ -1927,7 +1927,7 @@ Transmission Network Project	257
 Transmission Networks	10721
 Transmission and Distribution Networks	15702
 Transmission and Distribution Service Network Contracts	12320
-Transport Network	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,6416,748,1,169,14,22,1,65,14,1
+Transport Network	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,6416,748,1,169,14,22,1,65,14,1,48
 Transport Network Access	10759,78,1315,188,7598
 Transport Network Upgrades Project	2884
 Transport Networks Executive Summary	2830
@@ -1974,6 +1974,7 @@ User-Terminal Network Fee Formula	6891
 VBAB Network	13974
 VBAB Network Project	13974,3267
 VBAB Network Project Following	13744
+VIRTUAL PRIVATE NETWORK WARCIP WEST AFRICA	19986
 VP and Head of Google Global Networking and Head	13839
 VPN Virtual Private Network VRF Variable	13185
 VPN Virtual Private Network ZAMRA Zambia	34

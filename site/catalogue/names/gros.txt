@@ -170,7 +170,7 @@ Gros Petits Volaille	737
 Grosh	15601
 Grosjean J	14666
 Grosman	7966
-Gross	236,1881,595,63,2472,2301,215,82,1890,247,2,233,28,162,358,10,54,27,113,35,127,3,2,62,73,253,360,1,10,10,50,9,195,1,45,146,4,9,12,7,13,17,18,56,435,946,876,3,68,81,101,208,206,102,91,30,802,440,26,25,69,15,127,97,15,7,404,119,129,81,833,28,751,55,205,3
+Gross	236,1881,595,63,2472,2301,215,82,1890,247,2,233,28,162,358,10,54,27,113,35,127,3,2,62,73,253,360,1,10,10,50,9,195,1,45,146,4,9,12,7,13,17,18,56,435,946,876,3,68,81,101,208,206,102,91,30,802,440,26,25,69,15,127,97,15,7,404,119,129,81,833,28,751,55,205,3,130
 Gross Amount Accumulated	11955
 Gross Amount Impairment	11955
 Gross Annual N	10407
@@ -448,6 +448,7 @@ Sector Gross Exposure	11469
 Security Office GDP Gross Domestic Product	17849
 Service Gross Compensation of Consumption of Fixed Taxes	236
 Service and AccessFund GDP Gross DomesticProduct ICT	16886
+Sexual Harassment GDP Gross Domestic Product	19988
 Snapshot and Current State Global Gross Written	14997
 Soundness Indicators Foreign Exchange FS Gross	17235
 Strategy Financial Sector Assessment Program Gross	12701
@@ -464,6 +465,7 @@ TELECOMMUNICATIONS SECTOR TO GROSS DOMESTIC PRODUCT	236
 TRÈS GROS	13300
 Telcos Year No. of Gross	236
 Telecommunication GDP Gross Domestic Product GFCF	236
+Temps Réel de Gros Montants	19994
 Terrorist Financing GDP Gross Domestic Product	15415
 Time Gross Settlement	12000,671
 Time Gross Settlement EIPA Corporation RWA	12444

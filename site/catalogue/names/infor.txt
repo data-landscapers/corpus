@@ -337,7 +337,7 @@ Bank of Ghana’s Cyber and Information Security Directive	6940
 Banked Informal	418
 Banker’s Information ABSA Business Banking PO	11250
 Based Violence GMIS Geological and Mineral Information	2889
-Basic Information	2291,10097,24,14,7244
+Basic Information	2291,10097,24,14,7244,346
 Basic Information and Communication Technology	12700
 Beijing United Information Technology Co	13666
 Beneficial Ownership Information	11277,1112
@@ -927,6 +927,7 @@ DHIS District Health Information System	2775
 DHIS District Health Information System DHS	13681
 DHIS District Health Information System USAID	766
 DHIS-2 District Health Information System	15479
+DHIS2 DISTRICT HEALTH INFORMATION SOFTWARE	19986
 DHIS2 District Health Information Software	14666,393,3609,876,123
 DHIS2 District Health Information System	10829,52,679
 DHIS2 District Heath Information Software	13341
@@ -1109,6 +1110,7 @@ Directeur des Services Informatiques	16115
 Directeur des Services Informatiques. Il	15264
 Directeur du Système Informatique	9277,6956,140
 Direction Informatique	18317
+Direction Nationale du Système Informatique	19989
 Direction du Système Informatique	16233
 Direction du Système Informatique du MEF	14462
 Direction du Système National des Informations Sanitaires	19645
@@ -1253,8 +1255,10 @@ EHRIS Electronic Easy Health Record Information	12379
 EL DESARROLLO DE LA INFORMACIÓN Fortalecimiento	16875
 ELECTRONIC INFORMATION SYSTEMS MANAGEMENT ADVISORY COUNCIL	12919
 ELECTRONIC JOURNAL OF INFORMATION SYSTEMS	5349
+ELECTRONIQUE ET INFORMATIQUE DE L'ETAT ANSSI	19986
 ELMIS Electronic Logistic Management Information Systems	19667
 EMIS Education Management Information System	11860,3056,55,88
+EMIS Education Management Information System ENI	19988
 EMIS Education Management Information System GNI	11552
 EMIS Education Management Information System MEPST	15693
 EMMI INFORMATION IMPORTANTE A DESTINATION	15901
@@ -1266,7 +1270,7 @@ ENTITE ORGANISME PUBLIC Service Informationnel Service	15936
 ENTRAVE AU FONCTIONNEMENT DES SYSTEMES INFORMATIQUES	16617
 EQUIPEMENTS INFORMATIQUES ET BUREAUTIQUES	18143,27
 ESCP African Higher School of Information and Communication	3604
-ESS10 Stakeholder Engagement and Information Disclosure	14976
+ESS10 Stakeholder Engagement and Information Disclosure	14976,5012
 ESTRATÉGIA PROPOSTA PARA DIVULGAÇÃO DE INFORMAÇÕES	11390
 ESWASA Information Centre and Standards Sales Office	13221
 ET DIFFU F UE DES INFORMATIONS	15999
@@ -1311,7 +1315,7 @@ Education Information System Decentralization	16909
 Education Information and Management System	15743
 Education Management Information	11860
 Education Management Information Directorate	15693
-Education Management Information System	210,1749,1460,153,1672,6308,46,262,45,13,119,15,123,21,149,63,86,522,27,2,98,167,4,18,86,211,231,41,89,4,102,480,320,20,6,65,460,157,57,27,55,7,210,49,347,80,475,110,128,36,1344,35,53,22,45,1,80,16,308,4,156,310,76,54,3,68,16,14
+Education Management Information System	210,1749,1460,153,1672,6308,46,262,45,13,119,15,123,21,149,63,86,522,27,2,98,167,4,18,86,211,231,41,89,4,102,480,320,20,6,65,460,157,57,27,55,7,210,49,347,80,475,110,128,36,1344,35,53,22,45,1,80,16,308,4,156,310,76,54,3,68,16,14,198
 Education Management Information System ERP Enterprise	12917
 Education Management Information System ESP Education	18765
 Education Management Information System EU	5244
@@ -1323,7 +1327,7 @@ Education Management Information System NGA National	12151
 Education Management Information Systems	11180,1314,481,70,98,61,1,105,266,1520,864,892,169,1439,76
 Education Management Information Systems Demonstrated	13575
 Education Management Information Systems ENT Ear	12975
-Education Management and Information System	10748,2601,43,2212
+Education Management and Information System	10748,2601,43,2212,4384
 Education Management and Information System FAWE-GAM Forum	16852
 Education Management and Information System Pilot Project	15192
 Education Management and Information Systems	18911
@@ -2086,6 +2090,7 @@ II. INFORMATIONS GENERALES SUR LE PROJET	13737
 II. INFORMATIONS GÉNÉRALES SUR LE PAYS	14437
 II. Informality	17326
 III. ACCESS TO INFORMATION AND KNOWLEDGE	14853
+III. PROPOSED CHANGES Operation Information	19990
 III. PROPOSED CHANGES Operation Information Proposed	2473,13496,63,155,2172
 III. PROPOSED CHANGES Operation Information Summary	4653
 III.2.3 Informatisation	13306
@@ -2164,7 +2169,7 @@ INFORMATION CONCERNANT L’EMPRUNTEUR Ministre	15901
 INFORMATION CONNECTION DRAINS MY TO AGENT	11964
 INFORMATION CONTACT	19663
 INFORMATION CONTACT Page	3456
-INFORMATION CONTACT The World	10963,4550,1141,1802
+INFORMATION CONTACT The World	10963,4550,1141,1802,1546
 INFORMATION CONTACT The World Bank	13111
 INFORMATION Constitutional and Legislative Framework	13739
 INFORMATION DATABASE	18452
@@ -2465,7 +2470,7 @@ Informatik	9237
 Informatika	14412
 Informatikai Kft. Consilia ApS AustriaContent Moss	8530
 Informatio	19633
-Information	1,2,9,5,4,1,4,1,1,6,15,161,26,72,120,8,98,13,18,17,5,150,6,5,14,4,3,2,4,8,116,41,18,11,3,28,9,51,17,108,2,27,17,5,25,23,1,1,47,124,97,44,5,35,11,129,23,6,7,2,2,19,40,29,143,44,3,58,170,18,76,33,63,116,5,25,35,14,18,6,42,26,54,37,21,18,20,7,3,162,1,37,23,1,10,110,28,4,3,1,14,1,19,20,24,56,37,71,21,110,1,67,9,70,1,25,80,18,4,26,75,36,44,44,32,9,18,24,28,17,42,1,17,22,65,36,120,108,38,32,58,1,54,81,96,131,3,102,25,6,60,162,15,60,23,33,81,16,3,214,1,77,150,133,15,48,41,81,7,32,106,54,1,78,63,8,4,2,21,18,13,20,61,70,6,26,95,29,39,34,42,17,12,63,34,114,6,6,13,37,35,46,40,41,54,15,38,29,36,72,47,37,58,11,53,12,39,49,24,47,61,34,1,1,1,1,64,170,20,2,1,98,17,89,7,8,41,88,1,9,16,27,23,37,9,9,64,10,93,88,3,53,7,8,71,116,35,2,178,24,8,114,2,54,13,168,79,69,10,46,44,7,4,2,4,3,8,36,10,5,13,16,3,2,5,2,8,2,5,4,4,18,3,1,9,1,16,3,1,1,1,5,1,1,1,1,4,10,4,15,4,4,21,5,1,2,18,10,1,11,11,22,45,34,1,9,12,27,1,2,3,12,2,20,10,5,17,9,10,2,70,8,68,22,78,12,24,27,9,29,12,64,159,2,9,9,7,4,1,10,1,9,13,6,4,4,8,1,3,12,9,2,9,10,61,7,74,4,6,13,8,1,25,3,13,1,3,27,8,6,7,49,18,5,2,10,1,13,5,3,1,1,15,13,11,3,10,6,26,22,20,13,12,20,10,6,1,13,86,3,23,1,18,15,12,39,109,38,1,10,1,1,3,6,2,11,1,6,8,3,3,9,1,1,4,10,18,25,7,5,9,2,18,31,21,1,4,4,53,65,17,9,4,10,5,6,5,4,2,2,5,2,1,1,4,4,1,1,8,5,6,7,16,1,3,6,10,19,2,2,24,19,18,5,22,28,21,35,38,10,11,6,3,15,7,25,12,1,1,3,7,8,11,1,22,9,1,2,7,6,3,5,2,1,1,5,23,19,6,3,4,4,47,23,12,10,38,29,36,6,69,42,115,31,17,35,2,39,2,6,3,7,1,2,5,10,3,10,16,1,1,8,26,4,9,2,7,3,16,8,21,37,27,55,29,2,3,3,2,4,24,39,6,3,3,5,4,10,4,7,1,3,2,3,9,1,11,2,3,1,22,2,44,16,3,72,24,5,35,6,3,20,12,45,41,17,48,30,15,6,10,3,2,11,5,5,12,12,1,1,6,3,12,1,4,7,14,1,2,4,1,5,2,1,5,3,16,1,4,1,5,5,13,1,11,2,1,10,8,5,4,12,4,5,4,10,3,6,4,1,3,2,1,1,4,15,1,2,2,10,1,4,2,5,1,15,9,1,1,8,4,3,11,5,4,12,10,9,11,12,27,17,5,51,2,5,13,9,6,7,7,17,6,61,36,5,17,1,6,4,2,7,18,14,28,3,20,8,24,1,2,11,8,1,45,75,4,1,7,2,5,84,13,9,3,29,3,70,3,12,1,1,2,1,6,1,1,6,5,2,11,59,3,11,6,101,1,2,4,1,3,1,4,3,1,6,2,1,2,4,5,6,7,15,15,6,1,2,2,16,1,6,2,1,3,3,2,8,2,2,45,1,50,29,2,6,9,13,12,1,9,8,8,78,6,40,41,21,43,38,5,4,1,6,10,2,40,105,47,21,98,9,37,2,4,1,2,1,1,1,1,1,1,1,3,5,1,2,1,10,1,4,1,8,1,3,1,5,3,3,14,3,5,9,10,20,4,15,1,12,4,1,20,6,23,8,7,3,1,26,13,10,4,1,1,3,3,4,2,1,2,2,4,8,2,4,2,1,13,1,6,1,5,1,7,2,12,2,2,8,4,2,12,5,4,4,1,3,10,1,2,1,12,21,5,1,1,4,1,6,3,2,2,8,2,6,10,2,15,4,12,30,2,1,16,3,10,3,3,3,1,3,9,3,3,2,7,1,8,7,5,10,10,11,15,6,10,4,14,3,5,6,13,27,51,16,31,48,6,1,61,49,10,5,2,3,3,1,7,7,1,5,52,2,40,7,6,4,9,4,10,9,10,29,51,3,6,1,2,37,3,3,7,58,27,7,37,5,3,3,6,3,36,6,93,2,3,4,7,1,7,7,1,15,19,52,1,5,5,1,1,4,1,41,28,30,14,35,7,1,12,20,1,27,3,24,41,7,14,1,14,6
+Information	1,2,9,5,4,1,4,1,1,6,15,161,26,72,120,8,98,13,18,17,5,150,6,5,14,4,3,2,4,8,116,41,18,11,3,28,9,51,17,108,2,27,17,5,25,23,1,1,47,124,97,44,5,35,11,129,23,6,7,2,2,19,40,29,143,44,3,58,170,18,76,33,63,116,5,25,35,14,18,6,42,26,54,37,21,18,20,7,3,162,1,37,23,1,10,110,28,4,3,1,14,1,19,20,24,56,37,71,21,110,1,67,9,70,1,25,80,18,4,26,75,36,44,44,32,9,18,24,28,17,42,1,17,22,65,36,120,108,38,32,58,1,54,81,96,131,3,102,25,6,60,162,15,60,23,33,81,16,3,214,1,77,150,133,15,48,41,81,7,32,106,54,1,78,63,8,4,2,21,18,13,20,61,70,6,26,95,29,39,34,42,17,12,63,34,114,6,6,13,37,35,46,40,41,54,15,38,29,36,72,47,37,58,11,53,12,39,49,24,47,61,34,1,1,1,1,64,170,20,2,1,98,17,89,7,8,41,88,1,9,16,27,23,37,9,9,64,10,93,88,3,53,7,8,71,116,35,2,178,24,8,114,2,54,13,168,79,69,10,46,44,7,4,2,4,3,8,36,10,5,13,16,3,2,5,2,8,2,5,4,4,18,3,1,9,1,16,3,1,1,1,5,1,1,1,1,4,10,4,15,4,4,21,5,1,2,18,10,1,11,11,22,45,34,1,9,12,27,1,2,3,12,2,20,10,5,17,9,10,2,70,8,68,22,78,12,24,27,9,29,12,64,159,2,9,9,7,4,1,10,1,9,13,6,4,4,8,1,3,12,9,2,9,10,61,7,74,4,6,13,8,1,25,3,13,1,3,27,8,6,7,49,18,5,2,10,1,13,5,3,1,1,15,13,11,3,10,6,26,22,20,13,12,20,10,6,1,13,86,3,23,1,18,15,12,39,109,38,1,10,1,1,3,6,2,11,1,6,8,3,3,9,1,1,4,10,18,25,7,5,9,2,18,31,21,1,4,4,53,65,17,9,4,10,5,6,5,4,2,2,5,2,1,1,4,4,1,1,8,5,6,7,16,1,3,6,10,19,2,2,24,19,18,5,22,28,21,35,38,10,11,6,3,15,7,25,12,1,1,3,7,8,11,1,22,9,1,2,7,6,3,5,2,1,1,5,23,19,6,3,4,4,47,23,12,10,38,29,36,6,69,42,115,31,17,35,2,39,2,6,3,7,1,2,5,10,3,10,16,1,1,8,26,4,9,2,7,3,16,8,21,37,27,55,29,2,3,3,2,4,24,39,6,3,3,5,4,10,4,7,1,3,2,3,9,1,11,2,3,1,22,2,44,16,3,72,24,5,35,6,3,20,12,45,41,17,48,30,15,6,10,3,2,11,5,5,12,12,1,1,6,3,12,1,4,7,14,1,2,4,1,5,2,1,5,3,16,1,4,1,5,5,13,1,11,2,1,10,8,5,4,12,4,5,4,10,3,6,4,1,3,2,1,1,4,15,1,2,2,10,1,4,2,5,1,15,9,1,1,8,4,3,11,5,4,12,10,9,11,12,27,17,5,51,2,5,13,9,6,7,7,17,6,61,36,5,17,1,6,4,2,7,18,14,28,3,20,8,24,1,2,11,8,1,45,75,4,1,7,2,5,84,13,9,3,29,3,70,3,12,1,1,2,1,6,1,1,6,5,2,11,59,3,11,6,101,1,2,4,1,3,1,4,3,1,6,2,1,2,4,5,6,7,15,15,6,1,2,2,16,1,6,2,1,3,3,2,8,2,2,45,1,50,29,2,6,9,13,12,1,9,8,8,78,6,40,41,21,43,38,5,4,1,6,10,2,40,105,47,21,98,9,37,2,4,1,2,1,1,1,1,1,1,1,3,5,1,2,1,10,1,4,1,8,1,3,1,5,3,3,14,3,5,9,10,20,4,15,1,12,4,1,20,6,23,8,7,3,1,26,13,10,4,1,1,3,3,4,2,1,2,2,4,8,2,4,2,1,13,1,6,1,5,1,7,2,12,2,2,8,4,2,12,5,4,4,1,3,10,1,2,1,12,21,5,1,1,4,1,6,3,2,2,8,2,6,10,2,15,4,12,30,2,1,16,3,10,3,3,3,1,3,9,3,3,2,7,1,8,7,5,10,10,11,15,6,10,4,14,3,5,6,13,27,51,16,31,48,6,1,61,49,10,5,2,3,3,1,7,7,1,5,52,2,40,7,6,4,9,4,10,9,10,29,51,3,6,1,2,37,3,3,7,58,27,7,37,5,3,3,6,3,36,6,93,2,3,4,7,1,7,7,1,15,19,52,1,5,5,1,1,4,1,41,28,30,14,35,7,1,12,20,1,27,3,24,41,7,14,1,14,6,14,9,2,35
 Information AMCD Accès	15493
 Information ANDE	16641
 Information APDP Autorité de Protection des Données	15583
@@ -2835,7 +2840,7 @@ Information Regulator. Parliament's Portfolio Committee	9234
 Information Regulator’s First Enforcement Notice	6632
 Information Relating	16840
 Information Repository	14434
-Information Request	11868,4972,2796,218
+Information Request	11868,4972,2796,218,130
 Information Request BDI105008	19636
 Information Request COD200966	11868
 Information Request. Note	19921
@@ -2857,7 +2862,7 @@ Information SIDA	15475
 Information SNIS Sociale INFTS Faculté de Pharmacie	17845
 Information SOUS-DIRECTION DES ETUDES ET	17899
 Information Safety and Cyber-Security Given	16872
-Information Sanitaire	4090,6829,21,2360,260,882,180,789,12,160,12,116,484,197,330,1120,2,1,37,223,186,6,631,298,58,361
+Information Sanitaire	4090,6829,21,2360,260,882,180,789,12,160,12,116,484,197,330,1120,2,1,37,223,186,6,631,298,58,361,341
 Information Sanitaire EBC	13377
 Information Sanitaire ERP Enterprise Resource Planning	13306
 Information Sanitaire LNS Gériatrie Institut National	17845
@@ -2878,6 +2883,7 @@ Information Sanitaire du Cameroun	16195
 Information Sanitaire du Sénégal	18297
 Information Sanitaire. L'Harmattan. Dutta	19645
 Information Sanitaire. L’objectif	18297
+Information Sanitaires	19986
 Information Science	8022,4303,142,611,18,4688
 Information Science Literature	14790
 Information Science and Technology	9129,4823
@@ -4771,6 +4777,7 @@ PERSONAL INFORMATION Full Names	15721
 PERSONAL INFORMATION Scope	11179
 PERSONALLY IDENTIFIABLE INFORMATION	14434
 PHEM Information System	4349
+PIDDC01329 BASIC INFORMATION A. Basic Project	20002
 PIDDC01334 BASIC INFORMATION A. Basic Project	16675
 PIDDC01347 BASIC INFORMATION A. Basic Project	14015
 PIDIA00549 BASIC INFORMATION A. Basic Project	1704
@@ -4980,7 +4987,7 @@ Procurement LIS Municipal Land Information System	18293
 Procurement System and Human Resource Management Information	15518
 Product ICT Information and Communication Technology IFR	15491
 Product Information	11965,3001,816,2843
-Product Information Operation ID	14948
+Product Information Operation ID	14948,5040,2
 Production Support Unit GIS Geographic Information	11261
 Production Unit AV Informal Production Unit	10980
 Products and Services Launched ANNUAL INFORMATION	12395
@@ -4995,7 +5002,7 @@ Programme Manager CIB Ministry of Information Techonology	14770
 Progress Report. Ministry of Health. Ministry of Information	12240
 Project Charter Ministry Of Information	19584
 Project Financing IT Information Technology JICA	10768
-Project Information Document	772,199,25,197,26,485,549,38,9962,159,14,243,442,412,264,6,44,178,561,378,2,10,131,416,1,36,1104,21,362,77,1342,477,474,256
+Project Information Document	772,199,25,197,26,485,549,38,9962,159,14,243,442,412,264,6,44,178,561,378,2,10,131,416,1,36,1104,21,362,77,1342,477,474,256,339
 Project Information Document PIU Project Implementation	17114
 Project Information Document URL	16293
 Project Information Documents	5620
@@ -5915,6 +5922,7 @@ Theorizing About the Design of Information Infrastructures	5700
 Things IP Intellectual Property IT Information	12512
 Through the Africa Information Highway	17539
 Through the Ministry of Information	8091
+Time Frames for Issuance Information	19984
 Time for New Information	12389
 Timely and Understandable Climate Information Lusaka City	10347
 Topographic Information Systems JBA Joint Business	11261

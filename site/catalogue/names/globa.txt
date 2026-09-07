@@ -37,7 +37,7 @@ About the GEF The Global Environment Facility	13752
 About the Global Findex Database	10977
 About the Global Findex Database Financial	10977
 About the Global Fund The Global Fund	3385,9117
-About the Global Innovation Index The Global	12160,44,1,150,7510,87
+About the Global Innovation Index The Global	12160,44,1,150,7510,87,43
 Abstract Global	16266
 Abstract The Global Findex	13084,675,2084,1,821,380,880
 Abu Dhabi Global Market	14819
@@ -140,7 +140,7 @@ BENCHMARKING TANZANIA AGAINST THE GLOBAL BEST	19534
 BFA GLOBAL KENYA LIMITED Data Controller	7167
 BFA GLOBAL KENYA LIMITED Data Processor	7167
 BFA Global	9148
-BMJ Global Health	4781,4347,1737,1548
+BMJ Global Health	4781,4347,1737,1548,7591
 BNR Competitive Global	14997
 BNXR3060-1 Related Project Designing the Global DPI	11006
 BNXR3060-2 Related Project Designing the Global DPI	11007
@@ -339,6 +339,7 @@ DataCite's Global Access Fund	13098
 Day L3 Global	13624
 Debomy Michel Matera Global Director Practice	17962
 Decilitro Sistema de Posicionamento Global Hepatite B	10777
+Definition The Global Cybersecurity Index	20009
 Democratic Republic of Congo Global Affairs Canada	61
 Demonstrated Global Capacity Certificate	10975
 Deputy Director of Space Affairs for Global Partnerships	6897
@@ -473,6 +474,7 @@ Environnement Mondial Global Environment Facility Gambia	16973
 Equatorial Guinea Global Cybersecurity Index	10764
 Era for Global Higher Education	14774
 Era of Globalization	12227
+Eritrea Foundational Learning Programme The Global	20022
 Essentielles de Santé Publique Global Alliance for Vaccine	14622
 Estimating the Global ID Coverage Gap	10714
 Estonia Global Cybersecurity Index	10764
@@ -694,7 +696,7 @@ Globacom and Airtel Africa	7560
 Globacom and T2	11506
 Globacom and T2mobile	9363
 Globacom’s Borrow Me Credit	10807
-Global	226,137,109,288,139,62,37,163,58,42,202,351,282,6,21,216,9,19,408,173,128,27,59,330,219,71,9,68,3,31,260,64,83,148,21,5,54,27,121,58,29,85,35,89,270,4,1,74,43,263,1,47,77,158,57,341,110,7,7,31,35,41,54,42,44,182,77,8,1,1,155,70,6,65,114,1,189,114,224,89,114,24,13,17,30,11,18,19,130,175,258,73,158,11,590,55,68,38,38,103,41,107,648,50,4,16,1,16,18,10,11,6,6,4,5,99,5,4,8,8,43,101,2,4,1,18,1,1,6,31,72,114,38,52,94,6,3,6,276,3,6,21,1,9,1,28,18,5,9,22,17,3,154,8,1,11,21,12,1,5,4,26,1,5,10,9,32,32,22,4,1,20,20,48,43,25,151,1,105,195,8,88,63,189,2,218,74,75,4,183,88,35,160,116,98,91,145,66,81,25,46,20,57,89,12,26,115,83,100,150,47,24,11,106,4,6,44,12,176,243,122,59,111,27,389,9,11,70,29,25,15,7,26,55,6,34,1,17,36,42,81,1,47,57,327,25,194,2,47,155,138,109,67,44,36,212,110,211,197,151,73,13,2,21,61,17,17,82,69,54,7,3,25,47,15,14
+Global	226,137,109,288,139,62,37,163,58,42,202,351,282,6,21,216,9,19,408,173,128,27,59,330,219,71,9,68,3,31,260,64,83,148,21,5,54,27,121,58,29,85,35,89,270,4,1,74,43,263,1,47,77,158,57,341,110,7,7,31,35,41,54,42,44,182,77,8,1,1,155,70,6,65,114,1,189,114,224,89,114,24,13,17,30,11,18,19,130,175,258,73,158,11,590,55,68,38,38,103,41,107,648,50,4,16,1,16,18,10,11,6,6,4,5,99,5,4,8,8,43,101,2,4,1,18,1,1,6,31,72,114,38,52,94,6,3,6,276,3,6,21,1,9,1,28,18,5,9,22,17,3,154,8,1,11,21,12,1,5,4,26,1,5,10,9,32,32,22,4,1,20,20,48,43,25,151,1,105,195,8,88,63,189,2,218,74,75,4,183,88,35,160,116,98,91,145,66,81,25,46,20,57,89,12,26,115,83,100,150,47,24,11,106,4,6,44,12,176,243,122,59,111,27,389,9,11,70,29,25,15,7,26,55,6,34,1,17,36,42,81,1,47,57,327,25,194,2,47,155,138,109,67,44,36,212,110,211,197,151,73,13,2,21,61,17,17,82,69,54,7,3,25,47,15,14,29
 Global ACE	15043
 Global ACE Somalia Country Chapter	15043
 Global AI	1204,610,4033,2359,1436,97,1215,103,7,76,3461,1112
@@ -804,7 +806,7 @@ Global Aviation Safety Plan	12942
 Global Banking Annual Review	14997
 Global Banking and Markets Africa	11134
 Global Basic Observations Network	18578
-Global Basic Observing Network	11553,2059,3086,1611,364,114,82,793
+Global Basic Observing Network	11553,2059,3086,1611,364,114,82,793,387
 Global Basic Observing Network GDP	18309
 Global Battle	5242
 Global Beijing Declaration	11193
@@ -891,7 +893,7 @@ Global Competitiveness Index	13314,2177,222,2157,14
 Global Competitiveness Index GDP Gross Domestic	15491
 Global Competitiveness Index13	18931
 Global Competitiveness Rank WEF	11379
-Global Competitiveness Report	4840,8474,1683,450,33,13,111,2263,1064
+Global Competitiveness Report	4840,8474,1683,450,33,13,111,2263,1064,1057
 Global Competitiveness Report. Indicateurs	15474
 Global Competitiveness and Cooperation	12675
 Global Competitiveness and Market Positioning	14819
@@ -935,7 +937,7 @@ Global Cybersecurity Centre	6557,6624
 Global Cybersecurity Centre Partnership	6557
 Global Cybersecurity Cooperation Frameworks	1777
 Global Cybersecurity Cooperation Frameworks. Actions	1777
-Global Cybersecurity Index	318,1035,21,64,440,5,386,495,840,239,105,267,711,381,31,69,147,116,158,340,597,171,10,3229,419,170,84,531,541,270,388,404,1273,289,200,8,766,14,2089,58,64,1502,397,235
+Global Cybersecurity Index	318,1035,21,64,440,5,386,495,840,239,105,267,711,381,31,69,147,116,158,340,597,171,10,3229,419,170,84,531,541,270,388,404,1273,289,200,8,766,14,2089,58,64,1502,397,235,132
 Global Cybersecurity Index Report. Geneva	6936
 Global Cybersecurity Index. Experts	2703
 Global Cybersecurity Index. Link	16942
@@ -1079,7 +1081,7 @@ Global Enquête ANEMCAM	10965
 Global Entre-	14897
 Global Entrepreneurship Index	12540,2907,103,1326,994,1061
 Global Entrepreneurship Index GHG Greenhouse	18931
-Global Entrepreneurship Monitor	10969,915,11,264,46,146,4,21,111,2410,583,4382,3
+Global Entrepreneurship Monitor	10969,915,11,264,46,146,4,21,111,2410,583,4382,3,130
 Global Entrepreneurship Monitor JICA Japanese International	14897
 Global Entrepreneurship Monitor. Available	12376
 Global Entrepreneurship Monitor. Supporting Africa	12376
@@ -1345,22 +1347,22 @@ Global Initiative for Fiscal Transparency	14626
 Global Initiative for Inclusive ICTs Country	11935
 Global Innovation	11863
 Global Innovation Fund	19757
-Global Innovation Index	2099,5449,3298,123,914,1,1,10,264,1,44,1,146,4,21,20,91,151,676,1252,431,483,2390,14,1978,3,44,43
+Global Innovation Index	2099,5449,3298,123,914,1,1,10,264,1,44,1,146,4,21,20,91,151,676,1252,431,483,2390,14,1978,3,44,43,43
 Global Innovation Index Benchmarks	15713
 Global Innovation Index Database	10846,9019
 Global Innovation Index GPU Graphics Processing	7548
 Global Innovation Index Statistics	11885
 Global Innovation Index. Ethiopia	12205
 Global Innovation Index. Global Innovation Index	12487
-Global Innovation Index. Global Innovation Tracker	19862
-Global Innovation Index. Long-term	11895,265,195,132,7375,3,87
+Global Innovation Index. Global Innovation Tracker	19862,133
+Global Innovation Index. Long-term	11895,265,195,132,7375,3,87,43
 Global Innovation Index. Mozambique	12159
 Global Innovation Index. Nigeria	11884
 Global Innovation Index. Rwanda	12351
 Global Innovation Index. Year	11895
 Global Innovation Ranking	12376
 Global Innovation Ranking of Zambia	12376
-Global Innovation Tracker	10846,1049,265,195,41,91,7375,3,87
+Global Innovation Tracker	10846,1049,265,195,41,91,7375,3,87,43
 Global Innovation Tracker Dashboard	10846
 Global Innovation Tracker For Malawi	12204
 Global Innovation Tracker The Global Innovation	11895,264,1,45,150,132,7378,87
@@ -1523,7 +1525,7 @@ Global Partners Digital’s Africa OEWG Positions	2117
 Global Partnership	899,62,243,610,1002,1310,2837,34,245,1209,2703,1521,2161,706,1310
 Global Partnership Fund for Education	14031
 Global Partnership for Development	18887
-Global Partnership for Education	899,3930,2944,4087,40,5,11,259,329,222,344,134,1,105,39,641,9,1,57,839,20,20,22,214,20,288,13,111,57,12,70,217,476,24,451,110,212,1227,105,52,31,117,146,31,307,353,55,178,72,26
+Global Partnership for Education	899,3930,2944,4087,40,5,11,259,329,222,344,134,1,105,39,484,157,9,1,57,839,20,20,22,214,20,288,13,111,57,12,70,217,476,24,451,110,212,1227,105,52,31,117,146,31,307,353,55,178,72,26,89
 Global Partnership for Education Better	17185
 Global Partnership for Education Fund	14936,1,724,1014
 Global Partnership for Education Fund IDA Resources	11905
@@ -1540,7 +1542,7 @@ Global Partnership for Ethiopia BV	1135
 Global Partnership for Financial Inclusion	12297
 Global Partnership for Human-Centric ICT Standardization	10336
 Global Partnership for Sustainable Development	11195
-Global Partnership for Sustainable Development Data	540,621,5568,1612,3986,7228,128
+Global Partnership for Sustainable Development Data	540,621,5568,1612,3986,7228,128,321
 Global Partnership of Education	13860
 Global Partnerships	389
 Global Partnerships and Engagements	15120
@@ -1880,7 +1882,7 @@ Globalité	17830
 Globalization	4970,2308,4576,1770,1308,65,1861
 Globalization and Health	6948
 Globalizations	4676
-Globally	940,18,3,243,39,650,47,4,22,405,306,25,246,457,1034,393,16,459,14,6,113,430,166,567,105,6,232,2,23,577,241,190,452,1,28,861,385,124,308,576,4,45,1,65,22,5,129,86,67,127,280,27,39,233,59,19,43,21,11,154,59,17,45,95,139,376,160,19,195,205,477,441,294,74,132,68,50,42,263,6,163,2,506,795,20,102,26,38,189,47,39,223,288,124,423,239,32,991,419
+Globally	940,18,3,243,39,650,47,4,22,405,306,25,246,457,1034,393,16,459,14,6,113,430,166,567,105,6,232,2,23,577,241,190,452,1,28,861,385,124,308,576,4,45,1,65,22,5,129,86,67,127,280,27,39,233,59,19,43,21,11,154,59,17,45,95,139,376,160,19,195,205,477,441,294,74,132,68,50,42,263,6,163,2,506,795,20,102,26,38,189,47,39,223,288,124,423,239,32,991,419,30
 Globally Competitive	5134
 Globally Competitive Knowledge	770
 Globalmente	10760,4924
@@ -1927,6 +1929,7 @@ Guinea-Bissau Global Cybersecurity Index	10764
 Gutti Global Solution Ltd	3862
 Gutti Global Solutions Ltd	3862
 Guyana Global Cybersecurity Index	10764
+HUMAIN GAVI GLOBAL ALLIANCE FOR VACCINATION	19986
 HYPOTHESES OBJECTIF GLOBAL OG.1. Promouvoir	15722
 Handbook of Global Media and Communication	11028
 Harvard Business Review. McKinsey Global Institute	10819
@@ -2004,6 +2007,7 @@ ITU Global Cibersecurity Index	11569
 ITU Global Cyber	14674
 ITU Global Cyber Security Agenda	962
 ITU Global Cyber Security Index	14674
+ITU Global Cybersecurity Agenda	20009
 ITU Global Cybersecurity Index	1374,615,241,179,1397,326,72,9,817,750,1510,3495,1447,346,2542,398
 ITU Global Cybersecurity Index. Internet	5119
 ITU Global Directory	10764
@@ -2327,6 +2331,7 @@ Organizational Culture Global and Regional AI Dialogues	15713
 Oriental Consultants Global Co	3054
 Others Global DC	10861
 Ousmane Diagana Global Director	2889
+Overview The Global Cybersecurity Index of Guinea	20009
 Overview of Global Subscriptions ICT Employment Developments	12395
 Ownership Implementation Operation RDGP Global Ownership	12359
 Oxford Insight’s Global AI Index	1814
@@ -2651,7 +2656,7 @@ Translating Global Principles	11819,229
 Transport and ICT Global Practice	15411
 Transport and ICT Global Practice Africa Regional	18754
 Treasury Management and Global Markets	11131,3
-Trina S. Haque Global Director	16032
+Trina S. Haque Global Director	16032,3956
 Trump Administration's America First Global Health	18202
 Tunisia Global Forum	7649,1432
 Turkish Universities Expand Their Global Footprint	15249

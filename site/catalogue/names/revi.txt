@@ -127,7 +127,7 @@ B Review of Advertising Code	16884
 B. ACHIEVEMENTS Legislative Review	12597
 B. DETAILED REVIEW OF COMPONENTS Component	15019
 B. Key Dates Revised	18754
-B. SIGNIFICANT CHANGES DURING IMPLEMENTATION Revised	15511
+B. SIGNIFICANT CHANGES DURING IMPLEMENTATION Revised	15511,4477
 B. Substantive Review	5773
 BETWEEN ORIGINAL AND REVISED BUDGET Original	14736
 BIS Review	2276
@@ -236,7 +236,7 @@ Comprehensive Review. Open Journal of Social	13418
 Computer Law Review International	17780
 Computer Science Review	8603,2
 Concept Environment and Social Review Summary	1988
-Concept Review	12980,3634,2140
+Concept Review	12980,3634,2140,1234
 Concept Review Decision	12426,243
 Concept Review Decision Review Authorize Negotiations	16436
 Conceptual Review of Sociotechnical Imaginaries	11028
@@ -511,6 +511,7 @@ GAC Strategic Performance Review Report	17364
 GDAP Mid-Term Review Mission Concludes	15988
 GDP. Reviews	4846
 GENERAL PUBLIC REVIEW	14473
+GN and Grant Number D326-GN Revised Withdrawal	19990
 GNU. The Draft Revised White Paper	5533
 GOVERNMENT-UNFPA PROGRAMME PROGRESS REVIEW	12962
 GPE Quality Assurance Review for Zimbabwe Phase	13310
@@ -547,6 +548,7 @@ Guidelines Review	13381
 Guidelines Revised	15208
 Guidelines for Review and Approval of Soft-	8301
 Guidelines for Revision Effective	9855
+Guinea Public Expenditure Review	20004
 Guinea-Bissau Peer Review Report	11553
 H Review	16884
 HCR Human Capital Review	15059
@@ -729,7 +731,7 @@ Kenya Universal Periodic Review	6188
 Kenya and UK Review Cybersecurity Partnership	10587
 Kenya's Public Procurement Administrative Review Board	2512
 Key Infrastructure PLR Performance and Learning Review	13861
-Key Revisions	15601,62,68,2118,13,963
+Key Revisions	15601,62,68,2118,13,963,1163
 Key Revisions KEY RATINGS Bank Performance	15424
 Kramskaya Peer Reviewer Senior Energy Specialist	15983
 Kuolin Hsu. A Review of Global Precipitation	16135
@@ -823,6 +825,7 @@ Marketplace Review and Sourcing	11995
 Maternal and Neonatal Death Surveillance and Review	16971
 May-2017 Decision Review	18825
 May-2019 Planned Mid Term Review Date	18473
+May-2022 Mid-Term Review No	20001
 May-2024 Mid-Term Review No	12228,39
 May-2025. Review Type	11965
 Mecanismo de Revisão	11448
@@ -836,9 +839,9 @@ Methodology for Data Collection Review	15553,105,3626
 Methodology for Data Collection Review of PHC	19284
 Methodology for Data Review	19284
 Methodology for Data Review of PHC	19284
-Mid Term Review	4653,9304,4336,241
+Mid Term Review	4653,9304,4336,241,1456
 Mid Year Budget Implementation Review	5655
-Mid-Term Review	12175,45,840,318,14,483,1643,441,477,486,581,991,60,211
+Mid-Term Review	12175,45,840,318,14,483,1643,441,477,486,581,991,60,211,1225
 Mid-Term Review Aide-Mémoire	16436
 Mid-Term Review Component	16922
 Mid-Term Review Date	12980
@@ -931,6 +934,7 @@ Ninth and Tenth Reviews Under the Extended Credit	17209
 No. Contract Estimated Procurement Review Market	17180
 None Revising the Approval Under	14997
 Northwestern University Law Review	17780
+Nov-2018 Mid-Term Review No	20001
 Nov-2023 Mid-Term Review No	10870
 Nov-2024 Mid-Term Review No	17079
 Nov-2025 Mid-Term Review No	18355
@@ -950,11 +954,12 @@ OPRC Operational Procurement Review Committee PA	17458
 ORIGINAL AND REVISED BUDGET	14736
 Observing Systems Capability Analysis and Review Tool	18578
 Oct-2017. Revised Closing Date	13970
+Oct-2018 Decision Review	19988
 Oct-2020 Mid-Term Review No	16013,2120
 Oct-2021 Mid-Term Review No	17000,958,1291
 Oct-2022 Mid-Term Review No	18534
 Oct-2023 Mid-Term Review No	16994
-Oct-2024 Mid-Term Review No	2712,9212
+Oct-2024 Mid-Term Review No	2712,9212,8064
 Oct-2025. Revised Closing	11965
 Odair Costa EDIÇÃO E REVISÃO Direcção	18798
 Office of Science and Technology Policy. X. Review	5773
@@ -1326,6 +1331,7 @@ Review Minor	10779
 Review Moderately Satisfactory OBJECTIVE	10779
 Review Officer	19935
 Review PAs	10779
+Review PDO Project Development Objective PIU	19990
 Review PDO3	10779
 Review PPPC	12253
 Review Panel	7845,5192,1772,4079
@@ -1559,7 +1565,7 @@ Revis	4583,14313,349
 Revisada	11532,5343
 Revisan	9543
 Revisar	1701,9680
-Revise	1243,3285,2421,2,3878,1381,238,64,51,60,52,266,927,123,683,103,35,135,533,552,821,143,200,64,839,850,728
+Revise	1243,3285,2421,2,3878,1381,238,64,51,60,52,266,927,123,683,103,35,135,533,552,821,143,200,64,839,850,728,313
 Revise Additional	16187
 Revise Beneficiaries	4653,11534
 Revise Cash	16032
@@ -1603,7 +1609,7 @@ ReviseSchool-aged	19284
 ReviseTracer	19284
 ReviseVisits	19284
 ReviseWomen	19284
-Revised	1433,1276,66,114,74,2,204,1,1,1725,262,1788,1430,823,1569,8,4,374,221,516,33,227,24,3,42,41,406,378,13,410,274,88,20,560,25,231,94,72,4,52,8,39,12,9,15,48,104,15,21,265,47,7,3,30,7,83,60,2,41,27,6,295,47,357,178,234,5,7,1,23,1,11,26,38,3,116,156,15,67,11,415,106,113,171,226,216,102,77,11,60,459,197,53,51,250
+Revised	1433,1276,66,114,74,2,204,1,1,1725,262,1788,1430,823,1569,8,4,374,221,516,33,227,24,3,42,41,406,378,13,410,274,88,20,560,25,231,94,72,4,52,8,39,12,9,15,48,104,15,21,265,47,7,3,30,7,83,60,2,41,27,6,295,47,357,178,234,5,7,1,23,1,11,26,38,3,116,156,15,67,11,415,106,113,171,226,216,102,77,11,60,459,197,53,51,250,153,13
 Revised AF End Target	15511
 Revised Achieved	18754
 Revised Actual Achieved	15663
@@ -1617,13 +1623,13 @@ Revised Budget and Actual	14736
 Revised Cancelled Disbursed Undisbursed	11395
 Revised Cash	16032
 Revised Civil Service Codes and Regulations	18488
-Revised Closing	6833,8123
+Revised Closing	6833,8123,5034
 Revised Closing Date	12980
 Revised Codex Standard	16900
 Revised Collateral Registry Regulation	14647
 Revised Common Reporting Standard	11685
 Revised Component	15138,831,927,26,1437,925
-Revised Components	11924,3500,87,90,835,178,1235,113,792,11
+Revised Components	11924,3500,87,90,835,178,1235,113,792,11,1223
 Revised Components Laying the Foundations	15601
 Revised Components and Costs	15663
 Revised Cost	18765
@@ -1638,7 +1644,7 @@ Revised Eligibility for SSDG Net-Billing Scheme	14745
 Revised End Target	15601
 Revised Ensuring	19284
 Revised Environmental and Social Risk Rating	15138,4146
-Revised Estimation	4653,11379
+Revised Estimation	4653,11379,3958
 Revised Estimation Actual FY2023	18359
 Revised FY2025	4540
 Revised Fair Usage Policy	11259
@@ -1681,7 +1687,7 @@ Revised Objective	11891
 Revised PAGE	2775
 Revised PBCs	19455
 Revised PDO	13826,1905,883,2140,71
-Revised PDO Indicators	11924,3500,1012,1413,113,803
+Revised PDO Indicators	11924,3500,1012,1413,113,803,1223
 Revised PDO Indicators PDO	15511
 Revised PDO Indicators and Targets	15601,62
 Revised PDO The Project Developement Objectives	17849
@@ -1714,7 +1720,8 @@ Revised Statistics Act	17116
 Revised Strengthen	16187
 Revised Supplementary Act	7452
 Revised Table	2775,12061
-Revised Target	17849
+Revised Target	17849,2139
+Revised Target TBD	19988
 Revised Target Yes Actual Achieved	15601
 Revised Tariff for Energy Export Under CEB	14745
 Revised Telecommunications Market Structure	7551,1784
@@ -1733,7 +1740,7 @@ Revised-stage	1618,1554
 RevisedComponent	19284
 Reviser	17845
 Revises Guinea-Bissau	4435
-Revising	11866,50,6443,1175
+Revising	11866,50,6443,1175,456
 Revising Court Magistrates	9314
 Revising Courts	17654
 Revising Officer	18459
@@ -1742,7 +1749,7 @@ Revising Statistics Act	19519
 Revising the Public Financial Management Act	18488
 Revising the Results Framework	18359
 Revising the Statistics Act	16935
-Revision	899,110,234,2797,4,1634,1,753,846,3487,10,409,237,25,131,224,105,58,12,175,186,1,29,12,34,475,13,2,3,2,277,240,1241,70,37,63,220,29,64,323,8,599,140,479,268,12,33,1348,100,484,614,92,186
+Revision	899,110,234,2797,4,1634,1,753,846,3487,10,409,237,25,131,224,105,58,12,175,186,1,29,12,34,475,13,2,3,2,277,240,1241,70,37,63,220,29,64,323,8,599,140,479,268,12,33,1348,100,484,614,92,186,167
 Revision CNOE Centro Nacional de Operações de Emergência	15966
 Revision Date Subject	5678
 Revision Details Revised	11188
@@ -1773,7 +1780,7 @@ Revision of Register. Returns	18459
 Revision of WTDC Resolution	11424
 Revision of ZWS	13385
 Revision of Zimbabwe's Agro-Ecological Zones	520
-Revisions	1154,10132,1767,257,1364,62,41,773,113,97,2089,20,1415,171,380
+Revisions	1154,10132,1767,257,1364,62,41,773,113,97,2089,20,1415,171,380,153
 Revisions LRFP-2025-9200546-Unique Learner ID	18506
 Revisions The Deeds	11286
 Revisit	10829,4168,2263,2417
@@ -1901,6 +1908,7 @@ Sep-2020 Mid-Term Review No	15735
 Sep-2021 Effectiveness Mid-Term Review No	11395
 Sep-2024 Actual Mid-Term Review Date	15619
 Sergent REVIGNET INGUEZA ARONDO Aline	16175
+Service MTR Mid-Term Review MU Moderately	19988
 Services. American University International Law Review	1243
 Sierra Leone Peer Review Report Reviewing	18578
 Sierra Leone Peer Review Report URL	18578
@@ -1944,9 +1952,10 @@ Structure Review	14985
 Sub-programme Intervention Enabling Environment Review	19660
 Submission and Review	3861
 Submit the Dataset for Review	15714
-Substantial Concept Review Decision	14015
+Substantial Concept Review Decision	14015,5987
 Substantial. Concept Review Decision	16293
 Suk Song Peer Reviewer Energy Specialist	15983
+Summary of Component Revisions Component	19988
 Summary of Review of KICA and Regulations	6946
 Summary of Review of KICA and Regulations No. Regulation	6946
 Summary of Revisions	11417

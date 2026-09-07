@@ -76,6 +76,7 @@ Agency for Sustainable Energy ME Ministry of Energy	11549
 Agricultural Transformation and Energy Transition	12640
 Agriculture Transportation Energy Financial Services Lands	4126
 Agriculture and Digital Transformation Energy	11608
+Agriculture and Energy	20004
 Agriwatt Energy App1 H5	19476
 Agência Internacional da Energia	18793
 Agência Internacional da Energia. Mostra	18793
@@ -247,7 +248,8 @@ Communication and Renewable Energy Infrastructure	1470,3005,624,13594
 Communications Commission ESERA Eswatini Energy Regulatory	12975
 Community Livelihoods Through Energy Security Financing	5247
 Community of West African States EDSA Energy	18504
-Comoros Solar Energy Access Project	13734
+Comoros Solar Energy Access Project	13734,6291
+Comoros Solar Energy Access Project World	20025
 Compact Energétique	15851
 Compact Targets and Action Plan This Energy	18795,882
 Compagnie Energie Electrique du Togo	19224,15,21,35,15
@@ -255,6 +257,7 @@ Company Embedded Generation Eswatini Energy Regulatory	12969
 Comparison of DisCos’ BE and Energy Accounting Efficiency	18217
 Compass Energy Solutions Limited Retail Supply	12256
 Competitive Market for Commercialization of Energy Produced	19661
+Competitiveness and Energy Reform Project	20002
 Complaint Unit CEET Compagnie Energie Electrique	12062,6124,31
 Concessionnaire Eneo	10975
 Conex Energy	18736
@@ -321,6 +324,7 @@ Deprutment of Energy	16851
 Deputy Minister for Energy	16851
 Deputy Minister of Energy	13562,5004
 Description ENE	1601,1,1,1,1,1,7,2,1,1,1,1278,1,2,1,1,1
+Description The Rural Renewable Energy Project	20018
 Develop Renewable Energy and Digital Infrastructure Projects	6529
 Development Fund FUNAE National Energy Fund	2473
 Digital Energy Facility	348,1
@@ -475,7 +479,7 @@ ENERKA SARL	15670
 ENERSA	18322
 ENERSA. SA	18322
 ENESA	7670
-ENESI	10874,5087,1883
+ENESI	10874,5087,1883,2144
 ENESIG	16250
 ENET Ar.docx	17509
 ENET Fr.docx	17509
@@ -666,7 +670,7 @@ Energies-media. Tonye	15480
 Energising Development	12191,33,7719
 Energization Outcome	12358
 Energizing Africa	10077
-Energy	718,71,181,226,3,44,21,20,493,37,4,49,121,440,45,153,149,829,257,122,143,321,436,13,10,66,561,240,139,110,164,80,144,12,211,371,147,16,86,188,88,19,241,176,53,594,541,376,27,580,21,156,107,339,76,2,1,74,44,12,37,11,119,14,36,7,23,13,41,3,59,49,89,80,23,36,113,33,61,55,16,1,1,1,34,2,28,109,90,1,1,9,29,14,27,21,2,5,79,1,11,1,5,36,5,4,85,14,10,9,42,41,13,57,6,8,155,99,14,13,3,69,19,63,128,134,33,15,41,46,49,55,61,49,59,145,311,160,13,54,118,9,62,9,45,17,9,69,16,9,32,2,74,7,57,12,40,397,55,59,85,4,39,12,111,158,66,95,99,13,29,369,114,83,2,32,4,13,21,19,5,19,12,14,4,108,1,3,31,10,3,57,26,6,10,6,3,104,57,459,4,52,211,39,31,3,233,5,83,26,126,35,26,41,67,71,18,28,167,93,6,274,7,29,91,6,1,10,14,35,89,21,1,13,22,1,65,13,1,1,27
+Energy	718,71,181,226,3,44,21,20,493,37,4,49,121,440,45,153,149,829,257,122,143,321,436,13,10,66,561,240,139,110,164,80,144,12,211,371,147,16,86,188,88,19,241,176,53,594,541,376,27,580,21,156,107,339,76,2,1,74,44,12,37,11,119,14,36,7,23,13,41,3,59,49,89,80,23,36,113,33,61,55,16,1,1,1,34,2,28,109,90,1,1,9,29,14,27,21,2,5,79,1,11,1,5,36,5,4,85,14,10,9,42,41,13,57,6,8,155,99,14,13,3,69,19,63,128,134,33,15,41,46,49,55,61,49,59,145,311,160,13,54,118,9,62,9,45,17,9,69,16,9,32,2,74,7,57,12,40,397,55,59,85,4,39,12,111,158,66,95,99,13,29,369,114,83,2,32,4,13,21,19,5,19,12,14,4,108,1,3,31,10,3,57,26,6,10,6,3,104,57,459,4,52,211,39,31,3,233,5,83,26,126,35,26,41,67,71,18,28,167,93,6,274,7,29,91,6,1,10,14,35,89,21,1,13,22,1,65,13,1,1,27,21,15
 Energy Acceleration Program	19083
 Energy Access	10157,2076,7494
 Energy Access Deficit	11923,268
@@ -676,7 +680,7 @@ Energy Access Diagnostic Report Based	423
 Energy Access Keeping	19728
 Energy Access and Digital Connectivity DPO	18851
 Energy Access and Digital Connectivity DPO TABLE	18851
-Energy Access and Digital Connectivity Development Policy	18851
+Energy Access and Digital Connectivity Development Policy	18851,1189
 Energy Access and Livelihood Resilience	13938
 Energy Accounting Efficiency	12062,6124,31
 Energy Across Energy Systems	9635
@@ -826,7 +830,7 @@ Energy Minister	18582,156
 Energy Minister Guedi	13932
 Energy Minister Yonis Ali Guedi	13932
 Energy Minister’s Session	16275,965
-Energy Ministry	4267,2039
+Energy Ministry	4267,2039,13698
 Energy Ministry of Defence National Debt Service	17105
 Energy Ministry of Defence Others	17105
 Energy Ministry of Interior	17105
@@ -930,8 +934,10 @@ Energy Source Disclosure Technologies	7548
 Energy Sources	12062,6124,31
 Energy Specialist	11136,7715
 Energy Specialist Abalo Irene Jerry Fabiano	12195
+Energy Specialist Borrower	20002
 Energy Specialist Email	18374
 Energy Specialist Madina Tall Energy Specialist	16654
+Energy Specialist Matteo Maria Malacarne	20002
 Energy Specialist No Christophe de Gouvello Peer	15983
 Energy Specialist Selam Tarkeghn Neda	12195
 Energy Specialist Yes Adama Diop Financial	15983
@@ -960,7 +966,7 @@ Energy Trade	11608
 Energy Trade Electricity	16964
 Energy Traded	12399
 Energy Training Centre	14745
-Energy Transition	14456,289,1238,2879
+Energy Transition	14456,289,1238,2879,1182
 Energy Transition Investment Plan	18537
 Energy Transition Plan	18537
 Energy Transition Strategy	12206,7218
@@ -1030,6 +1036,7 @@ Energy and Trading	7036,6631
 Energy and Transport	14576
 Energy and Transport Infrastructure	13156
 Energy and Utilities	9815,405
+Energy and Water Regulatory Authority	20002
 Energy and Water Utilities Regulatory Authority Level	19584
 Energy for All	11137
 Energy for Cooking	19715
@@ -1185,6 +1192,7 @@ Godfrey Nya Eneye	11993
 Government Energy Kenya	11994
 Government Energy and Resources Authority	7548
 Government and Energy	9815
+Government of Sierra Leone's Ministry of Energy	20018
 Government's National Energy Compact	12595
 Green Bio Energy	10846
 Green Energy	3487
@@ -1284,7 +1292,7 @@ Integrated Sustainable Energy Strategy	16236
 Inter-Ministerial Working Energy	17260
 International Atomic Energy	12972
 International Atomic Energy Agency	4070,1685,1,7917,1048,24,28,358
-International Energy Agency	6935,613,183,58,1846,1334,171,170,262,312,11,264,33,13,60,111,2297,901,1368,2923
+International Energy Agency	6935,613,183,58,1846,1334,171,170,262,312,11,264,33,13,60,111,2297,901,1368,2923,130
 International Energy Agency IFMIS Integrated Financial	16942
 International Energy Efficient	19847
 International Renewable Energy Agency	11140,432,642,47,2578,735,1368,3001
@@ -1522,10 +1530,11 @@ Ministro da Energia	3246,901
 Ministry for Energy	19519
 Ministry of Development of Energy and Water Resources	15702
 Ministry of Electricity and Renewable Energy	19906
-Ministry of Energy	1283,80,2916,234,734,1386,4240,676,4,26,661,434,6,2,360,18,254,51,114,168,87,59,17,122,490,252,72,187,165,561,81,164,65,228,452,5,204,299,1296,31,48,5,29,1018,23,34,20,282
+Ministry of Energy	1283,80,2916,234,734,1386,4240,676,4,26,661,434,6,2,360,18,254,51,114,168,87,59,17,122,490,252,72,187,165,561,81,164,65,228,452,5,204,299,1296,31,48,5,29,1018,23,34,20,282,59,16,7
 Ministry of Energy Access	1988
 Ministry of Energy Civil Society Organisations	21
 Ministry of Energy DONOR	18453
+Ministry of Energy Hydrolics and Hydrocarbons	20002
 Ministry of Energy Level	19584
 Ministry of Energy MTNDP Medium Term National	18537
 Ministry of Energy Ministry of Finance	12674
@@ -1536,6 +1545,7 @@ Ministry of Energy and Dams	3583,15031,58
 Ministry of Energy and Green Transition	16596
 Ministry of Energy and Hydraulic	15969
 Ministry of Energy and Hydraulics	11936,3723
+Ministry of Energy and Hydraulics. Finances	20023
 Ministry of Energy and Hydrocarbons	14456
 Ministry of Energy and Infrastructure	14476
 Ministry of Energy and Mineral Development	19646,48,11,23
@@ -1546,6 +1556,7 @@ Ministry of Energy and Minerals	15132
 Ministry of Energy and Mines	13624,456
 Ministry of Energy and Mines Sector	14080
 Ministry of Energy and Mining	13122,190,2
+Ministry of Energy and Ministry of Economy and Finance	20002
 Ministry of Energy and MoEST	19585
 Ministry of Energy and Oil	14897
 Ministry of Energy and Oil MoFEP Ministry of Finance	14897
@@ -1560,6 +1571,7 @@ Ministry of Energy and Water	11380,5088
 Ministry of Energy and Water Resources	11136,3813,51,25,38
 Ministry of Energy of Lesotho	6490
 Ministry of Energy. Connaught Hospital	18582
+Ministry of Energy. Rural	20002
 Ministry of Energy. The RREP	18453
 Ministry of Industries Mines and Energy	13189
 Ministry of Lands. Mines and Energy	16851
@@ -1851,7 +1863,7 @@ Regulation and Renewable Energy	14736
 Regulation of Energy Utilities. The Online	16978
 Regulatory Indicators for Sustainable Energy	11923,268,3324
 Renewable Energ	16851
-Renewable Energies	16900
+Renewable Energies	16900,3093
 Renewable Energies and Energy Efficiency	789
 Renewable Energies and Ibn Zohr University	4032
 Renewable Energy	718,252,3926,1526,1995,2719,333,484,446,164,46,420,1713,3,85,643,715,663,306,1312,1177,31
@@ -1960,7 +1972,7 @@ Rural Energy Agency Level	19584
 Rural Energy Board	19545
 Rural Energy Fund	19602
 Rural Energy Master Plan	13614
-Rural Renewable Energy Project	18453
+Rural Renewable Energy Project	18453,1565
 Rural Renewable Energy Project CLIENT	18453
 Rural Renewable Energy Project URL	18453
 Rural and Renewable Energy Agency	16851,127
@@ -2026,6 +2038,7 @@ Segurança Energética	11366
 Senegal Energy Access Scale Up Project	18355
 Senior Energy Specialist	11136,7715,573,239
 Senior Energy Specialist Email	18374
+Senior Energy Specialist Madina Tall	20002
 Senior Energy Specialist Matteo Maria Malacarne	16654
 Service des Energies Renouvelables	10975
 Services Energetiques	15741
@@ -2037,6 +2050,7 @@ Siemens Energy	2539,12206
 Sierra Leone Energy Fund	18537
 Sierra Leone Energy Policy	18537
 Sierra Leone Rural Renewable Energy Project	18453
+Sierra Leone's Ministry of Energy	20018
 Sinopec International Energy Investment	15930
 Sistema de Armazenamento de Energia	16132
 Sistema de Energia Fotovoltaico	16146
@@ -2111,7 +2125,7 @@ Sustentabilidade Energética	15433,459
 Sutainable Energy We Are for Sustainable Energy	12515
 System SEforALL Sustainable Energy for All WBG	12717
 Systèmes Energétique	19366
-São Tomé and Príncipe's National Energy Compact	18862
+São Tomé and Príncipe's National Energy Compact	18862,1182
 Sécurité Publique Min. Energie	13341
 S’agissant de Ndar Energie	18322
 T ENERGY REGULATORY AUT H	12969

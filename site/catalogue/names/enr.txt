@@ -89,7 +89,7 @@ ENROL	11156
 ENROLLMENT	12146
 ENRPN	18779
 Education Education Enrolment Education Completion Human	10837,1315,188,7598
-Education Enrolment	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Education Enrolment	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Education Lower Basic Gross Enrolment Ratio	16973
 Empowerment GER Gross Enrolment Rate GIA	18512
 EnDev Energising Development EnR	18316
@@ -161,7 +161,7 @@ Enrolled Nurses	19974
 Enrolled OVC Beneficiaries	12977
 Enrollees	19889
 Enrolling	571,4877,5685,791,2992
-Enrollment	2775,1260,931,2163,467,3216,27,641,387,460,2,82,252,308,6,337,18,1565,25,97,68,574,2,416,357,24,416,100,7,10,146,831,963,304,598,54
+Enrollment	2775,1260,931,2163,467,3216,27,641,387,460,2,82,252,308,6,337,18,1565,25,97,68,574,2,416,357,24,416,100,7,10,146,831,963,304,598,54,99,8,5
 Enrollment Data	14501
 Enrollment Kits	13424
 Enrollment Rates API	15630

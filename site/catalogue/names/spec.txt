@@ -386,6 +386,7 @@ Digital Health Specialist	3005
 Digital Infrastructure and Broadband Access Specialist	15019
 Digital Platform Operators Theme Specific Recommendations	4214
 Digital Registries Building Block Specification	6423
+Digital School Registry Pilot Standard Specific	20004
 Digital Skills Spectrum	17870,1061
 Digital Specialist	10886,4133,2051
 Digital Specialist Borrower	3456
@@ -446,6 +447,7 @@ ETUDES SPECIFIQUES	15595
 EU Member States. Special	10090
 EU Special Representative	15001,4537
 EU Specific Objective	970
+EU and Enabel. Specific Data Flow	20004
 EURO SPECIAL DRAWING RIGHTS	15743
 Economic Risks Specific Risk	4528
 Economic Statistics Specialist	12403
@@ -473,8 +475,10 @@ Endangered Species of Wild Fauna and Flora COMESA	13042
 Endangered Species of Wild Flora and Fauna	1988,14855
 Energy Specialist	11136,7715
 Energy Specialist Abalo Irene Jerry Fabiano	12195
+Energy Specialist Borrower	20002
 Energy Specialist Email	18374
 Energy Specialist Madina Tall Energy Specialist	16654
+Energy Specialist Matteo Maria Malacarne	20002
 Energy Specialist No Christophe de Gouvello Peer	15983
 Energy Specialist Selam Tarkeghn Neda	12195
 Energy Specialist Yes Adama Diop Financial	15983
@@ -489,6 +493,7 @@ Environmental Specialist Potential	1988
 Environmental Specialist Stefan Queck	12195
 Environmental Specialist Yes Lucienne M. M'Baipor	15983
 Environmental Specialist and Social Specialist	1988,15126
+Environmental Specialist. Adjoua Veronique Ouattara	19988
 Environmental and Social Development Specialists	18635
 Environmental and Social Management Plan. Specifically	12253
 Environmental and Social Safeguard Specialist	19847
@@ -554,6 +559,7 @@ Financial Management Specialist Henie Dahlia Takodjou	11924
 Financial Management Specialist Ndri Marina Assoumou	17962
 Financial Management Specialist Zarafshan H. Khawaja	15601
 Financial Management Specialist and Project Accountant	1867
+Financial Management Specialist. Koulako Camara	19988
 Financial Sector Specialist	10763,2,10,4698,1403,66
 Financing Agreement. Specifically	11863
 Fiscal Device API Gateway Requirements Specifications	13606
@@ -634,6 +640,7 @@ Green Economic Growth Specific Objective	970
 Gregoire Senior Environmental Safeguards Specialist MNSEN	17441
 Groupe Speciale Mobile Association	18779
 Guideline For Special Groups Oct	19534
+Guinea. Specific	19990,11
 H. Specific Implementation Covenants	14912
 HARDWARE SPECIFICATIONS	2779
 HEALTH AND SAFETY SPECIFICATIONS	14883
@@ -1124,6 +1131,7 @@ Procurement Specialist No Flavia Gabriela Oyo	18809
 Procurement Specialist Procurement No Messan	19284
 Procurement Specialist Tahirou Kalam Procurement Specialist	17962
 Procurement Specialist W	12195
+Procurement Specialist. Mamady Kobele Keita	19988
 Procurement Specialists	1284,9586
 Product Specialist Completed Site Visits	15905
 Production and Specialized Services	16266
@@ -1317,6 +1325,7 @@ SPECIALES ET DE LA DIVERSIFICATION ECONOMIQUE	15848
 SPECIALES ET DES ORGANES DE GESTION	15780
 SPECIALISED SERVICES	19772
 SPECIALISED TELECOMMUNICATION SERVICES C1. HF	17250
+SPECIALISEE MBPS MEGA BITS PAR SECONDE	19986
 SPECIALISEES Art	18106
 SPECIALISEES Chapitre	18106
 SPECIALIST OR PIU	17114
@@ -1436,6 +1445,7 @@ Senior Education Specialist	2989,9423,3068,1396,994,1061,909
 Senior Education Specialist Borrower	16675
 Senior Energy Specialist	11136,7715,573,239
 Senior Energy Specialist Email	18374
+Senior Energy Specialist Madina Tall	20002
 Senior Energy Specialist Matteo Maria Malacarne	16654
 Senior Environment Specialist	2989
 Senior Environment Specialist Isabelle Bautista	15905
@@ -1496,6 +1506,8 @@ Social Specialist Evelyne Huguette Madozein Team	15601
 Social Specialist Maria Concepcion J. Cruz	15601
 Social Specialist Paivi Koskinen-Lewis Supervision	15601
 Social Specialist Safeguards	15983
+Social Specialist. Aissatou Seck	19988
+Social Specialist. Bolong Landing Sonko	19988
 Social Specialists	1988
 Social and GBV Specialists	17099
 Social and Human Development and Special Programmes	12962
@@ -1916,7 +1928,7 @@ Species Mix	14818
 Species Mix Resource	14818
 Specifi	16876
 Specifi-	19237
-Specific	640,149,173,8,30,68,93,82,21,194,320,89,121,756,860,257,440,812,173,247,1353,61,504,308,1639,790,163,376,37,77,122,1,16,37,84,83,9,2,74,148,100,8,249,80,1,45,43,43,9,166,14,65,13,103,9,20,3,25,31,91,146,98,7,131,60,108,100,129,6,11,25,2,5,55,267,194,46,13,38,738,1,27,3,7,25,78,25,17,25,13,12,50,59,34,66,8,129,70,9,52,23,26,18,27,35,105,55,30,225,219,306,278,61,7,4,24,9,7,1,1,41,16,9,12,9,96,31,15,43,130,47,33,567,375,61,88,37,101,291,98,260,39,236,12,4,48,73,45,10,123,55,84
+Specific	640,149,173,8,30,68,93,82,21,194,320,89,121,756,860,257,440,812,173,247,1353,61,504,308,1639,790,163,376,37,77,122,1,16,37,84,83,9,2,74,148,100,8,249,80,1,45,43,43,9,166,14,65,13,103,9,20,3,25,31,91,146,98,7,131,60,108,100,129,6,11,25,2,5,55,267,194,46,13,38,738,1,27,3,7,25,78,25,17,25,13,12,50,59,34,66,8,129,70,9,52,23,26,18,27,35,105,55,30,225,219,306,278,61,7,4,24,9,7,1,1,41,16,9,12,9,96,31,15,43,130,47,33,567,375,61,88,37,101,291,98,260,39,236,12,4,48,73,45,10,123,55,84,28
 Specific Age Group and Sex	19544
 Specific Aspects	11986
 Specific Aspects of Refugee Problems	5533,9393
@@ -1981,7 +1993,7 @@ Specific Types of Data Controllers and Data Processors	11956
 Specific Undertakings	17011
 Specific and Descriptive Impacts	16885
 SpecificObjectives Objective	16951
-Specifically	629,160,172,200,67,15,5,16,554,10,39,121,108,21,647,11,214,467,31,117,23,24,27,352,22,162,3,84,131,177,67,56,134,398,290,101,153,347,28,28,301,27,93,304,11,285,46,193,224,174,507,230,171,140,105,107,220,410,408,596,2,10,1,4,5,34,10,12,40,28,31,23,1,16,127,23,4,6,16,12,27,10,6,17,7,26,25,6,109,67,57,25,28,196,81,2,10,33,2,3,19,15,51,6,7,87,71,14,52,19,7,44,116,127,24,359,13,42,2,10,46,4,13,95,37,24,111,11,26,21,5,9,26,59,147,79,165,68,68,138,9,323,13,89,52,38,124,107,38,25,47,3,29,17,34,6,34,34,247,13,49,7,31,7,35,21,27,47,10,1,2,2,80,102,79,100,374,277,186,15,39,6,1,2,3,15,1,4,2,11,10,8,41,24,56,5,10,2,11,13,9,8,78,132,91,278,7,2,104,20,1,36,198,19,170,12,13,132,54,8,13,284,16,389,23,47,236,1,10,3,7,1,2,14,26,1,77,4,141,28,4,56,5,1,33,40
+Specifically	629,160,172,200,67,15,5,16,554,10,39,121,108,21,647,11,214,467,31,117,23,24,27,352,22,162,3,84,131,177,67,56,134,398,290,101,153,347,28,28,301,27,93,304,11,285,46,193,224,174,507,230,171,140,105,107,220,410,408,596,2,10,1,4,5,34,10,12,40,28,31,23,1,16,127,23,4,6,16,12,27,10,6,17,7,26,25,6,109,67,57,25,28,196,81,2,10,33,2,3,19,15,51,6,7,87,71,14,52,19,7,44,116,127,24,359,13,42,2,10,46,4,13,95,37,24,111,11,26,21,5,9,26,59,147,79,165,68,68,138,9,323,13,89,52,38,124,107,38,25,47,3,29,17,34,6,34,34,247,13,49,7,31,7,35,21,27,47,10,1,2,2,80,102,79,100,374,277,186,15,39,6,1,2,3,15,1,4,2,11,10,8,41,24,56,5,10,2,11,13,9,8,78,132,91,278,7,2,104,20,1,36,198,19,170,12,13,132,54,8,13,284,16,389,23,47,236,1,10,3,7,1,2,14,26,1,77,4,141,28,4,56,5,1,33,40,14,14
 Specifically Article	5321
 Specifically Identified Needs	16936
 Specifically the GBV	16926

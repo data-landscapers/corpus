@@ -2213,7 +2213,7 @@ Contracted Capacity PHED Port Harcourt Electricity	12062,6124,31
 Contracted Workers	17099
 Contracted Workers Contracted Workers The Borrower	1988
 Contracter	15901,2113
-Contracting	962,3255,3049,1280,2979,26,1775,206,1487,1829,332,29,239,989,450,358
+Contracting	962,3255,3049,1280,2979,26,1775,206,1487,1829,332,29,239,989,450,358,757
 Contracting Authorities	14546,1004
 Contracting Authority	3787,2006,6815
 Contracting Parties	13326,670,413
@@ -2342,7 +2342,7 @@ Contraintes	10874,91,10,2400,431,1687,443,386,160,1364,36,14,49
 Contraintes Appui	10975
 Contraints	7243
 Contrair	15391,3409
-Contrairement	737,1259,284,274,1023,298,2563,917,258,100,811,933,588,240,104,1545,10,1446,62,16,189,145,745,995,219,175,321,457,407,628,75,342,14,106,5,711,230,41,107
+Contrairement	737,1259,284,274,1023,298,2563,917,258,100,811,933,588,240,104,1545,10,1446,62,16,189,145,745,995,219,175,321,457,407,628,75,342,14,106,5,711,230,41,107,632
 Contrais and Audits	15901
 Contralmirante	4209
 Contramedidas	11376
@@ -2498,7 +2498,7 @@ Contribuciones Nacionales	16875
 Contribuciones Pensiones	4209
 Contribuciones Previstas	16875
 Contribue	13677,748,1218,1805
-Contribuer	643,7274,2941,17,90,2325,11,113,263,104,387,257,54,9,1,1,47,869,90,4,39,3,168,2,11,16,260,371,175,76,25,1173,9,1,16,8,7,12,10,14,3,83,1,20,29,86,179,5,582,522
+Contribuer	643,7274,2941,17,90,2325,11,113,263,104,387,257,54,9,1,1,47,869,90,4,39,3,168,2,11,16,260,371,175,76,25,1173,9,1,16,8,7,12,10,14,3,83,1,20,29,86,179,5,582,522,580
 Contribuer Copyright	9482
 Contribuera	15583
 Contribuicao	1144
@@ -2657,7 +2657,7 @@ Contributory Social Protection Tanzania	19531
 Contributos	15966
 Contribuya	1701
 Contro	18154
-Control	34,384,300,983,287,1515,148,558,904,133,271,18,952,78,269,637,260,399,123,960,24,162,38,179,541,564,72,363,701,95,4,354,202,16,141,221,48,40,64,246,44,7,37,78,7,105,875,105,206,21,174,80,122,98,93,330,231,931,7,16,20,25,16,6,22,99,71,13,30,93,32,370,891,13,327,4,98,535,24,58,199
+Control	34,384,300,983,287,1515,148,558,904,133,271,18,952,78,269,637,260,399,123,960,24,162,38,179,541,564,72,363,701,95,4,354,202,16,141,221,48,40,64,246,44,7,37,78,7,105,875,105,206,21,174,80,122,98,93,330,231,931,7,16,20,25,16,6,22,99,71,13,30,93,32,370,891,13,327,4,98,535,24,58,199,201
 Control APPENDIX	1000
 Control Act	6921
 Control Administrative Officer for Civil Registration	7905
@@ -2729,7 +2729,7 @@ Control and Surveillance Coordination Centre	12640
 Control and Use of Personal Mobile Devices	14839
 Control da Polícia Nacional	10788
 Control de Gestión	15478
-Control of Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Control of Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Control of Communicable Diseases Access	19822
 Control of Corruption	1828,2700,10369,2099
 Control of Counterfeit and Low-Quality Medicines	10776
@@ -2741,7 +2741,7 @@ Control of Goods Act	8399,5004
 Control of Goods Prices and Other Charges	12629
 Control of HIV	11417
 Control of Neglect-	10780
-Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Control of Personal Data Protection	3563,1441
 Control of Private Hospitals	1009
 Control of Public Procurement	11906
@@ -4408,6 +4408,7 @@ Group Cash Value Insurance Contract	11233
 Guangzhe Chen ICR Main Contributor Soukeyna	17962
 Guidelines for Source Code Access Controls	19575
 Guidelines for Source Code Storage and Version Control	19575
+Guinea's Nationally Determined Contribution	20002
 Guinea's Nationally Determined Contributions	16654
 Guiné-Bissau. Contribui	11565
 Gully Erosion Control	17157
@@ -4449,10 +4450,14 @@ Humidity Control Humidity	9446
 I. Controlo	15955
 IA SECÇÃO I RESPONSABILIDADE CONTRA-ORDENACIONAL ARTIGO	3519
 ICR Contributing Author	15424,87,90
+ICR Contributor. Bintou Sogodogo	19988
+ICR Contributor. Justine Lucie Bailliart	19988
+ICR Contributor. Salamata Ouedraogo Sawadogo	19988
+ICR Contributor. Sandra Beemer	19988
 ICR Main Contributor	16436
 ICR Main Contributor At Approval Halil	16436
 ICR Main Contributor Delfim Mawete	18825
-ICR Main Contributors	17962
+ICR Main Contributors	17962,2026
 ICS Security Controller	19801
 ICT Contribution	16992
 ICT General Controls	18482
@@ -4590,6 +4595,7 @@ Jobs CLIMATE Contributing Practice Areas Education	15658
 Jobs. Contributing Practice Areas	14976
 Joint Controls	12389
 Joint Data Controllers	12185
+Juan Baron ICR Main Contributor	19988
 Judicial Control ARTICLE	15484
 Jun-2026 Contract Signing	13548
 K. AWARD OF CONTRACT	15080
@@ -5018,7 +5024,7 @@ National Programme for NTD Control	10188
 National Quality Control Lab	4153
 National Quality Control Lab KEMSA Quality	4153
 National du Contrôle Monsieur Aristide Aboyi EDAH	16485
-Nationally Determined Contribution	5247,1292,4878,169,319,301,50,1368,456,1420,158,1,324,236,730,191,318,847,65,1477,86
+Nationally Determined Contribution	5247,1292,4878,169,319,301,50,1368,456,1420,158,1,324,236,730,191,318,847,65,1477,86,69
 Nationally Determined Contribution NDE New Digital	2775
 Nationally Determined Contribution Net Interest Income	11134
 Nationally Determined Contributions	970,294,2340,5789,1436,381,326,863,1215,1204,735,292,1077,179,39,117,1201,351,436

@@ -248,7 +248,7 @@ Automated	28,543,649,876,578,977,210,1508,1063,10,496,852,340,306,360,711,274,1,
 Automated Assessment and Feedback	14812
 Automated Biometric	11986
 Automated Biometric Identification	11986
-Automated Biometric Identification System	2073,1342,2118,7472,1825
+Automated Biometric Identification System	2073,1342,2118,7472,1825,5166
 Automated Biometric Identification System ACSA Airports	5533
 Automated Biometric Identification System ADR Assistant	13005
 Automated Biometric Information System	14830
@@ -694,7 +694,7 @@ Autorite de Regulation du Nurnertque	15584
 Autoriteit Persoonsgegevens	8436
 Autoritfde	15584
 AutoritÈ	15394
-Autorité	37,76,122,330,200,204,14,25,206,17,53,366,340,77,194,29,224,142,74,62,1,87,58,12,70,49,180,13,88,155,15,31,119,142,30,33,19,165,63,9,74,6,65,4,259,28,116,61,70,60,49,34,120,14,65,14,200,11,34,338,13,125,16,9,33,6,140,139,7,16,22,222,69,90,10,26,43,218,30,23,87,25,27,88,26,29,101,227,48,69,70,110,180,91,125,131,79,2,208,153,5,68,83,17,105,13,150,191,213,216,26,151,35,16,83,29,81,19,2,58,46,1,50,34,69,46,128,4,11,40,18,1,1,12,58,9,117,47,12,416,13,146,35,171,111,1258,418,66,24,352,48,70,1,23,81,28,1,25,50,1,1,22,37,300,277,228,8,4,4,54,5,13,1,1,17,3,18,25,4,7,24,3,40,18,32,35,1,5,11,33,43,4,2,115,1,16,35,6,1,25,52,95,2,31,1,28,18,8,60,32,32,5,28,34,29,155,34,3,2,9,8,2,76,9,732,296,14,32,24,3,7,2,10,14,5,1,4,11,18,13,6,24,14,32,13,7,16,13,74,13,3,102,64,4,24,6,5,92,8,2,472,15,56,16,9,7,48,147,10,9,18,14,1,44,2,4,25,14,22,583,4
+Autorité	37,76,122,330,200,204,14,25,206,17,53,366,340,77,194,29,224,142,74,62,1,87,58,12,70,49,180,13,88,155,15,31,119,142,30,33,19,165,63,9,74,6,65,4,259,28,116,61,70,60,49,34,120,14,65,14,200,11,34,338,13,125,16,9,33,6,140,139,7,16,22,222,69,90,10,26,43,218,30,23,87,25,27,88,26,29,101,227,48,69,70,110,180,91,125,131,79,2,208,153,5,68,83,17,105,13,150,191,213,216,26,151,35,16,83,29,81,19,2,58,46,1,50,34,69,46,128,4,11,40,18,1,1,12,58,9,117,47,12,416,13,146,35,171,111,1258,418,66,24,352,48,70,1,23,81,28,1,25,50,1,1,22,37,300,277,228,8,4,4,54,5,13,1,1,17,3,18,25,4,7,24,3,40,18,32,35,1,5,11,33,43,4,2,115,1,16,35,6,1,25,52,95,2,31,1,28,18,8,60,32,32,5,28,34,29,155,34,3,2,9,8,2,76,9,732,296,14,32,24,3,7,2,10,14,5,1,4,11,18,13,6,24,14,32,13,7,16,13,74,13,3,102,64,4,24,6,5,92,8,2,472,15,56,16,9,7,48,147,10,9,18,14,1,44,2,4,25,14,22,583,4,59
 Autorité Administrative	9565,7052
 Autorité Administrative Indépen-	18322
 Autorité Administrative Indépendante	15636,74,2,224,679,1507,200
@@ -800,12 +800,12 @@ Autorité de Régulation des Marchés	15619,2363
 Autorité de Régulation des Marchés Publics	969,9860,47,2425,2217,1185,1598
 Autorité de Régulation des Marchés Publics Author	16703
 Autorité de Régulation des Marchés Publics. Cette	16703
-Autorité de Régulation des Postes	3104,4980,3796,52,3653,1030,2,22,2,58,13,1393
+Autorité de Régulation des Postes	3104,4980,3796,52,3653,1030,2,22,2,58,13,1393,1909
 Autorité de Régulation des TIC de Côte	5605,539
 Autorité de Régulation des Technologies de Communication	14549
 Autorité de Régulation des Technologies de Communication CEB	14573
 Autorité de Régulation des Transports Ferroviaires	16175
-Autorité de Régulation des Télécommunications	2418,958,500,1804,15,414,35,97,628,148,2,1112,2764,1,1,1,8,5,240,444,3824,291,226,134,1762,34,239,183,23,38,50,13,5
+Autorité de Régulation des Télécommunications	2418,958,500,1804,15,414,35,97,628,148,2,1112,2764,1,1,1,8,5,240,444,3824,291,226,134,1762,34,239,183,23,38,50,13,5,1573
 Autorité de Régulation des Télécommunications de CBA Côte	3604
 Autorité de Régulation des Télécommunications de Côte	3139,310,155,489,18
 Autorité de Régulation du Marché des Capitaux	13468
@@ -1531,6 +1531,7 @@ SYGMA Automated Gross Amount System	969
 SYGMA Système de Gros Montants Automatisé SWIFT	11960
 SYGMA- Système de Gros Montants Automatisé	969
 SYSTAC- Automated Clearing System	969
+SYSTEMES D'INFORMATION ARPT AUTORITE DE REGULATION	19986
 SYstème DOuaNIer Automatisé	15549
 Sector Subsector Tipo de Entidade Autoridades	6970
 Secção. SECÇÃO V Autoridade Cambial Artigo	18800

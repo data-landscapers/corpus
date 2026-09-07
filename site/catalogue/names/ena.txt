@@ -168,7 +168,7 @@ ENABLING THE BANK	15023
 ENABLING THE RIGHTS OF A DATA	14435
 ENACE	15574
 ENACE-1	15574
-ENACT	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+ENACT	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 ENACT Africa	19653,183
 ENACT ENACT Africa	11887,266,1,9,178,7517,1
 ENACT ENACT Africa FAO Food and Agriculture	10759,78,1052,451,7598
@@ -209,6 +209,7 @@ ENASTIC URL	19174
 ENASTIC Votre	18902
 ENATEL	15366
 ENactep	18468
+EU and Enabel. Specific Data Flow	20004
 EU. The Belgian Development Agency ENABEL	11536
 East Isolated Network ENACE-1	15574
 Ebot Ebot Enaw	4210,493,6307
@@ -218,7 +219,7 @@ Ecosystem Enabler	12241
 Ecosystem Enablers	14819
 Education Enabling Factor	12175
 Education Enabling Factor Due	12175
-Enabel	256,101,283,2,442,151,2855,2023,769,94,1667,1949,50,223,1562,879,43,25,186,624,1921,642,1358,220,81,1239
+Enabel	256,101,283,2,442,151,2855,2023,769,94,1667,1949,50,223,1562,879,43,25,186,624,1921,642,1358,220,81,1239,359
 Enabel Level	10865
 Enabel S.A. Global ContractFin Services	16747
 Enabel Training Plan	19641
@@ -398,7 +399,7 @@ Enabling the Seychelles Qualifications Authority	18950
 Enabling-document	2662
 Enabling5I.nEfnraasbtlriuncgtIunrfera	10157
 Enache	14932
-Enact	958,203,3367,2266,2605,3113,163,620,25,667,35,412,384,61,10,1983,103,36,128,18,103,1503,771
+Enact	958,203,3367,2266,2605,3113,163,620,25,667,35,412,384,61,10,1983,103,36,128,18,103,1503,771,470
 Enact Data Protection Act Enactment of Act	18485
 Enact National	12356
 Enact National AI Policy Act	4528,7984
@@ -579,8 +580,8 @@ Policy and Enabling Regulations Equatorial Guinea	16942
 Practical and Enabling Cooperation H.E. Dr Thani	5086
 Presidential Assent Enacted Rejected Withdrawn All	17388
 Presidential Enabling Business Environment Council's	7560
-Private Capital Enabled	11469,7382
-Private Capital Enabling	1264,440,163,386,38,182,983,106,42,176,873,1886,4229,649,143,345,521,685,904,561,378,704,1,2,308,63,112,43,467,21,1684,492,394,39,123,256
+Private Capital Enabled	11469,7382,1151
+Private Capital Enabling	1264,440,163,386,38,182,983,106,42,176,873,1886,4229,649,143,345,521,685,904,561,378,704,1,2,308,63,112,43,467,21,1684,492,394,39,123,256,327,12
 Private Sector Development Business Enabling Environment	15424
 Prof. Enaw	7336
 Project Enable Africa Nigeria Riversands Incubation	15460

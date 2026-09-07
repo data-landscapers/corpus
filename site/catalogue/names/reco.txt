@@ -43,7 +43,7 @@ Absence of Recognition	12246
 Abstract Electronic Health Records	11990
 Accelerated Health and Education Recovery Program Launch	15244
 Accelerated Recovery Framework	7760,11421
-Accessibility of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Accessibility of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Accessible Record	12185
 Account Recovery	13037
 Accreditation Ceremony Reflects Official Recognition	13816
@@ -343,6 +343,7 @@ DADOS RECOLHIDOS	794
 DATA GOVERNANCE IN MOZAMBIQUE Findings and Recommendations	4214
 DATA IN THE SHARED HEALTH RECORD	2709
 DATA RECORDS SMS Volume	19237
+DE L'HABITAT RECO RELAIS COMMUNAUTAIRE SMSI	19986
 DE LA RECONSTRUCTION DES ZONES RECONNUES	15999
 DEMAND DRIVER RECOMMENDATIONS S	11857
 DES CONDITIONS DE RECOURS	18901
@@ -457,7 +458,7 @@ Disaster Recovery Test Tier	10721
 Disaster Recovery and Business Continuity	16924
 Disaster Recovery and Business Continuity Plans	4610
 Disaster Reduction and Recovery Government of Angola	10763
-Disclosure of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Disclosure of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Discrepancies Between WEZESHA Portal and Manual Records	19585
 Discussion and Recommendations	4439
 Disposal of Obsolete Records	13398
@@ -525,6 +526,7 @@ Effect of Recognition	3503
 Egypt Records the Lowest Mobile Complaint Rate	11642
 El Camino Recorrido	16893
 Electricity Sector Recovery Plan	1413,157,4830
+Electricity Sector Recovery Project	20002
 Electronic Continuety of Care Record	11980
 Electronic Document and Records Management System	3042,9283,4791,2544,29
 Electronic Document and Records Management Systems	17116
@@ -879,6 +881,7 @@ LEGAL RECOGNITION OF ELECTRONIC TRANSACTIONS	28
 LEGAL RECOGNITION OF ELECTRONIC TRANSACTIONS Section	28
 LES RECOURS FAUTE D'ACCEPTATION ET FAUTE	17439
 LESSONS AND RECOMMENDATIONS	17849
+LESSONS AND RECOMMENDATIONS....26 ANNEX	19988
 LGRCIS Without Recovery	19585
 LIBELLE RAR GLOBAL MONTANT RAR RECOUVRES	16328
 LPF. Recommendation	12338
@@ -1212,6 +1215,7 @@ Post-Pandemic Reconstruction	14932
 Postconflict Reconstruction. United Nations and World Bank	16942
 Postos de Recolha	10772
 Power Sector Recovery Additional Financing	11469
+Power Sector Recovery Project	20002
 Power of Attorney. Recognising	8866
 Preamble Recognizing	15977
 President. Priority Recommendations The EU EOM	12201
@@ -1506,6 +1510,7 @@ Recolhedor	11582
 Recolher	10777,605,22,26,4015,81,3274
 Recolhidos	15385,3370
 Recolte	19221
+Recomandations	19986
 Recombinante	15930
 Recomenda	16325
 Recomenda-se	11448
@@ -1533,7 +1538,7 @@ Recommandation	1005,9395,2990,524,721,877,13,155,83,376,153,268,888,301,96,9,18,
 Recommandation Sous-recommandations Renforcement	17856
 Recommandation T2	16722
 Recommandation UIT	5361
-Recommandations	998,249,1719,430,4603,892,1930,53,2,1167,1298,49,78,45,336,579,44,62,3,37,841,59,19,90,102,84,79,88,32,44,91,2,46,44,133,298,15,1189,6,8,1,11,5,11,24,209,17,123,52
+Recommandations	998,249,1719,430,4603,892,1930,53,2,1167,1298,49,78,45,336,579,44,62,3,37,841,59,19,90,102,84,79,88,32,44,91,2,46,44,133,298,15,1189,6,8,1,11,5,11,24,209,17,123,52,1689,12
 Recommandations ACT-07 Chiffrementdes	15525
 Recommandations Action Responsables Horizon	15512
 Recommandations Alimentaires Nationales	15500
@@ -1553,6 +1558,7 @@ Recommandations Tenant	18297
 Recommandations Un	17872
 Recommandations des Assises	17861
 Recommandations des Assises Nationales	17861
+Recommandations des Etats Généraux	19986
 Recommandations. Piliers	16641
 Recommande	550,18,20
 Recommander	16545
@@ -1915,7 +1921,7 @@ Recordkeeping	18556
 Recordkeeping and Archival Requirements	3861
 Recordlinkagefor	8606
 Recordou	5150,10832
-Records	771,199,278,85,141,304,210,1142,537,194,46,438,667,963,216,749,45,1619,1,311,321,613,5,957,167,874,7,354,3,36,72,31,3,54,43,74,1,120,3,323,273,131,660,505,19,163,2,124,26,9,18,1,27,62,159,745,243,688,282,129,6,1121,89,19,123,1,323,134,155,371,43,39,19,88,113,33
+Records	771,199,278,85,141,304,210,1142,537,194,46,438,667,963,216,749,45,1619,1,311,321,613,5,957,167,874,7,354,3,36,72,31,3,54,43,74,1,120,3,323,273,131,660,505,19,163,2,124,26,9,18,1,27,62,159,745,243,688,282,129,6,1121,89,19,123,1,323,134,155,371,43,39,19,88,113,33,108
 Records Activity	18481
 Records All CPD	13381
 Records Authority TGDC	19584
@@ -2091,7 +2097,7 @@ Reputation and Track Record Check the CSP	19968
 Required Records and Information	13606
 Research Institutions Recommend	17114
 Reservations Recognition	15968,2962
-Resilience and Recovery Project	18809
+Resilience and Recovery Project	18809,1220
 Resilience and Recovery Project URL	18809
 Resolve Appeals and Legal Recourses Granted	12389
 Respondent. Records	17165,1405
@@ -2322,7 +2328,7 @@ Umthombo National Health Records Dataset	12512
 Unallocated Reserve Transfers Finding Records	13420
 Unit DR Disaster Recovery DTLT Desktop	13185
 United Nations Principles and Recommendations	12151,186,30,1000,6175
-United Nations. Recognizing	10969,915,1,10,264,1,44,1,146,4,132,7375,3,87
+United Nations. Recognizing	10969,915,1,10,264,1,44,1,146,4,132,7375,3,87,43
 União Europeia. Reconhecida	18877
 Unresolved Recommendations	19585
 Update and Reconciliation	12364
@@ -2331,7 +2337,7 @@ Update of Records Only	16088
 Update of Records Only Outside NIA	16088
 Urgence de Reconstitution Collective	16529
 Use Only Recovery of Economic Activity for Liberian	17000
-V. LESSONS AND RECOMMENDATIONS	11924,3500,87,90,62,68,705,516,910,100,803,60
+V. LESSONS AND RECOMMENDATIONS	11924,3500,87,90,62,68,705,516,910,100,803,60,1163
 V. LESSONS AND RECOMMENDATIONS Lesson	15511
 V. LESSONS AND RECOMMENDATIONS Official Use	16436
 V. LESSONS AND RECOMMENDATIONS Project	15424

@@ -335,6 +335,7 @@ DHIS District Health Information System	2775
 DHIS District Health Information System DHS	13681
 DHIS District Health Information System USAID	766
 DHIS-2 District Health Information System	15479
+DHIS2 DISTRICT HEALTH INFORMATION SOFTWARE	19986
 DHIS2 District Health Information Software	14666,393,3609,876,123
 DHIS2 District Health Information System	10829,52,679
 DHIS2 District Heath Information Software	13341
@@ -476,7 +477,7 @@ Directorate of Distance and E-Learning DP	12175
 Disabilities Distr	17296,1938
 Dispositif District	14625
 Dist. Pros Unit	14781
-Distance	737,1251,2104,2379,2652,543,522,526,1204,1,25,146,85,74,84,50,20,897,90,134,904,347,9,297,163,3,294,202,193,1163,58,39,757,168,191,118,481,630
+Distance	737,1251,2104,2379,2652,543,522,526,1204,1,25,146,85,74,84,50,20,897,90,134,904,347,9,297,163,3,294,202,193,1163,58,39,757,168,191,118,481,630,456
 Distance Côte	15936
 Distance Education	14775,857
 Distance Education FT	14775
@@ -698,7 +699,8 @@ Distribution Transformers Loading	12358
 Distribution Unit PMC Preventive Maintenance Compliance	13185
 Distribution Utilise	14674
 Distribution Wheeling Charge	19976
-Distribution and Access Project	1538,16946
+Distribution and Access	20024
+Distribution and Access Project	1538,16946,1540
 Distribution and Access Project. Budget	1538
 Distribution and Density	19715
 Distribution and Expiry of Drugs	14546
@@ -1385,6 +1387,7 @@ Duty of District Registrar	12523
 Duty of District Returning Officer	18459
 Dweh Grand Bassa Districts	17239
 ECONET INFRACO Distributed Power Africa	4896
+EDG. Distribution	20002
 ELECTRICITY DISTRIBUTION	18947
 ELECTRICITY DISTRIBUTION The Government of Rwanda	12358
 ELEVES SELON LA DISTANCE PARCOURUE V.5.1	10847
@@ -2411,7 +2414,7 @@ Thyolo District Council Office	13122
 Thyolo and Chiradzulu District Councils	12980
 Tobacco Distribution	4972
 Toliara. Centres Hospitaliers de Reference de District	14442
-Tonkolili District	18460,4,33,14
+Tonkolili District	18460,4,33,14,1519
 Tororo Resident District Commissioner	2928
 Total. District	19413
 Town and District District Steering Committee Governmental	19520

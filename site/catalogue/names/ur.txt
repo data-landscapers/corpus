@@ -464,6 +464,7 @@ Commune Urbaine	11597
 Commune Urbaine de Casablanca	17448
 Commune Urbaine de Diffa	18180
 Commune Urbaine de Kidal	17819
+Commune Urbaine de Mandiana	20000
 Commune Urbaine de Ségou. Suivant	17841
 Commune Urbaine de Tétouan	17448
 Communication Technologies Authority URL	14780,45
@@ -1751,6 +1752,7 @@ PUBLIC ANNOUNCEMENT URL	18961
 PUD Detailed Urban Plan RAP Resettlement	18293
 Pabré URL	16536
 Paiement URL	18973
+Paiements Urgents	19994
 Paki Urban Limited	7515
 Pamela Ursula NZAMBA	15631
 Panafricain URL	17465
@@ -2568,6 +2570,7 @@ URL MTN's SENS	10793
 URL Request	15630
 URL Requests	15630
 URL Requests Get	15630
+URL and RMB-amount	2159
 URL-many-records	13079
 URL-safe	11952
 URL-specific	11259
@@ -2943,7 +2946,7 @@ Urbanism	2598,2347,5816
 Urbanism and Cadastre	4064
 Urbanism and Habitat	13896
 Urbanism and Housing	16275
-Urbanisme	235,2368,442,179,157,15,742,2453,291,788,255,53,913,2009,2,2427,113,281,175,7,1461,9,97,70,13,25,132,45,176,3,65,19,27,128,143,23,77,97,22,74,3,53,51,637,93,136,233,10,10,5,2,32,9,10,7,5,8,1,62,4,1,12,8,2,27,45,63,9,20,9,9,40,59,5,50,20,24,21,4,2,19,456,141,96,69,4,16,8,79,4,62,39
+Urbanisme	235,2368,442,179,157,15,742,2453,291,788,255,53,913,2009,2,2427,113,281,175,7,1461,9,97,70,13,25,132,45,176,3,65,19,27,128,143,23,77,97,22,74,3,53,51,637,93,136,233,10,10,5,2,32,9,10,7,5,8,1,62,4,1,12,8,2,27,45,63,9,20,9,9,40,59,5,50,20,24,21,4,2,19,456,141,96,69,4,16,8,79,4,62,39,592
 Urbanisme Cible	15936
 Urbanisme Dans	17907
 Urbanisme Des	3396

@@ -347,7 +347,7 @@ Geografia	414,15358,1331,1676
 Geografia da Conectividade Até	9559
 Geografia1	15772
 Geografía	16875,94
-Geographic	11,546,1539,1508,183,2639,322,84,2927,398,606,5,31,30,108,27,39,132,27,13,20,330,35,135,184,37,411,12,19,678,214,145,605,666,415,48,75,168,101,7,234,318,854,38,215,18,128,26,412,139,7,37,203,9,769,17,333,740
+Geographic	11,546,1539,1508,183,2639,322,84,2927,398,606,5,31,30,108,27,39,132,27,13,20,330,35,135,184,37,411,12,19,678,214,145,605,666,415,48,75,168,101,7,234,318,854,38,215,18,128,26,412,139,7,37,203,9,769,17,333,740,45
 Geographic Agent	12297
 Geographic Approach	11252
 Geographic Approach The EMR	11252
@@ -417,7 +417,7 @@ Geographical Distribution of ATMs Region	7763
 Geographical Distribution of Bank Branches Regions	7763
 Geographical Distribution of EISOs. Compared	19534
 Geographical Distribution of Persons	12460
-Geographical Identifier	14456,510,836
+Geographical Identifier	14456,510,836,4188
 Geographical Identifier Ethiopia	14038
 Geographical Indication	18810
 Geographical Information	13978
@@ -693,6 +693,7 @@ Grade One Magistrate Geoffrey Akena	4235
 Gross Domestic Product GEMS Geo-Enabling	11560
 Group of Countries Geographical Identifier Cote	16032
 Groups Monitor Seasonal and Geographic Variations Strengthen	17285
+Guinée Pr. KI-ZERBO Georges Alfred	19986
 Gulu Regional Manager Eng. George Kyalikunda	9781
 Guy Georges MBACKA	15524,34
 Guy Georges MBACKA DU DEVELOPPEMENT DURABLE	15558
@@ -1047,7 +1048,7 @@ Technology Geographic Coverage Population Coverage	19728
 Texture Geometric	17140
 Tharaka MP George Murugara	9545
 Thriving AI Ecosystem KICTANet's Dr. George	12104
-Tina George	16626,241
+Tina George	16626,241,3123
 Tina George Karippacheril	10985,8252
 Tina George and Phillippe Leite. World Bank	11133
 Tinubu Seeks China’s Geophysical Data Partnership	9018
@@ -1082,6 +1083,7 @@ Water Environment and Geo Services Ltd Supply	15052
 Web Geovisualisations	13031
 Well Geovani Lawson	19354
 Western Africa Geography	11889
+Western Africa. Geography	19987
 Wind Geothermal	12256
 Working Children Coverage Geographic Coverage	19613
 World Bank Country Manager Georgia Wallen	6523,7695,100

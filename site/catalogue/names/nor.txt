@@ -226,6 +226,8 @@ Compute North	11135
 Concurrence Service Informatique Service Normalisation	13301
 Conduct of District Level Elections for Nkoranza North	15927
 Conseil National de Normalisation	15416,2460
+Convention des Lettres de Change Non Normalisés	19994
+Convention des Lettres de Change Normalisés	19994
 Convergence That Matters for Broader North	5340
 Copperbelt North Western	12431
 Copperbelt and Northwestern Provinces	3524
@@ -347,7 +349,7 @@ Eastern and Northern	12947,6742
 Eastern and Northern Sudan	15342
 Eastern and Northern Uganda	19660,29
 Echos Du Nord	15968
-Ecole Normale	15376,2711
+Ecole Normale	15376,2711,1901
 Ecole Normale Superieure	14472
 Ecole Normale Supérieure	13364,2012,98,187,2168,1143
 Ecole Normale Supérieure EPT	15673
@@ -610,7 +612,7 @@ Kilifi North	7000,3313
 Kilifi North MP	7000
 Kingdom of Norway	13144,3265
 Kirsi Passoré Nord	15715
-Km du Nord	16641
+Km du Nord	16641,3345
 Kombo North	16926
 Kombo North. Now	16915
 Kongo-Central and North-Kivu	11918
@@ -638,7 +640,7 @@ La Norma Especial de Difusión de Datos	16898
 La-Toden Passoré Nord	15715
 Lake Victoria North	12151
 Lake Victoria North Water Service Board	14546
-Latitude Nord	16641
+Latitude Nord	16641,3345
 Latitude Norte	18757
 Laura Starita Alexandra Norris	10977
 Laws of Northern Section	11857
@@ -1141,7 +1143,7 @@ Norme Spéciale de Diffusion des Données OCDE	10874
 Norme Spéciale de Diffusion des Données ODD	18291
 Norme UEMOA	18315
 NormeITIE	17838
-Normes	6959,4006,1078,1298,387,113,582,65,1,1,132,504,303,113,38,4,11,75,54,20,157,35,7,232,20,127,296,1201,9,2,27,25,20,81,3,77,42,210,7,1365,163
+Normes	6959,4006,1078,1298,387,113,582,65,1,1,132,504,303,113,38,4,11,75,54,20,157,35,7,232,20,127,296,1201,9,2,27,25,20,81,3,77,42,210,7,1365,163,136
 Normes Archivistiques	16245
 Normes Chef de Service	16099
 Normes Dans	17882
@@ -1291,12 +1293,12 @@ North Kordofan	10192,142,4563,58,251,38,98
 North Kordofan SNAPSHOT	15206
 North Kordofan State	14955
 North Kordofan and East Nile Khartoum	15342
-North Korea	6825,646,4138,2505,5823
+North Korea	6825,646,4138,2505,5823,72
 North Korea North Macedonia Northern Mariana	11470,7872
 North Korea-linked	4127
 North Korean-backed	4127
 North Macedo-	17743
-North Macedonia	6613,1197,2954,21,59,161,604,1511,2351,2652,455
+North Macedonia	6613,1197,2954,21,59,161,604,1511,2351,2652,455,1431
 North Macedonia EUR UMI	17743
 North Macedonia N	10714
 North Macedonia National ID System	10714

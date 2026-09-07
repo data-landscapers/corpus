@@ -312,7 +312,7 @@ Grievance Mechanism GRM Grievance Redress Mechanism	17114
 Grievance Redress	2889,9293,4418,302,197
 Grievance Redress Committees	17114,1521
 Grievance Redress Management	15019
-Grievance Redress Mechanism	1264,20,583,121,1001,7774,200,892,69,296,33,82,643,12,64,278,60,400,761,357,2,143,456,3,4,35,48,57,1,2,2,119,123,239,292,524,139,15,848,339,54,157,22,101,174,436,341,57,182
+Grievance Redress Mechanism	1264,20,583,121,1001,7774,200,892,69,296,33,82,643,12,64,278,60,400,761,357,2,143,456,3,4,35,48,57,1,2,2,119,123,239,292,524,139,15,848,339,54,157,22,101,174,436,341,57,182,163
 Grievance Redress Mechanism Beneficiaries	12182
 Grievance Redress Mechanism Ensure	12253
 Grievance Redress Mechanism GPE Internally Displaced	11905
@@ -382,6 +382,7 @@ Inclusive Development GRM Grievance Redress Mechanism	1264,14357,2680
 Inclusive Development Grievance Redress Mechanism Gross	15553
 Inclusive Development HLO Grievance Redress Mechanism	3604
 Income HEIS Grievance Redress Service IBRD	16144
+Index GRM Grievance Redress Mechanism HCI	19988
 Industrie Redevabilité	2514,842
 Informação Pode Reduzir O Custo	8003
 Infrastructure SLAs Component Availabili Redundancy	11952
@@ -601,7 +602,7 @@ Plataforma Rede Cidadã	12857
 Political and Reduce	15845
 Poverty Reduction	10964,899,157,903,39,1867
 Poverty Reduction Effects of Mobile Broadband	15621
-Poverty Reduction Policies	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Poverty Reduction Policies	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Poverty Reduction Policies and Goals	16861
 Poverty Reduction Strategy	11924,5019,196,2380
 Poverty Reduction Strategy GRA Ghana Revenue	236
@@ -614,7 +615,7 @@ Poverty Reduction and Growth Strategy	18823
 Poverty Reduction and Growth Strategy Paper. TCLE	11916
 Poverty Reduction and Resilience Building	16951
 Poverty Reduction and Resilience Building Thematic Policy	16951
-Poverty Reduction and Shared Prosperity	11924,3500,87,90,2361
+Poverty Reduction and Shared Prosperity	11924,3500,87,90,2361,2026
 Poverty Reduction and Shared Prosperity. The Project	16436
 Poverty Reduction and Social Protection	12964,14,82
 Poverty Reduction and Social Protection Division	13191
@@ -1065,7 +1066,7 @@ Redsparkdigital	12478
 Reducción	1701,15174,23
 Reducción de Atrasos Internos	4209
 Reducción de Emisiones	16875
-Reduce	1000,161,667,160,1998,274,704,258,4,19,1,1,286,142,1,1272,1,1654,520,1696,10,27,36,95,144,5,13,7,58,62,80,501,49,80,55,173,15,57,73,25,395,183,43,75,15,156,63,718,642,87,16,4,141,25,11,7,32,96,22,49,260,132,102,67,120,94,38,61,215,619,4,31,16,19,24,5,40,103,1256,88,30,44,263,724,13,50,82,81,56,165
+Reduce	1000,161,667,160,1998,274,704,258,4,19,1,1,286,142,1,1272,1,1654,520,1696,10,27,36,95,144,5,13,7,58,62,80,501,49,80,55,173,15,57,73,25,395,183,43,75,15,156,63,718,642,87,16,4,141,25,11,7,32,96,22,49,260,132,102,67,120,94,38,61,215,619,4,31,16,19,24,5,40,103,1256,88,30,44,263,724,13,50,82,81,56,165,44
 Reduce Agricultural Statistics Gaps and Increase	19519
 Reduce Cash Payment Transactions GOAL	15679
 Reduce Cost	2595
@@ -1094,7 +1095,7 @@ Reduce the Digital	16884
 Reduce the NCR	14897
 Reduce the Risk of Occupational Exposure	11218
 Reduce the Urban-Rural Digital	4126
-Reduced	208,187,504,41,30,858,160,440,660,810,541,457,350,1,32,396,439,19,299,755,17,344,158,57,209,158,993,659,541,92,364,40,337,25,3,14,699,90,188,35,1,3,144,2,25,35,79,40,230,86,150,35,40,15,38,52,233,263,23,1025,32,136,38,50,12,132,349,40,35,106,301,281,195,195,253,1,38,20,100,83,16,15,207,1114,373,433,235,13,52,55,58,18
+Reduced	208,187,504,41,30,858,160,440,660,810,541,457,350,1,32,396,439,19,299,755,17,344,158,57,209,158,993,659,541,92,364,40,337,25,3,14,699,90,188,35,1,3,144,2,25,35,79,40,230,86,150,35,40,15,38,52,233,263,23,1025,32,136,38,50,12,132,349,40,35,106,301,281,195,195,253,1,38,20,100,83,16,15,207,1114,373,433,235,13,52,55,58,18,273,2
 Reduced Affordability of Digital Goods and Services	14932
 Reduced CO₂	15775
 Reduced Coping Strategies	12978,4307
@@ -1134,7 +1135,7 @@ Reducing Default Rates	7334
 Reducing Dependence	14818
 Reducing Digital Gender Divide	12241,839
 Reducing Emissions	16996,105,39
-Reducing Fragility	15257
+Reducing Fragility	15257,4793
 Reducing Fraud and Identity Malawi's National	12241
 Reducing Fraud and Identity Theft	13080
 Reducing Inequality	970

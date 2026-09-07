@@ -161,7 +161,7 @@ Cultura UNICEF GEN Fundo	11557
 Cultura de Cibersegurança	4146,14799,1
 Cultura de Cibersegurança Com	18788
 Culturais	11547,15
-Cultural	582,358,614,1113,291,1474,1279,1235,2,842,340,2839,169,77,669,1,10,99,157,8,1,45,5,4,32,105,4,132,130,388,75,278,119,84,1645,267,764,19,75,772,11,43,603,256,362,109,309,360,128,236,22,320,3,87
+Cultural	582,358,614,1113,291,1474,1279,1235,2,842,340,2839,169,77,669,1,10,99,157,8,1,45,5,4,32,105,4,132,130,388,75,278,119,84,1645,267,764,19,75,772,11,43,603,256,362,109,309,360,128,236,22,320,3,87,43
 Cultural Activities	16275
 Cultural Affairs	16872,103,18,44
 Cultural Affairs and Tourism	3239,13722
@@ -189,7 +189,7 @@ Cultural Exchange Programme. The Vice President	18563
 Cultural Exchange Programmes	14742
 Cultural Fear	9879
 Cultural Group	16256
-Cultural Heritage	1264,724,1468,7373,135,1001,1509,49,1030,23,334,2016,10,163,15,2711,22
+Cultural Heritage	1264,724,1468,7373,135,1001,1509,49,1030,23,334,2016,10,163,15,2711,22,141
 Cultural Heritage Act	18370
 Cultural Heritage Construction	1988
 Cultural Heritage Data	3861
@@ -241,7 +241,7 @@ Culturally	17114
 Culturally Develop	4126
 Culturally Grounded Misogyny Detection Framework	7790
 Culturas Autóctonas	4209
-Culture	1200,47,741,820,150,438,91,338,301,276,493,351,305,43,1238,335,381,251,44,135,254,5,32,449,32,38,103,515,463,21,71,32,307,219,328,284,3,1,16,123,940,32,99,67,479,80,1,318,100,84,87,124,43,16,56,108,523,32,75,56,154,82,86,81,167,212,50,28,12,13,9,5,19,34,34,44,89,2,12,121,6,79,3,63,81,126,50,229,11,131,14,52,165,18,66,26,7,164,28,73,1,220,33,169,8,153,3,2,4,11,12,4,10,12,9,4,4,38,12,10,19,4,9,8,33,15,4,26,10,3,26,53,22,36,11,48,5,15,19,14,418,8,92,32,127,92,102,11,14,115,16,153,1,64
+Culture	1200,47,741,820,150,438,91,338,301,276,493,351,305,43,1238,335,381,251,44,135,254,5,32,449,32,38,103,515,463,21,71,32,307,219,328,284,3,1,16,123,940,32,99,67,479,80,1,318,100,84,87,124,43,16,56,108,523,32,75,56,154,82,86,81,167,212,50,28,12,13,9,5,19,34,34,44,89,2,12,121,6,79,3,63,81,126,50,229,11,131,14,52,165,18,66,26,7,164,28,73,1,220,33,169,8,153,3,2,4,11,12,4,10,12,9,4,4,38,12,10,19,4,9,8,33,15,4,26,10,3,26,53,22,36,11,48,5,15,19,14,418,8,92,32,127,92,102,11,14,115,16,153,1,64,420
 Culture AI	2958
 Culture Any Arab	2958
 Culture Applications	2958
@@ -657,7 +657,7 @@ Scientific and Cultural Organization AUC African Union	10835,3,130,902,16,466,1,
 Scientific and Cultural Organization UNFPA United Nations	15604,3020
 Scientific and Cultural Organization UNHCR United Nations	17157,1754
 Scientific and Cultural Organization UNICEF United	12970
-Scientific and Cultural Organization UNICEF United Nations	13312,2,3791,765,895
+Scientific and Cultural Organization UNICEF United Nations	13312,2,3791,765,895,1223
 Scientific and Cultural Organization UNWTO United Nations	2775
 Scientific and Cultural Organization UPI Unique Project	16996
 Scientific and Cultural Organization USA United States	12512

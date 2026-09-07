@@ -208,7 +208,7 @@ Enquête FSMS	17844
 Enquête Femme Homme	13300
 Enquête Har-	19237
 Enquête Harmonise	17945
-Enquête Harmonisée	737,6938,3199,675,11,2186,58,2580,236,58,1267,33,99
+Enquête Harmonisée	737,6938,3199,675,11,2186,58,2580,236,58,1267,33,99,1911
 Enquête Harmonisée des Condi-	19237
 Enquête INSTAT	17842
 Enquête Intégrale	737,11621,45,10,2725
@@ -256,6 +256,7 @@ Enquête de Satisfaction des Usagers des Services	18422
 Enquête de Suivi	18291
 Enquête de Séroprévalence	15423
 Enquête de Séroprévalence Nationale	14622
+Enquête224	2159
 Enquêtedesatisfaction	18297
 Enquêtes	7655,1236,1983,104,1065,1282,919,181,1004,50,116,117,136,327,75,370,826,382,16,1,100,37,309,662,297,100
 Enquêtes Cadre	18291

@@ -353,7 +353,7 @@ Base. Ce	15541
 Baseada	15694
 Baseado	18799
 Baseband Security	10721
-Based	236,195,340,128,59,12,191,58,9,1,14,21,20,79,284,164,3,4,10,10,29,5,116,1001,38,134,118,80,5,123,96,21,48,93,117,264,88,439,23,46,126,48,76,141,131,204,85,18,311,216,261,89,1,1,1,1,97,10,132,77,173,9,8,8,2,13,105,114,42,42,14,39,231,96,51,185,86,124,211,10,125,24,144,19,54,102,57,1,6,280,6,72,83,27,20,408,20,98,112,291,503,1,4,11,6,9,18,7,10,12,15,9,1,15,82,1,21,19,126,1,3,2,4,2,50,3,41,1,25,27,91,19,25,45,56,38,15,3,264,10,2,6,4,38,2,15,2,40,22,20,27,118,7,12,15,16,26,6,13,5,5,41,28,3,1,29,9,3,6,3,6,3,11,28,18,7,48,106,2,55,6,6,31,190,15,6,3,26,2,29,67,6,3,11,84,164,2,17,1,4,13,36,3,30,43,193,12,75,127,70,53,19,22,24,57,14,13,11,283,132,157,13,6,2,33,35,7,17,31,12,10,8,5,19,1,1,5,69,19,7,3,8,95,35,34,46,128,27,12,13,23,24,2,7,31,7,35,21,27,3,54,1,2,2,30,32,18,17,2,270,1,111,43,1,50,146,38,14,31,26,121,105,120,8,1,4,1,14,5,4,7,1,1,7,10,19,2,3,1,12,3,7,11,3,7,26,32,71,15,13,12,1,17,23,32,27,6,12,60,87,37,17,12,33,240,127,14,9,13,28,28,28,172,131,8,8,50,11,100,67,39,35,50,36,57,11,11,11,10,9,3,16,26,36,350,8,39,170,87,3,32,8,55,18,3,17,38,30,29,47,14,12,7,6,14,15,6,45,17,17
+Based	236,195,340,128,59,12,191,58,9,1,14,21,20,79,284,164,3,4,10,10,29,5,116,1001,38,134,118,80,5,123,96,21,48,93,117,264,88,439,23,46,126,48,76,141,131,204,85,18,311,216,261,89,1,1,1,1,97,10,132,77,173,9,8,8,2,13,105,114,42,42,14,39,231,96,51,185,86,124,211,10,125,24,144,19,54,102,57,1,6,280,6,72,83,27,20,408,20,98,112,291,503,1,4,11,6,9,18,7,10,12,15,9,1,15,82,1,21,19,126,1,3,2,4,2,50,3,41,1,25,27,91,19,25,45,56,38,15,3,264,10,2,6,4,38,2,15,2,40,22,20,27,118,7,12,15,16,26,6,13,5,5,41,28,3,1,29,9,3,6,3,6,3,11,28,18,7,48,106,2,55,6,6,31,190,15,6,3,26,2,29,67,6,3,11,84,164,2,17,1,4,13,36,3,30,43,193,12,75,127,70,53,19,22,24,57,14,13,11,283,132,157,13,6,2,33,35,7,17,31,12,10,8,5,19,1,1,5,69,19,7,3,8,95,35,34,46,128,27,12,13,23,24,2,7,31,7,35,21,27,3,54,1,2,2,30,32,18,17,2,270,1,111,43,1,50,146,38,14,31,26,121,105,120,8,1,4,1,14,5,4,7,1,1,7,10,19,2,3,1,12,3,7,11,3,7,26,32,71,15,13,12,1,17,23,32,27,6,12,60,87,37,17,12,33,240,127,14,9,13,28,28,28,172,131,8,8,50,11,100,67,39,35,50,36,57,11,11,11,10,9,3,16,26,36,350,8,39,170,87,3,32,8,55,18,3,17,38,30,29,47,14,12,7,6,14,15,6,45,17,17,14,14,7
 Based Allocations	18809,475
 Based Approach. Brima	18449
 Based Black Economic Empowerment CBM Citizen-based	11224
@@ -399,7 +399,7 @@ Basel Standards	7535
 Basel and Financial Stability Institute	6938
 Basel and Insurance Core	14997
 Baselin1e.7AsBsausmelpinteioAnssumptions	10157
-Baseline	16,220,553,181,18,11,236,391,143,59,655,2,4,7,216,60,832,305,244,14,35,15,43,89,1003,225,485,368,2,147,969,470,2139,564,47,113,255,82,44,9,198,109,7,339,16,48,187,252,133,164,334,37,237,15,45,476,52,18,32,21,828,161,37,14,8,120,5,389,48,3,54,5,62,12,240,167,292,178,234,24,75,157,213,532,109,175,226,99,30,24,20,162,129,101,58,302,197,94,66,5,31,152,18,42
+Baseline	16,220,553,181,18,11,236,391,143,59,655,2,4,7,216,60,832,305,244,14,35,15,43,89,1003,225,485,368,2,147,969,470,2139,564,47,113,255,82,44,9,198,109,7,339,16,48,187,252,133,164,334,37,237,15,45,476,52,18,32,21,828,161,37,14,8,120,5,389,48,3,54,5,62,12,240,167,292,178,234,24,75,157,213,532,109,175,226,99,30,24,20,162,129,101,58,302,197,94,66,5,31,152,18,42,99,2,11
 Baseline Action Plan Target Year Policy	18532
 Baseline Actual	2712,1941,6742,833,39,173,3179,350,44,625,362,96,374,434,102,344,4,1,4,175,258,25,425,7
 Baseline Added	15663
@@ -433,6 +433,7 @@ Baseline Cybersecurity Measures. Define	1777
 Baseline Cybersecurity Measures. NCC	1777
 Baseline Data	12399,4781
 Baseline Data Collection	16963
+Baseline ECE	19988
 Baseline Education Census	19743,44
 Baseline End Target	1284
 Baseline Evaluation	13005
@@ -440,6 +441,7 @@ Baseline Framework	4610
 Baseline Growth	12053
 Baseline Indicators	10775
 Baseline Intermediate Targets End Target	10829,135,2368,2186,1378,26
+Baseline Jul	20001
 Baseline Moderate	10718
 Baseline Month	6579,349
 Baseline New Retail	4653
@@ -469,6 +471,8 @@ Baseline Surveys and Evaluation Reports of Under Five	19541
 Baseline Systems Assessment Report	12138
 Baseline Systems Assessment Report. Nairobi	12138
 Baseline TBC	13058
+Baseline TBD	19988
+Baseline TBD Year	19988
 Baseline Target	12399,6059
 Baseline Target Actual Actual	10779
 Baseline Target Birth	18458
@@ -490,7 +494,7 @@ Baselines	17116
 Basemaps	13375
 Basengezi	14172
 Basepaws	10165
-Bases	3118,1091,2761,1667,3318,1386,1196,963,54,26,3,416,57,842,2,942,103,148,226,458,444
+Bases	3118,1091,2761,1667,3318,1386,1196,963,54,26,3,416,57,842,2,942,103,148,226,458,444,765
 Bases Gerais	18896
 Bases and Criteria for Setting Public Communication Services	18602
 Bases and Principles of Interconnection	18602
@@ -593,7 +597,7 @@ Basic IT Skills and Cybersecurity Awareness	12625
 Basic Impact Assessment Public Participation Process	14673
 Basic Indicators	12896
 Basic Indicators Report	11417
-Basic Information	2291,10097,24,14,7244
+Basic Information	2291,10097,24,14,7244,346
 Basic Information and Communication Technology	12700
 Basic Infrastructure	1787,1417,3881,4833,3761
 Basic Introduction	14745
@@ -773,7 +777,7 @@ Bassary TOURE CHAPITRE VII	17812
 Bassary TOURE Le Ministre du Travail	17812
 Basse	8311,5498,1861,129,828,87,169,68,15,90,229,1031,651,329
 Basse District Hospital	16896,26
-Basse Guinée	16621,20
+Basse Guinée	16621,20,3345
 Basse Haute	18063
 Basse Nama Solar PV	16966
 Basse Sante Su	17330
@@ -897,6 +901,7 @@ CBC. The Basic Council	899
 CBE Competence Based Education CCC Curriculum	12975
 CBT-Computer Based Training	13290
 CEO Adrian Basson	14376
+CHILDHOOD AND BASIC EDUCATION	19988
 CHILDREN IN TANZANIA MAINLAND Gender Based	19544
 CITES BaseSolution	15478
 CLOSURE Baseline NPV	17962
@@ -1183,6 +1188,9 @@ EU Base Registries	12008
 EXPENSES STAFF COST Basic Salaries	14736
 EXTERNAL RESOURCES Basis for Qualified Opinion	14546
 Early Childhood and Basic Education	16638
+Early Childhood and Basic Education Product	19988
+Early Childhood and Basic Education Project	19988
+Early Childhood and Basic Education Project PRODEG	19988
 East Nile Basin	14877
 Economic Inclusion Indicator Name Baseline Actual	12440
 Edition China’s Rating Based	15713
@@ -1358,7 +1366,7 @@ Gazetted Monthly Basic Minimum Wages1 for Agricultural	2775
 Gbps Data Basket	18931
 Gender Based	16951
 Gender Based Crimes and Child Protection Department	13466
-Gender Based Violence	1778,210,7559,1694,659,353,120,269,304,31,7,348,59,1351,216,97,419,79,1398,154,123,1142,519,854
+Gender Based Violence	1778,210,7559,1694,659,353,120,269,304,31,7,348,59,1351,216,97,419,79,1398,154,123,1142,519,854,245
 Gender Based Violence Advocacy	12977
 Gender Based Violence Advocacy Under	12977
 Gender Based Violence GDP	16951
@@ -1375,7 +1383,7 @@ Gestion des Bases de Données	10975
 Gestión Basada	16898
 Getting the Basics Right	16858
 Global Basic Observations Network	18578
-Global Basic Observing Network	11553,2059,3086,1611,364,114,82,793
+Global Basic Observing Network	11553,2059,3086,1611,364,114,82,793,387
 Global Basic Observing Network GDP	18309
 Glossary and Basic	19749
 Governance Framework Shared Knowledge Base Shared	19638
@@ -1509,6 +1517,7 @@ Impact and Transformation Customer Base	14151
 Impact of Congo Basin	16996
 Implied Valuation for Econet Based	4896
 Improved Quality Indicator Name Baseline Actual	17958
+Improving Pre-school and Basic Education Quality	19988
 Improving Quality and Equity of Basic Education Project	19245,4
 Improving Quality of Teaching and Learning Baseline Actual	19249
 Inadequate Protection of Sensitive Information Based	19584
@@ -1774,7 +1783,7 @@ Ministry for State President. Based	12556
 Ministry of Basic	16852,204,49,1356
 Ministry of Basic Education	10854,2243,584,1766,33,263
 Ministry of Basic Education Sport and Culture	12325
-Ministry of Basic and Secondary Education	1000,5048,6186,1080,3538,15,20,22,2,16,24,16,121,17,1365,20
+Ministry of Basic and Secondary Education	1000,5048,6186,1080,3538,15,20,22,2,16,24,16,121,17,1365,20,1537
 Ministry of Basic and Secondary Education Conditional Cash	16867
 Ministry of Basic and Secondary Education MoFEA	16951
 Ministry of Basic and Secondary Education of The Gambia	17088
@@ -1962,6 +1971,7 @@ PDO Outcomes Baseline Period	1264,603,1737,7164,4890,3,483,805,2296,39
 PDO Outcomes Legal Robustness Baseline Actual	15735
 PDO-Level Indicators Baseline End Target	11417
 PEOs and DEBS Baseline	13392
+PIDDC01329 BASIC INFORMATION A. Basic Project	20002
 PIDDC01334 BASIC INFORMATION A. Basic Project	16675
 PIDDC01347 BASIC INFORMATION A. Basic Project	14015
 PIDDC01573 A. Basic Project Data Project	16293
@@ -2179,6 +2189,7 @@ SAMU Niger MOTOROLA Base Fixe VHF	998
 SDAGE du Bassin DGPRE	18291
 SECTION BASE DES DONNEES Chef de Section	17899
 SECTION BASE DES DONNEES Commissaires	17899
+SH Gender Based Violence	19988
 SINGLE RESPONSE Base	7869
 SISo Base	17845
 SITING AND SHARING OF TELECOMMUNICATION BASE	15081
@@ -2192,6 +2203,7 @@ STATEMENTS Basis for Qualified Opinion	14546
 STRATEGIC OBJECTIVES AND PROGRAMS Based	1000
 SUBEBs State Universal Basic Education Boards	11860
 SUBSTITUTION DE BASE LEGALE OÙ	15999
+SUPPORTING DOCUMENTS....49 DATA SHEET BASIC DATA	19988
 Sa Sainte- Basilique	13405
 Sadick Bassi Lougouma	18919
 Safety Nets and Basic Service Project	19284
@@ -2373,6 +2385,7 @@ UBEC Universal Basic Education Commission	11860
 UHIS Indicator Name Baseline Actual	16079
 UN Basic Principles and Guidelines	3583
 UNESCO’s Project for Revitalizing Basic Education	18911
+UNI Unique Identity Number BASIC DATA	19990
 UNICEF Egypt and Baseera. TIMSS	15604
 USE CASE CONSTRAINT BASED ON NATIONAL	1009
 UVI44200 Basic	11258
@@ -2422,6 +2435,7 @@ Violences Basées	14424,64,1,1,49,957,177,73,162,104,1833,255,18,83,771,269
 Violência Baseada	11406,7,149,1235,3158,2827,38
 Volume Based ADSL Silver	19929
 W Base Station	736
+WB. Based	19988
 WFP World Food Programme. BASIC INFORMATION	14976
 Wacc Amortissement Base Tarifaire Nette	10975
 Wadi Basin	17157

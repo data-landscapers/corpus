@@ -95,6 +95,7 @@ EnDev Santé SN	18316
 Engagement Plan SNE National Electricity Company	15659
 Enterprise SMP Significant Market Power SNE	18931
 Enterprise SNCC Guinea’s National Climate Change	1264
+Entrepôt SNIS	19986
 Equiper le SNISS	17845
 Estado SNCPE Sistema Nacional da Contratação Pública	11390
 Etat SNISS Equiper	17845
@@ -320,6 +321,7 @@ Ron Snipeliski Nischli	17909,81
 Rural SNIG Stratégie Nationale	17873
 RÉGULARISATION DES TITRES DE SNEL SA	15670
 SD- SNISS	17845
+SEP Stakeholder Engagement Plan SNIES National	19988
 SGI Sistema de Gestão de Inquéritos SNA System	15535
 SH SEP SNCC SORT STEP TOR	15658
 SHIB Social Health Insurance Benefit SNHI	19531
@@ -595,6 +597,8 @@ SNICHA Act	19108
 SNID National Digital Identity System TSF	13731
 SNIDC	4091,10939
 SNIDS	2555
+SNIEM	19998
+SNIES	19988
 SNIF Ministères	11944
 SNIF.pdf	5630
 SNIGS	15475
@@ -615,6 +619,7 @@ SNIS III.2.5. Ressources	15685
 SNIS Las	16962
 SNIS N	16722
 SNIS Pour	19226
+SNIS SYSTEME NATIONAL D'INFORMATION SANITAIRE SOGEB	19986
 SNIS Sistema	11543
 SNIS Sistema Nacional de Informaciones Sanitarias STAT-	16898
 SNIS Sistema Nacional de Información Sanitaria TM	16969
@@ -623,9 +628,11 @@ SNIS Système National	15501
 SNIS Système National D'information	16104
 SNIS des DPS	19226
 SNIS des DRS	19226
+SNIS des PS	19998
 SNIS du Togo	19226
+SNIS-Extension Entrepôt de Donnés	19998
 SNIS. ARTICLE	15530
-SNIS. Aussi	15595
+SNIS. Aussi	15595,4403
 SNIS. Autrement	19226
 SNIS. Ce	19226
 SNIS. Cependant	15595,90
@@ -736,6 +743,7 @@ School Improvement Plan SNE	12175
 Schéma Directeur SNIP	12043
 Schéma Directeur SNIP SNIP	12043
 Schéma Directeur du SNIP Phase	12043
+Schéma Synoptique du SNIS	19986
 Sector Data Snapshot Sector	17239
 Selon le SNJT	19490
 Senegalese Agency for Universal Sanitary Coverage SND	18370

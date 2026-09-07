@@ -881,7 +881,7 @@ Intelijensia	19517
 Intelizência	539
 Intellect	11028
 Intellectua	1009
-Intellectual	961,48,378,1388,1086,667,2427,249,2837,1,513,291,123,555,26,334,1,10,264,1,44,1,146,4,41,64,23,4,25,783,62,628,23,622,105,33,56,682,207,1140,34,983,816,679,497,3
+Intellectual	961,48,378,1388,1086,667,2427,249,2837,1,513,291,123,555,26,334,1,10,264,1,44,1,146,4,41,64,23,4,25,783,62,628,23,622,105,33,56,682,207,1140,34,983,816,679,497,3,130
 Intellectual Barrier	11180
 Intellectual Disabilities	2518
 Intellectual Economics	19555
@@ -1595,7 +1595,7 @@ W IPO Intellectual Property Statistics	12487
 WB World Bank WIPO Worldwide Intellectual	19642
 WFuonrdld Intellectual Property Organization	11885
 WIPO Intellectual Property	11885
-WIPO Intellectual Property Statistics	10969,915,11,264,1,44,1,146,4,7507,90
+WIPO Intellectual Property Statistics	10969,915,11,264,1,44,1,146,4,7507,90,43
 Weaker-than-expected Artificial Intelligence	13685
 Welcomes the AU Continental Artificial Intelligence Strategy	5825
 Western Cape Artificial Intelligence	11012
@@ -1609,7 +1609,7 @@ World Health Assembly. The Epidemic Intelligence	15725
 World Intel-	13357
 World Intellectual Property	11550
 World Intellectual Property Organisation	961,13605,182
-World Intellectual Property Organization	7548,3421,914,1,1,10,40,224,1,1,43,1,146,4,21,111,1498,868,2020,69,376,1479,1065,3,87
+World Intellectual Property Organization	7548,3421,914,1,1,10,40,224,1,1,43,1,146,4,21,111,1498,868,2020,69,376,1479,1065,3,87,43
 World Intellectual Property Organization COVID-19	13312,2
 World Intellectual Property Organization Copyright Treaty	11550
 World Intellectual Property Organization. Suggested	14898,827

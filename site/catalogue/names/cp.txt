@@ -69,6 +69,7 @@ CFW Cash for Work CPF Country Partnership	18104
 CGJR and CPSD	12804
 CIPP Cost-Benefit Analysis CPF Country Climate	3604
 CIRAS CPF CR CSIRT CT	15553
+CMC CENTRE MEDICAL COMMUNAUTAIRE CPN CONSULTATION	19986
 CMIP Coupled Model Intercomparison Project CPC	17157
 CNOM CNTS CPS-SS-DS-PF Conseil	17882
 CNRF CPMI CSD COMESA EAC EAPS	13468
@@ -86,6 +87,7 @@ CP CORRIGE	1294,1,1,766
 CP Code	16047
 CP Comité de Pilotage CTS Comité Technique	13341
 CP Cours Préparatoire DECCS Direction des Evaluations	18171
+CP First Grade Level	19988
 CP HDR	2975
 CP INIT	1294,1,1,766,2321
 CP Inforpress	3192
@@ -162,7 +164,7 @@ CPCSP	18291
 CPD Act	14224
 CPD Central Population Database C2C Consumer-to-Consumer	14790
 CPD Continuing	14922
-CPD Continuous Professional Development CPF Country	15661
+CPD Continuous Professional Development CPF Country	15661,4327
 CPD Continuous Professional Development CSP Content	6946
 CPD Continuous Professional Development DOAJ Directory	14747
 CPD Framework	12726
@@ -234,7 +236,7 @@ CPF Mwamba Trust Fund Data Controller	7167
 CPF Mwamba Trust Fund Data Processor	7167
 CPF Objective	6539,5887,905
 CPF Outcomes and Indicators CPF Outcome CPF	11469
-CPF Pillar	15663
+CPF Pillar	15663,4325
 CPF Report No	18104
 CPF Results Area II	15983
 CPF and FCV	10829
@@ -697,6 +699,7 @@ Palm Oil CPA Collateral Registry System	17235
 Paramétrage des CPS-SS DS	17946
 Partnership Framework CP-SNPS National Social Protection	17849
 Partnership Framework CPF Corporate Results Indicator	11417
+Partnership Framework CPIA Country Policy and Institutional	19988
 Perennial Crops. Imagery for CPER High	17140
 Personal Interviewing CPI Consumer Price Index	13359
 Point Calculation Rules For CPD	13381

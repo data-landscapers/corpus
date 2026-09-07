@@ -123,6 +123,7 @@ DO ENSINO PRIMÁRIO E SECUNDÁRIO	11419
 DONNÉES SUR LE PERSONNEL ENSEIGNANT	18143,27
 DUCATION Enseignement	18884
 Dans la Nature Autres Ensemble	18014
+Data Literacy and Ministry of Labor Ensures	20004
 Deep Learning Ensure	12512
 Desarrollar la Enseñanza Técnico-Profesional	1701
 Description Ensures	5191
@@ -286,7 +287,7 @@ Enseigne	15744,2572
 Enseigne L’Opérateur	15885
 Enseigne-	13442,4370
 Enseigneme nt	15489
-Enseignement	643,94,28,532,297,85,3,26,251,1007,430,358,71,10,257,782,297,500,23,541,202,77,593,13,65,485,14,294,259,32,52,15,118,112,107,218,65,124,164,26,386,157,121,642,32,3,236,16,12,448,307,39,4,370,25,1222,100,52,458,548,24,98,16,678,93,4,15,50,40,8,15,40,62,41,7,34,1,24,35,44,58,42,51,8,6,25,1,13,18,48,46,6,128,15,7,38,57,13,49,45,26,8,11,16,5,18,11,9,61,12,6,19,34,39,858,233,7,3,2,1,30,1,2,11,7,30,5,31,13,22,21,21,47,6,22,66,6,96,19,33,5,3,12,30,31,2,1,9,345,127,288,15,34,20,12,5,108,13,6,26,82
+Enseignement	643,94,28,532,297,85,3,26,251,1007,430,358,71,10,257,782,297,500,23,541,202,77,593,13,65,485,14,294,259,32,52,15,118,112,107,218,65,124,164,26,386,157,121,642,32,3,236,16,12,448,307,39,4,370,25,1222,100,52,458,548,24,98,16,678,93,4,15,50,40,8,15,40,62,41,7,34,1,24,35,44,58,42,51,8,6,25,1,13,18,48,46,6,128,15,7,38,57,13,49,45,26,8,11,16,5,18,11,9,61,12,6,19,34,39,858,233,7,3,2,1,30,1,2,11,7,30,5,31,13,22,21,21,47,6,22,66,6,96,19,33,5,3,12,30,31,2,1,9,345,127,288,15,34,20,12,5,108,13,6,26,82,495
 Enseignement ANNUAME NTATINTIUEDEouCATON NATONALE	18171
 Enseignement Article	17827
 Enseignement Assemblée Législative	13442
@@ -310,7 +311,8 @@ Enseignement Originel Chargé	17895
 Enseignement Originel Direction	17844
 Enseignement Originel MASEF MEDD Ministère des Affaires	17885
 Enseignement Page	15936
-Enseignement Pre-Universitaire	16638
+Enseignement Pre-Universitaire	16638,3350
+Enseignement PreUniversitaire	19988
 Enseignement Primaire	11905,11,3558,19,87,93,763,1663,812
 Enseignement Primaire Article	18884
 Enseignement Primaire JRS Jesuit Refugee Service	18911
@@ -318,7 +320,7 @@ Enseignement Primaire Section	18884
 Enseignement Professionnel	86,15407
 Enseignement Pré-Universitaire	16616,57
 Enseignement Pré-universitaire	16641
-Enseignement Préscolaire	5103,6802,3768,3211
+Enseignement Préscolaire	5103,6802,3768,3211,1104
 Enseignement Restauration	10841
 Enseignement Secondaire	3396,11453,630,1056,1282,13,269,785
 Enseignement Secondaire CFEEN Certificat de Fin	18171
@@ -349,7 +351,7 @@ Enseignement Supérieur. Chapitre	18884
 Enseignement Supérieur. Chirurgiens	15711
 Enseignement Supérieur. Il	16627
 Enseignement Supérieure	15500,2370
-Enseignement Technique	8895,160,1227,1623,11,2556,58,92,754,98,19,3,177,39,136,88,76,93,511,10,15,21,51,1374,797,357
+Enseignement Technique	8895,160,1227,1623,11,2556,58,92,754,98,19,3,177,39,136,88,76,93,511,10,15,21,51,1374,797,357,747
 Enseignement Technique CSLP Cadre Stratégique de Lutte	17907
 Enseignement Technique PSCIPGO	15712
 Enseignement Technologique de Rosso	17853
@@ -640,7 +642,7 @@ Ensure the National Cloud Policy	11995
 Ensure the Official Secrets Act	13310
 Ensure the SLA	19575
 Ensured	10776,1953,2875,109,1293,2231
-Ensures	236,2822,2187,908,2975,727,1274,87,700,23,9,4,262,32,716,75,5,1559,288,58,50,133,583,1250,136,15,43,382,992,264
+Ensures	236,2822,2187,908,2975,727,1274,87,700,23,9,4,262,32,716,75,5,1559,288,58,50,133,583,1250,136,15,43,382,992,264,1209
 Ensures AI	14812
 Ensurethatcommunitiesarefullyinvolvedinlandmanagement Land	10960
 Ensuring	396,544,18,3,9,191,82,18,517,36,4,540,101,243,256,656,37,90,46,102,88,283,394,286,192,113,329,101,2,23,220,496,123,407,456,146,328,307,298,205,366,151,234,98,87,20,117,1081,1,119,13,7,151,12,2,1,10,40,30,30,1,8,91,326,179,1,17,21,2,50,12,22,11,4,7,184,9,7,2,4,19,7,1,5,7,4,40,5,26,1,27,8,5,9,21,12,42,99,56,15,40,6,5,1,84,161,12,8,22,2,3,6,2,41,128,164,2,2,2,17,14,12,1,37,36,247,3,257,72,7,431,22,16,79,1,157,15,7,1,15,11,1,45,42,19,53,3,8,4,50,26,5,6,86,10,84,72,86,21,80,38,7,86,25,26,70,18,17,171,281,67,38,546,4,5,2,9,1,1,4,26,1,23,3,1,20,3,5,4,10,11,21,82,15,2,1,10,12,10,7,1,94,38,7,15,93,465,1,500,60,40,7,27,25,22,13,29,15,138,239,23,240,354,7,37,18,13,19,16,9,80,59,63,43
@@ -824,6 +826,7 @@ Mathias ADEDJE MINISTERE DES ENSEIGNEMENTS PRIMAIRE	2966
 Matrícula de Centros de Enseñanza Técnica	16864
 Ministre des Enseignements Maternel	16535
 Ministre des Enseignements Secondaire' Technique	15489
+Ministry of Ensures	20004
 Ministry of Finance Ensure	11916
 Ministry of Medium Intermediate Ensure	13314
 Ministry of Mines and Minerals Development. Ensure	13654
@@ -895,6 +898,7 @@ Paie des Enseignants Provincial	11916
 Paludisme Ensemble	19226
 Paridade de Género3 ENSINO PRIMÁRIO	10777
 Percurso de Ensino Aprendizagem PND	11387
+Perfectionnement du Personnel Enseignant	19988
 Pertinence des Enseignements	11918,3611
 Petroleum and Gas Ensure	14947
 Policy Mission To Ensure Reliable	19646

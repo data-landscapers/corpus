@@ -184,6 +184,7 @@ E-waste Substance Occurrence	1988
 ECOWAS Interest Subsidy Fund PPDU	6422
 END-USER AND SUBSCRIBER SERVICE CHARTER AMENDMENT	4732
 EULIWP. Substantial	16614
+EUROPE ADSL ASYMMETRIC DIGITAL SUBSCRIBER LINE	19986
 EXIT OFFER AND THE SUBSEQUENT	4896
 Economic Subsystem	11237
 Educación Especial Subsector de Cooperación Educativa	4209
@@ -1024,7 +1025,7 @@ Substances Naturelles Technologiques de Bamako	17829
 Substances and Hazardous Wastes	14409
 Substances and Hazardous Wastes. ARTICLE	14409
 Substandard	19519,193
-Substantial	764,205,27,220,48,13,7,6,480,4,93,188,198,459,177,567,148,176,908,932,919,40,349,949,2891,7,54,3,38,16,78,431,22,52,56,35,295,11,39,19,32,9,6,17,188,79,23,749,27,4,37,236,1,60,342,122,64,50,40,477,89,51,270,13,25,2,11,6,22,4,17,20,2,12,66,41,21,31,221,13,23,33,31,7,35,48,20,37,1,2,41,2,33,45,177,31,23,66,65,240,14,38,178,91,221,23,11,34,6,37,42,17,18,2,354,379,13,42,54,4,44,98,29,65,95,8,54,4,406,12,32,8,8,26,36,95,263,39,197,104,58,192,12,8
+Substantial	764,205,27,220,48,13,7,6,480,4,93,188,198,459,177,567,148,176,908,932,919,40,349,949,2891,7,54,3,38,16,78,431,22,52,56,35,295,11,39,19,32,9,6,17,188,79,23,749,27,4,37,236,1,60,342,122,64,50,40,477,89,51,270,13,25,2,11,6,22,4,17,20,2,12,66,41,21,31,221,13,23,33,31,7,35,48,20,37,1,2,41,2,33,45,177,31,23,66,65,240,14,38,178,91,221,23,11,34,6,37,42,17,18,2,354,379,13,42,54,4,44,98,29,65,95,8,54,4,406,12,32,8,8,26,36,95,263,39,197,104,58,192,12,8,133,13,1
 Substantial A.1 Environmental Risk Rating Substantial	18374
 Substantial A.2 Social Risk Rating Overall	18374
 Substantial Adopt	13938
@@ -1034,14 +1035,14 @@ Substantial Assessment of Achievement of Each Objective	17849
 Substantial Borrower	14456
 Substantial COMPLIANCE Policy Does	10964,561,4028,2551,197
 Substantial Comments	14056
-Substantial Concept Review Decision	14015
+Substantial Concept Review Decision	14015,5987
 Substantial Dec	17958
 Substantial Decision	16654,3009
 Substantial Develop	11525
 Substantial E&S	17114
 Substantial Efficacy Substantial Outcome	17962
 Substantial Ensure	10768
-Substantial Environment and Social	1284,1428,3867,5392,17,1070,862,1111,706,276,66,626,289,85,17,862,851,672
+Substantial Environment and Social	1284,1428,3867,5392,17,1070,862,1111,706,276,66,626,289,85,17,862,851,672,520
 Substantial Environment and Social Stakeholders Overall	11395
 Substantial Expected Approval Date	14976
 Substantial Fiduciary	6579,1298,2993,2188,862,1111,128,1835,102,910,349,462,664
@@ -1053,7 +1054,7 @@ Substantial Institutional Capacity for Implementation	1284,1428,1976,11391,626
 Substantial Jan	4688,11391
 Substantial Jun	6579,349,5043
 Substantial LEGAL COVENANTS1 LEGAL COVENANTS	1284
-Substantial Macroeconomic	1284,3404,1891,1298,4111,1932,1817,276,2120,222,454,173,499
+Substantial Macroeconomic	1284,3404,1891,1298,4111,1932,1817,276,2120,222,454,173,499,520
 Substantial Macroeconomic Moderate Moderate Moderate Sector	17505,845
 Substantial Mar	16705
 Substantial Moderate Moderate Environment and Social Low	18473
@@ -1075,7 +1076,7 @@ Substantial Risks Description	11417
 Substantial Sector Strategies and Policies	1284,1428,3867,349,3942,1118,1932,1111,128,578,1359,1037,676,8
 Substantial Sector Strategies and Policies Technical Design	11395
 Substantial Seeking	17037
-Substantial Stakeholders	4688,3189,4094,17,2992,51,128,578,276,66,626,295,958,397,462
+Substantial Stakeholders	4688,3189,4094,17,2992,51,128,578,276,66,626,295,958,397,462,1184
 Substantial Substantial	13027,4478
 Substantial Substantial Apr	12228
 Substantial Substantial Fiduciary Moderate Low Moderate	18792
@@ -1125,6 +1126,7 @@ Substantial. Experience	13331
 Substantial. FM-related	10829
 Substantial. Fiduciary	16949
 Substantial. Financial	19847
+Substantial. Five	20002
 Substantial. Gabon	15511
 Substantial. Government	11905
 Substantial. Higher	11905
@@ -1140,11 +1142,13 @@ Substantial. Macroeconomic	12176,4773
 Substantial. Official Use Only Page	16436
 Substantial. Overall	15553,108
 Substantial. Overall Efficacy Rating Substantial	16960
+Substantial. PDO	19988
 Substantial. PFM	12176
 Substantial. POLICY COMPLIANCE	19847
+Substantial. Phase	19988
 Substantial. Physical	16144
 Substantial. Policy	19847
-Substantial. Political	10964
+Substantial. Political	10964,9038
 Substantial. Positive	1988
 Substantial. Procurement	15553
 Substantial. Proposed	19835

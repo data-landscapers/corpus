@@ -213,7 +213,7 @@ Enforcement Powers and Sanctions Regime	3861
 Ensuring Power Supply	14151
 Enterprise SMP Significant Market Power SNE	18931
 Enterprise Unit Power Quality Photovoltaic Regulatory	12969
-Equal Political Power	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Equal Political Power	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Equal Political Power Equal Political Representation	10837,1315,188,7598
 Equality WOMEN'S EQUALITY Political Power	10759
 Equality Women's Equality Political Power	12152
@@ -605,7 +605,7 @@ Pipeline Company Kenya Power	12256
 Pipeline Power Generation Projects	13474
 Plc EPSRA Electric Power Sector Reform	12062,6124,31
 PoWER Assessment of Women’s Economic Empowerment	16951
-Political Power	5418,5341,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1460,5704,1,169,14,22,1,65,14,1
+Political Power	5418,5341,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1460,5704,1,169,14,22,1,65,14,1,48
 Population Was Power	7337
 Powars	18457
 Powder	9123
@@ -731,8 +731,9 @@ Power Sector Action Plan	1230
 Power Sector Development Framework	14877
 Power Sector Master Plan	15983
 Power Sector Recovery Additional Financing	11469
-Power Sector Reform	12233
-Power Sector Reform Project	18484
+Power Sector Recovery Project	20002
+Power Sector Reform	12233,7791
+Power Sector Reform Project	18484,1540
 Power Sector Reform Roadmap and Action Plan	18484
 Power Services	4896
 Power Smart City Vision	3101
@@ -1067,6 +1068,7 @@ Tanza Legislative Powers	19525
 Tanzania. Powered	19529
 Tariff for Jungle Energy Power	16978
 Tax Ombud Part F Powers	11181
+Te Power	20002
 Tech Africa News and Water Power Magazine	6490
 Technical Characteristics Monitoring Voltage Power Frequency	14867
 Telecom Namibia and PowerCom	8415
@@ -1153,8 +1155,9 @@ Water and Power Supply Company	18797,54
 Water and Power Supply Company PER Public	18851
 West Africa Power Pool	17894,643
 West Africa Power Pool WATRA	18485
+West Africa Power Pool. Abundant	20002
 West Africa Power Pool. B	18374
-West African Power Pool	11016,5128,510,222,90,294,1,842,271,130,716,19,56
+West African Power Pool	11016,5128,510,222,90,294,1,842,271,130,716,19,56,707
 West African Power Pool Glossaire RAPPORT	18322
 Weza Power	13433
 Weza Power Approbation	13433

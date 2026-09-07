@@ -154,7 +154,7 @@ Department of Water and Sanitation.30	14673
 Depleting Water	14673
 Deployment of Blue Water Guards	16511
 Development WASH Water	15604
-Digital Watch	4737,6085,313
+Digital Watch	4737,6085,313,8869
 Digital Watch Observatory	1702,13462
 Digital Watch. Aimé Ndayikunda	3560
 Diplomatic Election Watch	12201
@@ -202,12 +202,14 @@ Electricity Meter and Water Meter	19712
 Electricity and Drinking Water	16649
 Electricity and Water	19526
 Electricity and Water Company of Guinea-Bissau	17338
+Electricity and Water Regulatory Authority	20002
 Electricity and Water Regulatory Commission	18484,4
 Electricity and Water Supply	18483
 Ellis Watiza Hoveka	13189
 Encourage WATRA	5677
 Energy Development Ministry of Water and Energy	12233
 Energy Safety and Security Education Water	18476
+Energy and Water Regulatory Authority	20002
 Energy and Water Utilities Regulatory Authority Level	19584
 Enhancing Water and Food Security	17257
 Environmental Sustainability and Quality of Water Provision	12389
@@ -327,7 +329,7 @@ International Water Management Institute	12828,6626
 International Water Power	6633
 International Waterways	15138,234,3515
 International Waterways No OP	18374
-International Waterways OP	1284,583,1589,148,7164,61,134,1,453,108,330,50,60,172,289,685,220,1,191,1030,23,835,102,40,105,3,483,531,247,519,663,1141,39,123,256,172,12
+International Waterways OP	1284,583,1589,148,7164,61,134,1,453,108,330,50,60,172,289,685,220,1,191,1030,23,835,102,40,105,3,483,531,247,519,663,1141,39,123,256,172,12,155
 Internet Watch Foundation	11648
 Introduction The WATRA Working Group	5680
 Iringa Water Supply and Sanitation Authority	19584
@@ -901,9 +903,9 @@ Watching	8642
 Watching Kona	9007
 Wateja	6019,13550,23
 Watendaji	2868,3151,13516,84
-Water	395,23,300,222,30,258,326,270,4,160,440,198,149,276,1477,719,222,100,581,272,481,44,396,205,710,341,524,5,309,705,339,267,11,17,18,41,2,1,130,184,4,36,39,5,9,3,21,14,134,172,131,124,26,16,1,1,1,11,98,154,1,1,9,12,17,37,24,87,1,11,1,36,19,3,34,43,13,10,1,9,410,31,2,6,7,76,143,114,75,2,73,14,88,123,58,44,6,238,2,45,12,13,153,290,20,107,63,9,33,40,12,10,34,48,48,57,58,44,67,176,146,34,22,30,55,72,12,46,467,180,30,397,26,7,4,16,19,108,56,6,9,3,22,10,7,1,93,1,6,32,214,286,78,16,79,9,128,271,73,17,16,7,21,28,11,252,109,27,16,32,540,7,25,4,2,45,39,11,1,22,2,58,6,2,33,25,21,14,22,1,65,14,1,35
+Water	395,23,300,222,30,258,326,270,4,160,440,198,149,276,1477,719,222,100,581,272,481,44,396,205,710,341,524,5,309,705,339,267,11,17,18,41,2,1,130,184,4,36,39,5,9,3,21,14,134,172,131,124,26,16,1,1,1,11,98,154,1,1,9,12,17,37,24,87,1,11,1,36,19,3,34,43,13,10,1,9,410,31,2,6,7,76,143,114,75,2,73,14,88,123,58,44,6,238,2,45,12,13,153,290,20,107,63,9,33,40,12,10,34,48,48,57,58,44,67,176,146,34,22,30,55,72,12,46,467,180,30,397,26,7,4,16,19,108,56,6,9,3,22,10,7,1,93,1,6,32,214,286,78,16,79,9,128,271,73,17,16,7,21,28,11,252,109,27,16,32,540,7,25,4,2,45,39,11,1,22,2,58,6,2,33,25,21,14,22,1,65,14,1,35,13
 Water Abstraction Licensing Regulation	17228
-Water Access	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Water Access	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Water Access Absence of Corruption	10835,3,130,902,16,466,1,135,7334
 Water Access Rural Market Access Rural	10759,78,1315,188,7598
 Water Act	9437,2354,7954
@@ -914,7 +916,7 @@ Water Authorities	19576
 Water Authority EEMO Energy Efficiency Management	14745
 Water Authority Monthly Table	17157
 Water Basin Agencies. Development	17157
-Water Biodiversity Protection	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Water Biodiversity Protection	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Water Biodiversity Protection Social Protection	10837,1052,263,11,177,1,7312,285
 Water Bodies Authorities	19519
 Water Body Shoreline Demarcation	1964
@@ -1101,6 +1103,7 @@ Water and Forestry	9485,2840,587,45
 Water and Forestry MoEAC Ministry of Education Arts	12923
 Water and Forests	16614,845
 Water and Hydrocarbons	13734
+Water and Hydrocarbons and SONELEC	20025
 Water and Irrigation	12194
 Water and Land Information Management	15129
 Water and Land Reform	12923,1,255

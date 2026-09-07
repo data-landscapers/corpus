@@ -58,7 +58,7 @@ Chifunde District For WHO Mozambique	9699
 Civil Registration Code of Mozambique	12167
 Civil Registration System Mozambique	12167
 Clinical Officers U.S. Mozambique Mozambique Mozambique	4260
-Club of Mozambique	482,377,1302,440,30,2978,352,311,62,140,269,137,1124,1395
+Club of Mozambique	482,377,1302,440,30,2978,352,311,62,140,269,137,1124,1395,10639
 Communications Regulatory Authority of Mozambique	3783,2104
 Congo Mozambique Turkmenistan Djibouti Nicaragua Ukraine	11005
 Connecting Africa. Movitel Mozambique	5887
@@ -93,6 +93,7 @@ ET1Raxio Mozambique MZ1Raxio Tanzania TZ1Raxio Uganda	10956
 EU EOM Mozambique	12201
 EU EOM Mozambique Post-election Press	12201
 EU Global Gateway EuinMoz2026 The Mozambique	6743
+EU and Mozambique	20034
 EUinMoz2026 During the Mozambique	6743
 East and Central Africa Region. Mozambique	19532
 Election Observation Mission FAMOD Forum of Mozambican	12201
@@ -258,7 +259,7 @@ Mozal	11228,978
 Mozam	4260
 Mozam-	17743
 Mozambicains	7737,2489,1500
-Mozambican	110,304,430,97,802,924,83,239,418,72,304,78,268,131,6,4,237,1,37,523,46,26,33,215,427,146,5,368,140,78,74,51,66,32,269,337,192,51,49,102,245,50,176,461,725,27,289,552,203,586,509,124,394,8,37,40,46,524,45,1,1,20,18,204,93,1044,3406
+Mozambican	110,304,430,97,802,924,83,239,418,72,304,78,268,131,6,4,237,1,37,523,46,26,33,215,427,146,5,368,140,78,74,51,66,32,269,337,192,51,49,102,245,50,176,461,725,27,289,552,203,586,509,124,394,8,37,40,46,524,45,1,1,20,18,204,93,1044,3406,2435
 Mozambican Association of Artificial Intelligence	11113
 Mozambican Attorney General's Office	12179
 Mozambican Banking Association	7734
@@ -295,7 +296,7 @@ Mozambican. Performance	4260
 Mozambicans	3407,454,399,393,377,84,1661,47,981,201,1223,2974,5,573,59,1359
 Mozambiq Ugandan Malawi Belgium China Jumla	19517
 Mozambiqu	15500
-Mozambique	9,101,5,39,42,4,36,13,69,84,3,22,163,63,61,52,5,17,55,1,97,17,4,51,35,37,44,17,1,5,60,16,15,5,100,15,102,61,57,42,23,47,32,13,3,39,18,15,14,118,30,3,145,13,77,13,231,110,32,30,3,25,8,15,93,41,130,43,48,21,349,43,29,5,37,2,10,26,39,30,131,24,8,31,18,21,6,6,279,11,17,34,46,6,4,156,13,3,64,3,36,38,28,42,21,135,103,15,32,71,30,8,19,27,15,11,33,39,26,9,11,124,6,29,16,28,37,31,14,11,55,6,77,24,85,14,17,9,46,74,5,89,11,175,7,10,14,59,3,12,22,9,86,4,4,3,38,22,1,17,74,9,42,33,33,28,4,3,14,5,25,3,1,7,23,20,4,58,106,143,72,29,93,59,69,30,85,49,6,28,27,3,38,18,10,33,114,12,42,16,17,33,173,3,161,300,35,1,11,189,20,3,1,103,155,2,122,1,1,47,34,2,7,1,4,38,151,64,48,1,11,2,27,171,180,2,47,24,5,1,1,7,2,72,1,54,114,34,31,155,24,1,45,16,10,34,16,3,121,9,128,17,3,4,14,6,51,1,18,100,29,1,77,22,113,20,19,5,2,11,117,52,14,3,62,13,9,7,1,2,20,5,4,1,20,166,19,13,3,7,4,2,1,5,2,2,16,1,6,10,5,5,1,12,1,17,5,5,5,4,10,4,24,22,25,11,1,23,9,103,183,96,9,3,7,1,16,1,2,3,2,5,1,2,6,1,2,4,2,2,1,1,5,2,4,1,5,1,62,4,20,3,17,10,5,2,63,12,6,87,116,32,36,34,5,42,3,42,15,70,15,67,39,22,28,20,7,27,102,32,296,127,6,135,47,162,152,70,551,24,9,73,1080,118,22,15,121,2,31,180,153,328,19,123,85,40,272,55,5,125,33,205,345,335,120,167,70,8,43,67,102,14,22,1,80,27,8
+Mozambique	9,101,5,39,42,4,36,13,69,84,3,22,163,63,61,52,5,17,55,1,97,17,4,51,35,37,44,17,1,5,60,16,15,5,100,15,102,61,57,42,23,47,32,13,3,39,18,15,14,118,30,3,145,13,77,13,231,110,32,30,3,25,8,15,93,41,130,43,48,21,349,43,29,5,37,2,10,26,39,30,131,24,8,31,18,21,6,6,279,11,17,34,46,6,4,156,13,3,64,3,36,38,28,42,21,135,103,15,32,71,30,8,19,27,15,11,33,39,26,9,11,124,6,29,16,28,37,31,14,11,55,6,77,24,85,14,17,9,46,74,5,89,11,175,7,10,14,59,3,12,22,9,86,4,4,3,38,22,1,17,74,9,42,33,33,28,4,3,14,5,25,3,1,7,23,20,4,58,106,143,72,29,93,59,69,30,85,49,6,28,27,3,38,18,10,33,114,12,42,16,17,33,173,3,161,300,35,1,11,189,20,3,1,103,155,2,122,1,1,47,34,2,7,1,4,38,151,64,48,1,11,2,27,171,180,2,47,24,5,1,1,7,2,72,1,54,114,34,31,155,24,1,45,16,10,34,16,3,121,9,128,17,3,4,14,6,51,1,18,100,29,1,77,22,113,20,19,5,2,11,117,52,14,3,62,13,9,7,1,2,20,5,4,1,20,166,19,13,3,7,4,2,1,5,2,2,16,1,6,10,5,5,1,12,1,17,5,5,5,4,10,4,24,22,25,11,1,23,9,103,183,96,9,3,7,1,16,1,2,3,2,5,1,2,6,1,2,4,2,2,1,1,5,2,4,1,5,1,62,4,20,3,17,10,5,2,63,12,6,87,116,32,36,34,5,42,3,42,15,70,15,67,39,22,28,20,7,27,102,32,296,127,6,135,47,162,152,70,551,24,9,73,1080,118,22,15,121,2,31,180,153,328,19,123,85,40,272,55,5,125,33,205,345,335,120,167,70,8,43,67,102,14,22,1,80,27,8,13,47,4,4
 Mozambique AFR LI	17743
 Mozambique Announces	6771
 Mozambique Approval Date Current Closing Date	2473
@@ -360,6 +361,7 @@ Mozambique Mozambique	7803,4416,567
 Mozambique Mozambique Digital Acceleration Project	4653
 Mozambique Mozambique Digital Acceleration Project Project	1228
 Mozambique Mozambique Digital Acceleration Project TABLE	4653
+Mozambique Mozambique's Ministry of Justice	20042
 Mozambique NMB Bank	2857,3026
 Mozambique Namibia Nigeria	5247
 Mozambique National	4653
@@ -383,6 +385,7 @@ Mozambique Research and Education Network	1228
 Mozambique Resilience DPO	12137
 Mozambique Revenue Authority	12218
 Mozambique Roscas’ US	12339
+Mozambique Social Protection and Economic Resilience	20029,2,17
 Mozambique Social Protection and Economic Resilience Project	12780
 Mozambique Steward Bank Limited	12252
 Mozambique Stock Exchange	7381
@@ -487,6 +490,7 @@ Mozambique. Contacts Arrone Santos Macuácua	12855
 Mozambique. Cyber	9351
 Mozambique. Elle	16158
 Mozambique. Exclusions and Boundaries Exclusions	3861
+Mozambique. Expands GovNet	20034
 Mozambique. Findings	12201
 Mozambique. Glob Health Sci Pract	11596
 Mozambique. Gro Intelligence Gro Intelligence	10464
@@ -581,7 +585,7 @@ Raxio’s Mozambique	9446
 Regarding Mozambican	7679
 Regional Trade Mozambique	5407,676
 Republic of Mozambican	12294
-Republic of Mozambique	772,16,208,833,645,584,803,399,1529,954,1503,508,1962,573,128,744,40,18,1,74,346,131,8,1,23,40,75,4,50,5
+Republic of Mozambique	772,16,208,833,645,584,803,399,1529,954,1503,508,1962,573,128,744,40,18,1,74,346,131,8,1,23,40,75,4,50,5,7057
 Republic of Mozambique Implementing Agencies	12832
 Republic of Mozambique Implementing Agency	12832
 Republic of Mozambique's Attorney General	12161
@@ -599,6 +603,7 @@ Rwanda and Mozambique	6637
 SYSTEM IN MOZAMBIQUE	12826
 Safari and Mozilla Firefox	14921
 Score Angola Ghana Kenya Mozambique	5247
+Senegal's Adaptive Safety Net and Mozambique's Social	20041
 Sep-2021 TO Republic of Mozambique Institutions Global	2473
 Signature Infrastructure For The Republic of Mozambique	12834
 SociétéSportTechnologie Actualité Mozambique	9620

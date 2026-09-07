@@ -32,7 +32,7 @@ ADDITIONAL FINANCING A. Introduction	11965,4433
 ADDITIONAL FINANCING A. Introduction B	13860
 ADDITIONAL FINANCING Additional Financing No	18809,475
 ADDITIONAL FINANCING DATA SHEET	15983
-ADDITIONAL FINANCING Date	11924,3500,177,62,68,705,1413,13,100,863
+ADDITIONAL FINANCING Date	11924,3500,177,62,68,705,1413,13,100,863,1163
 ADDITIONAL FINANCING FOR GIRLS	13459
 ADDITIONAL FINANCING IDA GRANT	18765
 ADDITIONAL FINANCING Situations of Urgent Need of Assistance	18809,475
@@ -182,7 +182,7 @@ Actualités Finance Stratégie GRO	13568
 Actualités Lois de Finances	18973
 Actuarial and Financial Mathematics	13078
 Adaptable Program Loan Project Financing Data	15372
-Additional Financing	166,417,701,294,517,378,4050,4440,1,505,422,74,43,772,52,148,352,60,434,5,2,7,57,19,630,7,335,131,171,187,34,100,20,19,51,62,119,201,30,174,211,216,282,26,27,11,40,470,379,55,2,130,227,92,19,251,200,459,171,400
+Additional Financing	166,417,701,294,517,378,4050,4440,1,505,422,74,43,772,52,148,352,60,434,5,2,7,57,19,630,7,335,131,171,187,34,100,20,19,51,62,119,201,30,174,211,216,282,26,27,11,40,470,379,55,2,130,227,92,19,251,200,459,171,400,170,16,7
 Additional Financing AFD Agence Française de Développement	16952
 Additional Financing AFD French Development Agency	11924
 Additional Financing AICD Africa Infrastructure Country	17862
@@ -203,6 +203,7 @@ Additional Financing Project Paper	14983
 Additional Financing Request	12780,52,1721
 Additional Financing Sequence	14885
 Additional Financing Sequence.02 Not Applicable	15731
+Additional Financing The World Bank's IDA	20029
 Additional Financing Type	11965,6844,475
 Additional Financing World Bank Group	307,450
 Additional Financing of IDA Credit US	13831
@@ -638,7 +639,7 @@ Botswana Financial Inclusion Roadmap	19664
 Botswana Financial Sector Development Strategy	12588
 Botswanan Financial Sector Diagnostic. Botswana	12540
 Bovine Pleurae Pneumonia CFA Communauté Financière	17105
-Brand Finance	10969,926,264,1,45,146,4,7507,3,87
+Brand Finance	10969,926,264,1,45,146,4,7507,3,87,43
 Brand Finance About the Global Innovation Index	12487
 Brand Finance. Note	19952
 Brazzaville Financial Management	15659
@@ -1038,6 +1039,7 @@ Communities Relevant Cultural Heritage Relevant Financial	10829
 Community Livelihoods Through Energy Security Financing	5247
 Community of Central Africa DGGT Country Financial	15372
 Comores. Représentant le Ministre des Finances	5814
+Comorian Minister of Finance	20028
 Comoros Financial Inclusion Project	13742,6084,3
 Comoros Financial Inclusion Project Product	13742
 Comoros Financing	13787
@@ -1070,7 +1072,7 @@ Comptes Finances	15712
 Comptroller General Jude Commettant and Senior Finance	18964
 Comunidad Financiera Africana FMI Fondo Monetario	16969
 Concelhias de Finanças	16056
-Concessional Financing	13756,239,917,785,1239
+Concessional Financing	13756,239,917,785,1239,3084
 Concessional Financing and Incentives	12399
 Conclusion The Financial Statements	16978
 Conditions Financing	10964
@@ -1087,6 +1089,7 @@ Confederation of Financial Institutions- West Africa	1502
 Conference of Financial Institutions	1644
 Confirming Banks and Trade Finance	10718
 Conflict Financing	11855
+Conflict and Violence FM Financial Management GBV	19988
 Conflict and Violence FMIS Financial Management Information	969
 Conflict and Violence FSP Financial Service Provider	13312,2
 Conflict-affected Situations FM Financial Management FHH	11549
@@ -1238,7 +1241,7 @@ D.G. POLITICA FINANCIERA Y CREDITOS- Concepto	4209
 DA Designated Account DFIL Disbursement and Financial	10768
 DA ECONOMIA E FINANÇAS Gareth	18798
 DAF Direction des Affaires Financières DIGE Direction	15693
-DATA ON FINANCIAL PERFORMANCE	2712,1976,1891,349,949,2993,525,576,257,39,173,587,31,1922,179,576,2,276,66,626,289,6,79,17,374,35,399,54,48,127,217,4,1,179,258,25,165,101,166,232,348
+DATA ON FINANCIAL PERFORMANCE	2712,1976,1891,349,949,2993,525,576,257,39,173,587,31,1922,179,576,2,276,66,626,289,6,79,17,374,35,399,54,48,127,217,4,1,179,258,25,165,101,166,232,348,172
 DATA ON FINANCIAL PERFORMANCE The World	19242
 DAYLIPA FINANCING LIMITED Data Controller INST-996975D70AE	7167
 DAYLIPA FINANCING LIMITED Data Processor INST-996975D70AE	7167
@@ -1299,7 +1302,7 @@ DES SERVICES ADMINISTRATIFS ET FINANCIERS	16381
 DESPESA FINANCEIRA	18798,55
 DETAILS Non-World Bank Group Financing Trust	13523
 DETAILS World Bank Group Financing	13787,2867
-DETAILS World Bank Group Financing International	1704,163,424,1271,7206,792,1551,904,1646,82,932,2570,162
+DETAILS World Bank Group Financing International	1704,163,424,1271,7206,792,1551,904,1646,82,932,2570,162,595
 DETAILS-NewFinEnh1 World Bank Group Financing International	10829
 DEVELOPING LONG TERM FINANCE AND IMPROVING	12701
 DEVELOPMENT FINANCE POLICIES	17138
@@ -1468,10 +1471,13 @@ Derivados Financeiros	18757
 Des Ressources Financières	37
 Descentralização Financeira Aumento	16487
 Description AF Additional Financing AGETIP Public	15731
+Description Additional Financing	20025
 Description AfricInvest's Financial Inclusion Vehicle	606,3847
+Description Development Policy Financing	20040
 Description Financial Sector Deepening Zambia	526
 Description Financing	255,1209,354
-Description Investment Project Financing	16655
+Description Financing Agreement	20028
+Description Investment Project Financing	16655,3368
 Description Supports the Global Financing Facility	63
 Description The Africa Digital Financial Inclusion	4920
 Description The E-Governance and Public Financial Management	1410,717
@@ -1522,7 +1528,7 @@ Development Interpeople Finance Operations	13390
 Development Objective PFM Public Financial Management	18777
 Development PFM Public Financial Management RDC	970
 Development Partners Financial Contribution	14033
-Development Policy Financing	759,10020,185,505,7,2580,1435,110,368,980,1057
+Development Policy Financing	759,10020,185,505,7,2580,1435,110,368,980,1057,2025,9
 Development Policy Financing DPF Environmental and Social	11905
 Development Policy Financing III	12440
 Development Project Financing	13459
@@ -1770,6 +1776,7 @@ ECOWAS Directorate of Finance	1264
 ECOWAS Disbursement and Financial Information Letter EDGE	3604
 ECOWAS Financing Agreement	16936
 ECRRC Faly Diallo Team Member Finance	16922
+EDG. PROJECT FINANCING DATA	20002
 EDUCATION FINANCIERES Q53 Accepteriez-vous	13390
 EFFICIENCY ANALYSIS Financial Analysis	15424
 EFG Finance	9826
@@ -1829,7 +1836,7 @@ EXECUTIVE SUMMARY The Annual Financial Inclusion	7763
 EXPAND FINANCIAL PROTECTION Policy	15977
 EXPAND FINANCIAL PROTECTION The Government	15977
 EXPENDITURE Financial Contributions	16973
-Early Response Financing	15190,1208
+Early Response Financing	15190,1208,3650
 Early-Stage Finance Director	12856
 Early-Stage Finance Facility	15019
 Early-Stage Finance for Digital Entrepreneurs R3	16876
@@ -1877,6 +1884,7 @@ Ecotourism Financing	17157
 Edição Banco de Moçambique Gabinete de Inclusão Financeira	2138
 Education Finance Management Intern	13310
 Education Financial Management Intern	13310
+Education Financing	19988
 Education Financière	10965,979
 Education Financière PNUD Programme National	10965
 Education Financière SNFI Stratégie Nationale de Finance	11944
@@ -2077,6 +2085,7 @@ External Financing Releases and Expenditure	19641
 External Financing Requirement	17257
 External Financing Requirements and Sources	17909,81,833
 External Financing of Projects	14830
+Extractives. Financing	20002
 Extremely Financially Vulnerable	15130
 Exécution Financière Enregistrés	16469
 Exécution des Lois de Finances	10975
@@ -2390,7 +2399,7 @@ FINANCING DETAILS World Bank Group Financing	14553
 FINANCING DEVELOPMENT OBJECTIVES AND COMPONENTS Project	13731
 FINANCING ENVELOPE OF US	11417
 FINANCING FACILITY	10829
-FINANCING Financing	13742
+FINANCING Financing	13742,6246
 FINANCING Financing Source Original	11924,6038
 FINANCING Introduction	15138
 FINANCING LOCALLY-LED CLIMATE ACTION PROGRAM	14546
@@ -2403,7 +2412,7 @@ FINANCING OF THE TSMP II	19519
 FINANCING Original	15424,239,2186
 FINANCING PLAN AND BUDGET	13965,892
 FINANCING Private	18795
-FINANCING Private Capital Facilitation	2473,2180,11316,218,2172,925
+FINANCING Private Capital Facilitation	2473,2180,11316,218,2172,925,706
 FINANCING Summary	2889,12249,845,2826,475,171
 FINANCING TYPE	15010
 FINANCING Total Operation Cost	15782
@@ -2428,6 +2437,7 @@ FIRST HOUSING FINANCE COMPANY	19592
 FIS FinScope Digital Financial Services	15130
 FISIM Financial Intermediation Services Indirectly Measured	14777
 FIXANT LA REPARTITION DE L’AIDE FINANCIERE	17829
+FInance Mourana Soumah	20002
 FKE Federation of Kenya Employers FSD Financial	7548
 FM Financial Management	11965
 FM Financial Management FNDS National Sustainable	2473
@@ -2509,7 +2519,7 @@ Finan- National Planning	6938
 Financ. Correntes RECEITAS EFECTIVAS	18798,55
 Financas	574
 Financcs	15399
-Finance	50,31,154,1,4,51,24,93,129,21,29,131,43,28,365,7,37,89,95,172,46,90,66,27,6,1,1,1,3,33,14,146,105,237,12,128,128,6,63,1,102,70,92,25,149,34,68,6,273,96,84,125,69,242,23,27,64,19,121,45,126,45,47,59,23,8,55,75,8,48,76,79,85,25,38,48,105,84,410,131,84,44,58,79,9,35,99,431,96,26,8,143,105,266,78,10,100,57,58,24,35,29,40,5,111,6,88,52,16,17,185,63,88,9,43,127,22,32,82,120,86,81,38,125,55,11,6,3,6,20,71,47,7,80,102,86,44,1,78,1,150,229,15,209,42,67,101,18,27,5,7,18,6,30,12,15,6,8,94,1,4,7,1,154,3,22,26,11,8,17,12,55,4,7,8,1,27,137,329,57,2,6,4,7,7,1,2,1,6,4,44,8,29,10,8,30,121,14,1,35,10,35,13,44,28,21,5,4,89,1,8,34,25,34,5,95,204,106,6,2,5,3,4,23,54,2,59,8,80,8,100,21,10,2,2,16,26,3,2,60,6,12,25,9,52,147,24,4,11,94,102,93,113,74,100,161,87,61,15,32,42,3,23,4,4,11,9,5,1,1,42,11,33,25,3,5,14,15,7,2,1,41,9,12,26,4,91,12,34,208,27,28,46,20,26,31,109,4,6,5,24,18,43,142,26,4,5,84,12,112,1,67,54,189,171,67,150,14,15,12,12,27,1,18,29,47,83,7,31,18,78,6,19,57,47,6,35,181,241,2,16,11,13,1,48,156,219,12,71,24,2,1,33,27,4,2,4,2,1,24,7,22,12,36,1,24,168,7,48,13,49,1,231,14,88,24,121,168,68,24,13,11,62,32,57,9,7,1,21,23,3,86
+Finance	50,31,154,1,4,51,24,93,129,21,29,131,43,28,365,7,37,89,95,172,46,90,66,27,6,1,1,1,3,33,14,146,105,237,12,128,128,6,63,1,102,70,92,25,149,34,68,6,273,96,84,125,69,242,23,27,64,19,121,45,126,45,47,59,23,8,55,75,8,48,76,79,85,25,38,48,105,84,410,131,84,44,58,79,9,35,99,431,96,26,8,143,105,266,78,10,100,57,58,24,35,29,40,5,111,6,88,52,16,17,185,63,88,9,43,127,22,32,82,120,86,81,38,125,55,11,6,3,6,20,71,47,7,80,102,86,44,1,78,1,150,229,15,209,42,67,101,18,27,5,7,18,6,30,12,15,6,8,94,1,4,7,1,154,3,22,26,11,8,17,12,55,4,7,8,1,27,137,329,57,2,6,4,7,7,1,2,1,6,4,44,8,29,10,8,30,121,14,1,35,10,35,13,44,28,21,5,4,89,1,8,34,25,34,5,95,204,106,6,2,5,3,4,23,54,2,59,8,80,8,100,21,10,2,2,16,26,3,2,60,6,12,25,9,52,147,24,4,11,94,102,93,113,74,100,161,87,61,15,32,42,3,23,4,4,11,9,5,1,1,42,11,33,25,3,5,14,15,7,2,1,41,9,12,26,4,91,12,34,208,27,28,46,20,26,31,109,4,6,5,24,18,43,142,26,4,5,84,12,112,1,67,54,189,171,67,150,14,15,12,12,27,1,18,29,47,83,7,31,18,78,6,19,57,47,6,35,181,241,2,16,11,13,1,48,156,219,12,71,24,2,1,33,27,4,2,4,2,1,24,7,22,12,36,1,24,168,7,48,13,49,1,231,14,88,24,121,168,68,24,13,11,62,32,57,9,7,1,21,23,3,86,44,9,9
 Finance Accelerating Savings Groups Transformation	13938
 Finance Access	5247,7198,4497
 Finance Act	1154,771,1658,1019,2319,865,2278,324,1518,285,17,1043,60,459,630,357,20,7,35,24,89,2538,980,38,12,37,4,36,1008,17,225
@@ -2635,7 +2645,7 @@ Finance Meets Technological Innovation URL	19390
 Finance Min Augustine Kpehe Ngafuan	2604
 Finance Min Seedy Keita	3236
 Finance Min Tweah	2456
-Finance Minister	158,992,133,559,400,973,368,217,478,1413,260,803,548,292,101,44,1,157,677,2007,1841,686,1108,584,2598,1254,1319
+Finance Minister	158,992,133,559,400,973,368,217,478,1413,260,803,548,292,101,44,1,157,677,2007,1841,686,1108,584,2598,1254,1319,64
 Finance Minister Abdelkrim Bouzred	6204
 Finance Minister Ahmed	3176
 Finance Minister Ahmed Kouchouk	8770,1678
@@ -2852,13 +2862,14 @@ Finance. Bank	587
 Finance. Besides	13938
 Finance. Expenses	587
 Finance. Grants for Local	18467
+Finance. Implementing Agency	20002
 Finance. Ministerial	11
 Finance. Mr Speaker	13387
 Finance. Policy	587
 Finance.'393	3583
 FinanceFisheryFood	11215
 FinanceTok	12867
-Financed	158,701,548,308,2521,106,440,1469,4713,12,898,346,126,2390,251,10,389,167,105,581,145,552,934,92,889
+Financed	158,701,548,308,2521,106,440,1469,4713,12,898,346,126,2390,251,10,389,167,105,581,145,552,934,92,889,1139
 Financed SDR	18887
 Financee	14662
 Financeira	2816,50,7886,6,2029,2985,715,2281,5,2,21
@@ -2916,7 +2927,7 @@ Financements GPE	15673
 Financements Le SNISI	18093
 Financements de Projets	13630,2293
 Financer	4833,5012,1031,4624,2398
-Finances	311,98,868,3,13,6,1,6,22,351,3,2,153,81,43,23,12,18,4,12,26,2,11,231,42,109,25,85,42,312,11,24,21,73,20,277,55,10,271,38,4,50,47,125,127,9,28,20,10,3,20,4,7,61,1,18,58,35,29,5,7,3,164,446,55,12,16,26,175,24,164,203,36,15,107,4,23,10,41,255,33,45,20,196,104,45,145,22,5,50,62,189,29,78,27,136,122,100,91,19,157,6,58,77,16,70,8,197,56,241,118,1,66,12,36,23,69,99,8,289,6,3,1,45,64,19,152,345,282,51,17,228,7,69,17,40,60,15,4,109,2,53,1,8,15,2,3,11,17,32,21,87,1,61,44,343,45,13,17,308,39,68,514,103,672,5,8,15,5,7,92,19,12,19,90,10,91,52,45,10,15,47,51,14,15,14,2,1,1,229,180,67,12,2,1,4,1,2,11,8,4,1,14,2,4,12,25,7,3,9,4,6,1,27,4,5,47,204,4,8,55,273,175,1,8,5,12,5,4,12,1,6,6,4,2,5,3,1,4,33,3,11,11,4,32,17,15,12,13,1,5,16,1,20,1,13,11,2,19,3,11,13,13,1,17,9,4,24,3,9,123,32,3,37,26,2,14,5,17,8,2,5,5,14,9,25,15,8,28,3,16,51,4,41,2,38,12,5,42,11,74,30,98,26,2,1,4,1,1,17,6,4,16,63,359,358,7,1,12,13,110,83,145,2,2,1,2,1,1,6,1,1,3,5,4,4,3,13,3,2,6,2,2,5,7,6,4,1,3,3,8,3,56,10,1,8,12,12,17,8,7,16,2,16,8,6,5,5,30,10,6,5,13,8,11,8,3,2,28,9,9,4,20,15,1,1,8,23,3,2,3,5,19,1,1,3,42,2,1,1,1,9,2,473,44,9,2,31,15,31,11,18,20,1,3,12,20,1,21,15,37,31,1,8,1,2,5,4,11,10,9,14,3,43,41,24,20,45,22,158,202,59,6,54
+Finances	311,98,868,3,13,6,1,6,22,351,3,2,153,81,43,23,12,18,4,12,26,2,11,231,42,109,25,85,42,312,11,24,21,73,20,277,55,10,271,38,4,50,47,125,127,9,28,20,10,3,20,4,7,61,1,18,58,35,29,5,7,3,164,446,55,12,16,26,175,24,164,203,36,15,107,4,23,10,41,255,33,45,20,196,104,45,145,22,5,50,62,189,29,78,27,136,122,100,91,19,157,6,58,77,16,70,8,197,56,241,118,1,66,12,36,23,69,99,8,289,6,3,1,45,64,19,152,345,282,51,17,228,7,69,17,40,60,15,4,109,2,53,1,8,15,2,3,11,17,32,21,87,1,61,44,343,45,13,17,308,39,68,514,103,672,5,8,15,5,7,92,19,12,19,90,10,91,52,45,10,15,47,51,14,15,14,2,1,1,229,180,67,12,2,1,4,1,2,11,8,4,1,14,2,4,12,25,7,3,9,4,6,1,27,4,5,47,204,4,8,55,273,175,1,8,5,12,5,4,12,1,6,6,4,2,5,3,1,4,33,3,11,11,4,32,17,15,12,13,1,5,16,1,20,1,13,11,2,19,3,11,13,13,1,17,9,4,24,3,9,123,32,3,37,26,2,14,5,17,8,2,5,5,14,9,25,15,8,28,3,16,51,4,41,2,38,12,5,42,11,74,30,98,26,2,1,4,1,1,17,6,4,16,63,359,358,7,1,12,13,110,83,145,2,2,1,2,1,1,6,1,1,3,5,4,4,3,13,3,2,6,2,2,5,7,6,4,1,3,3,8,3,56,10,1,8,12,12,17,8,7,16,2,16,8,6,5,5,30,10,6,5,13,8,11,8,3,2,28,9,9,4,20,15,1,1,8,23,3,2,3,5,19,1,1,3,42,2,1,1,1,9,2,473,44,9,2,31,15,31,11,18,20,1,3,12,20,1,21,15,37,31,1,8,1,2,5,4,11,10,9,14,3,43,41,24,20,45,22,158,202,59,6,54,55,9
 Finances Act	19525
 Finances Anosy	14527
 Finances Boulevard Denis Sassou-N’guesso	15901
@@ -3449,7 +3460,7 @@ Financial Literacy and Inclusion UMI Ultra Mikro	11994
 Financial MINECOFIN	14997
 Financial Mail	13461
 Financial Mail. Arena	13461
-Financial Management	1228,36,20,583,1022,567,1197,1886,2898,1322,9,61,6,2,1,74,52,4,212,57,180,108,330,15,16,1,1,1,35,15,16,10,188,1,9,32,145,1,11,1,135,429,53,84,277,1,60,618,728,90,3,104,30,54,119,52,182,39,13,94,35,48,57,1,2,2,139,181,161,43,427,282,26,22,5,11,1238,95,283,59,119,133,358,210,178,19,1,169,13,1,11,11,1,65,14,1
+Financial Management	1228,36,20,583,1022,567,1197,1886,2898,1322,9,61,6,2,1,74,52,4,212,57,180,108,330,15,16,1,1,1,35,15,16,10,188,1,9,32,145,1,11,1,135,429,53,84,277,1,60,618,728,90,3,104,30,54,119,52,182,39,13,94,35,48,57,1,2,2,139,181,161,43,427,282,26,22,5,11,1238,95,283,59,119,133,358,210,178,19,1,169,13,1,11,11,1,65,14,1,48,1
 Financial Management Absence of Human Trafficking	10759
 Financial Management Action Plan	15372
 Financial Management Action Plan Action	15659
@@ -3510,6 +3521,7 @@ Financial Management Specialist Henie Dahlia Takodjou	11924
 Financial Management Specialist Ndri Marina Assoumou	17962
 Financial Management Specialist Zarafshan H. Khawaja	15601
 Financial Management Specialist and Project Accountant	1867
+Financial Management Specialist. Koulako Camara	19988
 Financial Management Sustainability	899
 Financial Management System	6432,6016,4522
 Financial Management System IPOs Initial Public	19633
@@ -4063,13 +4075,13 @@ Financiers. La CIF	11944
 Financiers. Menaces	17882
 Financiers. Pensez-vous	13390
 Financimanento Interno	18798,55
-Financing	27,3,1,1,1,17,65,422,21,17,141,211,195,105,2,35,20,376,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,26,110,4,6,4,39,188,98,138,51,131,163,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,235,493,74,106,42,110,717,132,90,187,56,36,204,26,458,11,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,357,12,516,94,157,144,62,202,31,319,288,55,295,89,305,446,608,361,768,5,11,50,37,98,53,114,9,2,168,11,96,52,56,35,12,283,8,42,19,31,10,165,7,38,39,112,62,11,13,14,86,82,75,60,103,63,85,62,69,220,1,50,10,131,101,57,53,22,31,6,37,38,114,8,5,20,8,109,261,63,97,48,26,203,58,9,13,2,23,2,11,6,12,10,35,86,41,19,7,26,14,40,128,128,11,2,5,32,3,25,26,17,37,1,2,36,46,39,20,99,68,14,50,111,43,106,105,38,218,21,124,49,35,1,38,14,13,11,25,131,19,4,14,82,22,3,38,30,6,107,62,366,93,397,11,4,104,112,38,16,151,14,42,36,46,312,39,123,48,64,45,38,31,10,3,17,155,17,12,8
+Financing	27,3,1,1,1,17,65,422,21,17,141,211,195,105,2,35,20,376,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,26,110,4,6,4,39,188,98,138,51,131,163,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,235,493,74,106,42,110,717,132,90,187,56,36,204,26,458,11,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,357,12,516,94,157,144,62,202,31,319,288,55,295,89,305,446,608,361,768,5,11,50,37,98,53,114,9,2,168,11,96,52,56,35,12,283,8,42,19,31,10,165,7,38,39,112,62,11,13,14,86,82,75,60,103,63,85,62,69,220,1,50,10,131,101,57,53,22,31,6,37,38,114,8,5,20,8,109,261,63,97,48,26,203,58,9,13,2,23,2,11,6,12,10,35,86,41,19,7,26,14,40,128,128,11,2,5,32,3,25,26,17,37,1,2,36,46,39,20,99,68,14,50,111,43,106,105,38,218,21,124,49,35,1,38,14,13,11,25,131,19,4,14,82,22,3,38,30,6,107,62,366,93,397,11,4,104,112,38,16,151,14,42,36,46,312,39,123,48,64,45,38,31,10,3,17,155,17,12,8,133,2,12,18,9
 Financing AF2 Second Additional Financing AFD	19455
 Financing Africa's Digital Future	8472
 Financing Africa's Digital Transformation	3845,22,11
 Financing Africa's Industrial Transformation	7787
 Financing Africa's Infrustructure Development	14724
-Financing Agreement	577,687,440,67,96,606,1,415,715,2935,2130,2099,61,10,1016,8,42,19,296,965,146,1,60,67,297,94,696,366,75,151,234,229,57,85,59,230,155,249,460,26,4,10,13,11,295,1104,129,173,83,143,358,398,192
+Financing Agreement	577,687,440,67,96,606,1,415,715,2935,2130,2099,61,10,1016,8,42,19,296,965,146,1,60,67,297,94,696,366,75,151,234,229,57,85,59,230,155,249,460,26,4,10,13,11,295,1104,129,173,83,143,358,398,192,155,30
 Financing Agreement Description Under Category	10964
 Financing Agreement Financing	10964
 Financing Agreement Grant Number E262-GM	1179
@@ -4087,6 +4099,7 @@ Financing Agreement. See Annex	13331
 Financing Agreement. Specifically	11863
 Financing Agreement. The AWPB	16949
 Financing Agreement. The NSC	18661
+Financing Agreement. The PCU	19988
 Financing Agreement. The Procurement Plan	11417
 Financing Agreements	1264,14880,805,1816,122
 Financing Agreements for Vision	7426
@@ -4115,7 +4128,7 @@ Financing Financing Total Component	17441
 Financing Financing Total Project Cost	1284,15638
 Financing Future Key	15833
 Financing GCF-financing	18581
-Financing Gap	761,523,420,163,424,598,567,106,42,2935,4229,61,588,108,35,405,461,243,442,221,191,264,6,75,147,895,27,17,184,52,221,102,37,71,40,322,310,382,247,1887,436,162,48,188,20,172,12,8
+Financing Gap	761,523,420,163,424,598,567,106,42,2935,4229,61,588,108,35,405,461,243,442,221,191,264,6,75,147,895,27,17,184,52,221,102,37,71,40,322,310,382,247,1887,436,162,48,188,20,172,12,8,147
 Financing Gap Persists	7523
 Financing Gap and Sources of Financing	17503
 Financing Global Health	2678
@@ -4184,6 +4197,7 @@ Financing Summary	18625
 Financing Sustainable Digital Market	5241
 Financing Targeted	14674
 Financing Targets Energy	7426
+Financing The World Bank's IDA	20040
 Financing Total Amount Project of Components Approval	15663
 Financing Transportation Durban Container Terminal Pier	11248
 Financing Type Constraints P180987 Additional Financing	1284
@@ -4261,6 +4275,7 @@ Finanzas Públicas Diversificada	1701
 Finanzas Públicas ODS	1701
 Finanzas Públicas PRODUCTIVIDAD	1701
 Finanze	8774
+Finanzen	20013
 Finanziert	18815
 Finanzierung	9062
 Finanzierungsinstitutionen	9062
@@ -4270,8 +4285,11 @@ Finanzinstitutionen	692,1
 Finanzmanagements BMZ	825
 Finanzministerium	18815
 Finanzprodukten	692,1
+Finanzsektorprojekt. Schlagworte	20013
 Finanzverwaltung II Efficient	2220
 Finanzverwaltung KfW Development Bank	1533
+Finanzwesen	20013
+Finanzwesen Träger	20013
 Finanças	13,154,53,1119,522,277,157,178,311,32,50,252,401,190,184,188,48,18,359,50,1,21,169,582,26,68,20,278,233,25,558,103,54,276,1033,197,319,1270,306,659,9,2,10,603,2,10,13,7,20,19,8,70,3,12,5,10,4,340,38,75,7,121,647,9,25,25,1464,2,949,92,3,1,21,11,42,17,36,18,1,21,6,40,122,218,50,60,8,26,11,22,45,4,4,45,6,6,122,22,33,658,66,120,334,1195,1,2,1,7,7,5,1,2,2,2,2,13,2,2,2,31,6,16,21,21
 Finanças Attn	8166,7944,383
 Finanças CAPÍTULO I Disposições Gerais ARTIGO	12789
@@ -4557,6 +4575,7 @@ Guidelines for Investment Project Financing	13527
 Guinea FM Financial Management FY Fiscal	18754
 Guinea Financing Agreement	16936
 Guinea Financing Instrument Investment Project Financing	16654
+Guinea Finanzierung	20013
 Guinea-Bissau Financing Agreement	16936
 Gujarat International Finance Tec-City	14819
 H Public Financial Management	15659
@@ -5033,7 +5052,7 @@ International Development Finance Corporation	2025,2422
 International Energy Agency IFMIS Integrated Financial	16942
 International Finance	12297
 International Finance Cooperation	16144
-International Finance Corporation	80,1,1,1,201,95,120,1,181,1,1,1,1,1,1,92,91,19,1,1,1,1,1,1,229,1,1,138,253,1,1,1,1,1,1,1,202,15,285,187,1,1,73,86,9,25,154,11,4,490,188,341,8,1121,499,264,48,1047,205,44,52,62,313,1192,27,601,26,398,1,229,1,1,68,68,113,467,267,123,16,107,16,141,19,35,23,107,450,124,65,301,8,44,36,923,75,607,127,209,65,48,17,1,222,312,58,123,96,443,318,168,298,331,40,128,157,15,24,15,716,1,446,310,588,31,179,178,61
+International Finance Corporation	80,1,1,1,201,95,120,1,181,1,1,1,1,1,1,92,91,19,1,1,1,1,1,1,229,1,1,138,253,1,1,1,1,1,1,1,202,15,285,187,1,1,73,86,9,25,154,11,4,490,188,341,8,1121,499,264,48,1047,205,44,52,62,313,1192,27,601,26,398,1,229,1,1,68,68,113,467,267,123,16,107,16,141,19,35,23,107,450,124,65,301,8,44,36,923,75,607,127,209,65,48,17,1,222,312,58,123,96,443,318,168,298,331,40,128,157,15,24,15,716,1,446,310,588,31,179,178,61,339
 International Finance Corporation Environmental	12253
 International Finance Corporation INP-HB Interim Financial	3604
 International Finance Corporation Internet Service Provider	15553
@@ -5084,7 +5103,7 @@ Investment Financed	11874
 Investment Financial	17260
 Investment Policy Financing	14983,23
 Investment Project Finance Modality	16963
-Investment Project Financing	1774,517,421,850,1126,1891,175,79,95,949,74,215,1437,1,1175,596,20,130,330,50,60,6,17,232,8,39,121,24,14,14,284,108,148,47,351,14,131,211,8,1,44,6,63,3,38,13,6,1,3,50,45,23,418,97,357,27,11,18,5,5,4,37,14,66,62,322,120,18,39,1,34,9,2,27,4,2,45,20,122,30,15,21,23,19,47,65,149,105,240,16,51,231,13,14,31,6,79,17,18,344,446,54,175,65,152,4,1,118,31,30,91,167,25,8,258,166,206,208,29,137,18
+Investment Project Financing	1774,517,421,850,1126,1891,175,79,95,949,74,215,1437,1,1175,596,20,130,330,50,60,6,17,232,8,39,121,24,14,14,284,108,148,47,351,14,131,211,8,1,44,6,63,3,38,13,6,1,3,50,45,23,418,97,357,27,11,18,5,5,4,37,14,66,62,322,120,18,39,1,34,9,2,27,4,2,45,20,122,30,15,21,23,19,47,65,149,105,240,16,51,231,13,14,31,6,79,17,18,344,446,54,175,65,152,4,1,118,31,30,91,167,25,8,258,166,206,208,29,137,18,141,2,11,1
 Investment Project Financing Component	12176
 Investment Project Financing Current Closing	1228
 Investment Project Financing Environmental and Social Risk	15553,4302
@@ -5109,6 +5128,7 @@ Islamic Trade Finance Corporation	19823
 Issue AI Governance Standards for Financial Services	11138
 Ivoire Rolls Out Nationwide Financial Service	5817
 Ivoire's Ministry of Finance	3441,21
+Ivoire. Ministry of Economy and Finance	19990
 Ivoire. PERFORMANCES FINANCIÈRES EN	2342
 J. Evaluation of Combined Technical and Financial Parts	13185,1895
 JOURNAL OF FINANCIAL ECONOMICS	16991
@@ -5575,6 +5595,7 @@ Mali Investment Project Financing	17962
 Mali Rapport Trimestriel Direction des Finances	17845
 Malian Finance Minister	18016
 Mamadaliev Financial Management Specialist Aissata Coulibaly	11924
+Mamadama Sylla Orange Finances Mobiles Guinée	20005
 Management Approach Material Matters Assurance Finance	11131
 Management FSAP Financial Sector Assessment Program	13836
 Management Financial Management Specialist	19284
@@ -5637,7 +5658,7 @@ Mauritius’ Public Financial Management	14828,3
 Mavuso Director Financial Regulation Lindiwe Mlambo	11131
 Maximizing Finance	15553
 Maximizing Finance Development	16144
-Maximizing Finance for Development	1264,440,163,424,1165,106,42,7164,612,180,345,1206,904,561,915,22,5,140,1,2,322,161,510,21,2176,82,312,162,256
+Maximizing Finance for Development	1264,440,163,424,1165,106,42,7164,612,180,345,1206,904,561,915,22,5,140,1,2,322,161,510,21,2176,82,312,162,256,339
 Maximizing Finance for Development DPO Development Policy	18851
 Maximizing Finance for Development Official Use Only	11417
 Maximizing Private Finance for Development	16384
@@ -5696,7 +5717,7 @@ Minister for Finance Neal Rijkenberg. Data Tech	13172
 Minister for Finance and Planning	19534,7
 Minister for Finance and Planning Dodoma	19519
 Minister of Commerce and Industry Ministry of Finance	16872
-Minister of Economy and Finance	1228,4289,5370,3210,333,1471,1558,739
+Minister of Economy and Finance	1228,4289,5370,3210,333,1471,1558,739,1804
 Minister of Economy and Finance ANNEX I PROGRAM	19214
 Minister of Economy and Finance Dawaleh	13868
 Minister of Economy and Finance Fettah	17503
@@ -5783,17 +5804,21 @@ Ministry Of Finance Legal and Institutional Environment	14777
 Ministry Responsible for Finance	19531
 Ministry of Arts and Cultural Heritage. Financial	14742
 Ministry of Economics and Finance	6938
-Ministry of Economy and Finance	312,916,600,502,1884,551,1679,1140,3234,52,655,25,2388,492,1471,737,16,787,408,21,328,599,26,28,363,633
+Ministry of Economy and Finance	312,916,600,502,1884,551,1679,1140,3234,52,655,25,2388,492,1471,737,16,787,408,21,328,599,26,28,363,633,143
 Ministry of Economy and Finance Implemented	19237
 Ministry of Economy and Finance Implementing Agency	18198
 Ministry of Economy and Finance. Civil	1982
+Ministry of Economy and Finance. Financing	20002
 Ministry of Economy and Finance. Implementing Agencies	12137
 Ministry of Economy and Finance. Implementing Agency	12137
+Ministry of Economy and Finance. Responsible Agency	19990
 Ministry of Economy and Finances	18809
 Ministry of Education Ministry of Finance	12674
 Ministry of Energy Ministry of Finance	12674
+Ministry of Energy and Hydraulics. Finances	20023
+Ministry of Energy and Ministry of Economy and Finance	20002
 Ministry of Energy and Oil MoFEP Ministry of Finance	14897
-Ministry of Finance	106,74,13,34,82,1,50,52,64,107,173,1,4,179,148,61,1,4,44,82,306,75,109,58,87,180,17,280,69,175,2,98,21,22,259,13,233,141,54,104,131,1,154,348,19,100,186,20,53,337,11,301,10,5,33,25,81,189,1,7,25,11,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,259,33,91,133,38,18,232,18,58,250,149,222,142,168,51,17,51,106,68,406,199,181,64,56,15,31,8,200,35,64,15,262,57,65,38,33,21,75,40,57,44,91,188,12,44,31,62,91,51,6,143,7,41,267,2,3,7,1,3,73,34,78,1,17,147,1,1,3,2,38,206,89,56,21,8,66,19,42,18,22,54,80,3,5,3,1,6,32,1,1,9,39,5,5,8,21,1,13,233,45,72,1,17,36,4,28,56,12,2,37,2,31,4,7,3,8,25,13,19,6,32,20,8,74,35,56,2,21,6,18,10,5,6,8,1,1,5,22,6,37,11,7,33,15,14,11,5,6,36,11,8,111,2,2,17,18,43,28,103,9,46,13,17,16,46,63,258,2,17,4,4,6,1,110,81,93,427,2,6,1,3,2,3,8,16,2,21,19,9,2,1,4,1,11,6,21,14,1,20,3,17,5,31,32,7,10,7,38,7,19,4,1,7,33,17,1,17,19,4,55,14,167,49,7,70,16,5,19,11,3,55,4,50,12,6,114,60,19,36,30,43,111,110,130,247,204,8,7,3,4,6,4,5,4,40,10,1,15,7,23,24,15,90,4,11,41,141,66,106,33,72,11,9,193,61,21,221,107,22,81,4,130,10,1,9,5,7,1,10,7,3,6,2,4,2,2,8,17,1,2,11,16,3,2,7,4,1,1,1,219,28,61,1,6,38,12,5,2,2,23,4,1,36,24,2,7,47,70,71,218,81,6,13,29,1,17,45,7,6,3,3,19,16,6,21,7,6,20,42,20,12,17,22,15,45,6,17,5
+Ministry of Finance	106,74,13,34,82,1,50,52,64,107,173,1,4,179,148,61,1,4,44,82,306,75,109,58,87,180,17,280,69,175,2,98,21,22,259,13,233,141,54,104,131,1,154,348,19,100,186,20,53,337,11,301,10,5,33,25,81,189,1,7,25,11,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,259,33,91,133,38,18,232,18,58,250,149,222,142,168,51,17,51,106,68,406,199,181,64,56,15,31,8,200,35,64,15,262,57,65,38,33,21,75,40,57,44,91,188,12,44,31,62,91,51,6,143,7,41,267,2,3,7,1,3,73,34,78,1,17,147,1,1,3,2,38,206,89,56,21,8,66,19,42,18,22,54,80,3,5,3,1,6,32,1,1,9,39,5,5,8,21,1,13,233,45,72,1,17,36,4,28,56,12,2,37,2,31,4,7,3,8,25,13,19,6,32,20,8,74,35,56,2,21,6,18,10,5,6,8,1,1,5,22,6,37,11,7,33,15,14,11,5,6,36,11,8,111,2,2,17,18,43,28,103,9,46,13,17,16,46,63,258,2,17,4,4,6,1,110,81,93,427,2,6,1,3,2,3,8,16,2,21,19,9,2,1,4,1,11,6,21,14,1,20,3,17,5,31,32,7,10,7,38,7,19,4,1,7,33,17,1,17,19,4,55,14,167,49,7,70,16,5,19,11,3,55,4,50,12,6,114,60,19,36,30,43,111,110,130,247,204,8,7,3,4,6,4,5,4,40,10,1,15,7,23,24,15,90,4,11,41,141,66,106,33,72,11,9,193,61,21,221,107,22,81,4,130,10,1,9,5,7,1,10,7,3,6,2,4,2,2,8,17,1,2,11,16,3,2,7,4,1,1,1,219,28,61,1,6,38,12,5,2,2,23,4,1,36,24,2,7,47,70,71,218,81,6,13,29,1,17,45,7,6,3,3,19,16,6,21,7,6,20,42,20,12,17,22,15,45,6,17,5,26,16,42
 Ministry of Finance Abdullah Ibrahim	15165
 Ministry of Finance Address	12701
 Ministry of Finance Annex	19602
@@ -5888,7 +5913,7 @@ Ministry of Finance and National Planning MOTS Ministry	13347
 Ministry of Finance and National Planning MoFNP	13532
 Ministry of Finance and National Planning and SMART Zambia	13387
 Ministry of Finance and PPDA. Once	19735
-Ministry of Finance and Planning	1261,383,1939,1057,1619,552,3788,534,9,6415,1104,3,16,839,23
+Ministry of Finance and Planning	1261,383,1939,1057,1619,552,3788,534,9,6415,1104,3,16,839,23,462
 Ministry of Finance and Planning MICSTI Ministry of Home	12674
 Ministry of Finance and Planning. Maxwell Melingasuk Loboka	4640
 Ministry of Finance and Planning. South Sudan	6259
@@ -5911,6 +5936,7 @@ Ministry of Finance. Data	10829
 Ministry of Finance. Debt	18500
 Ministry of Finance. Despite	19584
 Ministry of Finance. Done	14025
+Ministry of Finance. Engage Donors and Partners	20004
 Ministry of Finance. Fees	16835
 Ministry of Finance. Financial Secretary Matthew Dingie	10328
 Ministry of Finance. Following	18577
@@ -5982,6 +6008,7 @@ MoF&EA Ministry of Finance and Economic Affairs MNSSP	12964
 MoFEA Ministry of Finance	13005
 MoFED Ministry of Finance and Economic Development MoHCC	970
 MoFEP Ministry of Finance	18614
+MoUs Vice-Prime Minister and Finance Minister Olavo	20035
 Mobile Device Financing Facility Mr. Kolubah	2916
 Mobile Finance	6350
 Mobile Finance Subscriptions and Agent Counts	19728
@@ -6001,6 +6028,7 @@ Mobilizing Finance for Development	18456
 Mobilizing Financing and Data for Sustainable Development	16973
 Mobilizing Liberia's Development Financing	8574
 Mobilizing Private Sector Financing	15424
+Mobilizing Private Sector Financing Not Applicable	19988
 Mobilizing Private Sector Financing. Not Applicable	16436
 Mobilizing Private-Sector Financing	15511
 Modelo de Gestão Financeira	10750
@@ -6216,6 +6244,7 @@ National Government Financing of Non-Financial Assets	2775
 National Health Fellows and Public Financial Management	18163
 National Housing Finance Authority	8087
 National Housing Finance Corporation	8563,2722
+National Identity the Ministry of Finance Payroll System	20004
 National Inclusive Finance Strategy	10967
 National Infrastructure Financing	7548
 National Local Government Finance Committee	5620,636,498,1821,92,4311
@@ -6267,6 +6296,7 @@ Nigeria’s Financial Ecosystem	11138
 Nigeria’s Fintech Landscape and Global Trends Financial	4848
 Nil FINANCE ACT	18541
 Nitin Ramphul Chief Executive Officer Financial	14819
+No. Ministry of Economy and Finance	19990
 Non Deposit Taking Financial	15023
 Non H. EDUCATION FINANCIERE Pensez-vous	13390
 Non- Banking Financial Institutions and Payment Service	19948
@@ -6294,6 +6324,7 @@ Non-World Bank Financing	15663,2186,113
 Non-World Bank Group Financing	3604,7164,649,971,444,2078,27,1207,149,3350,20,172
 Non-World Bank Group Financing Commercial Financing	1704,587,1271,9769,3323,2591
 Non-World Bank Group Financing Counterpart Funding	14015
+Non-World Bank Group Financing Other Sources	20002
 Non-World Bank Group Financing The World	11905
 Non-World Bank Group Financing Trust Funds	10829,2282,221,1644,685,723,291,247,2485
 Non-bank Financial Institutions Regulatory Authority	19664
@@ -6392,7 +6423,7 @@ Orange Finance Mobile	7730
 Orange Finance Mobile Guinée	7730
 Orange Finances Mobiles	5324,2000
 Orange Finances Mobiles Guinee SA	1541,1
-Orange Finances Mobiles Guinée	5387
+Orange Finances Mobiles Guinée	5387,14618
 Orange Finances Mobiles Mali	5324
 Orange Money Mobile Financial Services Rollout	1142
 Order of Government Part THE FINANCE ACT	6921
@@ -6444,6 +6475,7 @@ PART IV MODES OF FINANCING	19564
 PART V Accounts and Finance	13470
 PART VIII FINANCIAL PROVISIONS	19530
 PARTENAIRES TECHNIQUES ET FINANCIERS DU SECTEUR	18105
+PARTENAIRES TECHNIQUES ET FINANCIERS RAFT RESEAU	19986
 PARTENAIRES TECHNIQUES ET FINANCIERS RESEAU EN	18105
 PARTENARIATS ET ENGAGEMENTS FINANCIERS Nous	15938
 PARTIE FINANCIERE	14498,3696
@@ -6640,7 +6672,7 @@ Policy Changes. Opportunities for Investor Financial	19532
 Policy Coherence and Financing	14818
 Policy Coherence and Financing Crop Cohesive	14818
 Policy Finance Agro Energy Mining Transport	19622
-Policy Financing	11905,1851,1735
+Policy Financing	11905,1851,1735,4511,26
 Policy Financing DSW ELP Department of Social	16952
 Policy Financing NDC Nationally Determined Contribution	18851
 Policy Financing URL	15924
@@ -6742,6 +6774,7 @@ Program’s Financial Assessment	17458
 Progrès Ministère des Finances	19205
 Proj. Financing Requirements	18851
 Project Additional Financing	14553
+Project Appraisal Document and Financing Agreement	19988
 Project Audited Report and Financial Statements	18661
 Project Components Project Cost IDA Financing	11525
 Project Cost Total Financing	10963,1
@@ -6758,7 +6791,7 @@ Project Finance	11310
 Project Finance Loan	13938
 Project Financial Management Unit	16144,805,165
 Project Financial Statements	15372,4463
-Project Financing	10964,2090,2689,3502,274,316
+Project Financing	10964,2090,2689,3502,274,316,153
 Project Financing Allocation Components IDA Financing	3604
 Project Financing Data	12388,24,14,243,1124,1618
 Project Financing Financing	10964
@@ -6838,7 +6871,7 @@ Public Expenditure and Financial Accountability PFM Public	17105
 Public Expenditure and Financial Accountability PFMRD Public	18488
 Public Expenditure and Financial Accountability PKI Public	13861
 Public Expenditure and Financial Accountability Program	11866
-Public Finance	969,1806,8004,77,275,158,697,2946,3669,983,1,381
+Public Finance	969,1806,8004,77,275,158,697,2946,3669,983,1,381,38
 Public Finance Accounts Management Regulations	10313
 Public Finance Act	9492,5673,1940,2480,17
 Public Finance Expert	15473
@@ -6884,7 +6917,7 @@ Public Finance and Monetary Statistics	17149
 Public Finance. Washington	12948
 Public Finances	1284
 Public Financial	7763
-Public Financial Management	1155,129,295,2004,21,1743,2128,1529,1324,2628,1229,361,282,3,104,96,59,321,1540,27,127,11,754,588,30,12,76,1,1270
+Public Financial Management	1155,129,295,2004,21,1743,2128,1529,1324,2628,1229,361,282,3,104,96,59,321,1540,27,127,11,754,588,30,12,76,1,1270,157
 Public Financial Management Accountability Act and Treasury	12669
 Public Financial Management Act	587,202,6906,673,6636,144,642,1188,1472,13,37,76,1375
 Public Financial Management Information Technology	18494
@@ -7337,6 +7370,7 @@ Sector Reform and Strengthening Initiative FM Financial	13836
 Sector Supervision Financial Stability Payments Systems	11131
 Sectoral Financial Statements of NBFIs	13479
 Secure Sustainable and Innovative Financing Models	17116
+Secure of Finance	20004
 Secured Overnight Financing Rate	11976,1209,3034
 Securing Ghana's Digital Finance Ecosystem	17573
 Securing Ghana’s Digital Finance Ecosystem	14691,7
@@ -7575,7 +7609,7 @@ Stratégie des Réformes des Finances Publiques	4739
 Stratégie. La Le Ministère des Finances	10965
 Strengthen Climate Finance and Governance	17257
 Strengthen Digital Finance Security The Cyber	14698
-Strengthen Financial	14997
+Strengthen Financial	14997,5007
 Strengthen Financial Capability and Resilience	12460
 Strengthen Financial Health	15130
 Strengthen Financial Health Increase	15130
@@ -7596,6 +7630,7 @@ Stronger Financial and Digital Services	15157
 Structured Commodity Trade Finance	11469
 Structures. The Ministry of Finance and Economic Affairs	12978
 Students Financial Assistance Fund NCTSP National	12923
+Stärkung des Finanzsektors	20013
 Submission and Publication of Annual Financial Report	18488
 Submission of Financial Statements and Reports Findings	13420
 Submit Second Stage Combined Technical and Financial	15080
@@ -7607,7 +7642,7 @@ Sudan Acting Minister of Finance and Economic	14890
 Sudan Minister of Finance Announces Full Support	8613
 Sudan South Sudan Ghana Financial	10793
 Sudan's Minister of State for Finance	10008
-Sudan's Ministry of Finance	15243
+Sudan's Ministry of Finance	15243,4807
 Sudanese Minister of State for Finance Mohamed	9776
 Sudanese Minister of State for Finance Mohamed Nour	9859
 Sudanhorizon Sudan’s Minister of Finance	8923
@@ -7673,7 +7708,7 @@ System FM Financial Management FSO Food	17849
 System Management and Finance	15604
 System Management and Finance Institutional	15604
 System SOFF Systematic Observations Financing Facilities	11553
-Systematic Observations Financing Facility	11553,2059,836,1548,418,2164,291,793
+Systematic Observations Financing Facility	11553,2059,836,1548,418,2164,291,793,387
 Systematic Observations Financing Facility Decision	18677
 Systematic Observations Financing Facility SWIFT	18309
 Systematic Observing and Financing Facility	14738
@@ -8078,7 +8113,8 @@ World Bank Financial Inclusion Project	19826
 World Bank Financial Support Gates Foundation	15844
 World Bank Financial Support Prosperity Vice	15844
 World Bank Financial Support Sampling Sampling	15844
-World Bank Financing	11924,3462,38,239,41,27,228,554,1449,863
+World Bank Financing	11924,3462,38,239,41,27,228,554,1449,863,1163
+World Bank Financing Agreement	20028
 World Bank Financing IDA-D0540	17849
 World Bank Financing IDA-H8780	13722
 World Bank Financing Original	13742
@@ -8125,6 +8161,7 @@ YEAR END TELECOM PROVIDER’S FINANCIAL DATA	3862
 YEAR-ROUND ENGAGEMENT The Ministry of Finance	13532
 Yahoo Finance	856
 Year Rwanda Financing Framework	8478
+Yes. Financial Management	19990
 Yet Due Completion Measurement Financial	17470
 Yewande Thorpe Communications Africa Finance Corporation	11657
 Young Innovators Financing Fund	2131

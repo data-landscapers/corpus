@@ -533,7 +533,7 @@ Environmental Risk Rating Low	11965
 Environmental Risks	1814,10575,4710
 Environmental and Social Risk	1988,14961,165,1256
 Environmental and Social Risk Categorization	15011
-Environmental and Social Risk Classification	761,2801,42,8361,255,168,24,14,243,1065,9,113,159,895,27,39,121,93,592,250,261,105,2411,475,563
+Environmental and Social Risk Classification	761,2801,42,8361,255,168,24,14,243,1065,9,113,159,895,27,39,121,93,592,250,261,105,2411,475,563,155
 Environmental and Social Risk Classification Concept Review	13111,2402,37,1125
 Environmental and Social Risk Classification Investment	15621,122
 Environmental and Social Risk Classification Substantial	15658
@@ -706,7 +706,7 @@ ICT Risk Management	19801
 ICT Risk Management Policy	15164
 ID Risques	15720
 IDA Grant. Environmental And Social Risk	13793
-IDA18 Risk Mitigation Regime	18104
+IDA18 Risk Mitigation Regime	18104,1884
 IDA20 PSW. Risks	1135
 II Resilience-based Risk Management Approach	5132
 II. Risk Assessment Matrix	17990
@@ -973,6 +973,7 @@ Moderately Satisfactory Risk	16614
 Moderately Satisfactory. Overall Risk	15782
 Moderately Satisfactory. The Environmental and Social Risk	15983
 Moderately Unsatisfactory Overall Risk Rating	2712,4216,9085
+Moderately Unsatisfactory. D. RISK TO DEVELOPMENT	19988
 Modernize Disaster Risk	15845
 Modest. Missing RIs	10779
 Monitoramento de Riscos	3519
@@ -1036,6 +1037,7 @@ Niger Disaster Risk Management and Urban Development	18104
 Nigeria Incentive-based Risk Sharing System for Agricultural	5267
 Nigeria Risk and Resilient Assessment	11468
 Nigerian Payments System Risk and Information	12000
+No. Risks	19990
 Noncommunicable Disease Risk Factors	18627
 Normas Técnicas Ferramentas Exemplos Benefícios Riscos	2816
 Notre Dame Global Adaptation Index.16 Rising	13331
@@ -1091,6 +1093,7 @@ Overall Risk Rating During Comments Implementation	15372
 Overall Risk Rating Jan	16079
 Overall Risk Rating Jun	16994
 Overall Risk Rating Moderately Satisfactory Moderately	18792
+Overall Risk and Explanation	20002
 OverallÂ RiskÂ RatingÂ	18887
 OverallÂ RiskÂ RatingÂ DuringÂ CommentsÂ PreparationÂ	18887
 Oversight and Systemic Risk	5574
@@ -1110,6 +1113,7 @@ POPULATION AT RISK SLEEPING UNDER INSECTICIDE-TREATED	16892
 PORTE FEUILLE A RISQUE POUR ENTREPRISES	13390
 POTENTIAL ENVIRONMENTAL AND SOCIAL RISKS	1988,15126
 PR Risks	15372
+PRAMS Procurement Risk Assessment and Management System	19988
 PRINCIPAIS RISCOS	11413
 PROCESSING OPERATIONS LIKELY TO PRESENT RISK	14727
 PROGRAM RISK ASSESSMENT FRAMEWORK Establish Program	1000
@@ -1164,7 +1168,7 @@ Priority Disaster Risk Management Housing Transportation	18476
 Privacy Risk Mitigation	12139
 Privacy and Surveillance Risks	9431
 Procurement Risk Analysis	11525
-Procurement Risk Assessment and Management System	16949
+Procurement Risk Assessment and Management System	16949,3039
 Procurement Risk Assessment and Management System REDISSE	11560
 Procurement Risk Assessment and Mitigation Action Plan	10768
 Procurement Risk Rating	15518
@@ -1207,6 +1211,7 @@ REGULATION IS PROPORTIONATE TO RISK IMPACT	16212
 RELATED NEWS Dangote Cement Exports Rise	8178
 RELATIONSHIP BETWEEN STRUCTURAL RISKS AND GUIDING	11156
 RELATÓRIO DA AVALIAÇÃO NACIONAL DE RISCOS	2784
+RF Results Framework RMR Risk Mitigation	19988
 RIA Riseo	14479
 RIS BibTeX Plain	15844
 RIS Injection Eneo	10975
@@ -1294,7 +1299,8 @@ RISK RANKING	17099
 RISK RATING AND VULNERABILITIES	13868
 RISK THAT THEY EXPERIENCE SERIOUS IMPACTS	2709
 RISK TO DEVELOPMENT OUTCOME	11924,3500,87,90,62,68,705,516,897,13,100,803,60
-RISK TO DEVELOPMENT OUTCOME A	11924,3500,87,90,62,773,1526
+RISK TO DEVELOPMENT OUTCOME A	11924,3500,87,90,62,773,1526,2026
+RISK TO DEVELOPMENT OUTCOME....22 V	19988
 RISKS	3184,1,419,921,6256,375,1271,2055,483,2292,1566
 RISKS AND CHALLENGES ASSOCIATED WITH DIGITAL	10819
 RISKS AND IMPACTS A. Environmental and Social	18374
@@ -1320,6 +1326,7 @@ RISQUES ET HYPOTHÈSES	15961
 RISQUES ET MESURES D'ATTENUATION	19216
 RISQUES FINANCIERS	18032
 RISQUES FINANCIERS GENERAUX REPRISES D'AMORTISSEMENTS ET	18032
+RISQUES LIES A L'EXECUTION	19986
 RISQUES MAJEURS ET MITIGATION	18103
 RISQUES VII.1	13341
 RISS BEBY ITNO	37
@@ -1769,7 +1776,7 @@ Risk-sensitive Budget Review. Available	19520
 Risk-sharing	12297,4938
 Risk3 Risk Risk Mitigating Measures Conditions	15372
 Risking	9642
-Risks	704,1,84,125,1,1,1,1,1,1,1,1,1,38,1,8,571,2,11,260,53,358,1,323,228,181,204,442,257,23,243,401,1005,144,1871,406,886,397,1592,32,210,60,5,2,18,369,330,284,373,25,795,49,39,112,149,187,70,627,36,334,94,13,96,234,39,107,143,2,62,1159,42,1,22,17,30,15,88,6,9,43,52,26,22,3,243,367,13,26,62,19,380,103,2,56,261,31,28,36,46,304,170,126,42,226,34
+Risks	704,1,84,125,1,1,1,1,1,1,1,1,1,38,1,8,571,2,11,260,53,358,1,323,228,181,204,442,257,23,243,401,1005,144,1871,406,886,397,1592,32,210,60,5,2,18,369,330,284,373,25,795,49,39,112,149,187,70,627,36,334,94,13,96,234,39,107,143,2,62,1159,42,1,22,17,30,15,88,6,9,43,52,26,22,3,243,367,13,26,62,19,380,103,2,56,261,31,28,36,46,304,170,126,42,226,34,153
 Risks Being Left Out INGOs	6947
 Risks Despite	19533
 Risks Evaluation	17114
@@ -1812,6 +1819,7 @@ Risks and Mitigation Strategies for Voter Registration	18531
 Risks and Opportunities	11140,170
 Risks and Reform Priorities	11136
 Risks and Reform Priorities Somalia	11136
+Risks and Resilience Assessment	19988
 Risks and Rewards of Online Gig Work	226
 Risks and S	11156
 Risks and Safeguards Toolkit	11156
@@ -1835,7 +1843,7 @@ Risque	1005,9374,495,160,2266,1123,1,1,4,51,8,1,1,132,749,122,87,356,392,300,305
 Risque Blocage	16328
 Risque Description Conséquence Application	16328
 Risque Non-respect	16328
-Risques	1005,6650,2582,621,16,91,144,934,1282,16,36,65,273,703,5,1,64,1,1,1003,7,25,55,140,2,118,159,329,1554,49,52,49,31,40,2,186,6,22,81,2,1,539
+Risques	1005,6650,2582,621,16,91,144,934,1282,16,36,65,273,703,5,1,64,1,1,1003,7,25,55,140,2,118,159,329,1554,49,52,49,31,40,2,186,6,22,81,2,1,539,1044
 Risques Budgétaires	15840
 Risques Divers INS Institut National	10965
 Risques Mesures	15500
@@ -1890,7 +1898,7 @@ SYSTEMATIC OPERATIONS RISK- RATING TOOL	1264,603,1737,2935,4229,649,143,4098,3,8
 SYSTEMATIC OPERATIONS RISK-RATING TOOL	969,315,9545,135,416,145,330,110,1366,1,1858,301,62,68,777,498,26,1371,8,782,746
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Last Approved	16705
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Rating	2712,1976,6707,6509,630,258
-SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173,587,31,862,1060,51,128,576,2,276,66,915,6,79,17,374,35,453,48,127,217,4,1,462,165,260,7,232
+SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173,587,31,862,1060,51,128,576,2,276,66,915,6,79,17,374,35,453,48,127,217,4,1,462,165,260,7,232,520
 Safeguarding Trust and Managing Risks	8282
 Safety and Rights Risks Kenya	7548
 Safety and Systemic Risk Framework	11050
@@ -1898,7 +1906,7 @@ Salto Fund. G. Risk Management	11863
 Sample Execution Risks and Potential Mitigation Strategies	11857
 Satellite PMU and Contractor Risk	1988
 Satisfactory Moderately Satisfactory Overall Risk Rating	17505
-Satisfactory Overall Risk Rating	4688,3189,2993,2188,1922,2116,374,663,1348
+Satisfactory Overall Risk Rating	4688,3189,2993,2188,1922,2116,374,663,1348,520
 Satisfactory Satisfactory Overall Risk	19284
 Satisfactory Satisfactory Overall Risk Rating Moderate	19249
 Satisfactory Satisfactory Overall Risk Rating Substantial	13027,5327

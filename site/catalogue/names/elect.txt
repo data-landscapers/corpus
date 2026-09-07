@@ -186,6 +186,8 @@ Bayelsa State Electricity Regulatory Agency	18186
 Beifen Electrical CPE-BEI-TQJ-ARCEP- RAS Technology Co	998
 Belgian Electronic Identity Card	10714
 Benin Electrical Community	19239
+Benin Electricity Access Scale-Up Project	20019
+Benin Electricity Access Scale-Up Project World	20019
 Benin Electricity Access Scale-up Project	15515
 Benin Electricity Community	19214
 Benin's Electoral Code	5782
@@ -432,6 +434,7 @@ Conduct of Council of State Elections	15927
 Conduct of District Level Elections for Nkoranza North	15927
 Conduct of Elections	15927
 Congo EPT Electronic	11994
+Congo's Strengthening Electricity Services Project World	20023
 Congo. The Agency for Regulation of Posts and Electronic	3961
 Congolese Regulatory Agency for Posts and Electronic	2764
 Connecting the Electrical Supply	15905
@@ -620,7 +623,7 @@ Delimitation of Electoral Boundaries	13501
 Demarcation of Electoral Boundaries	15927
 Democracy and Election Management	13561
 Democracy and Electoral Assistance	11909
-Democratic Elections	10759,76,2,1,130,902,16,1,1,1,264,1,9,38,139,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Democratic Elections	10759,76,2,1,130,902,16,1,1,1,264,1,9,38,139,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Democratic Elections Deliberative	10759,78,1315,188,7598
 Department of Electricity and Energy	11215,14,43
 Department of Energy and Electricity	11272
@@ -682,7 +685,7 @@ Domicílio Electrónico	11433
 Données Electricity Planning Model	18316
 Données des Réseaux Electriques Longueur de Ligne HTA	16714
 Dossier Electronique	18105
-Dossier Electronique du Patient	18105
+Dossier Electronique du Patient	18105,1881
 Dossier Médical Electronique	16195
 Dossier Médical Electronique Implémentation	16195
 Draft Directive Governing Electronic Communications	15825
@@ -903,6 +906,7 @@ ELECTRONIQUE Article	13719
 ELECTRONIQUE CHAPITRE I DE L'OBTIGATION D'INFORMATION	15429
 ELECTRONIQUE CHAPITRE PREMIER DES CARACTERISTIQUES	14417
 ELECTRONIQUE DANS LES ETATS MEMBRES	11522
+ELECTRONIQUE ET INFORMATIQUE DE L'ETAT ANSSI	19986
 ELECTRONIQUE ET UN UTILISATEUR SECTION PREMIERE	14417
 ELECTRONIQUE SECTION PREMIERE Des	14417
 ELECTRONIQUES	998,14490,155,2186
@@ -1207,7 +1211,7 @@ Electra	10975
 Electra N	10975
 ElectriFI	13325,5895
 ElectriFi	13460
-Electric	6921,1018,610,574,2029,117,626,264,1,73,20,3,127,13,576,413,1334,17,211,723,4192
+Electric	6921,1018,610,574,2029,117,626,264,1,73,20,3,127,13,576,413,1334,17,211,723,4192,133
 Electric Cables	16900
 Electric Company DPP The Office the Director	19519
 Electric Company Janjanbureh Area Council Kanifing	16973
@@ -1295,16 +1299,19 @@ Electricit	16851
 Electricit6	14479
 Electricitd	14479
 Electricite	16612
+Electricite de Guinee Elhaj Gando Barry	20002
+Electricite de Guinee. Proposed Development Objective	20002
 Electricite de Guinée	16654
 Electricite du Mali Mauritania	18374
 Electricitepourtous	19263
-Electricity	21,561,136,1222,48,787,410,419,598,353,670,22,1078,1312,152,229,108,9,245,219,1072,88,318,103,133,377,89,2,50,26,4,108,7,158,2,4,12,63,16,5,33,3,25,8,30,45,144,25,23,9,276,17,7,1,2,1,5,5,23,35,2,1,203,1,32,7,6,9,19,23,5,59,31,7,21,4,5,1,14,24,18,42,14,216,252,84,7,73,198,54,89,5,53,92,24,145,384,245,60,187,4,1,166,27,10,20,50,138,79,80,128,102,100,85,54,1,128,141,54,151,48,1,42,535,37,25,13,11,21,14,7,24,26,4,47,62,12,22,17,79,16,6,759,83,256,105,23,5,16,110,181,28,156,59,201,6,312,84,5,29,2,35,3,26,82,39,3,68
+Electricity	21,561,136,1222,48,787,410,419,598,353,670,22,1078,1312,152,229,108,9,245,219,1072,88,318,103,133,377,89,2,50,26,4,108,7,158,2,4,12,63,16,5,33,3,25,8,30,45,144,25,23,9,276,17,7,1,2,1,5,5,23,35,2,1,203,1,32,7,6,9,19,23,5,59,31,7,21,4,5,1,14,24,18,42,14,216,252,84,7,73,198,54,89,5,53,92,24,145,384,245,60,187,4,1,166,27,10,20,50,138,79,80,128,102,100,85,54,1,128,141,54,151,48,1,42,535,37,25,13,11,21,14,7,24,26,4,47,62,12,22,17,79,16,6,759,83,256,105,23,5,16,110,181,28,156,59,201,6,312,84,5,29,2,35,3,26,82,39,3,68,62,7
 Electricity Access	10976,1280,102,2589,1241,778,1648,625,6,401
 Electricity Access Clean Cooking Installed Renewable	18795
 Electricity Access Ensure	14947
 Electricity Access Expansion	12388,666,5566
 Electricity Access IFC International Finance Corporation	19245
 Electricity Access IFR Interim Financial Report	19239
+Electricity Access Improvement Project	20002
 Electricity Access Options	19646
 Electricity Access Policy	14947
 Electricity Access Program	14872,1
@@ -1435,6 +1442,7 @@ Electricity Sector Long-Term Development Plan	15574
 Electricity Sector Organization and Performance	13624
 Electricity Sector Policies	18614
 Electricity Sector Recovery Plan	1413,157,4830
+Electricity Sector Recovery Project	20002
 Electricity Sector Reform Programme	1570,4830
 Electricity Sector Regulation	12969
 Electricity Sector Regulator	19481
@@ -1503,6 +1511,7 @@ Electricity and Urban Development Project	15372
 Electricity and Utilities	13053
 Electricity and Water	19526
 Electricity and Water Company of Guinea-Bissau	17338
+Electricity and Water Regulatory Authority	20002
 Electricity and Water Regulatory Commission	18484,4
 Electricity and Water Supply	18483
 Electricity-Access-nationwide-inauguration-2026.pdf G B	17152
@@ -1648,7 +1657,7 @@ Electrify Over	11229
 Electrify Schools Nationwide	15132
 Electrifying	11572
 Electrilac	15670
-Electrique du Congo	15659,310
+Electrique du Congo	15659,310,4054
 Electriques	14423,1119
 Electrlclt6	14479
 Electro	13705,5771
@@ -2533,8 +2542,8 @@ Guidelines Election	4175
 Guidelines and Regulations Governing Electric Mobility	14947
 Guidelines for Electronic Money Issuers	12365
 Guinea Electricity Access Scale Up	16654
-Guinea Electricity Access Scale Up Project	16654,1
-Guinea Electricity Access Scale Up Project-Phase	16654,1,41
+Guinea Electricity Access Scale Up Project	16654,1,3347
+Guinea Electricity Access Scale Up Project-Phase	16654,1,41,3306
 Guinea-Bissau. Electricity	11552
 Guinean Electronic Payment Company	5787
 Guinea’s Electricity Company	18537
@@ -2586,6 +2595,7 @@ ICT E-Waste Electronic	19702
 ICT Electronic Government Interoperability Standard	13308
 ID Electronic Identification ESCP Environmental and Social	19284
 ID for All The Electoral Commission of Uganda	3026
+IDA-financed Guinea Electricity Access Scale Up	20002
 IDA-financed Water and Electricity Upgrading Project	15702
 IDAS Electronic Identification	12663
 IDENTIFICAÇÃO ELECTRÓNICA E SERVIÇOS DE CONFIANÇA	11461
@@ -2763,6 +2773,7 @@ Kerosine Electricity	16921
 Key Performance Indicators LEC Liberia Electricity	17260
 Keywords Electronic	10784,1541
 Keywords INTRODUCTION Electronic Health Records	11990
+Koloma National Data An Electronic	20004
 L'Autorite Nationale de Certification Electroniqu	15584
 L'Autorite Nationale de Certification Electronique	15584
 L'Autorite Nationale de Certification Electrpnlque	15584
@@ -3103,6 +3114,7 @@ National Electric Power Authority Act	11857
 National Electrical	16900
 National Electrical Safety Standards	15081
 National Electrical Wiring Standard This Standard	16900
+National Electricity Access Program	20002
 National Electricity Access Rate	19239
 National Electricity Act	18537
 National Electricity Authority	11136,3864,25,38
@@ -3611,7 +3623,8 @@ Rural Decentralized Electrification This Publicly Available	16900
 Rural Electrification	2775,3647,5157,2045,798,525,437,872,710
 Rural Electrification Access Fund	12394,562
 Rural Electrification Act	13339
-Rural Electrification Agency	1988,5759,104,405,161,1740,3294,163,2088,952,1883,1109
+Rural Electrification Agency	1988,5759,104,405,161,1740,3294,163,2088,952,1883,1109,356
+Rural Electrification Agency AGER	20002
 Rural Electrification Agency of Congo	15659
 Rural Electrification Authority	1867,11472,74,75
 Rural Electrification Authority SDA Strategic Development	1867
@@ -3659,6 +3672,7 @@ SADC Electronic Certificate of Origin	12951
 SADC Electronic Transactions and Electronic Commerce	28
 SADC PF Norms and Standards for Elections	12201
 SANAS of South Africa. The Electrical	19712
+SANITAIRE UNIVERSELLE DEP DOSSIER ELECTRONIQUE PERSONNEL	19986
 SECTEUR ELECTRICITE	10975
 SECTEUR ELECTRIQUE PERFORMANT	10975
 SECTEUR ELECTRIQUE PERFORMANT XV Rapport	10975
@@ -3837,7 +3851,7 @@ Strategic Electrification Plan	11890
 Strategy Iceland Yes Electronic Communications Plan	11529
 Strengthen Electoral Integrity	17078
 Strengthen Ghana's Electoral System	16574
-Strengthening Electricity Services Project	15969
+Strengthening Electricity Services Project	15969,4054
 Strengthening Electricity Services Project URL	15659
 Strengthening the Electricity Transmission System	15659
 Submissão Electrónica	11433

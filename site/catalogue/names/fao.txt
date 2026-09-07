@@ -80,10 +80,10 @@ FAO Representative José Luis Fernandez	8754
 FAO Resilience Team Leader for Southern Africa	12507
 FAO Rice Price Index	17104
 FAO Régional EUR	15500
-FAO SWALIM	15015,114,156
+FAO SWALIM	15015,114,156,4751
 FAO SWALIM. Nairobi	15129
 FAO Small-Scale Fisheries Guidelines	18984
-FAO Somalia	15093
+FAO Somalia	15093,4943
 FAO Somalia Water and Land Information Management	15129
 FAO Somalia. Federal Republic of Somalia	15129
 FAO Stat	8891
@@ -147,6 +147,7 @@ FAO’s Land Cover Classification System	15129
 FAO’s Land Cover Meta Language	15129
 FAO’s NSL	15129
 FSNAU and FAO SWALIM	15093
+FSNAU and FAO SWALIM's Combined Drought Index	20036
 Faostat	10812
 Faostat. Background	10812
 Faousiatou Akpo Gandé	7355

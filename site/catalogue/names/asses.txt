@@ -168,7 +168,7 @@ Assessing the Impact of ICT Integration Policy	899
 Assessing the Levels of Assurance	10775
 Assessing the Macroeconomic Productivity Gains	11140
 Assessing the Program	18370
-Assessment	584,315,71,191,42,9,52,603,121,6,579,1031,187,70,26,239,88,580,871,155,612,80,27,1009,470,584,1555,564,42,5,44,29,165,147,3,25,344,225,105,42,8,43,8,30,8,14,82,120,4,27,14,42,32,29,21,6,68,47,8,27,40,211,149,46,204,123,2,21,12,11,27,4,3,4,26,50,9,391,123,19,146,518,68,64,6,48,35,3,11,12,14,12,50,26,57,84,36,172,43,9,49,45,35,51,17,37,1,2,2,481,470,229,5,4,1,8,35,6,20,5,16,4,2,19,2,18,8,15,6,82,5,10,2,23,18,23,55,82,50,502,249,252,78,19,21,24,116,84,113,62,350,47,235,8,28,9,12,8,1,56,9,10,52,95,28,12
+Assessment	584,315,71,191,42,9,52,603,121,6,579,1031,187,70,26,239,88,580,871,155,612,80,27,1009,470,584,1555,564,42,5,44,29,165,147,3,25,344,225,105,42,8,43,8,30,8,14,82,120,4,27,14,42,32,29,21,6,68,47,8,27,40,211,149,46,204,123,2,21,12,11,27,4,3,4,26,50,9,391,123,19,146,518,68,64,6,48,35,3,11,12,14,12,50,26,57,84,36,172,43,9,49,45,35,51,17,37,1,2,2,481,470,229,5,4,1,8,35,6,20,5,16,4,2,19,2,18,8,15,6,82,5,10,2,23,18,23,55,82,50,502,249,252,78,19,21,24,116,84,113,62,350,47,235,8,28,9,12,8,1,56,9,10,52,95,28,12,157
 Assessment Agility	13477
 Assessment Approach and Coverage	17116
 Assessment Area Findings Legal and Regulatory Kenya	12210
@@ -177,6 +177,7 @@ Assessment Areas	16963
 Assessment Based	16902
 Assessment Basic Knowledge	899
 Assessment Battery Storage Technologies	18374
+Assessment CRI Corporate Results Indicators DLI	19988
 Assessment CSOs Civil Society Organisations DGP	18488
 Assessment Category BASIC INFO TABLE C-Not Required Country	11855
 Assessment Committee	970
@@ -272,7 +273,7 @@ Assessment and Research Guidelines for Mauritian HEIs	14812
 Assessment and Screening	1988
 Assessment and Study	17099
 Assessment for Learning	13477
-Assessment of Achievement of Each Objective	11924,3500,87,90,62,68,705,1426,100,803,60
+Assessment of Achievement of Each Objective	11924,3500,87,90,62,68,705,1426,100,803,60,1163
 Assessment of Achievement of Objective	18825
 Assessment of Adequacy Data	13381
 Assessment of Angola Public Procurement System	9399
@@ -312,7 +313,7 @@ Assessment of Project-based	19690
 Assessment of Q1	17235
 Assessment of Q4	17235
 Assessment of Regional Workshops' Impact	17011
-Assessment of Relevance of PDOs and Rating	15511,90,130,2131
+Assessment of Relevance of PDOs and Rating	15511,90,130,2131,2126
 Assessment of Relevance of PDOs and Rating Overall Rating	18825
 Assessment of Relevance of PDOs and Rating PDO Relevance	11924
 Assessment of Relevance of PDOs and Rating Rating	15424,239,3102
@@ -334,7 +335,7 @@ Assessment. The CA	13868
 Assessment. The EBA-Lite CA	17257
 Assessment. The REER Index	13868
 Assessmentofdecision-	8606
-Assessments	573,216,475,290,1607,1267,3025,3436,683,283,121,19,982,500,184,1116,884,1182,9,50,283,1379,1063
+Assessments	573,216,475,290,1607,1267,3025,3436,683,283,121,19,982,500,184,1116,884,1182,9,50,283,1379,1063,375
 Assessments Indicators Rating Performance	18754
 Assessments Libyan Dinars Middle East and North	16902
 Assessments and Response	12977
@@ -396,7 +397,7 @@ Burundi Digital Economy Assessment. Washington	13312,2
 C Assess International Focusing	961
 C-PIMA Assessment for Sierra Leone	18488
 C-PIMA Summary Assessment for Liberia	17257
-C. EFFICIENCY Assessment of Efficiency and Rating	15511,90,62
+C. EFFICIENCY Assessment of Efficiency and Rating	15511,90,62,4325
 C. EFFICIENCY Assessment of Efficiency and Rating Efficiency	15424,2538
 C. EFFICIENCY Assessment of Efficiency and Rating Rating	11924
 C1- Assessment	7548
@@ -404,6 +405,7 @@ CAPITAL ALLIANCE VALUERS AND ASSESSORS LIMITED	7167
 CAR Poverty Assessment	15658
 CENTER BUILD ASSESSING AFRICAN DATA CENTER	10861
 CHAPTER V TAX ASSESSMENT AND NOTICE	18594
+CODEV International. Assessment of Fundamental Skills	19988
 COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT	6477
 COMMUNITY-BASED HOUSEHOLD ASSESSEMENT	16867
 COMPLIANCE STATUS ASSESSMENTS AND REGULATORY HISTORY	17249
@@ -700,8 +702,9 @@ ESS9 Not Currently Relevant. Summary of Assessment	11965
 EXTERNAL DEBT SUSTAINABILITY ASSESSMENT	13868
 Early Assessment and Protection	14254
 Early Grade Mathematics Assessment	13310,2294,4231
+Early Grade Mathematics Assessment EGRA Early	19988
 Early Grade Mathematics Assessment Early Grade	16436
-Early Grade Reading Assessment	15604,583,249,2329
+Early Grade Reading Assessment	15604,583,249,2329,1223
 Early Grade Reading Assessments	13310
 Early Grade Reading Assessments EMIS Education	13310
 Economic Assessment of Somalia’s Accession	11136
@@ -726,7 +729,7 @@ Enhanced Capacity for Assessment	11905
 Enhanced Risk Assessment	2991
 Enhanced Vulnerability and Capacity Assessment	12977
 Environment Impact Assessments	2775
-Environment and Social Impact Assessment	11863,6772
+Environment and Social Impact Assessment	11863,6772,1353
 Environmental Assessment	11134,391,338,2075,1434,39,100,90,62,2299,156,769
 Environmental Assessment Category	12137
 Environmental Assessment Category C	16960
@@ -866,12 +869,14 @@ Government MALAWI DIGITAL READINESS ASSESSMENT	12214
 Government Readiness Assessment	12961
 Government Readiness Assessment Framework Year	16885
 Government The Digital Readiness Assessment	12214
+Grade Reading Assessment EHCVM Standards Measurement	19988
 Grievance Mechanism Assessment	11007
 Group's War Damage Assessment Committee	15169
 Guidance Note and Assessment Tool	11133
 Guidance Note and Assessment Tool. Social	19237
 Guide for Tax Administration Diagnostic Assessment	16955
 Guidelines EIA Environmental Impact Assessment EIB	18504
+Guinea Agency for Environmental Assessment	20002
 HARMS AND BENEFITS ASSESSMENT Data	1243
 HOUSEHOLD ASSESSMENT	16867
 Harmonized Health Facility Assessment	4202
@@ -946,6 +951,7 @@ Ideal Clinic Assessment	11980
 Identified Assessment	19541
 Impact Assessment	6476,470,602,5127,656,1340,164,1377,649,253
 Impact Assessment ESIP Energy Services Improvement	15515
+Impact Assessment ESMF Environmental and Social Management	19988
 Impact Assessment Framework	12214
 Impact Assessment Ministry of Local Government	13418
 Impact Assessment Period	16861
@@ -1018,6 +1024,7 @@ Kenya Primary School Education Assessment	2775
 Kenya's AI Readiness Assessment	12210
 Kenya's AI Readiness Assessment Kenya's AI	12210
 Kishamawe C. Assessment	3791
+LEGAL Environmental Assessment	19990
 LEGITIMATE INTEREST ASSESSMENT TEMPLATE	11956
 LIBERIA Assessment	17257
 LIBERIA LIBERIA Annex I. Risk Assessment	17257
@@ -1330,6 +1337,7 @@ PP.2.D.5 Assess	15604
 PP.4.B.10 Assess	15604
 PP.4.D.2 Assess	15604
 PPRA Technologies Baseline Assessment	7548
+PRAMS Procurement Risk Assessment and Management System	19988
 PRODUCT INNOVATION Assess	16942
 PROGRAM RISK ASSESSMENT FRAMEWORK Establish Program	1000
 PS4R Assessment Methodological Framework	10841
@@ -1339,7 +1347,7 @@ Parameters for Assessing Privacy and Public Interest	11956
 Paris Aligned Fragility Lens Assessment	15011
 Paris Alignment Assessment	18851
 Part VI--Quick Assessment of Administrative	10812
-Partial Assessment	15411,252,68
+Partial Assessment	15411,252,68,4259
 Partial Assessment Bank	11525
 Partial Assessment Lending	15372
 Partial Assessment. Concept Review Decision	12137
@@ -1384,6 +1392,7 @@ Practical Task Assess	16963
 Practice The Overall Trust Assessment	11138
 Pre Assessment Tool	414
 Preferential Performance Assessment Report	12500
+Preliminary Assessment Summary	20004
 Preliminary Assessment of Complaints	17243
 Preliminary Environmental and Social Assessment	17099,15
 Preliminary Environmental and Social Assessment Report	17114
@@ -1396,7 +1405,7 @@ Privacy Impact Assessments	12419,3793
 Private Sector Assessment	17441
 Processing Fee for Simplified Customs Assessment Form	14828,3
 Procurement Assessment	15518
-Procurement Risk Assessment and Management System	16949
+Procurement Risk Assessment and Management System	16949,3039
 Procurement Risk Assessment and Management System REDISSE	11560
 Procurement Risk Assessment and Mitigation Action Plan	10768
 Procurement Risks and Capacity Assessment	11863
@@ -1525,6 +1534,7 @@ Risk and Infrastructure Assessment	8546
 Risk and Resilience Assessment	1284,10261,1786,2222,883,1434
 Risk and Resilience Assessment Special Drawing Rights	16436
 Risk-Based Assessment	12389
+Risks and Resilience Assessment	19988
 Routine Data Quality Assessment	16722
 Routine Planned Assessment	13381
 Rwanda Governance Assessment	13418

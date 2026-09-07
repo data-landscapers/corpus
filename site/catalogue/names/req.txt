@@ -108,6 +108,8 @@ BANK REQUIRES THE SUBMISSION	12374
 BASIC REQUIREMENTS AND MINIMUM STANDARDS INDICATORS	19783
 BCP Requirements Code of Conduct for Public Entities	6432
 BID DOCUMENTATION REQUIREMENTS Bidders	12693
+BORROWER'S REQUEST FOR COUNTRY REASONS IDA-D3210-001	19990
+BORROWER'S REQUEST FOR COUNTRY REASONS Reallocations	19990
 BULK REQUESTS FOR TRN	11298
 BUSINESS FUNCTION REQUIREMENTS	13185
 Backup Requirements Implement	11952
@@ -261,6 +263,7 @@ DPIAs Requirement	13381
 DPO Requirements and Registration The Regulations	19910
 DUAT Requests	427
 Data Exchange Architecture Requirement	11952
+Data Format and Require	20004
 Data Layer Requirement	11952
 Data Lifecycle Management Requirement	11952
 Data Localisation Requirements The PDPL	19890
@@ -480,7 +483,7 @@ Income Required Minimum	17239
 Incorporate Cybersecurity Requirements	1777
 Index A. REQUEST FOR PROPOSAL FORM	12400
 Industry Needs Assessment New Standard Request	15127
-Information Request	11868,4972,2796,218
+Information Request	11868,4972,2796,218,130
 Information Request BDI105008	19636
 Information Request COD200966	11868
 Information Request. Note	19921
@@ -776,6 +779,7 @@ Post Request	11855
 Potential Quantum of IMT Spectrum Required	5245
 Power Requirements AC	34
 Pre- Deployment Requirements	5665
+Premium Access Required	20009
 Prequalification Request for Proposal Information Systems	7951,7129
 Price Proposal Requirement Annexure B	11240
 Pricing Requirements Completion	7266
@@ -1015,7 +1019,7 @@ Request-to-Pay	12269
 Request-to-pay	12269
 Request-to-pay Participants Direct	12270
 RequestLevel	10848
-Requested	9123,2674,78,2125,2580,260,2145
+Requested	9123,2674,78,2125,2580,260,2145,1037
 Requested Federal	5773
 Requested State	18457
 Requested the AACB Secretariat	4103
@@ -1143,6 +1147,7 @@ Requirements Under Act	19968
 Requirements and Bid Consultant Qualifi Open	17180
 Requirements and Bid IDA	17180
 Requirements and Guidelines ISO	12360
+Requirements and Procedure	19984
 Requirements and Procedures	19921
 Requirements and Procedures for Obtaining	11864
 Requirements and Stages of Transition	19900

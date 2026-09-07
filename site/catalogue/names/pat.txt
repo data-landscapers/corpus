@@ -86,6 +86,7 @@ CCOW' Patient Master	1009
 CFU and Patente	16614
 CG-BZV-01-2022 B12-00107. Maître Ado Patricia Marlène	15558
 CHANGEMENT DE NOM PATRONYMIQUE Arrêté	15455
+CHCs. Patient	20010
 CNEE. La Société de Patrimoine	16037
 CONFEMEN PATO Plano de Ações Trienal Orçamentado	11557
 CONSIDERED PATHS TO DELIVER E-GOVERNMENT SERVICES	16885
@@ -192,7 +193,7 @@ Djibouti's Path	13931
 Do Património Construído	15380
 Do Património Natural	15380
 Doctorat LOSEN OS OVU PAT Loi	18121
-Dossier Electronique du Patient	18105
+Dossier Electronique du Patient	18105,1881
 Dossier Patient	15936,2361
 Dossier Patient Informatisé	15936,370,135,1878
 Dossier Patient Partagé	18297
@@ -272,6 +273,7 @@ Francis Jocelyn Patrick	16177
 Free Tech Institute Explore Pathways	9989
 Frente Patri	9399
 Fulgence Patrick MEBIAME ONDO	16175
+Fédération Patronale des Entreprises de Guinée	19985
 G. and Patella	11133
 G. and Patrinos	16436
 GEL APPL.cutanée PATCH PATCH COMP. COMP	15930
@@ -617,7 +619,7 @@ Patel A. SMARTHealth India	1219
 Patel Hachitema	9792
 Patel and Patel	7278
 Patel&volume	1219
-Patent	4676,6293,674,241,1,10,264,1,44,1,146,4,34,7,87,4,698,2528,2828,1101,220,3
+Patent	4676,6293,674,241,1,10,264,1,44,1,146,4,34,7,87,4,698,2528,2828,1101,220,3,130
 Patent And Company Registration Agency	1222
 Patent Applications	11250
 Patent Co	11550
@@ -640,7 +642,7 @@ Patentability Requirements	12389
 Patente	8990
 Patente Tributaria	4595
 Patente Tributario	4209,12983
-Patents	7845,3124,915,1,10,264,1,44,1,146,4,41,91,1461,5914,3,87
+Patents	7845,3124,915,1,10,264,1,44,1,146,4,41,91,1461,5914,3,87,43
 Patents Act	11265
 Patents Officer	10358
 Patents Talent Policy Incentives Technology Data	15713
@@ -688,7 +690,7 @@ Pathologist and Paediatrician	12972
 Pathology	12984
 Paths	1243,2641,7122,2862
 Paths Toward Integrated Governance and ODH	14666
-Pathway	7548,3581,1328,2288,1467,2003,1663
+Pathway	7548,3581,1328,2288,1467,2003,1663,110
 Pathway Advisors	8186,456
 Pathway Advisors Limited	8186,456
 Pathways	2957,1891,1299,415,230,1390,1777,129,627,53,375,171,964,419,446,1329,752,2249,828,319,951
@@ -712,7 +714,7 @@ Patience Makwele Namibia and Botswana	9562
 Patience Makwele The City of Windhoek	6676
 Patience Masika	19647
 Patience Mutesi	8682
-Patient	21,13,362,375,238,1468,1314,70,763,1287,2077,617,1,518,731,245,88,203,385,105,697,7,51,354,1481,1940,179,31,603,105,1776,1121,58,123
+Patient	21,13,362,375,238,1468,1314,70,763,1287,2077,617,1,518,731,245,88,203,385,105,697,7,51,354,1481,1940,179,31,603,105,1776,1121,58,123,579
 Patient Administration System	14773
 Patient And Relentless	36
 Patient Care Co	1009
@@ -767,7 +769,7 @@ Patient-generated	10188
 Patient-records	15156
 Patient-specific	9855
 Patient2Vec	8606
-Patients	21,3583,1031,743,7,1009,757,613,372,469,1250,683,103,188,52,697,7,51,17,315,22,252,735,496,1214,34,690,807,111,393,180,809,173,353,122,867
+Patients	21,3583,1031,743,7,1009,757,613,372,469,1250,683,103,188,52,697,7,51,17,315,22,252,735,496,1214,34,690,807,111,393,180,809,173,353,122,867,784
 Patients Registered	7322
 Patients Screened for TB	12977
 Patients Suffer	12227
@@ -1067,6 +1069,7 @@ Préservation du Patrimoine Architectural Mauricien	14267
 Président Patrice TALON	16297
 Président Patrice TALON URL	15605
 Président Patrice Talon	6366,4516,5056
+Psacharopoulos and Patrinos	19988
 Public Disclosure of Patent	12389
 Quality Assurance and Patient Safety Framework	12729
 Quarterly PBF Database Patient	10829

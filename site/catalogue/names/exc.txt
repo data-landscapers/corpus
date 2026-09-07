@@ -109,7 +109,7 @@ BOCRA Auditorium. The Botswana Internet Exchange	12625
 Balancing Operational Excellence	11134
 Baldrige Excellence	14793
 Banco Nacional de Angola. Exceptuam-se	11386
-Bank's Systematic Tracking of Exchanges	13017
+Bank's Systematic Tracking of Exchanges	13017,6971
 Bank’s Systematic Tracking and Exchanges	17180,39
 Barbados Customs and Excise Department	15478
 Basic Microsoft Excel	14835
@@ -518,7 +518,7 @@ ExcePtions Lo	15429
 Exceder	15477
 Exceed	15669
 Exceed N	13108
-Exceeded	11198,2456,1770,1012
+Exceeded	11198,2456,1770,1012,3552
 Exceeded Erreur	16091
 Exceeded Score Overall	16719,1174
 Exceeding	5676,9816
@@ -527,7 +527,7 @@ Exceeds	17068
 Exceeds N	13108
 Exceeds Targeted Impact Goals Across Liberia	17167
 Excei	3972
-Excel	7,245,96,1,2,1,112,1,5,1,158,4,2,112,93,5,2,1,1,169,48,1,3,1,1,1,1,2,2,1,108,255,4,1,1,3,5,1,1,1,1,2,362,160,1005,983,681,603,890,286,372,150,37,66,828,111,608,90,712,224,303,833,14,37,59,43,56,147,136,147,17,26,89,107,216,32,94,17,21,66,61,45,5,10,30,172,304,589,8,35,26,50,388,587,266,187,70,76,20,106,168,178,133,30,104,198,24,77,151,61,1,113,14,39,1,4,1,11,50,29,106,10,239,8,23,24,20,43,52,112,8,212,454,22,117,57,44,55,25,26,1,24,103,135,315,164,339,291,43,29,26,21,85,62,82,85
+Excel	7,245,96,1,2,1,112,1,5,1,158,4,2,112,93,5,2,1,1,169,48,1,3,1,1,1,1,2,2,1,108,255,4,1,1,3,5,1,1,1,1,2,362,160,1005,983,681,603,890,286,372,150,37,66,828,111,608,90,712,224,303,833,14,37,59,43,56,147,136,147,17,26,89,107,216,32,94,17,21,66,61,45,5,10,30,172,304,589,8,35,26,50,388,587,266,187,70,76,20,106,168,178,133,30,104,198,24,77,151,61,1,113,14,39,1,4,1,11,50,29,106,10,239,8,23,24,20,43,52,112,8,212,454,22,117,57,44,55,25,26,1,24,103,135,315,164,339,291,43,29,26,21,85,62,82,85,30
 Excel Calculation	17140
 Excel Joab	9739
 Excel Spreadsheet	19639
@@ -535,7 +535,7 @@ Excel and APIs	17149
 Excel and PSPP	17007
 Excel and PowerPoint	14842
 Excel and QGIS. Apart	15056
-Excel-based	1824,10201,3123,863
+Excel-based	1824,10201,3123,863,3993
 Excel-based E-tick	12025
 Excel. As Instituições de Ensino Superior	11391
 Excel. Aucun. Par	15474
@@ -891,7 +891,7 @@ Exchange Rate	3583,2825,6652,3906,269,1471
 Exchange Rate Development	17104
 Exchange Rate Developments	17235
 Exchange Rate Developments Following	12962
-Exchange Rate Effective	969,295,20,583,1022,673,42,2935,4290,135,416,88,57,24,11,345,19,41,211,1155,1,402,8,1,93,25,1076,39,162,52,182,39,13,67,20,7,35,68,37,3,2,39,29,12,39,362,240,14,38,178,282,26,30,489,408,13,242,94,95,8,324,129,11,12,32,16,26,36,358,39,171,188,192,20
+Exchange Rate Effective	969,295,20,583,1022,673,42,2935,4290,135,416,88,57,24,11,345,19,41,211,1155,1,402,8,1,93,25,1076,39,162,52,182,39,13,67,20,7,35,68,37,3,2,39,29,12,39,362,240,14,38,178,282,26,30,489,408,13,242,94,95,8,324,129,11,12,32,16,26,36,358,39,171,188,192,20,133
 Exchange Rate Effective Dec	16032,3815
 Exchange Rate Effective Feb	19239
 Exchange Rate Effective Oct	17458
@@ -1089,6 +1089,7 @@ Excmo. Sr. Don Iván Bacale Ebe	17321
 Excmo. Sr. Don Pedro Abeso Obiang	17321
 Excmo. Sr. José Domingo Ndong Bakale	17192
 Excmo. Sr. Secretario de Estado	17192
+Excused Absent	20004
 Excès	13300
 Excédent	15690,357,1925
 Executive Mansion His Excellency	17280
@@ -1199,6 +1200,7 @@ Group. Excluding	10793
 Group’s Stock Exchange News Service	10218
 Guidelines for Data Exchange Standards	12360
 Guinea-Bissau. Exchange	5677
+Guinea’s DPI Government Data Exchange Hub	20004
 Guiyang Big Data Exchange	10350
 HAS Excellent B Satisfactory C Average	5679
 Harare Internet Exchange Point	578
@@ -1709,7 +1711,7 @@ SPSS and MS Excel	2948
 STANDARD FOR AUTOMATIC EXCHANGE OF FINANCIAL	11233
 STATEMENT BY HIS EXCELLENCY DR JULIUS	4114,14432
 STATEMENT OF HIS EXCELLENCY	17347
-STEP Systematic Tracking of Exchanges	2889,715,9727,2187,143,723,565,1352,1546
+STEP Systematic Tracking of Exchanges	2889,715,9727,2187,143,723,565,1352,1546,141
 SaJes of Excess Electricity	16851
 Salaam Stock Exchange	6921,7255,5358,68
 Salaam Stock Exchange FDI Dar	19534
@@ -2053,7 +2055,7 @@ World Bank Excessive	10856
 World Bank Systematic Tracking of Exchanges	11924
 World Bank's Systematic Tracking of Exchanges	19245
 World Bank’s Systematic Tracking of Exchanges	10768
-World Federation of Exchanges	10969,926,264,46,282,7378
+World Federation of Exchanges	10969,926,264,46,282,7378,130
 Worst Excess Energy Scenario	11228
 X-Road Data Exchange Layer	16939
 X01 EXCEDENT DES REPRISES SUR	17833

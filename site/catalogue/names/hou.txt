@@ -263,7 +263,7 @@ Day End Notification Hours	13606
 Deal House	14230
 Dear Hournorable Speaker	11289
 Decennial Population and Housing Census	19526
-Decent Housing	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,3175,3989,1,169,14,22,1,65,14,1
+Decent Housing	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,3175,3989,1,169,14,22,1,65,14,1,48
 Decent Housing Absence of Armed Conflict	10838
 Demographic and Household Survey	10829
 Demographic and Housing Survey	12962
@@ -273,7 +273,7 @@ Department of Housing	19016
 Department of Lands and Housing	19096
 Deputy Minister of National Housing and Social Amenities	13591
 Development Index HIECS Household Income	15604
-Digital Houses	2550,3653,7692
+Digital Houses	2550,3653,7692,6137
 Directorate of Housing and Utilities	15473
 Disabilities Household Disability Status Value MPI	15244
 Disabilities Households	15244
@@ -557,6 +557,7 @@ Halfway House. Educational	12977
 Harmonized Household Income and Expenditure Surveys	15604
 Harmonized Household Living Conditions Survey	15810,323
 Harmonized Household Living Standards Survey	16384
+Harmonized Households Leaving Standards Measurement Survey	19988
 Harmonized Survey of Household Living Conditions	11581
 Harmonized Survey of Household Living Conditions. Senegal	18301
 Head ICT Ministry of Housing and Lands	14770

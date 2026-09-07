@@ -71,6 +71,7 @@ Agencies MIP-1 Malawi Implementation Plan	13060
 Agency Implementing Agency Action No Change	1228
 Agreement Funding and Implementation Agreement AfDB	13938
 Aide Memoires and Implementation	15663
+Aides-memoire and Implementation Status Reports	19988
 Angola AGO Benin BEN Implementing	13082
 Angola Ministry of Health Implementing Agency	11417
 Annex A. Action Plan Implementing Entity	1777
@@ -108,14 +109,15 @@ Awareness Programs The Annual Implementation Plan	19541
 Awareness Targets and Actual Implementation Report	19541
 B Implementing Agencies	16614,2140
 B. Implementation	14456
-B. KEY FACTORS DURING IMPLEMENTATION	15424,87,90,62,68,705,516,910,100,803
+B. Implementation Efficiency Analysis	19988
+B. KEY FACTORS DURING IMPLEMENTATION	15424,87,90,62,68,705,516,910,100,803,1223
 B. KEY FACTORS DURING IMPLEMENTATION Factors	11924
 B. Progress of Implementation of Key Activities	19737
 B. Project Implementation Manual	14912,2024
 B. SIGNIFICANT CHANGES DURING IMPLEMENTATION	11924,3500,87,90,62,39,29,259,962,897,13,100,803
-B. SIGNIFICANT CHANGES DURING IMPLEMENTATION Revised	15511
+B. SIGNIFICANT CHANGES DURING IMPLEMENTATION Revised	15511,4477
 B.4 System-Level Investments and Implementation Efficiency	16436
-BANK LENDING AND IMPLEMENTATION SUPPORT	11924,3500,87,90,62,68,705,516,897,13,100,803,60
+BANK LENDING AND IMPLEMENTATION SUPPORT	11924,3500,87,90,62,68,705,516,897,13,100,803,60,1163
 BASIC PRINCIPLE OF IMPLEMENTATION	4153
 BIT Figure A1.2. Project Implementation Team	16949
 BPO Implementation Strategy	19660
@@ -226,7 +228,7 @@ Comments Action Description Implementation	17505
 Comments Planned Implementati	19541
 Commerce Development and Implementation	13295
 Commercial Courts- Implement	11906
-Commission Implementing Decision	970,11873
+Commission Implementing Decision	970,11873,7191
 Commission Implementing Decision C	644
 Commission Implementing Decision EU	8533
 Commissioner for Strategic Coordination and Implementation	19798
@@ -545,6 +547,7 @@ Fieldwork Implementation and Timeline	15244
 Fig.4.1 Implementation Framework	19642
 Final Provisions and Implementation Architecture	17745
 Finance Management PIU Project Implementation Unit	15411
+Finance. Implementing Agency	20002
 Finances Implementing Agencies Ministère	16675
 Financial Implement	14997
 Financial Implementation	10776
@@ -638,6 +641,7 @@ Handbook for Implementing	4126
 Hands-on Enhanced Implementation Support	10829,135,2367,1,2221,68
 Hands-on Expanded Implementation Support	1284,583,1022,567,106,42,7164,649,52,91,345,3233,380,140,1,2,308,14,161,778,258,1018,611,436,39
 Hands-on Expanded Implementation Support ICT International	16144
+Hands-on Extended Implementation Support	19990
 Harmonised Implementation Framework	7494,1736
 HarrisonRSheENDebonoD. Implementing	8376
 Header The World Bank Implementation	6833
@@ -650,6 +654,7 @@ High Overall Implementation Progress	16994
 High-level Implementation Plan	12674
 High. Implementing Agency	16398
 Human Capital Index Hands-on Expanded Implementation	15553
+Human Capital Index ICR Implementation Completion	19988
 Hydrographical Implementation	17157
 I. II. III. IV. V. Implementation	4260
 I. II. III. Implementation Plan	4260
@@ -672,6 +677,7 @@ ICR00006333 IMPLEMENTATION COMPLETION AND RESULTS REPORT	15663
 ICR00023 IMPLEMENTATION COMPLETION AND RESULTS REPORT	15702
 ICR00028 IMPLEMENTATION COMPLETION AND RESULTS REPORT	15704
 ICR00098 IMPLEMENTATION COMPLETION AND RESULTS REPORT	15990
+ICR00154 IMPLEMENTATION COMPLETION AND RESULTS REPORT	19988
 ICR00178 IMPLEMENTATION COMPLETION AND RESULTS REPORT	13861
 ICR00338 IMPLEMENTATION COMPLETION AND RESULTS REPORT	15731
 ICR00460 IMPLEMENTATION COMPLETION AND RESULTS REPORT	12560
@@ -705,7 +711,7 @@ III. IMPLEMENTATION PROGRESS AND KEY FINDINGS	12195,1680,1144
 III. Impact The Implementation of ASYCUDA	13042
 III. Implementation	16958
 III. Implementation Arrangements	13743
-III. KEY FACTORS AFFECTED IMPLEMENTATION	11924,4512,1526,863
+III. KEY FACTORS AFFECTED IMPLEMENTATION	11924,4512,1526,863,1163
 III. KEY FACTORS THAT AFFECTED IMPLEMENTATION	15511,90,62,68,1221,910,903
 III. MODALIDADES E CAPACIDADES DE IMPLEMENTAÇÃO	11523
 III. Overall Project Implementation Status Key	2989
@@ -727,6 +733,7 @@ IMPLEMENTATION AND MONITORING AND EVALUATION	16033
 IMPLEMENTATION AND MONITORING Development	16883
 IMPLEMENTATION AND MONITORING OF KEY ACTIONS	14773
 IMPLEMENTATION AND NATIONAL ACTION PLAN	14874
+IMPLEMENTATION AND OUTCOME....20 IV. BANK PERFORMANCE	19988
 IMPLEMENTATION AND REVIEW	18454
 IMPLEMENTATION AND SPECIFIC REQUIREMENTS	12447,520
 IMPLEMENTATION APPROACH	11196
@@ -859,6 +866,7 @@ ISR Implementation Status and Results Report MPTNTC	15372
 ISR01192 Implementing Agencies	11395
 ISR01781 Implementing Agencies	18792
 ISR02700 Implementing Agencies	19249
+ISR03097 Implementing Agencies	20001
 ISR03111 Implementing Agencies	17904
 ISR03186 Implementing Agencies	13859
 ISR03249 Implementing Agencies	15735
@@ -1023,7 +1031,7 @@ Implementar Cumpre	11569
 Implementatio	12253
 Implementatio Mitigation	12253
 Implementatio Mitigation Measures	12253
-Implementation	7,11,17,175,185,1,55,31,91,193,18,156,18,3,35,13,122,82,1,50,20,47,231,92,116,4,4,36,10,61,23,39,41,67,38,10,35,115,636,100,69,104,340,1,101,67,43,101,46,62,63,140,41,35,15,43,216,52,177,191,44,97,95,112,2,105,1,11,40,130,144,209,49,198,211,56,32,400,102,2,1,1,101,153,86,136,133,1,48,99,68,259,354,230,64,352,107,126,11,173,127,289,302,31,125,328,73,47,1,2,4,11,6,34,51,11,82,1,37,128,2,3,2,20,37,16,13,9,6,3,8,2,2,9,22,2,110,22,52,56,28,197,39,12,8,18,33,3,27,15,11,8,16,1,14,1,15,9,1,5,2,37,141,29,13,6,6,8,3,9,1,5,4,3,3,2,9,8,33,39,11,1,17,3,5,15,13,28,4,5,8,10,9,36,17,19,3,37,10,31,45,1,26,16,62,39,16,9,59,6,4,5,4,11,29,1,8,1,16,18,32,5,11,1,6,20,15,28,26,108,38,19,17,17,9,2,4,18,11,3,23,41,3,81,108,30,4,120,49,11,73,31,22,16,24,42,5,60,11,7,29,39,106,25,54,25,7,6,99,7,8,15,50,38,72,6,5,3,9,2,12,26,13,3,4,9,2,1,57,1,30,2,4,10,12,18,6,14,8,26,9,3,3,2,3,25,26,30,10,8,18,8,40,168,2,37,13,49,5,2,1,19,11,3,4,32,6,22,23,18,22,17,1,2,2,20,10,20,12,10,23,87,56,4,72,36,19,47,65,44,24,88,136,178,40,51,14,59,65,5,9,1,3,2,4,17,2,10,6,5,15,4,1,16,4,2,2,1,8,3,3,5,1,13,9,2,4,11,8,18,31,11,17,3,6,9,2,22,1,18,16,23,16,7,16,22,3,21,14,69,3,74,64,114,3,33,90,26,78,35,9,11,5,25,28,8,20,16,124,3,176,40,6,84,36,2,1,3,4,3,12,29,3,2,3,4,24,11,1,84,93,16,17,5,3,22,6,64,17,3,7,16,7,11,34,3,57,37,158,5,7,232,29,9,1,1,12,3,39,1,8,1,1,47,5,3,9,1,3,10,25,27,47,38,34,12,22,16,15,17,27
+Implementation	7,11,17,175,185,1,55,31,91,193,18,156,18,3,35,13,122,82,1,50,20,47,231,92,116,4,4,36,10,61,23,39,41,67,38,10,35,115,636,100,69,104,340,1,101,67,43,101,46,62,63,140,41,35,15,43,216,52,177,191,44,97,95,112,2,105,1,11,40,130,144,209,49,198,211,56,32,400,102,2,1,1,101,153,86,136,133,1,48,99,68,259,354,230,64,352,107,126,11,173,127,289,302,31,125,328,73,47,1,2,4,11,6,34,51,11,82,1,37,128,2,3,2,20,37,16,13,9,6,3,8,2,2,9,22,2,110,22,52,56,28,197,39,12,8,18,33,3,27,15,11,8,16,1,14,1,15,9,1,5,2,37,141,29,13,6,6,8,3,9,1,5,4,3,3,2,9,8,33,39,11,1,17,3,5,15,13,28,4,5,8,10,9,36,17,19,3,37,10,31,45,1,26,16,62,39,16,9,59,6,4,5,4,11,29,1,8,1,16,18,32,5,11,1,6,20,15,28,26,108,38,19,17,17,9,2,4,18,11,3,23,41,3,81,108,30,4,120,49,11,73,31,22,16,24,42,5,60,11,7,29,39,106,25,54,25,7,6,99,7,8,15,50,38,72,6,5,3,9,2,12,26,13,3,4,9,2,1,57,1,30,2,4,10,12,18,6,14,8,26,9,3,3,2,3,25,26,30,10,8,18,8,40,168,2,37,13,49,5,2,1,19,11,3,4,32,6,22,23,18,22,17,1,2,2,20,10,20,12,10,23,87,56,4,72,36,19,47,65,44,24,88,136,178,40,51,14,59,65,5,9,1,3,2,4,17,2,10,6,5,15,4,1,16,4,2,2,1,8,3,3,5,1,13,9,2,4,11,8,18,31,11,17,3,6,9,2,22,1,18,16,23,16,7,16,22,3,21,14,69,3,74,64,114,3,33,90,26,78,35,9,11,5,25,28,8,20,16,124,3,176,40,6,84,36,2,1,3,4,3,12,29,3,2,3,4,24,11,1,84,93,16,17,5,3,22,6,64,17,3,7,16,7,11,34,3,57,37,158,5,7,232,29,9,1,1,12,3,39,1,8,1,1,47,5,3,9,1,3,10,25,27,47,38,34,12,22,16,15,17,27,44,2,11,1
 Implementation Accountability Framework	17116
 Implementation Accountability Framework Implementation	17116
 Implementation Action Plan	3678,9243
@@ -1050,6 +1058,7 @@ Implementation Arrangements and Resources	18504
 Implementation Arrangements and Resources The MoCTI	18504
 Implementation Arrangements and Support Plan	969,295,603,8901,612,169,11,1771,1,2159,24,3,35,68,37,1,2,1288,1344,8,476,462,596,12,8
 Implementation Arrangements and Support Plan COUNTRY	13332,2186,140
+Implementation Arrangements. The MEPU-A	19988
 Implementation Arrangements. The NLGFC	12980
 Implementation Assessment	16971
 Implementation Authority	19532
@@ -1067,7 +1076,7 @@ Implementation Completion	11866
 Implementation Completion Report	10779,1145,1926,1038,630,1442
 Implementation Completion and Result Report	18887
 Implementation Completion and Results	15511,2451
-Implementation Completion and Results Report	10964,2367,1554,487,52,87,90,62,39,29,228,31,446,178,1235,13,100,236,258,298,71
+Implementation Completion and Results Report	10964,2367,1554,487,52,87,90,62,39,29,228,31,446,178,1235,13,100,236,258,298,71,1163,28
 Implementation Considerations for Policymakers	12048
 Implementation Coordination	4528,7984
 Implementation Coordination and Strategy Review	14747
@@ -1131,6 +1140,7 @@ Implementation Level	1802,10382,51,7626
 Implementation Manual	11905
 Implementation Manual PIP Project Implementation Plan	18293
 Implementation Manual PIU Project Implementation Unit	1264,14395
+Implementation Manual PNDES National Plan for Economic	19988
 Implementation Manual. Sierra Leone	16144
 Implementation Manuel	17180
 Implementation Mapping	8376
@@ -1210,7 +1220,7 @@ Implementation Review Matrix	14156
 Implementation Review Matrix. Once	14156
 Implementation Risks	16884
 Implementation Risks and Measures for Mitigation	12675
-Implementation Roadmap	4528,1147,1,766,390,3325,744,1107,232,272,405,166,231,2160,19,220,1651,1678,37
+Implementation Roadmap	4528,1147,1,766,390,3325,744,1107,232,272,405,166,231,2160,19,220,1651,1678,37,925
 Implementation Roadmap LR-MFDP-537075-CS-INDV	17180
 Implementation Roadmap Report	12008
 Implementation Roadmap and Milestones Phase	4528,7984
@@ -1250,6 +1260,7 @@ Implementation Status and Key Decisions All	15735
 Implementation Status and Key Decisions Approved	6928
 Implementation Status and Key Decisions Benin	10870
 Implementation Status and Key Decisions Component	18350,899
+Implementation Status and Key Decisions Côte	20001
 Implementation Status and Key Decisions English	17904
 Implementation Status and Key Decisions Implementation	17096,1037
 Implementation Status and Key Decisions Nigeria Building	4688
@@ -1272,10 +1283,10 @@ Implementation Status and Key Decisions The World	7877,4390,6267
 Implementation Status and Key Decisions This ISR	16994,1360
 Implementation Status and Result Reporting Ratings	13054
 Implementation Status and Results IXP Internet Exchange	18754
-Implementation Status and Results Report	2889,8528,1641,1973,522,48,136,45,1114,26,1372,80,99,344,467
+Implementation Status and Results Report	2889,8528,1641,1973,522,48,136,45,1114,26,1372,80,99,344,467,706
 Implementation Status and Results Report ITU International	17862
 Implementation Status and Results Report M&E Monitoring	16896
-Implementation Status and Results Reports	3604,8320,4512
+Implementation Status and Results Reports	3604,8320,4512,3552
 Implementation Status of LAAC and PAC Directives	19585
 Implementation Status of Prior Years' Audit Recommendations	19585
 Implementation Status of Public Awareness Programs	19541
@@ -1523,7 +1534,7 @@ Implementers	6153,2869,1995,856,152,1446,3566
 Implementi	1988
 Implementi PIU SPMU PIU	1988
 Implementin	17116
-Implementing	18,142,152,240,14,17,171,19,220,7,161,17,1,1,1,9,9,2,15,3,29,13,3,13,130,171,196,40,51,2,121,67,41,157,81,125,381,108,703,190,687,204,512,289,87,221,698,399,2,207,45,356,41,787,226,2,1012,1105,42,12,54,12,11,4,141,10,126,63,2,32,102,43,94,48,36,309,11,79,8,26,199,23,25,7,6,79,31,4,39,22,32,59,41,387,24,3,10,37,68,213,14,36,2,41,7,23,43,45,118,54,322,516,158,144,104,1,2,7,15,50,31,6,86,252,108,83,15,26,54,3,52,12,18,1025,90,5,21,1,30,9,23,13,11,4,10,26,88,15,2,41,100,39,162,448,56,397,129,43,6,27,323,16,617,11,3,10,27,31,36,163,88,77
+Implementing	18,142,152,240,14,17,171,19,220,7,161,17,1,1,1,9,9,2,15,3,29,13,3,13,130,171,196,40,51,2,121,67,41,157,81,125,381,108,703,190,687,204,512,289,87,221,698,399,2,207,45,356,41,787,226,2,1012,1105,42,12,54,12,11,4,141,10,126,63,2,32,102,43,94,48,36,309,11,79,8,26,199,23,25,7,6,79,31,4,39,22,32,59,41,387,24,3,10,37,68,213,14,36,2,41,7,23,43,45,118,54,322,516,158,144,104,1,2,7,15,50,31,6,86,252,108,83,15,26,54,3,52,12,18,1025,90,5,21,1,30,9,23,13,11,4,10,26,88,15,2,41,100,39,162,448,56,397,129,43,6,27,323,16,617,11,3,10,27,31,36,163,88,77,22
 Implementing AI	7751,4924,5209
 Implementing AI-based	17884
 Implementing Acts	10819
@@ -1534,7 +1545,7 @@ Implementing Agencies The Kenya Social and Economic	14487
 Implementing Agencies and Development Partners	12942
 Implementing Agencies and Specialized Institutions	1814
 Implementing Agencies and Target Sectors	19807
-Implementing Agency	761,467,56,970,1350,5829,1531,596,660,168,24,14,243,662,607,999,74,8,534,105,44,80,362,752,26,1452,63,1082,222,106
+Implementing Agency	761,467,56,970,1350,5829,1531,596,660,168,24,14,243,662,607,999,74,8,534,105,44,80,362,752,26,1452,63,1082,222,106,143
 Implementing Agency Benin	16436
 Implementing Agency Central African Republic	15731
 Implementing Agency EPTC	13017
@@ -1569,7 +1580,7 @@ Implementing Centralized Media Buying Dec	19791
 Implementing Data Exchange Standards	12360
 Implementing Data Interoperability Implementing	12360
 Implementing Data Security and Privacy Standards	12360
-Implementing Decision	14658
+Implementing Decision	14658,5376
 Implementing E-Learning	15164
 Implementing EHRs	12025
 Implementing EMRS	19667
@@ -1755,7 +1766,7 @@ Local Content Policies Implement	17011
 Local Government Addressing Implementation Committee	11129
 Local Government Revenue Initiative. Implementing	11133
 Low Implementation Completion	11873
-M&E Implementation	11924,3500,177,62,68,705,524,1002
+M&E Implementation	11924,3500,177,62,68,705,524,1002,2026
 M&E Implementation M&E	15511
 M&E Implementation The ICR	14888
 M&E Quality Substantial. Implementing Agency	13722
@@ -1852,7 +1863,7 @@ Moderate Moderate The World Bank Implementation	15735
 Moderate The World Bank Implementation	16013,987,96,910,786,457
 Moderate. Implementation	15658,3
 Moderately Satisfactory Implementing Agency	16614
-Moderately Satisfactory Overall Implementation Progress	6579,5409,1932,136,2649,1650,462,165
+Moderately Satisfactory Overall Implementation Progress	6579,5409,1932,136,2649,1650,462,165,1019
 Moderately Unsatisfactory Overall Implementation Progress	2712
 Modest for M&E Implementation. M&E Utilization	16436
 Monetary Policy Implementation. Implement	11131,3
@@ -1940,7 +1951,7 @@ Nigeria. IN-9 Implement Open Implementation and Enforcement	11857
 Nigeria. Project Implementation	7877
 No. Activities Implementation Indicator Implementation	17011
 No. Activities Indicator Implementation Timeframe	17011
-No. Implementation Modalities	11965
+No. Implementation Modalities	11965,8025
 No. Implementing Agency	11965,1769
 No. Name of Project Objective Implementation Responsible	16872
 Non Implementation	18624
@@ -2187,7 +2198,7 @@ Project Implementation Committee	10603,814,1975,3504,26
 Project Implementation Consultant	13392
 Project Implementation Entity	15553
 Project Implementation IBRD	10768
-Project Implementation Manual	1264,20,583,1022,715,2935,4229,195,1,561,24,11,303,61,41,288,1078,61,67,1453,226,273,13,87,42,68,37,1,34,1233,23,1155,189,594,358,39,359
+Project Implementation Manual	1264,20,583,1022,715,2935,4229,195,1,561,24,11,303,61,41,288,1078,61,67,1453,226,273,13,87,42,68,37,1,34,1233,23,1155,189,594,358,39,359,345,2
 Project Implementation Manual PIU Project Implementation	13331
 Project Implementation Manual PMT Proxy Means	11525
 Project Implementation Manual PP Procurement Plan	10768
@@ -2228,11 +2239,12 @@ Project Implementation Support for MFIS	11855
 Project Implementation Team	5620,173,4975,4890,1291,2858
 Project Implementation Team BIT BIT BIT	16949
 Project Implementation The SWM	16614
-Project Implementation Unit	1228,36,20,288,206,1111,1764,181,517,552,1550,424,1106,37,919,283,875,293,473,42,19,213,83,179,164,491,277,64,541,2,72,446,120,312,24,16,38,34,3,52,83,273,13,90,4,35,68,37,1,4,119,20,99,68,175,240,52,218,196,76,10,24,139,15,121,99,770,29,160,66,276,298,351,379,14
+Project Implementation Unit	1228,36,20,288,206,1111,1764,181,517,552,1550,424,1106,37,919,283,875,293,473,42,19,213,83,179,164,491,277,64,541,2,72,446,120,312,24,16,38,34,3,52,83,273,13,90,4,35,68,37,1,4,119,20,99,68,175,240,52,218,196,76,10,24,139,15,121,99,770,29,160,66,276,298,351,379,14,313,12
 Project Implementation Unit High Strong	16926
 Project Implementation Unit Management	16926
 Project Implementation Unit PB Promissory Note	17235
 Project Implementation Unit PIU Project Operations	11855
+Project Implementation Unit PMO Prime Minister	19990
 Project Implementation Unit POM	18370
 Project Implementation Unit PPP	16872
 Project Implementation Unit PPP Public-Private Partnership	6539
@@ -2335,6 +2347,7 @@ Rahul Ingle The World Bank Implementation	18006
 Raise Implementing Risk	1000
 Rapid Acceleration of AAID Implementation	17139
 Rate CIP Costed Implementation Plan CEB	16950
+Rate of Return ISR Implementation Status and Results	19988
 Rating Substantial Substantial Implementation Status and Key	15619,1019
 Realização de Avaliação da Implementação da ENDE	18794
 Reallocations Yes Components Yes Implementation	16187
@@ -2357,6 +2370,7 @@ Republic of Congo HEIS Hands-on Expanded Implementation	15969
 Republic of Congo Implementing Agency	15959
 Republic of Djibouti. Implementing Agency	19835
 Republic of Ghana. Implementing Agency	15704
+Republic of Guinea Implementing Agency	19988
 Republic of Guinea-Bissau Implementing Agency	11525
 Republic of Liberia Implementing Entity Timeline	1777
 Republic of Madagascar Implementing Agencies	14553
@@ -2376,6 +2390,7 @@ Resilience. Phase One Implementation Rates H.E	16049
 Resource Allocation and Implementation Readiness	17116
 Response of Project Implementation Team	1778
 Restructuring Implementation Start Date Operation Closing	16032,2327
+Restructuring. Implementation Start Date	19990
 Results Areas The World Bank Implementation	19242
 Results Indicators ISR Implementation Status and Results	1284
 Results PIU Project Implementation Unit PIM	19245
@@ -2643,10 +2658,10 @@ Witness Protection Act Implementation	19937
 Works Implementing Agency CFAF Central African	15731
 World Bank Enterprise Survey Implementation Report	10862,7976
 World Bank FM Implementation Support Plan	13332
-World Bank Implementation	1216,74,1422,69,59,289,1250,309,1891,349,949,2993,505,20,576,257,39,173,284,2435,322,254,278,66,559,67,186,103,6,79,17,808,54,48,349,179,258,450,7
+World Bank Implementation	1216,74,1422,69,59,289,1250,309,1891,349,949,2993,505,20,576,257,39,173,284,2435,322,254,278,66,559,67,186,103,6,79,17,808,54,48,349,179,258,450,7,752
 World Bank Implementation Completion and Results	19519
-World Bank Implementation Completion and Results Report	978,14408
-World Bank Implementation Status and Results Report	19966
+World Bank Implementation Completion and Results Report	978,14408,4630
+World Bank Implementation Status and Results Report	19966,61
 World Bank Implementation Support Mission	1216,15573,3028
 World Bank Implementation Support Plan	13332,2326
 World Bank Implementation and Status Results Reports	10964
@@ -2663,6 +2678,7 @@ Year Implementation Plan	1814,10361,78,752,50,5,51,11,120
 Year Regulatory Implementation	4126
 Year The World Bank Implementation	17000,1792
 Year of Implementation	16884,1
+Yes. Implementation Schedule	19990
 Zambia During the Implementation	1988
 Zambia and Zimbabwe. SADC ICT Implementing Agency	318
 Zambia. Implementing Agency	13459

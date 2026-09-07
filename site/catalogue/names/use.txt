@@ -670,7 +670,7 @@ Land Use and Access Limited	14818
 Land Use and Agriculture NAPA	17101
 Land Use and Allocation Plan	18293
 Land Use and Building Control	11231
-Land Use and Involuntary Resettlement	10829,135,2559,1030,23,334,27,39,1960,2899,12
+Land Use and Involuntary Resettlement	10829,135,2559,1030,23,334,27,39,1960,2899,12,141
 Land Use and Involuntary Resettlement ESS	15658,3626
 Land Use and Involuntary Resettlement Not Currently	10768,649,143,345,1427,4866
 Land Use and Involuntary Resettlement Relevant Biodiversity	1284,9545,135,2367,2222,68,1301
@@ -1004,6 +1004,7 @@ Official Use Only Total Expenditure	10985
 Official Use Only UNDP United Nations	3604
 Official Use Only UNITE DE GESTION	16104
 Official Use Only Use	12253
+Official Use Only West Africa	20001
 Official Use Only Work	12253
 Official Use Only Workers' Code of Conduct	12253
 Official Use Only Year Original	19284
@@ -1309,7 +1310,7 @@ Surface Used	17114
 Surface Water Use Permit	1988
 Survey LULC Land Use Land Cover	17157
 Surveyed Internet Use	16876
-Sustainable Use of Land	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Sustainable Use of Land	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Sustaining Use of District Health Information System	150
 System Use of Borrower's Environmental and Social Framework	1988
 System User Access Controls	19584

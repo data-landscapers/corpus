@@ -43,7 +43,7 @@ Adaptive Safety Nets and Delivery Systems	12980,131
 Adaptive Safety Nets and Economic Inclusion Project	10964,21,4797
 Adaptive Social Protection Adaptive Social Safety	10763
 Adaptive Social Safety Nets Project	18104
-Adaptive and Productive Social Safety Nets Project	15658
+Adaptive and Productive Social Safety Nets Project	15658,4385
 Additional Safeguards	19895
 Addressing AI Safety and Security	1814
 Adequate Safeguards	11400
@@ -215,6 +215,7 @@ Community Health and Safety Relevant Not Currently	19284
 Community Health and Safety Relevant The World	11560
 Community Health and Safety Risks	17114
 Community Safety and Crime Prevention	14781
+Community and Health and Safety	19988
 Comoros. Safety	13739
 Components Adaptive Safety Nets Youth Economic	10963
 Components Results Safeguard Policies Triggered Disbursement	11924
@@ -591,6 +592,7 @@ LIVELIHOODS CASH AND SOCIAL SAFETY NETS	17971
 LTA Strengthens Liberia’s Digital Safety Agenda	17106
 Labor Intensive Public Works and Social Safety	18470
 Le SAFI	14510
+Le SAFIG	19989
 Lead for Safety Evals Platform	9592
 Lebanon Emergency Social Safety Net Project	12443
 Legal Safeguards	10415,1974
@@ -742,6 +744,7 @@ Nigerian Federal Road Safety Corps	11952
 Nigerian Maritime Administration and Safety Agency	2677,15131
 Nishati Safi	19590
 Nishati Safi Magerezani	19590
+No. Safeguard Policies Triggered	19990
 Nuclear Safety and Radiation Protection Authority	18541
 Nutrition and Food Safety	17289
 O SAF	15526
@@ -983,7 +986,7 @@ SAFER	14622
 SAFER PATH FORWARD Regulated	13532
 SAFER. Résultat	14622
 SAFETTYRUST	14566
-SAFETY	10759,76,2,1,130,7,895,16,2,1,263,1,10,177,1,11,1,135,2078,1646,672,2768,1,169,14,22,1,65,14,1
+SAFETY	10759,76,2,1,130,7,895,16,2,1,263,1,10,177,1,11,1,135,2078,1646,672,2768,1,169,14,22,1,65,14,1,48
 SAFETY ACCOUNTABILITY	10837,1503,7598
 SAFETY AND ENVIRONMENT OBLIGATIONS	15149
 SAFETY AND SECURITY	12984,96
@@ -1010,8 +1013,9 @@ SAFETY SOCIAL PROTECTION Rank	10838
 SAFETY WOMEN’S EQUALITY	10835
 SAFEX	16331
 SAFI. Il	14458
-SAFIG	16664,60
-SAFIG2	8557,8167
+SAFIG	16664,60,3265
+SAFIG1	19989
+SAFIG2	8557,8167,3265
 SAFITEL TCHAD	18126
 SAFMM	17852
 SAFOU SITOU Patricia	16381
@@ -1227,6 +1231,7 @@ Safeguard Measures CHAPTER FIFTEEN	14409
 Safeguard Measures The Council	14409
 Safeguard Monitoring Mechanisms	15372,3515
 Safeguard Policies	18887
+Safeguard Policies Change	19990
 Safeguard Policies Triggered	11525,330,1668,1888,2030,663
 Safeguard Policy	17441
 Safeguard and Fiduciary Compliance	16614
@@ -1256,6 +1261,7 @@ Safeguards Deferral OPSTABLE Will	11525
 Safeguards Escalation	14565
 Safeguards Framework	13095
 Safeguards Interim Note	12253
+Safeguards Policies Triggered	19990
 Safeguards Prior	12185
 Safeguards Safeguards PPRA	7548
 Safeguards Specialist	1228,15871
@@ -1265,6 +1271,7 @@ Safeguards Team	17099
 Safeguards and Compliance	8546
 Safeguards for Biometric Identification	14664
 Safeguards. Inputs	15372
+Safeguards. The PrePEF	19988
 Safely	12403
 Safenet	15080
 Safer	11315,4289
@@ -1273,7 +1280,7 @@ Safer Digital Future Through Regional Cyber	13880
 Safer Internet Day	5551
 Safer Schools Programme	11285
 SaferAI	8014
-Safety	1554,434,689,1906,1082,928,200,245,509,1,424,171,570,410,78,245,409,24,880,4,72,2,1,118,7,1,4,17,19,13,33,81,3,4,18,37,48,9,19,256,53,7,270,2,13,16,1,1,1,13,54,8,98,90,1,1,9,90,87,1,11,1,14,108,13,697,53,82,65,2,262,424,349,172,142,16,131,38,106,54,57,11,425,84,187,367,569,67,36,16,26,8,8,172,146,646,198,82,31,141,12,60,46,159,287,8,49,258,338,77,1,77,16,3,73,14,22,1,43,22,14,1,27
+Safety	1554,434,689,1906,1082,928,200,245,509,1,424,171,570,410,78,245,409,24,880,4,72,2,1,118,7,1,4,17,19,13,33,81,3,4,18,37,48,9,19,256,53,7,270,2,13,16,1,1,1,13,54,8,98,90,1,1,9,90,87,1,11,1,14,108,13,697,53,82,65,2,262,424,349,172,142,16,131,38,106,54,57,11,425,84,187,367,569,67,36,16,26,8,8,172,146,646,198,82,31,141,12,60,46,159,287,8,49,258,338,77,1,77,16,3,73,14,22,1,43,22,14,1,27,21
 Safety Accountability	10837,1052,263,11,177,1,7312,285
 Safety Across	11585
 Safety Act	1988
@@ -1449,9 +1456,11 @@ Secure and Safe Digital Ecosystem OBJECTIVE	12674
 Security Safeguards Evaluate the CSP	19968
 Security and Safety	7538,8307
 Security and Safety Adopting	16212
+Senegal Adaptive Safety Net	20029,2,17
 Senegal Adaptive Safety Net Project World	18300
 Senegal Safety Net Project	18301
 Senegal and Safaricom	6834
+Senegal's Adaptive Safety Net and Mozambique's Social	20041
 Senior Safety and Health Officer Ministry of Public	14770
 Senior Trade Officer Safari Mayala Fungo	19582
 Service of Road Safety	6035
@@ -1491,7 +1500,7 @@ Social Safety Net System Project	17849
 Social Safety Net System Project II	17904
 Social Safety Net The Social Safety	10812
 Social Safety Net Unit	18198
-Social Safety Nets	3604,7155,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,476,2555,144,68,1221,897,276,345,1182,1,169,14,22,1,65,14,1
+Social Safety Nets	3604,7155,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,476,2555,144,68,1221,897,276,345,1182,1,169,14,22,1,65,14,1,48
 Social Safety Nets Poverty Reduction Policies	10837,1315,188,7598
 Social Safety Nets Project	14553,1048,57,855,447,297,2379
 Social Safety Nets Social	12964

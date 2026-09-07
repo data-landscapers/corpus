@@ -95,7 +95,7 @@ Abundant R&D Resources Code Action Description	15713
 Accelerate Action	12188
 Accelerate Action for Children	11245
 Act. The Affirmative Action	12961
-Action	252,215,176,146,49,7,125,30,131,87,10,217,3,3,1,2,3,97,76,148,24,186,160,584,157,77,415,15,187,204,4,19,317,34,235,155,615,114,1184,328,144,102,1,103,454,45,29,31,17,140,646,495,23,226,151,1315,115,29,11,5,2,409,132,112,311,17,11,39,6,31,83,26,122,9,1,16,198,153,73,15,35,168,69,73,20,53,12,93,36,91,10,6,26,58,24,132,100,42,31,6,2,264,31,28,4,36,61,31,227,70,194,1,223,35,3,84,101,269,58,28,3,15,19,63,8,75,5,11,46,4,7,68,46,3,178,21,21,12,146,133,52,25,90,81,8,107,162,1,11,26,29,33,27,7,52,44,127,19,71,36,64,39,69,206,82,16,6,24,9,17,5,27,3,36,2,10,1,10,39,71,22,129,1,31,5,2,4,15,27,31,42,46,1,29,68,50,263,18,85,137,74,13,25,5,11,15,20,247,1,11,304,26
+Action	252,215,176,146,49,7,125,30,131,87,10,217,3,3,1,2,3,97,76,148,24,186,160,584,157,77,415,15,187,204,4,19,317,34,235,155,615,114,1184,328,144,102,1,103,454,45,29,31,17,140,646,495,23,226,151,1315,115,29,11,5,2,409,132,112,311,17,11,39,6,31,83,26,122,9,1,16,198,153,73,15,35,168,69,73,20,53,12,93,36,91,10,6,26,58,24,132,100,42,31,6,2,264,31,28,4,36,61,31,227,70,194,1,223,35,3,84,101,269,58,28,3,15,19,63,8,75,5,11,46,4,7,68,46,3,178,21,21,12,146,133,52,25,90,81,8,107,162,1,11,26,29,33,27,7,52,44,127,19,71,36,64,39,69,206,82,16,6,24,9,17,5,27,3,36,2,10,1,10,39,71,22,129,1,31,5,2,4,15,27,31,42,46,1,29,68,50,263,18,85,137,74,13,25,5,11,15,20,247,1,11,304,26,125,4
 Action 8September2016.pdf Winson	19520
 Action A1.1.1.1.1	17983
 Action A1.3.1.1.2	17983
@@ -228,6 +228,7 @@ Action Intervention	6936
 Action Items	17011
 Action MSPLS	13306
 Action Mali	17882
+Action Mandate Lead Expected Actor	20004
 Action Matrix	12395,987
 Action Matrix. Further	12395
 Action Ministère	1284
@@ -340,7 +341,7 @@ Action Steps Impact Scaling-up Cases	14997
 Action Stratégique Annuel de I' ARPT	16615
 Action Summary Table Title	12843
 Action Summit	18016
-Action System	18581
+Action System	18581,1440
 Action Table	11855
 Action Taken	1778,997,10137
 Action Taken When Not Satisfied	17149
@@ -471,7 +472,7 @@ Actionnaires	16613,1300
 Actionnariat	2342,13052,549,352
 Actionnariat Populaire	18227
 Actionnariat du Titulaire L'intégralité	15943
-Actions	789,211,218,220,27,312,37,14,160,1001,362,45,465,266,79,361,2379,13,2447,366,1086,16,91,951,111,206,123,33,2,8,276,26,605,14,5,6,131,51,206,6,61,424,269,143,101,274,22,404,89,30,11,15,27,66,17,42,18,110,60,16,12,41,60,151,453,235,9,17,49,15,148,43,128,200,342,9,6,2,1,11,25,65,37,49,64,9,10,7,164,11,234,25,239,496,234,114
+Actions	789,211,218,220,27,312,37,14,160,1001,362,45,465,266,79,361,2379,13,2447,366,1086,16,91,951,111,206,123,33,2,8,276,26,605,14,5,6,131,51,206,6,61,424,269,143,101,274,22,404,89,30,11,15,27,66,17,42,18,110,60,16,12,41,60,151,453,235,9,17,49,15,148,43,128,200,342,9,6,2,1,11,25,65,37,49,64,9,10,7,164,11,234,25,239,496,234,114,347,18
 Actions A. Climate Vulnerability and Risks	15553
 Actions ANALYSIS ACTIONS INDICATORS	19245
 Actions API-Mali Actions API-Mali Facilitation	18013
@@ -601,7 +602,7 @@ Anticipatory Action Framework. Participants	13080
 Anticipatory Action Review Workshop FIGURE	13095
 Anticipatory Action Review Workshop Figure	12241
 Anticipatory Action Review Workshop Official Launch	13080
-Anticipatory and Early Action	15093
+Anticipatory and Early Action	15093,4943
 Applying Multi-Layered GESI Actions	13998
 Approach NAPHS National Action Plan for Health	11417
 Aquifer Stress Response Actions Calculation	17157
@@ -837,6 +838,7 @@ Demand Side Management Master Plan and Action	14745
 Denarau Action Plan	940
 Department of Commerce. ACTION	5773
 Description Action	4161
+Description Action Document ACT-63473	20034
 Description Objective Action Details E-I14-A1 E-I14-A2	15713
 Description Objective Action Details I-I13-A1 Enhancing	15713
 Description Objective Action Details Tech-I3-A1 Lay	15713
@@ -904,7 +906,7 @@ EU Action Document	845
 EU Action Plan	789,181,16049,1439
 EU Action Plan for Forest Law Enforcement	16843
 EU Actions	1452
-EU External Action Service	3461,7694
+EU External Action Service	3461,7694,8871
 EU Gender Action Plan	789
 EU Gender Action Plan III	789
 EU. Actions	789
@@ -1238,6 +1240,7 @@ Kenya ICT Action Networks	16872
 Kenya Internet and Communications Technology Action Network	6705
 Kenya. Glob Health Action	10780
 Key Action Areas	16975
+Key Action Tangible Lead Actor	20004
 Key Actions	4528,2408
 Key Actions Code	18795
 Key Actions Pillar Alignment	12512
@@ -1686,8 +1689,8 @@ Praia Action Plan	17018
 Praia Action Plan Page	17018
 Praia Action Plan for Information Integrity	17018
 Prevention and Response Action Plan	13111
-Prior Action	15924,2564
-Prior Actions	10779,5440
+Prior Action	15924,2564,1543
+Prior Actions	10779,5440,3812
 Priorities for G20 Action. Berlin	12297
 Priority Action	16188
 Priority Action Lead Institution	17260
@@ -1805,11 +1808,11 @@ Reporting Action Plan the GBV Action Plan	1988
 Representative Actions Directive	19890,5
 Reproductive and Child Health Services. Actions	16951
 Resettlement Action	17114
-Resettlement Action Plan	1988,9875,2075,1573,191,952,242,218,1106,667
+Resettlement Action Plan	1988,9875,2075,1573,191,952,242,218,1106,667,1115
 Resettlement Action Plan ARCEP Regulatory Authority	15511,2351
 Resettlement Action Plan and Resettlement Policy Framework	3456
 Resettlement Action Planning	17099
-Resettlement Action Plans	3604,7921,3847,1242,500,1773,397
+Resettlement Action Plans	3604,7921,3847,1242,500,1773,397,718
 ResettlementÂ ActionÂ PlansÂ	18887
 Resilience Action Network Africa	4674,3805
 Resilience Strategy and Action Plan	6539
@@ -2001,6 +2004,7 @@ Tanzania Social Action Fund TZS Tanzania	11133
 Taoudenni. des Actions de Dévelop-	18077
 Taux Action Compétence	15512
 Technical Proposed Action Description	16032
+Technical and Capacity Mandates Key Action Tangible	20004
 Telemedicine Applications National Action Plan	21
 Template for Action	17157
 Ten Partnership Actions	5991

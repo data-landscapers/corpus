@@ -100,7 +100,7 @@ Automate the Postal Clearance	13108
 Automated Payment The POS	11955
 Autoridade Postal	18778
 Autorité de Régulation Postes	16615
-Autorité de Régulation des Postes	3104,4980,3796,52,3653,1030,2,22,2,58,13,1393
+Autorité de Régulation des Postes	3104,4980,3796,52,3653,1030,2,22,2,58,13,1393,1909
 Autorité des Postes	10691
 Autre Possédez	13390
 Autres Poste	2342
@@ -351,6 +351,7 @@ DES POSTES ET DES COMMUNICATIONS ELECTRONIQUES	3189,2637,2495,7355,266,175,170
 DES POSTES ET DES COMMUNICATIONS ELECTRONIQUESLe	7670
 DES POSTES ET DES TELECOMMUNICATIONS	14573
 DES POSTES ET DES TÉLÉCOMMUNICATIONS DÉCRET	14483
+DES POSTES ET TELECOMMUNICATIONS ASC AGENT	19986
 DES POSTES Vu la Décision	18032
 DETENTION COUTUMIERE ET DE POSSESSION FONCIERE	17982
 DEVELOPPEMENT DU SECTEUR POSTAL	15999
@@ -482,6 +483,7 @@ ET AUX POSTES Chapitre	37
 ET DE LA POSTE	18122
 ET DE LA POSTE CERTIFIEE ISO	15654
 ET DES POSTES	18032
+ET DES POSTES DES TELECOMUNICATION ET	19986
 ET LES HOMMES Possession	13300
 EU EOM Mozambique Post-election Press	12201
 EXTENSION DU POSTE D'INTERCONNEXION	10975
@@ -589,7 +591,7 @@ G Spectrum Public Policy Position	5675
 G. The Postal and Telecommunications Regulatory Authority	16741
 GAAP POS	14376
 GAPS AND CHALLENGES POST-REGISTRATION Despite	12457
-GII Position	11895,264,7703
+GII Position	11895,264,7703,133
 GITEGA Total Possède	13390
 GPS Global Positioning System ISO International	18904
 GPS Global Positioning System NA	19542
@@ -640,6 +642,7 @@ Guilherme Posser da Costa	18750
 Guinea's Minister of Posts	4615
 Guinea-Bissau Postcode Postcode	11515
 Guiné-Bissau Postado	17374
+Guinée. Ministre des Postes	19986
 HIV. Positive	16951
 HOL Tender Posting	3405
 HORS BILAN MONTANTS NETS POSTE Exercice	17841
@@ -679,6 +682,7 @@ INEGE. Posteriormente	16898
 INFRASTRUCTURES ET EQUI- Possession	18077
 INPTIC National Institute for Post and ICT	15411
 INSISTEZ ET POSEZ OUI	13300
+INTERIEUR BRUT PS POSTE SANTE PTF	19986
 INVEEP POS	8565
 IOM Posted	9773
 IPS International Postal System MAE Ministère	17881
@@ -852,6 +856,7 @@ MLE POSTES GRADE INDICE	17899
 MMS NIGER POSTE Validé	998
 MN2020 Poste	17824
 MOH Celebrates African CRVS Day Posted	9548
+MPTEN MINISTERE DES POSTES	19986
 MPTEN Ministère des Postes	15493,1133
 MPTNT Ministry of Post and Telecommunications	18887
 MPW Speakers Position	17260
@@ -971,7 +976,8 @@ Ministry of Posts and Telecommunications of Liberia	16849
 Ministry of Posts and Year	16872
 Ministère De La Poste Et	15882
 Ministère Poste Télécommunications	4184
-Ministère des Postes	1264,8,1423,557,76,1317,1105,2226,1,3967,1831,650,931,1,15,6,77,19,19,20,29,11,182,166,22,272,431,15,11,18,1435,324,473,29
+Ministère des Postes	1264,8,1423,557,76,1317,1105,2226,1,3967,1831,650,931,1,15,6,77,19,19,20,29,11,182,166,22,272,431,15,11,18,1435,324,473,29,1055
+Ministère des Postes des Télécommunication	19986
 Ministère des Services Postaux	16626
 Ministères des Postes	11944,4698,1644
 Ministére des Postes	16637
@@ -1965,7 +1971,7 @@ Postal Items	6671
 Postal Items Jan-Mar	6671
 Postal Market Indicators	12395
 Postal Market Indicators the Pricing of ICT	12395
-Postal Network	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Postal Network	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Postal Network Public Perception of Infrastructure RURAL	10759
 Postal Network Public Perception of Infrastructure Rural	10837,1315,188,7598
 Postal Network Secure Employment Opportunities Access	10759
@@ -2835,7 +2841,7 @@ United Nations GPS Global Positioning System	17043
 Unity POS	14376
 Universal Postal Authority	6946
 Universal Postal Services	12558,2782
-Universal Postal Union	940,4013,232,1761,2810,1227,146,1020,1304,1178,2284,2736,2
+Universal Postal Union	940,4013,232,1761,2810,1227,146,1020,1304,1178,2284,2736,2,350
 Universal Postal Union Council of Administration	3990
 Universal Postal Union International Addressing Standards	11129
 Universal Postal Union Standard for Mail Addressing	11129

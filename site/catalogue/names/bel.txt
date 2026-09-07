@@ -129,7 +129,7 @@ Belge	16249
 Belge Semlex	4479
 Belghoul Fathi	15608
 Belgian	256,386,443,150,519,26,610,524,103,443,48,68,5823,1394,72,1044,14,3378,1148
-Belgian Development Agency	1235,9629,2448,2,35
+Belgian Development Agency	1235,9629,2448,2,35,6655
 Belgian EDFI Management Company	4972
 Belgian Electronic Identity Card	10714
 Belgian Federal Public Service Justice	1235
@@ -146,7 +146,7 @@ Belgique News Contact	13560
 Belgique. Ce	4479,15353
 Belgique. Il	15670
 Belgique. Lors	5314
-Belgium	256,101,283,1,1,76,366,1,150,593,562,534,238,22,1,1294,46,58,1786,148,96,613,245,652,2,1274,153,93,94,93,583,177,122,50,17,4,34,42,3,131,159,455,93,166,92,467,2,556,327,2,1168,222,261,142,194,170,1109,1163,242,95,789,58,20,591,64
+Belgium	256,101,283,1,1,76,366,1,150,593,562,534,238,22,1,1294,46,58,1786,148,96,613,245,652,2,1274,153,93,94,93,583,177,122,50,17,4,34,42,3,131,159,455,93,166,92,467,2,556,327,2,1168,222,261,142,194,170,1109,1163,242,95,789,58,20,591,64,402
 Belgium Av. Louise	18068
 Belgium Brussels	8533
 Belgium Campus	11779
@@ -179,7 +179,7 @@ Belhar Drive	8999
 Belhar Regional Hospital Concept	11248
 Belhassen Ben Chaabane	19375
 Belieb News	9730
-Belief	5349,4974,436,76,2,1,130,902,16,1,1,1,264,1,9,83,94,1,11,1,135,930,1924,1581,1,2728,1,169,14,22,1,65,14,1
+Belief	5349,4974,436,76,2,1,130,902,16,1,1,1,264,1,9,83,94,1,11,1,135,930,1924,1581,1,2728,1,169,14,22,1,65,14,1,48
 Belief Capital	10162,38
 Belief Capital and SV Angel	10162,37
 Belief Economic Diversification	11870
@@ -650,6 +650,7 @@ VC Fund Managers Morocco Beltone Venture	4972
 Van Belle	226
 Van Belle S	1219,42
 Vera Songwe Nathan M. Belete Director	17849
+WMO and Belgium's Ministry of Foreign Affairs	20049
 Western Cape Outside the Bellville Sassa	11660
 World Bank Group Nathan M. Belete	11839
 Yves Belem	5707

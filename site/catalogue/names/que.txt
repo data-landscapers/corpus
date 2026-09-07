@@ -627,7 +627,7 @@ Queries MJOS National Department of Health MPQ	1009
 Queries Previous	14725
 Quero	7735,444
 Querosene	10777
-Query	6982,2498,2461,80,1021,2436,4376,67
+Query	6982,2498,2461,80,1021,2436,4376,67,63
 Query Form	13108
 Query Language SIPS Sub-Saharan Africa SMEs	17235
 Query Module	13108

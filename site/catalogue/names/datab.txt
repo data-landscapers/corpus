@@ -152,6 +152,7 @@ Family Database	8891
 Findex Database	10977,1272
 Foundational ID. National ID Database	12533
 Full Contents of The Global Findex Database	10977
+Fully Digital Database Any	19996
 GAB 2024 FINDEX v02 M Title The Global Findex Database	15843
 GIN 2024 FINDEX v02 M Title The Global Findex Database	16665
 GIS Addressing Database. At the Local Government	11129
@@ -338,7 +339,7 @@ Turkmenistan Database	10714
 UIS-UNESCO Database	18765
 UN SDG Database	12261
 UN Treaty Body Database English	11765
-United Nations Comtrade Database	10969,8896
+United Nations Comtrade Database	10969,8896,130
 Universal DataBase	14155
 VRR Togo DGDN Database	10714
 Valuation Database Implement	16968

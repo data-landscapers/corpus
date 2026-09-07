@@ -1008,7 +1008,7 @@ Department of Social Welfare and Royal Eswatini Police	12977
 Department of Social Welfare. Any	13332
 Department of Space and Satellite	15167
 Department of Special Education	12661
-Department of State	4165,1527,1084,4229,999,1750,291,2913,1244,640,37,650,126,199
+Department of State	4165,1527,1084,4229,999,1750,291,2913,1244,640,37,650,126,199,130
 Department of State Foreign Assistance	4349
 Department of State Foreign Assistance and CDC	4349
 Department of State Security	11277
@@ -1758,7 +1758,7 @@ Mining Cadastre Department	10873
 Minister Principal Officials Departments Related Agencies	19522
 Minister of Finance. The Department of Home Affairs	11212
 Minister of Land Reform and Rural Department Mzwanele	11260
-Ministerial Department	10980
+Ministerial Department	10980,9010
 Ministerial Department Implementing Agency Senegal Ministry	18359
 Ministerial Department Implementing Agency Senegal Republic	18359
 Ministerial Department Page	1284
@@ -2404,7 +2404,7 @@ US Department of Defence	9015
 US Department of Justice. Upon	9188
 US Department of State	721,1563,1928,10,44,62,30,889,4152,7543,2884,95
 US Department of State YouTube	4426
-US Department of State's Country Reports	19854
+US Department of State's Country Reports	19854,130
 US Department of State's Reciprocity Schedule	11864,8057
 US Department of State's Reciprocity Schedule for Eritrea	19921
 US Department of State. Reminder	12188

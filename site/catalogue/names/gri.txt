@@ -85,6 +85,7 @@ GDP Gross Domestic Product GRM Grievance	11525
 GESTION DES PLAINTES ET DES GRIEFS	16104
 GM Grievance Mechanism GNI Gross National	1264
 GM Grievance Mechanism GPN General Procurement	18293
+GNEAP-1. III. Grid-based	20002
 GRID EXPANSION FROM THE CONSUMER PERSPECTIVE	11366
 GRID Gross National Income GRM Government	3604
 GRID Strategy	18301
@@ -241,7 +242,7 @@ Grievance Recorded	1778
 Grievance Redress	2889,9293,4418,302,197
 Grievance Redress Committees	17114,1521
 Grievance Redress Management	15019
-Grievance Redress Mechanism	1264,20,583,121,1001,7774,200,892,69,296,33,82,643,12,64,278,60,400,761,357,2,143,456,3,4,35,48,57,1,2,2,119,123,239,292,524,139,15,848,339,54,157,22,101,174,436,341,57,182
+Grievance Redress Mechanism	1264,20,583,121,1001,7774,200,892,69,296,33,82,643,12,64,278,60,400,761,357,2,143,456,3,4,35,48,57,1,2,2,119,123,239,292,524,139,15,848,339,54,157,22,101,174,436,341,57,182,163
 Grievance Redress Mechanism Beneficiaries	12182
 Grievance Redress Mechanism Ensure	12253
 Grievance Redress Mechanism GPE Internally Displaced	11905
@@ -281,7 +282,7 @@ Grievance and Case Management Mechanism	14516
 Grievance and Complaint Redressal	12146
 Grievance and Ethics Committee	16943
 Grievance and Redress Mechanism	18370
-Grievances	1284,420,74,1111,1799,1215,930,95,949,3087,170,90,681,60,6,3547,35,66,350,44,19,112,292,269,191,26,4,170,3,15,683,553,9,145,30,62,221,428
+Grievances	1284,420,74,1111,1799,1215,930,95,949,3087,170,90,681,60,6,3547,35,66,350,44,19,112,292,269,191,26,4,170,3,15,683,553,9,145,30,62,221,428,745,11
 Grievances Logged	11218
 Grievant Gender	17114
 Grievous Bodily Harm	2626
@@ -313,9 +314,11 @@ Grits	16900
 Group GRM Grievance Redress Mechanism ICT	17962
 H. World Bank Grievance Redress	11525
 Hilary Gridley	11143
+I. Grid	20002
 I. SUR LES GRIEFS ET MOYENS	16247
 I.2 Grid	11366
 ICT Grievance Redress Service IFC Higher-Level	3604
+II. Grid	20002
 II.3.1. Grille	15936
 IV. GRIEVANCE REDRESS SERVICES	10829
 IV.1.1.6.4 Grille	10876
@@ -328,6 +331,7 @@ Inclusive Development HLO Grievance Redress Mechanism	3604
 Income GRID Green	1264
 Income HEIS Grievance Redress Service IBRD	16144
 Independent Grids and Off-grid Solutions	19646
+Index GRM Grievance Redress Mechanism HCI	19988
 Indicator Name Unit of Measure Baseline Grievances	15601
 Information Grievant Name Gender Location	17114
 Initiation of Gridlock Resolution	12364

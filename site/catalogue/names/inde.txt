@@ -31,7 +31,7 @@ AUTORITE NATIONALE INDEPENDANTE DES ELECTIONS Décision	15467
 Abbreviations CPI Consumer Price Index IMF	11286
 Abolition of Slavery and Arrival of Indentured Labourers	14742
 About Digital Identity Index The Global	19673
-About the Global Innovation Index The Global	12160,44,1,150,7510,87
+About the Global Innovation Index The Global	12160,44,1,150,7510,87,43
 About the Identity Index	1972
 About the Journal Submissions Indexing Privacy Statement	12486
 Absence of Independent Oversight	6512
@@ -216,7 +216,7 @@ Co-operation and Development PPI Producer Price Index	11286
 Colegio Nacional la Independencia Micomiseng	4209
 Collaboration Index	7548
 Collaboration Index Technologies-enabled	7548
-Combined Drought Index	15093
+Combined Drought Index	15093,4943
 Commerce Index	13345,5586
 Commerce Index BASELINE YEAR	12453
 Commercialization Global Innovation Index	7548
@@ -321,6 +321,7 @@ Data Subjects' Vulnerability Indexes	11956
 David Indeje	9648,598,7535
 Decadal Index of Drought Stress	17157
 Declaring Independence	6562
+Definition The Global Cybersecurity Index	20009
 Definition The Namibia Producer Price Index	11152
 Delivery Satisfaction Index	12512
 Democracy Discourse Index	11682
@@ -475,6 +476,7 @@ F VDE AND STATUTORYAFFAIRS CARD INDEX	15999
 FAO All Rice Price Index	17421
 FAO Food Price Index	17104,89,228
 FAO Rice Price Index	17104
+FSNAU and FAO SWALIM's Combined Drought Index	20036
 Facility GII Gender Inequality Index GPN	10829
 Fig.2- Regression Analysis of Computing Index and GDP	15713
 Final Report A4.2. Asset Wealth Index	12006
@@ -514,6 +516,7 @@ GII Global Innovation Index GoM Government	17458
 GII Global Innovation Index RCV Republic	11863
 GII Index	11895,264,1,45,150,132,7375,90
 GII Index Algeria	19865
+GII Index Lower	19995
 GII Index. Low-Income	12159,192
 GII Index. Lower-Middle-Income	10969,915,11,265,327,7375
 GII Index. Upper-Middle-Income	11885,470
@@ -563,7 +566,7 @@ Gender Inequality Index of Cameroon	10963,1
 Gender Inequality Index. Human Development Reports	15725
 Gender Inequality Index.15	13331
 Gender Inequality Index.17 Gender	15658
-Gender Parity Index	12199,2717,688,57,2799,1082
+Gender Parity Index	12199,2717,688,57,2799,1082,446
 Gender Parity Index ICT	12175
 Gender Parity Index IDA International Development	14896
 General Authority for Regulation IPP Independent Power	18851
@@ -585,7 +588,7 @@ Global Computing Power Index Assessment	15713
 Global Connectivity Index	19868
 Global Crypto Adoption Index	6679,2551,479
 Global Cyber Security Index	14897,100,1644,3010
-Global Cybersecurity Index	318,1035,21,64,440,5,386,495,840,239,105,267,711,381,31,69,147,116,158,340,597,171,10,3229,419,170,84,531,541,270,388,404,1273,289,200,8,766,14,2089,58,64,1502,397,235
+Global Cybersecurity Index	318,1035,21,64,440,5,386,495,840,239,105,267,711,381,31,69,147,116,158,340,597,171,10,3229,419,170,84,531,541,270,388,404,1273,289,200,8,766,14,2089,58,64,1502,397,235,132
 Global Cybersecurity Index Report. Geneva	6936
 Global Cybersecurity Index. Experts	2703
 Global Cybersecurity Index. Link	16942
@@ -619,15 +622,15 @@ Global Independent Connect Limited	2284
 Global Index	4126,2087,81,917,377,422,1564,2636,464
 Global Index Corruption	13358
 Global Index for Responsible AI	6886
-Global Innovation Index	2099,5449,3298,123,914,1,1,10,264,1,44,1,146,4,21,20,91,151,676,1252,431,483,2390,14,1978,3,44,43
+Global Innovation Index	2099,5449,3298,123,914,1,1,10,264,1,44,1,146,4,21,20,91,151,676,1252,431,483,2390,14,1978,3,44,43,43
 Global Innovation Index Benchmarks	15713
 Global Innovation Index Database	10846,9019
 Global Innovation Index GPU Graphics Processing	7548
 Global Innovation Index Statistics	11885
 Global Innovation Index. Ethiopia	12205
 Global Innovation Index. Global Innovation Index	12487
-Global Innovation Index. Global Innovation Tracker	19862
-Global Innovation Index. Long-term	11895,265,195,132,7375,3,87
+Global Innovation Index. Global Innovation Tracker	19862,133
+Global Innovation Index. Long-term	11895,265,195,132,7375,3,87,43
 Global Innovation Index. Mozambique	12159
 Global Innovation Index. Nigeria	11884
 Global Innovation Index. Rwanda	12351
@@ -732,9 +735,10 @@ Hirschman Index	12256
 Hlane At Independent News Eswatini	5799
 Honduras Global Cybersecurity Index	10764
 House EGDI E-government Development Index Technology	14897
-Human Capital Index	1353,540,19,8856,7,54,134,1,453,152,336,13,481,13,129,570,203,17,656,19,891,162,454,1,4,35,81,27,775,218,242,26,30,44,462,412,234,350,4,473,810,190
+Human Capital Index	1353,540,19,8856,7,54,134,1,453,152,336,13,481,13,129,570,203,17,656,19,891,162,454,1,4,35,81,27,775,218,242,26,30,44,462,412,234,350,4,473,810,190,57
 Human Capital Index Australia	15634
 Human Capital Index Hands-on Expanded Implementation	15553
+Human Capital Index ICR Implementation Completion	19988
 Human Capital Index Report	15447
 Human Capital Index and Sub-components Comparison	17870
 Human Capital Index for Burundi	19657
@@ -767,6 +771,7 @@ IDI ICT Development Index IETF Internet	19642
 IDR Import Dependency Ratio IEBC Independent	2775
 IEC Independent Electoral Commission JCPS Justice	11218
 IEG Independent Evaluation Group	19847
+IEG Independent Evaluation Group IRR Internal	19988
 IGInnldnooebvxaal2t0io2n4 About the Global Innovation Index	10969,916
 II. External Economic Stress Index 56 III	17503
 IMD Smart City Index	9206
@@ -855,7 +860,8 @@ ITU’s Global Cybersecurity Index	10785,6157
 ITU’s Global Cybersecurity Index Penetration of ICT	6946
 IUT Network Readiness Index	16641
 IV OPERATIONAL INDEPENDENT POWER PRODUCER	12399
-Ibrahim Index of African Governance	5879,4880,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,3012,1473,2679,1,169,14,22,1,65,14,1
+IVA Independent Verification Agency LAYS Learning-Adjusted	19988
+Ibrahim Index of African Governance	5879,4880,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,3012,1473,2679,1,169,14,22,1,65,14,1,48
 Ibrahim Index of African Governance LACC Liberia	17139
 Ibrahim Index of African Governance. III.3.3. Ejes	16898
 Identification Personnel NRI Network Readiness Index	15583
@@ -879,7 +885,7 @@ Indecent Content	18667,8
 Indecis Q56 Pensez-vous	13390
 Indecis Q57 Pensez-vous	13390
 Indecisive	10841
-Indeed	27,209,530,23,210,162,51,151,449,213,908,72,432,167,178,138,207,312,108,301,35,87,393,370,159,497,88,357,104,12,429,43,4,45,207,208,52,347,437,256,9,344,321,661,189,212,4,45,1,67,10,15,3,22,59,15,5,5,2,61,22,51,32,3,4,14,1,149,6,114,101,20,18,102,244,7,44,42,168,159,10,30,72,147,367,85,2,225,47,73,10,64,220,535,450,57,21,116,75,480,63,93,3,30,18,36,21,240,270,195,468,20,30,25,15,21,12,105,47,220,266,2,128,127,234,197,4,13,137,9,11,295,161,2,304,11,77,194,23,13,47,31,6,27,169,12,90,33,4
+Indeed	27,209,530,23,210,162,51,151,449,213,908,72,432,167,178,138,207,312,108,301,35,87,393,370,159,497,88,357,104,12,429,43,4,45,207,208,52,347,437,256,9,344,321,661,189,212,4,45,1,67,10,15,3,22,59,15,5,5,2,61,22,51,32,3,4,14,1,149,6,114,101,20,18,102,244,7,44,42,168,159,10,30,72,147,367,85,2,225,47,73,10,64,220,535,450,57,21,116,75,480,63,93,3,30,18,36,21,240,270,195,468,20,30,25,15,21,12,105,47,220,266,2,128,127,234,197,4,13,137,9,11,295,161,2,304,11,77,194,23,13,47,31,6,27,169,12,90,33,4,28
 Indeed NBR	15023
 Indefeasible Right of Use	7014,5239,6992
 Indefeasible Rights of Use	4676,10289
@@ -1039,7 +1045,7 @@ Independent Engineer	5793,13094
 Independent Environmental Audit	1988
 Independent Evaluation	16921,2926
 Independent Evaluation Board	13226
-Independent Evaluation Group	10779,531,2540,1038,2008,2951
+Independent Evaluation Group	10779,531,2540,1038,2008,2951,141
 Independent Evaluation Mechanism	18305
 Independent Evaluation Office BSG Budget Support	11863
 Independent Evaluation and Verification Panels	1988
@@ -1139,7 +1145,7 @@ Independent Transmission Project	5912
 Independent Transmission Projects Procurement Programme	11215,33
 Independent Tribunal	2307
 Independent Valuation	4896
-Independent Verification Agency	6539,4290,2563,2301,945
+Independent Verification Agency	6539,4290,2563,2301,945,3350
 Independent Verification Agency KPI Key Performance	17458
 Independent Verification Agent	6539,5849,3414,3440,213,380
 Independent and Pluralistic Media	17017
@@ -1158,7 +1164,7 @@ Indetermin	10847
 Indeterminé BOUCLE DU MOUHOUN	10847
 Indeterminé Total Région	10847
 Indeterminé ZOUNDWEOGO	10847
-Index	10,11,215,377,176,415,8,31,642,87,722,81,939,2879,255,89,725,101,1128,583,285,1005,4,80,4,117,7,3,173,46,60,28,131,152,113,80,101,21,1,10,40,71,153,1,45,9,119,13,5,4,34,21,43,34,170,279,364,12,2,18,13,12,28,76,224,65,111,7,203,43,427,25,108,323,247,247,21,71,38,38,242,285,16,182,492,45,21,7,2,86,60,60,346,240,141,25,81,368,174,24,211,472,161,67,57,18,91,229,3,12,75
+Index	10,11,215,377,176,415,8,31,642,87,722,81,939,2879,255,89,725,101,1128,583,285,1005,4,80,4,117,7,3,173,46,60,28,131,152,113,80,101,21,1,10,40,71,153,1,45,9,119,13,5,4,34,21,43,34,170,279,364,12,2,18,13,12,28,76,224,65,111,7,203,43,427,25,108,323,247,247,21,71,38,38,242,285,16,182,492,45,21,7,2,86,60,60,346,240,141,25,81,368,174,24,211,472,161,67,57,18,91,229,3,12,75,43
 Index A. REQUEST FOR PROPOSAL FORM	12400
 Index All Students	13556
 Index Country Policy and Institutional Assessment	643
@@ -1169,6 +1175,7 @@ Index ESB Enterprise Service Bus FISP	13345
 Index EXECUTIVE SUMMARY	14022
 Index Ecosystem Startup Global	19406
 Index GDP Gross Domestic Product GEI	18931
+Index GRM Grievance Redress Mechanism HCI	19988
 Index Growth	18847
 Index HCP High Commission for Planning HD	17458
 Index HCW Healthcare Waste HMIS Health	16896
@@ -1225,7 +1232,7 @@ Infrastructure Index	11569,6291
 Infrastructure Index UNDESA United Nations Department	16885
 Initiative Index	15658
 Initiative Index NEET	15604
-Innovation Index	12160,44,1,150,3358,1745,2407,87
+Innovation Index	12160,44,1,150,3358,1745,2407,87,43
 Innovation Index The Global Innovation Index	11884
 Innovation The Global Innovation Index	12376
 Insights AI Readiness Index	12210
@@ -1488,6 +1495,7 @@ Overail Index	15901
 Overall Engagement and Index Trends	11131
 Overall Producer Price Index	11152
 Overall Uganda ICT Development Index	19642
+Overview The Global Cybersecurity Index of Guinea	20009
 Owners Engineer and Independent Engineering	15870
 Oxford Government AI Readiness Index	7588,422,1564
 Oxford Insights AI Readiness Index	3902

@@ -217,7 +217,7 @@ CORS Continuous Operating Reference Stations COVID-19	18293
 COVID-19 Contingent Emergency Response Component CPF	13331
 CPCC Continental Project Coordination Committee CPF	1264
 CPD Continuing	14922
-CPD Continuous Professional Development CPF Country	15661
+CPD Continuous Professional Development CPF Country	15661,4327
 CPD Continuous Professional Development CSP Content	6946
 CPD Continuous Professional Development DOAJ Directory	14747
 Calendrier Continuer	19150
@@ -390,7 +390,7 @@ Contingent Allemand	998
 Contingent Allemand ARCEP	998
 Contingent Emergency	1284
 Contingent Emergency Response	1284,3369,2275,4489,554,204,1156,1125,97,357,608,184,442,292,1522,397,268,186,8
-Contingent Emergency Response Component	761,235,232,36,20,300,283,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61,990,2,226,353,27,35,66,2,37,1,2,82,39,187,14,96,65,43,197,52,460,26,4,68,6,96,3,15,848,171,160,8,49,4,5,97,48,30,275,124,312,4,35,171,147,41
+Contingent Emergency Response Component	761,235,232,36,20,300,283,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61,990,2,226,353,27,35,66,2,37,1,2,82,39,187,14,96,65,43,197,52,460,26,4,68,6,96,3,15,848,171,160,8,49,4,5,97,48,30,275,124,312,4,35,171,147,41,359
 Contingent Emergency Response Component CERC Country	11417
 Contingent Emergency Response Component CERC Steering	1228
 Contingent Emergency Response Component CPF Comité	10964
@@ -688,7 +688,7 @@ Financial Risk The Business Continuity Management	11131
 Fiscal Risk and Contingency Liability	18488
 Fiscal Risk and Contingent Liability	18488,89
 Five-Year Plan That Continues	5340
-Formation Continue	18169
+Formation Continue	18169,1819
 Formation Continue FI	15673
 Frequency Quarterly Annually Continuous	15658
 Funding Drought Continues West Africa	12221

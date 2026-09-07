@@ -45,6 +45,7 @@ Approach for Better Education Results	15604
 Ariadne Labs and Results for Development	17869
 Assess and Use Results	396
 Assess and Use Results Evaluation	1824
+Assessment CRI Corporate Results Indicators DLI	19988
 Assessment Results	1953
 Authorized IMPLEMENTATION COMPLETION AND RESULTS REPORT	16436
 B RESULTS MATRIX RESULTS CHAIN	13938
@@ -159,7 +160,7 @@ Contingent Emergency Response Component Intermediate Results	16436,1526
 Control Results	15478
 Coordinated Implementation Drives Results The Presidential	13510
 Coordination Structure B. Results Monitoring and Evaluation	15553
-Corporate Results Indicator	13111,6134
+Corporate Results Indicator	13111,6134,743
 Corporate Results Indicator CSO Civil Society	15138
 Corporate Results Indicator Designated Account Disbursement	15658
 Corporate Results Indicators	11417,3136,4731
@@ -220,6 +221,7 @@ Disbursement Linked Indicator Disbursement Linked Result	16032
 Disbursement Linked Result	17470
 Disbursement Linked Results	16032,1438
 Disbursement-Linked Result	17458
+Disbursement-Linked Results	19988
 Discussion des Resultats	15907
 Discussion des Resultats L'analyse	15907
 Dispute of Tax Audit Results	12389
@@ -234,6 +236,7 @@ Délinquance Juvénile RESUME EXECUTIF	15848
 E. Results Chain	19835
 EBA-lite Model Results	13868
 ECV Resultados	15476
+EDG. Key Results	20002
 EEDCV RESUMO EXECUTIVO Nos	15689
 ELECTION RESULTS VALIDATION OF RESULTS	12201
 ENGAGEMENTS SUR TITRES COMPTE DE RESULTAT	17841
@@ -329,7 +332,9 @@ Governo. Resultou	8179
 Grace Period for Publishing Research Results Without	12389
 Grau de Digitalização. Resultados	11451
 Group. Results	10793
-Guinea Project for Results	16638
+Guinea Education Project for Results Operation	19988
+Guinea Project for Results	16638,3350
+Guinea. RESULTS COUNTRY	19990
 HEALTH RESULTS PROJECT	16867
 HEPRR Program Results Framework Original Revised	11417
 HEPRR Program’s Results Chain	11417
@@ -350,6 +355,7 @@ ICR00006333 IMPLEMENTATION COMPLETION AND RESULTS REPORT	15663
 ICR00023 IMPLEMENTATION COMPLETION AND RESULTS REPORT	15702
 ICR00028 IMPLEMENTATION COMPLETION AND RESULTS REPORT	15704
 ICR00098 IMPLEMENTATION COMPLETION AND RESULTS REPORT	15990
+ICR00154 IMPLEMENTATION COMPLETION AND RESULTS REPORT	19988
 ICR00178 IMPLEMENTATION COMPLETION AND RESULTS REPORT	13861
 ICR00338 IMPLEMENTATION COMPLETION AND RESULTS REPORT	15731
 ICR00460 IMPLEMENTATION COMPLETION AND RESULTS REPORT	12560
@@ -397,16 +403,16 @@ IX. RESULTS FRAMEWORK AND MONITORING	10768
 Immediate Resuscitation	12606
 Implementation Completion and Result Report	18887
 Implementation Completion and Results	15511,2451
-Implementation Completion and Results Report	10964,2367,1554,487,52,87,90,62,39,29,228,31,446,178,1235,13,100,236,258,298,71
+Implementation Completion and Results Report	10964,2367,1554,487,52,87,90,62,39,29,228,31,446,178,1235,13,100,236,258,298,71,1163,28
 Implementation Progress and Results Report	14132
 Implementation Status Results	14888
 Implementation Status Results Report	15411
 Implementation Status and Result Reporting Ratings	13054
 Implementation Status and Results IXP Internet Exchange	18754
-Implementation Status and Results Report	2889,8528,1641,1973,522,48,136,45,1114,26,1372,80,99,344,467
+Implementation Status and Results Report	2889,8528,1641,1973,522,48,136,45,1114,26,1372,80,99,344,467,706
 Implementation Status and Results Report ITU International	17862
 Implementation Status and Results Report M&E Monitoring	16896
-Implementation Status and Results Reports	3604,8320,4512
+Implementation Status and Results Reports	3604,8320,4512,3552
 Implementation Unit RF Results Framework SETIC	1284
 Implementation Unit Results-Based Financing Special Drawing	4653
 Improving Education Quality and Results for All MNO	17870
@@ -436,13 +442,14 @@ Intermediate Result Single MdJL-	17441
 Intermediate Result Statistical	17441
 Intermediate Results	16436
 Intermediate Results Indicator	1284,10640,3677
-Intermediate Results Indicators	1284,583,845,892,1049,35,1891,349,949,2891,102,525,22,438,50,19,41,6,17,240,39,173,284,303,31,273,639,1010,37,14,107,21,265,94,35,66,39,1,2,2,72,2,276,19,47,65,43,249,202,67,191,26,27,3,42,6,79,17,374,35,399,54,4,171,217,4,1,4,175,258,25,165,101,159,3,4,35,171,26,348,6
+Intermediate Results Indicators	1284,583,845,892,1049,35,1891,349,949,2891,102,525,22,438,50,19,41,6,17,240,39,173,284,303,31,273,639,1010,37,14,107,21,265,94,35,66,39,1,2,2,72,2,276,19,47,65,43,249,202,67,191,26,27,3,42,6,79,17,374,35,399,54,4,171,217,4,1,4,175,258,25,165,101,159,3,4,35,171,26,348,6,155,11
 Intermediate Results Indicators Component	15411,1511,1903
 Intermediate Results Indicators Definition	15553
 Intermediate Results Indicators FY Indicator Name	11525
 Intermediate Results Indicators Indicator Name Definition	10829,135,891,1476,2187
 Intermediate Results Indicators Mapped Methodology for Data	1284,15638
 Intermediate Results Indicators Percentage	11924
+Intermediate Results Indicators for Objectives	19988
 Intermediate-level Results Indicators Classroom	13392
 Internal Processes and Governance and Result-driven People	12951
 International Monetary Fund IRI Intermediate Results	11924
@@ -507,6 +514,8 @@ Main Results	15473
 Main Results Najjar	15473
 Maintenance Levy Fund RRI Rapid Results	2775
 Malawi Fiscal Governance Program for Results	13060
+Malawi Foundational Learning Program for Results	20027
+Malawi's Foundations of Learning Program for Results	20027
 Malawi. Key Results	13111
 Male Female FINAL RESULTS	16921
 Mali Improving Education Quality and Results for All	17870,88
@@ -618,6 +627,7 @@ PRINCIPAUX RESULTATS	18204
 PRISM Users' Kit. RESULTS	10878
 PROGRAMMATION TRIENNALE DES ACTIONS ET RESULTATS	15673
 PROGRAMMES OBJECTIFS RESULTATS ATTENDUS ACTIONS	10712
+PROJECT FOR RESULTS IN EARLY	19988
 PUBLICATIONS-CHIFFRES- RESULTATS-INDICATEURS	18077
 PVR Provisional Voter Register RMS Results	18531
 Page RESUME NON TECHNIQUE	18118
@@ -642,6 +652,7 @@ Posts Opening Results	11251
 Posts Sewage Results	11251
 Posts Water Results	11251
 Potential for Results	17037
+PrePEF Project for Results	19988
 Preliminary Result	16921
 Presidency Results Voter Participation Cast Votes	19857
 Prime Minister’s Year-End Address No Result	4535
@@ -756,7 +767,7 @@ RESULTATS INDICATEURS Mali	17978
 RESULTATS Institut	737
 RESULTATS Page	15936
 RESULTING SAOC ANALYSIS	19520
-RESULTS	1212,1500,1976,1891,349,949,2908,52,33,42,483,576,17,102,73,65,39,74,99,587,31,801,51,7,3,1060,37,14,128,85,491,2,276,19,47,626,216,73,6,79,17,374,35,399,54,48,127,217,4,1,179,258,25,165,101,159,7,232,172,176,7,22,81
+RESULTS	1212,1500,1976,1891,349,949,2908,52,33,42,483,576,17,102,73,65,39,74,99,587,31,801,51,7,3,1060,37,14,128,85,491,2,276,19,47,626,216,73,6,79,17,374,35,399,54,48,127,217,4,1,179,258,25,165,101,159,7,232,172,176,7,22,81,48,14
 RESULTS AND HIGHLIGHTS Real GDP	19038
 RESULTS AND POST-ELECTION ENVIRONMENT	12201
 RESULTS Average Scores for Rapid MSDI Variables	18476
@@ -767,13 +778,15 @@ RESULTS COUNTRY	4653,10485,831,63,155
 RESULTS EHR Coverage	12508
 RESULTS FRAMEWORK	2889,8974,3880,401,240,1814,1047
 RESULTS FRAMEWORK AND KEY OUTPUTS	11924,3500,87,90,62,68,705,516,897,13,100,803,60
-RESULTS FRAMEWORK AND KEY OUTPUTS A	15424,177,62
+RESULTS FRAMEWORK AND KEY OUTPUTS A	15424,177,62,4325
 RESULTS FRAMEWORK AND KEY OUTPUTS Actual	15511
+RESULTS FRAMEWORK AND KEY OUTPUTS....28 ANNEX	19988
 RESULTS FRAMEWORK AND MONITORING	11417,6876
 RESULTS FRAMEWORK ANNEX	13856
 RESULTS FRAMEWORK Development Goal Objectiv Objective	19519
 RESULTS FRAMEWORK FOR NATIONAL STRATEGY	12939
 RESULTS FRAMEWORK MATRIX	11905,5553
+RESULTS FRAMEWORK PDO Indicators	19988
 RESULTS FRAMEWORK Project Development Objective	11965
 RESULTS FRAMEWORK RESULTS FRAMEWORK A PROJECT	11863
 RESULTS FROM INNOVATION SURVEY RESPONDENTS	18910
@@ -794,8 +807,8 @@ RESULTS-BASED LOGICAL FRAMEWORK	13938
 RESULTS-BASED LOGICAL FRAMEWORK RESULTS FRAMEWORK	13938
 RESUME	737,12715,4392
 RESUME A. CONTEXTE	17842
-RESUME ANALYTIQUE	18105
-RESUME ANALYTIQUE Le Ministère	18105
+RESUME ANALYTIQUE	18105,1881
+RESUME ANALYTIQUE Le Ministère	18105,1881
 RESUME Au	13452
 RESUME BUDGET DE L’ETAT RESSOURCES BUDGETAIRES	16047
 RESUME Ce	18291
@@ -839,6 +852,7 @@ RESUMO INSTITUCIONAL	11531
 RESUMO INSTITUCIONAL A Lei	11531
 RESUMO Sistemas de Informação	10780
 REVIEW OF THE RESULTS	16189
+RF Results Framework RMR Risk Mitigation	19988
 RF Results Framework RPF Resettlement Policy	13331
 RF Results Framework SDG Sustainable Development	18477
 RF Results Framework SE Supervising Entity	18765
@@ -849,6 +863,7 @@ RGE. RESULTATS DEFINITIFS DU RGE	10875
 RNE REsut	14479
 Railways Key Result Area	14781
 Rapid Results Initiative	8568
+Rate of Return ISR Implementation Status and Results	19988
 Real Results That Matter	12458
 Refugees Intermediate Results Indicators	11924
 Regional Cooperation Delivers Results Regional	7876
@@ -937,7 +952,7 @@ Resultat	14442
 Resultats	14479,95
 Resultats definitifs RGPH 2006.pdf The State	10812
 Resulting	12360,966,1571,4745
-Results	43,375,353,441,7,9,15,18,563,43,188,38,723,132,656,47,22,118,70,217,38,85,231,464,348,289,167,551,582,445,481,262,1,108,246,60,170,522,1,108,112,539,435,440,16,14,36,17,6,2,3,13,11,38,21,37,3,154,2,6,154,14,107,52,72,37,7,270,5,28,17,13,6,41,21,8,1,8,3,19,126,2,48,19,11,2,9,4,9,23,101,4,1,19,42,20,43,170,46,224,15,15,64,55,216,19,86,2,5,199,62,175,77,51,1,161,140,312,135,159,1,61,60,20,51,74,80,3,90,74,13,87,63,84,3,2,49,133,166,133,185,80,452,66,20,2,1,13,33,47,97,45,184,34,38,64,143,95,30,189,142,21,38,138,4,224,288,8,138,99,183,39,235,23,15,18,79,120,61,4,20,28,87
+Results	43,375,353,441,7,9,15,18,563,43,188,38,723,132,656,47,22,118,70,217,38,85,231,464,348,289,167,551,582,445,481,262,1,108,246,60,170,522,1,108,112,539,435,440,16,14,36,17,6,2,3,13,11,38,21,37,3,154,2,6,154,14,107,52,72,37,7,270,5,28,17,13,6,41,21,8,1,8,3,19,126,2,48,19,11,2,9,4,9,23,101,4,1,19,42,20,43,170,46,224,15,15,64,55,216,19,86,2,5,199,62,175,77,51,1,161,140,312,135,159,1,61,60,20,51,74,80,3,90,74,13,87,63,84,3,2,49,133,166,133,185,80,452,66,20,2,1,13,33,47,97,45,184,34,38,64,143,95,30,189,142,21,38,138,4,224,288,8,138,99,183,39,235,23,15,18,79,120,61,4,20,28,87,14,2,6
 Results Acceleration Program For Inclusive Digitalization	3604
 Results Acceleration Program for Inclusive Development	3604
 Results Acceleration Program for Inclusive Digitalization	1649,1955,176
@@ -968,7 +983,7 @@ Results Based Management Framework	18948
 Results Based Monitoring	13310
 Results Between	12245,1180
 Results Briefs. World Bank	11133
-Results Chain	11924,3500,87,90,62,68,705,516,897,13,100,331,472,60,1010
+Results Chain	11924,3500,87,90,62,68,705,516,897,13,100,331,472,60,1010,153
 Results Chain Component	15411
 Results Chain Note	18104
 Results Chain RESULTS CHAIN	15138
@@ -981,7 +996,7 @@ Results Financing	18370
 Results Focus	8376
 Results Following	13608
 Results Fourteen	766
-Results Framework	1284,1007,598,715,7225,134,1,453,438,8,42,19,41,43,348,558,66,351,1,46,14,439,107,950,250,273,190,57,1,4,41,265,63,112,43,249,239,221,26,21,6,3,8,3,999,142,94,279,57,91,140,44,16,459,171,64,316,12
+Results Framework	1284,1007,598,715,7225,134,1,453,438,8,42,19,41,43,348,558,66,351,1,46,14,439,107,950,250,273,190,57,1,4,41,265,63,112,43,249,239,221,26,21,6,3,8,3,999,142,94,279,57,91,140,44,16,459,171,64,316,12,141
 Results Framework Adjustments	4653
 Results Framework COUNTRY	10829
 Results Framework Change	15601,2248,13
@@ -1054,6 +1069,7 @@ Results Report Ethiopia Digital ID for Inclusion	12228,39
 Results Report Ethiopia First Sustainable and Inclusive	14056
 Results Report Guinea Project for Results	16638
 Results Report Guinea Support	16994
+Results Report IDA International Development Association	19988
 Results Report KP Kimberley Process MMG	2889
 Results Report LMIS Logistics Management	19284
 Results Report Lesotho Integrated Transport	12724
@@ -1082,7 +1098,7 @@ Results Report Togo	19249
 Results Report Togo Social Assistance Transformation	19242
 Results Report Tunisia Energy Reliability	19481
 Results Report URL	18355
-Results Report West Africa Unique Identification	15735
+Results Report West Africa Unique Identification	15735,4266
 Results Reports	2253,13410
 Results Repository Data Warehouse Provider Registry	21
 Results SO1	16943
@@ -1130,7 +1146,7 @@ Results-Based Hospital Information System	10865
 Results-Oriented Annual Report CPD	17101
 Results-Report AR	9022
 Results-and-data. Hazard	18578
-Results-based	6444,1104,10981,1057,249
+Results-based	6444,1104,10981,1057,249,153
 Results-based Financing	16896,26
 Results-based Logframe	14132
 Results-oriented	17139
@@ -1280,8 +1296,8 @@ Water Results	11251
 Well-designed Results Framework	15601
 World Bank CAR Accelerating Results	15661
 World Bank Implementation Completion and Results	19519
-World Bank Implementation Completion and Results Report	978,14408
-World Bank Implementation Status and Results Report	19966
+World Bank Implementation Completion and Results Report	978,14408,4630
+World Bank Implementation Status and Results Report	19966,61
 World Bank Implementation and Status Results Reports	10964
 World Bank Results Acceleration Program	3604
 World Bank's Implementation Completion and Results Report	15377

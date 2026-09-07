@@ -47,6 +47,7 @@ AGENCE GABONAISE DE PRESSE	16175
 AGENCE IMMOBILIERE HARMONY PLACE	15558
 AGENCE NATIONALE DE DEVELOPPEMENT DU NUMERIQUE	13818
 AGENCE NATIONALE DE FINANCEMENT DES COLLECTIVITES	16666
+AGENCE NATIONALE DE LA SECURITE DES	19986
 AGENCE NATIONALE DE L’AVIATION CIVILE	16175,3085
 AGENCE NATIONALE DES BOURSES DU GABON	16175
 AGENCE NATIONALE DU DOMAINE ET	10876
@@ -83,6 +84,7 @@ ANDF Agence Nationale du Domaine	10876
 ANER Agence	18316
 ANEREE Agence Nationale des Energies Renouvelables	15769
 ANFR French National Radio Frequency Agency	17862
+ANGEIE AGENCE NATIONALE DE LA GOUVERNANCE	19986
 ANGEIE Agence Nationale	16626
 ANID National Agency for Identification	19284
 ANINF-ST Partnership Gabon's National Agency for Digital	3291
@@ -169,7 +171,7 @@ Afrique AFD Agence Française de Développement ARREC	18103
 Afrique Bailleurs Agence	10519
 Afrique Subsaharienne APME Agence de Promotion des Petites	15501
 Agenc	15584
-Agence	324,112,207,4,88,2,28,93,129,202,58,44,290,10,58,31,10,284,87,17,276,22,11,16,26,47,38,50,91,42,35,83,96,165,7,16,1,4,2,19,48,75,50,40,24,19,71,34,40,64,1,126,2,88,5,44,10,30,147,82,10,3,32,99,98,7,28,205,64,5,41,12,4,41,38,26,36,83,3,36,25,3,39,16,24,157,78,74,104,36,52,90,34,40,58,51,5,42,3,28,78,57,67,100,180,27,50,60,17,79,52,39,44,12,23,13,29,87,7,1,129,108,60,58,14,9,38,31,107,23,16,12,17,41,1,19,10,62,36,20,11,59,8,23,12,24,12,3,34,8,9,2,68,3,8,24,2,41,13,24,12,31,18,32,33,16,3,15,24,60,24,54,27,92,3,14,9,35,15,2,26,40,1,46,14,31,2,22,8,1,5,10,158,27,45,43,4,53,109,38,6,34,91,1,71,50,25,59,65,32,24,31,49,6,6,86,30,17,26,87,8,105,102,89,7,1,33,13,16,17,28,49,37,12,20,102,4,3,1,1,5,16,15,16,1,1,45,3,42,9,35,139,2,453,48,9,47,17,93,17,201,7,36,12,12,8,1149,33,7,1,24,49,16,140,1,24,12,55,4,57,25,7,13,2,18,23,18,9,5,6,16,2,16,85,256,3,44,12,89,18,13,38,17,10,3,1,18,48,124,24,65,664,7,18,12,4,8,2,3,2,7,11,5,12,8,19,18,23,8,13,29,7,3,5,6,31,3,1,2,2,8,7,12,2,3,39,5,46,3,30,29,20,3,14,20,3,13,7,9,1,12,6,6,33,6,18,2,31,15,22,25,10,13,42,16,29,1,20,24,9,9,15,1,4,9,1,14,7,4,14,5,8,20,1,15,9,12,1,11,10,5,25,7,11,26,2,2,3,3,50,10,6,19,1,9,5,9,94,6,26,1,700,35,2,7,7,24,61,47,22,29,7,74,42,6,6,10,1,5,8,3,7,3,2,4,1,9,11,1,6,3,3,5,7,1,1,8,2,12,7,5,5,1,3,1,1,1,1,5,4,1,10,4,2,1,1,3,6,2,1,4,2,2,8,1,1,5,10,4,1,9,3,2,4,2,14,4,16,3,32,13,132,1,20,2,1,2,3,16,4,1,5,2,13,4,5,1,14,7,2,2,13,9,12,5,1,4,6,1,508,13,23,21,11,30,26,29,3,8,35,14,3,27,9,18,8,3,1,4,1,3,7,2,5,6,2,8,9,18,11,6,59,2,29,6,2,43,5,6,3,5,17,185,173,63
+Agence	324,112,207,4,88,2,28,93,129,202,58,44,290,10,58,31,10,284,87,17,276,22,11,16,26,47,38,50,91,42,35,83,96,165,7,16,1,4,2,19,48,75,50,40,24,19,71,34,40,64,1,126,2,88,5,44,10,30,147,82,10,3,32,99,98,7,28,205,64,5,41,12,4,41,38,26,36,83,3,36,25,3,39,16,24,157,78,74,104,36,52,90,34,40,58,51,5,42,3,28,78,57,67,100,180,27,50,60,17,79,52,39,44,12,23,13,29,87,7,1,129,108,60,58,14,9,38,31,107,23,16,12,17,41,1,19,10,62,36,20,11,59,8,23,12,24,12,3,34,8,9,2,68,3,8,24,2,41,13,24,12,31,18,32,33,16,3,15,24,60,24,54,27,92,3,14,9,35,15,2,26,40,1,46,14,31,2,22,8,1,5,10,158,27,45,43,4,53,109,38,6,34,91,1,71,50,25,59,65,32,24,31,49,6,6,86,30,17,26,87,8,105,102,89,7,1,33,13,16,17,28,49,37,12,20,102,4,3,1,1,5,16,15,16,1,1,45,3,42,9,35,139,2,453,48,9,47,17,93,17,201,7,36,12,12,8,1149,33,7,1,24,49,16,140,1,24,12,55,4,57,25,7,13,2,18,23,18,9,5,6,16,2,16,85,256,3,44,12,89,18,13,38,17,10,3,1,18,48,124,24,65,664,7,18,12,4,8,2,3,2,7,11,5,12,8,19,18,23,8,13,29,7,3,5,6,31,3,1,2,2,8,7,12,2,3,39,5,46,3,30,29,20,3,14,20,3,13,7,9,1,12,6,6,33,6,18,2,31,15,22,25,10,13,42,16,29,1,20,24,9,9,15,1,4,9,1,14,7,4,14,5,8,20,1,15,9,12,1,11,10,5,25,7,11,26,2,2,3,3,50,10,6,19,1,9,5,9,94,6,26,1,700,35,2,7,7,24,61,47,22,29,7,74,42,6,6,10,1,5,8,3,7,3,2,4,1,9,11,1,6,3,3,5,7,1,1,8,2,12,7,5,5,1,3,1,1,1,1,5,4,1,10,4,2,1,1,3,6,2,1,4,2,2,8,1,1,5,10,4,1,9,3,2,4,2,14,4,16,3,32,13,132,1,20,2,1,2,3,16,4,1,5,2,13,4,5,1,14,7,2,2,13,9,12,5,1,4,6,1,508,13,23,21,11,30,26,29,3,8,35,14,3,27,9,18,8,3,1,4,1,3,7,2,5,6,2,8,9,18,11,6,59,2,29,6,2,43,5,6,3,5,17,185,173,63,91,8,34
 Agence ALIMENTAIRE EN AFRIQUE DE L’OUEST	17861
 Agence Afrique	4127
 Agence Américaine	16644
@@ -204,11 +206,11 @@ Agence Congolaise des Systèmes	15493,60
 Agence Coordination	19221
 Agence Coréenne de Coopération Internationale	10524
 Agence Danoise	15475
-Agence Djiboutienne	13856
+Agence Djiboutienne	13856,6176
 Agence Djiboutienne de Développement Social	4402,9536
 Agence Djiboutienne des Normes	13843,65,524
 Agence Djiboutienne des Routes	4402
-Agence Ecofin	1690,580,423,37,532,115,370,479,1208,1,331,125,171,271,26,738,30,59,235,508,826,702,166,468,84,51,258,127,789,92,234,69,1479,294,58,737,1795,532,11,19,974,199,94,10,1171,1,661
+Agence Ecofin	1690,580,423,37,532,115,370,479,1208,1,331,125,171,271,26,738,30,59,235,508,826,702,166,468,84,51,258,127,789,92,234,69,1479,294,58,737,1795,532,11,19,974,199,94,10,1171,1,661,178
 Agence Ecofin IA	16690
 Agence Ecofin La Guinée	16701
 Agence Ecofin Oct	1440
@@ -232,7 +234,7 @@ Agence France Presse	14932
 Agence FranÃ	18887
 Agence Française	13433,2226,353,1816
 Agence Française Islamique	10965
-Agence Française de Développement	331,106,364,1,167,74,362,1,1,496,1812,627,751,721,1292,785,459,1925,437,51,200,1,1,20,564,375,119,1306,225,196,1,25,948,667,63,41,27,11,98,8,2,24,40,244,17,1,197,462,17,6,29,28,1123,7,256,181,16,679,249,590
+Agence Française de Développement	331,106,364,1,167,74,362,1,1,496,1812,627,751,721,1292,785,459,1925,437,51,200,1,1,20,564,375,119,1306,225,196,1,25,948,667,63,41,27,11,98,8,2,24,40,244,17,1,197,462,17,6,29,28,1123,7,256,181,16,679,249,590,175
 Agence Française de Développement AFRF	15475
 Agence Française de Développement APC	15673
 Agence Française de Développement Page	15553
@@ -248,7 +250,7 @@ Agence Gabonaise de Presse	15953,107,99,123,36,23,44,9,71,37,4,3,240
 Agence Gabonaise de Presse URL	16159,159,23,53,71,37,4
 Agence Gabonaise de Presse. Ce	15953
 Agence Gabonaise de Sécurité Sanitaire des Aliments	15500
-Agence Gouvernementale	18105
+Agence Gouvernementale	18105,1881
 Agence Guineenne	16612
 Agence Guinéenne	16612,71
 Agence Internationale	15670
@@ -309,7 +311,7 @@ Agence Nationale de Cybersecurite. TITRE IV	15584
 Agence Nationale de Cybersecurlte	15584
 Agence Nationale de Cybersecurtte	15584
 Agence Nationale de Cybersécurité	16370,1537
-Agence Nationale de Digitalisation	4036,6496,6098,7,4,51,17
+Agence Nationale de Digitalisation	4036,6496,6098,7,4,51,17,3302
 Agence Nationale de Digitalisation de I’Etat	16637
 Agence Nationale de Développement du Numérique	5370,8348,1,3,6,90
 Agence Nationale de Financement des Collectivités Locales	16663,56
@@ -653,7 +655,7 @@ Agencies of Government Interoperability	16924
 Agencies. In the MDAs	19519
 Agencies. SERVICOM	18205
 Agencies. The Digital Eswatini Project	12990
-Agency	16,566,115,202,101,131,646,211,319,138,104,160,18,44,733,100,180,342,81,321,139,324,224,55,290,95,10,218,78,214,47,29,170,11,113,241,37,27,294,16,148,69,371,103,6,109,458,175,3,26,506,127,174,79,62,340,20,162,52,7,167,100,160,122,20,86,4,159,154,5,18,32,93,187,22,67,198,104,8,53,60,74,172,19,96,22,54,99,30,144,60,153,38,14,21,5,5,49,13,9,27,15,13,10,67,114,6,5,7,3,11,12,16,6,16,7,32,35,42,164,304,39,233,185,19,8,268,172,8,100,22,121,24,208,101,11,175,2,226,49,47,211,81,109,219,230,20,13,6,12,1,42,20,28,10,120,52,78,25,355,86,148,21,34,205,45,8,119,28,128,26,3,2,17,93,83,104,122,1,16,7,20,85,43,22,164,39,257,4,39,1,54,122,31,84,11,19,45
+Agency	16,566,115,202,101,131,646,211,319,138,104,160,18,44,733,100,180,342,81,321,139,324,224,55,290,95,10,218,78,214,47,29,170,11,113,241,37,27,294,16,148,69,371,103,6,109,458,175,3,26,506,127,174,79,62,340,20,162,52,7,167,100,160,122,20,86,4,159,154,5,18,32,93,187,22,67,198,104,8,53,60,74,172,19,96,22,54,99,30,144,60,153,38,14,21,5,5,49,13,9,27,15,13,10,67,114,6,5,7,3,11,12,16,6,16,7,32,35,42,164,304,39,233,185,19,8,268,172,8,100,22,121,24,208,101,11,175,2,226,49,47,211,81,109,219,230,20,13,6,12,1,42,20,28,10,120,52,78,25,355,86,148,21,34,205,45,8,119,28,128,26,3,2,17,93,83,104,122,1,16,7,20,85,43,22,164,39,257,4,39,1,54,122,31,84,11,19,45,53
 Agency A BfLL ENTITLED	16851
 Agency Act No	2727
 Agency Additional Financing	19284
@@ -864,7 +866,7 @@ Background The Environmental Protection Agency	17255
 Background The Namibia Statistics Agency	13031
 Bank ANINF Agence Nationale des Infrastructures Numériques	15447
 Bayelsa State Electricity Regulatory Agency	18186
-Belgian Development Agency	1235,9629,2448,2,35
+Belgian Development Agency	1235,9629,2448,2,35,6655
 Belgium Development Cooperation Agency	12333
 Benin's Agency for Information Systems and Digital	3112,102
 Benin's Information Systems and Digital Agency	3299
@@ -1183,7 +1185,7 @@ ET AGENCES	10965
 EU Agencies	789
 EU. The Belgian Development Agency ENABEL	11536
 EcoFin Agency	5247
-Ecofin Agency	1411,757,636,440,402,219,18,90,169,283,694,128,803,135,463,176,52,34,73,322,402,366,202,396,116,829,207,1033,839,337,1830,33,649,2040,1161,1877
+Ecofin Agency	1411,757,636,440,402,219,18,90,169,283,694,128,803,135,463,176,52,34,73,322,402,366,202,396,116,829,207,1033,839,337,1830,33,649,2040,1161,1877,410
 Ecofin Agency Chad	5407
 Ecofin Agency Tanzania’s State Telecom Targets	6083
 Ecofin Agency URL	13862,33
@@ -1323,6 +1325,7 @@ Federal Republic of Somalia Implementing Agency	14976
 Federal and State Ministries and Agencies	11860
 Ferroviaires Agence Nationale	19251
 Fiduciary Agency for Project Administration	18754,71
+Finance. Implementing Agency	20002
 Finances Implementing Agencies Ministère	16675
 Financial Intelligence Agency	700,4544,1694,3642,1689,4768,101,45,2481
 Financial Intelligence Agency FSDS	19664
@@ -1430,6 +1433,7 @@ Guarantee Agency MLGRD Ministry of Local Government	18504
 Guarantee Agency MPTIC Ministry of Post and ICT	18887
 Guarantee Agency PCM Ministry of Digitalization and Digital	16144
 Guarantee Agency's Support for Private Investment	11310
+Guinea Agency for Environmental Assessment	20002
 Génération ARCT Agence de Régulation	13341
 HCR Agence des Nations Unies	17907
 HEALTH CARE AGENCY	19059
@@ -1474,6 +1478,7 @@ IPA Investment Promotion Agency LNG Liquefied	16996
 ISR01192 Implementing Agencies	11395
 ISR01781 Implementing Agencies	18792
 ISR02700 Implementing Agencies	19249
+ISR03097 Implementing Agencies	20001
 ISR03111 Implementing Agencies	17904
 ISR03186 Implementing Agencies	13859
 ISR03249 Implementing Agencies	15735
@@ -1488,6 +1493,7 @@ ISR08373 Implementing Agencies	7877
 ISR32974 Implementing Agencies	13970
 ITC Agencies	17099
 ITC Agency	16885
+IVA Independent Verification Agency LAYS Learning-Adjusted	19988
 Identification Agency OLA Operational Level Agreement	12359
 Identity Management Agency and Services	12337
 Immigration Agency Postpones National ID Requirement	15060
@@ -1500,7 +1506,7 @@ Implementing Agencies The Kenya Social and Economic	14487
 Implementing Agencies and Development Partners	12942
 Implementing Agencies and Specialized Institutions	1814
 Implementing Agencies and Target Sectors	19807
-Implementing Agency	761,467,56,970,1350,5829,1531,596,660,168,24,14,243,662,607,999,74,8,534,105,44,80,362,752,26,1452,63,1082,222,106
+Implementing Agency	761,467,56,970,1350,5829,1531,596,660,168,24,14,243,662,607,999,74,8,534,105,44,80,362,752,26,1452,63,1082,222,106,143
 Implementing Agency Benin	16436
 Implementing Agency Central African Republic	15731
 Implementing Agency EPTC	13017
@@ -1544,7 +1550,7 @@ Independent Counter-Verification Agency	19284
 Independent Counter-Verification Disbursement Agency	19284
 Independent Departments and Government Agencies. Volume III	19602
 Independent Government Institute Implementing Agency Country	4653
-Independent Verification Agency	6539,4290,2563,2301,945
+Independent Verification Agency	6539,4290,2563,2301,945,3350
 Independent Verification Agency KPI Key Performance	17458
 India the Community Design Agency	10846
 Indonesia and Malaysia. The Agency	12982
@@ -1608,7 +1614,7 @@ International Development Agency Credits and Grants	17180
 International Development Agency GoE Government of Egypt	15473
 International Development Cooperation Agency	11004,960
 International Development Partners and Agencies	17149
-International Energy Agency	6935,613,183,58,1846,1334,171,170,262,312,11,264,33,13,60,111,2297,901,1368,2923
+International Energy Agency	6935,613,183,58,1846,1334,171,170,262,312,11,264,33,13,60,111,2297,901,1368,2923,130
 International Energy Agency IFMIS Integrated Financial	16942
 International Renewable Energy Agency	11140,432,642,47,2578,735,1368,3001
 International Renewable Energy Agency LDC	11572
@@ -1626,6 +1632,7 @@ Ivoire’s National Agency for Information System Security	8073
 Ivoire’s Space Agency	12870
 Ivorian Agency for Radio Frequency Management	3604
 Ivorian Press Agency	7344
+JAPAN INTERNATIONAL COOPERATION AGENCY LS LIAISON	19986
 JICA Agence de Coopération	17843
 JICA Japan International Cooperation Agency	19847
 JICA Japan International Cooperation Agency Education	15604
@@ -1821,6 +1828,7 @@ Ministry of Agriculture and Livestock. The Agency	17157
 Ministry of Economy and Finance Implementing Agency	18198
 Ministry of Economy and Finance. Implementing Agencies	12137
 Ministry of Economy and Finance. Implementing Agency	12137
+Ministry of Economy and Finance. Responsible Agency	19990
 Ministry of Family and Social Inclusion Implementing Agency	11855
 Ministry of Finance Implementing Agencies Ministry	18456
 Ministry of Finance and Development Planning Agency	17011
@@ -1851,6 +1859,7 @@ Morocco’s National Telecommunications Regulatory Agency	9868
 Moyennes Entreprises ANA Agence Nationale de Promotion	18286
 Moyennes Entreprises ART Agence	15501
 Mozambique’s Agency for Investment and Export Promotion	8246
+Multilateral Agency	19990
 Multilateral Investment Guarantee Agency	88,199,417,1,209,1,1,1,1,1,1,1,1,1,212,406,1,1,682,1,1378,4874,2174,653,5,935,723,2691,67,149,568,529,1565,418,469,64,1
 Multilateral Investment Guarantee Agency. Task	14627
 Multisector Regulatory Agency	11873
@@ -1905,6 +1914,7 @@ National AI Agency Addressing	10152
 National AIDS and Health Promotion Agency	12606
 National Agency	1927,949,96,69,1814,724,568,304,5694,1691,1011,666,40,68,523,955,750,921,7,19,189
 National Agency Against Trafficking	16874
+National Agency Establishes	20004
 National Agency for ANSICE Computer Security and Electronic	18931
 National Agency for Agricultural and Rural Advisory AWS	18309
 National Agency for Civil Aviation and Meteorology	13729,23,61,4496,83
@@ -1947,6 +1957,7 @@ National Agency for Rural Electrification ANER	15659
 National Agency for Secure Documents	2823,2575
 National Agency for Secure Titles	2972
 National Agency for Spatial Planning ANSD	18309
+National Agency for State Digitalisation	20004
 National Agency for State Digitalization	6228,10451
 National Agency for State Information System	13861,5986
 National Agency for State Information Systems	19839
@@ -2229,6 +2240,7 @@ Real Time Gross Settlement Agency	14897
 Recognition of Nodal Agency	12917
 Recommendation Government Agency Status Remarks	14750
 Recommendation Government Agency Status Remarks Openness	14750
+References Agence	19984
 Reforming Financial Systems for Global Agency	10718
 Refugee Agency and Migration Commission of Liberia	17350
 Regarding African Agency	5242
@@ -2268,6 +2280,7 @@ Republic of Congo Responsible Agency	15372
 Republic of Djibouti. Implementing Agency	19835
 Republic of Djibouti. Responsible Agency	13897
 Republic of Ghana. Implementing Agency	15704
+Republic of Guinea Implementing Agency	19988
 Republic of Guinea-Bissau Implementing Agency	11525
 Republic of Madagascar Implementing Agencies	14553
 Republic of Madagascar Implementing Agencies Ministry	14576
@@ -2302,7 +2315,8 @@ Road Transport Safety Agency	13479
 Road Transport and Safety Agency	10347,3040,16
 Roads Agency SARS South Africa Revenue	11261
 Roles of Implementing Agency The Ministry of Home	1988
-Rural Electrification Agency	1988,5759,104,405,161,1740,3294,163,2088,952,1883,1109
+Rural Electrification Agency	1988,5759,104,405,161,1740,3294,163,2088,952,1883,1109,356
+Rural Electrification Agency AGER	20002
 Rural Electrification Agency of Congo	15659
 Rural Electrification Development Agency	14603
 Rural Energy Agency	19519,83
@@ -2431,7 +2445,7 @@ Somali National Meteorological Agency	15037
 Somali National News Agency	2719
 Somali National News Agency Mogadishu	15070
 Somali National News Agency URL	15070
-Somalia Disaster Management Agency	15093
+Somalia Disaster Management Agency	15093,4943
 Somalia Peer Review Report Reviewing Agency	14949
 Sources Agency	7548
 South Africa US Trade and Development Agency	219,187,325,1,441

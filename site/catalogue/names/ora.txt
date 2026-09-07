@@ -6,7 +6,7 @@ About Orange Tunisia Orange Tunisia	1213
 Across SSA Orange	1142
 Actu Orange	13483
 Actualité Beaugas Orain DJOYUM	3658,2617,145
-Additional Sources Consulted Oral	19636,218,67
+Additional Sources Consulted Oral	19636,218,67,63
 AfriMoney and Orange Money	7934
 Africa. Orange	1729
 Africa. Orange Group	5073,9615
@@ -178,6 +178,7 @@ MTN and Orange Money	4261
 MTN and Orange. Orange Liberia	7616
 MW Orapa	19663,14
 Mali. Orange Mali	2214
+Mamadama Sylla Orange Finances Mobiles Guinée	20005
 Mame Mor DIOUM OPERATEURS ORANGE	18418
 Marketing de Orange Money	2983
 Maroc Telecom and Orange	8828
@@ -218,7 +219,7 @@ ORACLE Application Software Security Directives	15161
 ORAL ANSWERS TO QUESTION CASCAVELLE	14753
 ORAN Development Company	4511,1110
 ORANA	18295,3,10,122,1
-ORANGE	10996,578,3968,398,274,51,449,1391,313
+ORANGE	10996,578,3968,398,274,51,449,1391,313,1568
 ORANGE Au	18418
 ORANGE BANK AFRICA CREDIT DU SENEGAL	18017
 ORANGE BOTSWANA The Botswana Communications Regulatory	19671
@@ -319,7 +320,7 @@ Oran-Est	15863
 Oran-Valence	16064
 Orana. L’ambition	5506
 Oranefo	9129
-Orange	173,338,2,199,220,1,4,204,2,500,85,1,89,131,42,287,12,105,53,6,7,118,29,11,9,49,18,35,144,49,15,30,183,389,128,191,17,99,55,25,66,19,10,18,14,7,6,12,26,17,209,87,3,101,26,31,14,67,27,81,35,43,31,17,11,36,140,43,315,23,24,61,481,29,56,67,22,15,126,32,53,37,36,85,41,18,78,43,294,26,203,217,143,30,35,51,106,64,60,1,1,6,299,398,208,85,502,48,52,33,67,45,52,13,66,168,111,33,46,21,69,213,159,42,104,109,458,14,28,68,9,267,42,34,375,232,1586,18,3,42,141,158,89,691,2,2,5,133,3,6,62,322,304,44,276,4,53,81,1,14,100,68,63,4,58,8,30,71,56,58,56,162,92,400,3,162,311,44,57,41,19,9,9,49,183,133,334,12,244,57,20,97,20,20
+Orange	173,338,2,199,220,1,4,204,2,500,85,1,89,131,42,287,12,105,53,6,7,118,29,11,9,49,18,35,144,49,15,30,183,389,128,191,17,99,55,25,66,19,10,18,14,7,6,12,26,17,209,87,3,101,26,31,14,67,27,81,35,43,31,17,11,36,140,43,315,23,24,61,481,29,56,67,22,15,126,32,53,37,36,85,41,18,78,43,294,26,203,217,143,30,35,51,106,64,60,1,1,6,299,398,208,85,502,48,52,33,67,45,52,13,66,168,111,33,46,21,69,213,159,42,104,109,458,14,28,68,9,267,42,34,375,232,1586,18,3,42,141,158,89,691,2,2,5,133,3,6,62,322,304,44,276,4,53,81,1,14,100,68,63,4,58,8,30,71,56,58,56,162,92,400,3,162,311,44,57,41,19,9,9,49,183,133,334,12,244,57,20,97,20,20,314,3
 Orange Africa and Middle East and Eutelsat	4721
 Orange Afrique	7417
 Orange Alert	17157
@@ -410,7 +411,7 @@ Orange Finance Mobile	7730
 Orange Finance Mobile Guinée	7730
 Orange Finances Mobiles	5324,2000
 Orange Finances Mobiles Guinee SA	1541,1
-Orange Finances Mobiles Guinée	5387
+Orange Finances Mobiles Guinée	5387,14618
 Orange Finances Mobiles Mali	5324
 Orange Foundation	16010,2518
 Orange France	173,15369
@@ -470,6 +471,7 @@ Orange Maroc Live Intelligence	6593
 Orange Maroc and Ericsson	5749,23
 Orange Maroc and Inwi	3904
 Orange Max	18513
+Orange Microfinances Guinée	20008
 Orange Middle East	287,18210
 Orange Middle East and Africa	1543,671,394,1379
 Orange Middle East and Africa CEO	2278
@@ -477,7 +479,7 @@ Orange Middle East and Africa CEO Jérôme	1729
 Orange Mobile	4695
 Orange Mobile Money	11651
 Orange Moldova	15471
-Orange Money	1142,1072,98,210,435,26,27,250,390,500,111,24,388,22,629,63,180,10,37,52,129,114,76,909,212,124,39,55,406,47,346,59,295,847,987,33,1307,299,10,34,1458,1025,200,797,6,62,394,552,4,507,544,327,36,172,1613
+Orange Money	1142,1072,98,210,435,26,27,250,390,500,111,24,388,22,629,63,180,10,37,52,129,114,76,909,212,124,39,55,406,47,346,59,295,847,987,33,1307,299,10,34,1458,1025,200,797,6,62,394,552,4,507,544,327,36,172,1613,314
 Orange Money Bangui	16488
 Orange Money Botswana	19650
 Orange Money Burkina Faso	2522,461
@@ -492,6 +494,7 @@ Orange Money Enhances Services	2522
 Orange Money Europe	12074
 Orange Money Europe. Elle	12074
 Orange Money Group	1142
+Orange Money Guinée	20005
 Orange Money Launches Mastercard	5614
 Orange Money Liberia	9036,8083
 Orange Money Mali and Orabank Mali	3010
@@ -515,6 +518,7 @@ Orange Money. Nous	2983
 Orange Money. Pour	2983
 Orange Money. Selon	16492,23
 Orange Money. Tel	15474
+Orange Money. Une	20005
 Orange Morocco	2673,3836
 Orange Niger SA	18105
 Orange Orange AMS-IX Orange Bluesun DC	10861
@@ -532,7 +536,7 @@ Orange SIM	9861,7290
 Orange SL	18513
 Orange Sat	4691,16,14,1215,409,365,799
 Orange Senegal	518,10343,4610,2257
-Orange Sierra Leone	705,3409,26,49,3588,1300,19,1215,269,1071,6836,24,2,14,56
+Orange Sierra Leone	705,3409,26,49,3588,1300,19,1215,269,1071,6836,24,2,14,56,1447,3
 Orange Sierra Leone Board	18527
 Orange Sierra Leone CEO	4189,14338
 Orange Sierra Leone Data Centre	4114,14413
@@ -544,6 +548,7 @@ Orange Sierra Leone Opens New Datacenter	4140
 Orange Sierra Leone Replaces Popular	18513
 Orange Sierra Leone and Africell Sierra Leone	18522
 Orange Sierra Leone and Orange Money SL	10580
+Orange Sierra Leone's EUR	20033
 Orange Sierra Leone. Reduces	705
 Orange Sierra Leone’s Board	4114
 Orange Sierra Leone’s Chief Executive Officer	4114,14408

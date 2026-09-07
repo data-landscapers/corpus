@@ -28,6 +28,7 @@ DCCF RELATIF AUX DÉPÔTS DES DOSSIERS	9976
 DENOMINATION COMMUNE INTERNATIONALE FORME DOSAGE CRITERES	15930
 DES OPERATEURS AYANT DEPOSE UN DOSSIER	15670
 DMI Dossier Médical Informatisé DODS Direction	13306
+DMP DOSSIER MEDICAL PERSONNEL DRHS DIRECTION	19986
 DOS-REIS Y. Adekoule	19251
 DOSAGE CRITERES DE DISPENSATION	15930
 DOSAGE CRITERES DE DISPENSATION CODE DCI	15930
@@ -81,14 +82,14 @@ Dossier ASHFAR Il	15670
 Dossier ASHFAR POWER SARL	15670
 Dossier Administratif	15614
 Dossier Electronique	18105
-Dossier Electronique du Patient	18105
+Dossier Electronique du Patient	18105,1881
 Dossier Enquête Interview Reportage Archives AFRIQUE	9620
 Dossier Fiscal	15614
 Dossier Médical	15936,259,2920
 Dossier Médical Electronique	16195
 Dossier Médical Electronique Implémentation	16195
 Dossier Médical Informatisé	19407,96
-Dossier Médical Personnel	18105
+Dossier Médical Personnel	18105,1881
 Dossier N	14488,1,1
 Dossier Patient	15936,2361
 Dossier Patient Informatisé	15936,370,135,1878
@@ -171,6 +172,7 @@ RH Dossiers	14537
 Representative Dossou Vincent Sodjinou	6206
 RÉSULTAT Dossiers	8637
 République du Congo. Dr Vincent Dossou SODJINOU	15724
+SANITAIRE UNIVERSELLE DEP DOSSIER ELECTRONIQUE PERSONNEL	19986
 Saisines Enregistrées Dossiers	10975
 Selon Francisca Dossou Adikpéto	2412
 Sonté Gaston Cassi DOSSOUHOUI	15438

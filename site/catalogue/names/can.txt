@@ -368,7 +368,7 @@ Canary Islands	789,65,2928,2387,333
 Canaux	737,10228,4943,3313,159
 Canaux Exemples	19221
 Canberra	9645,1511
-Cancel	3583,7434,259,201,8452
+Cancel	3583,7434,259,201,8452,61
 Cancel Designed	19940
 Cancel National Assembly About Members Assembly	17388
 Cancel Online Purchases	12389
@@ -381,7 +381,7 @@ Cancelado	17219
 Cancelamento	11452,130,729,3081
 Cancelar	11587,5447,244,47,35,1,51
 Canceled	17180
-Cancellation	2473,239,15,987,974,1891,349,949,2993,525,529,47,257,5,34,97,25,11,40,184,5,19,3,278,30,99,229,111,344,226,447,301,11,158,63,211,39,286,8,210,2,27,4,2,168,108,66,140,486,289,6,79,17,12,362,35,399,54,4,44,127,217,4,1,82,22,75,7,14,237,25,8,160,257,7,232,43,3,100,3,321
+Cancellation	2473,239,15,987,974,1891,349,949,2993,525,529,47,257,5,34,97,25,11,40,184,5,19,3,278,30,99,229,111,344,226,447,301,11,158,63,211,39,286,8,210,2,27,4,2,168,108,66,140,486,289,6,79,17,12,362,35,399,54,4,44,127,217,4,1,82,22,75,7,14,237,25,8,160,257,7,232,43,3,100,3,321,37,2,11
 Cancellation ICR	16436
 Cancellation of Data Protection License	13381
 Cancellation of Licence	17249,1353
@@ -390,10 +390,10 @@ Cancellation of Lost	13398
 Cancellation of Queued Payment Instructions Payment	12364
 Cancellation of Registration	12185,1783,4626
 Cancellation of TIN Division III	12629
-Cancellations	19284
+Cancellations	19284,706
 Cancellations Financial Management Reliance	4653
 Cancellations Proposed	1228,56,15612,26
-Cancelled	6579,4796,1683,1074,1027,322,256,21,2375,1348
+Cancelled	6579,4796,1683,1074,1027,322,256,21,2375,1348,507,13
 Cancelled Activity	15969
 Cancelled Subcomponent	15969
 Cancer	6379,5772,1149,1421,27,937,26,1181,1735,917
@@ -603,6 +603,7 @@ DES DÉLÉGUÉS DES CANDIDATS ET PARTIS	18101
 DEVELOPING HUMAN RESOURCE THAT CAN LEAD	14004
 DNCMP Candidats	10876
 DU CONTENTIEUX DE LA CANDIDATURE Article	15727
+Date of Cancellation	19990
 Democratic Republic of Congo Global Affairs Canada	61
 Denmark and Canada	2948
 Deputy High Commission of Canada	10120
@@ -685,6 +686,7 @@ GHANA TYPE CANOE PERIOD FEES ROYALTIES	18450
 GLOBAL INFRASTRUCTURE FACILITY Canada Clean Energy	15983
 GOUT OU CANIVEAU	13300
 GVA Canal	2263
+General Conditions Cancellation	19990
 Germany and Canada	9857
 Ghana Card CAN	17537
 Global Affairs Canada	64,136,453,8021,186,183,160,9,63,44,801,2018,189,5444
@@ -739,7 +741,7 @@ INFRAÇÕES RELATIVAS A APRESENTAÇÃO DE CANDIDATURAS	11528
 INSPECCION GRAL. MINAS Y CANTERAS	4209
 Ilala Cannabis Temeke Resin Kinondoni Morphine	19517
 Imagery for CANN Field High	17140
-Immigration and Refugee Board of Canada	11864,4,7986,67
+Immigration and Refugee Board of Canada	11864,4,7986,67,63
 Immigration and Refugee Board of Canada. Document	19636
 Inclusive and Trusted Digital ID Can Unlock	10819
 Independent Candidate and Electoral Stakeholders	13381
@@ -777,7 +779,7 @@ Liberia Cannot Build Digital Sovereignty	6194
 Liberia. What Citizens Can	17142
 Linkedin Mail Report The Cost of Candidacy	10315
 Liver Cancer	15713
-Loan Cancellations	11965
+Loan Cancellations	11965,8023
 Loan Cancellations No Components Yes Procurement	19284
 Loan Cancellations No Development Objective	15969,2390
 Loan Cancellations No Legal Operational	16187
@@ -850,6 +852,7 @@ OSGF’s Email Address Can’t Receive Messages	10034,231
 Objection. The Candidate RIR	3503
 Ocean Road Cancer Institute	19584
 Ocean Road Cancer Institute. Table	19544
+Oct-2024 Cancellations	19990
 Online Candidate Registration System	13477
 Only One Cable-laying Ship Can Fix	2677
 OpenAI's ChatGPT. In Canada	12210
@@ -909,6 +912,7 @@ REPRODUCTIVE HEALTH FOR CANCER	19544
 RHCA Reproductive Health for Cancer CECAP Cervical	19544
 Race Canine	16103
 Rate Demand Notice. Can	18448
+Reason for Cancellation	19990
 Reclamações Canais de Informação	18789
 Recognize the Candidate RIR	3503
 Recognizing the Candidate RIR	3503
@@ -1040,4 +1044,5 @@ XDR Cancellations	4653,11534
 XIV. DOCUMENTS DE CANDIDATURE	13635
 Xafiiska Canshuuraha	14906,141,105,1
 Years Screened For Cervical Cancer	19544
+Yes. Loan Cancellations	19990
 Zimbabwe and Canada	16792

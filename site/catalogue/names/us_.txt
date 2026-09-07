@@ -188,6 +188,7 @@ EBRD's US	11735
 EIB US	543
 EIB's US	16655
 ELFI’s US	12339
+EMIS and US	20041
 EQUIVALENT TO US	18851
 EU and US	10088,1013
 EUR US	970,15062
@@ -450,6 +451,7 @@ PFIs for US	12195
 PGII US	11310
 PM Follow Us	12211
 PNC The US Department of State's Reciprocity	11868
+POPULATION ACTIVITY US UNITED STATES	19986
 PP US	19455
 PPA of US	1264
 PPP US	13433,2711,2743
@@ -546,6 +548,8 @@ Starlink’s US	6099
 Sub-component US	15659
 Swvl’s US	4972
 System African US	11916
+TF-C9236 US	20027
+TF-C9269 US	20027
 TIC TI T.V. UIT US VOIP	13290
 TRENTE MILLE US DOLLARS	14498
 TSO Transmission and System Operation US	15969
@@ -565,6 +569,7 @@ Türkiye US	8905
 UK US	970
 ULCV UM UNICA Uni-CV UNIPIAGET US	16166
 UN CERF. US	17985
+UNHCR and Japan US	20038
 UNICEF US	15661
 UPS Uninterruptible Power Supply US	10765,10
 US AI	6477,402,1468,1691,489,32,595,6626
@@ -627,7 +632,7 @@ US Department of Defence	9015
 US Department of Justice. Upon	9188
 US Department of State	721,1563,1928,10,44,62,30,889,4152,7543,2884,95
 US Department of State YouTube	4426
-US Department of State's Country Reports	19854
+US Department of State's Country Reports	19854,130
 US Department of State's Reciprocity Schedule	11864,8057
 US Department of State's Reciprocity Schedule for Eritrea	19921
 US Department of State. Reminder	12188
@@ -839,7 +844,7 @@ Won't Let Us Leave'. Liminality	12227
 Won't Let Us Stay	12227
 World Bank Financing US	15990
 World Bank System Capacity UNESCO US	11916
-World Bank US	4522
+World Bank US	4522,15501
 World Bank and US	4522
 World Bank's US	2251,6450,2284
 World Bank-financed US	11545

@@ -1070,7 +1070,7 @@ Metropolitan Terrestrial Fiber Cable Networks	18485
 Mid Term	11133
 Mid Term Expenditure Framework	13332
 Mid Term Population and Housing Census	18464,11
-Mid Term Review	4653,9304,4336,241
+Mid Term Review	4653,9304,4336,241,1456
 Mid-Term and Terminal Evaluations	15845
 Min of Tertiary	16858
 Mines. La Direction du Portefeuille des Secteurs Tertiaire	2342
@@ -1095,8 +1095,9 @@ Ministry of Higher and Tertiary Education	413,107,634,1625,10516,15,361
 Ministry of Higher and Tertiary Education Innovation Science	4528
 Ministry of Higher and Tertiary Education. All	13310
 Ministry of Planning and Territorial Development	10765,10
+Ministry of Territorial	20004
 Ministry of Territorial Administratio	15553
-Ministry of Territorial Administration	2461,8302,2,3,7,53,136,4589
+Ministry of Territorial Administration	2461,8302,2,3,7,53,136,4589,4451
 Ministry of Territorial Administration DGDEN System	15553
 Ministry of Territorial Administration and Decentralisation	1235,2411
 Ministry of Territorial Administration and Decentralization	10812,7058,1063
@@ -1153,6 +1154,7 @@ Mozambique. TerraPay	1415
 Mr. Gilead J. Teri	19532
 Ms. Teresa Alexandrina da Silva	11579
 Multinational Enterprises Medium Term Revenue Strategy	14932
+Multiphase Programmatic Approach MTR Mid Term	19990
 Módulo de Informação Territorial	9403
 NAF Airstrikes Cripple Terrorist Camp	4738
 NASA's Terra and Aqua	13094
@@ -1307,6 +1309,7 @@ Procurement STEP Terms of Reference TOR United	11417
 Procurement Sub-Saharan Africa Technical Assistance Terms	15553
 Procurement TA Technical Assistance TOR Terms	1264,5275
 Procurement TA Technical Assistance TORs Terms	15518
+Procurement TA Technical Assistance ToR Terms	19988
 Procurement Terms of Reference Treasury Single Account	15658
 Productivity Investment Term	16942
 Professor Pat Terry	1036
@@ -1863,6 +1866,7 @@ Terminologies and Acronyms AfCFTA	14819
 Terminology	5246,432,745,243,281,4322,5631,3033
 Terminology Data Digital Health Applications	396
 Terminology Eritrea	19933
+Terminology Number	20004
 Terminology Repository	21
 Terminology Services	19644
 Terminology Updated	6423
@@ -1915,7 +1919,7 @@ Terms of National Committee	16863
 Terms of Office	14736
 Terms of Payment	13185
 Terms of Payment. Bidders	14766,314
-Terms of Reference	170,792,299,3,107,723,18,8,869,350,476,288,550,1140,1153,1600,40,1017,1,8,116,332,19,33,307,301,56,94,137,262,481,51,24,30,2,49,100,39,563,65,1,19,13,42,9,77,86,57,33,7,14,6,355,69,114,1,32,314,75,134,109,193,312,74,108,7,38,108,10,30,23,40,40,581,165,524,107,233,116,14,65,40,31,15,2,141,137,64,1037,82,88,421,4,494,76,147,28
+Terms of Reference	170,792,299,3,107,723,18,8,869,350,476,288,550,1140,1153,1600,40,1017,1,8,116,332,19,33,307,301,56,94,137,262,481,51,24,30,2,49,100,39,563,65,1,19,13,42,9,77,86,57,33,7,14,6,355,69,114,1,32,314,75,134,109,193,312,74,108,7,38,108,10,30,23,40,40,581,165,524,107,233,116,14,65,40,31,15,2,141,137,64,1037,82,88,421,4,494,76,147,28,155
 Terms of Reference Annex	13031
 Terms of Reference Annex B	13037
 Terms of Reference Feasibility Study for Hydrogen Power	14947
@@ -2148,7 +2152,7 @@ Tertiaire Construction Industrie	10875
 Tertiaire Industrie	10875
 Tertiar	15845
 Tertiar Tertiar Tertiar	15845
-Tertiary	1261,3267,2220,1121,2906,37,157,11,149,728,22,5,1,10,264,1,44,1,146,4,12,16,77,27,25,391,407,4,677,732,92,17,4,43,17,1,1975,12,986,100,508,5,762,297,93,22,205,3,87
+Tertiary	1261,3267,2220,1121,2906,37,157,11,149,728,22,5,1,10,264,1,44,1,146,4,12,16,77,27,25,391,407,4,677,732,92,17,4,43,17,1,1975,12,986,100,508,5,762,297,93,22,205,3,87,43
 Tertiary Education	4126,402,6606,745,633,463,335,1432,33,37,7,10,7,960
 Tertiary Education Commission-TEC	14836
 Tertiary Education Entities	18461
@@ -2244,6 +2248,7 @@ VIII. Payment Terms UNFPA	17068
 VOIP Terminal	6946
 VOTE MEDIUM TERM PLANS Planned Outputs	19744
 VSAT Terminal USD	17250
+VSAT VERY SMALL APERTURE TERMINAL VPN	19986
 Very Small Aperture Terminal	736,26,5280,184,256,3925,6465
 Very Small Aperture Terminal MINISTRY HEADQUARTERS	14879
 Very Small Aperture Terminal Operators VSAT	18485

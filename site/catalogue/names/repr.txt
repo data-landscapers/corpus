@@ -186,7 +186,7 @@ Electricité Représentant	10975
 Employee Representative Committee	18979
 Employer’s Representative	11134
 Equal Political Power Equal Political Representation	10837,1315,188,7598
-Equal Political Representation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Equal Political Representation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Equal Political Representation Equal Civil Liberties	19822
 Eritrea's Permanent Representative	14030
 Estado. REPROVADO	10766
@@ -580,7 +580,7 @@ Representation and Hearing	3005
 Representation of International Development	11857
 Representation of Religious Organizations	11129
 Representation of Stakeholder Participation	17157
-Representation of Women	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Representation of Women	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Representation of Women Rights	10759,78,1315,188,7598
 Representational State Transfer	12419,4505
 Representations	4049,198,55,594,5817,4004,36,2079,7,410,1634
@@ -778,7 +778,7 @@ Représentant Pays de IDLO	18224
 Représentant Permanent	16323
 Représentant Permanent Adjoint	16323
 Représentant Permanent du Gabon	15371
-Représentant Résident	16545,2360,322,94
+Représentant Résident	16545,2360,322,94,665
 Représentant Résident Débriefing	16012
 Représentant Résident du FMI	7374
 Représentant Résident du Groupe	18905
@@ -869,7 +869,7 @@ Resident Representative of UNDP Liberia	17173
 Rising Repression Meets Global Resistance	5236
 Rising Repression Meets Global Resistance Internet	5236
 Rumphi. Reproductive Health Focal Persons	3791
-Rural Representation	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Rural Representation	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 République du Bénin Représenté	15399
 SAMCO South Africa Representation	13769
 SANTÉ DE LA REPRODUCTION	16722

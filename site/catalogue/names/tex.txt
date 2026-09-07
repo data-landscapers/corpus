@@ -42,7 +42,7 @@ Cost of Transmission Delays Text Figure	13624
 Countries Missing Primary Text Algeria	7707
 Country Text	11180
 Crossroads Textbooks Archived Documents	11241
-Curriculum and Textbooks	18765
+Curriculum and Textbooks	18765,1223
 Curriculum and Textbooks FY17	16436
 DJIBOUTI Text Table	13868
 DSA Text Table	17257
@@ -233,6 +233,7 @@ Text for Adherence	12143
 Text-and-Data Mining	7548
 Text-free	11801
 Text-to-Speech	8876
+Text. Total Allocated	19988
 Textbook	12411,3250,2297
 Textbook Ratio	18460
 Textbook Ratio SQARM School Quality Assurance	18460

@@ -166,6 +166,7 @@ CONSTRUCTION DE GRAPPES	18103
 CONSUMPTION OF GRAINS	17127
 COVID-19 Accelerated Grant	12175
 COVID-19 Education Sector Development Grant	14000
+CP First Grade Level	19988
 CRP.5 Graph	3583
 CSA I. Grace Oletu	6936
 CULTO GRAL. DE NOTARIA BIOKO SUR	4209
@@ -300,7 +301,7 @@ Delivery of Grades	13392
 Demand for Digital Skills of Graduates	16876
 Denísia Almeida da Graça. Associação Chã de Matias	15694
 Description Effectiveness Trust Funds The Grant	13332
-Description Grant	464,213,1
+Description Grant	464,213,1,19338,28
 Development Budget. Grants	13122
 Development Goals Science Granting Councils Initiative	1154
 Development Grants	19096,489
@@ -358,6 +359,7 @@ Déus Gracias Tchémanguéré	2739,580,7558,5706
 E Ressources Site Gravillon Carrière Ambatomaro	14489,1
 E- Grand	582
 E. Grant Projects Performance The Response	12977
+ECOWAS Commission Grant Number D321-3W	19990
 EGERTON UNIVERSITY GRADE I-IV STAFF RETIREMENT	7167
 EGLISE LA GRANDE MISSION DE JESUS-CHRIST	15465,991
 EGMA Early Grade Mathematics Assessment EGP	15604
@@ -375,9 +377,10 @@ EST UNE PROCEDURE GRATUITE	15970
 ESWATINI SECURES E16.3 MILLION GPE GRANT	13204
 ET DES GRANDES ENQUÊTES RÉALISÉES PAR	14495
 Early Grade Mathematics Assessment	13310,2294,4231
+Early Grade Mathematics Assessment EGRA Early	19988
 Early Grade Mathematics Assessment Early Grade	16436
 Early Grade Reading	16436,3256
-Early Grade Reading Assessment	15604,583,249,2329
+Early Grade Reading Assessment	15604,583,249,2329,1223
 Early Grade Reading Assessments	13310
 Early Grade Reading Assessments EMIS Education	13310
 Economic Inclusion Grants	18584
@@ -501,11 +504,14 @@ GILL GRAY PHILANTHROPY RWANDA Data Controller	7167
 GLICE- BURUNDI. Graphique	13324
 GLOBAL INFRASTRUCTURE FACILITY GRANT	18777
 GMO Genetically Modified Organisms GRACE Gravity	17157
+GN and Grant Number D326-GN	19990
+GN and Grant Number D326-GN Revised Withdrawal	19990
 GPE Grant Agreement	15661,4174
 GPE Grant TF16391	18765
 GPE Multiplier Grant	12175
 GPE System Capacity Grant	14000
 GPE System Transformation Grant	14000
+GPE System Transformation Grant and System Capacity	20022
 GRA Act	16968
 GRA COMMISSIONER GENERAL LEADS DELEGATION	17201
 GRA Commissioner General Yankuba Darboe	7512,181,666,4683
@@ -751,12 +757,14 @@ Grade Echelon Durée la Cour	15901
 Grade Enrolment Pyramid	18460
 Grade F	13122
 Grade I... ByStanley Khumalo15	3331,91,225,6,324,50,31,115,12,487,194,149,2015,234
+Grade Levels	19988
 Grade M	13385
 Grade Neutral Data Centre	19532
 Grade Nine Examination	13477
 Grade Number	14742
 Grade One Magistrate Geoffrey Akena	4235
 Grade Online Examination	13991
+Grade Reading Assessment EHCVM Standards Measurement	19988
 Grade Six	6946,6693
 Grade T	13385
 Grade Zero	13016
@@ -824,7 +832,7 @@ Graduated Honours Students	12926
 Graduated Licensing System	14748
 Graduated Masters Students	12926
 Graduated Pipettes This International Standard	16900
-Graduates	1704,1008,1816,2011,40,2871,1186,210,123,915,1,10,76,188,1,45,146,4,132,25,846,458,304,446,433,196,358,51,540,1029,2689,3,87
+Graduates	1704,1008,1816,2011,40,2871,1186,210,123,915,1,10,76,188,1,45,146,4,132,25,846,458,304,446,433,196,358,51,540,1029,2689,3,87,43
 Graduates of ESATIC	3604
 Graduating Class	17347
 Graduation	13395,1547,196,1835
@@ -963,6 +971,7 @@ Grand Inga	11149,4521,205
 Grand Innovator	6871
 Grand Jury	2932
 Grand Kasaï	17638
+Grand Kinkon	20002
 Grand Kru	16853,68,14,8,7,10,10,1,72,71,117,8
 Grand Kru County	16921,26,24
 Grand Kru Sinoe River Gee Maryland	16921
@@ -1144,11 +1153,11 @@ Granja de Pessubé	17164
 Granjas	1701
 Grannis	8606
 Grannisetal	8606
-Grant	18,85,475,9,176,9,209,11,94,1,36,7,134,309,326,89,230,13,76,167,253,704,456,277,307,5,18,6,23,397,79,156,190,65,70,140,1134,794,41,847,126,76,28,333,73,247,247,173,190,1099,166,21,16,21,37,112,16,440,6,53,457,59,348,143,39,390,6,175,33,302,57,13,86,56,656,174,73,207,182,39,49,40,163,238,352,19,3,160,228,64,112,121,18,127,312,322,277,472,53,36,32,278,173,154,371,17,41,158,34,12,104
+Grant	18,85,475,9,176,9,209,11,94,1,36,7,134,309,326,89,230,13,76,167,253,704,456,277,307,5,18,6,23,397,79,156,190,65,70,140,1134,794,41,847,126,76,28,333,73,247,247,173,190,1099,166,21,16,21,37,112,16,440,6,53,457,59,348,143,39,390,6,175,33,302,57,13,86,56,656,174,73,207,182,39,49,40,163,238,352,19,3,160,228,64,112,121,18,127,312,322,277,472,53,36,32,278,173,154,371,17,41,158,34,12,104,39,32
 Grant A. General Without	16936
 Grant Account	1867
 Grant Administrator	12195
-Grant Agent	12175,1825,4765
+Grant Agent	12175,1825,4765,1257
 Grant Agent GDP	12175
 Grant Agents. Malawi	12175
 Grant Agreement	1284,583,607,10488,369,1,1214,342,870,143,1021,927
@@ -1161,7 +1170,7 @@ Grant Agreement No. KEN-T-TNT-4148	14546
 Grant Agreement No.96262	15901
 Grant Agreement. Flow of Funds and Disbursement Arrangements	3604
 Grant Agreementon	16922
-Grant Allocated	15658,1278
+Grant Allocated	15658,1278,3054
 Grant Allocation	18467
 Grant Amount Guarantee Amount Credit	10964
 Grant Approval Approved PAR AfDB Q4	13938
@@ -1195,7 +1204,10 @@ Grant No. FY24-G003-G005	19974
 Grant No. IDA-D6620	15693
 Grant No. IDA-E2020-001	7951
 Grant Number	8460,4557
+Grant Number D484-GN ON A GRANT	19988
 Grant Number D939-MZ	12220
+Grant Number E179	20020
+Grant Number E5110-KM	20028
 Grant Procurement Preference	19585
 Grant Program	13120
 Grant Project Sector Unit	13938
@@ -1241,7 +1253,7 @@ Grantor Identification Number	13333
 Grantor Name	13333
 Grantor Type	13333
 Grantor's Identification Information	14647
-Grants	106,683,365,130,1189,302,2197,1450,593,533,1451,1965,172,388,48,285,108,255,136,27,70,518,5,1,2,74,69,165,58,216,1181,93,53,8,1,69,61,345,39,49,253,89,167,218,50,19,21,575,70,29,9,15,3,127,130,22,113,514,336,139,108,117,36,189,14,28,36,358,210,64,5,10,51,17,39,8,11,52
+Grants	106,683,365,130,1189,302,2197,1450,593,533,1451,1965,172,388,48,285,108,255,136,27,70,518,5,1,2,74,69,165,58,216,1181,93,53,8,1,69,61,345,39,49,253,89,167,218,50,19,21,575,70,29,9,15,3,127,130,22,113,514,336,139,108,117,36,189,14,28,36,358,210,64,5,10,51,17,39,8,11,52,278
 Grants Bilateral Multilateral Expenditure Compensation	11136
 Grants Budget	12977
 Grants Capacity Building Support	18230
@@ -1864,7 +1876,7 @@ PROJECT APPRAISAL DOCUMENT ON PROPOSED GRANTS	14910
 PROJECT GRANT NO. AFD CKE	14546
 PROMOCIÓN INDUSTRIAS Y PROTECCIÓN DE GRAL	4209
 PROMOTION DU PROJET GRAND INGA	15670
-PROPOSED ADDITIONAL GRANT	1284,1605,10570,275,126,1330,1208,498,26,1887
+PROPOSED ADDITIONAL GRANT	1284,1605,10570,275,126,1330,1208,498,26,1887,1232
 PROPOSED GRANT	2254,10526,1,2155,47,675,85,2550,558,36,756,192
 PROPOSED GRANTS	1264,13719
 PROPOSED GRANTS OF US	14976
@@ -2255,6 +2267,7 @@ Vodacom OLOs Grand	11259
 WACREN. Regional Grant	16705
 WB Early Grade Reading Project	13314
 WB the Grand International STI EXPO	14010
+WURI-ECOWAS Grant Number D3210	19990
 War Veterans Grant	7910
 War Veterans’ Grants Disability Grants	12373
 Water Grants Records	19524

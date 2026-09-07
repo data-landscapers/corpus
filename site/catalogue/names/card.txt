@@ -158,6 +158,7 @@ Card System	16872
 Card Usage	2363
 Card Verification Under New L.I	7369
 Card Verification Values	6848
+Card and Lamination Process Decree D	19984
 Card and PIN Personalization	14032
 Card and Visa	11955
 Card-based	15023
@@ -251,6 +252,7 @@ Citizenship ID Card Issuance and Management System	10714
 Citizenship Identity Card Yes AGETIC VRR	10714
 Comoros National Identity Card No N	10714
 Companion Card	10418
+Consular Card	19984
 Credit Cards	12917,1097
 Credit Cards Number of Cards Issued	19940
 Credit and Prepaid Cards	19940
@@ -307,7 +309,7 @@ ECOWAS Brown Card Insurance Scheme	14679
 ECOWAS ID Card	1655,16816
 ECOWAS IDENTITY CARD	18287
 ECOWAS National Biometric Cards	17221
-ECOWAS National Biometric Identity Card	4102,6807,1106,5159,47
+ECOWAS National Biometric Identity Card	4102,6807,1106,5159,47,2769
 ECOWAS and Non-National Identity Cards for Sierra Leoneans	18471
 EDSON ARI CARDOSO SIMÕES	10751
 ELECTRONIC ID CARD DESIGN	12165
@@ -396,6 +398,7 @@ Government Services Card	9625,97,6324
 Governor Olayemi Cardoso	2841,3858
 Green Card	19927
 Guinea-Bissau Guyana National ID Card	10714
+Guinean Identity Card	19984
 Guyana Identification Card No N	10714
 HESTSLATIVE AND STATUTORY APFAIRS CARDYNDEX DERMEEE	15999
 Haiti Honduras Biometric Identity Card	10714
@@ -596,7 +599,7 @@ National Identification Card System	16983
 National Identification Card System. SECTION	16841
 National Identification Cards	3645,4118,1057,1701,1747
 National Identification Cards. Sesay	8820
-National Identity Card	1263,116,584,400,4111,1170,201,744,727,1398,61,47,894,369,80,52,9,100,2389,1,24,1,37,55,10,379,171,22,15,759,1190,158,1058,348,98,696,13,116,34
+National Identity Card	1263,116,584,400,4111,1170,201,744,727,1398,61,47,894,369,80,52,9,100,2389,1,24,1,37,55,10,379,171,22,15,759,1190,158,1058,348,98,696,13,116,34,84,58
 National Identity Card Act	1379,13336,1,24,4203
 National Identity Card National ID System	10714
 National Identity Card No BRR Cabo	10714
@@ -616,7 +619,7 @@ National Identity Card and Population	2658
 National Identity Card and Yusuf	12051
 National Identity Card of Mozambican	6474
 National Identity Card. The Electoral Domicile	15393
-National Identity Cards	1811,109,43,812,1921,1,553,384,840,124,1081,486,424,204,1623,1875,306,137,244,97,1985,1923,1612,1141,14,185
+National Identity Cards	1811,109,43,812,1921,1,553,384,840,124,1081,486,424,204,1623,1875,306,137,244,97,1985,1923,1612,1141,14,185,49,58
 National Identity Cards Act	12648
 National Identity Cards Issued Year	12533
 National Identity Cards. Despite Airtel Malawi	12978
@@ -674,6 +677,7 @@ PERSONAL IDENTIFICATION CARDS The Republic of Burundi	13388
 PKI Card	11955
 PMS Card System	19584
 PROBLÈME CARDIAQU	13300
+Paper Cards	19996
 Paraguay Identity Card	10714
 Passports and ID Cards and D10.5	17105
 Payment Card	13206

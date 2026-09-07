@@ -98,15 +98,17 @@ ActuNon	9925
 Actua	15392
 Actuación Administrativa	16855
 Actuación Administrativa Automati	16855
-Actual	34,173,266,681,834,369,355,63,41,1837,486,516,924,349,949,253,869,438,1281,59,2,14,77,70,191,3,12,41,37,171,529,29,12,6,5,10,2,74,166,39,173,284,247,6,40,36,5,274,410,108,70,50,766,10,89,53,57,35,19,18,14,128,352,108,85,31,2,21,147,64,44,19,47,73,35,249,202,67,217,38,34,6,11,68,17,43,96,15,220,35,399,54,4,44,127,53,31,133,4,1,4,145,30,258,25,165,260,3,4,232,60,44,244
+Actual	34,173,266,681,834,369,355,63,41,1837,486,516,924,349,949,253,869,438,1281,59,2,14,77,70,191,3,12,41,37,171,529,29,12,6,5,10,2,74,166,39,173,284,247,6,40,36,5,274,410,108,70,50,766,10,89,53,57,35,19,18,14,128,352,108,85,31,2,21,147,64,44,19,47,73,35,249,202,67,217,38,34,6,11,68,17,43,96,15,220,35,399,54,4,44,127,53,31,133,4,1,4,145,30,258,25,165,260,3,4,232,60,44,244,159,2,11
 Actual Achieve	11134
-Actual Achieved	11924,3500,177,62,773,1526
+Actual Achieved	11924,3500,177,62,773,1526,2026
 Actual Achieved PDO Indicator	17962
 Actual Actual Actual Actual Actual Budget	19602
 Actual Actual Budget	19602
 Actual Actual Prior	10793
 Actual Allowance	14746
-Actual Approval	7877,7282,2974
+Actual Approval	7877,7282,2974,1868
+Actual Approved	19988
+Actual Approved. COMMENTS	19988
 Actual Backlog of Unregistered Citizens	19541
 Actual Baseline Baseline	13991
 Actual Birth and Death Registration	19541
@@ -122,15 +124,16 @@ Actual Criminals	7176
 Actual Current Year Approved Actual Exec	6422
 Actual Current Year Sub-total	6422
 Actual DSR	11953
+Actual Data	19988
 Actual Data Collection	18460
 Actual Data Collection and Data Management	18460
-Actual Date	11131,5483
+Actual Date	11131,5483,3374
 Actual Date Concept Review	11924,6038,863
 Actual Deliveries	16971
-Actual Disbursed	11924,1818,1682,177,62,41,27,705,1413,113,863
+Actual Disbursed	11924,1818,1682,177,62,41,27,705,1413,113,863,1163
 Actual Disbursed US	13722,1664
 Actual Disbursement	18765
-Actual Disbursements	17849
+Actual Disbursements	17849,2139
 Actual Domestic Taxes Net Revenue	12951
 Actual Estimate Estimate Estimate DESCRIPTION Actual	6422
 Actual Estimate Var	6422
@@ -139,12 +142,14 @@ Actual Expenditure K20	13355
 Actual Expenditure K53	13355
 Actual Expenditure US	15663
 Actual FY	14985
+Actual FY2018	19990
 Actual Final Budget Original Budget Difference	16978
 Actual Financing Achieved	15663
 Actual Forecast	236
 Actual Hom	16971
 Actual IBRD	14627
 Actual LR-MFDP-392185-CS-CQS	17180
+Actual MELQO	19988
 Actual Meetings Held	1154
 Actual Million US	11136
 Actual NER	13991
@@ -309,7 +314,7 @@ Actually Similar	8606
 Actually Taught	13633
 Actually Useful	961
 Actualmente	2816,363,1641,1765,117,4051,19,590,56,43,1351,36,1464,1133,1430,23,355,1514,5,11,46
-Actuals	12199,3770,63,155,2172
+Actuals	12199,3770,63,155,2172,1631
 Actuals Projections	17257
 Actuals Variances Percentage	12977
 Actuar	4218,7163,1,59,2,8,5514,1796,39

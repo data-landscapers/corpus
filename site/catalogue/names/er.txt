@@ -368,6 +368,7 @@ ERR ESP ESPP ESRC FA FCDO	16436
 ERR East Darfur	15342
 ERR East Nile Khartoum	15342
 ERR East Sudan	15342
+ERR Economic Rate of Return ESCP Environmental	19988
 ERR Economic Rate of Return ESF Environmental	10768
 ERR Economic Rate of Return ESMF Environmental	11525
 ERR Economic Rate of Return FSDIP Financial	18825
@@ -682,7 +683,7 @@ Eritel Telecom Corporation URL	14326,1
 Eritel's Datacenters	14327
 Eritel's Datacenters. Eritel Private Cloud Services	14327
 Eritel. The Service	14327
-Eritrea	400,2,67,530,37,705,152,608,176,5,157,508,280,110,178,649,1258,284,878,723,2294,554,204,5,21,50,3,2,8,120,168,473,261,16,1,2,28,236,1,9,10,15,45,108,11,1,32,103,12,229,641,193,150,234,2,1,1,1,1,3,1,3,1,1,1,1,2,8,1,2,1,6,1,3,1,1,6,1,3,3,3,1,1,3,2,3,4,2,1,7,1,5,1,6,4,10,1,12,1,1,1,1,2,2,2,5,2,3,1,1,6,3,1,12,5,1,5,2,1,3,7,3,5,2,1,1,4,1,3,1,3,164,108,462,1,15,127,142,63,236,1004,2142,1027,107,62,14,2,3,3,14,1,61,1,1,1,1,2,1,3,1,1,1,6
+Eritrea	400,2,67,530,37,705,152,608,176,5,157,508,280,110,178,649,1258,284,878,723,2294,554,204,5,21,50,3,2,8,120,168,473,261,16,1,2,28,236,1,9,10,15,45,108,11,1,32,103,12,229,641,193,150,234,2,1,1,1,1,3,1,3,1,1,1,1,2,8,1,2,1,6,1,3,1,1,6,1,3,3,3,1,1,3,2,3,4,2,1,7,1,5,1,6,4,10,1,12,1,1,1,1,2,2,2,5,2,3,1,1,6,3,1,12,5,1,5,2,1,3,7,3,5,2,1,1,4,1,3,1,3,164,108,462,1,15,127,142,63,236,1004,2142,1027,107,62,14,2,3,3,14,1,61,1,1,1,1,2,1,3,1,1,1,6,48,22,13
 Eritrea Activity	19925
 Eritrea Closing Date and Time	14131
 Eritrea Country	14058
@@ -702,6 +703,7 @@ Eritrea Estonia Eswatini Ethiopia Falkland Islands	11470,7872
 Eritrea Eswatini	16631
 Eritrea Evaluation Reports	14058
 Eritrea Focus	14036
+Eritrea Foundational Learning Programme The Global	20022
 Eritrea GE.25-02571	14011
 Eritrea Governance	19924
 Eritrea Household Income and Expenditure Survey	6106
@@ -745,6 +747,7 @@ Eritrea's Digital Health Policy and Health Information	14120
 Eritrea's Digital Sovereignty	14159
 Eritrea's Education and Training Sector	13953
 Eritrea's Gash Barka	14085
+Eritrea's Ministry of Education	20022
 Eritrea's Ministry of Finance and National Development	14085
 Eritrea's Ministry of Information	6230
 Eritrea's National Energy Policy	14080
@@ -1122,6 +1125,7 @@ Legitimacy Eritrea	14091
 Liberia Telecom Market Assessment Findings Erik	17070
 Libya RMSE Root-Mean-Square Error SAT Spatial	17157
 Lieutenant-Colonel Eric M. DALTON	17817
+Linearized Standard Error	19988
 Load Reduction Eradication Programme. Approximately	11297
 Local Eritrean	14008,37
 Low Moderate High No Erosion	17043

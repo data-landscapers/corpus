@@ -78,7 +78,9 @@ BORON	17828
 BORONKOME Waki SCH	19251
 BOROZI Essodina ADJ	19251
 BORROWE R'S IDA-D9060- Disbursi	2473
-BORROWER	11924,3500,87,90,62,68,705,516,897,13,100,803,60
+BORROWER	11924,3500,87,90,62,68,705,516,897,13,100,803,60,1163
+BORROWER'S REQUEST FOR COUNTRY REASONS IDA-D3210-001	19990
+BORROWER'S REQUEST FOR COUNTRY REASONS Reallocations	19990
 BORROWING POWERS	4896
 BOrchestration	5349
 BOrder	4676
@@ -275,7 +277,7 @@ Borrowed Funds	7198
 Borrowed Funds Not Refunded	19585
 Borrowed Voice	7777
 Borrowed for Free Moved	19554
-Borrower	160,152,240,14,17,171,7,12,220,197,9,2,15,61,301,126,74,40,96,74,1468,148,2935,1412,215,2602,11,184,454,438,8,61,296,168,24,14,243,442,74,146,196,260,6,38,66,118,65,473,23,309,25,27,17,12,10,104,58,234,5,22,12,13,76,11,2,5,35,106,4,39,2,54,143,68,21,42,187,74,321,40,460,66,39,98,11,6,107,17,391,113,408,164,9,211,55,78,358,39,359,20,172,12,8
+Borrower	160,152,240,14,17,171,7,12,220,197,9,2,15,61,301,126,74,40,96,74,1468,148,2935,1412,215,2602,11,184,454,438,8,61,296,168,24,14,243,442,74,146,196,260,6,38,66,118,65,473,23,309,25,27,17,12,10,104,58,234,5,22,12,13,76,11,2,5,35,106,4,39,2,54,143,68,21,42,187,74,321,40,460,66,39,98,11,6,107,17,391,113,408,164,9,211,55,78,358,39,359,20,172,12,8,135,12
 Borrower ADB Loan Project Instrument Special	11863
 Borrower Agreement	15901
 Borrower Contribution	14888,2072
@@ -467,6 +469,7 @@ El Bordj	15467
 El Oued Ghardaïa Timimoun Bordj Badji	15690
 Electronic Border Management System	12947
 Elohim Borel	16100
+Energy Specialist Borrower	20002
 Energy Specialist. Borrower	19663
 Eng. Leo Boruett	6946
 Enhanced Border Security	12164
@@ -585,6 +588,7 @@ Merton London Borough Council	13040
 Mme NGANONGO IKIA BOREKAMBI	15615
 Mme. Zenaba Borgou Hassan	19005
 Mobile Cross Border Communities	14434
+Moderate CLIENTS Borrower	19988
 Moderate Organizations Borrower Responsible Agency Republic	18359
 Modernize Border Control	5758
 Mohamed Bordji	15467
@@ -635,7 +639,7 @@ One-Stop Border Posts. The C-BRTA	10324
 One-stop Border Post PFMA Public Finance	5533
 Online Border Management System	4390,3905
 Open Data and Cross Border Data Flow	4123,8940,417
-Organizations Borrower	1867,8901,61,696,35,1772,2289,37,3,483,1960,94,103,550,394
+Organizations Borrower	1867,8901,61,696,35,1772,2289,37,3,483,1960,94,103,550,394,745
 Organizations Borrower Implementing Agency ISLAMIC REPUBLIC	17849
 Organizations Borrower THE REPUBLIC OF CAMEROON	15601
 Organizations Republic of Angola Borrower	11417

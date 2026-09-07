@@ -670,7 +670,7 @@ Namibian Revenue Authority	3714
 Namibian Stock Exchange. Revenues	1013
 Nation. Revenant	7216
 National Board of Revenue	16631
-National Directorate of Revenue	15924
+National Directorate of Revenue	15924,4107
 National Directorate of State Revenue	11941,24
 National Directorate of State Revenues	16503
 National Medium-Term Revenue Strategy. Domestic	5655
@@ -934,7 +934,7 @@ Revenue Assurance System	2527,12593,2096,34,18
 Revenue Assurance System Fees Schedule	17250
 Revenue Assurance System Regulations	17250
 Revenue Assurance Unit	9162
-Revenue Authority	3583,543,6221,1363,266,1066,2882,330,377,637,99,1241
+Revenue Authority	3583,543,6221,1363,266,1066,2882,330,377,637,99,1241,1423
 Revenue Authority Act	6921,6685
 Revenue Authority Act No	12392,857
 Revenue Authority Commissioner General KINGDOM	16631
@@ -1011,7 +1011,7 @@ Revenue Management Budget	11939
 Revenue Management System	14830
 Revenue Measures	13122,3983
 Revenue Measures and Yields	18823
-Revenue Mobilisation	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,5988,1176,1,169,14,22,1,65,14,1
+Revenue Mobilisation	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,5988,1176,1,169,14,22,1,65,14,1,48
 Revenue Mobilisation Absence of Crime	10835,3,130,902,16,466,1,135,7334
 Revenue Mobilisation Allocation and Fiscal Commission	11976
 Revenue Mobilisation Budgetary	10759,78,1315,188,7598
@@ -1044,7 +1044,7 @@ Revenue Potential	10997
 Revenue Program Sponsorship	1944
 Revenue Property	4896
 Revenue Protection	19677
-Revenue Protection Program	12195,163,3301,310,685
+Revenue Protection Program	12195,163,3301,310,685,3348
 Revenue Protection Programme	15969
 Revenue Ratio	16968
 Revenue Ratio Improve	16968

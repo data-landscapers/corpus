@@ -1,3 +1,4 @@
+AC Load	19998
 ADAPTABLE PROGRAM LOAN	17862
 ADB Loan KOAFEC	11863
 AF Loan	15601
@@ -68,7 +69,7 @@ Commissioner for Refugees VSLA Village Savings and Loan	10841
 Competitive Bidding IL Investment Loan ISM	17441
 Components Results Disbursement Estimates Loan Closing	15731
 Components Results Loan Cancellations Reallocations	11924
-Concessional Loan	106,85,47,62,19,155,3,103,1,415,1256,1,1527,2885,7022,144,2156,448,220,114,122,462,645,1590
+Concessional Loan	106,85,47,62,19,155,3,103,1,415,1256,1,1527,2885,7022,144,2156,448,220,114,122,462,645,1590,429,3
 Concessional Loan Agreement	15399
 Concessional Loan Department The Export-Import	15399
 Concessional Loan Framework Agreement of Rwanda Smart	791
@@ -121,6 +122,7 @@ E-Commerce Platform Loan DFC	1437
 E2. Repayment of External Loan	19602
 EBRD Loan	1818,1
 EBRD Loan. The EFSD	1818
+EIB Loan The European Investment Bank	20026
 EMATA Digital Loans To Smallholder Dairy	834
 EPTC Loan Agreement	6539
 Education Loan Fund	2536
@@ -249,6 +251,7 @@ LOANGO ENVIRONNE MENT S.A	16274,182
 LOANGO ENVIRONNEMENT Société	16274,182
 LOANS	11965,424
 LOANS Cancellations Reason Value Loan	2473
+LOANS Loan Closing	19990
 LOATEKOMBO ASSOCIA TION CULTURELLE	16274,182
 Legal Covenants Clients Additional Financing Loan	11924
 Lender Concessional Loan Dept	15399
@@ -312,7 +315,7 @@ Loan Allocated	15411
 Loan Authorization Act	483
 Loan Authorization Bills	12987
 Loan Beneficiary Accounts TZS17	19585
-Loan Cancellations	11965
+Loan Cancellations	11965,8023
 Loan Cancellations No Components Yes Procurement	19284
 Loan Cancellations No Development Objective	15969,2390
 Loan Cancellations No Legal Operational	16187
@@ -358,7 +361,7 @@ Loandjili. Article	16274,182
 Loaned	19585
 Loango	15379,313,52,36,68
 Loango. Date	15692
-Loans	2775,808,131,1258,1142,1649,3083,123,162,5,94,654,1,10,264,1,44,1,146,4,41,49,42,475,570,1204,366,476,1397,68,192,1,205,2079,65,17,6,218,36,3
+Loans	2775,808,131,1258,1142,1649,3083,123,162,5,94,654,1,10,264,1,44,1,146,4,41,49,42,475,570,1204,366,476,1397,68,192,1,205,2079,65,17,6,218,36,3,130
 Loans Access	17043
 Loans Advanced	17236
 Loans Assets Deposits Loans	11960
@@ -437,6 +440,7 @@ Net Loans	17235
 Net Loans and Facilities	17236
 Net Loans and Overdrafts	17235
 Nigeria Education Loan Fund	2536
+No. Loan Closing Date Extension	19990
 No. Year Loan Name of Loan Payment	19585
 Non- Performing Loans	17235
 Non-Performing Loans	11131,338,1487,2067,2213,332,2258
@@ -594,6 +598,7 @@ Wezesha Portal and Loan Register Records Inconsistency	19585
 Wezesha Portal and Manual Loan Register Deficiencies	19585
 Women Nominal Value of Loans	940
 World Bank Finance and Loan Department and FM	15518
+Yes. Loan Cancellations	19990
 Youth Enterprise Development Fund Loan Disbursement	2775
 Youth Nominal Value of Loans	940
 Zigwe Loan	8732

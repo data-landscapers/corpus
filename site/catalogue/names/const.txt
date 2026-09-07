@@ -718,7 +718,7 @@ Constitutional and Legislative Foundations	19890
 Constitutional and Legislative Framework	14073,4857
 Constitutional and Political Doctrine	3861
 Constitutional and Political Doctrine Data	3861
-Constitutional and Religious Affairs	4545,2335,5937
+Constitutional and Religious Affairs	4545,2335,5937,7225
 Constitutional and Religious Affairs MoF Ministry of Finance	4214
 Constitutional and Statutory Appropriation	13420
 Constitutional and Statutory Appropriations	13420
@@ -773,7 +773,7 @@ Construct SYSQ COMPL COMP TRIAL SEC	9129
 Construct Supply and Use Table	19519
 Construct and Ministries X X X X	15845
 Construct and Nationwid X X X X	15845
-Constructed	2973,610,13367,899
+Constructed	2973,610,13367,899,2153
 Constructeur	17846
 Constructeur le Dossier de Projet	17846
 Constructeur. Ils	17846
@@ -782,7 +782,7 @@ Constructi	14775
 Constructing	9155,1686,1249,2566,1005,2119,1739,66
 Constructing Housing	12175
 Constructing the Core Engine	4528,7984
-Construction	35,23,63,216,381,546,374,44,185,10,63,48,33,321,134,34,29,236,191,23,56,269,82,27,37,401,150,114,95,456,6,214,109,242,147,399,515,114,68,103,40,191,84,13,25,724,4,21,148,394,59,25,285,603,357,253,942,86,11,3,14,25,2,34,39,62,97,2,112,48,228,57,293,7,1,23,81,267,105,15,26,22,24,55,97,120,7,126,72,34,6,22,3,66,7,62,207,32,24,5,2,13,15,13,71,57,80,267,64,32,418,66,1,1,95,88,46,17,2,4,3,1,69,14,1,10,51,94,100,44,126,117,27,27,48,37,28,3,26,10,2,24,55,2,9,3,29,55,42,46,3,88,33,68,10,56,74,72,7,10,11,10,94,45,10,278,140,9,33,4,15,11,17,68,88,6,9,25,1,40,36,3,16,25,95,9,220,93,158,7,4,36,13,12,51,33,25,61,19,25,170,6,27,31,15,4,44,25,34,6,60,13,123,263,96,141,42,18,45,16,111,107,14,25,28,47,31,17,66,89
+Construction	35,23,63,216,381,546,374,44,185,10,63,48,33,321,134,34,29,236,191,23,56,269,82,27,37,401,150,114,95,456,6,214,109,242,147,399,515,114,68,103,40,191,84,13,25,724,4,21,148,394,59,25,285,603,357,253,942,86,11,3,14,25,2,34,39,62,97,2,112,48,228,57,293,7,1,23,81,267,105,15,26,22,24,55,97,120,7,126,72,34,6,22,3,66,7,62,207,32,24,5,2,13,15,13,71,57,80,267,64,32,418,66,1,1,95,88,46,17,2,4,3,1,69,14,1,10,51,94,100,44,126,117,27,27,48,37,28,3,26,10,2,24,55,2,9,3,29,55,42,46,3,88,33,68,10,56,74,72,7,10,11,10,94,45,10,278,140,9,33,4,15,11,17,68,88,6,9,25,1,40,36,3,16,25,95,9,220,93,158,7,4,36,13,12,51,33,25,61,19,25,170,6,27,31,15,4,44,25,34,6,60,13,123,263,96,141,42,18,45,16,111,107,14,25,28,47,31,17,66,89,167
 Construction ARCEP	998
 Construction Act	1988
 Construction Agriculture Non	10875
@@ -1118,6 +1118,7 @@ Délégation Vu la Constitution	17861
 D’ACQUISITION DES TERRES ET TERRAINS la Constitution	15439
 E CONSTRUCOES GUI-MAR-GRA-PIC	16623
 E SOCIETE DE CONSTRUCTION	16623
+EDG. Construction	20002
 ELECTRIQUE MALI-COTE D’IVOIRE Vu la Constitution	17817
 ELIGIBLE CONTRACTORS FOR THE PROPOSED CONSTRUCTION	1638
 ENABLERS AND CONSTRAINTS	12444
@@ -1216,6 +1217,7 @@ GDP AT CONSTANT	13060
 GDP.52 Constant	10856
 GEHSSP Parent GEHSSP GoTG Construction	16896
 GFC. INFORMACION USADA PARA LA CONSTRUCCIÓN	16875
+GNEAP-1. II. Construction of Mamou-Labé MV	20002
 GPC Projet de Construction	16037
 GROUP SARL CONSTITUTION DE SOCIETE ICN	16413
 GROUPE D’INTERVENTION RAPIDE CYBER Constitution	18317
@@ -1684,6 +1686,7 @@ Primary Constitutional Authority	3861
 Principais Constrangimentos	18763
 Princípio da Constitucionalidade	11388
 Prisma Construction Company	5394
+Private. Construction	20002
 Processes Construction Contractors Ongoing	17260
 Processo de Constituição de Sociedades Comerciais	11365
 Procurement and Construction	11131,3,2675,2174,2560

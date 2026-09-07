@@ -25,7 +25,7 @@ AMDA Leads High-Impact Mini-Grid Dialogue	16889,362
 AMIR Lead	15130
 AMIR X Lead	15130
 AMIR X X Lead	15130
-APPROVAL Task Team Leader	3456,9376,279,1442,23,937,1141,21,1781,477,730
+APPROVAL Task Team Leader	3456,9376,279,1442,23,937,1141,21,1781,477,730,339
 ASL LEASING LIMITED Data Controller INST-5454573B4A4	7167
 ATL Leasing	5101,850
 ATU-GSMA African ICT Regulatory Leaders’ Forum	7825
@@ -48,6 +48,7 @@ Achieve ICT Leadership	13295
 Achieving Learning	14566
 Acting Leader of Government Business	13387
 Acting Leader of Opposition	18555
+Action Mandate Lead Expected Actor	20004
 Activity Description Lead Responsibility PHASE	961
 Addressing Challenges and Lessons Learned Despite	15120
 Administration and Leadership for PIT	17180
@@ -234,6 +235,7 @@ Charles Joseph Cormier Task Team Leaders	15515
 Children Learning	899
 Choice for Learners	18461
 Christian Bodewig Task Team Leader	16952,1349
+Christian Bodewig Task Team Leaders	19990
 Christine N Katende UGANDA LEARNING ACCELERATION	19692
 Cisco Networking Academy's One Million Learners	8512
 Citizen Entrepreneurial Development Agency LEA	12540
@@ -519,8 +521,10 @@ Equipment for Distance Learning Centers	2989
 Ericsson. Learners	8077
 Erik Magnus Fernstrom Task Team Leader	14456
 Erik Magnus Fernstrom. Task Team Leader	13734
+Eritrea Foundational Learning Programme The Global	20022
 Escola Secundária Professora Mariana Ruth Leal	18843
 Eswatini Learning Passport	13043,23
+Ethiopia Education Transformation Operation for Learning	20041
 Ethiopia’s Digital Financial Leap	12249
 Europa League	8797
 Evaluation and Learning	1814,9977,466,2701,2337,1747
@@ -703,6 +707,7 @@ HUMAN CAPITAL MANAGEMENT Leadership Development Graduate	11131
 Hackathon She Leads Digital	16244
 Halil Dundar Task Team Leader	18765
 Harare Ms Vimbai Masiyiwa Business Leadership	4896
+Harmonized Households Leaving Standards Measurement Survey	19988
 Harnessing Technology for More and Better Learning	17870
 Harnessing Technology for More and Better Learning Formal	17870
 Head of Learning	12361,1767
@@ -758,6 +763,7 @@ INTER-AGENCY LEADERSHIP COMMITTEE	15556
 IP Internet Protocol LEARN Levier	15583
 IPI Africa Programme Lead Nompilo Simanje	10533
 IRCA-registered Lead	14736
+IVA Independent Verification Agency LAYS Learning-Adjusted	19988
 IX TOP LEADERSHIP OF THE UGANDA	19772
 Identify and Share Promising Practices and Lessons Learned	12939
 Implement Learnings Locally	12675
@@ -852,6 +858,7 @@ Journal of Computer Assisted Learning	8602
 Journal of Healthcare Leadership	11596
 Journal of Learning Analytics	8602
 Journal of Workplace Learning	8021
+Juan Baron Co-Team Leader	19988
 Juan Edjang Ndong Lead Driver Abiba	17101
 Julia Fraser Task Team Leaders	11380
 Junior Secondary School Leaving	13477
@@ -878,6 +885,7 @@ Kenya Takes the Lead	4722
 Kenya and Uganda. LeapFrog	145
 Kenya’s Recognition of Prior Learning	11504
 Kept Widening the Lead Rwanda	8088
+Key Action Tangible Lead Actor	20004
 Key Experts Team Leader	12008
 Key Infrastructure PLR Performance and Learning Review	13861
 Key Learnings	13016
@@ -997,6 +1005,7 @@ Le Leadership Africain	18319
 LeARN	15565
 Lea Jeanne Marie Iungmann ABBREVIATIONS	17458
 Leach	11135,8467
+Lead Actor	20004
 Lead African AI	4528,7984
 Lead Agency	12356,405,642
 Lead Agency National Bureau of Statistics	18607
@@ -1130,7 +1139,7 @@ Leaders of Government	11275
 Leaders of South Africa	11210
 Leaders' Declaration	7242
 Leaders' Summit	5366
-Leadership	396,370,388,400,260,812,784,185,837,96,320,276,474,299,28,765,871,131,321,641,601,197,39,12,83,91,104,212,127,639,78,37,38,219,4,127,334,291,2,16,118,2,128,1,9,47,4,27,5,9,42,43,1,6,37,54,74,217,233,43,75,338,281,294,11,147,274,109,32,56,197,16,87,112,115,15,120,188,103,144,1,4,212,259,432,236,51,25,2,6,4,19,1,14,40,12,90,164,110,47,270,125,2,37,415,22,159,51,103,4,21,190,77,237,360,55,76,1,183,3,19,1,65,15
+Leadership	396,370,388,400,260,812,784,185,837,96,320,276,474,299,28,765,871,131,321,641,601,197,39,12,83,91,104,212,127,639,78,37,38,219,4,127,334,291,2,16,118,2,128,1,9,47,4,27,5,9,42,43,1,6,37,54,74,217,233,43,75,338,281,294,11,147,274,109,32,56,197,16,87,112,115,15,120,188,103,144,1,4,212,259,432,236,51,25,2,6,4,19,1,14,40,12,90,164,110,47,270,125,2,37,415,22,159,51,103,4,21,190,77,237,360,55,76,1,183,3,19,1,65,15,48
 Leadership Academy	11586
 Leadership Activité	17845
 Leadership Africain	2915,15404
@@ -1352,7 +1361,7 @@ Learners and Educators	11281
 Learnerships	6832
 Learner’s Identification Number	9114
 Learnfrom Other African Countries	14932
-Learning	396,375,128,878,316,3,1453,312,571,1845,471,84,116,496,104,100,98,565,65,84,142,465,61,210,193,224,482,86,92,193,221,177,11,114,4,45,259,468,9,2,6,16,20,130,85,181,3,54,40,7,69,145,52,246,172,212,172,462,1,574,1,246,39,28,17,26,2,34,39,167,378,62,14,43,82,7,186,324,374,6,65,147,20,12,58,21,12,10,131,80,52,4,35,8,34,15,279,4,631,220,767,4,284,38,70,16,51,127,98
+Learning	396,375,128,878,316,3,1453,312,571,1845,471,84,116,496,104,100,98,565,65,84,142,465,61,210,193,224,482,86,92,193,221,177,11,114,4,45,259,468,9,2,6,16,20,130,85,181,3,54,40,7,69,145,52,246,172,212,172,462,1,574,1,246,39,28,17,26,2,34,39,167,378,62,14,43,82,7,186,324,374,6,65,147,20,12,58,21,12,10,131,80,52,4,35,8,34,15,279,4,631,220,767,4,284,38,70,16,51,127,98,71
 Learning AI	6948
 Learning Achievement	14922
 Learning Achievement MML Minimum Mastery Level	13990
@@ -1391,6 +1400,7 @@ Learning Goal	13991
 Learning Instead	13532
 Learning Learning	12175
 Learning Lessons	7548
+Learning Level	19988
 Learning Loop	4528,7984
 Learning MBS Malawi Bureau of Standards MOU	13042
 Learning Management System	9128,1396,939,476,2052,1173,19,421,1359,2632
@@ -1448,6 +1458,7 @@ Learning du MSAS En	18297
 Learning for Statistical Transformation	17116
 Learning for Strengthening Higher Education	13991
 Learning for Strengthening Higher Education ESIDS Education	13991
+Learning-Adjusted Years of Schooling	19988
 Learning-adjusted	14897
 LearningDisabilities	11180
 LearningForAll	13204
@@ -1594,6 +1605,7 @@ MAJOR LEADERS OPERATING IN THE DIGITAL	15679
 MAKE AT LEAST THREE ATTEMPTS	17127
 MAKE AT LEAST THREE CONTACT ATTEMPTS	17127
 MCC Learning	15570
+MELQO Monitoring Early Learning Quality and Outcomes	19988
 MINALOC X X Lead	15130
 MIR Machine Learning ML Ministry of Health	19521
 ML Machine Learning MICDE Ministry of Information	7548
@@ -1641,7 +1653,9 @@ Majority Leader and Leader of Government Business Hon	9121
 Majority Party Leader	18436
 Majority and Minority Party Leaders	18436
 Make Life Easy Without Leaving Anybody	12038
+Malawi Foundational Learning Program for Results	20027
 Malawi Leather Value Chain Strategy	13060
+Malawi's Foundations of Learning Program for Results	20027
 Male Leader	17099
 Mali Learning Poverty. EduAnalytics	17870
 Management Lead Institutions	14935
@@ -1692,7 +1706,7 @@ Mobile Learning	19533
 Mobile Speeds Lead	12674
 Model LDCs Least Developed Countries LEG	18578
 Moderate Stress Leaf	17157
-Monitoring Early Learning Quality and Outcomes	16638
+Monitoring Early Learning Quality and Outcomes	16638,3350
 Monitoring Evaluation and Learning	18461
 Monitoring Learning Achievement	12175
 Monitoring Learning Achievement MOE Ministry of Education	13960
@@ -1821,6 +1835,7 @@ Organized Learning	15247
 Osaka Leaders' Declaration	7242
 Others New Ongoing Lead Collaborating	15845
 Others New Ongoing Lead Collaborating MMDAs	15845
+Ousmane Diagana ADM Responsible Team Leader	19988
 Outcome Document. A Presidential and Business Leaders	17582
 Output Leadership	18478
 Output Target Date Lead Person Anticipated	16963
@@ -1920,12 +1935,12 @@ Project Management Leadership	16963
 Project Team Lead	14352
 Project Team Leader	12693,492,5569
 Project-Based Learning	8839
-Promote Learning	12356,702
+Promote Learning	12356,702,6969,14
 Promote Learning and Synergy	10865
 Protocol DLP Data Leak Prevention IaaS	15472
 Provision of Learning Materials	12975
 Public Listing and Capital Market Leadership Marking	14151
-Public Perception of Female Leadership	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Public Perception of Female Leadership	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Public Perception of Female Leadership FOUNDATIONS	12154
 Public Perception of Female Leadership Participation	11889,274,178,7312
 Public Sector Lead for Sub-Saharan Africa	9849
@@ -2246,6 +2261,7 @@ Team Leader UN United Nations UNDP	16952
 Team Leader for Governance	13215
 Team Leader for Regional Cooperation	11548
 Team Leader of FAO's Forest Monitoring and Data	17054
+Team Leader. Fatoumata Toure	19988
 Team Task Leader	17712
 Tech Leaders and Innovators	11028
 Tech Leadership	12241
@@ -2381,7 +2397,7 @@ WASSCE. Learners	18461
 WHOLESALERS TO LEAD ESWATINI’S NEW E-INVOICING	12948,304
 WOMEN CONSUMING AT LEAST	17127
 Wafcon Leave	7041
-Waly Wane Task Team Leader	15743,444
+Waly Wane Task Team Leader	15743,444,3801
 Ward Councillors and Block Leaders	12978
 Water Leakage Detection	593
 Welfare Early Learning Partnership EU European	16952

@@ -280,6 +280,7 @@ Data Lab	19242,4,12
 Data Labelers Association Data Controller INST-9143850AC00	7167
 Data Labelers Association Data Processor INST-9143850AC00	7167
 Data Landscapers Lab	6580
+Data Literacy and Ministry of Labor Ensures	20004
 Definition of Child Labour Age	18441
 Density and Viscosity Lab	19712
 Department of Employment and Labour	5533,1299,4448,809,779
@@ -453,7 +454,7 @@ Forced Labor Any	1988
 Forced Labor Declaration	14576
 Forced Labor Gender-Based Violence	1988
 Forced Labor Performance Declaration	14576
-Forced Labour	1988,8771,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,2254,4910,1,169,14,22,1,65,14,1
+Forced Labour	1988,8771,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,2254,4910,1,169,14,22,1,65,14,1,48
 Forced Labour Absence of Crime Public Perception	10759,78,1315,188,7598
 Forced Labour Convention	14011,731
 Forced Labour Public Perception of Inclusion	10759
@@ -646,7 +647,7 @@ International Labour Organisation	6652,1807,3077,1386,467,951,402,90,1069,2912,1
 International Labour Organisation ILO Technical	19613
 International Labour Organisation. ILO	15604
 International Labour Organisation. Statistics	12376
-International Labour Organization	1264,4939,409,336,154,3215,512,12,123,5,48,123,16,102,22,292,140,172,11,99,165,46,150,132,491,82,97,298,10,430,43,329,361,114,32,259,961,195,769,976,1051,546,122,183,26,3
+International Labour Organization	1264,4939,409,336,154,3215,512,12,123,5,48,123,16,102,22,292,140,172,11,99,165,46,150,132,491,82,97,298,10,430,43,329,361,114,32,259,961,195,769,976,1051,546,122,183,26,3,130
 International Labour Organization Enterprise Formalization	10823
 International Labour Organization's Declaration	19531
 International Labour Organization. ILOSTAT	16384
@@ -689,6 +690,7 @@ Key Labour Market Trends	15604
 Keywords Employment Unemployment Labour Force Participation	19613
 Khartoum Lab	14897
 Kids Entertainment Lab	7171
+Kindia and Labé	20002
 Kindia and Labé. In Kindia	16654
 Knowledge Lab	12329
 Kololi. The National Labour Digital Skill	4359
@@ -736,7 +738,7 @@ LABOUR AND SOCIAL DEVELOPMENT Uganda	19685
 LABOUR AND SOCIAL WELFARE	13420
 LABOUR AND SOCIAL WELFARE APPROPRIATION ACCOUNT	13420
 LABOUR COURT	13504
-LABOUR ENVIRONMENT	10759,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+LABOUR ENVIRONMENT	10759,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 LABOUR ENVIRONMENT HEALTH Rank	10835
 LABOUR ENVIRONMENT INFRASTRUCTURE RURAL ECONOMY WOMEN’S	10837,1503,7598
 LABOUR ENVIRONMENT Impartiality	10835,3,130,902,16,466,1,135,7334
@@ -854,7 +856,7 @@ Labone Limited	3386
 Labone Prestige Centre	11020
 Labont	3791
 Labonté R	3791
-Labor	1284,704,1616,7159,83,16,107,7,9,19,136,734,7,1,2,1,10,10,60,6,188,1,44,1,124,17,5,4,34,7,3,46,42,268,209,559,1374,100,88,433,35,48,659,124,449,93,9,37,24,4,11,32,56,149,4,1049,69,427,12,29,446,357,14,20,60,90,10,12,15,3
+Labor	1284,704,1616,7159,83,16,107,7,9,19,136,734,7,1,2,1,10,10,60,6,188,1,44,1,124,17,5,4,34,7,3,46,42,268,209,559,1374,100,88,433,35,48,659,124,449,93,9,37,24,4,11,32,56,149,4,1049,69,427,12,29,446,357,14,20,60,90,10,12,15,3,130
 Labor Act	16951
 Labor Cases	16949
 Labor Climate Change and Disaster Screening	11855
@@ -883,7 +885,7 @@ Labor Intensive Small-Scale Public Infrastructure Works	15411
 Labor Law	3058,13154,2585
 Labor Law Launch	2989
 Labor Management Page	19284
-Labor Management Plan	1264,1625,9537,3232,1,2,1453
+Labor Management Plan	1264,1625,9537,3232,1,2,1453,2874
 Labor Management Procedure	3456,9876,3617,2335
 Labor Management Procedures	761,1106,121,1616,7225,135,2147,220,1222,23,336,64,162,380,35,108,483,782,1448,871
 Labor Market	11271,1174,3699,1123
@@ -923,7 +925,7 @@ Labor and Employment	13314,17
 Labor and Productivity	17366,1159
 Labor and Social	13314
 Labor and Social Dialogue	7379
-Labor and Working Conditions	1264,9565,135,1001,1367,191,1030,23,334,608,1418,178,2733
+Labor and Working Conditions	1264,9565,135,1001,1367,191,1030,23,334,608,1418,178,2733,141
 Labor and Working Conditions Relevant ESS	1867,1737,2935,4229,649,143,345,3753,3,483,970,1084,1041,6
 Labor and Working Conditions Relevant Key	18374
 Labor and Working Conditions Relevant Not Currently	19284
@@ -1073,7 +1075,7 @@ Labour Digital Skill Development Methodology Programme	4359
 Labour Disruptions and Economic Impact	12210
 Labour Division	14742,28
 Labour Efficiency	2957,7758
-Labour Environment	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Labour Environment	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Labour Environment Infrastructure Rural Economy Health	10759
 Labour Environment Infrastructure Rural Economy Human	10837,1315,188,7598
 Labour Environment Rank	11889
@@ -1146,7 +1148,7 @@ Labour Organization IMB Information	17105
 Labour Organization IMF International Monetary Fund	10835,3,130,902,16,466,1,135,7334
 Labour Organization LAPF LAPF Pensions Fund	19531
 Labour Prioritise	12253
-Labour Relations	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Labour Relations	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Labour Relations Act	11182,98
 Labour Research SA	11986
 Labour Scarcity and Mechanization	14818
@@ -1201,6 +1203,7 @@ Labuschagne	8130,5127
 Labware	13306
 Labwordwong	19641
 Labzone	16942
+Labé and Kankan	19988
 Labé and Mamou	4036
 Labé. Il	3348
 Labé. Mais Conakry	16722
@@ -1342,6 +1345,7 @@ Ministry of Labour and Home Affairs CRVS	12639
 Ministry of Labour and Home Affairs. Even Parliament	2736
 Ministry of Labour and Human Welfare	13989
 Ministry of Labour and Industrial Relations	14770,4,56,17
+Ministry of Labour and Public Service	20004
 Ministry of Labour and Rehabilitation	7723,2686
 Ministry of Labour and Skills	14004,6,29
 Ministry of Labour and Social	1988
@@ -1495,6 +1499,7 @@ PforR. Labor Code	18370
 Phebe Public Health Laboratory	16971
 Physical Labour and Construction	12253
 Pine Labs	8942
+Pita and Labe	20002
 Planet Labs PBC	9544,8656
 Planetary Labour Market	226
 Plant Pathology Laboratory	14721
@@ -1735,6 +1740,7 @@ Unemployment Child Labour Youth Neet	15244
 University Teaching Hospital Virology Laboratory	13454
 University of Ghana’s Human-Computer Interaction Lab	14352
 University of Liberia Innovation Lab	16975
+Université de Labé	19997
 Up Start Label	19406
 Upanzi Lab	11077
 Upgrading the GIS Lab	16927
@@ -1782,6 +1788,7 @@ Y ORIENT. LABO.- Conc4epto.-	4209
 Year Lab Commoditie	4202
 Year Lab Commodities	4153
 Year Laboratory Commodities	4217
+Years of Schooling LMP Labor Management Plan	19988
 Yeasts and Moulds. The Laboratory	14736
 Youth Employment Programs Improve Labor Market	15550
 Youth Labour Force	12600

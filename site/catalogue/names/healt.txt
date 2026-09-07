@@ -342,7 +342,7 @@ BMC Public Health	10881,9093
 BMC Public Health. Sep	10919
 BMJ Glob Health	19974
 BMJ Glob. Health	11585
-BMJ Global Health	4781,4347,1737,1548
+BMJ Global Health	4781,4347,1737,1548,7591
 BMJ Health Care Inf Online	10784
 BMJ Health Care Inform	3791
 BOMET'S HEALTHCARE Data Controller INST-41179897DD5 UASIN	7167
@@ -667,6 +667,7 @@ Community Health Assistant	16971
 Community Health Assistant CHV Community Health	16971
 Community Health Assistants	16971
 Community Health Care Officers	14742
+Community Health Centers	20010
 Community Health Centre	18016
 Community Health Centres	14742,31
 Community Health Centres DHU	11252
@@ -712,7 +713,7 @@ Community Health Worker COPIL National Health	10829
 Community Health Worker CoD	12338
 Community Health Worker Integration Roadmap	18532
 Community Health Worker Programs Maturity Toolkit	12255
-Community Health Workers	4260,41,1051,2214,3959,61,3377,870,144,994,997,564,1023,90
+Community Health Workers	4260,41,1051,2214,3959,61,3377,870,144,994,997,564,1023,90,365
 Community Health Workers The Federal Government	18158
 Community Health Workers Year	4202,147
 Community Health Workers and Health Workers	18474
@@ -733,6 +734,7 @@ Community Health-based Planning Services CRVS Civil	15628
 Community Healthcare Workers Chapter	10784
 Community and Health	11134
 Community and Health Sciences Faculty	8022
+Community and Health and Safety	19988
 Community and Public Health	3583
 Community- Based Health Insurance	12328
 Community-Based Health Information System	538,21,4567,7896
@@ -860,6 +862,7 @@ DHIS District Health Information System	2775
 DHIS District Health Information System DHS	13681
 DHIS District Health Information System USAID	766
 DHIS-2 District Health Information System	15479
+DHIS2 DISTRICT HEALTH INFORMATION SOFTWARE	19986
 DHIS2 District Health Information Software	14666,393,3609,876,123
 DHIS2 District Health Information System	10829,52,679
 DHIS2 National Directorate for Public Health	11417
@@ -1708,7 +1711,7 @@ Globalization and Health	6948
 GoZ National Health Strategy	970
 Goal Health	19667
 Gobabis Health Centre	12947
-Good Health and Well-Being	12964,4084
+Good Health and Well-Being	12964,4084,2962
 Good Health and Well-being	1131,2614,7031,2188,1059,1954
 Good Health and Well-being Goal	11332
 Good Health and Well-being. Specifically	18545
@@ -1734,7 +1737,7 @@ H- Health	582
 HCW Healthcare Workers HLMA Health Labour	12976
 HDI Human Development Index HL7 Health	18478
 HEA Health Enterprise Architecture PMI Patient	396
-HEALTH	2709,8050,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135,118,370,423,1010,408,427,1691,35,1,257,1248,1176,1,169,14,22,1,65,14,1
+HEALTH	2709,8050,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135,118,370,423,1010,408,427,1691,35,1,257,1248,1176,1,169,14,22,1,65,14,1,48
 HEALTH AND CHILD CARE	13420
 HEALTH AND SAFETY	14947
 HEALTH AND SAFETY Issue	14947
@@ -1865,7 +1868,7 @@ Harvard School of Public Health	12367,46
 Head of Defence Health	16277
 Head of Health	12338
 Head of Strategic Health Information and Digital Health	19265
-Health	3,18,6,7,7,354,1,135,40,58,101,36,5,126,61,12,2,5,32,152,51,7,9,33,293,100,124,32,8,6,4,39,10,111,319,166,116,15,22,52,31,61,5,182,15,86,72,113,142,198,21,47,39,31,70,70,42,223,27,1,10,3,50,84,1,47,73,4,102,146,1,90,17,140,89,130,21,63,57,96,155,122,170,86,64,231,6,21,163,27,97,19,55,57,143,152,258,109,168,57,10,76,38,45,24,78,27,300,122,43,75,7,96,124,1,1,8,23,16,14,301,100,362,15,34,58,225,94,24,55,10,461,236,118,6,10,1,4,21,11,17,6,2,1,18,9,5,11,47,12,28,165,1,6,53,4,1,47,5,2,128,21,16,52,48,19,24,29,31,36,91,7,54,9,40,9,1,3,16,1,1,1,8,3,5,7,12,15,17,12,1,11,6,17,1,2,56,2,74,5,8,2,1,9,29,7,17,1,2,7,7,7,1,5,4,3,48,32,4,4,11,1,20,6,34,8,5,5,9,5,43,13,7,4,17,5,89,19,87,5,91,66,5,26,3,14,6,1,10,6,2,8,4,1,8,20,1,34,53,2,26,2,37,6,121,8,19,6,23,4,38,33,12,40,4,87,103,14,55,11,69,57,36,66,7,1,2,38,3,8,2,87,62,216,11,25,15,75,31,39,28,5,28,7,4,8,45,17,6,10,9,1,8,3,5,40,12,7,11,5,21,5,10,34,2,10,28,2,11,48,15,17,25,28,29,20,2,19,26,1,38,3,47,78,39,49,40,53,3,25,9,31,42,41,16,5,18,102,8,41,7,58,7,11,34,21,9,154,29,51,12,135,227,184,27,1,6,5,12,1,2,5,4,6,20,1,12,6,3,6,8,8,5,4,21,41,62,2,4,3,6,2,6,17,10,18,74,48,7,69,51,42,45,124,108,110,4,20,1,14,87,128,6,57,24,12,19,20,16,25,77,4,11,65,8,31,2,2,34,17,3,27,18,4,30,16,1,7,22,11,29,25,171,18,20,6,42,70,10,118,57,11,39,70,1,52,112,2,11,1,8,3,3,8,30,17,39,3,1,1,6,1,14,17,28,3,13,7,3,5,25,3,3,9,39,14,8,3,11,1,28,2,35,13,2,12,23,3
+Health	3,18,6,7,7,354,1,135,40,58,101,36,5,126,61,12,2,5,32,152,51,7,9,33,293,100,124,32,8,6,4,39,10,111,319,166,116,15,22,52,31,61,5,182,15,86,72,113,142,198,21,47,39,31,70,70,42,223,27,1,10,3,50,84,1,47,73,4,102,146,1,90,17,140,89,130,21,63,57,96,155,122,170,86,64,231,6,21,163,27,97,19,55,57,143,152,258,109,168,57,10,76,38,45,24,78,27,300,122,43,75,7,96,124,1,1,8,23,16,14,301,100,362,15,34,58,225,94,24,55,10,461,236,118,6,10,1,4,21,11,17,6,2,1,18,9,5,11,47,12,28,165,1,6,53,4,1,47,5,2,128,21,16,52,48,19,24,29,31,36,91,7,54,9,40,9,1,3,16,1,1,1,8,3,5,7,12,15,17,12,1,11,6,17,1,2,56,2,74,5,8,2,1,9,29,7,17,1,2,7,7,7,1,5,4,3,48,32,4,4,11,1,20,6,34,8,5,5,9,5,43,13,7,4,17,5,89,19,87,5,91,66,5,26,3,14,6,1,10,6,2,8,4,1,8,20,1,34,53,2,26,2,37,6,121,8,19,6,23,4,38,33,12,40,4,87,103,14,55,11,69,57,36,66,7,1,2,38,3,8,2,87,62,216,11,25,15,75,31,39,28,5,28,7,4,8,45,17,6,10,9,1,8,3,5,40,12,7,11,5,21,5,10,34,2,10,28,2,11,48,15,17,25,28,29,20,2,19,26,1,38,3,47,78,39,49,40,53,3,25,9,31,42,41,16,5,18,102,8,41,7,58,7,11,34,21,9,154,29,51,12,135,227,184,27,1,6,5,12,1,2,5,4,6,20,1,12,6,3,6,8,8,5,4,21,41,62,2,4,3,6,2,6,17,10,18,74,48,7,69,51,42,45,124,108,110,4,20,1,14,87,128,6,57,24,12,19,20,16,25,77,4,11,65,8,31,2,2,34,17,3,27,18,4,30,16,1,7,22,11,29,25,171,18,20,6,42,70,10,118,57,11,39,70,1,52,112,2,11,1,8,3,3,8,30,17,39,3,1,1,6,1,14,17,28,3,13,7,3,5,25,3,3,9,39,14,8,3,11,1,28,2,35,13,2,12,23,3,9,1,17,6
 Health ACT Artemisinin-based Combination Therapy AFP	16971
 Health AI	6233
 Health AI Governance Workshop	9784
@@ -2432,7 +2435,7 @@ Health Provision Public Perception of Social Protection	10759
 Health Provision Reading	12152,188,7598
 Health Pulse	10865,2509,186
 Health Pulse. Développé	13374
-Health Quality	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Health Quality	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Health Quality Public Perception of Female Leadership	12488
 Health R Immigration Insurance Scheme Service	15845
 Health REPUBLIC OF SOUTH AFRICA	1009
@@ -2476,7 +2479,7 @@ Health Sciences’ Students Enrolment	2775
 Health Sec-tor	1261
 Health Secretariat	21
 Health Secretary	6651
-Health Sector	1009,234,18,553,895,66,8750,11,388,290,392,56,314,146,911,401,1122,1305,110,775,1839,24
+Health Sector	1009,234,18,553,895,66,8750,11,388,290,392,56,314,146,911,401,1122,1305,110,775,1839,24,395
 Health Sector Co-Investments	4217
 Health Sector Committee	17289
 Health Sector Coordinating Committee	16971
@@ -2797,7 +2800,7 @@ HealthTimes	8862,114,253
 HealthUg	19641
 HealthVest	8438
 Healthbridge	8205
-Healthcare	24,742,365,646,163,649,186,12,492,99,413,68,267,132,2,268,97,355,405,71,725,317,450,600,328,254,473,1,1,1,563,760,15,127,97,20,571,16,1,4,55,2,1,3,127,297,3,237,352,13,16,1,1,1,36,132,96,1,9,47,130,1,11,1,3,23,10,69,30,24,163,798,209,715,169,108,155,1,135,93,460,199,260,235,12,29,32,602,9,26,53,164,745,486,76,32,443,36,628,67,1,148,21,14,22,1,65,14,1
+Healthcare	24,742,365,646,163,649,186,12,492,99,413,68,267,132,2,268,97,355,405,71,725,317,450,600,328,254,473,1,1,1,563,760,15,127,97,20,571,16,1,4,55,2,1,3,127,297,3,237,352,13,16,1,1,1,36,132,96,1,9,47,130,1,11,1,3,23,10,69,30,24,163,798,209,715,169,108,155,1,135,93,460,199,260,235,12,29,32,602,9,26,53,164,745,486,76,32,443,36,628,67,1,148,21,14,22,1,65,14,1,48
 Healthcare AI	8301
 Healthcare AI. Diagnostics. Clinical	6214
 Healthcare Access	10837,1315,188,7598
@@ -3432,6 +3435,7 @@ Maria Grazia Dente Public Health and Infectious	10784
 Marie D. Improving National Health Management	1261
 Market Analysis for Health HMIS Health Management	12976
 Masasi DC Health and Slow	19585
+Mass Health Treatment	19988
 Master Health Facility List	11252,403
 Master Health Facility List MP	11252
 Master Index HIS Health Information System	396
@@ -3441,7 +3445,7 @@ Matabeleland South Provincial Health Team Meeting	12508
 Materials Energy Health Care Utilities Hardware	4972
 Maternal Child Health Commodities Warehousing	4202
 Maternal Child and Community Health MCCOD	12338
-Maternal Health	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7056,108,1,169,14,22,1,65,14,1
+Maternal Health	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7056,108,1,169,14,22,1,65,14,1,48
 Maternal Health Action Zambia	13608
 Maternal Health Care	13474,1773
 Maternal Health Health Quality Public Perception	10837,1315,188,7598
@@ -3573,10 +3577,11 @@ Ministry Of Health	19584
 Ministry Responsible for Health	19531
 Ministry of Education MOH Ministry of Health MOT	16935
 Ministry of Education MOH- Ministry of Health MoPT	16872
-Ministry of Health	34,526,206,5,126,80,242,42,393,12,158,43,121,392,83,10,4,166,35,58,269,83,196,109,7,183,1,20,103,84,42,147,110,77,35,15,43,268,297,97,89,37,78,99,19,42,353,467,100,43,24,266,45,379,359,38,23,165,18,112,83,3,2,370,240,439,275,49,65,63,103,59,119,80,227,6,327,114,339,18,37,13,21,35,3,7,1,4,32,16,5,8,23,1,16,47,12,30,52,111,268,16,168,1,3,31,16,19,10,83,152,39,51,13,90,45,13,24,65,1,5,9,11,62,2,3,1,4,41,34,4,53,26,6,10,27,12,10,20,2,5,18,33,22,11,57,25,168,17,2,3,12,14,2,4,1,28,11,6,18,2,38,13,2,26,2,35,2,3,3,58,90,32,54,3,22,5,24,5,14,105,18,82,85,7,21,22,46,11,123,11,16,3,10,34,27,26,22,4,251,33,4,15,74,53,147,13,42,40,56,15,8,8,18,27,13,2,12,62,17,144,47,12,3,80,69,4,32,15,88,3,3,25,9,14,43,111,40,35,61,65,18,34,201,6,95,16,54,14,12,13,169,160,109,3,4,5,15,5,4,6,13,7,5,14,26,4,5,7,65,20,2,28,7,9,43,84,16,32,57,19,4,26,21,136,71,63,235,47,48,109,73,172,108,22,12,20,3,10,14,23,8,34,33,11,26,3,25,15,184,16,122,14,23,81,107,71,52,114,11,2,7,3,8,3,29,1,12,26,18,3,1,22,18,50,3,33,3,2,25,4,6,14,2,1,7,9,2,1,40,39,48
+Ministry of Health	34,526,206,5,126,80,242,42,393,12,158,43,121,392,83,10,4,166,35,58,269,83,196,109,7,183,1,20,103,84,42,147,110,77,35,15,43,268,297,97,89,37,78,99,19,42,353,467,100,43,24,266,45,379,359,38,23,165,18,112,83,3,2,370,240,439,275,49,65,63,103,59,119,80,227,6,327,114,339,18,37,13,21,35,3,7,1,4,32,16,5,8,23,1,16,47,12,30,52,111,268,16,168,1,3,31,16,19,10,83,152,39,51,13,90,45,13,24,65,1,5,9,11,62,2,3,1,4,41,34,4,53,26,6,10,27,12,10,20,2,5,18,33,22,11,57,25,168,17,2,3,12,14,2,4,1,28,11,6,18,2,38,13,2,26,2,35,2,3,3,58,90,32,54,3,22,5,24,5,14,105,18,82,85,7,21,22,46,11,123,11,16,3,10,34,27,26,22,4,251,33,4,15,74,53,147,13,42,40,56,15,8,8,18,27,13,2,12,62,17,144,47,12,3,80,69,4,32,15,88,3,3,25,9,14,43,111,40,35,61,65,18,34,201,6,95,16,54,14,12,13,169,160,109,3,4,5,15,5,4,6,13,7,5,14,26,4,5,7,65,20,2,28,7,9,43,84,16,32,57,19,4,26,21,136,71,63,235,47,48,109,73,172,108,22,12,20,3,10,14,23,8,34,33,11,26,3,25,15,184,16,122,14,23,81,107,71,52,114,11,2,7,3,8,3,29,1,12,26,18,3,1,22,18,50,3,33,3,2,25,4,6,14,2,1,7,9,2,1,40,39,48,30,6
 Ministry of Health ADD FIN TBL1	16922
 Ministry of Health Act	16860
 Ministry of Health Annual Budget Performance Report	12976
+Ministry of Health Child	20004
 Ministry of Health Community Development	1261
 Ministry of Health Crisis	17157
 Ministry of Health Data Governance Manual	3861
@@ -3943,7 +3948,7 @@ National Health Insurance BUI. Retrieved	1009
 National Health Insurance Bill	1009
 National Health Insurance Bill. Retrieved	1009
 National Health Insurance Consultancy	12606
-National Health Insurance Fund	396,2379,5442,166,2750,1094,4669,974,64,1597,10,44
+National Health Insurance Fund	396,2379,5442,166,2750,1094,4669,974,64,1597,10,44,405
 National Health Insurance Fund Act	19585
 National Health Insurance Fund Act Cap	19531
 National Health Insurance Fund Using ERMS	19584
@@ -4494,7 +4499,7 @@ Public Health and Epidemiology Public Hea2l5th	1154
 Public Health. College of Social Science	13368
 Public Hygiene and Universal Health Access	19284
 Public Hygiene and Universal Health Coverage of Côte	10928
-Public Perception of Health Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Public Perception of Health Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Public Perception of Health Provision Education	10759,1395
 Public Perception of Health Provision Reading	11889,452
 Public and Environmental Health Act	14343
@@ -5174,8 +5179,9 @@ United Nations VHS Village Health Service	16896
 United Republic of Tanzania. Bull World Health	771
 United States' America First Global Health	4674
 Universal Health	12976
-Universal Health Coverage	396,508,357,2343,561,136,2093,1060,377,386,717,270,651,474,312,135,89,55,50,498,1,279,256,236,321,8,37,123,276,158,3,58,546,1003,489,294,421,55,9,177,753,318,580,293,139,4,173,34,20,27,23,75,280,347,260,58,42,183,62,85
+Universal Health Coverage	396,508,357,2343,561,136,2093,1060,377,386,717,270,651,474,312,135,89,55,50,498,1,279,256,236,321,8,37,123,276,158,3,58,546,1003,489,294,421,55,9,177,753,318,580,293,139,4,173,34,20,27,23,75,280,347,260,58,42,183,62,85,16
 Universal Health Coverage Day	10776
+Universal Health Coverage Fund	20001
 Universal Health Coverage Program. While the Equity	18301
 Universal Health Coverage Project	19284
 Universal Health Coverage Roadmap	9204

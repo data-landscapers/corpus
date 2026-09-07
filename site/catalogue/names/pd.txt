@@ -35,7 +35,7 @@ Appraisal Document PAD PDO Project Development	11855
 Appraisal Document PDO Project Development Objective	15511
 Appraisal PDO	15663
 Arabic PDF	11153
-Assessment of Relevance of PDOs and Rating	15511,90,130,2131
+Assessment of Relevance of PDOs and Rating	15511,90,130,2131,2126
 Assessment of Relevance of PDOs and Rating Overall Rating	18825
 Assessment of Relevance of PDOs and Rating PDO Relevance	11924
 Assessment of Relevance of PDOs and Rating Rating	15424,239,3102
@@ -169,11 +169,11 @@ Head PDU	13473
 Health Compact PDQ Patient Identifier Cross-referencing	1009
 Health and Safety PDA Payment Distribution Agent	11198
 High Assessment of Relevance of PDOs and Rating	17849
-High. B. ACHIEVEMENT OF PDOs	16436,2329
+High. B. ACHIEVEMENT OF PDOs	16436,2329,1223
 I Série PDF	4557
 ICTA-hosted PDF	11788
 IFC PDF	2215
-II. OUTCOME A. RELEVANCE OF PDO	11924,4512,2389
+II. OUTCOME A. RELEVANCE OF PDO	11924,4512,2389,1163
 II. OUTCOME A. RELEVANCE OF PDOs	15511,90,62,2199,903
 II. PROJECT DEVELOPMENT OBJECTIVES A. PDO	11525
 III. OUTCOME A. RELEVANCE OF PDOs	15424
@@ -325,6 +325,7 @@ PD Processing	11956
 PD Wome Youth Total PD Women	19585
 PD-RIN	15388
 PDA PDS ORGANISATION NON GOUVERNEMENTALE PROGRAMME	18105
+PDA PERSONAL DIGITAL ASSISTANT PNDS PLAN	19986
 PDAC Rapports	15580
 PDADD	18763
 PDALM Plan Directeur	17907
@@ -440,7 +441,7 @@ PDI2T Phase	715,143
 PDI2T. Scope	715
 PDIA Toolkit	11006,1
 PDIA Toolkit’s Section	11007
-PDIDAS	18293,97
+PDIDAS	18293,97,1657
 PDIDAS Project	18293
 PDIDAS World Bank-funded	18293
 PDIR-Now	12957
@@ -475,8 +476,9 @@ PDO INAM	19284
 PDO Indicator	3604,11820,1190,1235,905,491,602
 PDO Indicator Baseline	15511
 PDO Indicator Indicator	15601
+PDO Indicator Modifications Indicator	19988
 PDO Indicator Split	15601
-PDO Indicators	1264,603,845,892,1049,35,1891,349,949,2891,102,525,22,488,19,41,6,17,240,39,145,28,587,31,862,1060,37,14,107,21,499,1,2,74,2,276,19,47,65,43,249,269,244,45,6,79,17,362,12,35,399,54,4,171,217,4,1,4,175,258,25,8,258,159,3,4,35,197,348,6,12
+PDO Indicators	1264,603,845,892,1049,35,1891,349,949,2891,102,525,22,488,19,41,6,17,240,39,145,28,587,31,862,1060,37,14,107,21,499,1,2,74,2,276,19,47,65,43,249,269,244,45,6,79,17,362,12,35,399,54,4,171,217,4,1,4,175,258,25,8,258,159,3,4,35,197,348,6,12,154
 PDO Indicators Beneficiaries of SSN	11924
 PDO Indicators Definition	15553
 PDO Indicators Direct	13917
@@ -526,6 +528,7 @@ PDO Outcomes Improving	11905
 PDO Outcomes Increase	2712,3867,4189,2259,2132,2799,397
 PDO Outcomes Increased	10870,1101,4061,1872
 PDO Outcomes Increasing	6928
+PDO Outcomes Legal	19990,11
 PDO Outcomes Legal Robustness Baseline Actual	15735
 PDO Outcomes Monitoring	1867
 PDO Outcomes Objective	18354
@@ -550,7 +553,7 @@ PDO Project Development Objective PCU Project	15731
 PDO Project Development Objective PER Public	17441
 PDO Project Development Objective PHF Public	15663
 PDO Project Development Objective PI Productive	16187
-PDO Project Development Objective PIM Project	1264,17029
+PDO Project Development Objective PIM Project	1264,17029,1695
 PDO Project Development Objective PIU Project	17849,452
 PDO Project Development Objective PforR Program	19245
 PDO Project Development Objective The World	2473
@@ -569,13 +572,14 @@ PDO Table SPACE Page	1284,12047,3591
 PDO and DLIs	11905
 PDO and IP	14966,1648
 PDO and IPs	19455
-PDO and IRI	16436
+PDO and IRI	16436,3552
 PDO and Implementation Progress	1290,765,834,11567,3903
 PDO and Intermediate Indicators	18825
 PDO and Intermediate Results Indicators	16949
 PDO and Key	18754
 PDO and Overall Implementation Progress	1284,490,699,10905,14,3006
 PDO and Results Framework	15663
+PDO for WURI Phase	19990
 PDO of GEHSSP	16922
 PDO- Page	15601
 PDO- and Intermediate	1228
@@ -583,7 +587,7 @@ PDO-1	15702
 PDO-2	15702
 PDO-Level Indicators	10768
 PDO-Level Indicators Baseline End Target	11417
-PDO-level	761,467,476,1185,1764,2180,3996,135,941,1473,14,1627,119,373,90,835,460,26,27,521,1295,60
+PDO-level	761,467,476,1185,1764,2180,3996,135,941,1473,14,1627,119,373,90,835,460,26,27,521,1295,60,1163
 PDO-level Indicator	1228,11883,3076
 PDO-level Indicators	18765
 PDO-level Indicators Students	13392
@@ -597,6 +601,7 @@ PDO. Details	18825
 PDO. In the RF	15663
 PDO. M&E	19455
 PDO. MoHAIS	1867
+PDO. PDO-level	19988
 PDO. Project	15511
 PDO. Revised	11965
 PDO. The COVID-19 Project	16922
@@ -611,7 +616,7 @@ PDO3. Overall Efficacy Rating Moderately Unsatisfactory	10779
 PDOIS	10070
 PDOIs	19455
 PDOlevel	10779
-PDOs and Outcome Targets	16436
+PDOs and Outcome Targets	16436,3552
 PDOs and Outcome Targets The PDO	15511
 PDOs and Rating Relevance	17962
 PDOs for WARCIP	15424
@@ -769,6 +774,7 @@ Post PDO Project Development Objective PEFA	13861
 Prime Minister PDM Parish Development Model	19642
 Privacy Notices and Consent The PDPC	19910
 Private Capital Mobilization PDO Project Development	6539,10560
+Program PDO Indicators	19990
 Program. Revised PDO	15663
 Programmation des PDVC	17864
 Programme NGO Non-Governmental Organizations PDSR Product	12975
@@ -789,6 +795,7 @@ RESULT FRAM E TBL PD O Indicator Name PBC	15518
 RESULT FRAME T BL PD O Indicator Name	11855
 RESULT FRAME TBL PD O Indicator Name PBC	10829,135,4589,1343,26
 RESULT NO PDO Second	16922
+RESULTS FRAMEWORK PDO Indicators	19988
 RESULTS INDICATORS A.1 PDO Indicators Objective	15424,177,62
 REVISED PDO INDICATORS	15601
 REVISED PDO INDICATORS Original PDO Indicator	15601
@@ -803,10 +810,13 @@ Rack PDU	10956
 Rack PDU Fully	9446
 Rashad Cassim PDF	6672
 Redundant PDUs	13185
+Refining the PDI of Phase	19990
 Registration Form PDF File	15207
 Registration Renewal Form PDF File	15207
 Regulations. RESOLUTION OF ISSUES BY PDPO	3307
 Relevance of PDO and Design	13378
+Report No. PD000185	20031
+Report No. PD000221	20040
 Report PDF	1985
 Research Square Cite Share Download PDF	12379
 Responsibility PDO Level Results Indicators	15372
@@ -814,9 +824,10 @@ Responsibility for Data Collection MoH-UHC PDO Outcome	19284
 Results Framework. At the PDO	4653
 Results Framework. The PDO and PDO-level	16896
 Revenue PDO Project Development Objective PDMD	18577
+Review PDO Project Development Objective PIU	19990
 Review PDO3	10779
 Revised PDO	13826,1905,883,2140,71
-Revised PDO Indicators	11924,3500,1012,1413,113,803
+Revised PDO Indicators	11924,3500,1012,1413,113,803,1223
 Revised PDO Indicators PDO	15511
 Revised PDO Indicators and Targets	15601,62
 Revised PDO The Project Developement Objectives	17849
@@ -859,6 +870,7 @@ Specifically the PDO	1867
 State of Internet Freedom in Africa Report .pdf	14664
 Sub-Saharan Africa Download PDF	19823
 Substantial Substantial Results PDO Indicators	15619
+Substantial. PDO	19988
 Suivi- Evaluation du PDDSP	13341
 System PDU Presidential Delivery Unit PO	13005
 Sécurité Alimentaire PDC Plan de Développement Communal	18286

@@ -18,6 +18,9 @@ Assignment of Scarce Resources	18444
 B. Scale-up	18825
 BENIN ELECTRICITY ACCESS SCALE-UP PROJECT	15515
 Banana Large Scale Avocado	19554
+Bank Group IDA Scale-Up Facility	20019
+Benin Electricity Access Scale-Up Project	20019
+Benin Electricity Access Scale-Up Project World	20019
 Benin Electricity Access Scale-up Project	15515
 Board of Scancom PLC	8813
 Botswana Innovation Fund and Scalar International	5447
@@ -67,6 +70,7 @@ Dec Added. Scalable	16032
 Definitions and Scales Annex II	12214
 Deployment of Non-Intrusive Cargo Scanners	14985
 Description Scaling Up DIME	11295
+Description World Bank IDA Scale-Up Facility	20019
 Design Scalability	11952
 Develop Scalable FinTech Literacy Curriculum	12444
 Development of Likelihood and Severity Scales	17114
@@ -138,8 +142,8 @@ Government Single Portal. Scaled-up	11965
 Guarantee Amount Total Amount Scale-Up Window	19239
 Guidelines Scarce Resource Management	16889
 Guinea Electricity Access Scale Up	16654
-Guinea Electricity Access Scale Up Project	16654,1
-Guinea Electricity Access Scale Up Project-Phase	16654,1,41
+Guinea Electricity Access Scale Up Project	16654,1,3347
+Guinea Electricity Access Scale Up Project-Phase	16654,1,41,3306
 Guinea-Bissau. Scan the QR	17164
 HARMFUL INFORMATION DO NOT SCAMS	11964
 HP Smart Document Scan Software	34
@@ -154,6 +158,7 @@ IDA SCALE-UP WINDOW	19239
 IDA Scale-Up Facility	10997
 IDA Scale-Up Window	3604,176,11751
 IDA Scale-Up Window-Shorter Maturity Loan	11905
+IDA-financed Guinea Electricity Access Scale Up	20002
 INCENTIVES AND SCARCE RESOURCES	18463
 INFORMATION ON WEBSITES SCAMS OR BATTERY	11964
 INFORMATION ON WEBSITES SCAMS OR INCONSISTENT	11004
@@ -231,6 +236,8 @@ Operational Scalability	8999
 Operational Scale	12053
 Operational Scaling	8283
 Organiser Time Location Attendance RATING SCALE	17099
+Outcome. Scalability	19988
+Output. Scalability	19988
 PAGE-IMAGE SCAN	2561
 PAPSS Scan	17242,1247
 PAPSS. Scan	11002
@@ -239,6 +246,7 @@ PRINTERS AND SCANNERS STANDARDS AND GUIDELINES	34
 PTS Political Terror Scale	11887,266,1,9,178,7517,1
 Passport Scandal	10644,6714
 Pays Scandinaves	18427
+Pilot and Scale	20004
 Pipeline Scaling	6832
 Pipeline Scaling Set	6832
 Political Terror Scale	19653,183
@@ -284,7 +292,7 @@ SAIs Scale	17364
 SAST Static Application Security Testing SCA	11952
 SCA Schutz JA	2307
 SCA Supreme Court of Appeal SCM Supply	11198
-SCADA	1539,6034,2496,2330,947,2313,43,67,128,72,14,72,2429,463,716,14,124
+SCADA	1539,6034,2496,2330,947,2313,43,67,128,72,14,72,2429,463,716,14,124,223
 SCADA Supervisory Control and Data Acquisition	18614
 SCADA Supervisory Control and Data Acquisition SDG	15515
 SCADA-type	87
@@ -447,12 +455,12 @@ Scaled	11965,3116,2068,1329
 Scaled Roads M1 Narrow Money	2775
 Scaled-UP	2819
 Scaled-up	15960
-Scales	12359,473
+Scales	12359,473,7216
 Scaleup Corridor	4194
 Scaleway	5846,1033,1880
 Scaleway and S3NS	5846
 Scaleway. Schwarz Digits	6879
-Scaling	396,1432,1178,1760,2782,332,95,401,722,1059,31,484,30,61,27,3,338,5,86,73,15,262,51,329,85,104,34,35,4,41,42,205,5,182,320,86,300,1,1060,218,144,104,25,50,76,57,330,199,2,104,248,830,123,30,96,197,169,45,287,80,92,508,8,767,326,303,100
+Scaling	396,1432,1178,1760,2782,332,95,401,722,1059,31,484,30,61,27,3,338,5,86,73,15,262,51,329,85,104,34,35,4,41,42,205,5,182,320,86,300,1,1060,218,144,104,25,50,76,57,330,199,2,104,248,830,123,30,96,197,169,45,287,80,92,508,8,767,326,303,100,16
 Scaling AI	1467,9668
 Scaling AI Readiness Across Borders	12723
 Scaling AI for SMEs	6886

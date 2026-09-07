@@ -132,7 +132,7 @@ Africa. World Bank Group Page	10768
 Africa. World Bank Group. Bastagli	10768
 AfricaNenda and Equity Group	7073
 African Caucus World Bank Group Meeting	17235
-African Development Bank Group	1715,415,677,4,54,92,1186,71,626,130,381,1530,571,755,320,935,1,442,317,493,3,419,726,1114,87,365,509,147,34,2059,1,40,149,410,6,321,130,304,401,58,59,9,81,715,158,799
+African Development Bank Group	1715,415,677,4,54,92,1186,71,626,130,381,1530,571,755,320,935,1,442,317,493,3,419,726,1114,87,365,509,147,34,2059,1,40,149,410,6,321,130,304,401,58,59,9,81,715,158,799,218,7
 African Development Bank Group Amb. Baba	7452
 African Development Bank Group Approves	11310,7552
 African Development Bank Group Avenue Joseph	10718
@@ -271,6 +271,7 @@ Bank Group Country Manager for Rwanda	14871
 Bank Group Director General for Nigeria	5351,4871
 Bank Group Environment	1988
 Bank Group Funded Operations	13938
+Bank Group IDA Scale-Up Facility	20019
 Bank Group Strategy	4840,9045
 Bank Group TABLE OF CONTENTS DATASHEET	13331,2222
 Bank Group Technical Report	10841
@@ -556,7 +557,7 @@ DES GROUPEMENTS RURAUX Article	18094
 DES SUBSTANCES MINERALES DU GROUPE	17827
 DETAILS Non-World Bank Group Financing Trust	13523
 DETAILS World Bank Group Financing	13787,2867
-DETAILS World Bank Group Financing International	1704,163,424,1271,7206,792,1551,904,1646,82,932,2570,162
+DETAILS World Bank Group Financing International	1704,163,424,1271,7206,792,1551,904,1646,82,932,2570,162,595
 DETAILS-NewFinEnh1 World Bank Group Financing International	10829
 DETECTOR SECURITY GROUP LIMITED Data Controller	7167
 DFIs Cede Ground	4972
@@ -1046,7 +1047,7 @@ Groundwater Storage Anomalies	17157
 Groundwater Storage HDX Humanitarian Data Exchange	17157
 Groundwater and Boreholes	1988
 Grouos	19585
-Group	157,65,1,1,3,3,88,91,16,148,10,167,13,9,1,14,184,3,5,8,5,1,3,7,10,10,1,119,54,87,294,192,1,7,40,81,45,44,59,42,537,149,708,121,31,79,139,45,159,95,62,118,28,252,65,75,144,240,15,1,453,71,1,3,100,320,77,55,154,37,116,249,60,50,43,5,1,126,131,38,249,165,219,158,2,1,1,86,1,1,3,21,54,227,8,75,90,124,290,382,46,133,61,24,100,62,1,79,144,140,28,1,404,117,1,28,17,8,26,25,119,1,155,2,110,267,65,246,58,119,228,83,5,56,55,31,68,22,226,212,59,5,1,57,217,150,45,16,112,144,62,181,119,183,64,18,281,21,37,145,8,4,1,154,113,54,61,88,14,2,85,80,51,84,37,23,1,211,6,66,14,132,9,30,7,188,149,215,124,42,8,307,110,212,41,123,380,331,34,68,354,335,149,52,9,189,9,14,35,101,84
+Group	157,65,1,1,3,3,88,91,16,148,10,167,13,9,1,14,184,3,5,8,5,1,3,7,10,10,1,119,54,87,294,192,1,7,40,81,45,44,59,42,537,149,708,121,31,79,139,45,159,95,62,118,28,252,65,75,144,240,15,1,453,71,1,3,100,320,77,55,154,37,116,249,60,50,43,5,1,126,131,38,249,165,219,158,2,1,1,86,1,1,3,21,54,227,8,75,90,124,290,382,46,133,61,24,100,62,1,79,144,140,28,1,404,117,1,28,17,8,26,25,119,1,155,2,110,267,65,246,58,119,228,83,5,56,55,31,68,22,226,212,59,5,1,57,217,150,45,16,112,144,62,181,119,183,64,18,281,21,37,145,8,4,1,154,113,54,61,88,14,2,85,80,51,84,37,23,1,211,6,66,14,132,9,30,7,188,149,215,124,42,8,307,110,212,41,123,380,331,34,68,354,335,149,52,9,189,9,14,35,101,84,150
 Group A	10785
 Group A Group Option Response	19887
 Group A and B Bids	13185
@@ -1377,7 +1378,7 @@ Groupes Effets	13442
 Groupes Electrogènes Diesel	17846
 Groupes Fermés	18291
 Groupes Moov	4459
-Groupes Techniques Consultatifs	18105
+Groupes Techniques Consultatifs	18105,1881
 Groupes Thématiques	17983
 Groupes Vulnérables	18286
 Groupes de Travail	9406,3928
@@ -1473,6 +1474,7 @@ ID and KRA PIN. Focus Group	12227
 IDA Credit Non-World Bank Group Financing	3456
 IDA19 du Groupe	15474,19
 IEG Independent Evaluation Group	19847
+IEG Independent Evaluation Group IRR Internal	19988
 IGAD-RAD Expert Technical Working Group and Steering	14434
 IGME United Nations Inter-agency Group for Child	10759,76,2,1,130,902,16,3,451,12,1,135,7334
 IHS Group	10793
@@ -1517,7 +1519,7 @@ Income Group Wealthiest Income Group Poorest	10829
 Income Groups	10829
 Income Quintile Group BURUNDI C	13624
 Income Quintile Group Text Figure	13624
-Independent Evaluation Group	10779,531,2540,1038,2008,2951
+Independent Evaluation Group	10779,531,2540,1038,2008,2951,141
 India's KP Group	12577
 India’s Adani Group	6231
 Indicators Liberia Regional Average Income Group	17011
@@ -1708,6 +1710,7 @@ Location Groupe	16714
 Loita Group	7705
 London Stock Exchange Group	7007
 Low Participation of Women and Vulnerable Groups	13998
+Luis Benveniste Practice Group Vice President	19988
 L’évaluation du Groupe	1679
 M&E Monitoring and Evaluation MIGOP Guarantees Group	18754
 M2M Group	5111,183
@@ -1976,6 +1979,7 @@ Non-Communicable Group III	12413
 Non-World Bank Group Financing	3604,7164,649,971,444,2078,27,1207,149,3350,20,172
 Non-World Bank Group Financing Commercial Financing	1704,587,1271,9769,3323,2591
 Non-World Bank Group Financing Counterpart Funding	14015
+Non-World Bank Group Financing Other Sources	20002
 Non-World Bank Group Financing The World	11905
 Non-World Bank Group Financing Trust Funds	10829,2282,221,1644,685,723,291,247,2485
 Nordic Consulting Group	13957
@@ -2757,7 +2761,7 @@ World Bank Group For Livestream	11839
 World Bank Group For Official Use	17470
 World Bank Group Février	17896
 World Bank Group GBON Global Basic	13729
-World Bank Group Gender Strategy	19455,392
+World Bank Group Gender Strategy	19455,392,155
 World Bank Group Gender Strategy FY16	10964
 World Bank Group Gender Strategy. PASEL	15659
 World Bank Group General Environmental Health	1988

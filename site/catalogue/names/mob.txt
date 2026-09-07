@@ -6,6 +6,7 @@ ACM Mobile	1009
 ADLVRS and MOT-OVRS Mobile App Monrovia	17142
 ADLVRS and MOT-OVRS Mobile App URL	17142
 AFRICA SMART MOBILITY SOLUTIONS KENYA LIMITED	7167
+AGER. Mobilisation	20002
 AGT MOBILE Website	10762
 AGT Mobile	10762
 AGT Mobile Banco	10762
@@ -946,6 +947,7 @@ MNOs Mobile Network Operators MoU Minutes	6671
 MNOs. Mobile	10856
 MNOs. Telkom Mobile	11259
 MNP Mobile Number Portability MOU Memorandum	6946
+MOB Ministry of Budget MOPS Ministry of Public	19988
 MOBATA	15744
 MOBEX Africa Tech Innovation Conference	5970
 MOBI.KE	6946
@@ -1079,6 +1081,7 @@ Malawi Digital ID Mobile App Wallet	13080
 Malawi Mobile	14674
 Malawi Mobilizes Grant Funds Building	1828
 Mali and Mauritania. Mobile	15550
+Mamadama Sylla Orange Finances Mobiles Guinée	20005
 Manage Mobility	16874
 Managing Director of Mobile Telecommunications Limited	12986
 Map Showing the Consolidated Mobile Network	19728
@@ -1114,7 +1117,7 @@ Minister of Territorial Administration and Mobility	16317
 Minute Mobile Tariffs	6946
 Minutes Domestic Mobile	6946
 Mn Mobile	3898
-MoBSE	1000,3829,1219,7010,3794,57,2,16,178
+MoBSE	1000,3829,1219,7010,3794,57,2,16,178,2922
 MoBSE Capacity	16927
 MoBSE Headquarters	16852
 MoBSE Ministry of Basic and Secondary Education MoFEA	16852
@@ -1144,7 +1147,7 @@ Mobil Banking	3715
 Mobil Component	17219
 Mobil Money	6045
 Mobil Virtuel	17824
-Mobile	50,186,86,74,22,1,163,31,26,79,43,61,118,29,29,11,4,24,182,9,56,79,21,142,15,42,40,2,2,68,82,38,3,10,35,81,44,34,277,32,150,1,1,1,1,4,1,1,1,1,2,1,1,1,1,1,3,1,1,1,3,13,181,72,1,9,217,9,30,159,74,18,113,17,38,27,20,24,120,13,27,83,15,7,66,36,10,1,3,2,3,1,1,1,44,9,19,114,15,6,23,45,6,6,58,252,38,4,4,56,59,9,45,21,72,15,24,9,23,10,58,16,24,37,21,63,18,91,10,1,2,73,20,3,190,44,4,14,8,27,35,10,12,28,29,27,51,50,8,120,30,29,14,27,3,53,48,8,138,15,20,154,34,10,10,10,68,37,6,23,26,10,43,16,2,8,9,41,46,8,8,24,147,31,65,80,14,87,11,82,26,24,1,21,6,23,24,43,25,65,10,14,153,3,78,11,3,24,86,38,9,216,14,37,86,46,43,47,37,6,1,12,26,32,28,39,122,25,18,19,9,64,87,153,96,49,51,2,14,55,72,50,9,12,23,38,104,23,35,115,2,89,15,6,68,146,342,10,1,17,19,10,1,18,3,12,3,2,4,11,56,32,1,4,8,3,24,13,15,47,51,3,5,2,28,27,16,51,12,36,190,63,48,46,66,7,127,18,4,5,1,10,7,1,15,17,9,8,3,5,4,1,4,2,15,8,8,4,26,18,40,25,23,21,1,28,17,9,32,3,13,7,1,2,6,8,11,3,33,11,7,4,4,17,9,10,8,6,17,15,3,3,10,30,13,36,65,15,25,16,102,158,88,32,32,15,31,180,17,1,1,17,13,2,1,43,87,55,9,17,28,89,6,208,89,36,18,66,53,87,30,126,5,6,269,49,19,8,10,2,16,3,33,9,13,17,27,3,5,9,8,4,21,35,32,23,2,1,62,35,10,6,69,1,15,61,20,18,22,30,39,13,23,24,5,4,11,22,5,32,3,21,22,4,1,16,4,8,33,51,7,54,69,1,75,1,40,67,1,15,3,1,3,94,297,224,123,2,23,63,8,39,1,10,6,2,33,9,34,27,35,26,8,13,12,10,38,41,7,4,11,126,163,11,193,2,1,87,29,8,7,1,4,20,4,19,46,151,1,10,226,85,12,6,14,27,54,14,6,39,4,13,55,15,12,39,23,110,44,86,134,86,8,93,194,1,9,13,67,11,6,2,1,9,8,43,13,13,28,106,3,5,8,11,14,28,1,8,12,14,4
+Mobile	50,186,86,74,22,1,163,31,26,79,43,61,118,29,29,11,4,24,182,9,56,79,21,142,15,42,40,2,2,68,82,38,3,10,35,81,44,34,277,32,150,1,1,1,1,4,1,1,1,1,2,1,1,1,1,1,3,1,1,1,3,13,181,72,1,9,217,9,30,159,74,18,113,17,38,27,20,24,120,13,27,83,15,7,66,36,10,1,3,2,3,1,1,1,44,9,19,114,15,6,23,45,6,6,58,252,38,4,4,56,59,9,45,21,72,15,24,9,23,10,58,16,24,37,21,63,18,91,10,1,2,73,20,3,190,44,4,14,8,27,35,10,12,28,29,27,51,50,8,120,30,29,14,27,3,53,48,8,138,15,20,154,34,10,10,10,68,37,6,23,26,10,43,16,2,8,9,41,46,8,8,24,147,31,65,80,14,87,11,82,26,24,1,21,6,23,24,43,25,65,10,14,153,3,78,11,3,24,86,38,9,216,14,37,86,46,43,47,37,6,1,12,26,32,28,39,122,25,18,19,9,64,87,153,96,49,51,2,14,55,72,50,9,12,23,38,104,23,35,115,2,89,15,6,68,146,342,10,1,17,19,10,1,18,3,12,3,2,4,11,56,32,1,4,8,3,24,13,15,47,51,3,5,2,28,27,16,51,12,36,190,63,48,46,66,7,127,18,4,5,1,10,7,1,15,17,9,8,3,5,4,1,4,2,15,8,8,4,26,18,40,25,23,21,1,28,17,9,32,3,13,7,1,2,6,8,11,3,33,11,7,4,4,17,9,10,8,6,17,15,3,3,10,30,13,36,65,15,25,16,102,158,88,32,32,15,31,180,17,1,1,17,13,2,1,43,87,55,9,17,28,89,6,208,89,36,18,66,53,87,30,126,5,6,269,49,19,8,10,2,16,3,33,9,13,17,27,3,5,9,8,4,21,35,32,23,2,1,62,35,10,6,69,1,15,61,20,18,22,30,39,13,23,24,5,4,11,22,5,32,3,21,22,4,1,16,4,8,33,51,7,54,69,1,75,1,40,67,1,15,3,1,3,94,297,224,123,2,23,63,8,39,1,10,6,2,33,9,34,27,35,26,8,13,12,10,38,41,7,4,11,126,163,11,193,2,1,87,29,8,7,1,4,20,4,19,46,151,1,10,226,85,12,6,14,27,54,14,6,39,4,13,55,15,12,39,23,110,44,86,134,86,8,93,194,1,9,13,67,11,6,2,1,9,8,43,13,13,28,106,3,5,8,11,14,28,1,8,12,14,4,25,9
 Mobile AI-Powered Diagnostics Equip	17157
 Mobile Access	18557
 Mobile Access Centers	2868
@@ -1242,7 +1245,7 @@ Mobile Commerce Congo	15848
 Mobile Commerce Congo S.A	2436,13412
 Mobile Commerce Congo S.a	15848
 Mobile Communication System	13331,5446
-Mobile Communications	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Mobile Communications	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Mobile Communications Associations GUE Guichet Unique	13312,2
 Mobile Communications GUP Guichet Unique Provincial	13331
 Mobile Communications HDI Human Development Index	17862
@@ -1706,7 +1709,7 @@ Mobile Traffic Trends	6946
 Mobile Traffic Trends FY	6946
 Mobile Training Units	7021
 Mobile Urbanity	12227
-Mobile Virtual Network Operator	3695,8069,6060,747,1
+Mobile Virtual Network Operator	3695,8069,6060,747,1,1473
 Mobile Virtual Network Operators	7401,1440,2418,6611
 Mobile Virtual Network Operators NDS1	958
 Mobile Virtual US	736
@@ -1773,6 +1776,7 @@ Mobile-First	18446
 Mobile-First Society	4528,7984
 Mobile-First Today	18446
 Mobile-Gouvernement	15778
+Mobile-Health	19986
 Mobile-ID	14748,71,146
 Mobile-Internet Connectivity-SSA-Factsheet.pdf	15447
 Mobile-InternetConnectivity-SSA-Factsheet.pdf	15480
@@ -1839,7 +1843,7 @@ Mobilis	1886,266,2016,27,779,84,3770,2933,3710
 Mobilis and Djezzy	2152
 Mobilis and Ooredoo	8828
 Mobilisant	8891
-Mobilisation	1679,314,349,822,232,2987,1287,173,1204,1664,1,146,16,1,1,89,223,855,1305,85,43,37,912,63,1,1,132,313,446,161,38,3,90,51,14,8,37,14,51,189,10,122,36,277,63,339,217,384,191,151,52,3,91,40,2,90,12,5,169,31,578,321,5,24,41,57
+Mobilisation	1679,314,349,822,232,2987,1287,173,1204,1664,1,146,16,1,1,89,223,855,1305,85,43,37,912,63,1,1,132,313,446,161,38,3,90,51,14,8,37,14,51,189,10,122,36,277,63,339,217,384,191,151,52,3,91,40,2,90,12,5,169,31,578,321,5,24,41,57,638
 Mobilisation and Costing	16884
 Mobilisation and Registration Division Manager	8838
 Mobilisation and Research Promotion Partnerships RCZ	1554
@@ -1851,7 +1855,7 @@ Mobilisation des Ressources	16485,1099
 Mobilisation des Ressources Internes	8557
 Mobilisation des Ressources Internes Mbps Mégabits	16626
 Mobilisation du Fonds	19220
-Mobilise	940,874,5225,4149,1052,402,322,1854,2283,2261
+Mobilise	940,874,5225,4149,1052,402,322,1854,2283,2261,642
 Mobilise Financial Resources	12935
 Mobilise Investment and Catalyse Sustainable Fintech Growth	14819
 Mobilise US	18532
@@ -1881,7 +1885,7 @@ Mobility and Urban Life Transport and Mobility	14566
 Mobility. Hybrid	9123
 Mobility54. Available	12376
 Mobility54123	12376
-Mobilité	3055,299,42,1321,154,888,926,2137,2052,5,96,2467,987,1071,42,394,446,87,1372,41,354,29,41,968,92
+Mobilité	3055,299,42,1321,154,888,926,2137,2052,5,96,2467,987,1071,42,394,446,87,1372,41,354,29,41,968,92,631
 Mobilité Prévisions Montant	3396
 Mobilité Urbaine	3396,12540
 Mobilité Urbaine Application	15936
@@ -1920,6 +1924,7 @@ Mobilizing Private Industry	6849
 Mobilizing Private Investment	11310
 Mobilizing Private Investment for Inclusive Growth	10841
 Mobilizing Private Sector Financing	15424
+Mobilizing Private Sector Financing Not Applicable	19988
 Mobilizing Private Sector Financing. Not Applicable	16436
 Mobilizing Private-Sector Financing	15511
 Mobilizing Resources	17127
@@ -2031,7 +2036,7 @@ Orange Finance Mobile	7730
 Orange Finance Mobile Guinée	7730
 Orange Finances Mobiles	5324,2000
 Orange Finances Mobiles Guinee SA	1541,1
-Orange Finances Mobiles Guinée	5387
+Orange Finances Mobiles Guinée	5387,14618
 Orange Finances Mobiles Mali	5324
 Orange Mobile	4695
 Orange Mobile Money	11651
@@ -2101,6 +2106,7 @@ Plan de Mobilisation des Parties Prenantes	14425,63,1,1,1256
 Plan de Mobilisation des Parties Prenantes PV	14488,1,1
 Planned Action Mobile	16884
 Plano Estratégico de Mobilização de Apoio Climático	15962
+Plateforme Mobile-Health	19986
 Plateforme Nationale de Contrôle des Réseaux Mobiles	4802
 Points New Classes Mobile Libraries Literacy	15578
 Portal and Mobile App	3594
@@ -2245,7 +2251,7 @@ Retail Tariffs for Mobile and Fixed Telephone Service	718
 Rev. Interdiscip. Mobil. Hum	10765,10
 Revenu des Capitaux Mobiliers	15999
 Revenu des Valeurs Mobilières	2342
-Revenue Mobilisation	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,5988,1176,1,169,14,22,1,65,14,1
+Revenue Mobilisation	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,5988,1176,1,169,14,22,1,65,14,1,48
 Revenue Mobilisation Absence of Crime	10835,3,130,902,16,466,1,135,7334
 Revenue Mobilisation Allocation and Fiscal Commission	11976
 Revenue Mobilisation Budgetary	10759,78,1315,188,7598

@@ -668,7 +668,7 @@ Le Cadre de Cellule	17899
 Le Cadre de Mesure du Rendement	18286
 Le Directeur du Cadastre	18324,90
 Le Ministère du Cadre	16112
-Le Plan Cadre des Nations Unies	18105
+Le Plan Cadre des Nations Unies	18105,1881
 Le Projet Cadastre	18390
 Levantamento Cadastral Base de Dados Nacional de Verificação	11898
 Licenciamento da Atividade de Cadastro Predial Taxas Devidas	11901
@@ -825,6 +825,7 @@ Section Etudes Cadastrales	16611
 Section Plans Cadastraux	16611
 Secção de Cadastro	11435
 Senegal Cadastre and Land Tenure Improvement Project	18294
+Senegal's Projet Cadastre	20047
 Serviço Central de Cadastro	11384
 Serviços Cadastrais	11514
 Sociale CD Cadre de Dépense CEC Certificat	10876

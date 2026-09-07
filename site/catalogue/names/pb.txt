@@ -43,7 +43,10 @@ Government’s PBF	10829
 HMIS and PBF	10829
 High Commissioner for Human Rights PBF Peace	11586
 Highly Satisfactory. PBF	16896
+I. PBC	20002
 IACV PBC Indicator Name	19284
+II. PBC	20002
+IV. PBC	20002
 Identification of PBC	15659
 Incidents Reported By Pbo Field Monitors	16970
 Indicator Name PBC Baseline Intermediate Targets	16896
@@ -127,6 +130,7 @@ PBC Number	19284
 PBC PBC	13392
 PBC PME PREA PRODIGY RGPD SAMIFIN	14549
 PBC Performance Based Condition PCE Private	15659
+PBC Performance-based Conditions PCU Project Coordination	19988
 PBC UHIS UHIS	16079
 PBC and Project Expenditure Composition Project	15659
 PBC and Sub-PBC	19455
@@ -147,6 +151,7 @@ PBCs. Activity	6539
 PBCs. All	15802
 PBCs. Every	15659
 PBCs. Sub-PBC10	19455
+PBCs. The World Bank	20002
 PBCsis	13392
 PBF Grants	16896
 PBF Manual	10829
@@ -242,4 +247,5 @@ Through the PBO the Ministry	16970
 Training PA Paris Alignment PBC Performance-Based	19455
 Tropical Diseases PBF Performance-Based Financing PMTCT	16971
 Verification Protocol PBC	15659
+World Bank. III. PBC	20002
 ZEEP PBCs	13392

@@ -194,6 +194,7 @@ Business Environment. Harvard Business School	13532
 Business School	9781,7161
 CANIGE School and Sampaka Psychiatric Care Centre	17240
 CENTRAL SCHOOL OF NURSING	14773
+CEPE Primary School Completion Certification	19988
 CLASSROOM CHECKLIST S N Name of School	16963
 CNPS Special School Grants Drive Injects	15883
 CNSS Indicator Name Description Revised School-aged	19284
@@ -356,6 +357,7 @@ Digital Learning for Schools Across SSA UNICEF	724
 Digital School	11760,1223
 Digital School Initiative	12975,6143
 Digital School Programme	19118
+Digital School Registry Pilot Standard Specific	20004
 Digital Schoolbags	15553
 Digital Schools	2550,7629,6988
 Digital Schools Access Fund	4619
@@ -808,6 +810,7 @@ Learn AI. School	14772
 Learners Who Were AI A School	11180
 Learners Who Were At Another School	11180
 Learning FSLC First School Leaving Certificate	15541
+Learning-Adjusted Years of Schooling	19988
 Leone Law School SLP Sierra Leone	18477
 Leqele High School	12741
 Lesotho Secondary Schools	12675
@@ -1017,6 +1020,8 @@ National School of Legal Professions	19234
 National School of Local Administration	3234
 National School of Management	19234
 National Schools Inspectorate Authority	16162
+National Schools of Teachers	19988
+National Service of School Infrastructure and Equipment	19988
 National Training School for Social Service Technicians	10768
 Nations. Google Scholar UN Women	11028
 Nautilus Diaz Primary School Hall	13046
@@ -1126,6 +1131,7 @@ Primary School Achievement Certificate	14815,17
 Primary School Anambra South East	11857
 Primary School Child	15663
 Primary School Child EGP	19855
+Primary School Completion Certification	19988
 Primary School Education	11879
 Primary School Elia Neromba Secondary School	13046
 Primary School Examination Centres	13477
@@ -1335,7 +1341,7 @@ Schonwetter	1243
 Schoo	11180
 SchooiPhases	11180
 SchooiSpecialisation Indicates	11180
-School	899,915,53,80,41,268,410,1726,317,586,586,330,993,467,920,190,233,1299,335,100,108,113,8,157,48,89,586,3,24,1,10,10,13,88,153,1,15,24,6,17,107,22,4,28,28,20,56,83,380,25,2,63,6,241,23,4,18,57,10,19,263,254,56,437,73,54,187,33,12,66,43,26,23,13,286,3,6,300,25,26,57,2,80,102,115,476,24,392,50,7,41,1,45,92,13,4,34,28,66,502,135,14,74,167,335,17,87,42,298,7,20,20,583,8,43,10,120,56,12,52,5,22,3
+School	899,915,53,80,41,268,410,1726,317,586,586,330,993,467,920,190,233,1299,335,100,108,113,8,157,48,89,586,3,24,1,10,10,13,88,153,1,15,24,6,17,107,22,4,28,28,20,56,83,380,25,2,63,6,241,23,4,18,57,10,19,263,254,56,437,73,54,187,33,12,66,43,26,23,13,286,3,6,300,25,26,57,2,80,102,115,476,24,392,50,7,41,1,45,92,13,4,34,28,66,502,135,14,74,167,335,17,87,42,298,7,20,20,583,8,43,10,120,56,12,52,5,22,3,123,7
 School A Matutura New Primary School	13046
 School AMU	19284
 School About Message	12407
@@ -1383,6 +1389,7 @@ School Classroom	15578
 School Classrooms	15578
 School Committees	12975
 School Community Partnerships Establish	16963
+School Complaints Management Committees	19988
 School Connect	17106,160
 School Connect Program	7721
 School Connection	5802
@@ -1484,7 +1491,7 @@ School Lower Secondary Upper Secondary University	19542
 School M.Ed Master of Education MBSSE Ministry	18460
 School MCDSS Ministry of Community Development and Social	13332
 School Majani	19584
-School Management	11927
+School Management	11927,8061
 School Management Committee	16963,2820
 School Management Committee and Parent Teacher Association	13392
 School Management Committees	15661,299,892,111,1497,104,1212
@@ -1600,6 +1607,7 @@ School of Sustainable Development and Tourism SS	14775
 School of Technology	13261
 School-Age Children	15059
 School-Based Interventions	13474
+School-Based Management	19988
 School-Based Management Committee	12037
 School-Day-Report-2024	12345
 School-Feeding	17985
@@ -1611,7 +1619,7 @@ School-aged	15604,1298,2382
 School-based	899,12782,5052
 School-feeding	14896
 School-going Children	899
-School-level	15604
+School-level	15604,4384
 School-level Barriers	899
 School-linked	13681
 School-to-Work	11271,310
@@ -1626,7 +1634,7 @@ Schoolap	16819
 Schooling	11916,24,2956,348,360,57,775,760,1316,1145,58
 Schooling Access Health Services Child Nutrition	15244
 Schooling Status and Selected Background Characteristics	19715
-Schools	899,54,857,57,53,39,29,1616,91,849,2404,389,538,562,1212,139,6,374,496,465,112,616,3,45,11,2,6,3,248,5,16,3,15,39,76,16,66,15,315,65,108,36,25,83,72,138,19,133,54,207,7,213,55,35,107,99,473,166,15,2,43,26,136,422,38,60,26,57,82,217,202,274,239,129,48,34,56,21,297,115,62,272,646,105,1,51,52,53,95,341,489,10,33,191,59,131
+Schools	899,54,857,57,53,39,29,1616,91,849,2404,389,538,562,1212,139,6,374,496,465,112,616,3,45,11,2,6,3,248,5,16,3,15,39,76,16,66,15,315,65,108,36,25,83,72,138,19,133,54,207,7,213,55,35,107,99,473,166,15,2,43,26,136,422,38,60,26,57,82,217,202,274,239,129,48,34,56,21,297,115,62,272,646,105,1,51,52,53,95,341,489,10,33,191,59,131,22
 Schools API	15630
 Schools Average Age of Classroom Teachers Pupils	18460
 Schools Based Community	16963
@@ -1711,6 +1719,7 @@ Senior Secondary School	16963,125
 Senior Secondary School Examination	5321
 Senior Secondary Schools	12552,4553,1459
 Service Federal Housing Authority School Secondary	11129
+Service of School Infrastructure and Equipment	19988
 Sex and School Attendance	19542
 Sexes Mainland Tanzania Primary School	19542
 Sexual Harassment SMC School Management Committee	15661
@@ -1771,6 +1780,7 @@ St. Mary’s High School	11134
 St. Mathews Muromutua School	10313
 St. Monica’s Girls School	5802
 St. Peter’s Rambusi Secondary School	6946
+Standardised School Problem	20004
 Stanford Graduate School of Business	1037
 Stanley Government School	14845
 Stellenbosch University Business School	9349
@@ -1905,6 +1915,7 @@ Workshops and Training and School Grants	14987
 Year School Reports	18911
 Years of Schooling	15244
 Years of Schooling Access Health Services Child	15244
+Years of Schooling LMP Labor Management Plan	19988
 Years of Schooling School Attendance Cooking	15244
 York University School of Law	19854
 ZRP High School	13361

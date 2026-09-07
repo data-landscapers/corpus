@@ -79,6 +79,7 @@ Application Processing Indicator	11986
 Applied Drought Monitoring Indicators for Libya Different	17157
 Area Details Indices Targets	11857
 Area Observed Weakness Indicator Asset Risk	19585
+Assessment CRI Corporate Results Indicators DLI	19988
 Assessment Schedule Workload Staffing Indicator Needs	14622
 Assessment of Indicators Using Health Facility Data	10881
 Assessments Indicators Rating Performance	18754
@@ -106,6 +107,7 @@ BASIC REQUIREMENTS AND MINIMUM STANDARDS INDICATORS	19783
 BOM Assurances of Integrity Data Quality Indicators	14777
 BROAD INDICATORS FOR TRACKING	16884
 Back-end Infrastructure for Indicator Tracking	13395
+Bank WDI World Development Indicators TABLE	19988
 Bank of Ghana Category Indicators	19940
 Bank of Ghana Indicators Number of Registered Customers	19940
 Bank of Ghana Indicators Total Number of Cards	19940
@@ -257,7 +259,7 @@ Core Output Indicators	18125
 Core Welfare Indicator Questionnaire DQAF	14857
 Core Welfare Indicators Questionnaire	17116
 Core and Non-Core Indices	2775
-Corporate Results Indicator	13111,6134
+Corporate Results Indicator	13111,6134,743
 Corporate Results Indicator CSO Civil Society	15138
 Corporate Results Indicator Designated Account Disbursement	15658
 Corporate Results Indicators	11417,3136,4731
@@ -284,6 +286,8 @@ DG Indicator	11986
 DGTED OUTCOME INDICATOR	11863
 DHA ANNUAL PERFORMANCE INDICATORS AND TARGETS	11285
 DISBURSEMENT LINKED INDICATORS	15663
+DISBURSEMENT LINKED INDICATORS DLI	19988
+DISBURSEMENT LINKED INDICATORS....45 ANNEX	19988
 DLI Indicadores Vinculados	11390
 DOA INDIC ATOR UNIT	13938
 DOCUMENT DES PRINCIPAUX INDICATEURS EHCVM2	16084
@@ -328,7 +332,7 @@ Disbursed-Linked Indicators	17458
 Disbursement Linked Indicator	17470
 Disbursement Linked Indicator DREEC	18370
 Disbursement Linked Indicator Disbursement Linked Result	16032
-Disbursement Linked Indicators	10870,6,1029,271,3487,369,1438,35,1477,260,239,74
+Disbursement Linked Indicators	10870,6,1029,271,3487,369,1438,35,1477,260,239,74,433
 Disbursement Linked Indicators DLI	11905
 Disbursement Linked Indicators Matrix	19835
 Disbursement Linked Indicators. Beyond	16922
@@ -495,6 +499,7 @@ Guide Des Indicateurs Du Secteur Santé	17945
 HEADLINE LABOUR FORCE INDICATORS BMTHS	12600
 HEALTH SECTOR INDICATORS7	16971
 HIV Indicators	18441
+HOPITAL PREFECTORAL IDH INDICE DE DEVELOPPEMENT	19986
 HP Hewlett-packard ICA Indice	19350
 HRH INDICATORS	19544
 HUMAN RESOURCE FOR HEALTH INDICATORS	19544
@@ -705,6 +710,7 @@ Improved Quality Indicator Name Baseline Actual	17958
 Impôt OBJECTIFS SPÉCIFIQUES INDICATEURS D’EFFET OBJECTIFS	10712
 Include Indicators	11525,330,7980
 Inclusion Indicator Name Baseline Actual	11971
+Inclusion and Coverage Indicator Name	19990
 Inclusivity Indicators	16975
 Ind Indicadores-Chave	11569
 Ind1.1. Indice	15722
@@ -791,7 +797,7 @@ Indicateur de Développement Humain	15423
 Indicateur de Développement Humain IEC	15423
 Indicateur de Potentiel de Développement	18103
 Indicateur de Résultat Observations Structures	17872
-Indicateurs	643,94,10,18,57,1618,956,2234,298,1727,1236,1967,16,2,89,10,941,28,99,1257,24,1,16,73,19,9,26,118,49,853,1,1,39,8,85,852,1,18,3,4,80,3,40,50,12,27,8,26,53,49,53,7,28,76,25,66,65,160,31,267,88,369,365,387,1,6,1,1,1,11,11,14,1,14,6,43,70,48,42,16,191,614,62,55,177,1,29,41,59
+Indicateurs	643,94,10,18,57,1618,956,2234,298,1727,1236,1967,16,2,89,10,941,28,99,1257,24,1,16,73,19,9,26,118,49,853,1,1,39,8,85,852,1,18,3,4,80,3,40,50,12,27,8,26,53,49,53,7,28,76,25,66,65,160,31,267,88,369,365,387,1,6,1,1,1,11,11,14,1,14,6,43,70,48,42,16,191,614,62,55,177,1,29,41,59,636
 Indicateurs ANJE	13300
 Indicateurs Activité	17845
 Indicateurs Axe	17845
@@ -901,7 +907,7 @@ Indicativos de Ameaças	11569
 Indicativos de Forças	11569
 Indicativos de Fraquezas	11569
 Indicativos de Oportunidades	11569
-Indicator	958,246,24,639,909,3763,132,257,18,276,326,215,2996,9,12,55,2,1,74,56,170,120,612,14,2,1,1,1,6,76,15,165,1,1,1,5,4,42,135,1,10,1,1,3,11,12,16,18,75,112,377,355,15,583,8,835,124,38,62,59,103,5,80,167,13,23,71,35,48,92,32,288,19,11,144,427,229,20,29,50,54,120,11,13,95,1,3,202,302,126,89,4,44,119,225,135,27,242,150,78,302,368,1,130,39,14,22,1,6,59,14,1
+Indicator	958,246,24,639,909,3763,132,257,18,276,326,215,2996,9,12,55,2,1,74,56,170,120,612,14,2,1,1,1,6,76,15,165,1,1,1,5,4,42,135,1,10,1,1,3,11,12,16,18,75,112,377,355,15,583,8,835,124,38,62,59,103,5,80,167,13,23,71,35,48,92,32,288,19,11,144,427,229,20,29,50,54,120,11,13,95,1,3,202,302,126,89,4,44,119,225,135,27,242,150,78,302,368,1,130,39,14,22,1,6,59,14,1,48,8,14
 Indicator Adults	15480
 Indicator Baseline	940,17814,790
 Indicator Baseline Intermediate Targets End Target	12675
@@ -957,7 +963,7 @@ Indicator Level Status Rationale	19284
 Indicator MASAH Ministry of Social Affairs	11924
 Indicator Measure	19743
 Indicator Monitoring	1818
-Indicator Name	10964,2367,2270,3683,459,1
+Indicator Name	10964,2367,2270,3683,459,1,246
 Indicator Name Appraisal Additional Financing Baseline	15663
 Indicator Name Baseline Actual	10870,1101,257,39,173,3529,63,47,108,807,85,879
 Indicator Name Baseline Closing Period	11924,6038
@@ -1101,6 +1107,7 @@ Indicators and Targets All	19902
 Indicators and Targets The MERL Matrix	7548
 Indicators and Triggers	12175
 Indicators for Digital Business	16942
+Indicators for Phase	19988
 Indicators of Attacks	10721
 Indicators of Capacity	17209,48,69,1497
 Indicators of Compromise Vulnerability	10721
@@ -1213,7 +1220,7 @@ Intermediate Indicator	1228,16734,1283
 Intermediate Indicator Component	11965
 Intermediate Indicator for Component	1228
 Intermediate Indicator for Subcomponent	1228
-Intermediate Indicators	1228,36,603,1737,7164,649,488,19,41,3693,3,483,1818,1283,602
+Intermediate Indicators	1228,36,603,1737,7164,649,488,19,41,3693,3,483,1818,1283,602,141
 Intermediate Indicators Development Strategy	3604
 Intermediate Level Indicators Average	18825
 Intermediate Level Indicators Real	18825
@@ -1222,13 +1229,14 @@ Intermediate Outcome Indicator	16614,2140
 Intermediate Result IRI Intermediate Results Indicator	16952
 Intermediate Result Indicators Number	1867
 Intermediate Results Indicator	1284,10640,3677
-Intermediate Results Indicators	1284,583,845,892,1049,35,1891,349,949,2891,102,525,22,438,50,19,41,6,17,240,39,173,284,303,31,273,639,1010,37,14,107,21,265,94,35,66,39,1,2,2,72,2,276,19,47,65,43,249,202,67,191,26,27,3,42,6,79,17,374,35,399,54,4,171,217,4,1,4,175,258,25,165,101,159,3,4,35,171,26,348,6
+Intermediate Results Indicators	1284,583,845,892,1049,35,1891,349,949,2891,102,525,22,438,50,19,41,6,17,240,39,173,284,303,31,273,639,1010,37,14,107,21,265,94,35,66,39,1,2,2,72,2,276,19,47,65,43,249,202,67,191,26,27,3,42,6,79,17,374,35,399,54,4,171,217,4,1,4,175,258,25,165,101,159,3,4,35,171,26,348,6,155,11
 Intermediate Results Indicators Component	15411,1511,1903
 Intermediate Results Indicators Definition	15553
 Intermediate Results Indicators FY Indicator Name	11525
 Intermediate Results Indicators Indicator Name Definition	10829,135,891,1476,2187
 Intermediate Results Indicators Mapped Methodology for Data	1284,15638
 Intermediate Results Indicators Percentage	11924
+Intermediate Results Indicators for Objectives	19988
 Intermediate Status New Indicator New Reason	16032
 Intermediate Targets Indicator Name	11855
 Intermediate-level Results Indicators Classroom	13392
@@ -1269,7 +1277,8 @@ Key Demographic and Socio-Economic Indicators Zimbabwe	958
 Key Digital Infrastructure Indicators37 Mali SSA	17870
 Key Economic Indicators	10822
 Key Economic Indicators for Selected OECD Countries	2775
-Key Expected Outcomes and Outcome Indicators	11924,3500,87,90,62,68,705,516,897,113,803,60
+Key Expected Outcomes and Outcome Indicators	11924,3500,87,90,62,68,705,516,897,113,803,60,1163
+Key Expected Outcomes and Outcome Indicators. Project	19988
 Key Figures and Indicators INDICATOR	16942
 Key Financial Indicators	17235
 Key Fiscal Indicators	18851
@@ -1429,6 +1438,7 @@ Moyenne ASS Indicateur RCA Adultes	15474
 Multi-Annual Indicative Plan	9398
 Multi-Annual Indicative Programme	970,17488
 Multi-annual Indicative Programme	12843
+Multi-annual Indicative Programme and MCTD	20034
 Multi-donor Trust Fund MICS Multiple Indicator	16922
 Multiannual Indicative Programme	11536,1449,4446,1354
 Multiple Health Indicators Survey	10776
@@ -1548,6 +1558,7 @@ Outcome Indicator Baseline End-of-project	18765
 Outcome Indicator Units Baseline Target Responsible	15130
 Outcome Indicators	4153,7771,3011,489,87,90,62,1288
 Outcome Indicators for CAB APL1B Development Chad	18887
+Outcome Indicators for Objectives	19988
 Outcome PDO Indicator Revised Target	17849
 Outcomes Indicator	17018
 Outcomes Indicators Targets	17018
@@ -1576,8 +1587,9 @@ PDO Area RA PDO Indicators Labor	17458
 PDO Indicator	3604,11820,1190,1235,905,491,602
 PDO Indicator Baseline	15511
 PDO Indicator Indicator	15601
+PDO Indicator Modifications Indicator	19988
 PDO Indicator Split	15601
-PDO Indicators	1264,603,845,892,1049,35,1891,349,949,2891,102,525,22,488,19,41,6,17,240,39,145,28,587,31,862,1060,37,14,107,21,499,1,2,74,2,276,19,47,65,43,249,269,244,45,6,79,17,362,12,35,399,54,4,171,217,4,1,4,175,258,25,8,258,159,3,4,35,197,348,6,12
+PDO Indicators	1264,603,845,892,1049,35,1891,349,949,2891,102,525,22,488,19,41,6,17,240,39,145,28,587,31,862,1060,37,14,107,21,499,1,2,74,2,276,19,47,65,43,249,269,244,45,6,79,17,362,12,35,399,54,4,171,217,4,1,4,175,258,25,8,258,159,3,4,35,197,348,6,12,154
 PDO Indicators Beneficiaries of SSN	11924
 PDO Indicators Definition	15553
 PDO Indicators Direct	13917
@@ -1718,6 +1730,7 @@ Producer Price Indices and Construction Sector Indices	15085
 Producing Consumer Price Indices	11258
 Profitability Operational Efficiency Prudential Indicators	11955
 Profitability Ratios Indicator	17236
+Program PDO Indicators	19990
 Programme Indicateur	18988
 Programme Indicateur Année	18988
 Programme Indicatif Multi-Annuel	643,14853
@@ -1787,6 +1800,7 @@ RESULTATS ATTENDUS INDICATEURS DE RESULTAT Disponibilité	10712
 RESULTATS INDICATEURS	17978
 RESULTATS INDICATEURS EMOP	17978
 RESULTATS INDICATEURS Mali	17978
+RESULTS FRAMEWORK PDO Indicators	19988
 RESULTS INDICATORS A.1 PDO Indicators Objective	15424,177,62
 REVISED PDO INDICATORS	15601
 REVISED PDO INDICATORS Original PDO Indicator	15601
@@ -1868,7 +1882,7 @@ Results for Key Indicators	10785
 Resumo de Indicadores Demográficos	18768
 Revised Indicator Name Baseline Actual	4653,11534
 Revised Indicator Original Target Page	15138
-Revised PDO Indicators	11924,3500,1012,1413,113,803
+Revised PDO Indicators	11924,3500,1012,1413,113,803,1223
 Revised PDO Indicators PDO	15511
 Revised PDO Indicators and Targets	15601,62
 Revision of Intermediate Results Indicators	16922
@@ -1956,6 +1970,7 @@ Service Delivery Indicator	10188
 Service Delivery Indicators	11905
 Service Delivery Indicators SWEDD	18942
 Service Quality Indicators	12389
+Services Indicator Name	19990
 Set Key Performance Indicators	15034
 Setting Deprivation Cut-offs for Each Indicator	15244
 Sex of Head of Household MPI Indicators Sudan	15244

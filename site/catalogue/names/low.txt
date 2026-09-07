@@ -99,8 +99,10 @@ G Low Earth Orbit	7307
 GB Cost of Devices Low	11857
 GDP. Low	19531
 GHz Channelling Arrangement Channel No. Lower	12949
+GII Index Lower	19995
 GII Index. Low-Income	12159,192
 GII Index. Lower-Middle-Income	10969,915,11,265,327,7375
+GNF. Lower Secondary	19988
 Gabon Low and Middle Republic Republic Guinea	16942
 Go Low	11156
 Good Performer Lower	11131
@@ -201,6 +203,7 @@ Low Conditional Medium Medium Medium Medium	6593
 Low Consumption	12395
 Low Cost	15661
 Low Costs	12006
+Low Data Literacy and Limited Human Capacity	20004
 Low Demand	12394,51
 Low Density	9437
 Low Deprivation	15244
@@ -336,7 +339,7 @@ Low-and-Middle-Income-Countries	11990
 Low-band	5675,918,8081,5292
 Low-bandwidth	5513,9651
 Low-birth-weight	15056
-Low-carbon	10969,915,1,10,264,1,44,1,146,45,91,6017,1358,3
+Low-carbon	10969,915,1,10,264,1,44,1,146,45,91,6017,1358,3,130
 Low-carbon Strengths Rank Code	12205
 Low-case	16896,26
 Low-code	11133
@@ -348,7 +351,7 @@ Low-demand	11572
 Low-end	16867
 Low-impact AI	14565
 Low-in-	17743
-Low-income	4049,683,6031,1,65,306,1069,1,1,163,3184,1349,841,1664,482
+Low-income	4049,683,6031,1,65,306,1069,1,1,163,3184,1349,841,1664,482,106
 Low-income CIS Europe IDI Score	17743
 Low-income Fitted	12205
 Low-income GDP	18931
@@ -378,7 +381,7 @@ Low. The Environmental and Social Systems Assessment	12176
 Low. Track II	12669
 Low2023-06 Law No	18370
 Lowell. Chris	10794
-Lower	582,2526,1661,203,90,101,334,86,849,161,79,851,240,372,707,489,653,734,20,25,5,25,63,83,30,165,2,48,64,221,94,9,312,1,10,23,76,4,161,1,45,146,4,28,13,15,2,74,368,455,36,42,236,80,164,6,1022,1,100,59,108,80,309,21,30,30,91,50,204,281,176,416,15,17,8,58,20,26,118,13,13,9,8,82,9,4,33,458,127,431,230,4,396,224,387,148,55,117,3,13,74,14
+Lower	582,2526,1661,203,90,101,334,86,849,161,79,851,240,372,707,489,653,734,20,25,5,25,63,83,30,165,2,48,64,221,94,9,312,1,10,23,76,4,161,1,45,146,4,28,13,15,2,74,368,455,36,42,236,80,164,6,1022,1,100,59,108,80,309,21,30,30,91,50,204,281,176,416,15,17,8,58,20,26,118,13,13,9,8,82,9,4,33,458,127,431,230,4,396,224,387,148,55,117,3,13,74,14,29
 Lower ARPU	14707
 Lower Basic	17105
 Lower Casamance. Project	5056
@@ -426,7 +429,7 @@ Lower River and North Bank East	16867
 Lower Sec	19542
 Lower Sec. Lower Sec Geita	19542
 Lower Sec. Sec	19542
-Lower Secondary	12411,7131,148,12
+Lower Secondary	12411,7131,148,12,286
 Lower Secondary Curriculum	19690
 Lower Secondary Education	12411,7131,148
 Lower Secondary Education Attainment	19542
@@ -474,6 +477,7 @@ Lowest Evaluated Bidder	19585
 Lowest NSR Coverage	11998
 Lowest Rankings	12204,1,7747
 Lowest Rankings Ethiopia	12205
+Lowest Rankings Guinea	19995
 Lowincome Low	11572
 Lowland	16996
 Lowland Forest Submontane Forest Montane Forest	16996

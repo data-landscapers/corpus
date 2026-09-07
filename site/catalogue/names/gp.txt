@@ -138,7 +138,7 @@ GPCA Octotel 2024December19.pdf	448
 GPD DELIVERY COMPONENTS	11129
 GPD THE NATIONAL CIVIL REGISTRATION ACT	18440
 GPD THE NATIONAL TELECOMMUNICATIONS	18445
-GPE Board	11352,553,2,9,1433,2312,27,55
+GPE Board	11352,553,2,9,1433,2312,27,55,4279
 GPE Burundi Country Page	19657
 GPE COVID	17958
 GPE DRC Compact	11916
@@ -166,11 +166,13 @@ GPE Multiplier. Overall	12175
 GPE Partner	17196
 GPE Partnership Compact	16436
 GPE Program	16436
+GPE Programme Document	20022
 GPE Quality Assurance Review for Zimbabwe Phase	13310
 GPE Secretariat	11916,6648,1276
 GPE Secretariat Country Team Lead	11916
 GPE System Capacity Grant	14000
 GPE System Transformation Grant	14000
+GPE System Transformation Grant and System Capacity	20022
 GPE Teacher Support Programme	19565
 GPE Total Budget	13999
 GPE US	15661
@@ -181,6 +183,7 @@ GPE and World Bank	12175
 GPE's STG-GEA	11916
 GPE-KIX Discussion	19657
 GPE-KIX and Norad	16911
+GPE-financed	20027
 GPE-funded	11916,6849
 GPE-funds	19840
 GPE. C. Sustainability	15661
@@ -324,6 +327,7 @@ Global Innovation Index GPU Graphics Processing	7548
 Global Partnership for Education GPI	12175
 GoCV Government of Cabo Verde GPN General	15491
 GoG Government of Gabon GPN General Procurement	15518
+GoG Government of Guinea GPI Gender Parity	19988
 Gov GPT	3465
 Government of Egypt GPE Global Partnership for Education	15604
 Government of Malawi GPE	12175

@@ -1280,6 +1280,7 @@ Capacidade de Processamento	15684
 Capital Project Process Manual	14830
 Capital Strategies Kenya Limited Data Processor	7167
 Capture and Validate KYC Processes	10819
+Card and Lamination Process Decree D	19984
 CarePay Devco Kenya Ltd Data Processor	7167
 CarePay Ltd. Data Processor INST-9782911BBB8 NAIROBI	7167
 Carlingford Supplies Data Processor INST-214540E382C NAIROBI	7167
@@ -2456,7 +2457,7 @@ Job Application Process Section	13037
 Journal of Process Management and New Technologies	9237
 Judicial Procedures Already Digitized	13253
 Judicial Proceedings and Costs	16949
-Judicial Processes	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Judicial Processes	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Judicial System Judicial Processes Equality	10759,78,1315,188,7598
 Jurisdiction Over Insolvency Proceedings	12389
 Justice Chief Magistrate Criminal Procedure Act	12920
@@ -3627,7 +3628,7 @@ Proposal Evaluation Procedure	19575
 Proposed Procedures for CDD Components	17180
 Proposta de Procedimento de Triagem de Projectos	11406
 Proyecto de Digitalización de Procedimientos	4209
-Public Procurement Procedures	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Public Procurement Procedures	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Public Procurement Procedures. Best	19924
 Public Sector Public Procurement Procedures Absence	10759,78,1315,188,7598
 Publication of Marketplace Listing Process	11995
@@ -3712,6 +3713,7 @@ Reporting. Central Bank of Procedures Liberia	1777
 Republic of Liberia. III. The Consultation Process	17191
 Request for Proposal Procedures	15080
 Request for Proposals Procedures Section	15080
+Requirements and Procedure	19984
 Requirements and Procedures	19921
 Requirements and Procedures for Obtaining	11864
 Requirements for Data Processing	19890

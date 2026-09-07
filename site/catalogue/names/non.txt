@@ -206,7 +206,8 @@ Consortium des Organisations Non Gouvernementales	18286
 Construction Agriculture Non	10875
 Consumer Price Indices for Food and Non-Alcoholic Beverages	2775
 Contact of Nonusers	15247
-Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Convention des Lettres de Change Non Normalisés	19994
 Coordinating Assembly of Non Governmental Organisations	12896
 Core and Non-Core Baskets and Weights	2775
 Core and Non-Core Indices	2775
@@ -626,6 +627,7 @@ NON EXHAUSTIF	19221
 NON EXHAUSTIF PRÉLIMINAIRE	19221
 NON FIXE	13300
 NON FORMELLE	18171
+NON GOUVERNEMENTALE OS OBJECTIF STRATEGIQUE PAM	19986
 NON GOUVERNEMENTALES Article	19208
 NON GOUVERNEMENTALES DU CONSEIL CONSULTATIF DES	15405
 NON Gouvernance	17845
@@ -1086,6 +1088,7 @@ Non-Governmental Organizations Act	3583
 Non-Governmental Organizations. Outcomes	14888
 Non-Grid	11890
 Non-Hazardous Waste	1988
+Non-Hazardous Waste Management Plan	20002
 Non-Household	582
 Non-Household Population	16921
 Non-ID Related Factors. In Kenya	4439
@@ -1233,6 +1236,7 @@ Non-World Bank Financing	15663,2186,113
 Non-World Bank Group Financing	3604,7164,649,971,444,2078,27,1207,149,3350,20,172
 Non-World Bank Group Financing Commercial Financing	1704,587,1271,9769,3323,2591
 Non-World Bank Group Financing Counterpart Funding	14015
+Non-World Bank Group Financing Other Sources	20002
 Non-World Bank Group Financing The World	11905
 Non-World Bank Group Financing Trust Funds	10829,2282,221,1644,685,723,291,247,2485
 Non-Zambians	12410
@@ -1271,7 +1275,7 @@ Non-citizens Registered	12291
 Non-classifiable Activities	14891
 Non-climate	1988
 Non-commercial	12598,2214
-Non-communicable	5889,3567,2957,193,370,2080,1915
+Non-communicable	5889,3567,2957,193,370,2080,1915,3039
 Non-communicable Diseases	12606
 Non-compli	13053
 Non-compliance	1243,90,474,902,18,585,575,715,6,29,259,55,714,767,245,223,1310,639,759,248,457,866,2,220,495,90,9,198,307,2266,315,21,96,647,998,81,47,278,1210,97,1029,174
@@ -1489,7 +1493,7 @@ Non-résidents Catégorie Sexe Age Jeune Homme	13390
 Non-résidents Catégorie Sexe Nombre Montant Nombre	13390
 Non-résidents TOTAL Effectif	13390
 Non-résidents Type	13390
-Non-salary	3537
+Non-salary	3537,16451
 Non-sampling	11296,8317
 Non-sensitive	27,945,12347
 Non-sheathed	19730
@@ -1976,6 +1980,7 @@ Un Non-Disclosure Agreement	8699
 Université Nongo Conakry	16725
 Université Nongo de Conakry	16641,21
 Unlocking Innovation Through Non-Government Ecosystems	11940
+Unsatisfactory NGO Non-Governmental Organization NPV Net	19988
 Upgrading Construction Non-	11986
 Urban Rural Total None	16950
 Use of Non-Competitive Methods	19585

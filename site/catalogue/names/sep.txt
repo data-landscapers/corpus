@@ -59,7 +59,7 @@ Director General Fidel SEPA MEBULO	16962,7
 Document SEP Sexual Exploitation and Abuse SH	10964
 Drafting SEP Legislation	3161
 ESCP and SEP	11905,4239
-ESMF and SEP	16144
+ESMF and SEP	16144,3844
 Economic Community SEP Stakeholder Engagement Plan	6539
 Effective Sept	11154
 Electronic Identity F21 Sep	10714
@@ -189,6 +189,7 @@ SEP Report	17114
 SEP Stakeholder Engagement Plan ITU International	18504
 SEP Stakeholder Engagement Plan SESAP Solar	11549
 SEP Stakeholder Engagement Plan SH Sexual	1988,16313,476
+SEP Stakeholder Engagement Plan SNIES National	19988
 SEP Stakeholder Engagement Plan SOE State-Owned	1818
 SEP Stakeholder Engagement Plan SOP Standard	16384
 SEP Stakeholder Engagement Plan State’s Integrated	11417
@@ -281,12 +282,13 @@ Sep-2022 Effectiveness	12440
 Sep-2022 Portal EA Category	11924
 Sep-2022 Restructuring Sequence.04 Not Applicable	11924
 Sep-2022. RATINGS	13722
-Sep-2023	15619,460,559,2154
+Sep-2023	15619,460,559,2154,1196
 Sep-2023 IN01367413 Teachers	16638
 Sep-2023 IN01367415	16638
 Sep-2023 Mar	17904
 Sep-2023 Operation Closing	16079
 Sep-2023 Related Project	16638
+Sep-2023 Restructuring Sequence.02 Not Applicable	19988
 Sep-2023 The EGRA	16638
 Sep-2023 The GRM	16638
 Sep-2024	1867,845,8757,759,496,1196,1817,232,1935,229,1109
@@ -300,7 +302,7 @@ Sep-2024 TF-C4543 Effective	17904
 Sep-2024 The World Bank Implementation	19242
 Sep-2024 Yes Jan	15969
 Sep-2024 Yes Jun	15969
-Sep-2025	2254,1352,7264,599,519,279,159,14,284,334,698,164,1060,3,207,997,892,391,434,630,283,664
+Sep-2025	2254,1352,7264,599,519,279,159,14,284,334,698,164,1060,3,207,997,892,391,434,630,283,664,548
 Sep-2025 Country Director	13111,3564
 Sep-2025 Estimated Approval Date	14015
 Sep-2025 Expected Closing Date	3562,11414

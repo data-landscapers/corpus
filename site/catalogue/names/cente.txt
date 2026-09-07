@@ -239,6 +239,7 @@ CDC Centers for Disease Control and Prevention CHT	16860
 CDC United States Centers for Disease Control	13300
 CDD-Ghana Ghana Center for Democratic Development	11887,266,1,9,178,7517,1
 CDD-Ghana Ghana Center for Democratic Development UNU-WIDER	10835,3,130,902,16,466,1,135,7334
+CEC Community Center	19988
 CENTENARY MICRO ENTERPRISE SERVICES LIMITED Data	7167
 CENTER BUILD	10861
 CENTER BUILD ASSESSING AFRICAN DATA CENTER	10861
@@ -557,6 +558,7 @@ Communication and Resource Center	16971
 Community Care Giving Centers	13960
 Community Center	4969
 Community Digital Access Centers	17260
+Community Health Centers	20010
 Community Learning Centers	14897
 Community Multimedia Centers	2989,1664
 Computational Center for IOT Project Expansion	1787,1417,3881
@@ -633,6 +635,7 @@ DIAMED CENTER LTD Data Controller INST-6446715B61D	7167
 DIAMONDS REFINED RECOVERY CENTER LTD Data	7167
 DISTRIBUTION OF DATA CENTER FACILITIES	10861
 DIVINE BIRTH MIDWIFERY CENTER LIMITED Data	7167
+DNPCEC Directorate for Community Centers and Early Childhood	19988
 DORK MEDICAL CENTER ANNEX LIMITED Data	7167
 DUPOINT MEDICAL CENTER LIMITED Data Controller	7167
 Data Annual Centers	15553
@@ -1512,7 +1515,7 @@ Research and Documentation Center	14029,18
 Research and Innovation Centers Establishing	17011
 Research and Projects Center	11998
 Resource Center	14997
-Resource and Skills Center	13895
+Resource and Skills Center	13895,6137
 Response Coordination Center	18457
 Responsible AI Center	16212
 Responsible Data Center Development Act	14673
@@ -1682,6 +1685,7 @@ Unified Command Center	619
 Unis. Ce Data Center	15640
 United Kingdom Centers for Disease Control and Prevention	16860
 United States Centers for Disease Control and Prevention	10641,2284
+University of Khartoum's Entrepreneurship Incubator Center	20050
 Upcoming Data Center Portfolio	2572
 Urban Center	9528
 Urban Centers of Togo Project	19239

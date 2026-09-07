@@ -26,6 +26,7 @@ ANDF Décision du DG Chef du Département Approuve	10876
 APP BRAZZAVILLE APPROCHE	16552
 APPLICATION OF THE PROPOSED MATHEMATICAL APPROACH	8606
 APPR Agreement for Peace and Reconciliation	969
+APPRAISAL	19988
 APPRAISAL Context	15511,1441
 APPRAISAL Country Context	15731,3034
 APPRAISAL REPORT COMORIAN ECONOMIC DIGITALISATION SUPPORT	13731
@@ -66,7 +67,7 @@ APPROVAL	11184,1390,4279
 APPROVAL Erkin Mamadaliev	10963
 APPROVAL Name Job Title	19576
 APPROVAL OF PROMOTIONS	718
-APPROVAL Task Team Leader	3456,9376,279,1442,23,937,1141,21,1781,477,730
+APPROVAL Task Team Leader	3456,9376,279,1442,23,937,1141,21,1781,477,730,339
 APPROVALS	12364
 APPROVED	1228,3439,229,1527,8543,5,722,1139,9
 APPROVED BY CABINET	13295
@@ -96,7 +97,9 @@ Achieved Integration Our Approach	13220,1435,5149
 Achievements Appraisal Additional Actual Financing Achieved	15663
 Achievements Project Results Indicator Appraisal Additional	15663
 Activity Identification and Institutional Planning Approach	17116
-Actual Approval	7877,7282,2974
+Actual Approval	7877,7282,2974,1868
+Actual Approved	19988
+Actual Approved. COMMENTS	19988
 Actual Current Year Approved Actual Exec	6422
 Additional Regional No Institutions Appraisal	4653
 Adjusted Appropriation	11218
@@ -131,12 +134,12 @@ Appendix A Appendices List of Approved Abbreviations	11129
 Application Form for Approval of Binding Corporate Rules	12302
 Application for Type Approval	14883,2367
 Applying the Blue Economy Approach	17458
-Appraisal	7198,3570,1156,62,560,7,42,367,18,751,1641,121,18,152,773,178,338,8,154,748,100,412,380
+Appraisal	7198,3570,1156,62,560,7,42,367,18,751,1641,121,18,152,773,178,338,8,154,748,100,412,380,1234
 Appraisal Additional Actual Financing Achieved Project	15663
 Appraisal Additional Financing Baseline Original	15663
 Appraisal Country Background	16614
 Appraisal Date	16654
-Appraisal Document	1584,3778,6603,6844,475
+Appraisal Document	1584,3778,6603,6844,475,739
 Appraisal Document PAD PDO Project Development	11855
 Appraisal Document PDO Project Development Objective	15511
 Appraisal Document. Does	15190
@@ -160,6 +163,7 @@ Appraisal-Stage Project Information Document	1704
 Appraisal-stage ESRS	13331
 Appraisals and Negotiations	7198
 Appraisals and Negotiations Regulation M-A Item	7198
+Appraised	20019
 Appraisers	8460
 Appraising	5700,11158
 Appraisingresearchonpersonalizedlearning	8602
@@ -306,7 +310,7 @@ Approuve	10876,3556
 Approuver	10876,3663,1030
 Approuvée	8891
 Approuvés	15395,391,253,138
-Approval	287,417,1,13,18,178,1,1,1,1,1,1,1,1,1,86,210,658,111,724,718,108,176,974,1744,12,95,40,253,1,95,18,258,139,264,270,111,313,1204,652,561,57,95,266,48,46,145,20,98,369,43,19,28,13,6,15,2,213,27,39,28,7,56,6,25,6,26,19,43,45,196,108,106,67,22,26,5,13,25,192,73,98,107,156,104,7,7,19,51,6,1,3,18,13,105,129,441,99,137,23,71,24,24,15,12,99,29,5,260,49,8,120,130,4,2,45,177,10,21,23,41,25,123,17,395,91,143,5,10,21,16,27,67,6,79,17,18,2,22,332,35,399,54,4,44,33,94,217,4,1,83,29,27,40,3,86,131,33,5,17,8,8,157,101,98,61,7,35,197,103,18,48,95,84,111
+Approval	287,417,1,13,18,178,1,1,1,1,1,1,1,1,1,86,210,658,111,724,718,108,176,974,1744,12,95,40,253,1,95,18,258,139,264,270,111,313,1204,652,561,57,95,266,48,46,145,20,98,369,43,19,28,13,6,15,2,213,27,39,28,7,56,6,25,6,26,19,43,45,196,108,106,67,22,26,5,13,25,192,73,98,107,156,104,7,7,19,51,6,1,3,18,13,105,129,441,99,137,23,71,24,24,15,12,99,29,5,260,49,8,120,130,4,2,45,177,10,21,23,41,25,123,17,395,91,143,5,10,21,16,27,67,6,79,17,18,2,22,332,35,399,54,4,44,33,94,217,4,1,83,29,27,40,3,86,131,33,5,17,8,8,157,101,98,61,7,35,197,103,18,48,95,84,111,48,13,15,11
 Approval Activity	16863
 Approval Actual	15424
 Approval Approval Package	6579,349,949,3518,1632,2708,278,987,96,374,35,501,344,4,1,437,25,425,7
@@ -333,7 +337,7 @@ Approval Makhtar Diop Gregor Binkert	15601
 Approval Means The Payment	19021
 Approval Name Job Title	19575
 Approval Number	12003
-Approval Package	2473,239,1941,6217,1054,47,257,39,173,1302,1396,894,47,357,558,85,825,54,4,397,175,750
+Approval Package	2473,239,1941,6217,1054,47,257,39,173,1302,1396,894,47,357,558,85,825,54,4,397,175,750,704,2,11
 Approval Prepared	1988
 Approval Previous Rating Current Rating Political	15619,1019,1835
 Approval Risk Category Approval Package	4688
@@ -372,7 +376,7 @@ Approvals	762,3521,5874,2115,2608,1021,2603
 Approvals P-7 Site Acquisition Define	11857
 Approvals P-7 Site Acquisition Permits Intervention	11857
 Approvals Required for Cross-Border Data Transfer	19890
-Approve	3861,667,1815,89,1116,4811,153,205,603,1714,1799,30,253,1362,317,738,268
+Approve	3861,667,1815,89,1116,4811,153,205,603,1714,1799,30,253,1362,317,738,268,201
 Approve Business Cases	12359
 Approve GCT	6947
 Approve JIC	16853
@@ -380,7 +384,7 @@ Approve Payment System Vision	10767
 Approve Requisition	9124
 Approve the Change Request	19575
 Approve the Proposals	7198
-Approved	26,2,6,285,285,132,25,46,87,76,441,363,54,160,67,657,882,155,112,242,61,298,226,152,1604,135,175,79,95,528,92,329,272,517,173,41,87,157,609,122,40,262,496,68,58,91,261,57,73,134,462,34,14,19,41,6,15,2,240,28,11,92,60,21,284,47,8,53,145,50,31,79,322,147,136,91,7,19,38,13,6,1,3,48,3,85,76,301,113,7,131,33,239,24,37,14,107,21,218,295,5,25,12,17,4,2,12,9,24,231,66,319,38,202,67,128,10,7,35,93,16,6,79,17,9,11,248,106,35,357,42,54,4,44,127,217,4,1,128,51,27,16,4,211,17,8,52,113,101,159,7,35,197,29,3,61,2,65,177,11
+Approved	26,2,6,285,285,132,25,46,87,76,441,363,54,160,67,657,882,155,112,242,61,298,226,152,1604,135,175,79,95,528,92,329,272,517,173,41,87,157,609,122,40,262,496,68,58,91,261,57,73,134,462,34,14,19,41,6,15,2,240,28,11,92,60,21,284,47,8,53,145,50,31,79,322,147,136,91,7,19,38,13,6,1,3,48,3,85,76,301,113,7,131,33,239,24,37,14,107,21,218,295,5,25,12,17,4,2,12,9,24,231,66,319,38,202,67,128,10,7,35,93,16,6,79,17,9,11,248,106,35,357,42,54,4,44,127,217,4,1,128,51,27,16,4,211,17,8,52,113,101,159,7,35,197,29,3,61,2,65,177,11,159,13,18,3,1,17,1,7,1
 Approved Actual Exec Approved Actual Exec	6422
 Approved Actual YTD YTD Budget YTD	6422
 Approved Annual Procurement Plan	19585
@@ -522,6 +526,7 @@ BILLION APPROVED BY THE BOARD	6539
 BILLION EQUIVALENT APPROVED BY THE BOARD	3562,7855
 BLUPs Approved	14746
 BNEE Approbation PGES	18118
+BOARD APPROVED	20041
 BOCRA APPROVES REDUCED DATA PRICES	19671
 Background Approximately	19654
 Bank Approval Date	13830,20,120
@@ -533,7 +538,7 @@ Basic Needs Approach	19886
 Basics Approach Goal	11188
 Benchmarking Approach	15164
 Billion Uganda Shillings Approved Budget Released	19641
-Board Approval	2712,1976,1891,254,95,949,3518,576,17,240,39,173,540,74,786,80,50,86,924,31,608,116,2,276,66,559,67,289,6,79,17,161,647,54,48,127,217,4,1,118,61,258,25,432,580
+Board Approval	2712,1976,1891,254,95,949,3518,576,17,240,39,173,540,74,786,80,50,86,924,31,608,116,2,276,66,559,67,289,6,79,17,161,647,54,48,127,217,4,1,118,61,258,25,432,580,172
 Board Approved Financing Envelope	11417
 Board Approved Financing Envelope US	6539
 Board Approved MPA Financing Envelope	3562,7855
@@ -612,7 +617,7 @@ Citizen-Centric Approaches	5349
 Clients No Appraisal Summary No Components	2473
 Clients No Appraisal Summary No the Electricity	15969
 Climate-Responsive Project Appraisal	17257
-Closed Approval Fiscal Year	13742,1206
+Closed Approval Fiscal Year	13742,1206,5040
 Closed. Approval Fiscal Year	15704,286
 Closing Approval	15663
 Cognitive Approach and AI Research	13991
@@ -661,6 +666,7 @@ Critical Logics Approach	11028
 Cultural Appropriateness	18370
 Cultural Appropriateness and Inclusivity	15055
 Current Approaches and Lessons	10714
+Current Approved	19988
 Cybersecurity Ministry of Universities Approved Q2	1777
 D CODE APPROPRIÉ U ET SIGNEZ	13300
 D. Multiphase Programmatic Approach	3604,2935,4878
@@ -698,6 +704,7 @@ Deemed Appropriate Safeguards	12302
 Delayed Approval	18661
 Democratic Republic of São Tomé and Príncipe and Approves	18823
 Dependencies Approach	6432
+Description Appraisal	20017
 Description Appraisal-Stage Project Information Document	1572
 Description Project Appraisal Document	538,196,1520
 Description World Bank Program Appraisal Document	1573
@@ -788,7 +795,7 @@ Exec Approved Actual Exec Approved Actual	6422
 Executive Board Approval	17257
 Exemptions From Type Approval	18609
 Existing Approach	16600
-Expected Approval Date	1584,668,1310,7270,1133,423,2522,26,1,253,363,105,124,616,3437,12,8
+Expected Approval Date	1584,668,1310,7270,1133,423,2522,26,1,253,363,105,124,616,3437,12,8,164,4,6,19
 Expected Approval Date Expected Closing Date	1867,1737,7164,61,135,453,143,295,50,1426,1,2289,40,483,2054,1047
 Expected Approval Date Review Type	18809,475
 Expenditure Approach and The Income Approach	18483,5
@@ -977,7 +984,7 @@ Last Approved Additional Financing Total International	14553
 Last Approved International Bank for Reconstruction	15983,3472
 Last Approved International Development Association	2889,12249
 Last Approved Proposed Additional	15983
-Last Approved Rating	11965,23,1932,1060,51,128,578,2396,849,499
+Last Approved Rating	11965,23,1932,1060,51,128,578,2396,849,499,520
 Last Approved Rating ISR Seq	6579,349,949,3518,1632,2708,278,987,96,374,35,501,344,4,1,437,25,425,7
 Last Approved Rating Risk Category Proposed	18809
 Last Approved Total Financing	19455
@@ -1016,6 +1023,7 @@ MTR Mid-Term-Review PAD Project Appraisal Document	13861
 MULTI-PHASE PROGRAMMATIC APPROACH ACCELERATING ACCESS	13743
 MULTI-PHASE PROGRAMMATIC APPROACH PROGRAM	6539
 MULTI-PHASE PROGRAMMATIC APPROACH WITH AN OVERALL	11417
+MULTIPHASE PROGRAMMATIC APPROACH	19990
 MULTIPHASE PROGRAMMATIC APPROACH INCLUSIVE	3562
 Machine Learning Approaches	11265
 Madagascar Approval Date	14456
@@ -1031,9 +1039,12 @@ Mar-2018 Approval	18825
 Mar-2019 Approval	17962
 Market-Aware Approach	2278
 Mass Approx SECAM Inputs	34
+Matteo Maria Malacarne Approved By Practice	20002
 May-2018. Approval	15702
+May-2019 Approval	19988
 May-2020 Approval	13742
 May-2024. Estimated Approval Date	19663
+May-2025. Estimated Approval Date	20002
 Member States Approved	10819
 Meta-Synthesis Approach	11006
 Methodological Approach	7548
@@ -1055,8 +1066,9 @@ Multi-Programmatic Approach	18623
 Multi-Stakeholder Approach	17260
 Multi-phase Programmatic Approach	6539,4441
 Multifaceted Approach. Cape Town	6832
-Multiphase Programmatic Approach	1284,583,424,421,850,42,7164,61,135,453,143,295,50,1426,1,411,833,977,68,37,3,74,8,401,778,1576,747
+Multiphase Programmatic Approach	1284,583,424,421,850,42,7164,61,135,453,143,295,50,1426,1,411,833,977,68,37,3,74,8,401,778,1576,747,745,11
 Multiphase Programmatic Approach MPSAM Ministry of Public	3604
+Multiphase Programmatic Approach MTR Mid Term	19990
 Multiphase Programmatic Approach NPV Net Present	6539
 Multiphase Programmatic Approach the Board	554
 Multistakeholder Approach	14932
@@ -1091,6 +1103,7 @@ Next Order. APPROVAL OF THE NATIONAL	10313
 Nexus Approach	3023
 Nigerian Government Approves NIGCOMSAT-2A	10699
 Nigeria’s Approach	5245
+No. Appraisal Summary	19990
 None Approach C	17180
 None Revising the Approval Under	14997
 Nongovernmental Organization PAD Project Appraisal Document	17862
@@ -1113,6 +1126,7 @@ Operation ID P511651 Estimated Appraisal Date	16675
 Operationalising the Approach	10726
 Operations Manual PAD Project Appraisal Document	15663
 Organization. A Quality Management Approach	16900
+Original Approved	19988
 Original and Final Approved Budget and Comparison of Actual	16978
 Originally Approved	17883
 Oui Approbation	13433
@@ -1128,6 +1142,7 @@ P513127 Estimated Appraisal Date	15097
 P514166 Estimated Approval	13787
 PAACAMA Phase I Appraisal Report	7160
 PACAD Operation Status Approval Fiscal Year	15731
+PAD Approval Package-09 Jan	19990
 PAD Client Information Activities At Appraisal	15424
 PAD Project Appraisal Document PAFA	18825
 PAD Project Appraisal Document PANA National	17962
@@ -1152,6 +1167,7 @@ PORTANT APPROBATION DU CATALOGUE D’INTERCONNEXION	15885
 PORTANT APPROBATION DU MARCHE POUR	17861
 PPP Approvals	19585
 PROCEDURES DE VOL FLIGHT PROCEDURES APPROCHE	17006
+PROGRAM APPROVED	19990
 PROGRAM BOARD APPROVED	14096
 PROGRAMMATIC APPROACH	12990
 PROJECT APPRAISAL DOCUMENT MIDDLE EAST	17441
@@ -1199,6 +1215,7 @@ Portfolio Approach	11541,4725
 Portfolio Approach of Accelerator Lab Guinea Bissau	11541
 Practical Approach	14761,74
 Pragmatic Approach	18461
+Present Value PAD Project Appraisal Document	19988
 Present Value Project Appraisal Document CONFEMEN	16436
 President Tinubu Approves National Health Technology	18253
 Presidential Approval Given	10157
@@ -1223,7 +1240,7 @@ Program for Appropriate Technology	1261,563,1827,9779
 Programme AIA Appropriation In Aid AIDS	2775
 Progressive Approach	15760
 Project APPROVED	2473,2180,11316
-Project Appraisal Document	541,2,16,183,42,187,25,294,575,123,264,637,659,2072,919,215,4078,569,16,507,267,197,1355,107,6,114,918,22,56,17,389,39,13,67,20,4,3,35,48,3,15,2,37,1,2,2,41,39,401,240,52,178,24,258,26,4,23,3,8,139,15,735,13,44,384,4,6,173,271,10,133,352,404,246
+Project Appraisal Document	541,2,16,183,42,187,25,294,575,123,264,637,659,2072,919,215,4078,569,16,507,267,197,1355,107,6,114,918,22,56,17,389,39,13,67,20,4,3,35,48,3,15,2,37,1,2,2,41,39,401,240,52,178,24,258,26,4,23,3,8,139,15,735,13,44,384,4,6,173,271,10,133,352,404,246,99,2,27
 Project Appraisal Document PAD3340	424
 Project Appraisal Document PAD3556	554
 Project Appraisal Document PASyFiS Support	17849
@@ -1231,9 +1248,11 @@ Project Appraisal Document PDO Project Development	18754
 Project Appraisal Document PHEOC Public Health	11417
 Project Appraisal Document Project Development Objective	15601
 Project Appraisal Document URL	14976,2465,663,1141
+Project Appraisal Document and Financing Agreement	19988
 Project Appraisal Document for Republic of Congo LISUNGI	11924
 Project Appraisal Document. Report	15601
 Project Appraisal Document. Report No. PAD2480	16626
+Project Appraisal Documents	20040
 Project Appraisal Report	14080
 Project Appraisal Report URL	13938
 Project Appraisal Summary	19643
@@ -1357,6 +1376,7 @@ SUGGESTED APPROACH TO SUGGESTED APPROACH	3161
 SUMMARY Last Approved Proposed Page	14553
 SUPPLEMENTARY APPROPRIATION BILL	13126
 SUPPORT ACCESS APPROVE USE MOBILE	11004
+SUPPORTING DOCUMENTS Project Appraisal Document	19988
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Last Approved	16705
 Safaricom Ethiopia. Approval	1135
 Safety Net APPROVED	14038
@@ -1544,11 +1564,13 @@ WBG’s COVID-19 Crisis Response Approach Paper	15518
 WBG’s COVID-19 Crisis Response Approach64	13331
 WCO Council Approves the Updated Study Report	14789
 WEBSITES SUPPORT ACCESS APPROVE	11004
+WESTERN AND CENTRAL AFRICA. Estimated Appraisal	20002
 WESTERN AND CENTRAL Estimated Approval Date	3456
 WGA Whole-of-Government Approach	14965
 WORLD BANK GROUP APPROACH	16144
 Western Africa. Approximately	5395,10806
 Western and Central Africa Bank’s Approval Date	17219
+Western and Central Africa. Approval Date	19990
 Weza Power Approbation	13433
 White Approche	16552
 Whole of Government Appro	17180
@@ -1563,9 +1585,10 @@ World Bank Group Approach	10714,292,1437
 World Bank Group Approach. Digital	11310
 World Bank PROJECT APPRAISAL DOCUMENT	16144
 World Bank Program Appraisal Document	1693
-World Bank Project Appraisal Document	541,34,1679,12682,1500
+World Bank Project Appraisal Document	541,34,1679,12682,1500,3587
 World Bank Review Approach Budget	15518
 World Bank Systems Approach for Better Education	11860
+World Bank's Project Appraisal Document	20017
 World Bank. Appropriate	16949
 World Bank. Project Appraisal Document	15601,62
 X Appropriation	16195

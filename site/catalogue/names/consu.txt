@@ -54,7 +54,7 @@ Act Consulta	13005
 Act. Consultation	16839
 Act. PART VIII CONSUMER PROTECTION Scope	12930
 Additional Sources Consulted	11868
-Additional Sources Consulted Oral	19636,218,67
+Additional Sources Consulted Oral	19636,218,67,63
 Adelko Consulting Services LTd Data Processor	7167
 Administration Department Department Consumer Protection	6946
 Administrativo Consulado B1	4209
@@ -214,6 +214,7 @@ CHAPTER VI1 CONSUMER PROTECTION Scope	11179
 CHEMICAL AND CONSUMER PRODUCTS	19730
 CITADEL KNOWLEDGE CONSULTANTS LIMITED Data Processor	7167
 CIVIL ONE CONSULTING ENGINEERS LIMITED Data	7167
+CMC CENTRE MEDICAL COMMUNAUTAIRE CPN CONSULTATION	19986
 CN Consulting	4043
 CNCR National Rural Consultation and Cooperation Council	18293
 CNSMO Consultative Group	17870
@@ -471,6 +472,7 @@ Consular Affairs Processing System	19927
 Consular Affairs’ Functional Bureau Strategy Goals	17883
 Consular Agent	11877
 Consular B1 Agregado Administrativo A1 Embajador	4209
+Consular Card	19984
 Consular Information for Americans	18879
 Consular Portal	11891,48,26
 Consular Portal Application	11877
@@ -508,7 +510,7 @@ Consulats. Elections	17861
 Consuls	3396
 Consuls of Eritrea	19920
 Consuls. Président	17861
-Consult	986,8137,306,1755,673,16,802,706,610,683,223,100,167,1669,39,242,66,1862,477,336,111
+Consult	986,8137,306,1755,673,16,802,706,610,683,223,100,167,1669,39,242,66,1862,477,336,111,36
 Consult Comoros	19821
 Consult Eritrea	19931
 Consult Limited. Auditors	9650
@@ -701,7 +703,7 @@ Consultation des Fournisseurs	5370
 Consultation for Change Workshop	14835
 Consultation for Change Workshop The Ministry of Social	14835
 Consultation of Stakeholders	11956
-Consultations	1243,624,121,339,24,538,1083,154,1472,1735,1558,217,747,913,73,134,158,147,245,28,300,133,189,80,42,665,15,263,74,17,248,150,461,298,1,256,6,246,123,107,220,26,33,155,51,23,113,76,517,402,24,59,18,183,30,284,425,15,12,212,115,89,13,37,11,161,1,46,40,40,249,4,3,71,150,79,31,39,250,99,27,29
+Consultations	1243,624,121,339,24,538,1083,154,1472,1735,1558,217,747,913,73,134,158,147,245,28,300,133,189,80,42,665,15,263,74,17,248,150,461,298,1,256,6,246,123,107,220,26,33,155,51,23,113,76,517,402,24,59,18,183,30,284,425,15,12,212,115,89,13,37,11,161,1,46,40,40,249,4,3,71,150,79,31,39,250,99,27,29,297,4,11
 Consultations Completed	14116
 Consultations Revue	16628
 Consultations Session	16628
@@ -726,7 +728,7 @@ Consultative Workshop	13990
 Consulte	11488,530,4426,530,1825
 Consulted	12008,351,1651,2865,241,777,585,140
 Consulted Stakeholders ID Name of Institution	12674
-Consulter	6954,2526,244,2319,2629,1264,659,1609,111
+Consulter	6954,2526,244,2319,2629,1264,659,1609,111,1679
 Consulter la Liste	5313
 Consultez	9327,5255,1,1353
 Consulting	236,335,1417,1115,5566,57,336,3382,458,490,1229,198,324,268,107,141,2771,281,534,457
@@ -1458,7 +1460,7 @@ Group of Consultants	19086
 Groupe Consultatif Technique Independent GLPE	18942
 Groupe Consultatif Technique Indépendant	15673
 Groupe Technique Consultatif	15685
-Groupes Techniques Consultatifs	18105
+Groupes Techniques Consultatifs	18105,1881
 Grupo de Consulta Multi-Sectorial	5663
 Guidelines for Consultation Process	17191
 Guidelines for National Consultations	11387

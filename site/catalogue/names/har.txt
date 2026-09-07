@@ -207,7 +207,7 @@ Enhancing Data Harmonisation	17017
 Enquete Harmonisée	737
 Enquête Har-	19237
 Enquête Harmonise	17945
-Enquête Harmonisée	737,6938,3199,675,11,2186,58,2580,236,58,1267,33,99
+Enquête Harmonisée	737,6938,3199,675,11,2186,58,2580,236,58,1267,33,99,1911
 Enquête Harmonisée des Condi-	19237
 Enquêtes Harmonise	17945
 Enquêtes Harmonisées	11581,6364,1398
@@ -633,6 +633,7 @@ Harmonized Health Facility Assessment HTA	15685
 Harmonized Household Income and Expenditure Surveys	15604
 Harmonized Household Living Conditions Survey	15810,323
 Harmonized Household Living Standards Survey	16384
+Harmonized Households Leaving Standards Measurement Survey	19988
 Harmonized ICT Procurement-	13602
 Harmonized Landsat Sentinel-2	14656
 Harmonized MSME	14997
@@ -1106,7 +1107,7 @@ SADC Harmonised Data Protection Model Law	962
 SANSA’s Hartebeesthoek	11244
 SELLING HARVEST BY TYPE OF SPECIES	17043
 SEXUAL HARRASSMENT UPS VAC	12253
-SH Sexual Exploitation and Abuse and Sexual Harassment	11417,132,4434,401,568,162
+SH Sexual Exploitation and Abuse and Sexual Harassment	11417,132,4434,401,568,162,2874
 SH Sexual Harassment SME Small and Medium	1264
 SH Sexual Harassment SMP Security Management	15621
 SH Sexual Harassment STEP Systematic Tracking	10829
@@ -1131,10 +1132,11 @@ Security Experts Hardware Engineers	13185
 Separation of Hardware and Software Lots	15028
 Severity of Harm	11956
 Sexual Exploitation Abuse and Sexual Harassment Action	14976
-Sexual Exploitation and Abuse and Sexual Harassment	1988,13150,1976
+Sexual Exploitation and Abuse and Sexual Harassment	1988,13150,1976,2874
 Sexual Exploitation and Abuse and Sexual Harassment Action	13331
-Sexual Harassment	1264,514,89,121,3915,5514,548,288,858,74,147,1723,25,581,1235,26,13,164,15,51,1205,98,36,66,714,379
+Sexual Harassment	1264,514,89,121,3915,5514,548,288,858,74,147,1723,25,581,1235,26,13,164,15,51,1205,98,36,66,714,379,325
 Sexual Harassment Compliance Team STD Sexually	16926
+Sexual Harassment GDP Gross Domestic Product	19988
 Sexual Harassment Performance Declaration	13185
 Sexual Harassment Policy	16852
 Sexual Harassment Policy. The DHA	11986

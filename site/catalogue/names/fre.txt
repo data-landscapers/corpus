@@ -266,7 +266,7 @@ Development of Free Zones	10781
 Diagnostic AIGF Ivorian Frequency Management Agency	17862
 Digital Analogue Proposed Frequency Band Proposed	736
 Digital Code Frequency Annual Data	19245
-Digital Freedom	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Digital Freedom	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Digital Freedom Enabling Networks	1566
 Digital Freedom Public Perception of Inclusion	12353
 Digital Freedom of Expression	1157
@@ -309,7 +309,7 @@ E. FREE AND OPEN ACCESS	14853
 E. Free	14853
 ECOWAS Director of Free Movement of Persons	17221
 ECOWAS Free Movement	16874
-ECOWAS Free Movement Protocol	2781
+ECOWAS Free Movement Protocol	2781,17220
 ECOWAS Free Roaming Agreement	17187
 ECOWAS Free Roaming Initiative	7876
 EDUCATION Freedom of Expression	10835,3,130,902,16,466,1,135,7334
@@ -546,6 +546,7 @@ Free Monthly Mobile Data Package	14823
 Free Monthly Mobile Data Package for Youths	14823
 Free Movement	7048
 Free Movement Protocol	10317,8138
+Free Movement and Tourism	19990
 Free Movement of Labour The EAC Partner	12164
 Free Movement of People	12227,4647
 Free Movement of People Across Africa	12227
@@ -691,14 +692,14 @@ Freedom and Protection	15027
 Freedom of Access	17870
 Freedom of Assembly	12201
 Freedom of Assembly and Association	9082,9515
-Freedom of Association	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Freedom of Association	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Freedom of Association Every	13948
 Freedom of Association and Assembly	6188
 Freedom of Association and Assembly Article	14742
 Freedom of Association and Collective Bargaining	19655
 Freedom of Association and Right	12389
 Freedom of Conscience and Religion Freedom	14742
-Freedom of Expression	3861,2932,3936,30,76,2,1,130,902,16,1,1,1,264,1,9,38,139,1,11,1,135,1161,4301,1702,1,169,14,22,1,65,14,1
+Freedom of Expression	3861,2932,3936,30,76,2,1,130,902,16,1,1,1,264,1,9,38,139,1,11,1,135,1161,4301,1702,1,169,14,22,1,65,14,1,48
 Freedom of Expression Republic	12201
 Freedom of Expression The Zimbabwe National AI	13649
 Freedom of Expression and Access	769,3655,329,4329,334,244,1435,5922,1,753,179
@@ -777,7 +778,7 @@ Freeport of Monrovia URL	17367
 Freeport of Monrovia. LIBERIA TIME RELEASE STUDY	17367
 Freeport of Monrovia. Once	17367
 Frees	6432
-Freetown	2395,983,517,219,26,49,430,280,491,291,168,90,124,292,548,279,571,24,37,150,305,341,511,119,413,112,201,362,331,949,26,17,2700,1125,668,57,42,396,1209,243,321,30,2,4,8,8,1,5,2,3,3,7,2,10,2,1,2,3,3,1,1,5,8,4,7,1,2,3,4,4,3,7,1,4,3,2,4,1,3,1,1,1,1,1,1,6,1,1,1
+Freetown	2395,983,517,219,26,49,430,280,491,291,168,90,124,292,548,279,571,24,37,150,305,341,511,119,413,112,201,362,331,949,26,17,2700,1125,668,57,42,396,1209,243,321,30,2,4,8,8,1,5,2,3,3,7,2,10,2,1,2,3,3,1,1,5,8,4,7,1,2,3,4,4,3,7,1,4,3,2,4,1,3,1,1,1,1,1,1,6,1,1,1,1442
 Freetown Among Top	5390,965,827
 Freetown Bonded Warehouses Breaking	5939
 Freetown City	18460,4
@@ -851,7 +852,7 @@ Frejus Thoto	10852
 Freleases	4861,929,900
 Frelick	12227
 Frelimo	5815,6333,53
-French	25,31,69,64,21,25,10,1,14,48,30,99,38,6,225,29,31,195,1,55,26,6,147,269,60,67,136,43,7,59,5,24,19,13,5,49,3,4,3,280,63,119,83,163,12,341,5,6,25,72,3,23,41,1,144,173,44,147,40,87,48,14,72,66,93,5,8,64,33,30,17,9,110,31,162,29,1,36,2,12,3,31,46,4,115,39,12,36,15,18,14,45,2,17,16,33,37,64,29,169,31,5,7,26,25,15,24,2,10,22,87,2,1,1,1,20,45,49,8,44,6,33,34,21,31,30,91,19,43,49,1,76,49,120,22,2,4,4,7,29,4,22,21,17,12,29,56,69,52,16,19,20,30,3,6,92,30,1,22,55,13,21,43,74,39,12,6,23,34,1,20,29,62,125,278,3,45,93,111,6,88,1,62,36,234,46,8,205,32,674,99,117,83,52,179,43,71,40,74,57,176,19,108,57,97,4,8,11,29,21,57,29,14,9,3,4,1,136,14,6,28,307,55,61,207,112,2,3,6,34,53,39,1,87,133,56,387,269,339,44,184,33,1,105,52,6,129,58,277,64,274,15,20,14,15,29,17,15,22,16,10,1,30,15,1,5,160,6,65,152,182,80,13,23,64,42,69,19,18,2,240,131,112,51,29,14,5,42,44,2,27,78,227,180,9,64,26,30,127,28,118,22,20,357,129,7,89,24,13,28,2,102,271,36,25,236,191,114,46,7,21,188,64,105,54,428,10,1,4,1,14,20,35,10,21
+French	25,31,69,64,21,25,10,1,14,48,30,99,38,6,225,29,31,195,1,55,26,6,147,269,60,67,136,43,7,59,5,24,19,13,5,49,3,4,3,280,63,119,83,163,12,341,5,6,25,72,3,23,41,1,144,173,44,147,40,87,48,14,72,66,93,5,8,64,33,30,17,9,110,31,162,29,1,36,2,12,3,31,46,4,115,39,12,36,15,18,14,45,2,17,16,33,37,64,29,169,31,5,7,26,25,15,24,2,10,22,87,2,1,1,1,20,45,49,8,44,6,33,34,21,31,30,91,19,43,49,1,76,49,120,22,2,4,4,7,29,4,22,21,17,12,29,56,69,52,16,19,20,30,3,6,92,30,1,22,55,13,21,43,74,39,12,6,23,34,1,20,29,62,125,278,3,45,93,111,6,88,1,62,36,234,46,8,205,32,674,99,117,83,52,179,43,71,40,74,57,176,19,108,57,97,4,8,11,29,21,57,29,14,9,3,4,1,136,14,6,28,307,55,61,207,112,2,3,6,34,53,39,1,87,133,56,387,269,339,44,184,33,1,105,52,6,129,58,277,64,274,15,20,14,15,29,17,15,22,16,10,1,30,15,1,5,160,6,65,152,182,80,13,23,64,42,69,19,18,2,240,131,112,51,29,14,5,42,44,2,27,78,227,180,9,64,26,30,127,28,118,22,20,357,129,7,89,24,13,28,2,102,271,36,25,236,191,114,46,7,21,188,64,105,54,428,10,1,4,1,14,20,35,10,21,48
 French AI	10527
 French African	17773
 French Agency for Development	11380,5931
@@ -942,7 +943,7 @@ French-speaking	766,15412,1
 French-speaking Africa	3436,1618,2052,177,8896,3086
 French-speaking Africa. Previous	5159
 French-speaking Africa. The Board of Directors	16178
-French-speaking Central and West Africa. The Bank	16178
+French-speaking Central and West Africa. The Bank	16178,3859
 French-speaking West African	16178
 French-speaking West and Central Africa. Saviu	16178
 French-speaking... News Digital Zimbabwe Unveils	5407,676
@@ -1334,7 +1335,7 @@ Means of Verification Frequency SG2 SO4 NTDS	17116
 Means of Verification Frequency SG4 SO2 Dissemination	17116
 Means of Verification Frequency SG6 SO2 Budget	17116
 Measures Frequency	1988
-Media Freedom	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,38,139,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Media Freedom	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,38,139,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Media Frequencies and Mobile Transceivers	2775
 Media and Press Freedom Dimension	17745
 Medical Record FOSS Free and Open	396
@@ -1502,7 +1503,7 @@ Province Eastern Cape Free State Gauteng	8999
 Provision of School Materials Free Examination Fees	14835
 Pró-Reitor Frederico Branco	16229
 Public Data Open Access Freely	18747
-Public Perception of Freedom of Speech	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Public Perception of Freedom of Speech	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Public Perception of Freedom of Speech Inclusion	10759,1130,265,9,178,7312
 QRJ-08-2022-0116 Freijat	7278
 Quadro Nacional de Frequências	11531

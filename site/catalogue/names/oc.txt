@@ -25,7 +25,7 @@ Africa and Indian Ocean Mauritius	14566
 Africa and Oceania	10840,1054
 AfricaNenda Foundation CEO Dr. Robert Ochola	7073,714
 African and Indian Ocean	4056,10510,253
-Afrique Occidentale	16621,20
+Afrique Occidentale	16621,20,3345
 Afrique Océan Indien	15455
 Agence Ecofin Oct	1440
 Amb Isaac Ochieng	4631
@@ -763,7 +763,8 @@ Oct-2017	17849
 Oct-2017 Moderately Unsatisfactory	17862
 Oct-2017 Satisfactory Moderately Satisfactory	15663
 Oct-2017. Revised Closing Date	13970
-Oct-2018	13970,3936
+Oct-2018	13970,3936,2082,13
+Oct-2018 Decision Review	19988
 Oct-2018 Satisfactory Moderately Satisfactory	15731
 Oct-2018. Improved	13970
 Oct-2018. Number	13970
@@ -796,9 +797,11 @@ Oct-2023 Operation Closing	18350
 Oct-2023 Progress	1284
 Oct-2023 Restructuring Level	17958
 Oct-2023 Rev. Closing	11395
-Oct-2024	1343,571,4,794,3867,4796,20,529,3557,598,915,6,470,434,455,433,450
+Oct-2024	1343,571,4,794,3867,4796,20,529,3557,598,915,6,470,434,455,433,450,746
+Oct-2024 Cancellations	19990
+Oct-2024 IDA-D3210-001	19990
 Oct-2024 Jun	16994
-Oct-2024 Mid-Term Review No	2712,9212
+Oct-2024 Mid-Term Review No	2712,9212,8064
 Oct-2024 Operation Closing	17958,175
 Oct-2024 Participatory Budgeting	16994
 Oct-2024 People	16994
@@ -823,6 +826,8 @@ Oct-2025. Proposed Closing	11965
 Oct-2025. Revised Closing	11965
 Oct-2026	11469,6664,1116
 Oct-2026 Borrower	16293
+Oct-2026 IDA-62400-001	19990
+Oct-2026 IDA-D3260-001	19990
 Oct-2026 IDA-D9010 Effective	19249
 Oct-2026 TF-B6287 Effective	19249
 Oct-2026. IDA-D6560	18133
@@ -850,6 +855,7 @@ Oct-25. Current	12717
 Oct-26 Oct-28	14828
 Oct-Dec	1944,4727,275,4188
 Oct-Dec Voice	6671
+Oct.2014	19984
 Oct.24	19241
 Octagon	9332,7158
 Octava Sesión Ordinaria	14215
@@ -1054,6 +1060,7 @@ UMc Australia Oceania Australia and New Zealand	10840
 UN International Standard Classification of Occupations	14815
 UN OCHA	3583,11637
 UN OCHA UN Office	15220
+UN Oct	19984
 UNCTAD and OCHA	13042
 UNDP G.B Newsletter OCT	17164
 UNESCO Intergovernmental Oceanographic Commission	14732

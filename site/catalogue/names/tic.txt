@@ -102,7 +102,7 @@ Indice de Développement des TIC	1323,742,2015,11919,169
 Indice de Développement des TIC IFRI Institut de Formation	15583
 Indice du Développement TIC	17845
 Infrastructure TIC	15541
-Infrastructures TIC	13306,4575
+Infrastructures TIC	13306,4575,2105
 Iniciativas de TIC	16251
 Instituto Nacional de TIC	12142
 Juste NKENGURUTSE Louis Point Focal TIC	13341
@@ -198,7 +198,7 @@ Santé TIC	16195
 Scolarisation TIC Technologies	12
 Secrétariat Exécutif des TIC	13290
 Secrétariat Exécutif des TIC Burundi	5958
-Secteur des TIC	13716,4331,58
+Secteur des TIC	13716,4331,58,1881
 Secteur des TIC. Dans	18047
 Secteur des Tic	13717
 Security Operation Center TIC	15512
@@ -301,6 +301,7 @@ TIC Par La Rédaction	556
 TIC Peu	13306
 TIC Profil	17856
 TIC Promotion	13341
+TIC Protection	19990
 TIC Quiconque	19213
 TIC Renforcement	13341
 TIC Régulation	15467
@@ -388,7 +389,7 @@ TIC. O Plano de Ação	18788
 TIC. Outro	11555
 TIC. Par	17448
 TIC. Para	16325
-TIC. Plusieurs	18105
+TIC. Plusieurs	18105,1881
 TIC. Politiques	15591
 TIC. Pour	13290,2646
 TIC. Quant	17856
@@ -477,6 +478,7 @@ Trabalho As TIC	2816
 Télévision Numérique Terrestre TIC	17824
 UN E-Governement Survey Indice de Développement des TIC	16641
 UNITED STATES AID TIC TECHNOLOGIES	18105
+USAID UNITED STATES AID TIC TECHNOLOGIES	19986
 UTILISATION DES TIC PAR LES PARTICULIERS	18204
 Unidades TIC	15476
 Usage des TIC	15390

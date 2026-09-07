@@ -38,7 +38,7 @@ Agence France Presse	14932
 Agence FranÃ	18887
 Agence Française	13433,2226,353,1816
 Agence Française Islamique	10965
-Agence Française de Développement	331,106,364,1,167,74,362,1,1,496,1812,627,751,721,1292,785,459,1925,437,51,200,1,1,20,564,375,119,1306,225,196,1,25,948,667,63,41,27,11,98,8,2,24,40,244,17,1,197,462,17,6,29,28,1123,7,256,181,16,679,249,590
+Agence Française de Développement	331,106,364,1,167,74,362,1,1,496,1812,627,751,721,1292,785,459,1925,437,51,200,1,1,20,564,375,119,1306,225,196,1,25,948,667,63,41,27,11,98,8,2,24,40,244,17,1,197,462,17,6,29,28,1123,7,256,181,16,679,249,590,175
 Agence Française de Développement AFRF	15475
 Agence Française de Développement APC	15673
 Agence Française de Développement Page	15553
@@ -216,6 +216,7 @@ Développement AFD Agence Française de Développement AFOM	16621
 Développement IFT Institut Français	19220
 E DE LA FRANCOPHONIE ET DES	15660
 EMIRAE France	11725
+EN AFRIQUE FRANCOPHONE DE TELEMEDECINE RGPH	19986
 EN FRANCS CFA	17829,340
 EN MILLIERS DE FRANC CFA	10847
 EN MILLIERS DE FRANCS CFA	10712
@@ -603,7 +604,7 @@ Francophone West Africa. Digital	929
 Francophone West Africa. Key	17870
 Francophone West Africa. Stefan Nalletamby	9462
 Francophone West African	9291
-Francophone West and Central Africa	6580
+Francophone West and Central Africa	6580,13457
 Francophone West and Central Africa URL	16178
 Francophone and Anglophone	10801,6738
 Francophone and Central Africans Abroad	16277
@@ -806,6 +807,7 @@ Guinea Bissau Franc	11525
 Guinea Franc	16614
 Guinea Franc GNF	16614
 Guinean Franc	16614
+Guinean Franc-GNF GNF	19988
 Guinée GNF Franc	16626
 H.E. Daniel Francisco Chapo	8754
 H.E. Francine Inarukundo	13457
@@ -1189,7 +1191,7 @@ Uzbekistan France	10785
 V FIDUCIAIRE FRANCE AFRIQUE FFA	16623
 VC Fund Managers France Plug and Play	4972
 VC Fund Managers France Plus Venture	4972
-Version Française	15415
+Version Française	15415,4584
 Vidhyasahar Thiyagarajan and Francesco Rocchi	4095
 Virginia and France	3782
 WEST AFRICAN FINANCIAL COMMUNITY FRANC	3604
@@ -1200,6 +1202,7 @@ West African CFA Francs	19239
 West African Franc	15424
 West African Francophone	3604
 West African and Francophone	3549
+West and Central Francophone Africa	20037
 World Bank Country Representative Franklin Mutahakana	8459
 World Bank and Agence Française de Développement	9756
 Xavier François	16100

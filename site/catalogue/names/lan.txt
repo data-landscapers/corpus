@@ -409,6 +409,7 @@ Digitalization and Land Tenure	9609
 Digitalization of Land Administration	1032
 Digitise Its Land Registry System. Progress	19981
 Diplomatic Missions. The Land Authority	17114
+Directeur National Adjoint Lanciné KAKORO	19985
 Directive for Land Mobile Radio Licenses	762
 Director General and Chief Registrar of Land Titles	6703
 Director for Land Policy and Planning	17055
@@ -911,7 +912,7 @@ Lancaster Re-Ndama	15973
 Lancaster University	16046
 Lance	10876
 Lance Grootboom	12521
-Lancement	1287,609,446,214,140,105,116,43,617,366,950,1201,733,230,128,435,149,31,716,40,335,777,325,280,12,591,46,168,2284,31,28,72,13,54,13,53,2,34,3,12,230,506,114,15,39,3,26,170,664,38,120,156,64,1,2,10,1,88,12,27,40,30,6,14,16,11,1,13,23,1,30,5,35,50,64,24,1,10,38,27,16,52,1,5,53,118,10,45,9,1,747,23,341,18,26,2,26,10,13,23,2,10,1,39,28,9,25,4,6,35,33,1,19,15,7,29,13,18,9,11,28,3,133,511,31,96,3,78,40,31,26,60,9,16,22,79
+Lancement	1287,609,446,214,140,105,116,43,617,366,950,1201,733,230,128,435,149,31,716,40,335,777,325,280,12,591,46,168,2284,31,28,72,13,54,13,53,2,34,3,12,230,506,114,15,39,3,26,170,664,38,120,156,64,1,2,10,1,88,12,27,40,30,6,14,16,11,1,13,23,1,30,5,35,50,64,24,1,10,38,27,16,52,1,5,53,118,10,45,9,1,747,23,341,18,26,2,26,10,13,23,2,10,1,39,28,9,25,4,6,35,33,1,19,15,7,29,13,18,9,11,28,3,133,511,31,96,3,78,40,31,26,60,9,16,22,79,575
 Lancement Formations	13689
 Lancement Groupe Technique National ILLIMI	18160
 Lancement Officiel	16658
@@ -946,12 +947,14 @@ Lancet Global Health	1261
 Lancia Digital Broadcasting	6946
 Lanciato	10848
 Lancinet Hawa DOUMBOUYA	16709
+Lanciné Hawa Doumbouya	20011
+Lanciné Hawa Doumbouya. Selon M. Doumbouya	20011
 Lancé	555,1200,681,296,243,123,1973,242,152,258,389,1221,22,382,655,499,1364,5219,501,210,107,114,149,52,20,823,68,581,36,765,518,81,321
 Lancée	2312,381,833,841,1336,164,350,671,187,413,597,77,150,1954,78,544,882,14,4307,104,387,1209,264,269,664
 Lancée URL	15889
 Lancés	2942,464,7282
 Land AG	19525
-Land Acquisition	1264,603,1737,7164,61,135,453,143,345,453,666,499,1030,23,334,563,185,3,483,792,178,1084,172,4,865,6,39,563
+Land Acquisition	1264,603,1737,7164,61,135,453,143,345,453,666,499,1030,23,334,563,185,3,483,792,178,1084,172,4,865,6,39,563,141
 Land Acquisition Act	9727,4995,4803,60
 Land Acquisition Farms Offered and Farms Purchased	12912
 Land Acquisition and Development Fund	13179
@@ -1284,7 +1287,7 @@ Land Use and Access Limited	14818
 Land Use and Agriculture NAPA	17101
 Land Use and Allocation Plan	18293
 Land Use and Building Control	11231
-Land Use and Involuntary Resettlement	10829,135,2559,1030,23,334,27,39,1960,2899,12
+Land Use and Involuntary Resettlement	10829,135,2559,1030,23,334,27,39,1960,2899,12,141
 Land Use and Involuntary Resettlement ESS	15658,3626
 Land Use and Involuntary Resettlement Not Currently	10768,649,143,345,1427,4866
 Land Use and Involuntary Resettlement Relevant Biodiversity	1284,9545,135,2367,2222,68,1301
@@ -1559,7 +1562,7 @@ Lango	19715,13,13,57
 Lango Lippaye	16971
 Lango and Karimajong	19689
 Langseth	9129
-Language	940,45,6,223,1210,1198,1462,140,374,616,594,1318,554,439,5,137,1190,390,292,59,206,107,358,89,89,105,68,28,55,63,4,12,342,433,3,31,167,40,172,162,850,182,138,12,3,7,1,7,1,84,91,24,3,48,165,129,396,685,284,170,133,199,218,880,107,54,199,96,931
+Language	940,45,6,223,1210,1198,1462,140,374,616,594,1318,554,439,5,137,1190,390,292,59,206,107,358,89,89,105,68,28,55,63,4,12,342,433,3,31,167,40,172,162,850,182,138,12,3,7,1,7,1,84,91,24,3,48,165,129,396,685,284,170,133,199,218,880,107,54,199,96,931,161
 Language Academy	10451
 Language Amharic	14129
 Language Data Commons of Australia	7313
@@ -2259,7 +2262,7 @@ Rules for Land Development	15473
 Rural Development MLHCP Ministry of Lands Housing	18504
 Rural Development and Land Reform	11188
 Rural Development and Land Reform DSD Department	11188
-Rural Land	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Rural Land	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Rural Land Administration	13998
 Rwanda Land Dashboard	12457
 Rwanda Land Management and Use Authority	431,11902
@@ -2351,6 +2354,7 @@ Small Language Models	3859
 Small Language Models Algorithms Small	12210
 Snow Incorparated LAN Local Area Network	34
 Social Security Lane	14738
+Social Specialist. Bolong Landing Sonko	19988
 Société Lancaster Ré-Ndama. Ce	15973
 Société Mighty Land	15670
 Soft Landing	11797,66,2808
@@ -2467,7 +2471,7 @@ Sustainable Land Management	17157
 Sustainable Land Management Practices	13474
 Sustainable Management of Forests Land	17140
 Sustainable Management of Landscapes and Tenure	12985
-Sustainable Use of Land	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Sustainable Use of Land	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Swazi Nation Land	12962,92,197
 Swazi Sign Language	12916
 Systematic Land Adjudication and Certification	19711
@@ -2560,6 +2564,7 @@ United States Sign Landmark Agreement	18535
 United States Sign Landmark Agreement URL	18535
 Universal Modelling Language	15129
 University of Nairobi Language	9679
+Université Général Lansana CONTÉ de Sonfonia	19997
 Université Général Lansana Conté de Sonfonia	16641,46,25
 Université des Master Langue	17829
 Unlawful Occupation of Land Act	11188

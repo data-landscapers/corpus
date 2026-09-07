@@ -302,7 +302,7 @@ Architectural Schematic Diagram FIGURE	13005
 Architectural Schematic Diagram for National	13005
 Architectural and Structural	9123
 Architectural and Structural Design	9123
-Architecture	396,544,69,275,656,1456,821,1343,105,718,40,1247,397,136,1034,1947,768,91,140,176,41,31,900,151,269,90,296,301,228,93,635,161,165,84,97,42,94,258,146,159,9,315,173,340,97,289,22,37,20,395,113,21,790,63,76,2,5,134,75,62,7
+Architecture	396,544,69,275,656,1456,821,1343,105,718,40,1247,397,136,1034,1947,768,91,140,176,41,31,900,151,269,90,296,301,228,93,635,161,165,84,97,42,94,258,146,159,9,315,173,340,97,289,22,37,20,395,113,21,790,63,76,2,5,134,75,62,7,352,7
 Architecture All	10616
 Architecture Building Block	6423,13215
 Architecture Building Blocks	19638
@@ -360,7 +360,7 @@ Archive Center	13624
 Archive Nationale des Données du Tchad	19204
 Archive Register	18440
 Archive Subscribe Now Desert Radio Podcast	11122
-Archived	2712,1976,1735,156,254,95,949,2993,41,484,593,240,39,173,284,303,31,801,51,6,1,3,136,924,37,14,128,576,2,342,626,289,6,79,17,374,35,399,54,48,127,217,4,1,179,258,25,165,101,159,7,232,348,58
+Archived	2712,1976,1735,156,254,95,949,2993,41,484,593,240,39,173,284,303,31,801,51,6,1,3,136,924,37,14,128,576,2,342,626,289,6,79,17,374,35,399,54,48,127,217,4,1,179,258,25,165,101,159,7,232,348,58,114
 Archived Articles	11220,21
 Archived DO Rating IP Rating Actual	15731
 Archived Documents	11220
@@ -509,6 +509,7 @@ Data Architecture and Harmonisation	14752
 Data Data Architecture Modelling	15034
 Data Exchange Architecture	11952
 Data Exchange Architecture Requirement	11952
+Date ISR Archived	19988
 Define Enterprise Architecture	12359
 Deliberate Architecture Looks Like Rwanda	6603
 Delivery Architecture	7548

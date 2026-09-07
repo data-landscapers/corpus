@@ -553,7 +553,7 @@ Foreign	7,229,159,2002,62,317,50,87,157,417,96,71,391,81,1,455,359,28,13,262,411
 Foreign AI	4528,7984
 Foreign Account Tax Compliance Act	6524,1,5160
 Foreign Adversaries Act	11154
-Foreign Affairs	1257,125,269,163,1423,2,17,301,1918,1013,1060,1866,2546,120,65,211,156,460,121,938,722,88,493,29,503,964,2,273,1471,19,146,778
+Foreign Affairs	1257,125,269,163,1423,2,17,301,1918,1013,1060,1866,2546,120,65,211,156,460,121,938,722,88,493,29,503,964,2,273,1471,19,146,778,485
 Foreign Affairs Aboubakar NACANABO	16256
 Foreign Affairs Academy Hall	9680
 Foreign Affairs Annual	7548
@@ -894,7 +894,7 @@ Forest FL-FL	17140
 Forest Forest	17140
 Forest Fund TAKUKURU Taasisi	19590
 Forest Governance Workshop	16853
-Forest Guinea	16654
+Forest Guinea	16654,3348
 Forest Land	17140
 Forest Lands	16848,292
 Forest Law Enforcement	16843,176
@@ -991,7 +991,7 @@ Forestry and Tourism	9353
 Forestry and Wildlife Authority	14089,54
 Forestry-based	17043
 ForestryFraud	11215
-Forests	1988,8771,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1074,1567,243,101,128,1013,239,143,144,1711,36,765,1,169,14,22,1,65,14,1
+Forests	1988,8771,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1074,1567,243,101,128,1013,239,143,144,1711,36,765,1,169,14,22,1,65,14,1,48
 Forests Act	13403,6121
 Forests Act No.4	1988
 Forests Land	10837,1315,188,7598
@@ -1803,7 +1803,7 @@ UK Foreign Commonwealth	12191,7752
 UK Foreign and Commonwealth Development Office	11142,7346,89
 UK Government’s Foreign	11017,66
 UK Officials Prime Minister and Minister of Foreign	16114
-UK's Foreign	10587
+UK's Foreign	10587,9431
 UK’s Foreign	11142,7311
 UNDP CO Foreword C'est	14534
 US Cloud Act and Foreign Intelligence Surveillance	11154
@@ -1852,6 +1852,7 @@ WAICO The Minister of Foreign Affairs and International	12762
 WEATHER FORECAST	18309
 WFP Country Director Ministry of Foreign Affairs	17025
 WMO Severe Weather Forecasting Program	11191
+WMO and Belgium's Ministry of Foreign Affairs	20049
 WORK ON FORESTRY	17043
 WTO World Trade Organization FOREWORD	12951
 Water and Forestry	9485,2840,587,45

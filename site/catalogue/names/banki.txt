@@ -109,7 +109,7 @@ Banking Ombudsman Office	11134
 Banking Operations	17235
 Banking Population	14997
 Banking Regulations	12490
-Banking Sector	11131,3,151,1637,2040,35,26,2081,213,45,1126,335
+Banking Sector	11131,3,151,1637,2040,35,26,2081,213,45,1126,335,1205
 Banking Sector Despite	11134
 Banking Sector Development	17104,213
 Banking Sector Developments 43	17503
@@ -125,7 +125,7 @@ Banking Sector Stress Test	17104,213
 Banking Sector Supervision	11131
 Banking Sector URL	14962
 Banking Service	11939
-Banking Services	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,2409,4755,1,169,14,22,1,65,14,1
+Banking Services	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,2409,4755,1,169,14,22,1,65,14,1,48
 Banking Services Absence of Undue Influence Freedom	10759
 Banking Services Achieve	11131
 Banking Services Labour Relations Secure Employment	10759,78,1315,188,7598

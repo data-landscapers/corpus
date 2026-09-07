@@ -198,7 +198,7 @@ CONSTRUINDO UM CABO VERDE PARA TODOS	16487
 CONTROLE DE VERSÕES Versão Resumo	11532
 CRÉDIT ET VERSEMENTS Versement	15901
 Cabo Ver	16251
-Cabo Verde	356,46,401,440,13,8,1,73,1,1,2,5,1,61,1,21,1,31,2,271,125,48,15,24,106,26,1,1,7,2,3,33,218,56,99,118,64,8,117,4,5,31,13,5,56,31,127,337,142,45,64,42,12,44,78,113,125,207,123,8,159,5,252,40,137,4,138,111,3,51,36,68,20,11,8,14,33,106,204,65,123,20,10,3,25,126,45,294,20,18,3,221,15,126,5,404,110,255,174,67,95,136,21,124,314,91,447,113,616,89,194,161,242,123,45,5,4,17,50,3,8,10,112,37,103,224,107,22,52,18,2,13,15,4,1,3,286,8,4,2,1,3,13,1,2,2,4,3,3,8,21,1,2,6,2,14,8,2,4,33,6,3,3,2,2,3,18,1,113,1,9,47,68,63,11,1,32,103,347,878,155,457,978,41,11,3,1,21,5,6,1,4,7,1,29,7,5,5,20,1,5,15,12,1,1,4,11,6,5,1,3,15,3,17,2,18,3,28,63,5,5,61,69,15,40,2,11,7,1,10,2,12,31,7,4,16,1,8,5,7,16,3,5,27,2,3,8,22,21,4,20,8,39,5,1,6,6,20,10,22,17,4,8,24,1,16,4,18,33,4,28,76,3,6,17,18,30,21,54,189,120,78,12,30,124,92,45,1,37,487,14,74,155,638,38,1,4,12,13,5,23,26,4,15,783,169,14,22,1,80
+Cabo Verde	356,46,401,440,13,8,1,73,1,1,2,5,1,61,1,21,1,31,2,271,125,48,15,24,106,26,1,1,7,2,3,33,218,56,99,118,64,8,117,4,5,31,13,5,56,31,127,337,142,45,64,42,12,44,78,113,125,207,123,8,159,5,252,40,137,4,138,111,3,51,36,68,20,11,8,14,33,106,204,65,123,20,10,3,25,126,45,294,20,18,3,221,15,126,5,404,110,255,174,67,95,136,21,124,314,91,447,113,616,89,194,161,242,123,45,5,4,17,50,3,8,10,112,37,103,224,107,22,52,18,2,13,15,4,1,3,286,8,4,2,1,3,13,1,2,2,4,3,3,8,21,1,2,6,2,14,8,2,4,33,6,3,3,2,2,3,18,1,113,1,9,47,68,63,11,1,32,103,347,878,155,457,978,41,11,3,1,21,5,6,1,4,7,1,29,7,5,5,20,1,5,15,12,1,1,4,11,6,5,1,3,15,3,17,2,18,3,28,63,5,5,61,69,15,40,2,11,7,1,10,2,12,31,7,4,16,1,8,5,7,16,3,5,27,2,3,8,22,21,4,20,8,39,5,1,6,6,20,10,22,17,4,8,24,1,16,4,18,33,4,28,76,3,6,17,18,30,21,54,189,120,78,12,30,124,92,45,1,37,487,14,74,155,638,38,1,4,12,13,5,23,26,4,15,783,169,14,22,1,80,48,59
 Cabo Verde A Organização Mundial da Saúde	16484
 Cabo Verde AFR LMI	17743
 Cabo Verde ARN	15526
@@ -294,16 +294,18 @@ Cabo Verde Technology Park Development Objective	11863
 Cabo Verde Technology Park Phase II	11863
 Cabo Verde Technology Park Project Phase	11863
 Cabo Verde Tel	16493
-Cabo Verde Telecom	356,1107,4421,154,5853,64,3516,20,35,817,2087
+Cabo Verde Telecom	356,1107,4421,154,5853,64,3516,20,35,817,2087,1616
 Cabo Verde Telecom DA Designated Account	15491
 Cabo Verde Telecom Luís Vasconcelos Lopes	11955
 Cabo Verde Telecom S.A	2091
+Cabo Verde Telecom The Government of Cabo	20046
 Cabo Verde Telecom URL	16343
 Cabo Verde Telecommunication Union	11569
 Cabo Verde Telefones	8166,7944
 Cabo Verde Trade	15526
 Cabo Verde TradeInves	15526
 Cabo Verde URL	15505,65,489,75,394
+Cabo Verde World Bank	20031
 Cabo Verde Yes Programme Stratégique	11529
 Cabo Verde and Burkina Faso	11867
 Cabo Verde and CAR	5268
@@ -708,6 +710,7 @@ Enhancing Cabo Verde	11965
 Ensino Secundário de Cabo Verde	16325
 Enterprise Survey for Cabo Verde	11874
 Entidade de Certificação Raiz de Cabo Verde	11867
+Environmental Specialist. Adjoua Veronique Ouattara	19988
 Environnemental IV Vers	8891
 Eradication du Ver de Guinée	18105
 Espaces Verts	14489
@@ -813,7 +816,7 @@ Governação Digital de Cabo Verde	1268,1350,9255,3659,40
 Government Makes Biometric Verification Mandatory for Ghana	7369
 Government Program Cabo Verde's Strategic Plan	11863
 Government Strengthens Identification Verification System	16538
-Government of Cabo Verde	181,1,8,152,1067,3426,619,586,2598,3217,14,4,66,26,43,3483,61,18,413,289
+Government of Cabo Verde	181,1,8,152,1067,3426,619,586,2598,3217,14,4,66,26,43,3483,61,18,413,289,3763
 Government of Cabo Verde. MFIS	11855
 Government of Cabo Verde. Taking	15590
 Government of Cape Verde	181,1,8,2604,2243,6832
@@ -821,7 +824,7 @@ Government of Cape Verde. Once	11869
 Government of Cape Verde’s Núcleo Operacional da Sociedade	181,1,8
 Government. The Government of Cabo Verde	11855
 Governo da República de Cabo Verde	11898,3461,118
-Governo de Cabo Verde	3558,4961,3379,32,91,19,3318,9,21,88,27,23,6,40,183,144,1,22,40,4,34,3,52,28,49,35,14,87,12,63,33,68
+Governo de Cabo Verde	3558,4961,3379,32,91,19,3318,9,21,88,27,23,6,40,183,144,1,22,40,4,34,3,52,28,49,35,14,87,12,63,33,68,3591
 Governo de Cabo Verde Notícias	1736,13667,559,105,67,65
 Governo de Cabo Verde NotíciasDiscurso	1265
 Governo de Cabo Verde NotíciasMinistra Edna Oliveira	1268
@@ -886,6 +889,7 @@ INTRODUÇÃO O Governo de Cabo Verde	15694
 IPD de Cabo Verde	15755
 IRPS. Ver	12018
 IV- Vers	8891
+IVA Independent Verification Agency LAYS Learning-Adjusted	19988
 IVA Verification Implementation Plan	12195
 IaaS. Version	10617
 Identification Version Périmètre Couverture Producteurs	18337
@@ -910,7 +914,7 @@ Independence of Cape Verde	11909
 Independent Counter- Verification Agency	19284
 Independent Evaluation and Verification Panels	1988
 Independent Third-Party Verification	12175
-Independent Verification Agency	6539,4290,2563,2301,945
+Independent Verification Agency	6539,4290,2563,2301,945,3350
 Independent Verification Agency KPI Key Performance	17458
 Independent Verification Agent	6539,5849,3414,3440,213,380
 Indicator Investment Very	19585
@@ -1304,7 +1308,7 @@ Renibly Monteiro Cabo Verde	15978
 Report PEDS Cabo Verde’s Strategic Plan	11863
 Report and I Verify	12241
 Reporting and Verification	8561,863
-Republic of Cabo Verde	583,16,205,5203,2159,3697,78,3550,61,38,334,59,131,105,274
+Republic of Cabo Verde	583,16,205,5203,2159,3697,78,3550,61,38,334,59,131,105,274,3538
 Republic of Cabo Verde H. E. Adama	7452
 Republic of Cabo Verde Loan No	8166
 Republic of Cabo Verde. Praia	11909
@@ -1578,6 +1582,7 @@ VHF Very High Frequency VoIP Voice	2775
 VHW Village Health Workers VIP Very	12663
 VIDEO VERSION	17598
 VIII Governo Constitucional da República de Cabo Verde	15564,348
+VSAT VERY SMALL APERTURE TERMINAL VPN	19986
 Venkatasubramanian and Vertesi2019	8283
 Ver Angola	3468,5931
 Ver Notícia	11402,13,13
@@ -1634,7 +1639,7 @@ Verdade	2161
 Verdant Capital	11994
 Verdant Capital Hybrid Fund	693,354
 Verdant Capital Hybrid Fund Verdant Capital	692
-Verde	4835,6734,286,7,1,10,1,81,3478,17,85,17,12,455,176,213
+Verde	4835,6734,286,7,1,10,1,81,3478,17,85,17,12,455,176,213,3638
 Verde Africa Western Africa Praia High	10840
 Verde Borrower	11855
 Verde Cambodia	17743
@@ -1885,7 +1890,7 @@ Verser	13301,113
 Versichertenbasis	904
 Versio	2779
 Version	2,32,735,194,32,10,4,176,2,797,492,303,724,284,1345,1291,243,166,249,287,294,148,772,21,120,108,9,51,342,506,5,146,831,54,9,92,35,64,27,48,134,84,676,8,106,302,4,3,12,34,241,75,308,5,42,224,451,45,41,103,29,114,232,110,6,33,65,134,44,1,4,10,294,32,2,244,67,60,39,72,2,39,39,95,23,105,1,2,191,135,66,393,10,24,298,33,49,112,8,77,72,52,1,376,30,7,56,34,55,20,18,156,178,12,22,6,133,19,36,6,36,3,75,59,20,50,64,250,262,163,20,23,18,1,1,37,367
-Version Anglaise	16103
+Version Anglaise	16103,3896
 Version Changes Date V	14784
 Version Control	10721
 Version Control Page DOCUMENT CONTROL PAGE	11188
@@ -1895,7 +1900,7 @@ Version Date of Publication Date of Last Update	15714
 Version Description	13804,3562,971
 Version Description Useful	12006
 Version FOREWORD BY THE CHIEF EXECUTIVE	12574
-Version Française	15415
+Version Française	15415,4584
 Version Hausa	2556,995,1106,1302,1374
 Version History	5665,758,9444
 Version History No. Date Section Amendment	19801
@@ -1967,7 +1972,7 @@ Vertrag	18815
 Vertragsverhandlungen	9062
 Vertrouesentrum	11199
 Vervloesem	7966
-Verwaltung	900,2,2,627,1,7530
+Verwaltung	900,2,2,627,1,7530,10951
 Verwaltung KfW Development Bank	902
 Verwaltung. Das Vorhaben	1533,687
 Verwaltungen Digitalisation	384

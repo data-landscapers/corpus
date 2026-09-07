@@ -378,6 +378,7 @@ Deputy Minister of Ministry of Urban and Rural Development	13118
 Deputy Speaker and Member of Parliament for Babati Rural	19602
 Desarrollo Rural	16925
 Description Rural Transformation Centres Digital Platform	584
+Description The Rural Renewable Energy Project	20018
 Description UNCDF Connect Rural Uganda	394
 Description of Rules	16884
 Desenvolvimento Rural	11527,1250,2627,3353,3,7,5,1,25,33,64,1
@@ -436,6 +437,7 @@ ECOLES V.4.5 Rural Nbre	10847
 ECONOMIQUE DES TERRITOIRES RURAUX DANS	17828
 ECONOMY Rural Land	10759
 ECTEUR DE L'ELECTRIFICATION RURALE. LE CONSEIL	16612
+EDG. Rural	20002
 EEC Business Rules and Workflow	12961
 EIA. Law Establishing RURA	14947
 ELECTRIFICAÇÃO RURAL	11366
@@ -709,6 +711,7 @@ Information Society Authority RURA Rwanda Utilities	1204
 Information du Foncier Rural de Côte	10921,15
 Infrastructure Development and Rule of Law	17139
 Infrastructure and Rural Economy. Category	11887
+Infrastructure and Rural Economy. Year-by-year	19987
 Innovation Hub. Running	13688
 Inside President William Ruto	2666,4130
 Institut Polytechnique Rural de Formation	17983
@@ -950,6 +953,7 @@ Ministry Strengthen the Rule of Law	17260
 Ministry for Rural Development	11129
 Ministry of Agriculture and Rural Development	10964,21,4663,154
 Ministry of Agriculture and Rural Equipment. The PARM	18309
+Ministry of Energy. Rural	20002
 Ministry of Lands and Human Settlements Development RUWASA	19519
 Ministry of Local Government and Rural Development	1988,3632,771,2407,3841,748,16,20,241,4789,15,36
 Ministry of Urban and Rural Development	3634,9369,115
@@ -1309,7 +1313,7 @@ RUKUNDO Patrick	12413
 RUKUNKA	14906,141,105,1
 RULAAC	7458
 RULAAC Warns Data Protection Bill Could	7458
-RULE OF LAW	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,4447,2717,1,169,14,22,1,65,14,1
+RULE OF LAW	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,4447,2717,1,169,14,22,1,65,14,1,48
 RULE OF LAW FOUNDATIONS FOR ECONOMIC	10835,3,130,902,16,466,1,135,7334
 RULE OF LAW SCORE	10759,76,2,1,130,902,16,266,188,12,1,135,7334,116
 RULE OF LAW SECURITY	10759,76,2,1,130,902,16,3,451,12,1,135,7334,116
@@ -1377,7 +1381,7 @@ RURAL DEVELOPMENT DATE	11261
 RURAL DEVELOPMENT DEEDS REGISTRIES ACT	11249
 RURAL DISTRICT Server	18476
 RURAL DTSM DIPLÔME DE TECHNICIEN SUPÉRIEUR	18170
-RURAL ECONOMY	10759,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+RURAL ECONOMY	10759,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 RURAL ECONOMY Absence of Corruption	10835,3,130,902,16,466,1,135,7334
 RURAL ECONOMY EDUCATION BUSINESS	19822
 RURAL ECONOMY EDUCATION PUBLIC ADMINISTRATION Rank	12352
@@ -1777,7 +1781,7 @@ Rule Overall Governance	12488
 Rule Reduction and Medicaid Enrollment. Public Admin	19889
 Rule of Consensus ARTICLE	14409
 Rule of Consensus Notwithstanding	14409
-Rule of Law	1828,1563,735,156,962,2441,3074,76,2,1,74,56,167,19,382,50,284,16,1,1,1,263,1,1,9,177,1,11,1,135,153,407,12,1837,62,659,1272,80,5,10,11,47,96,118,3,29,75,3,413,678,19,138,1037,1,169,14,22,1,65,7,7,1
+Rule of Law	1828,1563,735,156,962,2441,3074,76,2,1,74,56,167,19,382,50,284,16,1,1,1,263,1,1,9,177,1,11,1,135,153,407,12,1837,62,659,1272,80,5,10,11,47,96,118,3,29,75,3,413,678,19,138,1037,1,169,14,22,1,65,7,7,1,48
 Rule of Law ACCOUNTABILITY	10759
 Rule of Law Absence of Crime Poverty Reduction	10759
 Rule of Law Accountability	10759,1395
@@ -1808,7 +1812,7 @@ Rule of Law and Consumer Protection Michael McGrath	8773
 Rule of Law and Foundations for Economic Opportunity	12152
 Rule of Law and Fundamental Freedoms	13170
 Rule of Law and Human Development	11887,453
-Rule of Law and Participation	11886,268,7705
+Rule of Law and Participation	11886,268,7705,128
 Rule of Law. UNESCO	13048
 Rule of Law29	1814
 Rule-Based Systems	8283
@@ -2058,12 +2062,12 @@ Rural Download	6051
 Rural Drop Out Completed Urban Attending	19542
 Rural Eastern Cape	5724
 Rural Economic Transformation Project	17274
-Rural Economy	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Rural Economy	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Rural Economy Development and Food Security	14002
 Rural Economy Human Development	11889,452
 Rural Economy N	19653,205,81
 Rural Economy Rank	11889
-Rural Economy Support	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Rural Economy Support	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Rural Economy Support Absence of Corruption	10835,3,130,902,16,466,1,135,7334
 Rural Economy. Between	19858
 Rural Education	11927
@@ -2072,7 +2076,8 @@ Rural Egypt	15473
 Rural Electrification	2775,3647,5157,2045,798,525,437,872,710
 Rural Electrification Access Fund	12394,562
 Rural Electrification Act	13339
-Rural Electrification Agency	1988,5759,104,405,161,1740,3294,163,2088,952,1883,1109
+Rural Electrification Agency	1988,5759,104,405,161,1740,3294,163,2088,952,1883,1109,356
+Rural Electrification Agency AGER	20002
 Rural Electrification Agency of Congo	15659
 Rural Electrification Authority	1867,11472,74,75
 Rural Electrification Authority SDA Strategic Development	1867
@@ -2137,7 +2142,7 @@ Rural Internet Expansion Kenya Overseas Private	147
 Rural Kenema Bo Port Loko Tonkolili	18460
 Rural Kenya Finance Inclusion Facility	14546
 Rural LGAs	17285
-Rural Land	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Rural Land	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Rural Land Administration	13998
 Rural Latency	6051
 Rural Level	16921
@@ -2149,7 +2154,7 @@ Rural Localities	16188
 Rural Localities RGPH General Population and Housing	16188
 Rural Mais	10777
 Rural Mar	6051
-Rural Market Access	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Rural Market Access	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Rural Microcredit Fund	13312,2
 Rural Migration	17157
 Rural Montant	18014
@@ -2175,11 +2180,11 @@ Rural Promise	6876
 Rural Province	13300
 Rural Ref. Code	11180
 Rural Refugees	15244
-Rural Renewable Energy Project	18453
+Rural Renewable Energy Project	18453,1565
 Rural Renewable Energy Project CLIENT	18453
 Rural Renewable Energy Project URL	18453
 Rural Renewal	6832,7842
-Rural Representation	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Rural Representation	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Rural Resettlement	520,420
 Rural Residence	13644
 Rural Residence of Mother	13644
@@ -2351,7 +2356,7 @@ Russell	2816,1310,2706,1451,2147,1899,1295
 Russell Mmiso Dlamini	7030
 Russell Sage Foundation	2096
 Russell Southwood	8025
-Russia	434,506,21,9,294,853,560,98,560,792,86,79,156,653,780,32,178,734,55,70,270,221,30,44,118,329,1120,511,239,897,51,61,136,27,46,81,23,29,67,299,60,296,59,536,431,51,313,864,738,445,131,188,2,52,268,989,133,130,545,1022,800,335
+Russia	434,506,21,9,294,853,560,98,560,792,86,79,156,653,780,32,178,734,55,70,270,221,30,44,118,329,1120,511,239,897,51,61,136,27,46,81,23,29,67,299,60,296,59,536,431,51,313,864,738,445,131,188,2,52,268,989,133,130,545,1022,800,335,72
 Russia Cameroon	5985,909
 Russia Today	3855
 Russia Ukraine	14744,279
@@ -2730,6 +2735,7 @@ UNICITRAL Rules	16835
 UNIT and RuL	6891
 UNMISS's Rule of Law Advisory Section	18714
 UNODC Programme Office and Senior Rule of Law	18873
+UNOPS. Runs	20018
 UPDATES TO RELEVANT COURT RULINGS	5533,6453
 URBAIN ET RURAL	10847
 URBAIN RURAL NATIONAL ELECTRICITÉ	19412

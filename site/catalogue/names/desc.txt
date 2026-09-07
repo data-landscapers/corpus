@@ -172,7 +172,7 @@ Cumulative Target Values Data Responsibili Description	17441
 Cv Description	15129
 D Description	15129
 D-I7-A1 Action Description Identify	15713
-D. Concept Description	12426,685,2402,1162,1781
+D. Concept Description	12426,685,2402,1162,1781,1546
 D. Concept Description A US	12137
 D. Concept Description All	18933
 D. Concept Description The Project Development	15097
@@ -292,7 +292,7 @@ Descripción Códig	16875
 Descriptif	15583,318
 Descriptif Ce	15583
 Descriptif L'observatoire OBSYDYA	16281
-Description	29,1,3,2,4,5,5,1,1,1,2,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,2,1,6,6,12,1,1,1,5,4,3,3,1,2,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,24,9,2,4,1,1,1,1,1,4,1,1,1,1,1,7,1,1,1,1,23,1,7,2,3,3,1,1,1,5,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,1,2,13,1,2,13,1,1,3,1,1,1,1,1,1,5,1,4,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,3,4,38,1,30,1,7,6,2,1,2,5,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,4,53,2,2,8,4,13,1,14,4,1,2,1,1,3,1,10,1,9,1,4,1,1,11,6,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,39,22,8,47,13,2,1,6,3,21,3,3,4,1,4,6,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,5,58,93,1,1,22,6,6,6,1,6,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,27,27,11,7,57,1,1,1,1,17,29,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,1,1,2,66,4,1,2,2,1,15,1,1,13,10,1,1,5,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3,6,16,17,15,1,1,38,41,52,28,47,56,1,32,10,53,1,1,1,1,1,1,1,5,46,14,1,1,1,1,1,1,1,1,1,1,1,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,11,1,1,10,3,1,2,3,1,1,1,40,1,1,1,1,1,1,1,2,7,1,1,2,1,3,1,1,2,2,3,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,2,1,1,1,4,4,8,2,4,2,1,4,2,2,2,2,1,1,1,2,269,36,330,73,468,173,2,59,11,170,1,39,86,22,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,53,1,49,83,10,44,38,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,35,31,1,1,1,14,4,2,3,1,1,1,34,2,1,1,1,1,3,1,1,4,1,1,1,1,1,1,2,1,1,1,3,1,2,2,2,5,1,1,1,1,1,1,3,1,2,1,1,1,1,1,1,1,6,1,1,2,1,1,2,1,3,26,28,1,1,1,19,38,1,1,1,1,1,4,74,169,285,12,2,3,305,107,21,3,112,67,207,1,219,183,5,1,1,1,13,46,34,28,34,108,30,767,145,346,579,1,41,1,1,33,138,161,231,130,21,114,30,136,12,23,63,109,19,30,74,839,7,61,40,67,118,119,22,1,2,1,90,79,24,18,52,56,344,4,32,50,40,18,162,60,67,58,19,30,168,34,169,137,31,87,2,42,58,3,65,170,23,184,39,66,139,4,1,2,7,17,134,164,55,14,201,9,7,42,5,1,1,47,37,4,24,46,27,9,122,8,58,13,16,35,20,27,27,13,18,17,71,154,73,28,2,15,80,50,49,3,26,49,1,2,9,3,4,35,3,11,23,109,4,4,29,6,7,27,1,51,16,100,41,35,8,85,44,6,6,26,14,67,4,1,2,24,142,13,75,31,20,4,2,1,1,1,2,10,3,11,3,31,24,3,5,36,7,50,27,43,57,46,2,19,5,40,80,93,493,21,16,2,9,8,30,66,55,24,14,8,6,13,41,16,111,11,8,11,54,80,17,64,10,346,98,236,24,30,9,45,35,8,53,63,32,5,46,17,272
+Description	29,1,3,2,4,5,5,1,1,1,2,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,2,1,6,6,12,1,1,1,5,4,3,3,1,2,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,24,9,2,4,1,1,1,1,1,4,1,1,1,1,1,7,1,1,1,1,23,1,7,2,3,3,1,1,1,5,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,1,2,13,1,2,13,1,1,3,1,1,1,1,1,1,5,1,4,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,3,4,38,1,30,1,7,6,2,1,2,5,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,4,53,2,2,8,4,13,1,14,4,1,2,1,1,3,1,10,1,9,1,4,1,1,11,6,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,39,22,8,47,13,2,1,6,3,21,3,3,4,1,4,6,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,5,58,93,1,1,22,6,6,6,1,6,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,27,27,11,7,57,1,1,1,1,17,29,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,1,1,2,66,4,1,2,2,1,15,1,1,13,10,1,1,5,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3,6,16,17,15,1,1,38,41,52,28,47,56,1,32,10,53,1,1,1,1,1,1,1,5,46,14,1,1,1,1,1,1,1,1,1,1,1,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,11,1,1,10,3,1,2,3,1,1,1,40,1,1,1,1,1,1,1,2,7,1,1,2,1,3,1,1,2,2,3,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,2,1,1,1,4,4,8,2,4,2,1,4,2,2,2,2,1,1,1,2,269,36,330,73,468,173,2,59,11,170,1,39,86,22,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,53,1,49,83,10,44,38,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,35,31,1,1,1,14,4,2,3,1,1,1,34,2,1,1,1,1,3,1,1,4,1,1,1,1,1,1,2,1,1,1,3,1,2,2,2,5,1,1,1,1,1,1,3,1,2,1,1,1,1,1,1,1,6,1,1,2,1,1,2,1,3,26,28,1,1,1,19,38,1,1,1,1,1,4,74,169,285,12,2,3,305,107,21,3,112,67,207,1,219,183,5,1,1,1,13,46,34,28,34,108,30,767,145,346,579,1,41,1,1,33,138,161,231,130,21,114,30,136,12,23,63,109,19,30,74,839,7,61,40,67,118,119,22,1,2,1,90,79,24,18,52,56,344,4,32,50,40,18,162,60,67,58,19,30,168,34,169,137,31,87,2,42,58,3,65,170,23,184,39,66,139,4,1,2,7,17,134,164,55,14,201,9,7,42,5,1,1,47,37,4,24,46,27,9,122,8,58,13,16,35,20,27,27,13,18,17,71,154,73,28,2,15,80,50,49,3,26,49,1,2,9,3,4,35,3,11,23,109,4,4,29,6,7,27,1,51,16,100,41,35,8,85,44,6,6,26,14,67,4,1,2,24,142,13,75,31,20,4,2,1,1,1,2,10,3,11,3,31,24,3,5,36,7,50,27,43,57,46,2,19,5,40,80,93,493,21,16,2,9,8,30,66,55,24,14,8,6,13,41,16,111,11,8,11,54,80,17,64,10,346,98,236,24,30,9,45,35,8,53,63,32,5,46,17,272,126,31,5,8,3,5,7,5
 Description ADC	594,2
 Description AF Additional Financing AGETIP Public	15731
 Description AFC	240,90,119,593
@@ -313,9 +313,11 @@ Description Accion Digital Transformation Fund	943
 Description Acheter	1776
 Description Acquisition	9134
 Description Action	4161
+Description Action Document ACT-63473	20034
 Description Actis	447,1,955
 Description Activity	1538,1
-Description Additional	162,145,450,821
+Description Additional	162,145,450,821,18451,12
+Description Additional Financing	20025
 Description Adenia Partners	597
 Description Administer	4487
 Description AfricInvest	605
@@ -330,14 +332,16 @@ Description Agence	1291,770,2313
 Description Aggregate of USTDA	1172
 Description All	14931
 Description An ICT for Education Policy	13991
-Description Announced	9504
+Description Announced	9504,10538
 Description Annually DHIS2	19284
 Description Annually Frequency Contracts	19284
 Description AoJ Computerisation	1667,977,2996
+Description Appraisal	20017
 Description Appraisal-Stage Project Information Document	1572
 Description Article	1157
 Description Association for Progressive Communications	522,1034
 Description Assurer	3172
+Description At the MoU	20035
 Description At the US	1022
 Description Audit du SIF	10876
 Description Ausgangssituation	614,1,208,5,224,370,5
@@ -433,6 +437,7 @@ Description Der Verdant Capital Hybrid Fund	692,1
 Description Development	632,15029,3584
 Description Development Fund	2636
 Description Development Partners International	347,488,604
+Description Development Policy Financing	20040
 Description Develops	160
 Description Die	900,4,627,1
 Description Die Beschäftigungsperspektiven	458
@@ -458,7 +463,7 @@ Description EAIF	516,1,1,196,222,209,1,1,402,1
 Description EBRD Board	1819
 Description ECOWAS	1177
 Description EDCF	354,1,281,1,1,212,232
-Description EIB	188,66,218
+Description EIB	188,66,218,19554
 Description ENE	1601,1,1,1,1,1,7,2,1,1,1,1278,1,2,1,1,1
 Description EU	1073
 Description EU-funded	1084
@@ -507,12 +512,14 @@ Description Fees	18541
 Description FinDev Canada	263,828,3383
 Description Financial Sector Deepening Zambia	526
 Description Financing	255,1209,354
+Description Financing Agreement	20028
 Description Finnfund	197,454,212,229,377
 Description Finnfund EUR	864
 Description Finnfund USD	1470
 Description First AFD	1043
 Description First EIB	253
 Description Follow-on	453
+Description Following	20047
 Description Forest	17140
 Description Format Requir	11952
 Description Framework	12360
@@ -533,7 +540,7 @@ Description Google CEO Sundar Pichai	776
 Description Google's AI	2209
 Description Government	1732
 Description Government of India Line of Credit	381,307
-Description Grant	464,213,1
+Description Grant	464,213,1,19338,28
 Description Gross	11905
 Description Guinea	1178
 Description Guinea-Bissau	1180
@@ -571,7 +578,8 @@ Description InfraCo Africa	1127,400
 Description Infrastructure	13991
 Description Interest	17099
 Description Intervention	346
-Description Investment Project Financing	16655
+Description Investment	20049
+Description Investment Project Financing	16655,3368
 Description Issue Date	8726
 Description JBIC	144
 Description JICA	207,691,232,399,689,2282
@@ -594,7 +602,7 @@ Description Liberia’s and Sierra Leone	16144
 Description L’objet	13694
 Description MASSIF	1471
 Description MASSIF USD	1472
-Description MCC	87,123,19035
+Description MCC	87,123,19035,779
 Description MCF	385,2,120,1,1,193,207,2,222,407,684
 Description MCF Scholars Program	146,240,317,207
 Description MCWBE Computerisation	2641,2996
@@ -687,6 +695,7 @@ Description Objective Action Details E-I14-A1 E-I14-A2	15713
 Description Objective Action Details I-I13-A1 Enhancing	15713
 Description Objective Action Details Tech-I3-A1 Lay	15713
 Description Objective Action Details Tech-I5-A1 Training	15713
+Description Officially	20043
 Description Ombuds ICT Development	5642
 Description Omidyar Network	289,1,224
 Description Once Frequency Decree	19284
@@ -696,6 +705,7 @@ Description Orange Digital Ventures Africa	515
 Description Orange Money	1142
 Description Oversees	5186,1,1,1,1,2
 Description Overwhelmingly	1609
+Description PAFEN	20039
 Description PAMSI	1238
 Description PAP	3164,1,1,1,1,1,1,1
 Description PARTNER	11207,1
@@ -780,9 +790,10 @@ Description Sex Very Somewhat	12409
 Description Should	11417
 Description Shrubs	17140
 Description Sida	92,432,195,1522
+Description Signed	20020
 Description Sonatel Group	1143,405
 Description Sont	13452
-Description Sovereign	450,351,1325
+Description Sovereign	450,351,1325,17920
 Description Space Program	1757
 Description Statistical	15661
 Description Strategic	19245
@@ -816,6 +827,7 @@ Description Supports Togo	2047
 Description Supports Western Africa	1277,4085
 Description Supports the DRC	1771
 Description Supports the Global Financing Facility	63
+Description Sweden	20036
 Description Swedfund	94,303,551,1,213,1081
 Description Système	10876
 Description T-I21-A1 AI	15713
@@ -839,6 +851,7 @@ Description The African Growth and AI Network	16770
 Description The African Union	1175
 Description The April-2026	5660
 Description The Bank	11134
+Description The Board of Directors	20037
 Description The Congo Component	117
 Description The Cote	15622
 Description The Digital Access Programme	649
@@ -847,6 +860,7 @@ Description The Digital Value Chain Infrastructure	4451
 Description The E-Governance and Public Financial Management	1410,717
 Description The EU	471
 Description The FY2025	2965
+Description The GCF	20021
 Description The GDD Visibility Tech Sprint	2203
 Description The Gambia	1179
 Description The Horn of Africa Digital Market	806
@@ -865,6 +879,7 @@ Description The Payment System and Financial Inclusion	175
 Description The Project	1075
 Description The Republic of Cabo Verde	803
 Description The Right	4489
+Description The Rural Renewable Energy Project	20018
 Description The Smart Africa Alliance	1182
 Description The Somalia National Statistical Capacity	119
 Description The Strengthening Health Systems and Medical	6594
@@ -875,9 +890,10 @@ Description The Tanzania ICT	721
 Description The UGPE	11855
 Description The University of Cape Coast	455
 Description The World Bank	31
-Description Third	5185
+Description Third	5185,14846
 Description Third BII	2139
 Description This Action	1069
+Description Three-pillar	20032
 Description Through	1066
 Description Title	12013
 Description Title Power of Data	18175
@@ -946,6 +962,8 @@ Description Whole	1784,1,2,7,3,1404,1,2,3,3,3872,1,2,3,2
 Description Works	195
 Description World Bank	19284
 Description World Bank Digital Development Partnership	525,634
+Description World Bank IDA Crisis Response	20048
+Description World Bank IDA Scale-Up Facility	20019
 Description World Bank Program Appraisal Document	1573
 Description World Bank Program Document	537
 Description World Bank Project Implementation Support	12553
@@ -1153,7 +1171,7 @@ II. DESCRIPTION DU PROJET ET	15746
 II. DESCRIPTION OF ADDITIONAL FINANCING	1284,1605,9076,3173,644,201,913,26,1703,184,475,171
 II. DESCRIPTION OF ADDITIONAL FINANCING A	16896,26,2362
 II. DESCRIPTION OF ADDITIONAL FINANCING Proposed	15782
-II. DESCRIPTION OF PROPOSED CHANGES	1228,1245,2180,10313,5,831,167,63,155,2172
+II. DESCRIPTION OF PROPOSED CHANGES	1228,1245,2180,10313,5,831,167,63,155,2172,1631
 II. DESCRIPTION OF PROPOSED CHANGES A	16032,2327
 II. Description	12220,4178
 II. Description of Proposed Changes	15693
@@ -1536,6 +1554,7 @@ Time-sensitivity Description Strengthening	8603
 Timeline Project Description Funding	12399
 Togo Description	17681
 Tot Description	15129
+Trustee Sas Description	19993
 Turk Legally Binding No Description	17880
 Tvt Description	15129
 Twb Description	15129

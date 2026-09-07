@@ -19,7 +19,7 @@ ANNEX III OPERATIONAL INDEPENDENT POWER PRODUCER	12399
 ANNEXES TO OPERATION REPORT	1818
 ANNUAL REPORT Operating Procedures	1154
 AOC Air Operator Certificate AOI Agriculture	2775
-ASSOCIATED OPERATION	2712,1976,1891,349,949,3518,576,257,39,173,2719,576,2,276,66,626,289,6,79,17,808,54,48,127,217,4,1,179,258,25,266,166,580
+ASSOCIATED OPERATION	2712,1976,1891,349,949,3518,576,257,39,173,2719,576,2,276,66,626,289,6,79,17,808,54,48,127,217,4,1,179,258,25,266,166,580,172
 ASYCUDA Express Operators Module	15478
 ATC KENYA OPERATIONS LIMITED Data Controller	7167
 AUTORIZAÇÃO DE OPERAÇÕES DE PAGAMENTO	10755
@@ -451,7 +451,7 @@ DETERMINATION ON THE OPERATIONAL AND CYBERSECURITY	13206
 DEVELOPMENT POLICY OPERATION KEY ACTION POINT	18488
 DEVISES P1B P1C OPERATIONS DE CHANGE	18032
 DIGITALIZATION LIFE CYCLE Operations and E Maintenance	11007
-DISBURSEMENTS Operation Dates	2473,2180,13706,925
+DISBURSEMENTS Operation Dates	2473,2180,13706,925,706
 DISCLAIMER While the System Operator	11228
 DISPONIBILITE ET CAPACITE OPERATIONNELLE DE SERVICES	17843
 DLRs. Risks Systematic Operations Risk-rating Tool	16638
@@ -585,6 +585,7 @@ E. Legal Operational Policies Triggered	19284
 EASTERN AND SOUTHERN AFRICA Operation ID	2291
 EASTERN AND SOUTHERN AFRICA. Operation ID	19663
 ECSL Operations	18531
+EDG. Operation	20002
 EIXOS ESTRATÉGICOS E OBJETIVOS OPERACIONAIS Recenseamento	11526
 EMPLOYMENT BY MOBILE NETWORK OPERATORS	6000
 EMPREGO NO SETOR POR OPERADOR	11531
@@ -661,6 +662,7 @@ Eswatini. Harmonising Operational Efficiency	11131
 EthSwitch. Operator	12269
 Ethics and Operations	4528,7984
 Ethiopia Development Policy Operation	14017
+Ethiopia Education Transformation Operation for Learning	20041
 Ethiopia Operating Hours	10709
 European Civil Protection and Humanitarian Aid Operations	970,9871,2704,393,3968
 European Journal of Operational Research	9128
@@ -830,7 +832,9 @@ Guia Operacional Nacional	18812
 Guia Operacional de Implementação	11451
 Guidelines for Application Operation Support	19575
 Guidelines for Software Operation and Maintenance Support	19575
+Guinea Education Project for Results Operation	19988
 Guinea-Bissau's Strategic and Operational Plan	11552
+Guinea. Operation ID	20002
 Guy Bandolo An Operational Guide	13681
 H Operacionalización	4209
 H. Legal Operational Policies I. Environmental	2889
@@ -896,6 +900,7 @@ IFMIS Accounting Module Operationalized	18359
 II- MATRICE DU PLAN D’ACTION OPERATIONNEL	10858
 II. OPERATIONNALISATION DE LA COMMISSION	18322
 III. Combined Maritime Operations Program	18914
+III. PROPOSED CHANGES Operation Information	19990
 III. PROPOSED CHANGES Operation Information Proposed	2473,13496,63,155,2172
 III. PROPOSED CHANGES Operation Information Summary	4653
 III. PROPOSED OPERATION	18851
@@ -1002,7 +1007,8 @@ Joint Operational and Intelligence Structure	11188
 Journal of Global Operations and Strategic Sourcing	8021
 Judicial Professional and Operational Gap Analysis	16943
 Jumia Delivers Continued Operating Leverage	9735
-Jun-2023 Operation Closing	17904
+Jun-2018. Operation Closing Date	19990
+Jun-2023 Operation Closing	17904,2084
 Jun-2024 Operation Closing	19249
 Jun-2026 Operation Closing	16994
 Justice Implementation Ministry and Operators	16884
@@ -1047,7 +1053,7 @@ Legal Operational Policies No No Projects	3604,7813,4727
 Legal Operational Policies No Projects	3456,15828
 Legal Operational Policies Policies	16675
 Legal Operational Policies Policies Triggered	13111,1442
-Legal Operational Policies Projects	14576,1082
+Legal Operational Policies Projects	14576,1082,4344
 Legal Operational Policies Triggered	1867,8901,195,942,3608,148,3584,162,256
 Legal Operational Policies and Screening Risk Projects	12426
 Legal and Operational Structure	4896
@@ -1139,7 +1145,7 @@ Market and Operational Barriers	12297
 Market for Facilities-Based Operators	14010,7
 Markets and Banking Operations Directorate	15023
 Mauritius Build Operate Transfer Unit	14847
-May-2024 Operation Closing	17096,1258
+May-2024 Operation Closing	17096,1258,1647
 May-2025 Operation Closing	6579
 May-2025 Operation Name	14954
 Meaning SOP Standard Operating Procedure SSA	11218
@@ -1201,7 +1207,7 @@ Mobile Security Operation Centre	19394
 Mobile Telecom Operator	15553
 Mobile Telecommunications IOC Intelligent Operations Centre	2775
 Mobile Telephony Services Operator	6946
-Mobile Virtual Network Operator	3695,8069,6060,747,1
+Mobile Virtual Network Operator	3695,8069,6060,747,1,1473
 Mobile Virtual Network Operators	7401,1440,2418,6611
 Mobile Virtual Network Operators NDS1	958
 Mode of Operation	736
@@ -1442,7 +1448,7 @@ OPERATION OF COLLATERAL REGISTRIES	12389
 OPERATION OF CREDIT BUREAUS AND REGISTRIES	12389
 OPERATION OF IMT NETWORKS	14780
 OPERATION STATUS Development Objective	16032,2777,475
-OPERATION STATUS Project Development Objective	2473,2180,13706
+OPERATION STATUS Project Development Objective	2473,2180,13706,1631
 OPERATION TOTAL NO. NOT IN OPERATION	2776
 OPERATIONAL	10852,2228,1885
 OPERATIONAL AND CYBERSECURITY STANDARDS WITHIN NATIONAL	13206
@@ -1655,7 +1661,7 @@ Operadores de Turismo	15645
 Operaonal	9237
 Operar	1701,736,1781,8623
 Operat	9123
-Operate	958,4333,2357,2509,662,187,1,798,428,1123,398,1199,70,1820,271,1358,69,480,564,216
+Operate	958,4333,2357,2509,662,187,1,798,428,1123,398,1199,70,1820,271,1358,69,480,564,216,201
 Operate CAB Central African Backbone CCDR	1264
 Operate Digital Industrial Park	9117
 Operate Guidelines for Europe	11007
@@ -1680,7 +1686,7 @@ Operating Context	3410
 Operating Cost	3862
 Operating Cost Margin	14997
 Operating Cost and Revenue	3862
-Operating Costs	2474,2179,1347,5525,338,3049,460,39,286,1239,1951,397
+Operating Costs	2474,2179,1347,5525,338,3049,460,39,286,1239,1951,397,706
 Operating Costs NEF	14835
 Operating Costs Revenue Cost	6000
 Operating Costs and Training	15553
@@ -1795,7 +1801,7 @@ Operation Sentinel	16008
 Operation Sentinel and Operation Red Card	8777
 Operation Serengeti	8777
 Operation Shanela	2626
-Operation Short Name	15702,257
+Operation Short Name	15702,257,4029
 Operation Specific Annex	18851
 Operation Status Active Does	16032
 Operation Status Closed Current ESRC High	16436
@@ -1828,7 +1834,7 @@ Operation of National Statistical System	12530
 Operation of Various Types of Bodies Performing Inspection	16900
 Operation the Information Regulator	10729
 OperationVulindlela	11236
-Operational	1554,167,81,16,61,212,1295,1048,354,745,144,199,270,296,29,197,270,235,105,124,146,100,103,414,176,436,346,114,221,155,3,486,666,25,19,7,22,3,76,17,32,1,27,134,2,1,4,18,261,190,277,1,7,3,10,47,1,33,67,5,4,97,1,45,92,41,13,5,8,63,60,13,49,358,31,12,55,48,219,59,87,433,78,737,7,55,2,6,23,77,8,53,25,20,3,26,26,26,11,2,54,40,6,28,41,1,38,98,69,49,58,86,57,2,50,264,31,24,180,105,95,293,127,46,46,44,2,179,8,23,225,290,267,118,23,20,50,13,31,245,3,64,2,6,250,198,161,138,170,66,56,9,56,36,44,26,54,7,54,3,37
+Operational	1554,167,81,16,61,212,1295,1048,354,745,144,199,270,296,29,197,270,235,105,124,146,100,103,414,176,436,346,114,221,155,3,486,666,25,19,7,22,3,76,17,32,1,27,134,2,1,4,18,261,190,277,1,7,3,10,47,1,33,67,5,4,97,1,45,92,41,13,5,8,63,60,13,49,358,31,12,55,48,219,59,87,433,78,737,7,55,2,6,23,77,8,53,25,20,3,26,26,26,11,2,54,40,6,28,41,1,38,98,69,49,58,86,57,2,50,264,31,24,180,105,95,293,127,46,46,44,2,179,8,23,225,290,267,118,23,20,50,13,31,245,3,64,2,6,250,198,161,138,170,66,56,9,56,36,44,26,54,7,54,3,37,93,7
 Operational Acceptance	7987,5198,1905
 Operational Acceptance Certificate	13054,5607
 Operational Acceptance Tests	13185,1905
@@ -2021,11 +2027,13 @@ Operationalisation of Law	4583
 Operationalisation of ZDSR	11133
 Operationalise	4848,2038,50,612,3608,80,741,422,54
 Operationalise Fintech Credit Guarantee Window	4848
+Operationalise Inaugurate	20004
 Operationalise MOUs AI Incubators	14566
 Operationalise Nationwid X X X X	15845
 Operationalise Non-public	7548
 Operationalise the CGV	11236
 Operationalise the IDWG	11940
+Operationalise the Officially	20004
 Operationalise the Transport Economic Regulator	11236
 Operationalised	7810
 Operationalising	11156,1603,3403,2370
@@ -2293,8 +2301,10 @@ Owners and Operators	1000
 Owners and Operators CII	1000
 Ownership Implementation Operation RDGP Global Ownership	12359
 P144140. Operation Name	15704
+P161329. Operation Name	19990
 P162901. Operation Name	13897
 P166193 Operation Name	13742
+P167478 Operation Name	19988
 P168336 TBL Country Angola Operation ID P168336	10779
 P169983 TBL Country Angola Operation ID P169983	10779
 P173240. Operation Name	15802
@@ -2305,6 +2315,7 @@ P1J P1K OPERATIONS DE CHANGE	18032
 P504621. Operation Name	14937
 P505094 Operation Name	2291
 P506969. Operation Name	13856
+P511453. Operation Name	20002
 P511478 Operation Name	14015
 P513798 Operation Name	16293
 P514166. Operation Name	13743
@@ -2438,6 +2449,7 @@ Private Sewer Network Operator D75	17250
 Private Telecom Network Operators and ISPs	19633
 Private Telecom Operator	15553,68
 Private Telecom Operators	15553
+Private. Operation	20002
 Privately Operated Hybrid Mini-Grids	16654
 Procedimento Operacional Padrão	12797
 Procedimento Operacional Padrão Nacional	11376
@@ -2446,7 +2458,7 @@ Procedures Operationnelles Standardisees	14662
 Procedures Operationnelles Standardisees du COUSP	14662
 Procurement No Legal Operational Policies	15969,2390
 Procurement Policy for Bank Group Funded Operations	8669
-Product Information Operation ID	14948
+Product Information Operation ID	14948,5040,2
 Production Activities and Operations	16861
 Professional and Operational Gaps	16943
 Professional and Operational Gaps The Judiciary SWOT	16943
@@ -2644,7 +2656,7 @@ STRUCTURES OPERATIONNELLES VI	16100
 SUBSECÇÃO X Operador de Centros de Dados Artigo	6970
 SUBSECÇÃO XI Operador de Plataformas de Computação	6970
 SUBSECÇÃO XIII Operador de Comunicações Digitais Artigo	6970
-SUMMARY Total Operation Cost	1704,163,424,1271,42,7164,792,1551,412,492,939,704,3,1014,2570,162
+SUMMARY Total Operation Cost	1704,163,424,1271,42,7164,792,1551,412,492,939,704,3,1014,2570,162,595
 SUR OPERATIONS DIVERSES Produits	18032
 SYSTEM OPERATOR	12374
 SYSTEM OPERATOR STATISTICS	11228
@@ -2655,7 +2667,7 @@ SYSTEMATIC OPERATIONS RISK- RATING TOOL	1264,603,1737,2935,4229,649,143,4098,3,8
 SYSTEMATIC OPERATIONS RISK-RATING TOOL	969,315,9545,135,416,145,330,110,1366,1,1858,301,62,68,777,498,26,1371,8,782,746
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Last Approved	16705
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Rating	2712,1976,6707,6509,630,258
-SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173,587,31,862,1060,51,128,576,2,276,66,915,6,79,17,374,35,453,48,127,217,4,1,462,165,260,7,232
+SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173,587,31,862,1060,51,128,576,2,276,66,915,6,79,17,374,35,453,48,127,217,4,1,462,165,260,7,232,520
 Sales Operation	16883
 Salvador Nzamio ENZEMA Jefe de Servicio de Operación	16898
 Sandboxes Operations	7763
@@ -2981,6 +2993,7 @@ Vital Statistics Records Program Operations Manual	19686
 Vodacom Ethiopia Telecoms Operating Licence	733
 Voter Registration Operational Plan	18531
 WB GovTech Operations	1278
+WB's Operation Policy OP	19988
 WFP World Food Programme. OPERATION INFORMATION	15190
 WINDING-UP AND RECEIVERSHIP OF SYSTEM OPERATOR	14728,2
 Warns Operators	16796
@@ -3000,7 +3013,7 @@ World Bank IFP Operations	15661
 World Bank IPF Operations	15518,141
 World Bank Investment Project Financing Operations	15553
 World Bank Managing Director of Operations Anna	7426
-World Bank Operational Policy	14897
+World Bank Operational Policy	14897,5093
 World Bank Operational Policy Proposed Operation	19284
 World Bank Operations	17458
 World Bank Operations Policy and Country Services	17862

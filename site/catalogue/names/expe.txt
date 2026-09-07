@@ -29,6 +29,7 @@ AUTHORS S. Name Expertise	9855
 Abridged and Main Report the Expert Group	582
 Access and Consumer Experience	5676
 Accredited WCO TRS Expert	17367
+Action Mandate Lead Expected Actor	20004
 Activity Description and Expected Outputs Activity	12008
 Actual Expenditure	1672,1,964,1,1,1,1,1,1,1,1,1,1,1,4,1,1,8216,2485,1391
 Actual Expenditure K20	13355
@@ -456,14 +457,14 @@ Expectations and Aspirations	19835
 Expectations and Minimum Maturity Level	15054
 Expectations for Computer Security Incident Response	18774
 Expectations of Beneficiaries	18461
-Expected	82,297,120,182,1,3,104,23,79,79,78,106,40,96,1699,442,69,104,460,3,1451,102,261,50,492,1272,1428,782,502,422,80,271,68,647,10,51,12,183,8,1,44,1,3,45,16,33,53,58,74,13,94,249,194,16,303,7,29,26,94,629,915,82,53,15,15,11,140,101,161,290,108,379,555,5,97,47,1,11,343,988,71,358,98,95,204,235,226,102,15,3,87
+Expected	82,297,120,182,1,3,104,23,79,79,78,106,40,96,1699,442,69,104,460,3,1451,102,261,50,492,1272,1428,782,502,422,80,271,68,647,10,51,12,183,8,1,44,1,3,45,16,33,53,58,74,13,94,249,194,16,303,7,29,26,94,629,915,82,53,15,15,11,140,101,161,290,108,379,555,5,97,47,1,11,343,988,71,358,98,95,204,235,226,102,15,3,87,43
 Expected Annual Return	7446
-Expected Approval Date	1584,668,1310,7270,1133,423,2522,26,1,253,363,105,124,616,3437,12,8
+Expected Approval Date	1584,668,1310,7270,1133,423,2522,26,1,253,363,105,124,616,3437,12,8,164,4,6,19
 Expected Approval Date Expected Closing Date	1867,1737,7164,61,135,453,143,295,50,1426,1,2289,40,483,2054,1047
 Expected Approval Date Review Type	18809,475
 Expected Benefits	12359
 Expected Births	12151
-Expected Closing Date	2252,8580,1556,2522
+Expected Closing Date	2252,8580,1556,2522,5109
 Expected Completion Date	16308
 Expected Compute and Storage Expansion	5793
 Expected Cost	15372
@@ -559,7 +560,7 @@ Expedição	15359
 Expendedores	17022
 Expendeduría	16859
 Expenders	9536
-Expenditure	563,399,258,69,1486,808,1950,122,933,4175,5,78,24,99,16,149,2,82,12,41,198,415,1,10,12,79,173,1,44,1,146,4,18,23,49,42,111,294,28,2,34,6,80,11,69,1,232,65,1297,19,2,8,89,61,90,618,59,1223,58,34,18,109,104,26,22,3,29,75,77,62,406,81,476,1,16,17,78,83,377,123,365,4,1,71,110,111,39,3,87
+Expenditure	563,399,258,69,1486,808,1950,122,933,4175,5,78,24,99,16,149,2,82,12,41,198,415,1,10,12,79,173,1,44,1,146,4,18,23,49,42,111,294,28,2,34,6,80,11,69,1,232,65,1297,19,2,8,89,61,90,618,59,1223,58,34,18,109,104,26,22,3,29,75,77,62,406,81,476,1,16,17,78,83,377,123,365,4,1,71,110,111,39,3,87,43
 Expenditure Analysis	11986
 Expenditure Approach and The Income Approach	18483,5
 Expenditure Arrears	1828
@@ -571,6 +572,8 @@ Expenditure Categories	11525,920
 Expenditure Category	2775
 Expenditure Category Current Allocation Actuals	16187
 Expenditure Category Table	17260
+Expenditure Chain	20004
+Expenditure Chains	20004
 Expenditure Control	19847
 Expenditure Control Measures	13122
 Expenditure Eligible for Bank Group Financing	16219
@@ -913,6 +916,7 @@ Group of Experts of Registrars General	3038
 Group of Governmental Experts	10840
 Grupo Intergubernamental de Expertos	16875
 Grupo de Expertos	16974
+Guinea Public Expenditure Review	20004
 H&S Official Use Only Expected Environmental	12253
 HEIs. Expected Outcomes	14747
 HSM. Key Experts	12834
@@ -1037,7 +1041,8 @@ KRA’s Experience	14932
 KSh Million Expenditure Category	2775
 Kenyan Expert Working	12227
 Kenya’s Incomes and Expenses Validation	10064
-Key Expected Outcomes and Outcome Indicators	11924,3500,87,90,62,68,705,516,897,113,803,60
+Key Expected Outcomes and Outcome Indicators	11924,3500,87,90,62,68,705,516,897,113,803,60,1163
+Key Expected Outcomes and Outcome Indicators. Project	19988
 Key Expert	14486
 Key Experts	9603,1,5539,1350
 Key Experts Key Expert	14486
@@ -1110,6 +1115,7 @@ Mandatory Expenses	3583
 Mar-2026 Expect	13548
 Matter Expert TOGAF The Open Group	12917
 Mauritius. YOUR EXPERIENCE REIMAGINED	14752
+May-2026. Expected Disbursements	19990
 May-2028 Expected Disbursements	18359
 Medical Expenses	19741
 Medium Term Expenditure Framework	396,5137,5756,618,79,2961,2494
@@ -1250,7 +1256,7 @@ Per Capita Health Expenditure	18162
 Percentage Composition of Expenditure	18483
 Percentage of Credit Allocated Expenditures	10964,4408
 Percentage of Credit Allocated Grant Allocated Expenditures	18887
-Percentage of Expenditures	14987,424,247,1278,1026
+Percentage of Expenditures	14987,424,247,1278,1026,2028
 Percentage of Financing Expenditures	11525
 Percentage of Poultry Holdings Experiencing Animal Diseases	17043
 Personnel Expenditure	11218,1702
@@ -1269,6 +1275,7 @@ Position Qualifications Experience Project Team Leader	15090
 Post-Delisting Positioning and Shareholder Expectations	4896
 Poverty Alleviation and Empowerment Recurrent Expenditure	14835
 Practice and Experience	8605
+Presidency. Experience	20004
 Presidential Expected	13418
 Previous Article Experts	4609
 Previous Experience of Enterprise	1988
@@ -1285,6 +1292,7 @@ Professional Experience	962,13223,2883,2018
 Program Expenditure Framework	11905,4127,2338
 Program Expenditure Framework The PforR	18370
 Program Expenditures	16032
+Program Phases Expected Program End Date	19990
 Programme Expenditure	11218
 Project Amount Expended	19279
 Project Expenditure Schedule Components PY1 PY2	11863

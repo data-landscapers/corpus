@@ -1970,7 +1970,7 @@ Provions of Paragraph	14919
 Provipsaions Regarding Meetingso	19525
 Provis. Reprov. Sec. Abandonos Aprovados Comparticipada	10766
 Provisio Montants	18032
-Provision	940,191,23,7,59,373,274,121,319,166,688,517,294,182,48,694,769,1167,114,592,10,297,509,543,212,535,763,368,54,300,440,286,5,1,53,41,1,37,2,245,6,7,48,22,15,21,36,133,1,2,4,17,141,219,26,16,21,2,8,68,235,43,235,843,40,44,10,91,135,9,8,6,9,17,50,3,36,3,10,27,5,35,63,173,23,157,13,34,14,32,17,7,73,105,5,34,323,27,97,292,164,31,67,141,13,11,9,12,1,2,28,1,10,15,2,4,4,4,16,84,59,121,1,205,303,89,129,387,88,25,4,9,21,16,44,331,78,98,1,185,35,236,5,2,5,9,100,104,90,20,5
+Provision	940,191,23,7,59,373,274,121,319,166,688,517,294,182,48,694,769,1167,114,592,10,297,509,543,212,535,763,368,54,300,440,286,5,1,53,41,1,37,2,245,6,7,48,22,15,21,36,133,1,2,4,17,141,219,26,16,21,2,8,68,235,43,235,843,40,44,10,91,135,9,8,6,9,17,50,3,36,3,10,27,5,35,63,173,23,157,13,34,14,32,17,7,73,105,5,34,323,27,97,292,164,31,67,141,13,11,9,12,1,2,28,1,10,15,2,4,4,4,16,84,59,121,1,205,303,89,129,387,88,25,4,9,21,16,44,331,78,98,1,185,35,236,5,2,5,9,100,104,90,20,5,128
 Provision Mechanisms	4154
 Provision Oversight	15206
 Provision Regional Development Plans	16916
@@ -2058,6 +2058,7 @@ Provisional Constitution. The SNBS	14882
 Provisional Data for Telkom Kenya Limited Table	6671
 Provisional Driving Licences	14839
 Provisional Electoral Register	18605
+Provisional ID. the NIN	20004
 Provisional Increase	14773
 Provisional Note	14832
 Provisional Order	18613
@@ -2121,9 +2122,9 @@ Provisórias	10766
 Provisórias Improvisadas Angola	10766
 Provisório	18753
 Public Data Service Providers	958,12337
-Public Perception of Education Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Public Perception of Education Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Public Perception of Education Provision Social Protection	10759,1395
-Public Perception of Health Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Public Perception of Health Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Public Perception of Health Provision Education	10759,1395
 Public Perception of Health Provision Reading	11889,452
 Public Service Commission and Gauteng Provincial Government	4896

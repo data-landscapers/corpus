@@ -462,7 +462,7 @@ Google’s Senior VP James Manyika	6250
 Google’s Senior Vice President for Research	6930
 Governance MNSPS Jean-Charles De Daruvar Senior	17441
 Government The World Bank Senegal Digital	18359
-Government of Senegal	58,202,387,2783,9823,5040,8,54,4,19
+Government of Senegal	58,202,387,2783,9823,5040,8,54,4,19,1669
 Government of Senegal and China Eximbank	260,40
 Government of Senegal. All	18318
 Government of Senegal’s Aid Management Platform	260,40
@@ -1249,7 +1249,7 @@ SENEGAL-TECHNOLOGIES Dakar	18372
 SENEGAL-TECHNOLOGIES-SANTE-LEGISLATION Dakar	10494
 SENEGAL-TIC-SECURITE Dakar	4913
 SENEGAL. J'en	5022
-SENELEC	15969,745,1602,6,2,31,19,7
+SENELEC	15969,745,1602,6,2,31,19,7,1621
 SENELEC BOAD	18316
 SENELEC. Dans	18316
 SENELEC. L’hôte	18324
@@ -1554,13 +1554,14 @@ SeneNews. Orange	1143
 SeneWeb	4967,179
 SenegIndia	18378
 Senega	16008
-Senegal	44,18,24,68,87,19,27,13,77,25,15,91,10,37,43,26,17,6,1,4,57,3,96,3,2,4,12,25,36,3,36,4,3,25,52,6,36,6,80,1,1,68,32,4,17,99,44,4,4,1,3,6,9,3,84,1,7,12,1,6,180,40,44,2,76,15,41,190,3,2,9,17,1,57,11,52,13,2,1,7,9,13,2,21,54,48,86,6,7,5,38,19,8,55,26,67,41,6,5,20,42,83,26,39,75,38,48,57,5,170,1,75,92,14,44,17,15,14,80,52,25,6,171,67,24,23,26,11,2,10,1,25,201,10,9,22,51,28,37,7,132,12,58,11,45,35,28,1,16,39,1,4,18,7,25,34,4,24,1,53,8,64,26,1,1,4,88,37,35,31,81,7,8,11,13,119,3,20,1,86,27,25,41,44,37,6,23,70,114,57,82,29,2,9,37,86,31,19,148,39,2,26,55,1,34,107,15,15,34,66,43,45,19,37,22,31,29,1,34,3,35,57,33,25,24,8,34,88,76,214,41,84,5,100,124,84,105,68,76,169,67,99,57,25,1,10,46,51,1,21,46,168,241,1,24,122,42,12,9,127,15,1,1,109,103,1,304,208,25,45,26,9,7,18,16,3,7,1,2,8,5,4,7,12,48,8,14,14,23,13,13,121,2,9,262,21,105,6,9,9,8,6,6,6,22,61,122,42,29,4,3,13,3,1,2,5,8,1,44,17,1,188,1,9,47,11,118,2,11,1,16,7,9,103,460,305,25,35,57,254,57,32,479,20,233,23,124,34,6,42,30,231,62,141,146,96,31,13,36,11,9,25,6,39,71,144,130,65,48,14,24,132,1,60,2,171,24,31,212,15,82,2,37,52,7,2,10,40,16,9,15,68,71,9,3,1,4,99,20,82,1,1,5,27,48,7,182,63,71,17,117,8,14,22,30,33,88,34,143,51,6,2,3,4,1,2,2,4,9,1,11,6,1,8,4,1,4,1,3,1,2,9,4,4,1,13,28,2,8,14,27,21,262,48,412,31,120,190,98,165,4,14,22,1,19,61,4,23
+Senegal	44,18,24,68,87,19,27,13,77,25,15,91,10,37,43,26,17,6,1,4,57,3,96,3,2,4,12,25,36,3,36,4,3,25,52,6,36,6,80,1,1,68,32,4,17,99,44,4,4,1,3,6,9,3,84,1,7,12,1,6,180,40,44,2,76,15,41,190,3,2,9,17,1,57,11,52,13,2,1,7,9,13,2,21,54,48,86,6,7,5,38,19,8,55,26,67,41,6,5,20,42,83,26,39,75,38,48,57,5,170,1,75,92,14,44,17,15,14,80,52,25,6,171,67,24,23,26,11,2,10,1,25,201,10,9,22,51,28,37,7,132,12,58,11,45,35,28,1,16,39,1,4,18,7,25,34,4,24,1,53,8,64,26,1,1,4,88,37,35,31,81,7,8,11,13,119,3,20,1,86,27,25,41,44,37,6,23,70,114,57,82,29,2,9,37,86,31,19,148,39,2,26,55,1,34,107,15,15,34,66,43,45,19,37,22,31,29,1,34,3,35,57,33,25,24,8,34,88,76,214,41,84,5,100,124,84,105,68,76,169,67,99,57,25,1,10,46,51,1,21,46,168,241,1,24,122,42,12,9,127,15,1,1,109,103,1,304,208,25,45,26,9,7,18,16,3,7,1,2,8,5,4,7,12,48,8,14,14,23,13,13,121,2,9,262,21,105,6,9,9,8,6,6,6,22,61,122,42,29,4,3,13,3,1,2,5,8,1,44,17,1,188,1,9,47,11,118,2,11,1,16,7,9,103,460,305,25,35,57,254,57,32,479,20,233,23,124,34,6,42,30,231,62,141,146,96,31,13,36,11,9,25,6,39,71,144,130,65,48,14,24,132,1,60,2,171,24,31,212,15,82,2,37,52,7,2,10,40,16,9,15,68,71,9,3,1,4,99,20,82,1,1,5,27,48,7,182,63,71,17,117,8,14,22,30,33,88,34,143,51,6,2,3,4,1,2,2,4,9,1,11,6,1,8,4,1,4,1,3,1,2,9,4,4,1,13,28,2,8,14,27,21,262,48,412,31,120,190,98,165,4,14,22,1,19,61,4,23,21,15,1,34
 Senegal AFR LMI	17743
 Senegal AI	6948
 Senegal AI Factory	8821
 Senegal AI Transformation Center	16772
 Senegal Action Plan	18305
 Senegal Action-Plan 2023-2025 December EN.pdf	18305
+Senegal Adaptive Safety Net	20029,2,17
 Senegal Adaptive Safety Net Project World	18300
 Senegal Advances Digital Governance	3612
 Senegal Affordability	11964
@@ -1726,6 +1727,7 @@ Senegal and Zambia	6426,4565,3560
 Senegal and Zimbabwe	5242
 Senegal's	4518
 Senegal's ANEC	7289
+Senegal's Adaptive Safety Net and Mozambique's Social	20041
 Senegal's DPA	6792
 Senegal's ID-card	4967
 Senegal's Minister of Communication	2311,316,2703
@@ -1742,6 +1744,7 @@ Senegal's New Deal Technologique	2168,16177
 Senegal's New Technological Deal	2544
 Senegal's Orbus Digital Services	3199
 Senegal's President	5330,2147
+Senegal's Projet Cadastre	20047
 Senegal's Startup Law Advances	2333
 Senegal's Tanel	14704
 Senegal's Technological New Deal	2622
@@ -2051,6 +2054,7 @@ Senior Electrical Engineer	15075
 Senior Employment Officers	13037
 Senior Energy Specialist	11136,7715,573,239
 Senior Energy Specialist Email	18374
+Senior Energy Specialist Madina Tall	20002
 Senior Energy Specialist Matteo Maria Malacarne	16654
 Senior Engineer	6946,6419,1380,25
 Senior Environment Specialist	2989
@@ -2361,7 +2365,7 @@ Sensitive Social Protection Shock-sensitive	12964
 Sensitive Tax	5244
 Sensitive and Ad-Hoc Sharing	11995
 Sensitivities	11228
-Sensitivity	736,1042,89,3798,2743,6157,679,1913,805,1322
+Sensitivity	736,1042,89,3798,2743,6157,679,1913,805,1322,704
 Sensitivity Analyses DALY	16922
 Sensitivity Analysis	11228,1750,4984
 Sensitivity Analysis for Key Indicators of Public Debt	13868

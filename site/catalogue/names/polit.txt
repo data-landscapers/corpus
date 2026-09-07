@@ -185,9 +185,9 @@ Electricity Political	10976
 Elevage DPES Document de Politique Economique	18286
 Emploi Documents Documents de Politique Bilans PNR	17888
 Enhance Opportunities for Political Participation of Persons	19937
-Equal Political Power	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Equal Political Power	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Equal Political Power Equal Political Representation	10837,1315,188,7598
-Equal Political Representation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Equal Political Representation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Equal Political Representation Equal Civil Liberties	19822
 Equality WOMEN'S EQUALITY Political Power	10759
 Equality Women's Equality Political Power	12152
@@ -319,7 +319,7 @@ La Politique Nationale de Nutrition	17845
 La Politique Nationale de Participation Electronique URL	17879
 La Politique Nationale de Promotion	17845
 La Politique Nationale de Protection Sociale	17845
-La Politique Nationale de Santé	13306,2117,262,2420
+La Politique Nationale de Santé	13306,2117,262,2420,1881
 La Politique Nationale de Solidarité	17845
 La Politique Nationale des Laboratoires de Biologie Médicale	17845
 La Politique Sectorielle de Santé du Mali	17845
@@ -535,9 +535,9 @@ Political Party Support Kenya's Political Landscape	7869
 Political Party They Support	7869
 Political Party Total Central Rift Coast	7869
 Political Party With ECN	12350
-Political Pluralism	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Political Pluralism	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Political Pluralism Security	10835,3,130,902,16,466,1,135,7334
-Political Power	5418,5341,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1460,5704,1,169,14,22,1,65,14,1
+Political Power	5418,5341,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1460,5704,1,169,14,22,1,65,14,1,48
 Political Problems Unusually High Level	16902
 Political Reckoning	4619
 Political Regimes and Inflows of Foreign Direct Investment	11310
@@ -722,7 +722,7 @@ Politique-monetaire	8891
 PolitiqueNationale de Genre	18100
 Politiquedesécurité	15525
 Politiquement	12068,3612
-Politiques	6500,4326,2464,40,60,1034,1,436,562,70,49,136,255,3,29,240,340,76,13,854,26,316,5,10,37,12,24,187,186,651,424,14
+Politiques	6500,4326,2464,40,60,1034,1,436,562,70,49,136,255,3,29,240,340,76,13,854,26,316,5,10,37,12,24,187,186,651,424,14,606
 Politiques Deuxième	13442
 Politiques Economiques	18286
 Politiques Economiques DGPRE	18291
@@ -758,7 +758,7 @@ Progress and Challenges C. Political	13969
 Progrès POLITIQUE NATIONALE DE SANTE	15423
 Projet de Politique Nationale	17827
 Projet de Politique Nationale Qualité du Burundi	13329
-Proposed Rating Political and Governance	6579,349,949,4111,2992,179,578,276,987,96,374,536,127,222,462,165,499
+Proposed Rating Political and Governance	6579,349,949,4111,2992,179,578,276,987,96,374,536,127,222,462,165,499,520
 Proposed Rating Political and Governance High High	15735
 Proposed Rating Political and Governance Low Moderate	18354
 Proposed Rating Political and Governance Moderate Moderate	13027,6222
@@ -768,7 +768,7 @@ Province Political Party Valid Votes Percentage	12201
 Président du Comité National de Politique	10500
 Président du Comité de Politique Monétaire	17816
 Public Administration and Political Science	6946
-Public Perception of Political Participation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Public Perception of Political Participation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Public Perception of Political Participation Access	11886
 Public Perception of Political Participation FOUNDATIONS	12163,178,7312,286
 Public Perception of Political Participation RIGHTS	19822
@@ -839,7 +839,7 @@ South Africa. Political	12025
 South Sudan's Political Economy	3583
 Stability Politics	1810
 State Minister for Political and Economic Affairs	14134
-Substantial. Political	10964
+Substantial. Political	10964,9038
 Substantial.’ Political	10829
 Suivi des Politiques Economiques	18286
 Suivi des Politiques Economiques UE Union Européenne	18286

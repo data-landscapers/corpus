@@ -616,7 +616,7 @@ Central Africa Fibre-Optic Backbone Project	174,1541
 Central African Backbone	162,11,1016,75,453,793,899,190,2734,4510,657,3872,18,21,44,58,5,3236,23,110
 Central African Backbone Phase	15518
 Central African Backbone Phase IV	15514
-Central African Backbone Program	15372,5,134,3243,133
+Central African Backbone Program	15372,5,134,3243,133,1129,1
 Central African Backbone Program- APL3 Communications	15372
 Central African Backbone Project	15372
 Central African Backbone SOP4	15411
@@ -780,6 +780,7 @@ Government and Leadership Back the Platform	16254
 Group Backward- Looking and Forward	13418
 Group Backward-Looking and Forward	13418
 Guinean Backbone Management Society	3089
+Guinea’s Data Backbone. Table	20004
 Général de Brigade Ibroh Amadou Bacharou	7333
 Géologie. Bacary SARR	18412
 HNSF BACKWARDS COMPATIBILITY Authenticate	1009
@@ -932,6 +933,7 @@ NITDA and Galaxy Backbone	9573,98,82,1288
 Namazihana Bachoke Patrick	6620
 Namibia Back	12468
 Namibian Citizen Bachelor of Science	13037
+Nation Held Back	20004
 National Backbone	54,11803,679,2361,1986,2,38,2710,76,15
 National Backbone All	19532
 National Backbone Company	13295
@@ -1060,6 +1062,7 @@ Résultats du Bac	18143,27
 Résultats du Bac1	19333
 S.E.M. BARROS Bacar Banjai	19227
 SENATE BACKS FEE WAIVER TO BOOST	12738
+SOCIETE GESTION BACKBONE NATIONAL SOTELGUI SOCIETE	19986
 SOUTHERN AFRICAN DEVELOPMENT COMMUNITY UNIT BACKGROUND	12962
 SRs.5 II. CONCEPTUAL BACKGROUND ON SOCIAL	16867
 STATE OF ERITREA BACKGROUND Total Population	13962
@@ -1136,7 +1139,8 @@ Train Bachelor Degree	17116
 Trans-Sahara Optical Fibre Backbone Project	17940
 Trans-Saharan Fiber Backbone	15937
 Trans-Saharan Fiber Optic Backbone	2533
-Transmission Backbone Project	1539,16945
+Transmission Backbone	20024
+Transmission Backbone Project	1539,16945,1540
 Transmission Backbone Project. Budget	1539
 Transparency of Data Movement Across Jurisdictions Backup	6432
 Transport Sector Backward Looking Joint Sector	14935

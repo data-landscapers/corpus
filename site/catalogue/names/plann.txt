@@ -680,7 +680,7 @@ Ministry of Finance and National Planning	5247,2531,4557,40,1,33,44,879,13,1,41,
 Ministry of Finance and National Planning MOTS Ministry	13347
 Ministry of Finance and National Planning MoFNP	13532
 Ministry of Finance and National Planning and SMART Zambia	13387
-Ministry of Finance and Planning	1261,383,1939,1057,1619,552,3788,534,9,6415,1104,3,16,839,23
+Ministry of Finance and Planning	1261,383,1939,1057,1619,552,3788,534,9,6415,1104,3,16,839,23,462
 Ministry of Finance and Planning MICSTI Ministry of Home	12674
 Ministry of Finance and Planning. Maxwell Melingasuk Loboka	4640
 Ministry of Finance and Planning. South Sudan	6259
@@ -851,7 +851,7 @@ Physical Planning Officers	16524
 Physical and Land Use Planning Act	14595
 Plan NPA National Planning Authority RAP	19666
 Plan SDP Spatial Development Planning SETA	11261
-Planned	249,648,73,1919,568,66,31,2044,1223,11,2135,156,1236,299,127,27,323,45,81,655,37,4,279,133,52,183,12,59,42,50,291,37,237,399,11,885,102,101,37,30,48,104,32,78,445,100,33,6,15,44,1056,26,1,50,6,34,139,25,104,17,379,494,148,1200,103,38,203,144
+Planned	249,648,73,1919,568,66,31,2044,1223,11,2135,156,1236,299,127,27,323,45,81,655,37,4,279,133,52,183,12,59,42,50,291,37,237,399,11,885,102,101,37,30,48,104,32,78,445,100,33,6,15,44,1056,26,1,50,6,34,139,25,104,17,379,494,148,1200,103,38,203,144,32
 Planned Action	16884,1
 Planned Action Accelerating	16884
 Planned Action Achieving	16884
@@ -951,6 +951,7 @@ Planned Board Presentation	11863,2075,142,931
 Planned Capacity Additions	13624
 Planned Capacity Loss Factor	11297
 Planned Construction of Mauritius Disciplined Forces Academy	14830
+Planned Date	19988
 Planned Enforcement Actions for Data Controllers	3003
 Planned Existing Public Private Planned Public	11135
 Planned Fiber	19728
@@ -979,7 +980,7 @@ Planners	396,7570,4996
 Planners KM Kilometers KMHFL Kenya Master	2775
 Planners and M&E Officers	16944
 Plannin	19690
-Planning	55,1,50,19,23,36,52,11,92,57,22,540,256,47,516,47,141,23,105,3,679,214,594,21,297,17,1,1,3,291,83,486,892,556,437,280,600,154,388,1033,84,1106,467,49,135,21,144,2,2,3,57,16,7,6,34,5,8,591,47,9,24,36,10,16,23,216,12,44,26,2,33,51,32,4,8,93,128,1,41,201,33,27,354,1,13,73,211,362,145,367,235,7,25,85,66,7,69,23,2,142,309,80,3,23,14,8,3,25,32,2,39,14,66,63,74,299,204,430,6,27,26,5,26,7,14,3,4,1,2,5,18,84,59,10,8,39,37,2,25,71,33,503,430,181,157,11,38,1,82,5,4,317,121,7,298,7,15,3,95,21,47,8,13,30,46,166
+Planning	55,1,50,19,23,36,52,11,92,57,22,540,256,47,516,47,141,23,105,3,679,214,594,21,297,17,1,1,3,291,83,486,892,556,437,280,600,154,388,1033,84,1106,467,49,135,21,144,2,2,3,57,16,7,6,34,5,8,591,47,9,24,36,10,16,23,216,12,44,26,2,33,51,32,4,8,93,128,1,41,201,33,27,354,1,13,73,211,362,145,367,235,7,25,85,66,7,69,23,2,142,309,80,3,23,14,8,3,25,32,2,39,14,66,63,74,299,204,430,6,27,26,5,26,7,14,3,4,1,2,5,18,84,59,10,8,39,37,2,25,71,33,503,430,181,157,11,38,1,82,5,4,317,121,7,298,7,15,3,95,21,47,8,13,30,46,166,32
 Planning Act	1988
 Planning Ahead Will Make	10763
 Planning Assumptions The Electoral Commission	7266
@@ -1018,6 +1019,7 @@ Planning MINEDUC Ministry of Education MINEMA Ministry	14935
 Planning MINEDUC Ministry of Education MIS Management	14922
 Planning MME Ministry of Mines and Energy MOA	17139
 Planning Minister and Minister of State for Finance	16649
+Planning Ministry	20004
 Planning Ministry of Foreign Affairs	14819
 Planning Ministry of Trade	12701
 Planning MoSA Ministry of Social Affairs MoTH	17157

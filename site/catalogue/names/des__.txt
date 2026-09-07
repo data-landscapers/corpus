@@ -62,6 +62,7 @@ AGENCE DE REGULATION DES MARCHES PUBLICS	16175
 AGENCE DE RÉGULATION DES MARCHÉS PUBLICS	15850,363,139,182,47
 AGENCE D’EXECUTION DES ACTIVITES	16381
 AGENCE NATIONALE DE FINANCEMENT DES COLLECTIVITES	16666
+AGENCE NATIONALE DE LA SECURITE DES	19986
 AGENCE NATIONALE DES BOURSES DU GABON	16175
 AGENTS DE L’ETAT NON TRANSFERES Des	14424
 AGENTS DES PRESTATAIRES DE SERVICES	17858
@@ -272,6 +273,7 @@ Administration des Douanes. Article	17913
 Administration des Douänes	15999
 Administration des Eaux	16099
 Administration des Entreprises	9357
+Administration des Entreprises de Guinée	19997
 Administration des Finances	15412,2487
 Administration des Finances DCSFR	10874
 Administration des Hydrocarbures. En	3191
@@ -388,7 +390,7 @@ Agence. FOCUS Accompagnement des Entreprises	18013
 Agences des Nations-Unies	18972
 Agences du Système des Nations Unies	15557,3396
 Agencies MFBPE Ministère des Finances	13331
-Agenda des Objectifs de Développement Durable	18105
+Agenda des Objectifs de Développement Durable	18105,1881
 Agents des Guichets Fonciers	14598
 Agglomération Effectif des Taux	10875
 Agripreneuriat des Jeunes	10492
@@ -426,7 +428,7 @@ Amadou TOURE Code des Collectivités Territoriales	17817
 Amadou TOURE Le Ministre des Enseignements Vu	17817
 Amadou Toumani TOURE des Affaires Foncières	17817
 Amara DIAKITE LISTE DES MEMBRES	17833
-Ambassade des Etats-Unis	13724,4093
+Ambassade des Etats-Unis	13724,4093,2175
 Ambassade des Pays-Bas	5899,3967,5716,3406
 Ambassade du MINISTERE DES AFFAIRES ETRANGERES	17827
 Ambassade du Royaume des Pays-Bas	5899,10745
@@ -438,7 +440,7 @@ Amélioration des Performances	13433
 Amélioration des Performances PASBMIR Projet	16037
 Amélioration des Performances. Sur	16037
 Amélioration des Résultats	18942
-Amélioration des Services	11549,4110,310
+Amélioration des Services	11549,4110,310,4054
 Amélioration des Statistiques	7675,3199,1,4944,142,376,36,44,4,257,1300,99,47,19,28
 Amélioration des Systèmes Logistiques	19347
 Amélioration des Systèmes de Surveillance des Maladies	15685
@@ -674,12 +676,12 @@ Autorité de Régulation des Marchés	15619,2363
 Autorité de Régulation des Marchés Publics	969,9860,47,2425,2217,1185,1598
 Autorité de Régulation des Marchés Publics Author	16703
 Autorité de Régulation des Marchés Publics. Cette	16703
-Autorité de Régulation des Postes	3104,4980,3796,52,3653,1030,2,22,2,58,13,1393
+Autorité de Régulation des Postes	3104,4980,3796,52,3653,1030,2,22,2,58,13,1393,1909
 Autorité de Régulation des TIC de Côte	5605,539
 Autorité de Régulation des Technologies de Communication	14549
 Autorité de Régulation des Technologies de Communication CEB	14573
 Autorité de Régulation des Transports Ferroviaires	16175
-Autorité de Régulation des Télécommunications	2418,958,500,1804,15,414,35,97,628,148,2,1112,2764,1,1,1,8,5,240,444,3824,291,226,134,1762,34,239,183,23,38,50,13,5
+Autorité de Régulation des Télécommunications	2418,958,500,1804,15,414,35,97,628,148,2,1112,2764,1,1,1,8,5,240,444,3824,291,226,134,1762,34,239,183,23,38,50,13,5,1573
 Autorité de Régulation des Télécommunications de CBA Côte	3604
 Autorité de Régulation des Télécommunications de Côte	3139,310,155,489,18
 Autorité de Régulation du Marché des Capitaux	13468
@@ -765,7 +767,7 @@ Banque Centrale des Comores DEVELOPMENT OBJECTIVE Original	13742
 Banque Centrale des Comores Fixe	13712
 Banque Centrale des Comores. Il	13801
 Banque Centrale des Comoros	17235
-Banque Centrale des Etats	3604,7107,811,45,377,2905,503,47,80,29,113,14,135,489,1557,26,339,37,73,98,599
+Banque Centrale des Etats	3604,7107,811,45,377,2905,503,47,80,29,113,14,135,489,1557,26,339,37,73,98,599,1002
 Banque Centrale des Etats de I'Afrique de I'Ouest	18292,22
 Banque Mondiale DGFCE Direction Générale des Financements	18015
 Banque Mondiale Table des Matières Version	1187
@@ -904,6 +906,7 @@ CENTRE DES OPERATIONS DES URGENCES	16175
 CENTRE NATIONAL DES AIDES	16175
 CEPOD Ministère des Finances	18286
 CERCLE DES JEUNES ENGAGES POUR	16413
+CEREMONIE DE REMISE OFFICIELLE DES REGISTRES	19999
 CERTES UNICEF Terre des Hommes Informaticien	17882
 CERTIFICATION DES INSTALLATIONS AVANT MISE EN	15670
 CERTIFICATION DES RESEAUX ET SYSTEMES D’INFORMATION	16733,1,1
@@ -1010,6 +1013,7 @@ CHARGE DES POSTES ET DES TELECOMMUNICATIONS	4402,9506
 CHARGE DES REFORMES POLITIQUES ET	18032
 CHARGE DES RELATIONS AVEC LE PARLEMENT	13940
 CHARGE DES RELATIONS AVEC LES INSTITUTIONS	15676,266
+CHARGE INTÉGRÉE DES MALADIES DE L'ENFANCE	19986
 CHARGÉ DES DROITS HUMAINS CABINET	16381
 CHEF DE Grande Chancellerie des Ordres	17982
 CHEF DE STATUANT EN CONSEIL DES	17899
@@ -1713,7 +1717,7 @@ Conclusions du Conseil des Ministres	18227,11
 Concours des Plans	13549
 Conditions de PNLE Vie des Ménages	17945
 Conditions de Vie des Menages Harmonisée	15661
-Conditions de Vie des Ménages	737,6938,3874,11,21,777,45,1343,58,1857,423,281,19,236,58,1267,33,122,1137,106
+Conditions de Vie des Ménages	737,6938,3874,11,21,777,45,1343,58,1857,423,281,19,236,58,1267,33,122,1137,106,645
 Conditions de Vie des Ménages DSSE	10874
 Conditions de Vie des Ménages EIPBF	10874
 Conditions de Vie des Ménages Faculté des Sciences	17978
@@ -1741,6 +1745,7 @@ Confédération des Institutions Financières	11293
 Confédération des ONG	18100
 Conférence Interafricaine des Marchés	10965,174,805,4055,2183
 Conférence Internationale des Commissaires	10821
+Conférence Internationale des Ministres	19986
 Conférence Internationale des Statisticiens du Travail	17945
 Conférence Mondiale des Radiocommunications	17866
 Conférence des Administrateurs	8269
@@ -1932,6 +1937,8 @@ Contrôleurs des Services Vu le Décret	17827
 Convention Cadre des Nations Unies	16621,1497
 Convention Cadres des Nations Unies	15685
 Convention des Droits	13442
+Convention des Lettres de Change Non Normalisés	19994
+Convention des Lettres de Change Normalisés	19994
 Convention des Nations	10003,1085,3315,893,2695,1244,43
 Convention des Nations Un	10826
 Convention des Nations Unies	5573,1329,3924,2504,112,283,686,1232,442,1756,100,386,908
@@ -2675,6 +2682,7 @@ DES ETABLISSEMENTS DE PAIEMENT ET	17858
 DES ETABLISSEMENTS DE RESTAURATION ET D’HEBERGEMENT	17812
 DES ETABLISSEMENTS D’ENSEIGNEMENT	17812
 DES ETATS ARABES Article	15410
+DES ETATS DE L'AFRIQUE DE L'OUEST	19986
 DES ETATS DE L’AFRIQUE DE L’OUEST	17816
 DES ETATS DE MINISTÈRE DE L’EDUCATION	17830
 DES ETATS DU SAHEL	18003
@@ -2992,6 +3000,7 @@ DES POSTES ET DES COMMUNICATIONS ELECTRONIQUES	3189,2637,2495,7355,266,175,170
 DES POSTES ET DES COMMUNICATIONS ELECTRONIQUESLe	7670
 DES POSTES ET DES TELECOMMUNICATIONS	14573
 DES POSTES ET DES TÉLÉCOMMUNICATIONS DÉCRET	14483
+DES POSTES ET TELECOMMUNICATIONS ASC AGENT	19986
 DES POSTES Vu la Décision	18032
 DES POUVOIRS D'ENQUETES DE CONSTATATION DES	18897
 DES POUVOIRS DU PARLEMENT Article	15703
@@ -3097,6 +3106,7 @@ DES RESSOURCES FINANCIERES DU CENATEL Article	15366
 DES RESSOURCES GEOLOGIQUES	16001
 DES RESSOURCES HUMAINES	15429,670,282
 DES RESSOURCES HUMAINES DIRECTIONS DEPARTEMENTALES DETACHES	16100
+DES RESSOURCES HUMAINES EN SANTE FH	19986
 DES RESSOURCES HYDRAULIQUES ET	19447
 DES RESSOURCES MATERIELLES DE L’INS EN	18169
 DES RESSOURCES MATERIELLES DES DIRECTIONS SECTORIELLES	18169
@@ -3198,6 +3208,7 @@ DES TELECOMMUNICA-	15488
 DES TELECOMMUNICATIONS	15467,572
 DES TELECOMMUNICATIONS Actes	15786
 DES TELECOMMUNICATIONS Arrêté	16344
+DES TELECOMMUNICATIONS DE LA GUINEE UA	19986
 DES TELECOMMUNICATIONS ET DE L’ECONOMIE	16100
 DES TELECOMMUNICATIONS ET DE L’ECONOMIE NUMERIQUE	15455,584,235,182
 DES TELECOMMUNICATIONS ET DE L’ÉCONOMIE NUMÉRIQUE	15455
@@ -3279,6 +3290,7 @@ DGI LISTE DES SIGLES ET ABREVIATIONS	10858
 DGI Le Directeur Général des Impôts Direction	18973
 DGI. Des	17872
 DGSN HADDED Samira Ministère des Finances	15472
+DHIS2. Des	19998
 DIAGNOSTIC DES GAPS EN CAPACITÉS	16621
 DIASPORA Le Conseil des Ministres	16175
 DIFFERENDS CHAPITRE I DES COMPETENCES	15429
@@ -3611,7 +3623,7 @@ Directeur Central du Ministère des Affaires Sociales	16381
 Directeur Central du Ministère des Eaux	16381
 Directeur Central du Ministère des Mines	16381
 Directeur Central du Ministère des Travaux Publics	16381
-Directeur Général Adjoint des Impôts	15797
+Directeur Général Adjoint des Impôts	15797,4192
 Directeur Général Adjoint des Impôts du Bénin	15797
 Directeur Général Gabonaise des Jeux	16175
 Directeur Général des Affaires Juridiques	16381
@@ -3626,8 +3638,11 @@ Directeur Général des Operations	14862
 Directeur Général des Operations. Article	14862
 Directeur Général des Opérations	8316,7521
 Directeur Général des TIC	13290,6397
+Directeur National des Affaires Civiles	20007
 Directeur National des Collectivités Locales	7902
 Directeur National des Etudes Economiques	16616
+Directeur National des Impôts	19985
+Directeur National des Impôts Aboubacar Makissa CAMARA	19985
 Directeur Régional des Impôts	14580
 Directeur de Cabinet du Ministre des Finances	15712
 Directeur de Cabinet du Ministère des Affaires Sociales	15415
@@ -3713,7 +3728,7 @@ Direction Générale des Grands Travaux GDP Directorate	15372
 Direction Générale des Hydrocarbures	16037
 Direction Générale des Impots	15625,1,4221
 Direction Générale des Impots Avant	15625,1
-Direction Générale des Impôts	2611,360,425,57,262,1087,122,406,484,1140,258,136,1209,251,182,1721,226,47,2724,88,65,308,133,137,19,4,171,728,57,9,70,37,77,3,54,68,18,19,24,43,96,63,21,61,10,237,190,123,23,55,5,809,280,4,22,33,29,12,59,2,49,40,38,19,2,150,21,680,287
+Direction Générale des Impôts	2611,360,425,57,262,1087,122,406,484,1140,258,136,1209,251,182,1721,226,47,2724,88,65,308,133,137,19,4,171,728,57,9,70,37,77,3,54,68,18,19,24,43,96,63,21,61,10,237,190,123,23,55,5,809,280,4,22,33,29,12,59,2,49,40,38,19,2,150,21,680,287,729
 Direction Générale des Impôts Conakry	16724
 Direction Générale des Impôts DHIS District Health	15583
 Direction Générale des Impôts DNI DNP Direction	17842
@@ -3757,6 +3772,7 @@ Direction Nationale des Affaires	13723
 Direction Nationale des Affaires Foncières	13723
 Direction Nationale des Affaires Politiques	2756
 Direction Nationale des COULIBALY Industries	17817
+Direction Nationale des Centres	19988
 Direction Nationale des Code des Investissements. Industries	17817
 Direction Nationale des Collectivités Article	17817
 Direction Nationale des Domaines	16611
@@ -4265,6 +4281,7 @@ ET DES PERSONNES AGEES Vu la Constitution	18032
 ET DES PLAFONDS DES CHARGES DES	15426
 ET DES PLANS D’ACTION INTERIMAIRES	19216
 ET DES POSTES	18032
+ET DES POSTES DES TELECOMUNICATION ET	19986
 ET DES PRESTATIONS FAMILIALES	16175,206
 ET DES RELATIONS AVEC LE PARLEMENT	15454
 ET DES RESSOURCES HUMAINES DETACHES OU	15901
@@ -4806,6 +4823,7 @@ Fédération Nationale des Personnes	18265
 Fédération Nationale des Personnes Handicapée	18238
 Fédération Nationale des Personnes Handicapées	18275
 Fédération Nationale des Petites	15416
+Fédération Patronale des Entreprises de Guinée	19985
 Fédération Syndicale Autonome des Télécommunications	6284
 Fédération Sénégalaise des Associations des Handicapées	18286
 Fédération Togolaise des Assureurs Conseils	19264
@@ -5048,6 +5066,7 @@ Guide des Meilleures Pratiques	18428
 Guinée Equatoriale Banque des Etats	11944
 Guinée Equatoriale. MINISTERE DES EAUX ET	16099
 Guinée. Des	3309
+Guinée. Ministre des Postes	19986
 GÉNÉRALE DU BUDGET Directeurs Centraux des Affaires	16381
 Génie des Réseaux	15674
 Général Auguste BIBAYE ITANDA MINISTERE DES	16381
@@ -5162,6 +5181,7 @@ I.IVRE PREMIER DES RESEAUX ET SERVICES	15429
 ICASEES L'Institut Centrafricain des Statistiques	9277
 ICF. TABLE DES MATIÈRES LISTE DES	13300
 IDE. Des	8891
+IDENTIFICATION DES ELEMENTS DE LA STRATEGIE	19986
 IDENTIFICATION ET ANALYSE DES IMPACTS	14488,1,1
 IDENTIFICATION ET ANALYSE DES IMPACTS L’identification	14488,1,1
 IDENTIFICATION ET ANALYSE DES PARTIES PRENANTES	14425
@@ -5593,10 +5613,12 @@ Institut Royal des Etudes Stratégiques LAN	15512
 Institut Supérieur Africain des Postes	10948
 Institut Supérieur de Gestion des Entreprises	19687
 Institut Supérieur de Gestion des Entreprises ISTAU	13377
+Institut Supérieur des Arts Mory Kanté	19997
 Institut Supérieur des Cadres Militaires ISCO	13377
+Institut Supérieur des Mines	19997
 Institut Supérieur des Métiers Statistiques	17844
 Institut Supérieur des Métiers Statistiques LOLF	17844
-Institut Supérieur des Sciences	10881,4884,2130
+Institut Supérieur des Sciences	10881,4884,2130,2093,9
 Institut Supérieur des Techniques Licence Droit Privé	17829
 Institut Supérieur des Technologies de Mamou	16674
 Institut Universitaire des Technologies	5370
@@ -6070,7 +6092,7 @@ La Direction Générale des Impôts	5814,349,8320,944,370,139,145,668,1090,184
 La Direction Nationale des Affaires Foncières	13723
 La Direction Nationale des Domaines	16611
 La Direction Nationale des Examens	19164
-La Direction Nationale des Impôts	16629
+La Direction Nationale des Impôts	16629,3356
 La Direction des Affaires	15639
 La Direction des Affaires Administratives	10975
 La Direction des Affaires Domaniales	10876
@@ -6224,7 +6246,7 @@ Le Palais des Congrès de Cotonou	2855
 Le Panel des Décideurs	16711
 Le Parc des Technologies Numériques	18340
 Le Patron des PTN	2602
-Le Plan Cadre des Nations Unies	18105
+Le Plan Cadre des Nations Unies	18105,1881
 Le Plan Stratégique National des Soins Essentiels	17882
 Le Plan Stratégique Promotion Socio-Économique des Personnes	17845
 Le Plan Stratégique de Développement des Ressources Humaines	17845
@@ -6239,7 +6261,7 @@ Le Président Directeur Général des Aéroports du Mali	17817
 Le Registre Central des Bénéficiaires Effectifs	14633
 Le Registre National des Entreprises	19466
 Le Registre National des Personnes Phy	16651
-Le Registre National des Personnes Physiques	16651
+Le Registre National des Personnes Physiques	16651,3348
 Le Registre des Bénéficiaires du Régime Non Contributif	14418
 Le Registre des Sûretés Mobilières	17847
 Le Représentant du Ministère des Finances	13290
@@ -6733,6 +6755,7 @@ MPMEs. Des	15500
 MPPH MEDAOUAR Naima Ministère des Travaux Publics	15472
 MPT HOUAMED Nassima Direction Générale Des	15472
 MPT SAMET Abdelkader Ministère des Affaires Etrangères	15472
+MPTEN MINISTERE DES POSTES	19986
 MPTEN Ministère des Postes	15493,1133
 MRP SADEK Houari Ministère des Relations	15472
 MS Moderately Satisfactory MTPUH Ministère des Travaux	16614
@@ -6884,6 +6907,7 @@ Ministre des Transports	7978,7404,736,296,1737,61,26
 Ministre des Transports Rémy OSSELE NDONG	15371
 Ministre des Travaux Publics	15400,3821
 Ministre des Télécommunications	2554,1245,3842,2453,1045,12,2139,5110,2,1,652
+Ministres des Technologies Numériques	19986
 Ministry of Protection Sociale des Public Health	10985
 Ministère Des Ressources Animales Et Halieutiques	15936
 Ministère Des Transports	15936
@@ -6942,7 +6966,8 @@ Ministère des Moudjahidine	15555
 Ministère des Nouvelles Technologies	15680,2542
 Ministère des PME	10823,162
 Ministère des Petites	10964,4510,68,11,35,366,295
-Ministère des Postes	1264,8,1423,557,76,1317,1105,2226,1,3967,1831,650,931,1,15,6,77,19,19,20,29,11,182,166,22,272,431,15,11,18,1435,324,473,29
+Ministère des Postes	1264,8,1423,557,76,1317,1105,2226,1,3967,1831,650,931,1,15,6,77,19,19,20,29,11,182,166,22,272,431,15,11,18,1435,324,473,29,1055
+Ministère des Postes des Télécommunication	19986
 Ministère des Pêches	17895,517
 Ministère des Relations	15472
 Ministère des Relations Extérieures	15357,185
@@ -7295,6 +7320,7 @@ Office National des Télécommunications	13590
 Office National des Télécommunications ONATOUR	13377
 Office National du Contrôle des Aménagements	7674
 Office Nationale des Pensions	13390
+Office RNPP Registre National des Personnes Physiques	19990
 Office Tchadien de Regulation des Telecommunications	18887
 Office Togolais des Recettes	4034,5942,9233,6,41,4,32,31
 Office des Changes	8891,8594,2,16
@@ -7460,6 +7486,7 @@ PARAGRAPHE I DES PERSONNES RESPONSABTES DES	15397
 PARAGRAPHE II DES REDEVANCES SUR I.ES	15397
 PARAGRAPHE III DES CORRESPONDANCES POSTATES OU	15397
 PARC DES TECHNOLOGIES NUMERIQUES	18340
+PARCOURS DES PERSONNELS	19997
 PARTICIPATION A LA SECURITE DES	15999
 PARTICIPATION DES FEMMES ET DES HOMMES	13300
 PARTICIPATION ET REHABILITATION DES ENTREPRISES EN	15999
@@ -7596,6 +7623,7 @@ POUVOIR D’ACTION DES FEMMES	13300,5012
 PPP Des	13306
 PPR Peste des Petits Ruminants RSF Rapid	15118
 PRATIQUE DES SCIENCES MÉDICALES ET	18170
+PREFACE DES MINISTRES DE LA SANTE	19986
 PREMIER DES CRIMES ET DETITS COMMIS	15397
 PREMIER DES GENERATITES SUR	15429
 PREMIER DES REGIMES JURIDIQUES	15429
@@ -8180,6 +8208,7 @@ RELATIONS PUBLIQUES DES ARMEES	18032
 RELATIVE A L'IDENTIFICATION BIOMETRIQUE DES PERSONNES	19228,2
 RELATIVE A LA PROTECTION DES DONNEES	436
 REMISE DES PACKS AUX PARTENAIRES L’Observatoire	16250
+REMISE DES REGISTRES SÉCURISÉS ET IMPRIMÉS	19999
 REMPLACEMENT DES	17861
 RENFORCEMENT DE LA GOUVERNANCE INCLUSIVE DES	15848
 RENFORCEMENT DE L’INCLUSION DES REFUGIES	19252,21
@@ -8266,6 +8295,7 @@ Recherche. INSTITUT DES SCIENCES TECHNOLOGIQUES ET	15674
 Recherches des Sciences Aviaires	19220
 Recommandations des Assises	17861
 Recommandations des Assises Nationales	17861
+Recommandations des Etats Généraux	19986
 Reconstruction des Zones	15999
 Recouvrement des SPECIFIQUES	10712
 Recouvremet des Avoirs Saisis	6959
@@ -8653,6 +8683,7 @@ SERV ICE DES INFRAS TRU C1'TJ	15399
 SERVICE ANALYSE DES MEDIAS	15631
 SERVICE DE CERTIFICATION ELECTRONIQUE DELIVRANT DES	15362
 SERVICE DE COMMUNICATION ET DES RELATIONS	16678
+SERVICE DE MODERNISATION DES SYSTEMES D'INFORMATIONS	19986
 SERVICE DE SANTE DES ARMEES	19251
 SERVICE SOCIAL DES ARMEES Vu la Loi	17899
 SERVICE UNIVERSET DES COMMUNICATIONS ELECTRONIQUES ET	15429
@@ -8706,6 +8737,7 @@ SIXIEME LEGISLATURE Direction des Services Législatifs Année	19225
 SNEL. Des	15670
 SNIS des DPS	19226
 SNIS des DRS	19226
+SNIS des PS	19998
 SNIS. II. GESTION DES SUPPORTS	15595
 SNPPRD Stratégie Nationale de Promotion des Pôles Régionaux	18103
 SNU Système des Nations Unies SURGE Renforcer	15724
@@ -8848,7 +8880,7 @@ Secteur des Communications Electroniques	13313
 Secteur des Communications Electroniques Au	998
 Secteur des Data Centers Moteur	19420
 Secteur des Douanes du Centre	4269
-Secteur des TIC	13716,4331,58
+Secteur des TIC	13716,4331,58,1881
 Secteur des TIC. Dans	18047
 Secteur des Tic	13717
 Secteur des Télécommunications	19440
@@ -8869,6 +8901,7 @@ Service Central des Statistiques	17535
 Service Exécution des Projets	15678
 Service Mission Service des Etudes	14537
 Service National Protection des Végétaux	17812
+Service National des Infrastructures	19988
 Service Suivi-Évaluation des Politiques	15678
 Service Universel des Communications	15513,40
 Service Universel des Technologies	19645
@@ -9094,6 +9127,7 @@ Stratégies de Croissance Accélérée Analyste des Enjeux	7999
 Structure Locale de Concertation des Collectivités	14414
 Structures Sectorielles des Statistiques	18169
 Structures des Statistiques Sectorielles	18169
+Stärkung des Finanzsektors	20013
 Subvention des Travaux	15901
 Subvention. des Contrats	15901
 Sud-Sud. Des	18291
@@ -9107,7 +9141,7 @@ Suivi des Actions de Développement	18032
 Suivi des Actions de Développement LE PRESIDENT	18032
 Suivi des DNPIA	17842
 Suivi des Droits des Personnes	17833
-Suivi des Elèves	13860
+Suivi des Elèves	13833,27
 Suivi des Engagements Contractuels Dans	10975
 Suivi des Filet	17827
 Suivi des Filets	17827
@@ -9321,6 +9355,7 @@ TEG des Tranches	15901
 TEIs Système des Nations Unies VBG	643
 TELECOMMUNICATIONS ET DES POSTES	17819
 TELECOMMUNICATIONS MINISTERE DES TRANSPORTS COMITE NATIONAL	15999
+TELECOMMUNICATIONS UNICEF FONDS DES NATIONS UNIES	19986
 TELEPHONE MOBILE AU COURS DES	18204
 TENDANCE DES POURCENTAGES D’ENFANTS DE MOINS	17843
 TENDANCE DES TAUX DE SUCCÈS	17843
@@ -9443,7 +9478,7 @@ Tableau des Opérations Financières	15569,2376
 Tableau des Opérations Financières des Entreprises	17945
 Tableau des Ressources	9276
 Tableaux de Bord de Suivi des Indicateurs	10712
-Tables des Matières DEFINITIONS	18105
+Tables des Matières DEFINITIONS	18105,1881
 Tahirou. S'agissant des VTC	12128
 Taoudenni. des Actions de Dévelop-	18077
 Tarif des Douanes	16020
@@ -9564,6 +9599,7 @@ UNFPA Fonds des Nations Unies	13300
 UNICEF Fonds des Nations	19220
 UNICEF Fonds des Nations Unies	13300,2174,250
 UNICEF- Recommandations Pour La Collecte Des	17945
+UNION AFRICAINE UIT UNION INTERNATIONALE DES	19986
 UNION DES COMORES	5370,8353,95
 UNION DES COMORES Ministère	13717
 UNION DES COMORES Unité	13707,2,1,5,4,90
@@ -9735,6 +9771,7 @@ Utilisation des Symboles	17949
 Utilisation des TIC	10875,4623
 Utilisation des TICs	13313
 Utilisations des TIC	10875
+Utiliser le Registre National des Personnes Physiques	20007
 V AGENCE NATIONALE D'AMENAGEMENT DES INFRASTRUCTURES	16623
 V GARANTIR DES SOCIETES PUBLIQUES FINANCIEREMENT	16037
 V LISTE DES DIAGRAMMES	19226

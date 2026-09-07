@@ -386,6 +386,7 @@ CLEVELAND OLOSERIAN MEDICAL SERVICES Data Processor	7167
 CLIMA Y MEDIOAMBIENTE	16969
 CLINIQUE MEDICO-CHIRURGICALE COGEMO	15780
 CLOUDLESS MEDICAL LIMITED Data Controller INST-43603106A62	7167
+CMC CENTRE MEDICAL COMMUNAUTAIRE CPN CONSULTATION	19986
 COLNEV MEDICAL SUPPLIES LIMITED Data Controller	7167
 COMMITTEE ON MEDIA	13336
 COMPLETENESS OF MEDICAL CERTIFICATION OF CAUSES	19544
@@ -577,6 +578,7 @@ DIGITAL MARA MEDIA LIMITED Data Controller	7167
 DIGITAL MARA MEDIA LIMITED Data Processor	7167
 DINOME MEDICAL CENTRE LTD Data Controller	7167
 DM Orotta School of Medicine and Dental Medicine	13960
+DMP DOSSIER MEDICAL PERSONNEL DRHS DIRECTION	19986
 DNN Media	8522
 DNN Media Foundation LTD	8522
 DOCTOR S.P MEDICAL CLINIC LIMITED Data	7167
@@ -1085,6 +1087,7 @@ Leadership and Media	11332
 Leading Causes of Medically Certified Registered Death	12151
 Leading Causes of Medically Certified Registered Deaths	12151
 Level of Media	14935
+Leverage Civil Society and Media	20004
 Ley de Medio Ambiente	16875
 Liberia Medical and Dental Council WBDD World	16971
 Liberia Medicine	17011
@@ -1364,7 +1367,7 @@ Media Foundation For West Africa	17095
 Media Foundation for West Africa	5485,3597,578,300,1135,8148,5
 Media Foundation for West Africa and Co-Develop	4690,104,473,54,1993,594,680,1291,2158,13,7,2337
 Media Foundation for West Africa and Co-Develop Godfrey	11975
-Media Freedom	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,38,139,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Media Freedom	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,38,139,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Media Frequencies and Mobile Transceivers	2775
 Media Gateway	15542
 Media Google	13461
@@ -1523,6 +1526,7 @@ Median Broadband Download Speed	18485
 Median Deal	4972
 Median EMDEs Morocco	17503
 Median Enterprises. The EPS	11134
+Median LAYS	19988
 Median Max Long	11964
 Median US	4972
 MedianQuintile	13624
@@ -2005,7 +2009,7 @@ Medium-Risk Systems	5665
 Medium-Sized Enterprises	10718
 Medium-Sized Enterprises...........................9 Figure	10718
 Medium-Sized Project	3431
-Medium-Term	12240
+Medium-Term	12240,7764
 Medium-Term Actions	6936
 Medium-Term Bonds	18500
 Medium-Term Budget Policy Statement	4667,6563

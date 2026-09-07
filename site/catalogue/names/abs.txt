@@ -96,20 +96,22 @@ Absence of Additional Government Licenses	12389
 Absence of Additional Restrictions	12389
 Absence of Additional Taxes	12389
 Absence of Approved Loan Management Guideline	19585
-Absence of Armed Conflict	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Absence of Armed Conflict	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Absence of Armed Conflict Absence of Violence	10837,1315,188,7598
 Absence of Armed Conflict1	11889
 Absence of Armed Conflict2	12352
 Absence of Caps	12389
 Absence of Case Management System	12693
 Absence of Charges	12389
+Absence of Common Data Standards Ministries	20004
+Absence of Common Data Standards and Weak Accountability	20004
 Absence of Contingent Trade-Protective Measures	12389
-Absence of Corruption	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
-Absence of Crime	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Absence of Corruption	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Absence of Crime	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Absence of Cybersecurity Framework	13295
 Absence of Export Restrictions	12389
 Absence of Finance Measures	12389
-Absence of Forced Migration	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Absence of Forced Migration	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Absence of Forced Migration Trend Bouncing Back	11870
 Absence of Forced Migration and Laws	12153
 Absence of Forced Migration. Trend Bouncing Back	12353
@@ -119,7 +121,7 @@ Absence of Formal User Acceptance Testing	19584
 Absence of Formal User Account Management Procedures	19584
 Absence of Fossil Fuel Subsidy	12389
 Absence of General Directorate	14860
-Absence of Human Trafficking	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Absence of Human Trafficking	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Absence of Independent Oversight	6512
 Absence of Labor Market Tests for Foreign Contractual	12389
 Absence of Limits	12389
@@ -144,13 +146,14 @@ Absence of Restrictions	12389
 Absence of Restrictions Subject	12389
 Absence of Tanzania Severe	19534
 Absence of Tanzania Startup Policy	19534
-Absence of Undue Influence	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
-Absence of Violence	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Absence of Undue Influence	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Absence of Violence	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Absences	1988,8888,4151
 Absent	1723,105,854,1179,6227,1,1051,2160,4904,1691
 Absent Agenda	4535
 Absent Open-Source Policy Frameworks	7921
 Absent the Middle East	7655
+Absent the PrePEF	19988
 Absentee Land Lords	12912
 Absentee Voting Article	15393
 Absenteeism	969
@@ -159,7 +162,7 @@ Absequent	19525
 Absher	10714
 Absolu Relatif	16714
 Absolument	7830
-Absolute	2473,2180,5202,6177,2327,925
+Absolute	2473,2180,5202,6177,2327,925,706
 Absolute Change	11955
 Absolute Contribution	15244
 Absolute Contributions of Each Indicator	15244
@@ -299,6 +302,7 @@ Education Statistical Abstract	19776
 Education Statistics Annual Abstract	12199,1792,3
 Electricité Abstract	10975
 Equatorial Guinea. Absence	16942
+Excused Absent	20004
 Extended Abstracts	8460
 FDRE Ministry of Education Statistics Annual Abstract	13991
 Federated Repository of Academic Theses and Abstracts	18206
@@ -395,6 +399,7 @@ Smallholder Fields of Malawi Abstract. Accurate	13162
 Smart Africa. Absent	2682
 Societe Absolute	4960,62,2035
 Socio-Economic Impact Main Article Content Abstract	8671
+Solves the Absenteeism	20004
 South Africa ABSTRACT	8604,1
 South Africa. Abstract	10323
 SouthAfrica ABSTRACT Digital	8603
@@ -412,6 +417,7 @@ Technology Absorption	17870
 The-governance-of-digital-convergence Abstract	8193
 UBOS Annual Statistical Abstract	19743
 UEM. Abstract Electoral Registration	12826
+Unexcused Absent	20004
 Unpaywall. Abstract	12098
 Visa and Absa	2773
 Warning Signs Absence of Forced Migration	12352

@@ -166,7 +166,8 @@ Instruction Générale des Opérations de Change	17485,1
 Instruction Générale des Opérations du Change	17485
 Instruction Instruction	10708,1656
 Instruction Lupai Satimon Andrew	18733
-Instruction N	15508,426,1
+Instruction N	15508,426,1,4059
+Instruction N0114	19994
 Instruction No	11550,410,4982,928
 Instruction Notes and Practice	11240
 Instruction Technique	14537
@@ -410,6 +411,7 @@ Supervisor Grupo C Juez Militar Instrucción	4209
 Supplementary Instruments. The Agenda of Phase	16212
 Survey Instruments	19639
 Sécurité des Bases de Données Instrumentation Industrielle	15674
+Target Instruction	19988
 Technical Part INSTRUCTIONS TO BIDDERS	13185
 Technology and Innovation Policy Instruments	16627
 Tele-control and Instrumentation Engineer	6946

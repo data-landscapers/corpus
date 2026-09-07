@@ -1,10 +1,10 @@
 Account DFIL Disbursement and Financial Information Letter	1867
 Account Disbursement and Financial Information Letter ECAM4	10964
 Acting Manager Disbursement National Cyber Security	15019
-Actual Disbursed	11924,1818,1682,177,62,41,27,705,1413,113,863
+Actual Disbursed	11924,1818,1682,177,62,41,27,705,1413,113,863,1163
 Actual Disbursed US	13722,1664
 Actual Disbursement	18765
-Actual Disbursements	17849
+Actual Disbursements	17849,2139
 All Disbursements	19214
 Allocation and Disbursement	16436
 Approval of Disbursement Requests	19214
@@ -35,7 +35,7 @@ Conditions No Implementation Modalities No Disbursements	16187
 Conditions for Disbursement	17257
 Consultants Disbursement Arrangements	3604
 Corporate Results Indicator Designated Account Disbursement	15658
-Cumulative Disbursements	2712,1976,1891,349,949,3518,576,257,39,173,2540,755,278,66,626,289,6,79,17,808,54,392,4,1,179,258,25,432
+Cumulative Disbursements	2712,1976,1891,349,949,3518,576,257,39,173,2540,755,278,66,626,289,6,79,17,808,54,392,4,1,179,258,25,432,752
 Currencies of Disbursement. Subject	16219
 D. Disbursement Linked Indicators and Verification Protocols	11905
 DA Designated Account DFIL Disbursement and Financial	10768
@@ -49,9 +49,11 @@ DFIL Disbursement and Financial Information Letter DNA	11380
 DGIS Cape Verdean Escudo Disbursement and Financial	11855
 DISBURSEMENT	11863,2075,1461,359
 DISBURSEMENT LINKED INDICATORS	15663
+DISBURSEMENT LINKED INDICATORS DLI	19988
+DISBURSEMENT LINKED INDICATORS....45 ANNEX	19988
 DISBURSEMENT OF GRANT FUNDING	19214
 DISBURSEMENT OF GRANT FUNDING Section	19214
-DISBURSEMENTS Operation Dates	2473,2180,13706,925
+DISBURSEMENTS Operation Dates	2473,2180,13706,925,706
 DISBURSMENT	14132
 DISBURSTBL Fiscal Year Annual Cumulative	1284,15612,26
 DL Disbursement Letter DP Development Partner	11525
@@ -67,12 +69,12 @@ Direct Disbursement	17116
 Disband AI	12675
 Disburscnrcnt	15399
 Disburse Loans Outside TPLMIS	19585
-Disbursed	39,6,2,1,43,19,1,4,33,17,77,1,58,34,160,72,17,65,28,1,67,47,25,1,178,23,136,52,1032,1,233,51,2129,1926,15,334,232,331,1070,2309,317,7,8,1,1,1,1,1,1,85,2,80,20,472,98,6,257,39,173,540,78,768,7,35,29,69,490,500,10,75,118,265,57,128,54,74,65,103,127,47,915,85,770,13,96,175,692,656
+Disbursed	39,6,2,1,43,19,1,4,33,17,77,1,58,34,160,72,17,65,28,1,67,47,25,1,178,23,136,52,1032,1,233,51,2129,1926,15,334,232,331,1070,2309,317,7,8,1,1,1,1,1,1,85,2,80,20,472,98,6,257,39,173,540,78,768,7,35,29,69,490,500,10,75,118,265,57,128,54,74,65,103,127,47,915,85,770,13,96,175,692,656,507,2,11,15,6,23
 Disbursed AUD	249
 Disbursed CAD	2167
 Disbursed COFN-C2470 Closed	17505
 Disbursed Disbursed IDA-74440 Effective	16705
-Disbursed IBRD	2473,16336,475
+Disbursed IBRD	2473,16336,475,706
 Disbursed IBRD-91670 Effective	18982
 Disbursed IBRD-93170 Effective	17470
 Disbursed IDA-66100 Effective	15735
@@ -86,6 +88,7 @@ Disbursed IDA-72690 Effective	18350
 Disbursed IDA-73680 Effective	19242
 Disbursed IDA-75030 Effective	18006
 Disbursed IDA-79260 Effective	7877
+Disbursed IDA-D3260	20001
 Disbursed IDA-D8180 IDA-D3080 Effective Effective	18792
 Disbursed IDA-E0600 Effective	18534
 Disbursed IDA-E0730 Effective	18817
@@ -107,7 +110,8 @@ Disbursed-Linked Indicators	17458
 Disbursed-only	16751
 Disbursed-usd	607
 Disbursed. Grants	14456
-Disbursement	11,11,565,563,57,660,606,51,251,214,1664,486,5690,3,132,426,135,330,8,102,230,25,834,277,89,455,22,41,28,4,162,839,48,119,234,27,12,73,69,106,4,95,143,131,112,75,435,242,26,194,389,344,113,397,135,141,216,36,327,70,551,12
+Disbursed. Year	19988
+Disbursement	11,11,565,563,57,660,606,51,251,214,1664,486,5690,3,132,426,135,330,8,102,230,25,834,277,89,455,22,41,28,4,162,839,48,119,234,27,12,73,69,106,4,95,143,131,112,75,435,242,26,194,389,344,113,397,135,141,216,36,327,70,551,12,143
 Disbursement Arrangements	11924,2014,1723
 Disbursement Arrangements Disbursements	18370
 Disbursement Categories	1228,56,15612,26,1843,519
@@ -124,6 +128,7 @@ Disbursement Date	15399
 Disbursement EPTC Loan Agreement	6539
 Disbursement Estimates	1228,14959,1775,397,406
 Disbursement Estimates Yes Year	1228
+Disbursement Estimates. Date	19988
 Disbursement Guidelines	10964
 Disbursement Guidelines for IPFs	3604
 Disbursement Guidelines for Investment Project Financing	11855
@@ -137,7 +142,7 @@ Disbursement Letterâ	18887
 Disbursement Linked Indicator	17470
 Disbursement Linked Indicator DREEC	18370
 Disbursement Linked Indicator Disbursement Linked Result	16032
-Disbursement Linked Indicators	10870,6,1029,271,3487,369,1438,35,1477,260,239,74
+Disbursement Linked Indicators	10870,6,1029,271,3487,369,1438,35,1477,260,239,74,433
 Disbursement Linked Indicators DLI	11905
 Disbursement Linked Indicators Matrix	19835
 Disbursement Linked Indicators. Beyond	16922
@@ -157,7 +162,7 @@ Disbursement Requests. The Government	19214
 Disbursement SCHEDULE	16144
 Disbursement Schedule	15659,1799
 Disbursement Schedule II. Section III. B	19239
-Disbursement Summary	1284,1189,2180,7312,1866,66,1069,727,109,230,890,1437,450,475
+Disbursement Summary	1284,1189,2180,7312,1866,66,1069,727,109,230,890,1437,450,475,706
 Disbursement Tranche. Subject	16219
 Disbursement and Financial Information Letter	1264,603,1737,7164,196,891,1476,2327,1,1277,13,2335,551,12
 Disbursement and Financial Information Letter. A Designated	1284
@@ -173,11 +178,12 @@ Disbursement of US	17139
 Disbursement-Linked Indicators	15693,945,1732
 Disbursement-Linked Indicators Purpose of DLI DLI Financing	18370
 Disbursement-Linked Result	17458
+Disbursement-Linked Results	19988
 Disbursement-linked	15693
 Disbursement-linked Indicators	11855,7980
 Disbursement. Current	15969
 Disbursement. Unless	19214
-Disbursements	11,639,614,20,1428,177,694,21,1084,1891,254,95,949,2993,94,431,130,330,8,42,66,224,33,39,173,284,334,273,537,1029,83,179,240,12,142,105,1,2,70,4,2,276,19,47,65,561,191,26,72,6,79,17,161,184,29,35,399,54,48,127,217,4,1,15,164,258,17,8,70,95,101,131,28,3,4,35,197,348
+Disbursements	11,639,614,20,1428,177,694,21,1084,1891,254,95,949,2993,94,431,130,330,8,42,66,224,33,39,173,284,334,273,537,1029,83,179,240,12,142,105,1,2,70,4,2,276,19,47,65,561,191,26,72,6,79,17,161,184,29,35,399,54,48,127,217,4,1,15,164,258,17,8,70,95,101,131,28,3,4,35,197,348,159,2,11
 Disbursements Arrangements	1228,56,2320,8361,4931,26
 Disbursements Arrangements No Additional Regional	16032
 Disbursements Arrangements No DDO No Additional	18359
@@ -190,7 +196,8 @@ Disbursements for Reimbursable Costs Annex VI	19214
 Disbursements for Reimbursable Costs. Unless	19214
 Disbursements of Grant	19214
 Disbursements of Grant Funds	19214
-Disbursing	13164,3950,2471
+Disbursing	13164,3950,2471,405
+Disbursing&Repaying	19990
 E. Disbursement Linked Indicators and Verification Protocols	17458
 ECOWAS Disbursement and Financial Information Letter EDGE	3604
 Estimated Disbursements	15372
@@ -259,12 +266,14 @@ Janeiro Team Member Disbursement Officer WFACS	11525
 Jul-2022 Projected Date for Full Disbursement	4653
 Jun-2024 Cumulative Disbursements	16638
 Jun-2025 Cumulative Disbursements Restructuring History	18473
+Jun-2026. Projected Date for Full Disbursement	19990
 Jun-2027 Expected Disbursements	2473,13559
 Loans Disbursements Household Loans	13532
 M Disbursed	16614,2140
 M Disbursed IDA	2989
 M. Disbursed	610
 Madagascar. Disbursement Summary	14456
+May-2026. Expected Disbursements	19990
 May-2028 Expected Disbursements	18359
 May-2028 Projected Date for Full Disbursement	18359
 Member Disbursement WFACS Etty Julia Baena	1284
@@ -273,6 +282,7 @@ Modalities No Disbursements Arrangements No DDO	4653
 National Safety Net Delivery System. Disbursement	18625
 Net Source of Funds Total Disbursed Remaining	1284,15638
 Nine Disbursement-Linked Indicators	18370
+No. Disbursements Arrangements	19990
 Nov-2021 Projected Date of Full Disbursement Bank	16896
 Nov-2025 Yes Disbursement Linked Indicators	16032
 Number of Loan Disbursements	13532
@@ -334,4 +344,5 @@ World Bank Disbursement Guidelines for Projects	15658,3
 World Bank Disbursement Handbook	11905
 World Bank's Disbursement Guidelines for Investment Project	17328
 World Bank’s Disbursement Guidelines for Investment Project	17334
+Yes. Disbursements Estimates	19990
 Youth Enterprise Development Fund Loan Disbursement	2775

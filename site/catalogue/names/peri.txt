@@ -42,7 +42,7 @@ Campaigning Period and Electoral Silence Article	15393
 Change Accounting Period and Update Contact Details	14533
 Change of Accounting Period	14533
 Clarification Period	13621
-Closing Period	3604,8320,64,240,39,293,498,2101,985,292,1526,171,849,499
+Closing Period	3604,8320,64,240,39,293,498,2101,985,292,1526,171,849,499,507,2,11
 Closing Period Apr	1264
 Closing Period Beneficiaries	16032
 Closing Period Building Policy and Financing Pathways	16144
@@ -304,7 +304,7 @@ Perinatal Health Monitoring Module	11589
 Perinatal Mortality	15247
 Perini	11156
 Periocidade Anual	18757
-Period	958,306,520,1,2,10,112,866,829,110,1973,984,275,3822,413,37,61,626,81,164,321,501,33,55,125,1489,62,107,24,51,211,48,401,81,2,240,142,101,688,11,18,2,86,29,130,32,40,39,16,1,78,48,943,154,8,437,80,1,207,45,8,39,257,44,45,193,12
+Period	958,306,520,1,2,10,112,866,829,110,1973,984,275,3822,413,37,61,626,81,164,321,501,33,55,125,1489,62,107,24,51,211,48,401,81,2,240,142,101,688,11,18,2,86,29,130,32,40,39,16,1,78,48,943,154,8,437,80,1,207,45,8,39,257,44,45,193,12,153
 Period AAID Milestones	17139
 Period Average	18823
 Period Average Exchange Rate	17235
@@ -312,6 +312,7 @@ Period Averages GHC	17235
 Period Category Individual Sport Fishing	18541
 Period Covered	12987
 Period Definition Period	19284
+Period Definitions	19988
 Period Ended	16978
 Period FY	6946
 Period FY14	17849
@@ -524,5 +525,6 @@ Voters Periods	13418
 Warranty Period	14766,314
 Withdrawal Period	14912,2024
 World Bank. Periodic	16144
+Yes. Closing Period	20001
 ZERO-TARIFF TREATMENT FOR A PERIOD	14816
 Zimbabwe Maternal and Perinatal Mortality Study	21

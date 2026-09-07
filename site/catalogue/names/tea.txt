@@ -15,7 +15,7 @@ AIIB Project Team	15905
 AKSHAR TEAM SECURITY LIMITED Data Controller	7167
 AKSHAR TEAM SECURITY LIMITED Data Processor	7167
 ANTIC's Computer Emergency Response Team	15802
-APPROVAL Task Team Leader	3456,9376,279,1442,23,937,1141,21,1781,477,730
+APPROVAL Task Team Leader	3456,9376,279,1442,23,937,1141,21,1781,477,730,339
 ATEI Asmara Teacher Education Institute	13960
 AUC Team	4123,8940,417
 AWMGM Extended Team Name Title Organization	16922
@@ -169,6 +169,7 @@ Charles Chaitezvi Team Leader- EDF	13563
 Charles Joseph Cormier Task Team Leaders	15515
 Chinese Medical Team	18555
 Christian Bodewig Task Team Leader	16952,1349
+Christian Bodewig Task Team Leaders	19990
 Christopher Banda Parent Teacher Committee	13392
 Cisse Team Member Nikolai Alexei Sviedrys	17962
 Clelia Kalliopi Helena Rontoyanni Task Team	13861,5986
@@ -821,11 +822,13 @@ National Engineering Coordinating Team	11037,5835,103
 National Health Cybersecurity Emergency Response Team	12240
 National Kenya Computer Incident Response Team	7481,4781,5484
 National Rapid Response Team	18162
+National Schools of Teachers	19988
 National Strategy for Teacher Education. Despite	14057
 National Surveillance Team	16971
 National Teacher AI Competency	19079
 National Teacher AI Competency Framework	8609,10470
 National Teacher AI Competency Framework Teacher	19079
+National Teacher College	19988
 National Teacher Education Policy	3583
 National Teacher Policy	12175
 National Teacher Training Institutions	19799
@@ -881,6 +884,7 @@ Operations Team Manager Ato Tesfahun G	12195
 Operators Teaching Professionals	16266
 Organizational Data Governance Team	17116
 Oriade and Obokun. Team Four	10049
+Ousmane Diagana ADM Responsible Team Leader	19988
 PAFEN Task Team	1284
 PART III CYBER INCIDENT RESPONSE TEAMS	2727
 PART V MANAGEMENT TEAM	16841
@@ -950,6 +954,10 @@ Procurement Team Harika Masud Team Member	15663
 Procurement Team Mahamadou Ahmadou Maiga Procurement	17962
 Procurement Team No Delfim Mampassi	18809
 Procurement Team STEP EAWRU Wittich Sariette	16922
+Procurement Team. Alpha Mamoudou Bah	19988
+Procurement Team. Germaine M. Ethy	19988
+Procurement Team. Khady Fall Lo	19988
+Procurement Team. Mamadou Saliou Diallo	19988
 Professional Academy for Teachers	15604
 Professional Software Development Team	13361
 Program Management Team	17458
@@ -1079,6 +1087,7 @@ SRA’s Performance Indicators Project Team	15478
 STEM Teacher Training Pilot Project LOT	15183
 SUMMARY OF TEACHER TRAINING REPORT	18765
 SUPERVISION A. TASK TEAM MEMBERS ANNEX	15511
+SUPERVISION A. TASK TEAM MEMBERS Juan	19988
 SUPERVISION A. TASK TEAM MEMBERS Name	15601,62,773
 SUPERVISION A. TASK TEAM MEMBERS Role	11924,3500,2538
 SYDONIA Project National Team	16503
@@ -1272,7 +1281,7 @@ Teach English	18099
 Teach Primary	2966
 Teach for Liberia	16876
 Teachable	6948
-Teacher	899,2962,2887,200,1006,176,3427,322,26,13,257,59,441,51,246,1924,20,6,195,487,57,52,723,416,244,774,14,86,941,168,756,72
+Teacher	899,2962,2887,200,1006,176,3427,322,26,13,257,59,441,51,246,1924,20,6,195,487,57,52,723,416,244,774,14,86,941,168,756,72,81
 Teacher Assistants	11230
 Teacher Assistants Programme	11940
 Teacher Attendance System	16911
@@ -1299,6 +1308,7 @@ Teacher Education Enhanced	16963
 Teacher Education and Training	12726
 Teacher Helpline	16162
 Teacher ICT Competency17 Competency TSC CEMASTEA	899
+Teacher Incentives	19988
 Teacher Integration of Digital Tools	16963
 Teacher Learning Circles	12175
 Teacher Learning Circles TLM	12175
@@ -1321,6 +1331,7 @@ Teacher Ratio PSP Private School Policy	14896
 Teacher Ratio PTxR Pupils	18460
 Teacher Ratio Pupils	18460
 Teacher Ratio RNE	12175
+Teacher Recruited	19988
 Teacher Recruitment	15604
 Teacher Resource Centers	19565
 Teacher Service Commission	899,18758
@@ -1329,7 +1340,7 @@ Teacher Supply	13960
 Teacher Task Force	19657
 Teacher Trainee Allowance	7695
 Teacher Trainees Enrolment	2775
-Teacher Training	899,2090,1539,3020,4863,101,3092,1248,111
+Teacher Training	899,2090,1539,3020,4863,101,3092,1248,111,3025
 Teacher Training Center	16436
 Teacher Training Centers	15661,775
 Teacher Training College	11905,4531
@@ -1359,7 +1370,7 @@ Teacher-related	11860
 Teacher-researcher	19248
 Teacher-to-pupil	19760
 Teacher.AI	18564
-Teachers	395,504,1089,787,183,553,72,1155,303,1791,114,2,600,16,873,683,674,253,71,129,33,75,1197,308,45,2,9,2,52,67,47,150,95,16,280,101,249,41,42,12,240,4,35,43,140,149,310,8,567,10,320,1,43,242,1,264,157,57,104,195,476,202,214,83,28,133,1350,14,1,115,189,146,168,516,95,93,52,54,44,49
+Teachers	395,504,1089,787,183,553,72,1155,303,1791,114,2,600,16,873,683,674,253,71,129,33,75,1197,308,45,2,9,2,52,67,47,150,95,16,280,101,249,41,42,12,240,4,35,43,140,149,310,8,567,10,320,1,43,242,1,264,157,57,104,195,476,202,214,83,28,133,1350,14,1,115,189,146,168,516,95,93,52,54,44,49,6
 Teachers Annex Schools	18460
 Teachers Colleges	13310
 Teachers Competency Assessment	17096
@@ -1397,7 +1408,7 @@ Teachers’ Capacity and Teaching Practices	16942
 Teachers’ Diploma Primary Holistic Education Programme	14742
 Teacher’s Certificate	14736
 Teaches the Ge'ez	10001
-Teaching	395,1698,3758,2659,3665,23,1116,42,644,48,699,65,352,440,57,1191,24,1584,451,13,641,92,142
+Teaching	395,1698,3758,2659,3665,23,1116,42,644,48,699,65,352,440,57,1191,24,1584,451,13,641,92,142,189
 Teaching And Learning In Secondary	899
 Teaching Assistance Programme. French Teachers	12972
 Teaching Assistants	10541,59
@@ -1473,7 +1484,7 @@ Team Europe Initiatives The Team Europe	789
 Team Europe Investment Package	11226
 Team Europe Pavilion	14027,1
 Team Europe and South Africa	11226
-Team Europe for Digital Transformation	12843
+Team Europe for Digital Transformation	12843,7191
 Team Europe's Data Governance	14514
 Team France Export	13260
 Team Full	775
@@ -1496,7 +1507,9 @@ Team Leader UN United Nations UNDP	16952
 Team Leader for Governance	13215
 Team Leader for Regional Cooperation	11548
 Team Leader of FAO's Forest Monitoring and Data	17054
+Team Leader. Fatoumata Toure	19988
 Team Manager	18576
+Team Member	19988
 Team Member Disbursement No Valerie F	19284
 Team Member Gabriel Njimgye Tekumafor Team	11924
 Team Member ICR Quality Assurance ICR	16436
@@ -1507,6 +1520,9 @@ Team Member Projeto	15476
 Team Member Senior Governance No Specialist	19284
 Team Member Team Member Counsel Environmental	15601
 Team Member Vladimir Tsirkunov Team Member	17962
+Team Member. Aissatou Tidiane Diallo	19988
+Team Member. Felly Akiiki Kaboyo	19988
+Team Member. Mamadou Diallo	19988
 Team Members Information	775
 Team NCS National Cybersecurity Strategy NDP	12973
 Team News-Letters Publisher French Portuguese Home	19622
@@ -1648,7 +1664,7 @@ WFA WFACS Bolivian Dinyuy Tata Team	1284
 WFACS Daniel Amponsah Team Member Efficiency	16922
 WFACS Fatou Bintou Mbaye Team Member	16922
 WILLIAM PITCHER TEACHER TRAINING COLLEGE	13078
-Waly Wane Task Team Leader	15743,444
+Waly Wane Task Team Leader	15743,444,3801
 Ward-Based Primary Healthcare Outreach Teams	396
 Weak Teacher Management Information Systems	14057
 West African Computer Emergency Response Team	16872
@@ -1685,6 +1701,7 @@ Yassin Saine Njie Team Member Operations	16922
 Year Comments Team	15659
 Year Teachers	17096
 Yes. Teacher	13392
+Youth Team Europe Initiative	20034
 Zambia By the Africa Frontline First Team	15833
 Zambia Cash Transfer Evaluation Team	15658
 Zambia Computer Incidence Response Team	13347

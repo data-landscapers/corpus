@@ -16,6 +16,7 @@ Arusha CC Sombetini July-June	19585
 Assented Jul	17388
 Av. Julius Nyerere Campus Universitario	9442
 Baraa July-January	19585
+Baseline Jul	20001
 Basic Education PS Julius Bitok Appearing	12312
 Basic Education PS Prof Julius Bitok	14478
 Basic Education Principal Secretary Julius Bitok	12258
@@ -132,19 +133,20 @@ Jul-2	12256
 Jul-2012 End Date	17441
 Jul-2013 Moderately Satisfactory Moderately Unsatisfactory	15511
 Jul-2015 Satisfactory Satisfactory	15663
-Jul-2018	13970,1631
+Jul-2018	13970,1631,4400
 Jul-2018 Comments	15601
 Jul-2018 Original Target	15601
 Jul-2018 Satisfactory Moderately Satisfactory	15663
 Jul-2018 Satisfactory Satisfactory	17849
-Jul-2019	11375,20,5243,1324
-Jul-2019 Effectiveness	11395,6567
+Jul-2019	11375,20,5243,1324,2026
+Jul-2019 Effectiveness	11395,6567,2026
 Jul-2019 Effectiveness Date	16638
 Jul-2019 Original Commitment Revised Commitment Actual	10779
 Jul-2019 Satisfactory Satisfactory	15663
-Jul-2019 Signing	11395
-Jul-2020	11469,2273,1993,278,625,1266,229,1696
+Jul-2019 Signing	11395,8593
+Jul-2020	11469,2273,1993,278,625,1266,229,1696,159
 Jul-2020 Effectiveness	18133
+Jul-2020 ICR	19988
 Jul-2020 Planned Mid Term Review Date	16638
 Jul-2020 Satisfactory Satisfactory	15663
 Jul-2020 Signing	13742
@@ -159,7 +161,7 @@ Jul-2022 Satisfactory Satisfactory	15663
 Jul-2022 TO Republic of Mozambique Digital Development	4653
 Jul-2023	6928,3942,6130
 Jul-2023 Financing Projected Date of Full Bank	16922
-Jul-2024	2712,3867,5649,799,1029,3023,391,1779
+Jul-2024	2712,3867,5649,799,1029,3023,391,1779,741,11
 Jul-2024. Practice Area	19663
 Jul-2025	3750,8238,264,3761,987
 Jul-2025 Country Director	14553
@@ -181,6 +183,7 @@ Jul-2026 The Economic Times	5734
 Jul-2028	1228,5605,4636,7065
 Jul-2028 Organizations Borrower Responsible Agency Republic	4653
 Jul-2028 Responsible Agency Road Fund	1228
+Jul-2028 Will	19990
 Jul-2028 Year FY2023 FY2024 FY2025 FY2026	4653
 Jul-2030	11469
 Jul-2030 Bank	11905
@@ -451,7 +454,7 @@ President Dr. Julius Maada Bio	18563
 President Dr. Julius Maada Bio and Foreign	18563
 President H.E Rtd. Brigadier Dr Julius	16243
 President Julius Kanubah	9211
-President Julius Maada Bio	2872,1052,190,3068,752,1162,7147,2228,6,44,61,1,8
+President Julius Maada Bio	2872,1052,190,3068,752,1162,7147,2228,6,44,61,1,8,1442
 President Julius Maada Bio Highlights Gains	18546
 President Julius Maada Bio’s Technology and Infrastructure	18587
 Prof. Julius Bitok	12300
@@ -496,6 +499,7 @@ UNDER WARDIP Jul	17380
 UNDP Malawi Quarterly Progress Report Jul-Sep	13080
 Uganda. Julianne R. Mweheire Director Economic	19728
 Unga Ltd July-June	19585
+Université Julius NYERERE de Kankan	19997
 Université Julius Nyéréré de Kankan	16627
 VP Ja.lloh Unveils The Julius Maada	18524
 VP Juldeh Jalloh	18501

@@ -120,7 +120,7 @@ Article Relationship	18985
 Article Relying Parties	12146
 Artificial Intelligence and Related Emerging Technologies	19690
 Asbestos Related Incidences Asbestos	1988
-Assessment of Relevance of PDOs and Rating	15511,90,130,2131
+Assessment of Relevance of PDOs and Rating	15511,90,130,2131,2126
 Assessment of Relevance of PDOs and Rating Overall Rating	18825
 Assessment of Relevance of PDOs and Rating PDO Relevance	11924
 Assessment of Relevance of PDOs and Rating Rating	15424,239,3102
@@ -321,13 +321,14 @@ Community Relationship X Management Change Management	14997
 Comoros FOR IMMEDIATE RELEASE	13741
 Compile Integrated IIP. Accuracy and Reliability	14777
 Complaints Relating	12201
+Complaints Transmission Relays	19988
 Component CONASUR National Council for Emergency Relief	16384
 Comportamentos Relativos	10777
 Confesiones Religiosas	16855
 Confession Religieuse	13390
 Connectivity Reliable	12240
 Consolidação Final Relatório Final Consolidado	11448
-Constitutional and Religious Affairs	4545,2335,5937
+Constitutional and Religious Affairs	4545,2335,5937,7225
 Constitutional and Religious Affairs MoF Ministry of Finance	4214
 Constraints Related	5677
 Contacts Media Relations Office Global Affairs	9275
@@ -418,6 +419,7 @@ DCCF RELATIF AUX DÉPÔTS DES DOSSIERS	9976
 DCDT Media RelationsEmail	11254
 DCF RELATIF	19292
 DE FOURNITURE DES SERVICES POSTAUX RELEVANT	15885
+DE L'HABITAT RECO RELAIS COMMUNAUTAIRE SMSI	19986
 DE L'INTERCEPTION DE DONNEES INFORMATISEES RELATIVES	15643
 DE LA RELATION ENTRE UN ETABLISSEMENT	14417
 DE LAS DISPOSICIONES RELATIVAS A LAS	4209
@@ -813,7 +815,7 @@ ID. Related Indicator	7221
 IDAworks PRESS RELEASE	14960
 IFMIS Related Links Kenya Supplier Portal	12322
 II PRESS RELEASE Unlocking Tanzania's Trade	19582
-II. OUTCOME A. RELEVANCE OF PDO	11924,4512,2389
+II. OUTCOME A. RELEVANCE OF PDO	11924,4512,2389,1163
 II. OUTCOME A. RELEVANCE OF PDOs	15511,90,62,2199,903
 II.ELABORATION DU PROJET DE TEXTES RELATIFS	16328
 III. OUTCOME A. RELEVANCE OF PDOs	15424
@@ -1020,7 +1022,7 @@ Labor and Working Conditions Relevant ESS	1867,1737,2935,4229,649,143,345,3753,3
 Labor and Working Conditions Relevant Key	18374
 Labor and Working Conditions Relevant Not Currently	19284
 Laboratoires DRG Diagnosis Related Groups DSNIS	13306
-Labour Relations	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Labour Relations	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Labour Relations Act	11182,98
 Labour and Industrial Relations Organisations	12597
 Land Related Matters	12912
@@ -1715,7 +1717,7 @@ Relapse	16971
 Relat	12201,6695
 Relate	16926
 Relate AI	12675
-Related	42,260,668,225,89,518,449,267,17,72,92,339,133,171,125,300,401,465,416,195,105,27,244,766,40,18,135,3,346,421,76,14,32,52,2,91,46,97,31,182,465,166,97,184,245,91,55,202,75,83,141,83,48,161,112,48,74,33,25,45,196,128,36,10,82,63,230,84,110,95,291,111,75,6,262,61,8,12,94,1,4,18,9,38,42,204,79,133,6,12,6,74,68,101,109,9,15,24,1,2,1,16,119,110,6,160,184,7,64,384,45,12,13,93,160,70,100,39,44,155,96,46,177,96,51,56,132,258,209,720,33,108,28,79,2,79,137,28,40,399,99,168,74,148,78,25,45,52,81,35,165,52,2,13,2,5,120,508,89,53,137,40,3
+Related	42,260,668,225,89,518,449,267,17,72,92,339,133,171,125,300,401,465,416,195,105,27,244,766,40,18,135,3,346,421,76,14,32,52,2,91,46,97,31,182,465,166,97,184,245,91,55,202,75,83,141,83,48,161,112,48,74,33,25,45,196,128,36,10,82,63,230,84,110,95,291,111,75,6,262,61,8,12,94,1,4,18,9,38,42,204,79,133,6,12,6,74,68,101,109,9,15,24,1,2,1,16,119,110,6,160,184,7,64,384,45,12,13,93,160,70,100,39,44,155,96,46,177,96,51,56,132,258,209,720,33,108,28,79,2,79,137,28,40,399,99,168,74,148,78,25,45,52,81,35,165,52,2,13,2,5,120,508,89,53,137,40,3,124
 Related AI	9816
 Related Analysis	5366
 Related Articles	7722,836,608,859,145,9433
@@ -1816,7 +1818,7 @@ Related Work	4439
 Related-party	9467
 Related-stories	10419
 Relatedcontent	17048
-Relatedly	1828,599,1156,2480,1525,438,3024,535,637,1301,1374,3721
+Relatedly	1828,599,1156,2480,1525,438,3024,535,637,1301,1374,3721,1372
 Relater	18559
 Relates	2253,2777,5763,2592
 Relatif	17855
@@ -1850,7 +1852,7 @@ Relations Strategy	19660
 Relations and Employment Creation MLR Ministry of Land	12923
 Relations and Trade	5086
 Relationsaveclesfournisseurs	15525
-Relationship	766,495,1687,913,26,3661,338,3083,915,1,274,46,5,92,49,4,28,43,61,156,258,135,75,412,1042,109,110,111,1,617,37,54,37,80,572,382,321,131,30,86,6,192,1029,86,377,51,532,11,14,85,3,10,327
+Relationship	766,495,1687,913,26,3661,338,3083,915,1,274,46,5,92,49,4,28,43,61,156,258,135,75,412,1042,109,110,111,1,617,37,54,37,80,572,382,321,131,30,86,6,192,1029,86,377,51,532,11,14,85,3,10,327,36
 Relationship Between Data Management and Data	15034
 Relationship Between Vision	15604
 Relationship Between the Cybersecurity Strategy	19801
@@ -1871,7 +1873,7 @@ Relationships Fashion	19572,17
 Relativa	9543
 Relativamente	1215,1100,501,1478,1694,340,374,117,76,49,1831,726,1251,5,3,6,11,593,17,169,13,8,324,117,826,2589,17,244,216,2,104,542,474,68,1662,13,6,10,7,2,53
 Relativas	18896
-Relative	582,781,3609,18,2769,3085,2,15,108,226,689,1,10,58,53,153,1,45,41,105,4,28,37,67,1381,269,282,745,80,236,1137,9,19,215,7,20,217,1,22,376,240,356,24,75,262,1200,202,3,87
+Relative	582,781,3609,18,2769,3085,2,15,108,226,689,1,10,58,53,153,1,45,41,105,4,28,37,67,1381,269,282,745,80,236,1137,9,19,215,7,20,217,1,22,376,240,356,24,75,262,1200,202,3,87,43
 Relative Citation Ratio	2518
 Relative Contribution	15244
 Relative Contribution Above	15244
@@ -2058,7 +2060,7 @@ Relebohile Clinic	11980
 Relecture	10975,5274
 Relecture des Textes du Système Statistique National du CNS	17842
 Relecture du Règlement de Conciliation Dans	10975
-Relevance	1988,787,2776,1226,55,70,646,3231,225,898,62,211,78,2,101,204,115,356,69,210,151,282,247,482,74,177,54,78,80,576,93,154,386,68,224,447,231,35,713,599,96,688,310,246,143
+Relevance	1988,787,2776,1226,55,70,646,3231,225,898,62,211,78,2,101,204,115,356,69,210,151,282,247,482,74,177,54,78,80,576,93,154,386,68,224,447,231,35,713,599,96,688,310,246,143,44
 Relevance Collaborate	11004
 Relevance Compliance	1988
 Relevance Date	13824
@@ -2083,7 +2085,7 @@ Relevance for RI2	10779
 Relevance for RI4	10779
 Relevance for RI6	10779
 Relevance of Chatbot Content Usage	18557
-Relevance of Design	10779
+Relevance of Design	10779,9209
 Relevance of Education	13960
 Relevance of Objectives	10779,7975
 Relevance of Objectives Rationale	16960

@@ -934,6 +934,7 @@ Innovation and Research Indicators	16975
 Innovation and Research Responsible Ministry	16872
 Innovations and Development Enhanced Research	19533
 Innovatrics. All Rights Reserved. About Us	11987
+Innovatrics. All Rights Reserved. Note	19996
 Installers Trained Biogas Installers Research	12515
 Institute for Meteorological Training and Research	13062
 Institute for Public Policy Research	1016,2429,4183,4752,670
@@ -1076,7 +1077,7 @@ Labour Research SA	11986
 Lake Kariba Fisheries Research Institute	3025
 Lake Piso Multiple Use Reserve	17114
 Land Research and Monitoring Unit	14742,9
-Land Use and Involuntary Resettlement	10829,135,2559,1030,23,334,27,39,1960,2899,12
+Land Use and Involuntary Resettlement	10829,135,2559,1030,23,334,27,39,1960,2899,12,141
 Land Use and Involuntary Resettlement ESS	15658,3626
 Land Use and Involuntary Resettlement Not Currently	10768,649,143,345,1427,4866
 Land Use and Involuntary Resettlement Relevant Biodiversity	1284,9545,135,2367,2222,68,1301
@@ -1409,6 +1410,7 @@ Original Research Table	9128
 Overview of Registration of Foreign Researchers	1554
 P3 Scientific and Technological Research	17458
 PAC Research	9672
+PARTENAIRES TECHNIQUES ET FINANCIERS RAFT RESEAU	19986
 PARTENAIRES TECHNIQUES ET FINANCIERS RESEAU EN	18105
 PCs. IDC Research Director	8289
 PFIs Point of Sale PIU PricewaterhouseCoopers Reserve	17235
@@ -1576,7 +1578,8 @@ RESEAUX	15592
 RESEAUX ET SYSTEMES D'INFORMATION Article	15429
 RESEAUX NON TERRESTRES Article	15654
 RESEAUX SOUTERRAINS	17819
-RESEN	1679,9844,34,359,1433,2324,2157,55,880,16,161
+RESEN	1679,9844,34,359,1433,2324,2157,55,880,16,161,1046
+RESEN Country Report	19988
 RESERVATIONS ARTICLE	12527
 RESERVE DE REEVALUATIONS	19850
 RESERVE IMMOBILIERE	19850
@@ -1635,7 +1638,7 @@ Required Reserve	17317
 Required Reserves	17236
 ResEau	18988,177
 ResEau. Parmi	19165
-Research	24,372,191,179,133,71,30,121,33,42,29,1,141,145,2,40,43,180,37,279,3,222,6,103,20,74,20,25,48,44,19,32,11,5,51,2,41,1,3,50,41,11,18,4,1,10,59,1,8,154,105,18,126,31,163,112,7,18,31,29,39,2,28,141,37,21,38,242,64,1,57,38,25,30,26,22,131,14,55,205,38,11,161,6,58,32,7,99,45,60,43,22,79,181,78,116,154,29,19,70,19,69,102,5,2,5,57,47,1,149,7,16,43,20,50,10,92,38,202,92,177,1,42,169,30,1,88,76,67,1,53,55,171,135,24,142,2,79,64,70,51,147,52,40,1,15,5,1,108,127,395,130,4,202,3,91,381,151,43,12,4,72,117,37,5,6,11,4,47,54,1,1,5,9,7,39,23,8,62,1,30,17,249,26,43,114,87,5,3,16,5,1,10,10,22,13,46,8,31,65,69,1,15,10,20,5,4,13,4,11,36,40,10,23,4,1,20,19,50,22,20,25,32,98,32,1,3,40,184,24,9,36,1,6,4,12,16,27,11,3,26,21,11,100,86,19,7,11,111,18,13,3,79,191,67,157,15,5,13,282,19,50,55,212,44,7,1,49,6,14,4,1,2,2,23,35,2,6,1,5,5,68,25,75,99,68,309,79,4,105,2,50,3,9,40,24,125,1,94,34,1,100,137,186,84,282,19,20,12,1,2,40,34,6,1,3,1,1,23,21,1,50,37,13,20,11,8,23,16,37,2,95,17,111,56,60,81,84,131,14,154,382,26,6,2,26,61,23,183,430,23,37,105,177,1,1,11,1,22,84,7,5,3,6,6,76,64,32,24,3,76,3,7,1,22
+Research	24,372,191,179,133,71,30,121,33,42,29,1,141,145,2,40,43,180,37,279,3,222,6,103,20,74,20,25,48,44,19,32,11,5,51,2,41,1,3,50,41,11,18,4,1,10,59,1,8,154,105,18,126,31,163,112,7,18,31,29,39,2,28,141,37,21,38,242,64,1,57,38,25,30,26,22,131,14,55,205,38,11,161,6,58,32,7,99,45,60,43,22,79,181,78,116,154,29,19,70,19,69,102,5,2,5,57,47,1,149,7,16,43,20,50,10,92,38,202,92,177,1,42,169,30,1,88,76,67,1,53,55,171,135,24,142,2,79,64,70,51,147,52,40,1,15,5,1,108,127,395,130,4,202,3,91,381,151,43,12,4,72,117,37,5,6,11,4,47,54,1,1,5,9,7,39,23,8,62,1,30,17,249,26,43,114,87,5,3,16,5,1,10,10,22,13,46,8,31,65,69,1,15,10,20,5,4,13,4,11,36,40,10,23,4,1,20,19,50,22,20,25,32,98,32,1,3,40,184,24,9,36,1,6,4,12,16,27,11,3,26,21,11,100,86,19,7,11,111,18,13,3,79,191,67,157,15,5,13,282,19,50,55,212,44,7,1,49,6,14,4,1,2,2,23,35,2,6,1,5,5,68,25,75,99,68,309,79,4,105,2,50,3,9,40,24,125,1,94,34,1,100,137,186,84,282,19,20,12,1,2,40,34,6,1,3,1,1,23,21,1,50,37,13,20,11,8,23,16,37,2,95,17,111,56,60,81,84,131,14,154,382,26,6,2,26,61,23,183,430,23,37,105,177,1,1,11,1,22,84,7,5,3,6,6,76,64,32,24,3,76,3,7,1,22,21
 Research Abundant R&D Resource AI Patent	15713
 Research Act	413,741,400
 Research Act. RESEARCH PROMOTION	1154
@@ -1710,7 +1713,7 @@ Research Design and Approach	6947
 Research Development and Dissemination REG Ltd Rwanda	14947
 Research Director	4964
 Research Director of Tunani Initiative	9116
-Research Directorate	11864,4,4984,2784,218,67
+Research Directorate	11864,4,4984,2784,218,67,63
 Research Directorate. Centre	11868
 Research Directorate. Democratic Republic	11868
 Research Directorate. Egyptian Front for Human Rights	19854
@@ -2002,7 +2005,7 @@ Researchand Innovation	14747
 Researched	13094,3782
 Researcher	3162,3645,305,1189,2988,261,4639,274,439,19
 Researcher Dr Nyasha Mlambo	13597
-Researchers	571,328,915,10,268,866,321,85,703,109,256,431,361,78,167,247,782,20,652,851,1,261,68,29,56,241,133,646,513,681,144,175,63,111,122,89,151,153,226,1,10,27,168,69,1,45,5,141,4,14,118,1504,575,181,65,169,1208,674,689,117,121,7,241,1199,291,67,72,195,3,39
+Researchers	571,328,915,10,268,866,321,85,703,109,256,431,361,78,167,247,782,20,652,851,1,261,68,29,56,241,133,646,513,681,144,175,63,111,122,89,151,153,226,1,10,27,168,69,1,45,5,141,4,14,118,1504,575,181,65,169,1208,674,689,117,121,7,241,1199,291,67,72,195,3,39,91
 Researchers Academia H H University of Nairobi	12210
 Researchers Thobekile Matimbe	1383
 Researcher’s Own Compilation	14932
@@ -2121,11 +2124,11 @@ Resetting for Growth	7695
 Resetting the Economy	19966
 Resettlement	1988,9875,364,146,539,508,353,58,66,41,3161,15,43,968,312,1465
 Resettlement Action	17114
-Resettlement Action Plan	1988,9875,2075,1573,191,952,242,218,1106,667
+Resettlement Action Plan	1988,9875,2075,1573,191,952,242,218,1106,667,1115
 Resettlement Action Plan ARCEP Regulatory Authority	15511,2351
 Resettlement Action Plan and Resettlement Policy Framework	3456
 Resettlement Action Planning	17099
-Resettlement Action Plans	3604,7921,3847,1242,500,1773,397
+Resettlement Action Plans	3604,7921,3847,1242,500,1773,397,718
 Resettlement Area Liberian Law World Bank	17114
 Resettlement Assistance	17114
 Resettlement BACKGROUND	12912
@@ -2217,7 +2220,7 @@ Science and Scientific Researchers	14073,1895,2002,960
 Science and Technology CABINET APPROVES NATIONAL RESEARCH	14286
 Science and Technology Research Foundations	13952
 Science and Technology Research and Development Institutions	13952
-Scientific Research	11905,1390,521,1081,1247,1052
+Scientific Research	11905,1390,521,1081,1247,1052,2792
 Scientific Research AI	2958
 Scientific Research AI-powered	2958
 Scientific Research Arab	2958

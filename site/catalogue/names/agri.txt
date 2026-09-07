@@ -175,7 +175,7 @@ AgriZoom	15493
 Agria Rhamdhan	10764
 Agriarche	7015
 Agribank	13097
-Agribusiness	789,989,210,2138,7343,1510,389,3643,94,1188,97,1490
+Agribusiness	789,989,210,2138,7343,1510,389,3643,94,1188,97,1490,113
 Agribusiness EIB and AFD	789
 Agribusiness Forum	10841
 Agribusiness Forum STEM Science	12329
@@ -218,7 +218,7 @@ Agricultura INE	18794
 Agricultura Inteligente	2816
 Agricultura Sem	10777
 Agricultura Utilizando	2816
-Agricultural	970,858,160,2138,1121,318,857,1423,838,878,585,617,16,62,123,233,61,162,300,186,184,124,155,4,16,56,152,315,19,10,83,289,1,44,27,70,169,325,617,3,6,19,224,61,118,30,58,33,254,101,131,111,551,577,5,19,33,96,47,96,18,20,58,5,45,81,518,132,88,21,333,25,5,75,120,849,22,31,17,110,3,159,92
+Agricultural	970,858,160,2138,1121,318,857,1423,838,878,585,617,16,62,123,233,61,162,300,186,184,124,155,4,16,56,152,315,19,10,83,289,1,44,27,70,169,325,617,3,6,19,224,61,118,30,58,33,254,101,131,111,551,577,5,19,33,96,47,96,18,20,58,5,45,81,518,132,88,21,333,25,5,75,120,849,22,31,17,110,3,159,92,38
 Agricultural Activities	17043,2672
 Agricultural Activities Agricultural	17043
 Agricultural Activities Practiced and Region	17043
@@ -341,6 +341,7 @@ Agricultural Research and Education	18957
 Agricultural Research and Extension Institute	11332
 Agricultural Research and Extension Unit	14721
 Agricultural Resilience Program	18301
+Agricultural Response	20004
 Agricultural Risk Management Platform	18309
 Agricultural Sample Survey	19554
 Agricultural Science	16852,1609
@@ -566,6 +567,7 @@ Agriculture and Community Development	13368
 Agriculture and Dairy	19632
 Agriculture and Digital Transformation Energy	11608
 Agriculture and Education	18933
+Agriculture and Energy	20004
 Agriculture and Engineering and Technology	1554
 Agriculture and Environment Digital Integration	14079
 Agriculture and Finance	16843

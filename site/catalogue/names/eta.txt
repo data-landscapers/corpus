@@ -34,7 +34,7 @@ Alliance des Etats du Sa-	6959
 Alliance des Etats du Sahel	3993,66,2900,711,567,7439,441,2039,21,35
 Alliance des Etats du Sahel. Pour	3592
 Alvin Etang Ndip	15064
-Ambassade des Etats-Unis	13724,4093
+Ambassade des Etats-Unis	13724,4093,2175
 Annexe G Etat	14472
 Architecture ETA Electronic Transactions Act FIA	19660
 Armée Assimi GOITA des Etats du Sahel	18003
@@ -50,7 +50,7 @@ BCEAO Banque Centrale des Etats	11944
 BEAC BANQUE DES ETATS DE L'AFRIQUE	15935
 BEI Etat du Cameroun	15542
 BILAN Etablissement	17841
-Banque Centrale des Etats	3604,7107,811,45,377,2905,503,47,80,29,113,14,135,489,1557,26,339,37,73,98,599
+Banque Centrale des Etats	3604,7107,811,45,377,2905,503,47,80,29,113,14,135,489,1557,26,339,37,73,98,599,1002
 Banque Centrale des Etats de I'Afrique de I'Ouest	18292,22
 Banque Mondiale. Banque des Etats	11944
 Banque de Développement des Etats	11944,1385
@@ -139,6 +139,7 @@ DES ETABLISSEMENTS DE PAIEMENT ET	17858
 DES ETABLISSEMENTS DE RESTAURATION ET D’HEBERGEMENT	17812
 DES ETABLISSEMENTS D’ENSEIGNEMENT	17812
 DES ETATS ARABES Article	15410
+DES ETATS DE L'AFRIQUE DE L'OUEST	19986
 DES ETATS DE L’AFRIQUE DE L’OUEST	17816
 DES ETATS DE MINISTÈRE DE L’EDUCATION	17830
 DES ETATS DU SAHEL	18003
@@ -236,7 +237,7 @@ ETAT DE COTE D’IVOIRE SODEMI	2342
 ETAT DE L'ENCOURS DES CREDITS DES	18032
 ETAT DE LA SANTE	15685
 ETAT DE MISE EN	3396
-ETAT DE PREPARATION DU PAYS	13717,4388
+ETAT DE PREPARATION DU PAYS	13717,4388,1881
 ETAT DE SANTÉ ET DÉTERMINANTS	17843
 ETAT DES BAOBAB DIMF CREDITS EN	18032
 ETAT DES CAPACITES ET BESOINS POUR	18286
@@ -533,6 +534,7 @@ Etat Part PFP	2342
 Etat Partie	15369,119
 Etat Pour	13445,1034
 Etat Pr. Faustin Archange Touadéra. Raison	1955
+Etat Prof Alpha CONDE	19985
 Etat Programme	3396
 Etat Projets	19221
 Etat Proportion	15999
@@ -604,6 +606,7 @@ Etat du Niger	1967,16133,22,28,72,5,11,37
 Etat du Président	15722
 Etat du Qatar	13405
 Etat du Senegal	5022,13274
+Etat du Système Educatif National	19988
 Etat du Système Educatif National RP	18942
 Etat du Sénégal	7501,3638,7147,2,2,5,27,2,71
 Etat du Sénégal. Cette	18295
@@ -847,7 +850,7 @@ Etats Arabes	15410
 Etats BAMAKO SISE A ACI	17817
 Etats Convention	15488
 Etats Generaux De L’education	15447
-Etats Généraux	10913,992,2,3622,144,292,1862
+Etats Généraux	10913,992,2,3622,144,292,1862,2159
 Etats Généraux du Numérique	15901
 Etats Généraux. POINT DE SITUATION DES	15673
 Etats Généraux. Specifically	11905
@@ -1083,6 +1086,7 @@ Rapport sur etat de la statistique du SSN 2024.pdf	18169
 Rapport sur etat de la statistique du SSN 2024.pdf Author	18169
 Ratio Etablissements	17824
 Recherche Scientifique Etablissements Publics Université	17895
+Recommandations des Etats Généraux	19986
 Renforcer le DRH-SSDS Etat	17845
 Republique des Etats Rica	18296
 Rio Tinto Alcan Etat du Cameroun	15542

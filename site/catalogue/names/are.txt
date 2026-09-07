@@ -27,6 +27,10 @@ AREAS POA	12500
 ARECOR	15670
 ARECOR RDC	15670
 ARECOR RDC. En	15670
+AREE and AGER	20002
+AREE. Economic	20002
+AREE. Generation	20002
+AREE. Respect	20002
 AREEN	13433,210
 AREEN Augmentation	13433
 AREEN Déploiement	13433
@@ -410,7 +414,7 @@ Directorate General and Area Chiefs	1382
 Disaster Prone Area	18470
 Disaster Prone Areas	18470
 Disputed Area	15138
-Disputed Area OP	1867,1589,148,7164,649,488,521,685,412,1030,23,1082,3,483,531,2570,39,123,256,184
+Disputed Area OP	1867,1589,148,7164,649,488,521,685,412,1030,23,1082,3,483,531,2570,39,123,256,184,155
 Disputed Areas	15372,3515
 Disputed Areas No B.3 Other Salient	18374
 Disputed Areas OP	1284,9545,134,1,561,330,110,172,1194,1,2079,102,40,1369,519,663,1731
@@ -433,6 +437,7 @@ EAC's One Network Area	2296
 ECOWAN ECOWAS Wide Area Infrastructure ECOWAS	18454
 ECOWAS Wide Area Network	238,16634,103
 ECOWAS Wide Area Network ECOWAS	16872
+EDG and AREE	20002
 EMERGING PRIORITY AREAS	18624
 ENUMERATION AREA	18464
 ENUMERATION AREA NUMBER	582
@@ -747,6 +752,7 @@ Jobs. Contributing Practice Areas	14976
 Juabeng Traditional Area	2824
 Judiciary. Local Area Networks	19519
 Jul-2024. Practice Area	19663
+Jun-2025. Practice Area	20002
 Jun-2026. Practice Area	18625
 Jun-2027 Practice Area	18809
 KEY INTEROPERABILITY AREA	15540
@@ -1049,7 +1055,7 @@ Project Area	12253,5188
 Project Area Intermediate Result Strategic	17441
 Project Area of Influence	17099,15
 Project Area. Each PAPJ	17441
-Project Areas	16638
+Project Areas	16638,3350
 Project The Government-Wide Area Network	2256
 Proposed Key Areas of Interest	19555
 Proposed Protected Areas	17016,98

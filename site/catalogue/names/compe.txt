@@ -164,6 +164,7 @@ Compensates Customers for Expired Bundles NITA-U Outlines	4608
 Compensating	1828
 Compensation	3,233,1574,965,2758,143,2019,1415,453,1412,156,5,94,18,738,459,90,14,491,82,199,5,135,13,335,19,613,305,89,517,364,211,417,495,63,14,10,188,371,487,101,249,233,1030,17,32,78
 Compensation Assistance Fund	11900
+Compensation Commission	20002
 Compensation Conditional	4258
 Compensation Fund	14997,1905
 Compensation Order	14809
@@ -183,7 +184,7 @@ Compensation of Batswana Ex-Miners	12597
 Compensation of Consumption of Taxes	236
 Compensation of Employees	2775,4920,3529,61,701,1434,1415,1092,1308
 Compensation of Employees Use of Goods and Services Capital	19042
-Compensations	16344,1978
+Compensations	16344,1978,1680
 Compensations of Employees	16978
 Compensatory	17114
 Compensação	5169,5586,1146,117,3422,1660,1652,9,17,22
@@ -302,7 +303,7 @@ Competition Policy	14879,762,4325
 Competition Regulation	15120
 Competition Regulation Acknowledging	15120
 Competition Regulation Over	15120
-Competition Regulations	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Competition Regulations	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Competition Regulations Access	10759,78,1315,188,7598
 Competition Regulations No Change Freedom of Expression	11870
 Competition Regulatory Authority	7381,3398
@@ -375,6 +376,7 @@ Competitiveness Report Score	11863
 Competitiveness Security	9067
 Competitiveness Unit	16503
 Competitiveness and Employment	15411,2451
+Competitiveness and Energy Reform Project	20002
 Competitiveness and Financial Inclusion Programme	12721
 Competitiveness and Financial Inclusion Project	11717
 Competitiveness and Growth	10963,1
@@ -596,7 +598,7 @@ Global Competitiveness Index	13314,2177,222,2157,14
 Global Competitiveness Index GDP Gross Domestic	15491
 Global Competitiveness Index13	18931
 Global Competitiveness Rank WEF	11379
-Global Competitiveness Report	4840,8474,1683,450,33,13,111,2263,1064
+Global Competitiveness Report	4840,8474,1683,450,33,13,111,2263,1064,1057
 Global Competitiveness Report. Indicateurs	15474
 Global Competitiveness and Cooperation	12675
 Global Competitiveness and Market Positioning	14819

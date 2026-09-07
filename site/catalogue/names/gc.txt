@@ -49,6 +49,7 @@ Cyber GC-SCRM.S4	10721
 DM GCT-NIGER HORISONS	18150
 Data Protection GC-LR.S5 GC-LR	10721
 Data Sovereignty GCSP	6432
+Description The GCF	20021
 Designated GC-C.S1	10721
 Direct Investment GCS Government Communication Service	12973
 Disclosure of Subcontractors GCSP	6432
@@ -98,6 +99,7 @@ GC-CP.S1	10721
 GC-CP.S2	10721
 GC-CP.S3	10721
 GC-CP.S4	10721
+GC-KAL	19991
 GC-LR	10721
 GC-LR.S1	5132
 GC-LR.S1 GC-LR	10721
@@ -178,7 +180,7 @@ GCE Examination	13477
 GCE and JSSLE Results Members	13477
 GCE-AL	15574
 GCEAL	15480
-GCF Board	17962,619
+GCF Board	17962,619,1440
 GCF Fonds	18316
 GCF Green Climate Fund GIS Geographic	17260
 GCF Green Climate Fund ID Identity	11586

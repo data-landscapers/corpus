@@ -77,9 +77,9 @@ Communicable Disease Control	16941
 Communicable Diseases	10780,2383,1551,1,2384
 Communicable and Non-Communicable Diseases	12729,247,1859
 Component COVID-19 Coronavirus Disease	16896
-Control of Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Control of Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Control of Communicable Diseases Access	19822
-Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Corona Virus Disease	12175,7468
 Corona Virus Disease-19	19531
 Corona Virus Disease-19 FBO Faith-Based Organization	19531

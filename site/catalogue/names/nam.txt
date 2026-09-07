@@ -216,7 +216,7 @@ COMPONENTS Last Approved Proposed Component Name	15138
 COMPONENTS Name	13027,893,1239,2745,229,221
 COMPONENTS Name Accelerating Learning	17958
 COMPONENTS Name Building	12228,39
-COMPONENTS Name Component	2712,3867,349,4467,576,469,3639,626,374,17,1254,5,894
+COMPONENTS Name Component	2712,3867,349,4467,576,469,3639,626,374,17,1254,5,894,752
 COMPONENTS Name Digital	18817
 COMPONENTS Name Economic Shock Responsive Cash	11988
 COMPONENTS Name Emergency	16013
@@ -607,7 +607,7 @@ Hon. Dr. Shadric Namalomba	9820
 Hon. John Namoit	10313
 House. Hon. John Namoit	10313
 Household Members Number Name Relationship	17114
-Huduma Namba	767,1257,78,464,1293,584,538,340,1282,2796,457,291,675,1317,88,73,6229
+Huduma Namba	767,1257,78,464,1293,584,538,340,1282,2796,457,291,675,1317,88,73,6229,1475
 Huduma Namba Identity System	9399,5035
 Huduma Namba Integration	10415
 Huduma Namba and Maisha Number	3391
@@ -661,12 +661,13 @@ Immigration Control Act. Although Namibia	13097
 Impact of M-Pesa and Huduma Namba	9399
 Improved Quality Indicator Name Baseline Actual	17958
 Inclusion Indicator Name Baseline Actual	11971
+Inclusion and Coverage Indicator Name	19990
 Incorporation of Namibian	12895
 Indaba X Namibia	12926
 India and Namibia	9749
 India and Viet Nam. Guinea-Bissau	11524
 Indicate Namibian Dollars	13037
-Indicator Name	10964,2367,2270,3683,459,1
+Indicator Name	10964,2367,2270,3683,459,1,246
 Indicator Name Appraisal Additional Financing Baseline	15663
 Indicator Name Baseline Actual	10870,1101,257,39,173,3529,63,47,108,807,85,879
 Indicator Name Baseline Closing Period	11924,6038
@@ -754,6 +755,7 @@ Iresearch Namibia	12478
 Israel Nambi	10765,10
 Issaka Namaya	18117,112
 Ivoire Botswana Ghana Namibia	12278
+Ivoire. Name	19990
 JAMII NAMBA	1921
 Jamii Namba	1644,215,62,947,2829,196,230,204,235,158,96,3644,131,542,8469
 Jamii Namba ID	2783
@@ -1491,7 +1493,7 @@ Namibe Uíge Zaire Professores	10766
 Namibe. O Conecta Angola	6585
 Namibe. SASSCAL. O Centro	11437
 Namibe.5	11417
-Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,10,113,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63,45,5,21,34,16,3,2,6,94,28,37,91,26,12,6,17,175,2,32,35,6,202,72,32,58,84,15,16,1,2,217,1,46,1,9,47,22,20,4,69,2,6,3,1,3,1,1,3,7,1,1,1,2,5,3,2,6,1,2,2,2,3,2,4,2,4,4,1,13,8,21,5,3,9,7,2,1,7,2,1,9,45,63,21,54,194,25,5,9,1,2,5,1,5,2,1,2,2,1,7,1,1,5,2,4,5,6,2,1,1,1,1,4,1,5,1,8,2,2,5,1,2,1,7,1,6,1,4,1,3,6,4,3,2,1,3,4,3,2,2,3,9,1,6,2,7,5,3,1,4,2,1,2,2,1,5,2,2,2,10,15,3,1,1,1,4,4,1,2,5,4,14,1,1,5,3,5,4,1,1,6,10,7,3,4,1,7,6,9,63,10,26,19,5,42,57,3,32,28,25,106,22,28,56,4,325,154,41,14,36,4,29,6,292,50,102,171,450,24,1418,53,309,492,2,23,16,12,74,622,406,12,455,225,43,20,15,9,145,1,13,2,20,1,30,50
+Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,10,113,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63,45,5,21,34,16,3,2,6,94,28,37,91,26,12,6,17,175,2,32,35,6,202,72,32,58,84,15,16,1,2,217,1,46,1,9,47,22,20,4,69,2,6,3,1,3,1,1,3,7,1,1,1,2,5,3,2,6,1,2,2,2,3,2,4,2,4,4,1,13,8,21,5,3,9,7,2,1,7,2,1,9,45,63,21,54,194,25,5,9,1,2,5,1,5,2,1,2,2,1,7,1,1,5,2,4,5,6,2,1,1,1,1,4,1,5,1,8,2,2,5,1,2,1,7,1,6,1,4,1,3,6,4,3,2,1,3,4,3,2,2,3,9,1,6,2,7,5,3,1,4,2,1,2,2,1,5,2,2,2,10,15,3,1,1,1,4,4,1,2,5,4,14,1,1,5,3,5,4,1,1,6,10,7,3,4,1,7,6,9,63,10,26,19,5,42,57,3,32,28,25,106,22,28,56,4,325,154,41,14,36,4,29,6,292,50,102,171,450,24,1418,53,309,492,2,23,16,12,74,622,406,12,455,225,43,20,15,9,145,1,13,2,20,1,30,50,48
 Namibia AFR UMI	17743
 Namibia AI Readiness Assessment Methodology	5036
 Namibia Access	1025
@@ -2007,7 +2009,7 @@ Nampula and Nacala	12140,61
 Nampula and Niassa	12201
 Nampula and Zamb	12201
 Nampula and Zambezia	12180,21
-Nampula and Zambézia	12843
+Nampula and Zambézia	12843,7191
 Nampula's Provincial Police Command	12147
 Nampula. Campaign Finance Registered	12201
 Nampula. Election	12201
@@ -2065,6 +2067,7 @@ Niger Standardized Connection Name	18109
 Nigeria Bangladesh Viet Nam SSA	10985
 Nigeria Senegal Kenya Botswana Namibia Uganda	17870
 Nigeria and Namibia	6426
+Nigeria. Name	19990
 Nigeria. Named	8001
 Nigeria. Named for Olaudah Equiano	1363
 Nimpamya Janat Namara	3726
@@ -2093,7 +2096,7 @@ ORDER ORDER IN NUMBERS NamRA	13044
 ORGANIZATION NAME	2709
 OVERALL RATINGS Name	11988,1932,136,924,179,3823,499
 OVERALL RATINGS Name Current Progress	4688
-OVERALL RATINGS Name Previous Current Progress	2712,3867,349,949,2993,525,1632,2708,278,692,295,96,374,35,399,102,127,217,4,1,179,258,25,425,7
+OVERALL RATINGS Name Previous Current Progress	2712,3867,349,949,2993,525,1632,2708,278,692,295,96,374,35,399,102,127,217,4,1,179,258,25,425,7,752
 Officer Table of Contents INTERPRETATION NAME TYPE	585
 Official Use Only Indicator Name	17000,1792
 Old Namibian ID	12350
@@ -2114,7 +2117,7 @@ Operation Name P172524 Senegal Digital Economy	18359
 Operation Name P175828 Cabo Verde Human	16187
 Operation Name P501343 Strengthening Electricity Services	15969
 Operation Name Strengthen Ethiopia's Adaptive Safety	14038
-Operation Short Name	15702,257
+Operation Short Name	15702,257,4029
 Operationalising the Namibia Institute of Public Health	12421
 Operator Name	15136
 Opportunities Namibia	5036
@@ -2143,9 +2146,11 @@ Overview of Namibia’s Social Protection MINISTRY	12373
 Overview of Projects and Their Completion Rates NAME	13053
 P-code Name	17114
 P144140. Operation Name	15704
+P161329. Operation Name	19990
 P162901. Operation Name	13897
 P162904. Project Name	13850
 P166193 Operation Name	13742
+P167478 Operation Name	19988
 P173240. Operation Name	15802
 P173521 Operation Name	14948
 P174620 Project Name	15804,348
@@ -2155,6 +2160,7 @@ P504621. Operation Name	14937
 P505094 Operation Name	2291
 P506969. Operation Name	13856
 P508948 Project Name	13017
+P511453. Operation Name	20002
 P511478 Operation Name	14015
 P513798 Operation Name	16293
 P514166. Operation Name	13743
@@ -2412,6 +2418,7 @@ Server Name Indication	14455
 Service Point Name Lat Long District	11986
 Service Point Name Long EC Alfred	11986
 Service Status Licence Name DECLARATION	14754
+Services Indicator Name	19990
 Shadric Namalomba	3933,2620,39,270,624,1730,335,1002,95
 Shadrick Namalomba	4790,8322
 Short Name	13523,6147

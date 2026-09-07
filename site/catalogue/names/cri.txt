@@ -18,7 +18,7 @@ ANNEX VI CRITERIA FOR EVALUATION	16843
 ANNUAL CRIME TRENDS	19772
 ASSEGURAR A CRIAÇÃO DOS PARQUES TECNOLÓGICOS	11397
 Abrogation CRISTAL Décision	998
-Absence of Crime	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Absence of Crime	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Academia Criteria	12376
 Accelerate War Crimes Court	17139
 Acceptance Criteria	5665
@@ -65,6 +65,7 @@ Anti-Organised Crime Strategy	11277
 Application of Criminal Procedure Act	11190
 Apply Critical Habitat	17114
 Assess the Criteria	12376
+Assessment CRI Corporate Results Indicators DLI	19988
 Assessment Criteria The Department	11005
 Assessment Framework A. Rating Criteria Naymote	17139
 Assistant Inspector General of Police for Crime Management	17297
@@ -103,6 +104,7 @@ Business- Critical High Performance Standard Basic	5665
 C Crime	6970
 C. ANALYSE CRITIQUE PAR SOUS-SECTEUR TRANSPORTS	15542
 CAR Emergency Food Crisis Response	15658
+CAR Emergency Food Crisis Response Project	20048
 CAR’s Special Criminal Court. Minster of State	4127
 CAabmoigVoesrddee Crianças	15694
 CBE. Critical Factors Key Performance Targets	11131
@@ -245,7 +247,8 @@ Casamento de Crianças	18762
 Cases of Crises and Natural Disasters	16902
 Cellule CrisesAlimentaires	18104
 Cellules Crises Alimentaires	18104
-Central African Republic Emergency Food Crisis	16398
+Central African Republic Emergency Food Crisis	16398,3650
+Central African Republic's Emergency Food Crisis	20048
 Central Criminal Investigation Department	14753,7
 Central Criminal Investigation Department CI	14760
 Centre National de Documentation Criminelle	17848
@@ -433,6 +436,7 @@ Crimes Cibernéticos A Imprensa Nacional de Moçambique	7047
 Crimes Cibernéticos. ASSEMBLEIA DA REPÚBLICA Lei	6970
 Crimes Community Safety and Crime Prevention Protecting	14781
 Crimes Económicos	12787
+Crimes Innovatrics Criminal	19996
 Crimes Reported	2775
 Crimes and Penalties ARTICLE	15484
 Crimes and Penalties Article	15492
@@ -454,6 +458,7 @@ Criminal Attempt To Commit Murder	16935
 Criminal Attempt To Commit Rape	16935
 Criminal Attempt To Commit Suicide	16935
 Criminal Cap	13403
+Criminal Case Management	19996
 Criminal Case Number	13040
 Criminal Case System	18970
 Criminal Cases	12920,6792
@@ -484,7 +489,7 @@ Criminal Groups	19655
 Criminal History Record	12389
 Criminal Indictment Matters	12920
 Criminal Information System Simplified	11939
-Criminal Investigation	16840,3014
+Criminal Investigation	16840,3014,142
 Criminal Investigation Article	19854
 Criminal Investigation Department	587,10494,3609,304
 Criminal Investigation Department Ahmed Ismail	15992
@@ -596,6 +601,7 @@ Crisis Conflict	10819
 Crisis Coordination Unit	6947
 Crisis Group	4127
 Crisis Group Africa Briefing No	4127
+Crisis Guinea	20004
 Crisis Key Challenges News	11439
 Crisis Level Humanitarian Response Migration Rate	17157
 Crisis Management	6938,4193
@@ -685,7 +691,7 @@ Criterion	3321,4227,9376
 Criterion How It’s Proven	15080
 Criterios	414,1287,15154
 Criterios Determinantes	16855
-Critical	26,755,2,116,59,196,130,493,1,109,53,649,138,60,397,1,29,369,21,257,664,100,235,384,3,304,114,12,420,91,85,159,516,225,132,243,40,298,80,21,296,177,663,6,637,89,162,51,131,1,521,44,10,6,210,4,136,4,5,86,46,13,116,68,436,50,31,9,115,122,70,57,62,6,17,9,179,285,125,11,110,43,125,1,819,8,282,41,453,30,32,182,163,211,105,73,481,672,40,15,3,24,45,88,15,26,17,103,702,408,115,15,29,8,91,17,79,85,122,170,136,218,207,28,70,41,46,117
+Critical	26,755,2,116,59,196,130,493,1,109,53,649,138,60,397,1,29,369,21,257,664,100,235,384,3,304,114,12,420,91,85,159,516,225,132,243,40,298,80,21,296,177,663,6,637,89,162,51,131,1,521,44,10,6,210,4,136,4,5,86,46,13,116,68,436,50,31,9,115,122,70,57,62,6,17,9,179,285,125,11,110,43,125,1,819,8,282,41,453,30,32,182,163,211,105,73,481,672,40,15,3,24,45,88,15,26,17,103,702,408,115,15,29,8,91,17,79,85,122,170,136,218,207,28,70,41,46,117,40
 Critical Alerts Should Never Auto-Diffuse	17969
 Critical Areas Seed Distribution Orange Alert	17157
 Critical Assessment Information	13477
@@ -716,6 +722,7 @@ Critical Fantasy Studies	11028
 Critical Findings Naymote	17139
 Critical Gap	17139
 Critical Gaps and Bottlenecks Implementation Crisis	17139
+Critical Habitat	20002
 Critical ICT	14879
 Critical ICT Non Critical	19576
 Critical Information	6946,6400,2101,174
@@ -934,6 +941,7 @@ Denúncia de Crimes	794
 Department of Priority Crime Investigation	5533,6453
 Department of Science and Technology. The CRID	11334
 Deputy Northern Regional Crime Officer	10142
+Description World Bank IDA Crisis Response	20048
 Desempenho CICA Conselho de Igrejas Cristãs de Angola	11390
 Desenvolvimento Integral da Criança	10777
 Desenvolvimento da Crian	12201
@@ -1686,6 +1694,7 @@ Wildlife Crime Prevention	11188
 Women Warning Signs Absence of Crime	19822
 World Bank Group COVID-19 Crisis Response	15491,62,2748
 World Bank Group’s COVID-19 Crisis	15511
+World Bank IDA Crisis Response Window	20048
 World Bank’s COVID-19 Crisis Response	10829
 World Bank’s Crisis Preparedness and Response Toolkit	11469
 Yaoundé. Critical	11149

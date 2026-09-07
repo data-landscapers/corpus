@@ -29,7 +29,7 @@ Axian Energy Ltd Innovative Solar Tracker	14745
 BORESHA TRACING COMPANY LIMITED Data Processor	7167
 BROAD INDICATORS FOR TRACKING	16884
 Back-end Infrastructure for Indicator Tracking	13395
-Bank's Systematic Tracking of Exchanges	13017
+Bank's Systematic Tracking of Exchanges	13017,6971
 Bank’s Systematic Tracking and Exchanges	17180,39
 Bill Tracker	17388
 Bill Tracker Track	17388
@@ -74,7 +74,7 @@ DCI AI Tracker	11156
 DES TRACES TECHNOLOGIQUES	17899
 DHIS2 EIR Tracker	977
 DHIS2 TRACKER	18766
-DHIS2 Tracker	977,2408,7534,670,1165,1908,1349,184,214,45,468,1772,234
+DHIS2 Tracker	977,2408,7534,670,1165,1908,1349,184,214,45,468,1772,234,1070
 DHIS2 Tracker URL	16454
 DHIS2 Tracker-based	16911
 DHIS2 Tracker. Un	16454
@@ -147,8 +147,8 @@ Ghana Prisons Service Track	15845
 Ghana Refugee Board Track	15845
 Global Aid Freeze Tracker	6337
 Global Findex Digital Connectivity Tracker	10977,2107,675,2084,1,2,819,380,880
-Global Innovation Index. Global Innovation Tracker	19862
-Global Innovation Tracker	10846,1049,265,195,41,91,7375,3,87
+Global Innovation Index. Global Innovation Tracker	19862,133
+Global Innovation Tracker	10846,1049,265,195,41,91,7375,3,87,43
 Global Innovation Tracker Dashboard	10846
 Global Innovation Tracker For Malawi	12204
 Global Innovation Tracker The Global Innovation	11895,264,1,45,150,132,7378,87
@@ -257,7 +257,7 @@ SOE State-Owned Enterprise STEP Systematic Tracking	6539
 SOE Statements of Expenditure STEP Systematic Tracking	11560
 SS Tracking	9304
 SSA Sub-Saharan Africa STEP Systematic Tracking	11380
-STEP Systematic Tracking of Exchanges	2889,715,9727,2187,143,723,565,1352,1546
+STEP Systematic Tracking of Exchanges	2889,715,9727,2187,143,723,565,1352,1546,141
 Satellite Launching and Tracking Base Agency	1131
 Satems Tracking and Electromechanical	12195
 Seed Certification and Tracking System	14002

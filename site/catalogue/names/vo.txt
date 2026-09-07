@@ -910,7 +910,7 @@ Ministro de Estado Vocal de Mesa Magistrado Tribunal	4209
 Ministro de Estado Vocales Mesa Parlamento	4209
 Ministry for Vocational Training	10841
 Ministry of Education and Vocational Training	11133,2805,5604,301
-Ministry of Employment and Vocational Training	10963,1,4516
+Ministry of Employment and Vocational Training	10963,1,4516,4508
 Ministry of ICT and National Guidance VI. VOTE	19742
 Ministry of ICT and National Guidance Vote Function	19742
 Ministry of National Education and Vocational Training	13935
@@ -1541,6 +1541,7 @@ VOCABULAIRE	17846
 VOCALES	4209
 VOCALES CONSEJO SUPER. DEL PODER JUDICIAL	4209
 VOCALES DE MESA	4209
+VOCATION D'ETAT CIVIL	19999
 VOCATION D’ETAT CIVIL	16697
 VOCATIONAL	17127
 VOCTIM Vocational Training Institute Matsapha WFP	12975
@@ -1732,7 +1733,7 @@ Vocales Magistrado Tribunal Magistrado	4209
 Vocally	12214
 Vocaloid	17773
 Vocaloid AI Engine	17773
-Vocation	2756,25,8040,1,4761,1068,1248,391
+Vocation	2756,25,8040,1,4761,1068,1248,391,1709
 Vocation Training Institutes	19532
 Vocational	1814,973,6829,1225,1014,50,462,64,29,524,1142,770,101,483,124,1248,35,262,1363,65
 Vocational Cap	6921
@@ -1757,7 +1758,7 @@ Vocational ICT	13346
 Vocational Project Phase II	19741
 Vocational Skills	16951
 Vocational Stream	13016
-Vocational Training	12431,1043,1268,738,178,2647,1214,183
+Vocational Training	12431,1043,1268,738,178,2647,1214,183,286
 Vocational Training Center	17241
 Vocational Training Centre	16256
 Vocational Training Centre of Barefoot College	16256

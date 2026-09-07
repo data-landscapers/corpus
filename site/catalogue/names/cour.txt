@@ -352,9 +352,10 @@ Courriers	6954,3922,99
 Courriers du MENA	10913
 Cours	3381,15,3996,1,3746,2303,193,903,35,832,179,59,30,30,414,1368,7,571,33,10,5,216,894
 Cours BCEAO	18105
-Cours Elémentaire	10847,8095
+Cours Elémentaire	10847,8095,1046
 Cours Moyen	10847,4826,3269
-Cours Préparatoire	10847,4826,3269
+Cours Primaire	19988
+Cours Préparatoire	10847,4826,3269,1046
 Cours Secondaire Notre Dame des Apôtres de Cotonou	10821
 Cours de Soutien de Cotonou	10821
 Cours des Comptes	15372

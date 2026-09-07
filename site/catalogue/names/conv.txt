@@ -47,7 +47,7 @@ African Union Convention GSMA	14674
 African Union Convention Governing the Specific Aspects	10841,5853
 African Union Malabo Convention	19801
 African Union's Convention	1777,12103,1357
-African Union's Malabo Convention	1777,1851,576,19,5393
+African Union's Malabo Convention	1777,1851,576,19,5393,10388
 African Union's Malabo Convention and ECCAS	9616
 African Union's Malabo Convention. Minister Chernor	18493
 African Union’s Malabo Convention	1243
@@ -215,7 +215,7 @@ Convenios Administrativos	16855
 Convenios Internacionales	16855,110
 Convenir	18063
 Convenors	17405
-Convention	11,14,209,84,111,144,70,132,65,121,1,281,33,31,228,62,270,24,18,79,43,75,11,225,466,197,351,227,278,409,38,492,9,58,217,147,132,162,8,40,30,760,125,46,78,1,489,50,32,162,202,212,432,323,261,115,195,313,217,353,239,504,53,10,37,7,7,15,35,32,3,224,58,71,21,265,57,21,34,80,23,132,3,5,2,28,9,31,11,202,13,30,71,65,28,297,196,22,3,26,20,18,28,28,7,57,51,64,81,33,4,30,82,3,25,158,97,13,107,113,4,45,1,3,20,42,1,75,1,150,103,6,15,8,2,16,9,6,72,1,11,23,38,122,1,9,1,8,23,16,49,2,1,32,15,37,6,104,93,108,1,58,86,28,3,3,26,1,35,4,6,63,28,25,39,20,22,27,136,53,64,3,69,9,69,6,54,44,44,54,6,58,105,108,100,136,6,7,17,12,2,11,29,2,26,8,1,7,13,1,142,63,119,34,97,139,179,36,36,10,1,1,4,12,14,11,3,25,36,12,24,21,5,66,38,10,8,3,91,8,55,11,2,4,13,4,13,5,110,6,354,76,39,2,6,10,55,249,18,39,74,160,6,389,2,11,24
+Convention	11,14,209,84,111,144,70,132,65,121,1,281,33,31,228,62,270,24,18,79,43,75,11,225,466,197,351,227,278,409,38,492,9,58,217,147,132,162,8,40,30,760,125,46,78,1,489,50,32,162,202,212,432,323,261,115,195,313,217,353,239,504,53,10,37,7,7,15,35,32,3,224,58,71,21,265,57,21,34,80,23,132,3,5,2,28,9,31,11,202,13,30,71,65,28,297,196,22,3,26,20,18,28,28,7,57,51,64,81,33,4,30,82,3,25,158,97,13,107,113,4,45,1,3,20,42,1,75,1,150,103,6,15,8,2,16,9,6,72,1,11,23,38,122,1,9,1,8,23,16,49,2,1,32,15,37,6,104,93,108,1,58,86,28,3,3,26,1,35,4,6,63,28,25,39,20,22,27,136,53,64,3,69,9,69,6,54,44,44,54,6,58,105,108,100,136,6,7,17,12,2,11,29,2,26,8,1,7,13,1,142,63,119,34,97,139,179,36,36,10,1,1,4,12,14,11,3,25,36,12,24,21,5,66,38,10,8,3,91,8,55,11,2,4,13,4,13,5,110,6,354,76,39,2,6,10,55,249,18,39,74,160,6,389,2,11,24,37
 Convention AFRISTAT-PHASAOC Guinée	16250
 Convention Against Corruption UNDP United Nations	970
 Convention Against Torture	11704,3038
@@ -286,6 +286,8 @@ Convention de Subvention	15901
 Convention de Vienne	15429,168,88,589,182,1662
 Convention de Vienne. Révision	16328
 Convention des Droits	13442
+Convention des Lettres de Change Non Normalisés	19994
+Convention des Lettres de Change Normalisés	19994
 Convention des Nations	10003,1085,3315,893,2695,1244,43
 Convention des Nations Un	10826
 Convention des Nations Unies	5573,1329,3924,2504,112,283,686,1232,442,1756,100,386,908
@@ -943,7 +945,7 @@ United Nations Convention To Combat Desertification	19086
 United Nations Convention and Article II	18437
 United Nations Convention and Protocols	11277
 United Nations Conventions	16860
-United Nations Framework Convention	1264,2166,1,152,1664,2445,1470,262,911,676,199,362,634,50,2486,387,596,311,886,27,191,117,201,476,184,191,500,711,327
+United Nations Framework Convention	1264,2166,1,152,1664,2445,1470,262,911,676,199,362,634,50,2486,387,596,311,886,27,191,117,201,476,184,191,500,711,327,155
 United Nations Framework General Convention	1988
 United Nations Refugee Convention	1867
 United Nations Refugees Convention	12145

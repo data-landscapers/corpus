@@ -185,6 +185,7 @@ Advancing the Just Energy Transition	11226
 Adverse Transaction	11994
 Advocacy and Transparency	12389
 AfDB Energy Transition and Institutional Support Program	18795
+AfDB Transition Support Mechanism	20050
 Africa CDC Digital Transformation Strategy	7707
 Africa CDC. Stratégie de Transformation Numérique de CDC	16195
 Africa Center for Digital Transformation	8748,199
@@ -766,6 +767,7 @@ Company. Legal Advisors Transfer	4896
 Compassionate The Interim National Transitional Council	16847
 Competitive Transition Quality	1818
 Competências Transversais	2816
+Complaints Transmission Relays	19988
 Completely Ban Cross-Border Data Transfers	7173
 Componente Especificação Situação Transferência	18774
 Componente Especificação Situação Transporte	18774
@@ -800,6 +802,7 @@ Congo's Project for Accelerating Digital Transformation	853,233
 Congo. Transformer	10204
 Conseil Exécutif des Transports Urbains de Dakar CLM	18291
 Conseil Militaire de Transition	18931,2
+Conseil National de Transition	19990
 Conselho Nacional de Transição	6307,2437,8356
 Consent and Transparency	19895
 Consent and Transparency Requirements	12675
@@ -1614,7 +1617,7 @@ Encuesta Continua Ministerio de Transportes	16898
 Eneo LA TRANSPARENCE POUR UN SECTEUR	10975
 Energie Electrique TCN Transmission Company of Nigeria	12062,6124,31
 Energy Sector Transformation AI	4528,7984
-Energy Transition	14456,289,1238,2879
+Energy Transition	14456,289,1238,2879,1182
 Energy Transition Investment Plan	18537
 Energy Transition Plan	18537
 Energy Transition Strategy	12206,7218
@@ -1693,6 +1696,7 @@ Eswatini’s Digital Transformation Strategy	6539
 Etat ATS Automated Transfer System CBD	13836
 Ethics and Responsible AI Mission Transform	4528
 Ethics and Transparency	1814
+Ethiopia Education Transformation Operation for Learning	20041
 Ethiopia Education Transformation Programme	13999
 Ethiopia Highlights Digital Transformation	10516
 Ethiopia Social Cash Transfer Pilot Program	11855,69
@@ -1889,6 +1893,7 @@ GIZ Ghana Digital Transformation Center	1779
 GOODS IN TRANSIT	4827
 GP System and Enhanced Transparency of Public Procurement	16949
 GPE System Transformation Grant	14000
+GPE System Transformation Grant and System Capacity	20022
 GRA Says New ITAS Will Transform	17208
 GSMA Driving Digital Transformation of African Economies	14674
 GUIDANCE ON CROSS-BORDER DATA TRANSFER	11956
@@ -2575,6 +2580,7 @@ MTND Ministry of Digital Transition and Digitalization	3604
 MTNIMA Ministry of Digital Transformation	1264
 MUTTUR Nodesh Assistant Transport Planner	14770
 MV Transformer	9446,1510
+MV and LV Transmission Lines	20002
 MW. LA TRANSPARENCE POUR UN SECTEUR	10975
 Madagascar Youth Skills for Economic Transformation and Jobs	14576
 Madame Zeinab SIDIBE de Transition	17982
@@ -2983,7 +2989,7 @@ National Transformational Leadership Institute	18621
 National Transit Authority	10405,1315
 National Transition Assembly	3806
 National Transition Company SA	11272
-National Transition Council	2781,4921
+National Transition Council	2781,4921,12288,11
 National Transitional Council	3901,12793,153
 National Transitional Council Presidential Council Real	16916
 National Transitional Council of Libya	16916
@@ -3297,6 +3303,7 @@ Prioridades de Transmissão	11430
 Priority Disaster Risk Management Housing Transportation	18476
 Priority of Transparency	3861
 Private Radio Transceiver Station	736
+Private. Transmission	20002
 Pro-Poor Agenda for Transformation and Development	16971
 Process and Result Verification for Transparency	9986
 Process and Results Verification for Transparency	10054
@@ -4213,7 +4220,7 @@ TRANSNATIONAL CORPORATION OF NIGERIA PLC NSoouterc	11884
 TRANSPARENCE	16628
 TRANSPARENCE DES CONDITIONS ET DES INFORMATIONS	14919
 TRANSPARENCE ET LOYAUTE	17829
-TRANSPARENCY	10759,3,73,2,1,130,902,16,2,1,263,1,10,177,1,11,1,36,99,838,1108,239,1360,179,673,253,1329,1185,1,169,14,22,1,65,13,1,1
+TRANSPARENCY	10759,3,73,2,1,130,902,16,2,1,263,1,10,177,1,11,1,36,99,838,1108,239,1360,179,673,253,1329,1185,1,169,14,22,1,65,13,1,1,48
 TRANSPARENCY AND ACCOUNTABILITY Open	1243
 TRANSPARENCY AND GENERAL DISCLOSURE Indicator	16843
 TRANSPARENCY AND RIGHTS OF APPEAL	15149
@@ -4313,7 +4320,7 @@ Taux de Transition	18171
 Taux de Transition UNESCO Organisation des Nations Unies	18171
 Tax Transformation Office	12162
 Taxes and Transfers	14736
-Team Europe for Digital Transformation	12843
+Team Europe for Digital Transformation	12843,7191
 Tech for Transactional	12214
 Technological Transformation and Global South Modernization	11302
 Technological Transformation for Better and More Jobs	19245
@@ -4550,7 +4557,7 @@ Transf. Comité Nac. de Control de Precios Combustibles	4209
 Transf. Comité Nac. de Seguridad	4209
 Transf. Comité Nacional de Control de Precios Combustibles	4209
 Transf. Parque de Bomberos	4209
-Transfer	3,223,192,344,210,502,393,860,458,529,1018,164,217,132,46,1141,506,213,25,2780,807,222,146,3,48,15,21,6,31,55,207,363,63,33,10,2,178,103,25,8,33,29,3,22,79,67,116,120,63,56,22,11,6,142,248,2,31,24,22,63,105,115,741,12,1,47,83,152,10,1,18,78,38,1,4,41,11,219,67,268,19,108,59,560,620,4,5,5,5,44,45,19,12,149,82,697,203,329,12,2,7,4,7,18,68,21,304,15,163,453,12,6,2,53,41,2,30,83
+Transfer	3,223,192,344,210,502,393,860,458,529,1018,164,217,132,46,1141,506,213,25,2780,807,222,146,3,48,15,21,6,31,55,207,363,63,33,10,2,178,103,25,8,33,29,3,22,79,67,116,120,63,56,22,11,6,142,248,2,31,24,22,63,105,115,741,12,1,47,83,152,10,1,18,78,38,1,4,41,11,219,67,268,19,108,59,560,620,4,5,5,5,44,45,19,12,149,82,697,203,329,12,2,7,4,7,18,68,21,304,15,163,453,12,6,2,53,41,2,30,83,247,14
 Transfer Agency	12182
 Transfer Agreements	12302
 Transfer Agreements Transfer	12302
@@ -4810,7 +4817,7 @@ Transformation Publique	14534
 Transformation Raafat Hendy	15992
 Transformation Resource Centre	12674
 Transformation Stage	19900
-Transformation Strategy	1243,471,1929,9704,1327,223,1808
+Transformation Strategy	1243,471,1929,9704,1327,223,1808,3299
 Transformation Strategy EAC East African Community	13312,2
 Transformation Strategy GoM Government of Malawi GWAN	12241,839,15
 Transformation Strategy and Roadmap	12214
@@ -4903,6 +4910,7 @@ Transformer	747,616,1079,898,3080,1647,635,2242,1092,3688,52,865,52,755,408,4,25
 Transformer BeninIX	15592
 Transformer Capacity The CEB	14745
 Transformer Installation Transformer	16978
+Transformer Stations	20002
 Transformer le Bénin	15592
 Transformer-LSTM Improve Maize-Yield Estimation	13162
 Transformer. Le Ministre des Finances	19347
@@ -5058,6 +5066,7 @@ Transition Support Facility Pillar I	18862
 Transition Support Facility Pillar III	10222,350,72
 Transition Support Facility UA Unit of Account	13731
 Transition Support Facility Unit of Account United	13938
+Transition Support Mechanism	20050
 Transition Year	4217
 Transition Zones	14622
 Transition and Administration Reform OO SS OS	1885
@@ -5208,7 +5217,8 @@ Transmissibles	17827
 Transmission	1,971,1754,282,373,333,1192,834,172,1558,1338,1505,138,370,55,99,978,90,19,89,82,23,102,409,533,41,44,29,8,52,34,116,44,51,29,674,2,30,29,54,208,117,17,39,1,28,393,23,109,65,106,16,43,25,20,138,19,32,259,133,523,21,94,294,324,235,22,23,212,17,93,31,74,19,233,20,318,104,241,318,58,44,31,274
 Transmission Access	15255
 Transmission Assessment Survey	14622
-Transmission Backbone Project	1539,16945
+Transmission Backbone	20024
+Transmission Backbone Project	1539,16945,1540
 Transmission Backbone Project. Budget	1539
 Transmission Capacity	18795
 Transmission Company EHSGs Environmental Health and Safety	18504
@@ -5339,7 +5349,7 @@ Transparence	2960,1209,185,3003,806,361,956,1228,3,163,101,17,22,1089,1238,395,7
 Transparence des Industries Extractives LNOB Leave	17907
 Transparence. Catégorie	14425
 Transparencia	8378,7100,1420,67
-Transparency	961,9,273,90,141,1194,290,544,1,101,257,13,654,333,24,228,131,35,254,41,44,82,165,349,36,55,127,10,21,285,44,1,143,176,110,249,77,215,158,86,313,116,250,269,444,1,212,10,535,113,489,60,16,2,1,74,55,1,5,27,6,44,81,2,2,5,16,60,19,18,57,547,10,3,16,1,1,1,51,16,4,26,104,56,7,1,9,22,16,9,1,128,2,11,1,3,33,55,9,4,31,24,25,15,22,101,228,4,62,18,55,225,41,12,5,20,73,141,65,25,5,322,32,50,170,206,7,124,1,35,25,97,5,2,47,57,10,35,53,2,63,34,3,111,57,456,1,2,97,418,36,436,71,131,74,15,29,4,3,3,39,20,62,15,2,22,1,1,110,10,181,178,155,96,23,16,81,119,152,57,144,38,95,202,107,3,18,611,22,88,6,1,65,83,21,14,22,1,31,5,11,18,13,2
+Transparency	961,9,273,90,141,1194,290,544,1,101,257,13,654,333,24,228,131,35,254,41,44,82,165,349,36,55,127,10,21,285,44,1,143,176,110,249,77,215,158,86,313,116,250,269,444,1,212,10,535,113,489,60,16,2,1,74,55,1,5,27,6,44,81,2,2,5,16,60,19,18,57,547,10,3,16,1,1,1,51,16,4,26,104,56,7,1,9,22,16,9,1,128,2,11,1,3,33,55,9,4,31,24,25,15,22,101,228,4,62,18,55,225,41,12,5,20,73,141,65,25,5,322,32,50,170,206,7,124,1,35,25,97,5,2,47,57,10,35,53,2,63,34,3,111,57,456,1,2,97,418,36,436,71,131,74,15,29,4,3,3,39,20,62,15,2,22,1,1,110,10,181,178,155,96,23,16,81,119,152,57,144,38,95,202,107,3,18,611,22,88,6,1,65,83,21,14,22,1,31,5,11,18,13,2,48
 Transparency Accuracy Partnership Table	12902
 Transparency Across	6250
 Transparency Across the AI Lifecycle Transparency	14565
@@ -5496,7 +5506,7 @@ Transport Ministry	10852
 Transport Ministry of Communications	12701
 Transport Ministry of Housing	11131
 Transport Mobilité	18425
-Transport Network	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,6416,748,1,169,14,22,1,65,14,1
+Transport Network	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,6416,748,1,169,14,22,1,65,14,1,48
 Transport Network Access	10759,78,1315,188,7598
 Transport Network Upgrades Project	2884
 Transport Networks Executive Summary	2830

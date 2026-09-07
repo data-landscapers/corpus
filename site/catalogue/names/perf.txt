@@ -143,7 +143,7 @@ Burkina Faso Restoring Education System Performance	15743
 Business Performance	3898
 Business- Critical High Performance Standard Basic	5665
 C. BANK PERFORMANCE	15424,239,68,1221,910,903
-C. BANK PERFORMANCE Quality	11924,3500,239,2299
+C. BANK PERFORMANCE Quality	11924,3500,239,2299,2026
 C. BANK’S PERFORMANCE	15511
 C. BANK’S PERFORMANCE Quality	15511
 C. Project Performance	16896,26
@@ -223,7 +223,7 @@ D Performance	15493
 D'INTERIM PERFE BCEIP	16623
 D. Load and Performance Testing	13185
 D. Original Project Description and Performance	15983
-DATA ON FINANCIAL PERFORMANCE	2712,1976,1891,349,949,2993,525,576,257,39,173,587,31,1922,179,576,2,276,66,626,289,6,79,17,374,35,399,54,48,127,217,4,1,179,258,25,165,101,166,232,348
+DATA ON FINANCIAL PERFORMANCE	2712,1976,1891,349,949,2993,525,576,257,39,173,587,31,1922,179,576,2,276,66,626,289,6,79,17,374,35,399,54,48,127,217,4,1,179,258,25,165,101,166,232,348,172
 DATA ON FINANCIAL PERFORMANCE The World	19242
 DATA SHEET RATINGS OF PROJECT PERFORMANCE	15511
 DC. The Performance and Learning Review	15659
@@ -467,6 +467,7 @@ II. PERFORMANCE	18171
 II. REVIEW OF THE ECONOMIC PERFORMANCE	19602
 III. Performance	15758
 III.2. Performances	15685
+IMPLEMENTATION AND OUTCOME....20 IV. BANK PERFORMANCE	19988
 IMPLEMENTATION ROADMAP AND PERFORMANCE EVALUATION	12240
 IMPROVING COURT PERFORMANCE IN THE PROJECT	17441
 INDICATEURS CLES DE PERFORMANCE ET COLLECTE	16195
@@ -483,7 +484,7 @@ INTERNATIONAL COOPERATION ANNUAL PERFORMANCE REPORT	13126
 INTERNATIONAL MONETARY FUND Performance Assessment Report	12500
 INTRODUCTION The Annual Health Service Performance	16971
 IV- PERFORMANCE DU PORTEFEUILLE	2342
-IV. BANK PERFORMANCE	11924,3500,177,62,68,705,516,910,100,803,60
+IV. BANK PERFORMANCE	11924,3500,177,62,68,705,516,910,100,803,60,1163
 IV. BANK’S PERFORMANCE	15511
 IV. FISCAL PERFORMANCE	12922,34,167
 IV.BANK’S PERFORMANCE	15511
@@ -685,6 +686,7 @@ Mobile Money Performance	17235
 Mobile Performance Requirements Metric Target Maximu	11952
 Moderately Satisfactory Bank Performance	14948
 Moderately Satisfactory. Bank Performance	15704
+Moderately Unsatisfactory Bank Performance	19988
 Moderately Unsatisfactory Overall Bank Performance Rating	10779
 Modernize Ministry Performance	9009
 Modification of Performance Criteria	18823
@@ -737,7 +739,7 @@ OVERALL REVENUE PERFORMANCE	14985
 OVERVIEW OF DEPARTMENTAL PERFORMANCE	11218,6
 OVERVIEW OF SECTOR ELECTRICITY PERFORMANCE SUB-SECTOR	12256
 Objectifs de Performance	16020
-Observed Innovation Performance	12205,7747
+Observed Innovation Performance	12205,7747,43
 Observed Innovation Performance Relative	12204
 Official Use Only Municipal Performance Program	17505
 Oficina Artes Perform	15772
@@ -783,6 +785,7 @@ PART IV FINANCIAL PERFORMANCE	14773
 PASEL GRM. Performance-based Conditions	15969
 PBC Indicator Name Performance-Based Conditions Formula	19284
 PBC Performance Based Condition PCE Private	15659
+PBC Performance-based Conditions PCU Project Coordination	19988
 PBF Performance Based Financing	13306
 PBF Performance-based Financing PCU Project Coordination	11560
 PCD Performance-Based Condition PDO Plan Communal	10964
@@ -905,6 +908,7 @@ Perfect for ISPs	13704
 Perfect. Thank	7065
 Perfectionnement	15424,144,2260,14,136,964
 Perfectionnement Professionnel des Jeunes	13630
+Perfectionnement du Personnel Enseignant	19988
 Perfil	11441,15,75,12,4,4147,1910,1158
 Perfil Demográfico	2138
 Perfil Urbano	15388
@@ -934,7 +938,7 @@ Perform Linkage YESYES NO NO C	8604
 Perform Occupational Health and Safety Act	11986
 Perform Testing Services	5665
 Performanc	10829,3917
-Performance	22,6,391,347,234,161,103,113,1,158,408,152,246,433,621,107,148,256,219,41,35,15,43,41,48,214,46,472,271,313,435,81,915,667,272,266,527,63,155,82,189,97,282,159,302,564,43,11,54,33,113,1,155,3,2,4,55,3,26,7,19,19,20,128,108,356,1,42,28,3,9,22,17,299,44,13,141,31,1,367,20,3,8,26,14,7,60,5,11,70,62,87,120,11,15,56,3,27,28,153,55,251,141,19,373,15,1,198,7,1,13,2,12,4,37,21,20,7,73,50,12,22,61,84,329,19,92,148,6,87,91,276,414,15,3,2,73,4,109,7,13,37,3,8,27,44,25,120,1,22,17,37,58,6,3,27,77,3,74,117,311,5,28,7,9,72,196,100,32,1,169,68,21,51,5,121,69,15,399,47,236,5,1,18,51,46,19,75,14,34,106,62
+Performance	22,6,391,347,234,161,103,113,1,158,408,152,246,433,621,107,148,256,219,41,35,15,43,41,48,214,46,472,271,313,435,81,915,667,272,266,527,63,155,82,189,97,282,159,302,564,43,11,54,33,113,1,155,3,2,4,55,3,26,7,19,19,20,128,108,356,1,42,28,3,9,22,17,299,44,13,141,31,1,367,20,3,8,26,14,7,60,5,11,70,62,87,120,11,15,56,3,27,28,153,55,251,141,19,373,15,1,198,7,1,13,2,12,4,37,21,20,7,73,50,12,22,61,84,329,19,92,148,6,87,91,276,414,15,3,2,73,4,109,7,13,37,3,8,27,44,25,120,1,22,17,37,58,6,3,27,77,3,74,117,311,5,28,7,9,72,196,100,32,1,169,68,21,51,5,121,69,15,399,47,236,5,1,18,51,46,19,75,14,34,106,62,37
 Performance Against Targets	5245
 Performance Agreement	16858
 Performance Agreements	12706
@@ -1177,11 +1181,12 @@ Performance-Related Rewards	11218
 Performance-based	10347,518,1059,66,3037,1936,176,121
 Performance-based Budetin	17441
 Performance-based Budgeting	17441
-Performance-based Conditions	15659,3625
+Performance-based Conditions	15659,3625,704
 Performance-based Contracts	17458
 Performance-linked	15164
 Performance. CHAPITRE	17913
 Performance. Ce	17918
+Performance. The FM	19988
 Performance. The Project	13392
 Performance104.1	14985
 Performances	419,2977,9910,35,1281,801,301,1511,1707
@@ -1192,7 +1197,7 @@ Performant ID System	10819
 Performativity	7966
 Performed	15492,4084
 Performed Regulation	6231
-Performing	11895,264,26,170,132,566,2145,2096,26
+Performing	11895,264,26,170,132,566,2145,2096,26,2675
 Performing Arts	14742
 Performing CDD	17183
 Performing Loan Ratio NPL	15023
@@ -1232,6 +1237,7 @@ Procedures Performed	4896
 Procurement Performance Rating	16922
 Procurement Performance. Based	16436
 Procurement Performance. The Project	13392
+Procurement Performance. The WB	19988
 Program Performance	15752
 Program Performance and Fiscal Policy	15029
 Programmatic Performance	19544

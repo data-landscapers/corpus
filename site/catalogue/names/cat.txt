@@ -330,7 +330,7 @@ Categorias de Rendimento da DPR	12018
 Categorias de Rendimentos	12018
 Categorias de Rendimentos da DPR	12018
 Categorical	7451,832,8584,35,247,2088
-Categories	236,725,808,158,394,69,147,190,314,29,444,200,89,84,405,409,63,62,29,258,29,2,181,75,100,80,96,217,309,86,83,128,44,403,62,56,47,32,823,317,153,167,1,1,34,201,44,369,715,110,55,272,846,616,20,1,7,44,84,131,5,44,99,36,3,263,417,14,346,567,138,349,477,9,45,19,73,82,444,1253,2,63,556,1826,368,1,59,124,22,1,30,50,35
+Categories	236,725,808,158,394,69,147,190,314,29,444,200,89,84,405,409,63,62,29,258,29,2,181,75,100,80,96,217,309,86,83,128,44,403,62,56,47,32,823,317,153,167,1,1,34,201,44,369,715,110,55,272,846,616,20,1,7,44,84,131,5,44,99,36,3,263,417,14,346,567,138,349,477,9,45,19,73,82,444,1253,2,63,556,1826,368,1,59,124,22,1,30,50,35,13
 Categories All	17140
 Categories Consultancy	9893
 Categories Country Information Legal Information Policy	16830
@@ -376,7 +376,7 @@ Categorização Multinível	18779
 Categorize	14997,1866
 Categorize Workers	12675
 Categorizing	12445
-Category	969,250,9,36,20,1189,1,301,1,137,1983,76,33,129,303,718,384,407,749,895,241,9,283,447,46,854,289,9,8,53,6,2,1,74,52,4,224,142,215,306,8,5,2,16,1,1,1,173,90,1,1,9,114,20,40,3,1,11,1,20,59,56,9,12,164,333,47,132,146,87,175,345,87,521,171,25,170,54,21,24,26,28,118,290,45,35,105,1,11,88,109,179,98,168,72,494,57,1,13,150,15,49,51,21,14,192,745,31,153,171,213,133,352,6,39,270,98,1,4,165,13,1,22,1,30,35,14,1
+Category	969,250,9,36,20,1189,1,301,1,137,1983,76,33,129,303,718,384,407,749,895,241,9,283,447,46,854,289,9,8,53,6,2,1,74,52,4,224,142,215,306,8,5,2,16,1,1,1,173,90,1,1,9,114,20,40,3,1,11,1,20,59,56,9,12,164,333,47,132,146,87,175,345,87,521,171,25,170,54,21,24,26,28,118,290,45,35,105,1,11,88,109,179,98,168,72,494,57,1,13,150,15,49,51,21,14,192,745,31,153,171,213,133,352,6,39,270,98,1,4,165,13,1,22,1,30,35,14,1,48,3
 Category A All	18541
 Category A Enterprise	12894
 Category A Income Exemption Threshold	14717
@@ -402,6 +402,7 @@ Category C	5005,2690,4173,641,2379,2553,1100,1204
 Category C Educational Institutions	18541
 Category C Non-ECOWAS	18541
 Category Category	15473
+Category Change	19990
 Category Class Number	12256
 Category Classified Level	10157
 Category Consultant Services Country Central African	16194
@@ -511,6 +512,7 @@ Cathedral Square Building	14847
 Catherene	9128
 Catherine	1769,2083,10802
 Catherine Akwilapo	19592
+Catherine Audrey Balife Seya	19990
 Catherine Bitarakwate Musingwiire	2757,2637
 Catherine Bitarakwate Musingwiire Permanent Secretary	8032
 Catherine Farvacque-Vitkovic	11129,4426
@@ -767,6 +769,7 @@ E E.1 Categoria E.1	12018
 E-Government Category	13214
 E-santé Catégorie Nombre Ayant	18105
 E.2 Categoria E.2	12018
+EA Category	19990
 EA Category Partial Assessment	15601
 EA Category Revised EA Category	15663,2186
 ENFANTS NON VACCINÉS PAR CATÉGORIE SOCIOÉCONOMIQUE	17843
@@ -901,6 +904,7 @@ Integrated Catchment Management	12718
 Interim President Catherine Samba-Panza	10837
 International Big Cat Alliance	18691
 International Big Cat Alliance. Formal	16256
+International Development Association Category	19990
 Introduce Mijo Airport Dropoff Vehicle Category	15867
 Investment Incentives Investment Categories PUBLIC SECTOR	11857
 Investor Category	14828
@@ -911,6 +915,7 @@ JEP Tariff Schedule All Categories End-User	16978
 Jeckcyneide Catete	18819
 Jennie Cataldo	1038
 Joel R. McConvey Categories Biometrics News	2873
+Jun-2026. Original EA Category	19990
 KEY POLICY PRINCIPLES FOR CAT	12574
 KSh Million Expenditure Category	2775
 Kaisosi Tarred Road Kehemu Catholic Church	13046
@@ -1175,7 +1180,7 @@ SPORT FISHING PERIOD CATEGORY FEES	18450
 SRAL CATTA	16623
 SSVP St Christopher Catholic Church	11204
 STATES Publication Category	15089
-SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173,587,31,862,1060,51,128,576,2,276,66,915,6,79,17,374,35,453,48,127,217,4,1,462,165,260,7,232
+SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173,587,31,862,1060,51,128,576,2,276,66,915,6,79,17,374,35,453,48,127,217,4,1,462,165,260,7,232,520
 Saad Sefrioui Catégorie	8891
 Sabas SONOU AGOSSOU Environmental and Social Category	11863
 Sample Budget and Capacity Audit Templates Category	3861
@@ -1226,7 +1231,7 @@ Stakeholder Categories Stakeholders	7548
 Stakeholder Categorization	17099
 Stakeholder Categorization Key	17099
 Stakeholder Category Actors	17018
-Standards Catalogue	13385,3515
+Standards Catalogue	13385,3515,3104
 Startup Catalyst	19245
 Stats SA. Stats SA Library Cataloguing-in-Publication	11258,28
 Still Catching Up Nigeria	8088

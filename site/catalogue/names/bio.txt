@@ -42,7 +42,7 @@ Asia. BIO	821
 Audiencia Provincial de Bioko Norte	4209
 Automated Biometric	11986
 Automated Biometric Identification	11986
-Automated Biometric Identification System	2073,1342,2118,7472,1825
+Automated Biometric Identification System	2073,1342,2118,7472,1825,5166
 Automated Biometric Identification System ACSA Airports	5533
 Automated Biometric Identification System ADR Assistant	13005
 Automated Biometric Information System	14830
@@ -156,7 +156,7 @@ Biocarburant	19366
 Biochar Application Build	17157
 Biochar Management Department	17157
 Biocharbon PNUD Ministère	15500
-Biochimie	15674,3692
+Biochimie	15674,3692,631
 Biochimiques	15674
 Biodata	19712
 Biodegradable	1988
@@ -176,7 +176,7 @@ Biodiversity Finance Initiative	17369
 Biodiversity Financing Initiative	11586
 Biodiversity Impacts	1988
 Biodiversity Management Plan	17114
-Biodiversity Management Plans	16144,970
+Biodiversity Management Plans	16144,970,2888
 Biodiversity Protocol	14845
 Biodiversity Tracking System	11721
 Biodiversity and Conservation Value Liberia	17114
@@ -554,7 +554,7 @@ EC Collecte Données Biométriques Collection des Données	14480
 ECOWAS Biometric Cards	12015
 ECOWAS NATIONAL BIOMETRIC ID	17174
 ECOWAS National Biometric Cards	17221
-ECOWAS National Biometric Identity Card	4102,6807,1106,5159,47
+ECOWAS National Biometric Identity Card	4102,6807,1106,5159,47,2769
 ECOWAS Regional Biobank	16971
 ECOWAS-WAHO INVITES BIOMEDICAL SCIENTIST DR. DOUGBEH-CHRIS	10581
 EDT Biometric	9747,54,3,23
@@ -819,7 +819,7 @@ President Bio Leads Inspection of New ECOWAS	18582
 President Dr. Julius Maada Bio	18563
 President Dr. Julius Maada Bio and Foreign	18563
 President Dr.Julius Maada Bio	18563
-President Julius Maada Bio	2872,1052,190,3068,752,1162,7147,2228,6,44,61,1,8
+President Julius Maada Bio	2872,1052,190,3068,752,1162,7147,2228,6,44,61,1,8,1442
 President Julius Maada Bio Highlights Gains	18546
 President Julius Maada Bio’s Technology and Infrastructure	18587
 President Maada Bio. The Hon. Chief	18471
@@ -934,7 +934,7 @@ Via Biometric Identity Management System	17971
 Vital Strategies Latest Biometrics News Foundational	9804
 WELE-NZAS NTEM BIOKO SUR BIOKO NORTE	4209
 WELE-NZAS NTEM CENTRO SUR BIOKO SUR	4209
-Water Biodiversity Protection	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1
+Water Biodiversity Protection	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
 Water Biodiversity Protection Social Protection	10837,1052,263,11,177,1,7312,285
 West Africa. The Information Technology and Biotechnology	2760
 West African Centre for Cell Biology of Infectious	8365
