@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — monthly update, August 2026
-compiled: 2026-09-06
-period: 2026-08-01 to 2026-09-06
+compiled: 2026-09-07
+period: 2026-08-01 to 2026-09-07
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 8d777e5249f8
+record: 5c20a995661b
 ---
 
 # Digital Identity and CRVS: monthly update, August 2026

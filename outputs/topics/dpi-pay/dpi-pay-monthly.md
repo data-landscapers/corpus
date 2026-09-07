@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — monthly update, August 2026
-compiled: 2026-09-06
-period: 2026-08-01 to 2026-09-06
+compiled: 2026-09-07
+period: 2026-08-01 to 2026-09-07
 subject: dpi.pay
 places: DZA; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 42896f26a641
+record: 73e83abb2cc5
 ---
 
 # Digital Payments and Fintech: monthly update, August 2026
@@ -130,7 +130,7 @@ Payments moved outward rather than inward. The central bank [is reported to be p
 
 ## Madagascar
 
-On 3 August MVola's new director general [gave the first account of the platform migration behind the outages of May and June](https://www.lexpress.mg/2026/08/alexandre-castel-directeur-general-de.html). The core platform was replaced in May 2026; he states that money does not vanish from accounts, that reported cases have been regularised, and that the platform is stabilised with further work outstanding. No regulator is named, no incident report is published and no compensation is mentioned. Separately, [Airtel Money integrated Baobab Bank into its mobile banking service on 17 July](https://techafricanews.com/2026/07/17/airtel-money-madagascar-and-baobab-bank-partner-to-expand-mobile-banking-services/).
+On 3 August MVola's new director general [gave the first account of the platform migration behind the outages of May and June](https://www.lexpress.mg/2026/08/alexandre-castel-directeur-general-de.html). The core platform was replaced in May 2026; he states that money does not vanish from accounts, that reported cases have been regularised, and that the platform is stabilised with further work outstanding. No regulator is named, no incident report is published and no compensation is mentioned. Separately, [Airtel Money integrated Baobab Bank into its mobile banking service on 17 July](https://techafricanews.com/2026/07/17/airtel-money-madagascar-and-baobab-bank-partner-to-expand-mobile-banking-services/). The African Development Bank and AXIAN [launched a digital finance programme on 2 September targeting 34,000 women-led businesses in Madagascar, Tanzania and Senegal through the Mixx and MVola platforms](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa), under a US$160 million senior corporate loan approved to the group in January 2025 with a US$2.5 million grant for financial literacy and credit access and more than US$10 million allocated for 22,000 women entrepreneurs in Madagascar through MVola. The grant is not a lending pool, and no enrolment or disbursement figure is published for the programme itself.
 
 ## Malawi
 
@@ -202,7 +202,7 @@ The central bank [refreshed its payment-system statistics on 28 August 2026](htt
 
 ## Senegal
 
-The country leads its monetary union on electronic money, on figures that also show how little of the union's account base is alive. It [held 29.7 per cent of union electronic-money outstandings and 26.5 per cent of large microfinance assets at the end of 2025, hosting 81 large institutions and 2.28 million of the union's 14.66 million accounts](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/); union-wide, [electronic-money outstandings rose 35.2 per cent to CFAF 1,923.2 billion and accounts reached 172.9 million, of which only 60.6 million were active](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/). The domestic market is a duopoly, [one provider on close to 80 per cent of outstandings against the other's 19 per cent](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/).
+The country leads its monetary union on electronic money, on figures that also show how little of the union's account base is alive. It [held 29.7 per cent of union electronic-money outstandings and 26.5 per cent of large microfinance assets at the end of 2025, hosting 81 large institutions and 2.28 million of the union's 14.66 million accounts](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/); union-wide, [electronic-money outstandings rose 35.2 per cent to CFAF 1,923.2 billion and accounts reached 172.9 million, of which only 60.6 million were active](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/). The domestic market is a duopoly, [one provider on close to 80 per cent of outstandings against the other's 19 per cent](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/). The African Development Bank and AXIAN [launched a digital finance programme on 2 September targeting 34,000 women-led businesses in Madagascar, Tanzania and Senegal through the Mixx and MVola platforms](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa), under a US$160 million senior corporate loan approved to the group in January 2025 with a US$2.5 million grant for financial literacy and credit access. No Senegalese share of the programme's target, and no enrolment or disbursement figure, is published.
 
 ## Sierra Leone
 
@@ -243,7 +243,7 @@ Acceptance widened from outside as well. A commercial bank and an international 
 
 Zanzibar moved a fare box onto a wallet. Fares on the fifteen electric buses that entered commercial service on 1 August [are paid by smart card through a single mobile-money platform at Sh700 a journey and Sh350 for students and passengers over 70, the same platform carrying municipal parking fees, traffic fines and state payments to clove farmers](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-shifts-quietly-from-cash-to-fast-digital-payment-systems-5572738).
 
-The state operator took its card into a stadium. On 30 August it and the Zanzibar Football Federation [signed a sponsorship and partnership agreement to introduce e-ticketing for Zanzibar football through the operator's N-Card platform](https://techafricanews.com/2026/08/31/ttcl-and-zff-launch-digital-push-with-n-card-e-ticketing-system/). No launch date, ticket volume or fee is stated, and the base holds nothing on the platform's other uses or acceptance footprint.
+The state operator took its card into a stadium. On 30 August it and the Zanzibar Football Federation [signed a sponsorship and partnership agreement to introduce e-ticketing for Zanzibar football through the operator's N-Card platform](https://techafricanews.com/2026/08/31/ttcl-and-zff-launch-digital-push-with-n-card-e-ticketing-system/). No launch date, ticket volume or fee is stated, and the base holds nothing on the platform's other uses or acceptance footprint. The African Development Bank and AXIAN [launched a digital finance programme on 2 September targeting 34,000 women-led businesses in Madagascar, Tanzania and Senegal through the Mixx and MVola platforms](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa), under a US$160 million senior corporate loan approved to the group in January 2025 with a US$2.5 million grant for financial literacy and credit access. The Tanzanian channel is the Mixx group savings service run with a local bank, which [the same account puts at more than 68,000 registered members and 16,000 savings groups by December 2024](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa); no target, enrolment or disbursement figure is published for the country.
 
 ## Togo
 

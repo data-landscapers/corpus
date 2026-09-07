@@ -1,10 +1,10 @@
 ---
 title: Data protection — monthly update, August 2026
-compiled: 2026-09-06
-period: 2026-08-01 to 2026-09-06
+compiled: 2026-09-07
+period: 2026-08-01 to 2026-09-07
 subject: gov.protect
 places: AGO; BEN; BFA; CAF; DJI; COD; EGY; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; UGA; ZMB; ZWE
-record: cf61d804800c
+record: c3660422e326
 ---
 
 # Data protection: monthly update, August 2026

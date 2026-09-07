@@ -1,15 +1,15 @@
 ---
 title: Rural digital data capture — monthly update, August 2026
-compiled: 2026-09-06
-period: 2026-08-01 to 2026-09-06
+compiled: 2026-09-07
+period: 2026-08-01 to 2026-09-07
 subject: digital.rural
-places: BDI; TCD; COM; SWZ; GHA; GIN; LSO; LBY; MWI; MLI; MUS; NGA; SEN; SLE; TZA; TGO; TUN; ZMB; ZWE
-record: 356dc9d4f4f6
+places: BDI; TCD; COM; SWZ; GHA; GIN; LSO; LBY; MWI; MLI; MUS; NGA; SEN; SLE; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 1259a7aeb624
 ---
 
 # Rural digital data capture: monthly update, August 2026
 
-*19 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*20 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -82,6 +82,10 @@ Togo's agricultural digital work is now being copied. Chad [drew on the Togolese
 ## Tunisia
 
 Two records of rural service digitisation carry the same date, both from the bodies running the programmes rather than from the state. A [European and health-ministry programme's own results page](https://www.essaha-aziza.tn/resultat-5-digitalisation) sets out the digitalisation of the first-line care information system — diagnosis, governance, a national computerised medical record and deployment on pilot sites at Nabeul — which is basic health centres, the rural end of the estate. A [telecommunications foundation's programme page](https://engageforchange.orange.com/fr/country/tn/programs/4228bcdd-feca-4233-b322-166515acdf1b) puts 185 public primary schools on offline-capable digital kits since 2014. Neither carries a publication date of its own, and the foundation's page still reads 185 a year after fifteen more schools were announced on top of it.
+
+## Uganda
+
+Rural digitalisation moved a district at a time, below the clinic rather than in it. A donor [handed 306 smartphones to village health teams in Masaka on 11 August, to capture and transmit community health data in real time](https://khronicledispatches.com/2026/08/11/kofih-equips-masaka-vhts-with-306-smartphones-in-push-to-digitize-community-healthcare/). It follows a [death-notification workflow built into the electronic community health information system and piloted in 17 districts](https://www.nature.com/articles/s41598-026-47970-0) earlier in the year, against persistent under-ascertainment of community deaths. Neither is at national scale, and nothing in the base states how many rural health facilities keep electronic records at all.
 
 ## Zambia
 

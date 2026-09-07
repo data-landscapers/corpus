@@ -1,15 +1,15 @@
 ---
 title: Digitalisation of sub-national government — monthly update, August 2026
-compiled: 2026-09-06
-period: 2026-08-01 to 2026-09-06
+compiled: 2026-09-07
+period: 2026-08-01 to 2026-09-07
 subject: digital.localgov
-places: AGO; BFA; BDI; GHA; MWI; MLI; NAM; NGA; RWA; SEN; ZAF; SDN; TZA; TGO; ZMB; ZWE
-record: da2278627c4e
+places: AGO; BFA; BDI; GHA; MWI; MLI; NAM; NGA; RWA; SEN; ZAF; SDN; TZA; TGO; UGA; ZMB; ZWE
+record: af7e524bcacb
 ---
 
 # Digitalisation of sub-national government: monthly update, August 2026
 
-*16 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -78,6 +78,10 @@ A [constituency digitalisation strategy opened on 4 August with 20 computers and
 ## Togo
 
 A commune of Greater Lome began building the kind of register a municipality has not had. Golfe 2 [launched a georeferenced census of households, businesses and taxpayers on 11 August, running to 10 October](https://www.republicoftogo.com/toutes-les-rubriques/politique/une-connaissance-plus-precise-du-territoire-communal), to build a secure municipal database. No data-protection basis, custodian, retention rule or access arrangement is stated for a file that ties households, businesses and tax position to a location.
+
+## Uganda
+
+The records system reached district level for the first time on this record. The Ministry of Public Service [ran training and onboarding for its electronic document and records management system at Kasese and Rwampara district local governments on 17 August](https://www.publicservice.go.ug/edrms-training-and-on-boarding-at-kasese-and-rwampara-dlgs/) — two districts of 146, with no rollout plan or target published, and a page that returned only its title and date at capture, so what the training covered is not on the record. It follows a digital certification system for village-council letters, [presented at an international summit in November 2025 and designed to replace handwritten local council letters with digitally signed credentials linked to the identity register](https://ict.go.ug/media/news/digitizing-lc1-letters-for-improved-service-delivery), which has not been heard of since.
 
 ## Zambia
 

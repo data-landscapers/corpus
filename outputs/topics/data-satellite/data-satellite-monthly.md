@@ -1,15 +1,15 @@
 ---
 title: Use of satellite data — monthly update, August 2026
-compiled: 2026-09-06
-period: 2026-08-01 to 2026-09-06
+compiled: 2026-09-07
+period: 2026-08-01 to 2026-09-07
 subject: data.satellite
-places: BDI; COM; COG; CIV; COD; EGY; GHA; LBR; LBY; MLI; MOZ; NAM; NER; RWA; SLE; SOM; TZA; ZMB
-record: f62113ad6154
+places: BDI; COM; COG; CIV; COD; EGY; GHA; LBR; LBY; MLI; MOZ; NAM; NER; RWA; SLE; SOM; TZA; UGA; ZMB
+record: a754a134e510
 ---
 
 # Use of satellite data: monthly update, August 2026
 
-*18 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*19 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -80,6 +80,10 @@ Earth observation here is a service rather than a programme, and the record caug
 ## Tanzania
 
 A research capability ended rather than started. The three-year Precision Livestock Farming project, run by a national institution with a foreign university and foundation funding, [closed on 27 August and presented its results](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-turns-to-smart-technology-to-boost-livestock-productivity-5574406). Nothing in the record held says the work continues under national funding, which is the question a closing donor project always raises.
+
+## Uganda
+
+Satellite data reached a Ugandan field for the second time this year, and again privately. A [field monitoring station was deployed at Greater Hope Farm in Mayuge district on 3 August, for real-time environmental data and later integration with European Earth-observation data](https://www.kijanispace.eu/2026/08/03/kijanispace-deploys-smart-field-monitoring-infrastructure-at-greater-hope-farm-in-uganda/), after a [European Space Agency demonstration supporting sugarcane growers and millers completed monitoring trials](https://business.esa.int/projects/sc-0) in October. Both are single-site. The state's own provision for satellite-based agro-climatic information sits unspent as a subcomponent of the climate-smart agriculture project.
 
 ## Zambia
 

@@ -1,21 +1,25 @@
 ---
 title: Literacy — monthly update, August 2026
-compiled: 2026-09-06
-period: 2026-08-01 to 2026-09-06
+compiled: 2026-09-07
+period: 2026-08-01 to 2026-09-07
 subject: capacity.literacy
-places: AGO; COD; GHA; KEN; LBR; MOZ; RWA; SEN; SSD; TZA; TGO; ZMB
-record: 73f36bfc99a8
+places: AGO; COM; COD; GHA; KEN; LBR; MOZ; RWA; SEN; SSD; TZA; TGO; ZMB
+record: 3602759c41c0
 ---
 
 # Literacy: monthly update, August 2026
 
-*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
 School computing continued to be delivered by installation count. The telecommunications minister [inaugurated a 25-computer laboratory serving 3,051 students at a polytechnic and said the programme behind it had by then installed more than 2,000 computers across 88 schools nationwide](https://angop.ao/noticias/educacao/alunos-do-ipas-ganham-laboratorio-de-informatica/). Both figures are the ministry's own, and the machines-to-students ratio at the one site it named is the part of the programme a national total cannot show. No budget, connectivity provision or maintenance arrangement is published.
+
+## Comoros
+
+The one literacy development in the window is an announcement rather than an activity. A programme launched on 2 September 2026 by the African Development Bank and AXIAN carries a training component [to give financial and digital skills training to 25,000 women across Madagascar, Tanzania, Senegal, Togo and Comoros](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa), alongside digital financial products offered in the first three of those countries only. No Comorian allocation, timetable, provider or curriculum is published, so what the country receives from it cannot yet be stated.
 
 ## DR Congo
 
@@ -55,7 +59,7 @@ The telecoms regulator's director general put the [digital clubs programme at 80
 
 ## Togo
 
-The staffing has moved ahead of the estate. On 24 August [101 fabmanagers, recruited through the national teacher competition, began a month-long training](https://education.gouv.tg/fablabs-educatifs-et-crit-le-togo-prepare-une-generation-de-createurs-et-dinnovateurs/) in programming, robotics, artificial intelligence, the internet of things and 3D printing, to run educational FabLabs in colleges and scientific lycees and in regional innovation centres — a [programme set out publicly](https://actulome.com/fabmanagers-fablabs-crit-ecole-au-togo/) the week before. The trainers are named and dated; the laboratories have no site count, budget or opening date.
+The staffing has moved ahead of the estate. On 24 August [101 fabmanagers, recruited through the national teacher competition, began a month-long training](https://education.gouv.tg/fablabs-educatifs-et-crit-le-togo-prepare-une-generation-de-createurs-et-dinnovateurs/) in programming, robotics, artificial intelligence, the internet of things and 3D printing, to run educational FabLabs in colleges and scientific lycees and in regional innovation centres — a [programme set out publicly](https://actulome.com/fabmanagers-fablabs-crit-ecole-au-togo/) the week before. The trainers are named and dated; the laboratories have no site count, budget or opening date. Separately, a development bank and telecoms group programme [launched on 2 September carries a component to train 25,000 women in financial and digital skills across Madagascar, Tanzania, Senegal, Togo and Comoros](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa), the digital financial products themselves going only to the first three. No Togolese allocation, timetable, provider or curriculum is published.
 
 ## Zambia
 

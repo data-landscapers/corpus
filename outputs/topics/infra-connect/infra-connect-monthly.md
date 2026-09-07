@@ -1,10 +1,10 @@
 ---
 title: Connectivity — monthly update, August 2026
-compiled: 2026-09-06
-period: 2026-08-01 to 2026-09-06
+compiled: 2026-09-07
+period: 2026-08-01 to 2026-09-07
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 11cf457b24ba
+record: 65707497822f
 ---
 
 # Connectivity: monthly update, August 2026
