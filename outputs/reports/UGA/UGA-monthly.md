@@ -1,11 +1,11 @@
 ---
 title: Uganda — monthly update, August – September 2026
-compiled: 2026-09-06
-period: 2026-08-01 to 2026-09-06
+compiled: 2026-09-07
+period: 2026-08-01 to 2026-09-07
 place: UGA
-ledger_rows: 74
-not_held: 17
-record: f977f17a19a9
+ledger_rows: 81
+not_held: 11
+record: 563d5bea23e9
 ---
 
 # Uganda: monthly update, August – September 2026
@@ -148,6 +148,19 @@ Upstream of any of it, German cooperation [tendered a consultancy on 5 August to
 The public procurement and disposal authority [partnered with a budget-advocacy group to strengthen monitoring of government contracts](https://ubc.go.ug/2026/08/21/ppda-partners-with-csbag-to-strengthen-monitoring-of-government-contracts/). No scope, dataset or first published finding accompanies the announcement.
 <!-- /narrative -->
 
+## Digitalisation
+
+### Digitalisation of sub-national government
+
+<!-- narrative: digitalisation--digital-localgov -->
+
+<!-- /narrative -->
+### Rural digital data capture
+
+<!-- narrative: digitalisation--digital-rural -->
+
+<!-- /narrative -->
+
 ## Technology
 
 ### AI
@@ -215,6 +228,11 @@ Money went the other way as well. An implementing partner's account of 12 August
 
 <!-- narrative: data--data-statistics -->
 The statistics bureau [commissioned 80 field data collectors on 4 August](https://nilepost.co.ug/news/361056/ubos-commissions-80-data-collectors-for-9th-uganda-national-household-survey) for the ninth national household survey, deployed in 16 language-based teams after fifteen days' training, for twelve months of collection. No sample size, budget, funder or publication date was stated.
+<!-- /narrative -->
+### Use of satellite data
+
+<!-- narrative: data--data-satellite -->
+
 <!-- /narrative -->
 
 ## Geopolitics
