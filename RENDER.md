@@ -102,7 +102,7 @@ fi
 
 **The two ways of coming up short are different failures.** A document the loop **never listed** stops the run — the silent-shrink case, invisible from the output: log, message, no deploy. A document **tried and failed** does not — one page that will not typeset keeps its previous render either way, so withholding the other pages protects nothing: note it, render on, deploy, list it in the message.
 
-The set is currently ~242 documents (165 place + 76 topic + the bulletin), all HTML and PDF — but **the assertion is what to trust, not the number**.
+The set was 251 documents at 2026-09-07 (174 place + 76 topic + the bulletin), all HTML and PDF — but **the assertion is what to trust, not the number**.
 
 ## Step 3 — build the home page
 
@@ -159,7 +159,7 @@ python scripts/build-names-index.py --stats           # size profile, writes not
 python scripts/finance.py         # -> site/finance/index.html + all-nonstate-{edition}.csv
 ```
 
-The site nav's **Finance** link points here. Expect ~1,230 deals and a headline total near US$91,000m. **The all-Africa table is on the landing page itself**, on the same component as each country's `finance.html`; `finance.py` deletes any legacy `all.html` it finds, printing a line. `recipient_country` is ISO-3 in the CSV and a country name in the table, mapped via a `data-labels` attribute from `outputs/vocab/countries.csv`. The cross-country CSV is a dated edition on the same rule as the per-country ones.
+The site nav's **Finance** link points here. **No deal count or headline total is stated here**, for the reason the catalogue count is not: the figure moves every cycle and a stale one in a runbook is a statement a render prints past without anything noticing — this line read `~1,230 deals` and `near US$91,000m` when the build had reached 1,386 and US$105,130m. `finance.py` prints both on the run that wrote them. **The all-Africa table is on the landing page itself**, on the same component as each country's `finance.html`; `finance.py` deletes any legacy `all.html` it finds, printing a line. `recipient_country` is ISO-3 in the CSV and a country name in the table, mapped via a `data-labels` attribute from `outputs/vocab/countries.csv`. The cross-country CSV is a dated edition on the same rule as the per-country ones.
 
 **The landing layout above the table is a placeholder awaiting design**; the table itself is finished and is what a reader came for.
 
