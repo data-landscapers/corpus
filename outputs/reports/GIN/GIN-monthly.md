@@ -1,11 +1,11 @@
 ---
 title: Guinea — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-07
+period: 2026-08-01 to 2026-09-07
 place: GIN
 ledger_rows: 32
 not_held: 4
-record: 3346cf37f232
+record: f851c4eb55db
 ---
 
 # Guinea: monthly update, August – September 2026
@@ -15,7 +15,7 @@ record: 3346cf37f232
 ## Summary of the month
 
 <!-- narrative: summary -->
-The state acquired instruments and lost a minister. The President [signed the implementing decree for electronic signatures on 19 August](https://www.guinee360.com/19/08/2026/guinee-mamadi-doumbouya-officialise-la-signature-electronique/) and [fixed the rules for dematerialising public procurement by decree on 21 August](https://www.guinee360.com/22/08/2026/commande-publique-en-guinee-mamadi-doumbouya-fixe-les-modalites-de-dematerialisation/), and three government platforms opened in the same weeks: [a state mission-order system](https://guineejet.info/guinee-la-gestion-des-missions-de-letat-se-digitalise/), [a decrees and orders management tool taken under presidential oversight](https://guineenews.org/2026/08/14/decrets-et-arretes-mamadi-doumbouya-reprend-personnellement-les-commandes-de-geda/) and [a civil-service housing registration platform](https://mediaguinee.com/2026/08/logements-sociaux-pour-les-fonctionnaires-le-gouvernement-lance-une-plateforme-dinscription-et-appelle-a-la-vigilance/). The communication and digital economy minister [was dismissed by decree made public on 21 August](https://www.digitalbusiness.africa/guinee-mamady-doumbouya-pour-succeder-au-ministre-de-leconomie-numerique-limoge/), the portfolio now held on an interim basis.
+The state acquired instruments and lost a minister. The President [signed the implementing decree for electronic signatures on 19 August](https://www.guinee360.com/19/08/2026/guinee-mamadi-doumbouya-officialise-la-signature-electronique/) and [fixed by decree on 21 August how public procurement moves online](https://www.guinee360.com/22/08/2026/commande-publique-en-guinee-mamadi-doumbouya-fixe-les-modalites-de-dematerialisation/), and three government platforms opened in the same weeks: [a state mission-order system](https://guineejet.info/guinee-la-gestion-des-missions-de-letat-se-digitalise/), [a decrees and orders management tool taken under presidential oversight](https://guineenews.org/2026/08/14/decrets-et-arretes-mamadi-doumbouya-reprend-personnellement-les-commandes-de-geda/) and [a civil-service housing registration platform](https://mediaguinee.com/2026/08/logements-sociaux-pour-les-fonctionnaires-le-gouvernement-lance-une-plateforme-dinscription-et-appelle-a-la-vigilance/). The communication and digital economy minister [was dismissed by decree made public on 21 August](https://www.digitalbusiness.africa/guinee-mamady-doumbouya-pour-succeder-au-ministre-de-leconomie-numerique-limoge/), the portfolio now held on an interim basis.
 
 Against that, access narrowed and the paper ran out. [Facebook, YouTube and TikTok have been blocked since 28 July and were still blocked on 7 August](https://www.guinee360.com/28/07/2026/perturbation-de-lacces-a-internet-en-guinee-lablogui-denonce-un-blocage-cible-de-facebook-youtube-et-tiktok/), with no official explanation held, and [a two-hour national outage on 7 August was traced to the state landing-station operator](https://lelynx.net/2026/08/internet-coupe-en-guinee-black-aout-total/). Communes [report a nationwide stockout of the secured paper birth certificates are printed on, running about a month with no restocking date](https://www.guinee360.com/07/08/2026/sans-papiers-securises-il-ne-peut-pas-y-avoir-dextraits-amadou-konia-camara-explique-lorigine-de-la-penurie/), against a [birth-registration rate the territorial administration minister puts at 72%](https://mediaguinee.com/2026/08/decentralisation-et-etat-civil-la-guinee-accelere-sa-transformation-avec-un-taux-denregistrement-des-naissances-passe-a-72-ministre).
 <!-- /narrative -->
