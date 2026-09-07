@@ -1,11 +1,11 @@
 ---
 title: Malawi — monthly update, August – September 2026
-compiled: 2026-09-06
-period: 2026-08-01 to 2026-09-06
+compiled: 2026-09-07
+period: 2026-08-01 to 2026-09-07
 place: MWI
 ledger_rows: 49
 not_held: 38
-record: b8eba59b01b9
+record: 7d37282d32ed
 ---
 
 # Malawi: monthly update, August – September 2026
@@ -61,7 +61,7 @@ A [four-day regional consultation on artificial intelligence and digital inclusi
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-The largest digital programme on the books came under review. The World Bank [opened a five-day implementation support mission on Malawi's US$150 million Digital Acceleration Project](https://techreviewafrica.com/news/6993/world-bank-begins-review-of-malawis-150-million-digital-acceleration-project). Against it sits an estimate of what the reform agenda is worth: [about 1.1 trillion kwacha, some US$634 million, in economic value projected from targeted digital reforms](https://www.financialafrik.com/en/2026/08/28/malawi-634-million-in-economic-value-expected-through-targeted-digital-reforms/). A projection and a mission are not results; the record held carries no disbursement figure and no delivered output against either.
+The largest digital programme on the books came under review. The World Bank [opened a five-day implementation support mission on Malawi's US$150 million Digital Acceleration Project](https://techreviewafrica.com/news/6993/world-bank-begins-review-of-malawis-150-million-digital-acceleration-project). Against it sits an estimate of what the reform agenda is worth: [about 1.1 trillion kwacha, some US$634 million, in economic value projected from targeted digital reforms](https://www.financialafrik.com/en/2026/08/28/malawi-634-million-in-economic-value-expected-through-targeted-digital-reforms/). A projection and a mission are not results; the record held carries no disbursement figure and no delivered output against either. A consultation in Blantyre on 3 September then [put the project's second phase at US$35 million to US$75 million over a six-year implementation, covering more than 500 public-sector institutions and more than 2,000 schools](https://news.broadcastmediaafrica.com/2026/09/04/malawi-advances-next-phase-of-digital-connectivity/) — the first sizing of the next tranche on record, and no commitment or approval date is stated for it. The same account carries the US$150 million programme total that the Bank's own [appraisal puts at US$90 million](https://documents1.worldbank.org/curated/en/099050524041520240/txt/P5050951dae66d0e1bc631717e7e7a4e70.txt), and nothing on file reconciles the two.
 <!-- /narrative -->
 
 ## ICT Infrastructure

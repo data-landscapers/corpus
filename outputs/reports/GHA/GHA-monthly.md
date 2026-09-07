@@ -1,11 +1,11 @@
 ---
 title: Ghana — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-07
+period: 2026-08-01 to 2026-09-07
 place: GHA
-ledger_rows: 99
+ledger_rows: 100
 not_held: 9
-record: 17df98131196
+record: b58b7831a82d
 ---
 
 # Ghana: monthly update, August – September 2026
@@ -201,7 +201,7 @@ The education council completed a revised basic-education curriculum adding codi
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
-Training capacity was the month's activity. A youth agency [signed for 2,000 vendor-certified microdegree places on 14 July](https://www.myjoyonline.com/yea-partners-ghana-digital-centres-to-train-2000-youth-in-ai-cybersecurity-and-digital-skills/) — Ghana taking 2,000 of the 3,000 allocated to the whole continent — fully government-funded, with 600 paid internships and a five-region pilot, and no programme cost disclosed. [A university became the first tertiary institution to embed the national coders programme permanently in its curriculum on 29 July, receiving a further 2,000 laptops the next day](https://www.myjoyonline.com/yea-partners-ghana-digital-centres-to-train-2000-youth-in-ai-cybersecurity-and-digital-skills/).
+Training capacity was the month's activity. A youth agency [signed for 2,000 vendor-certified microdegree places on 14 July](https://www.myjoyonline.com/yea-partners-ghana-digital-centres-to-train-2000-youth-in-ai-cybersecurity-and-digital-skills/) — Ghana taking 2,000 of the 3,000 allocated to the whole continent — fully government-funded, with 600 paid internships and a five-region pilot, and no programme cost disclosed. [A university became the first tertiary institution to embed the national coders programme permanently in its curriculum on 29 July, receiving a further 2,000 laptops the next day](https://www.myjoyonline.com/yea-partners-ghana-digital-centres-to-train-2000-youth-in-ai-cybersecurity-and-digital-skills/). Three universities — Kumasi Technical University, the Kwame Nkrumah University of Science and Technology and the University of Mines and Technology — [completed the first pilot of the European-funded UNIHUBS blended-learning course in entrepreneurship, innovation and digital skills, run from late June to July and reported on 3 September](https://www.ghanawebbers.com/GhanaHomePage/business/KsTU-KNUST-and-UMaT-Join-EU-Program-for-Innovation-and-Digital-Skills-2174760), covering business development, technology transfer in higher education, digital marketing and professional communication. The consortium treated it as a quality-assurance run before pilots in Kenya and Tanzania this month; no participant count, budget or grant number is published, and the account is the project's own.
 <!-- /narrative -->
 ### Research institutions
 

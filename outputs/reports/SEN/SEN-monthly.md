@@ -1,11 +1,11 @@
 ---
 title: Senegal — monthly update, August – September 2026
-compiled: 2026-09-06
-period: 2026-08-01 to 2026-09-06
+compiled: 2026-09-07
+period: 2026-08-01 to 2026-09-07
 place: SEN
-ledger_rows: 50
+ledger_rows: 51
 not_held: 5
-record: 79846fb1ed11
+record: 986481b7f486
 ---
 
 # Senegal: monthly update, August – September 2026
@@ -104,7 +104,7 @@ Deployment moved again in August, and the agency put a frame around it. At Afric
 
 <!-- narrative: dpi--dpi-pay -->
 
-The country leads its monetary union on electronic money, on figures that also show how little of the union's account base is alive. It [held 29.7 per cent of union electronic-money outstandings and 26.5 per cent of large microfinance assets at the end of 2025, hosting 81 large institutions and 2.28 million of the union's 14.66 million accounts](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/); union-wide, [electronic-money outstandings rose 35.2 per cent to CFAF 1,923.2 billion and accounts reached 172.9 million, of which only 60.6 million were active](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/). The domestic market is a duopoly, [one provider on close to 80 per cent of outstandings against the other's 19 per cent](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/).
+The country leads its monetary union on electronic money, on figures that also show how little of the union's account base is alive. It [held 29.7 per cent of union electronic-money outstandings and 26.5 per cent of large microfinance assets at the end of 2025, hosting 81 large institutions and 2.28 million of the union's 14.66 million accounts](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/); union-wide, [electronic-money outstandings rose 35.2 per cent to CFAF 1,923.2 billion and accounts reached 172.9 million, of which only 60.6 million were active](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/). The domestic market is a duopoly, [one provider on close to 80 per cent of outstandings against the other's 19 per cent](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/). The African Development Bank and AXIAN [launched a digital finance programme on 2 September targeting 34,000 women-led businesses in Madagascar, Tanzania and Senegal through the Mixx and MVola platforms](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa), under a US$160 million senior corporate loan approved to the group in January 2025 with a US$2.5 million grant for financial literacy and credit access. No Senegalese share of the programme's target, and no enrolment or disbursement figure, is published.
 <!-- /narrative -->
 ### Registries
 

@@ -1,11 +1,11 @@
 ---
 title: Comoros — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-07
+period: 2026-08-01 to 2026-09-07
 place: COM
-ledger_rows: 25
+ledger_rows: 26
 not_held: 24
-record: af2d440436da
+record: f1216382ca5b
 ---
 
 # Comoros: monthly update, August – September 2026
@@ -104,6 +104,11 @@ The hackathon launched in April closed its first phase, [a hundred young people 
 
 ## Capacity
 
+### Literacy
+
+<!-- narrative: capacity--capacity-literacy -->
+The one literacy development in the window is an announcement rather than an activity. A programme launched on 2 September 2026 by the African Development Bank and AXIAN carries a training component [to give financial and digital skills training to 25,000 women across Madagascar, Tanzania, Senegal, Togo and Comoros](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa), alongside digital financial products offered in the first three of those countries only. No Comorian allocation, timetable, provider or curriculum is published, so what the country receives from it cannot yet be stated.
+<!-- /narrative -->
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
