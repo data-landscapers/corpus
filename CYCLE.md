@@ -10,13 +10,23 @@ last_reviewed: 2026-08-28
 
 ## This file is a driver, not a third runbook
 
-**`BUILD.md` and `RENDER.md` remain the procedures, unedited and unabridged.** This file names the order, the one seam between them and what changes there; everything else it delegates. A combined file that restated either half would drift from its original silently, leaving an unattended run two instructions on one step and no way to rule between them. **Nothing bridges the halves**: no work the cycle does that neither half does alone, no state passed beyond the committed tree. An instruction here that is not about *ordering* is an instruction in the wrong file.
+**`BUILD.md` and `RENDER.md` remain the procedures, unedited and unabridged.** This file names the order, the one seam between them and what changes there; everything else it delegates. A combined file that restated either half would drift from its original silently, leaving an unattended run two instructions on one step and no way to rule between them. **Nothing bridges the halves**: no state passed but the committed tree, and no work invented at the seam. The cycle drives three jobs rather than two — the notes drain below is an existing job whose *placement* this file fixes, and whose own rules stay where they already live. An instruction here that is not about *ordering* is an instruction in the wrong file.
 
 ## Why running them together is better than running them apart
 
 - **The bulletin.** BUILD stage 7 writes it over a two-day publication window; a render a day later publishes a window the site is no longer in — well-formed, and invisible downstream.
 - **`BUILT-FROM` gets tighter for free**: in a cycle, the stamped HEAD is the build's own final commit.
 - **One mirror covers both halves.** RENDER's *Mirror* captures the build's `outputs/` and the render's `site/` in one pass; a build never followed by a render is not backed up until one is.
+
+## The notes drain runs first
+
+**A cycle opens by clearing what OSINT has asked for.** `C:\corpus-osint-xfer\notes-for-corpus.md` is OSINT's queue into Corpus and every open note names in its `Affects:` line the artefact it bears on — usually something this cycle is about to rebuild. Drained first, the fix is in tonight's build; drained after, or not at all, it waits for the next close, and a note that waits a cycle is indistinguishable from one nobody read. The drain used to happen when Bill said so, which meant it happened when he remembered; a close is the one event that reliably recurs.
+
+**Its rules are not restated here.** How a note is read, actioned, closed and committed is `CLAUDE.md` → *The exchange* and the share's `README.md` → *Conventions*: re-read the file rather than trusting a copy held from earlier in the session, close a note by moving its full text and every dated annotation to `notes-for-corpus-resolved.md` with nothing left at the number, stage the share explicitly and push straight after committing. This file says only when it runs.
+
+**An empty queue is the normal outcome and writes nothing** — no log line, no message, no commit. Where the drain did work it writes its own `· notes ·` line before the build's, naming the numbers closed.
+
+**A note too large for the run does not hold the cycle, and neither does one that fails.** The unattended rule is the rule everywhere else: take the conservative option and state it, never stop to ask. Annotate the note with what was established, leave it open at its number, put a line in the build half's message to Bill, and go on to the build — a note left open is a note still queued, which is where it started. What the drain must not do is start the build over a half-written share: commit and push before stage 0, or leave the share untouched.
 
 ## The seam is a job boundary, not a joint
 
@@ -28,23 +38,24 @@ last_reviewed: 2026-08-28
 
 ## The run
 
-1. **Read the sentinel before anything else.** If `logs/.build-in-progress` is present, an earlier build died unaccounted. **In a cycle this is a note, not a stop**: the run about to start is the repair — stage 4 resumes on a set difference. Say in the build line that it resumed.
-2. **Run `BUILD.md`, whole, stage 0 to the end of its ending sequence** — including the ending sequence, which is what puts the tree into the state the seam reads.
-3. **Run `RENDER.md` Step 0**, unchanged. A stop here ends the cycle.
-4. **Run `RENDER.md` Steps 1 to 7**, then its *Log* and its *Mirror*. Unchanged, in order.
+1. **Drain `notes-for-corpus.md`**, as above. Nothing open, nothing to do — go straight to 2.
+2. **Read the sentinel.** If `logs/.build-in-progress` is present, an earlier build died unaccounted. **In a cycle this is a note, not a stop**: the run about to start is the repair — stage 4 resumes on a set difference. Say in the build line that it resumed.
+3. **Run `BUILD.md`, whole, stage 0 to the end of its ending sequence** — including the ending sequence, which is what puts the tree into the state the seam reads.
+4. **Run `RENDER.md` Step 0**, unchanged. A stop here ends the cycle.
+5. **Run `RENDER.md` Steps 1 to 7**, then its *Log* and its *Mirror*. Unchanged, in order.
 
-The cycle has no stage of its own.
+The cycle has no stage of its own — step 1 is a job that already existed, run at the point that makes it count.
 
 ## What does not change
 
-- **Two log lines, `· build ·` and `· render ·`, exactly as each half writes them — no `· cycle ·` job name**: `lint-mirror-freshness.py` finds the newest `· render ·` line, Step 0 greps for `· build ·`, and per-half durations stay comparable. A cycle is indistinguishable in the log from two runs an hour apart, which is correct.
+- **`· build ·` and `· render ·`, exactly as each half writes them — no `· cycle ·` job name**: `lint-mirror-freshness.py` finds the newest `· render ·` line, Step 0 greps for `· build ·`, and per-half durations stay comparable. A cycle is indistinguishable in the log from two runs an hour apart, which is correct — and a `· notes ·` line ahead of them, on the cycles where there was something to drain, is indistinguishable from the hand-run drains that wrote that line before.
 - **Two message blocks, each written by the half that owes it, when it owes it** — held back and merged, the build half's message dies with a seam stop.
 - **The `.build-in-progress` sentinel stays, and there is no cycle sentinel.** A cycle that dies during the render half has already stood down its build; the repair is a render — or another whole cycle, whose build half finds nothing unconsidered and costs almost nothing. The render is idempotent, so re-running it is never the wrong move.
 - **Commit discipline is unchanged**: one commit per coherent stage in both halves; the cycle adds none.
 
 ## Running unattended — a cycle ends three ways
 
-Both halves forbid stopping to ask, and the cycle inherits that whole. A cycle **finishes**; or **fails in the build half** (the render is not attempted — the seam declines it); or **fails in the render half** (the build's work is committed, logged and safe). Only the third leaves a cycle half-done, and `RENDER.md` on its own completes it. A build with no render is a stale site, not a broken one — the previous render is still served.
+Both halves forbid stopping to ask, and the cycle inherits that whole. A cycle **finishes**; or **fails in the build half** (the render is not attempted — the seam declines it); or **fails in the render half** (the build's work is committed, logged and safe). The drain sits ahead of all three and ends none of them. Only the third leaves a cycle half-done, and `RENDER.md` on its own completes it. A build with no render is a stale site, not a broken one — the previous render is still served.
 
 ## What starts a cycle — `scripts/osint-cycle-ready.py`
 

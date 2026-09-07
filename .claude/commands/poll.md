@@ -17,8 +17,9 @@ one turn.
 
    > Run `python scripts/osint-cycle-ready.py --claim` from C:\CORPUS. On exit 1, stop the
    > turn and say nothing further. On exit 2, write one block in `logs/messages-for-bill.md`
-   > quoting the message, then stop the loop. On exit 0, run `CYCLE.md` end to end — BUILD.md
-   > whole, then RENDER.md Step 0 and its checks, then RENDER Steps 1-7, Log and Mirror —
+   > quoting the message, then stop the loop. On exit 0, run `CYCLE.md` end to end — drain any
+   > open notes in `C:\corpus-osint-xfer\notes-for-corpus.md` first, then BUILD.md whole, then
+   > RENDER.md Step 0 and its checks, then RENDER Steps 1-7, Log and Mirror —
    > following its unattended rules: never stop to ask, leave anything needing Bill in
    > `logs/messages-for-bill.md`. Finish with `python scripts/osint-cycle-ready.py --done`.
    > Before standing down, check `C:\corpus-osint-xfer` for uncommitted work, commit it
