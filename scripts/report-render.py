@@ -80,6 +80,7 @@ import json
 import os
 import re
 import sys
+import urllib.parse
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import indicators_lib  # noqa: E402
@@ -360,6 +361,7 @@ def index_rows():
 
 CATALOGUE = os.path.join(ROOT, "outputs", "catalogue", "raw-catalogue.csv")
 CATALOGUE_STAMP = os.path.join(ROOT, "outputs", "catalogue", "catalogue-stamp.json")
+SITE_BASE = "https://corpus.data-landscapers.io"
 
 _CATALOGUE = None
 
@@ -448,7 +450,9 @@ def raw_slugs():
     Kept apart from `slug_urls()` because the two absences are different defects and belong to
     different people. A slug the base does not hold at all is a mistake in the ledger — a typo, or
     a record retired since the row was written. A slug the base holds but which carries no `url:`
-    is an uncitable record, which is OSINT's to fix and travels there as a note (§8)."""
+    and no `url_note:` is an uncitable record, which is OSINT's to fix and travels there as a note
+    (§8); one carrying a `url_note:` is a documented absence and resolves through
+    `slug_offline()`."""
     return {r["slug"].strip() for r in catalogue_rows()}
 
 
@@ -463,6 +467,56 @@ def slug_urls():
     would certify the run that removed them all."""
     return {r["slug"].strip(): r["url"].strip()
             for r in catalogue_rows() if (r.get("url") or "").strip()}
+
+
+def slug_offline():
+    """slug -> the catalogue entry, for records held with a documented absence of a URL.
+
+    **A blank `url:` with a `url_note:` is not a missing field; it is a finding** *(OSINT,
+    `notes-for-corpus` 22, resolved 2026-09-07)*. `wiki/schemas.md` §4 admits a record whose
+    URL is blank where the note states a dated, exhausted search — what was tried, when, and
+    why the absence is final — and the record itself, usually with an `artefact:` file beside
+    it, is then the source. Corpus read the empty field alone, so every one of these resolved
+    to nothing: `cite()` dropped the link, check M called the record uncitable and OSINT's to
+    fix, and the fact was quietly left out of the report. Nothing false was published — the
+    failure was lossy, not wrong — but nine records' worth of evidence was invisible, and any
+    future record built this deliberate, spec-compliant way would have gone the same way.
+
+    **What it resolves to is Corpus's own catalogue, not the artefact.** Three routes were
+    open. Serving the held file is refused by `design.md` §8 — `outputs/` carries metadata and
+    compiled prose, never a verbatim source body — and republishing a third party's document
+    is a licensing exposure this side does not get to take on its own. A page per record is a
+    new page type on the site, which is a feature and the freeze is running. What is left is
+    the route that already exists: the catalogue page reads `#q=` off the fragment and
+    prefills its search, so `/catalogue/#q={slug}` lands a reader on the record's own row —
+    title, publisher, date, and the `url_note` itself in the CSV beside it. The reader gets
+    the evidence trail; the claim keeps a link it can be checked through; and nothing is
+    invented to make that true.
+
+    **That search had to be taught the slug**, which was not in the page's search blob before
+    2026-09-07 (`catalogue.py`, field 7): the link would have landed on an empty result, which
+    is worse than no link at all. It is a substring search and stays one, so a slug that is a
+    prefix of another lands on both — one of the nine, `…-nigeria-national-digital-cloud-policy`,
+    shares its opening with the announcement record beside it. Two adjacent rows for the same
+    policy is a reader finding the record, not failing to; an exact-match syntax to reduce it to
+    one would be a page feature bought for a single case.
+
+    Kept apart from `slug_urls()` because the two are different claims. A `slug_urls()` entry
+    says *the publisher has this at that address*; this says *we hold it, nobody publishes it,
+    and here is what was searched*. Only the first belongs in check G's held set."""
+    return {r["slug"].strip(): f"{SITE_BASE}/catalogue/#q={urllib.parse.quote(r['slug'].strip())}"
+            for r in catalogue_rows()
+            if not (r.get("url") or "").strip() and (r.get("url_note") or "").strip()}
+
+
+def citable():
+    """Every slug a document may link, and where to. The renderer's table, and check M's.
+
+    The publisher's own address wherever there is one, and the catalogue entry for the records
+    that documented having none. A slug in both would be a contradiction the catalogue cannot
+    produce — `slug_offline()` selects on `url` being blank — so the merge order does not
+    matter and the publisher's address is put second to say which one wins if it ever does."""
+    return {**slug_offline(), **slug_urls()}
 
 
 def ledger_slugs(rows):
@@ -1076,7 +1130,7 @@ def render(unit, today):
         "",
         block("summary"),
     ]
-    urls = slug_urls()
+    urls = citable()
     for _, section, key in ordered:
         rows = [r for r in ledger if section_of(r, subj) == section]
         out += ["", f"## {section}", ""]
@@ -1190,7 +1244,7 @@ def render_progress_movement(unit, today, month, window, end=None):
         return 1
     ordered, subj = sections(unit)
     prof = profile(unit)
-    urls = slug_urls()
+    urls = citable()
     path = os.path.join(folder, f"{unit}-progress.md")
     start, end = month_bounds(month, window, end or today)
     block, keep, dropped = blocker(path, subj)
@@ -1338,7 +1392,7 @@ def render_progress_indicators(unit, today, month, window, end=None):
 
     ordered, _subj = sections(unit)
     prof = profile(unit)
-    urls = slug_urls()
+    urls = citable()
     path = os.path.join(folder, f"{unit}-progress.md")
     start, end = month_bounds(month, window, end or today)
     name = place_name(unit)
@@ -1418,6 +1472,11 @@ def check(unit):
     weaken it is applying the wider set to the monthly and the progress report, so the widening is
     per file and keyed on the document actually being a baseline."""
     held = set(slug_urls().values())
+    # A record that documented having no URL links to its own row in Corpus's catalogue
+    # (`slug_offline()`). Those targets are held by construction — the catalogue this check
+    # resolves against is the thing being linked to — and they are added rather than exempted
+    # so the property stays "every URL in the document is one the catalogue accounts for".
+    held |= set(slug_offline().values())
     held |= {link_target(u) for u in held}
     bad = 0
     folder = os.path.join(REPORTS, unit)
@@ -1609,10 +1668,18 @@ def check_sourced(unit):
     populated `sources` field for this check to be satisfied by. So each slug must be a source the
     base actually holds, and at least one must carry a URL a reader can follow. The two failures
     are reported apart because they belong to different people: a slug the base does not hold is a
-    mistake in the ledger, while a slug held without a `url:` is an uncitable record and OSINT's to
-    fix (§8)."""
+    mistake in the ledger, while a slug held without a `url:` **and without a `url_note:`** is an
+    uncitable record and OSINT's to fix (§8).
+
+    **The qualifier is the whole of `notes-for-corpus` 22, and it narrows this check.** A record
+    whose `url:` is blank *and* whose `url_note:` states a dated, exhausted search is admissible
+    under `wiki/schemas.md` §4 — the absence is the finding, not the omission — and it resolves
+    here through `slug_offline()` to its own catalogue entry. Nine such records were reported as
+    OSINT's defect on 2026-09-04 and none of them was one; the reading path was. What still fails
+    is a blank `url:` with nothing said about it, which is the case the rule was written for."""
     _, ledger, _ = load(unit)
-    urls, held = slug_urls(), raw_slugs()
+    urls, held = citable(), raw_slugs()
+    offline = slug_offline()
     bad = []
     for r in ledger:
         if stem(r["status"]) == NOT_HELD:
@@ -1632,6 +1699,14 @@ def check_sourced(unit):
     for line in bad:
         print("     ", line)
     print(f"check M: {'PASS' if not bad else 'FAIL — ' + str(len(bad)) + ' problem(s)'}")
+    # Stated, not counted into the verdict: these rows pass, and a reader of the run should
+    # still see how many of its citations rest on a documented absence rather than a publisher.
+    rests = sum(1 for r in ledger
+                if any(s.strip().strip("[]") in offline
+                       for s in (r.get("sources") or "").split("|")))
+    if rests:
+        print(f"      {rests} row(s) cite a record held with a documented absence of a URL "
+              f"(`wiki/schemas.md` §4) — resolved to the catalogue entry, not a failure")
     return 1 if bad else 0
 
 
@@ -1775,7 +1850,7 @@ def check_indicator_sources(unit):
     if view is None:
         print("check M (indicators): SKIP — the mapping pass has not run for this unit")
         return 0
-    urls, held = slug_urls(), raw_slugs()
+    urls, held = citable(), raw_slugs()
     bad = []
     for iid in sorted(view):
         row = view[iid]
@@ -1790,7 +1865,8 @@ def check_indicator_sources(unit):
                                f"a mistyped or retired slug, not a source")
                 elif target not in urls:
                     bad.append(f"{iid}/{field}: cites {target!r}, which the base holds without a "
-                               f"URL — an uncitable record, and OSINT's to fix")
+                               f"URL and without a `url_note:` — an uncitable record, and "
+                               f"OSINT's to fix")
     for line in bad:
         print("     ", line)
     print(f"check M (indicators): "
@@ -1821,7 +1897,7 @@ def main():
         pass
 
     if args.links:
-        urls = slug_urls()
+        urls = citable()
         rows = read_csv(os.path.join(REPORTS, unit, "ledger.csv"))
         for s in ledger_slugs(rows):
             print(f"{s}\t{urls.get(s, 'UNRESOLVED — do not cite')}")

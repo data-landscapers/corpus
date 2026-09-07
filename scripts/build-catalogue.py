@@ -17,6 +17,15 @@ a document is held — enough to filter, search and cite. It carries no body tex
 the bodies are other people's words held for the wiki's own use, and a catalogue
 is not a place to republish them. The `url` sends a reader to the publisher.
 
+**`url_note` travels with a blank `url`, because the two together are a different
+fact from an empty field.** `wiki/schemas.md` §4 admits a record with no URL where
+`url_note:` states a dated, exhausted search — what was tried, when, and why the
+absence is final — and the record itself, usually with an `artefact:` beside it,
+*is* the source. Corpus read only the empty field and reported nine such records as
+uncitable (`notes-for-corpus` 22); carrying the note is what lets the citation path
+tell a documented absence from a missing value, and it puts the reasoning in the
+table a reader can download rather than only in OSINT's tree.
+
 Usage:
   python scripts/build-catalogue.py                 write outputs/catalogue/
   python scripts/build-catalogue.py --check         report drift, write nothing
@@ -64,7 +73,7 @@ def entity_names():
 
 CSV_COLS = ["slug", "title", "publisher", "author", "published", "date_precision",
             "places", "topics", "entities", "lens", "body_completeness", "finance",
-            "artefact", "words", "ingested", "url"]
+            "artefact", "words", "ingested", "url", "url_note"]
 
 
 def items(rows):
@@ -96,6 +105,10 @@ def items(rows):
             "published": fm.get("published") or "",
             "date_precision": fm.get("date_precision") or "",
             "url": fm.get("url") if isinstance(fm.get("url"), str) else "",
+            # Only meaningful where `url` is blank, and only then does anything read it:
+            # `wiki/schemas.md` §4's documented absence, carried so the citation path can
+            # tell it from a field nobody filled in (see the module docstring).
+            "url_note": txt(fm.get("url_note")),
             "places": V.as_list(fm.get("places")),
             "topics": V.as_list(fm.get("topics")),
             "entities": V.as_list(fm.get("entities")),
@@ -108,6 +121,31 @@ def items(rows):
         })
     out.sort(key=lambda x: (x["published"], x["slug"]), reverse=True)
     return out
+
+
+def unreadable(rows):
+    """Records whose frontmatter the parser could not read — a shell in the catalogue.
+
+    A record whose `---` block never closes parses to an empty frontmatter, and every field
+    the catalogue takes from it falls back: `title` becomes the slug, `publisher`, `places`,
+    `topics`, `published` and `url` are all blank. The row is written, counted, and published
+    — and it appears on no country page, under no subject, with no link, while looking from
+    the count like a record the catalogue holds. That is the catalogue answering wrongly
+    rather than failing, so it is reported here.
+
+    **It reports and does not fail.** The record is OSINT's, in a tree Corpus never writes to,
+    so the repair is a note; stopping the build would hold every other output hostage to a
+    file this side cannot mend.
+
+    **The test is the effect, not the warning.** `vault_lib` raises `fm_warnings` for 77 records
+    and 76 of them are fine — almost all are `unparsed-line`, a long `note:` the parser cannot
+    split into a key and a value, on a record whose other fields read perfectly. Keying on the
+    warning list would report those 76 every run until the noise was ignored along with the one.
+    A missing `title` is the thing that makes a row a shell, and it is what the catalogue's own
+    fallback to the slug keys on, so it stays true if the warning is ever renamed."""
+    return sorted(r["d"]["slug"] for r in rows
+                  if r["path"].startswith("raw/") and r["d"]["ext"] == ".md"
+                  and not (r["fm"] or {}).get("title"))
 
 
 def facets(rows):
@@ -193,7 +231,9 @@ def main():
     # rows it actually contains and the staleness would never be noticed.
     stamp = V.raw_md_state()
     meta = V.ensure_fresh()
-    rows = items(V.load_index(auto=False))
+    index_rows = V.load_index(auto=False)
+    rows = items(index_rows)
+    shells = unreadable(index_rows)
 
     if a.check:
         if not os.path.exists(JSON_PATH):
@@ -213,6 +253,11 @@ def main():
           f"{len(doc['facets']['topics'])} topics, "
           f"{len(doc['facets']['publisher'])} publishers, "
           f"{len(doc['facets']['year'])} years")
+    if shells:
+        print(f"  {len(shells)} record(s) with unreadable frontmatter — catalogued as a shell "
+              f"(slug for a title, no place, no subject, no link); OSINT's to fix, note it:")
+        for s in shells:
+            print(f"     {s}")
     return 0
 
 

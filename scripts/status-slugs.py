@@ -11,7 +11,15 @@ sources and must never be cited as though they were.
     python scripts/status-slugs.py --file slugs.txt
 
 One record per slug, as JSON, so an agent does not have to parse a table. A slug that resolves to
-no URL is returned with `url: null` and yields no fact.
+no URL is returned with `url: null` and yields no fact — **except where the record documented
+having no URL**, which is a different answer and now says so.
+
+`wiki/schemas.md` §4 admits a record whose `url:` is blank where `url_note:` states a dated,
+exhausted search: what was tried, when, and why the absence is final. The record itself, usually
+with an `artefact:` file beside it, is then the source. Reading the empty field alone reported
+nine of these as dead and dropped the facts they carried (`notes-for-corpus` 22). Such a slug now
+comes back with `url` set to its entry in Corpus's published catalogue, `held_offline: true`, and
+the `url_note` and `artefact` themselves, so a drafter can cite it and see what stands behind it.
 """
 
 import argparse
@@ -19,11 +27,14 @@ import csv
 import json
 import os
 import sys
+import urllib.parse
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import status_lib as S  # noqa: E402
 
-FIELDS = ("slug", "title", "publisher", "published", "url", "places", "topics")
+FIELDS = ("slug", "title", "publisher", "published", "url", "places", "topics",
+          "url_note", "artefact")
+SITE_BASE = "https://corpus.data-landscapers.io"
 
 
 def catalogue():
@@ -55,6 +66,13 @@ def main():
         slug = slug.strip().strip("[]")
         row = cat.get(slug)
         if row and row.get("url"):
+            out.append(row)
+        elif row and row.get("url_note"):
+            # The documented absence. The citation is the record's own row in the published
+            # catalogue, which is what `report-render.slug_offline()` resolves it to as well —
+            # one answer, so a drafter and the renderer cite the same address.
+            row = dict(row, held_offline=True,
+                       url=f"{SITE_BASE}/catalogue/#q={urllib.parse.quote(slug)}")
             out.append(row)
         else:
             out.append({"slug": slug, "url": None})

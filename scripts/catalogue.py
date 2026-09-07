@@ -370,7 +370,13 @@ SCRIPT = r"""
       var dn = DERIVED[r[10][ei]];
       if (dn) alias += ' ' + dn;
     }
-    r._s = (r[0] + ' ' + r[1] + ' ' + (r[12] || '') + ' ' +
+    // The slug (field 7) goes in verbatim, hyphens and all. It is the identifier every
+    // Corpus report cites by, so a reader who has one should be able to look it up here —
+    // and a record whose `url:` is a documented absence is cited *to this page* by slug
+    // (`report-render.slug_offline()`, notes-for-corpus 22), which lands on nothing at all
+    // unless the slug is searchable. Verbatim rather than de-hyphenated so an exact slug
+    // matches exactly one row; the title words in it are already reachable through r[0].
+    r._s = (r[0] + ' ' + r[1] + ' ' + (r[12] || '') + ' ' + r[7] + ' ' +
             r[10].join(' ').replace(/-/g, ' ') + alias).toLowerCase();
     // The year facet counts and filters on the *bucket*, not on the year: everything
     // before 2020 is one option (prep/catalogue.md §8). The base thins out fast going

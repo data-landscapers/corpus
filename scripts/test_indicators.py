@@ -164,8 +164,15 @@ def with_rows(rows, fn):
         for r in rows:
             w.writerow({k: r.get(k, "") for k in il.UNIT_FIELDS})
     old_reports, old_urls, old_raw = rr.REPORTS, rr.slug_urls, rr.raw_slugs
+    # `slug_offline()` is stubbed alongside `slug_urls()` because `citable()` merges the two
+    # and the merge is what check M now reads (`notes-for-corpus` 22). Leaving it unstubbed
+    # would read the real catalogue and defeat the point of the fixture — this suite runs on a
+    # machine with no vault. Empty, so `held-but-uncitable` stays uncitable: a record with no
+    # `url:` and no `url_note:` is still the failure the check exists for.
+    old_off = rr.slug_offline
     rr.REPORTS = TMP
     rr.slug_urls = lambda: URLS
+    rr.slug_offline = lambda: {}
     rr.raw_slugs = lambda: set(URLS) | {"held-but-uncitable"}
     buf = io.StringIO()
     try:
@@ -173,6 +180,7 @@ def with_rows(rows, fn):
             rc = fn("ZZZ")
     finally:
         rr.REPORTS, rr.slug_urls, rr.raw_slugs = old_reports, old_urls, old_raw
+        rr.slug_offline = old_off
     return rc, buf.getvalue()
 
 
@@ -233,6 +241,30 @@ cases_M = [
 for what, row, wanted in cases_M:
     rc, out = with_rows([row], rr.check_indicator_sources)
     check(f"check M catches {what}", (rc, wanted in out), (1, True))
+
+# The documented absence, and the boundary either side of it (`notes-for-corpus` 22). A blank
+# `url:` on its own is still a failure — the case above — and a blank `url:` with a `url_note:`
+# is not, because `wiki/schemas.md` §4 admits it and it resolves to its catalogue entry. The
+# pair is asserted together so neither half can be relaxed into the other by a later edit.
+OFFLINE = {"held-with-a-note": "https://corpus.data-landscapers.io/catalogue/#q=held-with-a-note"}
+_old_off, _old_urls, _old_raw = rr.slug_offline, rr.slug_urls, rr.raw_slugs
+rr.slug_offline = lambda: OFFLINE
+rr.slug_urls = lambda: URLS
+rr.raw_slugs = lambda: set(URLS) | set(OFFLINE) | {"held-but-uncitable"}
+try:
+    check("citable() merges the publisher's address with the documented absence",
+          sorted(rr.citable()), sorted(set(URLS) | set(OFFLINE)))
+    check("a documented absence resolves to its catalogue entry, not to nothing",
+          rr.cite_prose("the [mission](held-with-a-note) ran", rr.citable(), []),
+          "the [mission](%s) ran" % OFFLINE["held-with-a-note"])
+    check("a status cell rests on it too",
+          rr.cite("Implemented", {"sources": "held-with-a-note", "status": "Implemented"},
+                  rr.citable()),
+          "[Implemented](%s)" % OFFLINE["held-with-a-note"])
+    check("and a record with neither a URL nor a note still resolves to nothing",
+          rr.row_url({"sources": "held-but-uncitable"}, rr.citable()), "")
+finally:
+    rr.slug_offline, rr.slug_urls, rr.raw_slugs = _old_off, _old_urls, _old_raw
 
 print("\nthe region carve-out and the refusal")
 check("a region runs none of the three — it issues the movement document (§1)",
