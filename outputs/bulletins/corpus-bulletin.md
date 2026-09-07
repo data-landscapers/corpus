@@ -1,10 +1,10 @@
 ---
 type: bulletin
 title: Bulletin
-subtitle: Last updated 06-09-2026 at 21:17 — Covering sources published on 6 September 2026
+subtitle: Last updated 06-09-2026 at 21:17 — Covering sources published on 6 and 7 September 2026
 window_start: 2026-09-06
 window_end: 2026-09-07
-items: 3
+items: 4
 collected_to: 2026-09-06 21:17
 compiled: 2026-09-06 21:31
 ---
@@ -21,6 +21,7 @@ compiled: 2026-09-06 21:31
 <label for="bulletin-place">Filter by country or region</label>
 <select id="bulletin-place">
 <option value="">All countries and regions</option>
+<option value="EGY">Egypt</option>
 <option value="MRT">Mauritania</option>
 <option value="TGO">Togo</option>
 <option value="TUN">Tunisia</option>
@@ -77,5 +78,25 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 **[Stratégie Nationale de Paiement Numérique (SNPN)](https://fintech.bcm.mr/fr/ressources/SNPN/)** — Banque Centrale de Mauritanie, 6 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MRT/" title="MRT">Mauritania</a>
 
 Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+### Registries
+
+<div class="bulletin-item" data-places="EGY" markdown="1">
+
+**[Home Page](https://eta.gov.eg/en/home)** — Egyptian Tax Authority, 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/EGY/" title="EGY">Egypt</a>
+
+The Egyptian Tax Authority's own portal carries the state of its digital systems: electronic invoicing with registration guidance and online training for businesses joining it, an e-receipt system defined as an electronic document proving business-to-consumer transactions, and value-added tax return automation. A consumer-incentive scheme rewarding shoppers for taking a receipt or invoice is in trial operation at five shopping malls. <span class="bulletin-item__also">*Also under [Sectoral management information systems](#sectoral-management-information-systems).*</span>
+
+</div>
+
+### Sectoral management information systems
+
+<div class="bulletin-item bulletin-item--xref" data-places="EGY" markdown="1">
+
+**[Home Page](https://eta.gov.eg/en/home)** — Egyptian Tax Authority, 7 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/EGY/" title="EGY">Egypt</a>
+
+Summarised under [Registries](#registries).
 
 </div>

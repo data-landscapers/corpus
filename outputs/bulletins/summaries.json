@@ -3618,5 +3618,10 @@
     "published": "2026-09-06",
     "written": "2026-09-06",
     "summary": "Togo's government enterprise-architecture guide, and with it the common interoperability framework it defines, is still a draft on the digital agency's own live status page: version 1.0, status Brouillon, with the version date, reviewer and review date fields blank and the revision table carrying only its column headers. The framework exists as a published normative text and has not been given force of law."
+  },
+  "2026-09-07-eta-egypt-homepage": {
+    "published": "2026-09-07",
+    "written": "2026-09-07",
+    "summary": "The Egyptian Tax Authority's own portal carries the state of its digital systems: electronic invoicing with registration guidance and online training for businesses joining it, an e-receipt system defined as an electronic document proving business-to-consumer transactions, and value-added tax return automation. A consumer-incentive scheme rewarding shoppers for taking a receipt or invoice is in trial operation at five shopping malls."
   }
 }
