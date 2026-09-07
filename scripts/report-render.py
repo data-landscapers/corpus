@@ -640,8 +640,14 @@ def developments_cell(row, urls, unresolved):
     # A blank line in the drafted `developments` separates one dated development from the next.
     # It cannot survive as a blank line — a table cell is one line — so it becomes the break the
     # reader would have seen anyway, and each paragraph is flattened after its own citations go.
+    #
+    # **One break, not two** (Bill, 2026-09-07). It was `<br><br>`, which on paper spends a whole
+    # empty line between developments in a cell that is already the tallest thing in the table;
+    # a dated development opens with its own date, so the line start does the separating and the
+    # empty line only pads the page. On screen the expander is short enough that the difference
+    # is a tightening rather than a loss.
     paras = [p.strip() for p in re.split(r"\n\s*\n", row.get("developments") or "") if p.strip()]
-    full = "<br><br>".join(cell(cite_prose(p, urls, unresolved)) for p in paras)
+    full = "<br>".join(cell(cite_prose(p, urls, unresolved)) for p in paras)
     if not full:
         return summary
     return (f"{summary} <details><summary>Full record</summary>{full}</details>"

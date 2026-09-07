@@ -443,13 +443,20 @@ a.badge:hover::after { opacity: 1; }
   .container, .article-body { max-width: none; padding: 0; }
 
   /* **The indicator expanders print open** (`progress-report-redesign.md` §7).
-     A PDF has no expander and the full record is the document, not an extra,
-     so the UA's collapsed state is overridden rather than inherited: the
-     details box becomes an ordinary block and every child of it is shown. The
-     summary line itself goes — on paper "Full record" labels nothing, since
-     there is no closed state for it to describe. */
-  table.indicator details { display: block; }
-  table.indicator details > * { display: block; }
+     A PDF has no expander and the full record is the document, not an extra.
+     WeasyPrint, which cuts the PDF, has no collapsed state to override — its UA
+     sheet gives `details` a block box and hides nothing — so the only rule the
+     print needs is that the summary line goes: on paper "Full record" labels
+     nothing, since there is no closed state for it to describe.
+
+     **`details > * { display: block }` was here and did real damage** (Bill,
+     2026-09-07 — "padding with a lot of white space"). It was written to force
+     the expander open and never did, because nothing was holding it shut; what
+     it did instead was block-level every direct child of the element. A `<br>`
+     became an empty line box of its own, and every top-level `<a>` broke its
+     sentence onto three lines — one before the link, one for it, one after. A
+     measured Developments cell fell from 246pt to 164pt when the rule went,
+     with no content lost. */
   table.indicator details > summary { display: none; }
 
   /* Fixed layout makes the declared column percentages binding, so long cell

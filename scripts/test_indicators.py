@@ -129,7 +129,7 @@ print("\nthe developments cell")
 row = {"summary": "terse.", "developments": "one.\n\ntwo."}
 check("the summary leads and the full record follows in an expander",
       rr.developments_cell(row, URLS, []),
-      "terse. <details><summary>Full record</summary>one.<br><br>two.</details>")
+      "terse. <details><summary>Full record</summary>one.<br>two.</details>")
 check("a No evidence row renders as nothing at all",
       rr.developments_cell({}, URLS, []), "")
 check("***No evidence*** is marked; the other values are not",
