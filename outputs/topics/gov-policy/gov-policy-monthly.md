@@ -3,13 +3,13 @@ title: Strategies, plans and policies — monthly update, August 2026
 compiled: 2026-09-07
 period: 2026-08-01 to 2026-09-07
 subject: gov.policy
-places: BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MWI; MLI; MRT; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 4d4b5b197d14
+places: BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; ERI; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MWI; MLI; MRT; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: d5549e60508e
 ---
 
 # Strategies, plans and policies: monthly update, August 2026
 
-*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -66,6 +66,10 @@ The month's largest single transaction was spectrum: [410 MHz awarded across 1.8
 ## Equatorial Guinea
 
 Two plans and no strategy is still the position. The transport ministry's [half-year plan sets the country's first published broadband target, 85 per cent coverage through 34 new towers by the end of 2026](https://www.guineaecuatorialpress.com/noticias/el_ministerio_de_transportes_presenta_su_plan_semestral_para_fortalecer_la_conectividad_terrestre_postal_y_digital), and a [World Bank team opened a four-day session in Malabo in early September to finalise a national digital economy strategy](https://www.guineaecuatorialpress.com/noticias/el_ministerio_de_telecomunicaciones_acelera_la_transformacion_digital_con_el_respaldo_del_grupo_banco_mundial) — on a diagnostic that found [no interoperability framework and no digital skills data held](https://documents1.worldbank.org/curated/en/099051724134540301/txt/P179339-f4a4c89e-b212-4802-9f00-4c68aefed3c8.txt).
+
+## Eritrea
+
+The month adds the sector's policy furniture rather than a new instrument. A country profile lists the legal basis as [Communications Proclamation 102 of 1998, the Regulations on Telecommunications Networks and Services of the same year, and a 2003 proclamation establishing the state telecommunications corporation](http://web.archive.org/web/20260824175022/https://dig.watch/countries/eritrea), none of which the base holds as text. The one sector-specific policy named anywhere is for education: an education profile last modified on 2 September records a [National Policy for ICT in Education, a 2018-2022 sector plan aiming at technology infrastructure and e-learning, and an initiative the ministry launched in January 2005](https://education-profiles.org/sub-saharan-africa/eritrea/~technology), and the sector plan itself states that incorporating technology remains difficult for want of facilities, equipment and teacher training. The profile carrying it is a legacy platform its publisher states is no longer updated. No national digital or ICT strategy appears at any date, so the sector is governed by three texts from 1998 and 2003 that nobody on this base has read.
 
 ## Eswatini
 
