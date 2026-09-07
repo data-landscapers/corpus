@@ -1,11 +1,11 @@
 ---
 title: East Africa — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-07
+period: 2026-08-01 to 2026-09-07
 place: XEA
-ledger_rows: 18
+ledger_rows: 19
 not_held: 0
-record: 080dff73fe83
+record: 8bb90c2094af
 ---
 
 # East Africa: monthly update, August – September 2026
@@ -72,4 +72,12 @@ Two statistical-harmonisation strands moved in parallel: [IGAD convened a capaci
 
 <!-- narrative: capacity--capacity-training -->
 The EAC's AI-in-education workstream reached its most concrete milestone yet: [UNESCO, GIZ and the Inter-University Council for East Africa convened a pre-conference workshop in Nairobi on 25 August, ahead of the 2nd EAC Regional Education Conference](https://www.linkedin.com/posts/giz-tanzaniaandeac_tvet-eac-aiineducation-activity-7496551482218045440-RKVa) (25-28 August, nearly 200 presentations across nine sub-themes). [The conference's communique sets the EAC Secretariat to lead monitoring through an accountability framework of measurable regional and country-owned targets to 2028, with peer review through existing EAC mechanisms and a 3rd conference hosted by Uganda in 2028](https://www.eac.int/press-releases/138-education,-science-technology-news/3586-preliminary-communiqu%C3%A9-the-2nd-east-african-community-eac-regional-education-conference,-2026) — [routed through a donor-convened alliance and a university council rather than through the Secretariat's own organs](https://frontieronline.co.ke/east-african-universities-push-for-responsible-ai-integration-in-education/).
+<!-- /narrative -->
+
+## Finance
+
+### New investments
+
+<!-- narrative: finance--finance-new -->
+[The African Development Bank is funding a regional entrepreneurship and innovation project of about US$3.26 million across Sudan, South Sudan and Djibouti through its transition support mechanism with IGAD, Sudan’s national component launching on 19 August and running on the ground through the University of Khartoum’s entrepreneurship incubator centre](https://sudanhorizon.com/sudanafdb-and-igad-support-eentrepreneurship-and-startups/). No allocation between the three countries, disbursement schedule or enrolment target is published.
 <!-- /narrative -->

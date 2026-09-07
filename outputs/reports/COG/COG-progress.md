@@ -1,12 +1,12 @@
 ---
 title: Congo — progress report, September 2025 – September 2026
-compiled: 2026-09-05
-period: 2025-09-01 to 2026-09-05
+compiled: 2026-09-07
+period: 2025-09-01 to 2026-09-07
 place: COG
-ledger_rows: 118
+ledger_rows: 119
 not_held: 6
 indicators: 121
-record: 0d3d5aa723ca
+record: 93e2890d3fda
 ---
 
 # Congo: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the base holds nothing on that indicator. **That is a statement about this base, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-05.*
+*The period is 2025-09-01 to 2026-09-07.*
 
 **Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
 
@@ -80,7 +80,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 | Data Storage | Local data centre capacity (national providers) | The state operator [showed the minister a security operations centre across three data centres](https://www.adiac-congo.com/content/numerique-congo-telecom-une-entreprise-structuree-aux-yeux-du-ministere-de-tutelle-171196), after [works were suspended at 95%](https://www.sikafinance.com/marches/congo-lachevement-du-data-center-national-bloque-par-un-defaut-de-financement-gouvernemental_57001). <details><summary>Full record</summary>2025-10 - the contractor [suspended works at 95% completion and threatened withdrawal if the final tranche foreseen in the funding protocol was not released by month end](https://www.sikafinance.com/marches/congo-lachevement-du-data-center-national-bloque-par-un-defaut-de-financement-gouvernemental_57001), after [inauguration had been announced for November 2025](https://www.adiac-congo.com/content/infrastructures-numeriques-le-datacenter-national-sera-inaugure-en-novembre-166222). No amount is stated for the unpaid share and no position later than October 2025 is held on the financing.<br><br>2026-08-10 - the state operator [showed the minister a real-time security operations centre running across its Brazzaville, Pointe-Noire and Oyo data centres, alongside nationwide fibre connectivity](https://www.adiac-congo.com/content/numerique-congo-telecom-une-entreprise-structuree-aux-yeux-du-ministere-de-tutelle-171196). It is an assertion made in passing at a ministerial visit; no capacity, certification, utilisation or independent account of any of the three sites is held, and a [minister had already referred to a data-centre inauguration as an accomplished fact in January 2026](https://www.adiac-congo.com/content/intelligence-artificielle-le-congo-pose-les-jalons-dune-regulation-168692).</details> | Mixed, the state operator asserted three data centres in operation while the national build's own works were suspended over an unpaid state tranche |
 | Data Storage | Off-site backup capacity |  | ***No evidence*** |
 | Energy | Sufficient energy and water for data centres |  | ***No evidence*** |
-| Energy | Grid reliability |  | ***No evidence*** |
+| Energy | Grid reliability | A [US$100m electricity-services loan](https://documents1.worldbank.org/curated/en/099060624192033880/pdf/BOSIB16a3432200241912f1ebde92db41c6.pdf) was appraised in 2024 and the base holds nothing after the appraisal. <details><summary>Full record</summary>The World Bank appraised a EUR 92.8m loan, about US$100m, for the Strengthening Electricity Services Project on 7 May 2024, to be implemented by the national electricity company with the energy and hydraulics ministry and to run to 2028 ([appraisal](https://documents1.worldbank.org/curated/en/099060624192033880/pdf/BOSIB16a3432200241912f1ebde92db41c6.pdf)).<br><br>It is carried as a pipeline operation: no approval, signature or disbursement follows it on the record, so the base cannot say the project started.<br><br>No outage statistic, availability figure or supply guarantee for the sites the digital estate runs on is held either, which is why the reliability question is answered here by a financing document.</details> | No change |
 | Energy | Rural electrification |  | ***No evidence*** |
 | Technical Capacity | Robustness of government hardware and software |  | ***No evidence*** |
 | Technical Capacity | Local capacity to maintain, manage and develop government systems |  | ***No evidence*** |

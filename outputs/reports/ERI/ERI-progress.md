@@ -3,10 +3,10 @@ title: Eritrea — progress report, September 2025 – September 2026
 compiled: 2026-09-07
 period: 2025-09-01 to 2026-09-07
 place: ERI
-ledger_rows: 51
+ledger_rows: 52
 not_held: 16
 indicators: 121
-record: c36a771c861e
+record: 8ebad2176f0e
 ---
 
 # Eritrea: progress report, September 2025 – September 2026
@@ -62,7 +62,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 | Domestic budget appropriations and expenditure | Sustainable domestic financing of digital transformation |  | ***No evidence*** |
 | MoUs and other agreements | Strategic relationships | A development bank mission in April 2026 reopened dialogue on a prospective financial-sector modernisation project ([mission](https://www.afdb.org/en/news-and-events/press-releases/african-development-bank-and-eritrea-deepen-partnership-rooted-trust-and-pragmatism-93081)). <details><summary>Full record</summary>A development bank delegation led by its East Africa director general met the senior adviser to the president and the finance minister in April 2026, with line-ministry discussions covering financial-sector modernisation and data systems, and both sides reviewing continued dialogue on a prospective project ([mission](https://www.afdb.org/en/news-and-events/press-releases/african-development-bank-and-eritrea-deepen-partnership-rooted-trust-and-pragmatism-93081)).<br><br>The standing umbrella instrument is the 2022-2026 cooperation framework with the United Nations development system, which provides for an "improved and integrated data ecosystem", innovation and digital technology, and public-finance support ([framework](https://eritrea.un.org/sites/default/files/2022-02/The%20UN%20Sustainable%20Development%20Cooperation%20Framework%20Between%20the%20Government%20of%20the%20State%20of%20Eritrea%20and%20the%20United%20Nations%202022%20-%202026-%28Web%20Version%29.pdf)).<br><br>That framework expires in 2026 and the base holds no successor.</details> | Advanced |
 | New investments | Mobilisation of non-state finance |  | ***No evidence*** |
-| New investments | Development-partner project financing | UNDP's [statistical-capacity grant to the National Statistics Office](https://open.undp.org/projects/00099544) runs to 2026 and is the only development-partner financing on the ledger. <details><summary>Full record</summary>The standing position is a US$1,676,837 UNDP grant to the Government of Eritrea and the National Statistics Office, [committed in 2019 with an end year of 2026](https://open.undp.org/projects/00099544). Nothing in the twelve months to 2026-08-26 records a disbursement, an extension or a successor, and no second development partner appears anywhere on this ledger. The grant funds the statistical work reported under Censuses and surveys, so what movement there is shows up there rather than here.</details> | No change |
+| New investments | Development-partner project financing | UNDP's [statistical-capacity grant](https://open.undp.org/projects/00099544) runs to 2026, beside [US$14.02m of education grants](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2024-04-eritrea-gpe-grant-program-document.pdf) committed in 2024. <details><summary>Full record</summary>The standing position is a US$1,676,837 UNDP grant to the Government of Eritrea and the National Statistics Office, [committed in 2019 with an end year of 2026](https://open.undp.org/projects/00099544). Nothing in the twelve months to 2026-08-26 records a disbursement, an extension or a successor, and no disbursement figure for it is published. The grant funds the statistical work reported under Censuses and surveys, so what movement there is shows up there rather than here.<br><br>A second development partner is on the ledger after all: the Global Partnership for Education committed US$14.02m to the education ministry through UNICEF as grant agent in April 2024, for a foundational-learning reform programme including work on the education management information system ([grants](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2024-04-eritrea-gpe-grant-program-document.pdf)).</details> | No change |
 
 
 ## ICT Infrastructure
