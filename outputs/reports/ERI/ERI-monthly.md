@@ -1,11 +1,11 @@
 ---
 title: Eritrea — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-07
+period: 2026-08-01 to 2026-09-07
 place: ERI
-ledger_rows: 5
-not_held: 15
-record: 1ae69b65b2fe
+ledger_rows: 6
+not_held: 16
+record: 672761e3947f
 ---
 
 # Eritrea: monthly update, August – September 2026
@@ -20,6 +20,11 @@ Five rows move in the month, and four of them establish an absence rather than a
 
 ## Governance
 
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
+The month adds the sector's policy furniture rather than a new instrument. A country profile lists the legal basis as [Communications Proclamation 102 of 1998, the Regulations on Telecommunications Networks and Services of the same year, and a 2003 proclamation establishing the state telecommunications corporation](http://web.archive.org/web/20260824175022/https://dig.watch/countries/eritrea), none of which the base holds as text. The one sector-specific policy named anywhere is for education: an education profile last modified on 2 September records a [National Policy for ICT in Education, a 2018-2022 sector plan aiming at technology infrastructure and e-learning, and an initiative the ministry launched in January 2005](https://education-profiles.org/sub-saharan-africa/eritrea/~technology), and the sector plan itself states that incorporating technology remains difficult for want of facilities, equipment and teacher training. The profile carrying it is a legacy platform its publisher states is no longer updated. No national digital or ICT strategy appears at any date, so the sector is governed by three texts from 1998 and 2003 that nobody on this base has read.
+<!-- /narrative -->
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
