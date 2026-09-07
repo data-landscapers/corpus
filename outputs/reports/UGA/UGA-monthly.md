@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-07
 place: UGA
 ledger_rows: 81
 not_held: 11
-record: 563d5bea23e9
+record: 912e89b1c7bb
 ---
 
 # Uganda: monthly update, August – September 2026
@@ -153,12 +153,12 @@ The public procurement and disposal authority [partnered with a budget-advocacy 
 ### Digitalisation of sub-national government
 
 <!-- narrative: digitalisation--digital-localgov -->
-
+The records system reached district level for the first time on this record. The Ministry of Public Service [ran training and onboarding for its electronic document and records management system at Kasese and Rwampara district local governments on 17 August](https://www.publicservice.go.ug/edrms-training-and-on-boarding-at-kasese-and-rwampara-dlgs/) — two districts of 146, with no rollout plan or target published, and a page that returned only its title and date at capture, so what the training covered is not on the record. It follows a digital certification system for village-council letters, [presented at an international summit in November 2025 and designed to replace handwritten local council letters with digitally signed credentials linked to the identity register](https://ict.go.ug/media/news/digitizing-lc1-letters-for-improved-service-delivery), which has not been heard of since.
 <!-- /narrative -->
 ### Rural digital data capture
 
 <!-- narrative: digitalisation--digital-rural -->
-
+Rural digitalisation moved a district at a time, below the clinic rather than in it. A donor [handed 306 smartphones to village health teams in Masaka on 11 August, to capture and transmit community health data in real time](https://khronicledispatches.com/2026/08/11/kofih-equips-masaka-vhts-with-306-smartphones-in-push-to-digitize-community-healthcare/). It follows a [death-notification workflow built into the electronic community health information system and piloted in 17 districts](https://www.nature.com/articles/s41598-026-47970-0) earlier in the year, against persistent under-ascertainment of community deaths. Neither is at national scale, and nothing in the base states how many rural health facilities keep electronic records at all.
 <!-- /narrative -->
 
 ## Technology
@@ -232,7 +232,7 @@ The statistics bureau [commissioned 80 field data collectors on 4 August](https:
 ### Use of satellite data
 
 <!-- narrative: data--data-satellite -->
-
+Satellite data reached a Ugandan field for the second time this year, and again privately. A [field monitoring station was deployed at Greater Hope Farm in Mayuge district on 3 August, for real-time environmental data and later integration with European Earth-observation data](https://www.kijanispace.eu/2026/08/03/kijanispace-deploys-smart-field-monitoring-infrastructure-at-greater-hope-farm-in-uganda/), after a [European Space Agency demonstration supporting sugarcane growers and millers completed monitoring trials](https://business.esa.int/projects/sc-0) in October. Both are single-site. The state's own provision for satellite-based agro-climatic information sits unspent as a subcomponent of the climate-smart agriculture project.
 <!-- /narrative -->
 
 ## Geopolitics
