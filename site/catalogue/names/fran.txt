@@ -37,7 +37,7 @@ Agence France Presse	14932
 Agence FranÃ	18887
 Agence Française	13433,2226,353,1816
 Agence Française Islamique	10965
-Agence Française de Développement	331,106,364,1,167,74,362,1,1,496,1812,627,751,721,1292,785,459,1925,437,51,200,1,1,20,564,375,119,1306,225,196,1,25,948,667,63,41,27,11,98,8,2,24,40,244,17,1,197,462,17,6,29,28,1123,7,256,181,16,679,249
+Agence Française de Développement	331,106,364,1,167,74,362,1,1,496,1812,627,751,721,1292,785,459,1925,437,51,200,1,1,20,564,375,119,1306,225,196,1,25,948,667,63,41,27,11,98,8,2,24,40,244,17,1,197,462,17,6,29,28,1123,7,256,181,16,679,249,590
 Agence Française de Développement AFRF	15475
 Agence Française de Développement APC	15673
 Agence Française de Développement Page	15553
@@ -84,6 +84,7 @@ Associação Francófona de Protecção de Dados	2345
 Atos Consulting France	235
 Attorney General Mr Frank Ally	6806
 Australia and France	12536,925,1314
+Avenue de France	19821
 Avenue de France N	13301
 Avocats Sans Frontières France	9082,334
 Ayokai France	12036
@@ -94,7 +95,7 @@ BALBINA FRANCISCO BAPTISTA SEBASTIÃO	10751
 BARBARA FRANKLIN-TORSOO MINTER TIMOTHY AZUMAH MINTER	15845
 BAVAKURE Juvénal KABATESI Francine KIBINAKANWA Jean	13300
 BUSOGORO Jean François Mr DONADJE Florentin	13300
-Banque de France	2460,14775
+Banque de France	2460,14775,2615
 Banque de France LA TRANSPARENCE POUR UN	10975
 Bath François	15524
 Belgium and France	13388
@@ -126,6 +127,7 @@ CFAF African Financial Community Franc	16996
 CFAF Franc	15661
 CHALLENGES AND OPPORTUNITIES Francisca da Caridade Felix	10780
 CTO Francesco	4056
+CUBAHIRO Francis Olivier	19687
 Cameroon and France	4127
 Campus France	16242
 Cartografo CONSULTORES Francisco Rodrigues	10757
@@ -147,7 +149,7 @@ Colegio Francisco Bodie de Fortuni Malabo	4209
 Colegio Nacional Francisco Bodin Ngalo	4209
 Colonel EDOUADOUA METOULOU Francklin	16381
 Commissioner for Science and Digital Economy Dr Frank	10229
-Comorian Franc	13742
+Comorian Franc	13742,6084
 Comorian Francs	13734
 Compagnie Française	15848
 Compétences M. François Ndiaye	18324
@@ -172,6 +174,7 @@ DE LA FRANCOPHONIE ET	16177
 DE LA FRANCOPHONIE ET DES CONGOLAIS	15744,104,191,138,190
 DGI du Bénin The Agence Française de Développement	1238
 DISABILITY By Francis Kabia Umaru Tarawally	18443
+DJF Djiboutian Franc	19847
 DOCILIO JOAQUIM SEBASTIÃO FRANCISCO BENTO	10751
 DRC Digital Transformation Project Agence Française	2126
 DRSRS and France's DIGINOVE SAS	14605
@@ -193,8 +196,9 @@ Deux Cent Mlle Francs Burundais	13567
 Didier Francoise	19049
 Digital Africa Seed Fund. In France	3036
 Direitos Humanos Francisco Queiroz	10751
-Djibouti Franc	13861
+Djibouti Franc	13861,5974
 Djibouti Franc SDR	13836
+Djibouti Francs	19835
 Djibouti and France	18932
 Domingos Juliasse Viola Manica Francisca Domingos	12201
 Dr. Adjoba Françoise KADJA	15712
@@ -318,12 +322,14 @@ Franc CFA ZAR	14683
 Franc CFA. En	18332
 Franc CMA Capital Markets Authority NRB	11994
 Franc Communauté	11553
+Franc Djibouti	19850
+Franc Français	19850
 Franc Menes	16100
 Franc Rwandais	15023
 Franca	18802
 Franca Environmental Specialist Yes Nadia Henriqueta	18809
 Francaise Internationale	18797
-France	235,308,19,11,216,110,71,38,28,147,11,19,16,296,159,18,41,37,123,49,3,93,218,17,31,63,2,8,6,1,150,64,18,106,148,95,61,121,200,108,231,5,3,49,34,67,18,2,253,517,29,3,45,129,122,50,7,296,87,26,92,26,113,133,199,153,46,67,59,15,54,76,6,25,1,11,3,4,15,6,71,112,100,74,60,38,148,81,57,30,31,46,108,104,52,68,88,12,245,56,2,1,82,11,18,36,73,295,29,107,35,79,51,143,19,355,373,256,143,44,103,89,65,182,85,9,11,2,20,23,78,20,13,4,25,67,9,5,30,14,26,170,162,49,36,37,78,55,115,11,54,38,4,21,18,125,82,126,164,65,410,210,75,65,80,56,67,230,63,2,16,29,15,290,59,274,116,44,38,19,3,16,33,4,153,33,32,110,226,78,15,45,2,1,19,3,4,18,21,3,11,29,16,5,12,56,21,21,11,1,135,41,35,69,3,29,9,101,9,82,11,1,33,76,3,23,21,174,47,95,227,23,10,41,212,309,184,52,43,33,8,6,3,9,2,22,28,1,50,78,28,21,2,8,10,68,32,2,75,1,6,6,2,7,1,13,26,7,3,19,2,1,22,2,327,69,64,40,45,16,22,114,85,11,25,74,107,43,8,57,4,64,14
+France	235,308,19,11,216,110,71,38,28,147,11,19,16,296,159,18,41,37,123,49,3,93,218,17,31,63,2,8,6,1,150,64,18,106,148,95,61,121,200,108,231,5,3,49,34,67,18,2,253,517,29,3,45,129,122,50,7,296,87,26,92,26,113,133,199,153,46,67,59,15,54,76,6,25,1,11,3,4,15,6,71,112,100,74,60,38,148,81,57,30,31,46,108,104,52,68,88,12,245,56,2,1,82,11,18,36,73,295,29,107,35,79,51,143,19,355,373,256,143,44,103,89,65,182,85,9,11,2,20,23,78,20,13,4,25,67,9,5,30,14,26,170,162,49,36,37,78,55,115,11,54,38,4,21,18,125,82,126,164,65,410,210,75,65,80,56,67,230,63,2,16,29,15,290,59,274,116,44,38,19,3,16,33,4,153,33,32,110,226,78,15,45,2,1,19,3,4,18,21,3,11,29,16,5,12,56,21,21,11,1,135,41,35,69,3,29,9,101,9,82,11,1,33,76,3,23,21,174,47,95,227,23,10,41,212,309,184,52,43,33,8,6,3,9,2,22,28,1,50,78,28,21,2,8,10,68,32,2,75,1,6,6,2,7,1,13,26,7,3,19,2,1,22,2,327,69,64,40,45,16,22,114,85,11,25,74,107,43,8,57,4,64,14,208,2,6,2
 France AI	17884
 France Afrique Média	18232
 France Arrondissement	15455
@@ -450,12 +456,14 @@ Francis Asanyo	9188
 Francis Belekanyama	7443,43
 Francis Benjamin	15524
 Francis Bokilo	1814
+Francis Brachet and Alain Charlet	19823
 Francis Cabrel Mbothak	2513
 Francis Chipimo	13532
 Francis Chisaka Kasolo	11665
 Francis Dogo Sam-Yaya	10593
 Francis Dufay	9734,1,249
 Francis Enagnon BODJRENOU	17584
+Francis F Tusubira	19639
 Francis Group	8376
 Francis Issaka	15742
 Francis James	19153
@@ -517,8 +525,10 @@ Francisco Tavares Lopes	16290
 Francisco Tchimbavo	10366
 Francisco Valle	10764
 Francisco de Pina	11561
-Francistown	3688,9578
+Francistown	3688,9578,6385,26
+Francistown and Gaborone	19702
 Francistown. Improve Access	12552
+Francistown. Tel	19702
 Franck	15558,186,42
 Franck Alexandre MOUELY KOUMBA	16381
 Franck Amedée	15744
@@ -597,7 +607,7 @@ Francophone West and Central Africa URL	16178
 Francophone and Anglophone	10801,6738
 Francophone and Central Africans Abroad	16277
 Francophone. Francophone North Africa	12339
-Francophonie	1679,770,359,982,1313,741,138,1140,198,1398,173,621,2393,67,1329,380,99,14,90,16,528,66,55,898,46,87,90,266,28,663,1444,1187,10,83
+Francophonie	1679,770,359,982,1313,741,138,1140,198,1398,173,621,2393,67,1329,380,99,14,90,16,528,66,55,898,46,87,90,266,28,663,1444,1187,10,83,306
 Francophonie Avant	7122
 Francophonie BAD Banque Africaine de Développement CSCRP	12
 Francophonie CONFEMEN	18931
@@ -663,6 +673,7 @@ Frank Johnson Avenue	12515
 Frank Kajungu	15042
 Frank Macha	9452
 Frank Matsaert	6344
+Frank Muhindo and Lillian Lwanja	19725
 Frank Mwiti	4978,3115
 Frank Okai	16232
 Frank R. Garcia	7344,86
@@ -818,6 +829,7 @@ Héliodore Francis Alex Gouloubi	4135,3289
 IFADEM Initiative Francophone	15541
 IGN France	19124
 IMPACT Lab Morocco INCO.org France Ingenious	15460
+INARUKUNDO Francine	19687
 INEFOP Francisco Miúdo-Angop Ndalatando	10778
 INFORMATIQUE BUTERA FRANCOIS Armand HAVYARIMANA Jean	13300
 IRD France	16627
@@ -1019,6 +1031,7 @@ P1E Francs CFA	18032
 PARTNERS European Union France Germany	16955
 PROFESSEURS DE CEG FRANCO-ARABE ANAB AGENCE	18170
 PROGRAMMES DE FRANÇAIS	18099
+Parité du Franc Djibouti	19850
 Patrick Franky Melanie	19049
 Paul François	15615
 Pela República de Angola Adão Correia Francisco	11393
@@ -1093,6 +1106,7 @@ San Francisco and Shanghai	17467
 San Francisco-headquartered	5839
 Santos Francisco Calengi Anália Nunda Prata	10757
 Seamfix COO Frank Atube	4292
+Search Google Scholar Export Citation Francis	19823
 Sector Director Marie Françoise Marie-Nelly Country	15372
 Secção Francisco Queiroz Universidade Angolana	10752
 Segundo Francisco Carvalho	8519
@@ -1129,6 +1143,7 @@ Sua Excelência Daniel Francisco Chapo	12792
 Subscriber Line AFD Agence FranÃ	18887
 Sudan Liberia Francophone Africa Cameroon Côte	10793
 Sudan and Liberia. The Francophone Africa	10793
+Sujani Eli. Francisca Ayodeji Akala	19645
 Support Francophone Open Governments	9022
 Swiss Franc	9796,4989,2531
 Swiss Francs	13420,1364

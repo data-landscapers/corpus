@@ -31,6 +31,7 @@ President of Seychelles. VEGETATION MANAGEMENT	18947
 Production of Selected Vegetables	19554
 Production of Selected Vegetables In Tanzania	19554
 Proteção de Variedades Vegetais	18837
+ROOT AND TUBERCLE VEGETABLES	19749
 STA. Somalia Monthly Vegetation Conditions	15256
 Smallholders for Market-Oriented Vegetable Production	16970
 Sparse Vegetation Drought	17157
@@ -48,8 +49,9 @@ Vegetable	12977,145,3778,2,141,1440
 Vegetable Crop Cultivation	17043
 Vegetable Oil	17235
 Vegetable Oils	16285
-Vegetables	13122,263,3081,434,2654
+Vegetables	13122,263,3081,434,2654,195
 Vegetables Bitterballs	17043
+Vegetables DUS	19749
 Vegetated	15129
 Vegetation	1988,10265,2876,2011,17,752
 Vegetation Condition Index	11762,1988,4554

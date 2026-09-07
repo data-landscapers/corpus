@@ -33,6 +33,7 @@ Abreviaturas Aband. Aprov. Compart. Definit	10766
 Acquired Immune Deficiency Syndrome AMR Antimicrobial	19544
 Acquired Immune Deficiency Syndrome ARV	16951
 Acquired Immune Deficiency Syndrome CIMA Alliance	19520
+Acquired Immune Deficiency Syndrome ICSC Implementation	19646
 Acquired Immune Deficiency Syndrome SDGs	17101
 Acronym Definition Acronym Definition ETA Electronic	11986
 Acronym Definition Acronym Definition PI Performance	11986
@@ -50,11 +51,12 @@ Africa Defense Forum	15342
 Afryki Cyber Defense Africa	19328
 Agri-Food... Tunisia Trade Deficit Widens	7322
 Agricultural Land Protection Law Defining	16916
-Airbus Defence and Space	2242,3163,16,17,735
+Airbus Defence and Space	2242,3163,16,17,735,13600
 Airbus Defence and Space President Alain Fauré	5438
 Alberto Afonso Deficiência de Cabo Verde	15694
 Algeria. Defines	15760
 Analyzing Civil Society Actors' Definitions of Digital	11028
+Annex A. Key Terms Term Definition	19807
 Appendix A Indicator Definitions Domain	15164
 Appendix A LEGALITY DEFINITION	16843
 Application and Definitions	3714
@@ -78,6 +80,7 @@ Aïn Defla Centre	16085
 Aïn Defla Relizane Décret	15690
 B. DEFINITIONS	14825
 BOOKMARK NOT DEFINED. I. PROJECT CONTEXT	15424
+BPC Operating Deficit	19677
 BROADBAND DEFINITION AND VISION	16884
 BT DEFECTUEUX	10975
 BUDGET DEFICIT	5655
@@ -95,6 +98,7 @@ Budget Deficit Financing	19602
 Budget Deficit and Financing	17105
 Building Layered Defenses For Africa	16813
 Burkina Faso. RESULTATS DEFINITIFS DU RGE	10875
+Burundian National Defense Force	19655
 Buzz Startups VC AI DefenseTech Opinions	10068
 C. DEFIS	17842
 C3. Definition of Cost of Sales	17250
@@ -384,7 +388,7 @@ DefExpo	11579,4585,113,372
 DefExpo India	15119
 DefExpo. Dr. Mamadou Tangara	17241
 Defamation	13739,334,3877,20
-Default	170,3691,1381,2,1179,4538,220,673,122,209,204,50,538,60,213,221,1180,77,2,434,307,243,222,896,308,898,401,117,369
+Default	170,3691,1381,2,1179,4538,220,673,122,209,204,50,538,60,213,221,1180,77,2,434,307,243,222,896,308,898,401,117,369,876
 Default Efficient Business Processes Privacy Data	12359
 Default GBB Hosting	10157
 Default Infrastructure Sharing Bring Your Own	12359
@@ -415,19 +419,21 @@ Defective Commodities	12900
 Defects	13385,1148,1368
 Defects Liability Period	18543,1041
 Defeito	11461
-Defence	21,566,2188,1112,641,687,626,1707,299,20,744,788,1302,484,89,11,4,318,318,31,30,316,71,139,39,66,355,68,53,468,98,85,665,396,25,2017,483,93,461,66,179,91,343,14,20,3,461
+Defence	21,566,2188,1112,641,687,626,1707,299,20,744,788,1302,484,89,11,4,318,318,31,30,316,71,139,39,66,355,68,53,468,98,85,665,396,25,2017,483,93,461,66,179,91,343,14,20,3,461,567
 Defence AI Innovation Hub	4528,7984
 Defence Act	11289
 Defence CHAPTER TWENTY FOUR	14409
 Defence Cooperation	13562,5395
 Defence Cooperation and Maritime Security	19060
+Defence Cooperation. MoU	19632
 Defence DoJ Department of Justice DPME Department	11261
 Defence Expo	18016
 Defence Expo-2022. Visits	18220
 Defence Force	13352
 Defence Force SAPS South African Police	11188
-Defence Forces	972,5815,6499,29,186,3329
+Defence Forces	972,5815,6499,29,186,3329,2811
 Defence Forces Medical Services	13430
+Defence Forces UPF Uganda Police Force	19715
 Defence Fraud	9067
 Defence ITEC	16649
 Defence Industries Corporation of Nigeria	8780
@@ -496,7 +502,7 @@ Defendê-las	11072
 Defensa	4209,3839,3695,5605
 Defensa Nacional	17392
 Defensa. Ministerio de Justicia	16965
-Defense	1000,2604,2051,2192,273,4933,40,2380,1415,67,11,9,1508,650
+Defense	1000,2604,2051,2192,273,4933,40,2380,1415,67,11,9,1508,650,668
 Defense Command and Control Centre for Cybersecurity	1000
 Defense H.E. Mr. Youssouf Mohamed Ali	13791
 Defense Manufacturing Hospitality	16266
@@ -510,6 +516,9 @@ Defense and Security Wings	12453
 Defense and Security Wings EGD	12453
 Defense and Sustainability	8275
 Defense des Utilisateurs des Technologies Numériques	7920
+Defense of Democracy	19655
+Defense of Democracy-Forces	19655
+Defense-in-Depth	19801
 Defenses	6202,13420
 Defensibility	13279
 Defensive	10088,2254
@@ -519,10 +528,10 @@ Defensor	4209,12646,103
 Defer	11156,8419
 Deferimento	11435
 Deferrable	17157
-Deferral	12548,804
+Deferral	12548,804,6276
 Deferrals	11955,1426
 Deferred	4896,2325,3572,1162,45,490,563,6522
-Deferred Drawdown	1284,583,1695,42,7164,61,135,453,143,295,1476,1,2221,68,37,3,483,778,2323
+Deferred Drawdown	1284,583,1695,42,7164,61,135,453,143,295,1476,1,2221,68,37,3,483,778,2323,590,12
 Deferred Fines	12920
 Deferred Net DNS Participant	12364
 Deferred Net Settlement	12364
@@ -562,7 +571,8 @@ Deficiência PNC Plano Nacional de Cuidados ANEXO	15694
 Deficiência. Esta	17178
 Defilement	15845
 Defin-	8602
-Define	1000,777,1742,159,294,154,1118,421,12,1,745,9,400,104,404,208,1558,749,781,129,10,185,57,55,84,60,331,6,16,234,2,52,6,145,206,97,32,13,3,40,20,144,112,11,93,6,295,215,86,629,175,256,160,176,35,6,1,60,10,108,37,96,31,3,306,10,110,387,79,23,109,645,28,78,24,130,21,26,17,34,5,674,439,171,51,221,179,283,306,55
+Define	1000,777,1742,159,294,154,1118,421,12,1,745,9,400,104,404,208,1558,749,781,129,10,185,57,55,84,60,331,6,16,234,2,52,6,145,206,97,32,13,3,40,20,144,112,11,93,6,295,215,86,629,175,256,160,176,35,6,1,60,10,108,37,96,31,3,306,10,110,387,79,23,109,645,28,78,24,130,21,26,17,34,5,674,439,171,51,221,179,283,306,55,71,21,10,124,6
+Define AI	19807
 Define Campaign Objectives	12675
 Define Core Principles	12675
 Define Enterprise Architecture	12359
@@ -571,12 +581,14 @@ Define KPIs	4528,7984
 Define LDN	17157
 Define Learning Objectives	12675
 Define Mandate and Objectives	12675
+Define NITA-U	19801
 Define National	12419
 Define New Areas of Benefit	12419
 Define Objectives	12675
 Define Objectives and Scope	12675
 Define Performance Benchmarks	11952
 Define Program Objectives	12675
+Define Recovery Time Objectives	19801
 Define and Cost	16079
 Define and Implement Innovative Financing Mechanisms	958
 Define and Publicize SLAs	17149
@@ -633,9 +645,9 @@ Defining the Mauritian Broadband Ecosystem	14723
 Defining the RPPI	11286
 Defining the RPPI An RPPI	11286
 Definir	167,1534,1115,703,699,6536,29,577,21,49,14,4,3,5,2,3,55,2,1,50,332,873,1676,990,10,26,50,38,191,334,232,865,1574,1,2,9,1,1,4,5,17,1,95
-Definite-match	8,11,11,5,4,4,1,1,1,1,1,1,2,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,2,1,2,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,9,8,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,3,10,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,2,6,3,4,7,9,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,2,3,13,1,21,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,3,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,30,18,10,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,12,5,4,2,1,19,11,1,2,11,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,15,23,6,16,3,1,1,17,1,3,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,4,1,3,1,1,2,1,1,1,1,1,2,2,1,1,1,1,1,1,1,2,1,23,4,6,73,123,2,1,1,1,2,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,1,1,1,1,2,1,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,2,1,1,1,109,93,357,1,7,3,1,1,1,1,7,1,4,5,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,6,1,3,1,2,1,1,1,1,6,1,1,2,3,1,1,2,2,279,1640,286,1,2,7,1,5,8,3,23,4,11,1,5,2073,2044,299,102,24,256,144,41,95,12,86,109,123,233,154,745,2765,4,3,851,188,529,348,906,96,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1529,45
+Definite-match	8,11,11,5,4,4,1,1,1,1,1,1,2,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,2,1,2,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,9,8,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,3,10,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,2,6,3,4,7,9,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,2,3,13,1,21,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,3,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,30,18,10,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,12,5,4,2,1,19,11,1,2,11,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,15,23,6,16,3,1,1,17,1,3,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,4,1,3,1,1,2,1,1,1,1,1,2,2,1,1,1,1,1,1,1,2,1,23,4,6,73,123,2,1,1,1,2,2,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,1,1,1,1,2,1,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,2,1,1,1,109,93,357,1,7,3,1,1,1,1,7,1,4,5,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,6,1,3,1,2,1,1,1,1,6,1,1,2,3,1,1,2,2,279,1640,286,1,2,7,1,5,8,3,23,4,11,1,5,2073,2044,299,102,24,256,144,41,95,12,86,109,123,233,154,745,2765,4,3,851,188,529,348,906,96,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1529,45
 Definitely	12214,1173
-Definition	545,221,1058,1337,924,1580,35,1048,143,995,890,348,113,1484,431,25,81,18,20,121,452,47,27,43,160,29,10,109,7,59,29,521,9,134,246,12,557,70,17,31,5,726,37,61,43,3,1,53,6,209,114,419,1173,7,17,24,39,27,190,744,559,27,86
+Definition	545,221,1058,1337,924,1580,35,1048,143,995,890,348,113,1484,431,25,81,18,20,121,452,47,27,43,160,29,10,109,7,59,29,521,9,134,246,12,557,70,17,31,5,726,37,61,43,3,1,53,6,209,114,419,1173,7,17,24,39,27,190,744,559,27,86,1102
 Definition ABIS Automated Biometric Identification System	11986
 Definition Acceptance	12364
 Definition Acronym Definition As Sierra Leone	18532
@@ -694,9 +706,11 @@ Definition of GOS	236
 Definition of ICT	236,11699
 Definition of Inability	18556
 Definition of Income and Financial Support	2307
+Definition of Key Terminologies	19783
 Definition of Key Terms	4610,12433,2493
 Definition of Key Terms Empowerment Score	17127
 Definition of MTF	11136
+Definition of Mixed Methods Research. Mixed Methods	19654
 Definition of Organization	13986
 Definition of Person With Disability	12575
 Definition of Postcode	11129
@@ -714,7 +728,7 @@ Definition of SEP Section	3161
 Definition of Sensitive Personal Data	11880
 Definition of Terms	12302
 Definition of Terms Article	12616
-Definitions	7,18,1,1,1,734,1545,854,342,211,258,1062,210,421,1167,706,3343,93,30,172,1,1,4,7,1,58,17,4,7,125,16,100,55,384,8,83,163,4,12,68,66,5,9,21,18,34,37,287,119,5,6,1,3,4,10,40,8,38,32,36,12,100,21,140,1,34,243,327,10,6,1,8,15,23,99,11,3,307,213,130,35,49,6,3,23,14,5,3,112,29,10,132,8,38,119,11,142,125,578,613,10,1,8,35,38,10,223,586,2,868,276,15,80,1,229
+Definitions	7,18,1,1,1,734,1545,854,342,211,258,1062,210,421,1167,706,3343,93,30,172,1,1,4,7,1,58,17,4,7,125,16,100,55,384,8,83,163,4,12,68,66,5,9,21,18,34,37,287,119,5,6,1,3,4,10,40,8,38,32,36,12,100,21,140,1,34,243,327,10,6,1,8,15,23,99,11,3,307,213,130,35,49,6,3,23,14,5,3,112,29,10,132,8,38,119,11,142,125,578,613,10,1,8,35,38,10,223,586,2,868,276,15,80,1,229,444
 Definitions Annex V	19214
 Definitions Article	14870,37,1
 Definitions Artificial	19521
@@ -752,7 +766,8 @@ Definitions and Scales Annex II	12214
 Definitions of Emerging Technologies	12210
 Definitions of Emerging Technologies Emerging	12210
 Definitions of Key Terms	14434
-Definitions of Terms	14434,381,52
+Definitions of Terms	14434,381,52,4777,157
+Definitions of Terms Health Information Exchange	19644
 Definitions the Alternative Disputes Resolution Framework	12301
 Definitions the National	5665
 Definitions-BB-DPG-DPI	17097
@@ -792,7 +807,7 @@ Defourny	16875
 Defrauded Isma'il Bilyaminu	12038
 Defrauding Secure Creditor	16935
 Defunción. Es	16962
-Defunct	13311
+Defunct	13311,6359
 Defunct Entities	14546
 Defy Hate Now	15342
 Defying Sudan's Ongoing Conflict	15284
@@ -852,6 +867,7 @@ Environmental Ethics and Defensive Sovereignty	8629
 Equatorial Guinea Deforestation	16996
 Equité de Genre DEFCCS	18291
 Eritrean Defense Force	14159
+Erroneous Deficient Usable Reliable Joint Score	19715
 Establish Clear Governance Structures and Mandates Define	12008
 Estatísticas de Deficiência	10777,800
 Europe AIDS Acquired Immune Deficiency Syndrome	16926
@@ -895,6 +911,7 @@ GDP Deflator	18483
 GDP Deflator The GDP	18483
 GENERAL PROVISIONS Definitions General	3714
 GENERALITES ET DEFINITIONS	14488,1,1
+GLOSSARY OF TERMS Term Definition	19646
 GLOSSARY Term Definition Access Control Role-based	12675
 GOAL DEFINITION	899
 GUIDANCE NOTES FOR ELECTORAL PURPOSES DEFINITIONS	1630
@@ -1012,7 +1029,7 @@ Kenya Defence Forces AI and Emerging Technologies	7548
 Kenya Defence Forces Act	9239
 Kenya Defense	7548
 Key CBDC Definitions	11130
-Key Definitions	4972,7238
+Key Definitions	4972,7238,7457
 Key Definitions Government of Ghana Digital Services	15540
 Key Definitions for NNBP	11857
 Key Terms and Definitions	3651
@@ -1037,6 +1054,7 @@ Life Counts Table of Contents Definition of Terms	12151
 Lines of Defence	12315
 List of Definitions	11188
 List of Definitions Word	11188
+Local Defense Unit	19641
 Lonely and Tired HIV Human Immune Deficiency	12970
 L’examen du DEF	18014
 MALES VS FEMALES DEFINITIONS Adult	12409
@@ -1116,6 +1134,7 @@ Ministry of Defence of DRC	16164
 Ministry of Defence of Sao Tome	18857
 Ministry of Defense	1000,2604,9710,2159,11,493,895,44,26,838
 Ministry of Defense and Military Production	15473
+Ministry of Defense and Veterinary Affairs	19642
 Ministry of Defense. Law	15473
 Ministry of Justice. Defence	11607
 Ministry of National Defence	1886,3421
@@ -1126,6 +1145,7 @@ Ministry of National Defense The Ministry of National	16975
 Ministry of National Defense Year	16872
 Ministério da Defesa	11531,7229,38
 Ministério da Defesa Nacional	10754,776,39
+MoDVA Ministry of Defense and Veterinary Affairs MoES	19642
 Modou Njie and Chief of Defence Staff Lt	17241
 Mutual Defence Cooperation	12326
 Mº DEFENSA NACIONAL	4209
@@ -1239,6 +1259,8 @@ Public Defender	16943
 Public Defenders	16943
 Public Officers’ Defined Contribution Pension Fund	12701
 Pueblo la Defensa	16855
+Quasi-Fiscal Deficit	19823
+Quasi-Fiscal Deficit SONELEC	19823
 Question That Cannot Be Deferred	10570
 R Protocolo de Rede Definida	18774
 REBALANCING THE LEGAL ECOSYSTEM Defining	961
@@ -1300,6 +1322,8 @@ SEforALL Sustainable Energy for All DEFINITIONS	16188
 SLE Police and Defence	18500
 SN ITEM DEFINITION METRICS	11857
 SOA.3. Definitions and Interpretations Section SOA.4. Powers	16833
+SONELEC Quasi-fiscal Deficit	19823
+SRS System Requirements Specification Key Definitions	19667
 ST Engineering and Airbus Defence and Space	6482
 STANDARD FOR DATA ELEMENT DEFINITIONS	12360
 STARTUPS VC AI DefenseTech OPINIONS EVENTS	10068
@@ -1325,6 +1349,7 @@ Seychelles Defence Force	19063,1
 Seychelles Defence Forces	19060
 Seychelles People's Defence Forces	18914
 Sidi Amar Cherchell Douaouda Aïn Defla	15690
+Social Development Sector Defense	19641
 Software Defined Network	2591,10594
 Software Defined Networks	13185
 Software Defined Radio	3875
@@ -1389,7 +1414,11 @@ UPDF Chief of Defence Forces	4351
 URA Defends Reinstated Cargo Seals Uganda	3955
 US Defense Department	7147
 US Department of Defence	9015
+Uganda People's Defence Force	19632
 Uganda Peoples Defence Forces	4351
+Uganda People’s Defence Forces Act	19801
+Uganda People’s Defense Forces	19715
+Ugandan Peoples Defence Forces	19632
 Ultra High Definition	12982
 Umbutfo Eswatini Defence Force	12922,34,167
 Unrecovered Defaulters	19585

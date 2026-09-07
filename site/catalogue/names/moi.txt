@@ -42,6 +42,8 @@ DU MOIS	13300,2331
 DURANT LE MOIS DE L'ENQUÊTE OU	13300
 David Moinina Sengeh	18460,67
 De Moins	17945
+Departments and Agencies MoICT&NG Ministry of Information	19660
+Development MoIA Ministry of Internal Affairs MoJCA	19642
 Director General MOIFAR	2555
 Dora Moita	5819
 Dr. David Moinina Sengeh	18526
@@ -164,13 +166,19 @@ MoICE	18566,16,4
 MoICE Concludes Final National Validation	18514
 MoICE URL	18582
 MoICI	16867
-MoICT	899,847,5801,2,3273,1477,760,55,6420
+MoICT	899,847,5801,2,3273,1477,760,55,6420,99,27,147
 MoICT and ICTA	899
+MoICT ug	19689
+MoICT&NG	19642,2,16,7,140
+MoICT&NG Sector Agencies Support MDAs	19641
+MoICT&NG Technical	19641
+MoICT&NG and Secretariat	19807
+MoICT&NG. Parish Development Model Operations	19660
 MoIFAR	14889,36,266
 MoIT- KRT	14897
-MoIbrahimFoundation	11888,453
+MoIbrahimFoundation	11888,453,7312
 MoIbrahimFoundation IG	10837,1052,263,11,177,1
-MoIbrahimFoundation X	10759,76,3,130,902,16,1,267,198,1,135
+MoIbrahimFoundation X	10759,76,3,130,902,16,1,267,198,1,135,7334
 MoTL and MoI	12233
 Moi Avenue P.O. Box	12256
 Moi International Airport	2775
@@ -220,6 +228,7 @@ Mr. Said Moinou Ahmed	13807
 N' AU MOIS DE NAISSANCE DANS	13300
 NASA’s Soil Moisture Active Passive	10763
 NE CONNAIT PAS LE MOIS	13300
+NITA-U and MoICT&NG	19807
 NOMBRE DE MOIS NON	13300
 NOMBRE DE MÉNAGES SI MOINS	13300
 National Assembly MOICI BOARD OF ICT	16885
@@ -231,7 +240,9 @@ PRODUIT INTERIEUR BRUT PAYS LES MOINS	18105
 PURA and MOICI Implementation	16884
 Pelonomi Moiloa	17700
 Percentage of Moisture	1988
+Permanent Secretary MoICT&NG	19641
 Personnes Moins	737
+Phenyo Moipolai	19680
 Planned Action MOICI	16884
 Planned Action MOICI and PURA Implementation	16884
 Planned Action University of The Gambia and MOICI	16884

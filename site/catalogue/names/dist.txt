@@ -38,7 +38,9 @@ Administrative Districts Act	12531
 Administrative Units Population Distribution Reports	19542
 Adolescent Health SODECA Centrafrican Water Distribution	15415
 Africa Data Centres and Distributed Power Africa	1196,4425
-Age Distribution	13644,3483
+Agago District The Uganda Communications Commission	19728
+Age Distribution	13644,3483,2588
+Age Distribution Age	19715
 Age Distribution Among Permanent Staff	12951
 Age Distribution Department Distribution Intern GITs	12969
 Age Distribution of SLMet Staff	18578
@@ -57,6 +59,8 @@ Amansie Central District	8025
 Amatole District Municipality	11343
 Amos Makasa District Education Officer	13392
 Amudat District	3005
+Amuru and Adjumani Districts	19715
+Amuru and Gulu Districts	19715
 Analytical Distinction and Empirical Variation	7966
 Andoharanpfotsy Distrika Atsimondrano	14488
 Andranovory District	14425
@@ -65,6 +69,8 @@ Angola's Distribution of Poverty Figure	10765
 Angola’s Distribution of Poverty	10775
 Angola’s Distribution of Poverty Figure	10775
 Annual District Education Operational Plan BECE	15796
+Annual Network and Distributed System Security Symposium	19654
+Annual Total Fiber Distance	19728
 Anse Boileau District Administration Office	19049
 Anse Etoile District Administration Office	19049
 Apparel Distribution	4972
@@ -76,6 +82,7 @@ Argent du Mérite PORTANT ATTRIBUTION DE DISTINCTION	17982
 Arrondissements du District de Bamako	17920
 Asokoro District	15728
 Assembleias Distritais Artigo	18751
+Assistant District	19715
 Au Cap District Administration Office	19049
 Audit Region District Presence of Distance	19541
 Automatic Call Distribution	16922
@@ -149,16 +156,19 @@ CAPITALES DE DISTRITALES Y MUNICIPALES CAPITALES	4209
 CAPITALES DE DISTRITALES Y MUNICIPALES CATEGORÍA	4209
 CAR Content Approval Registry DEO District	18564
 CARPINTERIAS EN GENERAL CAPITALES DE DISTRITALES	4209
+CCRs and District	19715
 CDE District Election Commission CEDAW Convention	12201
 CENDLOS Centre for National Distance Learning and Open	17196
 CENORED Central Northern Regional Electricity Distributor	12399
 CENTRAL District	13598
 CGAP's Shared Distribution Network	15044
 CHIEF DISTRICT SPECIAL MARKS REGISTRATION DATE	12410
+CONNECTIONS IN KIBOGA DISTRICT	19705
 CONTINEN. DISTRITALES TOTAL DIRECTIVO PROGRAMACIÓN PRESCOLAR	4209
 COVID-19 Social Relief of Distress	4667,2165
 CR Civil Registration DA District Administrator	12663
 CRI Disability-Adjusted Life Years DALYs District	11417
+CRIME DISTRIBUTION	19772
 CVI DU DISTRICT DE BAMAKO. Premier	17812
 CVI du District de Décret	17812
 Cabeceras de Distritos	4209
@@ -295,9 +305,11 @@ DALY Disability-Adjusted Life Year DHIS2 District	19284
 DANS LE DISTRICT DE BAMAKO	17828
 DAR EL OUAI EDITION ET DISTRIBUTION	15885
 DAS MULHERES NOS DISTRITOS	18757
+DC Data Centre DLG District Local	19660
 DC Kyerwa Kyerwa District Hospital	19541
 DCA Directorate of Civil Aviation DDOS Distributed	6946
 DDC District Development Coordinator DRP Disaster	13420
+DDO DRDIP Desk Officer DLG District	19647
 DDOS Distributed Denial of Service DoS Denial-of-Service	6671
 DDQM District Data Quality Monitor DFSs	16921
 DDoS Distributed Denial of Service DE Digital	6432
@@ -322,7 +334,7 @@ DHIS District Health Information System	2775
 DHIS District Health Information System DHS	13681
 DHIS District Health Information System USAID	766
 DHIS-2 District Health Information System	15479
-DHIS2 District Health Information Software	14666,393,3609,876
+DHIS2 District Health Information Software	14666,393,3609,876,123
 DHIS2 District Health Information System	10829,52,679
 DHIS2 District Heath Information Software	13341
 DHMIS District Health Management Information NIDS	396
@@ -341,6 +353,7 @@ DISTRIBUTED BY VERITAS	736,487,2537,768,7984,783,81,5,93,27,42,63
 DISTRIBUTED BY1V5E2RI7TAS	6621
 DISTRIBUTED GOVERNANCE ARCHITECTURE	3861
 DISTRIBUTION	15542,128,215
+DISTRIBUTION AND DENSITY	19715
 DISTRIBUTION AND GROWTH	13367
 DISTRIBUTION BY REGION	19544
 DISTRIBUTION DU TAUX DE MORTALITÉ DES	17843
@@ -356,6 +369,7 @@ DISTRIBUTION OF AQUACULTURE AND FISHING	17043
 DISTRIBUTION OF AQUACULTURE HOLDINGS	17043
 DISTRIBUTION OF CROP HOLDINGS	17043
 DISTRIBUTION OF DATA CENTER FACILITIES	10861
+DISTRIBUTION OF FIRE OCCURRENCES	19772
 DISTRIBUTION OF FISHING HOLDINGS BY SPECIES	17043
 DISTRIBUTION OF FORESTRY AND CHARCOAL	17043
 DISTRIBUTION OF FUNCTIONAL HEALTH FACILITIES	19544
@@ -392,7 +406,7 @@ DISTRIBUTIONS BY COMPANIES	3714
 DISTRIBUTIONS BY COMPANIES Requirements	3714
 DISTRIBUTOR SUB-DISTRIBUTOR	16942
 DISTRIBUTORS	11211,51
-DISTRICT	582,12718,87
+DISTRICT	582,12718,87,6385
 DISTRICT AUTHORITIES	19525
 DISTRICT CODE DISTRICT CODE Anse Aux	18951
 DISTRICT DE BAMAKO	17828
@@ -499,7 +513,10 @@ Distinct Households. Allocated	19242
 Distinct World Bank Angola	1176
 Distinction	9124,3321,591,4996,524,739
 Distinctions	17812
+Distinctive	19712
 Distinctive Characteristics Generative	14565
+Distinctive Mark	19712
+Distinctive Mark Regulations	19712
 Distingue	16962
 Distinguer	18099
 Distinguida	16894
@@ -572,6 +589,8 @@ Distributed Antenna System	718
 Distributed Cloud	4434
 Distributed Cloud Partner Validation Guide	4434
 Distributed Computation	6975
+Distributed Control Systems	19801
+Distributed Database Management System	19712
 Distributed Denial of Service	1777,2777,1878,1309,1035
 Distributed Denial of Service API Application Programming	6432
 Distributed Denial of Service Attacks	17746
@@ -583,9 +602,10 @@ Distributed Generation	11953
 Distributed Generation and Net Metering	16889,362
 Distributed Governance Architecture	3861
 Distributed Identifiers	14756
-Distributed Ledger Technologies	16942
+Distributed Ledger Technologies	16942,2722
 Distributed Ledger Technology	8093,1703,1334
 Distributed Ledger Technology DRR	16975
+Distributed Ledger Technology EMV	19664
 Distributed Ledgers	12210
 Distributed Limited	9237
 Distributed Operationalization	16212
@@ -613,7 +633,7 @@ Distributeurs Automatiques de HT	17833
 Distributeurs Automatiques de VISA	17833
 Distributi Volume of Value of Product	16878
 Distributing	8647,4861,1414
-Distribution	771,199,28,16,140,209,465,160,787,808,876,217,1064,1092,104,2,8,1323,141,194,395,124,493,865,282,1,11,94,85,21,156,4,1,52,4,3,3,73,251,41,18,372,2,21,257,23,5,97,9,9,23,14,32,14,99,209,165,31,12,1,146,268,2,41,9,32,39,111,30,214,156,398,66,1,1,132,197,21,18,9,29,51,50,12,8,32,7,29,79,91,218,1,68,32,4,26,66,15,28,2,9,77,84,84,30,38,26,132,134,283,102,5,132,2,68,14,15,16,30,47,84,30,79,133,374,100,3,20,1,2,25,51,56,13,265,7,2,9,25,33,88,24,70,4,15,348,3,9,17,217,76,124,194
+Distribution	771,199,28,16,140,209,465,160,787,808,876,217,1064,1092,104,2,8,1323,141,194,395,124,493,865,282,1,11,94,85,21,156,4,1,52,4,3,3,73,251,41,18,372,2,21,257,23,5,97,9,9,23,14,32,14,99,209,165,31,12,1,146,268,2,41,9,32,39,111,30,214,156,398,66,1,1,132,197,21,18,9,29,51,50,12,8,32,7,29,79,91,218,1,68,32,4,26,66,15,28,2,9,77,84,84,30,38,26,132,134,283,102,5,132,2,68,14,15,16,30,47,84,30,79,133,374,100,3,20,1,2,25,51,56,13,265,7,2,9,25,33,88,24,70,4,15,348,3,9,17,217,76,124,194,95,22,16,35,3,6,102
 Distribution Agency Agreement	11215
 Distribution Agency Agreements	11236
 Distribution Annex	12978
@@ -637,6 +657,7 @@ Distribution List Cabinet Office	12360
 Distribution List Waste	1988
 Distribution List for Notifications CERT-GH	775
 Distribution MT	15542
+Distribution Maintenance System	19677
 Distribution Master Plan	19239
 Distribution Media	16266
 Distribution Network	11857,542,6215
@@ -675,6 +696,7 @@ Distribution Unit PMC Preventive Maintenance Compliance	13185
 Distribution Utilise	14674
 Distribution and Access Project	1538,16946
 Distribution and Access Project. Budget	1538
+Distribution and Density	19715
 Distribution and Expiry of Drugs	14546
 Distribution and Retail	4972,10997
 Distribution des Cartes	16658
@@ -682,14 +704,17 @@ Distribution des Eaux	13743
 Distribution des Poissons	17904
 Distribution of Address Directories	11129
 Distribution of Adoption Gaps AI	7151
+Distribution of Adults	19715
 Distribution of Agricultural Holdings	17043
-Distribution of Agricultural Households	16921
+Distribution of Agricultural Households	16921,2794
 Distribution of Agriculture	16935
+Distribution of Agro Input Subsidies Project Performance	19633
 Distribution of Applications	1154
 Distribution of Aquaculture and Fishing Holdings	17043
 Distribution of Audits Conducted	13053
 Distribution of BTS	18931
 Distribution of Beneficiaries	10985
+Distribution of Benefits of Fuel Subsidies	19823
 Distribution of Brochures	12970
 Distribution of Business Enterprises	12445
 Distribution of CSO Communities Active Case Search	17289
@@ -702,11 +727,13 @@ Distribution of Courier Outlets	6000
 Distribution of Courier Outlets Operator Q3	6000
 Distribution of Crop Holdings	17043
 Distribution of Customer Deposits	17236
+Distribution of Deaths	19715
 Distribution of EA-samples	15574
 Distribution of ECOWAS	16935
 Distribution of EGDI	10840
 Distribution of Electricity	13624
 Distribution of Electricity In Burundi	13624
+Distribution of Emigrants	19715
 Distribution of Employment	15085
 Distribution of Entities Across ICT Compliance Level	19584
 Distribution of Establishments	15085
@@ -718,7 +745,8 @@ Distribution of GDP	11524
 Distribution of Health	15056
 Distribution of Higher Education Enrolment	14775
 Distribution of Holdings	17043
-Distribution of Households	2775,14146
+Distribution of Household Population	19715
+Distribution of Households	2775,14146,2794
 Distribution of ICT	236,6596,8253
 Distribution of IDI	17743
 Distribution of Judicial Officers and Practicing Lawyers	2775
@@ -739,7 +767,7 @@ Distribution of New Teachers	18460
 Distribution of Operators	3862
 Distribution of Parcels	17043
 Distribution of Plots	17043
-Distribution of Population	19542
+Distribution of Population	19542,173
 Distribution of Population Attending School	19542
 Distribution of Population Density	16921
 Distribution of Pregnant Girls	18460
@@ -754,17 +782,20 @@ Distribution of Readiness Stages Across Institutions25	15164
 Distribution of Readiness Stages Across Institutions32	15164
 Distribution of Readiness Stages Across Institutions53	15164
 Distribution of Recommendations	19585
+Distribution of Refugees	19715
 Distribution of Residence Status of Households	16921
 Distribution of Revenues of Roads	19602
 Distribution of Risk Across Geography and Work Mode	16266
 Distribution of Rural Literate Aged	19542
 Distribution of SIM	15663
+Distribution of Savers	19715
 Distribution of Single Age	16921
 Distribution of Surveyed Respondents	19555
 Distribution of TVET	14896
 Distribution of Tariffs	6671
 Distribution of Teachers	16935,1525
 Distribution of Techers	18460
+Distribution of Total Population	19715
 Distribution of Treated Mosquito Nets	17369
 Distribution of Types of TV Services	2776
 Distribution of Urban Literate Aged	19542
@@ -787,7 +818,8 @@ Distributors GoTV Kenya	6946
 Distributors Master Plans	12399
 Distributtiioonn	12256
 Distribué	9502,2522,3,2662,1200,514
-District	22,714,35,18,1035,164,354,135,466,848,411,796,1961,409,1301,2160,95,205,123,24,320,384,104,74,43,39,95,3,41,24,8,2,16,11,13,93,93,90,169,107,184,109,9,38,22,51,221,27,757,2,63,1,1,9,123,91,27,178,4,1,12,5,57,58,1,25,4,53,241,20,74,85,57,15,55,35,125,202,29,174,63,338,236,83,129,15,35,447,223,10,8,8,16,11,365,133,82,8,4,3,3,8,331,102,309,193,4,100,8,16,3,32
+District	22,714,35,18,1035,164,354,135,466,848,411,796,1961,409,1301,2160,95,205,123,24,320,384,104,74,43,39,95,3,41,24,8,2,16,11,13,93,93,90,169,107,184,109,9,38,22,51,221,27,757,2,63,1,1,9,123,91,27,178,4,1,12,5,57,58,1,25,4,53,241,20,74,85,57,15,55,35,125,202,29,174,63,338,236,83,129,15,35,447,223,10,8,8,16,11,365,133,82,8,4,3,3,8,331,102,309,193,4,100,8,16,3,32,126,10,3
+District ASSHU Coordinators	19799
 District Action Plan DEMISO	12175
 District Administration	13423
 District Administrations	19108
@@ -826,6 +858,7 @@ District Chaplain	12510
 District Chief	11716,369
 District City Formal Informal Microestablishment	15085
 District Code Guide	16604
+District Commercial Officers	19707
 District Commissioner	7503,5136,259,107,2050,2059,1455,956
 District Commissioner Abdullahi Hasan	2743
 District Commissioner for Livingstone	13477
@@ -902,9 +935,12 @@ District Education Boards Secretaries	13392
 District Education Inspector	13310
 District Education Management Information Systems Officers	12175
 District Education Office DEYS	12175
-District Education Officers	14922,2041
+District Education Officer	19776
+District Education Officer of Mayuge DLG	19776
+District Education Officers	14922,2041,2820
 District Education Offices	12175,3785,2500
 District Electoral Officers	13538,161
+District Engagement Forum	19760
 District Environmental Officer	17114
 District Environmental Officers	15138
 District Executive Administrator. Mayor of District	12338
@@ -931,7 +967,7 @@ District Health Information Management System	15556
 District Health Information Software	771,441,7164,1812,690,3,38,498,586,22,27,9,135,1433,993,44,232,25,552,237,247,397,66,445,29,26,19,30,1561,399,295,58,339
 District Health Information Software DIEM	15475
 District Health Information Software and National Health	15833
-District Health Information System	21,13,362,370,395,100,563,1967,558,3669,358,2400,53,52,1144,230,158,89,67,160,1313,1548,57,319,229,776,130,1428,16,83,522,134
+District Health Information System	21,13,362,370,395,100,563,1967,558,3669,358,2400,53,52,1144,230,158,89,67,160,1313,1548,57,319,229,776,130,1428,16,83,522,134,361,126,3
 District Health Information System DHRMD Department	12917
 District Health Information System Electronic Management	12037
 District Health Information System Version	12037
@@ -960,10 +996,11 @@ District Hospitals Figure	18478
 District Hospitals Regional Referral Hospitals Document	19576
 District Households Women Men Children	18441
 District Hôpital Général Hôpital Régional Institut	15599
-District IT Officers	18460
+District IT Officers	18460,1247
 District Identifier	13298
 District Imihigo ReportsMINALOC	13418
 District Infrastructures	19585
+District Inspectors of Schools	19783
 District Internal Security Officer	2928
 District Isandra Commune Sahambavy District Lalangina	14425
 District Isandra District Vohibato	14425
@@ -988,6 +1025,8 @@ District Level Coordination Committee	12338
 District Level District Grievance Committee	17114
 District Level N Figure	15056
 District Loans Verification Committees	19585
+District Local Governments	19747
+District Local Governments of Koboko and Yumbe	19647
 District Local Revenue	16163
 District Magistrate	11,14703,1,4,23,1
 District Magistrate Port Louis	14727
@@ -1009,6 +1048,7 @@ District One Stop Centers	15019
 District Oversight Committee Members	18496
 District Performance Assessment Tool	1512
 District Postal Manager	11129
+District Project Implementation Committee	19643
 District Publicity Officers	18464
 District Registrar	3285,9211,509,1402,5134
 District Registrars	12523,1176
@@ -1059,10 +1099,14 @@ District Wide Birth Registration During Q3	13080
 District Wise Birth Registration During Quarter	12241
 District Wise Death Registration During Q3	13080
 District Wise Likoma	12241
+District Woman Representative	19737
+District and City	19715
+District and City Education Officers	19799
 District and City Election Commissions	12201
 District and CoK	14935
 District and Community	12964,14
 District and Community Levels	16860
+District and Constituency	19715
 District and County	17099
 District and County Education Officers	17233
 District and Embassy	12338
@@ -1182,7 +1226,7 @@ District. The Committee	19520
 District. Un	17861
 District1	19413
 District14 CHAPTER	15085
-Districts	718,2090,578,405,1279,3929,2130,214,832,45,21,87,85,592,75,60,145,62,14,31,6,20,54,152,998,247,56,10,12,109,199,322,108,27,12,22,507,274,306,34,229,3,140,606,452,167,39,29,885,103,5,16
+Districts	718,2090,578,405,1279,3929,2130,214,832,45,21,87,85,592,75,60,145,62,14,31,6,20,54,152,998,247,56,10,12,109,199,322,108,27,12,22,507,274,306,34,229,3,140,606,452,167,39,29,885,103,5,16,119,42,13,22,8,31
 Districts APPENDIX Table	18464
 Districts Adolescent Birth Rate Total Fertility	18441
 Districts And Areas In Which Registration	12138
@@ -1197,6 +1241,7 @@ Districts Redevelopment UNFPA-supported	19615
 Districts Sanitaires	18105,192
 Districts Songwe	19541
 Districts Strategic Interventions	14935
+Districts and Cities	19715
 Districts and CoK	14935
 Districts de Côte	15712,224
 Districts de Madagascar	14622
@@ -1357,6 +1402,7 @@ Ekumfi District Assembly Launches Major Business	16076
 Ekumfi District Assembly URL	16076
 Election of District Council Chairman	18467
 Electric Plc JED Jos Electricity Distribution	12062,6124,31
+Electric Power Distribution	19646
 Electric Power Generation and Distribution Company	15480
 Electrical Transmission and Distribution Co. T-24 CORE	19584
 Electricity Distributer Organize	12399
@@ -1370,6 +1416,7 @@ Electricity Distribution Reliability Indices	15740
 Electricity Distribution and Retail	15659,310
 Electricity Distribution and Supply Agency	18463,113
 Electricity Distribution and Supply Authority	1538,8642,8304,82
+Electricity Distribution and Unique Mobile Access Comparison	19728
 Electricity Tariff Approval for Nimba and Bong Distribution	16978
 Electricity and Distribution Company	18488
 Electricity and Distribution Supply Authority	18537
@@ -1417,6 +1464,7 @@ FLASH TIC Le District	19417
 FORM OF WARRANT OF DISTRAINT	11976
 FY Distribution	12969
 FY17 Energy Transmission and Distribution	15702
+Factories Distribution Vehicles Steel	19712
 Fair Competition and Market Distortion The Joint	6748
 Fair Distribution of Inputs	10931
 Falaba District	18460,4,120
@@ -1442,6 +1490,7 @@ GBV Survivors District	10829
 GRATUIT Distributeurs Automatiques	17833
 GTS Distribution	14622
 Ga South District	16511
+Gaborone and Central Serowe Districts	19702
 Gakenke District	15208,1
 Gakenke District Murundi Kanama Shyira Mugunga	12413
 Gakenke Gatsibo District	12413
@@ -1462,6 +1511,7 @@ General Assembly Distr	16958,976
 Generalized Error Distribution	15620
 Generate and Distribute Electricity	16978
 Generation Transmission On-grid Distribution Clean	18537
+Generation and Distribution	19663
 Generation and Management of OSR for Districts Legal	13418
 Geographic Distribution and National Resilience In Nigeria	10157
 Geographic Distribution of Businesses	12445
@@ -1517,6 +1567,7 @@ Health Information System DMO District Management	771
 Health Initiative District Health Information Software	15599
 Health and Safety PDA Payment Distribution Agent	11198
 Hodan District	15164
+Hoima District	19706
 Homens Distribuição	10777
 Honoring Distinguished Leaders Who Have Supported	13816
 Honors Top Performing Districts	15208,1
@@ -1603,8 +1654,10 @@ Juba Electricity Distribution Company	18614
 Judicial Districts	17441
 Juez Distrito	4209
 Juez de Distrito	4209
+KANUNGU DISTRICT URL	19724
 KEDCO Kano Electricity Distribution Plc	12062,6124,31
 KIDAL ET DISTRICT DE BAMAKO. STRUCTURES	17812
+Kabarole and Ntoroko Districts	19715
 Kabompo District	13392
 Kadjebi District Assembly	7457
 Kailahun District	18460,4
@@ -1628,6 +1681,7 @@ Kambia and Kailahun Districts GOPA-GIZ Prototype	18478
 Kambia and Port Loko Districts GOPA-GIZ Pilot	18478
 Kamonyi District	718
 Kamonyi District. Imports	718
+Kanungu District	19724
 Kaoma District	1867,121
 Karene District	18460,4
 Karluway District	17151
@@ -1647,6 +1701,7 @@ Kenya's National Long Distance	2814
 Kenya. Mitsumi Distribution	6299
 Kgatleng and Ramotswa Districts	12552
 Kibaale District	7771
+Kiboga District	19705,40
 Kicukiro District	15056
 Kicukiro District. RURA	718
 Kilindi District Council	19585
@@ -1666,6 +1721,8 @@ Kumasi District	16604
 Kumi Distict	3005
 Kumi District	3005
 Kurunegala District	7759
+Kween District	19798
+Kweneng East District	19702
 Kyebi District Office	16511
 Kyerwa District Hospital	19541
 L'ENDROIT HÔPITAL DE DISTRICT	13300
@@ -1698,6 +1755,7 @@ Lesotho’s Mafeteng District	4636
 Letaba Hospital and Tshwane District Hospital. Quarterly	11986
 Letter D&R Distribution and Retail DRC Democratic	15659
 Level DISTRICT	18460
+Liberalisation of Distribution Activities	19661
 Liberia CI Critical Infrastructure DDoS Distributed	1777
 Life Years DHIS2 District Health Information	16896,26
 Lilongwe District Socio-	12253
@@ -1741,6 +1799,7 @@ MINALOC LODA District	14935
 MINICT District	14935
 MOH and Districts	13005
 MOHAIS and Kalumbila District Council	1988
+MONTHLY CRIME DISTRIBUTION	19772
 MONTHS Province District Clinics Community Health	11252
 MORADOR DE RUA DISTRITO JUNTO FAMÍLIAS	18802
 MUNICIPAL AND DISTRICT ASSEMBLIES	15790
@@ -1762,12 +1821,15 @@ Mangue Coordinadora Distrital de Nsok Nzomo Ilma	16920
 Manyame Rural District Council	13584
 Maracha District Health Officer Russel Okudra	11773
 Masaiti District	3524
+Masaka District	19774,37
 Maseru District	3570
 Mathias Shimanga Chuunga District Education Board	13392
 Mauritius’ Black River District Published	14769
 Mauritius’ Black River District URL	14769
+Mayuge District	19808
 Mayuge District. The Government of Uganda	4217
 Mba Nsue Nzeng Inspector Distrital de Nsok	16920
+Mbarara District	19660
 Mbare District	12510
 Media Distinguished Guests Ladies and Gentlemen Bo	12692
 Medicine DMEO District Monitoring and Evaluation Officers	18478
@@ -1775,6 +1837,7 @@ Meetings and Procefetdings of District Councils	19525
 Meheba Refuge Settlement Kalumbila District	1988
 Meio de Residência Distribuição	18775
 Meio de Residência Distribuição da Localização	18775
+Member of Parliament for Nwoya District	19814
 Mensual PROVINCIAS DISTRITOS Importe Mensual Importe	4209
 Metropolitan Municipal and District Assemblies	16524
 Metropolitan and Municipal District Assemblies	789
@@ -1783,6 +1846,7 @@ Michael Masiapato Distinguished Guests	6196
 Micheweni District	5855,38
 Micheweni District Headquarters	5855
 Micheweni District. Responding	5855
+Microfuse Computer. The Open Distance	19660
 Mikue Coordinador Distrital de Evinayong Ilmo. Sr	16920
 Milange District	12180
 Milange District. Contact	12180
@@ -1803,6 +1867,7 @@ Monze District	13637
 Monze District. Final Report. Lusaka and Washington	13332
 Monze District. Hon. Members	13387
 Mope Inspector Distrital de Bata Ilmo. Sr	16920
+Moroto District	19724
 Moyamba District	18460,4
 Mpongwe District	3524
 Msalala District Council and Kibaha Municipal Council	19585
@@ -1810,13 +1875,15 @@ Mubende District	4133
 Mudende Gatsibo Cyungo Kabarore Rubavu District	12413
 Mueda District	2667
 Mugesera Rurenge Nasho Karongi District Gitesi	12413
+Mukono Districts. Refugees	19727
+Mukono and Wakiso Districts	19715
 Mulheres Distribuição	10777
 Mulobezi District Commissioner	2386
 Mungwi and Kaputa Districts	13477
 Municipal and District Assemblies	7457,1617,5139,1,71,1816,152,221,122,1121
 Municipal and District Assemblies ML Machine Learning	4126
 Municipal and District Chief Executives	15927,669
-Municipal and District Councils	14721,25
+Municipal and District Councils	14721,25,4999
 Municipalities and District Councils	14836
 Municipality and District Total Volume	8999
 Musanze District	5889
@@ -1855,6 +1922,8 @@ NamPower Generators NamPower Distribution Transmission	12399
 Namayingo District	3005
 Name of Officer of District Court Signature of Officer	7845
 Namwala District	12408
+Namwambula-Mpigi District	19706
+National Census Council and District	19715
 National Council of Regions and Districts	7766
 National Data Distributor	4098,1822
 National Data Distributor LY-NDEX	17091
@@ -1872,6 +1941,7 @@ Ngera Nzahaha Kibeho Gisagara District Niboye	12413
 Ngorongoro District Council	19585
 Nguema Esono Coordinador Distrital de Kogo Ilmo	16920
 Nguema Ndong Akumu Inspector Distrital de Akúrenam	16920
+Ngwaketse West District	19702
 Nigeria Distributed Access	11468,1
 Nigeria Distribution	11469
 Nigeria Distribution Sector	11469
@@ -1888,6 +1958,7 @@ Non Distribuée	16714,1154
 North East District. FM	12552
 North West District	12618
 North West District.She	7672
+North-West District	19651
 Northern Electricity Distribution Company	15740,856
 Northern Province and Chama District	13477
 Northern Regional Electricity Distribution Company	12399
@@ -1977,9 +2048,9 @@ Paramount Chief of Voinjama District	16970
 Paramount Chief of Zorzor District	16970
 Parlamento Portavoz Grupo Parlamentario Supervisor Distrital	4209
 Payment of Utilities Findings Marondera District Office	13420
-Percentage Distribution	2775,14146,193,2428,15
+Percentage Distribution	2775,14146,193,2428,15,158
 Percentage Distribution Agricultural Households	16921
-Percentage Distribution of Agricultural Households	16921
+Percentage Distribution of Agricultural Households	16921,2794
 Percentage Distribution of Average Household Size	16921,193
 Percentage Distribution of BEP	2775
 Percentage Distribution of Crop Harvest Uses for Banana	19554
@@ -1988,19 +2059,30 @@ Percentage Distribution of Crop Harvest Uses for Cash	19554
 Percentage Distribution of Crop Harvest Uses for Cereals	19554
 Percentage Distribution of Crop Harvest Uses for Pulses	19554
 Percentage Distribution of Crop Harvest Uses for Selected	19554
+Percentage Distribution of Deaths	19715
 Percentage Distribution of Dwelling Unit	2775
+Percentage Distribution of Emigrants	19715
 Percentage Distribution of Establishments	19557
-Percentage Distribution of Households	16921
+Percentage Distribution of Household Population	19715
+Percentage Distribution of Households	16921,2794
 Percentage Distribution of Households Engaged	16921
 Percentage Distribution of Households Used Seeds	19554
+Percentage Distribution of Household’s Main Methods of Solid	19715
+Percentage Distribution of Immigrants	19715
 Percentage Distribution of Land Parcels	2775
+Percentage Distribution of Mobile	19715
+Percentage Distribution of Older Persons	19715
 Percentage Distribution of Other Nationals	16921
 Percentage Distribution of Persons	16921
+Percentage Distribution of Persons Aged	19715
 Percentage Distribution of Persons With Some Form	16921
+Percentage Distribution of Population	19715
 Percentage Distribution of Population Aged	19542
 Percentage Distribution of Population Aged Five Years	19542
 Percentage Distribution of Population Aged Four Years	19542
 Percentage Distribution of Residential Properties	2775
+Percentage Distribution of Savers	19715
+Percentage Distribution of Youth	19715
 Percentagem Idade Homens Mulheres Distribuição	18762
 Permit for Distinctive Mark	18600
 Phalombe District	12241
@@ -2015,13 +2097,15 @@ Pnge Kayonza District Ile Bugarura Bwira	12413
 Policy and Regulation Department Central Business District	11861
 Polling Districts	13598
 Population By Administrative Districts	18464
-Population Distribution	12383,4533,5,1554,429
+Population Distribution	12383,4533,5,1554,429,811
+Population Size and Distribution	19715
 Population of Household Distribution	16921
 Port Loko District	18453,7,4,75,49
 Port Loko District. The NCRA Chairman	18497
 Post Restante Special Delivery Service District	11129
 Postal and DISTRIBUTED BY VERITAS	13443
 Postcode. District	11129
+Poverty Distribution Across the Country	19728
 Poverty and Income Distribution	19526
 Power DER Distributed Energy Resources DFFE	11228
 Power Distribution Network Project	18220
@@ -2038,6 +2122,7 @@ Primer Ministro Juez Comarcal Juez Distrito	4209
 Priority Districts	11890
 Priority Districts Critically Needing Coverage Counties	17239
 Private Sector and Collaborators Distinguished Guests	14772
+Probable General Psychological Distress	19715
 Procurement Consultant. The County and District	16921
 Production Transport Distribution Hors-réseau Cuisson	18967
 Production and Distribution of Educational Materials	10776
@@ -2087,6 +2172,7 @@ Red de Distribución de MT	4209
 Rede de Distribui	18896
 Referenced Assessment DE Distance Education EIT	13960
 Reformas Macro Distribuição	16487
+Refugees and District Local Authorities	19760
 Region District Presence of Distance	19541
 Region District Registration Centre Visited Operation	19541
 Region Prefecture Health Districts Population	10829
@@ -2097,6 +2183,7 @@ Regional Distribution of FM Stations	2776
 Regional Distribution of Jobs	19284
 Regional Electricity Distributor GDP Gross Domestic	12399
 Regional Electricity Distributors	12399,642,92
+Regional Tower Distribution	19728
 Regional and District	10970,8550
 Regional and District Census Coordinators	19542
 Regional and District Commissioners	19616
@@ -2119,7 +2206,7 @@ Representante da Câmara Distrital de Mé-Zóchi	18760
 Representative Yekeh Kolubah of District	17419
 Republic of Congo DSO Distribution System Operator	15659
 Research and Statistics Department Distribution	17236
-Resident District Commissioners	5731
+Resident District Commissioners	5731,13980
 Residents of Karluway District	17151
 Responsables Distribue	10876
 Responsible District	17114
@@ -2254,7 +2341,10 @@ Solwezi District	13378
 Solwezi and Kalumbila Districts of Northwestern	1988
 Sonelgaz Distribution	3286
 Sous-Préfecture du District de NDANGUI	15973
+South East District	19702
 South Tongu District	17656
+South-East District Council	19654
+South-East District of Botswana	19654
 Southern District of California	11342
 Southern Regional Electricity Distributor	13088
 Special COVID-19 Social Relief of Distress Grant	6832
@@ -2311,7 +2401,7 @@ Total. District	19413
 Town and District District Steering Committee Governmental	19520
 Tozeur. District5	19413
 Transmission Distribution MV Distribution LV Voltage	14745
-Transmission and Distribution	11152,1615,2180
+Transmission and Distribution	11152,1615,2180,4716
 Transmission and Distribution Department	14745
 Transmission and Distribution Grid	13054
 Transmission and Distribution Infrastructure	14947
@@ -2330,6 +2420,8 @@ UPS Output Distribution UPS	9123
 US District Court	9188
 UTxO Distributed	11130
 Uasin Gishu and Embu Districts	12151
+Uganda Electricity Distribution Company	19646
+Uganda Electricity Distribution Company Limited	19705,58
 Underdeveloped Distribution Brain Drain	14997
 Unequal Distribution of Technology Arab	2958
 Uneven Resource Distribution and Infrastructure Gaps	6936
@@ -2360,6 +2452,7 @@ WFP Distribution	17257
 Wakiso District	9696,7987
 War and Civil Disturbance	704,1,430,406,1,683
 Wealth Quintile Education National District Data	18441
+West Nile District Local Governments	19647
 Western Area Rural District	18459,1
 Western Area Rural District Council	18467
 Western Area Rural District Council. Rollout	18500
@@ -2372,6 +2465,7 @@ Windhoek DRE Distributed Renewable Energy ECB	12399
 Windhoek District Hospital	12421
 Wire Distribution System	15515
 World Cup Distribution Through Orange Deal	3437,3942,47
+XII POLICING REGIONS AND DISTRICTS	19772
 Xicheng District	15399
 YELLO DISTRIBUTION Traitement	10821
 Yola Electricity Distribution Plc	12062,6124,31

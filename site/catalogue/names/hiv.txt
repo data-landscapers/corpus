@@ -60,7 +60,7 @@ HFA Faith Based Organizations HIV Geographical	19520
 HIV AIDS	1038,12953
 HIV AND AIDS	13399
 HIV Advocacy Diagnosis	15206
-HIV CBS	15156
+HIV CBS	15156,4615
 HIV Contem	966
 HIV Contém	966
 HIV Counseling	16971
@@ -107,7 +107,7 @@ HIV Testing of Pregnant Women	15247
 HIV Tests	4260
 HIV Treatment	16951
 HIV Viral	18627
-HIV and AIDS	21,1967,5199,1292,2655,657,462,669,24,92,1683,53,65,408,478,1226
+HIV and AIDS	21,1967,5199,1292,2655,657,462,669,24,92,1683,53,65,408,478,1226,2695
 HIV and AIDS Amendment Act	14742
 HIV and AIDS Care	16971
 HIV and AIDS NGO Non-Governmental Organization NSSV	12939
@@ -160,6 +160,7 @@ HiViCare Digital Access UCC	9781
 High HIV	13163
 High-Level Drug and HIV Council	14742
 Hive Advisory Africa	7409
+Hive Colab	19642,18
 Hive Colab Digital	11017
 Hive Collab	2676
 Hive Digital Technologies' Buzz	7140
@@ -177,6 +178,7 @@ Immunization FP Family Planning HIV Human	771
 Infections HIV	12151
 Inno-Lia HIV	13300
 Institute HIV Human Immunodeficiency Virus ICT	16852
+International HIV	19712
 Kumasi Hive	4126
 Lab Commodities HIV Rapid Test Kits	4217
 Laboratory Commodities Lab Commodity Amount HIV	4153
@@ -235,6 +237,7 @@ STIs and HIV	10829,1424,2953
 STIs and HIV and AIDS	12253,4698
 Salaam. Hivi	5090
 Services for HIV	19544
+Sex and Age Disaggregated HIV	19646
 Smart Hives	14818
 Software Committees HCT HIV Counselling and Testing	396
 Spread of HIV and AIDS	12253

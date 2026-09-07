@@ -78,6 +78,7 @@ Board of Trustees and General Assembly	13477
 Board of Trustees and Vacancy	18601,1
 Board of Trustees of ASCON	7329
 Board of Trustees. The UASF Board of Trustees	12558
+Body Uganda Strengthens Digital Trust	19791
 Bolster Digital Trust and Compliance	2987
 Boost Transparency and Trust	10345
 Brand Trust	3487
@@ -92,6 +93,7 @@ Build Trust	14434
 Building Public Trust	4235
 Building Sierra Leone’s Digital Trust and Transaction	9344
 Building Trust	3679,1094,27,444,5853,134
+Building Trust Infrastructure for Uganda	19723
 Building Trust Through Collaboration and Cyber Resilience	14691,7,2875
 Building Trust Through Responsible Management	13510
 Building Trust and Accountability	17078
@@ -105,7 +107,7 @@ Burkina Faso Trung Q. Duong	16467
 Burundi. Trung	8062
 C SERTIFIEO TRUE COPY ARTICLE VINGT-SIXIÈME.-	15999
 C TERTIFIED TRUE COPY	15999
-CAPTURE TRUNCATED	12901,7,1,72,6,43,25,28,228,396,5,10,17,97,5,2,4,14,24,4,19,31,977,9,2,2,5,42,38,15,2,28,37,94,240,5,7,16,98,44,116,884,1994,8,2,1,7,3,2,2,6
+CAPTURE TRUNCATED	12901,7,1,72,6,43,25,28,228,396,5,10,17,97,5,2,4,14,24,4,19,31,977,9,2,2,5,42,38,15,2,28,37,94,240,5,7,16,98,44,116,884,1994,8,2,1,7,3,2,2,6,1041,1,22,1,35,21,14,12,2,9
 CAPTURE TRUNCATED AT FETCH CHARACTER CAP	15434,38,96
 CAPTURE TRUNCATED HERE AT THE FETCH	16941
 CEO of Digital Trust Technologies	6371
@@ -163,9 +165,13 @@ Certification Authority and Digital Trust Centre	2692
 Certification Authority and Digital Trust Centre. GPW	2681
 CfBT Education Trust	14851
 Chairperson Board of Trustees	6536
+Cheque Imaging and Truncation System	19664
+Cheque Imaging and Truncation System CPO	19664
 Cheque Truncation Project	12286
 China. President Trump	9027
 Christian Brothers Ruben Centre Trust Registered	7167
+Closing Gaps and Building Trust	19693
+Closing the Gaps and Building Trust	19695
 Color True	17140
 Commission for Truth	3583,15032
 Commission for Truth Reconciliation and Healing	18615
@@ -255,6 +261,7 @@ Donald Trump	767,2049,1311,207,180,521,113,68,1971,1573,1072,897,2538,265,775,36
 Donor Trust Fund	19284
 Dorothy Springer Trust	18515
 Download Trust Privacy Terms Accessibility	9429
+Drive Trust and Efficiency	19710
 Drivers of Trust	11007
 Driving Inclusive and Trustworthy AI	19298
 Driving Inclusive and Trustworthy AI URL	19298
@@ -262,7 +269,7 @@ E CERTIFIEE CONFORME CERTIFIED TRUE COPY	15999
 E CERTIFIEE CONFORN N RTIFIED TRUE	15999
 E CONFORME ERVICE ERTTFIED TRUE COPY	15485
 EAC Regional Framework for Trusted Cross Border	8426
-EDUCATION TRUST FUND	13860
+EDUCATION TRUST FUND	13860,5975
 EMERGING TRUST EQUATION	11138
 ERTIFIED TRUE CGPV	15530
 ERTIFIED TRUE COP	15999
@@ -342,6 +349,7 @@ Financial Sector Deepening Trust of Tanzania	656
 Financing Agreement Trust Funds	16384
 Finmark Trust Financial Sector Development Strategy	12701
 Finmark Trust Survey	418
+Firewall ZTA Zero Trust Architecture	19801
 FlCHIER LEG CERTIFIEE CONFÔRME CERTIFIED TRUE	15999
 Flatbed Trucks	12970
 Forest Climate Facility Trust Fund Commercial	15983
@@ -351,7 +359,7 @@ Founding Trustee of Umoja Conservation Trust	10596
 Framework The Bridgforte Trust Architecture Framework	11138
 Framework. A. Where Trust Breaks Down	11138
 Free and Trusted Data Flows. World Economic	1243
-Free-standing Single Purpose Trust Fund	14015
+Free-standing Single Purpose Trust Fund	14015,5820
 FreetownDorothy Springer Trust	18515
 Fund Board of Trustees	15340
 Fund the Trustees	11
@@ -441,7 +449,7 @@ Justice for Children Trust Birth Registration	13310
 KCB Bank Group and Diamond Trust Bank	8623
 KEMRI Welcome Trust	12151
 KGGTF Korean Green Growth Trust Fund	18293
-KOAFEC Trust Fund	9905,6879
+KOAFEC Trust Fund	9905,6879,3035
 KPMG-led True Value Assessment	9102
 Kawambwa Rebuilding Trust Through People	13521
 Kenya Education Network Trust	15164
@@ -451,6 +459,7 @@ Korean Green Growth Trust Fund	18293
 L CERTIFIED TRUELOPY ARTICLE SOIXANTIÈME.-	15999
 L CERTIFIEO TRUE	15999
 LEGIS COPIÉ-CERTIFIEE CONFORME C TCERTIFIED TRUE	15530
+Lack of Trust	19639
 Lagos State Employment Trust Fund	9549
 Last Mile A Trusted Web Activity	17969
 Launch the Pangolin Data Trust	12512
@@ -769,7 +778,7 @@ Truck	12256,2949,1801,361
 Trucker ID	2823
 Truckers	17367
 Truckers Association of Zambia	13403
-Trucks	1988,15018
+Trucks	1988,15018,2722
 Truction	15429
 Tructures	15429
 Trudeau	16011
@@ -817,7 +826,7 @@ Trunks	3862
 Trunsmilsi	16851
 Trupthi	8436
 Trus MOU	4349
-Trust	940,21,48,234,696,157,263,417,50,131,1128,100,16,167,398,7,371,97,3,37,68,136,85,106,3,296,172,55,10,159,15,30,2,125,146,104,41,102,11,61,52,91,4,18,69,11,25,35,177,58,147,191,28,136,24,51,78,3,86,51,328,40,4,50,284,26,175,67,135,26,69,436,205,33,376,23,87,3,17,92,187,44,88,16,122,22,227,167,148,23,6,106,1,18,1,95,124,13,14,56,36,111,8,59,47,105,13,241,205,150,42,147,188,14,391,199,313,28,80,13,65,82,163,17,5,103,220,132,6,38,111,414,756,44,42,31,95,105,3,20,400,179,27,604,182,25
+Trust	940,21,48,234,696,157,263,417,50,131,1128,100,16,167,398,7,371,97,3,37,68,136,85,106,3,296,172,55,10,159,15,30,2,125,146,104,41,102,11,61,52,91,4,18,69,11,25,35,177,58,147,191,28,136,24,51,78,3,86,51,328,40,4,50,284,26,175,67,135,26,69,436,205,33,376,23,87,3,17,92,187,44,88,16,122,22,227,167,148,23,6,106,1,18,1,95,124,13,14,56,36,111,8,59,47,105,13,241,205,150,42,147,188,14,391,199,313,28,80,13,65,82,163,17,5,103,220,132,6,38,111,414,756,44,42,31,95,105,3,20,400,179,27,604,182,25,1082,8,56,54
 Trust AI	7151
 Trust Account	12335
 Trust Africa. Ces	16714
@@ -853,7 +862,7 @@ Trust Framework Reference Architecture	8203
 Trust Framework and Trust Registry	5325
 Trust Freddy Herald Correspondent THE Civil	13699
 Trust Fuel	6355
-Trust Fund	2094,197,7928,495,1506,612,2699,452,49,27,863,1040,925
+Trust Fund	2094,197,7928,495,1506,612,2699,452,49,27,863,1040,925,932
 Trust Fund A2392	11525
 Trust Fund Amount Amount Amount Cancellati	2473
 Trust Fund Coordinator	13938
@@ -864,7 +873,7 @@ Trust Fund for Specialised Medical	7845
 Trust Fund for Specialised Medical Care	7845,6876,52
 Trust Fund for Specialised Medical Care Act	7845
 Trust Fund. Sub-component	19284
-Trust Funds	11417,488,483,1627,922,253,471,322,3301
+Trust Funds	11417,488,483,1627,922,253,471,322,3301,379,172
 Trust Funds I. STRATEGIC CONTEXT A	15743
 Trust GDP	14932
 Trust Gaps In Ghana's Digital Space	6936
@@ -881,6 +890,7 @@ Trust Lab	11138
 Trust Lab Bridgforte’s Trust Lab	11138
 Trust Linking	12209
 Trust Mark	14818
+Trust Models	19801
 Trust Payment	14897
 Trust Phase Strategic Initiative Identified Gap	14997
 Trust Phase Strategic Initiative Identified Gaps	14997
@@ -942,6 +952,7 @@ TrustNEW	19284
 Trusted	4300,1796,291,125,1036,137,46,129,566,23,670,16,1114,570,472,911,39,46,102,55,636,1228,97,413,524,1581,1,464,151,1001
 Trusted Artificial Intelligence	1814
 Trusted Brand	3487
+Trusted Corporate Leader	19651
 Trusted Cross- Border GSM Providers	10819
 Trusted Cross-border	1243
 Trusted Data Ecosystem	1204
@@ -961,6 +972,7 @@ Trusted Partners	13461
 Trusted S	9123
 Trusted Service Providers	17870
 Trusted Source for Accurate and Timely Updates	9989
+Trusted Subscriber Services	19699
 Trusted Third Party Identity Verification	2068
 Trusted Tour Operator Scheme	5533,1334,1,3305,1045,18,750
 Trusted Tour Operator Scheme DEPARTMENT	11986
@@ -988,7 +1000,7 @@ Trusts	3714,7562,3441,1050,834,2923
 Trusts Act	7845,6872,3,89,34
 Trusts Ord. No	19524
 Trustworthiness	1219,6059,9561
-Trustworthy	15491,721,620,7
+Trustworthy	15491,721,620,7,2962
 Trustworthy AI	1204,2922,402,3020,1559,1943,1462
 Trustworthy AI Adoption	1204
 Trustworthy AI Made	4528
@@ -1005,7 +1017,7 @@ Truth Commission. The Reparation Authority	3583
 Truth Tellers	10464
 Truth and Justice Commission	14742,9
 Truth and Justice Commission Act	14742
-Truth and Reconciliation Commission	16970
+Truth and Reconciliation Commission	16970,2685
 Truth and Technology Shehu Usman Dan Fodio	9390
 Truth-telling	18318
 Truthmatrix	8606
@@ -1033,6 +1045,8 @@ US President Donald Trump and Chinese	10444
 US. Despite President Trump	11154
 USAID Trust Fund	16960
 USAID. Trump	12227
+Uganda Energy Credit Capitalization Trust	19646
+Uganda Strengthens Digital Trust	19791
 Ugandans’ Trust	8352
 Umuhinzi Trust	17761
 Umuhinzi Trust Team	17761
@@ -1074,10 +1088,11 @@ YEI Trust Fund Mots-clés	16627
 Youth Entrepreneurship and Innovation Multi-Donor Trust Fund	567,373,15687
 Youth Entrepreneurship and Innovation Trust Fund	940
 Zealand Digital Identity Services Trust	3460
-Zero Trust	5677,116,1874,2570
-Zero Trust Architecture	5793,4928,1519,5506
+Zero Trust	5677,116,1874,2570,9564
+Zero Trust Architecture	5793,4928,1519,5506,2055
 Zero Trust Implementation CM-IDAM.S5 Management	10721
 Zero Trust Network Access	5793,5438
+Zero Trust Security Model	19801
 Zero Trust Strategy for Google Distributed Cloud	4434
 Zero Trust-aligned	5793
 Zimbabwe Multi-donor Trust Fund	13523

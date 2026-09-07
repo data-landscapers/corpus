@@ -51,7 +51,7 @@ CFA HT Opposition	17833
 CHALLENGES AND OPPORTUNITIES	940
 CHALLENGES AND OPPORTUNITIES FOR BIG DATA	19555
 CHALLENGES AND OPPORTUNITIES Francisca da Caridade Felix	10780
-CHANGE OPPORTUNITY	10835,3,130,902,16,466,1,135
+CHANGE OPPORTUNITY	10835,3,130,902,16,466,1,135,7334
 CONSIDERED OPPORTUNITIES AND RELATED PROJECTS	16884
 CONTRIBUTED Opportunity Why Namibia	5081
 Calculate Your Opportunity	10449
@@ -101,12 +101,13 @@ E-Commerce Business Opportunities	1154
 E. Energy Transition Opportunities	17257
 E.4 Economic Opportunity. Broadband	14723
 ECONOMIC OPPORTUNITY	12341
-ECONOMIC OPPORTUNITY Public Administration	12154,9
+ECONOMIC OPPORTUNITY Public Administration	12154,9,7490
 ECONOMIC OPPORTUNITY SCORE	10759
 EDUCATION AND EMPOWERMENT OPPORTUNITIES	16970
 EDUCATION AND EMPOWERMENT OPPORTUNITIES Bomi	16970
 ENQUÊTÉE OPPOSÉE	13300
 EXECUTION OPPORTUNITY IN AFRICA	10954
+EXPANDING OPPORTUNITIES FOR LEARNING	19835
 EXTERNAL ENVIRONMENT Opportunities Challenges	19520
 Economic Opportunities	11900
 Economic Opportunities and Legal Challenges. Police Paper	2816
@@ -114,10 +115,10 @@ Economic Opportunities for Resilience Project	16384
 Economic Opportunities for Zimbabwean Youth How Digital	12493
 Economic Opportunity	10759,209,8302
 Economic Opportunity Cameroon	10968
-Economic Opportunity Human Development	10835,3,1048,466,1,135
+Economic Opportunity Human Development	10835,3,1048,466,1,135,7334
 Economic Opportunity South Africa	11870
 Economic Opportunity and Human Development	11870,618
-Economic Women's Equality Opportunity The IIAG	10838,1032,482,136
+Economic Women's Equality Opportunity The IIAG	10838,1032,482,136,7334
 Economic Women’s Equality Opportunity The IIAG	10835,133,918,467
 Embracing AI Opportunity	6849
 Emerging Opportunities Annual Targets Responsibl	14935
@@ -137,7 +138,7 @@ Equal Opportunities Commission	14742,6,3
 Equal Opportunity Act	14760
 Equal Opportunity Card	18359
 Equal Pay and Employment Opportunities	12389
-Equal Socioeconomic Opportunity	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
+Equal Socioeconomic Opportunity	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
 Equal Socioeconomic Opportunity Sustainable Use of Land	10838
 Equalisation of Opportunities for Persons	12993
 Equality of Opportunity Strategy	1818
@@ -153,24 +154,25 @@ Events Resources Opportunities	16961
 Expand Digital Opportunities	6380
 Expand Energy Access and Economic Opportunity for Nearly	12747
 Expanding Opportunities for Learning	13860,56
-Expanding Opportunities for Learning Project	13938
+Expanding Opportunities for Learning Project	13938,5902
+Expanding Opportunities for Learning. Project ID	19835
 Experiences and Opportunities	19565
 Exploring Opportunities	6948
 FASO FOR AN ECONOMIC OPPORTUNITIES	16384
 FCFA HT PAR OPPOSITION Frais	17833
 FORCES FAIBLESSES OPPORTUNITES MENACES	17844
-FOUNDATIONS FOR ECONOMIC OPPORTUNITY	10835,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135
+FOUNDATIONS FOR ECONOMIC OPPORTUNITY	10835,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
 FOUNDATIONS FOR ECONOMIC OPPORTUNITY FOUNDATIONS	10759
-FOUNDATIONS FOR ECONOMIC OPPORTUNITY HUMAN DEVELOPMENT	10835,3,130,902,16,466,1,135
+FOUNDATIONS FOR ECONOMIC OPPORTUNITY HUMAN DEVELOPMENT	10835,3,130,902,16,466,1,135,7334
 FOUNDATIONS FOR ECONOMIC OPPORTUNITY PUBLIC ADMINISTRATION	10759,1130
 FOUNDATIONS FOR ECONOMIC OPPORTUNITY Public Administration	10759,78,1052,263,188,1
 Fair Market Competition RATING OPPORTUNISTIC STAGE	12214
 Financial Benefits Economic Development Impact Opportunity	12457
 Financing Opportunities and Challenges	18485
 Forces Faiblesses Analyse des Opportunités	17860
-Foundations for Economic Opportunity	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
+Foundations for Economic Opportunity	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
 Foundations for Economic Opportunity and Human	10835
-Foundations for Economic Opportunity and Human Development	10759,76,2,1315,11,178
+Foundations for Economic Opportunity and Human Development	10759,76,2,1315,11,178,7495
 Future Opportunities	12172
 Future Strategic Opportunities	4167
 Future and Powering Opportunity. Our Grids	13228
@@ -199,7 +201,7 @@ IV.3.3 Opportunités	19216
 IV.3.3 Opportunités Des	19216
 Identification des OPP	998
 Include Continuous Learning Opportunities	12675
-Inclusion and Foundations for Economic Opportunity	11886,2,452,12
+Inclusion and Foundations for Economic Opportunity	11886,2,452,12,7301,169
 Inclusion and Social Economic Opportunities	19585
 Inclusion and Social Economic Opportunities ROI Return	19585
 Inclusion and Socioeconomic Opportunities	19595
@@ -277,7 +279,7 @@ OPPORTUNITIES THREATS	4126
 OPPORTUNITIES The BP-2024	16883
 OPPORTUNITY	3184,1,1340,8455
 OPPORTUNITY CHALLENGES	10781,3701
-OPPORTUNITY SECURITY	10835,3,130,902,16,466,1,135
+OPPORTUNITY SECURITY	10835,3,130,902,16,466,1,135,7334
 OPPORTUNITY Saharan Africa	10995
 OPPORTUNITY The A Conception and Scoping	11006
 OPPORTUNITY The B Strategy and Design	11006
@@ -310,7 +312,7 @@ Opportunistic Stage The Connectivity	12214
 Opportunistic Stage The Government Pillar	12214
 Opportunistic Stage of Digital Readiness	12241,854
 Opportunistic Target	13095
-Opportunities	766,192,26,147,683,520,35,484,309,964,402,26,294,185,139,405,196,880,295,330,270,288,186,216,433,457,692,175,33,32,295,173,190,1,49,51,22,15,121,20,134,2,3,20,105,599,3,3,4,3,32,72,17,41,116,59,43,44,31,5,23,20,23,113,151,1,16,231,94,309,44,103,424,46,60,87,596,47,8,20,41,28,42,36,26,12,102,437,7,98,135,264,167,708,6,5,80,6,17,9,10,52,62,40,57,64,483,101,26,284,216,106,9,309,725,13,23,16
+Opportunities	766,192,26,147,683,520,35,484,309,964,402,26,294,185,139,405,196,880,295,330,270,288,186,216,433,457,692,175,33,32,295,173,190,1,49,51,22,15,121,20,134,2,3,20,105,599,3,3,4,3,32,72,17,41,116,59,43,44,31,5,23,20,23,113,151,1,16,231,94,309,44,103,424,46,60,87,596,47,8,20,41,28,42,36,26,12,102,437,7,98,135,264,167,708,6,5,80,6,17,9,10,52,62,40,57,64,483,101,26,284,216,106,9,309,725,13,23,16,145,110
 Opportunities Available Applications	9198
 Opportunities Considering	718
 Opportunities Economic and Window	16144
@@ -338,7 +340,7 @@ Opportunities and Barriers	11923
 Opportunities and Barriers With KOSAP	12191
 Opportunities and Benefits	16923
 Opportunities and Benefits Gambia’s IT Services	16923
-Opportunities and Challenges	5349,6861,189,2330,2237,1566
+Opportunities and Challenges	5349,6861,189,2330,2237,1566,1145
 Opportunities and Challenges Analysis	19520
 Opportunities and Challenges Financial	17870
 Opportunities and Challenges PILLAR I EXPAND GENERATION	18537
@@ -421,7 +423,7 @@ OpportunityOpportunity Use Case Use Case Strengthen	14566
 Opportunité	2342,13151,2386,400
 Opportunité de DSP	2342
 Opportunité de Délégation de Service Public	2342
-Opportunités	2342,907,7463,162,2390,77,1281,871,8,11,68,90,42,34,449,426,7,13,1182,1,29,29,14,207,1317
+Opportunités	2342,907,7463,162,2390,77,1281,871,8,11,68,90,42,34,449,426,7,13,1182,1,29,29,14,207,1317,225
 Opportunités Des	19502
 Opportunités D’une	17842
 Opportunités IDITIC	15512
@@ -441,7 +443,7 @@ Opposing the Court Applications	12912
 Opposite Bontana Hotel P.O. Box	12256
 Opposite Conex Gas Station	17334
 Opposite the Islamic	3386
-Opposition	1283,1807,493,1558,247,1637,558,286,483,3743,106,1186,890,442,23,11,88,460,1671,613,248,1328,58
+Opposition	1283,1807,493,1558,247,1637,558,286,483,3743,106,1186,890,442,23,11,88,460,1671,613,248,1328,58,559
 Opposition Activist Warns Against	7312
 Opposition Chief Whip	19161
 Opposition Chief Whip Hon. Abdul Karim	11651
@@ -481,7 +483,7 @@ Protection for Resilience and Opportunity Project	13111
 Providing Employment Opportunities	15578
 Providing Financing Opportunities	15578
 Provision of Economic Opportunities	18625
-Public Perception of Economic Opportunities	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
+Public Perception of Economic Opportunities	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
 Public Perception of Economic Opportunities Infrastructure	10759,1395
 Publications Opportunités	13338,2
 Qualité SWOT Strengths Weaknesses Opportunities Threats	17873
@@ -508,7 +510,7 @@ Risks and Opportunities	11140,170
 Robert Opp	4431,9230
 Rule of Law and Foundations for Economic Opportunity	12152
 SADC Opportunity For SADC	10570
-SAFETY FOUNDATIONS FOR ECONOMIC OPPORTUNITY Absence	10835,3,130,902,16,466,1,135
+SAFETY FOUNDATIONS FOR ECONOMIC OPPORTUNITY Absence	10835,3,130,902,16,466,1,135,7334
 SMEs Job Opportunities Created	15268
 SNDS OPPORTUNITES MENACES	18291
 SOMALIA FOR THE BUILDING OPPORTUNITIES	14976
@@ -516,8 +518,8 @@ SPECTRUM OUTLOOK AND FUTURE OPPORTUNITIES	5245
 SSN Opportunités Menaces	10874
 SWOT Analysis WEAKNESSES OPPORTUNITY THREAT	14835
 Score Rank Public Perception of Economic Opportunities	12152,188
-Secure Employment Opportunities	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
-Secure Employment Opportunities ACCOUNTABILITY	10835,3,130,902,16,466,1,135
+Secure Employment Opportunities	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Secure Employment Opportunities ACCOUNTABILITY	10835,3,130,902,16,466,1,135,7334
 Seize New Economic Opportunities	16960
 Seizing the Opportunity	10763
 Senegal. Opportunities	18370
@@ -529,9 +531,10 @@ Seychelles Police Department. Opportunities	18970
 Shared Opportunity	11234
 Sierra Leone Opportunities for Business Action	18487
 Slowing Deterioration. Foundations for Economic Opportunity	11888
+Slowing Improvement Foundations for Economic Opportunity	19836
 Socioeconomic Opportunities Project	18625,1
-Socioeconomic Opportunity for Women	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
-Socioeconomic Opportunity for Women Anti-Corruption	10835,3,130,902,16,466,1,135
+Socioeconomic Opportunity for Women	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Socioeconomic Opportunity for Women Anti-Corruption	10835,3,130,902,16,466,1,135,7334
 Somali National Job Portal for Employment Opportunities	5172
 Somalia's Building Opportunities and Outcomes	14983
 South Sudan Opposition Alliance	3583,15083
@@ -559,7 +562,7 @@ T-I19-2 Offering Opportunities	15713
 TH STREET-SINKOR OPPOSITE CONEX GAS STATION	17334
 TIRER PARTI DES OPPORTUNITES OFFERTES PAR	16037
 TIRER PARTI DES OPPORTUNITÉS QU’OFFRE UNE	18967
-TRANSPARENCY Secure Employment Opportunities	10835,3,130,902,16,466,1,135
+TRANSPARENCY Secure Employment Opportunities	10835,3,130,902,16,466,1,135,7334
 TURNING EXISTING CONSTRAINTS INTO FUTURE OPPORTUNITIES	14723
 Tags AI Opportunity Artificial Intelligence Pax	6849
 Taifa Burkina Opposite St. Dominic	3386

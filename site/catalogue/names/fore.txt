@@ -38,7 +38,7 @@ Agency FDA Forestry Development Authority FDI	17139
 Agri-Food and Foreign... Tunisia’s Extreme Heatwave Forces	7322
 Agricultural and Forestry Production	17114
 Agriculture Forestry and Fishing	2775
-Agriculture and Forestry	1161,11773,2151
+Agriculture and Forestry	1161,11773,2151,4627
 Agriculture and Forestry Output	17235
 Agriculture and Forestry-	15085
 Agriculture and Forests	18293
@@ -56,7 +56,7 @@ Arab and Foreign Forces	15492
 Armed Forces Day Deputy Foreign	17025
 Assessment European Union Forecast-based Financing	11156
 Assistant Director for Forest Development	11639
-Assistant Minister of Foreign Affairs for Economic and Trade	12983
+Assistant Minister of Foreign Affairs for Economic and Trade	12983,6711
 Atlantic Council’s Digital Forensic Research Lab	5252
 Atlas Forestal de Guinea Ecuatorial	16875
 Attract Foreign Investment and Expertise	12356
@@ -100,7 +100,7 @@ CLIMATE CHANGE AND FORESTRY STATE DEPARTMENT	14471
 COMMUNICATION AUTHORITY OF KENYA Foreword	6946
 COMPAORE PrE.ident of Fa.o MinISter of Foreign AIIa	11517
 CONTENT FOREWORD	15574
-CONTENTS FOREWORD	961,3165,13012
+CONTENTS FOREWORD	961,3165,13012,2552
 CONTENTS FOREWORDS EXEC SUMMARY FINDINGS CASE	5618
 CONTENTS FOREWORDS EXEC SUMMARY INTRODUCTION FINDINGS	5618
 CONTENTS Foreword	16874
@@ -183,7 +183,9 @@ Conduct National Forest Inventory Survey LISGIS	17116
 Congo Basin Forest	16996
 Congo FCDO Foreign	12006
 Conservation of Forest-Carbon Stocks	17140
+Contents FOREWORD	19647,125
 Contents Foreword	4528,7686,142,156,1031,1355,25,141,3465
+Contents List of Figures Acronyms Foreword	19728
 Contiguous and Foreign Countries	17745
 Contract FUP Forest Use Permit GBL	16843
 Control of Foreign Products	4045
@@ -238,6 +240,7 @@ Deforestation and Forest Degradation SDG-Fund	17101
 Degradación Forestal	16875
 Degraded Forest	17140
 Demand Forecast Model	18614
+Demand and Supply Forecasts	19646
 Departamento Forestal Miriam Minerva ONDO MBANG	16875
 Department Oumar Konté ANACIM Head of Forecasting	18309
 Department of Foreign Affairs and Trade	11868
@@ -254,7 +257,7 @@ Deputy Minister for Foreign Affairs	16285
 Deputy Minister for Foreign Affairs and East African	19538
 Deputy Minister of Foreign Affairs Ambassador Akuei	18658
 Deputy Prime Minister and Foreign Minister	16164
-Deputy Prime Minister and Minister of Foreign Affairs	12983,1493,2394,2673
+Deputy Prime Minister and Minister of Foreign Affairs	12983,1493,2394,2673,151
 Description Forest	17140
 Destination Foreign	15136
 Developed Countries LFSP Liberia Forest Sector	17140
@@ -405,6 +408,7 @@ FOREMI	2342,15525
 FOREN	17152
 FORENSIC AUDIT PUBLIC ENGAGEMENT PLATFORM CONTACTS	12557
 FORENSIC SCIENCE SERVICES	12984
+FORENSIC SERVICES	19772
 FOREST ALLOCATION The Forest Use Rights	16843
 FOREST CLIMATE FACILITY ADDITIONAL GRANT	15983
 FOREST MANAGEMENT OPERATIONS AND HARVESTING Forest	16843
@@ -423,7 +427,7 @@ FORETS	15936,163
 FORETS ET DE LA FAUNE	15999
 FOREWARD	16921
 FOREWARD BY THE PRIME MINISTER	14879
-FOREWORD	34,684,291,805,965,3653,506,4042,606,858,85,177,53,143,12,3,6,18,6,17,9,322,25,100,224,321,559,249,84,30,60,116,22,94,68,493,1230,146,22,97,132,503,584,21,3,146,44,128,723,12
+FOREWORD	34,684,291,805,965,3653,506,4042,606,858,85,177,53,143,12,3,6,18,6,17,9,322,25,100,224,321,559,249,84,30,60,116,22,94,68,493,1230,146,22,97,132,503,584,21,3,146,44,128,723,12,115,14,25,87
 FOREWORD AND EXECUTIVE SUMMARY SUMMARY	13420
 FOREWORD As Kenya	6432
 FOREWORD BY THE CHAIRPERSON	16968
@@ -432,6 +436,7 @@ FOREWORD BY THE COMMISSIONER GENERAL	14985,1983
 FOREWORD BY THE DEPUTY EXECUTIVE AUTHORITY	11224
 FOREWORD BY THE EXECUTIVE AUTHORITY	11224
 FOREWORD BY THE GOVERNOR	15023
+FOREWORD BY THE GOVERNOR A National	19664
 FOREWORD BY THE MINISTER	11193,25
 FOREWORD BY THE MINISTER OF FINANCE	12951
 FOREWORD BY THE RESIDENT AND HUMANITARIAN	14959
@@ -460,6 +465,7 @@ FOREWORD Malawi Growth and Development Strategy III	12917
 FOREWORD PREFACE The Ministry of Information	12917
 FOREWORD President Joseph Nyuma Boakai	17139
 FOREWORD Resident Representative	15244
+FOREWORD Rt. Hon. Speaker	19689
 FOREWORD Somalia	11136
 FOREWORD The Annual Health Sector Performance	19544
 FOREWORD The Electronic Government Division	12360
@@ -467,9 +473,11 @@ FOREWORD The Federal Ministry of Public Works	14934
 FOREWORD The Financial Sector Development Strategy	12701
 FOREWORD The Government	12453,892,54
 FOREWORD The Government of Sudan	15036
+FOREWORD The Ministry of Education and Sports	19690,93
 FOREWORD The Pharmacy and Poisons Board	9855
 FOREWORD The Rwanda Education Statistical Yearbook	15087
 FOREWORD The Standards Association of Zimbabwe	13385
+FOREWORD This Banking Supervision Annual Report	19650
 FOREWORD This Framework	18529
 FOREWORD Vital	12367
 FOREX	970
@@ -525,6 +533,7 @@ Forecasting Programme	15916
 Forecasting System AoE Assessment of Environment AVDP	18578
 Forecasting Unit	13365
 Forecasting and Agricultural Statistics	19555
+Forecasting and Data Management	19662
 Forecasting and Early Warning Support	13925
 Forecasting and Financial Intelligence	7691
 Forecasting and Policy Analysis System	17138
@@ -539,7 +548,7 @@ Forecasts for LTE	236
 Forefront	17106,81,79
 Forefront of Environmental Action Across UNDP Namibia	9873
 Forefront of Transformation Videos Rising Up for SIDS	11332
-Foreign	7,229,159,2002,62,317,50,87,157,417,96,71,391,81,1,455,359,28,13,262,411,209,544,15,246,268,1,12,598,668,85,539,64,32,107,356,171,23,37,22,20,67,284,107,27,178,403,55,6,42,139,151,2,1,2,54,34,74,171,55,26,142,231,32,1,44,6,36,109,24,52,42,1,45,98,7,25,45,6,272,3,33,78,142,29,148,113,32,11,30,74,71,13,323,80,9,28,23,16,108,75,214,315,48,1,8,103,101,61,44,34,43,163,278,592,25,614,1,90,18,12,6,160,11,87,21,164,274,78,490,181,9,88,56,200,244,324,167,10,60
+Foreign	7,229,159,2002,62,317,50,87,157,417,96,71,391,81,1,455,359,28,13,262,411,209,544,15,246,268,1,12,598,668,85,539,64,32,107,356,171,23,37,22,20,67,284,107,27,178,403,55,6,42,139,151,2,1,2,54,34,74,171,55,26,142,231,32,1,44,6,36,109,24,52,42,1,45,98,7,25,45,6,272,3,33,78,142,29,148,113,32,11,30,74,71,13,323,80,9,28,23,16,108,75,214,315,48,1,8,103,101,61,44,34,43,163,278,592,25,614,1,90,18,12,6,160,11,87,21,164,274,78,490,181,9,88,56,200,244,324,167,10,60,30,23
 Foreign AI	4528,7984
 Foreign Account Tax Compliance Act	6524,1,5160
 Foreign Adversaries Act	11154
@@ -621,7 +630,7 @@ Foreign Embassies and High Commissions	11956
 Foreign Embassy	17108
 Foreign Enterprise and Forced Divestment	11310
 Foreign Equity	14997
-Foreign Exchange	4896,2564,338,3333,5841,498,439,81,807
+Foreign Exchange	4896,2564,338,3333,5841,498,439,81,807,915
 Foreign Exchange Act	587,6353,820,5300,6121
 Foreign Exchange BCSTP	18797
 Foreign Exchange Bureaus	17235
@@ -807,7 +816,7 @@ Foreigner Identification Management System	16088
 Foreigner Registration Digital	13005
 Foreigner Travel Document	12333
 Foreigner's Residence Permit	11869
-Foreigners	1868,4625,1068,2756,458,204,921,302,7,18,256,1525,354,1483,1127,2630
+Foreigners	1868,4625,1068,2756,458,204,921,302,7,18,256,1525,354,1483,1127,2630,34
 Foreigners Authority	1868
 Foreigners Identification System	15430
 Foreigners Identity Management System	10822
@@ -833,7 +842,7 @@ Forensic Science Laboratory Acquisition of Light Utility	14830
 Forensic Science Laboratory Cadre Male Female	14742
 Forensic Science Services N	12984
 Forensic Scientist Cadre	14742
-Forensic Services	11188
+Forensic Services	11188,8558
 Forensic Support Officer	14742
 Forensic Technologists Cadre	14742
 Forensic Tool	26,18649
@@ -976,7 +985,7 @@ Forestry and Tourism	9353
 Forestry and Wildlife Authority	14089,54
 Forestry-based	17043
 ForestryFraud	11215
-Forests	1988,8771,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1074,1567,243,101,128,1013,239,143,144,1711,36
+Forests	1988,8771,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1074,1567,243,101,128,1013,239,143,144,1711,36,765,1,169,14
 Forests Act	13403,6121
 Forests Act No.4	1988
 Forests Land	10837,1315,188
@@ -989,9 +998,9 @@ Forests1	2775
 Foret	643
 Forets	16103,518
 ForewOrd South Africa	396
-Foreword	396,186,358,423,2496,669,320,396,2,840,340,2248,351,1739,80,292,52,9,1,39,13,15,67,231,588,81,1,123,47,10,99,140,107,161,33,52,48,113,189,4,23,3,33,125,138,184,24,99,10,5,521,22,188,11,30,37,7,77,20,6,37,97,8,56,9,115,3,224,1403,12,35,14,6,2,7,42,124,144,29,454,380,321,17,24,47,85,40,139,152,2,29,63,500,12
+Foreword	396,186,358,423,2496,669,320,396,2,840,340,2248,351,1739,80,292,52,9,1,39,13,15,67,231,588,81,1,123,47,10,99,140,107,161,33,52,48,113,189,4,23,3,33,125,138,184,24,99,10,5,521,22,188,11,30,37,7,77,20,6,37,97,8,56,9,115,3,224,1403,12,35,14,6,2,7,42,124,144,29,454,380,321,17,24,47,85,40,139,152,2,29,63,500,12,88,2,6,78,55
 Foreword Amid	18937
-Foreword Artificial Intelligence	19079
+Foreword Artificial Intelligence	19079,600
 Foreword As the Joint Government	13977
 Foreword Betty Pamela Wabunohua Resident Representative	17101
 Foreword Botswana	12541
@@ -1009,6 +1018,7 @@ Foreword From the Hon Deputy Minister	4528,7984
 Foreword From the Hon Minister	4528,7984
 Foreword From the Permanent Secretary	4528,7984
 Foreword From the President	4528,7984
+Foreword Globally	19647
 Foreword High	13359
 Foreword Higher	14775
 Foreword Honorable Ezekiel Peter Ching’oma	13005
@@ -1125,7 +1135,9 @@ INCIDENTAL TO THE FOREGOING	19161
 INCREASE REMOVALS Enhancement of Forest-Carbon Stocks	17140
 INNOVATIONS TO FOREIGN MARKETS	14004
 INVOLVED IN FORESTRY	17043
+IPPs. Foreseen	19677
 ITU. Foreword HIPSSA	26,1,1
+IV FOREWORD	19660
 IV. Forest Definition	17140
 IV. Forest Definition Table	17140
 Immediate Basis ESCCOM Foreign Direct Investment	12444
@@ -1339,9 +1351,10 @@ Ministry for Foreign Affairs of Finland	5235,8815
 Ministry for Foreign Affairs of Finland. The Memorandum	18213
 Ministry of Agriculture and Forestry	1161,10237,7078,7
 Ministry of Education FOREWORD The Rwanda Education	12411
+Ministry of Education and Sports MoFA Ministry of Foreign	19642
 Ministry of Environment and Forestry	3583,9106
 Ministry of Foreign	4126,7834
-Ministry of Foreign Affairs	11,576,38,438,1,179,965,459,69,760,796,236,112,607,617,409,444,382,651,1232,317,59,480,289,336,33,71,142,132,294,19,333,85,149,204,14,21,120,108,38,112,624,15,116,238,27,158,453,28,137,432,176,9,19,23,26,11,17,27,35,26,137,52,269,99,114,119,606,318,181,13,15,2,10,4,47,33,29,2,52,42,26,5,47,77,6,20,32,38,366,1045,101,56,52,90,85,41,377
+Ministry of Foreign Affairs	11,576,38,438,1,179,965,459,69,760,796,236,112,607,617,409,444,382,651,1232,317,59,480,289,336,33,71,142,132,294,19,333,85,149,204,14,21,120,108,38,112,624,15,116,238,27,158,453,28,137,432,176,9,19,23,26,11,17,27,35,26,137,52,269,99,114,119,606,318,181,13,15,2,10,4,47,33,29,2,52,42,26,5,47,77,6,20,32,38,366,1045,101,56,52,90,85,41,377,98,1,192
 Ministry of Foreign Affairs Minister of Foreign	17110
 Ministry of Foreign Affairs Monrovia	4202
 Ministry of Foreign Affairs Mr. Adelaid Ben	13744
@@ -1369,6 +1382,7 @@ Ministry of Foreign Affairs of Malawi	12983
 Ministry of Foreign Affairs of Morocco	14235
 Ministry of Foreign Affairs of Qatar	14668
 Ministry of Foreign Affairs of Sao Tome	18857
+Ministry of Foreign Affairs of Uganda	19694
 Ministry of Foreign Affairs. Inbound	15492
 Ministry of Foreign Aﬀairs	11135
 Ministry of Foreign Aﬀairs MICSTI	12674
@@ -1598,7 +1612,7 @@ Regional Insights and Forecast	10718
 Regional Training Strengthens Flood Forecasting	16239
 Regional and Global Frameworks. Ministry of Justice Foreign	1777
 Registration of Foreign Firms	12389
-Registration of Foreigners	13954
+Registration of Foreigners	13954,5807
 Regulating the Activity of Foreign Exchange	11960
 Remaining Forest	17140
 Rep. Gabon CAR Forests	16996
@@ -1722,19 +1736,20 @@ Sushma Swaraj Institute of Foreign Service. Renewables	19060
 Sushma Swaraj Institute of Foreign Services	18378
 Sustainable Forest	17140
 Sustainable Forest Management	17140
+Sustainable Forestry	19749
 Sustainable Management of Forests	17140
 Sustainable Management of Forests Land	17140
 Swamp Forest Woodland Savanna Sparse	16996
 São Tomé and Príncipe. Foreigners	18797
 TABLE OF CONTENT FOREWORD	7548,7437
-TABLE OF CONTENTS FOREWORD	34,1127,9819,1594,127,263,2123,92,1791,169,2405
-TABLE OF CONTENTS Foreword	15036
+TABLE OF CONTENTS FOREWORD	34,1127,9819,1594,127,263,2123,92,1791,169,2405,89,56
+TABLE OF CONTENTS Foreword	15036,4628
 TABLE OF CONTENTS Page Foreword	13420
 TERM VISION Prefácio Foreword	11366
 TRACTEURS ET MATERIELS AGRICOLES ET FORESTIERS	16103
 Table of Contents ABBREVIATIONS AND ACRONYMS FOREWORD	13982
 Table of Contents FOREWORD	12444,1030
-Table of Contents Foreword	5244,7430,672,1,3513,400,1688,131
+Table of Contents Foreword	5244,7430,672,1,3513,400,1688,131,563,25
 Table of Contents II About III Foreword	13977
 Table of Contents Vote Page Foreword	14546
 Tags Bureau of African Affairs Foreign Assistance	15092
@@ -1785,7 +1800,9 @@ US Foreign Account Tax Compliance Act	11685
 US Foreign Intelligence Surveillance Act	6477
 US Treasury Department’s Office of Foreign Assets	10793
 USDA Forest Service Research Paper SE-38	17157
+Uganda's Minister of Foreign Affairs	19694
 Uganda. Foreign Affairs Minister Adonia Ayebare	15330
+Ugandan Minister of Foreign Affairs	19694
 Uganda’s Ministry of Foreign Affairs	11075
 Ukraine Foreign	9067
 Under Secretary for Foreign Assistance	17110
@@ -1796,6 +1813,7 @@ United Kingdom Foreign	10768,3299,75,4435
 United Kingdom Foreign Commonwealth Development Office	18488,89
 United Kingdom Foreign and Commonwealth Development	18488,12
 United Kingdom's Foreign	6426,7111,1522,949,762
+United Kingdom's Foreign Commonwealth	19683
 United Kingdom’s Foreign	5172,3605,10809
 United Kingdom’s Foreign Commonwealth	18461
 United Nations FAS-Local Development Institute Foreign	10763

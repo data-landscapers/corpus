@@ -1,6 +1,7 @@
 A.1 Trabalhador Dependente Formula A.2	12018
 AUTRES DEPENSES	15999
 Africa Remains Dependent	8275
+Age Dependency Ratio	19715
 Agricultural Dependency	17157
 Alcoholism and Drug Dependence SAPS South African	11198
 Avoiding Project Dependency	16963
@@ -25,6 +26,7 @@ DEPENSES BUDGETAIRES Article	16047
 DEPENSES Biens	15999
 DEPENSES COURANTES	15999
 DEPENSES COURANTES Titre	15999
+DEPENSES D'ADMINISTRATION	19850
 DEPENSES DES BUDGETS GENERAL ET ANNEXES	15426
 DEPENSES DES MENAGES EN TIC	18204
 DEPENSES EN CAPITAL	3396,12603
@@ -55,7 +57,7 @@ Dependency	766,2182,3597,1186,3425,830,2685,493,3787,624,10
 Dependency Management	5665
 Dependency Mapping	6432
 Dependency Range Percentage No of Councils	19585
-Dependency Ratio	2775,14146
+Dependency Ratio	2775,14146,2794
 Dependency Ratio Dependency	16921
 Dependent	9129,2167,690,374,588,444,289,1215,446,3699
 Dependent Economies	13532
@@ -99,6 +101,7 @@ NHIF Principal Members and Dependents	2775
 Number Dependent	12360
 Number of Grants Care Dependency Grant	8999
 O8 DIRECTION ADMINISTRATIVE ET FINANCIERE DEPENSES	15670
+Old-age Dependence Ratio Child Dependence Ratio	19715
 PIPs. Depending	15924
 PLAFONDS DES DEPENSES DU BUDGET	16047
 Payment Gateway HIDU High Dependency Unit	19544
@@ -110,6 +113,7 @@ Radio and Television. Depending	12982
 Razão de Dependência	18768
 Reducing Dependence	14818
 Reducing the Continent's Dependence	4103
+Refugee Settlements. Depending	19715
 Resource Dependence and Fiscal Effort	1828
 SOURCES ET AUX PLAFONDS DES DEPENSES	16047
 Sequencing and Dependencies	17116

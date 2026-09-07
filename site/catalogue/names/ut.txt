@@ -49,6 +49,7 @@ Build Utilities	6421
 Bunge Yakagua Utekelezaji	19581
 Bunge. Uteuzi	19535
 Bus UTH University Teaching Hospital VoIP	34
+Buying Utilities	19702
 C UTILISER UN FILTRE	13300
 C UTILISEZ LE CALENDRIER POUR VÉRIFIER	13300
 C. TAARIFA YA UTEKELEZAJI WA MPANGO	19590
@@ -187,9 +188,11 @@ FGD UTG-Faculty of ICT Expect	16926
 FINANCIALLY SUSTAINABLE AND RELIABLE PUBLIC UTILITIES	18795
 FINANCIALLY VIABLE AND OPERATIONALLY COMPETENT UTILITIES	12563
 FUENTE DE LOS RECURSOS MONTO UTILIZACIÓN	4209
+Facilities and Utilities	19783
 Factor Utilization	13185
 Fiidow OA. Utilization	11596
 Financial Utilization ANNEXES	13095
+Financially Viable and Operationally Competent Utilities	19677
 Financials Utilities Banks Financial Services Energy	4972
 Financials and Utilities	4972
 Florentino Correia Utite	17338
@@ -286,6 +289,7 @@ La Rwanda Utilities Regulatory Authority	13282
 Land and Public Utilities	18619
 Large Composite Micro Utility License	16978
 Large Micro Utility Distribution License	16978
+Last Mile Connectivity and Full Utilisation of NBI	19633
 Liens Utiles	13579
 Limites da Utilização	10755
 Listagem de Utilizadores de Risco NIB	17032
@@ -309,6 +313,7 @@ Mahamud Utaama	15129
 Mahmud Utaama	15129
 Makindye Standards and Utilities Court	4235
 Makindye-based Standard Utilities and Wildlife Court	9781
+Management and Utilization of Energy Resources and Services	19646
 Manuais de Utilizador	12021
 Manual Utilização	12021
 Manual de Utilização	18866
@@ -423,6 +428,7 @@ Public Utilities Regulatory Authority URL	16889,228,39
 Public Utilities Regulatory Commission	15740,164
 Public Utilities Regulatory Commission Act	11
 Public Utilities and Juba County	18725
+Public Utility	19633
 Public Utility Research Center	16978
 Public Utility and Regulatory Authority	4543,12583,20
 Période Responsables Utilisation	14488
@@ -593,7 +599,7 @@ UTG University of The Gambia VNR Voluntary	16927
 UTG-Faculty of ICT Welcome	16926
 UTG. Sport Education	16852
 UTG. The Centre	17228
-UTGAM	13770
+UTGAM	13770,6057
 UTGFS	17870,36
 UTGFS Coordinator	17906
 UTH VL	13454
@@ -744,7 +750,7 @@ Utilisateurs de Statistiques Officielles	17978
 Utilisateurs du Réseau de Transport	10975
 Utilisateurs. Pour	17845
 Utilisatio	18014
-Utilisation	419,168,149,1,11,151,1085,1807,629,2366,1352,2088,485,110,53,2,89,10,822,147,1151,205,41,49,123,899,7,4,1,39,20,5,1,1,47,85,239,1,1,7,41,458,21,33,49,2,19,5,2,68,13,62,11,16,15,27,8,2,24,102,53,35,96,5,583,21,106,701,37,343,5,11,1,22,29,6,43,69,1,78,12,99,75,12,21,4,610,11,99,181,4,5,2,2,20,1,99
+Utilisation	419,168,149,1,11,151,1085,1807,629,2366,1352,2088,485,110,53,2,89,10,822,147,1151,205,41,49,123,899,7,4,1,39,20,5,1,1,47,85,239,1,1,7,41,458,21,33,49,2,19,5,2,68,13,62,11,16,15,27,8,2,24,102,53,35,96,5,583,21,106,701,37,343,5,11,1,22,29,6,43,69,1,78,12,99,75,12,21,4,610,11,99,181,4,5,2,2,20,1,99,324,118
 Utilisation CLA	14622
 Utilisation Commerciale	11593
 Utilisation Outputs Name	12241
@@ -781,7 +787,7 @@ Utilise AI-driven	14812
 Utilise Internet Caractéristiques	15498
 Utilise USF	958
 Utilise Zimbabwe Standards	13320
-Utiliser	1005,9282,587,2,134,53,2227,51,49,419,614,56,58,935,26,44,26,15,41,88,224,1512,376,21,57,81,31,85,78,27,63,24,635,300,134
+Utiliser	1005,9282,587,2,134,53,2227,51,49,419,614,56,58,935,26,44,26,15,41,88,224,1512,376,21,57,81,31,85,78,27,63,24,635,300,134,285
 Utiliser Excel	747
 Utiliser Votre	18177,90
 Utiliser la TIC	13290
@@ -799,7 +805,7 @@ Utilisé	13375,4570
 Utilisée	10286,5009
 Utilisées	18315
 Utilit	9123
-Utilities	718,252,970,3032,1621,2019,2244,160,280,660,443,4,259,13,242,54,6,891,868,211,526,120,595,790,1697,213
+Utilities	718,252,970,3032,1621,2019,2244,160,280,660,443,4,259,13,242,54,6,891,868,211,526,120,595,790,1697,213,789,35,89
 Utilities Advertising	16266
 Utilities Climate	970
 Utilities Insurance Financial Services Banks Information	4972
@@ -821,7 +827,7 @@ Utilities and What That Means	5124
 Utilities and Wildlife Court	7771,2792
 Utilities-related	15085
 Utilities. The Government of Sierra Leone	18537
-Utility	34,684,530,7875,692,1154,915,1,10,264,1,45,51,95,7,41,88,187,421,219,310,386,937,568,3022
+Utility	34,684,530,7875,692,1154,915,1,10,264,1,45,51,95,7,41,88,187,421,219,310,386,937,568,3022,1117,58
 Utility Annually	15845
 Utility Companies	12896
 Utility Double	14738
@@ -845,12 +851,12 @@ Utility Service Providers	12674,4425
 Utility Service Providers Component	17099
 Utility Service Providers Concerns	17099
 Utility Service Providers Request	17114
-Utility Services	12389,7185
+Utility Services	12389,7185,101
 Utility Services Utility	9123
 Utility Strengthening Activity	87
 Utility Turnaround	18537
 Utility-scale	11953
-Utility-specific	12399
+Utility-specific	12399,7278
 UtilityInnovation Group	17732
 Utilité	13390,3101,957
 Utilité Imikorere	1214
@@ -969,7 +975,9 @@ V. UTILITY STRENGTHENING AND FINANCIAL VIABILITY	18537
 VENTE OU UTILISATION DE BIENS	17825
 VII. BUDGET UTILISATION FOR FINANCIAL YEAR	12598
 WA RAIS Uteuzi	19535
+Water Utilities Corporation	19654
 Water Utility	718,10061
+Work Towards Financially Viable Utilities	19677
 YA KWANZA MASHARTI YA UTANGULIZI	19535
 YA NUU KUWASILISHA UTEKELEZAJI WA UHAMIAJI	19619
 YA UTAYARI WA KUKABILIANA NA MAGONJWA	19561

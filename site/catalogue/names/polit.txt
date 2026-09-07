@@ -41,6 +41,7 @@ Authors and Affiliations Political Science Department	17780
 Axe1 Politique	18121
 Axe4 Politique	18121
 B Political Pluralism and Participation B1	17967,217
+B. Political Pluralism and Participation	19848
 B. Politique	18063
 Bachelor of Political Science	6946
 Bamako Civil and Political Rights	17950
@@ -171,7 +172,7 @@ ENTRE O INSTITUTO POLITÉCNICO DE VISEU	17103
 EQUALITY Equal Political Power	10759,78,1052,451
 EQUALITY Equal Political Power Equal Political	10759
 EU-Seychelles Political Dialogue	18927
-Economic Complexity PTS Political Terror Scale	10835,3,130,902,16,466,1,135
+Economic Complexity PTS Political Terror Scale	10835,3,130,902,16,466,1,135,7334
 Economic and Political Development	16861
 Economic and Political Studies	4676
 Editor for Politico Newspaper	11651
@@ -181,9 +182,10 @@ Electoral Commission and Represented Political Parties' Fund	11986
 Electricity Political	10976
 Elevage DPES Document de Politique Economique	18286
 Emploi Documents Documents de Politique Bilans PNR	17888
-Equal Political Power	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1,135
+Equal Political Power	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1,135,7164,1,169,14
 Equal Political Power Equal Political Representation	10837,1315,188
-Equal Political Representation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
+Equal Political Representation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Equal Political Representation Equal Civil Liberties	19822
 Equality WOMEN'S EQUALITY Political Power	10759
 Equality Women's Equality Political Power	12152
 Equality Women’s Equality Political Power	12340
@@ -242,6 +244,7 @@ INCITER DANS SA LETTRE DE POLITIQUE	18967
 INSTITUTO POLITÉCNICO DE VISEU CONCURSO	17103
 INTITUTO POLITECN	4209
 IRSEA. Political	10779
+IV. DIALOGUE SUR LES POLITIQUES SECTORIELLES	19687
 India- Guinea Bissau Relations Political Relations	11579
 India-Burkina-Faso-26.pdf Political Relations Burkina Faso	16256
 India-Equatorial Guinea Relations Political Relations India	17240
@@ -301,6 +304,7 @@ La Politique	1679,11662,101,1046,1,1,1101,1156,1098,138,303
 La Politique Nationale	17845,138
 La Politique Nationale Genre	17845
 La Politique Nationale Qualité	13329
+La Politique Nationale Sanitaire	19645
 La Politique Nationale de Développement des TIC	13290,16
 La Politique Nationale de Développement des Technologies	13442
 La Politique Nationale de Nutrition	17845
@@ -454,7 +458,7 @@ Politi	13325
 Politica Nacional De Proteção Social	11547
 Politica Nacional de Competéncias Digitais	17312
 Politica de Seguranca Cibernetica	795
-Political	571,369,30,191,100,3,510,40,63,219,1461,157,413,131,172,133,262,36,364,308,470,805,130,513,197,185,53,60,20,414,192,78,293,180,192,154,66,17,41,23,26,317,103,26,58,192,387,40,3,7,4,50,12,20,115,157,3,19,1,29,8,44,73,107,108,20,311,18,7,1,23,4,7,70,199,16,5,4,4,13,106,13,30,2,79,44,258,59,73,26,88,262,81,33,37,114,78,51,616,452,106,44,17,69,255,122,136,40,140,3,2,314,459,164,105,153,5,22,11,26,2,3,16,6,11,10,15,26,3,3,1,19,102,18,103,29,484,97,146,342,100,1,295,713,53,95
+Political	571,369,30,191,100,3,510,40,63,219,1461,157,413,131,172,133,262,36,364,308,470,805,130,513,197,185,53,60,20,414,192,78,293,180,192,154,66,17,41,23,26,317,103,26,58,192,387,40,3,7,4,50,12,20,115,157,3,19,1,29,8,44,73,107,108,20,311,18,7,1,23,4,7,70,199,16,5,4,4,13,106,13,30,2,79,44,258,59,73,26,88,262,81,33,37,114,78,51,616,452,106,44,17,69,255,122,136,40,140,3,2,314,459,164,105,153,5,22,11,26,2,3,16,6,11,10,15,26,3,3,1,19,102,18,103,29,484,97,146,342,100,1,295,713,53,95,23,99,11,87,12
 Political Adviser	15879
 Political Advisor	10509
 Political Affairs	7182,270,6957,102,1732,1693
@@ -519,16 +523,16 @@ Political Party Support Kenya's Political Landscape	7869
 Political Party They Support	7869
 Political Party Total Central Rift Coast	7869
 Political Party With ECN	12350
-Political Pluralism	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
-Political Pluralism Security	10835,3,130,902,16,466,1,135
-Political Power	5418,5341,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1460
+Political Pluralism	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Political Pluralism Security	10835,3,130,902,16,466,1,135,7334
+Political Power	5418,5341,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1460,5704,1,169,14
 Political Problems Unusually High Level	16902
 Political Reckoning	4619
 Political Regimes and Inflows of Foreign Direct Investment	11310
 Political Regions	13081
 Political Relations	16164,113,1739
 Political Representation	7452
-Political Rights	14852,3115,217
+Political Rights	14852,3115,217,1664
 Political Risk	11310
 Political Risk Insurance	11310
 Political Risk and International Valuation	11310
@@ -537,6 +541,7 @@ Political Situation	7452
 Political Stability and Absence of Violence	14897,2099
 Political Stabilization and Reform	11586
 Political Structure	14742
+Political Terror Scale	19653,183
 Political Terror Scale RSF Reporters	10759,78,1052,451
 Political Violence	17870
 Political Weapon	14277
@@ -545,7 +550,7 @@ Political Will and Legal Foundation Building the Foundation	14137
 Political and Economic Affairs Office	17571
 Political and Economic Integration	1814
 Political and Economic Origins of Our Time	5700
-Political and Governance	969,898,845,892,1084,1851,4229,61,41,94,453,108,35,295,110,211,264,618,273,1,588,990,27,39,55,487,35,68,37,486,254,307,1199,200,94,95,8,476,32,436,39
+Political and Governance	969,898,845,892,1084,1851,4229,61,41,94,453,108,35,295,110,211,264,618,273,1,588,990,27,39,55,487,35,68,37,486,254,307,1199,200,94,95,8,476,32,436,39,359,192,12
 Political and Governance High	15190
 Political and Governance Moderate B. Overall Risk	15411
 Political and Governance Substantial	11380,525,3756
@@ -604,7 +609,7 @@ Politicsweb	10058
 Politik-	615
 Politiki	14861,241
 Politiqu	13325
-Politique	737,448,53,61,1440,367,2467,1088,316,180,655,260,244,420,149,6,11,278,147,10,69,74,140,373,507,19,189,166,1,7,40,53,2315,74,69,9,198,302,547,1,47,146,683,102,4,16,5,48,98,4,15,15,25,14,8,4,7,7,31,129,3,32,3,29,56,84,43,1,8,18,52,95,6,176,23,33,66,8,7,40,37,101,629,13,65,301,9,5,1,3,11,16,1,1,5,3,20,81,8,105,7,15,3,15,2,5,65,57,41,10,15,6,59,4,2,1,564,5,232,9,37,31,10,75
+Politique	737,448,53,61,1440,367,2467,1088,316,180,655,260,244,420,149,6,11,278,147,10,69,74,140,373,507,19,189,166,1,7,40,53,2315,74,69,9,198,302,547,1,47,146,683,102,4,16,5,48,98,4,15,15,25,14,8,4,7,7,31,129,3,32,3,29,56,84,43,1,8,18,52,95,6,176,23,33,66,8,7,40,37,101,629,13,65,301,9,5,1,3,11,16,1,1,5,3,20,81,8,105,7,15,3,15,2,5,65,57,41,10,15,6,59,4,2,1,564,5,232,9,37,31,10,75,478
 Politique Agricole	16359,1756
 Politique Cadre de Développement	17827
 Politique Commune Genre	18100
@@ -612,6 +617,7 @@ Politique Conseil	15854
 Politique Culturelle Nationale du Mali	17827
 Politique Economique	6163,1492,10631
 Politique Européenne	11050
+Politique Fiscale	19687
 Politique Fiscale DGEFRI Direction Générale des Etudes	11944
 Politique Foncière	14598
 Politique Foncière Agricole	16718
@@ -629,7 +635,7 @@ Politique Le Ministre	16473
 Politique Linguistique du Mali	17827
 Politique Natio	17827
 Politique National de Développement des Technologies	13442
-Politique Nationale	9567,1346,52,959,1366,152,1128,904,22,125,180,164,34,530,4,214,1080,15,3,53,85,94,26,2,13,3,15,2,19,108
+Politique Nationale	9567,1346,52,959,1366,152,1128,904,22,125,180,164,34,530,4,214,1080,15,3,53,85,94,26,2,13,3,15,2,19,108,1380
 Politique Nationale Genre	13442,4536
 Politique Nationale Genre du Burundi	13331
 Politique Nationale Pénale	18224
@@ -732,6 +738,7 @@ Politécnica	9099
 Politécnico Tundavala	10780
 Politécnicos de Malabo	4209
 President. Political	18198
+Presidential Candidates and Political Parties	19737
 Principe Relations Political Relations	18857
 Progress and Challenges C. Political	13969
 Progrès POLITIQUE NATIONALE DE SANTE	15423
@@ -747,9 +754,10 @@ Province Political Party Valid Votes Percentage	12201
 Président du Comité National de Politique	10500
 Président du Comité de Politique Monétaire	17816
 Public Administration and Political Science	6946
-Public Perception of Political Participation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
+Public Perception of Political Participation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
 Public Perception of Political Participation Access	11886
-Public Perception of Political Participation FOUNDATIONS	12163,178
+Public Perception of Political Participation FOUNDATIONS	12163,178,7312
+Public Perception of Political Participation RIGHTS	19822
 Public Perception of Political Participation Rights	10759,1395
 Public Services Political Power	11870
 Publicité Carrières Politique	16242
@@ -841,6 +849,7 @@ UVRE DE LA POLITIQUE GENERALE	14529
 UVRE DE LA POLITIQUE NATIONALE	18100
 Une Politique	748
 Unequal Political Voice	2096
+United Nations High-level Political Forum	19803
 Unité de Politique Fiscale	10712,7303
 Universidade Pedagógica and Instituto Superior Politécnico	12786
 Universidade Politécnica	9099
@@ -851,7 +860,7 @@ VISION La Politique Nationale de Genre	18100
 VOTERS Political	12378
 Vision La Politique Nationale de Santé	15423
 Vouloir Exécuter Une Commande Politique Politique	4960,62,2035
-WELFARE Equal Political Representation	10835,3,130,902,16,466,1,135
+WELFARE Equal Political Representation	10835,3,130,902,16,466,1,135,7334
 WOMEN'S EQUALITY Political Power	10759,78,1052,451
 Washington. Political	4617
 Women Political Leaders. Closing	4036

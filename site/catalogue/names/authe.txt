@@ -14,6 +14,7 @@ Acts Authentication Act Cap A2	11853
 Acts Authentication Act Cap. A2	11976
 Adaptive Authentication	11231
 Africa Happily Authenticated	3470
+Apply Multi-Factor Authentication	19801
 Article Authentic	18985
 Audit Trail and Node Authentication	1009
 Audit Trail and Node Authentication Clinical Context	1009
@@ -25,7 +26,7 @@ Authenticate	16983,2593
 Authenticated	6423,4707,1081,4632
 Authenticated Authenticate Authenticat	19576
 Authenticates NIRA Authenticates	15061
-Authentication	1009,930,410,1512,749,253,381,1143,36,855,2151,309,983,54,37,7,334,28,691,80,4,190,213,45,126,429,352,840,699,204,7,457,1323,37,1091,480,298,136,290,64,288
+Authentication	1009,930,410,1512,749,253,381,1143,36,855,2151,309,983,54,37,7,334,28,691,80,4,190,213,45,126,429,352,840,699,204,7,457,1323,37,1091,480,298,136,290,64,288,114
 Authentication Article	14911
 Authentication Authentication	12364
 Authentication Code and QR Code	13606
@@ -56,6 +57,7 @@ Authentication for Head Nurses	11892
 Authentication for Loan Agreement	12333
 Authentication of Documents	585
 Authentication of Health Care Information	1009
+Authentication of IT Training	19642
 Authentications	12496
 Authentications Requirements	12496
 Authenticator	9902
@@ -73,6 +75,7 @@ Availability of Electronic Signature and Authentication	12389
 B. Authentication	15161
 Base Registries Other Authentic Sources Open	17097
 Basic Authentication	11872
+Biometric Authentication	19699
 Biometric Authentication Relying	15061
 Biometric Membership Authentication System	16218
 Broken Authentication	3214,12545
@@ -94,12 +97,14 @@ DIGITAL IDENTITY AND AUTHENTICATION	12161
 Democratize Authentication	12244
 Democratize Secure Authentication Date	12244
 Designated Authentication Authority	11199
+Digital Authentication and Electronic Signatures Solutions	19699
 Digital Identity and Authentication Implement	14566
 Digital Identity and Authentication Systems	5244
 Digital Identity and Authentication Systems The National	5244
 Digital Service Authentication	14752,38
 Digital Service Authentication and Cybersecurity Another	14752
 Digital Service Authentication and Trust	14752,38
+Digitally Authenticate Yourself	19699
 Document Authentication and Registration Service	12500
 Documents Authentication and Registration Service	1784,668,749,3881,3627
 Domain-based Message Authentication	13037,1404
@@ -126,7 +131,7 @@ Kerberos Network Authentication Service	1009
 Lagos Happily Authenticated	3929
 Moniepoint Happily Authenticated	2310
 Multi Factor Authentication	10721
-Multi-Factor Authentication	4610,1183,4928,510,764,1042,1509,3200,1859
+Multi-Factor Authentication	4610,1183,4928,510,764,1042,1509,3200,1859,196
 Multi-factor Authentication	12302,904
 Multifactor Authentication	11216
 NIMC Authentication App	18259
@@ -136,6 +141,7 @@ NIN Authentication Service	4861
 NIST Electronic Authentication Guidelines NIST.SP.800-63	10819
 NITDA Happily Authenticated	3942
 National Authentication Framework	14741,255
+National Authentication Provider	19699
 National Authentication and Access Control Service	12455,1251
 National Electronic Authentication Authority	15197,1
 National Electronic Authentication Authority Address	15198
@@ -151,6 +157,7 @@ Parti Authenticité	8891,2944
 Prescription Authentication and Validation	9855
 Privé I L I S Authentification	3381
 Protecting Authentication Tools	15198
+Public Register of Authentic Travel and Identity Documents	19636
 RELYING PARTIES AND AUTHENTICATION SERVICE	12146
 SECTION THREE Relying Parties and Authentication Service	12146
 SECTORAL DEMAND FOR IDENTIFICATION AND AUTHENTICATION	10775

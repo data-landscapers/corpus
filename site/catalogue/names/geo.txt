@@ -62,8 +62,9 @@ C. George	3782
 CIRCUNSTANCIAS NACIONALES Geografía	16875
 CMU-Africa's George Okeyo	17761
 CONTACT US VGT4AFRICA and GEOSUCCESSSPOT NDVI	11334
+Cartography Geographic Information Science	19654
 Center for Geographic Information and Digital	15622
-Central Africa Geography	10837
+Central Africa Geography	10837,8815
 Central Africa. Geography	11887
 Central Bank of Georgia	9709
 Centre for Geographic Information Services	18904
@@ -78,6 +79,7 @@ Cobertura Geográfica	18768
 Communication World Geodetic System Management	1009
 Communications Minister Samuel Nartey George	8765
 Community Recovery and Local Governance Geographical	14925
+Comparison of Address Point and Street Geocoding	19654
 Configuração Geométrica	11384
 Conrad C. Daly and Tina George Karippacheril	1217
 Consumer GIS Geographic Information System HR	14965
@@ -140,7 +142,7 @@ ET DE LA GEOLOGIE	15395,44,119,102,84
 ET DE LA GEOLOGIE AUTORISATION D’EXPLOITATION	15692,156
 ET DE LA GEOLOGIE Autorisation	15692,156
 EU Geographical Indications	14630
-Eastern Africa Geography	12341
+Eastern Africa Geography	12341,7495
 Eastern Africa. Geography	12163
 Economic Geography	226
 Economic and Geopolitical Challenges	11400
@@ -184,6 +186,7 @@ GDP Gross Domestic Product GIS Geographic	17149
 GEMS Geo-Enabling	17962
 GENERAL FRAMEWORK A. GEOGRAPHIC	14742
 GEO SDG Awards	13394,81
+GEO Satellites	19728
 GEO-INFORMATION SERVICES I Statement of Publication	16935
 GEO-LEO	2294,682
 GEOAMIS	19565
@@ -272,7 +275,7 @@ Geo-information Science and Earth Observation	15552
 Geo-political	940,10189
 Geo-political Zones	11129
 Geo-redundant	11952
-Geo-referenced	18359
+Geo-referenced	18359,1383
 Geo-referencing	13322
 Geo-resilient	19259
 Geo-spatial	18904
@@ -281,6 +284,7 @@ Geo. J. Int’l Aff	2518
 GeoAI	5226,5535,3945,3277
 GeoComply	10293
 GeoData Center	17983
+GeoDataFrame	19654
 GeoHazards Risk Mapping Initiative	14706
 GeoHub	1043,860,9193
 GeoJSON	1984,3801,8120,3211
@@ -290,7 +294,9 @@ GeoNames	1828
 GeoNetwork	13645
 GeoPackage	5785
 GeoPackage. Failure	5785
-GeoPandas	12547
+GeoPandas	12547,7107
+GeoPandas DataFrame	19654
+GeoPandas Framework	19654
 GeoPoint	6423
 GeoPoll	6102
 GeoPortal	7130
@@ -301,6 +307,8 @@ GeoSphere Austria	18578
 GeoSphere Austria Authors	18578
 GeoSphere Austria and Deutscher Wetterdienst	18578
 GeoTIFF	16411
+Geocoding	19654
+Geocoding for Home Healthcare Application and Management	19654
 Geocomputing	6832
 Geocoton	10841
 Geodesia	15388
@@ -315,7 +323,7 @@ Geoeconomic Competition	4676
 Geoeconomics	4676
 Geoff Huston	2677
 Geoffrey	12478
-Geoffrey Agoi	5343
+Geoffrey Agoi	5343,14366
 Geoffrey Andare	17745
 Geoffrey GREENWELL	16400
 Geoffrey Hinton	8380
@@ -367,7 +375,7 @@ Geographic Information System GSA	16975
 Geographic Information System GoC Government of Congo	15659
 Geographic Information System SOFF	18309
 Geographic Information System-based	19214
-Geographic Information Systems	1222,10719,13,27,380,301,245,1182,1,31,22,563,953,1316,141,241,773,774
+Geographic Information Systems	1222,10719,13,27,380,301,245,1182,1,31,22,563,953,1316,141,241,773,774,750
 Geographic Information Systems Division	17170
 Geographic Information Systems HCT HIV Counseling	16935
 Geographic Information Systems HDI	14857
@@ -390,13 +398,15 @@ Geographic and Population Coverage	6000
 Geographic and Sectoral Segmentation	15179
 Geographic information system	5785
 GeographicReference	4856
-Geographical	10829,304,2,720,296,176,6,80,210,723,603,903,204,286,262,1263,11,64,5,210,1144,169,434,628,2
+Geographica Pannonica	19654
+Geographical	10829,304,2,720,296,176,6,80,210,723,603,903,204,286,262,1263,11,64,5,210,1144,169,434,628,2,194
 Geographical Areas	19541
 Geographical Constituency	14852
 Geographical Coverage	7763,4192
 Geographical Coverage ATM	11955
 Geographical Coverage Delivery	7763
 Geographical Coverage Percentage	18485
+Geographical Coverage and Scope	19712
 Geographical Coverage of Preventive Chemotherapy	19544
 Geographical Coverage of Terminals	11955
 Geographical Coverage of Terminals ISLANDS OF CV	11955
@@ -426,7 +436,7 @@ Geographical and Ecological Characteristics	12151
 Geographically	4863,20,3082,2310,76,448,3930,872,1257,2713
 GeographicÂ	18887
 Geographies	11310
-Geography	6051,1914,1541,41,641,647,3,74,56,181,88,34,234,365,16,55,212,199,1,60,75,487,103,265,1363,142,48,160,3522,28
+Geography	6051,1914,1541,41,641,647,3,74,56,181,88,34,234,365,16,55,212,199,1,60,75,487,103,265,1363,142,48,160,3522,28,1216
 Geography Figure	12413,2643
 Geography Teacher’s Association	12975
 Geography and Economic Background The Republic of Liberia	17367
@@ -447,7 +457,8 @@ Geological Investigations for Small-Scale Mining	16511
 Geological Mapping	13474
 Geological Office	13733
 Geological Services	13122
-Geological Survey Department	13060,63
+Geological Survey Department	13060,63,6523
+Geological Survey and Mines Directorate	19646
 Geological Survey of India	13561,3679
 Geological Surveys	13093
 Geological and Minerals Development Bill	13387
@@ -533,6 +544,7 @@ George Partridge	14346
 George Piaptie	15480
 George R. Clarke	13314,2160,19
 George Sibanyama Engineer	13392
+George Sibewalwa	19705
 George Sibiya	1009
 George Silundika Avenue Cnr. S. V	13420
 George Simbachawene	3085,1302
@@ -602,7 +614,7 @@ Geoscience Australia. Provides	345
 Geosciences	13021
 Geoscientific	12256,3337
 Geoserver. Figure	15555
-Geospatial	196,66,615,3622,29,2488,2545,5,1197,373,724,58,88,354,97,55,1474,104,414,437,532,116,1278,290,98,5,1033,183,428,294,39,318
+Geospatial	196,66,615,3622,29,2488,2545,5,1197,373,724,58,88,354,97,55,1474,104,414,437,532,116,1278,290,98,5,1033,183,428,294,39,318,99
 Geospatial AI Ops Atlas AI	5226
 Geospatial Capability	520
 Geospatial Data	196,3665
@@ -652,11 +664,12 @@ Geotechnical	1988,9143
 Geotechnical Analysis	11131
 Geotechnical Investigation	5855
 Geotextile	14742
-Geothermal	1245,477,10534,5,2161,525,308
+Geothermal	1245,477,10534,5,2161,525,308,4391
 Geothermal Conduct	14947
 Geothermal Development Company Limited	14422
-Geothermal Energy	12972
+Geothermal Energy	12972,6674
 Geothermal Energy Kenya	12256
+Geothermal Resource Department and Mines Department	19646
 Geothermal Resources	14422
 Geothermal Risk Mitigation Facility	19602
 Geothermal-powered	1245
@@ -666,6 +679,7 @@ Geovic Mining Corp TBD	15542
 Geoworks	15786
 Ghana Geological Survey Authority	16511
 Ghana Geological Survey Authority Act	16511
+Glance Infrastructure Geographic Network Coverage	19728
 Global Geodetic Reference Framework	18904
 Global Geopolitical Landscape Generally	2117
 Global Geospatial Information Management	9651,4439,4814,651
@@ -736,12 +750,14 @@ Integrated Geographic Information System	12590,15
 Integrated Georreferenced Assets Management System	11939
 Integrated Geospatial Information Framework	13986
 Integrated Geospatial Information Framework VAT	11261
+Integrated NSDI Geospatial	19742
 Intercomparisons. Reviews of Geophysics	16135
 International Geophysical Year	6997
 Interoperability The Open Geospatial Consortium	18904
 Jacquis Georges Rainimbahy	9340
 Jeff Merkley of Oregon and Raphael Warnock of Georgia	10446
 Jolomi George Fenemigho	12038
+Journal of Geographical Systems	19654
 Journal of Geophysical Research	15907
 Journal of Geophysical Research Atmospheres	16135
 Justificación I.1.1 Geografía	16898
@@ -908,6 +924,7 @@ Pakistan. Geomatics	17157
 Participatory Geographic Information Systems	1248
 Paul Georges OKINDA	16175
 Payments Modern Employee Geographic Data State	16040
+Permanent Secretary Hon. George William Nyombi	19728
 Phillippe Leite and Tina George	16867
 Physical Geography	12133
 Policy and Geoportal	13645
@@ -926,6 +943,7 @@ Professor George Agyei	10631
 Programas Geofísicos	11405
 Project Geographical Identifier Mozambique Current Closing	4653
 Project Key Interventions Geographic Regions	10829
+Project Map and Geospatial Coordinates	19825
 Protection Officer Senior Geologist	12972
 Proyecto de Sistema de Geolocalización	4209
 Président de ET DE LA GEOLOGIE la République	16177
@@ -994,8 +1012,9 @@ Snow and Cold The NASA Harvest GEOCIF	13094
 Society Libyan Society for Remote Sensing and Geographic	16916
 Society of Exploration Geophysicists	11405
 Software GeoGebra Impulsiona Inovação	10349
-South African Journal of Geomatics	12547
+South African Journal of Geomatics	12547,7107
 Southern Africa Geography	10759,1395,186
+Southern Africa. Geography	19653
 Space Science and Geospatial Institute	1796,1413,9067,1801
 Space and Geospatial Enabling Ecosystem Sector	13986
 Speakers Georges Gulemvuga Guzanga	15914
@@ -1018,6 +1037,8 @@ Tanyi George Orang and Dr. Lidwina Gabsa	1599
 Tanzania Geothermal Development Company SAGE	19584
 Tanzania Geothermal HCMIS Development Company	19584
 Tanzania's Geo-Spatial	19571
+Technology Geographic Coverage	19728
+Technology Geographic Coverage Population Coverage	19728
 Texture Geometric	17140
 Tharaka MP George Murugara	9545
 Thriving AI Ecosystem KICTANet's Dr. George	12104
@@ -1043,6 +1064,7 @@ United States Geological Survey WB World	17157
 United-Nations’ Integrated Geospatial Information Framework	17983
 Use of Geo-Enabling Initiative	15661
 Use the Geographical Information System	16863
+Using Geographic Information System	19764
 Using Geospatial Analysis	960,9896,3818
 Uzbekistan Panama Armenia Türkiye Bolivia Georgia	11563
 VGT4AFRICA and GEOSUCCESS	11334

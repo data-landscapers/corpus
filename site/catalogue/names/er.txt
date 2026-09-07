@@ -36,7 +36,7 @@ Agentic Era. Customers	6930
 Alec Erwin	5968
 Ali Demiroz and Ercan Dansuk	11133
 Ali. With Eritrea	1741
-All ER	13040
+All ER	13040,6774
 Allow Eritrea	14023
 Amb. Ernest Mbaimba Ndomahina	18552,21
 Ana Ernesto	17015
@@ -116,6 +116,7 @@ Camilla Holmemo Erkin Mamadaliev	11924
 Capital Markets and Portfolio Investment Eritrea	14008
 Careers Error	11294,47
 Cedi. Dr. Ernest K. Y. Addision	17536
+Centre ERP Enterprise Resource Planning FAC	19666
 Centre of Eritrea	14047
 Certificate Error Correction. Increases	19584
 Chairperson of Erongo Regional Council and Hon. Regional	13118
@@ -180,7 +181,7 @@ Deloitte and Ernst	16942,30
 Democratic Erosion	11028
 Despite the Eritrean	14008
 Development. ER	970
-Digital Era	4058,585,598,2714,530,3288,187,5203,1011
+Digital Era	4058,585,598,2714,530,3288,187,5203,1011,1468
 Digital Era Government	2096
 Digital Era. URL	17163
 Digital Transformation Era	14761
@@ -241,6 +242,7 @@ ER. Entrance Room	9123
 ERA L’Avenant	18322
 ERA-5	19355
 ERA-5 Land	11589,2224,4909
+ERA-licensed	19705
 ERA. Par	18322
 ERA. T	18322
 ERA. U Nombre	18322
@@ -396,6 +398,7 @@ ERS and FNB	13195
 ERS-Commissioner-General-Brightwell-Nkambule	12422
 ERS. RELATED	12422
 ERT FGU	11900
+ERT III Baseline Survey Findings	19646
 ERTES AMEt	14479
 ERTIFIBE CONFO	15999
 ERTIFIED TRUE CGPV	15530
@@ -410,6 +413,7 @@ ERYTHROMYCINE ISOTRETINOINE ADAPALENE PEROXYDE DE BENZOYLE	15930
 ERYTHROMYCINE PRISTINAMYCINE SPIRAMYCINE GLES	15930
 ESTIMATES OF SAMPLING ERRORS	15247
 ET For Eritrea	14159
+EU Erasmus	19816
 EU Programmes ERASMUS and HORIZON	13170
 EU’s ERN	10188
 EXECUTIVE SUMMARY Eritrea	14008,28
@@ -424,6 +428,7 @@ Electrification Rurale Décentralisés ERIL	18322
 Emerging Africa Infrastructure Fund ERD	16037
 Emerging Era of Digital Identities	1243
 Emerging Market and Developing Economies ERM Enterprise	6946
+Enagnon Ernest Eric Adda	19847
 Ends Era of Mobile Money Silos Contributing	4282
 Energie Rurale Africaine ERD	18322
 Equatorial Guinea No Eritrea	11529
@@ -484,8 +489,9 @@ Eradication of Statelessness	4257
 Eragrostis	18304
 Eraixtoa3m. Aengatorantdiaedocaocensdsoiçaõosecsuidcardôosn	15694
 Eranove	11923,4114
+Erase	19801
 Erasing the Literacy Divide	7030
-Erasmus	789,181,295,2274,2929,2636,3881,2515,3140,580,176
+Erasmus	789,181,295,2274,2929,2636,3881,2515,3140,580,176,420
 Erasmus University Rotterdam	12231
 Erasmus. Paula	3539
 Erasmuskloof	16793
@@ -528,6 +534,7 @@ Eri-TV	14148
 EriTel	3347,2883,7898
 Eric A. and Ludger Woessmann	15661
 Eric Achille MBENDJE	16175
+Eric Adda	19839
 Eric Alamou	16135
 Eric Ansong	226
 Eric Appah Marfo	11141
@@ -556,7 +563,7 @@ Eric Manes	16876
 Eric Monde Initié	15692
 Eric Montfort	10812
 Eric Mtemang'ombe	12230
-Eric Mugerwa	5249
+Eric Mugerwa	5249,14513
 Eric Muhanda	6604
 Eric Muli Eric Muli	10464
 Eric Muli and Michael Maina	10464
@@ -574,6 +581,7 @@ Eric Sekiziyivu	10416
 Eric Sosthenes	9453
 Eric Swanson	6337
 Eric Tuyishemeze	8504
+Eric Vève	19687
 Eric Wilfrid MOUSSIROU	16099
 Eric Wilfried	15744
 Eric Zapatero Larrio ASA ABBREVIATIONS	11855
@@ -594,6 +602,7 @@ Erick William Simule	19542
 Erickson	15715
 Ericson P	9739
 Ericsson	403,383,378,988,253,123,15,130,1231,291,239,472,1,425,1,342,97,30,847,924,504,1119,2914,2041,240,506
+Ericsson Company	19633
 Ericsson EMEA	16809
 Ericsson Fintech Platform	10666
 Ericsson Omdia	13263
@@ -653,7 +662,7 @@ Eritel Telecom Corporation URL	14326,1
 Eritel's Datacenters	14327
 Eritel's Datacenters. Eritel Private Cloud Services	14327
 Eritel. The Service	14327
-Eritrea	400,2,67,530,37,705,152,608,176,5,157,508,280,110,178,649,1258,284,878,723,2294,554,204,5,21,50,3,2,8,120,168,473,261,16,1,2,28,236,1,9,10,15,45,108,11,1,32,103,12,229,641,193,150,234,2,1,1,1,1,3,1,3,1,1,1,1,2,8,1,2,1,6,1,3,1,1,6,1,3,3,3,1,1,3,2,3,4,2,1,7,1,5,1,6,4,10,1,12,1,1,1,1,2,2,2,5,2,3,1,1,6,3,1,12,5,1,5,2,1,3,7,3,5,2,1,1,4,1,3,1,3,164,108,462,1,15,127,142,63,236,1004,2142
+Eritrea	400,2,67,530,37,705,152,608,176,5,157,508,280,110,178,649,1258,284,878,723,2294,554,204,5,21,50,3,2,8,120,168,473,261,16,1,2,28,236,1,9,10,15,45,108,11,1,32,103,12,229,641,193,150,234,2,1,1,1,1,3,1,3,1,1,1,1,2,8,1,2,1,6,1,3,1,1,6,1,3,3,3,1,1,3,2,3,4,2,1,7,1,5,1,6,4,10,1,12,1,1,1,1,2,2,2,5,2,3,1,1,6,3,1,12,5,1,5,2,1,3,7,3,5,2,1,1,4,1,3,1,3,164,108,462,1,15,127,142,63,236,1004,2142,1027,107,62,14,2,3,3
 Eritrea Closing Date and Time	14131
 Eritrea Country	14058
 Eritrea Country Profile	14058
@@ -775,7 +784,7 @@ Eritrean Standards	13949
 Eritrean Standards Institution	13949
 Eritrean Telecommunication Services Corporation	14128
 Eritrean-aligned	14102
-Eritreans	1741,2110,10109,19,29,37,56,24
+Eritreans	1741,2110,10109,19,29,37,56,24,5710
 Eritreans. Eritrea	14008
 Eritreans. Various	14013
 Erkan Satik	19560
@@ -873,12 +882,13 @@ Errol Fonseka	18914,13
 Errol Francke	8130
 Errol R. Francke	8130
 Errol R. Francke Received	8130
+Erroneous Deficient Usable Reliable Joint Score	19715
 Erroneous Information	12389
 Erroneous Order	12364
 Erroneous Transactions	12364
 Erroneous Transactions Any	12364
 Erroneous Transactions The Participants	12364
-Error	21,988,234,745,1873,2042,929,3933,467,8,16,4,17,73,33,66,108,298,97,89,105,386,416,87,116,3,260,1352,64,331,3,44,216,138,1064,232,17,76,176,196,3,113,431,92,542,27,400
+Error	21,988,234,745,1873,2042,929,3933,467,8,16,4,17,73,33,66,108,298,97,89,105,386,416,87,116,3,260,1352,64,331,3,44,216,138,1064,232,17,76,176,196,3,113,431,92,542,27,400,723,58
 Error Correction Models	18577
 Error Handling	5665
 Error Rate	11952
@@ -923,6 +933,7 @@ Eswatini SWZ Designing Eritrea ERI Implementing	13082
 Ethiopia Eritrea Nigeria Somalia	10819
 Ethiopia and Eretria	14853
 Ethiopia and Eritrea	13868,234,5017
+Ethiopians and Eritreans	19835
 Exceeded Erreur	16091
 Excellency Dr. Mokgweetsi Eric Keabetswe	12640
 Existing Eritrean	14072
@@ -941,6 +952,7 @@ Firmin INGABIRE Dorine NKENGURUTSE Ernest IRAKOZE	13300
 Flavien Ernest	15660
 Flevien Ernest	15660
 Focus Eritrea	13979
+Force ERA Electricity Regulatory Authority FHH	19646
 Forecasts ER2C Climate Resilient Water WBG	13729
 Foreign Direct Investment Eritrea	14008
 Foreign Direct Investment The Eritrean	14008
@@ -1086,6 +1098,7 @@ MDA ERPs	2527
 MINISTER ERROL FONSEKA	18964
 MISA Moçambique Ernesto Nhanale	14183
 MITIGATION STAKEHOLD ER ROLES ASSESSME STRATEGIES	16884
+MODIS and ERA5	19720
 MP Erneste Nsangabandi	5070
 MP Medi-Clinic Ermelo Gert Sibande	11986
 MSMEs. Professor Eric Osei-Assibey	11032
@@ -1101,6 +1114,7 @@ Marianne Erasmus	11308
 Marien Jean Ernest	16100
 Mboumba Tek Erica	9418
 Mbour. Pour ERA	18322
+Medical Record System ERP Enterprise Resource	19667
 Medium Medium ERS	12444
 Messan Enagnon Ernest Eric Adda Role	15601
 Metaverse Era	1347,40,10774
@@ -1372,6 +1386,7 @@ Suite ERMS Facility Financial Accounting and Reporting	19584
 Survey Error	19613
 Sweden and Ericsson	6649
 Syntax Error	10829
+System E-GP Electronic Government Procurement ERP	19660
 T Ministry of Poverty Eradication and Social Services	12327
 TAE Teachers' Association of Eritrea TaRL Teaching	13990
 TATUTORY APFAIRS CARD IN P ERTIFIEE	15999

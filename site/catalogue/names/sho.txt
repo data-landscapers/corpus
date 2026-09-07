@@ -90,6 +90,7 @@ Climatic Shocks and Food Security	10763
 Climatic Shocks and Food Security Figure	10763
 Climatic Shocks and Food Security Key	10763
 Climatic Shocks and Food Security Table	10763
+Clothing and Shoes	19715
 Collard. Shoprite	14376
 Commercial Shops Kizota	19585
 Commission’’. Short	5872
@@ -97,6 +98,7 @@ Completed In-Service Short Trainings First Quarter	12972
 Components Economic Shock Responsive Cash Transfer	11988
 Congo Showcases Digital Infrastructure Gains and AI	3599
 Construction Shops	17099
+Consultancy Services- Short	19641
 Consultants. Should the Client	13037
 Consultation and Short Courses	19584
 Consumer Electronics Show	19480
@@ -202,6 +204,7 @@ Government Systems Prototype Showcase	6239,49
 Gun Shot Gun Fn Mark IV	19517
 Gutu Stand EWZL Owned Vacant Shop	4896
 Gwanda EWZL Owned Vacant Shop Stand	4896
+H. Recommendations In the Short Term	19823
 Hackathon Live Show	12881
 Harare Agricultural Show	1154,400
 HarareAgricultural Show	1154
@@ -252,6 +255,7 @@ Kwekwe EWPL Owned Vacant Shop	4896
 Land One-Stop Shop Information System	10937
 Land Registration Act. Short	19524
 Level Agreement SMS Short Message Service	34
+Level Agreement SMS Short Messaging System	19660
 Liberia Broadcasting System’s Super Morning Show	14335
 Liberia Showcases	17395
 Lider Shore	16981
@@ -272,6 +276,8 @@ Malawi Bureau of Standards Short	12900
 Mali Project P161406 Operation Short Name	17962
 Mandates Short-Term	1777
 Map Of Sierra Leone Showing Administrative	18464
+Map Showing	19728
+Map Showing the Consolidated Mobile Network	19728
 Map of Liberia Showing Counties and Major Cities	17099,15
 Mari Shojo and Ruth Karimi Charo TABLE	14937
 Market Share Global Energy Shock Forces	19622
@@ -312,8 +318,10 @@ Mutare Retail EWZL Owned Shop	4896
 Mutare Trade Pension Owned Shop N	4896
 Mutoko EWZL Owned Vacant Shop Stand	4896
 N Medical Equipment Required Available Shortage	19585
+NATIONAL SHOCK RESPONSIVE SOCIAL PROTECTION FRAMEWORK	19685
 NGOs Eco-Sud Reef Conservation SHOALS Rodrigues	11332
 NIRA Showcases National ID Achievements	14978
+NITA-U SHOULD	19638
 NON-SPECIFIC SHORT-RANGE DEVICES SCOPE	12949
 NPF Building Douglas Sholte Street	14847
 NPPA Showcases Key	18562
@@ -349,6 +357,7 @@ One-Stop Shop for Business Creation	12031
 One-stop Shop	11857
 Operation Short Name	15702,257
 Oujda Shore	168
+Ownership of Clothing and Shoes	19715
 PART I PRELIMINARY Short	12894,44
 PART IX Short Range and Ultra Wide	736
 PDF Portable Document Format SMS Short	14723
@@ -465,9 +474,11 @@ Secretary Short	18435
 Section SOA.1. Short Title	16833
 Section1.2 Short Title	16840
 Sensitive Social Protection Shock-sensitive	12964
+Service Delivery Point SMS Short Message	19667
 Services Department of E- E Government Short	12917
 Services. The Shortlisting Criteria	11750
 Sheikh Zayid and Shorouk	15473
+Shobha Shetty Task Team Leaders	19643
 Shobhana	10964
 Shock	12923,41,628,2440,352,1917
 Shock Response Working Group	15731
@@ -484,13 +495,13 @@ Shock-Responsive Social Protection. Finances	12832
 Shock-Sensitive Social Protection	12964
 Shock-re-	19237
 Shock-response	15658
-Shock-responsive	10768,1452,9,603,91,2735
+Shock-responsive	10768,1452,9,603,91,2735,4027
 Shock-sensitive	12964
 Shocks	10763,1235,2934,53,259,1140,518,383,1016
 Shocks FOOD INSECURITY	17285
 Shocks Libyan	16902
 Shocks and Aid Cuts Intensify Risks	11105,31
-Shoes	11134
+Shoes	11134,8581
 Shoji Hirahara	16135
 Shokraned Minovi ID4D Working Group Coordinator	10812
 Shola Akinlade	6848,620
@@ -514,6 +525,7 @@ Shopify	6695,672,709,1896
 Shopify and WooCommerce	5940,275
 Shopify and WooCommerce. Businesses	3260
 Shopmium	7390
+Shoppers Supermarket	19654
 Shopping	11525,7362,715
 Shopping Centre Julius Tsolo Road	8999
 Shopping No Post	15411
@@ -547,7 +559,7 @@ Shorobe	12636
 Shorouk	15473
 Shorr Board	13300
 ShorrBoard	10777,7535
-Short	1,2,392,15,29,279,18,39,8,189,182,130,49,141,1252,1,196,791,173,845,513,256,178,193,960,706,307,456,809,337,183,152,406,989,1,1,2,1,7,1,8,15,42,25,571,1,5,190,7,151,48,85,72,35,14,64,1,1,1,2,2,1,1,3,11,2,1,13,67,1,13,1,1,3,2,3,13,221,1,1,1,2,1,1,1,2,1,1,1,1,2,3,2,1,1,6,1,2,9,2,8,99,16,232,1,1,1,8,1,2,6,6,4,1,1,1,1,2,1,17,12,1,19,14,18,46,21,26,1,4,65,93,317,11,420,3,5,7,27,44,73,9,19,119,1,1,1,1,2,1,2,5,1,2,2,3,8,11,14,41,12,3,19,54,100,88,79,19,22,1,38,128,101,963,400,3,48,29,80,108,935,270,125,4,2,11,8,6,1,91,326,3,1,1,5,25,2,5,9,9,28,63,25,102,12,335,1,3,3,1,2,1,4,1,1,1,1,3
+Short	1,2,392,15,29,279,18,39,8,189,182,130,49,141,1252,1,196,791,173,845,513,256,178,193,960,706,307,456,809,337,183,152,406,989,1,1,2,1,7,1,8,15,42,25,571,1,5,190,7,151,48,85,72,35,14,64,1,1,1,2,2,1,1,3,11,2,1,13,67,1,13,1,1,3,2,3,13,221,1,1,1,2,1,1,1,2,1,1,1,1,2,3,2,1,1,6,1,2,9,2,8,99,16,232,1,1,1,8,1,2,6,6,4,1,1,1,1,2,1,17,12,1,19,14,18,46,21,26,1,4,65,93,317,11,420,3,5,7,27,44,73,9,19,119,1,1,1,1,2,1,2,5,1,2,2,3,8,11,14,41,12,3,19,54,100,88,79,19,22,1,38,128,101,963,400,3,48,29,80,108,935,270,125,4,2,11,8,6,1,91,326,3,1,1,5,25,2,5,9,9,28,63,25,102,12,335,1,3,3,1,2,1,4,1,1,1,1,3,98,74,11,125
 Short Code	16934,1551
 Short Code Allocations	16934
 Short Code Format	16934
@@ -580,7 +592,7 @@ Short Messaging Service	4732
 Short Messaging Service SNA Systems of National	236
 Short Messaging Services	15283
 Short Messaging Services SNA System of National	2775
-Short Name	13523
+Short Name	13523,6147
 Short Name Education Sector Plan Support	16436
 Short Name Explanation	12364
 Short Programme	6832
@@ -588,7 +600,7 @@ Short Rains	2775
 Short Range Radars	12949
 Short Range Radio Devices	14883
 Short Range and Utrawide Band Devices	736
-Short Term	11136,62,271
+Short Term	11136,62,271,8195
 Short Term A13 Upgrade LANS	12917
 Short Term Action Plan II	12942
 Short Term Average	15256
@@ -625,10 +637,11 @@ Short-Term Insurance Ombudsman	9675
 Short-Term Liabilities	17236
 Short-Term Priorities and Long-Term Institutional Reforms	11596
 Short-course	6832
+Short-form	19728
 Short-link	11269
 Short-lived	10
 Short-run	15515
-Short-term	1988,828,1916,2100,372,344,470,2758,70,352,98,659,5,670,423,1541,600,1682,94,41,138,8,777,436,481
+Short-term	1988,828,1916,2100,372,344,470,2758,70,352,98,659,5,670,423,1541,600,1682,94,41,138,8,777,436,481,861
 Short-term Accounts and Finance Courses	12972
 Short-term Data Storage and Access	16947
 Short-term Development MICDE	7548
@@ -682,7 +695,7 @@ Shoshana Zuboff	571,7809
 Shoshong Clinic	12607
 Shoshong MP	12610
 Shotgun	19517
-Should	27,546,1205,50,1109,7,2,445,583,178,515,229,346,107,189,255,675,18,334,424,8,91,15,1,596,318,1238,461,90,30,178,153,74,238,29,200,165,1,26,35,49,58,265,346,86,197,167,5,9,3,24,455,12,1,1,162,65,214,75,2,75,70,406,402,334,52,28,5,25,181,115,292,21,80,186,242,35,856,1,1,1,56,263,98,45,280,202,34,675,16,359,64,83,549
+Should	27,546,1205,50,1109,7,2,445,583,178,515,229,346,107,189,255,675,18,334,424,8,91,15,1,596,318,1238,461,90,30,178,153,74,238,29,200,165,1,26,35,49,58,265,346,86,197,167,5,9,3,24,455,12,1,1,162,65,214,75,2,75,70,406,402,334,52,28,5,25,181,115,292,21,80,186,242,35,856,1,1,1,56,263,98,45,280,202,34,675,16,359,64,83,549,148,78,51
 Should Apply	9198,111,2018,6712
 Should Change	6947
 Should ESS5	18374
@@ -797,6 +810,7 @@ Tourism Short	16996
 Training and Development Short Term	12976
 Travelers Should	14235
 Tsholotsho EWZL Owned Vacant Shop Stand	4896
+UGANDA SHOULD BE PUBLICLY LISTED COMPANIES	19633
 UNICEF. Should	13576
 UP International Trade Show	18810
 USSD Short Codes	19534

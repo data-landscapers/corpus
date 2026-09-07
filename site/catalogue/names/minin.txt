@@ -113,7 +113,7 @@ MINING Par	2342
 MINING SUB-SECTOR	16511
 MININSTERE DU LOGEMENT	16001
 MININT	3899,6876,654,55,2828,3229
-MININTER	1776,11555,215
+MININTER	1776,11555,215,6141
 MININTER Ministry of Interior MINSOLID Ministère	13331
 MININTER PPM	1776
 MININTER-PPM-Revise-1.pdf	1776
@@ -199,6 +199,7 @@ Mining and Manufacturing	4528,8501,31,62
 Mining and Manufacturing Utilities	12445
 Mining and Manufacturing. The Plan	13122
 Mining and Metallurgy Regions of EU	11007
+Mining and Minerals Act	19646
 Mining and Minerals Development Act	13654
 Mining and Minerals Regulatory Authority	12987,73,62
 Mining and Quarrying	1940,835,8377,1293,608,595,937,255,3643
@@ -210,6 +211,7 @@ Mining and Quarrying NPPI	11152
 Mining and Quarrying and Manufacturing	12445
 Mining and Steel PSU Companies	16285
 Mining and Utilities	12962
+Mining and Water	19825
 Mining of Mineral Deposits	7759
 MiningAgriculture	13532
 MiningEntrepreneurshipESG	7253

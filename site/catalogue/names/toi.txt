@@ -11,7 +11,7 @@ DIYABOUWE Toi SCH	19251
 DU MATÉRIAU NATUREL PAS DE TOIT	13300
 Daan du Toit	11288
 Development Agency VIP Ventilated Improved Toilets	12970
-Du Toit	8603
+Du Toit	8603,11051
 ENFANT A UTILISÉ TOILETTES OU LATRIN	13300
 Facilities Toilet	14778
 Hangar Toit	737
@@ -43,7 +43,9 @@ Toiion	15429
 Toiions	15429
 Toiisliques	15561
 Toile. Une	5022
-Toilet	1988,12754,4843
+Toilet	1988,12754,4843,145
+Toilet Facility	19715
+Toilet Facility and Selected Background Characteristics	19715
 Toilet for Staff	14778
 Toiletries	8115
 Toilets	14738
@@ -62,7 +64,8 @@ Toiut	15429
 Toivo.Kamati	12927
 Toivonen	2096
 Type Toilet Facility and Place of Residence	16921
-Type of Toilet Facility	16921
+Type of Toilet Facilities	19715
+Type of Toilet Facility	16921,2794
 Type of Toilet Facility and Place of Residence	16921
 Type of Toilet Facility and Place of Residence Urban	16921
 Type of Toilet Facility for Household	16921,193

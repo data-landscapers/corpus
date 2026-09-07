@@ -66,7 +66,7 @@ CAPEX Subsidies. PIM	15553
 CAPEX Subsidy	15553
 CAPEX Subsidy Agreement	15553,68
 CAPEX Subsidy Agreement. Type Financing	15621
-CAPEX and OPEX	718,11139
+CAPEX and OPEX	718,11139,7888
 CAPEX of EUR	8123
 CAPEX of N2	3862
 CAPEX- Local Investments	3862
@@ -115,7 +115,7 @@ Cape Town Film Studio	14673
 Cape Town First	9759
 Cape Town Global Action Plan for Sustainable	18475,1044
 Cape Town International Airport	8915,980
-Cape Town International Convention Centre	8564,191,2257,2556,2590
+Cape Town International Convention Centre	8564,191,2257,2556,2590,3565
 Cape Town Internet Exchange	1820,7797
 Cape Town Kaapstad	11551
 Cape Town Kaapstad No	11190,9,2,62
@@ -218,7 +218,7 @@ Capetonians	12072,2601
 Capetown	7774,1354
 Capetown and Johannesburg	12362
 Capeverdean Educational System	11939
-Capex	78,1,3095,1830,2747,372,285,377,2008,2140,6513
+Capex	78,1,3095,1830,2747,372,285,377,2008,2140,6513,231
 Capex of R2.9	10793
 Capex of R3.1	10793
 Capex of R3.3	10793

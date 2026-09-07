@@ -2,9 +2,11 @@ A. Fuel Market Structure and Size	1828
 ABSOLUTE SIZE OF POPULATION	11572
 AVERAGE SIZE OF HOLDINGS	17043
 Abonnez-vous Current Size	1299,9104,5554,447,3
-Average Household Size	12395,4526,193
+Average Household Size	12395,4526,193,2601
 Average Household Size Average	16921
 Average Household Size and County Population Households	16921
+Average Household Size of Households	19715
+Average Household Size of Households Headed	19715
 Average Size of Bank-Intermediated Trade Finance	10718
 Avg. Household Size Liberia	16921
 Bands Pixel Size	15622
@@ -46,7 +48,9 @@ Guillaume NIYOKWIZERA Esperance SIZIMWE Alain NIYUBAHWE	13300
 HERD SIZES	17043
 Herd Size Optimization Import	17157
 Herd and Flock Sizes	17043
-Household Size	12978,3943
+Household Population and Average Household Size	19715
+Household Population and Average Household Size Household	19715
+Household Size	12978,3943,2781
 Household Size Household	16921
 Household Size Household Size Observations Mean	12978
 Household Size and Average Area Per Person	2775
@@ -77,17 +81,22 @@ Minimum Sample Size Requirements for Seasonal Forecasting	236
 Minimum Team Size	5665
 Ms. Sizakele Dlamini	11131
 Name Size Code LULC classification.R	16463
+Number of Households and Average Household Size	19715
 ORGANISATIONAL SIZE Figure	1940
 PARCEL SIZE PER HOLDING	17043
-POPULATION SIZE	13367,1536
+POPULATION SIZE	13367,1536,4812
 Passport Size Photo of Informant	16860
 Percentage Distribution of Average Household Size	16921,193
-Population Size	13367
+Population Size	13367,6348
 Population Size Figure	582
+Population Size and Distribution	19715
+Population Size and Growth	19715
+Population Size and Growth Rate	19715
 Population Size of Sierra Leone	18464
 Project Location and Size	1988
 Project Location and Size Meheba Settlement Camp	1988
 Projects Duration Size	8604
+Recommendations. POPULATION SIZE	19715
 Request Queue Size	11952
 SA ICT Market Sizing and Overview Report	3264
 SAMPLE SIZE	17127
@@ -135,7 +144,7 @@ Size of Price Per Number Band Spectrum	736
 Size of Structure	18483
 Size. PSUs	12403
 Sized Enterprise SSC Social Security Commission	12923
-Sizes	12256,1129
+Sizes	12256,1129,6364
 Sizing	7548,4749,3416
 Sizing the Prize. PwC’s Global Artificial Intelligence	1814
 Small Project Size	17260
@@ -157,6 +166,8 @@ Trade Finance Technology Market Size	10718
 Universal FONT SIZE	11129
 VACANT LAND SIZE BUILDING DEED DETAILS	4896
 View Full Size	11140
+View Full Size Box Figure	19823
+View Full Size Figure	19823
 WIA Supported Media Size Details ADF	34
 X X X Size	236
 YELE Tchaa Sizing MAJ	19251

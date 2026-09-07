@@ -158,6 +158,7 @@ British Colonial Period	14761
 British Columbia	8896,232,9740
 Build Cross-Sector Collaboration Infrastructure Industry	11138
 Building Capacity Through Collaboration	4583
+Building Data Collection Systems	19683
 Building Trust Through Collaboration and Cyber Resilience	14691,7,2875
 Bungoma North Technical and Vocational College Data	7167
 Bureau Collects	10822
@@ -223,6 +224,7 @@ COLIS POSTAUX Pour	15999
 COLKOS ENTERPRISES LIMITED Data Controller INST-270125D6715	7167
 COLLABMED SOLUTIONS LIMITED Data Processor INST-22533511A9A	7167
 COLLABORATE	11006
+COLLABORATE TO EXTEND NBI PHASE	19724
 COLLABORATIF Adopter	17896
 COLLABORATING INSTITUTIONS Ministry of Home Affairs	12944
 COLLABORATION	16188
@@ -525,7 +527,7 @@ Colis	15885
 Collab	18319
 Collab Citizen	11251
 Collab Citizen App	11251
-Collaborate	940,18,42,131,73,610,735,1577,737,381,92,3267,2401,191,707,62,181,69,66,76,20,77,40,83,1,98,79,208,43,290,15,222,1034,215,37,61,43,25,50,37,86,63,530,1,131,988,39,67,8,4,15,5,4,36,103,25,18,78,635,439,168,18,565,459,13,25
+Collaborate	940,18,42,131,73,610,735,1577,737,381,92,3267,2401,191,707,62,181,69,66,76,20,77,40,83,1,98,79,208,43,290,15,222,1034,215,37,61,43,25,50,37,86,63,530,1,131,988,39,67,8,4,15,5,4,36,103,25,18,78,635,439,168,18,565,459,13,25,76,168
 Collaborate MoF Sales Force	19534
 Collaborates	12639
 Collaborateur	3879,11806,251,1648,419
@@ -533,7 +535,7 @@ Collaborating	1243,850,185,497,829,1244,685,144,359,4805,1145,254,6,130,298,258,
 Collaborating Agencies	19519
 Collaborating Agencies Component	19519
 Collaborating To Transform And Improve Education	899
-Collaboration	562,337,41,21,170,30,616,37,393,342,456,157,196,246,37,470,103,25,19,325,223,174,56,208,2,239,66,46,80,203,233,19,162,122,377,1,155,1,9,161,52,226,67,83,203,12,214,45,16,316,64,329,200,52,23,123,307,39,125,269,14,38,220,611,8,58,42,130,1,4,119,8,1,46,100,25,242,353,35,14,11,106,100,122,63,20,37,26,107,6,122,1,86,216,28,65,25,211,7,1,27,49,28,231,106,183,60,6,437,88,8,12,17,98,55,10,44,39,6,61,9,55,3,51,26,16,3,78,222,105,46,111,109,11,124,88,2,54,54,98,240,196,35,257,12,31,11,13,4,20,12,36,105,22,19,103,58,130,25,409,52,191,184,40,127,24,12,101,174,434,24,20,95,150,22,23,21
+Collaboration	562,337,41,21,170,30,616,37,393,342,456,157,196,246,37,470,103,25,19,325,223,174,56,208,2,239,66,46,80,203,233,19,162,122,377,1,155,1,9,161,52,226,67,83,203,12,214,45,16,316,64,329,200,52,23,123,307,39,125,269,14,38,220,611,8,58,42,130,1,4,119,8,1,46,100,25,242,353,35,14,11,106,100,122,63,20,37,26,107,6,122,1,86,216,28,65,25,211,7,1,27,49,28,231,106,183,60,6,437,88,8,12,17,98,55,10,44,39,6,61,9,55,3,51,26,16,3,78,222,105,46,111,109,11,124,88,2,54,54,98,240,196,35,257,12,31,11,13,4,20,12,36,105,22,19,103,58,130,25,409,52,191,184,40,127,24,12,101,174,434,24,20,95,150,22,23,21,91,45,35
 Collaboration Action and Dialogue	13355
 Collaboration Adopting	13347
 Collaboration Age Group	582
@@ -569,17 +571,20 @@ Collaboration for Better Governance	11867
 Collaboration for Implementation	12977
 Collaboration of TSMP II	19519
 Collaborations	1903,572,1692,1277,5332,514,1066,190,2914,4074
+Collaborations and Whole of Government	19642
 Collaborative	1131,5206,611,49,1430,465,1872,12,65,99,191,4,61,2,219,577,220,56,242,163,86,1984,134,18,19,809,234,917,8,27,30,22,8,40,1997
 Collaborative Approach	1718,10956
 Collaborative EA	14441
+Collaborative Efforts	19728
 Collaborative Environment	13991
 Collaborative Foundations for Implementa-	4848
+Collaborative Growth	19718
 Collaborative Innovation Ecosystem Strengthen	18480
 Collaborative Network for Enhanced Integration	17116
 Collaborative Opportunities	12376
 Collaborative Partners	17116
 Collaborative Partnership	17116
-Collaborative Regulation	5241,811,9577
+Collaborative Regulation	5241,811,9577,4022
 Collaborative Regulation and Building Digital Ecosystems	6052
 Collaborative Regulation. Convened	6052
 Collaborative Research Programs	12675
@@ -638,7 +643,7 @@ Colleagues	6152,3706,595,803,2131,1307,2581,460
 Collec-	17812
 CollecCteyimmédiate	15999
 Collecdvites Locales	16611
-Collect	940,60,988,3688,1275,597,3175,133,129,12,136,430,622,68,422,656,28,22,610,753,7,30,216,133,130,187,153,88,25,1120,34,54,26,4,60,32,114,23,55,61,70,518,570,86,255,570
+Collect	940,60,988,3688,1275,597,3175,133,129,12,136,430,622,68,422,656,28,22,610,753,7,30,216,133,130,187,153,88,25,1120,34,54,26,4,60,32,114,23,55,61,70,518,570,86,255,570,281,18
 Collect Customs	14076
 Collect Data	12642
 Collect Data for Comprehensive Tax Expenditure Analysis	17011
@@ -686,12 +691,12 @@ Collectif des Femmes	18286
 Collectif des ONG	15712
 Collectif des Organisations	18310
 Collectifs des Associations Féminines	18101
-Collecting	775,165,221,617,997,3914,16,233,813,13,1858,482,671,3659,272,187,141,377,62,240,1150,79,215,561,391,1128,348
+Collecting	775,165,221,617,997,3914,16,233,813,13,1858,482,671,3659,272,187,141,377,62,240,1150,79,215,561,391,1128,348,79
 Collecting Children	12977
 Collecting Taxes	17011
 Collecting Taxes Indicators	16949
 Collecting and Analysis	940
-Collection	26,210,704,60,161,617,89,842,17,282,427,1220,299,1967,924,177,1531,1211,1,3,7,73,281,107,181,100,360,3,36,27,312,39,105,17,52,32,31,112,8,277,1,19,30,26,49,268,1089,136,29,19,5,67,50,3,8,13,21,24,200,54,619,486,730,77,68,97,354,400,423,129,35,426,42,60,299,232,10,4,54,1,17
+Collection	26,210,704,60,161,617,89,842,17,282,427,1220,299,1967,924,177,1531,1211,1,3,7,73,281,107,181,100,360,3,36,27,312,39,105,17,52,32,31,112,8,277,1,19,30,26,49,268,1089,136,29,19,5,67,50,3,8,13,21,24,200,54,619,486,730,77,68,97,354,400,423,129,35,426,42,60,299,232,10,4,54,1,17,24,4,4,24
 Collection Account	14546,3991
 Collection Authority	14897
 Collection Average	11417
@@ -791,6 +796,8 @@ Collective Management Organisations	10562
 Collective Model for Sustaining DHIS2 DHIS2	6153
 Collective Ownership	17114
 Collective Protective Equipment	17114,1004
+Collective Responsibility	19801
+Collective Responsibility Information	19801
 Collective Saving	16797
 Collective Stewardship	14808
 Collective Sudan	6947
@@ -799,7 +806,7 @@ Collective X	6832,4114
 Collective X and Harambee	5551
 Collective of Parties	17950
 Collective. At Venture	12339
-Collectively	1154,2316,17,870,75,151,323,66,153,89,30,1,2,197,89,58,202,72,708,220,99,656,338,136,24,163,273,120,264,112,150,1,33,508,299,219,237,339,29,257,84,4,330,518,255,98,253,137,240,84,23,4,15,382,55,117,36,466,415,181,71,167,49,51,516,1372,38,32,95,97,1,131,406,756,596,330,123,6,1
+Collectively	1154,2316,17,870,75,151,323,66,153,89,30,1,2,197,89,58,202,72,708,220,99,656,338,136,24,163,273,120,264,112,150,1,33,508,299,219,237,339,29,257,84,4,330,518,255,98,253,137,240,84,23,4,15,382,55,117,36,466,415,181,71,167,49,51,516,1372,38,32,95,97,1,131,406,756,596,330,123,6,1,143,95
 Collectives Territoriales	18077
 Collectivites Decentralisees	16611
 Collectivites Locales	16611
@@ -983,7 +990,7 @@ Colocado	17103
 Colocalisation	17819,1554
 Colocar	15554
 Colocataire	18312
-Colocation	593,2884,2316,3330,1833,1329,484,2380,1498,2101
+Colocation	593,2884,2316,3330,1833,1329,484,2380,1498,2101,932
 Colocation And Web Hosting Services	15274
 Colocation Cut	9446,1510
 Colocation Le Datacenter de GUILAB	16647
@@ -1195,7 +1202,7 @@ Colonel-major Oumar CISSE. Vu la Charte	17899
 Colonels	15901,199
 Colonia Altos de Miramontes Calle	10764,80,7012,267
 Colonia Altos de Miramontes Escritório Regional Hastings	11563,6180
-Colonial	6808,2931,7658
+Colonial	6808,2931,7658,2244
 Colonial-era	6997
 Colonial-geography	5252
 Colonialism	4258,4292,1409
@@ -1230,21 +1237,22 @@ Colours	16902
 Colovic	2096
 Colportage	13781
 Colrlnecmtion	19526
+Coltekin	19654
 Columba	1005
 Columba and Vietnam	12376
 Columbbo	7065
-Columbia	10759,76,2,1,130,187,715,16,3,264,1,9,174,3,1,11,1,135,812,31
+Columbia	10759,76,2,1,130,187,715,16,3,264,1,9,174,3,1,11,1,135,812,31,6321,1,169,14
 Columbia Center for International Earth Science Information	10759,78,1050,2,264,1,9,177,1
 Columbia Convening	5029
 Columbia Journal of World Business	11310
 Columbia Law School	18583
 Columbia Mailman School of Public Health	16422,2275
-Columbia University	1013,6138,2808,1928,266,1,9,171,7,603,3952,26,1387,388
+Columbia University	1013,6138,2808,1928,266,1,9,171,7,603,3952,26,1387,388,956,183
 Columbia University AI for Good	18039
 Columbia University CIESIN	196
 Columbia University DSP Digital Society Project	10759,78,1052,451
 Columbia University Press	3782,11691
-Columbia University UPU Universal Postal Union	10835,3,130,902,16,466,1,135
+Columbia University UPU Universal Postal Union	10835,3,130,902,16,466,1,135,7334
 Column	587,379,862,1734,306,2554,4757,1867,143,1654,1989,1486
 Column B of Schedule	11179
 Column Labels Row Labels REF ANG	11900
@@ -1258,7 +1266,7 @@ Colécalciférol	15930
 Colóquio	17337
 Commercial Collateral	14647
 Commercial and Collection	12062,6124,31
-Communication and Collaboration	12359,4583
+Communication and Collaboration	12359,4583,2865
 Communication and Collaboration Services	12359
 Community Data Collection	18476
 Community Development College	3524
@@ -1289,6 +1297,7 @@ Correspondence Colleges Guarantee Fund	13287
 Correspondence and Independent Colleges	13287
 Costa Rica and Dominican Republic. In Colombia	11135
 Country Argentina Brazil Chile Uruguay Colombia	11135
+Cross-Sector Collaboration ICTs	19728
 Cross-Sector Collaboration for Research and Advocacy	6936
 Cross-Sectoral Collaboration	16963
 Création du Collège des Startups	4567
@@ -1401,7 +1410,8 @@ Data Collection Timeline	12182
 Data Collection Tools	12977,5483,157
 Data Collection Tools and Protocols Researchers	15244
 Data Collection Tools for Field Monitoring	13395
-Data Collection and Analysis	12345,4630
+Data Collection and Analysis	12345,4630,2685
+Data Collection and Analysis Data Collection	19660
 Data Collection and Analysis Methods	16963
 Data Collection and Data Acquisition	262
 Data Collection and Institutional Coverage	15164
@@ -1412,6 +1422,7 @@ Data Collection and Management Revision of Case Management	12977
 Data Collection and Monitoring The WRU	14745
 Data Collection and Preparation	14565
 Data Collection and Preprocessing	15253,1013
+Data Collection and Processing	19639
 Data Collection and Processing Costs	17116
 Data Collection and Quality Assurance Data	17043
 Data Collection and Real-Time Monitoring Effective Spectrum	5245
@@ -1423,6 +1434,7 @@ Data Collectors Name Affiliation Abbreviation NATIONAL	19613
 Data Collectors Supervision	18525,42
 Data Collectors Supervision Supervisors	17165,1405
 Data Collectors Supervision Voluntas	15024
+Data Collectors and Data Processors	19759
 Data Colonialism	961,7668
 Data MIS Collection Collection Households	10964
 Data Source Baseline Result Data Collection	13095
@@ -1566,6 +1578,7 @@ Et des Collectivités Locales	17812
 Etat Collectivit APE Promoteur Plan BF	10847
 Etat Collectivité APE Promoteur Plan BF	10847
 Etat. du Collège	17861
+European Columbus Module	19773
 Evaluation Collection Specialist	16144
 Excellency Colonel Major Zada Seidou	18197
 Excellency Colonel Muawiya Uld	17438
@@ -1622,6 +1635,7 @@ Fourah Bay College. Sierra Leone	18585
 Fourah Bay College. URL	18585
 Fournisseurs de Collecteur	15583
 Free Team Collaboration Slack	17157
+Freedom of Association and Collective Bargaining	19655
 French Colony	16256
 Furusa and Coleman	1248
 Future Internet Collaboration Platform for Safe	19555
@@ -1680,6 +1694,7 @@ H. Enhancing Policy Coherence and Regional Collaboration	17745
 Habitat le Colonel Abdoul Kadri Amadou Daouda	18140
 Happy Reading. Collaboration NamRA and NDTC	13108
 Harmonize Data Collection Tools	19557
+Hastened Revenue Collection	19697
 Haut Coneil des Collectivités Territoriales	18286
 Haut Conseil des Collectivités	17827,2,459
 Haut Conseil des Collectivités Ter- de Bassins	17812
@@ -1688,6 +1703,7 @@ Haut Conseil des Collectivités. MAIGA ARTICLE	17829
 Health Data Collaboration Hg Hôpital Général	15711
 Health Data Collaborative	2678,16877
 Historical Comparison of Revenue Collection	12951
+Hive Colab	19642,18
 Hive Colab Digital	11017
 Hive Collab	2676
 Hon. Col	11791
@@ -1707,7 +1723,7 @@ ICT Data Collection Unit	14888
 ID Data Collection	10765,10
 ID Data Collection Technological	10775
 IEC Chairman Joseph Colley	17654
-IFC Collaboration	3562,42,11333,1959
+IFC Collaboration	3562,42,11333,1959,2939,12
 IFC Collaboration Disbursement	1284,15638
 IFC Collaboration Joint Level Yes Complementary	15621,523,3101
 IFC Collaboration No Components Component Name	18198
@@ -1809,6 +1825,7 @@ International Collaboration and Standards	5245
 International Collaborations	15120
 International Colloquium	10864
 Interoperability Pilots Collaborate	14819
+Intervention Colour	19660
 Investissement des Collectivités	17817
 Investissement des Collectivités Territoriales	17817,10
 Investissement des Collectivités Territoriales. CHAPITRE	17817
@@ -2113,6 +2130,7 @@ NOM COL	13300
 NOM DE LA COL	13300
 NORAD COLLECTED REVIEWS	13957
 NORTHERN BAR EL-GHAZAL POLYTECHNIC COLLEGE	18629
+NTR Collections Over the Years Comparative	19712
 NUMÉRO DE COLONNE DU TABLEAU CI-DESSOUS	13300
 NUMÉRO DE COLONNE OÙ VOUS DEVEZ	13300
 NUMÉRO NUMÉRO DE NOM DE COL	13300
@@ -2148,6 +2166,7 @@ Nkangala TVET College	11281
 Nkangala TVET College and Mpumalanga CET College	11281
 Nkayi Colonel	15524
 No. of Colleges and Universities	12453,892
+Nom Collectif	19851
 Non-Remittance of Collected Revenue	19585
 North-Western Province Permanent Secretary Colonel Grandson	7130
 Number of Blood Units Collected	2775
@@ -2260,6 +2279,7 @@ Paul Colmer	6365
 Payment Systems Collateral	12364
 Penalty and Collection Action	16942
 People Partnerships Collaboration	14566
+Percentage Share of NTR Collections Per	19712
 Percentage of Tax Arrears Collected Target Actual	13053
 Person Collecting Drinking Water	15247
 Pessoas Colectivas	10786,597,635,843,2535,3402,55
@@ -2379,6 +2399,7 @@ References Collinson	7836
 Refuse Collection	11231
 Regional Collaboration	1554,6367,4478
 Regional Collaboration Lagging Indicators	4528
+Regional and International Collaboration	19712
 Register Collateral	14647
 Registrar General’s Department French Colonial Period	14761
 Registrar of Correspondence and Independent Colleges	13287
@@ -2650,6 +2671,7 @@ Through the Collaborative	8427
 Tim Colbourn	13040
 Time for Registration and Collection of Tax	14025
 ToR Infra sharing and colocation	15143
+ToRs for Unified Messaging and Collaboration Services	19660
 Togetherness and Collaboration	3487
 Togo Colonne	5361
 Tom Bundervoet Collection	15024
@@ -2665,6 +2687,7 @@ Turning Strategy Into Delivery Collectively	7764
 Télécommunication Colonel Assimi GOITA des Collectivités	17861
 UCC Research Support and Collaboration Framework	9781
 UDSM College of Information and Communication Technologies	7155
+UMCS Unified Messaging Collaboration System UPL	19660
 UN Secretary General. Collaboration	12956
 UN-LIA IN COLLABORATION WITH VITAL STRATEGIES	12337
 UNICEF- Recommandations Pour La Collecte Des	17945
@@ -2674,9 +2697,11 @@ USE OF ARTIFICIAL INTELLIGENCE Data Collection	14565
 UTILISER POUR CHAQUE COLONNE	13300
 UTILISEZ LA DERNIÈRE COLONNE D'UN	13300
 Uganda Col Nakalema	6576
+Uganda's Senior Command and Staff College	19632
 Unbanked Revenue Collection TZS	19585
 Under Collection	19585
 Une Plateforme Centralisee de Collecte	16662
+Unified Messaging and Collaboration System	19660
 Unified Resource Development and Collection Authority	14897
 Unions des Associations des Collectivités Territoriales	15936
 United General Insurance Assistant Manager Colleta	7364,5852
@@ -2746,7 +2771,7 @@ White Collar	16266
 Williams College	11131,3
 Williams College Massachusetts Mfanfikile Dlamini	11134
 World Bank Collins W. Teah	17070
-World Institute for Development Economics Research Columbia	10835,3,130,902,16,466,1,135
+World Institute for Development Economics Research Columbia	10835,3,130,902,16,466,1,135,7334
 World-Class Colocation	11502
 X.8.1. Collecte	15685
 X.8.1.1. Collecte	15685

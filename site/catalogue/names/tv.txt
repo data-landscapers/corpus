@@ -3,6 +3,7 @@ ACI Radio ACI TV Bulletins	16092,1,37,97,148,111,41
 AI TVETA Technologies	7548
 ANACIM TV	18360
 Academia- Universities and TVETs	7548
+Access TV and Khuduga TV. Six	19651
 Additional Universities and TVETs	6928
 Administration TS Supreme Court TVM Mozambique	12201
 Africa24 TV	1680,126,2443,9539
@@ -66,6 +67,7 @@ Development of TVET	16675
 Diamond TV	10216,4061
 Digital Ethiopia Skills and TVET	14050
 Digital TV	9993
+Digital Terrestrial TV	19642
 Digital Transformation of TVET and Skills Development System	9755
 Distribution of TVET	14896
 Distribution of Types of TV Services	2776
@@ -134,17 +136,22 @@ JCF97NzzsI Citizen TV Kenya	899
 J’AI UN CREDIT DE TVA POUR	16629
 KICD TVETA	7548
 Kahneman and Tversky	7886
+Kwikstream Tv	19651
+LCD TVs	19639
 LG-KOICA Hope TVET College	15195
 La TV	18332
 La TVA	6954,3758,1222,4086
 Libelles TVA IS IRPP Droits	16328
 Liberia Learns Digital Radio and TV Programme	4554
+Licenced FM Radio Stations Pay TV	19728
 Licensed TV Stations	2776
 Limited TVET Technical and Vocational Education and Training	13312,2
 List of TV	236
 Luntha TV	9217
 L’annexe TVA du Code	19291
 L’identifiant TVA	16747
+M Local TV Stations	19728
+M Local TV Stations Domestic Courier	19728
 M. Cable TV	19556
 MASHARIKI TV	13324
 MBC TV	12201
@@ -153,6 +160,7 @@ MSM ICT Training for TVET	14897
 MTN One TV	6563,4230
 Maluti TVET College Phuthaditjhaba Campus	11343
 Management of TVET	14896
+Maru TV	19651
 Mathematics TVET	16975
 Mathematics TVET Technical	16876
 Mawingu Networks for TV	147
@@ -184,6 +192,7 @@ No. of TV Stations	6946
 No. of TV Stations No. of TV Stations	2776
 No. of TVET	12210
 Northern Cape Rural TVET	11343
+Number of PAY TV Subscribers	19728
 Number of Pay TV	15136
 Number of Pay TV Service Providers ANNUAL	12395
 Number of TVET	14576,320
@@ -195,6 +204,7 @@ Paid TV	14836
 Paradise TV	16926
 Parliament TV	12987
 Pay TV	718,2058,4114,2891,1430,3925
+Pay TV Active Subscriptions	19728
 Pay TV Direct To-Home Bouquet	18444
 Pay TV Direct-	2776
 Pay TV Direct- To-Home Bouquet	2776
@@ -223,6 +233,7 @@ Radio and TV	718,12253
 Radio and TV. Import	16942
 Radios and TVs	12358
 Real TV Madagasikara	14517
+Reference TV Television UBC Uganda Broadcasting	19660
 Reflet TV	8518
 Regional TVET Bureaus	14157
 Remboursement TVA	16328
@@ -246,6 +257,7 @@ Satellite TV	1944
 Scholarship and TVET	3898
 Secondary School TVET Technical and Vocational Education	14896
 Secondary and TVET Data	12411
+Secretaries for TV	19641
 Selected TVET	14576
 Service Commission TV Television TVC Technical	2775
 Smart Rwanda Master Plan TVET	14915
@@ -258,6 +270,7 @@ South Sudan TVET Ecosystem	18650
 South Sudan's National TVET Ad Hoc	18650
 South Sudan's TVET	18650
 Stable Téléviseur Smart TV	19417
+Star TV	19689
 State-controlled TV	15342
 Stations Pay TV Subscriptions Industry Reports	9109
 Strategic Plan for TVET Transformation	789
@@ -288,6 +301,7 @@ TV EU Election Observation Mission Final	12201
 TV Improving	6593
 TV Interactive Television IVR Interactive Voice	14965
 TV License	12971
+TV Licensing	19728
 TV Manufacturing	5124
 TV Miramar	12201
 TV Miramar and TV Sucesso	12201
@@ -295,6 +309,7 @@ TV Multiplex	2776
 TV N	582
 TV No	14713
 TV Platform OF The Year	17069
+TV Programs	19702
 TV Radio	15583
 TV Radio Social Media News Squeeze	8999
 TV Studios	6946
@@ -305,6 +320,7 @@ TV Sucesso	12201
 TV Sucesso. Post-election	12201
 TV Television	12911
 TV Television UAE United Arab Emirates	19590
+TV Television UCC Uganda Communications Commission	19642
 TV Television UHF Ultra-High Frequency UN	6946
 TV Transmissão	18783
 TV WHITE SPACE	14879
@@ -312,12 +328,15 @@ TV White Space	7262,1281,3314,1444
 TV White Space Wi-Fi Rural Connectivity	406
 TV XXXXXX	14713
 TV and Computer	14897
+TV and Radio Stations	19641
+TV-white	19633
 TV. Postal	11262
 TV. The DCDT	11170
 TV. Títulos	2816
 TV. Verification	15342
 TV3's Hot Issues	15823
 TV5 Monde	18232
+TV52.2	19639
 TVA CDDI	19250
 TVA CI	19250
 TVA Exonérations	16328
@@ -353,6 +372,7 @@ TVET College	4494,2338,98
 TVET Colleges	11343
 TVET Commission Act	17139
 TVET Context The Technical and Vocational Education	16942
+TVET Council	19807
 TVET Despite	14922
 TVET Division	6832
 TVET Expansion	17139
@@ -389,6 +409,7 @@ TVET WIL	6832
 TVET While Rwanda	14922
 TVET and HEI. Data	13314
 TVET and HEIs	13314
+TVET and Higher Education. Finally	19835
 TVET and School-to-Work Transition	14251
 TVET for Enhanced Youth Skilling and Employability	6948
 TVET-KFW	4126
@@ -396,6 +417,7 @@ TVET-MIS	9139,7630
 TVET-based	4126
 TVET-industry	789
 TVET-related	6832
+TVET-relevant	19807
 TVET-system	789
 TVET. Classrooms	12411
 TVET. Education	14922
@@ -422,6 +444,7 @@ TVS Trade Verification System VAT	12951
 TVT Télévision Togolaise UCAO-UUT Université	19350
 TVeaty Séries	17438
 TVs. Published	14742
+Tablets LCD TVs	19639
 Taux de TVA	15615
 Tchad24 TV	4822
 Teacher Student Association TVET Technical and Vocational	13960
@@ -447,11 +470,14 @@ Tvt Description	15129
 Type Approval Authorizations TV	18485
 Type of Television Service Authorised TV Stations	2776
 Télécommunication Extérieure TVA	13377
+UBC TV	19689,53
+UBC. TV	19641
 UNESCO ICT Training for TVET	14897
 USTDA TVWS	406
 Universal TV and Radio Risaala	15007
 Universities and TVET	13991
 University TVET	4126
+Urban TV	19651
 Usalama TV	19590
 V Zs Nation TV	899
 Vocational College TVET Technical Vocational Educational	2775

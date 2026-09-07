@@ -74,7 +74,7 @@ Banque Mondiale. Ce	11944,3598,50
 Banque de Technologies. Ce	16627
 Base. Ce	15541
 Batha. Ce	18928
-Belgique. Ce	4479
+Belgique. Ce	4479,15353
 Bis Ce	1231
 Bissau. Ce	16633
 Borj El Amri. Ce	9596
@@ -231,6 +231,7 @@ DHIS-2. Ce	15599
 DLY. Ce	18239
 DNCMP. Ce	10876
 DNI. Ce	16629
+DTS Ce	19850
 DUCATIVES Ce	17830
 Dakar Sénégal. Ce	16627
 Dakar. Ce	18429
@@ -279,6 +280,7 @@ Electricité. Ce	16612
 Emprunteur IL EST CONVENU CE QUI	15901
 Energie. Ce	16621,1295,62
 Enfant. Ce	15686
+Engagements Extérieurs Ce	19850
 Environnement. Ce	15529
 Environnement. Ce Décret	14423
 Environnemental Ce	8891
@@ -381,7 +383,7 @@ Izaï Toé. Ce	15463
 JURIDIQUE Ce	17830
 Joseph Kabila. Ce	15296
 Juges Constitutionnels. Ce	18310
-Justice. Ce	8993,8533,580
+Justice. Ce	8993,8533,580,1534
 KMF. Ce	6146
 Kara-Cinkasse. Ce	19232
 LA COLONNE SUIVANTE DE CE QUESTIONNAIRE	13300
@@ -433,6 +435,7 @@ Nations Unies Ce	17881
 Nations Unies. Ce	9615
 Nations Unies. Ce Pacte	17894
 Nature. Ce	15366
+Ngazidja. Ce	19832
 Ngozi. Ce	13442
 Niamey. Ce	18103
 Niger Télécom SA. Ce	18122
@@ -471,8 +474,10 @@ PSIPJ. Ce	12027
 PSRE. Ce	15722
 PSSN. Ce	15720
 Pacte. Ce	17894,422,651
+Par Lt-Col Pol Rupfunyimpinga Dieudonné. Ce	19648
 Parc Ce	15715
 Parcelle Validée Ce	13375
+Passif Ce	19850
 Pays. Ce	17896
 Performance. Ce	17918
 Personnel. Ce	1184
@@ -530,6 +535,7 @@ République de Djibouti. Ce	3267,1300
 République de Guinée. Ce	746
 République du Congo. Ce	3326,12167,554
 République. Ce	12043,6267,1182
+Réserves Ce	19850
 Réserves. Ce	11597
 Réunis Ce	10524
 SAFE. Ce	15333
@@ -593,6 +599,7 @@ UEMOA. Ce	3684,775
 UMOA. Ce	17816
 UNESCO. Ce	19152
 UP. Ce	13390
+USD. Ce	19850
 UTILISATEURS DES CYBERCAFES Ce	10906
 Umwuga Akazi. Ce	9270
 Union Africaine. Ce	3351

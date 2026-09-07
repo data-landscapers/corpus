@@ -226,6 +226,7 @@ ENSAE S	18291
 ENSAE de Dakar S	18291
 ERS LIQUIDE S	18322
 ESS S MS MS MS S	14010
+ETAT-AVANCE S	19850
 EU CSP D C S	9123
 EU CSP D S	9123
 EU CSP I S	9123
@@ -656,6 +657,7 @@ Reinserção Social S N	6530
 República Democrática de S	18844,5
 República Democrática de S. Tomé	18752,1,31
 Residual S Incorporated	3604
+Responsable du S	19687
 Responsibility KPIs S	17364
 Rights-of-Way S SET	14879,1993
 Risks and S	11156
@@ -749,6 +751,7 @@ S Governance and Accountability	15518
 S Headquarters	12972
 S I T	18121
 S I T Y A N	11586
+S IA	19801
 S IMA OIL Avis	18322
 S IMMOBILIERES Articles	15999
 S IR C M A N	10775
@@ -790,6 +793,7 @@ S Nyagisozi Rwabicuma BuP	12413
 S O M M	15360,19,15,16,2917,5
 S O N G	18468
 S OCIAL E Adm	17827
+S OSIC	19801
 S OTR ADHY Avis	18322
 S Overall Risk M M Financial	16896
 S P R S Direção Geral	6530
@@ -831,6 +835,7 @@ S S S S S PDO	16922
 S S S S S Procurement	16922
 S S U N C G	14760
 S S Unemployment Rate	17503
+S SCI	19801
 S SH JO	16841
 S SOFTWARE	14879
 S SOUMISES A DES REGIMES PARTICULIERS	15584
@@ -927,7 +932,7 @@ S. Distributeur des SECeF	14469
 S. Doerr	11140
 S. Domingos	1948
 S. Drew	5349
-S. E	1248,6638,2979
+S. E	1248,6638,2979,8789
 S. E&S	15766
 S. E. M. Louis-Blaise AKA-BROU	16633
 S. E. Obiang Nguema Mbasogo	16868

@@ -20,6 +20,7 @@ AfCFTA for MSMEs	9034
 Africa MSWSA Money Smart Week South	11198
 African MSMEs	15641
 Alternative MSME	14997
+Approvisionnements du MSPLS	19645
 Appuyer le MSP	15724
 Ardhi Msaidizi Mkoa	19592
 Assessment Methodology RAPID MSDI READINESS ASSESSMENT	18476
@@ -234,6 +235,7 @@ Harold Msusa	7270,2550
 Headquarters. Ms. Nicole Fragano	17257
 Health MSPSSN Ministry of Health	15411
 Health Mobile Health MSH Management Sciences	15411
+Health and Social Development Director Ms. Fathia	19846
 Hiring MSSP	1938
 Hon. Engineer Mshamu Ali Munde	19602
 Honourable Ms A. Babooram	14773
@@ -274,6 +276,7 @@ India Ms. Nirmala Sitharaman	16331
 Individuals and MSMEs	13938
 Information Centre Manager Ms. Thelma Joseph	19156
 Information System MHH Male-Headed Households MSME	11549
+Informatique Sanitaire. MSPLS	19645
 Infracos and MSPs Focused	10781
 Initiative. Dr. Amina Msengwa Salum Kassim	19554
 Instituto Nacional de Estadística de Guinea Ecuatorial MSBS	16962
@@ -309,6 +312,7 @@ LECTRONIQUE Actuellement le MSPLS	13306
 LGAs- MSD	19585
 LIFT Project MSME	3518
 La Cellule Informatique du MSAS	18297
+Labour and Social Development MSME Micro	19646
 Landlocked King Mswati III	12352
 Launches MSME Training National Information Technology	9117
 Le MSAS	18297
@@ -395,6 +399,7 @@ MS MS Suivi	14539
 MS Mainstreaming MTDG Medium-Term Development Goals	18512
 MS Ministère	15961,1920
 MS Moderately Satisfactory MTPUH Ministère des Travaux	16614
+MS Moderately Successful	19847
 MS NONKOSI MVANA.For	11229
 MS OASIS	1009
 MS Office	12917,1936,3444
@@ -414,7 +419,7 @@ MS Teams	2093
 MS Teams Attendance	18665
 MS Telcom	7667
 MS ViewState	15161
-MS Word	3118,1321,3385,4930,2850,1359
+MS Word	3118,1321,3385,4930,2850,1359,2844
 MS&publication	2096
 MS- Excel	747
 MS-2021 RH	18768
@@ -552,8 +557,8 @@ MSME and Entrepreneurship Development	940
 MSME-Driven AI Adoption	4528,7984
 MSMED	12453
 MSMEDA	11175,2081,2889,629
-MSMES	789,5094
-MSMEs	111,159,34,83,326,64,12,35,45,12,54,5,113,13,62,3,231,50,59,357,346,27,42,207,217,571,65,595,275,12,93,11,185,54,55,265,244,152,1,195,141,109,114,79,219,233,364,187,153,25,78,294,86,26,17,194,4,68,170,134,279,7,22,88,139,268,35,47,14,45,38,188,55,63,93,119,156,34,1,26,21,8,96,38,98,161,56,526,107,1,1,52,15,102,159,2,173,1,267,47,26,54,43,88,37,22,157,4,17,25,24,17,4,75,68,1,37,30,189,2,35,179,5,13,6,15,16,70,18,12,39,12,191,6,27,34,151,153,251,2,141,120,75,31,13,21,13,295,27,145,78,38,55,7,26,107,27,37,27,36,115,119,62,88,503,1,170,1,224,238,83,22,59,31,2,124,2,3,1,30,3,26,52,19,63,72,205,109,186,485,140,12,54,139,70,55,106,314,289,37,11,12
+MSMES	789,5094,13829
+MSMEs	111,159,34,83,326,64,12,35,45,12,54,5,113,13,62,3,231,50,59,357,346,27,42,207,217,571,65,595,275,12,93,11,185,54,55,265,244,152,1,195,141,109,114,79,219,233,364,187,153,25,78,294,86,26,17,194,4,68,170,134,279,7,22,88,139,268,35,47,14,45,38,188,55,63,93,119,156,34,1,26,21,8,96,38,98,161,56,526,107,1,1,52,15,102,159,2,173,1,267,47,26,54,43,88,37,22,157,4,17,25,24,17,4,75,68,1,37,30,189,2,35,179,5,13,6,15,16,70,18,12,39,12,191,6,27,34,151,153,251,2,141,120,75,31,13,21,13,295,27,145,78,38,55,7,26,107,27,37,27,36,115,119,62,88,503,1,170,1,224,238,83,22,59,31,2,124,2,3,1,30,3,26,52,19,63,72,205,109,186,485,140,12,54,139,70,55,106,314,289,37,11,12,118,89,6,11
 MSMEs Access	15157
 MSMEs Asked	10465
 MSMEs CGS	7763
@@ -574,6 +579,7 @@ MSMEs Programme Technologies	7548
 MSMEs Recording of MSMEs	13938
 MSMEs Strengthening Improves	10856
 MSMEs The ITU	10764
+MSMEs The UNBS	19712
 MSMEs and Access	14935
 MSMEs. Bosnia and Herzegovina	18561
 MSMEs. CBE	11134
@@ -619,7 +625,7 @@ MSP. Appuyer	15724
 MSP. Elaboration	15685
 MSP. III.2.1.2. Politique Nationale de Santé	15685
 MSPC Ministère	19216
-MSPLS	13300,6,6,2,11,16,101
+MSPLS	13300,6,6,2,11,16,101,6203
 MSPLS ATC	13306
 MSPLS Action IV.1.2 Implémenter	13306
 MSPLS Action IV.2.1 Codifier	13306
@@ -646,6 +652,9 @@ MSPLS VIII.3.1	13306
 MSPLS X	13306
 MSPLS X Développer	13306
 MSPLS X TIC	13306
+MSPLS-DISE	19645
+MSPLS-PNSR	19645
+MSPLS-PROGISSA	19645
 MSPLS. Ce COPIL	13306
 MSPLS. Ceci	13306
 MSPLS. Cette	13306
@@ -656,7 +665,7 @@ MSPLS. L'application	13306
 MSPLS. Parfois	13306
 MSPLS. Pourtant	13306
 MSPLS. Un	13306
-MSPLS. Une	13306
+MSPLS. Une	13306,6339
 MSPPFIFD	15685,589,182
 MSPPFIFD-CAB	15524
 MSPRH BOUDISSA Abdelmoumen El Djazair Information	15472
@@ -784,12 +793,14 @@ Ms Aisha Hamad Hassan	7034
 Ms Akanvariba	8371
 Ms Akello	8285
 Ms Alinah FosiCommissioner	6196
+Ms Anazra Mohamed	19824
 Ms Angellah Kairuki	4714,2714,2261
 Ms Anita Msumba	13280
 Ms Anne Sofie Bjelland	13144
 Ms Anquetil	14753,88
 Ms Asante-Asiedu	10144
 Ms Atieno	14344
+Ms Awany	19814
 Ms Ayesha Suleman	11241
 Ms B	6222
 Ms B Letompa Deputy Director-General	11261
@@ -1037,6 +1048,7 @@ Ms Rebecca Adda-Dontoh	13144
 Ms Rosemary Nyakikongoro	1210
 Ms Rumbidzai Ncube	13597
 Ms Ruth Kaima	12952
+Ms Ruth Nankabirwa	19706
 Ms S Nkuna	11289
 Ms SEEBRUN Reedhita Shreeshti Devi Analyst	14770
 Ms Salamatou Hassane Yacouba	18197
@@ -1117,6 +1129,7 @@ Ms. Amanda Serumaga	11332
 Ms. Amazouz	4123,8940,417
 Ms. Angele Makombo N'Tumba	14504
 Ms. Annette Ssemuwemba	7967,5684,1570
+Ms. Annette Ssemuwemba Mutaawe	19703
 Ms. Aretha Mare	7362
 Ms. Aria Deemie	8860,352
 Ms. Arroyo	15029
@@ -1220,7 +1233,7 @@ Ms. Gaudeuille Nee Medou Juliene Desiree	16277
 Ms. Geek Africa	16679
 Ms. Ghislaine Kayigi	15019
 Ms. Gloria C. Mwiko	13556
-Ms. Gloria Katuuku	6786
+Ms. Gloria Katuuku	6786,13006
 Ms. Goyal	15029
 Ms. Grace Rapholo and Dr. Jamela Hoveni	11257
 Ms. Hagar Khaled Saleh	6938
@@ -1257,6 +1270,7 @@ Ms. Joëlle Pereau	19112
 Ms. Judith Charlie	16971
 Ms. Judy Kilobi	12323
 Ms. Juhi McClelland	9885
+Ms. Julianne Mweheire	19728
 Ms. KUSOBILE KAMWAMBI	13384
 Ms. Karine Bonne	19000
 Ms. Karolina Stasiak	13528
@@ -1270,6 +1284,7 @@ Ms. Laetitia Erny	16101
 Ms. Laurence Parry Cooperation	11916
 Ms. Lea Turunen	16853
 Ms. Lebohang Monyam	12693
+Ms. Lenah Babaile	19688
 Ms. Leni Sharon Pamela	3307
 Ms. Letamo	12695
 Ms. Li Fa Cheung Kai Suet	14767
@@ -1283,6 +1298,7 @@ Ms. Lisa Simrique Sing	14767
 Ms. Livia Peiser	14140
 Ms. Loureen Kananyaba	13465
 Ms. Lucie Uwimpaye	15019
+Ms. Lucy Nakyobe	19719
 Ms. M. J. U. Allyjane	14815,17
 Ms. M. Marongwe	1554
 Ms. M. N. Madhub Senior Chief	14835
@@ -1327,7 +1343,9 @@ Ms. Myrthle Barbara Germaine Green Victoria	19049
 Ms. N. Dlamini	11131,3
 Ms. Nadjiba Djilali	15886
 Ms. Nafisa Binte Shafique	7171
+Ms. Najjuma Christine	19794
 Ms. Nanikie Mnisi	13477
+Ms. Nantongo	19794
 Ms. Naomi Munthali	13229
 Ms. Nassima Arhab	16127
 Ms. Natalie Edmond	7020
@@ -1399,6 +1417,7 @@ Ms. Silvia Villar	26,1,1
 Ms. Siwale	13662
 Ms. Sizakele Dlamini	11131
 Ms. Sons	11131,3
+Ms. Sophia Nantongo	19794,6
 Ms. Soraya Hakuziyaremye	15023
 Ms. Souhila Amazouz	1814,2309,8940,417
 Ms. Ssemuwemba	13651
@@ -1418,6 +1437,7 @@ Ms. Thato Mochone	12679
 Ms. Thomas Nkuranga	15019
 Ms. Tiaho Cecile	17596
 Ms. Tolba Ikram	11304
+Ms. Tsaone Ruth Thebe	19651
 Ms. Udé Fati	11579
 Ms. Ummu Bunu Ahmad	6946
 Ms. Vasilika Kota	17257
@@ -1577,6 +1597,7 @@ Phase II MSME Line of Credit	17139
 Phases Multiples MST Maladie Sexuellement Transmissible	10876
 Plan. Hon. Ms. WINNIE MAGAGULA	12896
 Planning and Administration Prudence Kaoma. Ms Kaoma	10510
+Planning and Economic Development MSCI Morgan Stanley	19633
 Policies Financial Risks MSB	14736
 Policy and Financial Stability Statement MSMEs Micro	14997
 Posts and ICT MSME Micro	13312,2

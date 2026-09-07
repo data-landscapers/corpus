@@ -34,6 +34,7 @@ Angolan Mobile Payments Subsystem	10775
 Annual Subscription	1220,10631,125
 Aplicação Subsidiária	549,10206,678
 Artificial Substrates	17114
+Assessing Subsidiary ICT	19690
 Asymetric Digital Subscriber Line AMAP	17824
 Asymmetric Digital Subscriber	12395
 Asymmetric Digital Subscriber Line	13218,2154,3072
@@ -63,6 +64,7 @@ Bank Performance Satisfactory M&E Quality Substantial	15601
 Bank. The Subsidiary Agreement	10768
 Banking Subscribers	4517
 Births And Deaths Registration Act Subsidiary	12138
+Body ADVANCED SECONDARY CURRICULUM SUBSIDIARY ICT	19690
 Botswana. Alcohol and Substance Abuse	12606
 Branch. Substantive	12786
 Breakdown of Fuel Subsidies	1828
@@ -112,12 +114,14 @@ Community Health Subsystem	4260
 Community Subsystem Strategy	4260
 Comparison of Mobile-cellular Subscriptions	15136
 Comply Not Comply Substantiate	11209
+Composition of Households In Subsistence and Money Economy	19715
 Congo DSL Digital Subscriber Line. DVCMS	718
 Conselho. Subsecção II	15526
 Consumer and Producer Subsidies	1828
 Controlled Substances Act	13403
 Cooperation Deepening Agency SIM Subscriber Identity	12297
 Corporate Subscriptions	9253
+Cost of Subsidy Represented	19823
 Crisis of Substantive Governance	10062
 Current Subsector Situation and Challenges	15604
 Current Subsector Situation and Challenges Access	15604
@@ -153,6 +157,11 @@ Data-Only Broadband Subscriptions	3862
 Data-Only Mobile-Broadband Subscriptions	3862
 Date Received Time Received Subscriber’s BOZ	12364
 Date Time Received Received Subscriber’s BOZ	12364
+Day Mobile Internet Subscriptions	19728
+Day Mobile Money Subscriptions	19728
+Day Mobile Subs	19728
+Day Mobile Subs Agent	19728
+Day Mobile Subscriptions	19728
 Day Subscription Code	15279
 Decision Substantial	16675
 Decision Substantial Track II-The	15513,37
@@ -162,11 +171,13 @@ Department Subsidize	17157
 Deploying the Largest Subsea Fiber-Optic Cable System	2677
 Designated Account. Subsequent	10829
 Digital Business Subsectors	17870
-Digital Subscriber Line	15,6070,586,4076,3976,3721
+Digital Subscriber Line	15,6070,586,4076,3976,3721,1284
 Digital Subscriber Line Access Multiplexer	14723
 Digital Subscriber Line YEDF Youth Enterprise	2775
 Digital Subscriber Lines	13290
 Direito Subsidiário	10747,696
+Distribution of Agro Input Subsidies Project Performance	19633
+Distribution of Benefits of Fuel Subsidies	19823
 Division for Substance Abuse Prevention	18937
 Drip Irrigation Subsidy Program Broadcast	17157
 E-waste Substance Occurrence	1988
@@ -237,11 +248,12 @@ Fixed Data and Broadband Subscriptions Internet Technology	6671
 Fixed Data and Subscriptions	2776
 Fixed Digital Subscriber	6946
 Fixed Internet Subscription	13346
-Fixed Internet Subscriptions	718,5953
+Fixed Internet Subscriptions	718,5953,13057
 Fixed Line Data Subscriptions	2776
 Fixed Line Data Subscriptions and Penetration	2776
 Fixed Line Data Subscriptions and Penetration Fixed	2776
 Fixed Line Subscriptions	6671
+Fixed Line Subscriptions While Uganda	19728
 Fixed Network Voice Subscription and Penetration Rate	2776
 Fixed Network Voice Subscriptions	2776
 Fixed Telephone Subscriptions	6000,671,5724,2741
@@ -267,6 +279,7 @@ Fixed-Wired Telephone Subscriptions	12395
 Fixed-Wireless Broadband Subscriptions	12395
 Fixed-Wireless Telephone Subscriptions	12395
 Food Subsidy	15811,1346
+Fuel Price Subsidy	19823
 Fuel Subsidies Liberia	17257
 Fuel Subsidy Reform	1828,8951
 Fuel Subsidy Reform Fuel Subsidies	1828
@@ -285,8 +298,11 @@ Global Active Broadband Subscriptions	6946
 Global Mechanism’s Substantive Plenary Session	7552
 Good Practices for Subsea Cables Policy	2677
 Governance High High High Macroeconomic Substantial	15619,1019
+Government Tower Subsidies	19728
+Government. Subsequently	19642
 Grants and Subsidies	12971
 Group III and IV Hazardous Substances	3651
+Growth Trends of Active Mobile Subscriptions	19728
 Guarantee and Subsidy Fund	15473
 Guarantee and Subsidy Fund IDA Industrial Development	15473
 Guiné-Bissau Subscrições	11569
@@ -337,6 +353,7 @@ Internet Subscribers Another	13295
 Internet Subscribers Per Region	3862
 Internet Subscription	3862
 Internet Subscriptions	3862,1383,1426,275,5449,951,1790
+Internet Subscriptions Fixed Internet Subscriptions Fixed	19728
 Internet Subscriptions Year	3862
 Internet Subscriptions2 Rwanda	15136
 Jan-24 SUBSTANTIAL	12241
@@ -346,6 +363,7 @@ KEY MANAGEMENT AND ISSUANCE OF SUBSCRIBER	13071
 Kenya National Bureau of Statistics. Subscription	2775
 Kenya Subsidiary Legislation	14461
 Khukhune Substation	12767
+Kilometre Active Subscriptions Subscriptions	19728
 Kinsuka HV Substation	15670
 Kunene Substation. The ANNA Interconnector	13155
 LEC Klay Substation LIBERIA ELECTRICITY REGULATORY	16978
@@ -358,16 +376,21 @@ Legislação Subsidiária	752
 Level of Average Annual Subscription	15023
 Libya Subsidy Note	16902
 Limited SIM Subscriber Identification Module	6671
+Line Subscriptions Registered	19728
 List of Prohibited Substances	15127
 Litsoeneng and Khukhune Substations	12767
 Low Substitutes	10726
 M Avg. Spend of New Subscribers	14707
+M Million Active Subscriptions Subscriptions	19728
 M Mobile Money Active Subscriptions	9781
+M Mobile Money Active Subscriptions Subscriptions	19728
+M Social Media Subscriptions WhatsApp	19728
 M&E Quality Rating Substantial	16960
 M&E Quality Substantial	14885
 M&E Quality Substantial. Implementing Agency	13722
 M&E Quality Substantial. SECTORS AND THEMES	15702,257
 M2M Subscriptions Figure	6000
+MDAs Firewall Subscription	19639
 MOBILE CELLULAR ACTIVE SUBSCRIPTIONS	11211,51
 MOBILE CELLULAR AND SMARTPHONE SUBSCRIPTIONS	11211,51
 MOBILE CELLULAR PHONE DATA SUBSCRIPTIONS	11211,51
@@ -418,16 +441,18 @@ Mobile Data Pre-paid and Post-paid Subscriptions	2776
 Mobile Data Prepaid and Postpaid Subscriptions	2776
 Mobile Data Prepaid and Postpaid Subscriptions Mobile	2776
 Mobile Data Subscription	2776
-Mobile Data Subscriptions	2776,3895,275,9097
+Mobile Data Subscriptions	2776,3895,275,9097,3685
 Mobile Data Subscriptions Q3	2776
 Mobile Data Subscriptions and Penetration Rate	2776
 Mobile Data Subscriptions and Penetration Rate Subscription	2776
 Mobile Data and Broadband Subscriptions	6671
+Mobile Finance Subscriptions and Agent Counts	19728
 Mobile Internet Subscriptions	15136
 Mobile Internet Subscriptions Per	15136
 Mobile Internet Subscriptions Total Mobile Subscriptions	15136
 Mobile Market Subscriptions Mobile	12395
-Mobile Money Subscriptions	6671,275
+Mobile Money Active Subscriptions	19728
+Mobile Money Subscriptions	6671,275,12782
 Mobile Money Subscriptions All	12601
 Mobile Money Subscriptions FY	6946
 Mobile Phone Subscription Report	14935
@@ -438,8 +463,9 @@ Mobile Subscription	2776,3895
 Mobile Subscription Growth	2776
 Mobile Subscription Identity Number	16934
 Mobile Subscription Penetration Rate	2776
-Mobile Subscriptions	5245,755,946,2835,5355
+Mobile Subscriptions	5245,755,946,2835,5355,4592
 Mobile Subscriptions Airtel Networks Kenya Limited	6946
+Mobile Subscriptions Growth Trends	19728
 Mobile Subscriptions and Market Penetration	12395
 Mobile Subscriptions and Penetration	6671
 Mobile Subscriptions and Penetration Figure	6671
@@ -483,6 +509,7 @@ Number of Active Voice Subscriptions	3862
 Number of Data-Only Mobile-Broadband Subscriptions	3862
 Number of Internet Subscribers Per Region	3862
 Number of Mobile Cellular Connected Subscribers	12395
+Number of PAY TV Subscribers	19728
 Number of Satellite Broadband Subscriptions	3641
 Number of Subscribers	3862
 Number of Subscription Television Licences	12395
@@ -530,6 +557,7 @@ PSPF. The IMF Quota Subscription	11131
 Paratus Conclusion Subscribers Revenue	1013
 Part IV Subsidies	16850
 PawaPay Subsidiary Kerry Payments Secures VAS	6684
+Pay TV Active Subscriptions	19728
 Pay Television Subscription Information	582
 Payment Instruments Subscribers Figure	15023
 Payments Subsector	14997
@@ -583,6 +611,7 @@ Rating Substantial OVERALL EFFICACY Rationale	14888
 Rating Substantial Substantial	18534,708
 Rating Substantial Substantial For Official Use	18350
 Rating Substantial Substantial Implementation Status and Key	15619,1019
+Rationale for Teaching Subsidiary ICT	19690
 Real-Time Payment Subsystem	10775
 Reasons Document for The End-User and Subscriber Services	4732
 Recurring Subscriptions	15260
@@ -610,6 +639,7 @@ SDG Sustainable Development Goals SIM Subscriber	12328
 SECTOR REPORT ADSL Asymmetric Digital Subscriber	12395
 SECÇÃO III COMISSÕES FUNDIÁRIAS SUBSECÇÃO	11527
 SIM CARD Subscriber Identity Module SMMEs	12395
+SIM Subscriber	19639
 SIM Subscriber Identification Module Figure	582
 SIM Subscriber Identification Module SIRC Sistema	10765,10
 SPLK Substation Phase	12358
@@ -648,6 +678,7 @@ SUBSIDIARY LEGISLATION SECTION	13285
 SUBSIDIARY LEGISLATION To The Gazette	19564
 SUBSIDIO-SOCIAL-BASICO-.pdf	12247
 SUBSIDIOS Y TRANSFERENCIAS	4209
+SUBSISTENCE ECONOMY AND HOUSEHOLD WELFARE	19715
 SUBSTANCE MISMATCH	4534
 SUBSTANCES MINERALES DU GROUPE	17827
 SUBSTANTIAL	12241,839,2367
@@ -689,6 +720,7 @@ Services Subscriptions	2776
 Several Subsea Cables	2677
 Sexual and Reproductive Health and Rights SUD Substance	17289
 Shareholder Subscription Agreement	14387,18,279
+Snapshot Registered Mobile Subscriptions	19728
 Social Risk Classification P175363 Substantial Investment	10964
 Social Substantial Apr	12228
 Social Subsystem	11237
@@ -719,7 +751,7 @@ Subsariana BAD Banco Africano de Desenvolvimento BCV	15535
 Subscreva	9990
 Subscrever	11415,13,4752,228
 Subscrib Initial Surname	12364
-Subscriber	582,154,3126,2989,3942,3133,1223,153,1530,7,1613
+Subscriber	582,154,3126,2989,3942,3133,1223,153,1530,7,1613,1276
 Subscriber Data	3862
 Subscriber Data for Operators	3862
 Subscriber Data- Active Voice Subscriptions	3862
@@ -728,13 +760,14 @@ Subscriber Identification Module	582,14306
 Subscriber Identification Module SMS Short Message	12663
 Subscriber Identification Modules	3862,14582
 Subscriber Identification and Registration	18485
-Subscriber Identity Module	4439,10335,346
+Subscriber Identity Module	4439,10335,346,4608
 Subscriber Identity Module Card SLA Service	34
 Subscriber Identity Module Cards	16839
 Subscriber Identity Module SME Small Medium	14674
 Subscriber Identity Module SME Small and Medium-sized	18931
 Subscriber InfoHighway	14725
 Subscriber Information	3862
+Subscriber Information Management System	19651
 Subscriber Line	12395
 Subscriber Line AFD Agence FranÃ	18887
 Subscriber Line DT SACCOs Deposit Taking	2775
@@ -750,7 +783,7 @@ Subscriber Voice	3862
 Subscriber Voice Data	3862
 SubscriberCount	10848
 SubscriberCountOrderOfMagnitude	10848
-Subscribers	774,446,306,864,338,221,579,334,561,789,179,1952,668,397,463,1213,331,441,786,60,149,6,119,419,295,1461,523,33,225,204,13,451,1635,493,202,7,14,1,1,1,27,20,451,61
+Subscribers	774,446,306,864,338,221,579,334,561,789,179,1952,668,397,463,1213,331,441,786,60,149,6,119,419,295,1461,523,33,225,204,13,451,1635,493,202,7,14,1,1,1,27,20,451,61,1199
 Subscribers Actually Sit	6749
 Subscribers Added	14707
 Subscribers Identification and Registration	18452
@@ -780,6 +813,7 @@ Subscription Figure	2776
 Subscription Management	6946
 Subscription Management Service	2776
 Subscription Management Service For A Satellite	2776
+Subscription Management Services	19651
 Subscription Management Services Landing Rights	6946
 Subscription Minutes of Use	6671
 Subscription MoU	2776
@@ -792,8 +826,9 @@ Subscription Television Broadcasting During Q1 Subscription	19151
 Subscription Tiers	14327
 Subscription Total Redemption	17235
 Subscription Total Redemption Net Contraction	17235
+Subscription and Penetration Trends Mobile	19728
 Subscription-Diluted Markets	8753
-Subscriptions	718,502,724,832,865,221,128,1178,832,671,275,700,2135,940,1255,419,576,5,75,71,1614,1307,1121,81,498
+Subscriptions	718,502,724,832,865,221,128,1178,832,671,275,700,2135,940,1255,419,576,5,75,71,1614,1307,1121,81,498,1898,10,77
 Subscriptions Internet Penetration EAC Active Mobile	6946
 Subscriptions Mar-26 Dec-25 Quarterly Variation Indicator	6671
 Subscriptions S	3862
@@ -818,7 +853,7 @@ Subsea Infrastructure	7145,3233
 Subsea Layer Wholesale	16814
 Subsec	14720
 Subsecretaria de Fomento	17337
-Subsection	3,8,17,545,14,385,361,141,1253,434,553,173,3053,4237,1,1,84,1283,3,80,19,2,243,10,27,375,5,1,10,140,105,868,15,145,53,66,3,3,8,1,2,13,100,65,1922,6,3,269,1326,2,2,6,18,4,454,114,491,1,1
+Subsection	3,8,17,545,14,385,361,141,1253,434,553,173,3053,4237,1,1,84,1283,3,80,19,2,243,10,27,375,5,1,10,140,105,868,15,145,53,66,3,3,8,1,2,13,100,65,1922,6,3,269,1326,2,2,6,18,4,454,114,491,1,1,99,8
 Subsections	573,14,2139,3047,2072,4704,773,1391,14,2112
 Subsector	4209
 Subsector Actividad Pecuaria	4209
@@ -878,10 +913,11 @@ Subsecção VII	15526
 Subsecção VII Informações	11901
 Subsecção VIII Cadastro	11901
 Subsecção X Caracterização	11901
-Subsequent	674,213,267,1523,927,522,606,11,91,62,349,1358,1672,1360,1184,362,382,342,50,302,12,28,97,583,65,11,408,974,331,478,128,106,247,487,437,223,139,105,665,1106
+Subsequent	674,213,267,1523,927,522,606,11,91,62,349,1358,1672,1360,1184,362,382,342,50,302,12,28,97,583,65,11,408,974,331,478,128,106,247,487,437,223,139,105,665,1106,790,122
 Subsequent Allocation Window	14165
 Subsequent Arrests	14190
 Subsequent Audit	15492
+Subsequent DLRs	19835
 Subsequent Invitation for Bids	18543
 Subsequentemente	18791
 Subsequently	396,322,299,1100,772,4281,1290,144,2,182,1516,72,505,82,1,166,1,3,57,56,708,206,56,38,78,96,16,226,7,284,17,331,36,278,922,351,8,224,344,190,603,592,38,6,9,11,5,8,7,8,207,859,661,132,122,306,339
@@ -891,10 +927,12 @@ Subsidiaries Directors	7204
 Subsidiarity	17019,1966
 Subsidiarity and Proportionality	13308,2232
 Subsidiarité	10712,3129
-Subsidiary	12483,422,382,24,1099,12,27,4013,432,691
+Subsidiary	12483,422,382,24,1099,12,27,4013,432,691,46
 Subsidiary Agreement	15659,485,3140
 Subsidiary Business Names	16601
 Subsidiary ICPS	4791
+Subsidiary ICT	19690
+Subsidiary Information and Communications Technology	19690
 Subsidiary Loan Agreement	14546
 Subsidies	236,1592,947,468,4345,2235,2209,341,162,449,76,271,1078,1110,1320,63,141,1440,312,737,70
 Subsidies Compensation	2775
@@ -910,7 +948,7 @@ Subsidised Education NUST Advances Intellectual Property	12357
 Subsidising	8598
 Subsidization	6748
 Subsidize	1885,10790,2048,274,2160
-Subsidized	12445,519,3920,273
+Subsidized	12445,519,3920,273,2558
 Subsidized Health Care Services	12373
 Subsidized Market Capture	17695
 Subsidizing	718,16257
@@ -951,8 +989,14 @@ Subsistence Allowance	14742
 Subsistence Allowance of Rs	14742
 Subsistence Allowances Subsistence	13037
 Subsistence Disturbance Per-diem Domestic Utilities	19585
+Subsistence Economy	19715
+Subsistence Economy and Household Welfare	19715
+Subsistence Economy and Households	19715
+Subsistence Economy and Money Economy	19715
 Subsistence and Commercial	12383
+Subsistence and Money Economy	19715
 Subsistence and Travel Subsistence	13096
+Subsisting	19649
 Subsjeervct	19525
 Subsriptions EAC Internet Penetration	6946
 Substack	4253,711,858,1012,4014
@@ -974,8 +1018,8 @@ Substances Naturelles	19366
 Substances Naturelles Technologiques de Bamako	17829
 Substances and Hazardous Wastes	14409
 Substances and Hazardous Wastes. ARTICLE	14409
-Substandard	19519
-Substantial	764,205,27,220,48,13,7,6,480,4,93,188,198,459,177,567,148,176,908,932,919,40,349,949,2891,7,54,3,38,16,78,431,22,52,56,35,295,11,39,19,32,9,6,17,188,79,23,749,27,4,37,236,1,60,342,122,64,50,40,477,89,51,270,13,25,2,11,6,22,4,17,20,2,12,66,41,21,31,221,13,23,33,31,7,35,48,20,37,1,2,41,2,33,45,177,31,23,66,65,240,14,38,178,91,221,23,11,34,6,37,42,17,18,2,354,379,13,42,54,4,44,98,29,65,95,8,54,4,406,12,32,8,8,26,36,95,263,39,197,104
+Substandard	19519,193
+Substantial	764,205,27,220,48,13,7,6,480,4,93,188,198,459,177,567,148,176,908,932,919,40,349,949,2891,7,54,3,38,16,78,431,22,52,56,35,295,11,39,19,32,9,6,17,188,79,23,749,27,4,37,236,1,60,342,122,64,50,40,477,89,51,270,13,25,2,11,6,22,4,17,20,2,12,66,41,21,31,221,13,23,33,31,7,35,48,20,37,1,2,41,2,33,45,177,31,23,66,65,240,14,38,178,91,221,23,11,34,6,37,42,17,18,2,354,379,13,42,54,4,44,98,29,65,95,8,54,4,406,12,32,8,8,26,36,95,263,39,197,104,58,192,12
 Substantial A.1 Environmental Risk Rating Substantial	18374
 Substantial A.2 Social Risk Rating Overall	18374
 Substantial Adopt	13938
@@ -987,7 +1031,7 @@ Substantial COMPLIANCE Policy Does	10964,561,4028,2551,197
 Substantial Comments	14056
 Substantial Concept Review Decision	14015
 Substantial Dec	17958
-Substantial Decision	16654
+Substantial Decision	16654,3009
 Substantial Develop	11525
 Substantial E&S	17114
 Substantial Efficacy Substantial Outcome	17962
@@ -1059,6 +1103,7 @@ Substantial. Both Benin and Liberia	16144
 Substantial. Building	10964
 Substantial. C. Environmental	16144
 Substantial. CAB4	15511
+Substantial. COMPLIANCE	19835
 Substantial. Concept Review Decision	16293
 Substantial. Country FM	11525
 Substantial. Cybersecurity	1284,12047
@@ -1066,13 +1111,15 @@ Substantial. Decision	13793
 Substantial. Despite	17962
 Substantial. Details	10829
 Substantial. Direct E&S	15553
+Substantial. Djibouti	19847
 Substantial. E. OTHER OUTCOMES AND IMPACTS	15511
 Substantial. Economic	1284
-Substantial. Environmental	14487,1031,143
+Substantial. Environmental	14487,1031,143,4002
 Substantial. Even	15553
 Substantial. Experience	13331
 Substantial. FM-related	10829
 Substantial. Fiduciary	16949
+Substantial. Financial	19847
 Substantial. Gabon	15511
 Substantial. Government	11905
 Substantial. Higher	11905
@@ -1080,6 +1127,7 @@ Substantial. I. BACKGROUND AND RATIONALE	16398
 Substantial. Implementation	13331,2328
 Substantial. Indeed	16654
 Substantial. Key	16144
+Substantial. Legal Covenants	19643
 Substantial. Like	19245
 Substantial. Limited	1284
 Substantial. Lithium-ion	18374
@@ -1088,10 +1136,13 @@ Substantial. Official Use Only Page	16436
 Substantial. Overall	15553,108
 Substantial. Overall Efficacy Rating Substantial	16960
 Substantial. PFM	12176
+Substantial. POLICY COMPLIANCE	19847
 Substantial. Physical	16144
+Substantial. Policy	19847
 Substantial. Political	10964
 Substantial. Positive	1988
 Substantial. Procurement	15553
+Substantial. Proposed	19835
 Substantial. Reforms	1284
 Substantial. Related	13331
 Substantial. Risk	16614
@@ -1109,7 +1160,7 @@ Substantial. The MoHAIS	1867
 Substantial. The OBR	1284
 Substantial. The PCU	19284
 Substantial. The Program	3604
-Substantial. The Project	15659
+Substantial. The Project	15659,4188
 Substantial. The World Bank	1284,12047
 Substantial. The World Bank Procurement Regulations	11905
 Substantial. Two AFs	11924
@@ -1125,6 +1176,7 @@ Substantially Compliant	13381
 Substantial’. Component	10829
 Substantial’. Implementation	10829
 Substantiate	11209
+Substantiel	19687
 Substantiel. Recommandations	16012
 Substantive	10062,944,1084,882
 Substantive Plenary Session	7552
@@ -1134,8 +1186,9 @@ Substantively	1163
 Substation	12253
 Substation Fuel Backup Storage	10956
 Substation The Sekelduin Substation	13200
-Substations	9123,3235
+Substations	9123,3235,7274
 Substations T&D	12358
+Substations and Switching Stations	19646
 Substituer	8891
 Substituição	10758,626,41,42,434,3490,1,746,2613
 Substituições	12018
@@ -1171,14 +1224,17 @@ Taba Subsea Cable	16808
 Taba le Red Sea Subsea Festoon Cable	17694
 Tanzania Telecom Subscriptions Reach	5715
 Taxes Less Subsidies	18483
+Teaching Subsidiary ICT	19690
 Technology Subscriptions FY	6946
 Telecom Egypt’s Red Sea Subsea Festoon	16808,885
+Telecommunication Service Access Mobile Subscriptions Mobile	19728
 Telecommunications Service Subscribers	12297
 Telecoms Industry Active Subscriber Statistics	3862
 Telefonia Móvel Banda Larga Subscrições da Rede	11418
 Telesol Subscription	2776
 Temporary Currency Substitution	16219
 Thousand Fixed Line Subscriptions Devices and Terminals	9781
+Tower Subsidies	19728
 Toxic Substances	1988
 Toxicologie des Substances Bioactives	19366
 Traffic Act.’’. Substitution	11551
@@ -1188,6 +1244,7 @@ Trend of Fixed Broadband Subscriptions	15136
 Trend of Internet Subscriptions	15136
 Trend of Mobile Internet Subscriptions	15136
 Trend of Mobile-Cellular Subscriptions	15136
+Trusted Subscriber Services	19699
 Type Ecosystem Subscriptions	12395
 UNESCO. Subsequently	13392
 UNHCR. Subscribers	12297
@@ -1196,11 +1253,13 @@ USPF Subsidy	11857
 Umoja Subsea Cable	1363
 Unique Mobile BB Subscriptions	13314
 Unique Mobile Cell. Subscription	13314
+Unique Mobile Subscriptions	19728
 Upstream Subsector Upstream Petroleum Operations	12256
 User and Subscriber Charter Regulations	11211
 User and Subscriber Service Charter	4732
 User and Subscriber Service Charter Amendment Regulations	11259
 User and Subscriber Service Charter Regulations	4732,6527
+V Gahongore-RN1 Substation	19704
 V Mariakani Substation	14615
 V Prestea Substation. Conclusion	15904
 V Substation	12256,2489

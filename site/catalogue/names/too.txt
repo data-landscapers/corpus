@@ -96,6 +96,7 @@ Deploy Tools	1000
 Develop Tools and Resources	12675
 Develop and Implement Monitoring and Evaluation Tools	12923
 Development of Regulatory Tools for Ex-Ante Regulation	17077
+Development of Tools	19715
 Diagnostic Assessment Tool Tax Audit Quality	12500
 Diagnostic Toolkit	16876,2658
 Diagnostic Tools Inclusion Design Ecosystem Stakeholder	13005
@@ -139,6 +140,7 @@ EduTrac Tool	18911
 Education Data Toolkit	6048
 Education Toolkit	6048
 Education. SYSTEMATIC OPERATIONS RISK-RATING TOOL	14937
+Educational Technology Tools	19725
 Electronic Records Management Tool	12325
 Emerging Compliance Toolkit	7548
 Environmental and Social Incident Reporting Toolkit	13392
@@ -189,6 +191,7 @@ Health Toolkit	18478
 Health Tools	15685
 HealthEnabled. Digital Health Tools for Community Health	12255
 High Risk TOOL	11156
+Hospital Walkthrough and ICT Assessment Tool	19667
 Human Resources Mrs Toolseedevi SOBRUN	14746
 I4T-digital-platform-governance Toolkit 2607.pdf	6436
 ICRC Interagency Triage Tool. Monitored	15206
@@ -214,6 +217,7 @@ Intrinsic Risk Assessment Worksheet Tool	11156
 Intrinsic Risk Worksheet Tool	11156
 Introduce Modern AI Tools Put APIs	18039
 Irrigation Performance Assessment and Diagnostic Tool	12828
+Jobs. SYSTEMATIC OPERATIONS RISK-RATING TOOL	19643
 KEY STRATEGIC RESULTS Next-Generation Identity Tools	13095
 KOBO Toolbox	10829
 KPIs Data Collection Tools Developme	16963
@@ -233,6 +237,7 @@ Light Interaction Tool	11975
 Lives Saved Tool	13578
 M&E and GRM Module Implementation Kobo Toolbox	13395
 M'bwezera Monitoring Tool	12980
+MDA Compliance Toolkit	19801
 MIREU SLO Toolbox	11007
 Macroprudential Surveillance Tools	11134
 Madagascar Rolls Out Online Tool for Violence	14660
@@ -278,6 +283,7 @@ OPay Customer Shedrach Sunday Achor Took	7176
 Observing Systems Capability Analysis and Review Tool	18578
 One-time Configuration Tools	7988
 Open Data Toolkit	1243,14332
+Operation Document. SYSTEMATIC OPERATIONS RISK-RATING TOOL	19847
 Oversight Monitoring Tools	12537
 PDIA Toolkit	11006,1
 PDIA Toolkit’s Section	11007
@@ -341,15 +347,17 @@ SMS Tool	13563
 SMT Electronic Stock Management Tool EDIT	18478
 SPL Systematic Operations Risk-Rating Tool SSNP	10964
 SQAO AI Support Tool	18557
+SS7 Supporting Toolkits	19801
 SYSTEM INSPECTION AND TESTING TOOL Name	16963
 SYSTEMATIC OPERATIONS RISK- RATING TOOL	1264,603,1737,2935,4229,649,143,4098,3,82,2455,611,436,39
-SYSTEMATIC OPERATIONS RISK-RATING TOOL	969,315,9545,135,416,145,330,110,1366,1,1858,301,62,68,777,498,26,1371,8,782
+SYSTEMATIC OPERATIONS RISK-RATING TOOL	969,315,9545,135,416,145,330,110,1366,1,1858,301,62,68,777,498,26,1371,8,782,746
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Last Approved	16705
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Rating	2712,1976,6707,6509,630,258
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173,587,31,862,1060,51,128,576,2,276,66,915,6,79,17,374,35,453,48,127,217,4,1,462,165,260,7,232
 Saïd Toorbuth Director	14744
 Saúde STAR Strategic Toolkit for Assessing Risks	15966
 Scam Alert Tool	10580
+Scoring Tool	19645
 Secondary School Teachers Using the DigComp Tool	1554
 Security Testing Tools Use	11952
 Self-Reporting Tool	2445
@@ -381,14 +389,14 @@ Systematic Operations Risk-Rating Tool Systematic Tracking	15658
 Systematic Operations Risk-rating Tool Risk Category	18473
 Systematic Tool	17260
 Systems Must Too	15125
-TADAT Tax Administration Diagnostic Assessment Tool	12948,913,576
+TADAT Tax Administration Diagnostic Assessment Tool	12948,913,576,5410
 TOOGUEDA	16674
 TOOK CASH OR IN-	17043
 TOOLKIT	17856
 TOOLKIT WORKFLOW	11156
 TOOLS	15023
 TOOLS TO ADDRESS THEM STRUCTURAL RISK	11156
-Tax Administration Diagnostic Assessment Tool	10519,465,1516,448,1489,1596,916,952
+Tax Administration Diagnostic Assessment Tool	10519,465,1516,448,1489,1596,916,952,1946
 Tax Administration Diagnostic Assessment Tool. African	13314
 Teacher Integration of Digital Tools	16963
 Teachers' Perceptions of Digital Tools	11927
@@ -428,8 +436,9 @@ Toolkit	1554,9463,139,830,370,1588,1636
 Toolkit for Facility Data Quality Assessment	11596
 Toolkit. The Cybercrime Bill	12982
 Toolkit.pdf. CGAP	11007
-Toolkits	17260
-Tools	21,1864,211,2432,320,397,104,164,152,1482,565,1001,411,4,488,1164,374,2,138,47,614,31,339,120,67,519,387,1023,480,98,323,262,1239,120,33,120,22,19,248,36,332,109,227,367,1,434,143,479
+Toolkits	17260,2541
+Toolkits The NISF	19801
+Tools	21,1864,211,2432,320,397,104,164,152,1482,565,1001,411,4,488,1164,374,2,138,47,614,31,339,120,67,519,387,1023,480,98,323,262,1239,120,33,120,22,19,248,36,332,109,227,367,1,434,143,479,243
 Tools Direct	15473
 Tools PAYE Calculator Legacy TOT Calculator	12454
 Tools Standards	9124
@@ -447,6 +456,7 @@ ToolssuchasETL	8606
 Toomere	2096
 ToomeyEHardemanWHankonenNByrneMMcSharryJMatvienko-SikarKet	8376
 Toopp-.l1e5v	10969
+Tooro	19715,13
 Toothpicks	13122
 Tootianl	11572
 Toots	2096
@@ -482,5 +492,6 @@ Whistleblower Tool	8529
 World Bank Digital Identity Toolkit	12359
 World Bank Guidance Note and Assessment Tool	16867
 World Bank’s Crisis Preparedness and Response Toolkit	11469
+Yes. SYSTEMATIC OPERATIONS RISK-RATING TOOL	19835
 Zahida Toofany REPUBLIC OF MAURITIUS MINISTRY	14762
 Zambia’s Technology Strategy Development Toolkit	12356

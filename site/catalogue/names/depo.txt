@@ -32,8 +32,9 @@ Cassa Depositi	789,9914,954,1162
 Central Bank and Record Keeping and Deposits and Withdrawals	17030
 Central Depository	10853,3875,2
 Central Depository and Settlement Corporation	7567
-Central Securities Depository	3714,803,2461,4156,973,257,688,400,16,1555
-Central Securities Depository Company of Botswana	12537
+Central Securities Depository	3714,803,2461,4156,973,257,688,400,16,1555,4641,52
+Central Securities Depository Company of Botswana	12537,7113,14
+Central Securities Depository Company of Botswana DLT	19664
 Central Securities Depository Participant	4896
 Certificate of Deposits	17235
 Certificates of Deposit B- Deposits	17236
@@ -85,7 +86,7 @@ Demand Deposits	17236
 Depo-Provera	16922,2304
 Depois	2816,7934,5,608,72,97,3853,7,53,880,51,2379,41,5
 Depois de Luanda	10751
-Depoliticize	1828
+Depoliticize	1828,17995
 Deponent	18154
 Deport	10729
 Deportation	11956,30
@@ -168,7 +169,7 @@ Depository Trust	9706
 Depository and Registration	14409
 Depository. Identify	14997
 Depositou	10760
-Deposits	3657,238,3794,74,3368,3415,451,26,1973,239,1,7,294,1064,1
+Deposits	3657,238,3794,74,3368,3415,451,26,1973,239,1,7,294,1064,1,1110
 Deposits Time	17236
 Depositário	11374
 Depositário Central de Valores Mobiliá	18761
@@ -204,6 +205,7 @@ IVA. Depois	12018
 Immigration and Deportation Act	1867,121,11364,51
 Immigration and Deportation Act No	1988
 Individual Deposits	17236
+Information Depository	19745
 Inland Container Depots	19585
 Instalaciones Deportivas	4209
 Instruments UMOA UMOA Central Depository	6938
@@ -230,6 +232,7 @@ Mauritius Deposit Insurance Company Ltd	14744
 Mauritius Deposit Insurance Corporation Ltd	14744
 Mauritius Deposit Insurance Scheme	14744
 Microfinance Deposit-Taking Institutions	17235
+Microfinance Deposit-taking Institution	19716
 Mining of Mineral Deposits	7759
 Ministério da Justiça. Depois	12863
 Miscellaneous Deposit Account	19585

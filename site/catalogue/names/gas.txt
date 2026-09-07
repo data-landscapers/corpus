@@ -126,6 +126,7 @@ Gas Natural	1701
 Gas Natural Diversificada	1701
 Gas Natural Licuado	1701
 Gas Oil	16935
+Gas Policing	19746
 Gas Sector	11925
 Gas Service Connection Electricity Network Development	15578
 Gas Services Congo	16413
@@ -152,6 +153,7 @@ Gasabo Fees	12328
 Gasabo KG	14967,38
 Gasabo Kobil Petroleum Rwanda Gatsata	718
 Gasela Mgqibelo	4896
+Gasenyi	19645
 Gaseous	15027,1873
 Gases	13385,3490,25
 Gases GoZ Government of Zimbabwe HDI Human	970
@@ -169,6 +171,7 @@ Gashari Ruhango District Kinazi Musenyi Rilima	12413
 Gasharu. In Niboye Sector	4941
 Gasheja	1248
 Gashenyi Kisaro Gicumbi District Karegamanzi Rubavu	12413
+Gashoho	19645
 Gashonga Gitambi Kivu P	12413
 Gashu K	10784
 Gashu KD	10780,1475
@@ -178,7 +181,8 @@ Gasoduto Africano Atlântico Segunda	11429
 Gasoil	15542,1172,186,1072,350
 Gasoil Price	17177
 Gasolina	18757
-Gasoline	16902
+Gasoline	16902,2813,108
+Gasoline Diesel	19823
 Gasoline Diesel Kerosene Jet	1828
 Gasoline Diesel Sources	1828
 Gasoline and Diesel	718
@@ -191,6 +195,7 @@ Gaspar Pinto Vaz Direcção Nacional	18760
 Gaspard	15524
 Gaspard MASSOUKOU	16249
 Gaspard MEZUI OVONO	16099
+Gaspard Ndikumazambo and Timothee Ntaconayigize	19655
 Gasper	14896
 Gaspers	2518
 Gassama	16937
@@ -199,6 +204,7 @@ Gassan Nayala Boucle du Mouhoun	15715
 Gasser	17780
 Gassier	3604
 Gasta Siyateya Mwinde	13397
+Gastervas Rutwara	19725
 Gasto	1701,15197,71
 Gasto de Alojamiento	4209
 Gasto de Equipamiento	4209
@@ -245,11 +251,12 @@ Gastrointestinal Outpatient Department	14773
 Gastão Ferreira. Foi	18843
 Gasura	7880
 Gasóleo	17100,1657
+Gas’ Industrial Revolution	19642
 Gataraga Gashaki Gatebe Manyagiro Shangasha Ngarama	12413
 Gatare. In Gasabo District	4941
 Ghana National Gas Company	15740,164
 Global Forest Observation Initiative GEI Gases	16875
-Green House Gas	12256,1824,1579,485,2309,356
+Green House Gas	12256,1824,1579,485,2309,356,854,14
 Greenhouse Gas	789,13955,667,1729
 Greenhouse Gas Accounting Methodology for Energy Access	15659
 Greenhouse Gas Accounting for Energy Investment Operations	15659
@@ -259,6 +266,7 @@ Greenhouse Gas Emissions Accounting and Shadow Price	15983
 Greenhouse Gas Emissions Kenya	12256
 Greenhouse Gas GII Gender Inequality Index	19284
 Greenhouse Gas GPE Global Partnership for Education	15661
+Greenhouse Gas GSDD Gender	19646
 Greenhouse Gases	1264
 Greenhouse Gases GIZ The German Agency	1264
 Greenhouse Gases Mitigation Potential	13331
@@ -302,9 +310,9 @@ Lieutenant Ibrahima GASSAMBA	17991
 Limited Mr Mgqibelo Gasela	4896
 Liquefied Natural Gas	11185,30,33,3582
 Liquefied Natural Gas. LPG	16996
-Liquefied Petroleum Gas	718,11538,424,289,1978,2049,1541
+Liquefied Petroleum Gas	718,11538,424,289,1978,2049,1541,1109
 Liquefied Petroleum Gas Smart Meters of HS	6921
-Liquified Petroleum Gas	12256,147,4702
+Liquified Petroleum Gas	12256,147,4702,2610
 Los Gastos	4209
 Lubrificantes Incidência- Taxas-Notas Taxa Gasolina	17100
 Luz Prima de Prima de Prima de Gastos de Mayor	4209
@@ -318,6 +326,7 @@ MATERIAL CONTRACTS Mr Mgqibelo Gasela	4896
 MBOU LIKIBI Gaspard Symphorien INS	15580
 MICROGRAN. GAST. RESIST	15930
 MICROGRAN. GAST. RESIST. COMP. GAST. RESIST	15930
+MVUKIYE Gaspard	19687
 MW. In the Gas and Downstream Petroleum	718
 Madji Gasper	9194
 Malam Gassamá	11544
@@ -343,6 +352,8 @@ NYAMASHEKE NGORORERO GASABO KAYONZA NYARUGENGE MUHANGA	12413
 NZISENGERA Jean de Dieu KAYIRANGA Gaston RUKIZA	12445
 National Greenhouse Gas Emission Monitoring Indicators	11424
 National Greenhouse Gas Inventories Programme	17140
+National Oil and Gas	19646
+National Oil and Gas Policy	19646
 Natural Gas	9123,3133
 Natural Gas MPO Macro Poverty Outlook	16996
 Natural Gas Master Plan. Current	12206
@@ -360,9 +371,11 @@ Obia Gaston	16413
 Occupation Business Address Mr Mgqibelo Gasela	4896
 Oda Gasinzigwa	12372
 Oil Gas	16996
-Oil and Gas	5765,5420,771,4986,2577,83
+Oil and Gas	5765,5420,771,4986,2577,83,87,134
+Oil and Gas Act	19646
 Oil and Gas Alone Won’t End Poverty	10465
 Oil and Gas Development	17139
+Oil and Gas Policy	19646
 Oil and Gas Regulatory Decree Articles	16972
 Oil and Gas Sector	14845
 Open Cycle Gas Turbine	12062,6124,31
@@ -423,6 +436,7 @@ Supervision Gender Development Index Greenhouse Gas	15553
 TARIFFS AND THE GAS TURN	14673
 TBD Gas-to-Power Use Case Feasibility Study	12399
 TH STREET-SINKOR OPPOSITE CONEX GAS STATION	17334
+TIPP Gasoline	19823
 TRONÇON GASHIGA	15542
 Tanyaradzwanashe Dengende of GasPulse Technologies	13688
 Tech Health In-Depth Extractive Gas Mining	19572,17

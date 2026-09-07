@@ -157,6 +157,7 @@ CDC CDE CDMT CEBAT CEEAC CEMAC	15542
 CDC CNBS COVID CPN CSPro DAM	10777
 CDC Center for Disease Control and Prevetion CPU	34
 CDC Centers for Disease Control and Prevention CHT	16860
+CDC Country Director	19771
 CDC Covid Data Tracker	5700
 CDC Foundation	13425,4543
 CDC Group	45,1,1,1,72,56,66,1,92,118,155,1,1,1,122,80,2,1,1,1,1,10,221,365,1,1,1,721,1,1
@@ -165,6 +166,7 @@ CDC Health Data Governance Framework. Together	6794
 CDC Ouganda	19354
 CDC PEPFAR	496
 CDC USD	211
+CDC Uganda	19738
 CDC United States Centers for Disease Control	13300
 CDC's Slump Drags Cameroon Banana Exports	4769,394,334,86
 CDC-Africa	643,17239
@@ -175,6 +177,7 @@ CDC-CI Director General Lassina Fofana	4627
 CDC-CI and GREEN-PAY	4627
 CDC-CI and GREEN-PAY Partner	4627
 CDC-funded	10641
+CDC-supported	19771
 CDCDS	18307
 CDCECFG	19585
 CDCS DO1	17883
@@ -187,9 +190,9 @@ CDD DOSSIER N	15671
 CDD Ghana	7662
 CDD for Existing Customers	12389
 CDD-FDD. Lors	13530
-CDD-Ghana	7886,2873,76,2,1,130,902,16,2,1,264,1,9,29,86,62,1,11,1,135,13,4143
+CDD-Ghana	7886,2873,76,2,1,130,902,16,2,1,264,1,9,29,86,62,1,11,1,135,13,4143,3008,1,169,14
 CDD-Ghana Ghana Center for Democratic Development	11887,266,1,9,178
-CDD-Ghana Ghana Center for Democratic Development UNU-WIDER	10835,3,130,902,16,466,1,135
+CDD-Ghana Ghana Center for Democratic Development UNU-WIDER	10835,3,130,902,16,466,1,135,7334
 CDDI CI	19250
 CDDI CI Graphique	19291
 CDDI RELATIF	19256
@@ -312,6 +315,7 @@ CDPU Arrêté	18121
 CDR Academics	19237
 CDR Crude Death Rate	12367
 CDR-based	6024
+CDRIP	19829
 CDRVs	18310
 CDRs of Operator	18444
 CDRs9	13301
@@ -320,6 +324,8 @@ CDS Gen. Thomas Oppong-Peprah	10523
 CDS Résultat I.3	13306
 CDS Solutions	9533
 CDS and Fawry	9533
+CDS. Au	19645
+CDS. Cette	19645
 CDS. L'application SPT	13306
 CDS. Une	13306
 CDSB Fingerprints	16602
@@ -338,6 +344,8 @@ CDSS-supported	12712
 CDT AA	17841
 CDTSAOLU	12252
 CDTable	10714
+CDUS DARS	19749
+CDUS ISO	19749
 CDV Conseil	15724
 CDVA Centre	19350
 CDerecraetaeseadnavAaIilaInbidlituystorfydsaytastdeume	15713
@@ -380,14 +388,17 @@ Cdseea	15694
 Centre Anti-Tuberculeux CDMT	15685
 Chairman Air Cdre. Dr. Eng. E	1554
 Changements Climatiques CDN	16621
+Chief Administrative Officer CDO Community Development	19647
 Chief Director CDC Coega Development Corporation	11261
 Chimkwita CDF	3035,253,61,689,520,84,1026,364,224,297
+City Division CDOs	19707
 Civil CDC Afrique	16195
 Civil and Political Rights CDU	14742
 Climate Change CDMS	18309
 Climate Change Funds CDMA Code Division	2775
 Cloudflare CDN	13074
 Cloudflare and CDN77	17723
+Code Top Level Domain CDNs Content	19633
 Comité de Coordination Inter Agence CDMT	15423
 Committee for Standardization CDA Community Health Centre	1009
 Communication CDE	18100
@@ -403,13 +414,16 @@ Cooperation and CDmmunlties	11517
 Coordinated CD	13624
 Core Country Office Model CDC Centers	15966
 Corporation CDR Crude Death Rate CECM	2775
+Council CDAP Community Development Action Plan	19646
 Cour de Cassation CdC	18111
 Critical Data Elements CDEs	15034
 Crude Birth Rate CDR Crude Death	15056
 DPrroRf..TW. M. Masaegkwesaa Air Cdre ProfP.rWof	1154
+DUS WDEAS CD	19749
 Data Stewards and CDO	15034
 Data Transfers CDPG	13381
 Deliverance Church Olmoran CDC Data Processor	7167
+Delivery Networks CDR Call Detail Records	19633
 Department of State Foreign Assistance and CDC	4349
 Digital Currency CDI Cellule de Suivi	17870
 Director General of Africa CDC	2678
@@ -421,6 +435,7 @@ Développement CDPH Caisse	643
 EAPC Kiugu CDC Data Controller INST-3452558042F	7167
 EAPC MUKOTHIMA CDC Data Controller INST-384734B711F	7167
 EAPC NTHIGIRANI CDC Data Controller INST-73508091389	7167
+EDITION CD	19749
 EMAE and AGER. The CDMU	18795
 ESONG CDO	4209
 Electro Industries CDER Réunion	16103
@@ -467,6 +482,7 @@ Italy's CDP	12819
 Jeunesse CDE	15848
 Joint Africa CDC Surveillance	16409
 KYC and CDD	12227
+Kampala. CDC Country Director	19771
 LLM CDSS	11578
 LLM-based CDSS	11578,7
 LMD. Quitus du CDPU Quitus du CDPU A.2.OS.1-A43	18121
@@ -483,6 +499,7 @@ Le CDIN	13341
 Le CDMT	15569
 Le CDMT-L	15569
 Le CDMT-P	15569
+Le CDS	19645
 Le CDSMT	15569
 Le CDSMT-L	15569
 Le CDSMT-P	15569
@@ -557,11 +574,15 @@ Reference No. CD.151	19585
 Reformed CDF	6754,1821,92
 Regulatory Agencies CDS Customs Declaration System	13042
 Related Posts CDPI	9804
+Requirements CD	19749
 Responsibilities of CDO	15034
 Results The AI-enabled CDSS	11578
 Référence S CDCB 120082 Date	16395
 S3 DEMBELE CDT EMGA	17841
 S3 KEITA CDT EMGA	17841
+STANDARD FOR CARAMBOLA CD	19749
+STANDARD FOR NOPAL CD	19749
+STANDARD FOR PRICKLY PEAR CD	19749
 STRATEGIE DE TRANSFORMATION NUMERIQUE DE CDC	16195
 Santé CDT	15475
 Secretary General. The CdST	17441
@@ -588,6 +609,7 @@ Through WHO CDS	11401
 Through the CDH	19521
 Tool CDF County Development Fund CLAS	16970
 Tourism. The CDA	16970
+Town Council CDOs	19707
 Tracking CDP Continuous Data Protection CIFS	13185
 Trained CDOs	16971
 Training of CDF Committee Members Findings	13420
@@ -605,11 +627,13 @@ US CDC	4338,8587,4440
 US CDC and Bundung Hospital	4338
 US Government-funded CDC	10970
 USAID and CDC	19529
+Un CDS	19645
 Unadjusted CDR	12413,2643
 Universal Postal Union’s CDS	13042
 Unless the CD	16955
 V CONSORTIUM D'ENTREPRISES CDE	16623
 Vodacom CDRs	6024
+Vumbi CDS	19684
 Wellness CDCU Communicable Disease Control Unit	14773
 Yacouba DOUMBIA CDT DTTA KONE ADC	17841
 Year TFR GFR CBR CDR Neonatal	15056

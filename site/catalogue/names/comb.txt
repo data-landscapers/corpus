@@ -100,7 +100,7 @@ Combatentes	6060
 Combatentes da Liberdade da Pátria	11547
 Combatentes da Liberdade da Pátria Ministério da Economia	11569
 Combater	10772,658,4096,961
-Combating	3366,5315,935,148,1521,3281,176,155,828,2645
+Combating	3366,5315,935,148,1521,3281,176,155,828,2645,1294
 Combating Corruption	12201,721,34,167
 Combating Corruption Crime Prevention Measures	12922,34
 Combating Cybercrime	1777,4649,8620
@@ -118,10 +118,13 @@ Combating Malnutrition	10776
 Combating Malnutrition Angola	10776
 Combating Money Laundering and Terrorism Financing	17291,31,50,29
 Combating Organised Crimes	14781
+Combating Terrorist Financing	19664
 Combating of Crime N	12984
+Combating of Financing of Terrorism	19664
 Combating of Trafficking	14742,9
 Combating the Financing of Terrorism	12537
 Combating the Financing of Terrorism BVN	11861
+Combating the Financing of Terrorism CITS	19664
 Combating the Financing of Terrorism COMESA	13452
 Combatir	1701
 Combats Health Insurance Fraud	5056,738,146,682
@@ -155,7 +158,7 @@ Combinação	16376
 Combine	6832,1771,382,2164,797,423,306,2569,470,1329,73
 Combine AI	17969
 Combine Connect Cooperate	8603
-Combined	10,889,386,1,77,465,697,250,348,1,1260,1,150,11,13,189,618,1838,748,424,32,155,43,1,2249,1,8,67,337,27,4,169,117,799,575,157,197,1193,114,53,141,13,169,26,95,18,335,82,51,708,124,530,161,600,445
+Combined	10,889,386,1,77,465,697,250,348,1,1260,1,150,11,13,189,618,1838,748,424,32,155,43,1,2249,1,8,67,337,27,4,169,117,799,575,157,197,1193,114,53,141,13,169,26,95,18,335,82,51,708,124,530,161,600,445,1556
 Combined Active SIM	1013,931
 Combined Active SIM TN Mobile	1013
 Combined Assurance	11131
@@ -310,7 +313,7 @@ Prevent and Combat Corruption	16958
 Preventing and Combating Corruption	3583,13389
 Preventing and Combating Corruption and Act No	16958
 Preventing and Combating Fraud	15658
-Preventing and Combating Fraud and Corruption	1264,1625,715,2299,636,4229,61,135,453,108,330,50,19,1407,1,2040,39,107,35,105,1,2,483,792,13,231,1018,689,358
+Preventing and Combating Fraud and Corruption	1264,1625,715,2299,636,4229,61,135,453,108,330,50,19,1407,1,2040,39,107,35,105,1,2,483,792,13,231,1018,689,358,590
 Preventing and Combatting Corruption	3583
 Prevention and Combat of Money Laundering	10775
 Prevention and Combating of Corrupt Activities Act	5533,5649,58

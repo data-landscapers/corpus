@@ -181,7 +181,7 @@ Crowdfunding. Deals	4972
 Crude Birth Rate CDR Crude Death	15056
 Crude Death	12963
 Crude Death Rate	12151,232,30,259,2384
-Crude Death Rates	12639
+Crude Death Rates	12639,7076
 Current Representative Mr Dean Veverka	3513
 D. Deadline	13039
 DA Designated Account DEA Digital Economy	18777
@@ -205,6 +205,7 @@ DEANS DENTAL LIMITED Data Controller INST-711739AFF30	7167
 DEANS DENTAL LIMITED Data Processor INST-711739AFF30	7167
 DEANS TRAVEL CENTRE LTD Data Processor	7167
 DEAR INTERVIEWER	17127
+DEAS139	19749
 DEATH	12471,2243,1,4829
 DEATH CERTIFICATE QUALITY ASSESSMENT TOOL	12413
 DEATH CERTIFICATES	19541
@@ -213,6 +214,7 @@ DEATH Deaths	16892
 DEATH REGISTRATION	19544
 DEATH REGISTRATION COMPLETENESS RATE	19544
 DEATH REGISTRATION In Namibia	12337
+DEATH REGISTRATION Legal	19834
 DEATH STATISTICS Key	15056
 DEATHS	18918,71,110
 DEATHS AND AFFECTED PEOPLE	19520
@@ -228,6 +230,7 @@ DISCLOSURE OF DEBT DEALS	12339
 DISCLOSURE OF EQUITY DEALS	12339
 DU NEW DEAL TECHNOLOGIQUE	18340
 DU NEW DEAL TECHNOLOGIQUE URL	18340
+DUS DEAS	19749
 Date Dear Siç	15399
 Day of Deaf	12977
 Deactivated	12500
@@ -315,35 +318,43 @@ Deali	18304
 Dealing	587,1931,1065,742,1208,1301,2006,165,2981,1375,1400,74,18,44,576,1165,238,39,27,1167
 Dealings	3714,8936,748,2094
 Dealroom	7181,6280
-Deals	3695,1277,1818,397,1516,2566,766,304,1046
+Deals	3695,1277,1818,397,1516,2566,766,304,1046,6434
 Deals US	4972
 Deals VENTURE DEBT DEAL VOLUME	4972
 Dean Bennett Appleby	7198
 Dean Faculty of Engineering University of Mauritius	14736
 Dean Karlan	10964
+Dean Munene	19725
 Dean School of Science	14555
 Dean Veverka	2677
 Dean of Ghana Law School	16922
+Dean of MakSPH and Principal Investigator of METS	19771
 Dean of School of Information	17437
 Deans	2933
 Dear All Potential Suppliers	14759,3
+Dear All Supplier	19788
 Dear Applicants and Stakeholders	17553
 Dear Citizens	14729
 Dear Colleagues	14241,3034
 Dear Directors	4896
 Dear Editor	9653
+Dear Fred	19796
 Dear Honourable	12984
 Dear Hournorable Speaker	11289
 Dear Listers	9858,5451,1,18,2454
 Dear Madam	7074
+Dear Moses	19796
+Dear Reader	19796
 Dear Rt. Hon. Speaker PERFORMANCE AUDIT	15657
 Dear Shareholders	11955,360
 Dear Sir	13037,1094,533,263,472,502,1167
 Dear Sirs	15399
 Dear Sirs Space Exploration Technologies Corp	6891
+Dear Sumaiya	19796
 Dear User	17028
+Dear Valued Client	19755
 Dearth of Digital Skills for Business Digital	16876
-Death	418,1410,1144,2169,392,356,2714,796,1413,364,5,759,46,152,13,66,24,86,10,1,29,35,3,5,3,58,159,9,305,15,46,75,15,58,91,63,118,183,36,34,367,669,1,341,153,344,1307,578,530,490,1,15,407,108,110,425,17
+Death	418,1410,1144,2169,392,356,2714,796,1413,364,5,759,46,152,13,66,24,86,10,1,29,35,3,5,3,58,159,9,305,15,46,75,15,58,91,63,118,183,36,34,367,669,1,341,153,344,1307,578,530,490,1,15,407,108,110,425,17,263,30
 Death Act	18918
 Death Applications Timely Processing	19541
 Death Certificate	12217,74,348,4221,1950
@@ -408,6 +419,7 @@ Deaths Registration System	12639
 Deaths Registry	2772
 Deaths Registry and Ghana Health Service	2772
 Deaths Reported and Certificated	16860
+Deaths Reporting	19715
 Deaths Table D01	12367
 Deaths The Minister	18582
 Deaths and Burials Ordinance	10822,4806
@@ -426,6 +438,7 @@ Disease Death Death Prematuri- Prematurity	12151
 Disease Death Death Prematurity Prematurity	12151
 Disease Death Prematurity Prematurity	12151
 Distribution of Causes of Death	13644
+Distribution of Deaths	19715
 Distribution of Venture Capital Deal Volume	4972
 Distribution of Venture Debt Deal Volume	4972
 District Wise Death Registration During Q3	13080
@@ -442,6 +455,7 @@ EXTRA MONEY TO DEAL	10977
 Eastern Deanery AIDS Relief Program Data	7167
 Eastern and Southern Provinces. Deadly	14935
 Economic Planning Dear Valued Stakeholders	14819
+Education and Communication of Deaf Children and Youths	19676
 Effectiveness Deadline	1914,12516,482,2024
 Egyptian Birth and Death Registration System	15462
 Election Deadline	4896
@@ -490,6 +504,7 @@ Harmonised Births and Deaths Registry Portal	9535
 Have Seen Enough Death	6947
 Health Institution Deaths	12151
 Hours Applications Deadline	12603
+Household Population and Deaths	19715
 ICD-10 International Classification of Causes of Deaths	12413
 ID. New Deal	3656
 IDA. Effectiveness Deadline	1179
@@ -578,7 +593,7 @@ Maternal and Neonatal Death Surveillance and Review	16971
 Maternal and Perinatal Death Surveillance Response	1212
 Maternal and Perinatal Death Surveillance and Response	13166
 Median Deal	4972
-Medical Certificate of Cause of Death	12338,133,2585,3572,290
+Medical Certificate of Cause of Death	12338,133,2585,3572,290,856
 Medical Certification of Cause of Death	9370,3051
 Medical Certification of Causes of Death	15056
 Medically Certified Causes of Registered Deaths	12151
@@ -637,7 +652,9 @@ Particulars of Records of Death	12226
 Parties DOM Dead	17140
 Pauvreté DEA Diplôme	12
 Per Workload Deaths Annum Day National	19541
+Percentage Distribution of Deaths	19715
 Percentage of Death Registration	19541
+Place of Death	19715
 Place of Registration of Death	12226
 Police Seal Security Partnership Deal-Sign MoU	17213
 Port Louis. D.3. Deadline for Submission of Bids	14778
@@ -702,6 +719,7 @@ Registration of Births and Deaths Act	10822,1826,2980
 Registration of Births and Deaths Rule	19541
 Registration of Death	18810
 Registration of Deaths	12151,793,6597
+Registration of Persons Act. Death	19774
 Renewal of Radio Dealer Certificate	736
 Republic. CHAPTER III REGISTRATION OF DEATHS	11176
 Requirement Bachelor's Degree Deadline	13077
@@ -810,6 +828,8 @@ Working Group Dates and Time Deadline for Input	10235
 World Cup Distribution Through Orange Deal	3437,3942,47
 X Deaths	12138
 X. Deadly	6820
+XXX DEAS	19749
+XXXX DEAS	19749
 Year Births Deaths Marriages	12413,2643
 Year Registration of Births and Deaths Act	10822
 Year of Death	14713

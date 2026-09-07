@@ -46,6 +46,7 @@ ADOPTE A L'UNANIMITE LE RBGLEMENT DONT	15443
 ADOPTE A L'UNANIMITE LE REGLEMENT DONT	15442
 ADOPTE LE REGLEMENT DONT LA TENEUR	15482
 ADOPTED	13342,2299
+ADOPTED BY LAWMAKERS	19754
 ADOPTED CHILD	17127
 ADOPTED LE PARLEMENT A ADOPTÉ ET	14870
 ADOPTEE	17829
@@ -113,11 +114,11 @@ Adobe AATL	15080
 Adobe Acrobat	7204
 Adobe Acrobat Paper Capture	7828
 Adobe Flash	15161
-Adobe Illustrator	1984
+Adobe Illustrator	1984,17687,60
 Adobe InDesign	1940,837,3151,508,1918,2568
 Adobe Photoshop	1984
 Adobe Portable Document Format	19545
-Adobe Reader	12018,242
+Adobe Reader	12018,242,7405
 Adobe Stock	10764,799,776,4657,747,1097
 Adobe Suite and Canva	14999
 Adobe's PDF	12227
@@ -127,13 +128,15 @@ Adocumented	5113
 Adogbénou Anié Est-Mono1	19350
 Adohoun	16362
 Adolescence	18441
-Adolescent	771,10058,134,1,453,721,13,889,434,3477,1490,496,594,13
+Adolescent	771,10058,134,1,453,721,13,889,434,3477,1490,496,594,13,171
 Adolescent Age	16971
-Adolescent Birth	18441
+Adolescent Birth	18441,1274
+Adolescent Birth Rate	19715
 Adolescent Birth Rate CBR Crude Birth	16950
 Adolescent Boys	18441
+Adolescent Childbearing	19715
 Adolescent Development Health Services	19544
-Adolescent Girls	18441
+Adolescent Girls	18441,1274
 Adolescent Girls Advisory Panel	9861
 Adolescent Girls Advisory Panel and Fanell Decontee	9861
 Adolescent Girls Initiative	11469
@@ -162,11 +165,12 @@ Adolescente	14622,1072
 Adolescente Soins de Santé Primaires Strategic Tool	14622
 Adolescentes	10777,649,7336
 Adolescentes. Os	18762
-Adolescents	899,9930,2211,260,3422,152,1438,58,71,1090,13
+Adolescents	899,9930,2211,260,3422,152,1438,58,71,1090,13,171
 Adolescents Achieving	18441
 Adolescents Family Planning Coverage	19544
 Adolescents SNIS	15685
 Adolescents The Adolescent Population	18441
+Adolescents and Youth	19715
 Adolescência	10777
 Adolf David	12478
 Adolf Kaure Works	12476
@@ -194,6 +198,7 @@ Adoni Conrad Quenum	3516,1253,1887,189,308,2584,3516,315
 Adoni Conrad Quenum Adapted	5940,1468
 Adoni Conrad Quenum Date	4181,2712,1203
 Adoni Conrad Quenum Edité	8232,1363,7106
+Adoni Conrad Quenum Lire	19830
 Adoni Conrad Quenum. Adapted	6893,200
 Adonia Ayebare	15334
 Adonia Ayebare. Last	6198
@@ -204,7 +209,7 @@ Adonis MBATOUNG	16175
 Adonisi and Others	14673
 Adopción	1701,15197
 Adopon	9129
-Adopt	958,3,39,9,239,529,37,645,1124,291,340,1030,433,675,80,10,390,104,12,1,2,597,61,312,1208,16,1270,360,229,136,16,154,547,49,35,23,22,241,101,71,45,119,31,81,302,318,18,1,17,347,190,123,158,525,77,26,4,37,47,14,10,58,50,133,17,17,80,203,174,92,226,21,228,24,362,289,9,12,40,3,12,36,21,21,97,25,18,78,25,36,399,175,435,218,6,2,6,83,175,90,46,51,252,25,283
+Adopt	958,3,39,9,239,529,37,645,1124,291,340,1030,433,675,80,10,390,104,12,1,2,597,61,312,1208,16,1270,360,229,136,16,154,547,49,35,23,22,241,101,71,45,119,31,81,302,318,18,1,17,347,190,123,158,525,77,26,4,37,47,14,10,58,50,133,17,17,80,203,174,92,226,21,228,24,362,289,9,12,40,3,12,36,21,21,97,25,18,78,25,36,399,175,435,218,6,2,6,83,175,90,46,51,252,25,283,91,31,3,10
 Adopt AI	12356,2456
 Adopt AI Governance Frameworks Ahead of Regulatory	11138
 Adopt Cloud	13987
@@ -229,12 +234,13 @@ Adopt the SEA	15659,3580
 Adopt the Start Up Act	17870
 Adopt the Startup Act	17870
 Adopt-A-School	5137
+Adopt-a-Police-Station	19693
 Adoptant	12
 Adoptar	1701,736,379,1330,6609,17,658,5468,67,1808,5,1,21
 Adoptar la ENDE	16898
 Adopte	14432
 Adopte la Loi	16636
-Adopted	582,388,273,349,5,466,895,1104,193,612,811,934,469,21,190,256,159,1953,1444,89,1023,268,503,718,756,290,246,476,77,54,335,900,45,1,132,272,29,557,895,464
+Adopted	582,388,273,349,5,466,895,1104,193,612,811,934,469,21,190,256,159,1953,1444,89,1023,268,503,718,756,290,246,476,77,54,335,900,45,1,132,272,29,557,895,464,515,77
 Adopted Child	16921
 Adopted Children	12216
 Adopted Children Register	12898,107,281,29
@@ -261,7 +267,7 @@ Adopting the EMIS Norms and Standards	13310
 Adopting the Norms and Standards	13310
 Adopting the Scheme	16908
 Adoptingaprivacy-by-designstrategywould	8606
-Adoption	21,622,100,1034,211,354,237,369,212,2,68,319,55,183,12,60,267,304,98,145,189,370,9,4,41,63,326,2,5,406,344,181,315,210,13,4,305,88,25,82,366,1,104,4,110,827,62,108,951,191,2,310,4,16,101,29,15,18,40,63,29,132,2,627,90,49,58,30,171,23,22,4,51,72,1,18,11,18,28,99,82,135,258,121,182,16,25,1,9,92,9,71,148,789,87,2,10,17,157,13,16,67,178,45,14,108,208,39,63,19,60,30,38,38,2,74,23,2,9,30,49,53,16,19,2,23,8,68,165,17,263,135,19,5,13,60,8,110,16,5,30,1,39,1,18,24,138,12,123,78,77,109,26,313,18,10,2,10,12,2,11,32,86,35,50,6,5,170,25,33,6,52,78,52,366,105,55,1,125,32,20,4,115,172,23,29
+Adoption	21,622,100,1034,211,354,237,369,212,2,68,319,55,183,12,60,267,304,98,145,189,370,9,4,41,63,326,2,5,406,344,181,315,210,13,4,305,88,25,82,366,1,104,4,110,827,62,108,951,191,2,310,4,16,101,29,15,18,40,63,29,132,2,627,90,49,58,30,171,23,22,4,51,72,1,18,11,18,28,99,82,135,258,121,182,16,25,1,9,92,9,71,148,789,87,2,10,17,157,13,16,67,178,45,14,108,208,39,63,19,60,30,38,38,2,74,23,2,9,30,49,53,16,19,2,23,8,68,165,17,263,135,19,5,13,60,8,110,16,5,30,1,39,1,18,24,138,12,123,78,77,109,26,313,18,10,2,10,12,2,11,32,86,35,50,6,5,170,25,33,6,52,78,52,366,105,55,1,125,32,20,4,115,172,23,29,196
 Adoption A2-Data Localisation Rates	7548
 Adoption Act	18440
 Adoption Act Chapter	12449
@@ -289,7 +295,10 @@ Adoption Without Execution	7707
 Adoption and Application	19474
 Adoption and Application of Standards	12895
 Adoption and Development of Statistics Plans	17116
+Adoption and Manner of Use of Biometric Voter Verification	19734
+Adoption and Manner of Use of Technology	19734
 Adoption and Opportunities for Reform	17745
+Adoption and Usage	19728
 Adoption and Use of AI Tools	14812
 Adoption and User Experience	4863
 Adoption and Utilisation	14723
@@ -410,6 +419,7 @@ Business Adoption	16975
 Byron Adonis Mutingwende	10073
 C. ADOPTED INTERNATIONAL STANDARDS EDITION S	15027
 CG-BZV-01-2022 B12-00107. Maître Ado Patricia Marlène	15558
+CHARACTERISTICS OF ADOLESCENTS AND YOUTH	19715
 COLLABORATIF Adopter	17896
 COMESA ZWS HS IEC ADOPTIONS	13385
 COMESA ZWS ISO ADOPTIONS	13385
@@ -425,6 +435,7 @@ Cash Transfers and Child and Adolescent Development	10768
 Central Bank of Libya Announces Adoption	17265
 Chainalysis' Crypto Adoption Index	7465
 Change and Adoption	21
+Characteristics of Adolescents and Youth	19715
 Child and Adolescent	771
 Child and Adolescent Health	970,12193,3788,1676
 Child and Adolescent Health and Healthy Ageing Programmes	14011
@@ -506,6 +517,7 @@ Digital Technology Adoption	17870
 Digital Technology Adoption and Skills Development	4653
 Director General Adok	2302
 Directorate General for Children and Adolescents	16958
+Dissemination and Adoption	19667
 Distribution of Adoption Gaps AI	7151
 Districts Adolescent Birth Rate Total Fertility	18441
 Domestic Adoption Services	12188
@@ -621,6 +633,7 @@ IMAI Integrated Management of Adolescent and Adult Illness	12976
 IMF Exploring the Adoption of Selected Digital Technologies	12948
 INSTITUTIONS FOR ADOPTING E-GOVERNMENT	16885
 INTERVENTION DIGITAL TECHNOLOGY ADOPTION AND DEMAND	16942
+IPv6 Adoption	19682
 ITU Adopting	10844,7279
 Identification THE ADOPTION OF DIGITAL INSIGHTS	1939
 Illegal Adoption	16935
@@ -678,6 +691,8 @@ Liberia Telecommunications Authority Adopt	16872
 Liberian Government Adopts	17320
 Lieutenant-colonel AMAVI Ayi Kossigan Adodossi GILAT	19251
 Lieutenant-colonel N’TSOUGAN Adouwodji	19251
+Literacy Rate of Adolescents	19715
+Literacy Rate of Youth and Adolescents	19715
 Localised Repositioning Adopt	14566
 Localized Future Decision and Voluntary Adoption	11797
 L’ASSEMBLEE NATIONALE A ADOPTE LE PRESIDENT	4420
@@ -788,7 +803,11 @@ PS-4 Transparent Adopt	11857
 Par Hervé Adou	10266
 Pascal Adongo Ogola	15129
 Pending Adopt	16872
+Percentage of Adolescent	19715
 Percentage of Adolescent Deliveries	19544
+Percentage of Adolescents	19715
+Percentage of Adolescents and Youth	19715
+Percentage of Youth and Adolescents	19715
 Pillars AI Adoption and Service Transformation AI	4528
 Place of Registration of Adoption	12226
 Plan for National Large-Scale NCC Ministry of Adopted	1777
@@ -804,6 +823,8 @@ Private Sector Service Providers Adopt	16872
 Prof. Adolf F. Mkenda	19565
 Promote AI Adoption	4126
 Promote Responsible AI Adoption Outcome Indicators	12356
+Promoting Adoption of Climate Smart Agriculture Technologies	19643
+Proportion of Adolescent and Youth Population	19715
 Proyecto de Asistencia Adopción de Menores	4209
 Psychology of AI Adoption	14291
 Public Procurement Regulatory Authority. Adoni Conrad	4181
@@ -849,6 +870,7 @@ SUMMARY OF PARTNER STATES ADOPTION	13342
 SUMMIT The Authority ADOPTED	13440
 Samuel Adom Botchway	3287
 Scaling Adoption and Delivering	13396
+School Attendance of Adolescents and Youth	19715
 Science and Technology Minister Prof Adolf Mkenda	10196
 Score Adoption Situation	17157
 Second Edition C. ADOPTED INTERNATIONAL STANDARDS	15027
@@ -918,6 +940,7 @@ Yanos Adotévi	5260
 Year for AI Adoption	4126
 Years Of Age And Adolescents	19544
 Youssouf Ismael Adolphe	13757
+Youth and Adolescents	19715
 ZWS ARS ISO ADOPTIONS	13385
 ZWS COMESA ADOPTIONS	13385
 ZWS EN ADOPTIONS	13385

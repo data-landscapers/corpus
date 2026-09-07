@@ -2,6 +2,7 @@ A. Annual Number of Days	17257
 A4. Historical and Simulated Number of Hot Days	17257
 ADVOCACY ACTIVITIES WORLD POPULATION DAY COMMEMORATION	12962
 AI Innovation Demo Day	5413
+APPROVED THIS DAY	19730
 AVERAGE NUMBER OF DAYS AND HOURS	17043
 AVERAGE NUMBER OF DAYS HOUSEHOLD MEMBER	17043
 AVERAGE NUMBER OF DAYS WORKERS WORKED	17043
@@ -12,6 +13,7 @@ Africa CRVS Day. Only	3426
 Africa Civil Registration and Vital Statistics Day	9765,2150
 Africa Day	16275
 Africa Health Day	15800
+Africa Public Service Day	19798
 Africa's Every Day Earners	7618,1
 African CRVS Day	13005
 African CRVS Day-	13005
@@ -34,6 +36,7 @@ Bamako Digital Days	17856
 Bamako Digital Days Organisé	17856
 Bango Market Day	9569
 Banking Day	15399
+Ben Kiwanuka Day Commemoration	19641
 Blood Donor Day IDSR Integrated Disease	16971
 BoZ Commemorates International Anti-Corruption Day	13532
 Botswana Space Day	5328
@@ -66,6 +69,7 @@ Camtel Cloud Days	10994
 Canal Dayot	14746
 Capital Markets Day	6851,3942
 Cascador Pitch Day	6368
+Celebrating Africa Civil Registration Day	19641
 Celebrating World Science Day URL	15915
 Celebration of Ayurveda Day	18810
 Celebration of ITEC Day	18810
@@ -120,6 +124,8 @@ DPI Day. Rwanda's DPI Day	8449
 DRC DAY	2880
 Data Protection Day	1243,3557,7595,191,4583
 Date End Date Number of Days	14754
+Day Accounts	19728
+Day Accounts Registered Mobile Money Accounts	19728
 Day Action Plan	18523
 Day Africa Lost Internet	2677
 Day Ago	11040,56
@@ -140,6 +146,11 @@ Day L3 Global	13624
 Day Last	15048
 Day Liquid Cash Buffer	12882
 Day Memory	18667
+Day Mobile Internet Subscriptions	19728
+Day Mobile Money Subscriptions	19728
+Day Mobile Subs	19728
+Day Mobile Subs Agent	19728
+Day Mobile Subscriptions	19728
 Day Off	17152
 Day One Already	15245
 Day One Mark WalkerSeptember	7156
@@ -194,7 +205,8 @@ Daystar University	6946,584,1093,5932,3191
 Daystar University Centre for AI	14555
 Daystar University School of Science Engineering	14555
 Daystar Universty Daystar University	14555
-Daytime	13795,5790
+Daytime	13795,5790,130
+Daytime Population	19715
 Dayton Eberwein	10829
 DbHOXlX0py4 Day	8713
 Demo Day	5413,4704,628,1499,459,293,1706,3337
@@ -252,6 +264,7 @@ Guinea Bissau. International Day of Yoga	11579
 GxlQ X-Xc Day	8713
 HeQwnJ-yGpo Day	8713
 Health Day	10776
+Heroes Day	19641
 Hours Days	1938
 Huawei Day Nigeria	2825
 ICT Day	958,5375,5908,839,15,1856,169,50,1134
@@ -274,7 +287,7 @@ Impact Days	18013
 Imports Nuclear Day	11953
 Inaugural AI Innovation Demo Day	5413
 Income Days	11874
-Independence Day	2968,1204,992,563,624,1750,3231,1293,1249,2411,2406,266,104,79
+Independence Day	2968,1204,992,563,624,1750,3231,1293,1249,2411,2406,266,104,79,501
 Independence Day Anniversary	13956
 Independence Day Celebrations. Page	14835
 Independence Day President His Highness Sheikh	18759,784
@@ -303,7 +316,9 @@ International Day of Universal Access	13030
 International Day of Yoga	16256,29,46,909,776,204,343,294
 International Deaf Day. An International Deaf	12977
 International Elderly Day	12977
+International ID Day. The Authority	19714
 International Identification Day	3586
+International Identity Day	19714
 International Labour Day	14869
 International Men's Day	12642
 International Open Data Day	4429
@@ -312,7 +327,7 @@ International Women's Day	12642
 International Women’s Day	2668,9690,2402,33
 International Women’s Day Webinar	2668
 International Yoga Day	16275
-International Youth Day	9648,138,85,1,1,4353
+International Youth Day	9648,138,85,1,1,4353,5415
 International Youth Day. Note	9873
 Investor Day	7241
 J. Nehru Day Care Centre for Immunosuppressed	14774
@@ -329,7 +344,7 @@ Labour Day	6034,1811
 Larmudiac Mixed Day Secondary School	10313
 Latest News WORLD YOUTH SKILLS DAY	18523,28
 Law Day	17618
-Liberation Day	15316
+Liberation Day	15316,4325
 Liberia Technology Summit Day	7617
 Lieutenant-colonel DAYOU Fidegnon Kodegla	19251
 London Civic Day Conference	18501
@@ -352,6 +367,7 @@ NATCOM Takes ITU Day Celebration	18444
 NOTIFICATION OF POLLING DAY AND POLLING	13046
 NRB Strategic Plan and CRVS and ID Day	13095
 NamRA Marks International Anti-Corruption Day	13108
+National Coffee Day	19641
 National Day	14760,33,4267
 National Day Celebrations Municipality City Council	14746
 National Day Parade	19166
@@ -390,6 +406,7 @@ Present Day Sample of Birth Certificate	15415
 Projects Days Council	19585
 Publications International Customs Day	13051
 Quality Days	10976
+Quarter Day of Midwives	19641
 RAIC Commemorates the International Day for The Universal	18442
 RDGE Peer Reviewers Tankien DAYO	13885
 RFR Banking Day	16219
@@ -419,6 +436,7 @@ SOFR Banking Days	16219
 SOMA Commemorates International Day for Universal Access	14984
 Safer Internet Day	5551
 Scientific Days	4991
+Seventh Day Adventist	19715
 Seventh Day Adventist Hospital	12253
 Seychelles' National Day	19060
 Soma SOMA Commemorates International Day for Universal	14984
@@ -457,6 +475,8 @@ TrendAI Zero Day Initiative and Pwn2Own	7137
 UN Day	3851,10274
 UN International Commemoration Days	12977
 UNHCR World Refugee Day Golf Charity	899
+Uganda Celebrates International Identity Day	19714
+United Nations International Days of Cooperatives	19641
 Universal Health Coverage Day	10776
 VIII. International Customs Day	13053
 Vice-President Dr. Shankar Dayal Sharma	18957
@@ -479,8 +499,10 @@ World Day Against Trafficking	8480
 World Diabetes Day	9855
 World Disability Day	16889,362
 World Fintech Day	11819
+World Freedom Press Day	19641
 World Health Day	10776,6513
 World Health Day and World Mental	10776
+World Heart Day	19641
 World MSME Day	10330
 World Mental Health Day	10776
 World Meteorological Day	16317
@@ -511,6 +533,7 @@ World Telecommunications Day	1215,17229
 World Telecommunications and Information Society Day	6152,168,5647
 World Telecommunications and Information Technology Day	6243
 World Television Day	4058
+World Tourism Day	19641
 World Water Day	15725
 World Wide Web Day	9120
 YCxqJu N7o Day	8713

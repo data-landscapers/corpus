@@ -51,6 +51,7 @@ CDH Incorporated	14932
 CHANGES INCORPOTATED IN THE RESULTS FRAMEWORK	15782
 CHANGES RELATED TO INCOME AND COSTS	11955
 CHAPTER III INCORPORATING TRADITIONAL OFFENCES INTO	15374
+CIT Corporate Income Tax	19847
 CLAUSE PAR INCORPORATION La RÉPUBLIQUE	15901
 CLOSELY HELD COMPANIES Memorandum of Incorporation	3714
 CSG Income Allowance	14782
@@ -93,7 +94,7 @@ Consolidated Income Statement for Banks Item	17236
 Constituencies. Incorrect	13420
 Consumer Price Indices for Nairobi Lower Income	2775
 Corporate Income	16949
-Corporate Income Tax	573,1255,3155,672,5107,536,657,497,48,500,44,9,1932,2011,109,1213
+Corporate Income Tax	573,1255,3155,672,5107,536,657,497,48,500,44,9,1932,2011,109,1213,1468
 Corporate Income Tax CSP	13053
 Corporate Income Tax Code	11955
 Corporate Income Tax ISO	11955
@@ -131,7 +132,7 @@ Development Agency GNI Gross National Income	13312,2
 Development Index HIECS Household Income	15604
 Development PPSD Social Income for Inclusion Program	11855
 Development Plan PIT Personal Income Tax	17011
-Direct Income Support	14942
+Direct Income Support	14942,4743
 Direct Recipient Country of Incorporation	18,9548
 Direct Taxation Law. The Income Tax	15014
 Displaced Person IGA Income-Generating Activity IPF	16384
@@ -194,7 +195,7 @@ Grit Real Estate Income Group	14507
 Gross Domestic Product and Gross National Income	2775
 Gross Income	11976,2741
 Gross National Disposable Income	2775
-Gross National Income	322,942,1511,3804,4683,952,181,544,172,201,2,165,169,1249,223,501,523,739,113,1202,339,373,21,2,312
+Gross National Income	322,942,1511,3804,4683,952,181,544,172,201,2,165,169,1249,223,501,523,739,113,1202,339,373,21,2,312,406
 Gross National Income GRM Government of Burundi	13331
 Gross National Income GSMA	18485
 Gross National Income GoKE Government	6539
@@ -276,7 +277,7 @@ Incode	2390,1902,563,470,255,313,73,322,83
 Incoherent	14935
 Incoherent Policies and Contradictory Priorities	12227
 Incohérences	16328
-Income	1828,479,854,1632,103,453,306,767,117,1484,459,108,233,1891,49,22,8,183,1,20,7,129,2,60,101,267,311,21,29,31,9,12,18,165,1,44,93,49,5,75,1,18,38,17,255,196,11,9,7,130,206,45,61,172,212,64,541,185,123,26,1,33,38,13,3,5,7,53,33,3,65,2,15,9,125,325,131,30,91,1177,40,9,4,13,10,18,15,138,8,78,1,3,21,106,377,575,117,90,100,413,564,11
+Income	1828,479,854,1632,103,453,306,767,117,1484,459,108,233,1891,49,22,8,183,1,20,7,129,2,60,101,267,311,21,29,31,9,12,18,165,1,44,93,49,5,75,1,18,38,17,255,196,11,9,7,130,206,45,61,172,212,64,541,185,123,26,1,33,38,13,3,5,7,53,33,3,65,2,15,9,125,325,131,30,91,1177,40,9,4,13,10,18,15,138,8,78,1,3,21,106,377,575,117,90,100,413,564,11,89
 Income All Firms Small Medium Large	11874
 Income Allowance	14782
 Income Allowance Ehram Court	14782
@@ -331,7 +332,7 @@ Income Subvention	12971
 Income Summary	17260
 Income Support	14828,3,10
 Income Support de R	14841
-Income Tax	573,711,601,1276,2086,5381,134,536,649,8,21,419,57,146,46,286,123,89,209,255,18,1093,26,62,23,3,8,175,586,1342,36,33,1566,1025
+Income Tax	573,711,601,1276,2086,5381,134,536,649,8,21,419,57,146,46,286,123,89,209,255,18,1093,26,62,23,3,8,175,586,1342,36,33,1566,1025,194
 Income Tax Act	573,2452,3127,1693,2178,41,1117,74,8,945,322,99,513,169,40,52,46,46,111,809,39,1,262,2,24,66,19,3,10,2,89,82,134,1960,1332,10,16,34,41,36,950,58,17
 Income Tax Act CAP	19602
 Income Tax Act International Monetary Fund	14932
@@ -424,23 +425,25 @@ Incompatible	15129,35
 Incompatible Technologies Document Number	19533
 Incompatibles	15703
 Incompetence	16885
-Incomplete	7596,840,2816,24,875,216,45,1120,1526,1339,1376,1746,56,9,1
+Incomplete	7596,840,2816,24,875,216,45,1120,1526,1339,1376,1746,56,9,1,219
 Incomplete Assets Register	18661
 Incomplete Bids	11240
 Incomplete Information	11940
 Incomplete Pension Records Review	14546
+Incomplete Primary Education DJF10	19835
 Incomplétude	10712
 Incompréhension	6959
 Incompétence	10821
 Incompétence Licenciement	10876
 Incomáti River	10219
+Inconclusive	19804
 Inconformados	10114
 Inconnu	13300,5926
 Inconnue Autre	13300
 Inconsistence	19544
-Inconsistencies	961,12388,1197,3772,1266,1
+Inconsistencies	961,12388,1197,3772,1266,1,189
 Inconsistency	16219,3297,10
-Inconsistent	4848,2700,1348,524,10,212,327,1500,517,254,765,32,381,1400,179,37,95,35,309,1047,455,2546
+Inconsistent	4848,2700,1348,524,10,212,327,1500,517,254,765,32,381,1400,179,37,95,35,309,1047,455,2546,125,158
 Inconsistent Policy Regulator	11857
 Inconsistent and Confusing Boundaries	15473
 Inconsistent and Unpredictable Outputs	3651
@@ -452,7 +455,7 @@ Inconveniences	17157
 Inconvénients	17823
 Incorpora	18783
 Incorporar	1701,2445,7368
-Incorporate	170,788,856,174,2138,722,817,5600,589,360,185,638,1529,108,77,67,129,50,133,531,299,888,99,167,43,1338,739,11,275
+Incorporate	170,788,856,174,2138,722,817,5600,589,360,185,638,1529,108,77,67,129,50,133,531,299,888,99,167,43,1338,739,11,275,281,6
 Incorporate AI	14812
 Incorporate AI Across Disciplines	12675
 Incorporate Compliant	16848
@@ -501,6 +504,7 @@ Indonesia and Kenya FACTOR CURRENT IMPACT Income	11994
 Information System Enterprise CIT Corporate Income	14897
 Institute CIT Company Income Tax AI	12395
 Integrated Tax and Income Tax Management System	17870
+Intended Milestones Middle Income	19642
 International Incoming	6000,671
 International Incoming EAC	6671
 International Incoming Fixed Network Voice	6671
@@ -512,6 +516,7 @@ International Incoming Mobile Voice Traffic	6671
 International Incoming Parcels	6671
 International Incoming Traffic	9781
 International Outgoing International Incoming	6671
+International Voice Traffic International Incoming Voice	19728
 Int’l International IQP Income Tax Quarterly	14985
 Investigación Demográfica INCOMA Instituto Nacional	16898
 IpNX for Incoming	3862
@@ -608,6 +613,7 @@ Non- Interest Income Total Operating Income	17235
 Non-Taxable Income	13096
 Non-interest Income	17235
 Notice of Incorporation	3714
+ONA Voice Traffic Trends ONA Incoming	19728
 ORS Income Group Wealthiest Income Group	10829
 OU106 SI INCOHÉRENT	13300
 Out-bound Roaming Incoming SMS	6671
@@ -624,6 +630,7 @@ Output KPI Sustainable Income Outperform	11131
 PART II INCORPORATION AND REGISTRATION	13299
 PART IX AMENDMENT OF THE INCOME	6921
 PART XI AMENDMENT OF THE INCOME	6921
+PIT Personal Income Tax	19847
 PIT Personal Income Tax PMU Project	18488
 PIT Personal Income Tax PPP Purchasing	16996
 PROFIT SHARING AND NON-PERMISSIBLE INCOME	19564
@@ -717,6 +724,7 @@ Statement of Comprehensive Income Item Amount ZWL	13420
 Statement of Income	14717
 Sub-Saharan Africa Income Group	11874
 Sub-Saharan Africa and Lower Middle Income. Indicator	11881
+Sub-Saharan Africa. Income	19675
 Sub-Saharan Africa. Income Group	11881,1
 Subtitle Income	17366
 Summary Income Statement Category Interest	11131,3
@@ -740,6 +748,7 @@ Trust Income	15014
 Types of Incompatibilities	12360
 Types of Incompatibilities Semantic	12360
 Under the Income Tax	5247
+Under the Income Tax Act	19796
 Unearned Income	11976
 Unless the Memorandum of Incorporation	3714
 Upper Income	13029

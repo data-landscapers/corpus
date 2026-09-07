@@ -22,6 +22,7 @@ AMODIAQUINE	13300
 AMODORA	10188
 AMOENA RESORT LIMITED Data Controller INST-1675796927E	7167
 AMOENA RESORT LIMITED Data Processor INST-1675796927E	7167
+AMOLED	19728
 AMOLO GACOKA	7167
 AMONG PARLIAMENTARIANS Resumption	12737
 AMOORE SPECIAL CLINIC LTD Data Controller	7167
@@ -69,11 +70,12 @@ Amodelforlearninganalytics	8602
 Amodiaquine	13300
 Amodiation Bail	10876
 Amofia Nara	6211
+Amolatar	19715
 Amon Magunje	10418
 Amonai Medical Clinic Data Controller INST-432992369F9	7167
 Amondesetanas	15999
 Amonestación	163,16692
-Among	418,164,136,243,8,274,18,293,132,128,11,3,75,37,48,276,18,37,128,54,56,20,91,92,15,7,143,126,57,72,52,67,24,21,137,12,64,26,18,3,98,11,38,101,9,67,139,11,7,35,7,23,194,201,16,33,82,24,131,17,167,21,89,19,100,2,1,65,9,42,148,53,19,383,71,35,75,54,11,19,42,1,60,59,118,272,6,11,6,17,32,91,126,121,56,90,45,45,18,29,36,49,63,67,50,44,17,31,36,15,2,36,17,23,21,9,29,1,3,110,155,11,57,9,32,59,2,10,7,5,39,29,24,89,5,9,10,17,97,142,2,3,12,3,15,29,15,116,18,84,210,9,28,5,124,8,24,2,57,194,34,24,21,21,46,8,21,92,13,124,41,37,1,22,54,109,149,11,34,2,10,5,21,28,11,1,3,20,2,15,38,20,19,5,1,3,10,3,5,19,13,10,19,31,23,31,4,1,4,2,7,5,108,9,14,1,3,7,84,37,119,27,15,3,4,66,204,39,8,14,2,37,9,30,2,7,2,46,100,37,4,7,2,13,13,4,15,1,2,4,3,1,14,7,19,61,8,3,10,1,19,4,6,2,8,12,14,26,10,20,73,45,38,6,7,1,41,133,22,59,22,8,7,13,11,11,16,23,7,100,9,32,30,8,14,20,53,2,1,1,6,11,15,41,31,59,27,28,31,44,26,221,5,52,80,151,4,5,25,16,136,238,62,11,84,13,39,2,38,17,21,9,17,17,17,8,11,15,50,10,16,11,15,7,29,45,34,80,41,126,13,36,20,11,62,37,11,3,17,40,2,16,46,9,5,94,24,126,63,68,30,240,14,170,224,60,6,9,9,7,1,25,12,6,15,8,1,1,19,2,70,56,6,9,2,11,22,8,7,71,1,21,1,27,4,25,18,36,1,22,32,180,12,33,52,36,7,18,16,32,60,1,92,54,107,2,180,13,112,11,2,32,56,27,4,54,73,26,5,6,39,30,92,102,73,37,41,74,23,8,20,190,25,39,12,10,3,10,1,39,14,8
+Among	418,164,136,243,8,274,18,293,132,128,11,3,75,37,48,276,18,37,128,54,56,20,91,92,15,7,143,126,57,72,52,67,24,21,137,12,64,26,18,3,98,11,38,101,9,67,139,11,7,35,7,23,194,201,16,33,82,24,131,17,167,21,89,19,100,2,1,65,9,42,148,53,19,383,71,35,75,54,11,19,42,1,60,59,118,272,6,11,6,17,32,91,126,121,56,90,45,45,18,29,36,49,63,67,50,44,17,31,36,15,2,36,17,23,21,9,29,1,3,110,155,11,57,9,32,59,2,10,7,5,39,29,24,89,5,9,10,17,97,142,2,3,12,3,15,29,15,116,18,84,210,9,28,5,124,8,24,2,57,194,34,24,21,21,46,8,21,92,13,124,41,37,1,22,54,109,149,11,34,2,10,5,21,28,11,1,3,20,2,15,38,20,19,5,1,3,10,3,5,19,13,10,19,31,23,31,4,1,4,2,7,5,108,9,14,1,3,7,84,37,119,27,15,3,4,66,204,39,8,14,2,37,9,30,2,7,2,46,100,37,4,7,2,13,13,4,15,1,2,4,3,1,14,7,19,61,8,3,10,1,19,4,6,2,8,12,14,26,10,20,73,45,38,6,7,1,41,133,22,59,22,8,7,13,11,11,16,23,7,100,9,32,30,8,14,20,53,2,1,1,6,11,15,41,31,59,27,28,31,44,26,221,5,52,80,151,4,5,25,16,136,238,62,11,84,13,39,2,38,17,21,9,17,17,17,8,11,15,50,10,16,11,15,7,29,45,34,80,41,126,13,36,20,11,62,37,11,3,17,40,2,16,46,9,5,94,24,126,63,68,30,240,14,170,224,60,6,9,9,7,1,25,12,6,15,8,1,1,19,2,70,56,6,9,2,11,22,8,7,71,1,21,1,27,4,25,18,36,1,22,32,180,12,33,52,36,7,18,16,32,60,1,92,54,107,2,180,13,112,11,2,32,56,27,4,54,73,26,5,6,39,30,92,102,73,37,41,74,23,8,20,190,25,39,12,10,3,10,1,39,14,8,23,24,14,64,33,8,53,4
 Among AI	13675
 Among Africa's Top Performers	14873
 Among Age	12151
@@ -87,6 +89,8 @@ Among Five Years And Above	19544
 Among Francophone Africa	12339
 Among Kenyans	7869
 Among LDCs	17743
+Among LGAs	19639
+Among MDAs	19639
 Among MFIs	14997
 Among Nigeria	3554
 Among ODM	7922
@@ -99,7 +103,10 @@ Among the CEMAC	16972
 Among the Forum	7039
 Among the Government	8246
 Among the Indian	18957
-Amongst	582,379,261,21,354,1390,2,2255,4725,850,1436,722,484,1435,1989,66,19,129,1342,336
+Among the LGAs	19639
+Among the MDAs	19639
+Amongst	582,379,261,21,354,1390,2,2255,4725,850,1436,722,484,1435,1989,66,19,129,1342,336,862,63,92
+Amongst MDAs	19639
 Amongst S4	18937
 Amongthesefunctionsare	8606
 Amont	15372,2535
@@ -123,7 +130,7 @@ Amortissement	54,2422,8488,4435,25,2474,134,31,1146
 Amortissement Allègement	18063
 Amortissement Dette Structurée RESSOURCES DE FINANCEMENTS	15999
 Amortissement Eurobond Variation	2476
-Amortissements	303,36,7250,8458
+Amortissements	303,36,7250,8458,3803
 Amortissements Article	16047
 Amortiza	18896
 Amortización	4209,4169
@@ -139,7 +146,7 @@ Amortización de Crédito Chino	4209
 Amortización de Deuda Externa	4209
 Amortización de Obligaciones	4209
 Amortización de Otras	4209
-Amortization	5655,6300,1098,815
+Amortization	5655,6300,1098,815,5860
 Amortization E&S Environmental and Social EDEC Electricity	15983
 Amortization EIRR Economic Internal Rate of Return	19239
 Amortization Fund	16942
@@ -150,6 +157,7 @@ Amortização da Dívida	18798,55
 Amortização da Dívida Pública	18798
 Amortizações	18798,55
 Amortized	16923,1
+Amoru	19641
 Amory	11927
 Amorçage PME. L’institut	2342
 Amorçage de Projet Fonds Routier Partenariat Public	15542
@@ -290,6 +298,7 @@ DESCRIPTION Actual Amounts Final Budget Original	16978
 DESENHO DA AMOSTRA Para	10777
 DFFT Amongst Like-Minded Democratic Countries	11154
 DISP. AMOXICILLINE	15930
+DOTAT. AUX AMORTISSEMENTS	19850
 DOTATION AUX AMORTISSEMENTS ET AUX DEPRECIATIONS	17841
 DR.HELLEN AMOLLO MEMORIAL HOSPITAL LIMITED Data	7167
 DRM. Among	19520
@@ -347,7 +356,7 @@ HOPE Liberia and KEEP Liberia. Among	17233
 Haemoglobin Tests Conducted Among Pregnant Women	19544
 Hihéatro Amou Wawa1	19350
 Hodh Ech Chargui Amourj	17931
-Hon. Amos Lugoloobi	8969
+Hon. Amos Lugoloobi	8969,10841
 Hon. Prof. Dr. Amon Murwira	13509
 Honourable Douglas Syakalima. Among	13477
 Honourable Prof. Amon Murwira	13673
@@ -373,6 +382,7 @@ Internet. Mohamed Yasser Amoussa	14245
 Itasy Vakinankaratra Alaotra Mangoro Atsinanana Amoron’i	14622
 James Amoh Junior Accra	17684
 James Amoh Junior Edited	17684
+Jean Charles Amon Kra	19847
 Jean D. Amour Niyokwizera	17761
 Junior Secondary External Examination. Among	13477
 Justice Edward Amoako Asante	11704
@@ -381,6 +391,7 @@ Keep Reading Among	7521
 Kenge. Among	12003
 Khouri Amor	15608
 Kwango Province Among	12003
+LGAs Among LGAs	19639
 LGAs and NSAs. Among	19519
 LIBELLES Amort	18032
 LISGIS. Among	17149
@@ -409,6 +420,7 @@ M. Gilles Chantry Amour OVOUGHOU. SERVICE	16381
 M. Michel Amos MOUBA DIABA. DIRECTION	16381
 MALARIA PREVALENCE AMONG PREGNANT WOMEN	19544
 MALARIA PREVALENCE AMONG PREGNANT WOMEN Pregnant	19544
+MDAs Among the MDAs	19639
 MEAN DISEMPOWERMENT SCORE AMONG DISEMPOWERED	17127
 MEN AND WOMEN AMONG	17043
 MO AC HA MIL AMO	8891
@@ -483,6 +495,7 @@ Registered Deaths Among Children Under	12151
 Research Firm Among	10964
 Return Intentions Among Central African Republic	10841
 Return Intentions Among Nigerian Refugees	10841
+Rt. Hon. Anita Among	19725
 Ruth Amour	15524
 Rwanda Ranked Among Africa's Top Performers	14873
 S3.1.4 Among	10977
@@ -501,11 +514,16 @@ Set Offer Amounts	12882
 Seydou Abdou Amouda	6696
 Shaahid Amod	10637
 Skills Among Central African Republic Refugee	10841
+Software Integration Among the LGs	19639
+Software Integration Among the MDAs	19639
 South Africa. Among	318
+Speaker Among	19778
+Speaker Anita Among	19725,53
 Steve Amos	15952
 Study Ranks Rwanda Among Africa’s	3256
 Sudan. Among	14853
 Sudan. Amongst	14897
+Super AMOLED	19728
 Support None Among	12445
 São Tomé and Príncipe. Among	18797
 T50 GENERAUX DOTATIONS AUX AMORTISSEMENTS ET	18032
@@ -517,6 +535,7 @@ Ten Leading Causes of Registered Deaths Among	12151
 Top Ten Leading OPD Diseases Among	19544
 Top Verticals Amongst Tech-Enabled Companies	4972
 UNDERWEIGHT AMONG CHILDREN AGED	19544
+UNESCO IIEP. Among	19657
 Uganda Anita Among	6009
 Upper Nile State.369 Among	3583
 Uptake of Shariah-Compliant Financing Among Refugees	12297

@@ -190,6 +190,7 @@ Auto-Saisines Dans	8891
 Auto-allocation Mardi	3943
 Auto-assessment	8670
 Auto-assignment	12211
+Auto-calculated	19801
 Auto-ciblage	16645
 Auto-essentialization	17773
 Auto-generate REST	6423
@@ -227,17 +228,19 @@ Autodeclaração de Infecções de Transmissão Sexual	10777
 Autofill Function	12041
 Autofinancement	16615
 Autofinanciación	1701
+Autofore	19660
 Autogas Dispensing Station	12256
 Autogirl	7798
 Automatability Assessment	16266
 Automatability Index	16266
 Automatable	16266
 Automatable'. Technical	16266
-Automate	8817,1904,1219,2094,743,188,32,7,86,2274,1211,1009
+Automate	8817,1904,1219,2094,743,188,32,7,86,2274,1211,1009,217
 Automate AEO Accreditation	16968
 Automate AEO Accreditation Relaunch the Authorized Economic	16968
 Automate EMIS	13310
 Automate GAC	17364
+Automate Interbank Transactions and Develop Digital	19829
 Automate Spectrum	5245
 Automate the Postal Clearance	13108
 Automated	28,543,649,876,578,977,210,1508,1063,10,496,852,340,306,360,711,274,1,107,381,69,211,295,285,3,5,41,428,332,13,3,1,30,225,22,156,160,102,268,10,1,29,83,279,1114,130,162,34,204,69,130,38,399,112,511,615,68,242,390,253,78,14,694,407,536,94
@@ -255,9 +258,10 @@ Automated Check Processing and Automated Clearing House	17235
 Automated Cheque Processing	16844
 Automated Civil Service Platform	17057
 Automated Civil Service Test	16985
-Automated Clearing House	2358,1299,22,26,8005,576,78,950,138,1605,543,1244,32,66,196,97
+Automated Clearing House	2358,1299,22,26,8005,576,78,950,138,1605,543,1244,32,66,196,97,2481
 Automated Clearing House AML	13452
 Automated Clearing House Related Indicator	7221
+Automated Clearing House System	19716
 Automated Clearing House of Angola	6938
 Automated Clearing System	17870
 Automated Commercial Environment	11036
@@ -311,25 +315,29 @@ Automated Records Management Systems	12325
 Automated Reporting Mechanisms	13395
 Automated Spectrum Management System	5390
 Automated Switched Optical Network	6691
+Automated System For Customs Data	19665
 Automated System for Cus	16876
-Automated System for Customs Data	969,8976,2441,570,86,11,1072,2824,365,1619,21
+Automated System for Customs Data	969,8976,2441,570,86,11,1072,2824,365,1619,21,885,8
 Automated System for Customs Data ASYCUDAWorld	13042
 Automated System for Customs Data BMS	13053
 Automated System for Customs Data Sydonia World	16942
 Automated System for Customs Data Why ASYPM	13042
 Automated System for Relief Emergency Consignments	13042
+Automated Systems for Customs Data	19839
 Automated Teller Machine	6462,1447,3225,904,1266,1615,2023,90,2558
 Automated Teller Machine ATS Automated Transfer	13312,2
 Automated Teller Machine B2B Business	16876
+Automated Teller Machine BACH	19664
+Automated Teller Machine BBS Bank of Uganda	19647
 Automated Teller Machine Coronavirus Disease Digital	940
-Automated Teller Machines	6774,3387,1794,83,193,1801,1546,22,63,1215,357
+Automated Teller Machines	6774,3387,1794,83,193,1801,1546,22,63,1215,357,2429
 Automated Teller Machines ATMs	11955
 Automated Teller Machines BCG	14742
 Automated Tracking	15282
 Automated Tracking Service	15283
 Automated Tracking Service for Public	15283
 Automated Trading System	10
-Automated Transfer System	4915,1231,7168,203,1506
+Automated Transfer System	4915,1231,7168,203,1506,4806
 Automated Transfer System Plus	13742
 Automated Transfer Systems	12364
 Automated Transfer and Settlement System	10845,7025
@@ -340,7 +348,7 @@ Automated Weather Station	18787
 Automated Weather System	15097
 Automated Wheel Chair	19565
 Automates	13678,3807
-Automatic	1243,2471,1018,944,756,2385,306,2086,731,15,256,22,1229,406,1041,243,561,1426,18,1152,203
+Automatic	1243,2471,1018,944,756,2385,306,2086,731,15,256,22,1229,406,1041,243,561,1426,18,1152,203,1127,128
 Automatic Agro-Meteorological Stations	12728
 Automatic Call Distribution	16922
 Automatic Climate Stations	12728
@@ -370,7 +378,7 @@ Automatic Teller Machine	14880
 Automatic Teller Machine DCC	11955
 Automatic Teller Machines	11939
 Automatic Weather Observing Station	16947
-Automatic Weather Stations	11553,1175,2010,80,2129,1362,364
+Automatic Weather Stations	11553,1175,2010,80,2129,1362,364,989
 Automatic Weather Stations BNSP	18309
 Automatic Weather Stations South Sudan	18673
 Automatic Weather Stations. Key Objectives	12728
@@ -381,7 +389,7 @@ Automating Data Capture KINGDOM	16631
 Automating Data Capture The Eswatini Revenue	16631
 Automating Inequality	11156
 Automating for End-to-End Claims Processing Whitepaper	9237
-Automation	1814,2287,1033,399,132,758,914,704,395,24,513,916,829,44,217,252,755,526,530,289,64,187,603,740,60,493,185,126,56,60,697,29,380,430,98,746,24,268,956,8,35
+Automation	1814,2287,1033,399,132,758,914,704,395,24,513,916,829,44,217,252,755,526,530,289,64,187,603,740,60,493,185,126,56,60,697,29,380,430,98,746,24,268,956,8,35,271
 Automation Framework Implement	11952
 Automation Human-on-the-loop	10726
 Automation NV of Belgium	3561
@@ -475,6 +483,7 @@ Autonomous Fund for Amortization of Public Debt	57
 Autonomous Funds and Services	11939
 Autonomous Generation	14947
 Autonomous ISR	17884
+Autonomous Institutions	19641
 Autonomous Network Power	5226
 Autonomous Port	10856
 Autonomous Port of Cotonou	9043,232
@@ -762,7 +771,7 @@ Autorité de Réglementation	19218
 Autorité de Réglementation du Secteur	19220,19,2,54,15
 Autorité de Régu	19218
 Autorité de RégulatiDn des Communications Electroniques	37
-Autorité de Régulation	998,1788,2967,10,144,1769,135,188,446,720,760,1040,632,104,342,2118,505,750,48,159,31,16,40,17,12,62,84,18,33,172,95,20,104,5,153,130,1251,15,13,126,15,70,17,117,100,772,98,9
+Autorité de Régulation	998,1788,2967,10,144,1769,135,188,446,720,760,1040,632,104,342,2118,505,750,48,159,31,16,40,17,12,62,84,18,33,172,95,20,104,5,153,130,1251,15,13,126,15,70,17,117,100,772,98,9,469
 Autorité de Régulation CHAPITRE	13781
 Autorité de Régulation DECISION N	15885
 Autorité de Régulation Multisectorielle	18105
@@ -931,7 +940,8 @@ Baseline Standards for Automated Anti-Money Laundering	5369
 Benefits Automation	4528
 Best Auto Repair	18837
 Bonne Gouvernance Haute Autorité	15712
-Botswana Automated Clearing House	12537,42
+Botswana Automated Clearing House	12537,42,7071,14
+Botswana Automated Clearing House BCP	19664
 Business Processes Automation Phase	11231
 CA Autoridade Certificadora CFE Centro	11555
 CAPITULO III A AUTORIDADE REGULADORA NACIONAL	11518
@@ -1086,7 +1096,7 @@ District Autonome	2342
 District Autonome de Grand Lomé	19307
 District Autonome du Grand Lome	4293
 District Autonome du Grand Lomé	19220,31
-Djibouti Transit Procedure Automation	16631
+Djibouti Transit Procedure Automation	16631,3208
 Document Feeder Type Autoload Cables Included	34
 Document for Automate	17180
 Don’t Automatic Scheduled Upon	1686
@@ -1156,6 +1166,7 @@ Funções da Autoridade Competente	11582
 Fédération Syndicale Autonome des Télécommunications	6284
 G Hybrid Automatically Switched Optical Network	3797
 G Personal Autonomy and Individual Rights G1	17967,217
+G. Personal Autonomy and Individual Rights	19848
 GLOSSARY AI Artificial Intelligence ASN Autonomous	10861
 GRATUIT Distributeurs Automatiques	17833
 GUCE-Douanes-Port Autonome	15936
@@ -1222,6 +1233,7 @@ I INSTRUÇÃO DO PROCESSO DE AUTORIZAÇÃO	794
 I' Autorilé	15429
 I' Autorisation	16615
 I-39 Autoridade	11569
+ICTs Automate the ICT Sector Business Processes	19641
 II-4. Autorisation	16485
 II-5. Autorisation	16485
 III.2.4 Caisse Autonome de Gestion des Dettes	10876
@@ -1545,6 +1557,7 @@ Strategic Autonomy	4430
 Streamlined Payroll and Benefits Management Automated	13477
 Streamlining Humanitarian Operations Through Automation	13042
 Subject Contract Duration Automatic Renewal Service	5676
+Summary of Key Process Applications Automated	19712
 Sustainability and Autonomy Closely	6947
 Swaziland Automated Electronic Clear-	6938
 Swaziland Automated Electronic Clearing House	12484
@@ -1556,7 +1569,7 @@ Système Autonome	16265
 Système Douanier Informatique Automatisé La Direction	15549
 Système Interbancaire de Compensation Automatisé	10922
 Système de Gros Montants Automatisé	969,14505,460,1008
-Système de Règlement Automatisé de Djibouti	13838
+Système de Règlement Automatisé de Djibouti	13838,6000
 Système de Transfert Automatisé	7283,3639
 Système des Gros Montants Automatisé	10724
 Sénégal Automatisation des Consolidation	10711
@@ -1577,6 +1590,7 @@ Terminal de Pagamento Automático PSP	17032
 Terminal de Pagamento Automático Vinti4	17032
 Test Automation	5665,6287
 Test Automation Requirement	11952
+Timeline of Djibouti Customs Automation	19839
 Times of Crisis Automated System for Customs Data	13042
 Titre X. De la Haute Autorité	15603
 Trade and Development Automated Customs System	17870

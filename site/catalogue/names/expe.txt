@@ -66,7 +66,7 @@ Angola Violência Doméstica Experiência	10760
 Annual Africa CRVS Expert Meeting	7861
 Annual Africa Group of Experts Meeting	7861
 Annual Expert Group Meeting for African Registrars	7879
-Annual Expert Group Meeting for Registrar Generals	11480,584,1156,458,3717,2220
+Annual Expert Group Meeting for Registrar Generals	11480,584,1156,458,3717,2220,189
 Annual Growth Rate CapEx Capital Expenditures	10861
 Appoint Digitization Experts	13987
 Appointment of Experts	17243
@@ -75,7 +75,9 @@ Appropriated Capital Expenditure	12922,34
 Appropriated Recurrent Expenditure	12922,34
 Appropriation Bill Summary of Expenditure	15716,211
 Appropriation Medium Term Expenditure Framework Rand	5533
+Approved Estimates of Revenue and Expenditure	19660
 Arab Member States Country Expert Name	2958
+Area of Expenditure	19712
 Areas of Expertise Policy	11006,1
 Asante Sana Annual Expert Group Meeting	14655
 Assemble Diverse Expertise	12675
@@ -149,7 +151,7 @@ CLIMATE CHANGE Adults Experiencing Climate Change	12409
 COMPARATIVE ANALYSIS OF CAPITAL EXPENDITURE PAYMENTS	16978
 CONNECTIVITY EXPERIENCE	11004,960
 CONTROL OF POLITICAL DONATIONS AND EXPENDITURE	3714
-CRVS Integration Experiences Plenary Session	13220
+CRVS Integration Experiences Plenary Session	13220,6584
 CRVS Integration Experiences. Plenary Session	12761
 Calculation of Cumulative Expected NPV Financial Analysis	15411
 Calculation of Expected NPV US	15411
@@ -203,6 +205,7 @@ Commercialization Experts	4528,7984
 Commission des Experts	17991
 Commission of Experts	14828
 Commission. Expenses	18459
+Commissions Authorities and Public Expenditure	19646
 Committee of Experts	12977,1955,2813,1159,651
 Common Expenditure	17209
 Common and Specialized Expenses Expenditures	17043
@@ -222,6 +225,7 @@ Constraints Expected Outcomes Policy Area Objective	17138
 Consultant’s Experience	13037
 Consultant’s Organization and Experience	13037
 Consumer Access and Experience	5676,2,1
+Consumer Service Expenditure	19728
 Consumption Score FES Food Expenditure	17285
 Consumption and Expenditure Survey RISDP Regional Indicative	13359
 Contractor Official Use Only Item Expected	12253
@@ -237,6 +241,7 @@ Coverage and Expenditure	16902
 Critical Reading of Egypt's E-Government Experience	3271
 Cross Border Trade Expert Sarah Bonakele	13563
 Culture of Customer Experience Adopt Legal and Excellence	6946
+Cumulative Outputs and Expenditure	19641
 Current Awareness and Experimentation87	15164
 Current Expenditure Category	1228,15668
 Current Health Expenditure	17869
@@ -275,10 +280,12 @@ Data Protection Experts Convene	8282
 Data Protection and Digital Governance Expert	9600
 Data Standard Initiatives Expert	14777
 Data Visualization Experts	17116
+Dec-2022. Expected Closing Date	19643
 Dec-2028 Expected Disbursements	1284
 Decentralization Experiences Plenary Session	19615
 Department of Expenditure	18543
 Desenvolvimento Experimental	11385
+Details of Releases and Expenditure	19641
 Develop Context-Specific Digital Expertise	10865
 Development Expenditure	2775,10347,6480
 Development Goals SDGs Statement of Expenditures SOE	11855
@@ -311,7 +318,7 @@ Dr. Humphrey Mwavali Digital Health Expert	9855
 Dr. Titus Suge K. Advocacy Expert	9855
 E&S Expert	11863
 E. Expected Output	14927
-EGH Expert Group	582
+EGH Expert Group	582,19057
 EGTI Expert Group	582
 EIB. Expected	543
 ELEMENT WEIGHT BIDDER’S RELEVANT EXPERIENCE	11209
@@ -387,8 +394,10 @@ Electronic Population Registration System Expected	19519
 Elevate Customer Satisfaction and Experience	3487
 Eligible Expend	1228,3425
 Eligible Expenditure	10964
+Eligible Expenditure Programs	19835
 Eligible Expenditures	10964,3948,606,701,717,505,1843
 Eligible Expenditures CERP	16187
+Eligible Expenditures Program	19835
 Eligible PBC Expenditures	15659,3580
 Emerald Expert Briefings	2518
 Emergency Expenditures	969,1505,2179,6311,3948,606,35,105,1,1277
@@ -399,6 +408,7 @@ Emerging Technologies. Strategy Expected Output Key	7548
 Employee Expenses	17236
 Employee Experience and Actionable Insights	13037
 Enabling Telemedicine and Remote Expertise Telemedicine	5378
+Energy Expenditures	19823
 Engage Expert Trainers	12675
 Engagement of Technical Expertise	12977
 Enhance Debt Management and Public Expenditure Efficiency	13756
@@ -441,12 +451,13 @@ Expectation	15080,3547
 Expectation Marking	15080
 Expectation of Privacy	34
 Expectations	4752,927,974,2825,4054,1033,2670
+Expectations and Aspirations	19835
 Expectations and Minimum Maturity Level	15054
 Expectations for Computer Security Incident Response	18774
 Expectations of Beneficiaries	18461
-Expected	82,297,120,182,1,3,104,23,79,79,78,106,40,96,1699,442,69,104,460,3,1451,102,261,50,492,1272,1428,782,502,422,80,271,68,647,10,51,12,183,8,1,44,1,3,45,16,33,53,58,74,13,94,249,194,16,303,7,29,26,94,629,915,82,53,15,15,11,140,101,161,290,108,379,555,5,97,47,1,11,343,988,71,358,98,95,204,235
+Expected	82,297,120,182,1,3,104,23,79,79,78,106,40,96,1699,442,69,104,460,3,1451,102,261,50,492,1272,1428,782,502,422,80,271,68,647,10,51,12,183,8,1,44,1,3,45,16,33,53,58,74,13,94,249,194,16,303,7,29,26,94,629,915,82,53,15,15,11,140,101,161,290,108,379,555,5,97,47,1,11,343,988,71,358,98,95,204,235,226,102
 Expected Annual Return	7446
-Expected Approval Date	1584,668,1310,7270,1133,423,2522,26,1,253,363,105,124,616
+Expected Approval Date	1584,668,1310,7270,1133,423,2522,26,1,253,363,105,124,616,3437,12
 Expected Approval Date Expected Closing Date	1867,1737,7164,61,135,453,143,295,50,1426,1,2289,40,483,2054,1047
 Expected Approval Date Review Type	18809,475
 Expected Benefits	12359
@@ -462,7 +473,7 @@ Expected Deliveries	16971
 Expected Delivery Date Expected Contract Signature	13392
 Expected Delivery Number	16971
 Expected Development	10726
-Expected Disbursements	969,295,603,1695,42,7164,61,135,453,108,35,295,50,1426,1,1578,27,39,515,24,38,68,37,1,2,82,401,752,26,27,492,852,946,6
+Expected Disbursements	969,295,603,1695,42,7164,61,135,453,108,35,295,50,1426,1,1578,27,39,515,24,38,68,37,1,2,82,401,752,26,27,492,852,946,6,398,192,12
 Expected Duration	12364
 Expected End Date	17196
 Expected Environmental Responsibilit Time	12253
@@ -498,6 +509,7 @@ Expected Outcomes of Interoperability The Standard	13308
 Expected Outcomes of This Policy	11265
 Expected Output	11866
 Expected Output Key Performance Indicators	7548
+Expected Outputs	19741
 Expected Outputs Output Indicators	13095
 Expected PEF Projections Cumulative	16032
 Expected Positive Effects	17114
@@ -510,7 +522,7 @@ Expected Regional Outcomes	5676
 Expected Regional Outcomes Implementation	5676
 Expected Regional Transformation	12432,252
 Expected Registered Completeness County	12151
-Expected Results	789,11440,1771,1713,2580
+Expected Results	789,11440,1771,1713,2580,1535
 Expected Results Indicator Baseline and Targets Means	970
 Expected Results Indicators Baseline	789,181
 Expected Results Indicators Target	789
@@ -523,6 +535,7 @@ Expected Year of Commissioning Soma Solar Park	16966
 Expectedly	10
 Expections	13532
 Expects	13532
+Expedex CC	19651
 Expedición Otros	4209
 Expediente	11435
 Expediente Disci	16855
@@ -544,7 +557,7 @@ Expedição	15359
 Expendedores	17022
 Expendeduría	16859
 Expenders	9536
-Expenditure	563,399,258,69,1486,808,1950,122,933,4175,5,78,24,99,16,149,2,82,12,41,198,415,1,10,12,79,173,1,44,1,146,4,18,23,49,42,111,294,28,2,34,6,80,11,69,1,232,65,1297,19,2,8,89,61,90,618,59,1223,58,34,18,109,104,26,22,3,29,75,77,62,406,81,476,1,16,17,78,83,377,123,365,4,1,71
+Expenditure	563,399,258,69,1486,808,1950,122,933,4175,5,78,24,99,16,149,2,82,12,41,198,415,1,10,12,79,173,1,44,1,146,4,18,23,49,42,111,294,28,2,34,6,80,11,69,1,232,65,1297,19,2,8,89,61,90,618,59,1223,58,34,18,109,104,26,22,3,29,75,77,62,406,81,476,1,16,17,78,83,377,123,365,4,1,71,110,111
 Expenditure Analysis	11986
 Expenditure Approach and The Income Approach	18483,5
 Expenditure Arrears	1828
@@ -556,6 +569,7 @@ Expenditure Categories	11525,920
 Expenditure Category	2775
 Expenditure Category Current Allocation Actuals	16187
 Expenditure Category Table	17260
+Expenditure Control	19847
 Expenditure Control Measures	13122
 Expenditure Eligible for Bank Group Financing	16219
 Expenditure Estimates	3847
@@ -604,9 +618,9 @@ Expenditures Personnel	11955
 Expenditures Pt	4653
 Expenditures Pt.5	2473
 Expenditures Utilisation	13080
-Expense	6938,6115,426,579,956,963,1258
+Expense	6938,6115,426,579,956,963,1258,2477
 Expense Management Strategies	2518
-Expenses	587,3127,3484,1210,3116,431,1332,24,1425,152,97,12,17,9,1813,142,257,1,634,589,702,364
+Expenses	587,3127,3484,1210,3116,431,1332,24,1425,152,97,12,17,9,1813,142,257,1,634,589,702,364,187
 Expenses Generally	7198
 Expenses Marketing	12971
 Expenses Page	17236
@@ -617,7 +631,7 @@ Expensive	4150,6163,4710,457,3431
 Expensive ICT	16884
 Experi	18896
 Experian and TransUnion. Yet	17739
-Experience	10,1209,24,21,1020,13,97,3,65,10,86,28,4,209,10,16,25,39,95,79,190,7,70,41,80,30,76,30,47,9,16,19,19,19,16,322,19,14,347,177,10,7,509,12,171,64,5,22,3,94,10,19,294,178,44,54,54,23,322,60,26,6,125,80,6,23,68,102,189,9,1,65,4,2,1,107,3,992,171,300,132,220,5,400,1226,168,134,121,165,70,38,28,32,272,9,61,14,13,54,143,249,43,250,8,53,185,92,6,43,232,2,261,1,48,80,287,194,301,542,62,74,56,27,164,107,72,460,216,636,40,126,46,141,83,103,98,565,205,149,117,3,176,33,100,632
+Experience	10,1209,24,21,1020,13,97,3,65,10,86,28,4,209,10,16,25,39,95,79,190,7,70,41,80,30,76,30,47,9,16,19,19,19,16,322,19,14,347,177,10,7,509,12,171,64,5,22,3,94,10,19,294,178,44,54,54,23,322,60,26,6,125,80,6,23,68,102,189,9,1,65,4,2,1,107,3,992,171,300,132,220,5,400,1226,168,134,121,165,70,38,28,32,272,9,61,14,13,54,143,249,43,250,8,53,185,92,6,43,232,2,261,1,48,80,287,194,301,542,62,74,56,27,164,107,72,460,216,636,40,126,46,141,83,103,98,565,205,149,117,3,176,33,100,632,143,35
 Experience And Competencies Experience	14486
 Experience Applicants	10060
 Experience Builder	5848
@@ -646,11 +660,11 @@ Experience of Sierra Leone and Senegal	12948
 Experience of Sierra Leone and Senegal Evidence	12948
 Experience of Tajikistan and Eswatini	12948
 Experience of Tajikistan and Eswatini1 Tajikistan	12948
-Experienced	8978,5578,1157,1401,1335
+Experienced	8978,5578,1157,1401,1335,1190
 Experienced Company	18837
 Experienced Fresh Grad Manager	16266
 Experienced Fund Managers First-Time Fund Managers	4972
-Experiences	1000,219,3220,3447,2840,1201,304,612,197,951,1073,896,369,486,724,932,1049
+Experiences	1000,219,3220,3447,2840,1201,304,612,197,951,1073,896,369,486,724,932,1049,137,159
 Experiences and Opportunities	19565
 Experiences of Young Women	10763
 Experiences&author	2096
@@ -662,7 +676,7 @@ Experiential Learning Workshop and Field Visits	14057
 Experiises	15429
 Experiment	7751,3266,5905,1182,214
 Experiment With Data Saturation and Variability	5349
-Experimental	8603,9715,1237
+Experimental	8603,9715,1237,194
 Experimental African News Innovation	13462
 Experimental Design	18318
 Experimental Evidence	3604,7252,5410,2052
@@ -680,7 +694,7 @@ Experiência Profissional Deve-se	11448
 Experiência de Diferentes Formas de Violência	10777
 Experiência de Violência Física	10777
 Experiência de Violência Sexual	10777
-Expert	789,181,242,17,55,1524,301,327,992,607,220,571,337,126,350,29,270,821,218,292,335,284,862,552,81,299,318,6,572,284,181,650,78,136,54,76,465,28,131,763,48,407,118,545,62,20,39,7,15,163,347,55,37,86,374,79,434,570,31,21,13,505,2,1,4,5,144,635,30,141,180
+Expert	789,181,242,17,55,1524,301,327,992,607,220,571,337,126,350,29,270,821,218,292,335,284,862,552,81,299,318,6,572,284,181,650,78,136,54,76,465,28,131,763,48,407,118,545,62,20,39,7,15,163,347,55,37,86,374,79,434,570,31,21,13,505,2,1,4,5,144,635,30,141,180,145
 Expert And Experienced Mechanic	18837
 Expert Briefings	6997
 Expert CRVS	12043
@@ -694,7 +708,7 @@ Expert E-Gouvernance	14424
 Expert Evidence	17243
 Expert FP	14424
 Expert GovTech	12043
-Expert Group	582,1232,1827,7123,498,162,139,2310,1598,2272
+Expert Group	582,1232,1827,7123,498,162,139,2310,1598,2272,1896
 Expert Group Meeting	10840,4787
 Expert Group Meeting of Registrars General of Civil	17397
 Expert Groups	11424
@@ -791,6 +805,7 @@ Experts du Pool Centre	15670
 Experts du Système Statistique National	16373
 Experts du Sénégal	18324
 External Expert Augmentation	14965
+External Financing Releases and Expenditure	19641
 F. BANK GROUP EXPERIENCE AND LESSONS	11863,2075
 F. Bank Group Experience and Lessons Reflected	11863,2075
 FCFA FRAIS RELATIFS AUX EXPERTISES TECHNIQUES	16047
@@ -817,10 +832,12 @@ Financial Performance Statement of Expenditure	14738
 Financial Sector Expert	13885
 Financing Expected	1284
 Financing of Project Expenditures	14430
+Firm Qualifications and Experience Requirements	19807
 First Experience of Sexual Violence	15247
 Fiscal Printers Dominican Experience. CIAT	12948
 Fiscal and Local Governance Expert	17011
 Food Expenditure	17285
+Food Insecurity Experience Scale	19715
 Food Insecurity and Experience Scale	16960
 Forensic Expert	18675
 Fourth Quarter Federal Budget Vs Expenditure	1784,1,2,7,3
@@ -864,6 +881,7 @@ Global Cybersecurity Index. Experts	2703
 Global Experiences	10819
 Global Forum for Cyber Expertise	318
 Global Tax Expenditure Database	12948
+GoU Expenditure	19641
 Google Cloud Partner Experience Centre	6909
 Google Cloud-powered Experience Centre	5735
 Google Cloud-powered Partner Experience Centre	5735
@@ -883,6 +901,7 @@ Government Final Consumption Expenditure	19038
 Government Finance Statistics Expert	14777
 Government of Lesotho Annual Expert Group Meeting	12761
 Grants Bilateral Multilateral Expenditure Compensation	11136
+Gratuity Expenses	19641
 Gravity Recovery and Climate Experiment	17157
 Green Expert and Training Facilitator	16705
 Gross Domestic Expenditure	2775,9601
@@ -916,13 +935,17 @@ High-Level Expert Group	11050,106
 Higher Education Experts	10355
 Homba Ngejane TYPES OF CYBERATTACKS EXPERIENCED	1938
 Household Expenditure	2775
+Household Expenditure Per Line Item	19728
+Household Expenditure Per Line Item Kampala	19728
 Household Expenditure Survey	16902
 Household Final Consumption Expenditure	19038
 Household Income and Expenditure Survey	31,11824,470,614,1186,2751,240,141
 Household Income and Expenditure Survey. Data	12962
+Households’ Food Insecurity Experience	19715
 Housing Health YOUR EXPERIENCE REIMAGINED	14752
 Human Capital and Expertise	12444
 Human Resources and Technical Expertise	5677
+ICT Household Indicators EGTI Expert Group	19639
 ID Experience	10822
 ID Registration Experiences and Perceptions	4439
 IDA. Expenses	17962
@@ -938,6 +961,7 @@ INFLATION EXPECTATIONS AND EXCHANGE RATE POLICY	17138
 INFRASTRUCTURE EXPENDITURE	11211,51
 IRM’s International Experts Panel	17037
 ISTQB Expert Level	5665
+ITU Expert Washington Okori	19679
 ITU GCI Expert Group	10764
 ITU’s Expert Group	11563,6180
 Impact for Research and Education Benefits Expected	3840
@@ -950,6 +974,7 @@ Improve the Efficiency of Public Expenditures	17470
 Improved Case Management and Expedited Justice Delivery	18477
 Improved Citizen Experience	14655
 Improved User Experience	14761
+Incidents Children Experienced When Using	19702
 Inclusive Digital Experts Africa	11948
 Income and Expenditure	17235
 Income and Expenditure Statement	13420
@@ -985,14 +1010,17 @@ International Panel of Experts	5367
 International Rescue Committee’s Experience	13314,2179
 International Rescue Committee’s Experience. GSMA	13314,2160,19
 International Rescue Committee’s Experience. Huawei	15493
+Internet Security Incidents Children Experienced	19702
 Interventions and Expected	19519
 Inventions and Experimental Use Exception	12389
 Invernadero IPCC Panel Intergubernamental de Expertos Sobre	16875
 Investment Environment Senior AI Experts Cultivation	15713
 Irregular Expenditure	11230
 Item Expected Environmental Responsibilit Time	12253
+Ivoire Frédérick Blédou Expert-Comptable Diplômé Associé	19850
 J. REQUIRED EXPERIENCE	14928
 JN Expertise	10975
+Jan-2025. Expected Closing Date	19847
 Jhpiego Advocacy Expert Jhpiego	9855
 Job Experience	3791
 Journal of Experimental Psychology	7759
@@ -1026,6 +1054,7 @@ La Remisión de Expedientes Administra	16855
 Labour Official Use Only Item Expected	12253
 Large and Medium Taxpayers' Experience	12162
 Large and Medium Taxpayers' Experience Working Paper	12162
+Lead National Expert	19789
 Lead National Expert for Somalia	14993
 Lead Technical Expert	17367
 Learning Experience. The Case of Zimbabwe's Higher	1248
@@ -1045,7 +1074,7 @@ Libya Experts	10409
 Libya Experts Forum	7723
 Libyan Experts Forum	11747
 Libyan Experts Forum Outlines National Development	11747
-Life Expectancy	11586,1813,3597,2548
+Life Expectancy	11586,1813,3597,2548,171
 Limited Foreign Expertise	14997
 Liquid Google Cloud Experience Centre	5737
 List of Expert Representatives	2958
@@ -1065,6 +1094,7 @@ MISCELLANEOUS PROVISIONS Expenses	18434
 MISSIONS D’APPUI DES EXPERTS D’AFRISTAT BENIN	16250
 MONTHLY EXPENSES ARE THE MOST COMMON	10977
 MTEF Medium Term Expenditure Framework NFC	17116
+MTEF Medium-Term Expenditure Framework	19847
 MTEF Medium-Term Expenditure Framework NCB National	17441
 MTEF Medium-Term Expenditure WBI Women’s Budget	11193
 MTN Nigeria Capital Expenditure Equipment Facility	240
@@ -1079,6 +1109,7 @@ Mar-2026 Expect	13548
 Matter Expert TOGAF The Open Group	12917
 Mauritius. YOUR EXPERIENCE REIMAGINED	14752
 May-2028 Expected Disbursements	18359
+Medical Expenses	19741
 Medium Term Expenditure Framework	396,5137,5756,618,79,2961,2494
 Medium Term Expenditure Framework MWSS	14857
 Medium Term Expenditure Framework R'000 Rand	11986
@@ -1134,6 +1165,7 @@ National Government Expenditure Classification	2775
 National Household Income and Expenditure Survey	9485
 National Innovation Expert	12587
 Needs and Disability SLE School Life Expectancy	14896
+Net Expenditure	19712
 Network Experts	4127,5489
 Network of AI Ethics Experts	13557
 Next Expected Nb Activity Budget	2989
@@ -1163,6 +1195,7 @@ Official Mission Expenses	17236
 Official Use Only Expected Environmental Proposed	12253
 Official Use Only Item Expected Environmental	12253
 Official Use Only Total Expenditure	10985
+Offnet Expenditure	19728
 On-Budget Expenditure Composition	17257
 Online Services ACE Experts Portal	13051
 Only Item Expected Environmental Responsibilit Time	12253
@@ -1176,13 +1209,18 @@ Operating Expenses	17235
 Operational Expenses	12606
 Ordre National des Experts Comptables de Mauritanie	17840
 Ordre des Experts Comptables	14429
+Ordre des Experts Comptables de Djibouti	19847
 Ordre des Géomètres Experts	17983
 Out-of-Pocket Expenses2	13031
 Outcomes Expenditure	15604
 Over Expenditure	12971
 Over the Medium-Term Expenditure Framework	3264,7951
+Overview of Vote Expenditure	19742,1,3
+Overview of Vote Expenditures	19641
 PBC and Project Expenditure Composition Project	15659
+PE Public Expenditure	19847
 PEF Program Expenditure Framework PEFA Public	17458
+PEFA Public Expenditure and Financial Accountability	19847
 PER Public Expenditure Review PHC Primary	16896
 PERCENTAGE OF GENERAL GOVERNMENT EXPENDITURE	16892
 PERCENTAGE OF LIVESTOCK HOLDINGS EXPERIENCING ANIMAL	17043
@@ -1224,6 +1262,7 @@ Plc CAPEX Capital Expenditure CCU Customer	12062,6124,31
 Policy Implementation Experience Report	11797
 Pool Centre. Les Experts	15670
 Pool of AI Experts Lagging Indicators	4528
+Position Minimum Qualifications Minimum Experience Senior	19807
 Position Qualifications Experience Project Team Leader	15090
 Post-Delisting Positioning and Shareholder Expectations	4896
 Poverty Alleviation and Empowerment Recurrent Expenditure	14835
@@ -1269,7 +1308,7 @@ Public Expenditure Review	11133,783,1433,2312,2,1233,75,470
 Public Expenditure Review of HD Sectors68	15663
 Public Expenditure Tracking	18494
 Public Expenditure Tracking Survey	18494
-Public Expenditure and Financial Accountability	3604,6915,1981,1441,887,3,541
+Public Expenditure and Financial Accountability	3604,6915,1981,1441,887,3,541,4475
 Public Expenditure and Financial Accountability Assessment	13122,1706,3
 Public Expenditure and Financial Accountability PFM Public	17105
 Public Expenditure and Financial Accountability PFMRD Public	18488
@@ -1296,6 +1335,8 @@ Quality of Consumer Experience	5676
 Quality of Experience	5245,431,1270,2166,3489,5843
 Quality of Experience and Satisfaction	5676
 Quality of Experience and Satisfaction The Guidelines	5676
+Quarter Cumulative Expenditures	19641
+Quarter UShs Thousand Cumulative Expenditures	19641
 Quarterly Survey of Business Opinion and Expectations	13532
 R Experience Required	13077
 R SOC AICHFEET ETUDE EXPERTISE ET	16623
@@ -1316,16 +1357,19 @@ Randomized Field Experiment	12948
 Rate Your Experience	14797
 Rationalisation of Agencies and Public Expenditure	2757
 Recovery and Climate Experiment	17157
+Recruitment Expenses	19741
 Recurrent Budget Expenditure Summary	12962
 Recurrent Expenditure	12598,373,4264,2367
 Recurrent Expenditure The Ministry of Information	12971
 Recurrent and Development Expenditure	12597
 Regional DPI Leadership Meets Global Expertise	12432,252
 Regional Legal Expertise	14928
+Registration Authority Uganda Annual Expert Group	19804
 Regular Funds Expension	15500
 Reject Appeal Process Fail Fail Expel	10819
 Released Actual Expenditu	12971
 Released Actual Expenditure Variance Variance	12971
+Releases and Expenditure	19641,71
 Relevant Experience	13037
 Remisión de Expedientes Electró	16855
 Remuneration and Reimbursable Expenses	13037
@@ -1385,6 +1429,7 @@ Senior Expert	10812
 Senior Experts	11862
 Senior Experts Bidding	11862
 Senior Standards Expert Matano Ndaro	10336
+Sep-2019. Expected Closing Date	19835
 Sep-2025 Expected Closing Date	3562,11414
 Sep-2028 Expected Disbursements	4653
 Serre GIEC Groupe International des Experts	17907
@@ -1424,6 +1469,7 @@ Statements of Expenditures	1264,14108,181,106,3228
 Statistics Portugal Shares Experience	11423
 Statistics and Geographic Information Expert	14089
 Stored Computer Data Expedited Disclosure of Present	18675
+Strategic Interventions and Expected Outcomes Strategic	19642
 Strategic Objectives Deploy Experimental Innovation Areas	14566
 Strategic Plan Goal Expenses	14058
 Strategy Expected Outcome KPI Baseline Midterm	7548
@@ -1435,7 +1481,7 @@ Strategy Expected Output Key Performance Timeframe	7548
 Strategy Expected Outputs Key Performance Indicators	7548
 Strengthen Digital Cooperation and Share Experience	13807
 Strengthen Expert	14997
-Strengthen Public Expenditure Management and Core Government	13910
+Strengthen Public Expenditure Management and Core Government	13910,5937
 Student Learning Performance and Experience	15604
 Student Learning Performance and Experience Overcrowded	15604
 Sub-Criteria for Technical Team Technical Expert Maximum	13185
@@ -1481,6 +1527,7 @@ Technical Expert	13017,1411,3711
 Technical Expertise	11134,3595
 Technical Experts	12338,4922
 Telecommunication Regulator of Chad PEFA Public Expenditure	18887
+Telecommunications Consumer Expenditure Profile Figure	19728
 Tension CAPEX Capital Expenditure	18103
 Term Expenditure Framework	11986
 Term Expenditure Framework MTSF Medium Term	5533

@@ -144,7 +144,7 @@ Batani	2948
 Batarseh	5700
 Batarseh F. A	5700
 Batate	17271
-Batch	15234,59,1607,2675
+Batch	15234,59,1607,2675,111
 Batch Four	7652
 Batch ID	16843
 Batch Input	7988
@@ -168,14 +168,16 @@ Batha	4568,3820,10554,30,137,92
 Batha. Ce	18928
 Bathabile Mahlangu	10809,2059
 Bathily	10533
+Bathing	19730,19
 Batho Pele	8603,49,1742,790,32,2,6,13,703
 Batho Pele AI	8652
 Batho Pele AI Chatbot	8652
 Batho Pele Prin-	8603
 Batho Pele Principles	8603
 Batho-Pele	12641
-Bathroom	17114
+Bathroom	17114,2601
 Bathroom Facilities	11285
+Bathrooms	19715
 Bathseba C. Sakala Mr Boniface	13477
 Bathé DIARRA DIALLO	17861
 Batian	12151
@@ -207,7 +209,7 @@ Batouri	2319,13223,1051
 Batouri Gamboula REPUBLIC	18887
 Batouri To Motaba Ebolowa	15372
 Batsirai Group Chinhoyi	13310
-Batswana	2576,159,181,354,1980,1532,1104,2026,1,137,101,2378,23,2,2,5,9,10,3,5,2,1,6,1,9,10,8,11,5,343,1182
+Batswana	2576,159,181,354,1980,1532,1104,2026,1,137,101,2378,23,2,2,5,9,10,3,5,2,1,6,1,9,10,8,11,5,343,1182,5511,18
 Batswana. Access	12561
 Battaglini	18318
 Batterie	11080,3399
@@ -218,10 +220,10 @@ Batteries Generators Flywheels Circuit	9123
 Batteries Ni	14423
 Batteries Soft Carrying Case	34
 Batteries de Stockage	1993
-Battery	34,9089,646,2072,134,1210,1979,1304,331,101,1474
+Battery	34,9089,646,2072,134,1210,1979,1304,331,101,1474,1341
 Battery Energy Storage System	12576,484,168,2474,281,593
 Battery Energy Storage System Sources	11953
-Battery Energy Storage Systems	12256,143,2346,85,127,3417,1105
+Battery Energy Storage Systems	12256,143,2346,85,127,3417,1105,198
 Battery Energy Storage Systems The Kenya	12256
 Battery Energy Storage Systems and Related Facilities	16468
 Battery Energy Storage Technology	18316
@@ -345,6 +347,7 @@ Infrastructure Chief Economist Office. Bateman	11310
 Inside the Hidden Battles of Africa’s Gig Workers	7102
 Instituciones Bata	4209
 Instituto Politécnico Modesto Gene Roig de Bata	17162
+Irene Bateebe PERMANENT SECRETARY	19646
 Ithiel Batumike	16504
 Jacob Bathanti	1217
 Juiz Conselheiro Alberto Batista Lopes	11561
@@ -371,6 +374,7 @@ M. MAKAYA BATCHI	16177
 MENORES MALABO MALABO BATA PROPIEDAD	4209
 MW Battery Energy Storage System	14745
 MW Omburu Battery Project Last	13139
+MW of Battery Energy Storage Systems	19663
 MWh Battery Energy Storage System	18862
 Mabaadii'da Hagaysa Batakacayaasha Qatamada Midoobay	15047
 Malabo Bata	4209,12760
@@ -461,6 +465,7 @@ TADE Batarima SCH	19251
 TALAKI Batchazi CCH	19251
 Terminal de Bata	4209
 Though the Batho Pele Principles	8603
+Type of Bathroom	19715
 TÎ BATA DIPANDAÄ TÎ KÖDÖRÖSÊSE LÂKÛÊ	15603
 TÎ BATA KÖDÖRÖ MOBIMBA	15603
 TÎ BATA NZÖNI-DUTÏ TÎ	15603

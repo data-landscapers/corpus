@@ -31,6 +31,7 @@ Address of Group Headquarters	12302
 Adjusted Headcount Ratio	15244
 Affaires and Head of Cooperation	13426
 Affairs Office Koutaille Ba ANACIM Head	18309
+African Community Headquarters	19696
 African Heads of State	3987,1747,144,10801,1806
 African Heads of State and Government	3987,6832,6468,280
 African Heads of State. The African	4426
@@ -82,6 +83,7 @@ Authority of Heads of State and Government	7,7445,4065,3846
 Authority of Heads of State and Government of ECOWAS	15363
 Auxiliaries and General Workers Technical Head Technical	14835
 Average Headline Inflation Trend	17235
+Average Household Size of Households Headed	19715
 Axelspace Corporation Headquarters	14077
 BACKGROUND The Heads of State and Government	13310
 BANK LETTER HEAD	12364
@@ -170,6 +172,7 @@ Council of Bureau Heads	17235
 Country Head for Benin	3255
 Country Head for Zoho Nigeria	14199
 County Directors of Education and Heads of Institutions	14501
+Customs East African Community Headquarters	19703
 Customs Headquarters	13042
 Cybernetica Head of Data Exchange Technologies Ants	3689
 DCCMS Headquarters	12988
@@ -190,7 +193,7 @@ Departmental Heads and Officials	14742
 Deputies and Heads	940
 Deputy Director Head	18261
 Deputy Director and Head of Technology and Ethics	6056
-Deputy Head	6946,3097,2999
+Deputy Head	6946,3097,2999,6714
 Deputy Head Registrar	14891
 Deputy Head Registrar of Companies	14891
 Deputy Head Teachers	899
@@ -356,7 +359,7 @@ Head Nomcebo Hadebe	4173
 Head Nurse	11892,436
 Head Nurses	11892
 Head Of Government Ministry of Digital Transition	1885
-Head Office	1263,1045,468,610,5454,159,1219,991,71,675,31,419,542,24,11,62,311,1391,101,103,152,297,975,504,271,1386,10,31,979
+Head Office	1263,1045,468,610,5454,159,1219,991,71,675,31,419,542,24,11,62,311,1391,101,103,152,297,975,504,271,1386,10,31,979,123,37
 Head Office AXIAN Telecom	14445
 Head Office Auxiliary	14835
 Head Office Bank Square	13532
@@ -451,6 +454,7 @@ Head of Dispute and Litigation	3945
 Head of Division	11289,4612
 Head of Division East and Central Africa	9707
 Head of Domestic Taxes and Mr Vivian	13044
+Head of ESP-MGLSD	19647
 Head of ESTDA	13952
 Head of EU Delegation	14047,2801,5
 Head of EU Delegation EU Delegation	16848
@@ -482,6 +486,7 @@ Head of Grants and Research	5946
 Head of Group Talent Management	11131,3
 Head of Growth	9790,5029
 Head of Health	12338
+Head of Household	19702
 Head of ICT	2872,6108,3384,7212
 Head of ICT Department	14428
 Head of ICT Departments	19513
@@ -557,8 +562,9 @@ Head of Projects	14352
 Head of Public Affairs	9563
 Head of Public Policy	6232,2420,1481
 Head of Public Sector and Market Intelligence	12951
-Head of Public Service	6946
+Head of Public Service	6946,12817
 Head of Public Service Felix Koskei	14641
+Head of Public Service and Secretary	19719,44
 Head of Public and International Relations	14371
 Head of Quality and Accreditation	10970
 Head of Registrations and Payments	10763
@@ -613,7 +619,9 @@ Head of UNESCO Office and UNESCO Representative	9755
 Head of UNODC Programme Office	18868
 Head of UNU-EGOV	10840
 Head of United Nations Integrated Transition Assistance	15342
+Head-Office	19702
 Head-Procurement	13332
+Head-teacher	19783
 Headcount	11134,864
 Headcount of Permanent Staff	12951
 Headed	9234
@@ -650,8 +658,9 @@ Headoffice Road	4896
 Headphones and Screen Reader	6946
 Headquarter	6946,11514
 Headquarter and District Offices	19541
+Headquarter and Regional Offices	19712
 Headquartered	620,2980,1030,47,45,2752,1624,463,2905,171,972,138,8,6,1,3,47,2,1199,186,11,52,743,509,28,496,348,81,811,83,228,98,404
-Headquarters	587,958,127,1,1,792,183,1,1919,1853,1030,1528,214,1582,358,330,878,158,97,339,34,6,196,138,51,1061,141,31,166,1085,988,81,1228,55,398,7,96,873,14
+Headquarters	587,958,127,1,1,792,183,1,1919,1853,1030,1528,214,1582,358,330,878,158,97,339,34,6,196,138,51,1061,141,31,166,1085,988,81,1228,55,398,7,96,873,14,56,71
 Headquarters Abuko Station	14260
 Headquarters Address	16219
 Headquarters Agreement	14409,3733,55
@@ -718,7 +727,7 @@ Heads of School Certificate Examination Centres and Heads	13477
 Heads of Sections	14761
 Heads of Sectors Heads of Committees Representatives	15604
 Heads of Service	7659
-Heads of State	1264,440,5808,4814,201,1882,191,857,1222,248,24,487,21,123,903,700
+Heads of State	1264,440,5808,4814,201,1882,191,857,1222,248,24,487,21,123,903,700,528,66
 Heads of State and Government	3583,3869,2309,408,339,311,1821,800,561,723,121
 Heads of State and Government Summit	13673
 Heads of State and Government and High Representatives	17323,1
@@ -734,6 +743,7 @@ Heads of States	745
 Heads of Tax Administrations Master Class	7692,1
 Heads of UN Agencies	10210
 Heads of Units	14736
+Headteacher	19776,7
 Headteachers	899,1089
 Headteachers and Connectivity	899
 Headteachers and Deputy Headteachers	899
@@ -747,10 +757,12 @@ HoH Head	17127
 HoIH Head of Information Holder ICT Information	19042
 Home Affairs Head of Communication Service	9076
 Hossam Kandeel Head of Mobile Money and Business	10666
-Household Head	15244,1677,193,13
+Household Head	15244,1677,193,13,2588
 Household Head Sex Age	17114
 Household Head and County Agriculture Households Male	16921
+Household Headship	19715
 Household Headship Male-headed	12383
+Households Headed	19715
 Huawei's Headquarters Exhibition Centre	13210
 IBI Digital Economy Headquarters	13666
 IBI Digital Economy Headquarters. IBI Director	13666
@@ -763,6 +775,7 @@ IMF Human Capital Risk IT Headquarters	12500
 INCM Headquarters	3489
 IPv4 IPSec Authentication Header RFC	18774
 IRENA Headquarters	12261
+ITU Headquarters and ITU Regional Office for Africa	19679,72,1
 Identification Section Header	11877
 Ile Authority of Heads of State and Government of ECQWAS	11517
 Import Cover Annual Headline Inflation Currency	11131
@@ -817,6 +830,7 @@ MSc Principal Statistician and Head	18483
 MTN Headquarters	10120
 MUJUMBA OBWOYERE HEAD OF KEMIS	14670
 Main Heading	11877
+Makerere University AI Lab Head Dr	19789
 Malawi Police Service National Police Headquarters	12953
 Malawi. Headline	2486
 Male Headed Female Headed Figure	17127
@@ -858,6 +872,7 @@ Mozambican Head of State	6775
 Mr. Moses Bayingana Ag. Head of Information	1243
 Mr. Ndiaye Diouf Head of Department	5680
 Mr. Waleed Hamdi Head of Information Society	1814
+Municipal Division Headquarters	19805
 Mwale Deputy Head Teacher	13392
 NAME OF HOUSEHOLD HEAD	582
 NAMPOL's Head	13108
@@ -1014,7 +1029,7 @@ Subtotal Outside HEADING	18985
 Sudan Censored Headcount Ratios	15244
 Sudan Uncensored Headcount Ratios	15244
 Suggested Composition Head	12359
-Summit of EAC Heads of State	11806
+Summit of EAC Heads of State	11806,7890
 Summit of Heads of State	5045,14140
 Summit of Heads of State and Government	14267,2008
 Summit of Heads of States	1814
@@ -1045,6 +1060,7 @@ UCC Head of Public and International Relations	9781
 UN Headquarters	9786
 UN Secretary-General’s Special Representative and Head	10409
 UN Women Head of Office Setcheme Mongbo	18520
+UNBS Head Office	19730
 UNCTAD Headquarters	13042
 UNDP Headquarters	12241,839,15
 UNDP Liberia's Inclusive Governance Pillar Head	17370
@@ -1057,6 +1073,7 @@ UNFPA Head of Office	12962
 UNFPA Head of Office Margaret Thwala	13047
 UNFPA Headquarters	13040
 UNHCR Country Representative. The Deputy Head	16222
+UPDF Headquarters	19660
 US Delegation Heads	5044
 Uncensored Headcount Ratio	15244
 Uncensored Headcount Ratios	15244
@@ -1099,6 +1116,7 @@ Yas Head of Region for Coast South	9590
 Years of Successive Headlines	1828
 Yellow Card’s Group Head of Policy and Senior	9311
 York Headquarters	9786
+Youth Headed Households	19715
 Youth Neet Head Interval Child Labor	15244
 Zambia Police Service Headquarters	12467
 Zambia Police Service Headquarters Forensic	13532

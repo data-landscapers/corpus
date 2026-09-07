@@ -158,9 +158,10 @@ Parceiro	10777,696,65
 Parceiros	9434,1332,11,1371,3814,2821
 Parceiros Locais da Educação	18781
 Parceiros Técnicos	11526,31,3978,3259
-Parcel	12211,2310,952,1538,32,1550
+Parcel	12211,2310,952,1538,32,1550,1061
 Parcel Identification Number	14713,9
 Parcel Post	11129
+Parcel Traffic	19728
 Parcel and Packet	12395
 Parcel and Packet Volumes	12395
 Parcel and Packet Volumes ANNUAL INFORMATION	12395
@@ -175,6 +176,7 @@ Parcelles-oir	13375
 Parcels	10937,1458,4648,2481
 Parcels Domestic	6671
 Parcels and Packages	9781
+Parcels of Land Acquired	19746
 Parcentage	12413
 Parceria	2816,6444,2128,138,43,3966,646,48,2565,50
 Parceria Estratégica	11564,7260
@@ -213,3 +215,4 @@ T-1 Parc	15706
 TOUR PARC NATIONAL Tour	17006
 Tempo Parcial	18775
 Transformação Parceria OMS	16484
+United Parcel Service	19654

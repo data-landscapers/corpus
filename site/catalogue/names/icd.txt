@@ -5,6 +5,7 @@ Gestion GPS HEA ICDE Système Mondial	17978
 HESLB Health Basket Fund ICDs Human	19585
 HMIS Health Management Information System ICD	18478
 Health Management Information System ICD	12338
+Health Worker ICD International Classification of Diseases	19667
 ICD-10	10780,1358,200,75,1265,1378,406,1058,548,2216
 ICD-10 COD Central CRD	12138
 ICD-10 ICD-10 ICD-10 N	12138
@@ -22,6 +23,9 @@ ICDF Training	12972
 ICDL Africa	14897
 ICDL Arabia	15719
 ICDL ICT ID ID4D IFR IBRD	15553
+ICDL Reasons for Variation	19641
+ICDL Training Jun	19794
+ICDL-authorized	19807
 ICDL23	15513
 ICDL65	15553
 ICDMS	5599,5589,5928
@@ -30,6 +34,7 @@ Lack of ICD	14923
 MCCD Medical Certification of Cause of Death ICD-10	19544
 Model ICDMS Integrated and Collaborative Data Management	17116
 Proceedings of ICDSM	19555
+System ICT Information and Communication Technology ICD	19644
 Taiwan ICDF	12972
 Tax ICDL International Computer Driving CMM	14897
 Teachers ICDL Foundation	14897

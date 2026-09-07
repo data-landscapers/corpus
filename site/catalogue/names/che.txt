@@ -89,12 +89,14 @@ Basic Privacy Checklist	11956
 Basis Switching Checker	7409
 Bastien Chevillé	16133
 Belloum Farouk Tadjer Nadia Chenouf Alkama	15432
+Beverage Factories Points of Sale Chemical	19712
 Bid Checklist	14778
 Birama COULIBALY Chevalier	7843,394,1050,55,8607,42,56
 Birhan Nega Cheru	12298
 Board Lourino Chemane	12101
 Boiler Failure and Water Chemistry	1154
 Boletim Oficial. Chefia	15526
+Boulevard Cheikh Osman	19850
 Bouni Cheurfa Belkhir Station	15690
 Bretton Woods. Le Chef	16175
 British High Commissioner Chesney	6576
@@ -214,6 +216,7 @@ CHELSEA DENTAL CLINIC LIMITED Data Controller	7167
 CHELYMO MEDICAL CENTER LIMITED Data Processor	7167
 CHEMASE MEDICAL CENTER LIMITED Data Controller	7167
 CHEMI	7167
+CHEMICAL AND CONSUMER PRODUCTS	19730
 CHEMICAL TECHNOLOGY	16900
 CHEMICAL TECHNOLOGY LABORATORY	14736
 CHEMICAL UNIT	14736
@@ -252,7 +255,7 @@ CHEVAUX	13300
 CHEVIS COMPANY LIMITED Data Controller INST-372460A982C	7167
 CHEVRON	15542
 CHEVRON AFRICA LIMITED Data Controller INST-761003FD34F	7167
-CHEWs	4217,84
+CHEWs	4217,84,15473
 CHEXIM	474,386
 CHEXIM. Extends	478
 CHEZARENA LIMITED Data Controller INST-18032866F71 NAIROBI	7167
@@ -307,7 +310,7 @@ Chebukutumi Health Centre Data Processor INST-59727688A67	7167
 Chebweek Dispensary Data Processor INST-894577CCA22 BUNGOMA	7167
 Chebwek Vocational Training Centre Data Controller	7167
 Chebwek Vocational Training Centre Data Processor	7167
-Check	1988,1669,160,737,795,269,814,88,28,81,309,260,145,305,1475,1584,14,102,114,65,15,860,45,445,558,99,1398,28,61,242,28,561,1757,37,13,8,85,1247,556
+Check	1988,1669,160,737,795,269,814,88,28,81,309,260,145,305,1475,1584,14,102,114,65,15,860,45,445,558,99,1398,28,61,242,28,561,1757,37,13,8,85,1247,556,726,30
 Check Against Delivery	1735
 Check Codification and MICR Standards	17235
 Check Codification and Magnetic Ink Character Recognition	17235
@@ -352,7 +355,7 @@ Checklist Format	15080
 Checklist Infrastructure Checklist	7548
 Checklist of Compulsory Returnable Schedules and Documents	11240
 Checklist of Requirements	6946
-Checklists	10975,181
+Checklists	10975,181,8645
 Checkpoint	3583,9392
 Checkpoint Verdict The GSMA Mobile	6714
 Checkpoints	15492
@@ -436,7 +439,7 @@ Chef de Mission	8228,10082
 Chef de Mission Topogra	18324
 Chef de Mission. Il	18310
 Chef de Ménage	737,17467
-Chef de Projet	16646,1749
+Chef de Projet	16646,1749,1292
 Chef de Projet Africa-BB-Maps	13482
 Chef de Projet E-TAX Eudes Christel Boussa	7011
 Chef de Projet SOC	18395
@@ -461,7 +464,7 @@ Chef de Section Inspecteurs du Trésor	17899
 Chef de Section Professeur	17827
 Chef de Section SECTION DES FINANCES	17899
 Chef de Section Travail	17982
-Chef de Service	13468,1059,839,5,282,348,98,282
+Chef de Service	13468,1059,839,5,282,348,98,282,3306
 Chef de Service Accueil	15631
 Chef de Service Appui	16175
 Chef de Service Assistance	16175
@@ -472,6 +475,7 @@ Chef de Service Coopération	16175
 Chef de Service Courrier	16175
 Chef de Service Etudes	16175
 Chef de Service Gestion des Carrières	16175
+Chef de Service IT. OBR	19687
 Chef de Service Information des Provinces	16099
 Chef de Service Ingénieur des Industries	17812
 Chef de Service Normes	16175
@@ -495,6 +499,7 @@ Chef de Service. Article	15416
 Chef de Village	15414
 Chef des Forces de Police Nationale	16143
 Chef du B.C.N. de Bissau	16633
+Chef du BESD. MINCOTIM	19687
 Chef du Bureau	17848,161,134,27,154,13
 Chef du Bureau National INTERPOL	17848
 Chef du Bureau Régional	17848
@@ -749,7 +754,7 @@ Chemba DC Recognized Loans Receivables	19585
 Chemba DC TAUSI Revenue	19585
 Chembo Sumbwe	6484
 Chemchem	19592
-Chemical	1988,787,1112,8502,996,587,846,209,1873,96,2606
+Chemical	1988,787,1112,8502,996,587,846,209,1873,96,2606,147
 Chemical Engineering	14147
 Chemical Engineering Department	17648
 Chemical Entity	18541
@@ -766,10 +771,13 @@ Chemical Technology Laboratory	14736
 Chemical Technology Potable	14736
 Chemical Technology The Bureau	14736
 Chemical Unit	14736
+Chemical and Consumer Products	19712
 Chemical and Hazardous Materials	1988
-Chemicals	6683,6702,1433,2082
+Chemicals	6683,6702,1433,2082,2812
 Chemicals Observatory	14622
 Chemicals Overreliance	14818
+Chemicals and Consumer Products	19712
+Chemicals and Consumers	19712
 Chemicals and Health	13705
 Chemichemi	7167
 Chemin	5478,589,9475
@@ -781,8 +789,11 @@ Cheminement	18316
 Chemins	17853
 Chemise	17859
 Chemist Laboratory and Export Consignment Permit	19584
-Chemistry	7759,4648,671,894,3465,1024,145,23
+Chemistry	7759,4648,671,894,3465,1024,145,23,1083,18,19
 Chemistry RSB	15027
+Chemistry and Engineering Materials	19712
+Chemistry and Materials	19712
+Chemistry and Microbiology	19712
 Chemka	19592
 Chemonics International	15473
 Chemonics. Literacy Std	12175
@@ -838,11 +849,13 @@ Cheptel. RGP	18100
 Chepurai Lomor	3005
 Chepyuk Health Centre Data Controller INST-14227872BCF	7167
 Chepyuk Health Centre Data Processor INST-14227872BCF	7167
-Cheque	8412,2343,631,614,1532,1196,295,2339,1100,299,37,55,656
+Cheque	8412,2343,631,614,1532,1196,295,2339,1100,299,37,55,656,207
 Cheque Clearing	11955
 Cheque Clearing The Cheque Clearing	11955
 Cheque Clearing Transactions	11955
 Cheque Fraud	17362
+Cheque Imaging and Truncation System	19664
+Cheque Imaging and Truncation System CPO	19664
 Cheque System	13532
 Cheque Truncation Project	12286
 Cheque of Rs	14835
@@ -939,7 +952,7 @@ China Chengxin International Credit Rating Co	7785,4024
 Christopher Chepken	8764
 Chrystold Chetty	18950
 Circulaire du Chef du Gouvernement	17461
-Civic Checks	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
+Civic Checks	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
 Claims Check Code	16218
 Classe O Chefe da RF	11435
 Classe O Chefe da Repartição Fiscal	11435
@@ -957,7 +970,8 @@ Comité des Chefs	16633
 Commandant LOUVEI Domdema CHEVALIER ARMEE	19251
 Commissioner of Tax Gayathri Chetty	7163
 Compliance Check	17367
-Compliance Checklist	2668,11856
+Compliance Checklist	2668,11856,5277
+Compliance Checklist and CAP Register	19801
 Compliance Checks	7055
 Computational Chemistry	9475
 Comércio. O Chefe de Estado	5053
@@ -1027,6 +1041,7 @@ Docteur Cheikh Sadibou SENGHOR	18412
 Docteur Cheikh Tacko DIOP	18412
 Docteur Haoua DEMBELE Chef de Département Ministère	17841
 Docteur Youma SALL Chef Unité Programmation	17841
+Document Checker	19636
 Documentation Chef	16099
 Dolisie Chef	16012
 Dolisie Cheffe	16012
@@ -1049,6 +1064,7 @@ Département du Chef	17469
 Développement Le Chef	13405
 EDITO Chers	15797
 EME SESSION COLLEGE DES CHEFS D’ETAT	18032
+EMRS Rollout Checklist	19667
 EN CHEF ADJOINT A L’INSPECTION DES	17841
 EPIDEMIOLOGICAL COVERAGE OF PREVENTIVE CHEMOTHERAPY	19544
 EPS Application Checklist	12542
@@ -1101,6 +1117,7 @@ FEU ET EXPERTISE BALISTIQUE Chef de Section	17899
 FORMATION Chef de Division Commissaires	17899
 Fabrice Millet Chef	15478
 Fact Checking	13050,3042
+Faith Chepkemoi	19738
 Farouk Tadjer Nadia Chenouf Alkama Derradji	15432
 Fatiha Chehbeur	16085
 Fatma Cherifi	15467
@@ -1131,6 +1148,7 @@ Geographical Coverage of Preventive Chemotherapy	19544
 Gerald HATLER DUE Chef	16620
 Gestão da Chefi	15404
 Ghana. Selon Dr Cheick Oumar Traoré	17935
+Google Checkout	19702
 Google Cheslyn Jacobs GOTyme Bank PayInc	5544
 Gosec Security Checker	11922
 Gov.cv. O Chefe	5154
@@ -1168,7 +1186,7 @@ ICR Ousmane Diagana Cheick Fantamady	15601
 ICT Authority Chairperson Tassarajen Pillay Chedumbrum	9949
 IGO. Chen	19555
 INFORMATION AND DOCUMENTATION CHECKLIST	14880
-INFRASTRUCTURE Civic Checks	10835,3,130,902,16,466,1,135
+INFRASTRUCTURE Civic Checks	10835,3,130,902,16,466,1,135,7334
 INSAE. Le Chef du Service	15479
 INTIC Chairman Lourino Chemane	4180
 INTIC President Lourino Chemane	4270
@@ -1187,7 +1205,7 @@ Informatique SECTION ETUDES ET DEVELOPPEMENT Chef	17899
 Informatique SECTION SECURITE ET REGLEMENTATION Chef	17899
 Ingénieur Chef de Section Professeur	17827
 Ingénieurs Sous-directeur Chef de Division	17899
-Institutional Checks	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
+Institutional Checks	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
 Institutionnelles Chef	17827
 Integrated Border Checkpoint	12389
 Internal Control Checklist	12500
@@ -1226,6 +1244,7 @@ L. Chenetal	8606
 LA COOPERATION TECHNIQUE Chef de Division Commissaires	17899
 LE PREMIER MINISTRE Amadou CHEIFFOU Pour	18094
 LE PRÉSIDENT DE LA RÉPUBLIQUE' CHEF	15489
+LG Compliance Checklist	19801
 LIEN DE PARENTÉ AVEC CHEF	13300
 LIGIBILITÉ LIGNE ET VISITEURS LE CHEF	13300
 LUTTE CONTRE LA VIE CHERE Engagement	15712
@@ -1302,6 +1321,8 @@ MARECHAL DE LOGIS CHEF SERGENT	15524
 MASSIMINA Benecia UGP Chef Comptable	16012
 MATIERE DE CYBERCRIMINALITE ET CYBERSECURITE Chef	17899
 MAYAMBA Ndandou CEFA Dolisie Chef de Centre	16012
+MDA Compliance Checklist	19801
+MDA Compliance Checklist. Tracked	19801
 MEDICAL COUNCIL ACT DANGEROUS CHEMICALS CONTROL	14773
 METTELSAT Rachid Cheiffou	15914
 MGH Chemotherapy Unit	12976
@@ -1478,6 +1499,7 @@ National Reality Check Platform	4528,2265,6856
 National Reality Check Platform and Information	6793,6856
 National and Inclusive Political Dialogue. Chemane	10139
 Ndiaye Cheick Fantamady Kante Regional Vice	15731
+Nejma Cheikh	19645
 Net Tax Cheats	14932
 Network Operations Chen Li	12474
 Nezali Cherif Bien	15690
@@ -1540,6 +1562,7 @@ Phase Out of Cheques	13532
 Philip Chen	9128
 Physical Condition Check Inspect	13185
 Pilot No-Go Checklist Overall	11156
+Plan-Do Check-Act	19801
 Plateaux NOMBRE DE CHEF LIEU	19350
 Police Chef	14425
 Police Comptroller General Cheick Keita	3823

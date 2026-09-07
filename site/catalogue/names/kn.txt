@@ -104,6 +104,7 @@ Digital Knowledge Hub Department	10764,80,4627,2652
 Digital Knowledge Hub Department Partnerships for Digital	11563,6180
 Digital Skills and Knowledge Development OUTPUT INDICATOR	11863
 Digital Transformation and Knowledge Economy	1563
+Digitally Empowered Society and Knowledge Economy	19638,4
 Director General KNMI	18787
 Director of KNN	14984
 Disaster Risk Knowledge	16137
@@ -167,6 +168,7 @@ Global Knowledge	2093,5929
 Global Knowledge Index	15604
 Globally Competitive Knowledge	770
 GmbH GKI Global Knowledge Index GoE	15604
+Governance Framework Shared Knowledge Base Shared	19638
 Government Knowledgebase	14965
 Government of Gabon Knowledge	15411
 Gross Domestic Product Know-Your-Customer Mobile	11130
@@ -195,6 +197,7 @@ In-kind Knowledge Transfer	12399
 Indigenous Knowledge	5858,7068
 Indigenous Knowledge Systems	1554,5944,1370
 Indigenous Knowledge Systems. Prof Moalosi	12599
+Infinix Known	19728
 Information And Knowledge Management	14818
 Information and Knowledge	10323
 Innovation and Knowledge Development Branch	18949
@@ -262,7 +265,7 @@ KNPHl	4153
 KNQA Training	7548
 KNSCC	18575
 KNTC. The AFA and KNTC	10313
-KNUST	4126,1101,719,401,3073,10,131,73,907,6719
+KNUST	4126,1101,719,401,3073,10,131,73,907,6719,2556
 KNUST E-Learning Centre	8748
 KNUST Management	10541
 KNUST Responsible AI Lab	5935
@@ -316,13 +319,14 @@ Know Your Business	5369,2150,82
 Know Your Client	12449
 Know Your Client LGAs Local Government	7763
 Know Your Consumer	14880
-Know Your Customer	1880,36,639,23,227,36,269,7,284,28,79,139,464,737,7,179,335,170,226,232,100,80,10,45,513,476,298,82,162,171,159,943,320,59,350,85,6,151,22,101,450,2,132,90,18,17,144,981,12,62,106,83,14,7,26,17,6,20,6,109,17,214,21,6,288,8,22,72,15,437,9,397,536,29,316,15,613,46,25,383,1475,161,595,359,211,68,271
+Know Your Customer	1880,36,639,23,227,36,269,7,284,28,79,139,464,737,7,179,335,170,226,232,100,80,10,45,513,476,298,82,162,171,159,943,320,59,350,85,6,151,22,101,450,2,132,90,18,17,144,981,12,62,106,83,14,7,26,17,6,20,6,109,17,214,21,6,288,8,22,72,15,437,9,397,536,29,316,15,613,46,25,383,1475,161,595,359,211,68,271,623
 Know Your Customer Facility	18471
 Know Your Customer FinTech Financial Technologies	18454
 Know Your Customer Lesotho Wire Local	12701
 Know Your Customer LoA Level of Assurance	12663
 Know Your Customer MDA Ministry Department	14965
 Know Your Customer MERCHANT	11861
+Know Your Customer MFED	19664
 Know Your Customer Mobile Money Know	14674
 Know Your Customer Policy	13532
 Know Your Customer System	12375
@@ -352,15 +356,16 @@ KnowBe4 Africa	14376
 KnowBe4. The KnowBe4 Africa Human Risk	3253
 KnowYour-Customer	12453
 Knowhow3000	13991
-Knowing	1000,8386,2296,822,171,857,1941,1570,1250
+Knowing	1000,8386,2296,822,171,857,1941,1570,1250,1416
 Knowing Yourself and Building Your Career Plan	16198
 Knowing the Family	14835
 Knowingly	3383,13450,1853
 Knowinglyprovides	16833
 Knowinglyreceive	16833
 Knowl Syst	17773
-Knowledge	21,397,153,328,41,874,125,157,1582,371,399,229,1003,178,974,116,600,183,28,187,75,1,161,778,168,69,448,432,636,255,11,150,1,23,2,264,58,377,29,1,10,46,11,12,194,1,1,44,1,36,5,105,4,41,4,45,42,13,174,80,218,105,3,15,90,806,194,743,69,83,50,117,598,467,363,85,92,99,148,58,248,356,275,405,35,148,462,159,276,50,4
+Knowledge	21,397,153,328,41,874,125,157,1582,371,399,229,1003,178,974,116,600,183,28,187,75,1,161,778,168,69,448,432,636,255,11,150,1,23,2,264,58,377,29,1,10,46,11,12,194,1,1,44,1,36,5,105,4,41,4,45,42,13,174,80,218,105,3,15,90,806,194,743,69,83,50,117,598,467,363,85,92,99,148,58,248,356,275,405,35,148,462,159,276,50,4,82,98,39
 Knowledge Ability	11131
+Knowledge Academy	19847
 Knowledge Acquisition	899
 Knowledge Application Knowledge Society Skills Pedagogy	899
 Knowledge Base	14091
@@ -369,7 +374,7 @@ Knowledge Based Society	12359
 Knowledge Brief. Online Violence Against Young	17870
 Knowledge Café Publisher	12196
 Knowledge Consulting Limited	11552
-Knowledge Consulting Ltd	15164
+Knowledge Consulting Ltd	15164,4475
 Knowledge Consulting Ltd KENET Kenya Education	15164
 Knowledge Creation	899
 Knowledge Deepening	899
@@ -388,7 +393,7 @@ Knowledge Financial Skill	14997
 Knowledge Generation	18625
 Knowledge Graphs	17116
 Knowledge Graphs and NoSQL	17116
-Knowledge Hub	396,6324,6360,1664,253
+Knowledge Hub	396,6324,6360,1664,253,4660
 Knowledge Hub Digital	630
 Knowledge IRR Internal Return Rate ISR	18754
 Knowledge Integration for Tuberculosis Therapeutics	9969
@@ -410,6 +415,7 @@ Knowledge Partner E&Y Country Managing Partner	13029
 Knowledge Platform	12333,6231
 Knowledge Politics and Imagining the Future of AI	4253
 Knowledge Products and Services	14511
+Knowledge Repositories Only	19657
 Knowledge Representation and Reasoning	11336
 Knowledge Resources	13557
 Knowledge Rwanda	14997
@@ -436,6 +442,7 @@ Knowledge and ICT Innovation	15845
 Knowledge and ICT Innovation Average Score	15845
 Knowledge and ICT Innovation Indicator	15845
 Knowledge and ICT Innovation X MINTER Police	15845
+Knowledge and Innovation	19657
 Knowledge and Innovation Exchange	15960
 Knowledge and Institutions Top	12205,146
 Knowledge and Ministry of National	15661
@@ -462,7 +469,7 @@ Knowledge-sharing	8021,7497
 Knowledge7	5712
 Knowledgeable Research	8022
 Knowles-Coursin	14896
-Known	4119,2446,851,2828,477,336,1320,127,239,1931,737,572,422,1306,239,420
+Known	4119,2446,851,2828,477,336,1320,127,239,1931,737,572,422,1306,239,420,1385
 Known MFL	13471
 Knox Magambuza	3274
 Knudsen	16909
@@ -503,7 +510,7 @@ Open Knowledge Foundation	11521
 Open Knowledge Foundation Indice	16641
 Open Knowledge Ghana	10557
 Open Knowledge Portal	9759
-Open Knowledge Repository	9025,2111
+Open Knowledge Repository	9025,2111,8521
 Open Knowledge World Bank	10819
 Organization Also Known As Long Name	16948
 Original Research Knowledge	8021
@@ -561,6 +568,9 @@ South Africa Indigenous Knowledge System	5246
 South African Journal of Higher Knowledge Conference	9128
 South Africans. Known	7253
 South Sudan Knowledge Series	18628
+Specification Shared Knowledge Base	19638
+Standards and Knowledge Guidelines	19667
+Standards and Knowledge Products Guidelines	19667
 States of Knowledge	8380
 Statistics KNEC Kenya National Examinations Council	2775
 Stringent Know-Your Customer Policies	940

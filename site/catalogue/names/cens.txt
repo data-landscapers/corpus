@@ -1,6 +1,7 @@
 ANÁLISE DOS PRINCIPAIS RESULTADOS DO CENSO	10766
 ASC Annual School Census	14916
 ASCR Annual School Census Report ADEA	13310
+About the Baseline Education Census The Baseline	19787
 Acronyms ASC Annual School Census B.Ed	18460
 Age of Household Head Censored	15244
 Agricultural Census	12551,1255,1667,3002,232
@@ -14,7 +15,7 @@ Annual Censuses	13310
 Annual Education Census	12345,605,66,5601
 Annual Education Census Report	12956
 Annual Population Growth Rate Between Census	16921
-Annual School Census	10359,1501,201,114,1135,3599,26,298,986,228,13,97,7
+Annual School Census	10359,1501,201,114,1135,3599,26,298,986,228,13,97,7,1071,141,14
 Annual School Census Final Report Government	18460
 Annual School Census Final Report URL	18460
 Annual School Census Questionnaire ASC Questionnaire	18536
@@ -22,15 +23,19 @@ Annual School Census Questionnaire Administrative Data	13310
 Annual School Census Report	18536
 Annual School Census Report Annual School	18536
 Annual School Census. Following	18460
+Annual Schools Census	19635
+Authority NPHC National Population and Housing Census	19715
 Awareness CIPA Census of Establishment COE Consumer	19519
 BSC and Census	16863
 Background A Population and Housing Census	16921
 Bank Group ASC Annual School Census	13310
+Baseline Education Census	19743,44
 Biometric Census	14590
 Biometric Electoral Census Designed	11939
 Body CENSUS	14981
 Body Census and Statistics Act	13317
 Body Population and Housing Census The Population	14005
+Botswana Population and Housing Census	19677
 Bureau of Statistics and Census	16863,39
 Bureau of Statistics and Census Administration Meeting	16863
 Bureau of Statistics and Census Board of Directors Chairman	16863
@@ -96,25 +101,27 @@ Censored Headcount Ratio	15244
 Censored Headcount Ratios	15244
 Censored Headcount Ratios for Households	15244
 Censores de Cuentas	4209
-Censorship	6562,11235
+Censorship	6562,11235,1858
 Censorship and Entertainments Control Act	6951
 Censos	2816,8605,25,131,5321
 Censu	19519
 Censu Increase Statistical	19519
-Census	958,8,10,968,2100,1489,1119,716,2193,1187,17,10,354,63,45,59,660,30,68,97,232,20,10,230,12,94,214,40,30,262,10,5,7,42,153,816,266,181,87,88,31,16,59,29,388,287,272,156,332,332,11,4,7,18,29,29,93,71,1329,21,62,425,38,29,501,12,11
+Census	958,8,10,968,2100,1489,1119,716,2193,1187,17,10,354,63,45,59,660,30,68,97,232,20,10,230,12,94,214,40,30,262,10,5,7,42,153,816,266,181,87,88,31,16,59,29,388,287,272,156,332,332,11,4,7,18,29,29,93,71,1329,21,62,425,38,29,501,12,11,84,51,38
 Census Act	12551,6392,8
 Census Cartographer	16921
 Census Christian Muslims African	16921
 Census Commissars Hon. Anne Semamba Makinda	19542
 Census Commission	16921
+Census Commissioner	19715
 Census Commissioner for Mainland Tanzania	19542
 Census Commissioner for Tanzania Zanzibar	19542
-Census Committees	12963,6579
+Census Committees	12963,6579,173
 Census Coordinator Seif Kuchengo	19542
 Census Coordinator for Tanzania Zanzibar	19542
 Census Coordinators	19542
 Census County Coordinators and Directors	16921
 Census Data	19519
+Census Data Device Penetration and Its Linkage	19728
 Census Data Processing and Data Quality Assurance	16921
 Census Design and Approach The Business Establishment	15085
 Census Design and Approach6	15085
@@ -130,15 +137,17 @@ Census Execution and Innovation Deployment	17116
 Census FINAL RESULTS	16921
 Census Final	12383
 Census Finance Officer	16921
+Census Implementation	19715
 Census Information	16921
 Census Information All	16921
 Census Inventory of Economic Bureau	16863
 Census Law	16921
 Census Main Report	12963
-Census Management Team	16921
+Census Management Team	16921,2794
 Census Manager	16921
 Census Manager Phone	16921
-Census Mapping	16921
+Census Mapping	16921,2794
+Census Mapping Census	19715
 Census Mapping Digital Maps	16921
 Census National Consultant	16921
 Census Night	12963,3958,29,164,1350
@@ -156,7 +165,7 @@ Census Procurement Director	16921
 Census Project Assistant Coordinator Phone	16921
 Census Project Timeline Somalia Population and Housing	14981
 Census Questions	19542
-Census Reference Night	12963
+Census Reference Night	12963,6752
 Census Report	18536
 Census Results	15085
 Census Results4	15085
@@ -173,10 +182,13 @@ Census Technical Advisors	16921
 Census Technical Committee	16921,1543
 Census Technical Committee. The Census Technical	16921
 Census Technical Specialist du RGPHAE	14244
+Census The National Population and Housing Census	19715
 Census Train	17157
 Census Training Monitors	18464
-Census Year	19542
-Census Years	16921
+Census Year	19542,173
+Census Year Average Annual Growth Rate	19715
+Census Years	16921,2794
+Census Years Average	19715
 Census and Chapter	19542
 Census and DNRN	10765,10
 Census and PES	12383
@@ -185,11 +197,12 @@ Census and Population Studies CAPI	15574
 Census and Statistics	13343
 Census and Statistics Act	9252,4053,5,7,42,27,60
 Census and Statistics Amendment Act	13317
-Census and Survey Processing System	10777,4934,1210,1522
+Census and Survey Processing System	10777,4934,1210,1522,1272
 Census for Population Statistics	16863
 Census of Affected Persons and Assets	17114
 Census of Agriculture	14818
 Census of Business Establishment	18475
+Census of Business Establishments	19744
 Census of Economic Activities	14777,4241,85
 Census of Egypt	15473
 Census of Industrial Production	19519,38
@@ -199,13 +212,15 @@ Census of Population	10826
 Census of Population and Housing	1867,10542,22,936
 Census-year	13367
 Census. As Namibia	12399
+Census. Census Mapping	19715
 Census. Informal	19542
 Census. Tablets	16921
 Census. The Census	16921
 Census. The Monograph	19542
-Censuses	11192,1855,3786,88,1554,1044,23
+Censuses	11192,1855,3786,88,1554,1044,23,173
 Censuses Adult	19542
-Censuses and Surveys	12962
+Censuses Uganda	19715
+Censuses and Surveys	12962,6781
 Central Bureau of Censuses and Populations Studies	16547
 Central Census Office	9408
 Centre RPHC Rwanda Population and Housing Census	12413,2643
@@ -213,6 +228,7 @@ Century Program for Results Population and Housing Census	19519
 Chief Census Officer	16921,1543
 Chief Technical Advisor DCICs District Census	16921
 Childbearing LPHC Liberia Population and Housing Census	16950
+City Census Commissioner Representatives and M&E	19715
 Civil Registration System and NBS National Census	19541
 Civil Status Administrative Malawi Census	10714
 Conduct Agricultural Census MoA	17116
@@ -238,6 +254,8 @@ Director General of LISGIS. The Chief Census	16921
 Director of Population Census and Demographic Statistics	19542
 Director of U.S Census Bureau	12383
 Disabilities RCICs Regional Census Implementation Committees	16921
+Dissemination of Census Results	19715
+Dissemination of Census Results The NPHC	19715
 Dissidence and Social Media Censorship	2518
 District Census Coordinators	18464
 Documentation of Surveys and Censuses of Cabo Verde	16189
@@ -249,6 +267,7 @@ EMIS-2022-Annual Education Census	12345
 EMIS-2023-Annual Education Census	12345
 ESTABLISHMENT CENSUS GENDER	6911
 Economic Census	12445,60,542,2840,2890
+Education Census	19787
 Egypt Census	15473
 El Censo Electoral	16903
 El IV Censo General de Población	16969
@@ -324,6 +343,7 @@ Kenya Population and Housing Census	7548,4603,80
 Kenya Population and Housing Census KVSR Kenya	12151
 Kenya Population and Housing Census Results	10822
 KwaZulu-Natal and Free State. Census	11192
+LGs. The Census Commissioner	19715
 Lesotho Housing and Population Census	12719,30
 Lesotho Population and Housing Census	12749
 Liberia Agriculture Census	17043,323
@@ -363,6 +383,7 @@ Mode of Training of Census	18464
 Moçambique Censo de Instituições Sem Fins Lucrativos	9441
 Multidimensional Poverty Index CSPro Census and Survey	15244
 NATIONAL EDUCATION CENSUS REPORT	18617
+NATIONAL POPULATION AND HOUSING CENSUS	19715
 NBS Census	19541
 NBS National Census	19541
 NIGERIA’S FIRST BIOMETRIC CENSUS	2535
@@ -376,7 +397,7 @@ Namibia Population and Housing Census PUMS	9485
 Namibia Population and Housing Census Release	12383
 Namibian Census	1944,78
 National Agricultural Sample Census	19519
-National Census	11133,1266,1197,3271,464
+National Census	11133,1266,1197,3271,464,2358
 National Census Advisory Committee	18435,1107
 National Census Bureaus Components Weighting Composite	17157
 National Census Commission	13948
@@ -384,6 +405,8 @@ National Census Consultant	16921
 National Census Coordinator	16921,2621
 National Census Coordinator Phone	16921
 National Census Coordinator and Senior Officers	18460
+National Census Council	19715
+National Census Council and District	19715
 National Census Technical Committee	19542
 National Census Technical Team	19542
 National Census of Households and Population	10812
@@ -392,8 +415,9 @@ National Central Census Committee	19542
 National Education Census Report Summary	3583
 National General Census	14862
 National General Census Article	14862
+National Livestock Census	19744
 National Population Commission for Census	11129
-National Population and Housing Census	8795,4238,3902,181
+National Population and Housing Census	8795,4238,3902,181,2599,28,15,52
 National Population and Housing Census Provisional Results	17011
 National Population and Housing Census. Investments	17116
 National Population and Housing Censuses	16867
@@ -401,11 +425,13 @@ National School Census To Strengthen Education	17233
 National Statistical System Bureau of Statistics and Census	16863
 National Steering Committee Implementation Census	16863
 National System and Census	16863
+Number of Censuses and Surveys Reports	19743
 O Censo	4040,4,7372,5,25,131
 O Censo Geral da População	5427
 Order Census The Cabinet Secretary	14410
 Os Censos	11446,131
 Overview Censuses	11192
+P In Census	19715
 P0301.4 Census	11192
 PART VI-- POPULATION AND HOUSING CENSUSES	14594
 POPULATION AND HOUSING CENSUS	16921
@@ -414,17 +440,18 @@ POPULATION AND HOUSING CENSUS Figure	16921
 POPULATION AND HOUSING CENSUS Power	14594
 POPULATION AND HOUSING CENSUS The Census	16921
 Phase Census	16863
-Pilot Census	18464,62
+Pilot Census	18464,62,1189
+Pilot Census The Pilot Census	19715
 Pop Census	19237
 Popeudlation and Housing Census	19526
-Population Census	10748,122,1037,1460,1465,772,3001,2,210,702
+Population Census	10748,122,1037,1460,1465,772,3001,2,210,702,196
 Population Census Commission	13948
 Population Census Preliminary Report	11905
 Population Census Team	12413
-Population Censuses	19542
+Population Censuses	19542,173
 Population Censuses Population and Housing Censuses	19542
 Population Change Between the Various Census Years	16921
-Population and Housing Census	940,36,827,1121,4444,637,243,6,159,1027,1693,1225,41,12,69,71,49,55,307,1,70,14,312,646,405,184,309,907,1111,29,1493,21,11,8,5,38,463,110,420,22,1,2,41,17,11
+Population and Housing Census	940,36,827,1121,4444,637,243,6,159,1027,1693,1225,41,12,69,71,49,55,307,1,70,14,312,646,405,184,309,907,1111,29,1493,21,11,8,5,38,463,110,420,22,1,2,41,17,11,41,23,110
 Population and Housing Census Affar	14005
 Population and Housing Census Country Level	14005
 Population and Housing Census Dire Dawa	14005
@@ -446,7 +473,7 @@ Population and Housing Census. Buildings	19542
 Population and Housing Census. Kailima	19548
 Population and Housing Census. Population	12413
 Population and Housing Census. Thematic	12413
-Population and Housing Censuses	17116,2426
+Population and Housing Censuses	17116,2426,173
 Population and Housing Mid- Term Census	18531
 Populationand Housing Census Results	16833
 População Censo População IC Incluído Omitido	11421
@@ -474,6 +501,7 @@ Rwanda Population and Housing Census	12413,1005,1638
 Rwanda Population and Housing Census. SDGs	12403
 SCHOOL CENSUS METHODOLOGY Education	12411
 STATISTICAL RELEASE P0301.4 Census	11192
+SUSTAINABLE DEVELOPMENT GOALS Indicator CENSUS	19715
 School Census	12411
 Schools Census	18461
 Second General Census of Agriculture	13806
@@ -495,6 +523,8 @@ Somali Business Establishment Census	15085
 Somali Population and Housing Census	14981
 Somali Population and Housing Census Somalia	14981
 South Africa for Census	11192
+Special Area Census Committees	19715
+Special Area Census Officer	19715
 Special Education Census Results	16436
 States The Censored Headcount Rations	15244
 Statistical Census	19249
@@ -525,6 +555,9 @@ Telephone Interview DCC District Census Coordinator	11192
 Third General Enterprise Census	10870
 U.S. Census Bureau	16921
 US Census Bureau Data and EU Data	5863
+Uganda Bureau of Statistics Census	19728
+Uganda Census of Agriculture	19744
+Ugandans Uses of National Population and Housing Censuses	19715
 Um Censo	11421,25,131
 Unemployment Survey and Census Conduct the Hotels Bureau	16863
 United States Census Bureau	19542

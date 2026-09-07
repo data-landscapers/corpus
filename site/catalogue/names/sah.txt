@@ -44,7 +44,7 @@ Collège des Chefs Sahel	18003
 Colonel Sahabi Sani	7333
 Combined Periodic Report of Sahrawi Arab Democratic	8485
 Community CEN-SAD Sahel-Saharan States Community CICAM	10841
-Community of Sahel-Saharan States	10835,2,1,74,974,2122,130
+Community of Sahel-Saharan States	10835,2,1,74,974,2122,130,5684,14
 Conclusion SAHPRA	3651
 Confederation of Sahel States	2317,809,697,102,776,158
 Confédération des Etats du Amadou KEITA Sahel	18003
@@ -143,7 +143,7 @@ Monsieur Assoumane Sahabi	18116
 Monsieur Norbert SAHGUI	17584
 Moulins du Sahel MI	16103
 Mr. Sahba Sobhani	17173
-Mr. Sahu	8352
+Mr. Sahu	8352,11432
 Mr. Soumendra Sahu	8352
 Ms. Ndumbeh Saho	17292
 Muhammed Safa Sahin	15604
@@ -253,7 +253,7 @@ Saharamedias FR	18035
 Saharamedias FR Fermer Le Menu	17917
 Saharamedias FR URL	17917
 Saharan	766,1120,721,1084,211,435,94,36,769,113,837,281,170,154,1761,1392,502,317,12,448,991,1135,3593,30,756,194
-Saharan Africa	19,73,57,64,1,22,288,65,354,18,61,125,9,1,1,1,60,29,115,191,2,170,225,15,11,2,179,83,194,104,56,107,73,170,3,236,1,251,46,5,117,178,409,276,30,17,11,196,251,64,461,36,241,28,140,131,75,55,123,19,27,1,190,41,33,42,205,253,14,78,12,19,64,215,6,3,56,15,182,35,50,133,357,248,30,372,93,9,27,51,24,55,171,118,42,19,36,38,30,49,16,67,32,66,219,89,147,350,6,1,60,20,102,32,2,19,124,15,109,44,2,91,16,52,55,35,19,7,51,84,101,42,51,2,8,62,4,16,72,12,141,3,12,32,19,39,31,2,48,10,81,120,294,26,214,12,35,54,49,2,22,13,275,57,214,484,55,9,39,110,74,230,26,75,126,86,193,22,150,85,301,26,1,46,376,27,363,11,161,40,94,22,488,135,159,469,159,165,83,747,10
+Saharan Africa	19,73,57,64,1,22,288,65,354,18,61,125,9,1,1,1,60,29,115,191,2,170,225,15,11,2,179,83,194,104,56,107,73,170,3,236,1,251,46,5,117,178,409,276,30,17,11,196,251,64,461,36,241,28,140,131,75,55,123,19,27,1,190,41,33,42,205,253,14,78,12,19,64,215,6,3,56,15,182,35,50,133,357,248,30,372,93,9,27,51,24,55,171,118,42,19,36,38,30,49,16,67,32,66,219,89,147,350,6,1,60,20,102,32,2,19,124,15,109,44,2,91,16,52,55,35,19,7,51,84,101,42,51,2,8,62,4,16,72,12,141,3,12,32,19,39,31,2,48,10,81,120,294,26,214,12,35,54,49,2,22,13,275,57,214,484,55,9,39,110,74,230,26,75,126,86,193,22,150,85,301,26,1,46,376,27,363,11,161,40,94,22,488,135,159,469,159,165,83,747,10,112,3,48,16,50,3,49
 Saharan Africa and South Asia	9653
 Saharan Africa's GDP. Yet	3691
 Saharan Africa. AI	7545
@@ -265,6 +265,7 @@ Saharan Africa. Classified	12367
 Saharan Africa. Consequently	11924
 Saharan Africa. Ctrack's IoT	620
 Saharan Africa. Côte	6884
+Saharan Africa. DHIS2	19776
 Saharan Africa. Despite	12399
 Saharan Africa. First	623
 Saharan Africa. Fund	454,366,12
@@ -283,6 +284,7 @@ Saharan Africa. The Bank	9462,6524
 Saharan Africa. The Fund	11735,2444
 Saharan Africa. The GOT	19521
 Saharan Africa. We're	12289
+Saharan Africa. Within	19654
 Saharan Africa.1	13868
 Saharan Africa.79 Women	16144
 Saharan Africa.912	10881
@@ -406,14 +408,15 @@ Seytenga Séno Sahel	15715
 Sirreh Saho	17386
 Solhan Yagha Sahel	15715
 Soum Sahel	15715
-Soumendra Sahu	5149,2239,1
+Soumendra Sahu	5149,2239,1,12395
+Soumendra Sahu. Welcoming the Airtel	19784
 Southern Sahara Africa CEO	10796
 Southern Sahara Africa CEO Keller Yun	10796
 Station Sahélienne Expérimentale de Toukounous	18227
 Sub Sahara Africa	17011
 Sub Sahara Africa. VALUES Professionalism	18444
 Sub Saharan	15411
-Sub Saharan Africa	870,493,102,349,5116,217,1279,120,1605,563,496,645,8,143,327,245,2445,424,33,11,410,1048,472
+Sub Saharan Africa	870,493,102,349,5116,217,1279,120,1605,563,496,645,8,143,327,245,2445,424,33,11,410,1048,472,2307
 Sub Saharan Africa Business	5411,2135,58,2857,146,7098
 Sub Saharan Africa European Commission	1455
 Sub Saharan Africa STEM Science	16942

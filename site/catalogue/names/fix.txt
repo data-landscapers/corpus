@@ -161,7 +161,7 @@ Fixation des Conditions de Mise	15497
 Fixação	11518,2,1333,2505,3440,55
 Fixe Taux	998
 Fixe. En	18122
-Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58,379,165,94,2,784,53,117,353,215,17,44,223,16,69,167,52,47,40,106,145,105,685,258,73,6,11,40,35,261,14,129,364,12,107,8,7,1,245,362,71,77,121,23,374,94,340
+Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58,379,165,94,2,784,53,117,353,215,17,44,223,16,69,167,52,47,40,106,145,105,685,258,73,6,11,40,35,261,14,129,364,12,107,8,7,1,245,362,71,77,121,23,374,94,340,54,12,64
 Fixed Annual	13331
 Fixed Asset	13053,2037
 Fixed Asset Management Units	9004
@@ -176,6 +176,7 @@ Fixed Base Rate	16219
 Fixed Based Rate	16219
 Fixed Broadband	2776,9619,2725,16,1747
 Fixed Broadband Complaints Reach	11642
+Fixed Broadband Fibre Optic	19728
 Fixed Broadband Market	12395
 Fixed Broadband Market Shares	12395
 Fixed Broadband Median Download Speed	18485
@@ -192,6 +193,7 @@ Fixed Broadband Subscriptions Market Share Market	12395
 Fixed Broadband Subscriptions Quarter Q3	2776
 Fixed Broadband Subscriptions The Eswatini Government	12395
 Fixed Broadband Subscriptions The Total Fixed	2776
+Fixed Broadband Technologies Fibre Optic	19728
 Fixed Broadband Traffic	2776
 Fixed Broadband Traffic Fixed Broadband Q3	2776
 Fixed Broadband Traffic The Total Fixed	2776
@@ -223,10 +225,11 @@ Fixed International Voice Traffic	15136
 Fixed Internet	6000,5211,51,4500
 Fixed Internet Broadband Broadband	12395
 Fixed Internet Data Traffic Market	6085
+Fixed Internet Growth Trends	19728
 Fixed Internet Retail Price	17862
 Fixed Internet Subscription	13346
-Fixed Internet Subscriptions	718,5953
-Fixed Internet Traffic	15136
+Fixed Internet Subscriptions	718,5953,13057
+Fixed Internet Traffic	15136,4592
 Fixed Internet Wu	9781
 Fixed Internet and Data Revenues	11211,51
 Fixed LTE	6000,11,233,5015
@@ -235,10 +238,12 @@ Fixed Line D100	17250
 Fixed Line Data Subscriptions	2776
 Fixed Line Data Subscriptions and Penetration	2776
 Fixed Line Data Subscriptions and Penetration Fixed	2776
+Fixed Line Growth Trends	19728
 Fixed Line Next-Generation Network Standard	19510
 Fixed Line Operators	18887
 Fixed Line Revenue	11211,51
 Fixed Line Subscriptions	6671
+Fixed Line Subscriptions While Uganda	19728
 Fixed Links	6946
 Fixed Links D20	17250
 Fixed Market Broadcasting Market	12395
@@ -281,7 +286,7 @@ Fixed Services	12949
 Fixed Solutions Internet	12769
 Fixed Spread	14430
 Fixed Structure	15085
-Fixed Telephone	2775,1
+Fixed Telephone	2775,1,16926
 Fixed Telephone Financial Year	12395
 Fixed Telephone Line Services	13346
 Fixed Telephone Lines	12395
@@ -384,6 +389,7 @@ Fixing The Nation	6258
 Fixing the Frictions	11149
 Fixing the Frictions. Chapter	11149
 Fixing the Rules	11960
+Fixtures	19641
 Fixtures and Fittings	14736
 Fixée	2014
 Formation Brute de Capital Fixe	9276,8669
@@ -392,6 +398,7 @@ Framework FBS Fixed Budget Selection FCFA	18887
 Frequency Assignments for Non-Protected Fixed Links	6946
 Frequency Assignments for Non-Protected Fixed Links Band	6946
 Furniture and Fixtures	16978
+G Fixed Wireless	19728
 G Fixed Wireless Access	6100,10710
 G and Mobile Fixed Mobile Fixed Indi-	17743
 G and Mobile Fixed Mobile Fixed Individ-	17743
@@ -442,6 +449,7 @@ Internet Fixe Taux	998
 Internet Fixe Variation	19338
 Internet Fixed-broad	18123
 Internet Fixo	11531
+Internet Subscriptions Fixed Internet Subscriptions Fixed	19728
 Internet and Broadband Fixed Broadband	12395
 Internet. F Fixed Wireless	16872
 Intégration FIXANT LA LISTE NOMINATIVE DES	17829
@@ -482,6 +490,7 @@ Mobile Fixe	19338
 Mobile Fixed	1013,16857
 Mobile Fixed Mobile Fixed Indi- Indi-	17743
 Mobile Fixed Mobile Fixed Individ- Individu-	17743
+Mobile Internet GBs Fixed Internet GBs	19728
 Mobile Network Operators Fixed Network Operators	12395
 Mobile and Fixed Internet	19151
 Mobile and Fixed Internet Data Traffic Fixed	19151
@@ -544,6 +553,7 @@ RECEITAS DE SERVIÇO DE INTERNET FIXO	11531
 REDE TELEFÓNICA FIXA Tabela	18791
 Rede Fixa	18791
 Rede Telefónica Fixa	18791
+Retail Mobile and Fixed Products Figure	19728
 Retail Tariffs for Mobile and Fixed Telephone Service	718
 Rural Fixed Broadband Wireless Access Systems	736
 SADC FIXED-BROADBAND AFFORDABILITY	11262

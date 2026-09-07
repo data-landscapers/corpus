@@ -38,6 +38,8 @@ CNSS Ville de Ouagadougou	10875
 COLLECTIVITES TERRITORIALES Union de Villes	15936
 COMSIP Village Savings and Loans	12978
 CONNECTIVITÉ DU VILLAGE FACHI PAR L’ANSI	18105
+Campaign Period and Polling Date for Village	19805
+Campaigns and Polling Date for Village Women Committees	19805
 Can’t They Identify Their Villages	8271
 Caria Tech Village	2854
 Carlos Manuel Vila Nova	18759,14,25
@@ -78,6 +80,8 @@ Digital Villages	15372,3515
 Digital Villages Initiative	12740
 Digital Youth Village	7068,8648
 District Council of Moka Construction of Village Hall	14746
+Djibouti Ville	19835,7
+Djibouti and Djibouti Ville	19835
 Dream Atlantic Garden Villas	18580
 Développement des Villes Intermédiaires Productives	17895
 Eau Villageoises	2476
@@ -113,7 +117,7 @@ Hôtel de Ville de Tahoua	9668
 Hôtel de Ville de Yaoundé	15761
 ICT Village	7358,1
 Indy Village Congress Hotel	12809
-Innovation Village	2676,2074,3357
+Innovation Village	2676,2074,3357,11535
 Institutions Village	19520
 Jazirat Saud Village	15578
 Jessica Corredor Villamil	12227
@@ -142,6 +146,7 @@ Le Projet du Village Intelligent	18222
 Liaison Officer Estela Vilanova Núñez Volunteer	17101
 Liapeca Village	10765,10
 Local Units Centers Villages Beneficiaries	15578
+Location Addressing System for Rural Villages	19654
 M. Joaquín Tasso Vilallonga	18033
 M. Joaquín Tasso Villalonga	18030
 M. Viboudoulou Vilpoux	1828
@@ -158,6 +163,7 @@ Meetings of Village Government Organs Meetings	19525
 Member No Juan Villa Lora Team	18809
 Millenium Village Evaluation	17882
 Mohamed Yeslem El VILALI	17918
+Money VSLA Village Savings and Loan Association	19647
 Mr. Masotja Vilakati	11131,3
 Ms B de Villiers	11289
 Ms. Silvia Villar	26,1,1
@@ -255,6 +261,7 @@ Supplementary Act. CHAPTER Vil	15363
 Sénégal Villes Intelli	18319
 T. and Viljanen	11156
 TOWN OR VILLAGE AREA LAND COMMITTEE	18465
+TWG Technical Working Group VHT Village	19644
 Talaat Dhurgham Village	15578
 Tanzania. Vilevile	19592
 Tarcísio Vilela	11429,3,47
@@ -262,6 +269,7 @@ Tech City and Victoria Falls Lifestyle Villas	7534
 Tokai Village Centre	8999
 Tour of Villages	11285
 Towns and Villages	18534
+Towns and Villages. G. Printing. Tapp	19654
 Training of Village Health Workers and Civil Registration	12761
 Transform Village Register	19519
 Transformed Village Register	19519
@@ -313,7 +321,7 @@ Villa Road	14736,111
 Villa Road Moka	14736
 Villa Somalia	14906,141
 Villacoublay	15426
-Village	2760,1370,6699,456,431,501,133,59,489,409,307,950,149,25,318,25,392,105,1096,159,34,20,251,1327,1054,1,5
+Village	2760,1370,6699,456,431,501,133,59,489,409,307,950,149,25,318,25,392,105,1096,159,34,20,251,1327,1054,1,5,280
 Village Area	18465
 Village Area Committee	18465
 Village Area Land Committee	18465
@@ -325,13 +333,17 @@ Village Business Units	13673,12
 Village Capital	6231,4514,3488,2583,1
 Village Capital and Hatch Blue	10464
 Village Capital. Trade Lenda	16817
+Village Chairperson	19805
+Village Committees of Special Interest Groups	19805
 Village Community Banks	19531
 Village Connectivity Project	6110
 Village Connectivity and E-Cabinet	1660,977,2995
-Village Council	14717,25,4783
+Village Council	14717,25,4783,280
 Village Council Elections	14742
 Village Council Karasburg East Constituency Office	13046
 Village Council Minister. AG	19525
+Village Council Register	19805
+Village Council of Older Persons	19805
 Village Councils	19525
 Village Dev Committees	16926
 Village Dev. Committee	16926
@@ -342,7 +354,9 @@ Village Digital Safety Botswana Initiative	11600
 Village Digital Safety Initiative	17585
 Village Economies	10964
 Village Elders	12138
+Village Election Official	19805
 Village Electrification Programme	12593
+Village Executive Committee	19805
 Village Executive Officer	19525
 Village Executive Officersouin	19525
 Village Executive Officersucwe	19525
@@ -352,7 +366,8 @@ Village Head	12085,131,4651
 Village Headman	12216
 Village Headmen	13005
 Village Health Services	16896
-Village Health Teams	9248,2525,5779
+Village Health Team	19774
+Village Health Teams	9248,2525,5779,2222,37
 Village Health Worker	12679
 Village Health Workers and Civil Registration Officers	12679,82
 Village Inn Hotel	13420
@@ -368,6 +383,8 @@ Village Market PO Box	4153
 Village Outskirts Fiber Optic Network Installation	15578
 Village Reach	12240
 Village Register	19519
+Village Registers	19805
+Village Residents	19805
 Village Savings and Loan Association	18104
 Village Savings and Loan Associations	10299,542,3712,406,179,1115,982,1385
 Village Savings and Loan Associations. Complementary	17096
@@ -379,6 +396,12 @@ Village Support Group	16867
 Village Telco	985
 Village URUGWIRO. The Cabinet Meeting	14869
 Village Univers L'enquête	18337
+Village Women Committees	19805
+Village Women Council	19805
+Village Women Register The Electoral Commission	19805
+Village Women's Committee	19805
+Village Women's Council Register	19805
+Village Youth Council	19805
 Village and Wards	19519
 Village de N’TOBOUGOU. LISTE DES MEMBRES	17833
 Village de Vitré	1005
@@ -419,6 +442,8 @@ Ville de Bangui	15603
 Ville de Bobo-Dioulasso	10875
 Ville de Bobo-Dioulasso TIC	10875
 Ville de Conakry	16616
+Ville de Djibouti	19842
+Ville de Djibouti. Il	19842
 Ville de Kigali	14862,1
 Ville de Kigali. Il	15102
 Ville de Kinshasa	16311

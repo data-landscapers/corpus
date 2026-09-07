@@ -2,7 +2,7 @@ ABBREVIATIONS AND ACRONYMS AIDS Acquired Immunodeficiency	19531
 AGENCE IMMOBILIERE HARMONY PLACE	15558
 AIDS Acquired Immune Deficiency Syndrome DMMU	1988
 AIDS Acquired Immune Deficiency Syndrome HMIS	18512
-AIDS Human Immunodeficiency Virus	11560
+AIDS Human Immunodeficiency Virus	11560,8086
 ANSLAM Insurance and Immigration. Ongoing	19541
 AUX PROVISIONS SUR T51 IMMOBILISATIONS Dotation	18032
 Abuko Immigration Office	12085
@@ -10,6 +10,7 @@ Abuko Immigration Station	9316
 Acquired Immune Deficiency Syndrome AMR Antimicrobial	19544
 Acquired Immune Deficiency Syndrome ARV	16951
 Acquired Immune Deficiency Syndrome CIMA Alliance	19520
+Acquired Immune Deficiency Syndrome ICSC Implementation	19646
 Acquired Immune Deficiency Syndrome SDGs	17101
 Acquired Immuno-Deficiency Syndrome AM Amplitude Modulation	2775
 Acquired Immunodeficiency Syndrome HMIS	14857
@@ -22,6 +23,7 @@ Adverse Events Following Immunization	14037,2934
 Affairs and Immigration NAFIS Namibia Automatic Fingerprint	12947
 Africa Business Immersion Event	11332
 Agricultural and Marine Media Immediate	17157
+Amends Uganda Citizenship and Immigration Control Act	19631
 Anti-Illegal Immigration Agency	11649
 Arrangement FOR IMMEDIATE RELEASE	18823
 Arto Juhani Immonen	10785
@@ -107,7 +109,7 @@ Director of Immigration Services	19527
 Director of Immigration and Passports	4836
 Directorate General of Immigration and Emigration	4969,5184,2249
 Directorate General of Immigration and Emigration Head	12483
-Directorate of Citizenship and Immigration Control	3005,3430,58,1581,2748,3558
+Directorate of Citizenship and Immigration Control	3005,3430,58,1581,2748,3558,5250,1,11,171
 Directorate of Civil Registration and Immigration	9122
 Directorate of Civil Registry and Immigration	7931
 Directorate of Immigration	12227
@@ -223,6 +225,8 @@ IMMIGRATION AND CITIZEN SERVICES	12165
 IMMIGRATION CONTROL AND CITIZENSHIP	12984
 IMMIGRATION OFFICE Procurement	14760
 IMMIGRATION RAIO	1204
+IMMOBILISATIONS	19850
+IMMOBILISATIONS COMPTE DE REGLEMENTS	19850
 IMMOBILISATIONS CORPORELLES	17841
 IMMOBILISATIONS CORPORELLES TOTAL BILAN ETAT	17841
 IMMOBILISATIONS CORPORELLES TOTAL DE L’ACTIF	17841
@@ -287,6 +291,7 @@ Immediate Matrix. Individuals	8354
 Immediate Measures	13387
 Immediate Outcomes	14997
 Immediate Past President	13401
+Immediate Payments	19664
 Immediate Release	4046
 Immediate Reporting	15198
 Immediate Response	15061
@@ -303,7 +308,7 @@ Immersive Media Lab	14848
 Immersive Technologies	12675
 Immersive Video Playlist Championing Plastic Recycling	11332
 Immersive Virtual Reality	14848
-Immeuble	737,10139,2566,2046,70,373,699,62,1207,115,1200,154,73,35
+Immeuble	737,10139,2566,2046,70,373,699,62,1207,115,1200,154,73,35,374
 Immeuble ARCEP	19334
 Immeuble ARCEP Call Center	19244,13
 Immeuble Asharif	13524
@@ -318,6 +323,7 @@ Immeuble Djigandé	17828
 Immeuble El MARZOUK Joël	10821
 Immeuble Fily DIAOUNE	17817
 Immeuble INSEED-CENETI	19350
+Immeuble Ivoire Trade Center	19850
 Immeuble Koubia	16747
 Immeuble L'Orée du Golf	13555
 Immeuble Les Manguiers B.P	15901
@@ -339,12 +345,12 @@ Immeuble Serigne Saliou Mbacke	18433
 Immeuble Skyview	15670
 Immeuble Toilette Bamako	17817
 Immeuble du Ministère	15421
-Immeubles	2476,13058
+Immeubles	2476,13058,4316
 Immi-	16836
 Immigra	11280
 Immigrant	14045
-Immigrants	16935
-Immigration	1618,112,154,79,25,773,14,220,22,571,907,341,697,3,189,390,360,18,190,79,347,17,123,320,173,163,26,183,136,3,1,1,362,274,49,376,270,80,487,32,132,840,61,46,676,16,30,178,162,11,30,43,65,390,58,61,34,8,39,128,17,28,103,710,202,7,150,230,179,501,329,78,118,407,578,6,38,1060,501,160,67,28,8,4,262,28,48,37,43,456,8
+Immigrants	16935,2780
+Immigration	1618,112,154,79,25,773,14,220,22,571,907,341,697,3,189,390,360,18,190,79,347,17,123,320,173,163,26,183,136,3,1,1,362,274,49,376,270,80,487,32,132,840,61,46,676,16,30,178,162,11,30,43,65,390,58,61,34,8,39,128,17,28,103,710,202,7,150,230,179,501,329,78,118,407,578,6,38,1060,501,160,67,28,8,4,262,28,48,37,43,456,8,57,74
 Immigration Act	2115,946,2472,1873,439,320,102,2910,41,62,706,130,29,82,297,2218,9,77,3,10,1989,6,38
 Immigration Act CAP	16837
 Immigration Act and Regulations	11986
@@ -363,6 +369,7 @@ Immigration Calendrier	13341
 Immigration Chief	18735
 Immigration Control Act. Although Namibia	13097
 Immigration Control and Citizenship N	12984
+Immigration Control and Ministry	19641
 Immigration Cooperation	8295
 Immigration Court	11986
 Immigration Dans	13341
@@ -414,6 +421,7 @@ Immigration and Nationality Department	14045
 Immigration and Naturalization	14889
 Immigration and Refugee	11986
 Immigration and Refugee Board of Canada	11864,4
+Immigration and Refugee Board of Canada. Document	19636
 Immigration and Refugee Paper	11986
 Immigration and Refugee Protection	4256,1277,663,1373,698,1791,1160,768
 Immigration and Refugee Protection Bill	5533,6453
@@ -432,9 +440,11 @@ Imminent Importance. More Information	1009
 Immobilier	15670,2163
 Immobilier N	17833
 Immobiliers	16420
-Immobilisations	15456,18,2558
+Immobilisation	19850
+Immobilisations	15456,18,2558,1818
 Immobilisations Incorporelles	15999
 Immobilisations Non Produites	15999
+Immobilisations Terrains	19850
 Immongault	12091
 Immovable	12894,1753,367
 Immovable Assets Financing	14345
@@ -468,7 +478,7 @@ Immunity of Transfer	18465
 Immunité	18119
 Immunité Aucun	14412
 Immuniz	10829
-Immunization	771,2936,1518,3151,3041,1312,247,220,841,86,800,802,1210,6,30,318,873,208,73,184,599,58
+Immunization	771,2936,1518,3151,3041,1312,247,220,841,86,800,802,1210,6,30,318,873,208,73,184,599,58,383
 Immunization Agenda	10776,8768
 Immunization Coverage	18627
 Immunization EPR Emergency	18668
@@ -505,7 +515,7 @@ Immédiat Engagement	19150
 Immédiat Favoriser	16012
 Immédiat Réaliser	19150
 Immédiate	10876
-Immédiatement	14919,480,328,174,1928,32,1351
+Immédiatement	14919,480,328,174,1928,32,1351,475
 Immédiatement Inférieure	15901
 Indice des Prix des Actifs Immobiliers	17451
 Infection and Acquired Immuno Deficiency Syndrome	14714,1
@@ -559,6 +569,7 @@ Ministry of Immediate Apply	17157
 Ministry of Public Security and Immigration	10841
 MoPHP Immédiat Groupe	19150
 MoWR Immediate	17157
+Mohamed Immeuble Loyauté	19851
 Months Fully Immunized	16935
 Morocco FOR IMMEDIATE RELEASE	17503
 Movable and Immovable Property Database	14713
@@ -613,6 +624,7 @@ Passports and Immigration Act	18598
 Passports and Immigration Major General Elia Costa	18733
 Patrimoine Immobilier	15936,445
 Payment. Immediately	19237
+Percentage Distribution of Immigrants	19715
 Percentage of Immediately Notifiable Diseases Entered	11912
 Periodic Intensification of Routine Immunization	16971,2573
 Phase II of Jordan's National Strategy for Immersive	13902
@@ -636,8 +648,10 @@ Publication des PRMP Immédiatement	10876
 Quartier Centre-villeLocalisation Immeuble Les Arcades	15368
 R Immigration Guard Unit	15845
 RECOMMENDATIONS Immediate	18531
+RESERVE IMMOBILIERE	19850
 RH and Immunization	15977
 RMNCAH and Immunisation	13163
+Reasons for Immigration	19715
 Red Crescent Immediate Collaborate	17157
 Regional Office Immeuble CAMPOST	11563,6180
 Regions Annually Ghana Annually Immigration	15845
@@ -682,6 +696,7 @@ Sauvegardes BM Immédiat Soumettre	16012
 Schedule. FILLEMON W. IMMANUEL MINISTER	13189
 Sector Compact For Immediate Release	15402
 Senegal. Immediate	4848
+Serianu Limited Africa Cyber Immersion Centre	19801
 Sierra Leone Immigration Department	18446
 Sierra Leone Immigration Department Responsible	18540
 Social Signaling and Childhood Immunization	16922

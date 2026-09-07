@@ -223,6 +223,7 @@ Government Digital Service. Service Manual. Available	11216
 Government Finance Manual	1828
 Government Finance Statistics Manual	13868,909
 Government Internal Audit Manual	18577
+Government Manual Final 2014.pdf	19639
 Governor Manuel Tiago Dias	8020
 Grants Manual	1867,9988,7390
 Green Manure Crops Promotion MoALMR	17157
@@ -238,6 +239,7 @@ Health and Safety Manual and Policy. All	12253
 Hilaria Ngui Bisobe Jose Manuel Ndjoku	16864
 Honourable Commissioner Maria Teresa Manuela	8485
 Hospital Dr. Manuel Quaresma Dias da Graça	18783
+Human Resource Manual	19712
 Human Resource Manual ICT Information and Communication	17011
 Human Resource Policies and Procedures Manual for Public	14546
 Human Rights Training Manuals	14742
@@ -248,6 +250,7 @@ IA Manual of Procedures	16843
 ICT Basic Training Manual. Topics Digital	15480
 ICT Hardware Telecom Manufacturing Software Devices	19532
 ICT Manufacturing	236
+ICT Operations Manuals and Internal Policies. Reasons	19641
 ICT Original Equipment Manufacturers	11220
 ICT Price Basket Manual	11563
 IDA Manual	10768
@@ -262,6 +265,7 @@ INSP Hamad Manugwa	19517
 IOM Data Protection Manual	14434
 ITAS User Manual	10419
 ITU Manual for Measuring ICT Access	17743
+ITU Manual for Measuring ICT Access and Use	19639
 Implementation Manual	11905
 Implementation Manual PIP Project Implementation Plan	18293
 Implementation Manual PIU Project Implementation Unit	1264,14395
@@ -369,7 +373,7 @@ Manuais Relatórios	12021
 Manuais da Aplicação	12021
 Manuais de Procedimentos	11898
 Manuais de Utilizador	12021
-Manual	467,2,162,1,211,1,2,223,376,10,533,1616,1929,1138,275,258,1400,599,34,594,981,17,300,27,94,127,58,463,43,11,13,35,37,27,87,45,59,95,95,592,295,88,717,290,311,39,58,130,90,83,26,208,104,77,667,46,55,310,222,45,32,48,179,78,206,163,705,61,164,127,164,41,21,632,1,64,1
+Manual	467,2,162,1,211,1,2,223,376,10,533,1616,1929,1138,275,258,1400,599,34,594,981,17,300,27,94,127,58,463,43,11,13,35,37,27,87,45,59,95,95,592,295,88,717,290,311,39,58,130,90,83,26,208,104,77,667,46,55,310,222,45,32,48,179,78,206,163,705,61,164,127,164,41,21,632,1,64,1,43,11
 Manual Checks	9123
 Manual Clearing	17235
 Manual Consultancy Development of Training Materials	16867
@@ -399,7 +403,7 @@ Manual de Procedimentos Operacionais	17093
 Manual de Utilização	18866
 Manual for Agents. Cited	12158
 Manual for DTUs	16046
-Manual for Measuring ICT Access and Use	11424,920,1754,1519,1323,937,1
+Manual for Measuring ICT Access and Use	11424,920,1754,1519,1323,937,1,1761
 Manual for Peer Reviews of National Statistical Systems	12706
 Manual for Plantation Drafted and Comments	16853
 Manual for Timber	16853
@@ -414,14 +418,14 @@ Manual. Mogadishu	11596
 Manual. Payment	11941
 Manuales de Elaboración	16898
 Manuales de Procedimientos	16859
-Manually	1686,7437,1691
+Manually	1686,7437,1691,9020
 Manually Automated Automated Automated	19576
 Manually Operated Households Households Farms Households	19554
-Manuals	8840,3013,9,831,727,1670,573
+Manuals	8840,3013,9,831,727,1670,573,4052
 Manuals TNM	13624
 Manuals and Codes Steps Activity Status Next	16853
 Manuals for Basi IDA	17180
-Manuel	748,1236,4162,3260,19,543,906,2,99,550,1775,1,74,15,1048,1,3,47,1,46,86,2,780,191,4,249,186,611,1257,43,364,13,78,2,1,988
+Manuel	748,1236,4162,3260,19,543,906,2,99,550,1775,1,74,15,1048,1,3,47,1,46,86,2,780,191,4,249,186,611,1257,43,364,13,78,2,1,988,296
 Manuel Alves Mendes Difusão GEPE	10766
 Manuel Antonio Vargas Madrigal Task Team	12176
 Manuel António	12809
@@ -524,10 +528,11 @@ Manufacturers of AI	3651
 Manufacturer’s Authorisation	18543
 Manufacturer’s Authorization	18543
 Manufacturer’s Authorizations	14766,314
+Manufacturer’s Name	19745
 Manufacturer’s Suggested Resale Prices	11036
 Manufactures	13263
 Manufacture’s Authorizations	15080
-Manufacturing	236,182,300,1222,391,3,441,182,1477,788,311,792,1640,1163,1260,304,71,93,120,146,30,144,228,57,293,7,1,94,370,43,10,1,31,5,9,153,364,91,7,62,1,62,110,19,6,65,89,174,465,606,92,4,14,7,4,51,94,100,113,6,138,30,884,10,567,67,111,224,268,980,58,985,6,25
+Manufacturing	236,182,300,1222,391,3,441,182,1477,788,311,792,1640,1163,1260,304,71,93,120,146,30,144,228,57,293,7,1,94,370,43,10,1,31,5,9,153,364,91,7,62,1,62,110,19,6,65,89,174,465,606,92,4,14,7,4,51,94,100,113,6,138,30,884,10,567,67,111,224,268,980,58,985,6,25,155,56,10
 Manufacturing Accommodation	5247
 Manufacturing Construction Wholesale	14832
 Manufacturing Cyber Security	3760,9683
@@ -553,7 +558,7 @@ Manufacturing Sector Review Overview	2775
 Manufacturing Sector Workers Welfare Fund	14847
 Manufacturing Strategy	14736
 Manufacturing Trade ICT Construction Finance Electricity	14985
-Manufacturing Value Added	9761,1219
+Manufacturing Value Added	9761,1219,8662
 Manufacturing Water	12445
 Manufacturing World Osaka	3760,9683
 Manufacturing and Access	789
@@ -601,6 +606,8 @@ Municipal Grants Manual	11855
 NA Post NA NA Operations Manual	17180
 NDGC Standard Operating Procedures Manual	3861
 NEEDS MANUAL CLIP BEFORE PROMOTION. HTTP-200	7986
+NISF Implementation Manual Provides	19801
+NISF Risk Management Manual Provides	19801
 National Development Corporation Manual	19584
 National Manual for Integrated Sample Transportation	18370
 National Policy Formulation Manual	17124
@@ -639,6 +646,7 @@ PBF Manual	10829
 PBF Manual. Quarterly PBF Database PBF	10829
 PBF Procedural Manual for Education. IBRD	11560
 PBF Procedural Manual for Health. IBRD	11560
+PF RMU. The Project Operations Manual	19847
 PFMU Financial Procedures Manual	16949
 PFMU Financial Procedures Manual. Key	16949
 PIM Project Implementation Manual PIN Personal	18777
@@ -647,6 +655,7 @@ PIM Project Implementation Manual PMU Project	1988
 PIM Project Implementation Manual PPA Power	19239
 PIM Project Implementation Manual PPC Public	15518
 PIU. The Project Implementation Manual	15601
+POM Project Operations Manual	19847
 POM Project Operations Manual PP Parent	19455
 POM Project Operations Manual PPA Project	15411
 POM Project Operations Manual RAP Resettlement	16896
@@ -686,7 +695,7 @@ Prof. Doutor Manuel Guilherme Júnior	9694
 Program Operation Manual	10870,6600
 Program Operational Manual	18370
 Program Operational Manual PON	18370
-Project Implementation Manual	1264,20,583,1022,715,2935,4229,195,1,561,24,11,303,61,41,288,1078,61,67,1453,226,273,13,87,42,68,37,1,34,1233,23,1155,189,594,358,39
+Project Implementation Manual	1264,20,583,1022,715,2935,4229,195,1,561,24,11,303,61,41,288,1078,61,67,1453,226,273,13,87,42,68,37,1,34,1233,23,1155,189,594,358,39,359
 Project Implementation Manual PIU Project Implementation	13331
 Project Implementation Manual PMT Proxy Means	11525
 Project Implementation Manual PP Procurement Plan	10768
@@ -710,9 +719,9 @@ Project Implementation Manual. Table	1704
 Project Implementation Manual. The World Bank	13332
 Project Manual of Procedures	15372,3515
 Project Manuals	18104
-Project Operation Manual	1988,15453
+Project Operation Manual	1988,15453,2394,12
 Project Operation Manual. Inputs	15411
-Project Operational Manual	17441
+Project Operational Manual	17441,2406
 Project Operational Manual PPP Purchasing Power	18809
 Project Operations Manual	427,6112,4290,588,438,2140,981,435,103,183,1199,1765,746,48
 Project Operations Manual Effectiveness Article IV	15661
@@ -745,6 +754,7 @@ Real-time Manufacturing Operations	4434
 Reference Manual for Civil Registration and Vital Statistics	16434
 Registrar of Marriages Ends Manual Printing of Certificates	12290
 Registration Manual	19541
+Registry OM Operational Manual PSP Payment	19647
 Registry Operations Manual	15138
 Regulation and Operation Manual NPPA National Public	18488,89
 Resolution Manual	17257
@@ -816,6 +826,7 @@ Trevor Manuel	562,9406
 Type Manual	11855
 Técnica Dionísio Manuel	10757
 UA Operations Manual	16850
+UNCTAD Manual	19639
 US Manuel	1984
 USER MANUAL	13333
 UVRE DU MANUEL	10876
@@ -828,6 +839,7 @@ Updating the Project Operations Manual	2989
 User Manual	1828,8952,1584,6264
 User Manuals	12364
 User Manuals and Technical Documentation	12400,2690
+User Oprational Manuals and Procedures	19712
 User’s Manual	1828
 V MANUTENTION GUINEENNE MANUTENTION GUI	16623
 V. Manuel	10876
@@ -836,6 +848,7 @@ VUP Operations Manual	12440
 Vibrant Digital Manufacturing	12512
 Victor Manuel Lopes Coutinho. ANEXO A2026	16138
 Village Manufacturing Value Added AfCFTA African	10980
+Vital Statistics Records Program Operations Manual	19686
 WEB APPLICATION USER MANUAL SHALL	14816
 WEZESHA Portal and Manual Loan Register Inconsistency	19585
 WEZESHA Portal and Manual Loan Register Records	19585

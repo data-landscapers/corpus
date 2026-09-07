@@ -61,7 +61,7 @@ African Continental Free Trade	14997
 African Continental Free Trade Agreement	961,38,244,874,889,1117,1121,1119,1422,3034,366,624,1254,417,542,2475,475,133
 African Continental Free Trade Agreement AMP	5244
 African Continental Free Trade Agreement’s Digital	5487
-African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11,279,43,23,169,115,298,29,219,29,172,234,83,88,123,80,205,49,153,1,50,8,33,43,38,58,9,96,71,129,119,25,1,116,192,514,190,29,284,154,937,82,1,49,186,29,11,13,16,4,34,57,28,11,40,1001,270
+African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11,279,43,23,169,115,298,29,219,29,172,234,83,88,123,80,205,49,153,1,50,8,33,43,38,58,9,96,71,129,119,25,1,116,192,514,190,29,284,154,937,82,1,49,186,29,11,13,16,4,34,57,28,11,40,1001,270,645
 African Continental Free Trade Area ADEEG	11271
 African Continental Free Trade Area AIP	13080
 African Continental Free Trade Area Agreement	5247
@@ -79,6 +79,7 @@ African Continental Free Trade Area. Mauritius	14748
 African Continental Free Trade Area. Recent	4555
 African Continental Free Trade Area. SADC	10169
 African Continental Free-Trade Area. Support	789
+African Continental Lessons	19801
 African Continental Qualifications Framework	7573
 African Continental Single Digital Market Part	16936
 African Continental Technical Regulatory Framework	19067
@@ -129,25 +130,27 @@ Broadband Strategies Continuum Strategies	14723
 Build Continuous Learning Pathways	12675
 Building Capacity The Continental AI Strategy	1814
 Burkina Faso Crisis Continues	15715
-Business Continuity	4610,7928,921,1291,171,159,4504
+Business Continuity	4610,7928,921,1291,171,159,4504,55,12,77
 Business Continuity Institute’s Good Practice Guidelines	11131
-Business Continuity Management	10721,410,3,1404,413,10,76,1884,102
+Business Continuity Management	10721,410,3,1404,413,10,76,1884,102,4689,89
 Business Continuity Management Plan P2-6. Management	12500
 Business Continuity Management System	2350,8781,3
-Business Continuity Management Systems	12961,76
+Business Continuity Management Systems	12961,76,6675
 Business Continuity Management Systems BIPA	12961
 Business Continuity Mechanism	8866
-Business Continuity Plan	4848,1584,4118,1950,38,379,1629,204,728,64,3991,51
+Business Continuity Plan	4848,1584,4118,1950,38,379,1629,204,728,64,3991,51,80
 Business Continuity Plan BC&DR	12538
 Business Continuity Plan BETA Bottom-up Economic	6432
+Business Continuity Plan BoB	19664
 Business Continuity Plan and Disaster Recovery Guidelines	12453,892
 Business Continuity Planning	12917,1844,513
-Business Continuity Plans	12538
+Business Continuity Plans	12538,7263
 Business Continuity Plans. Lack	19584
 Business Continuity Requirements	12961,76
 Business Continuity Steering Committee	10550
 Business Continuity and Disaster	12538
-Business Continuity and Disaster Recovery	11995,543,2223,160,4663
+Business Continuity and Disaster Recovery	11995,543,2223,160,4663,217
+Business Continuity and Disaster Recovery Business	19801
 Business Continuity and Disaster Recovery Framework	13987
 Business Continuity and Disaster Recovery Guidelines	12538,925
 Business Continuity and Disaster Recovery Plans	19584
@@ -255,7 +258,7 @@ Continent. Noting	11183
 Continent. Retrieved	1243
 Continent. Such	1814
 Continent. The Convention	1243
-Continental	961,303,367,66,980,139,346,1047,215,181,609,149,885,442,247,127,396,88,417,2764,65,47,308,44,409,225,228,920,163,319,442,2964,12,22,23,42,150
+Continental	961,303,367,66,980,139,346,1047,215,181,609,149,885,442,247,127,396,88,417,2764,65,47,308,44,409,225,228,920,163,319,442,2964,12,22,23,42,150,2540,1,148
 Continental AI	1814
 Continental AI Strategy	1814,2875,403,210,116,407,216,14,195,17,316,20,394,329,262,90,3457,130,3409,1372
 Continental AI Strategy. Civil	8143
@@ -283,16 +286,19 @@ Continental Confidence Perhaps	5074
 Continental Data Governance Compact	6107
 Continental Data Governance Frameworks	4123,8940,417
 Continental Data Policy Framework	1078,186
+Continental Developments	19801
 Continental Digital Policy Outlook	9858
 Continental Digital Public Infrastructure	7073
 Continental Digital Public Infrastructure Champion	7073
 Continental Digital Trade Corridor	6136
 Continental Early Warning System	5825
+Continental East Africa	19712
 Continental Education Strategy for Africa	1814,10238,123,21,298,816,167,152,7,615,671,739,3023,1
 Continental Education Strategy for Africa CESA	18684,1
 Continental Equatorial Guin-	16942
 Continental Essay Competition	15127
-Continental Frameworks	10720
+Continental Frameworks	10720,9081
+Continental Frameworks The NISP	19801
 Continental Free Trade Agreement	16874
 Continental Free Trade Area	4905,9233,3415
 Continental Free Trade Area AM Accountability	1264
@@ -335,6 +341,7 @@ Continental Strategy	1814,6815,3581
 Continental Strategy for Africa	1243
 Continental Strategy for TVET	1814
 Continental Strategy for Technical and Vocational Education	1814
+Continental Trade	19712
 Continental Youth Symposium	17471
 Continental and Global	12942
 Continental and Global Development Agenda	16863
@@ -354,7 +361,7 @@ Contingencias de Inversiones	4209
 Contingencias de Inversiones Publicas Múltiples Nacional	4209
 Contingencies	15372
 Contingencies Contingent	16978
-Contingencies Fund	6588,7958
+Contingencies Fund	6588,7958,5166
 Contingency	5245,5886,3,1350,55,2335,22,528,2538,542,592
 Contingency Charges	13031
 Contingency Contingency Inaccessibility	12364
@@ -362,7 +369,7 @@ Contingency Emergency Component	19284
 Contingency Emergency Reconstruction Component	1228
 Contingency Emergency Response	13331,4970,1154
 Contingency Emergency Response Comment	13392
-Contingency Emergency Response Component	2989,7779,195,1002,2611,977,108,76,276,174,2622,475
+Contingency Emergency Response Component	2989,7779,195,1002,2611,977,108,76,276,174,2622,475,359
 Contingency Emergency Response Component. Following	14576
 Contingency Emergency Response Part	16936
 Contingency Event	12364,120
@@ -381,7 +388,7 @@ Contingent Allemand	998
 Contingent Allemand ARCEP	998
 Contingent Emergency	1284
 Contingent Emergency Response	1284,3369,2275,4489,554,204,1156,1125,97,357,608,184,442,292,1522,397,268,186,8
-Contingent Emergency Response Component	761,235,232,36,20,300,283,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61,990,2,226,353,27,35,66,2,37,1,2,82,39,187,14,96,65,43,197,52,460,26,4,68,6,96,3,15,848,171,160,8,49,4,5,97,48,30,275,124,312,4,35,171,147
+Contingent Emergency Response Component	761,235,232,36,20,300,283,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61,990,2,226,353,27,35,66,2,37,1,2,82,39,187,14,96,65,43,197,52,460,26,4,68,6,96,3,15,848,171,160,8,49,4,5,97,48,30,275,124,312,4,35,171,147,41
 Contingent Emergency Response Component CERC Country	11417
 Contingent Emergency Response Component CERC Steering	1228
 Contingent Emergency Response Component CPF Comité	10964
@@ -419,7 +426,7 @@ Continuance	15627,1260
 Continuando	18775
 Continuar	1701,9355,5809
 Continuaremos	2618
-Continuation	3714,7467,1354,447,1940,1965,507,1072,1050,10
+Continuation	3714,7467,1354,447,1940,1965,507,1072,1050,10,136
 Continuation OpenClinic	13306
 Continuation of Appeals Tribunal	12549
 Continuation of Bureau	19526
@@ -435,7 +442,8 @@ Continuação	6425,36,6316,2995
 Continuação Características	10777
 Continuação Luanda	10757
 Continuação Taxas	10777
-Continue	899,41,1048,561,2347,348,241,191,3,453,662,153,1653,399,991,1141,3,419,313,40,80,279,21,29,153,503,13,326,23,128,407,230,118,458,77,234,12,111,22,474,84,1165,19,55,48,36,90,4,34,436,608,103,5,273,71,296,111,560,2
+Continue	899,41,1048,561,2347,348,241,191,3,453,662,153,1653,399,991,1141,3,419,313,40,80,279,21,29,153,503,13,326,23,128,407,230,118,458,77,234,12,111,22,474,84,1165,19,55,48,36,90,4,34,436,608,103,5,273,71,296,111,560,2,83
+Continue ANNEXE	19687
 Continue Campaigns	1777
 Continue Hon. Fatuma Mohammed	10313
 Continue PTA	10876
@@ -446,7 +454,7 @@ Continue Strengthening Public Financial Management	1579
 Continue With MyNa Credentials	3002,443,14,16,1606,536
 Continue des Enseignants	11905,3768
 Continue des Enseignants ENI	15673
-Continued	418,582,777,51,160,1726,476,420,1045,25,752,303,301,727,763,77,2,854,71,558,688,17,48,15,8,267,3,77,39,11,119,103,693,17,21,22,10,194,465,57,80,11,42,38,198,1,49,96,55,60,177,169,211,1,244,383,122,36,62,32,10,90,9,26,440,54,868,588,143,69,13,164,406,81,109,34,160,148,136,274,681,53
+Continued	418,582,777,51,160,1726,476,420,1045,25,752,303,301,727,763,77,2,854,71,558,688,17,48,15,8,267,3,77,39,11,119,103,693,17,21,22,10,194,465,57,80,11,42,38,198,1,49,96,55,60,177,169,211,1,244,383,122,36,62,32,10,90,9,26,440,54,868,588,143,69,13,164,406,81,109,34,160,148,136,274,681,53,61,17,14,51
 Continued AI	1363
 Continued Annual Absorption of Frontline HCWs Year	4260
 Continued Breastfeeding and Bottle Feeding	15247
@@ -466,7 +474,7 @@ Continues	6051,3186,1717,7546
 Continuez	18064
 Continuidade	11461,4228,277
 Continuidade da Interligação	11519
-Continuing	940,2324,319,1313,2691,1391,1952,60,141,3,438,603,44,109,213,468,44,234,279,302,806,323,607,57,52,37,1446,13,700,81,487
+Continuing	940,2324,319,1313,2691,1391,1952,60,141,3,438,603,44,109,213,468,44,234,279,302,806,323,607,57,52,37,1446,13,700,81,487,1170
 Continuing Challenges	13418
 Continuing Contraventions	17249
 Continuing Education for Civil Servants	18476
@@ -474,10 +482,11 @@ Continuing Medical Education	18016
 Continuing Misinformation and Disinformation Campaigns	2626
 Continuing Obligations	3861
 Continuing PEPFAR Investments	19529
-Continuing Professional Development	11990
+Continuing Professional Development	11990,7809
 Continuities	12227
 Continuity	1214,1744,545,2644,3359,1278,801,753,197,2059,487,54,29,1219,867,2326
 Continuity Business Day Participant	12364
+Continuity Planning BPD Business Process Documentation	19642
 Continuity and Transition of Legacy	18556
 Continuity of Acts	17243
 Continuity of Care	21
@@ -493,12 +502,13 @@ ContinuitÈ Dans	15394
 Continuité	1214,10829,3737,163,352,332,1192,9,54,26,1215,252
 Continuité Cohérence	17842
 Continuons	15624,1108
-Continuous	958,42,814,14,110,50,960,656,257,265,402,378,338,141,280,11,346,410,514,2,600,114,1337,368,52,436,866,10,45,43,10,111,67,124,3,22,113,256,47,6,277,50,47,3,1,219,20,45,6,91,22,36,62,55,88,349,28,28,75,15,237,53,35,51,207,190,348,218,131,177,3,125,22,30,75,125,27,262,142,51,57,2,50,132,92,643,263,9,6,27,58,8,12,42,6,105,41,210,12,505,417,8,181,88,501,453,53,30
+Continuous	958,42,814,14,110,50,960,656,257,265,402,378,338,141,280,11,346,410,514,2,600,114,1337,368,52,436,866,10,45,43,10,111,67,124,3,22,113,256,47,6,277,50,47,3,1,219,20,45,6,91,22,36,62,55,88,349,28,28,75,15,237,53,35,51,207,190,348,218,131,177,3,125,22,30,75,125,27,262,142,51,57,2,50,132,92,643,263,9,6,27,58,8,12,42,6,105,41,210,12,505,417,8,181,88,501,453,53,30,15,16,130,25
 Continuous Adaptation Requirement ACKNOWLEDGING	3861
 Continuous Automated Red Teaming	10721
 Continuous Birth	12241
 Continuous Birth Registration	12241
 Continuous CCTV	10956
+Continuous Capacity Building and Mentorship	19667
 Continuous Compliance Align	6432
 Continuous Compliance Audit Framework	11995
 Continuous Compliance Audits	11995
@@ -542,7 +552,7 @@ Continuous Performance Monitoring	3651
 Continuous Personal Development	21
 Continuous Population Survey	11237,104
 Continuous Process	13532
-Continuous Professional Development	6946,4188,822,457,313,344,96,226,66,599,2906
+Continuous Professional Development	6946,4188,822,457,313,344,96,226,66,599,2906,2820,16
 Continuous Professional Development CRVS Civil Registration	18478
 Continuous Professional Development CSE	12175
 Continuous Professional Development CSL	6832
@@ -568,7 +578,7 @@ Continuous Transaction Controls	8670
 Continuous Transformation	17116
 Continuous Voter Registration	3936,5454,3622,687
 Continuous and Recurring Requirements Essential	17116
-Continuously	1000,219,595,1175,1539,1005,143,5540,770,9,340,177,162,1,620,1466,16,220,123,1795,24,24,151
+Continuously	1000,219,595,1175,1539,1005,143,5540,770,9,340,177,162,1,620,1466,16,220,123,1795,24,24,151,2687
 Continuously Operating	18534
 Continuously Operating GNSS Reference Stations	12457
 Continuously Operating Reference Stations	19592
@@ -864,6 +874,7 @@ Región Continental. Las	17049
 Regulamentação Continental	2816
 Relevant Continental Frameworks AU Digital Transformation	12055
 Republic of Namibia. Enabling Environment Continues	12912
+Response. Continuous	19801
 Revenue Appeals Tribunal. Continuous	13060
 Risk Analysis and Contingency Planning Conduct	16963
 Risk Management and Contingency Planning	5245
@@ -881,6 +892,7 @@ Salaam. Continued	6577
 Salud RC Región Continental RI Región	16962
 Santé Continue	18286,26
 Seamless Continuity of Care	41
+Second Continental Progress Report	19642
 Second Continental Report	11283,3441
 Seguridad Social No Encuesta Continua Ministerio	16898
 Seguridad Social Sí Encuesta Continua Ministerio	16898
@@ -947,6 +959,7 @@ Uptake Continuum of Digital Financial Services	18454
 Urgences Contingentes	18397
 Uíge Zaire Continua	10766
 Vision and Mission The Continental AI Strategy	1814
+Vote Performance Continuous	19742
 Web and Mobile Applications By Continuing	5679
 Welcomes the AU Continental Artificial Intelligence Strategy	5825
 West Africa. Continued	10939

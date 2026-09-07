@@ -34,7 +34,7 @@ Abu Dhabi Accelerator Acquisition Africa Agritech	5322
 Acceler8	12540
 Accelera Cloud Program	4144
 Accelerat-	8606
-Accelerate	1814,71,2241,1119,91,1407,205,91,168,2866,357,704,6,717,59,48,250,145,36,4,94,70,117,295,337,2,104,69,381,154,652,49,25,4,66,1,73,30,25,50,111,442,427,2,209,719,32,12,19,1,4,139,25,18,103,44,566,328,339,40,51,303,603,37,31
+Accelerate	1814,71,2241,1119,91,1407,205,91,168,2866,357,704,6,717,59,48,250,145,36,4,94,70,117,295,337,2,104,69,381,154,652,49,25,4,66,1,73,30,25,50,111,442,427,2,209,719,32,12,19,1,4,139,25,18,103,44,566,328,339,40,51,303,603,37,31,75
 Accelerate AI	4126
 Accelerate AI Adoption	4126
 Accelerate AI Invest	4126
@@ -107,7 +107,7 @@ Accelerate of Television NBC	11857
 Accelerate the Adopt the Comprehensive Enforce	1777
 Accelerate the Outcome	14997
 Accelerate2030	12493
-Accelerated	3184,5214,2458,139,214,19,982,519,689,43,1021,515,30,193,384,121,687,219,526
+Accelerated	3184,5214,2458,139,214,19,982,519,689,43,1021,515,30,193,384,121,687,219,526,2644
 Accelerated Access	13743,44
 Accelerated Build New Capacity	11228
 Accelerated Build New Generation Capacity	11228
@@ -132,7 +132,7 @@ Accelerated Transformation Plan for Development	15518
 Accelerated and Inclusive Growth. Washington	10841
 Accelerates	12359,2588
 Accelerates Its Digital Transformation	5125
-Accelerating	411,1011,355,1614,65,31,117,1929,518,488,863,202,3114,422,53,3,273,278,467,19,45,51,70,164,196,587,522,15,55,736,55,16,74,207,487,40,209,288,811,112,11,12,261,39,109,26,72,487,172,187,659
+Accelerating	411,1011,355,1614,65,31,117,1929,518,488,863,202,3114,422,53,3,273,278,467,19,45,51,70,164,196,587,522,15,55,736,55,16,74,207,487,40,209,288,811,112,11,12,261,39,109,26,72,487,172,187,659,630,39
 Accelerating AI	1814,3234,6092
 Accelerating AI Investment Figure	1814
 Accelerating AU Member States	1814
@@ -182,7 +182,7 @@ Accelerating the Centre of Excellence and Innovation	11134
 Accelerating the Digital Transition	1818
 Accelerating the Gambia’s Socio-Economic Development	16861
 Accelerating the SDGs Through Digital Public Infrastructure	5700
-Acceleration	773,3930,972,2933,2627,234,907,747,538,2141,177,1479,2076
+Acceleration	773,3930,972,2933,2627,234,907,747,538,2141,177,1479,2076,133
 Acceleration B3-Investor	7548
 Acceleration Centre	18349
 Acceleration Fund CEO Sérgio Pimenta. Development	9802
@@ -270,6 +270,7 @@ Central African Republic Accelerating Results	16436
 Centre To Accelerate Data-Driven Economy	12572
 Century Skills Reliable Infrastructure Robust Accelerators	1204
 Chad Accelerates Digital Cooperation	4132
+Christine N Katende UGANDA LEARNING ACCELERATION	19692
 Commission Digital Malawi Acceleration Project	3678
 Components Accelerating Learning	17958
 Congo Digital Acceleration	15553
@@ -313,7 +314,7 @@ Digital Economy Acceleration Project	5056,13303
 Digital Economy Accelerator Programme	7172
 Digital Health Impact Accelerator	3385,9117
 Digital Malawi Acceleration Program	1704
-Digital Malawi Acceleration Project	1572,132,1387,552,35,931,703,222,1536,161,212,43,3042,1725,46,728,28,4,55,21,105,1155,279,2991,47
+Digital Malawi Acceleration Project	1572,132,1387,552,35,931,703,222,1536,161,212,43,3042,1725,46,728,28,4,55,21,105,1155,279,2991,47,2105
 Digital Malawi Acceleration Project ITB	13185
 Digital Malawi Acceleration Project Purchaser	13185
 Digital Skills Accelerator Self-Assessment Tool	11918
@@ -511,7 +512,8 @@ Realizing Empowerment and Acceleration	18487
 Regional Entrepreneurship Acceleration Programme	12589
 Regional Financial Access Acceleration Team	11994
 Renewable Energy Acceleration Program	19083
-Renewable Energy Support and Access Accelerator Project	12595
+Renewable Energy Support and Access Accelerator	19663
+Renewable Energy Support and Access Accelerator Project	12595,7068
 Republic of Congo Digital Acceleration Project Project	15553
 Republic of Malawi Accelerating Sustainable and Clean Energy	14674
 Republic of P175592 Congo Digital Acceleration Project	15513
@@ -587,7 +589,10 @@ UNDP Lesotho Accelerator Lab	12732
 UNDP Namibia Accelerator Lab	13018
 UNDP's Accelerator Lab	1871
 UNDP's Africa Accelerator for Digital Public Infrastructure	11118,613
-Uganda Digital Acceleration Project	756,527,6097,494,158,1751,1967,1581
+Uganda Digital Acceleration Project	756,527,6097,494,158,1751,1967,1581,6329,106,25,11,5
+Uganda Digital Acceleration Project Ug	19660
+Uganda Digital Acceleration Project. Refurbishment	19800
+Uganda Learning Acceleration Program	19692,49
 Uganda's Digital Acceleration Project	3275
 Umuco Business Accelerator	13358
 Under the Accelerating Sustainable and Clean Energy Access	13624
@@ -611,6 +616,7 @@ World Bank Results Acceleration Program	3604
 World Bank Senegal Digital Economy Acceleration	18359
 World Bank Togo Digital Acceleration	19245
 World Bank's Digital Acceleration Project	11918,4042
+World Bank-backed Digital Malawi Acceleration Project	19817
 World Bank-backed Kenya Digital Economy Acceleration	6587
 World Bank-financed Angola Digital Acceleration Project	10765,10
 World Bank-financed Program Name PACTE-ESRI Accelerating	17458

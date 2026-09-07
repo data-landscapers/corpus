@@ -87,7 +87,7 @@ Like Loading	7471,52,12081
 Like M-Pesa	40
 Like NBC	1944
 Like NIN	4690
-Like Ugandans	10564
+Like Ugandans	10564,9249
 Like WOfS	10794
 Like Zimbabwe	3742
 Like for Tanzania Mainland	19519
@@ -109,7 +109,7 @@ Likely SAME EVENT	2953
 Likeng	2303,951,29,15,13290
 Likeng and Chad's Minister of Telecommunications	2862
 Likeng. L’interopérabilité	10255
-Likert	2948,1484,3944,753,1790,21,645,5564
+Likert	2948,1484,3944,753,1790,21,645,5564,2505
 Likert-scale	2948
 Likes	16269,17,159,832,653,7,14,1,1,1,27,20
 Likes Alexandre Marie Yomo	16372
@@ -122,7 +122,7 @@ Likes Previous Digital	12441
 Likes Prime Minister Joseph Dion Ngute	16240
 Likes Share Comment Focus	17185
 Likes Share Comment Teacher Estefania Sambu	17185
-Likewise	718,251,274,850,214,1994,375,87,207,274,456,788,460,203,560,52,113,146,418,20,262,627,222,168,1080,10,23,9,118,71,80,4,20,29,633,63,21,24,36,130,111,13,32,9,121,19,40,65,163,296,46,980,19,725,13,86,104,91,8,380,60,42,91,54,124,1104,41,15,8,68,210,102,108,305,30,97,900,55,706,3,8,12,31,17
+Likewise	718,251,274,850,214,1994,375,87,207,274,456,788,460,203,560,52,113,146,418,20,262,627,222,168,1080,10,23,9,118,71,80,4,20,29,633,63,21,24,36,130,111,13,32,9,121,19,40,65,163,296,46,980,19,725,13,86,104,91,8,380,60,42,91,54,124,1104,41,15,8,68,210,102,108,305,30,97,900,55,706,3,8,12,31,17,100
 Likhetho	12748
 Likhoele	309
 Likius Ndishishi	12478
@@ -225,6 +225,7 @@ Telecoms Minister Minette Libom Li Likeng	3283
 Tertiary Education Institutions Like	16876
 Topics You Might Like Starlink	16797
 Tourists Like	13532
+Uganda. Like the Facebook	19682
 Ugandans Curse NIRA Over R.Nile Like-Long	9696
 Will Language Modelers Like ChatGPT	11140
 World Bank. Like	7156

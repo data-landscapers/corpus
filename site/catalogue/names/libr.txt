@@ -35,6 +35,7 @@ Centre Hospitalier Universitaire de Libreville	15973,202
 Certificado de Actualización PE Libreta	4209
 Certificado de Comercio Certificado de Comercio Libreta	4209
 Comercio Libreta	4209
+Commissioner for Library	19783
 Commune de Libreville. Au	15727
 Communique-Final-22-mai-2026-final-1.pdf Libreville	16381
 Conference Hall and Library	19585
@@ -50,7 +51,7 @@ Department of Library	8022
 Department of Library and Information Science	8022
 Digital Incubator Libreville	15411
 Digital Law Library	11607
-Digital Library	4439,14357
+Digital Library	4439,14357,861
 Digital Library Management	15164
 Digital Library Management System	15164
 Directorate of Library and Archive Services	12345
@@ -125,7 +126,7 @@ Librarians' Training	13633
 Libraries	8022,4068,507,717,677,3027
 Libraries Only	12199
 Libraries Private Sector	17018
-Library	396,852,580,2,6192,3107,2,9,467,990,456,424,55,1632,703,985,20,139,1196
+Library	396,852,580,2,6192,3107,2,9,467,990,456,424,55,1632,703,985,20,139,1196,1450
 Library Books	12597
 Library Books Module Agency	19584
 Library Cataloguing	14898,2043
@@ -218,7 +219,7 @@ National Archives and Libraries	14047
 National Archives and National Library	14830
 National Data Library	7548
 National Data Library and Trusted Data Flows	7548
-National Library	11853,2889,105,1942,1471
+National Library	11853,2889,105,1942,1471,1557
 National Library Service Authority GRTS Gambia	16852
 National Library Service and Records	12597
 National Library of South Africa	11237,21,28

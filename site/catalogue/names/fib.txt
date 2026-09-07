@@ -6,13 +6,15 @@ Africa. MTC Namibia and Botswana Fibre Networks	5066
 Africa. The Horizon Fiber	10583
 African Fibre Networks Formerly Dark Fibre	6000
 Airtel Fibre	5874
+Annual Total Fiber Distance	19728
 Arabia Yes High-speed Fiber-optic Broadband Initiative	11529
 Axian Telecom Fibre Ltd	3886
 Backbone Fibre Project	127
 Backbone Nacional de Fibra	1215
+Basic Access and Fiber	19633
 Body CONSTRUCTIONS OF COUNTRY'S FIBER OPTIC	18642
 Botswana Fibre Network	4094
-Botswana Fibre Networks	2576,155,4,1348,1232,756,3491,350,138,101,2445,5,21,3,485,1277,17,1
+Botswana Fibre Networks	2576,155,4,1348,1232,756,3491,350,138,101,2445,5,21,3,485,1277,17,1,5275
 Bridge Fiber Solution	3396
 Bridge Fiber Solutions	10259
 Buffalo City Optic Fibre	6832
@@ -76,6 +78,7 @@ Enters Active Deployment of Africa-Middle East Fibre	10583
 Espinha Dorsal Nacional de Fibra	4436
 Ethernet and Fibre Channel	11209
 Europe Optical Fiber Submarine Cable AFAP	18754
+Existing Fiber	19728
 Expand Fibre Network	4069
 F CFA Fibres	19232
 FAISCEAU HERTZIEN FO I3N FIBRE OPTIQUE	18105
@@ -83,6 +86,7 @@ FAS Financial Access Survey FTTH Fiber-to-the-Home	16942
 FAULTS AND RELATED ADMINISTRATIVE FINES FIBRE	15081
 FIBANE	10965
 FIBANE RNSM CREMF	10965
+FIBER INSTALLATION	19745
 FIBRA	18791
 FIBRE DE CIMENT	13300
 FIBRE NETWORKS LENGTH	16885
@@ -92,10 +96,12 @@ FIBRE TECHNOLOGY LABORATORY The Fibre Technology	14736
 FLEET Helicopter Dornier Excluding FIBs	14760
 FO Fibre Optique FOSA Formation Sanitaire	13306
 FTTP Fibre	15474
+FTTX Fibre	19633
 FTTx Fiber Optic Connection Service Regulation	14944
 FTTx Fibre	15493,2961
 FiBure	14479
-Fiber	718,2769,117,294,787,3,318,1077,17,33,471,1273,1246,18,640,1080,134,617,251,906,164,1432,117,415,583,13,269,143,979,230,1465,51,257
+Fiber	718,2769,117,294,787,3,318,1077,17,33,471,1273,1246,18,640,1080,134,617,251,906,164,1432,117,415,583,13,269,143,979,230,1465,51,257,752,89,17
+Fiber Access	19633
 Fiber And Transmission Network	14151
 Fiber Backbone	19532
 Fiber Backbone Deployment	1264
@@ -110,12 +116,13 @@ Fiber Gamers	4879
 Fiber Infracos	12427
 Fiber Infracos The Data Center Specialists	4525
 Fiber Infrastructure	10861,4036
+Fiber Infrastructure Footprint	19728
 Fiber Market Economy	3185
 Fiber Market Electricity Market Personal	14482
 Fiber Markets	12427
 Fiber Markets Investment Incentives	10781
 Fiber Mlangoni Kwako	11612
-Fiber Optic	6832,5107,6420
+Fiber Optic	6832,5107,6420,1369,17
 Fiber Optic Batista de Sousa Hospital	11939
 Fiber Optic Commission	15511
 Fiber Optic Connectivity Component	14913
@@ -124,6 +131,7 @@ Fiber Optic Network	15578
 Fiber Optic Network Installation	15578
 Fiber Optic Network The Installation	15578
 Fiber Optic Network and Installation	15578
+Fiber Optic Specifications	19745
 Fiber Optics	3862,7086,7694
 Fiber Optics Market	17114
 Fiber Option Commission	15511
@@ -139,7 +147,7 @@ Fiber-Optic Network	3728
 Fiber-channel HBA	17334
 Fiber-optic	3604,13371
 Fiber-to-Home	15905
-Fiber-to-the Home	15136
+Fiber-to-the Home	15136,4592
 Fiber-to-the-Home	7110,6108,1918,769,3627
 Fiber-to-the-Room	6317
 Fiber-to-the-home	5909
@@ -170,7 +178,7 @@ Fibra	3179,8217,122,1,12,3836
 Fibra Empresarial	18830
 Fibrage	19221
 Fibras	11382
-Fibre	998,15,130,504,225,221,820,557,489,1157,445,119,174,365,25,152,23,330,102,516,658,182,435,200,205,102,411,109,18,390,182,329,205,163,2,79,820,273,265,368,6,202,212,123,79,987,302,55,107,43,202,83,170,90,69,178,497,159,314,259,819,407,191,2,68,649,336,161
+Fibre	998,15,130,504,225,221,820,557,489,1157,445,119,174,365,25,152,23,330,102,516,658,182,435,200,205,102,411,109,18,390,182,329,205,163,2,79,820,273,265,368,6,202,212,123,79,987,302,55,107,43,202,83,170,90,69,178,497,159,314,259,819,407,191,2,68,649,336,161,100,109
 Fibre Backhaul	15081
 Fibre Backhaul Sharing	15081
 Fibre Broadband	5112,13994
@@ -186,7 +194,7 @@ Fibre Network SSA	242
 Fibre Networks	8025
 Fibre Noire	7999
 Fibre Open	11857
-Fibre Optic	6671
+Fibre Optic	6671,13057
 Fibre Optic Cable and Landing Stations	2677
 Fibre Optic Rollout	9362
 Fibre Optic Subsea WACS Cable	8679
@@ -219,6 +227,7 @@ Fibre-based Home	14836
 Fibre-cement	13385
 Fibre-optic	11728
 Fibre-related	8785
+Fibre-to-the Home	19633
 Fibre-to-the-Home	1944,78,6185,1321,1430,1437
 Fibre-to-the-Premises	10958,3765
 Fibre-to-the-Room	9528
@@ -240,6 +249,8 @@ Fibres	15399,704
 Fibres Textiles du Sénégal SRSD	18291
 Financial Management Fiber	15553
 Five-A-Side Football Field Fiber Optic Network	15578
+Fixed Broadband Fibre Optic	19728
+Fixed Broadband Technologies Fibre Optic	19728
 Fixed Fibre	11857
 Fixed Fibre Optic	6946
 Fixed Wireless and Fiber Access Network Expansion	956
@@ -293,6 +304,7 @@ Kilometre Fibre Plan	18644
 Kingdom. FiberCo	2673
 Km de Fibre	15671
 Km of Fibre Reach	11857
+Km of Optical Fibre Cable	19689
 L'ANATOMIE D'UN BLOCAGE Fibre	7999
 La Fibre Noire	7999
 Last Mile Optic Fibre	2867
@@ -305,6 +317,7 @@ Leveraging Fibre for Accelerated Development	11132
 Liberia Advances Regional Fiber Optic Expansion	6688
 Libya and Egypt. The Trans-Saharan Fiber Optic	5006
 Luli Fibra Cables Solution Ltd	3862
+MAINTENANCE OF OPTICAL FIBER INSTALLATIONS	19745
 MTN FiberX	11506
 MTN FibreX	5874,1236
 MTN Supersonic Home Fibre	11259
@@ -328,6 +341,7 @@ Metropolitan Fiber Network	18485
 Metropolitan Fiber Optic Cable Infrastructure Providers	18485
 Metropolitan Terrestrial Fiber Cable Networks	18485
 Million Fiber Subscribers	6083
+Minimum Optical Fiber Characteristics	19745
 Month-to-Month Fibre-to-the-Home Tariff Plans	11259
 Muya Fiber and Bayobab	18635
 NCC Fibre	11857
@@ -368,29 +382,43 @@ National Terrestrial Fiber Backbone	18485
 National Terrestrial Fiber Backbone OTT	18485
 National Terrestrial Fiber Optic Backbone	18485
 Nigeria Sovereign Fibre Project	4466
+OFC Optic Fibre Cable PDMIS Parish	19660
 OPERATEUR LONGUEUR DE LA COUVERTURE FIBRE	13414
+OPTICAL FIBER INSTALLATION	19745
+OPTICAL FIBER PROTECTION	19745
 OPTICAL FIBRE CABLE CONSORTIUM	11857
 Omdia Fiber Development Index	6773
 On-Land Fibre	3862
 Open Fiber Data Standard	16545
 Open Fibre Data Standard	3812
-Optic Fiber	16144
+Optic Fiber	16144,3489,112
+Optic Fiber Cable TCO Total Cost	19633
 Optic Fibre	395
+Optic Fibre Cable	19689
 Optic Fibre Deployment	13336
 Optical Fiber	14858,3890
+Optical Fiber Cable	19642,103
+Optical Fiber Cable Installation Considerations	19745
+Optical Fiber Cables	19745
+Optical Fiber Characteristics No. OFC Standard	19745
 Optical Fiber Network Installation	15578
 Optical Fiber Submarine Cable	17099
+Optical Fibre Cable	19660
 Optical Fibre Communications	958
+Optical Fibre Installation	19742
+Optical Fibre Operator	19745
 POP. FiberOne	6749
 PRIVATE SECTOR Fibre RoW Standardised Fees	11857
 Pan-African Terrestrial Fibre Optic Network Africa50	1048
 Paratus Activate First Cross-Border Fiber Link	2987
 Paratus Fibre and Data Centre Expansion	1146
 Phase I of Malawi National Fibre Backbone	127
+Planned Fiber	19728
 Por Tecnologia ADSL FIBRA R. Via	18791
 Post Office Fiber Optic Network Installation	15578
 Post Office Fiber Optics Services	15578
 Post Office Installation of Fiber Optic Network	15578
+Proposed Wooden Pole Dimensions Fiber	19745
 Protection of Fibre Optic Cables	9669
 Protéines Lipides Glucides Fibres Ensemble	737
 Providing Police Stations Program Fiber Optic	15578
@@ -414,7 +442,9 @@ Savana Fibre	11737
 Savanna Fibre	6053,551
 Savanna Fibre FTTH Division. Savanna Fibre	6053
 Savanna Fibre Uganda	6053
+Savannah Fiber Ltd	19728
 Sonatel Expands Fiber and Mobile Data Base	5909
+Special Permission for Fiber Deployment	19745
 Starlink Internet Services Nigeria Ltd and FiberOne	3862
 Starlink and FibreOne	11506
 Strategy. Addresses. Fiber. Data. Law	7617
@@ -431,6 +461,7 @@ Terrestrial Fiber Optic Cable Network NTFB	18485
 Terrestrial Fibre Operators	5681
 Through the Last Mile Optic Fibre Connectivity	3524
 TowerCo and Fiberco Markets	14010
+Towers Fiber	19728
 Towers and Fibre Optic Installation Authorization	718
 Trans Kalahari Fibre	1013
 Trans-Sahara Optical Fibre Backbone Project	17940
@@ -451,6 +482,7 @@ Vodacom Prepaid Fibre Free	11259
 Vodafone Fiber Connection Node	580
 Vumatel and Dark Fibre Africa	4150
 Vumatel and Dark Fibre Africa. Cames PIP	10595
+West Central East North Backhaul Fiber	19728
 Wuhan-headquartered FiberHome	10734
 Yas Expands Fiber Footprint	11737
 Yas Fiber	10590,1147
@@ -460,3 +492,4 @@ Yas Tanzania Brings Fibre Connectivity	10590
 ZAP Fibra	15339,2241
 Zamtel and FibreCom	12453,892
 Zanzibar and Yas Fibre	6850
+Zuku Fiber and MTN Wakanet	19728

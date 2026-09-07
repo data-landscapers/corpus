@@ -155,7 +155,7 @@ Nursery	13287,1451,2389
 Nursery A- Hearing	582
 Nursery Attendant	14760
 Nursery I Nursery II Kindergarten	16876
-Nurses	1988,2179,93,710,255,127,3024,3280,256,113,947,4,184,1234,1331,604,2145
+Nurses	1988,2179,93,710,255,127,3024,3280,256,113,947,4,184,1234,1331,604,2145,1193
 Nurses Association of Lesotho	12661
 Nurses U.S. Mozambique Mozambique Year Government	4260
 Nurses Year	4202,147
@@ -184,7 +184,7 @@ Nursing and Midwifery	12972,4
 Nursing and Midwifery Services	12606
 Nurture	6946,2915,2002,2956
 Nurture R&D	12210
-Nurturing	13100
+Nurturing	13100,6557
 Nurturing Care For Early Childhood Development	10768
 Nurturing Refugee Entrepreneurship	10841
 Nurturing Refugee Entrepreneurship Entrepreneurship	10841

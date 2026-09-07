@@ -115,6 +115,7 @@ COLKOS ENTERPRISES LIMITED Data Controller INST-270125D6715	7167
 COOLCOM ENTERPRISES LIMITED Data Processor INST-33439680B65	7167
 CORNERSTONE ENTERPRISES PLC Data Controller INST-81759804D7E	7167
 CRAFTON ENTERPRISES LIMITED Data Processor INST-94080699575	7167
+CRM and Enterprise Resource Figure	19728
 CST. Entende	18784
 CST. Entendimento da AGER	18784
 Cambridge Enterprise and Summit Ventures	11128
@@ -124,6 +125,7 @@ Cash Basis for Small Enterprise	14717
 Category A Enterprise	12894
 Censorship and Entertainments Control Act	6951
 Center for International Private Enterprise	4750,10147
+Centre ERP Enterprise Resource Planning FAC	19666
 Centre SMEs Small and Medium Enterprises SSB	13295
 Centre for Development and Enterprise CETA	6832
 Charter for Very Small Enterprises	17503
@@ -216,6 +218,7 @@ ENTENTE EN VUE DE COMMETTRE DES	17841
 ENTENTE PREALABLE	16617
 ENTER PREMISES	11976
 ENTERPRISE AND SUPPLIER DEVELOPMENT	11209
+ENTERPRISE ARCHITECTURE	19638
 ENTERPRISE REGISTRATIONS	14840
 ENTERPRISE RISK MANAGEMENT	11131
 ENTERPRISE RISK MANAGEMENT Business Continuity Management	11131
@@ -252,11 +255,17 @@ Ensure State Owned Enterprises	19602
 Ente Nazionale Idrocarburi	15969
 Ente Pú	16855
 Ente Público	16855
-Entebbe	1844,4353,2,8,20,425,1380,320,1036,308,359,2264,7,964,1194,846,4
+Entebbe	1844,4353,2,8,20,425,1380,320,1036,308,359,2264,7,964,1194,846,4,4295,3,1,9,18,51,2,2,54,31
 Entebbe Airport	2675
 Entebbe Airport Smuggling Ring Busted	3955
-Entebbe Expressway	12095
+Entebbe Express Way	19641
+Entebbe Express Way Road Tolls	19660
+Entebbe Expressway	12095,7565
+Entebbe International Airport	19660
+Entebbe International Airport. Overall	19662
+Entebbe MC	19776
 Entebbe Municipality	9388
+Entebbe and Jinja	19746
 Entebbe. The President	6262
 Entel S.A	15471
 Entenda	2816
@@ -274,7 +283,7 @@ Entente	10486,390,2569,2168,69,436,1710,1536
 Entente Directe	3396,7480
 Entente Directe Encadrent	10876
 Ententes	18302
-Enter	1131,2304,807,533,632,269,407,340,360,11,302,207,134,1173,233,1318,48,216,302,244,46,259,587,123,316,374,657,144,1323,2030,181,116,1056,802,637
+Enter	1131,2304,807,533,632,269,407,340,360,11,302,207,134,1173,233,1318,48,216,302,244,46,259,587,123,316,374,657,144,1323,2030,181,116,1056,802,637,139,35
 Enter Data Once	8817,3123
 Enter GeoMaize	11239
 Enter HungerMap Live	15248
@@ -297,7 +306,7 @@ Enterobacteriaceae. Applicable	11269
 Enterobacteriaceae. SANS	11269
 Enteropogon	18304
 Enterpreneurship Development President Dr Patrick Herminie	19179
-Enterprise	448,408,68,360,667,307,451,778,24,387,824,478,666,190,44,493,1815,195,238,127,156,31,82,636,743,1,176,161,22,158,197,530,61,17,400,7,13,86,323,144,643,514,82,67,100,73,50,233,136,155,93,94,568,492,598,627,77,947,386,403,92,234
+Enterprise	448,408,68,360,667,307,451,778,24,387,824,478,666,190,44,493,1815,195,238,127,156,31,82,636,743,1,176,161,22,158,197,530,61,17,400,7,13,86,323,144,643,514,82,67,100,73,50,233,136,155,93,94,568,492,598,627,77,947,386,403,92,234,152
 Enterprise AI	7005
 Enterprise AI Strategy	10343
 Enterprise AML	12297
@@ -306,8 +315,9 @@ Enterprise Agreements Develop and Implement the Zamportal	12453
 Enterprise Analysis Unit	10976,898,7,1,464
 Enterprise Analysis Unit. The Enterprise Surveys	10862,7976
 Enterprise Application Dev. and Enhancement	12917
-Enterprise Architects	6832
-Enterprise Architecture	4126,1407,3070,521,1661,399,802,373,94,464,428,642,454,1099,1345,39,1586
+Enterprise Architects	6832,12806
+Enterprise Architects and Modellers	19638
+Enterprise Architecture	4126,1407,3070,521,1661,399,802,373,94,464,428,642,454,1099,1345,39,1586,1128
 Enterprise Architecture DGov	9237
 Enterprise Architecture DSUB Electronic Business	1009
 Enterprise Architecture Data Capturing Template	9124
@@ -320,6 +330,7 @@ Enterprise Architecture Governance	12359
 Enterprise Architecture Governance Background Management	12359
 Enterprise Architecture Governance Framework	12359
 Enterprise Architecture Model	13600,2
+Enterprise Architecture Modelling Language ArchiMate	19638
 Enterprise Architecture Practice	12359
 Enterprise Architecture Principles	12359
 Enterprise Architecture Standards	9124,10451
@@ -364,7 +375,9 @@ Enterprise Readiness Level	16212
 Enterprise Resource Management	15659,310
 Enterprise Resource Management Suite	19584
 Enterprise Resource Management Suite Payroll Module	19584
-Enterprise Resource Planning	3051,491,4445,683,1249,3134,367,571,194,339,22,192,4483
+Enterprise Resource Planning	3051,491,4445,683,1249,3134,367,571,194,339,22,192,4483,418,89
+Enterprise Resource Planning ESA Enterprise Security	19660
+Enterprise Resource Planning Email	19639
 Enterprise Resource Planning System. Known	14738
 Enterprise Resource Systems	12612
 Enterprise Ressource Planning	17882
@@ -378,7 +391,7 @@ Enterprise SNCC Guinea’s National Climate Change	1264
 Enterprise SWOC Strengths	12973
 Enterprise Satellite Connectivity	12766
 Enterprise Service	12214
-Enterprise Service Bus	1814,2795,7605,900,3486
+Enterprise Service Bus	1814,2795,7605,900,3486,3239
 Enterprise Service Bus Farmer Input Support	12453
 Enterprise Services	3487
 Enterprise Services Bus	12419
@@ -508,8 +521,9 @@ Gov Enterprise Architecture I-2	10785
 Governance of Enterprise IT CISSP Certified Information	18531
 Government Authority DevSecOps Enterprises Resource Planning	19575
 Government Cloud and Enterprise Service	359
-Government Enterprise Architecture	963,321,3780,1294,2250,236,3108,1379,1110,84,3834,264,622,265
+Government Enterprise Architecture	963,321,3780,1294,2250,236,3108,1379,1110,84,3834,264,622,265,128
 Government Enterprise Architecture Framework	5994,11286,114
+Government Enterprise Architecture. TOGAF	19638
 Government Enterprise Service Bus	4612,140,8584,10,977,5210,49,23
 Government Enterprise Service Bus and Secure	19576
 Government Enterprise and Empowerment Programme	5267
@@ -566,6 +580,7 @@ Information Sanitaire ERP Enterprise Resource Planning	13306
 Information System Enterprise CIT Corporate Income	14897
 Innovation and Enterprise	11857
 Institute’s Enterprise Program	17235
+Institutional Enterprise Architecture	19639
 Institutional Support for Medium Small and Micro Enterprises	13123
 Instruction Enter	17011
 Insurance Industry Act. Public Enterprises Evaluation	12598
@@ -601,7 +616,7 @@ LE CONSEIL DES MINISTRES ENTENDU L’ASSEMBLEE	18101
 LOMPO UPEI UNIVERSITE PRIVEE ENTENTE INTERNATIONALE	18170
 Legal Status of Business Enterprises	12445
 Liberia Enterprise Development Finance Company	17235
-Local Enterprise Authority	12540
+Local Enterprise Authority	12540,7111
 Local Enterprise Authority MSME	12540
 Low Income. Introduction The Enterprise Surveys	11882
 Lower Middle Income Introduction The Enterprise	11874
@@ -622,6 +637,7 @@ Market Power SOE State-Owned Enterprises SSA	16942
 Marriage SMEs Small and Medium Enterprises SMS	2775
 MdE Memorandum de Entendimento MINSA Ministério da Saúde	11376
 Median Enterprises. The EPS	11134
+Medical Record System ERP Enterprise Resource	19667
 Medium Enterprise	12977
 Medium Enterprise Development and Infrastructure	1988
 Medium Enterprise HFO HHI IK IPP	12256
@@ -630,7 +646,7 @@ Medium Enterprise Nigeria Health Sector Renewal	11468
 Medium Enterprise SMME Small Medium-Micro Enterprise	11250
 Medium Enterprise SRMI Sustainable Renewables Risk	11549
 Medium Enterprise TSC Teachers Service Commission	7548
-Medium Enterprises	940,30,4274,489,150,452,2079,1438,1128,1321,699,72,39,270,93,1072,1731,372,293,2652
+Medium Enterprises	940,30,4274,489,150,452,2079,1438,1128,1321,699,72,39,270,93,1072,1731,372,293,2652,56,151
 Medium Enterprises Development Agency	13256,2889,629
 Medium Enterprises Government Institutions Citizens X	12376
 Medium Enterprises MS Microsoft NACIT National	12917
@@ -665,7 +681,7 @@ Message Structures Service Point Application Enterprise	21
 Methane Reduction and Climate Contribution Enteric	14818
 Micro Enterprises	7759,3437,1927
 Micro Small and Medium Enterprise MTF Multi-tier	15515
-Micro Small and Medium Enterprises	279,12001,4581
+Micro Small and Medium Enterprises	279,12001,4581,2851
 Micro and Medium Enterprises	12425
 Micro and Small Enterprises	18847
 Micro and Small Enterprises Act	7548
@@ -815,6 +831,7 @@ SOE State Owned Enterprise SSA Sub-Saharan	11545
 SOE State-Owned Enterprise I. INTRODUCTION	13060
 SOE State-Owned Enterprise SPAUT Sistema de Pagamentos	18825
 SOE State-Owned Enterprise STEP Systematic Tracking	6539
+SOE State-owned Enterprise	19847
 SOE State-owned Enterprise SSA Sub-Saharan Africa	18931
 STATE ENTERPRISE RESTRUCTURING AGENCY	13420
 STP 2025 WBES v01 M Title World Bank Enterprise Survey	18838
@@ -841,7 +858,7 @@ Small Enterprise Assistance Funds	19390
 Small Enterprise Development Finance Agency	8458
 Small Enterprise Development and Finance Agency	13269
 Small Enterprise Development and Finance Agency. Mamor	14708
-Small Enterprises	10980
+Small Enterprises	10980,8732
 Small Enterprises Development Company	9157,40,108,118,3649
 Small Enterprises Loan Fund JEEVA	19584
 Small Enterprises and Handicraft Development Authority	14721
@@ -856,9 +873,10 @@ Small and Medium Enterprise Development	13391,294
 Small and Medium Enterprise Development Corporation	13122
 Small and Medium Enterprise Development and Infrastructure	1778,210
 Small and Medium Enterprise MSME Mobile Transfer	17235
+Small and Medium Enterprise NDP National Development	19646
 Small and Medium Enterprise NaFAA National Fisheries	17139
 Small and Medium Enterprise SDM Single Digital	16144
-Small and Medium Enterprises	940,30,161,117,16,724,1772,768,1355,1063,157,445,1122,447,12,294,1433,194,81,134,1217,30,189,37,184,34,22,144,190,2,129,242,339,175,347,101,27,223,656,890,97,598,1922
+Small and Medium Enterprises	940,30,161,117,16,724,1772,768,1355,1063,157,445,1122,447,12,294,1433,194,81,134,1217,30,189,37,184,34,22,144,190,2,129,242,339,175,347,101,27,223,656,890,97,598,1922,652,97,17
 Small and Medium Enterprises Act	14843
 Small and Medium Enterprises Develop	14717
 Small and Medium Enterprises Development	940,6496,825,3041,2289,82
@@ -888,7 +906,7 @@ Small and Medium-Sized Enterprises State Parties	15641
 Small and Medium-Sized Enterprises and Clients	10718
 Small and Medium-sized Enterprise Africa MTO Money	12444
 Small and Medium-sized Enterprise SSS Securities Settlement	14997
-Small and Medium-sized Enterprises	7734,3298,962,406,2350,69,2123,159,1159
+Small and Medium-sized Enterprises	7734,3298,962,406,2350,69,2123,159,1159,1468
 Small and Medium-sized Enterprises MSPLS Ministry of Public	13312,2
 Small and Medium-sized Enterprises NCFI National Council	7763
 Small and Medium-sized Enterprises Programme	10510
@@ -928,7 +946,7 @@ State-Owned Enterprise Reform Task Team	11131,3
 State-Owned Enterprise Reforms	16944
 State-Owned Enterprise SOP Standard Operational Procedure	17105
 State-Owned Enterprise SSA Sub-Saharan Africa TB	11271
-State-Owned Enterprises	6071,1624,2374,82,475,505,3,90,1374,370,92,625,183,678,190,17,75,2,1,316,836,959,9,188,89,32,633,607,77,1025
+State-Owned Enterprises	6071,1624,2374,82,475,505,3,90,1374,370,92,625,183,678,190,17,75,2,1,316,836,959,9,188,89,32,633,607,77,1025,221
 State-Owned Enterprises Commission	4519,24,12583,20
 State-Owned Enterprises Commission Updates President Barrow	17124
 State-Owned Enterprises Reform	13685
@@ -975,6 +993,7 @@ Trend of Business Enterprises	12445
 TÍTULO VII DEL ENTE PÚBLICO	16855
 UNIES DE BONNE ENTENTE	15488
 UNIVERSITE PRIVEE ENTENTE INTERNATIONALE	18170
+Uganda Digital Health Enterprise Architecture	19667
 Uganda. Enterprise Dev Microfinan	12231
 University of Botswana Enters VR Space	5852
 Unreliable Enterprise Resource Planning System	14546
@@ -984,6 +1003,7 @@ Veritas Enterprise Vault	13185
 Very Small Enterprises	10980
 Vodacom Lesotho Satellite Broadband Solution for Enterprises	12766
 WB Enterprise Surveys Benin	1400
+Welfare and Entertainment	19641,100
 Women Enterprise Development Fund	3583,13522
 Women Enterprise Development Fund Bill	3583
 Women Enterprise Fund	2775,808,8411,4957,277

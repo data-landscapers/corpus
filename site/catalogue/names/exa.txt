@@ -7,6 +7,7 @@ AVALIAÇÃO DO RECÉM-NASCIDO Examinou	10760
 Add Additional EX189-SEC Exagrid	11209
 Administration and Management of Examinations	13477
 Africa Examining	4442
+Africa. Examples	19657
 Amateur Radio Examination US	736
 Amount-quality Exact	16655
 Annual Examples	15164
@@ -62,7 +63,7 @@ Directeur des Examens	16485
 Direction Générale des Examens	10847
 Direction Nationale des Examens	18911
 Direction des Examen	15936
-Direction des Examens	15936
+Direction des Examens	15936,3899
 Director ICT The Examinations Council of Zambia	13477
 Directorate of Examinations of MEPPSA	11905
 Directorate of National Examinations and Assessment	12345
@@ -148,7 +149,7 @@ Exames Efectuados	18768
 Exames da Avaliação Externa	15772
 Examina	18802
 Examinar	1701,9748,3942,3397,12
-Examination	3,8351,1842,2031,402,346,168,168,74,92,1193,536,1396,298,1664,361,659,1
+Examination	3,8351,1842,2031,402,346,168,168,74,92,1193,536,1396,298,1664,361,659,1,229
 Examination B.Sc. Bachelor of Science CAP Common	18578
 Examination BoG Board of Governors CAPI Computer	18460
 Examination Centre	13477
@@ -159,7 +160,7 @@ Examination Fee	12977
 Examination Malpractice Section	13477
 Examination Pass Rates	13399
 Examination PhD. Ed. Doctor of Philosophy	18460
-Examination Results	13477
+Examination Results	13477,6225
 Examination Security Heightens	13477
 Examination WEF World Economic Forum	16876
 Examination Year	13477
@@ -167,7 +168,7 @@ Examination of Nationality Certificates	18595
 Examination of Nationality Certificates Guidelines	18595
 Examination of Naturalization Certificates	18595
 Examination of Naturalization Certificates Guidelines	18595
-Examinations	736,3874,8533,334,1359
+Examinations	736,3874,8533,334,1359,4854
 Examinations Council of Eswatini	12975
 Examinations Council of Zambia	13477
 Examinations Council of Zambia Act No	13477
@@ -240,11 +241,12 @@ Example of Rural Addresses	11129
 Example of Rural Addressing	11129
 Example of Urban Addressing	11129
 Example. The Kenya Social Security Agency	14524
-Examples	21,375,36,1,149,379,9,39,252,553,14,160,901,762,210,265,484,15,347,468,158,67,35,453,386,54,121,874,162,1,532,153,563,124,1591,51,10,4,33,7,27,131,30,133,9,47,2,347,27,158,188,34,4,38,1,6,22,67,120,19,24,3,46,26,11,20,60,23,3,89,125,15,267,181,129,47,12,2,2,17,16,14,20,151,92,314,53,443,90,146,53,96,239,27,44,32,3,80,98,105,26,7,124,55,485,700,23,5,4,48,15,3,21,48,26,31,46,2,24,17,103,610,14,314,289,400,44,306,297,21
+Examples	21,375,36,1,149,379,9,39,252,553,14,160,901,762,210,265,484,15,347,468,158,67,35,453,386,54,121,874,162,1,532,153,563,124,1591,51,10,4,33,7,27,131,30,133,9,47,2,347,27,158,188,34,4,38,1,6,22,67,120,19,24,3,46,26,11,20,60,23,3,89,125,15,267,181,129,47,12,2,2,17,16,14,20,151,92,314,53,443,90,146,53,96,239,27,44,32,3,80,98,105,26,7,124,55,485,700,23,5,4,48,15,3,21,48,26,31,46,2,24,17,103,610,14,314,289,400,44,306,297,21,95,7,144,25
 Examples Keywords Base Map Base Maps	18904
 Examples for Section	8530
 Examples of Bid	14778
 Examples of Big Data	19519
+Examples of Concrete Poles	19745
 Examples of Data	14434
 Examples of Digital Businesses	14897
 Examples of G2P	11130
@@ -323,6 +325,7 @@ Kenya Accountants and Secretaries National Examination Board	14546
 Kenya Core IG. Examples	10100
 Kenya Institute of Supplies Examination Board	14546
 Kenya National Examinations Council	899,3084,2963,7600
+Key Takeaways Examination	19814
 LE CONSEIL A EXAMINE ET ADOPTE	19050
 LISTÉ DANS Exactement	13300
 La Direction Nationale des Examens	19164
@@ -439,6 +442,7 @@ Technical Examinations Unit	258
 Trade Mark Examiner	10358
 UMR Espace-Dev. Example	14506
 USED INTERCHANGEABLY. FOR EXAMPLE	14816
+Uganda National Examinations Board	19776,38
 Vehicle Examination Centre	14753
 Vehicle Examination Station. With the Axle	14753
 Vehicle Examiner	14770

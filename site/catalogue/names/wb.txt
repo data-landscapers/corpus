@@ -30,7 +30,7 @@ DDI Document ID DDI MRT 2024 FINDEX v01 M WB Producers Date	17925
 DDI Document ID DDI SDN 2025 WMS-R4 v01 M WB Producers Date	15024
 DDI Document ID DDI STP 2025 WBES v01 M WB Producers Date	18838
 Data Processing The WBES	10862
-Democracy Institute ENACT ENACT Africa WB	10835,3,130,902,16,466,1,135
+Democracy Institute ENACT ENACT Africa WB	10835,3,130,902,16,466,1,135,7334
 Development Programme WBG World Bank Group	3604
 Dialogue WBG World Bank Group PPIAF	14897
 Digital Cabo Verde Project’. The WB	11863
@@ -164,7 +164,7 @@ WB Environmental	1988
 WB Ethiopia Digital ID for Inclusion and Services	1260,30,9542,54
 WB Findex	14897
 WB Fiscal	3604,7813,488,4239,1314
-WB Fiscal Year	969,295,603,8901,61,135,416,180,295,1476,1,1605,39,515,24,106,38,2,82,1206,1344,946,6
+WB Fiscal Year	969,295,603,8901,61,135,416,180,295,1476,1,1605,39,515,24,106,38,2,82,1206,1344,946,6,398,192,12
 WB Fiscal Year Annual	15658
 WB Fiscal Year Annual Cumulative	15553
 WB Fund	19613
@@ -189,9 +189,10 @@ WB July15	13392
 WB Migration and Remittances	14897
 WB Monthly Component	13392
 WB Morocco	17458
-WB N	12195
+WB N	12195,7655
 WB Nigeria	3456
 WB P180495 DRC Digital Transformation Project	2126
+WB PAMAP	19839
 WB PforR	1573
 WB Policies	15514
 WB Policy	18370
@@ -219,6 +220,7 @@ WB World Bank WCR West Coast	17105
 WB World Bank WDQMS WMO Data	18578
 WB World Bank WFP World Food	15731
 WB World Bank WHO World Health	16860
+WB World Bank WIPO Worldwide Intellectual	19642
 WB World Bank WoG Whole-of-Government WoS	18454
 WB and Government	13392,2312
 WB and MoE	13378,14
@@ -312,6 +314,7 @@ WBG TA	14897
 WBG Targets and Jobs	12443
 WBG Targets and Jobs Merankabandi	13592
 WBG World Bank	11965,4957,313
+WBG World Bank Group	19847
 WBG World Bank Group Regional Vice	18851
 WBG World Bank Group WEF World	11380
 WBG World Development Indicators	13314

@@ -32,6 +32,7 @@ ANÁLISE DE RISCO	17093,448
 APPROCHE GLOBALE DE GESTION DES RISQUES	10906
 ASYCUDAWorld Risk Management	15478
 AUDIT AND RISK MANAGEMENT COMMITEE OUTSOURCED	11198
+Abbreviations ARMC Audit and Risk Management Committee	19666
 Absence of Formal IT Risk Assessment Processes	19584
 Access and Use of Disaster Risk Information for Early	19520
 Accountability and Basic Risk Evaluation	11956
@@ -75,6 +76,7 @@ Angola Risk Profile	10763
 Annex I Active Risk Log	12241
 Annex III. Risk Assessment Matrix	13868
 Annual Vendor Lock-in Risk Audit	6432
+Anti-corruption& Risk	19735
 Anticipat Risk Impact Mitigation Impact	1988
 Análise de Risco	17093
 Applicable Audit Risk and IT Remuneration	11134
@@ -84,6 +86,7 @@ Approval Risk Category Approval Package	4688
 April. CONTROL RISK H S Overall	15659
 Area Observed Weakness Indicator Asset Risk	19585
 Area of Flood Risk Ranks Id Rank	17157
+Articulate Information Risk Appetite	19801
 Assessing Risk Vaccin	14622
 Assessment and Management of E&S Risks and Impacts	1264
 Assessment and Reduction of Adaptation Risks	19245
@@ -95,7 +98,7 @@ Asset and Risk Management Tier	10721
 Assigning the Appropriate Risk Classification	17114
 Audit Committee and Risk	11250
 Audit Management Solution Board Audit Risk	17235
-Audit and Risk Committee	13053,1715,255
+Audit and Risk Committee	13053,1715,255,4689
 Audit and Risk Committee MEMBER	13053
 Audit and Risk Committee The Audit and Risk	12969,1775
 Audit and Risk Committee. Monetary Policy Committee	14744
@@ -142,6 +145,7 @@ Board RISE Tanzania Roads	19585
 Board Risk and IT Committee	11134
 Board Risk and IT Committee. Project Achievements	11134
 Board Risk and IT Committee. The Committee	11134
+Board-level Information Risk Owner	19801
 Board. Audit and Risk Board Committee	15023
 Board’s Audit and Risk Committee	15023
 Broadband Risks Management and Mitigation Strategies	16884
@@ -183,6 +187,7 @@ CRC Central de Riscos de Crédito	18825
 CREDIT RISK TICK LIMITED Data Processor	7167
 CREWS Climate Risk Early Warning Systems	17962
 CREWS Climate Risk and Early Warning System	19245
+CRM Compliance Risk Management	19847
 CRM-AR.S3 Risk Management Tier	10721
 CYBER RISK MANAGEMENT	10721
 Cabo Verde Rising	3527,26
@@ -219,7 +224,7 @@ Classification of Risks	17114
 Climate Change Risks	13331
 Climate Change Risks Linked	13331
 Climate Change Risks and Vulnerabilities	10829
-Climate Change and Disaster Risk	16949
+Climate Change and Disaster Risk	16949,2876
 Climate Change-Related Disaster Risk Events	19284
 Climate Hazard and Risk Screening	15659
 Climate Related Risks and Project Related Adaptation	15553
@@ -262,7 +267,7 @@ Community Health and Safety Risks	17114
 Comoros Climate Risk Country Profile	13813
 Compliance Gaps and Financial Integrity Risks	4848
 Compliance Risk	13053
-Compliance Risk Management	13624,3320
+Compliance Risk Management	13624,3320,2903
 Compliance Risk Management Directorate. All	12500
 Compliance Risk Management Framework	11140,1360,4468
 Compliance Risk Management Plan	11134
@@ -518,7 +523,7 @@ Enterprise Risk Management The Enterprise Risk	11134
 Enterprise-Wide Risk Manage	13053
 Enterprise-Wide Risk Management	13053
 Enterprise-wide Risk Management Framework	12920
-Environmental And Social Risk Classification	13787,1167,1700
+Environmental And Social Risk Classification	13787,1167,1700,3009
 Environmental And Social Risk Classification Moderate	2291,12285,4831
 Environmental And Social Risk Classification Substantial	1704,1752
 Environmental Risk	15553
@@ -528,7 +533,7 @@ Environmental Risk Rating Low	11965
 Environmental Risks	1814,10575,4710
 Environmental and Social Risk	1988,14961,165,1256
 Environmental and Social Risk Categorization	15011
-Environmental and Social Risk Classification	761,2801,42,8361,255,168,24,14,243,1065,9,113,159,895,27,39,121,93,592,250,261,105,2411,475
+Environmental and Social Risk Classification	761,2801,42,8361,255,168,24,14,243,1065,9,113,159,895,27,39,121,93,592,250,261,105,2411,475,563
 Environmental and Social Risk Classification Concept Review	13111,2402,37,1125
 Environmental and Social Risk Classification Investment	15621,122
 Environmental and Social Risk Classification Substantial	15658
@@ -577,7 +582,7 @@ Final Risk Level Calculated	17157
 Financial Engineering and Risk Management	12972
 Financial Products and Services Risk Ma	7763
 Financial Resource Risk Table	13053
-Financial Risk	11240,1208
+Financial Risk	11240,1208,7194
 Financial Risk Analyst	6938
 Financial Risk Financial	11134
 Financial Risk The Business Continuity Management	11131
@@ -696,6 +701,7 @@ Human Capital Risk Management Human Capital	11134
 Human Capital Risks	12500
 I Plano Nacional de Comunicação de Risco	15966
 ICT Risk	13053
+ICT Risk Management	19801
 ICT Risk Management Policy	15164
 ID Risques	15720
 IDA Grant. Environmental And Social Risk	13793
@@ -714,6 +720,7 @@ INGD Mozambique's National Institute for Disaster Risk	9484
 INHERENT RISK H S Budgeting Elaboration	15659
 INHERENT RISK High Substantial Country	15661
 INHERENT RISK M M Budgeting Delay	15411
+INSPECTION DEPARTMENT RISK	19712
 INTEGRATION RISKS	11156
 INTEGRATION RISKS MARKET	11156
 INVESTMENT PLANNING AND CLIMATE RISK MANAGEMENT	18036
@@ -766,6 +773,9 @@ Increased Investment Risk	11310
 Indicative Risk Tiers	14565
 Inform Risk Index	18578
 Information Géospatiale. Risques	17983
+Information Risk Appetite Statement	19801
+Information Risk Owner	19801
+Information Security Risk Management Lifecycle	19801
 Information Sharing and Risk Mitigation ASSL	18500
 Information Systems IT Architecture and Projects Risk	15023
 Inherent Risk	11153
@@ -799,11 +809,14 @@ Intrinsic Risk Worksheet Tool	11156
 Intrinsic Risks	11156
 Introducing the Children's Climate Risk Index	3583
 Investment Project Financing Environmental and Social Risk	15553
+Investment Project Financing. Environmental and Social Risk	19835
+Investment Risk Reserve	19564
 IoT Services RISA RISA RISA Digital	12359
 Issue Risk	11401
 J Risk Uncertain	10780
 JOURNAL DES RISQUES	15722
 Jan-24 Risk Treatment	12241
+Jobs. SYSTEMATIC OPERATIONS RISK-RATING TOOL	19643
 Journal of Risk and Financial Management	7759,4
 Jr. DIRECTOR DIRECTOR DIRECTOR DIRECTOR Risk	17235
 Jul-2022 Environmental and Social Risk Classification	4653
@@ -825,7 +838,7 @@ Key Risk Factors	14565
 Key Risk Indicator	17235
 Key Risk Indicators	15023,2212
 Key Risk Management Strategies	14761
-Key Risks	1818,11641,3801
+Key Risks	1818,11641,3801,2383
 Key Risks IV. Appraisal Summary V	13734
 Key Risks Indicators	16884
 Key Risks and Challenges Risk Area Description	15845
@@ -974,6 +987,7 @@ NCD Risk	17289
 NCD Risk Factor Surveillance	16896,26
 NCSA RISA	1204
 NHIS Bill. III. KEY RISKS	16896,26
+NISF Risk Management Manual Provides	19801
 NISR and RISA	15034
 NIST AI Risk Management Framework	7451,832
 NPS. Risks	12537
@@ -1030,6 +1044,7 @@ O Risco Ambiental	11390
 O Serviço de Gestão de Risco	15526
 OECD's Digital Security Risk Management. Mauritius	14752
 OPERATORS Implementing Risk	1000
+OPM's Disaster Risk Coordinating	19741
 OPORTUNIDADES E RISCOS	2816
 OUTLOOK AND RISKS	13868,3341,48,69,177,406,81,833
 OUTLOOK AND RISKS 10 PROGRAM DISCUSSIONS	17909
@@ -1052,11 +1067,14 @@ Only Environmental Risk Rating Social Risk	19284
 Openserve and Frogfoot Rise	10735
 Operating Environment and Emerging Risks	11134
 Operation Document SYSTEMATIC OPERATIONS RISK- RATING	3562
+Operation Document. SYSTEMATIC OPERATIONS RISK-RATING TOOL	19847
 Operational Procedures PDO Operational Risk Assessment	15424
+Operational Risk	19642
 Operational Risk Assessment Framework	15372,52,2017,1446
 Operational Risks	1554,10802
-Operational and Risk Management	11553,6756,269,209
+Operational and Risk Management	11553,6756,269,209,875
 Opportunities Risks Digital Start-up	14897
+Organizational Risk	19642
 Organize and Apply System of Tripartite Risk Mitigation	16876
 Os Riscos	17093
 Outlook Building High Rise Office Tower	11134
@@ -1259,7 +1277,7 @@ RISK COMMITTEE The Research Council of Zimbabwe	1554
 RISK Country	15518
 RISK GOVERNANCE FRAMEWORK THE BANK RISK	15023
 RISK IN BURKINA FASO	15743
-RISK MANAGEMENT	11218,6,1220,315,294,1720,2105
+RISK MANAGEMENT	11218,6,1220,315,294,1720,2105,2764,22
 RISK MANAGEMENT AND CONTINGENCY PLANNING	5245
 RISK MANAGEMENT AND GOVERNANCE	14546
 RISK MANAGEMENT AND GOVERNANCE Basis for Conclusion	14546
@@ -1308,6 +1326,7 @@ ROL Employee Portal RISA RISA RISA	12359
 ROL RISA	12359
 RRA RISK MANAGEMENT APPROACHES	14985
 RRA Risk Management Approaches	14985
+RTP Risk Treatment Plan SCADA Supervisory	19801
 RURA BNR Notification Gateway RISA RISA	12359
 Radio Risaala	15007
 Raise Implementing Risk	1000
@@ -1344,7 +1363,7 @@ Reshape Rise	13673
 Reshaping the Modern SOC Risk Management Framework	3279
 Residual Rating Project Design Risk Inherent	18887
 Residual Rating Project Design Risk Internal	18887
-Residual Risk	11153
+Residual Risk	11153,8648
 Residual Risk Rating Project Design Inherent	18887
 Residual Risk Rating Project Design Internal	18887
 Resource Risk	12448
@@ -1381,7 +1400,7 @@ Rise Of Merchant Super-Apps	8107
 Rise Science	8764
 Rise Up Association	19140
 Rise Worldwide	9830
-Rise of Artificial Intelligence	9511
+Rise of Artificial Intelligence	9511,10217
 Rise of Data and Robotics	19555
 Rise of Extractive Practices	3810
 Rise of Mobile Money Services	10841
@@ -1429,7 +1448,7 @@ Risk Analysis	17157
 Risk Analysis and Contingency Planning Conduct	16963
 Risk Analysis and Mitigation	3058
 Risk Analysis and Objective Criteria Risk Analysis	11240
-Risk Appetite	12241,839
+Risk Appetite	12241,839,6721
 Risk Area Description Potential Impact Recommended	15845
 Risk Areas	19585
 Risk Areas Risk Areas No. of Recommendations	19585
@@ -1524,12 +1543,12 @@ Risk Local	15342
 Risk Log	12241,839
 Risk Log OPEN	13095
 Risk M	9123
-Risk Management	1988,1001,498,1041,717,1187,514,602,3173,410,3,6,48,10,33,19,2,217,526,361,33,55,68,134,29,242,34,16,84,2,328,804,551,8,1,1,1,13,1,67,3,192,11,444,1469,16,272,801,517
+Risk Management	1988,1001,498,1041,717,1187,514,602,3173,410,3,6,48,10,33,19,2,217,526,361,33,55,68,134,29,242,34,16,84,2,328,804,551,8,1,1,1,13,1,67,3,192,11,444,1469,16,272,801,517,1098,13,48,89
 Risk Management Activities	10721
 Risk Management Activities C.1 What Borrower	18374
 Risk Management Approach The Bank	11134
 Risk Management CRM-AR.S4	10721
-Risk Management Committee	14761,74
+Risk Management Committee	14761,74,4877
 Risk Management Committee Members	11218
 Risk Management Consultancy for EARDIP Somalia	15003
 Risk Management Consultancy for EARDIP Somalia. Mogadishu	15003
@@ -1553,6 +1572,7 @@ Risk Management Matrix Table	16943
 Risk Management Model	16212
 Risk Management Objective	11134
 Risk Management Officer	12162,815
+Risk Management Organizations	19801
 Risk Management Plan	16943
 Risk Management Plan Strategic	16943
 Risk Management Planning	18787
@@ -1565,6 +1585,7 @@ Risk Management Senior Officer. Publication Details	12162
 Risk Management Strategy	15478
 Risk Management Strategy GC-RM.S1	10721
 Risk Management Support System	11285
+Risk Management System	19712
 Risk Management The Participants	12364
 Risk Management Tier	10721
 Risk Management and Compliance	12491,882
@@ -1588,10 +1609,13 @@ Risk Management and Mitigation Measures	17116
 Risk Management and Mitigation Measures Key	17116
 Risk Management and Mitigation Requirements	12365
 Risk Management and Mitigation Strategies The Philosophy	4528,7984
+Risk Management and Proportionality	19801
+Risk Management and Proportionality Security	19801
 Risk Management for Simplified Declaration	15478
 Risk Management for System Failure	9855
 Risk Manager	13902
 Risk Managers	8603
+Risk Mapping	19712
 Risk Mapping Combine	17157
 Risk Matrix	12241,839,2050,1984
 Risk Matrix and Mitigation Medium	16943
@@ -1611,6 +1635,8 @@ Risk Modelling Customer Onboarding	4848
 Risk Monitoring	12356,621
 Risk Officers	7123
 Risk Owner	13080
+Risk Owners	19801
+Risk Performance Monitoring and Reporting	19712
 Risk Policy	1554
 Risk Probability Impact Risk	16858
 Risk Procurement Monitoring and Evaluation	2989
@@ -1624,7 +1650,7 @@ Risk Rating Risk-Mitigation Measures Conditions for Residual	3604
 Risk Rating The Overall KSEIP	14487
 Risk Ratings Summary Stakeholder Risk High	17441
 Risk Reduction	14738
-Risk Register	1154,6394,3608,1764,1915
+Risk Register	1154,6394,3608,1764,1915,4966
 Risk Register RESPONSIBLE Programme	11156
 Risk Register Tool	11156
 Risk Register. Risks	1554
@@ -1651,8 +1677,10 @@ Risk Sharing	6947
 Risk That Decides Where AI	11310
 Risk The MT	5482
 Risk Tiers	14565,1647
+Risk Tolerance	19801
 Risk Treatment	12241
 Risk Treatment Owner	12241,839,15
+Risk Treatment Plan	19801
 Risk Treatment and Treatment Owner	13080
 Risk Trend	13053
 Risk Valid	13080
@@ -1661,11 +1689,12 @@ Risk Zoning Rainfall Variability	17157
 Risk and Accountability. Accessed	6947
 Risk and Audit Committee	11798
 Risk and Audit Services	11198
-Risk and Compliance	10268,863,2401
+Risk and Compliance	10268,863,2401,6212
 Risk and Compliance ICT Information Communication Technology	12359
 Risk and Compliance Management Department	11131
 Risk and Compliance Office	11134
 Risk and Contingency Planning	16963
+Risk and Control Self Assessment for UNBS	19712
 Risk and Crisis Management	12537
 Risk and Cybersecurity Management	11134
 Risk and Disaster Management	19131
@@ -1737,7 +1766,7 @@ Risk-sensitive Budget Review. Available	19520
 Risk-sharing	12297,4938
 Risk3 Risk Risk Mitigating Measures Conditions	15372
 Risking	9642
-Risks	704,1,84,125,1,1,1,1,1,1,1,1,1,38,1,8,571,2,11,260,53,358,1,323,228,181,204,442,257,23,243,401,1005,144,1871,406,886,397,1592,32,210,60,5,2,18,369,330,284,373,25,795,49,39,112,149,187,70,627,36,334,94,13,96,234,39,107,143,2,62,1159,42,1,22,17,30,15,88,6,9,43,52,26,22,3,243,367,13,26,62,19,380,103,2,56,261,31,28,36,46,304,170,126,42
+Risks	704,1,84,125,1,1,1,1,1,1,1,1,1,38,1,8,571,2,11,260,53,358,1,323,228,181,204,442,257,23,243,401,1005,144,1871,406,886,397,1592,32,210,60,5,2,18,369,330,284,373,25,795,49,39,112,149,187,70,627,36,334,94,13,96,234,39,107,143,2,62,1159,42,1,22,17,30,15,88,6,9,43,52,26,22,3,243,367,13,26,62,19,380,103,2,56,261,31,28,36,46,304,170,126,42,226,34
 Risks Being Left Out INGOs	6947
 Risks Despite	19533
 Risks Evaluation	17114
@@ -1760,6 +1789,7 @@ Risks Still Remain	6397
 Risks Systematic Operations Risk-rating Tool Risk	15619
 Risks You Should Be Aware	12379
 Risks and Adaptation Opportunities	15659
+Risks and Challenges	19650
 Risks and Challenges As Zambia	13532
 Risks and General Situation	14016
 Risks and Impacts	1988,16382
@@ -1768,7 +1798,7 @@ Risks and Impacts Relevant Relevant ESS2-Labor and Working	1988
 Risks and Impacts The Additional Financing	19284
 Risks and Impacts and Mitigation Measures	1988
 Risks and Impacts and Mitigation Measures Impacts	1988
-Risks and Mitigation	11468
+Risks and Mitigation	11468,8247
 Risks and Mitigation Environmental	16776
 Risks and Mitigation Measures	11905
 Risks and Mitigation Measures Corporate Risk Impact	13053
@@ -1794,10 +1824,11 @@ Risks of Synthetic Data	3810
 Risks of Using DFS Nature Impact High-speed	17870
 Risks. Annexes	18948
 RisksÂ	18887
+Risky	19755
 Risky Gamble	14932
 RiskÂ CategoryÂ RiskÂ RatingÂ RiskÂ DescriptionÂ	18887
 Rismayatika	14941
-Risque	1005,9374,495,160,2266,1123,1,1,4,51,8,1,1,132,749,122,87,356,392,300
+Risque	1005,9374,495,160,2266,1123,1,1,4,51,8,1,1,132,749,122,87,356,392,300,3059
 Risque Blocage	16328
 Risque Description Conséquence Application	16328
 Risque Non-respect	16328
@@ -1853,7 +1884,7 @@ STRUCTURAL SOURCES OF RISK	11156
 STRUCTURE RISKS Data	11156
 SUBSTANTIAL Risk Treatment Owner	12241
 SYSTEMATIC OPERATIONS RISK- RATING TOOL	1264,603,1737,2935,4229,649,143,4098,3,82,2455,611,436,39
-SYSTEMATIC OPERATIONS RISK-RATING TOOL	969,315,9545,135,416,145,330,110,1366,1,1858,301,62,68,777,498,26,1371,8,782
+SYSTEMATIC OPERATIONS RISK-RATING TOOL	969,315,9545,135,416,145,330,110,1366,1,1858,301,62,68,777,498,26,1371,8,782,746
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Last Approved	16705
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Rating	2712,1976,6707,6509,630,258
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173,587,31,862,1060,51,128,576,2,276,66,915,6,79,17,374,35,453,48,127,217,4,1,462,165,260,7,232
@@ -1877,6 +1908,7 @@ Sector Growth and Risk Patterns Digital	13532
 Sector Risk Intelligence	11840
 Sectoriels Risques	15580
 Security RISA RISA RISA Operation	12359
+Security Risk Appetite	19801
 Security Risk Assessment	783,10046,6285
 Security Risk Assessment Management Framework	14912
 Security Risk Assessment Regularly	12359
@@ -1946,6 +1978,7 @@ Statistics South Africa Risenga Maluleke Report	11258,28
 Step Toward Liberia Rising	16949
 Sterling Bank Nigeria Risk	11469
 Stochastic Environmental Research and Risk Assessment	17157
+Strategic Risk	19642
 Strategic Risk Assesment Strategy Implementation	13532
 Strategic Risk Indices	5141
 Strategic Risks	12356
@@ -1979,6 +2012,7 @@ Supply Chain Risk Management	14921
 Supply Chain Risk Management GC-SCRM.S1	10721
 Supply Risks Cloud the Outlook	4769,394,334,86
 Supply of Risk Capital	12540
+Supply-Chain Risk	19801
 Support Subprojects Risk	1988
 Sustainability Performance Against Strategy Risk Management	9103
 Sustainability and Climate-related Risks and Opportunities	9103
@@ -2016,7 +2050,8 @@ Tax Risk Dashboard	11866
 Team Captain Risto Leo	13044
 Technical Feasibility Studies and Security Risk Management	6928
 Technical Feasibility Study and Security Risk Management	18623
-Technological Risks	12356
+Technical Risk Assessment	19801
+Technological Risks	12356,7286
 Telecom Identity Risk Management System	5880
 Terrorism Financing National Risk Assessment	11277
 Terrorist Financing National Risk Assessment Guidance	12297
@@ -2054,7 +2089,7 @@ Under the Risk Mitigation Independent Power Producer	11248
 Understanding and Mitigating the Risks	11156
 Understanding the Risks of Algorithmic Bias	8747
 Union’s Risk Management Framework	7938
-United Nations Office for Disaster Risk Reduction	13767,9,1420,941,234,3149
+United Nations Office for Disaster Risk Reduction	13767,9,1420,941,234,3149,201
 United Republic of Tanzania Disaster Risk Profile	19520
 United Risepublic	19526
 Universal TV and Radio Risaala	15007
@@ -2074,7 +2109,7 @@ V. SUMMARY OF RISKS AND MITIGATION	18851
 V.Â Key Risks	18887
 VALUATION DES PRINCIPAUX RISQUES QUI POURRAIENT	14424
 VALUATION ET GESTION DES RISQUES	17901
-VI. KEY RISKS	969,295,603,1737,2935,4229,196,416,37,132,11,1771,1,1578,27,554,24,3,35,68,37,1,2,1288,1352,476,462
+VI. KEY RISKS	969,295,603,1737,2935,4229,196,416,37,132,11,1771,1,1578,27,554,24,3,35,68,37,1,2,1288,1352,476,462,596,12
 VI. KEY RISKS Page	15658
 VI. Key Risks	13743
 VII RISQUES ET HYPOTHESES	15722
@@ -2106,6 +2141,7 @@ X.2024.2311137 Risks	9237
 XI. RISQUES MAJEURS ET LES MESURES	15624
 XXX Low Impact and Low Risk System	5665
 Y A-T-IL UN RISQUE DE PERDRE	16629
+Yes. SYSTEMATIC OPERATIONS RISK-RATING TOOL	19835
 ZAMBIA RECORDS SHARP RISE IN FOREIGN	13532
 ZRHCP Environmental and Social Risk Operation ID	1867
 Zambia Vulnerability Risk Assessment and Mapping Report	1988

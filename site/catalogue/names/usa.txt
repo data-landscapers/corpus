@@ -20,6 +20,8 @@ Accessible and Usable SLEITI	18439
 Accueil des Usa	18926
 Accueil des Usagers	18999
 Addressing Usage	12214
+Addressing the Access and Usage Gaps	19728
+Adoption and Usage	19728
 African E-Access and Usage Across Fourteen African	12325
 Agri-MSMEs Increase Usage of Digital Financial Services	15130
 Alliance for Digital and Financial Services Activity USAID	298
@@ -38,6 +40,9 @@ BURN MANUFACTURING USA LLC Data Controller	7167
 BURN MANUFACTURING USA LLC Data Processor	7167
 BWA Data Usage	2776
 Benchmarking USAID	16943
+Bridging the Access and Usage Gap	19728
+Bridging the Access and Usage Gaps Addressing Affordability	19728
+Bridging the ICT Access and Usage Gaps	19728
 Broadened Open Data Usage	16885
 Broadened Open Data Usage Action	16885
 Broadened Open Data Usage ESTIMATES	16885
@@ -55,6 +60,7 @@ Care-seeking During Fever Malaria Diagnosis Usage	18441
 Cellular Low Usage Basket	12395
 Centre de Relation Usagers-Clients	15712
 Chairman of USAC	6946
+Citizen’s Portal MDA E-SERVICES USAGE RANKING	19633
 Classement Usage	17860
 Climate Change USAID United States Agency	16949
 Code of USAC Committee Meetings Ethics and Conduct	6946
@@ -133,6 +139,7 @@ Enfance USA	15475
 Enhancing Women’s Access and Usage	10856
 Enquête de Satisfaction des Usagers des Services	18422
 Ensuring Ethical Usage of AI	12675
+Erroneous Deficient Usable Reliable Joint Score	19715
 Ethiopia USAID	531
 Europe and USA	12575
 Expanding Usage of Formal and Digital Financial Services	7763
@@ -146,6 +153,7 @@ Facilitation and Digital Services Task Order USAID	405
 Faculty. USAID Jim Wright	16970
 Fair Trade USA	10464
 Fair Usage Policy	12769
+Fair Usage and Compliance	19718
 Frequency Usage Fees. Fifth Schedule	736
 Frequency Usage Transmit Duty Channel	736
 Fund USAID United States Agency for International	15604
@@ -165,7 +173,7 @@ Human Factors and Usability Case Studies	10919
 ICT Access and Usage	16883
 ICT Adoption and Usage	16975
 ICT Adoption and Usage ICT	16975
-ICT Usage	14723,2252,1956
+ICT Usage	14723,2252,1956,771
 IDEA USAID Innovation Design	17011
 III. USAGE DES DONNEES OUVERTES DANS	16618
 INCLUSIVE USAGE	1885
@@ -294,6 +302,7 @@ Power Usage Efficiency	1264,17981
 Processo de Abertura de Conta Usando Redes Neurais	2816
 Program USAID	533
 Project Implementation Unit PUE Power Usage	15621
+Projets USAID	19645
 Promote Accessibility and Usability	11952
 Proven Usability and User Experience	15080
 QUEM DEVE USAR O MANUAL	11435
@@ -346,6 +355,7 @@ Tanzania USAID	218
 Task Order USAID	534
 Technical Assistance ToR Terms of Reference USAID	15515
 Technical and Vocational Education and Training USAf	6832
+Telecom Usage Domestic Voice Service Consumption	19728
 Theoretical Capability and Observed Usage	7151
 Tib Usable Capacity	11209
 Togo USA Etats	19350
@@ -364,6 +374,7 @@ UNFPA UNICEF USAID VAR VIH VNU	14622
 UNICEF United Nations Children’s Fund USAID	10768
 USA Drought Monitor	17157
 USA Décembre	13300
+USA ENERGY STAR	19847
 USA Email	1212
 USA Fax	4214
 USA Felicia Dlamini-Kunene Deputy Governor MA	11134
@@ -391,13 +402,16 @@ USA-DRC Economic and Investments Forum	15870
 USA. African	4426
 USA. All	12541
 USA. Chief Executive Officer	11134
+USA. Demir	19654
 USA. Elle	15670
 USA. Eritrea	1036
 USA. Fax	10841
 USA. GDPR	15472
 USA. Is the EU Winning the Competition	11154
 USA. Labour	2775
+USA. Lee	19654
 USA. Maître Marco KUYU Directeur Général	15670
+USA. Ministry of Finance	19654
 USA. Rooted	7036
 USA. Tel	11881
 USA. Telephone	19237
@@ -431,7 +445,7 @@ USAGERS DES SECTEURS PRIORITAIRES DU CNSC	16621
 USAGERS ET LES AUTORITES ADMINISTRATIVES ET	15419
 USAGERS Satisfaction	8637
 USAGES INDUSTRIEL	15670
-USAID	31,68,1,1,1,49,3,63,179,325,4,1,2,2,36,23,110,135,131,1,1,52,38,4,305,2,256,854,1748,616,106,14,62,78,154,881,197,448,124,81,403,117,43,171,629,472,61,705,658,156,110,48,8,9,3,42,30,154,411,70,373,32,24,7,81,2,138,24,7,4,12,1,35,28,114,7,125,421,3,31,6,15,28,37,212,46,44,22,88,414,130,69,75,165,127,9,105,71,3,437,283,131,80,51,54,12,42,13,108,787,24,189,15,5,23,22,37,8,6,11,4,6,1,4,104,37,33,108,184,307,76,21,25,12,11,16,184,198,2,12,4,1,2,82,330,731,64,1,9,13
+USAID	31,68,1,1,1,49,3,63,179,325,4,1,2,2,36,23,110,135,131,1,1,52,38,4,305,2,256,854,1748,616,106,14,62,78,154,881,197,448,124,81,403,117,43,171,629,472,61,705,658,156,110,48,8,9,3,42,30,154,411,70,373,32,24,7,81,2,138,24,7,4,12,1,35,28,114,7,125,421,3,31,6,15,28,37,212,46,44,22,88,414,130,69,75,165,127,9,105,71,3,437,283,131,80,51,54,12,42,13,108,787,24,189,15,5,23,22,37,8,6,11,4,6,1,4,104,37,33,108,184,307,76,21,25,12,11,16,184,198,2,12,4,1,2,82,330,731,64,1,9,13,120,5,168,8
 USAID ANTIM OMS	17882
 USAID Activity	17011
 USAID Agence	13300
@@ -449,6 +463,7 @@ USAID Donor Agreement for Technical Support Activities	12179
 USAID Economic Growth Lead for Asia	9788
 USAID Empowering LGs	14935
 USAID Ethiopia	531
+USAID Feed the Future	19712
 USAID GEMS	16848
 USAID Ghana	15556
 USAID Grant	16960
@@ -489,6 +504,7 @@ USAID and UNICEF. The NRIS Programme	12168
 USAID and USAID	12376
 USAID and World Bank	16848
 USAID du MSDS	17882
+USAID's Power Africa	19663
 USAID-JSI-CHISU	17882
 USAID-backed	9788
 USAID-financed	15473
@@ -530,7 +546,7 @@ Usa River	19592
 Usaasa	5968
 Usab Community Hall Usakos Constituency Office	13046
 Usaba	14861,316
-Usability	5665,3191,4160,445,892,727,1249,3192
+Usability	5665,3191,4160,445,892,727,1249,3192,133,13
 Usability Rates	11862
 Usability Standards Interoperability Standards	5665
 Usability Testing	5665,6287
@@ -546,7 +562,7 @@ Usafiri Ubovu	19517
 Usafirishaji	6019,13498,48,25
 Usafirishaji Haramu	19517,73
 Usagara	11643
-Usage	418,164,240,118,1835,2855,298,172,493,77,78,206,809,259,1097,287,375,122,342,574,37,20,43,340,3,595,136,221,39,103,8,15,6,4,6,8,133,142,402,15,205,44,188,956,1,1,184,311,38,107,34,378,101,27,40,4,270,631,3,226,32,359,340,244,22,19,6,4,439,29,147,44,258,434,364
+Usage	418,164,240,118,1835,2855,298,172,493,77,78,206,809,259,1097,287,375,122,342,574,37,20,43,340,3,595,136,221,39,103,8,15,6,4,6,8,133,142,402,15,205,44,188,956,1,1,184,311,38,107,34,378,101,27,40,4,270,631,3,226,32,359,340,244,22,19,6,4,439,29,147,44,258,434,364,92,25,127
 Usage ANNEX A ANNEX	16844
 Usage Agricole	14488,1,1
 Usage Aug	6051
@@ -555,8 +571,10 @@ Usage Digital Enterpreneurship Digital Financial Services	16876
 Usage Effectiveness Quarter	4528
 Usage Effectiveness RFS Ready For Service	10781,80,1566,2055
 Usage Formally	18485
-Usage Gap	5752,2359,6563
+Usage Gap	5752,2359,6563,5054
 Usage Gap Is Africa's Biggest	8111
+Usage Gaps	19728
+Usage Gaps Beyond	19728
 Usage Gestionnaire Fonds IDA	10876
 Usage Guidelines	4848
 Usage IA	8138
@@ -584,6 +602,8 @@ Usage of Big Data and New Technologies	19555
 Usage of Cloud Computing Services	11196
 Usage of DFS	15480
 Usage of DVB	6946
+Usage of Financial	19829
+Usage of Financial Services	19715,114
 Usage of Financial Services and Products	2775
 Usage of Firewood and Charcoal for Meal Preparation	19585
 Usage of Formal Financial Services and Products	7763

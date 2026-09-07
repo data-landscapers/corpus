@@ -16,7 +16,8 @@ Acronyms and Definitions BC Birth Certificate CSOs	12328
 Actual Birth and Death Registration	19541
 Actual Birth and Death Registration Number of Births	19541
 Actual Births Unregistered Births Unregistere	19541
-Adolescent Birth	18441
+Adolescent Birth	18441,1274
+Adolescent Birth Rate	19715
 Adolescent Birth Rate CBR Crude Birth	16950
 Advancing Birth Registration	13681
 Alassane BIRRI ADC DGGN SIDY ADC	17841
@@ -39,6 +40,7 @@ BADOYI Eliane EDITION DES DONNÉES BIRATASE	13300
 BCEAO. Fleur BIRBA	3684
 BILLION BIRR AI UNIVERSITY	7085
 BIRABONEYE	6613
+BIRAHINDUKA Roméo	19687
 BIRANDA GALLHAT	16177
 BIRANDA SAMBILA	15692
 BIRCH	15833
@@ -155,7 +157,7 @@ Birta Dheer	15075
 Birta Dheer Golis Telecom Data Center	15075
 Birtchnell T	17773
 Birtchnell and Anthony	17773
-Birth	2072,597,335,196,1353,89,299,592,2099,1829,74,161,108,910,51,10,37,2,8,7,150,197,42,328,318,5,108,9,19,52,7,74,13,37,26,2,1,2,7,1,14,9,41,36,1,5,4,1,29,46,58,15,10,27,116,125,186,9,46,75,15,58,62,5,165,12,2,245,34,3,225,41,50,48,46,19,545,59,1,174,16,151,191,168,103,35,94,1213,40,71,5,265,730,168,123,173,23,16,228,231,56,52,58,442,3,71
+Birth	2072,597,335,196,1353,89,299,592,2099,1829,74,161,108,910,51,10,37,2,8,7,150,197,42,328,318,5,108,9,19,52,7,74,13,37,26,2,1,2,7,1,14,9,41,36,1,5,4,1,29,46,58,15,10,27,116,125,186,9,46,75,15,58,62,5,165,12,2,245,34,3,225,41,50,48,46,19,545,59,1,174,16,151,191,168,103,35,94,1213,40,71,5,265,730,168,123,173,23,16,228,231,56,52,58,442,3,71,15,48,6,2,29,46,43,30
 Birth Anniversary	18220
 Birth Applications	19541
 Birth As-	12151
@@ -164,7 +166,7 @@ Birth Asphyxia Asphyxia	12151
 Birth Attendant STH Soil-Transmitted Helminthiases STIs	19544
 Birth Attestation	10765,10
 Birth Birth Order Previous Birth Interval	18441
-Birth Certificate	6392,3642,231,500,10,37,1404,1,1,73,46,973,1452,2079,19,1592,18,340,731,35
+Birth Certificate	6392,3642,231,500,10,37,1404,1,1,73,46,973,1452,2079,19,1592,18,340,731,35,263
 Birth Certificate Access Changes Lives	12227
 Birth Certificate No	14713
 Birth Certificate Number	13477
@@ -176,6 +178,7 @@ Birth Certificates Population Projection	19541
 Birth Certificates and Identity Documents	12972
 Birth Certification	16860
 Birth Certification Center	16860
+Birth Certification of Children	19715
 Birth Complica-	12151
 Birth Death Marriage Divorces Cause	15056
 Birth Figure	10765
@@ -191,7 +194,7 @@ Birth Pregnancy	12151
 Birth Project	16993
 Birth Registered	10765,10
 Birth Registered Citizens Certificate	19541
-Birth Registration	445,2330,1482,3407,3101,10,37,10,396,722,46,165,65,11,23,41,37,39,39,266,423,359,190,493,1110,1613,89,22,2570
+Birth Registration	445,2330,1482,3407,3101,10,37,10,396,722,46,165,65,11,23,41,37,39,39,266,423,359,190,493,1110,1613,89,22,2570,100,74
 Birth Registration Applications	19541
 Birth Registration Birth Registration	16971
 Birth Registration Center	16860
@@ -227,6 +230,7 @@ Birth Registration Simplification Law	10775
 Birth Registration Situation Analysis	16860
 Birth Registration Special Cases Birth	12216
 Birth Registration Statistical Report	15628
+Birth Registration Status for Children Under	19715
 Birth Registration Strategy UDSM University of Dar	19541
 Birth Registration System	19533
 Birth Registration Trends	16860
@@ -274,6 +278,7 @@ Birth and Death Registry	15647
 Birth and Death Tables	12672
 Birth and Deaths Registration Act CAP	10822
 Birth and Human	19541
+Birth and Marriage	19834
 Birth and Registration Act	19541
 Birth' System	15647
 Birth-registration-for-every-child-by-2030.pdf	15518
@@ -282,7 +287,7 @@ Birth-weight	19544
 Birth. Dep. Chief Registrar Oversees	12064
 Birthday	6553,6424
 Birthday Charity Run of Chief of Defence Forces	9781
-Births	1,539,2232,2761,5289,1164,152,13,16,83,77,10,1,29,16,30,58,126,42,33,226,61,25,21,148,132,359,335,482,294,150,151,572,97,795,376,26,121,1397,1,33,515,110,442
+Births	1,539,2232,2761,5289,1164,152,13,16,83,77,10,1,29,16,30,58,126,42,33,226,61,25,21,148,132,359,335,482,294,150,151,572,97,795,376,26,121,1397,1,33,515,110,442,174
 Births Abroad Birth	12216
 Births And Deaths Is Declared	12138
 Births And Deaths Registration Act Subsidiary	12138
@@ -365,7 +370,7 @@ Confirmation of Birth	11282
 Continuous Birth	12241
 Continuous Birth Registration	12241
 Coverage of Birth Registration Birth	16860
-Crude Birth Rate	12151,216,16,30,58,201,2384
+Crude Birth Rate	12151,216,16,30,58,201,2384,4659
 Crude Birth Rate CDR Crude Death	15056
 Cumulative Unregistered Birth Events	19541
 Cumulative Unregistered Birth Events Age Group	19541
@@ -465,6 +470,7 @@ Initial Birth Certificates	12496
 Initial Birth Registation Current	12496
 Insolvency and Trusteeship Agency U5BRI Under-5 Birth	19544
 Instant Birth Registration When Vitumbiko	13095
+Instant Birth Registrations URL	19714
 International Guidelines Birth	12406
 Introduction Birth	15628
 Irembo. Abridged Birth Certificate	12328
@@ -501,7 +507,7 @@ Linking Birth Registration	12057
 List of Abbreviations and Acronyms BDR Births and Deaths	15628
 List of Acronyms and Abbreviations BR Birth Registration	16860
 Live Birth	12151
-Live Births	10780
+Live Births	10780,8935
 Live Births and Sex	12672
 Low Birth Weight	12413,2643
 Low Birth Weight and Prematurity Complication	19544
@@ -520,6 +526,7 @@ Mohamed Bireche	15467
 Mohammed Birouaine	8891
 Monsieur Birama COULIBALY	17982
 Monsieur El Hadji Allé Birima FALL	18412
+Months and Crude Birth Rate	19715
 Montserrado. Birth	16860
 Mr. David Birech	14505
 Mrs. Eunice A. Biritwum	15740
@@ -578,6 +585,7 @@ PDPO National Director Baker Birikujja	11173
 PROPORTION OF BIRTHS ATTENDED BY SKILLED	16892
 Particulars of Records of Birth	12226
 Percentage of Birth Projection Birth Registered Certificates	19541
+Percentage of Birth Registration for Under	19715
 Percentage of Cumulative Birth Registration Targets	19541
 Phase One of National Birth Registration Campaign	12291
 Phyllis BiroriJohannesburg	3697,1687,800
@@ -676,6 +684,7 @@ Submitted Applications for Births Registration	19541
 Suiza BERSET BIRCHER	6613
 Summary of Registered Births	13644,5900
 Sustainability of Simplified Birth Registration	19541
+Sustainable Development Goals. BIRTH REGISTRATION Legal	19834
 T Birth	12327
 T the Births	12327
 TAs for Birth	13005

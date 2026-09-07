@@ -78,9 +78,12 @@ Candice Magen	10173
 Ceiba Magica	17240
 Change Magazine	8376
 Check Codification and Magnetic Ink Character Recognition	17235
-Chief Magistrate	12920,4052
+Chief Magistrate	12920,4052,2656,186
 Chief Magistrate of Zimbabwe	13504
 Chief Magistrates	12668
+Chief Magistrates Court	19814
+Chief Magistrates Court of Nakawa	19814
+Chief Magistrates' Court	19628
 Chief Magistrate’s Office	13504
 Chief Resident Magistrate	12174
 Chief Resident Magistrate Court Lilongwe Area	12174
@@ -174,6 +177,7 @@ Excellency Mr Elias M. Magosi	10321
 Excellency Mr Elias Magosi	12942
 Excellency Mr. Elias Magosi	14826
 Excellent Magloire	15524
+Executive Director and Chief Magistrate	19715
 FLOODING Plaine Magnien	14738
 FORBES MAGAZINE	3760,9683
 Femininos Magistério Primário Núcleos de Apoio	10766
@@ -209,6 +213,7 @@ High Court. The Magistrate’s Court	18477
 High- and Magistrates Courts	12920
 Hon. Gcina Magagula	13131
 Hon. George Maggo	18684,1
+Hon. James Magonde Ikuya	19703
 Hon. Magdalene Ellen Dagoseh Minister of Commerce	17367
 Hon. Sifiso Magagula	13131
 Hub Officially Launched By Mukelo Magagula	9305
@@ -391,7 +396,7 @@ Magazine BÂTIR N	10937
 Magazine CIO Directory CISO Directory ITWeb	10735,2132,1,1,3923,1,1,1
 Magazine Readership	6946
 Magazine for Managers of Change	9128
-Magazines	9253,3673,2447,2726
+Magazines	9253,3673,2447,2726,1603
 Magazines CBE	12390
 Magazines du CSA Actualités Médias Images Vidéos	17888
 Magba	15542
@@ -482,7 +487,7 @@ Magistrate for Rodrigues	14743
 Magistrate's Certificate	18918
 Magistrate's Court	11628
 Magistrate. Security	15340
-Magistrates	3961,9016,334,1431,2201,2582
+Magistrates	3961,9016,334,1431,2201,2582,130
 Magistrates Act	12905,15
 Magistrates Authority	12367
 Magistrates Commission	12920
@@ -661,6 +666,8 @@ Pleno Magistrado Tribunal Constitucional Maestro	4209
 Police Magazine	14760
 Portfolio Chairperson MP Gcina Magagula	13246
 Press Council Chairperson Phathiswa Magopeni	10729
+Principal Magistrate Grade	19814
+Principal Magistrate Grade I	19814
 Principal Magistrate Hadiru Daboh Commits	18519
 Principal Magistrate P.K. Mutai	9188
 Proceed Magistrate Rejects Bid	17069

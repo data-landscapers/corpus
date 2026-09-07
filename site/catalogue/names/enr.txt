@@ -88,7 +88,7 @@ ENROL	11156
 ENROLLMENT	12146
 ENRPN	18779
 Education Education Enrolment Education Completion Human	10837,1315,188
-Education Enrolment	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
+Education Enrolment	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
 Education Lower Basic Gross Enrolment Ratio	16973
 Empowerment GER Gross Enrolment Rate GIA	18512
 EnDev Energising Development EnR	18316
@@ -112,6 +112,7 @@ Enregistrement des Faits	9637,1
 Enregistrement des Graphique	13300
 Enregistrement des Institutions	17830
 Enregistrement des OID	16115
+Enregistrement du Contribuable	19687
 Enregistrer	747,258,5949,963,2959,2499,2659,60,653,1555,130,794,35,125
 Enregistrer Cocher	19226
 Enregistrer Cocher Ecrire Indiquer Noter	19226
@@ -156,7 +157,7 @@ Enroll. Registrants	19237
 Enrolled	11006,498,936,3278,1123,130,716,774
 Enrolled OVC Beneficiaries	12977
 Enrolling	571,4877,5685,791,2992
-Enrollment	2775,1260,931,2163,467,3216,27,641,387,460,2,82,252,308,6,337,18,1565,25,97,68,574,2,416,357,24,416,100,7,10,146,831,963,304
+Enrollment	2775,1260,931,2163,467,3216,27,641,387,460,2,82,252,308,6,337,18,1565,25,97,68,574,2,416,357,24,416,100,7,10,146,831,963,304,598
 Enrollment Data	14501
 Enrollment Kits	13424
 Enrollment Rates API	15630
@@ -224,8 +225,10 @@ Gross Enrollment Rate	12411,4531,516
 Gross Enrollment Rate GHG Greenhouse Gas	17458
 Gross Enrollment Ratio	13314,3122
 Gross Enrollment Ratio Central African	13314
+Gross Enrolment	19760
 Gross Enrolment Rate	12175,24,2717,1936,1608
 Gross Enrolment Rate GESD	12175
+Gross Enrolment Rates	19727
 Gross Enrolment Rates for ECD	12175
 Gross Enrolment Ratio	13991,756,857,2856,1082
 Gross Enrolment Ratio GoSE Government	13960
@@ -260,6 +263,7 @@ Mali Enregistrement	18076
 Mandatory Enrollment of All Citizens and Foreign Residents	16983
 Mandatory Enrolment	16983
 Mario Draghi and Enrico Letta	9832
+Mass Enrollment and Renewal Exercise	19714
 Mass Enrolment and Renewal Exercise	1920,7466
 Mauritius. Enrolment	14775
 Mid-Term Review Net Enrollment Ratio Non-Governmental	16436
@@ -272,7 +276,7 @@ National Biometrics Identification System Enrolled	16841
 National Enrolment	13399
 Neither Enrolled	15244
 Net Enrollment Rate	12411
-Net Enrollment Rates	12411
+Net Enrollment Rates	12411,7424
 Net Enrollment Ratio	16436
 Net Enrolment Rate	12175,24,4653,2690
 Net Enrolment Rate OCGS Office	19542
@@ -352,6 +356,7 @@ Secondary Education Enrollment Rates	12411
 Secondary Gross Enrollment Ratio	14897
 Secondary Net Enrolment Rate	19542
 Secondary Net Enrolment Ratio	13991
+Secretariat. Enriched	19641
 Sectors Enrolled	12551
 Services. Enrolment	12359
 State Enrolled Community Health Nurse Midwives	17105

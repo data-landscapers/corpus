@@ -1,4 +1,5 @@
 Acronyms Description MOFI Ministry of Finance	11857
+Affairs MoFPED Ministry of Finance Planning and Economic	19642
 Agencies MoF Ministry of Finance MoPED Ministry	18577
 Animal Resources and Fishery MoFEP Ministry of Finance	15118
 Banaadir Regional Administration. MoF	15004
@@ -10,15 +11,18 @@ Cabo Verde MoF	583,1512
 Chad Digital Economy Diagnostic MoF Ministère	18931
 Chinese Government and MOFCOM	17423
 Civil Society MoFNP	12453
+Climate Finance Unit of MoFPED	19741
 Cluster Survey MoFEA Ministry of Finance and Economic	16922
 Collaborate MoF Sales Force	19534
 Communications and Innovation MOFA	14566
 Constitutional and Religious Affairs MoF Ministry of Finance	4214
 Department and Agencies MoF Ministry of Education	19534
+Departments Agencies MoFPED Ministry of Finance	19633
 Departments and Agencies MM Materials Management MoFEDIP	13420
 Departments and Agencies MoF Ministry of Finance	18488
 Departments and Agencies MoF Ministry of Finance MTDS	18500
 Departments and Agencies MoF Ministry of Finance MoGCA	18477
+Departments and Agencies MoFPED Ministry of Finance	19647,19
 Description MoF Computerisation	1661,977,2995
 Detailed Planning MoF	15473
 Director for IT MoFP	18661
@@ -82,6 +86,7 @@ MOFEDIP	13685
 MOFEP	18607
 MOFNP	193,12142,118,879,15
 MOFP N	7763
+MOFPED	19761
 MOFPED and MOH. Overhead	4217
 MOH and MOF	18532
 MOICI and MOFEA Implementation	16884
@@ -91,12 +96,14 @@ Manthati Mofokeng	12712
 Market Development MoF	14819
 Meisi Mofokeng	11660
 Microfinance Institution MOE Ministry of Education MOFNP	13347
+Mineral Development MoFPED Ministry of Finance Planning	19646
 Minister of Environment and Forestry Thabo Mofosi	8801
 Ministry of Basic and Secondary Education MoFEA	16951
 Ministry of Communication and Digital Economy MoFEA Ministry	17105
 Ministry of Education MoFDP	16975
 Ministry of Education MoFEA	12175
 Ministry of Education MoFNE	14857
+Ministry of Education and Sports MoFA Ministry of Foreign	19642
 Ministry of Energy and Oil MoFEP Ministry of Finance	14897
 Ministry of Environment and Climate Change MoF	18485
 Ministry of Environment and Climate Change MoF Ministry	18512
@@ -120,6 +127,7 @@ MoF FOOTBALL TEAM	18576
 MoF GSB	2112
 MoF K03	15604
 MoF K04	15604
+MoF Ministry of Finance	19847
 MoF Ministry of Finance MSME Micro Small	16942
 MoF Ministry of Finance MoHESR Ministry of Higher	15604
 MoF Ministry of Finance MoTAI Ministry of Trade	4126
@@ -166,7 +174,7 @@ MoFNP-January2026Foc	13532
 MoFP Kenyan Startup MoICT Bill	19534
 MoFP NBS	19519
 MoFP and PMO	19519
-MoFPED	1150,132,2708,227,3031
+MoFPED	1150,132,2708,227,3031,12393,1,5,19,23,23,23
 MoFWR	17105
 MoFaya	8682
 MoLGRD and MoFEPD	6754

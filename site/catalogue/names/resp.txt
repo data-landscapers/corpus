@@ -113,6 +113,7 @@ Annex II Institutional Responsibility Matrix Annex	14947
 Annual Targets Responsibility Data Sources	14997
 Answers and Responses	9858
 Anti-Piracy Unit Disaster Response Unit AML	14760
+Anticipatory and Disaster Responses	19685
 Apply Common But Differentiated Responsibilities	6960
 Appropriation Account. Management Response Treasury	13420
 Aquifer Stress Response Actions Calculation	17157
@@ -147,6 +148,8 @@ BP-2024 RESPONSIVE	16883
 Background Responsibility Deadline Budget Open Data	16939
 Bank-financed Senegal COVID-19 Response Project	18370
 Bank. The Respondent	18154
+Banque Centrale de Djibouti. Responsabilités	19850
+Banque Centrale de Djibouti. Responsabilités du Gouverneur	19850
 Baseline Annual Targets Responsibility Data Sources	14997
 Basic Characteristics of Survey Respondents	15247
 Bassirou PORGO Responsable	18076
@@ -185,6 +188,7 @@ CAR Emergency Food Crisis Response	15658
 CAS Responsable	16012
 CATÉGORIES INSTITUTIONS ROLES ET RESPONSABILITES Organes	11944
 CATÉGORIES INSTITUTIONS RÔLES ET RESPONSABILITÉS ORGANES	10965
+CC Computer Emergency Response Team	19639
 CC Kenya Computer Incident Response Team	2775,4171,602
 CC National Kenya Computer Incident Response	6671
 CEMAC CATÉGORIES INSTITUTIONS ROLES ET RESPONSABILITES	11944
@@ -197,10 +201,11 @@ CERC Contingent Emergency Response Component CMS	15969
 CERC Contingent Emergency Response Component CMU	18301
 CERC Contingent Emergency Response Component CNED	15491
 CERC Contingent Emergency Response Component ECOWAS	17099
-CERT Computer Emergency Response Team	15472
+CERT Computer Emergency Response Team	15472,4375
 CERT Computer Emergency Response Team CFA	18931
 CERT Computer Emergency Response Team CICO	13312,2
 CERT Computer Emergency Response Team CIO	12917,2247
+CERT Computer Emergency Response Team COVID-19	19660
 CERT Computer Emergency Response Team DSO	16883,1
 CERT Computer Emergency Response Team HRMIS	14897
 CERT Malawi Computer Emergency Response Team	12240
@@ -306,6 +311,8 @@ Collection Responsibility for Data PIU	19245
 Collection Responsibility for Data PIU Collection Page	19245
 Collection Responsibility for Data Review	19284
 Collection Responsibility for Data The MOH	11417
+Collective Responsibility	19801
+Collective Responsibility Information	19801
 Committee Crisis Response Window Environmental and Social	1228
 Committee. Responsibilities	11995
 Common Error Responses	15630
@@ -328,13 +335,13 @@ Componente de Resposta de Emergência Contingente	11440,1,101
 Components Economic Shock Responsive Cash Transfer	11988
 Comprehensive Framework for Ethical and Responsible AI	15713
 Comprehensive Framework for Ethical and Responsible AI AI	15713
-Comprehensive Refugee Response Framework	12227,1098,613
+Comprehensive Refugee Response Framework	12227,1098,613,5789,33
 Comptabilité Publique RProg Responsable	18015
 Computer Attack Response and Alert Centre	301
 Computer Attack Warning and Response Centre	301
 Computer Emergency Readiness and Response Team	7630,1488
 Computer Emergency Response	783
-Computer Emergency Response Team	587,2750,1273,240,394,1692,2534,1349,3031,340,240,449,576,63,125,1229,103,53,1607,142,40,116
+Computer Emergency Response Team	587,2750,1273,240,394,1692,2534,1349,3031,340,240,449,576,63,125,1229,103,53,1607,142,40,116,709
 Computer Emergency Response Team CHU	17824
 Computer Emergency Response Team CIO	16975
 Computer Emergency Response Team CMU CPF	17862
@@ -342,14 +349,14 @@ Computer Emergency Response Team D4WEE	5244
 Computer Emergency Response Team SOC Security	1000
 Computer Emergency Response Team of Mauritius	783,14046
 Computer Emergency Response Team of Mauritius CFT	14828,3
-Computer Emergency Response Teams	395,5137,145,5087,147,2969,1608
+Computer Emergency Response Teams	395,5137,145,5087,147,2969,1608,4172
 Computer Incidence Response Team	958
 Computer Incident Response Team	4693,10,61,2081,2588,1701,1261,58,1986,102,3,79,3122
 Computer Incident Response Team CLS	18485
 Computer Incident Response Team CMIL	14438
 Computer Incident Response Teams	11920,5825
 Computer Security Incident Response Center	15511
-Computer Security Incident Response Team	1200,28,549,1817,249,44,766,1886,5622,3000,343,9,40,90,1513
+Computer Security Incident Response Team	1200,28,549,1817,249,44,766,1886,5622,3000,343,9,40,90,1513,2495,150
 Computer Security Incident Response Team CERT	1000
 Computer Security Incident Response Team CSR	16975
 Computer Security Incident Response Team ESCP	16144
@@ -366,12 +373,12 @@ Continency Emergency Response Component	13331
 Continental Response Plan	16971
 Contingency Emergency Response	13331,4970,1154
 Contingency Emergency Response Comment	13392
-Contingency Emergency Response Component	2989,7779,195,1002,2611,977,108,76,276,174,2622,475
+Contingency Emergency Response Component	2989,7779,195,1002,2611,977,108,76,276,174,2622,475,359
 Contingency Emergency Response Component. Following	14576
 Contingency Emergency Response Part	16936
 Contingency Response Component Emergency Response Component	19284
 Contingent Emergency Response	1284,3369,2275,4489,554,204,1156,1125,97,357,608,184,442,292,1522,397,268,186,8
-Contingent Emergency Response Component	761,235,232,36,20,300,283,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61,990,2,226,353,27,35,66,2,37,1,2,82,39,187,14,96,65,43,197,52,460,26,4,68,6,96,3,15,848,171,160,8,49,4,5,97,48,30,275,124,312,4,35,171,147
+Contingent Emergency Response Component	761,235,232,36,20,300,283,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61,990,2,226,353,27,35,66,2,37,1,2,82,39,187,14,96,65,43,197,52,460,26,4,68,6,96,3,15,848,171,160,8,49,4,5,97,48,30,275,124,312,4,35,171,147,41
 Contingent Emergency Response Component CERC Country	11417
 Contingent Emergency Response Component CERC Steering	1228
 Contingent Emergency Response Component CPF Comité	10964
@@ -393,6 +400,7 @@ Cooperate Social Responsibility DSTI	18485
 Coordinate the Response	5677
 Core Duties and Responsibilities	17394
 Core REPORTING RESPONSIBILITY Functional Area	14434
+Core Responsibilities and Functions	19712
 Corporate Climate Responsibility	14828,3
 Corporate Climate Responsibility Levy Offsetting	14828,3
 Corporate Responsibility	11611
@@ -508,6 +516,8 @@ Detailed Roles and Responsibilities	12674
 Detailed Roles and Responsibilities for AISIO Leadership	4528,7984
 Detection and Response	6657
 Determination of Responsiveness	15080
+Development Response	19647,94,57
+Development Response for Displacement Impact Project	19727
 Devices Responsible Sector	19532
 Diabetes Respiratory	12151
 Differentiated Responsibilities and Respective Capabilities	11210
@@ -597,7 +607,8 @@ Emergency Crisis Response Safety Net Project	14980
 Emergency Food Crisis Response Project	16398
 Emergency Health Response and Resilience	5378
 Emergency Preparedness and Response	1988,10988,187,5035
-Emergency Response	12977,65,3894,307,1312
+Emergency Preparedness and Response Plan	19646
+Emergency Response	12977,65,3894,307,1312,1087
 Emergency Response Chinese Medical Team	18555
 Emergency Response Component CERT Computer Emergency	1264
 Emergency Response Component CNDRA Centre for National	17114
@@ -629,6 +640,7 @@ En Place D'un Cadre D'IA Responsable	17468
 Enable Responsible Innovation	12444
 Encouraging Responsible Innovation and Scientific Research	2958
 Endpoint Detection and Response	11231,8302
+Engineer Responsible	19801
 Enhance Police Cybercrime Response Unit Time	1000
 Enhanced Emergency Response and Disaster Management PDO	17962
 Enhancing Preparedness for Pandemic Response Using	13870
@@ -684,6 +696,7 @@ Expanded Gender Responsive Budgeting	18577
 Expectations for Computer Security Incident Response	18774
 Expected Environmental Responsibilit Time	12253
 Experts Call for Responsible AI Integration	10355
+Extended Procedure Responsibility	19660
 Extended Producer Responsibility	12191,7054
 F. CLIENT'S RESPONSIBILITIES IGAD	14928
 F. Contingent Emergency Response Component	14912
@@ -728,7 +741,7 @@ Fiscal Responsibility Commission	11866
 Flood Response and Mitigation Measures Mr. Speaker	7695
 Formation des Responsables du Mécanisme	14425
 Forum for Incident Response and Security Teams	5780
-Forum of Incident Response and Security Teams	1264,513,3900,5087,147,1714,2879,640,792
+Forum of Incident Response and Security Teams	1264,513,3900,5087,147,1714,2879,640,792,2715
 Framework CRW Crisis Response Window CVT	15491
 Framework de Governação de IA Responsável da Organização	2816
 Freque Responsibili Paramet Methodolog Responsibili Impacts	1988
@@ -814,6 +827,7 @@ Guidelines for Gender Responsive Budgeting	18512
 Guinea Respective Part	1264
 Guinea-Bissau Respective Part	1264
 Gulf of Guinea Joint Response Plan	10920
+Gulu and Masaka Emergency Response Established	19746
 H. Response	14777
 H30 TU. La Personne Responsable des Marchés	19334
 HAWH2 Responsible	16922
@@ -867,6 +881,7 @@ IMPLEMENTAÇÃO DAS EQUIPAS DE RESPOSTA	11397
 INCENTIVES RECOMMENDATIONS TIMELINE RESPONSIBLE IMPACT S	11857
 INDUSTRY CONSULTATION RESPONSE Introduction	18952
 INEC Tanzania Responds	19553
+INSTITUTIONAL FRAMEWORK AND RESPONSIBILITY	19745
 INTERPOL Incident Response Teams	17023
 IRAS Infeccao Respiratoria Aguda Ligera IRAS	966
 ITEM DESCRIPTION RESPONSIBILITY TIMELINE	11857
@@ -897,10 +912,13 @@ Incident Management and Response Plans	15054
 Incident Responders	1000
 Incident Response	775,225,1709,1152,749,1822,4289,1231,586,429,1954,741,2084,1028
 Incident Response A. All Telecommunications Service	4610
+Incident Response Framework	19801
+Incident Response Frameworks	19801
 Incident Response GC-SCRM.S1	10721
 Incident Response Plan	10721
 Incident Response Plan Tier	10721
 Incident Response Plans	4610
+Incident Response Playbook	19801
 Incident Response Policy	6632
 Incident Response Requirement	11952
 Incident Response Specialist. Once	5533
@@ -911,6 +929,7 @@ Incident Response Team DECA Designated Account	13331
 Incident Response Team DGS DGS DHIS	12917
 Incident Response Team DLMS Digital Library	15164
 Incident Response Timelines Severit Initial Resolution	11952
+Incident Response and Coordination	19728
 Incident Response and Corrective Actions Safeguards	14565
 Incident Response and Management for Systems Hosted	12967
 Incident Response and Recovery Planning	11995
@@ -941,6 +960,7 @@ Infectious Disease Outbreak Response Metrics	4153,14,35,15,43,41,48,1003
 Infectious Disease Response Goes Digital	10374
 Infecção Respiratória Aguda	18768
 Info Crisis Response Updates	15342
+Information Security Incident Response Team	19801
 Informatiques Responsable Applications	15512
 Informé Informé Informé Responsabl	15936
 Informé Responsable	15936
@@ -995,6 +1015,7 @@ KNUST Responsible AI Laboratory	4126
 KNUST's Responsible AI Lab	5227
 KOUKA Lydie Fortunée UGP Responsable Suivi	16012
 KPIs and Responsible Agencies	16963
+Kapeeka and Nebbi. Responded	19746
 Kenya Computer Incident Response Team Coordination	17745
 Kenya National Bureau Sustainable and Responsible Financial	12297
 Kenya Quick Response Code Standard	11994
@@ -1049,6 +1070,7 @@ Linking Humanitarian Response	10864
 List of Counterparts and Respective Focal Point	16902
 List of Counterparts and Respective Focal Point Organization	16902
 List of Respondents	1261
+Local Government DRDIP Development Response	19647
 Local Government Responsible Ministry	16872
 Local Response	6947
 Localized Hazards and Emergency Response Materials Provided	12977
@@ -1172,6 +1194,7 @@ N Query AUC Response	10617
 NAME OF FIRST PRINCIPAL RESPONDENT	582
 NAMIBIA CYBER SECURITY INCIDENTS RESPONSE TEAM	3336
 NATIONAL RESPONSE TO GENDER EQUALITY	16951
+NATIONAL SHOCK RESPONSIVE SOCIAL PROTECTION FRAMEWORK	19685
 NATIONAL VISION FOR RESPONSIBLE AI	14566
 NCA's Consolidated Response	8926
 NCA’S CURRENT RESPONSIBILITIES	14879
@@ -1194,8 +1217,8 @@ Namibia's National Cybersecurity Incident Response Team	9562
 National Accounts. E. Response	14777
 National COVID-19 Preparedness and Response Plan	19284
 National Climate Change Response Strategy	970
-National Computer Emergency Response Center	7538
-National Computer Emergency Response Team	587,8720,656,213,2056,5028
+National Computer Emergency Response Center	7538,12309
+National Computer Emergency Response Team	587,8720,656,213,2056,5028,2379,152
 National Computer Emergency Response Team and National	18903
 National Computer Emergency Response Team. Functions	587
 National Computer Incident Response Team	2256
@@ -1327,6 +1350,7 @@ POLICY AND INSTITUTIONS RESPONSIBLE INSTITUTION	18931
 POLICY RESPONSE AND OPTIONS IN RESOLUTION	10
 POLICY RESPONSE TO ARREST THE DOWNTURN	10
 POLITIQUE ET CONFORMITE Responsable ANTIM	17882
+PORTANT RESPONSABILITES DE L'AUDITEUR RELATIVES	19850
 PPP Partenariat Public-Privé PRMP Personne Responsable	10876
 PPSDC Projeto de Proteção Social Resposta	18789
 PREPARATION OF BID RESPONSE	11209
@@ -1345,6 +1369,7 @@ Paridade de Género Infecção Respiratória Aguda Infecções	10777
 Part I--Legal and Regulatory Framework Responses Score	10812
 Parties’ Obligations Responsibilities	6432
 País. SUBSECÇÃO III Equipa Nacional de Resposta	6970
+Percentage of Respondent’s Perception	19715
 Performance Indicator Responsible Person	1988
 Performance Indicator Responsible Person Component	1988
 Performance Indicator Responsible Person EHS Risks	1988
@@ -1414,15 +1439,18 @@ Preventing and Responding	10776
 Prevention and Response	11611,3570,3331,400
 Prevention and Response Action Plan	13111
 Prevention and Response Programme	12626
+Prime Minister. Responsible Officer	19741
 Principal Responsibility. The Government	19214
 Principles for Responsible Banking	10718
 Principles for Responsible Digital Payments	3673
 Princípio da Responsabilidade	4146
 Princípio da Responsabilidade Institucional	11419
 Printed Data Respective	18904
+Privacy Response Response	19759
 Privacy Responsibility Challenge	6792
 Private Sector Response and Recovery Development FY17	17962
 Procedures for Making and Responding	16840
+Process Outsourcing CERT Computer Emergency Response	19642
 Producer Responsibility Statutory	1988
 Professional Responsibilities and Ethics	9855
 Professional Responsibility and Ethics Where AI	14565
@@ -1480,7 +1508,7 @@ QIP Collection Biannually Responsibility for Data Project	19284
 QRIS Quick Response Code Indonesian Standard	11994
 QUALIFICATION DES RESPONSABLES DES DIRECTIONS DES	18169
 Quarterly Quarterly Ghana Fire Response	15845
-Quick Response	8588,2387,1315,1316,2609
+Quick Response	8588,2387,1315,1316,2609,3600
 Quick Response Code	19431
 Quick Response Code Indonesian Standard	11994
 R Reduction and Emergency Response	15845
@@ -1647,6 +1675,7 @@ Registration Board DBO Corporate Social Responsibility	19585
 Registres Le Chef CIREF Responsable	14423
 Registries Responses	10812
 Regulations Respecting the Application	13461
+Regulations. Key Responsibilities	19801
 Regulator Responsibilities The MTCT and ORTEL	16942
 Regulatory Framework Measurable Targets Responsible Ministry	16872
 Regulatory Response and Policy Developments The Bank	13532
@@ -1718,9 +1747,9 @@ Respiratory Injuries	12151
 Respiratory Medicine	14773
 Respiratory Respiratory	12151
 Respiratory Respiratory Respiratory Sepsis	12151
-Respond	395,563,819,319,3017,563,4925,120,4,404,288,2001,602,1172,558,261,910,193,43,154,1529,87
-Responded	13493
-Respondent	1919,1388,393,1413,3005,12,48,3526,252,37,1500,967,2667,1027
+Respond	395,563,819,319,3017,563,4925,120,4,404,288,2001,602,1172,558,261,910,193,43,154,1529,87,874
+Responded	13493,6253
+Respondent	1919,1388,393,1413,3005,12,48,3526,252,37,1500,967,2667,1027,1660
 Respondent Director General of Kenya Citizens and Foreign	14460
 Respondent Engagement	15024
 Respondent Google LLC	3307
@@ -1732,6 +1761,7 @@ Respondent Submissions	14460
 Respondent The Principal Registrar of Births and Deaths	14460
 Respondent The Principal Registrar of Persons	14460
 Respondent The Respondent	3307
+Respondent UGX	19814
 Respondent's Affidavit	18154
 Respondent's Articles of Association	18154
 Respondent's Case Following	18592
@@ -1745,7 +1775,7 @@ Respondent. Records	17165,1405
 Respondent. That the Respondent	18154
 Respondente	11569
 Respondentor	18154
-Respondents	1219,42,102,576,1,1008,57,599,187,897,425,420,893,1460,136,1107,487,14,15,1069,290,898,62,11,11,37,67,102,18,36,32,49,52,122,401,61,15,9,97,409,967,317,220,26,62,35,222,501,1,300,521,262,24,94,82,22,63,31,74,329,279,286,107,1237
+Respondents	1219,42,102,576,1,1008,57,599,187,897,425,420,893,1460,136,1107,487,14,15,1069,290,898,62,11,11,37,67,102,18,36,32,49,52,122,401,61,15,9,97,409,967,317,220,26,62,35,222,501,1,300,521,262,24,94,82,22,63,31,74,329,279,286,107,1237,99,61,59
 Respondents Who Have Experienced Violence	15247
 Respondents Who Reported Status of Partnership	19555
 Respondents Who Suggested the Roles of Public-Private	19555
@@ -1753,7 +1783,7 @@ Respondentsin	18154
 Respondents’ Age	12978
 Respondentto	18154
 Responder	11374,1598,2532,3296
-Responding	1284,583,226,3,969,448,49,42,1618,79,149,358,296,101,6,136,473,290,31,3,260,39,113,1,45,98,142,104,76,59,104,182,26,129,395,38,141,25,322,2,31,49,595,346,36,57,209,8,53,61,74,117,91,245,143,12,82,201,25,25,396,94,119,55,4,46,358,293,61,1,14,15,87,483,182,321,231,83,4,439,53,247,62,68,37,3,483,254,524,516,20,118,65,602,227,27,25,58,3,226,436,39
+Responding	1284,583,226,3,969,448,49,42,1618,79,149,358,296,101,6,136,473,290,31,3,260,39,113,1,45,98,142,104,76,59,104,182,26,129,395,38,141,25,322,2,31,49,595,346,36,57,209,8,53,61,74,117,91,245,143,12,82,201,25,25,396,94,119,55,4,46,358,293,61,1,14,15,87,483,182,321,231,83,4,439,53,247,62,68,37,3,483,254,524,516,20,118,65,602,227,27,25,58,3,226,436,39,551,12
 Respondingtothisgap	8602
 Respons. Calendrier	18286
 ResponsAbility	389
@@ -1791,7 +1821,7 @@ Responsabilité	1679,663,2078,6401,15,303,2152,99,391,1048,90,207,223,139,95,12,
 Responsabilité Article	15901,1957
 Responsabilité Civile RC	13377
 Responsabilité C’est	15720
-Responsabilité Limitée	17531
+Responsabilité Limitée	17531,2320
 Responsabilité Limitée Pluripersonnelles	11522
 Responsabilité Limitée Unipersonnelle	15786
 Responsabilité Sociale	15496
@@ -1801,7 +1831,7 @@ Responsabilité Sociétale CT	18315
 Responsabilité Sociétale des Entreprises	839,14657
 Responsabilité Transparence Principe	17842
 Responsabilité. Tous	15478
-Responsabilités	11522,2941,74,935,565,578,2635,111
+Responsabilités	11522,2941,74,935,565,578,2635,111,489
 Responsabilités Acteur Secrétaire	14537
 Responsabilités Livrables	14537
 Responsabilités Niveau	15908
@@ -1821,7 +1851,7 @@ Responsabilizar	16325
 Responsabilização	10750,2091,5926,5
 Responsabilização. República	10750
 Responsabl	15936
-Responsable	163,273,751,44,645,108,808,174,140,6071,332,32,1284,17,34,2414,257,202,675,1,54,9,1,1,47,873,22,33,23,24,24,48,52,76,32,37,67,63,25,76,22,215,1,163,43,157,4,238,43,548,376,9,288,24,27,154,71,524,7,295,141
+Responsable	163,273,751,44,645,108,808,174,140,6071,332,32,1284,17,34,2414,257,202,675,1,54,9,1,1,47,873,22,33,23,24,24,48,52,76,32,37,67,63,25,76,22,215,1,163,43,157,4,238,43,548,376,9,288,24,27,154,71,524,7,295,141,325
 Responsable ANTIM ANTIM Partenaire OMS	17882
 Responsable ARE Objectifs	17835
 Responsable Activités Travaux	18118
@@ -1829,6 +1859,7 @@ Responsable Actualiser	16012
 Responsable Admin	16693
 Responsable Administratif	14424,1
 Responsable Comité	17835
+Responsable Communal	19681
 Responsable Deporte Militar	4209
 Responsable Délai	16722
 Responsable Environnemental	14424,1
@@ -1848,17 +1879,22 @@ Responsable Qualité	2312
 Responsable Secrétaire	14537
 Responsable Suivi-Évaluation	18201
 Responsable Technique	16693
+Responsable de Communication	19687
 Responsable de Ministère du Commerce	15712
 Responsable de PRODIGY	14488,1,1
 Responsable de Zone Fonctionnelle	19362
 Responsable des Affaires Domaniales	10876
+Responsable des Composantes	19687
 Responsable des Données	9406
 Responsable des Institutions	19361
+Responsable des Opérations	19687
 Responsable des Politiques	10867
 Responsable des Produits de Paiement	4695
+Responsable des Sauvegardes Sociales	19687
 Responsable du Centre	17900
 Responsable du Programme	7670,651
 Responsable du Pôle	16250
+Responsable du S	19687
 Responsable du Service Matériel	10876
 Responsable du Traitement	2792,15327
 ResponsableDébutClôture1. Advocacy	18305
@@ -1906,7 +1942,7 @@ Responsables des Unités	15936
 Responsables du MNDPT	14573
 Responsables. LA TRANSPARENCE POUR UN SECTEUR	10975
 Responsablq	15584
-Response	1597,343,1562,81,208,510,1376,226,1094,990,2326,133,275,55,143,290,7,19,17,33,11,84,37,108,189,150,4,84,5,133,49,346,204,259,22,20,150,176,1144,93,176,48,85,5,54,131,29,261,149,354,166,21,808,36,50,15,216,132,1004,183,189,10,20,27,230,293,288
+Response	1597,343,1562,81,208,510,1376,226,1094,990,2326,133,275,55,143,290,7,19,17,33,11,84,37,108,189,150,4,84,5,133,49,346,204,259,22,20,150,176,1144,93,176,48,85,5,54,131,29,261,149,354,166,21,808,36,50,15,216,132,1004,183,189,10,20,27,230,293,288,103,9,156
 Response AI	7987
 Response All	7987
 Response Approach Paper	15511
@@ -1966,10 +2002,11 @@ Response and Resilience Program	11417
 Response and Resilience Project	1867,9723
 Response and Support Mechanism	11791
 Response of Project Implementation Team	1778
+Response. Continuous	19801
 Response. The Executive Secretary of Héritiers	11868
 Response. The Secretary General	11864
 Response. This Response	11864,4
-Responses	3791,1057,2099,1,1488,167,1013,245,951,489,566,35,930,2332,178,316,486,185,828,2384,1
+Responses	3791,1057,2099,1,1488,167,1013,245,951,489,566,35,930,2332,178,316,486,185,828,2384,1,198
 Responses Country Specific Medium High Lower	13868
 Responses Increased N	5247
 Responses Score	10812
@@ -1978,7 +2015,7 @@ Responsibilit Agencies	1000
 Responsibilit Agency	1000
 Responsibilit Responsibilitie	7548
 Responsibilit Time	12253
-Responsibilities	1778,89,1811,1855,2015,1655,591,927,405,391,438,1,39,206,137,18,3,187,507,44,284,37,586,430,15,116,225,44,20,8,49,15,101,1,6,68,559,99,1075,8,44,130,240,1210,3,1094
+Responsibilities	1778,89,1811,1855,2015,1655,591,927,405,391,438,1,39,206,137,18,3,187,507,44,284,37,586,430,15,116,225,44,20,8,49,15,101,1,6,68,559,99,1075,8,44,130,240,1210,3,1094,66,171
 Responsibilities Article	1214
 Responsibilities Clearly	12356
 Responsibilities DPOs	13381
@@ -1988,11 +2025,16 @@ Responsibilities and Authorities GC-RRA.S1 GC-RRA	10721
 Responsibilities and Duties	13036
 Responsibilities and Duties of Organisations	13036
 Responsibilities and Governance	5246
+Responsibilities and Timeline	19825
+Responsibilities of Boards and Accounting Officers	19801
 Responsibilities of CDO	15034
 Responsibilities of Cloud Service Providers	11995
+Responsibilities of Data Protection Officer	19801
 Responsibilities of FPIs	11995
 Responsibilities of Federal Public Institutions	11995
 Responsibilities of Government Entities Participating	3815
+Responsibilities of Information Asset Owners	19801
+Responsibilities of Information Asset Owners Information	19801
 Responsibilities of Land	14746
 Responsibilities of Licensed Entities	5665
 Responsibilities of Management	14546,4115
@@ -2000,11 +2042,13 @@ Responsibilities of Monetary Policy Committee Komite	15102
 Responsibilities of NFIS II Stakeholders Type of Stakeholder	940
 Responsibilities of Participants	12364
 Responsibilities of Participants The Participants	12364
+Responsibilities of Project and Operational Roles	19801
 Responsibilities of Public Entities	6432
 Responsibilities of Revenue Officials	15066
 Responsibilities of Service Integrators	11995
 Responsibilities of Stakeholders	5665
 Responsibilities of Stakeholders-	11860
+Responsibilities of Technical and Specialized Roles	19801
 Responsibilities of Technology Companies Operating	8485
 Responsibilities. Assignment	18467
 Responsibility	396,191,1401,970,756,814,718,305,1395,2,600,242,739,918,767,239,312,10,229,125,773,62,22,228,245,53,37,418,86,5,227,1,29,623,496,7,105,19,149,1,152,12,28,127,97,187,343,184,952,42,46,54,72,249,1296,331,652,46
@@ -2119,7 +2163,7 @@ Responsibility of Government	12916
 Responsibility of Lead Agency	13403
 Responsibility of Other Ministries And Agencies	16872
 Responsibility. All Governments	15478
-Responsible	396,393,151,22,242,610,2047,265,535,585,560,787,134,65,412,344,1054,26,1387,1141,25,623,112,40,52,82,124,13,5,21,106,60,93,162,86,215,105,778,133,7,567,1,108,261,12,18,199,309,739,620,34,1,55,4,188,2,251,351,746,40,266,39,176
+Responsible	396,393,151,22,242,610,2047,265,535,585,560,787,134,65,412,344,1054,26,1387,1141,25,623,112,40,52,82,124,13,5,21,106,60,93,162,86,215,105,778,133,7,567,1,108,261,12,18,199,309,739,620,34,1,55,4,188,2,251,351,746,40,266,39,176,816
 Responsible AI	1204,263,347,1002,317,912,81,722,80,156,379,88,47,20,296,140,738,94,325,337,40,90,332,208,951,405,1046,1147,443,1451,1026,142,884,499,1327
 Responsible AI Amazon	3470,255,1109,1305
 Responsible AI Audit Lab	16212
@@ -2316,6 +2360,7 @@ SOCIO-DEMOGRAPHIC CHARACTERISTICS OF RESPONDENTS	17127
 SPACE Economics of Early Response and Resilience	15658
 SRIF Responsable	11944
 STAKEHOLDER RESPONSIBILITY	16926
+STAKEHOLDER ROLES AND RESPONSIBILITIES	19646
 STAKES AND COLLECTIVE RESPONSIBILITY	12050
 STATEMENT OF RESPONSIBILITIES	16978
 STATEMENT OF RESPONSIBILITIES OF MEMBERS	14736
@@ -2349,6 +2394,8 @@ Sectoral Computer Emergency Response Teams	587
 Sectoral Cybersecurity Response Centre	13600,2
 Security Incident Response Team	17862
 Security Incident Response Team Congo Telecom	15553
+Security Roles and Responsibilities	19801
+Security Roles and Responsibilities National	19801
 Self-efficacy Respondents	12246
 Senegal COVID-19 Response Project	18370
 Senegal COVID-19 Response Project PCU	18370
@@ -2357,6 +2404,7 @@ Service Delivery and Local COVID-19 Response Project	16949
 Service Mission Responsabilités Livrables	14537
 Service Providers CSR Corporate Social Responsibility	6946
 Services IDSR Integrated Disease Surveillance and Response	12976
+Severe Acute Respiratory Syndrome	19771
 Sex of Respondents Male Female	12978
 Shaping Responsible AI	8090
 Shared Responsibility	8343,7502
@@ -2400,6 +2448,7 @@ South Sudan Computer Incident Response Team	18649,18
 South Sudan Crisis Response Plan	18659
 Special Envoy for Covid Response	6667
 Spectrum Management Responsible Ministry	16872
+Stakeholder Response Mechanism	19825
 Stakeholder Responsibility Responsible	17114
 Stakeholder Role and Responsibilities	11184
 Stakeholder Roles and Responsibilities	12444,6120
@@ -2524,6 +2573,7 @@ Transforming the HIV Response	15156
 Tropical Neglected Disease Response	10776
 Trustworthy and Responsible AI	16212
 Tunisia COVID-19 Social Protection Emergency Response	19455
+Twenty-five Computer Emergency Response Team	19660
 Type of Use Respondents	17149
 U.S. Responses	4676
 UE Responsable	15712
@@ -2536,6 +2586,9 @@ USE OF ARTIFICIAL INTELLIGENCE Responsibility Does	14565
 USE OF ARTIFICIAL INTELLIGENCE Responsibility for Outputs	14565
 USE OF ARTIFICIAL INTELLIGENCE Shared Responsibility	14565
 Uganda Computer Emergency Response Team	9695
+Uganda Country Refugee Response Plan	19760
+Uganda National Computer Emergency Response	19728
+Uganda National Computer Emergency Response Team	19642,159
 Uganda. The Respondent	3307
 Unclear Roles and Responsibilities	19584
 Under the Emergency Response Plan	18374

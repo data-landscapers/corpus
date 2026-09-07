@@ -15,6 +15,7 @@ Abu Dhabi BioBank and Abu Dhabi Health	15262
 Abu Dhabi Ces	10507
 Abu Dhabi Development Fund	18988
 Abu Dhabi Exports Office	2947
+Abu Dhabi Fund	19825
 Abu Dhabi Fund for Development	13868,962,1746,2412,614
 Abu Dhabi Global Market	14819
 Abu Dhabi Global Water Platform	18550
@@ -269,9 +270,12 @@ DHIS District Health Information System USAID	766
 DHIS and MAGPI	10919
 DHIS-2	1212,2990,147,11138,112,86,799,487,874
 DHIS-2 District Health Information System	15479
+DHIS-2 de PSI Burundi	19645
 DHIS-2. Ce	15599
 DHIS-2. L’accent	15599
-DHIS2	150,1,3,1,63,175,138,199,36,5,206,40,1,143,4,96,563,123,12,504,215,288,205,214,335,71,93,51,232,35,10,89,48,81,245,92,62,191,205,374,312,137,105,515,359,894,455,304,459,418,503,128,587,1,4,49,4,45,3,38,9,12,30,447,37,83,4,28,17,3,7,296,20,58,12,14,7,34,15,9,80,55,2,16,32,9,113,40,5,89,121,106,12,13,109,182,76,2,22,15,3,33,110,8,27,130,75,14,8,7,1,53,60,74,42,8,45,1,123,60,6,136,335,103,40,4,232,25,27,150,1,55,4,40,275,115,9,86,27,12,177,35,23,1,51,184,14,15,14,62,21,35,36,17,13,32,268,174,3,10,2,11,5,14,1,29,8,89,26,7,15,131,42,556,25,12,39,25,22,137,20,12,121,20,3,10,6,232,3,13,20,92,11,11,15,28,44,2,15,81,11,53,187,111,58,70,1,189,17,62
+DHIS-2. Une	19645
+DHIS-Ed	19776
+DHIS2	150,1,3,1,63,175,138,199,36,5,206,40,1,143,4,96,563,123,12,504,215,288,205,214,335,71,93,51,232,35,10,89,48,81,245,92,62,191,205,374,312,137,105,515,359,894,455,304,459,418,503,128,587,1,4,49,4,45,3,38,9,12,30,447,37,83,4,28,17,3,7,296,20,58,12,14,7,34,15,9,80,55,2,16,32,9,113,40,5,89,121,106,12,13,109,182,76,2,22,15,3,33,110,8,27,130,75,14,8,7,1,53,60,74,42,8,45,1,123,60,6,136,335,103,40,4,232,25,27,150,1,55,4,40,275,115,9,86,27,12,177,35,23,1,51,184,14,15,14,62,21,35,36,17,13,32,268,174,3,10,2,11,5,14,1,29,8,89,26,7,15,131,42,556,25,12,39,25,22,137,20,12,121,20,3,10,6,232,3,13,20,92,11,11,15,28,44,2,15,81,11,53,187,111,58,70,1,189,17,62,22,126,3,2,68
 DHIS2 API	12754
 DHIS2 Aceda	11454
 DHIS2 Action VI.1.2 Actualiser	13306
@@ -309,7 +313,7 @@ DHIS2 DSGHP	17845
 DHIS2 Dans	19226
 DHIS2 Data Service	18478
 DHIS2 Database Responsibility for Data Collection	11417
-DHIS2 District Health Information Software	14666,393,3609,876
+DHIS2 District Health Information Software	14666,393,3609,876,123
 DHIS2 District Health Information System	10829,52,679
 DHIS2 District Heath Information Software	13341
 DHIS2 Documentation Skip	12408
@@ -329,6 +333,7 @@ DHIS2 Guinée	16722
 DHIS2 HMIS Data and Public Data Portal	19623
 DHIS2 Home	10881
 DHIS2 Implementation	12198
+DHIS2 Implementation Across Five Countries	19776
 DHIS2 Incidence	4349
 DHIS2 Integration Digital	15200
 DHIS2 Integration. Background	15200
@@ -384,7 +389,7 @@ DHIS2 and VigiFlow	12623
 DHIS2 du Ministère	16195,2733
 DHIS2 for Climate	11589,2224,4909,633
 DHIS2 for EVD	16011
-DHIS2 for Education	1947,2882,1219,979,5153,167,609,1092,1912,949,2,2443
+DHIS2 for Education	1947,2882,1219,979,5153,167,609,1092,1912,949,2,2443,422
 DHIS2 for Education Academy	16911
 DHIS2 for Logistics	13763
 DHIS2-	10780
@@ -392,7 +397,8 @@ DHIS2-AMU	16722
 DHIS2-DEMIS	15960
 DHIS2-ETL	19544
 DHIS2-ETL Figure	19544
-DHIS2-Ed	4829,9219
+DHIS2-Ed	4829,9219,5728
+DHIS2-Ed-enabled	19776
 DHIS2-MTN	14622
 DHIS2-RTS	13763
 DHIS2-based	2678,4349,4569,374,1075,115,1941,3177,3,284
@@ -437,6 +443,7 @@ DHIS2. Les RHA	19226
 DHIS2. Liberia	4202
 DHIS2. Limited	14923
 DHIS2. Lire	19107
+DHIS2. List	19844
 DHIS2. L’objectif du MOP	19226
 DHIS2. L’équipe	19354
 DHIS2. MPME	641
@@ -446,9 +453,11 @@ DHIS2. Over	4202
 DHIS2. PSHPA	10833
 DHIS2. Par	19226
 DHIS2. Plus	19354
+DHIS2. Pour la Covid-19	19645
 DHIS2. Reduced	4338
 DHIS2. Routine	13805
 DHIS2. Such	12246
+DHIS2. Suivant	19645
 DHIS2. Temperature	11589,7133
 DHIS2. Thanks	10928
 DHIS2. Un	19226
@@ -458,6 +467,7 @@ DHIS2. Without	10881
 DHIS2.org	16942
 DHIS2.org Demo Community Developers	12408
 DHL Africa	17870
+DHL Botswana	19651
 DHL Dalsey	19350
 DHL Express SSA	9720
 DHL Express Sub-Saharan Africa	9720
@@ -542,6 +552,7 @@ Demographic and Health Survey DHS	16951
 Department of Employment and Labour DHET	6832
 Department of Home Affairs The DHA	5533
 Description Annually DHIS2	19284
+Deutsche Post DHL	19654
 Develop the DHA Litigation Strategy	11986
 Development Bank of Namibia DHS Demographic and Health	12923
 Dh100m	168
@@ -760,6 +771,7 @@ Information System DHMT District Health Management	3791
 Information System DHRA Directorate of Human Resources	34
 Innovative Use of DHIS2	16911
 Integrate DHIS2	17116
+Island President Ikililou Dhoinine	19822
 Jonathan Dharmapalan	3830
 Junior Minister of Finance Dhaneshwar Damry	7335
 Keeps DHIS2	6153
@@ -818,6 +830,7 @@ Ministry and DHA	11986
 Ministry. DHD	12240
 Ministry. Dr. Dhanandjay KAWOL Senior Chief	14738
 Ministry’s DHIS2	16971
+MoH ICT Section and DHIM	19667
 Mohamed Lemine Dhehabi	18041
 Mondiale DHIS2	17845
 Monsieur Mohamed-Lemine DHEHBY	18073
@@ -916,6 +929,7 @@ SO.SM for DHIS2	4301
 SOO KOOBID FULINTA Dhaqaalaha Soomaaliya	11136
 SPEECH His Excellency Mr Dharambeer Gokhool	14772
 SUPPLY COMMISSION OF MALAWI DHO	12253
+Saharan Africa. DHIS2	19776
 Sanduuga Dhexe	15047
 Sarkaal Dhowrista Xogta	15152
 Sarkaalka Dhowrista	15152
@@ -983,9 +997,11 @@ UDPRSDtVGHVGH DHVWDSDUWH	11527
 UNICEF. On the DHIS2	10780
 US DHS	2954
 University of Oslo. DHIS2	1219
+University of Warwick. DHIM	19667
 Using DHIS2	11970,2953
 Using the DHIS2	16011
 Using the DHIS2 Platform	11912
+Using the DHIS2-Ed	19776
 VAS Reports Assumptions DHA	11986
 VDPV DHA ONO EID EMR	4153
 VDPV1 DA DHIS2 DTC-HepB-Hib	14622

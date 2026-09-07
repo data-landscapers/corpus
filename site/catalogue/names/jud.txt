@@ -157,6 +157,7 @@ High Court Judge Gregory Mutai	9645
 High Court for Judicial	12898
 High Judicial Review Number	14460
 HiiL CEO Udo Jude Ilo	9546
+Hon. Judith Nabakooba	19711
 Honourable Judges	12668,836
 Huduma Judgment	12139
 Human Resources Judicial Services Judicial Data	16943
@@ -227,10 +228,11 @@ Judge Macnaghten	13040
 Judge Matthew Francis	8280
 Judge Phillip Coppin	10955
 Judge Potterill	5323
-Judge President	3714,9206,581
+Judge President	3714,9206,581,6168
 Judge Rapporteur	11704
 Judge Roosevelt Z. Willie	17123
 Judge Sulet Potterill	5323
+Judge Time	19834
 Judge Twala	7910
 Judge Willie	17123
 Judge of Appeal	13504
@@ -239,7 +241,7 @@ Judge. Keeping	9809
 Judged	8015,2194
 Judgement	14742
 Judgements	11240,5733
-Judges	958,2756,1004,282,3460,518,638,2585,342,67,58,254,33,17,124,1,407,444,15,45,401,2438,96,29,1569,74
+Judges	958,2756,1004,282,3460,518,638,2585,342,67,58,254,33,17,124,1,407,444,15,45,401,2438,96,29,1569,74,1040
 Judges Pitch Deck Must Include	13168
 Judges and Magistrates	12668,627
 Judges of State First-Instance Courts	13948
@@ -247,7 +249,7 @@ Judges of The High Court	12955
 Judges of The Industrial Court	12955
 Judges' Clerks and Mediators	12668
 Judging	36
-Judgment	1829,90,1746,11,854,516,1648,4462,1473,411,1369,1,25,14,11,282,3412
+Judgment	1829,90,1746,11,854,516,1648,4462,1473,411,1369,1,25,14,11,282,3412,1660
 Judgment Approved	1829
 Judgment Directing	18211
 Judgment No	8742
@@ -257,6 +259,7 @@ Judicael Elidje	9766
 Judicalex	16684
 Judicalex-gn.org	16684
 Judicature	12453,892,139
+Judicature Act	19628
 Judicaël	15901
 Judicaël Gbaguidi	7355
 Judicaël MOUKANGA AKENDENGUE	16381
@@ -319,7 +322,7 @@ Judicial Power	16943,498
 Judicial Powers	13948
 Judicial Procedures Already Digitized	13253
 Judicial Proceedings and Costs	16949
-Judicial Processes	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
+Judicial Processes	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
 Judicial Professional and Operational Gap Analysis	16943
 Judicial Redress	18595
 Judicial Reform	15231
@@ -340,7 +343,7 @@ Judicial Review of Data Governance Decisions	3861
 Judicial Sales	18883
 Judicial Sector Assessment	17441
 Judicial Service	13504,1926
-Judicial Service Commission	9241,1,3324,53,49,252,518,63,3,115,803,124
+Judicial Service Commission	9241,1,3324,53,49,252,518,63,3,115,803,124,5114,66
 Judicial Service Commission Act	12920
 Judicial Service Commission Meetings	12920
 Judicial Service Commission Meetings The Judicial	12920
@@ -350,7 +353,7 @@ Judicial Strategic Plan	16943
 Judicial Strategic Plan Results Framework	16943
 Judicial Strategic Plans	16943
 Judicial Studies	14685
-Judicial System	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
+Judicial System	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
 Judicial System Judicial Processes Equality	10759,78,1315,188
 Judicial System Slowing Improvement Not Classified	11870
 Judicial Training Institute	10563,2941,3439
@@ -363,7 +366,7 @@ Judicial. Artículo	16855
 JudicialService Commission	16943
 Judiciales	16855
 Judiciaries	16705,1066
-Judiciary	587,371,880,937,92,716,278,122,130,13,592,2228,602,922,20,121,89,278,238,330,496,521,1078,422,111,27,126,40,86,6,14,70,39,86,252,2,24,26,25,96,36,166,50,54,102,1,2,444,326,272,48,158,41,37,17,58,373,567,1013,85,8,7,53,46,44,4,34,10,86,25,138,43,177,839,10,10,42,76,2,117,382,37,4,1,381,22,43,18
+Judiciary	587,371,880,937,92,716,278,122,130,13,592,2228,602,922,20,121,89,278,238,330,496,521,1078,422,111,27,126,40,86,6,14,70,39,86,252,2,24,26,25,96,36,166,50,54,102,1,2,444,326,272,48,158,41,37,17,58,373,567,1013,85,8,7,53,46,44,4,34,10,86,25,138,43,177,839,10,10,42,76,2,117,382,37,4,1,381,22,43,18,39,1,104,26
 Judiciary Automation Project	6946
 Judiciary Branch	16943
 Judiciary Branch of Liberia	17256
@@ -469,7 +472,7 @@ Kenyan Judiciary	9546
 Kindia Judicalex Guinée	16684
 L N MUGAMBI JUDGE	14460
 L'Autorité Judiciaire	15643
-LABOUR ENVIRONMENT Judicial Processes	10835,3,130,902,16,466,1,135
+LABOUR ENVIRONMENT Judicial Processes	10835,3,130,902,16,466,1,135,7334
 LEGAL AND JUDICIAL AFFAIRS	14409
 LIBERIAN JUDICIARY	16943
 LPF. PROCEDURES FOR REGISTRATION OF JUDICIAL	12338

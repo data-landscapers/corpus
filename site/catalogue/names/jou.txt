@@ -53,6 +53,7 @@ Alphonse Claude N’SILOU Journal	15615
 American Economic Journal	12948,5370
 American Journal of Climate Change	19284
 American Journal of Industrial and Business Management	7759
+American Journal of Preventative Medicine	19654
 American Journal of Preventive Medicine. Vol	11560
 American Journal of Sociology	5349
 Ameta-analysis. British Journal of Educational Technology	8602
@@ -95,6 +96,7 @@ British Journal of Contemporary Education	9129
 British Journal of Educational Technology	6948,1654,526
 British Journal of Political Science	7886
 British Medical Journal	9237
+British Medical Journal. Global Health	19654
 Burkina Faso. African Journal of Agricultural Research	15715
 Burkina Faso. Journal of Agricultural Economics	15715
 Burkina Faso. Journal of Rural Studies	15715
@@ -300,6 +302,7 @@ INTERNATIONAL JOURNAL OF RESEARCH AND SCIENTIFIC	12508
 INTERNATIONAL Journal	16047
 IOSR Journal of Business and Management	7759
 ISPRS International Journal of Geo-Information	2096
+ISPRS Journal of Photogrammetry Remote Sensing	19654
 ISPRS Journal of Photogrammetry and Remote Sensing	14769,1366
 Ibid IJNRD2504292 International Journal Of Novel	10979
 Imagery Classification. IEEE Journal of Selected Topics	14769
@@ -467,7 +470,7 @@ Jour Ouwable de Banque	15399
 Jour de Fixation	15901
 Jour-	8605
 Jourceli Tiny	18841
-Journal	311,8,116,417,334,19,43,89,249,1,237,13,253,6,422,1199,653,1,1,1,1,1,1,27,18,44,75,1,43,1,1,1,1,282,830,207,682,370,193,140,54,413,8,254,1,581,2,1,144,379,61,42,589,183,689,183,2,16,6,2,19,54,164,17,331,80,79,360,234,38,189,19,22,39,165,214,172,683,147,480,50,1,4,25,1,1,10,37,809,1,7,6,2,17,15,1,10,5,3,7,6,5,1,7,16,1,5,4,2,21,19,6,11,1,9,11,6,2,5,22,4,4,6,4,4,1,4,1,4,3,45,30,1,1,8,3,19,10,12,3,20,13,6,6,56,15,38,29,3,10,94,2,8,33,5,15,48,1,22,6,53,5,12,1,15,11,21,27,22,23,3,43,12,31,160,19,112,132,117,161,581,25,32,17,2,3,2,1,1,5,1,1,1,4,4,4,1,19,9,4,25,3,80,21,29,74,181,9,15,7,14,68,2,1,24,455,19,71,164,73,1,2,1,5,42,118,6,1,1,1,2,2,2,5,2,36,11,8,2,38
+Journal	311,8,116,417,334,19,43,89,249,1,237,13,253,6,422,1199,653,1,1,1,1,1,1,27,18,44,75,1,43,1,1,1,1,282,830,207,682,370,193,140,54,413,8,254,1,581,2,1,144,379,61,42,589,183,689,183,2,16,6,2,19,54,164,17,331,80,79,360,234,38,189,19,22,39,165,214,172,683,147,480,50,1,4,25,1,1,10,37,809,1,7,6,2,17,15,1,10,5,3,7,6,5,1,7,16,1,5,4,2,21,19,6,11,1,9,11,6,2,5,22,4,4,6,4,4,1,4,1,4,3,45,30,1,1,8,3,19,10,12,3,20,13,6,6,56,15,38,29,3,10,94,2,8,33,5,15,48,1,22,6,53,5,12,1,15,11,21,27,22,23,3,43,12,31,160,19,112,132,117,161,581,25,32,17,2,3,2,1,1,5,1,1,1,4,4,4,1,19,9,4,25,3,80,21,29,74,181,9,15,7,14,68,2,1,24,455,19,71,164,73,1,2,1,5,42,118,6,1,1,1,2,2,2,5,2,36,11,8,2,38,159
 Journal Alousséni SANOU	18003
 Journal Burkinabè	10874
 Journal Citation Reports	11898
@@ -527,6 +530,7 @@ Journal of Applied Meteorology and Climatology	15907
 Journal of Applied Psychology	2948
 Journal of Art	11879
 Journal of Banking Regulation	17780
+Journal of Behavioral Data Science	19654
 Journal of Big Data	961,7643,10951
 Journal of Business	5349
 Journal of Business Research	4432,4028,777,10318
@@ -602,6 +606,7 @@ Journal of Financial Intermediation	10718,592
 Journal of Financial Perspectives	9237
 Journal of Further and Higher Education	9128
 Journal of Futures Studies	11265
+Journal of Geographical Systems	19654
 Journal of Geophysical Research	15907
 Journal of Geophysical Research Atmospheres	16135
 Journal of Global Health Reports	1212
@@ -716,7 +721,7 @@ Journalism and Media Studies	1195,1090,9,275,245,528,1632,459,257,114,242,17,39,
 Journalism's Future Lies	8653
 JournalismAI	13462
 Journalisme	8269,528,9064,34,12,1459
-Journalist	2686,71,293,767,152,59,207,116,37,272,27,235,32,155,234,28,42,152,93,73,278,112,118,72,124,37,21,159,596,627,1271,242,307,500,534,1379,3234,370,2058,812
+Journalist	2686,71,293,767,152,59,207,116,37,272,27,235,32,155,234,28,42,152,93,73,278,112,118,72,124,37,21,159,596,627,1271,242,307,500,534,1379,3234,370,2058,812,1208
 Journalist Andrew Kaggwa	14190
 Journalist Banque	15712
 Journalist Detained	10213
@@ -739,7 +744,7 @@ Journalistes-Réalisateurs	17899
 Journalistes-Réalisateurs BUREAU COMMUNICATION Commissaires	17899
 Journalistes-Réalisateurs Commissaires	17899
 Journalistic	10908,142,2271
-Journalists	2456,565,1542,190,330,311,222,438,1,738,853,505,319,278,334,63,106,409,124,698,529,1084,561,993,465,163,77,630,23,335,503,1173,81,141,971,646
+Journalists	2456,565,1542,190,330,311,222,438,1,738,853,505,319,278,334,63,106,409,124,698,529,1084,561,993,465,163,77,630,23,335,503,1173,81,141,971,646,798
 Journalists Registration Guidelines	17251
 Journalists Syndicate	16568
 Journalists and HRDs	15007
@@ -847,7 +852,7 @@ Ministère Journaliste UE	15712
 Monsieur Boubacary Amadou Journal	17982
 Monsieur Younoussa Journal	17982
 Mother’s Journey	13095
-Multidisciplinary Journal	4432,3590
+Multidisciplinary Journal	4432,3590,11632
 MÉTHODE DES JOURS FIXES	13300
 MÊME JOUR	13300
 N0 LIGNE JOURS	13300
@@ -885,7 +890,7 @@ Official Journal Page	3604
 OfÞcial Journal	15901
 Old Oyo Empire. European Journal of Management	1248
 Open Access Journals DOI Digital Object	14747
-Open Journal of Business and Management	2816
+Open Journal of Business and Management	2816,16924
 Open Journal of Social Sciences	11927,1491
 Oui Journal	18291
 PALOP Innovation Journey	11533
@@ -909,9 +914,11 @@ Planning and International Cooperation. Ambition Journal	16176
 Platform for Investigative Journalism	1250,12940
 Policy Journal	1246
 Polish. Journal of Pragmatics	8460
+Population. THE JOURNEY	19804
 Postgraduate Certificates. Journal Articles	12926
 Potchefstroom Electronic Law Journal	2093,5185
 Premium Times Centre for Investigative Journalism	278
+Press and Journalist Act	19641
 Pressing Needs of Sudanese Journalists	15342
 Princilia De Jouvel	15524
 Processing for Journalistic Purpose	12301
@@ -997,7 +1004,7 @@ South Africa. South African Journal of Education	6832,5095
 South African Computer Journal	1248,7354,1,1,1,1
 South African Journal	9237
 South African Journal of Economic and Management Sciences	4432
-South African Journal of Geomatics	12547
+South African Journal of Geomatics	12547,7107
 South African Journal of Higher Education	6832,1770,526,1
 South African Journal of Higher Knowledge Conference	9128
 South African Journal of Human Resource Management	4432,2400

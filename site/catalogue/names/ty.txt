@@ -98,6 +98,7 @@ Conditions Type Financing	1284,9545,720,1783,3590
 Connection of Type Approved Term	18609
 Connection of Type Approved Terminals	18609
 Consulting Service Type	8726
+Consumption Type	19728
 Contender Typology and Electoral Dynamics	10062
 Contract Complet Description Component Review Type	17180,39
 Contract Type and Payment Schedule	12008
@@ -220,9 +221,13 @@ Heure de Type	19226
 High Resolution HLA Typing	14773
 Hl Ty	15363
 Homba Ngejane TYPES OF CYBERATTACKS EXPERIENCED	1938
+Household Kitchen Type	19715
 Hurricane and Typhoon	13776
 ICR Type	16614,2140
 ICSE-18 Type	11296
+ICT E-Waste By Type of ICT Electronic	19702
+ICT Type	19702
+ICTs By Type And Age Group	19702
 ID Projet Type Coût	17860
 ID Scope System Type Binary	7221
 ID of Contact Person Type of Identity	18452
@@ -254,6 +259,7 @@ Information Type Commentary Information Data	7731,552
 Information Type Research Article Information Data	8436
 Inkhundla Typist	12970
 Interactionnel TYPE DE SERVICE Service SemiTransactionnel	15936
+Internet Access and Type of Connection Figure	19639
 Investor Type	4972
 Item Type	10878
 Item Type Article Elements ID	10878
@@ -292,7 +298,7 @@ Mauritania Type	17927
 May-2025. Review Type	11965
 Measure Type Details Proposed Responsible Party	17157
 Measure Type Details Responsible Party Operational	17157
-Media Type	1009
+Media Type	1009,18661
 Message Type	11276
 Message Type PAFEN	13452
 Message Type TTC Types MT298 SMT	12364
@@ -357,6 +363,7 @@ Open Bidding National Commencement Type	13621
 Operation of Various Types of Bodies Performing Inspection	16900
 Operator Type	15136
 Operator Type Compliance	6432
+Organization Type	19670
 Ousmane M. Ousmane Dr Tyéri Noms	17882
 Output Type LaserJet Enterprise	34
 Ownership Type	10718,462,1209
@@ -399,6 +406,7 @@ Planned Action Type Service	16885
 Platform Sector Type Piloted	13314
 Platform Type Web-based	12211
 Polarization Deployment Type Front	736
+Population Type Number of Persons	19715
 Post Clearance Audits Type of Audit	13053
 Post Office Address Type	11129
 Post Type Selectors	17887,5,11
@@ -764,8 +772,10 @@ Type des Directions des Services Informatiques	15512
 Type of Account	12400
 Type of Agricultural Activity	13455
 Type of Amenities	2775
+Type of Applications Children Used	19702
 Type of Assessment	13381
 Type of Asset	2775
+Type of Bathroom	19715
 Type of Bill	11247
 Type of Building for Domestic Firms	12389
 Type of Building for Foreign Firms	12389
@@ -779,6 +789,7 @@ Type of Disability and Sex	2775
 Type of Disease and Livestock Type	17043
 Type of Disease and Poultry Type	17043
 Type of Documents	12550
+Type of Dwelling Unit	19715
 Type of Entity	12400
 Type of Equipment FY	6946
 Type of Facility	19544
@@ -786,15 +797,20 @@ Type of Fruits Crops Produced	17043
 Type of Fund Manager	4972
 Type of Funding	14924
 Type of Grower	2775
+Type of ICT	19702
+Type of ICT Electronic Equipment	19702
 Type of Impairment	14775
 Type of Inspections Carried Out During Construction	12389
-Type of Internet	14836
+Type of Internet	14836,4803
 Type of Internet Access	14723
 Type of Internet Access Broadband Internet	14723
+Type of Internet Connection Figure	19639
 Type of Internet Service Provider	18444
 Type of Investment	14830
 Type of Investment Figure	14830
+Type of Investment GIF Growth	19757
 Type of Investment Infrastructure Works	14830
+Type of Kitchen	19715
 Type of Labor	17043
 Type of Labor Used	17043
 Type of Language and Sex	19542
@@ -813,6 +829,7 @@ Type of Notifications Received	11259
 Type of Obstacle Coordonnées Coordinates Altitude	16552,454
 Type of Offence	2775
 Type of Offence and Sex	2775
+Type of On-Grid Activities	19646
 Type of Operations National	6938
 Type of Personal Data	13004
 Type of Population Resident	16921
@@ -823,6 +840,7 @@ Type of Residence and County	16921
 Type of Residence and County Male Female	16921
 Type of Residence and County Owned Mortgaged	16921
 Type of Residence and County Total Urban	16921
+Type of Sanitation Number	19715
 Type of Serial Number of Equipment Equipment Vehicle	736
 Type of Service	22
 Type of Service Indicator Baseline Forecast	236
@@ -833,7 +851,8 @@ Type of Technology	2775
 Type of Television Service Authorised TV Stations	2776
 Type of Tenure	13399
 Type of Text IP-related Laws Subject Matter	16839
-Type of Toilet Facility	16921
+Type of Toilet Facilities	19715
+Type of Toilet Facility	16921,2794
 Type of Toilet Facility and Place of Residence	16921
 Type of Toilet Facility and Place of Residence Urban	16921
 Type of Toilet Facility for Household	16921,193
@@ -851,7 +870,7 @@ Type-approval	16810,74,366
 TypeORM	17902
 TypeScript	5513,6409,322
 TypeScript and Python	13272
-Types	582,136,529,691,686,4597,569,1616,682,788,99,29,135,55,30,293,439,8,415,81,575,36,228,1,81,37,651,355,64,1,48,273,86,23,104,106,211,89,44,1,18,82,21,127,52,134,28,108,3,504,1,84,78,137,155,37,71,2,33,339,26,589,66,143,108,136,545,120,121,166,12,24,41
+Types	582,136,529,691,686,4597,569,1616,682,788,99,29,135,55,30,293,439,8,415,81,575,36,228,1,81,37,651,355,64,1,48,273,86,23,104,106,211,89,44,1,18,82,21,127,52,134,28,108,3,504,1,84,78,137,155,37,71,2,33,339,26,589,66,143,108,136,545,120,121,166,12,24,41,54,167
 Types Effectif Pourcentage	10875
 Types Gouvernance	14424
 Types Installed ENERGY MIX Generation	12358
@@ -876,6 +895,7 @@ Types of Licences	16835
 Types of Licenses	15484,1367
 Types of Losses and Eligible Persons	17114
 Types of M&E	19520
+Types of MDAs	19639
 Types of Misconduct Addressed	11218
 Types of Movable Assets	12389
 Types of Official Statistics Used	17149
@@ -892,7 +912,7 @@ Types of Supporting Documentation. The Bank	18887
 Types of TB	16971
 Typhoid	12729
 Typhoid Fever	16935
-Typical	5238,3885,2883,353,590,88,148,1489,323,167,176,2530,775,79
+Typical	5238,3885,2883,353,590,88,148,1489,323,167,176,2530,775,79,1102
 Typical Bills of Quantities Price Code	13385
 Typical Mediterranean Countries	17157
 Typical SaaS	16923,1
@@ -942,6 +962,7 @@ X. TYPOLOGIE ET ANALYSE DES RISQUES	10876
 X.2. Typologie	10876
 Y6fu Tyw5Gc9m5dmiPkV Ms2YdiAozb8slwOrSoF0	18179
 Year Number of Type Approved Equipment Average	12395
+Years Who Used Internet By Type	19702
 Zimbabwe Health Facility Type Code System	6666
 Zimbabwe Health Facility Type Value Set	6666
 Zone Tyaret	19439

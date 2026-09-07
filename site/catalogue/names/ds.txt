@@ -156,6 +156,7 @@ DSI Bénin	6744
 DSI DAAF Direction	14537
 DSI Directeur du Système	14539
 DSI Direction des Systèmes	11944
+DSI Directorate	19847
 DSI Graphique	15512
 DSI Inférieur	15512
 DSI MDENP Moyen	15512
@@ -196,7 +197,7 @@ DSMP-2024	5740
 DSMP.2022. Données	11944
 DSN Mali. Prior	17870
 DSN. Il	3465
-DSNIS	11892,20,1394
+DSNIS	11892,20,1394,6339
 DSNIS Nombre	13306
 DSNISI	11599,7627,58
 DSNISI Direction	19216,134
@@ -214,11 +215,11 @@ DSO EEU	12233
 DSP AdMob	13461
 DSP DSP	13461
 DSP Digital Society Project	11887,266,1,9,178
-DSP Digital Society Project V-DEM Varieties	10835,3,130,902,16,466,1,135
+DSP Digital Society Project V-DEM Varieties	10835,3,130,902,16,466,1,135,7334
 DSP Eau Annexes Annexe	17866
 DSP Ovie Ewhubare	4725
 DSP and SSP	13461
-DSP&V-DEM	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1,135
+DSP&V-DEM	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1,135,7164,1,169,14
 DSP-i	6091
 DSP. Cette	16399
 DSP. Target	12419
@@ -346,6 +347,7 @@ Diffusion du DSDS	18291
 Digital Single Market DSFOne	6832
 Digital Trade. Where DSM	1243
 Directeur Régional de Santé DS	15720
+Directeur du DSNIS	19645
 Direction Générale des Routes DSNIS	13377
 Direction Régionale de Développement Rural DS	18291
 Direction des Ressources Humaines DSCVM	10874
@@ -441,6 +443,7 @@ NBC and DSE	14176
 NER-MJ DS Base	18111
 NITDA-CERRT and DSS	5132
 National DSA Team	18500
+National Retail Payments Switch PCI DSS	19664
 Netflix and DStv	8130,7159
 No. Indicates the DS-3	15164
 Nombres de DSF	16328
@@ -456,7 +459,7 @@ Organiser des CPS SS DS PF Etat	17845
 Organiser des DSGHP ETAT	17845
 Organization DS Direct Support E&S Environmental	15138
 P. O. Box DS	3386
-PCI DSS	434,1916,4121,1310,3218,3662,173,2044,46,993
+PCI DSS	434,1916,4121,1310,3218,3662,173,2044,46,993,1747
 PCI DSS Certified	12285
 PMEs A DSPDP de Macau	6568
 Paramétrage des CPS-SS DS	17946

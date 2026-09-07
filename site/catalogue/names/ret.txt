@@ -97,7 +97,7 @@ Caisse Autonome de Retraite Parlementaire	11597
 Caisse Générale de Retraite des Agents de I'Etat	15419
 Caisse Interprofessionnelle Marocaine de Retraites	17448
 Caisse Militaire de Retraite	13908
-Caisse Nationale de Retraite	19413
+Caisse Nationale de Retraite	19413,437
 Caisse Nationale de Retraites	17448
 Caisses de Retraite	10711
 Capacidade Humana Determinará O Retorno	8827
@@ -308,6 +308,7 @@ Hon. Retselisitsoe Matlanyane	2416
 Hospitals Must Rethink Cyber	3279
 ICT Competency Framework for Teachers. Retrieved	899
 ICT Day. ITU News. Retrieved	16144
+ICT Retooling Programme	19725
 ID. Retrieved	10819
 IDEAL CANDIDATES FOR RETAIN	6432
 IDEAL CANDIDATES FOR RETIREMENT	6432
@@ -327,6 +328,7 @@ ISTQB. Retrieved	18470
 Implications for Internet Governance. Retrieved	1243
 Improve the Return Filing Process	17011
 Improve the Return Filing Process Streamlining	17011
+Improving the Retail Payments Infrastructure	19664
 Inadequate Contractual Controls and Low Return	19585
 Inclusion and Social Economic Opportunities ROI Return	19585
 Income Tax Returns	13142,1391
@@ -443,6 +445,7 @@ NPV Return	11924
 Namibia Operator Pushes GSM. RetrievedAugust	12325
 National Archives Retention Fund	13420
 National Broadband Strategy. Retrieved	16942
+National Centre for Research Methods. Retrieved	19654
 National Fund for Retirement and Social Security	19392
 National Health Insurance BUI. Retrieved	1009
 National Health Insurance Bill. Retrieved	1009
@@ -453,6 +456,8 @@ National National Interbank Retail	6938
 National Retail Payment Strategy	16876
 National Retail Payment Switch	12589,9
 National Retail Payment Systems	13388
+National Retail Payments Switch	19650,14
+National Retail Payments Switch PCI DSS	19664
 National Returning Officer	18459
 Net Present Value Internal Rate of Return	15553
 Net Return	11955
@@ -556,7 +561,7 @@ RECORDS AND RETURNS OF BIRTHS	12898
 REP Rwanda Energy Policy RET Renewable	14947
 REQUEST FOR RETURN OF FUNDS MT101	16844
 RET Internation	17971
-RETAIL PAYMENTS	4517,2461
+RETAIL PAYMENTS	4517,2461,12686
 RETAIL PAYMENTS ACCESS POINTS FOR SENDING	13388
 RETAIL TECH	2258
 RETAILERS	12948
@@ -603,6 +608,7 @@ RIM Retrieve Form for Data Capture REST	1009
 RMCD Return	17235
 ROI Return	6432
 RS Retrieve Form for Retrieve Form for Data	1009
+Rate of Return	19677
 Rate of Return E-PAMP E-governance and Public Administration	11863
 Rate of Return ESCP Environmental and Social	11549
 Rate of Return IDA International Development Association	11924
@@ -660,10 +666,13 @@ Retail Licence D1	17250
 Retail Limits Calculator Check	12882
 Retail Managers	16266
 Retail Mobile	19214
+Retail Mobile and Fixed Products Figure	19728
 Retail Payment	12286
 Retail Payment Systems	13206
+Retail Payments	19664
 Retail Payments Access Points for Sending and Receiving	13388
 Retail Payments Infrastructure All CEMAC	16942
+Retail Payments System SIPS	19664
 Retail Price	18931
 Retail Price of Internet	15424
 Retail Prices of Internet Services Sources	15424
@@ -694,7 +703,7 @@ Retailer's Association of Zimbabwe	12490
 Retailers	236,4589,2883,1291,833,7597
 Retailing	16256
 Retailing Price Code Gr	13385
-Retain	4896,1536,6067,2175,1039
+Retain	4896,1536,6067,2175,1039,4088
 Retain Complianc	6432
 Retain IMPLEMENTATION CHECKLIST BY STRATEGY	6432
 Retained	0,582,115,27,52,1602,117,772,1386,243,208,2094,940,270,3547,1,5280,1821
@@ -717,7 +726,7 @@ Retarder	7715
 Retards	8556,2318,2650,1049,3309,19,72
 Retargeting	9855
 Retenons	15965
-Retention	28,559,1353,6496,2698,45,2,104,667,43,52,604,268,10,1,8,66,1,376,185,79,790,14,444,3,101,37,130,813,855,7,1623,79,342,626,21,55
+Retention	28,559,1353,6496,2698,45,2,104,667,43,52,604,268,10,1,8,66,1,376,185,79,790,14,444,3,101,37,130,813,855,7,1623,79,342,626,21,55,49
 Retention Fund	4389,1,1,1
 Retention Funds	4389
 Retention Lock	13185
@@ -786,7 +795,7 @@ Retired Institute of Rural Development Planning	19542
 Retiree	582
 Retiree R	582
 Retirees	16970
-Retirement	4896,6320,1458,249,49,81,1683,8,1,16,236,4164
+Retirement	4896,6320,1458,249,49,81,1683,8,1,16,236,4164,555
 Retirement Benefits	14546,196
 Retirement Benefits Act	14997
 Retirement Benefits Authority	6938
@@ -804,6 +813,7 @@ Retomamos	1948
 Retombées	15493,2831
 Retool	11956
 Retooling	13474
+Retooling of Ministry of ICT	19641
 Retorno	15564
 Retos	16965
 Retouche	13341
@@ -846,7 +856,7 @@ Retrieval	37,932,1920,1325,444,3578,2381,148,10,6764,1018
 Retrieval-Augmented	12210
 Retrieval-Augmented Generation	10991,3799,3767
 Retrieval-augmented	7789
-Retrieve	1009
+Retrieve	1009,18792
 Retrieve Information for RFC1738	1009
 Retrieve SA NHIS Sharing Value Sets	1009
 Retrieve Sharing Value Sets	1009
@@ -859,6 +869,7 @@ RetrievedJanuary25	8606
 Retro-information	19226
 Retroactive	10937
 Retroactividade	11384
+Retrocession Allocations DTS	19850
 Retrocesso Democrático	11436
 Retrocessos	11387
 Retrogressive	3583
@@ -907,9 +918,9 @@ Returning	6179,972,460,3425,5880
 Returning Elections Officer	14852
 Returning IDP	16585
 Returning Officer	9645,8814
-Returning Officers	18459
+Returning Officers	18459,1278,16
 Returning Refugees and Internally Displaced Persons	15224
-Returns	11276,603,97,17,537,796,240,1151,163,134,647,775,800,868,355,1,96
+Returns	11276,603,97,17,537,796,240,1151,163,134,647,775,800,868,355,1,96,1071
 Returns And Compliance	12454
 Returns for Individuals	11976
 Returns for Value Added Tax	11976
@@ -954,6 +965,7 @@ Smooth Pension and Retirement Process The CSA	16985
 Solutions Strengthening Regional Cooperation for Returns-	10864
 Sources of Income for Central African Republic Returnees	10841
 Sources of Income for Returnees	10841
+Staff Retention. Eighteen	19712
 Staff Retirement Benefits Scheme Data Controller	7167
 Staff Retirement Benefits Scheme Data Processor	7167
 Stakeholders' Retreat	9571

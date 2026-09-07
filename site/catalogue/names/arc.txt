@@ -1,6 +1,7 @@
 ABREVIATIONS ET ACRONYMES ARCT APROTIC BAD	13290
 ACRONYMS ARCEP Africa Coast	16144
 ADM Arcade Bigirindavyi EAERU Responsible	1284
+ADM Archimate	19638
 AI Architecture	5482
 AI Artificial Intelligence ARC Academic Research	14747
 AI Declaration. It Needs Architecture	7112
@@ -187,7 +188,7 @@ Additional Financing AM Accountability Mechanism ARCEP	2889
 Advanced Level GIAC Defensible Security Architecture	15662
 Africa. Trust Architecture	11138
 African Financial Architecture	5202
-African Financial Architecture for Development	6338,10446
+African Financial Architecture for Development	6338,10446,3035
 African Governance Architecture and African Peer Review	3583
 African Graduate Program ARCA	13377
 Agreement SOA Service Oriented Architecture SRMP	12359
@@ -198,7 +199,8 @@ Annex Architecture and Technology	18470
 Annual ARCT	13331
 Anta Babacar NGOM ARC F	18310
 Application Architects	19513
-Application Architecture	9124,5841
+Application Architecture	9124,5841,4673
+Application Architecture Application	19638
 Application Architecture Principles	14441
 Application Modelling Application Architecture	9124
 Application and Technology Architecture BU Business Unit	12359
@@ -215,6 +217,7 @@ ArcFM	18324
 ArcGIS	2989,1990,5782,113,2608,220,223,1032,1918,282,98,863,179,27,152,99
 ArcGIS Collector	10761
 ArcGIS Dashboard	17157
+ArcGIS Desktop	19654
 ArcGIS Drone2Map	10761
 ArcGIS Enterprise	10761,3137
 ArcGIS Online	4979,869,11309
@@ -228,6 +231,7 @@ ArcGIS. Tanto	16875
 ArcGis	11231
 ArcIhtahnadtesdeurcvaetsiotnhe	15713
 ArcMap	17157
+Arcade Bigirindavyi	19687
 Arcadia	11224,125
 Arcadia PRETORIA	11184
 Arcelor Mittal	17257
@@ -251,7 +255,9 @@ Archbishop Elia Taban	18666
 Archbishop Emeritus	19602
 Archdiocese of Dar	19602
 Archetype F	5549
-ArchiMate	9124
+Archi	19638
+ArchiMate	9124,10514
+ArchiMate Notation	19638
 Archibald	18301
 Archie Kariuki	10840
 Archie Mafeje	11027
@@ -262,7 +268,7 @@ Archipel. Néanmoins	15474
 Archipelago	14742,1236
 Archipelago Nation OUR GUIDING PRINCIPLE	19615
 Archipelagos	789
-Architect	9124,5317,1771,1827
+Architect	9124,5317,1771,1827,1796
 Architecte	15432,110
 Architecte Blaise Ouo Foromo	16611
 Architecte Cloud	18395
@@ -277,7 +283,7 @@ Architectes SI Revue	14438
 Architecting Feminist Digital Futures	8713
 Architecting for AI	4434
 Architecting the Guardrails	8710
-Architects	2674,1453,12760
+Architects	2674,1453,12760,2751
 Architects Act	13311
 Architects and Quantity Surveyors Registration Act	19585
 Architects and Quantity Surveyors Registration Board	19585
@@ -286,19 +292,24 @@ ArchitectsTerror-TheSentry June2023.pdf	4127
 ArchitectsTerror-TheSentry-June2023	4127
 ArchitectsTerror-TheSentry-June2023.pdf	4127
 Architectural	2477,5313,3343,3788
+Architectural Building Blocks	19638
+Architectural Building Blocks Each Architecture Building	19638
 Architectural Requirements	13185
 Architectural Schematic Diagram	13005
 Architectural Schematic Diagram FIGURE	13005
 Architectural Schematic Diagram for National	13005
 Architectural and Structural	9123
 Architectural and Structural Design	9123
-Architecture	396,544,69,275,656,1456,821,1343,105,718,40,1247,397,136,1034,1947,768,91,140,176,41,31,900,151,269,90,296,301,228,93,635,161,165,84,97,42,94,258,146,159,9,315,173,340,97,289,22,37,20,395,113,21,790,63,76,2,5,134,75
+Architecture	396,544,69,275,656,1456,821,1343,105,718,40,1247,397,136,1034,1947,768,91,140,176,41,31,900,151,269,90,296,301,228,93,635,161,165,84,97,42,94,258,146,159,9,315,173,340,97,289,22,37,20,395,113,21,790,63,76,2,5,134,75,62,7
 Architecture All	10616
-Architecture Building Block	6423
+Architecture Building Block	6423,13215
+Architecture Building Blocks	19638
 Architecture Built Around Secure Identification	6581
 Architecture DHORT	18291
+Architecture Development Method	19638
 Architecture Documentation	5665
 Architecture ESCOM Electricity Supply Cooperation of Malawi	12917
+Architecture ETA Electronic Transactions Act FIA	19660
 Architecture Existante	18297
 Architecture Existante NB	18297
 Architecture Framework Terminology Executive Summary	12359
@@ -308,6 +319,11 @@ Architecture Lay	12917
 Architecture Marketing	16266
 Architecture Numérique Nationale	16609
 Architecture Planning	14441
+Architecture Principle	19638
+Architecture Principle. Architecture Requirement	19638
+Architecture Principles View	19638
+Architecture Principles View Architecture Principles	19638
+Architecture Requirement Base Registry Data Policy	19638
 Architecture SI	19362
 Architecture SNIP	12043
 Architecture Technique	17902
@@ -342,7 +358,7 @@ Archive Center	13624
 Archive Nationale des Données du Tchad	19204
 Archive Register	18440
 Archive Subscribe Now Desert Radio Podcast	11122
-Archived	2712,1976,1735,156,254,95,949,2993,41,484,593,240,39,173,284,303,31,801,51,6,1,3,136,924,37,14,128,576,2,342,626,289,6,79,17,374,35,399,54,48,127,217,4,1,179,258,25,165,101,159,7,232
+Archived	2712,1976,1735,156,254,95,949,2993,41,484,593,240,39,173,284,303,31,801,51,6,1,3,136,924,37,14,128,576,2,342,626,289,6,79,17,374,35,399,54,48,127,217,4,1,179,258,25,165,101,159,7,232,348
 Archived Articles	11220,21
 Archived DO Rating IP Rating Actual	15731
 Archived Documents	11220
@@ -350,7 +366,7 @@ Archived Information National Archives Building	11349
 Archivematica	8021
 Archiver	14440
 Archives	1988,1794,2507,818,833,81,618,111,1274,381,570,583,767,161,353,51,1852,422,391,29,70,24,23,474,70,390,806,93,290,3,61,188,212,5,44,1068
-Archives Act	12890
+Archives Act	12890,6911
 Archives Actualité Mémoire de Yamoussoukro	9620
 Archives CEA	10975
 Archives Code	12325
@@ -406,6 +422,7 @@ Bridgforte Trust Architecture Framework Five	11138
 Bridgforte Trust Architecture Framework Taken	11138
 Building the Architects	5482
 Burkina Faso's ARCEP Launches National Drive	6939
+Burundi. ARCT	19645
 Business Architecture	14965
 C. Architecture	14759
 CALLYCHURN Rajnath Director Architecture Ministry	14770
@@ -446,6 +463,7 @@ Common Architecture and Standards Quick	12917
 Common National Digital Architecture	4126
 Common Statistical Production Architecture EDRMS Electronic	17116
 Commonwealth Association of Architects	12369
+Competency Architecture	19807
 Component Based Enterprise Systems Architecture	18478
 Component Based Enterprise Systems Architecture Legislation	18478
 Comprehensive System Assessment Core System Architecture	13395
@@ -528,6 +546,7 @@ E. International Cooperation Architecture	17745
 E.A.P.C Archers Child Development Centre Data	7167
 EA Enterprise Architecture	11261
 EA Enterprise Architecture GCIO Government Chief	11184
+ENTERPRISE ARCHITECTURE	19638
 ENTREPRENEURS Parties Prenantes Teliman Groupe Arc-En-Ciel	17856
 ESWATINI NATIONAL ARCHIVES AND RECORDS SERVICE	12971
 ET DES ARCHIVES	16381
@@ -537,8 +556,9 @@ EU Enterprise Architecture FHIR HIMSS Electronic	1009
 Edward Archibald	10763
 Emerging Technologies Delivery Architecture	7548
 Emerging Technology ARCAI African Research Centre	1814
-Enterprise Architects	6832
-Enterprise Architecture	4126,1407,3070,521,1661,399,802,373,94,464,428,642,454,1099,1345,39,1586
+Enterprise Architects	6832,12806
+Enterprise Architects and Modellers	19638
+Enterprise Architecture	4126,1407,3070,521,1661,399,802,373,94,464,428,642,454,1099,1345,39,1586,1128
 Enterprise Architecture DGov	9237
 Enterprise Architecture DSUB Electronic Business	1009
 Enterprise Architecture Data Capturing Template	9124
@@ -551,6 +571,7 @@ Enterprise Architecture Governance	12359
 Enterprise Architecture Governance Background Management	12359
 Enterprise Architecture Governance Framework	12359
 Enterprise Architecture Model	13600,2
+Enterprise Architecture Modelling Language ArchiMate	19638
 Enterprise Architecture Practice	12359
 Enterprise Architecture Principles	12359
 Enterprise Architecture Standards	9124,10451
@@ -565,6 +586,7 @@ Etc. Data Design Agile Sécurité Architecture	19221
 Ethiopia. Arch Public Health	8376
 Ethiopian National Enterprise Architecture Framework	13987
 Eurasian Internet Governance Architecture for RIPE NCC	3874
+European Interoperability Reference Architecture	19638
 Evaluation Methods Archive	15570
 Excellency Prof. Faustin Archange TOUADERA	16519
 Existing Frameworks The Bridgforte Trust Architecture	11138
@@ -582,6 +604,7 @@ Final Provisions and Implementation Architecture	17745
 Financial Architecture	9672
 Financial Architecture Summit	7341
 Financial Architecture for Africa	5202
+Firewall ZTA Zero Trust Architecture	19801
 Fonction Publique NADA National Data Archive	15479
 Four Architectures	6996
 Four Occupational Archetypes	16266
@@ -599,6 +622,9 @@ GEONETCast. ARC-ISCW	11334
 GHz COR-RAD-MIM- Conforme ARCEP-180521	998
 GHz D PETROLEUM S.A ARCEP	998
 GIPIS Architecture	16600
+GIRA Architecture Building Block	19638
+GIRA Architecture Building Blocks	19638
+GOU ArchiMate	19638
 GOVERNANCE ARCHITECTURE	14441
 GOVERNANCE ARCHITECTURE Enterprise Architecture Governance	14441
 GOVERNMENT ENTERPRISE ARCHITECTURE	14441
@@ -610,15 +636,20 @@ Gabon's ARCEP	3963
 Gabriel Arcanjo	18896
 Gabriel Arcanjo Ferreira da Costa	18895
 General Requirements and Architecture. Specifies	11269
+Gestion. ARCT	19687
 Global Financial Architecture	10980
 Gov Enterprise Architecture I-2	10785
 GovSpecs Architecture	6423
 GovStack Architecture	6423
 Government Application Architecture	14965,4610
+Government Architecture	19839
 Government Architecture Vision	19510
 Government Business Architecture	19576
-Government Enterprise Architecture	963,321,3780,1294,2250,236,3108,1379,1110,84,3834,264,622,265
+Government Enterprise Architecture	963,321,3780,1294,2250,236,3108,1379,1110,84,3834,264,622,265,128
 Government Enterprise Architecture Framework	5994,11286,114
+Government Enterprise Architecture. TOGAF	19638
+Government Interoperability Framework Reference Architecture	19638
+Government Interoperability Reference Architecture	19638
 Government Platform EA Enterprise Architecture EAF	12359
 Government Security Architecture	19513,63
 Government Security Architecture Reference Framework	19513
@@ -679,12 +710,13 @@ Infrastructure Architecture Specialist	12359
 Institut National des Archives	15584,797
 Institut National des Archives du Congo	15584
 Institutional Architecture	15059
+Institutional Enterprise Architecture	19639
 Int Arch Med	10780
 Integration Architect Principles	14441
 Integration Complexity Architecture Level Distributed	5665
 Integration DOA Digital Object Architecture DRC	718
 Internet Archive	439,10283,29,1,1,17,45,150,8,17,7924,32
-Internet Archive Wayback Machine	4165,7775,204,24,9,1,12,26,1,1,73,2388,964,1394
+Internet Archive Wayback Machine	4165,7775,204,24,9,1,12,26,1,1,73,2388,964,1394,2717,67,2,11,3,6
 Internet Exchange Point ARCEP Autorité de Régulation	15592
 Interoperability Architecture	1009
 IoP Global Architecture	15518
@@ -737,6 +769,7 @@ Mrejesho. Archive	19537
 Muhetu Wachata Architect	13392
 Multi-System Architecture Built for Interoperability Sri	13160
 Multi-Tenant Architecture Matters	11987
+Mutualité des Caféiculteurs. BIBLIOGRAPHIE ARCT	19645
 NARSSA National Archives and Record Service of South	11196
 NGDX Standards and Architecture Documents Annexure C	11952
 NPRS Person Profile Data Architecture	12337
@@ -797,15 +830,18 @@ Odesa Archaeological Museum13	15750
 Onatel ARCT ARCT MiniTPT ARCT	13290
 Open Architecture	5700
 Open Archival Information System	9888
-Open Group Architecture Framework	21,12338,222
+Open Group Architecture Framework	21,12338,222,7057
 Open Group Architecture Framework UML	11184
 Open Menu Home Announcements Current Archives	12486
+Orbus Software Archi	19638
 Order of Architects	11941
 Ordre National des Architectes	15416,126
 Ordre des Architectes du Sénégal	18431
 Organizational Architecture	18446
 Organizational Architecture Sierra Leone	18446
 Orientações da ARCTEL	18778
+Overall Architecture	19667
+Overall Architecture The EMRS	19667
 PIU Government Enterprise Architecture and MINCOTIM	13331
 PIU MFBPE ARCT MFPTE MINSOLID Technical	1284
 PKI Architecture du Réseau Métropolitain	13341
@@ -861,6 +897,7 @@ Records and Archives Management	13477
 Records and Archives Management Excellence Award	13477
 Records and Archives Management Excellence Awards	13477
 Reference Architecture Framework	19513
+Reference Architecture. Architecture	19638
 Regional Maritime Security Architecture	14748
 Registration of Architects and Quantity Surveyors BOSA Back	2775
 Regulator ARCEP	15424
@@ -903,7 +940,7 @@ Security Architecture Framework	19513
 Senior Blockchain Architect and Developer	11869
 Senior System Architect	15019
 Service Orientated Architecture	15518
-Service Oriented Architecture	11371
+Service Oriented Architecture	11371,8267
 Service Provider Architecture	11952
 Service Provider Architecture Standards	11952
 Service Provider Architecture Standards Requirement	11952
@@ -917,6 +954,7 @@ Software ArcGIS Pro Advanced. INEGE	16898
 Software ArcGIS Pro Advanced. Objetivo Operativo	16898
 Software Architecture	13185
 Software Developers Enterprise Architects Systems	21
+Solution Architects	19638
 Solution Design and Architecture	12400
 Son Excellence Pr Faustin Archange TOUADERA	1748,14771
 Son Excellence Pr Faustin Archange Touadera	15543
@@ -957,6 +995,7 @@ Tier Broadband Architecture Framework	11857
 Togo ARCEP	19250
 Togo Archétypes ID ID ID Gateway	19221
 Training Architecture	19079
+Training Content Architecture	19807
 Transformation Digitale Cina Lawson. ARCEP	1205
 Trust Architecture	11138
 Trust Architecture Framework	11138
@@ -967,6 +1006,7 @@ UHF A SERVICES ARCEP	998
 UHF D PETROLEUM S.A ARCEP	998
 UNE ARCHITECTURE FONCTIONNELLE NOVATRICE Pour	15625
 USF. ARCEP Court Elevée Appuyer	15474
+Uganda Digital Health Enterprise Architecture	19667
 Une Architecture Africaine	17983
 Unified Digital CRVS Architecture	13589
 Usefulness of ARCEP	5679
@@ -979,5 +1019,5 @@ Web Foundation. ARCT	13314
 Yao Awadjie Liberia Institute of Architects	17260
 ZERO Internet Archive	11569
 Zambia's New Electoral Architecture	14277
-Zero Trust Architecture	5793,4928,1519,5506
+Zero Trust Architecture	5793,4928,1519,5506,2055
 Zero-trust Architecture	12240

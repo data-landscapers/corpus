@@ -98,7 +98,7 @@ BB942 Maison	16552
 BCDF LES MAIRIES Secrétariat Exécutif DADE	10876
 BEATRICE MUTHONI MAINA Data Controller INST-2953140F83A	7167
 BOCRA Acting Chief Executive Officer Maitseo	7239
-BPC's Network Infrastructure Maintenance	12563
+BPC's Network Infrastructure Maintenance	12563,7114
 BUILT AND MAINTAINED WITH SUPPORT	6133
 BUJUMBURA MAIRIE	13390
 BURUNDI Mai	13613
@@ -124,7 +124,7 @@ Bubanza Mairie	13300
 Budget for Tanzania Mainland	19519
 Build and Maintain	2608
 Buja Mairie Total D Taille	13390
-Bujumbura Mairie	13300,49,41,52,193
+Bujumbura Mairie	13300,49,41,52,193,6065
 Bujumbura Mairie Province	13349
 Bujumbura Mairie. Chaque	13300
 Bujumbura Mairie. Dans	13300
@@ -291,6 +291,7 @@ Disabilities Mainstreaming The DHA	5533
 Disability Mainstreaming	12977
 Disaster Risks and Capacity Needs for Tanzania Mainland	19520
 Discussion Main Findings	14666
+Distribution Maintenance System	19677
 Distribution Unit PMC Preventive Maintenance Compliance	13185
 District de Mainé	18105
 Dix Maisons	15780
@@ -315,6 +316,7 @@ E FROID MAINTENANCE REPARATION SARL FMR	16623
 E Operations and Maintenance	11007
 E Regular Operations and Maintenance	11006,1
 E-Mail Electronic Mail EMR Electronic Medical	34
+E-services Mainstream ICT	19660
 E.g. Mainstream	11004,960
 ECOWAS Mail	16243,1693
 EMS Expedited Mail Service ENSO El-Nino	2775
@@ -347,9 +349,11 @@ Equipment and Maintenance Department	18370
 Eric Maimela	8604
 Eric Muli and Michael Maina	10464
 Escadron Djibrilla MAIGA DGGN. CIVILE	18032
+Establish and Maintain	19776
 Establish and Promote the Maintain And Enhance the Dedicated	1777
 Establishment and Maintenance of Users	12364
 Etablissements Général de Division Abdoulaye MAIGA	17899
+Etat Civil Mairie	19686
 Etat G7. Maintenir	19360
 Evaluation and Maintenance of Data Security System	11956
 Evaluation and Maintenance of Data Security System Article	11956
@@ -411,7 +415,7 @@ Ganizani F. Mainoti1	9128
 Ganizani Mainoti	9128
 Gbetoho Joachim Boko ICR Main Contributor	15731
 Gemini and MAI	8216
-Gender Mainstreaming	12358,1642,742,2110,99
+Gender Mainstreaming	12358,1642,742,2110,99,2695
 Gender Mainstreaming Across the Policy Continuum Burundi	13349
 Gender Mainstreaming Across the Policy Continuum Congo	11907
 Gender Mainstreaming Departments	12642
@@ -422,6 +426,7 @@ Gender Mainstreaming and Machinery	16951
 Gender Mainstreaming and Machinery Thematic Policy Statement	16951
 Gender Mainstreaming and Public Assembly Policing	17105
 Gender Representation BUJUMBURA MAIRIE GITEGA NGOZI	13520
+Gender and Equity Mainstreaming	19646
 Getty Images Main	11572
 Giuseppe Zampaglione ICR Main Contributor Phillippe	15731
 Google’s Equiano and Equnix’s MainOne	3782
@@ -492,6 +497,7 @@ ICR Main Contributor	16436
 ICR Main Contributor At Approval Halil	16436
 ICR Main Contributor Delfim Mawete	18825
 ICR Main Contributors	17962
+ICT Infrastructure Planning Mainstream ICT	19660
 ICT Maitlamo Policy	2576
 III. Main	14011
 III.4 MAIN ELECTRICAL EQUIPMENT USED	15574
@@ -572,6 +578,7 @@ LISGIS Main Office	17149
 LOGISTIQUE IPM MAIGUIZO INSTITUT PROFESSIONNEL MAIGUIZO	18170
 La Mairie de Bujumbura	13292
 La Mairie de Bujumbura OBUHA Sociétés	13390
+La Mairie de Djibouti	19842
 La Mairie de Grand-Bassam	1005
 La Mairie de Ville	6098
 La Maison	3465,12939
@@ -638,6 +645,7 @@ MAIGA LE PRESIDENT DE LA TRANSITION	18032
 MAIGA Le Premier	17982
 MAIGUIZO IPNTA INSTITUT PRIVÉ DES NOUVELLES	18143
 MAIIC	8399
+MAIIF	19660
 MAIKIBI DJIBRILA Décision	998
 MAILLAGE TERRITORIAL EN CENTRES D'ÉTAT CIVIL	18076
 MAIN ACTIVITIES	17971
@@ -683,8 +691,10 @@ MAINSTREAMING ICT AND PERSONS WITH DISABILITIES	16872
 MAINSTREAMING ICT YOUTH	16872
 MAINSTREAMING TECHNOLOGY	14935
 MAINTAINING A STABLE AND RESILIENT FINANCIAL	12701
+MAINTENANCE	19745
 MAINTENANCE ELECTRONIQUE INJS	18170
 MAINTENANCE OF DOCUMENTS AND PROVISION	19527
+MAINTENANCE OF OPTICAL FIBER INSTALLATIONS	19745
 MAINTENANCE OF PREMISES	14778
 MAINTENANCE OF PUBLIC KEY INFRASTRUCTURE	15080
 MAINTENANCE Processus de Gestion des Anomalies	17902
@@ -817,16 +827,18 @@ Main Achievements	14746
 Main Activities	10776,4405,1790
 Main Activities Protection	16580
 Main Activities Protection UNHCR	10864
+Main Activities Protection Uganda	19760
 Main Activities Throughout	16971
 Main Activity Main Institutions Primary School	11857
 Main Address Mogadishu Somalia	15062,161
 Main Areas of Additional Support and Timing Time	11855
+Main Assumptions and Results	19835
 Main Audit Findings	19541
 Main Balances	17235
 Main Beneficiaries	16614,2140
 Main Board Total Number of Meetings	1554
 Main CAUSES	18512
-Main Campus	13551,3681
+Main Campus	13551,3681,2567
 Main Categories of Threats Identified	5677
 Main Causes of Morbidity	10780
 Main Census Report	18951
@@ -839,6 +851,7 @@ Main Content	16622,1928,209
 Main Content Skip	10919
 Main Content UAE President	19543
 Main Contributor	15663
+Main Cooking Stove	19715
 Main Data Center	11859
 Main Data Centre	10603
 Main Data Types	14857,3
@@ -889,18 +902,25 @@ Main Parliament Buildings	11247
 Main Partner	14545
 Main Persons of Concern	10841
 Main Police Station	18615
+Main Policy Goal	19646
+Main Policy Goal To Meet the Energy	19646
 Main Primary	11585
 Main Purpose	18485
+Main Purpose for Agricultural Activity	19715
+Main Purpose of Agricultural Activity	19715
 Main Rd	8999
-Main Reason	7869
+Main Reason	7869,11846
 Main Reason For Not Supporting Any	7869
 Main Reason for Not Being	7869
+Main Reasons for Emigration	19715
 Main Reasons for Underutilization	12445
 Main Reasons for Underutilization- Overall	12445
 Main Reasons for Underutilization- Overall Low Demand	12445
 Main References	15842
+Main Report	19715
 Main Report. Tanzania	1261
 Main Research Gap	8301
+Main Reson for Moving	19715
 Main Results	15473
 Main Results Najjar	15473
 Main Revenue Epicor	12700
@@ -919,8 +939,11 @@ Main Source Statistics Used	17149
 Main Source Statistics Used Types	17149
 Main Source of Drinking Water	16921
 Main Source of Drinking Water for Household	16921,193
+Main Source of Energy for Lighting and Cooking	19715
+Main Source of Fuel for Cooking	19715
 Main Source of Lighting for Households	16921,193
 Main Source of Lighting for Households About	16921,193
+Main Source of Water for Drinking	19715
 Main Sources of Official Statistics	17149
 Main Stakeholders	12675
 Main Story	17690
@@ -999,14 +1022,14 @@ Mainstream	1161,12301,529,751,193,12,657,1248,11,24,28,224,18,139,1938
 Mainstream Digital Safety and Digital	1777
 Mainstream Disaster Risk Reduction	19520
 Mainstream Energy	5800
-Mainstream ICT	958,13033
+Mainstream ICT	958,13033,5669
 Mainstream News Stories	13462
 Mainstream Publishers	13462
 Mainstream and Extended Stream	14742
 Mainstreamed	18607
 Mainstreamed Cross-cutting Policy Issues	12914
 Mainstreamed KVSR	12151
-Mainstreaming	1701,3546,5066,880,1036,11,402,290,2003,2009,7,45,261,1255,258,750
+Mainstreaming	1701,3546,5066,880,1036,11,402,290,2003,2009,7,45,261,1255,258,750,126
 Mainstreaming AI	1814
 Mainstreaming Activities and Environmental Sustainability	6946
 Mainstreaming Disability Inclusion	13474
@@ -1020,8 +1043,10 @@ Mainstreaming and Public Outreach	12917
 Mainstreaming and Public Outreach Q1 Q2 Q3	12917
 Mainstreaming and Public Outreach Strategy	12917
 Mainstreaming of Disaster Risk Reduction	19520
+Mainstreaming of Gender	19646
 Mainstreaming of Regulatory Sandboxes	4848
-Maintain	940,1048,1873,265,484,1055,767,1106,10,998,453,167,271,313,105,302,250,314,98,310,2,3,46,96,528,1,147,241,17,43,27,76,3,85,479,234,92,132,487,123,33,500,214,8,4,27,41,47,14,43,112,32,98,247,516,50,235,630,9,1,8,239,58,103,25,1246,44,23,37,610,289,20,21,27
+Maintain	940,1048,1873,265,484,1055,767,1106,10,998,453,167,271,313,105,302,250,314,98,310,2,3,46,96,528,1,147,241,17,43,27,76,3,85,479,234,92,132,487,123,33,500,214,8,4,27,41,47,14,43,112,32,98,247,516,50,235,630,9,1,8,239,58,103,25,1246,44,23,37,610,289,20,21,27,199
+Maintain BCP	19801
 Maintain ICT	12927
 Maintain Infrastructure and Digital Resources	16963
 Maintain Internal Reporting Procedures	18599
@@ -1033,14 +1058,15 @@ Maintain Time	1009
 Maintain and Establish Customer Records	18599
 Maintain the Environmental and Social Management System	18370
 Maintain the PIU	11417
+Maintain the Personal Data Inventory	19801
 Maintainability Testing	5665
 Maintainace Software	7988
-Maintained	3861,7369,1499,404,1890,638,1574
+Maintained	3861,7369,1499,404,1890,638,1574,2477
 Maintained CAPI	15244
 Maintained the MPR	17235
 Maintained the RRR	17235
 Maintainfieldoffices	16833
-Maintaining	443,718,1614,728,2030,1193,212,8,602,328,572,156,411,108,314,329,334,238,441,62,165,1,129,20,74,136,289,207,44,80,247,64,59,8,136,201,422,1615,8,147,23,81,26,175,562,452,419,227,102,10,15,114,158,705,490
+Maintaining	443,718,1614,728,2030,1193,212,8,602,328,572,156,411,108,314,329,334,238,441,62,165,1,129,20,74,136,289,207,44,80,247,64,59,8,136,201,422,1615,8,147,23,81,26,175,562,452,419,227,102,10,15,114,158,705,490,1210,139,3
 Maintaining A-status	13097
 Maintaining Adequate Banking Sector Achieve	11131
 Maintaining American Leadership	11135
@@ -1053,7 +1079,7 @@ Maintaining Trust and Credibility Regular	14565
 Maintains	3861,269,4993,732,1278,819,5147
 Maintains FCDO	2164
 Mainte	17829
-Maintenance	34,548,1242,140,24,721,306,699,258,182,1379,132,2972,260,226,314,1284,254,154,4,47,18,20,307,427,3,31,267,105,15,233,314,133,278,30,3,634,117,410,12,199,9,1,24,151,133,26,1,83,207,28,73,2,38,29,52,11,66,4,309,54,158,127,517,45,58,21,151,25,80,604,6,41,3,9,20,201,194,22,119,21,97,348,317,303,3,48,1,9
+Maintenance	34,548,1242,140,24,721,306,699,258,182,1379,132,2972,260,226,314,1284,254,154,4,47,18,20,307,427,3,31,267,105,15,233,314,133,278,30,3,634,117,410,12,199,9,1,24,151,133,26,1,83,207,28,73,2,38,29,52,11,66,4,309,54,158,127,517,45,58,21,151,25,80,604,6,41,3,9,20,201,194,22,119,21,97,348,317,303,3,48,1,9,56,94,7
 Maintenance Act	11198
 Maintenance Agencies X X X X	15845
 Maintenance Agency for ISO	11269
@@ -1064,6 +1090,7 @@ Maintenance Assistée	13306
 Maintenance Average	18787
 Maintenance CNS	16552
 Maintenance Cases	12977
+Maintenance Chambers	19745
 Maintenance Committee	6076
 Maintenance Contractor	12253
 Maintenance DGSSSa	15685
@@ -1100,6 +1127,7 @@ Maintenance Service Contracts	16844
 Maintenance Service Contracts Costs N	16844
 Maintenance Standards	19574
 Maintenance Suivi	10975
+Maintenance Support	19641
 Maintenance Tasks	5665
 Maintenance Technician	12976
 Maintenance Techniciens	17899
@@ -1110,6 +1138,8 @@ Maintenance and Continuous	11216
 Maintenance and Continuous Improvement	11216
 Maintenance and Management	18537
 Maintenance and Management PPA Power Purchase Agreement	18537
+Maintenance and Observation Network	19662
+Maintenance and Operation	19745
 Maintenance and Refurbishment of Health Facilities	12606
 Maintenance and Support of Computer Equipment Within	12917
 Maintenance and Support of Computer Systems Within	12917
@@ -1132,6 +1162,7 @@ Maintenance of School	15661
 Maintenance of Transmission Networks Effective	14745
 Maintenance of VAT	12630
 Maintenance- SOEM Rue	19476
+Maintenance-Transport Equipment	19741
 Maintenances	17823
 Maintenant	747,933,834,2508,258,1609,224,1703,32,4452,128,119,308,986,1254,1980,237,940,21
 Maintenir	8891,664,1319,1169,1247,1198,1,1,47,228,707,70,26,102,238,104,1829,142,80,1438
@@ -1178,7 +1209,7 @@ Maires	9819,4606,958,216,86,188,1991,422,640,405
 Maires. Article	18094
 Maires. L’adoption	17843
 MairesÊ	18065
-Mairie	5531,1428,4016,2325,1123,960,420,244,335,147,1332,38,3,216,769
+Mairie	5531,1428,4016,2325,1123,960,420,244,335,147,1332,38,3,216,769,749,206
 Mairie Bujumbura	13390
 Mairie Centrale	16258
 Mairie de BUJUMBURA	13292
@@ -1287,7 +1318,7 @@ Maitre	14488,1,1,1829,1527,253,19,1254
 Maitre Florence BESSOVI	15786
 Maitre XC	14489
 Maitre XC V PGES- CENTRE	14490
-Maitrise	643,641,6693,292,5540,631,1075,155,447,278,1451,26,131,319,17,73,530,25
+Maitrise	643,641,6693,292,5540,631,1075,155,447,278,1451,26,131,319,17,73,530,25,880
 Maitrise de Python	7977
 Maitrise des IDE	19221
 Maitriser	14479,1063,2304,451
@@ -1302,6 +1333,7 @@ Maiyegun	6376
 Maize	2775,4146,4043,1791,367,2498,846,74,503,1440,1071
 Maize Eddoes Sweet Potatoes Yams Southeastern	17043
 Maize Farmers Boost Yields	11140
+Maize Flour	19712
 Maize Paddy	19554
 Maize Production	12931,543
 Maize Purchases	13122
@@ -1475,7 +1507,11 @@ Patrick Wanjohi and Bernard Maingi	10464
 Paula Maria Cerutti ICR Main Contributor	15601
 País. Mais	9694
 Pequena IA Pode Ter Maior Impacto	9558
+Percentage Distribution of Household’s Main Methods of Solid	19715
 Periodic Maintenance	19585
+Place of Origin and Main Reasons	19715
+Planning and Mainstreaming	19803
+Planning and Mainstreaming Technical Working Group	19803
 Point Link Details MAIN ROUTE Station	736
 Pointe-Noire MAITRE ADO PATRICIA MARLENE MATISSA	16100
 Police Républicaine Main Menu	15918
@@ -1541,6 +1577,7 @@ Regular Updates and Maintenance First	15713
 Regulation Authority of Mail and Electronic Communications	3764
 Regulatory Authority Quick Links Staff Mail	12322
 Relations Publiques Mail	15819
+Remark Mainstream ICT	19660
 Repairs and Maintenance	16978
 Repairs and Maintenance and Finance Cost. Direct Operational	12982
 Reporting Notifications and Mailing	13042
@@ -1549,6 +1586,7 @@ Revenue Water O&M Operation and Maintenance OHS	15659
 Rice and Maize Flour	14985
 Ring-Fence Maintenance Budgets	17260
 Ring-Fence Ministries Maintenance Budgets	17260
+Road Maintenance	19641
 Road Maintenance Funds	2775
 Road Maintenance Levy	14546
 Road Maintenance Trust Fund	7695
@@ -1687,6 +1725,7 @@ Togo. Maintenant	7125
 Toker and Mainefhi	14162
 Top Chrono Mail Express Traitement	10821
 Traceability Maintain	14566
+Traditional Mail Post Office Boxes	19728
 Transformative Path MAIN STORY By Editorial	13477
 Transformer-LSTM Improve Maize-Yield Estimation	13162
 Tratamento de Sintomas de Doenças Infantis Mais Frequentes	10777

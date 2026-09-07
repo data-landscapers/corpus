@@ -34,11 +34,13 @@ Agriculture Food Authority	10313
 Agriculture and Food	1131
 Agriculture and Food Authority	10313
 Agriculture and Food Authority of Ksh1	10313
+Agriculture and Food Global Practice Eastern and Southern	19643
 Agriculture and Food Management Unit SDGs Sustainable	16852
 Agriculture and Food Safety. The United Arab	11185
 Agriculture and Food Security	3583,10102,4893
 Agriculture and Food Security Statistics	17149
 Agriculture and Food Systems Transformation	12162
+Agriculture and Food. Contributing Practice Areas	19643
 Agro-Chemical and Food Co. Ltd	14546
 Agro-Chemical and Food Company Ltd	14546
 Agro-Industry and Food Security	14818
@@ -84,6 +86,7 @@ Cash NDMA-PR-13 Targeted Food Assistance	12977
 Central African Republic Emergency Food Crisis	16398
 Chad’s West Africa Food System Resilience	17613
 Children’s Fund WFP World Food Programme	18911
+Classifications Source Food	19712
 Climate and Environment Agriculture and Food Security	13685
 Climatic Shocks and Food Security	10763
 Climatic Shocks and Food Security Figure	10763
@@ -115,6 +118,7 @@ DRIVERS OF FOOD INSECURITY	17285
 Deepen Digital Footprint	2716
 Demographic and Health Survey FAO Food and Agriculture	19555
 Desenvolvimento da Primeira Infância Efeito de Desenho Food	10777
+Design of Control Measures for Street-Vended Foods	19749
 Development Authority FAO Food and Agriculture Organization	17043
 Digital Food Commodity Tracking System	19584
 Digital Footprint	19007
@@ -166,7 +170,7 @@ FOOD GROUPS	17127
 FOOD INSECURITY	17285
 FOOD MICROBIOLOGY LABORATORY	14736
 FOOD MICROBIOLOGY LABORATORY The Food Microbiology	14736
-FOOD SECURITY	17285
+FOOD SECURITY	17285,2430
 FOOD SECURITY BY PROVINCE Data	10763
 FOOD STANDARDS	16900
 FOOD SYSTEMS RESILIENCE PROGRAM FOR EASTERN	13925
@@ -181,6 +185,7 @@ February-2026 FOOD SECURITY SNAPSHOT	17172
 Federal Ministry of Agriculture and Food	3742
 Federal Ministry of Agriculture and Food Security	5765,1454,2657,6920
 Federal Urban Job Creation and Food Security	5655
+Fiber Infrastructure Footprint	19728
 FinTech Football Gadget Gaming Gemini Google	9993
 Finance Assessment European Union Food and Agriculture	16973
 Fishing and Food	1940
@@ -222,10 +227,11 @@ Food Deficit	18904
 Food Distribution	12970
 Food Expenditure	17285
 Food For Work	18198
+Food Grain	19712
 Food Group Diversity Score	17127
 Food Groups	17127
 Food Headline	17909,81
-Food Hygiene	14835
+Food Hygiene	14835,4877
 Food Hygiene Part	13385
 Food Import Ratio	1828
 Food Import Real GDP	1828
@@ -233,8 +239,10 @@ Food Inclusive	970
 Food Industry Reformulation	14818
 Food Insecurity	16384,1720
 Food Insecurity Domestic Food Production	1828
+Food Insecurity Experience Scale	19715
 Food Insecurity and Experience Scale	16960
 Food Items	12977
+Food Labeling	19712
 Food Loss and Waste Reduction	14818
 Food Loss and Waste Reduction Around	14818
 Food Microbiologist	14742
@@ -260,6 +268,7 @@ Food Safety	17157
 Food Safety Act	13403
 Food Safety Certification Accredited Scope Questionnaire	15127
 Food Safety Coordination Committee	14818
+Food Safety Laboratories	19712
 Food Safety Management System	14736,2164
 Food Safety Management System Certification Scheme	14736
 Food Safety Management Systems and Information Security	14736
@@ -267,9 +276,11 @@ Food Safety Strengthen	14818
 Food Safety and Nutrition Act	14818
 Food Safety and Quality Authority	16927
 Food Safety and Quality Authority GBoS Gambia	16927
+Food Safety and Security	19783
 Food Safety and Wellness	14818
 Food Safety and Wellness Crop Nutrition	14818
-Food Security	1828,1516,1184,5348,89,192,602,9,67,2,1,130,217,54,93,75,62,401,16,1,1,1,263,1,1,9,31,146,1,11,1,135,434,1,41,510,1279,17,4,44,11,1,11,6,50,323,1033,852,180,1094,82,282,161,625
+Food Secure	19715
+Food Security	1828,1516,1184,5348,89,192,602,9,67,2,1,130,217,54,93,75,62,401,16,1,1,1,263,1,1,9,31,146,1,11,1,135,434,1,41,510,1279,17,4,44,11,1,11,6,50,323,1033,852,180,1094,82,282,161,625,123,1,62,107,14
 Food Security CBG Central Bank	17285
 Food Security CHAPTER NINETEEN	14409
 Food Security Classification	17285
@@ -330,7 +341,7 @@ Food Supply	1828
 Food System Resilience Program	18578
 Food System Transformation and Sustainable Financing	11586
 Food System and Nutrition Proclamation	14122
-Food Systems	2957,7884,2951,2606
+Food Systems	2957,7884,2951,2606,3243
 Food Systems Resilience Program	9609,1025
 Food Systems Resilience Programme	9965,3827
 Food Systems Resilience Project	2872
@@ -346,14 +357,14 @@ Food and Agricultural Organization	11572,3377
 Food and Agricultural Research	7845
 Food and Agricultural Research and Extension Institute	7845,6913
 Food and Agricultural Research and Extension Institute Act	7845,6984
-Food and Agriculture	13100,605,1031,3733
+Food and Agriculture	13100,605,1031,3733,1243
 Food and Agriculture HH Household IOM International	15118
 Food and Agriculture Laboratory	14736
 Food and Agriculture Laboratory Items	14736
 Food and Agriculture Organisation	9136,5585,2380
 Food and Agriculture Organisation F.P	13377
 Food and Agriculture Organisation Food Price Index	11134
-Food and Agriculture Organization	3583,3058,389,3811,557,155,19,41,545,349,233,88,103,118,95,250,1,80,117,855,592,54,25,11,491,38,5,62,226,85,153,757,24,157,13,17,8,109,29,63,927,8,8,216,42,2,1,49,54,4,6,231,540,100,1
+Food and Agriculture Organization	3583,3058,389,3811,557,155,19,41,545,349,233,88,103,118,95,250,1,80,117,855,592,54,25,11,491,38,5,62,226,85,153,757,24,157,13,17,8,109,29,63,927,8,8,216,42,2,1,49,54,4,6,231,540,100,1,98,183
 Food and Agriculture Organization FBO Faith Based	2775
 Food and Agriculture Organization FIRMS Fishery Resources	17157
 Food and Agriculture Organization Publications	19555
@@ -362,6 +373,7 @@ Food and Agriculture Organizations	15715
 Food and Agriculture RSB	15027
 Food and Allied Sector	16275
 Food and Beverage	4972
+Food and Beverages	19712
 Food and Commercial Justice	10960
 Food and Drinks Consumed	17127,38,1405
 Food and Drug Quality Control Laboratory	16922
@@ -415,14 +427,14 @@ Footbridge Mr Speaker	13387
 Footer	2674,9674,1
 Footer Accessibility	10919
 Footer Help Section	11877
-Footnote	1243,1670,1763,1024,4039,1046,129,967,105,316,1157,1205,2296,813,7
-Footnotes	766,5,490,856,1674,648,75,456,1564,547,106,1249,2877,878,1270,3258,2202
+Footnote	1243,1670,1763,1024,4039,1046,129,967,105,316,1157,1205,2296,813,7,1870,185,12
+Footnotes	766,5,490,856,1674,648,75,456,1564,547,106,1249,2877,878,1270,3258,2202,918
 Footnotes Authors' Contributions	14666
 Footnotes Funding	10881
 Footnotes Publisher’s Note Springer Nature	12255
 Footpath	11857
 Footprint Development and Hospitals Assumptions Availability	11986
-Footwear	1988,11397,3515
+Footwear	1988,11397,3515,2802,47
 Forestry Service Central Electricity Board Food	11332
 Forestry and Food Security	18578
 Fostering Biodiversity and Food Security Heshimu Bahari	19529
@@ -462,6 +474,7 @@ Healthy Food	19555
 Healthy Food Group Insects	17127
 Hemp and Cannabis Food Product Regulations	2626
 Hospital PHFS Public Health and Food Safety	14773
+Households’ Food Insecurity Experience	19715
 IEA World Energy Balances. A3. Food	17257
 IFPRI International Food Policy Research Institute	15220
 INCLUSION OF LIVELIHOOD AND FOOD SECURITY	16970
@@ -476,7 +489,7 @@ Indigenous Food-Kudla Kwesintfu	12970
 Inflation Food	13053
 Inflation Forecast Year Inflation Overall Food	13060
 Integrated Food Classification	3583
-Integrated Food Security Phase Classification	3583,7553,333,1509,1967,14,1505,2181,38,41
+Integrated Food Security Phase Classification	3583,7553,333,1509,1967,14,1505,2181,38,41,997
 Integrated Food Security Phase Classification System	3583
 International Food Policy Institute	12162
 International Food Policy Research Institute	1507,5441,3820,1390,1173,1807,1909,859,664
@@ -497,6 +510,7 @@ Korean Ministry of Food and Drug Safety. Guidelines	3651
 Kune Foods	10731
 LEVEL OF CONSUMPTION OF DIFFERENT FOOD	17127
 Labeling of Prepackaged Food	16900
+Labelling of Food Additives	19749
 Legendary Foods	7482
 Les Etablissements Royal Food	15426
 Liberia Food Security Fact Sheet	17011
@@ -609,6 +623,7 @@ Non- Food End Period	13060
 Non- Footnote	11986
 Northern Lowlands and Foothills	12755
 Not... Senate Warns Wildlife Shortage of Food	4942,664,283,454,183
+Nutrition Food	19760
 Nutrition and Food Safety	17289
 Nutrition and Food Security	16952
 Nutrition and Food Security FY17	17962
@@ -633,7 +648,9 @@ Plans Modern Security and Food Inspection	2837,989,15,690,99,50,66,65,38,415,53,
 Plant Genetic Resources for Food and Agriculture JE	11197
 Planting for Food and Jobs	789
 Plastic Coat Footwear and Shoe Photo-Illustration	6517
+Post and Courier Service Agent Footprint	19728
 Poverty.44. Gender.45. Food	14410
+Prevalence of Severe Food Insecurity	19715
 Prevention and Management of Food Crisis	18104
 Previous Previous Addressing Food Security	12366
 Procurement of Food	19063,1
@@ -687,6 +704,7 @@ Senegal’s Rice Regions for National Food and Economic	18336
 Service Data WFP World Food Programme	11133
 Service Delivery Footprint Local Offices	8999
 Services Food	4972
+Severe Food Insecurity	19715
 Severe Food Insecurity Project Beneficiaries Agadez	18104
 Shocks FOOD INSECURITY	17285
 Small and WFP World Food Programme Medium	12297
@@ -765,7 +783,7 @@ WFP Crop and Food Security Assessment Mission	18683
 WFP Specialized Nutritious Foods	10841
 WFP World Food Program TABLE	16867
 WFP World Food Program The World	11560
-WFP World Food Programme	15220,1632,433,621
+WFP World Food Programme	15220,1632,433,621,1741
 WFP World Food Programme Regional Vice	11525
 WFP World Food Programme TABLE	16952
 WFP World Food Programme. BASIC INFORMATION	14976
@@ -773,17 +791,17 @@ WFP World Food Programme. OPERATION INFORMATION	15190
 Warani Food	2851
 West Africa Food System Resilience	17613
 Workers Food Preparation Assistants	16266
-World Bank FAO Food and Agriculture Organization	10835,3,130,902,16,466,1,135
+World Bank FAO Food and Agriculture Organization	10835,3,130,902,16,466,1,135,7334
 World Bank Food Systems	15620
 World Bank Group and World Food Programme	16902
 World Bank World Food Programme	10763
 World Bank's Food Systems	18724
-World Food Program	969,259,10297,35,2883,1177,1247,390,1445,41
+World Food Program	969,259,10297,35,2883,1177,1247,390,1445,41,1092
 World Food Program WHO World Health	15415
 World Food Program WHR Window for Host	10841
 World Food Program and GCA	17257
 World Food Program-operated	11924
-World Food Programme	1828,39,310,935,471,3399,48,117,2337,263,315,448,253,59,7,12,122,1,169,9,1033,45,21,56,626,8,25,19,2,1,102,315,150,47,346,370,588,1,48,3,11,17,48,40,183,95,259,3,16,38,73,795,376,255,15,677,57,198,474,87,30,174,211
+World Food Programme	1828,39,310,935,471,3399,48,117,2337,263,315,448,253,59,7,12,122,1,169,9,1033,45,21,56,626,8,25,19,2,1,102,315,150,47,346,370,588,1,48,3,11,17,48,40,183,95,259,3,16,38,73,795,376,255,15,677,57,198,474,87,30,174,211,567
 World Food Programme Foreword	15604
 World Food Programme Methodology	14141
 World Food Programme Methodology Rainfall	15232

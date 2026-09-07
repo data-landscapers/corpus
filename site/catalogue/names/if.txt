@@ -14,6 +14,7 @@ Akim Benamara IFC	7095
 Asim Iftikhar Ahmad	8740
 Assistance IFC International Finance UNHCR United	12297
 Association IFC International Finance Corporation IFR	15518
+Association of Uganda IFMS Integrated Financial Management	19660
 Audit IFMIS Expansion	18577
 Authority IFC International Finance Corporation ILD	15473
 Authority. IFRS	13053
@@ -45,6 +46,7 @@ Cooperation IFR Interim Financial Report IPF	1264
 Corporation VAT Value Added Tax IFMIS	18851
 Counties IFMIS E- Procurement Training News	12322
 D IFOMU	11573
+DA-A and IFRs for DA-B	19835
 DFC and Cassava. IFC	1429
 DGIS IFH DGIS	15694
 DPEs and IFPs	2989
@@ -59,6 +61,7 @@ Development IFC International Finance Corporation IFR	13331
 Displacement Monitoring Centre IFAD International Fund	10759,78,1052,451
 Développement Humain IF Institution Financière IFC	11944
 Développement IFT Institut Français	19220
+E-Cash and IFMS	19647
 ECMWF IFS	18309
 ECMWF IFS-EPS	18309
 EMIS and IFMIS. Insight Box	18529
@@ -69,6 +72,7 @@ El IFN	16875
 Electoral and Boundaries Commission IFAD International Fund	2775
 Electricity Access IFC International Finance Corporation	19245
 Electricity Access IFR Interim Financial Report	19239
+Engineering Task Force IFMS Integrated Financial	19642
 Enseignement IFSA Primaire	11905
 Eswatini IFMIS and PFM Capacity Building Project	536
 Etat Oued Goussine Ifelain Ilmathen Tala	15690
@@ -129,16 +133,20 @@ IDP Internally Displaced Person IFR Interim	10829
 IDPs Internally Displaced Persons IFC International	18931
 IFA2017yearinreview	226
 IFAC International Federation of Accountant IFR Interim	11855
+IFAC International Federation of Accountants	19847
 IFAC Pan African Federation of Accountants	18825
+IFAC SMOs	19847
+IFAC Statement of Membership Obligations	19847
 IFAC. Yours	14736
 IFAD International Fund for Agricultural Development	11887,266,1,9,178
-IFAD International Fund for Agricultural Development IHME	10835,3,130,902,16,466,1,135
+IFAD International Fund for Agricultural Development IHME	10835,3,130,902,16,466,1,135,7334
 IFAD International Fund for Agricultural Development ILO	10841
 IFAD LOAN NO	14546
 IFAD and AgDevCo Ventures Limited	17679
 IFAD and UNDP	19571
 IFAD and WFP	19555
 IFAD and World Bank	9650
+IFAD. Acronyms	19836
 IFADEM	18942
 IFADEM Initiative Francophone	15541
 IFADÉlevage de Barkoissi	8303
@@ -163,7 +171,7 @@ IFC Board	80,16696
 IFC Board of Directors	16776
 IFC COVID Emergency Loan	500
 IFC Catalytic First Loss Guarantee	8937
-IFC Collaboration	3562,42,11333,1959
+IFC Collaboration	3562,42,11333,1959,2939,12
 IFC Collaboration Disbursement	1284,15638
 IFC Collaboration Joint Level Yes Complementary	15621,523,3101
 IFC Collaboration No Components Component Name	18198
@@ -307,7 +315,7 @@ IFM de Niono	8577
 IFM de Sikasso	8577
 IFM de Ségou. Le Secrétaire	8577
 IFM-EFEP de Bamako	8577
-IFMIS	34,78,15,31,8,155,105,110,214,250,284,6,99,189,205,1,1,2,2,1,1,1,2,1,2,37,278,1095,1,1009,1027,1188,107,549,1,459,100,339,3522,358,309,38,39,69,131,47,169,24,224,39,16,151,191,18,13,47,26,548,36,183,43,296,22,351,38,30,1,199,282,1411,14,4,7,2,57,7,21,41,68,59,1,175,50,54,129,812,129,12,29,47,1,84,162,142,619
+IFMIS	34,78,15,31,8,155,105,110,214,250,284,6,99,189,205,1,1,2,2,1,1,1,2,1,2,37,278,1095,1,1009,1027,1188,107,549,1,459,100,339,3522,358,309,38,39,69,131,47,169,24,224,39,16,151,191,18,13,47,26,548,36,183,43,296,22,351,38,30,1,199,282,1411,14,4,7,2,57,7,21,41,68,59,1,175,50,54,129,812,129,12,29,47,1,84,162,142,619,55,208
 IFMIS Academy About Academy Training Schedule	12322
 IFMIS Accounting Module Operationalized	18359
 IFMIS Comments	17079
@@ -315,6 +323,7 @@ IFMIS Coverage	18488
 IFMIS Data and Training Centre	18661
 IFMIS Integrated Financial Management FPS Fast	14897
 IFMIS Integrated Financial Management Information System	1284,15601,1892
+IFMIS Integrated Financial Management System	19847
 IFMIS National Treasury-IFMIS Offices IFMIS TEAM	12322
 IFMIS Oracle	1834
 IFMIS Related Links Kenya Supplier Portal	12322
@@ -338,7 +347,9 @@ IFMIS. Land Administration Use Directorate Monitoring	14002
 IFMIS. Shadowed	16949
 IFMIS. Subcomponent	16949
 IFMIS. The GREAT Project	16949
+IFMS Feasibility	19647
 IFMS IT Judicial Service Commission JSC	12920
+IFMS Integrated Financial Management System IGAD	19647
 IFMS. Phase	11940
 IFNB Institution	15493
 IFOAD	18286
@@ -369,8 +380,9 @@ IFR Interim Financial Report INRIS Integrated	1867
 IFR Interim Financial Report INS National	19455
 IFR Interim Financial Report IPF Investment	10768,4891
 IFR The World Bank CAR	15661
+IFR Unaudited Interim Financial Report	19847
 IFR-26	11579
-IFR-based	10768,4643
+IFR-based	10768,4643,4424
 IFR. Accounting and Reporting Arrangements	3604
 IFR. The PIU	10829
 IFRC PGI Office and BERCS Safe	12977
@@ -532,6 +544,8 @@ Non Oui IFC	16037
 Normes IFRS	2342
 Notice IDA International Development Association IFR	18293
 Objective IFR Information and Communication Technology IGF	3604
+PBS and IFMS Conclusion	19660
+PBS and IFMS Conclusion The Enabling Environment	19660
 PCM.36 IFC	3604
 PME. IFC	16075
 Pa Ete AP AE IFT	6936
@@ -608,6 +622,7 @@ Uganda. IFC	893
 Unaudited IFRs. Only	15411
 Unidade de Iformação Financeira. Decreto-Lei	15359
 United States Dollar IFC International Finance	18851
+Using IFMS	19647
 VC Ifirs t-linc	4301
 VOLET OFFRE Ifs Tableau	13390
 Virus ICT Information and Communications Technology IFAD	17105

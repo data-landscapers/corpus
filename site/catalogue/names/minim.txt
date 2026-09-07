@@ -8,8 +8,11 @@ Adequacy Ratio CAR Minimum	15023
 Assessment of Minimum Requirements	17037
 Audio Minimum	34
 Average Gazetted Monthly Basic Minimum Wages1	2775
+BASIC REQUIREMENTS AND MINIMUM STANDARDS INDICATORS	19783
 BOM Act. Minimize Reporting Burden	14777
+Basic Requirements and Minimum Standards	19783
 Birth X Minimum	12138
+Body BASIC REQUIREMENTS AND MINIMUM STANDARDS	19783
 Budget MIOS Minimum Information Interoperability Standards	5533
 CEMAC le Service Bancaire Minimum Garanti	11944
 COMPLIANCE WITH MINIMUM NORMS AND STANDARDS	11182
@@ -78,6 +81,7 @@ ICT Minimum	15164
 ILO Minimum Standards	19531
 ILO's Social Protection Minimum Standards	19531
 INDICATEUR EXIGENCES MINIMALES Taux	16295
+INTRODUCTION The Basic Requirements and Minimum Standards	19783
 Identify Minimum Separation	12389
 Implementing Agency Minimize	18754
 Income Required Minimum	17239
@@ -121,7 +125,7 @@ Meeting MP Member of Parliament MPSS Minimum	11218
 Meeting Minimum Fiscal Transparency Requirements Significant	11005
 MiniMartap	15542
 Minima	18757
-Minimal	961,4286,967,218,2691,493,1110,375,766,85,424,379,340,1090,1286,741,902,1514
+Minimal	961,4286,967,218,2691,493,1110,375,766,85,424,379,340,1090,1286,741,902,1514,1195
 Minimal Data Collection	12281
 Minimal Digital Ecosystem	16397
 Minimal Functions and Services	16876
@@ -132,6 +136,7 @@ Minimal Risk	12675,3537
 Minimal Risk AI	16212
 Minimal Targeted	17157
 Minimalistic Principles	10819
+Minimality	19634
 Minimality Personal	12651
 Minimality Principle	6512
 Minimally Invasive Surgeries	14773
@@ -151,13 +156,13 @@ Minimisingfalsepositivesrequiresincreasingthesimilarity	8606
 Minimizar	1701,9841,13,4473,2772
 Minimization	3861,9324,3929
 Minimização	11555,5545
-Minimize	1988,7135,1652,439,1026,4711,67,139,1597,848
+Minimize	1988,7135,1652,439,1026,4711,67,139,1597,848,143
 Minimize and Contain Antimicrobial Resistance Section	15027
 Minimized	10550,3128,5841
-Minimizes	13037
+Minimizes	13037,6661
 Minimizing	1988,5771,7162,2063
 Minimizing Algorithmic Bias and Discrimination	1161
-Minimum	34,713,24,1006,163,1381,357,36,147,567,6,298,933,11,3,1261,6,602,1575,205,275,506,767,100,153,53,13,57,311,234,60,3,14,67,11,1,3,39,13,35,160,11,132,43,51,43,13,258,80,89,36,72,5,1,148,102,279,1217,31,20,46,16,32,69,37,46,84,547,288,313,531,35,22,118,19,212,95,23,70,433,434,137,20,82,13,348,616,21,5
+Minimum	34,713,24,1006,163,1381,357,36,147,567,6,298,933,11,3,1261,6,602,1575,205,275,506,767,100,153,53,13,57,311,234,60,3,14,67,11,1,3,39,13,35,160,11,132,43,51,43,13,258,80,89,36,72,5,1,148,102,279,1217,31,20,46,16,32,69,37,46,84,547,288,313,531,35,22,118,19,212,95,23,70,433,434,137,20,82,13,348,616,21,5,199
 Minimum Acceptable Diet	15247
 Minimum Access Conditions	5620
 Minimum Age Convention	14011
@@ -181,9 +186,12 @@ Minimum Dietary Diversity for Women	12978,4149,38,1405
 Minimum Duration	12389
 Minimum Emission Standard Compliance	11228
 Minimum Emission Standards	11228
+Minimum Energy Performance	19730
+Minimum Energy Performance Requirements	19730
 Minimum Energy Performance Standards	12206,2539,69,133
 Minimum Energy Performance Standards Medium Speed	12256
 Minimum Energy Performance Standards for Regulated Machinery	14814
+Minimum Energy Performance- Requirements	19730
 Minimum Fiscal Transparency Requirements House Report	11005
 Minimum Funding Threshold	12882
 Minimum GMD	17249
@@ -208,12 +216,14 @@ Minimum Milk Feeding Frequency	15247
 Minimum Minimum Minimum	7845
 Minimum Monthly Allowance Broad-	12395
 Minimum N	9446,1510
+Minimum Optical Fiber Characteristics	19745
+Minimum Package of Services	19844
 Minimum Performance Energy Standards	14947
 Minimum Physical Security Standards	11986
 Minimum Price	17870
 Minimum Qualification	17255
 Minimum Required Data	6423
-Minimum Requirements	11209,3940
+Minimum Requirements	11209,3940,4652
 Minimum Requirements Met	17037
 Minimum Requirements for Infection Prevention Control	14773
 Minimum Reserve Price	8582
@@ -242,6 +252,8 @@ Minimum Wage Rate	12389
 Minimum Wages	226
 Minimum Workstation Configuration Requirements	12364
 Minimum de Perception	6954
+Minimum of Access	19745
+Minimum of Metro	19745
 Minimum-Wages-3.pdf	226
 Ministry of Health and Population MPA Minimum Package	10829
 Moyenne Minimum Maximum	13390
@@ -264,6 +276,7 @@ Paid-in Minimum Capital Requirements for Foreign	12389
 Paquet Minimum	15423,262,2197
 Phase Minimal	14896
 Population Urban Minimum	11857
+Position Minimum Qualifications Minimum Experience Senior	19807
 Printing Works MIOS Minimum Information Security	11986
 Protecting the Work Force Child Labour and Minimum	1988
 QUALIFICATIONS MINIMALES REQUISES Le Cabinet	9744

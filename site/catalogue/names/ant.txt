@@ -45,13 +45,13 @@ ANTI-ALOPECIQUES ET ANTI-SEBORRHEIQUES ACIDE TRETINOIQUE	15930
 ANTI-ANEMIQUES ACIDE FOLIQUE CYANOCOBALAMINE FEREDETATE	15930
 ANTI-AVOIDANCE PROVISIONS	14717
 ANTI-COMPETITIVE CONDUCT	11240
-ANTI-CORRUPTION	10759,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135
+ANTI-CORRUPTION	10759,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135,7164,1,183
 ANTI-CORRUPTION ACCOUNTABILITY SUSTAINABLE BUSINESS	12353
 ANTI-CORRUPTION Anti-Corruption Mechanisms	10759,78,1052,451
 ANTI-CORRUPTION HEALTH	10838,1032
 ANTI-CORRUPTION HEALTH Rank	10838
-ANTI-CORRUPTION Rank	10759,78,131,902,16,454,12,136
-ANTI-CORRUPTION Shipping	10835,3,130,902,16,466,1,135
+ANTI-CORRUPTION Rank	10759,78,131,902,16,454,12,136,7334
+ANTI-CORRUPTION Shipping	10835,3,130,902,16,466,1,135,7334
 ANTI-MONEY LAUNDERING	14809
 ANTI-MONEY LAUNDERING AND COMBATING TERRORISM FINANCING	4633,6646
 ANTI-MONEY LAUNDERING AND COUNTER TERRORIST FINANCING	18599
@@ -142,6 +142,7 @@ Acquired Immune Deficiency Syndrome AMR Antimicrobial	19544
 Act0326.pdf THE ANTI-MONEY LAUNDERING	14809
 Acting Director of Legal and Company Secretary Anthony	9093
 Action Anticipatoire	16291
+Acts of Antisemitism and Antisemitic Incitement	19655
 Addressing Antimicrobial Resistance	10776
 Addressing the Anti-Financial Crime Conference	12995
 Adopt the Anti-Corruption Action Plan Waiting	11906
@@ -216,7 +217,7 @@ Antena	5557,5220
 Antena Nacional	12201
 Antenal Care	10829
 Antenatal	10881,2095,2230,205,1511,947,758,917
-Antenatal Care	2775,10202,1090,2884,20,2573
+Antenatal Care	2775,10202,1090,2884,20,2573,123
 Antenatal Care Antenatal	16971
 Antenatal Care CBHI Community-Based Health Insurance	15138
 Antenatal Care Coverage and Content	13454,1793
@@ -380,7 +381,7 @@ Anti-Bias National Datasets Analysis	12512
 Anti-Competitive Practice. CHAPTER VIII MANAGEMENT	18602
 Anti-Competitive Practices	16835
 Anti-Cor IDA	17180
-Anti-Corruption	1638,9121,76,2,1,74,56,902,16,1,1,1,27,237,1,9,178,11,1,135,499,2385,1665,102
+Anti-Corruption	1638,9121,76,2,1,74,56,902,16,1,1,1,27,237,1,9,178,11,1,135,499,2385,1665,102,2513,1,169,14
 Anti-Corruption Act	3583,131,3492,1307,4446,518,3496,961,533,10,502
 Anti-Corruption Act No	13477
 Anti-Corruption Activities	17139
@@ -389,7 +390,7 @@ Anti-Corruption Bureau	13001,79,15
 Anti-Corruption Bureau Complaints	12241
 Anti-Corruption Bureau Frequency	13095
 Anti-Corruption Commissi	17180
-Anti-Corruption Commission	121,3462,4667,263,1668,329,1990,428,31,38,111,15,198,66,51,1022,2536,109,1362,10,75,375,169
+Anti-Corruption Commission	121,3462,4667,263,1668,329,1990,428,31,38,111,15,198,66,51,1022,2536,109,1362,10,75,375,169,751
 Anti-Corruption Commission Act	18477
 Anti-Corruption Commission LRA Liberia Revenue Authority	17139
 Anti-Corruption Commission The Anti-Corruption Commission	18477
@@ -407,7 +408,7 @@ Anti-Corruption Court	17037
 Anti-Corruption Courts	13474
 Anti-Corruption Development Services Systems	11224
 Anti-Corruption Fight	5910,491
-Anti-Corruption Guidelines	10829,1136,2947,2024,13,1249
+Anti-Corruption Guidelines	10829,1136,2947,2024,13,1249,1637,12
 Anti-Corruption Guidelines. Page	11855
 Anti-Corruption Hotline	11350
 Anti-Corruption Index CMF	5951
@@ -415,15 +416,16 @@ Anti-Corruption Index Foreign Trade	5101,850
 Anti-Corruption Law	16972
 Anti-Corruption Laws of Mauritius	14766
 Anti-Corruption Measures	13685
-Anti-Corruption Mechanisms	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
+Anti-Corruption Mechanisms	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
 Anti-Corruption Mechanisms Absence of Corruption	10837
+Anti-Corruption Mechanisms1	19822
 Anti-Corruption Participation	11889,452
 Anti-Corruption Pillar	17139
 Anti-Corruption Policies	16219
 Anti-Corruption Policy	14736
 Anti-Corruption Prosecutor’s Office	16958
 Anti-Corruption Rank	11889
-Anti-Corruption Rights Every IIAG	10835,3,130,902,16,466,1,135
+Anti-Corruption Rights Every IIAG	10835,3,130,902,16,466,1,135,7334
 Anti-Corruption SECTION FOUR	15790
 Anti-Corruption Song Goes Viral	17069
 Anti-Corruption and Accountability Systems	13080
@@ -454,7 +456,8 @@ Anti-IFFs Policy Tracker. Specifically	9162
 Anti-Illegal Immigration Agency	11649
 Anti-Illicit Financial Flows	9162
 Anti-Influenza Vaccination Campaign	14721
-Anti-Money Laundering	789,2052,3857,1395,1657,257,1123,4,727,115,310,251,61,358,167,409,942,92,208,35,34,154
+Anti-Money Laundering	789,2052,3857,1395,1657,257,1123,4,727,115,310,251,61,358,167,409,942,92,208,35,34,154,4667
+Anti-Money Laundering API	19664
 Anti-Money Laundering Act	587,6353,9902
 Anti-Money Laundering Controls	10007
 Anti-Money Laundering Law	13314
@@ -492,6 +495,7 @@ Anti-competitive	6432,7134
 Anti-corruption	11285,71,2188,3595,1748
 Anti-corruption Action Plan	15372
 Anti-corruption and Integrity Management	11237
+Anti-corruption& Risk	19735
 Anti-dumping	11524
 Anti-erosive	17114
 Anti-foreigner	5533,6453
@@ -500,12 +504,14 @@ Anti-hunger Network	10960
 Anti-immigrant	6997
 Anti-money	4127,1003,8886,1431,3015
 Anti-money Laundering and Countering	14880
-Anti-phishing	17156
+Anti-phishing	17156,2483
 Anti-pollution	13624
 Anti-retroviral	16951
 Anti-smuggling	8681,6304
 Anti-static	14921
+Anti-tailgating	19801
 Anti-theft	16966
+Anti-virus	19639
 AntiMoney Laundering	11136
 Antibio-	13300
 Antibiotic	10829
@@ -540,7 +546,7 @@ Anticipating Large and Widespread Deprivation	18301
 Anticipation	10975,3647,3262
 Anticipation Hub	11156
 Anticipation ORDER	18436
-Anticipatory	7451,1531,376,1798
+Anticipatory	7451,1531,376,1798,8529
 Anticipatory Action	10763
 Anticipatory Action Framework	11156,1085
 Anticipatory Action Framework. Participants	13080
@@ -548,6 +554,7 @@ Anticipatory Action Review Workshop FIGURE	13095
 Anticipatory Action Review Workshop Figure	12241
 Anticipatory Action Review Workshop Official Launch	13080
 Anticipatory Cash Transfers	10763
+Anticipatory and Disaster Responses	19685
 Anticipatory and Early Action	15093
 Anticiper	8891,5532,65,1,1,802,41,209,609,3070
 Anticipos	4209
@@ -603,6 +610,7 @@ Antivirus	34,10941,1389,553,2004,243,479
 Antivirus Software Black	34
 Antivirus and Anti-Malware Protection	11231
 Antiviruses	16971
+Antiviruses and AntiSpyWare	19702
 Antler	7406,3058
 Antler MENAP	8076,3
 Antler-backed	10464
@@ -781,6 +789,7 @@ BoZ Commemorates International Anti-Corruption Day	13532
 Body Government of Rwanda and Anthropic	15109
 Bolama Estado Antiga	17147
 Border Management and Immigration Anti-Corruption Forum	2626
+Botswana's Anti-Money Laundering	19664
 Botswana's Anti-money Laundering	12598
 Boum III Jr and Anthony Miclet	16786
 Brazzaville République du Congo DISSOLUTION ANTICIPEE	16425
@@ -929,7 +938,7 @@ E ANTISPASMODIQUES MUSCULOTROPES	15930
 E.g. Anti-Corruption Commission	970
 ECHANGEUR MAC GUINEA Antenna	17006
 EDBM Madagasikara Antananarivo	14457
-EDUCATION ANTI-CORRUPTION	10835,133,918,466,1,135
+EDUCATION ANTI-CORRUPTION	10835,133,918,466,1,135,7334
 EGDI M-OSI H-HcI VH-TII Europe Antigua	10840
 ELEIÇÕES LEGISLATIVAS ANTECIPADAS	11561
 EMS Office. Antivirus	12917
@@ -1189,6 +1198,7 @@ Mind AG Anthropic	8530
 Minimize and Contain Antimicrobial Resistance Section	15027
 Ministro António Duarte	16067
 Ministry of Antiquities	15473
+Ministry of Budget. Governance and Anti-corruption	19835
 Ministry of Finance Anti-Corruption Strategy	12598
 Ministry of Good Governance and Anti-Corruption	15518
 Ministère de ANTIM	17824
@@ -1290,6 +1300,7 @@ PPR Brucellosis Anthrax FMD New Castle	17043
 PPR Brucellosis Anthrax New Castle Disease	17043
 PROCEDURES ANTIBRUIT ANTI NOISE PROCEDURES NIL	16552,454
 PRODUITS EXCEPTIONNELS PROFITS SUR EXERCICES ANTERIEURES	18032
+PROFITS SUR EX. ANTERIEURS	19850
 Pagamento Antecipado	11372
 Palais de Congrès Antenne	16552
 Pan-African Anti-Corruption Network	15301
@@ -1326,10 +1337,10 @@ Promoción Educativa Ilmo. Sr. Don Antonio	16920
 Prossy Mukisa and Anthony Odur	3005
 Prove Rani Group and Others Anti-Competitive Practices	10465
 Public Participation and Anti-Corruption Education	17037
-Public Perception of Accountability Anti-Corruption	10759,1130,265,9,178
-Public Perception of Anti-Corruption	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
+Public Perception of Accountability Anti-Corruption	10759,1130,265,9,178,7312
+Public Perception of Anti-Corruption	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
 Public Perception of Anti-Corruption PARTICIPATION	10759,1395
-Public Perception of Anti-Corruption Rule of Law	11889,274,178
+Public Perception of Anti-Corruption Rule of Law	11889,274,178,7312
 Pushes for Passage of Specialized Anti-Corruption Court	17037
 Pylône AIRTEL Antenne Pylon	16552
 Pôle Anti-corruption	14450
@@ -1402,6 +1413,7 @@ Scheme Borehole No. Anticipated Yield	18543
 Scheme Particular Anticipated Capacity Unit Mattru	18543
 Scope Anticipated	17330
 Score Anti-Corruption	11870,282,189,147
+Score Rank Anti-Corruption Mechanisms	19822
 Secretaria Adjunta de Antidrogas	4209
 Secretaria Adjunta de Antidrogas Servicio	4209
 Secretaria Titular de Antidrogas	4209
@@ -1418,7 +1430,7 @@ Sidy Mohamed DEMBELE DNEN ANTIM CHU	17882
 Sinikka Antila	18676
 Sir Celicourt Antelme Street	14754,93
 Sié Antoine-Marie Tioyé	1715
-Socioeconomic Opportunity for Women Anti-Corruption	10835,3,130,902,16,466,1,135
+Socioeconomic Opportunity for Women Anti-Corruption	10835,3,130,902,16,466,1,135,7334
 Société Civile Pôles Anti-Corruption Partenaires de Mise	14425
 Sofia Alexandra Da Silva Antunes	2989
 Somali Anti-Terrorism Law	15007
@@ -1496,6 +1508,7 @@ Vanilson da Costa Silva Lúcia António Pascoal	10766
 Variance Antiretroviral	12977
 Victor Anthony	5267
 WELE NZAS SAN ANTONIO DE PALEA	4209
+Wildlife and Antiquities	19642
 Wingu Africa CEO Anton Volianskyi	2580
 Wingu Group CEO Anthony Voscarides. Wingu	2988
 Women Anti-Corruption Mechanisms Absence of Corruption	10759

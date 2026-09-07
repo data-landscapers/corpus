@@ -57,11 +57,12 @@ ARMP. Relation	10829
 ARMTP	17856,14
 ARMYTEX INTERNATIONAL SECURITY SERVICES LIMITED Data	7167
 ARMÉE DE L’AIR	17828
-Absence of Armed Conflict	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
+Abbreviations ARMC Audit and Risk Management Committee	19666
+Absence of Armed Conflict	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
 Absence of Armed Conflict Absence of Violence	10837,1315,188
 Absence of Armed Conflict1	11889
 Absence of Armed Conflict2	12352
-Acronyms ACLED Armed Conflict Location	10759,76,2,1,130,902,16,3,264,10,177,1,11,1,135
+Acronyms ACLED Armed Conflict Location	10759,76,2,1,130,902,16,3,264,10,177,1,11,1,135,7334
 Adjudant TSOUMBOU TSOUMBOU Armand	16381
 Administration Sous-officiers des Forces Armées	17899
 African Development Bank ARMD Djibouti Multisector	13885
@@ -111,11 +112,12 @@ Armazenamento de Dados	15684
 Armazenar	16027
 Armazéns de Medicamentos Prestadores	6970
 Armed	3583,1057,2307,390,572,1707,1213,108,80,840,922,2469,597,591,499,83,346,1091
-Armed Conflict	10835,3,130,902,16,466,1,135,2254
+Armed Conflict	10835,3,130,902,16,466,1,135,2254,5080
 Armed Conflict International Non-Governmental Organizations	19520
-Armed Conflict Location	15715
+Armed Conflict Location	15715,3938,183
 Armed Conflict Location and Event Data	16359
 Armed Conflict1	12353
+Armed Extremist	19655
 Armed Forces	5270,4779,1468,340,2885,256,344,51,80,1366,1414,181,33
 Armed Forces Day Deputy Foreign	17025
 Armed Forces Day REPORT	17025
@@ -137,6 +139,7 @@ Armel Fridelin	15488
 Armel ITOUA	15685
 Armel Marius	15744
 Armel Ndoumba. L'attestation	2854
+Armel Nkurunziza	19645
 Armel Odilon Romary	15426
 Armel Porna DEMBELE	17819
 Armel Porna DEMBELE LISTE DES MEMBRES	17819
@@ -149,7 +152,7 @@ Armelle Ouédraogo	7353
 Armelle Ouédraogo Dalilha Ky	10125
 Armelle Ouédraogo Lefaso.net	16448
 Armement	16047
-Armenia	6849,2233,88,1615,59,2,159,351,253,285,1078,148,1348,1003,2272,380,438,684
+Armenia	6849,2233,88,1615,59,2,159,351,253,285,1078,148,1348,1003,2272,380,438,684,411
 Armenia Aruba Australia Austria Azerbaijan Bahamas	11470,7872
 Armenia CIS UMI	17743
 Armenia MINASYAN	6613
@@ -184,6 +187,7 @@ Arms Regulations	5773
 Arms Trade Treaties	14742
 Arms Zone	1014,10690
 Arms of Government	4535
+Armstrong	19654
 Armstrong Kadyamatimba	2093
 Armutsgrenze. Frauen	615
 Army Barracks	12962
@@ -318,6 +322,7 @@ Darfur and Kordofan Regions. The Sudanese Armed	15342
 Davy Armel	15524
 Decent Housing Absence of Armed Conflict	10838
 Desenho de Dados Elevada Armazenamento	18801
+Directeur Général du BI-SWITCH. ARMP	19687
 Directorate Centrale du Matériel des Armées	18241
 Disability RSLAF Republic of Sierra Leone Armed	18512
 Djámanca MctorCassamá Armando Mango Guilherme Damas	11544
@@ -390,7 +395,7 @@ Ilmo. Sr. Don Armando Ndemesogo Esono	16920
 Ilícito de Armas de Fogo	15359
 Incendie Armées	17899
 Indian Armed Forces	16331,2729
-Indian Army	11925
+Indian Army	11925,7707
 Instruction des Armées HP	15475
 Integrated ID Armenia Civil Registry	10714
 Internacional FAA Forças Armadas de Angola FAO	11376
@@ -457,7 +462,7 @@ OBR ARMP	1284
 Offre Restreint ARMP Autorité de Régulation des Marchés	10876
 PCA da ARME	16134
 PRESTADORES DE ARMAZENAGEM PRINCIPAL	10747
-PUBLIC ADMINISTRATION Absence of Armed Conflict	10835,3,130,902,16,466,1,135
+PUBLIC ADMINISTRATION Absence of Armed Conflict	10835,3,130,902,16,466,1,135,7334
 PUBLIQUES DES ARMEES CELLULE D’APPUI	18032
 Paratus Namibia's Armada	9953
 Participant ARMP-4	8021
@@ -472,6 +477,7 @@ Pour le Pr Armand Claude Abanda	8906
 Pr Armand Claude Abanda	8906
 President Armando Guebuza	12154
 Prestadores de Armazenagem Principal	6970
+Procurement Procedures. Absence of Armed Conflict Absence	19822
 Prof. Vinaye Armoogum	6900
 Profesional Reglada Ilmo. Sr. D. Armando	16864
 Proliferação de Armas de Destruição	11386,18

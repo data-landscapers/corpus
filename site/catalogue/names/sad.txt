@@ -261,7 +261,7 @@ SADC Common Positions and Proposals for WRC-27	9292
 SADC Computer Crime and Cybercrime Model	26
 SADC Cooperation	13320,1416
 SADC Corporate and Identity Manual. Project	962
-SADC Council of Ministers	9761,3201,1864
+SADC Council of Ministers	9761,3201,1864,4824
 SADC Council of Ministers. Allow	9761
 SADC Countries	12383,192
 SADC Cyber Drill	318
@@ -462,6 +462,7 @@ SADC Regional Infrastructure Development Master Plan	23,10936,1959
 SADC Regional Integration Agenda. Reaffirming the Republic	14826
 SADC Regional Peacekeeping Training Centre. Participants	12972
 SADC Regional Resilience Strategic Framework	19520
+SADC Regional StatCap and Botswana	19683
 SADC Regional Statistics	12972
 SADC Regional Statistics Project	3476,10328,700
 SADC Regional Workshop	9886,4618
@@ -493,7 +494,7 @@ SADC Southern African Development Community SGR	19590
 SADC Southern African Development Community UN	14434
 SADC Standing Committee of Senior Officials	9761
 SADC States	12527
-SADC Strategy	1600
+SADC Strategy	1600,18050
 SADC Strengthens Regional Integration	13655
 SADC Structures and Activities The Unit	12962
 SADC Summit	9959,362,2294,1652
@@ -532,6 +533,7 @@ SADC and COMESA Secretariats	12962
 SADC and CRASA Secretariats	26,1,1
 SADC and Codex Alimentarius	14818
 SADC and East African	3636,9384
+SADC and European	19702
 SADC and FAO	13049
 SADC and IOC	14267,551
 SADC and SADCAS	13068
@@ -544,11 +546,14 @@ SADC- SARB	12252
 SADC-CSC	13365,3006
 SADC-DTS	1007
 SADC-EU Trade Facilitation Programme. NamRA	12951
-SADC-RTGS	6360,1659,1,109,139,224,2639,3,331,495,292,419,165,16,200,95
+SADC-RTGS	6360,1659,1,109,139,224,2639,3,331,495,292,419,165,16,200,95,6503,14
 SADC-RTGS Main Indicators	12252,584,311
 SADC-RTGS Settlement Statistics and Indicators	12252,584,311
 SADC-RTGS and TCIB	12432,252
 SADC-RTGS-CSC	12252,895
+SADC-RTGS. Consistent	19650
+SADC-Real Time Gross Settlement	19650
+SADC-Real-Time Gross Settlement	19650
 SADC-backed	12469
 SADC-based	5261,2
 SADC-level	4185,1867

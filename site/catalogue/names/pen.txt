@@ -115,6 +115,7 @@ Cape Peninsula University of Technology	8130,4048
 Capital Penda and Zimba Women	9781
 Category Daily Penalty Category I GMD	17249
 Cellular Penetration	12395,657
+Census Data Device Penetration and Its Linkage	19728
 Center for Social Pensions	11855
 Central Pensions Administration Board	14841
 Central Pensions Administration Bureau	14841,2
@@ -243,6 +244,7 @@ Evolving Broadband Penetration	19532
 Evolving Broadband Penetration Project Cost	19532
 Ex. Pensador	7240
 Existence de Pendant	14488,1,1
+Express Penalty	19761
 Express Penalty Scheme	3572
 F Pendant	13300
 F. Penalty	14717
@@ -311,6 +313,7 @@ INEGE Pendiente MASIG	16898
 INEGE Pendiente Poner	16898
 INEGE Pendiente Publicar	16898
 INFANTERIE M. PENDZAMOYE TSOMBO	15744
+IPPS Integrated Payroll and Pension System ISO	19660
 ITU Penetration	11857
 ITU’s Global Cybersecurity Index Penetration of ICT	6946
 Implementation of RSSB Pension Reform	15023
@@ -483,6 +486,7 @@ Offensive Security Exp. Penetration Tester	15662
 Office Bearers Pension Fund Act	13096
 Office National des Pensions	13390,52
 Office Nationale des Pensions	13390
+Office of Penitentiary Affairs	19655
 Old Age Pension Program	12663
 Old Age Pensions	12663,6
 Only the Social Pensions	11855
@@ -577,7 +581,7 @@ Penalização	16122
 Penalizações	4274
 Penalize	17157
 Penalizing	6362
-Penalties	1,15,496,61,778,123,333,1354,553,896,341,608,1775,693,1996,494,662,100,578,286,58,163,25,134,8,98,278,378,26,70,225,816,179,114,135,11,9,115,1858,8,160,128,18,93,1291,15,99,31,299,540,2,37,21
+Penalties	1,15,496,61,778,123,333,1354,553,896,341,608,1775,693,1996,494,662,100,578,286,58,163,25,134,8,98,278,378,26,70,225,816,179,114,135,11,9,115,1858,8,160,128,18,93,1291,15,99,31,299,540,2,37,21,70
 Penalties Apply	12454
 Penalties CHAPTER	11190
 Penalties Ibrahim	9522
@@ -598,7 +602,7 @@ Penalties for Telecommunications and Computer Offences	4610
 Penalties for Telecommunications and Computer Offences A	4610
 Penalties. PART V- MISCELLANEOUS PROVISIONS	18452
 Penalties. Transitional	18452
-Penalty	10814,367,795,555,98,656,1309,123,174,593,2984,73,15,327,642,2
+Penalty	10814,367,795,555,98,656,1309,123,174,593,2984,73,15,327,642,2,307
 Penalty Categories	17249
 Penalty Notice	7845
 Penalty Payments	12333
@@ -610,6 +614,7 @@ Penalty Regimes Negligence	3861
 Penalty Regulations	1900
 Penalty Structure and Maximum Limits	17249
 Penalty and Collection Action	16942
+Penalty for Illegal Stay	19761
 Penalty for Improper Use of Ltd	18556
 Penalty for Late Delivery	12400
 Penanzlty	19525
@@ -644,7 +649,7 @@ Pendiente MSN	16898
 Pendiente Poner	16898
 Pendiente Realizar	16898
 Pendiente Realizar la MICS	16898
-Pending	718,2057,939,3232,1334,586,780,667,818,109,676,40,30,991,647,785,262,250,98,512,22,1286,14,19,165,198,1224,526,600
+Pending	718,2057,939,3232,1334,586,780,667,818,109,676,40,30,991,647,785,262,250,98,512,22,1286,14,19,165,198,1224,526,600,262
 Pending Accounts Payable	14546
 Pending Adopt	16872
 Pending Baseline	16872
@@ -689,9 +694,10 @@ Penetration Rate	2776,3895
 Penetration Safe	12205
 Penetration Test and Load Test	7266
 Penetration Testers	6832
-Penetration Testing	4610,11052
+Penetration Testing	4610,11052,4139
 Penetration Testing Reports	5665
 Penetration of Broadband Services Access	17870
+Penetration of Computing Devices	19639
 Penetration. Incentivising	14674
 Penetrations	9123
 Penetração	11531,38
@@ -765,6 +771,7 @@ Pension Test	12923
 Pension The Information Commissioner	13096
 Pension and Insurance Supervision Director	6938
 Pension and Investment Provider	2775
+Pension for General Civil Service	19641
 Pensioners	940,11520
 Pensioners Low	940
 Pensiones	4209
@@ -775,7 +782,7 @@ Pensionista Ressalta-se	12018
 Pensionistas	2816
 Pensionistas Formula A.3 Trabalhador Isento	12018
 Pensionistas IRPS Fórmula de Retenção	12018
-Pensions	10544,167,423,1203,72,2308,44,695,63,344,157,313,2126,674
+Pensions	10544,167,423,1203,72,2308,44,695,63,344,157,313,2126,674,579
 Pensions Act	14546,282,3,12
 Pensions Act. Le Independent Pensions Regulatory	14841
 Pensions Department	12663,1883
@@ -815,9 +822,9 @@ Pentavalent Vaccine	17044
 Pente	16552
 Pente Location	16552,454
 Pentecost University	9007
-Pentecostal	16958
+Pentecostal	16958,2757
 Pentecostal Brethren Church	3046
-Pentest	15936
+Pentest	15936,3865
 Pentest Réduction	15936
 Penyi-Aflao	7695
 Performs First Penile Prosthesis Surgery Libya	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
@@ -923,6 +930,7 @@ State Age Pension Estimate	14340
 Statutory Bodies Pension Funds Act	14736,92,3,12
 Statutory Penalties	11995
 Stoneridge Pension Owned Vacant Residential	4896
+Subscription and Penetration Trends Mobile	19728
 Subscriptions Internet Penetration EAC Active Mobile	6946
 Subscriptions and Penetration Rates	18444
 Subscriptions and Voice and Data Penetration Voice	18444
@@ -951,6 +959,7 @@ Taxa de Penetração	11574,7217
 Taxa de Penetração Tabela	11574
 Technology Penetration	4972
 Telecommunications Pending	16872
+Telephone Penetration	19728
 Testing Penetration	11153
 Through Line Advisors Gaia Penteriani	10856
 Title VI of Penal Code Act No	13331

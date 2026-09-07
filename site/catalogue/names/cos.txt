@@ -97,6 +97,7 @@ Benvindo Costa	5423
 Bid Combined Score Score Cost	13185
 Bid Cost	13527
 Bloemfontein MP Life Cosmos Hospital	11986
+Body Published By CoST Admin	19735
 Body The Real Cost of Reaching	19595
 Brazil Chile Uruguay Colombia Peru Costa	11135
 Breakdown of Costs	13037
@@ -109,6 +110,7 @@ Business Models for Cost-Effective Rural Deployment	5245
 Business Registrations and Licensing Agency COSTECH Capital	19534
 C. Cost Phasing	18531
 C. Project Cost and Financing	15411
+C. Project Costs and Financing	19835
 C3. Definition of Cost of Sales	17250
 CAC Cost Management Framework	6432
 CAPACITY EXPANSION AND COST REDUCTION	12563
@@ -163,6 +165,7 @@ COSSOP	12256
 COST ANALYSIS Table	10793
 COST AND FINANCING	14935
 COST AND FINANCING OF THE SECTOR	14942
+COST BENEFIT ANALYSIS	19647
 COST BENEFIT RATIO	16854
 COST BREAKDOWN	15460
 COST CENTRE CONSULTANCY LTD Data Processor	7167
@@ -173,6 +176,8 @@ COST IMPLEMENTING INSTITUTIONs EGD	12453
 COST IMPLEMENTING INSTITUTIONs Engage	12453
 COST IN DIFFERENT WAYS Abayomi Adewuyi	9594
 COST OF OPEN DATA AND PROCESSED	14726
+COST PER MW	19646
+COST PRICE	19823
 COST PROPOSAL	11209
 COST READING	11964
 COST RISK Application	6432
@@ -192,6 +197,7 @@ COSTECH ICTC	19534
 COSTECH Initiatives	19534
 COSTECH Korea Institute	19534
 COSTECH Tanzania Commission for Science and Technology DHS	19555
+COSTED ANNUAL AND QUARTERLY WORKPLANS	19689
 COSTEK ALMA Data Controller INST-942064011EB NAIROBI	7167
 COSTEK ALMA Data Processor INST-942064011EB NAIROBI	7167
 COSTING AND BUDGET	18478
@@ -212,6 +218,7 @@ Cabouco de Cosco	15755
 Calculate Total Cost of Ownership	6432
 Cameroon Chile Colombia Costa Rica Côte	10764
 Cameroon Costa Rica	16942
+Capacity Expansion and Cost Reduction	19677
 Capacity Expansion and Cost Reduction Adopt	18795
 Capacity Expansion and Cost Reduction Integrated Least	12399
 Cape Verde António Gonçalves Partner Costa	11943
@@ -223,9 +230,12 @@ Cheaper Cost of Living	11863
 Chile and Costa Rica	10991
 Civil Works Cost and Financing	16896
 CoSSE	6938
+CoST IDS	19735
 CoST Infrastructure Data Standard	11007
 CoST Infrastructure Transparency Initiative	11007
-CoST Uganda	3969
+CoST International Secretariat	19735
+CoST Uganda	3969,15766
+CoST Uganda Driving	19735
 CoSoft POS	14376
 Colombia Costa Rica Cuba Dominican Rep	10764
 Colombia Costa Rica Dominican Republic Ecuador	13661
@@ -239,7 +249,7 @@ Comments No. Cost	18887
 Commodities Commodity Total Cost	5352
 Commodities Total Total Cost	4202
 Compensation and Land Costs	11549
-Competitive Costs	12717,3471
+Competitive Costs	12717,3471,3489
 Competitive Costs MISSION	16188
 Compliance Costs	4848
 Component Costs	16896
@@ -290,7 +300,7 @@ Cosmetic Products Ministerial Guidelines	15127
 Cosmetic Retail Licence	18541
 Cosmetic Wholesale Licence	18541
 Cosmetica	16331
-Cosmetics	11269,2116,1642,1984,1530
+Cosmetics	11269,2116,1642,1984,1530,1171,18,19
 Cosmetics. Toiletries	16900
 Cosmo City	8458
 Cosmopolitan Mall	1874
@@ -340,6 +350,7 @@ Cost Oil'13	3583
 Cost Optimization	6432,4708,855
 Cost Power System Planning	12399
 Cost Pressures and Operating Rising	11134
+Cost Prices	19823
 Cost Principles	19214
 Cost Projections PEF	16032
 Cost Proposal and Price Declaration Form	11209
@@ -350,6 +361,7 @@ Cost Recovery Rate	12457
 Cost Reductions	12253
 Cost Reflectivity of Energy Prices Increased Uptake	12515
 Cost Review Date	18374
+Cost Savings	19699
 Cost Selection	13037,2335,3515
 Cost Sharing Fund Management Directives	19585
 Cost Sources	7548
@@ -388,15 +400,16 @@ Cost of Implementation	1000
 Cost of Implementation Funding and Resources	1000
 Cost of Inaccessibility Dr. Longla	16010
 Cost of Inaction AI	7548
+Cost of Internet	19639
 Cost of Leave	13037
-Cost of Living	12969
+Cost of Living	12969,6857
 Cost of Living Report	8398
 Cost of Living and Adjustment COTE Certificate	12975
 Cost of Load	11953
 Cost of Making	12389
 Cost of Malicious Cyber Activity	15518
 Cost of Medium Issuance	16884
-Cost of Ownership	16885
+Cost of Ownership	16885,2748
 Cost of Ownership TLS Transport Layer	6432
 Cost of Ownership and Life Cycle Cost	12389
 Cost of Payments Survey	10901
@@ -407,7 +420,9 @@ Cost of Registration	18465
 Cost of Request for Proposal	12400
 Cost of Sales	4896,12354
 Cost of Scaling Up Safety Nets Figure	10763
+Cost of Service Study	19677
 Cost of Standing Still	9602
+Cost of Subsidy Represented	19823
 Cost of Supply	13054
 Cost of Transmission Delays Text Figure	13624
 Cost of Usage of Service Bureau	16844
@@ -418,10 +433,12 @@ Cost-Benefit Analysis CERC Contingent Emergency Response	16896
 Cost-Benefit Considerations	12663
 Cost-Benefit of WASH Investment	17260
 Cost-Efficiency Measures	16963
+Cost-Of-Service	19677
 Cost-Plus	12399
 Cost-Recovery Principle Enforcement-related	17249
-Cost-benefit	6432,5473,3756,97,1100,2426
-Cost-effective	11990,912,156,1939,1926,191,1417
+Cost-based	19745
+Cost-benefit	6432,5473,3756,97,1100,2426,451
+Cost-effective	11990,912,156,1939,1926,191,1417,1126
 Cost-effectiveness	12508,969,1300,2125,1629
 Cost-efficiency	15164
 Cost-of-Service Study	12256
@@ -479,7 +496,7 @@ Costing and Financing Considerations	15604
 Costing and Financing Considerations Education	15604
 Costing of Development	15845
 Costings	3583
-Costly	418,11815,1448,3186
+Costly	418,11815,1448,3186,2772,7
 Costly Domestic Debt	14546
 Costly Journeys	19615
 Costo	16898
@@ -687,10 +704,12 @@ IMPROVEMENTS TO COST OF COMMUNICATION Overall	12395
 INDICATORS AND COMPONENTS VALUES Cost	12389
 INFRASTRUCTURE AT COMPETITIVE COSTS	18795
 INTANGIBLE FIXED ASSETS SOFTWARE COST	14736
+INVESTMENT COST	19646
 INVESTMENT IN INFRASTRUCTURE AT COMPETITIVE COSTS	16966
 ITEM ASSIGNED COST IN DALASI	16885
 ITN Distribution Total Total Cost	4202
 ITU BDT Director Cosmas Zavazava	6427
+IV. Cost	19647
 IV.1.3 Coste	16898
 IX. Connectivity Costs	12917
 Implementation Cost Gap Analysis	17011
@@ -702,6 +721,7 @@ Implementation Timeline and Cost A. INTRODUCTION	17011
 Implementation Timeline and Estimated Cost	17011
 Implementation Timeline and Estimated Cost No. Strategic	17011
 Implementation and Costed Action Portfolio. The M&E	17116
+Import Cost	19823
 Improve Cost Effectiveness Improved	4260
 Improve Cost-Effectiv	17180
 Improvements To Cost	12395
@@ -715,8 +735,10 @@ Initial Strategic Action Portfolio and Costed Activities	17116
 Institutional Cost of Deferred Reform	10062
 Instituto Costarricense de Electricidad	15471
 Intangible Assets Cost of Intangible Assets	14736
+Integrated Least Cost Power System Planning	19677
 International Bandwidth Cost	13704
 International Exhibition of Cosmetic Industry	16331
+Internet Cost of Internet	19639
 Investment Funds CIF Cost	2775
 Investment Recovery Investment Recovery Program Costs	12457
 Isa da Costa	11541
@@ -744,9 +766,11 @@ Land Cost	18465
 Lead Support Agencies Frame Cost	7548
 Least Cost	13037
 Least Cost Development Plan	15659,310
+Least Cost Generation	19646
 Least Cost Masterplan	12399
 Least Cost Power Development Plan	12358,322,2267,712,310,997
 Least Cost Power Development Plan LKMP	12358
+Least Cost Power System Planning	19677
 Least Cost Selection	13621
 Least Cost Transmission and Distribution	14947
 Leave Cost	13037
@@ -759,6 +783,7 @@ Long-Run Marginal Cost	12399
 Losing Costumers	12389
 Low Cost	15661
 Low Costs	12006
+Lower Connectivity Costs	19718
 Lower Cost	582
 Lower Costs	6318
 Luanda Luanda PEDRO CLAVER COSSENGUE HILÁRIO	10751
@@ -773,6 +798,7 @@ MCC’s Cost Principles for Accountable Entity Operations	19214
 MNCH Total Commodity I Total Cost	4301
 MONTHLY COSTS	16942
 MUCH DO THE SCHOOLS COST	6211
+MW. The Least Cost Generation	19646
 Maganja da Costa	12201
 Maintenance Service Contracts Costs N	16844
 Maj Gen Costa	4836
@@ -783,6 +809,7 @@ Major General Costa	18662
 Major General Elia Costa	7861,70,138,10593
 Major Intervention Intervention Approx. Total Cost	16436
 Malaria Total Total Cost	4301
+Malcolm Cosgrove-Davies	19646
 Man-made Disaster. COSTS	16398
 Manage Costs Some KPIs	13053
 Manuel Costa Cabral	5404
@@ -806,6 +833,7 @@ NCC Seeks Cost-Based Pricing Framework for Ducts	7110
 NET FINANCE COST Table	10793
 National Cost	7548
 National Costed Roadmap	12188
+National Electricity Standard Connection Cost	19663,14
 National Electrification Least Cost Plan	12399
 National Least Cost Electricity Access Program	16654
 National Strategy and Costed Action Plan	14742
@@ -836,7 +864,7 @@ Operating Costs	2474,2179,1347,5525,338,3049,460,39,286,1239,1951,397
 Operating Costs NEF	14835
 Operating Costs Revenue Cost	6000
 Operating Costs and Training	15553
-Operation Cost	1264,440,1185,567,3083,4878,488,60,423,24,14,406,955,6,1144,39,121,41,839,6,161,149,105,2227,184,475
+Operation Cost	1264,440,1185,567,3083,4878,488,60,423,24,14,406,955,6,1144,39,121,41,839,6,161,149,105,2227,184,475,379,184
 Operation Cost Total Financing	14576
 Operation Cost US	2254
 Operational Cost Recovery	18537
@@ -845,6 +873,7 @@ Operational Measures of Success Cost	16968
 Operators Gross Mobilisation and Turnover Costing	16884
 Opportunity Cost	15372,3515
 Opportunity Costs	12233
+Optic Fiber Cable TCO Total Cost	19633
 Optimise Revenue Collection Cost of Collection Target	13053
 Optimized Cost Electricity Generation and Transmission	11136
 Optimized Cost Generation and Transmission Development Plan	14957
@@ -893,6 +922,7 @@ Procedures Time Cost Building	18109
 Procedures Time Cost Paid-in	18109
 Procedures Time Cost Quality	18109
 Procedures Time Cost Reliability	18109
+Processing TCV Time Cost and Visit TIN	19647
 Procurement Committee. No Costed	13392
 Procurement Estimated Cost Bank Selection Evaluation	11525
 Production Costs	17043
@@ -909,7 +939,7 @@ Project Components Project Cost	15411
 Project Components Project Cost IDA Financing	11525
 Project Components and Cost	19455
 Project Components and Costs Components US	2889,12629
-Project Cost	1284,704,9264,603,8,806,1269,608,342,22,101,361,39,252,41,1256,889,1038,645,53
+Project Cost	1284,704,9264,603,8,806,1269,608,342,22,101,361,39,252,41,1256,889,1038,645,53,58,192
 Project Cost African Development	11863
 Project Cost KEY DATES Effectiveness	15424
 Project Cost Original	15601
@@ -921,7 +951,7 @@ Project Cost and Financing	1264,15632,26
 Project Cost and Financing Project Components Parent	19284
 Project Cost and Financing Project Cost IBRD	17441
 Project Cost and Private Sector Requirement	5903
-Project Costs	11525,338,3509,39,2030
+Project Costs	11525,338,3509,39,2030,2394
 Project Costs and Financing	1264,15350,2140
 Project Costs and Financing Sources	13331
 Project Costs and IDA	16144
@@ -1044,6 +1074,7 @@ Summary Cost Estimates D1	16884
 Summary of Costs Item Costs	13037
 Summary of Portfolio Costs	17116
 Summary of Portfolio Costs The ISAP	17116
+Summary of Project Costs	19847
 Supply and Installation Cost Sub-Table	14766
 Supply and Installation Cost Sub-Tables	15080
 Sustainability and Cost Efficiency	6748
@@ -1058,6 +1089,7 @@ Telecommunication Cos	16926
 Temático Simeão da Costa	10757
 Tenure Upgrading Costs	15473
 Teresa Vissolela Fortunato Calado da Costa	11391
+Through Industry Costing	19728
 Through the Cost	3264
 Time and Cost	18109
 Time and Cost Export	18109
@@ -1101,8 +1133,9 @@ Very High Supply Cost	1828
 Very High Supply Cost The Current	1828
 Vital Fee for Cost	12138
 Vlad Costea	427
+WDUS EAS XXXX Cosmetics	19749
 Wallace Cosgrow MINISTER FOR FISHERIES	19049
-Weighted Average Cost of Capital	4896
+Weighted Average Cost of Capital	4896,14781
 Wh Kilowattheure LCOE Levelized Cost	18103
 Wilder da Costa Carvalho Parque Natural Obô	18760
 Will Probably Cost Starlink	6629

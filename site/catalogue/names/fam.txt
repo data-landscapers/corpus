@@ -22,6 +22,7 @@ Agregado Familiar-Entrevista de Revisão	10777
 Agregado Família	15437
 Agregados Familiares	4044,6733,644,5023
 Agricultural Labor Family	17043
+All Fam Trade	19825
 Angaza Holy Family Community	7167
 Angel Networks Family	4972
 Angola Procura de Planeamento Familiar	10760
@@ -176,7 +177,7 @@ Families Assisted	12977
 Families Left Offline	4619
 Families and Children	15661
 Families. The Government	14742
-Famille	7403,238,29,31,12,1,4,140,120,343,24,546,492,754,675,14,15,123,187,793,469,887,90,501,851,18,296,320,7,30,15,44,2,77,34,101,26,34,34,12,58,23,12,51,193,194,16,45,95,22,3,224,12,721,20,8,95,243,14,4,54,47,1,56,11,33,30,209,5,48,31,42,938
+Famille	7403,238,29,31,12,1,4,140,120,343,24,546,492,754,675,14,15,123,187,793,469,887,90,501,851,18,296,320,7,30,15,44,2,77,34,101,26,34,34,12,58,23,12,51,193,194,16,45,95,22,3,224,12,721,20,8,95,243,14,4,54,47,1,56,11,33,30,209,5,48,31,42,938,487,5
 Famille AFD	15475
 Famille Autres	13499
 Famille CCID	14760
@@ -201,7 +202,7 @@ Famille. En	18286
 Famille. Il	17845
 Famille. des Circonscriptions	18003
 Familles	15732,797,2413
-Family	418,2339,2215,2170,201,3420,13,188,13,8,540,332,119,250,107,5,32,51,350,120,55,412,621,158,605,93,314,57,274,98,147,6,193,621,291,66,69,826,137,371,54,238,212,475,171,76,13
+Family	418,2339,2215,2170,201,3420,13,188,13,8,540,332,119,250,107,5,32,51,350,120,55,412,621,158,605,93,314,57,274,98,147,6,193,621,291,66,69,826,137,371,54,238,212,475,171,76,13,158
 Family Affairs	14889
 Family Allowance	19455
 Family Assistance Plan	11855
@@ -210,7 +211,8 @@ Family Bank	14897
 Family Booklet. Confirmation	16902
 Family CR Civil Registration CSPS Local	10812
 Family Cell	14748
-Family Code	10765,10,39,4739,66
+Family Code	10765,10,39,4739,66,4215
+Family Code. Official	19834
 Family Council	12338
 Family Counselling	14742
 Family Database	8891
@@ -405,6 +407,7 @@ Ministry of Family and Solidarity	16384
 Ministry of Gender Equality and Family Welfare	14742,32,19,37
 Ministry of Gender and Family Promotion	12338,75,2522,121
 Ministry of Health and Family Welfare of India and Ministry	19063,1
+Ministry of Women and Family	19835
 Ministry of Women and Family Affairs	14889
 Ministry of Women and Family Development	15480
 Ministry's Family Health Division	9861
@@ -457,6 +460,7 @@ Port Louis Ministry of Gender Equality and Family	14847
 Postpartum Family Planning Coverage	19544
 Prestações Familiares	5986,5481
 Procura de Planeamento Familiar	10777
+Produced Family	19743
 Profesorado FHI360 Family Health International Development	16864
 Programa Família	14191,4598,10,25,17
 Programa Família Vulnerável	14191,4633
@@ -517,6 +521,7 @@ Tondro Vanimpotoana Tompon’andraikitra Dingana Fampiasana	14490
 Tondro Vanimpotoana Tompon’andraikitra Fampiasana	14490
 Trend Coverage of Family Planning New Acceptors	19544
 Trend of Adolescents Received Family Planning Methods	19544
+UDHS Report. Family	19743
 UN FAMILY	16973
 UN Family	18464
 UNFPA United Nations Family and Population Agency	10829

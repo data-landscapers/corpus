@@ -7,6 +7,7 @@ ANGOLA HEALTH EMERGENCY PREPAREDNESS	11417
 APPROACH AND METHODOLOGY TO PREPARATION	12253
 ARV for PrEP	4167
 ASCON National Preparedness	11857
+AUS0003269 Burundi BI Preparedness	19645
 Accountant General Prepared	15148
 Actividades de Preparação	11421,156
 Adaptation and Disaster Preparedness	14818
@@ -136,7 +137,7 @@ Data Collection and Preprocessing	15253,1013
 Data Prepaid	2776
 Data Preparation	11345
 Data Preprocessing	17437
-Date Prepared	980,16,708,587,1165,7507,1706,163,279,412,264,50,716,23,937,1,36,743,361,1,20,1781,477,474
+Date Prepared	980,16,708,587,1165,7507,1706,163,279,412,264,50,716,23,937,1,36,743,361,1,20,1781,477,474,256
 Department Prepared By Bahrom Shukurov	10997
 Department of Planning Preparedness	16963
 Description of Planned Preparing	16885
@@ -152,6 +153,8 @@ Digitization Preparedness and Planning	16955
 Disaster Development and Preparedness Gender FY17	17962
 Disaster Preparedness	13474,1461,185
 Disaster Preparedness Over	15120
+Disaster Preparedness and Refugees Hon. Lillian Aber	19727
+Disaster Preparedness and Refugees Mr. Patrick Okello	19727
 Disaster Risk Management and Pandemic Preparedness	17257
 Districts for Stronger Outbreak Preparedness	17735
 Drought Mitigation and Preparedness	17157
@@ -177,6 +180,7 @@ Emergency Preparedness Plan	12253
 Emergency Preparedness Strengthened Eswatini	13163
 Emergency Preparedness and Financing Constraints	18198
 Emergency Preparedness and Response	1988,10988,187,5035
+Emergency Preparedness and Response Plan	19646
 Enhanced Outbreak Preparedness	10776
 Enhancing Preparedness for Pandemic Response Using	13870
 Environmental Screening and Preparation of ESIAs	17114
@@ -251,6 +255,7 @@ Internal Audit Reports Prepared	13005
 International Prepare	14997
 Justice Preparedness	9067
 KP and PrEP	15156
+Kenya Prepared	19801
 Kenya Steps Up Digital Infrastructure Preparations	6678,209,414,23
 Kenya. Preprint	11585
 Kindergarten Primary Preparatory Secendoray	15604
@@ -296,6 +301,7 @@ National Statistical System Preparing	16863
 National Statistical System. Preparation	19519
 National System for Preparedness and Response	17934
 Nihetay Preparatory School	15578
+Non-current Assets Prepayments	19712
 OUTCOME A. KEY FACTORS DURING PREPARATION	11924,4512,1526
 Objective Preparations for APM27-3	10235
 Operation Manual PPA Project Preparation Advance	11380
@@ -360,7 +366,8 @@ Plano de Preparação	11376
 Preliminary Preparations	19166
 Prepa	11376
 Prepackaged	13385,3515
-Prepaid	236,346,431,850,81,832,1086,1960,915,1494,554,99,1849,60,182,284,3,301,470,181,222,165,29,703,681,254,568,43,592,1401,14,349,1078,1025
+Prepacked	19712
+Prepaid	236,346,431,850,81,832,1086,1960,915,1494,554,99,1849,60,182,284,3,301,470,181,222,165,29,703,681,254,568,43,592,1401,14,349,1078,1025,313,51
 Prepaid Active SIM	1013,931
 Prepaid Active TN Mobile	1013
 Prepaid Cards	16878
@@ -437,7 +444,7 @@ Preparação da IA	2816
 Preparação da Realização da Conferência Nacional	2816
 Preparação de Ambientes de Treino	11444
 Preparação de Emergências	11376
-Prepare	940,22,242,573,37,174,1690,448,402,175,962,767,890,3399,412,165,575,83,239,58,103,44,112,163,11,7,269,133,297,599,19,105,658,4,41,47,132,30,4,152,228,1422,18,12,3,1,59,188,43,1213,118,7,36,46,509,433
+Prepare	940,22,242,573,37,174,1690,448,402,175,962,767,890,3399,412,165,575,83,239,58,103,44,112,163,11,7,269,133,297,599,19,105,658,4,41,47,132,30,4,152,228,1422,18,12,3,1,59,188,43,1213,118,7,36,46,509,433,114,174
 Prepare Annual	19519
 Prepare Annual Electricity Sector Report	16978
 Prepare Contactor Management Plan and Operating	17114
@@ -453,11 +460,12 @@ Prepare and Publish Awareness Office	1777
 Prepare and Publish Awareness Raising Materials. Establish	1777
 Prepare and Submit Quarterly Financial Reports	14546
 Prepare for December Polls	18742
+Prepare the Cabinet	19807
 Prepare the Data Protection Guidelines for SADC	962
 Prepare the National Agricultural Sample Census	19519
 Prepare the PIM	13331
 Prepare the Quality Sectorial	16863
-Prepared	231,796,4,132,190,424,51,1332,1876,1386,1398,933,371,554,177,908,16,186,32,866,370,266,476,875,18,70,31,6,173,629,111,47,79,41,356,82,719,730,18,154,26,1437
+Prepared	231,796,4,132,190,424,51,1332,1876,1386,1398,933,371,554,177,908,16,186,32,866,370,266,476,875,18,70,31,6,173,629,111,47,79,41,356,82,719,730,18,154,26,1437,1064
 Prepared By The Farmers	12970
 Prepared Procurement Execution Plan for Q1	16970
 Prepared for Nigeria's Public Sector	6442
@@ -502,7 +510,7 @@ Prepayments	13053
 Prepayments and Advances	11230
 Prepositioned	19520
 Prepositions	18099
-Preprimary	11905,3339,417
+Preprimary	11905,3339,417,4174
 Preprimary Education Primary Education Inspectors Secondary	15661
 Preprimary School	15244
 Preprint	6948,1353,1438,1846,5435
@@ -528,6 +536,7 @@ Project Preparation Advances	1264,17490
 Project Preparation Facility	16614
 Project Preparation Facility of Ireme Invest	14997
 Project Preparation GFPP Greenhouse Gases GHG	11417
+Project Preparation Grant	19825
 Project Preparation Stakeholder Identification and Analysis	1988
 Project Preparation and Design	14855
 Project Preparation and Development Unit	17380

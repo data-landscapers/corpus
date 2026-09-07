@@ -34,6 +34,7 @@ African News Innovation Forum	13461
 African... News Tourism Djemila	19622
 Afrique IT News	8171
 Afrol News	19284
+Air News	19651
 Akhbar El Youm News Portal	17562
 Al Ain News	10334
 Al-Ahram Newspaper Online Portal	17647
@@ -41,6 +42,7 @@ Alfajr Aljadeed Newspaper	16916
 Algeria Venture and Taubyte TechAfrica News	6010
 Alhurra News	15342
 Aliyu Newman Omigie PhD. NCC	11857
+All Around News	19725
 All Girls Boys Newly	15661
 AllAfrica Newsletters Get	7615
 Amajuba Newcastle Internet of Things	6832
@@ -466,6 +468,8 @@ MIT News	13461
 MIT News Office	12231
 MTND. Responsibility for Data Collection PCU Newly	3604
 Mainstream News Stories	13462
+Makerere University News Connect	19771
+Makerere University News URL	19771
 Malawi News Agency	7900
 Managing Editor of Salone Compass Newspaper	18592
 Managing Editor of Salone Compass Newspaper. Complainant	18592
@@ -489,6 +493,7 @@ Million for Africa Digital Push Bloomberg News	9060
 Minister News Abdullah	19543
 Minister News Dr. Lazarus McCarthy Chakwera	12983
 Minister News President His Highness Sheikh	19543
+Minister News Yoweri Museveni	19694
 Ministry. Newly	14934,2036
 Mji Newala	19592
 MoH News Nairobi	17567
@@ -516,6 +521,8 @@ NEWS ARTICLE	7972
 NEWS EDITORS	11260
 NEWS FROM AROUND THE WORLD	13532
 NEWS IN GAMBIA	10062
+NEWS LETTER	19725
+NEWS Leave	19815
 NEWS MEDIA AND DIGITAL	13461
 NEWS MEDIA AND DIGITAL ADVERTISING MARKET	13461
 NEWS RESOURCES OVERSEAS MISSIONS Chinese Embassies	18790
@@ -526,6 +533,7 @@ NEWS UPDATE	5574,215,3880,84,207
 NEWS-1-3-831509	17337
 NEWS-JURITECH	11958
 NEWSFLASH	13533
+NEWSLETTER BANK OF UGANDA	19716
 NEWSLETTER Portfolio Funds	12339
 NEWSLETTER TRIMESTRIELLE	18013
 NEWSROOM Media	16217
@@ -604,7 +612,7 @@ Newfel Ferroudj	15410
 Newgry Money Tree	8732
 Newhouse	10763
 Newlegislations- Regulations-	16883
-Newly	718,510,2321,55,1049,7207,1117,441,520,1042,43,1121,816,1399,464,110,312,39
+Newly	718,510,2321,55,1049,7207,1117,441,520,1042,43,1121,816,1399,464,110,312,39,437
 Newly Licenced	15023
 Newly Registered Firms	12389
 Newly Registered Road Motor Vehicles and Motorcycles	2775
@@ -686,6 +694,7 @@ News Infrastructures Kenya Appoints Consultant	5407,676
 News Infrastructures South Africa Removes VAT	19622
 News Item Published	14144
 News JéGO	2762,389
+News KAMPALA	19795
 News Kampala	4235
 News Kidnapping	10620
 News Kingston Creative Becomes First Caribbean	15750
@@ -775,6 +784,7 @@ News Why Kenya	3011,54,672,824,240,905,877,388
 News Working	13461
 News Young	15618,132
 News Zimbabwe	12504
+News and Current Affairs	19702
 News and Development Journalist	17705
 News and Development Journalist Johannesburg	7546,2915,146
 News and Development Journalist. Johannesburg	7604
@@ -884,7 +894,7 @@ Newspaper Exposure	18441
 Newspaper Proprietors' Association of Nigeria	11313
 Newspaper Proprietors’ Association of Nigeria	7179,2,4111
 Newspaper Readership	6946
-Newspapers	13461,4980,42,2,19
+Newspapers	13461,4980,42,2,19,1137,61,39
 Newsroom	248,96,116,158,3,192,16,1,225,1096,2448,6628,2020,1502
 Newsroom Media Center	16961
 Newsrooms	12982,479,1857
@@ -1114,7 +1124,7 @@ World News	9667
 World. MIT News. Retrieved	10834
 X You Might Also Like News	8217
 Xinhua News	11154
-Xinhua News Agency	13622
+Xinhua News Agency	13622,6014
 Xinhua News Agency. Ngwawi	11302
 Yonhap News	9263
 ZA News	13462

@@ -1,3 +1,4 @@
+A. Pointage	19645
 A. Points	17965
 ACCESS POINTS AND DEVICES	4517,2461
 ACKNOWLEDGMENTS The Pharmacy and Poisons Board	9855
@@ -45,6 +46,7 @@ BENRECCA POINT LIMITED Data Processor INST-5077415CFED	7167
 BIGIRIMANA Claude Stanley Point Focal TIC	13341
 BUSARA COMPUTER POINT LIMITED Data Controller	7167
 Base Pointe-Noire	15786
+Beverage Factories Points of Sale Chemical	19712
 Body Lesotho Internet Exchange Point Peers	12743
 Bonga Points	7710
 Border Points	2775
@@ -65,7 +67,8 @@ Bureau International de Poids	13320
 Bureau International des Poids	14736
 Bureau Permanent Président Point Focal Point	14537
 Burkina Point de Vue Politique Quantum Robotics	9993
-Burundi Internet Exchange Point	13291,21,1,1
+Burundi Internet Exchange Point	13291,21,1,1,6492
+Busia Border Point	19712
 C Point	16552
 C. MULTI-PURPOSE COMMUNITY PUBLIC ACCESS POINTS	14853
 CE POINT DE PRES	13300
@@ -78,7 +81,7 @@ CIXG Point	15493
 CLEAR POINT COUNSELLING AND PSYCHO-THERAPEUTIC CENTER	7167
 CONNECTION TO RWANDA INTERNET EXCHANGE POINT	15149
 CONTACT POINT Page	14553
-CONTACT POINT World Bank	12832
+CONTACT POINT World Bank	12832,6831
 CONTACT POINT World Bank Almedina Music	14576
 CONTACT POINT World Bank Djamali Ibrahime	16654
 CONTACT POINT World Bank Erkin Mamadaliev	10963
@@ -124,6 +127,7 @@ Commune de Pointe-Noire Décret	15558
 Commune de Pointe-Noire Département	15558
 Communications Focal Point	14146
 Community Access Points	12536,437
+Comparison of Address Point and Street Geocoding	19654
 Completed Point	15593
 Completion Point for Somalia	14925
 Confusing Collection Points	9696
@@ -144,6 +148,7 @@ County AI Focal Points	7548
 County AI Focal Points. Accountability	7548
 Creation of Sectoral Focal Points	1000
 Crown Point Dental Care Data Processor	7167
+Currency Point Schedule	19629
 DATA POINT	7167
 DECLARATION D’UTILITE PUBLIQUE Points X	15744
 DESIGNATED POINT OF CONTACT REPORTING OBLIGATIONS	11190
@@ -151,9 +156,11 @@ DESIGNATION DE POINTS FOCAUX	15744
 DEVELOPMENT POLICY OPERATION KEY ACTION POINT	18488
 DID de Pointe-Noire	16249
 DIF Digital Investment Facility POP Point	3184,1,1340,6470
+Dangling Pointers Nullification	19654
 Data Focal Points	18529
 Data Points	14778
 Data Points Scope	14778
+Data for Burundi Internet Exchange Point	19806
 Data for Cameroon Internet Exchange Point	16551
 Data for Mauritius Internet Exchange Point	14810
 Data for Togo Internet Exchange Point	19342
@@ -223,9 +230,10 @@ Focal Point for WMO	18787
 Focal Points	1161,14599,1339
 Focal Points for Federal Member States	14910
 Following the HIPC Completion Point	14929
-Four Cardinal Points	16784
-Four Points	7248,3168
+Four Cardinal Points	16784,3035
+Four Points	7248,3168,9386
 Four Points By Sheraton Hotel	5371
+Four Points Sheraton	19802
 Frequency Point	736
 GAB-IX Internet Exchange Point	15518
 GBV Focal Point	16922
@@ -269,7 +277,9 @@ INTERNET EXCHANGE POINT	14879
 INTERNET EXCHANGE POINTS TISPA	19625
 ISP Point of Presence	2913
 ISPs Point of Presence	3862
+IXP Internet Exchange Point JLOS Justice	19633
 IXP Internet Exchange Point KCL Knowledge	11552
+IXP Internet Exchange Point LG Local	19660
 IXPN Points. INTERNATIONAL SUBMARINE CABLE LANDING	11857
 Ibrahim Boubacar KEITA Point C	17827
 Identification des Points	17983
@@ -294,7 +304,7 @@ Integration Points	5665
 International Signaling Point Codes	16934
 International Signaling Point Codes Assignee Assigned	16934
 International Signalling Point	6946
-Internet Exchange Point	762,2705,1081,67,1178,1407,28,3278,2203,195,441,1,358,18,304,402,130,166,140,15,9,484,52,87,740,14,280,300,4,5,18,51,900,39,8,709,54,121,133,11,35
+Internet Exchange Point	762,2705,1081,67,1178,1407,28,3278,2203,195,441,1,358,18,304,402,130,166,140,15,9,484,52,87,740,14,280,300,4,5,18,51,900,39,8,709,54,121,133,11,35,708,39,95
 Internet Exchange Point ARCEP Autorité de Régulation	15592
 Internet Exchange Point Association of Lesotho	12743
 Internet Exchange Point Emerging Technologies	7548
@@ -311,6 +321,7 @@ Internet Exchange Point MENIC	17824
 Internet Exchange Point Network L LBA	16872
 Internet Exchange Point SLREN Sierra Leone	18454
 Internet Exchange Point ZAIN	14897
+Internet Exchange Point and Country Code Top	19633
 Internet Exchange Point du Cameroun	16214
 Internet Exchange Point du Cameroun. Infrastructure	16214
 Internet Exchange Point of Lesotho	12709
@@ -320,12 +331,14 @@ Internet Exchange Point. R1	14897
 Internet Exchange Points	1264,1467,823,324,1798,4,232,1,102,153,374,3253,362,1313,30,109,1295,216,175,17,2,756,398,90,166,155,493,139,633,798,920,229,542,203,62,727
 Internet Exchange Short Point	14897
 Internet Exchanges Points Accra-IX	10037
+Internet Points of Presence	19728
 Internet Society IXP Internet Exchange Point	15592
 Internet Xchange Point of Nigeria	18091
 Investment RPO Recovery Point Objective RTO	6432
 Ivoire Internet Exchange Point	16545
 JDC Focal Point	15810
 Jane Heather Loveday of North East Point	19049
+Jinja and Kamuli and Point FM-105.1	19641
 Juste NKENGURUTSE Louis Point Focal TIC	13341
 KENYA The Pharmacy and Poisons Board	9854
 KEY POINTS	6377
@@ -376,6 +389,7 @@ MMG. A Technical Focal Point	2889
 MOMO Focal Point	9699
 MORTALITY RATE FROM UNINTENTIONAL POISONING	16892
 MP Poids	15542
+MTN and Airtel Access Point Name	19715
 Machines and Point of Sale	19602
 Malawi Internet Exchange Point	12917
 Mamba Point	16943
@@ -508,7 +522,7 @@ Poikela	8606
 Poilão Fonseca	11962
 Poilão Marine National Park	11586
 Poinls	15429
-Point	736,3332,459,1699,206,1043,721,567,128,434,988,126,382,90,218,1513,119,143,45,271,71,10,74,15,86,6,92,267,345,250,287,141,33,126,329,112,10,5,14,43,19,88,242,23,139,218,217,63,7,41,22,230,62,53,46,50,32,37,75,34,98,36,120,26,76,234,3,5,14,2,8,26,181,59,82,18,69,138,28,447,69,177,465
+Point	736,3332,459,1699,206,1043,721,567,128,434,988,126,382,90,218,1513,119,143,45,271,71,10,74,15,86,6,92,267,345,250,287,141,33,126,329,112,10,5,14,43,19,88,242,23,139,218,217,63,7,41,22,230,62,53,46,50,32,37,75,34,98,36,120,26,76,234,3,5,14,2,8,26,181,59,82,18,69,138,28,447,69,177,465,18,171
 Point Application	21
 Point Azhar Malik UNDAF Outcome	12241
 Point B	17827
@@ -581,11 +595,13 @@ Point-of-sale	5513,6758
 Point-to	736
 Point-to Multipoint	736
 Point-to-	736
-Point-to-Point	736,10876
+Point-to-Multipoint	19745
+Point-to-Point	736,10876,8133
 Point-to-Point. Kwa	11612
 Point. Bojang	6226
 Point. Like	6226
 PointNoirTV	2545
+Pointage	19645
 Pointdeierminoison	15429
 Pointe	14479,295,56,17,548,98,607,174,182,258,1575
 Pointe Canon	14774
@@ -655,8 +671,9 @@ Pointe-noire	15848
 PointeNoire	15780
 Pointed	13387
 Pointing	34,9642,1419,6565
-Points	164,6795,696,1582,1263,211,165,376,683,108,85,99,168,642,57,196,1,84,6,87,1094,60,275,645,82,15,73,8,18,36,74,37,162,281,217,7,287,167,62,751,4,19,59,60,116,502,374,385,204
+Points	164,6795,696,1582,1263,211,165,376,683,108,85,99,168,642,57,196,1,84,6,87,1094,60,275,645,82,15,73,8,18,36,74,37,162,281,217,7,287,167,62,751,4,19,59,60,116,502,374,385,204,160,7
 Points Development Discoveries Education	9989
+Points During FY2024	19712
 Points Focaux	15383,2600
 Points Focaux Genre des Directions Départementales	15383
 Points Focaux Open Data Platform	16377
@@ -728,7 +745,7 @@ Raising of Point of Order	18436
 Rationale for Revision The Pharmacy and Poisons Board	9855
 Recommended Universal Contact Points	5676
 Recovery Point Objective	6432,30,4259,1231,586,2221
-Recovery Point Objectives	11995,1190
+Recovery Point Objectives	11995,1190,6616
 Recovery Time Objective and Recovery Point Objective	12967
 Recovery Time Objectives and Recovery Point Objectives	12967,1579
 Refuge Point	346
@@ -752,6 +769,7 @@ SUMMARY SCORING TABLE Section Max Points	13381
 Sacha Poignonnec	415
 Safaricom Bonga Points	7710
 Santé Point Prévalence Survey Protection	14622
+Schedule. SCHEDULE CURRENCY POINT. THE ACCESS	19628
 Schemes POS Point of Sale PPP Private	14997
 Score Poids	18077
 Sea Point	5744,3255
@@ -764,6 +782,7 @@ Selected Districts District No. of Service Points	13095
 Senior Statistician and Focal Point SADC Secretariat	12972
 Serrekunda Internet Exchange Point SIXP	16845
 Service Access Points	906
+Service Delivery Point SMS Short Message	19667
 Service Framework Service Point Application Service	21
 Service IXP Internet Exchange Point Kbps	16942
 Service Point Applications	21
@@ -810,6 +829,7 @@ Telecommunication Union IXP Internet Exchange Point	17862
 Telecommunications Union IXP Internet Exchange Point	1264
 Temperature Ice Point Reference	14736
 Terminal de Point de Vente	14483
+Thematic Focal Points	19847
 Tipping Point	1828,4584,7456
 Tipping Point BURUNDI EAC	13624
 Togo Internet Exchange Point	19342
@@ -847,8 +867,10 @@ West Point Township	16921
 Wide Expansion of Customer Touch Points	9117
 Wilaya Points	15885
 Wireless Access Point	11503
-Wireless Access Points	34,17300
+Wireless Access Points	34,17300,2305
+Wireless Access Points Methods	19639
 XVI. Points of Contact	18914
 Xchange Point	15372,2452
+Xchange Point Blog	19682
 Xchange PointIXPDigital	7200
 ZAMTEL Establish Internet Exchange Point	12453

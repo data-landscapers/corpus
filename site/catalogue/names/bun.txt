@@ -65,12 +65,14 @@ Bundeskartellamt	10090
 Bundesministerium	5948
 Bundesregierung	11316
 Bundesverband IT-Mittelstand	457
-Bundibugyo	6435,3734,4781
+Bundibugyo	6435,3734,4781,4765
+Bundibugyo Electricity Cooperative Society	19646
 Bundibugyo Virus Disease	9761,2879
 Bundle	718,4014,6527,304,1127,2128,312,341
 Bundle AI	5226
 Bundle Bonanza	11259
 Bundle MFDP	17260
+Bundle Minutes Out of Bundle Minutes	19728
 Bundle Mobile Internet Tariffs	15136
 Bundle Name MBs	718
 Bundle RWF	718
@@ -131,8 +133,11 @@ Bunknown	5700
 Bunl Description	15129
 Bunnage	17020
 Buntfu	12972
+Bunyangabu	19715
 Bunyaruguru County	12095
-Bunyoro	8285
+Bunyoro	8285,11354,2,74,13,13,57
+Bunyoro Kitara Kingdom	19743
+Bunyoro University	19778
 Burundi Bunia	13419
 C-Connect Integrated Bundles	11259
 C-Connect Prepaid Data Bundles	11259
@@ -189,6 +194,8 @@ Ernest Kounga Guemto. Pour Lorine Buna	3194
 Existing Bundles Protected	18513
 FNB Connect Data Bundle Promotion	11259
 Figure Bundling	582
+Fort Portal and Bundibugyo Digital Terrestrial Television	19660
+Freedom Minutes and Chillax Bundles. Spectrum	19728
 G 30 GB Monthly Bundle	718
 G 90 GB Monthly Bundle	718
 GB Data Bundle Price Trend	11259
@@ -294,4 +301,5 @@ Validity Period Hourly URL-specific Data Bundles	11259
 Vodacom Recurring Data Bundles	11259
 Vodacom URL Video Data Bundles	11259
 Vodacom WhatsApp Bundle	11259
+Voice Bundles Data Bundles	19728
 Zumar M.A. Bundhoo	14769

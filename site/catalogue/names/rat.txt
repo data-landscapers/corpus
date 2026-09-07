@@ -35,6 +35,7 @@ Acronyms ASFR Age-Specific Fertility Rate ABR	16950
 Adequacy Ratio CA Central Bank of Liberia	17235
 Adequacy Ratio CAR Minimum	15023
 Adjusted Headcount Ratio	15244
+Adolescent Birth Rate	19715
 Adolescent Birth Rate CBR Crude Birth	16950
 Adoption A2-Data Localisation Rates	7548
 Adoption Rate	4528,7984
@@ -48,12 +49,13 @@ Africa. Ratification	12302
 African Average Banking NPL Ratio	6938
 African Average Inflation Rate	6938
 African Credit Rating Agency	6338
+Age Dependency Ratio	19715
 Age Female Male Sex Ratio	12151
 Age Rating	15867
 Age Specific Death Rate AFDB	12639
-Age Specific Fertility Rate	12151,262,226,2417
+Age Specific Fertility Rate	12151,262,226,2417,4659
 Age Specific Fertility Rate ASDR	12639
-Age Specific Fertility Rates	12151
+Age Specific Fertility Rates	12151,7564
 Age Specific Marriage Rates	12413
 Age-Dependency Ratio	16921
 Age-Sex Ratio	16921
@@ -61,6 +63,7 @@ Age-Specific Fertility Rate	12413,2643
 Age-Specific Fertility Rates	12413,259,2384
 Age-Specific Mortality Rate	12413,2643
 Age-Specific Mortality Rates	12151,521
+Allocation and Absorption Rate	19712
 Alumno-Docente RAL Ratio Alumno-Libro de Texto SIME	16864
 Ambassador Tordeta Ratebaye Alexandre	17567
 Amnesty LeFevre Sara Chamberlain Rathi Mani-Kandt	11017
@@ -202,6 +205,8 @@ CPF and Rationale for Use	12176,5282
 CPF and Rationale for Use of Instrument Relationship	17458
 CPR Modern Contraceptive Prevalence Rate MAC	16950
 CR and ID Process and Procedures Rationalize CR	10765
+CRIME RATE	19772
+CRPD Ratified	19676
 CURRENCY EQUIVALENTS Exchange Rate Effective	10768,649,4098,468,966,1013
 CURRENCY EQUIVALENTS Exchange Rate Effective Mar	15659
 CURRENCY EQUIVALENTS Exchange Rate Effective Oct	11855
@@ -224,6 +229,7 @@ Category Service Type Proposed Wholesale Rate	17212
 Censored Headcount Ratio	15244
 Censored Headcount Ratios	15244
 Censored Headcount Ratios for Households	15244
+Census Year Average Annual Growth Rate	19715
 Central Bank Monetary Policy Rate	11976
 Central Bank Rate	2775,12248
 Central Bank of Liberia AVG SAVINGS RATE	17235
@@ -235,6 +241,7 @@ Change Rate	17236
 Chief Executive Officer Rationale This Article	8866
 Child Mortality Mortality Rates	18441
 Child Mortality Rate	12367,16,30,2643
+Childhood Mortality Rate	19715
 Childhood Mortality Rates	12151
 China Chengxin International Credit Rating Co	7785,4024
 China Rating Based	15713
@@ -246,6 +253,7 @@ Claims Ratios	17235
 Classroom Ratio PpCR	12175
 Click Through Rate. Backlinko. Available	13461
 Client LCR Liquidity Coverage Ratio LDC	14997
+Closure Rates	19801
 Collection and Remittance of Property Rates	19585
 College and Institution Food Ration	19565
 Combined Ratio	17235
@@ -255,6 +263,7 @@ Common Seal and Authentication of Documents Rationale	8866
 Commune de Ratoma	16619,11,11,51
 Commune de Ratoma-Conakry	7977
 Community Meetings Rationale	8866
+Comoros Inflation Rate	19826
 Companies Rationale	12376
 Complaint Resolution Rate	5676
 Completeness Rate	12367
@@ -271,6 +280,8 @@ Confidential Asset Standard Comment Rationale Data	9124
 Confidential Asset Standard Comment Rationale Framework	9124
 Consumer Protection RATING SYSTEMATIC STAGE	12214
 Context and Rationale The Extractive Industries Transparency	18439
+Contextualization and Rationale	19642
+Contextualization and Rationale For Uganda	19642
 Convective Rainfall Rate	15907
 Conversion Rates Overall	10954
 Conviction Rate	17139
@@ -295,10 +306,10 @@ Credit Market Rates	14997
 Credit Rating	17260
 Crime Rate	12953
 Crisis Level Humanitarian Response Migration Rate	17157
-Crude Birth Rate	12151,216,16,30,58,201,2384
+Crude Birth Rate	12151,216,16,30,58,201,2384,4659
 Crude Birth Rate CDR Crude Death	15056
 Crude Death Rate	12151,232,30,259,2384
-Crude Death Rates	12639
+Crude Death Rates	12639,7076
 Crude Marriage Rate	12367,272
 Crude Marriage Rate CNR	12639
 Créances Rattachées	15999
@@ -312,6 +323,7 @@ Current Satisfactory Overall Risk Rating	15737
 Current Total Fertility Rate	12963
 Current Year Ratio Capital	11134
 Currently Contraceptive Prevalence Rate	18441
+Customer Ratio Agents	19728
 Cybersecurity RATING SYSTEMATIC STAGE The National	12214
 Câmara Municipal Ratificando	16290
 D. Cost Efficiency and Sustainability Rationale	18531
@@ -362,7 +374,7 @@ Default Rates	10718
 Definition and Interpretation Rationale This Article	8866
 Deforestation Rates. World Development	13624
 Department of Rates and Evaluation	11129
-Dependency Ratio	2775,14146
+Dependency Ratio	2775,14146,2794
 Dependency Ratio Dependency	16921
 Description Rate Imported	18450
 Description Rationnel Portail	19221
@@ -399,7 +411,7 @@ Dropout Rates	12411,988
 Dynamic Infrared Rain Rate	12957
 E. Rate Limiting	15161
 E. Rationale for Additional Financing	15983,2826
-E. Rationale for Bank Involvement and Role of Partners	969,898,8901,196,416,475,1476,1606,2012,1155,673
+E. Rationale for Bank Involvement and Role of Partners	969,898,8901,196,416,475,1476,1606,2012,1155,673,1070
 E. Rationale for World Bank	11549
 E. Rationale for World Bank Involvement	14910
 E. Rationale for World Bank Involvement and Role	1264,9565,731,1772,2159,24,3,35,68,37,1,2,2632,8,938
@@ -457,7 +469,7 @@ Element Weights ROSC Rating Data Accessibility	14777
 Element Weights ROSC Rating Source Data	14777
 Emerging B1-Compliance Rate-Critical	7548
 Emerging Technologies Bill. Rather	4583
-Employment-to-Population Ratio	13399
+Employment-to-Population Ratio	13399,6316
 Empowerment GER Gross Enrolment Rate GIA	18512
 End-of-Period Exchange Rate	17235
 English Age Rating	15867
@@ -481,8 +493,8 @@ Exchange Rate	3583,2825,6652,3906,269,1471
 Exchange Rate Development	17104
 Exchange Rate Developments	17235
 Exchange Rate Developments Following	12962
-Exchange Rate Effective	969,295,20,583,1022,673,42,2935,4290,135,416,88,57,24,11,345,19,41,211,1155,1,402,8,1,93,25,1076,39,162,52,182,39,13,67,20,7,35,68,37,3,2,39,29,12,39,362,240,14,38,178,282,26,30,489,408,13,242,94,95,8,324,129,11,12,32,16,26,36,358,39,171
-Exchange Rate Effective Dec	16032
+Exchange Rate Effective	969,295,20,583,1022,673,42,2935,4290,135,416,88,57,24,11,345,19,41,211,1155,1,402,8,1,93,25,1076,39,162,52,182,39,13,67,20,7,35,68,37,3,2,39,29,12,39,362,240,14,38,178,282,26,30,489,408,13,242,94,95,8,324,129,11,12,32,16,26,36,358,39,171,188,192
+Exchange Rate Effective Dec	16032,3815
 Exchange Rate Effective Feb	19239
 Exchange Rate Effective Oct	17458
 Exchange Rate Mechanism	17235
@@ -502,6 +514,7 @@ Exportation Duty Rates Exportation Of Goods	12454
 Extended Unemployment Rate	12600
 F. Overall Risk Rating	18359
 F. Overall Risk Rating The World	18359
+F. Rationale for Bank Involvement and Role of Partners	19835
 F. STATUS OF RATIFICATION AND IMPLEMENTATION	18455
 FCC Rates Department	18448
 FCL. Real Policy Interest Rate1	17503
@@ -520,12 +533,14 @@ False Positive Rate	18724
 False Rejection Rate	10812
 Federal Democratic Republic of Ethiopia Ratifies	14001
 Female Beneficiaries Ratio	15578
-Fertility Rate	12151,232,30,242,17,2384,4043
+Fertility Number of Persons Rate Total Fertility	19715
+Fertility Rate	12151,232,30,242,17,2384,4043,616
 Fertility Rate ASMR Age-Specific Mortality Rate	12413
 Fertility Rate NRR Net Reproduction Rate	16950
 Fertility Rate Poorest	18441
 Fertility Rate Rural National Urban	19544
 Fertility Rate TJ Tera Joules	2775
+Fertility Rates	19715
 Financial Inclusion Rate	18770
 Financial Inclusion and Lending Interest Rate	7763
 Financial Inclusion and Savings Deposit Rate	7763
@@ -600,6 +615,7 @@ Gross Enrollment Ratio	13314,3122
 Gross Enrollment Ratio Central African	13314
 Gross Enrolment Rate	12175,24,2717,1936,1608
 Gross Enrolment Rate GESD	12175
+Gross Enrolment Rates	19727
 Gross Enrolment Rates for ECD	12175
 Gross Enrolment Ratio	13991,756,857,2856,1082
 Gross Enrolment Ratio GoSE Government	13960
@@ -683,6 +699,7 @@ Implementation Rationale Bank	10779
 Implementation Status and Result Reporting Ratings	13054
 Import Dependency and Self-Sufficiency Ratios	2775
 Importance of Digital Platforms Socioeconomic Rationale	16876
+In-Migration Rate	19715
 In-bundle Data Rates	11259
 In-bundle Data Rates Monthly	11259
 In-bundle Data Rates. Table	11259
@@ -705,10 +722,11 @@ Indicator Capital Adequacy Liquidity Ratio Credit	11134
 Indicator IRR Internal Rate of Return ISEC	18765
 Indicator Level Status Rationale	19284
 Industry Ratios	17235
-Infant Mortality Rate	12367,16,30,226,760,1657
+Infant Mortality Rate	12367,16,30,226,760,1657,4659
 Infant Mortality Rate ASFR	12639
 Infant Mortality Rate IOM	16951
 Infant Mortality Rate and Neonatal	12138
+Infant Mortality Rates	19715
 Infant Mortality Ratio	19544
 Inflation Rate Trends	13053
 Inflation Rate USD	19532
@@ -801,7 +819,7 @@ LGAs Rationale	17285
 LNMR Late Neonatal Mortality Rate MAS2	12413,2643
 LOWEST RATES OF ELECTRIFICATION	11572
 La Ratio Alumno-Docente	16920
-Labour Force Participation Rate	12600,799
+Labour Force Participation Rate	12600,799,6316
 Lack of Completion Rate Analysis	14546
 Last Approved Rating	11965,23,1932,1060,51,128,578,2396,849,499
 Last Approved Rating ISR Seq	6579,349,949,3518,1632,2708,278,987,96,374,35,501,344,4,1,437,25,425,7
@@ -828,13 +846,18 @@ Liquidity Ratio	17235
 Liquidity Ratio U-SACCO	14997
 Liquidity Ratio for MFIs	15023
 Liquidity Ratios	17236
-Literacy Rate	12395,36,2466,4635,10
+Literacy Rate	12395,36,2466,4635,10,173
+Literacy Rate for Population	19715
 Literacy Rate for School Age Population	19542
+Literacy Rate of Adolescents	19715
 Literacy Rate of Population Aged	19542
+Literacy Rate of Youth and Adolescents	19715
+Literacy Rates	19715
 Literacy Rates for Persons Aged	19542
 Literacy Rates for Population Aged Five Years	19542
 Literacy Rates for Rural Population Aged	19542
 Literacy Rates for Urban Population Aged	19542
+Literacy Rates of Older	19715
 Low Learning Rate	11953
 Low Rate	12256
 Low Rationale	12376
@@ -874,10 +897,10 @@ Malabo Ratification and Implementation	17745
 Mandatory Loan Allocation Ratios	19585
 Mansakonko Rationale	17285
 Marked for Deletion Rationale	1228
-Marrakesh Treaty Ratification	11935
+Marrakesh Treaty Ratification	11935,7741
 Maternal Mortality Rate	4167,6613
 Maternal Mortality Rate MoBSE	16951
-Maternal Mortality Ratio	4349,8257,793,3552,20,1191
+Maternal Mortality Ratio	4349,8257,793,3552,20,1191,1553
 Maternal Mortality Ratio MMR	16971
 Mathematics STR Student-Teacher Ratio T&L Training	15604
 Mauritania I. RATIFICATION OF UNESCO CONVENTIONS	17970
@@ -901,11 +924,13 @@ Ministry of Ratified Q4	1777
 Ministry’s Capital Programme Implementation Rates	12962
 Mitigation Measure Project Stakeholder Risks Rating	15372
 Mme. Ratiba Bouhaouya	15930
+Mobile Agent Count and Agent Customer Ratios	19728
 Mobile Data Penetration Rate	2776
 Mobile Data Subscriptions and Penetration Rate	2776
 Mobile Data Subscriptions and Penetration Rate Subscription	2776
 Mobile Subscription Penetration Rate	2776
-Mobile Termination Rate	8288,10156
+Mobile Termination Rate	8288,10156,1284
+Mobile Termination Rate Trends	19728
 Mobile Termination Rates	8753,4591
 Mobile Termination Rates Innovation	6946
 Mobile Voice Subscription and Penetration Rate	2776
@@ -932,10 +957,13 @@ Month Treasury Bill Rate Figure	1828
 Monthly Bed Occupancy Rates	2775
 Monthly Rate Working Months Total Cost	13031
 Monthly Room Occupancy Rates	2775
+Months and Crude Birth Rate	19715
 Moody's Investors Service and Fitch Ratings Ltd	19602
 Moody's Ratings	13568,58
 Moody’s Ratings	13123
+Mortality Infant Mortality Rate	19715
 Mortality Rate	4167,35,15,43,1092,5428
+Mortality Rates	19715
 NATIONAL ROAMING WHOLESALE RATES	17212
 NBR Central Bank Rate	15023
 NBR Normalized Burn Ratio	17140
@@ -967,7 +995,7 @@ Negotiated Rates	10157
 Neonatal Mortality Rate	4349,8018,46,2643,4488
 Net Attendance Rate	12413
 Net Enrollment Rate	12411
-Net Enrollment Rates	12411
+Net Enrollment Rates	12411,7424
 Net Enrollment Ratio	16436
 Net Enrolment Rate	12175,24,4653,2690
 Net Enrolment Rate OCGS Office	19542
@@ -1020,7 +1048,7 @@ OECD Unemployment Rate	2775
 OS.4. Rationaliser	18121
 OSp.4.1.1. Rationaliser	15722
 OVERALL EFFICACY Rationale Objective	16960
-OVERALL RATINGS	13859,51,6,1,1114,4052
+OVERALL RATINGS	13859,51,6,1,1114,4052,746
 OVERALL RATINGS Name	11988,1932,136,924,179,3823,499
 OVERALL RATINGS Name Current Progress	4688
 OVERALL RATINGS Name Previous Current Progress	2712,3867,349,949,2993,525,1632,2708,278,692,295,96,374,35,399,102,127,217,4,1,179,258,25,425,7
@@ -1033,6 +1061,7 @@ Offence Rate	14760
 Offence Rate Jul	14760
 Official Use Only C. Rationale	19284
 Official Use Only Risk Category Rating	11469
+Old-age Dependence Ratio Child Dependence Ratio	19715
 Ongoing Not Started Not Rated Activation	17139
 Ongoing Not Started Not Rated Transparency	17139
 Only Environmental Risk Rating Social Risk	19284
@@ -1043,6 +1072,7 @@ Operator Response Rate Cairo	11642
 Operator Response Rate NTRA Receives	11642
 Orange Digital Center de Ratoma	16726
 Organiser Time Location Attendance RATING SCALE	17099
+Out-Migration Rate	19715
 Out-of-Bundle Rates	12395
 Outcome Rating	15424,3341
 Outcome Rating Moderately Satisfactory	16960
@@ -1125,9 +1155,11 @@ Policy. Rationale	14664
 Political and Rating Description	11469
 Population And Sex Ratio By County	16921
 Population Growth Rate	16921
+Population Intercensal Growth Rates	19715
 Population Penetration Rate	2776
-Population Ratio	12600
+Population Ratio	12600,7115
 Population Sex Ratio Male Female Male	16921
+Population Size and Growth Rate	19715
 Population and Net Enrolment Rates	19542
 Population and Sex Ratio	16921
 Poverty Rate	10985,6172
@@ -1143,6 +1175,7 @@ Pre-Primary Net Enrolment Rate	19542
 Pre-Primary and Net Enrolment Rate	19542
 Precipitation Rate	14256
 Pregnancy Outcomes and Induced Abortion Rates	13454,1793
+Pregnancy Related Maternal Mortality Rate	19715
 Premium Rate Numbers	6946,9988
 Premium Rate Services	16934
 Prescribed Rate of Interest Act	3714
@@ -1333,6 +1366,7 @@ Rate Your Experience	14797
 Rate of Achievement	16436
 Rate of Agreement	12383
 Rate of Corporate Tax	14828,3
+Rate of Return	19677
 Rate of Return E-PAMP E-governance and Public Administration	11863
 Rate of Return ESCP Environmental and Social	11549
 Rate of Return IDA International Development Association	11924
@@ -1352,7 +1386,7 @@ Rated E-Procurement Pilot	17139
 Rated Limited Data Reporting	17139
 Rated Renewable Energy	17139
 Rateio	15380,152
-Rates	4896,137,4404,1560,262,933,60,77,507,195,22,70,24,791,3073,247,1302,1025
+Rates	4896,137,4404,1560,262,933,60,77,507,195,22,70,24,791,3073,247,1302,1025,238
 Rates About US Our Board	9750,247
 Rates Adolescent Birth Rate	18441
 Rates Facebook Twitter YouTube Instagram Close	19572,17
@@ -1364,13 +1398,13 @@ Rates and Fees	17243
 Rates and Valuation Office	11129
 Rates and Valuation Officer	11129
 Rates. Respondents	17212
-Rather	10,418,533,75,1,124,827,129,337,248,304,301,163,37,76,12,531,1,132,188,116,39,23,75,32,19,221,25,47,128,70,40,4,16,161,237,73,5,21,1,3,66,23,22,61,177,125,67,37,5,1,31,49,24,7,14,32,15,3,31,10,245,3,96,1,23,25,1,1,68,5,71,9,21,3,3,31,11,33,28,33,23,2,28,15,24,14,45,3,105,5,40,71,57,5,2,23,13,1,63,16,7,31,1,13,18,13,14,15,2,1,17,22,51,4,17,12,4,10,13,2,127,12,8,8,10,10,69,13,33,1,23,8,2,4,119,22,4,15,18,75,47,17,8,34,19,15,9,5,1,43,63,5,4,20,23,2,15,66,36,20,20,33,87,55,97,34,16,82,23,50,15,25,33,2,18,4,5,7,65,31,6,3,24,91,38,29,36,40,50,5,59,54,4,65,44,4,66,48,62,42,51,34,19,53,21,22,113,9,1,19,23,30,14,51,18,19,11,20,52,51,20,21,40,3,135,72,33,12,12,3,35,72,37,155,2,66,16,46,38,20,122,2,63,31,1,27,3,1,72,252,48,216,92,120,44,24,52,30,211,86,17,37,20,458,21,405,1,140,113,78,25,67,175,15,17,7,3,14,122,131,537,134,278,166,110,81,30,3,5,5,62,112,120,33,108,110,38,152,14,51,23,65,25,1,3,29,3,16,312,347,29,82,197,11,790
+Rather	10,418,533,75,1,124,827,129,337,248,304,301,163,37,76,12,531,1,132,188,116,39,23,75,32,19,221,25,47,128,70,40,4,16,161,237,73,5,21,1,3,66,23,22,61,177,125,67,37,5,1,31,49,24,7,14,32,15,3,31,10,245,3,96,1,23,25,1,1,68,5,71,9,21,3,3,31,11,33,28,33,23,2,28,15,24,14,45,3,105,5,40,71,57,5,2,23,13,1,63,16,7,31,1,13,18,13,14,15,2,1,17,22,51,4,17,12,4,10,13,2,127,12,8,8,10,10,69,13,33,1,23,8,2,4,119,22,4,15,18,75,47,17,8,34,19,15,9,5,1,43,63,5,4,20,23,2,15,66,36,20,20,33,87,55,97,34,16,82,23,50,15,25,33,2,18,4,5,7,65,31,6,3,24,91,38,29,36,40,50,5,59,54,4,65,44,4,66,48,62,42,51,34,19,53,21,22,113,9,1,19,23,30,14,51,18,19,11,20,52,51,20,21,40,3,135,72,33,12,12,3,35,72,37,155,2,66,16,46,38,20,122,2,63,31,1,27,3,1,72,252,48,216,92,120,44,24,52,30,211,86,17,37,20,458,21,405,1,140,113,78,25,67,175,15,17,7,3,14,122,131,537,134,278,166,110,81,30,3,5,5,62,112,120,33,108,110,38,152,14,51,23,65,25,1,3,29,3,16,312,347,29,82,197,11,790,99,74,67,23
 Rathoar Parsand	14797
 Rathäuser	1533,687
 Ratifi	15380
 Ratificación	17089
 Ratificar	4146,14605
-Ratification	240,2385,2900,3278,4508,12,3,4,4,53,571,115,65,595,9,9,487,730,207,539,170,861,97,59,33,36,321,639
+Ratification	240,2385,2900,3278,4508,12,3,4,4,53,571,115,65,595,9,9,487,730,207,539,170,861,97,59,33,36,321,639,711
 Ratification Report	14671
 Ratification Status for Guinea-Bissau	11765
 Ratification and Signatories	11935
@@ -1397,7 +1431,7 @@ Ratifying	16847,898
 Ratifying the AU	16884
 Ratifying the Convention	7102
 Ratifying the Malabo	969
-Rating	5247,1332,342,7,949,2993,261,3,721,39,30,47,17,240,39,173,120,467,31,862,212,741,107,51,128,265,239,72,2,21,201,24,30,66,821,94,6,79,17,3,161,210,35,344,109,4,44,127,217,4,1,118,336,8,165,260,7,35,197,104
+Rating	5247,1332,342,7,949,2993,261,3,721,39,30,47,17,240,39,173,120,467,31,862,212,741,107,51,128,265,239,72,2,21,201,24,30,66,821,94,6,79,17,3,161,210,35,344,109,4,44,127,217,4,1,118,336,8,165,260,7,35,197,104,69,14
 Rating Act.16	12369
 Rating Class EGDI Rank LOSI Rank	10840
 Rating Criteria	19584
@@ -1442,7 +1476,7 @@ Ratings Ratings ICR IEG Reason for Disagreements	14888,2072
 Ratings Ratings Outcome Bank Performance Relevance	10779
 Ratings Summary Outcome	14948
 Ratings of Project Performance	16614
-Ratio	643,1699,624,430,1063,69,6184,135,11,275,1,1255,111,12,788,1685,164,326,43,35,46,64,61,177,98,33,609,223,34,64,165,697,121,118,40,2,6,32,27,1056
+Ratio	643,1699,624,430,1063,69,6184,135,11,275,1,1255,111,12,788,1685,164,326,43,35,46,64,61,177,98,33,609,223,34,64,165,697,121,118,40,2,6,32,27,1056,597,3
 Ratio Alumno Aula	16920
 Ratio Alumno-Aula	16864,56
 Ratio Alumno-Aula de Clase	16920
@@ -1473,7 +1507,7 @@ Ration Cards	15663
 Rationa7l.4isinRgaOtionn-aPlriseimngisOe	10157
 Rational for Strategic Planning	12759
 Rational for Strategic Planning The Authority's Strategic	12759
-Rationale	1228,1205,40,306,2117,349,1187,400,716,1055,2160,16,50,436,595,6,39,2,303,30,136,68,90,5,135,247,425,1,2,46,473,573,223,97,29,22,64,39,7,141,861,960,38,38,51,94,44,136,156,1034,54,358,623,3,18,2,24,17,1,1
+Rationale	1228,1205,40,306,2117,349,1187,400,716,1055,2160,16,50,436,595,6,39,2,303,30,136,68,90,5,135,247,425,1,2,46,473,573,223,97,29,22,64,39,7,141,861,960,38,38,51,94,44,136,156,1034,54,358,623,3,18,2,24,17,1,1,71
 Rationale Behind the New Requirements Portrait	13477
 Rationale Improving	10779
 Rationale NSDP II	12674
@@ -1518,6 +1552,7 @@ Rationale for Revision Better	15601
 Rationale for Revision Targeting	15601
 Rationale for Revision The Pharmacy and Poisons Board	9855
 Rationale for Selection of Priority Sectors and Labor Market	17458
+Rationale for Teaching Subsidiary ICT	19690
 Rationale for The Gambia Government	16924
 Rationale for The Gambia Government Cloud Policy	16924
 Rationale for Using the MPA	3604
@@ -1530,13 +1565,14 @@ Rationalisation and Management of Water	15604
 Rationalisation de Non Oui Journal	18291
 Rationalisation du Système Statistique National	18291
 Rationalisation of Agencies and Public Expenditure	2757
+Rationalisation of Government Agencies	19646
 Rationalise	15164
 Rationaliser	1828,7063,4577,2254,16,261,329,1655,308
 Rationalising On-Premise Infrastructure	10157
 Rationalising the Annual Allowance for Hotels	14828,3
 Rationalité	17828
 Rationalité Information	17842
-Rationalization	11916
+Rationalization	11916,7931
 Rationalize	17139
 Rationalize CR and ID	10775
 Rationalized	16858
@@ -1578,6 +1614,7 @@ Registry. Rationale	14664
 Regulations NO. SERVICE PROPOSED RATES	19602
 Related Charges Rate	17011
 Relative Citation Ratio	2518
+Released Absorption Rate Released Absorption Rate	19712
 Relevance of Objectives Rationale	16960
 Relevance of Objectives Rationale Country	14888
 Relevance of Prior Actions Rationale DPF1	10779
@@ -1640,7 +1677,7 @@ Rural Electrification Rate Number	11923
 Rural Urbana Rural Ratio Alumno-Aula	16920
 Rwandans. Rather	12328
 S S Unemployment Rate	17503
-S&P Global Ratings	5202,2583,4024,3064,2916
+S&P Global Ratings	5202,2583,4024,3064,2916,1888
 S&P Global Ratings Confirms Rwanda's Credit	14873
 S&P Global Ratings Nigeria	17789
 SARB POLICY RATE CPI PPI PRIME	8571
@@ -1696,9 +1733,10 @@ Selected Real Principal Interest Rates	2775
 Self-Sufficiency Ratio	2775
 Senate Over Exchange Rate	10
 Sep-2022. RATINGS	13722
+Service Availability Rate	19651
 Services Rattachés	15371
 Servicio RAC Ratio Alumno-Aula	16920
-Sex Ratio	958,8527,2666,4770
+Sex Ratio	958,8527,2666,4770,2794
 Sex Ratios	12151
 Sex Ratios for Registered Deaths	12151
 Short Message Service Rates	16992
@@ -1831,19 +1869,20 @@ UAM. OS4 Rationaliser	18121
 UN IGME. Total Under-5 Mortality Rate	12138
 UN Operational Rate of Exchange	15471
 UNDER-FIVE MORTALITY RATE	16892
+UPPC Rate Card	19641
 US Dollar Exchange Rate Variability	17235
 US Dollars. Rather	9878,1431
 USSD Code Application for Premium Rate Number	17250
 Unannualised Cumulative Compounded Daily Rate	16219
 Uncensored Headcount Ratio	15244
 Uncensored Headcount Ratios	15244
-Under-5 Mortality Rate	18162
+Under-5 Mortality Rate	18162,1553
 Under-5 Mortality Rates	18441
 Under-Five Mortality Rate	12639
-Under-five Mortality Rate	12383
+Under-five Mortality Rate	12383,7332
 Underemployment Rate	17503
 Understanding MTR Mobile Termination Rate NEMA	6946
-Unemployment Rate	12600,799
+Unemployment Rate	12600,799,6316
 Unemployment Rate 46 TABLES	17503
 Unit Taxable Base Rate of Excise Duty	14843
 United States. Rather	6231
@@ -1878,8 +1917,9 @@ Year Unemployment Rate	14815
 Year and Net Enrolment Rate	19542
 Years and Net Enrolment Rate	19542
 Yes. Rate	12533
+Youth Labour Force Participation Rate	19715
 Youth Literacy Rate	19542
-Youth Unemployment Rate	12600
+Youth Unemployment Rate	12600,7115
 ZCHPC Utilization Rate	4528,7984
 Zambia Chamber of Commerce and Industry Rationale	12376
 Zambia Rationale	12376

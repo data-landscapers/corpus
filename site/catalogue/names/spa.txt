@@ -11,7 +11,7 @@ AI and Space Technology Regulation	14974
 AI-powered Spam Alert Service	9899
 AIRCRAFT AND SPACE VEHICLE	16900
 ART Annual Filled SPAR	19544
-AST SpaceMobile	7303,3494
+AST SpaceMobile	7303,3494,8931
 AST SpaceMobile’s Bluewalker	16811
 AU PROFIT DE LA SOCIETE SPA	15885
 AU-EU Space Partnership Programme	11283
@@ -41,7 +41,7 @@ Agence Spatiale Algérienne	15555
 Agence Spatiale Européenne	16026,1905
 Agence Spatiale de Côte	12243
 Agency NSDI National Spatial Data Infrastructure	12907
-Airbus Defence and Space	2242,3163,16,17,735
+Airbus Defence and Space	2242,3163,16,17,735,13600
 Airbus Defence and Space President Alain Fauré	5438
 Airtel AI Spam Alert Service. Airtel	2558
 Airtel Africa Partners SpaceX	14674
@@ -108,7 +108,7 @@ Citizen Generated Data and Spatial Data	19519
 Civic Space	12987
 Civic Space Monitor	9022
 Civic Space Open	12336
-Civil Society Space	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
+Civil Society Space	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
 Close SpaceX	6467
 Closing Civic Space	1250
 Co-Working Spaces	14024
@@ -162,9 +162,11 @@ EU-AU Space Partnership Programme	9561
 EU-Guinea-Bissau Fisheries Agreement. Spain	11536
 Earth National Space Secretariat	1131
 Earth from Space Desert cropland These Copernicus Sentinel-2	16472
+East African Regional Space Strategy	19641
 Economic Space Fourth	14829
 Economic Space Setting	14829
 Economy and Space	4676
+Egyptian Space Agency	19773
 Egypt’s Spatial and Land	15473
 Electricity Control Board Spark Newsletter	12399
 Elon Musk's SpaceX	1676,310,1067,164,148,48,2020,765,1058,8074
@@ -250,7 +252,7 @@ Institute SANSA South African National Space	5246
 Institutions Libyan Center for Remote Sensing and Space	17157
 Integration of Spatial Plans The Ministry	15845
 International Institute of Space Law	8436
-International Space Station	1131,13611,3607
+International Space Station	1131,13611,3607,1424
 International Space Summit Africa	10536
 Intervention Policy Space	12978
 Intervention Policy Space Like	12978
@@ -269,7 +271,7 @@ KZN Spaza Shop Roundtable	8458
 Kaz’o’zah Spark	13358
 Kenya ABOUT US The Kenya Space	1131
 Kenya Space	1131
-Kenya Space Agency	1131,3749
+Kenya Space Agency	1131,3749,14893
 Kenya Space Agency Board	14563
 Kenya Space Agency Order	1131
 Kenya Space Policy Establish	1131
@@ -342,6 +344,7 @@ National Aeronautics and Space Administration	11342,7738
 National Aeronautics and Space Administration NCCD National	17157
 National Agency for Spatial Planning ANSD	18309
 National Cyber Space Landscape	6671
+National ICT Infrastructure Spatial Data Store	19709
 National ID Card Suspension Sparks Senate	17207
 National Interagency Spatial Planning Platform	12137
 National Space	1131
@@ -438,6 +441,7 @@ Portugal and Spain	11536,6326
 Portuguese Space Agency	6628
 Portuguese and Spanish	15641
 Post Hessequa Spatial Development Framework	11251
+Post and Broadcast Multimedia Space	19728
 Postbank Spatial Coverage Analysis Western Cape	8999
 Power and Duties of Space Science and Geospatial Institute	13986
 Prepare and Implement Spatial Plans	18476
@@ -493,6 +497,7 @@ SPA II	16861
 SPA OXXO Algérie	15885
 SPA Révision IOMP CETIC P NA	16103
 SPA-II	16861
+SPA-SO Gen. Muhoozi Kainerugaba	19772
 SPAAT	8471
 SPACE	11916,1617
 SPACE APPLICATIONS TOWARDS ACHIEVEMENT OF BETA	1131
@@ -579,6 +584,7 @@ Southern Africa Development Community SDI Spatial	12907
 Spa Hotel	12649
 Spaau	16857
 Space	11,707,413,604,262,99,817,63,421,729,106,648,10,191,363,546,95,161,221,118,164,35,92,769,117,369,144,512,280,56,693,978,185,946,205,740,101,75,55,284,601,91,701,475,158,1061,565,742,545,874
+Space Added Value SmartCane	19720
 Space Agencies	17405
 Space Agency of Côte	12133
 Space Bus	18324
@@ -631,6 +637,9 @@ Space for Data Innovation Keeping	19555
 Space for Early Warning	11291,3231
 Space for IDA Interactive Impact Evaluation Impact	17405
 Space-Based Data URL	15589
+Space-IoT Box	19808
+Space-IoT Box. Located	19808
+Space-IoT Solution Box for Climate-Smart Agriculture	19808
 Space-based	5245,9277
 Space-related	1131
 Space. Essential	11291
@@ -644,6 +653,7 @@ SpaceX	1585,63,28,19,117,3,2,34,21,15,42,46,1,3,1,6,11,283,89,75,94,15,1,2,13,18
 SpaceX CEO	4912,586
 SpaceX CEO Elon Musk	1980
 SpaceX Complete Starlink Mobile Testing	5562
+SpaceX Falcon	19773
 SpaceX Starlink	15166
 SpaceX Urges South Africa's ICASA	10589
 SpaceX Written Representations	6891
@@ -739,6 +749,7 @@ Spanning Over A Century Of Nigerian	11654
 Spar Cape Town Station Spar Wilck	8999
 Spar Mopani Rural Hub	12972
 Spar Rural Hub Programme	12972
+Spar Supermarket	19654
 Spar The Bank’s Card Replacement Sites	8999
 Sparc	6032
 Sparc CRM	6511
@@ -757,14 +768,14 @@ Spark Programme	376
 Spark-plugs	15027
 Sparkle	3342,4950,2086,3461,44
 Sparkle Haskoning ABB AFR-IX Mercury Engineering	10861
-Sparkling	1695,5226
+Sparkling	1695,5226,12828
 Sparse	3859,8050,3220,1867
 Sparse Vegetation Drought	17157
 Spartanforever1	12478
 Sparx Enterprise Architect	9124
 Spate	17043
 Spate Equipped Wetland	17043
-Spatial	7886,3350,39,711,347,574,343,1190,1153,122,644,557,80,47,217,610,606,428,47,503
+Spatial	7886,3350,39,711,347,574,343,1190,1153,122,644,557,80,47,217,610,606,428,47,503,200
 Spatial Action Areas NSDF National Spatial	11261
 Spatial Coverage Update Frequency License Access	15714
 Spatial Data	4653,12180,2071
@@ -790,6 +801,7 @@ Spatial Information Section SOA.24. Source of Funding	16833
 Spatial Insights	14090
 Spatial Integration and Housing Reform	11236
 Spatial Perspective of Innovation and Development	226
+Spatial Planner and GIS Analyst	19709
 Spatial Planning	4482,8,7451,1533,1999,3003
 Spatial Planning and Human Settlement	1513
 Spatial Planning and Land Use Management	11261
@@ -849,10 +861,11 @@ UNDP Accelerator UNIDO Green Space Mashrouy	14897
 UNESCO-led TECH SPARK Africa	13469
 UNNECESSARY SPACES	14670
 USAID Open Spaces	12356
+Uganda National Space Programme. ClimCam	19773
 Une Feuille de Route Spatiale	19002
 Union Portugal Brazil Spain Italy CORE	11586
 Union SDIA Spatial Data Infrastructure Act	11196
-United Nations Office for Outer Space Affairs	7760,3484,7937
+United Nations Office for Outer Space Affairs	7760,3484,7937,592
 United States Embassy and SpaceX	5328
 University of Botswana Enters VR Space	5852
 Unlock Fiscal Space Paper22nd	7648
@@ -870,6 +883,7 @@ Wataniya Télécom Algérie Spa	15885
 White Spaces	11857
 Women and Girls Safe Spaces	9766
 X Space	8712
+X Spaces	19660
 Zambia Launches National Spatial Data Infrastructure	13645
 Zambia National Spatial Data Infrastructure	7130,6512,3
 Zealand and Spain	14726

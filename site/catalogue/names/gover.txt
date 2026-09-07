@@ -11,6 +11,7 @@ AACB Assembly of Governors	5229,6863
 AACB Assembly of Governors AACB Bureau AACB	6938
 AACB Chairperson and Governor of BEAC	4103
 AAID’s Governance	16985
+ABBs of Governance	19638
 ACBF Economic and Social Governance	16815
 ACCESS GOVERNMENT INFORMATION OR SERVICES	10977
 ACCESS TO GOVERNMENT SERVICES BY MAFUFIKILE	13223
@@ -214,6 +215,7 @@ Africa. The Government	395,3209,9319
 Africa. The Government of Cape Verde	11869
 Africa. The Government of Ghana	4126
 Africa. The Government of Rwanda	4167
+Africa. The Government of Uganda	19705
 African AI Governance Index	6937
 African Centre for Governance	12201
 African Countries Draft Report. Multistakeholder Governance	11006
@@ -242,6 +244,7 @@ African Union The Government	18437
 African-managed AI Governance Capacity Fund	6189
 Afrique Centrale G2B Government	11944
 Ag. Secretary for Digital Government and Data Governance	11299
+Agencies and Local Governments MDA Ministries	19647
 Agencies of Government Interoperability	16924
 Agency GoTG Government of The Gambia HVIA	16923
 Agency of Government	11976,4971
@@ -261,7 +264,7 @@ Akwa Ibom State Government	7664,2565
 Algeria Sets One-Month Deadline for Government Data	6678,209,414,15,8
 Algorithmic Governance and Digital Infrastructures Research	7966
 Ali Statistician General Chief Government Statistician	19554
-All Government	12529,2329,63
+All Government	12529,2329,63,4721
 All Government Cloud CSPs	16924
 All Government Information	11940
 All Government Line Ministries	4528
@@ -302,10 +305,12 @@ Anticipated Beneficiaries The Government	16885
 Anticipated Government	16884
 Ao Governo	11376
 Aos Governos	11376
+Application for Government	19702
 Applied AI for Governance	18446
 Applied Data Science for Governance	18446
 Applied Data Science for Governance Civic	18446
 Apply for Government of Rwanda Page	9124
+Appointed Board of Governors	19783
 Approach Governance Office	11131
 Approved Government Assisted and Non-Government Assisted	18460
 Approved Government Cloud Service Providers	6432
@@ -326,7 +331,7 @@ Assembly of Heads of State and Government	5202,532,8404,1503
 Asserted Governance	10570
 Assessing the Impact of Digital Government	226
 Assessment of Land Governance	15473
-Assist Government	16926
+Assist Government	16926,2738
 Assistance Government	16902
 Assistant Governor	11131,3
 Assistant Minister for Smart Governance Sherif Kishk	16255
@@ -352,6 +357,7 @@ Authorities Governance Unit	14738,8
 Authority Governance	587
 Authority Governing	587
 Authority Governor Deputy Governor	6938
+Authority LGs Local Governments MDAs Ministries	19633
 Authority of Heads of State and Governm	15363
 Authority of Heads of State and Government	7,7445,4065,3846
 Authority of Heads of State and Government of ECOWAS	15363
@@ -396,6 +402,7 @@ Background Governments	16923
 Background The Federal Government of Somalia	14874
 Background The Government	13335
 Background The Government of Rwanda	14922
+Background The Government of Uganda	19644
 Background The Governments of Eritrea and Norway	13957
 Background and Context The Government	14023
 Backup and Disaster Section E. ICT Governance	15164
@@ -440,6 +447,7 @@ Belgian Governor	12413,2643
 Benchmarking Digital Government Strategies	17448
 Bende Local Government Area	15336
 Beneficiaries Government	16884
+Beneficiaries of Other Government Programs156	19715
 Benefits of Data Governance	15034
 Benin Economic Governance for Service Delivery Program	10856,14
 Benin Government	10819
@@ -470,7 +478,7 @@ Boa Governação	11397,1390,4275
 Board Governance Deficit	11138
 Board Member Dr. P. Mnisi Governor	11134
 Board of Directors Governor Deputy Governor Directorate	15023
-Board of Governors	11710,617,2441,56,1136,1024,135,19,97
+Board of Governors	11710,617,2441,56,1136,1024,135,19,97,2548
 Board of Governors Meeting	11283
 Board of Governors Table	18460
 Board of Governors and Management	17235
@@ -484,6 +492,7 @@ Body Copyright Government of Botswana CHAPTER	12526
 Body Electronic Government	13322
 Body GOVERNADOR ROGÉRIO ZANDAMELA LANÇA SISTEMA	12814
 Body GOVERNMENT GAZETTE OF THE REPUBLIC	12895,4,8,12,2,3,19,24,66,38,2,12,121
+Body GOVERNMENT OF UGANDA	19715
 Body GOVERNMENT OF ZAMBIA ACT No	13299
 Body GOVERNMENT OF ZAMBIA STATUTORY	13307,109,82
 Body GOVERNMENT OF ZAMBIA Statutory	13298
@@ -492,6 +501,7 @@ Body Government	12992,202,190,3212
 Body Government Launches World Bank-Funded Campaign	12817
 Body Government Moves	14561
 Body Government of Rwanda and Anthropic	15109
+Body Government of Uganda and UNESCO Validate Uganda	19789
 Body Government of Zimbabwe Commissions Dete Solar	13614
 Body Governo	12820,22,2
 Body Governor's Welcoming Remarks SIIPS	13052
@@ -505,6 +515,7 @@ Body The Zambian Government	13488
 Bolster Governance	17909,81
 Bom Governo	15391
 Bond Award Governor’s Town Hall CBE	11134
+Boost Reach of Digital Government Services Client	19792
 Border Governance	14511
 Border Governance Last Updated	14511
 Border Governance-African Union	14511
@@ -516,6 +527,7 @@ Borrowing Powers of The Authority. Government	18466
 Bosun Tijani The Federal Government	10386
 Botswana Advances Digital Government	5444
 Botswana Government Extraordinary Gazette	3887,8662,75,6
+Botswana's Overall Governance	19653
 Box for Government. ADVANTAGES	6432
 Brazil Government	7242
 Brazil's AI Governance Vision Got	5366
@@ -552,6 +564,7 @@ Burundi Adopts National Data Governance Strategy	3968
 Burundi Digital Governance	13331
 Burundi National Data Governance Strategy. Strengthened	13457
 Burundi National Internet Governance Forum. Create	13313
+Burundi's Overall Governance	19652
 Bus Service Government	17097
 Business G2C Government	13308,37,1,1551,68,1920,64
 Business G2C- Government	14879,1993
@@ -561,8 +574,10 @@ Business ICT Government	19576
 Business Process Orchestration The Government Service	12359
 Business and Government-to-Citizen	14729
 Businesses and Government Agencies	10994
+Businesses and Government Entities	19699
 Bybit. The Mauritius Internet Governance Forum	9658
 C Functioning of Government C1	17967,217
+C. Functioning of Government	19848
 C. Governance	17209,117
 C. Government	14853
 C. IT Governance and Coordination	16975
@@ -639,7 +654,7 @@ CONTRATO DE EMPRÉSTIMO PROGRAMA DE GOVERNAÇÃO	16219
 CONTRIBUTED Government	7743
 COOPERATION FRAMEWORK BETWEEN THE GOVERNMENT	4153
 COORDENAÇÃO E PLANEAMENTO DO GOVERNO DIGITAL	11461
-CORPORATE GOVERNANCE	718
+CORPORATE GOVERNANCE	718,18994
 CORPORATE GOVERNANCE AND CORPORATE LAW ENFORCEMENT	3714
 CORPORATE GOVERNANCE AND HR COMMITTEE	718
 CORPORATE GOVERNANCE Page16 ESTABLISHMENT OF RWANDA	12358
@@ -720,12 +735,13 @@ Central Banking. Governor’s Town Hall CBE	11134
 Central Banks Governors	11131,3
 Central Equatoria State Deputy Governor Paulino	8330
 Central Equatoria State Government	18731
-Central Government	11525,414,1017,14,152,129,69,100,54,211,1145,104,1,1228,781,26,13,226,117,1141,356,762,17
-Central Government Debt	10759,153,3865
+Central Government	11525,414,1017,14,152,129,69,100,54,211,1145,104,1,1228,781,26,13,226,117,1141,356,762,17,44,69,83
+Central Government Debt	10759,153,3865,4876
 Central Government GTMI	11867
 Central Government Institutions	14935
 Central Government Monitoring and Reporting System	18575
 Central Government Operations	13868,4041,81
+Central Government Votes. Ministry of Finance	19660
 Central Government and Local Government	12606
 Central and Local Government	14858,77,3500
 Central and Local Government Entities	14935
@@ -774,7 +790,7 @@ Chief Government Stbaetistician of Zanzibar	19526
 Chief Government Valuer	14761
 Child Online Protection Government	14752
 China Government	17591
-Chinese Government	18,33,1,3,51,16,59,1,1,1,1,5,3,107,42,1,17,2,97,160,10535,2829,4541
+Chinese Government	18,33,1,3,51,16,59,1,1,1,1,5,3,107,42,1,17,2,97,160,10535,2829,4541,1117
 Chinese Government Scholarship Program	16929
 Chinese Government and MOFCOM	17423
 Chioma Obinna The Federal Government	7454
@@ -823,6 +839,7 @@ Code of Transparency and Good Governance	15566
 Coherent National Governance Framework	12008
 Coherent and Coordinated Governance Framework Fragmented	7548
 Collaboration for Better Governance	11867
+Collaborations and Whole of Government	19642
 Comissão Permanente Título V Governo Artigo	18751
 Comité de Governança Digi	18772
 Comité de Governança Digital	18772
@@ -848,13 +865,17 @@ Communities Electronic Government Private Sector Development	16861
 Community Health Workers The Federal Government	18158
 Community Health Workersl Year U.S. Government	4301
 Community Recovery and Local Governance Geographical	14925
+Community Statistics. Local Government Statistics Database	19744
 Community and Local Government Basic Social Services	10822
+Comoros Overall Governance	19822
+Comoros' Government	19828
 Compact. The Government	18795
 Company Egypt Green Building Council Governorates	15578
 Comparative Analysis of Data Governance	11028
 Comparison Between Government Grants and Councils	19585
 Comparison of National Government Budget Estimates	2775
 Complement Government	13295
+Compliance CORPORATE GOVERNANCE	19712
 Compliance Government Applications Identity	15476
 Compliance The Government of Rwanda	15034
 Compliant Government Training Institute	19585
@@ -921,8 +942,8 @@ Coordination and Governance Implementation	14818
 Copy Link News Alerts WhatsApp Government	6721
 Copyright Government of Botswana	12528
 Core Ethical and Governance Principles	16212
-Core Government Systems	4612,6173,1082,2117,2958
-Core Government Systems Index	10785,1082,2117
+Core Government Systems	4612,6173,1082,2117,2958,2731
+Core Government Systems Index	10785,1082,2117,5689,166
 Core ICR GOVERNMENT OF Lending	18754
 Core Pillars of Public Governance Reform	7063
 Core Pillars of Public Governance Reform Senegal	7063
@@ -930,7 +951,7 @@ Core of Internet Governance	9914,1,77
 Core of Internet Governance LARUS	11812
 Corporate Climate Governance	1818
 Corporate Climate Governance CFO Chief Financial	1818
-Corporate Governance	408,746,400,1856,93,211,1182,2050,5412,193,95,323,84,43,1640,9,23,255,3553
+Corporate Governance	408,746,400,1856,93,211,1182,2050,5412,193,95,323,84,43,1640,9,23,255,3553,1075
 Corporate Governance Board Meetings The Constitution	6946
 Corporate Governance Code	12376,2360
 Corporate Governance Code for Mauritius	14736
@@ -958,6 +979,7 @@ Cost Governance	6432
 Cost Governance Framework	6432
 Cotonou. Government	10823
 Council GWEA Government Wide Enterprise Architecture	11184
+Council LG Local Government LIPW Labour-Intensive	19647
 Council of African Internet Governance Agencies	8343,2107
 Council of County Governors	14422,27,44
 Council of Government	13733
@@ -995,11 +1017,12 @@ Culture and Higher Education Federal Government of Somalia	14896
 Curious Case of Media Opposing Government	7471
 Curious Case of Media Opposing Government&nbsp	7471
 Currency Committee of Central Bank Governors Combating	11134
+Current Broadband Status E-Services The Government	19633
 Current Data Governance Challenges	15034
 Current Data Governance Challenges While Rwanda	15034
 Current Governance Deficiencies DOCUMENTING	3861
 Current Government	7548,2867
-Current USD Central Government Debt	10837,1052,265,186,1
+Current USD Central Government Debt	10837,1052,265,186,1,7495
 Current USD. Central Government Debt	11887
 Customer Service Week. Governor Dr. Phil	11131
 Customs and Partner Governmental Agencies	15478
@@ -1017,6 +1040,7 @@ D. Governance	17257
 D. Government	4214
 D1. Develop Government	14729
 D4D Initiative for Digital Government and Cybersecurity	886
+D7 Governance and M&E Framework	19807
 DA GOVERNANÇA PARA A MELHORIA	11390
 DAC Governance Network	14932
 DAGU. The U.S Government	4349
@@ -1044,6 +1068,7 @@ DEPUTY GOVERNOR DEPUTY GOVERNOR OPERATIONS ECONOMIC	17235
 DEPUTY GOVERNOR'S PREFACE DR. J. T	940
 DESCRiPTiON SUB-TYPES PURPOSE Internet Governance Internet	961
 DEVELOP MENT DIGITAL GOVERNMENT E-COMMERCE	18454
+DEVELOPMENT OF A GOVERNMENT	19638
 DGF Data Governance Framework DMU	14790
 DHRM and Ministry of Local Government	12175
 DIALOGUE ON ARTIFICIAL INTELLIGENCE GOVERNANCE DELIVERED	12760
@@ -1077,7 +1102,7 @@ Damietta Governorate The Field Visit	15578
 Dan Qaran Government's Third Anniversary Event	14978
 Dangiwa The Federal Government	18130
 Data Ethics and Governance	19555
-Data Governance	961,117,6,159,1314,102,299,204,22,1,419,257,107,82,73,57,34,214,97,519,200,540,229,335,21,63,107,70,294,43,57,223,303,19,2338,83,104,708,80,134,143,16,98,187,771,209,8,248,388,98,296,23,32,302,668,4,39,40,469,897,799,508,49,506
+Data Governance	961,117,6,159,1314,102,299,204,22,1,419,257,107,82,73,57,34,214,97,519,200,540,229,335,21,63,107,70,294,43,57,223,303,19,2338,83,104,708,80,134,143,16,98,187,771,209,8,248,388,98,296,23,32,302,668,4,39,40,469,897,799,508,49,506,1929
 Data Governance Across the AI Lifecycle Data	14565
 Data Governance Act	5802,716,4510,126
 Data Governance Act. Country Percentage	11922
@@ -1148,6 +1173,7 @@ Data Protection Governance Society of Kenya	17745
 Data Protection Legal Regime and Data Governance	1243
 Data Protection and Digital Governance Expert	9600
 Data Protection and Governance Society of Kenya	5363
+Data Protection and Privacy Government of Uganda	19642
 Data Sources Government	12356
 Data Sources Official Government Reports	17139
 Data Systems and Governance	14818
@@ -1165,7 +1191,7 @@ Decentralization and Local Governance	16971
 Decentralization and Local Governance Report	13418
 Decentralized System of Governance	18597
 Declaration of Commitment The Government	18795
-Declaration of Commitment The Government of Botswana	12563
+Declaration of Commitment The Government of Botswana	12563,7114
 Declaration of Commitment The Government of The Gambia	16966
 Dedicated Data Governance Entity	10785
 Dedicated Data Governance Entity I-34	10785
@@ -1442,6 +1468,7 @@ Digital and Mobile Government Services	14430
 Digital for Government	12241,839,15
 Digital for Government and Digital Product Design	13080
 Digitalisation of Government Services Kangemi Boda Boda	6946
+Digitalization Government	19642
 Digitalization of Government Services	6946
 Digitalizing Government Payments	10856
 Digitisation and Government Wide Area Network	958
@@ -1474,9 +1501,14 @@ Disbursement Requests. The Government	19214
 Distributed Governance Architecture	3861
 District Council of Flacq Ministry of Local Government	14770
 District Council of Savanne Ministry of Local Government	14770
+District Local Governments	19747
+District Local Governments of Koboko and Yumbe	19647
 Division for Public Institutions and Digital Government	10840
 Djibouti Economic and Financial Governance Project World	2249
+Djibouti Government	19847
 Djibouti Launches Digital Skills Program for Government	2435
+Djibouti's Economic and Financial Governance Project	19847
+Djibouti's Overall Governance	19836
 Do Programa de Governo	15694
 Do the Government	7252
 Doctors U.S. Mozambique Mozambique Year Government	4260
@@ -1529,6 +1561,7 @@ E- Local Content and Hosting Government	11857
 E-GP Electronic Government Procurement FSS Fiscal	18500
 E-Government Monthly Government	12253
 E-Government and Government	12253
+E-government Services Government MDAs	19639
 E. Costs The United States Government	5773
 E. ENVIRONMENT AND CLIMATE CHANGE Government	18455
 E. GOVERNANCE	11863,2075
@@ -1548,6 +1581,7 @@ EAC Data Governance Policy Framework	7548
 EAC East African Community GoB Government	1284
 EAG OF GOVERMBAENT	3972
 ECA’s Data Governance	13457
+ECONOMIC AND FINANCIAL GOVERNANCE PROJECT	19847
 ECOWAS Authority of Heads of State and Government	7452,8276,515,2212
 ECOWAS Authority of Heads of State and Government and H.E	7452
 ECOWAS Council of Governors	745
@@ -1605,6 +1639,7 @@ Economic Governance for Investment Programme	12985
 Economic Planning and Development Government House Port	14744
 Economic Reconstruction and Recovery Plan of Government	11986
 Economic and Corporate Governance	17017
+Economic and Financial Governance Project	19847
 Economics and Regulation Deputy Governor	6938
 Economy and Society The Government	16861
 EconomyPREMIUM Government	5208
@@ -1621,6 +1656,7 @@ Education Governments	13991
 Education System Governance and Structure	15604
 Education System Governance and Structure The Egyptian	15604
 Efectividade Governamental	18767,5
+Effective Communication of Government Programs	19794
 Effective Governance	16212
 Effective Governance Model	1777
 Effective Governance Systems and Institutions	12987
@@ -1677,7 +1713,7 @@ Electronic Government Network. The Software Development	18981
 Electronic Government PART VI PUBLIC SERVICE	13322
 Electronic Government PART VII GENERAL PROVISIONS	13322
 Electronic Government Plan PAC Policy Analysis	13345
-Electronic Government Procurement	7054,1669,5823,2491,1451,74,15
+Electronic Government Procurement	7054,1669,5823,2491,1451,74,15,1214,56
 Electronic Government Procurement Contract The National	14546
 Electronic Government Procurement EU SBC III	18488
 Electronic Government Procurement System	8723,3730,503,389,5155
@@ -1859,6 +1895,7 @@ Executive and Governance. The Commissioner General	10550
 Existing Government of Kenya Funding	4153
 Existing Government of Rwanda Funding	4167
 Existing Government of Uganda Funding	4217
+Existing Government of Uganda G2P Payment Platforms	19647
 Existing Legislative and Policy Framework Open Government	18439
 Expand Government	16885
 Expand Government Functions and Services R4. Introduce	16876
@@ -1872,6 +1909,7 @@ FATF Financial Action Taskforce GNU Government	11250
 FCDO IDRC GIZ EU USAID Government	12210
 FCT Education Secretariat and Local Government EMIS	11860
 FCT The Federal Government	8350
+FEASIBILITY STUDY OF GOVERNMENT PAYMENT MECHANISMS	19647
 FEDERAL GOVERNMENT OF SOMALIA	14874
 FEDERAL GOVERNMENT OF SOMALIA Contents Abbreviations	14874
 FEDERAL GOVERNMENT OF SOMALIA Ministry of Communication	15055
@@ -1879,6 +1917,7 @@ FGS Federal Government of Somalia	14929,261
 FGS Government Local Fund	14986
 FISCAL GOVERNANCE PROGRAM FOR RESULTS	12176
 FOREWORD BY THE GOVERNOR	15023
+FOREWORD BY THE GOVERNOR A National	19664
 FOREWORD Governments	18478
 FOREWORD The Electronic Government Division	12360
 FOREWORD The Government	12453,892,54
@@ -2028,7 +2067,7 @@ Frameworks for National AI Policy and Regulatory Governance	8710
 Freedom of Information Acts and Open Government. Open	11854
 Freehold Governance Release	15473
 Freepik AI Governance Guidelines for Mauritian HEIs	14812
-French Government	10714,2261,1292,3031
+French Government	10714,2261,1292,3031,2528
 Frontier Governorates. DLI	15663
 Frontline Clinical Workers. The Ethiopian Government	4349
 Frontline Healthcare Worker Funding The Government	4260
@@ -2123,7 +2162,7 @@ GOOD GOVERNANCE MAKES GOOD NEIGHBOURS	2839
 GOV Electronic Government EIRR Economic Internal	11863
 GOVERNADOR ROGÉRIO ZANDAMELA LANÇA SISTEMA	12814
 GOVERNAN GOVERNANCE GOVERNANCE GOVERNANCE GOVTECH MATURITY	10785
-GOVERNANCE	1161,4504,1539,2466,185,864,46,10,381,41,21,6,26,607,3,473,320,267,133,421,960,314,4,804,123,1294,255,926,443,937
+GOVERNANCE	1161,4504,1539,2466,185,864,46,10,381,41,21,6,26,607,3,473,320,267,133,421,960,314,4,804,123,1294,255,926,443,937,305
 GOVERNANCE AND ADMINISTRATION	18556,605
 GOVERNANCE AND COMPLIANCE	10721
 GOVERNANCE AND COMPLIANCE STANDARDS	11952
@@ -2170,6 +2209,7 @@ GOVERNANCE OF CROSS-BORDER DATA FLOW	1243
 GOVERNANCE OF DIGITAL PUBLIC SERVICES	11216
 GOVERNANCE Our Board Providing	11131
 GOVERNANCE Our Executive Committee Phil Mnisi	11131
+GOVERNANCE PROFILE	19836
 GOVERNANCE Publ	10785
 GOVERNANCE REFORM AND ACCOUNTABILITY	16949
 GOVERNANCE STRUCTURES AND KEY RESPONSIBILITIES	12240
@@ -2199,7 +2239,7 @@ GOVERNING THE NATIONAL BANK OF RWANDA	15102
 GOVERNING UNIVERSAL	1214
 GOVERNM ENT GAZETTE	11180
 GOVERNM ENTAL ORGANIZATIONS	18541
-GOVERNMENT	1939,981,941,111,77,105,48,100,1050,170,3877,1314,418,146,663,186,1513,2220,978,48,1727
+GOVERNMENT	1939,981,941,111,77,105,48,100,1050,170,3877,1314,418,146,663,186,1513,2220,978,48,1727,1227
 GOVERNMENT ACCOUNTS OF THE KINGDOM	13126
 GOVERNMENT ACT	19515
 GOVERNMENT ACT Mr Kang’ombe	13387
@@ -2314,6 +2354,7 @@ GOVERNMENT OF UNITED STATES	3972,230,1150
 GOVERNMENT OF ZAMBIA	13350
 GOVERNMENT OF ZAMBIA ACT No	2727,10594,1,29,146
 GOVERNMENT OPEN DATA STRATEGY	16939
+GOVERNMENT PAYMENTS	19664
 GOVERNMENT PERFORMANCE REPORT FOR THE PERIOD	12950
 GOVERNMENT PLAN	13345
 GOVERNMENT PRINTER	11
@@ -2321,6 +2362,7 @@ GOVERNMENT PRINTING DEPARTMENT	18434,34
 GOVERNMENT PRINTING WORKS WILL	1009
 GOVERNMENT PRIVATE SECTOR Data	14790
 GOVERNMENT PROGRAMME	14748,4
+GOVERNMENT PROGRAMMES	19715
 GOVERNMENT PROTECTION AND INVESTMENT ENCOURAGEMENT LAW	4896
 GOVERNMENT PROVIDES UPDATE ON NATIONAL ELECTRICITY	18566
 GOVERNMENT SECURITY ARCHITECTURE	19513
@@ -2352,6 +2394,7 @@ GOVERNO DISPONIBILIZA EMISSÃO DE PASSAPORTE POR	18854
 GOVERNO EM AÇÃO	16251
 GOVERNO P	18896
 GOVERNO PROPOSTA DE LEI N.º	18798
+GOVERNOR	19650,14
 GOVERNORS	4103
 GOVERNORS' FOREWORD DR. J. P. MANGUDYA	940
 GOVERNOR’S STATEMENT	11131
@@ -2359,6 +2402,7 @@ GOVERNOR’S STATEMENT Governor	11131
 GOVERNOR’S STATEMENT The GT Programme	11131
 GOVERNQ D& CAisE-H MINISTERIO N N	17111
 GOVERNS National Water Act	14673
+GP Electronic Government Procurement	19847
 GP Electronic Government Procurement EPR Extended	15621
 GP Electronic Government Procurement EU SBTA	18577
 GPE Government	11905
@@ -2563,10 +2607,10 @@ Governamental	1192,14380
 Governamental Decree	18787
 Governamental Interoperability Framework	11371
 Governamental OMS	11387
-Governance	21,147,58,170,21,128,98,1,1,121,195,9,6,33,152,123,96,72,78,100,79,9,56,40,71,80,131,124,37,18,402,98,276,192,21,121,6,112,92,9,156,97,2,128,139,133,171,1,97,238,130,236,112,2,103,136,64,151,125,86,320,121,34,1,45,10,70,6,85,87,64,36,42,114,14,48,52,95,49,16,100,19,19,93,17,45,34,1,48,60,6,89,108,335,89,18,42,56,1,34,1,87,106,1,23,303,148,3,18,5,69,39,128,209,48,59,174,114,277,22,27,45,111,119,1,92,58,54,1,53,6,3,2,72,52,165,1,1,3,1,3,18,23,43,28,2,17,36,96,68,83,1,36,202,16,48,2,3,3,4,19,3,16,43,4,4,44,8,35,132,35,4,26,29,1,19,26,18,19,1,3,9,9,26,13,6,34,35,2,12,10,46,95,21,55,23,147,18,4,14,16,5,5,7,4,5,4,104,10,111,89,17,2,8,9,1,11,1,1,20,16,4,1,1,8,23,25,31,150,8,29,24,44,58,26,66,27,43,33,89,80,283,14,16,101,1,33,22,53,62,8,15,27,26,7,25,36,16,26,12,1,30,11,21,26,11,130,42,2,47,156,36,26,7,70,41,13,17,38,2,52,12,18,15,36,51,201,98,68,185,117,120,218,20,4,8,1,1,16,21,1,27,12,8,2,38,105,23,18,103,29,33,42,39,55,45,36,26,206,98,121,119,23,173,4,40,10,71,16,8,4,17,2,1,51,2,47,50,12,6,5,29,42,45,5,15,22,6,72,16,1,45,184,87,135,155,16,58,1
+Governance	21,147,58,170,21,128,98,1,1,121,195,9,6,33,152,123,96,72,78,100,79,9,56,40,71,80,131,124,37,18,402,98,276,192,21,121,6,112,92,9,156,97,2,128,139,133,171,1,97,238,130,236,112,2,103,136,64,151,125,86,320,121,34,1,45,10,70,6,85,87,64,36,42,114,14,48,52,95,49,16,100,19,19,93,17,45,34,1,48,60,6,89,108,335,89,18,42,56,1,34,1,87,106,1,23,303,148,3,18,5,69,39,128,209,48,59,174,114,277,22,27,45,111,119,1,92,58,54,1,53,6,3,2,72,52,165,1,1,3,1,3,18,23,43,28,2,17,36,96,68,83,1,36,202,16,48,2,3,3,4,19,3,16,43,4,4,44,8,35,132,35,4,26,29,1,19,26,18,19,1,3,9,9,26,13,6,34,35,2,12,10,46,95,21,55,23,147,18,4,14,16,5,5,7,4,5,4,104,10,111,89,17,2,8,9,1,11,1,1,20,16,4,1,1,8,23,25,31,150,8,29,24,44,58,26,66,27,43,33,89,80,283,14,16,101,1,33,22,53,62,8,15,27,26,7,25,36,16,26,12,1,30,11,21,26,11,130,42,2,47,156,36,26,7,70,41,13,17,38,2,52,12,18,15,36,51,201,98,68,185,117,120,218,20,4,8,1,1,16,21,1,27,12,8,2,38,105,23,18,103,29,33,42,39,55,45,36,26,206,98,121,119,23,173,4,40,10,71,16,8,4,17,2,1,51,2,47,50,12,6,5,29,42,45,5,15,22,6,72,16,1,45,184,87,135,155,16,58,1,53,24,42,11,86,21,13,4,5
 Governance AI	15713
 Governance Absence of Medium	16884
-Governance Academy	169,1649,657,3883,1000,1,4035,744,216,4585
+Governance Academy	169,1649,657,3883,1000,1,4035,744,216,4585,2699
 Governance Access	4126
 Governance Accountability	17139
 Governance Act	7548,1216,5900,1272
@@ -2622,11 +2666,12 @@ Governance FATF Financial Action Task Force	14997
 Governance Flexibility	12356
 Governance Focus Area	13767
 Governance Forum	961,17762
-Governance Framework	3678,3870,4460,232,677,2117,1178,712,440,1297
+Governance Framework	3678,3870,4460,232,677,2117,1178,712,440,1297,1006
 Governance Framework AI	14566
 Governance Framework All	12240
 Governance Framework Current State Zambia	12356
 Governance Framework Ministerial Advisory Panel	11857
+Governance Framework Shared Knowledge Base Shared	19638
 Governance Framework for Digital ID	12241
 Governance Framework for Digital Public Infrastructure	11006
 Governance Framework for Safe AI Deployment	6442
@@ -2641,6 +2686,8 @@ Governance Gaps	5349,7159
 Governance Gender Gender	970
 Governance Global Practice	5620,1134,4116,997,2103,1583,66,1330,521
 Governance Global Practice Eastern and Southern Africa	12176
+Governance Global Practice Middle East	19847
+Governance Global Practice No	19847
 Governance Global Practice Western and Central Africa	969,15980
 Governance Global Practice. Additional	4214
 Governance Goal	12210
@@ -2661,7 +2708,7 @@ Governance Lead	15130
 Governance Leadership	15931
 Governance M&E Framework and Final Synthesis Report	12008
 Governance MNSPS Jean-Charles De Daruvar Senior	17441
-Governance MO IBRAHIM FOUNDATION	10759,76,2,1,130,902,16,1,2,263,2,186,12,1,135
+Governance MO IBRAHIM FOUNDATION	10759,76,2,1,130,902,16,1,2,263,2,186,12,1,135,7334
 Governance Management	14546
 Governance Maturity	3861
 Governance Mechanism	16863
@@ -2686,7 +2733,7 @@ Governance Outcomes	6442
 Governance Over Gadgets	13005
 Governance Overall Governance	12152,188
 Governance PILLAR	4126
-Governance PROFILE	11888,265,10
+Governance PROFILE	11888,265,10,7490
 Governance Pathway	12457
 Governance Performance	9485
 Governance Performance Indicators Indicator Baseline Current	17139
@@ -2732,7 +2779,8 @@ Governance Structure Cloud	16924
 Governance Structure Service	11952
 Governance Structure The Board of Directors	12969
 Governance Structure This Executive Order	16983
-Governance Structures	14965
+Governance Structure and Management	19666
+Governance Structures	14965,4674
 Governance Structures Undermine Economic Imperatives	4535
 Governance Structures and Key Responsibilities	12240
 Governance Strukturen	1530
@@ -2749,6 +2797,7 @@ Governance The National Digital Regulatory Committee	4528,7984
 Governance The Universal Service Fund	5168
 Governance Training	6946
 Governance Transparency	12457
+Governance UNMA	19662
 Governance URL	17190
 Governance Weak	19585
 Governance Weaknesses	17364
@@ -2828,7 +2877,8 @@ Governance and Institutional Settings	18787
 Governance and Institutions	11545,1786
 Governance and Institutions Umbrella Program	18631
 Governance and Internal Control Regulations	15794
-Governance and Leadership	11134,3920
+Governance and Leadership	11134,3920,4668
+Governance and M&E Framework	19807
 Governance and Management RA2	11905
 Governance and Management Structure	13005
 Governance and Management Structure NRB	13005
@@ -2844,11 +2894,13 @@ Governance and Planning and Financial Sustainability	15164
 Governance and Regulation for Responsible AI	16050
 Governance and Risk Management	13053,3891
 Governance and Rule of Law	11720
+Governance and Security	19712,34
 Governance and Security. Figure	14441
 Governance and Shared Features and Fast Payments	11134
 Governance and Shared Features and Phase	11134
 Governance and Structure	17458
 Governance and Support	10776
+Governance and Sustainability Plan	19807
 Governance and Trade	16511,332,176
 Governance and Trade Licensing Scheme	16843
 Governance and Transparency. Under	16943
@@ -2863,6 +2915,7 @@ Governance of AI-based Algorithms	4253
 Governance of Digital Platforms	6436,1273,9308,1
 Governance of Digital Public Goods	5700
 Governance of Enterprise IT CISSP Certified Information	18531
+Governance of GEA. Building	19638
 Governance of ICT	12917
 Governance of ICT Framework	1009
 Governance of Regulators	10570
@@ -2875,6 +2928,7 @@ Governance-Led	15164
 Governance-Mediated Technology Acceptance	5349
 Governance-led PforR	11905
 Governance. Beyond	7170
+Governance. Contributing Practice Areas	19847
 Governance. Dr. Gamundani	12926
 Governance. Executive Summary	12053
 Governance. Financing	761
@@ -2997,7 +3051,7 @@ Governm	4153,107
 Governme	19576
 Governmen	5352
 GovernmenT PrinTinG Works Will	11213
-Government	1,2,4,4,11,2,3,7,2,3,5,75,62,9,3,15,20,1,9,20,19,24,14,80,22,1,13,2,44,63,44,3,131,18,33,1,5,8,6,14,35,61,41,18,11,1,2,17,11,10,4,5,104,8,23,7,43,18,6,15,18,3,18,1,1,49,47,82,12,61,19,18,21,39,14,58,7,3,37,1,25,1,24,21,5,10,6,23,7,1,5,4,16,53,10,3,22,6,2,5,25,67,3,10,11,3,32,59,33,11,36,1,15,56,18,1,8,26,110,10,41,137,5,8,48,4,40,69,1,31,14,55,16,30,16,7,30,29,68,30,21,9,19,10,1,13,61,20,9,5,4,18,2,30,8,11,37,6,14,49,10,6,5,1,3,11,6,27,1,5,41,36,2,5,20,37,83,21,5,82,3,14,4,48,11,29,19,4,1,24,11,13,3,1,10,3,18,17,12,1,2,18,12,13,41,1,34,4,5,4,43,133,3,8,8,10,4,51,27,6,11,7,12,5,1,18,1,4,55,12,5,5,9,6,72,16,51,22,52,9,18,39,37,12,13,14,16,8,1,2,33,7,7,20,2,1,2,4,17,34,10,16,12,9,3,55,37,12,64,2,11,7,11,3,12,17,14,1,8,3,11,48,19,13,11,60,3,13,6,1,28,3,7,19,21,31,16,56,55,2,34,22,11,6,5,5,6,12,20,23,6,16,4,3,6,1,1,19,7,3,14,17,15,60,44,17,23,10,46,3,1,1,14,4,7,9,12,14,23,1,26,19,43,24,32,13,14,5,23,11,24,10,11,2,4,47,36,1,14,10,3,13,10,25,17,16,5,4,4,23,74,31,33,1,1,16,5,17,34,29,57,1,8,6,33,10,4,6,11,9,1,85,10,8,1,4,5,6,9,21,15,28,14,28,8,7,8,24,5,4,8,4,5,3,18,1,3,47,2,6,1,4,16,13,4,17,5,21,42,10,14,20,18,7,95,39,44,6,5,14,10,1,26,8,4,10,2,67,4,2,24,6,59,22,1,56,11,1,13,13,20,4,1,3,6,30,14,17,35,18,7,12,1,22,2,12,8,75,22,12,38,16,8,18,4,1,23,7,11,8,11,2,4,29,1,5,14,12,19,1,18,23,39,5,4,18,4,14,8,29,1,14,5,2,10,47,23,1,3,1,2,15,7,2,1,15,13,3,5,65,1,1,47,8,17,3,1,1,31,17,24,13,31,7,34,8,12,13,21,16,9,32,33,8,29,12,29,25,8,3,28,8,3,35,6,47,5,6,1,10,1,26,14,1,4,20,46,19,7,4,3,6,11,9,11,13,20,28,14,28,7,3,3,30,6,22,4,8,23,26,13,32,21,97,17,3,7,1,3,2,4,8,19,10,7,11,1,3,12,5,5,4,17,3,11,59,4,1,4,1,5,2,3,11,13,1,1,16,6,68,33,2,2,1,2,18,2,15,8,1,3,1,1,3,5,3,3,17,4,10,5,2,11,5,3,11,4,1,2,3,4,3,1,4,1,42,34,5,23,1,1,1,4,16,47,5,7,48,1,20,5,2,1,26,7,15,10,18,10,16,12,37,16,37,16,5,13,63,1,2,2,1,1,2,3,1,17,1,5,4,1,5,5,1,10,2,4,1,1,3,1,7,3,2,4,12,9,6,5,10,5,2,1,1,2,7,4,17,26,1,14,5,13,1,9,1,34,2,5,1,1,2,1,1,2,1,1,5,8,1,11,4,1,6,2,2,2,4,1,8,4,5,4,3,3,7,5,8,1,5,7,4,23,6,11,2,10,5,7,4,2,1,2,3,2,2,14,3,1,1,2,1,1,4,9,2,1,7,1,8,2,1,4,10,1,5,1,3,3,1,3,5,3,1,9,1,4,4,3,1,2,4,1,3,14,6,13,1,5,6,2,12,1,2,1,3,2,1,3,7,2,6,2,2,4,4,1,9,1,3,8,1,1,7,1,2,2,2,2,14,3,1,1,1,3,5,5,1,4,1,1,1,1,11,1,1,1,1,5,6,1,5,13,7,1,1,4,11,12,5,16,9,2,18,25,2,26,7,4,44,2,2,1,2,2,1,1,2,1,1,1,1,2,1,2,3,4,1,1,3,1,1,5,2,2,4,3,5,1,1,8,1,1,5,1,2,4,2,1,1,5,4,1,5,3,8,3,4,1,1,17,3,4,2,4,3,2,2,4,1,4,1,1,1,2,1,1,4,11,5,13,2,1,1,11,6,2,2,4,1,1,1,2,5,1,8,14,1,10,5,3,3,8,7,1,1,10,3,11,2,3,3,10,5,5,3,3,29,6,1,6,1,10,3,2,1,1,2,3,1,2,1,1,4,2,3,1,3,1,7,1,1,1,1,5,6,1,19,4,2,1,1,1,2,2,1,17,3,6,2,1,13,1,1,3,2,3,4,7,3,3,9,2,1,1,1,2,7,3,6,9,2,5,1,2,9,2,4,1,4,1,10,2,17,13,1,4,11,5,5,6,18,11,3,7,8,7,1,2,1,8,6,6,14,4,28,21,21,3,31,1,53,7,43,27,6,4,2,2,5,3,4,8,5,6,4,2,1,1,17,2,4,7,2,1,7,42,7,16,8,12,9,10,14,1,1,37,5,14,9,35,2,2,3,9,5,23,28,5,12,3,2,13,4,8,10,18,1,8,2,1,12,6,13,14,5,16,8,9,14,17,1,21,9,6,4,1,1,9,18,8,13,25,5,9,19,1,39,4,2,1,2,1,2,1,1,1,1,1,5,1,2,3,1,1,1,1,1,1,1,1,1,1,1,1,7,1,2,3,1,3,1,2,1,3,1,1,7,4,3,4,12,2,8,4,1,2,2,1,1,1,4,3,3,1,1,1,1,2,6,5,3,1,1,8,2,1,2,1,2,9,3,5,1,10,14,1,1,9,3,5,7,18,1,4,15,1,10,1,3,4,3,12,4,11,15,9,8,13,8,3,12,11,13,1,11,10,1,15,17,10,17,1,5,6,4,23,12,1,70,42,21,6,12,13,6,17,10,2,1,2,11,5,2,11,9,11,2,1,4,1,21,10,3,13,8,27,3,15,2,7,31,2,2,7,9,23,2,9,3,9,33,32,12,21,37,2,8,54,7,38,8,6,49,1,46,65,43,1,18,6,7,34,8,5,9,18,91,52,38,6,13,18,36,33,16,18,24,11,5,40,11,11,3,62,8,6,37,1,2,4,1,1,2,5,2,1,1,1,5,2,1,2,4,5,2,2,7,1,1,1,1,9,6,6,7,1,5,1,1,1,2,1,8,4,3,1,1,3,2,1,1,7,2,1,2,3,1,1,2,1,1,1,2,3,4,1,2,11,15,5,2,7,23,31,13,4,5,3,1,3,2,4,2,3,5,3,11,1,1,9,8,2,10,47,12,6,1,1,11,3,8,2,8,21,3,4,8,7,3,2,1,11,6,13,20,9,3,12,3,27,20,7,10,12,77,6,18,8,28,12,39,10,44,6,18,3,7,23,4,7,6,2,1,60,13,7,1,14,9,41,16,12,8,36,98,19,39,5,9,22,4,3,28,36,24,8,4,4,50,71,4,1,1,1,1,1,1,3,2,1,2,2,2,1,2,1,1,1,2,1,2,1,1,1,1,1,3,3,1,1,1,2,2,2,2,3,12,4,8,3,4,2,1,7,3,3,2,4,2,3,2,4,3,4,12,4,1,1,1,7,1,1,7,1,1,1,1,1,1,1,1,1,2,2,5,3,2,2,4,1,1,1,12,6,16,1,3,10,1,13,7,1,5,1,3,25,2,5,2,3,12,11,5,7,10,5,3,1,21,8,21,5,11,19,2,2,1,1,2,4,10,1,3,5,2,4,2,10,1,3,3,6,4,3,2,3,1,15,8,21,19,19,4,7,9,2,16,14,11,18,18,1,2,33,6,6,15,14,23,8,4,35,123,17,31,53,2,1,1,1,2,1,2,1,1,1,3,2,1,3,1,1,1,1,4,3,1,2,5,5,1,2,2,8,4,2,1,1,1,6,2,1,6,8,3,16
+Government	1,2,4,4,11,2,3,7,2,3,5,75,62,9,3,15,20,1,9,20,19,24,14,80,22,1,13,2,44,63,44,3,131,18,33,1,5,8,6,14,35,61,41,18,11,1,2,17,11,10,4,5,104,8,23,7,43,18,6,15,18,3,18,1,1,49,47,82,12,61,19,18,21,39,14,58,7,3,37,1,25,1,24,21,5,10,6,23,7,1,5,4,16,53,10,3,22,6,2,5,25,67,3,10,11,3,32,59,33,11,36,1,15,56,18,1,8,26,110,10,41,137,5,8,48,4,40,69,1,31,14,55,16,30,16,7,30,29,68,30,21,9,19,10,1,13,61,20,9,5,4,18,2,30,8,11,37,6,14,49,10,6,5,1,3,11,6,27,1,5,41,36,2,5,20,37,83,21,5,82,3,14,4,48,11,29,19,4,1,24,11,13,3,1,10,3,18,17,12,1,2,18,12,13,41,1,34,4,5,4,43,133,3,8,8,10,4,51,27,6,11,7,12,5,1,18,1,4,55,12,5,5,9,6,72,16,51,22,52,9,18,39,37,12,13,14,16,8,1,2,33,7,7,20,2,1,2,4,17,34,10,16,12,9,3,55,37,12,64,2,11,7,11,3,12,17,14,1,8,3,11,48,19,13,11,60,3,13,6,1,28,3,7,19,21,31,16,56,55,2,34,22,11,6,5,5,6,12,20,23,6,16,4,3,6,1,1,19,7,3,14,17,15,60,44,17,23,10,46,3,1,1,14,4,7,9,12,14,23,1,26,19,43,24,32,13,14,5,23,11,24,10,11,2,4,47,36,1,14,10,3,13,10,25,17,16,5,4,4,23,74,31,33,1,1,16,5,17,34,29,57,1,8,6,33,10,4,6,11,9,1,85,10,8,1,4,5,6,9,21,15,28,14,28,8,7,8,24,5,4,8,4,5,3,18,1,3,47,2,6,1,4,16,13,4,17,5,21,42,10,14,20,18,7,95,39,44,6,5,14,10,1,26,8,4,10,2,67,4,2,24,6,59,22,1,56,11,1,13,13,20,4,1,3,6,30,14,17,35,18,7,12,1,22,2,12,8,75,22,12,38,16,8,18,4,1,23,7,11,8,11,2,4,29,1,5,14,12,19,1,18,23,39,5,4,18,4,14,8,29,1,14,5,2,10,47,23,1,3,1,2,15,7,2,1,15,13,3,5,65,1,1,47,8,17,3,1,1,31,17,24,13,31,7,34,8,12,13,21,16,9,32,33,8,29,12,29,25,8,3,28,8,3,35,6,47,5,6,1,10,1,26,14,1,4,20,46,19,7,4,3,6,11,9,11,13,20,28,14,28,7,3,3,30,6,22,4,8,23,26,13,32,21,97,17,3,7,1,3,2,4,8,19,10,7,11,1,3,12,5,5,4,17,3,11,59,4,1,4,1,5,2,3,11,13,1,1,16,6,68,33,2,2,1,2,18,2,15,8,1,3,1,1,3,5,3,3,17,4,10,5,2,11,5,3,11,4,1,2,3,4,3,1,4,1,42,34,5,23,1,1,1,4,16,47,5,7,48,1,20,5,2,1,26,7,15,10,18,10,16,12,37,16,37,16,5,13,63,1,2,2,1,1,2,3,1,17,1,5,4,1,5,5,1,10,2,4,1,1,3,1,7,3,2,4,12,9,6,5,10,5,2,1,1,2,7,4,17,26,1,14,5,13,1,9,1,34,2,5,1,1,2,1,1,2,1,1,5,8,1,11,4,1,6,2,2,2,4,1,8,4,5,4,3,3,7,5,8,1,5,7,4,23,6,11,2,10,5,7,4,2,1,2,3,2,2,14,3,1,1,2,1,1,4,9,2,1,7,1,8,2,1,4,10,1,5,1,3,3,1,3,5,3,1,9,1,4,4,3,1,2,4,1,3,14,6,13,1,5,6,2,12,1,2,1,3,2,1,3,7,2,6,2,2,4,4,1,9,1,3,8,1,1,7,1,2,2,2,2,14,3,1,1,1,3,5,5,1,4,1,1,1,1,11,1,1,1,1,5,6,1,5,13,7,1,1,4,11,12,5,16,9,2,18,25,2,26,7,4,44,2,2,1,2,2,1,1,2,1,1,1,1,2,1,2,3,4,1,1,3,1,1,5,2,2,4,3,5,1,1,8,1,1,5,1,2,4,2,1,1,5,4,1,5,3,8,3,4,1,1,17,3,4,2,4,3,2,2,4,1,4,1,1,1,2,1,1,4,11,5,13,2,1,1,11,6,2,2,4,1,1,1,2,5,1,8,14,1,10,5,3,3,8,7,1,1,10,3,11,2,3,3,10,5,5,3,3,29,6,1,6,1,10,3,2,1,1,2,3,1,2,1,1,4,2,3,1,3,1,7,1,1,1,1,5,6,1,19,4,2,1,1,1,2,2,1,17,3,6,2,1,13,1,1,3,2,3,4,7,3,3,9,2,1,1,1,2,7,3,6,9,2,5,1,2,9,2,4,1,4,1,10,2,17,13,1,4,11,5,5,6,18,11,3,7,8,7,1,2,1,8,6,6,14,4,28,21,21,3,31,1,53,7,43,27,6,4,2,2,5,3,4,8,5,6,4,2,1,1,17,2,4,7,2,1,7,42,7,16,8,12,9,10,14,1,1,37,5,14,9,35,2,2,3,9,5,23,28,5,12,3,2,13,4,8,10,18,1,8,2,1,12,6,13,14,5,16,8,9,14,17,1,21,9,6,4,1,1,9,18,8,13,25,5,9,19,1,39,4,2,1,2,1,2,1,1,1,1,1,5,1,2,3,1,1,1,1,1,1,1,1,1,1,1,1,7,1,2,3,1,3,1,2,1,3,1,1,7,4,3,4,12,2,8,4,1,2,2,1,1,1,4,3,3,1,1,1,1,2,6,5,3,1,1,8,2,1,2,1,2,9,3,5,1,10,14,1,1,9,3,5,7,18,1,4,15,1,10,1,3,4,3,12,4,11,15,9,8,13,8,3,12,11,13,1,11,10,1,15,17,10,17,1,5,6,4,23,12,1,70,42,21,6,12,13,6,17,10,2,1,2,11,5,2,11,9,11,2,1,4,1,21,10,3,13,8,27,3,15,2,7,31,2,2,7,9,23,2,9,3,9,33,32,12,21,37,2,8,54,7,38,8,6,49,1,46,65,43,1,18,6,7,34,8,5,9,18,91,52,38,6,13,18,36,33,16,18,24,11,5,40,11,11,3,62,8,6,37,1,2,4,1,1,2,5,2,1,1,1,5,2,1,2,4,5,2,2,7,1,1,1,1,9,6,6,7,1,5,1,1,1,2,1,8,4,3,1,1,3,2,1,1,7,2,1,2,3,1,1,2,1,1,1,2,3,4,1,2,11,15,5,2,7,23,31,13,4,5,3,1,3,2,4,2,3,5,3,11,1,1,9,8,2,10,47,12,6,1,1,11,3,8,2,8,21,3,4,8,7,3,2,1,11,6,13,20,9,3,12,3,27,20,7,10,12,77,6,18,8,28,12,39,10,44,6,18,3,7,23,4,7,6,2,1,60,13,7,1,14,9,41,16,12,8,36,98,19,39,5,9,22,4,3,28,36,24,8,4,4,50,71,4,1,1,1,1,1,1,3,2,1,2,2,2,1,2,1,1,1,2,1,2,1,1,1,1,1,3,3,1,1,1,2,2,2,2,3,12,4,8,3,4,2,1,7,3,3,2,4,2,3,2,4,3,4,12,4,1,1,1,7,1,1,7,1,1,1,1,1,1,1,1,1,2,2,5,3,2,2,4,1,1,1,12,6,16,1,3,10,1,13,7,1,5,1,3,25,2,5,2,3,12,11,5,7,10,5,3,1,21,8,21,5,11,19,2,2,1,1,2,4,10,1,3,5,2,4,2,10,1,3,3,6,4,3,2,3,1,15,8,21,19,19,4,7,9,2,16,14,11,18,18,1,2,33,6,6,15,14,23,8,4,35,123,17,31,53,2,1,1,1,2,1,2,1,1,1,3,2,1,3,1,1,1,1,4,3,1,2,5,5,1,2,2,8,4,2,1,1,1,6,2,1,6,8,3,16,8,1,1,1,1,1,2,1,4,1,2,1,3,1,1,2,5,6,2,2,2,10,1,2,10,13,5,5,3,4,2,3,3,1,1,3,3,7,5,8,1,4,2,2,5,14,1,7,3,2,1,1,2,1,1,1,4,3,5,2,9,8,1,12
 Government A5 Consolidate	12917
 Government AI	7548
 Government AI Adoption Code	7548
@@ -3012,7 +3066,7 @@ Government Academy	12961,3954
 Government Access	3972
 Government Accountability Advocates	6948
 Government Accountability Series	3832,7249,4813
-Government Accounting and Budgeting System	2576
+Government Accounting and Budgeting System	2576,17088
 Government Accounts	13685
 Government Act	798,6750,5964,4988,1015,18,8,33,1,1,8
 Government Act No	12453,892,2,6186,41,2
@@ -3059,6 +3113,7 @@ Government Applications Document Number	19575
 Government Applications ICTs	11857
 Government Applications Page	19575
 Government Applications and Guidelines for Development	19575
+Government Architecture	19839
 Government Architecture Vision	19510
 Government Areas MDAs Ministries	11857
 Government Artificial	4126
@@ -3146,11 +3201,15 @@ Government Chief Technical Officer Kasali Musenge	7384
 Government Chief Technology Officer Kasali Musenge	5984
 Government Chief Valuer	19585
 Government Chief Whip	10672,218,8271
+Government Chief Whip Dr Jane Ruth	19815
 Government Chief Whip Hon. Dr Jane	10672
+Government Citizen Interaction Centre	19711
+Government Citizen's Interaction Center	19641
+Government Citizens Interaction Centre GoU Government	19660
 Government City	19602
 Government Civil	12674
 Government Civil Service	18903
-Government Cloud	3557,2423,452,2176,2177,1106,1026,1835,869,17,1247,38,1,1435,1174
+Government Cloud	3557,2423,452,2176,2177,1106,1026,1835,869,17,1247,38,1,1435,1174,268
 Government Cloud Adoption	10157
 Government Cloud Computing Guideline	13345
 Government Cloud Computing Infrastructure. Enabling	16924
@@ -3194,6 +3253,7 @@ Government Communications	12936
 Government Communications Information Systems	8999
 Government Communications Network	1228,1761,1664
 Government Communications Network Complete	2989
+Government Communicators Strengthen Digital Skills Through	19794
 Government Complex	9439,3262
 Government Component	5533,6453
 Government Computer Services	12896,26,8
@@ -3223,8 +3283,9 @@ Government Cyber-Security Ecosystem	19533
 Government Cybersecurity Enhancement	1000
 Government Cybersecurity Strategy	19533
 Government DET	13310
+Government DNS Domain Name Server DT	19660
 Government Dark Data	10028
-Government Data	10765,10,1088,5294
+Government Data	10765,10,1088,5294,2482
 Government Data Bus	12917
 Government Data Center	11466,425,468,721,907,892,1993,70,2633
 Government Data Center Guidelines	19574
@@ -3232,6 +3293,7 @@ Government Data Center and Cloud	11483
 Government Data Centers	19574
 Government Data Centre	1632,10904,559,1634,23,4015
 Government Data Centre DRC	1834
+Government Data Centre Entirely	19697
 Government Data Centre Harmonisation	1161
 Government Data Centres	6432,13101
 Government Data Centres and Cloud Computing	11940
@@ -3249,6 +3311,7 @@ Government Data Sharing Regulation	6592
 Government Data Shows	10025
 Government Data and Cloud Computing Center	15656
 Government Data and Cybersecurity Center	15002
+Government Data. Application Programming Interfaces	19642
 Government Debt	19602
 Government Debt Management Award	19602
 Government Debt Management Strategy	17105
@@ -3296,7 +3359,7 @@ Government Digital Payments Unit	12321,2225
 Government Digital Performance Assessment for Zambia S	12453,892
 Government Digital Policy and Legal Framework	12453,892
 Government Digital Policy and Legal Framework Government	12453,892
-Government Digital Registry	6239
+Government Digital Registry	6239,13503
 Government Digital Service Centre	18481
 Government Digital Service Team	583,1512,9913
 Government Digital Service. Service Manual	11216
@@ -3343,12 +3406,14 @@ Government Employee Portal	12359
 Government Employee Portal The Government Employee	12359
 Government En-	6946
 Government Enabling Services Payment Gateway BNR	12359
+Government Enclave	19677,1
 Government Energy Kenya	11994
 Government Energy and Resources Authority	7548
 Government English Medium Schools	19585
 Government English-medium	19585
-Government Enterprise Architecture	963,321,3780,1294,2250,236,3108,1379,1110,84,3834,264,622,265
+Government Enterprise Architecture	963,321,3780,1294,2250,236,3108,1379,1110,84,3834,264,622,265,128
 Government Enterprise Architecture Framework	5994,11286,114
+Government Enterprise Architecture. TOGAF	19638
 Government Enterprise Service Bus	4612,140,8584,10,977,5210,49,23
 Government Enterprise Service Bus and Secure	19576
 Government Enterprise and Empowerment Programme	5267
@@ -3377,7 +3442,7 @@ Government Finalizes Sierra Leone's Data Protection	3924
 Government Finance	1155,17668,703
 Government Finance Act	6921
 Government Finance Manual	1828
-Government Finance Statistics	13479,1155,143
+Government Finance Statistics	13479,1155,143,4967
 Government Finance Statistics Expert	14777
 Government Finance Statistics GIS	14857
 Government Finance Statistics Manual	13868,909
@@ -3387,7 +3452,7 @@ Government Finance Statistics Recommendations	14777
 Government Finances Act	19525
 Government Financial Assistance	12389
 Government Financial Management Information Systems	15090
-Government Financial Management Systems	14674
+Government Financial Management Systems	14674,5173
 Government Financial Statistics	11237
 Government Financial Support	11940
 Government Fiscal Operations	17104,213
@@ -3416,7 +3481,7 @@ Government GIS Geographical Information System GSB	13346
 Government GMAO Gestion des Matériels Assisté	13341
 Government GSB Government Service Bus GWAN	13345
 Government Gateway	12359
-Government Gazette	967,3,55,408,317,97,27,1,25,99,118,609,1,217,2,464,241,1081,328,438,4,31,252,91,489,106,41,320,74,145,773,4,22,55,75,108,147,982,148,1811,3,1,1,8,7,5,16,1,17,5,9,737,68,271,2,38,10,6,181,82,1,2,1,3,10,232,12,54,87,143,98,28,2,249,1170,3840,307
+Government Gazette	967,3,55,408,317,97,27,1,25,99,118,609,1,217,2,464,241,1081,328,438,4,31,252,91,489,106,41,320,74,145,773,4,22,55,75,108,147,982,148,1811,3,1,1,8,7,5,16,1,17,5,9,737,68,271,2,38,10,6,181,82,1,2,1,3,10,232,12,54,87,143,98,28,2,249,1170,3840,307,743,4,4
 Government Gazette Assumptions NA Disaggregation	11986
 Government Gazette Commenced	13564
 Government Gazette Extraordinary	12909,219
@@ -3502,12 +3567,15 @@ Government Information Technology Officer Council	11184
 Government Information Technology Officers Council	11184,756
 Government Information and Communication Center	5817
 Government Information and Communication Technology	11184
+Government Infrastructure	19709
+Government Infrastructure FY Financial Year GDP	19642
 Government Infrastructure Phase II	6623
 Government Infrastructure Phase II African Development	333
 Government Infrastructure Project	106,203,24,12341
 Government Infrastructure Project Phase V	1283
 Government Infrastructure Project. The Government of Uganda	106
 Government Infrastructure and Systems	19515
+Government Initiative	19711
 Government Initiative Timeline	12961
 Government Initiatives	14830,2145,2599
 Government Initiatives SN Description The Judiciary	14830
@@ -3527,8 +3595,12 @@ Government Internal Audit Manual	18577
 Government Internet Controls	13313
 Government Internet Service Provider	13533
 Government Interoperabili	16876
-Government Interoperability Framework	2,429,320,212,850,3251,930,364,2766,2431,440,678,635,679,1553,1336,48,356,114,2116
+Government Interoperability Framework	2,429,320,212,850,3251,930,364,2766,2431,440,678,635,679,1553,1336,48,356,114,2116,128
+Government Interoperability Framework Reference Architecture	19638
+Government Interoperability Framework for Uganda	19638
+Government Interoperability Framework3 MoH	19644
 Government Interoperability Frameworks	1813
+Government Interoperability Reference Architecture	19638
 Government Interoperability Standard	13308
 Government Interoperability Standards	12453,892
 Government Intervention	12389
@@ -3566,7 +3638,9 @@ Government Local Fund and Donor	16852
 Government Local Funds	16951,154
 Government Low OSI	10840
 Government MALAWI DIGITAL READINESS ASSESSMENT	12214
-Government MDAs	11854,1063,15,190,5355,1042
+Government MBPS Mega Byte Per Second	19660
+Government MDA	19633
+Government MDAs	11854,1063,15,190,5355,1042,141
 Government MDAs and LGAs	19533
 Government MINEMA Ministry	12328
 Government MT	10765
@@ -3575,6 +3649,7 @@ Government Mailing System	8908
 Government Makes Biometric Verification Mandatory for Ghana	7369
 Government Management	12354,683
 Government Manifesto	14674
+Government Manual Final 2014.pdf	19639
 Government Marketplace	1389,10787
 Government Master Plan	6073,2350,3529,501,882,10
 Government Masterplan	5560,165
@@ -3584,7 +3659,7 @@ Government Measure	5700
 Government Migration Tools GCSPs	6432
 Government Minister	13040
 Government Ministers	13703
-Government Ministries	395,545,18,5873,5320,102,421,6,237,45,2,13,59,89,192,42,22,3,2,116,1317,17,1996,29,65,173,15,2,33,1318,4,48,367
+Government Ministries	395,545,18,5873,5320,102,421,6,237,45,2,13,59,89,192,42,22,3,2,116,1317,17,1996,29,65,173,15,2,33,1318,4,48,367,743,60,72
 Government Ministries Departments and Agencies	12964,5502
 Government Ministries Page	395
 Government Ministries and Agencies	9422,2934
@@ -3604,14 +3679,14 @@ Government Model	3245
 Government Model Regional	3245
 Government Monitoring Systems	17139
 Government Motor Vehicles Using Private Plate	19585
-Government Moves	14561
+Government Moves	14561,5206
 Government N Government N Government N	13042
 Government NGOs	12445
 Government NT	16884
 Government National Broadband Strategy	16884
 Government National Data	12214
 Government Negotiating Team	12962
-Government Network	4685,3347,3718,1777,1492,4514
+Government Network	4685,3347,3718,1777,1492,4514,233,36
 Government Network Grant No	13527
 Government Network Infrastructure	12917
 Government Network Infrastructure Development	12917
@@ -3637,6 +3712,7 @@ Government Office	11135
 Government Office Equipment Standards	11503
 Government Office Park	12345
 Government Officer	13122,3
+Government Officers. Out	19642
 Government Offices	12946,305,1016
 Government Officials	12977,3776,1,1,1
 Government Online	2647,9992
@@ -3664,6 +3740,7 @@ Government Paying Accounts	13420
 Government Payment Gateway	13346
 Government Payment Gateway. Stakeholders	13336
 Government Payment Portal	14744
+Government Payments	19664
 Government Payments Mapping	10901
 Government Payments News	14144
 Government Payroll	18471
@@ -3683,12 +3760,13 @@ Government Platform EA Enterprise Architecture EAF	12359
 Government Policies	12914,58,1450
 Government Policies and Strategies	13320
 Government Policy	34,11276,1611,51,1766,3778
+Government Policy Coordination Mr. Nkeramihigo Julius	19803
 Government Policy Development	16975
-Government Policy Framework	12172
+Government Policy Framework	12172,7470
 Government Policy and Action Review	12961
 Government Policy and National ICT Policy	19510
 Government Policy and Strategic Action Plan	12961
-Government Portal	1912,10617,388,418,1005,2532,103,2188
+Government Portal	1912,10617,388,418,1005,2532,103,2188,676
 Government Portal Interface	13987
 Government Portal’s SharePoint	14790
 Government Presents Budget Framework Centered	14873
@@ -3721,7 +3799,7 @@ Government Procurement Guidelines for AI Systems	16212
 Government Procurement Media Center IFMIS News	12322
 Government Procurement Opportunities	2775,9547,2224
 Government Procurement Opportunities AHP Affordable Housing	2775
-Government Procurement Portal	3969,10705
+Government Procurement Portal	3969,10705,5061
 Government Procurement PortalPPDACoST Uganda Local	3969
 Government Procurement Promulgate the Law	11906
 Government Procurement Regulation	17143
@@ -3733,6 +3811,8 @@ Government Program	12176,1762,1073,579,3261
 Government Program Cabo Verde's Strategic Plan	11863
 Government Programme	1912,451,9173,3030,157,3,16,5,1,3,1,20,1,6,7,4,17,12,1,9,6
 Government Programme of Action	13123
+Government Programmes	19715
+Government Programs	19702
 Government Project	12961,2660
 Government Project Implementation Unit	12674
 Government Project The Government	12961
@@ -3755,6 +3835,7 @@ Government Reform Oversight	11853
 Government Reforms	3578
 Government Reforms Project for Vietnam	15553
 Government Regulation No	11310
+Government Regulations	19801
 Government Regulatory Sandbox	12453,892
 Government Regulatory and Legal Framework	16872
 Government Relations Juldeh O. Bah	18444
@@ -3773,7 +3854,7 @@ Government Response and Next Steps Stats SA	5597
 Government Responsibilities	19214
 Government Retail	11131
 Government Retail Bond	11131,3
-Government Revenue	17235,2297
+Government Revenue	17235,2297,291
 Government Revenue and Tax Composition Trends	10997
 Government Revenues Collected	16848
 Government Roadmap	19245
@@ -3866,7 +3947,7 @@ Government Strategic Plan	12453
 Government Strategies	12961,76,1713
 Government Strategies and Action Plans	13037
 Government Strategies for Digital Transformation	10785
-Government Strategy	798,1114,212,3120,829,200,159,6485,378,19,1409,6,236,971,936,4,9,1,37,1,51,2558,38,5
+Government Strategy	798,1114,212,3120,829,200,159,6485,378,19,1409,6,236,971,936,4,9,1,37,1,51,2558,38,5,225
 Government Strategy Implementation Roadmap Considering	12359
 Government Strategy While Equatorial Guinea	16942
 Government Strategy and Implementation Roadmap	14965
@@ -3894,6 +3975,7 @@ Government Support Systems	14674
 Government Support and Budget for SLMet	18578
 Government Survey	12777,5047
 Government System	13387
+Government System Integration	19689
 Government Systems	5665,6695,228
 Government Systems Automation	958
 Government Systems Index	11569
@@ -3902,6 +3984,7 @@ Government Systems Prototype Showcase	6239,49
 Government Systems and Applications	13308
 Government Systems and Infrastructure	12453,892
 Government Systems and Infrastructures	19533
+Government Systems. Provided	19641
 Government TCB	19576
 Government TGSD and Service Document Number	19576
 Government Targets Reliable Electricity	18582
@@ -3918,18 +4001,20 @@ Government Telecommunications Network	17870
 Government The Digital Readiness Assessment	12214
 Government The Economic Recovery and Growth	11854
 Government The World Bank Senegal Digital	18359
+Government Tower Subsidies	19728
 Government Town Hall Initiative	17320
 Government Training Centre	506
 Government Training Institute	19542
 Government Training Institute MBDP Msimbazi Basin	19585
 Government Transformation	12989,5179
+Government Transformation and Reset Agenda	19651
 Government Treasury Account. Fintech	12598
 Government Treasury Bills	12000
 Government USD	19532
 Government Unified Messaging System	12917
 Government Unit	12241,839,520,2
 Government Unit Oversees	12444
-Government Units	13122
+Government Units	13122,6519,100
 Government Units TOTAL RECEIPTS	16978
 Government Units and Third Parties Government	16978
 Government Unveil MyLagosApp	2563
@@ -3988,6 +4073,7 @@ Government and Government Assisted Schools	18460
 Government and Government Effectiveness and Its Effect	5349
 Government and Huawei	4381
 Government and ICTA	14723
+Government and Industry	19642
 Government and LGAs	19585
 Government and Leadership	2001
 Government and Leadership Back the Platform	16254
@@ -3995,6 +4081,7 @@ Government and MACRA	14674
 Government and MCC	19214
 Government and NACIT	12253
 Government and NGOs	17228
+Government and National Resilience	19801
 Government and Non Government Organisations	14746
 Government and P	7538
 Government and Parastatal	18904
@@ -4003,9 +4090,10 @@ Government and People	14511
 Government and People of Japan	15245
 Government and People of Sierra Leone	16243,2249
 Government and President Nyusi	12201
-Government and Private	11857,829,5855
+Government and Private	11857,829,5855,1101
 Government and Private Member’s Bills	18436
 Government and Private Organizations	17099
+Government and Private Sector	19633
 Government and Private Sector of Seychelles	18885
 Government and Public Institutions Government	14565
 Government and Public Sector	6998,6514
@@ -4021,6 +4109,7 @@ Government and South Africa	11148
 Government and The Gambia	16885
 Government and Thomas Fogwill	1009
 Government and Trust Unit	10819
+Government and UBOS	19810
 Government and UN Partners Validate Country Framework	18520
 Government and UNDP	17101,1636
 Government and US	1228
@@ -4044,7 +4133,7 @@ Government of Belgium	18869
 Government of Benin	54,33,771,956,1976,975,6057,1,29,4,4545,1,22,91,233,173,18,205,298
 Government of Benin. SBIN	10856
 Government of Benin80	10856
-Government of Botswana	52,3541,6558,1597,781,15,7,12,11,2,1,8,10,2,9,11,9,16,2620
+Government of Botswana	52,3541,6558,1597,781,15,7,12,11,2,1,8,10,2,9,11,9,16,2620,4402,13
 Government of Botswana. Both Presidents	12568
 Government of Brazil	17017
 Government of Burkina Fa Crosswalk	337
@@ -4080,7 +4169,7 @@ Government of Côte	210,34,1,1,70,1,21,82,1,130,2,344,2707,182,3644,8602,548
 Government of DRC	476
 Government of Denmark	10989,3908
 Government of Denmark. Pioneer	10157
-Government of Djibouti	85,98,199,13455,22,14,65,7,94
+Government of Djibouti	85,98,199,13455,22,14,65,7,94,5796,4,8
 Government of Djibouti Component	13938
 Government of Djibouti Interim Unaudited Financial Reports	13938
 Government of Djibouti Q4	13938
@@ -4125,7 +4214,7 @@ Government of Ghana’s Ministry of Finance	358
 Government of Guinea	2159,1800,12655,8,27,5,65,11
 Government of Guinea-Bissau	1264,80,901,3842,1615,3823,20,7,27,7,5442,253,50,38
 Government of His Excellency	10818
-Government of India	2667,1909,6559,132,312,989,49,362,530,53,229,962,52,25,135,391,28,73,799,393,585,6,776,126,55,23,158,165,20,294,100,103,3,1,69,23,89
+Government of India	2667,1909,6559,132,312,989,49,362,530,53,229,962,52,25,135,391,28,73,799,393,585,6,776,126,55,23,158,165,20,294,100,103,3,1,69,23,89,387,10
 Government of India Bilateral	18378
 Government of India Cashew	11579
 Government of India Development Partnership LOC Projects	16285
@@ -4146,7 +4235,7 @@ Government of Ireland. Copyright	12981
 Government of Ireland. Learn	12214
 Government of Italy	7030,4124,1391
 Government of Italy and ITU. Lançamento	9434
-Government of Japan	2112,5293,965,2159,56,569,44,388,387,838,151,32,1654,75,54,53,921,252,285,439,437,81
+Government of Japan	2112,5293,965,2159,56,569,44,388,387,838,151,32,1654,75,54,53,921,252,285,439,437,81,2400
 Government of Japan and Eswatini	12962
 Government of Japan and UNICEF Lesotho	12764
 Government of Japan. IMF Communications Department MEDIA	11554
@@ -4365,7 +4454,7 @@ Government of Sweden. Implementation	17274
 Government of São Tomé and Príncipe	5726,13028,13,10,8,10,1,13,7
 Government of TOGAF	9124
 Government of Taiwan	13132,1870
-Government of Tanzania	104,575,42,1956,5086,1386,1912,1999,6459,1,1,8,3,1,1,21,16,7,6,2
+Government of Tanzania	104,575,42,1956,5086,1386,1912,1999,6459,1,1,8,3,1,1,21,16,7,6,2,233
 Government of Tanzania Health	19533
 Government of Tanzania ICT	19584
 Government of Tanzania Online Management Information System	19541
@@ -4382,13 +4471,17 @@ Government of The Republic of The Gambia. Skip	16837,145
 Government of Togo	2026,2476,14735,2,6,27,12
 Government of Tunisia	165,6010,2847,10402,1,30
 Government of Tunisia GRS Grievance Redress Service	19455
-Government of Uganda	106,78,1098,109,1614,1212,5,887,968,281,1392,719,2353,928,569,2115,187
+Government of Uganda	106,78,1098,109,1614,1212,5,887,968,281,1392,719,2353,928,569,2115,187,5017,4,2,2,1,13,2,4,1,12,11,2,2,3,9,6,9,7,1,3,5,8,15,7,19,15,6
 Government of Uganda Existing	4217
 Government of Uganda Funding	4217
+Government of Uganda National Curriculum Development Centre	19690
 Government of Uganda National EMR	4217
 Government of Uganda Scholarship	11829
+Government of Uganda Social Media Guide	19639
 Government of Uganda The Minister	9041
+Government of Uganda and ITU	19679,72,1
 Government of Uganda and U.S. Government Funding	4217
+Government of Uganda and UNESCO Validate Uganda's AI	19789
 Government of Uganda-led	4217
 Government of Uganda. All	4217
 Government of Uganda. Costed	4217
@@ -4447,10 +4540,12 @@ Government's NST1	579
 Government's National Development Plan	15513
 Government's National Development Strategy	940
 Government's National Energy Compact	12595
+Government's PFM	19847
 Government's Programme and UN Sustainable Development Goals	14752
 Government's Programme of Action	13170
 Government's Provision of Electricity	12501
 Government's Reset Agenda	4336
+Government's Roadmap. The UADPST	19847
 Government's Role	17260
 Government's Seychelles Made and Aste Lokal	19179
 Government's Ultimate Objectives	16884
@@ -4463,6 +4558,8 @@ Government-2024	16885
 Government-AI- Readiness-Index-2.pdf	7548
 Government-AI-Readiness-Index-1.pdf	7588
 Government-Backed Wholesale Infrastructure Public	16814
+Government-Bank	19664
+Government-Bank Working Group	19664
 Government-Connected	17097
 Government-E	17053
 Government-Led	17139
@@ -4485,7 +4582,7 @@ Government-e	17097
 Government-enabled	15164
 Government-funded	1867,3166,9791,2433,1044,1284
 Government-issued ID	11919
-Government-led	1814,4854,2235,2057,1215,631,107,1484,1076,1787,844
+Government-led	1814,4854,2235,2057,1215,631,107,1484,1076,1787,844,1617
 Government-led Management Information System	18626
 Government-led Programs	11855
 Government-managed	14723
@@ -4497,7 +4594,7 @@ Government-pillar	1376
 Government-procurement	12968
 Government-provided	18301
 Government-related	12982
-Government-sponsored	14922
+Government-sponsored	14922,4738
 Government-subsidized	12411
 Government-to Business	14790
 Government-to Government	14819,9,17,2040
@@ -4540,6 +4637,7 @@ Government. B. KEY FACTORS DURING IMPLEMENTATION	15424
 Government. Based	14748
 Government. Budget	4653
 Government. Businesses	8121
+Government. By Laws.Africa	19630
 Government. CHAPTER IV NATIONALITY BY NATURALIZATION	18598
 Government. CITCG	15372
 Government. Consequently	17228
@@ -4569,10 +4667,12 @@ Government. Linked	12144
 Government. MCC	19214
 Government. MISSION	16188
 Government. MTN	4150
+Government. Media Contact Communications Unit National	19802
 Government. Ministry of Planning Deals	11916
 Government. Mitigations	17746
 Government. NO SERVICE	16885
 Government. National Broadband Strategy	16884
+Government. National Information Technology Act	19629
 Government. No	18457
 Government. Nonetheless	12360
 Government. Nothing	16943
@@ -4598,8 +4698,10 @@ Government. South Africa	11193
 Government. Streamlining	15518
 Government. Subcomponent	18301
 Government. Subject	16832
+Government. Subsequently	19642
 Government. Tax	13053
 Government. The AILA	13095
+Government. The Bureau	19712
 Government. The CEC	13387
 Government. The Central Bank	11131
 Government. The Committee	12453,892
@@ -4647,7 +4749,7 @@ Governmental Portal	15518
 Governmental Roadmap	19284
 Governmental and Civil Society Organisations	11857
 Governmentimplementationplans	8301
-Governments	432,1,216,212,100,45,244,113,451,279,366,131,87,98,204,38,415,190,188,355,52,42,304,20,42,49,2,131,99,58,69,51,50,237,92,45,43,47,57,20,25,122,70,164,130,26,20,107,32,14,127,4,15,12,50,10,87,144,114,49,105,15,70,306,52,3,100,219,9,174,191,34,66,156,157,100,33,82,35,32,9,161,13,1,35,461,102,41,73,159,24,13,307,4,216,65,31,63,13,48,10,9,4,42,1,7,129,14,13,1,1,1,36,28,34,30,2,3,14,2,29,114,57,149,67,282,3,3,34,26,44,30,194,26,119,2,25,6,19,10,58,219,276,61,33,143,127,2,6,25,1,36,13,266,20,412,276,40,25,187,53,55,16,5,40,107,35,2,31,407,106,2,234,225,21,560,267,1,73,6,9,8,1,30,8,1,3,15,8,68,87,9,43,166,1,299,113,12,42,80,564,320,133,27,607
+Governments	432,1,216,212,100,45,244,113,451,279,366,131,87,98,204,38,415,190,188,355,52,42,304,20,42,49,2,131,99,58,69,51,50,237,92,45,43,47,57,20,25,122,70,164,130,26,20,107,32,14,127,4,15,12,50,10,87,144,114,49,105,15,70,306,52,3,100,219,9,174,191,34,66,156,157,100,33,82,35,32,9,161,13,1,35,461,102,41,73,159,24,13,307,4,216,65,31,63,13,48,10,9,4,42,1,7,129,14,13,1,1,1,36,28,34,30,2,3,14,2,29,114,57,149,67,282,3,3,34,26,44,30,194,26,119,2,25,6,19,10,58,219,276,61,33,143,127,2,6,25,1,36,13,266,20,412,276,40,25,187,53,55,16,5,40,107,35,2,31,407,106,2,234,225,21,560,267,1,73,6,9,8,1,30,8,1,3,15,8,68,87,9,43,166,1,299,113,12,42,80,564,320,133,27,607,134,107
 Governments A- Minimum Domestic Hosting Year	7548
 Governments All	13312
 Governments B-AI	7548
@@ -4662,7 +4764,7 @@ Governments Technologies	7548
 Governments and Nigeria Tax Administration Act	11976
 Governments and Public Sector	12675
 Governments and Regulators	5675
-Governments of Botswana and Namibia	9171
+Governments of Botswana and Namibia	9171,10492
 Governments of Burkina Faso	10864
 Governments of China	14959
 Governments of Côte	7452
@@ -4849,7 +4951,7 @@ Governo. Sistema de Registo Civil	12862
 Governo. Também	11963
 Governoe Sociedade Aumentara	18772
 Governoe Sociedade Fortalecera	18772
-Governor	587,353,59,1277,11,108,2,53,87,304,16,726,96,216,62,84,62,193,105,127,315,30,42,491,126,304,173,88,34,122,68,55,18,303,90,31,120,1,402,194,60,64,47,96,13,8,22,85,4,33,38,124,121,590,206,398,482,126,134,43,179,54,263,404,2,3,155,410,122,95,52,8,265,51,72,1,9,26,34,13,65,340,110,5,77,41,121,326,310,202,99,175,426,54,31,51,117,26,79,1395,93,609,36,30,82,31,290,76,1,164,81,157,8,88,192,28,3,5,153,332,646,6
+Governor	587,353,59,1277,11,108,2,53,87,304,16,726,96,216,62,84,62,193,105,127,315,30,42,491,126,304,173,88,34,122,68,55,18,303,90,31,120,1,402,194,60,64,47,96,13,8,22,85,4,33,38,124,121,590,206,398,482,126,134,43,179,54,263,404,2,3,155,410,122,95,52,8,265,51,72,1,9,26,34,13,65,340,110,5,77,41,121,326,310,202,99,175,426,54,31,51,117,26,79,1395,93,609,36,30,82,31,290,76,1,164,81,157,8,88,192,28,3,5,153,332,608,38,6,56
 Governor Abdirahman Mohamed Abdullahi	7930
 Governor Abdullah	7536
 Governor Ademola Adeleke	10725
@@ -4858,6 +4960,7 @@ Governor Alhaji Ahmed Usman Ododo	16796
 Governor Article	15102
 Governor Asiama	6097
 Governor Babajide Sanwo-Olu	2825,276
+Governor Bank of Uganda	19716
 Governor Bank of Uganda Permanent Secre-	6938
 Governor Biodun Oyebanji	10053
 Governor Board of Directors	19098
@@ -4971,7 +5074,7 @@ Governorates PTES	16079
 Governorates and Upper Egypt	15604
 Governorates of Egypt	15663
 Governorates. Teacher	15604
-Governors	4041,62,3349,363,152,250,1688,1226,338,1493,90,66,1331,403,811,238,1025,309,1058,12,291,9
+Governors	4041,62,3349,363,152,250,1688,1226,338,1493,90,66,1331,403,811,238,1025,309,1058,12,291,9,1091
 Governors Board of Governors Board of Governors	17235
 Governors Establish	7548
 Governors Forum Mr. Stanley Jegede Executive	11857
@@ -4997,7 +5100,7 @@ Governos Regionais	17100
 Governos da Guiné Conacri	15476
 Governos de Angola	11437
 Governos de Língua Francesa CEDAW Convenção	11557
-Governs	7548,4871,3341,452,1048,1110
+Governs	7548,4871,3341,452,1048,1110,1431
 Grand Bassa Liberian Government Adopts	17320
 Grant Reference. The Government	19214
 Green Climate Fund GDA Governance Diagnostic	17105
@@ -5031,6 +5134,7 @@ HEADS OF STATE AND GOVERNMENT	7452,4065,1923,1923
 HEADS OF STATE AND GOVERNMENT Theme	13440
 HEALTH DATA GOVERNANCE	14449
 HEALTH GOVERNMENT AGRICULTURE EMPOYMENT OR ONLINE	11004
+HIE Governance	19644
 HISTORY Italian Government. The National	1131
 HIV Elimination Acceleration The Government of Mozambique	4260
 HIV Services Integration The U.S. Government	4167
@@ -5096,6 +5200,7 @@ High-Level Government Delegation Hails Gento Group	18497
 High-Level Recommendations for AI Governance and Regulation	1814
 Higher Education The Government of Guinea-Bissau	11552
 Higher Education The Government of Sierra Leone	2339
+Higher Local Governments	19715
 Hill Ministry of Local Government	14770
 Hirshabelle. Government	14965
 Hlathikhulu Government Hospital and Nhlangano Health Centre	12956
@@ -5197,7 +5302,7 @@ IMPROVING GOVERNMENT SERVICES	14723
 IMPROVING GOVERNMENT SERVICES Government	14723
 INAGE National Electronic Government	2473
 INCLUSION OVERALL GOVERNANCE	10837,1503
-INCLUSION OVERALL GOVERNANCE Participation SECURITY	10835,3,130,902,16,466,1,135
+INCLUSION OVERALL GOVERNANCE Participation SECURITY	10835,3,130,902,16,466,1,135,7334
 INCLUSIVE GOVERNANCE AND EQUITABLE ACCESS	17101
 INDICATOR Government	12453
 INFO.KE Government Institutions	6671
@@ -5229,6 +5334,7 @@ INTRODUÇÃO Programa de Governo	16487
 INVESTMENT SAMPLE GOVERNMENT INITIATIVES IN DIGITAL	10861
 IOM Migration Governance Framework	16874
 IPP The Government	12233
+IPPs. Government	19677
 IPSASs and IFRS for SMEs. The NBAA Governing	19514
 IRS The U.S. Government	4167
 ISPs Government Focused	3185
@@ -5243,7 +5349,7 @@ IV. The U.S. Government	4260
 IX. The Government of Uganda	4217
 IX. The U.S. Government	4217
 Ibid. The Government	13331
-Ibrahim Index of African Governance	5879,4880,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,3012,1473
+Ibrahim Index of African Governance	5879,4880,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,3012,1473,2679,1,169,14
 Ibrahim Index of African Governance LACC Liberia	17139
 Ibrahim Index of African Governance. III.3.3. Ejes	16898
 Ibrahim de Governança Africana. Paralelamente	18793
@@ -5370,6 +5476,7 @@ Instituto Nacional de Governo Electrónico INTIC	2816
 Instituto Nacional de Governo Electrônico	2473
 Instrumento de Governação	11451
 Instruments Global Governance	961
+Integrate Government	19664
 Integrate Government-to-	12444
 Integrated Goverment Resource Planning	11939
 Integrated Governance Support	15031,59
@@ -5380,6 +5487,7 @@ Integrated HR Management System for Government	11940
 Integrated Public Service Governance	13308
 Integrating Government Development Financing	11356
 Integration of Justice and Governance Systems	13080
+Integration of Local Governments	19801
 Integrity The Government of Rwanda	15034
 Intellectual Property. The Government	19214
 Intelligence Government	12359
@@ -5424,7 +5532,8 @@ Internet Governance Secretariat	8038
 Internet Governance Tanzania Working Group	9082
 Internet Governance. The Digital Trade Imbalance	1243
 Internet. The Government of Rwanda	12359
-Interoperability Governance	13308
+Interoperability Governance	13308,6330
+Interoperability Governance Viewpoint	19638
 Interoperability Resources GoSL Government of Sierra Leone	18478
 Interoperability and Data-Sharing Governance	17394
 Interoperable Cloud Governmental Platform	11869
@@ -5519,12 +5628,14 @@ Key Facts The Gambia Government Cloud	16924
 Key Government Activities and Current Developments	17364
 Key Government Institutions Mozambique	3058
 Key Government Partners	10348
+Key Local Government	19639
 Key Other Government Agencies	17367
 Khartoum State Governor Ahmed Osman Hamza	14998
 Kind Government Counterpart Contribution	11863
 Kingsley Samuel The Federal Government	8627
 Kinshasa Government Steps Foot	3245
 Kissi Kingdoms Slam Bio’s Government Over	7182
+Km Kilometers LGs Local Governments MAAIF	19642
 Know Your Client LGAs Local Government	7763
 Kogi State Government	16796
 Kontagora Local Government Area	14394
@@ -5548,6 +5659,7 @@ LAB’s Governance Innovation Initiative	11909
 LAND ADMINISTRATION AND REGIONAL GOVERNANCE	17228
 LAND GOVERNANCE ISSUES AND CHALLENGES	18619
 LAW DEMOCRATIC GOVERNANCE AND THE RULE	11586
+LC Local Council LG Local Government	19715
 LDCs. Development Partnership The Government of India	16256
 LE Egyptian Pounds LGAF Land Governance	15473
 LEADERSHIP AND GOVERNANCE	16041
@@ -5582,6 +5694,7 @@ LOCAL GOVERNMENT REFORM Objective	11236
 LOCAL GOVERNMENT REFORM PROGRESS Q3 REPORT	11236
 LOCAL GOVERNMENT SERVICE COMMISSION	18467
 LOCAL GOVERNMENT SERVICE The Office	16524
+LOCAL GOVERNMENTS	19647
 LOCAL GOVERNMhisENT AUTHORITIES	19525
 LS. Government	3972
 Laborat01y Management System I. The Government	4260
@@ -5683,6 +5796,7 @@ Link Regional Councils The Government of Namibia	12325
 List of Government Grant Contracts	18488
 List of Government Systems for Integration	15028
 Literature Review of Data Governance	2096
+LoG Local Government MDAs Ministries	19666
 Local Authorities Governance Unit	14738,8
 Local Authorities Governance Unit The Land	14738
 Local Authorities Governance Unit The Local	14738,8
@@ -5695,14 +5809,16 @@ Local Governance Project	16994
 Local Governance Project Jun	16994
 Local Governance and Decentralized Service Delivery	14925
 Local Governmeedn. Nt Service	19525
-Local Government	1778,210,638,1500,1407,339,1035,14,189,1261,228,53,173,2304,107,27,16,272,22,148,139,79,37,10,68,186,291,170,263,6,417,12,19,54,559,643,64,8,28,161,50,34,1144,722,66,19,187,1017,89,30,174,126,26,906,60,17
+Local Government	1778,210,638,1500,1407,339,1035,14,189,1261,228,53,173,2304,107,27,16,272,22,148,139,79,37,10,68,186,291,170,263,6,417,12,19,54,559,643,64,8,28,161,50,34,1144,722,66,19,187,1017,89,30,174,126,26,906,60,17,37,2,26,40,8,95
 Local Government Act	1988,5857,4686,15,83,277,399,34,48,16,1314,3,2,16,4,4,50,2153,2,19,41,128,89,3,157,1060,19,108,2,35
+Local Government Act CAP	19805
 Local Government Act No	13387
 Local Government Act No.2	13387
 Local Government Addressing Committee	11129
 Local Government Addressing Implementation Committee	11129
 Local Government Addressing Teams	11129
 Local Government Administration	11129
+Local Government Administrations	19641
 Local Government Affairs	11129
 Local Government Amendment Act	16951
 Local Government Area	9110,944,1075,5756,400
@@ -5728,6 +5844,7 @@ Local Government Committee	11860
 Local Government Council	11129,847
 Local Government Councils	11129,3806
 Local Government Credit Beneficiaries	7763
+Local Government DRDIP Development Response	19647
 Local Government Department	2104
 Local Government EMIS Oﬃcer National Conference	11860
 Local Government Education Authorities	11860
@@ -5760,6 +5877,7 @@ Local Government M&E	14935
 Local Government MINECOFIN Ministry of Finance and Economic	14935
 Local Government Management Improvement Model MAT	11224
 Local Government Minister Ben Phiri	8741
+Local Government MoPS Ministry of Public Service	19642
 Local Government Ordinance	19525
 Local Government Own Source Revenue	14935
 Local Government Planning and Resource Allocation Enhanced	14935
@@ -5781,11 +5899,13 @@ Local Government Service Commission Act	7845
 Local Government Service IT Infrastructure and Systems	17717
 Local Government Service Scheme	19525
 Local Government Staff	13418
+Local Government Statisticians. The Ministry	19707
 Local Government Structures	16951
 Local Government Studies	5349
 Local Government Supervisor for Finance	11976
 Local Government System	19585
 Local Government Systems	14935
+Local Government The Local Government	19667
 Local Government Training Institute	10346,9239
 Local Government Training Institute Level	19584
 Local Government Training Institute- The Ministry	10346
@@ -5803,17 +5923,22 @@ Local Government and Rural Development	1778
 Local Government-administered	17575
 Local Government. Energy	11245
 Local Government. Table	19585
-Local Governments	2531,7626,972,728,3,116,1442,1471,46,1025,654,271,272,1006,155,294
+Local Governments	2531,7626,972,728,3,116,1442,1471,46,1025,654,271,272,1006,155,294,1027,3,4,1,20,48,27,59,24
 Local Governments Act	17257
+Local Governments Act CAP	19805
 Local Governments Act. Mr Speaker	13387
 Local Governments Authorities	19519
 Local Governments Gender Advocacy Strategy	14925
 Local Governments and Local Council Development Areas	3101
 Local Governments. ANNEX	14935
+Local Governments. ICTs	19633
 Local Governments. Inadequate	14935
+Local Governments. Mr. Kakooza	19798
+Local Governments. The Data Technical Working	19803
 Local Governments. The Nigeria Open Data	11854
 Local Governments’ Own Source Revenues	14935
 Local Government’s National ID Enrolment	11857
+Local Governmnets	19642
 Local Governmpreond	19525
 Local Hosting Government Data Locally	11857
 Local Markets and Securities Au- Government	6938
@@ -5831,6 +5956,7 @@ Ltd. The Chinese Government	343,18
 Luanda Provincial Government	10775,1
 Lucrezia Vittori The Government of Ethiopia	12173
 Luxor Governorate	15473
+Lyantonde Local Government	19641
 M Government	17962
 M Government Environment	7548
 M-60M Government Authority	7548
@@ -5843,11 +5969,15 @@ MANAGEMENT OF GOVERNMENT ASSETS	14773
 MAURITIUS E. Government Finance Statistics	14777
 MCC Environmental Guidelines. The Government	19214
 MCC Governance Guidelines	19214
+MDA Government	19639
 MDAs Department of E Government	12917
 MDAs Department of E- E Government	12917
+MDAs Government Ministries	19715
 MDAs Quick Win Department of E Government	12917
 MDAs and Local Government	12917
 MDAs and Local Government Authorities	19519
+MDAs and Local Governments	19641,101
+MDAs and Local Governments. Use of Non-Traditional Data	19744
 MDAs. Quarterly Government Audit Committee	18577
 MEASURES RELATED TO GOOD GOVERNANCE	7845
 MEDIA GOVERNMENT CITIZEN BUSINESS MANAGEMENT	18454
@@ -5973,7 +6103,7 @@ Migration and Global Governance	8015
 Million Government Printing Press Modernisation Deal	18586
 Million Kent Port Project As Government	18497
 Million Unpaid Government Debt By Joyclyn	5475
-Millions Central Government Debt	10835,3,130,902,16,466,1,135
+Millions Central Government Debt	10835,3,130,902,16,466,1,135,7334
 Min of Local Government	12333
 Minimum Governance Components and Roles	15034
 Mining Sector Governance Support	2889
@@ -6019,9 +6149,11 @@ Ministry for Local Government and Chieftaincy Affairs	11129
 Ministry for Regional Administration and Local Government	19585
 Ministry of Agriculture The Republic of Liberia Government	17274
 Ministry of Annual and Global Governance	7548
+Ministry of Budget. Governance and Anti-corruption	19835
 Ministry of Federal Governance	14897
 Ministry of Finance Federal Government of Somalia	14929
 Ministry of Finance The Federal Government of Somalia	8669
+Ministry of Finance and Economic Development. Government	19664
 Ministry of Finance and Malawi Government	13053
 Ministry of Finance. The Governor	11131
 Ministry of Good Governance and Anti-Corruption	15518
@@ -6034,7 +6166,7 @@ Ministry of Interior and Coordination of National Government	14460
 Ministry of Land and Regional Government	9727,7240
 Ministry of Lands and Regional Government	16867,59
 Ministry of Local Governance	16863,294
-Ministry of Local Government	395,36,546,535,1,1,264,89,53,68,748,199,1,396,1158,1458,2890,1508,2,1827,7,146,5,36,1,43,261,82,249,90,301,22,805,515,8,84,17,88,12,109,23,59,2,68,1,38,381,1239,49,35,19,261,1236,515,126
+Ministry of Local Government	395,36,546,535,1,1,264,89,53,68,748,199,1,396,1158,1458,2890,1508,2,1827,7,146,5,36,1,43,261,82,249,90,301,22,805,515,8,84,17,88,12,109,23,59,2,68,1,38,381,1239,49,35,19,261,1236,515,126,539,15,23,22,28,25
 Ministry of Local Government Act	17139
 Ministry of Local Government Bill	16970
 Ministry of Local Government Figure	17157
@@ -6052,6 +6184,7 @@ Ministry of Local Government and Disaster Risk	14738
 Ministry of Local Government and Disaster Risk Management	14738
 Ministry of Local Government and Inner Islands	11757,7259,80
 Ministry of Local Government and Lands MOU	16951
+Ministry of Local Government and Ministry of Health	19660
 Ministry of Local Government and Public Works	3051,5892
 Ministry of Local Government and Regional Integration	16887
 Ministry of Local Government and Rural Development	1988,3632,771,2407,3841,748,16,20,241,4789,15,36
@@ -6086,6 +6219,7 @@ Models of Smart Government	395
 Moderate. Political and Governance	19284
 Modernise Government Service Delivery Improve	10157
 Modernization of Government Services	15553
+Modernize the Core Government Financial Management Systems	19847
 Modernizing Government for Better Service Delivery UNDP	8861
 Moldova Governance	13331
 Moldova’s Modernizing Government Services	15518
@@ -6237,7 +6371,7 @@ National Data Governance Policy	700,3161,319,403,661,1272,3,273,1178,412,1143,2,
 National Data Governance Policy Date	7970
 National Data Governance Policy Validation Workshop	13223
 National Data Governance Policy and Strategy	3861
-National Data Governance Strategy	3604,364,615,699,143,359,825,160,89,507,3355,719,616,1402,883,1591,799,2405,8
+National Data Governance Strategy	3604,364,615,699,143,359,825,160,89,507,3355,719,616,1402,883,1591,799,2405,8,579
 National Data Governance Strategy Date	6609
 National Data Governance Strategy Guinea	6858
 National Data Governance Strategy and National Data	3058
@@ -6267,6 +6401,7 @@ National Electronic Government Plan. Patrick K	12453,892
 National Evaluation Plan. Government	13060
 National Fintech Governance Committee	6757,130,958
 National Fintech Governance Council	14819
+National Governance	19743
 National Governance Action Plan	16202
 National Governance Framework	12008
 National Governance Framework Design Report	12008
@@ -6328,6 +6463,7 @@ National Unity Government	5862,11429
 National and County Government	14422,124,48
 National and County Governments	6432,7990,124,2326
 National and County Governments of Kenya	12322
+National and Local Government	19715
 National and Regional Government	18485
 National and State Governments	18619
 Nationalities and Peoples. Accordingly Government	13948
@@ -6421,7 +6557,7 @@ OAU Convention Governing the Specific Aspects of Refugee	11628,5799,1010,475
 OBJECTIVES STRATEGIES ACTIVITIES Strengthen Government	12453
 OCGS Chief Government Statistician Dr. Amina	19542
 OCGS Office of Chief Government Statistician SDGs	19555
-OECD Digital Government	12008
+OECD Digital Government	12008,7665
 OECD Digital Government Framework	14752
 OECD Digital Government Index	15713
 OECD Digital Government Policy Framework	14752
@@ -6448,9 +6584,9 @@ OPERATIONAL GOVERNANCE PRINCIPLES	3861
 OPERATIONS The Government	18914
 OSK Minister of Local Government Minister of Arts	14753,88
 OSK Minister of Local Government Statement	14746
-OVERALL GOVERNANCE	10759,78,1050,1,1,263,1,1,9,177,1
+OVERALL GOVERNANCE	10759,78,1050,1,1,263,1,1,9,177,1,7311,1,183
 OVERALL GOVERNANCE SECURITY	10759,1395
-OVERALL GOVERNANCE TREND	10835,3,130,902,16,466,1,135
+OVERALL GOVERNANCE TREND	10835,3,130,902,16,466,1,135,7334
 OVERVIEW AND PURPOSE The Government	12409
 Objectivos O Governo de São Tomé	18801
 Objectivos da Contratação A. Quadro de Governança Digital	11451
@@ -6474,7 +6610,7 @@ One-Stop-Shop Vision The Government of Rwanda	12359
 Ongoing Shareholder Governance and Information	4896
 Online Introduction The National Internet Governance	14428
 Open Data Charter and Open Government Partnership	15714
-Open Government	10785,1069,360,767,1916,1988,563
+Open Government	10785,1069,360,767,1916,1988,563,2193
 Open Government Challenge	17037
 Open Government Culture	14748
 Open Government Data	5244,2,7207,892,1552
@@ -6551,15 +6687,16 @@ Others CF F A RFG Governance	15845
 Outlook WGI Worldwide Governance Indicators	11271
 Outside Government Control	11924
 Outside the Camp Government	17971
-Overall Governance	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135
+Overall Governance	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
 Overall Governance African	10759,1395
 Overall Governance Benin’s Overall Governance	10835
 Overall Governance Burkina Faso's Overall Governance	10838
 Overall Governance Cameroon’s Overall Governance	10968
+Overall Governance Comoros's Overall Governance	19822
 Overall Governance Eswatini's Overall Governance	12352
 Overall Governance Kenya's Overall Governance	12152
 Overall Governance Nigeria’s Overall Governance	11886
-Overall Governance Overall Governance	10835,2,1,130,902,16,3,274,178,11,1,135
+Overall Governance Overall Governance	10835,2,1,130,902,16,3,274,178,11,1,135,7334
 Overall Governance South Africa's Overall Governance	11870
 Overall Governance System Figure	17011
 Overall Governance While Cabo Verde's Overall	11889
@@ -6567,7 +6704,8 @@ Overall Governance While Zimbabwe's Overall Governance	12488
 Overall Governance Zambia’s Overall Governance	12353
 Overall Governance and Sectoral Interventions	17011
 Overall Governance and Sectoral Interventions Governance	17011
-Overall Governancep.7 Category	10838,1032,482,136
+Overall Governancep.7 Category	10838,1032,482,136,7334
+Oversight of Government Payments	19664
 Overview The Government of Sierra Leone	18482
 Overview The Government of Zimbabwe	13502
 Overview of Government Fiscal Operations	17235
@@ -6584,6 +6722,7 @@ P177468 Governance PforR	15659
 P2 Governance	6937
 P2G Benin Economic Governance for Service Delivery	10870
 PA Project Account PAGDS Enhancing Government	3604
+PAGEF Economic and Financial Governance Project	19847
 PAGGF Management and Land Governance Project PASEC	13312,2
 PART II LOCAL GOVERNMENT AREAS	19525
 PART III ADMINISTRATION AND GOVERNANCE	19564
@@ -6594,6 +6733,7 @@ PART VI. APPLICATION TO GOVERNMENT	16832
 PARTNERS AT CORE The Government	16973
 PARTY IS GOVERNMENT MINISTRY	16832
 PBC Governorates	16079
+PDCA Model for Information Security Governance	19801
 PERCENTAGE OF GENERAL GOVERNMENT EXPENDITURE	16892
 PERFORMANCE METRICS AND GOVERNANCE MATURITY INDICATORS	3861
 PERSONAL GOVERNMENT OF LIBERIA CENTRAL BANK	17235
@@ -6655,7 +6795,7 @@ Parliamentary and Local Government Elections	4609
 Part Three Form of State Governance	16847
 Part of National Vision. Eﬀective Government	958
 Participants. The Government of Uganda	4217
-Participatory Governance	7313,3446,76,2,1,130,317,585,16,1,1,1,264,1,9,177,1,11,1,135
+Participatory Governance	7313,3446,76,2,1,130,317,585,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
 Participatory Governance Participatory	7313
 Parties Government	12201
 Parties. Ls Governing Law	3972
@@ -6682,6 +6822,7 @@ Performance of Government	16885
 Permanent Secretary Local Authorities Governance Unit	14746
 Permanent Secretary of Local Government	12338
 Permanent Secretary of Local Government Members	15056
+Person GoU Government of Uganda ID Identification	19647
 Personal Folio Paper-based Real Folio Governing	15473
 PforR Feature Government	17458
 PforR Government	11905
@@ -6705,6 +6846,7 @@ Pilares da Governação Cabo Verde	16487
 Pillar Key Recommendations Government Establish	14674
 Plan FGS Federal Government of Somalia FMS	14896
 Plan GRN Government	12399
+Plan LG Local Government LPG Liquefied	19646
 Plan and Governance	11131
 Plan and Governance Financial Technology Development	11131
 Plan for Government of Mauritius	14750
@@ -6731,6 +6873,7 @@ Poder Judicial. O Governo	16487
 Points. Government of Cybersecurity	1777
 Policies Around Common Governance Principles	965,3804,120,206,68,334,86
 Policies and Governance and Planning Formal	15164
+Policy Context The Government of Uganda	19801
 Policy Objectives The Government	16872
 Policy Objectives The National Data Governance	5244
 Policy Objectives This Government Cloud	16924
@@ -6740,7 +6883,7 @@ Policy Prescription The Government	5244
 Policy Prescriptions The Government	5244
 Policy Prescriptions The Government of Liberia	5244
 Policy Statement Government	11860
-Policy Statement The Government	16861
+Policy Statement The Government	16861,2785
 Policy Statement The Government of Sierra Leone	18454
 Policy and Governance	7696,7247,2078,136
 Policy and Governance Framework	11195
@@ -6750,7 +6893,7 @@ Policy-Driven Electronic Governance	10840,7927,7
 Policy. The Federal Government	10157
 Political Economy of Digital Governance	6562
 Political Party Governance and Internal Democracy Beyond	16574
-Political and Governance	969,898,845,892,1084,1851,4229,61,41,94,453,108,35,295,110,211,264,618,273,1,588,990,27,39,55,487,35,68,37,486,254,307,1199,200,94,95,8,476,32,436,39
+Political and Governance	969,898,845,892,1084,1851,4229,61,41,94,453,108,35,295,110,211,264,618,273,1,588,990,27,39,55,487,35,68,37,486,254,307,1199,200,94,95,8,476,32,436,39,359,192,12
 Political and Governance High	15190
 Political and Governance Moderate B. Overall Risk	15411
 Political and Governance Substantial	11380,525,3756
@@ -6773,6 +6916,7 @@ Practical Guide.42 Governments	11004
 Practice GRC Governance Risk and Compliance HIPO	11250
 Pre-primary Education The Government	15604
 Preamble The Government	15714
+Preamble The Government of Botswana	19677
 Preamble The Government of Lesotho	12680
 Preamble The Government of Sierra Leone	18537
 Preamble The National Code of Corporate Governance	14736
@@ -6875,6 +7019,7 @@ Promotion of Good GovernanceMr. ARONA SARR	18305
 Promoção da Governação Electrónica	15
 Property Rights and Resource Governance	15473
 Proportion of Government	12453
+Proportion of Local Governments	19639
 Proportionate Governance Expectations	14565
 Proposal for RIR Governance Document	3503
 Proposed Digital Health Governance Structure	18478
@@ -6890,8 +7035,10 @@ Prospects for Global AI Governance. In M	11135
 Prospects. Transforming Government	12467
 Prosus AI Governance	8272
 Prosus AI Governance and Policy Symposium	8435
+Protection G2P Government	19647
 Protection Regulation G2B Government-to-Business	14790
 Protection of Government	12894
+Protects Government Systems	19755
 Provide Government	14023
 Providing Government Service Centers Program	15578
 Provincial Government Cache Data Centres	13345
@@ -7025,6 +7172,7 @@ Rating Political and Governance	1284,15612,26
 Rationale The Government	14441
 Rationale for The Gambia Government	16924
 Rationale for The Gambia Government Cloud Policy	16924
+Rationalisation of Government Agencies	19646
 Readiness and Governance Survey	8240
 Reaffirms Commitment To Inclusive Governance	18546
 Reaffirms Government’s Commitment To Enabling Private	4114
@@ -7111,12 +7259,14 @@ Representing Governor Babajide Sanwo-Olu	17660
 Representing Katsina State Governor Dikko Radda	5765
 Representing Lagos State Governor Babajide Sanwo-Olu	17571
 Representing the Governor	7815
+Republic of Congo E-GP Electronic Government Procurement	19633
 Republic of Kenya. The U.S. Government	4154
 Republic of Liberia Government	17047
 Republic of Liberia Government Rejects Misused of Diplomatic	17320
 Republic of Zambia G2B Government	13308
 Republic’s Overall Governance	10837
 Research Department. The Governor	15023
+Research and Innovation Government	19642
 Reserve Bank Of Zimbabwe Governor	5222
 Reserve Bank of Malawi. The Malawi Government	13053
 Reserve Bank of Zimbabwe Governor Mushayavanhu	13562
@@ -7279,6 +7429,7 @@ STRENGTHEN MECHANISMS FOR RELIABLE LOCAL GOVERNMENT	14935
 STRENGTHENING SOE GOVERNANCE Approximately	1810
 STRONG COUNTRY-LED GOVERNANCE OF DATA National	16892
 STRONG TELCO AND CARRIER-NEUTRAL GOVERNMENT PRESENCE	10861
+STUDY OF GOVERNMENT PAYMENT MECHANISMS	19647
 SUMMARY OF GOVERNMENT ICR	16952,897
 SUMÁRIO EXECUTIVO O Governo de Angola	11406
 SUPREME DATA GOVERNANCE AUTHORITY	3861
@@ -7296,6 +7447,7 @@ Satellite Town and Alimosho Local Government Area	10742
 Satisfactory Government	16614,2140
 Schedule AGREEMENT BETWEEN THE GOVERNMENT	13326
 Schedule GOVERNMENT OF ZAMBIA ACT No	13496
+School Governance Body	19783
 School Management and Governance	18460
 School Of Public Service and Governance Dept	10123
 School of Government	6432,1116
@@ -7322,6 +7474,7 @@ Sectoral Data Governance Bodies and Specialization	3861
 Secure Digital and Resilient Future Government	14752
 Secure Govermment Communications	1786,1417,3881
 Secure Government and Regulated Data Proportionately Apply	10157
+Security Governance	19801
 Security and Acting Leader of Government Business	13387
 Security and Governance	5825,6127
 Security and Governance Requirement	11952
@@ -7331,13 +7484,14 @@ Security of Government	14858
 Secção II Governador	18800
 Segmentation of Government Wide Area Network	12453,892
 Selected Government Ministries	12491
+Selected Government Programs	19715
 Selibe Phikwe Government Hospital	12639
 Semi-Autonomous Government Agencies	14546
 Senegal Advances Digital Governance	3612
 Senegalese Government	1425,16868,8
 Senior Digital Governance and Service Management Consultant	4766
 Senior Director and Head of Government Affairs	3987
-Senior Governance Specialist	761,10784,322,7064
+Senior Governance Specialist	761,10784,322,7064,908
 Senior Government	14295,228,2326,303
 Senior Government Officials	12660
 Senior Government Officials Their Excellencies	10210
@@ -7482,6 +7636,7 @@ Standard. At the Local Government	11129
 Standard. Every Local Government Area	11129
 Standards Council of MSB The Corporate Governance	14736
 Standards GSCID Governance	11986
+Standards Integration Flow Security Governance Personnel	19801
 Standards and Governance	14441
 Standards and Guidelines for Government Websites	12881
 Stanley Government School	14845
@@ -7555,7 +7710,7 @@ Strengthen National Digital Innovation Policy and Governance	18480
 Strengthen Payment System Governance	17188
 Strengthen Payment System Governance URL	17188
 Strengthen Personal Data Protection and Digital Governance	4713
-Strengthen Public Expenditure Management and Core Government	13910
+Strengthen Public Expenditure Management and Core Government	13910,5937
 Strengthen the Governance of Public Enterprises	18825
 Strengthened SOE Governance	18825
 Strengthening Congolese Govern-	15901
@@ -7624,6 +7779,7 @@ Swaziland Government Gazette	12910
 Sweden Government	13896
 Swiss Government	1596
 Synchronization of Visions of Government	12917
+System E-GP Electronic Government Procurement ERP	19660
 System G2P Government-to-Person GB Gigabyte GDP	969
 System GWM&E Government Wide Monitoring and Evaluation	11224
 System GoT-HoMIS General Conditions of Contract Government	19585
@@ -7679,6 +7835,7 @@ Technology Governance	11138,1281
 Technology Governance Artificial	11138
 Technology Governance Ecosystem Coordination AI	11138
 Technology Governance Real-time	11138
+Technology MIX Government	19633
 Technology Towards Connected Government	19533
 Telecom Providers and Government	16975
 Telecom Towers The Federal Government	9362
@@ -7732,6 +7889,8 @@ Transitional Government.392	3583
 Transparency Digitize Government Processes	17260
 Transparency and Governance	10852
 Transparency and Governance Capacity Building Project	15372
+Transparent Government Systems	19839
+Treasury Directorate. Government	19847
 Trend Overall Governance	10837,1315,188,1
 Tropical Forest Alliance and Government of Norway	16848
 Trust Data Governance and AI	14752
@@ -7750,12 +7909,13 @@ Tópicos Governo Agenda Digital	16347
 U S E R GOVERNMENT	14752
 U. S. Government	4301
 U.5. Government	3972
-U.S Government	3972,181,148,48,6364,7822
+U.S Government	3972,181,148,48,6364,7822,1194
 U.S Government Thematic Area	4301
-U.S. Government	3972,77,104,1,10,1,2,35,10,5,5,25,13,6,35,1,26,21,9,68,926,198,223,761,4179,61,1492,3135,1,1708,1425,994
+U.S. Government	3972,77,104,1,10,1,2,35,10,5,5,25,13,6,35,1,26,21,9,68,926,198,223,761,4179,61,1492,3135,1,1708,1425,994,200
 U.S. Government Access	4154
 U.S. Government Accountability Office	17364
 U.S. Government Ambassador Richard M	4301
+U.S. Government Ambassador William W. Popp	19729
 U.S. Government CHARGE D' AFFAIR	4247
 U.S. Government Chief of Mission United	4202
 U.S. Government Commodity Funding	4217
@@ -7815,6 +7975,7 @@ U5. Government	3972
 U5. Goverriment	3972
 UCL Applied Governance for Digital Public	11007
 UHIS6. The Government	15977
+UICT's Governing Council Chairperson	19725
 UK GOVERNMENT	14753
 UK Government	899,344,1421,1595,1441,4353,951,13,118,722,45,62,892,1817,77,2173
 UK Government's Digital Access Programme	8161,1892
@@ -7882,7 +8043,8 @@ USD. Central Government Debt	11888
 UU. S. Government	3972
 Uganda Digital Government Strategy	963
 Uganda For the Government of Uganda Minister of Finance	4217
-Uganda Government	4217
+Uganda GOVNET Government Networks IAC Information	19660
+Uganda Government	4217,15462,107
 Uganda Internet Governance Forum	10066
 Uganda Internet Governance Week	10066
 Uganda Parliamentary Internet Governance Forum	10066
@@ -7892,7 +8054,8 @@ Uganda Youth Internet Governance Forum	10066
 Uganda's Minister of Local Government	8410
 Uganda. II. The Government of Uganda	4217
 Uganda. The U.S. Government	4217
-Ugandan Government	10822
+Ugandan Government	10822,8844,13
+Ugandan Government. Gifting of Bhabhatron Cancer Therapy	19632
 Ultimately Government	12175
 Um Governo	16083
 Under Governance	13005
@@ -7900,6 +8063,7 @@ Under Governor Ododo	16796
 Under the Digital Governance	15590
 Under the Digital Governance Plan	11873
 Under the Government	13123
+Under the Government Network	19660
 Understanding Africa’s AI Governance Landscape	6603
 Unidade de Governação Elec	18767
 Unidade de Governação Electrónica da Universidade	18772
@@ -7926,7 +8090,7 @@ United Nations Global AI Governance Dialogue	7103
 United Nations Internet Governance Forum	18674
 United Nations Open Government Index Governo	11569
 United States Federal Government	16219
-United States Government	3583,718,1472,5001,1832,148,369,944,75,3147,127,1798
+United States Government	3583,718,1472,5001,1832,148,369,944,75,3147,127,1798,515,42
 United States Government Accountability Office	19214
 United States Government-supported	5773
 Unity OGDI Open Government Data Initiative	13295
@@ -7945,6 +8109,7 @@ Us Leadership Governing Board Management Services	9109
 Usage of Online Government Services	16975
 Use for South African Government	1009
 Use of Government Media Outlets Article	15393
+Use the Government Data Centre	19639
 Utilities. The Government of Sierra Leone	18537
 V. GOVERNANCE AND MONITORING Determined	15939
 V. Government	3583
@@ -8002,6 +8167,7 @@ Webmail The Ministry of Information Government	16961
 Weekly Government Updates	17105
 West Africa Internet Governance Forum	18510,1,6,10,17
 West Bank and Gaza Data Governance Framework	4214
+West Nile District Local Governments	19647
 West and East Africa.14 Government-owned Camtel	15480
 Western Area. Government Advances Universal Health	18582
 Western Cape Government	8564,1227,1462,34
@@ -8061,7 +8227,7 @@ World Health Organization. FOREWORD The Government	12403
 Worldwide Gover	18767
 Worldwide Governance Index	18767,5
 Worldwide Governance Index. Estes	18772
-Worldwide Governance Indicators	8075,4594
+Worldwide Governance Indicators	8075,4594,7178
 Worldwide Governance Indicators DATA SHEET RESTRUCTURING	13861
 X Government	16848
 X. The U.S. Government	4217

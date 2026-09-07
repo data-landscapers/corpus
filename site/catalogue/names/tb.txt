@@ -79,6 +79,7 @@ Laboratory Commodity TB Lab Commodities HIV	4217
 Large TBD ETFs	14997
 Le TBFS	737
 Lesotho TB National Prevalence Survey	12678
+Lwengo and Ntungamo. To Attend TB	19641
 MDR TB	16971
 MW Equinix TBD Abidjan In Construction	10861
 MW TBD Abidjan	10861
@@ -199,6 +200,7 @@ TB NVMe SSDs	13185
 TB National Strategic Plan	10776
 TB Notification	19544
 TB Prevention	14434
+TB Project	19641
 TB RAM	12253
 TB Referee	19226
 TB SAS	12681
@@ -299,7 +301,7 @@ TBS. Cela	18014
 TBS. Email	11654
 TBS. Under	5116
 TBSI Tableau de Bord de Suivi des Indicateurs TdC	10712
-TBT Agreement	14736
+TBT Agreement	14736,4976
 TBT Annex	13320
 TBT Enquiry Point	13320
 TBT NEP	14736
@@ -350,8 +352,9 @@ Urgence Complets TB Tuberculose ViH Virus	15711
 V Namibia-Botswana Interconnector TBD No Pre-Feasibility	12399
 V TECHNO SYSTEM TB	16623
 Video Surveillance Package TBA	1988
-WTO TBT	1988,11046,286,4113
-WTO TBT Agreement	13320
+WDUS TBS	19749
+WTO TBT	1988,11046,286,4113,2316
+WTO TBT Agreement	13320,6392,18
 WTO TBT Committee	13320
 WTO TBT Enquiry Point for The Gambia	16900
 World TB Day	2626

@@ -95,7 +95,8 @@ ET D’ADMINISTRATION DES ENTREPRISES ESCEP ECOLE	18143,27
 ET INFORMATIQUE ESTEL-CATEF ECOLE SUPÉRIEURE PRIVÉE	18170
 ETUDES COMMERCIALES ET FINANCIERES HEGEPRINE ECOLE	18170
 ETUDES MÉDICALES EMIG ECOLE DES MINES	18170
-Ecolabelling	13385
+Ecolabeling	19749
+Ecolabelling	13385,6364
 Ecole	3465,4205,401,198,52,1570,1706,1744,1279,775,61,33,53,13,28,107,30,222,59,249,37,57,276,7,1234,2,98,21,21,235,48,5,33,433,230,129,105,29,138,59
 Ecole Article	17982
 Ecole Expert Génie Informatique Licence Générale	17829
@@ -126,6 +127,7 @@ Ecole Normale de Toulouse	17873
 Ecole Pay	10942,1
 Ecole Polytechnique de Lomé	19246
 Ecole Pré-Universiteur	18757
+Ecole Quartier	19840
 Ecole Républicaine	17979
 Ecole S	18291
 Ecole Superielle	18757
@@ -144,6 +146,7 @@ Ecole Supérieure de Gestion	17829,16
 Ecole Supérieure des Communications Electroniques	18122
 Ecole Supérieure des Hautes Etudes Licence Pro	17829
 Ecole Technique	18757
+Ecole de Balbala III	19840
 Ecole de Commerce	15936
 Ecole de Franceville	16001
 Ecole de Mouila	16001
@@ -271,6 +274,9 @@ Suivi Ecolo	15366
 Suivi Ecologique	15366
 Suivi Ecologique Proviennent	15366
 Suivi Ecologique. Article	15366
+Sustainability and Ecolabelling	19749
+Sustainability and Ecolabelling Requirements	19749
+Sustainability and Ecolabelling Requirements DUS	19749
 Tabela Geral da Taxação Ecológica Utilização de Combustíveis	17100
 Taxa Ecológica	17100
 Transition Ecologique	3045,12667,45,179

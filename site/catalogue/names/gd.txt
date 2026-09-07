@@ -61,7 +61,7 @@ Conventional GDP	16996
 Croissance GDBM	15685
 Current GDP	18483
 Current Prices GDP	18483
-Current USD GDP	10835,3,130,902,16,466,1,135
+Current USD GDP	10835,3,130,902,16,466,1,135,7334
 DFS EFT FCP FSDS FSAP GDP	12701
 DGDVWUR GD	11527
 DPI. GDN	10852
@@ -80,6 +80,7 @@ Digitalisation du GDT	14622
 Direction Générale des Grands Travaux GDP Directorate	15372
 Directorate of Energy Resources GDP Gross Domestic	15515
 Distribution of GDP	11524
+Djibouti GDP Nominal Value US	19847
 Domestic Economic Developments GDP Developments Eswatini	11131,3
 Domestic Product GDPR General Data Protection	10781,80,1566,2055
 EAF Energy Availability Factor GDP Gross	11228
@@ -96,7 +97,7 @@ ESI ESP FGS FMS FOB GDP	11136
 EU European Union GDPR General Data	14434
 EU GDP	13532
 EU GDPR	961,282,104,1377,82,750,4880,5692,306,299,79
-EU's GDPR	1652,11023,2562,3256
+EU's GDPR	1652,11023,2562,3256,1266
 EU’s GDPR	961,2331,2201,850,5929
 Early Childhood Development GDP Gross Domestic	12512
 Economic Co-operation and Development GDPR General Data	6936
@@ -242,7 +243,7 @@ GDP FDI	10969
 GDP FSDS Results Indicators Units Baseline	14997
 GDP Figure	15063
 GDP Financing Agreement GNI Gross Domestic	11855
-GDP GDP	10835,3,130,902,14,2,319,146,1,1,135,3116
+GDP GDP	10835,3,130,902,14,2,319,146,1,1,135,3116,4218
 GDP GEMS GHG GIL GRM GRS	15658
 GDP GERD	12351
 GDP GFDRR GoA Senior Health and Community	10763
@@ -251,7 +252,7 @@ GDP GSMA GUOT HCI HEIS ICB	15553
 GDP Global	12205,146
 GDP Graduates	11885
 GDP Gross	11380,505,4998,1
-GDP Gross Domestic Product	11965,821,5828
+GDP Gross Domestic Product	11965,821,5828,1233
 GDP Gross Domestic Product GDUPD General	15473
 GDP Gross Domestic Product GEF Global	7548
 GDP Gross Domestic Product GEI Global	17870
@@ -263,6 +264,7 @@ GDP Gross Domestic Product GTS Sector	13731
 GDP Gross Domestic Product GoCAR Government	18887
 GDP Gross Domestic Product GoG Government	15511
 GDP Gross Domestic Product GoL Government	17289
+GDP Gross Domestic Product HCM Human	19633
 GDP Gross Domestic Product ICI Djibouti	13836
 GDP Gross Domestic Product Telecommunications of Equatorial	16942
 GDP Grows	8466
@@ -294,7 +296,7 @@ GDP PPP	4840
 GDP Per	2775
 GDP Per Capita	17503
 GDP Per Capita Data	18931
-GDP Population	10837,1052,265,186,1
+GDP Population	10837,1052,265,186,1,7495
 GDP Production	11884
 GDP Public	15604
 GDP QS	10969,915,321,146
@@ -316,7 +318,7 @@ GDP Table	19038
 GDP Tax	17209
 GDP Total PPG	18851
 GDP Transport	5245
-GDP US	12500
+GDP US	12500,7347
 GDP Unicorn	10969
 GDP Unit	12321
 GDP VAT	12948
@@ -333,6 +335,7 @@ GDP and ICT	5245,5611,3818
 GDP and Inequality Adaptation	1828
 GDP and KSH	1923
 GDP and US	14897
+GDP and USD	19807
 GDP for GLF	17105
 GDP for Senegal	18318
 GDP for Sierra Leone	18483
@@ -346,7 +349,7 @@ GDP of Germany	999
 GDP of Ghana	236
 GDP of Sub-Saharan Africa	2775,8420
 GDP of US	1264,9555,6192,2228
-GDP of USD	14043
+GDP of USD	14043,5603
 GDP of Zimbabwe	9396
 GDP--ten	10985
 GDP-P	18483
@@ -526,6 +529,7 @@ GDS ORION	10975
 GDS Orion Licence Dossier	10975
 GDS.aspx da Silva	8603
 GDS1 Issued	8166
+GDSSCF	19679,72,1
 GDST and DGTED	12008
 GDST and UGPE	12008
 GDT P1	18291
@@ -570,6 +574,7 @@ Global GDP Uplift	15713
 Government GAC General Auditing Commission GDP	16949
 Government GDP	14879,1993
 Government GDP Gross	16885
+Government Infrastructure FY Financial Year GDP	19642
 Government-to-Business GDP	5244
 Grant Agent GDP	12175
 Green Climate Fund GDA Governance Diagnostic	17105
@@ -665,6 +670,7 @@ Percentage of GDP	14896,515,3414,777
 Percentages GDP	18483
 Person GDP Gross Domestic Product GDPR	12663
 Person GDP Gross Domestic Product GEI	16876
+Population and GDP	19646
 Present Value GDP Gross Domestic Product	19239
 Press. GDP	18483
 Prices GDP	18483
@@ -686,7 +692,7 @@ Ratio GDP Global Partnership for Education GER	11905
 Rationale for Rebasing the GDP Estimates	18483
 Rationale for Rebasing the GDP Estimates Rebasing	18483
 Ready For Service GDPR General Data	3184,1,1340,6470
-Real GDP	940,888,947,762,1710,408,2040,3086,353,2,135,198,55,57,680,166,1441,233,381,415,88,38,13,336,232,429,940,23,15,94,33,71,26,22,69,38,94,45,367,39,81,273,38,476,74,187,369
+Real GDP	940,888,947,762,1710,408,2040,3086,353,2,135,198,55,57,680,166,1441,233,381,415,88,38,13,336,232,429,940,23,15,94,33,71,26,22,69,38,94,45,367,39,81,273,38,476,74,187,369,243,197
 Real GDP Gini	1828
 Real GDP Growth	940,1835,2880,6202,1675,153,3311,239,268,1535
 Real GDP Growth Demand Contribution	17503
@@ -757,6 +763,7 @@ US GDP	8126
 US Stored Communications Act and GDPR	10088
 USA. GDPR	15472
 USD GDP	11572,689
+Uganda's GDP	19643,113
 Under the GDPR	7081,1355,1551
 Union FDI Foreign Direct Investment GDPR	12675
 Union GCI Global Cybersecurity Index GDP	14897

@@ -1,6 +1,6 @@
 Abstract GovTech	13847
 Advancing GovTech Reforms	11867
-Africa GovTech Data Year	13984
+Africa GovTech Data Year	13984,5689
 Applications Govtech	17896
 Arsenal for Martinelli Osun Govt	10620
 B Significant GovTech Maturity C Medium	10785
@@ -14,7 +14,7 @@ D. GOVTECH MATURITY INDEX	10785
 DJI GovTech	1278
 Department Head Works Micro.pr Govt	13093
 Digital Citizen Engagement and GovTech Enablers. Tanzania	4612
-Djibouti's GovTech	1278
+Djibouti's GovTech	1278,18561
 EU European Union GTMI GovTech Maturity	13861
 Education Govt	4028
 Expert GovTech	12043
@@ -32,24 +32,24 @@ General Data Protection Regulation GovTech Government	12675
 Give Nigerian Govt Sweeping Powers Over	7458
 Global GovTech	10785
 Gov. GovTech Cameroun	10992
-GovTech	157,604,233,290,109,703,153,465,25,77,1516,420,169,18,403,179,75,965,1130,29,1141,1101,823,181,174,429,298,73,1008,383,244,1,271,137,339,17,226,108,78,67,628,103,701,691,238,690,506,1030
+GovTech	157,604,233,290,109,703,153,465,25,77,1516,420,169,18,403,179,75,965,1130,29,1141,1101,823,181,174,429,298,73,1008,383,244,1,271,137,339,17,226,108,78,67,628,103,701,691,238,690,506,1030,433,8
 GovTech Approach	11867
 GovTech Cameroun	10992
-GovTech Case Studies	994
+GovTech Case Studies	994,18845
 GovTech Centre of Excellence	11940
 GovTech Challenge	9434
 GovTech Data Dashboard	11867
 GovTech Dataset	11867
 GovTech Enablers	10785,784,298
 GovTech Enablers Dedicated	11867
-GovTech Enablers Index	10785,1082,2117
+GovTech Enablers Index	10785,1082,2117,5689,166
 GovTech Enablers Index GovTech Focus Areas	10785
 GovTech Entity I-33	10785
 GovTech Focus Areas	11867
 GovTech Focus Areas The GTMI	11867
 GovTech GTMI	11569
 GovTech Global Initiative	15553
-GovTech Global Partnership	11867
+GovTech Global Partnership	11867,7972
 GovTech GovTech	17870
 GovTech Hackathon	12391
 GovTech I-40	10785
@@ -62,7 +62,7 @@ GovTech Launch Report	15518
 GovTech Leaders	11867
 GovTech Maturity	10785,1082,5075
 GovTech Maturity D Low GovTech Maturity	10785
-GovTech Maturity Index	4752,210,6607,298,4179,28,128,740,7,921
+GovTech Maturity Index	4752,210,6607,298,4179,28,128,740,7,921,1803,78,88
 GovTech Maturity Index Average GTMI	10785
 GovTech Maturity Index Components for Liberia	16949
 GovTech Maturity Index Regional Brief	11867,5075
@@ -104,6 +104,7 @@ Govt Orders Temporary Public Internet Shutdown	4608
 Govt Plans Drug Rehabilitation Centre	7312
 Govt Power Sector Action Plan	1230
 Govt Pushes for Unified Digital Systems	6077
+Govt Role	19641
 Govt Signals Social Media Clampdown	4175
 Govt Tells Meta To Align Policies	9640
 Govt Tells Tech Firms	11611
@@ -178,9 +179,9 @@ W2 GovTech Enablers Index	10785
 WB GovTech Case Study	1393
 WB GovTech Operations	1278
 WBG GovTech Maturity Index	10785
-World Bank GovTech	1393,3844
+World Bank GovTech	1393,3844,14436
 World Bank GovTech Case Study	1393
-World Bank GovTech Maturity Index	2662,2090
+World Bank GovTech Maturity Index	2662,2090,15087
 World Bank GovTech Operations	1278,12569
 World Bank's GovTech Dataset	11867
 World Bank's GovTech Initiative	11867

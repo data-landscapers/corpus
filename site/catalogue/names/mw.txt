@@ -59,6 +59,7 @@ COMPRAS DE ELECTRICIDADE MWh	18793
 CONGRATULATIONS Mr. Mweemba Wilber Hachiita Manager-ICT	13477
 CONSUMOS E PERDAS NAS CENTRAIS MWh	18793
 COOPEC MWARO	13390
+COST PER MW	19646
 CPA Patrick Mwati	6946
 CPF Mwamba Trust Fund Data Controller	7167
 CPF Mwamba Trust Fund Data Processor	7167
@@ -70,6 +71,7 @@ Caroline Mwikali	7990
 Carolyne Mwikali	9547
 Carolyne Mwikali Trust	9547
 Carrières MVA Mégavolt-Ampères MWc Mégawatt	15769
+Category MW	19646
 Centrais Hidroeléctricas MW	18793
 Centrais Hidroeléctricas MWh	18793
 Centrais Termoeléctricas MW	18793
@@ -100,6 +102,7 @@ Daniel Mwewa	7191
 David Mutale Mwila Planner	13392
 David Mwale District Commission	13392
 David Mwale John Account Office	13392
+David Mwanje	19764
 De Exploração Produção Eletricidade MWh	18793
 Development Project MCCCCL Mwanza City Commercial	19585
 Dickson Mwenda Kithinji	14460
@@ -146,6 +149,7 @@ Eng. Peter Mwasalyanda	19581
 Engineer Peter Mwasalyanda	6728,2286
 Engr. Kezias Kazuba Mwale of Zambia	7883,1
 Engr. Mwale	7884
+Enock Mwami	19647
 Entity Mwanza CC	19584
 Ernest Mwebaze	3726
 Evidence Mwende	13397
@@ -178,6 +182,7 @@ Harry Mwaanga Nkumbula	12376
 Higher Education Indaba By Mweemba Milimo	13477
 Hilda Mwangakala	17751
 Homa Bay News Linda Mwananchi	9940
+Hon. Dr. Canon Ruth Nankabirwa and Mwesigwa	19705
 Hon. Dr. Joseph Mwanamvekha	9820
 Hon. Dr. Mwigulu Lameck Nchemba	19519
 Hon. Dr. Mwigulu Lameck Nchemba Madelu	19534,7
@@ -206,6 +211,7 @@ Jack Mwiimbu	2707,727
 James Mwangi	7073,7157
 James Mwikya	6948
 James Mwikya Reuben	6948
+Jane Kyarisiima Mwesiga	19756
 Jason Mwanza	9082
 John Mwakangale Grounds	9454
 John Mwale	13199
@@ -227,6 +233,7 @@ KWA MWAKA	2868
 KWA MWAKA WA FEDHA	19565
 KWA MWAKA WA FEDHA WA	6019
 Kamishna Msaidizi Mwandamizi	19517
+Karusi and Mwaro	19700
 Katebe Mwambegere. Management	19585
 Katika Mwaka	2868,3151
 Kayanza Kirundo Makamba Muramvya Mwaro Sexe	13442
@@ -294,13 +301,15 @@ MW Available	16966
 MW Average Available Capacity	12062,6124,31
 MW BAS-UELE P.i	15670
 MW BASCULEMENT	14479
-MW BESS	18947
+MW BESS	18947,730
 MW BQ	11236
 MW Battery Energy Storage System	14745
 MW Biomass	12399
+MW Bobonong	19677
 MW Busanga	15670
 MW By Royal Ibeh	8045
 MW CAPACITY PER MILLION POPULATION	10861
+MW CBM	19677
 MW CIE	16978
 MW Capacity	10781
 MW Cape Town	1404
@@ -408,6 +417,7 @@ MW Madagascar	14482
 MW Mansa	5247
 MW Mar Apr Dec Annual	11953
 MW Maryland	16978
+MW Matshelagabedi	19663,14
 MW Mega Watt O&M Opérations	18316
 MW MegaWatt NNI Numéro National	17907
 MW Megawatt	18614,6
@@ -416,8 +426,14 @@ MW Megawatt NEP National Electrification Program	12233
 MW Megawatts	14947
 MW Miniers	15799
 MW Mix	13433
+MW Mmadinare	19677
+MW Mmadinare Solar PV	19677
 MW Mmadinare Solar Plant	12609
 MW Mobilisation	13433
+MW Morupule	19663,14
+MW Morupule B	19663,14
+MW Morupule B. Additional	19677
+MW Morupule B. Botswana	19677
 MW Mount Coffee	17198
 MW Moyamba	18566
 MW Mpatamanga Hydro	13060
@@ -440,6 +456,7 @@ MW Nxtra	8045
 MW Omburu Battery Project Last	13139
 MW Onboarding	15149
 MW Operational	15149
+MW Orapa	19663,14
 MW Oromia	4591
 MW Owendo Phase	16037
 MW P	15670
@@ -476,10 +493,11 @@ MW Salima Solar PV	13060
 MW Santiago	15983
 MW Schweppes Zimbabwe	6492
 MW Sediba	14673
+MW Shakawe	19677
 MW Siavonga	5247
 MW Sidi Bouzid II	19488
 MW Sintoukola Potash	15799
-MW Solar	16966
+MW Solar	16966,2711
 MW Solar Mini-grid Project. While the ICS	14080
 MW Solar PV	16966
 MW Solar PV Farm	14745
@@ -532,10 +550,11 @@ MW for IPPs	12399
 MW for RDH	1956
 MW for Rusumo Networks	12358
 MW of BESS	12399
+MW of Battery Energy Storage Systems	19663
 MW of CSP	11953
 MW of Digital Resilience Liquid Zimbabwe	6909
 MW of Medium Speed Diesel	12256
-MW of RE	12399
+MW of RE	12399,7278
 MW of Renewable Energy and Next-Generation AI Compute	3049
 MW-PPPC-	13185
 MW-PPPC-494042-GO-RFB Project	13185
@@ -567,6 +586,7 @@ MW. Electricity	12256
 MW. Elle	19341
 MW. En	15799
 MW. Ends	14667
+MW. Expanding	19646
 MW. Face	14765
 MW. Figure	12256
 MW. Founded	2994
@@ -575,6 +595,7 @@ MW. Generally	718
 MW. Given	14765
 MW. Government	18537
 MW. Government of Sierra Leone	18537
+MW. Households	19646
 MW. Hydropower	14947
 MW. In the Gas and Downstream Petroleum	718
 MW. Integrating	11136
@@ -595,6 +616,7 @@ MW. PILLAR II ADOPT DISTRIBUTED RENEWABLE	18795
 MW. PILLAR III ENCOURAGE PRIVATE SECTOR	18795
 MW. Phase	3186
 MW. Pour	19341
+MW. RE	19646
 MW. RMB	1404
 MW. Rapport Annuel	15670
 MW. SAME	5627
@@ -607,6 +629,7 @@ MW. The Authority	12256
 MW. The CEB	14745
 MW. The Energy Availability Factor	11992
 MW. The Government of Tunisia	19489
+MW. The Least Cost Generation	19646
 MW. The MW	1244
 MW. Thereafter	14745
 MW. Tight	14482
@@ -642,12 +665,15 @@ MWC and M360	6593,1232,3031,147,1,13,947,30,391,1708,1112
 MWC. Previously	5752
 MWC25 Kigali. Visit Huawei Booth	3797
 MWC26 Barcelona	14093
+MWE Ministry of Water and Environment NBI National	19642
 MWEA Data Processor INST-59724551F3D EMBU Kenya	7167
 MWEITI	12932
 MWEITI Annual Work Plan	12932
 MWEITI Open Data	12932
 MWELEKEO WA HALI YA UHALIFU	19517
 MWENE DZOUMBOU	15524
+MWEWokesUg Rainfall	19641
+MWEWorksUg Open	19641
 MWFCS	11525
 MWFSC	11525
 MWI NGA UGA ZMB ZWE. Signed	1528
@@ -785,6 +811,7 @@ Ms G Mwakikunga Tel	13068
 Ms Mwanza	13532
 Ms Sibongile Mwamba	13328
 Ms. Gloria C. Mwiko	13556
+Ms. Julianne Mweheire	19728
 Msemo. Mwajuma Hamza	5883
 Mt Kenya Inside Politics Linda Mwananchi	9940
 Mtwara Moshi Mwanza Kupatikana	19517
@@ -825,11 +852,12 @@ Mwale Deputy Head Teacher	13392
 Mwale ML	9349
 Mwale RK	3791
 Mwalemba	1248
-Mwali	3707,772,835,212,470,7724,7,6,35,11,7,18,15
+Mwali	3707,772,835,212,470,7724,7,6,35,11,7,18,15,6013
 Mwali I L'électricité	13819
 Mwali. Cette	13798
 Mwali. Dans	13819
 Mwali. Pour	13760
+Mwali. Vous	19832
 Mwalii	4479
 Mwalimu	19565
 Mwalimu Julius Kambarage Nyerere	19565,37
@@ -949,7 +977,7 @@ Mwararonse	13300
 Mwarasomye	13300
 Mwari	13300
 Mwariri Mwangi	12581
-Mwaro	13300,25,65,52
+Mwaro	13300,25,65,52,6203
 Mwaro Ngozi	13300
 Mwaro Ngozi Rutana Ruyigi Mairie	13300
 Mwaro. Pour	13635
@@ -1141,8 +1169,10 @@ Tourisme COMMUNE MWARO	13464
 Trilas Mwanry	19517
 Tunamuomba Mwenyezi Mungu	19592
 Twahafa Mwaetako	12478
+UEDCL MD Paul Mwesigwa	19705
 UWIZEYE Angelique MWISENEZA Eric UWURUKUNDO Violette	12445
 Uadilifu Kuwa Mwaminifu	19517
+Uganda. Julianne R. Mweheire Director Economic	19728
 Under Mwalimu Nyerere's Ujamaa Policy	19531
 Union. Eng. Mwale	7938
 Universal Service Fund MW	12214

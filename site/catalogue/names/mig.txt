@@ -1,6 +1,6 @@
 ASYCUDA Support for Migration Tailored	13042
 ATIDI and MIGA	18537
-Absence of Forced Migration	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
+Absence of Forced Migration	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
 Absence of Forced Migration Trend Bouncing Back	11870
 Absence of Forced Migration and Laws	12153
 Absence of Forced Migration. Trend Bouncing Back	12353
@@ -65,6 +65,7 @@ Development Potential of Migration Greater	12164
 Digital Financial Services Guarantee MIGA	914,1,1,1,1,1,1,1,1,1,1303
 Digital Identity and Migration	4842
 Digital Migration	12971,5473
+Digital Migration Policy	19641
 Digital Migration Project	13336
 Digital Migration Strategy	14879
 Digital Wallets and Migration Policy	12227
@@ -96,6 +97,7 @@ FC O Serviço de Migração	3899
 FY2022 MIGA	914,1,1,1,1,1,1,1,1,1
 FY2025. MIGA	2226
 Forced Migration Review	12227
+Forced Migration Trend Bouncing Back Absence	19822
 Foreigners’ and Migration Service	10775
 Full-Scale Migration	6432
 G. Migration	14759
@@ -142,7 +144,7 @@ Integrated Border Security and Migration Management	15845
 Integrated Border Security and Migration Management MINTER	15845
 Integrated Border and Migration Mgmt	15845
 Internal Climate Migration	16144
-Internal Migration	16874
+Internal Migration	16874,2841
 Internal Migration Internal Migration	16874
 International Migrant Stock	11960,1428,3486
 International Migrant Stock Data	11960
@@ -218,6 +220,7 @@ MIGRANTS Une	18265
 MIGRATE	6432
 MIGRATION	11192,5743,2054
 MIGRATION ALPHABÉTISATION ACTIVITÉS	15557
+MIGRATION AND FORCED DISPLACEMENTS	19715
 MIGRATION AND INTERNATIONAL COOPERATION	16874
 MIGRATION DATA AND INFORMATION MANAGEMENT	16874
 MIGRATION DYNAMICS	16874
@@ -287,7 +290,7 @@ Migrated Email	11231
 Migrated Legacy System Debts	14546
 Migrating	8603,4663
 Migrating MIX	12965
-Migration	643,146,676,265,15,2,132,830,996,554,1274,200,699,514,51,1894,176,631,140,121,198,167,202,239,10,95,100,10,151,3,58,17,697,54,26,57,102,19,63,156,214,366,79,326,27,45,2,75,707,24,277,69,165,821,265,271,17,117,302,68,213,6,14,21,10,51,170,52,64,71,139,17,387,1,109,155,25,52,19,69,25,350,311,38,231,176,51,79,87
+Migration	643,146,676,265,15,2,132,830,996,554,1274,200,699,514,51,1894,176,631,140,121,198,167,202,239,10,95,100,10,151,3,58,17,697,54,26,57,102,19,63,156,214,366,79,326,27,45,2,75,707,24,277,69,165,821,265,271,17,117,302,68,213,6,14,21,10,51,170,52,64,71,139,17,387,1,109,155,25,52,19,69,25,350,311,38,231,176,51,79,87,115
 Migration Act.4.1.2.18	17842
 Migration Assessment	6432
 Migration Authority	10775
@@ -331,6 +334,7 @@ Migration and Diaspora	789
 Migration and Displacement Data Management TWG	14021
 Migration and Displacement Data Management Technical Working	14021
 Migration and Education	16874
+Migration and Forced Displacements	19715
 Migration and Foreigners Service	10775
 Migration and Gender	16874
 Migration and Global Governance	8015
@@ -402,6 +406,7 @@ National Migration Policy	10463,2134,1008,3269,476
 National Migration Policy and GCM	9838
 National Migration Policy of The Gambia	16874
 National Migration Policy. Ndumbeh Saho	9838
+Net Migration	19715
 O Serviço Nacional de Migração	8212
 Open In Whatsapp YOU MIGHT	9750,247,623
 Orange Sierra Leone Guarantee MIGA	287
@@ -437,6 +442,7 @@ RATIONALE FOR THE NATIONAL MIGRATION POLICY	16874
 RESOURCE MOBILIZATION FOR MIGRATION MANAGEMENT	16874
 Re-admission and Reintegration of Gambian Migrants	16874
 Reason for Migration	15247
+Reasons for Internal Migration	19715
 Reduction of Statelessness. Migrant	14751
 Refugee Agency and Migration Commission of Liberia	17350
 Refugee and Migrant Children	16874
@@ -471,7 +477,7 @@ Société Mighty Land	15670
 Solar Power for Telecom Towers Guarantee MIGA	704,1
 South Africa Connect and Broadcast Digital Migration	11230
 Special Migrant Workers Unit	14742
-Statistical System Absence of Forced Migration	10835,3,130,902,16,466,1,135
+Statistical System Absence of Forced Migration	10835,3,130,902,16,466,1,135,7334
 Strengthen Evidence-Based Migration Governance Harare	13605
 Support for Refugees and Migrants	10776
 Support for Refugees and Migrants Successfully	10776

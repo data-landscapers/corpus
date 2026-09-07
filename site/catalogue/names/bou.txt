@@ -48,6 +48,8 @@ Adjudant BOUROBOU Walter	16099
 Administration Ibrahim Boubacar KEITA	17841
 Administration of Justice Time Bound Measurable Target	1000
 Administrative Boundaries	12413
+Adrien Boucher	19840
+Adrien Boucher. PRODA	19840
 Africa . Boulder	2518
 Agence Nationale des Bourses du Gabon	15376
 Ahcene Bouleghlimat	15467
@@ -209,6 +211,7 @@ Balavé Banwa Boucle du Mouhoun	15715
 Balé Boucle du Mouhoun	15715
 Bamako Bandiagara Douentza San Koutiala Bougouni	18014
 Bana Balé Boucle du Mouhoun	15715
+Banking System BoU Bank of Uganda CAO	19647
 Banwa Boucle du Mouhoun	15715
 Bané Boulgou Centre-Est	15715
 Barani Kossi Boucle du Mouhoun	15715
@@ -224,7 +227,10 @@ Bertrand Boulle	12132
 Bingo Boulkiemdé Centre-Ouest	15715
 Bissiga Boulgou Centre-Est	15715
 Bitou Boulgou Centre-Est	15715
+BoU Circulars	19801
+BoU Extends Financial Literacy Training	19716
 BoU Governor Michael Atingi-Ego	3705
+BoU Townhall	19716
 Body Digital Frontiers and Legal Bounds	18667
 Bomborokui Kossi Boucle du Mouhoun	15715
 Bondokui Mouhoun Boucle du Mouhoun	15715
@@ -408,6 +414,7 @@ Boulevard	9756,644,364,80,285,2501,1828,179,33,771,537,878,85,182,1141
 Boulevard Ave. Exp. Blvd. Company Coy	11129
 Boulevard Botreau Roussel	17356
 Boulevard Carde	15577
+Boulevard Cheikh Osman	19850
 Boulevard Colonel Tshatshi	15903
 Boulevard Denis Sassou N'Guesso	15944,148,1,5,32,97,148,111,36,5
 Boulevard Denis Sassou N’GUESSO	15901
@@ -417,6 +424,7 @@ Boulevard EYADEMA	19250
 Boulevard Eyadema Cité OUA	19244,13
 Boulevard Général Gnassingbé Eyadema	19334
 Boulevard Général Gnassingbé. Eyadema	19222
+Boulevard Hassan II	19850
 Boulevard Konrad Adenauer L-2950 Luxembourg	15901
 Boulevard Large	15555
 Boulevard Latrille	15495
@@ -460,17 +468,18 @@ Bounce	17149
 Bounced African Low Lunar Spheres. African	10076
 Bounced African Low Lunar Spheres. Once	10076
 Bouncers	13624
-Bouncing Back	10912,975,1,1,264,1,9,178
+Bouncing Back	10912,975,1,1,264,1,9,178,7311,1
 Bouncing Back African	12341
 Bouncing Back Score	10837,1315,188
 Bouncing Back Security	12341
+Bouncing Back Year-by-year	19653
 Bouncing Back. African	11887
 Bouncing Back. Education	11888
 Bouncing Back. Participation	11888
 Bouncing Back. SECURITY	11887
 Bouncing Back. Security	11888
 Bouncing Back. Sustainable Environment	11888
-Bouncing Score	10835,3,130,902,16,466,1,135
+Bouncing Score	10835,3,130,902,16,466,1,135,7334
 Bound	2011,3892,5228,3,2051,1712
 Bound Measurable Target Supporting Responsibilit Agencies	1000
 Bound Measurable Target Supporting Responsibility Supporting	1000
@@ -817,6 +826,7 @@ Finance Minister Abdelkrim Bouzred	6204
 Finances Boulevard Denis Sassou-N’guesso	15901
 Finances Sid’Ahmed OULD BOUH	17913
 Floor Pan African Plaza Tubman Boulevard	17068
+Forced Migration Trend Bouncing Back Absence	19822
 Fouad Boutouil	15410
 France’s Bouygues Energies	15511
 François Bourdillon	15685
@@ -918,7 +928,7 @@ Immeuble Bouka	15439
 Improvement Bouncing Back Increasing Deterioration Slowing	10837,1503
 Impôts Prévisions M. Mamadou Boulouma Directeur	10812
 Inconsistent and Confusing Boundaries	15473
-Increasing Improvement Bouncing Back No Change	10835,3,130,902,16,466,1,135
+Increasing Improvement Bouncing Back No Change	10835,3,130,902,16,466,1,135,7334
 Independent Electoral and Boundaries Commission	1630,2128,4075,958,754,100,693,484,262,31,998,36,2397,3241
 Independent Electoral and Boundaries Commission Act	1630,9192
 Indeterminé BOUCLE DU MOUHOUN	10847
@@ -1494,11 +1504,11 @@ Tougan Sourou Boucle du Mouhoun	15715
 Tounsi Bouden	15732
 Toéni Sourou Boucle du Mouhoun	15715
 Transmission Ibrahim Boubacar KEITA	17841
-Trend Bouncing Back	10835,3,130,902,16,466,1,135
+Trend Bouncing Back	10835,3,130,902,16,466,1,135,7334
 Trend Bouncing Back Anti-Corruption	12341
-Trend Bouncing Back Slowing Deterioration Increasing	10835,3,130,902,16,466,1,135
-Trend Increasing Improvement Bouncing Back Overall	10835,3,1048,466,1,135
-Trend Increasing Improvement Bouncing Back Slowing	10759,76,3,130,902,16,466,1,135
+Trend Bouncing Back Slowing Deterioration Increasing	10835,3,130,902,16,466,1,135,7334
+Trend Increasing Improvement Bouncing Back Overall	10835,3,1048,466,1,135,7334
+Trend Increasing Improvement Bouncing Back Slowing	10759,76,3,130,902,16,466,1,135,7334
 Trois Boutiques Football Ground District Council	14746
 Trois Boutiques Village Hall	14746
 UNIVERSI TE DE BOUMERDES Miel	16103

@@ -91,7 +91,7 @@ Community Rights Law and Regulation Priority	16853
 Constraints and Priority Actions	17458
 Consulting Services Category Prior Review	13017
 Cooperation Framework Priorities	13977
-Corporate Priorities	15658,3193
+Corporate Priorities	15658,3193,996
 Council First Priority Second Priority Third	18476
 Council First Priority Second Third Priority	18476
 Country Strategy Paper Priorities	13938,1073
@@ -319,6 +319,7 @@ NOVISSI PRIORITIZING GRID CELL LEVEL	19237
 NOVISSI PRIORITIZING THE POOREST TRAINING DATA	19237
 NRIS. Prior	13005
 NST2 Priority Area	14997
+Nakawa Prioritize	19742
 National Data Centre Project Priority	2256
 National Data Centre Project Priority Document	2256
 National Development Priorities	4528,7984
@@ -330,6 +331,7 @@ National Intelligence Priority	11277
 National Investment Priorities	17260
 National Priorities	940,11504,1533,1624,1271
 National Priority Areas	18948
+National Priority Gender Equality Indicators	19743
 National Priority Programs	16975
 National Research Priorities	1154,400
 National Research Prioritisation And Strategic Planning	1554
@@ -501,8 +503,9 @@ Priorities for Ending Poverty and Boosting Shared Prosperity	15474
 Priorities for G20 Action. Berlin	12297
 Priorities for Governments	7648
 Priorities for ICT	13956
+Priorities of Vision	19642
 Prioritisation	11,12348,2805,2607
-Prioritise	899,59,1591,1577,1118,1588,104,815,1648,1561,256,638,98,4,42,212,43,123,298,2000,73,417,80,98,1597,1537,81,985,42
+Prioritise	899,59,1591,1577,1118,1588,104,815,1648,1561,256,638,98,4,42,212,43,123,298,2000,73,417,80,98,1597,1537,81,985,42,111
 Prioritise Cybersecurity	12935
 Prioritise Dispute Resolution Investment Financial	11138
 Prioritise Privacy	4800
@@ -512,9 +515,10 @@ Prioritised National	1009
 Prioritised Strategic Initiatives	11131
 Prioritised Strategic Initiatives The Bank	11134
 Prioritiser	16012
+Prioritises	19801
 Prioritising	571,4277,3595,2711,1056,166,77,892,1428,162,313
 Prioritising Sustainability	10718
-Prioritization	1885,4654,6438,1988,1893,299,132,1388
+Prioritization	1885,4654,6438,1988,1893,299,132,1388,1124
 Prioritization Conduct	17364
 Prioritization Matrix	12356
 Prioritization of GPW14	15725
@@ -524,6 +528,7 @@ Prioritization of Water Use	17157
 Prioritize	1814,1465,304,543,300,102,717,37,394,792,1080,48,2819,570,155,1195,109,68,163,266,64,75,234,104,88,484,147,785,63,12,247,236,480,17,235,646,26,112,15,103,25,18,103,25,621,625,1023
 Prioritize AI	16212
 Prioritize Al-Wadi Al-Ahmar	17157
+Prioritize CII	19801
 Prioritize Ethical AI Development Implement	12675
 Prioritize Flood	17157
 Prioritize G2P	13331
@@ -539,7 +544,7 @@ Prioritized Development Issues Given	15845
 Prioritized Recommendations	17870,1061
 Prioritized Risk Management	12189
 Prioritized Strategy for Land Administration Reform	15473
-Prioritizing	899,320,553,1186,1577,2413,600,635,2823,128,771,1051,1862,104,75,247,481,1133,105,22,131,144,1977
+Prioritizing	899,320,553,1186,1577,2413,600,635,2823,128,771,1051,1862,104,75,247,481,1133,105,22,131,144,1977,484
 Prioritizing Agriculture	14873
 Prioritizing Fair and Timely Grievance Resolution	16985
 Prioritizing LDN	17157
@@ -548,7 +553,7 @@ Prioritizing NCDs	15977
 Prioritizing Spectrum	5245
 Prioritizing and Sequencing	16858
 Prioritizing the Development	16861
-Priority	471,173,145,181,244,4,247,255,146,99,1551,345,108,248,84,1,546,14,115,115,120,561,188,90,48,440,283,726,48,235,90,153,526,399,124,1065,27,294,254,5,25,341,2,4,56,22,12,17,3,27,89,103,67,53,167,152,8,44,17,9,83,139,89,36,23,8,25,55,84,101,88,126,217,35,217,2,35,32,77,108,26,62,31,128,55,119,164,276,149,18,80,43,21,4,76,1,77,26,13,30,32,118,49,80,481,176,947,5,5,81,3,31,23,103,2,13,25,1,17,124,4,85,500,101,399,88,5,4,11,3,75,22,3,43,98,48,161,2,422,169,47
+Priority	471,173,145,181,244,4,247,255,146,99,1551,345,108,248,84,1,546,14,115,115,120,561,188,90,48,440,283,726,48,235,90,153,526,399,124,1065,27,294,254,5,25,341,2,4,56,22,12,17,3,27,89,103,67,53,167,152,8,44,17,9,83,139,89,36,23,8,25,55,84,101,88,126,217,35,217,2,35,32,77,108,26,62,31,128,55,119,164,276,149,18,80,43,21,4,76,1,77,26,13,30,32,118,49,80,481,176,947,5,5,81,3,31,23,103,2,13,25,1,17,124,4,85,500,101,399,88,5,4,11,3,75,22,3,43,98,48,161,2,422,169,47,232,41
 Priority AI-relevant	7548
 Priority Action	16188
 Priority Action Lead Institution	17260
@@ -693,6 +698,7 @@ RFP Prior Open-Int	15518
 RTGS Transaction Type Codes TTC Priority	12364
 Rationale for Selection of Priority Sectors and Labor Market	17458
 Recognition of Prior Learning	11504,1430,126,1516,243,1856,94
+Recommended Priority Action Areas	19639
 Recovered Space and Priority	14671
 Recovered Space and Priority AFPUB-2026-IPv4-001-DRAFT02	14671
 Recovery and Human Development Priority Area	970
@@ -750,6 +756,7 @@ Secondary Priority	11134
 Secondary Priority Initiatives Important	11131
 Sector Priority	14935
 Sector Priority Area	14997
+Sector-Specific Priorities	19801
 Security Takes Priority	7796
 Segmentos Prioritários	11426
 Selected Public Service Prior	17180

@@ -138,7 +138,7 @@ Guangzhou	10846
 GuarantCo	8612,1608,1090
 GuarantCo Local-currency Domestic	11310
 GuarantCo's Cellcard	11310
-Guarantee	88,199,417,1,209,1,1,1,1,1,1,1,1,1,212,406,1,1,587,23,72,1,1378,924,320,852,73,1176,2,1986,208,254,261,1232,68,25,94,77,154,553,42,11,596,440,233,135,243,461,727,132,9,142,92,28,218,39,62,185,247,1045,166,180,145,98,411,20,502,415
+Guarantee	88,199,417,1,209,1,1,1,1,1,1,1,1,1,212,406,1,1,587,23,72,1,1378,924,320,852,73,1176,2,1986,208,254,261,1232,68,25,94,77,154,553,42,11,596,440,233,135,243,461,727,132,9,142,92,28,218,39,62,185,247,1045,166,180,145,98,411,20,502,415,746,202,12
 Guarantee Agency	11468,1500,1929
 Guarantee Agency ML Machine Learning MPA	3604
 Guarantee Agency MLGRD Ministry of Local Government	18504
@@ -178,7 +178,7 @@ Guaranteed Minimum Banking Service	10967
 Guaranteed Restoration Time	5676
 Guaranteeing	10970,5893
 Guaranteeing Health Security	16971
-Guarantees	1829,1754,6176,1551,606,285,96,745,213,613,1279,1831,282,1110
+Guarantees	1829,1754,6176,1551,606,285,96,745,213,613,1279,1831,282,1110,1328
 Guarantees and Security for Investors	12376
 Guarantor	13185
 Guarantor GOVERNMENT OF THE CENTRAL AFRICAN	15758
@@ -192,6 +192,7 @@ Guard	14358
 Guard Band Bandwidth	14780
 Guard Room	18543
 Guard Rooms	18543
+Guard and Security	19641
 Guarda Costeira	1265,683
 Guarda Costeira de São Tomé	18866
 Guarda Fiscal	18797
@@ -358,7 +359,7 @@ Posto da Guarda Fiscal	15503
 Presidential Guard	9399
 Private Sector Federation Guaranty Trust Bank	12358
 Project Guardian	9103
-Project-Based Guarantee	1284,583,1695,42,7164,61,135,453,143,295,1476,1,2221,68,37,3,483,778,2323
+Project-Based Guarantee	1284,583,1695,42,7164,61,135,453,143,295,1476,1,2221,68,37,3,483,778,2323,590,12
 Príncipe Gareth Guadalupe Ministro	11393
 Public Credit Register Register of Guarantees	6938
 Public Sector External Debt and Credit Guarantee	11134

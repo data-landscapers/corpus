@@ -78,6 +78,8 @@ Energy Losses	19596
 Entities Type of Loss Eligible	17114
 Estado. Los	4209
 Estadística Nacional. Los	16898
+Evaluation of Losses	19823
+Evaluation of Non-TIPP Losses	19823
 Experience Conflict Economic Losses Due	16902
 FINANCIAL LOSS	1938
 FMI Los	16898
@@ -194,7 +196,7 @@ Lose It Policy	11857
 Lose It Policy. Licensees	11857
 Losers	11140
 Loses	11916
-Losing	11651,1855,3858
+Losing	11651,1855,3858,2281
 Losing Costumers	12389
 Loss Carry Forward	14024
 Loss Factor	11953
@@ -210,7 +212,7 @@ Loss of Organic Matter	17157
 Loss of Record	11956
 Loss of Structure	17114
 Lossa Goungou	18118
-Losses	9511,105,1177,345,817,301,133,10,1021,1297,2540,1538
+Losses	9511,105,1177,345,817,301,133,10,1021,1297,2540,1538,1028
 Losses Committee	12956
 Losso	19237,109
 Lossyear	16875
@@ -267,6 +269,7 @@ QUANTITY OF CROP LOST	17043
 RECOPILACIÓN DEL CONOCIMIENTO DE LOS EXPERTOS	16875
 RESUMEN DE LOS CENTROS DEL NIVEL	16920
 Rating Class EGDI Rank LOSI Rank	10840
+Re-Onboarding for Lost Devices	19699
 Recovered Total Loss Amount Conclusion	17362
 Recovered and Loss Averted	2775
 Reglamento. TÍTULO III DE LOS DELITOS	16965

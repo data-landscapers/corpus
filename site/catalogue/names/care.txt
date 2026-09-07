@@ -53,7 +53,7 @@ Annual Eswatini Careers Fair	11134
 Annual Global Represent. Carestia de Vida	4209
 Annual Quality of Quality of Care Checklist MOH	16922
 Antenal Care	10829
-Antenatal Care	2775,10202,1090,2884,20,2573
+Antenatal Care	2775,10202,1090,2884,20,2573,123
 Antenatal Care Antenatal	16971
 Antenatal Care CBHI Community-Based Health Insurance	15138
 Antenatal Care Coverage and Content	13454,1793
@@ -142,6 +142,7 @@ CROSS-BORDER HEALTH CARE	14434
 CROWN POINT DENTAL CARE Data Controller	7167
 CURATRIX HEALTH CARE CENTRE LTD Data	7167
 Can AI Improve Health Care Delivery	6948
+Cancer and Palliative Care	19641
 Cardihub Heart Care Limited Data Controller	7167
 Cardiometabolic Care and Research	14829
 Care Act	7845
@@ -182,6 +183,7 @@ Care-seeking During Fever Malaria Diagnosis Usage	18441
 Care-seeking During Fever Percentage	18441
 Care-seeking for Diarrhoea Feeding	18441
 Care. Nuff Trust	1219
+Care. Récupéré	19645
 CareBridge	7750
 CarePay Devco Kenya Ltd Data Processor	7167
 CarePay Ltd. Data Controller INST-9782911BBB8 NAIROBI	7167
@@ -209,6 +211,7 @@ Career Paths	12996
 Career Selection Among Graduates	15146
 Career Support	14999
 Career Themed Event	13037
+Career-Specific Digital Competencies	19807
 Careers	13053,5046,331,153
 Careers Error	11294,47
 Careers Guidance Service	14721
@@ -219,7 +222,7 @@ Careers and Further Education Agency	19096
 Careful	6202,2921,1216,1989,2395,4514
 Carefully	2668
 Caregiver	11180,3958
-Caregivers	10768,4567
+Caregivers	10768,4567,4332
 Caregivers Adults and Retirees	14566
 Caregivers Mauritania Mauritania	17969
 Careless	14781
@@ -254,6 +257,7 @@ Child Survival A. Neighborhood Care Points	12977
 Childhood Care and Education EEDRR Education	13990
 Christella Care Centre Data Controller INST-824498C0145	7167
 Christian Care Masvingo	4528,7984
+Code of Health Care and Health Services Provision	19658
 Community Care Giving Centers	13960
 Community Care Sites	11892
 Community Engagement and Primary Health Care	14033
@@ -381,7 +385,7 @@ HEALTH CARE TECHNOLOGY	16900
 HIV Prevention Care and Support	16951
 HIV and AIDS Care	16971
 HSDUs. Obstetric Care	15206
-Health Care	2477,2495,1451,8988,1473,12,26,115
+Health Care	2477,2495,1451,8988,1473,12,26,115,2604
 Health Care Agency	19059,14
 Health Care Agency Act	19059
 Health Care Associations Consumers	21
@@ -430,6 +434,7 @@ Improving BHI Care Delivery	18694
 Improving Health Care Delivery Through Broadband	16884
 Inclusive Care	18162
 Inclusive Care. Venue	18162
+Individual Patient Care	19644
 Industrials Consumer Staples Health Care Utilities	4972
 Infant Care Support	13080
 Inform Prim Care	14666
@@ -477,6 +482,7 @@ Mental Health Care Agency Act	19090
 Mental Health Care Agency. Vice President	19016
 Methadone Day Care Centres	14742
 Minister of Health and Child Care	4528,2894,5090,528
+Minister of State for Primary Health Care	19778
 Ministry of Health Standards for Post Abortion Care	13040
 Ministry of Health and Child Care	395,759,400,7875,3079,802,73,290,5
 Ministry of Health and Child Care Care Find	9429
@@ -551,8 +557,9 @@ Postnatal Care Postnatal	16971
 Postpartum Infant Care Program	6423
 Pour le CARE	9497
 Primary Care BP	16079
-Primary Health Care	21,257,118,375,3530,6475,476,21,695,12,626,1252,915,427,2089,580,293,370,405
+Primary Health Care	21,257,118,375,3530,6475,476,21,695,12,626,1252,915,427,2089,580,293,370,405,907
 Primary Health Care Centers	12004
+Primary Health Care Centre	19844
 Primary Health Care Facility	11980
 Primary Health Care Information System	11980
 Primary Health Care JNH Jawaharlal Nehru	14773
@@ -626,6 +633,7 @@ Standards for Post Abortion Care	13040
 State Primary Health Care Boards	12004
 Strategy for Quality of Care and Patient Safety	16079
 Strengthen HIV Care	18697
+Strengthening Early Childhood Care and Education	19657
 Strengthening Primary Health Care	10776
 Subsidies and Grants for Residential Child Care Facilities	12373
 Subsidized Health Care Services	12373

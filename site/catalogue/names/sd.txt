@@ -30,6 +30,7 @@ Analyst Tool SDG Sustainable Development Goal	17157
 Android SDK	14651
 Annuaire CPS-SEEUDE Statistique du SDR INSTAT	17842
 Applied Sciences and Technology SDDR	18309
+Area Network M&E Monitoring and Evaluation SDP	19667
 Area SDGs Sustainable Development Goals UNDP	16921
 Assessment SDGs Sustainable Development Goals SLeSHI	18478
 B. Initiate Steps Toward Full SDDS	14777
@@ -40,11 +41,13 @@ Banks and SDIs. Section	17362
 Basic Drinking Water SDG	18441
 Basic Sanitation Services SDG	18441
 Big Data Sources SDG Target Big	19555
+Botswana's SDG	19677
 Business Register SDG Sustainable Development Goals	2775
 C- Universal Access SDG	11863
 C. Sdralevich	1828
 CDN and SDN	8130
 CENTRAL NYANZA CONFERENCE OF SDA Data	7167
+COMMUNITIES IN THE AMOUNT OF SDR	19835
 COUTS ET FINANCEMENTS DU SDS	17842
 COÛTS ET FINANCEMENT DU SDS	15961
 COÛTS ET FINANCEMENTS DU SDS	17842
@@ -163,6 +166,7 @@ IMF SDR	14777
 IMF Staff Discussion Note SDN	9739,1401
 INCM WordPress SDM	6970
 INSD. L’efficacité du SDS4	15961
+Identifiable Information SDGs Sustainable Development Goals	19644
 Implementation of SDGProjet	15500
 Implementation of SDP1 SDP2	12934
 Important Payment Systems SDF Small and Medium	17235
@@ -221,6 +225,9 @@ NHC and SDUHD	2775
 NHI. The SDG	396
 NSDD SDMX	10874
 National Level SDI	18476
+National SDG Open Data Portal. Despite	19803
+National SDG Secretariat	19803
+National SDG Task Force	19803
 National Strategy and UN SDGs	12917
 National Treasury's SDF. Indicative Phase	11940
 National Treasury’s SDF	8817
@@ -270,6 +277,7 @@ Q4 SDGs	11133
 Quality Assurance SDG Sustainable Development Goals	12917
 Quality Education SDG	17078
 Quality of Life and SDG Contribution. Digital	12333
+Quality of Service SDGs Sustainable Development Goals	19642
 Qualité SDAN	15512
 RA and SDID	15080
 RAIC Stakeholder Engagement Technical Review of SDG	18442
@@ -335,7 +343,7 @@ SD- SNISS	17845
 SD-RFP	17901,114
 SD-SNISS	17845
 SD-SNISS. Schéma	17845
-SD-WAN	5444,1205,377,6199,3916,2392
+SD-WAN	5444,1205,377,6199,3916,2392,195
 SD. Il	5907
 SD. L'autorité	5907
 SD. La CCMP-CPP	5907
@@ -379,16 +387,18 @@ SDFPM	17899
 SDG Agenda	1388,11558,203,242
 SDG Area Weight Nutrition Any	15244
 SDG Contract	789
+SDG Coverage	19803
 SDG Custodian Agency Prize	13394,81
 SDG Digital Investment Framework	3731
 SDG Digital Investment Framework. A Whole-of-Government	396
+SDG Financing Report	19803
 SDG Fund	19571
 SDG Global Leadership Program	12962
 SDG Goal	13624
 SDG IDA19	16942
 SDG Impact Investment	12457
 SDG Impact Investment Facility	9873
-SDG Index	10759,76,2,1,74,56,902,16,1,1,1,265,186,1,11,1,135,4801
+SDG Index	10759,76,2,1,74,56,902,16,1,1,1,265,186,1,11,1,135,4801,2364,169,14
 SDG Index Score Fig	15725
 SDG Indicator	14935,995,3381,244
 SDG Indicator Big	19555
@@ -423,10 +433,11 @@ SDG Sustainable Development Goals WRA Women	16950
 SDG Sustsainable Development Goal SDYEP Skills	18931
 SDG Target	10714,1689,602,143,840,934,2015,2605
 SDG Target Big Data	19555
+SDG Technical Working Groups	19803
 SDG Training Program	12962
 SDG Trust Fund	15500
 SDG Voluntary National Review Report	19519
-SDG and Agenda	13965
+SDG and Agenda	13965,5838
 SDG and MTNDP	18529
 SDG's Fund	17964
 SDG- Moving	970
@@ -441,7 +452,8 @@ SDG-2	970
 SDG-3	970
 SDG-5	970
 SDG-7	970,17650
-SDG-aligned	11356
+SDG-NDP IV Alignment Assessment	19803
+SDG-aligned	11356,8447
 SDG-data	6337
 SDG-linked	13980
 SDG-oriented	17101
@@ -479,6 +491,7 @@ SDGs Sustainable Development Goals SLAs Service	12240
 SDGs Sustainable Development Goals SME Small	7548,5414
 SDGs Sustainable Development Goals SRHD Social	970
 SDGs Sustainable Development Goals TB	16941
+SDGs Sustainable Development Goals UBOS Uganda	19715
 SDGs Sustainable Development Goals UIN Unique	12241,839,15
 SDGs Target	12403
 SDGs and AU Agenda	14946
@@ -510,6 +523,7 @@ SDGs. Tanzania	19555
 SDGs. The ASYCUDA Programme	16631
 SDGs. The Fifth Specialized Technical Committee	1814
 SDGs. This ESSP	14922
+SDGs. Together	19683
 SDGs. UNDP	12214
 SDGs. UNFPA	15039
 SDGs. Universities	4126
@@ -718,7 +732,7 @@ TB SDD	13185
 TOGO SDG16102 2025.pdf Capture	19311
 TRACKING SDG7 THE ENERGY PROGRESS REPORT	11572
 Technology DDR3 SDRAM	34
-Tracking SDG	11572,4227
+Tracking SDG	11572,4227,3847
 Tracking SDG7	11572,706
 Tracking SDG7. The Energy Progress Report	15983
 Traduction SDCRP	10975
@@ -732,9 +746,10 @@ UN Joint SDG Fund	1073,12471
 UN Joint SDG Fund European Commission	1073
 UN SDG	2829
 UN SDG Database	12261
-UN SDGs	7204,3387,1266,519,2393,2158,869,733
+UN SDGs	7204,3387,1266,519,2393,2158,869,733,1117
 UN SDGs Good	7204
 UN SDGs.Available	12376
+UN Sustainable Development Goals SDG Goal	19642
 UNAIDS SDG	19544
 UNDP Climate Promise Funds Government SDG	17101
 UNESCO SDG	11918
@@ -744,6 +759,10 @@ UVRE DU SDS	17842
 UVRE DU SDS4	15961
 UVRE DU SDS4 L’évaluation	15961
 UVRE ET DE SUIVI-EVALUATION Le SDS	17842
+Uganda SDG Progress Assessment	19803
+Uganda SDG Roadmap for FY	19803
+Uganda's SDG	19803
+Uganda's SDG Index	19803
 Un SDN	15568
 Undrawn SDR	17257
 Union SDIA Spatial Data Infrastructure Act	11196
@@ -769,4 +788,5 @@ Working Group SDG Sustainable Development Goal	14947
 World Bank SDFP-PPA	11271
 YDWLYR GD WHUUD SDUD	11527
 ZADEP and SDGs	19519
+Zero Hunger. Under SDG	19747
 Zimbabwe SDG Sustainable Development Goals SHaSA	13359

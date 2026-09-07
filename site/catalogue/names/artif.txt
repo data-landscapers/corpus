@@ -58,7 +58,8 @@ African Union Continental Artificial Intelligence Strategy	14128
 African Union's Continental Artificial Intelligence Strategy	8088,3739
 African Union’s Continental Artificial Intelligence	9119
 African Union’s Continental Artificial Intelligence Strategy	10620
-Age of Artificial Intelligence	2918,7808,3947,4123
+Age of Artificial Intellig	19748
+Age of Artificial Intelligence	2918,7808,3947,4123,952
 Age of Artificial Intelligence Botswana	12625
 Agency CAIR Centre for Artificial Intelligence Research	1814
 Aidin Geranrekab A Inteligência Artificial	11329
@@ -83,13 +84,14 @@ Artifacts Summary Contents	6666
 Artifi	13042
 Artifical	11976
 Artifical Intelligence	14819,3870
-Artificial	718,1222,153,3,590,116,14,142,541,55,50,87,69,268,10,88,52,447,272,114,121,239,227,1,293,279,62,32,424,104,39,89,27,17,17,339,16,22,120,58,11,30,59,89,5,105,31,88,67,173,63,5,20,97,46,34,37,108,81,25,66,12,26,163,9,143,15,10,226,130,49,88,33,87,257,16,32,9,25,139,24,326,248,168,38,85,3,2,16,91,58,19,32,139,3,160,24,294,18,216,243,101,159,213,469,48,716,39,71,36,35,94,131,36,203,325,35,389,65,95,21,483,34,544,362,161,221,81,24,4,52,18,2,11,42,7,104,917,720
+Artificial	718,1222,153,3,590,116,14,142,541,55,50,87,69,268,10,88,52,447,272,114,121,239,227,1,293,279,62,32,424,104,39,89,27,17,17,339,16,22,120,58,11,30,59,89,5,105,31,88,67,173,63,5,20,97,46,34,37,108,81,25,66,12,26,163,9,143,15,10,226,130,49,88,33,87,257,16,32,9,25,139,24,326,248,168,38,85,3,2,16,91,58,19,32,139,3,160,24,294,18,216,243,101,159,213,469,48,716,39,71,36,35,94,131,36,203,325,35,389,65,95,21,483,34,544,362,161,221,81,24,4,52,18,2,11,42,7,104,917,720,196
 Artificial Alignment Proposal Data Protection Act	7548
 Artificial E-Commerce Intelligence	4972
 Artificial General Intelligence	6955,4095,106
 Artificial Honey	13122
 Artificial Humans	8460
-Artificial Intelligence	396,36,1,138,390,282,201,370,126,202,20,96,45,35,21,29,6,22,110,51,18,31,56,3,105,17,4,5,23,11,18,90,26,66,132,18,28,138,174,59,33,19,3,106,34,156,95,27,37,14,3,109,118,29,146,55,7,2,29,55,148,24,18,104,59,4,3,8,30,36,17,89,28,32,90,3,17,25,29,68,3,90,75,51,98,46,4,6,51,3,34,31,5,30,6,9,16,75,90,1,145,25,8,16,51,3,7,19,20,23,74,72,95,42,47,14,43,10,2,2,10,37,18,86,11,24,11,95,2,93,24,1,82,66,36,2,16,123,53,17,68,35,4,10,32,8,52,77,45,2,2,21,17,110,18,18,25,79,103,12,10,15,9,19,38,23,19,1,75,61,2,27,45,22,39,7,10,44,2,10,57,96,76,44,174,3,7,106,39,1,69,62,32,16,2,21,6,184,25,3,70,130,50,24,25,48,12,15,20,140,36,32,2,121,5,59,55,79,109,4,18,84,1,5,9,7,54,37,18,23,1,47,4,143,19,57,59,36,11,17,25,8,36,106,98,1,9,21,31,28,165,30,1,115,43,20,3,41,39,10,52,111,32,1,17,12,23,2,83,81,36,4,5,4,7,13,1,25,23,4,15,14,3,15,63,24,26,21,11,106,1,9,10,35,42,13,18,6,24,25,10,4,1,7,40,41,23,18,12,260,46,13,2,78,10,36,9,9,30,43,130,153,61,1,35,62,1,10,16,39,18,1,2,2,18,1,1,2,1,4,7,4,3,19,6,1,10,9,4,37,64,61,30,115,84,214,33,33,40,30,35,95,1,2,3,99,7,13,31,70,32,8,67,85,13,68,49,234,184,51,54,100,31,27,24,9,43,29,43,2,24,44,75,20,120,62,166,38,3,24,46,6,16,9,1,42,96,288,131,143,39,38,51,56,44,15,364,26,49,28,17,64,8,53,234,1,22,10,13,24,7
+Artificial Intelliegence	19728
+Artificial Intelligence	396,36,1,138,390,282,201,370,126,202,20,96,45,35,21,29,6,22,110,51,18,31,56,3,105,17,4,5,23,11,18,90,26,66,132,18,28,138,174,59,33,19,3,106,34,156,95,27,37,14,3,109,118,29,146,55,7,2,29,55,148,24,18,104,59,4,3,8,30,36,17,89,28,32,90,3,17,25,29,68,3,90,75,51,98,46,4,6,51,3,34,31,5,30,6,9,16,75,90,1,145,25,8,16,51,3,7,19,20,23,74,72,95,42,47,14,43,10,2,2,10,37,18,86,11,24,11,95,2,93,24,1,82,66,36,2,16,123,53,17,68,35,4,10,32,8,52,77,45,2,2,21,17,110,18,18,25,79,103,12,10,15,9,19,38,23,19,1,75,61,2,27,45,22,39,7,10,44,2,10,57,96,76,44,174,3,7,106,39,1,69,62,32,16,2,21,6,184,25,3,70,130,50,24,25,48,12,15,20,140,36,32,2,121,5,59,55,79,109,4,18,84,1,5,9,7,54,37,18,23,1,47,4,143,19,57,59,36,11,17,25,8,36,106,98,1,9,21,31,28,165,30,1,115,43,20,3,41,39,10,52,111,32,1,17,12,23,2,83,81,36,4,5,4,7,13,1,25,23,4,15,14,3,15,63,24,26,21,11,106,1,9,10,35,42,13,18,6,24,25,10,4,1,7,40,41,23,18,12,260,46,13,2,78,10,36,9,9,30,43,130,153,61,1,35,62,1,10,16,39,18,1,2,2,18,1,1,2,1,4,7,4,3,19,6,1,10,9,4,37,64,61,30,115,84,214,33,33,40,30,35,95,1,2,3,99,7,13,31,70,32,8,67,85,13,68,49,234,184,51,54,100,31,27,24,9,43,29,43,2,24,44,75,20,120,62,166,38,3,24,46,6,16,9,1,42,96,288,131,143,39,38,51,56,44,15,364,26,49,28,17,64,8,53,234,1,22,10,13,24,7,51,19,14,24,8,3,14,6,41,2,10
 Artificial Intelligence AI	12210
 Artificial Intelligence AM Accountability Mechanism ANCy	19245
 Artificial Intelligence AM Ivorian Agency for Radio	3604
@@ -188,6 +190,7 @@ Artificial Intelligence Systems	2958
 Artificial Intelligence Systems AI	2958
 Artificial Intelligence Takes Over. Disponível	2816
 Artificial Intelligence Talent and Capacity Development	3760,9683
+Artificial Intelligence Task Force	19728
 Artificial Intelligence Taskforce	12210
 Artificial Intelligence Taskforce Report	12210
 Artificial Intelligence Technologies	16046
@@ -230,6 +233,7 @@ Artificial Intelligence and Machine Learning	767,2884,7489,1902,35
 Artificial Intelligence and Machine Learning-ready	13200
 Artificial Intelligence and Open Educational Resources	8609
 Artificial Intelligence and Quality Higher Education	6948
+Artificial Intelligence and Related Emerging Technologies	19690
 Artificial Intelligence and Robotics	9739
 Artificial Intelligence and Robotics Education	8560
 Artificial Intelligence and Robotics Room	9225
@@ -436,7 +440,7 @@ Ethical Artificial Intelligence Artificial	14139
 Ethical Charter for Artificial Intelligence	2958
 Ethical Use of Artificial Intelligence	2958
 Ethics for Artificial Intelligence	2958
-Ethics of Artificial Intelligence	1814,1144,1168,563,347,1258,818,58,378,1199,457,1952,327,873,692,509,106,476,525,148,181,2024,1779
+Ethics of Artificial Intelligence	1814,1144,1168,563,347,1258,818,58,378,1199,457,1952,327,873,692,509,106,476,525,148,181,2024,1779,1011
 Ethiopia Artificial Intelligence	2162
 Ethiopian Artificial Intelligence Institute	3595,1478,1683,241,95,382,204,4544,1782,48,32,68,3651
 Ethiopian Artificial Intelligence Institute Director-General	14152
@@ -461,7 +465,7 @@ Federal Government’s Artificial Intelligence Strategy AI	11135
 Federal Republic of Artificial Intelligence	12512
 Financing Artificial Intelligence Infrastructure	14673
 Finland Artificial Intelligence	11135
-Foreword Artificial Intelligence	19079
+Foreword Artificial Intelligence	19079,600
 Foro Nacional de Inteligencia Artificial	17307
 Free Trade Area AI Artificial Intelligence	4126
 French Strategy for Artificial Intelligence French	11135
@@ -679,7 +683,7 @@ Namibia’s Artificial Intelligence Strategy Framework	9107
 National AI Council National Artificial Intelligence	4528
 National Artificia	6689
 National Artificial	14674
-National Artificial Intelligence	2359,1284,1760,543,348,86,327,1053,93,756,386,209,1088,938,1324,160,296,1742,38,4289
+National Artificial Intelligence	2359,1284,1760,543,348,86,327,1053,93,756,386,209,1088,938,1324,160,296,1742,38,4289,663
 National Artificial Intelligence Agency	6526,38,3010,2108
 National Artificial Intelligence Agency. Samuel Mizero	10152,19
 National Artificial Intelligence Centre	10451
@@ -689,6 +693,7 @@ National Artificial Intelligence Commission	6331,1757
 National Artificial Intelligence Commission Bill	4583
 National Artificial Intelligence Data Centre	12474
 National Artificial Intelligence Datacenter Deployment	1787,1417,3881
+National Artificial Intelligence Ethical	19641
 National Artificial Intelligence Guideline	14829
 National Artificial Intelligence Innovation Fund	3760,9683
 National Artificial Intelligence Institute	13217
@@ -802,7 +807,7 @@ Responsible Artificial Intelligence	1814
 Responsible Artificial Intelligence Lab	4126,1101,4193,10
 Responsible Artificial Intelligence Office	5932,2
 Reunião de Stakeholders da Inteligência Artificial	15856
-Rise of Artificial Intelligence	9511
+Rise of Artificial Intelligence	9511,10217
 Robotics and Artificial Intelligence Nigeria	10133
 Robotics and Artificial Intelligence Society Bill	4734
 Rwanda National Artificial Intelligence Policy	15034
@@ -915,6 +920,7 @@ USE OF ARTIFICIAL INTELLIGENCE Supporting SMEs	14565
 USE OF ARTIFICIAL INTELLIGENCE The FAIR	14565
 USE OF ARTIFICIAL INTELLIGENCE Understanding AI	14565
 USE OF ARTIFICIAL INTELLIGENCE Use of Records	14565
+Ugandans. Artificial Intelligence	19679
 Uganda’s Artificial Intelligence	6132
 Uma Estratégia Nacional de Inteligência Artificial	2816
 Understanding the Impact of Artificial Intelligence	6948
@@ -926,6 +932,7 @@ Users of Artificial Intelligence Systems	2958
 Uso da Inteligência Artificial	2816
 Uso de Inteligência Artificial	2816
 VIFUPISHO AI Artificial Intelligence AJDP African	19565
+Validation Workshop for Uganda's Artificial Intelligence	19789
 Weaker-than-expected Artificial Intelligence	13685
 Welcomes the AU Continental Artificial Intelligence Strategy	5825
 Western Cape Artificial Intelligence	11012

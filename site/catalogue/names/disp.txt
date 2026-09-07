@@ -107,6 +107,7 @@ Bilhetes de Identidade Já Disponíveis	6837
 Bisunu Dispensary Data Controller INST-231659A8759 BUNGOMA	7167
 Boletim da República I Série. Disponível	2816
 Bonne Disponible	14489,1
+Botswana's Public Procurement and Asset Disposal Board	19677
 Boyani Dispensary Data Controller INST-14979822BC5 KILIFI	7167
 Boyani Dispensary Data Processor INST-14979822BC5 KILIFI	7167
 Branche Dispose	10875
@@ -237,6 +238,8 @@ Capítulo IX Disposições	18755
 Capítulo V Disposições	18758
 Capítulo X Disposições	18755
 Cartões SIM Capitulo I Disposições Gerais	18752
+Categories of Solid Waste Disposal	19715
+Category of Solid Waste Disposal	19715
 Censo Electoral. DISPOSICIÓN ADICIONAL	16903
 Certificados de Dispositivo	16855
 Chapitre I Dispositions	15360
@@ -267,6 +270,7 @@ Commission ADR Alternative Dispute Resolution CBOs	18477
 Complaints and Dispute Handling The Authority	12256
 Complaints and Dispute Resolution	19596
 Complaints and Resolution of Customs Disputes Article	15492
+Computer-aided Dispatch Environment	19654
 Concessions and Disposals Act	14965
 Confirmação da Disponibilidade de Fundos	10755
 Construction Waste Management Plan Safe Disposal	12253
@@ -427,6 +431,8 @@ DISPONIBLE	16037
 DISPONIBLE EN TÉLÉCHARGEMENT	19205
 DISPONIBLES EN GFC	16875
 DISPONIBLES SUR LE PORTAIL	16629
+DISPOSAL	19745
+DISPOSAL Table of Contents CHAPTER	19745
 DISPOSENT DE COMPETENCES PAR DOMAINE	18169
 DISPOSICION ADICIONAL	17022
 DISPOSICION ADICIONAL Se	163
@@ -561,6 +567,7 @@ DISPOSITIONS PENALES Article	15482
 DISPOSITIONS PRELIMINAIRES Article	15534
 DISPOSITIONS RELATIVES A L'EQUILIBRE DES RESSOURCES	17972
 DISPOSITIONS RELATIVES A L'INTEROPERABILITE DES SERVICES	15419
+DISPOSITIONS RELATIVES A LA COMPTABILITE ET	19850
 DISPOSITIONS RELATIVES A LA CREATION DES	15419
 DISPOSITIONS RELATIVES A LA PROTECTION DES	11522
 DISPOSITIONS RELATIVES A LA SAISINE PAR	15419
@@ -609,7 +616,7 @@ DISPOSiÇÕES FINAIS E TRANSITÓRIAS	11528
 DISPOSiÇÕES GERAIS	11528
 DISPOSÍÇÕES GERAIS	11528
 DISPUTE AVOIDANCE AND DISPUTE SETTLEMENT	1243
-DISPUTE RESOLUTION	12389,4450,3,2685
+DISPUTE RESOLUTION	12389,4450,3,2685,218
 DISPUTE RESOLUTION COMMITTEE The Research Council	1154,400
 DISPUTE RESOLUTION PROCEDURES Article	14919
 DISPUTE RESOLUTION Part A General	11181
@@ -657,6 +664,7 @@ Des Dispositions Transitoires Relatives	37
 Determine the Disposition	19575
 Development Association IDP Internally Displaced Person	15621,40,70
 Development Dispute Resolution TOTAL Scheduled Board	1154
+Development Response for Displacement Impact Project	19727
 Devine Mercy Eldoro Catholic Dispensary Data	7167
 Dezaine. Disponível	2816
 Dio. Disponivel	2816
@@ -687,7 +695,7 @@ Dispens ARV	17882
 Dispensa	16022,2742
 Dispensamos	18784
 Dispensaries	1261,18283,41
-Dispensary	11857
+Dispensary	11857,7810
 Dispensary Farming	11857
 Dispensary. Beniseeds	11857
 Dispensation	12483
@@ -696,7 +704,7 @@ Dispense	14412,983,34,820,233
 Dispenser	13290,6071
 Dispensers Year	4202
 Dispenses	15429,2402
-Dispensing	9855
+Dispensing	9855,9857
 Dispensing Standards	9855
 Dispensário Anti Tubercolose	10784
 Dispensário Antituberculose de Luanda	10784
@@ -720,6 +728,10 @@ Displacement Context	10841
 Displacement Context Beginning	10841
 Displacement Context and Refugee Profiles	10841
 Displacement Context and Refugee Profiles Equatorial Guinea	10841
+Displacement Impacts Programme	19647
+Displacement Impacts Project	19798
+Displacement Impacts Project FSDU Financial Sector	19647
+Displacement Impacts Projects	19741
 Displacement Monitoring Centre IFAD International Fund	10759,78,1052,451
 Displacement Project	15658,73
 Displacement Project Product Operation Short Name	15731
@@ -727,10 +739,11 @@ Displacement Settings	13938
 Displacement Tracking Matrix	18193
 Displacement Tracking Matrix Mali	17870
 Displacement Tracking Matrix URL	18193
+Displacement and Resettlement	19825
 Displacement-affected	14874
 Displacements	3583
 Displacing American	6582
-Display	34,906,69,3667,1011,1525,2524,2894,51,568,317,856,1445,2664,74,278
+Display	34,906,69,3667,1011,1525,2524,2894,51,568,317,856,1445,2664,74,278,854,68
 Display Article	15393
 Display Color	13524
 Display Início Orgânica D G	6530
@@ -798,13 +811,14 @@ Disporem	11443
 Disposable	1988
 Disposable Gloves	1988
 Disposable Smartphone	14674
-Disposal	1988,1726,8539,719,81,18,240,1138,266,23,227,527,1751,1700,581,61
+Disposal	1988,1726,8539,719,81,18,240,1138,266,23,227,527,1751,1700,581,61,130,27
 Disposal Disposal	1988
 Disposal Institute	11272
 Disposal Occupational	1988
 Disposal of Children’s Stools	15247
 Disposal of Confiscated Money	18599
 Disposal of Equipment	18609
+Disposal of IT Equipment and Electronic Waste Management	19639
 Disposal of Identified Grounded Motor Vehicles	19585
 Disposal of Obsolete Records	13398
 Disposal of Obsolete Spares	13420
@@ -814,7 +828,7 @@ Disposal of Public Assets	19534
 Disposal of Solid Waste	19585
 Disposals	13053
 Disposant	13300,2661,584
-Dispose	1988,8887,1378,5606
+Dispose	1988,8887,1378,5606,1886
 Disposed	2775
 Disposer	12,993,317,742,2015,1787,232,3998,58,821,2315,100,123,42,1919,68,38,144,212,517,1081,308,40,4,60,73,81,191,6,9,18,36,35,770,61,134
 Disposer des DAO	10975
@@ -888,7 +902,7 @@ Dispute Environmental Clearances and Permits	12389
 Dispute Management	14032
 Dispute Mechanisms	12389
 Dispute Over Intellectual Property Could Derail	11303
-Dispute Resolution	3502,1108,7186,160,408,25,286,4176,1626
+Dispute Resolution	3502,1108,7186,160,408,25,286,4176,1626,1198,70
 Dispute Resolution A. Any	4610
 Dispute Resolution API Business-to-Business IGF Inclusive	12444
 Dispute Resolution AfCFTA African Continental Free	1243
@@ -900,7 +914,7 @@ Dispute Resolution Committee Total Number of Meetings	1554
 Dispute Resolution Consumer Complaints	11861
 Dispute Resolution Procedure Manual	12500
 Dispute Resolution Section	16851
-Dispute Resolution Service	1264,20,583,1022,715,2935,4229,649,488,60,3173,520,1,2,483,778,27,2296,39
+Dispute Resolution Service	1264,20,583,1022,715,2935,4229,649,488,60,3173,520,1,2,483,778,27,2296,39,563
 Dispute Resolution4 Any	13037
 Dispute Settlement	1243,11788,3941,773,1052
 Dispute Settlement Chapter	1243
@@ -911,10 +925,10 @@ Dispute of Tax Audit Results	12389
 Dispute-resolution	6432
 Disputed	14867
 Disputed Area	15138
-Disputed Area OP	1867,1589,148,7164,649,488,521,685,412,1030,23,1082,3,483,531,2570,39,123
+Disputed Area OP	1867,1589,148,7164,649,488,521,685,412,1030,23,1082,3,483,531,2570,39,123,256,184
 Disputed Areas	15372,3515
 Disputed Areas No B.3 Other Salient	18374
-Disputed Areas OP	1284,9545,134,1,561,330,110,172,1194,1,2079,102,40,1369,519,663
+Disputed Areas OP	1284,9545,134,1,561,330,110,172,1194,1,2079,102,40,1369,519,663,1731
 Disputed Bills	17243
 Disputed Concession Liberia	8393
 Disputes	961,3649,1822,4792,1961,196,185,843,523,408,505,990,4,77,10,1988
@@ -962,6 +976,7 @@ Effectiveness Disparities	17139
 Ekitale Dispensary Data Controller INST-551873D1231 BUNGOMA	7167
 Ekitale Dispensary Data Processor INST-551873D1231 BUNGOMA	7167
 Election Disputes	12201
+Electricity Disputes Tribunal The Electricity Disputes	19646
 Emergency Dispatch A I System	8283
 Empresarial. DISPOSICIÓN DEROGATORIA Quedan	16859
 Encuesta de Condiciones de Vida Disponibilidad	16898
@@ -970,6 +985,8 @@ Energy Progress Report. Disponible	16037
 Ensuring Quality of Service and Resolving Disputes	15120
 Entidade Regu- Disposi	18896
 Entrepreneurship and Skills Acquisition Disparities	6948
+Environmental Management and Disposal An OFC	19745
+Equipment Disposal Method	19702
 Equitable Access for Displaced Populations	10776
 Era da Inteligência Artificial. Disponível	2816
 Escalation and Dispute Protocols Contracts	6432
@@ -1014,6 +1031,8 @@ Forced Displacement. Justification of Overall Rating of Bank	11924
 Forcibly Displaced Situation	10841
 Francs Djibouti TITRE II DISPOSITIONS RELATIVES	4420
 Free Disposal of Wealth and Natural Resources	14742
+Fuel Dispensers	19712
+Fuel Dispensing	19712
 Fundo Disponível	18768
 Função Pública. CAPÍTULO VII Disposições	6970
 Funções SECÇÃO I Disposições Gerais Artigo	18800
@@ -1088,6 +1107,7 @@ IACN Disponibilidad	16898
 IACN Disponibilidad de IAPI	16898
 IACN Pendiente Disponer	16898
 IAPC Disponibilidad	16898
+ICT E-Waste By Reasons of Disposal of ICT	19702
 IDMC Internal Displacement Monitoring Centre	11887,266,1,9,178
 IDP Internally Displaced	14916
 IDP Internally Displaced Person	15220
@@ -1118,6 +1138,7 @@ IV. Dispositif	16613
 Ibero América. OEI. Disponível	2816
 Identity Document IDP Internally Displace Person	15415
 Ilemela MC Dispensaries	19585
+Improper Solid Waste Disposal	19715
 Improve the Tax Disputes Resolution Mechanism Revision	17011
 Improved Dispute Resolution	13532
 Independent Dispute Resolution	12597
@@ -1131,6 +1152,7 @@ Interference Disputes and Coordination	16835
 Interim Public Procurement and Disposal Regulations	18612
 Internal Displacement	10841,4033,350
 Internal Displacement Coordination Committee	18207
+Internal Displacement Monitoring Centre	19653,183
 Internal Procurement and Disposal Committee P.O. Box	13185
 Internally Displaced People	14934,1968,14
 Internally Displaced Person Inter-Agency Social Protection	16902
@@ -1191,6 +1213,7 @@ Ley. DISPOSICIÓN FINAL	16855,110
 Ley. DISPOSICIÓN TRANSITORIA	16855
 Linguistic and Geographical Disparities	4253
 List of Abbreviations ADR Alternative Dispute Resolution	12062,6124,31
+Litigation and Dispute Resolution	19712
 Live and Dispatch Live	13461
 Lynn DIU Dispositif	19350
 M DISPENSAIRE SCOLAIRE	13300
@@ -1201,6 +1224,7 @@ MATERIAL PROPERTY DISPOSALS	4896
 MATERIAL PROPERTY DISPOSALS SECTION FOUR	4896
 MICS Disponibilidad	16898
 MICS Pendiente Disponer	16898
+MIGRATION AND FORCED DISPLACEMENTS	19715
 MODIFICATION DES DISPOSITIONS DOUANIERES Article	16047
 MODIFICATION DES DISPOSITIONS DOUANIERES SECTION	16047
 MODIFICATIONS DES DISPOSITIONS DE LA FISCALITE	16047
@@ -1224,11 +1248,13 @@ Menu Display	15470,486,39
 Menu Display Início Orgânica D G	6530
 Mercado de Valores Disponibilidad	16898
 Methodology Handbook. Dispute Resolution	12389
+Methods of Solid Waste Disposal	19715
 Microsoft. Disponível	2816
 Migrants and Internally Displaced Persons	12145
 Migrants and Internally Displaced Persons Act	12145
 Migration and Displacement Data Management TWG	14021
 Migration and Displacement Data Management Technical Working	14021
+Migration and Forced Displacements	19715
 Ministère Disponibilité	3396
 Ministério-Justiça Asset Publisher Menu Display Menu	6530
 Mlimba DC Dispensaries	19585
@@ -1325,7 +1351,7 @@ Petty-trade Dispensary Primary	11857
 Physical Displacement	17114
 Physically Displaced People	17114
 Physically Displaced Persons	17114
-Policy IDMC Internal Displacement Monitoring Centre	10835,3,130,902,16,466,1,135
+Policy IDMC Internal Displacement Monitoring Centre	10835,3,130,902,16,466,1,135,7334
 Policy and Strategy for Internal Displacement Management	12779
 Portant Dispositions Organiques	13313
 Posición de Inversión Internacional Disponibilidad	16898
@@ -1348,6 +1374,7 @@ Procedure for Resolution of Complaints and Disputes	17243
 Process Management Dispute	11153
 Processo de Disponibilização Integrada	15755,621
 Processo de Disponibilização Integrada de Serviços Digitais	15755
+Procurement and Disposal Services	19641
 Procurement and Disposal Unit	9696,3362
 Procurement and Disposal of Public Assets Act	3700
 Procuring and Disposing Entities	13125,2
@@ -1365,15 +1392,16 @@ Public Procurement and Asset Disposal Act. GCSPs	6432
 Public Procurement and Asset Disposal Authority. VI	3583
 Public Procurement and Assets Disposal Act	14449
 Public Procurement and Disposal	13125
+Public Procurement and Disposal Act	19745
 Public Procurement and Disposal of Asset Authority	3583
 Public Procurement and Disposal of Assets	13053,5608
 Public Procurement and Disposal of Assets Act	18696
 Public Procurement and Disposal of Assets Authority	5668
 Public Procurement and Disposal of Assets Regulations	18661
 Public Procurement and Disposal of Public	13125
-Public Procurement and Disposal of Public Assets	13005,122,293
+Public Procurement and Disposal of Public Assets	13005,122,293,6381
 Public Procurement and Disposal of Public Assets Act	1210,3007,8770,140,293,186
-Public Procurement and Disposal of Public Assets Authority	3969,4754,4399,1552
+Public Procurement and Disposal of Public Assets Authority	3969,4754,4399,1552,5061,31,25
 Public Procurement and Public Asset Disposal Board	12535
 Publicador de Conteúdo Disponibilização	15470
 Publisher Controls for Display	13462
@@ -1407,6 +1435,7 @@ Realizado Disponer	16898
 Reduce Gender Disparities for FY	18512
 Refugee-Returnees and Internally Displaced Persons	14874
 Refugees and Internally Displaced People	15810
+Refugees and Internally Displaced Persons	19844
 Regional Displacement	10841
 Regional Displacement Characteristics	10841
 Regional Displacement Characteristics The Central Africa	10841
@@ -1431,6 +1460,7 @@ Rorya DC Dispensaries	19585
 Ruangwa DC Dispensaries	19585
 Rural Displacement Settings	10841
 Rural Displacement Settings Financial	10841
+Rural-Urban Disparities	19677
 Région Dispose	10875
 République du Congo DISPONIBILITE	15901
 SANCTIONS ET DISPOSITIONS FINALES Article	14483
@@ -1471,6 +1501,8 @@ Secrétariat Disponibilité	17983
 Secrétariat Disponibilité Non	17983
 Secrétariat Disponibilité Taux	17983
 Secure Disposal	18452
+Secure Equipment Disposal and Re-Use	19801
+Secure Equipment Disposal and Re-Use Organizations	19801
 Secção I Disposições	15380,5
 Secção II Disposições	16122
 Secção V Disposições	15391
@@ -1603,6 +1635,7 @@ VOLUNTARY RESOLUTION OF DISPUTES	3714
 VOLUNTARY RESOLUTION OF DISPUTES Alternative	3714
 Veja. Disponível	2816
 VoicesAfrica. Afrobarometer Dispatch No	12192,86,223
+Waste Disposal	19715
 Waste Disposal About	12383
 WhatsApp. Disponível	2816
 White Pages Retrieve Information for Display Reference	1009

@@ -68,6 +68,7 @@ Countries of Origin	10841
 Country of Origin	2775,8066,1145,2789,717,1443
 Country of Origin Fig	1554
 Country of Origin Information Unit	13997
+Country of Origin Uganda	19745
 Cultura Orientada	18801
 Current Senior Secondary Orientation	18461
 Curso de Orientación Universitaria	16864
@@ -95,7 +96,7 @@ Data Center OEM Original Equipment Manufacturer	3184,1,1340,6470
 Demba Kasaï Oriental Nkenakuna Kasaï Oriental	15670
 Demonstração da Orientação	11430
 Description Baseline Original End Target Revised	18825
-Development Objective Original Development Objective	2712,1976,1891,349,949,2993,525,576,17,240,39,173,587,31,858,4,136,892,32,51,128,576,2,276,66,626,289,6,79,17,374,35,399,54,48,127,217,4,1,179,258,25,165,101,159,7,232
+Development Objective Original Development Objective	2712,1976,1891,349,949,2993,525,576,17,240,39,173,587,31,858,4,136,892,32,51,128,576,2,276,66,626,289,6,79,17,374,35,399,54,48,127,217,4,1,179,258,25,165,101,159,7,232,348
 Didier Bompangue. Originally	14666
 Direction des Orientations	15936
 Diário Económico Original	8407,300,1648,115,1121,131
@@ -138,6 +139,7 @@ Finance Indicator Description Baseline Original	18825
 First Orientation Meeting	17322
 Fondation Orient-Occident	8891
 French original	11868
+Freshers' Orientation	19725
 Fundo Orik Capital	17074
 GDS ORION	10975
 GDS Orion Licence Dossier	10975
@@ -219,6 +221,7 @@ Mandritrany Orinasa	14490
 Mandritrasy Orinasa Mpanao	14490
 Mar-2021 Original Commitment Revised Commitment Actual	10779
 Mar-2022 Original Commitment Revised Commitment Actual	10779
+Martha Oringo	19639
 Mauritania Investment Project Financing Original	17849
 Measure Baseline Original Target Households	15601
 Mialohan’ny Orinasa	14488,1,1
@@ -376,7 +379,7 @@ Origin of Software	3787
 Origin1	2775
 Originaire du Maroc	16825
 Originaire du Togo	14712
-Original	28,6,5,72,35,155,11,91,181,182,10,177,90,173,12,289,7,196,335,159,30,9,636,842,726,12,6,3,18,26,2,129,957,200,634,696,20,292,3323,4,110,96,150,14,30,2,194,516,33,214,204,334,243,11,128,10,117,257,408,116,785,2,119,16,68,55,28,99,21,227,95,182,41,33,222,282,75,120,407,16,12,52,1,36,336,610,56,36,135,306,386,409,3,38,9,197,43
+Original	28,6,5,72,35,155,11,91,181,182,10,177,90,173,12,289,7,196,335,159,30,9,636,842,726,12,6,3,18,26,2,129,957,200,634,696,20,292,3323,4,110,96,150,14,30,2,194,516,33,214,204,334,243,11,128,10,117,257,408,116,785,2,119,16,68,55,28,99,21,227,95,182,41,33,222,282,75,120,407,16,12,52,1,36,336,610,56,36,135,306,386,409,3,38,9,197,43,156,41
 Original AF Target	15663
 Original Actual Sector Code	16614
 Original Allocation	14971
@@ -511,6 +514,7 @@ P130184 Country Western Africa Original EA	15424
 PAGAMENTO ORIENTAÇÕES PARA PAGAMENTO SIMPLIFICADO	11532
 PMU Lisungi DEVELOPMENT OBJECTIVE Original Development	11924
 POLICY ORIENTATION	12419,2468
+POPULATION OF CONCERN Countries of Origin	19760
 POSAF ORIENTATION STRATÉGIQUE N	10712
 PRINCIPIOS ORIENTADORES DE AÇÃO	15694
 PRINCÍPIOS ORIENTADORES Seis	18945
@@ -524,6 +528,8 @@ Payment Originator Connectivity Application Form ZAMBIA	12364
 Payment Originator The Payment Originator	12364
 Person of Indian Origin	18957
 Persons of Indian Origin	16331
+Place of Origin	19715
+Place of Origin and Main Reasons	19715
 Political and Economic Origins of Our Time	5700
 Primary Health Care Oriented HSSDP III	13982
 Princípios Orientadores	795,10584,40,29,15,53,7272,13,145
@@ -579,7 +585,7 @@ Service Orientated Architecture	15518
 Service Orientation	13624
 Service Orientation and Modularity	958
 Service Oriented	12920
-Service Oriented Architecture	11371
+Service Oriented Architecture	11371,8267
 Services Oriented Architecture	11371
 Serviços Orientados	11394
 Ses Hautes Orientations	8891

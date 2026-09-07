@@ -20,6 +20,7 @@ Census Enumeration Phase Census	16921
 Census Night. Enumerators	16921
 Clinic Ebonyi South East Enugu South	11857
 Commission EAs Enumeration Areas EBK Engineers	2775
+Coordination Centre EA Enumeration	19639
 DES CON ENUS PUBLICS CHAPITRE	15584
 DIGITAL MAIN ENUMERATION	18464
 DIGITAL MAIN ENUMERATION Population Size	18464
@@ -60,18 +61,22 @@ Enumerated Digital Rights	3861
 Enumerated Rights	3861
 Enumerated Rights Every	3861
 Enumerated UN Estimates Projected Estimated	16921
-Enumeration	11269,1066,1188,5428
+Enumeration	11269,1066,1188,5428,764
 Enumeration Area	11136,1267,4518,122,1421
 Enumeration Area ECCAS	15574
 Enumeration Area Geographical	582
 Enumeration Area GoL Government of Liberia GPS	16921
-Enumeration Areas	6106,8754,714,1347,206,158,1179,61,42,952,94
+Enumeration Area Maps	19715
+Enumeration Areas	6106,8754,714,1347,206,158,1179,61,42,952,94,26,76
 Enumeration Areas EMIS	14857
 Enumeration Areas. EAC	12403
+Enumeration Phase	19715
 Enumeration Questionnaire	16921
 Enumeration Questionnaire. The Listing Questionnaire	16921
+Enumeration Supervisors and Enumerators	19715
+Enumeration Survey SAACO Savings and Credit Co-operatives	19715
 Enumerator	582,12750,3817
-Enumerators	6947,8627,1347,206,38,1361,44,972
+Enumerators	6947,8627,1347,206,38,1361,44,972,97
 Enumeração	11901,869
 Enumeração Para	15912
 Enumeração São	15391
@@ -92,6 +97,7 @@ National Enumeration Area Map	18464
 National Enumeration Area Map BUILDING FRAME	18464
 PES Post Enumeration Survey PO Provincial	11192
 Post Enumeration Surveys	11421
+Post-Enumeration Survey A Post Enumeration	19715
 Region Enumerated Empty	15574
 Selection of Enumeration Areas	17285
 Supervisors and Enumerators	18464

@@ -49,7 +49,7 @@ Annexure-I. Bilateral Mechanism India and Burkina Faso	16256
 Anti-GBV Bill	18624
 Antonio Billy	13044
 Appointment of Days for Stages of Bills	18436
-Appropriation Bill	1273,1,1,237,1,32,1,61,1,1,1,1,1,1,1,1282,1,1,1,1,1,1,1667,1,1,1,1,1,624,1390,4701,7147,1166
+Appropriation Bill	1273,1,1,237,1,32,1,61,1,1,1,1,1,1,1,1282,1,1,1,1,1,1,1667,1,1,1,1,1,624,1390,4701,7147,1166,176
 Appropriation Bill Summary of Expenditure	15716,211
 Appropriation Bill for Head	12606
 Approved DHA Bill	5533
@@ -73,6 +73,7 @@ BIL. Finally	17235
 BILALA	15524
 BILAN	17833
 BILAN CIB	17841
+BILAN COMPARE	19850
 BILAN DEC	17833
 BILAN DES ENTREPRISES CREEES AU CFE	19286
 BILAN DIMF	18032
@@ -120,6 +121,7 @@ BILLION Total Courier Traffic	9781
 BILLION USD IN INVESTMENT	15679
 BILLS ON SOLAR EA LIMITED Data	7167
 BILLS REPORT STAGE The Geological and Minerals	13387
+BILLS SUPPLEMENT No.2	19769
 BILMAX INSURANCE BROKERS LIMITED Data Controller	7167
 BILMAX INSURANCE BROKERS LIMITED Data Processor	7167
 BILOUKY CKIMOUNTHOU	15692
@@ -149,7 +151,7 @@ Bilal Medabis	15467
 Bilal Moussa	13842
 Bilal Siddiqi IDinsight's Catalytic Fund	12182
 Bilale Eden Gabriel Vieira Dava Social	18809
-Bilan	737,2659,279,1220,225,3771,1628,356,90,10,3461,22,1021,101,90,50,241,361,72,320,731,40,155,204,87,14,97,63,185,1,6,7,982,5,4
+Bilan	737,2659,279,1220,225,3771,1628,356,90,10,3461,22,1021,101,90,50,241,361,72,320,731,40,155,204,87,14,97,63,185,1,6,7,982,5,4,555
 Bilan Mi-	10876
 Bilan Puissance Electrique O5 DIRECTION DES	15670
 Bilan du Premier	17978
@@ -180,6 +182,7 @@ Bilateral Creditors	18851
 Bilateral Discussion	18496
 Bilateral Economic Commission	5086
 Bilateral Engagements Targeted	7548
+Bilateral Health Cooperation Memorandum of Understanding	19729
 Bilateral Institutional Mechanism	16237
 Bilateral Institutional Mechanisms	18691
 Bilateral Institutional Mechanisms Joint Commission Meeting	17241
@@ -195,6 +198,7 @@ Bilateral Loans The Public Debt Management	14546
 Bilateral Mechanisms	12617
 Bilateral Meetings Conducted	17289
 Bilateral Political Consultations	14668
+Bilateral Pressure	19655
 Bilateral Relations	18658
 Bilateral Trade	11579,1038,944,5130
 Bilateral Trade Agreement Facilitation	16631
@@ -302,7 +306,7 @@ Bill Home Affairs Bill NA	11986
 Bill ID	8102
 Bill Marwa	17745
 Bill Minister	11986
-Bill No	127,5493,11,1123,1646,820,1915,1445,17,522,7,5923,10
+Bill No	127,5493,11,1123,1646,820,1915,1445,17,522,7,5923,10,710
 Bill No. IX	14829
 Bill No.1	12602
 Bill No.4	12556
@@ -377,10 +381,10 @@ Billeh	2124
 Billet	6415,978,666,2320,2,310,2761,31
 Billet Facile	16672
 Billet de Banque	17833
-Billets	15456,2029,348
+Billets	15456,2029,348,2017
 Billetterie Transport CI	15936
 Billetterie Transport CI Dépend	15936
-Billing	2528,1906,1245,3758,1794,649,182,302,147,2356,1357,585,1377,31,645,722
+Billing	2528,1906,1245,3758,1794,649,182,302,147,2356,1357,585,1377,31,645,722,161
 Billing Billing TTC MT298 SMT	12364
 Billing Contact Email	16845
 Billing Efficiency	12062,6124,31
@@ -390,7 +394,7 @@ Billing Section	9437
 Billing System	19584
 Billing TTC	12364
 Billing and Debt Management Information System	19584
-Billion	1191,988,413,185,1903,216,267,492,214,590,134,188,665,77,503,1091,664,1021,20,488,46,354,147,137,84,174,143,105,17,89,230,126,91,94,1785,37,16,19,574,26,373,654,658,974,301,968,2,51,37
+Billion	1191,988,413,185,1903,216,267,492,214,590,134,188,665,77,503,1091,664,1021,20,488,46,354,147,137,84,174,143,105,17,89,230,126,91,94,1785,37,16,19,574,26,373,654,658,974,301,968,2,51,37,24
 Billion Agreement	6551
 Billion Agriculture Manufacturing Services	6593
 Billion Average	12252,895
@@ -436,6 +440,9 @@ Billion Liberian Dollars	17159
 Billion MTN	10425
 Billion Mar	9781
 Billion Memorandum of Understanding	14890
+Billion Messages	19728
+Billion Mins	19728
+Billion Minutes	19728
 Billion Nominal Revenue Growth Inflation Rate	14985
 Billion One Hundred and Thirty-Six Million	3862
 Billion Power Cross-Border Transmission Line URL	15870
@@ -448,12 +455,15 @@ Billion RWF Enterprise	12445
 Billion Resulting	19585
 Billion Revenue	17723
 Billion Rwandan Francs	13418
+Billion Sessions	19728
 Billion Shillings	19602
 Billion Steel Investment Deal	18221
 Billion Strategic Investment Partnership for The Gambia	17347
 Billion Technological Innovation Fund	3218
 Billion To Spur Infrastructure	18533
 Billion US Dollars	5903
+Billion Uganda Shillings	19744
+Billion Uganda Shillings Approved Budget Released	19641
 Billion Valuation	9098
 Billion Without Consideration	19585
 Billion World Bank-supported	18263
@@ -464,11 +474,12 @@ Billion' Revenue Drive	11710
 Billion-Dollar Startups	10010
 Billion-Person Challenge Background Paper	10985
 Billionaire Strive Masiyiwa	2888
-Billions	24,2240,512,807,350,239,345,92,166,386,434,1351,32,63,7682,1160,1352,23,245,2082
+Billions	24,2240,512,807,350,239,345,92,166,386,434,1351,32,63,7682,1160,1352,23,245,2082,143
 Billions Cut	2428
 Billions Est	17745
 Billions Figure	4517
 Billions L	17235
+Billions Mins	19728
 Billions Other Retail Vaues	6978
 Billions RWF Fiscal Year Taxes Fees	13418
 Billions Volumes	4517,2461
@@ -487,7 +498,7 @@ Bills Were Passed	10034,231
 Bills and Motions	14409
 Bills and Regulations	12976
 Bills of Exchange	9220,121
-Bills of Exchange Act	14728,4155
+Bills of Exchange Act	14728,4155,781
 Bills of Exchange Act. Full	19509
 Bills of Exchange Amendment Bill	9215
 Bills of Sale	19602
@@ -855,6 +866,7 @@ Grants Bilateral Multilateral Expenditure Compensation	11136
 H. Draft Legal Aid Bill	12939
 H.E President William Ruto. The Bill	1838
 HOLDS BILATERAL MEETING WITH PRESIDENT BOKO	12568
+HORS BILAN COMPARE	19850
 HORS BILAN DEC	17833
 HORS BILAN DIMF	18032
 HORS BILAN ETAT	17841
@@ -862,6 +874,7 @@ HORS BILAN MONTANTS NETS POSTE Exercice	17841
 Hala and Biladi	15342
 Hand Bills	17235
 Health Insurance Bill	12598
+Highlights of Vote Performance Billion Uganda Shillings	19641
 Hikmatu Bilali Reducing	3102
 Holding the Bill	1221
 Home Affairs Act Home Affairs Bill	11986
@@ -918,6 +931,7 @@ India. Bilateral Trade	17241,1137
 Industry Bill	14829
 Industry and Competition. The Bill	5872
 Infant Registration Bill	4534
+Information and Communications Bill	19641,19
 Information and Media Broadcasting Bill	17105
 Innovation Lab Bill	878
 Intelligent Billing	16809
@@ -928,6 +942,7 @@ Interpretation of Bill of Rights	2307
 Intérprete Traductor Bilingüe	4209
 Intérprete Traductor Bilingüe Secretario Particular	4209
 Issued Bill Report	19585
+Item Billion Uganda Shillings Approved Budget	19641
 J. Bila	2816
 JCPS Cluster Home Affairs Bill	5533
 JCPS DG’s Meeting Home Affairs Bill	5533
@@ -935,6 +950,7 @@ K2 Billion	14190
 K3 Billion Lost	14674
 KATANGA Bilabina ADJ	19251
 KATANGA Bilakani ADC	19251
+KMF Billions	19823
 KSh Billions	17745
 KURREEMBUKUS Bilall Ally Ag Human	14770
 Kaduna State Bill	670
@@ -1088,6 +1104,7 @@ National Data Protection and Privacy Bill and Cybercrime	16923
 National Digital Economy and E-Governance Bill	3942,641,925,547,3825
 National Digital Economy and Governance Bill	17571
 National Disability Bill	17296
+National Drug and Health Products Authority Bill	19768
 National E-Health Bill	965,3804,120,206,402
 National Electricity Bill	18614
 National Health Insurance Bill	1009
@@ -1164,6 +1181,7 @@ Parliamentary Bills	1243
 Patriotic Bill	6951
 Paulo A. Monteiro Bilhetes de Identidade Já	6837
 PayShap Crosses R100 Billion	5691
+Paying Bills	19702
 Payment System Bill	12735,2335
 Payment Systems Bill	12653
 Payment of Bills	17243
@@ -1217,6 +1235,7 @@ RAPPORT BILAN DE LA MISE EN	15639
 REGISTRATION AND IDENTIFICATION BILL	12959
 REPUBLIC OF SEYCHELLES BILL	19059
 RULAAC Warns Data Protection Bill Could	7458
+Radio Bilal	19641
 Rapid Data Collection Platform Bill	1113
 Recommittal of Bill	18436
 Reconciliation and Healing Bill	18615
@@ -1233,6 +1252,8 @@ Republic of Burundi. The Bill	3738
 Republic of South Africa. The Marriage Bill	5533
 Revenue Utility Billing and Accounts Receivable Cashiering	9437
 Review of Existing Bilateral Roaming Agreements Wholesale	17212
+Reviewed the Industrial and Scientific Metrology Bill	19712
+Reviewed the Legal Metrology Bill	19712
 Roadmap for Billion-Dollar Organizations. MIT Center	6832
 Robotics and Artificial Intelligence Society Bill	4734
 Rs22 Billion	14729
@@ -1294,7 +1315,7 @@ Single Billing Document	15590
 Six Hundred and Seventy-Four Billion	3862
 Social Protection Bill	14487,1372
 Social Security Portability Bill	14997
-Software Bill of Materials	6936,8225
+Software Bill of Materials	6936,8225,4640
 Software Bill of Materials GRA Ghana Revenue	6936
 Software Bills of Materials	6936
 Solid Waste Management and Disposal Bill	1964
@@ -1343,6 +1364,7 @@ Tehnopolis Bill	6133
 Telecommunication. Bilateral Institutional Mechanism	17240
 Termination of Pregnancy Bill	13040
 Third Reading of Appropriation Bill	18436
+Through Landmark Bilateral Agreements	19729
 Thématiques Bilan Paix	4895
 Tinkhundla Administration and Local Government Bill	12970
 Tinkhundla Local Government Bill Consultations	12970
@@ -1376,12 +1398,16 @@ UN Security Council Resolutions. The Bill	12959
 UN Women WHO IOM Bilateral	11332
 UNIVERSALIZAÇÃO DO BILHETE DE IDENTIDADE	10772
 UNSGSA Secretariat Inclusive Finance for Development Bill	1486
+UShs Billion	19641
+Uganda Shillings Billions	19742
 Under the Bilateral Agreement	4260
 Unified Interoperable Retail Payments Support Bill	1480
 University of Nairobi's Registration and Identification Bill	12138
 Use Bill	1964
 Use of Electronic Communications and Transactions Bill	12325
 User Billing	3012
+Ush Billion	19744
+Ushs Billion	19742,1,3
 V.2 Electronic Billing Machine Version	14985
 VBAB. Bilateral	18016
 VETTING BILL	17388

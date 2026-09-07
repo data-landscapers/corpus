@@ -75,6 +75,7 @@ Construction Site Observation Daily Minimize	17114
 Construction Site Observation Daily Minimize OHS	17114
 Contribuinte Obs. CI	11532
 Contribuinte Obs. Imposto	11532
+Copernicus Earth Observation	19808
 Corporate Europe Observatory	11050
 Counseling Counseling Observation Pesé1	13300
 Cross-Cutting Observations	7151
@@ -125,6 +126,7 @@ Earth Observation Satellite FUNCTIONS	1131
 Earth Observation Satellite System	2242,63
 Earth Observation URL	11334
 Earth Observation and Communication Satellites	1131
+Earth Observation and IoT	19808
 Earth Observation for Agricultural Statistics	13394,81
 Earth Observation-based	15552
 Earth Observations Global Agricultural Monitoring	13094,1046
@@ -167,12 +169,13 @@ Global AI Ethics and Governance Observatory Country	11483,1095
 Global AI Ethics and Governance Observatory Search	18840
 Global AI Ethics and Governance Observatory URL	15680,3160,312
 Global Basic Observations Network	18578
-Global Basic Observing Network	11553,2059,3086,1611,364,114,82
+Global Basic Observing Network	11553,2059,3086,1611,364,114,82,793
 Global Basic Observing Network GDP	18309
 Global Climate Observing System	18869
 Global Drought Observatory Monthly Aridity Index	17157
 Global Drought Observer	17157
 Global Earth Observations for Crop Inventory Forecasting	13094
+Global Education Observatory	19657
 Global Forest Observation Initiative GEI Gases	16875
 Global Forest Observations Initiative	16036
 Global Health Observatory	8891,8978
@@ -218,7 +221,7 @@ KHRO Kenya Health and Research Observatory KIE	2775
 Kenya Agricultural Observatory Platform	14551
 Kenya's Agricultural Observatory Platform	7545
 Kenya’s Agricultural Observatory Platform	11140
-Key Observations	17149
+Key Observations	17149,2563
 Kind of Data Observation	15843,1,821,380,880
 Kufra Observing Station	16956
 L'ANTENNE Observations	16552
@@ -248,6 +251,7 @@ MLE PRENOMS NOMS GRADES OBSERVATIONS BALLO	18003
 MLE PRENOMS NOMS GRADES OBSERVATIONS MOSSA	18003
 MOUSTIQUAIRES DU OBSERVÉE	13300
 Main Obstacles	1828
+Maintenance and Observation Network	19662
 Map Earth Observation	11762,1988
 Marine Observation and Forecasting System	16947
 Market Observatory Framework	15120
@@ -268,7 +272,7 @@ National Artificial Intelligence Observatory	10300
 National Centre for Earth Observation and National Centre	13686
 National Data Observatory	11261
 National Digital Economy Observatory	18359
-National Digital Observatory	18350
+National Digital Observatory	18350,1378
 National Drug Observatory	14742,39
 National Health Observatory	4260
 National Housing Data Observatory	8087
@@ -339,7 +343,7 @@ OBSYDYA. Cette	16359
 OBsERVAtIONs INCLUsEs	7655
 ODA Official Development Aid OEC Observatory	16996
 ODHD Observatory	17906
-ODW Open Data Watch OEC Observatory	10835,3,130,902,16,466,1,135
+ODW Open Data Watch OEC Observatory	10835,3,130,902,16,466,1,135,7334
 OEC Observatory for Economic Complexity	11887,266,1,9,178
 OECD AI Policy Observatory	1204,5628,8881
 OECD Artificial Intelligence Policy Observatory	11140
@@ -377,7 +381,7 @@ Observaram-se	11523
 Observat	18791
 Observateur	8269,7981
 Observateurs de Court-Terme	18310
-Observation	1988,5,7552,803,1205,648,883,387,288,24,754,318,94,422,22,857,1661,293,105,1,14,254,407,591
+Observation	1988,5,7552,803,1205,648,883,387,288,24,754,318,94,422,22,857,1661,293,105,1,14,254,407,591,86
 Observation Article	15371
 Observation Citoyenne	16210
 Observation Electoral	18310
@@ -395,7 +399,7 @@ Observation of PPE	1988
 Observation. Improved	11420
 ObservationDeLaTerre	16102
 ObservationIdentifiersNamesandCodes	8606
-Observational	11553,1812,364,719,3861,269,209
+Observational	11553,1812,364,719,3861,269,209,875
 Observational Infrastructure	11553,7234
 Observational Infrastructure. STP	18787
 Observational Practices	16947
@@ -412,6 +416,7 @@ Observations Number	10997
 Observations Proportion	14622
 Observations Remarks	16552,454
 Observations Restauration	10876
+Observations Sans	19850
 Observations Spatiales	15368
 Observations Spatiales L’AGEOS	15368
 Observations Youth	9616
@@ -482,6 +487,7 @@ Observatory NSG National School of Governance NSPDR	11261
 Observatory PADEC Comorian Economic Digitalisation Support	13731
 Observatory SAIAB South African Institute for Biodiversity	5246
 Observatory SAWS South African Weather Service	5246
+Observatory for Economic Complexity	19653,183
 Observatory of Economic Complexity	2889,11500,2607
 Observatory of Employment and Professional Training	10963,1
 Observatory of Killed Journalists.8 C. THE RIGHT	17970
@@ -516,7 +522,7 @@ Observemos	12018
 Observer	585,1751,690,189,489,4870,248,1195,636,169,1083,1012,1492,1439,112,1938,314
 Observer Committees	15393
 Observer Various	18787
-Observers	2736,303,179,761,774,281,696,408,39,2434,344,3246,451,880,3415,70,1968
+Observers	2736,303,179,761,774,281,696,408,39,2434,344,3246,451,880,3415,70,1968,670
 Observers UNMIL USAID	16853
 Observing	6612,9705,2142,5
 Observing Member	14736
@@ -531,7 +537,7 @@ Obsolescence	14965,577,2300
 Obsolete	7548,6185,996
 Obsoletes	12058
 Obstacle	12389,4163,454
-Obstacles	5679,1976,366,1867,2501,936,516,1700,58,2283,1078
+Obstacles	5679,1976,366,1867,2501,936,516,1700,58,2283,1078,679
 Obstaculizar	16965
 Obste	10881
 Obstetras	18768
@@ -651,7 +657,7 @@ System GBON Global Basic Observation Network	18578
 System LOINC Logical Observation Identifiers Names	13306
 System SOFF Systematic Observations Financing Facilities	11553
 Systematic Observation Impact Bonds	18869
-Systematic Observations Financing Facility	11553,2059,836,1548,418,2164,291
+Systematic Observations Financing Facility	11553,2059,836,1548,418,2164,291,793
 Systematic Observations Financing Facility Decision	18677
 Systematic Observations Financing Facility SWIFT	18309
 Systematic Observing and Financing Facility	14738

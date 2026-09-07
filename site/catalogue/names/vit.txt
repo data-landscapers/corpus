@@ -10,6 +10,7 @@ Acknowledgements The Civil Registration Vital Statistics	12337
 Acknowledgment The Somalia Civil Registration and Vital	14894
 Act Kenya Vital Statistics Report	12151
 Administration VITIB	1005
+Advance Vital Statistics and Data Integration URL	19780
 Africa Civil Registration and Vital Statistics	3426,7,1,4445,2712,2653
 Africa Civil Registration and Vital Statistics Day	9765,2150
 Africa's Civil Registration and Vital Statistics	13589
@@ -60,7 +61,7 @@ Civil Registration Vital Statistics	19541
 Civil Registration Vital Statistics and Identity DCR	12337
 Civil Registration and Vital	12241,2815
 Civil Registration and Vital Events	12533
-Civil Registration and Vital Statistics	171,806,226,451,56,1328,1219,3604,515,1159,1230,15,39,9,305,9,248,90,489,88,7,273,1,29,3,43,226,305,61,2,73,15,330,253,545,399,267,5,56,106,27,28,98,38,1065,208,376,26,85,388,744,127,183,22,3,45,10,61,951
+Civil Registration and Vital Statistics	171,806,226,451,56,1328,1219,3604,515,1159,1230,15,39,9,305,9,248,90,489,88,7,273,1,29,3,43,226,305,61,2,73,15,330,253,545,399,267,5,56,106,27,28,98,38,1065,208,376,26,85,388,744,127,183,22,3,45,10,61,951,202,37,24
 Civil Registration and Vital Statistics BDRS	12639
 Civil Registration and Vital Statistics Coming Soon	12406
 Civil Registration and Vital Statistics D4H Data	15056
@@ -75,6 +76,7 @@ Civil Registration and Vital Statistics Strategic Plan	12334
 Civil Registration and Vital Statistics System	4120,6645,10,1363,200,29,46,2476,167
 Civil Registration and Vital Statistics Systems	11133,1280
 Civil Registration and Vital Statistics Systems Management	19541
+Civil Registration and Vital Statistics Technical	19780
 Civil Registration and Vital Statistics The Mountain	12761
 Civil Registration and Vital Statistics ZANZIBAR	19615
 Civil Registration and Vital Statistics ZIMBABWE CRVS-HEALTH	13678
@@ -186,6 +188,7 @@ Manager of Population Census and Vital Statistics	19542
 Maryland Vital Statistics Annual Report	12413
 Missouri Vital Statistics	12413
 Mkomazi Vitongoji	19592
+Mobile Vital Registration System	19774
 Modernisation of Civil Registration and Vital Statistics	10972
 Monitoring Vital Events Using Information Technology	10822
 Monitoring of Vital Events	10822,1316
@@ -305,7 +308,7 @@ ViT-LSTM	13162
 ViT-based	13162
 Village de Vitré	1005
 Vitabu	19565
-Vital	970,1945,6045,1859,3,1316,13,99,77,10,1,29,11,35,31,27,135,356,43,474,931,114,70,300,162,406,282,2696,34
+Vital	970,1945,6045,1859,3,1316,13,99,77,10,1,29,11,35,31,27,135,356,43,474,931,114,70,300,162,406,282,2696,34,1269
 Vital Documents	14137
 Vital Event	12151,75
 Vital Event Record	12151
@@ -333,7 +336,9 @@ Vital Statistics Community Engagement Strategic Plan	13596
 Vital Statistics Database Informants	12337
 Vital Statistics PREFACE	12338
 Vital Statistics Production	14894
-Vital Statistics Report	12151,176,10,30,46,120,562,549
+Vital Statistics Records	19686
+Vital Statistics Records Program Operations Manual	19686
+Vital Statistics Report	12151,176,10,30,46,120,562,549,6136
 Vital Statistics Report Bureau of Statistics P.O	12672
 Vital Statistics Report MCH Maternal and Child	12151
 Vital Statistics Report Production and Dissemination Process	12367

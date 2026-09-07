@@ -8,7 +8,7 @@ ARV Anti-Retro Viral ASYCUDA Automated System	18931
 ASM Asylum Seeker Management BABS Branch	11218
 ASY. REF. ASY	11900
 ASY. REF. ASY. REF. ASY. REF	11900
-ASYCUDA	969,1143,928,2037,2129,2975,369,31,994,292,39,443,14,23,105,48,417,86,11,142,429,501,1353,1153,245,6,19,48,47,15,52,42,209,53,1133,46,408,134
+ASYCUDA	969,1143,928,2037,2129,2975,369,31,994,292,39,443,14,23,105,48,417,86,11,142,429,501,1353,1153,245,6,19,48,47,15,52,42,209,53,1133,46,408,134,577,174,8
 ASYCUDA Access URL	16882
 ASYCUDA Advisory Board	13042
 ASYCUDA Advisory Board and Deputy Secretary-General	13042
@@ -67,8 +67,8 @@ ASYCUDA System for Performance Measurement	13042
 ASYCUDA TileSW	13042
 ASYCUDA Training	16631
 ASYCUDA Training Session for Turkmenistan Customs Officers	15478
-ASYCUDA WORLD	5077
-ASYCUDA World	969,1143,2452,3488,306,405,2954,669,268,399,261,762,142,1260,1404,62,5,19,43,94,96,166,503,630,77,356,155
+ASYCUDA WORLD	5077,14588
+ASYCUDA World	969,1143,2452,3488,306,405,2954,669,268,399,261,762,142,1260,1404,62,5,19,43,94,96,166,503,630,77,356,155,577
 ASYCUDA World ASYCUDA World	18500
 ASYCUDA World Password Reset Process	12654
 ASYCUDA World Registration Process Table	12654
@@ -79,6 +79,7 @@ ASYCUDA Yearbook	13042
 ASYCUDA for Customs	12915,4452
 ASYCUDA's Customs Management System	16631
 ASYCUDA-Based Single Window for Trade	13042
+ASYCUDA-Compendium-2022-Djibouti.pdf	19839
 ASYCUDA-Compendium-2022-Gambia.pdf	16901
 ASYCUDA-World	17367
 ASYCUDA-based ASTANA	15478
@@ -87,8 +88,9 @@ ASYCUDA-based Single Window. Customs	13042
 ASYCUDA. Authorized LRA and Customs	16882
 ASYCUDA. LIBERIA TIME RELEASE STUDY REPORT	17367
 ASYCUDA. The TIN	12349
+ASYCUDA.org	19839
 ASYCUDAWORLD The Namibia Revenue Agency	13067
-ASYCUDAWorld	1393,999,9183,1079,297,91,25,348,2063,1153,270
+ASYCUDAWorld	1393,999,9183,1079,297,91,25,348,2063,1153,270,2938
 ASYCUDAWorld ASYCUDA's Customs Management System	16631
 ASYCUDAWorld ASYCUDAWorld	13042,2436
 ASYCUDAWorld Advanced Functional Training	13042
@@ -105,6 +107,7 @@ ASYCUDAWorld Support	13042
 ASYCUDAWorld Unitrack	16631
 ASYCUDAWorld Upgrade	13042
 ASYCUDAWorld and Unitrack	16631
+ASYCUDAWorld. Currently	19839
 ASYCUDAWorld. Declarations	13067
 ASYCUDAWorld. Partner	16631
 ASYCUDAWorld. Partners	16631
@@ -152,7 +155,7 @@ Asya S S Omar Alshwehde Awatef	17403
 Asycuda	9945,3108
 AsycudaProgram	15478
 AsycudaProgram. Fabrice Millet	15478
-Asylum	1988,8853,23,313,809,241,4467
+Asylum	1988,8853,23,313,809,241,4467,3021,12
 Asylum Committee	16830
 Asylum Committee and Sub-Committees	16830
 Asylum Law and Policy	13769
@@ -161,7 +164,7 @@ Asylum Seeker Management	11986
 Asylum Seeker Management System	11986
 Asylum Seeker Management System DEPARTMENT	11986
 Asylum Seeker Management System Explanation	11986
-Asylum Seekers	11986
+Asylum Seekers	11986,7729
 Asylum Seekers and Special Permit	4667
 Asylum-Seekers	17323,1
 Asylum-Seekers Download	13669
@@ -225,6 +228,7 @@ Customs Process Modernization ASYCUDAWorld	16631
 Customs Regional Directorate NEW CALEDONIA ASYCUDAWorld	16631
 Customs and Trade Division TONGA ASYCUDAWorld Functional	16631
 DG and ASYCUDA	16631
+Digital Customs Administration Using ASYCUDAWorld Equitable	19839
 Djibouti Digital Customs ASYCUDAWorld.pdf	1393
 Download Asycudaworld Tax Information Turnover Tax	12454
 Débit Asymétrique ANTIC Agence Nationale des Technologies	15541
@@ -290,6 +294,7 @@ Outlook With ASYCUDAWorld	13042
 POWERED BY ASYCUDA	13042
 Platform ASYSW ASYCUDA-based Electronic Single Window	13042
 Project Workplans. Asylum Law and Policy	13773
+Provision of First Asylum	19655
 Public Key Infrastructure Asymmetric	11869
 Qena Beheira Monufia Asyut Sharqia Giza	15578
 Refugee and Asylum Seekers Unit	16836

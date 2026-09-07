@@ -60,6 +60,7 @@ Authority’s Chief Executive Officer and Director General	14176
 Ayham Moussa. Chief Operations Officer	10120
 BHOWON Georges Cleret Gerard Chief	14770
 BOCRA Acting Chief Executive Officer Maitseo	7239
+BOCRA Chief Executive Martin Mokgware	19688
 BPO Business Process Outsourcing CIO Chief	14965
 Bank Windhoek Chief Financial Officer	13194
 Bank Windhoek Chief Financial Officer Zenaune	13192
@@ -84,6 +85,7 @@ British International Investment Chief Executive Officer	9503
 Brown Kasaro Chief Electoral Officer	12465
 Brown P. Alphonsus Zeon CHIEF LEGAL	17235
 Business Intelligence CDHO Chief Digital Health	12240
+CAO Chief Administrative Office CERT.UG	19639
 CEO Chief Executive Officer	12911
 CEO Chief Executive Officer CFDC Community	16843
 CEO Chief Executive Officer CIC Chief	19042
@@ -137,7 +139,11 @@ Chief AI Officers	16212
 Chief Accountant	1554,2050
 Chief Accountant MoH	34
 Chief Accountant and RAPID-CI PCU	3604
-Chief Administrative Officer	11800
+Chief Accounting Officers	19707
+Chief Administrative Office	19639
+Chief Administrative Officer	11800,7915
+Chief Administrative Officer CDO Community Development	19647
+Chief Administrative Officers	19707,4,86,7
 Chief Administrative and Executive Officer of USGIS	16833
 Chief Administrator	18465,2,247
 Chief Administrator and Chairman	18467
@@ -226,7 +232,7 @@ Chief Enterprise Business Officer	3220,6500
 Chief Enterprise Business Officer Angela Mensah-Poku	9840
 Chief Enterprise Business Officer Lynda Saint-Nwafor	3155,31
 Chief Evangelist	6065
-Chief Executive	11,1198,3687,2949,548,140,285,2311,192,1304,21,252,71,838,1,140,880,15,37,1960,1400,648,21
+Chief Executive	11,1198,3687,2949,548,140,285,2311,192,1304,21,252,71,838,1,140,880,15,37,1960,1400,648,21,719,23,61
 Chief Executive EDPA GUIDELINES NO	13004
 Chief Executive Officer	585,2,149,395,202,689,489,176,330,203,318,176,6,41,126,376,94,306,233,435,28,90,89,126,48,405,511,146,164,8,127,22,19,93,18,173,46,108,42,12,8,49,122,10,45,253,49,80,34,152,11,58,150,32,207,72,103,41,20,160,182,510,91,53,52,99,269,52,92,143,248,73,5,1,2,64,23,19,40,468,28,200,20,50,199,54,16,43,80,97,97,19,249,148,9,65,3,60,76,14,30,66,16,16,181,232,136,51,7,141,62,12,162,8,27,27,15,29,30,52,33,53,37,2,34,2,7,10,71,38,18,139,243,222,634,13,791,148,300,9,377,710,34,94,14,140,120,18,2,5,54,32,96,25,54,19,41,299,13,8
 Chief Executive Officer Antoine Sebera	6388
@@ -352,7 +358,7 @@ Chief Executive Officer of Vodacom Congo	5714
 Chief Executive Officer of Yas Comoros	3067
 Chief Executive Officer's Overview	408
 Chief Executive Officer. Election Process	8866
-Chief Executive Officers	12170,948,302
+Chief Executive Officers	12170,948,302,6245
 Chief Executive Officers of Swakopmund Municipality	13118
 Chief Executive Officer’s Meeting	14721
 Chief Executive Ofﬁcer	2709
@@ -371,7 +377,8 @@ Chief Executive of NITT	10603
 Chief Executive of SNPT	5407,676
 Chief Executive of Société Générale Chad	18909
 Chief Executive of Stanbic Bank Ghana	8928
-Chief Executives	14746,1520
+Chief Executive's Statement	19651
+Chief Executives	14746,1520,3535
 Chief Executives of Local Authorities	14738
 Chief External Affairs Officer	4993,2438
 Chief Finance Officer	15080,2170
@@ -493,9 +500,12 @@ Chief Legal Affairs Officer	17375
 Chief Legal Affairs Officer Supu H	17375
 Chief Legal Officer	587
 Chief Licensing Officer	11053
-Chief Magistrate	12920,4052
+Chief Magistrate	12920,4052,2656,186
 Chief Magistrate of Zimbabwe	13504
 Chief Magistrates	12668
+Chief Magistrates Court	19814
+Chief Magistrates Court of Nakawa	19814
+Chief Magistrates' Court	19628
 Chief Magistrate’s Office	13504
 Chief Management Analyst	6946
 Chief Marketing Officer	10120
@@ -538,7 +548,7 @@ Chief Operations Officer MPhil	11134
 Chief Operations and Strategy Office	5837
 Chief Power	11976
 Chief Procurement Officer	11222
-Chief Product Officer	6865,3358
+Chief Product Officer	6865,3358,9547
 Chief Products	19106
 Chief Project Officer	2555
 Chief Projects Portfolio Management Officer Ato	12195
@@ -600,9 +610,11 @@ Chief Technical Advisor	14922
 Chief Technical Advisor DCICs District Census	16921
 Chief Technical Officer	4759,9963,70
 Chief Technical Officer Brian Karuhanga	18676
+Chief Technical Officer of Roke Telkom and Roke	19762
 Chief Technology	17394,1888
 Chief Technology Officer	3652,41,1523,1475,1184,1945,685,6565
 Chief Technology Officer DC Data Centre	6432
+Chief Technology Officer of ABQ Cloud	19762
 Chief Technology Officer of Ghana Link	16170
 Chief Technology Officers	17746
 Chief Technology and Information Officer	3699
@@ -825,6 +837,7 @@ Europe AU African Union CIO Chief	11545
 Eve Christine Gadzikwa SADCAS Chief Executive	13068
 Every Chief Justice	8978
 Executive Co-Chair Robert Friedland and President and Chief	15952
+Executive Director and Chief Magistrate	19715
 Executive Members. The Chief Operating Officer	11131
 Executive Secretary and Chief Executive Officer	7317
 Executive Vice Chairman and Chief Executive Officer	7562,555,300,292,408,2175
@@ -865,6 +878,7 @@ Government Chief Technical Officer Kasali Musenge	7384
 Government Chief Technology Officer Kasali Musenge	5984
 Government Chief Valuer	19585
 Government Chief Whip	10672,218,8271
+Government Chief Whip Dr Jane Ruth	19815
 Government Chief Whip Hon. Dr Jane	10672
 Governor and Chief Operations Officer	11131
 Grace Githaiga Convenor and Chief Executive Officer	14601
@@ -977,6 +991,7 @@ MTN Nigeria’s Chief Marketing Officer	10120
 MTN Rwanda Chief Executive Officer	6139
 MTN South Sudan Chief Executive Officer	18719
 MTN South Sudan. Chief Executive Mapula	18676
+MTN Uganda Chief Executive Officer	19795
 MTN Uganda Chief Executive Officer Sylvia	9102,5269
 Macudvulwini Chiefdom	13012
 Maforki Chiefdom	18539,30
@@ -1113,6 +1128,7 @@ Paramount Chiefs and Chiefdom Administrative Clerks	18500
 Paramount Chief’s Barray	18538,1
 Paratus Africa Group Chief Commercial Officer	6405
 Paratus Group Chief Commercial Officer Martin	10697
+Parish Chiefs	19707
 People The Senior Chief Executive	14835
 Permanent Secretary and Chief Medical Officer	18532
 Permanent Secretary and Chief Medical Officer Establish	18532
@@ -1151,6 +1167,7 @@ RESTORE THE DIGNITY OF CHIEFS	16970
 Recovery Account CD Chief Director DAC	11218
 Regional Ad- Chief Executive Officer	6938
 Regional Chief Executive Officer	16118
+Regional Chief Medical Officers	19844
 Registrar and Chief Executive Officer	13158
 Regulation Skhumbuzo Tsabedze Chief Executive Officer	12969
 Regulators Chief Executive Officer	6938
@@ -1199,6 +1216,7 @@ Standard Bank Group Chief Executive of Corporate	9702
 Statement From The Senior Chief Executive	14738
 Statistician General. Chief Government Statistician	19557
 Stats SA Demographic Analysis Chief Directorate	11296
+Sub County Chief	19804
 Supervisor Responsibility Chief Data Officers	3861
 Supreme Court and Chief Registrar	18714
 Supreme Court. The Chief Justice and Associate	16943

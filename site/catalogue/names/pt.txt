@@ -57,7 +57,7 @@ EUROS Gouvernement PTF Total A2O2R2	15580
 EUROS Gouvernement PTF Total A2O3R1.2 Elaboration	15580
 EUROS Gouvernement PTF Total A3O1R1	15580
 EUROS Gouvernement PTF Total A3O2R1	15580
-Economic Complexity PTS Political Terror Scale	10835,3,130,902,16,466,1,135
+Economic Complexity PTS Political Terror Scale	10835,3,130,902,16,466,1,135,7334
 Education PTF	14472,3358
 Education PTF Partenaires Techniques	12
 Education de Base du Tchad PTA Parent-Teacher Association	18911
@@ -120,7 +120,7 @@ Language Selector PT EN FR	15505,637,51,150
 Le Ministre des PT-N	15768
 Le PT2S	16681
 Le PTA	10874,2
-Le PTBA	18222
+Le PTBA	18222,1465
 Le PTR	15569
 Le Patron des PTN	2602
 Les PTF	10874,1070,3729,47,1002

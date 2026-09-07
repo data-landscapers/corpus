@@ -58,9 +58,11 @@ ANNUAL ACTION PLANS	15796
 ANNUAL ACTIVITY REPORT	14985
 ANNUAL AGRICULTURE SURVEY FINAL REPORT	17043
 ANNUAL AND QUARTERLY	5533,6453
+ANNUAL AND QUARTERLY WORKPLANS FY	19689
 ANNUAL BUDGET PERFORMANCE REPORT FOR FINANCIAL	12976
 ANNUAL CHANGE IN ELECTRICITY ACCESS RATES	11572
 ANNUAL COST	16854
+ANNUAL CRIME TRENDS	19772
 ANNUAL CRYPTO INVESTMENT	4602
 ANNUAL DETERMINATION	17250
 ANNUAL EXPERT GROUP MEETING FOR AFRICAN	13677
@@ -156,6 +158,7 @@ ANNUEL	998,15716,1608
 ANNUEL GABON	15500
 ANNUEL Mauritanie	15432,24,11,40,27,60,8,6
 ANNUELLE REUNION SUR LA REGULATION DES	998
+ANNUELS Exercice	19850
 ANNULATION	998,14903
 ANNULATION APRES LA DATE FINALE	15901
 ANNULATION D’UNE FACTURE Article	15177
@@ -178,6 +181,7 @@ ATC Annual Meeting	18330,175
 AVERAGE ANNUAL INCREASE IN ACCESS	11572
 AWP Annual Variance Analysis	12241,839,15
 AWP Annual Work Plan	14916
+AWPB Annual Work Plan and Budget	19847
 AWPB Annual Work Plan and Budget BIF	1284
 AWPB Annual Work Plan and Budget BOAD	19239
 AWPB Annual Work Plan and Budget BP	15515
@@ -225,7 +229,7 @@ Annex II AWP Annual Variance Analysis	13080
 Annexes RAPPORT ANNUEL	18322
 Annu Rev Public Health	10881
 Annuai	3972
-Annuaire	643,544,1971,7817,549,1954,22,227,1667,81,67,57,74,47,2,21,200,217,135,1163,384,40,3,60,33,99,16,7,5,64,117,940
+Annuaire	643,544,1971,7817,549,1954,22,227,1667,81,67,57,74,47,2,21,200,217,135,1163,384,40,3,60,33,99,16,7,5,64,117,940,448
 Annuaire 2023 2024.pdf	18143
 Annuaire 2023 2024.pdf AVANT-PROPOS	18143
 Annuaire 2024 2025.pdf	18170
@@ -257,7 +261,7 @@ Annuaires Décentralisation	3396
 Annuaires Statis-	18077
 Annuaires Statistiques	13325
 Annuaires Statistiques MEBAPLN	15743
-Annual	11,117,83,25,23,130,1,123,74,121,1,1,26,74,2,112,4,1,17,23,1,43,12,40,72,4,1,72,6,64,73,84,138,163,35,90,37,40,152,679,410,419,110,147,26,51,34,213,32,308,717,291,143,1,423,332,305,95,114,591,11,114,183,439,582,1291,193,409,9,12,1,31,17,6,2,1,18,14,42,27,25,4,8,29,126,2,1,50,14,26,4,8,22,122,21,16,47,61,35,12,190,93,2,3,3,3,4,4,7,1,4,1,2,16,47,1,23,10,159,9,92,93,1,1,5,6,1,5,2,25,14,14,14,17,44,12,8,22,1,4,11,2,14,47,52,80,96,52,1,7,2,10,13,10,6,39,8,20,48,2,68,164,21,3,20,1,7,8,2,22,36,24,48,87,40,18,306,59,421,39,33,11,73,9,19,62,61,10,8,3,5,2,1,15,7,5,4,47,8,3,20,7,1,17,17,13,12,13,2,23,25,12,9,25,3,22,2,44,18,9,9,26,41,135,32,39,80,24,3,35,51,15,2,38,2,64,18,336,65,408,153,131,7,15,5,24,35,5,20,2,21,1,25,10,5,7,61,17,20,23,1,17,36,57,7,3,15,10,4,27,105,10,10,64,388,69,28,114,116,73,8,4,4,9,52,67,1,7,18,2,3,20,44,9,15,101,17,5,9,135,28,36,92,52,11,56,15,48,12,66,6,274,7,4,14,27,14,17
+Annual	11,117,83,25,23,130,1,123,74,121,1,1,26,74,2,112,4,1,17,23,1,43,12,40,72,4,1,72,6,64,73,84,138,163,35,90,37,40,152,679,410,419,110,147,26,51,34,213,32,308,717,291,143,1,423,332,305,95,114,591,11,114,183,439,582,1291,193,409,9,12,1,31,17,6,2,1,18,14,42,27,25,4,8,29,126,2,1,50,14,26,4,8,22,122,21,16,47,61,35,12,190,93,2,3,3,3,4,4,7,1,4,1,2,16,47,1,23,10,159,9,92,93,1,1,5,6,1,5,2,25,14,14,14,17,44,12,8,22,1,4,11,2,14,47,52,80,96,52,1,7,2,10,13,10,6,39,8,20,48,2,68,164,21,3,20,1,7,8,2,22,36,24,48,87,40,18,306,59,421,39,33,11,73,9,19,62,61,10,8,3,5,2,1,15,7,5,4,47,8,3,20,7,1,17,17,13,12,13,2,23,25,12,9,25,3,22,2,44,18,9,9,26,41,135,32,39,80,24,3,35,51,15,2,38,2,64,18,336,65,408,153,131,7,15,5,24,35,5,20,2,21,1,25,10,5,7,61,17,20,23,1,17,36,57,7,3,15,10,4,27,105,10,10,64,388,69,28,114,116,73,8,4,4,9,52,67,1,7,18,2,3,20,44,9,15,101,17,5,9,135,28,36,92,52,11,56,15,48,12,66,6,274,7,4,14,27,14,17,24,2,1,14,14,5,1,49,31,79,13,1,11
 Annual A- Data Centre Compute Percentage	7548
 Annual ACIST Proceedings	1248
 Annual AI	4126,3422
@@ -305,6 +309,7 @@ Annual Borrowing Plan	11136,2732,678,3954
 Annual Brand Africa	14151
 Annual Budget	12972,1764,2097,110,1520,138,1
 Annual Budget Funding Amount ADEOP	15796
+Annual Budget Monitoring Report	19660
 Annual Budget Q1	12241
 Annual Budget of Parliament	19161
 Annual Budget. The Authority	18601
@@ -332,6 +337,8 @@ Annual Client Appreciation Day	13252
 Annual Coal	11953
 Annual Commercial Data Center Revenue	10781,1646
 Annual Commercial Data Data	3184,1,1340,6470
+Annual Communications Sector Report	19728
+Annual Communications Sector Report for Uganda	19728
 Annual Company Surveys	12962
 Annual Comparison of Statistics for Cases	11250
 Annual Compliance Report Template PDF File	15207
@@ -353,6 +360,7 @@ Annual Costs	12457
 Annual Coupe Insp	16848
 Annual Coupe Insp. Fee	16848
 Annual Credential Assessment	11956
+Annual Crime Report	19641
 Annual Crop	17140
 Annual Crop Annual	17140
 Annual Cropland	17140
@@ -362,6 +370,7 @@ Annual DHIS	16922
 Annual DHIS2 Annual HMIS	16922
 Annual Data	13331
 Annual Data Innovation Forum for Africa	961,282,1919
+Annual Data Revenue	19728
 Annual Development Plan	19602
 Annual Development Plans	7548,11971
 Annual Developments Preliminary	11131,3
@@ -375,6 +384,7 @@ Annual District Education Operational Plan BECE	15796
 Annual EPC	18543
 Annual EPC Turnover	18543
 Annual EPI	11401
+Annual East Africa Information Security Conference	19725
 Annual East Africa Private Capital Association	17706
 Annual Economic Prospect Survey	18577
 Annual Economic Report	12309
@@ -395,7 +405,7 @@ Annual Estimates	7548,5414
 Annual Eswatini Careers Fair	11134
 Annual Examples	15164
 Annual Expert Group Meeting for African Registrars	7879
-Annual Expert Group Meeting for Registrar Generals	11480,584,1156,458,3717,2220
+Annual Expert Group Meeting for Registrar Generals	11480,584,1156,458,3717,2220,189
 Annual Fee	14828,3,2419
 Annual Fee Duration Licence Fee Regulatory	17250
 Annual Fees	12542
@@ -444,7 +454,7 @@ Annual Global Represent. Carestia de Vida	4209
 Annual Gover MDAs	12917
 Annual Governance Report	8866
 Annual Government AI	7548
-Annual Gross Domestic Product	13479,169
+Annual Gross Domestic Product	13479,169,6095
 Annual Gross Revenue	4610
 Annual Growth	7446,7539
 Annual Growth Rate CAR Capital	14997
@@ -531,9 +541,11 @@ Annual National Accounts Statistics URL	19038
 Annual National Annual	16922
 Annual National Surveys The AISIO	12512
 Annual National Tax Audit Plan	12389
+Annual National Tuberculosis and Leprosy Stakeholders	19641
 Annual Natural Hazard Occurrence	10763
 Annual Net Profit Before NCI Deductions	5869
 Annual Network	12358
+Annual Network and Distributed System Security Symposium	19654
 Annual Nominal GDP	17235
 Annual Number	10964
 Annual Observatory	4207,5409
@@ -562,13 +574,15 @@ Annual Performance Report	1554,11418,5,443,1326,82,3,3770,915
 Annual Performance Report. Officials	8469
 Annual Performance Review	16858
 Annual Performance Review Retreat. Presenting the Institute	9389
+Annual Performance Reviews	19642
 Annual Performance and Gender Diversity	12389
 Annual Petroleum Demand	12256
 Annual Plan	5677,7441
 Annual Plan of Actions	13349
+Annual Planned Outputs Cumulative Outputs Achieved	19641
 Annual Planning	17116
 Annual Planning Conference	2668
-Annual Plans	19519
+Annual Plans	19519,123
 Annual Policy Dialogue	6418
 Annual Population Growth Rate	16921
 Annual Population Growth Rate Between Census	16921
@@ -698,9 +712,10 @@ Annual SG5 SO2 ICDMS Interoperability	17116
 Annual SG6 SO1 Financing Domestic	17116
 Annual SG6 SO3 Financial Governance Audit	17116
 Annual SRII. IEEE	19555
+Annual Salary	19742
 Annual Satisfaction Satisfaction	11855
 Annual School	18536
-Annual School Census	10359,1501,201,114,1135,3599,26,298,986,228,13,97,7
+Annual School Census	10359,1501,201,114,1135,3599,26,298,986,228,13,97,7,1071,141,14
 Annual School Census Final Report Government	18460
 Annual School Census Final Report URL	18460
 Annual School Census Questionnaire ASC Questionnaire	18536
@@ -711,6 +726,7 @@ Annual School Census. Following	18460
 Annual School List	18536
 Annual School List Annual School List	18536
 Annual School Survey	12788
+Annual Schools Census	19635
 Annual Scientific Conference	10523
 Annual Scientific Symposium	15321
 Annual Sector LEC	17260
@@ -747,12 +763,16 @@ Annual TSMP Increase Timely National Statistical	19519
 Annual TSMP Timely	19519
 Annual TSMP Timely Statistics Gaps	19519
 Annual TSMP Timely Surveys Gaps Enterprise	19519
+Annual Target	19660
+Annual Target Cum. Achieved Quantity Physical	19660
 Annual Targets Identification of Registration	19541
 Annual Targets Responsibility Data Sources	14997
 Annual Tax Incentives	11976
 Annual Technical	11863
 Annual Technologies-capable	7548
 Annual Thermal Energy Generated	12256
+Annual Total Fiber Distance	19728
+Annual Tower Lease Revenue	19728
 Annual Trade and Customs	7548
 Annual Training	11134
 Annual Training and Competency Certification Roster Annex	3861
@@ -768,6 +788,8 @@ Annual Updated	13930
 Annual Users' DECM and Surveys	17441
 Annual Vendor Lock-in Risk Audit	6432
 Annual Vital Statistics Report	12138,199,607
+Annual Voice Revenue and Voice ARPU	19728
+Annual Voice Traffic Trends	19728
 Annual Volume of Water Abstracted	2775
 Annual Vulnerability Assessment	12977
 Annual Weighted Mean VHI	11762
@@ -776,9 +798,9 @@ Annual Wind Energy Generated	12256
 Annual Work Plan	2989,1411,7841,474,365,15,2035,1840,15,1320,4,1210
 Annual Work Plan PIU Management and Budget	2989
 Annual Work Plan Review	14546
-Annual Work Plan and Budget	1228,56,5255,4290,588,488,3007,641,68,40,1265,10,13,666,1008,12
+Annual Work Plan and Budget	1228,56,5255,4290,588,488,3007,641,68,40,1265,10,13,666,1008,12,1212
 Annual Work Plan and Budget CAGD Comptroller	16949
-Annual Work Plans	10963,2042,984,3127
+Annual Work Plans	10963,2042,984,3127,2719
 Annual Work Plans and Budgets	3562,7402,3948,460,1282,204,38,26,14
 Annual Work Program BEAC Bank of Central	969
 Annual Workplan and Budget	13459,971
@@ -878,6 +900,7 @@ Average Annual Growth Rates	18464
 Average Annual Increase	16921
 Average Annual Inter-Censal Growth Rates	18464
 Average Annual Natural Hazards	15553
+Average Annual Population	19715
 Average Annual Price	17235
 Awareness Programs The Annual Implementation Plan	19541
 Axes COUT ANNUEL FINANCEMENT ACQUIS FINANCEMENT	17946
@@ -898,6 +921,7 @@ BNR RSE Annual	14997
 BOBS ANNUAL WORK PROGRAM	12621
 BOBS ANNUAL WORK ROGRAM	12621
 BOZ Annual Provider Survey	13347
+BPC Annual Report	19663,14
 BROADCASTING MARKET ANNUAL INFORMATION AND COMMUNICATION	12395
 BUDGET ANNUEL REVISE	3164,1,1,1,1,1,1,1,1
 Bank Group ASC Annual School Census	13310
@@ -906,7 +930,7 @@ Bank of Uganda Integrated Annual Report	10299
 Bank of Zambia ZIPSS Rules Annual Audit	12364
 Bank the Annual Work Plan and Budget	11417
 Bank. Annual	15659
-Banking Supervision Annual Report	19608
+Banking Supervision Annual Report	19608,42
 Baseline Annual Targets Responsibility Data Sources	14997
 Baseline Readiness Assessment Quarterly and Annual Progress	14819
 Beyond W WHO Liberia Annual Report	17289
@@ -918,12 +942,15 @@ Body ANNUAL	13166
 Body ANNUAL PERFORMANCE REPORT	14033
 Body ANNUAL REPORT NAMPOWER INTEGRATED	13133
 Body ANNUAL RESULTS REPORT	13163
+Body Annual Communications Sector Report	19728
 Body Annual Expert Group Meeting for Registrar	12064,697,459,458,977,4960
 Body Malawi Police Service Annual Report	12953
 Body Standards Annual Work Programme	12621
+Botswana Police Senior Officers Annual Conference	19693,2
+Botswana. Annual World Bank Conference	19654
 Brandin Eswatini ANNUAL INFORMATION AND COMMUNICATION	12395
 Broadband Annual	3184,7811
-Budget Annuel	3396,420,7060,5279,78,1977,204
+Budget Annuel	3396,420,7060,5279,78,1977,204,1273
 Budget Annuel REESS Rapport	10876
 Bulengo Rapport Annuel	15670
 Bureau of Start the Annual	16863
@@ -960,6 +987,7 @@ CONSOMMATEURS Rapport Annuel	15670
 CONTENTS Page Submission of Annual Report	13420
 CONTROLE DES TELECOMMUNICATIONS ARCT RAPPORT ANNUEL	13301
 COPIES OF ANNUAL FINANCIAL STATEMENTS	3714
+COSTED ANNUAL AND QUARTERLY WORKPLANS	19689
 COUT ANNUEL	17946
 COUT ANNUEL FINANCEMENT ACQUIS FINANCEMENT	17946
 COÛT ANNUEL	16195
@@ -976,6 +1004,7 @@ Cap Town Afrique du Sud RAPPORT ANNUEL	18322
 Case Register and Allegations Annual Comparison	11250
 Category Application Licence Annual Annual Annual	17250
 Category Application Licence Annual Notes Fee	17250
+Census Year Average Annual Growth Rate	19715
 Central Bank of Eswatini’s Annual Integrated Report	11131,3
 Central Bank of Kenya Annual Report	1349
 Central Bank of Kenya's Annual Report	1349
@@ -992,6 +1021,7 @@ Comment Annuler	17903
 Comments Actual Annual	11131
 Commission LIBERIA ELECTRICITY REGULATORY COMMISSION Annual	16978
 Commissions Annual General Meeting Forum	14839
+Commission’s Annual Communications Sector Report	19728
 Commonwealth Finance Ministers Annual Meeting	14774
 Communications Officer Annual Retreat Judiciary Project	16943
 Community Health Impact Coalition. Annual	1219
@@ -1011,6 +1041,7 @@ Conférence Annuelle	10821,154
 Conseil National du Patronat du Sénégal RAPPORT ANNUEL	18322
 Consolidated Annual	16970
 Consolidated Annual Plan of Actions	13349
+Consolidated and Separate Annual Financial Statements	19651
 Constitution. Annual Report	19173
 Consumer Protection Annual Report	11138
 Contents ANNUALREPORT2025 Table	12969
@@ -1148,6 +1179,7 @@ FINALISED ANNUAL REPORT CSD.pdf	1377
 FIXED MARKET CONNECTIVITY ANNUAL INFORMATION	12395
 FKE Policy Annual Report	7548
 FOREWORD The Annual Health Sector Performance	19544
+FOREWORD This Banking Supervision Annual Report	19650
 FSDS Results Indicators Units Baseline Annual	14997
 Federal Auditor General Presents Its Annual	7054
 Federation. Annual	12145
@@ -1247,6 +1279,7 @@ IDT4M Project Annex II AWP Annual	12241
 IFRs and Annual Financial Statements	10768
 IHR States Parties Self Assessment Annual	17289
 II ANNUAL REPORT	11224
+IICS Project Annual and Semi Annual	19641
 IMF Special Drawing Rights. Annual Integrated	11134
 IMF. Annual	15604
 IMPÔTS RAPPORT ANNUEL	17872
@@ -1473,6 +1506,7 @@ Notice of Annual General Members’ Meetings Written	585
 NotiÞcation de Annulée	15901
 Nov Dec Annual	11953
 Nov Dec Annual Hydro	11953
+Nsibirwa Annual Public Lecture	19641
 Number of Annual	7548
 Number of Annual Review of DHIS2	16922
 Number of Broadcasting Productions ANNUAL INFORMATION	12395
@@ -1487,6 +1521,7 @@ Observatoire Annuel des Marchés	16626
 Oct-25 Annual Average	13060
 Office Annual	7548
 Officers Annually	15845
+Offnet Annual Voice Revenue	19728
 Ongwediva Annual Trade Fair	11771
 Operational Plan APP Annual Performance Plan	11218
 Operations Annual Quantitative	13332
@@ -1533,6 +1568,8 @@ Per Workload Deaths Annum Day National	19541
 Percentage Annual	14935
 Percentage Annual Growth	13053
 Percibir Annual	4209
+Performance Physical Performance Annual	19660
+Performance Physical Performance Annual Budget	19660
 Permis Annuels	15999
 Personal Income Tax Annual Declaration	16955
 Physical Annual Emerging Technologies Technologies	7548
@@ -1584,6 +1621,7 @@ Public Procurement Regulatory Authority Annual Performance	19534
 Public and International Funding Annual	15604
 Publish the Annual	6832
 Quality Annual	16922
+Quarter Annual Planned Outputs Cumulative	19641
 Quarterly Annual	2776,12001
 Quarterly Annually	15845
 Quarterly Annually Implemented Implemented MINTER SMTDP	15845
@@ -1635,6 +1673,7 @@ Regions Annually NACSA	15845
 Regions Annually Percentage	15845
 Regions Quarterly NACOC Annually NACOC	15845
 Registrar-General's Department Annual Report	14761
+Registration Authority Uganda Annual Expert Group	19804
 Regulations. Annual	13322
 Renewal Annual	736
 Report C1- Annual	7548
@@ -1758,7 +1797,10 @@ Trim2-26 Annuelle Trim Annuel ORANGE	18418
 Trimestrielle Annuelle Trim	18418
 Trimestrielle Annuelle Trim Annuelle	18418
 Tshipuka Rapport Annuel	15670
+Tumusiime Mutebile Annual Public Lecture	19641
 Twenty-second Annual Report	19098
+UBOS Annual Statistical Abstract	19743
+UGANDA NATIONAL BUREAU OF STANDARDS ANNUAL	19712
 UN Annual Results Report UN Eritrea	13989
 UNCDF Annual Report	8671
 UNDP ERITREA Annual Report	14125
@@ -1769,6 +1811,8 @@ UNDP Mauritius and Seychelles UNDP Mauritius Annual	11332
 UNHCR Post Annual	13938
 UNICEF Ethiopia. Country Office Annual Report	12188
 UNICEF Liberia Country Office Annual Report	16949
+Uganda Annual Country Report	19747
+Uganda Police Force Annual Crime Report	19772
 Undertake Annual Industrial Production	19519
 Undertaking Annual Survey of Industrial Production NBS	19519
 Union AUC AU Commission AWPB Annual	1264

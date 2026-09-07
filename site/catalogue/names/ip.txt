@@ -72,6 +72,7 @@ Cooperation IFR Interim Financial Report IPF	1264
 Core IP	19232
 Core IP Network	14010
 Council IPTsc Intermittent Preventive Treatment	19544
+Cross-domain IPS	19838
 D'ÉTUDES SUPÉRIEURES IPHE INSTITUT PRIVÉ DES	18143
 DE BANQUE ET DE RECYCLAGE IPHEC	18170
 DE DROIT ET DE GESTION IPDR-KOLLO	18170
@@ -102,6 +103,7 @@ DoE IPP Office	11953
 DoE IPP Office Renewable	11953
 DoH-pinned IP	7047
 Domestic IPPs	12358
+Domestic IPS	19838
 Dose Percent of IPT	16971
 Draft IPPF	10964
 Dynamic IPv4 Addressed	14671
@@ -143,6 +145,7 @@ Faso IPv6 Academy	7010
 Finance Corporation IPF Investment Project Financing	18504
 Financial Buyers IPOs	4972
 Financial Instrument. IPSAS	14736
+Financial Management System IPOs Initial Public	19633
 Financial Report IP Indigenous Peoples IPF	10829
 Financial Report IPDP Indigenous People Development	15372,3515
 Financial Report IPF Investment Project Financing	15515,106,2680
@@ -176,6 +179,7 @@ ICR DOCUMENT IEG IFR IMF IPF	16436
 ICR for IPF Operations	15511
 ICT IMF IoT IP IT ITU	4528
 IDA IPF	3129,1250,11653
+IDA-financed IPF	19835
 IDEN and IPEPs	18911
 IFAL Instituto de Formação da Administração Local IPP	11390
 IFR Interim Financial Report IPF Investment	10768,4891
@@ -215,6 +219,7 @@ IP Disbursements Archived	18754
 IP Déblocage IPÉtat	14683
 IP Express Ltd	3862
 IP Implementation Progress IPF Investment Project	19455
+IP Implementing Partner IT Information Technology	19644
 IP Indigenous People IPP Indigenous People	969
 IP Internet	1036
 IP Internet Protocl ISP Internet Service	13312,2
@@ -378,7 +383,7 @@ IPF Borrowers	11905
 IPF Component	11905
 IPF Environmental and Social Risk Program-for-Results	11905
 IPF FIDUCIARY APPRAISAL AND IMPLEMENTATION ARRANGEMENTS	17458
-IPF Investment Project Financing	11965,2073
+IPF Investment Project Financing	11965,2073,5809
 IPF Investment Project Financing IP Implementation	18825
 IPF Investment Project Financing IPP Independent	11549
 IPF Investment Project Financing IPPs Independent	11380
@@ -389,6 +394,7 @@ IPF Investment Project Financing ISP Implementation	11855
 IPF Investment Project Financing IT Information	18777
 IPF and IPF	15659
 IPF du PAGIR	15908
+IPF-DLI	19835
 IPF-TA	17458
 IPF-financed	11525
 IPF. Considering	15659
@@ -446,6 +452,7 @@ IPP Independent Power Producer IT Information	10781,1646,2055
 IPP Independent Power Producer LAMC Liability	12233
 IPP Independent Power Producer LPG Liquified	18537
 IPP Media	2947,6859
+IPP Office	19677
 IPP Owendo	16037
 IPP PV Projects	12399
 IPP Procurement Framework	18537
@@ -470,13 +477,17 @@ IPPIS Human Resource Modules	7973
 IPPMEDIA.COM. ALL RIGHTS RESERVED	2857,3026,94,2907,5333
 IPPR Democracy Report	1021
 IPPS Imports Independent Power Producers Transmission	12399
+IPPS Integrated Payroll and Pension System ISO	19660
 IPPSE Indice	15961
 IPPTE	15542
 IPPlus Nigeria Ltd	3862
 IPPs Power Plants	12358
 IPPs. Currently	12399
 IPPs. Figure	12256
+IPPs. Foreseen	19677
+IPPs. Government	19677
 IPPs. Sets	10995
+IPPs. With Botswana	19677
 IPR Index30	17870
 IPR Intellectual Property Rights IPRI Intellectual	17870
 IPRA IDRC	16770
@@ -496,6 +507,7 @@ IPS International Postal System MAE Ministère	17881
 IPS Rulebook	12269
 IPS UN Bureau	8472
 IPS and IDS	16867
+IPS-in-development	19838
 IPS-related	12269,1
 IPS. FCFA	2342
 IPS. Regulation Key	12490
@@ -528,6 +540,7 @@ IPT2nd	16971
 IPTA INSTITUT PRIVÉ DES TECHNOLOGIES APPLIQUÉES	18143,27
 IPTEL	18485
 IPTSIznnzgs200XEJW950jUoyC1hD	4563
+IPTV Authorisation	19651
 IPTV Content D100	17250
 IPTV Internet ProtocolTelevision NDP National Development	16886
 IPTV50 Mbps for VDSL	15471
@@ -562,6 +575,7 @@ IPv4. Hanifa Koussoubé Lefaso.net	7010
 IPv4. L'ingénieur	7010
 IPv4. Vu	13301
 IPv6 Actuellement	13301
+IPv6 Adoption	19682
 IPv6 Au	7010
 IPv6 Company	12058
 IPv6 Coverage	11878
@@ -570,7 +584,7 @@ IPv6 En	7010
 IPv6 Forum Burkina Faso	7010
 IPv6 General Authority for Communications and Informatics	4849
 IPv6 IPv6	18579
-IPv6 Internet Protocol	6946
+IPv6 Internet Protocol	6946,12696
 IPv6 Libyan Indian	5592
 IPv6 Protocol	5904
 IPv6 Protocol Advertisement Reach	5904
@@ -687,6 +701,7 @@ MW for IPPs	12399
 Majesties. Iphalamende	12955
 Mamadou Ngalgou KANE Comité Production IPSM	18418
 Manage IPR Electronically	12389
+Management System IP Internet Protocol IPv4	19642
 Marketing Transport IPF	11469
 MauCAS and IPS	14819
 Mbps of IP-internet	13314
@@ -703,8 +718,13 @@ Mozambique Approves IP Strategy	7624
 Mozambique's IP	12161
 Mutuários IPF	10769
 N IPS.Tender	5864
+NITA-U IP and Data Centre	19755
+NITA-U National IP Peering Exchange Establishment	19718
 NOUVELLES TECHNOLOGIES DE L’ADER IPSAS-BOYI INSTITUT	18170
 Nasdaq. IPOs	13279
+National Guidance Announce Launch of National IP	19698,77
+National IP Peering Exchange	19718,57
+National IP Peering Exchange Establishment and Peering	19718
 National IPC Program	4202
 National IPM Coordination Committee	14818
 National IPM Programme	14818
@@ -716,6 +736,7 @@ Neonatal and Childhood Illness IPC Infection Prevention	17289
 Ningizimu Afrika Iphasiphothi Umazisi	11573
 Ningizimu Iphasiphothi Isitatimende	11573
 Note IPSM T2-2026 ENCADRE L’Indice des Prix	18418
+Number of IPS	19838
 Numeração IP	11430,1
 O IPAS	10614
 O IPv4	18774
@@ -764,7 +785,7 @@ Principal of IPRC Karongi	718
 Prix IPv6 Activé	7010
 Procure IPP	12399
 Procurement Regulations for IPF	7951
-Procurement Regulations for IPF Borrowers	6539,3064,1,1164,757,330,845,134,351,342,1553,63,967,383,835,6,1161,80
+Procurement Regulations for IPF Borrowers	6539,3064,1,1164,757,330,845,134,351,342,1553,63,967,383,835,6,1161,80,1260
 Producción Industrial IPPI	16898
 Program Action Plan and IPF	11905
 Program IPF	11469
@@ -793,6 +814,7 @@ Recognition and Measurement IPSAS	14736
 Regional IPS	5237
 Regional Plant Protection Officer IPPC	12972
 Registo de Detalhe de IP	4274
+Regulatory Authority. While IPPs	19661
 Related Party Disclosures IPSAS	14736
 Remeasurement- Pension Obligation IPSAS	14736
 Report IPF General Inspectorate of Finance	3604
@@ -905,7 +927,7 @@ World Bank Policy and Directive for IPF	11905,3754
 World Bank Procurement Regulations for IPF	13332,2186,141
 World Bank Procurement Regulations for IPF Borrowers	1264,603,1737,2935,3064,1226,135,453,438,50,19,41,1367,2186,140,3,775,500,13,231,39,2026
 World Bank's IPF	11905,3756
-World Bank's Procurement Regulations for IPF Borrowers	9604
+World Bank's Procurement Regulations for IPF Borrowers	9604,10243
 World Bank’s IPF Policy and Directive60	16144
 World Bank’s Procurement Regulations for IPF	18198
 World Bank’s Procurement Regulations for IPF Borrowers	2889,3014,5622,1806,1807,1006,752,2388

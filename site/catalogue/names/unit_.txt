@@ -77,6 +77,7 @@ Bonny Island Branching Unit and Cable Landing	535
 Boost Household Productivity Indicator Name Unit	15601
 Borrower’s Project Implementation Unit	3456
 Branching Unit	16716
+Budget Monitoring and Accountability Unit	19660
 Bunda TC Bunda Mazoezi Special Unit	19585
 Bureau of Statistics Create the Unit	16863
 Business Unit Fixe	9916
@@ -153,6 +154,7 @@ Click Here Control Unit Checker	12282
 Client Service Access Unit	16410
 Client Service and Access Unit ELIS	15657
 Climate Finance Unit	18488
+Climate Finance Unit of MoFPED	19741
 Climatic Research Unit	17157
 Climatology and Advisory Services Unit	13365
 Commission Is the Rduggs and Asylum Seekram Unit	16836
@@ -183,6 +185,7 @@ Compliance Unit	16971
 Concrete Masonry Unit RS ASTM C1426-14	15027
 Congo Core Unit of Baseline Cumulative Target	15372
 Considering the Special Investigative Unit	11986
+Construction Management Unit	19783
 Consumer Affairs Unit	14736,111
 Control Unit ENAP Eswatini National AIDS	12976
 Control Unit Invoice Number	12282
@@ -212,7 +215,7 @@ Crime Prevention Unit and Brigade Pour	14742
 Crisis Coordination Unit	6947
 Critical Unit of Analysis	18645
 Currency Management Unit	17138
-Currency Unit	969,295,603,1022,673,42,2935,4229,61,135,416,37,51,57,35,295,50,19,41,211,1155,1,402,8,1,93,25,1076,39,162,234,39,13,67,20,4,3,35,48,20,37,1,4,68,12,39,201,49,112,240,52,178,282,26,27,3,489,17,391,13,100,142,94,95,8,453,11,12,32,16,62,352,45,171
+Currency Unit	969,295,603,1022,673,42,2935,4229,61,135,416,37,51,57,35,295,50,19,41,211,1155,1,402,8,1,93,25,1076,39,162,234,39,13,67,20,4,3,35,48,20,37,1,4,68,12,39,201,49,112,240,52,178,282,26,27,3,489,17,391,13,100,142,94,95,8,453,11,12,32,16,62,352,45,171,188,192
 Currency Unit Equivalent	13938
 Currency Unit São Tomé and Príncipe Dobra	18851
 Custom Duties Unit Price	13185
@@ -302,6 +305,7 @@ Divisions and Unit	16971
 Djibouti Commissioning Unit	13858
 Draft Per Unit Cost Guide	15659
 Drone Surveillance Unit	17105
+Dwelling Unit	19715
 E-Government Technology Unit	2779
 E-Government Technology Unit Head	2779
 E-Government Technology Unit Signature Date	2779
@@ -429,6 +433,7 @@ Framework PCU Project Coordination Unit PIM	11525
 Functional Unit for Acquisitions Supervision	3489
 GBoS Implementation Unit	16867
 GDP Unit	12321
+GEDES Fiduciary Unit	19847
 GENDER UNIT	18468
 GIS Unit	11129
 GRM and No Budget Category Quantity Unit	17099
@@ -453,6 +458,7 @@ Government Technology Unit	2779,141
 Government Unit	12241,839,520,2
 Government Unit Oversees	12444
 Government and Trust Unit	10819
+Government. Media Contact Communications Unit National	19802
 Grant Project Sector Unit	13938
 Graphics Processing Unit	8219,6347,583
 HARM REDUCTION UNIT	14773
@@ -604,6 +610,7 @@ Lixi Senior Operations Officer ICT Unit	18887
 Local Authorities Governance Unit	14738,8
 Local Authorities Governance Unit The Land	14738
 Local Authorities Governance Unit The Local	14738,8
+Local Defense Unit	19641
 Local Unit Commanders	18587
 Local Unit Commanders URL	18587
 Lumemo Special Unit	19585
@@ -691,7 +698,7 @@ Ministry of Justice and Constitutional Affairs. The Unit	12459
 Ministry’s Procurement Unit	16970
 MoET EMIS Unit	13016
 MoE’s Project Implementation Unit	13392
-MoH ICT Unit	34
+MoH ICT Unit	34,19633
 MoH Projects Coordination Unit	16896
 MoH RBF Unit	16896
 MoH's System Architecture and Security Unit	12240
@@ -810,11 +817,13 @@ PBF National Technical Unit People	10829
 PBF National Technical Unit Pregnant	10829
 PBF National Technical Unit Quality	10829
 PBF National Technical Unit The World	10829
+PCU Project Coordination Unit	19847
 PCU Project Coordination Unit PDISA Water	11380
 PCU Project Coordination Unit PDO Project	15661,2201
 PCU Project Coordination Unit PIP Priority	16614
 PCU Project Coordination Unit PdD Djibouti	13861
 PDU Power Distribution Unit PDU Power	13185
+PFM National Coordination Unit	19847
 PFMU Project Financial Management Unit PID	17114
 PIU Project Implementation Unit	14976,214
 PIU Project Implementation Unit PMT Proxy	16384
@@ -831,6 +840,7 @@ PM7 Establish Quality Assurance Unit	12917
 PMO. CSR Unit	16858
 PMU Procurement Unit	17328
 PMU Project Management Unit TWG Technical	17116
+POLICE MINERAL PROTECTION UNIT- PMPU	19772
 PPP Advisory Unit	11248
 PPP Unit	7548
 PR UNIT	5097,426,2707,4483,2,1,4,30,8,4
@@ -851,6 +861,7 @@ Partnership Framework CTN-FBP National Technical Unit	10829
 Payment Gateway HIDU High Dependency Unit	19544
 Pelagic Fishery Unit	14818
 Percentage Distribution of Dwelling Unit	2775
+Percentage of Occupancy Tenure of Dwelling Unit	19715
 Performance Audit Unit	17364
 Performance Indicator Unit of Measure Data	12917
 Performance-Based Financing Unit	16971
@@ -869,7 +880,7 @@ Police Research and Development Unit	14760
 Police Research and Development Unit PRU	14760
 Police Vehicle and Technical Unit	14760
 Policy Framework PIU Project Implementation Unit	18104
-Policy Unit	17304
+Policy Unit	17304,2543
 Policy Unit PSEMAS Public Service Employees	12923
 Policy and Compliance Policy Unit Data Security	16963
 Policy and Planning Unit	16971
@@ -917,7 +928,7 @@ Programme Coordination Unit	6400
 Programme Implementation Unit	10965
 Programme Management Unit	13990
 Project Coordinating Unit	18554,333
-Project Coordination Unit	3604,2673,5248,887,980,1573,125,282,289,483,470,24,700,624,542,250,133,397,332
+Project Coordination Unit	3604,2673,5248,887,980,1573,125,282,289,483,470,24,700,624,542,250,133,397,332,231
 Project Coordination Unit Cofinanciers and Other External	16614
 Project Coordination Unit PCU	15372
 Project Coordination Unit PDMC Generation Transport	19239
@@ -926,7 +937,7 @@ Project Coordination Unit. Specifically	11863
 Project Development Objective Project Implementation Unit	15553
 Project Financial Management Unit	16144,805,165
 Project Implementation Support Unit	15658
-Project Implementation Unit	1228,36,20,288,206,1111,1764,181,517,552,1550,424,1106,37,919,283,875,293,473,42,19,213,83,179,164,491,277,64,541,2,72,446,120,312,24,16,38,34,3,52,83,273,13,90,4,35,68,37,1,4,119,20,99,68,175,240,52,218,196,76,10,24,139,15,121,99,770,29,160,66,276,298,351
+Project Implementation Unit	1228,36,20,288,206,1111,1764,181,517,552,1550,424,1106,37,919,283,875,293,473,42,19,213,83,179,164,491,277,64,541,2,72,446,120,312,24,16,38,34,3,52,83,273,13,90,4,35,68,37,1,4,119,20,99,68,175,240,52,218,196,76,10,24,139,15,121,99,770,29,160,66,276,298,351,379,14
 Project Implementation Unit High Strong	16926
 Project Implementation Unit Management	16926
 Project Implementation Unit PB Promissory Note	17235
@@ -959,7 +970,9 @@ Project Unit ME PDO Table SPACE	10829
 Project and Program Monitoring Unit	15990
 Projectors Standards and Guidelines The ICT Unit	34
 Projects Co-ordination Unit	16852
+Projects Energy Development Unit	19677
 Projects Management Unit National Accreditation and Quality	16852
+Projects Service Unit	19835
 Pros Unit	14781
 Prosecution Unit	12459
 Protection SPIU Single Project Implementation Unit	15138
@@ -970,6 +983,7 @@ Public Clinical Trial Unit	7845
 Public Clinical Trial Unit Any	7845
 Public Debt Management Unit Portal	5588
 Public Enterprise Unit	6539,6430
+Public Finance Reform Management Unit	19847
 Public Health Unit	12976
 Public Investment Management Unit	14830
 Public Investment Unit	17257
@@ -1003,7 +1017,7 @@ RBF Unit	16896,26
 RDB Strategic Investment Unit	14947
 RESEARCH AND CAPACITY BUILDING UNIT	14773
 RSTP Business Incubation Unit and Innovation Hub	11667
-Rank Unit	10835,3,130,902,16,466,1,135
+Rank Unit	10835,3,130,902,16,466,1,135,7334
 Records Management Unit	12597
 Reform Coordination Unit	1284
 Refugee and Asylum Seekers Unit	16836
@@ -1092,6 +1106,7 @@ Social Cash Transfer Unit	12978
 Social Impact Investment Unit	14990
 Social Protection Reforms Unit. Rwanda	10991
 Social Safety Net Unit	18198
+Social and Environmental Compliance Unit	19825
 Social and Gender Unit	14895
 Socio-Economic Manager Development Unit Jean Lindsay	11332
 Solid Waste Transfer Public Unit	16614
@@ -1131,6 +1146,7 @@ State House Media and Communications Unit Info	18572
 State-Owned Enterprises Unit	17647
 States GPU Graphics Processing Unit GSM	15164
 Statistical System Coordination Unit	16863
+Statistics Unit	19758
 Statistics Unit Assistant Research Officer No	10980
 Statistics Unit Mr KWEBITEU Dimitri Cadre	10980
 Statistics Unit Mr N’NOUH Samuel ARO1	10980
@@ -1143,6 +1159,7 @@ Strategic Communication Unit	18566
 Strategic Planning and Monitoring Unit	12736
 Strategic Unit	899
 Strategic and Special Delivery Unit	11236
+Strategic and Thematic Project Development and Analysis Unit	19847
 Strategy and Operational Planning Unit	17364
 Street Addressing Unit	11129
 Stroke Unit	14773
@@ -1169,7 +1186,7 @@ Task Incident Response Unit	1777
 Tax Advisory Unit	12951
 Tax Information Unit	12500
 Tax PMU Project Management Unit SL-CFAT	18577
-Tax Policy Unit	13868,4122
+Tax Policy Unit	13868,4122,1857
 Taxpayer Advocate Service Unit	17258
 Taxpayer Identification Unit	16601
 Taxpayers Education Unit	12500
@@ -1202,6 +1219,7 @@ Transport Unit	16971
 Transport and Communication Statistics Unit of GBoS	16992
 Treasury’s Internal Audit Unit	14546
 Twenty-Foot Equivalent Unit	14216
+Type of Dwelling Unit	19715
 U Unit Price	7538,6486
 UBR Management Unit	12980
 UCF PROCASEF Coordination and Formulation Unit	18293
@@ -1209,8 +1227,10 @@ UGP Project Management Unit	17441
 UGPE Special Projects Management Unit	11965,4018
 UNDP OFFICE ZIMBABWE PROCUREMENT UNIT	13618
 UNESWA Artificial Intelligence Academy Unit	12996
+UNIT MARGINS	19823
 UNIT ROLE ANACIM Managing	18309
 UNIT and RuL	6891
+UPF Tax Policy Unit	19847
 URBAN PLANNING STANDARDS UNIT RSB	15027
 Uganda Health Transformation Delivery Unit	4217
 Uganda Police Force's Cyber Crimes Unit	12232
@@ -1273,6 +1293,7 @@ Unit Prices of Principal Domestic Exports	2775
 Unit Prices of Principal Imports	2775
 Unit Project Implementation Unit Proxy-Means Testing	15658
 Unit Project Steering Committee Vice-Presidency	13938
+Unit Requirement	19745
 Unit Responsible Unit AWCF2	19284
 Unit Shabani Ely Katembo Consultant ICT	18887
 Unit South Lynch Street Monrovia	17328
@@ -1346,6 +1367,7 @@ World Bank Project Implementation Unit	10829
 World Bank's ESF Unit	18205
 World Bank's Maghreb Country Management Unit	14627
 World Bank's Regional Integration Unit	14022
+World Bank-financed Project Coordination Unit	19839
 XMUVI Export and Import Unit Value Indices	11258
 Youth Empowerment Unit	14818
 Zambia Education Program Coordination Unit	13378,14

@@ -207,15 +207,17 @@ Gas Insulated Substation	12358
 General Insufficient	15604
 General Insurance Business	14809
 General Insurance Committee The Director General	6938
-Generalized Health Insurance	13770
+Generalized Health Insurance	13770,6057
 German Social Accident Insurance Institution	11156
 Global Insurance Market Report	6938,8059
 Government Sector Insur-	15519
 Governmental Organizations NHIF National Health Insurance	19531
 Gross Domestic Product Financial and Insurance Activities	2775
 Group Cash Value Insurance Contract	11233
+Group Personal Accident Insurance	19712
+Group Personal Accident Insurance Company	19712
 HEALTH INSURANCE ACT	6921
-Health Insurance	13726,307,1630,3621
+Health Insurance	13726,307,1630,3621,431
 Health Insurance Act	6921
 Health Insurance Authority Ghana	14997
 Health Insurance Bill	12598
@@ -281,11 +283,11 @@ Institute of National Health Insurance	19284
 Insuchcases	8602
 Insuf	15580
 Insufficiency	16863
-Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453,45,217,160,78,183,506,9,70,165,25,25,54,101,2,18,23,46,2,53,123,138,319,15,200,19,104,148,302,123,437,6,53,160,82,89,78,39,12,50,167,42,166,869,156,488,31,7,4,22,11,11,168,18,103,36,827,344,9,11,42,28,57,273,358,274,25,11,29,1
+Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453,45,217,160,78,183,506,9,70,165,25,25,54,101,2,18,23,46,2,53,123,138,319,15,200,19,104,148,302,123,437,6,53,160,82,89,78,39,12,50,167,42,166,869,156,488,31,7,4,22,11,11,168,18,103,36,827,344,9,11,42,28,57,273,358,274,25,11,29,1,54,2,1,70
 Insufficient Collaboration	12356
 Insufficient Data	12376
 Insufficient English	12329
-Insufficient ICT	14137,4479
+Insufficient ICT	14137,4479,1026
 Insufficient Inadequate Reduced	12241
 Insufficient Information	14647
 Insufficient Investment	15960
@@ -312,6 +314,7 @@ Insuficiência de Materiais	11561
 InsufÞ	15848
 Insufﬁcient	10844
 Insuiciência	15572
+Insukamini	19677
 Insular	16864,56,42
 Insular SNIS Sistema Nacional de Información Sanitaria	16962
 Insular. En	16962
@@ -334,14 +337,16 @@ Insur	6019
 InsurTech	4848,1021,52,6523
 InsurTech-related	10793
 InsurTechs Significant	12444
-Insurance	418,349,173,1769,66,2121,304,465,547,27,759,765,26,236,110,1102,1556,72,112,106,51,2,162,510,147,1,293,124,27,9,36,9,97,502,132,200,135,1065,132,126,48,6,100,26,107,533,1494,259,159,534,374,58,673,70,250,68
+Insurance	418,349,173,1769,66,2121,304,465,547,27,759,765,26,236,110,1102,1556,72,112,106,51,2,162,510,147,1,293,124,27,9,36,9,97,502,132,200,135,1065,132,126,48,6,100,26,107,533,1494,259,159,534,374,58,673,70,250,68,114
 Insurance Act	6938,4317,1393,412,1749,34,4082,124
 Insurance Act Notice	19049
 Insurance Activity Supervisory Body	6938
 Insurance Association	14997
+Insurance Association of Uganda	19660
 Insurance Authority NHIS National Health Insurance	16896
 Insurance Broker	14809
 Insurance Business Proclamation No	13976
+Insurance Cards	19699
 Insurance Center	17334
 Insurance Commission	17235
 Insurance Companies	11255
@@ -423,7 +428,7 @@ Insurance and Social Security Fund	15518
 Insurance and Social Security Supervisory Authority	6938
 Insurance for Risk Management	15130
 Insurance-Sector-Coverage-Kenya-vF.pdf. United Nations	6938
-Insurances	19284
+Insurances	19284,457
 Insurances Mpox Monkeypox	19284
 InsureAI	11511
 Insured	12460,2670
@@ -481,6 +486,8 @@ Mauritius Deposit Insurance Act	14744
 Mauritius Deposit Insurance Company Ltd	14744
 Mauritius Deposit Insurance Corporation Ltd	14744
 Mauritius Deposit Insurance Scheme	14744
+Medical Insurance Coverage	19712
+Medical Insurance Scheme	19712
 Medical and Insurance	17236
 Medium Enterprises NAIS National Agriculture Insurance	14997
 Member Health Insurance HHNDR Page	16922
@@ -502,6 +509,8 @@ NHIF National Health Insurance Fund NRB	12227
 NHIF National Hospital Insurance Fund NIA	2775
 NHIS Electronic National Health Insurance System	16922
 NHIS National Health Insurance Scheme NITA	15556
+NIC Insurance	19712
+NIC Insurance Company	19712
 NICO Life Insurance Company Limited	14674
 NOTARIA DE LA REGION INSULAR.- Concepto	4209
 NSSF National Insurance Corporation PMO-LYEPD National	19541
@@ -676,7 +685,7 @@ Spectrum Insufficient Medium Expediting	16884
 Stabilization Levy NHIL National Health Insurance	236
 State Health Insurance Schemes	12004
 State Insurance Company of Mauritius Ltd	14736
-State. The Generalized Health Insurance Support	13770
+State. The Generalized Health Insurance Support	13770,6057
 Statement of Insured Vehicles	14828,3
 Strengthen Agriculture Insurance RSSB	14997
 Strengthen Health Insurance Systems Through Digital	9837
@@ -705,6 +714,7 @@ Trade CIF Cost Insurance Freight COICOP	16935
 Trans-African Insurance Co Ltd	2307
 Transport Insurance Certificate	16737
 Très Insuffisant	15512
+UAP Old Mutual and Jubilee Insurance Medical	19712
 UHI Universal Health Insurance UNICEF United	11133
 Uganda Insurers Association	14997
 Unemployment Benefit Insurance Fund	13123

@@ -7,6 +7,7 @@ About the Global Findex Database Financial	10977
 Access Control RDS Relational Database Service	6432
 Access National Database The Authority	10280
 Acknowledgments About the Global Findex Database Executive	10977
+African Education Research Database	19657
 African Elephant Database	16996
 African Elephants Database	16996
 African Startups Database. Retrieved	12214
@@ -63,6 +64,7 @@ Climatology and Hydrology Database Management System	16239
 Coarse Resolution Imagery Database	11334
 Coarse Resolution Satellite Imagery Database	11334
 Cochrane Database Syst Rev	10881
+Community Statistics. Local Government Statistics Database	19744
 Criminal Records Database System	16602
 DATABANK.WORLDBANK.ORG	16991
 DATABASE	6423,4352
@@ -77,7 +79,7 @@ DataBank	10714,6734
 DataBreachToday	3279
 Databank	15604
 DatabankWide.xlsx	11960
-Database	7,963,543,3163,989,758,9,1556,1682,1044,415,636,92,3,63,29,262,146,29,64,77,376,11,88,26,6,34,2090,232,1207,233,34,5,13,38,1,3,178,229,103,872,222,144,229,317,354,9
+Database	7,963,543,3163,989,758,9,1556,1682,1044,415,636,92,3,63,29,262,146,29,64,77,376,11,88,26,6,34,2090,232,1207,233,34,5,13,38,1,3,178,229,103,872,222,144,229,317,354,9,55,46
 Database Activity Monitoring	13053
 Database Administration	9437,3600
 Database Administrator	15080,10
@@ -86,7 +88,7 @@ Database Attacks	17746
 Database Document Management	14738
 Database ID	6423
 Database Maintenance	11129
-Database Management	11129,1020,1207,6228
+Database Management	11129,1020,1207,6228,55
 Database Management Department	7159
 Database Management System	13037,3886
 Database Management Systems	19533
@@ -130,10 +132,12 @@ Digital ID and Maisha Integrated Database	12165
 Digital Legislative Database ODS	17101
 Disaster Risk Management Emergency Events Database	10763
 DisclaimerThe Treaty Body Database	11765
+Distributed Database Management System	19712
 Documentation and Database Center	16848
 ECZ Database	13477
 EMIS Database	11860
 EXECUTIVE SUMMARY The Global Findex Database	10977
+Electronic Databases	19690
 Electronic Journals and Scientific Databases In Ministry	12325
 Emergency Events Database	10763,8757
 Emergency Events Database FBOs Emergency Operation	19520
@@ -220,6 +224,7 @@ Libyan Legal Database	0
 Local Addressing Database	11129
 Local Digital Address Databases	16915
 MAISHA INTEGRATED DATABASE	12165
+MDAs. Databases and Open	19639
 MRT 2024 FINDEX v01 M Title The Global Findex Database	17925
 MS SQL Database	15478
 Maisha Integrated Database	12165,62
@@ -253,10 +258,12 @@ National Digital Address Database	16915
 National Disaster Loss Database3	19520
 National Education Database	11860
 National ID Database	11960
+National ID Database. Anchored	19637
 National Identification Database	15120,1747
 National Identity Database	4602,972,1567,3,1970,556,8589
 National Identity Database. Under DG Abisoye	3703
 National Identity Management Database and Immigration	7914
+National Infrastructure Database	19745
 National Master Database	12323,2180
 National Population Database	18965,75
 National Recommendations Tracking Database	17934
@@ -285,7 +292,7 @@ PPP Database Set-up	16944
 Pakistan's National Database and Registration Authority	2274,5,2413
 Pakistan’s National Database and Registration Authority	10521
 Passport Database	10714
-Peace WID.World World Inequality Database FH	10835,3,130,902,16,466,1,135
+Peace WID.World World Inequality Database FH	10835,3,130,902,16,466,1,135,7334
 Personal Records Database	10714
 Pharmaceutical and Food Legislation Database	11939
 Population Database	10714
@@ -307,6 +314,7 @@ Registry Database	10762,1627
 Regulatory Database Management System	16978
 Rep. Zambia Register VIZ Database	10714
 Research Library Databases ABCD Indexed	12467
+SQL Database Dump	19639
 Senior Database Administrators	15034
 Service IBM DB2 IBM's Database	13185
 Seychelles National Population Database	10714
@@ -363,5 +371,6 @@ World Bank’s Global Findex Database	7156,74
 World Development Indicators Database	18765
 World Economic Outlook Database	12385,3219
 World Economic Outlook Database. IMF	13332
+World Inequality Database	19653,4,179
 World Revenue Longitudinal Database	6593
 World TVET Database Cameroon. Bonn	15480

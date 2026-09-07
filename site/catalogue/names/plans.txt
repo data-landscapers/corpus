@@ -20,9 +20,9 @@ Annual Development Plans	7548,11971
 Annual Investment Plans	16994
 Annual Investment Plans. PBGs	5620
 Annual Operational Plans	16857
-Annual Plans	19519
+Annual Plans	19519,123
 Annual Procurement Plans	13127,5373,1085
-Annual Work Plans	10963,2042,984,3127
+Annual Work Plans	10963,2042,984,3127,2719
 Annual Work Plans and Budgets	3562,7402,3948,460,1282,204,38,26,14
 Approved Budgets and Strategic Plans	18500
 Asbestos Management Plans	18534
@@ -37,7 +37,7 @@ Body LESOTHO ADVANCES PLANS FOR OVERSEAS	12746
 Broadcasting Plans	6946
 Budget Process Action Plans Quarterly	14935
 Budgets and Procurement Plans	11401
-Business Continuity Plans	12538
+Business Continuity Plans	12538,7263
 Business Continuity Plans. Lack	19584
 Business Continuity and Disaster Recovery Plans	19584
 Business Plans	16851
@@ -83,7 +83,7 @@ Development Plans	5872,9973
 Development of Biodiversity Financing Plans	17101
 Digital Government Plan and Digital Services Plans	12562
 Disabilities RAP Resettlement Action Plans REC	1264
-Disaster Recovery Plans	12538,882
+Disaster Recovery Plans	12538,882,6381
 Disaster Recovery and Business Continuity Plans	4610
 Distributors Master Plans	12399
 District Development Plans	13005,1917,24
@@ -173,13 +173,15 @@ Local Area Plans	1778
 Local Area Plans Sanitation and Kalumbila	1988
 Local Development Plans	16994
 Lyca Mobile Advances Telecom and E-Health Plans	5262
+MEDIUM TERM PLANS Programme Intervention	19744
 MPME Le Concours des Plans	13549
 Malgré des Plans de Travail Annuel	18297
 Management Strategies and Implementation Plans	13185
-Master Plans	7785,4614,970
+Master Plans	7785,4614,970,6277
 Master Systems Plans	11940
 Master Urban Planning Plans and Detailed	10930
 Master Urban Planning Plans and Detailed Urban	10930
+Medium Term Plans	19744
 Million for Rollout Liberia Plans Nationwide Same-Day	14335
 MoUs. Plans	18578
 Monitoring and Evaluation Plans and Reports	13420
@@ -193,11 +195,12 @@ NatCA Plans	8416
 National Adaptation Plans	13144
 National Adaptation Plans NDCs Nationally Determined	18578
 National Contingency Plans	3887,14900
-National Development Plans	1814,53,6546,2718,3,1265,497,25,25,16,11,3901,77
+National Development Plans	1814,53,6546,2718,3,1265,497,25,25,16,11,3901,77,2691,4,37,32
 National Development Plans and Projects Management System	19603
 National Development Plans. Government	12453,892
 National Development Plans. Hesselmark and Miller	12325
 National Development Plans. ICTs	12453,892
+National Development Plans. The Digital Uganda	19642
 National Development Strategy and National Development Plans	12962
 National ICT Master and Strategic Plans	12917
 National Plans and Strategic Proposal	12739
@@ -211,6 +214,7 @@ Open Government Plans	14965
 Open Government Plans. Figure	14965
 Operating Plans	16839
 Operational Plans	12500
+PIAPs Program Implementation Action Plans QOS	19642
 PLANS AND BOUNDARIES	19524
 PLANS D’ACTION L’élaboration	18291
 PLANS NATIONAUX DE DEVELOPPEMENT NUMERIQUE	13482
@@ -221,7 +225,7 @@ Performance Plans	11986
 Physical Development Plans	13060
 Physical and Land Use Plans	7548
 Planning Plans	10930
-Plans	396,119,373,82,674,895,4,229,113,176,156,18,161,103,55,91,256,171,164,3,735,130,184,77,234,132,1409,58,288,239,134,121,58,386,699,283,187,720,33,73,41,95,292,27,2,94,30,139,59,26,26,607,357,19,92,31,20,23,523,238,150,132,91,420,584,85,750,22,77,2,69,49,87,34,10,24,197,56,104,56,136,27,299,6,7,224,3,110,40,90,4,34,225,448,34,33,3,100,187,117,5,48,31,130,76,126,74,212,228,303,5
+Plans	396,119,373,82,674,895,4,229,113,176,156,18,161,103,55,91,256,171,164,3,735,130,184,77,234,132,1409,58,288,239,134,121,58,386,699,283,187,720,33,73,41,95,292,27,2,94,30,139,59,26,26,607,357,19,92,31,20,23,523,238,150,132,91,420,584,85,750,22,77,2,69,49,87,34,10,24,197,56,104,56,136,27,299,6,7,224,3,110,40,90,4,34,225,448,34,33,3,100,187,117,5,48,31,130,76,126,74,212,228,303,5,118,100,58
 Plans CFAF	19622
 Plans ESS Environmental and Social Standard FAO	18293
 Plans Fonciers Ruraux	10876
@@ -257,15 +261,17 @@ Pre-Determined Change Control Plans	3651
 Pre-determined Change Control Plans	3651
 Prepare and Implement Spatial Plans	18476
 Private Building Plans Approved and Reported	2775
-Procurement Plans	1264,20,2320,7225,4309,380,1662,39,1281,714
+Procurement Plans	1264,20,2320,7225,4309,380,1662,39,1281,714,633
 Procurement Plans. Joint	18500
 Program Action Plans	11905
+Programme Implementation Action Plans	19660
 Programme of Action and Annual Action Plans	15845
 Promotional Prepaid Integrated Plans	11259
 Protection Plans	11754
 Provincial Economic Development Plans	13474
 Provincial Growths Development Plans	11289
 Provision Regional Development Plans	16916
+Public Investment Plans	19660
 Publication of Procurement Plans	12389
 RAP Resettlement Action Plans RPF Resettlement	16614
 RITA's Annual Implementation Plans	19541
@@ -275,6 +281,7 @@ Recovery Plans	4610,14974
 Redundancy and Continuity Plans	34
 Regional Adaptation Plans	11103
 Regional Development Plans Comments	16994
+Regional Plans	19844
 Registered General Plans	12605
 Remediation Plans	15149
 Resettlement Action Plans	3604,7921,3847,1242,500,1773,397
@@ -334,6 +341,7 @@ Togo Plans Prepaid Cards	7871
 Training and Awareness Plans	12538
 Transaction and Plans	7198
 Tunisie Plans	17879
+UNBS Quality Mark. Future Plans	19712
 Updated Procurement Plans	15138
 Updated Strategic Investment Plans	17096
 Updating the Master Urban Planning Plans	10930
@@ -342,6 +350,7 @@ Urban Reference Plans	16614
 VI. LES PLANS D’ACTIONS	18291
 VI. LES PLANS D’ACTIONS Dans	18291
 VI.3. CONTRIBUTION DES PLANS D’ACTION AU	18291
+VOTE MEDIUM TERM PLANS Planned Outputs	19744
 Visa Plans	2610
 Wadi Basin Management Plans	17157
 Wadi Basin Plans	17157

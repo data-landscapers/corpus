@@ -48,6 +48,7 @@ Cell Broadcast Enabled Early Warning Systems	15120
 Cell Broadcast-Enabled Early Warning Systems	15120
 Centers Registration Registration Centers Ward Registration	19541
 Central Warehouse Department	17048
+Centralized Education Data Warehouse. The MoES	19776
 Charlie Warzel	4300
 Chibale Ward	13387
 Chieftainess Serenje Ward	13387
@@ -55,7 +56,7 @@ Children’s Fund WARCIP West African Regional	19245
 City Wards. Beneficiaries	12978
 Civil War	1038,17418,81
 Civilians and Civil Wars	16949
-Classified Warning Signs No Change	10835,3,130,918,466,1,135
+Classified Warning Signs No Change	10835,3,130,918,466,1,135,7334
 Classified Warning Signs No Change Best	10835,3,130,918,602
 Climate Change WB World Bank WARDIP	17114
 Climate Risk and Early Warning System	19245
@@ -214,7 +215,7 @@ Impact Based Forecasting and Early Warning Systems	13201
 Importers and Exporters AEO SAQ Bonded Warehouse	12454
 Improve the Data Warehouse Facilities	17011
 Improve the Data Warehouse Facilities Integration	17011
-Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3,130,902,16,466,1,135
+Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3,130,902,16,466,1,135,7334
 Indian Ocean Tsunami Warning and Mitigation System	14732
 Indicator WARCIP West African Regional Communications	1000
 Information Warfare	1000,785,1417,3881
@@ -279,6 +280,8 @@ Military Pension Assistance for World Wars	12405
 Minister of Defence and War Veterans Affairs	13562
 Ministry Warns Against Unauthorised Directives	16796
 Ministry of War	15473
+Ministry’s National Health Data Warehouse	19738
+Mmaratanang Ward	19654
 Mobile Money War Goes Physical	6996
 Modern NAME Warehousing	19532
 Modern Warehousing	19532
@@ -307,10 +310,11 @@ NOAA Early Warning System	18360
 NamRA Tug of War	13044
 NamRA’S TUG OF WAR CHAMPIONS	13044
 NamRA’s Tug of War	13044
-National Data Warehouse	4260,7883,7141
-National Early Warning System	17969,818
+National Data Warehouse	4260,7883,7141,487
+National Data Warehouse. Pilot	19738
+National Early Warning System	17969,818,875
 National Government Data Warehouse	14752
-National Health Data Warehouse	4922
+National Health Data Warehouse	4922,14816
 National Health Data Warehouse I	4260
 National Roads Authority Warns of Rising Theft	17069
 National Tsunami Warning Centre for Mauritius	14732
@@ -350,6 +354,7 @@ Planned Actual WARDIP-S-001-2025	17219
 Point WARCIP West African Regional Communications	15621
 Police Warn Against Aviator Gambling	8639
 Post Warranty Period	14766
+Presidential and Parliamentary Elections. E. Public Warning	19737
 Proceedings of Ward Development Commkitmtee	19525
 Program WARDIP West Africa Regional Digital	17862
 Programme WARDIP Guinée	16715
@@ -399,7 +404,7 @@ SYSTEM AND DATA WAREHOUSE. Request	18506
 SYSTEM AND DATA WAREHOUSE. UNICEF UNIQUE	18506
 SYSTEM AND DATA WAREHOUSE. URL	18506
 Sancha Ward	13387
-Score Slowing Improvement Warning Signs	10835,3,130,902,16,466,1,135
+Score Slowing Improvement Warning Signs	10835,3,130,902,16,466,1,135,7334
 Security Data Warehousing Data	15034
 Selected Wards of Affected Districts. Endline Report	13332
 Server Warranty	12681
@@ -407,7 +412,7 @@ Serviços Publicos. WARDIP-F-004-2024	17219
 Sexual Abuse Of Ward	16935
 Shaqodoon's AI-Powered Early Warning System Protecting	15178
 Slowing Improvement Not Classified Warning Signs	12353
-Slowing Improvement Slowing Deterioration Warning Signs	10835,3,1048,466,1,135
+Slowing Improvement Slowing Deterioration Warning Signs	10835,3,1048,466,1,135,7334
 Slowing Improvement Warning Signs Security	10968,902
 Smart Warehouse-in-a-Box	17048
 Social Standards EWS Early Warning System	16384
@@ -420,6 +425,7 @@ Standard Demarcation of Electoral Wards	11129
 State Warehouse	11036,7414
 State-owned Facilities for Warehousing	4301
 Strengthen Impact Based Forecasting and Early Warning	13201
+Strengthening Climate Information and Early Warning Systems	19662
 Strengthening Early Warning	11283,3239,571,1294,2005
 Strengthening Early Warning Systems	16371
 Strengthening Early Warning Systems and Climate Services	13207
@@ -467,6 +473,7 @@ United Nations’ Early Warnings for All EW4A	11283
 Unity and Warrap	18701
 University of Warwick	6948,2300,536,2241
 University of Warwick and Mark Hooper	7008
+University of Warwick. DHIM	19667
 Using of Drones and Early Warning	17241
 Village and Wards	19519
 WAAJIBAADKA WARBIXIN EE DHINACA KU TIIRSAN	14930
@@ -703,18 +710,18 @@ Warmquelle	12933
 Warmware	5513,38
 Warner	9739,872
 Warner J	5242
-Warning	3665,297,648,3404,1124,1984,298,783,1162,364,719,443,190,171,240,879,507,187,92,812,340,269,209
+Warning	3665,297,648,3404,1124,1984,298,783,1162,364,719,443,190,171,240,879,507,187,92,812,340,269,209,875
 Warning Africa Cannot Ignore	8497
 Warning Dissemination and Communication	16137,2551,15
 Warning Doesn't Arrive	17596
 Warning Infrastructure	17962
 Warning Notices	5665
-Warning Score	10835,3,130,902,16,466,1,135
+Warning Score	10835,3,130,902,16,466,1,135,7334
 Warning Services PDO Indicators	17962
-Warning Signs	11887,1,1,264,1,9,178
+Warning Signs	11887,1,1,264,1,9,178,7311,1
 Warning Signs Absence of Forced Migration	12352
 Warning Signs Bouncing Back Slowing Deterioration	10759
-Warning Signs Increasing Deterioration	10835,3,130,902,16,466,1,135
+Warning Signs Increasing Deterioration	10835,3,130,902,16,466,1,135,7334
 Warning Signs Score	10837,1315,188
 Warning Signs. African	12163
 Warning Signs. Women's Equality	11888
@@ -786,6 +793,7 @@ Weather Forecasting and Warning Capabilities	14738
 West Africa. The WARCIP	15424
 West Africa. The WARDIP	16144
 Within the WARDIP	17077
+Women Warning Signs Absence of Crime	19822
 Working Group Monitoring and Early Warning Drought	17157
 World Bank WARCIP APL	15424
 World Bank WARCIP Burkina Faso	15550

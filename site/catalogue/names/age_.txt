@@ -16,27 +16,31 @@ Age Category Age Category Number of Number	19541
 Age Category.37 Table	19541
 Age Cohort	16876
 Age Composition of PWDs All	12460
+Age Dependency Ratio	19715
 Age Determination Committee	12959
 Age Determination Committees	12959
 Age Disparities	12411
-Age Distribution	13644,3483
+Age Distribution	13644,3483,2588
+Age Distribution Age	19715
 Age Distribution Among Permanent Staff	12951
 Age Distribution Department Distribution Intern GITs	12969
 Age Distribution of SLMet Staff	18578
 Age Female Male Sex Ratio	12151
 Age Figure	10775
 Age Financial	19584
-Age Group	582,11813,4732,2415,2
+Age Group	582,11813,4732,2415,2,171
 Age Group Male Female J S	18443
 Age Group Treated	12978
+Age Group and Background	19715
 Age Group and Gender Distribution	14760
 Age Group and Residence	2775
-Age Group and Sex	12655,322
+Age Group and Sex	12655,322,6738
 Age Group and Sex Age	12977
 Age Group and Sex for Children	12977
 Age Group of Police Officers Male Female	14760
 Age Groups Male Female	19542
 Age Groups Non-smartphone Smartphone	19542
+Age Groups Over the Years	19712
 Age Groups and Sex	19542
 Age Groups of SLMet	18578
 Age Level	14098
@@ -44,6 +48,7 @@ Age Lower Secondary Upper Secondary University	19542
 Age Male Female Total Kenya	12151
 Age Males Females	18441
 Age Moins	18204
+Age Number of Persons Pre-Primary	19715
 Age Pension SEZ Special Economic Zone	14828,3
 Age Population Preamble Nations	16861
 Age Range and Gender Distribution	11955
@@ -53,9 +58,9 @@ Age Residence Wealth Quintile Woman's Education	18441
 Age Responsiveness	13080,15
 Age Single	12413
 Age Specific Death Rate AFDB	12639
-Age Specific Fertility Rate	12151,262,226,2417
+Age Specific Fertility Rate	12151,262,226,2417,4659
 Age Specific Fertility Rate ASDR	12639
-Age Specific Fertility Rates	12151
+Age Specific Fertility Rates	12151,7564
 Age Specific Marriage Rates	12413
 Age Spouse	14828
 Age Taux	15999
@@ -70,7 +75,8 @@ Age Women	11879
 Age Youth	12460
 Age and Namibian Citizenship	12350
 Age and Sex	2775,9376,1216,277,1603,1674,193,2428
-Age and Sex Composition	13367
+Age and Sex Composition	13367,6348
+Age and Sex Composition Age	19715
 Age and Sex Figure	12367
 Age and Sex Fundamental	19542
 Age and Sex Reports	19542
@@ -86,7 +92,8 @@ Age of AI and Our Human Future	8832
 Age of AI. Human Development Report	6948
 Age of Accelerating Technological Advancement	6948
 Age of Algorithms	18318
-Age of Artificial Intelligence	2918,7808,3947,4123
+Age of Artificial Intellig	19748
+Age of Artificial Intelligence	2918,7808,3947,4123,952
 Age of Artificial Intelligence Botswana	12625
 Age of Bride	12413
 Age of Business Enterprise	12445
@@ -184,7 +191,8 @@ HH Youth NEET Head Age Child	15244
 Halfway House Age Groups Male Female	12977
 Homme Femme Mixte TOTAL Age	13390
 Household Head Sex Age	17114
-Information Age	6008,4938,3488
+ICTs By Type And Age Group	19702
+Information Age	6008,4938,3488,5373
 Information Age Council	12529,7
 Information Age Imperialism	2518
 Information Age SETA	6832
@@ -210,6 +218,7 @@ Mean Age	2775,10203,3972
 Minimum Age Convention	14011
 Mobile Banking Dominates DFS Access Age	15130
 Montant Age	13390
+Myer’s Blended Index of Age Preference	19715
 N Catégorie Sexe Age Adulte	13390
 Name Designation Age Quali	4896
 Nationality Age	4896
@@ -239,11 +248,13 @@ POPULATION AGE	12214
 Percentage Age	15085
 Personnes de Troisième Age	15383
 Plan OAP Old Age Pensions OTP	12663
+Planning for Old Age	19716
 Poorest Rural Age	18441
 Population Age Groups	19544
 Population Characteristics Age	18441
 Population Groups Working Age Population	19542
 Population Over Age	10765,10
+Population of Selected Age Groups Number	19715
 Pre-Shipment Inspection and Vehicle Age Verification	14216
 Pregnancy Age	15604
 Programmes By Age	12151
@@ -269,8 +280,10 @@ Selected Groups Working Age Population	19542
 Sex Before Age	18441
 Sex Mother's Age	18441
 Sex and Age	17099,2443
-Sex and Age Group	14945,1976
+Sex and Age Disaggregated HIV	19646
+Sex and Age Group	14945,1976,2794
 Sex and Age Group Total Male Female	16921
+Sex and Age of Children	19715
 Sex and Five-Year Age Groups	19542
 Sex and Five-year Age Groups	19542
 Sex and Selected Age Groups	19542
@@ -279,6 +292,7 @@ Single Age	19542
 Single Age Tanzania Tanzania Mainland Tanzania	19542
 Singulate Mean Age	12655
 Social Protection Programmes Booklet Old Age	12373
+Special Age Group and Sex	19715
 Special Age Groups	19542
 Specific Age Group and Sex	19544
 Specified Age Grouping	16921
@@ -298,8 +312,11 @@ Vaccine Recommended Age Bacillus Calmette	14742
 Venture Debt Comes of Age	4972
 Visited Region Region Age Category Average	19541
 Wealth Quintile By Age Richest	18441
+Wildlife Authority WAP Working Age Population	19715
 Women Men Age	18441
 Women of Reproductive Age	19544
+Working Age Population	19715
+Working Age Population and Youth	19715
 Y Proprietary Age	9124
 YEARS OF AGE	16892
 YEARS OF AGE OR OLDER	17127

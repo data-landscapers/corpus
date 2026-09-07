@@ -84,7 +84,7 @@ Botswana Digital Innovation Hub	5989,4741,1878
 Botswana Digital and Innovation Hub	1154,400,1022,1218,6620,2130,43,7
 Botswana Digital and Innovation Hub BIF	12544
 Botswana Digital and Innovation Hub and EU	12594
-Botswana Innovation Hub	5879,18,6643,4
+Botswana Innovation Hub	5879,18,6643,4,7233
 Botswana Innovation Hub BPOPF	12540
 Buni Innovation Hub and Sahara Ventures	19579
 Buni Innovation Hub. National Chadema SG	19621
@@ -151,6 +151,7 @@ Data Hubs Powering the Digital Mauritius Vision	3292
 Data Science Hub	9322
 Data for HubSIX	18420
 Data4Change's Africa Hub	4999
+Deep Tech Hub	19762
 Deep Tech Hub and Raxio Data Centre	5249
 Defence AI Innovation Hub	4528,7984
 Deloitte Innovation Hub	16046
@@ -331,6 +332,7 @@ Hub. Increase	14674
 Hub. Next	16241
 Hub. Non-ECOWAS	4827
 Hub. Plans	16241
+Hub. Together	19657
 HubSIX	14468,3939,13
 HubSIX URL	18420
 Hubahirijwe	14893
@@ -365,7 +367,8 @@ Hundred Hubs Across Africa URL	15460
 IAC A Strategic Hub for Innovation	13551
 ICT Data Hub	6946
 ICT HUB Information	12911
-ICT Hub	5109,3552,134,8091
+ICT Hub	5109,3552,134,8091,2774
+ICT Innovation Hub and Mestile Hotel BUBU	19641
 ICT Research Hub	14681
 ICT Research and Innovation Hub	14681
 INCUBATORS AND INNOVATION HUBS	18910
@@ -409,6 +412,8 @@ Innovation Hubs	226,1010,1721,9496,1021,3398,2662
 Innovation Hubs Innovation	19534
 Innovation Management of Hubs	19534
 Innovation and Entrepreneurship Hubs	13295
+Innovators and Innovation Hubs	19641
+Innovators and Innovation Hubs Provided	19641
 Institute of South Africa and AI Hubs	4970
 International Financial Hub	14997
 International VSAT Hub	736
@@ -431,7 +436,7 @@ Katsina State Hub	3718
 Kenya Breaks Ground for Kikuyu Digital Hub	10668
 Kenya's Digital Hub	9203
 Kikuyu Center of Excellence Digital Hub	10668
-Knowledge Hub	396,6324,6360,1664,253
+Knowledge Hub	396,6324,6360,1664,253,4660
 Knowledge Hub Digital	630
 Koneta Hub	2685,2,359,86,176,15,119,65,269,321,447,96,374,93,240,768,696,438,1833
 La Fondation Bangui Hub	15708
@@ -484,15 +489,22 @@ NLP Hub URL	18038
 NUST Innovation Hub	13173
 NZERU HUB. Employability	13080
 NZERU Hub	13080
+Nakawa ICT Hub	19790
 Nation's Largest Hub for Tech	19604
 National Council for Civic Education Peace Hub	16973
 National Cybersecurity Hub	8897
 National Data Exchange Hub	1361,7187
 National Data Science Training Hub	13426
 National Digital Hub	13582
-National ICT Innovation Hub	2676,2433,1756,787,1207,530,512,2973,1314,3516
+National Hub	19742
+National ICT Hub	19660,82
+National ICT Hub Brand and Public	19660
+National ICT Hub. Parish Development Model	19660
+National ICT Innovation Hub	2676,2433,1756,787,1207,530,512,2973,1314,3516,1938,18,59,71,4
+National ICT Innovation Hub. Acquisition	19660
 National ICT Innovation Hubs	17704
 National ICT Support Program and Innovation Hub	2676
+National Innovation Hub	19725
 National Innovation Hub Standard Framework	11304
 National Innovation Hub Standards Framework	10573,107,624
 National Innovation Hub Standards Framework Workshop	10573
@@ -668,6 +680,7 @@ Xubnaha Kooxaha Hubeysan	15047
 YOTA Skills Hub	16009
 Young Business Hub	17870
 Young Hubs	12053
+Zebra Hub of Excellence	19651
 Zed. Global Infrastructure Hub	11155
 Zimbabwe ICT Innovation Hub Responsible for ICT	395
 Zimbabwe’s Regional Data Transmission Hubs	7036

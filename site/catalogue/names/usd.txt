@@ -56,9 +56,9 @@ County Male Female LRD USD LRD	16878
 Crude Oil USD	17235
 Crédito Adicional Suplementar USD	3606
 Currency USD	3676
-Current USD	10759,76,2,1,74,56,902,16,1,2,265,186,1,11,1,135
-Current USD Central Government Debt	10837,1052,265,186,1
-Current USD GDP	10835,3,130,902,16,466,1,135
+Current USD	10759,76,2,1,74,56,902,16,1,2,265,186,1,11,1,135,7334,14
+Current USD Central Government Debt	10837,1052,265,186,1,7495
+Current USD GDP	10835,3,130,902,16,466,1,135,7334
 Current USD. Central Government Debt	11887
 DEG USD	618,195,1323
 DFC USD	1429
@@ -114,7 +114,8 @@ GAB SSD. USD	690
 GCF-financing USD	18581
 GDP Millions Current USD	10759
 GDP Ratio Additional Tax USD	14897
-GDP of USD	14043
+GDP and USD	19807
+GDP of USD	14043,5603
 GSR-24 Kampala. USD	1528
 Gap USD	15181
 Ghana and Uganda. USD10M	1472
@@ -178,6 +179,7 @@ M. BII USD	4516
 M. USD	2523
 MASSIF USD5.5M	198
 MILL USD External Funding	17101
+MILLION USD	19646
 MILLION USD IN EXPORTS OF ICT	15679
 MNOs USD	10856
 MTC USD MNO Ranking	1013
@@ -203,6 +205,7 @@ Moov Africa USD	2454
 Moove's USD	1136
 NRS USD-referenced	9570
 Nations Children’s Fund USD United States	18931
+Nations Development Programme USD United States	19666
 Nations High Corporation Commissioner for Refugees USD	12297
 Nations USD United States of America	11863
 Net Profit of USD	15284
@@ -374,6 +377,7 @@ USD and Euro. In Kenya the REPSS	12286
 USD and INR	18543
 USD and LRD	17235
 USD and Naira	7465
+USD des DJF	19850
 USD for Construction of Data Centers	103
 USD for Introducing	14897
 USD'. NOK	710
@@ -388,8 +392,10 @@ USD-equivalent	7491,2268
 USD-referencing	9570
 USD. Africa	12048
 USD. Capacidad	3179
+USD. Ce	19850
 USD. Central Government Debt	11888
 USD. Cette	5604,9018
+USD. Comparatively	19633
 USD. FX	249
 USD. KEN-based	263
 USD. Le PAGIR	15908
@@ -408,6 +414,7 @@ USD0.51	16186
 USD1.1	9634
 USD1.1m	9634
 USD1.25	14195
+USD1.40	19728
 USD1.5	13624,1120
 USD1.8	7909
 USD1.85	17105
@@ -495,6 +502,7 @@ USDT and USDC	7578,637,1152,420,2246,849
 USDT and ZARU	9367
 USDXX	573
 USDin	12487
+UWA and USD	19728
 Uganda. Part of USD	1420
 Under LOC of USD	2667
 Uninterrupted Power Supply USD	13053
@@ -513,6 +521,7 @@ Vodacom Tanzania Launches USD	5715
 WASH WASHFIT WHODAS WISN USD Santé	14622
 WB IDA USD	607
 WB USD	4466
+WFP of USD	19721
 World Bank IDA USD	473
 World Bank. USD	15471
 Yango's USD	13015

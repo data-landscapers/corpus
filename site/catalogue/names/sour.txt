@@ -10,6 +10,7 @@ Activités Sources de Coûts Coûts	17845
 Activités Sources de Responsables Financemen	17845
 Additional Funding Sources	11285
 Additional Sources Consulted	11868
+Additional Sources Consulted Oral	19636
 Addressing FCV Drivers and Sources of Resilience	11469
 Admits Paid Content Boosting Sources	9404
 Aggregation of Existing Sources of Data DATA	18476
@@ -23,6 +24,7 @@ Annual Targets Responsibility Data Sources	14997
 Année Sources Objectif	15724
 Année Sources Priorité	15724
 Appendix B Benchmark Sources Somalia	15164
+Association Nationale des Sourds du Burundi	19676
 Autres Sources	13300
 Autres Sources de Revenus ASSIMPER	15027
 Autres Sources de Revenus Ingingo	15027
@@ -65,7 +67,7 @@ DATA SOURCES AND DISCLAIMER Under the Mission	12717
 DES SOURCES DE DONNEES ET	785
 DES SOURCES DE DONNEES STATISTIQUES ARTIC	15530
 Data Services and Sources Information Internal Services	17097
-Data Sources	2775,2197,6885,294,205,648,343,1776,1012,866,2556
+Data Sources	2775,2197,6885,294,205,648,343,1776,1012,866,2556,116
 Data Sources Government	12356
 Data Sources Hazard Identification Identify	17157
 Data Sources Official Government Reports	17139
@@ -86,6 +88,7 @@ Dec-23 Dec-24 Dec-25 Sources	17235
 Dec-24 Dec-25 Dec-23 Sources	17235
 Di Sourou Boucle du Mouhoun	15715
 Diesel Sources	1828
+Different Sources	19823
 Digital Economy of Impact Sourcing	226
 Directeur Général du CHU-MEL de Cotonou Monsieur Sourou	10867
 Domestic Consumption Sources	1828
@@ -290,7 +293,7 @@ SourceID	55
 SourceModified	5598
 Sourcebook	10985,171,8081
 Sourced	3422,345,470,812,1885,415,2215,2229,1205
-Sources	11,518,58,56,94,477,614,116,37,164,237,317,76,58,351,1,158,88,4,142,246,391,31,186,80,14,94,169,352,143,102,270,370,129,87,73,63,113,82,31,30,102,136,50,14,216,305,92,578,45,49,216,244,110,25,76,84,148,281,101,2,1,105,83,14,204,1,77,70,15,80,31,344,186,41,4,18,48,6,2,1,23,51,50,3,3,8,1,18,66,75,2,18,154,250,241,62,1,6,4,7,5,1,1,1,27,37,41,21,137,1,1,9,25,11,2,37,23,39,40,1,5,6,1,42,32,61,460,55,37,260,25,89,4,43,1,224,155,27,37,33,254,287,3,139,53,177,45,1,8,6,145,73,20,15,178,82,49,2,25,74,6,15,4,4,17,50,45,7,2,75,134,99,217,44,222,139,60,122,14,37,156,166,26,22,69,38,114,25,242,83,8,6,3,15,10,39,36,45,73,223,30,3,156,13,145,190,130,36,227,5,16,113,180,27
+Sources	11,518,58,56,94,477,614,116,37,164,237,317,76,58,351,1,158,88,4,142,246,391,31,186,80,14,94,169,352,143,102,270,370,129,87,73,63,113,82,31,30,102,136,50,14,216,305,92,578,45,49,216,244,110,25,76,84,148,281,101,2,1,105,83,14,204,1,77,70,15,80,31,344,186,41,4,18,48,6,2,1,23,51,50,3,3,8,1,18,66,75,2,18,154,250,241,62,1,6,4,7,5,1,1,1,27,37,41,21,137,1,1,9,25,11,2,37,23,39,40,1,5,6,1,42,32,61,460,55,37,260,25,89,4,43,1,224,155,27,37,33,254,287,3,139,53,177,45,1,8,6,145,73,20,15,178,82,49,2,25,74,6,15,4,4,17,50,45,7,2,75,134,99,217,44,222,139,60,122,14,37,156,166,26,22,69,38,114,25,242,83,8,6,3,15,10,39,36,45,73,223,30,3,156,13,145,190,130,36,227,5,16,113,180,27,79,17,91,78,4,10,8
 Sources A1- Disclosure	7548
 Sources AFRINIC	11812
 Sources AFRINIC Board Meetings and Resolutions	11813
@@ -306,12 +309,13 @@ Sources Data	236
 Sources Develop	7548
 Sources EDS	17843
 Sources Etat PNUD Union Européenne FNUAP	18169
+Sources Indicator	19652
 Sources Information Services Basic	17097
 Sources NOG Alliance	11797
 Sources Process	9237
 Sources Publish	7548
 Sources Rapports	14537
-Sources SECURITY	10759,76,2,1,130,902,16,3,274,177,1,11,1,135
+Sources SECURITY	10759,76,2,1,130,902,16,3,274,177,1,11,1,135,7334
 Sources TPRA CBS Calculations	14897
 Sources TPRA and World	14897
 Sources Use	15149
@@ -355,6 +359,7 @@ Sources of Income DRIVERS OF FOOD INSECURITY	17285
 Sources of Income and Expenses	17235
 Sources of Income for Central African Republic Returnees	10841
 Sources of Income for Returnees	10841
+Sources of Information Number of Households Percent Radio	19715
 Sources of Legislation	18597
 Sourcing	1940,396,879,572,361,98,55,1246,235,180,248,174,56,4691,1314,1779,773,1946
 Sourcing Criterion	7548

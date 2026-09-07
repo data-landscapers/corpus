@@ -56,7 +56,7 @@ Center for Disease Control	12379
 Center for Disease Control Prevent	12138
 Center for Disease Control. As I’m	560
 Centers for Disease Control	396,14038
-Centers for Disease Control and Prevention	5700,2050,2696,195,1271,467,2055,1761
+Centers for Disease Control and Prevention	5700,2050,2696,195,1271,467,2055,1761,3576
 Centers for Disease Control and Prevention CELCOM	16041
 Centers for Disease Control and Prevention CENAME	16195
 Centre for Disease Control	16971
@@ -77,12 +77,13 @@ Communicable Disease Control	16941
 Communicable Diseases	10780,2383,1551,1,2384
 Communicable and Non-Communicable Diseases	12729,247,1859
 Component COVID-19 Coronavirus Disease	16896
-Control of Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
-Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
-Corona Virus Disease	12175
+Control of Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Control of Communicable Diseases Access	19822
+Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Corona Virus Disease	12175,7468
 Corona Virus Disease-19	19531
 Corona Virus Disease-19 FBO Faith-Based Organization	19531
-Coronavirus Disease	2775,4057,3931,2569,3104,2848
+Coronavirus Disease	2775,4057,3931,2569,3104,2848,376
 Coronavirus Disease CPF Country Partnership Framework	18293
 Country Disease Outlook	19284
 Crop Disease	18904
@@ -96,6 +97,8 @@ DISEASES BY TYPE OF DISEASE	17043
 DISEASES IN HOUSEHOLDS	15574
 DISEASES YEAR	19544
 DISEC	15845
+DISED	19835
+DISED. UNFPA. Ministère	19844
 DISEMPOWERMENT HEADCOUNT RATIO	17127
 DISER	15685
 DISER. Cette	15685
@@ -106,7 +109,7 @@ DiSEP	18286
 Diarrheal Disease	15247
 Diarrhoeal Disease	13454
 Directorate of Disease Surveillance	11912
-Disease	1988,1873,399,414,2272,2772,1062,416,309,407,1019,16,889,993,125,707,1280,1502,185,276,640
+Disease	1988,1873,399,414,2272,2772,1062,416,309,407,1019,16,889,993,125,707,1280,1502,185,276,640,194
 Disease Annual Epidemiology	16922
 Disease Annual Epidemiology Electronic	16922
 Disease Annual Epidemiology Epidemiology and Health	16922
@@ -132,7 +135,7 @@ Disease Outbreaks	17157
 Disease Prevention	1988
 Disease Prevention and Control	12246,920,867
 Disease Risk Analysis	15478
-Disease Surveillance	16971
+Disease Surveillance	16971,2696,71
 Disease Surveillance Enhancements	16971
 Disease Surveillance Network Insure	17157
 Disease Surveillance Systems Enhancement Project RIP	11380
@@ -150,6 +153,7 @@ Diseases Department	10784
 Diseases Kenya Vital Statistics Report	12151
 Diseases NCM National Coordinating Mechanism	12970
 Diseases NDHS National Digital Health Strategy	18478
+Diseases Slowing Improvement Not Classified Laws	19822
 Diseases Table	12151
 Diseases WHO World Health Organization EXECUTIVE	19544
 Disemba	2868,3151,13498,46,2
@@ -193,6 +197,7 @@ Global Burden of Diseases	13644
 Governance REDISSE IV Regional Disease Surveillance	10829
 Guinea Worm Disease	10776
 Head of Africa CDC’s Division for Surveillance and Disease	4782
+Health Worker ICD International Classification of Diseases	19667
 Health and Rights STD Sexually Transmitted Disease	970
 Heart Disease	12151
 Heart Diseases	12151
@@ -219,9 +224,10 @@ Infectious Diseases	10919
 Integrated Animal Disease Surveillance and Response	14666
 Integrated Disease Notification System. Diarrhoea	12976
 Integrated Disease Surveillance	19544
+Integrated Disease Surveillance Reporting	19776
 Integrated Disease Surveillance and Response	4260,5110,2047,586,2663,297,195,801,52,911,49,318,2255
 Integrated Disease Surveillance and Response IFR Interim	16922
-International Classification of Diseases	11969,444,316,2327,406,263,382,2521,916
+International Classification of Diseases	11969,444,316,2327,406,263,382,2521,916,123
 International Classification of Diseases KFH	12338
 International Classification of Diseases-10	15411
 International Coding of Diseases	15590
@@ -351,7 +357,7 @@ U.S. Centers for Disease Control	12334
 U.S. Centers for Disease Control and Prevention	10641,5742,588,394,1332,832
 UN-led Sudan Health Cluster. Disease	14959
 US Center for Disease Control	16971
-US Centers for Disease Control and Prevention	1824,14598
+US Centers for Disease Control and Prevention	1824,14598,3316
 US Centres for Disease Control and Prevention	4426
 United Kingdom Centers for Disease Control and Prevention	16860
 United States Centers for Disease Control and Prevention	10641,2284

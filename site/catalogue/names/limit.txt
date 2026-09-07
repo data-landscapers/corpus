@@ -706,8 +706,11 @@ Airtel Networks Kenya Limited	6946
 Airtel Networks Kenya Limited and Safaricom PLC	6946
 Airtel Networks Kenya Limited and Telkom Kenya	6946
 Airtel Networks Limited	6671
+Airtel Uganda Limited	19728
+Airtel Uganda Limited For Airtel Uganda	19728
 Akums Drugs and Pharmaceuticals Limited	13561
 Al-HAMEED MEDICAL CENTER LIMITED Data Controller	7167
+Alipata Limited	19660
 Aliska Business Advisory and Research Limited	6335
 Almasi Financial Services Limited Data Controller	7167
 Alstar Limited Data Processor INST-945839536CE NAIROBI	7167
@@ -1140,6 +1143,7 @@ BRRNG DIGITAL LIMITED Data Processor INST-825517818A4	7167
 BRUMEC INTERNATIONAL SECURITY COMPANY LIMITED Data	7167
 BRYCOM SOLUTIONS LIMITED Data Processor INST-928295DB739	7167
 BSE Limited Phiroze Jeejeebhoy Towers	12576
+BSMART Technology Limited	19660
 BTG OUTSOURCE GLOBAL LIMITED Data Processor	7167
 BUCLOW NURSING HOME LIMITED Data Processor	7167
 BUENOTECH LIMITED Data Controller INST-302447C5D6F NAIROBI	7167
@@ -1239,10 +1243,12 @@ Bollorei Limited Data Processor INST-625126F45A2 LAIKIPIA	7167
 Boost ISP Limited	5212
 Borasoft Limited Data Processor INST-45373398BCB NAIROBI	7167
 Bosita Romer Services Limited	8764
+Botswana Postal Services Limited	19651
 Botswana Stock Exchange Limited	6938
 Botswana Stock Exchange. Tlou Energy Limited	3649
-Botswana Telecommunications Corporation Limited	3174,9427
+Botswana Telecommunications Corporation Limited	3174,9427,7050
 Botswana Telecommunications Corporations Limited	2576
+Botswana Telecommunications Limited	19691
 Bottles Company Limited	19565
 Branding and Agrotourism Opportunities Limited	14818
 Bravocrest Hospital Limited Data Controller INST-5334668891B	7167
@@ -1254,6 +1260,7 @@ Brisk Marketing Limited Data Controller INST-835787853A9	7167
 Brisk Marketing Limited Data Processor INST-835787853A9	7167
 Broadband Limited	3862
 Brooks of Cherith Hospitals Limited Data Controller	7167
+Bujagali Energy Limited	19646
 Byes and Ways Limited	16596
 C.K PATEL LIMITED	7167
 C03 Limited	9237
@@ -2225,6 +2232,7 @@ Dekhat Trading Limited Data Processor INST-5406012D675	7167
 Delamere Estates Limited Data Controller INST-71171008F24	7167
 Delta Mining Limited	13362
 Delta Mining Limited and Mopani Copper Mines	13387
+Deron Limited	19660
 Description Nigeria Communication Satellite Limited	1546,921,2103
 Desi Individual Consult Limited	17180
 Deux Argyle Realtors Limited Data Controller	7167
@@ -2631,6 +2639,7 @@ KPTC and Telkom Kenya Limited	6946
 KS Eco Solutions Holdings Limited Chief	13647
 KTDA Power Company Limited	12256
 Kadick Integrated Limited	3862
+Kalangala Infrastructure Services Limited	19646
 Ken-Ren Chemicals and Fertilizers Limited	14546
 Kenya Airways Limited	14546
 Kenya Commercial Bank Burundi Limited	13390
@@ -2647,6 +2656,7 @@ Kenya Pipeline Company Limited	3583
 Kenya Poultry Limited	14546
 Kenya Power Lighting Company Limited	12256
 Keystone Bank Limited	4771
+Kilembe Investments Limited	19646
 Kilimanjaro Airports Development Company Limited	19584
 Kiswahili and English. Limitation	19527
 Klass Security Consult Limited	3862
@@ -2812,14 +2822,14 @@ Limitada	9399,9364,18
 Limitadas	16859
 Limitado	2816,15947
 Limitam-se	9176
-Limitation	27,1204,1246,1237,5039,2083,130,213,1031,338,81,263,3,4,29,2,141,114,115,32,1387,148,235,482,1031,217,118,823,466,211,106,695,274,2
+Limitation	27,1204,1246,1237,5039,2083,130,213,1031,338,81,263,3,4,29,2,141,114,115,32,1387,148,235,482,1031,217,118,823,466,211,106,695,274,2,133
 Limitation of Company Powers and Objectives	3714
 Limitation of Company Powers and Objectives PART	3714
 Limitation of Control and Equity Ownership	11235
 Limitation of Liability	13185
 Limitation of Liability and Warranty The Authority	15198
 Limitation of Rights JUDGMENT TWALA	2307
-Limitations	27,209,530,5,128,344,581,1890,31,687,2400,319,300,339,511,1458,13,197,219,576,1,10,9,135,262,14,16,51,643,55,30,4,12,19,126,59,47,71,61,17,53,198,234,53,18,16,312,697,948,167,21,41,309,20,49,1290,52,159,97,17,55,73,1271,681,217,76
+Limitations	27,209,530,5,128,344,581,1890,31,687,2400,319,300,339,511,1458,13,197,219,576,1,10,9,135,262,14,16,51,643,55,30,4,12,19,126,59,47,71,61,17,53,198,234,53,18,16,312,697,948,167,21,41,309,20,49,1290,52,159,97,17,55,73,1271,681,217,76,109,21
 Limitations Data	12508,917
 Limitations Even	3791,6923
 Limitations Key Evidence AI-Skills Gap Kenya	12210
@@ -2839,7 +2849,7 @@ Limite	9480,2040,3191,681,853,2553,55
 Limite Région Cental Grand Nord Diana	14622
 Limite de Capacidade Instalada	18896
 Limite de Crédito	11386
-Limited	60,64,104,1,32,45,89,310,78,116,29,12,18,3,8,44,141,7,58,45,20,270,260,455,208,853,56,328,126,22,264,175,59,488,48,66,10,275,30,225,31,85,182,255,159,194,24,161,239,104,2,8,90,78,37,5,42,87,44,115,104,242,345,39,127,136,501,190,488,339,94,33,106,32,205,293,1,60,14,26,10,5,130,16,142,9,2,1,6,28,25,55,4,33,116,68,55,1,27,222,81,2,48,2,9,11,27,11,21,4,4,6,6,45,15,26,97,21,2,2,19,8,5,9,1,79,7,25,9,3,20,4,10,31,13,2,24,17,8,115,46,5,87,82,121,14,8,19,12,63,15,68,65,13,54,16,3,6,11,1,17,9,60,229,7,24,7,48,205,13,9,31,29,78,8,31,537,54,2,88,17,8,36,12,4,2,26,12,62,37,22,82,26,80,98,53,52,24,2,7,12,26,35,48,3,156,85,367,29,478,67,72,18,8,1,38,4,15,1,8,17,2,1,7,4,61,56,28,12,18,23,56,21,107,106,83,409,9,227,95,77,74,27,16,25,11,6,2,25,1,21,1,105,1,15,151,69,11,2,46,12,246,8,39,235,2,13,21,16,13,1
+Limited	60,64,104,1,32,45,89,310,78,116,29,12,18,3,8,44,141,7,58,45,20,270,260,455,208,853,56,328,126,22,264,175,59,488,48,66,10,275,30,225,31,85,182,255,159,194,24,161,239,104,2,8,90,78,37,5,42,87,44,115,104,242,345,39,127,136,501,190,488,339,94,33,106,32,205,293,1,60,14,26,10,5,130,16,142,9,2,1,6,28,25,55,4,33,116,68,55,1,27,222,81,2,48,2,9,11,27,11,21,4,4,6,6,45,15,26,97,21,2,2,19,8,5,9,1,79,7,25,9,3,20,4,10,31,13,2,24,17,8,115,46,5,87,82,121,14,8,19,12,63,15,68,65,13,54,16,3,6,11,1,17,9,60,229,7,24,7,48,205,13,9,31,29,78,8,31,537,54,2,88,17,8,36,12,4,2,26,12,62,37,22,82,26,80,98,53,52,24,2,7,12,26,35,48,3,156,85,367,29,478,67,72,18,8,1,38,4,15,1,8,17,2,1,7,4,61,56,28,12,18,23,56,21,107,106,83,409,9,227,95,77,74,27,16,25,11,6,2,25,1,21,1,105,1,15,151,69,11,2,46,12,246,8,39,235,2,13,21,16,13,1,56,1,4,4,27,35,3,18,12,2,10,13
 Limited AI	17330
 Limited Access	1988,14888,47
 Limited Accessible	12214
@@ -2875,6 +2885,7 @@ Limited Digital Skills Training	16876
 Limited E-Mali	12390
 Limited EWATSAN Energy	718
 Limited Effectiveness	19585
+Limited Energy Access Limited	19728
 Limited Execution Capacity	17139
 Limited Fails	11252
 Limited Financial	16951
@@ -2917,9 +2928,12 @@ Limited Participation	16876
 Limited Partner	8612
 Limited Partnerships Act	7845,6872
 Limited Performance Monitoring	17139
+Limited Policy and Institutional Support	19677
 Limited Political Prioritization and Coordination	12384
 Limited Price Functional	12214
 Limited Private Investment	12399
+Limited Private Sector Engagement	19677
+Limited Probably	19728
 Limited Progress	8943
 Limited Public Awareness	11400
 Limited R&D	14818
@@ -2934,6 +2948,7 @@ Limited Selection	11855
 Limited Septembe Accra-North P.O. Box	3386
 Limited Skills	13037
 Limited Statement	4896
+Limited Support	19712
 Limited TVET Technical and Vocational Education and Training	13312,2
 Limited Tel	4896
 Limited Thank	9779
@@ -3265,7 +3280,7 @@ Removal of Transaction Limits	14453
 Renewvia Energy Kenya Limited Distribution and Supply	12256
 Renewvia Energy Kenya Limited Generation	12256
 Resource Limitations	12356
-Responsabilité Limitée	17531
+Responsabilité Limitée	17531,2320
 Responsabilité Limitée Pluripersonnelles	11522
 Responsabilité Limitée Unipersonnelle	15786
 Retail Limits Calculator Check	12882
@@ -3284,6 +3299,7 @@ S67 Limitation	12930
 SERVICES LIMITED Data Controller INST-8939761871F NAIROBI	7167
 SHIMA Guard Company Limited	19590
 SHORTHORN PRINTERS LIMITED	12453,892
+SIGNET Signal Network Limited SLA Service	19660
 SIM I.T Limited	3386
 SKLD Integrated Services Limited	7444
 SMILE DENTAL CLINIC LIMITED Data	7167
@@ -3321,6 +3337,9 @@ Secretariat and Quest Ghana Limited	7039,7271
 Seed Quality Assurance and Regulation Limited	14818
 Select Limited	12977
 Selected Public Service Post Limited	17180
+Serianu Limited	19801
+Serianu Limited Africa Cyber Immersion Centre	19801
+Serianu Limited Kenya Office	19801
 Services Limited	3862,3076
 Services Operating Limits Maximum Single Transaction	5687
 Seven Not Limited Operational Septembe Great	3386
@@ -3379,6 +3398,8 @@ Substantial. Limited	1284
 Sudatel Telecom Group Limited	15169
 Sudatel Telecom Group Limited Report	15169
 Sumac Microfinance Bank Limited	5690
+Summary of Key Performance Challenges and Limitations	19712
+Summary of Key Performance Challenges and Limitations Key	19712
 Sun King Financing Limited	1137
 Sun King Financing Limited Kenya	1137
 Supervisory Capability Limitations	4848
@@ -3405,6 +3426,7 @@ TRAVEL LIMITED Data Processor INST-447779F24C9 MOMBASA	7167
 TRAVEL LIMITED Data Processor INST-483204DA988 NAIROBI	7167
 Tamela Holdings Proprietary Limited First Floor	10793
 Tamela Holdings Proprietary Limited Joint	10793
+Tangerine Limited	19698
 Tanzania Agricultural Development Bank Limited JEEVA	19584
 Tanzania Biotech Product Limited ERMS	19584
 Tanzania Electric Supply Company Limited	12256
@@ -3474,8 +3496,14 @@ USE LIMITATION AND PURPOSE COMPATIBILITY Data	1243
 USPF Limited	11857
 Ubombo Sugar Limited	12977,146
 Ubuntu Universe Limited	8209
-Uganda Electricity Transmission Company Limited	12256
+Uganda Electricity Distribution Company Limited	19705,58
+Uganda Electricity Transmission Company Limited	12256,7377
 Uganda Limited	3307
+Uganda Post Limited	19689
+Uganda Posts Limited	19689
+Uganda Posts Limited US	19660
+Uganda Telecommunications Corporation Limited	19728
+Umeme Limited	19646
 Un Risque Central Limiter	11034
 United Nations and Mobile Telecommunications Limited	12986
 Unlimited Aggregated Limit Account Balance	5687

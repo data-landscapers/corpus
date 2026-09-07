@@ -32,7 +32,7 @@ Full IHS Takeover	9117
 GLO MTN EMTS AIRTEL SMILE IHS	3862
 Health Interventions IHR International Health Regulations	15725
 Human Resources IHR	10776
-IFAD International Fund for Agricultural Development IHME	10835,3,130,902,16,466,1,135
+IFAD International Fund for Agricultural Development IHME	10835,3,130,902,16,466,1,135,7334
 IGAE International Health Regulations IHR Multiple	11417
 IHCVAF Inquérito Harmonizado	11547
 IHCVF	11526
@@ -65,6 +65,7 @@ IHGF Delhi Trade Fair	16331
 IHH Indice de Herfindahl Hirschmann OTT Over-The-Top	16327
 IHM Southern Africa	4624,2759,1,5638
 IHME Institute for Health Metrics and Evaluation	11887,266,1,9,178
+IHMIS	19689
 IHMT Instituto	18783
 IHO Yearbook	14440
 IHPAU	18532

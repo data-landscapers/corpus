@@ -113,7 +113,7 @@ DU PRESIDENT ET DES VICE-PRESIDENTS	18096
 DU VICE-PRESIDENT DU GOUVERNEMENT	16099
 Data Management Roles. When Victoria Kankhokwe	13080
 Decade EGMRG Victoria Falls	13220,458,977
-Decade. EGMRG Victoria Falls	12761
+Decade. EGMRG Victoria Falls	12761,7043
 Delegacia de Saúde de São Vicente	15404
 Deputy Governor and Vice Chairperson	15023
 Deputy Vice Chairperson Benny Namugwanya Bugembe	9386
@@ -237,6 +237,7 @@ Huawei Technologies Southern Region Vice President	12474
 Huawei Vice President Mr. Zhang	16739
 Huawei's Vice President for North Africa. Talks	4381
 Huawei’s Southern Region Vice President for Operations	6541
+HydroSOS Lake Victoria Basin	19662
 IAFS-III. Vice President Gen	13562
 IATA’s Regional Vice President	10723
 ICR DOCUMENT Regional Vice President	16436
@@ -271,7 +272,7 @@ Kyambogo Vice Chancellor Warns UPDF Urges	6077
 LE DEUXIEME VICE-PRESIDENT	13303
 La Victoire	15524
 Lagos’s Victoria Island	6791
-Lake Victoria	3583,8572,2254,5111
+Lake Victoria	3583,8572,2254,5111,288
 Lake Victoria Fisheries Organisation	14409
 Lake Victoria North	12151
 Lake Victoria North Water Service Board	14546
@@ -326,6 +327,7 @@ Mali EGMRG Victoria Falls	18076
 Margarida Vicente Peleve Chilaúle	14342
 Mariama Cire Sylla and Visa's Vice-President for West	5787
 Masvingo Chinhoyi Victoria Falls Marondera Rusape	9429
+Matters Across the Lake Victoria	19808
 Mehnaz Safavian Anne-Elisabeth Sarah Victoire Emmanuel	4653
 Mental Health Care Agency. Vice President	19016
 Merveille Victoire	16177
@@ -405,6 +407,7 @@ Path Toward Inclusive Growth IFDC Vice	18700
 Pierre PASSI Vice-président Marc MASSAMBA NDILOU	15420
 Pleno Senador Ministerio Delegado Diputado Vice-Ministro	4209
 Pleno Senador Ministro Delegado Diputado Vice-Ministro	4209
+Police Brig. Gen. Victor Segasago	19700
 Por Vicente Nkulu Nkulu Angue	8048,105,1,9266
 Praia and Sao Vicente20	11863
 Premier Vice-Président du Sénat	15727
@@ -414,7 +417,7 @@ Premier Vice-président Kanidoua NABOHO Le Secrétaire	15365
 Première Vice Présidente	14537
 Première Vice Présidente LAOU-PO Wing Wilfrid	14537
 President Samia and Vice President Harris	19529
-President and Vice President	12977,2050,487,4,2932
+President and Vice President	12977,2050,487,4,2932,1192
 President and Vice-President	11956,1545,158,289,461,311
 President and Vice-Presidents	13501,158
 President's Special Advisor and Senior Vice President	13666
@@ -437,7 +440,7 @@ R.T. Masekes Vice ChairpPerrsoofn. I. D.T	1154
 RENVOI DES VICTIMES VERS LES SERVICES	16085
 RPE Victims and Groups of Victims	17870
 Refugees and Disaster Victims	13938
-Regional Vice President	969,295,20,583,1022,673,42,2935,126,4103,196,416,37,132,11,279,16,50,19,41,211,605,550,1,127,275,8,1,93,20,5,595,481,39,88,74,52,234,67,20,4,3,35,68,37,1,2,2,39,29,12,39,187,14,49,112,240,14,524,27,3,489,17,391,13,100,236,95,8,324,140,12,32,16,414,6,39,171
+Regional Vice President	969,295,20,583,1022,673,42,2935,126,4103,196,416,37,132,11,279,16,50,19,41,211,605,550,1,127,275,8,1,93,20,5,595,481,39,88,74,52,234,67,20,4,3,35,68,37,1,2,2,39,29,12,39,187,14,49,112,240,14,524,27,3,489,17,391,13,100,236,95,8,324,140,12,32,16,414,6,39,171,188,192,12
 Regional Vice President Iffath Anwar Sharif	11924
 Regional Vice President for Eastern and Southern Africa	6539
 Regional Vice President of Sales	5528
@@ -570,7 +573,7 @@ Vice Chairman for Culture and Traditional Affairs	16970
 Vice Chairman for Peace	16970
 Vice Chairman for Peace and Reconciliation. The United	16970
 Vice Chairman of Rashmi Metaliks Group	18221
-Vice Chairperson	972,7894,918,2762,99,673,53,69,30,1392,410,1558,2177,166,429
+Vice Chairperson	972,7894,918,2762,99,673,53,69,30,1392,410,1558,2177,166,429,203
 Vice Chairperson and Deputy Governor	15023
 Vice Chairperson of RCZ	1554
 Vice Chancellor	13688,1080,3447,220,211
@@ -603,7 +606,7 @@ Vice Premier	15272
 Vice Premier He Lifeng	17802
 Vice Presidency	13477,256,3134
 Vice Presidency Complex for Private Sector	10718
-Vice President	972,582,224,89,121,331,128,26,153,834,123,71,75,31,169,777,7,343,382,11,335,18,496,638,129,45,219,123,132,67,43,1373,88,245,179,79,1394,77,181,158,323,66,6,552,131,3,35,23,10,17,284,50,15,50,62,345,3,27,31,77,13,20,20,28,14,19,717,438,78,102,37,254,112,81,42,34,60,540,56,553,62,9,5,79,1,20,3,164,89,49,659,333,80,108,2,4,25,36,5,12,5,2,15,13,45,3,13,250,11,210,106,315,73,19
+Vice President	972,582,224,89,121,331,128,26,153,834,123,71,75,31,169,777,7,343,382,11,335,18,496,638,129,45,219,123,132,67,43,1373,88,245,179,79,1394,77,181,158,323,66,6,552,131,3,35,23,10,17,284,50,15,50,62,345,3,27,31,77,13,20,20,28,14,19,717,438,78,102,37,254,112,81,42,34,60,540,56,553,62,9,5,79,1,20,3,164,89,49,659,333,80,108,2,4,25,36,5,12,5,2,15,13,45,3,13,250,11,210,106,315,73,19,73
 Vice President ADM Responsible Team Leader	16436
 Vice President Ahmed Afif	18950
 Vice President Article	15027
@@ -687,6 +690,7 @@ Vice President for International and Wholesale	15610
 Vice President for Secure Power	5800
 Vice President for Services Cluster the University of Juba	18621
 Vice President for UK	6930
+Vice President of Africa Markets	19694
 Vice President of Ambo University	14140
 Vice President of Côte	9275
 Vice President of Ensoft	3733
@@ -924,6 +928,7 @@ Vicky	18063
 Vicky Armel	15744
 Vicky Mrosso	19595
 Vicky Stark Five	14177
+Vicky Tina Laker	19814
 Viclaire	15744
 Victim	9616,1572,4413
 Victim Assistance	18611
@@ -946,7 +951,7 @@ Victoire S. TOMEGAH-DOGBE	19218,1,16,6
 Victoire S. Tomegah-Dogbe	1205
 Victoire Sidémého TOMEGAH-DOGBE	19230,11,10
 Victoire Sidémého TOMEGAH-DOGBE Vu	19219
-Victor	10,6938,888,3170,1221,3388,129,36,1235
+Victor	10,6938,888,3170,1221,3388,129,36,1235,2788
 Victor A Adewopo	9616
 Victor Agandi	17730
 Victor Anthony	5267
@@ -999,7 +1004,7 @@ Victoria Esquivel-Korsiak and Luda Bujoreanu	12328
 Victoria Fabumi	10680,624
 Victoria Fabunmi	6058,5693
 Victoria Fakiya	4554
-Victoria Falls	998,556,150,3192,1746,394,745,99,1272,930,1982,697,459,342,29,10,64,2,6,5,21,1127,1656,38,9,866,727,1226,267
+Victoria Falls	998,556,150,3192,1746,394,745,99,1272,930,1982,697,459,342,29,10,64,2,6,5,21,1127,1656,38,9,866,727,1226,267,62,127
 Victoria Falls CBZ Bank Crowned Zimbabwe	6909
 Victoria Falls International Airport	1713
 Victoria Falls International Financial Centre	13559
@@ -1028,17 +1033,19 @@ Victoria Island	3414,166,843,178,611,662,1305,77,188,3685,852,5775,374
 Victoria Island. Managing	3477
 Victoria J. Perry	14932
 Victoria Kwakwa	12968,5657
-Victoria Kwakwa Country Director	1284,13664
+Victoria Kwakwa Country Director	1284,13664,4695
 Victoria Kwakwa Regional Director	1867,606,8295,1408,2280,481
 Victoria Kwakwa Zviripayi Idah Pswarayi Riddihough	1228
 Victoria Kwakwa. Country Director	14910
 Victoria Kwakwa. Regional Director	12388
 Victoria Monchuk	12541,122,2396
+Victoria Nile	19646
 Victoria Sekandi	9781
 Victoria Street London	7198
 Victoria Street London SW1E	7198,1741
 Victoria Summers	16949
 Victoria Take	18881
+Victoria University	19641
 Victoria University of Wellington	7278
 Victoria.Munenge	12927
 Victorian Information Commissioner	8022

@@ -23,6 +23,7 @@ Act and Schedule	3714
 Act's Schedule	3360
 Act. FIRST SCHEDULE	2709
 Act. FIRST SCHEDULE Sec	18435
+Act. First Schedule	19626
 Act. SCHEDULE	3714,8143,1613,5455
 Act. SECOND SCHEDULE	13416
 Act. Schedule	18598,285
@@ -51,7 +52,9 @@ Amendment of Fifth Schedule	13351
 Amendment of First Schedule	18450,91
 Amendment of Ninth Schedule	18541
 Amendment of Schedule	5687,8580,4183
-Amendment of Schedules	12630
+Amendment of Schedules	12630,6996,4
+Amendment of Schedules SCHEDULES Schedule	19629
+Amendment of Schedules The Minister	19626
 Amendment of Second Schedule	18541,987
 Amendment of Third Schedule	13252,5289,977
 Annual Report Guide for Schedule	11250
@@ -74,7 +77,7 @@ Association the Benin Project Implementation SCHEDULE	16144
 Association. FA Schedule	19284
 Association. For Official Use Only Schedule	19284
 Association. Proposed Schedule	1284
-Association. Schedule	3604,10391,1663,3,3578,45
+Association. Schedule	3604,10391,1663,3,3578,45,551
 Association. Sections and Description Schedule	10829,2502
 Automatic Input Tax Schedule for Fiscal Tax	12509
 Awareness Social Investment Schemes Subsidy	11857
@@ -182,6 +185,7 @@ Cross-border Data Transfer Schedule	11956
 Cross-border Payments Scheme	5263
 Crossref Google Scholar Schellewald	8460
 Crèche Scheme	14742
+Currency Point Schedule	19629
 D-2 Expand Womens’ Social Investment Scheme	11857
 D-3 Implement Student Device Affordability Schemes	11857
 D906-MZ Revised Withdrawal Schedule	2474
@@ -292,7 +296,7 @@ Fifth Schedule	585,151,1252,542,5077,238,745,276,3110,1335,40,1362,27,2,67,5,29,
 Fifth Schedule Section	11976
 Fifth Schedule-	14880
 Film Industry Production Scheme	11236
-First Schedule	587,149,487,654,111,721,66,138,3496,531,667,238,3418,713,434,233,662,2,10,81,5,13,54,14,122,804,5,7,5,8,159,123,2,1,2,6,7,5,3,63,3,5,20,9,37,720,1001,2,505,1327,15,2,7,8,74,340,644,2,1,12,45
+First Schedule	587,149,487,654,111,721,66,138,3496,531,667,238,3418,713,434,233,662,2,10,81,5,13,54,14,122,804,5,7,5,8,159,123,2,1,2,6,7,5,3,63,3,5,20,9,37,720,1001,2,505,1327,15,2,7,8,74,340,644,2,1,12,45,41,89
 First Schedule Article	15014
 First Schedule Second Schedule Third Schedule	13305,1414
 First Schedule of First	6921
@@ -313,7 +317,7 @@ Forms. Second Schedule	13398
 Forward Schedule	12359
 Foundation's Bright Scholarship Scheme	10142
 Fourteenth Schedule	7845,5277,1721
-Fourth Schedule	736,1141,331,2272,2,1,1,5,3356,4131,1427,1007,184,119,27,74,29,37,2228,1351,1126
+Fourth Schedule	736,1141,331,2272,2,1,1,5,3356,4131,1427,1007,184,119,27,74,29,37,2228,1351,1126,41
 Fourth Schedule Section	11976
 Fourth Schedule and Fifth Schedule	1223
 Fourth Schedule. Conditions for Private Radio Transceiver	736
@@ -370,6 +374,7 @@ Identification Scheme	10819
 Identification Schemes	15415
 Implement the Trusted Tour Operator Scheme	11986
 Implementation Schedule	1228,10737,2801,314,521,1295,966,100
+Implementation Schedule Month Key Activities Deliverable	19807
 Implementation Schedule No MFD	18359
 Implementation Schedule Other Change	15601,2261
 Implementation Schedule Yes Disbursements Arrangements	19284
@@ -388,6 +393,7 @@ Ingelo Certification Scheme Cottage Factories	13072
 Initial Form TECH-8 Work Schedule N	13037
 Innovation Award Scheme	19119
 Innovation and Commercialization Scheme	14749
+Innovator Coaching Scheme	19660
 Input Tax Claim Schedules for VAT Returns	12509
 Institution Name Institution Identifier C319 SCHEDULE	5687
 Institutional Arrangement Implementation Schedule KEY DATES	15731
@@ -422,6 +428,7 @@ LE SCHEMA DIRECTEUR DU NUMERIQUE	15568
 LEGAL Legal Covenants Sections and Description Schedule	3604,7164,792,4098,3,3584
 LTSS Long-Term Savings Scheme M&E Monitoring	15138
 Labelling Scheme	6936
+Laboratory Recognition Scheme	19712
 Lagos State Health Insurance Scheme	11968
 Launching the Agent Loyalty Scheme	10249
 Law. PART XIV. SCHEDULE OF FEES	16832
@@ -462,6 +469,7 @@ Mauritius National Identity Scheme	14741
 Medical Aid Scheme SACU Southern African	12923
 Medical Aid Scheme for Members	13096
 Medical Aid Schemes Bill	13060
+Medical Insurance Scheme	19712
 Medical Scheme	14736
 Medical Scheme Administrators	11255
 Medical Schemes	11255
@@ -599,7 +607,7 @@ Project Expenditure Schedule Components PY1 PY2	11863
 Project Implementation Manual. Schedule	10768
 Project Processing Schedule	15011
 Project. ECOWAS. Section I.A.1 of Schedule	1264
-Project. Schedule	15661,3584
+Project. Schedule	15661,3584,590
 Project. The Gambia. Section I.B.1 of Schedule	1264
 Project. of Schedule	18887
 Proposed Schedule of Disbursements	17209,48,69
@@ -660,7 +668,7 @@ Rundu Zoning Scheme	13189
 S. Haque Scherezad Joya Monami Latif	16436
 SAA. Section I.B.1 of Schedule	1264
 SANVN Viwanda Scheme	7763
-SCHEDULE	22,950,2742,1018,955,1220,15,276,3981,1,2,87,687,570,373,136,11,143,109,54,144,260,651,23,19,44,35,187,3,10,2,10,28,10,113,21,75,710,447,691,101,313,1,1216,459,124
+SCHEDULE	22,950,2742,1018,955,1220,15,276,3981,1,2,87,687,570,373,136,11,143,109,54,144,260,651,23,19,44,35,187,3,10,2,10,28,10,113,21,75,710,447,691,101,313,1,1216,459,124,515
 SCHEDULE A.1	11269
 SCHEDULE A.2	11269
 SCHEDULE AGENCY TAXES	12629
@@ -736,11 +744,12 @@ STANDARDS SCHEDULE B.1	11269
 SUPPLEMENTARY FEES SCHEDULE DETAILS UNITS	18450
 Salary Advance Scheme	16985
 Samia Housing Scheme	19592
+Sample Training Schedule	19667
 Savings SCHEDULE	12530
 Savings SCHEDULES An Act	12531
 Scale Enterprise Loan Guarantee Scheme Strategic	11134
 Scale the National Agriculture Insurance Scheme	14997
-Schedule	3,19,4,387,323,236,237,14,41,486,97,67,74,11,627,83,18,987,675,1,1,1,340,801,154,185,560,475,14,1,276,350,297,745,13,237,597,1331,61,27,100,8,43,10,160,1,1,3,16,3,8,4,5,12,3,2,14,14,2,14,1,137,134,9,297,11,9,79,9,11,10,7,2,52,7,91,75,33,49,31,23,9,119,41,1,16,6,32,17,5,4,23,14,1,6,43,45,144,5,7,3,8,4,1,123,2,11,25,2,12,37,67,17,92,13,28,13,51,67,14,12,2,61,47,150,239,362,50,3,20,19,12,32,35,18,48,5,115,1,3,9,15,26,10,31,5,10,19,45,24,64,11,93,58,373,42,68,37,1,38,17,29,158,4,127,112,75,165,446,5,7,1,93,24,3,12,130,3,141,1,208,646,333,13,2,14,34,41,15,39,5,2,2,1,3,53,14,27,181,4,31,7,18,153,143,6,39,242,4,10,24,11,10,17
+Schedule	3,19,4,387,323,236,237,14,41,486,97,67,74,11,627,83,18,987,675,1,1,1,340,801,154,185,560,475,14,1,276,350,297,745,13,237,597,1331,61,27,100,8,43,10,160,1,1,3,16,3,8,4,5,12,3,2,14,14,2,14,1,137,134,9,297,11,9,79,9,11,10,7,2,52,7,91,75,33,49,31,23,9,119,41,1,16,6,32,17,5,4,23,14,1,6,43,45,144,5,7,3,8,4,1,123,2,11,25,2,12,37,67,17,92,13,28,13,51,67,14,12,2,61,47,150,239,362,50,3,20,19,12,32,35,18,48,5,115,1,3,9,15,26,10,31,5,10,19,45,24,64,11,93,58,373,42,68,37,1,38,17,29,158,4,127,112,75,165,446,5,7,1,93,24,3,12,130,3,141,1,208,646,333,13,2,14,34,41,15,39,5,2,2,1,3,53,14,27,181,4,31,7,18,153,143,6,39,242,4,10,35,10,17,24,2,1,1,1,3,9,91,63,38,12
 Schedule A. CSP	11995
 Schedule A. Temporary	11995
 Schedule AGREEMENT BETWEEN THE GOVERNMENT	13326
@@ -765,6 +774,7 @@ Schedule No Legal Covenants No Conditions	2473
 Schedule Nos	15080
 Schedule Risk	12448
 Schedule System	7988
+Schedule The Minister	19634
 Schedule V	16219,2812
 Schedule VI	16219
 Schedule Video Conference	11877
@@ -794,6 +804,7 @@ Schedule the Board	19526
 Schedule the Registrar	3714
 Schedule- of Schedule	6921
 Schedule. Application	3714
+Schedule. By Laws.Africa	19630
 Schedule. Category Application Licence Annual Regulatory	17250
 Schedule. Committees	12894
 Schedule. DISTRIBUTED BY VERITAS	413,12913
@@ -812,10 +823,12 @@ Schedule. PART IV	14743
 Schedule. Reg	14599
 Schedule. Repeal	12047
 Schedule. SANKWASA J. SANKWASA MINISTER	13189
+Schedule. SCHEDULE CURRENCY POINT. THE ACCESS	19628
+Schedule. Schedule Currency	19634
 Schedule. Short	11551
-Scheduled	3554,50,257,581,5944,866,34,1530,264,1320,1313,2249
+Scheduled	3554,50,257,581,5944,866,34,1530,264,1320,1313,2249,1679,36
 Scheduled Regular Maintenance	16963
-Schedules	1209,2374,131,32,1941,1920,238,3334,5,25,60,687,39,535,1,99,13,257,285,114,12,60,1342,6,1,8,2114,54,115,239,1200
+Schedules	1209,2374,131,32,1941,1920,238,3334,5,25,60,687,39,535,1,99,13,257,285,114,12,60,1342,6,1,8,2114,54,115,239,1200,1176
 Schedules A-E	18597
 Schedules PART	3714
 Schedules PART III	17250
@@ -824,6 +837,7 @@ Schedules. Made	1877
 Schedules. The Schedules	16219
 Scheduling	8018
 Scheduling Schedule	1009
+Schee	19662
 Scheffel	8602
 Scheihing	8602
 Schellenberg JA	771
@@ -880,6 +894,7 @@ Schemes POS Point of Sale PPP Private	14997
 Schemes and Programs	11857
 Schemes of Service	7659
 Schemes of Service and Conditions of Service	7659
+Schemes of Service and Norms	19641
 Schendel	7966
 Schengen	9895,8902,599
 Schenker	1243,9890
@@ -892,7 +907,7 @@ School Premium Scheme	14742
 School Star Award Scheme	16852
 Screen Talent and Global Entertainment Scheme	5533,3717,1986
 Secod Schedule	736
-Second Schedule	587,149,487,649,5,111,721,1037,4099,3944,62,125,434,233,664,4,6,86,13,68,14,108,804,12,5,8,159,123,2,1,8,2,2,3,5,3,63,3,5,29,37,720,1508,1327,15,9,8,74,340,637,7,1,1,1,12
+Second Schedule	587,149,487,649,5,111,721,1037,4099,3944,62,125,434,233,664,4,6,86,13,68,14,108,804,12,5,8,159,123,2,1,8,2,2,3,5,3,63,3,5,29,37,720,1508,1327,15,9,8,74,340,637,7,1,1,1,12,86
 Second Schedule Section	11976
 Second Schedule and Third Schedule	1223
 Second Schedule of Deeds Regulations	13251
@@ -919,7 +934,7 @@ Section I.A.2 of Schedule	16936
 Section I.A.3 of Schedule	15621
 Section I.A.4 of Schedule	15659
 Section I.A.5 of Schedule	10829
-Section I.B of Schedule	1867,13754,38
+Section I.B of Schedule	1867,13754,38,4176
 Section I.B.1 of Schedule	13995
 Section I.C Schedule	6539
 Section I.C of Schedule	15658
@@ -1007,7 +1022,7 @@ Technical Migration Schedule All	3861
 Telecel Agent Loyalty Scheme	10249
 Tenth Schedule	7845,6939,59
 Test Schedule of Power Limits	736
-Third Schedule	587,149,487,654,832,5136,1089,3042,434,895,98,203,804,17,8,278,4,2,1,8,2,2,8,66,8,29,37,2228,1328,23,8,74,975,2,8,1,13
+Third Schedule	587,149,487,654,832,5136,1089,3042,434,895,98,203,804,17,8,278,4,2,1,8,2,2,8,66,8,29,37,2228,1328,23,8,74,975,2,8,1,13,86
 Third Schedule FORM PR2 REGISTRATION	1223
 Third Schedule Section	11976
 Third Schedule. Time and Place of Supply Time	17108
@@ -1044,6 +1059,7 @@ UHC Scheme. Through	10970
 UHI Scheme	19284
 US Department of State's Reciprocity Schedule	11864
 US Reciprocity Schedule	11864
+Uganda Second Schedule	19626
 Under ICCR-Africa Scholarship Scheme	18016
 Under the Fifth Schedule	14742
 Under the First Schedule	10738

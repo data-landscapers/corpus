@@ -14,6 +14,7 @@ Acting Director General of Justice Sector Coordination	15187
 Ad Hoc Justice	16943
 Admin Data for Tax Justice Initiative	10335
 Administración de Justicia	4209
+Administration Of Justice	19712
 Administration of Justice	1667,977,2996,4,6899,348
 Administration of Justice Standing Committee	8948
 Administration of Justice Time Bound Measurable Target	1000
@@ -177,7 +178,7 @@ Corte Suprema de Justicia	4209,12662
 Cour Commune de Justice	15495,2487,124,1103
 Cour de Justice	11944,3538,221,2114
 Court Of Justice Clarifies When Courts	6632
-Court of Justice	1807,4615,659,1355,311,26,3,2325,4800,1879,656,549
+Court of Justice	1807,4615,659,1355,311,26,3,2325,4800,1879,656,549,829
 Crianças O Ministério da Justiça	10750
 Crime Prevention and Criminal Justice	2117
 Crime and Criminal Justice	19517
@@ -336,7 +337,7 @@ Francisco Queiroz Ministério da Justiça	10752
 Fraternité- Justice	232,17623
 Fraternité- Justice DÉCRET N	17898
 Fraternité- Justice Loi	17898
-Freedom House WJP World Justice Project	10835,3,130,902,16,466,1,135
+Freedom House WJP World Justice Project	10835,3,130,902,16,466,1,135,7334
 Freedom and Justice	18446
 Freetown Just Implemented	12948
 Fundo Modernização da Justiça	4415,1,1,1
@@ -389,9 +390,10 @@ Hon. Justice Kudirat Motonmori Olatokunbo Kekere-	8978
 Hon. Justice Kudirat Motonmori Olatokunbo Kekere-Ekun	8978
 Hon. Justice Martha K. Koome	9546
 Hon. Justice Professor Alaba Omolaye-Ajileye	11654
-Hon. Justine Kasule Lumumba	6786,1498
+Hon. Justine Kasule Lumumba	6786,1498,11507,1
 Hon. Lady Justice Martha Koome	6946
 Hon. Minister for Justice and Constitutional Affairs	13126,5
+Hon. Minister of Justice and Constitutional Affairs	19804
 Honneur Fraternité Justice	1702
 Honoré SAYI MINISTERE DE LA JUSTICE	15615
 Honourable Chief Justice of Nigeria	8978
@@ -448,6 +450,7 @@ IMPLEMENTATION DE LA JUSTICE RESTAURATIVE IV.4.1	15848
 INFRASTRUCTURE Just	14723
 INSTITUTE FOR ECONOMIC JUSTICE First Applicant	2307
 IV Justice	18988
+IXP Internet Exchange Point JLOS Justice	19633
 Ic Ministre de Ia Justice	15399
 Implement National Cybercrime Ministry of Justice	1777
 Improve Technical Infrastructure Ministry of Justice	1777
@@ -485,7 +488,7 @@ JUSTE	18319
 JUSTE APRÈS LA FIN DES RÉGLES	13300
 JUSTE AVANT QUE LES RÉGLES	13300
 JUSTE AVANT QUE LES RÉGLES COMMENCENT	13300
-JUSTICE	10759,76,2,1,130,317,585,16,2,1,263,1,10,177,1,11,1,135,932,584,1346,937,94,256
+JUSTICE	10759,76,2,1,130,317,585,16,2,1,263,1,10,177,1,11,1,135,932,584,1346,937,94,256,3015,1,169,14
 JUSTICE ACCOUNTABILITY Rank	10968
 JUSTICE AND LABOUR RELATIONS Request for Proposals	13037
 JUSTICE AND LABOUR RELATIONS Windhoek	13189
@@ -504,13 +507,14 @@ JUSTICE FOR WOMEN IN TANZANIA	11206
 JUSTICE M.A. TEMBO Mlauzi	13040
 JUSTICE MINISTERE DES FINANCES MINISTERE	16171
 JUSTICE PRODUCTEURS OFFICIELS DE PREUVES	3381
-JUSTICE Public Perception of Easiness	10835,3,130,902,16,466,1,135
+JUSTICE PUBLIC ADMINISTRATION Rank	19822
+JUSTICE Public Perception of Easiness	10835,3,130,902,16,466,1,135,7334
 JUSTICE RIGHTS HEALTH Rank	11886
 JUSTICE RIGHTS Rank	12488
 JUSTICE Rank	10759,78,1033,470,12
 JUSTICE SECTOR COORDINATION OFFICE Enhancing Justice	18477
 JUSTICE SECTOR REFORM STRATEGY	18477
-JUSTICE SECURITY	10835,2,131,918,454,12,1,135
+JUSTICE SECURITY	10835,2,131,918,454,12,1,135,7334
 JUSTICE SUSTAINABLE ENVIRONMENT Rank	10838
 JUSTICES	13189
 JUSTICIA	4209,12892
@@ -519,6 +523,7 @@ JUSTIFICACIÓN Y METODOLOGÍA DE ELABORACIÓN	16898
 JUSTIFICATIFS DE PAIEMENT AFFERENTS	15901
 JUSTIFICATION	9399,7247,481
 JUSTIFICATION AND RATIONALE	12240
+JUSTIFICATION FOR BROADBAND POLICY	19633
 JUSTIFICATION Seychelles	18889
 JUSTIFICATIONS ET AMBITIONS	15583
 JUSTIFICATIONS ET AMBITIONS Pour	15583
@@ -545,7 +550,7 @@ Jusqu'en	14539,1608
 Jusqu'ici	2697,4677
 Jusqu'à	3795,4011,1464,4440,674,155,31,65,738,101,86,38,755,274,812,310,509
 Jusque	13290
-Jusque-là	3465
+Jusque-là	3465,16175
 Jusquâ	18391
 Jusqu’alors	16242
 Jusqu’au	11944,4780,715,852
@@ -603,7 +608,7 @@ Justella O. Elle	6877
 Justement	2443,4384,2021,5640,1,1
 Justi	18111
 Justi-	539
-Justice	11,223,353,56,94,24,28,172,39,214,42,61,1,142,145,1,76,95,1,210,53,1,85,205,17,212,65,182,86,1,63,87,7,24,43,233,29,15,161,26,21,83,3,24,147,119,53,92,13,24,19,137,1,784,76,1,100,69,128,1,322,45,11,11,40,88,297,319,252,8,33,55,226,363,122,15,112,181,87,122,49,33,76,57,25,106,84,116,1,1,1,37,113,5,87,89,113,117,40,69,140,4,118,58,68,180,31,248,134,163,209,16,1,37,8,5,9,2,1,30,11,1,18,25,45,11,88,31,443,17,22,6,249,33,2,16,1,1,1,11,40,16,2,85,95,7,7,1,1,9,78,99,1,11,1,3,31,72,29,34,21,379,50,15,27,17,49,17,156,11,26,35,4,12,22,79,28,4,30,28,40,63,37,5,26,55,36,154,83,179,107,94,3,6,5,6,8,11,13,20,66,86,194,32,1,8,23,18,54,137,24,51,54,131,9,19,10,5,10,3,8,5,13,10,7,3,2,2,4,1,6,18,3,2,31,20,7,20,15,2,2,33,38,1,5,22,5,9,5,10,30,26,9,1,55,88,29,34,48,24,46,28,74,26,7,21,14,36,42,5,11,69,29,6,19,2,1,18,4,80,6,1,1,4,2,10,2,1,5,1,8,34,33,116,52,58,8,7,15,45,19,64,4,34,18,53,120,111,7,13,13,5,105,6,193,34,6,6,9,3,2,4,1,11,2,38,2,2,31,8,3,1,3,3,11,15,13,12,29,5,40,1,12,13,3,5,1,4,9,75,1,23,24,17,3,18,1,1,17,1,21,67,33,19,21,10,138,16,83,15,152,24,21,27,19,16,4,19,109,37,36,4,12,9,1,2,20,10,20,79,35,78
+Justice	11,223,353,56,94,24,28,172,39,214,42,61,1,142,145,1,76,95,1,210,53,1,85,205,17,212,65,182,86,1,63,87,7,24,43,233,29,15,161,26,21,83,3,24,147,119,53,92,13,24,19,137,1,784,76,1,100,69,128,1,322,45,11,11,40,88,297,319,252,8,33,55,226,363,122,15,112,181,87,122,49,33,76,57,25,106,84,116,1,1,1,37,113,5,87,89,113,117,40,69,140,4,118,58,68,180,31,248,134,163,209,16,1,37,8,5,9,2,1,30,11,1,18,25,45,11,88,31,443,17,22,6,249,33,2,16,1,1,1,11,40,16,2,85,95,7,7,1,1,9,78,99,1,11,1,3,31,72,29,34,21,379,50,15,27,17,49,17,156,11,26,35,4,12,22,79,28,4,30,28,40,63,37,5,26,55,36,154,83,179,107,94,3,6,5,6,8,11,13,20,66,86,194,32,1,8,23,18,54,137,24,51,54,131,9,19,10,5,10,3,8,5,13,10,7,3,2,2,4,1,6,18,3,2,31,20,7,20,15,2,2,33,38,1,5,22,5,9,5,10,30,26,9,1,55,88,29,34,48,24,46,28,74,26,7,21,14,36,42,5,11,69,29,6,19,2,1,18,4,80,6,1,1,4,2,10,2,1,5,1,8,34,33,116,52,58,8,7,15,45,19,64,4,34,18,53,120,111,7,13,13,5,105,6,193,34,6,6,9,3,2,4,1,11,2,38,2,2,31,8,3,1,3,3,11,15,13,12,29,5,40,1,12,13,3,5,1,4,9,75,1,23,24,17,3,18,1,1,17,1,21,67,33,19,21,10,138,16,83,15,152,24,21,27,19,16,4,19,109,37,36,4,12,9,1,2,20,10,20,79,35,78,177,12,1,106,63,14
 Justice A-Regulatory Sandbox A1-Legal	7548
 Justice A. Alagoa	7600
 Justice AJS	18286
@@ -620,7 +625,9 @@ Justice Bahati Mwamuye	8790,1066
 Justice Barriers	17139
 Justice Benjamin RAKOTOMANDIMBY La Ministre	14463
 Justice Blueprint	9546
+Justice Bonny Isaac Teko	19814
 Justice Built Our Republic	18519
+Justice Byabakama Mugenyi Simon	19805
 Justice CHATUKUTA	13504
 Justice CHINHENGO	13504
 Justice CI	15936
@@ -805,7 +812,7 @@ Justice and Accountability	11889
 Justice and Anti-Corruption. Trend Measure Score	10838
 Justice and Communication	18305
 Justice and Constitutiona	12972
-Justice and Constitutional Affairs	12936,36,121
+Justice and Constitutional Affairs	12936,36,121,6644
 Justice and Constitutional Affairs Minister Norbert Mao	10562
 Justice and Constitutional Development	2626
 Justice and Constitutional Development Minister	7576
@@ -850,7 +857,7 @@ Justice. Art	15461,2866
 Justice. Article	15703
 Justice. Au	18268
 Justice. CHAPITRE IV	15792
-Justice. Ce	8993,8533,580
+Justice. Ce	8993,8533,580,1534
 Justice. Ces	8321
 Justice. Cette	6904
 Justice. Dans	14420,3571
@@ -900,7 +907,7 @@ Justificación Un	1701
 Justificatif	15885,741
 Justificatif du Rachat	17485
 Justificatifs	5753,5123,6609
-Justification	643,146,181,217,801,901,4070,3752,165,32,57,571,674,30,124,51,547,363,50,1226,892,3,4,39,3,131,177,362,424,111,153,15,128,71,26,704,39,2,17,81,303,172,27,46,358,71,25,377
+Justification	643,146,181,217,801,901,4070,3752,165,32,57,571,674,30,124,51,547,363,50,1226,892,3,4,39,3,131,177,362,424,111,153,15,128,71,26,704,39,2,17,81,303,172,27,46,358,71,25,377,279
 Justification Based	18531
 Justification Contexte	3381
 Justification Dans	16674,1309
@@ -1008,6 +1015,7 @@ Justiça. Paralelamente	16487
 Justiﬁcation for Repressive Laws	13313
 Justo	1701
 Justo Ngomo Nnegue	6841
+Justus Otieno Oguna	19647
 Justus Voigt	12478
 JustusVoigt	12478
 KARUGARAMA Tharcisse Minister of Justice	14861
@@ -1180,7 +1188,8 @@ Ministry of Justice On Jan	14009
 Ministry of Justice Private	17011
 Ministry of Justice Proposed Data Protection Agency	1161
 Ministry of Justice URL	14009
-Ministry of Justice and Constitutional Affairs	2757,826,1014,486,24,2340,2739,1,2286,463,3,17,6,10,5,20,96,5522,16,24,44,842
+Ministry of Justice and Constitutional Affairs	2757,826,1014,486,24,2340,2739,1,2286,463,3,17,6,10,5,20,96,5522,16,24,44,842,100,1,5,65
+Ministry of Justice and Constitutional Affairs MoLG Ministry	19642
 Ministry of Justice and Constitutional Affairs. My	12936
 Ministry of Justice and Constitutional Affairs. The Unit	12459
 Ministry of Justice and Constitutional Affairs. Under	9242
@@ -1251,6 +1260,7 @@ MÁS PRÁTICAS NOS SERVIÇOS DA JUSTIÇA	10751
 NKURANGA James HAKIZUMWAMI Ildephonse NKURANGA Justin	12445
 NSENGIYUMVA Justin Minisitiri	15126
 NSHIMIRIMANA Aline JUSENGA Eric NTAKIRUTIMANA Evariste	13300
+NTIRENGANYA Juste Delphin	19687
 Nacional de Administração da Justiça Edição Nº	10750
 National Assembly Mr Justin Muturi	11115
 National Assembly's Justice and Legal Affairs Committee	9545
@@ -1378,9 +1388,10 @@ Restructuring the Justice Sector Structure and Making	14012
 Right Honorable Dr. Justin NSENGIYUMVA	15023
 Rights. Justice. Action. For ALL Women	14793
 Royal Courts of Justice Rolls Building London	1829
-Rt. Hon. Justine Kasule Lumumba	7389,2392
+Rt. Hon. Justine Kasule Lumumba	7389,2392,10019,2
 Rt. Hon. Justine Kasule Lumumba Hon	9781
 Rt. Hon. Justine Kasule Lumumba and Hon	9781
+Rt. Hon. Justine Lumumba	19802
 République Dr NSENGIYUMVA Justin Minisitiri	15102
 S. Exa. O Titular Justiça	10750
 SADC Committee of Ministers of Justice	14826
@@ -1505,6 +1516,7 @@ Vocal de Mesa Magistrado Corte Suprema Justicia	4209
 WJP World Justice Project	11887,266,1,9,178
 Week of Justice	5000
 Women's Empowerment Just	12336
+World Justice Project	19653,183
 World Justice Project Rule of Law Index	4528,793,7191
 Y Combinator Was Just the Beginning Better	12244
 Yengi Emmanuel Daro Justine	18635

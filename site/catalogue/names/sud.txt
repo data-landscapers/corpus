@@ -50,6 +50,7 @@ Ambassador of South Sudan	18610
 Amboasary Sud Ce	14622
 Amboasary Sud Investigation	14622
 Amérique du Sud	16582
+Angola Tanzania Sudan Kenya Uganda Nigeria	19633
 Angola and Sudan	11900
 Annual Report for South Sudan	3583
 Anonymous Sudan	3983
@@ -180,6 +181,7 @@ China and Sudan	15272
 Civil Identity In South Sudan	18702
 Civil Registry of South Sudanese Nationals	18595
 Collective Sudan	6947
+Communication Technology and Postal Services of South Sudan	19779
 Comoé Sud-Comoé	747
 Company MTDT Ministry of Telecommunication and SFSP Sudan	14897
 Comparison of South Sudan Humanitarian Response Plans	3583
@@ -537,7 +539,7 @@ Policy South Sudan Yes Telecommunications Sector	11529
 Poni Sud-Ouest	15715
 Pool Sud	15739
 Population of Sudan	15022
-Port Sudan	1851,886,846,3364,6989,917,44,16,1,19,55,57,1,22,6,24,2,69,25,35,15,8,90,3520,25
+Port Sudan	1851,886,846,3364,6989,917,44,16,1,19,55,57,1,22,6,24,2,69,25,35,15,8,90,3520,25,746
 Port Sudan City	1887
 Port Sudan Port Sudan	14897
 Port Sudan Port Sudan Port Sudan	14897
@@ -584,7 +586,7 @@ Register of South Sudan Nationals The Directorate	18598
 Reliability of Sudanese	14905
 Report Sudan Civil Registration	14905
 Republic Sudan	14897
-Republic of South Sudan	1216,890,1401,76,1,149,309,555,43,1552,1775,3839,1,357,1446,41,219,169,873,309,2336,89,948,1,2,1,1,1,1,1,2,1,1,2,3,3,3,2,4,1,1,1,12,19,4,6,8,8,5,1,2,11,3,16,9,9,1,2,4,13,835
+Republic of South Sudan	1216,890,1401,76,1,149,309,555,43,1552,1775,3839,1,357,1446,41,219,169,873,309,2336,89,948,1,2,1,1,1,1,1,2,1,1,2,3,3,3,2,4,1,1,1,12,19,4,6,8,8,5,1,2,11,3,16,9,9,1,2,4,13,835,102,7
 Republic of South Sudan Postal Address	18688
 Republic of South Sudan South Sudan Poverty	3583
 Republic of South Sudan. Established	18746
@@ -613,7 +615,7 @@ Restore Cyclone-Ravaged Irrigation Schemes Sudan	18862
 Revised South Sudan Investment	18677
 Rural Development Action Aid South Sudan	18665
 Rwanda Zambia South Sudan Sudan Liberia	10793
-Rwanda and South Sudan	8274,2801
+Rwanda and South Sudan	8274,2801,8704
 Région Centre- Sud-Est	10975
 Région Public SUD-OUEST Privé	10847
 Région SUD-OUEST	10847
@@ -724,7 +726,7 @@ Sous Bureau Grand Sud Est	14622
 Sous-Bureau Grand Sud	14662
 Sous-Bureau Grand Sud-Est	14662
 South Suda	11900
-South Sudan	122,73,1,65,141,3,54,554,35,168,249,5,423,70,60,83,128,62,6,11,45,135,76,108,5,3,2,29,59,39,132,100,86,80,96,15,94,25,65,76,1,75,20,49,5,3,2,38,266,27,28,126,20,14,42,176,69,39,14,38,5,14,14,10,131,16,11,76,37,65,46,23,16,8,186,54,81,5,96,72,405,40,9,22,19,19,67,10,67,22,52,93,67,120,58,39,66,16,19,15,48,18,36,19,302,246,11,1,1,1,135,63,42,112,70,1,1,78,58,132,12,359,143,38,325,4,40,17,210,164,72,1,121,63,2,1,33,219,161,1,73,57,251,31,58,57,27,18,26,8,29,7,6,3,2,1,3,124,206,36,290,72,37,261,16,1,2,11,60,46,132,13,2,1,9,10,15,8,31,6,24,84,11,1,32,103,378,396,14,94,254,89,223,8,78,57,19,5,55,70,206,77,163,33,170,19,1,12,1,2,8,13,21,69,13,3,142,15,48,4,70,24,408,258,233,195,149,203,163,606,51,1,67,447,471,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,3,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,3,1,1,1,1,2,2,1,1,1,2,2,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,139
+South Sudan	122,73,1,65,141,3,54,554,35,168,249,5,423,70,60,83,128,62,6,11,45,135,76,108,5,3,2,29,59,39,132,100,86,80,96,15,94,25,65,76,1,75,20,49,5,3,2,38,266,27,28,126,20,14,42,176,69,39,14,38,5,14,14,10,131,16,11,76,37,65,46,23,16,8,186,54,81,5,96,72,405,40,9,22,19,19,67,10,67,22,52,93,67,120,58,39,66,16,19,15,48,18,36,19,302,246,11,1,1,1,135,63,42,112,70,1,1,78,58,132,12,359,143,38,325,4,40,17,210,164,72,1,121,63,2,1,33,219,161,1,73,57,251,31,58,57,27,18,26,8,29,7,6,3,2,1,3,124,206,36,290,72,37,261,16,1,2,11,60,46,132,13,2,1,9,10,15,8,31,6,24,84,11,1,32,103,378,396,14,94,254,89,223,8,78,57,19,5,55,70,206,77,163,33,170,19,1,12,1,2,8,13,21,69,13,3,142,15,48,4,70,24,408,258,233,195,149,203,163,606,51,1,67,447,471,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,3,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,3,1,1,1,1,2,2,1,1,1,2,2,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,139,766,74,1,19,13,19,3,40,14
 South Sudan A European Union-backed	18676
 South Sudan AAP WG	18665
 South Sudan AAP WG ReliefWeb Site	18665
@@ -740,6 +742,7 @@ South Sudan Bilateral Relations South Sudan	18691
 South Sudan Broadcasting Cooperation	4597
 South Sudan Broadcasting Corporation	18671
 South Sudan Burundi Libya Sudan Cambodia	11005
+South Sudan Business Forum	19641
 South Sudan Business Registry	3583
 South Sudan CONTENTS ACRONYMS	18668
 South Sudan Caroline Karuitha	18700
@@ -880,6 +883,7 @@ South Sudan and Burundi	11900
 South Sudan and Burundi. CENTRAL Luanda HAUT-LOMAMI	11900
 South Sudan and China	18713
 South Sudan and Darfur	15342
+South Sudan and Democratic Republic of Congo	19666
 South Sudan and Djibouti	15257
 South Sudan and Eritrea	1676
 South Sudan and Eswatini	1980
@@ -917,6 +921,7 @@ South Sudan's Ministerial High-Level Committee	14298
 South Sudan's Ministry of General Education and Instruction	18650,34,1
 South Sudan's Ministry of General Education. Over	18684,1
 South Sudan's Ministry of Health	18722
+South Sudan's Ministry of ICT	19779
 South Sudan's Ministry of Information	18720
 South Sudan's NCA	4654
 South Sudan's National Election Commission	18717
@@ -994,7 +999,7 @@ South Sudan.249	3583
 South Sudan.463	3583
 South Sudan.Leading	18744
 South Sudan18 ID	10714
-South Sudanese	122,139,198,1504,350,45,329,525,295,76,1,458,55,538,33,10,147,11,592,578,109,67,10,584,70,403,246,11,138,105,112,70,1,79,202,117,385,1055,798,31,58,136,48,1059,327,1161,2216,1953,51,987,2,1,16,6,4,1,1,5,9,10,8,4,7,22,7,4,11,6,7,5,9,2
+South Sudanese	122,139,198,1504,350,45,329,525,295,76,1,458,55,538,33,10,147,11,592,578,109,67,10,584,70,403,246,11,138,105,112,70,1,79,202,117,385,1055,798,31,58,136,48,1059,327,1161,2216,1953,51,987,2,1,16,6,4,1,1,5,9,10,8,4,7,22,7,4,11,6,7,5,9,2,1018
 South Sudanese Cabinet	18610
 South Sudanese Entrepreneurs With Digital Finance	10741
 South Sudanese Finance Minister	261
@@ -1112,7 +1117,7 @@ Sudachad	18919,12,2
 Sudachad Interconnection Catalog	18931
 Sudalytica	15342
 Sudamérica. Guinea Ecuatorial	3179
-Sudan	158,78,166,113,264,207,27,452,211,175,36,76,350,146,35,22,4,162,55,86,309,316,135,154,165,81,99,175,326,82,142,2,56,27,6,20,17,40,69,820,417,52,280,179,146,9,3,47,444,203,44,19,42,45,15,149,173,2,51,17,276,95,351,49,479,38,1,97,187,1,1,83,148,1,184,21,121,122,126,81,14,82,5,21,8,36,6,3,2,1,7,120,168,74,67,33,262,37,261,13,3,1,2,11,253,1,9,10,54,6,32,68,8,11,1,23,112,668,106,108,193,150,202,6,15,86,17,35,1,4,1,21,2,11,37,7,36,35,42,205,231,143,1,1,1,1,2,1,3,5,12,7,1,5,5,2,1,3,1,3,4,4,7,4,9,3,5,3,1,7,2,1,1,2,1,1,17,3,18,3,7,8,6,2,2,6,1,3,3,5,4,3,13,4,6,2,16,3,3,2,4,11,1,1,1,4,2,1,14,15,5,6,1,3,3,2,5,2,11,2,2,1,6,3,8,1,2,3,9,1,2,2,3,4,3,1,3,1,2,1,1,1,3,3,8,4,6,4,2,2,54,2,129,187,67,747,113,411,161,407,113,202,470,201,46,1,17,5,1,5,1,9,5,17,1,1,4,2,22,4,10,13,17,6,150,24,143
+Sudan	158,78,166,113,264,207,27,452,211,175,36,76,350,146,35,22,4,162,55,86,309,316,135,154,165,81,99,175,326,82,142,2,56,27,6,20,17,40,69,820,417,52,280,179,146,9,3,47,444,203,44,19,42,45,15,149,173,2,51,17,276,95,351,49,479,38,1,97,187,1,1,83,148,1,184,21,121,122,126,81,14,82,5,21,8,36,6,3,2,1,7,120,168,74,67,33,262,37,261,13,3,1,2,11,253,1,9,10,54,6,32,68,8,11,1,23,112,668,106,108,193,150,202,6,15,86,17,35,1,4,1,21,2,11,37,7,36,35,42,205,231,143,1,1,1,1,2,1,3,5,12,7,1,5,5,2,1,3,1,3,4,4,7,4,9,3,5,3,1,7,2,1,1,2,1,1,17,3,18,3,7,8,6,2,2,6,1,3,3,5,4,3,13,4,6,2,16,3,3,2,4,11,1,1,1,4,2,1,14,15,5,6,1,3,3,2,5,2,11,2,2,1,6,3,8,1,2,3,9,1,2,2,3,4,3,1,3,1,2,1,1,1,3,3,8,4,6,4,2,2,54,2,129,187,67,747,113,411,161,407,113,202,470,201,46,1,17,5,1,5,1,9,5,17,1,1,4,2,22,4,10,13,17,6,150,24,143,599,107,62,14,2
 Sudan AI	14924
 Sudan API Application Programming Interface ARPU	14897
 Sudan Acting Minister of Finance and Economic	14890
@@ -1408,6 +1413,7 @@ Sudan. Over	18663
 Sudan. Participants	15203,139
 Sudan. Personal	15198
 Sudan. Rather	6947
+Sudan. Recent	19747
 Sudan. Refugees	10841
 Sudan. Refugees and Asylum Seekers	6493
 Sudan. Research	14897
@@ -1636,7 +1642,7 @@ UNITAR Sudan RISE Lab	15245
 Uganda Rwanda Zambia South Sudan Sudan	10793
 Uganda and South Sudan	2928,10384,2
 Uganda and Sudan	6946
-Uganda-South Sudan	10599
+Uganda-South Sudan	10599,9042
 Ultra Media Sudan	15342
 Un Sud-Africain	10682
 Union of Sudanese National Transport Chambers	15184

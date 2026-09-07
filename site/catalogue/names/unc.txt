@@ -47,7 +47,7 @@ Entity Descriptions Uncompleted	19585
 Equivalent Unit UN United Nations UNCTAD	16631
 Estimation of Uncertainty	17140
 Ethiopia. UNCDF	8671
-Event Data Project UNCTAD United Nations	10835,3,130,902,16,466,1,135
+Event Data Project UNCTAD United Nations	10835,3,130,902,16,466,1,135,7334
 Expertos UNCTAD	15478
 Financial Literacy Toolkit UNCDF	11017
 Foreword The UNCTAD-led	13382
@@ -140,7 +140,7 @@ UNCCD FP	19086
 UNCCD PRAIS	17157
 UNCCD Strategic Objective	17157
 UNCCD and OSS	19086
-UNCDF	377,17,546,79,1078,167,397,1566,13,4431,1110,930,254,2,389,417,171,16,271,18,20,64,43,68,497,314,91,1,41,652,66,819,2026,733,49,419,351,1031,37
+UNCDF	377,17,546,79,1078,167,397,1566,13,4431,1110,930,254,2,389,417,171,16,271,18,20,64,43,68,497,314,91,1,41,652,66,819,2026,733,49,419,351,1031,37,71,196
 UNCDF Annual Report	8671
 UNCDF Better Than Cash Alliance	213
 UNCDF Connect Rural Uganda	394
@@ -151,7 +151,7 @@ UNCDF Inclusive Digital Economy Scorecard	12941
 UNCDF Malawi	12941
 UNCDF Migration and Remittances	11960,2949
 UNCDF National Digital Financial Services	14106
-UNCDF United Nations Capital Development Fund	11960
+UNCDF United Nations Capital Development Fund	11960,7682
 UNCDF Zambia	527
 UNCDF Zambia Digital Finance and Services Sida	527
 UNCDF and ECCAS	11960
@@ -187,7 +187,7 @@ UNCRPD Nations Convention	11192
 UNCT PSEA Action Plan for Sudan	15115
 UNCT and HCT	18665
 UNCTA	1243
-UNCTAD	226,10,14,376,335,103,179,21,129,724,699,224,122,421,785,77,119,409,271,1179,819,306,183,2987,41,60,3,1,12,2,1,3,3,12,105,7,64,455,88,295,9,7,2,1,264,1,9,177,1,11,1,16,7,77,35,56,130,112,1,154,101,303,37,694,64,247,18,269,10,74,32,207,481,15,1010,128,241,10,60,121,304,317,186,11,242,377,46,31,220,152,139
+UNCTAD	226,10,14,376,335,103,179,21,129,724,699,224,122,421,785,77,119,409,271,1179,819,306,183,2987,41,60,3,1,12,2,1,3,3,12,105,7,64,455,88,295,9,7,2,1,264,1,9,177,1,11,1,16,7,77,35,56,130,112,1,154,101,303,37,694,64,247,18,269,10,74,32,207,481,15,1010,128,241,10,60,121,304,317,186,11,242,377,46,31,220,152,139,551,13,1,86,83,6,8,3
 UNCTAD ASYCUDA Programme	13042
 UNCTAD Acknowledgements Acknowledgements This Compendium	16631
 UNCTAD B2C	13312,2
@@ -205,6 +205,7 @@ UNCTAD Exports of ICT	10844,7279
 UNCTAD Geneva Server	15478
 UNCTAD Headquarters	13042
 UNCTAD ICT	14098
+UNCTAD Manual	19639
 UNCTAD Ministerial Conference	13042
 UNCTAD News	10718
 UNCTAD Partnership On Digital Economy	1064
@@ -217,7 +218,7 @@ UNCTAD Strategic Partnership	250
 UNCTAD Technical	1243
 UNCTAD USF USSD VC WBG Artificial	15480
 UNCTAD United Nation Conference	2775
-UNCTAD United Nations Conference	1264,6284,4339,266,1,9,178,333,1187,4009,1061
+UNCTAD United Nations Conference	1264,6284,4339,266,1,9,178,333,1187,4009,1061,708
 UNCTAD United Nations Conference for Trade	13312,2
 UNCTAD United Nations Trade and Development	12786
 UNCTAD World Investment Statistics	12376
@@ -260,7 +261,7 @@ Uncensored Headcount Ratios	15244
 Uncertain	10793,8792
 Uncertain Times	6938
 Uncertainties	12400,4740,730
-Uncertainty	1161,6283,857,822,894,702,430,7,115,685,245,184,668,479,1204,868,1536,603
+Uncertainty	1161,6283,857,822,894,702,430,7,115,685,245,184,668,479,1204,868,1536,603,1896
 Uncertainty for Businesses	12356
 Uncertainty of Carbon	17140
 Uncertainty of Program Expansion	12975
@@ -310,7 +311,7 @@ Unconsommoleurdeloprotectionqueluiossurentlesdisposiiions	15429
 Unconstrained3	17127
 Uncontrolled	16885,375,2325
 Unconvicted	14742
-Uncoordinated	14923,735
+Uncoordinated	14923,735,3988
 Uncovering Digital Deserts	11424
 Uncovr	16825
 Uncritical	4528,7984

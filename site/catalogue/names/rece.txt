@@ -57,7 +57,7 @@ Brigadas de Recenseamento	11528
 Bureau Central de Recensement	13513
 Bureau Central des Recensements	4325,6639,4566,574
 Bureau Central des Recensements des Etudes de Population	15601
-Bureau Central du Recensement	13442,76,726,2429,65
+Bureau Central du Recensement	13442,76,726,2429,65,2936
 Burundi Receives	1579
 Burundi Recensement Général	13442
 Business Enterprises Receiving Support	12445
@@ -122,6 +122,7 @@ Conta de Receitas Transitórias de Petróleo	12796
 Contract Farming and Warehouse Receipt System	7763
 Contribuições Recebidas Empresas	11490
 Contrôle Budgétaire PORTEFEUILLE PUBLIC RECETTES DES	15449
+Correspondence Receipt	19783
 Cost of Receiving	12389
 Court Cases Number of Cases Received	11131
 Customs Regime Receipts	15066
@@ -221,6 +222,7 @@ EVOLUÇÃO MÉDIA TRIMESTRAL DE RECEITAS	11531
 EXECUTION ET RECEPTION DU MARCHE	13524
 Echantillonnage du Recensement General de L’Agriculture	17945
 Education Return Receipt	16554
+Electronic Fiscal Receipting and Invoicing Solution	19796
 Electronic Fiscal Receipting and Invoicing System	2744,5002
 Electronic General Receipt	15066
 Electronic General Receipts	15066
@@ -280,6 +282,7 @@ Grants and Other Aid Total Cash Receipts	16978
 H Recensement Général	18204
 HOLDINGS THAT RECEIVED SUBSIDIES	17043
 Highlights Recent Nationwide Cyber Drills for MDAs	18230
+Hospital Management Information System. Received	19641
 Households Receiving Energy Subsidies	12399
 I PERíODO DE RECENSEAMENTO ELEITORAL ARTIGO	11528
 I- Recettes	2476
@@ -362,6 +365,7 @@ L’opération du Recensement	10875
 M. Carl-Eugène CAPITO. RECETTE PRINCIPALE DES	16381
 M. Recep Tayyip ERDOGAN. Art	16344
 MATERIAL BORROWINGS AND LOANS RECEIVABLE	4896
+MDAs Receive	19755
 MINAS Autopsie Verbale Bureau Central des Recensements	15599
 MINISTÉRIO DO AMBIENTE E BPC RECEBEM	11473
 MOBILISATION BES RECETTES FISCALES Taux	15999
@@ -420,7 +424,7 @@ OUTLOOK Recent Economic Developments and Outlook Global	11136
 Objectifs du RGE Le Recensement	10875
 Occupation du SolRGPH Recensement Général	15555
 Office Bdais des Recettes	5077
-Office Burundais des Recettes	1284,3079,339,374,8249,65,37,6,72,19,31,12,6,51,36,30
+Office Burundais des Recettes	1284,3079,339,374,8249,65,37,6,72,19,31,12,6,51,36,30,5955
 Office Burundais des Recettes Single Window for Trade	16631
 Office Burundais des Recettes. Dans	13505
 Office Togolais des Recettes	4034,5942,9233,6,41,4,32,31
@@ -593,7 +597,7 @@ Receipt Transaction	12364
 Receipt of Complaint Acknowledged	16926
 Receipt of RFI	13461
 ReceiptNo	736
-Receipts	3,1985,9967,2013,2875,135,136,28,108,114,1080,23
+Receipts	3,1985,9967,2013,2875,135,136,28,108,114,1080,23,1182
 Receipts FY2024	16978
 Receipts Other Receipts	16978
 Receipts Purchase	1988
@@ -629,8 +633,9 @@ Receitas de Petróleo	18798,55
 Receitas de Serviços	18798,55
 Receitas. Neste	11532
 Receivable	2775
-Receivables	718,11681
-Receive	3513,1383,780,589,1283,1055,1183,1028,9,179,15,460,380,4,528,4,282,1349,410,730,309,1158,202,30,86,94,56,43,43,173,9,246,2
+Receivables	718,11681,7313
+Receive	3513,1383,780,589,1283,1055,1183,1028,9,179,15,460,380,4,528,4,282,1349,410,730,309,1158,202,30,86,94,56,43,43,173,9,246,2,2186
+Receive Freehold Titles	19711
 Receive Frw	15164
 Receive Notices and Communications	7198
 Receive Payment of Contract	16949
@@ -639,7 +644,7 @@ Receive Trip Details	17687
 Receive With Confidence	12745
 Receive and Register	17099,15
 Receive- Type	998
-Received	22,396,801,1299,4694,598,566,226,1,1,1,1,148,374,1,108,416,86,33,1008,4,1462,9,1170,1231,10,457,1709,12,32,13,154,207,523,7,1739
+Received	22,396,801,1299,4694,598,566,226,1,1,1,1,148,374,1,108,416,86,33,1008,4,1462,9,1170,1231,10,457,1709,12,32,13,154,207,523,7,1739,183,44
 Received Date	11276
 Received Feedback	9772
 Received Finalized Stock	12500
@@ -660,13 +665,17 @@ Receives	16942,425,1870
 Receives Briefing	15070
 Receives First Reading	17208
 Receives Receives	19237
-Receiving	18,3346,4225,582,559,167,144,32,364,129,170,978,484,663,528,321,259,563,49,1255,2090,213
+Receiving	18,3346,4225,582,559,167,144,32,364,129,170,978,484,663,528,321,259,563,49,1255,2090,213,2500,88,68
 Receiving Donations Article	15393
+Receiving Emails	19702
 Receiving ID	12947
 Receiving Literacy Classes	15663
+Receiving Money	19702
 Receiving Money Under False Pretense	16935
 Receiving National ID Card	10521
+Receiving Official Information	19702
 Receiving Payments	12389
+Receiving SMS	19702
 Recel	15429
 Recel Esl	15429
 Recensea	11561
@@ -690,12 +699,12 @@ Recenseamento de Empresas. O Recenseamento de Empresas	10757
 Recenseamento. Estes	18802
 RecenseamentoGeral da População	11421
 Recenseamentos	18802
-Recensement	17,720,2019,640,105,1856,491,712,656,267,58,687,510,153,240,62,1320,334,24,4,10,39,51,74,2341,43,9,232,570,175,61,382,680,15,149,1,13,4,233,4,169,139,347,91,757,364,14,2,28,27,46,1,197,27,121,19,27,85,574,27,181,12,5
+Recensement	17,720,2019,640,105,1856,491,712,656,267,58,687,510,153,240,62,1320,334,24,4,10,39,51,74,2341,43,9,232,570,175,61,382,680,15,149,1,13,4,233,4,169,139,347,91,757,364,14,2,28,27,46,1,197,27,121,19,27,85,574,27,181,12,5,453
 Recensement Administratif	2781,8040,1,5829
 Recensement DGPPB	16365
 Recensement General	14442,3503
 Recensement Géné-	18077
-Recensement Général	737,1887,1,1700,4063,503,395,999,562,27,2426,90,52,76,228,60,84,605,112,791,49,28,25,99,200,49,189,151,359,73,84,770,4,364,1,1,42,8,51,33,36,63,23,4,1,13,31,7,48,87,131,504,278,139
+Recensement Général	737,1887,1,1700,4063,503,395,999,562,27,2426,90,52,76,228,60,84,605,112,791,49,28,25,99,200,49,189,151,359,73,84,770,4,364,1,1,42,8,51,33,36,63,23,4,1,13,31,7,48,87,131,504,278,139,331
 Recensement Général Agricole	17945,33
 Recensement Général National Ibarura	14862
 Recensement Général des Entreprises	10875,105,5640,80,2643
@@ -708,7 +717,7 @@ Recensement des Propriétaires des Propriétés	13689
 Recensements	10875,6603,691,784
 Recensements DI Division Informatique	18169
 Recenser	10876,3697,3299,1349,141
-Recent	233,728,8,274,41,544,59,209,422,108,41,159,187,339,231,21,202,42,279,301,86,334,124,70,203,140,148,73,306,256,58,7,199,84,77,337,8,179,241,1,186,166,20,59,86,10,80,56,125,2,125,9,18,125,214,52,177,21,239,20,6,279,7,298,117,21,19,57,179,56,242,120,214,117,116,31,108,4,9,6,269,45,55,25,11,261,59,44,76,25,32,33,118,19,6,53,11,4,32,36,133,115,46,258,27,366,17,1,15,11,29,145,201,8,274,84,2,41,48,253,79,43,99,2,8,49,274,132,9,56,53,164,62,45,32,54,17,40,263,126,334,270,207,41,64,30,15,146,52,48,107,175,18,312,1,120,303,207,116,193,42,28,8,350,8,39,71,165
+Recent	233,728,8,274,41,544,59,209,422,108,41,159,187,339,231,21,202,42,279,301,86,334,124,70,203,140,148,73,306,256,58,7,199,84,77,337,8,179,241,1,186,166,20,59,86,10,80,56,125,2,125,9,18,125,214,52,177,21,239,20,6,279,7,298,117,21,19,57,179,56,242,120,214,117,116,31,108,4,9,6,269,45,55,25,11,261,59,44,76,25,32,33,118,19,6,53,11,4,32,36,133,115,46,258,27,366,17,1,15,11,29,145,201,8,274,84,2,41,48,253,79,43,99,2,8,49,274,132,9,56,53,164,62,45,32,54,17,40,263,126,334,270,207,41,64,30,15,146,52,48,107,175,18,312,1,120,303,207,116,193,42,28,8,350,8,39,71,165,254,27,25,21
 Recent AI Factories and Gigafactories	6879
 Recent AU African Position	1814
 Recent Actions	18931
@@ -745,7 +754,7 @@ Recent Persian and Bangla	7790
 Recent Perspective	5366,52,1069
 Recent Podcast	7112,35,27
 Recent Post	17258
-Recent Posts	8639,1766
+Recent Posts	8639,1766,9293
 Recent Riots	5482
 Recent Safeguard Assessments	15102
 Recent Sexual Activity	15247
@@ -759,7 +768,7 @@ RecentIssue.jsp	8022
 Recentemente	2365,11947,1939
 Recenter RECs	11149
 Recentering the Civic Internet	1071,16674
-Recently	1880,49,378,11,72,176,126,326,216,43,94,511,238,115,191,112,293,24,432,679,172,294,402,461,891,8,408,627,77,762,117,406,172,12,29,158,192,528,185,13,114,44,172,88,3,36,39,19,527,122,60,242,278,158,32,54,322,546,10,151,563,20,1308,128,19,7,163,123,641,1,146,88,205,255,231,2,134
+Recently	1880,49,378,11,72,176,126,326,216,43,94,511,238,115,191,112,293,24,432,679,172,294,402,461,891,8,408,627,77,762,117,406,172,12,29,158,192,528,185,13,114,44,172,88,3,36,39,19,527,122,60,242,278,158,32,54,322,546,10,151,563,20,1308,128,19,7,163,123,641,1,146,88,205,255,231,2,134,726,5
 Recently Pope Leo XIII	6231
 Recently Upgraded Infrastructure	6432
 Recentrer	17860
@@ -819,7 +828,7 @@ Receveurs des Finances	17485
 Receveurs des Impôts	17872
 Recevez	8755,1536,3277,2590,141,63
 Recevez-vous	7830,5560
-Recevoir	10876,1056,1428,15,15,1147,333,853,16,169,707,1207,1399,153,92
+Recevoir	10876,1056,1428,15,15,1147,333,853,16,169,707,1207,1399,153,92,221
 Recovery of Accounts Receivable	13420
 Recovery of Accounts Receivable Finding	13420
 Refugee Reception Office	11177
@@ -896,6 +905,7 @@ Statistiques RGA Recensement Général	15580
 Structure Responsable Recensement Général	17945
 Submissions Received	4732
 Subventions Intérêts Investissement Personnel Recettes	7655
+Sudan. Recent	19747
 Sudanese Refugees Receive Digital IDs	12257
 Summary Feedback Received	17114
 Summary of Income Received	17260
@@ -919,7 +929,7 @@ Trade Receivables Discounting System	3391
 Trade Receivables Trade	14736
 Trade and Other Receivables Accounts	14736
 Transferring and Receiving Parties	12302
-Transfers Received	17870
+Transfers Received	17870,1842
 Transferência de Receitas	15380
 Trend of Adolescents Received Family Planning Methods	19544
 Trend of Received	19585

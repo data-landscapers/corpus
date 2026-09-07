@@ -204,8 +204,9 @@ Instruction. Tout	10836,4799
 Instruction. Toute	17485
 Instruction. Toutefois	17485
 Instructional	15164,1688,1608
-Instructional Design Specialist	11750
-Instructions	1474,4191,6637,735,148,339,3,28,576,635,12,302,5,1662,1796,371,289
+Instructional Design	19807
+Instructional Design Specialist	11750,8057
+Instructions	1474,4191,6637,735,148,339,3,28,576,635,12,302,5,1662,1796,371,289,585
 Instructions COBAC	11944
 Instructions Manual	18464
 Instructions Value of Instructions	12252
@@ -245,7 +246,7 @@ Instrumentos de Pagamento de Baixo Valor	10755
 Instrumentos de Pagamentos Os	18829
 Instrumentos de Pagamentos URL	18829
 Instrumentos de Seguimento	18794
-Instruments	557,232,890,3623,2149,97,3326,1396,1061,1157,1,1,533,697,181,1046,310,228,379,6,592,419
+Instruments	557,232,890,3623,2149,97,3326,1396,1061,1157,1,1,533,697,181,1046,310,228,379,6,592,419,831
 Instruments Algeria Algeria ARTS	6938
 Instruments Card	12000
 Instruments Continental Artificial Intelligence Strategy	5244
@@ -284,6 +285,7 @@ Instruções de Preenchimento da DIGV	11532
 International Instruments	3005
 International and Regional Instruments	3861
 Irrevocability of Payment Instructions	12364
+Issuers of Payment Instruments	19716
 JUEZ DE INSTRUCCIÓN	4209
 Juez Instrucción	4209
 Juez Militar Instrucción	4209
@@ -325,6 +327,7 @@ Number of Instructions Value of Instructions	12252
 OFFICE DES CHANGES Instruction Générale des Opérations	17485
 Observation Instruments	16947
 Operational Planning Instruments and Practices The SSE	11907
+Oversight Instruments and Activities	19664
 PART VIII PAYMENT TRANSACTIONS AND INSTRUMENTS	12938
 PAYMENT INSTRUCTIONS AND FINALITY OF SETTLEMENT	12938
 PAYMENT INSTRUMENTS ISSUANCE	15023
@@ -338,6 +341,7 @@ Payment Instructions and Account Transfers	12484
 Payment Instruments	19509
 Payment Instruments Subscribers Figure	15023
 Payment Services Instruction	11821
+Policy Documents and Other Instruments	19783
 Policy Instruments	17235
 Power Project Instruments	14080
 Presence of Environmental Fiscal Instruments	12389
@@ -397,11 +401,13 @@ Statutory Instruments Act	14594,667
 Statutory Instruments Act. STATEMENT ON WHETHER	14594
 Statutory Instruments GOVERNMENT OF ZAMBIA STATUTORY	22
 Statutory Instruments Regulations	6946
+Statutory Instruments Supplement	19734
 Strategic Financing Instruments	7548
 Submission Instructions	17212
 Submission Instructions Completed	17212
 Supervisor Grupo C Juez Militar Instrucción	4209
 Supplementary Instruments. The Agenda of Phase	16212
+Survey Instruments	19639
 Sécurité des Bases de Données Instrumentation Industrielle	15674
 Technical Part INSTRUCTIONS TO BIDDERS	13185
 Technology and Innovation Policy Instruments	16627
@@ -415,3 +421,4 @@ Très Hautes Instructions du Président	10524,5575
 U.S. International AI Agenda and Instruments	6790
 Une Instruction	15352
 VOYAGE Instruction Générale des Opérations de Change	17485
+Weighing Instruments	19712

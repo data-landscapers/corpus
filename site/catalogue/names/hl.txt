@@ -33,6 +33,7 @@ HL7 FHIR. Des	13568
 HL7 FHJR	1009
 HL7 Fast Healthcare Interoperability Resources and HL7	12581
 HL7 HNSF Enterprise User Authentication European	1009
+HL7 Health Level	19667
 HL7 Service Aware Interoperability Framework	21
 HL7 Version	1009
 HL7 and ASTM	7988
@@ -68,6 +69,7 @@ Hlathikhulu Central High	12977
 Hlathikhulu Government Hospital and Nhlangano Health Centre	12956
 Hlathikhulu Public Health Unit	12976
 Hlathikhulu and Nhlangano	12956
+Hlatshwayo	19654
 Hlazo-Webster	11289
 Hlelweni	11551
 Hlengani Mathebula	9365,1029

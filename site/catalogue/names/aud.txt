@@ -21,7 +21,7 @@ ANPD Compliance Audit Regime	3861
 AUDA NEPAD	14773
 AUDA PIDA	16037
 AUDA- NEPAD	1243,571,2309,8940
-AUDA-NEPAD	961,282,571,1348,196,509,11,302,264,139,661,560,646,498,847,1230,2790,3,873,108,167,129,362,23,1006,1445,799,852,1,42,73,624,367,490,399
+AUDA-NEPAD	961,282,571,1348,196,509,11,302,264,139,661,560,646,498,847,1230,2790,3,873,108,167,129,362,23,1006,1445,799,852,1,42,73,624,367,490,399,144
 AUDA-NEPAD Communication and Advocacy Unit- Office	7795
 AUDA-NEPAD Framework	961
 AUDA-NEPAD Launches Island Economy Programme	7795
@@ -101,6 +101,7 @@ AUDIÊNCIA Vice-Presidente	10752
 AUDPF	3162,456,505,467,654,1982,3494,1335,636,372,394,23,1006,2598,2051
 AUDPF-at-a-glance	3162
 AUDPF-domestication	3358
+Abbreviations ARMC Audit and Risk Management Committee	19666
 Abridged Audited Financial Statements	1154
 Academic Affairs Hospitality Services Internal Audit	10123
 Account and Audit	14735
@@ -222,7 +223,7 @@ Audiovisuel	4237,3703,832,281,1384,438,2389,1,474,42,18,1598,32,585,33,646,1358,
 Audiovisuel COSCE Collectif des Organisations	18310
 Audiovisuel LV Lieu de Vote MAESE Ministère	18310
 Audiovisuelle	15397,2432,481
-Audit	3,31,201,308,611,1,646,541,134,36,539,59,104,500,147,265,41,35,15,43,89,1003,18,163,132,722,36,9,171,675,5,265,241,210,59,440,27,590,8,385,327,2,18,84,470,216,96,91,17,146,159,5,59,52,151,16,303,143,89,4,87,259,23,175,62,67,22,249,16,1,5,34,58,23,5,11,18,22,30,62,137,9,24,26,39,50,154,94,220,247,27,223,102,9,28,27,25,110,88,26,17,13,28,115,4,75,50,83,105,71,18,83,145,1,12,43,220,3,208,4,1,64,114,1,67,41,177,2,66,41,111,10,81,3,41,10,16,122,23,225,452,3,10,4,39,30,105,8,90,192,19,2,41,11,30,2,1,54,25,49,25,40,65,226,97,4,77,148,1,7,14,15,41,75,9,16,124,1,10,15,34,1,8,1,17
+Audit	3,31,201,308,611,1,646,541,134,36,539,59,104,500,147,265,41,35,15,43,89,1003,18,163,132,722,36,9,171,675,5,265,241,210,59,440,27,590,8,385,327,2,18,84,470,216,96,91,17,146,159,5,59,52,151,16,303,143,89,4,87,259,23,175,62,67,22,249,16,1,5,34,58,23,5,11,18,22,30,62,137,9,24,26,39,50,154,94,220,247,27,223,102,9,28,27,25,110,88,26,17,13,28,115,4,75,50,83,105,71,18,83,145,1,12,43,220,3,208,4,1,64,114,1,67,41,177,2,66,41,111,10,81,3,41,10,16,122,23,225,452,3,10,4,39,30,105,8,90,192,19,2,41,11,30,2,1,54,25,49,25,40,65,226,97,4,77,148,1,7,14,15,41,75,9,16,124,1,10,15,34,1,8,1,17,24,224
 Audit Act	9439,5322,67,3
 Audit Action Plans	11218
 Audit All	4217
@@ -377,7 +378,7 @@ Audit and Investigations Gavi Programme Audit Republic	11401
 Audit and Monitoring	11952,350
 Audit and Monitoring Requirement	11952
 Audit and Pilot Refurbishment Agency	17260
-Audit and Risk Committee	13053,1715,255
+Audit and Risk Committee	13053,1715,255,4689
 Audit and Risk Committee MEMBER	13053
 Audit and Risk Committee The Audit and Risk	12969,1775
 Audit and Risk Committee. Monetary Policy Committee	14744
@@ -403,7 +404,7 @@ Auditabilidade	11448,13
 Auditability	2958,3484,1106,5489,1528,1
 Auditability and Traceability Auditability	14565
 Auditable	10721
-Audited	1607,1,1,1,1,1,3284,637,1779,3507,1044,123,3633,1631
+Audited	1607,1,1,1,1,1,3284,637,1779,3507,1044,123,3633,1631,2427
 Audited Annual Financial Statements	11197
 Audited Appropriation PROGRAMME	11986
 Audited Audited Audited Appropriation	11986
@@ -425,7 +426,7 @@ Audited Rm Raised Repaid	10793
 Audited-stage	1613
 Auditees	17364
 Auditer	8515,6034,3742
-Auditeur	15769
+Auditeur	15769,4081
 Auditeurs	15027,2557
 Auditeurs Internes	15027
 Auditeurs du LE PRESIDENT DE LA TRANSITION	17982
@@ -457,10 +458,10 @@ Audition de Monsieur Mustapha	8891
 Audition du Ministère	8891
 Audition du Professeur Mohamed Tozy	8891
 Auditiva	16864,56
-Auditor	2668,148,2080,2652,1318,2280,302,507,86,301,304,407,1493,220,1170,1378,1124,25,2,1,748
+Auditor	2668,148,2080,2652,1318,2280,302,507,86,301,304,407,1493,220,1170,1378,1124,25,2,1,748,463
 Auditor Committee	15027
 Auditor Ernst	10793
-Auditor General	121,597,71,365,400,227,30,56,121,524,9,147,166,209,540,634,1127,1078,71,1055,2102,46,617,17,180,720,407,229,229,224,181,146,248,26,7,29,14,2,81,70,209,23,6,57,56,117,94,263,598,389,212,1,87,1598,3,51,427,50,1074,2,5,12,6,2,1,22,12,19,57,25,60,225,2,5,203,2,487
+Auditor General	121,597,71,365,400,227,30,56,121,524,9,147,166,209,540,634,1127,1078,71,1055,2102,46,617,17,180,720,407,229,229,224,181,146,248,26,7,29,14,2,81,70,209,23,6,57,56,117,94,263,598,389,212,1,87,1598,3,51,427,50,1074,2,5,12,6,2,1,22,12,19,57,25,60,225,2,5,203,2,487,41,4,82
 Auditor General Act	19098
 Auditor General Alexis Kamuhire	3043
 Auditor General Cites Missing Audit Committee	9650
@@ -546,7 +547,7 @@ Auditors' Analysis of Awareness Implementation Report	19541
 Auditors' Analysis of RITA's Annual Implementation Reports	19541
 Auditorías	4209
 Auditor’s Report	11250,7293
-Audits	2775,386,341,102,550,6584,37,101,263,724,1057,2,131,237,91,1364,240,164,752,243,955,265,954,896,361
+Audits	2775,386,341,102,550,6584,37,101,263,724,1057,2,131,237,91,1364,240,164,752,243,955,265,954,896,361,54
 Audits AI	16212
 Audits Environnementaux	15999
 Audits Environnementaux Frais	15999
@@ -630,6 +631,7 @@ CITIZEN AFFAIRS Audited Audited Audited Medium	11986
 COMMUNICATION AUDIOVISUEItE	15397
 COMMUNICATION AUDIOVISUELLE Article	17899
 COMPLIANCE AUDIT	15152
+COMPLIANCE MGT DIVISION INTERNAL AUDIT DEPARTMEN	19712
 Capacity Audit Checklist	3861
 Capacités RH Audit	12043
 Carry Out Internal Audits	14546
@@ -637,7 +639,7 @@ Central Bank of Seychelles’ Internal Audit Division	11134
 Central Internal Audit Department	15147
 Certification Department and External Auditor Pass Pass	10819
 Certified Information System Auditor	17235
-Certified Information Systems Auditor	1940,8925
+Certified Information Systems Auditor	1940,8925,8776
 Certified Internal Auditor	3632,11365
 Certified SIM3 Auditor Training	9470
 Charles E. Kichere Controller and Auditor General	19584,1
@@ -787,6 +789,7 @@ Dynamic Effects of Tax Audits	18318
 DÉPART D'UN AUDITEUR	17534
 Département Audit	17866
 EB Financial Audits OUTPUT INDICATOR	11863
+ED's Directorate Audit	19712
 EHSS Audit and Assurance	10643
 ENCONTRO DOS JOVENS AUDITORES DA OISC	11473
 ERS Auditorium	13021
@@ -823,6 +826,7 @@ Eswatini's Auditor-General	10108
 European Court of Auditors	15901,3084
 European Court of Auditors and OLAF	18984
 Evaluation and Auditing	11193
+Evidence for Audit	19801
 Executive Director Dr. Audrin Mathe	12982
 Expanded Implementation Support IAD Internal Audit	1264
 Expansion of Post-Clearance Audit	17367
@@ -985,7 +989,7 @@ Institutional Audits	13556
 Insurance Department Audit	17235
 Intended Audience	1009,12028
 Intermediate Level Tenable Certified Nessus Auditor	15662
-Internal Audit	1155,4378,1413,2750,1435,3,103,718,31,359,606,5,16,81,40,1667,68,3,12,180,8,685,1233,286,129,1124,12,76,1,310,568
+Internal Audit	1155,4378,1413,2750,1435,3,103,718,31,359,606,5,16,81,40,1667,68,3,12,180,8,685,1233,286,129,1124,12,76,1,310,568,186,103
 Internal Audit Activity Reports for Q1	15023
 Internal Audit Agency	16949
 Internal Audit Agency Act	11,576
@@ -1020,13 +1024,14 @@ Internal Audit and Compliance Oversight	18556
 Internal Audit. Through	15023
 Internal Auditing	14738,2206
 Internal Auditing Staff	14738
-Internal Auditor	587,677,290,9971,1945,1266,782,2217,731,130,291,689
+Internal Auditor	587,677,290,9971,1945,1266,782,2217,731,130,291,677,12
 Internal Auditor CIS Collective Investment Schemes	14997
 Internal Auditor. External Auditors	18887
 Internal Auditor. Upon	18887
 Internal Auditors	15027,3549,1
 Internal Audits	14736
 Internal Control Internal Auditing	14746
+Internal Control and Internal Audit	19564
 Internal Control and Internal Auditing	15659
 Internal Control and Internal Auditing. Administrative	15518
 Internal Controls and Internal Audit	15659
@@ -1079,6 +1084,7 @@ Local Council Internal Auditors	18577
 Logging and Auditing	6423,10524
 Logs Audit	11153
 Long-Run Effects of Tax Audit	18318
+Luganda and English. Audio	19774
 M. Audace OLABA	16175
 M. Audrey Alban Jean-Baptiste Mapithy-Ma-Mapithy	5079
 M. Kenn Elysée MBA AUDZAGHE	16175
@@ -1157,7 +1163,9 @@ NDP Act Compliance Audit Returns	11956
 NDP Act Compliance Audit Returns Filing	11956
 NDP Act Compliance Audit Returns Schedule	11956
 NESA Quality Audit Report	14922
+NISF Audit Test Plan Workbook Practical	19801
 NIST CSF Auditing	11952
+NSC Audit	19712
 NamRA Audit and Risk Committee. SHIRENE BAMPTON	12951
 National Audit	11193,4147
 National Audit Chamber	3583,11282,3796
@@ -1242,6 +1250,7 @@ Personnel Audit and Skills Gap Analysis	7659
 Photos Vidéos Audio Agenda	3675
 Photos Vidéos Audios Agenda	3675
 Planned Audit	14746
+Policy Review and Audit	19646
 Post Clearance Audit	17367
 Post Clearance Audits Type of Audit	13053
 Post-Clearance Audit TDO	17367
@@ -1349,6 +1358,7 @@ S Auditing Poor	15659
 S Regulatory Compliance Audit	4301
 S Sithebe Registered Auditor	10793
 SAFARICOM PLC RESULTS BOOKLET AUDITED RESULTS	6100
+SAI Supreme Audit Institution	19847
 SARL AUDIOTEL ALGERIE	15885
 SARL AUDIOTEL ALGERIE. Article	15885
 SECRETARIO AUDIENCIA PROVINCIAL	4209
@@ -1416,7 +1426,8 @@ Subsequent Audit	15492
 Summary of Audit Opinion Opinion Issued Number	13420
 Supervision Consultancy Services and Project Audit	15011
 Supply Chain Audit	4153,14,35,15,43,41,48,1003
-Supreme Audit Institution	9439,241,428,1309,488,1051,167,2249,285,2,1705,529,97,498
+Supreme Audit	19847
+Supreme Audit Institution	9439,241,428,1309,488,1051,167,2249,285,2,1705,529,97,498,1347,12
 Supreme Audit Institution Performance Measurement Framework	9439
 Supreme Audit Institution. Approximately	17364
 Supreme Audit Institution. Without	9439
@@ -1439,7 +1450,7 @@ TELECOMMUNICATIONS AUDIO	16900
 TELECOMMUNICATIONS. AUDIO AND VIDEO ENGINEERING	16900
 TEVV Audit	16212
 TH REPORT ON AUDITED ACCOUNTS	10313
-Target Audience	940,18615
+Target Audience	940,18615,89
 Target Audience and Scope	15540
 Tax Audit	10762
 Tax Audit Directorate	12500

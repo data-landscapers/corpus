@@ -76,7 +76,7 @@ Boumerdes ENPC Entreprise	16103
 Building Entrepreneurship and Youth Employment for Senegal	7106
 Building Sudan's Entrepreneurial Ecosystem Working	15268
 Burundi’s Digital Entrepreneurship	13312,2
-Business Entry	12389
+Business Entry	12389,7286
 Business and Entrepreneurship	18924
 Bénin. Entre	2261
 C. Market Entry Payment System	14897
@@ -402,6 +402,7 @@ Entrenching Devolution	13474
 Entrenl	15429
 Entrent	13300,2073,160,1084,1223
 Entrent-elles	10190
+Entrep	19850
 Entreposage	8719,6992,225,313,3046
 Entrepre-	14897,2045
 EntreprenHER	12613
@@ -448,7 +449,7 @@ Entrepreneuriat des Femmes	19071
 Entrepreneuriat des Jeunes	16381
 Entrepreneuriat du Gabon	7268
 Entrepreneuriat. Il	13846
-Entrepreneurs	415,622,2559,932,1272,1673,991,509,449,176,427,798,140,1,890,9,68,104,18,323,68,672,231,11,2053,69,1147,249,500,477,3,631,799,248
+Entrepreneurs	415,622,2559,932,1272,1673,991,509,449,176,427,798,140,1,890,9,68,104,18,323,68,672,231,11,2053,69,1147,249,500,477,3,631,799,248,228
 Entrepreneurs Association	15513
 Entrepreneurs Association of Equatorial Guinea	16942
 Entrepreneurs BongoHive	9198
@@ -579,7 +580,7 @@ Entreprise. Article	14488,1,1
 Entreprise. Elles	14488,1,1
 Entreprise. L’Entreprise	14488,1,1
 EntrepriseGouvernementale du Togo. Projet	19362
-Entreprises	737,28,4957,206,1418,1545,867,235,667,1274,1391,65,110,281,627,55,26,1,861,44,98,49,27,57,40,43,37,21,169,95,297,42,175,82,47,811,332,12,15,1,27,23,1,86,31,283,10,13,46,758,98,145,43
+Entreprises	737,28,4957,206,1418,1545,867,235,667,1274,1391,65,110,281,627,55,26,1,861,44,98,49,27,57,40,43,37,21,169,95,297,42,175,82,47,811,332,12,15,1,27,23,1,86,31,283,10,13,46,758,98,145,43,278
 Entreprises ATE Autorisation Temporaire	16249
 Entreprises Act.3.1.3.22	17842
 Entreprises LORYNE	3989
@@ -634,9 +635,11 @@ Entrover	15429
 Entrust	2390,913,727,746,717,385,88,3936
 Entrust and Hyf	4985
 Entrusting	13312,2,1565,1993
-Entry	11,558,645,29,21,543,2054,44,705,9,3236,1268,772,946,78,256,3,339,52,288,67,240,174,192,1,774,649,455,333,94,75,7,1,7,101,39,15,21,24,38,13,186,61,177,3,37,21,69,170,318,217,167,11,229,9,120,773,217,323,165,17,89,198,127,333,310
+Entry	11,558,645,29,21,543,2054,44,705,9,3236,1268,772,946,78,256,3,339,52,288,67,240,174,192,1,774,649,455,333,94,75,7,1,7,101,39,15,21,24,38,13,186,61,177,3,37,21,69,170,318,217,167,11,229,9,120,773,217,323,165,17,89,198,127,333,310,106,35
 Entry Activities	16867
 Entry Bank Performance Quality	17962
+Entry Controls	19801
+Entry Controls Access	19801
 Entry Distribution Price	1828
 Entry Exit System	1525
 Entry Into Force	19279
@@ -764,6 +767,7 @@ Hz Entrée HDMI	13524
 I. Entrench ICT	899
 I. Introduction Entrée	17885
 IA. Entre	9519,1810
+ICT and Digital Entrepreneurship	19742
 ICTAM for Innovation and Entrepreneurship	13095
 III.2.1 ENTREPÔT DE DONNÉES	13306
 III.2.1 Entrepôt	13306
@@ -786,16 +790,19 @@ Inde. Entre	15357
 India's Ministry of Skill Development and Entrepreneurship	18650
 Indicators of Entrepreneurship Culture	16876
 Industry and Entrepreneurship Development	18927
-Innovation and Entrepreneurship	4484,760,5887,2042,173,10
+Innovation and Entrepreneurship	4484,760,5887,2042,173,10,6286
 Innovation and Entrepreneurship Centre	6946
 Innovation and Entrepreneurship Fund	13080
 Innovation and Entrepreneurship Hubs	13295
 Innovation and Entrepreneurship Lab	13938,3932
 Innovation and Entrepreneurship Objective	13346
 Innovation and Entrepreneurship Research	13346
+Innovation and Entrepreneurship Under	19642
+Innovation and Entrepreneurship-	19791
 Innovation and Entrepreneurship. The TWGs	12453,892
-Innovations and Entrepreneurship	4028
+Innovations and Entrepreneurship	4028,15614
 Innovative Entrepreneurship Ecosystem Forum	11546
+Institut Supérieur de Gestion des Entreprises	19687
 Institut Supérieur de Gestion des Entreprises ISTAU	13377
 Institution ESO Entrepreneurship Support Organization FDI	17870
 Internacional Entrada	11574
@@ -870,6 +877,7 @@ Manuel Homem. Entretanto	17541
 Market Entry	16212,730
 Market Entry and Expansion Position	18039
 Markets and Finance for Digital Jobs and Entrepreneurship	16144
+Mastercard Index of Women Entrepreneurs	19677
 Maurice. Entre	5122
 Mauritanie. Entre	17885
 Mauritanienne des Entreposages des Produits Pétroliers	17894
@@ -917,6 +925,7 @@ Moyennes Entreprises. ARTICLE	17817
 Moyennes Entreprises. Chef	18032
 Moyennes Entreprlses	18296
 Município Entre	4044
+Mutuelle des Entreprises du Secteur Privé	19645
 Ménages Entreprises Etablissements de Crédits	13390
 N ENTREPRISE GENERALE DES TRAVAUX ET	16623
 NPS Bill. Entry	3318
@@ -1147,13 +1156,14 @@ V ENTREPRISE GENERALE DE REVETEMENT EGR	16623
 V- PRÉSENTATIONS SECTORIELLES ET FICHES ENTREPRISES	2342
 VC Venture Capital WEAC Women's Entrepreneurial	12376
 VOLET ENTREPRISE ENIF	13390
+Validates New Devices for Market Entry	19728
 Valorisation des Initiatives Entrepreneuriales	7106
 Verify and Document the Identity of Entrepreneurs	12389
 Visa-Free Entry Posted	12164
 Vocational and Entrepreneurship Training Authority	13561
 West Africa Data Centre and Cable Entry	856
 Women Entrepreneurs	16951
-Women Entrepreneurs Finance Initiative	9702,7076
+Women Entrepreneurs Finance Initiative	9702,7076,3040
 Women Entrepreneurs Learn Safe Digital Business	11033
 Women's Entrepreneurial Access Center	12376
 Women's Entrepreneurship Access Centre	13346

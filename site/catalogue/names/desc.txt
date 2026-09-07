@@ -178,7 +178,7 @@ D. Concept Description All	18933
 D. Concept Description The Project Development	15097
 D. Original Project Description and Performance	15983
 D. Preliminary Description Activities	13523
-D. Project Description	1704,1752,7507,3613,938,1140,2753
+D. Project Description	1704,1752,7507,3613,938,1140,2753,256
 D. Project Description Investment Project Financing	761
 D. Project Description This Project Paper	14553
 DEBT DESCRIPTION	13053
@@ -234,6 +234,8 @@ DSCE Description	15542
 Data Analysis Descriptive	12508
 Data Description	4528
 Data Locations Date of Change Description of Change	6432
+Data Policy. Data Portability Policy. Descriptive	19638
+Data Set Catalogue Data Syntax Descriptive	19638
 Data and Variable Description	12978
 Date Due Agreement Reference Description of Condition	15372
 Deliverable Short Description	11188
@@ -245,6 +247,7 @@ Descarregar Agenda Sessão Pública	18807
 Descarregar Related Items	4711
 Descartar Dados	18801
 Descarte	18801
+Descartes	19824
 Descendants Bill	12337
 Descending	5363
 Descent	10841,3901,3853
@@ -1128,7 +1131,7 @@ I Code Description	11180
 I. DESCRIPTION COMPLÈTE DU PROJET	18118
 I. Description	16924
 I. PROJECT DESCRIPTION	11855
-I. PROJECT DESCRIPTION A. Project Development	11855
+I. PROJECT DESCRIPTION A. Project Development	11855,7788
 I.1.2 Description du Programme Terra Bénin	10876
 I.1.2 Description du Programme Terra Bénin I.1.2.1	10876
 I.2 DESCRIPTION DU PROJET	16104
@@ -1155,7 +1158,7 @@ II. Description	12220,4178
 II. Description of Proposed Changes	15693
 II. PROGRAM DESCRIPTION	11905,271,5282
 II. PROGRAM DESCRIPTION A. Government Program	11905,5553
-II. PROJECT DESCRIPTION	969,295,603,1737,2935,4229,61,551,169,11,1772,1605,554,24,3,35,68,38,2,82,401,240,565,1155,197,476,462,6
+II. PROJECT DESCRIPTION	969,295,603,1737,2935,4229,61,551,169,11,1772,1605,554,24,3,35,68,38,2,82,401,240,565,1155,197,476,462,6,590,12
 II. PROJECT DESCRIPTION A. Project Development	1264,603,1737,2935,4229,196,453,1914,1,2159,27,35,105,1,2,483,1960,197,944
 II. Project Description	13743
 III. DESCRIPTION DES ASPECTS TECHNIQUES	10836
@@ -1352,6 +1355,7 @@ Policy Description Relevance	17114
 Political and Rating Description	11469
 Population of CAR Description Actual	15758
 PopulationGroup Describe	11180
+Pre-installation for Cable Drum No. Item Description	19745
 Principes Descriptions NON-DISCRIMINATION	15908
 Principle Description	14897
 Process Description	15283,4258
@@ -1409,6 +1413,7 @@ ReliefWeb Description	12618
 Requirement Description Compliant	13037
 Requirement Service Description Tariffs and Charges Contract	5676
 Resolution Year Brief Description Relevance	17157
+Resource Descriptor Framework	19639
 Results Area Description	11905
 Results Descriptive	7886
 Revenue Item Description Amount Collected	12976
@@ -1518,8 +1523,10 @@ Tdt Description	15129
 Technical Description	15901
 Technical Description Example Profile Framework	1009
 Technical Proposed Action Description	16032
+Technical Specificationsfor Wooden Poles No. Description	19745
 Technology Inter-Agency Committee Description Date Creation	2779
 Tender Number KE-MOH-556751-NC-RFB Tender Description	7987
+Term Description	19639
 Term Description ICT Information Communication Technologies	14674
 Term Description SSA Sub-Saharan Africa STEM	14674
 Thematic Cluster Business Objective Description Adaptability	13042

@@ -35,6 +35,7 @@ Authorities No Yes MME	17260
 Award The MMS	14738
 BCBS Central Bank Digital Currency MMO	12444
 BMSA CDLM. Admin MMPE	2342
+BPC and MME	19663
 Bank and MM	12460
 Banks and MMOs	12270,2404
 Board of MMFL	8813
@@ -215,6 +216,7 @@ MMDAs	789,6147,432,1706,5139,1,71,1101,318,86,55,256,62,90,221,50,77,1116
 MMDAs FBOs	15845
 MMDCE	14214
 MMDCEs	14214
+MMDDYY	19644
 MMDP Morbidity Management and Disability Prevention TT	19544
 MME DNPD	17842
 MME MARY BAINE NOMMÉE NOUVELLE SECRÉTAIRE	15625,1
@@ -224,7 +226,7 @@ MME and MFDP	17257
 MMEAP	11909,56
 MMEAP Ministry of Modernization	11965
 MMED Psych	13040
-MMEIG	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1,135
+MMEIG	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1,135,7164,1,169,14
 MMETI	19218
 MMEXIMIUM	3972
 MMFL Chief Executive Officer Shaibu Haruna	10117
@@ -268,6 +270,8 @@ MMed Psych	13040
 MMoonntthhllyySsystem Lloosssseess	12256
 MMoonntthhlyyl HHyyddrroo EEnneerrggyy GGeenneerraatteedd	12256
 MTAC MM	15580
+MW Mmadinare	19677
+MW Mmadinare Solar PV	19677
 MW Mmadinare Solar Plant	12609
 MWp Mmadinare Solar PV Plant. Together	12604
 Mac Dexter DJIGATH OBIEBR Mmes	16099
@@ -291,12 +295,16 @@ Mke Mme Mke Mme Mke Mme	19517
 Mmabatho	11237,21,28
 Mmadi Hassane	1943
 Mmadinare	12604,5
+Mmadinare and Jwaneng	19677
 Mmakau	4432
+Mmakgori	19663
 Mmakgoshi Lekhethe	8044
 Mmambo	12242
 Mmamoloko Kubayi	8521,2706
 Mmapula Kotsokoane	10102
 Mmapula Pheeha	7500
+Mmaratanang Road Network	19654
+Mmaratanang Ward	19654
 Mmatumelo Lebjane	7581,2760
 Mmauerigtieuasscanreegmioenraglepaisonaerergional	14566
 Mme ABANA BILOA Claudine	16195
@@ -638,6 +646,7 @@ Mme Jacqueline NTSETOUGHE	16381
 Mme Jacqueline NZALAKANDZI	15685
 Mme Jaida Karesse IBINGA MAKITA	16175
 Mme Jannick Maggy D. MICKALA	16175
+Mme Janvière Nirutanya	19645
 Mme Jeanine Enola ENGOUO SABELA	16175
 Mme Jemila Abdelvetah	17881
 Mme Jessica Anouchka	16381
@@ -1201,9 +1210,10 @@ Mme. Yassamine Sebaa	16344
 Mme. Zenaba Borgou Hassan	19005
 Mme. Zohra Adi	15930
 Mmed-OBGYN	16971
-Mmegi	2976,306,1848,1652,260,35,314,4209
+Mmegi	2976,306,1848,1652,260,35,314,4209,8069
 Mmegi's African Politics	6141
 Mmemme Mogotsi	9076
+Mmes Aneliya Muller	19687
 Mmoja	4099,15464
 Mmoloki Modise	3951
 Mmolotsi	12620,11
@@ -1218,7 +1228,7 @@ Mmupltei-tPitirvoev	10157
 Mmuya	6123
 Mnazi Mmoja Hospital and Kimara Health Centre	19541
 Mobile Money Operators MMO	18485
-Mortality Estimation UN MMEIG United Nations	10759,76,2,1,130,902,16,3,451,12,1,135
+Mortality Estimation UN MMEIG United Nations	10759,76,2,1,130,902,16,3,451,12,1,135,7334
 Ms Mmakgoshi Lekhethe	7785
 Ms Mmemme Mogotsi	9076,159
 Ms. Caroline Setshedi Botlhole Mmopi	12552
@@ -1310,6 +1320,7 @@ Transition Mme. Fanta CONDE Dr Dansa	16645
 Tristan NONDAT. Mme	16381
 Télécommunications Oumouri Mmadi Hassani	13736
 Télécommunications Oumouri Mmadi Hassani URL	13736
+UN MMEIG	19653,183
 UN MMEIG United Nations Maternal Mortality	11887,266,1,9,178
 UN Women Representative Mme. Jennet Kem	14990
 Union des Comores. Mme Xia Yin	13736

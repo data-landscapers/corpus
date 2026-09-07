@@ -135,7 +135,7 @@ Active-Active	14783
 Active-active Systems	11952
 ActiveX	1009
 ActiveX Component Technology Mapping	1009
-Actively	1204,914,2008,402,2419,1,203,1972,3091,162,68,68,163,786,413,752,151,2162,32,2263
+Actively	1204,914,2008,402,2419,1,203,1972,3091,162,68,68,163,786,413,752,151,2162,32,2263,567
 Actively Monitor SLAs	11995
 Activeness	15713
 Activer	13375,4073,376,12,43,1372,215
@@ -213,7 +213,7 @@ Activite11	17845
 Activites	14131,443
 Activites Financi	18318
 Activites RSH	14442
-Activities	10,144,131,118,15,126,38,207,172,9,202,92,20,96,413,3,28,43,31,90,177,126,484,114,100,217,3,395,563,35,15,43,41,48,304,120,474,793,499,408,140,73,3604,65,134,17,151,119,2,37,566,8,42,19,16,25,125,48,37,37,144,2,47,21,19,3,146,174,164,21,19,65,16,132,146,192,9,318,141,13,518,201,19,39,34,4,21,22,26,40,38,53,66,30,248,48,62,45,35,66,39,1,4,369,112,43,393,263,5,3,12,33,26,5,9,3,10,3,6,13,7,18,15,57,31,9,6,2,23,1,17,79,14,48,143,17,391,113,9,14,316,8,40,21,74,39,21,273,32,8,116,281,70,273,18,10
+Activities	10,144,131,118,15,126,38,207,172,9,202,92,20,96,413,3,28,43,31,90,177,126,484,114,100,217,3,395,563,35,15,43,41,48,304,120,474,793,499,408,140,73,3604,65,134,17,151,119,2,37,566,8,42,19,16,25,125,48,37,37,144,2,47,21,19,3,146,174,164,21,19,65,16,132,146,192,9,318,141,13,518,201,19,39,34,4,21,22,26,40,38,53,66,30,248,48,62,45,35,66,39,1,4,369,112,43,393,263,5,3,12,33,26,5,9,3,10,3,6,13,7,18,15,57,31,9,6,2,23,1,17,79,14,48,143,17,391,113,9,14,316,8,40,21,74,39,21,273,32,8,116,281,70,273,18,10,54,2,61,10,113,22
 Activities Being Considered B.1 Relevance of Environmental	18374
 Activities Conducted	10776
 Activities Development	1131
@@ -229,6 +229,7 @@ Activities Mar	18374
 Activities Output Objectives Long Term Objectives	15424
 Activities Outputs PDO	17862
 Activities Participation	14674
+Activities Performed	19702
 Activities Planned	16978
 Activities Qty Output Deadline P1	11862
 Activities Region Southeaster	17043
@@ -251,7 +252,7 @@ Activities and Timeline Timeline	13991
 Activities and Timetable	13991
 Activities and Timetable Activities Timeline	13991
 Activities for Liberian Informal Sector Employment	17311
-Activity	85,151,13,268,1,196,11,172,162,68,1,17,2,137,170,73,11,1,677,512,47,829,53,335,980,1707,1370,473,68,1182,1167,192,3,64,810,233,207,101,407,6,14,1,28,75,15,236,542,798,144,17,92,206,281,250,139,10,1053,64,23,21,97,48,24,95,81,105,541,1080,172,31,274,35,31
+Activity	85,151,13,268,1,196,11,172,162,68,1,17,2,137,170,73,11,1,677,512,47,829,53,335,980,1707,1370,473,68,1182,1167,192,3,64,810,233,207,101,407,6,14,1,28,75,15,236,542,798,144,17,92,206,281,250,139,10,1053,64,23,21,97,48,24,95,81,105,541,1080,172,31,274,35,31,56,74,6
 Activity Assessment Meeting	14009
 Activity Bank	11134
 Activity Brief	8546
@@ -280,6 +281,7 @@ Activity Identification and Institutional Planning Approach	17116
 Activity Implementing	16863
 Activity Implementing Entity	16863
 Activity Indicative Budget Allocation Programme Gender	18512
+Activity Linkage	19835
 Activity Main Machines Materials Land	12253
 Activity Mapping Template	16971
 Activity Monitoring	7548
@@ -310,6 +312,7 @@ Activity-Based Costing	17116
 Activity. Participation	19214
 Activity1	2775,10262
 Activity1 Months2	13037
+ActivityInfo	19760
 ActivityPreview.do	246,92
 Activité	2342,3804,2745,1984,1,51,38,10,2325,90,325,703,204,748,98,11,6,158,7,162,124,267,119,295,868,338,5,17,37,64,37,123,13,74,119,100,345,456,3,5,139,2,29
 Activité A3O1R1.1 Elaboration	15580
@@ -333,7 +336,7 @@ Activité16	17845
 Activité17	17845
 Activité3	17845
 Activité7 Organiser	17845
-Activités	765,418,2492,432,6749,19,1,30,69,2325,1,40,49,299,736,63,1,1,37,896,6,99,52,15,65,25,26,55,53,29,113,38,64,61,71,28,26,35,53,14,67,197,78,29,1097,26,13,8,1,15,64,36,4,27,19,86,3,165,5,19,590,42,181,27,66,5,29,41,4,116,16
+Activités	765,418,2492,432,6749,19,1,30,69,2325,1,40,49,299,736,63,1,1,37,896,6,99,52,15,65,25,26,55,53,29,113,38,64,61,71,28,26,35,53,14,67,197,78,29,1097,26,13,8,1,15,64,36,4,27,19,86,3,165,5,19,590,42,181,27,66,5,29,41,4,116,16,260
 Activités A1 A2 A3 A4 A5	10965
 Activités A1O1R1.1 Elaboration	15580
 Activités A1O1R2	15580
@@ -466,9 +469,11 @@ Advisory Activity	16863
 Advisory Issuance of Special Activity	16863
 Advocacy Activities	12977
 AfricTivistes CitizenLabs and Sahel Activistes	9201
-Agricultural Activities	17043
+Africa Activity	19808
+Agricultural Activities	17043,2672
 Agricultural Activities Agricultural	17043
 Agricultural Activities Practiced and Region	17043
+Agricultural Activity	19715
 Agriculture Activités	13341
 Akwa Ibom Activates High-Speed Internet Backbone	10229
 Alert Activation Workflow	17157
@@ -496,6 +501,7 @@ Assurer la Disponibilité de Activité	17845
 Axe Objectifs Actions Résultats Activités A1	10965
 Axe Objectifs Actions Résultats Activités Budget	10965
 Axe Objectifs Spécifiques Actions Résultats Activités	10965
+B. Progress of Implementation of Key Activities	19737
 BEAC Activité	10965
 BELOW IS THE ENGLISH VERSION ACTIVITIES	16182
 BLF EM Nº DE ACESSOS ACTIVOS	18791
@@ -507,6 +513,7 @@ Banking Activity Regime	11550
 Benchmarking SMEs Banking Activity	1828
 Benchmarking SMEs Banking Activity1 In the Republic	1828
 Benghazi Activity	16863
+Body ACTIVITY	19720
 Body South Sudan Activates Cybercrime Law	18727
 Boosting Local Economic Activity Beyond	13614
 Branches Effectif Pourcentage Activités	10875
@@ -559,6 +566,7 @@ Campost Activité	10965
 Can Two-Sided Activation Break the Cash Equilibrium	10277
 Cancelled Activity	15969
 Capacity ASSIGNED CAPACITY ACTIVATED CAPACITY AVAILABLE	16942
+Capacity Building Activities Overall	19776
 Capital Intensity and Activity Divergence	10954
 Cater for Registration Activities	19541
 Cater for Registration Activities Financial Approved Budget	19541
@@ -885,6 +893,7 @@ Identification Unique Activation du NUI	14480
 Illiteracy Activities	15578
 Immigration Activités	13341
 Implementation Plan Table Fir100 Activities Responsible	12356
+Implementation Schedule Month Key Activities Deliverable	19807
 Implementation Support Plan FM Activity Frequency	11525,4028
 Implementation and Monitoring of Gender Activities	13420
 Implementation and Monitoring of Gender Activities Finding	13420
@@ -933,6 +942,7 @@ Key Activity Schedule Ministry of Information Technology	14996
 Key Activity Schedule. Level	14763
 Key Functions and Activities NOSi	11891
 Key Government Activities and Current Developments	17364
+Key Infrastructure RoPA Records of Processing Activities	19801
 Kigoma Activists	2857,3026,94
 LEGAL FRAMEWORK Activities	17011
 LES ACTIVITES ECONOMIQUES DE L’ENTREPRISES ET	13390
@@ -954,6 +964,7 @@ Legal and Regulatory Instruments Package. Activity	12008
 Legitimidad Activa	16855
 Les Activités	998,16980
 Ley de Delimitación de Sectores de Actividad Económica	1701
+Liberalisation of Distribution Activities	19661
 Liberia. Activity Revenue and Enforcement Delay Monitoring	13042
 Libya Activates LY GOVREP Platform for Government Monitoring	5775
 License Activations	14921
@@ -992,11 +1003,14 @@ Macro Activities	11873
 Main Activities	10776,4405,1790
 Main Activities Protection	16580
 Main Activities Protection UNHCR	10864
+Main Activities Protection Uganda	19760
 Main Activities Throughout	16971
 Main Activity Main Institutions Primary School	11857
 Main Economic Activity	19613
 Main Economic Activity Male Female	12445
 Main Economic Activity Percentage	12445
+Main Purpose for Agricultural Activity	19715
+Main Purpose of Agricultural Activity	19715
 Mainstreaming Activities and Environmental Sustainability	6946
 Major Activities	14738
 Manuals and Codes Steps Activity Status Next	16853
@@ -1011,6 +1025,7 @@ Measures Core Activity	16943
 Milestone Activity	18950
 Minimum Viable Product Activités	19221
 Mining Sector No Interventions Activities	17011
+Minister. Activities	19847
 Ministry of Health. Activity	15800
 Ministry of Water Organizational Activate	17157
 Mobile Registration Service Mobile Registration Activities	16088
@@ -1089,6 +1104,7 @@ Operational Activities	14736
 Operational Activities and Performance	18576
 Operations and Facility Activation Lead	3833
 Opposition Activist Warns Against	7312
+Organization and Development of Co-curricular Activities	19783
 Organization of Statistical Activities	12419
 Otras Actividades	16969
 Otras Actividades Administración Pública	16969
@@ -1099,6 +1115,7 @@ Outline of Response Timelines Activity Timeline Notification	17099,15
 Output Activities Budget	13938
 Output Indicator Activity Estimates Baseline	18512
 Outras Actividades	18775
+Oversight Instruments and Activities	19664
 PAC Partial Activation of Contract PCC Partial	12062,6124,31
 PAD Client Information Activities At Appraisal	15424
 PAFEN. Activities	1284
@@ -1220,7 +1237,7 @@ Recherche Activité	17845
 Record Activities	10775
 Record of Processing Activities	6792,617,4547
 Records Activity	18481
-Records of Processing Activities	10721
+Records of Processing Activities	10721,9080
 Recovery Of Economic Activity For Liberian	17311
 Recovery of Economic Activities for Liberian Informal Sector	17311
 Recovery of Economic Activity for Liberian Informal Sector	16960,40
@@ -1266,6 +1283,8 @@ Réglementation des Activités Statistiques	16616,2589
 SA Activa VIE SA	16623
 SADC Structures and Activities The Unit	12962
 SASPP Activities SASPP	10866
+SCH Activities	19823
+SCH Activities Table	19823
 SCOPE OF ACTIVITIES	13097
 SCOPE OF ACTIVITIES Mr. Timothy Shangadi	13097
 SECÇÃO I CONDIÇÕES GERAIS DA ACTIVIDADE	11386
@@ -1359,6 +1378,8 @@ System Integration Activity	18481
 Système de Activité	10965
 Sénégal Activités Existence	18286
 T. Arts and Other Activities	13060
+TAPES Activités	19687
+TAT D'AVANCEMENT DES ACTIVITES DU PROJET	19687
 TAUX DE REALISATION DES ACTIVITES BUDGETISEES	15999
 TECHNIQUE DE ATTENDUS DE ACTIVITES TÂCHES	10975
 TIMELINE OF KEY ACTIVITIES AND MILESTONES	1920
@@ -1395,6 +1416,7 @@ Training Activity	12253
 Transport Activités	13341
 Transportation and Storage Activities	2775
 Type of Agricultural Activity	13455
+Type of On-Grid Activities	19646
 Type of Procurement Activity Actions Required	13331
 UN Fund for Population Activities	16293
 UNE ACTIVITÉ DU SECTEUR DE L’ÉLECTRICITÉ	15670

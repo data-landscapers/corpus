@@ -68,6 +68,7 @@ BELLO Arafa CCH	19251
 BOMBOMA Lenga CCH	19251
 BOUKARI N’gayi-Minamb CCH	19251
 BOYODI Essohouna CCH	19251
+BTS Base Transceiver Station CCTLD Country	19633
 Bakary Makanguilé. CCRP	7925
 Bank BoC Board of Commissioners of LERC CCRO	16978
 Bank for International Settlements CCSP	17032
@@ -78,6 +79,7 @@ Benefit Cost Ratio CCT Conditional Cash	18809
 Bid Windows BQ Budget Quote CCGT	11228
 Bill. The CCL	11977
 Bolsa de Valores de Cabo Verde CCV	17032
+Botswana Stock Exchange CCA	19664
 Branch CCSS	11986
 Broadcasting Authority of Zimbabwe CCTLD Country Code	13295
 Bulletin Statistiques CCAA	15542
@@ -92,6 +94,7 @@ CAT CAT-OP CCPR CCPR-OP1 CCPR-OP2-DP CED	11765
 CBDC CCBG CFT CMA CPI CSI	11131
 CBE Competence Based Education CCC Curriculum	12975
 CBM Condition-Based Maintenance CC Clean Cooking	12399
+CC Africa	19712
 CC Attribution	10323
 CC BY NC SA	14932
 CC BY-IGO	15715,696
@@ -102,8 +105,9 @@ CC BY-NC-SA	1225,1,1483,4239,3816,80,162,1,369,187,692,1634,99,910,25,548,253,1,
 CC BY-NCSA	2709
 CC BY-ND	12297
 CC BY-SA	4676,12611,1105,404,115,58
-CC BYNC-SA	15724
+CC BYNC-SA	15724,4120
 CC CONCLUSION	6671
+CC Computer Emergency Response Team	19639
 CC Conseil Constitutionnel CDPH Convention	18310
 CC Cyber Threat Advisories FY	6946
 CC Cyber Threats Detected FY	6946
@@ -134,7 +138,7 @@ CC and Others	6683
 CC&author	2096,3146
 CC- PRICI	15936
 CC-APDP-AES	15945
-CC-BY	6879,2601,2098,276,236,2841,783,2725,444
+CC-BY	6879,2601,2098,276,236,2841,783,2725,444,743,4
 CC-BY-4.0	16466
 CC-BY-4.0 Contact	16466
 CC-BY-4.0. ESRI	15129
@@ -145,6 +149,7 @@ CC-computed	13205,3067
 CC. Any	12201
 CC. Differing	12201
 CC. Em	8745
+CC. Figure	19639
 CC. Mondlane	12201
 CC. The Constitution	12201
 CC11635	13467
@@ -157,6 +162,8 @@ CCA Employment Direct	10841
 CCA Food Crisis Unit	18104
 CCA and CF	19571
 CCA and CFS	18198
+CCA and FIA	19664
+CCA and NBFIRA	19664
 CCA-Bank	2130,1649,364,6840
 CCA-Bank Cameroon	2130
 CCAF and Fii	8074
@@ -316,6 +323,7 @@ CCR-RG	17982
 CCR. Notons	18177
 CCRACRC	11900
 CCRGP. SECÇÃO II	12770
+CCRs and District	19715
 CCS Country Cooperation Strategy CHE	15725
 CCS MITUNGUU MEDICAL CLINIC Data Controller	7167
 CCS MITUNGUU MEDICAL CLINIC Data Processor	7167
@@ -337,7 +345,7 @@ CCT of US	11924
 CCT38	11986
 CCTA Talatona Convention Center	6628
 CCTIC	18767,5,16,157,1
-CCTLD	576,8272,6031
+CCTLD	576,8272,6031,4754
 CCTP-MIS	14487
 CCTV AND ACCESS CONTROL STANDARDS	34
 CCTV Closed	11380
@@ -486,6 +494,7 @@ Esimone CC	17773
 Etudes du Premier Cycle CCEAJ Centre Communautaire	18171
 Evaluation des Hôpitaux Result CCDSES Agence Nationale	17845
 Exhibits JS1 and CC1	13040
+Expedex CC	19651
 Faculty of Law. The CCL	11977
 Famille CCID	14760
 Financing Instrument Resp CC Req CC	16922
@@ -603,6 +612,7 @@ Mwanza CC and Ilemela MC Financial Statements	19585
 Mwanza CC-Pamba Jiji FC Increased	19585
 NABEDE Balabapawi CCH	19251
 NAPO Tagbe CCH	19251
+NATO CCDCOE	19801
 NERC CCU	12062,6124,31
 NERC’s CCU	12062
 NIKI Etanoki CCH	19251

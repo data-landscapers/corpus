@@ -12,6 +12,7 @@ Connectivity Providers Raxio Côte	10956
 Deep Tech Hub and Raxio Data Centre	5249
 General Manager Raxio DRC	11914
 General Manager of Raxio DRC	10506
+General Manager of Raxio Data Centre	19762
 IFC-48537. Raxio	2215
 Million Raxio Data Centre	11914
 Netherlands-based PAIX and Raxio	10861
@@ -21,7 +22,7 @@ RAXIO	1005
 RAXIO DATA CENTER SARL	1005
 RAXIO DATA CENTRE SARL SOCIÉTÉ	1005
 Raxanreeb Online	10059
-Raxio	1147,80,470,30,170,318,822,102,48,215,202,82,8,156,1204,195,705,517,320,468,29,464,84,1610,694,366,355,95,354,604,4631,3065
+Raxio	1147,80,470,30,170,318,822,102,48,215,202,82,8,156,1204,195,705,517,320,468,29,464,84,1610,694,366,355,95,354,604,4631,3065,72,46
 Raxio Abidjan	1005
 Raxio Angola	3686,7270
 Raxio CIV1 Data Centre	10956
@@ -31,8 +32,9 @@ Raxio Côte	3037,102,7817
 Raxio DRC	10506
 Raxio DRC1	1845,13,10056
 Raxio Data Centers	11310
-Raxio Data Centre	5249,6665
+Raxio Data Centre	5249,6665,7848
 Raxio Data Centres	1147,5,575,488,4817
+Raxio Discounts	19682
 Raxio Group	1727,131,39,318,105,717,567,82,739,370,1676,112,676,166,327,3204,184,170,604,7696
 Raxio Group Achieves Uptime Institute Tier	10956
 Raxio Group Customers	7752

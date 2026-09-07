@@ -221,14 +221,14 @@ Existence du Mécanisme de Gestion	14424
 Existence du Non Non Oui	17845
 Existence du Non Non Oui Oui Oui	17845
 Existence du Schéma Evaluer le Schéma Directeur du Système	17845
-Existence of Act	11553,2895,3861,269,209
+Existence of Act	11553,2895,3861,269,209,875
 Existence of Districts	19541
 Existence of Environmental Fiscal Instruments	12389
 Existence of Manual Birth Register	19541
 Existence of Procedure	12389
 Existence of Specialized Schools Inclusive	13016
 Existence of Statistics Units	19519
-Existence of Strategic	11553,6756,269,209
+Existence of Strategic	11553,6756,269,209,875
 Existenceofmedical-deviceorSoft-	8301
 Existencia	1701,15197
 Existencia de Decretos Presidenciales	16898
@@ -237,7 +237,7 @@ Existent	17441
 Existentes	16898
 Existiam	18802
 Existindo	18896
-Existing	27,881,50,3,200,67,33,553,4,49,121,274,71,144,275,196,482,174,257,292,49,58,172,221,36,511,44,8,802,378,400,1,107,162,38,53,175,83,97,3,1,11,148,194,61,206,111,18,302,2,122,60,101,240,759,49,221,58,200,122,80,104,42,66,32,145,11,112,4,2,3,2,125,11,22,26,159,70,302,12,33,94,55,51,101,9,36,9,42,36,62,17,552,131,200,19,17,13,3,11,37,67,219,257,87,596,197,10,3,3,61,20,20,12,50,42,90,9,106,98,69,4,58,7,38,83,60,52,499,54,577,59,37,3,76,96,43,55,38,7,3,397,213,608,78,8,261,106,54,252,218,64,56
+Existing	27,881,50,3,200,67,33,553,4,49,121,274,71,144,275,196,482,174,257,292,49,58,172,221,36,511,44,8,802,378,400,1,107,162,38,53,175,83,97,3,1,11,148,194,61,206,111,18,302,2,122,60,101,240,759,49,221,58,200,122,80,104,42,66,32,145,11,112,4,2,3,2,125,11,22,26,159,70,302,12,33,94,55,51,101,9,36,9,42,36,62,17,552,131,200,19,17,13,3,11,37,67,219,257,87,596,197,10,3,3,61,20,20,12,50,42,90,9,106,98,69,4,58,7,38,83,60,52,499,54,577,59,37,3,76,96,43,55,38,7,3,397,213,608,78,8,261,106,54,252,218,64,56,72,98,15
 Existing AI	1814
 Existing Account Harmonization	14055
 Existing Activity	15969
@@ -260,11 +260,13 @@ Existing Eritrean	14072
 Existing Eskom	11228
 Existing Ethiopia Fundim1	4349
 Existing Ethiopia Funding	4349
+Existing Evidence Base	19807
 Existing FO	14897
 Existing Federal Republic of Nigeria FlUlding	4301
 Existing Federal Republic of Nigeria Fundine	4301
 Existing Federal Republic of Nigeria Funding	4301
 Existing Federal Republic ofNigeria Fundine	4301
+Existing Fiber	19728
 Existing Forms of Safety Evidence	8301
 Existing Frameworks	12675
 Existing Frameworks The Bridgforte Trust Architecture	11138
@@ -272,6 +274,7 @@ Existing Generation Fleet	11228
 Existing Government of Kenya Funding	4153
 Existing Government of Rwanda Funding	4167
 Existing Government of Uganda Funding	4217
+Existing Government of Uganda G2P Payment Platforms	19647
 Existing Guidelines	7548
 Existing Information Systems	5349
 Existing Infrastructure Compute	11209
@@ -299,12 +302,13 @@ Existing Payments System Infrastructure Across ECOWAS	807
 Existing Platforms Duration	12728
 Existing Policy Instruments	5244
 Existing Policy Instruments Liberia	5244
+Existing Policy and Legislation	19646
 Existing Shareholders	4896
 Existing Solution	13037
 Existing Statutes and Alignment Proposals	7548
 Existing Statutes and Alignment Proposals Fundamentally	7548
 Existing Subcomponent	15969
-Existing Systems	736
+Existing Systems	736,18963
 Existing Systems Agencies	12157
 Existing Systems and Their Role	16600
 Existing Transmission Lines	12358
@@ -323,7 +327,7 @@ Exit Customer	5679
 Exit Gate	17367
 Exit Gate Picture	15478
 Exit Item Summary	4896
-Exit Management	6432
+Exit Management	6432,13369
 Exit North Africa	4972
 Exit Offer	4263,633,642
 Exit Offer Premium	4896
@@ -398,6 +402,7 @@ INSERT Existing	5352
 INVENTAIRE DES INITIATIVES EXISTANTES SUR	16621
 INVENTAIRE ET DESCRIPTION DES INITIATIVES EXISTANTES	16621
 INVESTOR PARTICIPATION EXITS FUNDRAISING	4972
+ITFC and Exim Bank	19823
 ITWeb China EXIMBANK Phase IV	4207
 Illustration of Exit	4896
 India Exim Bank	381,307,14668,28
@@ -496,6 +501,7 @@ Regulate Postal and Courier Services No. of Existing	15716
 Rejection of Existing Burdensome Assets	12389
 Review of Existing Agreements	11995
 Review of Existing Bilateral Roaming Agreements Wholesale	17212
+Review of Existing Frameworks and Evidence	19807
 Review of Existing Policies	16975
 Revise Existing	4653
 Risco Existencial	11436

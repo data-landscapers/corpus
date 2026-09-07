@@ -58,6 +58,7 @@ Amended Broad-Based Black Economic Empowerment	11235
 Amindeh Blaise Atabong	2301,36,51,531,115,44,155,102,773,1229,253,29,80,594,4669
 Anastasia Blanche Conseiller PME MBOUNGOU Née	16012
 Andreas Blom Task Team Leader	17458
+Andreas Blom Task Team Leaders	19835
 Animal Health Regional Blood Safety Laboratories	4153
 Announcing the Blue and Raman	13839
 Anthony Mburu Blog	10246
@@ -67,7 +68,10 @@ Any Building Block	6423
 Application Building Blocks	14965
 Applying the Blue Economy Approach	17458
 Architecte Blaise Ouo Foromo	16611
-Architecture Building Block	6423
+Architectural Building Blocks	19638
+Architectural Building Blocks Each Architecture Building	19638
+Architecture Building Block	6423,13215
+Architecture Building Blocks	19638
 Artificial Intelligence for Africa Blueprint. Smart Africa	1243
 As-Is Blueprint	14921
 Asato-Gyamurume Iron Ore Block	16511
@@ -425,7 +429,7 @@ Blantyre Street Address	13185
 Blantyre Urban and Neno	13095
 Blantyre ZIP	13185
 Blantyre ZIP Code	13185
-Blantyre and Blantyre Free Market	16789
+Blantyre and Blantyre Free Market	16789,3028
 Blantyre and Chikwawa District Hospitals	13122
 Blantyre and Digital Malawi Project	12214
 Blantyre and Liwonde	9945
@@ -436,14 +440,14 @@ Blantyre. Lilongwe	1632
 Blantyre. Malawian President Lazarus Chakw	483
 Blantyre. Part	12988
 Blantyre. Principal	13053
-Blantyre. Prosper Mopiwa	16789
+Blantyre. Prosper Mopiwa	16789,3028
 Blantyre. Provides	14674
 Blantyre. Support	1704
 Blantyre. Typical	13191
 Blapleu	3317
 Blast	9123
 Blast and Terrorist Attack	9123
-Blasting	1988
+Blasting	1988,17773
 Blasting Flying	1988
 Blasting Money and Local Liquidity Key	12978
 Blattman	10964
@@ -458,7 +462,7 @@ Bleek Marcel REMONDO	16175
 Blend IDA	11469
 BlendCollage-1024x682.jpg	18486
 BlendCollage-300x225.jpg	18486
-Blended	6668,880,924,1023,264,1082,350,1208,2598,942,1218
+Blended	6668,880,924,1023,264,1082,350,1208,2598,942,1218,2659
 Blended ARPU	13344
 Blended Arrangements	17909,81
 Blended Average	14707
@@ -505,7 +509,7 @@ Blidi Elliott	16934,136,121
 Blife	3782
 Blight	3782
 Blikkiesdorp NDC Stalls Rehoboth Skou Saal	13046
-Blimpo	16942,2303
+Blimpo	16942,2303,401
 Blind	571,328,6047,3575,1454,63,4912,1493,72
 Blind Act	8022
 Blind Classroom	13095
@@ -531,7 +535,7 @@ Blobel	8606
 Blobs	12360
 Bloc Républicain	4162,2130
 Blocage	2828,6737,5354,1024,352,33
-Block	958,340,278,15,1,23,65,109,1,1,1,42,127,13,16,6,18,352,11,573,10,84,65,7,60,121,63,26,151,101,1,76,79,74,19,16,38,339,62,38,177,84,88,141,62,234,74,574,12,40,120,59,378,4594,248,20,120,180,270,401,29,79,1098,214,1149,2018,1700,1049
+Block	958,340,278,15,1,23,65,109,1,1,1,42,127,13,16,6,18,352,11,573,10,84,65,7,60,121,63,26,151,101,1,76,79,74,19,16,38,339,62,38,177,84,88,141,62,234,74,574,12,40,120,59,378,4594,248,20,120,180,270,401,29,79,1098,214,1149,2018,1700,1049,46,40
 Block B	14455,3269
 Block C	2776,9224,269,1,220,971,1
 Block Chain	2868,10478
@@ -557,9 +561,10 @@ Block of Flats	11129
 Block-4c	3893,977
 Block-5	4557
 Block-7	6588
+Block-chain	19633
 BlockTower	9367
 BlockTower CEO Vighnesh Patel	9367
-Blockchain	961,222,32,16,1038,19,45,14,9,24,65,84,4,11,2,4,12,38,10,6,3,8,49,4,136,285,243,278,30,66,422,265,123,98,430,282,332,124,146,163,149,27,81,98,164,56,209,51,125,238,23,224,249,808,632,469,3,246,1441,1,279,193,75,187,79,30,119,94,59,833,1,55,181,723,424,20,1,2,38,29,178,479,108,135,217,1224,591,568,127,39,1047,1
+Blockchain	961,222,32,16,1038,19,45,14,9,24,65,84,4,11,2,4,12,38,10,6,3,8,49,4,136,285,243,278,30,66,422,265,123,98,430,282,332,124,146,163,149,27,81,98,164,56,209,51,125,238,23,224,249,808,632,469,3,246,1441,1,279,193,75,187,79,30,119,94,59,833,1,55,181,723,424,20,1,2,38,29,178,479,108,135,217,1224,591,568,127,39,1047,1,127
 Blockchain Advisory Group	9170
 Blockchain Africa	9955
 Blockchain Association	8298
@@ -644,7 +649,7 @@ Blomberg N	14666
 Blonchimenl	15429
 Blonda	15129
 Blong-standing	4676
-Blood	10481,569,1927,2229,1765
+Blood	10481,569,1927,2229,1765,2741
 Blood Bank	16971,2614
 Blood Bank Refrigerators	19585
 Blood Collection	2775
@@ -726,9 +731,10 @@ Blue Cloud Softech Solutions	10518
 Blue Cloud Softech Solutions. The MoA	10518
 Blue Collar Jobs Gender	16266
 Blue Concept	11188
+Blue Crane Communications	19698
 Blue Eagle Sacco Data Processor INST-522993FD0F6	7167
 Blue Earth Capital	1140
-Blue Economy	1257,9091,837,678,2404,551,1553,2406,147,24,1,8,104,105
+Blue Economy	1257,9091,837,678,2404,551,1553,2406,147,24,1,8,104,105,477
 Blue Economy Department of Seychelles	10112
 Blue Economy Development Transforming the Sector	17808
 Blue Economy Madam Speaker	14829
@@ -813,7 +819,7 @@ Blueline Kennels Limited	7167
 Blueline Security Data Controller INST-488388D184C NAKURU	7167
 Blueline Security Data Processor INST-488388D184C NAKURU	7167
 Bluepony	3528,643
-Blueprint	899,62,282,857,817,1209,700,537,1999,1762,1695,314,1008,69,149,936,903,142,226,182,4,20,2,12,43
+Blueprint	899,62,282,857,817,1209,700,537,1999,1762,1695,314,1008,69,149,936,903,142,226,182,4,20,2,12,43,4810,2
 Blueprint Action Plan	635
 Blueprint By Megan Levanduski	17748
 Blueprint Development Guidelines	12359
@@ -1053,6 +1059,11 @@ Franck Simon Blehiri	10940
 Fullshangwe Blog	11627
 Funded TC None. and Blended Concessional	1818
 Further Reading Thought Leadership Blog	19595
+GIF Principle GIRA Solution Building Block	19638
+GIRA Architecture Building Block	19638
+GIRA Architecture Building Blocks	19638
+GIRA Solution Building Block	19638
+GIRA Solution Building Blocks and TOGAF	19638
 GOV.UK and Irembo Blueprints	6277
 GOVERNING THE BLIND SPOT	10570
 GSMA Mobile for Development Blog	11004,960
@@ -1119,6 +1130,7 @@ Indiana University Bloomington. Aadyaa Maddi	7711
 Indonesia Payment Systems Blueprint	11994
 Information Mediator Building Block	6423
 Information Mediator Building Block. Client	6423
+Infrastructure Blueprint	19641
 Innocent J. Blacius	12478
 Innovative Blended Pedagogy	19565
 Innovative Model Combining Block Farming	848
@@ -1130,6 +1142,7 @@ Internet Governance Blueprint	8343
 Internet of Things and Blockchain	11956
 Invalid Votes Total Blank Votes	12201
 Investigate the Cause of Nationwide Blackout	19607
+Ivoire Frédérick Blédou Expert-Comptable Diplômé Associé	19850
 JSE-listed Blu Label Unlimited	11159
 Jean Blaise	16100
 Jean Blaise MAYOGO	16175
@@ -1217,6 +1230,7 @@ Mbps BLF	18791
 Measurement Bandwidth Block	14780
 Media Blank	13053
 Meta Blueprint	10133
+Micro Blogging	19728
 Microsoft Azure Blog	411
 Microsoft Bing Blogs	13461
 Microsoft Blogs	11135
@@ -1260,6 +1274,9 @@ Ms Blessing Oladunjoye	18211
 Mtama DC Blood Bank	19585
 Muriel Blanche	16505
 Mya Blue	9739
+Myers' Blended Index	19715
+Myers' Blended Index and UN Joint	19715
+Myer’s Blended Index of Age Preference	19715
 N.d. Blank	11868
 NBS Bank and Blantyre City Council	5312
 NETS RAR RECOUVRE SUITE BLOCAGE MONTANT	16328
@@ -1451,6 +1468,10 @@ Smart Cities Blue Print for Africa	14869
 Social Media Shutdowns and Blockage of Websites	13313
 Socio-economic and Policy Analysis A BLUEPRINT	11133
 Solana Blockchain	4127
+Solution Building Block	19638
+Solution Building Block. Based	19638
+Solution Building Blocks	19638
+Solution Building Blocks Figure	19638
 Somali Blind Diaspora	15009
 Somnoma Blaise DJIGUEMDE.Au	7670
 Son Excellence Monsieur Roberto Blanco	17841
@@ -1533,11 +1554,13 @@ World Bank Blogs Data Blog Data	17338
 World Bank Group More Blogs	17338
 World Economic Forum Blueprint	10819
 World Economic Forum. This Blueprint	10819
+World Education Blog	19657
 Worship Cllr Blasius Goraseb	13044
 X Blade	11209
 X HPe Synergy Blade Enclosure	11209
 X HPe Synergy Blade Server BL480	11209
 X HPe Synergy Blade Servers BL660	11209
+Xchange Point Blog	19682
 Y BLOQUERIAS EN GENERAL	4209
 Y BLOQUERIAS EN GENERAL TALLERES	4209
 Y SOCIETE BLUE LINE GUINEE SA	16623

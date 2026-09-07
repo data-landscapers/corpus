@@ -24,12 +24,14 @@ GLOSSAIRE DES TERMES ET ABREVIATIONS Accès	18204
 GLOSSAIRE DES TERMES TECHNIQUES UTILISES	15685
 GLOSSAIRE DES TERMES TECHNIQUES UTILISES Termes	15685
 GLOSSAIRE Taux Net	18171
-GLOSSARY	1243,1941,1,1340,2679,3577,38,176,1432,537,1518,605,570,1258,36,163,2397,64,1
+GLOSSARY	1243,1941,1,1340,2679,3577,38,176,1432,537,1518,605,570,1258,36,163,2397,64,1,57
 GLOSSARY A ACCELERATOR	14879
 GLOSSARY AI Artificial Intelligence ASN Autonomous	10861
+GLOSSARY AML	19664
 GLOSSARY AND ABBREVIATIONS	12675
 GLOSSARY Acronyms Description	11857
 GLOSSARY AfDB African Development Bank CDMU	16188
+GLOSSARY Bandwidth	19633
 GLOSSARY Competency	12914
 GLOSSARY Geoinformation	16915
 GLOSSARY Information Communications Technology	958
@@ -37,12 +39,13 @@ GLOSSARY Internet	582
 GLOSSARY OF KEY DATA GOVERNANCE TERMS	3861
 GLOSSARY OF KEY TERMS	16926,85
 GLOSSARY OF KEY TERMS Consultation	16926
-GLOSSARY OF TERMS	12240,289,45,349,1964,3732
+GLOSSARY OF TERMS	12240,289,45,349,1964,3732,1027
 GLOSSARY OF TERMS Adequacy	12923
 GLOSSARY OF TERMS AfDB	14934
 GLOSSARY OF TERMS Artificial Intelligence	12453,892
 GLOSSARY OF TERMS Digital Health Use	12240
 GLOSSARY OF TERMS Disability Inclusion	14887
+GLOSSARY OF TERMS Term Definition	19646
 GLOSSARY Table	16951
 GLOSSARY Term Definition Access Control Role-based	12675
 GLOSSARY1 Build	19520
@@ -52,7 +55,7 @@ Glossaire	3857,11615,436,1915,1,1402
 Glossaire BM	14472
 Glossaire Confidentialité	15908
 Glossaire des Nations Unies	16104
-Glossary	582,376,639,1565,1970,533,777,1904,2473,311,63,83,10,636,73,232,133,4,282,29,246,1070,443,440,468,73,1459,77,2623
+Glossary	582,376,639,1565,1970,533,777,1904,2473,311,63,83,10,636,73,232,133,4,282,29,246,1070,443,440,468,73,1459,77,2623,68,22,21,64
 Glossary AI Artificial Intelligence ASN Autonomous	10781,3701
 Glossary Advanced Digital Skills	14915
 Glossary Agent	11994
@@ -62,11 +65,13 @@ Glossary Autonomous	15415
 Glossary B2B Business-to-Business	8590
 Glossary Below	3184,1,1340,6470,1432
 Glossary Chain	11286
+Glossary Cleaner Production	19642
 Glossary Executive Summary The Independent Communications	11259
 Glossary Glossary Cyber	15342
 Glossary Term Definition ABAC Attribute-Based Access	11952
 Glossary and Abbreviations	12675,1795,4015
 Glossary and Acronyms	19510
+Glossary and Basic	19749
 Glossary and Institutional Framework	18889
 Glossary of Abbreviations	14674
 Glossary of Abbreviations Term Description AI Artificial	14674
@@ -75,7 +80,7 @@ Glossary of Definitions	1597
 Glossary of Definitions and Statistical Items	12338
 Glossary of Key AI Terms Purpose	4528,7984
 Glossary of Key Data Governance Terms Access	3861
-Glossary of Key Terms	10901
+Glossary of Key Terms	10901,8789
 Glossary of Key Terms Complainant	18504
 Glossary of Terms	8670,2580,5713,12
 Glossary of Terms AML	11861

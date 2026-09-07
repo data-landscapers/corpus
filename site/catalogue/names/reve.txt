@@ -35,12 +35,16 @@ Amends Ghana Revenue Authority Act	15459
 Amhara Bureau of Revenue	8102
 Angola Revenue Administration	10762
 Annual Commercial Data Center Revenue	10781,1646
+Annual Data Revenue	19728
 Annual Gross Revenue	4610
 Annual PA12b S Revenue Requirements	10779
 Annual Revenue Requirements	10779,601
+Annual Tower Lease Revenue	19728
+Annual Voice Revenue and Voice ARPU	19728
 Annualised Revenue Run-Rate for Sikaflow	9977
 Anti-Corruption Commission LRA Liberia Revenue Authority	17139
 Approach for Enhancing Domestic Revenue	14932
+Approved Estimates of Revenue and Expenditure	19660
 Approved July-December Six Revenue	5655
 Approved Revenue Budget	17011
 Arab States Towards Reversing Discrimination	16951
@@ -57,7 +61,7 @@ Autres Sources de Revenus ASSIMPER	15027
 Autres Sources de Revenus Ingingo	15027
 Average Revenu	19440
 Average Revenue	14897
-Average Revenue Per User	3898,2102,11,89,9607,2737
+Average Revenue Per User	3898,2102,11,89,9607,2737,1284
 Average Revenue Per User CDMA	6000
 B. Non-Tax Revenue	19602
 BOOSTING TAX REVENUE IN THE REPUBLIC	1828
@@ -97,13 +101,14 @@ Boosting Tax Revenue	1828
 Botswana Unfied Revenue Service	3887
 Botswana Unified Revenue Service	3846,23,18,3190,5462,59,31,4
 Botswana Unified Revenue Service Act	12629
-Botswana Unified Revenue Services	12551,47
+Botswana Unified Revenue Services	12551,47,7103
 Breakdown of Revenue	11250,6000
 Broadcasting License Revenue Market	12395
 Broadcasting Market Revenue	12395
 Broadcasting Revenue	12395
 Broadcasting Sector ICT Profile Revenue Employment	12395
 Budget Total Domestic Revenue	19602
+Budget and Revenue Projections	19666
 Budget. Revenue Performance	13122
 Building Non-Oil Revenue Mobilization	3583
 Bujumbura. The Burundi Revenue Authority	4710
@@ -374,7 +379,7 @@ Goewermentskennisgewi SOUTH AFRICAN REVENUE SERVICE NO	11233
 Good. Revenue	13654
 GovPay Revenue Platform	17216
 Governance Revenue Management of Procurement of Service	3051
-Government Revenue	17235,2297
+Government Revenue	17235,2297,291
 Government Revenue and Tax Composition Trends	10997
 Government Revenues Collected	16848
 Government's Consolidated Revenue Account	17314
@@ -383,6 +388,7 @@ Grain Storage Revenue	2775
 Gross Annual Revenue	8622,1785
 Gross Annual Revenues	9781
 Gross Revenue	17250
+Gross Telecom Sector Revenue	19728
 Group Service Revenue	3898,2202
 Génératrices de Revenu	16012
 Hai DC TAUSI Revenue	19585
@@ -391,6 +397,7 @@ Hanang' DC TAUSI Revenue	19585
 Handeni TC TAUSI Revenue	19585
 Harare and Bindura Government Reverses	3003
 Harmonizing Revenue	17216
+Hastened Revenue Collection	19697
 Head of Fraud and Revenue Assurance	10580
 Head of Revenue	5124
 Heads of Revenue	5124
@@ -428,7 +435,7 @@ IMPOTS SUR LES REVENUS	15999
 IMPOTS SUR LES REVENUS CHAPITRE	16047
 INTRODUCTION The Ghana Revenue Authority	15600
 IV. Enabling Factors for Enhancing Revenue Yields	12948
-Implement Revenue Protection	12563
+Implement Revenue Protection	12563,7114
 Improve Revenue NRA	18577
 Improving Compliance and Revenue Assurance Related	15120
 In-Year Reports Year-End Reports REVENUE CITIZEN	15089
@@ -469,6 +476,7 @@ Joint Revenue Tax	11947
 Jonathan Revell	14700
 Jonglei State. South Sudan Revenue Authority	3583
 Jun Total Revenue	14985
+June-25 Revenue Figure	19728
 Jurisdiction the Nigeria Revenue Service	11976
 KRA Kenya Revenue Authority	12297
 KRA Sustains Revenue Growth Despite Economic	14932
@@ -693,16 +701,20 @@ Nigerian Revenue Service	4629,2865,10689
 Niveau de Revenu	13390
 Non Revenue Water	15659
 Non Tax Revenue	5655
+Non Tax Revenues Non-Tax Revenue	19761
 Non-Fiscal Revenue	14985
 Non-Interest Revenues	17236
 Non-Oil Revenue	10997
 Non-Remittance of Collected Revenue	19585
-Non-Tax Revenue	2757,14348,130,1353
+Non-Tax Revenue	2757,14348,130,1353,1124,31,1,17
 Non-Tax Revenue External Revenue	17011
 Non-Tax Revenue Portal	15148
 Non-Tax Revenue Portal Across Different MDAs	8669
+Non-Tax Revenue Refund	19761
 Non-Tax Revenue System	19585
 Non-Tax Revenue System-Property Rate Management System	19585
+Non-Tax Revenues	19712
+Non-Tax Revenues Non	19712
 Non-Taxed Revenue	17216
 Non-oil Revenue CAMEROON	10997
 Non-oil Revenue Mobilization	1828
@@ -717,6 +729,7 @@ OPERATING COST CATEGORY CAPEX REVENUE	3862
 OPERATING REVENUES	15411
 OPTIMISING REVENUE COLLECTION	12951
 OVERALL REVENUE PERFORMANCE	14985
+Offnet Annual Voice Revenue	19728
 Oil Revenue	10997,7800
 Oil Revenue Differential Financial Reserve	10779
 Oil Revenue Stabilization Account	3583
@@ -775,6 +788,7 @@ Procurement Authority NRA National Revenue Authority	18488,89
 Procurement of Additional Reverse Osmosis Treatment	14830
 Prohibition of Reverse Engineering and Technical Tampering	15198
 Proportion of Own Source Revenues	13418
+Protect Public Land and Boost Revenue	19764
 Public Debt Statements and The Receiver of Revenue	14546
 Public Procurement Authority NRA National Revenue	18500
 Public Sector Revenue	13479
@@ -846,6 +860,7 @@ Receivers of Revenue	13420
 Reinforcement Uses Reversals	11955
 Repository Reveals About Data	7313
 Required Breakeven Revenue	10738
+Required Revenue	19731
 Research and Statistics Department Revenues	17236
 Resemble.ai Flipsnack REVERCE GmbH FullBet.gr Rupestėlis	8530
 Resemble.ai REVERCE GmbH Roelf	8530
@@ -890,7 +905,7 @@ Revenu des Personnes Physiques	6954,9045
 Revenu des Personnes Physiques IS Impôt	10712
 Revenu des Personnes Physiques Impôts	16328
 Revenu des Valeurs Mobilières	2342
-Revenue	236,337,201,150,89,350,271,194,116,52,761,294,110,13,236,77,50,46,279,36,504,161,265,68,228,223,186,122,214,131,20,119,746,155,387,221,223,26,10,5,124,88,1,283,22,240,115,58,270,526,96,24,48,132,38,241,117,146,258,23,1,2,10,18,63,14,90,37,4,130,3,2,4,58,13,20,4,27,9,198,486,21,10,76,114,32,25,89,73,105,422,29,5,20,66,2,9,69,192,101,3,11,32,163,30,214,261,56,339,183,29,25,58,77,33,56,12,7,62,82,21,113,337,40,43,23,27,6,32,134,600,195,114,135,2,3,5,33,94,34,70,26,15,7,17,229,204,41,121,24,97,196,31,227,22,22,12,108,215,28,56,22,517,86,52,1,17,2
+Revenue	236,337,201,150,89,350,271,194,116,52,761,294,110,13,236,77,50,46,279,36,504,161,265,68,228,223,186,122,214,131,20,119,746,155,387,221,223,26,10,5,124,88,1,283,22,240,115,58,270,526,96,24,48,132,38,241,117,146,258,23,1,2,10,18,63,14,90,37,4,130,3,2,4,58,13,20,4,27,9,198,486,21,10,76,114,32,25,89,73,105,422,29,5,20,66,2,9,69,192,101,3,11,32,163,30,214,261,56,339,183,29,25,58,77,33,56,12,7,62,82,21,113,337,40,43,23,27,6,32,134,600,195,114,135,2,3,5,33,94,34,70,26,15,7,17,229,204,41,121,24,97,196,31,227,22,22,12,108,215,28,56,22,517,86,52,1,17,2,29,44,35,111,3
 Revenue Accounting	12491
 Revenue Accounts	17030
 Revenue Administration	1155,673,9312,1360,448,676,3344,1520,12,77,352,93
@@ -927,6 +942,7 @@ Revenue Authority ZINWA Zimbabwe National Water	13420
 Revenue Authority. Client Code Client Code	13333
 Revenue Authority. Rationale	15924
 Revenue Automation The Commission	9939
+Revenue Center	19712
 Revenue Characteristics	4896
 Revenue Characteristics Econet InfraCo	4896
 Revenue Code	16947,2
@@ -992,8 +1008,8 @@ Revenue Management Budget	11939
 Revenue Management System	14830
 Revenue Measures	13122,3983
 Revenue Measures and Yields	18823
-Revenue Mobilisation	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,5988
-Revenue Mobilisation Absence of Crime	10835,3,130,902,16,466,1,135
+Revenue Mobilisation	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,5988,1176,1,169,14
+Revenue Mobilisation Absence of Crime	10835,3,130,902,16,466,1,135,7334
 Revenue Mobilisation Allocation and Fiscal Commission	11976
 Revenue Mobilisation Budgetary	10759,78,1315,188
 Revenue Mobilisation Strategy	13685,4815
@@ -1024,6 +1040,7 @@ Revenue Policy Reforms	13060
 Revenue Potential	10997
 Revenue Program Sponsorship	1944
 Revenue Property	4896
+Revenue Protection	19677
 Revenue Protection Program	12195,163,3301,310,685
 Revenue Protection Programme	15969
 Revenue Ratio	16968
@@ -1031,6 +1048,7 @@ Revenue Ratio Improve	16968
 Revenue Recognition	15169
 Revenue Reconciliation	18577
 Revenue Reforms	15148
+Revenue Requirement	19677
 Revenue Revenue	1154
 Revenue Revenue Sharing	19532
 Revenue Roadmap	14929
@@ -1087,7 +1105,7 @@ Revenue-Sharing Regulations	16970
 Revenue-based	1828,5970,7407
 Revenue-generating ICT	15164
 Revenue. SCR	18947
-Revenues	573,145,295,931,1639,624,2739,592,3444,154,727,92,278,820,571,244,142,886,69,32,476,1763,673,81,319
+Revenues	573,145,295,931,1639,624,2739,592,3444,154,727,92,278,820,571,244,142,886,69,32,476,1763,673,81,319,1368
 Revenues AVERAGE FUNDING ALLOCATION	15460
 Revenues Net Profit Assets Liabilities Shareholders	1944
 Revenues Output	14935
@@ -1096,7 +1114,7 @@ Revenues and Expenses	14032
 Revenues of Councils	12531
 Revenues. Projected	13868
 Revenues. Tax	17503
-Revenus	7655,7879,80,385,48,297,1141,355,132,11,80,253,6,1118
+Revenus	7655,7879,80,385,48,297,1141,355,132,11,80,253,6,1118,410
 Revenus AE Agence	15746
 Revenus Chiffre	19440
 Revenus Fonciers	15797
@@ -1251,6 +1269,7 @@ Tax Revenue Composition	10997
 Tax Revenue Contributors Registered	18792
 Tax Revenue Domestic	5655
 Tax Revenue In The Republic	1828
+Tax Revenue Mobilization	19847
 Tax Revenue Performance	13053
 Tax Revenue System	18577
 Tax Revenue The Ministry of Finance and Economic	17216
@@ -1280,13 +1299,15 @@ Transit Revenue Accounts	13053
 Treasury Management and Revenue Assurance System’for	2527
 Trident Begins Commercial Rollout of Ghana Revenue	6335
 Type and Net Revenue Effect	13624
+UNBS Non-Tax Revenue	19712
 UNDP.62 The Burundi Revenue Authority	13314
 UNU-WIDER Government Revenue Dataset. Version	16949
 UNU-WIDER Government Revenue Dataset’. Version	16949
 US Internal Revenue Service	11685
 USD Sector Revenues	14897
 USE OF DIGITAL REVENUE RECEIPTS Publication	15065
-Uganda Revenue Authority	184,2560,563,393,238,17,393,3,257,145,641,738,303,141,213,640,317,977,423,1056,79,107,176,35,1496,224,2043,18,104,3073,62
+Uganda Revenue Authority	184,2560,563,393,238,17,393,3,257,145,641,738,303,141,213,640,317,977,423,1056,79,107,176,35,1496,224,2043,18,104,3073,62,2014,8,87,5,33,1,18,11,17
+Uganda Revenue Authority URL	19796
 Uganda Revenue Authority. The SSRA Commissioner	10599,6958
 Unanswered Revenue Questions	8393
 Unbanked Revenue Collection TZS	19585
@@ -1311,6 +1332,7 @@ Videos Liberia Revenue Authority Typically	16999
 Voice Services Revenue Data Services Revenue	12395
 Voice Services Revenue E1	12395
 Women Customs Revenue NIGER Scorecard	16631
+World Bank Tax Revenue Dashboard	19847
 World Revenue Longitudinal Database	6593
 X6F Revenues	18032
 Year Reporting of Revenue Collection	14546

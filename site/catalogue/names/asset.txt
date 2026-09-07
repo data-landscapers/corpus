@@ -53,13 +53,15 @@ Asset Forfeiture	13474
 Asset Forfeiture Department	13466
 Asset Identification	15054
 Asset Item Structure Item	17236
-Asset Management	9098,1452,4188,81,146,32,57,26
+Asset Management	9098,1452,4188,81,146,32,57,26,4721
 Asset Management Content and Portals	16040
 Asset Management Corporation LCOE Levelized	12233
 Asset Management Corporation of Nigeria	8157,134
 Asset Management Information System	16922
+Asset Management Organizations	19801
 Asset Management Plan	11218
 Asset Management Regulations	15147
+Asset Management and Projects	19663
 Asset Manager	14828,3
 Asset Managers	4896,8636
 Asset Name and Link	7662
@@ -100,7 +102,7 @@ AssetCo	10993
 Assetless Companies Fund	18556
 Assetou DIARRA Trésorière	18032
 Assetou Zongo	10881
-Assets	1944,831,1753,368,453,564,1285,296,168,1830,214,1012,413,100,724,21,382,31,123,444,97,367,612,687,49,229,26,221,248,1622,121,1,1678,65
+Assets	1944,831,1753,368,453,564,1285,296,168,1830,214,1012,413,100,724,21,382,31,123,444,97,367,612,687,49,229,26,221,248,1622,121,1,1678,65,733,59
 Assets Act	13076
 Assets Act PSC Public Service Commission	13420
 Assets Africa	9119
@@ -148,6 +150,7 @@ Bank Assets.......8 Figure	10718
 Banking Sector Indicators Capital Adequecy Asset	11131
 Base Asset	12882
 Board and Staff Transfer of Assets Transitional Provision	16833
+Botswana's Public Procurement and Asset Disposal Board	19677
 Britam Asset Managers	7167
 Business-to-Consumer Digital Assets Tax B2C	14932
 C. Net Acquisition of Nonfinancial Assets	19602
@@ -320,6 +323,7 @@ High Value Information Assets	16924
 High Value Information Assets IaaS Infrastructure	16923
 High-Quality Liquid Assets IOSCO International Organization	14997
 Household Asset	18470
+Household Assets	19715
 IAR Immovable Assets Register ICT Information	11261
 ICT Asset Management Policy	15164
 ICT Assets	19576
@@ -339,11 +343,12 @@ Industry and Competition CARA Criminal Assets Recovery	11986
 Information Infrastructure Assets CM-NSCI	10721
 Information and Assets	19527
 Institutional Wall and Forced Asset Sweeps	7909
-Intangible Assets	11955,2781
+Intangible Assets	11955,2781,4976
 Intangible Assets Certain	14736
 Intangible Assets Cost of Intangible Assets	14736
 Integrated Georreferenced Assets Management System	11939
 Integrated State Asset Management System	10768
+Inventory Book and Asset	19783
 Investment Asset	15014
 Issuance Platform Virtual Asset Broker Virtual	10738
 Item of Intangible Assets Years Computer	11955
@@ -378,6 +383,7 @@ Meter Asset Providers	12062,6124,31
 Meter Asset Providers. Forty-eight	12062
 Micro-Finance Banks Assets and Liabilities	2775
 Migration NDA Net Domestic Assets NDCS	17105
+Million Digital Health Systems Assets	19771
 Ministry of Works and Public Assets	18504
 Ministry of Works and Public Assets MWR	18485
 Ministério-Justiça Asset Publisher Menu Display Menu	6530
@@ -402,7 +408,7 @@ National Virtual Asset Literacy Initiative	9534
 National Virtual Assets Education Manual	9534
 Need for Physical Space and Networking Assets	16876
 Net Acquisition of Nonfinancial Assets Fixed	19602
-Net Assets	17235
+Net Assets	17235,2477
 Net Domestic Assets	17235
 Net Domestic Assets NDA Net Foreign	17235
 Net Foreign Assets	17193,42
@@ -412,6 +418,8 @@ Non Current Assets HY2025	4896
 Non-Current Assets	13420
 Non-Exchange Transactions Assets	14736
 Non-Performing Asset	18543
+Non-Produced Assets	19712
+Non-current Assets Prepayments	19712
 Note ASSETS Non-current	10793
 Number Assets	15023
 Number of Asset Managers	14997
@@ -420,6 +428,7 @@ Operator Scheme UAMP User Asset Management	11218
 Over-crowding Assets Housing Electricity Drinking Water	15244
 Ownership of Assets	13454
 Ownership of Assets Asset	15244
+Ownership of Household Assets Number	19715
 PAL SA R Asset	12006
 PETITION UNFAIR LENDING AND ASSET FINANCING	10313
 PPDA Public Procurement and Disposal of Assets Authority	12917
@@ -439,6 +448,7 @@ Principle Asset	12006
 Procurement Regulations. Leased Assets	17219
 Procurement and Disposal of Public Assets Act	3700
 Procurement of Motor Vehicles and Other Assets Government	13420
+Produced Assets	19641
 Profit Assets Liabilities Shareholder Equity Addition PPE	1944
 Program Assets	19214
 Program Assets. If the Accountable Entity	19214
@@ -466,9 +476,9 @@ Public Procurement and Disposal of Assets	13053,5608
 Public Procurement and Disposal of Assets Act	18696
 Public Procurement and Disposal of Assets Authority	5668
 Public Procurement and Disposal of Assets Regulations	18661
-Public Procurement and Disposal of Public Assets	13005,122,293
+Public Procurement and Disposal of Public Assets	13005,122,293,6381
 Public Procurement and Disposal of Public Assets Act	1210,3007,8770,140,293,186
-Public Procurement and Disposal of Public Assets Authority	3969,4754,4399,1552
+Public Procurement and Disposal of Public Assets Authority	3969,4754,4399,1552,5061,31,25
 Public Procurement and Public Asset Disposal Board	12535
 Quality Percentage Percentage Assets	11131
 REGISTRATION OF VIRTUAL ASSET SERVICE PROVIDERS	13532
@@ -489,6 +499,8 @@ Relaunch of Sierra Leone's National Asset	18571
 Required Liquid Asset Reserve	17236
 Research and Statistics Department Asset Quality Indicators	17236
 Reserve Assets	17235
+Responsibilities of Information Asset Owners	19801
+Responsibilities of Information Asset Owners Information	19801
 Return On Assets	15023
 Revenue Net Profit Assets Liabilities	1944
 Revenue Net Profit Assets Liabilities Finance	1013
@@ -529,6 +541,7 @@ Strategic Asset	4528,1022,6962
 Strategic Asset Allocation	11131,3,6004
 Strategic Asset Allocation SACCOs Saving and Credit	15023
 Strategic Asset Management	5244
+Strategic Asset Management Framework	19646
 Strategic Asset Mauritius	14752
 Strategic National Asset Gaps	7548
 Strategic National Asset Under President	13521

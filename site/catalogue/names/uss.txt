@@ -19,6 +19,7 @@ Integrate USSD	14997
 Irembo USSD	13396
 Kiosk USSD Apps Agents QR	12490
 Kiosk USSD Apps POS Agents QR	12000
+L'application USSD	19645
 Leverage USSD	14997
 Leveraging USSD	14997
 M-Pesa USSD	6102
@@ -53,6 +54,8 @@ USSD Instant	6938
 USSD Needs	11133
 USSD Reporting Lenovo	3003,962
 USSD Short Codes	19534
+USSD Traffic In the USSD	19728
+USSD Transactions	19728
 USSD Unstructured Supplementary Service Data UxD	396
 USSD and APIs	14997
 USSD and QR	3977
@@ -79,6 +82,7 @@ USSTB	17882
 Unis USSD Données	15474
 United States Dollar USSD	18485
 United States Dollars USSD Unstructured Supplementary	16876
+Using the USSD	19796
 Ussel	8606
 Usseletal	8606
 Ussene Isse	6474,1530,4796

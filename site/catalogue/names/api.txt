@@ -31,6 +31,7 @@ API MALI. TIONS D’EXERCICE ARTICLE	17817
 API Mali	17817
 API Management	15936
 API Management ITIL	15936
+API Management UGhub	19697
 API Medium	12444
 API O PDEX	16030
 API OAS	1984
@@ -50,6 +51,7 @@ API Santé	18428
 API Security	11952
 API Security Information	10721
 API Security Requirement	11952
+API Security Top	19801
 API Standards All APIs	11952
 API Standards Enact Consumer	12444
 API Testing	5665
@@ -90,7 +92,7 @@ API-based	710,4138,1539,926,1119,3927,41,637,1753,207,717
 API-based EmaSwati	12444
 API-clean	13272
 API-dependency	7151
-API-driven	4973,1174,2285,4610,34,109,356,48,1163,2787
+API-driven	4973,1174,2285,4610,34,109,356,48,1163,2787,2262
 API-first	2522,2602,12845
 API-iF	19209
 API-integrated	10718
@@ -159,6 +161,7 @@ APIs. While GovStack	14566
 APIs4	12021
 APIsfor	15080
 AWS-compatible APIs	14508
+Abbreviations API Application Programme Interface ATM	19647
 Access API	10721
 Achieve API	13005
 Acronyms AfCFTA AI AI4D AISIO API	4528
@@ -174,6 +177,7 @@ All&search api language	18487
 American National Standards Institute API Application	10775
 Analyse des API	15936
 Another API	12490
+Anti-Money Laundering API	19664
 Any API	15590
 Api-Agro Forestry Systems	14409
 Api1rtaclo	11514
@@ -191,6 +195,7 @@ Apis Growth Markets Fund III	1162,396
 Apis Growth Markets Fund III Swedfund	1162
 Apis Partners	47,47,285,783
 Apis Partners LLP	94,303
+Application APIs	19639
 Application Programming Interfaces APIs Advanced Release	19519
 Aquaculture and Apiculture P1	5636
 Area AML Anti-Money Laundering API Application	12663
@@ -230,6 +235,7 @@ DSTI-led API Governance Framework	18529
 Dashboard API. Base URL	15630
 Data Dictionary and API Standards	11940
 Deng Angok Apin	18737
+Deploy API	19801
 Design API	6432
 Develop API	11133,3864
 Develop APIs	14674
@@ -315,7 +321,8 @@ Network APIs Commercial Open Gateway APIs	6593
 Network-layer APIs	6593
 None APIs	12270
 None. APIs	12269
-OWASP API Security Top	15161
+OWASP API Security Top	15161,4640
+OWASP Application and API	19801
 Open API	6423
 Open APIs	7596,4763,955
 Open APIs and Protocols	3861

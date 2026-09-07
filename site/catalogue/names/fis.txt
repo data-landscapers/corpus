@@ -39,6 +39,8 @@ Albion Fisheries Research Centre	10643,4175,11
 Albion Fisheries Research Centre. Pillar	14829
 Aluguer de Servidores Fisicos	570
 Analysis of Key Fiscal Ratios	2775
+Animal Industries and Fisheries	19666
+Animal Industry and Fisheries	19707,40
 Animal Resources and Fishery MoFEP Ministry of Finance	15118
 Anne Linn Tom Fish Annexe D	13300
 Annual Fiscal Performance Report	15031
@@ -161,6 +163,7 @@ DES RECETTES FISCALES	15426
 DES RECETTES FISCALES D'INTERCOMMUNALITE ET	15999
 DES TARIFS ET DE LA FISCALITE	16612
 DESDISPOSITIONS FISCALES	18901
+DETTES FISCALES	19850
 DIAGNOSTIC STRATÉGIQUE DE L’ADMINISTRATION FISCALE	10712
 DIRECTION DE L'ASSIETTE FISCALE	15970
 DIRECTION DES VERIFICATION FISCALES	16381
@@ -256,6 +259,7 @@ Electronic Fiscal Device Management System EPZ	13053
 Electronic Fiscal Device System EMDE Emerging	17011
 Electronic Fiscal Devices	4699,287,261,7701,4063,2591
 Electronic Fiscal Devices. Unlike	6469
+Electronic Fiscal Receipting and Invoicing Solution	19796
 Electronic Fiscal Receipting and Invoicing System	2744,5002
 Electronic Fiscal System	11976
 Empowering Fisherwomen	11332
@@ -316,7 +320,7 @@ FISCAL TITULAR DE INVESTIGACIONES ADMVAS	4209
 FISCAL TITULAR DE JURIDICCION MILITAR	4209
 FISCAL TITULAR DE MEDIO AMBIENTE	4209
 FISCAL TITULAR DEL TRIBUNAL DE CUENTAS	4209
-FISCAL YEAR	969,315,583,549,473,673,42,2935,4229,61,135,416,37,51,57,24,11,345,19,41,1003,363,403,8,1,93,25,24,1052,39,9,153,52,182,39,13,67,20,4,3,35,48,20,37,1,2,2,39,29,51,127,74,49,112,240,52,178,282,26,30,489,17,391,13,100,142,94,95,8,324,129,11,12,32,16,26,36,68,284,45,171
+FISCAL YEAR	969,315,583,549,473,673,42,2935,4229,61,135,416,37,51,57,24,11,345,19,41,1003,363,403,8,1,93,25,24,1052,39,9,153,52,182,39,13,67,20,4,3,35,48,20,37,1,2,2,39,29,51,127,74,49,112,240,52,178,282,26,30,489,17,391,13,100,142,94,95,8,324,129,11,12,32,16,26,36,68,284,45,171,188,192,12
 FISCAL YEAR Agricultural	13122
 FISCAL YEAR Despite	14985
 FISCAL YEAR ENDED	18661
@@ -394,7 +398,7 @@ First Schedule. Virtual Fiscal Device	13606
 Fiscais	11528,7270,55
 Fiscais Formulários Apoio	12018
 Fiscais Os	11528
-Fiscal	579,139,71,553,486,2,259,471,1023,82,11,170,1,280,82,210,109,2,1090,35,496,1,233,139,69,239,716,46,54,47,1372,1090,178,433,237,126,3,2,135,198,55,203,189,24,429,53,78,12,349,144,307,2,18,86,267,108,75,175,180,451,68,187,56,12,26,6,362,20,39,20,3,18,35,386,51,14,56,111,292,419,4,25,59,22,31,104,5,33,1,41,77,246,369,118,495,3,89,190,5,1,23,27,28
+Fiscal	579,139,71,553,486,2,259,471,1023,82,11,170,1,280,82,210,109,2,1090,35,496,1,233,139,69,239,716,46,54,47,1372,1090,178,433,237,126,3,2,135,198,55,203,189,24,429,53,78,12,349,144,307,2,18,86,267,108,75,175,180,451,68,187,56,12,26,6,362,20,39,20,3,18,35,386,51,14,56,111,292,419,4,25,59,22,31,104,5,33,1,41,77,246,369,118,495,3,89,190,5,1,23,27,28,870,102,16,8
 Fiscal Accountability	19214
 Fiscal Accountability Plan	19214
 Fiscal Accountability. Unless MCC	19214
@@ -662,7 +666,7 @@ Fishenden and Thompson	5700
 Fisher	2566,8353,21,195,7850,617
 Fisherfolk	17099,15
 Fisherfolk Association Big Fanti Town Fisherfolk	17099
-Fisheries	1257,297,434,787,967,3425,347,331,3383,4,53,239,670,83,230,553,119,141,74,81,87,1111,69,32,71,612,43,1361,90,45,153,86,224,834,142,128,232,190,534,36
+Fisheries	1257,297,434,787,967,3425,347,331,3383,4,53,239,670,83,230,553,119,141,74,81,87,1111,69,32,71,612,43,1361,90,45,153,86,224,834,142,128,232,190,534,36,86,185
 Fisheries Act	13403,1415
 Fisheries Act No.22	1988
 Fisheries DNA Deoxyribonucleic	11188
@@ -701,7 +705,7 @@ Fisheries and Aquaculture Fisheries	14628
 Fisheries and Aquaculture Management Law	17114
 Fisheries and Aquaculture Minister	10112
 Fisheries and Biosecurity	15478
-Fisheries and Environment	13733
+Fisheries and Environment	13733,6092
 Fisheries and Forestry	18770
 Fisheries and Forests	10960,7333
 Fisheries and Hon Amb Akuei Bona Malwal	18691
@@ -874,6 +878,7 @@ J. Fishenden	5700
 JUSTICE FISCALE RESULTAT ATTENDU Une	17901
 James S. Fishkin	11006
 Jobs. Approval Fiscal	15782
+John Fisher	19764
 Julius Maada Bio Industrial Fishing Port	18524
 Justicia Fiscal Tribunal Constitucional Magistrado Corte	4209
 Justicia Fiscal Tribunal Constitucional Ministro de Estado	4209
@@ -884,6 +889,7 @@ L'ADMINISTRATION FISCALE	10712
 L'Administration Fiscale Michel Bua	14437
 L'IMMATRICULATION AU NUMERO D'IDENTIFICATION FISCALE	15970
 L3 du Livre des Procédures Fiscales	10978,6862
+LED and Fiscal	19742
 LIBERIAN DOLLAR FISCAL YEAR	16949
 LISTE DES CONTRIBUABLES FISCALEMENT ACTIFS	16623
 LOBSTER FISHING CANOE PERIOD FEES ROYALTIES	18450
@@ -918,6 +924,7 @@ MISSION DE L’ADMINISTRATION FISCALE La Direction	10712
 MOBILISATION BES RECETTES FISCALES Taux	15999
 MODIFICATIONS DES DISPOSITIONS DE LA FISCALITE	16047
 MSMEs Fisheries and Animal Production	10964
+MTFF Medium-Term Fiscal Framework	19847
 Macro Fiscal Framework	18488
 Macro Fiscal Policy	18577
 Macro Fiscal Policy Division	18488,12,77
@@ -962,6 +969,8 @@ Minister of Fisheries and Blue Economy	18957
 Minister of Fisheries and Marine Resources	18524
 Ministerio Fiscal	163,16692,110
 Ministerio Fiscal. Una	16965
+Ministry of Agriculture Animal Industry and Fisheries	19642
+Ministry of Agriculture Animal Industry and Fisheries MDAs	19642
 Ministry of Agriculture and Fisheries	10763,2279
 Ministry of Fisheries	16957,1352,195,512,60,20,62,8
 Ministry of Fisheries and Aquaculture	10112
@@ -1035,6 +1044,7 @@ Performance of Selected Fisheries Value Chains	2775
 Period Category Individual Sport Fishing	18541
 Periódica Obrigações Fiscais A Portaria	12018
 Policy Areas Fiscal Openness	11866
+Politique Fiscale	19687
 Politique Fiscale DGEFRI Direction Générale des Etudes	11944
 Politiques Fiscales	18015
 Polícia Fiscal	11435
@@ -1261,7 +1271,7 @@ Virtual Fuel Fiscal Device	13606
 Virtual Fuel Fiscal Devices	13606
 W FIS BRAZZAVILLE INFORMATION	16552
 WB Fiscal	3604,7813,488,4239,1314
-WB Fiscal Year	969,295,603,8901,61,135,416,180,295,1476,1,1605,39,515,24,106,38,2,82,1206,1344,946,6
+WB Fiscal Year	969,295,603,8901,61,135,416,180,295,1476,1,1605,39,515,24,106,38,2,82,1206,1344,946,6,398,192,12
 WB Fiscal Year Annual	15658
 WB Fiscal Year Annual Cumulative	15553
 Wallace Cosgrow MINISTER FOR FISHERIES	19049

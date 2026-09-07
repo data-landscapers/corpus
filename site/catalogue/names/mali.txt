@@ -48,6 +48,7 @@ Agriculture du Mali	17812,15,96,22,87
 Alpha Télécommunications Mali	17870
 Ambassade du Mali	8237,9590,155,9
 Anglican Church of Kenya Malindi Diocese Data	7167
+Angola Mali Zimbabwe Namibia Burkina Faso	19633
 Anyango Malisella	3005
 Appareillage Orthopédique du Mali	17882
 Arusha Mali Binadamu Maadili Jinai Ilala	19517
@@ -1092,7 +1093,9 @@ Malians and Nigerians	18125
 Maliasili	19517,75
 Maliba	2407,41,490,2760,202,855,3206
 Malibongwe	11967
-Malicious	15518
+Malicious	15518,4237
+Malicious Code Protection	19801
+Malicious Code Protection Malicious	19801
 Malick	17841
 Malick ALASSANE	16545
 Malick DIAKITE	17861

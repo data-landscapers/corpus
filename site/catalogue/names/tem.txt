@@ -359,13 +359,14 @@ Temperatura	794
 Temperatura Média	18757
 Temperature	2775,6348,1846,915,1,10,264,1,44,1,146,4,41,91,444,163,1349,293,1171,1040,101,109,100,1113,387,488
 Temperature Ice Point Reference	14736
+Temperature and Dust Monitoring System	19725
 Temperature and Precipitation. Reference Guide	17257
 Temperature and Relative Humidity Control All Tier	9123
 Temperature-measuring	9123
 Temperatures	3456,148,2935,8416,788,3502
 Temperatures STBs Set Top Boxes SUA	2775
 Tempering With Criminal Investigation	16935
-Template	236,1542,4654,3991,4064,59,2302,220,46,2128
+Template	236,1542,4654,3991,4064,59,2302,220,46,2128,559
 Template Indicators Attachment V. Sources of Evidence	12500
 Template Indicators Sources of Evidence P7-24. Time	12500
 Template Integrations Approved Vendor List VSDC	12454
@@ -379,7 +380,7 @@ Templates Jurídicos	11448
 Templates for DPIA	3861
 Templating	13037
 Templatses	2677
-Temple	2024,10276
+Temple	2024,10276,7504
 Temple Institute	12300
 Temple University	12300
 Temple University Press	9739
@@ -406,7 +407,7 @@ Temporal	11528,5629
 Temporal Scope and Lifecycle Coverage	7548
 Temporalities	12227
 Temporarily	14760,190,1952
-Temporary	1243,4422,2524,2586,66,67,56,10,206,1,214,426,165,267,376,261,3,260,178,72,203,18,1243,17,42,140,15,48,424,526,535,225,275,26,17,93,2034
+Temporary	1243,4422,2524,2586,66,67,56,10,206,1,214,426,165,267,376,261,3,260,178,72,203,18,1243,17,42,140,15,48,424,526,535,225,275,26,17,93,2034,357
 Temporary AI	12675
 Temporary Addresses	11129
 Temporary Admission	13042

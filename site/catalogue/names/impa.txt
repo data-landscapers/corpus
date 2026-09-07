@@ -150,6 +150,7 @@ Climate Change Impacts	11905
 Climate Change and Impacts Scenarios	16135
 Cocody-II-Plateaux. Impact IA	14320
 Code Aster Impact Z88	9475
+Code Impact	19660
 Coding for Impact	12241,839
 Commercialisation The AI for Impact Challenge	9030
 Community Health Impact Coalition	1219
@@ -207,7 +208,7 @@ Data Protection Impact Assessment NIB National	6936
 Data Protection Impact Assessment Regime	3861
 Data Protection Impact Assessment Report	2709
 Data Protection Impact Assessment and Prior Consultation	12549
-Data Protection Impact Assessments	1630,5306,2942,843,435,1037,109,1079,1143
+Data Protection Impact Assessments	1630,5306,2942,843,435,1037,109,1079,1143,5277
 Data Protection Impact Assessments and Human Rights	6949
 Data Protection Impact Assessments. The DPA	1652
 Data Protection Impact Assessments. Training	5385
@@ -230,6 +231,7 @@ Development Impact	12006,4890,26,1806
 Development Impact Evaluation	15658
 Development Impact Monitoring Indicators	16861
 Development Impact Report	1042
+Development Response for Displacement Impact Project	19727
 Diaspora Health Impact Initiative	7895
 Differential Impact	11525
 Digital Convergence Initiative Data Protection Impact	11156
@@ -248,10 +250,15 @@ Digital Skills Impact Fund	10946
 Digitalisation Impact Outcomes Impact	10856
 Digitalization and ICT Regulation Impact the Global Economy	19245
 Disaster Management Impact	17157
+Displacement Impacts Programme	19647
+Displacement Impacts Project	19798
+Displacement Impacts Project FSDU Financial Sector	19647
+Displacement Impacts Projects	19741
 Distortive Impact of Digital Taxation	14932
 Division of Environmental Impact Assessments	18370
 Document The Impact	19575
 Domaine Impacts	14622
+Draft Regulatory Impact Assessment	19641
 Drive Socioeconomic Impact and Cross-Sector Value Creation	14819
 Driving System Wide Impact	12053
 Drought Impact	17157
@@ -315,7 +322,7 @@ Environment Impact Assessments	2775
 Environment and Social Impact Assessment	11863,6772
 Environmental Impact	1988,10245,4924
 Environmental Impact As-	6946
-Environmental Impact Assessment	1988,3867,5276,3611,1163,938,314,2428
+Environmental Impact Assessment	1988,3867,5276,3611,1163,938,314,2428,150
 Environmental Impact Assessment Clearance	15081
 Environmental Impact Assessment Division	18370
 Environmental Impact Assessment Division DGAS	18370
@@ -339,7 +346,7 @@ Environmental Impact Statements. Article	1988
 Environmental Impacts	1988,10265
 Environmental Spatial Impact Total Average Rank	15845
 Environmental and Social Assessment The Environmental Impact	1988
-Environmental and Social Impact Assessment	1988,9692,2330,1401,100,1411,25,167,1004,252,517
+Environmental and Social Impact Assessment	1988,9692,2330,1401,100,1411,25,167,1004,252,517,858
 Environmental and Social Impact Assessment ESMAP Energy	11380
 Environmental and Social Impact Assessment ESS Environmental	16384
 Environmental and Social Impact Assessment EU European	17260
@@ -347,7 +354,7 @@ Environmental and Social Impact Assessment Regulations	1988
 Environmental and Social Impact Assessment Report	18543
 Environmental and Social Impact Assessment Template	1988
 Environmental and Social Impact Assessment. Generally	17114
-Environmental and Social Impact Assessments	1867,121,1616,3647,5809,3084,955,15,146,1114,513,358
+Environmental and Social Impact Assessments	1867,121,1616,3647,5809,3084,955,15,146,1114,513,358,401
 Environmental and Social Impacts	12253,4861
 Environmental and Social Monitoring Plan Potential Impact	12253
 Environmental and Social Risk and Impacts of Hazardous Waste	1988
@@ -402,6 +409,7 @@ Financial Information Letter Development Impact Evaluation	15658
 Financial Innovation for Impact	1478,707,7,5882,277,1669,1799
 Fiscal Costs and Distributional Impact of Oil Subsidies	1828
 Fiscal Impacts of Climate Disasters	1828
+Forms of Impairments	19715
 Freque Responsibili Paramet Methodolog Responsibili Impacts	1988
 Fundamental Rights Impact Assessments	4689
 Fundo de Impacto	1265
@@ -455,6 +463,7 @@ High Impact Community Development Projects	14805
 High Impact Leadership Program	14033
 High Impact Research Areas	1554
 High Impact Seed Fund of Funds	13269,2,1437
+High Impact Weather Lake System	19662
 Household Economy Impact	12978
 Household Impact	10964
 Hub Kenya Impact Hub Khartoum Sudan	15460
@@ -527,7 +536,7 @@ INPUTS INVESTMENTS IMPACT OUTCOMES ULTIMATE PATHWAYS	12006
 IV. EVALUATION DES IMPORTANCES DES IMPACTS	14489
 Identification of Potential Impacts	17114
 Identify Impacted Industries	12675
-Impact	395,623,201,125,236,122,126,23,137,292,399,269,209,96,250,228,357,113,19,210,2,540,254,19,175,131,46,228,204,107,653,148,22,79,142,98,377,699,202,73,41,433,30,104,169,28,148,598,538,75,48,7,8,2,16,7,83,11,57,99,5,7,85,11,44,49,193,294,86,18,1,16,12,4,30,8,41,23,100,10,23,16,7,27,56,39,18,2,20,3,6,47,25,36,59,365,6,16,9,132,15,232,5,15,71,43,71,103,303,60,56,61,136,190,31,8,8,1,1,75,1,56,52,181,77,53,12,33,122,4,8,178,30,39,13,36,13,1,26,42,33,8,1,15,2,57,3,2,10,39,3,5,18,37,70,56,35,330,62,505,25,9,56,1,19,32,36,8,95,25,18,103,110,403,50,26,7,4,10,26,10,56,57,85,175,7,23,119,60,288,145,10,11,43,3,10,41,84,98,16,60,39,184,51,4
+Impact	395,623,201,125,236,122,126,23,137,292,399,269,209,96,250,228,357,113,19,210,2,540,254,19,175,131,46,228,204,107,653,148,22,79,142,98,377,699,202,73,41,433,30,104,169,28,148,598,538,75,48,7,8,2,16,7,83,11,57,99,5,7,85,11,44,49,193,294,86,18,1,16,12,4,30,8,41,23,100,10,23,16,7,27,56,39,18,2,20,3,6,47,25,36,59,365,6,16,9,132,15,232,5,15,71,43,71,103,303,60,56,61,136,190,31,8,8,1,1,75,1,56,52,181,77,53,12,33,122,4,8,178,30,39,13,36,13,1,26,42,33,8,1,15,2,57,3,2,10,39,3,5,18,37,70,56,35,330,62,505,25,9,56,1,19,32,36,8,95,25,18,103,110,403,50,26,7,4,10,26,10,56,57,85,175,7,23,119,60,288,145,10,11,43,3,10,41,84,98,16,60,39,184,51,4,76,157
 Impact Accelerator	19534
 Impact Across Sectors	4625
 Impact Aide	19002
@@ -651,6 +660,7 @@ Impact Reaches Beyond Women SheConnects	11086
 Impact Report	8001,3993,499,2671
 Impact School	12674
 Impact Scoring Evaluate	17157
+Impact Snapshot Project	19808
 Impact Sourcing	6948
 Impact Statement	5872
 Impact Stories Awards	12493
@@ -766,7 +776,7 @@ Impactos Adversos	11390
 Impactos Ambientais	11406
 Impactos Positivos	11390
 Impactos Socioambientais Objectivo	11542
-Impacts	1005,983,3259,2774,1385,1306,67,50,134,1290,465,542,72,191,900,49,16,1,1,132,315,39,537,2,146,2,52,31,582,556,1,57,172,43,100,861,168,702,257,162
+Impacts	1005,983,3259,2774,1385,1306,67,50,134,1290,465,542,72,191,900,49,16,1,1,132,315,39,537,2,146,2,52,31,582,556,1,57,172,43,100,861,168,702,257,162,428
 Impacts CONTACT POINT World Bank Juan	16675
 Impacts ESS	1867,1737,7164,4893,483,2054
 Impacts Early-Warning System	8202
@@ -810,7 +820,7 @@ Impart	13040
 Imparte	16920
 Imparten	16920
 Impartiale	13303
-Impartiality	3503,7256,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,407,77,338
+Impartiality	3503,7256,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,407,77,338,6342,1,169,14
 Impartiality and Objectivity	13310
 Impartialité	17828,2
 Impartialité Confidentialité Respecter	15908
@@ -862,7 +872,7 @@ Keiso Mohloboli. T-Connect Impact	4656
 Kenya FACTOR CURRENT IMPACT Awareness	11994
 Key Achievements and Impact of Decentralization	13418
 Key Outcomes and Impact	13418
-LABOUR ENVIRONMENT Impartiality	10835,3,130,902,16,466,1,135
+LABOUR ENVIRONMENT Impartiality	10835,3,130,902,16,466,1,135,7334
 LOCATION FOR DEEDS OFFICE IMPACTED	11260
 Labor Market Impact Potential of LLMs	16266
 Labor Market Impacts of AI	7151
@@ -1064,7 +1074,7 @@ Regional Economic Impact Assessment	2677
 Regulamento Geral de Avaliação de Impacto Ambiental	11390
 Regulatory Impact	19596
 Regulatory Impact Analysis	13320
-Regulatory Impact Assessment	4732,7657,2170,702
+Regulatory Impact Assessment	4732,7657,2170,702,4380,5
 Regulatory Impact Assessment Submissions	4732
 Regulatory Impact Assessments	7560
 Regulatory Impact Statement	14599,662,49
@@ -1082,6 +1092,7 @@ Responsible Impact PS-7 Clearance of NFMC	11857
 Results and Early Impact	13070
 Results and Impact	12064,1156,803,632,4960
 Results and Impact Gender	12457
+Results and Impact Integration Outcomes	19804
 Results and Impact Key Success Stories	12761
 Revenue Impact of Tax Reforms. IMF Working	10997
 Revolving Impact Fund	18528
@@ -1135,6 +1146,7 @@ Scaling-up Impact	15491
 Scaling-up Impact and Getting Back	10964,2367,1,2186,35
 Sector Theme Findings Impact Talent	14997
 Security Environment Impact	13998
+Selected Forms of Impairments	19715
 Sensory Impairment and Visual Impairment	14775
 Severity. Impact	17157
 Significance Rating of Project Impacts Assessment	12253
@@ -1251,7 +1263,8 @@ Verified Impact	7253
 Visa Social Impact	10977
 Visit Impact Hub Global Global Stats	12493
 Visual Impairment	11180,1280
-Visually Impaired	3524,9556,200,3776,240,1938
+Visually Impaired	3524,9556,200,3776,240,1938,491
+Visually Impaired Learners	19725
 Visually Impaired Trainer	13095
 Volonté IMPACT ATTENDU	17983
 Vulnerability and Impact Assessment	14443,2714

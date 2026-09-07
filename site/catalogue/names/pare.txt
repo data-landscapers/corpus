@@ -103,7 +103,7 @@ Parecer	10783,590
 Parecer Prévio da Agência de Protecção de Dados	11363
 Pareil	5022,5233
 Pareja	10775
-Parent	582,702,354,2447,811,2302,1741,2241,1297,1000,1661,1740,249,1471,443,4,239
+Parent	582,702,354,2447,811,2302,1741,2241,1297,1000,1661,1740,249,1471,443,4,239,402,148
 Parent Company	12445
 Parent Disciplines	18461
 Parent F340901	816
@@ -135,7 +135,7 @@ Parent-line	2132,2323
 ParentLearnerRelationship Describes	11180
 ParentZEEPinUSD PBC PBC	13392
 Parentage	12338
-Parental	899,13192
+Parental	899,13192,5749
 Parental Dialogue	6122
 Parental Education Program	18809
 Parental Education Program PIU Project Implementation	18809
@@ -145,7 +145,7 @@ Parental Involvement	19542
 Parenteral	15206
 Parenting	2757,12078
 Parenting URSB	2757
-Parents	899,262,416,343,2468,1011,600,1474,1665,656,359,675,151,201,680,45,72,190,50,74,47,29,16,19,38,366,310,171,13,381,267,530,177,97,87,96,5,664,279,646,323,275,220,229,406,143,336,137,104,339,4,454
+Parents	899,262,416,343,2468,1011,600,1474,1665,656,359,675,151,201,680,45,72,190,50,74,47,29,16,19,38,366,310,171,13,381,267,530,177,97,87,96,5,664,279,646,323,275,220,229,406,143,336,137,104,339,4,454,185,66,90
 Parents Paires	13442
 Parents and Caregivers	899,7151
 Parents and Caregivers Focus Group Discussion	899
@@ -172,6 +172,7 @@ SANS PARENTÉ	13300
 School Management Committee and Parent Teacher Association	13392
 School Parents Assembly	13287
 School Parents Assembly and School Development Committee	13287
+School Parents Community	19783
 Services Personal Cash Parent Company	12445
 Stakeholders and Parents Email	15183
 Support Programme for Education Reform Special PAREC	13681

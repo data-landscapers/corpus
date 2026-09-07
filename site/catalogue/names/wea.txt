@@ -26,7 +26,7 @@ Automated Weather Station	18787
 Automated Weather System	15097
 Automatic Synoptic Weather Stations	12728
 Automatic Weather Observing Station	16947
-Automatic Weather Stations	11553,1175,2010,80,2129,1362,364
+Automatic Weather Stations	11553,1175,2010,80,2129,1362,364,989
 Automatic Weather Stations BNSP	18309
 Automatic Weather Stations South Sudan	18673
 Automatic Weather Stations. Key Objectives	12728
@@ -91,6 +91,7 @@ Graca Machel Trust Women Creating Wealth	1857
 Graça Machel Trust's Women Creating Wealth	1857
 H-index Weaknesses Rank Code	12205
 H.E. President George M. Weah	16943
+High Impact Weather Lake System	19662
 Household Wealth	13454,1793
 Human Capital Weak	17870
 Human Resources No Weaknesses	13005
@@ -139,6 +140,7 @@ ORS Income Group Wealthiest Income Group	10829
 Observatory SAWS South African Weather Service	5246
 Ocean Modeling Weather Research and Forecasting	9475
 Open-Source Policy WEAKNESSES	14729
+Operation Wealth Creation	19666,41
 Operational Weaknesses	18531
 Orange and Weast	11923
 PAPSS CANNOT FIX Weak	9593
@@ -234,6 +236,7 @@ Weak Accountability and Transparency	6936
 Weak Areas	18628
 Weak Authentication Controls Over Privileged User	19584
 Weak BSC	16863
+Weak Consumer Awareness and Cultural Barriers	19677
 Weak Controls Over Database Access Authorisation	19584
 Weak Controls Over Emergency System Changes	19584
 Weak Coordination	17139
@@ -304,6 +307,7 @@ Wealth for Sustainable Growth and Development	16996
 WealthTech	4848
 Wealthier	11879,449,75,1058,163,1341
 Wealthiest	10977
+Wealthiest Households and Poorest Households	19823
 Wealthnet Finance	12980
 Wealthtech	4324
 Wealthy	13624
@@ -341,7 +345,7 @@ Weather Station Works	18869
 Weather Stations and Climate Database Management Systems	14738
 Weather Widget	4706
 Weather and Climate	10584
-Weather and Climate Information Services	13201
+Weather and Climate Information Services	13201,6461
 Weather and Climate Services	17922
 Weatherbed	17780
 Weatherill	19520

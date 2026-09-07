@@ -68,6 +68,8 @@ Framework PCU Project Coordination Unit PIM	11525
 GDAP PCU	15988
 GDAP PCU Coordinator	6277
 GDP PCT	12351
+GEDES PCU	19847
+GEDES's PCU	19847
 Global PC	8289
 Guarantee Agency PCM Ministry of Digitalization and Digital	16144
 Guinea-Bissau. The PCU	11525
@@ -128,6 +130,7 @@ NY.GDP. PCAP.CD	4127
 National Coverage Project PPA PCU Projet	15372
 National ICT Policy. The PCU	15372
 National Port Authority PCA	17367
+National Retail Payments Switch PCI DSS	19664
 National Security Service PC	14760
 National Steering Committee PCU Projects Coordination	16922
 Non-monetary Potential PCE	3604
@@ -237,7 +240,7 @@ PCH AS42	14810,1234,507
 PCH Home Internet Exchange Directory CV-IXP	15573
 PCH URL	11609
 PCH de Arise IIP-Gabon	2399
-PCI DSS	434,1916,4121,1310,3218,3662,173,2044,46,993
+PCI DSS	434,1916,4121,1310,3218,3662,173,2044,46,993,1747
 PCI DSS Certified	12285
 PCI Security Standards Council	14834
 PCI-CP	11955
@@ -260,6 +263,8 @@ PCMIS	15148
 PCMPI	14622,40
 PCMT URL	18923
 PCN Approval	11863,2075,1073
+PCN Bujumbura	19782
+PCN Categories	19704
 PCN PDO PIU PIM PND PPSD	15553
 PCN10	15513
 PCN19	15553
@@ -295,6 +300,7 @@ PCU Page	19284
 PCU Prior	18887
 PCU Procedures	11525
 PCU Project Administrative	16614
+PCU Project Coordination Unit	19847
 PCU Project Coordination Unit PDISA Water	11380
 PCU Project Coordination Unit PDO Project	15661,2201
 PCU Project Coordination Unit PIP Priority	16614
@@ -325,6 +331,7 @@ PCU-ESPSP. PCU- ESPSP	15661
 PCU-ESPSP’s FM	15661
 PCU. Besides	15372
 PCU. Cash	3604
+PCU. Component	19847
 PCU. Data	19284
 PCU. Day	18887
 PCU. Feedback	3604

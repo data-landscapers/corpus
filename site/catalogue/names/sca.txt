@@ -84,12 +84,13 @@ EASSDP- Electricity Access Scale	12429
 ECONOMIES OF SCALE	16885
 ENERGY SCALE-UP AND ACCESS PROJECT	11549
 ENVIRONMENTAL SCANNING	12973
-Economic Complexity PTS Political Terror Scale	10835,3,130,902,16,466,1,135
+Economic Complexity PTS Political Terror Scale	10835,3,130,902,16,466,1,135,7334
 Economic and Social Development SCADD Strategy for Growth	10812
 Economies of Scale	16885
 Egypt Scales Up Health Reforms	15977
 Elastic Scaling	11952
 Elastic Scaling Requirement	11952
+Electricity Access Scale-Up Project	19705
 Elidaa K. Daku. Scales	16135
 Emerging Technologies Authority Scaling Fund	7548
 Energy Scale-up and Access Project SME Small	11549
@@ -110,6 +111,7 @@ Financial Scale	9433
 Financiers SAM Société des Aéroports de Mauritanie SCAPP	17873
 Firearm Certificate Scam	7312
 Firearm Certificate Scam The Master Builder	7312
+Food Insecurity Experience Scale	19715
 Food Insecurity and Experience Scale	16960
 Formula Scalable Description Captures	11905
 Formula Scalable Description Supports	11905
@@ -117,6 +119,7 @@ France's Scaleway	6879
 Frequency Spectrum and Other Scarce ICT Resources	19511
 Future Sustaining and Scaling Integration	13220
 Future Sustaining and Scaling Integration. Key Message	12761
+Future Sustaining and Scaling Integration. Next Steps	19804
 Future-Proofing and Scalability	11995
 Future-Proofing and Scalability This Policy	11995
 GBON-compliant. SCAA	14949
@@ -237,8 +240,10 @@ Passport Scandal	10644,6714
 Pays Scandinaves	18427
 Pipeline Scaling	6832
 Pipeline Scaling Set	6832
+Political Terror Scale	19653,183
 Political Terror Scale RSF Reporters	10759,78,1052,451
 Population Scale for Digital Transformation	19063,1
+Powered Scams	19728
 Pretoria High Court and SCA	14693
 Procurement SUF Scale-Up Facility TA Technical	19239
 Procurement SUW Scale-Up Window TA Technical	3604,15641
@@ -257,6 +262,7 @@ RGSSI btnqMo7.pdf Scanned PDF	10906
 RPP Revenue Protection Program SCADA Supervisory	15983
 RS Construction Industry Scaffolders Record Scheme	17157
 RSF. F. Public Infrastructure Scaling-Up	17257
+RTP Risk Treatment Plan SCADA Supervisory	19801
 RWANDA NATIONAL ID LAND SCAPE. SMART	10819
 Rapid Scan	899
 Rapid Scan. Creative Commons Attribution	1248
@@ -277,7 +283,7 @@ SAIs Scale	17364
 SAST Static Application Security Testing SCA	11952
 SCA Schutz JA	2307
 SCA Supreme Court of Appeal SCM Supply	11198
-SCADA	1539,6034,2496,2330,947,2313,43,67,128,72,14,72,2429,463
+SCADA	1539,6034,2496,2330,947,2313,43,67,128,72,14,72,2429,463,716,14,124
 SCADA Supervisory Control and Data Acquisition	18614
 SCADA Supervisory Control and Data Acquisition SDG	15515
 SCADA-type	87
@@ -328,10 +334,11 @@ SDF Sans Domicile Fixe SCA Stratégie	18286
 SMB Scanner	3336
 STACKIT and Scaleway	5846
 SUW World Bank IDA Scale-up Facility	15515
+Salary Scale No. Of Approved Posts	19742
 Sarcoptes Scabei	15712
 Sca'ifltooJJt	1009
 Scabies	12729
-Scalability	5551,881,1050,2373,1275,3,819,43,364,683,982,973,1918,48,576,1971
+Scalability	5551,881,1050,2373,1275,3,819,43,364,683,982,973,1918,48,576,1971,157,31
 Scalability Testing	5665
 Scalability of Digital Health Systems	12240
 Scalability of Innovations and Interventions	13998
@@ -344,6 +351,7 @@ Scalable Easily	9446,1510
 Scalable Information Systems	8022
 Scalable Model for Real-Time Education Data	11970
 Scalable Network	11552
+Scalable OTDR	19745
 Scalable Safety Nets	12980,131
 Scalable Safety Nets Under the Scalable Safety	12181
 Scalable. EUR	16032
@@ -354,7 +362,7 @@ Scalar Decarbonization Fund	5444
 Scalar Infrastructure and Real Assets	5393,53
 Scalar International	5393,38
 Scalar International's Africa Decarbonisation Fund	5431
-Scale	899,357,35,1,1,1,1,1,136,228,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,149,4,57,172,1,1,1,1,1,85,139,9,266,75,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,303,425,155,85,45,217,19,291,176,1,1,1,1,1,59,30,64,224,41,55,82,172,138,391,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,257,75,72,368,64,342,105,18,267,246,263,20,134,36,175,15,463,414,628,421,388,148,12,196,105,247,7,2,7,7,78,76,250,303,53,36,395,80,17,12,1,55,111,367,80,244,624,505,39,83,142,40,71,1,53,1,49,13,12,38,171,88,330,130,273,235,730,21,80,96,18,128,218,230,568,327,827
+Scale	899,357,35,1,1,1,1,1,136,228,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,149,4,57,172,1,1,1,1,1,85,139,9,266,75,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,303,425,155,85,45,217,19,291,176,1,1,1,1,1,59,30,64,224,41,55,82,172,138,391,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,257,75,72,368,64,342,105,18,267,246,263,20,134,36,175,15,463,414,628,421,388,148,12,196,105,247,7,2,7,7,78,76,250,303,53,36,395,80,17,12,1,55,111,367,80,244,624,505,39,83,142,40,71,1,53,1,49,13,12,38,171,88,330,130,273,235,730,21,80,96,18,128,218,230,568,327,827,222,124
 Scale ADR	17139
 Scale AI	4972,3007
 Scale Accelerators	2957
@@ -378,6 +386,8 @@ Scale Infrastructure Financing Across Africa	9803
 Scale National Historical	17140
 Scale Need	4528
 Scale Nigeria's Language Model Template Across	8552
+Scale No. Of Approved Posts No	19742
+Scale Number of Approved Positions Number	19742
 Scale Out Storage Solution	14802
 Scale Over	13042
 Scale Page	11924
@@ -476,6 +486,7 @@ Scaling Up Electricity Access Program Phase	14871
 Scaling Up Establish	14997
 Scaling Up Green	14997
 Scaling Up Import	14997
+Scaling Up Nutrition Business Network	19721
 Scaling Up Phase	14997
 Scaling Up School Connectivity	1164
 Scaling Up the Agriculture Insurance Market	15130
@@ -616,6 +627,7 @@ WIL Scale	6832
 Warning System SCAP-RU Disaster Preparedness Committee	17962
 Water Scarcity	14745,2412
 WeChat Scan	12246
+Weighing Scales	19712
 World Bank Scaling	13332
 YouTube Scaling	13462
 YouTube Scaling Support	13461

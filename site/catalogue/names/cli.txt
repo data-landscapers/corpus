@@ -182,6 +182,7 @@ Bethlehem Clinic Bethlehem Clinics Health Institution	12976
 Blis Dental Clinic Limited Data Controller	7167
 Bohlokong Clinic	11980
 Booker T Washington Climate Adaptation and Environment	13100
+Boost Reach of Digital Government Services Client	19792
 Boosts National Climate Data Reliability	13062
 Botswana Climate. Published	12614
 Breast Clinic	14773
@@ -343,6 +344,7 @@ Cadre Mondial des Services Climatiques	16621
 Cadre National de Services Climatiques	16621
 Cadre National des Services Climatique	17873
 Cadre National des Services Climatologiques	16621
+Call the Clinic and SCINTL Smart Campus	19641
 Cambio Climático	1701,2508,12666,23
 Cambio Climático CN-REDD	16875
 Cambio Climático MAGBMA	16898
@@ -395,7 +397,7 @@ City County NCCAP National Climate Change	2775
 Civil Protection NCCP National Climate Change	17962
 Clean Energy and Climate Infrastructure	12937
 Cleveland Clinic Abu Dhabi	15262
-Click	2504,1,161,2,42,8,24,55,265,23,1,305,56,62,249,160,1,1,63,78,38,265,23,62,64,41,536,20,137,169,158,42,95,78,11,123,92,99,46,156,93,107,1,14,71,23,138,24,9,204,250,15,46,32,220,1546,721,130,416,386,57,40,87,71,259,22,505,1,1,72,125,20,180,7,22,51,14,25,21,8,26,16,5,5,39,13,39,4,18,161,510,147,51,93,461,847,15,23,197,109,1060,71,622,117,69,12,168,3,1,6,165,760,47,88,237,204,249,33,502
+Click	2504,1,161,2,42,8,24,55,265,23,1,305,56,62,249,160,1,1,63,78,38,265,23,62,64,41,536,20,137,169,158,42,95,78,11,123,92,99,46,156,93,107,1,14,71,23,138,24,9,204,250,15,46,32,220,1546,721,130,416,386,57,40,87,71,259,22,505,1,1,72,125,20,180,7,22,51,14,25,21,8,26,16,5,5,39,13,39,4,18,161,510,147,51,93,461,847,15,23,197,109,1060,71,622,117,69,12,168,3,1,6,165,760,47,88,237,204,249,33,502,95,27,17,79,27,8
 Click Activation	11298
 Click HERE To Apply	9960
 Click Here Contact Us	12282
@@ -424,10 +426,13 @@ ClicknPay	2987
 Clicks That Hurt	17771
 Clics	15817
 Clideo	14102
-Client	736,25,1057,1638,222,1987,758,1554,377,695,80,726,863,111,47,87,12,372,220,302,268,116,159,14,19,231,156,50,35,47,13,60,74,222,57,548,615,23,124,593,77,52,20,1,21,49,1,145,11,193,216,534,41,21,167,129,143,220,568,130,162,98,146,18,13,9,65,675
+Client	736,25,1057,1638,222,1987,758,1554,377,695,80,726,863,111,47,87,12,372,220,302,268,116,159,14,19,231,156,50,35,47,13,60,74,222,57,548,615,23,124,593,77,52,20,1,21,49,1,145,11,193,216,534,41,21,167,129,143,220,568,130,162,98,146,18,13,9,65,675,445,4,180
 Client Account	13333
 Client Alert	8027
-Client Charter	6786
+Client Centered	19667
+Client Charter	6786,13006
+Client Charter Changes for Digital Service	19756
+Client Charter Changes for Digital Services	19756
 Client Charter and Chairman	1282
 Client Communication	8999
 Client Connect Zone	10639
@@ -455,16 +460,18 @@ Client KYC	10718
 Client LCR Liquidity Coverage Ratio LDC	14997
 Client Management Information System	5126,7818,78,165
 Client Management NCTS for Transit Management Single	13042
+Client Name	19680
 Client Needs	12676
 Client Prioritization	8999
 Client Provided Information	15424
-Client Registry	5639,6967
+Client Referral	19667
+Client Registry	5639,6967,7038
 Client Relationship Consultants	12439
 Client Response	15424
 Client Satisfaction	15845
 Client Satisfaction Impact	10718
 Client Service Access Unit	16410
-Client Service Charter	19520
+Client Service Charter	19520,236
 Client Service Charter Services NVCCZ Functions	12495
 Client Service and Access Unit ELIS	15657
 Client Tunisie Telecom	1818
@@ -493,7 +500,7 @@ Cliente ENDE Gratuito Saber	9040
 Cliente. Para	5319
 Cliente. Sec	18896
 Clientes	2952,2217,6199,650,5584,1228
-Clients	2461,2786,286,489,329,2648,456,400,1120,990,21,234,736,44,5,328,54,3,87,1996,197,129,1043,25,104,902,245,351,158,591
+Clients	2461,2786,286,489,329,2648,456,400,1120,990,21,234,736,44,5,328,54,3,87,1996,197,129,1043,25,104,902,245,351,158,591,480
 Clients Additional Financing Loan Closing Date	11924
 Clients BT	15670
 Clients BT Super Confort	14479
@@ -519,6 +526,7 @@ Cliff's Delta	10940
 Clifford	17773
 Clifford MS	17773
 Clifton	8301
+ClimCam	19773
 ClimDev	18309
 ClimDiv	17157
 ClimSA	11420,546,1096,1409,51,2435,118,798,49
@@ -540,7 +548,7 @@ Climat GIZ Agence Allemande de Coopération Internationale	17907
 Climat du Gabon. Priorité	15500
 Climat-Santé	19354
 Climat. AICCRA	18309
-Climate	395,125,152,117,151,30,294,20,270,150,110,53,121,1468,127,278,1385,1,1058,139,95,863,146,467,365,687,494,200,587,57,15,203,140,5,61,37,4,93,1,167,3,2,79,117,24,61,52,80,11,29,132,142,42,101,152,17,269,60,436,45,75,40,11,12,40,168,1,34,108,58,281,11,44,70,77,394,157,28,72,70,6,2,3,71,79,25,13,12,8,3,39,62,70,1,8,40,164,169,42,51,54,1,2,64,6,51,63,115,173,2,9,730,22,26,20,7,24,2,36,90,13,8,16,2,17,98,2,3,25,120,65,126,274,52,40,185,51,95,8,8,61,85,49,74,144,55,156,83,80,14,129,6,39,71,52,112,1,35
+Climate	395,125,152,117,151,30,294,20,270,150,110,53,121,1468,127,278,1385,1,1058,139,95,863,146,467,365,687,494,200,587,57,15,203,140,5,61,37,4,93,1,167,3,2,79,117,24,61,52,80,11,29,132,142,42,101,152,17,269,60,436,45,75,40,11,12,40,168,1,34,108,58,281,11,44,70,77,394,157,28,72,70,6,2,3,71,79,25,13,12,8,3,39,62,70,1,8,40,164,169,42,51,54,1,2,64,6,51,63,115,173,2,9,730,22,26,20,7,24,2,36,90,13,8,16,2,17,98,2,3,25,120,65,126,274,52,40,185,51,95,8,8,61,85,49,74,144,55,156,83,80,14,129,6,39,71,52,112,1,35,91,89,14
 Climate ASAP. FarmDrive	11994
 Climate Action	1131,6271,4184,27,242,303,218,235,2141,426,1797,126,63,96,1527,273
 Climate Action Goal	11332
@@ -564,9 +572,10 @@ Climate Analysis Maproom. Standard	14900
 Climate Automation	18722
 Climate Booklet	11613
 Climate Box1	11863
+Climate Camera	19773
 Climate Centre	11156
 Climate Challenges	19534
-Climate Change	1264,564,160,1442,1,152,1664,1865,3201,405,50,195,1,47,120,52,27,362,79,212,37,65,241,50,153,1068,994,157,38,76,4,2,199,2,180,61,363,51,44,77,120,191,97,741,48,20,7,2,22,2,139,26,13,4,100,32,29,140,476,184,80,107,4,61,139,69,47,162,22,436,39,236,82
+Climate Change	1264,564,160,1442,1,152,1664,1865,3201,405,50,195,1,47,120,52,27,362,79,212,37,65,241,50,153,1068,994,157,38,76,4,2,199,2,180,61,363,51,44,77,120,191,97,741,48,20,7,2,22,2,139,26,13,4,100,32,29,140,476,184,80,107,4,61,139,69,47,162,22,436,39,236,82,44,14,2,50,123,12
 Climate Change Act	2626,4922,7194,2363,152
 Climate Change Action Plan	18851
 Climate Change Adaptation	14007,1651
@@ -605,7 +614,7 @@ Climate Change Mr. Bhupender Yadav	13562
 Climate Change ND-gain	16996
 Climate Change NDC Nationally Determined Contribution	18809
 Climate Change Performance Index	8891
-Climate Change Policy	11863
+Climate Change Policy	11863,7783
 Climate Change Profile Burundi	13331
 Climate Change Programs	13060
 Climate Change Related Natural Disasters	1828
@@ -633,8 +642,8 @@ Climate Change and Circular Economy	17318
 Climate Change and Climate	10870
 Climate Change and Development	16896,26
 Climate Change and Development Report	10763
-Climate Change and Disaster Risk	16949
-Climate Change and Disaster Screening	1284,10621,3586,62,105,3587
+Climate Change and Disaster Risk	16949,2876
+Climate Change and Disaster Screening	1284,10621,3586,62,105,3587,602
 Climate Change and Environment	12964,3897,2096
 Climate Change and Environmental Sustainability	16975
 Climate Change and Financial Stability	17235
@@ -645,6 +654,7 @@ Climate Change and Green Growth	11863
 Climate Change and Green Growth Consultant	11863
 Climate Change and Green Growth. The Bank	14871
 Climate Change and Health	14622,2667
+Climate Change and Health and Safety	19646
 Climate Change and Impacts Scenarios	16135
 Climate Change and Land	18293
 Climate Change and Macroeconomic Stability	4103,13132
@@ -667,6 +677,7 @@ Climate Change. Under	11417
 Climate Class Level	17157
 Climate ClimSA Station	11420
 Climate Climate Adaptation and Adaptation Resilience	970
+Climate Co-Benefits	19835
 Climate Co-Benefits Assessment	5620
 Climate Collaborative	17735
 Climate Contribution	14818
@@ -688,6 +699,7 @@ Climate Facility CE Citizen Engagement CERMI	15983
 Climate Finance	7548,7194,6,2263,246,148,1172,151
 Climate Finance Alliances	13532
 Climate Finance Unit	18488
+Climate Finance Unit of MoFPED	19741
 Climate Finance and Green Finance Roadmap	17235
 Climate Finance and Green Financial Sector Reforms	17235
 Climate Financing	11469
@@ -806,6 +818,7 @@ Climate and Ecological Crisis	7038
 Climate and Environment	12987,698
 Climate and Environment Agriculture and Food Security	13685
 Climate and Environment and Fiscal Openness	12987
+Climate and Environmental Management	19783
 Climate and Forecast	16947
 Climate and Global Shocks	13685
 Climate and Green Economy Directorate	17934
@@ -860,7 +873,7 @@ Climate-development	800
 Climate-focused	14819
 Climate-induced	16144
 Climate-informed	13813,2841,2068
-Climate-related	10763,200,1,941,1026,1965,26,75,664,1596,28,1398,562,162
+Climate-related	10763,200,1,941,1026,1965,26,75,664,1596,28,1398,562,162,419
 Climate-related Priorities Supported	17257
 Climate-related Risks	16384
 Climate-related and Environmental Financial Risk Management	14744
@@ -869,7 +882,7 @@ Climate-resilient	3861,185,11613,2,64,1269,145
 Climate-resilient Stretches	17260
 Climate-resilient Technology Park	11863
 Climate-sensitive	15743,3541
-Climate-smart	789,2100,8075,262,1214,1567,1131,4448
+Climate-smart	789,2100,8075,262,1214,1567,1131,4448,222
 Climate-vulnerable	10964,4174
 ClimateTech	4972,10047
 ClimateTech and Digital Utilities	11016
@@ -906,14 +919,14 @@ Clime	18457
 Clin Pract	10780
 Cline GB	766
 Cline&author	766
-Clinic	8604,833,2420,1119,444,974
+Clinic	8604,833,2420,1119,444,974,5273
 Clinic Doctor Risk Manager Technology Manager	8603
 Clinic Ebonyi South East Enugu South	11857
 Clinic Information Management System	12569
 Clinic Linkage ID Number	8604
 Clinica Geral	18768
 Clinicaa	3821
-Clinical	1009,2642,4650,302,1252,176,1547,7,3621,205,813,747,1570,396,607
+Clinical	1009,2642,4650,302,1252,176,1547,7,3621,205,813,747,1570,396,607,100
 Clinical Context Object Workgroup	1009
 Clinical Decision Support System	9855,4239
 Clinical Decision Support Systems	9855
@@ -938,11 +951,13 @@ Clinical Safety Framework	9855
 Clinical Sciences	1154
 Clinical Service	18370
 Clinical Services	12976
+Clinical Services Department	19667
 Clinical Social Worker Year U.S. Government	4153
 Clinical Staff Job Application Connect Emergency	14950
 Clinical Support Services	12606
 Clinical Terms	19284
 Clinical Terms SOP Series of Projects SYCEBNL	19284
+Clinical Terms SOP Standard Operating Procedure	19667
 Clinical Trial Fees	18541
 Clinical Trials	8831
 Clinical Trials Act	7845
@@ -953,9 +968,9 @@ Clinically	8301
 Clinically Diagnosed	16971
 Clinicaltrials.gov	12678,34
 Clinicas Privadas	18757
-Clinician	771,10807,1462,3931
+Clinician	771,10807,1462,3931,2789
 Clinician Associates	16971
-Clinicians	3651,3536,4391,7,440,1162
+Clinicians	3651,3536,4391,7,440,1162,6480
 Clinicom	11980
 Clinics	4535,4070,2973,801,592,6,63,4359,1142,1003
 Clinics and Communities	12481
@@ -1089,6 +1104,7 @@ DU CLIMAT	16099,76,206
 DUMORA MEDICAL CLINIC Data Controller INST-161563051F8	7167
 DYNAMIC DEELAND CLINIC Data Controller INST-499267959E3	7167
 Data Sheet. The Client	13037
+Dear Valued Client	19755
 Declaration of Helsinki and Good Clinical Practice	11578
 Dei-care Medical Clinic Data Controller INST-871961FF04C	7167
 Demand CCDR Country Climate and Development Report	17458
@@ -1103,6 +1119,7 @@ Diagnostic Reports Privacy Controls Clinical	2477
 Digital Climate Transformation Program	13057
 Digital Development Climate Change CLIMATE	19245
 Digital Development Climate Change and Disaster Screening	13331
+Digital Development. CLIMATE	19847
 Digital Profiteers and Climate Profiteers	14673
 Digital Solutions for Better Healthcare Climate Action	11332
 Digital Solutions for More Climate Resilient Informal	13003
@@ -1115,6 +1132,7 @@ Disaster Management and Climate Change	13295
 Dispositif fiscal climat affaires.pdf	18973
 District de D’UNE CLINIQUE D'ACCOUCHEMENT Bamako	17819
 Diversify and Climate	14997
+Djibouti Country Climate and Development Report	19847
 Doctors and Clinical Officers	4217
 Doornkop Clinic	11980
 Double Click	13461
@@ -1161,6 +1179,7 @@ Econet Begins Onboarding Clients	12503
 Economic Impacts of Climate Change	13331
 Economic Transformation and Climate Action	11586
 Education CLIMATE Climate Change and Disaster Screening	10768
+Education. Climate Change and Disaster Screening	19835
 Egypt National Climate Change Strategy	15604
 Ekuphileni Clinic	12977
 Eleme Climate	11469
@@ -1275,7 +1294,7 @@ Governor Dr. Irungu Kang'ata. Clinical	6394
 Grain and Right Click Solutions B.V	11096
 Gravity Recovery and Climate Experiment	17157
 Greater Horn of Africa Climate Outlook	9766
-Green Climate Fund	970,18,4259,3773,506,822,755,229,281,44,534,362,403,137,30,242,387,186,2379,630,158,50,100,5,109,36,557,347,269,777
+Green Climate Fund	970,18,4259,3773,506,822,755,229,281,44,534,362,403,137,30,242,387,186,2379,630,158,50,100,5,109,36,557,347,269,777,308
 Green Climate Fund GDA Governance Diagnostic	17105
 Green Climate Fund GDP Gross Domestic	11549
 Green Climate Fund SAP018	17255
@@ -1288,6 +1307,7 @@ Green Growth and Climate Resilience Strategy	14935
 Group Head of Client Coverage	3056
 Guinea Bissau DHIS2 Climate	11589
 Guinea’s National Climate Change Strategy	1264
+HEALTH FACILITY OPERATIONS CLINICAL	19667
 HISP WCA. Through the DHIS2 Climate	19355
 HIV. Climate Resilience and Environment Interventions	17101
 HRH Distribution for Clinicians	19544
@@ -1531,6 +1551,7 @@ National Climate Change Policy Republic of Burundi	13331
 National Climate Change Response Strategy	970
 National Climate Change Steering Committee	17257
 National Climate Change Strategy	15604,3916
+National Climate Finance Vehicle	19803
 National Climate Policy	970
 National Climate Services Framework COGIC	18309
 National Climate and Nature Finance Strategy	14997
@@ -1573,12 +1594,14 @@ O CLIENTE	11372
 O Cliente	11898
 OBLIGATION OF THE CLIENT	3678
 OBLIGATIONS DE CONNAISSANCE DE LA CLIENTELE	11567
+OPEN CLINIC	19645
 Offers Client Data for Sale	3364
 Office GCF Green Climate Fund KPI	14745
 Omombo Clinic	12982
 Omuhongo Clinic	12982
 Open Climate Working Group	18305
 Open Clinic	13314,870
+Open Clinic. Certains	19645
 Open Clinic. L’évaluation	14184
 Operation Climate Change	11289
 Operation Climate Change. The Committee	11289
@@ -1645,9 +1668,11 @@ Product Strengthening Climate Resilience	17962
 Programmes Climate	970
 Project Administration A. Coordinator. The Client	13037
 Project Approval Fiscal Year CLIENTS Borrower	16436
+Project Name Uganda Climate Smart Agricultural	19643
 Projet CLIMAGUI	16669
 Promote Climate-Resilient Agriculture	17157
 Promote Green and Climate-Focused FinTech	12444
+Promoting Adoption of Climate Smart Agriculture Technologies	19643
 Promoting Climate	11469
 Promotion of Climate Smart Agriculture Specialists Promotion	1988
 Proposal. The Client	13037
@@ -1778,6 +1803,7 @@ Southern African Climate Outlook Forum	8006
 Southern African Regional Climate Outlook Forum	12918
 Southern African Science Service Centre for Climate	11407
 Soutirage Clients HT	10975
+Space-IoT Solution Box for Climate-Smart Agriculture	19808
 Specialised Clinics	12976
 Sr Mashiteng Clinic	11980
 Startup and Investment Climate	12376
@@ -1791,9 +1817,12 @@ Strengthen Climate Change Information Integrity	11011
 Strengthen Climate Finance and Governance	17257
 Strengthen Global Climate Adaptation Projects	17405
 Strengthen Surveillance of Climate-Sensitive Diseases	13121
+Strengthening Climate Information and Early Warning Systems	19662
 Strengthening Climate Resilience	17962
+Strengthening Climate Smart Agricultural Research	19643
 Strengthening Climate- Informed Legal	18359
 Strengthening Climate-Informed Legal	18350,9
+Strengthening Climate-Smart Agricultural Research	19643
 Strengthening Comoros Resilience Against Climate Change	13813
 Strengthening Early Warning Systems and Climate Services	13207
 Strengthening Meteorological and Climate Services Project	16698
@@ -1840,6 +1869,7 @@ Transport CLIMATE Climate Change and Disaster Screening	1867
 Tsetse Clinic	11980
 U.S. Institutions Exiting Climate Coalitions	13532
 UAE's Minister of Climate Change and Environment Mariam	17459
+UGANDA FOR A UGANDA CLIMATE SMART	19643
 UN Climate Change Conference	15725
 UN General Assembly and Climate Week	13101
 UNDP Cli	17101
@@ -1854,6 +1884,8 @@ USAID’s Climate Change Risk Profile	16949
 USING THE SYSTEM CLIENT LOGIN	13333
 Uganda Climate Smart Agricultural Transformation	1024
 Uganda Climate Smart Agricultural Transformation Project	1024,259
+Uganda Clinical Guidelines. Below	19667
+Uganda National Space Programme. ClimCam	19773
 Under the Climate Action Enhancement Package	15500
 United Nations Climate Change	13331
 United Nations Climate Change Conference	10768,804
@@ -1889,7 +1921,7 @@ Water and Energy Nexus for Climate Change Adaptation	12977
 Weakening of Global Climate Risk Coordination Loss	13532
 Weather Stations and Climate Database Management Systems	14738
 Weather and Climate	10584
-Weather and Climate Information Services	13201
+Weather and Climate Information Services	13201,6461
 Weather and Climate Services	17922
 Wellcome-funded DHIS2 for Climate	11589,2224,4909
 West African Sahel. Weather and Climate Extremes	16135

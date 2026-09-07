@@ -17,9 +17,9 @@ AFIC12	6127
 AFICELL	16926
 AFICTA	7172
 AFIDBA	331
-AFIDEP	10759,76,2,1,130,902,16,2,1,264,1,9,12,165,1,11,1,135
+AFIDEP	10759,76,2,1,130,902,16,2,1,264,1,9,12,165,1,11,1,135,7164,1,169,14
 AFIDEP African Institute for Development Policy	11887,266,1,9,178
-AFIDEP African Institute for Development Policy UNDESA	10835,3,130,902,16,466,1,135
+AFIDEP African Institute for Development Policy UNDESA	10835,3,130,902,16,466,1,135,7334
 AFIFINA NKOUMA	16177
 AFIIA	15023
 AFIKOU Kossi SCH	19251
@@ -39,6 +39,7 @@ Administração Pública. OE11. Afirmar Angola	11379
 AfIGF	6190,4517
 AfIGF Secretariat	6190
 AfIo-pr	14566
+Afi-global	19826
 Afia-Amani Grands-Lacs	9082
 Afia-Amani Grands-Lacs Media	9416
 Aficle	15397,164
@@ -109,6 +110,7 @@ Mali. Afin	17882,33
 Mariam Afifi	10683
 Metodologia AFI	19014
 Monsieur Abdoulaye AFIZOU	17817
+National Financial Inclusion Strategy. AFI	19826
 ORODHA YA VIFUPISHO AFIS Automated Fingerprint	19590
 OTR Afin	19250
 OTSRI Koffi Afiolégo SCH	19251

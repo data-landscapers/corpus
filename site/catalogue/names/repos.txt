@@ -14,7 +14,9 @@ Central Repository	14720
 Checklist Connect Communicate Combine Collaborate Repository	8603
 DHA Repositioning Programme	5533,6453
 DSpace Digital Repository	6946
-Data Repository	4301,3247
+Data Repository	4301,3247,12190
+Data Repository Skip	19738
+Data Repository URL	19738
 Data and Services Repositories and Registries	15518
 Development Repository	7548
 Divert EMS and Dispatch Repository Applica	8603
@@ -32,6 +34,7 @@ Guidelines for Source Code Repository Systems	19575
 ILO Harmonized Microdata Repository	11581
 Information Repository	14434
 Information System for Development Repositories	15621
+Knowledge Repositories Only	19657
 Laboratory Data Repository	4922
 Laboratory Results Repository	21
 Library Policy Guidelines and Digital Repository Policy	6946
@@ -40,7 +43,7 @@ Location Registry Terminology Repository Business Rules	21
 MANSA Customer Due Diligence Repository	11809
 Módulo de Repositório	9403
 National Data Repository	4301,27
-National Laboratory Data Repository	4922
+National Laboratory Data Repository	4922,14816
 National Land Information Repository	11981,6149
 National Malaria Data Repository	11599,159
 National Repository	1009
@@ -50,7 +53,7 @@ OGP Nigeria Repository	12308
 Online Data Repository Ministry of Housing and Lands	14830
 Online Repository	18439
 Open Data Repository	18439
-Open Knowledge Repository	9025,2111
+Open Knowledge Repository	9025,2111,8521
 Policy Repository	16873,81,13,131,194
 Policy Repository The National Land Policy	9727
 R&D Data Repository	14664

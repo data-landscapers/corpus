@@ -278,6 +278,7 @@ KF KL KG KD LG MT	18286
 KPIs. During the MTR	15604
 Kaa Safe Mtaani Campaign	12256
 Kadiata Mamoudou KABA MTP Secrétaire	16620
+Kampala. MTN Mobile Money	19733
 Katibu Mtendaji	5090
 Katibu Mtendaji Baraza la Taifa la Biashara	3447
 Kazi Mtaani Program	14524
@@ -410,6 +411,7 @@ MTC. MTC	1013
 MTCI Ministry of Technology	14729
 MTCI of Mauritius. Done	318
 MTCIT	8428
+MTCO2e	19728
 MTCT MTCT	16898
 MTC’s	1013,931
 MTC’s CAPEX Paratus Paratus	1013
@@ -426,11 +428,15 @@ MTDS and ABP	10779
 MTDSOPRI	18286
 MTDT's National Information Center	14897
 MTE Computerisation	2642,2996
+MTEF Budget Projections Approved Budget	19743
+MTEF Budget Projections Approved Budget Spent	19742,4
 MTEF Intermediate Result Standard	17441
 MTEF Medium Term Expenditure Framework NFC	17116
+MTEF Medium-Term Expenditure Framework	19847
 MTEF Medium-Term Expenditure Framework NCB National	17441
 MTEF Medium-Term Expenditure WBI Women’s Budget	11193
 MTEF PBB Estimate	15716
+MTEF Projections	19744
 MTEF Table	11986
 MTEF and MTSS	11866
 MTEF and SAPO	3264
@@ -461,6 +467,7 @@ MTFESS	16898
 MTFESS FMI	16898
 MTFESS Informes	16898
 MTFESS MFPRA	16898
+MTFF Medium-Term Fiscal Framework	19847
 MTFF. Airports	17503
 MTFF. Authorities’ Views	17503
 MTFF. Staff	17503
@@ -509,7 +516,7 @@ MTN Business. MTN	5936
 MTN Bénin	14279,393,799,305,314,611,2532
 MTN Bénin. Bien	16090
 MTN CAMEROON	15655
-MTN CEO	3186,2668
+MTN CEO	3186,2668,13941
 MTN CI	419,2957
 MTN CVM Personalised Bundles	11259
 MTN Cameroon	2229,476,329,223,78,588,284,31,1586,211,566,357,1697,2138,172,108,655,1755,1988,71,207,30,442,330,992
@@ -665,7 +672,7 @@ MTN Markets Nigeria	14707
 MTN Mauritius	10793
 MTN Mauritius Revolving	10793
 MTN Mbour	9891
-MTN MoMo	3011,319,133,82,5,798,1361,365,28,266,225,1589,228,214,91,387,1564,75,276,3952,631,336
+MTN MoMo	3011,319,133,82,5,798,1361,365,28,266,225,1589,228,214,91,387,1564,75,276,3952,631,336,3797,37
 MTN MoMo Equips	10741
 MTN MoMo Fintech	3507
 MTN MoMo Merchant	8410
@@ -675,15 +682,17 @@ MTN MoMo Uganda	3330,5773,3770
 MTN MoMo Uganda Beyond	9102
 MTN MoMo Uganda Managing Director Phrase	12873
 MTN MoMo Uganda Managing Director Richard	4348
+MTN MoMo Uganda Unveils	19770
 MTN MoMo and Airtel Money	3727
 MTN MoMo and Eswatini Mobile	3422
 MTN MoMo and Instacash	3964
 MTN MoMo and Nikulipe	3545
 MTN MoMo and Nikulipe Expand Digital Finance	3545
+MTN MoMo and URA Enhance Digital Tax	19733
 MTN MoMo. Son	2765
 MTN MoMo’s Senior Manager for Products and Services	3442
 MTN Mobile	12376
-MTN Mobile Money	1537,724,696,693,611,2735,166,537,1067,2057,709,4721,689,601
+MTN Mobile Money	1537,724,696,693,611,2735,166,537,1067,2057,709,4721,689,601,2227
 MTN Mobile Money Company and Airtel Money	10299
 MTN Mobile Money Corporation	6601
 MTN Mobile Money General Manager	4261
@@ -824,10 +833,11 @@ MTN Telecel Total Figure	2776
 MTN Telecoms	11885
 MTN Transformation Team	7491,2651
 MTN USD	2454
-MTN Uganda	3011,319,375,1684,320,1156,564,981,692,1,120,129,30,399,201,414,21,376,983,72,283,743,1497,1100
+MTN Uganda	3011,319,375,1684,320,1156,564,981,692,1,120,129,30,399,201,414,21,376,983,72,283,743,1497,1100,4257,67
 MTN Uganda CEO	3330
 MTN Uganda CEO Sylvia Mulinge	3330
 MTN Uganda Calls for Greater Support	6865
+MTN Uganda Chief Executive Officer	19795
 MTN Uganda Chief Executive Officer Sylvia	9102,5269
 MTN Uganda EBITDA	10793
 MTN Uganda Foundation Board	12874
@@ -840,6 +850,7 @@ MTN Uganda and MTN MoMo	4348
 MTN Uganda and Uganda Telecom Corporation Limited	14371
 MTN Uganda's EBITDA	10793
 MTN Uganda's General Manager for Sales	8410
+MTN Uganda’s Share Price Trend	19728
 MTN Vodafone AirtelTigo Figure	2776
 MTN Voir	18383
 MTN Women	2320,1219,1420,19,1100,180
@@ -857,10 +868,12 @@ MTN Zambia Syndicated	10793
 MTN Zambia and Starlink	13536
 MTN Zambia. The Committee	13336
 MTN and Airtel	1903,569,871,458,4,948,1067,54,834,168,1390,1493,450,652,4473,179,40,2176
+MTN and Airtel Access Point Name	19715
 MTN and Airtel Africa	4150,12664
 MTN and Airtel Tigo	10822
 MTN and Canal	4756
 MTN and Cell C	11259,2202
+MTN and Celtel	19728
 MTN and China Mobile	13981
 MTN and DHL	9720
 MTN and Digitel	3442
@@ -993,8 +1006,10 @@ MTN’s Mission	7558
 MTN’s MoMo	3011,2809,739,1466,2715
 MTN’s New Frontier	2359,13,87,68,36,30,118,5,38,73,95,11,121,34,20,130,25,37,6,91,61,22,11,33,54,34,36,14,40,26,12,3,1,53,40,95,124,13,13,112,45,4,29,54,220,29,47,10,98,73,98,92,74,21,20,30,170,31,30,91,61,13,2,12,12,47,7,58,2,58,102,75,67,26,56,46,65,1,8,8,1,14,28,62,8,33,16,28,4,8,71,7,18,54,11,5,3,96,47,11,2,12,27,34,3,24,18,34,7,1,30,3,82,57,50,35,3,70,4,171,6,45
 MTN’s Rooftop Event Centre	2563
+MTN’s Secondary Offer Mid	19728
 MTN’s South African	9663
 MTN’s Speed-based Bundles	11259
+MTN’s Wakanet	19728
 MTN’s XtraTime	10807
 MTN’s Zol Kebir	10657
 MTN’s and Moov	10822
@@ -1070,6 +1085,7 @@ Maladie Sexuellement Transmissible MTA	15475
 Mamadou TRAORE MTP Assistant	16620
 Marikana. MTN	7738
 Marine Marchande MTL Ministère du Tourisme	15580
+Market Capitalization and Share Prices MTN Uganda	19728
 Market Watch MTC	11771
 Maroc Telecom MTN	10822
 Martine G. Mtonga	13308
@@ -1505,3 +1521,4 @@ Zain MTN	14897
 Zain South Sudan and MTN South Sudan	2313
 Zain and MTN	14897
 Zambia National Commercial Bank MTN Mobile	13535
+Zuku Fiber and MTN Wakanet	19728

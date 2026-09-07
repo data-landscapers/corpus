@@ -23,7 +23,7 @@ Administration STRUCTURES OPERATIONNELLES Capitaine	15901
 Advisory Structure	14601
 Agricultural Structures	19554
 Airtel Money’s Struggles Risk Leaving	8535
-Ajustement Structurel	15542
+Ajustement Structurel	15542,4308
 Ajustement Structurels	15542
 Amortissement Dette Structurée RESSOURCES DE FINANCEMENTS	15999
 Architectural and Structural	9123
@@ -153,6 +153,7 @@ Domestic Post Code Structure and Format	13081
 EC. Structuré	15599
 EEC Tariff Structure Non-TOU Tariffs Type	12394
 EGYPTIAN Al GOVERNANCE FRAMEWORK- STRUCTURE	16212
+EMRS Support Structure	19667
 EQUIPEMENT STRUCTURES RATTACHEES SECURITE Lieutenant	15455
 EQUIPEMENT STRUCTURES RATTACHEES SECURITE Sous-lieutenant	15455
 Education In-depth Structured Interview	899
@@ -231,7 +232,8 @@ Governance Structure Cloud	16924
 Governance Structure Service	11952
 Governance Structure The Board of Directors	12969
 Governance Structure This Executive Order	16983
-Governance Structures	14965
+Governance Structure and Management	19666
+Governance Structures	14965,4674
 Governance Structures Undermine Economic Imperatives	4535
 Governance Structures and Key Responsibilities	12240
 Governance Strukturen	1530
@@ -270,6 +272,7 @@ INSTITUTIONAL STRUCTURES	14879,1993
 INTERCONNECTION INTRATNET DES STRUCTURES	18317
 INTERNAL AUDIT EXECUTIVE PA MANAGEMENT STRUCTURE	11198
 INTERPRETATION STRUCTURE A B CDE F	18077
+ISMS Structure	19801
 IV. IMMIGRATION DEPARTMENT Structured Categorization Fees	18541
 IV.2.1 Structures	13306
 Identifying Structural Gender Biases and Implications	6953
@@ -329,6 +332,7 @@ Local Government Structures	16951
 Loss of Structure	17114
 Lot Structured	14778
 L’EQUIPEMENT Sécurité STRUCTURES RATTACHEES Sous-lieutenants	15901
+MACRO ORGANISATIONAL STRUCTURE	19772
 MACRO PRUDENTIAL SURVEILLANCE STRUCTURE	15023
 MAITLAMO GOVERNANCE STRUCTURE	12529
 MALI STRUCTURES ET CADRES CORPS CAT	17899
@@ -348,7 +352,7 @@ Management Structure	3513,13430
 Market Structure	6946,2804,1204,1435,507,4974
 Market Structure Equatorial Guinea	16942
 Market Structure Rule	6935
-Market Structure Study	12563
+Market Structure Study	12563,7114
 Market Structure and Competition	17870
 Market Structure and Competition Environment	12659
 Marketplace Structure and Governance	10157
@@ -449,6 +453,7 @@ Proportion des Structures du SSN	18169
 Proposal Refinement and Deal Structuring	8546
 Proposed Digital Health Governance Structure	18478
 Proposed Implementation Structures	15130
+Provision and Management of Structures	19783
 Prénom Structure Fonction Email	16620
 Prénoms Structures	17845
 Public Service Structures	4217
@@ -469,7 +474,7 @@ Reading Comprehension and Language Structures	899
 Recommended Structure	18461
 Regional Offices for Capacity Building WCO Structure	13051
 Regulatory Structure Board Members Management Departments	12515
-Report Structure	17043
+Report Structure	17043,2596
 Reporting Structure	14546
 Repository Structure	18038
 Resource Profiles Structures	6666
@@ -562,6 +567,7 @@ SUVs and President's Wife While Millions Struggle	11866
 Sampling Frame Structure	15244
 Sampling Structure	10862,7976
 Schematic Structure	14935
+Scope and Structure	19638
 Section SOA.19. Completion of Organizational Structure	16833
 Sector Governance Structure	14877
 Sectoral Roundtables Structured	7548
@@ -585,7 +591,7 @@ Struben Street	11220,21
 Struck	380
 Struckmann	961
 Structually	10954
-Structural	740,49,1039,160,131,1464,21,627,201,93,151,118,66,673,1299,505,129,81,243,100,62,716,455,636,1034,51,95,65,127,5,4,16,313,94,816,31,799,137,39,76,224,183,726,27,53,77,27,143,14,146,83,56,24,128,232,582,810,22,242,57,431,375,1122
+Structural	740,49,1039,160,131,1464,21,627,201,93,151,118,66,673,1299,505,129,81,243,100,62,716,455,636,1034,51,95,65,127,5,4,16,313,94,816,31,799,137,39,76,224,183,726,27,53,77,27,143,14,146,83,56,24,128,232,582,810,22,242,57,431,375,1122,393
 Structural Adjustment	7233
 Structural Adjustment Programs	7233
 Structural And Institutional Reforms	1828
@@ -609,6 +615,7 @@ Structural Equation Modelling	4432
 Structural Feature	10010
 Structural Gaps	10370
 Structural Industry Statistics	11237
+Structural Interoperability	19644
 Structural Issues	13052
 Structural Layering	16212
 Structural Logic of Open Access	16814
@@ -632,7 +639,7 @@ Structural and Institutional Impediments	14666
 Structurally	3130,2072,4380,34,4532
 Structuration	643,13205,1694,13,293,88,101,710,1111,43,112,90,243,642,233
 Structuration Le PSRE	15722
-Structure	235,160,32,118,12,180,450,1,17,27,12,3,32,256,46,121,282,244,30,28,275,64,534,1,650,611,107,31,8,21,146,96,10,56,34,202,112,354,557,281,6,496,14,654,466,205,57,271,108,127,51,546,591,129,569,37,1,92,20,43,215,77,48,3,262,316,20,84,89,15,208,82,18,2,154,788,10,2,2,20,7,2,13,34,43,154,1,253,21,86,27,21,4,472,16,1,1,80,166,24,70,49,17,1,267,80,230,5,14,48,39,19,71,4,122,3,49,60,25,104,100,185,304,227,19,4,50,59,26,116,12,97,126,86,295,93,6,31,9,16,15,32,38,31,51,257,153,510,3,228,34,41,219,31,14
+Structure	235,160,32,118,12,180,450,1,17,27,12,3,32,256,46,121,282,244,30,28,275,64,534,1,650,611,107,31,8,21,146,96,10,56,34,202,112,354,557,281,6,496,14,654,466,205,57,271,108,127,51,546,591,129,569,37,1,92,20,43,215,77,48,3,262,316,20,84,89,15,208,82,18,2,154,788,10,2,2,20,7,2,13,34,43,154,1,253,21,86,27,21,4,472,16,1,1,80,166,24,70,49,17,1,267,80,230,5,14,48,39,19,71,4,122,3,49,60,25,104,100,185,304,227,19,4,50,59,26,116,12,97,126,86,295,93,6,31,9,16,15,32,38,31,51,257,153,510,3,228,34,41,219,31,14,105,6,49,86
 Structure Administrative Indépendante. Toutefois	15936
 Structure Autres	17946
 Structure Autres Résultats	17946
@@ -677,6 +684,7 @@ Structure de Pilotage	17824
 Structure du Gouvernement	16635,2,8,6
 Structure du Ministère Offres	1297
 Structure for Private Capital	14621
+Structure of CRVS	19804
 Structure of DNSSI	1185
 Structure of ESTDA	13952
 Structure of Education	14897
@@ -696,7 +704,7 @@ Structure of Wealth	16996
 Structure the Ecosystem Create	18039
 Structure the Project	17441
 Structure-Empower-Transform	2456
-Structured	613,209,148,167,7,88,294,252,450,30,1603,782,100,752,135,110,188,862,661,97,418,787,87,495,747,136,129,791,425,734,740,954,786,9,4,29,178,37,130,980,8,720,263,4,121,674,750,1
+Structured	613,209,148,167,7,88,294,252,450,30,1603,782,100,752,135,110,188,862,661,97,418,787,87,495,747,136,129,791,425,734,740,954,786,9,4,29,178,37,130,980,8,720,263,4,121,674,750,1,948
 Structured Collaborative Models	17116
 Structured Commodity Trade Finance	11469
 Structured Data	8670
@@ -751,13 +759,14 @@ Structuring Surveys	15760
 Structuring of PAPJs and SRAs	17441
 Structuring the Fund	8764
 Structuré	4742
-Structurée	16284
+Structurée	16284,3549
 Struet	11135
 Struggles	10335
 Struggles for Equitable Technology Governance	4842,6164,1
 Struggling	10165,596
 Struggling Schools	10465
 Struhsaker	16996
+Struizendam Primary School	19688
 Strukturen	179
 Strukturierung	9062
 Struminskaya	8436
@@ -791,6 +800,8 @@ Thematic Engagement Structure Stakeholder	7548
 Thousand-Year Struggle Over Technology and Prosperity	8380
 Transformation Structurelle	10975,5646
 UN AGENDA STRUCTURE	16307
+UNBS Organization Structure	19712
+UNBS Organization Structure APPROVED MACRO STRUCTURE	19712
 Un Organe Consultatif. LES STRUCTURES AUTONOMES	16641
 Urban Addressing Structure	11129
 Urban Addressing Structure Addressee	11129

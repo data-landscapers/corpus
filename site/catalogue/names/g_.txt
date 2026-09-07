@@ -33,7 +33,7 @@ Amissi G	10625,6965
 Annex G	3861
 Annexe G Etat	14472
 Annexure G	11240,746,1434
-Appendix G	236,17633
+Appendix G	236,17633,1798
 Appleton G	14666
 Asiki G	771
 Axe G	18015
@@ -178,7 +178,7 @@ G By Maria Macharia Kenya	10734
 G CENTRE DE SANTÉ AGRÉ	13300
 G CONDOM FÉMININ	13300
 G Capacite Circuit Ethernet	16214
-G Capital	8937,1,141,2704
+G Capital	8937,1,141,2704,7974
 G Capital and IFC	9079
 G Cell C	10673
 G Congratulations	19089
@@ -239,6 +239,7 @@ G Fifth Generation B2B Business	13346
 G Fifth Generation Network ABMT Appropriate	2775
 G Fifth Generation Telephone Wireless Technology	11857
 G Fifth-generation	16915
+G Fixed Wireless	19728
 G Fixed Wireless Access	6100,10710
 G Fourth	18931
 G Fourth Generation	6671,6675,5431
@@ -309,6 +310,7 @@ G Market Snapshot	5675
 G Mixed Use SFF BC	12681
 G Mobile	4150,7707,3311,2071
 G Mobile Coverage	16876
+G Mobile Network Coverage	19728
 G Mobile Services	14822,2061,1,1
 G Money	15600
 G Moov Africa Togo	19338
@@ -484,6 +486,7 @@ G and Fiber Connectivity	14151
 G and Fiber Ensure Data Privacy and Security	15713
 G and Fiber Initiative	15713
 G and Fiber Networks	8538
+G and H	19638
 G and Industrial IoT	3796,1205
 G and IoT	4902,10218
 G and LEO	8241
@@ -557,6 +560,7 @@ G. Changes	18359
 G. Chaque	5071
 G. Chinyama	10215
 G. Como	11111
+G. Conclusion	19737
 G. Corporate Commitments	15553
 G. DATA DICTIONARY	11860
 G. DECLARATIONS	5113
@@ -618,6 +622,7 @@ G. Lanzuolo	5700
 G. Le Burundi	13492
 G. Leisure	17127
 G. Lesjongard	14753,88
+G. Lessons Learned and Reflected	19835
 G. Lin	11140
 G. L’Union	16158
 G. L’impôt	16047
@@ -653,9 +658,11 @@ G. Other Safeguard Policies	11525
 G. Para	11111
 G. Parallèlement	13531
 G. Paulatinamente	1215
+G. Personal Autonomy and Individual Rights	19848
 G. Plank. LASER Synthesis Paper	11006
 G. Plus	19429
 G. Pour	10226,5717,1893
+G. Printing. Neves	19654
 G. Program Modalities and Other Issues	17257
 G. Préoccupations	18204
 G. Public-Private Partnerships	16975
@@ -673,6 +680,7 @@ G. Risks and Monitoring	10997
 G. Risques	16613
 G. S	8301,2834,7322
 G. S. Sher	6997
+G. SCH	19823
 G. STATUS OF IMPLEMENTATION OF COMMUNITY	18455
 G. Salah Eddine	10688
 G. Selon	7010,8464
@@ -738,9 +746,11 @@ INSCRIVEZ LE G	13300
 INSCRIVEZ LE NIVEAU D'HÉMOGLOBINE G	13300
 INTEROPERABILITE G	18077
 ISIQEPHU G IMINININGWANE YEMIZILA	11573
+ITU-T-Rec G	19745
 Iaccarino G	14666
 Identificação D G P O G	6530
 Informação Financeira C G J Cofre	6530
+International Telecommunications Union Standards ITU-T G	19745
 Introduction. In M. G. Cowles	17780
 Irving G	771
 J. G	17780
@@ -886,6 +896,7 @@ Schedule G	12484
 School G- Grand	582
 Scope G	16900
 Secrétariat Permanent. G. OUTILS DE SUIVI	17842
+Section G	19823
 Section G. Financial Sustainability	15164
 Sitaraman G	5242
 Social Welfare Department. G. Resignation	12977
@@ -911,6 +922,7 @@ Taux Brut de Scolarisation Garçons Filles G	10847
 Taux Net de Scolarisation Garçons Filles G	10847
 Torsvik G	771
 Tourisme Dr. Kossi G. LAMADOKOU	19235
+Towns and Villages. G. Printing. Tapp	19654
 U A L R E G	10775
 U TWY G	16552
 UTUR' AFFAIRS CARD In Fi G	15999

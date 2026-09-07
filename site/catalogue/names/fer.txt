@@ -9,9 +9,9 @@ Acronyms ASFR Age-Specific Fertility Rate ABR	16950
 Adjudant LEKINGANI Ferdinand. COMMISSARIAT GENERAL	16099
 Administration Territoriale Ferkessedougou	17817
 Adérito Ferreira-Angop Quarta	11429,3,47
-Age Specific Fertility Rate	12151,262,226,2417
+Age Specific Fertility Rate	12151,262,226,2417,4659
 Age Specific Fertility Rate ASDR	12639
-Age Specific Fertility Rates	12151
+Age Specific Fertility Rates	12151,7564
 Age-Specific Fertility Rate	12413,2643
 Age-Specific Fertility Rates	12413,259,2384
 Agriculture Fertilizer Financing	11469
@@ -53,7 +53,7 @@ China. Orlandes Fernades	10752
 Commandant Fernand Edgard NZIGOU NZIGOU	16381
 Commissioner Carlos Castresana Fernández	3584
 Construction of La Ferme	14830
-Current Fertility	13454,1793
+Current Fertility	13454,1793,4468
 Current Total Fertility Rate	12963
 Cézar Correia Fernandes	15404
 DE FER II GLYCINE SULFATE	15930
@@ -112,7 +112,7 @@ FERRET OKANA	15901
 FERRIQUE POLYMALTOSE ACIDE FOLIQUE	15930
 FERROUS AND FOLIC ACID SUPPLEMENTATION	19544
 FERROVIAIRES	15999
-FERTILITY	13454,1793,3852
+FERTILITY	13454,1793,3852,616
 FERTILITY CLINIC	14773
 FERTILITY PREFERENCES	15247
 FERTILIZERS BY TYPE OF INORGANIC FERTILIZERS	17043
@@ -137,7 +137,7 @@ Ferhan Juhoor	14797
 Feria	10997
 Feria and Swistak	10997
 Feriados Perguntas Frequentes	11933
-Ferid Belhaj Country Director	13836
+Ferid Belhaj Country Director	13836,5999
 Ferid Belhaj Regional Director	17458
 Feriol Bewa	2349,1877
 Ferkessedougou	16032,1785
@@ -244,19 +244,21 @@ Fertile Period	15247
 Fertiliser Information System	8908,10676
 Fertilisers Imports	11258
 Fertilisers and Feed	13403
-Fertility	5889,6262,232,30,550,148,956,989,191,3194,2,184
+Fertility	5889,6262,232,30,550,148,956,989,191,3194,2,184,1088
 Fertility Clinic	14773
 Fertility Fertility	12655
 Fertility Measures	12151
+Fertility Number of Persons Rate Total Fertility	19715
 Fertility Other Measures	12383
 Fertility Planning	15247
 Fertility Preferences	14067
-Fertility Rate	12151,232,30,242,17,2384,4043
+Fertility Rate	12151,232,30,242,17,2384,4043,616
 Fertility Rate ASMR Age-Specific Mortality Rate	12413
 Fertility Rate NRR Net Reproduction Rate	16950
 Fertility Rate Poorest	18441
 Fertility Rate Rural National Urban	19544
 Fertility Rate TJ Tera Joules	2775
+Fertility Rates	19715
 Fertility and Family Planning	14523
 Fertilité du Sol	17829
 Fertilizantes	4209
@@ -324,7 +326,7 @@ M. Fernand EPIGAT. DIRECTION GENERALE	16381
 M. Mustapha Ferhaoui	15930
 M. NDJOMO Ferdinand	16195
 M24000000187551V FERPLAN BON BOEUF RADISSON	7346
-MANIRAKIZA Ferdinand	13341
+MANIRAKIZA Ferdinand	13341,6346
 MANIRAKIZA Ferdinand FONCTION Secrétaire Permanent IRAKOZE	13341
 MTN SA CEO Ferdi Moolman	5621
 MTN SA CEO Ferdi Moolman and South	5621
@@ -338,6 +340,7 @@ Marcelino Fernandes Pires	16290
 Maria Fernanda Mendes Varela	15404
 Mario Ferreira	11513
 Mauro Ferreira Franco	10753
+Measures of Current Fertility	19715
 Medium Fertility Scenarios	16935
 Medium Fertility Scenarios. Housing Characteristics	16935
 Merzak Ferroukhi	15930
@@ -382,6 +385,7 @@ R SOC DE DEVELOP DE FER	16623
 RA and Ferrer Conill	2096
 RSF Fermer Protéger	18054
 Ray Fernandez	2677
+Regional Fertility Differentials	19715
 Rosario Fernandes Loveira Minister of Finance Ministry	2474
 Rosário Fernandes Louveira	12789
 Rua Fernão Melo	12148

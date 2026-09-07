@@ -25,12 +25,14 @@ DIR FY HC HCMS HRM&D ICT	12920
 DRM and HRM	15090
 Develop HR	17116
 Development Plan HRM&D Human Resource Management	11986
+E HRMS	19743
 EAGLE HR CONSULTANTS LIMITED Data Processor	7167
 EMIS and HRMIS	16436
 EPS Fintech GDP GT HC HRH	11131
 ERP and HRIS	15164
 Education HNO Humanitarian Needs Overview HRP	18911
 Expenditure and HR and Payroll Modules	11231
+Finance and Administration Committee HR Human Resource	19666
 Finance and HR	15164
 GEWE Gender Equality and Women’s Empowerment HRCSL	18477
 GIR GPE GRM HRMIS ICR IDA	16436
@@ -54,8 +56,10 @@ HR D	1067
 HR Development	15120
 HR Hub	3378,13607
 HR Human Resource HQ Headquarters ICT	13310
+HR Human Resources	19847
 HR Human Resources IADI International Association	15023
 HR Hôpital	17843
+HR ICT	19641
 HR Lack	16968
 HR MIS	13314
 HR Management	11218
@@ -122,7 +126,7 @@ HRHIS Docs Data	19623
 HRHIS3	19623
 HRHO.CA	9826
 HRIAs	4424
-HRIMS	13477
+HRIMS	13477,6235
 HRIMS. Why HRIMS Matters for ECZ	13477
 HRIS Health System Managers	18478
 HRIS Human Resource Information System IaaS	6432
@@ -141,10 +145,11 @@ HRM&D and IMS HRM&D and IMS	11986
 HRM&D. The NSP	11986
 HRM-related	1284
 HRMC Human Resource Management Circular MTEF	11986
-HRMIS	127,1157,2011,7490,1082,98,952,1622,358,38,30,66,59,428,143,775,422,38,26,1739,588
+HRMIS	127,1157,2011,7490,1082,98,952,1622,358,38,30,66,59,428,143,775,422,38,26,1739,588,438,25,135
 HRMIS DPI	3295
 HRMIS Electronic Human Resource Management Information	16922
 HRMIS Human Resource Information Management System	12663
+HRMIS Human Resource Management Information System	19847
 HRMIS Human Resources Management Information System	11965,3553
 HRMIS Page	16436
 HRMIS System Requirements	15031

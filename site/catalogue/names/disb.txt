@@ -18,6 +18,7 @@ BORROWE R'S IDA-D9060- Disbursi	2473
 Balance Disbursed Commitments IBRD	1284,15638
 Bank FM and Disbursement	18887
 Bank's Disbursement Guidelines	8166
+Bank-acceptable ToRs. Disbursement Arrangements	19835
 Board Restructuring Disbursed	18754
 Body Revenue Authority Disburses Additional Rwf464	14968
 Budget and Disbursement	13332
@@ -40,6 +41,7 @@ D. Disbursement Linked Indicators and Verification Protocols	11905
 DA Designated Account DFIL Disbursement and Financial	10768
 DA. Disbursements	10768
 DE4A Digital Economy for Africa DFIL Disbursement	1264
+DFIL Disbursement and Financial Information Letter	19847
 DFIL Disbursement and Financial Information Letter DGID	18293
 DFIL Disbursement and Financial Information Letter DGSDS	19455
 DFIL Disbursement and Financial Information Letter DLI	17458
@@ -105,7 +107,7 @@ Disbursed-Linked Indicators	17458
 Disbursed-only	16751
 Disbursed-usd	607
 Disbursed. Grants	14456
-Disbursement	11,11,565,563,57,660,606,51,251,214,1664,486,5690,3,132,426,135,330,8,102,230,25,834,277,89,455,22,41,28,4,162,839,48,119,234,27,12,73,69,106,4,95,143,131,112,75,435,242,26,194,389,344,113,397,135,141,216,36,327,70
+Disbursement	11,11,565,563,57,660,606,51,251,214,1664,486,5690,3,132,426,135,330,8,102,230,25,834,277,89,455,22,41,28,4,162,839,48,119,234,27,12,73,69,106,4,95,143,131,112,75,435,242,26,194,389,344,113,397,135,141,216,36,327,70,551,12
 Disbursement Arrangements	11924,2014,1723
 Disbursement Arrangements Disbursements	18370
 Disbursement Categories	1228,56,15612,26,1843,519
@@ -137,6 +139,7 @@ Disbursement Linked Indicator DREEC	18370
 Disbursement Linked Indicator Disbursement Linked Result	16032
 Disbursement Linked Indicators	10870,6,1029,271,3487,369,1438,35,1477,260,239,74
 Disbursement Linked Indicators DLI	11905
+Disbursement Linked Indicators Matrix	19835
 Disbursement Linked Indicators. Beyond	16922
 Disbursement Linked Result	17470
 Disbursement Linked Results	16032,1438
@@ -156,7 +159,7 @@ Disbursement Schedule	15659,1799
 Disbursement Schedule II. Section III. B	19239
 Disbursement Summary	1284,1189,2180,7312,1866,66,1069,727,109,230,890,1437,450,475
 Disbursement Tranche. Subject	16219
-Disbursement and Financial Information Letter	1264,603,1737,7164,196,891,1476,2327,1,1277,13,2335
+Disbursement and Financial Information Letter	1264,603,1737,7164,196,891,1476,2327,1,1277,13,2335,551,12
 Disbursement and Financial Information Letter. A Designated	1284
 Disbursement and Financial Information Letter. Figure	15661
 Disbursement and Financial Information Letter. Funds	16949
@@ -171,10 +174,10 @@ Disbursement-Linked Indicators	15693,945,1732
 Disbursement-Linked Indicators Purpose of DLI DLI Financing	18370
 Disbursement-Linked Result	17458
 Disbursement-linked	15693
-Disbursement-linked Indicators	11855
+Disbursement-linked Indicators	11855,7980
 Disbursement. Current	15969
 Disbursement. Unless	19214
-Disbursements	11,639,614,20,1428,177,694,21,1084,1891,254,95,949,2993,94,431,130,330,8,42,66,224,33,39,173,284,334,273,537,1029,83,179,240,12,142,105,1,2,70,4,2,276,19,47,65,561,191,26,72,6,79,17,161,184,29,35,399,54,48,127,217,4,1,15,164,258,17,8,70,95,101,131,28,3,4,35,197
+Disbursements	11,639,614,20,1428,177,694,21,1084,1891,254,95,949,2993,94,431,130,330,8,42,66,224,33,39,173,284,334,273,537,1029,83,179,240,12,142,105,1,2,70,4,2,276,19,47,65,561,191,26,72,6,79,17,161,184,29,35,399,54,48,127,217,4,1,15,164,258,17,8,70,95,101,131,28,3,4,35,197,348
 Disbursements Arrangements	1228,56,2320,8361,4931,26
 Disbursements Arrangements No Additional Regional	16032
 Disbursements Arrangements No DDO No Additional	18359
@@ -193,7 +196,7 @@ ECOWAS Disbursement and Financial Information Letter EDGE	3604
 Estimated Disbursements	15372
 Estimates No Disbursements Arrangements No DDO	16187
 Ethiopia. Project Disbursement Project Performance Ratings	14010
-Expected Disbursements	969,295,603,1695,42,7164,61,135,453,108,35,295,50,1426,1,1578,27,39,515,24,38,68,37,1,2,82,401,752,26,27,492,852,946,6
+Expected Disbursements	969,295,603,1695,42,7164,61,135,453,108,35,295,50,1426,1,1578,27,39,515,24,38,68,37,1,2,82,401,752,26,27,492,852,946,6,398,192,12
 FG Disburses N6.6 Billion To Over	18243
 FM and Disbursement Arrangements	15518
 FM and Disbursements Arrangements	15658,3
@@ -323,7 +326,9 @@ Type Amount Disbursed Key Revisions	11924,6038
 Type Effectiveness Type Effectiveness Type Disbursement	15553
 UDP3 Phase II. I. Disbursement Profile	16614
 Undisbursed Historical Disbursed	6928,949,9628,501
+Using Disbursement-linked	19835
 Uwezo Fund Loans Disbursement	2775
+VII. RESULTS AND DISBURSEMENT-LINKED INDICATOR FRAMEWORKS	19835
 World Bank Disbursement Guidelines for IPF	1264,14880
 World Bank Disbursement Guidelines for Projects	15658,3
 World Bank Disbursement Handbook	11905

@@ -25,6 +25,7 @@ CARRIX MEDIA GROUP LIMITED Data Processor	7167
 COLE DE PREPARATION AUX CARRIERES ADMINISTRATIVES	16381
 COMESA Carrier’s License The License	13563
 Caillasse Carrière Ambatomaro Distance	14489,1
+Car Carriers	19746
 Cargo Carrier	15478
 Carrao	10964
 Carreaux	19350
@@ -46,7 +47,7 @@ Carreteras	4209
 Carreteras Baney	4209
 Carretero	13314,2160,2396
 Carrey Hotel	14358
-Carried	267,1024,1,1,1,1,1,29,1,1,1,1,1,330,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,255,1,1,1,1,1,1,1,15,50,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,37,1,1,1,1,1,369,87,118,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,728,79,533,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,20,109,1,1,1,1,1,210,1,1,1,1,1,272,984,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,192,706,2161,3150,322,899,1677,1085,1191,199
+Carried	267,1024,1,1,1,1,1,29,1,1,1,1,1,330,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,255,1,1,1,1,1,1,1,15,50,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,37,1,1,1,1,1,369,87,118,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,728,79,533,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,20,109,1,1,1,1,1,210,1,1,1,1,1,272,984,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,192,706,2161,3150,322,899,1677,1085,1191,199,2405
 Carrier	5226,646,3251,323,1510,4536,1024,323,33,990,679
 Carrier Benchmarking How Infrastructure Choices Overcome	6051
 Carrier Grade NAT	7010
@@ -91,7 +92,7 @@ Carroll	15715
 Carrosserie	2966
 Carruurta	14859
 Carruurtu	14859
-Carry	1988,1490,200,4868,3410,193,77,27,27,78,31,241,287,205,192,544,90,833,26,11,61,43,631,160,1120,25,14,6,9,15,37,12,24,3,1522,412,607
+Carry	1988,1490,200,4868,3410,193,77,27,27,78,31,241,287,205,192,544,90,833,26,11,61,43,631,160,1120,25,14,6,9,15,37,12,24,3,1522,412,607,325
 Carry Case	34
 Carry Home Never	7777
 Carry Out Internal Audits	14546
@@ -186,6 +187,7 @@ Tanzania Agricultural Carrot	19554
 Tanzania Submarine Cable Hub and Carrier	19532
 TanzaniaSubmarine Cable Hub and Carrier Grade	19532
 Telecommunication Carrier Interconnections	16412
+Thursday. P Carried	19641
 Tier III Carrier Hotel Datacenter	8542
 Type of Inspections Carried Out During Construction	12389
 Ulisses Carreia	2054

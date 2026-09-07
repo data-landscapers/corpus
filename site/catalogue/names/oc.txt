@@ -121,6 +121,7 @@ DETAILS REGARDING PRINCIPAL PROPERTIES OCCUPIED	4896
 DETAILS REGARDING PRINCIPAL PROPERTIES OCCUPIED PROPERTY	4896
 DID IT OCCUR	17099
 DISASTER OCCURRENCE FREQUENCY	19520
+DISTRIBUTION OF FIRE OCCURRENCES	19772
 DOUCHE DANS LES LOGEMENTS OCCUPÉS	19412
 Daniel Ochieng	18748
 Date of Occurrence	12151
@@ -170,6 +171,7 @@ Europe Asia Oceania	4972
 Europe Oceania Countries	16830
 Europe Oceania Very	10840
 Exchange Rate Effective Oct	17458
+Exhibition Oct	19709
 Exonérations Octrois	19250,41
 F21 Oct	10714
 F22 Oct	10714
@@ -240,13 +242,13 @@ Immatriculation Registre de Commerce Agrément OC	17485
 India Ocean	14808
 Indian Journal of Occupational and Environmental Medicine	12090
 Indian National Centre for Ocean Information Services	19063,1
-Indian Ocean	21,564,778,363,951,602,85,272,92,126,241,353,107,567,102,28,601,255,107,679,335,136,1,1,879,620,283,1226,808,640,328,674,31,164,711,2,11,19,24,6,2,545,103,22,11,30,60,94,9,52,21,6,57,3,10,1,5,5,16,110,174,2424,1089,2,241,25,39,1,20,91,105,353,1,12
+Indian Ocean	21,564,778,363,951,602,85,272,92,126,241,353,107,567,102,28,601,255,107,679,335,136,1,1,879,620,283,1226,808,640,328,674,31,164,711,2,11,19,24,6,2,545,103,22,11,30,60,94,9,52,21,6,57,3,10,1,5,5,16,110,174,2424,1089,2,241,25,39,1,20,91,105,353,1,12,294
 Indian Ocean AI Innovation Network Regional	14566
 Indian Ocean Artificial Intelligence Summit	14618
 Indian Ocean Aucun	13701
 Indian Ocean Basin	3636,218,9166
 Indian Ocean Colloquium	14839
-Indian Ocean Commission	7795,6947,3,3,71,20,4046
+Indian Ocean Commission	7795,6947,3,3,71,20,4046,940
 Indian Ocean Community	18889
 Indian Ocean Conference	13744,1061,3
 Indian Ocean Convection RGB	13701
@@ -419,7 +421,7 @@ OC Pt3	16187
 OC Pt3.3	16187
 OC Pt4	16187
 OC TOBRE	16645
-OC4IDS	3969,5463
+OC4IDS	3969,5463,10303
 OC4IDS Publisher	9432
 OCARBURES JEAN-B PTIS'IE Olivier EUE	14479
 OCASSION OF THE LAUNCH	12925
@@ -532,6 +534,7 @@ OCR'd. Reading	2067
 OCR-blocked	3164,474,2910,348,47
 OCR-corrupted	19230
 OCR-degraded	15970
+OCR-derived	19769
 OCR-garbled	15180
 OCR-scanned	13723
 OCR-verified	3700,290
@@ -592,9 +595,10 @@ Occup Sous- Sous- Chômeu Taux TF	737
 Occupancy	9155,3272,344,206,5316
 Occupancy Permit	12389
 Occupancy Purchased Rented	19554
+Occupancy Tenure	19715
 Occupant	18286
 Occupati	14742
-Occupation	1988,2908,6322,1008,1074,99,1089,1,1,507,476,69,724,669,164,15,1090,89,19,1214
+Occupation	1988,2908,6322,1008,1074,99,1089,1,1,507,476,69,724,669,164,15,1090,89,19,1214,110
 Occupation Apr-Jun	11296
 Occupation Botswana	14098
 Occupation Business Address Mr Mgqibelo Gasela	4896
@@ -612,13 +616,15 @@ Occupation des Terres	15715
 Occupation du Sol	18339
 Occupation du SolRGPH Recensement Général	15555
 Occupation of Project	17114
+Occupation. Processing	19834
+Occupation. Regarding	19834
 Occupational	1988,1468,3376,114,4194,58,1055,1132,138,1053,143,17,79,182,208,454,1241,26,188,1260
 Occupational Bands	11218
 Occupational Category	7151
 Occupational Health	1988,11090,1658,2378
 Occupational Health Issues Reported Quartery	19544
 Occupational Health Support	14761
-Occupational Health and Safety	1818,170,9297,968,1079,60,1386,2171,51,114
+Occupational Health and Safety	1818,170,9297,968,1079,60,1386,2171,51,114,2721
 Occupational Health and Safety Act	1009,10122
 Occupational Health and Safety Act No	1988
 Occupational Health and Safety Impacts	12253
@@ -642,7 +648,7 @@ Occupational Medicine	14773
 Occupational Polarization	16266
 Occupational Qualifications	6832
 Occupational Safety	12253,807,1701,266,3952
-Occupational Safety and Health	12964,1778,4542
+Occupational Safety and Health	12964,1778,4542,362,9
 Occupational Safety and Health Act	1988,10268,2166,320,19,74,4750
 Occupational Safety and Health Act No	19531
 Occupational Safety and Health Authority	19585
@@ -673,6 +679,7 @@ Occurrence Books	12310
 Occurrence Incidence Criticité	10874
 Occurring	6432,5928
 Occurs	14434,2433
+OceSveD	19801
 Ocean	12138
 Ocean Bay Hotel	8362,97
 Ocean Bottom Cable	11405
@@ -738,6 +745,7 @@ Ocorrências Químicas	11376
 Oct Les Organismes Gestionnaires	19264
 Oct Nov Dec General Index	16935
 Oct Proposed Rating	2712,1976
+Oct-08 Jun-26	19749
 Oct-16 Sep-16 Aug-16 Jul-16 Jun-16 May-16	14896
 Oct-17 Oct-18 Oct-19 Oct-20 Oct-21 Oct-22	17990
 Oct-17 Sep-17 Aug-17 Jul-17 Jun-17 May-17	14896
@@ -829,8 +837,9 @@ Oct-2030. Part of Phase	2254
 Oct-2031 Bank	16144
 Oct-2032 Bank	3562
 Oct-21	16902,33
+Oct-23 Jun-26	19749
 Oct-23 Oct-24 Oct-25 Iron Ore	17990
-Oct-24	12256,2490
+Oct-24	12256,2490,4966
 Oct-24 Attorney General’s Office	14746
 Oct-24 District Council of Savanne	14746
 Oct-24 Nov-24 Dec-24 Jan-25 Feb-25 Mar-25	12256
@@ -847,6 +856,7 @@ Octave	15744
 Octave Fresnel	16100
 Octave MBOUMBA	16175
 Octavia Carbon	7482
+Octavio	19835
 Octivius Kahiya	5315
 October-2	16331
 October-2023	1154
@@ -928,9 +938,10 @@ Parlement MTPT OCDE O.M. Ministère des Transports	13290
 Patricia Asero Ochieng and Others	3005
 Paul Octave Wiehe Auditorium	14779,56
 Per Diem Occupational Health Local	1988
+Percentage of Occupancy Tenure of Dwelling Unit	19715
 Perform Occupational Health and Safety Act	11986
 Peuples Autochtones OCDH	15848
-Place of Occurrence	2775,9376,75,446
+Place of Occurrence	2775,9376,75,446,7043
 Place of Occurrence and Sex of Decedent	12672
 Plateau. Occasion	2911
 Polarization of Occupations	16266

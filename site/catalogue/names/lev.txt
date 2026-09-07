@@ -16,9 +16,10 @@ Adequate Level of Protection Under Cross-Border Data	13381
 Adequate Level of Reserves	17257
 Administration Levers	10997
 Administrative Units and Levels	15473
-Advanced Level	13287,1279,269,827
+Advanced Level	13287,1279,269,827,4028
 Advanced Level Advanced Penetration Testing	15662
 Advanced Level Certified Penetration Testing Professional	15662
+Advanced Level Curriculum	19690
 Advanced Level GIAC	15662
 Advanced Level GIAC Advanced Smartphone Forensics	15662
 Advanced Level GIAC Certified Detection Analyst	15662
@@ -30,6 +31,7 @@ Advanced Level ISACA Certified Information Security	15662
 Advanced Level Law of Data Security and Investigations	15662
 Advanced Level Offensive Security Certified Expert	15662
 Advanced Level Security Leadership Certification	15662
+Advanced Secondary Level	19690
 Africa Service Level	12622,121,2135,2070
 Africa. Valérie Levkov	1196
 African Advanced Level	6946
@@ -84,6 +86,8 @@ BBBEE STATUS LEVEL VERIFICATION	11240
 BWSC Particulier Levée	10821
 Bangladesh Leveraging ICT Growth	13331
 Bank Levy	13122
+Base Level	19743,1
+Base Level Performance Targets	19742
 Basic Education Level BEFIT	12175
 Basic Level	15198
 Beekeeping Training Institute-Tabora Level	19584
@@ -141,6 +145,7 @@ Civil Society Leveraging	899
 Claire Vo and Leveraging AI	11143
 Classification Definition Examples Residency Security Level	5244
 Climate Class Level	17157
+Code Top Level Domain CDNs Content	19633
 Code. Other Levies	17011
 Communication Technology ERP Operation Level Agreement	19575
 Communication and Innovation Level	14996
@@ -164,6 +169,8 @@ Constat Causes Leviers	15673
 Continental Level	1264
 Contract and Service Level Agreement The Ministry	34
 Contractors Registration Board Level	19584
+Control and Data Acquisition SLA Service Level	19801
+Cooperation Agency SLA Service Level Agreements	19647
 Cooperation Levels of Assurance	10819
 Corporate Climate Responsibility Levy Offsetting	14828,3
 Corporate Review Level	11965,3225,1208,2411,475
@@ -331,6 +338,7 @@ GENERAL CONSUMER SATISFACTION LEVEL	15023
 GETFund Levy	7695,44
 GIAC Certifications Entry Level GIAC Security	15662
 GIAC Certifications Intermediate Level GIAC Certified	15662
+GIF Interoperability Levels	19638
 GLOBAL LEVEL	10852
 GO.KE Second Level	6671
 GRUES ET ENGINS DE LEVAGE	16103
@@ -363,12 +371,14 @@ HF Level Cell	12413,2643
 HIGH LEVEL NATIONAL E-GOVERNMENT STRATEGIC INITIATIVES	14965
 HIGH LEVEL SESSION	15937
 HIGH LEVEL STATEMENTS	12973
+HL7 Health Level	19667
 HRH DISTRIBUTION AT FACILITY LEVEL	19544
 HS Code Description Industrial Development Levy	6921
 Harare Level	13576
 Harare Post Level	13575
 Health Facility Levels. Vaccines	16971
 Health High Level Expert Panel	13870
+Health Level	19667
 Health Level Seven	10188
 Health Level Seven Fast Healthcare Interoperability	3385
 Health Level Seven ITI ITU	1009
@@ -394,9 +404,10 @@ High Level Visits	2667,13589
 High. Leveling	10779
 Higher Education Level	14775
 Higher Education Students Loans Board Level	19584
-Higher Level Objectives	969,295,603,1737,2935,4229,61,135,416,37,143,1771,1,411,1167,27,554,27,35,68,37,1,2,2,1286,913,242,189,8,476,462,6
+Higher Level Objectives	969,295,603,1737,2935,4229,61,135,416,37,143,1771,1,411,1167,27,554,27,35,68,37,1,2,2,1286,913,242,189,8,476,462,6,590,12
 Higher Level Objectives Policy Context and Strategic	969
 Highest Level	16950,2592
+Highest Level of Education	19715
 Highest Level of Education Attained	19542
 Highest Level of Education Completed	16921,2621
 Highest Level of Educational Attained	19542
@@ -413,6 +424,7 @@ II. LEVERAGE BENEFITS OF INCREASED REGIONAL	18537
 IN- National Satellite Leverage	11857
 INCREASED RELIABILITY LEVEL OF E-GOVERNMENT SERVICES	16885
 INITIATIVE Leveraging	17870
+INTERNATIONAL LEVELS	19712
 INTEROPERABILITY LEVELS	15540
 IP Internet Protocol LEARN Levier	15583
 IPCC-recommended Level	17140
@@ -435,6 +447,7 @@ India’s Equalization Levy	14932
 Indicator End-of-Period Level	17235
 Indicator Level Baseline Target Achieved	16436
 Indicator Level Status Rationale	19284
+Individual Level	19715
 Information Technology Agency SLA Service Level	11261
 Infracciones Leves	16855
 Infracciones Leves. Se	16855
@@ -536,9 +549,10 @@ Levantine Arabic and African French	6705
 Levar	11362
 Levari S	1219
 Levee	14479
-Level	427,62,300,96,55,18,3,9,135,49,36,94,704,437,101,249,114,494,3,7,7,461,292,14,35,15,43,41,48,895,105,3,269,241,319,206,45,400,96,18,1041,450,1310,54,3,23,261,69,153,465,10,80,75,24,167,3,419,25,277,8,3,39,19,71,204,157,23,30,553,13,78,70,43,19,113,12,4,67,92,35,146,214,70,318,200,109,111,78,12,9,3,1,23,9,24,12,49,26,13,12,5,82,390,150,27,57,5,68,348,187,170,283,57,101,15,34,17,7,2,8,3,136,15,13,13,17,39,91,77,77,93,315,13,100,332,65,11,90,18,98,2,124,52,11,22,38,62,358,296,35,8
+Level	427,62,300,96,55,18,3,9,135,49,36,94,704,437,101,249,114,494,3,7,7,461,292,14,35,15,43,41,48,895,105,3,269,241,319,206,45,400,96,18,1041,450,1310,54,3,23,261,69,153,465,10,80,75,24,167,3,419,25,277,8,3,39,19,71,204,157,23,30,553,13,78,70,43,19,113,12,4,67,92,35,146,214,70,318,200,109,111,78,12,9,3,1,23,9,24,12,49,26,13,12,5,82,390,150,27,57,5,68,348,187,170,283,57,101,15,34,17,7,2,8,3,136,15,13,13,17,39,91,77,77,93,315,13,100,332,65,11,90,18,98,2,124,52,11,22,38,62,358,296,35,8,55
 Level AA	9603,1403,1,945,275
 Level Agreement SMS Short Message Service	34
+Level Agreement SMS Short Messaging System	19660
 Level Agreement SMT Senior Management Team	16852
 Level Agreement SmartNIC Smart Network Interface	13185
 Level Agreement SoS System of Systems SWOT	14965
@@ -549,6 +563,7 @@ Level Completed Figure	12431
 Level Conference	17275
 Level DISTRICT	18460
 Level Description Examples Public	11952
+Level Domain Name	19633
 Level Expert Group	12675
 Level Figure	18460
 Level H.E. Romuald Wadagni	7452
@@ -597,6 +612,7 @@ Level of Detail	14777
 Level of Detail Included	3502
 Level of Digitalization of Payments	17870
 Level of Education	12978,6564
+Level of Education Attainment	19715
 Level of Education Attending	19542
 Level of Education Completed	16921
 Level of Education Treated Control	12978
@@ -623,7 +639,7 @@ Levell	3895
 Levelled	1988
 Levellers	14128
 Levelling	12253,2493,1178
-Levels	34,362,22,540,3925,7033,487,8,2,640,261,1533,50,25,874,164,963,1,27,148,15,43,2387
+Levels	34,362,22,540,3925,7033,487,8,2,640,261,1533,50,25,874,164,963,1,27,148,15,43,2387,177
 Levels and Trends	15601
 Levels of AMR	15725
 Levels of Assurance	10765,10,44
@@ -639,7 +655,7 @@ Levenshteintreatsalleditsequallyandislessefficientforlong	8606
 Lever	6948,707,1236,1084,3410,283,1359,515
 Lever for Digital Sovereignty	16366
 Lever for Sustainable Integration In Cameroon	16198
-Leverage	899,59,856,2312,402,716,433,755,454,61,3865,29,24,218,57,717,9,75,19,250,4,142,20,68,68,162,1,620,207,176,164,724,184,68,61,13,43,62,728,35,200,912,4,90,2,292,104,506,667,556
+Leverage	899,59,856,2312,402,716,433,755,454,61,3865,29,24,218,57,717,9,75,19,250,4,142,20,68,68,162,1,620,207,176,164,724,184,68,61,13,43,62,728,35,200,912,4,90,2,292,104,506,667,556,606,43
 Leverage AI	4126,8230,724,1486
 Leverage AI for Development	1814,3784
 Leverage AI for Development AU Member States	1814
@@ -695,7 +711,7 @@ Leverage the National Data Governance	14566
 Leverage the Universal Access Fund	5244
 Leverages	12359,955,367
 Leverages AI and Emerging Technologies	17116
-Leveraging	465,324,110,255,94,397,448,3,664,727,108,9,567,89,268,148,314,91,310,142,1012,330,73,256,386,169,262,1,289,293,367,719,1139,12,7,115,1,33,137,8,10,2,64,32,237,15,245,239,220,4,45,121,68,23,45,27,136,11,276,78,447,194,187,123,86,667,74,1,128,50,67,84,9,215,75,174,8,34,50,211,7,46,34,861,39,12,24,19,30,103,2,15,119,268,270,111,241,329,17,16,70,374,306,8,312,14
+Leveraging	465,324,110,255,94,397,448,3,664,727,108,9,567,89,268,148,314,91,310,142,1012,330,73,256,386,169,262,1,289,293,367,719,1139,12,7,115,1,33,137,8,10,2,64,32,237,15,245,239,220,4,45,121,68,23,45,27,136,11,276,78,447,194,187,123,86,667,74,1,128,50,67,84,9,215,75,174,8,34,50,211,7,46,34,861,39,12,24,19,30,103,2,15,119,268,270,111,241,329,17,16,70,374,306,8,312,14,68,27,138
 Leveraging AI	2445,1989,5102,592,1012,1070,146,319,1891,206,171,2761
 Leveraging AI and Digitisation	14829
 Leveraging AI and Digitisation Second	14829
@@ -734,6 +750,7 @@ Leveraging Technology for Climate Resilience At COP29	15120
 Leveraging Technology for Infrastructure Development	17260
 Leveraging Technology for Sustainable CRVS EGMRG Victoria	11480,584
 Leveraging Trade and Foreign Direct Investment	10841
+Leveraging UGHub	19766
 Leveraging USSD	14997
 Leveraging VITALREG for Sustainable CRVS Country Case	12064
 Leveraging for Maximized Project Outcomes	13998
@@ -753,7 +770,7 @@ Leves	16855
 Levi Abner	16177
 Levi Dilubenzi Cellule de Communication	15596
 Leviathan95	12478
-Levier	15673,856,2461
+Levier	15673,856,2461,697
 Leviers	1218,5016,11214,412
 Leviers de Mise	17860
 Levies	544,10585,5882
@@ -796,6 +813,7 @@ Local Level Grievance Resolution Local	16926
 Low Level Design	13185
 Low Level of Automation	5677
 Low Levels Of ICT National Postal	12395
+Lower Secondary Level	19690
 Luxor Level	15473
 MAJAMBERE Levis	13341
 MALI Leveraging	17870
@@ -844,6 +862,7 @@ Ministry of Transport Level	19584
 Ministry of Water Level	19584
 Ministry of Works Level	19584
 Miscellaneous Fees and Levies Act	7548
+Mission Leveraging	19642
 Mkulazi Holding Company Level	19584
 MoCT Level	15055
 Mobile Money Transaction Levy	13496
@@ -875,7 +894,7 @@ National Housing Corporation Level	19584
 National Identification Authority Level	19584
 National Insurance Corporation Level	19584
 National Irrigation Commission Level	19584
-National Level	11129,1209,51,2471,174,1826,7,54,178,15
+National Level	11129,1209,51,2471,174,1826,7,54,178,15,2691
 National Level DAPRO Provincial	18911
 National Level Leadership	16963
 National Level National Grievance Redress Committee	17099
@@ -916,7 +935,7 @@ Overall Financial Inclusion Levels	15130
 Overall Financial Inclusion Levels Figure	15130
 Overall ICT Compliance Level	19584
 PAD Level	4292
-PDO Level Indicators	10964,2367,2160,27,140,1291,1155,189
+PDO Level Indicators	10964,2367,2160,27,140,1291,1155,189,1542
 PDO Level Indicators Key	15661
 PDO Level Indicators The PDO	1867
 PDO Level Indicators. The PDO	6539
@@ -977,7 +996,7 @@ Quality Level	13310
 R5. Level	13314
 R8. Leverage	16876
 REFUND OF THE LEVY	15600
-RESTRUCTURING HISTORY Restructuring Level	6928,4467,4618,66,915,910,54,396,1,437,25
+RESTRUCTURING HISTORY Restructuring Level	6928,4467,4618,66,915,910,54,396,1,437,25,1012
 RIGHTS ARE PROMOTED AT NATIONAL LEVEL	14742
 RITA's Staff and Manning Level	19541
 Railway Development Levy	7548,2765
@@ -986,6 +1005,7 @@ Red Alert Level	17157
 Reference Level	17140
 Reference Taxes and Levies	11857
 Region Africa Service Level Not Disclosed	18579
+Region Level	19715
 Regional Administration and Local Government Level	19584
 Regional Level	16046,166
 Regional Level Recommendations	17870
@@ -1059,6 +1079,7 @@ Score Level	19584
 Score Service Level Requirements	5665
 Secondary and Tertiary Levels	15556
 Securities Levy Income Declines The Securities	6011,985
+Security Clearance Levels	19801
 Select Level	13477
 Semoa’s Level	5054
 Seniority Level	11955
@@ -1067,11 +1088,11 @@ Sensitivity Level	11995
 Sep-2021 Restructuring Level	18354
 Sep-2026. Restructuring Level	15481
 Service Level	9123,3794
-Service Level Agreement	34,2708,761,758,349,1066,756,4531,246,31,12,300,404,39,1046,47,1458,488,127,1869,2545,9
+Service Level Agreement	34,2708,761,758,349,1066,756,4531,246,31,12,300,404,39,1046,47,1458,488,127,1869,2545,9,114
 Service Level Agreement SMS Senior Management	11218
 Service Level Agreement SOP	11252
 Service Level Agreement Security Operations Centre	10157
-Service Level Agreements	3741,1107,827,757,1556,2169,564,1274,2,4,239,124,173,430,639,993,2325,2651,9
+Service Level Agreements	3741,1107,827,757,1556,2169,564,1274,2,4,239,124,173,430,639,993,2325,2651,9,217
 Service Level Availability	6432,7895
 Service Level Benchmark26 Targets	970
 Service Level Management	12917
@@ -1121,6 +1142,7 @@ Strengthening the Leverage SACCO	14997
 Sub-National Level Structures and Other Stakeholders	12240
 Subnational Level	14141,1091,3848
 Subnational Level URL	19080
+Subnational Level. The MoES	19776
 Summary of Maturity Level Assessment of Zambia Meteorology	13365
 Supervisory Levy Regulations. Directives	13060
 System Development Lifecycle SLA Service Level	12359
@@ -1170,7 +1192,7 @@ Target Compliance Level	6946
 Target Leverage Ratio	11134
 Targets Achieved PDO Level Indicator Strengthen	18825
 Taxes and Levies Act	11857
-Technical Level	16212
+Technical Level	16212,3567
 Technologies. The High Level Ministerial Round	12918
 Technology Agency SLA Service Level Agreement	5533
 Telecom Level	19510
@@ -1178,7 +1200,7 @@ Terefe W. Level	1219,11036
 Tertiary Levels	16921
 Tevet Levy	13053
 Tobacco Control Levy KG	17105
-Top Level Domain	576,14303,1993
+Top Level Domain	576,14303,1993,2761
 Top Level Domain DNS Domain Name	13295
 Tourism Authority Level	14847
 Town Planners Registration Board Level	19584
@@ -1219,4 +1241,5 @@ Women's Levelof Education	12151
 Workers Compensation Fund Level	19584
 World Health Organization Maturity Level	6594
 X Levy	236
+Year Base Level Performance Targets	19742
 Zambia. PDO Level Indicators The PDO	13332

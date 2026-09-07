@@ -380,6 +380,7 @@ Land Reforms	11954
 Law Reform Commission	769,16201,287,3,1217
 Law Reform Commission Act	18477
 Law Reform Commission KMD Kenya Meteorological	7548
+Law Reform Commission of Uganda. All	19626,4,1,3
 Law Reform Committee	13963
 Laws Reforms Commission	19519
 Lead UN Reform	10405
@@ -413,6 +414,8 @@ MACs Reform	17260
 MANAGEMENT REFORM PROGRAMME	16219
 MEDIUM TERM POLICY REFORMS	17105
 MEDIUM TERM POLICY REFORMS Honourable Speaker	17105
+MENA Compact for SOE Reform	19847
+MENA Compact for SOE Reform Roadmap	19847
 METHODOLOGY Priority Reform Action	12717,3471
 MID-YEAR BUDGET REVIEW REFORMS	13122
 MINISTER OF LAND REFORM AND RURAL	11197
@@ -513,9 +516,11 @@ P177308 NG Accelerating Resource Mobilization Reforms	11469
 PARA REFORÇAR A DEMOCRACIA	16487
 PERCEPTION AU REGARD DES REFORMES ACTUELLES	18169
 PFM Reform	15372
-PFM Reform Action Plan	15147
+PFM Reform Action Plan	15147,4700
 PFM Reform Division	18488
-PFM Reform Strategy	15148,3352,77
+PFM Reform Steering Committee	19847
+PFM Reform Strategy	15148,3352,77,1270
+PFM Reform Strategy and Action Plan	19847
 PFM Reform Strategy and Plan	18488
 PFM Reforms	18488,89
 PFM Reforms Policy Document Date	18488
@@ -612,9 +617,11 @@ Príncipe. Reforçar	18788
 Public Administration Efficiency Reform Program	6824
 Public Enterprises Reforms	12956
 Public Expenditure and Investment Management Reform Project	10829
-Public Finance Management Reform Strategy	13122,746
+Public Finance Management Reform Strategy	13122,746,5979
+Public Finance Management Reform Strategy and Action	19847
 Public Finance Management Reforms	13060
 Public Finance Reform Efforts	15165
+Public Finance Reform Management Unit	19847
 Public Finance Reform Strategic Plan	11906
 Public Financial Management Reform Division	18488,12,77
 Public Financial Management Reform Division PIM	18500
@@ -696,7 +703,7 @@ Refondre	10858,18
 Refonte	10712,3786,1070,178,2576,666
 Reforest	17157
 Reforestation	10841,2633,688
-Reform	1828,2049,791,101,12,626,82,1007,452,1,430,72,197,103,516,333,545,1684,27,124,169,87,670,80,926,400,2,310,432,690,138,4,141,2,311,131,131,55,1199,84,1,68,249,1045,143,52,119
+Reform	1828,2049,791,101,12,626,82,1007,452,1,430,72,197,103,516,333,545,1684,27,124,169,87,670,80,926,400,2,310,432,690,138,4,141,2,311,131,131,55,1199,84,1,68,249,1045,143,52,119,1204,6,18
 Reform Action Finance	19177
 Reform Actions	12717,3471
 Reform Actions Côte	16188
@@ -731,7 +738,7 @@ Reform Roadmap	11236
 Reform Social Assistance	19622
 Reform Social Assistance Nigeria	19622
 Reform Social Assistance Nigeria Launches	19622
-Reform Strategy	15147
+Reform Strategy	15147,4700
 Reform Strategy Technical	18477
 Reform Strategy and Investment Plan KPAs Key	18477
 Reform Tax Code	16843
@@ -748,8 +755,10 @@ Reform and Modernization of Customs	16631
 Reform and Modernization of Property and Land Registry	18825
 Reform of ICT	16872
 Reform of Its Electricity Grid Code	11936
+Reform of Land Administration	19654
 Reform of ONEE. Completion	17503
 Reform of Public Financial Management	13868
+Reform of SOEs	19847
 Reform the CR	13005
 Reform. Tax for Micro-Economic Activity	10762
 Reforma	1701,1818,384,306,245,2,4080,2214,4,625,15,3,47,1,3,3,10,1326,2571,33,1,697,162,236,2265,1,20,5,74,1
@@ -1006,6 +1015,7 @@ Water and Land Reform	12923,1,255
 Water and Sanitation Reform	11236
 Wider Local Governance Reform Push	13646
 World Bank Reviews Burundi's PAFEN Reform	5566
+World Bank Support for Tax Reform	19847
 World Bank's Supporting Education Reform	11918
 World Bank’s Public Financial Management Reforms	16949
 World-Defining Digital Sector Reform	5871

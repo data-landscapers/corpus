@@ -33,6 +33,8 @@ Begin Mandatory Data Protection Compliance Inspections	13695
 Bintou FOMBA INSP	17845
 Board. Inspections	9855
 Broadcasting Studio Inspections	6946
+Business and Market Outlet Inspections	19712
+Business and Market Outlet Inspections Despite	19712
 C Inspecteur des Impôts	17982
 C. Inspection	15161
 CAPÍTULO II PRINCÍPIOS DA ACTIVIDADE INSPECTIVA	11452
@@ -100,6 +102,7 @@ Directeur Insp. Sces Eco	17812
 Directions Générales Inspection Générale des Finances Budget	15449
 Director of Judicial Inspection Amr Farouk	15992
 District Education Inspector	13310
+District Inspectors of Schools	19783
 Division Inspection	17841
 Docteur Badjigui TRAORE Inspecteur	17841
 Don Gerónimo Esono Edú Oyana Inspectora	16920
@@ -169,6 +172,7 @@ IGF General Finance Inspection	19239
 IGF General Inspectorate of Finance	17458
 IGF Inspection Générale des Finances IGI Inspections	18015
 IGF Inspector General of Finances	18777
+IGF Inspectorate General of Finances	19847
 IGM General Ministerial Inspection	17458
 IGP Inspector General of Police IOM International	19590
 INDUSTRIA INSPECCION ANUAL	4209
@@ -253,6 +257,7 @@ INSPECCIÓN GENERAL DE FINANZAS	4209
 INSPECTEUR DE L’ENSEIGNEMENT DE BASE IEN	18143
 INSPECTION	15149
 INSPECTION AND INVESTIGATORY POWERS	17249
+INSPECTION DEPARTMENT RISK	19712
 INSPECTION DES FINANCES	15744
 INSPECTION GENERALE Commandants	16100
 INSPECTION GENERALE DE LA POLICE Capitaine	16100
@@ -279,6 +284,9 @@ IRE Inspection Générale	16626
 Impacts The INSPIRE-O	13111
 Implementation of Inspections for Electricity Connections	12389
 Implementation of Inspections for Water Connections	12389
+Import Consignments Inspected Over the Years	19712
+Import Inspection	19712
+Imports Inspection	19712
 Independent Software Inspectors UGO AMADI	8424
 Informatique Chargés des Actes de Inspecteur des Impôts	17982
 Insp. Sces	17812
@@ -354,7 +362,7 @@ Inspecteurs des Services Assistants	16381
 Inspecteurs des Services Statistiques	18169
 Inspecteurs du Travail	15361
 Inspecteurs du Trésor	17899
-Inspection	3,733,2978,455,791,118,39,6,784,483,967,880,32,1586,269,277,475,305,415,657,105,303,236,78,210,126,9,61,71,16,70,28,383,222,253,64,1,1,253,179,159,94,30,135,83,51,95,101,15,37,2,275,616,3,10,6,80,228,21,15,179,93,569,8,2,44,9,17,17,56,43,17,74,117,63,5,36,43,62,35,74,15,46,383,116,429
+Inspection	3,733,2978,455,791,118,39,6,784,483,967,880,32,1586,269,277,475,305,415,657,105,303,236,78,210,126,9,61,71,16,70,28,383,222,253,64,1,1,253,179,159,94,30,135,83,51,95,101,15,37,2,275,616,3,10,6,80,228,21,15,179,93,569,8,2,44,9,17,17,56,43,17,74,117,63,5,36,43,62,35,74,15,46,383,116,429,162,20
 Inspection Act	15478
 Inspection Chambers	19585
 Inspection Coverage	16978
@@ -380,7 +388,7 @@ Inspection Manual	16978
 Inspection Manual The Commission	16978
 Inspection PPPC	12253
 Inspection PPPC Quarterly	12253
-Inspection Panel	1264,20,583,1022,715,2935,4229,61,135,453,108,330,50,60,1366,1,1806,273,107,35,105,1,2,483,752,26,27,2296,39
+Inspection Panel	1264,20,583,1022,715,2935,4229,61,135,453,108,330,50,60,1366,1,1806,273,107,35,105,1,2,483,752,26,27,2296,39,551,12
 Inspection Procedures	16978
 Inspection Processes	16978
 Inspection Pédagogique	18911
@@ -391,6 +399,7 @@ Inspection Reporting	16978
 Inspection Treat	12253
 Inspection and Acceptance Committee	19585
 Inspection and Audit Powers	17243
+Inspection and Clearance of Imports	19712
 Inspection and Enforcement	18556
 Inspection and Evaluation	7538
 Inspection and Follow-Up Department	3310
@@ -420,7 +429,8 @@ Inspection of Products	16900
 Inspection of Proposal Document	17334
 Inspection of Schools	12975
 Inspection of Site Monthly	12253
-Inspections	718,1270,3180,5608,1477,136,796,235,1322,928,231,198,1081,63,584,14,44,14,133,67,10,209,52,615
+Inspections	718,1270,3180,5608,1477,136,796,235,1322,928,231,198,1081,63,584,14,44,14,133,67,10,209,52,615,727
+Inspections Average Kgs	19712
 Inspections Générales des Services	16099
 Inspections PPPC	12253
 Inspections PPPC During Construction E-Government	12253
@@ -454,7 +464,7 @@ Inspector General de Servicio	4209
 Inspector General de Servicios Servicio	4209
 Inspector General of Customs	16676
 Inspector General of MCC	19214
-Inspector General of Police	4677,159,660,2975,611,2775,1031,693,3392,240,84,1180,9,101,11,64,51
+Inspector General of Police	4677,159,660,2975,611,2775,1031,693,3392,240,84,1180,9,101,11,64,51,1059
 Inspector General of Police Douglas Kanja	3320,8990,1954
 Inspector General of Police Gregory O. W	17213
 Inspector General of Police Mr. Douglas Kanja	14467
@@ -503,7 +513,7 @@ Inspectorate of Government	12319
 Inspectores	4209,7243
 Inspectores da IGAE	11452
 Inspectores de Hacienda Pública	4209
-Inspectors	9736,2790,449,495,4848,52,186
+Inspectors	9736,2790,449,495,4848,52,186,1099,180
 Inspectors and Auditors	12900
 Inspectors and Pedagogical Supervisors	18765
 Inspectors’ Audit Execution Decisions	18318
@@ -572,6 +582,7 @@ LA RÉFÉRENCE IES INSPECTORAT D’ENSEIGNEMENT SECONDAIRE	18143,27
 LE SYSTÈME Inspectrice Aisha Manneh Administration	16633
 LV Inspector Training	16848
 Labor Inspection	16949
+Labor Inspectorate	19655
 Labor Inspectorates	12389
 Labour Inspectorate Section.Verification	16843
 Labour Inspectors	14742
@@ -595,6 +606,9 @@ MPs. The Inspector General	12310
 Mabale Esono Mangue Inspector Distrital de Kogo	16920
 Mamoutou DIABATE INSP	17845
 Mandatory Vehicle Inspection Tanzania	19590
+Market Inspections	19712
+Market Outlets Inspected	19712
+Market Surveillance Inspections	19712
 Mba Nsue Nzeng Inspector Distrital de Nsok	16920
 Means The Inspector General of Police	18595
 Metro Inspection Services	6683
@@ -614,6 +628,8 @@ NESA National Examination and School Inspection Authority	14922
 NIC. Inspired	10822
 National Examination and School Inspection Authority	14922
 National Inspectorate of Economic Activities	12161
+National Preschool Education Inspector	19840
+National Preschool Education Inspector PRODA	19840
 National Schools Inspectorate Authority	16162
 Ndemesogo Esono Onguene Inspector General de Servicios	16864
 Ndong Inspector Regional de Servicios Educativos Ilmo	16864
@@ -633,12 +649,14 @@ On-site Inspections	12537
 Online Inspection	12465
 Operation of Various Types of Bodies Performing Inspection	16900
 Organiser des INSP ETAT	17845
+Oversight Inspection	19650
 Ovono Inspector Distrital de Ebibeyín Ilmo. Sr	16920
 PART III INSPECTORATE	13321
 PART V INSPECTION AND SEARCH	12916
 PART V INSPECTORS AND AUDITORS	12894
 PART V INSPECTORS AND AUDITORS Appointment	12894
 PART VIII INSPECTORATE	2727
+PAs and Inspectors	19835
 PE INDUSTRIA INSPECCION ANUAL INDUSTRIA INFORMACIÓN	4209
 PE INDUSTRIA INSPECCION ANUAL INFORMACIÓN Rótulos	4209
 PE INSPECCION ANUAL Rótulos	4209
@@ -718,6 +736,7 @@ Santé INSP-CI	15936
 Sargento de Primera Inspector de Tercera Sargento Cabo	4209
 Savings CHAPTER XI1 CYBER INSPECTORS Appointment	11179
 School Education Inspectors	14922
+School Inspection	19635,148
 School Inspectors	18460
 Secrétaires Inspecteur des Impôts	17982
 Senior Road Transport Inspector Government	12972
@@ -725,6 +744,7 @@ Serviço de Inspecção Tributária	15526
 Serviço de Inspeção Tributária	15526
 Serviços de Inspeção Tributária	15526
 Sous- Directeur Inspecteur	17827
+State Inspector General	19847
 Statistique Inspecteur des Impôts	17982
 Statistique LA CAISSE Inspecteur des Impôts	17982
 Sub Inspector of Police SMF	14760
@@ -759,7 +779,7 @@ Woman Police Chief Inspector WCPL	14760
 Woman Police Inspector	14760
 Woman Police Inspector WPS	14760
 Working Environment and Protocol of Inspectors	14113
-World Bank Inspection Panel	10829,135,561,330,1477,2079,107,35,1343
+World Bank Inspection Panel	10829,135,561,330,1477,2079,107,35,1343,2939
 X BUREAU VERITAS INSPECTION VALUATION ASSESSMENT	16623
 XAF Inspector General Servicios Servicio	4209
 Yamoussa Inspecteur des Services	17982

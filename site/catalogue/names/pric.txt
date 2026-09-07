@@ -16,6 +16,7 @@ Americas. Prices	15471
 Analysis of Somalia’s Mobile Broadband Price Benchmarking	15120
 Annual Average Retail Prices of Selected Consumer	2775
 Applicant's Best Price Offer	8582
+Authorities E. Pricing	19823
 Authority Relevant Pricing Framework United Ofcom	17212
 Authority of His Majesty the King Price	12722
 Authority of His Majesty the King. Price	12653,13
@@ -34,6 +35,7 @@ Average Retail Market Prices of Selected Food	2775
 Average1 Retail Prices of Selected Petroleum Fuels	2775
 B. Bid Price	14802
 B. Fuel Prices	1828
+BOCRA APPROVES REDUCED DATA PRICES	19671
 Base Price Code	13385
 Basic Prices Prices Adjusted	2775
 Benjamin Price	16916
@@ -48,6 +50,7 @@ Bidders Bid Price	14778
 Bidder’s Name Price Quoted	14783
 Bidding Forms Price Schedule	13185
 Bidding Forms Price and Completion Schedule	13185
+Brent Crude Oil Prices Citation	19823
 Broadband Data Price and Last Mile Deployments	13295
 Bureau of Price	16863
 C and D Price Code	13385
@@ -59,6 +62,7 @@ CIP Price	13185
 CODE NO. OF PAGES CURRENT PRICE	16900
 CODES TARIFF PER TRANSACTION PRICING METHOD	16844
 CONSUMER PRICE INDEX	16935
+COST PRICE	19823
 CPI Consumer Price Index CPIMS Child	2775
 CPI Consumer Price Index DFA Debt	11271
 CRITERIA POINTS Price	11209
@@ -80,6 +84,7 @@ Commodity Prices Percent Change	17235
 Commodity Prices and Trade	6938
 Common Monetary Area Consumer Price Index	11131
 Company Share Price	4896
+Comparative Price Trends	19823
 Competition Drove Prices Down	14297
 Compilation of Services Producer Price Index	14777
 Conduct Consumer Price Index	17116
@@ -89,7 +94,7 @@ Constant Prices GDP	18483
 Construction Input Price Index CMA Capital	2775
 Construction Input Price Indices	2775
 Consumer Price Basket	2775
-Consumer Price Index	2775,808,131,1883,2930,725,1882,155,135,979,559,517,1298,119,1,1032,1006,1250,257,33,8,223,813
+Consumer Price Index	2775,808,131,1883,2930,725,1882,155,135,979,559,517,1298,119,1,1032,1006,1250,257,33,8,223,813,224,83
 Consumer Price Index CSD Central Securities	15023
 Consumer Price Index Manual	11258
 Consumer Price Index Recommendations	14777
@@ -114,10 +119,12 @@ Contract Price. Further	13185
 Contract Price. L0	13185
 Contract Price. Section IX	13185
 Control of Goods Prices and Other Charges	12629
+Cost Prices	19823
 Cost Proposal and Price Declaration Form	11209
 Cost Reflectivity of Energy Prices Increased Uptake	12515
 Cross-Border Carbon Pricing Instruments	12389
 Crude Oil Price	12256
+Crude Oil Prices	19823
 Current Energy Prices	12515
 Current Market Prices	2775
 Current Price Estimates HFCE	18483
@@ -133,6 +140,7 @@ DAY VOLUME WEIGHTED AVERAGE PRICE	4896
 DESK SERVICES RTGS SERVICE BUREAU PRICING	16844
 Dan Price	11154
 Data Bundle Prices Charged	11259
+Data Price Comparison Across Mobile Network	19671
 Data Residential Property Price Index	11286
 Date Price ZWG USD Equivalent Premium	4896
 Definition The Namibia Producer Price Index	11152
@@ -191,7 +199,8 @@ Food Price Volatility	17157
 Food and Agriculture Organisation Food Price Index	11134
 Franck SOTINKON PRICS	16094
 Fuel Price Structure	1828
-Fuel Prices	1828
+Fuel Price Subsidy	19823
+Fuel Prices	1828,17995
 Fuel Pricing RURA	718
 Fuel Products Price Structure	1828
 Full Pass-Through Price	1828
@@ -277,10 +286,12 @@ MB Price Vat Inc	15279
 MBB Price	11563
 MONTHLY HIGH AND LOW SHARE PRICES	4896
 MTN Speed-based Bundles Bundle Name Price	11259
+MTN Uganda’s Share Price Trend	19728
 Madame Pricemou	16670
 Madame Rose Pola Pricemou	2370
 Manufacturer’s Suggested Resale Prices	11036
 Manufacturing Price Code	13385
+Market Capitalization and Share Prices MTN Uganda	19728
 Market Price	17235
 Market Price Reference Catalogue	12956
 Market Prices	2775,2121,13810
@@ -352,11 +363,12 @@ Post- Prices	11563
 Postal Market Indicators the Pricing of ICT	12395
 Potential Impact of LTA Price Order	16876
 Prepaid Data Prices	11259
-Price	1284,3150,1245,1058,191,908,346,424,1153,398,606,81,17,291,2,86,12,6,1,12,15,191,86,294,6,137,344,32,19,298,75,210,207,36,93,17,54,576,432,281,103,25,95,100,26,57,46,79,167,39,13,47,146,17,1165,40,24,13,7,1,56,35,36,57,70,11,60,30,18,69,544,7,1,231,14,700,110,312,274,7
+Price	1284,3150,1245,1058,191,908,346,424,1153,398,606,81,17,291,2,86,12,6,1,12,15,191,86,294,6,137,344,32,19,298,75,210,207,36,93,17,54,576,432,281,103,25,95,100,26,57,46,79,167,39,13,47,146,17,1165,40,24,13,7,1,56,35,36,57,70,11,60,30,18,69,544,7,1,231,14,700,110,312,274,7,107,44,67,79,3
 Price Adjustment Formula	13185
 Price Analysis and Monitoring Division	14839
 Price Caps	16839
 Price Changes	2775
+Price Changes Calculated	19823
 Price Code	13385
 Price Code Gr	13385
 Price Comparator Portal	7763
@@ -431,7 +443,7 @@ Priced Code	13385
 Pricelist Namibia	12478
 Pricelist for RINEX	14864
 Pricemou	4369
-Prices	970,43,625,213,924,808,837,1454,1372,122,343,40,707,1301,1393,106,305,693,133,11,3,133,426,223,127,2,554,117,609,80,45,4,43,314,40,304,47,2,713,986,790,521,5,566
+Prices	970,43,625,213,924,808,837,1454,1372,122,343,40,707,1301,1393,106,305,693,133,11,3,133,426,223,127,2,554,117,609,80,45,4,43,314,40,304,47,2,713,986,790,521,5,566,742,27
 Prices Adjusted	2775
 Prices CPI	17209
 Prices GDP	18483
@@ -448,7 +460,7 @@ PricewaterhouseCoopers Ghana	15688
 PricewaterhouseCoopers Zambia	2240
 PricewaterhouseCoopers. The Integrated Annual Report	13133
 Prichard	11133,1236,579
-Pricing	958,936,1159,1381,1027,1274,1231,42,719,1069,1342,57,16,41,95,510,61,446,31,5,266,204,37,31,1959,68,32,167,1022,1101
+Pricing	958,936,1159,1381,1027,1274,1231,42,719,1069,1342,57,16,41,95,510,61,446,31,5,266,204,37,31,1959,68,32,167,1022,1101,2441
 Pricing Battles	16814
 Pricing Globally	16923,1
 Pricing Mechanism	1828
@@ -516,7 +528,7 @@ Republic OFFICIAL GAZETTE Price EGP	15492
 Request for Proposal Prices	12400
 Research ICT Africa Mobile Pricing	15491
 Residential Property Price	11286
-Residential Property Price Index	11286
+Residential Property Price Index	11286,8457
 Residential Property Price Index Practical Compilation	11286
 Residential Property Price Index Residential	11286
 Residential Property Prices	2775,8511
@@ -538,8 +550,10 @@ Rose Pola Pricemou	2442,445,365,70,708,339,246,321,777,3612,8610
 Rose Pola Pricemou and Lacina Koné	16679
 Rose Pola Pricemou. Africa	16679
 Rose Pricemou	2887
+SELLING PRICE	19823
 SMARTPHONE PRICE	11262
 SOUTH AFRICAN PRICING	11252
+STANDARD FOR PRICKLY PEAR CD	19749
 SYSTEM CODES TARIFF PER TRANSACTION PRICING	16844
 Safe Harbour Pricing Rules	18577
 Sale Price Flat Rate	9409
@@ -556,6 +570,7 @@ Somalia’s ICT Price Basket Indicators	15120
 South Africa. Pricing	1553
 South African Residential Property Price Index	11286
 South Sudan's Digital Future By Pricilla	18669
+Spectrum Assignment and Pricing	19641
 Spectrum Pricing	5390,9507
 Spectrum Pricing The GSMA	14897
 Spectrum Pricing and Renewals for Sustainable Investments	5390
@@ -586,6 +601,7 @@ UNFPA DP Policy. PRICE QUOTATION FORM	17068
 UNPUBLISHED PRICE SENSITIVE INFORMATION	4896
 URGENT CODES TARIFF PER TRANSACTION PRICING	16844
 USD Price	11857
+Uganda’s Share Price Trend	19728
 Unit Price	17250
 Unit Price Negarit G. P.O.Box	12146,39,41
 Unit Prices and Value of Selected Crops	2775

@@ -4,7 +4,7 @@ Adequate Staffing of High-Volume Polling Units	10049
 Admin. Units	12302
 Administrative Public Institutional Units	14634
 Administrative Unit Secondary Sampling Units	15244
-Administrative Units	15244,229
+Administrative Units	15244,229,4332
 Administrative Units Population Distribution Reports	19542
 Administrative Units and Levels	15473
 Agency Sector IT Units	1000
@@ -17,9 +17,11 @@ CHARACTERISTICS OF THE HOUSING UNITS USED	14903
 Catalogue of Local Administration Units	15473
 Central Processing Units	13037,5449
 Chairs and Units	16852
+Characteristics of Dwelling Units	19715
 Civil Registration Units	10765,10
 Climatic Units	17157
 Conduct Non-standard Units Measurement Survey LISGIS	17116
+Construction Materials of Dwelling Units	19715
 Construction Units	13361
 Corporate IT and IT Audit Units	17364
 Country Management Units	10841,4670
@@ -65,7 +67,7 @@ Gender and Legal Units	16973
 General Government Units	13122
 Generating Units Frequency	14867
 Geographical and Climatic Units	17157
-Government Units	13122
+Government Units	13122,6519,100
 Government Units TOTAL RECEIPTS	16978
 Government Units and Third Parties Government	16978
 Graphics Processing Units	6583,642
@@ -89,7 +91,7 @@ Integrated Citizen Service Units	10765,10
 Integrated SEN Units	14742
 Intensive Care Units	12922,6622
 Internal Audit Units	15147
-International System of Units	1988,11961,787
+International System of Units	1988,11961,787,4976
 International System of Units Act	14736
 Legal and Procurement Units	12758
 Local Customs Selection Units	13042
@@ -131,6 +133,7 @@ Prefecture-level Project Coordination Units	15658
 Primary Health Care Units	12246
 Primary Sampling Units	582,14233,17,412,3323
 Private Sector Units	15175
+Programme for Administrative Units	19805
 Project Coordination Units	18887
 Project Delivery Units	11857
 Project Implementation Units	11469,726,637,627,2685,782,179,757,1422
@@ -170,6 +173,7 @@ Statistics and Data Processing Units	16833
 Stock Theft Units	11188
 Strengthen County Development Planning Units URL	17231
 Support Units LR-MFDP-499431-GO-RFQ	17180
+System of Measurement Units	19712
 Tables TEUs Twenty-foot Equivalent Units TFR	2775
 Target Population and Statistical Units The Business	15085
 Target Population and Statistical Units6	15085
@@ -183,7 +187,7 @@ UNITS COLLECTED	19544
 UNITS DISCARDED	19544
 UnitSpect	736
 UnitSpectrumCharg	736
-Units	1000,7999,2130,59,663,664,447,171,1615,12,34,36,414,180,49,372,1018,10,97,1,209,1285,1,1053
+Units	1000,7999,2130,59,663,664,447,171,1615,12,34,36,414,180,49,372,1018,10,97,1,209,1285,1,1053,122
 Units LPG	12515
 Units Number of ICT	12453
 Units Room Conditioner	12253

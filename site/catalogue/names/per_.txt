@@ -7,7 +7,7 @@ Access Per Province Eastern Cape	11890
 Access Spectrum Fee Per	17250
 Allocations Per Province Province	11890
 Authority Per	17250
-Average Revenue Per User	3898,2102,11,89,9607,2737
+Average Revenue Per User	3898,2102,11,89,9607,2737,1284
 Average Revenue Per User CDMA	6000
 Banks. Per the Home Affairs	6072
 Bank’s Social Assistance PER	15663
@@ -15,6 +15,7 @@ Bloomberg Philanthropies Date for Health Initiative. Per	10972
 Body REGISTERED VOTERS PER POLLING STATION	13598
 CAR PER	15661
 CODES TARIFF PER TRANSACTION PRICING METHOD	16844
+COST PER MW	19646
 Candidates Votes Per	12201
 Commission Employment and Per- Registrar of Cooperative So-	6938
 Creación de Ficheros de Datos Per	16855
@@ -59,9 +60,13 @@ GNI Per Capital	19532
 Gambia Health PER	16896
 Gambia PER	16922
 Ghana. Per the Future of Privacy Forum	14128
+Government MBPS Mega Byte Per Second	19660
 Gross Domestic Product Per Capita	8950
+Gross Salary Per Month	19742
 HAVE BEEN CREATED AS PER TABLE	14816
 HOSPITAL BEDS PER	16892
+Household Expenditure Per Line Item	19728
+Household Expenditure Per Line Item Kampala	19728
 Household Size and Average Area Per Person	2775
 IAPs Average Revenue Per User	6000
 ICT Graduates Per Capita	16975
@@ -121,7 +126,7 @@ Per Africa Intelligence	11910
 Per AfricaNenda	4330
 Per André Pedro	3966
 Per Annum RAROC Risk-Adjusted Return	1818
-Per Article	18797
+Per Article	18797,1028
 Per CBN Financial Stability Report	4771
 Per CLAUDE.md	1826,1130,3198,2065
 Per CNBC Africa	1712
@@ -180,6 +185,7 @@ Per Section	9880
 Per Share Merger Consideration	7198
 Per Shipment	16843
 Per Simon Andersson-Manjang	1224
+Per Sq	19715
 Per UNICEF	1768
 Per Workload Deaths Annum Day National	19541
 Per Zapolsky	7318
@@ -201,6 +207,7 @@ Per the NIS	7370
 Per the PIU	15424
 Per the RBM	2728
 Per the Reserve Bank of Malawi	3992
+Percentage Share of NTR Collections Per	19712
 Percentage of Multidimensional Poor Per State	11998
 Performance Per Strategic Priority Enabling Digital	11230
 Project M&E. Per	11855

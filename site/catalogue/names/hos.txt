@@ -423,6 +423,7 @@ Footprint Development and Hospitals Assumptions Availability	11986
 France Host the Bulk of Content	6542
 Francis Small Teaching Hospital EHCP Essential	16922
 GF Jooste Hospital R4.3	11248
+GIF Principle Hosting and Networking Infrastructure Human	19638
 GIMS Hospital	10405
 GP Ekurhuleni MM Edenvale Hospital	11986
 GP Ekurhuleni MM Pelonomi Hospital	11986
@@ -466,7 +467,7 @@ HOSPITAL LIMITED Data Processor INST-4029220C2D4 UASIN	7167
 HOSPITALIÈRE	16396
 HOSPITALS Data Controller INST-687095D30C6 BUNGOMA Kenya	7167
 HOSSEININIA	6613
-HOST COMMUNITIES AND REFUGEES	13856,1887,247
+HOST COMMUNITIES AND REFUGEES	13856,1887,247,3653
 HOST COMMUNITIES PROJECT Public Disclosure	1988
 HOSTOWEB	17488
 HOSTS DJIBOUTI	13938
@@ -498,7 +499,7 @@ Hospice KOUMONDJI	2623
 Hospitais	11537,5556,7,1657
 Hospitais Amigos	15966
 Hospitais Regionais	16019
-Hospital	4209,1176,1645,353,1,1219,828,757,592,400,249,3,47,378,129,342,648,64,167,107,1232,283,415,160,1496,62,972,693,141,183,456,134,3,41
+Hospital	4209,1176,1645,353,1,1219,828,757,592,400,249,3,47,378,129,342,648,64,167,107,1232,283,415,160,1496,62,972,693,141,183,456,134,3,41,82
 Hospital Active Dodoma Makole Makole Health	19541
 Hospital Adamawa North East	11857
 Hospital Ayres Menezes- HAM	18757
@@ -544,6 +545,8 @@ Hospital La Paz de Bata Bata	4209
 Hospital Late	12976
 Hospital Loeri Comba	4209
 Hospital Management	12976
+Hospital Management Information System	19641
+Hospital Management Information System. Received	19641
 Hospital Management Information Systems	3400,8914
 Hospital Management and Health Policy Management. Promoting	14829
 Hospital Manager Date	8603
@@ -577,6 +580,7 @@ Hospital TAMBO MEMORIAL HOSPITAL EMERGENCY DEPARTMENT	8603
 Hospital UHC Universal Health Coverage VIP	12976
 Hospital Under Police Custody	17358
 Hospital Universitário Agostinho Neto	16028
+Hospital Walkthrough and ICT Assessment Tool	19667
 Hospital Ward	14742
 Hospital and Diagnostic Services	14033
 Hospital da Praia	1265
@@ -685,6 +689,7 @@ Host2Africa. Marketing	1011
 Hostage State	5141
 Hosted	345,2955,1228,716,269,786,133,1260,101,91,66,93,1081,180,445,32,105,310,479,455,995,387,218,1043,171,386,790,749,490,508,306
 Hosted AFI Working Groups	11131
+Hosted Hon Chris Baryomunsi	19641
 Hosted Innovation Jam	13080
 Hosted Web	12404
 Hosted Women	14997
@@ -700,7 +705,7 @@ HostelMate	7968
 Hostelería	16898
 Hosteli	19565
 Hostile Rhetoric Against	3245
-Hosting	26,2,1526,223,897,53,311,849,641,714,291,58,841,1262,1190,509,103,299,362,53,182,649,99,717,396,259,20,237,150,9,2,215,329,159,40,31,322,480,352,306,118,432,3809
+Hosting	26,2,1526,223,897,53,311,849,641,714,291,58,841,1262,1190,509,103,299,362,53,182,649,99,717,396,259,20,237,150,9,2,215,329,159,40,31,322,480,352,306,118,432,3809,116
 Hosting ACIX	6238
 Hosting African	3436
 Hosting CPL-26	7884
@@ -722,6 +727,8 @@ Hosting Service Provider License	762
 Hosting Service Provider Minimum Requirements	15590
 Hosting Services Design	16867
 Hosting WTDC-25	18349
+Hosting and Cloud Computing	19639
+Hosting and Cloud Computing NITA-U	19639
 Hosting of International Events	6946
 Hosting of Strategic Events The Research Council	1554
 Hosting the AFCFTA	14311
@@ -742,6 +749,7 @@ Humansdorp District Hospital Co-location PPP	11248
 IDA Window for Host Communities and Refugees	1290,10634
 IDA-20 Window for Host Communities and Refugees	11905
 IDA18 Refugee and Host Community	11924
+IDA18 SUB-WINDOW FOR REFUGEES AND HOST	19835
 IDA19 Window for Host Communities and Refugees	13831
 IDA20 Window for Host Communities and Refugees	1778,1917
 INTERCONNECTION AND LOCAL HOSTING	14879
@@ -753,6 +761,7 @@ Information Hospitalier SIMR	14442
 Information Hospitalier SIS Système	13306
 Information Hospitaliers	16441,1441
 Information Hospitalière	18297
+Integrated Hospital Management Information	19641
 Integrated Hospital Management Information System	19584
 Integrated Population of Refugees and Host Communities	12297
 Interconnection and Local Hosting	14879
@@ -760,6 +769,7 @@ Internal Security MORHCSA Modernization of Refugee and Host	1867
 Internally Displaced and Host Governance	11469
 International Airport Hospital	11986
 International Hospitality and Management	6946
+International Specialised Hospital Lubowa	19778
 Isilimela Hospital	8161
 J. Nehru Hospital	14773,57
 J. Nehru Hospital and Construction	14773
@@ -888,6 +898,7 @@ Moshupa Primary Hospital	12606
 Mpilo Hospital	13397
 Mpilo Hospital. Digital	13397
 Mtwara DC Municipal Hospital Late	19585
+Muhammad Shameen Hosenbocus	19694
 Muhimbili National Hospital	19584
 Muhimbili National Hospital Level	19584
 Muhimbili National Hospital-MLOGANZILA	19584
@@ -1064,6 +1075,7 @@ Scientific Research Hossam Osman	16255
 Scottish Livingstone Hospital	12639
 Sebokeng Hospital Dr George Mukhari Hospital	11986
 Secretariat and Hostmasters	14165
+Secure Hosting	19697
 Sedilega Private Hospital	12639
 Sekgoma Memorial Hospital	12607,32
 Selibe Phikwe Government Hospital	12639
@@ -1148,6 +1160,7 @@ Unravelling of Hostage State	5141
 Upgrading Hospitals	10829
 Urban and Regional Host Communities Project	1988
 Usakos State Hospital	12947
+User Support Hosting	19639
 VH Victoria Hospital MCH Maternal and Child	14773
 VODACOM LESOTHO HOSTS FIRST SOFTWARE FACTORY	12694
 Veterinary School and Animal Hospital	14805,25
@@ -1157,7 +1170,7 @@ WARM SIERRA LEONEAN HOSPITALITY AHEAD	18586
 WC Cape Town MM Somerset Hospital	11986
 WFP. Refugees and Host Communities	12297
 WHR Window for Host Communities and Refugees	18625
-WINDOW FOR HOST COMMUNITIES	11905,2191,1647
+WINDOW FOR HOST COMMUNITIES	11905,2191,1647,3900
 Walvis Bay State Hospital	12947
 Ward Hospital Status Kagera Bukoba DC	19541
 Welwitschia Private Hospital	12947
@@ -1165,7 +1178,7 @@ Windhoek Central Hospital	12947
 Windhoek District Hospital	12421
 Window for Host	11905
 Window for Host Communities	1867
-Window for Host Communities and Refugees	1867,8965,9,1064,1926,26,40,1846,2882
+Window for Host Communities and Refugees	1867,8965,9,1064,1926,26,40,1846,2882,1018
 Window for Host Communities and Refugees ZRHCP Zambia	1867
 Word University of Nigeria Teaching Hospital University	11129
 World Bank Zambia Refugee and Host	1867

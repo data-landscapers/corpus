@@ -104,6 +104,7 @@ Central Bank of West Africa	17235
 Central Bank of West African States	7,2768,485,731,3159,481,165,75,202,9,1993,128,726,595,26,19,252,4323,353,738,635,500
 Central Bank of West African States. Mr	11554
 Central Bank of Western African States	17870
+Central Eastern Northern Western Av.Expenditure Item	19728
 Central Liberia North Western Montserrado	17127
 Central Rift Northern Nairobi Coast Western	7869
 Central West Africa Figure	18787
@@ -211,6 +212,8 @@ Eastern Muchinga Northern Luapula Western Figure	12431
 Eastern Northern Copperbelt Western Muchinga Rural	12431
 Eastern and Western Cape	11297
 Eastern and Western Platinum Mines	6683
+Eastern and Western Uganda	19641
+Eastern and Western Uganda. Disseminated	19641
 Eausiro West	13189
 Economic Community Of West African States	27
 Economic Community for West African States	16888
@@ -318,6 +321,7 @@ Google's Director for West Africa	6893
 Governance Global Practice Western and Central Africa	969,15980
 Government of Western Equatoria State	18730
 Governments of West Africa	9660
+Grand Area Hotel West Gate Mall	19731
 Grand River North West	14742
 Group The World Bank Western Africa	16144
 Growing Together Across West	7876
@@ -456,7 +460,7 @@ Marakwet West	10313
 Mariama Cire Sylla and Visa's Vice-President for West	5787
 Marina Wes	5395,5,5749,4324,728,2033
 Marina Wes Practice Manager	16144
-Marina Wes Regional Director	13836
+Marina Wes Regional Director	13836,5999
 Maroc Telecom West Africa	627,17243
 Maroc Telecom West Africa Submarine Cable	5681
 Maroc Telecom West Africa Submarine Fibre	627
@@ -516,6 +520,9 @@ Nations Fund for Population Regional Director for West	16970
 Network ECOWAS Economic Community of West African	16926
 Network WARCIP West Africa Regional Communications	17099
 News Cauridor Deepens West Africa Push	9811
+Ngamiland West	19677
+Ngwaketse West	19702
+Ngwaketse West District	19702
 Ngwane Park and Mbabane West Constituencies. Challenges	11131
 Nianija and Upper Fuladu West	16852
 Niger West Africa Sub-Sahara Africa Low-income	17011
@@ -545,6 +552,7 @@ North West Province	11252
 North West Province PFMA	11252
 North West Region	7336
 North West Region of Cameroon. India	16240
+North West Syria	19844
 North West UR	11296
 North West and Gauteng	11296
 North West and Mpumalanga	11248,46,6407
@@ -583,6 +591,7 @@ Northern and Western Bahr	18640
 Northern and Western Province	10153
 Northern and Western Provinces. Mukesha	6546
 Northern and Western Rwanda	14935
+Northern and Western Uganda	19799
 Nutrition and Population Global Practice Western	16922
 Nutrition and Population Global Practice Western and Central	11560,5336
 Nyanza South Rift Western ODM UDA	7869
@@ -636,6 +645,7 @@ Purpose Vehicle WACREN Western and Central Africa	16144
 R150m North West	4511
 REGIONAL COUCILS REHOBOTH URBAN WEST DAWEB	13025
 RFLD for West and Central Africa	8318
+RIA Money Transfer and Western Union	19650
 ReconAfrica’s Kavango West	5407,676
 Reference Haskel and Westlake2018	7731
 Region North Western	16935,192
@@ -1133,7 +1143,7 @@ West African Monetary Agency	7,738,6707,9783
 West African Monetary Institute	7,992,47,11081,4717,391
 West African Monetary Union	6938,1135,11292
 West African Monetary Union’s Council	8275
-West African Monetary Zone	999,47,218,9144,2980,3456,391,1265
+West African Monetary Zone	999,47,218,9144,2980,3456,391,1265,1338
 West African Monsoon	17114,1464
 West African National Regulatory Authorities Focuses	17010
 West African Nations Sign Roaming Agreement	2362
@@ -1196,6 +1206,7 @@ West Bank and Gaza Strip No N	10714
 West Bengal	10964
 West Cairo Hay	15473
 West Cape	18091
+West Central East North Backhaul Fiber	19728
 West Chester	9237
 West Coast	8311,8794,225
 West Coast Enquiries	2626
@@ -1239,7 +1250,9 @@ West Kunene Omaheke Namibia	1944
 West Legon	3386
 West Lunga National Park	1988
 West Nigerian	10861
-West Nile	11773,1482,1518,4634
+West Nile	11773,1482,1518,4634,240,68,13,13
+West Nile District Local Governments	19647
+West Nile Rural Electrification Company	19646
 West North Ea	12445
 West North East Kigali South West	12445
 West Point	17257,3
@@ -1270,6 +1283,7 @@ West and Central Africa. Together	15939
 West and Central Africa. Wash-	16942
 West and Central African	652,6788,20,9482,1945
 West and Central African Research and Education Network	11552,3895
+West and Central Arica and SEACMEQ	19657
 West and Centre	10980
 West and China	12187
 West and East	9133
@@ -1306,7 +1320,7 @@ Westerkim	13046
 Westerman	6832
 Westermann	8606
 Westermeier	4676
-Western	161,75,335,182,801,907,207,108,615,207,276,182,71,131,168,250,58,17,293,198,5,55,116,95,169,181,244,124,36,71,160,194,116,17,122,1,49,177,46,215,260,138,24,12,17,160,160,164,90,50,119,48,213,2,392,147,198,13,97,62,15,41,181,50,342,21,508,69,56,51,5,14,586,81,125,241,69,69,3,1,74,6,22,619,207,110,21,30,1104,109,150,116,445,88,43,184,2,139,106,607,375,16,135,647,11,78,670,17,4,11,30,32,530
+Western	161,75,335,182,801,907,207,108,615,207,276,182,71,131,168,250,58,17,293,198,5,55,116,95,169,181,244,124,36,71,160,194,116,17,122,1,49,177,46,215,260,138,24,12,17,160,160,164,90,50,119,48,213,2,392,147,198,13,97,62,15,41,181,50,342,21,508,69,56,51,5,14,586,81,125,241,69,69,3,1,74,6,22,619,207,110,21,30,1104,109,150,116,445,88,43,184,2,139,106,607,375,16,135,647,11,78,670,17,4,11,30,32,530,587,35,23
 Western AI	571,4796,864,2461,1047,8034
 Western Africa	585,376,303,1331,215,6056,1974,19,53,660,322,108,4142,624,158,10,6,138,19,15,121,52,486,97,586,48
 Western Africa Coastal Area Management	18787
@@ -1441,13 +1455,14 @@ Western Province Husband	15056
 Western Province Minister Hon. Kapelwa Mbangweta	13413
 Western Province Muhima Rusizi District Mata	12413
 Western Province. Picture	718
-Western Region	2776,4919,4561,4601,39,26,1539,3
+Western Region	2776,4919,4561,4601,39,26,1539,3,1248,3,50
 Western Region Education Office	16162
 Western Region of Cameroon	16222
 Western Rural	18440,20,4
 Western Rural District	18464
 Western Sahara	2682,4741,708,3146,332
 Western Tigray	11004,960
+Western Uganda	19660
 Western Union	2368,409,3590,4802,2219,2,2103,103,2237,34,1147,432
 Western Union Nombre	13390
 Western Union and MoneyGram	11169,791
@@ -1458,6 +1473,7 @@ Western Urban Kono Western Rural Bo	18464
 Western Urban and Western Rural Areas	18465
 Western Water and Sanitation Company	13387
 Western Water and Sewerage Company	13387
+Western World	19654
 Western and African	9739
 Western and Ashanti	17684
 Western and Bono	10629
@@ -1546,6 +1562,7 @@ World Bank’s Western and Central Africa Regional	10829
 World Central and Eastern and Sub-Saharan Africa Western	11572
 Yet Not So Wild West	8629
 Young People of Western and Central Africa	11905
+Youth Representative Western Region	19778
 Zambia and Zimbabwe. West African Economic and Monetary	2775
 Zanzibar Urban West	6728
 Zimbabwe West and Central Africa	18142,55

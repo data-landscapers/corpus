@@ -37,7 +37,7 @@ Comité de Liaison	4276,13850
 Commercial Banks Assets and Liabilities	2775
 Commercial Banks’ Assets and Liabilities	2775
 Community Liaison Coordinator	11623
-Community Liaison Officer	18504
+Community Liaison Officer	18504,1321
 Community Liaison Officers	16926,1578
 Community Relations Liaison Officers	12510
 Complaints PART IX LIMITATION OF LIABILITY	12930
@@ -104,6 +104,7 @@ LEASE PAYMENTS AND CONTINGENT LIABILITIES	4896
 LEASE PAYMENTS AND CONTINGENT LIABILITIES the Directors	4896
 LIABILITIES	4896,7059,2781
 LIABILITIES Current	14736
+LIABILITIES Current Liabilities Payables	19712
 LIABILITIES NON-CURRENT LIABILITIES Borrowings	13053
 LIABILITIES Non-current	11955
 LIABILITIES OWNER EQUITY Capital	11955
@@ -118,7 +119,7 @@ LIAISON SPECIALISEE MEGA BITS PAR SECONDE	18105
 LIAKA Apantrema SCH	19251
 Lease Liability	13053
 Liabiilities	12389
-Liabilities	1154,790,8849,1162,409,4871,1,1320
+Liabilities	1154,790,8849,1162,409,4871,1,1320,1156,111
 Liabilities Currency	11131,3
 Liabilities Grand	17236
 Liabilities NAD	1013,931
@@ -145,7 +146,7 @@ Liability of Members PART III	18463
 Liability of Members Secretariat	18463
 Liability of Service Providers	19523
 Liability of Tan	19525
-Liaise	170,3956,402,7725,259,450,8,955,2947,99,1506
+Liaise	170,3956,402,7725,259,450,8,955,2947,99,1506,1324
 Liaises	14889
 Liaising	12240,722,2072
 Liaison	1131,2382,9777,71,2103,863,1158

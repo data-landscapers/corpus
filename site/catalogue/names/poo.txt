@@ -43,6 +43,7 @@ Département du Pool	15615,165,6,115
 Département du Pool Commandant	15524
 EAPP East Africa Power Pool	18614
 East Africa Power Pool	12256
+East African Power Pool	19646
 Eastern Africa Power Pool	12233,23
 Eastern African Power Pool	12233,2634
 Economic Empowerment Support Program for Poor and Vulnerable	16384,129
@@ -150,12 +151,14 @@ Pool Centre. Rapport Annuel	15670
 Pool Centre. Un	15670
 Pool Constat	15670
 Pool D	15744
+Pool EPRTF Energy Policy Review Task	19646
 Pool Energétique	15542
 Pool Est	15670
 Pool Fund	16971
 Pool Fund Facility	19519
 Pool Plateaux	16249
 Pool Resources and Infrastructure	12675
+Pool Stenographer U6U	19742
 Pool Sud	15739
 Pool Talent	19406
 Pool WASSCE West African Senior School	16876
@@ -218,12 +221,13 @@ Poorest Second Middle Fourth Ritchest	11879
 Poorest Second Middle Fourth Ritchest None	11879
 Poorest Wealth	11879
 Poorest. Even	11469
-Poorly	3133,450,3590,5232,2282,173,854,1443,380,1870,114,63
+Poorly	3133,450,3590,5232,2282,173,854,1443,380,1870,114,63,113
 Poor’s and Fitch	13532
 Poverty Monitoring Pool Fund. Statistical	19519
 Poverty Poor	15604
 Power Pool	12233,166,1034,4670,213,221
 Power Pool WASH Water	17260
+Power Pools	19646
 Prevalence of Poor and Borderline FCS Map	17285
 Prevalence of Poor and Borderline FCS Subnational	17285
 Pro Poor Agenda for Prosperity and Development	16943
@@ -248,7 +252,7 @@ Smallholder Agriculture Project RPSF Rural Poor	17105
 Socioeconomic Empowerment for Poor and Vulnerable Households	16384
 Soil Degradation Poor	17157
 Southern Africa Power Pool	13060
-Southern African Power Pool	9959,1057,133,1084,166,281,475
+Southern African Power Pool	9959,1057,133,1084,166,281,475,6522
 Southern African Power Pool. Every	10169
 Standard and Poor	14897
 Supply Chain Insecurity and Poor Verification of Imported	6936
@@ -273,6 +277,7 @@ WAPP West Africa Power Pool WARDIP	17105
 WAPP West African Power Pool DATA	16188
 WAPP West African Power Pool WBG	15983
 WB EHSGs Satellite PMU and Contractor Poor	1988
+Wealthiest Households and Poorest Households	19823
 West Africa Power Pool	17894,643
 West Africa Power Pool WATRA	18485
 West Africa Power Pool. B	18374

@@ -52,6 +52,7 @@ Ana Priscila Salomao	1526
 Anexo de Salários	12018
 Anexo de Salários.pdf DPR	12018
 Angola Dominica Argentina El Salvador Armenia	10764
+Annual Salary	19742
 António Salomão Chipanga	9227
 Armée DJIBO SALOU Pour	18097
 Armée du Salut	11916,3474,810
@@ -82,6 +83,7 @@ Balance Name Student Last Employee Salary	12360
 Balanza de Pagos SCCBP Saldo de La Cuenta	16969
 Bassirou Diomaye Faye-Macky Sall	4899
 Beit Salam	4380
+Beverage Factories Points of Sale Chemical	19712
 Bichar Chonko Ahmat du Mouvement Patriotique du Salut	19147
 Bills of Sale	19602
 Boustila Khedra Ghiat Hamid Menguellati Salem	15432
@@ -120,6 +122,7 @@ Communications Minister Salima Bah	4140
 Constitucional Secretario Sala	4209
 Consumption and Sales	17043
 Contact Sales	11987
+Contract Staff Salaries	19641,100
 Contract for International Sales of Goods	13985
 Contributeurs Abdourahamane Salifou Administrateur	18177
 Contributeurs Salissou Soumana Karimou Webmaster Société	9668
@@ -189,6 +192,7 @@ Dr. Salako	7895,10263,5
 Dr. Salifou	14157
 Dr. Salim Hamouda Abu Khreis	9091
 Dr. Sener Salci	17260
+Dumelang Saleshando	19669
 EAA Eco Salaire	17833
 EAST AFRICAN BANK SALAAM AFRICAN BANK	17242
 ECOLES ET SALLES DE CLASSES PUBLIQUES	10847
@@ -248,6 +252,7 @@ Eritrea and Mr. Osman Saleh	13983
 Estado. XII. Saldo Primário	18798
 Esther Takwa DAR ES SALAAM	19573
 Etat Macky Sall	18308
+Eucalyptus Saligna	19745
 Evolution des Salles	18171
 Excellency President Salva Kiir Mayardit	18742
 Extérieur Mohamed Salem Ould Merzoug	17859
@@ -276,6 +281,7 @@ Gamal Abd-elmawla Salem Egypt Annual Expert	16520
 Gambian Standard for Food Grade Salt	16900
 Gastos de Salario F U N C	4209
 Gbenga Salau	8522
+Gen. Salim Saleh	19641
 Gen. Salva Kiir Mayardit	18598
 Gen. Salva Kiir Mayardit President Government	18598
 General Manager Sales and Services Lebohang Ramaisa	3258
@@ -286,12 +292,16 @@ General Salario Bruto Luz Vivienda Vehículo	4209
 General Salario Vehículo F U	4209
 General Sales	9855
 General Secretario Sala	4209
+General Staff Salaries	19641
 Gladys Salmouth	2393,616
 Gladys Salmouth. Pour	2393
 Gobierno La Sala Plenaria	9302
 Goods and Sales Tax	16947
 Governo da RAE de Macau Saltar	6568,10769
 Gratif. Cantidad Total General Salario Bruto	4209
+Gross Salary	19712
+Gross Salary Per Month	19742
+Gross Salary Staff Gratuity	19712
 Groupe Salaam	4774
 Grupos Parlamentarios Salvador Nguema Mangue	9303
 Guinea Salud	17094
@@ -533,6 +543,7 @@ Ministre Adji Salatou	18157
 Ministre Ali Adji Salatou	18127
 Ministre Alioune SALL	18375
 Ministre M. Thierno Alassane SALL. Dans	18310
+Ministry of ICT and National Guidance Title Salary	19742
 Ministère des Télécommunications Mahamat Saleh Ibrahim	19070
 Mishkat Salama El Khaldi	8998
 Misr National Broadband Plan El Salvador	11529
@@ -570,6 +581,7 @@ Monsieur Salif OUMAROU	17991
 Monsieur Salif SANOGO	17841
 Monsieur Salif TRAORE	17991
 Monsieur Salim Oussène Sanka DANKORO	17584
+Month Salary and Gratuity Payments	19712
 Mostafa Salem	10800
 Moulahcene Salima	15456
 Moussa Saley MOUKAÏLA	16485
@@ -600,6 +612,7 @@ Mustapha Salah	5277
 NBC Kiganjani DAR ES SALAAM	14176
 NDONG SALA Vianney	16381
 NIYONZIMA Salvator	13341
+NSIMIRIMANA Salvator	19687
 Nadjma Saleh Kebzabo	4926
 Nahla Ahmed Mohamed Salaheldin Zeitoun ICR	15663
 Nahla Ahmed Mohamed Salaheldin Zeitoun Task	15663
@@ -1015,10 +1028,11 @@ Salamu	2868
 Salangwa	3791
 Salaried	12460,4215
 Salaried-	12460
-Salaries	3583,718,206,2,292,732,2338,3260,3,84,6,762,14,270,113,107,481,5,77,1493,350,26,489,193,1229,43,102,141,117,670,399,130,32
+Salaries	3583,718,206,2,292,732,2338,3260,3,84,6,762,14,270,113,107,481,5,77,1493,350,26,489,193,1229,43,102,141,117,670,399,130,32,1174,194
 Salaries and Allowances	12606
 Salaries and Benefits	4153
 Salaries and Employee Benefits	16978
+Salaries and Gratuity	19712
 Salaries and Other Employee Benefits	16978
 Salaries and Remuneration Commission	11247,217,2958,27,44,53
 Salaries and Wages Processing	9437
@@ -1039,9 +1053,11 @@ Salary Band	11218
 Salary Band for Personnel Below Senior Management	11218
 Salary Band for Senior Management Service	11218
 Salary Compensation	14774
+Salary Explorer	19826
 Salary Instantly	3425
 Salary Review	13123
 Salary Review Report	13123
+Salary Scale No. Of Approved Posts	19742
 Salary Service Bureau	13533
 Salary Services Bureau STM-1 Synchronous Transport	13295
 Salary Source and Level Table	18460
@@ -1142,6 +1158,7 @@ Sales Workers	16266
 Sales and Distribution Director	10249
 Sales and Internet Devices Manager	19611
 Sales and Purchase Agreement	14845
+Sales and Purchases	19639
 Sales of Excess Electricity	16851
 Sales of Portable Lanterns	11923
 Sales of Processed Products	17043
@@ -1282,6 +1299,7 @@ Salmon Uulenga	12478
 Salmonella	11417,3319,2235
 Salmonella Typhimurium	16103
 SalmonellaPartie	16103
+Salmons	19654
 Salmou	18099
 Salo CONGO O F CO NGO	18887
 Salogo	10875
@@ -1456,6 +1474,7 @@ South Sudanese President Salva Kiir and Foreign	18691
 South Sudan’s President Salva Kiir	5083,3489
 South YouTube Partner Sales	13461
 Special Programmes Adut Salva Kiir	4668
+Staff Recruitment Plan Post Title Salary	19742
 Staff Salaries	12977
 Stand Sales	9437
 Standard for Iodized Salt	16900

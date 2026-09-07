@@ -29,8 +29,10 @@ DE LOS RECURSOS MONTO INGRESOS	4209
 DEL BALANCE FINANCIERO DE RECURSOS	4209
 Departamento de Recursos Humanos	2816,8633,4054
 Departamento de Recursos Humanos Dande. Corrupção	10751
+Department for Recurrent and Development	19742,4
 Desenvolvimento de Recursos Humanos	12777
 Development Budget. RECURRENT BUDGET	12597
+Development and Recurrent	19660
 Director. O Gabinete de Recursos Humanos	167
 Direcção-Geral de Recursos Naturais	18760
 Direito de Recurso	10755
@@ -41,7 +43,7 @@ Direção-Geral de Recursos Hídricos	17300
 Disponibilidad de Recursos Humanos	4209
 Dos Recursos	15380
 E MOBILIZAÇÃO DE RECURSOS PARA IMPLEMENTAÇÃO	11362
-ENGAGEMENTS RECUS	17841
+ENGAGEMENTS RECUS	17841,2009
 ENGAGEMENTS RECUS DES INSTITUTIONS N1K FINANCIERES	18032
 ENGAGEMENTS RECUS DES MEMBRES	18032
 ENGAGEMENTS SUR TITRES ENGAGEMENTS RECUS	17841
@@ -111,6 +113,7 @@ Name Recurrent Due Date Frequency Partnership	17441
 Name Recurrent Due Date Frequency Project	17441
 Name Recurrent Due Date Frequency Safeguards	17441
 National Treasury’s Recurrent Revenue Statement	14546
+Non Wage Recurrent	19641
 O Departamento de Recursos Humanos	15503
 O Gabinete de Recursos Humanos	167,11282
 O Serviço de Gestão de Recursos Humanos	15526
@@ -215,6 +218,7 @@ Recurrent International	1777
 Recurrent NCC	1777
 Recurrent National Cybersecurity Frameworks	1777
 Recurrent Neural Networks	11265
+Recurrent Non-Wage	19744
 Recurrent Other Monthly	16032
 Recurrent President	1777
 Recurrent Recurrent	11905
@@ -224,13 +228,14 @@ Recurrent Spending	16852
 Recurrent Teacher	15604
 Recurrent Total Grants Own Source Recurre	19585
 Recurrent Transactions	13122
+Recurrent Wage	19742,1,1,2
 Recurrent Yearly Training	16032
 Recurrent and Capabilities	1777
 Recurrent and Capital Grant	14738,8
 Recurrent and Capital Grant for FY	14738
 Recurrent and Capital Grants	14738,8
 Recurrent and Cyber Drill	1777
-Recurrent and Development	12606
+Recurrent and Development	12606,7054
 Recurrent and Development Accounts	13055,67
 Recurrent and Development Budget	12580,17,1
 Recurrent and Development Estimates	12598
@@ -302,6 +307,7 @@ Recusa de Decisões Baseadas	3519
 Recusa de Licen	18896
 Recusa de Ordens de Pagamento	10755,631
 Recusar	11386,3999,3370
+Releases Spent Recurrent Wage	19641
 Responsibility Timing Completion Recurrent Measurement CCDB	11905
 SANGRE ESTUPEF. RECURSOS FINANCIERA SERVICIOS SERVICIOS	4209
 Serviço de Gestão de Recursos Humanos	15526
@@ -320,10 +326,12 @@ ToR Systems Recurrent	11905
 UMA GESTÃO DOS RECURSOS HÍDRICOS QUE	16487
 UNITES RECUS DOSSIERS ECARTS Pourcentage TRAITES	10975
 UTILIZAÇÃO DOS RECURSOS INSTALADOS	11397
+Ushs.21.31Bn Non-Wage Recurrent	19689
 Utilização de Recursos Computacionais	3519
 Utilização de Recursos de Numeração	11430
 Utilização de Recursos de Rede Específicas	11430
 Valoración de Recursos Humanos Políticas Sectoriales	1701
 Vodacom Recurring Data Bundles	11259
 WRI Instituto de Recursos Mundiales	16875
+Wage Recurrent	19641
 X Legal Covenants Name Recurrent Due	17441

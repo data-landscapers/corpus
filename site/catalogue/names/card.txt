@@ -22,6 +22,7 @@ African Guest Identity Cards	2761
 Afrimoney Prepaid Visa Card	6355
 Afrimoney Prepaid Visa Card Launched	6355
 Alien Card	12227
+Alien Identification Card	19813
 Aliens Identify Card Levies	16968
 Amended Mandatory Use of National Identity Card	1263
 Amended SIM Cards	16983
@@ -250,6 +251,7 @@ DHIS2 School Report Card Initiative Research	16909
 Daily Card Replacements	8999
 Daily Card Replacements Daily Run	8999
 Death Death Cardiorespirato- Cardiopulmo-	12151
+Debit Card	19702
 Debit Card Users Decrease	11994
 Debit Cards	17235
 Debit Cards Credit Cards Figure	15023
@@ -324,7 +326,7 @@ Form of Blue Registration Card PHOTO REGISTRATION	12410
 Form of Green Registration Card for Citizens	13307
 Form of Green and Pink-Registration Cards	12410
 Form of Proxy Card	7198
-Four Cardinal Points	16784
+Four Cardinal Points	16784,3035
 GEPE Irene Cristina Agostinho Neto Cardoso	10766
 GHANA CARD	17537
 GHANA CARD FOR ACCOUNTABLE	17537
@@ -430,6 +432,7 @@ Infections Cardio Pul- Cardiorespirato- Cardiopulmo-	12151
 Infections Infections Cardio Pul-	12151
 Instruments Card	12000
 Insuficiência Cardíaca Congénita	18757
+Insurance Cards	19699
 Integrated Civil Registration and Integrated Identity Card	10775
 Integrated ID Card	10765,10
 Integrated Service Cards	15663
@@ -560,7 +563,7 @@ National Identification Card System	16983
 National Identification Card System. SECTION	16841
 National Identification Cards	3645,4118,1057,1701,1747
 National Identification Cards. Sesay	8820
-National Identity Card	1263,116,584,400,4111,1170,201,744,727,1398,61,47,894,369,80,52,9,100,2389,1,24,1,37,55,10,379,171,22,15,759,1190,158,1058,348,98
+National Identity Card	1263,116,584,400,4111,1170,201,744,727,1398,61,47,894,369,80,52,9,100,2389,1,24,1,37,55,10,379,171,22,15,759,1190,158,1058,348,98,696,13
 National Identity Card Act	1379,13336,1,24,4203
 National Identity Card National ID System	10714
 National Identity Card No BRR Cabo	10714
@@ -578,7 +581,7 @@ National Identity Card and Population	2658
 National Identity Card and Yusuf	12051
 National Identity Card of Mozambican	6474
 National Identity Card. The Electoral Domicile	15393
-National Identity Cards	1811,109,43,812,1921,1,553,384,840,124,1081,486,424,204,1623,1875,306,137,244,97,1985,1923,1612
+National Identity Cards	1811,109,43,812,1921,1,553,384,840,124,1081,486,424,204,1623,1875,306,137,244,97,1985,1923,1612,1141,14
 National Identity Cards Act	12648
 National Identity Cards Issued Year	12533
 National Identity Cards. Despite Airtel Malawi	12978
@@ -637,7 +640,7 @@ Paraguay Identity Card	10714
 Passports and ID Cards and D10.5	17105
 Payment Card	13206
 Payment Card Industry	434
-Payment Card Industry Data Security Standard	2312,38,4588,7896,2090
+Payment Card Industry Data Security Standard	2312,38,4588,7896,2090,2740
 Payment Card Industry Data Security Standards	16878
 Payment Card Industry PIN	11955
 Payments Card Industry Payment	12286
@@ -696,7 +699,7 @@ Refugee Card	10765,10
 Refugee Card Foreign	10775
 Refugee Cards	6946
 Refugee Identity Card	2996,4321,11385
-Refugee Identity Cards	12297
+Refugee Identity Cards	12297,7430
 Refugee Identity Cards for SIM	12305
 Registration and Issuance of National ID Cards	741
 Registration and Issuance of National Identification Cards	741
@@ -754,10 +757,10 @@ Salaam. The Jakaya Kikwete Cardiac Institute	7360
 Sample National Identity Card	18595
 Sassa Gold Cards	7856
 Saudi National ID Card	10714
-School Report Card	15960,949,2
+School Report Card	15960,949,2,2865
 School Report Card and Disability Inclusion Guidelines	12347
 School Report Card. The SRC	16911
-School Report Cards	4829,12080
+School Report Cards	4829,12080,2867
 School Report Cards. The DHIS2 EMIS	1017
 Search for Historical National Registration Card Records	10347
 Securitized National Identity Card	18471
@@ -807,6 +810,7 @@ Tonga National Identity Card No N	10714
 Type II Card	34
 UAE ID Card	10714
 UIS Card	18452
+UPPC Rate Card	19641
 USING A CREDIT CARD INFORMAL	10977
 USING BANK CARDS AND REVOKES NOTICE	12860
 UTUR' AFFAIRS CARD In Fi G	15999

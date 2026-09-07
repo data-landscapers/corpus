@@ -57,6 +57,7 @@ KfW Rosh Pinah Solar PV	12399
 Le PV	13375,1162
 Le PVI	18222,14
 Les PV	10876
+MW Mmadinare Solar PV	19677
 MW PV	10180,3615
 MW Salima Nanjoka Solar PV	13060
 MW Salima Solar PV	13060
@@ -122,6 +123,7 @@ PV-based	12956
 PV. EEU	12233
 PV. Par Yacine Hassane	18114
 PV. The GoC	15659
+PVC and PU	19749
 PVC-HI	16103
 PVC. Février	18315
 PVGFD	16213
@@ -170,7 +172,7 @@ Sc6nario Optimiste Pro.iet PV	14479
 Selected PVC	1988
 Sidi Bouzid Mezzouna PV Power	19488
 Sidi Bouzid Mezzouna PV Power and Tozeur	19489
-Solar PV	408,10820,725,303,5,97,2471,873,1276,1565,252
+Solar PV	408,10820,725,303,5,97,2471,873,1276,1565,252,851
 Solar PV Bioma	12256
 Solar PV CSP Pump DSR System	11953
 Solar PV Concentrated Solar Power	11953

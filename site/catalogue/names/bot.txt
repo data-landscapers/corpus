@@ -1,6 +1,7 @@
 A1 PEQUEÑAS FARMACIAS Y BOTIQUINES	4209
 ABBREVIATIONS ATM Automated Teller Machine BOT	7763
 AI Chat Bots	11231
+AI Marketing Bot	19682
 ALMASI BOTTLERS LIMITED Data Controller INST-574931AB321	7167
 ARSO President Botsile Kebapetse	14273
 ASPERB BAD BEAC BET BM BOT	15542
@@ -29,10 +30,11 @@ Angel Network Botswana. Ponatshego	12540
 Angola and Botswana	12568
 Annual Report of Statistics Botswana	12551
 Applied Technical Schools BoTPT Boards of Trustees	15604
+Appraisal of Botswana	19654
 Architects and Quantity Surveyors Registration Board BOT	19585
 Authors Ndekazi Botha The University of Zambia	12467
 B Africa Follow-Up Phase Botswana	12625
-BANK OF BOTSWANA	12537
+BANK OF BOTSWANA	12537,7127
 BANK OF BOTSWANA ACT	5687
 BANK OF BOTSWANA REGULATORY SANDBOX	12603
 BANK OF BOTSWANA V1.0 Contents	12542
@@ -67,16 +69,20 @@ BOTSWANA TO FURTHER DEEPEN	12568
 BOTSWANA The Data Protection Act	12232
 BOthman	5349
 BOtto	5700
+BPC. Botswana	19677
 BSE and Bank of Botswana	12598
 BTC and Botswana Post	12601
+BTC's Smega Money and BotswanaPost	19691
 BURS Headquarters. PIC MORERI SEJAKGOMO Botswana	6454
-Bank of Botswana	3270,12,7,1643,755,1704,773,4364,9,5,9,28,19,5,28,4604,304
-Bank of Botswana Act	5687,6841,9
+Bank of Botswana	3270,12,7,1643,755,1704,773,4364,9,5,9,28,19,5,28,4604,304,2111,14,37
+Bank of Botswana Act	5687,6841,9,7113,14
+Bank of Botswana BISS	19664
 Bank of Botswana Banking Services Digitilisation	12598
 Bank of Botswana Cabo Verde National Financial	6938
 Bank of Botswana Digitalisation and Innovation Hub	12603
 Bank of Botswana Fintech Portal	12603
 Bank of Botswana Fintech Portal. All	12603
+Bank of Botswana and Bank of Botswana Certificates	19650
 Bankers Association of Botswana	12579
 Basketball Botswana Bets Big	10151
 Becoming Botswana	6774
@@ -152,7 +158,7 @@ Botshabelo	6832
 Botshabelo Infill and Metsimotlhabe Block	12605
 Botsuana	11437
 Botsuana. Cristina Caniço	8492
-Botswana	8,12,6,1,1,12,12,184,82,85,29,189,91,2,52,72,24,96,4,51,141,89,120,12,90,89,66,20,20,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,29,110,10,120,36,142,143,95,42,2,149,16,7,60,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,18,49,4,1,37,2,41,18,75,1,6,19,1,3,7,30,11,12,85,30,156,12,7,71,22,102,109,56,39,20,52,1,33,25,27,1,22,18,10,80,4,89,2,6,5,11,12,39,31,10,3,36,16,11,174,157,7,84,35,100,103,19,1,40,15,73,70,111,9,11,2,32,20,13,21,14,19,11,37,1,2,11,1,1,1,2,12,2,25,1,31,1,8,4,10,70,4,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,33,5,25,18,20,1,13,20,6,57,27,18,33,27,28,13,57,16,36,3,7,25,16,6,1,47,14,15,20,10,48,1,33,74,27,9,70,104,2,2,1,1,67,64,6,2,16,28,50,21,41,58,18,22,4,2,4,190,2,1,36,116,47,2,69,162,1,35,36,277,88,20,1,35,1,155,117,40,309,385,95,45,251,146,51,49,61,17,27,110,27,1,22,78,66,1,85,55,5,51,4,36,5,75,67,1,112,2,14,29,26,8,1,41,3,2,4,2,99,5,18,37,135,194,66,7,10,183,9,139,96,26,16,1,2,97,165,2,1,9,47,22,20,11,62,2,14,11,1,14,16,2,14,29,60,35,1,1,1,2,1,1,3,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,2,1,1,1,2,1,1,2,1,1,1,4,1,1,1,1,1,1,1,1,2,2,2,1,1,1,1,2,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,16,3,3,8,37,21,123,66,15,7,2,5,15,10,5,32,25,26,34,53,1,147,15,36,24,42,22,9,26,3,32,28,25,106,4,18,28,41,15,329,68,81,53,76,450,109,324,3,185,13,11,537,780,88,120,589,39,119,53,327,79,76,283,349,455
+Botswana	8,12,6,1,1,12,12,184,82,85,29,189,91,2,52,72,24,96,4,51,141,89,120,12,90,89,66,20,20,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,29,110,10,120,36,142,143,95,42,2,149,16,7,60,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,18,49,4,1,37,2,41,18,75,1,6,19,1,3,7,30,11,12,85,30,156,12,7,71,22,102,109,56,39,20,52,1,33,25,27,1,22,18,10,80,4,89,2,6,5,11,12,39,31,10,3,36,16,11,174,157,7,84,35,100,103,19,1,40,15,73,70,111,9,11,2,32,20,13,21,14,19,11,37,1,2,11,1,1,1,2,12,2,25,1,31,1,8,4,10,70,4,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,33,5,25,18,20,1,13,20,6,57,27,18,33,27,28,13,57,16,36,3,7,25,16,6,1,47,14,15,20,10,48,1,33,74,27,9,70,104,2,2,1,1,67,64,6,2,16,28,50,21,41,58,18,22,4,2,4,190,2,1,36,116,47,2,69,162,1,35,36,277,88,20,1,35,1,155,117,40,309,385,95,45,251,146,51,49,61,17,27,110,27,1,22,78,66,1,85,55,5,51,4,36,5,75,67,1,112,2,14,29,26,8,1,41,3,2,4,2,99,5,18,37,135,194,66,7,10,183,9,139,96,26,16,1,2,97,165,2,1,9,47,22,20,11,62,2,14,11,1,14,16,2,14,29,60,35,1,1,1,2,1,1,3,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,2,1,1,1,2,1,1,2,1,1,1,4,1,1,1,1,1,1,1,1,2,2,2,1,1,1,1,2,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,16,3,3,8,37,21,123,66,15,7,2,5,15,10,5,32,25,26,34,53,1,147,15,36,24,42,22,9,26,3,32,28,25,106,4,18,28,41,15,329,68,81,53,76,450,109,324,3,185,13,11,537,780,88,120,589,39,119,53,327,79,76,283,349,455,285,1,2,1,9,1,4,2,3,2,2,1,2,3,5,3,2,8,1,29,46,45,14
 Botswana AFR UMI	17743
 Botswana Academy of Sciences	12544
 Botswana Accelerates Digital Transformation TechAfrica News	4070
@@ -163,7 +169,8 @@ Botswana Advances Digital Inclusion Through Technology	6320
 Botswana Alpha Direct	12540
 Botswana Animal Information and Traceability System	7236
 Botswana As Botswana	4060
-Botswana Automated Clearing House	12537,42
+Botswana Automated Clearing House	12537,42,7071,14
+Botswana Automated Clearing House BCP	19664
 Botswana BWA Finalised	13082
 Botswana Botswana	12594
 Botswana Brazil	10714
@@ -178,16 +185,19 @@ Botswana By Savious Parker Kwinika	4106
 Botswana By U.S. Mission Comoros	13754
 Botswana Centre for Nuclear Science and Technology	5444
 Botswana Chapter	12544
+Botswana Citizens	19677
 Botswana Climate. Published	12614
 Botswana College of Accounting	13494
 Botswana Communications Regulators Association of Lilongwe	5241
-Botswana Communications Regulatory Authority	1640,936,340,2146,104,165,51,1045,812,432,1,4866,20,1,57,9,11,598
+Botswana Communications Regulatory Authority	1640,936,340,2146,104,165,51,1045,812,432,1,4866,20,1,57,9,11,598,6430,24,3
+Botswana Communications Regulatory Authority BSE	19664
 Botswana Communications Regulatory Authority CRA Act	12538
 Botswana Communications Regulatory Authority Plot	12559,66
 Botswana Communications Regulatory Authority. Despite	3897
 Botswana Computer Security	3887
 Botswana Computer Security Incident Response	3887
 Botswana Computer Security Incident Response Team	3887,8738
+Botswana Congress Party	19669
 Botswana Congress Party MP Kenny Kapinga	17585
 Botswana Constitution Review Act	12556
 Botswana Consumer Fair	12552
@@ -196,9 +206,10 @@ Botswana Council of Non-Governmental Organizations	12626
 Botswana Cyber Drill	5166
 Botswana Cyber Drill. Date	5166
 Botswana Daily News	5634,4729,2247
-Botswana Data	12549
+Botswana Data	12549,7123
 Botswana Data Quality Assurance Framework	12551
 Botswana Defence Force	3887,8719
+Botswana Demographic Survey	19683
 Botswana Department of Meteorological Services. SPI	12614
 Botswana Development Corporation	12634
 Botswana Development Corporation BIF	12540
@@ -214,7 +225,7 @@ Botswana Economic Transformation Plan	12606,17
 Botswana Economic Transformation Program	5393,38
 Botswana Economic Transformation Programme	3869,3522,2317,342,680,1835,7,1,6,1,4,3,1,1,8,1,6,2,3,3,8
 Botswana Economic Update	10051
-Botswana Energy Regulatory Authority	12535,18,42
+Botswana Energy Regulatory Authority	12535,18,42,7136
 Botswana Energy Regulatory Authority Act	12535
 Botswana Enters Space Race	2553
 Botswana European Commission	838
@@ -223,7 +234,8 @@ Botswana FY2024	1660,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,901,60
 Botswana FY2025	2637,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,728
 Botswana FY2026	5631,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 Botswana Fibre Network	4094
-Botswana Fibre Networks	2576,155,4,1348,1232,756,3491,350,138,101,2445,5,21,3,485,1277,17,1
+Botswana Fibre Networks	2576,155,4,1348,1232,756,3491,350,138,101,2445,5,21,3,485,1277,17,1,5275
+Botswana Financial Inclusion Roadmap	19664
 Botswana Financial Sector Development Strategy	12588
 Botswana Gaborone	12232
 Botswana Gambia Kenya Mauritius Rwanda South	14098
@@ -239,23 +251,30 @@ Botswana Health Professions Act	12575
 Botswana Her Ladyship Justice	12972
 Botswana Hosts	12625
 Botswana Hosts First National Cyber Drill	12625
+Botswana In Botswana	19654
+Botswana Information Communication Technology Survey	19683
+Botswana Information and Communication Technology Survey	19702
 Botswana Innovation Fund	5393,51,2,323,6771,4
 Botswana Innovation Fund BIH	12540,4
 Botswana Innovation Fund Secretariat	12638
 Botswana Innovation Fund and Scalar International	5447
-Botswana Innovation Hub	5879,18,6643,4
+Botswana Innovation Hub	5879,18,6643,4,7233
 Botswana Innovation Hub BPOPF	12540
 Botswana Institute for Development Policy Analysis	12551
 Botswana Institute for Technology	12544
 Botswana Institute for Technology Research and Innovation	2576,2868,7134
-Botswana Interbank Settlement System	12537,42
+Botswana Interbank Settlement System	12537,42,7071,14
+Botswana Interbank Settlement System BOCRA	19664
 Botswana Interbank Settlement System The Bank	12579
+Botswana Interbank Settlement System Transactions	19650
 Botswana International University of Science and Technology	2553,1507,8505,13,891
+Botswana Internet Exchange	19670
 Botswana Internet Exchange Point	12625
 Botswana Investment and Trade Centre	6117
 Botswana Labour Market Information System	12612
 Botswana Launches Community Wi-Fi	2999
 Botswana Law Enforcement	12542
+Botswana MO IBRAHIM FOUNDATION	19653
 Botswana MOTSETE-PHILLIPS	6613
 Botswana Managing Director	10051
 Botswana Medicines Regulatory Authority	12583
@@ -265,6 +284,8 @@ Botswana Ministry of Health	15259
 Botswana Mr Shindo Yusuke	12620
 Botswana Multi Topic Household Survey	12600
 Botswana Multi-Topic Household Survey	12541,57,2
+Botswana NPS	19650,14
+Botswana NPS. Achieving	19664
 Botswana NSI	12638
 Botswana Namibia Ghana Morocco Tunisia Kenya	10837,1503
 Botswana National Archives and Records Services	5250,7347
@@ -274,6 +295,7 @@ Botswana National ID System	10714
 Botswana National Identity System	12533,1
 Botswana National Innovation Network	12587
 Botswana National Library Services	5250,7347
+Botswana National Payments System Ecosystem	19650
 Botswana National Productivity Centre	5250,7347
 Botswana National Research	12544
 Botswana National Service Programme	12642
@@ -284,14 +306,20 @@ Botswana Open University	12574
 Botswana PIC	2976
 Botswana PRESS RELEASEJanuary	12583
 Botswana Parliament	11748,3514
+Botswana Participants	19650
 Botswana Partners	3593
+Botswana Police Senior Officers Annual Conference	19693,2
 Botswana Police Service	3887,1287,2264,5101,12,15,62
 Botswana Police Service. Despite	12626
-Botswana Post	2576,1321,8639,65
-Botswana Power Corporation	12553,42,3,11
-Botswana Power Corporation Act	12535,60
+Botswana Population and Housing Census	19677
+Botswana Post	2576,1321,8639,65,7050,3
+Botswana Postal Services Limited	19651
+Botswana Poverty and Equity Brief	19663
+Botswana Power Corporation	12553,42,3,11,7045,9,14,54
+Botswana Power Corporation Act	12535,60,7082
 Botswana Power Corporation Botswana Power Corporation	12604
 Botswana Power Corporation NOTE	12592
+Botswana Power Corporation. Proposed Development Objective	19663
 Botswana President Duma Boko	2910,14769
 Botswana President Gideon Duma Boko	2910
 Botswana Prisons Service	3382,505,1767
@@ -321,7 +349,8 @@ Botswana Standards	12526
 Botswana Startups Through Angel Network Partnership	10151
 Botswana Steering Committee	12544
 Botswana Steps Up	4094
-Botswana Stock Exchange	12598
+Botswana Stock Exchange	12598,7066
+Botswana Stock Exchange CCA	19664
 Botswana Stock Exchange Limited	6938
 Botswana Stock Exchange-listed	3174
 Botswana Stock Exchange. The Lesedi	8786
@@ -341,9 +370,11 @@ Botswana Tech Summit Date	12554
 Botswana Telecommuni	12325
 Botswana Telecommunications	6834
 Botswana Telecommunications Corporation	2999,1269,8284,73,641
-Botswana Telecommunications Corporation Limited	3174,9427
+Botswana Telecommunications Corporation Limited	3174,9427,7050
 Botswana Telecommunications Corporations Limited	2576
+Botswana Telecommunications Limited	19691
 Botswana Telecoms Corporation	4106
+Botswana Television	19651
 Botswana The Botswana Communications Regulatory Authority	2402
 Botswana Themes	12550
 Botswana Trade and Venture Ecosystem BTF	5879
@@ -351,7 +382,7 @@ Botswana Transitional Economic Programme	12600
 Botswana Unfied Revenue Service	3887
 Botswana Unified Revenue Service	3846,23,18,3190,5462,59,31,4
 Botswana Unified Revenue Service Act	12629
-Botswana Unified Revenue Services	12551,47
+Botswana Unified Revenue Services	12551,47,7103
 Botswana University of Agriculture and Natural Resources	12634
 Botswana University of Information Science and Technology	12582
 Botswana VAT	10023
@@ -371,7 +402,7 @@ Botswana and Malawi. Currently	1154
 Botswana and Mauritania. Year	6938
 Botswana and Mauritius	9759
 Botswana and Mauritius. TurnStay	8857
-Botswana and Namibia	5382,3789,391,73,124,3710
+Botswana and Namibia	5382,3789,391,73,124,3710,6194
 Botswana and Namibia. The MoU	5315
 Botswana and Part II	12524
 Botswana and Rwanda. Econet	36
@@ -380,11 +411,13 @@ Botswana and Senegal	6637
 Botswana and Seychelles. All	962
 Botswana and South Africa	1695
 Botswana and South African	10414
+Botswana and Southern African	19680
 Botswana and Statistics Botswana	2360
 Botswana and UAE Sign Historic	15259
 Botswana and Zambia	5382,7536
 Botswana and Zimbabwe	7036,1341,5290
 Botswana' Statistics Botswana and Business Botswana	2360
+Botswana's Anti-Money Laundering	19664
 Botswana's Anti-money Laundering	12598
 Botswana's BW-CIRT	9562
 Botswana's BoFiNet	5315
@@ -411,25 +444,32 @@ Botswana's Ministry of Communication and Innovation	13234
 Botswana's Ministry of Communications and Innovation	5393,52,874
 Botswana's Ministry of Minerals and Energy	12577
 Botswana's Ministry of Minerals and Energy and KP Group	12576
+Botswana's NPS	19664
 Botswana's NSI	12638
 Botswana's National Broadband Strategy	12536
 Botswana's National Cybersecurity Strategy	6319
 Botswana's National Digital Identification System	12589
+Botswana's National Energy Policy	19677
 Botswana's National ICT Policy	12529
-Botswana's National Vision	12611
+Botswana's National Payments Switch Act	19701
+Botswana's National Vision	12611,7072
+Botswana's Overall Governance	19653
 Botswana's Primary Bank	6774
+Botswana's Public Procurement and Asset Disposal Board	19677
 Botswana's Renewable Energy Support and Access Accelerator	12553
+Botswana's SDG	19677
 Botswana's Total Fertility Rate	12639
 Botswana's Universal Electronic Payment System	2935,4
 Botswana's Vice President	3729
 Botswana's Vice President Calls for United African	3729
-Botswana's Vision	12608
+Botswana's Vision	12608,7069
 Botswana-Namibia	11899,500
 Botswana-Zimbabwe	12563
 Botswana-Zimbabwe Bilateral Agreement	13042
 Botswana-Zimbabwe-Zambia	7014,22
 Botswana-based	1554,3377,948
 Botswana. Alcohol and Substance Abuse	12606
+Botswana. Annual World Bank Conference	19654
 Botswana. Apply Now	12603
 Botswana. Article	12616
 Botswana. Available Online	12707
@@ -440,20 +480,28 @@ Botswana. BoFiNet Board Chairman Molimisi Sechaba	5315
 Botswana. Botswana	12541
 Botswana. Byakatonda	12611
 Botswana. CHIRPS	12611
+Botswana. Consistent	19650
 Botswana. Continued	12618
+Botswana. Current	19663
 Botswana. Drought	12614
+Botswana. FIG Working Week	19654
 Botswana. Instead	12556
+Botswana. Kelebile Balo	19654
+Botswana. Keywords	19654
 Botswana. Lemo Seitei	2773
 Botswana. Mukuru	10418
 Botswana. MyZaka Flexi	2916
 Botswana. Netherlands-based	3688
 Botswana. Nevertheless	12554
+Botswana. Nonetheless	19654
+Botswana. Note	19654
 Botswana. Ntlhaile	6110
 Botswana. Orange	1141
 Botswana. PLoS ONE	10784
 Botswana. Personal	12232
 Botswana. Proof	12542
 Botswana. Real GDP	12551
+Botswana. Region	19663,12
 Botswana. Remote	10023
 Botswana. SmartSwitch Botswana	2935
 Botswana. Social Workers	12541
@@ -474,8 +522,10 @@ Botswana. With the Botswana	5263
 Botswana. Young	10945
 Botswana.Botswana Speaks	12641
 Botswana.pdf	1375
-BotswanaPost	12552
+BotswanaPost	12552,7099,40
+Botswanan	19654,23
 Botswanan Financial Sector Diagnostic. Botswana	12540
+Botswanans	19677
 Botswana’s Economic Transformation Programme and BoFiNet	9912
 Botswana’s Minister of Communications and Innovation	9171
 Botswana’s Ministry of Communications and Innovation	9171
@@ -530,27 +580,34 @@ Cameroon Ioana Botea Hrishikesh TMM Iyengar	10985
 Cameroon Ioana Botea and Hrishikesh TMM Iyengar1	10985
 Cape Town. Botswana Tech Fund	5957
 Carolina Botero	12088
+Carolina Diaz-Bonilla and Sergiy Radyakin Botswana	19683
 Cassava Technologies SA and Botswana As Botswana	6165
 Cassava Technologies South Africa and Botswana	7467
 Central Bank Botswana	6938
-Central Securities Depository Company of Botswana	12537
+Central Securities Depository Company of Botswana	12537,7113,14
+Central Securities Depository Company of Botswana DLT	19664
 Certificate BOT Build	16843
 Chat Bots	14965
 Chief Executive Officer of Statistics Botswana	12530
 Cite Botha	12467
+Commissioner Dinah Marathe of Botswana Police	19695
+Complete Feasibility Study of Botswana	19677
 Connecting Botswana	12529
 Connects Three Botswana Villages	9912
+Considering Botswana	19677
 Constitution of Botswana	12556
 Continued Breastfeeding and Bottle Feeding	15247
 Copyright Government of Botswana	12528
 Could Botswana	2404
 Country Landscape. Botswana's Country Report	12578
+Country and Sector Overview Botswana	19677
 Critical Gaps and Bottlenecks Implementation Crisis	17139
 Currency Stability Supports the Bottom Line	8968
 DEVELOPING BOTSWANA'S NATIONAL ICT POLICY	12529
+DHL Botswana	19651
 DW. In Botswana	766
 Danielle Botes	11251
-Declaration of Commitment The Government of Botswana	12563
+Declaration of Commitment The Government of Botswana	12563,7114
 Defining Broadband for Botswana	12536
 Denial of Service and Botnets	12928
 Deposit Insurance Scheme of Botswana	6938
@@ -565,6 +622,7 @@ EXECUTIVE SUMMARY Botswana	12536
 Earth. Botswana	6897
 Economic Category BeTA Bottom-up Economic Transformation	2775
 Egypt. The Botswana Tech Fund	5930
+Electronic Clearing House Botswana	19664
 Emeritus Training Academy Botswana	7563
 Erkin Mamadaliev and Ioana Botea AFD ABBREVIATIONS	10964
 Establishment and Functions of Statistics Botswana	12530
@@ -575,6 +633,7 @@ Estonia and Botswana	2910
 Excelentísima Manuela Roka Botey	16925
 Excma. Señora Doña Manuela Roka Botey	16925
 FCB Botswana	5261,2
+Feasibility Study of Botswana	19677
 Fintech Association of Botswana	2773
 First Bot	3849
 First Capital Bank Botswana	5261,2,71,6918
@@ -595,11 +654,11 @@ Glance The Government of Botswana	12534
 Global Entrepreneurship Network Botswana	12540
 Global Expo Botswana	12625
 Government Pursues Education Transformation Botswana	12565
-Government of Botswana	52,3541,6558,1597,781,15,7,12,11,2,1,8,10,2,9,11,9,16,2620
+Government of Botswana	52,3541,6558,1597,781,15,7,12,11,2,1,8,10,2,9,11,9,16,2620,4402,13
 Government of Botswana. Both Presidents	12568
 Government of Kenya Bottom-up Economic Transformation Agenda	4153
 Government's Bottom-up Economic Transformation Agenda	1638
-Governments of Botswana and Namibia	9171
+Governments of Botswana and Namibia	9171,10492
 Gujarati Samaj and Telugu Association of Botswana	12617
 Health Botswana	12529
 Health Botswana Programme	12529
@@ -610,6 +669,11 @@ Honourable Minister of Finance Statistics Botswana Private	12551
 Hospitality and Tourism Association of Botswana	12552
 Huawei Botswana	4060
 Huawei Botswana Managing Director	6158
+IPPs. With Botswana	19677
+IRP and Botswana	19663
+Implementation of Botswana	19701
+Inc. Statistics Botswana	19654
+Increased Regional Integration Botswana	19677
 India Association of Botswana	12617
 Inland Valley Bottoms Equipped Flood Flooding	17043
 Innovative Policies and Programmes BOT	7763
@@ -637,6 +701,8 @@ Key Insights The Botswana	12578
 Knowledge and Technology of Botswana	12544
 LGAs Instead of BoT	19585
 LGAs Instead of BoT S	19585
+Land Policy. Botswana Notes and Records	19654
+Land Survey Act of Botswana	19654
 Laos Thailand Cambodia DRC Zimbabwe Botswana	418
 Le Parc Botanique	14489,1
 Legal Aid Botswana	12566
@@ -652,6 +718,7 @@ MORERI SEJAKGOMO Botswana	7236
 MOUDJIGUI. Confirmé M. NYAMANGOYE BOTOUNOU	16175
 MRA WhatsApp Bot and Employee Self-Service	13053
 MTN Business Botswana	3897
+MW Morupule B. Botswana	19677
 Madagascar and Seychelles. Botswana and Zimbabwe	318
 Mafikeng and Botshabelo	11343
 Making Botswana	12529
@@ -660,7 +727,7 @@ Malawi's Economy and Business Bottom Line	14674
 Manuela Roka Botey	16933,12
 Maofisa BoT	4061
 Martin Mokgware. PIC. BOCRA Botswana	5331
-Mascom Wireless Botswana	12601
+Mascom Wireless Botswana	12601,7050
 Mascom Wireless and Orange Botswana	13266
 Mascom and Orange Botswana	9759
 Matters Botswana	4252
@@ -686,6 +753,8 @@ Mozambique Zimbabwe Botswana South Africa North	9616
 Mr. Urbino Botelho	18857
 Ms. Caroline Setshedi Botlhole Mmopi	12552
 Mukuru Botswana	10418
+MultiChoice Botswana	19651
+NATIONAL ENERGY COMPACT FOR BOTSWANA MISSION	19677
 NEXT STEPS The Government of Botswana	12623
 Namibia and Botswana	5066,4200,296,197,2837,514
 Nana Appiah Acquaye Botswana	6642,255,342
@@ -697,13 +766,15 @@ Nigeria NGWANA ENTERPRISES Botswana Northern Innovation	15460
 Nigeria Senegal Kenya Botswana Namibia Uganda	17870
 Nigeria and Botswana	15471
 No.1 Amanfro Ashaley Botwe Street	3386
+ORANGE BOTSWANA The Botswana Communications Regulatory	19671
 Occupation Botswana	14098
 Ocean Bottom Cable	11405
 Officer of Orange Botswana	5717
-Orange Botswana	5382,48,287,6884
+Orange Botswana	5382,48,287,6884,7050,20
 Orange Botswana and Mascom	5062,7563
 Orange Botswana and Special Economic Zones Authority	5430
 Orange Botswana. PIC MORERI SEJAKGOMO Orange	5666
+Orange Money Botswana	19650
 P10.00. REPUBLIC OF BOTSWANA Statutory	12575
 PDC Botswana	20
 PIC BANK OF BOTSWANA Mbongeni Mguni	8164
@@ -725,24 +796,30 @@ Persistent Bottlenecks High	6051
 Plastic Bottles	14828,3
 Port Louis Sir Seewoosagar Ramgoolam Botanic	14847
 Power Bottleneck Is the Story	6266
+Preamble The Government of Botswana	19677
 Preserve the Bottom-Up	3503
 Priority for Botswana	12541
+Provide Reliable Service Botswana	19677
 QoE Bottleneck	6051
 REPUBLIC OF BOTSWANA	13996
+Radio Botswana	19651
 Real Bottleneck	5528
 Registrar Samuel Adom Botchway	3287
 Republic of Angola The Republic of Botswana	12527,6658
-Republic of Botswana	2909,2778,102,1108,1588,2231,573,128,1116,1,42,4,17,42,1,342
+Republic of Botswana	2909,2778,102,1108,1588,2231,573,128,1116,1,42,4,17,42,1,342,6672,9
 Republic of Botswana and KP Group Sign MoU	12576,1
 Republic of Botswana. ARTICLE	19185
 Republic of Botswana. Annual	12575
+Republic of Botswana. Implementing Agency	19663
 Republic of Botswana. Welcoming the President	12568
 Research ICT Solutions and Baker Botts	1364
 Roka Botey	16925,20
 Roka Botey Secretario de Estado Encargado de Enseñanza	16920
 S.E. Manuela Roka Botey	16925
+SADC Regional StatCap and Botswana	19683
 SAMBA BOTCHO	15455
 SSR Botanic Garden	14267
+STATISTICS BOTSWANA	19702
 STATISTICS BOTSWANA BOARD CHAIRPERSON	12551
 Samuel Adom Botchway	3287
 Scalar Botswana Innovation Program	5393,38,15,1
@@ -753,12 +830,17 @@ Senegal and Botswana	3859
 Seychelles Botswana Central Bank of Seychelles	12252
 Shawn Ntlhaile As Botswana	5446
 Sint Eustatius and Saba Bosnia and Herzegovina Botswana	11470,7872
+Smart Botswana Initiatives	19651
 SmartSwitch Botswana	2935,1,3
 SmartSwitch Botswana Pioneers Dignified Digital Aid	2935
 SmartSwitch Botswana Today	2935
+Smartswitch Botswana	19650
 South Africa and Botswana	1815,1368,2080,474,1730,2292,4988
+South Africa. Botswana	19677
 South Africa. Van Zyl Botha	7318
 South-Africa First National Bank of Botswana PTY	12252
+South-East District of Botswana	19654
+Southern Africa The Botswana Tech Fund	19777
 Southern Africa. The Botswana Tech Fund	5989
 Southern Africa. The Scalar Botswana Innovation	5393
 Sports Exchanges Botswana	12617
@@ -767,12 +849,14 @@ Stanbic Bank Botswana	3897
 Stanbic Bank Botswana Chief Executive Officer	9808
 Stanbic Bank Botswana Limited	12252
 Starlink. The Botswana Information	2361
-Statistics Botswana	2360,1,3088,5281,1800,9,12,20,27,2,31,8
+Statistics Botswana	2360,1,3088,5281,1800,9,12,20,27,2,31,8,7015,9,14,6,19
+Statistics Botswana Information Resource Centre	19702
 Statistics Botswana Private Bag	12639
 Statistics Botswana and Business Botswana	2360
 Statistics Botswana's ICT Stats Brief Q4	2361
 Statistics Department and Statistics Botswana	9708
 Strategy and Action Plan. Bottom-up Research Methodology	4126
+Strategy for Botswana NPS Modernisation	19664
 Strengthen Botswana's Health Sector Media Center	11748
 Strengthening Botswana's Digital Future	12625
 Syndrome BoT Bank of Tanzania BRELA Business	19531
@@ -786,19 +870,23 @@ TechCabal Botswana's Innovation Fund	5431
 Technology Studies Botswana Digital and Innovation Hub	1154
 Telegram Bot Pay-per-use Crisis Mapping QGIS	17157
 Transform Botswana's Communications Landscape Botswana	12625
+Transforming Botswana	19677
 Tsok James Bot	6560
+UB and Botswana	19654
 UMc Botswana Africa Southern Africa Gaborone	10840
 UniPod Botswana	12599
 United States and Botswana	6897
 Universal Access and Service Fund. Botswana	9562
-University of Botswana	4060,10,1782,3856,1920,905,1,10,7,23,4,3,18,12,3,1686
+University of Botswana	4060,10,1782,3856,1920,905,1,10,7,23,4,3,18,12,3,1686,5351,3
 University of Botswana Cover	12533
 University of Botswana Enters VR Space	5852
 University of Botswana and Eswatini	11131,3
 Unlimited Botswana Telecommunications Corporation Limited	15471
+Unlock Additional Resources Botswana	19677
 Urban Bottleneck	6876
 Using the Botswana Multi-Topic Household Survey	12541
 Village Digital Safety Botswana Initiative	11600
+Vision and Strategy for Botswana NPS Modernisation	19664
 WWW.LIVEMINT.COM Botswana	5131
 Workflow Bottlenecks	17139
 World Bank Country Director for Botswana	12583

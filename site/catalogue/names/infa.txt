@@ -89,10 +89,11 @@ Infant Care Support	13080
 Infant Diagnosis FP Family Planning GePG	19544
 Infant Life	13040
 Infant Mortality	12383
-Infant Mortality Rate	12367,16,30,226,760,1657
+Infant Mortality Rate	12367,16,30,226,760,1657,4659
 Infant Mortality Rate ASFR	12639
 Infant Mortality Rate IOM	16951
 Infant Mortality Rate and Neonatal	12138
+Infant Mortality Rates	19715
 Infant Mortality Ratio	19544
 Infant Registration Bill	4534
 Infant Registration Month. Accordingly	15628
@@ -127,6 +128,7 @@ MORTALITÉ INFANTILE ET MORTALITÉ JUVÉNILE	18312
 MORTALITÉ INFANTILE ET MORTALITÉ JUVÉNILE Mortalité	13300
 MORTALITÉ INFANTO-JUVÉNILE VS DÉCÈS EN VALEUR	17843
 Mortalidade Infantil	11537
+Mortality Infant Mortality Rate	19715
 Nivel Infantil	16920
 Pornografia Infantil	11374
 Postpartum Infant Care Program	6423

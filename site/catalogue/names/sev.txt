@@ -149,6 +149,7 @@ Mr. Sevala Naik Mude and Sierra Leone	18563
 Multi-Source Data Ingestion Seven	17969
 NDP Seventh National Development Plan	13332
 NEPS. Several	16876
+NITA-U. Seven	19660
 NamRA. Several	13097
 National Quality Infrastructure Several	13320
 News Moris Editor Severe Yellow Alert	14801
@@ -160,6 +161,7 @@ Nine Hundred and Seventy-Three Million	12597
 Non Severe	19544
 October. Several	11714
 Oflocée Severine	16100
+Orthodox and Seventh-day Adventist	19758
 P0301.4 Seven	11192
 PART SEVEN MISCELANEOUS PROVISIONS	14024
 PART SEVEN PROCEDURES FOR TRANSFER	762
@@ -167,6 +169,7 @@ PDSI Severe	17157
 Page Judicial Service. Seven	13504
 Palmer Drought Severity Index	12611,4546
 Planning and Economic Development. Several	17101
+Prevalence of Severe Food Insecurity	19715
 Priority Area Number Seven	15473
 Private Sector Several	11228
 Project Governance Several Institutions	12917
@@ -203,6 +206,7 @@ SEVIRI	14256,1651,2296
 SEVIRI IR8.7	14256,3947
 Sanção Disciplinar da Criança Severa	18762
 Science and Technology CHAPTER SEVENTEEN	14409
+Scope Several	19685
 Section Seven	15492,1338
 Sensitive Personal Data. CHAPTER SEVEN Cross-Border	15484
 Sergent OBIANG ELLA Gauthier Severin	16099
@@ -223,12 +227,13 @@ Seven Hundred and Fourty-Eight Million	12602
 Seven Hundred and Six Pula	12597
 Seven Hundred and Thirty Pula	12606
 Seven Kobo	3862
+Seven MDAs	19660
 Seven Million	12982
 Seven Not Limited Operational Septembe Great	3386
 Seven Policy Intents for Open Science	5246
 Seven Policy Intents of Open Science	5246
 Seven Pre-Qualified Bidders	11236
-Seven Strategic Pillars	3235
+Seven Strategic Pillars	3235,16487
 Seven Strategic Pillars Hon. Akanvariba	8367
 Seven Trillion	3862
 Seven Years	12732
@@ -241,6 +246,7 @@ Seventeen Sudanese	15251
 Seventeenth Cabinet Meeting	11791
 Seventh	8184,5343,3336
 Seventh Administration	2626,8592,43
+Seventh Day Adventist	19715
 Seventh Day Adventist Hospital	12253
 Seventh Edition	9604,1375,771
 Seventh Integrated Household Living Conditions	12403
@@ -259,7 +265,7 @@ Seventh Schedule	585,7260,1021,5866,82,29
 Seventh Schedule. Regulation	1988
 Seventh World Telecommunication	17734
 Seventh and Eighth Schedules	14843
-Seventy	15663,1239,797,171
+Seventy	15663,1239,797,171,1845
 Seventy Million	12597
 Seventy-First World Health Assembly	396
 Seventy-Nine Million	12982
@@ -279,13 +285,13 @@ Seventy-six	10704
 Seventy-two	10453
 Sever	10997,3952
 Severa	18762
-Severability	13185
+Severability	13185,6443
 Severability Clause	3861
 Severability PART V GENERAL PROVISIONS	13352
 Severability and Savings Provisions	3861
 Severability. PART IV	18438
 Severability. Third	18438
-Several	1219,65,270,25,156,43,36,10,4,39,40,2,84,120,207,217,8,296,28,20,100,76,111,116,72,73,77,66,3,21,187,83,29,80,456,409,15,109,98,44,51,50,27,3,82,80,196,72,25,180,331,1,19,1,35,13,107,152,114,179,60,58,201,162,66,44,3,20,51,210,44,38,1,96,69,59,8,28,24,209,71,73,9,94,74,1,45,63,265,143,2,6,41,42,49,55,78,20,36,37,60,28,41,8,72,42,206,25,38,10,58,13,17,27,4,19,33,75,112,105,2,51,28,157,46,4,8,70,6,67,18,42,1,36,1,114,2,1,1,3,57,29,12,130,170,24,18,73,40,6,23,99,2,45,1,13,12,2,22,3,56,19,9,22,12,101,33,4,3,23,5,4,4,13,4,22,2,1,1,68,3,5,4,39,19,18,17,23,13,9,64,72,52,11,27,216,29,2,23,71,81,189,2,17,13,1,2,2,69,243,144,63,70,53,19,115,172,10,37,97,200,25,7,50,13,2,10,25,27,35,42,11,7,2,28,7,3,30,1,31,76,17,32,42,60,69,49,82,23,13,13,7,38,35,48,3,17,37,1,11,132,122,36,89,95,292,80,84,31,23,145,54,8,6,17,12,6,19,1,20,7,11,36,15,32,71,43,128,4,78,91,12,33,36,74,2,4,161,90,64,170,5,192,145,32,5,8,60,6,19,2,14,110,85,22,124,24,288,20,19,41,234,25,1
+Several	1219,65,270,25,156,43,36,10,4,39,40,2,84,120,207,217,8,296,28,20,100,76,111,116,72,73,77,66,3,21,187,83,29,80,456,409,15,109,98,44,51,50,27,3,82,80,196,72,25,180,331,1,19,1,35,13,107,152,114,179,60,58,201,162,66,44,3,20,51,210,44,38,1,96,69,59,8,28,24,209,71,73,9,94,74,1,45,63,265,143,2,6,41,42,49,55,78,20,36,37,60,28,41,8,72,42,206,25,38,10,58,13,17,27,4,19,33,75,112,105,2,51,28,157,46,4,8,70,6,67,18,42,1,36,1,114,2,1,1,3,57,29,12,130,170,24,18,73,40,6,23,99,2,45,1,13,12,2,22,3,56,19,9,22,12,101,33,4,3,23,5,4,4,13,4,22,2,1,1,68,3,5,4,39,19,18,17,23,13,9,64,72,52,11,27,216,29,2,23,71,81,189,2,17,13,1,2,2,69,243,144,63,70,53,19,115,172,10,37,97,200,25,7,50,13,2,10,25,27,35,42,11,7,2,28,7,3,30,1,31,76,17,32,42,60,69,49,82,23,13,13,7,38,35,48,3,17,37,1,11,132,122,36,89,95,292,80,84,31,23,145,54,8,6,17,12,6,19,1,20,7,11,36,15,32,71,43,128,4,78,91,12,33,36,74,2,4,161,90,64,170,5,192,145,32,5,8,60,6,19,2,14,110,85,22,124,24,288,20,19,41,234,25,1,54,11,4,3,20,25,26,73
 Several Africa-	12376
 Several African	961,2637,770,1971,242,4359,1292
 Several African AI	6410
@@ -305,6 +311,7 @@ Several KIIs	15342
 Several MDAs	13314
 Several Malian	17870
 Several Members	10313
+Several Ministerial Orders	19658
 Several MoUs	18563
 Several Nigerian	3554,9328
 Several PAs	10779
@@ -321,9 +328,10 @@ Several of Liberia	16876
 Severalmethods	8606
 Severalsimilaritymeasures	8606
 Severalstudiesaddressduplicatedetectioninmulti-sourcedata	8606
-Severe	5247,1940,3531,62,49,366,225,342,471,45,135,88,331,114,368,436,17,361,928,188,1658,212,25,18,100,28,840,184,132,1079,24
+Severe	5247,1940,3531,62,49,366,225,342,471,45,135,88,331,114,368,436,17,361,928,188,1658,212,25,18,100,28,840,184,132,1079,24,99
 Severe A2F	15480
 Severe Acute Malnutrition	15206,4314
+Severe Acute Respiratory Syndrome	19771
 Severe Constraints	12389
 Severe Dehydration	17157
 Severe Disabilities	2775
@@ -331,6 +339,7 @@ Severe Disabilities CTU Cane Testing Units	2775
 Severe Disabilities Cash Transfer	14487
 Severe Drought	17157
 Severe Drought Best	17157
+Severe Food Insecurity	19715
 Severe Food Insecurity Project Beneficiaries Agadez	18104
 Severe Incidents	17114
 Severe International	17157
@@ -369,6 +378,7 @@ SevisPass	2318,6,103,20,94,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,259,18,1
 Shri Sevala Naik Mude	16237,1003
 Silvia Severi	18909
 Six Hundred and Seventy-Four Billion	3862
+Six Seven Eight Nine	19715
 Sixth and Seventh Schedules	7845
 Somalia. Seven	14879
 South Africa and Lesotho. Several	12678

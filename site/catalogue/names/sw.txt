@@ -49,6 +49,7 @@ Body Swakopmund	12960
 Body Switch-On Ceremonies	13451
 Body THE KINGDOM OF SWAZILAND	12896
 Botswana Sweden	8
+Botswana's National Payments Switch Act	19701
 Brazil’s Cadastro Unico and Montenegro’s SWIS	16867
 Broadband Strategy for Sweden Switzerland Yes Stratégie	11529
 Broadband and Ascot Packet Core Switching Centre	362
@@ -73,6 +74,7 @@ Century and Swift Telephone Network	3862
 Chief Executive Officers of Swakopmund Municipality	13118
 China’s Swift	10026
 Choose and Switch	5226
+Citizens' Grant Sida Swedish International Development	19647
 Community Centre Swakopmund Primary School Hall	13046
 Community SDGs Sustainable Development Goals SWOT	13005
 Comoros Deploys Digital Payment Switch	2421
@@ -246,7 +248,7 @@ Kingdom of Swaziland	6539,6357,1,7,10
 Kingdom of Swaziland Report	12944
 Kingdom of Swaziland and Internet Society	12904
 Kingdom of Swaziland. ISBN	12914
-Komor Switch	5996,49,14,9,78,7596,59,3839
+Komor Switch	5996,49,14,9,78,7596,59,3839,2181
 Komor Switch Des	6146
 Kundai Ngwena and Swaraj Ram	1814
 LAN Ethernet Switché	17823
@@ -294,6 +296,7 @@ Meteo Swiss	18677
 Mheshimiwa Dkt. Switbert Zac	6019
 Mheshimiwa Dkt. Switbert Zacharia Mkama	6019
 Minister Swaraj	11183
+Mobile Switching Centers	19728
 Modules. This Payments Switch	11134
 Mohammed Souysi Mohammed Swaysi Mohammed Musab	17403
 Moniepoint Digital Payments Equity Investment Swedfund	2243
@@ -302,7 +305,7 @@ Moving Swaziland's National Land Information Service	13251
 Mozambique and Sweden	110
 Mr. Mohamed Rahman Swaray Minister of Employment	18540
 Mr. Rob Swinkles	19519
-Multi-Protocol Label Switching	12769
+Multi-Protocol Label Switching	12769,6959
 Multiprotocol Label Switching	19232,301
 Multiprotocol Label Switching Virtual Private Network	5883
 Muuo SW	12231
@@ -329,12 +332,14 @@ National Instant Payment Switch	2395
 National Interoperable Payment Switch	3473
 National Money Switch	11994
 National Money Switch.123	11994
-National Payment Switch	2849,28,524,91,3,210,5746,1680,3,1567,2118,435
+National Payment Switch	2849,28,524,91,3,210,5746,1680,3,1567,2118,435,4575
 National Payment Switch Bolstering FX Reserves	11134
 National Payments Switch	14965
 National Payments Switch Financial System Adequate	11131
 National Payments Switch Project	11131,3
 National Retail Payment Switch	12589,9
+National Retail Payments Switch	19650,14
+National Retail Payments Switch PCI DSS	19664
 National Switch	3895,1936,846,1424,3859,34,220,727,1091,4793
 National Switch Implementation Committee Education	16876
 National Switch. Increase	14674
@@ -484,7 +489,7 @@ SWG Secretariat	14935
 SWG and TF	14935
 SWG and TWGs	14935
 SWICA	19584
-SWIFT	4,5120,739,562,402,115,278,392,705,611,503,595,62,623,423,821,409,120,515,186,203,828,999,184,201,301,33,1,97,331,579,543,348,1143,525
+SWIFT	4,5120,739,562,402,115,278,392,705,611,503,595,62,623,423,821,409,120,515,186,203,828,999,184,201,301,33,1,97,331,579,543,348,1143,525,163
 SWIFT BIC	12364
 SWIFT BICs	12364
 SWIFT Bank Identifier Codes	12484
@@ -505,6 +510,7 @@ SWIFT User Handbooks	12484
 SWIFT and SWIPSS	12484
 SWIFT-based	13388
 SWIFT-compliant	18825
+SWIFT-related	19801
 SWIFT. Indirect	19501
 SWIFT. Unlisted BICs	12364
 SWIFT.com. Une	15935
@@ -514,6 +520,7 @@ SWIMS	16600,1141
 SWIMS External Referral Portal	17741
 SWIO Region	13767
 SWIOCOF	13767
+SWIPS	19664
 SWIPSS	11130,1,1353,568
 SWIPSS Central System	12484
 SWIPSS Closed User Group	12484
@@ -612,8 +619,10 @@ Springer Nature Switzerland	2096,422
 Springer Nature Switzerland AG	10780
 Statistics Sweden	497,9797,3132
 Statistics Sweden. ANG	8051
+Straight Through Processing SWIPS	19664
 Strategy for Sweden’s Development Cooperation	16943
 Sub-Saharan Africa SWF Sovereign Wealth Fund	16996
+Substations and Switching Stations	19646
 Sudan's National Payment Switch	9451
 Summary of SWOT Analysis	16858
 Suriname No Sweden Yes Digital Agenda	11529
@@ -623,9 +632,10 @@ Sushma Swaraj Institute of Foreign Service	13744,47,1328,3738,309
 Sushma Swaraj Institute of Foreign Service. Renewables	19060
 Sushma Swaraj Institute of Foreign Services	18378
 Svalbard and Jan Mayen Sweden Switzerland Syria	11470,7872
+Swabs	19749
 Swachhata Hi Seva	18810
 Swagger	6423,5529,5950
-Swahili	1261,459,6,52,1818,26,104,361,352,418,23,9,195,355,971,183,112,9,234,761,3,157,52,174,109,2,346,128,162,1980,211,130,334,730,4,633,678,202,30,319,2684,2737,28
+Swahili	1261,459,6,52,1818,26,104,361,352,418,23,9,195,355,971,183,112,9,234,761,3,157,52,174,109,2,346,128,162,1980,211,130,334,730,4,633,678,202,30,319,2684,2737,28,173
 Swahili and English	6266,4462,8804
 Swahili and English and Huawei	6232
 Swahili and Hausa	6232,2448
@@ -744,7 +754,7 @@ Swazis	2885
 Swe Tax Agency	33
 Swearing	12531
 Swear’n’Slash	3395
-Sweden	8,11,11,1,1,59,19,5,33,58,291,270,121,82,49,136,1084,1,133,575,326,309,965,754,111,1200,36,141,59,30,769,111,127,974,352,212,221,1069,4,67,61,18,322,1,7,335,80,248,294,41,16,19,51,47,8,2,166,596,117,96,22,94,611,715,255,86,322,56,47,528,480,54,287,422,454,127,210,1522
+Sweden	8,11,11,1,1,59,19,5,33,58,291,270,121,82,49,136,1084,1,133,575,326,309,965,754,111,1200,36,141,59,30,769,111,127,974,352,212,221,1069,4,67,61,18,322,1,7,335,80,248,294,41,16,19,51,47,8,2,166,596,117,96,22,94,611,715,255,86,322,56,47,528,480,54,287,422,454,127,210,1522,45
 Sweden Approves Lifesaving New Anticipatory and Early	15093
 Sweden EUR HI	17743
 Sweden Global Cybersecurity Index	10764
@@ -769,7 +779,7 @@ Sweden’s Development Cooperation Agency	3274
 Swedfund	94,285,18,551,1,107,97,9,1061,20
 Swedfund PR	94
 Swedfund. LeapFrog	1439
-Swedish	19,11,47,38,33,67,2158,1210,1093,1900,303,769,3356,182,1,7,729,41,1133,976,3325,1274
+Swedish	19,11,47,38,33,67,2158,1210,1093,1900,303,769,3356,182,1,7,729,41,1133,976,3325,1274,982
 Swedish Ambassador	2373,11053
 Swedish Civil Contingencies Agency	6649
 Swedish DPA	8436
@@ -777,12 +787,12 @@ Swedish Development Agency	17037
 Swedish Embassy	3277,10619
 Swedish Employment Setvices	148
 Swedish ICT	2673
-Swedish International Development Agency	1814,11518,3584,27,27,341
+Swedish International Development Agency	1814,11518,3584,27,27,341,2343
 Swedish International Development Authority	12191
 Swedish International Development Cooperation	11572
-Swedish International Development Cooperation Agency	92,1,56,64,1,1,80,98,1,128,1,1,1,1,1,192,1,223,1,75,137,1,1,1,1,396,1,684,5645,425,2530,162,80,103,1,7,708,58,128,104,86,223,754,171,119,393,401,6,2794
+Swedish International Development Cooperation Agency	92,1,56,64,1,1,80,98,1,128,1,1,1,1,1,192,1,223,1,75,137,1,1,1,1,396,1,684,5645,425,2530,162,80,103,1,7,708,58,128,104,86,223,754,171,119,393,401,6,2794,2508
 Swedish International FSD Financial Sector Development	12297
-Swedish Mapping	888
+Swedish Mapping	888,18766
 Swedish Meteorological and Hydrological Institute	16239
 Swedish National Audit Office	17364
 Swedish Post and Telecom Authority	215,12410
@@ -796,10 +806,10 @@ Swedish University of Agricultural Sciences	15682
 Swedish and German	11006
 Swedish and Swiss	3583
 Swedlund	2518
-Sweep	1266,32,2,276,15,7,82,4,60,4,58,16,95,1,37,19,89,6,2,3,267,25,11,59,24,50,30,35,1,18,62,67,13,79,20,19,27,61,29,7,22,20,24,20,32,13,7,73,73,40,11,47,49,60,83,144,8,2,47,10,6,3,13,20,11,8,32,31,258,60,25,1,18,31,96,7,16,80,98,30,64,42,29,56,25,47,4,58,57,86,91,57,65,26,14,121,77,4,45,82,12,85,72,7,15,18,15,14,20,81,37,26,23,30,50,44,155,11,1,9,73,105,45,4,75,80,17,34,46,338,3,15,57,49,22,2,77,14,60,2,42,40,176,192,2,8,12,9,3,2,15,7,2,4,19,3,9,32,30,4,23,11,498,31,220,44,42,5,14,63,10,7,4,32,19,15,48,1,5,62,9,1,34,12,39,102,143,5,20,3,38,36,22,4,1,1,53,17,68,11,21,39,41,3,38,9,21,11,7,13,2,6,24,1,3,28,12,7,12,16,6,11,5,39,16,7,4,4,1,11,45,4,7,5,6,3,17,43,5,9,23,3,36,5,6,22,59,18,14,24,671,5,6,7,2,9,1,1896,1,1,1,1,1,1,1,1,1,5,3505,1,1,1,1,2,1,5,15,16,8
+Sweep	1266,32,2,276,15,7,82,4,60,4,58,16,95,1,37,19,89,6,2,3,267,25,11,59,24,50,30,35,1,18,62,67,13,79,20,19,27,61,29,7,22,20,24,20,32,13,7,73,73,40,11,47,49,60,83,144,8,2,47,10,6,3,13,20,11,8,32,31,258,60,25,1,18,31,96,7,16,80,98,30,64,42,29,56,25,47,4,58,57,86,91,57,65,26,14,121,77,4,45,82,12,85,72,7,15,18,15,14,20,81,37,26,23,30,50,44,155,11,1,9,73,105,45,4,75,80,17,34,46,338,3,15,57,49,22,2,77,14,60,2,42,40,176,192,2,8,12,9,3,2,15,7,2,4,19,3,9,32,30,4,23,11,498,31,220,44,42,5,14,63,10,7,4,32,19,15,48,1,5,62,9,1,34,12,39,102,143,5,20,3,38,36,22,4,1,1,53,17,68,11,21,39,41,3,38,9,21,11,7,13,2,6,24,1,3,28,12,7,12,16,6,11,5,39,16,7,4,4,1,11,45,4,7,5,6,3,17,43,5,9,23,3,36,5,6,22,59,18,14,24,671,5,6,7,2,9,1,1896,1,1,1,1,1,1,1,1,1,5,3505,1,1,1,1,2,1,5,15,16,8,2993,1,1,1
 Sweep Campaign	8999
 Sweepstakes	14719,4807
-Sweet	6921,10122,84,2427
+Sweet	6921,10122,84,2427,195
 Sweet Beverage Consumption	15247
 Sweet Food	17127
 Sweet Large Scale	19554
@@ -880,7 +890,7 @@ Swisscom	15471
 Swisscom Annex Table	15471
 Swistak	10997
 Switalski	2096
-Switch	1988,2692,3876,621,223,804,311,616,78,735,56,269,74,147,191,771,16,2006,670,251,483,945,972,829
+Switch	1988,2692,3876,621,223,804,311,616,78,735,56,269,74,147,191,771,16,2006,670,251,483,945,972,829,104,101
 Switch Close	4896
 Switch Ethernet	17823
 Switch Financial Technology Gross Domestic Product	11131
@@ -890,9 +900,9 @@ Switch Mobile	1343,2510
 Switch National	13452
 Switch OTT Over-the-Top OVC Orphans and Vulnerable	13346
 Switch. Leurs	13452
-Switchboard	396,2278,8524,22,21,108,993
+Switchboard	396,2278,8524,22,21,108,993,7297
 Switchboard Operators	13361
-Switches	578,6368,3671,104,548,1916,200,1498,2017
+Switches	578,6368,3671,104,548,1916,200,1498,2017,2770
 Switches Cabling Network and Communications	9123
 Switches Show All	12283,3290
 Switches and Processing Operators	9690
@@ -905,7 +915,7 @@ Switching System	16844
 Switching and Processing Licence Granted	11138
 Switchs Layer	17823
 Switzer-	17743
-Switzerland	789,181,273,1216,606,1028,34,769,68,291,1358,430,92,283,10,4,97,99,131,915,393,61,133,291,189,973,4,46,16,5,61,18,55,138,78,289,139,46,313,229,821,108,42,86,6,86,161,351,930,217,170,2,91,7,242,7,103,132,120,747,51,351,81,172,508,242,95,45,421,1056
+Switzerland	789,181,273,1216,606,1028,34,769,68,291,1358,430,92,283,10,4,97,99,131,915,393,61,133,291,189,973,4,46,16,5,61,18,55,138,78,289,139,46,313,229,821,108,42,86,6,86,161,351,930,217,170,2,91,7,242,7,103,132,120,747,51,351,81,172,508,242,95,45,421,1056,147
 Switzerland Agriculture	970
 Switzerland EUR HI	17743
 Switzerland Email	10764,80,7279
@@ -931,6 +941,7 @@ Switzerland. Maxwell	8130
 Switzerland. Representing the African Union Commission	7136
 Switzerland. Tanzania	3245
 Switzerland. Under	10776
+Swivels	19745
 Swonrich Masvingo	4896
 Sword of Damocles	5366
 Sworn	10841,3569,318,152,3555,446

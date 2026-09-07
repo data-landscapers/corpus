@@ -627,6 +627,7 @@ Nascimento de Oliveira. Promulgado	18752
 National AIDS and Health Promotion Agency	12606
 National Agency for ICT Promotion	10812
 National Data Governance Strategy. Promote	12055
+National Digital Promotion Agency	19825
 National Entrepreneurship Promotion Strategy	16861
 National Health Promotion Division	16971
 National Health Promotion Division Health	16971
@@ -904,7 +905,7 @@ Promoción de Inversiones. Okoume	10361
 Promoción de Inversión	6841
 Promoción de Pequeñas	16898
 Promoción de Trabajo Decente	4209
-Promote	170,225,394,151,18,3,39,131,30,43,39,14,7,513,37,126,506,13,90,964,70,543,27,527,564,2,1,428,1,1,3,1,94,400,177,80,4,6,362,132,2,2,8,3,544,53,1349,248,515,195,586,279,55,44,22,15,273,2,3,6,56,2,37,40,582,48,11,32,4,42,149,42,25,4,13,6,7,1,12,33,70,4,24,15,22,23,9,45,14,162,1,257,7,2,21,2,7,6,1,64,38,15,126,74,25,25,1,1,12,4,18,106,3,54,134,74,116,11,59,118,372,6,7,23,2,100,108,49,6,5,10,3,4,1,25,4,31,6,1,16,34,5,5,4,39,13,7,5,50,24,2,11,74,12,10,19,56,1,38,128,39,69,31,93,109,1,2,9,35,85,94,21,17,63,10,94,68,41,580,18,1,9,5,6,4,8,2,1,13,15,11,10,3,3,1,8,17,2,5,21,15,6,1,12,13,56,15,2,11,12,1,9,8,78,25,25,11,68,175,411,8,347,65,99,9,2,1,6,3,39,8,65,21,51,96,115,2,2,14,34,105,93,110,39,236,11,1,10,12,1
+Promote	170,225,394,151,18,3,39,131,30,43,39,14,7,513,37,126,506,13,90,964,70,543,27,527,564,2,1,428,1,1,3,1,94,400,177,80,4,6,362,132,2,2,8,3,544,53,1349,248,515,195,586,279,55,44,22,15,273,2,3,6,56,2,37,40,582,48,11,32,4,42,149,42,25,4,13,6,7,1,12,33,70,4,24,15,22,23,9,45,14,162,1,257,7,2,21,2,7,6,1,64,38,15,126,74,25,25,1,1,12,4,18,106,3,54,134,74,116,11,59,118,372,6,7,23,2,100,108,49,6,5,10,3,4,1,25,4,31,6,1,16,34,5,5,4,39,13,7,5,50,24,2,11,74,12,10,19,56,1,38,128,39,69,31,93,109,1,2,9,35,85,94,21,17,63,10,94,68,41,580,18,1,9,5,6,4,8,2,1,13,15,11,10,3,3,1,8,17,2,5,21,15,6,1,12,13,56,15,2,11,12,1,9,8,78,25,25,11,68,175,411,8,347,65,99,9,2,1,6,3,39,8,65,21,51,96,115,2,2,14,34,105,93,110,39,236,11,1,10,12,1,78,9,4,14,4,137
 Promote AI	1814,2312,3422,4808,2210
 Promote AI Adoption	4126
 Promote AI Education	4126
@@ -958,13 +959,14 @@ Promote Government’s ARREST Agenda E. J	16985
 Promote Green Building Standards	12389
 Promote Green Infrastructure Lagging Indicators	4528
 Promote Green and Climate-Focused FinTech	12444
-Promote ICT	1161,12777,1434,344,3169
+Promote ICT	1161,12777,1434,344,3169,775
 Promote Inclusion	10601
 Promote Inclusive	11285
 Promote Inclusive Data Use and Embed FAIR	17116
 Promote Infrastructure Sharing Reduce	17239
 Promote Innovation Mindset	14729
 Promote Innovation and Build	17116
+Promote Institutional Development	19746
 Promote Integrated Pest Management	14818
 Promote Integrated Soil Fertility Management	14818
 Promote International Cooperation and Collaboration	1000
@@ -980,7 +982,7 @@ Promote Mass	14723
 Promote Mauritius	14566,181,72
 Promote Mental Health Wellness	12939
 Promote Morocco Develop	1885
-Promote National	12359
+Promote National	12359,7384,1
 Promote National Cybersecurity Awareness	1777
 Promote National Cybersecurity Awareness Promoting	1777
 Promote National SO	6946
@@ -1063,12 +1065,14 @@ Promoteur le Promoteur du Projet	15901
 Promoteurs	15542
 Promoteurs Etat du Cameroun	15542
 Promoteurs Recherche	15542
-Promoting	470,488,12,81,80,112,182,385,4,14,947,321,417,105,243,116,963,192,112,289,145,243,495,327,205,80,520,635,498,2095,65,15,109,15,216,2,32,306,50,271,40,8,81,203,21,23,7,5,189,174,67,266,21,7,4,4,10,18,106,307,105,52,1,428,444,22,96,108,49,21,1,3,4,25,13,28,94,35,18,69,308,149,172,62,199,7,281,105,67,477,11,10,1,1,1,4,26,27,1,30,2,36,67,36,3,39,95,67,113,27,45,277,90,14,409,8,48,109,27,2,1,2,42,61,15,637,275,12,2,68,7
+Promoting	470,488,12,81,80,112,182,385,4,14,947,321,417,105,243,116,963,192,112,289,145,243,495,327,205,80,520,635,498,2095,65,15,109,15,216,2,32,306,50,271,40,8,81,203,21,23,7,5,189,174,67,266,21,7,4,4,10,18,106,307,105,52,1,428,444,22,96,108,49,21,1,3,4,25,13,28,94,35,18,69,308,149,172,62,199,7,281,105,67,477,11,10,1,1,1,4,26,27,1,30,2,36,67,36,3,39,95,67,113,27,45,277,90,14,409,8,48,109,27,2,1,2,42,61,15,637,275,12,2,68,7,33,4,18,137
 Promoting Action	8376
+Promoting Adoption of Climate Smart Agriculture Technologies	19643
 Promoting CSA	970
 Promoting Clean Energy for All	11332
 Promoting Climate	11469
 Promoting Content Development	16885
+Promoting Customer Convenience	19664
 Promoting Cutting-Edge Research	16861
 Promoting Cyber Security and Combating Cybercrime	12913
 Promoting DFS	11994
@@ -1134,7 +1138,7 @@ Promoting and Small	11017
 Promoting the Export	5216,557
 Promoting the Internet	11935
 Promotio	17827
-Promotion	578,65,146,151,18,173,290,261,132,82,92,585,235,81,507,358,107,105,436,844,98,107,220,4,339,570,52,323,589,721,368,118,136,6,9,558,192,1056,100,11,3,15,6,53,40,4,20,1,15,5,146,128,277,230,91,59,28,270,159,16,24,149,360,42,13,10,108,27,168,3,8,40,77,24,326,13,55,578,4,4,2,1,12,51,1,1,132,22,79,6,31,1,236,37,22,316,9,2,7,9,12,1,4,10,2,1,5,21,17,2,1,4,21,18,24,11,27,8,11,5,19,38,24,25,2,8,2,2,20,33,22,49,88,18,11,34,21,27,148,189,61,40,136,5,8,218,32,58,9,150,13,470,228,1,4,4,6,2,12,1,2,1,4,7,4,1,6,9,3,3,2,1,9,6,1,5,7,3,2,9,51,4,4,15,2,10,29,5,3,27,10,5,8,1,2,2,16,1,21,26,1,86,30,1,4,6,19,3,20,146,302,139,61,1,17,1,46,157,7,4,1,5,9,6,4,191
+Promotion	578,65,146,151,18,173,290,261,132,82,92,585,235,81,507,358,107,105,436,844,98,107,220,4,339,570,52,323,589,721,368,118,136,6,9,558,192,1056,100,11,3,15,6,53,40,4,20,1,15,5,146,128,277,230,91,59,28,270,159,16,24,149,360,42,13,10,108,27,168,3,8,40,77,24,326,13,55,578,4,4,2,1,12,51,1,1,132,22,79,6,31,1,236,37,22,316,9,2,7,9,12,1,4,10,2,1,5,21,17,2,1,4,21,18,24,11,27,8,11,5,19,38,24,25,2,8,2,2,20,33,22,49,88,18,11,34,21,27,148,189,61,40,136,5,8,218,32,58,9,150,13,470,228,1,4,4,6,2,12,1,2,1,4,7,4,1,6,9,3,3,2,1,9,6,1,5,7,3,2,9,51,4,4,15,2,10,29,5,3,27,10,5,8,1,2,2,16,1,21,26,1,86,30,1,4,6,19,3,20,146,302,139,61,1,17,1,46,157,7,4,1,5,9,6,4,191,197,9,47
 Promotion Agencies	17157
 Promotion Agency2nd Floor	14848
 Promotion Civique	18911,253
@@ -1164,6 +1168,7 @@ Promotion Stage	14723
 Promotion Touristique	18306
 Promotion Touristique Agence Sénégalaise	18306
 Promotion Touristique Direction	18306
+Promotion and Enforcement	19712
 Promotion and Protection of Human Rights	12956,1786,3192
 Promotion and Reciprocal Protection of Investments	13326
 Promotion and Reciprocal Protection of Investments Agreement	13326
@@ -1245,7 +1250,7 @@ Promotion of Digital Rights and Online Safety. Media	10725
 Promotion of Domestic Currency	13474
 Promotion of Efficient Technologies	13295
 Promotion of Entrepreneurship and Employment	15511,7
-Promotion of Environmental Sustainability	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
+Promotion of Environmental Sustainability	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
 Promotion of Gender Equality	1818,16977
 Promotion of Gender Equality and Equity INSS-. National	18770
 Promotion of Good Governance	18305
@@ -1275,6 +1280,7 @@ Promotion of Private Investment	9043
 Promotion of Public Trust Significant	12210
 Promotion of Public-Private Partnerships	13060
 Promotion of Quality	14736
+Promotion of Regional Interactions and Access	19712
 Promotion of Research and Innovation Honourable Chair	12971
 Promotion of Right	4489
 Promotion of Rural Socioeconomic Opportunities	11939
@@ -1297,7 +1303,7 @@ Promotional Policy Framework	14754
 Promotional Prepaid Integrated Plans	11259
 Promotional Tariff Framework	14754
 Promotionde la Femme	18100
-Promotions	6368,464,3023,1363,6,35,1713,150,6462
+Promotions	6368,464,3023,1363,6,35,1713,150,6462,128
 Promotions and Special Offer	6671
 Promotions and Special Offers	6671
 Promotores	11571
@@ -1450,6 +1456,7 @@ Sierra Leone Investment and Export Promotion	18463
 Silva Promulgado	15391
 Sistema de Promoción Inmobiliaria	1701
 Smart Solutions Promote	958
+Social Protection and Gender Promotion	19825
 Social Work. I. Promotions	12977
 State Department for Investment Promotion	14546
 Strategic Social Development Promotion Committee	19455
@@ -1501,6 +1508,7 @@ U.S.-funded Promoting Innovation	19480
 UNDP Climate Promise Funds Government SDG	17101
 UNICEF THE PROMISING FUTURE OF DIGITAL	899
 UPA PROMOTION ET DEVELOPPEMENT DE L'ARTISANAT	15999
+Uganda ICT Industry Promotion Project	19807
 Uganda-Japan ICT Industry Promotion Project	7652
 UniPod To Empower Youth And Promote	12599
 Unidade de Promoção Setor Empresarial	15526

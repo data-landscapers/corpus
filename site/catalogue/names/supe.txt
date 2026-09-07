@@ -47,13 +47,15 @@ Bank Supervision	11131,3,3889,107
 Bank Supervision Application System Version	11131
 Bank Supervision Malawi	6938
 Bank Supervision and Information Security	11131
+Bank and Other Regulators and Supervisors	19664
 Bank of Ghana's Supervisory Guidance Note	17537
 Bank. Muzi Mavuso Bank Supervision Helder	11134
 Banking Sector Supervision	11131
 Banking Supervision	12444,2400,2392
-Banking Supervision Annual Report	19608
+Banking Supervision Annual Report	19608,42
 Banking Supervision Application Central Bank of Lesotho	12701
 Banking Supervision Department	17104,213
+Banking Supervision Directorate	19829
 Banking Supervision MNO Mobile Network Operator	12444
 Banking Supervision Office	11134
 Banking Supervision Report	14997
@@ -96,6 +98,7 @@ Centros de Enseñanza Superior	4209
 Centros de Formación Superior	4209
 Certified Data Protection Supervisors and Officers	3582
 Chief Justice and Superior Judges	17228
+Choppies Supermarket	19654
 Citizen Super App	9776,83
 Citizen Super App' for South Africa Launching	9776
 Clients BT Super Confort	14479
@@ -256,6 +259,7 @@ Ensino Superior. Os	11577
 Ensino X X Superior	11569
 Entry QSA Quality of Supervision RFP Request	18754
 Entry Quality of Supervision M&E	17962
+Enumeration Supervisors and Enumerators	19715
 Escola Nacional Superior de Inteligência Artificial	11472
 Escola Normal Superior Tchico Té Bissau	11552
 Escola Superior	18757
@@ -279,6 +283,7 @@ FCs. The Microfinance Supervision Department	17104
 FICHA TÉCNICA Supervisão Joel Futi Director-Geral	4044
 FINANCIAL INSTITUTIONS SUPERVISED BY THE BANK	19608
 FINANCIAL SYSTEM STABILITY AND CONDUCT SUPERVISION	15023
+FOREWORD This Banking Supervision Annual Report	19650
 FORMATION PROFESSIONNELLE ET ENSEIGNEMENT SUPERIEUR	16381
 FY21 FY22 FY24 FY25 Total Supervision	16436
 Finalités INSTITUT SUPERIEUR DE TECHNOLOGIE	15674
@@ -313,6 +318,7 @@ HB Supervision	14666
 HEW Supervisor	1219
 HF Supervision	15056
 HT POUR TOUT MONTANT SUPERIEUR Emission	17833
+Health Facility Supervisors Health Facility Supervisors	19667
 Home LTE and SuperFlex	11259
 Hídricos Superficie	16898
 I MINISTERE DE L’ENSEIGNEMENT SUPERIEUR	18143,27
@@ -339,6 +345,7 @@ ISP CITADELLE INSTITUT SUPERIEUR PRIVE ISPF-FISUP	18170
 ISS Integrated Supportive Supervision IHR International	12729
 ISSPT TANSA INSTITUT SUPERIEUR DE SANTE	18143
 Implementation Supervision Report	19455
+Includes Supervisory Control and Data Acquisition	19801
 Independent Supervisory Authorities	14434
 Inspection and Supervision	9855
 Inspectors and Pedagogical Supervisors	18765
@@ -439,6 +446,7 @@ MTN Supersonic Home Wireless	11259
 Maison Super Development Sarl	15739
 Management Metrological Supervision Information System	19584
 Management Partnership PN Risk-Based Supervision POS	17235
+Management and Supervisors	19712
 Market Conduct Supervision Department	15023
 Market-Conduct Supervision	13532
 Mecanismo Piloto de Supervisão	3519
@@ -562,6 +570,7 @@ REIUP Supervison Mission Aide Memoire	15983
 RF Results Framework SE Supervising Entity	18765
 RFSs Regional Field Supervisors SA Supervisory	16921
 RPP Revenue Protection Program SCADA Supervisory	15983
+RTP Risk Treatment Plan SCADA Supervisory	19801
 Ready-to-Use Supplementary Food and SuperCereal Plus	17985
 Real-Time Supervision Information System	19608
 Rede de Instituições de Ensino Superior	8000
@@ -645,6 +654,7 @@ Secção IV Supervisão Artigo	16089
 Secção VI Superintendência	15433
 Senior Medical Superintendent	7384
 Senior Superintende	12972
+Shoppers Supermarket	19654
 Simba Supermarket Ltd	15136
 Site Supervising Engineer. Table	12253
 Site Supervisor Kur Deng Kuot	4640
@@ -656,6 +666,7 @@ Sociedade Super	11396,1
 Somalia. Supportive Supervision	11596
 South Supervision. All	9128
 Spanish Artificial Intelligence Supervisory Agency	6997
+Spar Supermarket	19654
 Specialized and Super Specialized Services	19544
 Stability Non-Bank FIs Supervision Internal Audit	15023
 Stores and Superintendent Buildings	13361
@@ -663,6 +674,7 @@ Stores and Utilities Super-intendant	14736
 SupTech Enhance Supervisor Capacity	1478
 Supemacy	11976
 Super	34,2308,4643,4146,3,262,598,262,11,3090,185,171,1187,1417,1044
+Super AMOLED	19728
 Super Agent	1290
 Super Agentes M-Pesa	17602
 Super Agents	6276,422,237,3904,47,1342,750
@@ -806,7 +818,7 @@ Supervising Minister of Cooperative Affairs	9876
 Supervising Officer	14742,3,90
 Supervising Officers	14742
 Supervising and Resident Engineers	17099
-Supervision	7,1212,874,1536,86,17,59,3036,111,340,452,292,354,673,80,108,1000,531,44,128,35,159,335,127,267,61,20,50,49,203,7,105,55,122,140,330,285,242,286,662,142,122,136,492,39,13,87,31,53,6,38,24,41,526,206,211,467,66,77,295,85,2,203,4,24,32,60,21,93,215,7,3,73,158,222,133,29,26,279,133,231
+Supervision	7,1212,874,1536,86,17,59,3036,111,340,452,292,354,673,80,108,1000,531,44,128,35,159,335,127,267,61,20,50,49,203,7,105,55,122,140,330,285,242,286,662,142,122,136,492,39,13,87,31,53,6,38,24,41,526,206,211,467,66,77,295,85,2,203,4,24,32,60,21,93,215,7,3,73,158,222,133,29,26,279,133,231,56,9,65,30
 Supervision Area	6938
 Supervision Consultancy Services and Project Audit	15011
 Supervision Consultants	1778
@@ -859,7 +871,7 @@ Supervisor of Government and Community Schools	12726
 Supervisora	1701,9860
 Supervisores	11421,25,131
 Supervisores de Equipa	10777
-Supervisors	1155,4070,1713,1439,2391,828,657,2508,37,776,950,575,2443
+Supervisors	1155,4070,1713,1439,2391,828,657,2508,37,776,950,575,2443,173
 Supervisors and Enumerators	18464
 Supervisory	25,7314,3799,1159,740,24,471,34,363,1094,488,208,1349,31,39,1713,134,299
 Supervisory Activities	17235
@@ -875,7 +887,7 @@ Supervisory Body	11955
 Supervisory Capability Limitations	4848
 Supervisory Committee	5579,12857
 Supervisory Committee for Gateway Services	4654
-Supervisory Control and Data Acquisition	7573,5773,2356,281
+Supervisory Control and Data Acquisition	7573,5773,2356,281,3694,124
 Supervisory Control and Data Acquisition SNCP Stratégie	15969
 Supervisory Development Management Course	6946
 Supervisory Environment	16876

@@ -145,7 +145,7 @@ Cash for Work for Resilience	18104
 Category and Residency	2775
 Certain Residents of Namibia	12984
 Certificado de Residência Fiscal	11435
-Certificate of Residence	12333
+Certificate of Residence	12333,7428
 Chad’s Prevention and Resilience Allocation Action Plan	18933
 Chad’s West Africa Food System Resilience	17613
 Chief Resident Magistrate	12174
@@ -282,6 +282,7 @@ ECOWAS Resident Representative Strengthens Engagement	17380
 ECOWAS Travel Certificate and Resident Permit	12015
 ENHANCING CLIMATE INFORMATION SYSTEMS FOR RESILIENT	17255
 ESTIMATED RESIDENT POPULATION	18989
+Eco-labelling and Resilient Systems	19749
 Economic Opportunities for Resilience Project	16384
 Economic Resilience	11546
 Economic Resilience and Investment Leadership	8665
@@ -376,6 +377,7 @@ GoM Prevention and Resilience Allocation	12220
 Golden Premier Residence	19592
 Governance and Climate Resilience	11134
 Governance and Economic Resilience Support Program	18561
+Government and National Resilience	19801
 Government’s Prevention and Resilience Allocation	19284
 Green Growth and Climate Resilience Strategy	14935
 Green and Resilient Economy Business Incubator	18700
@@ -511,7 +513,7 @@ Ms. Alka Bhatia UNDP Resident Representative	14566
 Ms. Mandisa Mashologu UNDP Resident Representative	16973
 Ms. Residen Taija	12725
 Multi-Annual Resilience Program	15661
-Multi-Year Resilience Programme	18643
+Multi-Year Resilience Programme	18643,1014
 Mövenpick Hotel and Residences. Looking	6946
 NAME OWNER RENTED TYPE Residential ADDRESS	4896
 NCC Cyber Resilience Framework	9117
@@ -594,6 +596,7 @@ Place of Residence Urban Place of Residence Rural	10829
 Place of Residence and Region	19542
 Place of Residence and Region Primary NERs	19542
 Place of Residence and Sex	16921,2621
+Place of Residence and Sex of Household	19715
 Place of Residence and Sex of Household Head	16921
 Place of Residence and Sex of Household Head Male	16921
 Place of Usual Residence	13644
@@ -696,7 +699,7 @@ Request for Bid RSSH Resilient and Sustainable Systems	16896
 ResiTchad	10841
 Residam	10754
 Reside	11314,33,2607
-Residence	1219,306,1250,7990,10,66,1304,193,75,120,2412,111,1865,206,1310,158,446,501
+Residence	1219,306,1250,7990,10,66,1304,193,75,120,2412,111,1865,206,1310,158,446,501,173
 Residence Address. If the Reporting Financial Institution	11233
 Residence By Age Age	18441
 Residence E-mail Tel	16189
@@ -722,6 +725,7 @@ Residence Visa TTOS Trusted Tour Operator	5533
 Residence Wealth Quintile Woman's Education Age	18441
 Residence Wealth Quintile Woman's Education Percentage	18441
 Residence and Establishment	16874
+Residence and Sub Region	19715
 Residence of Divorcees Analysis	15056
 Residencia Oficial	4209
 Residencias	4209
@@ -744,7 +748,7 @@ Resident Coordinator's Office	18665
 Resident Coordinator. FOREWORD BY THE RESIDENT	13989
 Resident Coordinators and UN Country Teams	11356
 Resident Director of Prime Holdings Ltd	718
-Resident District Commissioners	5731
+Resident District Commissioners	5731,13980
 Resident Documents	14137
 Resident Electoral Commissioner	10049
 Resident Engineer	17114
@@ -801,7 +805,7 @@ Residential Plan	5874
 Residential Properties for Lease	2775
 Residential Properties for Sale	2775
 Residential Property Price	11286
-Residential Property Price Index	11286
+Residential Property Price Index	11286,8457
 Residential Property Price Index Practical Compilation	11286
 Residential Property Price Index Residential	11286
 Residential Property Prices	2775,8511
@@ -830,7 +834,7 @@ Residir	11472
 Residuais	15755
 Residuais Retenção	6970
 Residuais da Ilha de Santo Antão	15755
-Residual	1988,4933,5032,1915,1270,523,3485
+Residual	1988,4933,5032,1915,1270,523,3485,701
 Residual Chemical and Allied Products	16285
 Residual FM	6539
 Residual Financing Gap	17257
@@ -838,10 +842,11 @@ Residual Load	11953
 Residual Rating Incorporated	15372
 Residual Rating Project Design Risk Inherent	18887
 Residual Rating Project Design Risk Internal	18887
-Residual Risk	11153
+Residual Risk	11153,8648
 Residual Risk Rating Project Design Inherent	18887
 Residual Risk Rating Project Design Internal	18887
 Residual S Incorporated	3604
+Residual Terrorism Management PIAP Output	19746
 Residual and Catch-All Safeguards	3861
 Residuals	14594
 Residue Monitoring Plan	11210
@@ -859,10 +864,11 @@ Resignation of Auditors	18556
 Resignations	11134,1838
 Resili	9123
 Resilien	9123
-Resilience	789,153,28,1369,287,486,401,91,517,1791,256,264,1012,104,309,1814,288,762,120,123,167,2,129,113,91,494,44,594,258,186,121,396,495,17,49,31,313,6,83,206,59,179,123,10,34,80,98,317,318,698,136,131,33,126,56,713,13,264,309,360,95,609
+Resilience	789,153,28,1369,287,486,401,91,517,1791,256,264,1012,104,309,1814,288,762,120,123,167,2,129,113,91,494,44,594,258,186,121,396,495,17,49,31,313,6,83,206,59,179,123,10,34,80,98,317,318,698,136,131,33,126,56,713,13,264,309,360,95,609,281
 Resilience Action Network Africa	4674,3805
 Resilience And Land Global Practice Western	18198
 Resilience Assessment	11469
+Resilience BV	19720
 Resilience Building	12356,1118
 Resilience Building CSO Civil Society Organisation	970
 Resilience Building Programme	12985
@@ -877,6 +883,7 @@ Resilience MDTFNEW International Development Association	19284
 Resilience Management CIRMR-RM.S1 CIRMR-RM	10721
 Resilience Multisectorielle	18198
 Resilience Officer	10572
+Resilience Organizations	19801
 Resilience Plan	1828
 Resilience Program	19242,3,39
 Resilience Program-for-	19245
@@ -944,6 +951,7 @@ Resilient H1 FY26 Performance	3898
 Resilient Health System	16860,111
 Resilient Health System Eritrea	14120
 Resilient Households and Individuals Figure	15130
+Resilient Housing Committees	19826
 Resilient Landscapes	15129
 Resilient Lesotho	12728
 Resilient Liberia	17011
@@ -956,6 +964,7 @@ Resilient Nigeria	4301,944
 Resilient Properties	2307
 Resilient Public Adminstration for Sustainable Development	12972
 Resilient SADC	12640
+Resilient Systems	19749
 Resilient Tourism and Blue Economy Development	16493
 Resilient Urban Sierra Leone Project	18456,20,99,3
 Resilient Urban Sierra Leone Project RWC	18578
@@ -1017,6 +1026,7 @@ Rulindo Residents	15208,1
 Rural Residence	13644
 Rural Residence of Mother	13644
 Rural and Resilience Global Practice. Financing	12137
+Rural-Urban Residence	19715
 Ruwa Stands Pension Owned Vacant Residential	4896
 Rwandan Residents	12445
 SADC Regional Resilience Strategic Framework	19520
@@ -1108,7 +1118,7 @@ Supply Resilience	7548
 Support Resilience of Submarine Telecom Cables	2677
 Supporting A Resilient Recovery	16949
 Survival and Resilience	10841
-Sustainability and Resilience	15977,1008
+Sustainability and Resilience	15977,1008,2840
 Sustainable Environment and Climate Resilient Development	12611
 Sustainable and Resilient Digital Future	14566,186
 Sustainable and Resilient Operations	15097
@@ -1239,6 +1249,7 @@ Urban Percentage of Residence Number of Persons Number	19542
 Urban Percentage of Residence Persons	19542
 Urban Percentage of Residence Persons Number	19542
 Urban Place of Residence Primary School Lower	19542
+Urban Residence	19715
 Urban Resilience	14724,3238
 Urban Resilience Project	12956,4183
 Urban Resilience Strategies	17260
@@ -1248,6 +1259,7 @@ VRR Kosovo Resident Registration System	10714
 Vendor Residence	11134
 Very Resilient	4848
 Veterinary Services RAM Resistência	15966
+Village Residents	19805
 Visas and Residence Permits	16874
 Voices Residents	9666
 WACA RESIP	17124

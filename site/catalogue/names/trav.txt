@@ -88,7 +88,7 @@ Convention Collective du Travail	15416
 Convention Travel Document	16836
 Convention Travel Documents	13231
 Convention. Travaux	15901
-Conventional Travel Documents	12227
+Conventional Travel Documents	12227,7500
 Countries Sierra Leoneans Can Travel	5390,965,827
 D SOC D'ETUDES ET DE TRAVAUX	16623
 D'INTERIM DE TRAVAILLEURS EN AFRIQUE SARL	16623
@@ -296,7 +296,7 @@ Parti Congolais du Travail	15465,991
 Passation de Marchés de L’Agence des Travaux	18395
 Pires Formes de Travail	3396
 Pires Formes de Travail des Enfants	13442
-Plan de Travail	3816,7060,5123,156,78,2181
+Plan de Travail	3816,7060,5123,156,78,2181,1273
 Plan de Travail Annuel	3469,3213,4030,162,2,4893,230
 Plan de Travail Annuel Améliorer	15999
 Plan de Travail Annuel Budgétisé PTF	15423
@@ -322,6 +322,7 @@ Programme de Travail Pluriannuel	18291
 Programme de Travail Trimestriel RESA	10874
 Promotion du Travail	8891
 Psychologie du Travail	19366
+Public Register of Authentic Travel and Identity Documents	19636
 Public Service Travel	11986
 QUALITE DES TRAVAUX	17846
 QUELQU'UN AU TRAVAIL	13300
@@ -424,7 +425,7 @@ Tourists and Travelers Importation Of Goods Rules	12454
 Travado	12148
 Travagliato	17039
 Travai	15354
-Travail	37,197,409,641,553,677,224,503,85,30,40,32,992,147,246,290,964,546,363,508,171,136,52,135,31,218,42,33,202,11,70,306,111,744,268,280,179,137,81,121,9,5,49,19,19,31,31,176,10,486,1653,14,17,10,101,358,541,82,1,39,25,1,1,39,825,25,16,10,18,3,13,16,9,1,23,13,23,9,25,16,29,12,24,21,13,8,11,20,15,17,2,34,6,62,41,12,32,79,27,2,6,53,75,2,70,27,88,5,14,23,9,12,31,160,1,8,3,86,26,738,37,297,5,10,2,12,3,4,26,25,14,32,2,6,29,1,9,3,4,4,27,2,64,1,2,2,4,13,1,17,33,2,58,57,2,3,21,20,68,2,1,9,560,233,13,3,5
+Travail	37,197,409,641,553,677,224,503,85,30,40,32,992,147,246,290,964,546,363,508,171,136,52,135,31,218,42,33,202,11,70,306,111,744,268,280,179,137,81,121,9,5,49,19,19,31,31,176,10,486,1653,14,17,10,101,358,541,82,1,39,25,1,1,39,825,25,16,10,18,3,13,16,9,1,23,13,23,9,25,16,29,12,24,21,13,8,11,20,15,17,2,34,6,62,41,12,32,79,27,2,6,53,75,2,70,27,88,5,14,23,9,12,31,160,1,8,3,86,26,738,37,297,5,10,2,12,3,4,26,25,14,32,2,6,29,1,9,3,4,4,27,2,64,1,2,2,4,13,1,17,33,2,58,57,2,3,21,20,68,2,1,9,560,233,13,3,5,410,9,42
 Travail ANNEXE I AU DECRET N	10906
 Travail ANNEXE II AU DECRET N	10906
 Travail ARTICLE	17812
@@ -481,7 +482,7 @@ Travaillez-vous	13300
 Travailliste	14841
 Travaillons	10795
 Travails	10962
-Travaux	737,912,341,352,624,265,637,257,277,3365,2463,165,316,164,1,88,11,10,2315,142,215,114,111,4,5,17,511,159,817,147,59,144,156,35,216,23,147,22,17,173,18,162,1114,18,2,34,100,25,136,27,21,36,64,24,7,2,664,380,3,7,58
+Travaux	737,912,341,352,624,265,637,257,277,3365,2463,165,316,164,1,88,11,10,2315,142,215,114,111,4,5,17,511,159,817,147,59,144,156,35,216,23,147,22,17,173,18,162,1114,18,2,34,100,25,136,27,21,36,64,24,7,2,664,380,3,7,58,414
 Travaux Au	10975
 Travaux Ministère	1297,14152,799
 Travaux Pratiques UPTIME	18118
@@ -496,7 +497,7 @@ Travaux Vu	15395
 Travaux de Planification	17899,83
 Travaux de Réhabilitation	16152
 Travaux des Commissions. Séance	2063
-Travel	1988,332,1219,1420,19,555,545,180,3915,1079,688,274,114,180,463,5,1,1031,767,703,788,873,77,71,60,1521
+Travel	1988,332,1219,1420,19,555,545,180,3915,1079,688,274,114,180,463,5,1,1031,767,703,788,873,77,71,60,1521,773,100
 Travel Agencies	11939
 Travel Agencies Transport	11955
 Travel Authorisation	6867,1
@@ -520,6 +521,7 @@ Travel System	11131
 Travel Travel	12754
 Travel World PR Day	7253
 Travel and Recreation	9815
+Travel-related	19702
 Travelers	7516,4648,2070,1,1610
 Travelers Should	14235
 Travelex and Ria Money Transfer	8840

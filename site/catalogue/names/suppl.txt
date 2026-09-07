@@ -1,10 +1,11 @@
 A2- Supplier	7548
 ACT REPUBLIC OF SEYCHELLES SUPPLEMENT	19161
 ACT SUPPLEMENT	19518
+ACT SUPPLEMENT THE EAST AFRICAN COMMUNITY	19713
 ACT SUPPLEMENT To The Special Gazette	6921
 ACT Supplement	18438,12,7,2,4,2,1,1,1,73
 ACT Supplementary Submission	4732
-ACTS SUPPLEMENT	14484,4114
+ACTS SUPPLEMENT	14484,4114,1031
 ACTS Supplement	18435
 ADULTE RESPONSABLE POUR DES TESTS SUPPLÉMENTAIRES	13300
 AERC Supplement	1828
@@ -58,6 +59,7 @@ Authority. Supply	14594
 Avail Supply Side	15130
 B DANS UN QUESTIONNAIRE SUPPLÉMENTAIRE	13300
 BILL Supplement	18451
+BILLS SUPPLEMENT No.2	19769
 Babati Water Supply and Sanitation Authority	19584
 Bank. The Supplier	13185
 Bariadi Water Supply and Sanitation Authority	19584
@@ -71,6 +73,7 @@ Bergmans Security Consultants and Supplies Ltd	10555
 Bidders for Supply	8166
 Bidding Document for Supply	17304
 Billion Birr Supplementary Budget Addis Ababa	1964
+Body ACTS SUPPLEMENT No	19629
 Body Republic of Botswana Committee of Supply Speech	12598
 Body Supply	13404
 Boost Power Supply Mr. Grant	18582
@@ -160,9 +163,11 @@ DU REMPLACEMENT DES DEPUTES ET SUPPLEANTS	15727
 Data Centre Supply	12253
 Data Centre. Supply	12253
 Dear All Potential Suppliers	14759,3
+Dear All Supplier	19788
 Dec Annual Supply Sources	11953
 Dec Supply Sources GW	11953
 Demand Side Barriers Supply Side Barriers	940
+Demand and Supply Forecasts	19646
 Departments Affected By Supplementary Budget	2428
 Desktop and Power Supplies and Printer	16970
 Diagnostics and Devices The Malawi National Supply	13166
@@ -203,7 +208,7 @@ Electricity Demand and Supply	2775
 Electricity Distribution and Supply Agency	18463,113
 Electricity Distribution and Supply Authority	1538,8642,8304,82
 Electricity Supply	2775,8361,3811,2031,1636,424
-Electricity Supply Act	12535,60
+Electricity Supply Act	12535,60,7082
 Electricity Supply Commission of Malawi	483,11770
 Electricity Supply Corporation	13392
 Electricity Supply Corporation of Malawi	127,13101
@@ -294,6 +299,7 @@ Household Water Supply Connections Natural Gas	15578
 Hydrobox Kenya Ltd Distribution and Supply	12256
 ICT Access Affordability Supply-side Infrastructure	14098
 ICT Sector Supply-Side Study	19214
+ICT Supplies	19741
 ICT Supply Partner	15183
 IFMIS Related Links Kenya Supplier Portal	12322
 IHEIT Infrastructure Technical Framework Supplement	1009
@@ -390,6 +396,7 @@ Medical Suppliers	12977
 Medical Supplies	13474
 Medical Supply Organisation	10128
 Member State. This Supplementary Act	11517,3846
+Memorandum and Recommendation for Supplemental Grant	19823
 Micronutrient Supplementation and Deworming	15247
 Mine Suppliers and Contractors Association of Zambia	13387
 Minister of Supply and Internal Trade Sherif Farouk	15811
@@ -455,6 +462,7 @@ PURPOSE OF THIS SUPPLEMENTARY PRE-LISTING STATEMENT	5538
 Parliamentary Committee of Supply	2576
 Particular Supplies	12630
 Permits for Suppliers and Installers	13951
+Petroleum Supply Act	19646
 Petroleum Supply and Demand	2775
 Photovoltaic QOSSS Quality of Service and Supply Standards	12399
 Physical Energy Supply Table	2775
@@ -464,6 +472,7 @@ Planning Broad Money Supply Motor Vehicle	12701
 Policyholder Demographics Supply-side	14997
 Polio Response and Supplemental Immunization Activities	16971
 Port Labor Supply	13931
+Postal Supply Chain	19641
 Posts Supplementary Rolls	11251
 Potable Water Supply Networks	18220
 Potable Water Supply and Sanitation Master Plan	12922
@@ -521,6 +530,7 @@ Ratified ECOWAS Supplementary Act	10908
 Ready-to-Use Supplementary Food and SuperCereal Plus	17985
 Redundant Power Supplies	11209
 Redundant Power Supply	12681
+Redundant Power Supply Dual	19698
 Registration of Food Supplement	18541
 Rehabilitation of Potable Water Supply Facilities	18543
 Reliability Of Electricity Supply	19596
@@ -554,7 +564,7 @@ SPECIAL SUPPLEMENT To The Special Gazette	19530
 STAFF SUPPLEMENT	17257
 STATUTORY INSTRUMENT Supplement	18452
 STATUTORY INSTRUMENTS SUPPLEMENT	1844
-SUPPLEMENT No	14484,4114
+SUPPLEMENT No	14484,4114,1115
 SUPPLEMENT TO OFFICIAL GAZETTE ACT	19096
 SUPPLEMENTAIRE	17861
 SUPPLEMENTAIRES	15799,2013,504,651
@@ -626,12 +636,13 @@ Staff Supplements	15752
 Static Supply	6051
 Stationeries and Supplies	16943
 Statistics CFSAM Crop and Food Supply Assessment	15118
+Statutory Instruments Supplement	19734
 Steam and Air Conditioning Supply	2775,3550
 Stock Analysis and Supply Chain Audits	14985
 Strengthen Supply Chain Security and ICT Verification	6936
 Strengthening the National Health Supply Chain	10829
 Sumbawanga Water Supply and Sanitation Authority	19584
-Suppl	396,370,5,3020,6989,85,16,715,592,3433,3853
+Suppl	396,370,5,3020,6989,85,16,715,592,3433,3853,180
 Suppl 1	4781
 Suppl1 Incertitude	19474
 Suppl2 Incertitude	19474
@@ -705,7 +716,7 @@ Supplementary-1	5660,1
 Supplementing	11130
 Supplementing the United Nations Convention	16874
 Supplice Mathieu SARANDJI	4249
-Supplied	4242,1084,1027,4806,5692,120
+Supplied	4242,1084,1027,4806,5692,120,2694
 Supplied Demand	14957
 Supplier	4676,3994,2051,108,1571,132,505,148,966,73,542,12,187,115,213,552,1008,74
 Supplier Day	11134
@@ -746,7 +757,7 @@ Suppliers and Services	15659
 Suppliers of Material Workshops	11131
 Suppliers. Central Medical Stores	12976
 Supplier’s Personnel	15080
-Supplies	1150,75,1,57,1461,637,8479,770,2154,708,1408
+Supplies	1150,75,1,57,1461,637,8479,770,2154,708,1408,2727,222
 Supplies Authority KEMSA Quality Assurance Laboratory	4153
 Supplies FOURTH SCHEDULE Tax Credit Note	17108
 Supplies Limited	9255
@@ -759,11 +770,12 @@ Supplies and Materials	12977
 Supplies for Project F	17180
 Supplies of Laboratories	14736
 Supplies the IDEA Programme	4538
+Supplies. USB Universal Serial Bus. VPN	19801
 Supplu	11852
-Supply	1,957,51,275,583,2335,10,1035,575,1010,919,200,36,179,123,351,483,732,863,3,296,181,26,245,484,23,277,76,47,45,209,70,182,160,143,173,46,20,108,212,19,96,34,522,179,144,25,3,17,19,65,65,15,64,69,103,476,2,2,50,30,102,91,33,243,315,324,33,40,23,24,128,9,8,41,23,1270,79,12,2,136,116,69,661,60
+Supply	1,957,51,275,583,2335,10,1035,575,1010,919,200,36,179,123,351,483,732,863,3,296,181,26,245,484,23,277,76,47,45,209,70,182,160,143,173,46,20,108,212,19,96,34,522,179,144,25,3,17,19,65,65,15,64,69,103,476,2,2,50,30,102,91,33,243,315,324,33,40,23,24,128,9,8,41,23,1270,79,12,2,136,116,69,661,60,42,12,162,22,26
 Supply Adequacy Analysis Supply	15904
 Supply Angola	11366
-Supply Chain	10721,413,1021,1011,3991
+Supply Chain	10721,413,1021,1011,3991,2510
 Supply Chain Analysis for Plastic Pellets	14793
 Supply Chain Audit	4153,14,35,15,43,41,48,1003
 Supply Chain Conducting Unit	10829
@@ -779,6 +791,8 @@ Supply Chain Policy	10721
 Supply Chain Resiliency Initiative	4447
 Supply Chain Risk Management	14921
 Supply Chain Risk Management GC-SCRM.S1	10721
+Supply Chain Security	19801
+Supply Chain Security All	19801
 Supply Chain Security ICT	6936
 Supply Chain Tech	4972
 Supply Chain Vulnerability	4528,7984
@@ -849,6 +863,7 @@ Supply and Use Table	14777
 Supply and Used Tables	18483
 Supply and Utilization Account SUT Supply and Use	2775
 Supply of Agricultural Inputs	13474
+Supply of Cloud Disaster Recovery and Hybrid Backup	19788
 Supply of Digital Skills	14897
 Supply of Goods and Services	17108
 Supply of Goods and Services Supply	17108
@@ -859,6 +874,7 @@ Supply of Internet Possession Administration and Electronic	1797,1413,3880
 Supply of Pharmaceuticals and Medical Devices	14033
 Supply of Registration Materials	19541
 Supply of Risk Capital	12540
+Supply-Chain Risk	19801
 Supply-Demand	16188
 Supply-Demand Imbalance	18795
 Supply-Side Policies	12536
@@ -951,6 +967,7 @@ Unstructured Supplementary Service Data	1257,4891,3791,836,190,165,3,503,308,503
 Unstructured Supplementary Service Data South African	11130
 Unstructured Supplementary Service Data VASP	18485
 Unstructured Supplementary Service Data WFP	14948
+Unstructured Supplementary Service Delivery	19728
 Users and Suppliers of Statistics	14857
 V.1. HOUSEHOLD WATER SUPPLY	15574
 V.4 ACCESSIBILITY TO THE WATER SUPPLY	15574
@@ -969,7 +986,7 @@ Water Environment and Geo Services Ltd Supply	15052
 Water Production. Water Supply	18947
 Water Suppliers Agencies	17157
 Water Supplies and Related Services	2775
-Water Supply	1988,787,2472,6222,784,158,712,1962,415,231,1426,805,579,979,64
+Water Supply	1988,787,2472,6222,784,158,712,1962,415,231,1426,805,579,979,64,143
 Water Supply Connections Connecting the Natural Gas	15578
 Water Supply Licence	17250
 Water Supply Value Chain	13474

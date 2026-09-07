@@ -3,7 +3,7 @@ AUCUNE NAISSANCE OU GROSSESSE TERMINÉE APRÈS	13300
 Africa. Gross	9984
 Agency for International Cooperation GNI Gross National	17870
 Amy Lynn Grossman	11149
-Annual Gross Domestic Product	13479,169
+Annual Gross Domestic Product	13479,169,6095
 Annual Gross Revenue	4610
 Annual Return Gross Filing	11250
 Assessment GDP Gross Domestic Product GEF	17105
@@ -23,6 +23,7 @@ CFC Gross	16996
 Capital Formation GNI Gross National Income	16996
 Cedi GDP Gross Domestic Product GSMA	14674
 Central Africa. Gross National Income	18825
+Central Bank's Real-Time Gross Settlement	19847
 Challenge Program GIZ Gross Domestic Product	3604
 Commission GNI Gross National Income GOSL	18537
 Community Real-Time Gross Settlement	11960
@@ -98,7 +99,7 @@ GCI Global Cybersecurity Index GDP Gross	6946
 GCR Global Compact for Refugees GDP Gross	10841
 GDP Financing Agreement GNI Gross Domestic	11855
 GDP Gross	11380,505,4998,1
-GDP Gross Domestic Product	11965,821,5828
+GDP Gross Domestic Product	11965,821,5828,1233
 GDP Gross Domestic Product GDUPD General	15473
 GDP Gross Domestic Product GEF Global	7548
 GDP Gross Domestic Product GEI Global	17870
@@ -110,6 +111,7 @@ GDP Gross Domestic Product GTS Sector	13731
 GDP Gross Domestic Product GoCAR Government	18887
 GDP Gross Domestic Product GoG Government	15511
 GDP Gross Domestic Product GoL Government	17289
+GDP Gross Domestic Product HCM Human	19633
 GDP Gross Domestic Product ICI Djibouti	13836
 GDP Gross Domestic Product Telecommunications of Equatorial	16942
 GDP. Gross	17990
@@ -166,7 +168,7 @@ Gros Petits Volaille	737
 Grosh	15601
 Grosjean J	14666
 Grosman	7966
-Gross	236,1881,595,63,2472,2301,215,82,1890,247,2,233,28,162,358,10,54,27,113,35,127,3,2,62,73,253,360,1,10,10,50,9,195,1,45,146,4,9,12,7,13,17,18,56,435,946,876,3,68,81,101,208,206,102,91,30,802,440,26,25,69,15,127,97,15,7,404,119,129,81,833,28,751
+Gross	236,1881,595,63,2472,2301,215,82,1890,247,2,233,28,162,358,10,54,27,113,35,127,3,2,62,73,253,360,1,10,10,50,9,195,1,45,146,4,9,12,7,13,17,18,56,435,946,876,3,68,81,101,208,206,102,91,30,802,440,26,25,69,15,127,97,15,7,404,119,129,81,833,28,751,55
 Gross Amount Accumulated	11955
 Gross Amount Impairment	11955
 Gross Annual N	10407
@@ -185,7 +187,7 @@ Gross Completion Rate	18460
 Gross Disorderly Conduct A Member	13387
 Gross Domestic	2775
 Gross Domestic Expenditure	2775,9601
-Gross Domestic Product	236,337,367,423,625,787,641,167,279,1587,876,122,27,65,339,68,746,1343,119,98,617,935,52,124,154,35,26,33,308,13,457,241,9,100,29,10,31,27,98,69,319,23,91,58,184,17,2,31,73,642,41,484,160,2,150,68,546,7,35,68,38,4,68,12,39,147,54,869,6,18,10,56,10,40,4,15,205,12,61,169,287,431,9,290,8,5,321,124,105,201,6,210,56,8,25
+Gross Domestic Product	236,337,367,423,625,787,641,167,279,1587,876,122,27,65,339,68,746,1343,119,98,617,935,52,124,154,35,26,33,308,13,457,241,9,100,29,10,31,27,98,69,319,23,91,58,184,17,2,31,73,642,41,484,160,2,150,68,546,7,35,68,38,4,68,12,39,147,54,869,6,18,10,56,10,40,4,15,205,12,61,169,287,431,9,290,8,5,321,124,105,201,6,210,56,8,25,98,4,17,81,59,23,9,4
 Gross Domestic Product ECR Electronic Cash	18488
 Gross Domestic Product Financial and Insurance Activities	2775
 Gross Domestic Product GDP	2775
@@ -203,6 +205,7 @@ Gross Domestic Product GHG Greenhouse Gas	16949
 Gross Domestic Product GIEC	18309
 Gross Domestic Product GII Global Innovation	12376
 Gross Domestic Product GIS	958
+Gross Domestic Product GKMA Greater Kampala	19642
 Gross Domestic Product GNI	18485
 Gross Domestic Product GSM	14879,1993
 Gross Domestic Product GSMA Global System	12395
@@ -226,8 +229,10 @@ Gross Enrollment Rate	12411,4531,516
 Gross Enrollment Rate GHG Greenhouse Gas	17458
 Gross Enrollment Ratio	13314,3122
 Gross Enrollment Ratio Central African	13314
+Gross Enrolment	19760
 Gross Enrolment Rate	12175,24,2717,1936,1608
 Gross Enrolment Rate GESD	12175
+Gross Enrolment Rates	19727
 Gross Enrolment Rates for ECD	12175
 Gross Enrolment Ratio	13991,756,857,2856,1082
 Gross Enrolment Ratio GoSE Government	13960
@@ -256,7 +261,7 @@ Gross Loans Profitability	11131
 Gross National	14997,1945
 Gross National Disposable Income	2775
 Gross National Happiness Pillars	14965
-Gross National Income	322,942,1511,3804,4683,952,181,544,172,201,2,165,169,1249,223,501,523,739,113,1202,339,373,21,2,312
+Gross National Income	322,942,1511,3804,4683,952,181,544,172,201,2,165,169,1249,223,501,523,739,113,1202,339,373,21,2,312,406
 Gross National Income GRM Government of Burundi	13331
 Gross National Income GSMA	18485
 Gross National Income GoKE Government	6539
@@ -277,6 +282,9 @@ Gross Pro	4896
 Gross Profit	9735
 Gross Reproductive Rate	12383
 Gross Revenue	17250
+Gross Salary	19712
+Gross Salary Per Month	19742
+Gross Salary Staff Gratuity	19712
 Gross School Attendance Rate	12431
 Gross Secondary Market Statistics	2775
 Gross Sectoral Value Added	13624
@@ -287,6 +295,7 @@ Gross Settlement SCI Statistical Capacity Index	18825
 Gross Settlement Southern African Customs Union	11134
 Gross Settlement The Settlement	12364
 Gross Sexual Imposition	16935
+Gross Telecom Sector Revenue	19728
 Gross Tertiary Enrolment Ratio	14775
 Gross Tertiary Enrolment Ratio HEC	14775
 Gross Tertiary Enrolment Ratio The Gross	14775
@@ -314,6 +323,7 @@ Grosvenor Street	11224
 Growing Gross Profit	9735
 ICT Gross Domestic Product IDA Government	15424
 ICT Gross Value Added	236
+Inc RTGS Real Time Gross	19647
 Inclusion GDP Gross Domestic Product AI	12444
 Inclusive Development Grievance Redress Mechanism Gross	15553
 Increased Gross	16436
@@ -330,6 +340,7 @@ Intermediate Gross Value Gross Operating Provider	236
 Investigation GDP Gross Domestic Product GNI	10765,10
 Investment FX Foreign Exchange GDP Gross	10781,80,1566,2055
 Investment ICT Gross Domestic Product ICTC	19534
+JB Gros	19823
 KSh Gross	2775
 KSh Gross Fixed Capital Formation	2775
 Kenya's Gross Domestic Product	7204
@@ -392,16 +403,18 @@ Public Debt Gross Nominal Public Debt	13868
 QUE LA GROSSESSE A DURÉ ET	13300
 Quality School Education GCR Gross Completion	18460
 Quarterly Gross Domestic Product	2775,8359,1828,517
+Quarterly Gross Domestic Product Report. Produced	19743
 RELATION TO MONTHLY GROSS NATIONAL INCOME	11262
 REPORT ON THE REBASED GROSS DOMESTIC	18483
 RTGS Real-Time Gross Settlement SDM Single	1264
+RTGS Real-Time Gross Settlement System	19847
 Rate GER Gross Enrolment Rate GIR	18460
 Ratios RCFIS Real Gross Domestic Product	17235
 Real Gross Domestic Product	14744,3698
 Real Gross Domestic Products	17634
 Real Time Gross Settlement	2857,3863,5550,16,78,120,968,80,3344,359,2266
 Real Time Gross Settlement Agency	14897
-Real Time Gross Settlement System	4517,2461,6490,1686,1690,34,260
+Real Time Gross Settlement System	4517,2461,6490,1686,1690,34,260,2578
 Real Time Gross Settlement USSD Unstructured	14897
 Real- Credit Electronic Time Gross Information	6938
 Real-Time Gross	12364
@@ -421,6 +434,8 @@ Rwanda’s Gross Domestic Product	12413,2643
 Règlement de Gros Montants	13452,16
 SADC Real-Time Gross Settlement	12432,252
 SADC Real-Time Gross Settlement System	10169
+SADC-Real Time Gross Settlement	19650
+SADC-Real-Time Gross Settlement	19650
 SRAG Sudanese Real-time Automated Gross Settlement	14909
 SYGMA Automated Gross Amount System	969
 SYGMA Système de Gros Montants Automatisé SWIFT	11960

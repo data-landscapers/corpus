@@ -116,7 +116,7 @@ Ambassadeur du Rwanda	14861
 Ambassadeur du Sénégal	11024
 Ambassadeur du Tchad	18993
 Ambassadeurs	3396,6242,451,5614,1771,387,88,361,677,240
-Ambassador	1,1638,1441,201,579,435,355,13,186,408,1001,384,257,1295,554,148,54,442,29,125,292,1468,778,626,332,80,22,600,590,142,442,393,964,613,82,671,152,143,714,277
+Ambassador	1,1638,1441,201,579,435,355,13,186,408,1001,384,257,1295,554,148,54,442,29,125,292,1468,778,626,332,80,22,600,590,142,442,393,964,613,82,671,152,143,714,277,844,75
 Ambassador A.R. Chimbindi	5148
 Ambassador Abbas	10427
 Ambassador Abdella Musa	14044
@@ -188,7 +188,7 @@ Ambassador Pelle Enarsson	18678
 Ambassador Philip Jada Natana	18658
 Ambassador Philip Thigo	5789,469,4382,76,3847
 Ambassador Philip Thigo of Kenya	6997
-Ambassador Popp	6262
+Ambassador Popp	6262,13509
 Ambassador Professor Royson Mukwena	13631
 Ambassador Programme	6536
 Ambassador Rao	791
@@ -364,7 +364,7 @@ Ambrose Ekaju	6121
 Ambrose Mulandi	9645
 Ambrose Nebo	16890
 Ambrose Ogeno	18624
-Ambrose Ruyooka	5371,4413
+Ambrose Ruyooka	5371,4413,9981,26
 Ambrose Yonnah	6936
 Ambsouya Oubritenga Plateau-Central	15715
 Ambulance	8603,834,10107,41
@@ -374,7 +374,7 @@ Ambulance Point Construction	15578
 Ambulance Point Development	15578
 Ambulance Unit	15578
 Ambulance Units	15578
-Ambulances	12979
+Ambulances	12979,6767
 Ambulances Maintenance	15578
 Ambulances and Human Resources The Health Minister	18582
 Ambulant	19413
@@ -690,6 +690,7 @@ Mme. Ambroisine ETOMBA	16381
 Mon Ambition	17934,45,63
 Monitoraggio Ambientale DMF District Disaster Management	19520
 Mou Ambrose Thiik	18748
+Mr. Ruyooka Ambrose	19794
 Mrs. Angelica Ambe	17586
 My Ambition	17934
 NDMA Engages Turkish Ambassador Over Kono	18580
@@ -843,12 +844,13 @@ Transferências Sociais Monetárias QAS Quadro Ambiental	11390
 Turkish Ambassador	18580
 Tweet Chinese Ambassador	9379
 U.S Ambassador To Nigeria J	4302
-U.S. Ambassador	3232,935,182,2575,12556
+U.S. Ambassador	3232,935,182,2575,12556,291
 U.S. Ambassador Jessica Davis Ba	3608
 U.S. Ambassador Pamela Tremont	5163
 U.S. Government Ambassador Richard M	4301
+U.S. Government Ambassador William W. Popp	19729
 U.S. Government U.S. Ambassador	4217
-UAE Ambassador	12803,5956,784
+UAE Ambassador	12803,5956,784,151
 UAE's Non-Resident Ambassador	12983
 UK Ambassador	3826
 UM AMBIENTE FISCAL AMIGO DO CONTRIBUINTE	16487

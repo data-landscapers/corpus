@@ -44,6 +44,8 @@ Déclaration Unique de Marchandise	17485
 Déclarations Uniques des Marchandises	17445
 ETENDUE DES POUVOIRS DE L’ACTIONNAIRE UNIQUE	19260
 Eau de Centrafrique UIDAI Unique Identification Authority	15415
+Electricity Access Unique	19728
+Electricity Distribution and Unique Mobile Access Comparison	19728
 Electronique GUP Guichet Unique Provincial HEI	13312,2
 Establish Unique Personal Identifier	14655
 Establishment of Unique Identifiers and Data Integration	15034
@@ -68,7 +70,7 @@ Guichet Unique Electronique de Vanuatu	15478
 Guichet Unique Guichet Unique Sécurité	18319
 Guichet Unique MCLU du Foncier	15936
 Guichet Unique Maritime	5993
-Guichet Unique Provincial	13314,17
+Guichet Unique Provincial	13314,17,6314
 Guichet Unique Social	7718
 Guichet Unique URL	13745
 Guichet Unique Vu la Loi N	17817
@@ -243,6 +245,7 @@ Unique Learner Identifier	14670
 Unique Mobile BB Subscriptions	13314
 Unique Mobile Broadband Penetration for Mali and Selected	17870
 Unique Mobile Cell. Subscription	13314
+Unique Mobile Subscriptions	19728
 Unique National ID	16520
 Unique National Identification Number	3604
 Unique National Identifier Make the NIN	17011

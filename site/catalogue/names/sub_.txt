@@ -9,6 +9,7 @@ BUMULA SUB COUNTY HOSPITAL Data Controller	7167
 BUMULA SUB COUNTY HOSPITAL Data Processor	7167
 Beau Bassin Sub Office	14847
 Brazzaville. Sub	15659
+Cabinet Sub Committee	19715
 Caudan Sub Office	14847
 Convention de Sub-	15901
 Criteria Sub-	11252
@@ -26,6 +27,7 @@ General Committees and Sub- Committees	15393
 Google’s Policy Recommendations for Sub Saharan Africa	1363
 Greece-based Power Sub Link	17693
 Implementation Agribusiness Sub-	1988
+Innovation and ICT Skills Development Sub	19660
 KPIGREEN Sub	12576
 Managing Director of Power Sub Link	16808
 Measure Sub	11252
@@ -40,6 +42,7 @@ Power Sub Link	17694
 Proclamation and Sub	7538
 Proclamation. SUB SECTION ONE SATRTUP DESIGNATION	14024
 Registrar. The Sub- County Registrar	12151
+Residence and Sub Region	19715
 Risk Category and Sub	13080
 Risk Category and Sub- Impact	12241
 Ruhinda Sub County	7772
@@ -53,7 +56,8 @@ SUB- Cocoa	7763
 Sub Activity Description	12448
 Sub Article	7538,4608,39,41,1798
 Sub Committees	16830
-Sub County	1920
+Sub County	1920,17795,31,59
+Sub County Chief	19804
 Sub County Civil Registration HP	12138
 Sub County Directors	14501
 Sub Department Amount Budgeted	14738
@@ -67,10 +71,15 @@ Sub Offices	10864
 Sub PMG Account	13420
 Sub Posts	14760
 Sub Procuradores Dra Andrade	10751
+Sub Region	19715
+Sub Region Karamoja	19728
+Sub Region Poverty Population	19728
+Sub Region- Based	19715
+Sub Regions	19715
 Sub Sahara Africa	17011
 Sub Sahara Africa. VALUES Professionalism	18444
 Sub Saharan	15411
-Sub Saharan Africa	870,493,102,349,5116,217,1279,120,1605,563,496,645,8,143,327,245,2445,424,33,11,410,1048,472
+Sub Saharan Africa	870,493,102,349,5116,217,1279,120,1605,563,496,645,8,143,327,245,2445,424,33,11,410,1048,472,2307
 Sub Saharan Africa Business	5411,2135,58,2857,146,7098
 Sub Saharan Africa European Commission	1455
 Sub Saharan Africa STEM Science	16942
@@ -80,6 +89,7 @@ Sub Saharan African Historically Underserved Traditional	15518,1418
 Sub Saharan Countries	15447
 Sub Sectors	16889,362
 Sub Sharan Tertiary Education	11552
+Sub Sub Programme Crime	19746
 Sub Total Component	17441
 Sub Total Dispensaries	19585
 Sub Total Estimate D1	16884
@@ -125,4 +135,5 @@ TA’s and Sub TA	13095
 Tanzania Malawi Sub-	12214
 Tech Hubs and Sub-	14674
 Top-Level Component Sub- Component	12359
+Training of Trainers for Sub County	19715
 Weight Criteria Sub-	11252

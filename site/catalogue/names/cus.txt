@@ -29,6 +29,7 @@ ASYCUDAWorld Customs Declaration Processing System	15478
 ASYCUDAWorld Customs Management System. Result	16631
 AWS Local Zone. Customers	1729
 Achieved Customs	10870
+Act THE EAST AFRICAN COMMUNITY CUSTOMS	19713
 Act and Customary Land Right Act	18534
 Act. Customary	1988
 Actor Customer	9124
@@ -61,12 +62,14 @@ Authority KYC Know Your Customer ProGres	12227
 Authority. The Customs Division	10419
 Automated Customer Engagement	7334
 Automated Customs Management System. COLEPS Online	15480
+Automated System For Customs Data	19665
 Automated System for Cus	16876
-Automated System for Customs Data	969,8976,2441,570,86,11,1072,2824,365,1619,21
+Automated System for Customs Data	969,8976,2441,570,86,11,1072,2824,365,1619,21,885,8
 Automated System for Customs Data ASYCUDAWorld	13042
 Automated System for Customs Data BMS	13053
 Automated System for Customs Data Sydonia World	16942
 Automated System for Customs Data Why ASYPM	13042
+Automated Systems for Customs Data	19839
 Automatic Exchange of Customs Information	9745
 Availability Index Customer Average Interruption Duration	12969
 B- Customs	7548
@@ -81,6 +84,7 @@ Bangladesh Connecting Customs and PGAs	16631
 Bank Account Customer Customer Number Name	12364
 Barbados Customs and Excise Department	15478
 Baseline Customization of Default Settings Interactions Size	13868
+Benefits of Digital Customs Administration	19839
 Benin Customs Administration	8499
 Beninese Customs	2392
 Body Customer Service Charter Department	12927
@@ -135,6 +139,7 @@ CUSTOMS AND TRADE REGULATIONS	12389
 CUSTOMS DEPARTMENT	14816
 CUSTOMS ENFORCEMENT CAPABILITIES Serving	13108
 CUSTOMS LAW CHAPTER ONE Definitions Article	15492
+CUSTOMS MANAGEMENT	19713
 CUSTOMS TARIFF ACT	18450,91
 Cabo Verde Digital Project Supports Customs	16503
 Caledonia Customs Process Modernization	16631
@@ -221,7 +226,7 @@ Custody and Convicted Prisoners	13948
 Custody and Guardianship	12977
 Custody and Guardianship Cases	12977
 Custody and Guardianship The Office	12977
-Custom	9393,1477,1082,356,366,270,1026,1522,127,491,528,1135,1829
+Custom	9393,1477,1082,356,366,270,1026,1522,127,491,528,1135,1829,95
 Custom API	6423
 Custom Breakdown	15619
 Custom Content	12675
@@ -255,7 +260,7 @@ Customary Right of Occupancy Granted Right	19554
 Customary Right of Use Certificate	10930
 Customary Rights	17114
 Customary Tenure Convention Regulation	1988
-Customer	24,934,2529,691,670,301,77,451,2,8,182,231,840,222,229,77,321,118,106,5,585,237,206,77,1,193,214,324,1,705,232,224,114,3,4,71,22,536,90,4,94,21,86,60,86,48,41,18,39,10,136,51,1,94,305,54,31,496,34,302,93,190,288,235,49,111,33,30,68,32,26,19,88,285,78,107,113,1129,9,9,18,45,1,215,97,487,463,31,403,826
+Customer	24,934,2529,691,670,301,77,451,2,8,182,231,840,222,229,77,321,118,106,5,585,237,206,77,1,193,214,324,1,705,232,224,114,3,4,71,22,536,90,4,94,21,86,60,86,48,41,18,39,10,136,51,1,94,305,54,31,496,34,302,93,190,288,235,49,111,33,30,68,32,26,19,88,285,78,107,113,1129,9,9,18,45,1,215,97,487,463,31,403,826,204,14
 Customer API	14438
 Customer Acceptance Form Tabulated	9124
 Customer Acceptance Policy	13961
@@ -285,6 +290,7 @@ Customer Due High Diligence	18931
 Customer Education	14151
 Customer Energy Management Systems	11269
 Customer Engagement and Communication Communications	8999
+Customer Engagement and Service Capacity	19662
 Customer Engagements and Communication	8999
 Customer Enquiry Management System	12041
 Customer Equipment	2913
@@ -317,11 +323,12 @@ Customer Premises	16835
 Customer Premises Equipment	1289
 Customer Premises Stations Out Associated Base	736
 Customer Protection Unit	16878
+Customer Ratio Agents	19728
 Customer Reach Challenge	11033
 Customer Reach Challenge Samoei	11033
 Customer Relation Management	19221
 Customer Relations Management	6477
-Customer Relationship Management	4527,2668,5164,623,2954,987,1
+Customer Relationship Management	4527,2668,5164,623,2954,987,1,2715,89
 Customer Requests Service Business Business Service	9124
 Customer Satisfaction Index	17149
 Customer Satisfaction Index Quality Parameter Least	17149
@@ -361,7 +368,7 @@ Customer-owned	9123
 Customer. Article	14867
 Customer. The Customer	9123
 CustomerSatisfactionandSurvey	4554
-Customers	767,291,671,796,359,128,625,579,366,681,26,144,41,47,208,373,3,145,61,39,12,136,276,118,212,152,21,24,48,33,85,42,116,14,8,149,221,106,75,94,140,159,117,3,131,29,128,47,25,48,4,160,172,105,19,200,253,103,68,25,83,328,26,37,36,60,58,102,205,134,459,197,2,37,218,82,23,301,311,42,303,1,878,193,293,230,130,26,107,39,124,178,129,1206,29,16,27,11,34,1,193,39,95,359,16,103,973,292,602
+Customers	767,291,671,796,359,128,625,579,366,681,26,144,41,47,208,373,3,145,61,39,12,136,276,118,212,152,21,24,48,33,85,42,116,14,8,149,221,106,75,94,140,159,117,3,131,29,128,47,25,48,4,160,172,105,19,200,253,103,68,25,83,328,26,37,36,60,58,102,205,134,459,197,2,37,218,82,23,301,311,42,303,1,878,193,293,230,130,26,107,39,124,178,129,1206,29,16,27,11,34,1,193,39,95,359,16,103,973,292,602,174
 Customers Are Transferring Their Own Funds	6362
 Customers CHAPTER	12616
 Customers Complaints	17235
@@ -392,10 +399,10 @@ Customizableandscalablefuzzy	8606
 Customization	4349,8693,38,315,29,1541,115,1843,1
 Customization Ability	7988
 Customizations	16923,1
-Customize M&E	12399
+Customize M&E	12399,7278
 Customized	11191,5966
 Customizing	12359
-Customs	7,177,52,733,186,88,585,284,280,150,1878,827,243,165,4,66,1787,36,147,120,143,9,200,111,649,416,18,384,674,136,230,60,131,60,100,122,31,235,342,8,7,1,74,125,265,18,28,18,90,39,115,302,86,9,2,55,206,249,61,27,217,100,248,114,79,117,7,58,127,35,36,25,14,3,12,54,32,56,220,16,119,133,5,14,14,60,53,357,322,333,106,106,39,19,22,19,5,21,43,94,130,132,103,87,65,487,176,165,91,36,31,285,61,23,111,277
+Customs	7,177,52,733,186,88,585,284,280,150,1878,827,243,165,4,66,1787,36,147,120,143,9,200,111,649,416,18,384,674,136,230,60,131,60,100,122,31,235,342,8,7,1,74,125,265,18,28,18,90,39,115,302,86,9,2,55,206,249,61,27,217,100,248,114,79,117,7,58,127,35,36,25,14,3,12,54,32,56,220,16,119,133,5,14,14,60,53,357,322,333,106,106,39,19,22,19,5,21,43,94,130,132,103,87,65,487,176,165,91,36,31,285,61,23,111,277,300,174,8
 Customs ASYCUDA	17367
 Customs Act	7695,3341,1593,2089,91,5,14,3,12,2265,1342,16,75
 Customs Act. Amiwero	9361
@@ -449,7 +456,7 @@ Customs Declaration Article	15492
 Customs Declaration Modify Stored	17367
 Customs Declaration System	13042
 Customs Delivering	13053
-Customs Department	2112,8758,3875,8,90,635,14,1875
+Customs Department	2112,8758,3875,8,90,635,14,1875,2458
 Customs Department Article	15492
 Customs Department the Customs Department Allocated	10870
 Customs Director General Edwin Fongod Nuvaga	5659
@@ -458,6 +465,7 @@ Customs Duties	2117,10594,2930
 Customs Duties and Related Charges Customs	17011
 Customs Duties and Related Charges No. Customs	17011
 Customs Duty	14828,3,2051,117,259
+Customs East African Community Headquarters	19703
 Customs Electronic Single Window	14145,4343,89
 Customs Enforcement Activities Photo Credit	13053
 Customs Enforcement Network	19250
@@ -479,7 +487,7 @@ Customs Law	15492
 Customs Law and Procedures	17011
 Customs Line	15492
 Customs Long Room	16601
-Customs Management	15112,366,3641
+Customs Management	15112,366,3641,594
 Customs Management Act	19119
 Customs Management Information System	10785
 Customs Management System	12539,2179,71
@@ -497,7 +505,7 @@ Customs Mutual Administrative Assistance Agreement	9092,1
 Customs Network for Transit Trade	13042
 Customs Office	18797
 Customs Officer	11289,2274,1915
-Customs Officers	15478,1153
+Customs Officers	15478,1153,3034
 Customs Operations Manager Ms. Lorina Seady	13042
 Customs Policy Network	17011
 Customs Procedure Code	13122
@@ -528,6 +536,7 @@ Customs Services Division	13403
 Customs Services URL	18954
 Customs Single Window	18577
 Customs Single Window System	18541
+Customs Station Managers	19665
 Customs Tariff	14828,3,661,1519
 Customs Tariff Act	14814,14,3,12,3607,16,34,41,36
 Customs Tariffs	15492
@@ -626,6 +635,8 @@ Digital Asset Custodian	12882
 Digital Asset Custodian. Several Nigerian and Africa-serving	12882
 Digital Asset Custodians	12882
 Digital Asset Exchanges and Digital Asset Custodians	12882
+Digital Customs Administration	19839
+Digital Customs Administration Using ASYCUDAWorld Equitable	19839
 Digital Customs Solution	13042
 Digital-REACH-Initiative-Roadmap 20171205 custom size 0.pdf	14434
 Direct Customer Communications	8999
@@ -645,20 +656,25 @@ Directors General of Customs	7512
 Discriminatory Customary Practices	16951
 Discriminatory Customary Practices Systemic	16951
 Distribution of Customer Deposits	17236
+Djibouti Customs	19839
+Djibouti Customs Director General	19839
 Djibouti Digital Customs ASYCUDAWorld.pdf	1393
 Djibouti Digital Customs Administration	1393
+Djibouti General Directorate for Customs and Indirect Taxes	19839
 Document ID Classification Owner Custodian Applicability	16212
 Does Better Information Curb Customs Fraud	12948
 Domestic Customers	14745,62
 Domestic and WTO Hierarchy of Customs Valuation Ghana	11036
 Double Monetisation of Existing Customers	6362
+Dubai Customs	19839
 Duration of Customer Interruptions	14867
 EAC Cus-	13357
 EAC Customs Management Act	13357,6245
 EAC Customs Un-	13357
 EAC Customs Union	961,12396,294
 EAC Customs Union Protocol	13357,6245
-EAC Deputy Secretary General for Customs	6096,746
+EAC Customs Union and Single Customs Territory	19703
+EAC Deputy Secretary General for Customs	6096,746,12861
 EAC Trade and Customs	7548
 ECOWAS Customs Union	7452
 EDSA’s Customer Service Improvement Plan	18537
@@ -670,8 +686,8 @@ EU Union Customs Code	15478
 EXISTING CUSTOMERS UNDERTAKING A TRANSACTION	17537
 East Africa Community Customs Management Act	14454
 East Africa's Single Customs Territory. Côte	4149
-East African Community Customs Management	19602
-East African Community Customs Management Act	19527,75
+East African Community Customs Management	19602,111
+East African Community Customs Management Act	19527,75,63,48
 East African Customs Union	14409
 Eastern and Southern Africa World Customs Organisation	12454
 Ecobank. Customers	9449
@@ -743,7 +759,7 @@ Games Customer Service Week COMESA Committee	11131
 Gendema Customs	18500,77
 General Customs Authority	18857,120
 General Department of Customs and Excise	13042
-General Directorate of Customs	10870,5633
+General Directorate of Customs	10870,5633,3325
 General Directorate of Customs and Excise	477
 General Receipts and Customs Regime Receipts	15066
 Generation Customer Connections Data Dashboard	11236
@@ -806,13 +822,14 @@ KYC Know Your Customer	7763
 KYC Know Your Customer LMP Labor	15518
 KYC Know Your Customer LTE Long	16942
 KYC Know Your Customer MICS Multiple	15415
-Know Your Customer	1880,36,639,23,227,36,269,7,284,28,79,139,464,737,7,179,335,170,226,232,100,80,10,45,513,476,298,82,162,171,159,943,320,59,350,85,6,151,22,101,450,2,132,90,18,17,144,981,12,62,106,83,14,7,26,17,6,20,6,109,17,214,21,6,288,8,22,72,15,437,9,397,536,29,316,15,613,46,25,383,1475,161,595,359,211,68,271
+Know Your Customer	1880,36,639,23,227,36,269,7,284,28,79,139,464,737,7,179,335,170,226,232,100,80,10,45,513,476,298,82,162,171,159,943,320,59,350,85,6,151,22,101,450,2,132,90,18,17,144,981,12,62,106,83,14,7,26,17,6,20,6,109,17,214,21,6,288,8,22,72,15,437,9,397,536,29,316,15,613,46,25,383,1475,161,595,359,211,68,271,623
 Know Your Customer Facility	18471
 Know Your Customer FinTech Financial Technologies	18454
 Know Your Customer Lesotho Wire Local	12701
 Know Your Customer LoA Level of Assurance	12663
 Know Your Customer MDA Ministry Department	14965
 Know Your Customer MERCHANT	11861
+Know Your Customer MFED	19664
 Know Your Customer Mobile Money Know	14674
 Know Your Customer Policy	13532
 Know Your Customer System	12375
@@ -864,6 +881,7 @@ Mn One-Month Active Customers	3898
 Mn Three-Month Active Customers	3898
 Mn. One-month Active Customers	6100
 Mn. One-month Active M-PESA Customers	6100
+Mobile Agent Count and Agent Customer Ratios	19728
 Modernised Customs Code	16843
 Monitoring and Evaluation Plan for Data Strategy CUSTODIAN	1161
 Montserrat Customs Interoperability	16631
@@ -921,6 +939,7 @@ Principal Programme Officer for Tariffs and Customs Regimes	4827
 Private and Customary Land	18465
 Processing Fee for Simplified Customs Assessment Form	14828,3
 Prof. Doutor Ricardo Custódio	2816
+Promoting Customer Convenience	19664
 Protection Customer Support Description Detailed	5676
 Protection of Customer Data and Transactions	15054
 Public Customs	13005
@@ -940,6 +959,7 @@ Recording and Custody of Fuel	13420
 Records and Documentation COCIS Chain of Custody Information	16843
 Reform and Modernization of Customs	16631
 Refund of Customs Taxes	15492
+Regional Customs Bond	19703
 Regional Customs Transit Guarantee Scheme	13563
 Regional Distribution of Customer Connections Changes	12969
 Register CESW Customs Electronic Single Window	18500
@@ -988,7 +1008,7 @@ Simplified Customer Due Diligence	17183
 Simplified Customs Declaration Management and Recovery	17011
 Simplified Customs Declarations	15478
 Single Customer Credit Transfer	12364
-Single Customs Territory	12326,2265
+Single Customs Territory	12326,2265,5051
 Sistema Centralizado de Custódia	17032
 Sistemas de Contabilização de Custos	11430
 Sites and Customers	8999
@@ -1014,6 +1034,7 @@ System Migration and Customization Eswatini	13042
 System for Custom Data CBG Central Bank	16927
 System for Customs Data BCC Budget Call	18488
 Systems and Customer Relationship Management	14524
+TOFE Customs SCH	19823
 TRA's Tanzania Customs Integrated System	19584
 Tanzania Customs	19600
 Tanzania Customs Integrated System	19584
@@ -1033,6 +1054,7 @@ Through Customs Performance Measurement Integrity and Trade	13042
 Through the Union's Customs Risk Management Framework	11036
 Thursday. Customers	17730
 Tiered Know Your Customer	11861
+Timeline of Djibouti Customs Automation	19839
 Times of Crisis Automated System for Customs Data	13042
 Tonga Pre-arrival Customs Processing	16631
 Tool Customization	1824
@@ -1082,7 +1104,7 @@ Women Pre-arrival Customs Processing Tonga	16631
 World Customs Orga-	17367
 World Customs Organisation	13108,3735
 World Customs Organisation Data Model	9092
-World Customs Organization	4827,4266,1630,2228,91,2,7,364,1374,689,1404,485
+World Customs Organization	4827,4266,1630,2228,91,2,7,364,1374,689,1404,485,2472
 World Customs Organization Guidelines	13067
 World Customs Organization Media Newsroom	13051
 World Customs Organization WTO	13053

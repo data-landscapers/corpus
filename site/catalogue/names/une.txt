@@ -2,7 +2,7 @@ A. Unexplained	14717
 A.2. Une	17859
 A.3. Une	17859
 ADVANCE UNEDITED VERSION Distr	14751
-AFR Afrobarometer UNESCO United Nations Educational	10835,3,130,902,16,466,1,135
+AFR Afrobarometer UNESCO United Nations Educational	10835,3,130,902,16,466,1,135,7334
 AI Institute. UNESCO Windhoek Office	12994
 AI Strategies. UNESCO	2816
 AI. Through the UNESCO Recommendation	14139
@@ -57,13 +57,15 @@ B VÉCU AVEC UNE FEMME	13300
 BT. Une	16415
 Bank Smart Africa Unesco African Union	9886
 Better Outcomes and Results UNESCO Treasury Single	11905
+Body Government of Uganda and UNESCO Validate Uganda	19789
 Body UNESCO	13048,615
 Body UNESCO Sudan	15117
 Bosun Tijani. Une	9993
 Botswana National Commission for UNESCO	14300
 Burkina Faso Une	3396
 Burundi. UNESCO	13314
-Burundi. Une	13306
+Burundi. UNESCO's Profiles Enhancing Education Reviews	19657
+Burundi. Une	13306,6339
 But- Une Foi DIRECTION GÉNÉRALE DES	17872
 BÂTIR UNE RÉPUBLIQUE FORTE ET JUSTE	18972
 Bénin. Une	5512,2707
@@ -154,6 +156,7 @@ DEFINITIONS Une	15399
 DG du FOGEC. Une	4893
 DGI Une	10858
 DGI. Une	10858
+DHIS-2. Une	19645
 DHIS2. Une	13306,2379
 DHS. Une	13300
 DMI Une	13306
@@ -193,8 +196,10 @@ EU UNE N'A PAS EU	13300
 EU-funded UNESCO Social Media	7709
 EU’s DigComp and UNESCO-UIS’s Digital Literacy Global	15447
 Eau. Une	17812
+Econet-Leo. Une	19645
 Economic and Social Affairs UNESCO United Nations	10759,78,1052,451
 Education Initiative. UNESCO	13681
+Education International and UNESCO	19657
 Education and Training UIS UNESCO Institute for Statistics	15604
 Effectif Caractéristique Une	13300
 Egypt Inclusion Profile. UNESCO UIS	15604
@@ -246,6 +251,7 @@ Ghana Unemployed	11004
 Gnoumou Hikoti. Une	3856
 Gouverneurs. Une	15703
 Government of South Sudan and UNESCO	3583
+Government of Uganda and UNESCO Validate Uganda's AI	19789
 Gratien Zanhounkpèvi. Une	2697
 Group UNESCO United Nations Educational	18911
 Groupe Une	13300
@@ -335,6 +341,7 @@ Lighton Nyirongo UNESCO Associate National Communications	13663
 Littérature Arabes Chaire UNESCO	17829
 Living Value Child Labor Interval Unemployment	15244
 Lokossa Une	16297
+Long Term Unemployment	19715
 L’ UNESCO	3658,2617,145
 L’HISTORIQUE Une	16629
 L’ÉTAT ACTIONNAIRE Une	2342
@@ -348,7 +355,7 @@ MOINS UNE DES VACCINATIONS	13300
 MOROCCO Labor Market Developments Unemployment and Sectoral	17503
 MPLS. Une	4342
 MSPLS Une	13306
-MSPLS. Une	13306
+MSPLS. Une	13306,6339
 Malawi National Commission for UNESCO	13229
 Mali Une	18000
 Mandjou. Une	8737
@@ -365,6 +372,7 @@ Million. Unemployment Rate	12551
 Minette Libom Li Likeng. Une	2932
 Ministre Délégué SANA. Une	15649
 Ministry of Education and UNESCO	13662
+Ministry of ICT and National Guidance and UNESCO	19789
 Mme Rose. Une	13476
 Mobile-based UNESCO	5908,442
 Monitoring UNESCO United Nations Educational	15621
@@ -565,6 +573,7 @@ Starlink. Une	3551
 Startup Act Une	3157
 Statistics UNESCO United Nations Educational	13310
 Stefaan UNESCO Verdadero	11439
+Strategy and UNESCO AI Ethics RAM	19807
 Stratégie. Une	19362
 Stratégies Une	17856
 Stérili- Une N’utilise Une Stérili-	13300
@@ -660,7 +669,7 @@ UNE SEULE FOIS	13300
 UNE SOLUTION DE PAIEMENT SIMPLE ET	16396
 UNE STRAGTÉraGpIEhDiEquPOeR1T	2342
 UNE VISIBILITE AMELIOREE	17873
-UNECA	10,16,1,1,143,118,56,613,3,853,963,261,20,451,344,327,77,100,171,55,1009,514,144,359,563,357,898,735,32,1154,67,404,753,93,457,5,11,13,262,86,13,162,87,38,97,48,61,239,51,294,88,4,322,20,67,15,33,138,398,145,32,108,304,1219,379,24,1579,7,3,75,230,360,226
+UNECA	10,16,1,1,143,118,56,613,3,853,963,261,20,451,344,327,77,100,171,55,1009,514,144,359,563,357,898,735,32,1154,67,404,753,93,457,5,11,13,262,86,13,162,87,38,97,48,61,239,51,294,88,4,322,20,67,15,33,138,398,145,32,108,304,1219,379,24,1579,7,3,75,230,360,226,274,199
 UNECA APAI-CRVS	5599
 UNECA African Trade Policy Centre	1356
 UNECA CRVS Assessment	13005
@@ -677,7 +686,7 @@ UNECA La Francophonie	8673,10601
 UNECA Lastly	12151
 UNECA Presentation	14674
 UNECA Team	14090
-UNECA United Nations Economic Commission for Africa	13295
+UNECA United Nations Economic Commission for Africa	13295,6344
 UNECA and AFROPAC	9162
 UNECA and AfDB	9469
 UNECA and Smart Africa	10819
@@ -693,6 +702,7 @@ UNECA’s Director for Technology	4180
 UNECA’s Pan-African Trust Framework	10819
 UNECE	11237,335,1470
 UNECE Conference of European Statisticians	15244
+UNECE STANDARD FFV	19749
 UNEGovernmentSurvey	16872
 UNEP As of Apply	17157
 UNEP Copenhagen Climate Center	9424
@@ -713,8 +723,9 @@ UNESA	18931,2
 UNESC	18702
 UNESC's Journey	8860
 UNESCAP	1243
-UNESCO	19,624,256,59,246,159,316,29,106,98,53,580,193,78,142,8,430,187,543,83,319,277,14,217,6,185,19,56,297,19,45,31,7,234,84,192,83,37,17,29,59,128,145,123,54,9,31,22,49,46,19,6,44,58,58,17,37,169,47,50,130,31,15,117,41,161,320,7,17,120,70,132,1,37,209,35,148,63,2,378,173,66,65,56,131,66,2,42,27,36,55,150,52,82,16,35,84,39,76,2,1,75,55,43,129,14,2,109,42,80,4,48,39,80,11,12,92,59,1,127,10,9,7,2,1,11,5,2,9,2,47,188,1,9,12,35,4,126,1,11,1,3,5,34,93,24,42,11,110,51,60,37,7,164,36,18,22,60,79,10,10,81,4,32,32,14,50,19,8,73,1,14,17,54,34,1,18,58,161,14,24,6,16,31,8,72,2,58,8,18,5,16,122,172,41,109,13,31,8,6,16,79,37,39,45,1,19,8,34,1,25,9,124,47,8,20,120,30,69,36,27,19,60,30,21,14,3,52,3,4,33,11,1,25,13,17,89,96,3,26,31,21,53,40,63,10,44,27,9,17,107,44,100,67,7,4,67,114,33,24,7,12,3,13,31,7,14,12,21,18,3,1,79,2,15,43,39,19,23,44,31,5,12,31,16,24,47,2,194,94,11,14,67,12,28,15,85,39,61,29,44,22,5,165,4,225,52,34,39,41,1,32,9,24,55,6,54,19,12,27,73,81,12,17,12,7,5,82,88,196,17,6,30
+UNESCO	19,624,256,59,246,159,316,29,106,98,53,580,193,78,142,8,430,187,543,83,319,277,14,217,6,185,19,56,297,19,45,31,7,234,84,192,83,37,17,29,59,128,145,123,54,9,31,22,49,46,19,6,44,58,58,17,37,169,47,50,130,31,15,117,41,161,320,7,17,120,70,132,1,37,209,35,148,63,2,378,173,66,65,56,131,66,2,42,27,36,55,150,52,82,16,35,84,39,76,2,1,75,55,43,129,14,2,109,42,80,4,48,39,80,11,12,92,59,1,127,10,9,7,2,1,11,5,2,9,2,47,188,1,9,12,35,4,126,1,11,1,3,5,34,93,24,42,11,110,51,60,37,7,164,36,18,22,60,79,10,10,81,4,32,32,14,50,19,8,73,1,14,17,54,34,1,18,58,161,14,24,6,16,31,8,72,2,58,8,18,5,16,122,172,41,109,13,31,8,6,16,79,37,39,45,1,19,8,34,1,25,9,124,47,8,20,120,30,69,36,27,19,60,30,21,14,3,52,3,4,33,11,1,25,13,17,89,96,3,26,31,21,53,40,63,10,44,27,9,17,107,44,100,67,7,4,67,114,33,24,7,12,3,13,31,7,14,12,21,18,3,1,79,2,15,43,39,19,23,44,31,5,12,31,16,24,47,2,194,94,11,14,67,12,28,15,85,39,61,29,44,22,5,165,4,225,52,34,39,41,1,32,9,24,55,6,54,19,12,27,73,81,12,17,12,7,5,82,88,196,17,6,30,47,10,1,4,108,18,6,18,15,13,1
 UNESCO AI	5036
+UNESCO AI Ethics Readiness Assessment	19807
 UNESCO AI Fozan International Prize	13048
 UNESCO AI Readiness Assessment Framework	14566
 UNESCO AI Readiness Assessment Methodology	16212
@@ -724,6 +735,8 @@ UNESCO AI Readiness Assessments	6862
 UNESCO AI Readiness Framework	14752
 UNESCO Addis Ababa Office	14139
 UNESCO Addressing	7709
+UNESCO Africa Engineering Week	19725
+UNESCO Africa Engineering Week The Uganda	19725
 UNESCO Appui	15673
 UNESCO Broadband Commission	6467,5096
 UNESCO Cairo	14924
@@ -742,10 +755,12 @@ UNESCO Dakar	11558,349,3643,71
 UNESCO Deep Dive for Policymakers	1814
 UNESCO Digital Literacy Global Framework	13314,3628
 UNESCO Digital Platform Governance Toolkit	8473
+UNESCO Dimensions	19835
 UNESCO Empowering Local Radio	19
 UNESCO Eswatini. Contact	12347
 UNESCO Ethics Recommendation	1814
 UNESCO Framework	16942
+UNESCO GEM	19657
 UNESCO GO-SPIN Kenya Profile	7548
 UNESCO General Conference Date	12565
 UNESCO Global Education	9202
@@ -756,6 +771,7 @@ UNESCO Global Framework of Reference	16942
 UNESCO Global Science Partnership	5246
 UNESCO Guidance	6294
 UNESCO Guidelines	6436
+UNESCO HQ	19657
 UNESCO HQs	14993
 UNESCO Head of Office and Representative	12994,54
 UNESCO Headquarters	15604,14,251
@@ -765,15 +781,19 @@ UNESCO ICT Competency Framework for Teachers	899,5933,10131
 UNESCO ICT Competency Framework for Teachers. Paris	899
 UNESCO ICT Framework for Teachers	16963
 UNESCO ICT Training for TVET	14897
-UNESCO IICBA	11598,1128,344,987
+UNESCO IICBA	11598,1128,344,987,5600
+UNESCO IICBA Research	19657
 UNESCO IICBA. Girmai Gebrehiwet	14057
 UNESCO IIEP	12504
+UNESCO IIEP Country Page	19657
+UNESCO IIEP. Among	19657
 UNESCO ISCED	13310
 UNESCO India-Africa	16942
 UNESCO Institute for Information Technologies	14267
 UNESCO Institute for Lifelong Learning	1049
 UNESCO Institute for Statistics	7548,3421,514,396,5,1,10,70,194,46,146,4,132,825,2,677,931,2020,928,1367
-UNESCO Institute of Statistics	11860,1450,2294
+UNESCO Institute of Statistics	11860,1450,2294,4053
+UNESCO Institute of Statistics. UNESCO	19657
 UNESCO Intergovernmental Oceanographic Commission	14732
 UNESCO International Bureau of Education	15447
 UNESCO International Institute for Capacity Building	7405,4791
@@ -792,6 +812,7 @@ UNESCO Multisectoral Regional Office for West Africa	17017
 UNESCO National Programme Officer	13662
 UNESCO ORGANISATION DES NATIONS UNIES POUR	18170
 UNESCO Office	8548,2053,1949,2642,3604,173
+UNESCO Open Access	19657
 UNESCO Open Access Repository	18796
 UNESCO Open Science Partnership	5246
 UNESCO Organisation des Nations Unies	15724
@@ -805,7 +826,7 @@ UNESCO RAM Angola	11483
 UNESCO RDC. En République Démocratique du Congo	3269
 UNESCO ROSA	12565,654,250
 UNESCO Readiness Assessment Methodology	7068,4415,727
-UNESCO Recommendation	1814,1144,1168,563,45,512,1866,386,50,2389,1198,2409,119,1001,329,876,343,2628
+UNESCO Recommendation	1814,1144,1168,563,45,512,1866,386,50,2389,1198,2409,119,1001,329,876,343,2628,967
 UNESCO Recommendation Human	7548
 UNESCO Recommendations	5246,1048
 UNESCO Regional Advisor for Culture	14300
@@ -876,7 +897,7 @@ UNESCO's Head of Social and Human Sciences for Southern	13663
 UNESCO's Journey	9212
 UNESCO's Jun-2025 Tech Diplomacy Forum	5239
 UNESCO's Pole de Dakar	11557
-UNESCO's Readiness Assessment Methodology	5036,7958
+UNESCO's Readiness Assessment Methodology	5036,7958,6795
 UNESCO's Recommendation	8747,457,2279,727,340
 UNESCO's Social and Human Sciences Sector	13557
 UNESCO's Support Development	13557
@@ -992,6 +1013,7 @@ Une Architecture Africaine	17983
 Une Assistance Technique	18967
 Une Association Professionnelle	10965
 Une Autorité	14384
+Une CAM	19645
 Une Cellule	11944
 Une Charte	11749,2886
 Une Communication	2342
@@ -1075,7 +1097,7 @@ Unemployed Summary of Training Courses	14835
 Unemployed Unemployed	11004,1596
 Unemployed Women	11004
 Unemployed Women Employed	11004
-Unemployment	1867,121,787,2769,2151,56,3012,49,29,122,1,307,25,424,135,2,6,61,268,207,10,92,551,1763,17,19,46,38,64,37,3,205,360,540,829,23,15,146,284,62,1306,646,158
+Unemployment	1867,121,787,2769,2151,56,3012,49,29,122,1,307,25,424,135,2,6,61,268,207,10,92,551,1763,17,19,46,38,64,37,3,205,360,540,829,23,15,146,284,62,1306,646,158,64,38,111,9
 Unemployment Benefit Insurance Fund	13123
 Unemployment Benefit Scheme	12922
 Unemployment Both Sexes	14815
@@ -1092,7 +1114,7 @@ Unemployment Living Over-crowding Assets Housing Electricity	15244
 Unemployment Nobody	15244
 Unemployment Overcowding	15244
 Unemployment Q1	14832
-Unemployment Rate	12600,799
+Unemployment Rate	12600,799,6316
 Unemployment Rate 46 TABLES	17503
 Unemployment Relief Scheme	7859
 Unemployment Status Over-crowding Assets Housing Electricity	15244
@@ -1173,6 +1195,6 @@ York. UNESCO	15604
 Youth Mobile of UNESCO. Several	15447
 Youth Unemployment	13399,5062
 Youth Unemployment Increases	12600
-Youth Unemployment Rate	12600
+Youth Unemployment Rate	12600,7115
 Youth Unemployment Youth	17503
 Zambia and UNESCO	13663

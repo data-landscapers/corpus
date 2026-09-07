@@ -196,7 +196,7 @@ IBRD Loan and IDA Credits and Grants	10964
 IBRD Loans	15372,3515
 IBRD Loans and IDA Credit	15411
 IBRD Loans and IDA Credits	15372,3515
-IBRD Loans and IDA Credits and Grants	3604,2299,4865,61,588,108,330,50,19,1407,1,2040,39,107,140,1,2,483,792,13,1249,689,358
+IBRD Loans and IDA Credits and Grants	3604,2299,4865,61,588,108,330,50,19,1407,1,2040,39,107,140,1,2,483,792,13,1249,689,358,590
 IBRD Total Loan	12980
 IDA EPTC Loan Agreement	6539
 IDA Effectiveness the Loan Agreement of Effectiveness	11417
@@ -356,7 +356,7 @@ Loandjili. Article	16274,182
 Loaned	19585
 Loango	15379,313,52,36,68
 Loango. Date	15692
-Loans	2775,808,131,1258,1142,1649,3083,123,162,5,94,654,1,10,264,1,44,1,146,4,41,49,42,475,570,1204,366,476,1397,68,192,1,205,2079,65,17,6
+Loans	2775,808,131,1258,1142,1649,3083,123,162,5,94,654,1,10,264,1,44,1,146,4,41,49,42,475,570,1204,366,476,1397,68,192,1,205,2079,65,17,6,218
 Loans Access	17043
 Loans Advanced	17236
 Loans Assets Deposits Loans	11960
@@ -367,6 +367,7 @@ Loans Equity	390
 Loans Financial	15578
 Loans Financial Inclusion Services Paving and Stabilizing	15578
 Loans Financial Inclusion Services Road Paving	15578
+Loans Management	19716
 Loans Register	19585
 Loans Sources	17257
 Loans System ICR	18825
@@ -415,6 +416,7 @@ Million Loan Agreements	14871
 Million Tanzania AI Loan Opens Door	19622
 Minimum Loan Size	12389
 Mobile Telephone Networks Holdings Limited Loan	10793
+Money VSLA Village Savings and Loan Association	19647
 Morocco Growth and Jobs Development Policy Loan	14627
 Multilateral Loans	7548
 Murabaha Loans	17236
@@ -434,7 +436,7 @@ Net Loans and Overdrafts	17235
 Nigeria Education Loan Fund	2536
 No. Year Loan Name of Loan Payment	19585
 Non- Performing Loans	17235
-Non-Performing Loans	11131,338,1487,2067,2213,332
+Non-Performing Loans	11131,338,1487,2067,2213,332,2258
 Non-performing Loans	11134,6101,1,21
 Non-performing Loans Net of Provisions	17257
 Nonperforming Loans	1746,15757
@@ -556,6 +558,7 @@ Ten Percent Loan Management Information System	19585
 Togocom Telecom Expansion Loan IFC	1523
 Twelve Megawatts of IT Load	1245
 Twenty-Four Megawatts of IT Load. Campus	1245
+UNBS SACCO Loan Portfolio FY2024	19712
 USD VAT WEO Non-performing Loans Net	11134
 Unconfirmed Loan Balances Appendix	14546
 Undisbursed Loan Balance	16219
@@ -577,6 +580,7 @@ Village Savings and Loans	12964
 Village Savings and Loans Association	13390
 Village Savings and Loans Association WFP World	16384
 Village Savings and Loans Associations	11900
+Viral Load Information System	19644
 Vêr Resultados Loading	16028
 WARCIP Adaptable Program Loan	15424
 WEZESHA Portal and Manual Loan Register Inconsistency	19585

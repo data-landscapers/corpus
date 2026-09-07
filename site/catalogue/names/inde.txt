@@ -30,6 +30,7 @@ AUDIT FRAMEWORK AND INDEPENDENT OVERSIGHT	3861
 AUTORITE NATIONALE INDEPENDANTE DES ELECTIONS Décision	15467
 Abbreviations CPI Consumer Price Index IMF	11286
 Abolition of Slavery and Arrival of Indentured Labourers	14742
+About Digital Identity Index The Global	19673
 About the Global Innovation Index The Global	12160,44,1,150
 About the Identity Index	1972
 About the Journal Submissions Indexing Privacy Statement	12486
@@ -246,7 +247,7 @@ Construction Input Price Index CMA Capital	2775
 Consumer Average Interruption Frequency Index	14867
 Consumer Awareness Index	5676
 Consumer HCI Human Capital Index BAAS	14897
-Consumer Price Index	2775,808,131,1883,2930,725,1882,155,135,979,559,517,1298,119,1,1032,1006,1250,257,33,8,223,813
+Consumer Price Index	2775,808,131,1883,2930,725,1882,155,135,979,559,517,1298,119,1,1032,1006,1250,257,33,8,223,813,224,83
 Consumer Price Index CSD Central Securities	15023
 Consumer Price Index Manual	11258
 Consumer Price Index Recommendations	14777
@@ -259,7 +260,7 @@ Consumer Prices Index CSOs	14857
 Consumer Recommendation Index. Regular	5676
 Coping Strategy Index	17285
 Coping Strategy Index WB World Bank	17285
-Core Government Systems Index	10785,1082,2117
+Core Government Systems Index	10785,1082,2117,5689,166
 Corner of Nationalist Road and Independence Avenue	9603,1
 Corner of Nationalist Road and Independence Avenue P.O	13527
 Corner of Nationalist and Independence Avenue Lusaka	13527
@@ -292,7 +293,7 @@ D. GOVTECH MATURITY INDEX	10785
 D. Indemnity	14730
 D. Producer Price Index	14777
 DARE Index	11935
-DARE Index Score	11935
+DARE Index Score	11935,7741
 DARE Index Score Summary	11935
 DARE Index Score. Peer Economic Development	11935
 DARE Index. Definitions	11935
@@ -340,11 +341,12 @@ Digital Africa Index	1923,4670,8081
 Digital Africa Index and Digital Policy	14674
 Digital Africa Nations and Society Index	14674
 Digital Africa Policy and Regulatory Index	14674
-Digital Citizen Engagement Index	10785,1082,2117
+Digital Citizen Engagement Index	10785,1082,2117,5689,166
 Digital Elevation Model DIDS Decadal Index	17157
 Digital Entrepreneurship Ecosystem Index	4343
 Digital Financial Inclusion Index	18503
 Digital Government Index	11867
+Digital Identity Index	19673
 Digital Infrastructure Index Economic Development Board	14819
 Digital Knowledge Economy Index	226
 Digital Life Posted By David Indeje	9547
@@ -366,14 +368,14 @@ Drought Severity Index PET Potential Evapotranspiration	17157
 Droughts’ Probability and Historical Impact Risk Index	18301
 E INDETERMINADOS	18784
 E UMA COMUNICAÇÃO SOCIAL INDEPENDENTE. REFORMA	16487
-E-Government Development Index	1353,909,248,532,190,12,290,31,55,92,38,93,130,159,872,550,5290,1370,1100,673,19,1547,81,1007,301,33,1148
+E-Government Development Index	1353,909,248,532,190,12,290,31,55,92,38,93,130,159,872,550,5290,1370,1100,673,19,1547,81,1007,301,33,1148,1628
 E-Government Development Index EPE	15512
 E-Government Development Index Score	18633
 E-Government Development Index WEF World Economic	12917
 E-Government Development Index. Chad	3565,567
 E-Government Effectiveness Index	16641
 E-Government Index	15518,1424
-E-Participation Index	10852,1726,1428,1441,187,1007,2126,5,5,74
+E-Participation Index	10852,1726,1428,1441,187,1007,2126,5,5,74,900
 E-Participation Index UN	15480
 E-government Development Index	1749,9091,4057
 E-government Index-2024 Africa Average World Average	12214
@@ -571,8 +573,8 @@ Global Competitiveness Index GDP Gross Domestic	15491
 Global Competitiveness Index13	18931
 Global Computing Power Index Assessment	15713
 Global Crypto Adoption Index	6679,2551,479
-Global Cyber Security Index	14897,100,1644
-Global Cybersecurity Index	318,1035,21,64,440,5,386,495,840,239,105,267,711,381,31,69,147,116,158,340,597,171,10,3229,419,170,84,531,541,270,388,404,1273,289,200,8,766,14,2089,58,64,1502
+Global Cyber Security Index	14897,100,1644,3010
+Global Cybersecurity Index	318,1035,21,64,440,5,386,495,840,239,105,267,711,381,31,69,147,116,158,340,597,171,10,3229,419,170,84,531,541,270,388,404,1273,289,200,8,766,14,2089,58,64,1502,397
 Global Cybersecurity Index Report. Geneva	6936
 Global Cybersecurity Index. Experts	2703
 Global Cybersecurity Index. Link	16942
@@ -593,7 +595,7 @@ Global Finance Safety Index	14997
 Global Financial Centers Index	14997
 Global Financial Centres Index	14819
 Global Food Security Index	4528,12729
-Global Gender Gap Index	789,2667,8943,2598,728
+Global Gender Gap Index	789,2667,8943,2598,728,3938,14
 Global Gender Gap Index. Boys	17870
 Global Go To Think Tank Index	17780
 Global Go To Think Tanks Index	17780
@@ -641,9 +643,9 @@ GmbH GKI Global Knowledge Index GoE	15604
 Goal Thriller Independent	2885,1650,350,49,187,653,25,474,547,1,222
 Gov Development Index	1912
 Gov Telecommunication Infrastructure Index	10785
-GovTech Enablers Index	10785,1082,2117
+GovTech Enablers Index	10785,1082,2117,5689,166
 GovTech Enablers Index GovTech Focus Areas	10785
-GovTech Maturity Index	4752,210,6607,298,4179,28,128,740,7,921
+GovTech Maturity Index	4752,210,6607,298,4179,28,128,740,7,921,1803,78,88
 GovTech Maturity Index Average GTMI	10785
 GovTech Maturity Index Components for Liberia	16949
 GovTech Maturity Index Regional Brief	11867,5075
@@ -716,14 +718,15 @@ Hirschman Index	12256
 Hlane At Independent News Eswatini	5799
 Honduras Global Cybersecurity Index	10764
 House EGDI E-government Development Index Technology	14897
-Human Capital Index	1353,540,19,8856,7,54,134,1,453,152,336,13,481,13,129,570,203,17,656,19,891,162,454,1,4,35,81,27,775,218,242,26,30,44,462,412,234,350,4,473
+Human Capital Index	1353,540,19,8856,7,54,134,1,453,152,336,13,481,13,129,570,203,17,656,19,891,162,454,1,4,35,81,27,775,218,242,26,30,44,462,412,234,350,4,473,810
 Human Capital Index Australia	15634
 Human Capital Index Hands-on Expanded Implementation	15553
 Human Capital Index Report	15447
 Human Capital Index and Sub-components Comparison	17870
+Human Capital Index for Burundi	19657
 Human Capital Index.35	10856
 Human Capital Indexes	15658,1456
-Human Development Index	3583,7421,397,124,20,15,21,5,378,975,419,599,785,155,617,4,32,111,64,659,558,24,7,316,214,346,34,79,496,158,43,128,22,78,24
+Human Development Index	3583,7421,397,124,20,15,21,5,378,975,419,599,785,155,617,4,32,111,64,659,558,24,7,316,214,346,34,79,496,158,43,128,22,78,24,735,75,118
 Human Development Index HIV	14857,2094
 Human Development Index Ranking	18911
 Human Development Index of The Gambia	16952
@@ -736,18 +739,20 @@ I-16 UN Telecommunication Infrastructure Index	10785
 I-18 UN Online Service Index	10785
 IA Global Index	15583
 IC Independence Data Openness Personal	15713
-ICT Development Index	582,213,1094,381,113,185,7,644,13,539,35,167,105,6686,660,1871,1541,536,75,33,32,1360,146,389,336,254
+ICT Development Index	582,213,1094,381,113,185,7,644,13,539,35,167,105,6686,660,1871,1541,536,75,33,32,1360,146,389,336,254,1645
 ICT Development Index ICT Development Index	17743
 ICT Development Index IDI	14836
 ICT Development Index IGF	958
 ICT Development Index IGF Internet Government	13295
-ICT Development Index Ranking	11935
+ICT Development Index Ranking	11935,7741
 ICT Development Index This Annex	17743
 ICT for Development Index	318
 IDA Human Capital Index IDP International	10964
 IDI ICT Development Index Figure	582
+IDI ICT Development Index IETF Internet	19642
 IDR Import Dependency Ratio IEBC Independent	2775
 IEC Independent Electoral Commission JCPS Justice	11218
+IEG Independent Evaluation Group	19847
 IGInnldnooebvxaal2t0io2n4 About the Global Innovation Index	10969,916
 II. External Economic Stress Index 56 III	17503
 IMD Smart City Index	9206
@@ -830,11 +835,12 @@ ITU Global Cybersecurity Index. Internet	5119
 ITU Global ICT Development Index	14674
 ITU ICT Development Index	3410,340,7014,3910
 ITU's Global Cybersecurity Index	2464,780,1566,7107,3
+ITU- Global Cybersecurity Index	19642
 ITU’s Global Cybersecurity Index	10785,6157
 ITU’s Global Cybersecurity Index Penetration of ICT	6946
 IUT Network Readiness Index	16641
 IV OPERATIONAL INDEPENDENT POWER PRODUCER	12399
-Ibrahim Index of African Governance	5879,4880,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,3012,1473
+Ibrahim Index of African Governance	5879,4880,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,3012,1473,2679,1,169,14
 Ibrahim Index of African Governance LACC Liberia	17139
 Ibrahim Index of African Governance. III.3.3. Ejes	16898
 Identification Personnel NRI Network Readiness Index	15583
@@ -858,7 +864,7 @@ Indecent Content	18667,8
 Indecis Q56 Pensez-vous	13390
 Indecis Q57 Pensez-vous	13390
 Indecisive	10841
-Indeed	27,209,530,23,210,162,51,151,449,213,908,72,432,167,178,138,207,312,108,301,35,87,393,370,159,497,88,357,104,12,429,43,4,45,207,208,52,347,437,256,9,344,321,661,189,212,4,45,1,67,10,15,3,22,59,15,5,5,2,61,22,51,32,3,4,14,1,149,6,114,101,20,18,102,244,7,44,42,168,159,10,30,72,147,367,85,2,225,47,73,10,64,220,535,450,57,21,116,75,480,63,93,3,30,18,36,21,240,270,195,468,20,30,25,15,21,12,105,47,220,266,2,128,127,234,197,4,13,137,9,11,295,161,2,304,11,77,194,23,13,47
+Indeed	27,209,530,23,210,162,51,151,449,213,908,72,432,167,178,138,207,312,108,301,35,87,393,370,159,497,88,357,104,12,429,43,4,45,207,208,52,347,437,256,9,344,321,661,189,212,4,45,1,67,10,15,3,22,59,15,5,5,2,61,22,51,32,3,4,14,1,149,6,114,101,20,18,102,244,7,44,42,168,159,10,30,72,147,367,85,2,225,47,73,10,64,220,535,450,57,21,116,75,480,63,93,3,30,18,36,21,240,270,195,468,20,30,25,15,21,12,105,47,220,266,2,128,127,234,197,4,13,137,9,11,295,161,2,304,11,77,194,23,13,47,31,6,27,169,12
 Indeed NBR	15023
 Indefeasible Right of Use	7014,5239,6992
 Indefeasible Rights of Use	4676,10289
@@ -909,7 +915,7 @@ Independence Avenue Emmanuel Church Zanele Mbeki	13046
 Independence Avenue Gaborone	12559
 Independence Avenue Soweto Market	13046
 Independence DPOs	13381
-Independence Day	2968,1204,992,563,624,1750,3231,1293,1249,2411,2406,266,104,79
+Independence Day	2968,1204,992,563,624,1750,3231,1293,1249,2411,2406,266,104,79,501
 Independence Day Anniversary	13956
 Independence Day Celebrations. Page	14835
 Independence Day President His Highness Sheikh	18759,784
@@ -939,7 +945,7 @@ Independence of Seychelles	19060
 Independencia	16898
 Independencia Energética	17399
 Independency	16863
-Independent	2423,286,2044,240,463,209,11,711,45,31,353,169,162,26,132,132,529,17,105,213,164,163,208,30,257,276,74,127,60,59,543,51,27,453,213,1,9,115,3,22,24,116,12,277,106,13,123,30,48,7,88,95,261,144,52,501,42,192,174,1619,40,29,514,1170,7,3,5,54,41,75,77,623,27,564,222,454,252
+Independent	2423,286,2044,240,463,209,11,711,45,31,353,169,162,26,132,132,529,17,105,213,164,163,208,30,257,276,74,127,60,59,543,51,27,453,213,1,9,115,3,22,24,116,12,277,106,13,123,30,48,7,88,95,261,144,52,501,42,192,174,1619,40,29,514,1170,7,3,5,54,41,75,77,623,27,564,222,454,252,438,2,138
 Independent ARCEP CEO	19214
 Independent Administrator	170,17723,546
 Independent Advisory Board of Experts	4528,7984
@@ -1003,7 +1009,7 @@ Independent Directors Mr. Eric Langat	6946
 Independent Dispute Resolution	12597
 Independent Economic Regulator	11236
 Independent Editor	11909
-Independent Electoral Commission	2541,891,1933,276,555,846,2272,1,60,687,252,904,26,742,68,502,10,86,101,3,4131,64,22,132
+Independent Electoral Commission	2541,891,1933,276,555,846,2272,1,60,687,252,904,26,742,68,502,10,86,101,3,4131,64,22,132,2564
 Independent Electoral Commission Adv	12652
 Independent Electoral Commission IEC	16951
 Independent Electoral Commission Mr. Mphasa Mokhochane	12652
@@ -1016,9 +1022,9 @@ Independent Electricity Distribution Network	12062
 Independent Electricity Distribution Network IE Ikeja	12062,6124,31
 Independent Engineer	5793,13094
 Independent Environmental Audit	1988
-Independent Evaluation	16921
+Independent Evaluation	16921,2926
 Independent Evaluation Board	13226
-Independent Evaluation Group	10779,531,2540,1038,2008
+Independent Evaluation Group	10779,531,2540,1038,2008,2951
 Independent Evaluation Mechanism	18305
 Independent Evaluation Office BSG Budget Support	11863
 Independent Evaluation and Verification Panels	1988
@@ -1030,6 +1036,7 @@ Independent Financial Advisors Fincent Financial Advisory	4896
 Independent Financial Advisors Settlement	4896
 Independent Fiscal Councils	1828
 Independent Government Institute Implementing Agency Country	4653
+Independent Grids and Off-grid Solutions	19646
 Independent Human Rights Commission	16840
 Independent IT Security Audit	14996
 Independent Information Commission	5244
@@ -1055,6 +1062,7 @@ Independent Monitors	18464
 Independent National Commission	14862,2081,27,326
 Independent National Electoral Commission	2670,3452,567,81,406,572,692,547,403,659,5,200,317,558,735,5766,304,54
 Independent National Electoral Commission Local Government	19541
+Independent New ID	19815
 Independent News	2885,1650,350,49,187,653,25,474,547,1,222,5934
 Independent News Business Desk	11048
 Independent News Eswatini	2885,1650,350,49,187,653,25,474,547,1,222
@@ -1077,11 +1085,12 @@ Independent Police Investigative Directorate	7096,4183
 Independent Policing Oversight Authority	10313,1997,2236
 Independent Population Estimates Compared	16921
 Independent Post Reviews	19245
-Independent Power Producer	11549,684,166,661,5477,314
+Independent Power Producer	11549,684,166,661,5477,314,812,14
 Independent Power Producer CEC	15659
+Independent Power Producer Integrated Resources Planning	19646
 Independent Power Producer KWH	12358
 Independent Power Producer LLK	18322
-Independent Power Producers	408,310,5774,4723,13,1005,166,570,85,6,63,501,1121,1238,995,1559,258
+Independent Power Producers	408,310,5774,4723,13,1005,166,570,85,6,63,501,1121,1238,995,1559,258,882,54
 Independent Power Producers Four	11228
 Independent Power Producers Independent Power Producers	9458
 Independent Procurement Review	11855
@@ -1116,7 +1125,7 @@ Independent Tribunal	2307
 Independent Valuation	4896
 Independent Verification Agency	6539,4290,2563,2301,945
 Independent Verification Agency KPI Key Performance	17458
-Independent Verification Agent	6539,5849,3414,3440,213
+Independent Verification Agent	6539,5849,3414,3440,213,380
 Independent and Pluralistic Media	17017
 Independente	18772,124
 Independentemente	2953,7824,653,84,6,41,8,449,835,3236,33,2642
@@ -1133,7 +1142,7 @@ Indetermin	10847
 Indeterminé BOUCLE DU MOUHOUN	10847
 Indeterminé Total Région	10847
 Indeterminé ZOUNDWEOGO	10847
-Index	10,11,215,377,176,415,8,31,642,87,722,81,939,2879,255,89,725,101,1128,583,285,1005,4,80,4,117,7,3,173,46,60,28,131,152,113,80,101,21,1,10,40,71,153,1,45,9,119,13,5,4,34,21,43,34,170,279,364,12,2,18,13,12,28,76,224,65,111,7,203,43,427,25,108,323,247,247,21,71,38,38,242,285,16,182,492,45,21,7,2,86,60,60,346,240,141,25,81,368,174,24,211,472,161,67,57,18
+Index	10,11,215,377,176,415,8,31,642,87,722,81,939,2879,255,89,725,101,1128,583,285,1005,4,80,4,117,7,3,173,46,60,28,131,152,113,80,101,21,1,10,40,71,153,1,45,9,119,13,5,4,34,21,43,34,170,279,364,12,2,18,13,12,28,76,224,65,111,7,203,43,427,25,108,323,247,247,21,71,38,38,242,285,16,182,492,45,21,7,2,86,60,60,346,240,141,25,81,368,174,24,211,472,161,67,57,18,91
 Index A. REQUEST FOR PROPOSAL FORM	12400
 Index All Students	13556
 Index Country Policy and Institutional Assessment	643
@@ -1157,6 +1166,7 @@ Index Maturity Digital-AI	17329
 Index Mauritanie Mali Sénégal Tunisie Telecommunication	17860
 Index Mo Ibrahim	19220
 Index Mundi	12786
+Index NDP National Development Plan NGOs	19642
 Index NGO Non-governmental Organization NPV Net	11560
 Index NRI	19406
 Index Non-Governmental Organisation Near Real-Time National	10763
@@ -1173,6 +1183,7 @@ Index ToC Theory of Change TTL Task	13861
 Index UN	16942
 Index for Q4	16186
 Index of Economic Freedom	13358,6174
+Index of Industrial Production Q1	19743
 Index-linking	12233
 Index. Efforts	15553
 Index. Estes	18767
@@ -1279,6 +1290,7 @@ Libya SPI Standardized Precipitation Index SRI	17157
 Libya’s Human Development Index	16902
 Licensing and Independent Audit	16853
 Liechtenstein Global Cybersecurity Index	10764
+Local Online Index	19751
 Local Online Service Index	1912
 Local Online Services Index	14006
 Logistics Performance Bank’s Logistic Performance Index	1828
@@ -1306,6 +1318,7 @@ Maroela Media RFI4 and Independent	13461
 Mass Index BMMS Better Medication Management	2775
 Master Index HIS Health Information System	396
 Master Patient Index	396,12062,111,12,3614
+Mastercard Index of Women Entrepreneurs	19677
 Maturity Index	4612,6957,2415
 Maturity Index No Activity FY	1204
 Maturity Index111	17870
@@ -1322,6 +1335,7 @@ Migration Rates Food Price Index Table	17157
 MilalarkreatnsdotphheisGtilcoabtaiolnInnovation Index	12205
 Mme ONDZIE INDERY	15780
 Mo Ibrahim Foundation’s Ibrahim Index of African	11863
+Mo Ibrahim Index	19847
 Mo Ibrahim Index of African Governance	14742,2209
 Mobile Communications HDI Human Development Index	17862
 Mobile Connectivity Index	2454,2980,457,4335,1780,6479
@@ -1343,6 +1357,9 @@ Multidimensional Poverty Index. NISR	12403
 Multidimensional Poverty Index. World Development	15244
 Multidimensional Vulnerability Index	7760,11167,133,121
 Myanmar Global Cybersecurity Index	10764
+Myers' Blended Index	19715
+Myers' Blended Index and UN Joint	19715
+Myer’s Blended Index of Age Preference	19715
 NAMIBIA PRODUCER PRICE INDEX BULLETIN-SECOND QUARTER	11152
 NATIONAL ASSEMBLY ELECTIONS Independent Electoral Commission	12652
 NATIONALE INDEPENDANTE	15350
@@ -1369,7 +1386,7 @@ National Audit Chamber of Sudan Independent Auditor	15169
 National Communications Authority Index	582
 National Consumer Price Index	13053,2138
 National Consumer Satisfaction Index	5676
-National Cyber Security Index	5780,6492,181,892,2
+National Cyber Security Index	5780,6492,181,892,2,6295
 National Cybersecurity Index	15120
 National Cybersecurity Index Company NCR National	14897
 National Food Security Index	4528,7984
@@ -1384,9 +1401,10 @@ Nations Unies Index	15512
 Nations and Society Index	14674
 Nature Indemnisable	15901
 Neasow Davis Independent Consultant Report Writing	17260
-Network Readiness Index	11195,662,476,341,2078,1889,1219,10
+Network Readiness Index	11195,662,476,341,2078,1889,1219,10,1881
 Network Readiness Index Country Comparison	11857
 Network Readiness Index Model	11857
+Network Readiness Index. Portulans Institute	19645
 Networked Economy Index	18887
 Networked Readiness Index	15512,30,50
 Networked Readiness Index PSDMA	15512
@@ -1450,6 +1468,7 @@ Oti Region. Independent	16511
 Overail Index	15901
 Overall Engagement and Index Trends	11131
 Overall Producer Price Index	11152
+Overall Uganda ICT Development Index	19642
 Owners Engineer and Independent Engineering	15870
 Oxford Government AI Readiness Index	7588,422,1564
 Oxford Insights AI Readiness Index	3902
@@ -1535,7 +1554,7 @@ Proyecto de Indemnización	4209
 Proyecto de Reforzamiento INDEFOR-AP	4209
 Príncipe. Praça de Independência	19014
 Public Independent Conciliator	15469,252
-Public Service Delivery Index	10785,1082,2117
+Public Service Delivery Index	10785,1082,2117,5689,166
 Pulse Internet Resilience Index	18633
 Purpose CPI Consumer Price Index CPIS	14777
 Purpose CPI Consumer Price Index CSIOs	16935
@@ -1565,6 +1584,7 @@ RIVER NILE STATE MULTIDIMENSIONAL POVERTY INDEX	15244
 RMIPPPP Risk Mitigation Independent Power Producer	11228
 ROI Regulatory Outcome Index RSI Regulatory	12256
 ROLE OF THE INDEPENDENT BROADCASTING	16872
+RPI and Q2 Index of Industrial	19743
 RPPI Residential Property Price Index SARB	11286
 RSF Index	13929,185
 RSF World Press Freedom Index	14114
@@ -1606,7 +1626,7 @@ Reports Gender Development Index UN Human	11004,960
 Representative of Independent National Electoral Commission	11129
 Reputation Index Survey	16217
 Research Library Databases ABCD Indexed	12467
-Residential Property Price Index	11286
+Residential Property Price Index	11286,8457
 Residential Property Price Index Practical Compilation	11286
 Residential Property Price Index Residential	11286
 Resource Governance Index	10779,6163
@@ -1624,7 +1644,7 @@ Rwanda Global Cybersecurity Index	10764
 Rwanda’s AI Readiness Index	4126
 SAIDI System Average Interruption Duration Index	18614
 SAIFI System Average Interruption Frequency Index	18614
-SDG Index	10759,76,2,1,74,56,902,16,1,1,1,265,186,1,11,1,135,4801
+SDG Index	10759,76,2,1,74,56,902,16,1,1,1,265,186,1,11,1,135,4801,2364,169,14
 SDG Index Score Fig	15725
 SINNAR STATE MULTIDIMENSIONAL POVERTY INDEX	15244
 SME Confidence Index	9881
@@ -1797,6 +1817,7 @@ UN Human Capital Index	10785
 UN Human Development Index	3584,8318
 UN Independent Expert	3109,474
 UN Independent International Scientific Panel	5074,1859,179,24,5624
+UN Joint Score Index	19715
 UN Multidimensional Poverty Index	18910
 UN Online Service Index	10785
 UN Open Government Data Index	12453,892
@@ -1818,6 +1839,8 @@ UN’s EGovernment Development Index	16876
 UN’s Human Development Index	17870,13,1050
 UN’s Independent International Scientific Panel	7112
 US-Kenyan Health Cooperation Framework. Indeed	7711
+Uganda Self-Reliance Index	19747
+Uganda's SDG Index	19803
 Under the Risk Mitigation Independent Power Producer	11248
 Union GCI Global Cybersecurity Index GDP	14897
 United Arab Emirates Global Cybersecurity Index	10764
@@ -1881,9 +1904,10 @@ Work HCI Human Capital Index ICT	16876
 Work Trend Index Annual Report	16266
 World Bank Adequate Housing Index	8087
 World Bank Digital Adoption Index	12659
+World Bank Doing Business Index	19642
 World Bank Ease of Doing Business Index	4528,7984
 World Bank EdTech Readiness Index	18564
-World Bank GovTech Maturity Index	2662,2090
+World Bank GovTech Maturity Index	2662,2090,15087
 World Bank Group Independent Evaluation Group	16960
 World Bank Human Capital Index1	14897
 World Bank Worldwide Governance Index	18772
@@ -1905,7 +1929,7 @@ World Press Freedom Index. Somali	15007
 Worldwide Governance Index	18767,5
 Worldwide Governance Index. Estes	18772
 X54 Indemnités	18032
-Years of Independence	18879
+Years of Independence	18879,775
 ZAMBIA’S ACCESS TO CREDIT INDEX SCORE	5247
 ZAMBIA’S BUSINESS CONFIDENCE INDEX SCORE	5247
 ZAMBIA’S EASE OF TRADE INDEX SCORE	5247

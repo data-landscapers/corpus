@@ -115,7 +115,7 @@ ST Dédougou	15550
 ST Engineering	5528
 ST Engineering and Airbus Defence and Space	6482
 ST Expand the CR and ID	10775
-ST Foundation	13080,15,5235,175
+ST Foundation	13080,15,5235,175,1220
 ST ID	10765
 ST Int’l	18787
 ST Koudougou	15550
@@ -153,6 +153,7 @@ St John of God Hospitaller	13040
 St Joseph Primary School	13097
 St Joseph’s Convent Secondary School	4619
 St Kitts and Nevis	18349
+St Lawrence University	19641
 St Louis Street	14847
 St Lukes	1554
 St Martin’s Press	11156

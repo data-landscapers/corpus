@@ -42,6 +42,7 @@ Benchmarking Congo’s Petroleum Import Cost Gasoline	1828
 Body IMPORT ON FRANCO VALUTA DIRECTIVE	14124
 Border Compliance Import	18109
 Buyer’s Credit Export Import Bank of India	18378
+C. Principal Imports	19823
 CATEGORIES LEVY IMPOSED	18541
 CBE Important	11130
 CBOS Launches Electronic Integration of Import and Export	15051
@@ -117,7 +118,7 @@ Description Rate Imported	18450
 Diesel Coal Imports Nuclear	11953
 Diesel Imports Nuclear	11953
 Different Country Contexts Importantly	9331
-Direction Générale des Impots	15625,1
+Direction Générale des Impots	15625,1,4221
 Direction Générale des Impots Avant	15625,1
 Direitos de Importação	18798,55
 Documentary Compliance Import	18109
@@ -222,7 +223,7 @@ IMPORTANCE OF DIGITAL PUBLIC PLATFORMS	17870
 IMPORTANCE OF DIGITAL SKILLS	17870
 IMPORTANCE OF INTER-MINISTERIAL COORDINATION	1243
 IMPORTANCE OF POST PROJECT STRENGTHENING INTERVENTION	16963
-IMPORTANT	1939,4493,522,5405,826,2440,2614
+IMPORTANT	1939,4493,522,5405,826,2440,2614,1549
 IMPORTANT ADVISORY Schools	14670
 IMPORTANT CONTRIBUTION TO EMPLOYMENT Employing	418
 IMPORTANT Ces	6954
@@ -233,6 +234,7 @@ IMPORTANT LINKS Office of The President Judiciary	16866,7,15,210
 IMPORTANT NOTICE	1009,10204,834
 IMPORTANT PRIVACY NOTICE	18230
 IMPORTANT REVENUE NOTICE	17258
+IMPORTANT TELEPHONE AND EMERGENCY CONTACTS	19772
 IMPORTANTE	11532
 IMPORTATION	15670,1815
 IMPORTATION DE BIENS	17485
@@ -247,6 +249,7 @@ IMPOSITIONS AYANT UNE INCIDENCE SUR	16747
 IMPOSSIBLE DE VALIDER MON FORMULAIRE	16629
 IMPOSTOS E TAXAS	11532
 IMPOSTOS E TAXAS NA GUINÉ-BISSAU	11532
+IMPOT A PAYER	19850
 IMPOT SUR LE REVENU DES CAPITAUX	16047
 IMPOT SUR LE REVENU DES PERSONNES	16020
 IMPOT SUR LE REVENU DÉS PERSONNES	15999
@@ -288,16 +291,19 @@ Impoh-Manianga	15379
 Imponderáveis	11569
 Impondo-se	12770
 Impor	11374,4103,3301
-Import	236,1592,947,1645,303,524,408,635,133,1474,2260,699,275,3,359,31,350,7,1,336,38,102,18,24,96,546,11,132,683,256,402,7,185,42,225,12,377,104,734,419,270,34,203,19,78,132,1065,170,930,70
+Import	236,1592,947,1645,303,524,408,635,133,1474,2260,699,275,3,359,31,350,7,1,336,38,102,18,24,96,546,11,132,683,256,402,7,185,42,225,12,377,104,734,419,270,34,203,19,78,132,1065,170,930,70,221
 Import Bank	4401,5529
 Import Bank of China	5337
 Import Category	14985
+Import Consignments Inspected Over the Years	19712
 Import Control Act	6921,12681
+Import Cost	19823
 Import Cover	17235
 Import Cover Annual Headline Inflation Currency	11131
 Import Declaration Fee	7548
 Import Declaration Forms	7695
 Import Dependency and Self-Sufficiency Ratios	2775
+Import Duties	19786
 Import Duties for Fish and Fishery Products S	19602
 Import Duty	10856,4129,4547,70
 Import Duty Collections	2775
@@ -305,6 +311,7 @@ Import Duty Exemption Certificate	11866
 Import Fee	18450
 Import ICS	12358
 Import ICT Equipment	2913
+Import Inspection	19712
 Import Monitoring and Domestic Monitoring Department	1988
 Import NHIL	236
 Import Permit	14753,725,3063
@@ -380,7 +387,7 @@ Important Important Very Important Graph	12445
 Important Indian	13562
 Important Limitations	12318
 Important National Addressing System of Kenya	12149
-Important Note	4896,4089,10053
+Important Note	4896,4089,10053,763
 Important Note Only	14235
 Important Payment Systems SDF Small and Medium	17235
 Important Person	12663
@@ -422,22 +429,24 @@ Imported Vehicle Licensing Controls From Customs	16631
 Imported Vehicles Association	14753,47
 Importer	11976,2867,635,192,2762,177,379
 Importer Registration No	14883
-Importers	3651,1596,243,169,4244,2730,2103,291,465,1875,918,256,352
+Importers	3651,1596,243,169,4244,2730,2103,291,465,1875,918,256,352,772
 Importers and Exporters AEO SAQ Bonded Warehouse	12454
 Importers and Exporters Association of Ghana	14216
 Importes	16898
 Importing	12110
 Importing Export Transmission Distribution	12399
-Imports	236,482,2057,808,1664,408,1667,3354,300,160,122,266,350,7,1,71,303,90,205,79,412,66,424,30,306,968,61,88,1290,10,346,270,34,300,22,246,815,165,54,286,28,120,67,201
+Imports	236,482,2057,808,1664,408,1667,3354,300,160,122,266,350,7,1,71,303,90,205,79,412,66,424,30,306,968,61,88,1290,10,346,270,34,300,22,246,815,165,54,286,28,120,67,201,473,111
 Imports Cap	6921
 Imports Commodities	16935
 Imports Control Act	19602
 Imports Eskom1 IPPs1 Imports Exports	11953
+Imports Inspection	19712
 Imports JEP	16978
 Imports Nimba	16978
 Imports Nuclear	11953
 Imports Nuclear Day	11953
 Imports Outpace Exports... Tunisia Industrial Investment	7322
+Imports Part V	19627
 Imports Partner	16935
 Imports Partner and Percentage	16935
 Imports Permits Facilitated	12977
@@ -460,7 +469,7 @@ Importância da Regulamentação da Inteligência Artificial	2816
 Importância de Fatura	12018
 Importé Local Primaire Secondaire Tertiaire Durable	16708
 Importé Produits	16708
-Impose	961,11224,490,1438,2745,2199
+Impose	961,11224,490,1438,2745,2199,607
 Impose Administrative Fees	17249
 Impose Administrative Penalties	17249
 Impose Penalty	17249
@@ -517,6 +526,7 @@ Impoundment	19214
 Includes Importation of Telecommunications Equipment	15283
 India's Imports	13744
 India’s Imports	17240
+Inspection and Clearance of Imports	19712
 International Importance	1988,15126
 Isenção de Direito de Importação	16022
 Isenção de Direitos de Importação	16022
@@ -658,6 +668,7 @@ S1A IMPOTS ET TAXES Autres	18032
 SANITAR. PROFESORES MAESTROS ASIMILADOS MEDIOS Importe	4209
 SECRETARIAT GENERAL DIRECTION GENERALE DES IMPOTS	15497
 SENEGAL India’s Export India’s Import	18378
+SERVICES DEPARTMENT STANDARDS DEVELOPMENT DEPARTMENT IMPORTS	19712
 SOCIETES ET AUX IMPOTS SUR	16047
 SUBSTITUTE IMPORTED ITEMS	14004
 Sanitary Import Permit	15478
@@ -696,9 +707,11 @@ Sul. Importa	5392
 Supply Chain Insecurity and Poor Verification of Imported	6936
 Supply Sources Nuclear Imports Coal Diesel	11953
 Sustainable Fodder Import Policy MoET	17157
+System Wide Important Payment System	19664
 Systematically Important Payment Systems	17235
 Systemically Important Financial Market Infrastructures	4103
-Systemically Important Payment Systems	12286,251,4698
+Systemically Important Payment System STP	19664
+Systemically Important Payment Systems	12286,251,4698,2429
 T85 IMPOT SUR LE BENEFICE	17833
 TES IMPOSSIBLE D'ÊTRE EN PRIVÉ	13300
 TOUS LES IMPOTS AUXQUELS JE SUIS	16629

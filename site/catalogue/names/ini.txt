@@ -38,6 +38,7 @@ Addressing the Unaddressed Initiative	16915
 Admin Data for Tax Justice Initiative	10335
 Adolescent Girls Initiative	11469
 Adolescent Mothers’ Education Initiative	11916
+Advance Regional Satellite Initiative Nairobi	19779
 Advancing Global Digital Governance Initiatives Digital	12241
 Advocacy and Development Initiative Kenya Data Controller	7167
 Advocacy and Development Initiative Kenya Data Processor	7167
@@ -308,7 +309,7 @@ DigiCivic Initiative Executive Director	10211
 Digicivic Initiative	9082,334
 Digital Citizenship and Online Safety Initiative	9829
 Digital Competency Initiatives	11918
-Digital Convergence Initiative	10991,142,9,14,2309
+Digital Convergence Initiative	10991,142,9,14,2309,6243
 Digital Convergence Initiative DEEP Data	11133
 Digital Convergence Initiative Data Protection Impact	11156
 Digital Democracy Initiative European Commission	1070
@@ -343,6 +344,7 @@ District Data Early Initiation of Breastfeeding IYCF	18441
 District Early Initiation	18441
 Donor-Specific Initiatives	15845
 Dr. Monica Pinilla-Roncancio Initiative	15244
+Draft Initial	19801
 Drylands Learning and Capacity Building Initiative Data	7167
 Défense VI.3.6 Initiative	13341
 E-Government Initiatives	15629,1510
@@ -411,6 +413,7 @@ European Citizens’ Panels European Citizens' Initiative	9067
 European Initiative for Sustainable Cocoa	15951
 European Payments Initiative	9832
 European Union Policy and Regulation Initiative for Digital	1264
+European Union's Africa Regional Teachers' Initiative	19657
 European Union-financed Africa Connect Initiative	13331
 Executive Director of Tunani Initiative	9116
 Exports for Employment Initiative FOR IMMEDIATE RELEASE	14890
@@ -423,14 +426,16 @@ FOCUS AREAS RECOMMENDED INITIATIVES TIMELINE RESPONSIBLE	11857
 FOCUS RECOMMENDED INITIATIVES TIMELINE RESPONSIBLE IMPACT	11857
 FORMATION INITIALE Mise	1896
 FTD. Initiative	10327
-Fast Track Initiative	978
+Fast Track Initiative	978,18857
 Fast Track Initiative Project Implementation Unit	18754
 Fast-Track Initiatives	12529
 Finance Initiative	10718,2623
 Finance Initiatives PKI Public Key Infrastructure	14965
 Financial Inclusion Global Initiative	205
+Financial Inclusion Initiatives	19650
 Financial Inclusion Initiatives for Women	940
 Financial Literacy Initiatives	7763
+Financial Management System IPOs Initial Public	19633
 Fisheries Transparency Initiative	10112,8193
 Fisheries Transparency Initiatives	18950
 Flagship Initiatives	4528,7916,68,1031
@@ -518,6 +523,8 @@ Global Recovery Initiative	19220
 Global Security Initiative	18479
 Go Girls Initiative	18621
 GoGirls ICT Initiative	18692
+Golden Posts Initiative	19728
+Golden Posts Initiative Championed	19728
 Google Africa Initiative	16915
 Google News Initiative	13461
 Google News Initiative’s Emerging News Voices	11308
@@ -526,6 +533,7 @@ Gouvernement. Initiative	17824
 Gouvernement...........................25 VI.3.2 Initiative	13341
 GovStack Initiative	6297
 GovTech Global Initiative	15553
+Government Initiative	19711
 Government Initiative Timeline	12961
 Government Initiatives	14830,2145,2599
 Government Initiatives SN Description The Judiciary	14830
@@ -534,6 +542,7 @@ Government Town Hall Initiative	17320
 Green AI Initiatives Efforts	12675
 Green Legacy Initiative	11664,1,568
 Green Press Initiative	10977
+Green Sites Initiative	19728
 Green Village Initiative	15578,471
 Grupo de Amigos da Iniciativa	11564,7394
 Guest University Initiative	15249
@@ -569,6 +578,7 @@ ICT Blueprint. Initiated	14750
 ICT Enablement Initiative	12731
 ICT Initiative	12731,2985
 ICT Initiatives	19533
+ICT Initiatives Support	19641
 ICT Initiatives and Projects	14851
 ID Initiative	6111
 ID4D Initiative	6539,4175,4804
@@ -709,6 +719,7 @@ Initial Assessment	3058
 Initial B	13037
 Initial Birth Certificates	12496
 Initial Birth Registation Current	12496
+Initial Budget	19712
 Initial C	13037
 Initial Capital Requirements	12542
 Initial Climate	14158
@@ -789,10 +800,11 @@ Initializing	11548,5626
 Initializing... Bienvenue	18363
 Initializing... ECOWAS	16594,786
 Initializing... Welcome	17221
-Initially	1246,15,144,444,264,644,346,680,349,72,359,113,220,30,51,517,206,503,502,346,695,574,372,838,372,64,797,2,3,7,54,23,110,169,2,1,20,427,277,34,47,61,3,211,9,43,9,22,73,6,535,307,113,27,60,2,41,334,196,443,327,162,6,542,48,668,773,3,48,53,52,141,73,576,110,649,100,44,428,170,178
+Initially	1246,15,144,444,264,644,346,680,349,72,359,113,220,30,51,517,206,503,502,346,695,574,372,838,372,64,797,2,3,7,54,23,110,169,2,1,20,427,277,34,47,61,3,211,9,43,9,22,73,6,535,307,113,27,60,2,41,334,196,443,327,162,6,542,48,668,773,3,48,53,52,141,73,576,110,649,100,44,428,170,178,69,37
+Initially EMIS	19635
 Initially the SRD	2307
 Initials	11276
-Initiate	958,246,573,2084,265,722,6294,120,3,1091,43,681,15,200,25,600,853,4,220,93,383,240,3,1295,131,15,1319,455,644
+Initiate	958,246,573,2084,265,722,6294,120,3,1091,43,681,15,200,25,600,853,4,220,93,383,240,3,1295,131,15,1319,455,644,89
 Initiate Regular Exchange of Information Among MACs	17011
 Initiate Tax Policy	17011
 Initiate the Security	12512
@@ -811,7 +823,7 @@ Initiation Développement Data Design Agile Sécurité	19221
 Initiation of Amendments Any	13948
 Initiation of Criminal Cases	18595
 Initiation of Gridlock Resolution	12364
-Initiative	395,218,176,181,468,116,228,1706,116,106,34,127,236,19,43,132,619,119,56,230,70,188,1,34,52,376,157,14,183,413,353,755,326,277,293,673,617,50,213,395,10,156,69,17,114,3,676,8,122,388,116,170,49,12,287,379,58,89,148,41,191,27,5,123,80,34,288,20,7,111,111,68,3,152,30,193,121,3,171,32,33,8,8,46,36,27,107,1,2,10,123,53,43,146,27,67,180,110,152,2,70,178,14,26,67,54,6,84,12,18,8,201,126,104,228,42,3,194,33,8,11,16,7,49,1,124,34,3,51,2,1,22,14,5,65,11,5,4,8,21,9,3,61,280,77,184,48,145,164,12,13
+Initiative	395,218,176,181,468,116,228,1706,116,106,34,127,236,19,43,132,619,119,56,230,70,188,1,34,52,376,157,14,183,413,353,755,326,277,293,673,617,50,213,395,10,156,69,17,114,3,676,8,122,388,116,170,49,12,287,379,58,89,148,41,191,27,5,123,80,34,288,20,7,111,111,68,3,152,30,193,121,3,171,32,33,8,8,46,36,27,107,1,2,10,123,53,43,146,27,67,180,110,152,2,70,178,14,26,67,54,6,84,12,18,8,201,126,104,228,42,3,194,33,8,11,16,7,49,1,124,34,3,51,2,1,22,14,5,65,11,5,4,8,21,9,3,61,280,77,184,48,145,164,12,13,171
 Initiative Africaine	18972
 Initiative Africaine APAI	18926
 Initiative Another	12354
@@ -876,7 +888,7 @@ Initiative. Dr. Amina Msengwa Salum Kassim	19554
 Initiative. The BRI	16870
 Initiative.21	11964
 Initiative3	18931
-Initiatives	789,110,539,376,888,368,395,1301,478,1093,453,3,143,239,138,45,1,151,241,215,54,871,370,411,516,49,474,7,123,134,156,3,6,84,6,102,525,11,51,29,38,224,4,162,68,9,47,175,257,43,77,24,249,20,13,32,28,43,110,78,36,307,737,131,75,19,493,46,219,1,188,35,24,86,209,371,15,211,1,8,15,66,24,4,41,7,329,84,125,300,4,19,83,77,123,325,45,688,1,299,13,1,21,21
+Initiatives	789,110,539,376,888,368,395,1301,478,1093,453,3,143,239,138,45,1,151,241,215,54,871,370,411,516,49,474,7,123,134,156,3,6,84,6,102,525,11,51,29,38,224,4,162,68,9,47,175,257,43,77,24,249,20,13,32,28,43,110,78,36,307,737,131,75,19,493,46,219,1,188,35,24,86,209,371,15,211,1,8,15,66,24,4,41,7,329,84,125,300,4,19,83,77,123,325,45,688,1,299,13,1,21,21,63,3
 Initiatives Activities	17011
 Initiatives CAMPAIGN Co-investment Public	12512
 Initiatives CNDRA Center for National Documents and Records	16860
@@ -988,6 +1000,7 @@ Management DE4A Digital Economy for Africa Initiative	16876
 Mapping of Data Initiatives	18529
 Mauritius Brain Gain Initiative	14824
 Meet the Toshikas Initiative	12376
+Mega Solar Initiative	19663
 Mer ITIE Initiative	17907
 Merit and Excellence Initiative	14748
 Meta-Supported Initiatives for Data Protection	6544
@@ -1017,6 +1030,7 @@ N Initiative	18104
 N Key Initiatives Due	17364
 N. FOCUS AREA RECOMMENDED INITIATIVES PS-1	11857
 N. FOCUS AREA RECOMMENDED INITIATIVES Timeline	11857
+NATIONAL ICT INITIATIVES SUPPORT PROGRAMME	19641
 NCA Review of Initial Overview NCA Research	236
 NCAI Description of Change Initial	16212
 NFC. Initially	12000
@@ -1040,7 +1054,7 @@ National E-Invoicing Initiative. Officials	7746
 National Enterprise Development Initiative	17228
 National Foundation Models Development Initiative	15713
 National Health Sector Renewal and Investment Initiative	18163
-National ICT Initiatives Support Program	2676
+National ICT Initiatives Support Program	2676,16966,18,47
 National ID Registration Initiative for Internally Displaced	15222
 National Initiative	17260
 National Initiative for Civic Education	12291,2538
@@ -1150,6 +1164,7 @@ Paradigm Initiative’s Digital Rights Academy	7101
 Paradigm Initiative’s LONDA	5215
 Paradigm Leadership Support Initiative	11866
 Paradise Foundation Initiative PFM	16951
+Parish Development Model Initiatives ICT Job	19709,82,3
 Parties Involved Date Investigation Was Initiated	17114
 Partnership Initiatives	19555
 Partnerships Initiate	4528
@@ -1333,10 +1348,12 @@ Si Initial Training Upskilling	1885
 Sierra Leone Extractive Industries Transparency Initiative	18439,3
 Signature Initiatives	14819
 Signpost Initiative. Journalists	15342
+Sites Initiative	19728
 Skills Phase Strategic Initiative Identified Gaps	14997
 Small Island Development States. UT and INIDA	15552
 Smallholder Farmers and Fishers Initiatives	7763
 Smart Bangladesh Initiative	10852
+Smart Botswana Initiatives	19651
 Smart Market Initiative	7254
 Smart Start Initiative	15138
 Soil Initiative for Africa	14818
@@ -1361,7 +1378,7 @@ Startup Initiatives	12376
 State of Eritrea Signed the Belt and Road Initiative	13983
 Strategic Business Initiatives	2552
 Strategic Initiative	12759,551,1687
-Strategic Initiatives	11131,1225,2641,1926
+Strategic Initiatives	11131,1225,2641,1926,2878
 Strategic Initiatives Ethio	3487
 Strategic Initiatives Zambia	12356
 Strategic Initiatives and Key Target Results	16858
@@ -1497,7 +1514,7 @@ WTDC-25 Regional Initiatives	18349
 WTO Joint Statement Initiative	1243
 Watch Initiative. Liberia	16876
 Wenaklabs. Initiée	5844
-Women Entrepreneurs Finance Initiative	9702,7076
+Women Entrepreneurs Finance Initiative	9702,7076,3040
 Women's Initiative for Self-Empowerment	13390
 Women’s Budget Initiative	11193
 Women’s Budget Initiative Among	11193

@@ -112,6 +112,7 @@ Curriculum Designer	12972
 D IT Electronic Eleventh Design Research	182
 D1 Design	899
 DA Designated	11380
+DA Designated Account	19847
 DA Designated Account DBAG Directorate of Budget	17458
 DA Designated Account DE4A Digital Economy	969,5570
 DA Designated Account DEA Digital Economy	18777
@@ -190,7 +191,7 @@ Desi Individual Consult Limited	17180
 Desig	17219
 Desig Consultant Qualifi Open	17180
 Desigmnaaytion and Administration	19525
-Design	32,364,268,102,5,128,59,4,38,580,408,686,1004,179,4,265,88,44,1,269,235,27,10,48,393,3,169,380,639,10,161,229,104,11,1,11,45,544,100,142,161,62,5,57,15,103,353,57,1,1,207,311,5,475,461,93,557,36,2,13,10,41,3,10,11,123,1,32,8,11,56,12,47,3,7,16,53,7,49,4,107,209,157,62,59,6,47,36,1,3,8,44,11,72,48,29,17,25,2,12,11,7,11,84,21,18,23,1,53,25,34,162,19,141,83,47,11,30,32,43,15,90,128,30,42,39,119,113,139,74,24,45,53,89,57,304,45,51,12,16,86,23,116,22,6,12,59,8,30,5,3,52,10,30,53,10,40,242,52,23,25,8,73,105,3,2,31,19,59,164,41,167,68,151,251,13,206,25,8,6,11,17,42,5,4,20,4,36,7,50,46,13,30,23,75,480,135,32,4,395,53,16,4,107,48,41,50,134,55,8,114,34,235,21,24,274,56,20
+Design	32,364,268,102,5,128,59,4,38,580,408,686,1004,179,4,265,88,44,1,269,235,27,10,48,393,3,169,380,639,10,161,229,104,11,1,11,45,544,100,142,161,62,5,57,15,103,353,57,1,1,207,311,5,475,461,93,557,36,2,13,10,41,3,10,11,123,1,32,8,11,56,12,47,3,7,16,53,7,49,4,107,209,157,62,59,6,47,36,1,3,8,44,11,72,48,29,17,25,2,12,11,7,11,84,21,18,23,1,53,25,34,162,19,141,83,47,11,30,32,43,15,90,128,30,42,39,119,113,139,74,24,45,53,89,57,304,45,51,12,16,86,23,116,22,6,12,59,8,30,5,3,52,10,30,53,10,40,242,52,23,25,8,73,105,3,2,31,19,59,164,41,167,68,151,251,13,206,25,8,6,11,17,42,5,4,20,4,36,7,50,46,13,30,23,75,480,135,32,4,395,53,16,4,107,48,41,50,134,55,8,114,34,235,21,24,274,56,20,38,8,23,3,82,58
 Design AI	12356
 Design API	6432
 Design Alterations Implemented Without Approved Revised	19585
@@ -224,10 +225,10 @@ Design Paper Swaziland Lilangeni Transaction	11130
 Design Participant Support Systems	12675
 Design Partnership Architects	2342
 Design Patterns	19575
-Design Phase	5665
+Design Phase	5665,14136
 Design Photography	17260
 Design Porto Editora Créditos	16325
-Design Process	14857,3
+Design Process	14857,3,4807
 Design Rationale	10779
 Design Registrations and Renewals	11250
 Design Report	12008
@@ -251,7 +252,7 @@ Design and Access for Large Information Spaces	5700
 Design and Analysis	15244
 Design and Customization	16927
 Design and Develop Governance Strategy	18712
-Design and Development	11216,7749
+Design and Development	11216,7749,702
 Design and Development Guidelines AI	14566
 Design and Enactment of VAT Legislation	17011
 Design and Implement	17011
@@ -268,6 +269,7 @@ Design and Procurement Article	15901
 Design and Quality	16614,2140
 Design and Road Map Leading	16867
 Design and Set	16600
+Design and Skills	19654
 Design and Technology	12975
 Design and Text	11332
 Design de Mobiliário Não	17103
@@ -281,12 +283,14 @@ Design for Interoperability	14441
 Design for Interoperability Standards	16885
 Design of Autonomous ISR Systems	17884
 Design of Chargers Used	15027
+Design of Control Measures for Street-Vended Foods	19749
 Design of Curriculum Goals	18461
 Design of Digital Financial Infrastructure	5700
 Design of International Trade Agreements	1243
 Design of PPP	18887
 Design of Project	13027,4478,845,4,888,7
 Design of Slab Shelter	11134
+Design the AI	19807
 Design the Curriculum	12675
 Design the Modification	19575
 Design&author	2096
@@ -311,14 +315,14 @@ Designate NMHS	16947
 Designate Natural Farming and Low-Residue Zones	14818
 Designate ZCSRA	11133
 Designated	6900,167,2771,2415,2,1769,522,1214,1215,1462,548
-Designated Account	1264,603,1022,3650,4229,61,135,891,50,1149,277,1,1687,119,234,39,142,105,1291,1352,586
+Designated Account	1264,603,1022,3650,4229,61,135,891,50,1149,277,1,1687,119,234,39,142,105,1291,1352,586,948,12
 Designated Account A for Components	3604
 Designated Account DPI Development Committee Paper	3604
 Designated Account Digital Economy for Africa Direction	15553
 Designated Account. A Designated Account	11525
 Designated Account. Security	10829
 Designated Account. Subsequent	10829
-Designated Accounts	6539,9062,58,485,3140
+Designated Accounts	6539,9062,58,485,3140,563
 Designated Authentication Authority	11199
 Designated CISO	10721
 Designated Civil Institutions	17017
@@ -348,7 +352,7 @@ Designated Startup Ecosystem Builder	14024
 Designated Startup Ecosystem Builders	14024
 Designated Startups	14024
 Designating	2775,6348,3062,1496,5253
-Designation	22,565,887,119,144,990,1134,26,1886,659,176,3549,1427,372,85,418,90,350,10,29,16,351,261,458,89,603,90,87,14,120,1525,287,1,3,163,102,6,1343,5,523
+Designation	22,565,887,119,144,990,1134,26,1886,659,176,3549,1427,372,85,418,90,350,10,29,16,351,261,458,89,603,90,87,14,120,1525,287,1,3,163,102,6,1343,5,523,645
 Designation Committee	14024
 Designation ETAT ADEN Taxe	16047
 Designation Guard Band Uplink	14780
@@ -377,7 +381,7 @@ Designação	9799,956,28,578,12,46,11,3928,33,49,3312,5,11,10
 Designação Artigo	18751
 Designação Descrição	2816
 Designação U.Medida	18757
-Designed	562,230,844,70,1210,329,13,99,52,623,34,264,334,657,21,77,94,164,494,332,90,239,153,8,305,1751,344,6,230,77,316,9,339,478,499,828,173,55,8,631,15,23,93,103,257,259,77,282,616,24,21,2115,189,246,234,91,219,56,275,235,338,235
+Designed	562,230,844,70,1210,329,13,99,52,623,34,264,334,657,21,77,94,164,494,332,90,239,153,8,305,1751,344,6,230,77,316,9,339,478,499,828,173,55,8,631,15,23,93,103,257,259,77,282,616,24,21,2115,189,246,234,91,219,56,275,235,338,235,654,11
 Designed and Hosted	13518
 Designed for Ethiopia	12215
 Designed for Real-World Use	11987
@@ -385,8 +389,8 @@ Designee	22
 Designeid.com Cover	12142
 Designer	2668,9691,3853
 Designer de Convivência Humano-Máquina	2816
-Designers	1988,828,6307,2124,1268,846,1638
-Designing	745,1351,2253,90,75,1306,1118,8,1076,583,632,502,321,210,105,388,234,20,116,354,375,65,81,232,15,1,706,726,877,846,218,84,1154,18,30,7,235,591,622,76,24,214,1,82,5,747
+Designers	1988,828,6307,2124,1268,846,1638,4655
+Designing	745,1351,2253,90,75,1306,1118,8,1076,583,632,502,321,210,105,388,234,20,116,354,375,65,81,232,15,1,706,726,877,846,218,84,1154,18,30,7,235,591,622,76,24,214,1,82,5,747,119
 Designing AI	16050
 Designing CPD Programs for Teachers	13070
 Designing Culturally Aligned AI Systems	6948
@@ -400,6 +404,7 @@ Designing and Managing	11006
 Designing and Procurement Phase	12253
 Designing for Accessibility	4625
 Designing for Failure	7678
+Designing the LC1 Digital Certification System	19723
 Designingasupervised	8606
 Designs	9123,3038,2920,1841,21,1591
 DesignÂ MIÂ ThereÂ	18887
@@ -457,6 +462,7 @@ Digital Product Design Directly	13095
 Digital Product Design for Government	12241,839,15
 Digital Product Design. Students	13080
 Digital Product Designers	6832
+Digital Public Service Design	19638
 Digital Skills Program Design Workshop and Interactive	17070
 Digital Technology Design	12994
 Digital for Government and Digital Product Design	13080
@@ -476,6 +482,8 @@ E.g. Design	11004,960
 ELECTRONIC ID CARD DESIGN	12165
 EM-DAT and DesInventar. Satellite	10763
 EMBEDDING SAFETY IN FAST-PAYMENT DESIGN	11138
+EMRS Design Principles	19667
+EMRS Design Principles The EMRS	19667
 ENDORSEMENT OF DESIGNATION	22
 ESTABLISHING NATIONAL DESIGNATION COMMITTEE	14024
 EXCLUDED BY DESIGN MARKET DEVELOPMENT ZONE	418
@@ -503,9 +511,12 @@ Faculty of Informatics and Design	8130
 Faculty of Informatics and Design Research Ethics Committee	8130
 Failover Design	10721
 Forms Designer	12359
+Foundations for Designing User-centered Systems	19654
+Framework Design and Content Development	19807
 Functional Design Strategy	13532
 Fund. Critical Information Infrastructure Designation	587
 GISPIS System Design Document	16600
+GP System Design and Full Implementation	19847
 GRAPHIC DESIGN	13977
 Gambia. Designation	16836
 Geita MC No Designated	19585
@@ -554,7 +565,8 @@ Initial Digital Lilangeni Design Paper	11130
 Initiation Développement Data Design Agile Sécurité	19221
 Institutional Design	11545
 Institutions and Design	15011
-Instructional Design Specialist	11750
+Instructional Design	19807
+Instructional Design Specialist	11750,8057
 Interaction Designers	6832
 International Building Code Data Center Design	9123
 Intuitive Design	5665
@@ -627,6 +639,7 @@ National Designated Authority	10348
 National Governance Framework Design Report	12008
 National Governance Framework Design Report. Activity	12008
 National Operator Designee	16835
+National Project Design	19825
 National Startup Designation Committee	14024
 Necessity Rather Than Desired Risk Taking	16876
 Network Design	6832,4720
@@ -688,14 +701,14 @@ Privacy Design Guidelines for Mobile Application Development	11004,960
 Private Sector Adoption and KPI Monitoring Design	4126
 Proclamation. SUB SECTION ONE SATRTUP DESIGNATION	14024
 Procurement. Design	16876
-Program Design	3604
+Program Design	3604,16111
 Program Design Effectiveness Risk Internal Audit	3604
 Programme Design	14000,2253,649
 Progress Against the Desired Impact	18125
 Progress Against the Desired Outcome	18125
 Progress Against the Desired Outcome Niger	18125
 Progress Against the Desired Outcome UNHCR	18125
-Project Design	969,295,603,8901,61,135,416,145,24,11,295,110,1366,1,1605,435,39,80,24,3,35,68,37,1,2,82,401,240,230,258,77,311,181,663,189,8,476,110,352,6,39
+Project Design	969,295,603,8901,61,135,416,145,24,11,295,110,1366,1,1605,435,39,80,24,3,35,68,37,1,2,82,401,240,230,258,77,311,181,663,189,8,476,110,352,6,39,551,12
 Project Design Conditions for Effectiveness Residual Risk	10829
 Project Design Enhance	16949
 Project Design Residual Risk Rating INHERENT	15518
@@ -761,7 +774,7 @@ SUB-SECTION TWO DESIGNATION OF STARTUP ECOSYSTEM	14024
 SUBSTITUIÇÃO E DESISTÊNCIA DE CANDIDATO	11528
 SURVEY AND INSTRUMENT DESIGN The FinScope	12409
 Safaricom's Head of Network Planning and Design. Ericsson	5332
-Sample Design	13454,613,1177,3
+Sample Design	13454,613,1177,3,4392
 Sample Design Due	18525,42
 Sample Design The ILFS	19613
 Sample Design and Selection The S-MPS	15244
@@ -815,16 +828,19 @@ System Design and Development	13037
 System Design and Procurement	18531
 Systems Architecture Design and Modernization Framework	12758
 Systems Design	12917
+Systems Design Document	19667
 SÃO TOMÉ E PRÍNCIPE APRESENTA DESIGUALDADES	18781
 TABLISSEMENTS DE L' ENSEIGNEMENT DESIGNAÇÃO	18757
 TCCF TCCD- Tier Certification of Design Documents	6432
 Table of Contents Digital Lilangeni Design Paper	11130
+Teams Designing and Implementing FMIS Solutions	19847
 Technical Design	6539,4425,3946,501,248,485,254,2886
 Technical Design M N	11469
 Technical Design of Program	11905
-Technical Design of Project	969,898,1737,2935,4229,61,135,416,37,108,35,295,50,1426,1,1605,39,214,363,68,37,3,483,240,565,1155,94,95,8,476,468
+Technical Design of Project	969,898,1737,2935,4229,61,135,416,37,108,35,295,50,1426,1,1605,39,214,363,68,37,3,483,240,565,1155,94,95,8,476,468,398,192,12
 Test Design	5665
 Theorizing About the Design of Information Infrastructures	5700
+Tier III Certification of Design Documents	19680
 Tier III Design	6419,612,285,8845,619
 Tier III Design Par	16780
 Tourism Survey Methodological Design	18846

@@ -61,9 +61,12 @@ Fort Hare	9128
 Fort Mise	18015
 Fort Modernisation	18015
 Fort Outils	18015
-Fort Portal	8410,551
-Fort Portal City	8410
+Fort Portal	8410,551,10681,18,55,10
+Fort Portal City	8410,11305
+Fort Portal and Bundibugyo Digital Terrestrial Television	19660
+Fort Portal and Masaka	19800
 Fort Soliudeen	9128
+Fort-Portal City ICT	19660
 Fortalece	15966
 Fortalecendo	18781
 Fortalecer	1701,1115,1330,5288,1318,20,604,150,4158,5,5,793,406,5,196,1684,22,53
@@ -94,7 +97,7 @@ FortiBleed	6766,507,1367,1262
 FortiBleed. SMS	9902
 FortiGate	6766,5997
 FortiOS	6766
-Fortified	10841,4763
+Fortified	10841,4763,4145
 Fortified Edible Oils and Fats	16900
 Fortified Learning Environment for Extended Programme	14742
 Fortify	395
@@ -143,10 +146,10 @@ Forty-Two Million	12597
 Forty-eight	9684
 Forty-four	14777,886
 Forty-nine	4883,5958,2121
-Forty-one	18186
+Forty-one	18186,1459,190
 Forty-six	9505
 Forty-three	4883,9894
-Forty-two	4883,1942,7317,566,3035
+Forty-two	4883,1942,7317,566,3035,1978
 Four Hundred and Forty-Four Million	12606
 Francisco Fortunato Pires. Promulgada	18749
 Fred Fortune	15786
@@ -227,4 +230,5 @@ UNE FORTE CONCENTRATION DANS LES VILLES	17478
 Universal Periodic Review Forty-seventh	16958
 University of Fort Hare	9128,760,1393,1670
 University of Fort Hare Authors	9888
+XXXXX Fortified	19749
 Zimbabwe. Fortunately	9251

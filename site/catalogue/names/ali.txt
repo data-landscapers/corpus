@@ -129,7 +129,7 @@ Ali Abakar Ali	19165
 Ali Abdou	13744
 Ali Abdulle. NIRA	15191
 Ali Abhire	16916
-Ali Addeh	13938
+Ali Addeh	13938,5903
 Ali Addeh and Holl Holl	13938
 Ali Adji Salatou	18127
 Ali Adolf John Mburidiba	14213
@@ -168,6 +168,7 @@ Ali Elberier	6806
 Ali Ghannam	8891
 Ali González-García	6423
 Ali González-García and David Higgins	6423
+Ali Habib	19645
 Ali Habiche	15933
 Ali Hadji	2978
 Ali Hadji Mmadi	2341,4956
@@ -200,6 +201,7 @@ Ali Mokrani	16344
 Ali Moussedak	15410
 Ali Nadeem Qureshi	14976,83,131
 Ali Nassar-Smith	1689
+Ali Ndiwalana	19639
 Ali OUANE NIANGALY Secrétaire	17833
 Ali Omar	3408
 Ali Omar Abdalla Information and Public Relations	2800
@@ -207,7 +209,9 @@ Ali Porgo	8502
 Ali Qureshi	15006
 Ali Resting	3371
 Ali Resting. Paratus Eswatini	3371
-Ali Sabieh	3098,10840
+Ali Sabieh	3098,10840,5902,1
+Ali Sabieh and Arta. Djibouti	19844
+Ali Sabieh and Obock	19841
 Ali Sabieh- Ali Addeh	13938
 Ali Sabieh. Dans	3098
 Ali Saeed Alkindi	10764
@@ -226,7 +230,8 @@ Ali Yusuf Hosh	15073
 Ali Ziat	7952
 Ali and Focal Point for IORA	13744
 Ali&author	766
-Ali-Sabieh	4402
+Ali-Addeh	19835
+Ali-Sabieh	4402,15438
 Ali-Sabieh SA	6902
 Ali-Sabieh and Tadjourah. Using	13881
 Ali. With Eritrea	1741
@@ -294,10 +299,11 @@ Alidji TOURE Secrétaire	17833
 Alidji Yehia TRAORE Secrétaire	17833
 Aliel Machado	8760
 Alieleza	7218,645,11743
-Alien	6435,5792,5152,1219
+Alien	6435,5792,5152,1219,1032
 Alien Card	12227
-Alien ID	10564
-Alien Identification Number	6435
+Alien ID	10564,9249
+Alien Identification Card	19813
+Alien Identification Number	6435,13195,183
 Alien Identification Numbers	6435
 Alien Registration	6435
 Alien Species Project Manager Sameer Kaudeer	11332
@@ -306,15 +312,15 @@ Aliena	18896
 Alienation of Agricultural Land	12912
 Alienation of Land Act	7278
 Alienação	17100
-Aliens	2336,8228
+Aliens	2336,8228,9066,183
 Aliens Act	12337,622
 Aliens Control Act	11176,1472
 Aliens Identify Card Levies	16968
 Aliens and Naturalization Act. Enrolled	16841
 Alieu Sarr	16927
 Alifafanua	8411,3232
-Align	396,765,43,2729,193,134,268,248,468,421,11,1590,282,203,2104,986,290,2,16,7,144,606,34,46,255,61,54,101,55,162,1,86,549,2,2,673,579,108,60,13,30,41,61,43,75,167,80,203,267,11,35,276,822,241,40,10,8,103,646,15,555,411,44,111,505
-Align AI	7548
+Align	396,765,43,2729,193,134,268,248,468,421,11,1590,282,203,2104,986,290,2,16,7,144,606,34,46,255,61,54,101,55,162,1,86,549,2,2,673,579,108,60,13,30,41,61,43,75,167,80,203,267,11,35,276,822,241,40,10,8,103,646,15,555,411,44,111,505,117,137,6
+Align AI	7548,12259
 Align CSA	16985
 Align ICT	16975
 Align ICT Initiatives	16975
@@ -332,14 +338,15 @@ Align TVET	11149
 Align and Advance	15208,1
 Align and Strengthen Its Draft AI PolicyAugust	9937
 Align the National Data Centre	13295
-Aligned	789,63,854,19,240,1831,420,425,199,105,46,37,707,641,2294,250,1140,880,191,7,58,979,39,27,5,153,4,151,161,207,34,8,131,520,137,779,304,87,68,7,132,62,53,481,1133,117,348,1,70,162,789,272,425,382,130
+Aligned	789,63,854,19,240,1831,420,425,199,105,46,37,707,641,2294,250,1140,880,191,7,58,979,39,27,5,153,4,151,161,207,34,8,131,520,137,779,304,87,68,7,132,62,53,481,1133,117,348,1,70,162,789,272,425,382,130,293
 Aligned Strategies Development National	15845
 Aligned for Impact Adaptability Agile	13042
+Aligned the East Africa Vision	19642
 Alignement	10876,99,1068,2494,85,871,227,4,124,480,98,215,1656,19,626,279,141,74
 Alignementstratégique	18297
 Aligner	7392,5898,2210,2345,461,624
 Aligner le SI	19362
-Aligning	1777,211,1852,926,82,685,1060,946,9,1451,1998,240,510,159,308,26,57,59,319,367,270,2,44,323,476,581,259,37,210,98,1153,447,21,435,508,453
+Aligning	1777,211,1852,926,82,685,1060,946,9,1451,1998,240,510,159,308,26,57,59,319,367,270,2,44,323,476,581,259,37,210,98,1153,447,21,435,508,453,1307
 Aligning Action	11332
 Aligning Climate Change Adaptation Planning	11006
 Aligning Data Demand and Production	13359
@@ -356,7 +363,7 @@ Aligning the Organisation	13532
 Aligning the Sector	13582
 Alignm	14777
 Alignm7e.5nt	10157
-Alignment	961,816,37,4,1777,23,243,1383,2,1048,538,106,100,113,240,157,124,956,576,953,672,11,294,22,75,4,23,28,131,440,10,38,11,324,116,3,17,256,42,1,53,189,4,84,37,38,338,94,169,275,35,786,81,30,34,75,26,450,188,483,68,651,13,43,24,32,141,23,44,77,435,50,733,51,374,342,39
+Alignment	961,816,37,4,1777,23,243,1383,2,1048,538,106,100,113,240,157,124,956,576,953,672,11,294,22,75,4,23,28,131,440,10,38,11,324,116,3,17,256,42,1,53,189,4,84,37,38,338,94,169,275,35,786,81,30,34,75,26,450,188,483,68,651,13,43,24,32,141,23,44,77,435,50,733,51,374,342,39,354,74,33,56
 Alignment Alignment SDGs Area	970
 Alignment Intentions and Readiness for NSDS III	17116
 Alignment Intentions and Readiness for NSDS III Beyond	17116
@@ -372,7 +379,8 @@ Alignment of MDA	958
 Alignment of Operating Hours	12389
 Alignment of PBF	10829
 Alignment of Power Sector Least Cost Expansion	12399
-Aligns	3944,690,665,559,8583,160,1431,943,79
+Alignment of Scorecard	19666
+Aligns	3944,690,665,559,8583,160,1431,943,79,2685
 Aligns Rwanda	14997
 Aligns The Gambia	3749
 Aligné	2399,11166,2108,316
@@ -487,6 +495,7 @@ Alioune Sall. En	5779
 Alioune Sall. L’État	18348
 Alioune Salll	5156
 Alipanahi	8283
+Alipata Limited	19660
 Alipay	5124,978,266,195,1462,1406,1690
 Alipay and Ant International	11121
 Alipay and WeChat Pay. Closer	13532
@@ -538,6 +547,7 @@ Aménagement des Territoires M. Papa Aliou DIOUF	18361
 Analyses Alimentaires	4402
 Anne Aliker	3056
 Années Ali	8891
+Arta and Ali-Sabieh	19835
 Artificial Alignment Proposal Data Protection Act	7548
 Artisanat Monsieur Aboudou ALI OROU Membre	16485
 Asaad Mohsen Ali Zhew Suleiman SS	17403
@@ -668,6 +678,7 @@ Dr. Ali Hamadou	18152
 Dr. Ali Mohammed	13816
 Dr. Ali Mohammed Al Khouri	16622
 Dr. Ali Nasser Al-Khuwailedi	11738
+Dr. Alice Namale	19771
 Dr. Hussein Ali Mwinyi	10746,8796
 Dr. Isa Ali Ibrahim	11857
 Dr. Isa Ali Ibrahim Pantami	11857
@@ -722,6 +733,7 @@ FC Alinéa	15999
 FCFA Alinéa	15999
 FONCTIONNALITES ET AVANTAGES DU LGEC Aliou	3381
 FORESTAL ALIMENTARIA AGRARIA	4209
+Fadoumo Ali	19840
 Famille CHIP Aliments CHU Cellule	17845
 Fatma El Zahraa Ibrahim Khalil Ali	15473
 Fawzia Ali Kimanthi	7568
@@ -1016,6 +1028,7 @@ Mr. Abdiweli Ali Abdulle	14991,231
 Mr. Abdulkadir Ali	15111
 Mr. Ahmed Ali Salad	1694
 Mr. Ali Alshimmari	4934
+Mr. Ali Gadileh	19847
 Mr. Ali Koné	10828
 Mr. Ali Melaghsou	16331
 Mr. Ali Usman	18139
@@ -1028,7 +1041,7 @@ Mr. Aliou Mamaoudu Dia	17173
 Mr. Alioune Sall	18378
 Mr. Fathi Ali Abu Bakr	16946
 Mr. Luc Mbong Mbong and Mr. Alieu	16927
-Mr. Mohamed Ali Mohamed	13870
+Mr. Mohamed Ali Mohamed	13870,5976
 Mr. Mohamed Alieu	18584
 Mr. Mohammed Ali Al Qaed	13807
 Mr. Salum Kassim Ali	19542
@@ -1059,6 +1072,7 @@ NIRA Director General Abdiweli Ali Abdulle	2691
 NIRA’s Director General Abdiwali Ali Abdulle	4088
 NKUNDIMANA Alice	13390
 NSHIMIRIMANA Aline JUSENGA Eric NTAKIRUTIMANA Evariste	13300
+Naglah Mohamed. Fadoumo Ali	19840
 Naima Alioua	15410
 Nassra Ibrahim Ali	19602
 National Invasive Alien Plant Survey	11334
@@ -1200,6 +1214,7 @@ S.E. Dr. Omar Alieu Touray	10500
 S.E. Mariam Hamadou Ali	13914
 SADC and Codex Alimentarius	14818
 SAN Avaliacao de Seguranca Alimentar	966
+SDG-NDP IV Alignment Assessment	19803
 SDGS AND OF THE ALIGNMENT	970
 SECURITE ALIMENTAIRE	737
 SECURITE ALIMENTAIRE Au Burkina Faso	737
@@ -1288,7 +1303,7 @@ Syed Ali Zarouqi	3669
 Symbolic Alignment Strategies	7810
 System Alien	12227
 Séc. Alimentaire	18063
-Sécurité Alimentaire	643,14857,823,61,237,1223,44,53,4,33,7,92,224,3
+Sécurité Alimentaire	643,14857,823,61,237,1223,44,53,4,33,7,92,224,3,1521
 Sécurité Alimentaire CSE	18291
 Sécurité Alimentaire CSET Centre Supérieur	17907
 Sécurité Alimentaire CURES DIN DGSHP DNP	17978

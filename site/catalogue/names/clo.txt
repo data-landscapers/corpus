@@ -1,6 +1,6 @@
 A- Cloud and Hosting Number	7548
 A- Cloud and Hosting Provider A1- Certification	7548
-ABQ Cloud	5249
+ABQ Cloud	5249,14513
 ACIDE CLAVULANIQUE CLOXACILLINE CLOXACILLINE AMOXICILLINE	15930
 AFREEDATA CLOUD VAULT DATA CENTERS LIMITED	7167
 AFRICA CLOUD SPACE LIMITED Data Controller	7167
@@ -170,6 +170,8 @@ CLOUD COMPUTING	12967
 CLOUD COMPUTING GUIDELINES FOR FINANCIAL SERVICE	19546
 CLOUD COMPUTING SERVICE MODELS	11196
 CLOUD COMPUTING SERVICE MODELS Cloud	11196
+CLOUD COMPUTING SERVICES	19639
+CLOUD COMPUTING SERVICES Increased	19639
 CLOUD COMPUTING STANDARDS AND GUIDELINES	34
 CLOUD DEPLOYMENT MODELS	11196
 CLOUD DEPLOYMENT MODELS Cloud	11196
@@ -215,6 +217,7 @@ COUNTRY CLOCK KENYA LIMITED Data Processor	7167
 CPU Central Processing Unit CSA Cloud	11952
 CS Cabinet Secretary for ICT CSP Cloud	6432
 CS MURKOMEN OFFICIATES CLOSING CEREMONY	14505
+CSA Cloud Controls Matrix	19801
 CUG Administrator. Closed User Group	12484
 CYBER TIPS Embace Cloud Technology Use	13502
 Cabo Verde Approval Date Current Closing	16187
@@ -236,6 +239,7 @@ Certified Cloud Security Professional	15662
 Chapters Next Stay Close	5326
 Characteristics of Cloud	16923,1
 Chef du Gouvernement Brice Clotaire OLIGUI NGUEMA	11580,4198,242,251,2
+Chief Technology Officer of ABQ Cloud	19762
 Choisir IKA Cloud	8502
 Citizen Cloud	14752
 Clauses-Type Cloud	3857
@@ -315,7 +319,7 @@ Closer Look	1828,3579,676,1505
 Closer and Easier	15260
 Closes	3228,34,677,3026
 Closes Roads	9989
-Closing	543,1161,124,693,69,590,249,353,464,122,195,430,248,101,521,50,208,50,167,201,40,14,121,76,42,34,210,294,144,65,27,49,131,88,2,237,58,179,363,449,44,260,210,22,127,1,262,14,86,136,296,94,4,17,40,18,16,105,83,6,3,1,32,63,29,25,29,55,332,201,141,50,30,3,222,59,19,103,324,144,169,17,63,36,101,538,314,86,32,204,193,162,19,95,25,58,37,14,188,153,52,129,48,136,184,515,109,69,185,179,112,9,15,2,123,21,533,56,21,92,77,584,61,1,22,47,177,51,119,184,293
+Closing	543,1161,124,693,69,590,249,353,464,122,195,430,248,101,521,50,208,50,167,201,40,14,121,76,42,34,210,294,144,65,27,49,131,88,2,237,58,179,363,449,44,260,210,22,127,1,262,14,86,136,296,94,4,17,40,18,16,105,83,6,3,1,32,63,29,25,29,55,332,201,141,50,30,3,222,59,19,103,324,144,169,17,63,36,101,538,314,86,32,204,193,162,19,95,25,58,37,14,188,153,52,129,48,136,184,515,109,69,185,179,112,9,15,2,123,21,533,56,21,92,77,584,61,1,22,47,177,51,119,184,293,71,79,101
 Closing Approval	15663
 Closing Argument	6968
 Closing Civic Space	1250
@@ -337,6 +341,7 @@ Closing Deadline for Effective	19284
 Closing Details	15424
 Closing Digital Infrastructure Gaps	17870
 Closing Ethiopia	8671
+Closing Gaps and Building Trust	19693
 Closing Learning Gaps Through Inclusive Digital	9120
 Closing Meeting	13381
 Closing Niger State	4794
@@ -408,6 +413,7 @@ Closing Time	11240
 Closing Time. The Closing Time	11240
 Closing Time. The DBSA	11240
 Closing Type	4972
+Closing Uganda	19811
 Closing for Withdrawal Applications IDA-E0930 Effective	1284
 Closing of Borders	16631
 Closing the Access Gaps	6539
@@ -422,6 +428,7 @@ Closing the Entrepreneurial Deficit	18551
 Closing the GENDER IN ADDITIONAL	11964
 Closing the Gap	8380,2334,283,6242,1608
 Closing the Gap Between Tradition and Technology	9879
+Closing the Gaps and Building Trust	19695
 Closing the Gender Gap	2207
 Closing the ID	12150
 Closing the Infrastructure Gap Through Partnership	8111
@@ -435,6 +442,7 @@ Closser S	1219
 Closser&author	1219
 Closure	1988,9824,3003,3621,140,988
 Closure Elections	4608
+Closure Rates	19801
 Closure Tier	10721
 Closure of Communication Equipment and Broadcasting Stations	18602
 Closure of Debate	18436
@@ -445,11 +453,12 @@ Clotaire KOUWEL	16175
 Clotaire OLIGUI NGUEMA	16099,703
 Clotchor Secongo	5555
 Clothes	13385,3515
-Clothing	13385,89,3461,2667
+Clothing	13385,89,3461,2667,100,13,13
 Clothing Factory	13361
+Clothing and Shoes	19715
 Cloture	14662
 Cloture du Projet de Preparation	14662
-Cloud	168,790,3,44,199,11,16,33,99,376,1,26,39,9,71,53,2,163,296,1,25,152,24,2,199,129,444,112,67,82,151,50,20,2,202,58,7,24,109,178,91,55,152,44,54,15,242,110,44,53,129,102,446,6,170,85,184,2,11,13,32,103,111,43,98,114,58,136,68,36,34,193,77,86,39,58,291,108,58,28,28,251,96,14,235,283,6,27,340,15,160,322,67,97,32,532,54,69,17,180,99,16,121,40,72,16,90,173,223,104,26,22,167,217,85,165,16,255,19,53,165,200,497,511,229,52,49,6,21,9,60,78,68,63,30,106,378,26,56,14,41,20,14,223,208,7,178,392,163,39,1,51,462,24,39,34,189,41,59,37,19,31,2,211,157,26,11,2,56,8,12,850,148,48,61,31,13,58
+Cloud	168,790,3,44,199,11,16,33,99,376,1,26,39,9,71,53,2,163,296,1,25,152,24,2,199,129,444,112,67,82,151,50,20,2,202,58,7,24,109,178,91,55,152,44,54,15,242,110,44,53,129,102,446,6,170,85,184,2,11,13,32,103,111,43,98,114,58,136,68,36,34,193,77,86,39,58,291,108,58,28,28,251,96,14,235,283,6,27,340,15,160,322,67,97,32,532,54,69,17,180,99,16,121,40,72,16,90,173,223,104,26,22,167,217,85,165,16,255,19,53,165,200,497,511,229,52,49,6,21,9,60,78,68,63,30,106,378,26,56,14,41,20,14,223,208,7,178,392,163,39,1,51,462,24,39,34,189,41,59,37,19,31,2,211,157,26,11,2,56,8,12,850,148,48,61,31,13,58,35,63,60,39,20
 Cloud Access	3861
 Cloud Act	6415,72,906
 Cloud Ad7o. CptloioundinAdGoopvteiornnmineGntovernment	10157
@@ -463,10 +472,11 @@ Cloud Adoption Committee. CSPs	6432
 Cloud Adoption Guiding Principles	16923
 Cloud Architect	13074
 Cloud Architects	6832
+Cloud Benefits and Barriers The MDAs	19639
 Cloud Certification	16924
 Cloud Collaboration Tools	13502
 Cloud Commercial Efficiency Cloud-by-default Compliance	6432
-Cloud Computing	34,539,1941,417,3501,221,138,1,40,716,3648,671,435,54,611,4,385,45,1273,475,396,1571,867,400,1150
+Cloud Computing	34,539,1941,417,3501,221,138,1,40,716,3648,671,435,54,611,4,385,45,1273,475,396,1571,867,400,1150,106,162
 Cloud Computing Act	16923,1
 Cloud Computing Adoption and Data Lozalization	12214
 Cloud Computing BANK OF NAMIBIA No	12967
@@ -479,6 +489,7 @@ Cloud Computing Hosted	14789
 Cloud Computing Intelligence Artificielle	15674
 Cloud Computing NKCC	6946
 Cloud Computing News	2520
+Cloud Computing Organizations	19801
 Cloud Computing Policy	19546
 Cloud Computing Regulation	12295
 Cloud Computing Regulations	12294
@@ -572,6 +583,7 @@ Cloud Requirements	15028
 Cloud Security	9123
 Cloud Security Alliance	8405,3547
 Cloud Security Below	9123
+Cloud Security Engineer	19801
 Cloud Security Guiding Principles	16924
 Cloud Security Principles	16924
 Cloud Security Standard	9123
@@ -581,10 +593,10 @@ Cloud Service Model	9123,3844
 Cloud Service Models	16924
 Cloud Service Models Cloud	12302
 Cloud Service Provide	6432
-Cloud Service Provider	9123,6159,2252,2012
+Cloud Service Provider	9123,6159,2252,2012,255
 Cloud Service Provider GoK Government of Kenya	6432
 Cloud Service Provider Requirements	6432
-Cloud Service Providers	6432,5482,81,4929,610,212
+Cloud Service Providers	6432,5482,81,4929,610,212,2055
 Cloud Service Providers Qualification Requirements	17534
 Cloud Service Providers and Internet Exchange Points	10956
 Cloud Service Provisioning and Procurement Guidelines	11995
@@ -612,6 +624,7 @@ Cloud Storage. Ikumbukwe	4061
 Cloud Strategy	11986,4937,2322
 Cloud Summit	6930,5941
 Cloud Systems Engineer	13185
+Cloud Technologies	19801
 Cloud Technology	17116
 Cloud Technology and AI-driven Analytics	17116
 Cloud The GoT	19245
@@ -693,6 +706,7 @@ Clouds	15638,1285,1
 Clouds2Africa	1011,3133,849
 Cloudthat	8130
 Cloudwards	7215,78
+Clougherty	19654
 Clove	19554
 Clover	16466
 Cloves Agricultural Households Large Scale Farms	19554
@@ -762,6 +776,7 @@ Date Closing Period Month	6579,349
 Dec-2020 Closing Date	10779
 Dec-2021 Closing Date	10779
 Dec-2022 TF-B4949 Closed	17958
+Dec-2022. Expected Closing Date	19643
 Dec-2023 Operation Closing	13742,1206
 Dec-2024. Operation Closing	15702
 Dec-2025 Closing Period Result	16032
@@ -792,6 +807,7 @@ Draft Cloud Policy The Draft Cloud	11993
 Draft National Cloud Computing Policy	11993
 Driving the Investment Cloud	6791
 EO Africa Cloud	6744
+ETATS FINANCIERS DE L'EXERCICE CLOS	19850
 EU Cloud AI Development Act	6834
 EU's Cloud and AI Development Act	10088
 EU-US CLOUD Act	10088
@@ -811,6 +827,7 @@ Egypt. CloudFront	1719
 Else Is Building Kasi Cloud	5200
 Energy-efficient Cloud Computing Technologies and Policies	1264
 Ensure Cloud Networks And Connections	34
+Ensure Cloud Service Providers	19801
 Ensure the National Cloud Policy	11995
 Ericsson and MTN Complete MoMo Cloud Migration	10666
 Eritel Private Cloud	14327
@@ -938,6 +955,7 @@ Google DIstributed Cloud	4434
 Google Distributed Cloud	4434
 Google Distributed Cloud Sandbox	4434
 Google Distributed CloudExtend Google Cloud	4434
+Google Scholar Close Publication Date	19823
 Google Sovereign Cloud	6477
 Google's Johannesburg Cloud Region	7005
 Google’s African Cloud Summit	8598
@@ -948,7 +966,7 @@ Gov-Cloud Government Cloud HR Human Resource	6432
 Governance Structure Cloud	16924
 Governemnt Cloud	16924
 Governing Government Cloud	16924
-Government Cloud	3557,2423,452,2176,2177,1106,1026,1835,869,17,1247,38,1,1435,1174
+Government Cloud	3557,2423,452,2176,2177,1106,1026,1835,869,17,1247,38,1,1435,1174,268
 Government Cloud Adoption	10157
 Government Cloud Computing Guideline	13345
 Government Cloud Computing Infrastructure. Enabling	16924
@@ -991,6 +1009,8 @@ HIT Closes Technovation Expo	13688
 Head of State Brice Clotaire Oligui Nguema	3579
 Headgear. Clothing	16900
 Highly Satisfactory Closing	18754
+Hosting and Cloud Computing	19639
+Hosting and Cloud Computing NITA-U	19639
 House Approves Close	1798
 Huawei Cloud	376,2440,805,238,2794,1326,2819,63,2010,2842,1843
 Huawei Cloud FinTech Summit	6653
@@ -1050,6 +1070,7 @@ JHB Cloud	1363
 Jan-2020 Orig. Closing	11395
 Jan-2023 Operation Closing	17962
 Jan-2024 Operation Closing	16705
+Jan-2025. Expected Closing Date	19847
 Jan-2027 Operation Closing	12228
 Jean Clotaire	15901
 Jean Didier Clovis	15848
@@ -1143,6 +1164,7 @@ Manage Security Terms In The Cloud	34
 Managed Google Distributed Cloud	4434
 Management Cloud Infrastructure Catalogs Media File	13042
 Managing Director of Huawei Cloud Nigeria	12871
+Managing Director of Roke Cloud	19762
 Mar-2022. Closing Date	15782
 Mar-2023 Current Closing Date	14456
 Mar-2025 Operation Closing	18817
@@ -1168,6 +1190,7 @@ NATIONAL POLICY ON DATA AND CLOUD	11196
 NAVER Cloud	3049
 NCC Close Ranks On Submarine Cable	2677
 NIST Definition of Cloud Computing	18774
+NITA-U Cloud and Shared Services Guidelines	19801
 NITDA's National Cloud Computing Policy	9877
 NOSI Cloud	11867
 NVIDIA Cloud Partner	2607,2704,128,1141
@@ -1271,6 +1294,7 @@ Original Closing Date	12980,2639
 Original Revised Proposed Proposed Loan Closing	19284
 Osibisa Close	3386
 Overview of Cloud Services	6432
+Ownership of Clothing and Shoes	19715
 P Le CLOUD National	15624
 PAPSE II Closing Data. Bangui	16436
 PBC Name Baseline Closing Period	10870,5209,915,964
@@ -1368,6 +1392,7 @@ Register of Voters Closing	19101
 Registrar of Companies and Close Corporations	12912
 Registration of Cloud Service Providers	6432
 Regulations for Purchasing Cloud Services	16924
+Reliable Internet and Cloud Connections	19728
 Republic of Approval Date Current Closing Date	15969
 Republic of Zimbabwe T. CLOSING STATEMENT	13440
 Responsibilities of Cloud Service Providers	11995
@@ -1380,7 +1405,7 @@ Revised Closing Date	12980
 Risk Closely	6947
 Risk of Defaults and Closures	12376
 Rodney Cloete	8970
-Roke Cloud	5249
+Roke Cloud	5249,14513
 Roles and Obligations of Cloud Service Providers and Service	11995
 Rubber Closures	13385
 République Brice Clotaire Oligui Nguema	2961,756,12290
@@ -1402,6 +1427,7 @@ Seed Round Close	10162
 Senegal Approval Date Current Closing Date	18359
 Senior Cloud Infrastructure Expert	12693
 Sep-2014. Operation Closing	15704
+Sep-2019. Expected Closing Date	19835
 Sep-2021. Current Closing Date	15802
 Sep-2023 Operation Closing	16079
 Sep-2024 TF-B5069 Closed	17904
@@ -1451,6 +1477,7 @@ Successful Adoption of Government Cloud	16924
 Sud-Coréen Naver Cloud	9483
 Sun Closed	13249
 Supply Risks Cloud the Outlook	4769,394,334,86
+Supply of Cloud Disaster Recovery and Hybrid Backup	19788
 Sustainability and Autonomy Closely	6947
 Sustainable Food Systems. Close	11469
 Switch Close	4896

@@ -15,9 +15,10 @@ AI Criteria Framework Emerging Technologies	7548
 AI. Critical Policy Studies	17780
 ALL ELIGIBILITY CRITERIA WILL PROCEED	13037
 ANNEX VI CRITERIA FOR EVALUATION	16843
+ANNUAL CRIME TRENDS	19772
 ASSEGURAR A CRIAÇÃO DOS PARQUES TECNOLÓGICOS	11397
 Abrogation CRISTAL Décision	998
-Absence of Crime	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
+Absence of Crime	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
 Academia Criteria	12376
 Accelerate War Crimes Court	17139
 Acceptance Criteria	5665
@@ -54,6 +55,7 @@ Angola Crianças	10760
 Angola's Hidden Succession Crisis	9399
 Angolan Criminal Code	3722
 Annex A Criteria	11133
+Annual Crime Report	19641
 Anos de Idade Crianças	18768
 Anti Financial Crimes	4531
 Anti-Corruption and Economic Crimes Act	8180
@@ -164,9 +166,15 @@ CRI. Abbreviation	12090
 CRI. CRI	12090
 CRIADO	4209
 CRIANÇAS ABRE DIA	10752
+CRIET	19740
 CRIIZ	13365
 CRIME	14760
+CRIME ANALYSIS	19772
+CRIME CATEGORIES AND ANALYSIS	19772
+CRIME DISTRIBUTION	19772
 CRIME MANAGEMENT	12953
+CRIME RATE	19772
+CRIME TRENDS	19772
 CRIMES	14870,2065
 CRIMES TABLE OF CONTENTS LOI Nº	14870
 CRIMINAL ATTACK SYSTEM FAULT HUMAN ERROR	2709
@@ -183,7 +191,7 @@ CRIMSON COMPUTER SERVICES LIMITED Data Processor	7167
 CRIPC	13177
 CRIPC Act	13177
 CRIPC Registrar General Chikumbutso Namelo	13177
-CRIPEN	13852,8
+CRIPEN	13852,8,5975
 CRIRE LE NOMBRE TOTAL D’ENFANTS	13300
 CRISC	11448,4214
 CRISIS MANAGEMENT	1000
@@ -368,17 +376,18 @@ Crichton&author	766
 Cricket	8884
 Cridem	7707
 Crier	13300
-Crime	3,4124,3320,1950,2,217,1134,226,201,11,97,589,7,1,310,109,45,155,138,314,3,16,1622,166,1085,1151,1481
+Crime	3,4124,3320,1950,2,217,1134,226,201,11,97,589,7,1,310,109,45,155,138,314,3,16,1622,166,1085,1151,1481,1269
 Crime Act	18457
 Crime Against Person Crime Against Property	14760
 Crime Against Property	14760
 Crime Avenue de France	4127
 Crime Bureau	7114
 Crime Category-wise Jul	14760
+Crime Data Analysis Centre	19746
 Crime Data Centre	12109
 Crime Detection Strategy NCPS National Crime	11188
 Crime Frustrado	11425
-Crime Intelligence	11188
+Crime Intelligence	11188,8558
 Crime Intelligence Rural Safety Desk	11188
 Crime Liaison Committee	12510
 Crime Management	12953
@@ -395,6 +404,7 @@ Crime Prevention Unit CRO	14760
 Crime Prevention Unit WAREHOUSING FIREARM INDEX	14760
 Crime Prevention Unit and Brigade Pour	14742
 Crime Prevention and Criminal Justice	2117
+Crime Prevention and Investigation Management Department	19746
 Crime Prevention and Security	2626
 Crime Prevention and Security Cluster MISS Minimum	11218
 Crime Rate	12953
@@ -426,7 +436,7 @@ Crimes Reported	2775
 Crimes and Penalties ARTICLE	15484
 Crimes and Penalties Article	15492
 Criminais	10750
-Criminal	180,40,1254,403,1729,9,512,1381,25,453,1480,1805,345,1133,1,1,1,1,12,7,3,204,159,43,96,8,183,139,289,32,15,43,160,187,335,245,7,120,363,545,64,730,67,389,161,213,455,916,387,554,66,606,276,88,597
+Criminal	180,40,1254,403,1729,9,512,1381,25,453,1480,1805,345,1133,1,1,1,1,12,7,3,204,159,43,96,8,183,139,289,32,15,43,160,187,335,245,7,120,363,545,64,730,67,389,161,213,455,916,387,554,66,606,276,88,597,284
 Criminal Abortion	16935
 Criminal Act	10192
 Criminal Act. Saleh	10192
@@ -445,7 +455,8 @@ Criminal Attempt To Commit Suicide	16935
 Criminal Cap	13403
 Criminal Case Number	13040
 Criminal Case System	18970
-Criminal Cases	12920
+Criminal Cases	12920,6792
+Criminal Cases Recorded During FY2024	19712
 Criminal Civil	10750
 Criminal Code	27,931,14,10881,11,297,71,1087,189,1206,1,27,9,88,503,1616,1972
 Criminal Code Act of Mauritius. Section	14742
@@ -468,6 +479,7 @@ Criminal Division. The Protection Division	14742
 Criminal EDUARDA LINDAURA PEREIRA MIGUEL SARMENTO	10750
 Criminal Facilitation	16935
 Criminal Gabinete de Intercâmbio	10750
+Criminal Groups	19655
 Criminal History Record	12389
 Criminal Indictment Matters	12920
 Criminal Information System Simplified	11939
@@ -476,6 +488,7 @@ Criminal Investigation Department	587,10494,3609,304
 Criminal Investigation Department Ahmed Ismail	15992
 Criminal Investigation Programme	14899
 Criminal Investigation Programme for Somalia	14899
+Criminal Investigations	19746,26
 Criminal Investigations Department	8767,4470,295,49,1110
 Criminal Judgments Delivered	12920
 Criminal Jurisdiction	14720,127
@@ -513,6 +526,7 @@ Criminal Procedure and Evidence Code	12174,1838
 Criminal ProcedureAct	18457
 Criminal Proceedings	18556
 Criminal Provisions	17934
+Criminal Record	19839
 Criminal Record Certificate	11939,2982
 Criminal Record Certificate. MEDIA	12333
 Criminal Record Information Management System	14107
@@ -539,6 +553,7 @@ CriminalConfiscation Order	14809
 Criminalidade Organizada Transnacional	15359
 Criminalisation	9231
 Criminalisation of Free Speech and Punitive Responses	13313
+Criminalises	19801
 Criminality	16943
 Criminalité	8891,8950
 Criminalité Transnationale Organisée	13330
@@ -667,7 +682,7 @@ Criterion	3321,4227,9376
 Criterion How It’s Proven	15080
 Criterios	414,1287,15154
 Criterios Determinantes	16855
-Critical	26,755,2,116,59,196,130,493,1,109,53,649,138,60,397,1,29,369,21,257,664,100,235,384,3,304,114,12,420,91,85,159,516,225,132,243,40,298,80,21,296,177,663,6,637,89,162,51,131,1,521,44,10,6,210,4,136,4,5,86,46,13,116,68,436,50,31,9,115,122,70,57,62,6,17,9,179,285,125,11,110,43,125,1,819,8,282,41,453,30,32,182,163,211,105,73,481,672,40,15,3,24,45,88,15,26,17,103,702,408,115,15,29,8,91,17,79,85,122,170,136,218
+Critical	26,755,2,116,59,196,130,493,1,109,53,649,138,60,397,1,29,369,21,257,664,100,235,384,3,304,114,12,420,91,85,159,516,225,132,243,40,298,80,21,296,177,663,6,637,89,162,51,131,1,521,44,10,6,210,4,136,4,5,86,46,13,116,68,436,50,31,9,115,122,70,57,62,6,17,9,179,285,125,11,110,43,125,1,819,8,282,41,453,30,32,182,163,211,105,73,481,672,40,15,3,24,45,88,15,26,17,103,702,408,115,15,29,8,91,17,79,85,122,170,136,218,207,28,70,41,46
 Critical Alerts Should Never Auto-Diffuse	17969
 Critical Areas Seed Distribution Orange Alert	17157
 Critical Assessment Information	13477
@@ -701,7 +716,7 @@ Critical Gaps and Bottlenecks Implementation Crisis	17139
 Critical ICT	14879
 Critical ICT Non Critical	19576
 Critical Information	6946,6400,2101,174
-Critical Information Infrastructure	958,42,535,2936,139,158,764,763,244,407,629,2153,111,429,37,71,1856,70,124,27,509,383,1,319,1058,29,136,1817,179,40,104,718,929
+Critical Information Infrastructure	958,42,535,2936,139,158,764,763,244,407,629,2153,111,429,37,71,1856,70,124,27,509,383,1,319,1058,29,136,1817,179,40,104,718,929,1126
 Critical Information Infrastructure CIRT	18485
 Critical Information Infrastructure CRASA	12759
 Critical Information Infrastructure Designation	6295,605
@@ -709,7 +724,7 @@ Critical Information Infrastructure Protection	14729,199,1996,104,1875
 Critical Information Infrastructure of The Gambia	1000
 Critical Information Infrastructure. The ORC	9728
 Critical Information Protection	17028
-Critical Infrastructure	2954,1656,2101,827,532,2651,4515,1648,1791
+Critical Infrastructure	2954,1656,2101,827,532,2651,4515,1648,1791,1126
 Critical Infrastructure Act	1777,5159
 Critical Infrastructure Bill	3397
 Critical Infrastructure CM-CIR.S9	10721
@@ -721,6 +736,7 @@ Critical Infrastructure D6	16884
 Critical Infrastructure Digitalization and Resilience	726
 Critical Infrastructure Infrastructure Resilience	10721
 Critical Infrastructure No Parameter Remark	16884
+Critical Infrastructure Operators	19801
 Critical Infrastructure Organizations	6845,7794
 Critical Infrastructure Owner	7538
 Critical Infrastructure Plan	16884
@@ -829,7 +845,7 @@ Crizer Frederic Bristol	19049
 Criámos	16251
 Culture and Critique	11050
 Customs and Political Crime	10976
-Cyber Crime	318,654,10868,4754
+Cyber Crime	318,654,10868,4754,3047
 Cyber Crime Act	11857,6598
 Cyber Crime Bill	1000
 Cyber Crime Law	14884
@@ -1099,6 +1115,7 @@ Gambia Critical National Infrastructure	17156
 Gambia's Critical Information Infrastructure Support	1000
 Gambia’s Criminal Procedure Code	17330
 Gender Based Crimes and Child Protection Department	13466
+General Principles and Criteria for Sustainability	19749
 Generate and Criteria	12376
 Genocide and Crimes Again	26
 Gestion des Crises	17873,45
@@ -1140,6 +1157,8 @@ I. COUNTRY CRISIS PREPAREDNESS CONTEXT	18198
 I. COUNTRY CRISIS PREPAREDNESS CONTEXT A	18198
 IBARA Gaëlle CRIDF	15580
 ICC International Criminal Court	18512
+ICT CRIME MONITORING AND SURVEILLANCE	19772
+ICT Crime Monitoring and Surveillance	19772
 ICT Critical Digital Infrastructure and Innovative Financing	17260
 ICT and Cyber Crimes	2658
 ID. Critics	3610
@@ -1239,6 +1258,7 @@ Key Design Criteria	11130
 Key U.S. Critical Minerals Supplier	14969
 Key U.S. Critical... How Rwanda	14969
 Kinyarwanda and Crioulo. Makerere University	9944
+L'initiative de Masse Critique des Professionnels	19687
 LE CRITÈRE CARE	8637
 LEGISLAÇÃO ELEITORAL TÍTULO Legislação Eleitoral CRIAÇÃO	11528
 LNP Crime Statistics Report Mont	16935
@@ -1272,6 +1292,9 @@ MILLION FROM THE CRISIS RESPONSE WINDOW	15190,800
 MINTE All Agencies Safety and R Crime	15845
 MNOs and ISPs. Critical	18485
 MODIFICATION OF PERFORMANCE CRITERIA	18823
+MONTHLY CRIME BY CRIME ANALYSIS	19772
+MONTHLY CRIME DISTRIBUTION	19772
+MONTHLY CRIME TRENDS	19772
 MTND Responsibility for Data Collection PCU Critical	3604
 MU KUZIHITAMO CRITERIA FOR SELECTION CRITÈRES	1214
 MW Critical	10995
@@ -1282,6 +1305,7 @@ Manage Crisis	1000
 Manage Crisis and Prevent Damage and Losses	1000
 Management of Health Crisis Islamic Development Bank	897
 Managing Criminal Records	10979
+Mandatory Eligibility Criteria	19807
 Mangue Nguema Crisantos Ondó Ondó Angue	16920
 Maria Cristina Lopes Almeida Fontes Lima	15392
 Market Research CCF Crime Combating Forum	11188
@@ -1301,6 +1325,7 @@ N DOMAIN KPA No CRITICAL Score	19576
 NAF Airstrikes Cripple Terrorist Camp	4738
 NCS. Critical Infrastructure Act	1777
 NO. OF OFFENCES CLASSIFIED AS CRIME	14760
+NOTABLE CRIMINAL INCIDENTS MANAGED	19772
 NSFAS Eligibility Criteria	6832
 NUTRIÇÃO DE CRIANÇAS E ADULTOS	10777
 Nakfa Registration Criteria	14045
@@ -1313,6 +1338,7 @@ National Crime Agency	4052,10777
 National Crime Automated Biometric Identification System	11081
 National Crime Combating Strategy	11188
 National Crime Combating Strategy NCDS National	11188
+National Crime Prevention Conference	19695
 National Crime Prevention Strategy	11188
 National Criminal Automated Biometric Identification System	11062
 National Criminal Data Fusion Centre	11928
@@ -1321,6 +1347,7 @@ National Crisis Committee	14738
 National Crisis Management Plan	14729
 National Critical Information Infrastructure	6168
 National Critical Infrastructure	5665,3232
+National Critical Infrastructure Protection	19801
 National Critical Infrastructures and Cybercrime. Accession	14897
 National Cyber Crime Reporting Portal	9208
 National Cybersecurity Crisis Framework	17028
@@ -1381,6 +1408,7 @@ Periodic Review Mandates and Evaluation Criteria	3861
 Plan de Protection des Infrastructures Critiques	15936
 Planned Action Critical Success	16884
 Planned Action Critical Success Factors	16885
+Planning and Criteria Installation	19745
 Police Crime Detection	18970
 Police Criminal Investigations Department	14698
 Police Dog Unit Crime	14760
@@ -1446,6 +1474,7 @@ Qualifying Criteria	11240
 Quantitative Performance Criteria	17209,117,1772
 REALISE Crisis Response Plan	17311
 REFORÇAR O SERVIÇO DE INVESTIGAÇÃO CRIMINAL	16487
+REGION CRIME STATISTICS	19772
 RELATED CRIMES ACT	19034
 REQUESTS FOR MODIFICATION OF PERFORMANCE CRITERIA	17326
 RESONANCE OF THE GLOBAL FINANCIAL CRISIS	10
@@ -1497,7 +1526,7 @@ Residency Eligibility Criteria	14828
 Response Critical	11952
 Response Team CII Critical Information Infrastructure	1264
 Resultado Prazo Critérios de Aceitação	11456
-Revenue Mobilisation Absence of Crime	10835,3,130,902,16,466,1,135
+Revenue Mobilisation Absence of Crime	10835,3,130,902,16,466,1,135,7334
 Risk Analysis and Objective Criteria Risk Analysis	11240
 Risk and Crisis Management	12537
 Rosário Crisóstomo Ministro	18773
@@ -1518,6 +1547,7 @@ SGBV Crimes Prosecution Unit	16943
 SGBV Crimes Prosecution Unit and Court	16943
 SOUS-SECTEURS ET SERVICES CRITIQUES	10906
 STATE OF EMERGENCY AND CRITICAL CARE	19544
+STRATEGIES FOR ENHANCED IMPLEMENTATION AND CRIME	19772
 SUDAN'S PRIVATE SECTOR AMID CRISIS	15179
 Salim Cripton Valá	12842
 Sanção Disciplinar da Criança Severa	18762
@@ -1531,6 +1561,7 @@ Section Evaluation Criteria Points Allocation Weight	11240
 Section III Evaluation and Qualification Criteria	15080
 Section III. Critères	17914
 Sector-Specific Critical Information Infrastructure	11754
+Securing Critical Information Infrastructure	19801
 Security And Reliability Of Critical ICT	14879
 Secção I Criação	15359
 Secção III Crimes Artigo	18755
@@ -1564,8 +1595,10 @@ Standard Bank Anti-Financial Crime Conference	3439
 Statistique CRIDF Centre de Recherche	15580
 Strategic Importance Critical	10892
 Stratification Criteria Stratification	13418
+Stratégique Critique	19687
 Strengthen Critical Infrastructure and Digital Security	9964
 Strengthening the Resilience of Critical Infrastructure	5677
+Sub Sub Programme Crime	19746
 Success Criteria	12400
 Sudan Crisis	6947
 Sudan’s Criminal Act and Articles	10334
@@ -1612,6 +1645,7 @@ UNDP Investing Beyond Crisis Mechanism	11356
 UNDP’s Moving Beyond Crisis	11356
 Uganda Faces Critical Shortage of Professors	6077
 Uganda Police Crime Report	4235,597
+Uganda Police Force Annual Crime Report	19772
 Uganda Police Force's Cyber Crimes Unit	12232
 Under the Cyber Security and Crime Act	7777,3977
 Understanding Zim’s Criminal Procedure and Evidence	2888,32,354,504,1444,877,6,100,680,129,293,115
@@ -1641,6 +1675,7 @@ War and Economic Crimes Court for Liberia	17037
 Warning and Crisis Management	18198
 Weight Criteria Sub-	11252
 Wildlife Crime Prevention	11188
+Women Warning Signs Absence of Crime	19822
 World Bank Group COVID-19 Crisis Response	15491,62,2748
 World Bank Group’s COVID-19 Crisis	15511
 World Bank’s COVID-19 Crisis Response	10829

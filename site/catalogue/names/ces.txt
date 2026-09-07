@@ -12,6 +12,7 @@ AUTORISATIONS RELATIVES AUX CESSIONS D’ACTIFS	16047
 AUTORISATIONS RELATIVES AUX CESSIONS D’ACTIFS ET	16047
 Abu Dhabi Ces	10507
 Acessibilidade Cesta Básica	11418
+Actif Ces	19850
 Action Activité Article Paragraphe Ces	3396
 Activité du CESE	8891
 Administration. Ces	16613
@@ -46,6 +47,7 @@ Banfora. Ces	8098
 Bangui. Ces	10877
 Bank-Al-Maghrib. Ces	17485
 Banque Africaine de Développement. Ces	13708
+Banque Centrale de Djibouti. Ces	19850
 Banque Centrale. Ces	16613
 Bernard Hoekman and Cesar Calderon	11149
 Bondoukou. Ces	2342
@@ -177,7 +179,7 @@ Cesión de Datos	16855
 Cesión de Datos Personales	16855
 Cesportefeuilles	19362
 Cessatfon	16836
-Cessation	1220,2494,7261,202,1711,18,10,395,1113,296,206,200,243,9,220,28,1210,1720,953,16,1
+Cessation	1220,2494,7261,202,1711,18,10,395,1113,296,206,200,243,9,220,28,1210,1720,953,16,1,38
 Cessation Art	15598
 Cessation of Hostilities Agreement	12500
 Cessation of Hostilities Agreement. Reports	14008
@@ -193,6 +195,7 @@ Cessação de Serviços	11430
 Cessibilité	15780
 Cession	2342,2554,7504,2137,176,150,506,25,1,37,56,204,209,42,104,248,320,20,850,497
 Cession de Priorite	14713
+Cesspool	19746
 Cessubstancessontditessubstancesdemine.Art.621	19212
 Cessão	11430
 Cesta Básica	11418
@@ -314,6 +317,7 @@ Gbps. Ces	16545
 Gogounou. Ces	16359
 Gouvernance. Ces	15493
 Gouvernement. Ces	13341,4549
+Gouverneur. Ces	19850
 Grand Cess	16947
 Grand Cess Wedabo	16921
 Guinée Forestière. Ces	16621
@@ -473,6 +477,7 @@ River Cess. Table	16950
 Rouge. Ces	17694
 Royaume. Ces	8891
 République Démocratique du Congo. Ces	15670
+République de Djibouti. Ces	19850
 République du Bénin. Ces	3190,12239
 République du Congo APPROBATION DE CESSION	16274,182
 République du Congo. Ces	15848,329,242

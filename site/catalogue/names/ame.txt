@@ -63,7 +63,7 @@ AMENDEMENT	15732
 AMENDEMENT DES STATUTS ET DU RÈGLEMENT	15027
 AMENDES FISCALES Art	16328
 AMENDES POUR RETARD	16747
-AMENDMENT	2677,1184,521,1305,1704,441,2481,94,3042,224,788,23,289,48,206,2361,1530,116,494,6,6
+AMENDMENT	2677,1184,521,1305,1704,441,2481,94,3042,224,788,23,289,48,206,2361,1530,116,494,6,6,173,36,20
 AMENDMENT ARTICLE	12527
 AMENDMENT BILL	4633,1239,5407,775
 AMENDMENT OF ARTICLES OF ASSOCIATION	4896
@@ -131,6 +131,7 @@ Act of Legislation and Amended and Restated	16947
 Act. Amendment of Act No	18463
 Act.’’. Amendment	11201,350
 Administrative Court. PART XI Consequential Amen	972
+Advancing the America First Global Health Strategy	19729
 Africa America	4972
 Africa Americas Arab States Asia-Pacific CIS	11563
 Africa Americas Arab States Fixed	11563
@@ -166,6 +167,7 @@ Ameaças	5663,5906,5524,1701,151
 Amebainisha	11627,7942,8
 Amecc	5530,26,8264
 Amede ES. Barriers	12379
+Amedee Habimana	19636
 Amedy Pereira	18842
 Amedé Blaise	15615
 Amedée Sedar	15524
@@ -235,7 +237,7 @@ Amend the Regulations	6512
 Amend the Statistics Act	14777
 Amend the Uganda Communications Act	6949
 Amende	10842,5486
-Amended	585,5006,5618,60,588,205,32,535,47,229,381,1,28,2,68,583,441,1,303,1,1,1,4,10,150,682,1271,10,4,53,43,1211,729,9,2,291,340,2
+Amended	585,5006,5618,60,588,205,32,535,47,229,381,1,28,2,68,583,441,1,303,1,1,1,4,10,150,682,1271,10,4,53,43,1211,729,9,2,291,340,2,222
 Amended A.16	12887
 Amended Broad-Based Black Economic Empowerment	11235
 Amended Finance Law	16994
@@ -269,7 +271,7 @@ Amending Law No	16902
 Amending the Duration	14647
 Amending the Law	11906
 Amendmen	10713
-Amendment	11,225,337,12,133,18,418,69,40,487,64,30,144,542,147,211,32,5,236,113,229,211,47,17,83,722,27,23,66,27,6,410,80,25,3,113,170,26,128,185,227,6,16,40,44,582,98,6,30,2,17,6,3,51,14,293,62,22,31,30,6,237,5,60,72,195,134,3,1,626,58,296,75,121,204,234,76,85,124,66,150,33,315,22,4,202,165,64,30,20,41,5,18,2,8,4,46,4,16,1,237,34,240,195,7,2,52,7,160,54,34,62,3,23,14,63,22,34,33,10,14,17,27,19,9,16,69,1,10,164,18,26,75,22,7,11,52,31,97,43,56,1,4,65,16,13,23,19,4,1,1,1,3,37,18,8,2,11,41,41,14,275,165,154,142,1,12,39,23,163,67,1,21,6,3,3,3,23,19,12,16,18,2,4,39,139,4,286,50,30,321,76,248,65,435,294,1,18,22,27,43,8,157,49,93,138,197,160,21,670,14,1,11,79,15,46,6,275,9,2,18,6,25,88,3,85,62,33,31,273,6,4,6,6,45
+Amendment	11,225,337,12,133,18,418,69,40,487,64,30,144,542,147,211,32,5,236,113,229,211,47,17,83,722,27,23,66,27,6,410,80,25,3,113,170,26,128,185,227,6,16,40,44,582,98,6,30,2,17,6,3,51,14,293,62,22,31,30,6,237,5,60,72,195,134,3,1,626,58,296,75,121,204,234,76,85,124,66,150,33,315,22,4,202,165,64,30,20,41,5,18,2,8,4,46,4,16,1,237,34,240,195,7,2,52,7,160,54,34,62,3,23,14,63,22,34,33,10,14,17,27,19,9,16,69,1,10,164,18,26,75,22,7,11,52,31,97,43,56,1,4,65,16,13,23,19,4,1,1,1,3,37,18,8,2,11,41,41,14,275,165,154,142,1,12,39,23,163,67,1,21,6,3,3,3,23,19,12,16,18,2,4,39,139,4,286,50,30,321,76,248,65,435,294,1,18,22,27,43,8,157,49,93,138,197,160,21,670,14,1,11,79,15,46,6,275,9,2,18,6,25,88,3,85,62,33,31,273,6,4,6,6,45,56,5,66,1,17,15,4,20,32
 Amendment Act	3383,2489,1079,3206,1042,1,786,68,178,821,1683,2215
 Amendment Any	15641
 Amendment Bill	2626,2007,107
@@ -329,24 +331,28 @@ Amendment of RFP Document	18543
 Amendment of RFQ Document	18543
 Amendment of Request for Proposals Document	15080
 Amendment of S.I. No	1844
+Amendment of S.I. No.2	19734
 Amendment of Schedule	5687,8580,4183
-Amendment of Schedules	12630
+Amendment of Schedules	12630,6996,4
+Amendment of Schedules SCHEDULES Schedule	19629
+Amendment of Schedules The Minister	19626
 Amendment of Sec	12208
 Amendment of Second Schedule	18541,987
 Amendment of Section	18450,91
 Amendment of Standing Orders	18436
-Amendment of Tax Procedures Code Act	14484
+Amendment of Tax Procedures Code Act	14484,5285
 Amendment of The Vocational Education And Training	19534
 Amendment of Third Schedule	13252,5289,977
 Amendment of Utilisation	12058
 Amendment-branch	15261
-Amendments	22,563,569,109,1555,1043,111,77,105,93,55,281,172,608,2185,307,1890,1020,10,18,349,106,41,502,195,352,464,203,48,132,147,724,490,190,6,24,8,105,48,271,275,11,417,730,208,4,5,36,127,1122,303,595,150,274,72,58
+Amendments	22,563,569,109,1555,1043,111,77,105,93,55,281,172,608,2185,307,1890,1020,10,18,349,106,41,502,195,352,464,203,48,132,147,724,490,190,6,24,8,105,48,271,275,11,417,730,208,4,5,36,127,1122,303,595,150,274,72,58,70
 Amendments and Repealers	14647
 Amends	12058,1096
 Amends Ghana Revenue Authority Act	15459
 Amends Kenya Nuclear Electricity Board Order	14422
 Amends National Development Planning Commission Act	15459
 Amends Tourism Act	15459
+Amends Uganda Citizenship and Immigration Control Act	19631
 Amends the Electronic Payment Services Regulations	5687
 Amenities	12389
 Amenities Fund	13420
@@ -357,7 +363,7 @@ Amer Al-Shidhani	8592
 Amer Saddek	15410
 Amer Yusuf	15064
 Ameri	18318
-America	10,30,483,840,352,803,339,1192,116,82,11,168,250,111,185,150,94,31,10,293,333,50,44,433,111,269,348,13,36,91,472,974,252,253,400,801,14,2,81,313,137,27,150,188,885,772,41,1683,369,1829,852,29,81
+America	10,30,483,840,352,803,339,1192,116,82,11,168,250,111,185,150,94,31,10,293,333,50,44,433,111,269,348,13,36,91,472,974,252,253,400,801,14,2,81,313,137,27,150,188,885,772,41,1683,369,1829,852,29,81,1846,13
 America Africa Value Volume	4972
 America America United Kingdom	12151
 America Belize	10840
@@ -366,7 +372,7 @@ America East and Asia Saharan	10977
 America Essentially	10527
 America First	4426,21,170,546,2,48,337,984,653,563,2977
 America First Global Health	14307,36
-America First Global Health Strategy	4165,2,135,124,157,378,180,7,308,94,451,933,816,729,1967,267,3594,36
+America First Global Health Strategy	4165,2,135,124,157,378,180,7,308,94,451,933,816,729,1967,267,3594,36,5386
 America First Global Health Strategy Cooperation	4164
 America First Global Health Strategy MOU	4212,10,44,62,30
 America First Global Health Strategy Memoranda	18202
@@ -447,6 +453,7 @@ American Institutes for Research Page	13332
 American International University West Africa	17226
 American Journal of Climate Change	19284
 American Journal of Industrial and Business Management	7759
+American Journal of Preventative Medicine	19654
 American Journal of Preventive Medicine. Vol	11560
 American Journal of Sociology	5349
 American Leadership	5216
@@ -469,7 +476,7 @@ American Standard Code for Information Interchange	1984
 American Statistical Association	12006
 American Telecom	2137,526
 American Tower	3232,4561
-American Tower Corporation	236,8494,311
+American Tower Corporation	236,8494,311,10687
 American Towers	998,4035,13089
 American University	7211
 American University School of International Service	17701
@@ -483,6 +490,7 @@ American and European AI	14829
 American and Kenyan	7750
 American and Senegalese	10177
 American and Tunisian	19480
+American and Ugandan	19729
 American-British	1741
 American-Ivoirian	7430
 American-based	3708
@@ -507,7 +515,7 @@ Americans and Indians	12138
 Americans and Ivoirians	7430
 Americans and Ivoirians. American	7430
 Americans for Responsible Innovation	9027
-Americas	2794,71,1983,124,1570,38,366,949,300,26,362,198,1266,671,46,17,59,155,160,408,317,14,407,1813,1357,1617,34,621,606
+Americas	2794,71,1983,124,1570,38,366,949,300,26,362,198,1266,671,46,17,59,155,160,408,317,14,407,1813,1357,1617,34,621,606,1307
 Americas ARB	14836
 Americas Antigua and Barbuda Global Cybersecurity Index	10764
 Americas Arab States	17743
@@ -525,6 +533,7 @@ Americas T5 Building Antigua and Barbuda T4	10764
 Americas Tajikistan High EGDI M-OSI H-HcI	10840
 Americas and Africa	15471
 Americas and Asia	6851,156
+Americas and East Asia	19728
 Americas and Oceania	1893
 Americas-AI-Action-Plan.pdf	5216,41,1533
 Americas. Prices	15471
@@ -594,6 +603,7 @@ Behind Emotions and The American Bias	4554
 Beni Amer	15342
 Billion Deal With America To Court	4258
 Bills of Exchange Amendment Bill	9215
+Body America First Global Health Strategy	19729
 Brahim Ameur	15394
 British American Parliamentary Group	14706
 British American Tobacco Kenya Generation	12256
@@ -1202,6 +1212,7 @@ Systems Act.’’. Amendment	11551
 TABLE OF CONTENTS INTRODUCTION This Amendment	7198
 TANOUFEI Amenga ADJ	19251
 TELECOM AMERICA	15471
+TIA American National Standards Institute	19644
 TII Americas	10840
 TRANSPORTS ET AMENAGEMENTS URBAINS ETAT CTD	15542
 TRAVAIL E Ameh orer	15999
@@ -1225,6 +1236,7 @@ Tutuba. Amesema	8615
 Twenty-third Americas Conference	4432
 Type of Amenities	2775
 U.S.-Latin American	2830
+UCC and American Tower Corporation	19728
 UMc Bahamas Americas	10840
 UMc Brazil Americas South America Sao	10840
 UMc Dominican Republic Americas	10840
@@ -1248,7 +1260,7 @@ United Nations Economic Commission for Latin America	11572
 United State of America N	12151
 United States American	16978
 United States and American	7430
-United States of America	1243,624,908,1197,77,104,1,10,3,50,30,11,44,47,90,89,259,326,1500,1232,688,1112,573,495,72,394,715,257,59,209,93,133,317,22,138,1,187,151,1,421,547,312,51,17,102,989,143,175,332,29,290,66,22,20,132,661,109,54,486,115,379,300,128,260
+United States of America	1243,624,908,1197,77,104,1,10,3,50,30,11,44,47,90,89,259,326,1500,1232,688,1112,573,495,72,394,715,257,59,209,93,133,317,22,138,1,187,151,1,421,547,312,51,17,102,989,143,175,332,29,290,66,22,20,132,661,109,54,486,115,379,300,128,260,48,29,50,77
 United States of America Data Controller INST-449650E1463	7167
 United States of America Data Processor INST-449650E1463	7167
 United States of America Email	13042
@@ -1269,9 +1281,10 @@ Upheld Appeal Process Reject Amended Reject	10819
 User and Subscriber Service Charter Amendment Regulations	11259
 VH-TII Americas Dominica High EGDI M-OSI	10840
 VH-TII Americas Monaco High EGDI M-OSI	10840
+Version History No. Date Section Amendment	19801
 Visa and American Express	5700
 VodaCash. Al Americani	5714
-Voice of America	11868,359
+Voice of America	11868,359,7409
 Vol. CXLX. Amendment of Part VI	18451
 W M Guatemala LATIN W AMERICA	11964
 WTACCLBR15 LEG 18.pdf AN ACT AMENDING THE GENERAL	16832

@@ -20,6 +20,7 @@ Beyond Oil	15500
 Bottles for Packaging Edible Oil This Gambian	16900
 Brazil’s Oi	18797
 Brazil’s Oil Giant Chases Ghana’s Keta	19622
+Brent Crude Oil Prices Citation	19823
 Bureau of Statistics ERI Kipevu Oil Storage	12256
 C SOCIETE AP OIL SARLU AP	16623
 CANNABIS OIL	14760
@@ -46,8 +47,9 @@ Cost Oil	3583
 Cost Oil'13	3583
 Crude Oil	17235
 Crude Oil Off-takers	3583
-Crude Oil Pipeline	19590
+Crude Oil Pipeline	19590,43
 Crude Oil Price	12256
+Crude Oil Prices	19823
 Crude Oil USD	17235
 Crude Oil for Infrastructure Initiative	3583
 Crude Palm Oil	17235
@@ -102,6 +104,7 @@ Gapco Shimanzi Oil Terminal	12256
 Gas Oil	16935
 Gas and Oil	12261
 Government Administrative Officer OMCs Oil Marketing	12256
+Greenfield Oil Refinery	19706
 H NP OIL NP OIL	16623
 H SOCIETE BRENT OIL	16623
 HEAVY FUEL OIL	16900
@@ -113,6 +116,7 @@ I I OICATEURS	14479
 I1e1. OI-O	11852
 INEGE OIT	16898
 Iluminação Oitenta	10777
+Implementation Agreement for Uganda's Oil Refinery	19706
 India-based Oil and Natural Gas Corporation	3583
 Indian Oil Corporation Ltd	14845
 Integrated Oil Palm Development	7695
@@ -125,6 +129,7 @@ Kipevu Oil Storage KPC Nairobi KPC	12256
 Kipevu Oil Terminal	12256
 LOR OIRRE	15999
 Lake Oil Limited	12256
+Lubricants and Oils	19641
 M. Arnaud Lilian OYOUOMI TULLOW OIL	16381
 MAACK PETROLEUM COMPANY SA Oil	18322
 Macroeconomic Effects of Oil Shocks	7655
@@ -143,6 +148,7 @@ Mr. Premier Oiwoh	2841,1090
 Murban Crude Oil	12256
 NA OIC	16103
 NEPTUNE OIL	15542
+Nation's Oil	19706
 National Oil Account	18797,26
 National Oil Company of Malawi Limited	11089
 National Oil Corporation	16863
@@ -150,6 +156,8 @@ National Oil Corporation AFA Agriculture and Food	2775
 National Oil Corporation Universal Subsidies	16902
 National Oil Fund	18851
 National Oil Spill Contingency Plan	14748
+National Oil and Gas	19646
+National Oil and Gas Policy	19646
 National Security Agency OIT	16975
 National Women Council OIs	16951
 National Youth Service Scheme OIC Organization	17105
@@ -253,9 +261,11 @@ Oil Seeds	13474,6128
 Oil Seeds and Nuts Production	19554
 Oil Sports Buy E-Paper Advertisement Guide	19572,17
 Oil Terminal KPC Kenya Pipeline Corporation	2775
-Oil and Gas	5765,5420,771,4986,2577,83
+Oil and Gas	5765,5420,771,4986,2577,83,87,134
+Oil and Gas Act	19646
 Oil and Gas Alone Won’t End Poverty	10465
 Oil and Gas Development	17139
+Oil and Gas Policy	19646
 Oil and Gas Regulatory Decree Articles	16972
 Oil and Gas Sector	14845
 Oil and Non-oil GDP	16996
@@ -265,7 +275,7 @@ Oil-backed	3583
 Oil-related	10997
 Oil. Ce	18322
 Oils and Meals	13685
-Oilseeds	15027,1873
+Oilseeds	15027,1873,2849
 Oilseeds This Recommendation	16900
 Oimeke. Standard	12192
 Oindrila Matilal	226
@@ -361,6 +371,7 @@ Tonne of Oil Equivalent	12256
 Tonne of Oil Equivalent TOU Time of Use	12256
 Treasury OIDM Official Identity Management Policy	5533
 UT ES LE L OI GFE	14565
+Uganda National Oil Company	19706
 Under Oiwoh	4856
 VERSION DE LA BASE OISE	17897
 Vegetable Oil	17235

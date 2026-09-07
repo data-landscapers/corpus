@@ -40,7 +40,7 @@ Act GenCos Generation Companies GWh Gigawatt	12062,6124,31
 Activate Local Talent Give Mauritania	18039
 Added GWh Giga Watt Hours	2775
 Addressing and GIS Modernization Objective	16975
-Adolescent Girls	18441
+Adolescent Girls	18441,1274
 Adolescent Girls Advisory Panel	9861
 Adolescent Girls Advisory Panel and Fanell Decontee	9861
 Adolescent Girls Initiative	11469
@@ -76,6 +76,7 @@ Albania Bosnia and Herzegovina Georgia Gibraltar Kazakhstan	13042
 Alejandro Medina Giopp Especialista Senior	16898
 Alessia Giaume Consultora	16898
 Alexandria and Wadi Gidid	15725
+Alexis Giroulet	19661
 Alice Wangui Gikandi Data Controller INST-54398826AED	7167
 Alison Gillwald	432,1678,2934,778,329,267,6239
 Alison Gillwald Technical	11195
@@ -231,6 +232,7 @@ Colombia GALLON GIRALDO	6613
 Commandant NOUMONVI Dosse Kodjovi GILAT	19251
 Comment la GIE Monétique	10515
 Commune Giheta	13390
+Commune de Gitega	19681
 Communication Centre GIS Early Warning System	19520
 Community Care Giving Centers	13960
 CompTIA Intermediate Level GIAC Security Operations	15662
@@ -243,6 +245,7 @@ Constitution of Zanzibar. Given	11133
 Consultant Lead GIS Trainer	14090
 Consumer GIS Geographic Information System HR	14965
 Contact Giesecke	17536
+Context The Ugandan GIRA	19638
 Continuous Learning and Adaptation Given	14565
 Coordenador Técnico Arthur Giesbert	10757
 Coordonnateur du GICC	18324
@@ -302,6 +305,7 @@ Disbursement Methods. Given	15372
 Discrimination Against Women and Girls CRS Creditor	970
 Disponibilité GIIG	17983
 Distribution of Pregnant Girls	18460
+Djibouti's Gini	19835
 Doctor Gift Kalisto Machengete	3003
 Domestic Product GHG Greenhouse Gas GIS	15659
 Domestic Product GIPE Government Investment	6946
@@ -309,6 +313,7 @@ Domestic Product GIZ German Development Agency	10841
 Domestic Product GW Gigawatt GWh Gigawatt-hour	11228
 Données GIMACPay	11944
 Dorcas Molo. For Gianluca Ferrera	16526
+Doreen Gift Bujjingo	19709
 Dr. Gibril Ibrahim	15184
 Dr. Gideon Boako	8545
 Dr. Gift Kalisto Machengete	2987
@@ -358,6 +363,7 @@ Ebene SSS Girls	14792
 Ebène. The Prize Giving	14835
 Economist Gilbert Mwabeza of Marian University	8888
 Economy William Kabogo Gitau	7481
+Education of Girls and Women	19657
 Education. Given	899
 Edward Girardet	12227
 Egypt. Given	15473
@@ -376,12 +382,13 @@ Empowerment GER Gross Enrolment Rate GIA	18512
 Empowerment of Women and Girls	15658
 Enable Service Delivery GIR	12175
 Enabling Girls	10662
+Eng. Doreen Gift Bujjingo	19723
 Entry Level GIAC Battlefield Forensics and Acquisition	15662
 Entry Level GIAC Information Security Fundamentals	15662
 Entry Level GIAC Penetration Tester	15662
 Entry Level GIAC Security Essentials	15662
 Environmental Given	16863
-Environmental and Social Standards Relevance Given	10829,135,2367,1,2221,68
+Environmental and Social Standards Relevance Given	10829,135,2367,1,2221,68,4226
 Equiano Cable. Given	3782
 Eshetu Kebede Gichoro	10196
 Essozimna GNASSINGBE LE PREMIER MINISTRE Gilbert	19207
@@ -531,12 +538,18 @@ GIF CONCEPT NOTE	14441
 GIF Electronic Government Interoperability Framework FRAND	13308
 GIF Global Infrastructure Facility GoSTP Government	18777
 GIF Governance	15540
+GIF Growth	19757
 GIF Guidelines	19510
+GIF Interoperability Levels	19638
 GIF Metadata	19510
+GIF Principle GIRA Solution Building Block	19638
+GIF Principle Hosting and Networking Infrastructure Human	19638
+GIF Principle Interoperability Framework	19638
 GIF Standards	19510
 GIF Technical Guidelines	19510
 GIF Working Group	15540
 GIF and Digital Government Strategy	798
+GIF and TOGAF. The GIRA	19638
 GIF-GW	11555
 GIF4M2	12840
 GIFEC	236,346,1307,2237,358,643,232,1577,432,996,8848
@@ -683,6 +696,21 @@ GIR GPE GRM HRMIS ICR IDA	16436
 GIR and GER	15604
 GIR-CT	557,16913,35
 GIR-PN	17982
+GIRA Architecture Building Block	19638
+GIRA Architecture Building Blocks	19638
+GIRA Legal	19638
+GIRA Legal View	19638
+GIRA Ontology	19638
+GIRA Organisational View	19638
+GIRA Organisational View Organisational	19638
+GIRA Organisational View The GOU	19638
+GIRA Solution Building Block	19638
+GIRA Solution Building Blocks and TOGAF	19638
+GIRA View. GIRA Viewpoint. Interoperability Requirement	19638
+GIRA Viewpoints	19638
+GIRA Views	19638
+GIRA. Interoperability Specification	19638
+GIRA. Ontology	19638
 GIRAFE	969,14505
 GIRAI	8010,1564
 GIRAV Project	17228
@@ -736,6 +764,7 @@ GIS-generated	15244
 GIS. Cited	1595
 GIS. Geographic Information System	18904
 GIS. Ms. Makombo N'Tumba	14504
+GISABO	19687
 GISAGARA Registered Marriage NYARUGURU	12413
 GISB NA IEC	16103
 GISB Révision Réunion	16103
@@ -1014,7 +1043,7 @@ Gift Manda Stores Teacher	13392
 Gifted	16950
 Gifted Mom	15480
 Gifted Students’ Perceptions of Course Quality	961
-Gifting	7954,10062,1047,1
+Gifting	7954,10062,1047,1,568
 Gifting Data	18513
 Gifting of IT Equipment	18016
 Gifts	15492
@@ -1064,8 +1093,9 @@ Gigabyte	6928,3865,4095,733,3624
 Gigabyte Firmware Executive Editor	3279
 Gigabyte G2B	14879,1993
 Gigabyte IAP	6000
+Gigabyte for Internet	19642
 Gigabyte of ITU ICT	1284,12047
-Gigabytes	236,2539,10262,2099,194
+Gigabytes	236,2539,10262,2099,194,4303
 Gigabytes Technology Q1	15136
 Gigabytes. Fixed	11085
 Gigafactories	6487
@@ -1077,6 +1107,7 @@ Gigauri I. Implementation	12255
 Gigawatt	12358,3301,80,3556
 Gigawatt GWh Gigawattheure HT Haute	18103
 Gigawatt Global	13433
+Gigawatt Global Burundi SA	19661
 Gigawatt Hour	2775
 Gigawatt. Amos Siwoi	1639
 Gigawattheure	19295
@@ -1089,9 +1120,14 @@ Gigler	10726
 Gigler’s Alternative Evaluation Framework	10726
 Gihana	12333
 Gihana and Kooijman	12333
+Gihanga Commune	19655
+Gihanga Commune. Ndayizeye	19655
 Gihango Kabacuzi	12413
+Giharo	19655
+Giharo Commune	19655
 Gihengeri	15255
 Gihengeri Cell	15255
+Gihofi	19645
 Gihosha	5673
 Gihugu	1214,13648,1,30,209
 Gihugu BNR	15102
@@ -1174,6 +1210,7 @@ Gillian Rosenberg	7138,13
 Gilliana Anacoura	7761
 Gilliana Anacoura The Commission of Inquiry	17678,43
 Gilligan	18104,1133
+Gilloux	19654
 Gillwald	322,106,4,1,111,417,1156,2927,4715,1097,339
 Gilmard	15901
 Gilton Kadziyanhike Edouard Kayihura Fazal Rehman	16973
@@ -1238,7 +1275,7 @@ Girl Power Action Initiative	12297
 Girl's Education Initiative	15661
 Girl-child	16951
 GirlCode	11967
-Girls	3583,1715,4474,22,1538,137,431,16,2,323,95,75,560,124,237,628,833,142,16,169,50,277,44,62,51,57,483,160,407,231,29,130,5,81,79,23,681,69,402,19,1,122,161,454
+Girls	3583,1715,4474,22,1538,137,431,16,2,323,95,75,560,124,237,628,833,142,16,169,50,277,44,62,51,57,483,160,407,231,29,130,5,81,79,23,681,69,402,19,1,122,161,454,479,38,120
 Girls Boys	18441
 Girls Boys Every Adolescent	18441
 Girls Education Accelerator	12175
@@ -1258,6 +1295,7 @@ Girls Secondary Commercial	15604
 Girls and Boys	12175,1815,10,11
 Girls and Learning	13999
 Girls and Learning Programme Component	13999
+Girls and Tech	19825
 Girls and Young Women ARME Multisectoral Economic	15491
 Girls' Education and Women's Empowerment and Livelihoods	13459
 Girls' Empowerment	15658
@@ -1349,7 +1387,8 @@ GitOps	10721
 Gitahi	7187,5110
 Gitarama	718,15382
 Gitau	6046,1502,3087
-Gitega	2624,2345,704,232,156,328,216,2568,1299,1941,887,14,9,1,6,4,56,37,6,9,3,73,2,27,40,1,11,18,40,17,15,5
+Gitega	2624,2345,704,232,156,328,216,2568,1299,1941,887,14,9,1,6,4,56,37,6,9,3,73,2,27,40,1,11,18,40,17,15,5,5951,3,52,4
+Gitega In Gitega	19704
 Gitega Karusi	13300
 Gitega Karusi Kayanza Kirundo Makamba Muramvya	13390
 Gitega Sector Office	4941
@@ -1362,6 +1401,7 @@ Gitega. Cette	13657
 Gitega. L’IGEBU	13702
 Gitega. Organisé	13547
 Gitega. TYPE DE CONTRAT Contrat	13635
+Giteranyi	19645
 Gitex	6258
 Gitex Africa	5772,4127
 Gitex Africa Morocco STARTUPS Vision Develop	1885
@@ -1378,10 +1418,12 @@ Githurai Mixed Secondary School	10313
 Giti Kivumu Nyabirasi Coko Gahini Hindiro	12413
 Gitinga Comprehensive School	10313
 Gitovu	12413
+Gittler	19654
 Gitugutu	13303
 Gitunduti Primary and Junior School	6946
 Gitungo Wamere	17745
 Gitwe Ruhango Twumba Mutuntu P	12413
+Gitwenge	19645
 Giuffrè L	8460
 Giulia	12948
 Giulia Fanti	7711
@@ -1412,7 +1454,7 @@ Give the Authority	762
 Give the Presidential Task Team	6832
 GiveDirectly	5233,6761,4779,2464
 GiveDirectly’s Lieberman	16773
-Given	10,226,159,23,153,2,6,192,18,110,41,21,9,30,243,5,9,27,363,54,3,73,33,18,22,17,121,108,211,152,2,54,34,42,77,138,83,59,41,81,91,15,209,71,127,15,6,10,37,131,345,87,39,179,221,23,56,116,35,45,42,2,70,215,25,395,5,18,132,9,309,46,59,88,80,45,114,44,88,118,2,113,1,155,9,110,22,261,83,90,11,22,176,96,39,180,174,60,97,137,22,333,92,6,372,39,82,19,126,118,373,250,25,187,4,3,42,1,1,3,7,4,1,42,7,12,3,7,1,29,38,21,15,5,3,1,13,3,5,19,24,8,14,80,1,2,1,1,1,4,3,11,42,20,1,11,49,12,20,57,14,37,133,10,3,9,6,7,270,2,6,20,9,8,5,2,2,7,8,31,9,1,21,8,12,84,51,20,14,35,4,6,7,30,13,58,1,8,1,31,7,9,14,4,7,1,2,2,11,5,14,45,10,126,43,248,24,5,2,11,19,82,219,33,2,17,1,17,38,74,16,27,19,15,143,187,123,13,181,155,8,86,233,56,13,8,17,13,3,57,43,2,9,8,1,25,10,3,12,18,20,12,22,4,16,17,46,13,23,11,15,61,12,65,70,39,13,23,15,11,7,31,2,5,35,48,3,17,37,1,2,2,25,25,52,118,100,49,112,292,374,42,15,5,4,20,25,1,17,3,7,2,7,2,3,12,10,11,23,18,6,56,6,9,13,12,18,82,18,28,41,41,37,54,45,277,1,68,21,13,10,13,44,154,19,170,25,41,15,69,18,3,114,38,4,15,119,41,1,13,14,64,17,7,22,212,69,70,123,48,64,15,21,16,5,8,11
+Given	10,226,159,23,153,2,6,192,18,110,41,21,9,30,243,5,9,27,363,54,3,73,33,18,22,17,121,108,211,152,2,54,34,42,77,138,83,59,41,81,91,15,209,71,127,15,6,10,37,131,345,87,39,179,221,23,56,116,35,45,42,2,70,215,25,395,5,18,132,9,309,46,59,88,80,45,114,44,88,118,2,113,1,155,9,110,22,261,83,90,11,22,176,96,39,180,174,60,97,137,22,333,92,6,372,39,82,19,126,118,373,250,25,187,4,3,42,1,1,3,7,4,1,42,7,12,3,7,1,29,38,21,15,5,3,1,13,3,5,19,24,8,14,80,1,2,1,1,1,4,3,11,42,20,1,11,49,12,20,57,14,37,133,10,3,9,6,7,270,2,6,20,9,8,5,2,2,7,8,31,9,1,21,8,12,84,51,20,14,35,4,6,7,30,13,58,1,8,1,31,7,9,14,4,7,1,2,2,11,5,14,45,10,126,43,248,24,5,2,11,19,82,219,33,2,17,1,17,38,74,16,27,19,15,143,187,123,13,181,155,8,86,233,56,13,8,17,13,3,57,43,2,9,8,1,25,10,3,12,18,20,12,22,4,16,17,46,13,23,11,15,61,12,65,70,39,13,23,15,11,7,31,2,5,35,48,3,17,37,1,2,2,25,25,52,118,100,49,112,292,374,42,15,5,4,20,25,1,17,3,7,2,7,2,3,12,10,11,23,18,6,56,6,9,13,12,18,82,18,28,41,41,37,54,45,277,1,68,21,13,10,13,44,154,19,170,25,41,15,69,18,3,114,38,4,15,119,41,1,13,14,64,17,7,22,212,69,70,123,48,64,15,21,16,5,8,11,43,1,5,1,1,17,1,2,13,28,5,89,34,4,4,4
 Given Africa	415
 Given Algeria	16279
 Given Angola	10768
@@ -1454,7 +1496,7 @@ GivenMogadishu'shighpopulationdensityandthediversity	15085
 Givenathreshold T	8606
 Giverny Meaki	18911
 Gives	1014,2692,7563,2116
-Giving	1,10,2584,4410,3713,240,82,1187,318,1948,31,878,256,1205,21,273,942,805
+Giving	1,10,2584,4410,3713,240,82,1187,318,1948,31,878,256,1205,21,273,942,805,760,147
 Giving Every Farmer	14308
 Giving the Committees	11860
 Giz. Pour Awonon Marius	7168
@@ -1489,6 +1531,7 @@ Guinea Ecuatorial. GITGE	3179
 Guinea GIN Implementing	13082
 Guinea GITGE	16942
 Guiné-Bissau. Camila Mejia Giraldo	17412
+H.E Hon. William Kabogo Gitau	19779
 H.E. Advocate Duma Gideon Boko	12568
 H.E. Giancarlo Giorgetti	14097
 H.E. Hon William Kabogo Gitau	6432
@@ -1507,6 +1550,7 @@ Heart Land. In Gitega Sector	4941
 Hermann Gildas	15901
 HerotelbyPaula GilbertJul	2285,9,26,249,245,725,1420,15,4,352,360,114,242,17,15,24,145,11,245,323,24,7
 Herzegovina Georgia Gibraltar Bangladesh Cambodia Cook	16631
+High-level GIRA Model	19638
 High. Given	6539
 Hon. David Gikaria	10313
 Hon. E.T. Gina	4247
@@ -1589,6 +1633,7 @@ International GIInnlndooebvxaal2t0io2n4 Outdated	10969
 International Girls	12241,854,1856
 Internationale GIZ Zusammenarbeit	19245
 Interoperability Components Given	14441
+Interoperability Specifications The GIRA	19638
 Intérêt Economique GoB Gigabit	15424
 Investment and Export Promotion Agency GIRAV Gambia	17105
 Investment and Tourism. Mr. Gitau	6946
@@ -1691,6 +1736,7 @@ MAITRE GISCARD BAVOUEZA-GUINOT Notaire	16425
 MANGONGO Gilles Christian	16381
 MARIA DE FÁTIMA MANDELE GILA	10751
 MCHUMANISI SYSTEM TO GIVE EMASWATI ONE-STOP	13223
+MDAs Given	19639
 MICS. Given	11879
 MILLION FROM THE ZAMBIA GIRL’S EDUCATION	13332
 MILLION FROM ZAMBIA GIRLS' EDUCATION	13459
@@ -1792,6 +1838,7 @@ Namibia. In Gillwald	12325
 National Addressing and GIS Program	16975
 National Addressing and GIS Program Complete the National	16975
 National Backbone and Supporting Infrastructure GITGE	16942
+National Broadband GIS	19641
 National Girls Education Strategy	12175
 National Girls Education Strategy NIR	12175
 National ICT Governing Board Given	16872,103
@@ -1808,6 +1855,7 @@ Ngao Girls Secondary School	10313
 Ngera Nzahaha Kibeho Gisagara District Niboye	12413
 Nigerians. Given	5067
 Niwapongeze Mheshimiwa Najma Murtaza Giga	6019
+No. Environmental and Social Standards Relevance Given	19835
 Nomalungelo Gina	6480,1018,2620,1103
 Nomalungelo Gina. Science	7498
 Non GIZ Programme	18316
@@ -1864,6 +1912,7 @@ POTRAZ Director-General Gift Machengete	13675
 PROCESSED Give	2709
 PROJECT A Gigabit Nation	19532
 PROPOSÉES PAR LE GIM-UEMOA POUR	10711
+PSI de Gitega	19648
 PTF GIZ	15712
 PTF GIZ Banque	15712
 PTFs Budget GIZ Ministère	15712
@@ -2052,10 +2101,12 @@ Smart Africa and GIZ FAIR Forward	4126,7009
 Smart Africa and Germany’s GIZ	7063
 Social Development Consultant Gizework Zewdie	12195
 Social and Economic Inclusion of Women and Girls	15036
+Software GB Giga Byte GCIC	19660
 Sold Unprocessed Holdings Consumption Given	19554
 Sold Unprocessed Percent Given	19554
 Son Excellence Monsieur Giraud EFFANGOYE OBAGHE	16175
 Southern Africa Morne Gijben Lead Scientist	11191
+Spatial Planner and GIS Analyst	19709
 Squatter Gifted Other LAAS-2024	17043
 St. Alphonsa Kisau Girls Secondary School	10313
 St. Maria Veronica Girls Secondary School	10313
@@ -2116,6 +2167,7 @@ Transfers Given	15658
 Transparen GIZ	15712
 Treasury Advocate Gilbert Marcus SC	14193
 Tsegaye Ginbo Gatiso	16996
+Type of Investment GIF Growth	19757
 U.S. Tech Giants	3441
 UMR Espace-Dev's Git	14506
 UNCTAD and GIZ	15478
@@ -2130,7 +2182,9 @@ USD GIInnldnooebvxaal2t0io2n4 Nigeria	11884
 Uasin Gishu	12151,162
 Uasin Gishu County	10399,1859
 Uasin Gishu and Embu Districts	12151
+Uganda. Gifting	19632
 Uganda. Giga Bond	403
+Ugandan Government. Gifting of Bhabhatron Cancer Therapy	19632
 Ugandans. Given	1823
 Union GIZ Deutsche Gesellschaft	13042
 United Kingdom Government's Girls' Education South	3583
@@ -2157,7 +2211,7 @@ Ward Head of Mainika Babban Gida	12051
 Waterbodies Park Gisagara Registered	15056
 Waterloo PHU GIZ Pre-implementation	18478
 Wc GIZ	18316
-Web GIS	16927
+Web GIS	16927,2727
 Web GIS Application Development	13031
 Wesley Girls Basic School	8384
 West Africa GHG Greenhouse Gas GIF	15983
@@ -2181,6 +2235,7 @@ Year GII Position	11884,467,136
 Year GII Position Innovation Inputs Innovation	10969,916,320
 Years of Quality Education for All Girls	12175
 Yes. GIS	13392
+Yoghurt and Gin	19712
 Yvan Giriteka	7955
 Zambia GII	12396
 Zambia Girls' Education and Women's Empowerment and Liveliho	13332

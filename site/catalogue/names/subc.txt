@@ -8,6 +8,7 @@ CAR. Subcomponent	15658
 CHWELE SUBCOUNTY HOSPITAL Data Controller INST-630842D1B60	7167
 CHWELE SUBCOUNTY HOSPITAL Data Processor INST-630842D1B60	7167
 CNPS. Subcomponent	11855
+CPO and Subcounty	19715
 CSCs. Subcomponent	16949
 Cancelled Subcomponent	15969
 China Unicom. SubCom	4676
@@ -24,6 +25,7 @@ Description African Development Under Subcomponent	3604
 Descrição Detalhada da Subcomponente	11440
 Digital Access and Inclusion Subcomponent	1228,3425
 Digital Economy Subcomponent	3604
+Digital Health Subcommittee	19644
 Dimensions and Subcategories of Digital Maturity	1824
 Disclosure of Subcontractors GCSP	6432
 E&S Screening Form for Subcomponent	1988
@@ -33,6 +35,7 @@ Epitech University and MStudio. Under Subcomponent	3604
 Establish Technical Subcommittee	12419
 Existing Subcomponent	15969
 FAS-IDL and Subcomponents	10768
+GCRF. Subcomponent	19643
 Google and SubCom	4676
 Government Single Portal. Subcomponent	11965
 Government Subcomponent	4653
@@ -97,7 +100,7 @@ Subcomités Sectoriales de Estadísticas Celebrar	16898
 Subcommittee	8377,44,4676,805,175,665,4243
 Subcommittees	14736
 Subcommittees Formation	12675
-Subcomponent	761,210,18,7,232,36,440,74,89,121,1001,615,1049,967,5148,61,135,453,108,330,69,41,255,168,24,642,277,1185,455,167,234,119,22,88,57,1,2,82,226,175,43,197,270,242,26,27,150,15,327,408,255,197,203,261,122,358
+Subcomponent	761,210,18,7,232,36,440,74,89,121,1001,615,1049,967,5148,61,135,453,108,330,69,41,255,168,24,642,277,1185,455,167,234,119,22,88,57,1,2,82,226,175,43,197,270,242,26,27,150,15,327,408,255,197,203,261,122,358,398,20,78,106
 Subcomponent IDA	18301
 Subcomponente	11390,50,102
 Subcomponentes	11440
@@ -119,6 +122,7 @@ Subcontratante	11582,3803,3370
 Subcontratar	1701
 Subcontratação	11386
 Subcontratistas	4209
+Subcounty Network Capacity	19745
 Subcribers	18452
 Subcribers Figure	4517,2461
 TE SubCom	3782

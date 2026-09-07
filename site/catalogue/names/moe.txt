@@ -14,9 +14,11 @@ Casa da Moeda	6571
 Casa da Moeda de Portugal	4415,1,1,1,11611
 Central MOE Office. The SMCs	16963
 Central MoETE	15604
+Centralized Education Data Warehouse. The MoES	19776
 Chair Mosotho Moepya	10497
 Challenge Corporation MoE Ministry of Energy MSME	15515
 Chief Information Security Officer MoE Ministry	6936
+Communities. The MoES	19776
 Conta de Moeda Electrónica	11404
 Conta de Moeda Electrónica Legenda	11404
 Contas de Moeda Electrónica	11404
@@ -52,7 +54,7 @@ Governate and MoETE	15604
 H. Moe	11028
 HONOURABLE MOETI CEASAR MOHWASA	12580
 Hon Moeti Mohwasa	9708
-Hon. Beatrice Askul Moe	17645
+Hon. Beatrice Askul Moe	17645,2134
 Honourable Moeti Caesar Mohwasa	12585
 ICT Strategy MoETE	15604
 III. Moeda	18798
@@ -131,6 +133,7 @@ Ministry of Innovation and Technology. MoE	13991
 Ministry of International Cooperation MOE	14857
 Ministry of National Defense MoE	16975
 MoCT MoECHE	15164
+MoDVA Ministry of Defense and Veterinary Affairs MoES	19642
 MoE Annual	7548
 MoE Annually Percentage	13991
 MoE Annually Project	13991
@@ -155,6 +158,7 @@ MoE and MoGCDSW	12175
 MoE and MoH	12195
 MoE and WB	13378,14
 MoE. Improved Inclusive Quality School Readiness	13990
+MoEACA	19641
 MoECC	14949,3563
 MoECHE	14896,20,55,16,177
 MoECHE Ministry of Education	14971,88
@@ -218,7 +222,7 @@ Moemi	11285
 Moen A. One Digital Health	14666
 Moeng College	12618
 Moeti	9129
-Moeti Mohwasa	12591
+Moeti Mohwasa	12591,7104
 Moez Ayari	19372
 Moez Ben Hassine	18063
 Moez Kamoun	6175
@@ -254,6 +258,7 @@ Steering Committee MoETE Deputy Minister	15604
 Strengthen MoE	17196
 Strengthen MoEWR	11136
 Strengthening MoETE	15604
+Subnational Level. The MoES	19776
 Support MoE	17196
 Sustainable Fodder Import Policy MoET	17157
 System MoCT Ministry of Communications and Technology MoECHE	15164

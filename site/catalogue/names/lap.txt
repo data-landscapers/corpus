@@ -17,7 +17,7 @@ I C- Laptop D- Another	582
 LAP Green	18887
 LAPA Task Force	5620
 LAPA-assessed	5620
-LAPCAS	8,12539
+LAPCAS	8,12539,7107
 LAPCO	15685,39
 LAPCO Laboratoire	15724
 LAPF Pensions Fund	19531
@@ -39,6 +39,7 @@ Lapai	9879
 Lapho	11551,22
 Lapins	737,12563
 Lapolice	19212
+Lapono	19728
 Lapossessionseprouvepartoutmoyen.Elle	19212
 Lapoursuitepeutégalementavoirlieuen	19212
 Lapreuvedesdroitsfoncierssefaitparletitrefoncier.Toutefois	19212
@@ -52,7 +53,7 @@ Laprénotationfaite	19212
 Laprésente	13719
 Lapsed	15164
 Lapsing	12405,256
-Laptop	34,548,5269,2103,4429,71,731,1651,2498
+Laptop	34,548,5269,2103,4429,71,731,1651,2498,2305,63
 Laptop C- Sending	582
 Laptop Computer Specifications DATE QUANTITY	34
 Laptop Desktop Tablet	582
@@ -61,7 +62,7 @@ Laptop Lock	34
 Laptop Maintenance	14148
 Laptop Zenye Program	19565
 Laptop and Printers	16970
-Laptops	34,1954,4585,5287,3061,243,1806,1,209,148,892,1345
+Laptops	34,1954,4585,5287,3061,243,1806,1,209,148,892,1345,137
 Laptops Standards and Guidelines The ICT Unit	34
 Laptops for Ministers	2779
 Laptops for Non-Technical Chief Directors	2779

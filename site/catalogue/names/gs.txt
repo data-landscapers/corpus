@@ -203,7 +203,7 @@ GSMA Head Office	6593,4411,13,885,62,30
 GSMA Head Office One Angel Lane	10856,3818
 GSMA ICT IDI IT INS ISP	15480
 GSMA Innovation Fund	19534
-GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73,72,757,31,65,107,30,8,439,871,2,17,1343,346,2,452,6,13,20,40,366,1,224,655,73,70,138,1239,698
+GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73,72,757,31,65,107,30,8,439,871,2,17,1343,346,2,452,6,13,20,40,366,1,224,655,73,70,138,1239,698,642
 GSMA Intelligence Adult	11964
 GSMA Intelligence Connectivity	6593
 GSMA Intelligence Database	18777
@@ -219,6 +219,7 @@ GSMA Intelligence Panos Loukos	11994
 GSMA Intelligence Policies	6593
 GSMA Intelligence and GSMA	12385
 GSMA Intelligence and GoYo Analytics	10856
+GSMA Intelligence and IEA Report	19728
 GSMA Intelligence and Kepios	2483,1,1,4,7,1413
 GSMA Intelligence. Authors	10932
 GSMA Intelligence. Chart	14674
@@ -432,6 +433,7 @@ Government Service Bus GSM Global System	13346
 Government Wide Network GSMA	14879,1993
 Government. The GSB	12416
 Gov’t Adjusts GST Rate	17258
+Greenhouse Gas GSDD Gender	19646
 Grievance Redress Mechanism GSMA Global System	17862
 Gross Domestic Product GSM	14879,1993
 Gross Domestic Product GSMA Global System	12395

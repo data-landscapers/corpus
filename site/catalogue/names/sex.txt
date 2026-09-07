@@ -14,12 +14,13 @@ Actividade Sexual Recente	10777
 Adolescent Sexual Reproductive Health	19544
 Adolescent and Youth Sexual	10865
 Age Female Male Sex Ratio	12151
-Age Group and Sex	12655,322
+Age Group and Sex	12655,322,6738
 Age Group and Sex Age	12977
 Age Group and Sex for Children	12977
 Age Groups and Sex	19542
 Age and Sex	2775,9376,1216,277,1603,1674,193,2428
-Age and Sex Composition	13367
+Age and Sex Composition	13367,6348
+Age and Sex Composition Age	19715
 Age and Sex Figure	12367
 Age and Sex Fundamental	19542
 Age and Sex Reports	19542
@@ -80,6 +81,8 @@ Course and Sex	2775
 DES ELEVES PAR AGE ET SEXE	10847
 DISAGGREGATION BY SEX OF HOUSEHOLD HEAD	15244
 Date Prénom Age Sexe AE	19226
+Department and Sex	19712
+Department and Sex Directorate Department Female Male	19712
 Description Sex Very Somewhat	12409
 Desporto Sexta	11429,50
 Development SEA Sexual Exploitation and Abuse SH	19245
@@ -111,6 +114,7 @@ Experiência de Violência Sexual	10777
 Exploitation Sexuelles	14488,1,1
 Exploitation Sexuels	14488,1,1
 Exploitation and Abuse SH Sexual Harassment STEP	16896
+Exploitations Abus Sexuels	19687
 FBU Sexe Homme Femme Vivant	13390
 FEMME NON EN UNION SEXUELLEMENT ACTIVE1	13300
 FEMMES NON EN UNION SEXUELLEMENT ACTIVES4	13300
@@ -149,6 +153,7 @@ HABITUELS LIEN AVEC SEXE RÉSIDENCE	13300
 HIV and Sexually Transmitted Infections	14839
 HS Harcèlement Sexuel IST Infection Sexuellement	15746
 Harcèlement Sexuelles MECIE	14488,1,1
+Harcèlements Sexuels	19687
 Health and Rights STD Sexually Transmitted Disease	970
 Homme M Sexo	18757
 Hotel Amid Sex-for-Grade Plot. He Got	10034,231
@@ -269,6 +274,7 @@ Phases Multiples MST Maladie Sexuellement Transmissible	10876
 Physique Sexuelle	13300
 Place of Occurrence and Sex of Decedent	12672
 Place of Residence and Sex	16921,2621
+Place of Residence and Sex of Household	19715
 Place of Residence and Sex of Household Head	16921
 Place of Residence and Sex of Household Head Male	16921
 Policy Framework SEA Sexual Exploitation and Abuse	1988
@@ -378,6 +384,7 @@ Sex Area Wealth Quintile Mother	18441
 Sex Area Wealth Quintile Mother's Education	18441
 Sex Area Wealth Quintile National Disparities	18441
 Sex Before Age	18441
+Sex Composition	19715
 Sex Country	16935
 Sex Distribution of Household Population Senior Secondary	18441
 Sex District	12379
@@ -394,7 +401,7 @@ Sex Occupation Profess	16935
 Sex Of The Household Head	16921
 Sex Ordinary Institutional Floating	16921
 Sex Physical Sexual Neglect Emotional Financial	12977
-Sex Ratio	958,8527,2666,4770
+Sex Ratio	958,8527,2666,4770,2794
 Sex Ratios	12151
 Sex Ratios for Registered Deaths	12151
 Sex Regular Institutional Floating	16921
@@ -416,8 +423,10 @@ Sex Total Male Female River Gee	16921
 Sex Total Male Female Sinoe County	16921
 Sex Young	11581
 Sex and Age	17099,2443
-Sex and Age Group	14945,1976
+Sex and Age Disaggregated HIV	19646
+Sex and Age Group	14945,1976,2794
 Sex and Age Group Total Male Female	16921
+Sex and Age of Children	19715
 Sex and County	2775,14146
 Sex and County Total Male Percent Female	16921
 Sex and County Total Urban Rural Male	16921
@@ -436,6 +445,7 @@ Sex and Region	19542,15
 Sex and Rural	12431,936
 Sex and School Attendance	19542
 Sex and Selected Age Groups	19542
+Sex and Selected Background Characteristics	19715
 Sex and Type of Offence	2775
 Sex of HH	15244
 Sex of Head of Household MPI Indicators Sudan	15244
@@ -450,6 +460,7 @@ Sex of Value MPI Value H	15244
 Sex-Disaggregated	12389
 Sex-disaggregated	4688,3189,4512,3755,772
 Sex-ratio	12413,2643
+Sex. Regarding	19834
 Sex.......................................10 Figure	19555
 Sexact	8606
 Sexe Dermatose Lèpre UB N	19226
@@ -521,7 +532,7 @@ Sexual Behaviour Sexual Behavior	18441
 Sexual Behaviours	18441
 Sexual Exploitation	9766,1010,2409,1895,2019,190,1215,8
 Sexual Exploitation Abuse and Sexual Harassment Action	14976
-Sexual Exploitation and Abuse	1264,514,89,4036,5514,836,724,134,74,147,1290,433,25,581,1235,26,177,15,1256,295,619
+Sexual Exploitation and Abuse	1264,514,89,4036,5514,836,724,134,74,147,1290,433,25,581,1235,26,177,15,1256,295,619,379
 Sexual Exploitation and Abuse Mitigation Plan	2889
 Sexual Exploitation and Abuse Politique Nationale de Santé	14622
 Sexual Exploitation and Abuse Referral Florence Apuri	18665
@@ -534,7 +545,7 @@ Sexual Exploitation and Abuse and Sexual Harassment	1988,13150,1976
 Sexual Exploitation and Abuse and Sexual Harassment Action	13331
 Sexual Extortion	12459
 Sexual Gender-Based Violence	18615
-Sexual Harassment	1264,514,89,121,3915,5514,548,288,858,74,147,1723,25,581,1235,26,13,164,15,51,1205,98,36,66,714
+Sexual Harassment	1264,514,89,121,3915,5514,548,288,858,74,147,1723,25,581,1235,26,13,164,15,51,1205,98,36,66,714,379
 Sexual Harassment Compliance Team STD Sexually	16926
 Sexual Harassment Performance Declaration	13185
 Sexual Harassment Policy	16852
@@ -593,6 +604,7 @@ Sistema Educativo Nacional. Sexo. Es	16962
 Social SOGI Sexual Orientation and Gender Identity	11413
 Sociedade Sexta	11479
 Soudure II Total Sexe	13442
+Special Age Group and Sex	19715
 Specific Age Group and Sex	19544
 Stakeholder Engagement Plan SH Sexual Harassment	16926
 Stakeholder Engagement Plan SIGED Sexual Harassment	10964
