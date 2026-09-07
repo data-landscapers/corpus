@@ -109,6 +109,7 @@ Beneficiam da Profilaxia Completa	18768
 Beyond Compliance	12969
 Bidding Forms Price and Completion Schedule	13185
 Biharamulo DC Unqualified Compliant	19585
+Bill Complaints	19929
 Birth Complica-	12151
 Birth Registration Completeness	12151,1493
 Birth Registration Completeness Between	12151
@@ -292,7 +293,7 @@ Complainants	1807,1500,655,12881,46,37,173,18,39,95
 Complainants The Complainants	3307
 Complainants. The Respondent’s Privacy Policy	3307
 Complaining	8460,9639
-Complaint	1778,1337,1998,563,3,13,1056,2361,208,419,1270,175,775,210,136,246,1428,699,159,84,137,608,369,810,45,39,173,15,129,1195,66,421,633
+Complaint	1778,1337,1998,563,3,13,1056,2361,208,419,1270,175,775,210,136,246,1428,699,159,84,137,608,369,810,45,39,173,15,129,1195,66,421,633,371
 Complaint Call	15721
 Complaint Channels	3861
 Complaint Committee	1778
@@ -322,7 +323,7 @@ Complaint Tool	8529
 Complaint Type	13097
 Complaint Unit CEET Compagnie Energie Electrique	12062,6124,31
 Complaint-Stage Determination	17243
-Complaints	34,1230,20,583,801,108,113,715,2061,11,11,57,159,636,281,126,1514,969,18,1321,61,131,2,2,234,26,193,108,117,213,6,44,55,5,220,68,398,42,226,10,1,48,119,224,10,235,869,293,2,50,100,27,116,115,26,176,71,107,35,105,1,2,483,695,1,2,1,24,29,26,2,19,6,51,99,15,129,6,2,1208,3,3,137,369,202,72,39,246,28,70,6,180,33
+Complaints	34,1230,20,583,801,108,113,715,2061,11,11,57,159,636,281,126,1514,969,18,1321,61,131,2,2,234,26,193,108,117,213,6,44,55,5,220,68,398,42,226,10,1,48,119,224,10,235,869,293,2,50,100,27,116,115,26,176,71,107,35,105,1,2,483,695,1,2,1,24,29,26,2,19,6,51,99,15,129,6,2,1208,3,3,137,369,202,72,39,246,28,70,6,180,33,29
 Complaints ARTICLE	15484
 Complaints Article	14907
 Complaints Commission	14742
@@ -341,6 +342,7 @@ Complaints Handling RURA	718
 Complaints Handling Regulations	12301
 Complaints Handling and Redress Mechanisms	7763
 Complaints Log Book	1778
+Complaints Mail	19876
 Complaints Management	1988,12792
 Complaints Management Committees	17962
 Complaints Management In FY	15023
@@ -398,7 +400,7 @@ Complementarity The CRVS	14889
 Complementarity of Interventions Activities Level of EBESP	15661
 Complementarity of Interventions Between the EBESP	15661
 Complementarmente	11444,125,449,795,3149
-Complementary	1688,224,379,515,167,514,75,272,1058,552,1149,955,1886,1983,52,1601,27,69,148,300,10,149,1045,79,100,141,466,442,98,714,84,24,7,165,119,1036,502
+Complementary	1688,224,379,515,167,514,75,272,1058,552,1149,955,1886,1983,52,1601,27,69,148,300,10,149,1045,79,100,141,466,442,98,714,84,24,7,165,119,1036,502,1090
 Complementary Agreement and Complementary Agreement II	125
 Complementary Education	15796
 Complementary Instructions	12364
@@ -467,6 +469,7 @@ Complete and Abridged	19110
 Complete the Administrator Profile	13333
 Complete the Audit	12389
 Complete the IPv6	958
+Complete the National ID	19927
 Complete the Onboarding Process	19699
 Complete the Reforms	13005
 Complete the Zimbabwe	12399
@@ -521,6 +524,7 @@ Completed Secondary	19542
 Completed Secondary Education	12383
 Completed TIN Forms	16601
 Completed TZS	19585
+Completed Technical Areas	19925
 Completed Tertiary Education	12383
 Completed Updated	16853
 Completed Upper Completed	19542
@@ -648,7 +652,7 @@ Complexo Laboratorial de Saúde Digital	12846
 Complexo. Depois	11435
 Complian	6432
 Complianc	6432
-Compliance	436,282,282,9,11,5,189,119,193,462,645,35,290,29,227,437,63,147,111,182,13,35,15,43,41,48,179,235,3,82,284,36,184,181,58,74,198,159,33,321,56,303,211,119,139,314,30,241,238,409,28,639,25,123,349,74,21,160,84,218,250,209,13,92,44,3,41,47,118,157,2,1,64,24,28,2,611,89,3,1,9,21,9,167,4,48,26,13,48,24,31,4,5,9,26,22,17,14,37,7,3,12,37,9,103,25,7,210,6,13,16,29,2,36,31,1,5,9,2,132,10,125,98,2,84,123,54,504,237,13,14,75,51,152,1,2,48,31,3,7,39,7,2,30,35,65,26,11,32,14,1,45,23,3,109,215,187,549,419,204,4,3,21,23,38,23,2,29,59,62,15,129,6,73,212,212,732,4,18,17,26,227,123,32,51,9,188,354,49,8,45,74,9,23,48,18
+Compliance	436,282,282,9,11,5,189,119,193,462,645,35,290,29,227,437,63,147,111,182,13,35,15,43,41,48,179,235,3,82,284,36,184,181,58,74,198,159,33,321,56,303,211,119,139,314,30,241,238,409,28,639,25,123,349,74,21,160,84,218,250,209,13,92,44,3,41,47,118,157,2,1,64,24,28,2,611,89,3,1,9,21,9,167,4,48,26,13,48,24,31,4,5,9,26,22,17,14,37,7,3,12,37,9,103,25,7,210,6,13,16,29,2,36,31,1,5,9,2,132,10,125,98,2,84,123,54,504,237,13,14,75,51,152,1,2,48,31,3,7,39,7,2,30,35,65,26,11,32,14,1,45,23,3,109,215,187,549,419,204,4,3,21,23,38,23,2,29,59,62,15,129,6,73,212,212,732,4,18,17,26,227,123,32,51,9,188,354,49,8,45,74,9,23,48,18,89
 Compliance Adherence	13042
 Compliance Advisor Ombudsman	11007
 Compliance Agreement	14828,3
@@ -1000,7 +1004,7 @@ Economic Complexity Index	10157,2219
 Economic Complexity OPEC Organization of Petroleum Exporting	16996
 Economic Complexity PTS Political Terror Scale	10835,3,130,902,16,466,1,135,7334
 Economy Approach ICR Implementation Completion and Results	17849
-Education Completion	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Education Completion	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Education Completion Score Rank	11886
 Education Completion Warning Signs Business	11870
 Education Education Enrolment Education Completion Human	10837,1315,188
@@ -1009,6 +1013,7 @@ Effect of Compliance PUBLIC UTILITIES REGULATORY AUTHORITY	17249
 Egypt Records the Lowest Mobile Complaint Rate	11642
 Election Situation Room. Independent Complaints Commission	12241
 Electricity Complaints Chatbot	18566
+Electronic Biometric Documents Complementing the NACSR	19900
 Electronic Facilities and Compliance Platform The MRA	14785
 Electronic Government Standards and Compliance	12453,892
 Electronic Government Standards and Compliance Government	12453,892
@@ -1070,7 +1075,7 @@ Evidence of Compliance CM-NSG	10721
 Evidence of Compliance GC-OV.S1	10721
 Evidence of Compliance Tier	10721
 Exchange Control Regulations and Compliance Trained Nedbank	11131
-Executive Compliance	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Executive Compliance	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Executive Head of Compliance	12272
 Expected Completion Date	16308
 Expected Registered Completeness County	12151
@@ -1422,6 +1427,7 @@ Megawatt Complex	12515
 Meios Complementares de Alojamento Turístico	11458
 Merger Is Not Completed	7198
 Meru DC Unqualified Compliant	19585
+Middle East and Africa. Complementing EUI	19885
 Midlands Multipurpose Complex The ULGSB	14738
 Minimum Compliance Checklist PDF File	15207
 Minimum Emission Standard Compliance	11228
@@ -1509,7 +1515,7 @@ Number of Complaints Complaints	11131
 Number of Investigations Completed	13053
 OBJECTIVES OF COMPLIANCE ASSESSMENTS	13381
 OBTAIN A TAX COMPLIANCE	11240
-OEC Observatory for Economic Complexity	11887,266,1,9,178
+OEC Observatory for Economic Complexity	11887,266,1,9,178,7517,1
 OEM CERTIFICATION Comply Not Comply	11209
 OP-ED BY DATA COMMISSIONER Strengthening Compliance	2668
 OPD Complex	19585
@@ -1958,10 +1964,12 @@ Telcom Consumer Compliance Supply Chain Services	6946
 Telecom Complaints	11642
 Telecommunications Compliance and Telkom Kenya Limited	6946
 Tempo Completo	18775
+Temporary ID Completed Application for National ID	19927
 Tenengfara Business Complex	16914
 Teraco Completes JB4 Expansion	14673
 Terminal Complex Aquifer	17157
 Timeframes and Compliance	17243
+Timeline for Compliance Although the Regulations	19910
 Timelines for Complaints Handling	17243
 Timelines for Complaints Handling The Authority	17243
 Timeliness of Registration and Registration Completeness	12672
@@ -1978,6 +1986,7 @@ UNECA Comprehensive CRVS Assessment Complementing the ID4D	13005
 US Foreign Account Tax Compliance Act	11685
 USE COMPLEXITY	6432
 Ujiji MC Unqualified Compliant	19585
+Underage ID Complete	19927
 Unified Government Complaints System	9414
 Union Completed	12657
 Unqualified Compliant	19585

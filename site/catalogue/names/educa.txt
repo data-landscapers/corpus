@@ -132,6 +132,7 @@ Agroforestry Integration Education	17157
 Aims of Education	16852
 Aims of Secondary Education	19690
 Akwa Ibom State Ministry of Education	7664
+Algerian Educational Institutions	19881
 Algerian Ministry of Vocational Training and Education	5952
 All EMIS Educational Management Information System	13960
 Alternative Basic Education	13991,925,296
@@ -193,6 +194,7 @@ Arts and Recreation and Higher and Tertiary Education	13310
 Arusha CC Education	19585
 Arusha. The Association for Educational Assessment	10675
 Asmara College of Education	13972
+Asmara Community College of Education	19933
 Assessment Education Sector Plan for Egypt Education	15604
 Assets NFA National Financial Inclusion and Education	17235
 Assistant Director for Early Childhood Education	13636
@@ -470,7 +472,7 @@ Climate-Smart Education Systems Initiative	12504
 Close Education Student Services Open Days	15552
 Cluster Education Il	15936
 Collaborating To Transform And Improve Education	899
-College of Education	13972,4500
+College of Education	13972,4500,1461
 College of Teacher Education	13991,8
 Colleges of Education	7405,2171,2281,375
 Comissão Nacional de Educação	10766
@@ -652,6 +654,7 @@ Demographics Education Employment Housing Land	12498
 Departamentos de Educación	4209
 Department Higher Education Opportunities	9128
 Department and Agencies MoF Ministry of Education	19534
+Department of Adult Education and Media	19933
 Department of Adult and Media Education AUP	13956
 Department of Agricultural Research and Education	16256
 Department of Basic Education	6832,3270,1078,38,2,5,16,686,70,10,487,1863,970
@@ -662,6 +665,7 @@ Department of Basic Education Private Bag XB95	11180
 Department of Education	7167,3080,92,841,953
 Department of Education Sector Planning	14922
 Department of Education Statistics	13314
+Department of General Education	19933
 Department of General Education DVD	13956
 Department of Higher Education Programmes	13310
 Department of Higher Education and Training	5533,50,1249,790,1506,237,1029,799,32,23,29,8,18,694
@@ -822,7 +826,7 @@ EDUCACION ENSEÑANZA FORMACION PROFESIONAL	4209
 EDUCATE	7167
 EDUCATEURS	18171
 EDUCATIF CONGOLAIS	15673
-EDUCATION	737,3590,2840,3592,76,2,1,130,224,678,16,2,1,263,1,10,177,1,11,1,135,426,1532,163,114,441,336,232,1140,11,1,51,293,1242,6,36,245,895,1,169,14
+EDUCATION	737,3590,2840,3592,76,2,1,130,224,678,16,2,1,263,1,10,177,1,11,1,135,426,1532,163,114,441,336,232,1140,11,1,51,293,1242,6,36,245,895,1,169,14,22,1,65
 EDUCATION AND BIOSECURITY	7167
 EDUCATION AND EMPOWERMENT OPPORTUNITIES	16970
 EDUCATION AND EMPOWERMENT OPPORTUNITIES Bomi	16970
@@ -1006,7 +1010,7 @@ Educateur	16287
 Educati	13368,2326
 Educatif	18099
 Educating	958,3774,7443,1183,2355,1238
-Education	12,9,188,1,185,23,102,93,30,1,93,38,14,2,31,38,39,59,12,36,148,7,58,144,234,107,4,69,1,36,10,4,49,111,105,380,3,128,62,21,83,5,41,109,33,8,92,323,15,166,21,21,86,101,68,2,42,125,98,156,246,30,57,10,28,176,164,93,23,118,17,3,264,22,122,16,131,173,236,3,209,116,209,84,44,70,2,11,38,30,158,19,181,59,37,57,10,114,10,59,112,33,10,383,151,182,50,21,45,222,16,5,106,36,17,8,1,10,298,41,4,333,9,372,90,119,203,103,3,45,6,10,1,8,30,7,5,3,6,2,1,3,3,3,9,14,43,27,25,2,1,1,7,3,27,73,55,1,5,40,5,7,1,2,1,2,22,1,44,1,5,25,11,162,67,16,5,24,30,33,38,72,16,21,64,2,3,6,1,3,4,5,2,3,1,1,1,1,1,6,5,5,2,9,2,6,1,2,8,9,12,14,1,23,4,10,49,27,67,1,1,1,5,1,3,12,17,13,5,4,13,26,5,70,1,4,3,1,3,1,4,1,5,1,1,2,1,27,16,4,6,1,1,20,8,5,1,42,1,13,3,8,88,42,19,13,1,79,137,5,7,4,7,3,5,1,3,8,1,15,6,7,1,8,3,2,1,16,11,26,6,16,40,21,9,7,74,86,5,5,10,4,27,5,3,15,4,17,5,11,17,36,16,4,3,43,42,13,1,57,13,29,6,4,25,18,4,1,41,16,70,88,8,4,12,7,11,1,3,6,73,5,173,16,143,13,23,4,22,6,23,65,28,15,17,32,16,45,4,11,2,6,6,4,1,17,5,54,1,9,1,11,4,19,5,10,7,1,25,3,10,23,7,11,9,12,27,32,29,5,32,42,18,10,20,2,30,3,125,4,35,23,13,7,6,12,2,6,8,1,2,2,7,15,14,21,3,21,9,21,28,6,1,22,2,10,12,3,5,20,4,20,6,7,15,12,68,3,2,16,70,32,26,5,13,34,1,46,62,48,2,7,41,34,80,69,15,134,41,1,1,13,3,31,85,1,1,1,1,1,1,1,2,64,19,9,11,12,1,2,24,10,6,8,7,2,7,7,5,5,2,3,2,10,7,4,22,3,16,6,56,6,3,6,2,11,12,10,8,6,4,47,21,22,3,25,4,7,42,26,73,5,61,152,14,72,71,3,2,10,2,1,5,6,1,18,3,7,12,2,1,10,21,30,24,13,20,6,5,33,52,1,4,19,2,41,5,92,23,5,11,3,4,10,10,6,4,25,5,72,2,3,12,2,23,2,5,9,30,24,10,1,33,14,28,50,13,55,8,5,119,14,8,19,1,11,9,2,35,50,28,13,10,4,35,13,79,1,13,11,25,63,15,9,9,13,6,62,8,50,14,7,16,13,2,2,26,24,4,5,11,17,6,1,4,32,1,12,13,12,1,55,11,7,6,15,12,1,1,11
+Education	12,9,188,1,185,23,102,93,30,1,93,38,14,2,31,38,39,59,12,36,148,7,58,144,234,107,4,69,1,36,10,4,49,111,105,380,3,128,62,21,83,5,41,109,33,8,92,323,15,166,21,21,86,101,68,2,42,125,98,156,246,30,57,10,28,176,164,93,23,118,17,3,264,22,122,16,131,173,236,3,209,116,209,84,44,70,2,11,38,30,158,19,181,59,37,57,10,114,10,59,112,33,10,383,151,182,50,21,45,222,16,5,106,36,17,8,1,10,298,41,4,333,9,372,90,119,203,103,3,45,6,10,1,8,30,7,5,3,6,2,1,3,3,3,9,14,43,27,25,2,1,1,7,3,27,73,55,1,5,40,5,7,1,2,1,2,22,1,44,1,5,25,11,162,67,16,5,24,30,33,38,72,16,21,64,2,3,6,1,3,4,5,2,3,1,1,1,1,1,6,5,5,2,9,2,6,1,2,8,9,12,14,1,23,4,10,49,27,67,1,1,1,5,1,3,12,17,13,5,4,13,26,5,70,1,4,3,1,3,1,4,1,5,1,1,2,1,27,16,4,6,1,1,20,8,5,1,42,1,13,3,8,88,42,19,13,1,79,137,5,7,4,7,3,5,1,3,8,1,15,6,7,1,8,3,2,1,16,11,26,6,16,40,21,9,7,74,86,5,5,10,4,27,5,3,15,4,17,5,11,17,36,16,4,3,43,42,13,1,57,13,29,6,4,25,18,4,1,41,16,70,88,8,4,12,7,11,1,3,6,73,5,173,16,143,13,23,4,22,6,23,65,28,15,17,32,16,45,4,11,2,6,6,4,1,17,5,54,1,9,1,11,4,19,5,10,7,1,25,3,10,23,7,11,9,12,27,32,29,5,32,42,18,10,20,2,30,3,125,4,35,23,13,7,6,12,2,6,8,1,2,2,7,15,14,21,3,21,9,21,28,6,1,22,2,10,12,3,5,20,4,20,6,7,15,12,68,3,2,16,70,32,26,5,13,34,1,46,62,48,2,7,41,34,80,69,15,134,41,1,1,13,3,31,85,1,1,1,1,1,1,1,2,64,19,9,11,12,1,2,24,10,6,8,7,2,7,7,5,5,2,3,2,10,7,4,22,3,16,6,56,6,3,6,2,11,12,10,8,6,4,47,21,22,3,25,4,7,42,26,73,5,61,152,14,72,71,3,2,10,2,1,5,6,1,18,3,7,12,2,1,10,21,30,24,13,20,6,5,33,52,1,4,19,2,41,5,92,23,5,11,3,4,10,10,6,4,25,5,72,2,3,12,2,23,2,5,9,30,24,10,1,33,14,28,50,13,55,8,5,119,14,8,19,1,11,9,2,35,50,28,13,10,4,35,13,79,1,13,11,25,63,15,9,9,13,6,62,8,50,14,7,16,13,2,2,26,24,4,5,11,17,6,1,4,32,1,12,13,12,1,55,11,7,6,15,12,1,1,11,11,1,3,3,37,22,7,2
 Education A Mixed School Bag	5606
 Education ADRA Adventist Development and Relief Agency	14896
 Education About	17114
@@ -1087,7 +1091,7 @@ Education Common Fund	13349
 Education Communication and Section Communicati	19541
 Education Community of Interest Event As AI	19595
 Education Compact	11905
-Education Completion	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Education Completion	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Education Completion Score Rank	11886
 Education Completion Warning Signs Business	11870
 Education Consultant	14897,1979,994,1061
@@ -1152,7 +1156,7 @@ Education Eector Development Plan	19565
 Education Empowerment	19532
 Education Enabling Factor	12175
 Education Enabling Factor Due	12175
-Education Enrolment	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Education Enrolment	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Education FY17	16436
 Education Facilities	16436
 Education Finance Management Intern	13310
@@ -1376,7 +1380,7 @@ Education Proposed Development Objective	14576
 Education Prédiction	15583
 Education Préscolaire	10847
 Education Psychology and Public Media	8130
-Education Quality	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1503,5661,1,169,14
+Education Quality	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1503,5661,1,169,14,22,1,65
 Education Quality Project	19835
 Education Quality SADC Southern African Development	13310
 Education Quick Win	17860
@@ -1432,7 +1436,7 @@ Education Sector Performance Report FCDO	12175
 Education Sector Performance Report. Ministry of Education	12175,1034
 Education Sector Performance Reports	12175
 Education Sector Performance Reviews	12175
-Education Sector Plan	11525,391,1433,641,1614,57,775,24,561,1439,104,1,346,924
+Education Sector Plan	11525,391,1433,641,1614,57,775,24,561,1439,104,1,346,924,98
 Education Sector Plan Development Grant	14896
 Education Sector Plan Support Project	15661,775
 Education Sector Plan Support Project ESS	15661
@@ -1577,6 +1581,7 @@ Education and Human Resource Development Educational	3861
 Education and ICT	7650
 Education and Information Technologies	6948,1654
 Education and Innovation	14752
+Education and Innovations	19900
 Education and Literacy	13454,1793,4295,173
 Education and Literacy Analysis	19542
 Education and Literacy Analysis Monograph	19542
@@ -1725,7 +1730,7 @@ EducationReform	13204
 EducationScience and Technology Minister of Education	13477
 EducationTechAIInclusive AI	4028
 EducationTransformation	13066
-Educational	582,317,262,716,63,1018,903,265,527,81,2099,194,1575,518,8,1631,72,6,358,76,289,231,66,3,19,10,38,29,134,248,2,16,319,468,171,230,447,745,6,68,2,3,17,3,1,408,3,233,124,57,184,199,416,91,301,305,1263,56,333,141,392,200,43,72,119,30
+Educational	582,317,262,716,63,1018,903,265,527,81,2099,194,1575,518,8,1631,72,6,358,76,289,231,66,3,19,10,38,29,134,248,2,16,319,468,171,230,447,745,6,68,2,3,17,3,1,408,3,233,124,57,184,199,416,91,301,305,1263,56,333,141,392,200,43,72,119,30,81
 Educational Action Entities	18125
 Educational Activities	14897
 Educational Administration	7278
@@ -1859,6 +1864,7 @@ Elaboração da Carta de Política Educativa	18781
 Elaboração de Projetos Educativos	15694
 Electronic Education	16982
 Elementary Education	6948,7012
+Elementary Education Online Publication Date	19881
 Elisha Sikapulanga District Education Standards Officer	13392
 Elizabete Andrade Coordenação Direção Nacional de Educação	15564
 Elmi Islamic Educational Institute. Despite	3046
@@ -2221,7 +2227,7 @@ Global Fintech Institute Education	11017
 Global Framework for Refugee Education	11905
 Global Partership for Education	18781
 Global Partnership Fund for Education	14031
-Global Partnership for Education	899,3930,2944,4087,40,5,11,259,329,222,344,134,1,105,39,641,9,1,57,839,20,20,22,214,20,288,13,111,57,12,70,217,476,24,451,110,212,1227,105,52,31,117,146,31,307,353,55,178
+Global Partnership for Education	899,3930,2944,4087,40,5,11,259,329,222,344,134,1,105,39,641,9,1,57,839,20,20,22,214,20,288,13,111,57,12,70,217,476,24,451,110,212,1227,105,52,31,117,146,31,307,353,55,178,72,26
 Global Partnership for Education Better	17185
 Global Partnership for Education Fund	14936,1,724,1014
 Global Partnership for Education Fund IDA Resources	11905
@@ -2871,13 +2877,13 @@ Minister of Education and Culture	12890
 Minister of Education and Human Resource	14771,3,68
 Minister of Education and Human Resource Dr Mahend	9949
 Minister of Education and Mr. CHON Gyong Shik	770
-Minister of Education and Technical Education	15604,390
+Minister of Education and Technical Education	15604,390,3913
 Minister of Education and Training Ntoi Rapapa	3149
 Minister of Education of Liberia	17173
 Minister of General Education and Instruction	3583,15034,31,71
 Minister of Higher Education	2335,4497,4646,1129,1748,2618
 Minister of Higher Education Research Science	17423
-Minister of Higher Education and Scientific Research	17548
+Minister of Higher Education and Scientific Research	17548,2361
 Minister of Higher Education and Training Buti Manamela	17577
 Minister of Higher Education of The Gambia	17241
 Minister of Higher and Tertiary Education	413,4115,7984,1039,137
@@ -2912,7 +2918,7 @@ Ministries of Basic and Senior Secondary Education	18485
 Ministries of Educat	16436
 Ministries of Education	21,703,1223,1657,2198,285,1204,4569,110,1340,591,130,829,56,637,407,949,287,1250,1211
 Ministries of Education and Gender	16984
-Ministries of Education and Health	17139
+Ministries of Education and Health	17139,2733
 Ministries of Education and ICT	502,397,12076
 Ministries of Education and Labor	13931
 Ministries of Education and Training	12950,360
@@ -2944,7 +2950,7 @@ Ministry of Basic and Senior Secondary Education Dr	18559
 Ministry of Basic and Senior Secondary Education MDA	18485
 Ministry of Basic and Senior Secondary Education National	18461
 Ministry of Child Welfare and Basic Education	1664,977,2996,1926,5007,28
-Ministry of Education	288,409,73,90,39,262,3,24,6,35,13,468,108,49,53,27,40,1,748,222,566,48,106,148,123,177,428,482,208,51,507,737,397,308,123,65,60,56,147,146,165,833,810,398,312,106,210,73,20,7,1,65,200,376,108,11,24,63,237,13,27,16,54,67,101,37,21,49,67,13,4,9,7,11,12,5,26,12,35,215,39,29,192,20,29,2,5,16,17,38,45,2,28,7,13,66,8,12,18,63,4,17,1,23,23,14,67,18,55,39,58,7,26,19,220,34,25,30,1,2,1,5,1,4,6,21,26,105,30,99,187,46,52,12,86,49,19,77,17,15,23,15,7,1,19,6,25,18,6,16,72,42,31,32,8,20,255,44,62,51,133,21,7,159,36,49,153,25,85,164,103,313,6,2,3,9,4,26,33,7,16,5,12,8,28,3,7,16,33,87,6,22,11,18,19,33,30,79,596,484,81,70,5,13,141,138,8,39,25,7,71,36,19,20,70,257,79,25,25,28,6,15,24,133,45
+Ministry of Education	288,409,73,90,39,262,3,24,6,35,13,468,108,49,53,27,40,1,748,222,566,48,106,148,123,177,428,482,208,51,507,737,397,308,123,65,60,56,147,146,165,833,810,398,312,106,210,73,20,7,1,65,200,376,108,11,24,63,237,13,27,16,54,67,101,37,21,49,67,13,4,9,7,11,12,5,26,12,35,215,39,29,192,20,29,2,5,16,17,38,45,2,28,7,13,66,8,12,18,63,4,17,1,23,23,14,67,18,55,39,58,7,26,19,220,34,25,30,1,2,1,5,1,4,6,21,26,105,30,99,187,46,52,12,86,49,19,77,17,15,23,15,7,1,19,6,25,18,6,16,72,42,31,32,8,20,255,44,62,51,133,21,7,159,36,49,153,25,85,164,103,313,6,2,3,9,4,26,33,7,16,5,12,8,28,3,7,16,33,87,6,22,11,18,19,33,30,79,596,484,81,70,5,13,141,138,8,39,25,7,71,36,19,20,70,257,79,25,25,28,6,15,24,133,45,98
 Ministry of Education A Teachers Resource Centre	13046
 Ministry of Education Arts and Culture	12923
 Ministry of Education B Agricultural Centre Hall	13046
@@ -3003,7 +3009,7 @@ Ministry of Education and Sports MoFA Ministry of Foreign	19642
 Ministry of Education and Sports and UNICEF	19799
 Ministry of Education and T-TEL	16162
 Ministry of Education and Technical	15604
-Ministry of Education and Technical Education	15604
+Ministry of Education and Technical Education	15604,4264,39
 Ministry of Education and Technical Education. MoETE	15604
 Ministry of Education and Tertiary Education	14742
 Ministry of Education and Training	3331,4442,3361,1213,14,313,1,25,26,15,155,18,8,17,11,6,6,13,2,39,27,2,21,132,6,1,107,2,163
@@ -3040,7 +3046,7 @@ Ministry of Higher Education Research	16852
 Ministry of Higher Education Research Science and Technology	16951
 Ministry of Higher Education Statistic Yearbook	14851
 Ministry of Higher Education and Research	19245
-Ministry of Higher Education and Scientific Research	4762,1985,146,4055,2364,2,1262,277,396,355,75,465,111,1043
+Ministry of Higher Education and Scientific Research	4762,1985,146,4055,2364,2,1262,277,396,355,75,465,111,1043,2570,36
 Ministry of Higher Education and Scientific Research Iraq	2958
 Ministry of Higher Education and Scientific Research. About	12133
 Ministry of Higher Education. Improving	15604
@@ -3055,7 +3061,7 @@ Ministry of Information and Civic Education Introduction	18582
 Ministry of Information and Civic Education MOF Ministry	18504
 Ministry of Information and Civic Education Ministry	18514
 Ministry of Information and Civic Education URL	18501
-Ministry of National Education	210,34,72,2234,69,440,1746,2216,4531,398,1866,1631,116,98,76,699,1514,961,20,894
+Ministry of National Education	210,34,72,2234,69,440,1746,2216,4531,398,1866,1631,116,98,76,699,1514,961,20,894,53
 Ministry of National Education High	18931
 Ministry of National Education and Citizenship	11918
 Ministry of National Education and Civic Promotion	18911,182
@@ -3231,6 +3237,7 @@ National Education Policy Act	11180
 National Education Policy Directions and Priorities	15604
 National Education Sector Investment Plan	12175
 National Education Sector Investment Plan NGES	12175
+National Education Sector Plan	19933
 National Education Strategic Plan	15604
 National Education Strategy	11900
 National Education Summit	12175
@@ -3592,7 +3599,7 @@ Public Education and Advocacy	12256
 Public Education and Awareness	18485
 Public Education and Public Outreach Programmes	19664
 Public Participation and Anti-Corruption Education	17037
-Public Perception of Education Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Public Perception of Education Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Public Perception of Education Provision Social Protection	10759,1395
 Public Perception of Health Provision Education	10759,1395
 Public Private Azhari Education Sector Plan	15604
@@ -3843,7 +3850,7 @@ Science and Higher Education of STP	18857
 Science and Research The Ministry of Tertiary Education	14747
 Science and Technology Education	6572,1,10279
 Science and Technology Education Directorate	16852
-Science and Technology Education Institutions	13952
+Science and Technology Education Institutions	13952,5981
 Science of Learning for Education	15618
 Science of Learning for Education3	11439
 Scientific and Educational	12210
@@ -4331,7 +4338,7 @@ UNESCO International Institute for Educational Planning	14896,708
 UNESCO International Standard Classification of Education	7845,6983
 UNESCO South Sudan Education Sector Analysis	3583
 UNESCO United Nation Educational Scientific and Cultural	16883,1
-UNESCO United Nations Educational	11887,266,1,9,178,2325,81,169,248,1993
+UNESCO United Nations Educational	11887,266,1,9,178,2325,81,169,248,1993,2701,1
 UNESCO-UNICEF Education Connectivity Assessment	4619
 UNESCOĕs Greening Education Partnership	15604
 UNESCO’s Project for Revitalizing Basic Education	18911

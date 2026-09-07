@@ -51,6 +51,7 @@ Agreement CSOs Civil	15342
 Alamy Civil	5162
 Alvin Lansana Kargbo The National Civil	18519
 Amend the Civil Registration Code. ST	10765
+Amending and Supplementing the Civil Status Law	19900
 Analysis of Civil Society Typologies	11028
 Analyzing Civil Society Actors' Definitions of Digital	11028
 Angola's President Signs Repressive Civil Society	9399
@@ -79,6 +80,7 @@ Autenticação Civil	1252,1,1,1,1,6210,4100,327,3499,78,34,16,52
 Autenticação Civil U I F Unidade	6530
 Automated Civil Service Platform	17057
 Automated Civil Service Test	16985
+Automated National Civil Status Register	19900
 Aviación Civil	4209,2632,259,603,1,379,70,401,764,3200,4571,288,12,20,17
 Aviación Civil. El Ministerio	14304
 Aviación Civil. En	7100
@@ -307,7 +309,7 @@ Civic Awareness STRATEGIC PLAN	13005
 Civic Awareness. Establish	13005
 Civic Awareness. TABLE	13005
 Civic Center	7444
-Civic Checks	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Civic Checks	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Civic DEFENDERS	1566
 Civic Day London	18501
 Civic Day Series	18501,81
@@ -362,7 +364,7 @@ Civics Services	5533,6453
 Civicus	9022
 Civicus Monitor	19358
 Civicus Monitor URL	19358
-Civil	163,394,212,130,59,11,1,30,161,67,36,20,485,8,100,5,166,58,212,6,66,28,29,28,46,45,92,4,58,36,1,1,20,3,39,3,66,36,22,25,45,1,23,244,9,9,134,1,22,97,24,2,21,19,67,52,11,9,41,17,41,206,21,38,83,48,26,270,10,68,13,9,25,148,5,30,85,139,50,7,73,95,15,36,57,38,19,25,80,16,13,88,170,26,63,210,89,19,149,76,47,93,43,118,7,16,10,33,70,166,9,32,29,49,1,67,31,50,9,47,100,22,6,90,65,193,44,128,439,35,288,107,63,16,98,11,259,158,4,85,1,118,9,39,143,114,155,77,47,30,62,65,217,36,2,1,12,10,37,2,5,9,26,84,22,19,27,1,21,22,54,160,1,4,121,451,13,1,5,6,7,23,13,34,28,167,13,50,126,1,6,3,1,18,2,9,9,23,14,31,9,138,60,23,130,125,15,15,46,306,20,15,39,54,215,7,20,225,32,34,7,13,324,38,68,58,59,10,16,58,91,1,27,6,141,5,13,28,92,4,25,142,103,41,17,33,1,22,103,10,25,51,15,8,98,201,10,91,43,125,17,33,21,73,33,97,13,47,4,60,126,25,99,5,5,2,3,5,9,6,9,57,5,9,13,1,3,43,19,62,15,25,10,183,44,21,7,37,29,138,5,2,56,74,26,56,43,23,57,126,91,29,81,13,1,14,69,66,9,28,79,118,28,83,10,92,20,11,43,3,25,51,1,8,5,45,226,85,121,10,61,13,13,8,5,40,153
+Civil	163,394,212,130,59,11,1,30,161,67,36,20,485,8,100,5,166,58,212,6,66,28,29,28,46,45,92,4,58,36,1,1,20,3,39,3,66,36,22,25,45,1,23,244,9,9,134,1,22,97,24,2,21,19,67,52,11,9,41,17,41,206,21,38,83,48,26,270,10,68,13,9,25,148,5,30,85,139,50,7,73,95,15,36,57,38,19,25,80,16,13,88,170,26,63,210,89,19,149,76,47,93,43,118,7,16,10,33,70,166,9,32,29,49,1,67,31,50,9,47,100,22,6,90,65,193,44,128,439,35,288,107,63,16,98,11,259,158,4,85,1,118,9,39,143,114,155,77,47,30,62,65,217,36,2,1,12,10,37,2,5,9,26,84,22,19,27,1,21,22,54,160,1,4,121,451,13,1,5,6,7,23,13,34,28,167,13,50,126,1,6,3,1,18,2,9,9,23,14,31,9,138,60,23,130,125,15,15,46,306,20,15,39,54,215,7,20,225,32,34,7,13,324,38,68,58,59,10,16,58,91,1,27,6,141,5,13,28,92,4,25,142,103,41,17,33,1,22,103,10,25,51,15,8,98,201,10,91,43,125,17,33,21,73,33,97,13,47,4,60,126,25,99,5,5,2,3,5,9,6,9,57,5,9,13,1,3,43,19,62,15,25,10,183,44,21,7,37,29,138,5,2,56,74,26,56,43,23,57,126,91,29,81,13,1,14,69,66,9,28,79,118,28,83,10,92,20,11,43,3,25,51,1,8,5,45,226,85,121,10,61,13,13,8,5,40,153,66
 Civil Abogado	4209
 Civil Action No	5692,7770
 Civil Actions	12920
@@ -394,7 +396,7 @@ Civil Case Cover Sheet	14675
 Civil Cases	12920,6792
 Civil Cases During the FY	19712
 Civil Claims	13361
-Civil Code	27,1833,10286,15,32,8,25,68,1691,23,667,68,35,278,417,45,4316
+Civil Code	27,1833,10286,15,32,8,25,68,1691,23,667,68,35,278,417,45,4316,40
 Civil Code Preemption	15473
 Civil Code of Seychelles Act	18883,35,219,1
 Civil Code. MINALOC	12413
@@ -435,7 +437,7 @@ Civil Law Courts	16851
 Civil Liability	16835
 Civil Liability Insurance	12295
 Civil Liberties	2518,12824,2625,217,1664
-Civil Liberties for Women	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Civil Liberties for Women	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Civil Liberties for Women Absence of Violence	10759
 Civil Liberties for Women. Worst	11887
 Civil M. Somé Alex Directeur Services	10812
@@ -478,7 +480,7 @@ Civil Register. The Bill	12959
 Civil Registrar	12151,177,10,29
 Civil Registrar CRO Civil Registration Officer	12413
 Civil Registrars	12250,88,2551,46
-Civil Registration	471,1260,1026,676,1,955,4,1881,1390,197,2898,6,10,37,23,2,1,74,56,902,16,1,1,1,249,13,1,1,1,9,44,19,6,18,51,27,9,3,1,11,1,14,46,75,517,90,302,28,256,754,220,234,167,359,138,2737,150,18,16,228,824,126,1,169,14
+Civil Registration	471,1260,1026,676,1,955,4,1881,1390,197,2898,6,10,37,23,2,1,74,56,902,16,1,1,1,249,13,1,1,1,9,44,19,6,18,51,27,9,3,1,11,1,14,46,75,517,90,302,28,256,754,220,234,167,359,138,2737,150,18,16,228,824,126,1,169,14,22,1,65
 Civil Registration Across Sierra Leone NCRA	18519
 Civil Registration Act	13153,1752
 Civil Registration And Vital Statistics	12413
@@ -581,21 +583,23 @@ Civil Registration of Ethiopians	12226
 Civil Registration. Best	12340
 Civil Registration. Vital	18440
 Civil Registries	18474
-Civil Registry	1191,677,155,83,2422,3,3113,425,1392,1253,61,37,1679,21,885,144,137,18,861,297,43,8,195,315,58,428,1001,40,10,918,859,6,934
+Civil Registry	1191,677,155,83,2422,3,3113,425,1392,1253,61,37,1679,21,885,144,137,18,861,297,43,8,195,315,58,428,1001,40,10,918,859,6,934,218
 Civil Registry Act	2106,2151,3387,7210,51,3797
 Civil Registry Administration	14854
 Civil Registry Authority	4188,10764
 Civil Registry Center	14854
 Civil Registry Certificate	14854
 Civil Registry Consolidation Through Digital Identity	18290
-Civil Registry Department	3247,27,1115,1790,7218,37,5,102,103,34,18,3
+Civil Registry Department	3247,27,1115,1790,7218,37,5,102,103,34,18,3,6188
 Civil Registry Department. Dr Mayanga	9461
 Civil Registry Identity Fraud	4531
 Civil Registry Information System	14854
 Civil Registry MATD Ministry of Territorial Administration	10812
 Civil Registry Modernization Support Program	5556
+Civil Registry Office	19887
 Civil Registry Officer	19686
 Civil Registry Offices	10765,10
+Civil Registry Offices Electroinc	19887
 Civil Registry Professionals Master Data Skills	17007
 Civil Registry Regulations	2106
 Civil Registry Rules and Procedures	4257
@@ -726,7 +730,7 @@ Civil Society Participate	15845
 Civil Society Raises Alarm	11677
 Civil Society Self-coordinating Mechanism	5162
 Civil Society Shall	13347
-Civil Society Space	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Civil Society Space	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Civil Society Submission	1016
 Civil Society Support	789
 Civil Society The Civil Society	1000
@@ -749,11 +753,11 @@ Civil Society. Lessons	11536
 Civil Society. The Workshop	18619
 Civil Status Act	7845,6869,1,1,34,3,7,81,4077,25,97,9
 Civil Status Administrative Malawi Census	10714
-Civil Status Authority	7159
+Civil Status Authority	7159,12728
 Civil Status Code	17934
 Civil Status Data Centre	557
 Civil Status Database	14714,1,113,3,12
-Civil Status Department	16902
+Civil Status Department	16902,2985
 Civil Status Division	422,7423,6869,39,2,15,12,37,11,17
 Civil Status Division Home Affairs222	14721
 Civil Status Division Ministry of Public Service	14770
@@ -762,16 +766,21 @@ Civil Status Division This Division	19040
 Civil Status Division URL	19040
 Civil Status Extracts	14755
 Civil Status Information	14828,3
+Civil Status Information Center	19863,24
+Civil Status Information Center Governorates	19887
 Civil Status Law	12338
 Civil Status Office	14713,1,1,38
 Civil Status Officer	14714,1,38
 Civil Status Offices	14714,1,40
-Civil Status Organization	15393
+Civil Status Organization	15393,4470
 Civil Status Organization Database	15393
+Civil Status Paper	19887
 Civil Status Passport and Immigration Justice Transport	14752
 Civil Status Register	10714
 Civil Status Registration Ordinance	2319,8660
+Civil Status Registration Questionnaire- Inputs	19887
 Civil Status Sector Mohamed Abdelkader Abou	15992
+Civil Status and Movement of Persons Module	19900
 Civil Suit E007	3583
 Civil Suit No	5113
 Civil Système	14480
@@ -837,7 +846,7 @@ Civilian Staff	14760
 Civilian Staff Recruited	14760
 Civilian Use of AI	7548
 Civilian and Non-Civilian Uses Require Clear Boundaries	7548
-Civilians	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,2854,3311,999,1,169,14
+Civilians	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,2854,3311,999,1,169,14,22,1,65
 Civilians Absence of Forced Migration Absence of Human	10759,78,1315,188
 Civilians Capacity	10968
 Civilians Rural Representation	10759
@@ -969,6 +978,7 @@ Data Protection Civil Service	4126
 Data Storage Flow Civil	10765
 Death Registration The Civil Registration Code	12167
 Defence and Civilian ITEC	16649
+Defining the List of Civil Status Documents	19900
 Dem. Rep. Civil Registry	10714
 Demographic and Housing Surveys and Civil	12962
 Departamento de Aviación Civil	4209
@@ -1047,8 +1057,10 @@ Does RITA's Civil Registration System	19541
 Does the Civil Registration System	19541
 Donors Support Civil Society	6948
 Download CIV1 Site Tech Specs Download	10956
+Draft Civil Code of Eritrea	19920
 Droits Civils	10826,2504,112,1419
 Drones Civiles	13500
+Duties of Officers of Civil	19920
 D’ETAT CIVIL	17899
 E-training Management for Civil Servants	16757
 ECHO European Civil Protection and Humanitarian Aid	17906
@@ -1089,7 +1101,7 @@ English Civil	12327
 Enhancing Civil Service Excellence	16985
 Environment CSO Civil Society Organization CSU	17289
 Environment and Civil	18309
-Equal Civil Liberties	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Equal Civil Liberties	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Equal Civil Liberties Accountability	10835,3,130,902,16,466,1,135,7334
 Equal Civil Liberties Equal Socioeconomic Opportunity	10837,1315,188
 Equal Political Representation Equal Civil Liberties	19822
@@ -1144,6 +1156,7 @@ Evaluating Civil Society's Role	11028
 Evidence Act and Civil Procedure Act	14850
 Exchequer State Department Civil	7548
 Executive Summary The Civil Service Agency	16985
+Existing Civil Status Offices	19920
 Expand Civil Registration Services	10521
 Expert Group Meeting of Registrars General of Civil	17397
 Expropriation and War and Civil Disturbance	1543
@@ -1294,7 +1307,7 @@ International Civil Aviation	14409,323
 International Civil Aviation Air Services Agreement	11185
 International Civil Aviation Authority	4102
 International Civil Aviation Organisation	1688,1,11200,545,5,728,242,323,4786
-International Civil Aviation Organization	320,2650,1866,744,1715,75,3353,1263,178,53,1165,1358,364,326,1517,1181,1390
+International Civil Aviation Organization	320,2650,1866,744,1715,75,3353,1263,178,53,1165,1358,364,326,1517,1181,1390,382
 International Civil Aviation Organization ICDC Industrial	2775
 International Civil Aviation Organization ICT Information	13005,5926
 International Civil Aviation Organization IQA	18309
@@ -1398,6 +1411,7 @@ Ministry of Civil Service. The West Africa	15621
 Ministry of Economy and Finance. Civil	1982
 Ministry of Energy Civil Society Organisations	21
 Ministry of Foreign and International Affairs Civil	1161
+Ministry of Health and Civil Status Authority	19887
 Ministry of Home Affairs and Civil Division	13361
 Ministry of Home Affairs’ National Identity and Civil	12663
 Ministry of Homeland Security and Civil Affairs	19016,80
@@ -1460,6 +1474,7 @@ National Action for Civic Education and Development	18464
 National Agency for Civil Aviation and Meteorology	13729,23,61,4496,83
 National Agency for Civil Aviation and Meteorology ANAMS	18309
 National Agency for Civil Registration and Identity	2349
+National Automated Civil Status Register	19900
 National Centre for Civic Education NDP	16951
 National Citizen Identity Card for Civil Identification	10775
 National Civil Aviation Security Committee	19518
@@ -1504,7 +1519,7 @@ National Civil Society	16963
 National Civil Status Bureau	10989
 National Civil Status Center	17870
 National Civil Status Centers	17870
-National Civil Status Register	557
+National Civil Status Register	557,19343
 National Civil Status Registration Office	3814,5699,3755,413
 National Civil Status Registry	7336
 National Civil Status and Identification Office	4686
@@ -1640,6 +1655,7 @@ Promotion Civique NFE Non-Formal Education OCHA	18911
 Promotion Civique. Jean Philippe	19164
 Promotion Du Civisme Fiscal de La Direction	15625,1
 Promotion des Valeurs Civiques	18286
+Proof of Civil	19920
 Proposta de Lei da Identificação Civil	3606,2380
 Protect the Civilians of Sudan	15115
 Protection Civile	1967,1,11578,2009,762,299,5,20,69,1102,61,56,33,21,168,171,896,9,14,10,1
@@ -1879,6 +1895,7 @@ Strengthening Civil Registration	12219
 Strengthening Civil Registration and Ending Statelessness	4257
 Strengthening Civil Registration and Vital Statistics System	12250
 Sub County Civil Registration HP	12138
+Submitting Civil Status Documents Available	19900
 Sueldos Personal Civil	4209
 Sueldos Personal Civil A1 A2 A3	4209
 Survival Minimum Expenditure Basket Civil Protection	10763

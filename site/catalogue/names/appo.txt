@@ -1,7 +1,7 @@
 A. Appointment	7845,6570
 A.232 Appointment	3887
 AI Afreximbank Appoints New President	5985,909
-APPOINTED	13037
+APPOINTED	13037,6885
 APPOINTED Page	19754
 APPOINTMENT	3861
 APPOINTMENT AND QUALIFICATION OF DIRECTORS	4896
@@ -35,7 +35,7 @@ Algeria Appoints Expert Panel	3831
 Analysis of Consultant Appointments	11218
 Analysis of Consultant Appointments Using Appropriated Funds	11218
 Apollonia Jeremy Berndt Appointed Senior Advisor	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
-Appoint	1777,211,1616,1257,6996,56,73,9,198,206,276,330,376,1399,217,167,494,1175,14,1690
+Appoint	1777,211,1616,1257,6996,56,73,9,198,206,276,330,376,1399,217,167,494,1175,14,1690,1373
 Appoint Cybersecurity	1000
 Appoint Cybersecurity Appoint Cybersecurity Maintain	1777
 Appoint Cybersecurity Focal Points. Identify	1777
@@ -57,7 +57,7 @@ Appointed and Q2	1777
 Appointements	14862
 Appointing	6940,8453
 Appointing Authority	15080
-Appointment	11,576,633,657,238,612,403,584,147,26,1009,4612,1362,308,3,18,81,696,10,165,15,176,17,6,9,156,1,4,13,81,265,1,3,3,8,11,10,20,87,21,27,236,31,29,22,163,382,576,204,2,13,17,1,7,56,38,3,15,143,4,31,282,32,27,1451,655,931,2,21,9,88,325,6,1,112,154,358,4,2,6,1,1,123,152
+Appointment	11,576,633,657,238,612,403,584,147,26,1009,4612,1362,308,3,18,81,696,10,165,15,176,17,6,9,156,1,4,13,81,265,1,3,3,8,11,10,20,87,21,27,236,31,29,22,163,382,576,204,2,13,17,1,7,56,38,3,15,143,4,31,282,32,27,1451,655,931,2,21,9,88,325,6,1,112,154,358,4,2,6,1,1,123,152,94
 Appointment Advisory Committee	18467
 Appointment Advisory Committee Staff	18467
 Appointment Booking System BAC Bid Adjudication	11218
@@ -106,6 +106,7 @@ Appointment of Mr Mike Silber	11800
 Appointment of Non-Namibians	12920
 Appointment of Parliament. Ombudsman	18434
 Appointment of Principal Registrar	14407
+Appointment of Processors	19895
 Appointment of Registrar	1,12523,1,7000
 Appointment of Registrar and Deputy Registrar	13566
 Appointment of Registrar and District Registrars	12523

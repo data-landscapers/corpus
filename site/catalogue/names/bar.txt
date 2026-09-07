@@ -345,7 +345,7 @@ Bareing	16621
 Bareis	8460,2590,85
 Bareisaite	11136
 Barely	3331,91,225,6,324,50,31,115,12,487,194,149,1179,836,234,6932
-Barentu	14080,40
+Barentu	14080,40,5801
 Barga Yatenga Nord	15715
 Bargny Sendou	18322
 Bargny-Sendou. Visite	18322
@@ -487,7 +487,7 @@ Barrier	1243,2288,8696,3115,668
 Barrier MNOs42 Internet	11964
 Barrier MNOs44 Internet	11004
 Barrier Reduction	3861
-Barriers	544,278,77,41,21,258,24,18,567,95,49,124,852,427,156,260,31,379,1296,102,940,409,1428,2338,98,29,162,1,24,108,2,2,55,707,38,24,1,25,256,9,42,31,5,46,66,875,38,116,1345,68,319,136,132,19,77,345,1081,300,449,124,1770,24
+Barriers	544,278,77,41,21,258,24,18,567,95,49,124,852,427,156,260,31,379,1296,102,940,409,1428,2338,98,29,162,1,24,108,2,2,55,707,38,24,1,25,256,9,42,31,5,46,66,875,38,116,1345,68,319,136,132,19,77,345,1081,300,449,124,1770,24,215
 Barriers Identified	12175
 Barriers To Account Ownership Saving	1828
 Barriers Towards Adoption of E-Government Services	5349
@@ -668,6 +668,7 @@ Dust Barcelona Center	18309
 E BARMAO AND ADVOCATES Data Controller	7167
 E BARMAO AND ADVOCATES Data Processor	7167
 E. REMOVE FINANCIAL BARRIERS TO HEALTHCARE	18532
+ENABLERS AND BARRIERS TO ADOPTION	19878
 Economic Barriers Cost Barrier Insecure	12457
 Ed Barnett	10540
 Ed Barney	15064
@@ -1154,6 +1155,7 @@ Soo Gudbin Sharciga Barakacayaasha Gudaha. MARKUU	15047
 Soumayila BARA	7670
 South Sudan Bar Association	18631
 Southern Africa Development Community Technical Barriers	13320
+Speed Barriers	19878
 Sr. Diamantino Gomes Barai. A CNE	11561
 Stanbic Bank Africa Trade Barometer	5247
 Stanbic Bank Africa Trade Barometer Issue	5247

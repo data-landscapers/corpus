@@ -362,6 +362,7 @@ Dedza Nkhotakota Rumphi Chitipa Mzuzu City	13080
 Deed Number Shop Ruzawi Road Marondera	4896
 Defeat Ruto	7869
 Defeating Ruto Anti-Ruto	7869
+Defining the General Rules Related	19900
 Definition Materials Materials These Rules	12364
 Deliver Shock-Responsive Social Protection Ruhaak	19237
 Delivery Models Rule	15164
@@ -458,6 +459,7 @@ Edition Rue Haute	10865
 Effects of Rural Electrification	13624
 Egyptian Rural Areas	15578
 Egyptian Russian University	15473
+Egyptian-American Rule of Law Association	19854
 El Geneina Rural	15244
 ElGazira Rural	15244
 Election Petition Rules	18459
@@ -715,6 +717,7 @@ Institute of Rural Development	19519
 Institute of Rural HCMIS	19584
 Institutional Running Expenses	12606
 Instituto Rui Barbosa	11473
+Integrated Rural Development Programs	19874
 Integrated Rural Development Sector Strategy. Planned	11261
 Inteko Rusange	15027
 Inteko Rusange Icyiciro	15027
@@ -865,6 +868,7 @@ MMSP SAECH Rules SWIPSS Rules NPS	12390
 MOBILIERS ELEVES VII.2.5 Rural Nombre	10847
 MODALITES DE RUPTURE DU CONTRAT ELECTRONIQUE	17829
 MORADOR DE RUA DISTRITO JUNTO FAMÍLIAS	18802
+MOSS's Rural Fund	19855
 MP Balinda Rutebuka	5070
 MU RUGO REKA MPITE NGANA KU	12328
 MW for Rusumo Networks	12358
@@ -1303,7 +1307,7 @@ RUKUNDO Patrick	12413
 RUKUNKA	14906,141,105,1
 RULAAC	7458
 RULAAC Warns Data Protection Bill Could	7458
-RULE OF LAW	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,4447,2717,1,169,14
+RULE OF LAW	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,4447,2717,1,169,14,22,1,65
 RULE OF LAW FOUNDATIONS FOR ECONOMIC	10835,3,130,902,16,466,1,135,7334
 RULE OF LAW SCORE	10759,76,2,1,130,902,16,266,188,12,1,135,7334
 RULE OF LAW SECURITY	10759,76,2,1,130,902,16,3,451,12,1,135,7334
@@ -1371,7 +1375,7 @@ RURAL DEVELOPMENT DATE	11261
 RURAL DEVELOPMENT DEEDS REGISTRIES ACT	11249
 RURAL DISTRICT Server	18476
 RURAL DTSM DIPLÔME DE TECHNICIEN SUPÉRIEUR	18170
-RURAL ECONOMY	10759,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135,7164,1,169,14
+RURAL ECONOMY	10759,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135,7164,1,169,14,22,1,65
 RURAL ECONOMY Absence of Corruption	10835,3,130,902,16,466,1,135,7334
 RURAL ECONOMY EDUCATION BUSINESS	19822
 RURAL ECONOMY EDUCATION PUBLIC ADMINISTRATION Rank	12352
@@ -1631,6 +1635,7 @@ Rue NG	16026,1905
 Rue RJB Dama-Ntsoha Ambanidia	14440
 Rue Vincens	18381
 Rue Wiertz	8533
+Rue de Lyon	19931
 Rue de L’Institut	14847
 Rue de Niger	19476
 Rue de Thiong	18424
@@ -1767,9 +1772,10 @@ Rukwa and Zanzibar. At National	19544
 Rule Class	5665
 Rule Making	16851
 Rule Overall Governance	12488
+Rule Reduction and Medicaid Enrollment. Public Admin	19889
 Rule of Consensus ARTICLE	14409
 Rule of Consensus Notwithstanding	14409
-Rule of Law	1828,1563,735,156,962,2441,3074,76,2,1,74,56,167,19,382,50,284,16,1,1,1,263,1,1,9,177,1,11,1,135,153,407,12,1837,62,659,1272,80,5,10,11,47,96,118,3,29,75,3,413,678,19,138,1037,1,169,14
+Rule of Law	1828,1563,735,156,962,2441,3074,76,2,1,74,56,167,19,382,50,284,16,1,1,1,263,1,1,9,177,1,11,1,135,153,407,12,1837,62,659,1272,80,5,10,11,47,96,118,3,29,75,3,413,678,19,138,1037,1,169,14,22,1,65,7
 Rule of Law ACCOUNTABILITY	10759
 Rule of Law Absence of Crime Poverty Reduction	10759
 Rule of Law Accountability	10759,1395
@@ -1799,7 +1805,7 @@ Rule of Law and Consumer Protection Michael McGrath	8773
 Rule of Law and Foundations for Economic Opportunity	12152
 Rule of Law and Fundamental Freedoms	13170
 Rule of Law and Human Development	11887,453
-Rule of Law and Participation	11886,268
+Rule of Law and Participation	11886,268,7705
 Rule of Law. UNESCO	13048
 Rule of Law29	1814
 Rule-Based Systems	8283
@@ -1811,6 +1817,7 @@ Rules	11,958,3,237,34,575,489,367,28,303,498,367,740,234,52,272,576,679,1543,6,2
 Rules All	12253
 Rules Committee	19628
 Rules Engine	6423
+Rules Regulating Services For Instant Payment	19901
 Rules The BoZ	12364
 Rules The Cabinet Secretary	14407
 Rules The Ombudsman	12892
@@ -1960,7 +1967,7 @@ Rupturas de Stock	8324
 Rupture	10882,4487,60,43,1057,193,1097
 Ruptures	15599
 Rupture’ No Comments	2367
-Rural	11,112,113,182,225,93,1,34,169,30,43,186,16,4,9,56,420,163,77,44,105,363,492,41,170,227,19,17,126,21,103,189,62,124,83,523,54,87,414,792,51,82,254,206,239,116,399,416,106,17,249,706,295,480,799,333,9,3,3,14,35,35,28,254,59,5,2,20,46,1,118,38,3,106,33,12,148,135,2,22,85,24,62,14,128,22,27,9,28,50,7,3,45,2,14,4,6,4,16,2,29,41,7,25,122,308,170,167,31,15,44,52,5,177,49,131,211,39,97,46,424,53,106,71,45,62,39,29,30,73,1,8,106,160,11,58,25,20,39,17,25,5,137,59,45,113,423,480,3,3,29,2,21,1,1,6,23,2,18,3,2,21,118,13,12,18,93,35,131,302,5,104,43,75,69,2,40,47,30,179,129,13,37,50,221,13,156,2,39,312,66,57,135,2,51,18,64,25,13
+Rural	11,112,113,182,225,93,1,34,169,30,43,186,16,4,9,56,420,163,77,44,105,363,492,41,170,227,19,17,126,21,103,189,62,124,83,523,54,87,414,792,51,82,254,206,239,116,399,416,106,17,249,706,295,480,799,333,9,3,3,14,35,35,28,254,59,5,2,20,46,1,118,38,3,106,33,12,148,135,2,22,85,24,62,14,128,22,27,9,28,50,7,3,45,2,14,4,6,4,16,2,29,41,7,25,122,308,170,167,31,15,44,52,5,177,49,131,211,39,97,46,424,53,106,71,45,62,39,29,30,73,1,8,106,160,11,58,25,20,39,17,25,5,137,59,45,113,423,480,3,3,29,2,21,1,1,6,23,2,18,3,2,21,118,13,12,18,93,35,131,302,5,104,43,75,69,2,40,47,30,179,129,13,37,50,221,13,156,2,39,312,66,57,135,2,51,18,64,25,13,140,19,6
 Rural AEI Initiative	18103
 Rural Accessibility	17260
 Rural Accessibility Rural	17260
@@ -2029,6 +2036,7 @@ Rural Development Fund	12956,167
 Rural Development MLHCP Ministry of Lands Housing	18504
 Rural Development Sector Plan RLCC Regional	11261
 Rural Development Support Programme	10841
+Rural Development and Fisheries Yacine El-Mahdi Oualid	19917
 Rural Development and Food Production Minister Bruno	6280
 Rural Development and Land Reform	11188
 Rural Development and Land Reform DSD Department	11188
@@ -2047,13 +2055,14 @@ Rural Download	6051
 Rural Drop Out Completed Urban Attending	19542
 Rural Eastern Cape	5724
 Rural Economic Transformation Project	17274
-Rural Economy	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Rural Economy	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Rural Economy Development and Food Security	14002
 Rural Economy Human Development	11889,452
-Rural Economy N	19653
+Rural Economy N	19653,205
 Rural Economy Rank	11889
-Rural Economy Support	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Rural Economy Support	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Rural Economy Support Absence of Corruption	10835,3,130,902,16,466,1,135,7334
+Rural Economy. Between	19858
 Rural Education	11927
 Rural Education. South African Journal of Educational	11927
 Rural Egypt	15473
@@ -2125,7 +2134,7 @@ Rural Internet Expansion Kenya Overseas Private	147
 Rural Kenema Bo Port Loko Tonkolili	18460
 Rural Kenya Finance Inclusion Facility	14546
 Rural LGAs	17285
-Rural Land	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Rural Land	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Rural Land Administration	13998
 Rural Latency	6051
 Rural Level	16921
@@ -2137,7 +2146,7 @@ Rural Localities	16188
 Rural Localities RGPH General Population and Housing	16188
 Rural Mais	10777
 Rural Mar	6051
-Rural Market Access	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Rural Market Access	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Rural Microcredit Fund	13312,2
 Rural Migration	17157
 Rural Montant	18014
@@ -2167,7 +2176,7 @@ Rural Renewable Energy Project	18453
 Rural Renewable Energy Project CLIENT	18453
 Rural Renewable Energy Project URL	18453
 Rural Renewal	6832,7842
-Rural Representation	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Rural Representation	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Rural Resettlement	520,420
 Rural Residence	13644
 Rural Residence of Mother	13644
@@ -2227,6 +2236,7 @@ Rural Trends	4130
 Rural Trends Progress and Regional Patterns	4130
 Rural URL	16200
 Rural Upload	6051
+Rural Upper Egypt	19855
 Rural Urbain National	737
 Rural Urbain Salle	737
 Rural Urban	1013,10866,3018,4645
@@ -2360,6 +2370,7 @@ Russian Federation	2117,3764,732,4101,50,21,61,131,3919,575,1396,561,681
 Russian Federation CIS UMI	17743
 Russian Federation Email	10764,799,6180
 Russian Federation International Telecommunication Union	10844,7279
+Russian Federation and Ukraine	19855
 Russian Federation and Ukraine. The Russia-Ukraine	14008
 Russian Foreign Affairs Minister Sergey Lavrov	4127
 Russian Ministry of Posts	5881
@@ -2367,6 +2378,7 @@ Russian Passport	10714
 Russian Space Agency	5886
 Russian and Chinese	2518,2724
 Russian and Chinese Models	2518
+Russian and Spanish	19919
 Russian-Ukrainian	10980
 Russian-backed	6950
 Russian-hosted	958

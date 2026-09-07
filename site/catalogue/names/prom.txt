@@ -1065,7 +1065,7 @@ Promoteur le Promoteur du Projet	15901
 Promoteurs	15542
 Promoteurs Etat du Cameroun	15542
 Promoteurs Recherche	15542
-Promoting	470,488,12,81,80,112,182,385,4,14,947,321,417,105,243,116,963,192,112,289,145,243,495,327,205,80,520,635,498,2095,65,15,109,15,216,2,32,306,50,271,40,8,81,203,21,23,7,5,189,174,67,266,21,7,4,4,10,18,106,307,105,52,1,428,444,22,96,108,49,21,1,3,4,25,13,28,94,35,18,69,308,149,172,62,199,7,281,105,67,477,11,10,1,1,1,4,26,27,1,30,2,36,67,36,3,39,95,67,113,27,45,277,90,14,409,8,48,109,27,2,1,2,42,61,15,637,275,12,2,68,7,33,4,18,137
+Promoting	470,488,12,81,80,112,182,385,4,14,947,321,417,105,243,116,963,192,112,289,145,243,495,327,205,80,520,635,498,2095,65,15,109,15,216,2,32,306,50,271,40,8,81,203,21,23,7,5,189,174,67,266,21,7,4,4,10,18,106,307,105,52,1,428,444,22,96,108,49,21,1,3,4,25,13,28,94,35,18,69,308,149,172,62,199,7,281,105,67,477,11,10,1,1,1,4,26,27,1,30,2,36,67,36,3,39,95,67,113,27,45,277,90,14,409,8,48,109,27,2,1,2,42,61,15,637,275,12,2,68,7,33,4,18,137,103
 Promoting Action	8376
 Promoting Adoption of Climate Smart Agriculture Technologies	19643
 Promoting CSA	970
@@ -1239,6 +1239,7 @@ Promotion of Access	1009,596,2357,1571,191,82,318,559,2551,1945,2,15,69,721,61,1
 Promotion of Administrative Justice Act	2307,3226,854,1017,3878,704,2238
 Promotion of Arts and Culture	14742
 Promotion of CSA	970
+Promotion of Citizen Participation	19900
 Promotion of Climate Smart Agriculture Specialists Promotion	1988
 Promotion of Collaboration	958
 Promotion of Community Initiatives for Education	18911
@@ -1250,7 +1251,7 @@ Promotion of Digital Rights and Online Safety. Media	10725
 Promotion of Domestic Currency	13474
 Promotion of Efficient Technologies	13295
 Promotion of Entrepreneurship and Employment	15511,7
-Promotion of Environmental Sustainability	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Promotion of Environmental Sustainability	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Promotion of Gender Equality	1818,16977
 Promotion of Gender Equality and Equity INSS-. National	18770
 Promotion of Good Governance	18305
@@ -1272,6 +1273,7 @@ Promotion of Mechanised Farm Operations	13122
 Promotion of National Languages	10854
 Promotion of Nigerian Content	10157
 Promotion of Nutrition-Sensitive Agriculture	13474
+Promotion of Open Innovation	19904
 Promotion of Open-Source and Local Solutions	6936
 Promotion of Over-the-Counter	9855
 Promotion of Precision Agriculture	14818

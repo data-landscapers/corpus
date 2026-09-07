@@ -89,6 +89,7 @@ Control Protocol TOGAF The Open Group	12359
 Control Surgery Protocols	15206
 Conventions and Protocol	12145
 Cooperation Protocol	17647
+Council of Europe Additional Protocol	19922
 Covering the African Charter the Maputo Protocol	8485
 Criminal Activities and Protocol	318
 Crisis Response Protocols	16963
@@ -289,7 +290,7 @@ Online Certificate Status Protocol SI	14438
 Open APIs and Protocols	3861
 Open CPE WAN Management Protocol	7627
 Opt-In and Opt-Out Protocols	3861
-Optional Protocol	3583,7243,367,572,436,832,7,57,865,49,731,32,2142,42,338,638,36
+Optional Protocol	3583,7243,367,572,436,832,7,57,865,49,731,32,2142,42,338,638,36,1963
 Optional Protocol. Namibia	13033
 Optional Protocols	14742
 Optional Protocols. Table	14742
@@ -498,7 +499,7 @@ VOICE OVER INTERNET PROTOCOL	3862
 Verification Protocol	19239
 Verification Protocol IBRD	19239
 Verification Protocol PBC	15659
-Verification Protocol Table	11905,7930
+Verification Protocol Table	11905,7930,20
 Verification Protocol. IBRD	15659
 Verification Protocol. Schedule	19239
 Voice Over Internet Protocol	236,12533,532

@@ -44,6 +44,7 @@ Connectivity Solicitação de Ofe Single Stage	17219
 Consumer Protection RATING SYSTEMATIC STAGE	12214
 Cost Stage of Project Cycle No	15663
 Countries Project Definition Project Stage Project	10892
+Creation Stage	19900
 Cultural Norms RATING OPPORTUNISTIC STAGE Technology	12214
 Cybersecurity RATING SYSTEMATIC STAGE The National	12214
 DEAL COUNT PER STAGE	10954
@@ -108,6 +109,7 @@ Initial Stage of MELA Establishment	13998
 Innovation Ecosystem RATING OPPORTUNISTIC STAGE Malawi	12214
 Installation and Comm Single Stage	17180
 Institutional Reengineering Stage	15473
+Interaction Stage	19900
 Internatio Single Stage	17219
 Internationa Single Stage	17180,39
 Internet Servic Single Stage	17180
@@ -162,6 +164,7 @@ Readiness Indicators and Staging Logic39	15164
 Readiness Indicators and Staging Logic52	15164
 Readiness Staging	15164
 Report Stage	13387
+Requirements and Stages of Transition	19900
 Rostow's Stages of Growth	1554
 SEA PROCESS STAGES FLOWCHART	17114
 SEA PROCESS STAGES FLOWCHART ANNEX	17114
@@ -184,7 +187,7 @@ Single Stage	13017,510,1553,2100,154
 Skills and Literacy RATING SYSTEMATIC STAGE Malawi	12214
 Solicitação de Cot Single Stage	17219
 Solicitação de Ofe Single Stage	17219
-Stage	408,155,680,8,1,1,1,1,15,2,1,1,1,10,1,5,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,2,1,1,1,90,81,1,32,1,9,46,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,55,1,1,1,1,22,1,1,1,1,1,1,1,1,1,11,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,27,10,1,78,17,1,1,1,1,1,1,1,5,46,14,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,4,1,1,1,1,1,2,1,1,10,1,1,1,1,1,1,1,1,1,1,1,1,44,13,1,320,1,1,1,1,1,89,76,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,236,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,57,1,1,1,158,1,16,1,1,1,1,1,1,1,1,15,1,1,1,1,1,1,1,1,1,29,1,1,1,1,1,1,1,1,1,172,224,1,58,11,80,90,1,147,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,53,1,20,1,54,1,1,1,1,1,1,143,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,47,1,1,1,1,1,9,1,4,1,1,1,14,1,1,1,1,1,1,1,1,1,1,1,1,36,1,1,7,17,1,1,1,1,1,1,1,1,1,16,1,1,1,1,1,8,12,26,13,1,1,1,1,1,10,1,1,1,19,38,1,1,1,1,1,78,156,89,74,131,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,7,427,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,1,152,207,1,170,237,1,1,1,93,62,108,218,1,1,1,1,1,1,1,1,23,139,1,1,1,1,1,1,1,1,1193,846,169,1656,21,29,127,25,84,12,58,631,12,11,31,149,111,351,1082,1035,242,199,80,986,613,314,23,105,249,878,76,42,1045,20,117
+Stage	408,155,680,8,1,1,1,1,15,2,1,1,1,10,1,5,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,2,1,1,1,90,81,1,32,1,9,46,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,55,1,1,1,1,22,1,1,1,1,1,1,1,1,1,11,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,27,10,1,78,17,1,1,1,1,1,1,1,5,46,14,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,4,1,1,1,1,1,2,1,1,10,1,1,1,1,1,1,1,1,1,1,1,1,44,13,1,320,1,1,1,1,1,89,76,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,236,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,57,1,1,1,158,1,16,1,1,1,1,1,1,1,1,15,1,1,1,1,1,1,1,1,1,29,1,1,1,1,1,1,1,1,1,172,224,1,58,11,80,90,1,147,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,53,1,20,1,54,1,1,1,1,1,1,143,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,47,1,1,1,1,1,9,1,4,1,1,1,14,1,1,1,1,1,1,1,1,1,1,1,1,36,1,1,7,17,1,1,1,1,1,1,1,1,1,16,1,1,1,1,1,8,12,26,13,1,1,1,1,1,10,1,1,1,19,38,1,1,1,1,1,78,156,89,74,131,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,7,427,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,1,152,207,1,170,237,1,1,1,93,62,108,218,1,1,1,1,1,1,1,1,23,139,1,1,1,1,1,1,1,1,1193,846,169,1656,21,29,127,25,84,12,58,631,12,11,31,149,111,351,1082,1035,242,199,80,986,613,314,23,105,249,878,76,42,1045,20,117,140
 Stage Analytical	1243
 Stage Description Number	9237
 Stage Seed	4972
@@ -200,7 +203,7 @@ Staged Development Tool	9370
 Staged Implementation Approach	15760
 Staged for CORPUS's Cameroon	10977
 Staged for FY2024	2071
-Stages	1828,160,5380,3880,4,3713,971,1163,15,1361,1110
+Stages	1828,160,5380,3880,4,3713,971,1163,15,1361,1110,315
 Stages Across Institutions	15164
 Stages Across Institutions of ICT	15164
 Stages SRD	10975
@@ -209,6 +212,7 @@ Stages of Continuous HIS Improvement SYGMA	14442
 Stages of Continuous Improvement	1824,10431
 Stages of Development of Payment Systems	13314,2160,19
 Stages of Digital	12214
+Stages of Gradual Transfer of Services and Systems	19860
 Staggering	11214
 Stagiaire	737,2318,400,17,16,145,192,386,340,1171,742,267,575,532,1,1539,1165,307,249,4364,207,204,1758,599,16,21,729
 Stagiaires Africains	8891
@@ -236,6 +240,8 @@ Systems RATING OPPORTUNISTIC STAGE Malawi	12214
 Testing Stage	14921
 Third Stage	11240,4665
 Timeline Stage	17157
+Transaction Stage	19900
+Transformation Stage	19900
 Transitional Stage Article	16847
 Turkey KSA Korea UAE China Stage-2	15713
 USD PROJECT STAGE	16854

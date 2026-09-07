@@ -238,6 +238,7 @@ Developing ICT Budgeting and Emerging	15164
 Development Cycles Ministry of Education Emerging Pilot	7548
 Dieu-Merci Emeriand Kibangou	15975
 Digital Emerging Technologies Dr Yaya Traoré	3517
+Digital Infrastructure and Emerging Payment Trends Fintech	19932
 Digital Systems Emerging	15164
 Direct Social Assistance for Emergency Response	12781
 Director General of Innovation and Emerging Technologies	3013
@@ -314,7 +315,7 @@ ESP Emergência	18783
 ESPAI Emergência de Saúde Pública	11376
 ET Emerging Ministry	7548
 Effective Response Public Health Emergencies	17289
-Egyptian Computer Emergency Readiness Team	16212
+Egyptian Computer Emergency Readiness Team	16212,3665
 Elanyo Emegnimo	15298
 Electronic Fiscal Device System EMDE Emerging	17011
 Electronic Funds Transfer ECF Emergency Liquidity	17235
@@ -370,7 +371,7 @@ Emergencies Relatório Anual da OMS	10776
 Emergencies Specialist	19093
 Emergencies URL	15117
 Emergencies and Natural Disasters	17934
-Emergency	11,567,1410,485,516,1138,526,1779,515,1656,520,595,1,47,89,520,401,68,120,21,151,92,152,37,443,513,48,308,202,18,1725,64,129,29,16,4,29,136,21,90,14,136,176,83,57,1,2,27,25,132,56,58,54,539,287,63,32,2,5,167,6,43,93,656,217,75,172,162,79,90,203,150,195,271,24,95,88,117
+Emergency	11,567,1410,485,516,1138,526,1779,515,1656,520,595,1,47,89,520,401,68,120,21,151,92,152,37,443,513,48,308,202,18,1725,64,129,29,16,4,29,136,21,90,14,136,176,83,57,1,2,27,25,132,56,58,54,539,287,63,32,2,5,167,6,43,93,656,217,75,172,162,79,90,203,150,195,271,24,95,88,117,85
 Emergency Action	6947
 Emergency Action Plan	13331,2327,1,310,175,792,163,15,1390
 Emergency Aid Install	17157
@@ -517,7 +518,7 @@ Emergent	4259,180,7775,7560
 Emergent du Sénégal	11529
 Emergentes	2816
 Emergents	16626
-Emerging	21,937,3,200,87,529,47,269,3,238,441,1948,183,226,92,17,1,991,599,106,8,92,260,250,242,156,20,56,179,1,258,145,440,645,19,120,323,19,290,503,42,44,84,1,5,15,170,530,2,353,4,41,42,59,43,45,257,261,108,10,279,946,361,10,53,23,67,146,32,26,11,113,17,208,588,827,115,68,5,42,99,248,94,81,241,9,81,659,165,590,235,25,32,69,2,154
+Emerging	21,937,3,200,87,529,47,269,3,238,441,1948,183,226,92,17,1,991,599,106,8,92,260,250,242,156,20,56,179,1,258,145,440,645,19,120,323,19,290,503,42,44,84,1,5,15,170,530,2,353,4,41,42,59,43,45,257,261,108,10,279,946,361,10,53,23,67,146,32,26,11,113,17,208,588,827,115,68,5,42,99,248,94,81,241,9,81,659,165,590,235,25,32,69,2,154,77
 Emerging A1- Classification	7548
 Emerging A1- Framework	7548
 Emerging A1- Guidelines	7548
@@ -696,7 +697,7 @@ Emerging Tech Ecosystem Mauritania	18039
 Emerging Tech Guidance Note	6973
 Emerging Tech Specialist	14812
 Emerging Tech Tech	7548
-Emerging Technologies	958,285,571,955,40,1052,667,279,437,32,1156,15,550,550,1,1,214,1031,106,1252,19,1781,4,254,4,26,116,156,406,177,261,101,94,1113,65,6,84,200,1183,10,283,480,141,124,1204,10
+Emerging Technologies	958,285,571,955,40,1052,667,279,437,32,1156,15,550,550,1,1,214,1031,106,1252,19,1781,4,254,4,26,116,156,406,177,261,101,94,1113,65,6,84,200,1183,10,283,480,141,124,1204,10,1431
 Emerging Technologies A- Legal Instrument Framework	7548
 Emerging Technologies A1- Framework	7548
 Emerging Technologies A2-Percentage	7548
@@ -843,6 +844,7 @@ Emerging Training-of-Trainers and Technologies	7548
 Emerging Treasury	7548
 Emerging Trends	17870,1780
 Emerging Trends and Recommendations for Future Social Policy	16902
+Emerging Use Cases	19889
 Emerging Uses of PeaceTech	8202
 Emerging Year	7548
 Emerging and Advanced Technologies	15641

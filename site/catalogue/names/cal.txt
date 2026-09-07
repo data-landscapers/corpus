@@ -192,20 +192,21 @@ Calculated CTRs	13461
 Calculateevaluationmetrics	8606
 Calculates	17139,1494
 Calculating	4676,2306,4581,850,469,2174
-Calculation	11195,330,428,33,1882,806,43,180,130,1928,185,17,1731,739
+Calculation	11195,330,428,33,1882,806,43,180,130,1928,185,17,1731,739,260
 Calculation Figure	14897
 Calculation Kenya	14897
 Calculation Looking	1944
 Calculation MultiChoice	1944
 Calculation Sheet for Liberia An Excel	17140
 Calculation Window	17157
+Calculation of Administrative Fines	19890
 Calculation of Cumulative Expected NPV Financial Analysis	15411
 Calculation of Expected NPV US	15411
 Calculation of Tax Payable and Refands	17108
 Calculation of Tax Payable and Refunds Tax	17108
 Calculation of VAT Payable	12630
 Calculation of Weighted Scores	17114
-Calculations	3583,1389,2474,4540,3487,131,57,1239,2641
+Calculations	3583,1389,2474,4540,3487,131,57,1239,2641,346
 Calculator Compare	12882
 Calculators	8380
 Calculer	747,13678,3674,1127
@@ -326,7 +327,7 @@ Call Center RISA	12359
 Call Center Service License	762
 Call Center The NTRA	11642
 Call Center for NRB Customer	12241
-Call Centers	15283
+Call Centers	15283,4592
 Call Centre	5244,6006,791,200,259,478,66,9,27,6,1675,3479,1399
 Call Centre Customer Support. Virtual Machines	9455
 Call Centre Performance The Call Centre	13053
@@ -336,6 +337,7 @@ Call Comes Call Comes Complain	16889
 Call Completion Rates	16975
 Call Detail Record	4274
 Call Detail Records	9969,9664
+Call Diversion	19929
 Call Dr Iddrisu	9205
 Call Drop Rate	18444
 Call Drop Ratio	5744
@@ -856,7 +858,7 @@ WATRA Calls for Stronger Regional Cooperation	7323
 WMO. Calculated	17157
 Wake-Up Call for Social Assistance	10985
 WestProp Vision Mnangagwa Calls for Collective Effort	7312
-Wi-Fi Calling	2528,13518
+Wi-Fi Calling	2528,13518,3839
 World Bank. Calculations	14897
 X BusinessDay Home Tax Calculator Companies	9750,247
 X.2015.03198.x. Callaghan	11006

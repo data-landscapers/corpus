@@ -166,6 +166,7 @@ MoECHE. Through	14896
 MoED Ministry of Energy and Dams	18614,6
 MoEHRD	19118
 MoEMW	15011
+MoERE	19906
 MoES and NIRA	13681
 MoEST	13209,6310,15
 MoEST African	19534
@@ -178,7 +179,7 @@ MoET Ministry of Education and Training	17196
 MoET Ministry of Education and Training MOH Ministry	12975
 MoET MoET Transport	12962
 MoET and UNICEF	12741
-MoETE	15604,59
+MoETE	15604,59,4244
 MoETE Community Education Increased	15604
 MoETE Deputy Minister	15604
 MoETE General Competition	15604

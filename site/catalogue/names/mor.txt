@@ -65,7 +65,7 @@ Central Bank of Morocco	4920
 Ceuta and Moroccans	8811
 Chairperson Ms. Lise Morel	19000
 Child Mortality Estimates	17843
-Child Mortality Estimation	11887,266,1,9,178
+Child Mortality Estimation	11887,266,1,9,178,7517,1
 Child Mortality Mortality Rates	18441
 Child Mortality Rate	12367,16,30,2643
 Child Mortality Report. New York	15601
@@ -141,7 +141,7 @@ ESTIMATION DIRECTE DE LA MORTALITÉ MATERNELLE	13300
 EU and Moroccan	17511
 EU and Morocco	17511
 EU and Morocco. The Digital Dialogue	17511
-Early Childhood Mortality	14067
+Early Childhood Mortality	14067,5853
 Early Childhood Mortality Rates	12655
 Education Morale HCJRPTDJ	15848
 Edward Moringe	19565
@@ -445,6 +445,7 @@ Median EMDEs Morocco	17503
 Medium Medium Low Morocco Conditional Medium	6593
 Microsoft Morocco NEWS Nvidia Oman OpenAI	5322
 Migration and Mortality	12963
+Minister of Social Solidarity Maya Morsy and Major	19915
 Ministry of Foreign Affairs of Morocco	14235
 Mme Marie René Léon MOREAU	16175
 Mme Michelle Morène MATAMBA MOUDOCKI	16175
@@ -507,6 +508,7 @@ Moratorium	2117
 Moratorium The Bank	13566
 Moravcsik	17780
 Morbe	4640
+Morbid	19887
 Morbidade	18768
 Morbidity	2775,8005,6191,1656
 Morbidité	737,17277
@@ -598,7 +600,7 @@ Moroccan Tech SMEs	1885
 Moroccan and Senegalese	1729
 Moroccan-law	3321
 Moroccans	168,389,3252,304,2339,2358,1,5394,3236,17,29,47
-Morocco	25,143,122,41,98,108,13,8,10,3,56,121,89,17,33,78,48,22,25,125,2,26,21,9,1,6,113,73,2,126,70,101,79,64,7,5,3,91,119,14,147,54,6,98,3,2,20,12,30,52,16,9,11,37,44,15,4,5,33,5,5,30,20,3,5,5,3,13,15,1,2,1,50,41,11,18,4,10,1,24,19,6,10,1,8,23,64,159,13,8,10,54,18,65,20,94,9,33,4,19,4,12,107,40,27,11,39,13,8,2,7,3,4,8,29,44,53,2,34,1,17,1,3,25,28,31,17,193,43,128,30,16,1,9,22,138,6,1,55,2,4,46,6,31,44,8,23,2,7,5,20,10,3,42,1,10,68,51,96,50,79,9,45,4,56,30,9,3,1,12,22,67,37,3,8,1,3,15,8,5,21,4,76,12,29,2,7,28,69,30,17,29,46,108,11,1,7,38,32,19,8,39,34,8,44,13,32,5,57,10,16,10,11,1,41,100,8,7,16,2,74,25,13,1,77,26,24,86,18,24,102,193,96,12,59,52,59,137,1,35,63,129,113,1,16,118,93,4,19,115,107,70,23,2,16,15,48,14,120,10,69,452,312,136,11,58,63,578,45,5,71,3,2,6,15,93,14,37,6,120,3,6,15,417,21,16,114,12,57,78,3,10,3,1,2,5,23,5,13,218,1,9,47,11,18,26,13,61,2,11,1,135,48,834,17,74,530,188,11,15,29,1,158,234,31,193,146,414,49,11,82,51,1197,9,2,90,121,116,299,3,7,10,1,8,3,2,15,3,13,2,6,8,5,145,26,48,119,8,64,245,105,25,183,41,712,145,37,138,68,20,169,14
+Morocco	25,143,122,41,98,108,13,8,10,3,56,121,89,17,33,78,48,22,25,125,2,26,21,9,1,6,113,73,2,126,70,101,79,64,7,5,3,91,119,14,147,54,6,98,3,2,20,12,30,52,16,9,11,37,44,15,4,5,33,5,5,30,20,3,5,5,3,13,15,1,2,1,50,41,11,18,4,10,1,24,19,6,10,1,8,23,64,159,13,8,10,54,18,65,20,94,9,33,4,19,4,12,107,40,27,11,39,13,8,2,7,3,4,8,29,44,53,2,34,1,17,1,3,25,28,31,17,193,43,128,30,16,1,9,22,138,6,1,55,2,4,46,6,31,44,8,23,2,7,5,20,10,3,42,1,10,68,51,96,50,79,9,45,4,56,30,9,3,1,12,22,67,37,3,8,1,3,15,8,5,21,4,76,12,29,2,7,28,69,30,17,29,46,108,11,1,7,38,32,19,8,39,34,8,44,13,32,5,57,10,16,10,11,1,41,100,8,7,16,2,74,25,13,1,77,26,24,86,18,24,102,193,96,12,59,52,59,137,1,35,63,129,113,1,16,118,93,4,19,115,107,70,23,2,16,15,48,14,120,10,69,452,312,136,11,58,63,578,45,5,71,3,2,6,15,93,14,37,6,120,3,6,15,417,21,16,114,12,57,78,3,10,3,1,2,5,23,5,13,218,1,9,47,11,18,26,13,61,2,11,1,135,48,834,17,74,530,188,11,15,29,1,158,234,31,193,146,414,49,11,82,51,1197,9,2,90,121,116,299,3,7,10,1,8,3,2,15,3,13,2,6,8,5,145,26,48,119,8,64,245,105,25,183,41,712,145,37,138,68,20,169,14,22,1,15,4
 Morocco 84 X. Revenue Impact of Recent Tax	17503
 Morocco AI	6792,3212
 Morocco ARB LMI	17743
@@ -695,6 +697,7 @@ Morocco's National Population Register	7596
 Morocco's National Population Registry	1571
 Morocco's National Telecommunications Regulatory Agency	2673,2301
 Morocco's SNIF	5630
+Morocco's SWAM and Mozambique's SIMO	19901
 Morocco-Gabon	5797
 Morocco-Nigeria	17459
 Morocco-Science-and-Technology-Cooperation.pdf	1234
@@ -821,6 +824,7 @@ Morrumbala	12148,53
 Morrumbala A Renamo	12148
 Morrumbala and Ile	12201
 Morse	736,12649
+Morsy	19915
 Mort-né	19226
 Mortalidad	1701,15197,76
 Mortalidade	10760,17,7985,6
@@ -833,7 +837,7 @@ Mortalidade Neo Natal	11537
 Mortalidade Perinatal	10777
 Mortalidade Relacionada	10777
 Mortalidades	11537
-Mortality	10780,805,566,187,29,16,30,58,492,1079,1014,669,1171,26,74,252,1379,914,3,171,45,14
+Mortality	10780,805,566,187,29,16,30,58,492,1079,1014,669,1171,26,74,252,1379,914,3,171,45,14,113
 Mortality Assessment Survey	12413
 Mortality Data Analyst- RBC	15056
 Mortality Estimation UN MMEIG United Nations	10759,76,2,1,130,902,16,3,451,12,1,135,7334
@@ -980,6 +984,7 @@ Pregnancy-related Mortality	15247
 Pregnancy-related Mortality. Appendices	13454
 Preparation of Soil Mortars	16900
 Presidency Kenny Morolong	10441
+President Mohamed Morsi	19859
 Principais Causa de Morte Ocorrido	18768
 Principais Causas de Mortalidade Ocorrido	18768
 Probabilidades da Mortalidade Adulta	10777
@@ -990,6 +995,7 @@ Property Markets and Mortgages Egypt	15473
 Prosperous Morocco	7655
 Q1 Mortgage Secured Credit Credit Facility	11198
 QTV's This Morning	17357
+Quality of Mortality	19887
 Quelimane and Morrumbala	12201
 RAS Morogoro	19585
 ROAD TRAFFIC MORTALITY RATE	16892
@@ -1096,7 +1102,7 @@ Type of Residence and County Owned Mortgaged	16921
 Tšeliso Moroke and Lephoi Makara	9439
 UN IGME. Total Under-5 Mortality Rate	12138
 UN Inter-agency Group for Child Mortality Estimation	19836
-UN MMEIG United Nations Maternal Mortality	11887,266,1,9,178
+UN MMEIG United Nations Maternal Mortality	11887,266,1,9,178,7517,1
 UN Maternal Mortality Estimation Inter-agency Group	19836
 UN Maternal Mortality Inter Agency Group	18512
 UNDER-FIVE MORTALITY RATE	16892

@@ -96,10 +96,11 @@ Attribution ATLANTIQUE TELECOMS C	998
 Attribution DE TRANSPORT C	998
 Axe C	18015
 Ayudante Grupo C	4209
-B C D	10785
+B C D	10785,9102
 B C D Biodegradable	14736
 B C INSCRIVEZ DANS LE CALENDRIER	13300
 B C P6-19-1	12500
+B National Statistics Authority and C	19887
 B Often C Sometimes D Rarely	5679
 B PERTE CONSCIENCE...... C PERTE CONSCIENCE	13300
 B Satisfactory C Average D Unsatisfactory	5679
@@ -148,7 +149,7 @@ Benin C	11867
 Bessat C	10881
 Beyond Cell C Blu Label	11159
 Bié Province Cuando Cubango Province C	11418
-Block C	2776,9224,269,1,220,971,1
+Block C	2776,9224,269,1,220,971,1,6416,23
 Bloco C Edificio da ONU CP	10776
 Bodart C	771
 Brook C	10780
@@ -301,7 +302,9 @@ C N R PT Le Président	16615
 C NN	12006
 C NOE-ARA-IDI-ARCEP- Conforme	998
 C Namibia	12373
+C National	19887
 C News	9736
+C Nothing	19887
 C NotiÞcation	15901
 C NotiÞcation de Versement	15901
 C O M C E S	17896
@@ -356,6 +359,7 @@ C Quote-part	15999
 C R O N	16973
 C RELATIVE AU TRAITEMENT DES RECLAMATIONS	18292
 C RESPIRATION RAPID...... D RESPIRATION RAPID	13300
+C Registration	19887
 C Regulations	16884
 C Report	3972
 C Right	13189
@@ -454,6 +458,7 @@ C- Electronic	582
 C- En	16031
 C- Exigences	10975
 C- Guidelines	7548
+C- ICD-compliant	19887
 C- Infrastructure	7548
 C- Investment	7548
 C- Investor	7548
@@ -539,6 +544,7 @@ C. Climate Finance	17257
 C. Cobo	6948
 C. Collaboration	7845,711,8419
 C. Collaboration and Research Networking	16975
+C. Commercial Aspect	19860
 C. Complaint Monitoring	5676
 C. Complaint Monitoring Consumer	5676
 C. Compliance	11863,2075
@@ -671,6 +677,7 @@ C. Increase	14843,761
 C. Independent Security Audits	14716
 C. Independent Security Audits The National	14716
 C. Industrie	13290
+C. Infrastructure	19860
 C. Innovation	14853
 C. Input Validation	15161
 C. Inspection	15161
@@ -751,6 +758,7 @@ C. Objetivos	11898
 C. On-budget	3583
 C. Onyefuluchi	11140
 C. Open Finance Lab	4848
+C. Openness	19860
 C. Other Cross-cutting Priorities Poverty	13938
 C. Output	15039
 C. Overall Implementation Progress Aggregate	17139
@@ -830,7 +838,7 @@ C. Reforming Universal Service Mechanisms All	14723
 C. Registration	12452
 C. Regular Audits	4610
 C. Relationship	11905,271,5282
-C. Relevance	969,295,603,1737,2935,4229,61,135,416,37,132,11,1771,1,1578,27,554,24,3,35,68,37,1,2,1288,1155,189,8,476,462,596,12
+C. Relevance	969,295,603,1737,2935,4229,61,135,416,37,132,11,1771,1,1578,27,554,24,3,35,68,37,1,2,1288,1155,189,8,476,462,596,12,8
 C. Relevant	18370
 C. Request for Proposal Conditions	12400
 C. Resource	12977
@@ -849,6 +857,7 @@ C. Sathyamala	15220
 C. Sazy	14488,1,1
 C. Sdralevich	1828
 C. Se	12018
+C. Secret	19860
 C. Section	13390
 C. Sector and Institutional Context	15983
 C. Sectoral Context Key PFM Processes1	1284
@@ -964,6 +973,7 @@ Cabo Verde. Pillar C	15924
 Cameroon C	11867
 Cameroun. C	15542
 Can Cell C	4732
+Case C	19895
 Cat C	5005
 Catalani C	1219
 Categoria C	12018
@@ -1097,6 +1107,7 @@ Dr. F. C. Matewa	1554
 Dr. George C. Ogonji Data Processor	7167
 Dóres Jesus C. Pinto Rua	10770
 E A C T	11586
+E B C	19887
 E C D B Définition	19221
 E C O L L	17945
 E C O N F	18319
@@ -1286,6 +1297,7 @@ Joël C. TOKPONOU	3682,3040,73,206,167
 Joël C. Tokponou	5516
 K. C	11135
 Kamusoko Deputy Chairperson Prof. C. E	1554
+Kanchanachitra C	19889
 Katherine C. Kellogg	16266
 Kenya C	12235
 Kenya C- Uptake	7548
@@ -1644,7 +1656,7 @@ T E C H N	14879
 T E L E C	14879,3103
 T I C	15608
 T TWY C	16552
-T. C	1243,5,7423
+T. C	1243,5,7423,11229
 TA. C. Project Beneficiaries	16949
 TABLE OF CONTENTS PART C	11198
 TC C	17829

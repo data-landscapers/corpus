@@ -686,7 +686,7 @@ AI Readiness for African Societies	16679
 AI Readiness of Mauritius Mauritius	14566
 AI Ready Ghana	4126
 AI Recommendation	11156,2507
-AI Regulation	12389
+AI Regulation	12389,7501
 AI Regulation Proposal	7972
 AI Regulation Tracker	15237
 AI Regulation and Ethics	13661
@@ -909,6 +909,7 @@ AI Youth	6948
 AI and A- Data Centre Compute Capacity	7548
 AI and A1-No	7548
 AI and A3- Latency	7548
+AI and ADM	19895
 AI and AGI	4126
 AI and AI	1814,5734,7445,171,549
 AI and AI Alliance	11050
@@ -963,6 +964,7 @@ AI and Data Science Measures	17884
 AI and Data Science Objective	17884
 AI and Data Science. CONCLUSION The State	11277
 AI and Data Sciences	1814
+AI and Data for Science and Innovation	19904
 AI and Deep Tech	15713
 AI and Develop	7548
 AI and Development	7548
@@ -1011,7 +1013,7 @@ AI and Innovation	1468,2963
 AI and Innovation Hub	12723,1811
 AI and Innovation LinkedIn Targets AI Spam	5562
 AI and Internet of Things	16144
-AI and IoT	5214,9515
+AI and IoT	5214,9515,5161,5
 AI and Justice	15881
 AI and KES	7548
 AI and Local Languages Become Part of Africa	8241
@@ -1318,6 +1320,7 @@ AI. The Joint Statement	6849
 AI. The Kenyan AI	6231
 AI. The Ministry of Information	12210
 AI. The National AI	12210
+AI. The National Council for Artificial Intelligence	19890
 AI. The Recommendation	13663
 AI. The UAE	793
 AI. The US Federal Trade Commission	12210
@@ -1405,7 +1408,7 @@ Adopt AI	12356,2456
 Adopt AI Governance Frameworks Ahead of Regulatory	11138
 Adopting AI	4126,4869,5791
 Adoption and Use of AI Tools	14812
-Adoption of AI	1814,15161
+Adoption of AI	1814,15161,2929
 Adoption of AI Technologies	16046
 Adopts AI Governance Framework The National	16202
 Adopts AI Governance Framework URL	16202
@@ -1478,7 +1481,7 @@ Africa. Social and Cultural Studies of Robots and AI	2816
 Africa. The AI	1814
 Africa. Through the EU's AI Factories	9632
 Africa. While African AI	4253
-African AI	1363,451,278,117,179,1010,461,267,127,5,124,43,19,245,45,149,81,78,53,207,117,94,38,341,22,127,190,19,17,65,45,33,183,74,47,76,18,144,3,42,75,79,74,285,38,25,96,167,136,88,28,38,23,33,24,95,47,204,92,193,282,36,467,20,97,205,133,42,576,106,153,141,236,7,18,854,2356,98,23,1,633,600,632,226,773,221,916,933
+African AI	1363,451,278,117,179,1010,461,267,127,5,124,43,19,245,45,149,81,78,53,207,117,94,38,341,22,127,190,19,17,65,45,33,183,74,47,76,18,144,3,42,75,79,74,285,38,25,96,167,136,88,28,38,23,33,24,95,47,204,92,193,282,36,467,20,97,205,133,42,576,106,153,141,236,7,18,854,2356,98,23,1,633,600,632,226,773,221,916,933,282
 African AI By Sibahle Malinga	10638
 African AI Compute Grid	6690
 African AI Ecosystem Acquired	6953
@@ -1530,7 +1533,7 @@ Africa’s AI Moment	4970
 Africa’s AI Policy Ambitions Ignore Energy	5418
 Africa’s AI Talent and Compute Gap	11140
 Africa’s Sovereign AI Play	4425
-Age of AI	3068,1515,446,1917,2,496,2584,1645,2893,3205,459
+Age of AI	3068,1515,446,1917,2,496,2584,1645,2893,3205,459,1674
 Age of AI Mr. Chair	17238
 Age of AI Statement	17238
 Age of AI URL	17238
@@ -1855,7 +1858,7 @@ Clearview AI	2521,659,249,939,974,1524,210,294,2923,1917
 Climate Change and AI	4126
 Climate-Resilient AI Governance Zimbabwe's AI	12512
 Climate-Resilient AI Governance Zimbabwe’s AI	4528
-Cloud and AI	6834,3213
+Cloud and AI	6834,3213,9824
 Cloud and AI Development Act	6468,8,1,10,392,1467,558,1184,962
 Cloud and AI Development Act Full	6477
 Cloud-based AI	15164
@@ -2090,7 +2093,7 @@ Digital Transformation and AI Council	14674
 Digital Transformation and AI Council and Delivery	14674
 Digital Transformation and AI Integration	14747
 Digital Transformation and AI Strategy	13080
-Digital and AI	15939
+Digital and AI	15939,3932
 Digital and AI Ecosystem Mapping	4528,7984
 Digital and AI Regional Practice Director	5395
 Digital and AI Transformation Driving	11332
@@ -2235,13 +2238,15 @@ Egypt National Guidelines for Trustworthy and Responsible AI	16212
 Egypt Senior AI Experts Cultivation and Attraction	15713
 Egypt's AI	6569
 Egypt's National AI Governance Framework URL	16212
+Egypt's Second National AI Strategy	19895
 Egypt. AI	15713
 Egypt. Talents Number of AI	15713
-Egyptian AI	15713,418,81
+Egypt. The Egyptian Charter for Responsible AI	19890
+Egyptian AI	15713,418,81,3678
 Egyptian AI Governance Framework	16212
 Egyptian AI Law	16212
-Egyptian Center for Responsible AI	16202,10
-Egyptian Charter for Responsible AI	15713,489,10
+Egyptian Center for Responsible AI	16202,10,3673
+Egyptian Charter for Responsible AI	15713,489,10,3656,17,5,5
 Egyptian National AI Governance Framework	16212
 Egypt’s AI	15713,156,262
 Egypt’s AI Governance	16212
@@ -2745,10 +2750,11 @@ Government AI	7548
 Government AI Adoption Code	7548
 Government AI Campus	16730,2413
 Government AI Readiness	15583
-Government AI Readiness Index	2816,1812,482,1285,208,945,53,6470,1642,333,156,439
+Government AI Readiness Index	2816,1812,482,1285,208,945,53,6470,1642,333,156,439,3290
 Government AI Readiness Index. Disponível	2816
 Government AI Readiness Index. Hindy	16131
 Government AI Readiness Index. The Index	14071
+Government AI Readiness Index. Tigrinya	19931
 Government Leadership and AI Summit	3527
 Government Procurement Guidelines for AI Systems	16212
 Government WHO CAN APPLY The AI	10347
@@ -2971,6 +2977,7 @@ International Network of AI Safety Institutes	7548
 International Telecommunication Union’s AI for Good	4723
 Internet of Things.1 AI	6832
 Interoperability and Open Standards AI	7548
+Interplay Between AI and Data Protection Regulations	19890
 Introduce AI	18480
 Introduce Modern AI Tools Put APIs	18039
 Introduction AI	7451,7115,3214
@@ -3444,7 +3451,7 @@ National AI Strategic Implementation Plan	11230
 National AI Strategic and AI Delivery Unit	14674
 National AI Strategies	1814,5774,3547,1075,4002
 National AI Strategies. AI	11135
-National AI Strategy	2557,129,85,483,29,83,190,19,29,130,26,349,17,402,445,254,159,25,188,102,92,139,2,12,95,164,28,144,3,62,141,20,189,755,1,462,78,152,92,31,55,612,174,12,335,306,215,138,36,55,834,3,301,339,144,288,31,115,156,568,15,18,330,189,31,677,225,1,108,1039,156,67,110,85,71,10,43,33,2071,215,266
+National AI Strategy	2557,129,85,483,29,83,190,19,29,130,26,349,17,402,445,254,159,25,188,102,92,139,2,12,95,164,28,144,3,62,141,20,189,755,1,462,78,152,92,31,55,612,174,12,335,306,215,138,36,55,834,3,301,339,144,288,31,115,156,568,15,18,330,189,31,677,225,1,108,1039,156,67,110,85,71,10,43,33,2071,215,266,1045
 National AI Strategy Committee	9511
 National AI Strategy Date	6440
 National AI Strategy Ecosystem Category	4528
@@ -3826,6 +3833,7 @@ Reframing AI	8460
 Regional AI	6948,6292
 Regional AI Agenda	18705
 Regional AI Capacity Spillover Existing Industry	15713
+Regional AI Cooperation	19904
 Regional AI Governance Framework	4738
 Regional AI Marketplace	14340,226
 Regional AI Network of Universities	14178
@@ -4396,7 +4404,7 @@ Use AI	7648,103,3514,1091,319
 Use Case Use Case AI Legal	14566
 Use Initiatives Egypt National AI Regulatory	15713
 Use Modern AI Tools LLMs	18039
-Use of AI	4126,3061,7625,352,3282
+Use of AI	4126,3061,7625,352,3282,1458
 Use the AI Features	11654
 User Feedback Results The AI	18557
 Uses India's AI	4300

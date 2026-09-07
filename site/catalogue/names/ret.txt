@@ -558,7 +558,9 @@ Quarter. Tabulation and Disaggregation of Retirement	12972
 Question of Data Retention	2918
 RBA Retirement Benefits Authority RMLF Road	2775
 RECORDS AND RETURNS OF BIRTHS	12898
+RENPD and RETD	19852
 REP Rwanda Energy Policy RET Renewable	14947
+REPD and RETD	19852
 REQUEST FOR RETURN OF FUNDS MT101	16844
 RET Internation	17971
 RETAIL PAYMENTS	4517,2461,12686
@@ -569,6 +571,7 @@ RETAIN	6432
 RETAIN RETAIN	6432
 RETARD DE PAIEMENT	15901
 RETARI SERVICE DU FICNIEREG	15999
+RETD and SOLA	19852
 RETENTION Personal	1243
 RETIRE	6432
 RETIRE Archive	6432
@@ -726,7 +729,7 @@ Retarder	7715
 Retards	8556,2318,2650,1049,3309,19,72
 Retargeting	9855
 Retenons	15965
-Retention	28,559,1353,6496,2698,45,2,104,667,43,52,604,268,10,1,8,66,1,376,185,79,790,14,444,3,101,37,130,813,855,7,1623,79,342,626,21,55,49
+Retention	28,559,1353,6496,2698,45,2,104,667,43,52,604,268,10,1,8,66,1,376,185,79,790,14,444,3,101,37,130,813,855,7,1623,79,342,626,21,55,49,256,5
 Retention Fund	4389,1,1,1
 Retention Funds	4389
 Retention Lock	13185
@@ -738,6 +741,7 @@ Retention Policy and Schedule	6632
 Retention Rate	18460
 Retention Requirement	13381
 Retention Training	13381
+Retention and Deletion	19895
 Retention and Development Fund	13420
 Retention and Form of Records	17243
 Retention and Motivation	14818
@@ -900,6 +904,7 @@ Return Intentions Among Nigerian Refugees	10841
 Return Message	12364
 Return On Assets	15023
 Return On Equity	15023
+Return Process Applicants	19866
 Return Reservation	12364
 Return Tax Assessment Audit and Review Tax	15175
 Return and Rehabilitation Commission	3583

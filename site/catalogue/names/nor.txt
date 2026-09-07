@@ -245,7 +245,7 @@ Cuanza- Norte	4044,6734
 Cuanza- Norte Sociedade Cuanza Norte	10778
 Cubango Cuanza Norte Cuanza Sul	10766
 Cubango Cuanza Norte Cuanza Sul Cunene	10766
-Cultural Norms	12214,1724
+Cultural Norms	12214,1724,5940
 Cultural Norms Beyond	19728
 Cultural Norms RATING OPPORTUNISTIC STAGE Technology	12214
 Cunene Huambo Huíla Luanda Lunda Norte	10766
@@ -563,6 +563,7 @@ JG-5 Jigawa NorthWest	11857
 JURIDIQUE NOTATION MOYENNE DE LA NORME	17830
 Jane Heather Loveday of North East Point	19049
 Jean-Yan Norbert	11332
+Jobs Global Practice Middle East and North	19855
 Jon Norberg	11006
 Justice and Constitutional Affairs Minister Norbert Mao	10562
 KABBE NORTH KONGOLA Total Eligible	13025
@@ -752,13 +753,14 @@ Member for Chama North	13387
 Member of Parliament for Kilifi North	10313
 Member of Parliament for Tano North	8368
 Michele Ralisoa Noro Supervision	15424
-Middle East and North Africa	2172,2152,1274,1447,471,68,2014,192,35,1,1151,27,28,103,5,9,251,467,3023,583,131,59,62,321,856,14,542,1997,202,178,9,3
+Middle East and North Africa	2172,2152,1274,1447,471,68,2014,192,35,1,1151,27,28,103,5,9,251,467,3023,583,131,59,62,321,856,14,542,1997,202,178,9,3,27,11
 Middle East and North Africa Economic Monitor	16902
 Middle East and North Africa Qatar Jordan	11135
 Middle East and North Africa Region	11271,3793,1838,2942
 Middle East and North Africa Regional Strategy	15663
 Middle East and North Africa Regional Vice	13860
 Middle East and North Africa. Least	11003
+Middle East and North African	19853
 Middle East and North America	2769
 Middle East and Northern Africa AGOA African	10841
 Middle-East and North	10812
@@ -999,7 +1001,7 @@ Nordic Data Imaginary	11028
 Nordic Development Fund. Apart	19677
 Nordic Institute for Interoperability Solutions	3070,3598
 Nordic Journal of Nursing Research	4432
-Nordic Trust Fund	15663
+Nordic Trust Fund	15663,4209
 Nordic Vipps MobilePay	9832
 Nordpol	8530
 Nordström	17780
@@ -1316,7 +1318,7 @@ North Row	4972
 North SSPLA South Sudan People's Liberation	15342
 North Sainai	15663
 North Sea Connect	1766
-North Sinai	15473,131,373,69
+North Sinai	15473,131,373,69,3822
 North South East West Central Southern	9616
 North Star	3255,1273,7525,459
 North Star Africa	5608
@@ -1324,6 +1326,7 @@ North Sudan	15342
 North Sudan Poverty Report	15244
 North Sudan--initially	15342
 North Texas Economics Conference	18318
+North Tower	19890
 North Ubangi	11900
 North Ubangi and South Kivu Provinces	11900
 North Unguja	6728,4405
@@ -1450,10 +1453,16 @@ Northeastern Lusaka	12369
 Northeastern State	3426,5815
 Northen and River Nile	14933
 Northern	34,202,553,1535,452,636,269,1571,142,1319,234,544,204,174,501,1772,487,232,608,455,164,94,31,28,37,50,1,74,10,18,629,305,2,25,26,934,322,107,116,219,13,77,38,186,169,29,29,141,106,314,112,707,120,78,449,759,17,4,11,62,1175,87
-Northern Africa	585,400,2172,1519,4190,641,1292,41,732,322,327,5066
+Northern Africa	585,400,2172,1519,4190,641,1292,41,732,322,327,5066,2583,1
+Northern Africa And Western Asia	19862
+Northern Africa Challenges	19874
+Northern Africa Geography	19858
 Northern Africa and Western Africa	585
-Northern Africa and Western Asia	10846
+Northern Africa and Western Asia	10846,9019
+Northern Africa and Western Asia. Algeria	19865
+Northern Africa and Western Asia. Egypt	19862
 Northern Africa. Five	7423
+Northern Africa. Geography	19859
 Northern America and Europe	11572
 Northern Bahr	3583,7074,2619,4332,1017,112
 Northern Bahr El Ghazal	3583,15154
@@ -1619,9 +1628,11 @@ Norwegian	7232,46,1402,2139,1412,2674,4584
 Norwegian Agency for Development Cooperation	1947,4745,1194,2828,105,1373,86,223
 Norwegian Agency for Development Cooperation NRP	12175
 Norwegian Centre for Tax Research	10335
+Norwegian Country of Origin Information Centre	19921
 Norwegian Embassy	14905,1131
 Norwegian Government	12168
 Norwegian Hydrometric Project	16947
+Norwegian ID Center	19921
 Norwegian ID Centre	14905
 Norwegian Investment Fund for Developing Countries	211,178,1,123,194,1,1,1,218,1,208,1095,1,1
 Norwegian Meteorological Institute	15120

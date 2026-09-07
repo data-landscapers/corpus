@@ -234,14 +234,16 @@ Commissioner for Refugees. Component	1778,210
 Community CERC Contingency Emergency Response Component	969
 Comoros. Components	13793
 Compoment	15372
+Compoment B- Registration	19887
 Compoment Total Component Categories Funding	15372
 Compoment Total Component Category Funding	15372
 Componenente	11542
-Component	34,126,161,286,41,113,11,1,79,119,8,17,4,9,219,36,20,6,294,120,66,8,89,121,265,1,37,182,239,120,57,100,261,206,138,10,74,102,579,294,243,474,250,919,40,254,95,2702,592,546,61,3,33,98,1,224,187,5,10,5,22,108,330,8,6,55,41,6,37,129,58,25,168,24,14,14,260,24,18,39,51,148,10,27,37,57,220,1,46,14,67,195,77,56,43,3,4,3,19,57,1,5,16,72,28,42,376,31,29,37,23,334,2,16,38,5,40,6,2,12,49,58,52,182,5,34,13,57,10,20,2,1,1,3,35,48,3,15,2,37,1,2,2,39,2,27,6,6,39,20,2,97,58,10,14,96,65,8,35,184,13,14,38,178,24,16,21,30,63,128,26,4,23,3,8,40,79,17,3,15,66,39,222,408,13,42,2,52,4,142,189,8,49,5,4,97,48,74,40,5,2,10,26,93,11,44,8,8,62,46,312,4,35,123,48,64,52,72,11,9,162,4,6,12
+Component	34,126,161,286,41,113,11,1,79,119,8,17,4,9,219,36,20,6,294,120,66,8,89,121,265,1,37,182,239,120,57,100,261,206,138,10,74,102,579,294,243,474,250,919,40,254,95,2702,592,546,61,3,33,98,1,224,187,5,10,5,22,108,330,8,6,55,41,6,37,129,58,25,168,24,14,14,260,24,18,39,51,148,10,27,37,57,220,1,46,14,67,195,77,56,43,3,4,3,19,57,1,5,16,72,28,42,376,31,29,37,23,334,2,16,38,5,40,6,2,12,49,58,52,182,5,34,13,57,10,20,2,1,1,3,35,48,3,15,2,37,1,2,2,39,2,27,6,6,39,20,2,97,58,10,14,96,65,8,35,184,13,14,38,178,24,16,21,30,63,128,26,4,23,3,8,40,79,17,3,15,66,39,222,408,13,42,2,52,4,142,189,8,49,5,4,97,48,74,40,5,2,10,26,93,11,44,8,8,62,46,312,4,35,123,48,64,52,72,11,9,162,4,6,12,8,32
+Component A- Legal	19887
 Component Activity	18887
 Component Activity Output Outcome Strengthening	18293
 Component Area	18478
-Component B	5370,8284,77
+Component B	5370,8284,77,6156
 Component Based Enterprise Systems Architecture	18478
 Component Based Enterprise Systems Architecture Legislation	18478
 Component Beneficiary Profile	10964
@@ -261,7 +263,7 @@ Component Climate Hazards Group InfraRed Precipitation	10763
 Component Component Sustainability Mechanisms Component	13331
 Component Components Foreign Currency	11863
 Component Costs	16896
-Component D	13731
+Component D	13731,6156
 Component Dec	19284
 Component Description Appraisal Component	16436
 Component Description Implementation	15034
@@ -306,7 +308,7 @@ Componente de Gestao da Receita	574
 Componente de Resposta de Emergência	11406
 Componente de Resposta de Emergência Contingente	11440,1,101
 Componentes	10777,629,7,3,44,109,5617,1588
-Components	236,191,334,503,167,141,132,163,121,158,107,1,37,421,892,74,785,1157,919,40,254,327,1123,785,1700,196,169,242,42,168,205,70,9,55,41,210,20,25,136,3,53,312,108,64,66,65,283,21,47,7,7,131,264,74,588,38,89,166,120,26,22,26,16,2,17,5,41,121,234,39,13,87,7,35,48,57,1,2,2,39,100,99,58,10,175,43,249,202,17,245,52,8,139,137,205,408,109,4,171,161,7,53,5,97,78,89,12,26,104,60,420,39,235,25,27,72,20,78,88,6,12
+Components	236,191,334,503,167,141,132,163,121,158,107,1,37,421,892,74,785,1157,919,40,254,327,1123,785,1700,196,169,242,42,168,205,70,9,55,41,210,20,25,136,3,53,312,108,64,66,65,283,21,47,7,7,131,264,74,588,38,89,166,120,26,22,26,16,2,17,5,41,121,234,39,13,87,7,35,48,57,1,2,2,39,100,99,58,10,175,43,249,202,17,245,52,8,139,137,205,408,109,4,171,161,7,53,5,97,78,89,12,26,104,60,420,39,235,25,27,72,20,78,88,6,12,8,32
 Components Accelerating Learning	17958
 Components Adaptive Safety Nets Youth Economic	10963
 Components Amounts	11924
@@ -436,6 +438,7 @@ Composite Development	15845
 Composite Drought Index	12931,46,4180
 Composite Drought Index-Eswatini	12977
 Composite Index of Economic Activity	17317
+Composite Indicator	19931
 Composite Indicator Index and Threshold Tables Final	13868
 Composite Micro Utility License	16978
 Composite Score	2957
@@ -1156,6 +1159,7 @@ WBG CRI. Intermediate Indicator Component	11965
 WHO. FIGURE A.1 THE COMPONENTS	1009
 Waste Management Hierarchy Under Component	1988
 Western Africa. Components Page	16144
+World Bank FIF Review for Component	19855
 World Bank. Component	16922
 X E S Composante	16641
 X X Component	16384

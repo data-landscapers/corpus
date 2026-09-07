@@ -73,7 +73,7 @@ Causas de Morte	11537
 Causas de Morte Mortalidade Contém	966
 Causation	17139
 Causatives	18099
-Cause	1988,8775,43,611,721,13,187,75,546,649,1448,543,1261,6,26,222,785,413,231
+Cause	1988,8775,43,611,721,13,187,75,546,649,1448,543,1261,6,26,222,785,413,231,1344
 Cause Effect	19604
 Cause Of Action	14675
 Cause of Cause of Death N	12151
@@ -89,7 +89,7 @@ Cause-effect	14921
 Cause-of-Death	15209
 CauseDeath	11180
 Causeries Maladies	19226
-Causes	4047,7109,906,76,13,320,2425,131,29,46,497,86,1454,121,583,26,317,31,725,399
+Causes	4047,7109,906,76,13,320,2425,131,29,46,497,86,1454,121,583,26,317,31,725,399,546
 Causes Firms	13624
 Causes Of Death	12151
 Causes Of Death According To Global	12151

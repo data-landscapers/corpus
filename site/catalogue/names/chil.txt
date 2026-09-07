@@ -54,6 +54,7 @@ Against Children NTDs Neglected Tropical Diseases	19544
 Against Children WHO World Health Organization	12939
 Age Group and Sex for Children	12977
 Age of Youth NEET HH Head Child	15244
+Age-Based Requirements Children	19866
 Aid OVCs Orphans and Vulnerable Children PSR	13310
 Al Sabah Children's Hospital	18697
 Allowances for Children and Wives	16902
@@ -147,6 +148,7 @@ Cameroon Chile Colombia Costa Rica Côte	10764
 Camp Child	1988
 Cape ECD Early Childhood Development FS	11192
 Care-Seeking for Childhood Illness	18441
+Case of Children's Health Insurance. Journal	19889
 Cash NDMA-PR-12 Child Headed Household	12977
 Cash Transfer for Orphans and Vulnerable Children	14487
 Cash Transfers and Child Schooling	13332,2326
@@ -168,7 +170,7 @@ Chilala	13477
 Chilamo Sinkala Social Safeguards Consultant	13392
 Chilanga	5522,8101
 Chilaule Angela da Silva Luis Rego Zauria	2989
-Child	21,5,1,555,189,201,239,386,41,350,1595,1000,1809,554,201,836,112,281,228,1162,28,16,949,6,10,44,10,6,2,1,43,87,49,11,43,346,190,158,105,16,1,1,1,16,2,70,176,1,9,25,26,3,36,74,10,3,1,11,1,14,6,10,19,3,54,27,2,8,159,17,57,199,11,38,28,35,57,51,147,51,128,34,68,105,281,49,20,118,1,592,99,21,12,15,7,11,4,125,170,38,88,42,41,189,121,462,393,5,275,14,13,63,1,7,13,143,13,101,61,7,34,411,193,436,71,17,139,1,26,1,1,12,274,25,297,50,239,8,10,3,108,1,31,31,107,13,1
+Child	21,5,1,555,189,201,239,386,41,350,1595,1000,1809,554,201,836,112,281,228,1162,28,16,949,6,10,44,10,6,2,1,43,87,49,11,43,346,190,158,105,16,1,1,1,16,2,70,176,1,9,25,26,3,36,74,10,3,1,11,1,14,6,10,19,3,54,27,2,8,159,17,57,199,11,38,28,35,57,51,147,51,128,34,68,105,281,49,20,118,1,592,99,21,12,15,7,11,4,125,170,38,88,42,41,189,121,462,393,5,275,14,13,63,1,7,13,143,13,101,61,7,34,411,193,436,71,17,139,1,26,1,1,12,274,25,297,50,239,8,10,3,108,1,31,31,107,13,1,22,1,28,15,22,9
 Child Act	3583,11669,352,2994
 Child Act No	19531
 Child Allowance	14742,93
@@ -234,7 +236,7 @@ Child Marriage	10829,1359,4763,1490,1214
 Child Marriage and FGM	12188
 Child Marriages	19715
 Child Mortality Estimates	17843
-Child Mortality Estimation	11887,266,1,9,178
+Child Mortality Estimation	11887,266,1,9,178,7517,1
 Child Mortality Mortality Rates	18441
 Child Mortality Rate	12367,16,30,2643
 Child Mortality Report. New York	15601
@@ -265,8 +267,10 @@ Child Online Safety Survey	1554
 Child Online Safety and Empowerment Policy	8050,3350,3932
 Child Participation	12977
 Child Participation Technical Working Group	12977
-Child Pornography	26
+Child Pension	19889
+Child Pornography	26,19907
 Child Poverty Analysis	12962
+Child Prostitution	19933
 Child Prostitution and Child Pornography	13962
 Child Prostitution and Child Pornography CRPD	14742
 Child Prostitution and Trafficking. The DIC	14742
@@ -349,6 +353,7 @@ Child. Children	9794
 Child. Clause	12959
 Child. Education Sector Plan for Egypt Education	15604
 Child. Eritrea	13962
+Child. Herein	19920
 Child. ICESCR	3583
 Child. New York	12367
 Child. The Kingdom of Eswatini	12977
@@ -376,7 +381,7 @@ Childline Kenya	8050
 Childline Kenya Data Controller INST-176101095E1 NAIROBI	7167
 Childline Kenya Facebook	8050
 Childline Zimbabwe	9794
-Children	1,581,418,220,594,282,422,30,227,932,594,147,188,306,40,243,1118,177,272,154,221,381,502,525,75,214,379,543,8,547,64,299,125,25,110,107,144,70,115,17,143,88,110,97,50,72,161,13,24,13,14,51,74,1,45,5,5,19,3,26,9,56,122,50,223,68,4,1,13,85,33,2,111,79,133,5,45,211,178,89,43,8,32,14,22,675,4,141,9,11,15,292,15,15,3,85,186,86,57,2,590,347,197,55,8,14,9,4,9,6,19,1,28,2,6,13,4,68,13,13,45,13,12,150,7,475,98,368,133,71,2,34,120,30,16,202,67,322,50,171,74,2,13,171,6,20,19,75,5
+Children	1,581,418,220,594,282,422,30,227,932,594,147,188,306,40,243,1118,177,272,154,221,381,502,525,75,214,379,543,8,547,64,299,125,25,110,107,144,70,115,17,143,88,110,97,50,72,161,13,24,13,14,51,74,1,45,5,5,19,3,26,9,56,122,50,223,68,4,1,13,85,33,2,111,79,133,5,45,211,178,89,43,8,32,14,22,675,4,141,9,11,15,292,15,15,3,85,186,86,57,2,590,347,197,55,8,14,9,4,9,6,19,1,28,2,6,13,4,68,13,13,45,13,12,150,7,475,98,368,133,71,2,34,120,30,16,202,67,322,50,171,74,2,13,171,6,20,19,75,5,47,33
 Children AND Social Welfare	16951
 Children Act	8948,5487,58,4425
 Children Age	12151
@@ -437,6 +442,9 @@ Children's Advocate	13097
 Children's Court	7147,4030,800
 Children's Courts	12668
 Children's Data	4583
+Children's Data and EdTech	19895
+Children's Data and Sector	19910
+Children's Defense Fund and National Governors Association	19889
 Children's Emergency Fund ACRONYMS	12947
 Children's Foundation Gambia	7171
 Children's Fund	13990,4149
@@ -450,6 +458,7 @@ Children's Institute	11977
 Children's Investment Fund Foundation	14123
 Children's Living Arrangements and Parental Survival	13454
 Children's Means of Accessing The Internet	19702
+Children's Personal Data	19895
 Children's Protection and Welfare	12737
 Children's Protection and Welfare Act	12929,48
 Children's Rehabilitation Centre	12421
@@ -649,7 +658,7 @@ Early Childhood Education Attendance	19715
 Early Childhood Education Centres	13355
 Early Childhood Education FY17	16436
 Early Childhood Education and Development	12411
-Early Childhood Mortality	14067
+Early Childhood Mortality	14067,5853
 Early Childhood Mortality Rates	12655
 Early Childhood and Basic Education	16638
 Early Childhood and Development Education	14478
@@ -743,6 +752,7 @@ Health for Children Under	15244
 Heavy Duty Children	12977
 Help A Child South Sudan	18665
 High Commissioner for Refugees United Nations Children	16436
+High School Child EGP	19855
 Hold the Child	4257
 Hold the Child. Country	4257
 Home-based Early Childhood Development	12411
@@ -755,6 +765,7 @@ Households With Children Under	19702
 Human Beings Especially Children and Women	16874
 Hunger Child	15244
 ID for All The United Nations Children	6807
+ID. Children	19927
 IGME United Nations Inter-agency Group for Child	10759,76,2,1,130,902,16,3,451,12,1,135,7334
 III. ACRONYMS AND ABBREVIATIONS CP Child	12939
 ILO’s Worst Forms of Child Labor Convention	16972
@@ -1038,6 +1049,7 @@ President Mr. Michael Chilufya Sata	13561
 Prevalence of Child Marriage	19715
 Preventing Violence Against Children	10776
 Primary School Child	15663
+Primary School Child EGP	19855
 Processing of Children’s Data	2873
 Processing of Children’s Personal Information	13381
 Professor Roma Chilengi	13596
@@ -1114,7 +1126,7 @@ Safeguard Children	4583
 Safeguarding Digital Public Infrastructure for Children	11007
 Salaam UNICEF United Nations International Children	19541
 Sale and Sexual Exploitation of Children	14742
-Sale of Children	13962,780
+Sale of Children	13962,780,5191
 Sanitathon Unemployment Housing Assetes Child Labour	15244
 Santiago de Chile Chile Honduras Unión Internacional	10764
 Santiago de Chile Chili Courriel	17856
@@ -1125,6 +1137,7 @@ Saving Mothers and Children Maternal	14120
 Scheme. Subsistence Allowance Scheme Child Allowance	14835
 School Aged Children	19544
 School Attendence Child Nutrition Access	15244
+School Child EGP	19855
 School Child High School Child	15663
 School Drive REGION NUMBER OF CHILDREN	12977
 School Going Children	19702
@@ -1199,7 +1212,7 @@ UNICEF Child Protection Section Programme Division	12337
 UNICEF Child Protection Specialist	10704,1353,6082
 UNICEF Country and Regional Child Protection Offices	16860
 UNICEF United Nations Children Fund UNSDCF	16941
-UNICEF United Nations Children's Fund	11390,497,266,1,9,178,6738
+UNICEF United Nations Children's Fund	11390,497,266,1,9,178,6738,779,1
 UNICEF United Nations Children's Fund UNIMA	12241
 UNICEF United Nations Children's Fund UNJP	19647
 UNICEF United Nations Children's Fund USPC	16852

@@ -1798,7 +1798,7 @@ Plataforma de Toponímia da CMP URL	16262
 Plateau-Central Urbain	10875
 Plateaux Region URL	19325
 Plateforme Urbaine	10998
-Platform URL	15243,3023
+Platform URL	15243,3023,1630
 Platform for Urban Upgrading	15473
 Point URL	17077,157,27,107
 Police URL	16498
@@ -2718,7 +2718,7 @@ Urbaines	10876
 Urbaines de Gestion Foncière	10876
 Urbains	16515,1499
 Urbains Fonciers	10876
-Urban	183,53,11,92,2,17,60,164,64,72,53,18,169,55,206,408,317,152,395,4,2,128,797,490,218,1870,51,722,18,145,168,152,292,321,17,1513,1364,49,29,123,21,19,125,7,160,173,91,12,307,26,22,37,24,18,131,55,7,28,34,17,19,1,30,7,3,31,14,16,10,22,26,3,41,32,106,16,257,34,17,15,100,280,9,51,226,187,188,655,71,35,94,22,62,7,32,30,29,29,12,32,115,171,58,80,21,30,23,98,233,909,9,40,5,6,23,16,7,21,2,24,94,13,30,103,25,218,2,457,236,95,148,100,392,215,89,283,22,71,41,23,25,25,99,21
+Urban	183,53,11,92,2,17,60,164,64,72,53,18,169,55,206,408,317,152,395,4,2,128,797,490,218,1870,51,722,18,145,168,152,292,321,17,1513,1364,49,29,123,21,19,125,7,160,173,91,12,307,26,22,37,24,18,131,55,7,28,34,17,19,1,30,7,3,31,14,16,10,22,26,3,41,32,106,16,257,34,17,15,100,280,9,51,226,187,188,655,71,35,94,22,62,7,32,30,29,29,12,32,115,171,58,80,21,30,23,98,233,909,9,40,5,6,23,16,7,21,2,24,94,13,30,103,25,218,2,457,236,95,148,100,392,215,89,283,22,71,41,23,25,25,99,21,40,43
 Urban AI	2518
 Urban Activity	6051
 Urban Addresses	11129
@@ -2822,7 +2822,7 @@ Urban Percentage of Residence Persons	19542
 Urban Percentage of Residence Persons Number	19542
 Urban Percentage of Tanzania	19542
 Urban Place of Residence Primary School Lower	19542
-Urban Planning	789,5016,5132,348,4188,1787,1045,171,1079
+Urban Planning	789,5016,5132,348,4188,1787,1045,171,1079,339
 Urban Planning Act	19585
 Urban Planning Authority	16916
 Urban Planning Expert- Alexandria University	15473
@@ -3061,6 +3061,7 @@ Urine	13300
 Urinova	7759
 Urlescontrotsèduée	15429
 Urman	4253
+Urnekgnisotwern	19887
 Uroniisosna.nAceu	4459
 Urostar	12617
 Urso MoU	3353
@@ -3108,6 +3109,7 @@ Urwego SSN	13323
 Urwego. Abo	1214
 Urwego. the Authority	1214
 Utilities and Urban Communities	9414
+Utilities and Urban Communities Sherif El-Sherbiny	19892
 V. Y URB	4209
 V.3.4 Urbain Nb Nb Nombre	10847
 V.4.4 Urbain	10847

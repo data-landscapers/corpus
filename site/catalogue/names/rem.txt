@@ -532,8 +532,8 @@ Remadiation Data Ownership and Change Processes Sterwardship	15034
 Remageom	8891
 Remain	4896,7357,5094,2454
 Remainder	3152,217,529,2059,143,856,1030,282,2102,291,944,1073,650,7,1,3,311,1193,337,4489
-Remained	5247,8285
-Remaining	26,1661,1358,823,407,2157,2211,31,2280,618,344,1443,102,101,858,633,111,178,1600,215,100,488,104,525,477,191
+Remained	5247,8285,6355
+Remaining	26,1661,1358,823,407,2157,2211,31,2280,618,344,1443,102,101,858,633,111,178,1600,215,100,488,104,525,477,191,810
 Remaining Challenges	17441
 Remaining Extent of Portion	1009
 Remaining Figures	18485
@@ -681,7 +681,7 @@ Remittance for Development	1019
 Remittance-Linked Products and Services	13388
 Remittance-as-a-Service	6373
 Remittance-linked	14909
-Remittances	377,41,4298,581,3925,487,1427,719,54,51,337,1017,74,480,1028,1,1977,99,284,540,73,900
+Remittances	377,41,4298,581,3925,487,1427,719,54,51,337,1017,74,480,1028,1,1977,99,284,540,73,900,1162
 Remittances Data	11960
 Remittances Labour	13804
 Remittances ONLY Mostly	418
@@ -734,6 +734,7 @@ Remote Monitoring Integration Platform	12195
 Remote Monitoring Technologies	16947
 Remote Monitoring of Chronic Diseases	17884
 Remote Moomba Chiefdom	3662
+Remote Recharge	19929
 Remote Sens. Environ	16875
 Remote Sensing	13624,465,1,679,516,430,748,3,450,241
 Remote Sensing Agricultural Services Agreement	10559,537
@@ -765,7 +766,7 @@ Remotely Sensed Information	12957
 Remoteness	11918,6,6885
 Remoteness of Refugee Settlements	10841
 Removable	12677
-Removal	1,765,1062,1886,147,1035,6281,287,436,285,179,297,238,154,258,255,843,44,40,101,80,72,161,11,163,45,1724,1,33,256,1319,4,2,137,559,364,124
+Removal	1,765,1062,1886,147,1035,6281,287,436,285,179,297,238,154,258,255,843,44,40,101,80,72,161,11,163,45,1724,1,33,256,1319,4,2,137,559,364,124,251
 Removal Asbestos	1988
 Removal Factor	17140
 Removal Process Responsibility The Satellite PMU	1988
@@ -793,7 +794,7 @@ Removed	2889,2080,14857
 Removed ACM	1988
 Removed. Several	2889
 Remover	1701
-Removing	1264,564,506,127,4719,786,2127,39,724,90,523,506,1030,1088,578,226,1942,121,543,966,1332
+Removing	1264,564,506,127,4719,786,2127,39,724,90,523,506,1030,1088,578,226,1942,121,543,966,1332,88
 Removing Barriers	5216,8115
 Removing Constraints for More and Better	18456
 Removing Constraints for More and Better Jobs	13331

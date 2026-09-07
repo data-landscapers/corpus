@@ -190,8 +190,8 @@ CDD DOSSIER N	15671
 CDD Ghana	7662
 CDD for Existing Customers	12389
 CDD-FDD. Lors	13530
-CDD-Ghana	7886,2873,76,2,1,130,902,16,2,1,264,1,9,29,86,62,1,11,1,135,13,4143,3008,1,169,14
-CDD-Ghana Ghana Center for Democratic Development	11887,266,1,9,178
+CDD-Ghana	7886,2873,76,2,1,130,902,16,2,1,264,1,9,29,86,62,1,11,1,135,13,4143,3008,1,169,14,22,1,65
+CDD-Ghana Ghana Center for Democratic Development	11887,266,1,9,178,7517,1
 CDD-Ghana Ghana Center for Democratic Development UNU-WIDER	10835,3,130,902,16,466,1,135,7334
 CDDI CI	19250
 CDDI CI Graphique	19291
@@ -249,6 +249,8 @@ CDM ICHAGAKI HEALTH CENTRE Data Controller	7167
 CDM ICHAGAKI HEALTH CENTRE Data Processor	7167
 CDMA Code	12911
 CDMA Code-division	19350
+CDMA Customer Care	19929
+CDMA Fixed Services	19929
 CDMA and ADSL	35,9531
 CDMA2000	15471
 CDMG Date	16395
@@ -314,6 +316,7 @@ CDPU A2OS1-A3	18121
 CDPU Arrêté	18121
 CDR Academics	19237
 CDR Crude Death Rate	12367
+CDR P	19887
 CDR-based	6024
 CDRIP	19829
 CDRVs	18310
@@ -449,6 +452,7 @@ Excellency the President Cde. Dr. Emmerson	3760,9683
 Expenditures MSP Managed Service Provider CDN	3184,1,1340,6470
 FSNAU and SWALIM's CDI	15093
 Fatoumata KANE CDT AMC IBRAHIM CES	17841
+Fixed CDMA Services Required	19928
 G and CDMA	18444
 G-DOA CDGi	19585
 GLOSSARY AfDB African Development Bank CDMU	16188

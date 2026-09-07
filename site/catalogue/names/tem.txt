@@ -58,6 +58,7 @@ César Tembe. Segundo	12859
 DATA PRIVACY IMPACT ASSESSMENT TEMPLATE	11956
 DATA PROTECTION IMPACT ASSESSMENT TEMPLATE	14435
 DATE INITIALE TEMPS ESTIME OBSERVATIONS Septembre	14425
+DC. Application for Temporary Identification Card	19921
 DE LA COLLECTE EN TEMPS	17841
 DE LA COLLECTE EN TEMPS REEL	15643
 DE TEMPS EN TEMPS	13300
@@ -357,7 +358,7 @@ Temos	1265,596,955,1762,777,3346,3317,5552,1280,20
 Tempa N'TCHA	16485
 Temperatura	794
 Temperatura Média	18757
-Temperature	2775,6348,1846,915,1,10,264,1,44,1,146,4,41,91,444,163,1349,293,1171,1040,101,109,100,1113,387,488
+Temperature	2775,6348,1846,915,1,10,264,1,44,1,146,4,41,91,444,163,1349,293,1171,1040,101,109,100,1113,387,488,617,3
 Temperature Ice Point Reference	14736
 Temperature and Dust Monitoring System	19725
 Temperature and Precipitation. Reference Guide	17257
@@ -407,7 +408,7 @@ Temporal	11528,5629
 Temporal Scope and Lifecycle Coverage	7548
 Temporalities	12227
 Temporarily	14760,190,1952
-Temporary	1243,4422,2524,2586,66,67,56,10,206,1,214,426,165,267,376,261,3,260,178,72,203,18,1243,17,42,140,15,48,424,526,535,225,275,26,17,93,2034,357
+Temporary	1243,4422,2524,2586,66,67,56,10,206,1,214,426,165,267,376,261,3,260,178,72,203,18,1243,17,42,140,15,48,424,526,535,225,275,26,17,93,2034,357,281
 Temporary AI	12675
 Temporary Addresses	11129
 Temporary Admission	13042
@@ -423,6 +424,8 @@ Temporary Direct Support	12229
 Temporary Employees	12977
 Temporary Employer	7936
 Temporary Frontline Workers Year	4349
+Temporary ID	19927
+Temporary ID Completed Application for National ID	19927
 Temporary Identity Document	10962
 Temporary Importation Permit	13053
 Temporary Inspector of Police	14760

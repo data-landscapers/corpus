@@ -282,7 +282,7 @@ DetailFreeIncluded	10848
 DetailFreeIncludedOrderOfMagnitude	10848
 DetailFreeSubscriberCount	10848
 DetailOrderOfMagnitude	10848
-Detailed	236,500,476,45,7,20,540,43,121,721,969,220,74,242,87,48,17,310,437,552,470,697,242,464,763,596,226,75,990,59,467,7,130,5,74,87,113,94,125,50,2,171,291,61,28,43,293,40,9,19,2,16,15,11,13,32,55,44,30,457,154,146,14,2,45,3,84,459,7,511,109,347,46,39,59,24,10,39,1,242,39,62,38,111,39,52,256,390,241,243,5,5,97,61,8,95,2,24,9,111,245,238,119,1069,314,39,235,28,28,10,17
+Detailed	236,500,476,45,7,20,540,43,121,721,969,220,74,242,87,48,17,310,437,552,470,697,242,464,763,596,226,75,990,59,467,7,130,5,74,87,113,94,125,50,2,171,291,61,28,43,293,40,9,19,2,16,15,11,13,32,55,44,30,457,154,146,14,2,45,3,84,459,7,511,109,347,46,39,59,24,10,39,1,242,39,62,38,111,39,52,256,390,241,243,5,5,97,61,8,95,2,24,9,111,245,238,119,1069,314,39,235,28,28,10,17,285
 Detailed Action Table	17116
 Detailed Analysis	236
 Detailed Analysis Article	17745
@@ -321,6 +321,7 @@ Detailed Project Description GABON	15411
 Detailed Project Report	12962
 Detailed Projects	12962
 Detailed Quarterly Dashboard Progress	11236
+Detailed ROPA Requirements The PDPC's ROPA	19910
 Detailed Risk Analysis and Mitigation Strategies. National	4528,7984
 Detailed Roles and Responsibilities	12674
 Detailed Roles and Responsibilities for AISIO Leadership	4528,7984
@@ -336,7 +337,7 @@ Detailed Theory of Change Education Sector Plan	15604
 Detailed Urban Planning Plans	10930
 Detailed Workstream Reports	12935
 DetailedÂ	18887
-Detailing	10388,757,1255
+Detailing	10388,757,1255,7515
 Details	22,560,154,273,236,28,1,1,270,1,232,89,451,65,12,439,844,36,834,21,1,1,1,1,1,86,101,123,361,104,248,68,758,116,14,1883,1447,125,326,495,33,322,64,2,60,89,506,50,261,197,261,19,284,76,132,200,13,626,302,175,23,189,170,56,433,52,94,35,21,84,1,2,448,181,553,14,3,18,6,1,11,26,20,157,15,26,969,89,13,394,192,28,13,43,6,98,534,22,43,1,17,37,106,102
 Details Aim A Feasibility Study	17028
 Details Application	8726
@@ -460,7 +461,7 @@ Determinations	10157,6682,404
 Determinations Meets Minimum Requirements	11005
 Determinação	11360,46,113,7254
 Determinação da Coima	11430
-Determine	573,427,630,463,1068,1053,3807,1102,1034,972,51,5,676,95,30,171,242,276,96,621,1132,556,5,159,1589,25,14,91,136,15,35,86,132,2208,9,217
+Determine	573,427,630,463,1068,1053,3807,1102,1034,972,51,5,676,95,30,171,242,276,96,621,1132,556,5,159,1589,25,14,91,136,15,35,86,132,2208,9,217,77
 Determine Whether the Entity	11233
 Determine the Disposition	19575
 Determine the MNE Group	573
@@ -543,6 +544,7 @@ Event Details	10707,3238
 Events Details	15255
 Exercice N F02 F03 DETTES INTERBANCAIRES	17833
 Expertise Contact Details	6432
+Extend Precautionary Detention	19854
 Extended Deterrence Theory Approach	226
 FDA. Detailed	16843
 FID Detector	14736
@@ -626,7 +628,7 @@ Inadequate Incident Detection and Response Capabilities	5677
 Inadequate Network Monitoring and Threat Detection Controls	19584
 Incident Coordination Determining	775
 Inclusive Obj. Objective Details No	1818
-Increasing Deterioration	10759,1128,1,1,264,1,9,178,7311,1
+Increasing Deterioration	10759,1128,1,1,264,1,9,178,7311,1,205,1,65
 Increasing Deterioration Angola	10759
 Increasing Deterioration Score	10837,1315,188
 Increasing Deterioration Security	10835,3,1048,466,1,135,7334
@@ -738,7 +740,7 @@ Name and Registration Details	5538
 National Adaptation Plans NDCs Nationally Determined	18578
 National Determined Contribution	970,17488
 National-Level Project Details	14910
-Nationally Determined Contribution	5247,1292,4878,169,319,301,50,1368,456,1420,158,1,324,236,730,191,318,847,65,1477
+Nationally Determined Contribution	5247,1292,4878,169,319,301,50,1368,456,1420,158,1,324,236,730,191,318,847,65,1477,86
 Nationally Determined Contribution NDE New Digital	2775
 Nationally Determined Contribution Net Interest Income	11134
 Nationally Determined Contributions	970,294,2340,5789,1436,381,326,863,1215,1204,735,292,1077,179,39,117,1201,351,436
@@ -901,7 +903,7 @@ Seychelles Details Vaughan O'Grady Category	2511
 Seychelles' Nationally Determined Contributions	18947
 Signs Bouncing Back Slowing Deterioration Increasing	10759
 Size and Determinants	10856
-Slowing Deterioration	11887,1,1,264,1,9,178,11,7300,1
+Slowing Deterioration	11887,1,1,264,1,9,178,11,7300,1,205,1,65
 Slowing Deterioration Participation	19836
 Slowing Deterioration Score	10837,1315,188
 Slowing Deterioration. African	11888

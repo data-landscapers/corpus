@@ -14,7 +14,7 @@ INVRCV Invalid	12364
 INVSND Invalid	12364
 Illegal Land Eviction and Invasion	11188
 Invalid	11180,1021,2,2467,491
-Invalid Votes	12201
+Invalid Votes	12201,7656
 Invalid Votes Article	15393
 Invalid Votes Total Blank Votes	12201
 InvalidCastException	10000

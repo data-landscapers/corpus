@@ -30,6 +30,7 @@ Bug Fixes	15867
 Business Corporations GFCF Gross Fixed Capital	14777
 Business Unit Fixe	9916
 CAPÍTULO IV Fixação	18752
+CDMA Fixed Services	19929
 COMMUNICATION AUTHORITY OF KENYA Fixed Telephony	6946
 CORE TELECOMMUNICATION SERVICES B1. Fixed Line	17250
 CRA Iraq Yes Fixed Broadband Policy	11529
@@ -161,7 +162,7 @@ Fixation des Conditions de Mise	15497
 Fixação	11518,2,1333,2505,3440,55
 Fixe Taux	998
 Fixe. En	18122
-Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58,379,165,94,2,784,53,117,353,215,17,44,223,16,69,167,52,47,40,106,145,105,685,258,73,6,11,40,35,261,14,129,364,12,107,8,7,1,245,362,71,77,121,23,374,94,340,54,12,64
+Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58,379,165,94,2,784,53,117,353,215,17,44,223,16,69,167,52,47,40,106,145,105,685,258,73,6,11,40,35,261,14,129,364,12,107,8,7,1,245,362,71,77,121,23,374,94,340,54,12,64,147,69
 Fixed Annual	13331
 Fixed Asset	13053,2037
 Fixed Asset Management Units	9004
@@ -202,6 +203,7 @@ Fixed Broadband and Optical Distribution Network	14151
 Fixed Budget	15411
 Fixed Budget FM Financial Management FY	15411
 Fixed Business Unit. The Plan International	9917
+Fixed CDMA Services Required	19928
 Fixed Cable Modem	6946
 Fixed Calls	6946
 Fixed D100	17250
@@ -292,6 +294,7 @@ Fixed Telephone Line Services	13346
 Fixed Telephone Lines	12395
 Fixed Telephone Service Tariff	15136
 Fixed Telephone Service Tariff Structure	15136
+Fixed Telephone Services Applicants	19928
 Fixed Telephone Shaping The Mobile Licenses	12395
 Fixed Telephone Subscriptions	6000,671,5724,2741
 Fixed Telephone Subscriptions Figure	6671
@@ -538,6 +541,7 @@ PART III Light Licence for Broadband Fixed	736
 PORTANT ABROGATION PARTIELLE DU FIXANT	17899
 PORTANT FIXATION DES TAUX DES DROITS	7470
 PROGRESS ACHIEVED IN FIXED AND MOBILE	14853
+PSTN Fixed Telephony Services	19929
 PUBLIC PUBLIC Fixed	1818
 Plan Environmental and Social Management Framework Fixed	15372
 Portant Fixation des Conditions	13313

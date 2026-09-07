@@ -89,6 +89,7 @@ GSA Ghana Standards Authority SME Small	6936
 GSA Template	18500
 GSA Training	405
 GSA's Metrology Directorate	16232
+GSA-Global Semiconductors Alliance	19868
 GSA-PTB	16232
 GSARS Global Strategy for Agricultural and Rural Statistics	19554
 GSB. Secure Infrastructure Overview The Secure	12359
@@ -104,6 +105,8 @@ GSC-ACE Cable	16883,1
 GSCARR-2025-0350.pdf	4074
 GSCID	11986
 GSCSP	16524
+GSDI-8	19852
+GSDI-8 Cairo	19852
 GSE du CM Incidence	19350
 GSE. Annual	13349
 GSI Guidelines	4848
@@ -191,6 +194,7 @@ GSMA Digital Nations and Society Index	6781,34,7859
 GSMA Digital Policy and Regulatory Index	14674
 GSMA Driving	14674
 GSMA Driving Digital Transformation of African Economies	14674
+GSMA Foundation	19868
 GSMA GSM Association	12006
 GSMA GSM Association HPC High-Performance Computing	7548
 GSMA GSMA The GSMA	10856,1529
@@ -203,7 +207,7 @@ GSMA Head Office	6593,4411,13,885,62,30
 GSMA Head Office One Angel Lane	10856,3818
 GSMA ICT IDI IT INS ISP	15480
 GSMA Innovation Fund	19534
-GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73,72,757,31,65,107,30,8,439,871,2,17,1343,346,2,452,6,13,20,40,366,1,224,655,73,70,138,1239,698,642
+GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73,72,757,31,65,107,30,8,439,871,2,17,1343,346,2,452,6,13,20,40,366,1,224,655,73,70,138,1239,698,642,211
 GSMA Intelligence Adult	11964
 GSMA Intelligence Connectivity	6593
 GSMA Intelligence Database	18777

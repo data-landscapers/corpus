@@ -148,7 +148,7 @@ Affaires Zimmerman	4340,5
 Affaires and Head of Cooperation	13426
 Affaires de Police	17848
 Affaires of Poland	13156
-Affairs	250,96,443,44,944,606,1200,543,1407,722,257,564,352,120,26,125,1344,207,936,626,323,83,639,30,18,55,26,167,1,9,134,44,126,45,127,333,11,625,422,457,59,128,20,300,125,1025,141,486,101,98,187,59,44,756,461,35,37,371,599,175,9,76
+Affairs	250,96,443,44,944,606,1200,543,1407,722,257,564,352,120,26,125,1344,207,936,626,323,83,639,30,18,55,26,167,1,9,134,44,126,45,127,333,11,625,422,457,59,128,20,300,125,1025,141,486,101,98,187,59,44,756,461,35,37,371,599,175,9,76,79,1
 Affairs Bill Home Affairs Bill	11986
 Affairs CORS Continually Operating Reference Stations	11261
 Affairs Chief Environment Coordinator International Atomic	12972
@@ -204,13 +204,14 @@ Affectation Spéciale du Trésor CCI	10874
 Affectation Spéciale. GHAPIPRE PREMIER	15999
 Affectation des Sols	18293
 Affectation des Terres	16001,98
-Affected	1778,50,160,1873,740,486,1611,37,1231,1251,1453,549,63,623,261,207,102,515,190,1285,650,1801,198,43,100,292,2035,175
+Affected	1778,50,160,1873,740,486,1611,37,1231,1251,1453,549,63,623,261,207,102,515,190,1285,650,1801,198,43,100,292,2035,175,105
 Affected Environment. The World Bank Group	10841
 Affected Locations	16308
 Affected Owners Association	16916
 Affected Owners Association26	16916
 Affected Parties	16926,173,1405
 Affected Parties Affected Parties	16926
+Affected People	19902
 Affected People Network	15115
 Affected People Working Group. Community Consultations	15116
 Affected Person PIU Project Implementation Unit	16926
@@ -296,7 +297,7 @@ Afflux	10688,3800,1,1
 Affognon Thierry AHOVE	17584
 Affoh	19284
 Affoires	15397
-Affordability	395,1,544,1000,1516,148,591,157,2241,115,2019,280,96,42,4,307,303,165,565,355,88,72,28,104,126,301,9,285,45,1,61,30,12,230,42,55,52,4,10,137,16,105,9,9,246,391,2,30,1277,53,205,49,36,59,448,1270,142,1,2,80,273,631,253,331,179,144,18,450,287,64,49,6,26,51
+Affordability	395,1,544,1000,1516,148,591,157,2241,115,2019,280,96,42,4,307,303,165,565,355,88,72,28,104,126,301,9,285,45,1,61,30,12,230,42,55,52,4,10,137,16,105,9,9,246,391,2,30,1277,53,205,49,36,59,448,1270,142,1,2,80,273,631,253,331,179,144,18,450,287,64,49,6,26,51,173
 Affordability Affordability	11964
 Affordability Bangladesh Affordability	11964
 Affordability Broadband	17239
@@ -482,7 +483,7 @@ C. AFFECTED HOUSEHOLD SHEET	17114
 C. Digital Infrastructure and Affordability AI	11140
 CADASTRE ET DES AFFAIRES FONCIERES	15999
 CAF Caisse des Affaires CAR Capital Adequacy	15023
-CAHF Centre for Affordable Housing Finance	10835,3,130,902,16,1,266,1,9,178,11,1,135,7334
+CAHF Centre for Affordable Housing Finance	10835,3,130,902,16,1,266,1,9,178,11,1,135,7334,36,1
 CATEGORIES AFFECTED	2709
 CBL Senior Director for Regulatory Affairs	9943
 CENSUS OF AFFECTED ASSETS	17114
@@ -526,7 +527,7 @@ Categories of Affected Parties	17114
 Cellule des Affaires	8269
 Census of Affected Persons and Assets	17114
 Central Bank Affirms Mobile Money	3308
-Centre for Affordable Housing Finance	10759,78,1052,451,7313,183
+Centre for Affordable Housing Finance	10759,78,1052,451,7313,183,38
 Centre for Multilateral Affairs	7946
 Chafika Affaq	17471
 Chairman of Abu Dhabi Executive Affairs Authority	18610
@@ -601,6 +602,7 @@ Constitutional and Legal Affairs Minister Dr Juma	4553
 Constitutional and Religious Affairs	4545,2335,5937
 Constitutional and Religious Affairs MoF Ministry of Finance	4214
 Consulaires Affaires Consulaires GOUVERNANCE ET CONTRÔLE	15936
+Consular Affairs Processing System	19927
 Consular Affairs’ Functional Bureau Strategy Goals	17883
 Consumer Affairs	9343,1836,883,5189,935,31
 Consumer Affairs Bureau. Four	9514
@@ -733,7 +735,7 @@ Department of Economic and Social Affairs USD United	13388
 Department of Economic and Social Affairs.2	12376
 Department of Economics and Social Affairs. World Health	12367
 Department of Environmental Affairs S10 Review	12917
-Department of Foreign Affairs and Trade	11868
+Department of Foreign Affairs and Trade	11868,7986
 Department of Foreign Affairs and Trade of Australia	15620
 Department of Foreign Affairs of Seychelles	18957
 Department of Gender Affairs Policy Development	12642
@@ -939,6 +941,7 @@ Entreprise Affichage	14490
 Environmental Affairs	12972,121
 Environmental Affairs and Tourism and Others	6683
 Equity Affect the Legitimacy of Natural Resource Governance	11006
+Eritrean Department of Internal Affairs	19921
 Eswatini Ministry of Home Affairs Annual Report	1357
 Ethiopia's Director for IGAD Affairs	17696
 Ethiopia's Ministry of Foreign Affairs	14106
@@ -1364,6 +1367,7 @@ Legal and Parliamental Affairs	13507
 Legal and Parliamentary Affairs	3352,2381,2049,5529,87,39,67,73,17,79,622
 Legal and Parliamentary Affairs Committee	3026
 Legal and Parliamentary Affairs Minister Ziyambi Ziyambi	13703
+Legislative and Constitutional Affairs Committee	19873
 Lesotho Ministry of Home Affairs	6720
 Lesotho Ministry of Home Affairs Department of National	12663
 Lesotho’s Ministry of Home Affairs and Police	11157
@@ -1777,6 +1781,7 @@ Ministères des Affaires Etrangères	17812
 MoDVA Ministry of Defense and Veterinary Affairs MoES	19642
 MoF&EA Ministry of Finance and Economic Affairs MNSSP	12964
 MoLSA Ministry of Labor and Social Affairs	14976,83,131
+Mobile Affordability	19931
 Mobile Money Taxes and Affordability	5234
 Monetary Affairs	4103,3684,1375
 Monetary Affairs Committee	7815,152,2293,202
@@ -1824,6 +1829,7 @@ National Treasury and Presidency Home Affairs Bill	5533
 Ndapandula Vanyika The Ministry of Home Affairs	7742
 Netherlands Ministry of Foreign Affairs	14103,1093
 Netherlands Ministry of Home Affairs	12972
+Netherlands' Ministry of Foreign Affairs	19921
 Network Project of Ministry of External Affairs	18016
 News and Current Affairs	19702
 Newton Tower Ministry of Foreign Affairs and International	14746
@@ -2199,7 +2205,7 @@ UAE-Sao-Tome-and-Principe Ministry of Foreign Affairs Skip	18759
 UCC Director of Corporate Affairs Fred Otunnu	9781
 UCC's Director for Legal Affairs	9781
 UCC’s Director Industry Affairs	19728
-UN Department of Economic and Social Affairs	1912,10501,2484,1729,248
+UN Department of Economic and Social Affairs	1912,10501,2484,1729,248,3057
 UN Department of Economics and Social Affairs	16874
 UNDP UN-Habitat USGS UPA Affected Owners	16916
 UNESCO and India's Ministry of External Affairs	18650

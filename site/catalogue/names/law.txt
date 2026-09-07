@@ -70,6 +70,8 @@ Amend the Public Authorities Law	16835
 Amend the Public Authorities Law Creating the Liberia	16835
 Amended Finance Law	16994
 Amending Law No	16902
+Amending and Supplementing Law No	19900
+Amending and Supplementing the Civil Status Law	19900
 Amending the Law	11906
 Amendment of Income Tax Law	19602
 Amos Lawi Data Processor INST-2490713C249 NAIROBI	7167
@@ -85,6 +87,7 @@ Anti-Corruption Law	16972
 Anti-Corruption Laws of Mauritius	14766
 Anti-Corruption and Rule of Law	16985
 Anti-Cyber and Information Technology Crimes Law	16212
+Anti-Cybercrime Law	19885
 Anti-Money Laundering Law	13314
 Anti-SLAPP Model Law	8485
 Anti-Terrorism Law	15007
@@ -124,7 +127,7 @@ Bachelor of Laws	6946,6005,553,3439
 Bachelor of Laws Degree	11131,3
 Balance YABATECH Lecturer Lawal Lateef	10034,231
 Balancing Digital Transformation and Data Laws	15237
-Banking Law	13314
+Banking Law	13314,6576
 Banking Law and Licensing Regulation	14997
 Basic Education Law of Guinea-Bissau	11552
 Basic Education Laws SAHRC Summit Report	10729
@@ -205,6 +208,7 @@ CONTEXT ASSESSMENT Laws	12333
 CORPORATE GOVERNANCE AND CORPORATE LAW ENFORCEMENT	3714
 CORPORATE LAWS BILL	3714
 CUSTOMS LAW CHAPTER ONE Definitions Article	15492
+Cairo University's Faculty of Law	19854
 California Companion AI Protection Law	14601
 California Frontier AI Safety Law SB	14601
 Cameroon Mindful of Law	15566
@@ -311,7 +315,7 @@ Consulting Ltd. LBSE Basic Education Law	11552
 Consumer Law	12294
 Consumer Law Regulations	12294
 Consumer Protection Act. Laws	16872
-Consumer Protection Law	12161
+Consumer Protection Law	12161,7729
 Consumer Protection Law No	14997
 Contact Alastair Lawson-Tancred Communications Specialist	15093
 Contracts and Commercial Law	6683
@@ -330,11 +334,12 @@ Court of Law. Page	18543
 Courts of Law	13053,6659
 Credit Information System Law	14997
 Credit Institutions and Financial Companies Law	12294
-Criminal Law	972,5979,6557,1376
+Criminal Law	972,5979,6557,1376,5006
 Criminal Law Amendment	13295
 Criminal Law Amendment Act	11177
 Criminal Law Code	972,8279,4060
 Criminal Law Codification and Reform Amendment Act	6951
+Criminal Law Protections	19895
 Criminal Procedure Code Law	11857
 Criminal Procedure Law	9064
 Customs Law	15492
@@ -343,14 +348,16 @@ Cyber Crime Law	14884
 Cyber Crimes Law	14921
 Cyber Security Law	5841
 Cyberanarchy. Univ Chic Law Rev	5242
-Cybercrime Law	5841,785,1444,2122,142,4864,144,69,303,498,2244
-Cybercrime Law No	3525
+Cybercrime Law	5841,785,1444,2122,142,4864,144,69,303,498,2244,1397
+Cybercrime Law No	3525,16335
 Cybercrime Law and Data Protection Bill. Across	16144
 Cybercrime Laws	7117,5097
 Cybercrime Model Law	962
 Cybercrime Model Law. The SADC Model	962
 Cybercrime and Cybersecurity Laws	6626
 Cybercrime. Law	10775
+Cybercrimes Law	19890,5
+Cybercrimes Law No	19895
 Cybersecurity Law	4810,528,332,956,1444,207,1223,850,1851,93,219,2415
 Cybersecurity Law and Cybercrime Law	10141,160
 Cybersecurity Laws	14897
@@ -376,11 +383,12 @@ Daniel Fikadu Law Office	12185
 Daouda Lawa Tan TOE	8321
 Data Governance Law	4590,1928,9196
 Data Privacy Law	10370,5343
-Data Protection Law	1347,282,8,204,1148,733,54,438,369,70,1017,796,1577,1786,936,10,47,1121,390,105,2022,461,243,2096
+Data Protection Law	1347,282,8,204,1148,733,54,438,369,70,1017,796,1577,1786,936,10,47,1121,390,105,2022,461,243,2096,2630
 Data Protection Law Ministry of Finance Develop	1161
 Data Protection Law No	1629
 Data Protection Law and ECOWAS	19284
 Data Protection Laws	1243,3512,7125,414,7,167
+Data Protection Laws and Regulations	19895
 Data Protection Laws of Senegal	7327
 Data Protection Model Law	962
 Data Protection and Cyber Laws	17260
@@ -426,7 +434,7 @@ Divorce Laws Amendment Ordinance	12367
 Dk Lawi. Mtaalamu	4364
 Dk Yohana Lawi	4364
 Domestic Law	19754
-Domestic Law Privacy	10908
+Domestic Law Privacy	10908,9014
 Domestic Relations Law	16860,436
 Dr. Lawrence Reginald	19058
 Draft Broadcasting Law. Page	12201
@@ -461,13 +469,17 @@ East African Law Reports	14409
 Education Law	11900,3704
 Education Law Centre	10729
 Education Orientation Law	15661
+Effect of Data Privacy Law	19890
 Effective Date This Law	16851
-Egypt's Personal Data Protection Law	9829
+Egypt's Law Obtainment	19864
+Egypt's Personal Data Protection Law	9829,10035
 Egyptian AI Law	16212
 Egyptian Consumer Protection Law	15713
 Egyptian Data Protection Law	15713
+Egyptian Law	19890
 Egyptian Personal Status Law United Nations	15627
 Egyptian State Lawsuits Authority	14685
+Egyptian-American Rule of Law Association	19854
 Egypt’s Personal Data Protection Law No	11079
 Ejo Heza Law	14997
 Ekuro Aukot and Law Society of Kenya	9645
@@ -494,9 +506,11 @@ Electronic Case Management for Judges and Lawyers	12389
 Electronic Communications Law	3594,10,11876
 Electronic Communications Law Num	16942
 Electronic Law	21
+Electronic Signature Law	19860,25
 Electronic Signature Law. The Department	15492
 Electronic Transactions Law	3058,803,1383,1291,5626,40,93,2030,2508
 Emerging Technologies Law	6792
+Employment Privacy Law	19890
 Enactment of AI-specific Laws	7678
 Enactment of Cyber Security Law	16885
 Encroachments Law	15473
@@ -558,6 +572,8 @@ FGS and PSS Pension Laws	15031
 FOI Act Overrides Other Laws	18211
 Faculty of Law	718,11259,2798,3702
 Faculty of Law and Economics	17893
+Faculty of Law and Political Science	19900
+Faculty of Law and Political Sciences	19900
 Faculty of Law. The CCL	11977
 Family Law Bill	18624
 Faruk Lawal Jobe	12135
@@ -583,6 +599,7 @@ Fisheries and Aquaculture Management Law	17114
 Following the Electricity Decree Law	15983
 Foreign Exchange Law	18797
 Foreign Investment Law No	14891
+Foreign Law Enforcement Agencies	19895
 Foreigners Law	11900
 Forest Law Enforcement	16843,176
 Forest Law Enforcement Governance and Trade	17019
@@ -648,6 +665,7 @@ Harmonisation of Business Law	15661
 Harmonization of Business Law	10841,708,3823,286,1284,16,14
 Harmonization of Corporate Law	10829
 Harvard International Law Journal	14932
+Hauser Global Law School Program	19854
 Health Law	11900
 Healthcare Concessioning Law	15977
 Healthcare Concessions Law No	15977
@@ -731,6 +749,7 @@ Investment Incentives Law	10997
 Investment Law	15492
 Investment Law No	15473
 Islamic Law and Civil Code	15473
+Issuance Law	19895
 Issuance of Forest Law Enforcement	16511
 Issuing the Customs Law	15492
 Issuing the Customs Law URL	15492
@@ -744,6 +763,7 @@ Journal of Intellectual Property Law	2948
 Journal of Law	9759,1551
 Journal of Law and Policy	1243
 Journal of Law and Political Economy	2096
+Journal of Law and Political Sciences	19900
 Judiciary Law	16943
 Judiciary and Law	12395
 July. The Angolan Data Protection Law	8043
@@ -806,10 +826,12 @@ LRC Law Reform Commission M&E Monitoring	18477
 Labor Law	3058,13154,2585
 Labor Law Launch	2989
 Labour Code and Electronic Transactions Law	12161
-Labour Law	12101,193,4549
+Labour Law	12101,193,4549,3047,5
+Labour Law Articles	19895
 Labour Law National Forestry Reform Law	16843
 Labour Law. Figure	16921
 Labour Law. Participation	17114
+Labour Law. Permissible	19895
 Labour Laws	12597
 Lagos State Electricity Law	17571,89
 Land Law No	16570
@@ -842,7 +864,7 @@ Law Decree No	18787
 Law Definitions Authority Registration Data	12468
 Law Development Commission of Zimbabwe	13286,1,1,8,1,18,2
 Law El Nasser	15473
-Law Enforcement	1877,2848,2385,3649,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,2159,2304,1952,749,1,169,14
+Law Enforcement	1877,2848,2385,3649,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,2159,2304,1952,749,1,169,14,22,1,65
 Law Enforcement Affairs	13754,3576
 Law Enforcement Agencies	11131,3,143
 Law Enforcement Department.Verification	16843
@@ -877,7 +899,7 @@ Law Ministry of Finance	12674
 Law Ministry of Justice MOPT	1777
 Law N	718,10108,85,68,1359,81,894,1634,76,11,115,3784,712
 Law NSSL National Social Security Law	16843
-Law No	440,819,370,244,13,5,91,337,14,289,137,84,215,406,151,14,232,230,86,382,154,42,227,114,367,1011,406,56,391,746,1421,429,447,395,10,4,35,27,67,22,620,2,303,9,36,5,50,5,164,43,103,63,86,360,68,466,105,206,102,598,124,17,402,17,50,63,26,11,24,4,19,66,1,61,15,249,11,8,24,50,38,66,44,11,254,210,358,14,341,14,56,185,377,113,98,125,80,20,148,187,4,61,4,991,280,13,163,13,13
+Law No	440,819,370,244,13,5,91,337,14,289,137,84,215,406,151,14,232,230,86,382,154,42,227,114,367,1011,406,56,391,746,1421,429,447,395,10,4,35,27,67,22,620,2,303,9,36,5,50,5,164,43,103,63,86,360,68,466,105,206,102,598,124,17,402,17,50,63,26,11,24,4,19,66,1,61,15,249,11,8,24,50,38,66,44,11,254,210,358,14,341,14,56,185,377,113,98,125,80,20,148,187,4,61,4,991,280,13,163,13,13,6,3,18,21,5,10,8
 Law No.1	15492,4169
 Law No.10	1259
 Law No.13	16902
@@ -952,6 +974,8 @@ Law and Jurisdiction These Rules	12364
 Law and Management	8603
 Law and Order	2775,12054
 Law and Order KCCA Kampala Capital City	19633
+Law and Practice Authors	19890
+Law and Property	19874
 Law and Regulation	10765,10
 Law and Regulations	14880
 Law and Tech Meetings	4246
@@ -961,6 +985,7 @@ Law of Abortion	13040
 Law of Administration Modernization	15924
 Law of Administrative Modernization	11965
 Law of Electronic Communications	1841
+Law of Electronic Public Administrations	19900
 Law of Electronic Transactions	3861
 Law of Equatorial Guinea	16972
 Law of Expropriation	15473
@@ -1011,7 +1036,7 @@ Lawal	12049
 Lawal Lukman	6948
 Lawdelin Wesley Romarique	15692
 Lawfare	4429
-Lawful	961,259,254,268,373,612,902,1232,2610,2686,999,800,210,1145,2,68,1054,89,150,53,166,726
+Lawful	961,259,254,268,373,612,902,1232,2610,2686,999,800,210,1145,2,68,1054,89,150,53,166,726,4276
 Lawful Authority Crime	14760
 Lawful Bases	11956
 Lawful Bases for Processing	12193
@@ -1182,11 +1207,12 @@ Maritime Law	18857
 Massi Lawson	8066
 Master of Law	12951
 Meaningful Consultation ESS and Requirements National Laws	1988
-Media Law	13313,1566,128,124
+Media Law	13313,1566,128,124,4759
 Meet the Law Commission	18305
 Metropolitan University’s Lincoln Alexander School of Law	6521
 Michaël Guibougna Lawakiléa Folané. Ingénieur	8678
 Michel Lawson	7125
+Middle East Law and Governance	19874
 Milimani Law Courts	14460
 Mindful of Law	15566
 Mindful of Law No	15566,981
@@ -1285,6 +1311,7 @@ National Pact Law No	18370
 National Payment System Law	10779,357
 National Payments System Law	6626,5972
 National Procurement Law	15658
+National Real Estate ID Law	19892
 National Reform Law of Liberia	17114
 National Refugee Law	13831,66,5938
 National Security Law	9399
@@ -1334,12 +1361,15 @@ Organic Law of Neighborhood Committee	10775
 Organic Laws	1689
 Organisational Law Assembly	12201
 Organization for Harmonization of Business Law	15411
+Overview of Data and Privacy-Related Laws	19890
 Oxford Business Law Blog	8629
 Oxford Public International Law	1243
 PART II TAX LAWS	19527
 PART IV PROCEDURAL LAW	12928
 PARTICIPATION RULE OF LAW	10838
 PDPL Law	3976
+PDPL and Consumer Protection Law	19890
+PDPL and Labour Law	19890
 POLICE STATION The Laws of Zambia	12410
 PPP Law	14947
 PREAMBLE WHER EAS. the Public Alllhorities Law	16851
@@ -1349,6 +1379,7 @@ PRJNCIPLES OF LAW Chapter	16851
 PROMULGATE THE FOLLOWING LAW AND ORDER	14926
 PROMULGATE THE FOLLOWING LAW ANDORDER	14893
 PROMULGATE THE FOLLOWING ORGANIC LAW	14918
+PROTECTION LAW DATA PROTECTION AUTHORITY	19922
 PROTECTION LAW IN PLACE DATA PROTECTION	10908
 PUBLIC AUTHORITIES LAW CREATINING THE LIBERIA	16851
 PUBLIC AUTHORlTY LAW CREATI NG	16851
@@ -1370,8 +1401,8 @@ Penal Law of Liberia	16833
 Pension Law	14997
 Pension Laws	15031
 Personal Data Guarantee and Protection Law	1387
-Personal Data Protection Law	16,3612,1354,481,3936,705,5380,230,88,410,2158,407
-Personal Data Protection Law No	16972
+Personal Data Protection Law	16,3612,1354,481,3936,705,5380,230,88,410,2158,407,1076,32,5,20
+Personal Data Protection Law No	16972,2888,35
 Personal Data Protection Law Num	16942
 Personal Data Protection Law. INTRODUCTION Data	12419
 Personal Data Protection and Privacy Law	718
@@ -1400,14 +1431,17 @@ Press Law	12201,1112
 Press Law Assembly	12201
 Press Proclamation Law	14073
 Press and Media Law	12124
+Press and Media Regulations Law	19890
 Prime Minister’s Law No	15473
 Principle of Lawfulness	3861
 Privacy Laws	1243,10971
 Privacy Laws I-38	10785
+Private International Law Department	19854
 Private Ownership and Establishment Law No	16972
 Private Sector The Private Review Law	14997
 Procedural Law	26
 Procedural Law Assistance	26
+Procedures Law	19890
 Procurement Law	10829,7996
 Procurement Law. Emergency	10829
 Professor Lawrence Muganga of Victoria University	4795
@@ -1461,7 +1495,7 @@ RENT CONTROL LAWS History	15473
 REPEAL OF LAWS AND COMMENCEMENT	3714
 REPEALING ORGANIC LAW Nº	14862
 REPUBLIC OF SOUTH AFRICA GENERAL LAWS	11279
-RULE OF LAW	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,4447,2717,1,169,14
+RULE OF LAW	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,4447,2717,1,169,14,22,1,65
 RULE OF LAW FOUNDATIONS FOR ECONOMIC	10835,3,130,902,16,466,1,135,7334
 RULE OF LAW SCORE	10759,76,2,1,130,902,16,266,188,12,1,135,7334
 RULE OF LAW SECURITY	10759,76,2,1,130,902,16,3,451,12,1,135,7334
@@ -1473,8 +1507,10 @@ Rank Laws	12341
 Rape Law	16943
 Raven Law Firm	15231
 Real Estate Finance Law No	15473
+Real Estate Registration Law No	19918
 Real Estate Tax Law No	15473
 Real Estate and Lands Law	15473
+Recent Case Law	19890
 Recipient's Data Protection Law	14912
 Recommendations Law No	17157
 Recording Law	8852
@@ -1485,6 +1521,7 @@ Refugee Law. Refugees	11900
 Regional Assembly Laws	14742
 Regional Model Laws	3162
 Register of Laws	3861
+Regulation Egypt Personal Data Protection Law	19864
 Regulations LAWS OF KENYA THE DIGITAL	2709
 Regulator of Immigration Law	10841
 Regulatory Entities Law	3594
@@ -1519,7 +1556,7 @@ Revisits Law	8647
 Rights Lawyer	2626
 Risk and Law Enforcement Strategy Directorate	12500
 Royal Swaziland Police7. Law Society8	12936
-Rule of Law	1828,1563,735,156,962,2441,3074,76,2,1,74,56,167,19,382,50,284,16,1,1,1,263,1,1,9,177,1,11,1,135,153,407,12,1837,62,659,1272,80,5,10,11,47,96,118,3,29,75,3,413,678,19,138,1037,1,169,14
+Rule of Law	1828,1563,735,156,962,2441,3074,76,2,1,74,56,167,19,382,50,284,16,1,1,1,263,1,1,9,177,1,11,1,135,153,407,12,1837,62,659,1272,80,5,10,11,47,96,118,3,29,75,3,413,678,19,138,1037,1,169,14,22,1,65,7
 Rule of Law ACCOUNTABILITY	10759
 Rule of Law Absence of Crime Poverty Reduction	10759
 Rule of Law Accountability	10759,1395
@@ -1549,7 +1586,7 @@ Rule of Law and Consumer Protection Michael McGrath	8773
 Rule of Law and Foundations for Economic Opportunity	12152
 Rule of Law and Fundamental Freedoms	13170
 Rule of Law and Human Development	11887,453
-Rule of Law and Participation	11886,268
+Rule of Law and Participation	11886,268,7705
 Rule of Law. UNESCO	13048
 Rule of Law29	1814
 Rwanda Data Protection Law	12333,5
@@ -1735,8 +1772,8 @@ TelOne Lawrence Nkala	6885
 Telecom Law	17870,1017
 Telecommunication Regulation Law	15516,197
 Telecommunication Regulation Law No	15516
-Telecommunications Law	3058,5685,6807
-Telecommunications Law No	16972
+Telecommunications Law	3058,5685,6807,4340,5
+Telecommunications Law No	16972,2923
 Telecommunications Regulation Law	16212
 Telecoms Law	15697
 Telecoms Law.37 Today	13331
@@ -1768,7 +1805,7 @@ Tunisian Law	1818
 Type of Text IP-related Laws Subject Matter	16839
 U.S. Bureau of International Narcotics and Law Enforcement	14994
 UEMOA and Law No	11550
-UHIS Law	15977
+UHIS Law	15977,3912
 UHIS. Passage of Telemedicine Law	15977
 UMOA Banking Law	6938
 UN Joint Rule of Law Programme	15231
@@ -1795,6 +1832,8 @@ Under Law	7903,3647,8108
 Under Law No	3713,7195,4565
 Under Mortgage Law No	15473
 Under OHADA’s Uniform Arbitration Law	16972
+Under the Consumer Protection Law	19895
+Under the Cybercrimes Law	19890
 Under the Electronic Transaction Law	12294
 Under the Electronic Transactions Law	12294
 Under the Expropriation Law No.10	15473
@@ -1805,13 +1844,14 @@ Uneven Enforcement of Data Protection Laws Puts	5603
 Uneven Enforcement of Data Protection Laws Ugandas	5603
 Unified Building Law	15473
 Unified Building Law No	15473
+Unified Cash Transfer Law	19855
 Uniform Law	11821,6049
 Uniform Law Review	961
 United Building Law No	15473
 United Kingdom Public Health Law. Title	16860
 United States. Bus Law Rev	9739
 United States’ Clarifying Lawful Overseas	6471
-Universal Health Insurance Law	15977
+Universal Health Insurance Law	15977,3912
 Universal Health Insurance Law No	15725
 University of Ghana School of Law	4897
 University of Utah College of Law Research Paper	14932
@@ -1853,12 +1893,13 @@ Yale Center for Environmental Law	19653,183
 Yale Journal of Law and Technology	1243
 Yale Law J	5242
 Yale Law J Forum	9739
-Yale Yale Center for Environmental Law	10759,76,2,1,130,902,16,1,2,264,1,9,177,1,11,1,135,7334
+Yale Yale Center for Environmental Law	10759,76,2,1,130,902,16,1,2,264,1,9,177,1,11,1,135,7334,36,1
 Year Program Document for Strengthening the Rule of Law	16943
 Year the Births and Deaths Registration Law	10822
 Year the Data Protection Law	10822
 York Algorithmic Pricing Disclosure Law	14601
 York City Local Law	14601
+York University School of Law	19854
 Young Lawyers Association	17441
 Young Lawyers Forum	8264
 Zambia Law Development	12415

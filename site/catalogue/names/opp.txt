@@ -138,7 +138,7 @@ Equal Opportunities Commission	14742,6,3
 Equal Opportunity Act	14760
 Equal Opportunity Card	18359
 Equal Pay and Employment Opportunities	12389
-Equal Socioeconomic Opportunity	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Equal Socioeconomic Opportunity	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Equal Socioeconomic Opportunity Sustainable Use of Land	10838
 Equalisation of Opportunities for Persons	12993
 Equality of Opportunity Strategy	1818
@@ -161,7 +161,7 @@ Exploring Opportunities	6948
 FASO FOR AN ECONOMIC OPPORTUNITIES	16384
 FCFA HT PAR OPPOSITION Frais	17833
 FORCES FAIBLESSES OPPORTUNITES MENACES	17844
-FOUNDATIONS FOR ECONOMIC OPPORTUNITY	10835,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+FOUNDATIONS FOR ECONOMIC OPPORTUNITY	10835,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 FOUNDATIONS FOR ECONOMIC OPPORTUNITY FOUNDATIONS	10759
 FOUNDATIONS FOR ECONOMIC OPPORTUNITY HUMAN DEVELOPMENT	10835,3,130,902,16,466,1,135,7334
 FOUNDATIONS FOR ECONOMIC OPPORTUNITY PUBLIC ADMINISTRATION	10759,1130
@@ -170,9 +170,9 @@ Fair Market Competition RATING OPPORTUNISTIC STAGE	12214
 Financial Benefits Economic Development Impact Opportunity	12457
 Financing Opportunities and Challenges	18485
 Forces Faiblesses Analyse des Opportunités	17860
-Foundations for Economic Opportunity	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Foundations for Economic Opportunity	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Foundations for Economic Opportunity and Human	10835
-Foundations for Economic Opportunity and Human Development	10759,76,2,1315,11,178,7495
+Foundations for Economic Opportunity and Human Development	10759,76,2,1315,11,178,7495,88
 Future Opportunities	12172
 Future Strategic Opportunities	4167
 Future and Powering Opportunity. Our Grids	13228
@@ -352,6 +352,7 @@ Opportunities and Constraints	15518
 Opportunities and Constraints. Report	13331
 Opportunities and Constraints. Report. Page	1284
 Opportunities and Impact	19062
+Opportunities and Pitfalls	19889
 Opportunities and Priority Areas	19555
 Opportunities and Priority Areas Despite	19555
 Opportunities and Recommendations	11552
@@ -371,6 +372,7 @@ Opportunities for Agtech	13312,2
 Opportunities for All	8427
 Opportunities for Building Resilience	11863,2075
 Opportunities for Development	10768
+Opportunities for Egypt's Universal Health Insurance System	19889
 Opportunities for Growth	16975
 Opportunities for ICPC Members	3513
 Opportunities for Institutional Excellence	18461
@@ -392,7 +394,7 @@ Opportunities for Service Enhancement	17149
 Opportunities for Youth and Women UNDP’s Inclusive Growth	16973
 Opportunities for Zambia Zambia	12356
 Opportunities. Land	15129
-Opportunity	1940,2900,1628,1080,326,47,280,1,82,577,2099,4,1237,52,80,43,938,255,657,495,54,120,39,438,108,1462,31,38,103,135,121,2162
+Opportunity	1940,2900,1628,1080,326,47,280,1,82,577,2099,4,1237,52,80,43,938,255,657,495,54,120,39,438,108,1462,31,38,103,135,121,2162,340
 Opportunity Across Africa	13450
 Opportunity Act AI Artificial Intelligence CDSF	12962
 Opportunity Awaiting Action The World	4535
@@ -483,7 +485,7 @@ Protection for Resilience and Opportunity Project	13111
 Providing Employment Opportunities	15578
 Providing Financing Opportunities	15578
 Provision of Economic Opportunities	18625
-Public Perception of Economic Opportunities	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Public Perception of Economic Opportunities	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Public Perception of Economic Opportunities Infrastructure	10759,1395
 Publications Opportunités	13338,2
 Qualité SWOT Strengths Weaknesses Opportunities Threats	17873
@@ -518,7 +520,7 @@ SPECTRUM OUTLOOK AND FUTURE OPPORTUNITIES	5245
 SSN Opportunités Menaces	10874
 SWOT Analysis WEAKNESSES OPPORTUNITY THREAT	14835
 Score Rank Public Perception of Economic Opportunities	12152,188
-Secure Employment Opportunities	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Secure Employment Opportunities	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Secure Employment Opportunities ACCOUNTABILITY	10835,3,130,902,16,466,1,135,7334
 Seize New Economic Opportunities	16960
 Seizing the Opportunity	10763
@@ -533,7 +535,7 @@ Sierra Leone Opportunities for Business Action	18487
 Slowing Deterioration. Foundations for Economic Opportunity	11888
 Slowing Improvement Foundations for Economic Opportunity	19836
 Socioeconomic Opportunities Project	18625,1
-Socioeconomic Opportunity for Women	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Socioeconomic Opportunity for Women	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Socioeconomic Opportunity for Women Anti-Corruption	10835,3,130,902,16,466,1,135,7334
 Somali National Job Portal for Employment Opportunities	5172
 Somalia's Building Opportunities and Outcomes	14983

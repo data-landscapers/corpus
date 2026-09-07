@@ -285,7 +285,7 @@ Characteristic Households Population Urban Rural	16935
 Characteristic NOVISSI	19237
 Characteristic of Statistics	13310
 Characteristic of Statistics Score Quality Statistics	13310
-Characteristics	771,9992,156,13,44,295,25,578,7,365,100,21,596,455,114,1134,166,25,5,34,233,1200,571,16,241,1747,735,76
+Characteristics	771,9992,156,13,44,295,25,578,7,365,100,21,596,455,114,1134,166,25,5,34,233,1200,571,16,241,1747,735,76,172
 Characteristics Limitations	17157
 Characteristics MTN Rwanda Ltd Airtel Rwanda	718
 Characteristics Percentage	16971
@@ -366,7 +366,7 @@ Chargement	11673,1701,1,352,1856,1012,1238,595
 Chargement des Lots	13375
 Chargement des NUI	14480
 Charger	9668,1208,2499
-Charges	2077,265,134,85,822,13,440,3104,3835,200,645,241,83,56,606,698,564,55,499,57,388,52,507,45,430,98,21,27,41,523,103,129,1,391,22,228,342,6,49,90,60,524,662,1,76,307,53
+Charges	2077,265,134,85,822,13,440,3104,3835,200,645,241,83,56,606,698,564,55,499,57,388,52,507,45,430,98,21,27,41,523,103,129,1,391,22,228,342,6,49,90,60,524,662,1,76,307,53,274
 Charges Exceptionnelles	15999
 Charges Financières	1682,14317
 Charges Public Consultations National Frequency Allocation	9109
@@ -394,7 +394,7 @@ Chargui Hodh	17867
 Chargui Region	17904
 Chargui Tagant Figure	17867
 Chargui Tagant Tagant Dakhlet Nouadhibou	17867
-Chargé	1187,2982,158,13,5,1126,1107,228,599,25,240,591,60,357,1499,96,435,152,115,2181,261,23,694,15,276,946,40,4,39,20,125,26,1,23,27,46,126,37,57,70,87,76,112,86,8,138,1067,226,15,2,1,11,4,50,4,83,50,55,448,307,37,30,258,110
+Chargé	1187,2982,158,13,5,1126,1107,228,599,25,240,591,60,357,1499,96,435,152,115,2181,261,23,694,15,276,946,40,4,39,20,125,26,1,23,27,46,126,37,57,70,87,76,112,86,8,138,1067,226,15,2,1,11,4,50,4,83,50,55,448,307,37,30,258,110,654
 Chargé D’Affaires	10120
 Chargé D’Affairs	10120
 Chargé de Adm	17827
@@ -606,7 +606,7 @@ Charriot	17882
 Charroi	13500
 Charrue	18312
 Charrues	15999
-Chart	899,5186,368,296,1014,3389,372,333,24,74,244,2,60,1699,308,547,17,639,7,1661,41,55,627,1176,61,551
+Chart	899,5186,368,296,1014,3389,372,333,24,74,244,2,60,1699,308,547,17,639,7,1661,41,55,627,1176,61,551,212
 Chart Index Chart	11955
 Chart of Accounts	16876
 Chart of Accounts Design	15090
@@ -878,8 +878,9 @@ Educational Policy Charter	18796
 Egypt Standard Chartered Foundation	10745
 Egypt Startup Charter	4324,648
 Egypt's Startup Charter	9598
-Egyptian Charter	16212
-Egyptian Charter for Responsible AI	15713,489,10
+Egypt. The Egyptian Charter for Responsible AI	19890
+Egyptian Charter	16212,3678
+Egyptian Charter for Responsible AI	15713,489,10,3656,17,5,5
 Egyptian Charter for Responsible Artificial Intelligence	2958
 Egypt’s Charter for Responsible AI	15713
 Elections. Vu la Charte	17861
@@ -1098,6 +1099,7 @@ Lisa Charlotte Rost	747
 List of Charts	14744
 Loan Agreement. The Commitment Charge	16219
 Lomé Charter	8192
+Lost Bill Charge	19929
 Lower Middle Income. Chart	11881
 Lucy Charles-Shaidi	10020
 Lucy Wakiaga and Charity Waweru-Mwangi	6948

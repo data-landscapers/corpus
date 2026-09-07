@@ -47,6 +47,7 @@ B NOM DE L'AVANT-DERNIÈRE NUMÉRO	13300
 B-Web Nombre	13390
 B. Nom	13390
 B. Noma	11551
+B. Nomads	19887
 BAILLEUR ENVELOPPE NOM DU PROJET PÉRIODE	15673
 BARA Nomads	15244
 BEAC ANEMCAM Nombre	10965
@@ -606,9 +607,9 @@ NomCom Proposed Article	9914
 NomaTech	6999
 Nomad	15244
 Nomad Refugees IDPs Total NORTHERN Halfa	15244
-Nomadic	14896,348
+Nomadic	14896,348,4643
 Nomadic Residence	15123
-Nomads	14896,348
+Nomads	14896,348,4643
 Nomads Refugees	15244
 Nomahlubi Kunana	10341
 Nomalanga Mashinini	5892,162

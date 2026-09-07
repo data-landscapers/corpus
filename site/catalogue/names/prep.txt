@@ -288,6 +288,8 @@ Misalignment Preparedness	9592
 Mobile Data Prepaid and Postpaid Subscriptions	2776
 Mobile Data Prepaid and Postpaid Subscriptions Mobile	2776
 Mobile Prepaid	13344
+Mobile Prepaid Services	19929
+Mobile Prepaid Services Subscribers	19928
 Moderate Date PID Prepared	13523
 Multi-Currency Prepaid Virtual Card	3951
 NDASC. Preparation	16915
@@ -381,6 +383,7 @@ Prepaid Mobile Voice	11262
 Prepaid Nombre	19338
 Prepaid Payment	13333
 Prepaid Postpaid Figure	2776
+Prepaid Recharge	19929
 Prepaid Subscription	2776
 Prepaid Uncapped Internet Vodacom Business Prepaid	12769
 Prepaid and Post-paid Voice Subscriptions and Market	2776
@@ -392,7 +395,7 @@ Preparación	1701,15197
 Preparado	17288
 Preparando	15684,5
 Preparar	167,1534,2517,7163,1,12,50,5,120,3881,26,27,23,46,112,5,3086
-Preparation	1988,2226,439,479,2313,103,1122,2048,50,8,40,54,259,140,696,162,22,308,96,42,300,14,53,6,20,65,242,36,23,2,5,2,22,606,431,5,324,79,24,6,169,343,52,129,106,4,306,63,404,396,16,39,62,165,43,23,187,167,775,50,111,18,89,28,18,15,249,155,432,45,2,64
+Preparation	1988,2226,439,479,2313,103,1122,2048,50,8,40,54,259,140,696,162,22,308,96,42,300,14,53,6,20,65,242,36,23,2,5,2,22,606,431,5,324,79,24,6,169,343,52,129,106,4,306,63,404,396,16,39,62,165,43,23,187,167,775,50,111,18,89,28,18,15,249,155,432,45,2,64,302
 Preparation Actual Year Revised Estimation	2473
 Preparation Advance	14912,499,1525,1818
 Preparation Advance PPP Public Private Partnership	17105
@@ -411,6 +414,7 @@ Preparation and Distribution of Registers of Civil	12226
 Preparation and Execution	18577
 Preparation and Implementation Standard	1796,1413
 Preparation and Implementation of Tracking Platform	12195
+Preparation and Issuance	19900
 Preparation for Advanced Studies	13356
 Preparation for Emerging Technologies The Commission	12395
 Preparation for Use of Meteosat	11966,4981
@@ -430,7 +434,7 @@ Preparation of Soil Mortars	16900
 Preparation of ToRs for Subject Area Specialist	17114
 Preparation of United Nations E-Government Survey	10840
 Preparations	1191,1484,3005,1241,2390,470,1455,1416,707,314,1931,388,40,2153
-Preparatory	3604,3849,3783,372,587,865,20,15,28,883,1598,59
+Preparatory	3604,3849,3783,372,587,865,20,15,28,883,1598,59,4192
 Preparatory Education	15604
 Preparatory Meeting	6946
 Preparatory Phase	16843
@@ -444,7 +448,7 @@ Preparação da IA	2816
 Preparação da Realização da Conferência Nacional	2816
 Preparação de Ambientes de Treino	11444
 Preparação de Emergências	11376
-Prepare	940,22,242,573,37,174,1690,448,402,175,962,767,890,3399,412,165,575,83,239,58,103,44,112,163,11,7,269,133,297,599,19,105,658,4,41,47,132,30,4,152,228,1422,18,12,3,1,59,188,43,1213,118,7,36,46,509,433,114,174
+Prepare	940,22,242,573,37,174,1690,448,402,175,962,767,890,3399,412,165,575,83,239,58,103,44,112,163,11,7,269,133,297,599,19,105,658,4,41,47,132,30,4,152,228,1422,18,12,3,1,59,188,43,1213,118,7,36,46,509,433,114,174,120
 Prepare Annual	19519
 Prepare Annual Electricity Sector Report	16978
 Prepare Contactor Management Plan and Operating	17114

@@ -133,7 +133,7 @@ Authentication Service Provision and Usage	12146
 Authorised Crypto Asset Service Provider	8840
 Authorised Crypto Asset Service Providers	8840
 Authority. Provision	16839
-Automated Processing Provides	10908
+Automated Processing Provides	10908,9014
 Autonomous Province of Bolzano	14162
 Autorização Geral Provisória	2701
 Awale Connectivity Provider	10956
@@ -1017,6 +1017,8 @@ Internet. Earth Station Service Provider	10407
 Internet. Provedor Intermediário de Serviço	6970
 Internet. Provedores Intermediários de Serviços	6970
 Interviews Provide	12253
+IoT Providers	19890
+IoT Service Provision Licence	19890
 Islamic State West Africa Province	7561,397,8829
 Ituri Province	11900,3050
 Ituri Province. Thanks	16409
@@ -1248,6 +1250,7 @@ Mobile Communications GUP Guichet Unique Provincial	13331
 Mobile Money Providers	17030
 Mobile Money Service Provider	13477
 Mobile Network Operators and Internet Service Providers	4661,13783,1284
+Mobile Service Provider's Licence	19890
 Mode Sexe Provenance Diagnostic Effets Diagnostic	19226
 Moov Connectivity Provider	10956
 Moxico Province Benguela	11418
@@ -1759,7 +1762,7 @@ Proverbes	12099
 Provi	13390
 Provi-	13461
 Provid	12233
-Provide	170,225,341,26,137,41,18,42,131,573,74,36,14,160,471,18,232,66,214,594,389,154,359,43,82,251,384,288,132,11,1,3,7,106,360,37,242,362,142,12,1,33,284,282,998,271,306,314,166,1,251,302,250,143,164,7,42,56,90,98,72,52,25,40,2,18,19,2,48,569,3,3,3,53,24,1,11,4,30,9,13,130,13,6,11,17,10,19,13,6,7,1,12,49,54,3,17,7,16,1,44,9,45,14,130,32,1,18,61,9,154,10,5,30,2,8,3,2,5,8,34,7,4,2,3,43,102,73,37,13,4,2,6,11,2,14,10,2,22,80,71,104,232,57,24,1,4,37,33,8,402,7,25,100,35,25,48,77,10,5,7,4,4,37,1,16,30,9,5,18,16,8,1,13,12,11,7,32,36,1,22,10,14,10,18,22,19,12,3,80,32,66,88,17,33,73,37,14,109,12,214,21,17,235,41,584,5,9,1,1,7,1,2,3,1,5,4,2,6,23,8,6,3,2,1,12,8,4,9,6,5,4,36,7,81,15,2,23,1,17,39,59,41,62,9,27,143,333,14,425,137,23,7,2,2,2,49,33,231,90,4,42,111,158,34,50,235,1,12,2,20,21,10,17,37,25,137,6,28,9
+Provide	170,225,341,26,137,41,18,42,131,573,74,36,14,160,471,18,232,66,214,594,389,154,359,43,82,251,384,288,132,11,1,3,7,106,360,37,242,362,142,12,1,33,284,282,998,271,306,314,166,1,251,302,250,143,164,7,42,56,90,98,72,52,25,40,2,18,19,2,48,569,3,3,3,53,24,1,11,4,30,9,13,130,13,6,11,17,10,19,13,6,7,1,12,49,54,3,17,7,16,1,44,9,45,14,130,32,1,18,61,9,154,10,5,30,2,8,3,2,5,8,34,7,4,2,3,43,102,73,37,13,4,2,6,11,2,14,10,2,22,80,71,104,232,57,24,1,4,37,33,8,402,7,25,100,35,25,48,77,10,5,7,4,4,37,1,16,30,9,5,18,16,8,1,13,12,11,7,32,36,1,22,10,14,10,18,22,19,12,3,80,32,66,88,17,33,73,37,14,109,12,214,21,17,235,41,584,5,9,1,1,7,1,2,3,1,5,4,2,6,23,8,6,3,2,1,12,8,4,9,6,5,4,36,7,81,15,2,23,1,17,39,59,41,62,9,27,143,333,14,425,137,23,7,2,2,2,49,33,231,90,4,42,111,158,34,50,235,1,12,2,20,21,10,17,37,25,137,6,28,9,8
 Provide AI	14812,6
 Provide AI-focused	19679
 Provide APIs	6423
@@ -1798,6 +1801,7 @@ Provide Lesotho	12674
 Provide Life-Enhancing Services	195
 Provide MINECOFIN	14997
 Provide Municipalities	11941
+Provide National Land Information Service Electronically	19852
 Provide Out of Court Compensation for Losses	12389
 Provide Postal Services	18602
 Provide Registration Information	13333
@@ -1810,6 +1814,7 @@ Provide Resources and Authority	12675
 Provide Safe and Secure Solutions	12287
 Provide Shared Platform	14032
 Provide State Ranking	11857
+Provide Support Services	19923
 Provide Training and Resources	12675
 Provide Transaction Advisory Services	14546
 Provide VAT	14997
@@ -1838,7 +1843,7 @@ Providence and Victoria	19103
 Providencia	11371
 Providenciar	11370,1404,2729,23
 Provident	12923,6608
-Provider	26,692,18,1360,679,611,476,748,4513,1595,101,42,1425,330,2465,1131,1038,1964,70
+Provider	26,692,18,1360,679,611,476,748,4513,1595,101,42,1425,330,2465,1131,1038,1964,70,594
 Provider Certification	7548
 Provider Class A US	736
 Provider Collection Authority RAN Radio Access	14897
@@ -1876,7 +1881,7 @@ Providers of AI	7855
 Providers of Artificial Intelligence Systems	2958
 Providers of General Purpose AI	16212
 Providers of Such Products and Services	13073
-Provides	86,129,257,290,321,389,214,302,1507,1033,3020,242,1333,5,1635,5,140,280,73,7,1,588,15,67,1,12,294,110,3,60,1,24,9,233,276,7,8,60,5,52,214,6,31,1,166,166,3,920,229,44,15,61,47,36,1179,620,11,49,23,48,12,124,15,25,18,8,1405,58,276,251,386,156,1,103
+Provides	86,129,257,290,321,389,214,302,1507,1033,3020,242,1333,5,1635,5,140,280,73,7,1,588,15,67,1,12,294,110,3,60,1,24,9,233,276,7,8,60,5,52,214,6,31,1,166,166,3,920,229,44,15,61,47,36,1179,620,11,49,23,48,12,124,15,25,18,8,1405,58,276,251,386,156,1,103,121
 Provides Enforceability	14997
 Provides ICT	907
 Provides Integrated Basic Education	11939
@@ -1884,7 +1889,7 @@ Provides KIFC	14997
 Provides Legal Basis Layer	16212
 Provides MFIs and SACCOs	14997
 Provides TA	16144
-Providing	236,539,183,3,268,14,120,191,26,124,74,40,49,86,35,537,250,183,47,215,293,54,647,174,344,18,476,137,302,31,1244,8,481,119,297,177,353,61,110,40,254,165,198,433,66,34,229,337,68,393,78,15,117,12,92,52,1,3,65,28,24,2,23,227,27,81,247,4,1,43,36,11,34,8,14,37,87,43,14,19,19,13,13,2,42,59,8,12,23,102,1,84,22,66,258,2,38,13,137,63,85,44,47,100,90,300,87,53,2,361,76,18,23,51,43,158,6,9,23,12,4,58,19,8,17,14,19,10,21,3,1,18,32,37,47,21,18,63,15,144,51,125,60,26,54,3,52,1,3,8,354,91,42,621,30,9,2,10,5,26,12,7,13,4,24,10,114,15,2,1,32,7,1,94,190,575,212,73,151,10,13,2,8,1,18,8,20,21,9,45,33,233,411,235,12,3,37,67,1,7,119,36
+Providing	236,539,183,3,268,14,120,191,26,124,74,40,49,86,35,537,250,183,47,215,293,54,647,174,344,18,476,137,302,31,1244,8,481,119,297,177,353,61,110,40,254,165,198,433,66,34,229,337,68,393,78,15,117,12,92,52,1,3,65,28,24,2,23,227,27,81,247,4,1,43,36,11,34,8,14,37,87,43,14,19,19,13,13,2,42,59,8,12,23,102,1,84,22,66,258,2,38,13,137,63,85,44,47,100,90,300,87,53,2,361,76,18,23,51,43,158,6,9,23,12,4,58,19,8,17,14,19,10,21,3,1,18,32,37,47,21,18,63,15,144,51,125,60,26,54,3,52,1,3,8,354,91,42,621,30,9,2,10,5,26,12,7,13,4,24,10,114,15,2,1,32,7,1,94,190,575,212,73,151,10,13,2,8,1,18,8,20,21,9,45,33,233,411,235,12,3,37,67,1,7,119,36,85
 Providing Access	16861
 Providing CRAC	9123
 Providing Certainty	19654
@@ -1898,6 +1903,7 @@ Providing Government Service Centers Program	15578
 Providing Highways and Bridges Program	15578
 Providing Holistic Care	10829
 Providing Holistic Support	10829
+Providing Hosting Services for Cloud Computing	19860
 Providing Information	18318
 Providing Infrastructure and Online Access	15164
 Providing NLAS	15661
@@ -2165,7 +2171,7 @@ Provions of Paragraph	14919
 Provipsaions Regarding Meetingso	19525
 Provis. Reprov. Sec. Abandonos Aprovados Comparticipada	10766
 Provisio Montants	18032
-Provision	940,191,23,7,59,373,274,121,319,166,688,517,294,182,48,694,769,1167,114,592,10,297,509,543,212,535,763,368,54,300,440,286,5,1,53,41,1,37,2,245,6,7,48,22,15,21,36,133,1,2,4,17,141,219,26,16,21,2,8,68,235,43,235,843,40,44,10,91,135,9,8,6,9,17,50,3,36,3,10,27,5,35,63,173,23,157,13,34,14,32,17,7,73,105,5,34,323,27,97,292,164,31,67,141,13,11,9,12,1,2,28,1,10,15,2,4,4,4,16,84,59,121,1,205,303,89,129,387,88,25,4,9,21,16,44,331,78,98,1,185,35,236,5,2,5,9,100,104,90
+Provision	940,191,23,7,59,373,274,121,319,166,688,517,294,182,48,694,769,1167,114,592,10,297,509,543,212,535,763,368,54,300,440,286,5,1,53,41,1,37,2,245,6,7,48,22,15,21,36,133,1,2,4,17,141,219,26,16,21,2,8,68,235,43,235,843,40,44,10,91,135,9,8,6,9,17,50,3,36,3,10,27,5,35,63,173,23,157,13,34,14,32,17,7,73,105,5,34,323,27,97,292,164,31,67,141,13,11,9,12,1,2,28,1,10,15,2,4,4,4,16,84,59,121,1,205,303,89,129,387,88,25,4,9,21,16,44,331,78,98,1,185,35,236,5,2,5,9,100,104,90,20,5
 Provision Mechanisms	4154
 Provision Oversight	15206
 Provision Regional Development Plans	16916
@@ -2186,7 +2192,7 @@ Provision of CTs	15663
 Provision of Central Backup Service	14846
 Provision of Communication-related Information Act	11190
 Provision of Conditional	15663
-Provision of Conditional and Unconditional Cash Transfers	15663
+Provision of Conditional and Unconditional Cash Transfers	15663,4192
 Provision of Consultancy Service	18712
 Provision of Consultancy Services for International	17255
 Provision of Credit Scores	12389
@@ -2364,9 +2370,9 @@ Províncias da Região Norte	11406
 Províncias da Região Sul	11406
 Províncias de Nampula	1808
 Public Data Service Providers	958,12337
-Public Perception of Education Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Public Perception of Education Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Public Perception of Education Provision Social Protection	10759,1395
-Public Perception of Health Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Public Perception of Health Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Public Perception of Health Provision Education	10759,1395
 Public Perception of Health Provision Reading	11889,452
 Public Service Commission and Gauteng Provincial Government	4896
@@ -2417,6 +2423,7 @@ Regulation of Third-Party Service Providers	9855
 Regulations Prescribing the Provision of Universal Service	1900
 Regulations S46 PART I PRELIMINARY PROVISIONS	12930
 Regulations. PART I PRELIMINARY PROVISIONS Short	12928
+Regulatory Framework for Providing Internet of Things	19860
 Rentes Provinciales RSA	13377
 Report General and Provincial Assembly Elections	12201
 Report Provides Comprehensive Overview of Digital-ID	4225
@@ -2566,7 +2573,7 @@ Service Provider PayLogic	2276
 Service Provider Selection	16835
 Service Provider. Lorem	18837
 Service Provider. The Public Service	19638
-Service Providers	4610,2336,3775,98,311,4,818,43,394,143,2191,413,382,1317,37,70,1543,19,1208,49
+Service Providers	4610,2336,3775,98,311,4,818,43,394,143,2191,413,382,1317,37,70,1543,19,1208,49,158
 Service Providers CSR Corporate Social Responsibility	6946
 Service Providers Data	9123
 Service Providers Data Centre	9123

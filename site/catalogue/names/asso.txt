@@ -603,7 +603,7 @@ Association. The World Bank CAR Health	10829
 Association. This Agreement	11905
 Association. Type Financing	969,9860
 Association. Type IBRD	13331
-Associations	3714,3245,3915,91,951,28,344,68,20,395,619,52,268,714,1,61,259,8,663,2,124,9,44,66,24,27,12,43,10,20,164,654,26,486,695,2,3,6,101,49,117,6,14,36,209,104
+Associations	3714,3245,3915,91,951,28,344,68,20,395,619,52,268,714,1,61,259,8,663,2,124,9,44,66,24,27,12,43,10,20,164,654,26,486,695,2,3,6,101,49,117,6,14,36,209,104,1426
 Associations Accompagner	10965
 Associations Act	14717
 Associations Activité	10965
@@ -803,6 +803,7 @@ Chambers of Small X Businesses X Association	12376
 Charity Association for All Ethiopian Persons	12236
 Chief Executive Officer of Eswatini Sugar Association	11131,3
 Chief Justice and Associate Justices	16943
+Children's Defense Fund and National Governors Association	19889
 Chinese Enterprise Contracting Engineering Association	3546
 Chinese Mining Enterprises Association	13532
 Christian Health Association of Kenya Data Controller	7167
@@ -933,6 +934,7 @@ Economics Association of Malawi	7900
 Economics Association of Zambia	13339
 Education de Base du Tchad PTA Parent-Teacher Association	18911
 Effectiveness Article V The Association	11905
+Egyptian-American Rule of Law Association	19854
 El-Zanaty and Associates	15725
 Electric Mobility Association of Kenya	12256
 Eligibility Criteria for Consumer Associations	5676
@@ -994,7 +996,7 @@ Forum of Mozambican Associations of People	12201
 Fourth Associate Justice Law Clerk Bailiff	16943
 Francophone Association of Data Protection Authorities	6363
 Freedom of Assembly and Association	9082,9515
-Freedom of Association	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Freedom of Association	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Freedom of Association Every	13948
 Freedom of Association and Assembly	6188
 Freedom of Association and Assembly Article	14742
@@ -1160,6 +1162,7 @@ International Development Association	1264,20,295,199,89,47,112,47,401,358,624,1
 International Development Association IDA Integrated Disease	11417
 International Development Association ISR Implementation	2889
 International Journal of Nepal Library Association	8022
+International Meetings and Journals Research Association	19900
 International Scene Association of Southeast Asian Nations	2775
 International Social Security Association	11156,4821
 International Swaps and Derivatives Association	17485
@@ -1397,6 +1400,7 @@ PTA Parent Teacher Association SAFMU School	16852
 Pan African Information Communication Technology Association	12926
 Parent Teacher Association	11860,5103
 Parent Teacher Associations	12408,3253,1191
+Parent Teacher Student Associations	19933
 Parent-Teacher Association RF Results Framework RPC	15661
 Parent-Teacher Associations	8588
 Parents and Teachers Associations	12570,3034
@@ -1443,6 +1447,7 @@ Provision de Prêts Assortis de Conditions Libérales	15399
 Président Azali Assoumani	2960,10776
 Prôt Gouvcrnemental Assorti de Conditions Préférentiellcs	15399
 Public Servants Association	2943
+Public Services and Procurement Canada. Associated	19854
 Pulmonary Hypertension Association	16971
 Q CONSEILS ASSOCIES EN AFRIQUE GUINEE	16623
 R AUDITEURS ASSOCIES EN AFRIQUE	16623

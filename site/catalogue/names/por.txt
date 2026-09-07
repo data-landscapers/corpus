@@ -132,6 +132,8 @@ Burkina Faso's Data Portal	11867
 Busan Port Community System	5993
 Business Licensing Portal	19533
 CAB PORTANT DESIGNATION DES MEMBRES	16616
+CAD PORTAL FOR ON-LINE CADASTRE SERVICES	19852
+CAD Portal	19852
 CAI Portail	748
 CAPÍTULO II DE LA CONTRATACIÓN POR	16855
 CBD. Por	18760
@@ -168,7 +170,9 @@ CULTURE AND YOUTH AFFAIRS PORTFOLIO COMMITTEE	13131
 CUSTOMER PORTAL	14807
 Cabo Verde Por	9994
 Cabo Verde Stock Exchange Investment Portal	11939
+Cadastre Portal	19852
 Cadastre Portal Get	12511
+Cadastre Portal Services	19852
 Cadastre Portal Zimbabwe Electronic Cadastre	12511
 Cadastre Portal Zimbabwe For Government	12511
 Cadastre Portal Zimbabwe Looking for Property	12511
@@ -195,7 +199,7 @@ Chairwoman of Portugal's ANACOM and Co-Chair	7199
 Change Knowledge Portal	16896,26
 Chief Commissioner's Office Port Mathurin Rodrigues	14794
 Chief Projects Portfolio Management Officer Ato	12195
-Child Pornography	26
+Child Pornography	26,19907
 Child Prostitution and Child Pornography	13962
 Child Prostitution and Child Pornography CRPD	14742
 Child Transmission PNG Portable Network Graphics	34
@@ -438,6 +442,7 @@ Economy Portal Google-backed	9321
 Education Data Portal	13209
 Education Parliamentary Portfolio Committee	13310
 Education Portfolio Committee	12950
+Egyptian Government Services Portal	19854
 Election Results Management and Transparency Portal	16574
 Electronic Communications Bill The Portfolio Committee	11046
 Electronic Investors Protection Portal	6576
@@ -793,6 +798,7 @@ Louis Portella	15780
 Luanda. Por	10758
 Luba Free Port	16972
 Lunda Norte. Por	11576
+Luxor and Port Said. The UHIS	19889
 LébéNam. Portée	14163
 Língua Portuguesa	18831
 Língua de Portugal. Em	18779
@@ -990,6 +996,7 @@ ODINE. Por	15535
 OFFICE DE PORTS ET RADES	16175
 OFFICE PORTFOLIO COMMITTEE ON THE DEBATE	13131
 OMS. Por	15966
+ON-LINE CADASTRE PORTAL	19852
 OPEN DATA PORTAL AND OTHER INITIATIVES	961
 ORDEN MINISTERIAL POR LA QUE SE	16905
 ORDINATEURS PORTABLES	14287
@@ -997,10 +1004,14 @@ ORIGEM DO REGISTO DE ATIVOS POR	11531
 OU DES REPRESENTATIONS A CARACTERE PORNOGRAPHIQUE	16617
 Oct-2019 Portal Safeguard Policies Triggered	11924
 Offenses Pornography	12459
+Official Portal of Cairo Governorate	19854
 Official Use Only III. WBG Portfolio	11469
 Offshore Facility Near Salman Port Minister	16114
 Olavo Correia. Por	16134
 Olumbe Akinkugbe. The Government Service Portal	8980
+On-line Cadastre Portal	19852
+Online Cadastre Portal	19852
+Online Cadastre Portal Services	19852
 Online Digital Literacy Portal	14723
 Online Portal	14784,4867
 Online Portal for Public Portal	1777
@@ -1101,6 +1112,7 @@ PORTAIL DE GESTION DE L’ADRESSE	17902
 PORTAIL DES OFFRES DE PASSEPORT EN	15936
 PORTAIL OFFICIEL DE LA RÉPUBLIQUE TOGOLAISE	8673,9007
 PORTAILS DE DONNÉES Open Data Portal	19043
+PORTAL	19852
 PORTANT	13302,3310,1205,12,4,8,20,121
 PORTANT ABROGATION DE DISPOSITIONS	17827
 PORTANT ABROGATION DU DECRET N	17817,10,2,12,20,121
@@ -1583,10 +1595,12 @@ Port PoE Access Switch	12763
 Port Police	14760,21
 Port RJ45 Cudy Routeur	19232
 Port Reitz	12256
-Port Said	1213,1096,4322,3747,5095,338,130,17,121,1614
+Port Said	1213,1096,4322,3747,5095,338,130,17,121,1614,2175,20,1
 Port Said City	16046
-Port Said Governorate	15811
+Port Said Criminal Court. Sample	19854
+Port Said Governorate	15811,4057
 Port Said URL	15811
+Port Said and Luxor	19889
 Port Said and Suez Garbia	15473
 Port Secondary Communication	9475
 Port St Johns Information Health	11986
@@ -1764,7 +1778,7 @@ Portails des Régions du Burkina Faso. Il	6685
 Portais	11408,2,51,13,1300,2981
 Portais de Serviços	2816
 Portais de Serviços Digitais	11371
-Portal	80,1,2,129,72,432,85,89,48,346,269,224,518,136,6,1,222,793,36,105,313,941,168,86,142,328,996,180,243,904,528,155,153,199,50,60,392,1135,195,468,135,6,12,1,22,2,2,23,28,11,1,1,95,71,96,130,25,48,37,42,124,72,81,26,38,30,120,346,132,64,263,136,294,981,12,8,7,1,76,102,427,26,4,88,2,75,19,130,2,51,169,38,121,81,17,75,19,10,62,29,111,162,236,34,53,268,1,96,376,2,301,204,158,185,128,76,34,56,100,627,1,127
+Portal	80,1,2,129,72,432,85,89,48,346,269,224,518,136,6,1,222,793,36,105,313,941,168,86,142,328,996,180,243,904,528,155,153,199,50,60,392,1135,195,468,135,6,12,1,22,2,2,23,28,11,1,1,95,71,96,130,25,48,37,42,124,72,81,26,38,30,120,346,132,64,263,136,294,981,12,8,7,1,76,102,427,26,4,88,2,75,19,130,2,51,169,38,121,81,17,75,19,10,62,29,111,162,236,34,53,268,1,96,376,2,301,204,158,185,128,76,34,56,100,627,1,127,140
 Portal Biometrics Application	11877
 Portal Cabo Verde	11939
 Portal Categories	18747
@@ -2296,6 +2310,7 @@ Sources AFS AFS CRAN Portal Table	1944
 Sous-officiers des Portrait-robot Forces Armées	17899
 South Sudan Information Portal Comprehensive	18747
 Southern Africa and Portugal	10763
+Spatial Portals	19852
 Specification of Types of Portable Identity Card Readers	1263
 Staff Portal	11334
 Standard Specification for Portland Cement1	16900
@@ -2320,6 +2335,7 @@ Supervision des ASC Toolkit Porteur	17882
 Supplier Portal	13618,5246
 Supplier Portal Open	12322
 Support Portal	14742
+System Portal. For More About E-Invoice	19919
 São Tomé and Príncipe Launches Citizen Portal	5726
 São Tomé and Príncipe and Portugal	18797
 TABLING OF PORTFOLIO COMMITTEES' REPORTS	13131

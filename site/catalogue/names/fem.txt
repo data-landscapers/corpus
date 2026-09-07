@@ -209,7 +209,7 @@ FGM Female Genital Mutilation GDP Gross	19531
 FemCode Africa	16942
 FemDataSummit	8713
 FemTech	2239
-Female	582,207,151,18,196,713,226,404,215,892,187,71,130,661,35,34,1857,254,95,19,505,311,106,8,9,244,716,935,855,132,12,32,17,41,70,24,12,28,79,97,12,203,130,28,7,295,19,7,1,20,3,13,6,40,1,6,17,6,12,145,24,24,21,8,18,5,16,61,8,10,33,4,17,9,2,2,18,9,20,33,162,322,355,14,12,34,69,137,322,88,658,79,33,37,17,4,15,71,58,27,16,8,25,29,45,6,108,167,13,36,93,48,3,13,41,3,2,62,120,124,44,19,47,65,43,73,6,170,178,24,214,24,20,6,19,1,13,15,1,20,23,2,4,79,17,3,17,11,22,86,13,4,33,593,26,54,4,171,160,57,5,4,78,4,2,91,220,55,8,172,110,143,3,4,35,258,15,145,13
+Female	582,207,151,18,196,713,226,404,215,892,187,71,130,661,35,34,1857,254,95,19,505,311,106,8,9,244,716,935,855,132,12,32,17,41,70,24,12,28,79,97,12,203,130,28,7,295,19,7,1,20,3,13,6,40,1,6,17,6,12,145,24,24,21,8,18,5,16,61,8,10,33,4,17,9,2,2,18,9,20,33,162,322,355,14,12,34,69,137,322,88,658,79,33,37,17,4,15,71,58,27,16,8,25,29,45,6,108,167,13,36,93,48,3,13,41,3,2,62,120,124,44,19,47,65,43,73,6,170,178,24,214,24,20,6,19,1,13,15,1,20,23,2,4,79,17,3,17,11,22,86,13,4,33,593,26,54,4,171,160,57,5,4,78,4,2,91,220,55,8,172,110,143,3,4,35,258,15,145,13,163,9,43,1
 Female Across	12409
 Female Address	17099,15
 Female Agripreneurs	5923,191,295,107,247,33,469
@@ -230,6 +230,7 @@ Female Both Sexes Male Female	19542
 Female Both Sexes N	12151
 Female Business Only Personal Only	582
 Female CLAS	17000
+Female Candidates	19857
 Female Death	12413
 Female Description	11525
 Female Description Percentage	15661
@@ -256,7 +257,7 @@ Female Ghana Police	15845
 Female HH	10763
 Female Head	17127
 Female Infant	13040
-Female Internet	15617,2260,1
+Female Internet	15617,2260,1,2053
 Female Irrigation	15473
 Female Journalist	18582
 Female Journalists Association of Liberia	16984
@@ -297,7 +298,7 @@ Female Only	16144
 Female Only Founder	4972
 Female Percentage Under	19544
 Female Please	17099,15
-Female Population	9485,2910
+Female Population	9485,2910,7462
 Female Prison Officers	14742
 Female Private	15553
 Female Quarterly MINTER	15845
@@ -330,13 +331,14 @@ Female-headed HHs	12440
 Female-led	12339,3630,1031
 Female-managed	18355
 Female-owned	2712,3867,8506
+Female-owned MSMEs	19878
 Female. Figure	3862
 Female. Frequency Annual Data	15661
 Female. Proportion	12383
 Female7	18490
 FemaleMale Age	15721
 FemaleMale Phone Number	15721
-Females	582,376,9810,196,5,162,61,692,1,10,264,1,44,1,146,4,54,4,18,56,152,472,1945,548,59,1308,2,1654,362,295,258,2,95,63,10
+Females	582,376,9810,196,5,162,61,692,1,10,264,1,44,1,146,4,54,4,18,56,152,472,1945,548,59,1308,2,1654,362,295,258,2,95,63,10,150,3
 Females Board Composition Summary Gender Distribution	11131
 Females Chair	17099
 Females ND	19544
@@ -674,6 +676,7 @@ Masculino Feminino	10777
 Masculino Feminino Total Masculino Feminino	18802
 Masculino Feminino Total Total Masculino Feminino	10777
 Mastercard Hommes Femmes Total Jeunes	13390
+Mediterranean Network for Feminist Information	19874
 Menage Hom Femm Homm Femm Hom	13390
 Menage Homm Femm Homm Femm Homm	13390
 Menage Homme Femme Homme Femme Homme	13390
@@ -719,6 +722,7 @@ Niveau Hommes Femmes	18286
 Niveau National Femme Homme	13390
 Number Female	15601
 Number of Female	16935
+Number of Female Legislators	19857
 ONECI Female	3604
 ONU FEMMES	18286,5
 ONU Femmes	1407,8188,3730,222,25,100,1802,2452,179,186,859
@@ -782,7 +786,7 @@ Proportion Femmes	2624,10676
 Proportion of Female	19639
 Prévalence du VIH POUVOIR D’ACTION DES FEMMES	13300
 PubMed Google Scholar Femke de RijkView	9739
-Public Perception of Female Leadership	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Public Perception of Female Leadership	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Public Perception of Female Leadership FOUNDATIONS	12154
 Public Perception of Female Leadership Participation	11889,274,178,7312
 Pujehun District List of Female MPs	5390,965,827

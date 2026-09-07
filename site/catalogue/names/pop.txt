@@ -322,8 +322,9 @@ FAIBLE ACCES DES POPULATIONS A L’EAU	15542
 FIR Censo Populacional	11422
 FLE Population and Family Life Education PPM	16852
 Facts Population	10908
+Fast Facts Population	19922
 Federal Institute for Population Research	12486
-Female Population	9485,2910
+Female Population	9485,2910,7462
 Femmes Populations Groupes Jeunes	11944
 Fibre Canar Nec Sudatel Zain Population	14897
 Fibre PoPs	13347
@@ -349,7 +350,7 @@ FÉCONDITÉ STRUCTURE DE LA POPULATION	15557
 G Population	1013
 G Population Coverage	13314,837,746
 GDP Population	10837,1052,265,186,1,7495
-GDP. Population	11887,1
+GDP. Population	11887,1,8036
 GE DE LA POPULATION. L'analyse	19413
 GSMA and United Nations Population	19245
 Gambian Population and Housing Census	16874
@@ -360,6 +361,7 @@ General Directorate of Population and Primary Health Care	10829
 General Popu	17438
 General Population	13837
 General Population Census	15659,1713
+General Population Census Population	19887
 General Population Census and Accompanying Censuses Project	17322,49,1,29
 General Population and Housing Census	7702,4701,3171,236,737,784
 General Population and Housing Census SDG7	15574
@@ -439,6 +441,7 @@ Independent Population Estimates Compared	16921
 Indicateur Valeurs Population	15720
 Indicator Population	15056
 Indicator Population Type Baseline Actual	18125
+Information Center for Health and Population	19887
 Inhabitants Percentage of Population Covered	12395
 Inputs Population Health	17869
 Inscription Populaires	9668
@@ -558,7 +561,7 @@ Mid-term Population and Housing Census	18464,11
 Midterm Population and Housing Census	18455
 Minister of Health and Population	6206,9519,550
 Minister of Health and Population Dr. Khaled Abdel	17562
-Ministry of Health and Population	4767,4704,1358,1068,244,3463,59,62,234,12,6,1585,86
+Ministry of Health and Population	4767,4704,1358,1068,244,3463,59,62,234,12,6,1585,86,2239
 Ministry of Health and Population EHA	15725
 Ministry of Health and Population MPA Minimum Package	10829
 Ministry of Health and Population and ICF International	15725
@@ -584,6 +587,7 @@ NATIONAL POPULATION POLICY The National Population	12962
 NATIONAL POPULATION REGISTER	12947
 NATIONAL POPULATION UNIT	12962
 NATIONAL POPULATION UNIT The National Population	12962
+NAWA. Population	19865
 NER Population Population Attending Attending	19542
 NEWLY ELECTRIFIED POPULATION	11572
 NMSEs. Population Younger	11994
@@ -632,7 +636,7 @@ National Population Office	17594
 National Population Policy	12962
 National Population Policy NPU National Population	12962
 National Population Projections	16935
-National Population Register	116,2498,48,538,25,307,724,516,554,207,1006,180,685,2280,1030,498,6,64,667,28,9,337,5,10,585,21,3,58,1498
+National Population Register	116,2498,48,538,25,307,724,516,554,207,1006,180,685,2280,1030,498,6,64,667,28,9,337,5,10,585,21,3,58,1498,5384
 National Population Register System	12367
 National Population Register. WHAT WE WILL	13678
 National Population Registration Bill	12947
@@ -648,7 +652,7 @@ National Population Secretariat	9312
 National Population System	12337
 National Population Unit	12962
 National Population Unit and Central Statistical Office	12962
-National Population and Development Strategy	15977
+National Population and Development Strategy	15977,3911
 National Population and Housing Census	8795,4238,3902,181,2599,28,15,52
 National Population and Housing Census Provisional Results	17011
 National Population and Housing Census. Investments	17116
@@ -875,7 +879,7 @@ Populate	18446
 Populating Shared Value Sets	1009
 Populating the IDES	12941
 Populatino	11572
-Population	21,716,10,223,28,15,350,191,68,1,1,1,1,1,1,54,63,2,41,156,29,82,422,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,2,118,1,150,1,252,177,138,261,304,1,1,1,1,5,1,60,66,83,198,107,671,142,457,328,313,277,62,146,100,31,127,192,377,58,1,279,308,87,503,386,35,173,68,115,486,131,262,165,2,49,2,3,7,5,32,9,1,4,3,6,3,3,3,3,9,2,16,7,31,8,44,4,1,16,153,48,1,5,2,68,34,105,16,107,48,9,276,6,4,3,14,1,1,9,5,10,13,3,9,9,32,6,4,12,8,37,95,13,8,32,14,48,84,7,7,1,1,1,1,12,16,2,10,18,18,56,1,45,18,49,55,74,233,1,42,32,58,16,189,12,2,29,1,23,10,13,52,76,228,144,17,90,77,24,144,1,171,4,5,1,1,17,23,23,1,1,5,39,36,24,13,4,63,45,96,17,4,15,1,44,1,14,65,5,75,3,185,3,151,25,8,16,25,1,1,1,4,22,17,29,6,4,17,6,4,15,5,13,6,4,7,51,21,1,13,5,15,25,34,49,70,18,29,12,55,5,42,109,21,183,44,17,74,20,16,51,6,21,32,21,10,129,59,4,20,5,1,18,2,8,23,45,96,35,8,82,18,170,19,2,16,10,4,11,1,13,168,72,86,1,11,1,1,1,20,5,1,7,1,16,2,7,3,1,38,1,21,11,4,1,12,8,11,18,45,23,3,1,1,4,1,6,2,4,1,13,7,6,7,13,1,26,2,6,34,16,1,20,2,6,3,5,19,2,25,85,13,8,15,6,11,3,129,20,1,55,74,30,36,2,62,17,22,5,20,38,28,82,56,23,26,17,17,12,34,47,12,67,3,107,12,10,2,11,98,21,2,1,38,45,62,4,11,5,6
+Population	21,716,10,223,28,15,350,191,68,1,1,1,1,1,1,54,63,2,41,156,29,82,422,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,2,118,1,150,1,252,177,138,261,304,1,1,1,1,5,1,60,66,83,198,107,671,142,457,328,313,277,62,146,100,31,127,192,377,58,1,279,308,87,503,386,35,173,68,115,486,131,262,165,2,49,2,3,7,5,32,9,1,4,3,6,3,3,3,3,9,2,16,7,31,8,44,4,1,16,153,48,1,5,2,68,34,105,16,107,48,9,276,6,4,3,14,1,1,9,5,10,13,3,9,9,32,6,4,12,8,37,95,13,8,32,14,48,84,7,7,1,1,1,1,12,16,2,10,18,18,56,1,45,18,49,55,74,233,1,42,32,58,16,189,12,2,29,1,23,10,13,52,76,228,144,17,90,77,24,144,1,171,4,5,1,1,17,23,23,1,1,5,39,36,24,13,4,63,45,96,17,4,15,1,44,1,14,65,5,75,3,185,3,151,25,8,16,25,1,1,1,4,22,17,29,6,4,17,6,4,15,5,13,6,4,7,51,21,1,13,5,15,25,34,49,70,18,29,12,55,5,42,109,21,183,44,17,74,20,16,51,6,21,32,21,10,129,59,4,20,5,1,18,2,8,23,45,96,35,8,82,18,170,19,2,16,10,4,11,1,13,168,72,86,1,11,1,1,1,20,5,1,7,1,16,2,7,3,1,38,1,21,11,4,1,12,8,11,18,45,23,3,1,1,4,1,6,2,4,1,13,7,6,7,13,1,26,2,6,34,16,1,20,2,6,3,5,19,2,25,85,13,8,15,6,11,3,129,20,1,55,74,30,36,2,62,17,22,5,20,38,28,82,56,23,26,17,17,12,34,47,12,67,3,107,12,10,2,11,98,21,2,1,38,45,62,4,11,5,6,9,2,3,41,27,1
 Population Access	19532
 Population Administration Information System	10714
 Population Affected	1828
@@ -896,7 +900,7 @@ Population Census	10748,122,1037,1460,1465,772,3001,2,210,702,196
 Population Census Commission	13948
 Population Census Preliminary Report	11905
 Population Census Team	12413
-Population Censuses	19542,173
+Population Censuses	19542,173,172
 Population Censuses Population and Housing Censuses	19542
 Population Change	16921,1543
 Population Change Between the Various Census Years	16921
@@ -956,6 +960,7 @@ Population HCICEM	15848
 Population HH Head	15244
 Population HWMP Hazardous Waste Management Plan	19284
 Population Head Work	15244
+Population Health Survey the Central Agency	19887
 Population Health and Facility Management	17869
 Population Horn of Africa. Ethiopia	12500
 Population Housing	16833
@@ -1032,6 +1037,7 @@ Population Statistics	12768
 Population Statistics Division	12672
 Population Strategie de Coopération	15724
 Population Studies	12323,649,1531
+Population Studies Center	19887
 Population Studies and Research Institute	12138
 Population Summary	18706
 Population Summary By County	18706
@@ -1083,6 +1089,7 @@ Population and Housing Census. Thematic	12413
 Population and Housing Censuses	17116,2426,173
 Population and Housing Mid- Term Census	18531
 Population and Net Enrolment Rates	19542
+Population and Registered Voters	19857
 Population and Sampling Units	17043
 Population and Sex Ratio	16921
 Population and Social Affairs	18198
@@ -1101,6 +1108,7 @@ Population of CAR Description Actual	15758
 Population of Chad	2505,1414
 Population of Cities	19654
 Population of Comoros	13764,6062
+Population of Egypt	19870
 Population of Household Distribution	16921
 Population of Kyrgyzstan	10714
 Population of Persons	11935
@@ -1370,7 +1378,7 @@ United Nations Population Division's World Population	18777
 United Nations Population Division. Review	11572
 United Nations Population Division. World Urbanization	17870,1956
 United Nations Population Division’s World Urbanization	11964
-United Nations Population Fund	6705,997,47,1791,321,248,2029,13,262,167,169,190,7,16,78,7,438,582,75,754,143,17,669,1138,58,30,7,47,2,61,48,478,203,646,77,6,94,331,591
+United Nations Population Fund	6705,997,47,1791,321,248,2029,13,262,167,169,190,7,16,78,7,438,582,75,754,143,17,669,1138,58,30,7,47,2,61,48,478,203,646,77,6,94,331,591,330,24
 United Nations Population Fund Country	15039
 United Nations Population Fund UNHCR United	19715
 United Nations Population Fund UNICEF	16951
@@ -1408,6 +1416,7 @@ Working Age Population	19715
 Working Age Population and Youth	19715
 Working Group UNFPA United Nations Population	17116
 Working Population Aged	16921
+World Bank Health Nutrition and Population	19889
 World Bank Poverty and Inequality Platform. Population	18198
 World Pop	10964,3932,1
 World Population	15473

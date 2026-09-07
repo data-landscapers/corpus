@@ -88,6 +88,7 @@ African Cyber Threat Assessment	14690
 African Cyberthreat Assessment Report	9167,1365
 Agency NRA National Risk Assessment NSFR	14997
 Agricultural Sector Risk Assessment	18104
+Algeria National Cadastre Overview Assessment	19874
 Almeida AA. Assessing	10780
 Angola Poverty Assessment	10768
 Annex II. External Sector Assessment Overall	13868
@@ -103,7 +104,7 @@ Artificial Intelligence Readiness Assessment Report	12994
 Artificial Intelligence Readiness Assessment Report. UNESCO	2816
 Arusha. The Association for Educational Assessment	10675
 Asses	16863,294
-Assess	236,482,181,344,571,174,489,512,872,265,1539,767,400,106,610,1930,272,1381,2,23,28,1,6,210,453,98,3,240,45,116,3,40,46,197,275,123,43,298,477,67,13,52,1,450,83,253,102,56,62,133,34,42,267,131,55,54,983,162,5,13,8,1,41,21,4,12,5,43,7,81,15,35,8,98,5,107,1003,106,19,36,430,79,197,338,9,80,137
+Assess	236,482,181,344,571,174,489,512,872,265,1539,767,400,106,610,1930,272,1381,2,23,28,1,6,210,453,98,3,240,45,116,3,40,46,197,275,123,43,298,477,67,13,52,1,450,83,253,102,56,62,133,34,42,267,131,55,54,983,162,5,13,8,1,41,21,4,12,5,43,7,81,15,35,8,98,5,107,1003,106,19,36,430,79,197,338,9,80,137,109
 Assess AI	1814
 Assess BISS and BACH	19664
 Assess Compliance	10721
@@ -206,6 +207,7 @@ Assessment Methodology RAPID MSDI READINESS ASSESSMENT	18476
 Assessment Methods	17116
 Assessment Notice P7-25. Degree	12500
 Assessment Objectives	18476
+Assessment Of Electronic Administration Implementation	19881
 Assessment Off-track	16079
 Assessment Off-track PBC	16079
 Assessment Office	14736
@@ -241,6 +243,7 @@ Assessment System SITA State Information Technology	11218
 Assessment Tool	11133,5734
 Assessment Tool Dumisani Masilela	12500
 Assessment Tool for E-records Readiness	12325
+Assessment Tool of Marriage and Divorce	19887
 Assessment Tool. Phillippe Leite	16867
 Assessment Tools	12675
 Assessment Tools for Digital Literacy	16963
@@ -572,7 +575,7 @@ Data Protection Impact Assessment NIB National	6936
 Data Protection Impact Assessment Regime	3861
 Data Protection Impact Assessment Report	2709
 Data Protection Impact Assessment and Prior Consultation	12549
-Data Protection Impact Assessments	1630,5306,2942,843,435,1037,109,1079,1143,5277
+Data Protection Impact Assessments	1630,5306,2942,843,435,1037,109,1079,1143,5277,109
 Data Protection Impact Assessments and Human Rights	6949
 Data Protection Impact Assessments. The DPA	1652
 Data Protection Impact Assessments. Training	5385
@@ -1037,7 +1040,7 @@ Legal and Judicial Assessments	17441
 Legitimate Interest Assessment	7409,4547,37
 Legitimate Interest Assessment Template	11956
 Legitimate Interest Assessment Template Schedule	11956
-Legitimate Interest Assessments	6792
+Legitimate Interest Assessments	6792,13118
 Legitimate Interests Assessment. WhatsApp	8290
 Lesotho's Digital Readiness Assessment	9478
 Letter of Assessment	19097
@@ -1121,6 +1124,7 @@ Mandates Environmental and Social Impact Assessments	17260
 Mandatory Assessment Triggers	3861
 Market Level Assessment	15474
 Market Level Assessment. International Trade Center	15474
+Marriage and Divorce Assessment Tool	19887
 Materiality Assessment	12967
 Mathematics Assessment	16436
 Maturity Assessment	19576
@@ -1706,6 +1710,7 @@ Traffic Impact Assessment	11131
 Training Needs Assessment	6946
 Transaction Assessment	14675
 Transfer Impact Assessment	12302
+Transfer Impact Assessments	19910
 Transforming Educational Assessment	13477
 Transmission Assessment Survey	14622
 Trend Identification and Assessment	11265
@@ -1763,6 +1768,7 @@ Vulnerability Assessment Vulnerability	1000
 Vulnerability Assessment and Analysis	12977
 Vulnerability Assessment and Management Conduct	15149
 Vulnerability Assessment and Penetration Testing	10721,4023
+Vulnerability Assessment for Refugees	19886
 Vulnerability Assessments	13053
 Vulnerability and Capacity Assessment	12977
 Vulnerability and Impact Assessment	14443,2714

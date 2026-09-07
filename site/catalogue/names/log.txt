@@ -356,7 +356,7 @@ Logistic Regression Models Yi	12978
 Logistical	12253,2497,592,1601,2785
 Logistical Assistant	18464
 Logistical Support	19641
-Logistics	34,1794,2339,716,1029,107,927,2183,1840,160,755,1,10,260,4,1,40,5,134,12,25,13,98,242,188,951,870,259,22,441,82,254,1125,50,130,1377,53,1001
+Logistics	34,1794,2339,716,1029,107,927,2183,1840,160,755,1,10,260,4,1,40,5,134,12,25,13,98,242,188,951,870,259,22,441,82,254,1125,50,130,1377,53,1001,330,3
 Logistics Clean Energy Access	4972
 Logistics Cluster	14945,3714
 Logistics Commission	11401
@@ -501,6 +501,7 @@ Perle Logistic Ltd	14753
 Perle Logistics Ltd	14753
 Perle Logistics Ltd. and Perle de La Savanne	14753
 Persal and Logis	8018
+Personal Data Log	19853
 Personal Logbook	10765,10
 Physical Data Element Logical DB	12360
 Physical and Logical Access Controls	16878

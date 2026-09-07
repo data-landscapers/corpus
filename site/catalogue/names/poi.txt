@@ -428,7 +428,7 @@ National Accreditation Focal Point	13320
 National Contact Points	14789
 National Enquiry Point	14225,4244
 National Enquiry Point for Technical Barriers	14736
-National Focal Point	17140
+National Focal Point	17140,2767
 National Focal Points	12918
 National Gender Focal Point Network	16951
 National IHR Focal Point	16892,397
@@ -522,7 +522,7 @@ Poikela	8606
 Poilão Fonseca	11962
 Poilão Marine National Park	11586
 Poinls	15429
-Point	736,3332,459,1699,206,1043,721,567,128,434,988,126,382,90,218,1513,119,143,45,271,71,10,74,15,86,6,92,267,345,250,287,141,33,126,329,112,10,5,14,43,19,88,242,23,139,218,217,63,7,41,22,230,62,53,46,50,32,37,75,34,98,36,120,26,76,234,3,5,14,2,8,26,181,59,82,18,69,138,28,447,69,177,465,18,171
+Point	736,3332,459,1699,206,1043,721,567,128,434,988,126,382,90,218,1513,119,143,45,271,71,10,74,15,86,6,92,267,345,250,287,141,33,126,329,112,10,5,14,43,19,88,242,23,139,218,217,63,7,41,22,230,62,53,46,50,32,37,75,34,98,36,120,26,76,234,3,5,14,2,8,26,181,59,82,18,69,138,28,447,69,177,465,18,171,125
 Point Application	21
 Point Azhar Malik UNDAF Outcome	12241
 Point B	17827
@@ -564,6 +564,7 @@ Point Santé	8755,1856
 Point URL	17077,157,27,107
 Point Unique de Défaillance	17823
 Point WARCIP West African Regional Communications	15621
+Point Wifi	19929
 Point Zéro	10097
 Point de Presse du Ministre	18200
 Point de Présence	3402,12812,51

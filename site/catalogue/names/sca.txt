@@ -235,7 +235,7 @@ PAPSS Scan	17242,1247
 PAPSS. Scan	11002
 PERFORMANCE AND SCALABILITY STANDARDS	11952
 PRINTERS AND SCANNERS STANDARDS AND GUIDELINES	34
-PTS Political Terror Scale	11887,266,1,9,178
+PTS Political Terror Scale	11887,266,1,9,178,7517,1
 Passport Scandal	10644,6714
 Pays Scandinaves	18427
 Pipeline Scaling	6832
@@ -340,6 +340,7 @@ Sca'ifltooJJt	1009
 Scabies	12729
 Scalability	5551,881,1050,2373,1275,3,819,43,364,683,982,973,1918,48,576,1971,157,31
 Scalability Testing	5665
+Scalability and Expansion	19860
 Scalability of Digital Health Systems	12240
 Scalability of Innovations and Interventions	13998
 Scalable	3604,3087,313,984,617,841,1510,996,3121,959
@@ -450,7 +451,7 @@ Scaleup Corridor	4194
 Scaleway	5846,1033,1880
 Scaleway and S3NS	5846
 Scaleway. Schwarz Digits	6879
-Scaling	396,1432,1178,1760,2782,332,95,401,722,1059,31,484,30,61,27,3,338,5,86,73,15,262,51,329,85,104,34,35,4,41,42,205,5,182,320,86,300,1,1060,218,144,104,25,50,76,57,330,199,2,104,248,830,123,30,96,197,169,45,287,80,92,508,8,767,326
+Scaling	396,1432,1178,1760,2782,332,95,401,722,1059,31,484,30,61,27,3,338,5,86,73,15,262,51,329,85,104,34,35,4,41,42,205,5,182,320,86,300,1,1060,218,144,104,25,50,76,57,330,199,2,104,248,830,123,30,96,197,169,45,287,80,92,508,8,767,326,303
 Scaling AI	1467,9668
 Scaling AI Readiness Across Borders	12723
 Scaling AI for SMEs	6886
@@ -537,7 +538,7 @@ Scanner Features Ultrasonic Multi Feed Detection	34
 Scanner Implementation	13053
 Scanner Specifications DATE QUANTITY	34
 Scanner Speed Details	34
-Scanners	34,11826,6655
+Scanners	34,11826,6655,1372
 Scanners Standards and Guidelines	34
 Scanners Standards and Guidelines The ICT Unit	34
 Scannez	14480

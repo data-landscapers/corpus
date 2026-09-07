@@ -77,9 +77,9 @@ Communicable Disease Control	16941
 Communicable Diseases	10780,2383,1551,1,2384
 Communicable and Non-Communicable Diseases	12729,247,1859
 Component COVID-19 Coronavirus Disease	16896
-Control of Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Control of Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Control of Communicable Diseases Access	19822
-Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Corona Virus Disease	12175,7468
 Corona Virus Disease-19	19531
 Corona Virus Disease-19 FBO Faith-Based Organization	19531
@@ -109,7 +109,7 @@ DiSEP	18286
 Diarrheal Disease	15247
 Diarrhoeal Disease	13454
 Directorate of Disease Surveillance	11912
-Disease	1988,1873,399,414,2272,2772,1062,416,309,407,1019,16,889,993,125,707,1280,1502,185,276,640,194
+Disease	1988,1873,399,414,2272,2772,1062,416,309,407,1019,16,889,993,125,707,1280,1502,185,276,640,194,149
 Disease Annual Epidemiology	16922
 Disease Annual Epidemiology Electronic	16922
 Disease Annual Epidemiology Epidemiology and Health	16922
@@ -227,7 +227,7 @@ Integrated Disease Surveillance	19544
 Integrated Disease Surveillance Reporting	19776
 Integrated Disease Surveillance and Response	4260,5110,2047,586,2663,297,195,801,52,911,49,318,2255
 Integrated Disease Surveillance and Response IFR Interim	16922
-International Classification of Diseases	11969,444,316,2327,406,263,382,2521,916,123
+International Classification of Diseases	11969,444,316,2327,406,263,382,2521,916,123,220
 International Classification of Diseases KFH	12338
 International Classification of Diseases-10	15411
 International Coding of Diseases	15590

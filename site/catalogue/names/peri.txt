@@ -346,10 +346,11 @@ Period of Institutional Challenge and Reflection	17116
 Period of Registration	12226
 Period of Validity of Bids	13185,1581
 Period of Validity of Proposals	15080
-Periodic	749,515,514,89,1994,1815,739,2822,920,662,187,123,2,138,588,532,148,440,333,187,35,74,332,93,534,186,10,186,50,30,7,95,35,494,3,1197,5,4,57,27,60,353,1006,161,511,533,9,57
+Periodic	749,515,514,89,1994,1815,739,2822,920,662,187,123,2,138,588,532,148,440,333,187,35,74,332,93,534,186,10,186,50,30,7,95,35,494,3,1197,5,4,57,27,60,353,1006,161,511,533,9,57,246
 Periodic Activity	17099
 Periodic Audits	11995
 Periodic Audits and Inspections Periodic	5665
+Periodic Book	19906
 Periodic Compliance Audits	15120
 Periodic Data Transfer	18531
 Periodic Data Transfer Description	18531
@@ -392,6 +393,7 @@ Periodo Nacidos Vivos Total Muertes Fetales	16962
 Periodo Ordinario de Sesiones	16855
 Periodo de Conserva	16855
 Periods	10852,1404
+Periods Records	19920
 Perioperative Nursing	16922
 Peripheral Health Unit	19284
 Peripheral Health Units	18478,54

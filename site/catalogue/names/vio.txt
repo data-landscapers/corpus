@@ -2,7 +2,7 @@ A. The Sexual Offences and Domestic Violence	12939
 AI-Enabled Online Gender-Based Violence	8662
 ANNEXE-6. PLAN D’ACTION CONTRE LES VIOLENCES	14488,1,1
 Absence of Armed Conflict Absence of Violence	10837,1315,188
-Absence of Violence	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Absence of Violence	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Act. Violence Act	1988
 Address Gender-Based Violence Mauritius	11332
 Addressing Gender Based Violence Combating Organised	14781
@@ -45,6 +45,7 @@ DHA Gender-based Violence and Femicide Plan Output	11986
 DOCUMENT Violence	12939
 DOMESTIC VIOLENCE	13454
 DOMESTIC VIOLENCE COURT	12920
+Data Breach and Violation	19895
 Days Campaign for No Violence Against Women	11224
 Days of Activism Against Gender Based Violence	12977
 Days of Activism Against Gender-Based Violence	11332
@@ -198,7 +199,7 @@ Perpetrators of Sexual Violence	15247
 Physical Violence Initiated	15247
 Piracy and Maritime Violence Act	14760
 Planning GBV Gender-Based Violence VAC Violence	19544
-Political Stability and Absence of Violence	14897,2099
+Political Stability and Absence of Violence	14897,2099,2935
 Political Violence	17870
 Portal for Domestic Violence Survivors Last	2445
 Prevalence of Sexual Violence	15247
@@ -316,7 +317,7 @@ Violators	5696,14072
 Violação	14,525,255,2725,7906,3967,41,17,59,3241,5
 Violação Fronteiriça Aquela	11528
 Violação da Livre Iniciativa Os Artigos	11436
-Violence	1264,724,6214,1467,84,1006,70,6,2,1,130,501,401,16,1,1,1,263,1,1,9,177,1,11,1,135,451,38,323,12,2,1110,1,63,1,1,470,16,120,94,152,279,122,105,60,476,260,297,10,7,156,820,49,458,1026,77,108,1,2,167,14
+Violence	1264,724,6214,1467,84,1006,70,6,2,1,130,501,401,16,1,1,1,263,1,1,9,177,1,11,1,135,451,38,323,12,2,1110,1,63,1,1,470,16,120,94,152,279,122,105,60,476,260,297,10,7,156,820,49,458,1026,77,108,1,2,167,14,22,1,65
 Violence Against Children	10776,1477,120,573,31,4122,2185,499
 Violence Against Children Agriculture	1988
 Violence Against Children Survey	12977

@@ -226,7 +226,7 @@ MME and MFDP	17257
 MMEAP	11909,56
 MMEAP Ministry of Modernization	11965
 MMED Psych	13040
-MMEIG	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1,135,7164,1,169,14
+MMEIG	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 MMETI	19218
 MMEXIMIUM	3972
 MMFL Chief Executive Officer Shaibu Haruna	10117
@@ -1126,6 +1126,7 @@ Mme. Claudette MBONGO	16381
 Mme. Céréna MA ROUNDOU KOMBILA DIMEIMA	16381
 Mme. Djadi Kheira	15608
 Mme. Djazia Harrad	15456
+Mme. Djouamaâ	19893
 Mme. Doria NDOUTA NDONG. AUTORITE ADMINISTRATIVE	16381
 Mme. Echata Abdillah	5370
 Mme. Edna Créolle NZE EKOUME. DIRECTION	16381
@@ -1321,7 +1322,7 @@ Tristan NONDAT. Mme	16381
 Télécommunications Oumouri Mmadi Hassani	13736
 Télécommunications Oumouri Mmadi Hassani URL	13736
 UN MMEIG	19653,183
-UN MMEIG United Nations Maternal Mortality	11887,266,1,9,178
+UN MMEIG United Nations Maternal Mortality	11887,266,1,9,178,7517,1
 UN Women Representative Mme. Jennet Kem	14990
 Union des Comores. Mme Xia Yin	13736
 VHF Stations MMSI Allocation Callsign Allocation	17250

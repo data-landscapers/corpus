@@ -18,7 +18,7 @@ ANNEX VI CRITERIA FOR EVALUATION	16843
 ANNUAL CRIME TRENDS	19772
 ASSEGURAR A CRIAÇÃO DOS PARQUES TECNOLÓGICOS	11397
 Abrogation CRISTAL Décision	998
-Absence of Crime	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Absence of Crime	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Academia Criteria	12376
 Accelerate War Crimes Court	17139
 Acceptance Criteria	5665
@@ -279,6 +279,7 @@ Code Criticité C	15525
 Code of Criminal Procedure	11900,1413,2080,2541,664
 Code of Criminal Procedure. Law	15393
 Code of Criminal Procedure. Under	13313
+Code of Criminal Procedures	19854
 College of Marine Science and Technology CRA Criteria	13960
 Combat Cyber Crime	1777
 Combat Cyber Crime Liberia	1777
@@ -436,7 +437,7 @@ Crimes Reported	2775
 Crimes and Penalties ARTICLE	15484
 Crimes and Penalties Article	15492
 Criminais	10750
-Criminal	180,40,1254,403,1729,9,512,1381,25,453,1480,1805,345,1133,1,1,1,1,12,7,3,204,159,43,96,8,183,139,289,32,15,43,160,187,335,245,7,120,363,545,64,730,67,389,161,213,455,916,387,554,66,606,276,88,597,284
+Criminal	180,40,1254,403,1729,9,512,1381,25,453,1480,1805,345,1133,1,1,1,1,12,7,3,204,159,43,96,8,183,139,289,32,15,43,160,187,335,245,7,120,363,545,64,730,67,389,161,213,455,916,387,554,66,606,276,88,597,284,94
 Criminal Abortion	16935
 Criminal Act	10192
 Criminal Act. Saleh	10192
@@ -483,7 +484,8 @@ Criminal Groups	19655
 Criminal History Record	12389
 Criminal Indictment Matters	12920
 Criminal Information System Simplified	11939
-Criminal Investigation	16840
+Criminal Investigation	16840,3014
+Criminal Investigation Article	19854
 Criminal Investigation Department	587,10494,3609,304
 Criminal Investigation Department Ahmed Ismail	15992
 Criminal Investigation Programme	14899
@@ -497,11 +499,12 @@ Criminal Justice Administration	14012
 Criminal Justice Miscellaneous Provisions Act	11857
 Criminal Justice Single Window System	19589
 Criminal Justice System	11270
-Criminal Law	972,5979,6557,1376
+Criminal Law	972,5979,6557,1376,5006
 Criminal Law Amendment	13295
 Criminal Law Amendment Act	11177
 Criminal Law Code	972,8279,4060
 Criminal Law Codification and Reform Amendment Act	6951
+Criminal Law Protections	19895
 Criminal Liability	3615,968,2955
 Criminal Libel Against The President	16935
 Criminal Lunatic	19517
@@ -1404,6 +1407,7 @@ Past Infrastructure Crises	6421
 Paula Cristina Roque	9399
 Performance Criteria	15752
 Performance Criteria and Indicative Targets	17209
+Performance Criterion	19889
 Periodic Review Mandates and Evaluation Criteria	3861
 Plan de Protection des Infrastructures Critiques	15936
 Planned Action Critical Success	16884
@@ -1420,6 +1424,7 @@ Polícia Criminal	539,10,245,17967
 Polícia Criminal ARTIGO	539
 Polícia Criminal. Nas	549
 Polícia Criminal. Para	549
+Port Said Criminal Court. Sample	19854
 Portaria. SECÇÃO II CRITÉRIOS DE SELEÇÃO	16138
 Pre Qualifying Criteria	11240
 Pre-Qualifying Criteria	11240

@@ -5,6 +5,7 @@ AFRICA FERTILIZER	7167
 AGEROUTE CI-ENERGIES FER CIPREL OIC PAA	2342
 ANTI-ANEMIQUES ACIDE FOLIQUE CYANOCOBALAMINE FEREDETATE	15930
 ASFR Age Specific Fertility Rates ASPs	2775
+Abu Qir Fertilizers and Chemical Industries Co	19862
 Acronyms ASFR Age-Specific Fertility Rate ABR	16950
 Adjudant LEKINGANI Ferdinand. COMMISSARIAT GENERAL	16099
 Administration Territoriale Ferkessedougou	17817
@@ -137,7 +138,7 @@ Ferhan Juhoor	14797
 Feria	10997
 Feria and Swistak	10997
 Feriados Perguntas Frequentes	11933
-Ferid Belhaj Country Director	13836,5999
+Ferid Belhaj Country Director	13836,5999,20
 Ferid Belhaj Regional Director	17458
 Feriol Bewa	2349,1877
 Ferkessedougou	16032,1785
@@ -244,7 +245,7 @@ Fertile Period	15247
 Fertiliser Information System	8908,10676
 Fertilisers Imports	11258
 Fertilisers and Feed	13403
-Fertility	5889,6262,232,30,550,148,956,989,191,3194,2,184,1088
+Fertility	5889,6262,232,30,550,148,956,989,191,3194,2,184,1088,172
 Fertility Clinic	14773
 Fertility Fertility	12655
 Fertility Measures	12151
@@ -252,13 +253,13 @@ Fertility Number of Persons Rate Total Fertility	19715
 Fertility Other Measures	12383
 Fertility Planning	15247
 Fertility Preferences	14067
-Fertility Rate	12151,232,30,242,17,2384,4043,616
+Fertility Rate	12151,232,30,242,17,2384,4043,616,205
 Fertility Rate ASMR Age-Specific Mortality Rate	12413
 Fertility Rate NRR Net Reproduction Rate	16950
 Fertility Rate Poorest	18441
 Fertility Rate Rural National Urban	19544
 Fertility Rate TJ Tera Joules	2775
-Fertility Rates	19715
+Fertility Rates	19715,205
 Fertility and Family Planning	14523
 Fertilité du Sol	17829
 Fertilizantes	4209
@@ -284,7 +285,7 @@ Gabriel Arcanjo Ferreira da Costa	18895
 GabrielaAlfredo Fernandes	11544
 Gastão Ferreira. Foi	18843
 General Fertility	12151,320,2585
-General Fertility Rate	12383,30,2643
+General Fertility Rate	12383,30,2643,4864
 General Fertility Rate HBCP Home-Based Care	12413
 General Fertility Rate HMIS Health Management	15056
 Gervais Ferrol	15524,220
@@ -345,6 +346,7 @@ Medium Fertility Scenarios	16935
 Medium Fertility Scenarios. Housing Characteristics	16935
 Merzak Ferroukhi	15930
 Minister of Economy and Planning Feryel Ouerghi Sebai	1688
+Misr Fertilizer Production Company	19862
 Mme Elodie Fernade ASSELE	16175
 Mme Ferry Willia OBONE ZUE	16381
 Monsieur Sanoussy Bouya SYLLA Promoteur Ferme	17841

@@ -165,7 +165,7 @@ Filling the Agriculture Data Gap	7596
 Financial Gaps	16943
 Financial Gaps The Judiciary	16943
 Financing Financing Gap	11905
-Financing Gap	761,523,420,163,424,598,567,106,42,2935,4229,61,588,108,35,405,461,243,442,221,191,264,6,75,147,895,27,17,184,52,221,102,37,71,40,322,310,382,247,1887,436,162,48,188,20,172,12
+Financing Gap	761,523,420,163,424,598,567,106,42,2935,4229,61,588,108,35,405,461,243,442,221,191,264,6,75,147,895,27,17,184,52,221,102,37,71,40,322,310,382,247,1887,436,162,48,188,20,172,12,8
 Financing Gap Persists	7523
 Financing Gap and Sources of Financing	17503
 Fit Gap	16924
@@ -199,6 +199,7 @@ GAP4A	13314
 GAPAPPLICATIONS TO DATA CENTRESWHAT	14673
 GAPARAYI Jean Marie	19687
 GAPCO Kenya Limited	12256
+GAPIN	19873
 GAPORAUD OBBA KAMIA	15524
 GAPORO-ITOUA	15524
 GAPP Framework	8022
@@ -398,6 +399,7 @@ Regulatory Gaps	12241,115,4619
 Relevance Gap	7921
 Relevant World Bank ESSs and Key Gaps	1988
 Requirements Gaps The Borrower	1988
+Research Gaps	19889
 Residual Financing Gap	17257
 Resilience Gap Recent	5913
 Responsibility for Data MEPPSA Collection Gap	11905

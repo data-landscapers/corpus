@@ -242,6 +242,7 @@ Availability of Sex-Disaggregated Statistics	12389
 Availability of Statistics	12389
 Awareness of Statistical Release Calendars	17149
 Aycncics. Starc Statistical Agencies	11852
+B National Statistics Authority and C	19887
 B. DIAGNOSTIC DU SYSTÈME STATISTIQUE NATIONAL	17842
 B. Resource Availability and Utilisation C. Statistical	13310
 BATIMENT DE LA STATION DE CABLE	17846
@@ -462,8 +463,9 @@ Census of Industrial Production and Hotel Statistics Survey	19557
 Center EASTC Economic Statistics EconStat Employment	19519
 Central Africa CFS Container Freight Station	2775
 Central Agency for Public Mobilisation and Statistics	15604
-Central Agency for Public Mobilization and Statistics	9624,5838,142,59,1,61,162,71,36,151
+Central Agency for Public Mobilization and Statistics	9624,5838,142,59,1,61,162,71,36,151,3710,5,27,1,8,11
 Central Agency for Public Mobilization and Statistics CARE	15604
+Central Agency for Public Mobilization and Statistics Issues	19887
 Central Bureau for Statistics	14853
 Central Bureau of Statistics	9485,2882,535,5,1503,447,3,35,64,80,61,144
 Central Bureau of Statistics COICOP	14857
@@ -738,6 +740,7 @@ Definitions PART II NATIONAL STATISTICS SYSTEM	12899
 Degrees Height Power Base Station Decimal	736
 Demographic Statistics	17149
 Demographic Statistics Section Egypt Questionnaire	15627
+Demographic Statistics Section Eritrea Questionnaire	19930
 Demographic and Population Statistics	11237
 Demographic and Social Statistics	13906
 Demographic and Vital Statistics	12962
@@ -1282,7 +1285,7 @@ Indicateurs de Performance Statistique	15961
 Indicateurs de Performance Statistique du Burkina Faso	15961
 Indicator Statistic ANNUAL INFORMATION AND COMMUNICATION	12395
 Industrial Statistics	16833
-Industrial Statistics Database	10969,926,264,328
+Industrial Statistics Database	10969,926,264,328,7375,3
 Infections Kenya Vital Statistics Report	12151
 Informatics Ltd BUSINESS STATISTICS QUARTER	14840
 Information Agricole Système Statistique National Très	17978
@@ -1423,6 +1426,7 @@ Key Statistics	226,11652
 Key Statistics CAR CHAD Population	18887
 Key Statistics Indicator	12551
 Khaufelo R. Lekobane Statistician General	12600
+King Fouad Station	19868
 Kingdom of Eswatini Vital Statistics Report	12944
 Kingdom of Eswatini. Annual Vital Statistics Report	12944
 Kingtom Power Station	18566
@@ -1759,7 +1763,7 @@ National Agency for Statistics	3604
 National Agency for Statistics and Demography	2356,15953,50
 National Agency for Statistics and Demography ANCAR	18309
 National Bureau AG. of Statistics	19526
-National Bureau of Statistics	1261,14,829,367,912,479,712,481,190,1080,211,1056,495,572,159,428,324,120,403,1033,3,4,9,579,130,3,6,6,132,140,7,2244,500,170,26,2072,1017,2,9,59,353,10,17,13,27,31,12,38,141,65,38,19,19,13,56,3,1,416,3,7,5,5,5,1,2,10,1,2,27,29
+National Bureau of Statistics	1261,14,829,367,912,479,712,481,190,1080,211,1056,495,572,159,428,324,120,403,1033,3,4,9,579,130,3,6,6,132,140,7,2244,500,170,26,2072,1017,2,9,59,353,10,17,13,27,31,12,38,141,65,38,19,19,13,56,3,1,416,3,7,5,5,5,1,2,10,1,2,27,29,274
 National Bureau of Statistics Act	18637,108,141,214
 National Bureau of Statistics Augustino T. Mayai	7749
 National Bureau of Statistics Board	19516,10
@@ -1772,6 +1776,7 @@ National Bureau of Statistics Strategic Plan	19519
 National Bureau of Statistics and Ministry of State	19542
 National Bureau of Statistics and President's Office Finance	11133
 National Bureau of Statistics and UNICEF	18695
+National Bureau of Statistics. B Ther	19887
 National Bureau of Statistics. Contacts Contacts Name	19613
 National Bureau of Statistics. FinMark Trust	18899
 National Bureau of Statistics. Streamlined	12210
@@ -1908,6 +1913,7 @@ National Statistics Action Plan	16927
 National Statistics Agency	223,12276,408,403,7,1572,3412,491
 National Statistics Agency ZNCC Zimbabwe National	12512
 National Statistics Agency of Côte	10508
+National Statistics Authority	19887
 National Statistics Bureau Act	18886,214
 National Statistics Coordination Committee	19008
 National Statistics Council	11873,2082,822,2090,60,189
@@ -1937,6 +1943,7 @@ National Statistics System	976,212,8297,1716,36,1662,3,117,12,3896,1249,710
 National Statistics System PART III NAMIBIA	12899
 National Statistics System and National Strategy	11201
 National Statistics System. Work	11237
+National Statistics and Evaluation Office	19920
 National Statistics and Geo-Information Act	5244,11589
 National Statistics and Geo-Information Act. Section SOA.2	16833
 National Statistics and Public Trust Stats SA	5597
@@ -1998,7 +2005,7 @@ OTR TG Statitistiques Télédéclaration	19303
 OVERVIEW OF STATISTICS PER ENFORCEMENT INTERVENTION	8354
 Oath PART III NATIONAL STATISTICAL SYSTEM	13305
 Office NSS National Statistical System NTT	13310
-Office National des Statistiques	15555
+Office National des Statistiques	15555,4319
 Office National des Statistiques URL	15346
 Office of Chief Government Statistician	11142,8377,36
 Office of Vital Statistics	16860
@@ -2692,6 +2699,7 @@ Statis	13310,2169,771,2676
 Statis-	17978,1259
 Statista	1363,1366,48,483,599,655,318,1508,3732,769,1016,137,237,443,2075,248,716,1401,949
 Statista. Available	12376
+Statista. Distribution	19874
 Statista. The Figure	17114
 Statisti	119
 Statistic	1363,6301,4188
@@ -2699,7 +2707,7 @@ Statistic Bureaus	16874
 Statistic Management	16944
 Statistic Prob. C	236
 Statistic SL	18488
-Statistical	115,1040,57,3220,1771,220,552,784,845,525,1851,218,3,36,57,284,7,309,11,101,361,247,29,35,28,193,2,58,351,33,16,59,61,619,496,125,58,83,2,759,40,64,12,1126,29,35,187,2,23,10,292,98,936,50,99,3,1,458,433,7,31,69,123
+Statistical	115,1040,57,3220,1771,220,552,784,845,525,1851,218,3,36,57,284,7,309,11,101,361,247,29,35,28,193,2,58,351,33,16,59,61,619,496,125,58,83,2,759,40,64,12,1126,29,35,187,2,23,10,292,98,936,50,99,3,1,458,433,7,31,69,123,138
 Statistical Abstract	12138
 Statistical Abstracts	12138
 Statistical Act	11860,2097,2982,2580
@@ -2808,7 +2816,7 @@ Statistical Standards	11237,7508
 Statistical Studies and Communication Division	19093
 Statistical Support and Informatics	11237
 Statistical Systcln	11852
-Statistical System	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,871,3504,223,1158,1408,1,169,14
+Statistical System	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,871,3504,223,1158,1408,1,169,14,22,1,65
 Statistical System Absence of Forced Migration	10835,3,130,902,16,466,1,135,7334
 Statistical System Child	10838
 Statistical System Coordination Unit	16863
@@ -2874,13 +2882,14 @@ Statistician-in-Chief	16833
 StatisticianGeneral	14594
 StatisticianGeneral. Clause	14594
 Statisticians	11860,507,401,204,2062,2082,2425
+Statisticians Yes No Health	19887
 Statisticians and CRVS TC	12367
 Statisticians and Situation Room Officers	18460
 Statisticiasnion	19526
 Statisticien	17845,446
 Statisticien Général Senior Publication	7675
 Statisticiens	15848,2443
-Statistics	7,315,256,383,282,18,553,130,150,681,114,587,128,134,46,1649,789,71,378,161,380,336,154,303,69,174,165,14,32,669,488,92,73,292,345,90,114,153,5,64,7,27,227,73,23,36,49,8,2,199,68,194,94,9,7,12,26,108,51,83,4,82,8,110,56,6,6,111,21,49,106,35,27,119,15,60,10,5,44,31,253,5,33,14,324,274,38,3,102,312,24,70,90,125,15,4,5,3,5,18,4,4,38,4,13,4,4,17,3,2,27,5,1,36,103,22,29,159,236,38,35,3,61,11,30,1,29,28,171,122,533,3,288,27,3,13,11,40,13,2,76,25,43,30,11,22,147,145,17,386,33,1,245,168,151,22,11,302,2,107,45,2,75,74,152,3,279,3,7,5,3,2,5,72,13,13,25,78,48
+Statistics	7,315,256,383,282,18,553,130,150,681,114,587,128,134,46,1649,789,71,378,161,380,336,154,303,69,174,165,14,32,669,488,92,73,292,345,90,114,153,5,64,7,27,227,73,23,36,49,8,2,199,68,194,94,9,7,12,26,108,51,83,4,82,8,110,56,6,6,111,21,49,106,35,27,119,15,60,10,5,44,31,253,5,33,14,324,274,38,3,102,312,24,70,90,125,15,4,5,3,5,18,4,4,38,4,13,4,4,17,3,2,27,5,1,36,103,22,29,159,236,38,35,3,61,11,30,1,29,28,171,122,533,3,288,27,3,13,11,40,13,2,76,25,43,30,11,22,147,145,17,386,33,1,245,168,151,22,11,302,2,107,45,2,75,74,152,3,279,3,7,5,3,2,5,72,13,13,25,78,48,97
 Statistics Access	13704
 Statistics Accreditation Committee. Stats SL	18475
 Statistics Acknowledgement The Somalia National Bureau	15085
@@ -2905,7 +2914,7 @@ Statistics Agency	1161,12225
 Statistics Agency NSS National Statistics System	12902
 Statistics Agency Zimbabwe National Chamber of Commerce	4528
 Statistics Amendment Act	11178,23,36,19
-Statistics Authority	12367
+Statistics Authority	12367,7520
 Statistics Awareness Day	8005,408
 Statistics Bill	12706,51,1837,2333,281,966,70,764
 Statistics Board	14719,15,33,61,3
@@ -3544,7 +3553,7 @@ UNCTAD World Investment Statistics	12376
 UNDP and Statistics Mauritius Launch the MauStats Platform	14767
 UNECA's African Centre for Statistics	14090
 UNECE Conference of European Statisticians	15244
-UNESCO Institute for Statistics	7548,3421,514,396,5,1,10,70,194,46,146,4,132,825,2,677,931,2020,928,1367
+UNESCO Institute for Statistics	7548,3421,514,396,5,1,10,70,194,46,146,4,132,825,2,677,931,2020,928,1367,625,3,42
 UNESCO Institute of Statistics	11860,1450,2294,4053
 UNESCO Institute of Statistics. UNESCO	19657
 UNHCR Statistics for Refugees and Asylum Seekers Burkina	15743
@@ -3573,7 +3582,7 @@ United Nations Statistical Commission	13305,5512
 United Nations Statistical Commission ABOUT	18464
 United Nations Statistical Division	16996
 United Nations Statistical Division. Team Lead	14895
-United Nations Statistics Division	10819,753,795,1595,1612,53,1315
+United Nations Statistics Division	10819,753,795,1595,1612,53,1315,2988
 United Nations. United Nations Statistical Division	12367
 United Republic of Tanzania Tanzania Statistical	19519
 Unité Statistique	9553,8277,15,133
@@ -3609,7 +3618,7 @@ Visa Statistique N	13300,90
 Visa Statistique du Ministre	16616
 Vision du Système Statistique National	15479
 Vital Statistical Record	12151
-Vital Statistics	200,453,8882,2603,229,46,946,120,117,1460,571,1206,27,1614,1052
+Vital Statistics	200,453,8882,2603,229,46,946,120,117,1460,571,1206,27,1614,1052,361
 Vital Statistics CSO Civil Society Organizations	18478
 Vital Statistics Community Engagement Strategic Plan	13596
 Vital Statistics Database Informants	12337
@@ -3625,7 +3634,7 @@ Vital Statistics Report The Inclusive Digital	13095
 Vital Statistics Report for Zimbabwe	13644
 Vital Statistics Report. First	12413,2643
 Vital Statistics Report. The Malawi Vital	13095
-Vital Statistics Reporting Year	15627
+Vital Statistics Reporting Year	15627,4303
 Vital Statistics Reports. Vital	12413
 Vital Statistics Section	12672
 Vital Statistics System	10765,10,1376,186,1,29,46,546,2097
@@ -3643,7 +3652,7 @@ W IPO Intellectual Property Statistics	12487
 WAPIS Work Stations	18486
 WB’s Statistical Capacity Score	13314
 WHAT’S NEW IN ICT STATISTICS Page	11424
-WIPO Intellectual Property Statistics	10969,915,11,264,1,44,1,146,4
+WIPO Intellectual Property Statistics	10969,915,11,264,1,44,1,146,4,7507
 WIPO Statistics Database	11883
 WOMEN’S EMPOWERMENT METRIC FOR NATIONAL STATISTICAL	17127
 Water Pumping Stations	12436

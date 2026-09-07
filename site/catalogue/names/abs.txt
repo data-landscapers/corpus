@@ -96,7 +96,7 @@ Absence of Additional Government Licenses	12389
 Absence of Additional Restrictions	12389
 Absence of Additional Taxes	12389
 Absence of Approved Loan Management Guideline	19585
-Absence of Armed Conflict	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Absence of Armed Conflict	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Absence of Armed Conflict Absence of Violence	10837,1315,188
 Absence of Armed Conflict1	11889
 Absence of Armed Conflict2	12352
@@ -104,12 +104,12 @@ Absence of Caps	12389
 Absence of Case Management System	12693
 Absence of Charges	12389
 Absence of Contingent Trade-Protective Measures	12389
-Absence of Corruption	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
-Absence of Crime	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Absence of Corruption	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Absence of Crime	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Absence of Cybersecurity Framework	13295
 Absence of Export Restrictions	12389
 Absence of Finance Measures	12389
-Absence of Forced Migration	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Absence of Forced Migration	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Absence of Forced Migration Trend Bouncing Back	11870
 Absence of Forced Migration and Laws	12153
 Absence of Forced Migration. Trend Bouncing Back	12353
@@ -119,7 +119,7 @@ Absence of Formal User Acceptance Testing	19584
 Absence of Formal User Account Management Procedures	19584
 Absence of Fossil Fuel Subsidy	12389
 Absence of General Directorate	14860
-Absence of Human Trafficking	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Absence of Human Trafficking	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Absence of Independent Oversight	6512
 Absence of Labor Market Tests for Foreign Contractual	12389
 Absence of Limits	12389
@@ -144,10 +144,10 @@ Absence of Restrictions	12389
 Absence of Restrictions Subject	12389
 Absence of Tanzania Severe	19534
 Absence of Tanzania Startup Policy	19534
-Absence of Undue Influence	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
-Absence of Violence	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Absence of Undue Influence	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Absence of Violence	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Absences	1988,8888,4151
-Absent	1723,105,854,1179,6227,1,1051,2160,4904
+Absent	1723,105,854,1179,6227,1,1051,2160,4904,1691
 Absent Agenda	4535
 Absent Open-Source Policy Frameworks	7921
 Absent the Middle East	7655
@@ -177,7 +177,7 @@ Abstention	12201,3526,520
 Abstentions	6613
 Abster-se	10755,675,98
 Abstinence	13300
-Abstract	680,86,5,441,7,29,13,832,30,825,778,56,9,19,335,287,302,247,439,606,519,1035,82,69,79,76,80,109,97,13,671,12,1,122,230,11,132,375,148,994,94,10,38,5,79,28,443,15,3,66,265,98,73,98,3,32,11,13,70,286,53,43,1019,397,201,445,327,50,17,683,287,887,628,112,12,1,872,318,321,261,68,127
+Abstract	680,86,5,441,7,29,13,832,30,825,778,56,9,19,335,287,302,247,439,606,519,1035,82,69,79,76,80,109,97,13,671,12,1,122,230,11,132,375,148,994,94,10,38,5,79,28,443,15,3,66,265,98,73,98,3,32,11,13,70,286,53,43,1019,397,201,445,327,50,17,683,287,887,628,112,12,1,872,318,321,261,68,127,141,19
 Abstract ABSTRACT	17750
 Abstract ABSTRACT Tourism	17751
 Abstract AI	7451
@@ -348,7 +348,7 @@ PROJECT Absence	15411
 PUBLIC ADMINISTRATION Absence of Armed Conflict	10835,3,130,902,16,466,1,135,7334
 PUBLIC ADMINISTRATION Absence of Violence	10835,3,130,902,16,466,1,135,7334
 Participation Absence of Corruption	10759
-Political Stability and Absence of Violence	14897,2099
+Political Stability and Absence of Violence	14897,2099,2935
 President Advocate Duma Boko and Absa Bank	10051
 Pressure Swing Absorption Oxygen	12956
 Priorité Absolue S1	9824

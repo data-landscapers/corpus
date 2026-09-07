@@ -65,6 +65,8 @@ Biometric Identity Card	12597
 Biometric Identity Card FIDO Fast Identity	12663
 Biometric Identity Card No N	10714
 Biometric Identity Card and Passport	1688
+Biometric National Identity Card	19900
+Biometric National Identity Card Established	19900
 Biometric National Identity Card No N	10714
 Biometric National Identity Cards	11716,369
 Biometric Resident Identification Card	16841
@@ -208,7 +210,7 @@ Cardorelle	16177
 Cardoso	2397,444,891,15091
 Cardoza	12948
 Cardozo Arts Entertain Law J	17773
-Cards	1655,1117,4149,5034,455,505,69,2535,1716
+Cards	1655,1117,4149,5034,455,505,69,2535,1716,2632,62
 Cards Issued	16374
 Cards Prepaid Cards Mobile Money Subscribers	6978
 Cards Printed	16374
@@ -246,6 +248,8 @@ Current Nat'l ID Card	3092
 Cyber Monday. Card	17429
 D Card	16983
 DAILY CARD REPLACEMENT RATE	8999
+DC. Application for Temporary Identification Card	19921
+DC. Requirements for Applying National Identity Card	19921
 DGIS Ednalva Cardoso Diretora Geral Leodomilo	15694
 DHIS2 School Report Card Initiative Research	16909
 Daily Card Replacements	8999
@@ -253,7 +257,7 @@ Daily Card Replacements Daily Run	8999
 Death Death Cardiorespirato- Cardiopulmo-	12151
 Debit Card	19702
 Debit Card Users Decrease	11994
-Debit Cards	17235
+Debit Cards	17235,2640
 Debit Cards Credit Cards Figure	15023
 Debit and Credit Cards	12392,1140
 Department of Transport’s Driving License Card Account	2521
@@ -270,6 +274,7 @@ Directorate Departments of Nationality and ID Cards	18595
 Disability Card	12916,3094
 Diseases Cardio Pul-	12151
 Diseases Cardiopulmo-	12151
+Distribution of New Eritrean ID Cards	19921
 Domingos Cardoso	5791,1056,233,86,174,4122,635
 Dra. Ana Celeste Cardoso Direitos Humanos	10750
 Driver Vocational Cards Management System. Transport	718
@@ -367,6 +372,7 @@ Gold Cards	8999
 Gold Cards Outdoor Media	8999
 Government Services Card	9625,97,6324
 Governor Olayemi Cardoso	2841,3858
+Green Card	19927
 Guinea-Bissau Guyana National ID Card	10714
 Guyana Identification Card No N	10714
 HESTSLATIVE AND STATUTORY APFAIRS CARDYNDEX DERMEEE	15999
@@ -494,6 +500,7 @@ Mauritius National Identity Card Unit	14741,106
 Mauritius National Identity Card Unit Provides	14741
 Mauritius National Identity Card Unit. Jan	14741
 Mauritius Smart National ID Card	14729
+Meeza Card	19901
 Member IDD04 Claudia Cardelli Team Member	1284
 Merchants ATMs POS Debit Cards Credit	6978
 Million Cards	6204
@@ -563,7 +570,7 @@ National Identification Card System	16983
 National Identification Card System. SECTION	16841
 National Identification Cards	3645,4118,1057,1701,1747
 National Identification Cards. Sesay	8820
-National Identity Card	1263,116,584,400,4111,1170,201,744,727,1398,61,47,894,369,80,52,9,100,2389,1,24,1,37,55,10,379,171,22,15,759,1190,158,1058,348,98,696,13
+National Identity Card	1263,116,584,400,4111,1170,201,744,727,1398,61,47,894,369,80,52,9,100,2389,1,24,1,37,55,10,379,171,22,15,759,1190,158,1058,348,98,696,13,116,34
 National Identity Card Act	1379,13336,1,24,4203
 National Identity Card National ID System	10714
 National Identity Card No BRR Cabo	10714
@@ -573,6 +580,8 @@ National Identity Card No N	10714
 National Identity Card Number	14713,110
 National Identity Card Numbers	15393
 National Identity Card Regulations	2363,12377
+National Identity Card Service	19866
+National Identity Card Sources	19921
 National Identity Card URL	19041
 National Identity Card Unit	14716,62
 National Identity Card Yes F25 Aug	10714
@@ -620,6 +629,7 @@ Nvidia's GPGPU and Intel MIC Card	9475
 OETR STIVÉ AND-STATUTORY AFFAIRS CARD INDEX	15999
 ORIGINAL IDENTITY CARD	14740
 Obtain Seychelles Virtual ID Card	19041
+Obtain the National Identity Card	19921
 Olayemi Cardoso	2397,3483,3106
 Olayemi Cardoso. Nigeria	3732
 Oman Omani ID Card Yes N	10714
@@ -645,6 +655,7 @@ Payment Card Industry Data Security Standards	16878
 Payment Card Industry PIN	11955
 Payments Card Industry Payment	12286
 People Service Card	2536
+Permanent Residence Card	19927
 Permanent Voter Card	8551
 Permanent Voter Cards	10054
 Permanent Voter’s Card	7314,594
@@ -665,6 +676,7 @@ Postbank Card Replacement Update Postbank Card	8999
 Prepaid Cards	16878
 Prepaid Cards Mobile Banking Subscribers Internet	4517
 President Ould Tah's Four Cardinal Points	16784
+Prevalence of Fraudulent Identity Cards Sources	19921
 Prime Minister’s Office- National ID Card	14778
 Printing of Voter ID Card	18531
 Program Specific ID Cards. Social Protection	12533
@@ -712,6 +724,7 @@ Repeal The National Identity Cards Act	12648
 Replacement of Card	16088
 Replacement of National Identity Card	19041
 Replacing the Voter Card Law No	11864
+Requirements for Applying National Identity Card and Social	19921
 Residence Permit Card	18702
 Residence Permit Card System	14830
 Resident Foreigner Identity Card. NRB	12217
@@ -735,6 +748,7 @@ SIM Card Registration	15120
 SIM Card Registration Experiences	4439
 SIM Card Registration Guidelines	15120
 SIM Card Registration Regulation	15120
+SIM Card Replacement Customers	19867
 SIM Card Surveillance	6946
 SIM Card Surveillance and Network Facility	6946
 SIM Card The SIM	582
@@ -762,6 +776,7 @@ School Report Card and Disability Inclusion Guidelines	12347
 School Report Card. The SRC	16911
 School Report Cards	4829,12080,2867
 School Report Cards. The DHIS2 EMIS	1017
+Scratch Card Number	19929
 Search for Historical National Registration Card Records	10347
 Securitized National Identity Card	18471
 Securitized and Multipurpose Biometric ID Cards	18471

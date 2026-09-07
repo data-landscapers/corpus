@@ -338,6 +338,7 @@ Joint Board and Receiver Statement	9914
 KING RECEIVES TAIWAN INTELLIGENCE CHIEF	13252
 Kasaï Central. Recensement	15670
 Kenya and Tanzania. Recently	12233
+Key Recent Litigation	19890
 L'Office Burundais des Recettes	5077,8613
 LEI DO RECENSEAMENTO ELEITORAL	11528
 LIBELLE DE LA RECETTE	15999
@@ -644,7 +645,7 @@ Receive Trip Details	17687
 Receive With Confidence	12745
 Receive and Register	17099,15
 Receive- Type	998
-Received	22,396,801,1299,4694,598,566,226,1,1,1,1,148,374,1,108,416,86,33,1008,4,1462,9,1170,1231,10,457,1709,12,32,13,154,207,523,7,1739,183,44
+Received	22,396,801,1299,4694,598,566,226,1,1,1,1,148,374,1,108,416,86,33,1008,4,1462,9,1170,1231,10,457,1709,12,32,13,154,207,523,7,1739,183,44,154
 Received Date	11276
 Received Feedback	9772
 Received Finalized Stock	12500
@@ -665,7 +666,7 @@ Receives	16942,425,1870
 Receives Briefing	15070
 Receives First Reading	17208
 Receives Receives	19237
-Receiving	18,3346,4225,582,559,167,144,32,364,129,170,978,484,663,528,321,259,563,49,1255,2090,213,2500,88,68
+Receiving	18,3346,4225,582,559,167,144,32,364,129,170,978,484,663,528,321,259,563,49,1255,2090,213,2500,88,68,83
 Receiving Donations Article	15393
 Receiving Emails	19702
 Receiving ID	12947
@@ -717,7 +718,7 @@ Recensement des Propriétaires des Propriétés	13689
 Recensements	10875,6603,691,784
 Recensements DI Division Informatique	18169
 Recenser	10876,3697,3299,1349,141
-Recent	233,728,8,274,41,544,59,209,422,108,41,159,187,339,231,21,202,42,279,301,86,334,124,70,203,140,148,73,306,256,58,7,199,84,77,337,8,179,241,1,186,166,20,59,86,10,80,56,125,2,125,9,18,125,214,52,177,21,239,20,6,279,7,298,117,21,19,57,179,56,242,120,214,117,116,31,108,4,9,6,269,45,55,25,11,261,59,44,76,25,32,33,118,19,6,53,11,4,32,36,133,115,46,258,27,366,17,1,15,11,29,145,201,8,274,84,2,41,48,253,79,43,99,2,8,49,274,132,9,56,53,164,62,45,32,54,17,40,263,126,334,270,207,41,64,30,15,146,52,48,107,175,18,312,1,120,303,207,116,193,42,28,8,350,8,39,71,165,254,27,25,21
+Recent	233,728,8,274,41,544,59,209,422,108,41,159,187,339,231,21,202,42,279,301,86,334,124,70,203,140,148,73,306,256,58,7,199,84,77,337,8,179,241,1,186,166,20,59,86,10,80,56,125,2,125,9,18,125,214,52,177,21,239,20,6,279,7,298,117,21,19,57,179,56,242,120,214,117,116,31,108,4,9,6,269,45,55,25,11,261,59,44,76,25,32,33,118,19,6,53,11,4,32,36,133,115,46,258,27,366,17,1,15,11,29,145,201,8,274,84,2,41,48,253,79,43,99,2,8,49,274,132,9,56,53,164,62,45,32,54,17,40,263,126,334,270,207,41,64,30,15,146,52,48,107,175,18,312,1,120,303,207,116,193,42,28,8,350,8,39,71,165,254,27,25,21,43,5
 Recent AI Factories and Gigafactories	6879
 Recent AU African Position	1814
 Recent Actions	18931
@@ -725,8 +726,9 @@ Recent Angola	10781
 Recent Articles	15833,2397
 Recent Audited Financial Statements	12686
 Recent Bulletins Loading	17136
+Recent Case Law	19890
 Recent Comments	8639,1766
-Recent Developments	2775,8000
+Recent Developments	2775,8000,9115
 Recent Economic Developments	11136,135,3758,723,1244,261
 Recent Economic Developments Growth	17257
 Recent Economic Developments Honourable Chairperson	12962
@@ -737,6 +739,7 @@ Recent Economic Developments and Outlook External	11136
 Recent Economic Developments and Outlook Figure	11136
 Recent Economic Developments and Outlook Overall	11136
 Recent Economic Developments and Outlook Table	11136
+Recent Elections	19857
 Recent Examples	16811
 Recent FM	10829
 Recent GSMA	9349
@@ -760,6 +763,7 @@ Recent Safeguard Assessments	15102
 Recent Sexual Activity	15247
 Recent Survey	14897
 Recent Tax Administration Reforms Liberia	17011
+Recent Trends	19890
 Recent Visits From India	2667
 Recent World Bank	11417,1479
 Recent Years Table	13053
@@ -768,7 +772,7 @@ RecentIssue.jsp	8022
 Recentemente	2365,11947,1939
 Recenter RECs	11149
 Recentering the Civic Internet	1071,16674
-Recently	1880,49,378,11,72,176,126,326,216,43,94,511,238,115,191,112,293,24,432,679,172,294,402,461,891,8,408,627,77,762,117,406,172,12,29,158,192,528,185,13,114,44,172,88,3,36,39,19,527,122,60,242,278,158,32,54,322,546,10,151,563,20,1308,128,19,7,163,123,641,1,146,88,205,255,231,2,134,726,5
+Recently	1880,49,378,11,72,176,126,326,216,43,94,511,238,115,191,112,293,24,432,679,172,294,402,461,891,8,408,627,77,762,117,406,172,12,29,158,192,528,185,13,114,44,172,88,3,36,39,19,527,122,60,242,278,158,32,54,322,546,10,151,563,20,1308,128,19,7,163,123,641,1,146,88,205,255,231,2,134,726,5,190
 Recently Pope Leo XIII	6231
 Recently Upgraded Infrastructure	6432
 Recentrer	17860
@@ -783,9 +787,10 @@ Recepcionista Embajada A2	4209
 Recepcionista Embajada A3	4209
 Recepción	16855
 Receptacles	9123
-Reception	11177,1202,2802,1662
+Reception	11177,1202,2802,1662,3057
 Reception Centre	15181
 Reception Office RT Transversal Term	11218
+Reception and Orientation	19900
 Reception and Reintegration of Refugees	2823
 Reception and Reintegration of Refugees and Repatriates	10841
 Reception des Appels	14662

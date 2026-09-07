@@ -19,6 +19,8 @@ Academic Journal of Interdisciplinary Studies	2093
 Academy Journal of Small Business and Enterprise Development	9129
 Academy of Management Journal	5349
 Advanced Research Journal	5463
+Afak Journal of Management and Economics Sciences	19900
+Afak Journal of Sciences	19900
 Africa. African Human Rights Law Journal	2518
 Africa. Journal of Asian and African Studies	16916
 Africa. Journal of Asian and African Studies. Ibrahim	16916
@@ -35,7 +37,7 @@ African Journal of Information Systems	8856
 African Journal of Information and Communication	12948
 African Journal of Innovation and Entrepreneurship	6948
 African Journal of Inter	7759
-African Journal of Land Policy and Geospatial Sciences	12369
+African Journal of Land Policy and Geospatial Sciences	12369,7505
 African Journal of Library	8022
 African Journal of Primary Health	2948
 African Journal of Public Affairs	4432
@@ -48,10 +50,15 @@ Ahead of Competitors. Search Engine Journal Available	13461
 Ahras Tipaza JOURNAL OFFICIEL	15690
 Aimé Ange Wilfrid BININGA Journal	15692
 Al Jazeera Media Institute. Journalists	15342
+Al-Mufakir Journal	19900
 Alger. Journal	17982
+Algeria. Afak Journal of Management and Economic Sciences	19900
+Algeria. Journal of Legal and Political Sciences	19900
+Algeria. Journal of Legal and Political Studies	19900
 Alphonse Claude N’SILOU Journal	15615
 American Economic Journal	12948,5370
 American Journal of Climate Change	19284
+American Journal of Economics and Sociology	19874
 American Journal of Industrial and Business Management	7759
 American Journal of Preventative Medicine	19654
 American Journal of Preventive Medicine. Vol	11560
@@ -117,6 +124,7 @@ Call Joule Discovery Lab Joule Open	16348
 Calls for Investigation Journalist Alfred Togba	8835
 Cameroon. IJNRD2504292 International Journal Of Novel	10979
 Caractéristique Jouets Jouets de Objets du Effectif	13300
+Case of Children's Health Insurance. Journal	19889
 Cecilia Rikap Journal	17760
 Center For Investigative Journalism	5247
 Center for Journalism and Liberty	5700
@@ -198,12 +206,14 @@ Economics and Journalism	4896
 Education Special Edition. The IAFOR Journal	14965
 Educational Journal	2093
 Egypt CRVS Journey	16520
+Egypt's Pioneering Journey Towards Financial Inclusion	19875
 Electronic Journal	12467
 Electronic Journal of Information Systems	5349,5377,7024,1
 Electronic Journal of Knowledge Management	8021
 Electronic Journals and Scientific Databases In Ministry	12325
 Emile OUOSSO Journal	15848
 Emilie Jourdan	17870
+Empowering Every Ability Egypt's Pioneering Journey	19875
 English First Additional Language. Journal of Curriculum	6832
 Entrepreneur Journey	3907
 Era of Technology. African Journal of Information Systems	11927
@@ -381,6 +391,7 @@ International Journal of Tourism Research	6948
 International Journal of Urban Sustainable Development	15473
 International Journal of Water Resources Development	17701
 International Journalism	6946
+International Meetings and Journals Research Association	19900
 International Research Journal of Education and Technology	8022
 International Small Business Journal	2093
 Investigative Journalists	3279,85
@@ -470,7 +481,7 @@ Jour Ouwable de Banque	15399
 Jour de Fixation	15901
 Jour-	8605
 Jourceli Tiny	18841
-Journal	311,8,116,417,334,19,43,89,249,1,237,13,253,6,422,1199,653,1,1,1,1,1,1,27,18,44,75,1,43,1,1,1,1,282,830,207,682,370,193,140,54,413,8,254,1,581,2,1,144,379,61,42,589,183,689,183,2,16,6,2,19,54,164,17,331,80,79,360,234,38,189,19,22,39,165,214,172,683,147,480,50,1,4,25,1,1,10,37,809,1,7,6,2,17,15,1,10,5,3,7,6,5,1,7,16,1,5,4,2,21,19,6,11,1,9,11,6,2,5,22,4,4,6,4,4,1,4,1,4,3,45,30,1,1,8,3,19,10,12,3,20,13,6,6,56,15,38,29,3,10,94,2,8,33,5,15,48,1,22,6,53,5,12,1,15,11,21,27,22,23,3,43,12,31,160,19,112,132,117,161,581,25,32,17,2,3,2,1,1,5,1,1,1,4,4,4,1,19,9,4,25,3,80,21,29,74,181,9,15,7,14,68,2,1,24,455,19,71,164,73,1,2,1,5,42,118,6,1,1,1,2,2,2,5,2,36,11,8,2,38,159
+Journal	311,8,116,417,334,19,43,89,249,1,237,13,253,6,422,1199,653,1,1,1,1,1,1,27,18,44,75,1,43,1,1,1,1,282,830,207,682,370,193,140,54,413,8,254,1,581,2,1,144,379,61,42,589,183,689,183,2,16,6,2,19,54,164,17,331,80,79,360,234,38,189,19,22,39,165,214,172,683,147,480,50,1,4,25,1,1,10,37,809,1,7,6,2,17,15,1,10,5,3,7,6,5,1,7,16,1,5,4,2,21,19,6,11,1,9,11,6,2,5,22,4,4,6,4,4,1,4,1,4,3,45,30,1,1,8,3,19,10,12,3,20,13,6,6,56,15,38,29,3,10,94,2,8,33,5,15,48,1,22,6,53,5,12,1,15,11,21,27,22,23,3,43,12,31,160,19,112,132,117,161,581,25,32,17,2,3,2,1,1,5,1,1,1,4,4,4,1,19,9,4,25,3,80,21,29,74,181,9,15,7,14,68,2,1,24,455,19,71,164,73,1,2,1,5,42,118,6,1,1,1,2,2,2,5,2,36,11,8,2,38,159,225
 Journal Alousséni SANOU	18003
 Journal Burkinabè	10874
 Journal Citation Reports	11898
@@ -650,8 +661,12 @@ Journal of Language and Politics	11028
 Journal of Law	9759,1551
 Journal of Law and Policy	1243
 Journal of Law and Political Economy	2096
+Journal of Law and Political Sciences	19900
 Journal of Learning Analytics	8602
 Journal of Legal Analysis	18318
+Journal of Legal and Political Sciences	19900
+Journal of Legal and Political Studies	19900
+Journal of Legal and Social Sciences	19900
 Journal of Library Resource Sharing	8022
 Journal of Local Government Research and Innovation	2948
 Journal of Management	226,9011
@@ -743,7 +758,7 @@ Journalistes Réalisateurs	17899
 Journalistes-Réalisateurs	17899
 Journalistes-Réalisateurs BUREAU COMMUNICATION Commissaires	17899
 Journalistes-Réalisateurs Commissaires	17899
-Journalistic	10908,142,2271
+Journalistic	10908,142,2271,6601
 Journalists	2456,565,1542,190,330,311,222,438,1,738,853,505,319,278,334,63,106,409,124,698,529,1084,561,993,465,163,77,630,23,335,503,1173,81,141,971,646,798
 Journalists Registration Guidelines	17251
 Journalists Syndicate	16568
@@ -801,6 +816,7 @@ Julia Elizabeth Rodríguez Acosta Journal	17762
 Jumuga Journal of Education	7886
 Kenya Union of Journalists	17745
 Kenya. Journal of Strategic Management	7548
+Kerroum Mohamed Journal	19881
 Koranteng-Acquah and Leonelli Data Science Journal DOI	12090
 LA COLONNE JOUR CORRESPONDANTE POUR	13300
 LA MISE A JOUR DES DONNEES	17902

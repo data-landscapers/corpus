@@ -99,7 +99,7 @@ AU Commissioner for Political Affairs	7794
 AU RÉFÉRENDUM ET A LA COMMISSION	18101
 AU Specialized Technical Committee	4103
 AU-ETTIM Commissioner H.E. Francisca Tatchouop Belobe	9162
-AUC African Union Commission	11887,266,1,9,178
+AUC African Union Commission	11887,266,1,9,178,7517,1
 AUC African Union Commission BOT Balance	16935
 AUC Commissioner for ARBE	11283
 AUC and CEMAC Commission	18887
@@ -153,6 +153,7 @@ Ad-Hoc Strategic Planning Committee	16943
 Ad-Hoc Strategic Planning Committee The Strategic	16943
 Adam Commission Mobilisation	18032
 Address The National Telecommunications Commission	18444
+Addressing Committee	19894
 Addressing the Appointments Committee	14221
 Adhoc Committee	14835
 Adjudant LEKINGANI Ferdinand. COMMISSARIAT GENERAL	16099
@@ -196,6 +197,7 @@ African Financial Stability Committee	4103,2835,1801
 African Island States Climate Commission	10348,72
 African Network of Information Commissions General Assembly	13030
 African Revenue Service SCRA Standing Committee	5533
+African Union African Commission	19931
 African Union Commission	578,383,116,84,82,21,13,180,357,868,207,169,929,116,20,664,305,152,58,739,209,417,123,207,139,119,71,203,264,1,156,1,476,320,415,32,415,407,153,307,673,134,769,81,573,198,38,20,10,5,86,46,331,17,23,149,509,138,18,134,58,25,11,202,514,693,213,212,15,334,25,85,48,51,13,30,64,54,9,55,18,385,25,178,177,470,100,12,181,202,11,110,645,69,114
 African Union Commission Andrew Dabalen	11839
 African Union Commission Department Tags	13109
@@ -656,6 +658,7 @@ COMMISSION NATIONALE Déclaration	998
 COMMISSION NATIONALE D’INTEGRATION DECRET N	18032
 COMMISSION NATIONALE POUR	15999
 COMMISSION ON HUMAN RIGHTS	13131
+COMMISSION ON SCIENCE AND TECHNOLOGY	19904
 COMMISSION Proceedings	12145
 COMMISSION S77 Connected Uganda	9781
 COMMISSION STAFF WORKING DOCUMENT EVALUATION Accompanying	18985
@@ -947,7 +950,7 @@ Commissariats	10891
 Commissbnerfor Refugees	16836
 Commissio	15580,1292
 Commissio Côte	15712
-Commission	7,18,88,195,159,77,4,95,1,93,52,110,41,21,7,2,2,60,186,2,21,2,38,15,3,34,18,107,16,80,43,33,16,36,55,7,57,6,7,95,16,1,38,24,2,72,1,46,209,59,2,157,47,19,63,88,52,1,3,17,167,25,98,65,40,5,62,52,14,7,23,12,7,8,17,37,16,101,1,1,27,55,37,11,11,62,11,20,6,38,79,4,33,12,112,1,23,4,32,87,117,9,48,65,1,39,53,2,77,1,15,11,26,17,8,19,16,27,27,23,20,17,50,14,45,6,19,57,35,4,15,5,8,99,1,35,4,18,41,10,10,189,22,126,32,93,1,20,19,7,35,144,15,20,102,7,12,34,24,27,4,9,64,53,46,7,1,1,35,70,38,128,7,17,4,16,79,36,26,3,2,4,4,54,75,35,23,3,5,3,19,4,39,74,29,36,9,17,53,14,11,2,1,20,29,28,19,12,1,39,30,31,3,21,63,12,10,24,27,4,20,6,4,2,11,79,25,42,58,6,18,12,5,5,18,42,14,2,29,46,49,3,25,1,22,2,22,48,44,30,14,1,2,26,38,38,29,23,5,1,17,4,6,14,21,1,4,14,3,84,26,5,23,42,25,3,83,7,8,5,1,22,7,6,39,32,18,78,24,1,23,59,2,70,43,51,1,32,19,55,76,35,2,95,12,49,15,1,20,43,18,13,5,55,46,107,3,4,22,3,47,3,1,108,20,27,9,21,31,68,92,8,46,37,1,6,2,4,16,1,32,2,33,14,42,10,75,17,34,32,1,4,13,3,1,12,18,8,26,23,5,3,12,17,13,21,204,28,3,15,247,16,38,36,15,1,28,12,20,17,6,55,8,51,21,2,9,56,31,21,40,6,32,64,20,29,9,12,7,40,34,2,1,48,54,1,101,129,1,20,2,4,2,2,7,8,1,1,2,4,13,7,5,11,5,5,22,8,28,26,62,50,11,9,20,30,19,20,3,14,6,4,2,5,4,20,7,8,15,6,24,33,4,19,1,22,9,11,20,69,36,11,69,49,59,59,32,6,34,16,4,36,82,41,33,15,12,105,7,26,6,1,19,61,76,1,1,7,40,2,7,3,80,1,5,23,15,13,27,10,19,6,3,7,17,29,5,3,7,11,11,2,1,1,4,3,1,12,19,34,109,246,38,1,21,17,2,5,4,1,1,8,1,2,15,10,6,18,3,3,3,7,4,15,7,6,1,2,14,5,3,4,7,4,1,41,2,25,3,1,10,5,4,2,16,50,5,11,16,9,8,2,5,1,63,34,6,14,56,26,9,6,3,28,26,48,52,1,39,18,2,18,33,33,4,3,17,14,6,45,38,11,1,5,24,8,37,15,33,7,10,53,41,1,11,6,1,10,32,31,29,47,47,5,1,7,8,7,14,4,7,4,13,50,1,7,12,3,5,18,23,86,34,82,7,8,2,22,35,9,31,15,5,9,16,60,21,7,1,13,29,8,40,53,13,29,24,20,65,17,36,1,2,8,1,1,1,3,9,2,3,1,13,9,9,2,18,16,19,2,9,33,4,1,10,2,21,16,29,1,1,17,10,4,7,64,21,13,18,9,33,3,5,19,2,1,2,5,2,3,1,7,1,4,8,1,4,12,24,23,8,18,25,1,4,2,1,7,3,2,1,1,6,2,10,8,3,11,22,31,1,23,6,10,1,12,135,147,11,27,1,28,30,1,57,15,31,9,4,7,5,16,10,8,3,11,36,23,1,6,7,9,7,1,40,14,16,115,8,13,17,44,12,4,14,37,7,44,36,40,16,6,3,8,8,11,41
+Commission	7,18,88,195,159,77,4,95,1,93,52,110,41,21,7,2,2,60,186,2,21,2,38,15,3,34,18,107,16,80,43,33,16,36,55,7,57,6,7,95,16,1,38,24,2,72,1,46,209,59,2,157,47,19,63,88,52,1,3,17,167,25,98,65,40,5,62,52,14,7,23,12,7,8,17,37,16,101,1,1,27,55,37,11,11,62,11,20,6,38,79,4,33,12,112,1,23,4,32,87,117,9,48,65,1,39,53,2,77,1,15,11,26,17,8,19,16,27,27,23,20,17,50,14,45,6,19,57,35,4,15,5,8,99,1,35,4,18,41,10,10,189,22,126,32,93,1,20,19,7,35,144,15,20,102,7,12,34,24,27,4,9,64,53,46,7,1,1,35,70,38,128,7,17,4,16,79,36,26,3,2,4,4,54,75,35,23,3,5,3,19,4,39,74,29,36,9,17,53,14,11,2,1,20,29,28,19,12,1,39,30,31,3,21,63,12,10,24,27,4,20,6,4,2,11,79,25,42,58,6,18,12,5,5,18,42,14,2,29,46,49,3,25,1,22,2,22,48,44,30,14,1,2,26,38,38,29,23,5,1,17,4,6,14,21,1,4,14,3,84,26,5,23,42,25,3,83,7,8,5,1,22,7,6,39,32,18,78,24,1,23,59,2,70,43,51,1,32,19,55,76,35,2,95,12,49,15,1,20,43,18,13,5,55,46,107,3,4,22,3,47,3,1,108,20,27,9,21,31,68,92,8,46,37,1,6,2,4,16,1,32,2,33,14,42,10,75,17,34,32,1,4,13,3,1,12,18,8,26,23,5,3,12,17,13,21,204,28,3,15,247,16,38,36,15,1,28,12,20,17,6,55,8,51,21,2,9,56,31,21,40,6,32,64,20,29,9,12,7,40,34,2,1,48,54,1,101,129,1,20,2,4,2,2,7,8,1,1,2,4,13,7,5,11,5,5,22,8,28,26,62,50,11,9,20,30,19,20,3,14,6,4,2,5,4,20,7,8,15,6,24,33,4,19,1,22,9,11,20,69,36,11,69,49,59,59,32,6,34,16,4,36,82,41,33,15,12,105,7,26,6,1,19,61,76,1,1,7,40,2,7,3,80,1,5,23,15,13,27,10,19,6,3,7,17,29,5,3,7,11,11,2,1,1,4,3,1,12,19,34,109,246,38,1,21,17,2,5,4,1,1,8,1,2,15,10,6,18,3,3,3,7,4,15,7,6,1,2,14,5,3,4,7,4,1,41,2,25,3,1,10,5,4,2,16,50,5,11,16,9,8,2,5,1,63,34,6,14,56,26,9,6,3,28,26,48,52,1,39,18,2,18,33,33,4,3,17,14,6,45,38,11,1,5,24,8,37,15,33,7,10,53,41,1,11,6,1,10,32,31,29,47,47,5,1,7,8,7,14,4,7,4,13,50,1,7,12,3,5,18,23,86,34,82,7,8,2,22,35,9,31,15,5,9,16,60,21,7,1,13,29,8,40,53,13,29,24,20,65,17,36,1,2,8,1,1,1,3,9,2,3,1,13,9,9,2,18,16,19,2,9,33,4,1,10,2,21,16,29,1,1,17,10,4,7,64,21,13,18,9,33,3,5,19,2,1,2,5,2,3,1,7,1,4,8,1,4,12,24,23,8,18,25,1,4,2,1,7,3,2,1,1,6,2,10,8,3,11,22,31,1,23,6,10,1,12,135,147,11,27,1,28,30,1,57,15,31,9,4,7,5,16,10,8,3,11,36,23,1,6,7,9,7,1,40,14,16,115,8,13,17,44,12,4,14,37,7,44,36,40,16,6,3,8,8,11,41,88
 Commission A.140	12549
 Commission A.148	12549
 Commission ADR Alternative Dispute Resolution CBOs	18477
@@ -1758,6 +1761,7 @@ Committee for Gracious Appeals	18125
 Committee for Hydrocarbon Subsidies	16902
 Committee for Hydrocarbon Subsidies. A Study of Hydrocarbon	16902
 Committee for International Development Cooperation	11487
+Committee for Justice	19854
 Committee for Monitoring Economic Programs	10964
 Committee for Refugee Assistance CNARR National Commission	10841
 Committee for Spatial Data	12899,8
@@ -2466,7 +2470,7 @@ Education Sector Steering Committee	12175
 Education Steering Committee	8609,10470
 Education Transformation Committee	13204
 Effective Date. COMPETITION COMMISSION	13462
-Egyptian Commission for Rights and Freedoms	11079
+Egyptian Commission for Rights and Freedoms	11079,8775
 Egyptian-Indian Joint Trade Committee	9332
 Election Commission	10822
 Election Commission of India. H.E. Mr. Marcel	16164
@@ -2745,6 +2749,7 @@ FAO Committee	16937
 FASUCE Fund Committee	4798
 FAWEZI Executive Committee	13671
 FG Inaugurates Presidential Committee	2934
+FIG Commission	19874
 FINAL DECISION OF THE COMMISSION	13178
 FINAL REPORT REPORT COMMISSION	16861
 FINANCE AND AUDIT COMMITTEE This Committee	718
@@ -3120,7 +3125,7 @@ High Commissioner H.E Mr. Amararam Gujar	13029
 High Commissioner H.E. Innocent B. Muhizi	9885
 High Commissioner for Digitalisation	3775,1967
 High Commissioner for Digitalisation Meriem Benmouloud	5742
-High Commissioner for Digitalization	2262,158,1411,11848
+High Commissioner for Digitalization	2262,158,1411,11848,4234
 High Commissioner for Digitalization Meriem Benmouloud	2845
 High Commissioner for Digitization	2790
 High Commissioner for Human Rights	3583,544,2820
@@ -3492,7 +3497,7 @@ International Commission	736,222,10578,1413,3188,102,2746
 International Commission of Jurists	1642,9008,435
 International Commission of Jurists Kenya Section	12227
 International Commitments	13381,3986,2387
-International Commitments ICCPR	10908
+International Commitments ICCPR	10908,9014
 International Commitments Liberia	17367
 International Committee	7147,3694,315,42,4144
 International Committee of Medical Journal Editors	11585
@@ -3789,6 +3794,7 @@ Legislation Committee	12737,11
 Legislative Committee	18436,83
 Legislative Committee. Civil Society	18522
 Legislative Committees	16843
+Legislative and Constitutional Affairs Committee	19873
 Leone’s Judicial and Legal Service Commission	18477
 Leribe and Berea. The Commission	12753
 Les Commissions	11932,3418,234,2233,284
@@ -4292,6 +4298,7 @@ National Committee CPSD for Monitoring the Implementation	17870
 National Committee Morocco Mr. Khaled Barrada	2958
 National Committee for AI and Data Governance	2557
 National Committee for Combating Desertification	17157
+National Committee for Combating Illegal Migration and Human	19873
 National Committee for Digital Governance	969
 National Committee for Financial Inclusion	18770
 National Committee for Monitoring the Implementation	17870
@@ -4355,7 +4362,7 @@ National Election Commission Act	18717
 National Elections Commission	3092,145,2,2236,3385,103,249,915,218,4507,2131,10,77,226,62,61,1186,137
 National Elections Commission NREN	14879,1993
 National Electoral Commision	12201
-National Electoral Commission	2571,6828,1376,1426,170,1,1046,1500,3522,6,3,6,76,1010
+National Electoral Commission	2571,6828,1376,1426,170,1,1046,1500,3522,6,3,6,76,1010,327
 National Electoral Commission.17	9399
 National Electronic Licensing Committee	14850
 National Electronic Payment Switch Implementation Commit	16876
@@ -5551,6 +5558,7 @@ South Sudan Sanctions Committee	3583
 South Sudan's Anti-Corruption Commission	3583
 South Sudan's Ministerial High-Level Committee	14298
 South Sudan's National Election Commission	18717
+Southern Africa United Nations Economic Commission	19931
 Southern African Development Committee	19650
 Southern African Development Community Committee	12432,252
 Southern Sudan Human Rights Commission	18596
@@ -5934,7 +5942,7 @@ UNECA United Nations Economic Commission for Africa	13295,6344
 UNESCO Broadband Commission	6467,5096
 UNESCO Intergovernmental Oceanographic Commission	14732
 UNESCO and ITU Broadband Commission	12536
-UNHCR United Nations High Commissioner for Refugees	10835,3,130,902,16,1,107,159,1,9,178,11,1,135,7334,25
+UNHCR United Nations High Commissioner for Refugees	10835,3,130,902,16,1,107,159,1,9,178,11,1,135,7334,25,11,1
 UNHCR's International Committee for Relief and Development	16585
 UNICEF Committee	13681
 UNITED NATIONS COMMISSION ON SCIENCE	17238
@@ -5998,7 +6006,7 @@ United Nations AI for Good Global Commission	11682
 United Nations Assistant High Commissioner	1963
 United Nations Broadband Commission	1264,9580,7026,253
 United Nations Broadband Commission for Sustainable	10851
-United Nations Commission	10819,731,1314,493,1385,10,377,1706,50
+United Nations Commission	10819,731,1314,493,1385,10,377,1706,50,3019
 United Nations Commissioner for Human Rights	3583
 United Nations Committee	7760,5199,1815
 United Nations Committee of Experts	9651,9253
@@ -6009,6 +6017,7 @@ United Nations Economic Commission for Africa ECA	19135
 United Nations Economic Commission for Africa RES4Africa	941
 United Nations Economic Commission for Africa Skip	18846
 United Nations Economic Commission for Africa URL	15931
+United Nations Economic Commission for Africa. SIIPS	19878
 United Nations Economic Commission for Asia	11572
 United Nations Economic Commission for Europe	11237
 United Nations Economic Commission for Latin America	11572

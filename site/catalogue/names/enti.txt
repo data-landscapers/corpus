@@ -158,6 +158,7 @@ ESS Geographic Entire	11905
 Economic Entities Platform	8770
 Economic Item and Funding Entity	15716,211
 Educational Action Entities	18125
+Egyptian State Entities	19875
 Empresas Entidades	16030
 Enti-	18896
 Enticing	14997
@@ -236,7 +237,7 @@ Entidades da Administração Pública	12774
 Entidades da ONU	17042
 Entidades de IA Crítica	3519
 Entilé	15429
-Entire	9855,1708,342,2536,2190,581
+Entire	9855,1708,342,2536,2190,581,2648
 Entire Agreement	15901
 Entire Agreement The Contract	13185
 Entire Deliverance and Service	1797,1413,3880
@@ -248,7 +249,7 @@ Entirely Unavailable	17139
 Entirety of Paid-in Capital Not Needed	12389
 Entiteite	11201
 Entites Territoriales Decentralisees	15584
-Entities	20,9,2,1,1,6,38,33,55,41,95,76,120,70,17,161,47,96,134,608,21,1,225,1970,14,1059,32,371,147,70,381,229,282,162,1088,898,143,266,134,116,59,84,457,3,565,358,10,422,4,3,4,1,21,68,8,245,312,6,433,702,307,3,961,159,90,22,333,56,62,26,349,228,19,1213,46,221,58,79,117,1093,213,304,14,537,70,1,54,3,18,37
+Entities	20,9,2,1,1,6,38,33,55,41,95,76,120,70,17,161,47,96,134,608,21,1,225,1970,14,1059,32,371,147,70,381,229,282,162,1088,898,143,266,134,116,59,84,457,3,565,358,10,422,4,3,4,1,21,68,8,245,312,6,433,702,307,3,961,159,90,22,333,56,62,26,349,228,19,1213,46,221,58,79,117,1093,213,304,14,537,70,1,54,3,18,37,163,30,5
 Entities CAC CSPs Steering	6432
 Entities CSPs Entities	6432
 Entities Covered This Policy	11995
@@ -265,6 +266,7 @@ Entities PPRA SaaS Public Procurement Act	19534
 Entities Regional	17018
 Entities Relevant Governmen	6432
 Entities Reporting	11218,12
+Entities Responsible for Policy Implementation	19860
 Entities Steering	6432
 Entities Type of Loss Eligible	17114
 Entities Without	19585
@@ -427,6 +429,7 @@ Lead Entity All TWGs	4528
 Lead Entity Office	4528
 Leading Public Sector Entity	2668
 Legal Deadline for Procuring Entities	12389
+Legal Entities	19895
 Legal Entity	11276
 Legal Entity Electronic Stamp	11955
 Legal Entity Reg	18452

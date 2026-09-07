@@ -153,11 +153,12 @@ Late Birth Registrations	12947
 Late Cardinal Pengo	19602
 Late Death	12138
 Late Exchequer Releases	14546
+Late Fees	19929
 Late ICASA	11230
 Late John Bosco Kivuma Kintu	19642
 Late Marcelino Tayob	19642
 Late Mr Jaya Krishna	14845
-Late Payment	16848
+Late Payment	16848,3081
 Late Payment Charge	14867
 Late Payment Interest	12629
 Late Prof. Bingu	12979
@@ -182,6 +183,7 @@ Latency	21,3819,290,2246,3781,1789
 Latency Catch	6892
 Latency Dividend	6051
 Latency Improvement	6051
+Latency Information	19929
 Latency Levels	12967
 Latency-sensitive	5528
 Latent	10726
@@ -298,10 +300,10 @@ Latrine	17114,900
 Latrines	9772,2146,6542
 Lattice	15081
 Latuf Abdou	13797
-Latvia	6613,236,1497,2368,50,21,220,128,476,3802,60,575,1697
+Latvia	6613,236,1497,2368,50,21,220,128,476,3802,60,575,1697,2146
 Latvia EUR HI	17743
 Latvia Register of Natural Persons	10714
-Latvian	16843,2142
+Latvian	16843,2142,904
 Latvia’s LMT	2511
 Latwrusatn	14566
 Latéral	17006
@@ -332,6 +334,7 @@ Middle East and Latin America. Orange	4721
 Min ReadEric Latiff	6258
 Minister Mohamed Abdel Latif	15994
 Mme Latifa Benwakrim	8891
+Mobile Latencies	19931
 Monsieur Agblulu Latevi Massi LAWSON Adjoint	10237
 Month Later	7176
 Mozambique Latest Biometrics News Foundational ID	9747

@@ -283,7 +283,7 @@ Household Water and Sanitation	14142
 Housing Electricity Drinking Water Sanitation Cooking	15244
 Housing Finance Environment Education Water and Sanitation	18476
 Housing and Water Resources	1228,6467
-Human Rights Watch	2518,1065,5816,1427,865,177,3474,584,1769,1795
+Human Rights Watch	2518,1065,5816,1427,865,177,3474,584,1769,1795,364,67
 Human Rights Watch. Human	7187
 Human Rights Watch17	13313
 Humphrey Wattanga	5684
@@ -459,6 +459,7 @@ Ministry of Energy and Water	11380,5088
 Ministry of Energy and Water Resources	11136,3813,51,25,38
 Ministry of Fisheries and Water Resources	16967,138
 Ministry of Hydraulics and Water Supply	18198
+Ministry of Irrigation and Water Resources	19869
 Ministry of Water	13787,1686,1684,103,2324,101
 Ministry of Water Development	1988
 Ministry of Water Development and Sanitation	13387
@@ -564,7 +565,7 @@ Non-Revenue Water	718,14027,4234
 Non-Revenue Water NSAS Nubian Sandstone Aquifer	17157
 Nzega Urban Water Supply and Sanitary Authority	19584
 Nzega Water Supply and Sanitation Authority	19584
-ODW Open Data Watch	11887,266,1,9,178
+ODW Open Data Watch	11887,266,1,9,178,7517,1
 ODW Open Data Watch OEC Observatory	10835,3,130,902,16,466,1,135,7334
 ONEE Water	8905
 ONG WATERDROP	9620
@@ -895,9 +896,9 @@ Watching	8642
 Watching Kona	9007
 Wateja	6019,13550,23
 Watendaji	2868,3151,13516,84
-Water	395,23,300,222,30,258,326,270,4,160,440,198,149,276,1477,719,222,100,581,272,481,44,396,205,710,341,524,5,309,705,339,267,11,17,18,41,2,1,130,184,4,36,39,5,9,3,21,14,134,172,131,124,26,16,1,1,1,11,98,154,1,1,9,12,17,37,24,87,1,11,1,36,19,3,34,43,13,10,1,9,410,31,2,6,7,76,143,114,75,2,73,14,88,123,58,44,6,238,2,45,12,13,153,290,20,107,63,9,33,40,12,10,34,48,48,57,58,44,67,176,146,34,22,30,55,72,12,46,467,180,30,397,26,7,4,16,19,108,56,6,9,3,22,10,7,1,93,1,6,32,214,286,78,16,79,9,128,271,73,17,16,7,21,28,11,252,109,27,16,32,540,7,25,4,2,45,39,11,1,22,2,58,6,2,33,25,21,14
+Water	395,23,300,222,30,258,326,270,4,160,440,198,149,276,1477,719,222,100,581,272,481,44,396,205,710,341,524,5,309,705,339,267,11,17,18,41,2,1,130,184,4,36,39,5,9,3,21,14,134,172,131,124,26,16,1,1,1,11,98,154,1,1,9,12,17,37,24,87,1,11,1,36,19,3,34,43,13,10,1,9,410,31,2,6,7,76,143,114,75,2,73,14,88,123,58,44,6,238,2,45,12,13,153,290,20,107,63,9,33,40,12,10,34,48,48,57,58,44,67,176,146,34,22,30,55,72,12,46,467,180,30,397,26,7,4,16,19,108,56,6,9,3,22,10,7,1,93,1,6,32,214,286,78,16,79,9,128,271,73,17,16,7,21,28,11,252,109,27,16,32,540,7,25,4,2,45,39,11,1,22,2,58,6,2,33,25,21,14,22,1,65
 Water Abstraction Licensing Regulation	17228
-Water Access	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Water Access	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Water Access Absence of Corruption	10835,3,130,902,16,466,1,135,7334
 Water Access Rural Market Access Rural	10759,78,1315,188
 Water Act	9437,2354,7954
@@ -908,7 +909,7 @@ Water Authorities	19576
 Water Authority EEMO Energy Efficiency Management	14745
 Water Authority Monthly Table	17157
 Water Basin Agencies. Development	17157
-Water Biodiversity Protection	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Water Biodiversity Protection	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Water Biodiversity Protection Social Protection	10837,1052,263,11,177,1,7312
 Water Bodies Authorities	19519
 Water Body Shoreline Demarcation	1964

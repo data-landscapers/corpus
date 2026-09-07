@@ -633,6 +633,7 @@ Licence Renewal Forms Application for Renewal of Submarine	9109
 License Renewal	5665
 Lieutenant TCHAOU René Maximilien MINISTERE	16381
 Lighting Products Renewable	12515
+Line Rent	19929
 Loan for Renewable Energy	12985
 Local Trainings and Workshops Rent	12971
 Luca Renda	15194
@@ -678,6 +679,7 @@ Minister of Electricity and Renewal Energy	17240
 Minister of Energy and Renewable Energies	15886,393
 Minister of Energy and Renewable Energies Dr. Mourad	15886
 Minister of New and Renewable Energy	13562
+Ministry of Electricity and Renewable Energy	19906
 Ministry of Energy and Renewable Energies	15886,393
 Ministère des Infrastructures Demande de Renseignements	18395
 Ministère du Renouveau	18286
@@ -963,6 +965,8 @@ RENOUVELLEMENT PERMISSIONNAIRE REFERENCE DECISION DATE	998
 RENOVABLES	4209
 RENOVAÇÃO E CONSERVAÇÃO DO CADASTRO	11384
 RENOVAÇÃO E CONSERVAÇÃO DO CADASTRO Secção	11901
+RENPD	19852
+RENPD and RETD	19852
 RENSEIGNEMENT CONSOLIDATION DE LA SECURITE PUBLIQUE	15999
 RENSEIGNEMENTS MILITAIRES	15744,157
 RENSEIGNEMENTS MILITAIRES Décret	15744
@@ -1187,7 +1191,7 @@ RenewableEnergy	13647
 Renewables	11228,344,620,64,5,2484,202,513,1800
 Renewables Contributor	17260
 Renewables-based	11572
-Renewal	736,26,724,264,127,850,1134,26,1778,767,1175,4348,409,265,45,331,37,29,250,50,653,398,305,46,120,284,28,764,882,399,1212,79,342,626
+Renewal	736,26,724,264,127,850,1134,26,1778,767,1175,4348,409,265,45,331,37,29,250,50,653,398,305,46,120,284,28,764,882,399,1212,79,342,626,380
 Renewal A Licence	5665
 Renewal Annual	736
 Renewal First	12364

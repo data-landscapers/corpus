@@ -136,7 +136,7 @@ City Town Clerk	19715
 Civilian and Non-Civilian Uses Require Clear Boundaries	7548
 ClEebr	5098
 Clea Initially	9283
-Clean	789,1199,1063,1921,274,2517,483,360,517,2149,393,588,105,41,318,703,100,1427,259,982,778,1005,566,1109,69
+Clean	789,1199,1063,1921,274,2517,483,360,517,2149,393,588,105,41,318,703,100,1427,259,982,778,1005,566,1109,69,187
 Clean Alliance Party of Kenya	7167
 Clean Audit Opinion	11198
 Clean Audit Report	11198
@@ -213,7 +213,7 @@ Cleantech Agriculture Report. Cleantech Group. Fenn	19555
 Cleantech and Agritech	12339
 Cleantech and Connectivity	12339
 Cleantech and Mobility	10954
-Clear	28,933,194,6,649,14,164,607,353,10,157,746,667,320,9,107,280,374,47,12,234,521,219,181,104,11,1,600,203,237,37,326,319,171,4,278,120,493,23,96,302,564,285,1,126,3,2,93,5,40,74,513,89,258,87,30,62,11,19,256,11,231,114,220,130,14,117,20,129,411,452,41,109,59,85,26,153,37,130,19,61,128,101,7,124,428,210,598,27,17,1,17,14,8,15,24,107,29,15,43,31,69,3,1216,36,14,3,2,118,393,3,34,506,79
+Clear	28,933,194,6,649,14,164,607,353,10,157,746,667,320,9,107,280,374,47,12,234,521,219,181,104,11,1,600,203,237,37,326,319,171,4,278,120,493,23,96,302,564,285,1,126,3,2,93,5,40,74,513,89,258,87,30,62,11,19,256,11,231,114,220,130,14,117,20,129,411,452,41,109,59,85,26,153,37,130,19,61,128,101,7,124,428,210,598,27,17,1,17,14,8,15,24,107,29,15,43,31,69,3,1216,36,14,3,2,118,393,3,34,506,79,226
 Clear Access	11259
 Clear Assignment of Responsibility	14565
 Clear Cybersecurity Strategy	14812
@@ -326,7 +326,7 @@ Clerk of Parliament. THIS PRINTED IMPRESSION	18434,4,2,23,3,1
 Clerk of Parliament. Tuis PrinTED ImprEssION	18468
 Clerk's Office	10313
 Clerk-at-the-Table	10313
-Clerks	14409,4027
+Clerks	14409,4027,1451
 Clerks Other Clerical Support Workers	16266
 Clerks Senior Clerks Oﬃcers	11131
 Clerks of Courts	16943
@@ -513,6 +513,7 @@ Marius Clement	16100
 MasterCard Clearing	11955
 Mauritius Automated Clearing and Settlement System	6938
 Mega National Clean-Up Campaign	2987
+Misr for Central Clearing	19912
 Mohamed Ehsan Juman Clerk	14753
 Monitoring and Evaluation Clear	16963
 Mr. Christian Cleon	17260

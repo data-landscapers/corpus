@@ -73,6 +73,7 @@ Capture of INSTAT Madagascar	9481
 Censitaire INSTAT	17842
 Central Bank and INSTAD. AfDB	13938
 Central Bank of Sudan National Instant	15154
+Challenge The Instant Payment Network	19901
 Chapitre II Instances	17443
 Citing the State of Inclusive Instant Payment Systems	4282
 Communication Services. InstaDeep’s US	4972
@@ -112,6 +113,7 @@ ESTABLISHES THE MOZAMBIQUE INSTANT PAYMENT SYSTEM	12296
 Economie Numérique Instance de Pilotage Rôle	17824
 Economie Numérique Instaurer la Confiance Numérique	17824
 Economie Solidaire INRSP Humain UEMOA INSTAT	17845
+Egyptian Instant Payment Network	19901
 Elaboration des INSTAT MSDS	17946
 Elaboration du Plan INSTAT	17842
 Elaborer le Bulletin INSTAT	17842
@@ -247,6 +249,8 @@ INSTAT. Vous	18086
 INSTaD	15583
 INStaD	10876,4685,14,509,162,4,197
 INStaD. Cette	10869
+INTRODUCTION The State of Inclusive Instant Payment	19878
+IPN and InstaPay	19901
 IT. Installing	2093
 Identification INSTAT	14438
 Implementation Outlines. A Business Instance	1009
@@ -267,7 +271,8 @@ Infiniband NDR Installation Year	11471
 Insta-	14897,3999
 InstaCash	1994,9137
 InstaDeep	1247,2612,128,985,368
-InstaPay	2075,582,1300,25,1308,5158
+InstaPay	2075,582,1300,25,1308,5158,9435,18
+InstaPay. Egypt	19901
 Instabilidade	10772,797
 Instability	4750,7626
 Instabilité	10712,146,16,4706,140,128,88,705,1241,101,303
@@ -275,7 +280,7 @@ Instabilité Institutionnelle	15936
 Instabilité S’adapter	10874
 Instable. Fragile. Suffisant	13531
 Instacash	11130,1213
-Instagram	318,643,1543,1,420,157,383,377,76,1,1,255,78,707,62,68,23,171,87,439,201,592,231,223,363,39,182,2,120,287,386,374,1,80,93,15,83,29,286,219,85,513,16,15,457,29,72,18,38,156,31,309,176,123,12,20,191,116,9,9,41,96,41,12,13,168,13,46,288,248,283,201,168,763,119,164,222,35,88,322,370,136,71,1,194,431,381,94,60,47,131,325,212,70,57,298,1030,12,320,8,49,20,56,13
+Instagram	318,643,1543,1,420,157,383,377,76,1,1,255,78,707,62,68,23,171,87,439,201,592,231,223,363,39,182,2,120,287,386,374,1,80,93,15,83,29,286,219,85,513,16,15,457,29,72,18,38,156,31,309,176,123,12,20,191,116,9,9,41,96,41,12,13,168,13,46,288,248,283,201,168,763,119,164,222,35,88,322,370,136,71,1,194,431,381,94,60,47,131,325,212,70,57,298,1030,12,320,8,49,20,56,13,142,33,28
 Instagram Impressions	8999
 Instagram OMSMadagascar Officiel L'OMS Madagascar	14662
 Instagram X	18036
@@ -317,7 +322,7 @@ Install Temporary Lightning Protection TZS	19585
 Install and Configure	17180
 Installability	5665
 Installateur	13809
-Installation	11,23,684,18,1149,103,354,995,200,325,1093,1004,987,1005,36,1,903,232,545,1094,213,154,80,565,132,80,247,3,17,105,41,318,11,234,223,127,2,90,151,338,530,65,1,1,8,240,23,2,3,7,10,84,213,291,55,29,63,60,81,11,129,153,51,192,54,366,66,33,162,117,121,66,262,377,4,12,1,6,4,27,28,6,71,118,238,36,291,327,253,9,177,148,10,160,63
+Installation	11,23,684,18,1149,103,354,995,200,325,1093,1004,987,1005,36,1,903,232,545,1094,213,154,80,565,132,80,247,3,17,105,41,318,11,234,223,127,2,90,151,338,530,65,1,1,8,240,23,2,3,7,10,84,213,291,55,29,63,60,81,11,129,153,51,192,54,366,66,33,162,117,121,66,262,377,4,12,1,6,4,27,28,6,71,118,238,36,291,327,253,9,177,148,10,160,63,115
 Installation CDN	17835
 Installation Certificate	13185,1622
 Installation Configuration and Commissioning	14802
@@ -412,7 +417,7 @@ Instancia	16871
 Instancia Fotógrafo	4209
 Instancia Secretario Juzgado Comarcal	4209
 Instanciation La CUN	15568
-Instant	999,1359,1564,1202,296,1038,814,434,1330,1270,1634,60,287,72,717,1113,601,29,78,68,189,3000,1083,402,199
+Instant	999,1359,1564,1202,296,1038,814,434,1330,1270,1634,60,287,72,717,1113,601,29,78,68,189,3000,1083,402,199,63
 Instant Articles	13461
 Instant Bank Transfer	3035
 Instant Birth Registration When Vitumbiko	13095
@@ -426,8 +431,9 @@ Instant Messaging Apps	19639
 Instant Messaging and Presence Protocol	18774
 Instant Onboarding	12022
 Instant Payment	8008,5044
+Instant Payment Address	19901
 Instant Payment Namibia	10306,2094,77,715
-Instant Payment Network	2075,3215
+Instant Payment Network	2075,3215,14593,18
 Instant Payment Platform	12477
 Instant Payment Programme	8251,4228,713,2
 Instant Payment Solution	5254,7146,77
@@ -521,6 +527,7 @@ NIBSS Behavioral Instant DPI	10719
 NIBSS Instant Payment	4848,4904,1386,862
 NIBSS Instant Payments	3391,1465,5863
 Namibia’s Instant Payment Solution	8252
+National Instant Payment Network	19883
 National Instant Payment Switch	2395
 National Instant Payment System	2358,854,2652,3912,83,2433,2862,3548
 National Instant Payment System Project	5864
@@ -616,6 +623,7 @@ Requirements for E-VAT Installation	16038
 Reserved Instances	6432
 Responsible Unit Timeframe Remarks Forestry Install	17157
 Rogério Lucas Zandamela. Glossário Instalação	6462
+Rules Regulating Services For Instant Payment	19901
 Rural Rural Installations	13300
 Rwanda’s Instant Payment System	4166
 Réseau des Instances Africaines de Régulation	13799,4245
@@ -627,7 +635,7 @@ SIÈGE DE L’INSTAT INSTAT BP	17993,96
 SOCIAL INSTANT ONLINE ONLINE CALL VIDEO	11964
 SOFTWARE INSTALLATION REQUEST STANDARDS AND GUIDELINES	34
 SSN INSTAT	17842,151,96
-STATE OF INCLUSIVE INSTANT PAYMENT	12000,269,1,220,1513
+STATE OF INCLUSIVE INSTANT PAYMENT	12000,269,1,220,1513,5875
 SUGF Banque INStaD DGB CAGeD DGFD	10876
 SUMTECH Renewable and Electrical Installation	10180
 SUPPLY AND INSTALLATION	12681
@@ -708,6 +716,7 @@ Tanzania Instant Payments System	2857,10531
 Tanzania’s Instant Payment System	7178
 Tender Announcement for National Instant Payment System	5864
 Third Instance	19528
+Through InstaPay	19901
 Through the State of Instant and Inclusive Payment	10075
 TikTok and Instagram	5600,4016,2585
 Towers and Fibre Optic Installation Authorization	718

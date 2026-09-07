@@ -11,6 +11,7 @@ Administrativo Embajada A3 Intérprete Traductor Consulado	4209
 Administrativos da Embaixada de Espanha	11531
 African Union and Germany Embassy	7362
 Angola. The Embassy of India	18857
+Application Tracking The Embassy	19866
 Arms Embargo and Act	7845
 Arms Embargo and Travel Ban	7845,6964,19,3
 Arret Jatta The Chinese Embassy	17423
@@ -168,7 +169,7 @@ Embassies and High Commissions	16921
 Embassies and International Organisations	13954
 Embassies of France and Ireland	13156
 Embassies of Qatar and Switzerland	18215
-Embassy	31,79,681,2166,1995,213,699,626,364,1032,881,34,61,114,253,955,408,610,432,30,344,184,86,223,476,146,128,107,59,23,69,282,358,327,572,8,37,38,268,77,799,56,318,309,147,481,430,204,158,170,93,50,119,104,229,391
+Embassy	31,79,681,2166,1995,213,699,626,364,1032,881,34,61,114,253,955,408,610,432,30,344,184,86,223,476,146,128,107,59,23,69,282,358,327,572,8,37,38,268,77,799,56,318,309,147,481,430,204,158,170,93,50,119,104,229,391,320,12
 Embassy Abuja	4301
 Embassy Asmara	14045
 Embassy Bamako	17883
@@ -180,10 +181,13 @@ Embassy Situação	15476
 Embassy The White House	8921
 Embassy VSAT USD	17250
 Embassy and Permanent Mission of The Gambia	16914
+Embassy of Algeria	19866
 Embassy of Belgium	13156
 Embassy of Brazil	18873
 Embassy of Burundi	19636
-Embassy of Canada	9043,232
+Embassy of Canada	9043,232,10579
+Embassy of Egypt	19854
+Embassy of Eritrea	19927
 Embassy of Finland	1016,9576
 Embassy of France	13312,2
 Embassy of Germany	16730
@@ -274,6 +278,8 @@ Embu. Plans	14546
 Embutidos	4209
 Empowering Innovation and Embracing Emerging Technologies	19532
 Encarregado de Negócios da Embaixada	16134
+Eritrea. N.d. Embassy	19921
+Eritrea. N.d.b. Embassy	19921
 Eritrean Embassies	14045
 Eritrean Embassy	14030,15
 Ethical Commitment and International Alignment Embracing AI	12356

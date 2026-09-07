@@ -157,7 +157,7 @@ Birta Dheer	15075
 Birta Dheer Golis Telecom Data Center	15075
 Birtchnell T	17773
 Birtchnell and Anthony	17773
-Birth	2072,597,335,196,1353,89,299,592,2099,1829,74,161,108,910,51,10,37,2,8,7,150,197,42,328,318,5,108,9,19,52,7,74,13,37,26,2,1,2,7,1,14,9,41,36,1,5,4,1,29,46,58,15,10,27,116,125,186,9,46,75,15,58,62,5,165,12,2,245,34,3,225,41,50,48,46,19,545,59,1,174,16,151,191,168,103,35,94,1213,40,71,5,265,730,168,123,173,23,16,228,231,56,52,58,442,3,71,15,48,6,2,29,46,43,30
+Birth	2072,597,335,196,1353,89,299,592,2099,1829,74,161,108,910,51,10,37,2,8,7,150,197,42,328,318,5,108,9,19,52,7,74,13,37,26,2,1,2,7,1,14,9,41,36,1,5,4,1,29,46,58,15,10,27,116,125,186,9,46,75,15,58,62,5,165,12,2,245,34,3,225,41,50,48,46,19,545,59,1,174,16,151,191,168,103,35,94,1213,40,71,5,265,730,168,123,173,23,16,228,231,56,52,58,442,3,71,15,48,6,2,29,46,43,30,53,40
 Birth Anniversary	18220
 Birth Applications	19541
 Birth As-	12151
@@ -194,12 +194,12 @@ Birth Pregnancy	12151
 Birth Project	16993
 Birth Registered	10765,10
 Birth Registered Citizens Certificate	19541
-Birth Registration	445,2330,1482,3407,3101,10,37,10,396,722,46,165,65,11,23,41,37,39,39,266,423,359,190,493,1110,1613,89,22,2570,100,74
+Birth Registration	445,2330,1482,3407,3101,10,37,10,396,722,46,165,65,11,23,41,37,39,39,266,423,359,190,493,1110,1613,89,22,2570,100,74,205
 Birth Registration Applications	19541
 Birth Registration Birth Registration	16971
 Birth Registration Center	16860
 Birth Registration Centers	16971
-Birth Registration Certificate	19541
+Birth Registration Certificate	19541,379
 Birth Registration Completeness	12151,1493
 Birth Registration Completeness Between	12151
 Birth Registration Confirmation	10765,10
@@ -207,6 +207,7 @@ Birth Registration Coverage and Certifications for Children	19544
 Birth Registration Data	10714
 Birth Registration Exercise	12291,924
 Birth Registration Form	16860
+Birth Registration Forms	19920
 Birth Registration Health	16860
 Birth Registration ID and Related Services ID	12406
 Birth Registration Implementation	19541
@@ -287,7 +288,7 @@ Birth-weight	19544
 Birth. Dep. Chief Registrar Oversees	12064
 Birthday	6553,6424
 Birthday Charity Run of Chief of Defence Forces	9781
-Births	1,539,2232,2761,5289,1164,152,13,16,83,77,10,1,29,16,30,58,126,42,33,226,61,25,21,148,132,359,335,482,294,150,151,572,97,795,376,26,121,1397,1,33,515,110,442,174
+Births	1,539,2232,2761,5289,1164,152,13,16,83,77,10,1,29,16,30,58,126,42,33,226,61,25,21,148,132,359,335,482,294,150,151,572,97,795,376,26,121,1397,1,33,515,110,442,174,172,33
 Births Abroad Birth	12216
 Births And Deaths Is Declared	12138
 Births And Deaths Registration Act Subsidiary	12138
@@ -370,10 +371,11 @@ Confirmation of Birth	11282
 Continuous Birth	12241
 Continuous Birth Registration	12241
 Coverage of Birth Registration Birth	16860
-Crude Birth Rate	12151,216,16,30,58,201,2384,4659
+Crude Birth Rate	12151,216,16,30,58,201,2384,4659,205
 Crude Birth Rate CDR Crude Death	15056
 Cumulative Unregistered Birth Events	19541
 Cumulative Unregistered Birth Events Age Group	19541
+DEMOGRAPHIC PROFILE AND BIRTH REGISTRATION	19920
 DIVINE BIRTH MIDWIFERY CENTER LIMITED Data	7167
 Daily Nation. Birth	12138
 Damaged Birth Certificate Note	12216
@@ -460,6 +462,10 @@ Health Facility Births	12151
 Home Births	12367
 Honourable Birom J.S. Sowe	16914
 Hospital Data Management Module for Births Registration	12186
+I. Demographic Profile and Birth Registration	19920
+II. Birth Registration Status of Eritrea	19920
+II. Birth Registration Status of Eritrea Birth	19920
+III. Birth Registration System	19920
 Inadequate Registration of Births	19541
 Included the Birth Entry Number	14655
 Increasing Birth Registration	61
@@ -612,6 +618,7 @@ REGISTRATION OF LIVE BIRTH PROCEDURE	12338
 Random House. Birhane	11050
 Rates Adolescent Birth Rate	18441
 Recorded Live Births	12005
+Records of Birth	19920
 Regional Birth and Death Records	19541
 Register Birth	12226
 Register of Births	16860,1580
@@ -651,6 +658,7 @@ Respondent The Principal Registrar of Births and Deaths	14460
 Richard Bird and Pierre-Pascal Gendron	14932
 Rural Areas and Capacity Building Project BIRD	15500
 Rwanda Document Description Birth Certificate	12328
+S12 Birth Certificate	19866
 SKILLED BIRTH ATTENDANT	19544
 SKILLED BIRTH ATTENDANTS	19544
 SKILLED BIRTH ATTENDANTS Figure	19544
@@ -662,6 +670,7 @@ Safer Births Bundle of Care	7895
 Sarah Bireete	5603
 Scale Up Digital Birth Registration Nationwide	12761
 Scaling-Up Birth Registration Using Innovative Technology	64
+Sex Yes No Birth	19887
 Sexes Country Of Birth N	12151
 Shortages of Birth Certificates and ID Papers	12514
 Shri Om Birla	16256
@@ -691,6 +700,7 @@ TAs for Birth	13005
 TECH5. Birth	5283
 TH BIRTHDAY OF HIS EXCELLENCY GENERAL	18572
 TIMELINESS OF BIRTH REGISTRATION	19544
+Table of Contents I. Demographic Profile and Birth	19920
 Targets for Registration and Issuance of Birth and Death	19541
 Timeliness of Birth Registration and Certification	19544
 Timely Birth Registrations	12947

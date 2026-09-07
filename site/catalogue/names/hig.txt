@@ -299,6 +299,7 @@ ECA High-Level Panel	9162
 EGDI High EGDI Middle EGDI Low	10840
 EHCON Highlights Environmental Health Regulatory Mandate	18260
 EITI. High-level	17893
+ENERGY USES ON EXTRA HIGH VOLTAGE	19876
 EQUITY High	16892
 ESATIC. The High Multinational School of Posts	3604
 ESCP African Higher School of Information and Communication	3604
@@ -466,6 +467,7 @@ HIGH LEVEL STATEMENTS	12973
 HIGH Launch the Regional Training Program	5677
 HIGH Priority	13990
 HIGH Priority. Sector Coordination Inclusive Sector	13349
+HIGH VOLTAGE ENERGY USES	19876
 HIGH for Volume	13990
 HIGH-LEVEL TARGETS OF THE COMPACT	15977
 HIGH-LEVEL TARGETS OF THE DE4A INITIATIVE	16942
@@ -554,7 +556,7 @@ High Commissioner H.E Mr. Amararam Gujar	13029
 High Commissioner H.E. Innocent B. Muhizi	9885
 High Commissioner for Digitalisation	3775,1967
 High Commissioner for Digitalisation Meriem Benmouloud	5742
-High Commissioner for Digitalization	2262,158,1411,11848
+High Commissioner for Digitalization	2262,158,1411,11848,4234
 High Commissioner for Digitalization Meriem Benmouloud	2845
 High Commissioner for Digitization	2790
 High Commissioner for Human Rights	3583,544,2820
@@ -828,6 +830,7 @@ High Risk Trend	13053
 High Risk of Ongoing Conflict	14038
 High School	2319,9765,891
 High School Certificate System	2783,12419
+High School Child EGP	19855
 High School Diploma	16947
 High School Namib Primary School	13046
 High School Ongoing Picture	12977
@@ -1029,13 +1032,13 @@ High-margin	5869
 High-maturity	12050
 High-need	16032
 High-penetration North-African	2489
-High-performance	2567,6038,518,521,5520,549,2249
+High-performance	2567,6038,518,521,5520,549,2249,1969
 High-performance Compute	11502
 High-performance Team	3487
 High-performing	11140
 High-priced	16884
 High-profile	6055,2299,1462,7323,2662
-High-quality	1261,102,2498,2971,2728,292,1733,11,1063,346,456,71,566,936,1842,63,321,279,2016
+High-quality	1261,102,2498,2971,2728,292,1733,11,1063,346,456,71,566,936,1842,63,321,279,2016,352
 High-quality Belt and Road	16929
 High-quality Development	9018
 High-ranking	14750
@@ -1052,7 +1055,7 @@ High-risk-and-other-monitored-jurisdictions	4848
 High-speed	3243,826,771,140,695,261,4136,2284,617,5681
 High-speed Internet	5279,12591
 High-speed National Backbone	19724
-High-tech	2507,8462,127,788,1,10,264,1,44,1,146,4,41,91,6750
+High-tech	2507,8462,127,788,1,10,264,1,44,1,146,4,41,91,6750,625,3
 High-technology	11149
 High-trust	11156
 High-value	7548,4357,3114,1920
@@ -1086,7 +1089,7 @@ High. Western Africa	1264
 High.’ Stakeholder	10829
 HighRisk	16212
 HighRisk AI	16212
-Higher	789,475,564,463,484,829,343,485,96,1881,23,400,106,10,715,223,693,148,396,5,631,730,229,61,1,13,63,278,2,4,412,305,48,328,56,96,26,101,181,617,21,201,141,265,53,13,147,414,164,46,29,92,26,10,53,12,167,80,330,87,240,365,586,40,50,33,124,15,43,78,22,162,84,938,5,85,47,998,39,24,73,89
+Higher	789,475,564,463,484,829,343,485,96,1881,23,400,106,10,715,223,693,148,396,5,631,730,229,61,1,13,63,278,2,4,412,305,48,328,56,96,26,101,181,617,21,201,141,265,53,13,147,414,164,46,29,92,26,10,53,12,167,80,330,87,240,365,586,40,50,33,124,15,43,78,22,162,84,938,5,85,47,998,39,24,73,89,117
 Higher Authority of Arabization	14851
 Higher Authority of Media and Audiovisual	18930
 Higher Certificate	6832
@@ -1193,7 +1196,7 @@ Higher Junior Secondary Primary Pre-primary	18441
 Higher Learning	19541
 Higher Learning Institutions. Affordability	12333
 Higher Learning and Research Institutions	19519
-Higher Level Objectives	969,295,603,1737,2935,4229,61,135,416,37,143,1771,1,411,1167,27,554,27,35,68,37,1,2,2,1286,913,242,189,8,476,462,6,590,12
+Higher Level Objectives	969,295,603,1737,2935,4229,61,135,416,37,143,1771,1,411,1167,27,554,27,35,68,37,1,2,2,1286,913,242,189,8,476,462,6,590,12,8
 Higher Level Objectives Policy Context and Strategic	969
 Higher Life Foundation	42
 Higher Loans Board	12149
@@ -1223,7 +1226,7 @@ HigherEducationZambia	13556
 Higherlife Foundation	562
 Higherlife Owned Land N	4896
 Highervalue ICT	10793
-Highest	6432,505,932,3100,915,1,10,69,189,6,1,191,4,41,91,1461,949,49,298,330,30,1331,15,207,1321,292,181,688,76
+Highest	6432,505,932,3100,915,1,10,69,189,6,1,191,4,41,91,1461,949,49,298,330,30,1331,15,207,1321,292,181,688,76,147,3
 Highest Annual	18627
 Highest Attainable Standard of Health	3583
 Highest Degree Male Female Sum	18578
@@ -1259,7 +1262,7 @@ Highlighting UNFPA	7702
 Highlighting the Agency	9576
 Highlighting the EU	11985
 Highlighting the Gambia	17407
-Highlights	236,968,663,57,851,276,998,4378,2349,17,341,162,768,74,37,181,269,271,55,91,705,155,858,33,52,87,192,40,1219,470,470,1,1136,157,51,312
+Highlights	236,968,663,57,851,276,998,4378,2349,17,341,162,768,74,37,181,269,271,55,91,705,155,858,33,52,87,192,40,1219,470,470,1,1136,157,51,312,904
 Highlights Digital Innovation	3669
 Highlights E48.87 Million Revenue	12969
 Highlights Inauguration	14760
@@ -1556,7 +1559,7 @@ Minister for Higher Education	17234
 Minister of Higher	16285
 Minister of Higher Education	2335,4497,4646,1129,1748,2618
 Minister of Higher Education Research Science	17423
-Minister of Higher Education and Scientific Research	17548
+Minister of Higher Education and Scientific Research	17548,2361
 Minister of Higher Education and Training Buti Manamela	17577
 Minister of Higher Education of The Gambia	17241
 Minister of Higher and Tertiary Education	413,4115,7984,1039,137
@@ -1577,7 +1580,7 @@ Ministry of Higher Education Research	16852
 Ministry of Higher Education Research Science and Technology	16951
 Ministry of Higher Education Statistic Yearbook	14851
 Ministry of Higher Education and Research	19245
-Ministry of Higher Education and Scientific Research	4762,1985,146,4055,2364,2,1262,277,396,355,75,465,111,1043
+Ministry of Higher Education and Scientific Research	4762,1985,146,4055,2364,2,1262,277,396,355,75,465,111,1043,2570,36
 Ministry of Higher Education and Scientific Research Iraq	2958
 Ministry of Higher Education and Scientific Research. About	12133
 Ministry of Higher Education. Improving	15604
@@ -2002,7 +2005,7 @@ UN High-Level Political Forum	16973
 UN Secretary-General’s High-Level Panel	11210
 UN-IGIF IMPLEMENTATION HIGHLIGHTS	12457
 UNGA High-Level Week	15119
-UNHCR United Nations High Commissioner for Refugees	10835,3,130,902,16,1,107,159,1,9,178,11,1,135,7334,25
+UNHCR United Nations High Commissioner for Refugees	10835,3,130,902,16,1,107,159,1,9,178,11,1,135,7334,25,11,1
 UNITED NATIONS HIGH COMMISSION FOR REFUGEES	18911
 USE OF ARTIFICIAL INTELLIGENCE High-risk	14565
 USERS HIGH-SPEED NETWORKS APPLICATIONS SERVICES	16883

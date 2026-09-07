@@ -189,11 +189,14 @@ Cloud Computing Regulations	12294
 Cloud Computing Roadmap	4141
 Cloud Computing Security	12926
 Cloud Computing Service	15149,1775
+Cloud Computing Service Models Cloud	19860
 Cloud Computing Service Providers	15149
 Cloud Computing Service and Deployment Models	16924
-Cloud Computing Services	573,2588,11988
+Cloud Computing Services	573,2588,11988,4711
 Cloud Computing Services Cloud Computing Services	3161
 Cloud Computing Services. Section	3161
+Cloud Computing Strategy	19860
+Cloud Computing Systems	19860
 Cloud Computing Week	4141
 Cloud Computing and Data Offshoring	7339
 Cloud Computing and Robotics	13356
@@ -458,6 +461,7 @@ Computer Vision	2816,9696
 Computer Vision Robotic Process Automation	4528
 Computer Weekly and Submarine Networks	1991
 Computer X X	236
+Computer and Information Sciences	19868
 Computer and Telecommunications Engineering	9128
 Computer for Pedagogy Table	18460
 Computer literacy	16963
@@ -499,7 +503,7 @@ Computerized Paper-based5	16631
 Computerized School Selection and Placement System CENDLOS	15796
 Computerized Transit System	13042
 Computerizing VAT	12948
-Computers	236,346,7440,438,146,234,288,488,1143,76,2,1,74,56,584,204,114,16,1,1,1,91,110,62,1,1,9,177,1,11,1,135,2248,115,70,93,1862,94,1250,221,74,49,1069,6,13,1,1,48,99,21,14
+Computers	236,346,7440,438,146,234,288,488,1143,76,2,1,74,56,584,204,114,16,1,1,1,91,110,62,1,1,9,177,1,11,1,135,2248,115,70,93,1862,94,1250,221,74,49,1069,6,13,1,1,48,99,21,14,22,1,28,37,9
 Computers Conference	9237
 Computers For Zambian Schools	13637
 Computers Not Not Monitoring Monitoring Monitoring	19576
@@ -619,7 +623,7 @@ Eastern Data Western Computing	5242
 Ecoles de Statistiques Africaines CAPI Computer Assisted	15479
 Edge Computing	11000,1210
 Editor In Chief The Cybercrime and Computer	18686
-Egyptian Computer Emergency Readiness Team	16212
+Egyptian Computer Emergency Readiness Team	16212,3665
 Electrical Engineering and Computer Sciences	8529
 Electricity Television Radio Computer	14897
 Electricity. Computers	9025
@@ -692,6 +696,7 @@ HAG Personal Computers Traitement	10821
 HPC High Performance Computing HR Human	15164
 Hardware Computer Engineering	14148
 Hariri Institute for Computing	11135
+Harnessing the Power of Cloud Computing	19860
 High Performance Computer	5847,5344
 High Performance Computers	1814
 High Performance Computing	12728,746,1316,4703
@@ -916,6 +921,7 @@ Pioneer Institute of Computer	13261
 Plataformas de Computação	6970,5838
 Policy NCIRT National Computer Incidence Response	12973
 Possession of Devices and Computer Data Unauthorised Access	18675
+Practical Considerations for Cloud Computing Implementation	19860
 Presidency. Compulsory	9676
 Printer Computer Specifications DATE QUANTITY	34
 Procedia Computer Science	226,5123,3256,523,1
@@ -926,7 +932,8 @@ Projects Computerization	14952
 Protected Computers	19801
 Protected Computers and Critical Database	4484
 Protection of Networks and Computer Systems	10771
-Quantum Computing	961,3567,3020,4964,3690,10,2234,1086
+Providing Hosting Services for Cloud Computing	19860
+Quantum Computing	961,3567,3020,4964,3690,10,2234,1086,353
 Quantum Computing Working Group	8534
 Quantum Computing Working Group. The Kingdom	8645
 Quantum Computing and Emerging Technologies	16202
@@ -1018,6 +1025,7 @@ Teoria da Computação	12019
 Through Computer System Spamming Phishing Pornography	18675
 Treasury Compute	7548
 Twenty-five Computer Emergency Response Team	19660
+Types of Cloud Computing Platforms Cloud	19860
 UNESWA Computer Science Department Deadline	12361
 Uganda Computer Emergency Response Team	9695
 Uganda National Computer Emergency Response	19728

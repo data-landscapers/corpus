@@ -592,7 +592,7 @@ D’ANALYSE ET DE REFLEXION SUR	17829
 D’INFORMATION SUR LE CREDIT La Banque	15903
 E BIOKO SUR ANNOBÓN CENTRO SUR	4209
 E- Surfline B- Yes Desktop D-	582
-E-Government Survey	1893,1641,2778,4528,16,1038,2112,2620,2305,2,735
+E-Government Survey	1893,1641,2778,4528,16,1038,2112,2620,2305,2,735,263
 E-readiness Survey of East African Universities Report	15164
 EAU DE SURFACE	13300
 ECONOMIC SURVEY	2775
@@ -648,7 +648,7 @@ Egovernment Survey	11379,4153
 Egypt Demographic and Health Survey	15604,121
 Egypt Labor Market Survey	15604
 Egyptian Family Health Survey	15725
-Egyptian Survey Authority	15473
+Egyptian Survey Authority	15473,4379
 Electricité ASC Avances Sur Consommation BAD	10975
 Electronic Government Survey	18767,5
 Electronic Integrated Disease Surveillance and Response	4202
@@ -686,6 +686,7 @@ Environment Survey Statistics	16863
 Environmental Surveillance	16971,2573
 Epidemiological Monitoring Survey	14622
 Epidemiological Surveillance Department	12003
+Eritrea Demographic and Health Survey	19920
 Eritrea Household Income and Expenditure Survey	6106
 Eritrea Population and Health Survey	14023,26,100,1
 Eritrean Population and Health Survey	14125
@@ -713,7 +714,7 @@ Exchange Control Regulations. The Financial Surveillance	8840
 Executive Opinion Survey	11895,264,46,150
 Expanding Survivor Support Services	13474
 Expenditure Survey	970,11992,3914,240
-Expenditure and Consumption Survey	15604
+Expenditure and Consumption Survey	15604,4251
 Expenditure and Consumption Survey HKP Haya Karima	15604
 Exploratory TFGBV Study of Survivor Narratives	17771
 Export of Digital Surveillance Technologies	2518
@@ -769,7 +770,7 @@ FinScope Surveys	940,11469
 Final Survey Results Report	969
 Finance Survey	866
 Financial Access Household Survey Overview	2775
-Financial Access Survey	10969,926,310,4737
+Financial Access Survey	10969,926,310,4737,2923
 Financial Access Survey Data	15480
 Financial Application System. Surveillance System	11134
 Financial Corporations Survey	14777
@@ -932,7 +933,7 @@ Household Budget Survey	9252,1884,4055,327,2957,980,76
 Household Budget Surveys	19555
 Household Energy Survey	11136
 Household Expenditure Survey	16902
-Household Income and Expenditure Survey	31,11824,470,614,1186,2751,240,141
+Household Income and Expenditure Survey	31,11824,470,614,1186,2751,240,141,2663
 Household Income and Expenditure Survey. Data	12962
 Household Living Conditions Survey	15658
 Household Living Conditions Surveys	11581
@@ -1130,7 +1131,7 @@ Intelligent Urban Video Surveillance System Expansion	247,55,1,36,7250
 Inter-Censal Demographic Survey	12923
 Inter-Censual Population Survey	14005
 Intercensal Survey	12962
-International Federation of Surveyors	18293
+International Federation of Surveyors	18293,1581
 International Journal of Surgery	1248
 International Scene Economic Survey	2775
 International Survey	1828,11120
@@ -1576,6 +1577,7 @@ Polisi Wasaidizi Sura	19517
 Politics of Surveillance	2518
 Politics of Survival	9399
 Population Estimation Survey for Somalia	32
+Population Health Survey the Central Agency	19887
 Population Surface	16921
 Population and Health Survey	14023
 Population and Health Survey. Government-wide IFMIS	13966
@@ -1668,6 +1670,7 @@ REPORT MULTIDIMENSIONAL POVERTY SURVEY	15244
 REPRISES DE PROVISIONS ET RECUPERATIONS SUR	18032
 REPUBLIC OF GHANA Appendix SURVEY	582
 REPUBLIC OF SURINAME	13996
+RESEARCH METHODOLOGY AND CORRESPONDING OBJECTIVES Survey	19878
 RESULTAT AVANT IMPOT IMPOTS SUR	17841
 RESULTS FROM INNOVATION SURVEY RESPONDENTS	18910
 RGPH-4. CAP SUR LA QUATRIEME PHASE	9277
@@ -2204,7 +2207,7 @@ Surv Compagnon	14622
 Surv Companion	11459
 Survbeject	19525
 Surveillanc	4301
-Surveillance	245,15,99,116,144,379,1119,42,1,358,31,129,343,1146,35,15,43,41,48,77,137,679,110,1035,35,140,265,2572,319,251,268,76,463,53,214,113,1031,40,502,652,71,48,219,21,88,136,16,210,233,1,1,63,1,1,47,85,151,1,145,504,49,15,21,75,11,1,29,61,27,12,1,120,91,23,424,234,105,170,30,36,13,112,714,19,29,28,11,18,191,21,172,20,33,587,575,19,125,19
+Surveillance	245,15,99,116,144,379,1119,42,1,358,31,129,343,1146,35,15,43,41,48,77,137,679,110,1035,35,140,265,2572,319,251,268,76,463,53,214,113,1031,40,502,652,71,48,219,21,88,136,16,210,233,1,1,63,1,1,47,85,151,1,145,504,49,15,21,75,11,1,29,61,27,12,1,120,91,23,424,234,105,170,30,36,13,112,714,19,29,28,11,18,191,21,172,20,33,587,575,19,125,19,231
 Surveillance Achieve	14190
 Surveillance Architecture	9399
 Surveillance By Evin McMullen Age Verification	9328
@@ -2249,7 +2252,7 @@ Surveillance-f	4301
 Surveillant	15595,3631
 Surveiller	7977,2998,957,1369,1124,112,4824
 Surveillonce L'Autorilé	15429
-Survey	418,164,388,942,28,835,1310,763,382,12,5,1292,33,314,52,852,79,53,100,935,989,331,437,4,57,54,11,1,21,8,94,40,127,3,2,4,55,63,38,253,345,70,7,67,52,61,24,17,18,4,27,10,27,19,59,20,8,1,18,6,91,1,50,150,216,88,37,268,108,114,448,319,277,46,100,1,54,85,35,100,27,140,10,70,167,62,80,3,18,139,130,1,57,29,454,242,39,193,5,4,9,16,30,5,36,80,2,8,63,33,16,120,4,77,82,376,22,3,76,268,98,150,34,50,42,3,145,9,101,13,43,18,115,223,74,208,1,34,59,26,63,13,29
+Survey	418,164,388,942,28,835,1310,763,382,12,5,1292,33,314,52,852,79,53,100,935,989,331,437,4,57,54,11,1,21,8,94,40,127,3,2,4,55,63,38,253,345,70,7,67,52,61,24,17,18,4,27,10,27,19,59,20,8,1,18,6,91,1,50,150,216,88,37,268,108,114,448,319,277,46,100,1,54,85,35,100,27,140,10,70,167,62,80,3,18,139,130,1,57,29,454,242,39,193,5,4,9,16,30,5,36,80,2,8,63,33,16,120,4,77,82,376,22,3,76,268,98,150,34,50,42,3,145,9,101,13,43,18,115,223,74,208,1,34,59,26,63,13,29,134
 Survey 0.pdf	7548
 Survey 0.pdf SUMMARY OF ICT INDICATORS	6671
 Survey ASLMs Agriculture Sector Lead Ministries	19554
@@ -2353,7 +2356,7 @@ Survey123 Connect	5848
 SurveyCTO	18460
 SurveyCTO's Computer-Assisted Telephone Interviewing	15024
 SurveyMonkey	19654
-Surveyed	3604,1634,9,5565,1112,452,4909
+Surveyed	3604,1634,9,5565,1112,452,4909,2593
 Surveyed Internet Use	16876
 Surveyed Zambian	5247
 Surveying	888,1790,10535
@@ -2498,6 +2501,7 @@ UN E-GovErNmENt SUrvEy	10840
 UN E-Governement Survey Indice de Développement des TIC	16641
 UN E-Governement Survey Selon	16641
 UN E-Government Survey	1749,156,9664,3183,145,3870,5,867,17,165
+UN E-Government Survey The UN	19931
 UN E-Government Survey World Bank Ease	18767
 UN E-government Survey	11569
 UN EGovernment Index Survey Report	15553
@@ -2534,6 +2538,7 @@ Unis. Sur	11014
 United Nations E-Government Survey	1912,8928,1493,1673,1405,1474,1882,5
 United Nations E-Government Survey. Countries EDGI	10840
 United Nations E-Government Survey. Legend	10840
+United Nations E-Government Survey. Score	19931
 United States Geological Survey	15129,156,1631,80,161
 United States Geological Survey WB World	17157
 Unité de Surveillance du Secteur des Jeux de Hasard	16323
@@ -2614,7 +2619,7 @@ Women’s Civil Society Organizations Survey	17116
 World Bank Enterprise Survey	1828,13169,476,1523,874,968
 World Bank Enterprise Survey Cameroon	15480
 World Bank Enterprise Survey Implementation Report	10862,7976
-World Bank Enterprise Surveys	1400,9462,107,915,1,10,264,196,132,2993,3358
+World Bank Enterprise Surveys	1400,9462,107,915,1,10,264,196,132,2993,3358,1024,3
 World Bank Enterprise Surveys. Washington	11140
 World Bank Survey of Enterprises	1828
 World Bank. The Enterprise Surveys	10976,898,7,465

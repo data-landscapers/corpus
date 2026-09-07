@@ -186,6 +186,7 @@ Conditions for Consent DATA PROTECTION AND PRIVACY	1474
 Conditions for Licensing Private Network Operators	736
 Conditions for Licensing Private Network Operators. PART	736
 Conditions for Private Radio Transceiver Station	736
+Constitutional Protection of Privacy	19895
 Consumer Privacy	16872
 Consumer Privacy and Data Protection	16872
 Conteúdo Privado	4274
@@ -281,7 +282,7 @@ Data Privacy and Protection Act	10202
 Data Privacy and Protection All	11995
 Data Privacy and Protection ODPC	2668
 Data Privacy and Rights	720
-Data Privacy and Security	12356,7215
+Data Privacy and Security	12356,7215,324
 Data Privacy and Security Baselines Minimum	3861
 Data Privacy and Security Establish Open Data	15713
 Data Privacy and Targeted Advertising	9855
@@ -356,7 +357,7 @@ Division of Privacy and Identity Protection	8773
 Document Repository Privacy Authorization	1009
 Documentos Privados	16855
 Domaine Privé	15542,457
-Domestic Law Privacy	10908
+Domestic Law Privacy	10908,9014
 Donilab SECTEUR PRIVÉ Sotelma	17856
 Download Trust Privacy Terms Accessibility	9429
 Dr. Anne Cavoukian's Eleven Practices of Privacy-by-Design	10765
@@ -398,10 +399,12 @@ EUR Private	970
 Economic Development Private	958
 Economic and Private Sector Overview	15179
 Economy and Private Sector Development	13358
+Effect of Data Privacy Law	19890
 El Sector Privado	17112
 Emerging B2- Private	7548
 Emerging Technology and Privacy Enhancing Technologies	8900
 Employer Organizations. Private Sector	1777
+Employment Privacy Law	19890
 Encadrement des Etablissements Privés	15936
 Endpoint Privilege Management EPM	10721
 Enforce Privacy Policies Privacy	34
@@ -655,6 +658,7 @@ International Private Leased Circuits	14723
 Internet of Things and Its Data Privacy Implications	8776
 Interoperable Data Privacy Measures	11956
 Interoperable Data Privacy Measures Article	11956
+Interplay Between the Egyptian Privacy and Data Protection	19890
 Invasion Of Privacy	16935
 Inversión Privada	1701
 Investimento Privado	1265,10165
@@ -859,6 +863,7 @@ Orçamento Privativo	1342,747,2330
 Orçamento Privativo da Assembleia Nacional	1338,4,738,9,13933
 Orçamento Privativo da Comissão Nacional de Eleições	16022
 Os Operadores de Infra-estruturas Críticas Privados	6970
+Overview of Data and Privacy-Related Laws	19890
 P02112ndQuarter2026.pdf Private Bag X44	11296
 PARA INVESTIMENTOS PRIVADOS EM MATÉRIAS-PRIMAS	17100
 PARENTS III.8.2 Privé Cultivateur Eleveur Artisan	10847
@@ -1058,7 +1063,7 @@ Priv. Invest	13868
 Priva	14790
 Privacidade	2816,4154,1517,2906,1,42,20,113,7227,10
 Privacidade de Dados	2816
-Privacy	21,375,186,379,1,242,39,90,247,359,1,174,249,155,440,100,593,1,209,181,382,15,144,7,173,27,454,3,238,193,238,239,150,127,10,190,160,1,134,70,58,96,71,800,108,153,7,11,135,311,29,369,284,44,308,159,12,17,354,123,275,43,1,10,37,7,29,282,3,7,16,53,191,552,4,38,1,144,4,42,25,36,26,30,26,26,537,570,188,29,270,486,7,83,13,12,17,155,21,48,103,28,10,34,199,247,61,46,111,614,599,97,60,259,236,251,191,100,404,157,307,141,530,127,99
+Privacy	21,375,186,379,1,242,39,90,247,359,1,174,249,155,440,100,593,1,209,181,382,15,144,7,173,27,454,3,238,193,238,239,150,127,10,190,160,1,134,70,58,96,71,800,108,153,7,11,135,311,29,369,284,44,308,159,12,17,354,123,275,43,1,10,37,7,29,282,3,7,16,53,191,552,4,38,1,144,4,42,25,36,26,30,26,26,537,570,188,29,270,486,7,83,13,12,17,155,21,48,103,28,10,34,199,247,61,46,111,614,599,97,60,259,236,251,191,100,404,157,307,141,530,127,99,77,12,5
 Privacy Act	3005,11436
 Privacy Article	11956
 Privacy Champions	11956
@@ -1073,6 +1078,7 @@ Privacy Data	961
 Privacy Design E.g. Ensure	11004
 Privacy Design Guidelines for Mobile Application Development	11004,960
 Privacy Develop	16963
+Privacy Directive	19910
 Privacy E ENS ArticleThe New DPO	6632
 Privacy E ENS ArticleVisitor Data	6632
 Privacy Enforcement Authorities	12210
@@ -1094,10 +1100,12 @@ Privacy Key Management	18774
 Privacy Laws	1243,10971
 Privacy Laws I-38	10785
 Privacy Legal	8203
+Privacy Litigation	19890
 Privacy Lost	12038
 Privacy Maturity	6212
 Privacy Notice	6792,212,1432
 Privacy Notice Generator	7409
+Privacy Notices and Consent The PDPC	19910
 Privacy Overview	18230
 Privacy Paradox	8022
 Privacy Policies	11234
@@ -1183,7 +1191,7 @@ Privados. Na	17034
 Privados. Segundo	3246
 Privant	15592
 Privat Darelh	16100
-Private	25,35,246,12,77,341,53,110,59,12,30,154,7,67,33,3,20,270,150,73,37,289,27,3,102,11,4,68,6,38,65,20,74,20,25,48,44,18,36,8,5,50,3,41,1,3,50,41,11,18,4,70,1,8,154,17,88,18,88,38,27,4,88,56,19,119,54,10,14,69,15,126,37,21,38,234,8,89,1,38,16,41,78,22,23,100,55,65,76,29,32,52,123,73,29,32,106,45,58,2,43,10,91,181,78,116,183,19,70,19,69,109,5,33,71,1,32,34,83,7,1,15,9,34,62,108,40,145,1,11,137,178,361,113,104,359,103,17,442,76,210,96,13,132,185,7,22,165,16,46,10,195,543,16,33,10,19,15,8,37,60,67,101,4,2,1,4,35,6,15,52,23,25,60,112,1,55,28,56,249,3,3,6,10,26,47,1,7,11,5,10,39,10,160,6,9,4,26,45,12,31,14,14,2,9,2,4,10,16,12,33,9,4,21,83,2,66,45,1,214,2,16,60,4,151,63,110,15,1,2,1,6,11,15,3,9,30,73,9,42,149,24,183,11,59,10,43,17,71,442,44,1,157,6,13,3,7,23,2,13,61,2,8,18,2,15,1,24,14,30,32,7,19,11,102,28,176,23,9,52,23,13,13,7,73,51,109,12,98,321,44,24,368,74,158,11,9,7,9,4,11,9,4,11,28,6,3,11,4,3,9,12,3,4,2,3,3,18,108,10,24,1,10,60,27,21,3,107,136,268,99,115,95,53,14,158,53,1,82,1,34,56,5,137,121,2,28,26,36,22,41,35,176,358,1,7,4,10,3,11,27,3,48,8,1,4,9,11,11,58,90
+Private	25,35,246,12,77,341,53,110,59,12,30,154,7,67,33,3,20,270,150,73,37,289,27,3,102,11,4,68,6,38,65,20,74,20,25,48,44,18,36,8,5,50,3,41,1,3,50,41,11,18,4,70,1,8,154,17,88,18,88,38,27,4,88,56,19,119,54,10,14,69,15,126,37,21,38,234,8,89,1,38,16,41,78,22,23,100,55,65,76,29,32,52,123,73,29,32,106,45,58,2,43,10,91,181,78,116,183,19,70,19,69,109,5,33,71,1,32,34,83,7,1,15,9,34,62,108,40,145,1,11,137,178,361,113,104,359,103,17,442,76,210,96,13,132,185,7,22,165,16,46,10,195,543,16,33,10,19,15,8,37,60,67,101,4,2,1,4,35,6,15,52,23,25,60,112,1,55,28,56,249,3,3,6,10,26,47,1,7,11,5,10,39,10,160,6,9,4,26,45,12,31,14,14,2,9,2,4,10,16,12,33,9,4,21,83,2,66,45,1,214,2,16,60,4,151,63,110,15,1,2,1,6,11,15,3,9,30,73,9,42,149,24,183,11,59,10,43,17,71,442,44,1,157,6,13,3,7,23,2,13,61,2,8,18,2,15,1,24,14,30,32,7,19,11,102,28,176,23,9,52,23,13,13,7,73,51,109,12,98,321,44,24,368,74,158,11,9,7,9,4,11,9,4,11,28,6,3,11,4,3,9,12,3,4,2,3,3,18,108,10,24,1,10,60,27,21,3,107,136,268,99,115,95,53,14,158,53,1,82,1,34,56,5,137,121,2,28,26,36,22,41,35,176,358,1,7,4,10,3,11,27,3,48,8,1,4,9,11,11,58,90,35,30,16
 Private Account	9400
 Private Alliance for Disaster	19520
 Private Alliance for Disaster Resilient Societies	19520
@@ -1215,7 +1223,7 @@ Private Capital Mobilization PDO Project Development	6539,10560
 Private Capital Mobilization Scheme	4500
 Private Capital Mobilized	12563,3625
 Private Capital Mobilized US	12399
-Private Cloud	14327,5219
+Private Cloud	14327,5219,314
 Private Cloud Gold Tier	14327
 Private Cloud Platinum Tier	14327
 Private Cloud Services	14327
@@ -1262,6 +1270,7 @@ Private Health Institutions Act	7845
 Private Health Institutions Act SECOND SCHEDULE	7845
 Private Health Institutions Act The Private	14773
 Private Health Insurance	16896
+Private Health Sector	19900
 Private Higher Education Institution	14775
 Private Higher Education Institutions	14775
 Private Higher Education Institutions PT	14775
@@ -1284,6 +1293,7 @@ Private Institution	736
 Private Institutions and NGOs	1261
 Private Institutions of Higher Education	16800,1829
 Private Insurance	19531
+Private International Law Department	19854
 Private Investment	12356,4904,649,81
 Private Investment Registration Certificate	18797
 Private Investment. Nigeria	11469
@@ -1377,7 +1387,7 @@ Private Rulings	12629
 Private School Theo Katjimune Primary School	13046
 Private Schools	12975
 Private Secondary Education Authority	14847
-Private Sector	192,707,101,87,117,573,37,14,302,1996,169,162,1,35,3,1,15,16,716,433,226,250,679,716,41,1730,292,119,95,934,9,51,16,2,1,3,60,67,161,7,60,32,115,13,435,66,13,16,1,1,1,35,16,55,158,1,9,77,51,6,43,1,11,1,3,10,78,9,35,24,163,242,29,16,2,154,4,173,50,14,29,30,151,422,418,368,96,6,118,7,123,3,343,131,241,1008,4,4,11,4,75,12,12,124,17,23,18,78,1,24,485,701,63,68,42,86,540,274,1,11,115,6,1,14,155,14
+Private Sector	192,707,101,87,117,573,37,14,302,1996,169,162,1,35,3,1,15,16,716,433,226,250,679,716,41,1730,292,119,95,934,9,51,16,2,1,3,60,67,161,7,60,32,115,13,435,66,13,16,1,1,1,35,16,55,158,1,9,77,51,6,43,1,11,1,3,10,78,9,35,24,163,242,29,16,2,154,4,173,50,14,29,30,151,422,418,368,96,6,118,7,123,3,343,131,241,1008,4,4,11,4,75,12,12,124,17,23,18,78,1,24,485,701,63,68,42,86,540,274,1,11,115,6,1,14,155,14,22,1,65
 Private Sector AI	7548
 Private Sector Academia and Research Institutions Private	14565
 Private Sector Adoption and KPI Monitoring Design	4126
@@ -1774,7 +1784,7 @@ Public and Private Schools	18460
 Public and Private Schools Distribution	18460
 Public and Private Sector	318,5475
 Public and Private Sector Financing Needs	18795
-Public and Private Sector Insurance Fund	15519
+Public and Private Sector Insurance Fund	15519,4336
 Public and Private Sector Leaders As the Ministry	18551
 Public and Private Sectors	12000,4966,1571
 Public and Private Sectors. Data Appraisal	19613
@@ -1904,7 +1914,7 @@ Sector Privado	14,1687,1115,1330,2824,3175,1234,64,496,850,34,3076,999
 Sector Privado ANNEXES List	11366
 Sectores Privado	2816
 Security and Data Privacy	13346
-Security and Privacy	6432,5429,91,408,93,855,37,6357
+Security and Privacy	6432,5429,91,408,93,855,37,6357,158,40
 Security and Privacy Citizens	13308
 Security and Privacy Controls	15149
 Security and Privacy Public	11952

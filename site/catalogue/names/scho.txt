@@ -93,7 +93,7 @@ Any School Services Fund	13287
 Applications for Scholarships	12361
 Applied Technical Schools BoTPT Boards of Trustees	15604
 Applied Technology School	15604
-Applied Technology Schools	15604,442,161
+Applied Technology Schools	15604,442,161,3678
 Approach STRENGTHS LIMITATIONS School Integrates	13681
 Approach The Termly School Report	19776
 Approved Public Schools	18460
@@ -472,6 +472,7 @@ Fr. Kemper Sisokhe Secondary Schools	6946
 Free Quality School Education	18460,1,68,35
 Free Quality School Education Programme	18512
 Free School Policy	11916
+Free Schools Health	19887
 Freemuse Google Scholar Simmert T	9739
 Freetown Secondary School for Girls	18583
 Fuel School Attendance Years of Schooling Access	15244
@@ -601,6 +602,7 @@ Harvard Kennedy School Ash Center for Democratic	5700
 Harvard Kennedy School Case Program. August	5700
 Harvard Kennedy School’s Ash Center Policy	5700
 Harvard School of Public Health	12367,46
+Hauser Global Law School Program	19854
 Haven Smart School	6211
 Head Teachers and School Committee Chairpersons of Pilot	12975
 Head of School	19595
@@ -618,6 +620,7 @@ Henties Bay Philadelphia Pre-Primary School	13046
 High Achievers Private School	13387
 High School	2319,9765,891
 High School Certificate System	2783,12419
+High School Child EGP	19855
 High School Diploma	16947
 High School Namib Primary School	13046
 High School Ongoing Picture	12977
@@ -1006,7 +1009,7 @@ National School Meals Programme	17934
 National School Nutrition Programme	11241,2952
 National School of Administration	3604,7982,1726,2
 National School of Administration and Magistracy	10990
-National School of Artificial Intelligence	15734
+National School of Artificial Intelligence	15734,4170
 National School of Civil Protection	18125
 National School of Government	2526,7576,1080,42
 National School of Legal Professions	19234
@@ -1121,6 +1124,7 @@ Primary School	10748,534,575,1183,175,2029,3835,463,42,1,130
 Primary School Achievement Certificate	14815,17
 Primary School Anambra South East	11857
 Primary School Child	15663
+Primary School Child EGP	19855
 Primary School Education	11879
 Primary School Elia Neromba Secondary School	13046
 Primary School Examination Centres	13477
@@ -1329,7 +1333,7 @@ Schonwetter	1243
 Schoo	11180
 SchooiPhases	11180
 SchooiSpecialisation Indicates	11180
-School	899,915,53,80,41,268,410,1726,317,586,586,330,993,467,920,190,233,1299,335,100,108,113,8,157,48,89,586,3,24,1,10,10,13,88,153,1,15,24,6,17,107,22,4,28,28,20,56,83,380,25,2,63,6,241,23,4,18,57,10,19,263,254,56,437,73,54,187,33,12,66,43,26,23,13,286,3,6,300,25,26,57,2,80,102,115,476,24,392,50,7,41,1,45,92,13,4,34,28,66,502,135,14,74,167,335,17,87,42,298,7,20,20,583,8,43,10,120,56,12,52,5
+School	899,915,53,80,41,268,410,1726,317,586,586,330,993,467,920,190,233,1299,335,100,108,113,8,157,48,89,586,3,24,1,10,10,13,88,153,1,15,24,6,17,107,22,4,28,28,20,56,83,380,25,2,63,6,241,23,4,18,57,10,19,263,254,56,437,73,54,187,33,12,66,43,26,23,13,286,3,6,300,25,26,57,2,80,102,115,476,24,392,50,7,41,1,45,92,13,4,34,28,66,502,135,14,74,167,335,17,87,42,298,7,20,20,583,8,43,10,120,56,12,52,5,22,3
 School A Matutura New Primary School	13046
 School AMU	19284
 School About Message	12407
@@ -1371,6 +1375,7 @@ School Certificate Examinations	13477
 School Certificate Examinations. Option	13477
 School Certificate Ordinary Level	13477
 School Certificate Ordinary Level Examination	13477
+School Child EGP	19855
 School Child High School Child	15663
 School Classroom	15578
 School Classrooms	15578
@@ -1805,7 +1810,9 @@ Teachers and School Heads	11860
 Technical Schools	15604
 Technical Secondary Schools	14922
 Technology Early College High School	17473
+Technology-enabled Open School Systems for All	19871
 Telecommunication and Post OOSC Out of School Children	14897
+Telfer School of Business Administration	19868
 Termly School Report	19776
 Tertiary Scholarships and Students Allowances	12541
 Tertiary Schools	11857
@@ -1897,6 +1904,7 @@ Year School Reports	18911
 Years of Schooling	15244
 Years of Schooling Access Health Services Child	15244
 Years of Schooling School Attendance Cooking	15244
+York University School of Law	19854
 ZRP High School	13361
 Zalapango-Mburura Day Secondary School	13392
 Zambia’s School Feeding Programme	10510

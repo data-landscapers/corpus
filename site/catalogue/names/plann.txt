@@ -292,6 +292,7 @@ Education PPD Planning and Policy Directorate PQTR	18460
 Education Planning Directorate	14851
 Education Policy and Research Planning	19790
 Educational Planning	11860,3236
+Egypt Ministry of Planning and Economic Development	19901
 Egypt's Minister of Planning	9298
 Egyptian Financial Urban Planning	15473
 Egyptian Planners	15473
@@ -553,6 +554,8 @@ Liberia's Ministry of Finance and Development Planning	2252,352
 Lilongwe City Council's Town Planning Committee	12253
 Limiting Met Need for Family Planning	18441
 Local Administration Planning Law No	15473
+Local Authorities and National Planning	19900
+Local Authorities and National Planning No	19900
 Local Government Planning and Resource Allocation Enhanced	14935
 Long Range Planning	2093
 Long-Term Energy Planning GET.transform Launches EU-funded	11936
@@ -629,13 +632,13 @@ Minister of Finance and National Planning	3583,9765,39,49
 Minister of Finance and Planning	3583,11473,3596,964
 Minister of Finance and Planning Her Excellency Dr	14890
 Minister of Financial Services and Economic Planning	14779
-Minister of Planning	4783,4515,2,1468,4373,746,162,115
+Minister of Planning	4783,4515,2,1468,4373,746,162,115,3732
 Minister of Planning Ahmed Rostom	16480
 Minister of Planning Discusses National Statistics Strategy	15664
 Minister of Planning Investment	15141
 Minister of Planning and Development	8754
 Minister of Planning and Development Fitsum Assefa	14121
-Minister of Planning and Economic Development	15664,2878
+Minister of Planning and Economic Development	15664,2878,1318
 Minister of Planning and Economic Development Ahmed Rostom	16480
 Minister of Planning and Economic Development Kenyeh Barlay	14226
 Minister of Planning and International Cooperation	16649
@@ -688,7 +691,7 @@ Ministry of Lands Housing and Country Planning	18476
 Ministry of Lands and Physical Planning	14427
 Ministry of National Planning	11857
 Ministry of National Treasury and Economic Planning	10313
-Ministry of Planning	32,1603,609,2505,1832,66,2761,1353,7,217,201,719,2969,91,50,25,151,181,90,11,40,146,4,386,794,20,39,14,241,141,1479
+Ministry of Planning	32,1603,609,2505,1832,66,2761,1353,7,217,201,719,2969,91,50,25,151,181,90,11,40,146,4,386,794,20,39,14,241,141,1479,1110,9
 Ministry of Planning Ministry of Social Affairs Recovery	16902
 Ministry of Planning and Administrative	15473
 Ministry of Planning and Administrative Reform	15519,144
@@ -783,6 +786,7 @@ National Planning and Trade Email and Phone	18950
 National PlanningCommission	12325
 National Research Prioritisation And Strategic Planning	1554
 National Research Prioritisation and Strategic Planning	1154,400
+National Scheme of Land Planning	19874
 National Spatial Planning Data Repository NT	11261
 National Spatial Planning Policy	16916
 National Strategic Planning	11224
@@ -1366,7 +1370,7 @@ Unreliable Enterprise Resource Planning System	14546
 Updating the Master Urban Planning Plans	10930
 Upgrading the Strategic Planning and Management Capacities	17441
 Urban And Regional Planning Act	13189
-Urban Planning	789,5016,5132,348,4188,1787,1045,171,1079
+Urban Planning	789,5016,5132,348,4188,1787,1045,171,1079,339
 Urban Planning Act	19585
 Urban Planning Authority	16916
 Urban Planning Expert- Alexandria University	15473

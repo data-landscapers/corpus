@@ -143,6 +143,8 @@ Gas Supply Options	18795
 Gbps Optical Ethernet	13185
 Gigabit Passive Optical Network	319,11361
 Grid Options Under Review	5407,676
+Group A Group Option Response	19887
+Group Group Option Response	19887
 HOL Somalia’s Options	3463
 Herd Size Optimization Import	17157
 Huawei’s Optical Transmission Domain	3797
@@ -256,9 +258,9 @@ Operational Mining Optimisation Solutions Limited	3386
 Operations and Optimisation	11995
 Opt-In	11742
 Opt-In and Opt-Out Protocols	3861
-Opt-Out	13462
+Opt-Out	13462,6433
 Opt-in	11742,6290
-Opt-out	11742
+Opt-out	11742,8122
 Opt-out-by-default	6055
 Optasia	347,5885,2355,1625,1782
 Opter	1005,13474
@@ -311,7 +313,7 @@ Optimally	16858
 Optimally the ID	16876
 Optimisa- En	15583
 Optimisa- Par	15583
-Optimisation	998,1344,5611,2759,146,117,158,910,243,1015,21,1352,863,46,54,104,195,1936,12,17,1,201,19,175,818,106,20,113,6
+Optimisation	998,1344,5611,2759,146,117,158,910,243,1015,21,1352,863,46,54,104,195,1936,12,17,1,201,19,175,818,106,20,113,6,535
 Optimisation des Accroître	10712
 Optimisation des Ressources Humaines	14622
 Optimisation du Data Center	1285
@@ -377,12 +379,15 @@ Option	747,496,5180,325,5623,737,267,102,1223,84,296,292,220,309,1213,698,291,21
 Option B	6748,10223
 Option C	6748
 Option Due	12038
+Option Response Group A Group	19887
+Option Response Group A GroupE	19887
+Option Response Group Group	19887
 Optional	34,3127,3262,9,5333,92,424,230,674,338,3377,199,50,1321,515
 Optional Formula	3161
 Optional GPU	13185
 Optional Information for Statistical Purposes	14647
 Optional Phone Number	12281
-Optional Protocol	3583,7243,367,572,436,832,7,57,865,49,731,32,2142,42,338,638,36
+Optional Protocol	3583,7243,367,572,436,832,7,57,865,49,731,32,2142,42,338,638,36,1963
 Optional Protocol. Namibia	13033
 Optional Protocols	14742
 Optional Protocols. Table	14742

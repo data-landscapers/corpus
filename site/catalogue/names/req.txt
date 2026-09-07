@@ -11,6 +11,7 @@ ACTION REQUIRED TO BE TAKEN	4896
 ADDITIONAL REGULATORY REQUIREMENTS	12365
 ADDITIONAL REGULATORY REQUIREMENTS FOR PAYMENT SYSTEM	12374
 ADJUSTMENT IS REQUIRED	17099
+ADSL Silver Requirements	19928
 AFFAIRES ADMINISTRATIVES ET DES REQUÊTES	16547
 AFRICAN UNION Request for Bids Supply and Installation	10616,1
 AIIB Request for Proposal-the Africa Digital Connectivity	8726
@@ -48,10 +49,12 @@ Additional Testing Requirements Software	5665
 Adhere Own-Source Revenues Allocation Requirements TZS	19585
 Administrative Requirements	573,2588
 Administrative Requirements and Financial Rules	12364
+Administrative and Human Resource Requirements	19900
 Admission Requirements Admission	17437
 Adoptions Requirements	12496
 Aerial OFC and Supporting Infrastructure Requirements	19745
 Afrique OBJET DE LA REQUETE Traitement	10821
+Age-Based Requirements Children	19866
 Agreements Actually Require Each MOU	5456
 Agreements SDLC Systems Requirement Specification SLA	19575
 All Request	17099
@@ -69,6 +72,7 @@ Application Requirements Interested	9203
 Applications General Requirements for All Applications	18595
 Apply for Work Permit View Requirements	18540
 Approval of Disbursement Requests	19214
+Approvals Required for Cross-Border Data Transfer	19890
 Approve Requisition	9124
 Approve the Change Request	19575
 Approved Provider Requirement	6432
@@ -239,6 +243,7 @@ D. Corporate Requirements	17458
 D. Cross-Border Data Transfers Requirement	13381
 D. GENERAL TECHNICAL REQUIREMENTS	13185
 DATA REQUIREMENTS	14935
+DC. Requirements for Applying National Identity Card	19921
 DE LA REQUETE	10821
 DE LA REQUETE DECISION FINALE	10821
 DE LA REQUETE DECISION FINALE Particulier	10821
@@ -252,10 +257,12 @@ DIGITAL SYSTEM AND TECHNOLOGY REQUIREMENTS Standard	9855
 DISTRIBUTIONS BY COMPANIES Requirements	3714
 DOCUMENTATION REQUIREMENTS FOR PAPSS TRANSACTIONS	14473
 DPIAs Requirement	13381
+DPO Requirements and Registration The Regulations	19910
 DUAT Requests	427
 Data Exchange Architecture Requirement	11952
 Data Layer Requirement	11952
 Data Lifecycle Management Requirement	11952
+Data Localisation Requirements The PDPL	19890
 Data Migration Requirements	13037
 Data Processing Which Requires Consent	11956
 Data Processing Which Requires Consent Article	11956
@@ -271,6 +278,7 @@ Dbs. Onde Requerer	18834
 De Minimis Contracts This Request for Quotation	17068
 Denial of Requests	16840
 Description Format Requir	11952
+Detailed ROPA Requirements The PDPC's ROPA	19910
 Determination of E&S Instruments Required	17114
 Determinations Meets Minimum Requirements	11005
 Develop Requir Component	17180
@@ -292,6 +300,7 @@ Document Requirement Responsibility Table	17114
 Documentation Requirements	13185
 Documentation and Support Requirement	11952
 Documents Requis	16438,3
+Download E-Invoice Request Form	19919
 Duas Testemunhas Onde Requerer	18834
 Due Diligence Requirements A	11233
 Dévéloppement OBJET DE LA REQUETE Traitement	10821
@@ -374,6 +383,7 @@ Fiscal Device API Gateway Requirements Specifications	13606
 Fiscalisation Requirements All Taxpayers	12509
 Fit and Proper Requirements	8354
 Fit-and-Proper Requirements	18556
+Fixed CDMA Services Required	19928
 Following the Request for Information	14759
 Form of Request	16840
 Formalities of Request for Opinions and Authorizations	14434
@@ -464,9 +474,10 @@ Income Required Minimum	17239
 Incorporate Cybersecurity Requirements	1777
 Index A. REQUEST FOR PROPOSAL FORM	12400
 Industry Needs Assessment New Standard Request	15127
-Information Request	11868,4972,2796
+Information Request	11868,4972,2796,218
 Information Request BDI105008	19636
 Information Request COD200966	11868
+Information Request. Note	19921
 Information Requests	18442
 Information Required	22,13932
 Information Required for Filing	14647
@@ -515,6 +526,7 @@ Kenya Request. State	5692
 Key Compliance Requirements	12961
 Key FM Actions Required No. Action	13331
 Key Procurement Actions Required No. Action	13331
+Key Requirements and What Businesses Need	19910
 LA DGI ENCOURAGE TOUT REQUERANT	15970
 LA REQUETE DECISION FINALE Novotel	10821
 LA REQUETE Traitement	10821
@@ -541,6 +553,7 @@ Legal Publication and Official Gazette Requirements	3861
 Legal Requirements Data Protection Act	6432
 Legal and Regulatory Compliance Requirements NIMC.pdf	4794
 Legal and Regulatory Requirements	14546
+Legislative and Regulatory Requirements	19900
 Legitimation Requirements	12496
 Lesotho Request	12689
 Level Person Qualification and Expertise Required Contractor	17114
@@ -652,6 +665,7 @@ Name Request From Start Date Completion	14746
 Name Requirements	14891
 Name of Requesting Officer	34
 National Framework ESS and Requirements National Laws	1988
+National ID. ID Requirements	19927
 National Payment Systems Collateral Requirement for Net	12364
 National Regulations and International Requirements	19825
 National Requirement	17114
@@ -947,7 +961,7 @@ Request for Bids for Design	12253
 Request for Comments	991,17783
 Request for Documents The Chamber	15175
 Request for Exemptions. Available	13461
-Request for Expression of Interest	962,10563,225,2175,1218,229,822,2381,312
+Request for Expression of Interest	962,10563,225,2175,1218,229,822,2381,312,1036
 Request for Expression of Interest Notice	18711
 Request for Expressions of Interest	8669,6742,1082
 Request for Expressions of Interest Notice	9892,1
@@ -1012,6 +1026,7 @@ Requests for Extension and Augmentation	18823
 Requests for Interconnection	16835
 Requests for Rephasing of Access	17209
 Requests for Rollover of Funds	11250
+Requests for Waiver of Non-observance	19889
 Requests the AU Commission	5825
 RequestsSuggestionsComplaints Don't	15255
 Requiert	10876
@@ -1026,6 +1041,7 @@ Require Transparent Reporting	12675
 Require the FM	3604
 Required	34,1906,175,4,1595,1,146,2003,452,107,2700,80,1775,175,3,77,452,172,19,65,11,441,169,192,285,146,137,1133,647,16,11,534,889,516,46,25,18,82,128,482,54,382,398,889,7,10,15,14,183
 Required Accompanying Documentation	18851
+Required Annual Change	19896
 Required Breakeven Revenue	10738
 Required Budget for Ethiopian National Strategy	13965
 Required C. Lessons Learned and Reflected	17441
@@ -1034,6 +1050,7 @@ Required Current Address	12281
 Required Date	1778
 Required Date of Birth	12281
 Required Documentation	6442,6312
+Required Documentation Necessary	19866
 Required Documents	14891,4745,42
 Required Documents Applicants	12085
 Required Email	12281
@@ -1069,7 +1086,7 @@ Requirement Requirement Level	5244
 Requirement Score	13381
 Requirement Service Description Tariffs and Charges Contract	5676
 Requirement of Final Inspection	12389
-Requirements	28,708,478,29,534,47,850,930,47,34,29,147,184,2010,159,209,9,107,999,10,1575,507,527,213,246,93,56,49,27,338,2,28,60,1069,27,37,81,13,36,30,104,264,143,112,123,3,11,63,221,38,778,225,89,122,35,15,3,54,62,53,1,21,75,105,191,839,520,7,4,33,24,504,130,928,142,303,78,489,46,44,11,1,60,28,66,19,52,33
+Requirements	28,708,478,29,534,47,850,930,47,34,29,147,184,2010,159,209,9,107,999,10,1575,507,527,213,246,93,56,49,27,338,2,28,60,1069,27,37,81,13,36,30,104,264,143,112,123,3,11,63,221,38,778,225,89,122,35,15,3,54,62,53,1,21,75,105,191,839,520,7,4,33,24,504,130,928,142,303,78,489,46,44,11,1,60,28,66,19,52,33,56,10,21
 Requirements A Energy Efficiency MS ISO	14736
 Requirements Additional	12157
 Requirements All	5665
@@ -1114,12 +1131,16 @@ Requirements Traceability Matrix	13037
 Requirements and Bid Consultant Qualifi Open	17180
 Requirements and Bid IDA	17180
 Requirements and Guidelines ISO	12360
+Requirements and Procedures	19921
 Requirements and Procedures for Obtaining	11864
+Requirements and Stages of Transition	19900
 Requirements for Applicants Married	18595
 Requirements for Applicants NOT Married	18595
+Requirements for Applying National Identity Card and Social	19921
 Requirements for Birth Registration	13644
 Requirements for Bodies Providing Halal Certification	16900
 Requirements for Buildings	11269
+Requirements for Data Processing	19890
 Requirements for E-VAT Installation	16038
 Requirements for Issuance	762
 Requirements for NCB. Works	15411
@@ -1134,7 +1155,7 @@ Requirements for Type Approval	736
 Requirements. Note	11209
 Requirements. Specifies	11269
 Requirementsforlocalclinicalval-	8301
-Requires	961,2900,1804,767,1810,882,1732,146,1004,363,75,741,496,2186,965,35,247,146,1271,1270
+Requires	961,2900,1804,767,1810,882,1732,146,1004,363,75,741,496,2186,965,35,247,146,1271,1270,121
 Requires APIs	12444
 Requires ESIA	18370
 Requiring	961,282,3285,835,2108,3304,230,74,77,1146,210,370,6005
@@ -1351,7 +1372,7 @@ Technical Interoperability Requirement	19638
 Technical Interoperability Requirements	19638
 Technical Minimum Require-	6946
 Technical Requirement Scope	13037
-Technical Requirements	11209,3557,314,104
+Technical Requirements	11209,3557,314,104,4716
 Technical Requirements All	11209
 Technical Requirements FIs	11861
 Technical Requirements. Bidders	14766

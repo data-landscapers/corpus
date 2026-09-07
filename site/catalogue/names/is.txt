@@ -298,6 +298,7 @@ Cayman Islands Tax Consequences	7198
 Center of Official Documents Issuance	16942
 Centrais Isoladas Diversos Diversos Diversos Diversos	18793
 Centrais Isoladas S.Tomé	18793
+Central Agency for Public Mobilization and Statistics Issues	19887
 Central Bank of Egypt Issues Governance and Internal	15794
 Central Bank of Egypt Issues Regulations	16590
 Central Bank of Libya Governor Naji Issa	10026
@@ -321,6 +322,7 @@ Christine Marie Isabelle Sauzier	14744
 Christine Marie Isabelle Sauzier Director	14744
 Ci-crête NA ISO	16103
 Cicrêtes Révision ISO	16103
+Circular Letter Issued	19919
 Citizen Amb. Isaac Ochieng	14467
 Citizen Director General Isaac Ochieng	14641
 Citizenship ID Card Issuance and Management System	10714
@@ -1584,6 +1586,7 @@ Isaiah	12956
 Isaiah Hakim Garang	18666
 Isaiah Steinberg	15248
 Isaiah Steinberg Participants	9786
+Isaias Afwerki	19922
 Isaias Barreto da Rosa	16560
 Isaias Okbai	14148
 Isaias Paulo De Brito Trindade	18851
@@ -1753,7 +1756,7 @@ Islaam	14859
 Islaamka	14859
 Islaamku	14859
 Islam	1243,1715,4229,834,1107,1,2396,808,134,2386,43,464,242,1314,5,517,388,3,34,20,1832
-Islam Azzam	9417
+Islam Azzam	9417,10495
 Islam MS	3791
 Islam Timesguida	15933
 Islam and Christianity	19532
@@ -1761,7 +1764,7 @@ Islam. CHAPITRE IV	17826
 Islam. Nearly	10841
 Islamabad	4692,10243
 Islamabad. Sudanese Ambassador	15251
-Islamic	571,584,1803,88,2962,697,233,907,505,594,725,84,948,264,211,554,567,114,2485,1,74,16,355,131,240,1134,5,48,16,5,30,153,213,12,468,73,39,81,1528,46,262
+Islamic	571,584,1803,88,2962,697,233,907,505,594,725,84,948,264,211,554,567,114,2485,1,74,16,355,131,240,1134,5,48,16,5,30,153,213,12,468,73,39,81,1528,46,262,48,28
 Islamic Banking Glossary. Kenya Bankers Association	12297
 Islamic CI-Energies	18374
 Islamic Cooperation OMVG Gambia River Organization	17105
@@ -1891,7 +1894,7 @@ Ismail Patel	6241
 Ismail Taxta	15129
 Ismaila Ceesay	6869,3201,7281
 Ismaila DIALLO	18418
-Ismailia	6631,8842,606
+Ismailia	6631,8842,606,3789,21
 Ismailia Giza Qena	15578
 Ismailia Governorate	15473
 Ismailia Luxor Asyut Beni Suef	15578
@@ -2049,11 +2052,13 @@ Issoufou Ganou. Il	6889
 Issouka	6889
 Issouka. Il	6889
 Issouphou SAWADOGO	8321
-Issuance	736,26,258,505,832,2278,1392,5104,3,47,676,98,21,10,61,104,13,203,6,10,6,107,128,24,18,6,82,80,96,75,66,327,161,1295,26,25,3,3,569,39,59,105,222,939,7,33,94,179,1136,61,96,1077,7
+Issuance	736,26,258,505,832,2278,1392,5104,3,47,676,98,21,10,61,104,13,203,6,10,6,107,128,24,18,6,82,80,96,75,66,327,161,1295,26,25,3,3,569,39,59,105,222,939,7,33,94,179,1136,61,96,1077,7,366
 Issuance Area	14778
 Issuance Database	19541
+Issuance Law	19895
 Issuance Platform Virtual Asset Broker Virtual	10738
 Issuance Premiums	11955
+Issuance Procedures for Documents Related	19854
 Issuance The General Directorate for Civil Registration	14905
 Issuance and Management of Loans	5883,13702
 Issuance of Automated Tracking License Process Description	15283
@@ -2084,7 +2089,7 @@ Issuance of Tax Compliance Certificate	18608
 Issuance of Treasury Securities	17209
 Issuance. STRATEGIC OUTCOME Improved	13005
 Issuances	14997
-Issue	1,586,131,18,225,287,11,383,17,157,12,35,261,652,40,189,709,147,987,48,217,134,102,202,222,253,406,400,38,66,330,272,10,473,5,899,811,421,665,157,101,51,3,6,192,228,54,247,45,279,42,101,36,46,43,71,1,10,12,165,59,127,28,52,90,181,47,1,11,13,77,20,53,6,147,344,56,111,280,186,33,83,10,1,87,3,129,18,32,69,63,363,61,51,171,185,23,60,789,15,20,80,49,112,49,78,132,27,64,912,186,356,6,124,15,463,11,44,74,89,85
+Issue	1,586,131,18,225,287,11,383,17,157,12,35,261,652,40,189,709,147,987,48,217,134,102,202,222,253,406,400,38,66,330,272,10,473,5,899,811,421,665,157,101,51,3,6,192,228,54,247,45,279,42,101,36,46,43,71,1,10,12,165,59,127,28,52,90,181,47,1,11,13,77,20,53,6,147,344,56,111,280,186,33,83,10,1,87,3,129,18,32,69,63,363,61,51,171,185,23,60,789,15,20,80,49,112,49,78,132,27,64,912,186,356,6,124,15,463,11,44,74,89,85,58,8,11
 Issue AI Governance Standards for Financial Services	11138
 Issue AI-specific	6886
 Issue Across Uganda	15960
@@ -2162,7 +2167,7 @@ Issues for Consultation	6748
 Issues of Water Security	15604
 Issues. Section	13323
 Issues. Sector	15372
-Issuing	2578,686,450,1134,2087,3,2461,1413,29,223,112,14,1,7,788,187,154,33,5,24,240,330,10,492,652,778,106,289,107,80,739,627,4,8,1589,25,520
+Issuing	2578,686,450,1134,2087,3,2461,1413,29,223,112,14,1,7,788,187,154,33,5,24,240,330,10,492,652,778,106,289,107,80,739,627,4,8,1589,25,520,902,8
 Issuing Authorities and Members	18595
 Issuing Authority	9880,4165,4550
 Issuing Authority Personnel Title	14045
@@ -2774,8 +2779,9 @@ Pr OKIEMY ISSERET	15524
 Pr. Solange Isabelle ANDEME AFENE	16381
 Practice Manager Maria Isabel A. S	10832
 Practices for Issuers of Securities	7204
+Preparation and Issuance	19900
 President Boakai Issues Landmark Executive Order	17280
-President Isaias Afwerki	14078,23
+President Isaias Afwerki	14078,23,5823
 President Ismail Omar Guelleh	17644
 President Ismaïl Omar Guelleh	4402,574,8953,5907
 President Issoufou Mahamadou and Acting Minister of Foreign	18220
@@ -3044,6 +3050,7 @@ Scientific and Medical ISP	14879,1993
 Second Meeting of Health Ministers of Small Island	14721
 Secretary-General of ISO	17368
 Sector Accounting Standards ISSAI International Standards	19585
+Sectoral Issues	19890
 Securing the Procedure for Issuing the ACD	10930
 Security Policy ISO	10721
 Selected Issues	1828,2,37,10509,2521,4926

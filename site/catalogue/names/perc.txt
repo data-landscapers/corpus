@@ -255,7 +255,7 @@ PercentBaseline GDP GrowthNew GDP Growth	13624
 PercentPaanegorecmeoanflt3iae-gsme	10763
 Percenta-	10777
 PercentaPgeercoefnmtaognethosf	10763
-Percentage	236,553,151,30,234,24,36,20,704,486,238,63,1,113,694,21,74,183,1,791,35,559,286,122,21,863,3,37,14,239,96,620,329,1021,231,487,1098,50,1,3,7,5,5,44,15,12,14,93,1,12,28,127,3,2,16,40,6,13,13,28,10,34,99,22,52,56,28,10,292,2,9,8,5,2,1,8,15,13,6,40,1,6,15,2,6,226,8,28,11,70,9,10,29,4,6,18,18,9,13,80,27,164,281,53,273,1,536,42,813,19,3,70,4,16,1,4,3,53,39,12,33,5,12,26,8,8,17,29,53,21,85,180,23,33,31,3,4,35,21,27,16,2,39,1,2,2,53,9,10,2,108,56,4,22,42,8,36,19,47,65,43,73,176,195,7,67,178,9,4,25,1,4,9,7,7,1,10,11,7,16,6,11,7,25,36,17,31,30,91,4,112,106,33,2,238,127,8,26,54,4,44,98,19,10,168,8,41,4,1,4,82,2,21,65,3,2,90,3,56,71,8,8,17,5,25,8,62,95,263,4,35,123,74,39,21,1,2,168,3,28,1,82,3,6,12
+Percentage	236,553,151,30,234,24,36,20,704,486,238,63,1,113,694,21,74,183,1,791,35,559,286,122,21,863,3,37,14,239,96,620,329,1021,231,487,1098,50,1,3,7,5,5,44,15,12,14,93,1,12,28,127,3,2,16,40,6,13,13,28,10,34,99,22,52,56,28,10,292,2,9,8,5,2,1,8,15,13,6,40,1,6,15,2,6,226,8,28,11,70,9,10,29,4,6,18,18,9,13,80,27,164,281,53,273,1,536,42,813,19,3,70,4,16,1,4,3,53,39,12,33,5,12,26,8,8,17,29,53,21,85,180,23,33,31,3,4,35,21,27,16,2,39,1,2,2,53,9,10,2,108,56,4,22,42,8,36,19,47,65,43,73,176,195,7,67,178,9,4,25,1,4,9,7,7,1,10,11,7,16,6,11,7,25,36,17,31,30,91,4,112,106,33,2,238,127,8,26,54,4,44,98,19,10,168,8,41,4,1,4,82,2,21,65,3,2,90,3,56,71,8,8,17,5,25,8,62,95,263,4,35,123,74,39,21,1,2,168,3,28,1,82,3,6,12,31
 Percentage Addressed	3051
 Percentage Age	15085
 Percentage Agriculture	2775
@@ -317,6 +317,7 @@ Percentage Distribution of Youth	19715
 Percentage E’000 Change Improvement	11131
 Percentage Female Male	14775
 Percentage II	19519
+Percentage Implementation	19925
 Percentage Increase	16921
 Percentage Industrial	12256
 Percentage Industry	2775
@@ -491,7 +492,7 @@ Percepteur	17817
 Percepteur du Trésor	17861
 Percepteurs	17485,376
 Perceptibilité	15936
-Perception	5247,1712,927,136,1107,1260,370,78,473,842,94,82,12,49,969,60,2075,544,291,1113,664,64,1470
+Perception	5247,1712,927,136,1107,1260,370,78,473,842,94,82,12,49,969,60,2075,544,291,1113,664,64,1470,239
 Perception Survey	6946
 Perception of Corruption	17139
 Perception of Lack of Skills	12445
@@ -540,36 +541,36 @@ Profit Sharing Percentage Ratio	11276
 Project Percentage of Approval	15424
 Project Perception	8405
 Province Political Party Valid Votes Percentage	12201
-Public Perception	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,4523,2641,1,169,14
-Public Perception of Accountability	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Public Perception	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,4523,2641,1,169,14,22,1,65
+Public Perception of Accountability	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Public Perception of Accountability Anti-Corruption	10759,1130,265,9,178,7312
-Public Perception of Anti-Corruption	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Public Perception of Anti-Corruption	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Public Perception of Anti-Corruption PARTICIPATION	10759,1395
 Public Perception of Anti-Corruption Rule of Law	11889,274,178,7312
-Public Perception of Easiness	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Public Perception of Easiness	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Public Perception of Economic	11870
-Public Perception of Economic Opportunities	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Public Perception of Economic Opportunities	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Public Perception of Economic Opportunities Infrastructure	10759,1395
-Public Perception of Education Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Public Perception of Education Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Public Perception of Education Provision Social Protection	10759,1395
-Public Perception of Female Leadership	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Public Perception of Female Leadership	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Public Perception of Female Leadership FOUNDATIONS	12154
 Public Perception of Female Leadership Participation	11889,274,178,7312
-Public Perception of Freedom of Speech	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Public Perception of Freedom of Speech	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Public Perception of Freedom of Speech Inclusion	10759,1130,265,9,178,7312
-Public Perception of Health Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Public Perception of Health Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Public Perception of Health Provision Education	10759,1395
 Public Perception of Health Provision Reading	11889,452
-Public Perception of Inclusion	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
-Public Perception of Infrastructure	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Public Perception of Inclusion	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Public Perception of Infrastructure	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Public Perception of Infrastructure Rural Economy	10759,1130,265,9,178,7312
-Public Perception of Political Participation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Public Perception of Political Participation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Public Perception of Political Participation Access	11886
 Public Perception of Political Participation FOUNDATIONS	12163,178,7312
 Public Perception of Political Participation RIGHTS	19822
 Public Perception of Political Participation Rights	10759,1395
-Public Perception of Security	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
-Public Perception of Social Protection	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Public Perception of Security	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Public Perception of Social Protection	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Public Services Public Perception of Inclusion	10759,78,1315,188
 Q1 Q2 Q3 Q4 Percentage	11986
 Q3 Q4 Percentage	11986

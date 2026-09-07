@@ -281,6 +281,7 @@ Cellular Network Operator License The Telecommunications	18444
 Census Operation Manager	16921
 Central African Republic Operation ID P179211	15658
 Central Bank Operations	1155
+Central Bank of Egypt. Operator	19901
 Central Banking Operations	2287
 Central Government Operations	13868,4041,81
 Central Region. Operational District	3386
@@ -363,6 +364,7 @@ Confirm Fully Operational Government Digital Agency	12214
 Conformidade Operacional Experiência	11448
 Congo. Operators	7347
 Connected Operating Load Current	13185
+Console Operating System Market	19931
 Consolidated Operations	17209,117
 Consortium of Telco Operators	6019
 Construction Construction Solaire Solaire Operateur	15670
@@ -1655,12 +1657,13 @@ Operate National Telecom Network	2843
 Operate and Transfer	6119,894,9701,1900
 Operate of Mining	11006
 Operate the Technical Clearance	17394
-Operated	6791,1217,3944,727,1347,1385,4174
+Operated	6791,1217,3944,727,1347,1385,4174,300
+Operated Assistance International Service	19929
 Operates	294,53,1068,4800,725,11169,1692
 Operateur	10975,5554
 Operateur Lualaba Kolwezi Construction	15670
 Operateurs	15584
-Operating	34,715,805,434,787,28,4,4,372,227,93,359,540,353,141,253,173,365,313,155,1331,532,109,996,612,91,392,288,208,79,338,3,96,295,85,245,19,7,1,73,1,345,144,597,11,121,182,47,209,49,726,18,413,103,243,120,58,30,39,62,45,141,602,324,225,33,59,333,464,184,410,169,425,698,31,111,41,55
+Operating	34,715,805,434,787,28,4,4,372,227,93,359,540,353,141,253,173,365,313,155,1331,532,109,996,612,91,392,288,208,79,338,3,96,295,85,245,19,7,1,73,1,345,144,597,11,121,182,47,209,49,726,18,413,103,243,120,58,30,39,62,45,141,602,324,225,33,59,333,464,184,410,169,425,698,31,111,41,55,62,46
 Operating Account	13331
 Operating Activities	14736
 Operating Azimuth	736
@@ -1818,7 +1821,7 @@ Operation of National Statistical System	12530
 Operation of Various Types of Bodies Performing Inspection	16900
 Operation the Information Regulator	10729
 OperationVulindlela	11236
-Operational	1554,167,81,16,61,212,1295,1048,354,745,144,199,270,296,29,197,270,235,105,124,146,100,103,414,176,436,346,114,221,155,3,486,666,25,19,7,22,3,76,17,32,1,27,134,2,1,4,18,261,190,277,1,7,3,10,47,1,33,67,5,4,97,1,45,92,41,13,5,8,63,60,13,49,358,31,12,55,48,219,59,87,433,78,737,7,55,2,6,23,77,8,53,25,20,3,26,26,26,11,2,54,40,6,28,41,1,38,98,69,49,58,86,57,2,50,264,31,24,180,105,95,293,127,46,46,44,2,179,8,23,225,290,267,118,23,20,50,13,31,245,3,64,2,6,250,198,161,138,170,66,56,9,56,36,44,26,54,7
+Operational	1554,167,81,16,61,212,1295,1048,354,745,144,199,270,296,29,197,270,235,105,124,146,100,103,414,176,436,346,114,221,155,3,486,666,25,19,7,22,3,76,17,32,1,27,134,2,1,4,18,261,190,277,1,7,3,10,47,1,33,67,5,4,97,1,45,92,41,13,5,8,63,60,13,49,358,31,12,55,48,219,59,87,433,78,737,7,55,2,6,23,77,8,53,25,20,3,26,26,26,11,2,54,40,6,28,41,1,38,98,69,49,58,86,57,2,50,264,31,24,180,105,95,293,127,46,46,44,2,179,8,23,225,290,267,118,23,20,50,13,31,245,3,64,2,6,250,198,161,138,170,66,56,9,56,36,44,26,54,7,54,3,37
 Operational Acceptance	7987,5198,1905
 Operational Acceptance Certificate	13054,5607
 Operational Acceptance Tests	13185,1905
@@ -2203,7 +2206,7 @@ Operator-Operator Complaints	15670
 Operator-facing	11801
 Operator-level	14297
 Operator. Hence	3862
-Operators	718,18,1565,153,257,65,695,44,33,93,160,61,42,519,136,49,29,438,41,84,44,261,23,257,15,11,97,92,266,73,220,34,78,37,40,142,56,120,221,115,146,361,218,80,59,132,270,160,282,2,9,2,385,15,120,93,23,91,5,1,299,382,51,268,102,536,56,13,79,86,113,16,127,248,153,10,283,271,363,2,17,57,218,345,36,220,184,282,1,145,9,3,250,17,22,16,13,186,37,75,33,236,629,464,2,2,26,4,41,186,29,15,11,87,38,524,96,574,9,9,60,113,85,167,45,52,1,380,280,26,57,17,56
+Operators	718,18,1565,153,257,65,695,44,33,93,160,61,42,519,136,49,29,438,41,84,44,261,23,257,15,11,97,92,266,73,220,34,78,37,40,142,56,120,221,115,146,361,218,80,59,132,270,160,282,2,9,2,385,15,120,93,23,91,5,1,299,382,51,268,102,536,56,13,79,86,113,16,127,248,153,10,283,271,363,2,17,57,218,345,36,220,184,282,1,145,9,3,250,17,22,16,13,186,37,75,33,236,629,464,2,2,26,4,41,186,29,15,11,87,38,524,96,574,9,9,60,113,85,167,45,52,1,380,280,26,57,17,56,66
 Operators Are Expanding Beyond Connectivity Africa	6714
 Operators B1 and B	18450,91
 Operators Gross Mobilisation and Turnover Costing	16884
@@ -2824,7 +2827,7 @@ System Operators and Payment Service Providers URL	15794
 System and Technical Operator	12364
 Systematic Operating Risk-Rating Tool TA Technical	15411
 Systematic Operations Risk Rating Tool	18359
-Systematic Operations Risk-Rating Tool	6833,5891,2186
+Systematic Operations Risk-Rating Tool	6833,5891,2186,4945
 Systematic Operations Risk-Rating Tool Systematic Tracking	15658
 Systematic Operations Risk-rating Tool Risk Category	18473
 Système Intégré de Gestion des Operations Budgétaires	16032
@@ -2846,6 +2849,7 @@ Targeted Financial Sanctions Operational Framework	11277
 Tariffs Operator	6671
 Tax Administration Operational Strength Indices	13624
 Tax Operation Division	12500
+Tax Solutions Operation Technology Company E-Tax	19919
 Taxi Operators Welfare Fund	10296
 Technical Capacity and Operation	18612
 Technical Operations	7114,492
@@ -2992,6 +2996,7 @@ World Bank Operational Policy Proposed Operation	19284
 World Bank Operations	17458
 World Bank Operations Policy and Country Services	17862
 World Bank Support Team. Geospatial Operation	10765
+World Bank's Managing Director of Operations Anna	19873
 World Bank's Operation Policy OP	16638
 World Bank-Financed Health Sector Operations Project	10829
 World Bank. E. Legal Operational Policies	11965

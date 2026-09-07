@@ -1,6 +1,7 @@
 A. EQUIPEMENTS DESIGNATION QUANTITE Nettoyeur	17817
 A. MATERIEL ROULANT QUANTITE	17817
 A. QUALITY OF MONITORING AND EVALUATION	15424,87,90,62,68,1221,897,13,903
+A. Qualifying	19860
 AI Agents. QuantumBlack	16266
 AI and Quantum Computing	4849
 AIMEE VYDA QUASHIE	7464,1268
@@ -67,7 +68,7 @@ Agency for Healthcare Research and Quality	8604,2176
 Agricultural Quarantine	4811,453,53,458,129
 Aimee Vyda Quashie	7464
 Air Emissions and Ambient Air Quality	17114
-Air Quality	8891,1868,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,986,6178,1,169,14
+Air Quality	8891,1868,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,986,6178,1,169,14,22,1,65
 Air Quality Act	11228
 Air Quality Index IRI	18309
 Air Quality Management Centre CLIMDEV	18309
@@ -75,6 +76,7 @@ Air Quality Monitoring and Forecasting System	16947
 Air Quality Sustainable Use of Land	10837
 Air Quality and Noise Biological Resources and Natural	17114
 Alei-n-13-2019-aprova-a-lei-do-iva Quarta	18764
+Algeria By Quantum Media	19909
 Analyse Quantitatives	16381
 Angolan Quality System	11493
 Angop Quarta	11429,3,47
@@ -518,7 +520,7 @@ Ebow Quayson	8442
 Ecole Quartier	19840
 Education Access and Quality Improvement Project	15550
 Education Education Quality Public Perception of Education	10837,1315,188
-Education Quality	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1503,5661,1,169,14
+Education Quality	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1503,5661,1,169,14,22,1,65
 Education Quality Project	19835
 Education Quality SADC Southern African Development	13310
 Education Standards and Quality Assurance Council	899
@@ -719,7 +721,7 @@ Health Data Quality Intervention	10881
 Health Facility Quality Index	16896,26
 Health Information Technology Systems and Quality of Care	10784
 Health Network Quality Improvement System IAM	14442
-Health Quality	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Health Quality	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Health Quality Public Perception of Female Leadership	12488
 Health Unit QEHSSSP Quality Essential Health	18478
 Heliodoro Quaresma Ponto Focal CNULCD	18760
@@ -784,6 +786,7 @@ Improved Quality of Life Energy	14745
 Improved Quality of National Accounts	15085
 Improved Quality of National Accounts4	15085
 Improvement of Quality and Relevance of Education	16852
+Improvement of Service Quality and Accessibility	19900
 Improving Education Quality and Results for All MNO	17870
 Improving Quality and Equity of Basic Education Project	19245,4
 Improving Quality and Focuses	19245
@@ -1338,6 +1341,7 @@ QGAS. QUADRO INSTITUCIONAL PARA A GESTÃO	11542
 QM Quality	16971
 QMS Quality Management System RIPPS Rwanda	15023
 QNI Quadro Nacional de Interoperabilidade TIC Tecnologias	18774
+QS Quacquarelli Symonds Ltd	19862
 QUADRO AMBIENTAL E SOCIAL	11390
 QUADRO DA ESTRATÉGIA DE DADOS	18801
 QUADRO DE FIGURAS Figura	2138
@@ -1701,7 +1705,7 @@ Qualifying Small Enterprises	11209
 Qualifying Training and Employment	15553
 Qualisys Consulting	11555,5530
 Qualisys Consulting Limited	11555,5530
-Qualitative	445,454,320,42,727,105,1698,3041,446,270,582,2058,631,316,1111,221,1471,1101,83,98,1109,29,256,526,1575,39,787,119,114
+Qualitative	445,454,320,42,727,105,1698,3041,446,270,582,2058,631,316,1111,221,1471,1101,83,98,1109,29,256,526,1575,39,787,119,114,104
 Qualitative Analysis	5349
 Qualitative Data Collected	11935
 Qualitative Exploratory Study	226
@@ -1722,7 +1726,7 @@ Qualitative and Quantitative Study	15460
 Qualitatively	10852,2126
 Qualitus Ketjimambo	10358
 Qualitus Ketjimambo. Wide-ranging	10358
-Quality	25,2,209,530,5,169,18,12,2,189,48,73,2,534,67,890,876,123,17,1455,103,316,386,781,116,256,74,355,130,367,294,15,628,1708,9,45,52,67,15,1,169,1,22,60,277,364,6,11,7,37,37,196,24,24,28,110,9,49,53,103,100,55,51,143,29,102,27,146,14,92,4,5,1,11,27,27,2,31,28,15,43,182,301,4,9,98,336,14,290,8,6,15,10,78,7,26,5,2,1,4,22,13,23,39,30,99,23,15,80,167,163,30,23,32,2,70,12,17,29,244,111,68,224,178,225,12,33,2,6,8,22,5,12,3,5,13,18,171,138,154,134,294,1,88,13,138,200,61,71,17,71,14,14,21,49,127,157,40,31,302,190,45,2,11,10,2,11,2,19,58,115,86,5
+Quality	25,2,209,530,5,169,18,12,2,189,48,73,2,534,67,890,876,123,17,1455,103,316,386,781,116,256,74,355,130,367,294,15,628,1708,9,45,52,67,15,1,169,1,22,60,277,364,6,11,7,37,37,196,24,24,28,110,9,49,53,103,100,55,51,143,29,102,27,146,14,92,4,5,1,11,27,27,2,31,28,15,43,182,301,4,9,98,336,14,290,8,6,15,10,78,7,26,5,2,1,4,22,13,23,39,30,99,23,15,80,167,163,30,23,32,2,70,12,17,29,244,111,68,224,178,225,12,33,2,6,8,22,5,12,3,5,13,18,171,138,154,134,294,1,88,13,138,200,61,71,17,71,14,14,21,49,127,157,40,31,302,190,45,2,11,10,2,11,2,19,58,115,86,5,90,1
 Quality AI	12210
 Quality Activity	16863
 Quality Analysis Fee	18541
@@ -1910,6 +1914,7 @@ Quality and Relevance	899,12076
 Quality and Relevance of Education	16852
 Quality and Relevance of Learning and Teaching	15604
 Quality and Relevance of Learning and Teaching Article	15604
+Quality and Relevant	19933
 Quality and Reliability of Services	19596
 Quality and Safety of Care	18627
 Quality and Sustainability	11673
@@ -1942,6 +1947,7 @@ Quality of Life and Status of Women	11193
 Quality of Loans	15023
 Quality of Matching Matching Quality Tests	12978
 Quality of Mauritius Statistics Compared	14777
+Quality of Mortality	19887
 Quality of No None	18754
 Quality of Official Statistics	17149
 Quality of Official Statistics Types	17149
@@ -2063,7 +2069,7 @@ Quand la Pourcentage	13300
 Quand le Numérique	18252
 Quando	14,1,534,195,2122,653,3451,148,885,157,1016,147,178,1050,200,1,1,2,22,586,2,3,2,3,1,10,28,4,9,5,13,2,1,15,6,53,3,54,5,319,117,293,464,7,2,77,2497,22,5,7,4,37,7,10,27,32,11,34,18,200,250,5,62,33,203,768,7,78,122,1449,3,1,2,3,3,3,10,4,22,1,1,28,3
 Quansah	11140
-Quant	565,172,550,421,210,145,217,62,281,343,138,234,58,69,241,48,235,394,3,73,91,263,61,848,512,204,312,18,59,36,96,255,92,328,36,203,53,3,298,94,570,676,148,16,658,323,105,4,5,49,2,8,80,683,178,242,1232,25,16,49,37,15,25,15,29,939,29,48,46,24,793,8,1,24,89,30,57,40,34,38,1,116,61,47,259,133,37,13,97,13,57,95,852,113,225,12,3,19,8,13,16,44,14,24,107,10,3,2,43,2,7,12,117,5,16,15,43,53,501,7,46,14,17,1,32,180,44,31,4,350
+Quant	565,172,550,421,210,145,217,62,281,343,138,234,58,69,241,48,235,394,3,73,91,263,61,848,512,204,312,18,59,36,96,255,92,328,36,203,53,3,298,94,570,676,148,16,658,323,105,4,5,49,2,8,80,683,178,242,1232,25,16,49,37,15,25,15,29,939,29,48,46,24,793,8,1,24,89,30,57,40,34,38,1,116,61,47,259,133,37,13,97,13,57,95,852,113,225,12,3,19,8,13,16,44,14,24,107,10,3,2,43,2,7,12,117,5,16,15,43,53,501,7,46,14,17,1,32,180,44,31,4,350,266
 QuantStudio	13617
 Quanta Club	15290
 Quantas	10777
@@ -2082,7 +2088,7 @@ Quantifying the Revenue Yields	10997,1951
 Quantiles T1 Top	10764
 Quantilope	7278
 Quantitatifs	748
-Quantitative	2948,843,3968,371,246,753,487,1934,458,289,1060,628,1137,1066,783,168,10,8,491,1067,522,297,42,69,15
+Quantitative	2948,843,3968,371,246,753,487,1934,458,289,1060,628,1137,1066,783,168,10,8,491,1067,522,297,42,69,15,218
 Quantitative Analysis	12978,354
 Quantitative Engineering Design	12240
 Quantitative Impacts The Qualitative Impacts	16885
@@ -2124,7 +2130,7 @@ Quantité Tarif	15999
 Quantités	3396,7480,3612,1,1,1509,2064
 Quanto	5988,340,838,837,824,1923,1,7,14,5,295,319,165,13,7,1,356,908,2679,569,1077,1601,1,4,3,9,7,2,3,2,4,51,116
 Quantum	4893,1605,105,3390,7154,589,2065
-Quantum Computing	961,3567,3020,4964,3690,10,2234,1086
+Quantum Computing	961,3567,3020,4964,3690,10,2234,1086,353
 Quantum Computing Working Group	8534
 Quantum Computing Working Group. The Kingdom	8645
 Quantum Computing and Emerging Technologies	16202
@@ -2488,7 +2494,7 @@ Registration of Architects and Quantity Surveyors BOSA Back	2775
 Regulamento de Fiscalização da Qualidade	2816
 Regulations for Fiscal Board Qualifications	16970
 Regulatory Monitoring of Tariffs and Service Quality	12389
-Regulatory Quality	14897,2099,1771,5
+Regulatory Quality	14897,2099,1771,5,1159
 Regulação da Qualidade de Serviço	11430
 Relative Education Qualification	11180
 Relevance and Quality Management Practices	14777
@@ -2815,6 +2821,7 @@ Year Quar- Agriculture Mining	2775
 Year Quarter Public Ad- Profes- Real	2775
 Year Quarterly	18817
 Years of Quality Education for All Girls	12175
+Yes. Quality	19887
 Yorro Bawol Staff Quarters	16922
 Yorro Bawol Staff Quarters. Authority	16896
 ZAMBIA QUALIFICATIONS AUTHORITY	13371

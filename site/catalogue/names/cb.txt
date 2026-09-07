@@ -75,7 +75,7 @@ CB Circular No	12364
 CB Dunbar	17289
 CB EWS	15120
 CB Equity	18500
-CB Insights	14819,2123,928
+CB Insights	14819,2123,928,1992
 CB Insights and Briter Bridges	16942
 CB-ECD	15138
 CB-ECD Home and Community Based Early Childhood	15138
@@ -114,6 +114,7 @@ CBDC Tracker	14547
 CBDC-compatible	11130
 CBDC-related	6672
 CBDC. Card Payment	7221
+CBDC. Channels	19901
 CBDC. G	12343
 CBDC. The Bank	12343
 CBDC. The CBE	11130
@@ -176,10 +177,13 @@ CBE Team	11134
 CBE The Bank	11134
 CBE and Afreximbank	4401
 CBE and CIO Africa	10025
+CBE and EBC	19901
 CBE and Lesotho National Development Cooperation	11134
 CBE's Financial Inclusion Datahub	9624
 CBE-Birr	8671
+CBE-hosted	19875
 CBE-linked PoS	5869
+CBE. Banks	19901
 CBE. Coin	11134
 CBE. Critical Factors Key Performance Targets	11131
 CBE. EXCO	11131,3
@@ -623,6 +627,7 @@ Number of CB	14997
 Onatel and Lumitel. CBINet	13312,2
 Ongoing CBS	18825
 PAYMENT SYSTEMS The CBE	11131
+PWDs. CBE	19875
 Parallel Market and CBN	3862
 Participants. CBG	16844
 Payment Switch CBE	11134

@@ -43,7 +43,7 @@ Absence of Recognition	12246
 Abstract Electronic Health Records	11990
 Accelerated Health and Education Recovery Program Launch	15244
 Accelerated Recovery Framework	7760,11421
-Accessibility of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Accessibility of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Accessible Record	12185
 Account Recovery	13037
 Accreditation Ceremony Reflects Official Recognition	13816
@@ -275,12 +275,12 @@ Concluding Observations and Recommendations	8485,4555,1109,593
 Conclusion And Recommendations	12411,2676
 Conclusion and Policy Recommendations	10718,477
 Conclusion and Recommendation	17043
-Conclusion and Recommendations	236,3155,8760,793,369,1619,4622,106
+Conclusion and Recommendations	236,3155,8760,793,369,1619,4622,106,229
 Conclusion and Recommendations Kenya	14932
 Conclusion and Recommendations The ECCE	12975
 Conclusion and Recommendations. The National	12151
 Conclusion48 Recommendations	12227
-Conclusions and Recommendations	1824,10182,972,2649,2993
+Conclusions and Recommendations	1824,10182,972,2649,2993,1310
 Conclusions and Recommendations Please	15627
 Conduct of Recognition Review	3503
 Confirmation and Approval of Records	12226
@@ -457,7 +457,7 @@ Disaster Recovery Test Tier	10721
 Disaster Recovery and Business Continuity	16924
 Disaster Recovery and Business Continuity Plans	4610
 Disaster Reduction and Recovery Government of Angola	10763
-Disclosure of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Disclosure of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Discrepancies Between WEZESHA Portal and Manual Records	19585
 Discussion and Recommendations	4439
 Disposal of Obsolete Records	13398
@@ -581,6 +581,7 @@ Equipment EHR Electronic Health Records EIA	2775
 Equitable and Resilient Recovery	18301
 Equity Group’s Africa Recovery and Resilience Plan	7073
 Era Of Manual Records	16796
+Eritrean ID. Paying the Recovery and Rehabilitation Tax	19927
 Eskom’s Generation Recovery Plan	11992
 Et Dépasse Un Record De Pelé	4960,62,2035
 Ethics Recommendations	12356
@@ -775,6 +776,7 @@ ITU-T Recommendation L.1310.88	19245
 IV- Recours	15747
 IV. CONCLUSÃO E RECOMENDAÇÕES	17147
 IV. Recomendações da Ordem	11436
+IV. Recommendations	19920
 Identification Records	9237
 Identify Protect Detect Respond Recover All	6423
 Identiﬁcation Records	8605
@@ -819,7 +821,7 @@ Inter-Agency Recognition	12389
 Interest and Recovery	17249
 Internal Control Recommendations Implemented Not Implemented	14738
 International Bank for Reconstitution and Development	10812,1722
-International Bank for Reconstruction and Development	131,72,77,1,1,204,2,173,8,206,226,382,4,689,713,4564,3261,51,10,5,5,56,60,75,1,8,150,14,122,39,107,128,27,295,7,5,2,1,299,147,7,11,42,38,115,427,217,129,81,318,482,351,96,188,234,16,331,142,105,67,361,910,445,83,382,1331,426,176
+International Bank for Reconstruction and Development	131,72,77,1,1,204,2,173,8,206,226,382,4,689,713,4564,3261,51,10,5,5,56,60,75,1,8,150,14,122,39,107,128,27,295,7,5,2,1,299,147,7,11,42,38,115,427,217,129,81,318,482,351,96,188,234,16,331,142,105,67,361,910,445,83,382,1331,426,176,33
 International Bank for Reconstruction and Development Loans	17180
 International Business Commons Recommended Citation Sere-	10
 International Recognition	19532
@@ -1114,6 +1116,7 @@ PAD00215 INTERNATIONAL BANK FOR RECONSTRUCTION	15659
 PAD1567 INTERNATIONAL BANK FOR RECONSTRUCTION	15411
 PAD3510 INTERNATIONAL BANK FOR RECONSTRUCTION	11380
 PAD4428 INTERNATIONAL BANK FOR RECONSTRUCTION	15518
+PAD5163 INTERNATIONAL BANK FOR RECONSTRUCTION	19855
 PADHI00535 INTERNATIONAL BANK FOR RECONSTRUCTION	10768
 PADHI01184 INTERNATIONAL BANK FOR RECONSTRUCTION	6539
 PADHI01209 INTERNATIONAL BANK FOR RECONSTRUCTION	11417
@@ -1169,6 +1172,7 @@ Per Second RTO Recovery Time Objective	11952
 Percentage Completion of DGTS Recommendations	14750
 Percolation Leaching for Artisanal Gold Recovery	1554
 Period Records	18470
+Periods Records	19920
 Personal Health Record	7981
 Personal Name Records	19590
 Personal Records Database	10714
@@ -1435,7 +1439,7 @@ Recognise. Avoid. Respond. Recognise	10725
 Recognised	6832,4568,1252,4231,1,2124
 Recognised By INEC	2355,176,4,1,56,3,339,96,901,1006,1761,673
 Recognised System	12528
-Recognising	26,1,1,368,177,670,575,1130,54,298,351,534,139,524,396,2,434,192,608,427,408,158,455,435,246,138,42,241,630,675,125,42,149,171,34,104,57,66,48,62,2,67,775,358,68,78,72,67,284,5,4,25,312,48,104,223,354,370,55,284,13,11,353,217,1169,264,242,211,1262,570
+Recognising	26,1,1,368,177,670,575,1130,54,298,351,534,139,524,396,2,434,192,608,427,408,158,455,435,246,138,42,241,630,675,125,42,149,171,34,104,57,66,48,62,2,67,775,358,68,78,72,67,284,5,4,25,312,48,104,223,354,370,55,284,13,11,353,217,1169,264,242,211,1262,570,830,27
 Recognising AI	14601
 Recognising ICT	7365
 Recognising Liberia	5244
@@ -1478,7 +1482,7 @@ Recognized Cloud Computing Service Models and Deployment	16923
 Recognized RIR	3503
 Recognized for Fair Play THE LEADERSHIP	18576
 Recognizes	12964,1910,2240,26
-Recognizing	1212,52,1421,172,235,252,517,265,134,41,1118,21,333,52,607,89,21,70,237,1117,184,33,194,484,994,490,375,43,1,88,133,211,39,97,214,17,15,632,23,96,70,14,328,45,170,8,13,28,37,18,272,24,62,349,237,9,21,5,2,5,11,33,16,684,22,79,6,25,19,5,19,8,61,22,64,10,8,9,333,138,3,104,100,135,17,235,81,547,30,6,9,36,1,19,2,23,7,2,10,11,15,6,1,96,13,30,130,80,172,367,387,194,106,202,74,16,250,396,1,4,19,122,51,73,1
+Recognizing	1212,52,1421,172,235,252,517,265,134,41,1118,21,333,52,607,89,21,70,237,1117,184,33,194,484,994,490,375,43,1,88,133,211,39,97,214,17,15,632,23,96,70,14,328,45,170,8,13,28,37,18,272,24,62,349,237,9,21,5,2,5,11,33,16,684,22,79,6,25,19,5,19,8,61,22,64,10,8,9,333,138,3,104,100,135,17,235,81,547,30,6,9,36,1,19,2,23,7,2,10,11,15,6,1,96,13,30,130,80,172,367,387,194,106,202,74,16,250,396,1,4,19,122,51,73,1,58,15,25,26
 Recognizing AI	6948
 Recognizing BAM	17503
 Recognizing Congo	15553
@@ -1579,7 +1583,7 @@ Recommendation for Orange Corners	13358
 Recommendation for Orange Corners Innovation Fund	13358
 Recommendation. Chad	18930
 Recommendation. The Ghanaian	4126
-Recommendations	396,503,362,293,198,62,14,268,21,505,102,224,73,217,265,94,44,37,252,160,36,61,396,151,863,78,2,103,249,276,82,76,285,21,12,156,10,1,1,2,247,63,448,896,66,411,47,74,196,217,239,161,12,60,128,547,12,1,36,17,12,24,139,138,143,4,111,153,194,110,45,25,37,13,9,20,52,93,45,5,9,4,13,15,55,28,3,48,3,32,246,2,4,123,131,18,40,3,73,236,23,2,1,1,21,23,30,30,2,41,71,390,94,243,169,6,38,154,48,49,19,35,68,10,40,2,100,26,319,30,43,32,26,7,31,814,275,105,148,4,19,24,16,10,18,3,3,5,8,8,128,15,25,10,8,92,11,609,1,23,57,20,473,17,25,68,59,1,1,2,8,4,55,19,185,24,1,19,177,413,33,3,27,1,56,19,19
+Recommendations	396,503,362,293,198,62,14,268,21,505,102,224,73,217,265,94,44,37,252,160,36,61,396,151,863,78,2,103,249,276,82,76,285,21,12,156,10,1,1,2,247,63,448,896,66,411,47,74,196,217,239,161,12,60,128,547,12,1,36,17,12,24,139,138,143,4,111,153,194,110,45,25,37,13,9,20,52,93,45,5,9,4,13,15,55,28,3,48,3,32,246,2,4,123,131,18,40,3,73,236,23,2,1,1,21,23,30,30,2,41,71,390,94,243,169,6,38,154,48,49,19,35,68,10,40,2,100,26,319,30,43,32,26,7,31,814,275,105,148,4,19,24,16,10,18,3,3,5,8,8,128,15,25,10,8,92,11,609,1,23,57,20,473,17,25,68,59,1,1,2,8,4,55,19,185,24,1,19,177,413,33,3,27,1,56,19,19,221
 Recommendations Adaptive	10763
 Recommendations Africa	6938
 Recommendations Agricultural Land Protection	17157
@@ -1909,7 +1913,7 @@ Recordkeeping	18556
 Recordkeeping and Archival Requirements	3861
 Recordlinkagefor	8606
 Recordou	5150,10832
-Records	771,199,278,85,141,304,210,1142,537,194,46,438,667,963,216,749,45,1619,1,311,321,613,5,957,167,874,7,354,3,36,72,31,3,54,43,74,1,120,3,323,273,131,660,505,19,163,2,124,26,9,18,1,27,62,159,745,243,688,282,129,6,1121,89,19,123,1,323,134,155,371,43,39,19,88
+Records	771,199,278,85,141,304,210,1142,537,194,46,438,667,963,216,749,45,1619,1,311,321,613,5,957,167,874,7,354,3,36,72,31,3,54,43,74,1,120,3,323,273,131,660,505,19,163,2,124,26,9,18,1,27,62,159,745,243,688,282,129,6,1121,89,19,123,1,323,134,155,371,43,39,19,88,113,33
 Records Activity	18481
 Records All CPD	13381
 Records Authority TGDC	19584
@@ -1947,12 +1951,13 @@ Records and Reporting	17243
 Records for Without RITA	19541
 Records of Appeal	8978
 Records of Appeal and Other Matters	12063
+Records of Birth	19920
 Records of Chinese Presence	14774
 Records of Conservator of Mortgages	14828,3
 Records of E-waste Management Plan	1988
 Records of O&M	1988
 Records of PPE	1988
-Records of Processing Activities	10721,9080
+Records of Processing Activities	10721,9080,109
 Records of Processing Evidence of Incident GC-SE	10721
 Records. So Auditors Can’t	7176
 Records. The Government	19214
@@ -2035,6 +2040,7 @@ Recovery and Human Development SRHR Sexual and Reproductive	970
 Recovery and Peace Building Assessment for Cameroon	10964
 Recovery and Peace Consolidation Plan	15731
 Recovery and Peacebuilding Assessment	15702
+Recovery and Rehabilitation Tax	19927
 Recovery and Resilience	13042
 Recovery and Resilience DPF	18851
 Recovery and Resilience Framework	1155
@@ -2313,7 +2319,7 @@ Umthombo National Health Records Dataset	12512
 Unallocated Reserve Transfers Finding Records	13420
 Unit DR Disaster Recovery DTLT Desktop	13185
 United Nations Principles and Recommendations	12151,186,30,1000,6175
-United Nations. Recognizing	10969,915,1,10,264,1,44,1,146,4,132
+United Nations. Recognizing	10969,915,1,10,264,1,44,1,146,4,132,7375,3
 União Europeia. Reconhecida	18877
 Unresolved Recommendations	19585
 Update and Reconciliation	12364

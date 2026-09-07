@@ -458,7 +458,7 @@ Clothing Factory	13361
 Clothing and Shoes	19715
 Cloture	14662
 Cloture du Projet de Preparation	14662
-Cloud	168,790,3,44,199,11,16,33,99,376,1,26,39,9,71,53,2,163,296,1,25,152,24,2,199,129,444,112,67,82,151,50,20,2,202,58,7,24,109,178,91,55,152,44,54,15,242,110,44,53,129,102,446,6,170,85,184,2,11,13,32,103,111,43,98,114,58,136,68,36,34,193,77,86,39,58,291,108,58,28,28,251,96,14,235,283,6,27,340,15,160,322,67,97,32,532,54,69,17,180,99,16,121,40,72,16,90,173,223,104,26,22,167,217,85,165,16,255,19,53,165,200,497,511,229,52,49,6,21,9,60,78,68,63,30,106,378,26,56,14,41,20,14,223,208,7,178,392,163,39,1,51,462,24,39,34,189,41,59,37,19,31,2,211,157,26,11,2,56,8,12,850,148,48,61,31,13,58,35,63,60,39,20
+Cloud	168,790,3,44,199,11,16,33,99,376,1,26,39,9,71,53,2,163,296,1,25,152,24,2,199,129,444,112,67,82,151,50,20,2,202,58,7,24,109,178,91,55,152,44,54,15,242,110,44,53,129,102,446,6,170,85,184,2,11,13,32,103,111,43,98,114,58,136,68,36,34,193,77,86,39,58,291,108,58,28,28,251,96,14,235,283,6,27,340,15,160,322,67,97,32,532,54,69,17,180,99,16,121,40,72,16,90,173,223,104,26,22,167,217,85,165,16,255,19,53,165,200,497,511,229,52,49,6,21,9,60,78,68,63,30,106,378,26,56,14,41,20,14,223,208,7,178,392,163,39,1,51,462,24,39,34,189,41,59,37,19,31,2,211,157,26,11,2,56,8,12,850,148,48,61,31,13,58,35,63,60,39,20,39
 Cloud Access	3861
 Cloud Act	6415,72,906
 Cloud Ad7o. CptloioundinAdGoopvteiornnmineGntovernment	10157
@@ -496,11 +496,14 @@ Cloud Computing Regulations	12294
 Cloud Computing Roadmap	4141
 Cloud Computing Security	12926
 Cloud Computing Service	15149,1775
+Cloud Computing Service Models Cloud	19860
 Cloud Computing Service Providers	15149
 Cloud Computing Service and Deployment Models	16924
-Cloud Computing Services	573,2588,11988
+Cloud Computing Services	573,2588,11988,4711
 Cloud Computing Services Cloud Computing Services	3161
 Cloud Computing Services. Section	3161
+Cloud Computing Strategy	19860
+Cloud Computing Systems	19860
 Cloud Computing Week	4141
 Cloud Computing and Data Offshoring	7339
 Cloud Computing and Robotics	13356
@@ -520,7 +523,8 @@ Cloud F7ir.1stCAloduodptFioirnst Adoption	10157
 Cloud First	3857,2575,2807,514,124,280,1,152,731,954,1607,3322
 Cloud First Adoption All MDAs	10157
 Cloud First Mobile	12359
-Cloud First Policy	2103,7470,98,7253,1435
+Cloud First Policy	2103,7470,98,7253,1435,1501,1,7,17
+Cloud First Policy Egypt	19860,1
 Cloud First Policy. NITDA	10424
 Cloud First Principle	11995
 Cloud First Principle The Federal Government	11995
@@ -630,13 +634,13 @@ Cloud Technology and AI-driven Analytics	17116
 Cloud The GoT	19245
 Cloud Top Temperature	15907
 Cloud Traditional	9129
-Cloud Type	13062
+Cloud Type	13062,6798
 Cloud Vert	17764
 Cloud WAF	6432
 Cloud Working Groups. Principal Government Cloud	16924
 Cloud Workspace	14151
 Cloud World Forum	16923
-Cloud and AI	6834,3213
+Cloud and AI	6834,3213,9824
 Cloud and AI Development Act	6468,8,1,10,392,1467,558,1184,962
 Cloud and AI Development Act Full	6477
 Cloud and Artificial Intelligence	6582
@@ -650,11 +654,12 @@ Cloud and Quantum Computing	13346
 Cloud de Angola	5954
 Cloud de Confiance	3787
 Cloud de Governo SPD9 SPD10 TEC2 IES5	15532
+Cloud for Good	19871
 Cloud for MIS	16867
 Cloud of Africa	4766
 Cloud-Computing-Center	15656
-Cloud-First	12359
-Cloud-First Policy	17260
+Cloud-First	12359,7501
+Cloud-First Policy	17260,2600
 Cloud-IT	16924
 Cloud-Native Challenger Hyperscalers	16812
 Cloud-Sovereignty-Framework.pdf	3787
@@ -663,6 +668,7 @@ Cloud-based	961,4283,3361,4362,2061,2227,109
 Cloud-based AI	15164
 Cloud-based QuickBooks	17364
 Cloud-enabled and AI-powered	13042
+Cloud-first	19860
 Cloud-native	13042,2671
 Cloud-ready	16923,1
 Cloud-service	1985
@@ -775,6 +781,7 @@ Data and Cloud Strategy	1912
 Date Closing Period Month	6579,349
 Dec-2020 Closing Date	10779
 Dec-2021 Closing Date	10779
+Dec-2022 Expected Closing Date	19855
 Dec-2022 TF-B4949 Closed	17958
 Dec-2022. Expected Closing Date	19643
 Dec-2023 Operation Closing	13742,1206
@@ -823,6 +830,7 @@ Education Cloud. Instead	899
 Effective. Original Closing	11965
 Effectiveness Closing	2989
 Effectiveness Date Orig. Closing Date Rev	15619,1019,1835
+Egypt. Cloud	19890
 Egypt. CloudFront	1719
 Else Is Building Kasi Cloud	5200
 Energy-efficient Cloud Computing Technologies and Policies	1264
@@ -966,7 +974,7 @@ Gov-Cloud Government Cloud HR Human Resource	6432
 Governance Structure Cloud	16924
 Governemnt Cloud	16924
 Governing Government Cloud	16924
-Government Cloud	3557,2423,452,2176,2177,1106,1026,1835,869,17,1247,38,1,1435,1174,268
+Government Cloud	3557,2423,452,2176,2177,1106,1026,1835,869,17,1247,38,1,1435,1174,268,59
 Government Cloud Adoption	10157
 Government Cloud Computing Guideline	13345
 Government Cloud Computing Infrastructure. Enabling	16924
@@ -1006,20 +1014,23 @@ Général Brice Clotaire Oligui Nguema	8925
 HCI Cloud Developer	13185
 HEP. Close	1219
 HIT Closes Technovation Expo	13688
+Harnessing the Power of Cloud Computing	19860
 Head of State Brice Clotaire Oligui Nguema	3579
 Headgear. Clothing	16900
 Highly Satisfactory Closing	18754
 Hosting and Cloud Computing	19639
 Hosting and Cloud Computing NITA-U	19639
 House Approves Close	1798
-Huawei Cloud	376,2440,805,238,2794,1326,2819,63,2010,2842,1843
+Huawei Cloud	376,2440,805,238,2794,1326,2819,63,2010,2842,1843,2315
 Huawei Cloud FinTech Summit	6653
 Huawei Cloud Nigeria	12871
 Huawei Cloud SSA	376
 Huawei Cloud South Africa	376
 Huawei Cloud Stack	6653
+Huawei Cloud Startup Program	19871
 Huawei Cloud Strengthens Egypt’s FinTech Ecosystem	6653
-Hybrid Cloud	17870
+Huawei Cloud Summit Egypt	19871
+Hybrid Cloud	17870,1990
 Hybrid Cloud Management Professional	17334
 I-I11-A5 Promotion of Cloud Computing Seminars	15713
 I-I11. Intelligent Cloud and Computing Resource Intelligent	15713
@@ -1186,6 +1197,7 @@ Models Cloud	16923
 Modi’s New Zealand Visit Closed	2857,3026,94
 Mozambique Approval Date Current Closing Date	2473
 Multi-Cloud Support Strategy Cloud	6432
+Multi-Tenant Cloud	19860
 NATIONAL POLICY ON DATA AND CLOUD	11196
 NAVER Cloud	3049
 NCC Close Ranks On Submarine Cable	2677
@@ -1325,12 +1337,17 @@ Postbank.co.za Closing	10809
 Pour Clotaire Allogo Ondo	11674
 Power of Paratus CloudParatus Cloud	14508
 Powerful AI Cloud	11502
+Practical Considerations for Cloud Computing Implementation	19860
 Presales Cloud	19265
 President Brice Clotaire Oligui Nguema	6779,314
 President H.E. Brice Clotaire Oligui Nguema	4536
 President HUAWEI CLOUD Southern Africa Region	376
 President and Head of State Brice Clotaire Oligui	9837
+President of Huawei Cloud Global Marketing and Sales	19871
+President of Huawei Cloud Marketing	19871
+President of Huawei Cloud's Global Solution Sales	19871
 Presidents Brice Clotaire Oligui Nguema	3963
+Press Releases Huawei Cloud Goes Live	19871
 Prestataires Cloud-FR.pdf	2425
 Pretoria Close Menu Get	6898
 Principal Cloud Provider	16924
@@ -1345,7 +1362,7 @@ Principal Government Cloud Service Providers	16924
 Principal Government Cloud Services Provider	16924
 Principal Government Cloud Services Provider. GICTA	16924
 Principal Government Service Cloud	16924
-Private Cloud	14327,5219
+Private Cloud	14327,5219,314
 Private Cloud Gold Tier	14327
 Private Cloud Platinum Tier	14327
 Private Cloud Services	14327
@@ -1368,8 +1385,9 @@ Project Geographical Identifier Mozambique Current Closing	4653
 Project Project Closure	1778
 Proposed Deadline Closing	1284
 Provide Cloud	6432
+Providing Hosting Services for Cloud Computing	19860
 Provisions Concerning Closely Held Companies	3714
-Public Cloud	1885,3359,7115,4346,1165,1676
+Public Cloud	1885,3359,7115,4346,1165,1676,314
 Public Cloud Comments	16705
 Public Cloud Operators	12359
 Public Cloud Services	10157
@@ -1388,6 +1406,7 @@ Rationale The Kenya Cloud Policy	6432
 Rationale for The Gambia Government Cloud Policy	16924
 Recognized Cloud Computing Service Models and Deployment	16923
 Regional Data Interoperability and Cloud Strategy	16144
+Regions. Huawei Cloud	19871
 Register of Voters Closing	19101
 Registrar of Companies and Close Corporations	12912
 Registration of Cloud Service Providers	6432
@@ -1478,6 +1497,7 @@ Sud-Coréen Naver Cloud	9483
 Sun Closed	13249
 Supply Risks Cloud the Outlook	4769,394,334,86
 Supply of Cloud Disaster Recovery and Hybrid Backup	19788
+Supreme Council of Digital Society's Cloud First	19861
 Sustainability and Autonomy Closely	6947
 Sustainable Food Systems. Close	11469
 Switch Close	4896
@@ -1506,6 +1526,7 @@ Towards Sovereign Cloud Infrastructure Data	9877
 Transition Brigadier General Brice Clotaire Oligui	1754,19
 Treasury.gov.za Closing	10809
 Turnkey Verifiable Cloud	4716
+Types of Cloud Computing Platforms Cloud	19860
 U.S. CLOUD Act	5084
 U.S. CLOUD Act. The CLOUD Act	5311
 UK’s Cloud	16923

@@ -134,6 +134,7 @@ DPRCH Directorate of Reproductive and Child Health DSTI	18478
 Dado Provisório Professor Provisória Reprovados Secundário	10766
 Data Policy Representation Security Policy Semantic	19638
 Data Representation	13356
+Data Representativeness	19931
 Deal Technologique. Représenté	8821
 Debenture Holders’ Representative	14828,3
 Delegate Representation	12675
@@ -178,13 +179,14 @@ East Africa. Representing	10317
 Economy Support Rural Representation	10759,78,1315,188
 Education and Gender Representative	13310
 Egypt's House of Representatives	2848
+Egyptian House of Representatives	19857
 Electoral Commission and Represented Political Parties' Fund	11986
 Electoral Commissioner The Representation	14788
 Electricité Représentant	10975
 Employee Representative Committee	18979
 Employer’s Representative	11134
 Equal Political Power Equal Political Representation	10837,1315,188
-Equal Political Representation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Equal Political Representation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Equal Political Representation Equal Civil Liberties	19822
 Eritrea's Permanent Representative	14030
 Estado. REPROVADO	10766
@@ -207,6 +209,7 @@ FORTALECIMENTO INSTITUCIONAL DA REPRESENTAÇÃO DA OMS	15966
 FOSA Critère Représentativité	15599
 FULL NAME OF AUTHORISED REPRESENTATIVE	11240
 Fabiani Appavou Assistant Resident Representative Sujitha	11332
+Fair Access and Representation UNHCR	19902
 Female Equity Representation	12400
 Fertility Rate NRR Net Reproduction Rate	16950
 Filing Service Centre Tax Representatives	14784
@@ -268,7 +271,7 @@ House of Peoples’ Representatives and State Councils	13948
 House of Peoples’ Representatives. Article	13948
 House of Peoples’ Representatives. CHAPTER NINE STRUCTURE	13948
 House of People’s Representatives	9306
-House of Representatives	2658,185,165,801,133,171,248,290,83,264,1873,587,1840,2,172,99,309,224,1749,13,2144,783,543,57,1450,4,190,86,16,125,1,31,62,816,70,17,1258,23
+House of Representatives	2658,185,165,801,133,171,248,290,83,264,1873,587,1840,2,172,99,309,224,1749,13,2144,783,543,57,1450,4,190,86,16,125,1,31,62,816,70,17,1258,23,315,16,19
 House of Representatives Ad-Hoc Committee	9956
 House of Representatives Chamber	18261
 House of Representatives Committee	8087,3860
@@ -278,6 +281,7 @@ House of Representatives and Member	15336
 House of Representatives of Zanzibar	19616
 House of Representatives' Communications Committee	9472
 House of Representatives. Abu Zeid	16916
+House of Representatives. In the Senate	19857
 House of Representatives. Service Delivery Programs	17139
 House of Representatives. Weedor	17419
 IA. Représentant	12079
@@ -569,20 +573,21 @@ Representantes da UIT	18818
 Representantes de GETESA	17087
 Representantes de MOOV Gabon	17087
 Representar	13,154,4051,7163,1,53,8,6,69,3873,112,23,46,340,2839,22,5,22
-Representation	27,945,502,2240,147,1815,1872,207,166,707,136,4007,300,248,155,1553,686,1123,1764,1028
+Representation	27,945,502,2240,147,1815,1872,207,166,707,136,4007,300,248,155,1553,686,1123,1764,1028,262,5
 Representation Conflicts	12360
 Representation Equal Civil Liberties Equal Socioeconomic	10759
 Representation and Hearing	3005
 Representation of International Development	11857
 Representation of Religious Organizations	11129
 Representation of Stakeholder Participation	17157
-Representation of Women	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Representation of Women	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Representation of Women Rights	10759,78,1315,188
 Representational State Transfer	12419,4505
 Representations	4049,198,55,594,5817,4004,36,2079,7,410,1634
 Representations and Warranties	15901
 Representations-Issuance	16844
 Representative	1638,2811,491,307,2074,469,511,2475,353,52,220,264,186,9,395,105,264,105,159,275,22,68,313,636,38,496,73,99,94,78,20,105,1426,199,96,15,5,71,84,13,167,8,42,866,8,232,67,48,4,112
+Representative Actions Directive	19890,5
 Representative Authorities Proclamation	12890
 Representative Bodies	3861,2971
 Representative Body	6832
@@ -610,7 +615,7 @@ Representative of State	11860
 Representative of State NUT	11860
 Representativeness	15713,1572
 Representativeness and Strategic Relevance	17116
-Representatives	236,2290,987,620,84,311,55,644,1046,58,140,64,276,127,631,574,945,152,75,457,89,98,227,24,102,268,152,397,5,147,579,56,79,236,41,4,80,33,123,37,77,588,95,45,123,471,142,1037,706,311,723,48,199,35,111,168,260,527,29,61,233,162,285,117,112,560,51
+Representatives	236,2290,987,620,84,311,55,644,1046,58,140,64,276,127,631,574,945,152,75,457,89,98,227,24,102,268,152,397,5,147,579,56,79,236,41,4,80,33,123,37,77,588,95,45,123,471,142,1037,706,311,723,48,199,35,111,168,260,527,29,61,233,162,285,117,112,560,51,67
 Representatives DEPARTMENT OF HOME AFFAIRS	11986
 Representatives and Delegates	15393
 Representatives of AXIAN Telecom and Huawei	13782
@@ -697,7 +702,7 @@ Representing the UK FCDO	10053
 Representing the UNDP Resident Representative	3895
 Representing the UNESCO Regional Office for Southern Africa	10601
 Representing the UNESCO Team Leader	13662
-Represents	4130,6663,4371,1697,114,182
+Represents	4130,6663,4371,1697,114,182,2774
 Represents CCH	11803
 Represents the Libyan Sahara Desert Occurs	17157
 Represión	17415
@@ -863,7 +868,7 @@ Resident Representative of UNDP Liberia	17173
 Rising Repression Meets Global Resistance	5236
 Rising Repression Meets Global Resistance Internet	5236
 Rumphi. Reproductive Health Focal Persons	3791
-Rural Representation	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Rural Representation	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 République du Bénin Représenté	15399
 SAMCO South Africa Representation	13769
 SANTÉ DE LA REPRODUCTION	16722

@@ -394,7 +394,7 @@ Delawares	3006
 Delay	1000,8506,1470,242,656,7,1,464,99,472,88,639,413,489,477,388,248,186,1099,27,393,1096,1125,130
 Delay E-ID	6956
 Delay the FM	15372
-Delayed	2477,735,1227,989,578,1542,826,754,889,1088,1128,180,95,404,50,43,2051,146,1651,158,1520,1053,1,121
+Delayed	2477,735,1227,989,578,1542,826,754,889,1088,1128,180,95,404,50,43,2051,146,1651,158,1520,1053,1,121,181
 Delayed Activities	17011
 Delayed Approval	18661
 Delayed Birth Registration	12216,4644
@@ -579,7 +579,7 @@ Deliberates	18984
 Deliberation	12201,6092
 Deliberation N	12201
 Deliberations	1637,9370,186,896,3019,285,80
-Deliberative	3714,7045,76,2,1,130,38,864,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Deliberative	3714,7045,76,2,1,130,38,864,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Deliberative Polling	11006
 Deliberação	10442,8310
 Deliberação ARN	11569
@@ -817,7 +817,7 @@ Dell PowerEdge R640	9475
 Dell PowerEdge R740	9475
 Dell R730	18531
 Dell R750xs	18531
-Dell Technologies	3220,1214,2357,2119
+Dell Technologies	3220,1214,2357,2119,10958
 Dell Technologies and Get4Less	16170
 Dell and Akamai	6692
 Dell and Oracle	778
@@ -962,6 +962,7 @@ El Delegado Nacional	16986,41
 El Ministro Delegado	17222
 El Ministro Delegado de Catastro	16989
 Electoral Boundary Delimitation	17078
+Elimination of Queues and Delays	19900
 Email Print Delta	6181
 Emerging Technologies Delivery Architecture	7548
 Enable Service Delivery	6754,1645,1,34,3741
@@ -984,6 +985,8 @@ Enhanced and Diversified Service Delivery Channels	16885
 Enhanced and Diversified Service Delivery Channels ESTIMATES	16885
 Enhancement of Service Delivery and Warning	17962
 Enhancement of Service Delivery and Warnings	17962
+Enhancing Delivery	19855
+Enhancing Delivery Systems and Institutional Capacities	19855
 Enhancing Judicial Efficiency and Reducing Delays	18631
 Enhancing the Delivery of Social Services	16861
 Entire Deliverance and Service	1797,1413,3880
@@ -1552,6 +1555,7 @@ República Delegado Nacional Seguridad Consejero Presidencia	4209
 Research and Delivery	18577
 Resources for Better Service Delivery and Local Covid-19	16949
 Result Delivery Units	11857
+Retention and Deletion	19895
 Richy Deladem Bonnu	6936
 Risks of Delay. Failure	18669
 Roadmap Towards Effective Governance and Service Delivery	4091

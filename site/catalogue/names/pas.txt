@@ -74,7 +74,7 @@ Binary Pass	12360
 Biometric ID and Biometric Passport	1637
 Biometric ID and Passport Laws	1637
 Biometric Identity Card and Passport	1688
-Biometric Passport	16837
+Biometric Passport	16837,3063
 Blaise Pascal Gasabira	2537
 Blaise Pascal MIAMME MINSOKO	16099
 BoZ. The Password	12364
@@ -210,6 +210,8 @@ EU N'A PAS VEUT	13300
 EU UNE N'A PAS EU	13300
 Education Systems Analysis Program PASEC of CONFEMEN	18931
 El Pasaporte Biométrico CEMAC Ecuatoguineano	16871
+Electronic Biometric Passport	19900
+Electronic Biometric Passport The Electronic	19900
 Electronic Passport	11909,30,594
 ElementPay Blaise Pascal Gasabira Leads Rwanda	6887,414
 Elevé Pas	6959
@@ -257,6 +259,7 @@ GOVERNO DISPONIBILIZA EMISSÃO DE PASSAPORTE POR	18854
 Gambian Passport	12085
 Garsu Pasaulis	1713
 Gaso Grace Pascal	18692
+General Administration of Passports	19873
 General Directorate for Passports and Migration	14905
 Gigabit Passive Optical Network	319,11361
 Go Pass	6597
@@ -875,7 +878,7 @@ Passoré	10847
 Passoré Nord	15715
 Passos	2784
 Passowendé Pélagie Kabré	6464
-Passport	1525,156,198,3,81,1472,1200,410,488,154,428,1441,289,86,1486,414,883,51,10,37,10,497,540,81,46,55,123,38,16,109,10,73,574,21,328,664,650,113,18,6,63,118,139,289,22,15,393,366,652,82,1672,107,339,8,469,58,123,62
+Passport	1525,156,198,3,81,1472,1200,410,488,154,428,1441,289,86,1486,414,883,51,10,37,10,497,540,81,46,55,123,38,16,109,10,73,574,21,328,664,650,113,18,6,63,118,139,289,22,15,393,366,652,82,1672,107,339,8,469,58,123,62,106,60
 Passport Act	13497
 Passport Act No	12449
 Passport Administration	4480
@@ -888,6 +891,7 @@ Passport Copy	12342
 Passport Country	11276
 Passport Database	10714
 Passport Division	16860
+Passport Expiration Date	19927
 Passport Guidance and Case Intelligence OR Indexing	10347
 Passport Immigration Office	14782
 Passport Infrastructure	9399
@@ -899,6 +903,7 @@ Passport Office	8369,2,1048,6404,582,432
 Passport Office URL	16837
 Passport Officer	14714,1,27
 Passport Photograph	11861
+Passport Photos	19927
 Passport Posted	12164
 Passport Production Centre	309
 Passport Project	14830
@@ -985,7 +990,7 @@ Pastizales	16875
 Pasto-	18077
 Pastor	11129,1238
 Pastor Umo Eno	9115
-Pastoral	18150
+Pastoral	18150,1724
 Pastoral Food and Livelihood Improvement Project	14122
 Pastoral URL	18150
 Pastoral Water and Resource Management Project	10841

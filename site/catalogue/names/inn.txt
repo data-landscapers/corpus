@@ -25,6 +25,7 @@ AI Research and Innovation	12210
 AI Research and Innovation Alliance	2142
 AI Research and Innovation Alliance Ostafrikanische Allianz	2142
 AI University Innovation Pod	7474
+AI and Data for Science and Innovation	19904
 AI and Innovation	1468,2963
 AI and Innovation Hub	12723,1811
 AI and Innovation LinkedIn Targets AI Spam	5562
@@ -38,7 +39,7 @@ APPRENTISSAGE ET INNOVATION	18265
 ATM. Innbucks	6996
 AU-EU Innovation Agenda	11288
 AU-EU Innovation Fair	11288
-About the Global Innovation Index The Global	12160,44,1,150
+About the Global Innovation Index The Global	12160,44,1,150,7510
 Abu Dhabi’s Technology Innovation Institute	15713
 Academy of Design and Innovation	14775
 Academy of Design and Innovation Act	14828,3
@@ -101,6 +102,7 @@ Afro-Asian Forum for Innovation and Technology	16046
 Agency for Digital Transformation and Innovation	12834
 AgriTech Innovation Challenge	15802
 Agricultural Innovation	13978
+Agricultural Innovation Project	19869
 Agricultural Innovation System	13978
 Agriculture and Innovative Namibian Entrepreneurs	12450
 Algeria’s AI Research and Innovation Strategy	1814
@@ -114,6 +116,7 @@ Annual African AI Innovation Summit Cross-Border	14566
 Annual Data Innovation Forum for Africa	961,282,1919
 Applied Innovation Center	7537,8176,279,54,209
 Applied Innovation Center Projects	15713
+Applied Innovation Center The Applied Innovation	19885
 Applied Innovation Center URL	15717
 Apply Innovation for Sustainable Development Drive	18480
 Area Office and Innovation Centre C-DOT Campus	10764,80,7279
@@ -278,6 +281,7 @@ Chain Innovation Fund	14111,1
 Challenge Data Innovation	3590,1
 Chapter for Liberia's Young Innovators	17370
 Chasing Innovation	226
+Chemistry About the Global Innovation Index	19862
 Chief Digital and Innovation Officer	8477
 Chief Innovation Officer	4528,6359,1625,5934
 Chief Innovation Officer Gabrie Gouws	1590
@@ -341,9 +345,13 @@ Corporate Venture Firm Nigeria Azur Innovation	4972
 Create the National Research and Innovation Institute	14747
 Creativa Innovation Hub	3429,6400,6040
 Creativa Innovation Hubs	1902,13916,228,161
+Creativa Innovation Hubs Creativa Innovation Hubs	19885
 Creativa Innovation Hubs Regulatory Framework	15713
 Creativa Innovation Hubs. Pillar	15713
 Creative Hub Africa and E-Women Innovation Hub	18487
+Creative Innovation Centers	19868
+Creative Innovation Hub	19868
+Creative Innovation Hubs	19868
 Creativity and Innovation Skills	12914
 Creativity and Innovative	19576
 Creativity and Innovative Solution	19576
@@ -432,8 +440,9 @@ Digital Innovation	5849,3823,2381,400,892,2,6200
 Digital Innovation Board	5697
 Digital Innovation Challenge	13080
 Digital Innovation City	10053
-Digital Innovation Digital	6832
+Digital Innovation Digital	6832,13053
 Digital Innovation Digital Infrastructure Smart Education	2256
+Digital Innovation Digital Transformation Digital	19885
 Digital Innovation Eco-System Expert	15019
 Digital Innovation Employability and Economic Growth Through	12241
 Digital Innovation Fellowship Program	13080
@@ -559,10 +568,12 @@ Economic Innovation Partnership Programme	11165
 Economy and Innovation	2001,2969
 Education Innovations	899
 Education and Innovation	14752
+Education and Innovations	19900
 Educational Leadership and Innovation	15163
 Effectiveness of Innovations and Technologies	13998
 Ekiti State Ministry of Innovation	10053
 Eldohub Innovation Center Data Processor INST-123035BFEA4	7167
+Electronic Government Support and Innovation Project	19868
 Electronic Medical Record Innovation Challenge	17711
 Electronic Transactions and Fintech Innovation	17745
 Electronics Innovation Complexes	16046
@@ -702,24 +713,25 @@ GitHub Innovation Graph	11922
 Global Financial Innovation Network	12444
 Global Innovation	11863
 Global Innovation Fund	19757
-Global Innovation Index	2099,5449,3298,123,914,1,1,10,264,1,44,1,146,4,21,20,91,151,676,1252,431,483,2390,14
+Global Innovation Index	2099,5449,3298,123,914,1,1,10,264,1,44,1,146,4,21,20,91,151,676,1252,431,483,2390,14,1978,3,44
 Global Innovation Index Benchmarks	15713
-Global Innovation Index Database	10846
+Global Innovation Index Database	10846,9019
 Global Innovation Index GPU Graphics Processing	7548
 Global Innovation Index Statistics	11885
 Global Innovation Index. Ethiopia	12205
 Global Innovation Index. Global Innovation Index	12487
-Global Innovation Index. Long-term	11895,265,195,132
+Global Innovation Index. Global Innovation Tracker	19862
+Global Innovation Index. Long-term	11895,265,195,132,7375,3
 Global Innovation Index. Mozambique	12159
 Global Innovation Index. Nigeria	11884
 Global Innovation Index. Rwanda	12351
 Global Innovation Index. Year	11895
 Global Innovation Ranking	12376
 Global Innovation Ranking of Zambia	12376
-Global Innovation Tracker	10846,1049,265,195,41,91
+Global Innovation Tracker	10846,1049,265,195,41,91,7375,3
 Global Innovation Tracker Dashboard	10846
 Global Innovation Tracker For Malawi	12204
-Global Innovation Tracker The Global Innovation	11895,264,1,45,150,132
+Global Innovation Tracker The Global Innovation	11895,264,1,45,150,132,7378
 Global Innovation Tracker. Figures	10846
 Global Innovation and Entrepreneurship	6946
 Global Innovation and Entrepreneurship Centre	6946
@@ -861,6 +873,8 @@ Idea2Impact Innovation Space	7630
 Identity Innovation Inclusive	12227
 Idées Innovantes	15376
 Ignorance and Innovation	12227
+Imhotep Center for Innovation and Development	19868
+Imhotep Innovation and Development Center	19885
 Impact Innovation Fund	14381
 Impact Innovation Fund. JPY-	4500
 Improve Efficiency and Innovation	12419
@@ -912,6 +926,7 @@ InnoIP Programme	19621
 InnoIP Tanzania	11643
 InnoIP Tanzania Programme	19621
 InnoLia	13300
+InnoPA	19868
 InnoPower Africa	9549
 InnoVent	19825
 Innocent	15744
@@ -971,7 +986,7 @@ Innovating Tanzania's Path	10195
 Innovating Together	2292,5
 Innovating for Children and Youth	7171
 Innovating for Impact	17347
-Innovation	396,5,119,17,21,58,27,75,29,1,17,24,39,71,62,9,111,73,7,17,3,33,4,25,4,17,13,191,86,7,2,139,75,37,82,88,291,9,1,38,16,20,35,78,57,34,45,69,5,14,21,58,1,3,30,16,14,15,1,16,9,86,9,24,33,1,100,44,19,54,17,44,51,16,13,5,55,5,31,8,53,68,6,76,19,3,12,28,65,10,26,9,72,45,59,79,69,3,67,61,125,78,8,31,90,41,16,2,103,8,7,6,8,80,8,21,67,12,12,13,25,3,152,2,2,26,16,170,3,35,29,63,89,24,13,32,6,5,70,129,59,51,1,4,10,4,11,41,21,66,1,8,3,52,17,37,25,22,7,8,13,16,142,26,46,14,133,39,2,6,23,37,37,9,34,9,89,32,9,3,82,64,131,4,128,11,6,69,57,3,4,1,38,1,30,12,117,3,1,69,19,2,3,1,28,40,21,4,25,25,60,28,10,32,18,6,41,47,142,11,24,26,83,3,1,41,67,28,102,54,35,3,5,46,33,61,109,88,35,36,22,5,23,6,39,11,17,112,84,106,59,113,69,29,42,18,6,1,37,42,35,38,75,62,39,24,6,15,45,9,25,59,11,40,56,45,13,7,3,2,16,12,29,1,1,51,13,162,3,1,3,2,16,83,65,191,38,92,5,33,4,65,1,2,122,27,1,10,14,43,23,10,1,10,8,21,30,14,35,3,52,1,15,29,1,5,24,7,59,29,4,5,13,4,1,13,7,5,8,6,1,36,25,30,6,15,4,32,8,19,18,85,1,9,3,7,14,22,29,84,13,61,18,6,25,5,1,5,17,16,32,6,8,20,1,3,20,6,90,18,3,30,9,4,35,36,10,18,84,14,17,77,11,87,22,2,15,77,81,15,21,17,10,10,21,31,7,13,13,175,140,1,1,89,30,1,29,85,66,1,9,55,3,7,27,2,1,3,9,8,3,3,16,2,3,17,2,26,1,16,44,1,17,24,22,54,22,4,11,86,8,2,9,34,18,8,69,53,47,8,98,17,3,48,26,15,5,3,89,21,9,2,1,7,43,6,9,9,1,60,73,10,5,53,4,6,38,6,4,52,3,29,13,7,3,4,1,20,108,54,16,18,6,1,12,10,69,64,36,53,1,3,4,19,34,16,8,14,6,11,5,27,98,52,18,7,26,10,26,67,18,20,103,41,42,16,140,40,41,24,21,51,1,17,65,23,5,10,7,12,26,3,23,9,17,2,1,4,2,5,3,9,2,3,3,8,35,15,6,32,41,9,54,34,2,9,11,17,10,43,66,17,10,6,12,15,6,1,3,20,30,13,42,2,24,1,1,3,16,3,6,1,6,1,5,4,1,1,15,7,20,3,9,2,4,249,64,22,7,108,16,80,56,54,72,43,161,11,2,21,21,57,8,19,15,37,121
+Innovation	396,5,119,17,21,58,27,75,29,1,17,24,39,71,62,9,111,73,7,17,3,33,4,25,4,17,13,191,86,7,2,139,75,37,82,88,291,9,1,38,16,20,35,78,57,34,45,69,5,14,21,58,1,3,30,16,14,15,1,16,9,86,9,24,33,1,100,44,19,54,17,44,51,16,13,5,55,5,31,8,53,68,6,76,19,3,12,28,65,10,26,9,72,45,59,79,69,3,67,61,125,78,8,31,90,41,16,2,103,8,7,6,8,80,8,21,67,12,12,13,25,3,152,2,2,26,16,170,3,35,29,63,89,24,13,32,6,5,70,129,59,51,1,4,10,4,11,41,21,66,1,8,3,52,17,37,25,22,7,8,13,16,142,26,46,14,133,39,2,6,23,37,37,9,34,9,89,32,9,3,82,64,131,4,128,11,6,69,57,3,4,1,38,1,30,12,117,3,1,69,19,2,3,1,28,40,21,4,25,25,60,28,10,32,18,6,41,47,142,11,24,26,83,3,1,41,67,28,102,54,35,3,5,46,33,61,109,88,35,36,22,5,23,6,39,11,17,112,84,106,59,113,69,29,42,18,6,1,37,42,35,38,75,62,39,24,6,15,45,9,25,59,11,40,56,45,13,7,3,2,16,12,29,1,1,51,13,162,3,1,3,2,16,83,65,191,38,92,5,33,4,65,1,2,122,27,1,10,14,43,23,10,1,10,8,21,30,14,35,3,52,1,15,29,1,5,24,7,59,29,4,5,13,4,1,13,7,5,8,6,1,36,25,30,6,15,4,32,8,19,18,85,1,9,3,7,14,22,29,84,13,61,18,6,25,5,1,5,17,16,32,6,8,20,1,3,20,6,90,18,3,30,9,4,35,36,10,18,84,14,17,77,11,87,22,2,15,77,81,15,21,17,10,10,21,31,7,13,13,175,140,1,1,89,30,1,29,85,66,1,9,55,3,7,27,2,1,3,9,8,3,3,16,2,3,17,2,26,1,16,44,1,17,24,22,54,22,4,11,86,8,2,9,34,18,8,69,53,47,8,98,17,3,48,26,15,5,3,89,21,9,2,1,7,43,6,9,9,1,60,73,10,5,53,4,6,38,6,4,52,3,29,13,7,3,4,1,20,108,54,16,18,6,1,12,10,69,64,36,53,1,3,4,19,34,16,8,14,6,11,5,27,98,52,18,7,26,10,26,67,18,20,103,41,42,16,140,40,41,24,21,51,1,17,65,23,5,10,7,12,26,3,23,9,17,2,1,4,2,5,3,9,2,3,3,8,35,15,6,32,41,9,54,34,2,9,11,17,10,43,66,17,10,6,12,15,6,1,3,20,30,13,42,2,24,1,1,3,16,3,6,1,6,1,5,4,1,1,15,7,20,3,9,2,4,249,64,22,7,108,16,80,56,54,72,43,161,11,2,21,21,57,8,19,15,37,121,29,3
 Innovation ASA Rapport	19645
 Innovation Act	14768
 Innovation Administrateur	17827
@@ -997,6 +1012,7 @@ Innovation Box	14819
 Innovation Breakdown Digitally-enabled	12941
 Innovation Brings	17793
 Innovation COE	12917
+Innovation Capacity	19931
 Innovation Capacity Create	14819
 Innovation Cellule	18121
 Innovation Center	15717,4128
@@ -1072,12 +1088,12 @@ Innovation Identification	16641
 Innovation Implementation	2732
 Innovation In Liberia	12723
 Innovation Incubator	19191
-Innovation Index	12160,44,1,150,3358,1745
+Innovation Index	12160,44,1,150,3358,1745,2407
 Innovation Index The Global Innovation Index	11884
 Innovation Infrastructure Number	18480
 Innovation Ingénieur	17827
-Innovation Input Sub-Index	10969,915,1,10,264,1,44,1,146,4,132
-Innovation Inputs	11884,11,264,192
+Innovation Input Sub-Index	10969,915,1,10,264,1,44,1,146,4,132,7375,3
+Innovation Inputs	11884,11,264,192,7511
 Innovation Inputs Innovation Outputs	12487
 Innovation Institute Act	14824
 Innovation Issue Brief	10088
@@ -1118,8 +1134,8 @@ Innovation Numérique	3099,12443
 Innovation Objectif	17983
 Innovation Officer	7204,744,11158
 Innovation Our Vision	12512
-Innovation Output Sub-Index	10969,915,1,10,264,1,44,1,146,4,132
-Innovation Outputs	11884,11,264,192
+Innovation Output Sub-Index	10969,915,1,10,264,1,44,1,146,4,132,7375,3
+Innovation Outputs	11884,11,264,192,7511
 Innovation POD	18621
 Innovation PS6	17983
 Innovation Partnership	12241
@@ -1589,6 +1605,7 @@ Ministry of Innovation	10053,799
 Ministry of Innovation and Technology	464,286,540,493,11,1,18,284,781,329,1,387,3493,1,589,1630,2007,292,576,1788,16,4,13,6,7,89,973,129,1
 Ministry of Innovation and Technology. MoE	13991
 Ministry of Local Government and Inner Islands	11757,7259,80
+Ministry's Applied Innovation Center	19868
 Mission Innovation	11210
 Mme Anne Rachel Marcel Inné	18135
 Mme Anne Rachel Marcel Inné. Selon	18135
@@ -1768,6 +1785,7 @@ Promoting Innovation and Prosperity	9989
 Promoting Responsible Innovation The Charter	2958
 Promotion of ICT and Innovation	15372
 Promotion of Industry and Innovation	6175
+Promotion of Open Innovation	19904
 Promotion of Research and Innovation Honourable Chair	12971
 Promotion of Young Entrepreneurial Innovation	10841
 Propriété Industrielle INNORPI	19474
@@ -1815,6 +1833,7 @@ Replicability of Innovations and Interventions	13998
 Report Access The Nigerian Innovation Hub	12053
 Republic of Rwanda Ministry of ICT and Innovation	1204
 Research Assessment DSI Department of Science and Innovation	5246
+Research Innovation Fund	19874
 Research Innovation and Agri-Tech	14818
 Research Innovation and ICT	19660
 Research Innovation and ICT Skills Development	19660
@@ -1879,6 +1898,7 @@ Scaling Impact of Innovations	15765
 Scaling-Up Birth Registration Using Innovative Technology	64
 School of Innovative Technologies and Engineering	14775
 School of Innovative Technologies and Engineering SSDT	14775
+Sci. Educ. Innov. Context Mod. Probl	19900
 Science Innovation and Technology Policy	13991
 Science Technology and Innovation	16861
 Science and Higher Education MInT Ministry of Innovation	13991
@@ -1962,6 +1982,7 @@ Sudan. C. INNOVATION AND PATENTS	14853
 Supply-side Innovation	16886
 Support Innovation	12241,148
 Support Innovation and Startups	12399
+Support Innovation and Student Life	19909
 Support for Innovation	17884
 Supporting Entrepreneurship and Innovation Effective	19534
 Supporting Innovation	14565
@@ -2007,10 +2028,11 @@ Technology Innovation Act	11265
 Technology Innovation Agency	9935,183,1147,1372,632,1439
 Technology Innovation And Research Development	1756,1384,3772
 Technology Innovation Association	19660
+Technology Innovation and Entrepreneurship Center	19885
 Technology Studies Botswana Digital and Innovation Hub	1154
 Technology and Innova-tion	18487
 Technology and Innovatio	12675
-Technology and Innovation	410,379,57,308,46,14,251,89,156,999,66,97,193,198,95,5,498,89,164,215,24,79,665,148,4,25,2,137,110,10,316,214,111,84,122,100,143,208,72,208,71,180,136,50,171,95,301,115,41,288,14,37,90,96,107,193,30,9,209,12,122,104,536,92,82,129,159,94,132,83,237,95,9,14,3,18,16,7,190,107,66,103,94,15,77,150,43,98,90,223,130,1,10,6,3,1,1,6,2,10,1,10,2,9,14,1,7,4,4,20,137,48,1,3,126,16,197,871,13,29,239,4,348,2034,169,44,173,334,874,8,27,4,2,6,6,5,6,1,3,1,2,5,1,4,2,1,14,10,10,2,2,4,2,9,2,4,100,16,244,1,169,2,413,31,6,70,1,120
+Technology and Innovation	410,379,57,308,46,14,251,89,156,999,66,97,193,198,95,5,498,89,164,215,24,79,665,148,4,25,2,137,110,10,316,214,111,84,122,100,143,208,72,208,71,180,136,50,171,95,301,115,41,288,14,37,90,96,107,193,30,9,209,12,122,104,536,92,82,129,159,94,132,83,237,95,9,14,3,18,16,7,190,107,66,103,94,15,77,150,43,98,90,223,130,1,10,6,3,1,1,6,2,10,1,10,2,9,14,1,7,4,4,20,137,48,1,3,126,16,197,871,13,29,239,4,348,2034,169,44,173,334,874,8,27,4,2,6,6,5,6,1,3,1,2,5,1,4,2,1,14,10,10,2,2,4,2,9,2,4,100,16,244,1,169,2,413,31,6,70,1,120,142
 Technology and Innovation Act	2709,1644
 Technology and Innovation Commons	14324
 Technology and Innovation Conference	5601,13088

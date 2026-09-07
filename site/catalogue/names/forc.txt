@@ -7,7 +7,7 @@ AVCA Trade Buyers Remain Driving Force	4972
 Abolition of Forced Labor Convention	16972
 Abolition of Forced Labour Convention	14742
 Absence Forces Delay In Kidnapping Trial	7312
-Absence of Forced Migration	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Absence of Forced Migration	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Absence of Forced Migration Trend Bouncing Back	11870
 Absence of Forced Migration and Laws	12153
 Absence of Forced Migration. Trend Bouncing Back	12353
@@ -30,10 +30,12 @@ Analyse SWOT FORCES FAIBLESSES	15936
 Analyse des Forces	17860
 Anned Forces	15363
 Arab and Foreign Forces	15492
-Armed Forces	5270,4779,1468,340,2885,256,344,51,80,1366,1414,181,33
+Armed Forces	5270,4779,1468,340,2885,256,344,51,80,1366,1414,181,33,1393
 Armed Forces Day Deputy Foreign	17025
 Armed Forces Day REPORT	17025
 Armed Forces Health Services	11401
+Armed Forces Information Systems Department	19915
+Armed Forces Mohamed Hussein Tantawi	19859
 Armed Forces Operations Authority	15473
 Armed Forces SARHO Sudanese Agency for Relief	6947
 Armed Forces SLA Sudan Liberation Movement	15342
@@ -236,7 +238,7 @@ Forced Labor Any	1988
 Forced Labor Declaration	14576
 Forced Labor Gender-Based Violence	1988
 Forced Labor Performance Declaration	14576
-Forced Labour	1988,8771,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,2254,4910,1,169,14
+Forced Labour	1988,8771,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,2254,4910,1,169,14,22,1,65
 Forced Labour Absence of Crime Public Perception	10759,78,1315,188
 Forced Labour Convention	14011,731
 Forced Labour Public Perception of Inclusion	10759
@@ -279,7 +281,7 @@ Forces-Faiblesses-Opportunités-Men-	13306
 Forces-Faiblesses-Opportunités-Menaces	10712
 Forces-FaiblessesOpportunités-Menaces	15722
 Forcible	14713
-Forcibly	16585,738,1
+Forcibly	16585,738,1,2578
 Forcibly Displaced Situation	10841
 Forcier	18611
 Forcing	4630,50,637,7723

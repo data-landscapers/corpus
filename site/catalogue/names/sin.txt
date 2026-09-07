@@ -400,7 +400,7 @@ News SINGH	9646
 News Single	19597
 Nigeria’s National Single Window	11468
 North America and Singapore	17441
-North Sinai	15473,131,373,69
+North Sinai	15473,131,373,69,3822
 Nova Sintra	17147
 Nyagatare Single	12328
 O Cifração XML Sintaxe	18774
@@ -645,6 +645,7 @@ Singapore National Digital Identity	7981
 Singapore Statutes Online	11135
 Singapore and African	11822
 Singapore and China	6692,7874
+Singapore and Coursat.ai	19868
 Singapore and Denmark	14752
 Singapore and Estonia	14752
 Singapore and France	4676
@@ -723,7 +724,7 @@ Singida Water Supply and Sanitation Authority	19584
 Singida. E. Kupatikana	19517
 Singida. Katika	19592
 Singita	8857
-Single	714,17,488,45,897,3065,439,1059,110,87,435,1205,1,43,462,56,1595,219,332,24,2,301,259,2,129,165,64,144,44,10,83,825,1,28,1091,180,157,31,6,241,108,247,60,1297,331,438,1019,1020
+Single	714,17,488,45,897,3065,439,1059,110,87,435,1205,1,43,462,56,1595,219,332,24,2,301,259,2,129,165,64,144,44,10,83,825,1,28,1091,180,157,31,6,241,108,247,60,1297,331,438,1019,1020,308
 Single Account TSC Teachers Service Commission	19585
 Single Actor Can Close	10015
 Single Administrative Document	7512,5530,2024,1777
@@ -972,7 +973,7 @@ Solicitação de Cot Single Stage	17219
 Solicitação de Ofe Single Stage	17219
 Souleymane Sina SAMAKE ADC DGGN SAMAKE	17841
 Soungalo Police Awa SINGARE DIARRA	17819
-South Sinai	15473,131
+South Sinai	15473,131,4264,21
 South Sinai and Cairo	15725
 Springer Nature Singapore	6948
 Springer Singapore	8022

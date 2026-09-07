@@ -18,6 +18,7 @@ Figure A2.3. Tiger	15129
 Gambia Tightens No-Levy Policy	5583
 Ghana’s Airtel Tigo	10822
 Glo Vodafone and Airtel Tigo Prepaid	10822
+Government AI Readiness Index. Tigrinya	19931
 H.E. Tigist Hamid	9307
 INGENIERIE GUINEE PLUS SARL TIG PLUS	16623
 Lieutenant-colonel POIDY Tignokpa	19251
@@ -74,9 +75,12 @@ Tigray Region	12188
 Tigray War	12188
 Tigre	3851,2255
 Tigrigna	3622,229,2255,7925,14,97,7,1
-Tigrinya	10001,1162,2816,66
-Tigrinya and Arabic	14045
+Tigrigna and Arabic	19921
+Tigrinya	10001,1162,2816,66,5886
+Tigrinya NLP	19931
+Tigrinya and Arabic	14045,5876
 Tigrinya-language	10001,3953
+Tigrinya. Related	19931
 Tiguiane YELEMOU	8321
 Tiguint	17907
 Tigzirt Ouest-Tasselast	16230

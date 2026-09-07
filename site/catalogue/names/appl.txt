@@ -251,14 +251,14 @@ Applicant's Counter Affidavit	18154
 Applicant's Identity	12496
 Applicant- Cabinet Secretary	14460
 Applicant. RESOLUTION OF THE ARGUMENT	18154
-Applicants	736,26,876,282,429,656,959,63,64,863,218,112,182,67,331,375,184,12,505,159,269,542,167,505,116,1576,418,51,386,575,125,157,179,137,11,25,29,175,61,411,1031,215,213,1,50,178,203,758,526,584,78,51,535,242,788,1211
+Applicants	736,26,876,282,429,656,959,63,64,863,218,112,182,67,331,375,184,12,505,159,269,542,167,505,116,1576,418,51,386,575,125,157,179,137,11,25,29,175,61,411,1031,215,213,1,50,178,203,758,526,584,78,51,535,242,788,1211,188,23,32
 Applicants Replacements The Nzika	13095
 Applicants. An Applicant	8582
 Applicants. E. Procedures for Evaluation of Applications	1638
 Applicant’s Signature	14754
 Applicati	15580
 Applicatifs Promotion des TICs	10812
-Application	3,8,11,120,253,192,56,93,1,9,1,15,137,73,26,11,211,3,20,90,141,164,112,127,61,6,44,131,590,18,89,345,220,333,455,1076,288,132,14,54,187,512,352,764,59,238,143,34,108,993,561,55,668,311,3,98,37,109,10,154,48,4,9,45,34,76,172,63,286,75,11,4,20,10,9,46,6,91,7,66,3,2,25,92,4,1,4,22,1,2,7,28,3,5,37,84,1,3,13,1,31,23,26,1,18,2,1,2,8,110,120,15,3,7,3,10,6,3,10,1,10,8,69,4,31,14,121,81,12,9,3,8,2,50,27,5,30,9,26,25,5,20,41,7,701,142,13,2,1,16,19,23,10,44,10,19,81,66,1,1,2,3,7,6,7,1,2,2,9,52,8,36,30,25,21,67,26,8,54,45,35,1,15,6,15,7,135,32,50,51,1,4,15,87,3,56,2,2,7,48,14,8,79,108,29,253,64,75,171,24,105,86,118,3,1,3,4,5,3,9,25,15,2,76,254,11,6,1,10,29,45,127,9,64,246,32,171,56,83,193,7,106,9,9,13,4,3,44,21,10,15,44,28,47,148,60,3,2,32,5,9,51,3,48,31,19,87,48,20,9,112,146,1,1,2,3,1,7,1,1,1,1,1,2,3,13,12,6,11,9,18,26,2,1,3,4,11,96,69,21
+Application	3,8,11,120,253,192,56,93,1,9,1,15,137,73,26,11,211,3,20,90,141,164,112,127,61,6,44,131,590,18,89,345,220,333,455,1076,288,132,14,54,187,512,352,764,59,238,143,34,108,993,561,55,668,311,3,98,37,109,10,154,48,4,9,45,34,76,172,63,286,75,11,4,20,10,9,46,6,91,7,66,3,2,25,92,4,1,4,22,1,2,7,28,3,5,37,84,1,3,13,1,31,23,26,1,18,2,1,2,8,110,120,15,3,7,3,10,6,3,10,1,10,8,69,4,31,14,121,81,12,9,3,8,2,50,27,5,30,9,26,25,5,20,41,7,701,142,13,2,1,16,19,23,10,44,10,19,81,66,1,1,2,3,7,6,7,1,2,2,9,52,8,36,30,25,21,67,26,8,54,45,35,1,15,6,15,7,135,32,50,51,1,4,15,87,3,56,2,2,7,48,14,8,79,108,29,253,64,75,171,24,105,86,118,3,1,3,4,5,3,9,25,15,2,76,254,11,6,1,10,29,45,127,9,64,246,32,171,56,83,193,7,106,9,9,13,4,3,44,21,10,15,44,28,47,148,60,3,2,32,5,9,51,3,48,31,19,87,48,20,9,112,146,1,1,2,3,1,7,1,1,1,1,1,2,3,13,12,6,11,9,18,26,2,1,3,4,11,96,69,21,54
 Application APIs	19639
 Application Acquisition	19575
 Application Acquisition Standards	19575
@@ -322,6 +322,7 @@ Application Legislation	13403
 Application Les Textes	16616
 Application Management	11986
 Application Management Citizens	12211
+Application Methods Applicants	19866
 Application Microsoft Project Ease	9124
 Application Mobile	11944
 Application Mobile Banques Oui Oui Oui	11944
@@ -406,6 +407,7 @@ Application Testing. Ensure	19575
 Application These Regulations	14427,27,426
 Application This Act	13566,841,5227
 Application Track Existing Application	18540
+Application Tracking The Embassy	19866
 Application Type Date	1877
 Application Unless the LTA	16835
 Application WBG World Bank Group TABLE	969
@@ -471,6 +473,7 @@ Application of Corporate Laws Act	3714
 Application of Criminal Procedure Act	11190
 Application of Data Protection Principles	12302
 Application of Digital Skills	899
+Application of E-Government	19900
 Application of Eminent Domain Principles	15473
 Application of Eminent Domain Principles. Washington	15473
 Application of Fund	22,13448
@@ -525,7 +528,7 @@ Application. This Law	16832
 Application.pdf United Nations Population Fund Liberia	17068
 ApplicationForms	1638
 ApplicationMobile	8028
-Applications	34,8,540,154,902,359,118,310,1053,312,71,667,307,31,495,172,899,316,182,438,151,25,4,427,202,173,187,69,92,336,95,7,2,65,31,57,184,264,136,44,139,61,14,24,95,58,37,60,75,45,419,18,170,6,41,133,210,335,10,53,64,68,307,6,145,30,61,72,276,11,9,118,7,72,29,99,1,9,35,376,261,135,328,96,19,10,157,15,35,62,48,14,24,44,34,153,188,115,249,9,7,383,437,76,5,211,3,1,3,4,24,17,1,15,49,14,431,60,428,20,137,66,174,18,20,2,5,161,110,192,198,206,175,142,9,7,51,1,62,7,67,16
+Applications	34,8,540,154,902,359,118,310,1053,312,71,667,307,31,495,172,899,316,182,438,151,25,4,427,202,173,187,69,92,336,95,7,2,65,31,57,184,264,136,44,139,61,14,24,95,58,37,60,75,45,419,18,170,6,41,133,210,335,10,53,64,68,307,6,145,30,61,72,276,11,9,118,7,72,29,99,1,9,35,376,261,135,328,96,19,10,157,15,35,62,48,14,24,44,34,153,188,115,249,9,7,383,437,76,5,211,3,1,3,4,24,17,1,15,49,14,431,60,428,20,137,66,174,18,20,2,5,161,110,192,198,206,175,142,9,7,51,1,62,7,67,16,172
 Applications Administration	15674
 Applications All ICT	16883
 Applications Center	14471
@@ -570,7 +573,7 @@ Applicative	19362
 Applicative. Inversement	19362
 Applicoiion	15429
 Applicotion	15429
-Applied	206,1157,625,108,852,1948,804,723,1062,274,1364,490,1023,90,243,169,746,1,10,264,1,45,146,4,132,550,2723,1356,1345,1270
+Applied	206,1157,625,108,852,1948,804,723,1062,274,1364,490,1023,90,243,169,746,1,10,264,1,45,146,4,132,550,2723,1356,1345,1270,131,3
 Applied AI	6930,31,6311,4767
 Applied AI Research	4126
 Applied AI Research Ghana’s AI	4126
@@ -595,6 +598,7 @@ Applied Energy	19555
 Applied Health Informatics	766
 Applied Innovation Center	7537,8176,279,54,209
 Applied Innovation Center Projects	15713
+Applied Innovation Center The Applied Innovation	19885
 Applied Innovation Center URL	15717
 Applied Learning	14999
 Applied Materials	11154
@@ -612,8 +616,8 @@ Applied Subjects	18461
 Applied Technical Education System	15604
 Applied Technical Schools BoTPT Boards of Trustees	15604
 Applied Technology School	15604
-Applied Technology Schools	15604,442,161
-Applies	2712,3867,4329,361,1680,436,1214,2651
+Applied Technology Schools	15604,442,161,3678
+Applies	2712,3867,4329,361,1680,436,1214,2651,2672
 Applique	13375
 Applique MGP Mécanisme	16104
 Appliquer	8891,1985,2414,39,46,1104,993,70,2303,27,1116
@@ -658,7 +662,7 @@ Apply the ESMF	17114
 Apply the NIST Framework Functions	1777
 Apply the WBG General EHS Guidelines and ICT	17114
 Apply-	14897
-Applying	961,669,1953,148,1165,217,361,226,1578,302,703,785,169,1477,105,198,116,7,1106,1110,105,163,373,437,605,99,26,550,887,513,770,434,1483
+Applying	961,669,1953,148,1165,217,361,226,1578,302,703,785,169,1477,105,198,116,7,1106,1110,105,163,373,437,605,99,26,550,887,513,770,434,1483,59
 Applying AI for Social Good	4126
 Applying CDD	17183
 Applying ChatGPT and AI-powered	8022
@@ -697,6 +701,7 @@ Available Career Pathways Applicants	11314
 B- Application	7548
 B. Application	12047
 B. Application of Sub-part BA	14717
+B. Technical Application	19860
 BCR APPLICATION FORMS	12302
 BROAD ACCESS TO ARTIFICIAL INTELLIGENCE APPLICATIONS	7362
 BSL. Mode of Application Note	18495
@@ -748,6 +753,7 @@ COURIER SERVICE APPLIED	1223
 CRB Student Application and Admission	19584
 CSCom Maintenance Applicative	17882
 CURRENT STATE AND APPLICATION OF BIG	19555
+CURRENT TARIFF IS APPLIED BASED	19876
 CYBERCRIMINALITE ET DE LA BONNE APPLICATION	16617
 Call for Applications	10347,7388
 Call for Applications Deadline	11345
@@ -833,6 +839,10 @@ D-I7-A2 Apply	15713
 D-I7-A2 Apply Open Licenses	15713
 D. Submission of Applications	1638
 DATA CONTROLLER APPLICATION	1877
+DC. Application Form for Underage Eritrean ID	19921
+DC. Application for ID Replacement	19921
+DC. Application for Temporary Identification Card	19921
+DC. Requirements for Applying National Identity Card	19921
 DECLARATION OF APPLICANT	14740
 DES PEINES APPLICABLES AUX INFRACTIONS Article	16616
 DES REGIMES APPLICABLES A LA PRODUCTION	16612
@@ -965,6 +975,7 @@ Enterprise-Grade Appliances	9830
 Environmental AI Eligible Applicants	11345
 Environne- Application	15583
 Environnement Institut des Technologies Appliquées D UT	17829
+Eritrean National ID. Apply	19927
 Estimate Application	14267
 Eswatini Applauds Zambia’s Strides	13477
 Europe and Japan. Used Apple	16799
@@ -1003,6 +1014,7 @@ Firefighting Appliances and Equipment The MFRS	14746
 Firewalls Web Applications S	10617
 Five Tests Leaders Should Apply	7648
 Fixed Fixed Application Fixed Wireless Access	736
+Fixed Telephone Services Applicants	19928
 Fixed and Mobile Network Facilities. Application	15205
 Force and Application	18602
 Foundational and Applied Research Excellence	4528,7984
@@ -1234,6 +1246,7 @@ Method API Application Program Interface ATNA	1009
 Microsoft Application Development N	9124
 Ministry of Immediate Apply	17157
 Ministry of Information and Application Rollout	12241
+Ministry's Applied Innovation Center	19868
 Miscellaneous Application No	8470
 Mobile Application	12241,4706,1022
 Mobile Application Attack Trends	17746
@@ -1272,6 +1285,7 @@ NaPA National Payment Application NGO Non-Governmental	19544
 Nairobi JR Application No	14460
 Named the Provincial Disaster Management Application System	7574
 National Backbone Operator Licence Application Duration	17250
+National ID Applications	19927
 National Operating System and Applications Project	16885
 Natural Habitats and Cultural Resources Applicable	18370
 Natural Resources Applicability	18370
@@ -1393,6 +1407,7 @@ Preparation of Application Manuals	11941
 President Preliminary Application	587
 Pretoria For the Applicants	2307
 Price Monitoring and Control Application’. Initiated	14750
+Prices ARE APPLIED BASED	19876
 Primary Suppliers Primary Suppliers Not Applicable	1988
 Principaux Textes Appliqués Ordonnance Ministérielle	13499
 Principes Comptables Applicables	15901
@@ -1461,6 +1476,7 @@ Registration Requirements Applicants	15058
 Regulations Respecting the Application	13461
 Regulations Scope of Application CHAPTER	11255
 Remote Work Applications Bahrain Dr. Fatma	2958
+Replacing National ID Applications	19927
 Repository Applica	8603
 Request for Applications	7368,33,1143,38
 Required Documents Applicants	12085
@@ -1469,6 +1485,7 @@ Required Qualifications and Experience Applicants	9203
 Required. Application	17006
 Requirements for Applicants Married	18595
 Requirements for Applicants NOT Married	18595
+Requirements for Applying National Identity Card and Social	19921
 Research License Applications and Licenses Granted	2775
 Residence Permit Republic of Sierra Leone Apply	18540
 Resident Permit Application	16949
@@ -1477,8 +1494,10 @@ Responsiveness of Applications	1638
 Restricted Application of Act	3714
 Restructuring Sequence.02 Not Applicable	11924
 Return Applicant	12338
+Return Process Applicants	19866
 Revealing the Misuse of Motorcycle Ride-sharing Applications	226
 Ridesharing Applications	226
+Rights and Obligations Under Applicable Data Regulation	19890
 Risk-Based Application of Requirements	5665
 Risque Description Conséquence Application	16328
 Road Fund License Application	18935
@@ -1529,7 +1548,7 @@ Scope and Application Parts I and IV	10157
 Scope of Applicability of IFRSs	19514
 Scope of Applicability of IPSASs and IFRSs	19514
 Scope of Application	27,1611,1320,1652,5245,1999,139,153,39,431,314,378,647,6,163,942,575
-Scope of Application Applies	10908
+Scope of Application Applies	10908,9014
 Scope of Application CHAPTER	12616
 Scope of Application Personal Data Collection and Processing	11539
 Scope of Application The FAIR Guidelines	14565
@@ -1652,6 +1671,7 @@ Technology Development and Applications	958,12337
 Tele-powering RAILWAY APPLICATIONS SCOPE	12949
 Telecommunication Licence for Application Services	736
 Telemedicine Applications National Action Plan	21
+Temporary ID Completed Application for National ID	19927
 Ten Thousand Dalasis. Applications	16842
 Terminology Data Digital Health Applications	396
 Territorial Application and Extraterritorial Reach	3861
@@ -1682,6 +1702,7 @@ Type Approval Application Form Applicant's Details	14883
 Type of Applications Children Used	19702
 Télemedecine Applications	18105
 UCL Applied Governance for Digital Public	11007
+UHIS. Applicants	19889
 UNEP As of Apply	17157
 US APPLY NOW APPLY NOW	13666
 USERS HIGH-SPEED NETWORKS APPLICATIONS SERVICES	16883
@@ -1689,6 +1710,7 @@ USSD Applications	18485
 USSD Code Application for Premium Rate Number	17250
 Under-utilisation of Application Systems	19584
 Under-utilisation of Application Systems Sn Entity Name	19584
+Underage ID Application Form	19927
 Unified MESOB Application	14133
 Universal Applicability This Policy	3861
 University of Applied Science	17226,197

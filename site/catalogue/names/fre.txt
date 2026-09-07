@@ -72,6 +72,7 @@ Africa’s Continental Free Trade Area	1264
 Against GECOL and Food Control Heads French	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
 Agreement DFFT Data Free Flow	1243
 Agreement Establishing the African Continental Free Trade	10157,319,3532,130,11,1492,1301
+Algeria. Freedom House	19874
 All Radio Frequency Spectrum Licenses	762
 Allowed Frequency	12949
 Amazon Web Services. French Mistral	6487
@@ -264,7 +265,7 @@ Development of Free Zones	10781
 Diagnostic AIGF Ivorian Frequency Management Agency	17862
 Digital Analogue Proposed Frequency Band Proposed	736
 Digital Code Frequency Annual Data	19245
-Digital Freedom	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Digital Freedom	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Digital Freedom Enabling Networks	1566
 Digital Freedom Public Perception of Inclusion	12353
 Digital Freedom of Expression	1157
@@ -330,7 +331,7 @@ Education Management Information System FQSE Free	18460
 Education Project. The French	244
 Education and HerAtlas. B. RIGHT TO FREEDOM	17970
 Edwin Sifuna Fred Matiang’i Kalonzo Musyoka	7869
-Egyptian Commission for Rights and Freedoms	11079
+Egyptian Commission for Rights and Freedoms	11079,8775
 Electoral Law'. Free	12201
 Electronic Frequency Information System	7827,23,239,84,668
 Eligibility for Free Monthly Mobile Data Package	14823
@@ -341,7 +342,7 @@ Endterm Target Source Frequency Expanded	7548
 Endterm Target Source Frequency National AI	7548
 Endterm Target Source of Frequency Indicator	7548
 English French	13051
-English and French	6488,2192,2294,189,276,424,470,2153,80,148,1,59,699,537
+English and French	6488,2192,2294,189,276,424,470,2153,80,148,1,59,699,537,3844
 English and French. Kiswahili	12413
 English and French. Pre-test	15574
 Enhancing Press Freedom	11634
@@ -361,7 +362,7 @@ FCC Transform Freetown Agenda	18448
 FCC’s Transform Freetown	18448
 FCFA Free	10823
 FG Taps French	12130
-FH Freedom House	11887,266,1,9,178
+FH Freedom House	11887,266,1,9,178,7517,1
 FINLAND EN.pdf Frempong G	16872
 FM Frequency	19350
 FM Sound Broadcasting Frequencies Assigned	6671
@@ -417,6 +418,7 @@ FREQUENCY OF BREACHES OVER	1938
 FREQUENCY OF THE ATTACK	1938
 FREQUENCY SPECTRUM MANAGEMENT	6671
 FREQUENCY SPECTRUM MANAGEMENT Microwave	6671
+FREQUENT INCOME EARNERS	19878
 FREQUENTES LE PRESCOLAIRE Nouveaux Inscrits	10847
 FREQUENTLY ASKED QUESTIONS	12323,2180
 FREQUÊNCIA ACADÉMICA NA REPÚBLICA ARGELINA DEMOCRÁTICA	11472
@@ -582,6 +584,7 @@ Free Roaming CEMAC	19036
 Free SA	8601
 Free SMSs	15471
 Free School Policy	11916
+Free Schools Health	19887
 Free Secondary Education	13122
 Free Secondary Education Programme	7695
 Free Society	2096
@@ -667,12 +670,12 @@ Freedom	226,735,3792,462,461,190,966,1400,422,368,134,504,277,80,117,82,380,130,
 Freedom C Onuoha	9616
 Freedom Day	2626,2174
 Freedom Day and Freedom Month	2626
-Freedom House	2117,3098,1617,117,2,1281,790,60,74,2535,177,465,43,2966,158,4136,17,183
+Freedom House	2117,3098,1617,117,2,1281,790,60,74,2535,177,465,43,2966,158,4136,17,183,85
 Freedom House AI Surveillance Index	121,138,83,133
 Freedom House Freedom	17967,217
 Freedom House HEI Health Effects Institute	10759,78,1052,451
 Freedom House Report	14190
-Freedom House Score	10908
+Freedom House Score	10908,9014
 Freedom House WJP World Justice Project	10835,3,130,902,16,466,1,135,7334
 Freedom Minutes and Chillax Bundles. Spectrum	19728
 Freedom Month	2626
@@ -687,14 +690,14 @@ Freedom and Protection	15027
 Freedom of Access	17870
 Freedom of Assembly	12201
 Freedom of Assembly and Association	9082,9515
-Freedom of Association	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Freedom of Association	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Freedom of Association Every	13948
 Freedom of Association and Assembly	6188
 Freedom of Association and Assembly Article	14742
 Freedom of Association and Collective Bargaining	19655
 Freedom of Association and Right	12389
 Freedom of Conscience and Religion Freedom	14742
-Freedom of Expression	3861,2932,3936,30,76,2,1,130,902,16,1,1,1,264,1,9,38,139,1,11,1,135,1161,4301,1702,1,169,14
+Freedom of Expression	3861,2932,3936,30,76,2,1,130,902,16,1,1,1,264,1,9,38,139,1,11,1,135,1161,4301,1702,1,169,14,22,1,65
 Freedom of Expression Republic	12201
 Freedom of Expression The Zimbabwe National AI	13649
 Freedom of Expression and Access	769,3655,329,4329,334,244,1435,5922,1,753,179
@@ -846,7 +849,7 @@ Frejus Thoto	10852
 Freleases	4861,929,900
 Frelick	12227
 Frelimo	5815,6333,53
-French	25,31,69,64,21,25,10,1,14,48,30,99,38,6,225,29,31,195,1,55,26,6,147,269,60,67,136,43,7,59,5,24,19,13,5,49,3,4,3,280,63,119,83,163,12,341,5,6,25,72,3,23,41,1,144,173,44,147,40,87,48,14,72,66,93,5,8,64,33,30,17,9,110,31,162,29,1,36,2,12,3,31,46,4,115,39,12,36,15,18,14,45,2,17,16,33,37,64,29,169,31,5,7,26,25,15,24,2,10,22,87,2,1,1,1,20,45,49,8,44,6,33,34,21,31,30,91,19,43,49,1,76,49,120,22,2,4,4,7,29,4,22,21,17,12,29,56,69,52,16,19,20,30,3,6,92,30,1,22,55,13,21,43,74,39,12,6,23,34,1,20,29,62,125,278,3,45,93,111,6,88,1,62,36,234,46,8,205,32,674,99,117,83,52,179,43,71,40,74,57,176,19,108,57,97,4,8,11,29,21,57,29,14,9,3,4,1,136,14,6,28,307,55,61,207,112,2,3,6,34,53,39,1,87,133,56,387,269,339,44,184,33,1,105,52,6,129,58,277,64,274,15,20,14,15,29,17,15,22,16,10,1,30,15,1,5,160,6,65,152,182,80,13,23,64,42,69,19,18,2,240,131,112,51,29,14,5,42,44,2,27,78,227,180,9,64,26,30,127,28,118,22,20,357,129,7,89,24,13,28,2,102,271,36,25,236,191,114,46,7,21,188,64,105,54,428,10,1,4,1
+French	25,31,69,64,21,25,10,1,14,48,30,99,38,6,225,29,31,195,1,55,26,6,147,269,60,67,136,43,7,59,5,24,19,13,5,49,3,4,3,280,63,119,83,163,12,341,5,6,25,72,3,23,41,1,144,173,44,147,40,87,48,14,72,66,93,5,8,64,33,30,17,9,110,31,162,29,1,36,2,12,3,31,46,4,115,39,12,36,15,18,14,45,2,17,16,33,37,64,29,169,31,5,7,26,25,15,24,2,10,22,87,2,1,1,1,20,45,49,8,44,6,33,34,21,31,30,91,19,43,49,1,76,49,120,22,2,4,4,7,29,4,22,21,17,12,29,56,69,52,16,19,20,30,3,6,92,30,1,22,55,13,21,43,74,39,12,6,23,34,1,20,29,62,125,278,3,45,93,111,6,88,1,62,36,234,46,8,205,32,674,99,117,83,52,179,43,71,40,74,57,176,19,108,57,97,4,8,11,29,21,57,29,14,9,3,4,1,136,14,6,28,307,55,61,207,112,2,3,6,34,53,39,1,87,133,56,387,269,339,44,184,33,1,105,52,6,129,58,277,64,274,15,20,14,15,29,17,15,22,16,10,1,30,15,1,5,160,6,65,152,182,80,13,23,64,42,69,19,18,2,240,131,112,51,29,14,5,42,44,2,27,78,227,180,9,64,26,30,127,28,118,22,20,357,129,7,89,24,13,28,2,102,271,36,25,236,191,114,46,7,21,188,64,105,54,428,10,1,4,1,14,20,35,10
 French AI	10527
 French African	17773
 French Agency for Development	11380,5931
@@ -1067,7 +1070,7 @@ Frequency of Publication	17149
 Frequency of Release of Official Statistics	17149
 Frequency of Report	13005
 Frequency of Review	11956
-Frequent	8436,1520,873,12,627,57,24,437,247,712,3,385,85,1324,422,495,186,1077,1,204,133,359,506,353,287,12,507
+Frequent	8436,1520,873,12,627,57,24,437,247,712,3,385,85,1324,422,495,186,1077,1,204,133,359,506,353,287,12,507,594
 Frequent Interruptions	18795
 Frequent Terms	13532
 Frequent Traveller Express Pass	17687
@@ -1137,7 +1140,7 @@ Gaza Frelimo Maputo Province Frelimo Name	12201
 General Authority for Free Zones	15473
 General Authority for Free Zones Department	15473
 General Authority for Free Zones and Investment GARPAD	15473
-General Authority for Investment and Free Zones	8770,1058,5664
+General Authority for Investment and Free Zones	8770,1058,5664,4376,44
 General Department for Investment and Free Zones	15492
 Generating Units Frequency	14867
 Generation Frequency	14867
@@ -1329,7 +1332,7 @@ Means of Verification Frequency SG2 SO4 NTDS	17116
 Means of Verification Frequency SG4 SO2 Dissemination	17116
 Means of Verification Frequency SG6 SO2 Budget	17116
 Measures Frequency	1988
-Media Freedom	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,38,139,1,11,1,135,7164,1,169,14
+Media Freedom	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,38,139,1,11,1,135,7164,1,169,14,22,1,65
 Media Frequencies and Mobile Transceivers	2775
 Media and Press Freedom Dimension	17745
 Medical Record FOSS Free and Open	396
@@ -1497,7 +1500,7 @@ Province Eastern Cape Free State Gauteng	8999
 Provision of School Materials Free Examination Fees	14835
 Pró-Reitor Frederico Branco	16229
 Public Data Open Access Freely	18747
-Public Perception of Freedom of Speech	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Public Perception of Freedom of Speech	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Public Perception of Freedom of Speech Inclusion	10759,1130,265,9,178,7312
 QRJ-08-2022-0116 Freijat	7278
 Quadro Nacional de Frequências	11531

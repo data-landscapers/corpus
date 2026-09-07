@@ -26,7 +26,7 @@ ATM Population Merchants and POS	6978
 ATM and POS	2849,1437,7669,314,2650
 ATM and POS. LeSwitch	2849
 ATMs POS Debit Cards Credit Cards	4517
-ATMs and POS	2927,2249,2627,4157,1428,1531
+ATMs and POS	2927,2249,2627,4157,1428,1531,4959
 AU's Common African Position	3583
 AUSSI FORT QUE POSSIBLE	13300
 Abbreviations HP Health Post SAM Severe	17869
@@ -70,7 +70,7 @@ Algerian Minister of Posts and Telecommunications	6547
 Algerian Ministry of Post and Telecommunications	3286,67,1526,2180,195
 Algerian Ministry of Posts and Telecommunications	5585
 Algorithmic Institutions Positioning	7966
-Algérie Poste	4584,3,1,1365,44,207,4026,5633,459,761
+Algérie Poste	4584,3,1,1365,44,207,4026,5633,459,761,2828
 Algérie Poste's CCP	4587
 All Posts	10123
 Ange J. A de Berry Quenum Posted	7408
@@ -495,7 +495,9 @@ Education Primary Secondary Tertiary Post-Graduate	16935
 Education System9 Post-graduates Level	14897
 Efficacité Le POSAF	10712
 Egypt National Post Organization	15519
-Egypt Post	1902,2146,995,1588,2433,6599,329,54,99
+Egypt Post	1902,2146,995,1588,2433,6599,329,54,99,3723,17
+Egypt Post Modernization Egypt Post	19885
+Egypt Post Office	19886
 Egypt Post’s ATMs	16046
 Egyptian Post	5869
 Electronic Communications and Post Regulatory Authority	969
@@ -555,6 +557,7 @@ FINANCIAL POSITION Table	10793
 Facebook Post	18394
 FairMoney's PoS	7689
 False Positive Rate	18724
+Fares Post Office	19868
 Fawry's POS	7540
 Federal Minister of Post	14879
 Felix Chiteule Post	13413
@@ -583,7 +586,7 @@ G Spectrum Public Policy Position	5675
 G. The Postal and Telecommunications Regulatory Authority	16741
 GAAP POS	14376
 GAPS AND CHALLENGES POST-REGISTRATION Despite	12457
-GII Position	11895,264
+GII Position	11895,264,7703
 GITEGA Total Possède	13390
 GPS Global Positioning System ISO International	18904
 GPS Global Positioning System NA	19542
@@ -889,6 +892,8 @@ Merciful The Telecommunications and Post	15340
 Method Pre-or Post- Qualificati	13938
 Methodes Contraceptives de Longue Duree du Post-partum	14662
 Microscopie Positive UNICEF	15475
+Mid-Year Post-Distribution Monitoring Brief	19886
+Mid-Year Post-Distribution Monitoring Report	19886
 Milieu de Vie Urabain Rural Total Possede	13390
 Mines and Energy MoPT Ministry of Post and Telecommunication	17114
 Ministe des Postes	16657
@@ -1188,6 +1193,7 @@ POS Fleet	11955
 POS Fraud	17362
 POS Gateway	16878
 POS Go Cashless	13532
+POS Machine	19878
 POS Machines	11955,7630
 POS Others Cheque Fraud Cyber	17362
 POS PC	11955
@@ -1206,6 +1212,7 @@ POS and ATMs	1908
 POS and QR	13388
 POS du SI	19360,2
 POS. Cada	15445
+POS. ID	19901
 POS. Le RZF	19362
 POS. Official Gazette	14919
 POSAF	1238,9281,193
@@ -1426,7 +1433,7 @@ Positif Milieu	14488,1,1
 Positif Non	13300
 Positif Phase	14488
 Positifs Quiconque	15429
-Position	34,1843,8,59,44,2908,2302,1801,1866,1091,255,91,63,79,3,102,126,410,121,169,43,263,760,439,3,39,75,545,232,429,349,89,216,139,10,37,71,13,123,1735
+Position	34,1843,8,59,44,2908,2302,1801,1866,1091,255,91,63,79,3,102,126,410,121,169,43,263,760,439,3,39,75,545,232,429,349,89,216,139,10,37,71,13,123,1735,872
 Position Actuarial	14997
 Position AfCFTA	11149
 Position African HNWI Robust	14997
@@ -1752,6 +1759,7 @@ Post-Clearance Audit TDO	17367
 Post-Clearance Audit. Mr. Brightwell Nkambule	13051
 Post-Clearance Audits	12389
 Post-Clearance Audits Post Clearance Audits	13053
+Post-Colonial State	19874
 Post-Commencement Credit Availability and Priority	12389
 Post-Conference Action Plan	17260
 Post-Configuration Training	9680
@@ -1902,7 +1910,7 @@ Postage and Courier	19641
 Postagens Relacionadas	10114
 Postais	11415,13,7324
 Postais Nacional	18778
-Postal	718,18,222,265,1033,181,949,328,273,541,640,785,47,890,56,1970,865,1348,2,3,46,17,1,13,50,1,1133,5,112,40,6,369,115,27,12,230,3,67,1140,322,36,257,204,256,1276,103,1479,31,118,1030,8,10,9
+Postal	718,18,222,265,1033,181,949,328,273,541,640,785,47,890,56,1970,865,1348,2,3,46,17,1,13,50,1,1133,5,112,40,6,369,115,27,12,230,3,67,1140,322,36,257,204,256,1276,103,1479,31,118,1030,8,10,9,225
 Postal Access and Use	19639
 Postal Act	11211,51
 Postal Address	1735,142,431,2588,7250,254,10,510,117,574,1269,2188
@@ -1944,7 +1952,7 @@ Postal Items	6671
 Postal Items Jan-Mar	6671
 Postal Market Indicators	12395
 Postal Market Indicators the Pricing of ICT	12395
-Postal Network	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Postal Network	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Postal Network Public Perception of Infrastructure RURAL	10759
 Postal Network Public Perception of Infrastructure Rural	10837,1315,188
 Postal Network Secure Employment Opportunities Access	10759
@@ -2269,6 +2277,7 @@ Postpaid	2776,3961,3996,60,182,1461,165,2468,4269
 Postpaid Account Payment Account	13333
 Postpaid Active SIM	1944
 Postpaid Active SIM TN Mobile	1013
+Postpaid Billing Cycle	19929
 Postpaid Energy Ex	12358
 Postpaid Mobile Voice Subscriptions	3862
 Postpaid Uncapped Internet Vodacom Uncapped	12769
@@ -2778,6 +2787,7 @@ Tweet This Post	5765
 Type de POS	13390
 TÉ UTILISÉ QUESTION NON POSÉE	13300
 Téla Nón Posted	18866
+U.S. Postal Money Order	19866
 UCC and POSTA Uganda	19660
 UN POSITIONNEMENT INSTITUTIONNEL RENFORCÉ Missions	2342
 UN20 POS	11955
@@ -2787,7 +2797,7 @@ UNHCR Post Annual	13938
 UNIVERSAL POSTAL UNION	11129
 UPU African Postal Leaders Forum	6946
 UPU Union Postale Universelle VSAT Very	16327
-UPU Universal Postal Union	11887,266,1,9,178
+UPU Universal Postal Union	11887,266,1,9,178,7517,1
 UPU. Le POST-ISAC	8392
 US Postal	767
 US Postal Service	767
@@ -2860,7 +2870,7 @@ Virtual Postal Boxes	15136
 Visa-Free Entry Posted	12164
 WARDIP SOP1. The Ministry of Post and Telecommunication	17099,15
 WBAR PAPI Position	16552,454
-Washington Post	18777
+Washington Post	18777,1077
 Weekly Organic Posts Promoted Social Media	8999
 Weibo. Posts	8460
 Wenela Border Post	12984
@@ -2881,6 +2891,8 @@ Year GII Position	11884,467,136
 Year GII Position Innovation Inputs Innovation	10969,916,320
 Year Post-Implementation Support	15080
 Year Total POSITION AT BEGINNING	11955
+Year-End Post-Distribution Monitoring Brief	19886
+Year-End Post-Distribution Monitoring Report	19886
 Youth Center Establishment of Post Office Extending	15578
 Youth Position Paper	9648
 ZA AFYA Posted	19561

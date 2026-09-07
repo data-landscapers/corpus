@@ -257,7 +257,7 @@ ATMs NetOne One Wallet AFC Holdings	6996
 ATMs POS Debit Cards Credit Cards	4517
 ATMs Total Number of Active Users Locations	16878
 ATMs Zimbabwe Zimbabwe	6996
-ATMs and POS	2927,2249,2627,4157,1428,1531
+ATMs and POS	2927,2249,2627,4157,1428,1531,4959
 ATMs. Connectivity	15663
 ATMs. Mobile	11130
 ATMs. SIMO	12270
@@ -905,7 +905,7 @@ Attached	2989,4621,972,4458,145,3401
 Attached Analysis	19541
 Attached Files	9854,1414,2577
 Attached PDF	4431,1594
-Attachment	2123,351,3971,4619,804,1317,1581,301,4686
+Attachment	2123,351,3971,4619,804,1317,1581,301,4686,101,67
 Attachment I	12500
 Attachment I. Memorandum of Economic and Financial Policies	17209,700,81
 Attachment II. Data Tables Numerical	12500
@@ -918,7 +918,7 @@ Attachment III. P5-16	12500
 Attachment III. Performance Assessment Report	12500
 Attachment IV. Current Status of Tax Administration	12500
 Attachment V	12500
-Attachments	1065,376,2273,5012,3142,2868,2,28,3342
+Attachments	1065,376,2273,5012,3142,2868,2,28,3342,1746
 Attachments ESCOPs	1988
 Attachments Should Be Included	13249
 Attachments The-Regulation-of-Company-Law.pdf	14891
@@ -945,7 +945,7 @@ Attacq	2246,293
 Attacq and Vantage Data Centres	2246,293
 Attafuah	3752,6408
 Attain	7538,3593,3610,1104,3797
-Attaining	14421,576
+Attaining	14421,576,4905
 Attaining Favorable Protection Environments	18125
 Attainment	12226,227,522,370,1899,4281,16,1
 Attainment of Birth Registration and Issuance Targets	19541
@@ -974,7 +974,7 @@ Attend Global Summit	16275
 Attend Toolbox	1988
 Attend the Nigeria International Energy Summit	17124
 Attend-il	4729
-Attendance	1009,545,434,7518,1350,14,264,58,794,107,960,328,139,1852,622,168,809,128,15,173,562,707,331,16,617,22
+Attendance	1009,545,434,7518,1350,14,264,58,794,107,960,328,139,1852,622,168,809,128,15,173,562,707,331,16,617,22,353,12
 Attendance Listing LIBERIAN DELEGATION Position	16857
 Attendance Of Outpatients For Tanzania Mainland	19544
 Attendance Rate	12431
@@ -1450,7 +1450,7 @@ Controllers ATOS Approved Training Organizations ATPL	2775
 Couleur Cibles Atteignables	16012
 Counselor Ahmed Saad Abdel Ati	14373
 Couverture Santé Universelle P1 Attribution	19221
-Creative Commons Attribution	1212,6519,28,262,1,108,153,153,1303,20,955,51,10,37,2,163,172,396,27,21,3,287,123,1,83,238,206,292,486,1,1,703,709,171,34,1,132,383,27,6,13,221,1,9,742,160,316,831,7,90,26,142,227,100,251,163,104,48,306,389,4,4
+Creative Commons Attribution	1212,6519,28,262,1,108,153,153,1303,20,955,51,10,37,2,163,172,396,27,21,3,287,123,1,83,238,206,292,486,1,1,703,709,171,34,1,132,383,27,6,13,221,1,9,742,160,316,831,7,90,26,142,227,100,251,163,104,48,306,389,4,4,247
 Creative Commons Attribution CC	9025,1689,249,1,13,159,13,730,376,1057,2,1583,550,33,1396,66,928,26,806,229
 Creative Commons Attribution CC BY World	19237
 Creative Commons Attribution International	19080
@@ -2213,6 +2213,7 @@ Par Yassine Atoui	19459
 Participation and Attendance WUF13	11285
 Partners Attorney General	7548
 Parâmetros de Atendimento	18812
+Pay Atlas. Mobile	19932
 Pays-Bas. Atelier	19402
 Pelouro Corporativo da ATDI	14342
 Percival Street Freetown Attn	18575
@@ -2249,6 +2250,7 @@ Power of Attorncy	15399
 Power of Attorney	22,8844,1237,272,1448,526,900,1517,125,3990
 Power of Attorney Sub-Merger Co	7198
 Power of Attorney. Recognising	8866
+Power of Attorney. Underage ID	19927
 Powers of Attorney-General	14714,1
 Pr Abderahim Awat Atteib	19094
 Prazo de Atualização	11561
@@ -2331,6 +2333,7 @@ Rapports ATAB Outil de Mesure	13325
 Recursos Humanos Atualização	16487
 Reducción de Atrasos Internos	4209
 References ATIBT	17140
+Refworld. Attachments Eritrea. N.d. Specimens	19921
 Regarding ATMs	16942
 Regime A ATCV	15912
 Regime Geral de Organização da Atividade	15554
@@ -2619,6 +2622,7 @@ Web Application Attacks System Attacks Mobile	6671
 Web of Science Google Scholar Atari M	8460
 Werksmans Attorneys Skip	6727
 West Africa. Atmosphere	16135
+Wilson Center. Attachments	19854
 Wind Atlas	12261
 Windstorms and Attended	12977
 Wing AShri Atal Bihari Vajpayee TowerCybercity	14848

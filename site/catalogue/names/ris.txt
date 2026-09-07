@@ -808,7 +808,7 @@ Intrinsic Risk Profile	11156
 Intrinsic Risk Worksheet Tool	11156
 Intrinsic Risks	11156
 Introducing the Children's Climate Risk Index	3583
-Investment Project Financing Environmental and Social Risk	15553
+Investment Project Financing Environmental and Social Risk	15553,4302
 Investment Project Financing. Environmental and Social Risk	19835
 Investment Risk Reserve	19564
 IoT Services RISA RISA RISA Digital	12359
@@ -824,7 +824,7 @@ Jun-2026. Environmental and Social Risk Classification	14971
 Jun-2028 Environmental and Social Risk Classification	15969
 KEY DIMENSIONS OF CONTEXT RISK MULTIPLIER	11156
 KEY DIMENSIONS OF INTRINSIC RISK	11156
-KEY RISKS	1818,16475
+KEY RISKS	1818,16475,1562
 KEY RISKS AND MITIGATION	11261
 KEY RISKS Risks Probability Comments	1818
 Kenya ICT Authority Strengthens Risk Management	10586
@@ -1172,6 +1172,7 @@ Procurement Risks and Mitigation Measures Procurement Risk	19245
 Procurement Risks and Mitigation Measures Risks Mitigation	10829
 Program Design Effectiveness Risk Internal Audit	3604
 Programme Risks	12359
+Project Description and Key Risks	19855
 Project Design Conditions for Effectiveness Residual Risk	10829
 Project Design Residual Risk Rating INHERENT	15518
 Project Design Risk	15411
@@ -1415,7 +1416,7 @@ Rishabh	16996
 Rishi Raithatha	10977
 Rishi Sunak	17780
 Rishi Sunak. Si	2413
-Rising	10,3446,1140,616,30,3,381,1,592,1118,255,686,1786,284,141,352,123,167,3,2,13,136,132,400,138,421,68,887,201,1095,96,313,208,601,1127,46,139,128,564,136,316,280,826
+Rising	10,3446,1140,616,30,3,381,1,592,1118,255,686,1786,284,141,352,123,167,3,2,13,136,132,400,138,421,68,887,201,1095,96,313,208,601,1127,46,139,128,564,136,316,280,826,483
 Rising Academies	6232,12332
 Rising Across Every Level	12199
 Rising Across Sectors	15130
@@ -2022,7 +2023,7 @@ System DRR Disaster Risk Reduction NMHS	13729
 System-Level Risks	1814
 Systematic Operating Risk-Rating Tool TA Technical	15411
 Systematic Operations Risk Rating Tool	18359
-Systematic Operations Risk-Rating Tool	6833,5891,2186
+Systematic Operations Risk-Rating Tool	6833,5891,2186,4945
 Systematic Operations Risk-Rating Tool Systematic Tracking	15658
 Systematic Operations Risk-rating Tool Risk Category	18473
 Systemic Risk	7548

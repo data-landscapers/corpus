@@ -21,7 +21,7 @@ AIIB's US	784,14182
 APIN's Dr. Olaposi Olatoregun and US CDC	9444
 ASSISTANCE FRAMEWORK US UNITED STATES USAID	18105
 ATAFTAX.ORG WWW.ATAFTAX.ORG FOLLOW US	3161
-About Us	3859,2044,362,681,382,999,570,356,3092,988,169,962,255,163,61,579,2927,109
+About Us	3859,2044,362,681,382,999,570,356,3092,988,169,962,255,163,61,579,2927,109,1296,67
 About Us How We Work	12493
 About Us KICTANet	14464
 About Us Menu	13333
@@ -120,7 +120,7 @@ Composition of NPV Costs Benefits CAPEX US	15659
 Confirmation of Identity US	19528
 Contact About Us	17025
 Contact About Us Departments	16961
-Contact Us	7266,1987,2751,207,40,146,2324,246,38,126,702,863,177,15,1,65,18,91,1,34,19,39,45,50,23,18,12,632,226,383,13,557,501,172
+Contact Us	7266,1987,2751,207,40,146,2324,246,38,126,702,863,177,15,1,65,18,91,1,34,19,39,45,50,23,18,12,632,226,383,13,557,501,172,88
 Contact Us Central Bank of Sudan Port	5864
 Contact Us Dr Tom Wolf	7869
 Contact Us Econet	12515
@@ -282,7 +282,7 @@ IDA Credit of US	13897
 IDA Grant US	13831
 IDA Grant of US	18625
 IDA PSW US	11310
-IDA US	543,218,1493,1350,3150,2229,1846,481,827,3235,289,723
+IDA US	543,218,1493,1350,3150,2229,1846,481,827,3235,289,723,3471
 IDA and US	11905,19,464,944,2812,43,427,282
 IDA-SUW and US	3604
 IDA-WHR and US	15743
@@ -618,9 +618,11 @@ US Department	3251,876
 US Department of Commerce	7112,3415,6484
 US Department of Defence	9015
 US Department of Justice. Upon	9188
-US Department of State	721,1563,1928,10,44,62,30,889,4152,7543,2884
+US Department of State	721,1563,1928,10,44,62,30,889,4152,7543,2884,95
 US Department of State YouTube	4426
-US Department of State's Reciprocity Schedule	11864
+US Department of State's Country Reports	19854
+US Department of State's Reciprocity Schedule	11864,8057
+US Department of State's Reciprocity Schedule for Eritrea	19921
 US Department of State. Reminder	12188
 US Dept	11857
 US Dept of Health and Human Services	496,183

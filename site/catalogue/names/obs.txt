@@ -152,6 +152,7 @@ Establishment of The Financial Inclusion Observatory	10775
 Eswatini Observer	5450
 Europe Observatory	11050
 European Drought Observatory	15715
+European Observatory	19889
 European Union Election Observation Mission	10017
 European Union Election Observation Mission Mozambique	12201
 FAO's Earth Observation for Agricultural Statistics	13475
@@ -344,7 +345,7 @@ OBsERVAtIONs INCLUsEs	7655
 ODA Official Development Aid OEC Observatory	16996
 ODHD Observatory	17906
 ODW Open Data Watch OEC Observatory	10835,3,130,902,16,466,1,135,7334
-OEC Observatory for Economic Complexity	11887,266,1,9,178
+OEC Observatory for Economic Complexity	11887,266,1,9,178,7517,1
 OECD AI Policy Observatory	1204,5628,8881
 OECD Artificial Intelligence Policy Observatory	11140
 OECD Publishing. OECD AI Policy Observatory	6832
@@ -537,7 +538,8 @@ Obsolescence	14965,577,2300
 Obsolete	7548,6185,996
 Obsoletes	12058
 Obstacle	12389,4163,454
-Obstacles	5679,1976,366,1867,2501,936,516,1700,58,2283,1078,679
+Obstacle of Challenges	19900
+Obstacles	5679,1976,366,1867,2501,936,516,1700,58,2283,1078,679,261
 Obstaculizar	16965
 Obste	10881
 Obstetras	18768

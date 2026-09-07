@@ -112,7 +112,7 @@ Boukary LISTE DES MEMBRES DU BUREAU	18032
 Budget Bureau	18483,5
 Bugesera Burera	12413
 Burea1u2o.6f PBuubrleicaPuroofcPuurbemlicePnrto	10157
-Bureau	557,1514,46,658,81,33,370,67,285,127,365,767,379,577,281,168,226,119,62,460,55,20,331,122,14,331,492,8,222,154,65,57,309,118,40,32,288,256,238,179,239,52,57,23,77,12,11,190,429,162,34,92,1,92,38,11,50,49,73,76,50,235,117,32,31,194,105,70,217,49,8,11,15,2,13,29,21,27,11,4,17,56,40,33,7,74,12,39,428,176,46,2,17,7,14,38,1,1,44,3,12,45,23,5,40,74,50,20,31,517,8,48,4,110,18,13,2,11,16,15,4,100,21,3,17,30,127,2,39,8,97,28,24,40,36,20,52,3,13,24,5,260,10,15,43,99,114,20,7,3,37,27,79,99,130,88,1,44,103,117,155,69,15,18,3,8,5,11,16,27,160,26,3,19,20,6,20,1,15,102,4,6,19,6,5,10,26,106,72,59,37,27,46,176,7,95,112,3,26,21,12,50,156,34,37,65,12,10,161,25,3,29,66
+Bureau	557,1514,46,658,81,33,370,67,285,127,365,767,379,577,281,168,226,119,62,460,55,20,331,122,14,331,492,8,222,154,65,57,309,118,40,32,288,256,238,179,239,52,57,23,77,12,11,190,429,162,34,92,1,92,38,11,50,49,73,76,50,235,117,32,31,194,105,70,217,49,8,11,15,2,13,29,21,27,11,4,17,56,40,33,7,74,12,39,428,176,46,2,17,7,14,38,1,1,44,3,12,45,23,5,40,74,50,20,31,517,8,48,4,110,18,13,2,11,16,15,4,100,21,3,17,30,127,2,39,8,97,28,24,40,36,20,52,3,13,24,5,260,10,15,43,99,114,20,7,3,37,27,79,99,130,88,1,44,103,117,155,69,15,18,3,8,5,11,16,27,160,26,3,19,20,6,20,1,15,102,4,6,19,6,5,10,26,106,72,59,37,27,46,176,7,95,112,3,26,21,12,50,156,34,37,65,12,10,161,25,3,29,66,44
 Bureau Accounts	18886
 Bureau Accueil	17888
 Bureau Administratif	14527
@@ -335,7 +335,7 @@ Bureau. The Bureau	14736
 Bureau. The Director	14736
 Bureau. The General Manager	14736
 Bureau. The NSC	19712
-Bureaucracy	2096,10131,4631,1460
+Bureaucracy	2096,10131,4631,1460,1582
 Bureaucratic	6277,1174,570,6980,1942
 Bureaucratic Enforcement	8629
 Bureaucrats	12369,5949
@@ -534,6 +534,7 @@ East African Community Statistics Bureau Bill	3738
 East African Statistics Bureau	9322,66,667
 Electricity Meters. The Bureau	19712
 Electronic Health Information Network Corruption Bureau	12241
+Eliminating Bureaucracy Bureaucracy	19900
 Employment Bureaux	14935
 Enactment SEYCHELLES BUREAU OF STANDARDS ACT	18893
 Engineering Research and Consultation Bureau	16916
@@ -547,7 +548,7 @@ Establishment of Bureau	18893
 Establishment of National Bureau of Standards	18600
 Etat Civil BUCREP Bureau Central des Recensements	15501
 Etudes de Population Bureau National	15599
-Executive Bureau	8645
+Executive Bureau	8645,11215
 FCFA Bureau	16047
 FMI BNS Bureaux Nationaux de Statistiques BUCREP	16104
 FOREX BUREAU FINANCIALS	15023
@@ -755,7 +756,7 @@ Namibia Bureau	5543
 Namibia Namibia Bureau WINDHOEK	9749
 Namibian Police Criminal Record Bureau and Forensic	12984
 National Association of Foreign Exchange Bureau of Liberia	12092
-National Bureau	14889,4637
+National Bureau	14889,4637,361
 National Bureau AG. of Statistics	19526
 National Bureau Coordination	19541
 National Bureau of Bureau	19526
@@ -771,7 +772,7 @@ National Bureau of Standards	13320,1543,4,3733,1112
 National Bureau of Standards Act	18600
 National Bureau of Standards Council	18600
 National Bureau of Standards May Cancel	18600
-National Bureau of Statistics	1261,14,829,367,912,479,712,481,190,1080,211,1056,495,572,159,428,324,120,403,1033,3,4,9,579,130,3,6,6,132,140,7,2244,500,170,26,2072,1017,2,9,59,353,10,17,13,27,31,12,38,141,65,38,19,19,13,56,3,1,416,3,7,5,5,5,1,2,10,1,2,27,29
+National Bureau of Statistics	1261,14,829,367,912,479,712,481,190,1080,211,1056,495,572,159,428,324,120,403,1033,3,4,9,579,130,3,6,6,132,140,7,2244,500,170,26,2072,1017,2,9,59,353,10,17,13,27,31,12,38,141,65,38,19,19,13,56,3,1,416,3,7,5,5,5,1,2,10,1,2,27,29,274
 National Bureau of Statistics Act	18637,108,141,214
 National Bureau of Statistics Augustino T. Mayai	7749
 National Bureau of Statistics Board	19516,10
@@ -784,6 +785,7 @@ National Bureau of Statistics Strategic Plan	19519
 National Bureau of Statistics and Ministry of State	19542
 National Bureau of Statistics and President's Office Finance	11133
 National Bureau of Statistics and UNICEF	18695
+National Bureau of Statistics. B Ther	19887
 National Bureau of Statistics. Contacts Contacts Name	19613
 National Bureau of Statistics. FinMark Trust	18899
 National Bureau of Statistics. Streamlined	12210
@@ -975,6 +977,7 @@ Telecommunications Standards Bureau	16934
 Testex and Bureau Veritas	14736
 Through the National Registration Bureau	3820
 Training College KNBS Kenya National Bureau	2775
+Translation Bureau	19854
 Tweet Head of Libya’s Audit Bureau Khaled	10409
 U.S. Bureau of International Narcotics and Law Enforcement	14994
 U.S. Census Bureau	16921

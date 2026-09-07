@@ -176,7 +176,7 @@ Belhar Drive	8999
 Belhar Regional Hospital Concept	11248
 Belhassen Ben Chaabane	19375
 Belieb News	9730
-Belief	5349,4974,436,76,2,1,130,902,16,1,1,1,264,1,9,83,94,1,11,1,135,930,1924,1581,1,2728,1,169,14
+Belief	5349,4974,436,76,2,1,130,902,16,1,1,1,264,1,9,83,94,1,11,1,135,930,1924,1581,1,2728,1,169,14,22,1,65
 Belief Capital	10162,38
 Belief Capital and SV Angel	10162,37
 Belief Economic Diversification	11870
@@ -387,7 +387,7 @@ FCCPC Executive Vice Chairman Tunji Bello	7181
 Faicel Belaid	17881
 Farid Belaib	15767
 Fatima Bello The National Information	9576
-Ferid Belhaj Country Director	13836,5999
+Ferid Belhaj Country Director	13836,5999,20
 Ferid Belhaj Regional Director	17458
 Finincl Fund Belgian Investment Company for Developing	177
 Floor Belmont House Intendance Street Port	14847

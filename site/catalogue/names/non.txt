@@ -206,7 +206,7 @@ Consortium des Organisations Non Gouvernementales	18286
 Construction Agriculture Non	10875
 Consumer Price Indices for Food and Non-Alcoholic Beverages	2775
 Contact of Nonusers	15247
-Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Coordinating Assembly of Non Governmental Organisations	12896
 Core and Non-Core Baskets and Weights	2775
 Core and Non-Core Indices	2775
@@ -492,6 +492,7 @@ Lex Lata Vel Non	5242
 Liaison Unit for Non-Governmental Organisations	18888
 Liberia Nona Deprez	3008
 Liberia’s Non-Polio AFP	17289
+Licence for Non-Cellular LPWAN	19890
 Lineage Non-quantitative	18904
 List of Non-Core CPI Items	2775
 Logistics Non-Profit	16266
@@ -950,11 +951,13 @@ Non-Bank Payments System Providers	7763
 Non-Bank Payments System Providers Usage	7763
 Non-Bank Remittance Service Providers	13388
 Non-Banking Financial Institutions Act	17108
+Non-Banking Financial Services and Activities	19856
 Non-BanksThe SARB	5691
 Non-Beneficiary	12978
 Non-Binding Instrument Public Policy Cycle Public	19638
 Non-CO2 Emissions	17140
 Non-Calibration	19585
+Non-Cellular LPWAN	19890
 Non-Citizen Birth Certificates	12496
 Non-Citizen Card	17537
 Non-Citizen Card and Biometric	17537
@@ -1347,7 +1350,7 @@ Non-exécution	16210
 Non-ferrous	11258,2127
 Non-filer	12500
 Non-filers	12500,4511
-Non-financial	12376,3551,3605
+Non-financial	12376,3551,3605,369
 Non-financial Corporations	19519
 Non-fiscal	14985
 Non-folder Aluminum	12977
@@ -1499,7 +1502,7 @@ Non-taxable	15473
 Non-teaching	15604
 Non-technical	11357,2267,5238
 Non-trade	12948
-Non-traditional	6832,12405
+Non-traditional	6832,12405,650
 Non-traditional Consumer Lending	8587
 Non-transferability	587,3300,12952
 Non-transférabilité	4420
@@ -1572,18 +1575,19 @@ None Yes None Problem Project	16614
 None-sewer	718
 None. ANNEXURE	3714
 None. APIs	12269
-None. Correspondent	12269
+None. Correspondent	12269,7632
 None. Ecobank	15474
-None. Interoperability	12269
+None. Interoperability	12269,7632
 None. MOCAF	15474
 None. TABLE C	3714
-Nonetheless	408,163,147,251,292,761,1369,192,21,187,335,998,123,116,25,2427,790,1,336,1776,45,2,10,66,10,10,20,81,1,1,24,18,95,30,2,1,2,32,103,246,7,48,13,272,43,5,2,87,144,23,27,13,136,72,91,157,284,64,65,53,191,18,86,450,874,163,27,1,2,88,349,52,68,61,51,139,9,217,8,459,408,30,68,1,8,7,8,138,105,26,81,1,13,34,57,82,115,291,53,28,311,17,724,195,8,286,10,113,193
+Nonetheless	408,163,147,251,292,761,1369,192,21,187,335,998,123,116,25,2427,790,1,336,1776,45,2,10,66,10,10,20,81,1,1,24,18,95,30,2,1,2,32,103,246,7,48,13,272,43,5,2,87,144,23,27,13,136,72,91,157,284,64,65,53,191,18,86,450,874,163,27,1,2,88,349,52,68,61,51,139,9,217,8,459,408,30,68,1,8,7,8,138,105,26,81,1,13,34,57,82,115,291,53,28,311,17,724,195,8,286,10,113,193,43,5,37
 Nonextractive	17909,81
 Nongo	8022
 Nongo Conteya	16662
 Nongobzanga Zongo	3668,543,85,2472
 Nongolougo Soro	16537,1098,1,139,26
 Nongoma	2626
+Nongovernmental	19887
 Nongovernmental Organization NIR National Identifi	16876
 Nongovernmental Organization PAD Project Appraisal Document	17862
 Nongr-Massom	16097
@@ -1712,6 +1716,7 @@ PARTIE NON OFFICIELLE Vu	15660
 PARTIE NON OFFICIELLE Zhen Jiang	15660
 PAS NON	13300
 PDA PDS ORGANISATION NON GOUVERNEMENTALE PROGRAMME	18105
+PDPL. Non-compliance	19895
 PEN Plus Package of Essential Noncommunicable Diseases	17289
 PENALTIES AND FINES FOR NON-COMPLIANCE Failure	13381
 PERMISSION DE VOIR NON OBTENUE	13300
@@ -1819,6 +1824,7 @@ Republic of Congo Non-transactional	11897
 Request for Bids Non-Consulting Services	13527
 Request for Quotations None National	19245
 Request for Quotations None Open Competition International	19245
+Requests for Waiver of Non-observance	19889
 Research Council NCD Noncommunicable Disease NETC	16922
 Reserve Bank of Zimbabwe None Central Bank	12490
 Residents Nonresidents Payments	17011
@@ -1934,6 +1940,7 @@ Terminé Démarré Démarré Non	15542
 Terminé Non	15542
 Terms. Non-commercial	11596
 Thekwini Non-Revenue Water Table D.4 Blended	11248
+Third Communicable Noncommunicable	19887
 Thohoyandou Building Construction and Non-	11986
 Timely Detect Non-filers	17011
 Timely Detect Non-filers Implementation	17011

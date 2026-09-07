@@ -480,6 +480,7 @@ Census Officials	12963
 Center for Reproductive Rights Africa Regional Office	7167
 Center of Official Documents Issuance	16942
 Center's Chief Executive Officer	15484
+Centers and Tax Offices	19919
 Central Africa Region Official Use	16436
 Central Census Office	9408
 Central Chiefdom Administrative Clerks and District Officers	18500
@@ -818,8 +819,10 @@ Civil Registration Office	3004,9184
 Civil Registration Officer	3623
 Civil Registration Officer CRVS	12338
 Civil Registration Officers	12413,2643
+Civil Registry Office	19887
 Civil Registry Officer	19686
 Civil Registry Offices	10765,10
+Civil Registry Offices Electroinc	19887
 Civil Society LIWEN Office	17099
 Civil Status Division Prime Minister’s Office	14755
 Civil Status Office	14713,1,1,38
@@ -849,6 +852,7 @@ Code of Ethics for Public Officers	14835
 Code of Practice for Official Statistics	13993,726
 Colonel FIAWOFIA DOAGBODZI Kodjo OFFICIER ARMEE	19251
 Colonel SOGOYOU Cossi OFFICIER ARMEE	19251
+Commanding Officers	19920
 Commercial Officer of Optasia	8587
 Commission NIDA Office	19584
 Commission's Chief Electoral Officer	17654
@@ -860,7 +864,7 @@ Committee Media Officer	9883
 Committee of Senior Trade Officials	15641
 Common Services Office	10063
 Commonwealth Symposium for Criminal Justice Officials	19007
-Commonwealth and Development Office	3654,472,4651,1276,534,181,235,130,9,855,9,169,1026,336,8,1371,1092,762,190,1341,152,1066,23,44
+Commonwealth and Development Office	3654,472,4651,1276,534,181,235,130,9,855,9,169,1026,336,8,1371,1092,762,190,1341,152,1066,23,44,303
 Commonwealth and Development Office FM Financial Management	10768
 Communication Mfanfikile Dlamini Chief Operations Officer	11131
 Communication Officer	11289,366,314,5130
@@ -1064,10 +1068,10 @@ Data Management Office	14752,38
 Data Management Office DPA Data Protection	14790
 Data Officer Coordination Data	15034
 Data Officers	12210
-Data Protection Office	783,16,197,232,1588,173,254,1286,54,70,197,1689,713,2880,2100,187,2304,4,25,38,29,20,8,172
+Data Protection Office	783,16,197,232,1588,173,254,1286,54,70,197,1689,713,2880,2100,187,2304,4,25,38,29,20,8,172,4871
 Data Protection Office and The Attorney	14726
 Data Protection Office. Un	6608
-Data Protection Officer	1877,847,583,5,168,148,1,899,1,332,24,216,1080,611,144,1501,3443,76,39,190,8,39,70,117,93,37,380,75,32,345,113,940,90,25,658,277,705,2022,1031,517,42
+Data Protection Officer	1877,847,583,5,168,148,1,899,1,332,24,216,1080,611,144,1501,3443,76,39,190,8,39,70,117,93,37,380,75,32,345,113,940,90,25,658,277,705,2022,1031,517,42,52,42
 Data Protection Officer Appointment	12193
 Data Protection Officer Appointment ARTICLE	15484
 Data Protection Officer Article	11956
@@ -1083,7 +1087,7 @@ Data Protection Officer's Assessment Schedule	11956
 Data Protection Officer. Cross-Border Data Transfers	1652
 Data Protection Officer. Every	8146
 Data Protection Officer. Whereas	9987
-Data Protection Officers	1014,206,1579,1730,54,180,239,361,62,137,619,427,319,331,785,938,329,677,86,95,1509,203,254,167,94,986,113,201,1363,426,3573,510,234
+Data Protection Officers	1014,206,1579,1730,54,180,239,361,62,137,619,427,319,331,785,938,329,677,86,95,1509,203,254,167,94,986,113,201,1363,426,3573,510,234,109
 Data Protection Officers Somalia Data Protection	15058
 Data Protection Officers Version	15058
 Data Protection Officers and Compliance Organisations	6544
@@ -1270,6 +1274,7 @@ Dr. Yatta Kanu Chief Education Officer	18460,1
 Draft Official Identity Management Policy	1939,4448,125
 DreamOval Chief Executive Officer Derek Laryea	236
 Duties of Data Protection Officer	12185
+Duties of Officers of Civil	19920
 Duty of District Returning Officer	18459
 D’UN OFFICIER DE LA GARDE NATIONALE	18032
 D’UN OFFICIER DE L’ARMEE DE TERRE	17982
@@ -1344,6 +1349,7 @@ Educator National Office Address	11241
 Efficient Office	12970
 Egypt Country Office	15473
 Egypt Country Office USAID	15473
+Egypt Post Office	19886
 Election Officer	14852
 Electoral Commission Deputy Chief Officer	11076
 Electoral Commission of Namibia Regional Office DRC	13046
@@ -1414,6 +1420,7 @@ Ethiopia. Daniel Fikadu Law Office	12185
 Europe's AI Office	8014
 European AI Office	8686,6
 European Anti-Fraud Office	18984,1
+European Asylum Support Office	19921
 European Commission FLEGT Office	16848
 European Commission's AI Office	8529
 European Commission’s AI Office	8691
@@ -1428,7 +1435,7 @@ Example of Post Office Box	11129
 Exchange Office	7655,9815
 Executive Authority Signature OFFICIAL SIGN OFF	5533
 Executive Members. The Chief Operating Officer	11131
-Executive Office	10330,1523,883,1810,59,383,1859,25,103,164
+Executive Office	10330,1523,883,1810,59,383,1859,25,103,164,2729
 Executive Officer	6946,5030,2495
 Executive Officer Luvuyo Masinda	15875
 Executive Officer Marna Cloete	15952
@@ -1441,6 +1448,7 @@ Executive Secretary and Chief Executive Officer	7317
 Executive Vice Chairman and Chief Executive Officer	7562,555,300,292,408,2175
 Executive Vice-Chairman and Chief Executive Officer Aminu	8241
 Exemption of Visa Diplomatic and Official	13744
+Existing Civil Status Offices	19920
 Exit Officers	17367
 Expanding Large and Medium Taxpayer Offices	10997
 Expanding the Office	18477
@@ -1478,6 +1486,7 @@ Facebook of Office Prime Min	15552
 Fair Compe- Office Labour	6938
 Family Code. Official	19834
 Family Office	14809
+Fares Post Office	19868
 Fawry Official Financial Filings	5869
 Featured Office of Registrar of Companies	9842
 Federal Office	12210
@@ -1722,6 +1731,7 @@ Heads of Intellectual Property Offices Conference	12744
 Heads of Intellectual Property Offices HR Human	11250
 Heads of National Statistical Offices	14839
 Health Data and Digital Health Coordination Office	7454
+Health Office	19887
 Health Officers Year	4349
 Health PATH President's Office	19521
 Health Promotion Officers	17289
@@ -1738,7 +1748,7 @@ Holding of Other Offices	14409
 Homabay County Women Representative Officers Ethics	6946
 Home Affairs Immigration Officers1 Embassy	12972
 Home Industry Officer	12970
-Home Office	11868,2223
+Home Office	11868,2223,5763
 Home Official URL	6666
 Honourable Prime Minister’s Office	14742
 Houda Imane FARAOUN JOURNAL OFFICIEL	15467
@@ -1816,6 +1826,7 @@ IP Offices	12744
 IPN Chief Operating Officer Marsorry Ickua	6988
 IPP Office	19677
 IQSTEL.com. Official Investors Landing Page	16412
+IRD Offices	19923
 ITIDA Chief Executive Officer Ahmed Elzaher	7045
 ITO and District Registration Officer for Buliisa District	3005
 ITU Arab Regional Office	3750,4895,6350
@@ -2307,7 +2318,7 @@ Mines Officiers	17899
 Minister Maziya. ESCCOM Chief Executive Officer	13066
 Minister Principal Officials Departments Related Agencies	19522
 Minister of Health For Official Use Only	19284
-Minister's Office	6797,6165,6558
+Minister's Office	6797,6165,6558,413
 Ministerial Communications Officer and Spokesperson	13239
 Ministerial and Senior Official	19060
 Ministers Office	12939
@@ -2378,6 +2389,7 @@ Multi-Partner Trust Fund Office	11356,8215
 Multi-country Office Senegal	17323,1
 Multi-lateral Office	7548
 Multichoice Kenya The Office	2668
+Must the Data Protection Officer	19895
 Mutare Office	12515
 My Office	13355,6186
 Météorologie ONS Office National des Statistique ONSER	17907
@@ -2522,6 +2534,7 @@ National Statistics Office ORT	12175
 National Statistics Office Vital	12327
 National Statistics Office of Georgia	12413
 National Statistics Offices	3476,1874,5887,4723,1189,390,107
+National Statistics and Evaluation Office	19920
 National Strategy Office	12546
 National Study Office Techniques and Development	15622
 National Technical Team ODA Official Development	13310
@@ -2657,7 +2670,7 @@ OFFICIAL USE ONLY INTERNATIONAL BANK	15553
 OFFICIAL USE ONLY INTERNATIONAL DEVELOPMENT	14910
 OFFICIAL USE ONLY Intermediate Results Indicators	15905
 OFFICIAL USE ONLY Received	22
-OFFICIAL USE ONLY Report	1867,1695,2977,4229,61,731,295,110,211,2761,474,252,119,1140,519,757,689,948,12
+OFFICIAL USE ONLY Report	1867,1695,2977,4229,61,731,295,110,211,2761,474,252,119,1140,519,757,689,948,12,8
 OFFICIAL USE ONLY Report No	12968
 OFFICIAL USE ONLY Report No. CPF0000058	11468
 OFFICIAL USE ONLY Rui Xiang	15905
@@ -2713,7 +2726,7 @@ Occupational Health and Safety Official Use Only	12253
 Oct-2025 For Official Use Only	18350
 Oct-24 Attorney General’s Office	14746
 Offical States Secrets Act Requirement	11952
-Office	395,16,176,131,244,7,1,2,42,11,129,74,15,39,2,6,264,22,54,44,103,1,32,57,7,1,53,16,20,24,81,48,136,79,10,47,135,92,36,16,59,48,4,94,47,111,20,66,2,188,57,22,70,70,6,30,21,9,3,25,40,54,11,217,46,66,53,7,12,8,80,3,11,139,161,7,48,7,7,43,28,47,4,89,28,60,84,53,39,6,35,4,6,11,81,5,143,3,97,70,17,48,18,10,16,9,124,69,150,37,102,26,1,22,47,2,31,128,32,71,13,28,34,149,4,72,13,25,1,17,55,32,10,5,8,15,1,14,65,56,31,18,8,24,121,126,9,1,27,19,54,59,8,2,16,14,23,26,13,11,23,102,60,1,67,45,4,28,24,176,40,49,28,53,49,21,30,9,103,162,10,18,23,46,9,8,81,65,23,35,22,33,8,13,42,44,36,89,20,12,8,1,70,27,5,40,21,1,42,23,10,17,32,2,8,16,85,3,86,11,15,12,90,7,44,1,47,93,57,5,3,25,5,58,15,3,53,38,53,30,6,4,86,47,28,11,5,29,3,10,4,1,14,3,12,70,38,13,66,83,5,2,1,15,7,8,13,5,36,4,2,23,11,3,4,12,3,6,3,180,94,21,2,42,9,25,129,57,18,1,1,47,8,19,9,4,31,9,3,63,1,76,5,2,6,10,9,1,18,21,4,3,15,8,50,11,1,23,2,10,17,13,8,6,10,23,1,13,16,4,4,1,13,12,5,17,12,103,37,15,26,33,5,1,2,10,152,21,3,1,2,4,8,4,11,6,5,1,2,7,1,5,5,2,9,22,18,4,3,13,27,15,2,26,90,23,72,2,1,1,2,6,1,1,3,4,3,3,10,10,4,25,1,2,31,2,39,11,4,30,39,35,71,39,11,74,83,152,1,27,15,85,36,32,63,8,34,34,5,2,60,20,4,1,6,7,76,22,55,63,49,7,3,4,15,4,2,3,10,7,2,2,6,6,4,17,4,4,1,10,6,17,11,4,17,12,15,1,14,4,5,5,30,1,28,29,4,20,12,88,1,16,17,42,12,101,6,30,39,18,27,17,73,7,48,3,16,19,18,13,28,33,123,23,30,23,6,126,144,37,44,224,20,6,15,20,2,6,23,38,116,79,5,2,4,4,7,5,4,10,7,1,11,4,27,16,4,5,3,3,12,1,1,3,31,19,12,64,4,33,1,41,52,3,2,8,35,9,102,3,45,2,7,42,2,65,32,19,46,81,8,2,36,46,43,3,3,58,2,9,87,72,2,17,53,29,8,4,3,20,13,16,7,29,22,12,73,22,3,9,3,4,7,3,4,10,9,2,12,19,12,1,5,9,1,21,4,4,1,1,74,13,1,3,41,21,15,141,1,15,8,1,15,113,2,7,14,1,26,6,23,14,5,2,3,18,20,15,2,36,16,24,10,4,3,32,103,10,15,55,10,3,1,3,3,3,5,7,1,3,9,1,2,15,4,8,1,7,49,1,5,8,5,6,19,1,3,12,11,9,3,3,8,6,6,12,1,12,26,5
+Office	395,16,176,131,244,7,1,2,42,11,129,74,15,39,2,6,264,22,54,44,103,1,32,57,7,1,53,16,20,24,81,48,136,79,10,47,135,92,36,16,59,48,4,94,47,111,20,66,2,188,57,22,70,70,6,30,21,9,3,25,40,54,11,217,46,66,53,7,12,8,80,3,11,139,161,7,48,7,7,43,28,47,4,89,28,60,84,53,39,6,35,4,6,11,81,5,143,3,97,70,17,48,18,10,16,9,124,69,150,37,102,26,1,22,47,2,31,128,32,71,13,28,34,149,4,72,13,25,1,17,55,32,10,5,8,15,1,14,65,56,31,18,8,24,121,126,9,1,27,19,54,59,8,2,16,14,23,26,13,11,23,102,60,1,67,45,4,28,24,176,40,49,28,53,49,21,30,9,103,162,10,18,23,46,9,8,81,65,23,35,22,33,8,13,42,44,36,89,20,12,8,1,70,27,5,40,21,1,42,23,10,17,32,2,8,16,85,3,86,11,15,12,90,7,44,1,47,93,57,5,3,25,5,58,15,3,53,38,53,30,6,4,86,47,28,11,5,29,3,10,4,1,14,3,12,70,38,13,66,83,5,2,1,15,7,8,13,5,36,4,2,23,11,3,4,12,3,6,3,180,94,21,2,42,9,25,129,57,18,1,1,47,8,19,9,4,31,9,3,63,1,76,5,2,6,10,9,1,18,21,4,3,15,8,50,11,1,23,2,10,17,13,8,6,10,23,1,13,16,4,4,1,13,12,5,17,12,103,37,15,26,33,5,1,2,10,152,21,3,1,2,4,8,4,11,6,5,1,2,7,1,5,5,2,9,22,18,4,3,13,27,15,2,26,90,23,72,2,1,1,2,6,1,1,3,4,3,3,10,10,4,25,1,2,31,2,39,11,4,30,39,35,71,39,11,74,83,152,1,27,15,85,36,32,63,8,34,34,5,2,60,20,4,1,6,7,76,22,55,63,49,7,3,4,15,4,2,3,10,7,2,2,6,6,4,17,4,4,1,10,6,17,11,4,17,12,15,1,14,4,5,5,30,1,28,29,4,20,12,88,1,16,17,42,12,101,6,30,39,18,27,17,73,7,48,3,16,19,18,13,28,33,123,23,30,23,6,126,144,37,44,224,20,6,15,20,2,6,23,38,116,79,5,2,4,4,7,5,4,10,7,1,11,4,27,16,4,5,3,3,12,1,1,3,31,19,12,64,4,33,1,41,52,3,2,8,35,9,102,3,45,2,7,42,2,65,32,19,46,81,8,2,36,46,43,3,3,58,2,9,87,72,2,17,53,29,8,4,3,20,13,16,7,29,22,12,73,22,3,9,3,4,7,3,4,10,9,2,12,19,12,1,5,9,1,21,4,4,1,1,74,13,1,3,41,21,15,141,1,15,8,1,15,113,2,7,14,1,26,6,23,14,5,2,3,18,20,15,2,36,16,24,10,4,3,32,103,10,15,55,10,3,1,3,3,3,5,7,1,3,9,1,2,15,4,8,1,7,49,1,5,8,5,6,19,1,3,12,11,9,3,3,8,6,6,12,1,12,26,5,84,2
 Office Accommodation	5533,6453,2775
 Office Accommodation Office Management Executive	14746
 Office Accra	2308
@@ -2793,7 +2806,7 @@ Office National des Pensions	13390,52
 Office National des Postes	15372,102,3925,69,33
 Office National des Pupilles	17845,37
 Office National des Sports	15936
-Office National des Statistiques	15555
+Office National des Statistiques	15555,4319
 Office National des Statistiques URL	15346
 Office National des Télécommunications	13590
 Office National des Télécommunications ONATOUR	13377
@@ -2946,7 +2959,7 @@ Office of Research Support and Cooperation	13952
 Office of Science and Technology Policy	5773,1017,3655
 Office of Science and Technology Policy. X. Review	5773
 Office of Science and Technology Research and Development	13952
-Office of Science and Technology Services Coordination	13952
+Office of Science and Technology Services Coordination	13952,5981
 Office of Solicitor General Level	19584
 Office of Solicitor General. Macro- TMX	19519
 Office of Standards and Compliance	11182
@@ -3043,7 +3056,7 @@ Officer-In-Charge	17183
 Officer-in-Charge	10073,3356,1345
 Officer. Cabinet	19090
 Officer. Example	14524
-Officers	34,1843,111,787,212,143,2432,870,2819,146,518,72,181,2043,39,41,51,121,37,52,141,68,202,7,2,5,334,70,172,142,1019,1,17,4,6,11,7,68,3,4,56,143,92,1741,59,25,808,404,297,5,92,41,259,11,5,97,244,435,145
+Officers	34,1843,111,787,212,143,2432,870,2819,146,518,72,181,2043,39,41,51,121,37,52,141,68,202,7,2,5,334,70,172,142,1019,1,17,4,6,11,7,68,3,4,56,143,92,1741,59,25,808,404,297,5,92,41,259,11,5,97,244,435,145,60
 Officers Annually	15845
 Officers CF Community Facilitator CNM Capacity	19647
 Officers Commanding Stations	14505
@@ -3071,7 +3084,7 @@ Officetech	16942
 Office’s Guidance Note	1630
 Office’s Steering Committee	18253
 Officia	14479
-Official	173,802,671,473,564,8,353,409,130,169,282,93,140,135,126,32,572,189,592,291,94,469,377,319,85,700,714,546,273,940,93,97,26,42,75,124,118,298,123,134,125,10,9,156,23,10,8,9,64,62,11,18,156,18,99,408,184,90,75,6,26,450,5,120,417,178,146,43,103,3,193,88,5,6,167,115,16,5,85,150,208,6,123,94,141,318,138,122,80,100,96,10,108,131,521,34,47,119,184,171,92,295,398,267,10,1,89,185,33
+Official	173,802,671,473,564,8,353,409,130,169,282,93,140,135,126,32,572,189,592,291,94,469,377,319,85,700,714,546,273,940,93,97,26,42,75,124,118,298,123,134,125,10,9,156,23,10,8,9,64,62,11,18,156,18,99,408,184,90,75,6,26,450,5,120,417,178,146,43,103,3,193,88,5,6,167,115,16,5,85,150,208,6,123,94,141,318,138,122,80,100,96,10,108,131,521,34,47,119,184,171,92,295,398,267,10,1,89,185,33,27,70
 Official Accreditation Marks	13816
 Official Africa CDC	4782
 Official Authority	15516
@@ -3099,12 +3112,13 @@ Official FIRST	16144
 Official Flag Receipt	16949
 Official Flows	13624
 Official Gambian	17388
-Official Gazette	3,4,1013,194,119,423,1,1,1,1,1,1,1,1,1,1375,1,1,1,1,1,1,1,1,713,266,226,244,163,2152,1,1,1,1,1,1,1,1,3801,54,44,698,438,21,225,132,5,75,79,926,991,238,211,3,1,1,7,14,7,2,15,3,7,1,108,75,24,51,216,80,11,8,1450,1656,1,198,86,3,6,1,25,2,5,4,14,57,31,3,15,10,37,65,12
+Official Gazette	3,4,1013,194,119,423,1,1,1,1,1,1,1,1,1,1375,1,1,1,1,1,1,1,1,713,266,226,244,163,2152,1,1,1,1,1,1,1,1,3801,54,44,698,438,21,225,132,5,75,79,926,991,238,211,3,1,1,7,14,7,2,15,3,7,1,108,75,24,51,216,80,11,8,1450,1656,1,198,86,3,6,1,25,2,5,4,14,57,31,3,15,10,37,65,12,727
 Official Gazette A- Adle	14884
 Official Gazette Issue	14884
 Official Gazette No	1220,17780
 Official Gazette Publication	18745
 Official Gazette no Special of 16.06.2013.pdf	12413
+Official Gazette of Algeria	19900
 Official Gazette of Mozambique	3861
 Official Gazette. All	10004
 Official Gazette. Amendments	19031
@@ -3143,6 +3157,7 @@ Official Opening and Awards Ceremony	13688
 Official Oppression	16935
 Official Page Register Here Participation	10707
 Official Police Spokesman	14914
+Official Portal of Cairo Governorate	19854
 Official Presidential Engagements	12982
 Official Receiver	1919,7587,303,2471,2529
 Official Record Is Already Sufficiently	11105
@@ -3167,7 +3182,7 @@ Official Statistics and Principles of Official Statistics	12530
 Official Technology Partner	10117
 Official Title UNDP-COD	16312
 Official Twitter Account Announcements	11953
-Official UNOG	19821
+Official UNOG	19821,110
 Official URL	6666,4212
 Official Use	12400,3113
 Official Use Onl Licence N	736
@@ -3819,6 +3834,7 @@ Public Officials	17079
 Public Officials Comments	17079
 Public Private Office	7548
 Public Procurement Office	4633,6646,3457
+Public Prosecution Office	19854
 Public Prosecutor's Office	4531,642,7006,22,3283
 Public Prosecutors Office	12201
 Public Prosecutor’s Office	1829,8245,8723
@@ -4383,6 +4399,7 @@ Survey Topline Findings REGISTERED OFFICES Head	12409
 Surveyor-General's Office	13251
 Sustain Early Deployment of Election Officials and Materials	10049
 Swedish National Audit Office	17364
+Switzerland Federal Office for Migration	19921
 Switzerland Office of Deputy Director and Regional Presence	10764,80,7279
 Systems Officer AIH	17539
 São Tomé Dobra Official Use Only	18809
@@ -4482,6 +4499,8 @@ Training Officer Rwanda Development Bank	15019
 Training Officers	13251
 Training and Certification of Data Protection Officers	13381
 Training and Handover Official	13185
+Training of Elected Officials and Executives	19900
+Training of Local Elected Officials for Better Performance	19900
 Training of Police and Prison Officers	14742
 Transformative Agenda for Official Statistics	19519
 Transport Officer	11131,3
@@ -4516,7 +4535,7 @@ UN Fundamental Principles of Official Statistics	13386,1348,2352,1389,270
 UN Human Rights Office	3584,543,6880
 UN Multi-Partner Trust Fund Office	14622,4055
 UN OCHA UN Office	15220
-UN Office	4810,2137,4953,2139,1053,1199,2506,1024
+UN Office	4810,2137,4953,2139,1053,1199,2506,1024,110
 UN Office for Digital and Emerging Technologies	7112,3894,1,5195
 UN Office for Disaster Risk Reduction	17157
 UN Office of Information and Communications Technology	5825
@@ -4572,6 +4591,7 @@ UNICEF Child Protection Officer Patrick Halton	9765
 UNICEF Country and Regional Child Protection Offices	16860
 UNICEF Djibouti Country Office	13901
 UNICEF Egypt Country Office	15604
+UNICEF Eritrea Country Office Annual Report	19933
 UNICEF Eswatini Country Office	12330
 UNICEF Eswatini Education Specialist and Education Officer	13204
 UNICEF Ethiopia. Country Office Annual Report	12188
@@ -4610,6 +4630,7 @@ Uganda Personal Data Protection Office	9901
 Uganda's Office	19747
 Uganda's Personal Data Protection Office	5220,4679,2,9858
 Uganda’s Personal Data Protection Office	5220,835,2235,1609,4463
+Ukraine. Official	19855
 Union Libre Office National	13442
 United Kingdom Foreign Commonwealth Development Office	18488,89
 United Kingdom Met Office	13201,5108

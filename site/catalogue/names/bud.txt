@@ -185,7 +185,7 @@ Budagaat-shakhsia	18662
 Budaka	19715
 Budalangi	10313
 Budalang’i	10313
-Budapest	1000,2105,11830
+Budapest	1000,2105,11830,4933
 Budapest Conven	17745
 Budapest Convention	318,382,75,8,493,259,242,132,208,2466,1843,1318,1872,1148,1,10,81,2356,1517,23,145,31,381,1575,682,92,87,1158,17,87,634
 Budapest Convention Article	17745
@@ -540,7 +540,7 @@ Budget. WORLD	13122
 Budget.pdf	14828
 Budget.pdf ANNEX TO BUDGET SPEECH	14831
 Budget2024	12977
-Budgetary	789,151,2643,7176,76,2,1,74,56,902,16,1,1,1,249,15,1,9,177,1,11,1,135,1697,1531,1142,113,532,802,1347,1,169,14
+Budgetary	789,151,2643,7176,76,2,1,74,56,902,16,1,1,1,249,15,1,9,177,1,11,1,135,1697,1531,1142,113,532,802,1347,1,169,14,22,1,65
 Budgetary Allocation	11860
 Budgetary Central Government	2775,11859,2623
 Budgetary Central Government Finance	17503
@@ -734,6 +734,7 @@ Development Budget for Organisation	12597
 Development Budget. Grants	13122
 Development Budget. RECURRENT BUDGET	12597
 Development of Budget Preparation Operational Manual	18488
+Digital Egypt Buds Initiative	19868
 Direct Budget Support	5655
 Direct Budget Support The Federal Government	5655
 Directeur Général du Budget	15778
@@ -974,7 +975,7 @@ Housing Budget Shrinks	2428
 Hydrocarbures50 Le Budget	1594
 Hyperion Budget	19847
 I.ESTIMATED BUDGET FOR THE COORDINATION	18305
-IBP International Budget Partnership	11887,266,1,9,178
+IBP International Budget Partnership	11887,266,1,9,178,7517,1
 IBP International Budget Partnership IDMC Internal	10759,78,1052,451
 IBP Open Budget Survey Results	18305
 ICT Budgeting	15164

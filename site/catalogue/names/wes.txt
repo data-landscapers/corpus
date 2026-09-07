@@ -131,7 +131,7 @@ Children’s Fund WARCIP West African Regional	19245
 China and Western	2518
 Citizen for West Africa	10812
 City of Cape Town The Western Cape	7514,2588
-Coale-Demeny West	15627,1347
+Coale-Demeny West	15627,1347,2956
 Coastal and Marine Zone of West Africa	18305
 Commonwealth West Africa	9616
 Communications Authority’s Western Regional Office	8323
@@ -460,7 +460,7 @@ Marakwet West	10313
 Mariama Cire Sylla and Visa's Vice-President for West	5787
 Marina Wes	5395,5,5749,4324,728,2033
 Marina Wes Practice Manager	16144
-Marina Wes Regional Director	13836,5999
+Marina Wes Regional Director	13836,5999,20
 Maroc Telecom West Africa	627,17243
 Maroc Telecom West Africa Submarine Cable	5681
 Maroc Telecom West Africa Submarine Fibre	627
@@ -470,6 +470,7 @@ Mashonaland West	13619
 Mashonaland West Province	5386,347,2563,5318
 Mashonaland West and Matebeleland North	13361
 Mashonaland West and Midlands	13619
+Mauritania and Western Sahara	19874
 Mbabane West and Shiselweni One. A National	12977
 Mc Guinea-Bissau Africa Western Africa Bissau	10840
 Mc Iraq Asia Western Asia Baghdad	10840
@@ -582,8 +583,11 @@ North and West Kordofan. Much of Darfur and Kordofan	15220
 North- West and South-West	10963
 North-West and South- West	10964
 North-Western and Western	18464
+Northern Africa And Western Asia	19862
 Northern Africa and Western Africa	585
-Northern Africa and Western Asia	10846
+Northern Africa and Western Asia	10846,9019
+Northern Africa and Western Asia. Algeria	19865
+Northern Africa and Western Asia. Egypt	19862
 Northern Central Luapula Eastern Western Figure	12431
 Northern Nyanza Central Rift Western	7869
 Northern and Western	585,9568
@@ -1349,6 +1353,7 @@ Western African	1264
 Western African Economic and Monetary Union	17870
 Western African Police Information System	17297
 Western Ahafo Region	16330
+Western Algerian	19874
 Western And Central Africa CURRENCY EQUIVALENTS	15702
 Western And Central Africa Regional Vice	18359
 Western Area	8820,9615,3,3,31,3,23,77,3

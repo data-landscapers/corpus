@@ -195,7 +195,8 @@ Edward Munaaba	6121
 Ehlanzeni District Municipality	11343
 Ekurhuleni Metropolitan Municipality	9129,2214
 Ekurhuleni Municipality	9129
-Electronic Municipalities	2124
+Electronic Municipalities	2124,17776
+Electronic Municipality	19900
 Elelwani Mundalamo	12868
 Encarregados de Educação BM Banco Mundial CICL	11557
 Entebbe Municipality	9388
@@ -253,7 +254,7 @@ INTERIOR LOCALES LIBRE MUNICIPALES URBANOS SERVICIOS	4209
 Ilemela Municipal	19585
 Imagem da Câmara Municipal	15978
 Immune Deficiency Syndrome AMICAALL Alliance of Municipal	12970
-Implementation of Electronic Municipalities	2124
+Implementation of Electronic Municipalities	2124,17776
 Implementação da Toponímia Municipal	16380
 Imunização GOARN Rede Mundial de Alerta	11376
 Index Mundi	12786
@@ -422,7 +423,7 @@ Munich Re	11310
 Munich-based	8342
 Munich. Schneider	2093
 Municipais	10754,667,1,24,131,4117
-Municipal	789,1019,180,960,5065,260,642,1836,32,465,738,87,128,32,117,2007,363,18,8,251,476,240,132,154,164,56,57,338,273,212,15,146,1033,61,122,1044,56,9
+Municipal	789,1019,180,960,5065,260,642,1836,32,465,738,87,128,32,117,2007,363,18,8,251,476,240,132,154,164,56,57,338,273,212,15,146,1033,61,122,1044,56,9,315
 Municipal Adjustment Program	16614
 Municipal Adjustment Programs	16614
 Municipal Assemblies	16163,361
@@ -489,6 +490,7 @@ Municipal Investment Planning	18476
 Municipal LIS	18293
 Municipal Land Register	18293
 Municipal Land Tenure Commission	18293
+Municipal Level	19900
 Municipal Level Situation	18293
 Municipal Management	11941
 Municipal Market Management	11941
@@ -520,7 +522,7 @@ Municipal and District Chief Executives	15927,669
 Municipal and District Councils	14721,25,4999
 Municipal and Metropolitan Assembly	11
 Municipales	16903
-Municipalities	427,362,1335,3824,998,1067,363,2389,10,95,345,16,624,35,51,45,397,16,2339,151,108,593,11,1013,238,653,788,77,106,1239
+Municipalities	427,362,1335,3824,998,1067,363,2389,10,95,345,16,624,35,51,45,397,16,2339,151,108,593,11,1013,238,653,788,77,106,1239,185
 Municipalities Environmental and Social	17114
 Municipalities and Area Councils	16951
 Municipalities and District Councils	14836
@@ -528,7 +530,7 @@ Municipalities and Eskom	11890
 Municipalities and Local Commissions	15473
 Municipalities and Towns	12383
 Municipalities of Conakry	16614
-Municipality	1988,4844,2297,1634,2,10,356,84,16,135,573,2,45,60,860,2179,121,1681,1589
+Municipality	1988,4844,2297,1634,2,10,356,84,16,135,573,2,45,60,860,2179,121,1681,1589,1424
 Municipality Agreement	11855
 Municipality B NoNt	15206
 Municipality B PartiaPllyaratiavlalyilaavbaleilable	15206

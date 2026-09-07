@@ -749,7 +749,7 @@ Eskom Group Executive for Generation	11223
 Esq. The Group	10049
 Establish Inter-institutional Technical Working Groups	12574
 Establish Working Groups	18476
-Estimation Inter-agency Group	11887,266,1,9,178
+Estimation Inter-agency Group	11887,266,1,9,178,7517,1
 Eswatini FinTech Working Group	4173,6961,1310
 Eswatini FinTech Working Group The Bank	11134
 Eswatini FinTech Working Group. Central Bank	11134
@@ -772,7 +772,7 @@ Executive Chairman of Trans-IT Group	7371
 Executive Director and Group COO of Seamfix Limited	9876
 Expenditure Eligible for Bank Group Financing	16219
 Expert Group	582,1232,1827,7123,498,162,139,2310,1598,2272,1896
-Expert Group Meeting	10840,4787
+Expert Group Meeting	10840,4787,4303
 Expert Group Meeting of Registrars General of Civil	17397
 Expert Groups	11424
 Expert Leaders Group	11138
@@ -870,6 +870,7 @@ G20 Engagement Groups	2526
 G20 Group	1814
 G20 Health Working Group Meeting	2626
 G20 Research and Innovation Working Group and Ministerial	11221
+G4 Group	19868
 G7 Working Group	11154
 GABAC Action Group Against Money Laundering	4127
 GB Gigabyte GBM Groupe	15474
@@ -896,6 +897,7 @@ GIPATO Groupement	19350
 GLPE Groupe Local des Partenaires	18911
 GM Vulnerable Groups	16926
 GPAI Code of Practice and High-Level Expert Group	11050
+GPC Group	19874
 GPE Local Education Group	13999
 GPI and Five- Year Age Groups	19542
 GPI and Five-Year Age Groups	19542
@@ -969,6 +971,7 @@ Giga International Advisory Group	18583
 Gleaners Group	12478
 Global Burden of Disease Groups	12151
 Global Education and Technology Thematic Group	6832
+Global Legal Group	19895
 Global Solutions Group	15553
 Global Voice Group	5033,3802
 Global and Digital Currency Group	7517
@@ -1029,7 +1032,7 @@ Grounding LLMs. Available	13461
 Groundnut	15118,1925
 Groundnut Kola Nut Southeastern	17043
 Groundnuts	1154,11777,2187,1782,143
-Grounds	9855,2483,1228,1028,299,33,176,75,450,2832,97,429,760
+Grounds	9855,2483,1228,1028,299,33,176,75,450,2832,97,429,760,185
 Grounds and Procedures	5665
 Grounds for Revocation	5665,4190
 Groundswell Africa	16144
@@ -1043,8 +1046,9 @@ Groundwater Storage Anomalies	17157
 Groundwater Storage HDX Humanitarian Data Exchange	17157
 Groundwater and Boreholes	1988
 Grouos	19585
-Group	157,65,1,1,3,3,88,91,16,148,10,167,13,9,1,14,184,3,5,8,5,1,3,7,10,10,1,119,54,87,294,192,1,7,40,81,45,44,59,42,537,149,708,121,31,79,139,45,159,95,62,118,28,252,65,75,144,240,15,1,453,71,1,3,100,320,77,55,154,37,116,249,60,50,43,5,1,126,131,38,249,165,219,158,2,1,1,86,1,1,3,21,54,227,8,75,90,124,290,382,46,133,61,24,100,62,1,79,144,140,28,1,404,117,1,28,17,8,26,25,119,1,155,2,110,267,65,246,58,119,228,83,5,56,55,31,68,22,226,212,59,5,1,57,217,150,45,16,112,144,62,181,119,183,64,18,281,21,37,145,8,4,1,154,113,54,61,88,14,2,85,80,51,84,37,23,1,211,6,66,14,132,9,30,7,188,149,215,124,42,8,307,110,212,41,123,380,331,34,68,354,335,149,52,9,189,9,14,35,101
+Group	157,65,1,1,3,3,88,91,16,148,10,167,13,9,1,14,184,3,5,8,5,1,3,7,10,10,1,119,54,87,294,192,1,7,40,81,45,44,59,42,537,149,708,121,31,79,139,45,159,95,62,118,28,252,65,75,144,240,15,1,453,71,1,3,100,320,77,55,154,37,116,249,60,50,43,5,1,126,131,38,249,165,219,158,2,1,1,86,1,1,3,21,54,227,8,75,90,124,290,382,46,133,61,24,100,62,1,79,144,140,28,1,404,117,1,28,17,8,26,25,119,1,155,2,110,267,65,246,58,119,228,83,5,56,55,31,68,22,226,212,59,5,1,57,217,150,45,16,112,144,62,181,119,183,64,18,281,21,37,145,8,4,1,154,113,54,61,88,14,2,85,80,51,84,37,23,1,211,6,66,14,132,9,30,7,188,149,215,124,42,8,307,110,212,41,123,380,331,34,68,354,335,149,52,9,189,9,14,35,101,84
 Group A	10785
+Group A Group Option Response	19887
 Group A and B Bids	13185
 Group A and Group D	10785
 Group A. The Europe and Central Asia	10785
@@ -1141,6 +1145,7 @@ Group GRM Grievance Redress Mechanism ICT	17962
 Group Gemini Managemen	17829
 Group GmbH Lukimo Oy Delfi	8530
 Group Group	10793
+Group Group Option Response	19887
 Group H1	10793
 Group HEGDI Rating Class H3	15634
 Group Head of Client Coverage	3056
@@ -1342,7 +1347,7 @@ Groupe de Travail Technique	15685
 Groupe des Pays	8237
 Groupe des Superviseurs Bancaires Francophones. The Bank	14744
 GroupeSeim Groupe	15458
-Groupement	3032,1,682,74,200,1282,1004,602,1452,27,1,1210,158,790,173,287,2400,319,1667,63,50,6,769,366,870,332,15,49,101,21,235,749,864
+Groupement	3032,1,682,74,200,1282,1004,602,1452,27,1,1210,158,790,173,287,2400,319,1667,63,50,6,769,366,870,332,15,49,101,21,235,749,864,60
 Groupement Alliance	10936
 Groupement CGPS	4589
 Groupement Inter	15542
@@ -2002,6 +2007,9 @@ Opportunities and Threats TWG Technical Working Group	12512,3044,1371
 Opportunities and Threats Technical Working Group United	4528
 Optical Ground Wire	7036,1502
 Optical Ground Wires	18537
+Option Response Group A Group	19887
+Option Response Group A GroupE	19887
+Option Response Group Group	19887
 Opérations Groupées de Reconnaissance	13375
 Oracle Group Eswatini	13233
 Orange Group	1416,105,207,221,2678,511,1031,31,303,201,1420,1,305,1517,4727,2268,928
@@ -2015,7 +2023,8 @@ Otto Group Among	11922
 Oumou Group	9962
 Overarching Methodology Anchoring Grounded the Blueprint	14752
 Overview of World Bank Group Digital	11867
-Oxford Business Group	168,1529,5851,9900
+Oxford Business Group	168,1529,5851,9900,2426
+Oxford Group	19868
 PDG du Groupe GUICOPRES	8553
 PDU Ground	9123
 PHC Age Group Both Sexes Literate	19542
@@ -2514,7 +2523,7 @@ UN CSTD Working Group	17793
 UN Communications Group Eritrea and Ghideon Musa	13977
 UN Group of Friends for AI Capacity-Building	10215
 UN Group of Governmental Experts	2117
-UN IGME United Nations Inter-agency Group	11887,266,1,9,178
+UN IGME United Nations Inter-agency Group	11887,266,1,9,178,7517,1
 UN Inter-agency Group for Child Mortality Estimation	19836
 UN Maternal Mortality Estimation Inter-agency Group	19836
 UN Maternal Mortality Inter Agency Group	18512
@@ -2536,7 +2545,7 @@ Union WBG World Bank Group WFP	10841
 United Arab Emirates' EDGE Group	9399
 United Arab Emirates-based G42 Group	3624,87,522,525
 United Nations Development Group	1243,13191
-United Nations Expert Group Meeting	15627
+United Nations Expert Group Meeting	15627,4303
 United Nations Group	2958
 United Nations Inter-Agency Group for Child Mortality	12138,3466
 United Nations Inter-agency Group for Child Mortality	19653
@@ -2664,7 +2673,7 @@ Women and Special Groups Level	19584
 Women and Special MoHA Groups MoLHHSD Ministry	19541
 Women's Advisory Group	15115
 Women's Groups	19585
-Working Group	1824,992,1287,425,757,391,1,3,1,742,369,146,1265,282,268,2381,1378,528,11,259,4,6,28,213,105,15,752,309,2,479,1735,158,41,210,567,630,348,225,1,665
+Working Group	1824,992,1287,425,757,391,1,3,1,742,369,146,1265,282,268,2381,1378,528,11,259,4,6,28,213,105,15,752,309,2,479,1735,158,41,210,567,630,348,225,1,665,84
 Working Group Chaired	6938
 Working Group Cloud Compliance Working Group	16924
 Working Group Cybersecurity Working Group	5677
@@ -2673,6 +2682,7 @@ Working Group IV	10819
 Working Group LISGIS Ministries	17235
 Working Group Meeting	10516
 Working Group Monitoring and Early Warning Drought	17157
+Working Group No	19887
 Working Group Pursuant	5677
 Working Group Relevant	5677
 Working Group SDG Sustainable Development Goal	14947
@@ -2706,6 +2716,7 @@ World Bank Group COVID-19 Crisis Response	15491,62,2748
 World Bank Group Chief Economist	5598
 World Bank Group Climate Change Action	19245
 World Bank Group Conakry	11552
+World Bank Group Contribution	19872
 World Bank Group Contribution The World	10857,1388
 World Bank Group Country Management	15969
 World Bank Group Country Manager	14339
@@ -2788,6 +2799,7 @@ World Bank Group and UNDESA	3583
 World Bank Group and World Food Programme	16902
 World Bank Group's Board of Directors	19275,1
 World Bank Group's Country Partnership	1954
+World Bank Group's Country Partnership Framework	19855
 World Bank Group's Country Partnership Strategy	15704
 World Bank Group's Environmental	1988,15453
 World Bank Group's Eswatini Country Partnership	12426

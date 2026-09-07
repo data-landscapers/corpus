@@ -6,7 +6,7 @@ AIRES DE TRAFIC	15774,778,454
 AMENDMENT OF THE ROAD TRAFFIC ACT	6921
 AN. Traffic Management and Road Safety Unit	7845
 AU TRAFIC Lorsque	15643
-Absence of Human Trafficking	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Absence of Human Trafficking	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Accidents Road Traffic Accident Respiratory Infections	12151
 Administrative Adjudication of Road Traffic Offences	7755
 Air Traffic	261
@@ -120,6 +120,7 @@ GESTION DE L’AIR DE TRAFIC	17006
 Gambia Trafficking	16874
 Gateway Traffic Measurement	17250
 Gateway Traffic Measurement and Revenue Assurance System	17250
+General Directorate of Traffic	19863
 General Traffic Department	8706
 HOWARD-TAYLOR REJECTS DRUG TRAFFICKING CHARGES	10581
 Heart Dis- Kidney and Road Traffic	12151
@@ -433,7 +434,7 @@ Traffic Monitoring and Interception	16835
 Traffic Network Infrastructure Broadband Speeds	1013
 Traffic Offense	16935
 Traffic Outgoing International Traffic	18444
-Traffic Police	12275
+Traffic Police	12275,7654
 Traffic Q3	2776
 Traffic Quarter	18444
 Traffic Registration Number	6527
@@ -450,7 +451,7 @@ Traffic Trends Network Infrastructure Broadband Speeds	1944
 Traffic and Road Safety Directorate	10775
 Traffic and Road Safety The Borrower	1988
 Traffic and Usage	3990,5791
-Trafficking	5242,5517,78,4,1311,101,87,33,555,18,38,201,763,60,734,9,30,118,1975,77,7,976,690,288,95,648
+Trafficking	5242,5517,78,4,1311,101,87,33,555,18,38,201,763,60,734,9,30,118,1975,77,7,976,690,288,95,648,218
 Trafficking Data	1243
 Trafficking Drug Trafficking Cyber Espionage Economic	18675
 Trafficking In Persons	12373

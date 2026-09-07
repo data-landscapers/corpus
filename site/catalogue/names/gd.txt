@@ -96,7 +96,7 @@ ESA’s GDA	17405
 ESI ESP FGS FMS FOB GDP	11136
 EU European Union GDPR General Data	14434
 EU GDP	13532
-EU GDPR	961,282,104,1377,82,750,4880,5692,306,299,79
+EU GDPR	961,282,104,1377,82,750,4880,5692,306,299,79,5078
 EU's GDPR	1652,11023,2562,3256,1266
 EU’s GDPR	961,2331,2201,850,5929
 Early Childhood Development GDP Gross Domestic	12512
@@ -234,6 +234,7 @@ GDP Deflator The GDP	18483
 GDP Developments Price Developments External Sector	11131
 GDP Developments Quarterly Developments Economic	11131,3
 GDP Domestic	12205
+GDP EGP	19889
 GDP Eastern Africa	14897
 GDP EcYoenaormy	11884
 GDP Education	11907,1442
@@ -410,7 +411,7 @@ GDP. Of Libya	16902
 GDP. Over	11907,3090
 GDP. Page	15663
 GDP. Participation	6938
-GDP. Population	11887,1
+GDP. Population	11887,1,8036
 GDP. Preliminary	17257
 GDP. Projections	236
 GDP. Public	11134
@@ -437,6 +438,7 @@ GDP. The MSME	940
 GDP. The MSMEs	940
 GDP. The Mohammed VI Investment Fund	17503
 GDP. The NDPC	2799
+GDP. The UHIS	19889
 GDP. The World Bank	2374
 GDP. Thereby	17870
 GDP. Though ICT GVA	236

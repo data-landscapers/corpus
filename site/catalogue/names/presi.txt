@@ -72,6 +72,7 @@ Article Six Only the Presidential Council	17438
 Asesor Presidencia de Gobierno	4209
 Asesor Presidencia de Gobierno Servicio	4209
 Asia Türkiye Ministry of Industry and Technology Presidency	11135
+Asmara President	19922
 Assembly President Daniel Gélase Ndabirabe	4643
 Assistant Presiding Officer	18459
 Association President Olalekan Balogun	14218
@@ -341,6 +342,8 @@ Eastern and Southern Africa Regional Vice President	14948
 EcTloN I DU PRESIDENT DE I.A	15397
 Economic Community of West African States President	10838
 Egypt President of Egypt Prime Minister Ministries	15725
+Egyptian President	19854
+Egyptian President Abdel Fattah	19853
 El Consejero Presidencial	11672
 El Presidente	16871,54,64,304
 Elected President A Gambian Singer’s Anti-Corruption	17069
@@ -643,6 +646,7 @@ Industry and Community The President	18253
 Information Day President Bio Receives	18442
 Inside President William Ruto	2666,4130
 Integrity Vice Presidency	16960
+Interim President Adly Mansour	19859
 Interim President Catherine Samba-Panza	10837
 Interim President Guy Scott	12353
 Interim President Ibrahim Traoré	10838
@@ -1181,7 +1185,7 @@ Presidencial Nº	10750
 Presidencial República	4209
 Presidencial de Malabo	4209
 Presidencies	6386,856,3735
-Presidency	435,579,325,428,119,110,71,78,447,3,29,1,915,43,84,255,333,125,174,34,167,28,511,239,389,150,52,464,38,425,45,30,322,8,110,1005,28,1,179,243,54,159,134,31,276,15,76,116,12,64,482,273,6,48,48,6,152,32,129,47,11,4,4,17,6,1,12,19,21,8,7,253,183,129,83,46,11,324,729,262,1,1,163,314,754,31,90,7,192,528,37,54,8,19,7,53,108,123,42,133,7,291,597,70,33,164,30,222,479,221,210,4,4,275,82,130,61,278,712
+Presidency	435,579,325,428,119,110,71,78,447,3,29,1,915,43,84,255,333,125,174,34,167,28,511,239,389,150,52,464,38,425,45,30,322,8,110,1005,28,1,179,243,54,159,134,31,276,15,76,116,12,64,482,273,6,48,48,6,152,32,129,47,11,4,4,17,6,1,12,19,21,8,7,253,183,129,83,46,11,324,729,262,1,1,163,314,754,31,90,7,192,528,37,54,8,19,7,53,108,123,42,133,7,291,597,70,33,164,30,222,479,221,210,4,4,275,82,130,61,278,712,13
 Presidency Affairs	14865
 Presidency CREDICORP	3030
 Presidency DGPSN National	18301
@@ -1203,6 +1207,7 @@ Presidency Office	18205
 Presidency Pretoria	10169
 Presidency Q2	11986
 Presidency Regional Development	13938
+Presidency Results Voter Participation Cast Votes	19857
 Presidency UMONGAMELI No	11551
 Presidency Uzoka-Anite	2531
 Presidency and DCDT. The IDWG	11940
@@ -1212,6 +1217,7 @@ Presidency and Secretary	11940
 Presidency and Treasury	5922
 Presidency for Planning	4831,6393
 Presidency for Planning Monitoring and Evaluation	11275
+Presidency of Egypt Chief of State	19857
 Presidency of Strategy and Budget of Türkiye	17173
 Presidency's Cabinet	4380
 Presidency's Digital Services Unit	3922
@@ -1229,13 +1235,15 @@ Presidency.156	3583
 Presidency.36	13313
 Presidency’s Digital Services Unit	3922
 Presidency’s Inter-Ministerial Committee	3922
-President	3,8,16,206,1,79,2,230,42,312,59,14,42,117,23,44,16,8,11,1,48,51,10,45,86,80,39,149,12,19,56,45,1,16,18,60,19,129,125,63,1,1,4,7,1,58,1,11,5,26,37,8,70,31,60,32,9,60,67,51,20,44,1,50,58,12,6,25,56,36,22,44,10,49,86,19,8,90,81,21,1,16,1,31,5,77,32,14,37,16,13,33,3,21,8,51,5,14,4,21,1,67,28,20,1,11,12,42,21,8,9,22,19,8,25,2,20,212,14,47,22,43,13,10,5,45,25,17,18,25,72,55,27,56,25,112,3,96,5,13,8,57,3,56,147,47,121,34,73,41,23,41,19,3,11,7,34,4,3,9,3,2,39,75,11,12,53,33,33,1,7,91,26,54,84,8,93,115,28,4,12,3,2,1,3,22,14,39,53,12,2,8,5,70,30,16,77,28,17,103,79,70,6,1,4,6,34,2,44,12,3,62,2,30,44,2,9,19,124,14,10,89,54,3,31,171,29,1,120,12,4,10,25,6,61,28,20,38,38,72,67,6,70,11,120,28,60,4,20,15,6,57,67,18,5,7,9,110,1,37,78,59,67,1,75,51,35,87,28,80,6,83,9,32,13,54,12,41,90,13,8,3,6,86,60,32,1,48,42,31,32,51,27,79,10,79,40,14,2,1,2,7,13,97,13,15,14,7,4,13,4,1,7,14,1,1,1,2,1,1,5,1,1,9,2,9,8,6,13,9,1,16,9,8,9,14,77,84,53,8,20,6,90,22,19,166,3,2,4,7,41,2,9,9,15,14,21,1,10,5,44,19,8,30,41,3,9,6,50,19,48,20,31,6,44,3,3,6,7,12,59,33,20,34,2,1,3,10,4,2,1,19,19,8,4,11,10,20,8,92,58,72,1,4,4,2,4,1,13,1,3,36,1,22,2,3,37,26,72,21,67,76,1,1,4,2,1,1,1,14,1,1,1,1,1,1,4,1,5,1,3,4,20,32,1,3,12,37,3,16,11,2,5,4,10,2,8,25,1,5,11,1,36,66,3,10,14,19,47,5,72,44,39,12,37,4,4,52,28,21,62,8,181,17,23,6,33,18,4,1,12,8,19,27,17,11,14,17,11,20,28,6,5,68,1,11,34,1,2,1,1,3,9,6,1,5,4,16,4,21,15,1,12,3,4,2,13,2,2,3,2,2,4,4,3,4,1,9,14,4,9,1,3,8,7,1,40,12,6,43,3,17,55,62,67,18,35,52,27,9,21,9,9,46,2,14,19,19,42,21,10,3,17,17,8,41,9,34,18,3,64,60,12,16,83,158,55,20,4,37,13,19,2,2,6,46,188,57,20,7,11,17,18,30,37,80,6,28,3,2,1,3,1,1,2,4,3,1,7,12,2,2,2,8,1,2,56,8,10,9,2,3,8,2,32,2,6,12,20,13,35,3,11,19,1,20,1,13,1,13,29,19,10,12,3,17,3,11,29,10,1,16,17,15,9,3,3,44,119,22,29,12,32,26,30,40,44,1,116,25,2,4,30,1,19,26,83,48,7,32,4,8,9,10,36,8,8,7,17,12,54,71,4,1,1,2,2,5,1,3,1,3,2,2,2,4,1,1,1,1,1,3,6,2,6,42,5,3,6,6,3,18,3,1,1,3,16,1,1,1,1,1,1,1,1,1,1,2,1,3,44,8,12,66,4,55,54,6,29,1,1,5,10,10,1,4,2,5,5,2,2,9,5,9,23,20,16,4,20,18,2,1,2,1,15,2,9,6,2,21,6,6,2,5,2,3,11,7,12,8,17,44,6,36,183,42,7,8,1,1,4,4,4,3,1,1,1,28,12,1,15,2,7,19,4,9,1,4,6,42,6,24,1,37,10,73
-President Abdel Fattah	15926
+President	3,8,16,206,1,79,2,230,42,312,59,14,42,117,23,44,16,8,11,1,48,51,10,45,86,80,39,149,12,19,56,45,1,16,18,60,19,129,125,63,1,1,4,7,1,58,1,11,5,26,37,8,70,31,60,32,9,60,67,51,20,44,1,50,58,12,6,25,56,36,22,44,10,49,86,19,8,90,81,21,1,16,1,31,5,77,32,14,37,16,13,33,3,21,8,51,5,14,4,21,1,67,28,20,1,11,12,42,21,8,9,22,19,8,25,2,20,212,14,47,22,43,13,10,5,45,25,17,18,25,72,55,27,56,25,112,3,96,5,13,8,57,3,56,147,47,121,34,73,41,23,41,19,3,11,7,34,4,3,9,3,2,39,75,11,12,53,33,33,1,7,91,26,54,84,8,93,115,28,4,12,3,2,1,3,22,14,39,53,12,2,8,5,70,30,16,77,28,17,103,79,70,6,1,4,6,34,2,44,12,3,62,2,30,44,2,9,19,124,14,10,89,54,3,31,171,29,1,120,12,4,10,25,6,61,28,20,38,38,72,67,6,70,11,120,28,60,4,20,15,6,57,67,18,5,7,9,110,1,37,78,59,67,1,75,51,35,87,28,80,6,83,9,32,13,54,12,41,90,13,8,3,6,86,60,32,1,48,42,31,32,51,27,79,10,79,40,14,2,1,2,7,13,97,13,15,14,7,4,13,4,1,7,14,1,1,1,2,1,1,5,1,1,9,2,9,8,6,13,9,1,16,9,8,9,14,77,84,53,8,20,6,90,22,19,166,3,2,4,7,41,2,9,9,15,14,21,1,10,5,44,19,8,30,41,3,9,6,50,19,48,20,31,6,44,3,3,6,7,12,59,33,20,34,2,1,3,10,4,2,1,19,19,8,4,11,10,20,8,92,58,72,1,4,4,2,4,1,13,1,3,36,1,22,2,3,37,26,72,21,67,76,1,1,4,2,1,1,1,14,1,1,1,1,1,1,4,1,5,1,3,4,20,32,1,3,12,37,3,16,11,2,5,4,10,2,8,25,1,5,11,1,36,66,3,10,14,19,47,5,72,44,39,12,37,4,4,52,28,21,62,8,181,17,23,6,33,18,4,1,12,8,19,27,17,11,14,17,11,20,28,6,5,68,1,11,34,1,2,1,1,3,9,6,1,5,4,16,4,21,15,1,12,3,4,2,13,2,2,3,2,2,4,4,3,4,1,9,14,4,9,1,3,8,7,1,40,12,6,43,3,17,55,62,67,18,35,52,27,9,21,9,9,46,2,14,19,19,42,21,10,3,17,17,8,41,9,34,18,3,64,60,12,16,83,158,55,20,4,37,13,19,2,2,6,46,188,57,20,7,11,17,18,30,37,80,6,28,3,2,1,3,1,1,2,4,3,1,7,12,2,2,2,8,1,2,56,8,10,9,2,3,8,2,32,2,6,12,20,13,35,3,11,19,1,20,1,13,1,13,29,19,10,12,3,17,3,11,29,10,1,16,17,15,9,3,3,44,119,22,29,12,32,26,30,40,44,1,116,25,2,4,30,1,19,26,83,48,7,32,4,8,9,10,36,8,8,7,17,12,54,71,4,1,1,2,2,5,1,3,1,3,2,2,2,4,1,1,1,1,1,3,6,2,6,42,5,3,6,6,3,18,3,1,1,3,16,1,1,1,1,1,1,1,1,1,1,2,1,3,44,8,12,66,4,55,54,6,29,1,1,5,10,10,1,4,2,5,5,2,2,9,5,9,23,20,16,4,20,18,2,1,2,1,15,2,9,6,2,21,6,6,2,5,2,3,11,7,12,8,17,44,6,36,183,42,7,8,1,1,4,4,4,3,1,1,1,28,12,1,15,2,7,19,4,9,1,4,6,42,6,24,1,37,10,73,8,4
+President Abdel Fattah	15926,3933
+President Abdel Fattah AL-SISI	19857
 President Abdel Fattah Al-Sisi. Rashwan	16490
 President Abdel Fattah El Sisi	10103,5553
 President Abdel Fattah El-Sisi. AI Everything	16131
 President Abdel-Fattah El-Sisi	16480
-President Abdelmadjid Tebboune	2406,161,719,67,518,57,267,1112,563,83,1078,285
+President Abdelaziz Bouteflika	19858
+President Abdelmadjid Tebboune	2406,161,719,67,518,57,267,1112,563,83,1078,285,12542,22
 President Adama Barrow	6008,218,787,3049,4198,2713,115,17,8,12,27,64,163
 President Adv. D. G. Boko	12607
 President Advocate Boko	12567
@@ -1418,7 +1426,7 @@ President Ibrahim Traore	5580
 President Ibrahim Traoré	3485,319
 President Idriss Déby	18931
 President In Kablnet	11217
-President Isaias Afwerki	14078,23
+President Isaias Afwerki	14078,23,5823
 President Ismail Omar Guelleh	17644
 President Ismaïl Omar Guelleh	4402,574,8953,5907
 President Issoufou Mahamadou and Acting Minister of Foreign	18220
@@ -1497,6 +1505,7 @@ President Ministry of Basic	17105
 President Mnangagwa	5148,15,223,4935,1297,888,981,57,13,75,14,42,4,7,4
 President Mnangagwa's Vision	13439,264
 President Mobutu Sese Seko	9399
+President Mohamed Morsi	19859
 President Mohamed Ould Cheikh El Ghazouani	2154,1201
 President Mohamed Ould Ghazouani	17909
 President Mohamud	4088
@@ -1682,6 +1691,7 @@ President of Afreximbank Dr George Elombi	6401
 President of Afreximbank and Chairperson	999
 President of Africa Data Protection	2459
 President of Algeria	5112
+President of Algeria's National Chamber of Agriculture	19880
 President of Angola	2787
 President of Angola Your Excellency	2787
 President of Anthropic	1636
@@ -1695,6 +1705,7 @@ President of COTE	9227
 President of Chad	18887
 President of Communication University of Zhejiang. Among	13631
 President of Comoros H.E. Mr. Azali Assoumani	13744
+President of Council	19858
 President of Côte	9632
 President of Democratic Republic of Congo	16164
 President of Djibouti Ismaïl Omar Guelleh	183
@@ -1709,6 +1720,9 @@ President of Guinea Bissau H.E. Jose Mario	11579
 President of Guinea-Bissau	17023
 President of Guinea-Bissau Umaro Sissoco Embaló	17023
 President of Hirshabelle State Ali Abdullahi Hussein	7897
+President of Huawei Cloud Global Marketing and Sales	19871
+President of Huawei Cloud Marketing	19871
+President of Huawei Cloud's Global Solution Sales	19871
 President of Huawei Southern Africa Region Carrier	13782
 President of Huawei Wireless FDD Product Line	8379
 President of Huawei for West	2627
@@ -1794,7 +1808,7 @@ President-El-Sisi-Witnesses-Inauguration-of-Government-Data	15656
 President-Meter-Report-Jan-Dec-2025-REVISED compressed-1.pdf	17139
 President-designate	10342
 President-elect Vila Nova	18879
-President. All	16843
+President. All	16843,3014
 President. Cap	19524
 President. Despite	18478
 President. Digitisation	14295
@@ -1935,7 +1949,7 @@ Presidential Court	12983,709,6002
 Presidential Declaration	7452
 Presidential Decree	3685,37,139,345,8,751,5798,2,3,3,4,1,3,62,652,708,1111,2,2159,5,14,129,58,952,311,30,24,1313,975
 Presidential Decree CAPMAS. No	15473
-Presidential Decree No	3685,176,612,282,5,205,5810,4,35,603,1914,2142,1485,14,24,1313,1293
+Presidential Decree No	3685,176,612,282,5,205,5810,4,35,603,1914,2142,1485,14,24,1313,1293,258,40
 Presidential Decree for Targeted Free Healthcare	10829
 Presidential Decrees	11380
 Presidential Deeds Digitisation Programme	14295
@@ -2141,7 +2155,7 @@ Recurrent Engagement. President	1777
 Recurrent President	1777
 Regional Integration and Development The President	10321
 Regional President	2310,6807
-Regional Vice President	969,295,20,583,1022,673,42,2935,126,4103,196,416,37,132,11,279,16,50,19,41,211,605,550,1,127,275,8,1,93,20,5,595,481,39,88,74,52,234,67,20,4,3,35,68,37,1,2,2,39,29,12,39,187,14,49,112,240,14,524,27,3,489,17,391,13,100,236,95,8,324,140,12,32,16,414,6,39,171,188,192,12
+Regional Vice President	969,295,20,583,1022,673,42,2935,126,4103,196,416,37,132,11,279,16,50,19,41,211,605,550,1,127,275,8,1,93,20,5,595,481,39,88,74,52,234,67,20,4,3,35,68,37,1,2,2,39,29,12,39,187,14,49,112,240,14,524,27,3,489,17,391,13,100,236,95,8,324,140,12,32,16,414,6,39,171,188,192,12,8
 Regional Vice President Iffath Anwar Sharif	11924
 Regional Vice President for Eastern and Southern Africa	6539
 Regional Vice President of Sales	5528

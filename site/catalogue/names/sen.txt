@@ -209,6 +209,7 @@ Casa Buguendi de Senhor Carlos Aguiar	15380
 Casa Grande de Senhor Carlos Aguiar	15380
 Case Study of Orange Senegal and Uganda	10822
 Center for Hydrometeorology and Remote Sensing	12957
+Center. Sensitive	19864
 Central Bank Digital Currencies. Sending	982
 Central Bank's Business Sentiment Survey	17421
 Central Bank. In Senegal	10799
@@ -319,6 +320,7 @@ Disbursed The World Bank Senegal Digital	18359
 Discover SENUM SA	18430
 Docteur Cheikh Sadibou SENGHOR	18412
 Doctor Arame TOP SENE	18305
+Document Access Report. Sent	19854
 Document Multi-country Office Senegal	17323,1
 Dodoma. Mr Sendo	9492
 Dr. David M. Sengeh Minister of Education	18461
@@ -365,6 +367,7 @@ Egypt Ethiopia Ghana Kenya Nigeria Senegal	11004
 Egypt Ethiopia Kenya Nigeria Rwanda Senegal	11964
 Egypt Senior AI Experts Cultivation and Attraction	15713
 Egypt Sutherland Senior AVP Service Delivery	11162
+Egyptian Senate	19857
 Egypt’s Nilesat and South Africa’s Sentech	5623
 El Hadji Maty Sene	2827
 El SEN	16898
@@ -499,6 +502,7 @@ Honourable Senate	12737
 Honourable Senator Monica Mutsvangwa. The Global	13673
 House and Senate	8994
 House of Assembly and Senate. Each Chamber	12962
+House of Representatives. In the Senate	19857
 Huawei Senior Vice President Leo Chen	4495
 Huawei Senior Vice President of Enterprise Sales	13210
 Hydrological Service of Senegal	18309
@@ -1394,7 +1398,7 @@ Senait Nigiru Assefa Task Team Leader	13856
 Senakpon Aurelia Larissa Dakpogan	16398
 Senam Beheton	10887
 Senat	1598,84,11659
-Senate	700,521,45,332,227,133,338,87,203,133,320,188,29,10,1385,138,455,219,670,27,19,52,338,19,283,587,324,87,395,226,191,110,52,485,68,121,10,118,25,210,8,155,403,20,649,49,83,468,12,126,285,382,140,8,451,7,200,175,158,887,55,261,56,195,1722,6,2,99,1,15,38,41,102,68,140,29,885,669,770
+Senate	700,521,45,332,227,133,338,87,203,133,320,188,29,10,1385,138,455,219,670,27,19,52,338,19,283,587,324,87,395,226,191,110,52,485,68,121,10,118,25,210,8,155,403,20,649,49,83,468,12,126,285,382,140,8,451,7,200,175,158,887,55,261,56,195,1722,6,2,99,1,15,38,41,102,68,140,29,885,669,770,157
 Senate Bill No	10313
 Senate Bill S10642	14673
 Senate Bills No	14601
@@ -1402,6 +1406,7 @@ Senate Committee	1221,1365,6,66,2032,673,1173,410,907,1153,8064
 Senate Committee Chairman	17571
 Senate Concurrence Clears Path for Cybercrime Act	4651
 Senate Floor URL	17376
+Senate Human Development Index	19857
 Senate ICT	2586
 Senate Legislation Committee	12738
 Senate Majority Leader Aaron Cheruiyot	11115
@@ -1516,13 +1521,13 @@ Sendai Framework for Disaster Risk Reduction for Comoros	13776
 Sendai Framework. Mauritius	14738
 Sendai GAP	13776
 Sendai Gender Action Plan	13776
-Sender	12000,269,1,94,126,6495
+Sender	12000,269,1,94,126,6495,916
 Sender Policy Framework	13037,5737
 Sender Sender	12364
 Senders	12122,2787
 Sendhil Mul	18318
 Sendhil Mullainathan	18318
-Sending	34,938,6824,351,1290,1755,2316,58,1270,1996,57,228,39,95,1435,953,63
+Sending	34,938,6824,351,1290,1755,2316,58,1270,1996,57,228,39,95,1435,953,63,193
 Sending False Messages	3383
 Sending Offensive Messages	3383
 Sendje	4209,12787
@@ -1547,7 +1552,7 @@ SeneNews. Orange	1143
 SeneWeb	4967,179
 SenegIndia	18378
 Senega	16008
-Senegal	44,18,24,68,87,19,27,13,77,25,15,91,10,37,43,26,17,6,1,4,57,3,96,3,2,4,12,25,36,3,36,4,3,25,52,6,36,6,80,1,1,68,32,4,17,99,44,4,4,1,3,6,9,3,84,1,7,12,1,6,180,40,44,2,76,15,41,190,3,2,9,17,1,57,11,52,13,2,1,7,9,13,2,21,54,48,86,6,7,5,38,19,8,55,26,67,41,6,5,20,42,83,26,39,75,38,48,57,5,170,1,75,92,14,44,17,15,14,80,52,25,6,171,67,24,23,26,11,2,10,1,25,201,10,9,22,51,28,37,7,132,12,58,11,45,35,28,1,16,39,1,4,18,7,25,34,4,24,1,53,8,64,26,1,1,4,88,37,35,31,81,7,8,11,13,119,3,20,1,86,27,25,41,44,37,6,23,70,114,57,82,29,2,9,37,86,31,19,148,39,2,26,55,1,34,107,15,15,34,66,43,45,19,37,22,31,29,1,34,3,35,57,33,25,24,8,34,88,76,214,41,84,5,100,124,84,105,68,76,169,67,99,57,25,1,10,46,51,1,21,46,168,241,1,24,122,42,12,9,127,15,1,1,109,103,1,304,208,25,45,26,9,7,18,16,3,7,1,2,8,5,4,7,12,48,8,14,14,23,13,13,121,2,9,262,21,105,6,9,9,8,6,6,6,22,61,122,42,29,4,3,13,3,1,2,5,8,1,44,17,1,188,1,9,47,11,118,2,11,1,16,7,9,103,460,305,25,35,57,254,57,32,479,20,233,23,124,34,6,42,30,231,62,141,146,96,31,13,36,11,9,25,6,39,71,144,130,65,48,14,24,132,1,60,2,171,24,31,212,15,82,2,37,52,7,2,10,40,16,9,15,68,71,9,3,1,4,99,20,82,1,1,5,27,48,7,182,63,71,17,117,8,14,22,30,33,88,34,143,51,6,2,3,4,1,2,2,4,9,1,11,6,1,8,4,1,4,1,3,1,2,9,4,4,1,13,28,2,8,14,27,21,262,48,412,31,120,190,98,165,4,14
+Senegal	44,18,24,68,87,19,27,13,77,25,15,91,10,37,43,26,17,6,1,4,57,3,96,3,2,4,12,25,36,3,36,4,3,25,52,6,36,6,80,1,1,68,32,4,17,99,44,4,4,1,3,6,9,3,84,1,7,12,1,6,180,40,44,2,76,15,41,190,3,2,9,17,1,57,11,52,13,2,1,7,9,13,2,21,54,48,86,6,7,5,38,19,8,55,26,67,41,6,5,20,42,83,26,39,75,38,48,57,5,170,1,75,92,14,44,17,15,14,80,52,25,6,171,67,24,23,26,11,2,10,1,25,201,10,9,22,51,28,37,7,132,12,58,11,45,35,28,1,16,39,1,4,18,7,25,34,4,24,1,53,8,64,26,1,1,4,88,37,35,31,81,7,8,11,13,119,3,20,1,86,27,25,41,44,37,6,23,70,114,57,82,29,2,9,37,86,31,19,148,39,2,26,55,1,34,107,15,15,34,66,43,45,19,37,22,31,29,1,34,3,35,57,33,25,24,8,34,88,76,214,41,84,5,100,124,84,105,68,76,169,67,99,57,25,1,10,46,51,1,21,46,168,241,1,24,122,42,12,9,127,15,1,1,109,103,1,304,208,25,45,26,9,7,18,16,3,7,1,2,8,5,4,7,12,48,8,14,14,23,13,13,121,2,9,262,21,105,6,9,9,8,6,6,6,22,61,122,42,29,4,3,13,3,1,2,5,8,1,44,17,1,188,1,9,47,11,118,2,11,1,16,7,9,103,460,305,25,35,57,254,57,32,479,20,233,23,124,34,6,42,30,231,62,141,146,96,31,13,36,11,9,25,6,39,71,144,130,65,48,14,24,132,1,60,2,171,24,31,212,15,82,2,37,52,7,2,10,40,16,9,15,68,71,9,3,1,4,99,20,82,1,1,5,27,48,7,182,63,71,17,117,8,14,22,30,33,88,34,143,51,6,2,3,4,1,2,2,4,9,1,11,6,1,8,4,1,4,1,3,1,2,9,4,4,1,13,28,2,8,14,27,21,262,48,412,31,120,190,98,165,4,14,22,1,19
 Senegal AFR LMI	17743
 Senegal AI	6948
 Senegal AI Factory	8821
@@ -1916,7 +1921,8 @@ Senhorio	16056,82
 Senhorios	16056
 Seni Oedraogo	15765
 Seni Ouedraogo	15765
-Senior	813,1127,196,774,350,44,26,199,54,314,187,111,272,429,39,214,240,4,68,275,320,608,152,388,117,468,224,9,1107,929,178,493,235,12,180,24,101,29,129,133,302,7,1,104,39,65,189,67,67,171,388,84,132,193,80,71,440,51,839,60,134,605,618,579,85,206,1160,152,3,713
+Senility	19887
+Senior	813,1127,196,774,350,44,26,199,54,314,187,111,272,429,39,214,240,4,68,275,320,608,152,388,117,468,224,9,1107,929,178,493,235,12,180,24,101,29,129,133,302,7,1,104,39,65,189,67,67,171,388,84,132,193,80,71,440,51,839,60,134,605,618,579,85,206,1160,152,3,713,710
 Senior AI Expert Cultivation and Attraction	15713
 Senior AI Expert Cultivation and Attraction Code	15713
 Senior AI Experts Cultivation and Attraction	15713
@@ -2030,6 +2036,7 @@ Senior Economist ICT Unit Marc Jean	18887
 Senior Economist Mamadou Saliou Diallo	16675
 Senior Economist Sector Specialist	14897
 Senior Economist U3 U	19742
+Senior Economist and Ugo Gentilini	19889
 Senior Economist. Felicia	11131,3
 Senior Economiste	7655
 Senior Education Officer	18975
@@ -2079,6 +2086,7 @@ Senior Government	14295,228,2326,303
 Senior Government Officials	12660
 Senior Government Officials Their Excellencies	10210
 Senior Government Officials and Leaders	12904,5994
+Senior Health Economist	19889
 Senior Health Programmes Officer	13224
 Senior Health Programmes Officer Endelina Uushona	13224
 Senior Health Specialist	12534,778,2
@@ -2327,9 +2335,9 @@ Sensitisation Workshop	8278
 Sensitisation and Training	11956
 Sensitisations	12253
 Sensitise	1988,10265,7393,18
-Sensitive	27,7,938,248,113,18,279,237,10,232,600,421,499,232,505,495,223,160,306,115,310,3144,36,617,385,751,66,543,426,13,39,190,8,108,118,213,345,59,283,62,1068,75,266,117,14,64,176,181,1445,137,2651,64
+Sensitive	27,7,938,248,113,18,279,237,10,232,600,421,499,232,505,495,223,160,306,115,310,3144,36,617,385,751,66,543,426,13,39,190,8,108,118,213,345,59,283,62,1068,75,266,117,14,64,176,181,1445,137,2651,64,221,4,26
 Sensitive Complaints	16926
-Sensitive Data	3861,7370,1188
+Sensitive Data	3861,7370,1188,7491
 Sensitive Data Any	2958
 Sensitive Data Data Retention and Lawful	1243
 Sensitive Data Exposure High	19533
@@ -2340,7 +2348,7 @@ Sensitive Information Disclosure	3214,12545
 Sensitive Information The Authority	13381
 Sensitive Level	10157
 Sensitive Moroccan	1885
-Sensitive Personal Data	1630,10516,39,117,117,244,341,377,1143,960
+Sensitive Personal Data	1630,10516,39,117,117,244,341,377,1143,960,4411
 Sensitive Personal Data Sensitive	12302
 Sensitive Personal Data. CHAPTER SEVEN Cross-Border	15484
 Sensitive Social Protection	12964

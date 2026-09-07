@@ -136,6 +136,7 @@ Body World Customs Organization	13051
 Botswana. Annual World Bank Conference	19654
 BrandiQ Verdict The World Bank	11305
 Brave New World	2844,16163
+Browser Market Share Worldwide	19931
 Budget. WORLD	13122
 Bull World Health Organ	766,5,10009,101
 Burkina Faso Digital Acceleration Project World	1584
@@ -246,7 +247,7 @@ D.C. World Bank Group	1828,15094
 DA. The World Bank	15518
 DATA ON FINANCIAL PERFORMANCE The World	19242
 DATA PROTECTION LAWS OF THE WORLD	12301
-DC. World Bank	3456,7385,156,152
+DC. World Bank	3456,7385,156,152,8740
 DC. World Bank and United Nations Development	11133
 DC. World Bank. IDA17 Scale-Up Facility	10997
 DCO and World Economic Forum	3837
@@ -502,6 +503,7 @@ Guinea-Bissau. The World Bank	11545
 Guinee World Bank RSPG	16966
 H. World Bank Grievance Redress	11525
 HEI Health Effects Institute WRI World	10835,3,130,902,16,466,1,135,7334
+HHs. The World Bank	19855
 Harbin Ice and Snow World	8460
 Header The World Bank Implementation	6833
 Health WHO World Health Organization	14773
@@ -518,6 +520,7 @@ Host Communities and Refugees The World Bank	11924
 House. World Economic Outlook	13122
 Human Capital Reform DPF World Bank	763
 Humberto Albino Cossa The World Bank	11417
+Hungary. Bull World Health Organ	19889
 Hygiene Official Use Only The World	16436
 Hygiene The World Bank CAR Accelerating	15661
 Hygiene WASH World Health Organization	11417
@@ -647,6 +650,7 @@ Licenças de Construção World Bank Worldwide Governance	18767
 Local Loop WiMAX Worldwide Interoperability for Microwave	18887
 Local Loop Wide Area Network World	13290
 Loleka Official Use Only The World	16436
+Looking Ahead The World Bank	19872
 Lors du Mobile World Congress Doha	19432
 Low-Income Country World Time	17011
 M EUR The World Bank CAR	15661
@@ -708,6 +712,7 @@ Mobile World Congress Barcelona	5390
 Moderate Moderate The World Bank Implementation	15735
 Moderate The World Bank Implementation	16013,987,96,910,786,457
 Moderate. The World Bank	13332
+Modern Book World for Publishing and Distribution	19900
 Modernization of Public Financial Management World Bank	1578
 Money The World Bank Enhancing	10768
 Morocco World News	4995,1449,3560
@@ -799,6 +804,7 @@ PDO Project Development Objective The World	2473
 PIDDC01406 Official Use Only The World	13111
 PIDDC01513 The World Bank Zimbabwe Social	13523
 PIDIA01397 Official Use Only The World	3456
+PMT. The World Bank's Advisory Services	19872
 POM. The World Bank CAR Accelerating	15661
 PPPC and World Bank	12253
 PRIVATE NETWORK WIMAX WORLDWIDE INTEROPERABILITY	18105
@@ -1039,6 +1045,7 @@ Terms of Reference WBG World Bank Group	13836
 Testing WHA World Health Assembly WBPHCOT	396
 Testing WHO World Health Organisation	11224
 Thabo Gina and World Bank Division Director	2832
+Thailand. Bull World Health Organ	19889
 Thembi Malena Kumapley The World Bank	17962
 Theory of Change E. Rationale for World Bank	1264,14289,108
 Through Digital Medical Lectures ChopWin World	18555
@@ -1137,7 +1144,7 @@ Vocational Education and Training Authority WFP World	19590
 Vodacom Group. World Bank	9759
 WAN Wide Area Network WRC World	6946
 WASH. Following the World Bank's Environmental Health	1988
-WB World Bank	11863,24,266,1,9,178,2588,1954
+WB World Bank	11863,24,266,1,9,178,2588,1954,2975,1
 WB World Bank National Broadband Strategy	16884
 WB World Bank Page	15164
 WB World Bank TABLE OF CONTENTS	17458
@@ -1156,7 +1163,7 @@ WBG World Bank Group Regional Vice	18851
 WBG World Bank Group WEF World	11380
 WBG World Development Indicators	13314
 WCO World Customs Organization WTO World	16631
-WEF World Economic Forum	11887,266,1,9,178
+WEF World Economic Forum	11887,266,1,9,178,7517,1
 WEF World Economic Forum United Nations	10835,3,130,902,16,466,1,135,7334
 WEF. World Bank	15480
 WFP World Food Program TABLE	16867
@@ -1173,9 +1180,9 @@ WHE WHO Health Emergencies WHO World	17289
 WHO. World Bank ID4D Global Data	10812
 WHO. World Health Organisation	12367
 WHOLiberia World Health Organization Liberia	17289
-WID.World World Inequality Database	11887,266,1,9,178
+WID.World World Inequality Database	11887,266,1,9,178,7517,1
 WID.World World Inequality Database WJP World	10759,78,1052,451
-WJP World Justice Project	11887,266,1,9,178
+WJP World Justice Project	11887,266,1,9,178,7517,1
 WMC World Meteorological Centres NWP Numerical	11553
 WMO World Meteorological Organization NGO Non-Governmental	13729
 WMO World Meteorological Organization WMO-RO World	18578
@@ -1201,7 +1208,7 @@ WORLD VISION Création	998
 WORLD YOUTH SKILLS DAY	5276
 WORLD’S BIGGEST GATHERING OF YOUTH	19604
 WP0CRVS000Box385194B00PUBLIC0.pdf World Economic Forum	10819
-WRI World Resources Institute	11887,266,1,9,178
+WRI World Resources Institute	11887,266,1,9,178,7517,1
 WSJ and World Bank	145
 WTO Staff Working Papers ERSD-2021-5. World	10718
 WTO World Trade Organization FOREWORD	12951
@@ -1260,7 +1267,7 @@ World Atlas of Desertification	17157
 World Audio Visual	18810
 World Audiovisual	17240
 World Banck Country Manager for São Tomé	18816
-World Bank	1,4,26,76,1,4,4,29,11,1,2,1,2,4,7,48,1,1,1,2,1,3,6,1,2,10,55,1,2,3,2,2,7,8,80,3,4,8,1,1,16,3,28,63,1,1,5,9,2,12,11,6,151,5,11,4,2,1,2,2,2,1,2,6,1,4,7,3,1,1,1,6,4,1,51,1,87,19,1,1,8,2,2,1,5,1,1,3,2,1,1,4,1,1,2,1,2,2,1,1,20,1,3,1,11,47,64,25,1,1,1,1,1,1,1,8,7,2,2,3,12,1,11,15,5,9,3,1,3,13,3,3,1,6,48,17,1,7,29,7,1,13,19,90,48,1,1,1,2,3,1,5,48,3,6,4,4,29,3,23,2,10,9,16,3,7,1,15,2,1,1,3,3,1,2,2,18,9,5,14,39,31,1,2,23,3,27,12,22,5,1,32,21,26,25,14,5,9,1,20,9,55,38,2,1,1,1,19,3,8,1,4,2,27,6,56,2,1,7,1,4,11,2,11,4,4,8,12,8,18,1,34,13,8,12,4,17,4,26,22,2,42,1,2,13,11,2,20,12,1,5,50,2,1,35,6,1,3,17,24,9,16,25,11,18,2,2,8,12,5,10,7,16,9,3,1,8,15,1,28,2,8,11,11,27,3,29,19,17,18,12,11,5,7,1,25,9,10,8,3,7,2,58,5,13,6,4,7,8,6,7,7,1,19,1,3,1,2,13,16,3,5,6,2,32,20,2,2,19,3,8,3,3,4,1,18,4,18,18,2,11,2,12,5,8,9,6,3,4,3,14,21,7,1,2,4,3,1,3,1,35,2,30,1,14,11,11,12,21,44,7,6,51,5,12,20,21,39,54,20,13,22,5,41,3,14,4,54,2,9,11,6,42,2,23,12,2,56,1,1,4,7,3,7,3,5,2,7,31,19,19,9,13,19,6,1,14,9,1,7,42,12,12,18,13,19,5,3,1,5,15,51,57,9,59,2,10,1,12,2,6,21,8,11,22,13,2,60,23,13,7,3,8,12,25,18,6,5,21,20,33,5,17,1,30,27,18,4,3,1,33,14,5,12,1,13,4,9,4,2,1,21,6,71,3,26,24,54,24,23,15,12,15,10,39,14,15,52,38,7,4,1,5,13,42,13,2,4,1,13,36,1,10,38,4,3,16,2,1,48,6,2,1,10,2,17,9,1,4,9,14,44,7,22,8,18,8,16,16,2,2,3,37,67,1,14,3,24,56,6,24,1,21,7,4,2,8,2,1,8,34,5,28,11,28,8,2,24,13,12,11,5,37,13,1,12,35,32,13,66,9,2,28,27,70,1,11,27,29,17,10,7,88,35,1,12,9,7,21,11,11,24,16,7,5,14,32,10,73,85,30,12,62,18,44,3,23,181,43,21,3,1,5,2,2,88,19,50,46,35,62,33,3,40,68,17,151,37,2,3,11,11,10,13,49,30,33,15,146,55,1,7,2,51,27,4,82,31,1,12,16,4,14,30,53,26,42,85,17,42,20,20,23,1,42,11,11,2,2,16,64,23,21,63,38,5,28,116,26,73,5,18,15,46,80,6,6,37,2,3,7,1,3,1,5,19,8,7,3,7,3,2,5,2,11,2,2,1,5,4,18,2,15,8,33,1,20,1,5,7,1,3,5,6,6,7,2,11,79,1,6,2,24,4,2,1,2,2,2,7,1,5,1,10,2,25,2,41,35,34,5,46,19,5,10,11,16,6,1,15,30,7,7,3,38,1,4,7,9,1,3,3,5,3,3,9,9,5,65,66,29,4,4,1,52,14,18,16,2,3,3,3,1,2,4,1,5,2,1,9,4,2,2,1,5,2,2,7,2,5,1,11,6,13,6,4,1,16,7,6,6,4,2,2,5,18,4,10,5,87,1,20,1,3,9,4,1,5,1,6,3,1,3,10,5,4,5,8,4,2,7,5,4,4,2,2,4,4,4,1,8,19,19,9,3,5,2,1,1,1,8,21,3,6,9,10,8,9,14,17,1,36,7,12,1,12,21,1,5,1,1,12,25,5,5,7,3,8,57,1,5,5,6,17,1,1,1,1,2,18,3,18,38,1,36,17,4,5,78,1,18,8,2,6,6,15,1,2,25,12,5,30,2,4,1,1,20,3,1,9,2,16,11,1,12,25,17,8,6,8,4,6,31,6,22,22,5,15,2,2,17,1,17,9,1,6,13,10,1,3,3,23,6,9,7,10,9,4,25,18,17,4,18,47,15,3,14,57,32,46,4,4,25,12,6,3,13,4,1,2,7,7,15,6,5,5,2,15,15,12,8,3,5,6,21,16,9,1,19,5,2,48,14,6,7,48,19,26,10,2,29,50,63,56,34,5,9,13,30,1,17,12,1,29,7,13,10,26,1,18,6,9,12,17,1,3,5,49,3,3,15,1,2,14,16,13,29,11,9,12,7,27,3,8,1,25,6,4,1,1,8,14,3,1,4,2,10,1,3,3,14,3,3,16,4,1,4,2,4,1,1,3,16,1,3,4,1,16,5,5,42,6,3,2,14,7,1,207,39,4,9,23,24,2,1,6,1,10,2,7,11,2,1,1,3,1,12,11,8,3,21,1,14,1,11,3,15,1,1,7,6,24,1,2,2,51,11,1,5,4,8,7,32,20,8,15,18,1,2,29,3,23,23,15,20,1,9,8,3,3,5,44,4,1,9,4,4,32,47,11,32,11,15,51,19,45,67,14,4,33,1,6,51,20,75,11,15,12,12,3,13,1,10,10,1,93,20,33,1,10,15,4,1,4,1,2,7,5,4,7,1,1,1,5,5,6,19,1,1,1,2,1,8,7,7,2,1,3,5,3,3,4,1,1,3,3,6,12,15,26,1,5,2,19,1,5,29,6,9,2,3,5,3,11,11,3,5,8,9,6,5,3,10,30,5,2,3,1,18,3,25,2,2,22,15,2,3,3,4,9,6,11,2,20,11,10,25,9,17,9,57,34,40,1,14,52,47,48,17,66,6,11,2,7,1,26,6,4,19,9,2,22,4,44,98,21,5,25,7,36,7,10,13,6,9,47,1,2,1,6,1,17,52,4,69,11,2,2,2,4,6,1,4,1,4,5,2,1,6,4,2,4,6,2,3,10,12,6,11,8,2,3,3,5,2,1,6,6,24,2,3,1,3,1,1,1,4,1,4,3,6,1,16,34,7,9,13,8,12,10,11,2,5,5,2,8,8,2,12,7,7,2,13,2,11,36,23,1,1,19,2,12,17,5,112,49,7,102,2,3,3,3,27,9,41,4,78,17,1,30,64,12,11,29,15,1,1,14,31,3,1,6,2,1,7,4,3,2,1,3,11,6,13,9,16,86,10,6,2,1,3,6,1,3,1,7,2
+World Bank	1,4,26,76,1,4,4,29,11,1,2,1,2,4,7,48,1,1,1,2,1,3,6,1,2,10,55,1,2,3,2,2,7,8,80,3,4,8,1,1,16,3,28,63,1,1,5,9,2,12,11,6,151,5,11,4,2,1,2,2,2,1,2,6,1,4,7,3,1,1,1,6,4,1,51,1,87,19,1,1,8,2,2,1,5,1,1,3,2,1,1,4,1,1,2,1,2,2,1,1,20,1,3,1,11,47,64,25,1,1,1,1,1,1,1,8,7,2,2,3,12,1,11,15,5,9,3,1,3,13,3,3,1,6,48,17,1,7,29,7,1,13,19,90,48,1,1,1,2,3,1,5,48,3,6,4,4,29,3,23,2,10,9,16,3,7,1,15,2,1,1,3,3,1,2,2,18,9,5,14,39,31,1,2,23,3,27,12,22,5,1,32,21,26,25,14,5,9,1,20,9,55,38,2,1,1,1,19,3,8,1,4,2,27,6,56,2,1,7,1,4,11,2,11,4,4,8,12,8,18,1,34,13,8,12,4,17,4,26,22,2,42,1,2,13,11,2,20,12,1,5,50,2,1,35,6,1,3,17,24,9,16,25,11,18,2,2,8,12,5,10,7,16,9,3,1,8,15,1,28,2,8,11,11,27,3,29,19,17,18,12,11,5,7,1,25,9,10,8,3,7,2,58,5,13,6,4,7,8,6,7,7,1,19,1,3,1,2,13,16,3,5,6,2,32,20,2,2,19,3,8,3,3,4,1,18,4,18,18,2,11,2,12,5,8,9,6,3,4,3,14,21,7,1,2,4,3,1,3,1,35,2,30,1,14,11,11,12,21,44,7,6,51,5,12,20,21,39,54,20,13,22,5,41,3,14,4,54,2,9,11,6,42,2,23,12,2,56,1,1,4,7,3,7,3,5,2,7,31,19,19,9,13,19,6,1,14,9,1,7,42,12,12,18,13,19,5,3,1,5,15,51,57,9,59,2,10,1,12,2,6,21,8,11,22,13,2,60,23,13,7,3,8,12,25,18,6,5,21,20,33,5,17,1,30,27,18,4,3,1,33,14,5,12,1,13,4,9,4,2,1,21,6,71,3,26,24,54,24,23,15,12,15,10,39,14,15,52,38,7,4,1,5,13,42,13,2,4,1,13,36,1,10,38,4,3,16,2,1,48,6,2,1,10,2,17,9,1,4,9,14,44,7,22,8,18,8,16,16,2,2,3,37,67,1,14,3,24,56,6,24,1,21,7,4,2,8,2,1,8,34,5,28,11,28,8,2,24,13,12,11,5,37,13,1,12,35,32,13,66,9,2,28,27,70,1,11,27,29,17,10,7,88,35,1,12,9,7,21,11,11,24,16,7,5,14,32,10,73,85,30,12,62,18,44,3,23,181,43,21,3,1,5,2,2,88,19,50,46,35,62,33,3,40,68,17,151,37,2,3,11,11,10,13,49,30,33,15,146,55,1,7,2,51,27,4,82,31,1,12,16,4,14,30,53,26,42,85,17,42,20,20,23,1,42,11,11,2,2,16,64,23,21,63,38,5,28,116,26,73,5,18,15,46,80,6,6,37,2,3,7,1,3,1,5,19,8,7,3,7,3,2,5,2,11,2,2,1,5,4,18,2,15,8,33,1,20,1,5,7,1,3,5,6,6,7,2,11,79,1,6,2,24,4,2,1,2,2,2,7,1,5,1,10,2,25,2,41,35,34,5,46,19,5,10,11,16,6,1,15,30,7,7,3,38,1,4,7,9,1,3,3,5,3,3,9,9,5,65,66,29,4,4,1,52,14,18,16,2,3,3,3,1,2,4,1,5,2,1,9,4,2,2,1,5,2,2,7,2,5,1,11,6,13,6,4,1,16,7,6,6,4,2,2,5,18,4,10,5,87,1,20,1,3,9,4,1,5,1,6,3,1,3,10,5,4,5,8,4,2,7,5,4,4,2,2,4,4,4,1,8,19,19,9,3,5,2,1,1,1,8,21,3,6,9,10,8,9,14,17,1,36,7,12,1,12,21,1,5,1,1,12,25,5,5,7,3,8,57,1,5,5,6,17,1,1,1,1,2,18,3,18,38,1,36,17,4,5,78,1,18,8,2,6,6,15,1,2,25,12,5,30,2,4,1,1,20,3,1,9,2,16,11,1,12,25,17,8,6,8,4,6,31,6,22,22,5,15,2,2,17,1,17,9,1,6,13,10,1,3,3,23,6,9,7,10,9,4,25,18,17,4,18,47,15,3,14,57,32,46,4,4,25,12,6,3,13,4,1,2,7,7,15,6,5,5,2,15,15,12,8,3,5,6,21,16,9,1,19,5,2,48,14,6,7,48,19,26,10,2,29,50,63,56,34,5,9,13,30,1,17,12,1,29,7,13,10,26,1,18,6,9,12,17,1,3,5,49,3,3,15,1,2,14,16,13,29,11,9,12,7,27,3,8,1,25,6,4,1,1,8,14,3,1,4,2,10,1,3,3,14,3,3,16,4,1,4,2,4,1,1,3,16,1,3,4,1,16,5,5,42,6,3,2,14,7,1,207,39,4,9,23,24,2,1,6,1,10,2,7,11,2,1,1,3,1,12,11,8,3,21,1,14,1,11,3,15,1,1,7,6,24,1,2,2,51,11,1,5,4,8,7,32,20,8,15,18,1,2,29,3,23,23,15,20,1,9,8,3,3,5,44,4,1,9,4,4,32,47,11,32,11,15,51,19,45,67,14,4,33,1,6,51,20,75,11,15,12,12,3,13,1,10,10,1,93,20,33,1,10,15,4,1,4,1,2,7,5,4,7,1,1,1,5,5,6,19,1,1,1,2,1,8,7,7,2,1,3,5,3,3,4,1,1,3,3,6,12,15,26,1,5,2,19,1,5,29,6,9,2,3,5,3,11,11,3,5,8,9,6,5,3,10,30,5,2,3,1,18,3,25,2,2,22,15,2,3,3,4,9,6,11,2,20,11,10,25,9,17,9,57,34,40,1,14,52,47,48,17,66,6,11,2,7,1,26,6,4,19,9,2,22,4,44,98,21,5,25,7,36,7,10,13,6,9,47,1,2,1,6,1,17,52,4,69,11,2,2,2,4,6,1,4,1,4,5,2,1,6,4,2,4,6,2,3,10,12,6,11,8,2,3,3,5,2,1,6,6,24,2,3,1,3,1,1,1,4,1,4,3,6,1,16,34,7,9,13,8,12,10,11,2,5,5,2,8,8,2,12,7,7,2,13,2,11,36,23,1,1,19,2,12,17,5,112,49,7,102,2,3,3,3,27,9,41,4,78,17,1,30,64,12,11,29,15,1,1,14,31,3,1,6,2,1,7,4,3,2,1,3,11,6,13,9,16,86,10,6,2,1,3,6,1,3,1,7,2,6,10,7,2,4,11,12,17,13
 World Bank ADePT	12373
 World Bank AI	6948
 World Bank Acting Resident Representative for Togo	19276
@@ -1371,6 +1378,7 @@ World Bank Country Partnership Framework	1264,2340,7813,3773,431
 World Bank Country Partnership Strategy	11924,3487,2451
 World Bank Country Representative Franklin Mutahakana	8459
 World Bank Country Representative for Lesotho	12747
+World Bank Country Unit	19889
 World Bank Country and Lending Groups	10785,219
 World Bank Cybersecurity Capacity Review	15491
 World Bank Côte	16032
@@ -1471,6 +1479,7 @@ World Bank Ease of Doing Business	10841,7931
 World Bank Ease of Doing Business Index	4528,7984
 World Bank Eastern and Southern Africa	1867
 World Bank Economic Resilience Development Policy	15157
+World Bank EdStats	19907
 World Bank EdTech Readiness Index	18564
 World Bank Education	3604
 World Bank Education Sector Analysis	12914
@@ -1479,7 +1488,7 @@ World Bank Enterprise	14997
 World Bank Enterprise Survey	1828,13169,476,1523,874,968
 World Bank Enterprise Survey Cameroon	15480
 World Bank Enterprise Survey Implementation Report	10862,7976
-World Bank Enterprise Surveys	1400,9462,107,915,1,10,264,196,132,2993,3358
+World Bank Enterprise Surveys	1400,9462,107,915,1,10,264,196,132,2993,3358,1024,3
 World Bank Enterprise Surveys. Washington	11140
 World Bank Environment	1988
 World Bank Environmental	11469,784
@@ -1498,6 +1507,7 @@ World Bank Executive Director	11134
 World Bank Executive Director Africa Group	11134
 World Bank Executive Directors	16638
 World Bank FAO Food and Agriculture Organization	10835,3,130,902,16,466,1,135,7334
+World Bank FIF Review for Component	19855
 World Bank FM	1284,583,4672,4290,696,330,1476,1,2221,105,1,2,483,292,460,26,1276,1047,590
 World Bank FM Implementation Support Plan	13332
 World Bank FOR OFFICIAL USE	13722,114,1675,90,1295,56,910,903
@@ -1575,6 +1585,7 @@ World Bank Group COVID-19 Crisis Response	15491,62,2748
 World Bank Group Chief Economist	5598
 World Bank Group Climate Change Action	19245
 World Bank Group Conakry	11552
+World Bank Group Contribution	19872
 World Bank Group Contribution The World	10857,1388
 World Bank Group Country Management	15969
 World Bank Group Country Manager	14339
@@ -1657,6 +1668,7 @@ World Bank Group and UNDESA	3583
 World Bank Group and World Food Programme	16902
 World Bank Group's Board of Directors	19275,1
 World Bank Group's Country Partnership	1954
+World Bank Group's Country Partnership Framework	19855
 World Bank Group's Country Partnership Strategy	15704
 World Bank Group's Environmental	1988,15453
 World Bank Group's Eswatini Country Partnership	12426
@@ -1722,6 +1734,7 @@ World Bank HQ Eligibility	18711
 World Bank Harmonization	19519
 World Bank Harmonizing and Improving Statistics	16935,1540
 World Bank Headquarters	17099,15
+World Bank Health Nutrition and Population	19889
 World Bank Human Capital Index1	14897
 World Bank I. Introduction The COVID-19	19237
 World Bank ICR DOCUMENT	17962
@@ -1813,7 +1826,7 @@ World Bank Note	16436
 World Bank OMVG	16966
 World Bank Observer	16848
 World Bank Official Use Only Page	11417
-World Bank Open Data	11994,3610,4059
+World Bank Open Data	11994,3610,4059,268
 World Bank Open Data Mortality	10881
 World Bank Open Data. Education Sector	15604
 World Bank Open Data. Estimates	18198
@@ -2221,6 +2234,7 @@ World Bank's Jobs Agenda	3604
 World Bank's Legal Practice	14022
 World Bank's Lifelines	15515
 World Bank's Maghreb Country Management Unit	14627
+World Bank's Managing Director of Operations Anna	19873
 World Bank's Map Design	10977
 World Bank's Mission	14966
 World Bank's Monitoring Support The World	1988
@@ -2438,6 +2452,7 @@ World Bank. Figure	11874,7,6906
 World Bank. Finally	19645
 World Bank. Financial Inclusion. Financial	12231
 World Bank. Flow	10768
+World Bank. For Eritrea	19932
 World Bank. For Official Use Only	17470
 World Bank. Freshwater	19654
 World Bank. Gender Data Portal	16144
@@ -2562,6 +2577,7 @@ World Bank. Unaudited IFRs	16144
 World Bank. Under	6523
 World Bank. Views	10714,51,10,374,1179
 World Bank. West Africa Unique Identification	15518
+World Bank. Whist	19932
 World Bank. World Bank	10841,1068,3695,1338,54
 World Bank. World Bank Group	2816,8494,7927
 World Bank. World Bank and UNHCR	12297
@@ -2859,8 +2875,8 @@ World Enable	14674
 World Expo	3760,7425,2258
 World Fact Book	11944,4972
 World Fact Book Banque des Etats	11944
-World Factbook	14851
-World Federation of Exchanges	10969,926,264,46,282
+World Factbook	14851,5003
+World Federation of Exchanges	10969,926,264,46,282,7378
 World Figure	1828,15183
 World Fintech Day	11819
 World Food Program	969,259,10297,35,2883,1177,1247,390,1445,41,1092
@@ -2868,7 +2884,7 @@ World Food Program WHO World Health	15415
 World Food Program WHR Window for Host	10841
 World Food Program and GCA	17257
 World Food Program-operated	11924
-World Food Programme	1828,39,310,935,471,3399,48,117,2337,263,315,448,253,59,7,12,122,1,169,9,1033,45,21,56,626,8,25,19,2,1,102,315,150,47,346,370,588,1,48,3,11,17,48,40,183,95,259,3,16,38,73,795,376,255,15,677,57,198,474,87,30,174,211,567
+World Food Programme	1828,39,310,935,471,3399,48,117,2337,263,315,448,253,59,7,12,122,1,169,9,1033,45,21,56,626,8,25,19,2,1,102,315,150,47,346,370,588,1,48,3,11,17,48,40,183,95,259,3,16,38,73,795,376,255,15,677,57,198,474,87,30,174,211,567,225
 World Food Programme Foreword	15604
 World Food Programme Methodology	14141
 World Food Programme Methodology Rainfall	15232
@@ -2895,7 +2911,7 @@ World Governance Index	13325
 World Governance Indicators	14897,621
 World Government Summit	4921,13
 World Governments Summit	18550
-World Green Building Council	15578
+World Green Building Council	15578,4290
 World Health	10780
 World Health Assembly	396,5196,4596,588,2149,1848,638,422,1456,2308
 World Health Assembly Relatório Anual da OMS	10776
@@ -2912,7 +2928,7 @@ World Health Organisation INTRODUCTION	19715
 World Health Organisation ZEP	14742
 World Health Organisation’s Regional Office for Africa	16195
 World Health Organiza-	8301
-World Health Organization	396,364,6,5,238,203,7,42,563,164,960,57,578,68,1289,208,17,385,1043,201,222,96,75,361,202,16,43,492,75,103,725,495,156,114,200,19,341,133,114,1,3,4,28,10,7,52,59,585,47,6,18,59,10,222,18,64,21,35,113,13,2,1,9,68,9,15,83,3,26,46,95,98,333,101,64,59,3,264,24,416,150,126,90,198,232,107,66,55,2,2,79,62,17,82,68,41,164,107,56,16,135,252,60,4,66,82,30,94,16,80,487,6,20,4,15,1,7,1,21,286,24,135,453,759,29,264,363,123,137,11,98,127,64
+World Health Organization	396,364,6,5,238,203,7,42,563,164,960,57,578,68,1289,208,17,385,1043,201,222,96,75,361,202,16,43,492,75,103,725,495,156,114,200,19,341,133,114,1,3,4,28,10,7,52,59,585,47,6,18,59,10,222,18,64,21,35,113,13,2,1,9,68,9,15,83,3,26,46,95,98,333,101,64,59,3,264,24,416,150,126,90,198,232,107,66,55,2,2,79,62,17,82,68,41,164,107,56,16,135,252,60,4,66,82,30,94,16,80,487,6,20,4,15,1,7,1,21,286,24,135,453,759,29,264,363,123,137,11,98,127,64,14,1,28,2
 World Health Organization Disability Assessment Schedule	14622
 World Health Organization Ethiopia	14042
 World Health Organization Every	10881
@@ -2978,14 +2994,14 @@ World ID	5550
 World Indices	7343
 World Inequality Database	19653,4,179
 World Inflation	2775
-World Institute for Development Economics Research	11887,266,1,9,178,7312
+World Institute for Development Economics Research	11887,266,1,9,178,7312,205,1
 World Institute for Development Economics Research Columbia	10835,3,130,902,16,466,1,135,7334
 World Institute for Development Economics Research UPU	10759,78,1052,451
 World Integrated Trade Solution	11149
 World Intel-	13357
 World Intellectual Property	11550
 World Intellectual Property Organisation	961,13605,182
-World Intellectual Property Organization	7548,3421,914,1,1,10,40,224,1,1,43,1,146,4,21,111,1498,868,2020,69,376,1479
+World Intellectual Property Organization	7548,3421,914,1,1,10,40,224,1,1,43,1,146,4,21,111,1498,868,2020,69,376,1479,1065,3
 World Intellectual Property Organization COVID-19	13312,2
 World Intellectual Property Organization Copyright Treaty	11550
 World Intellectual Property Organization. Suggested	14898,827
@@ -3074,7 +3090,7 @@ World Radio Day	4660,7965,89,828
 World Radiocommunication Conference	5680,913,481,753,153,109,84,1608,1449,3550
 World Radiocommunication Conferences	11023
 World Radiocommunications Conference	5680,6715
-World Refugee Day	12627,3958
+World Refugee Day	12627,3958,3288
 World Register	12982
 World Report	9399,3540,374
 World Resources Institute	14673,827,1375,2778,183
@@ -3128,15 +3144,16 @@ World Trade Organisation Agreement	12895
 World Trade Organisation Southern African Development	12454
 World Trade Organisation's Trade Facilitation Agreement	19600
 World Trade Organisation.1.1.3. A National Dialogue	2626
-World Trade Organization	2117,2927,322,205,12,1420,2340,79,509,787,126,125,180,5,370,26,655,767,70,11,304,28,600,23,259,361,191,113,546,756,674,64,24,205,166,426,330,346,18,727,260,108,130
+World Trade Organization	2117,2927,322,205,12,1420,2340,79,509,787,126,125,180,5,370,26,655,767,70,11,304,28,600,23,259,361,191,113,546,756,674,64,24,205,166,426,330,346,18,727,260,108,130,150,3
 World Trade Organization Agreement	11550
 World Trade Organization Digital Trade Policy	16144
-World Trade Organization Global Services Trade	11884,275,328
+World Trade Organization Global Services Trade	11884,275,328,7375
 World Trade Organization Infor	11550
 World Trade Organization Technical Barriers	1988
 World Trade Organization Trade Facilitation Agreement	17274,93
 World Trade Organization ZRA	13053
 World Trade Organization and United	10969
+World Trade Organization and United Nations Conference	19865
 World Trade Organization's Agreement	19712
 World Trade Organization's Trade Facilitation Agreement	14628
 World Trade Organization. Participants	9538

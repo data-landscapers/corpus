@@ -237,6 +237,7 @@ Claimants	1829,6819
 Claimed	418,2102,14320
 Claimed Part B	14546
 Claiming	8949,8178
+Claiming Bits and Pieces	19874
 Claiming Rights	17127
 Claiming Rights Awareness	17127
 Claiming Rights Dimensions	17127
@@ -268,6 +269,7 @@ Claire Sibthorpe	11003,1,898
 Claire Sibthorpe Acknowledgements	11017
 Claire Sibthorpe and Jakub Zagdanski	11964
 Claire Vo and Leveraging AI	11143
+Claire. Cadastre	19874
 Clairement	3465,9841,422
 Clairfonds	14830
 Clairon	15488,420
@@ -315,7 +317,7 @@ Clarias	18118
 Claricia Doriane	15848
 Claridades	19654
 Clarifai Full	4434
-Clarification	3675,451,3861,559,1691,534,1272,108,249,785,1039,201,334,3,165,175,82,1523,2116
+Clarification	3675,451,3861,559,1691,534,1272,108,249,785,1039,201,334,3,165,175,82,1523,2116,1098
 Clarification No	13404,1355,3
 Clarification Period	13621
 Clarification RFP N 96 2024 SOM	14927
@@ -535,7 +537,7 @@ Classificador Territorial	10783
 Classificador de Programa	10783
 Classificados	18768
 Classificar	18801
-Classification	747,440,44,96,661,144,13,928,603,170,1,251,1034,533,767,133,886,97,337,436,1836,153,411,233,185,119,309,230,108,90,953,105,18,196,20,506,75,156,399,26,295,253,132,77,38,102,126,1,82,69,89,2,5,4,121,63,28,351,265,348,106,151,703,6,16,63,1596,98,196
+Classification	747,440,44,96,661,144,13,928,603,170,1,251,1034,533,767,133,886,97,337,436,1836,153,411,233,185,119,309,230,108,90,953,105,18,196,20,506,75,156,399,26,295,253,132,77,38,102,126,1,82,69,89,2,5,4,121,63,28,351,265,348,106,151,703,6,16,63,1596,98,196,20
 Classification Activité	15936
 Classification Après	14423
 Classification Boundaries Automatic Class A Classification	5665
@@ -611,6 +613,7 @@ Classifique	18771
 Classify	34,4092,3155,3950,979,794,1918,2235,2644
 Classify Broadband	19633
 Classifying	13356
+Classifying IoT	19890
 Classique Satellite Bilingue Franco arabe Passerelle	10847
 Classroom	12726,666,1693,519,57,526,249,527,921,1956
 Classroom Availability	12411
@@ -791,6 +794,7 @@ Data Classification Alignment	11995
 Data Classification All	11952
 Data Classification Cloud	16924
 Data Classification Data Classification Define	6432
+Data Classification Effective	19860
 Data Classification Framework	11995
 Data Classification Levels	11995
 Data Classification Matrix and Cloud Assessment Framework	11867
@@ -893,6 +897,7 @@ FTTHCahier des Clauses Techniques Générales	19372
 False Claims	8436
 False Claims About Security	10725
 Family of International Classification	15725
+Family of International Classifications	19887
 Feb-2027 Environmental and Social Risk Classification	2473
 Fee Class Application	736
 Fee Class Application Fee Reciept No	736
@@ -1024,7 +1029,7 @@ Integrity Clause	14736
 Integrity Clause The Mauritius Standards Bureau	14736
 Intermediate-level Results Indicators Classroom	13392
 International Classification for Standards	13341
-International Classification of Diseases	11969,444,316,2327,406,263,382,2521,916,123
+International Classification of Diseases	11969,444,316,2327,406,263,382,2521,916,123,220
 International Classification of Diseases KFH	12338
 International Classification of Diseases-10	15411
 International Classification of Functioning	15663,1287

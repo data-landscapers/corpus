@@ -37,6 +37,7 @@ African Centre for Digital Justice	7750
 African Court of Justice and Human Rights	14742
 African Union Transitional Justice Policy	3583
 Agriculture and Justice	12964,739
+Alexandria of Justice	19887
 Algeria's Justice Minister Lotfi Boudjemaa	5039
 Algorithmic Justice League	6635
 Amka Africa Justice Initiative Data Controller	7167
@@ -62,6 +63,7 @@ Attorney Generals Chambers and Ministry of Justice	16924
 Attorney-General and Minister of Justice	18463,14,79
 Attorney-General and Minister of Justice The Office	18477
 Attorney-general and Minister of Justice	18434
+B Ministry of Justice	19887
 B. Justice	12977
 BATA CORTE SUPREMA DE JUSTICIA MINISTERIO	17101
 BI Ministro da Justiça	10751
@@ -162,6 +164,7 @@ Cofre de Justiça	10750
 Commandant LENDOYE Justibe	16381
 Commission of Administrative Justice	9645
 Commissioner for Justice of Lagos State	8978
+Committee for Justice	19854
 Committee of Ministers of Justice	14826
 Common Court of Justice and Arbitration	16972
 Commonwealth Symposium for Criminal Justice Officials	19007
@@ -178,7 +181,7 @@ Corte Suprema de Justicia	4209,12662
 Cour Commune de Justice	15495,2487,124,1103
 Cour de Justice	11944,3538,221,2114
 Court Of Justice Clarifies When Courts	6632
-Court of Justice	1807,4615,659,1355,311,26,3,2325,4800,1879,656,549,829
+Court of Justice	1807,4615,659,1355,311,26,3,2325,4800,1879,656,549,829,81
 Crianças O Ministério da Justiça	10750
 Crime Prevention and Criminal Justice	2117
 Crime and Criminal Justice	19517
@@ -263,7 +266,7 @@ Dr. NSENGIYUMVA Justin Deputy Governor and Vice-Chairperson	15023
 Droits de Justice CGECI	15712
 Dual Justice System	18631
 Débora Juste	15455
-E Ministry of Justice	15399
+E Ministry of Justice	15399,4488
 E- Justice	11541
 E-Justice Task Force Meeting and Justice Sector	13080,15
 EAST AFRICAN COURT OF JUSTICE	14409
@@ -488,7 +491,7 @@ JUSTE	18319
 JUSTE APRÈS LA FIN DES RÉGLES	13300
 JUSTE AVANT QUE LES RÉGLES	13300
 JUSTE AVANT QUE LES RÉGLES COMMENCENT	13300
-JUSTICE	10759,76,2,1,130,317,585,16,2,1,263,1,10,177,1,11,1,135,932,584,1346,937,94,256,3015,1,169,14
+JUSTICE	10759,76,2,1,130,317,585,16,2,1,263,1,10,177,1,11,1,135,932,584,1346,937,94,256,3015,1,169,14,22,1,65
 JUSTICE ACCOUNTABILITY Rank	10968
 JUSTICE AND LABOUR RELATIONS Request for Proposals	13037
 JUSTICE AND LABOUR RELATIONS Windhoek	13189
@@ -545,10 +548,10 @@ Jusiice	15397
 Juslet	15901
 Juslice	15429,9,123
 Jusqu'a	14540
-Jusqu'au	6877,1766,4650,1170,2976
+Jusqu'au	6877,1766,4650,1170,2976,2477
 Jusqu'en	14539,1608
 Jusqu'ici	2697,4677
-Jusqu'à	3795,4011,1464,4440,674,155,31,65,738,101,86,38,755,274,812,310,509
+Jusqu'à	3795,4011,1464,4440,674,155,31,65,738,101,86,38,755,274,812,310,509,1639
 Jusque	13290
 Jusque-là	3465,16175
 Jusquâ	18391
@@ -608,7 +611,7 @@ Justella O. Elle	6877
 Justement	2443,4384,2021,5640,1,1
 Justi	18111
 Justi-	539
-Justice	11,223,353,56,94,24,28,172,39,214,42,61,1,142,145,1,76,95,1,210,53,1,85,205,17,212,65,182,86,1,63,87,7,24,43,233,29,15,161,26,21,83,3,24,147,119,53,92,13,24,19,137,1,784,76,1,100,69,128,1,322,45,11,11,40,88,297,319,252,8,33,55,226,363,122,15,112,181,87,122,49,33,76,57,25,106,84,116,1,1,1,37,113,5,87,89,113,117,40,69,140,4,118,58,68,180,31,248,134,163,209,16,1,37,8,5,9,2,1,30,11,1,18,25,45,11,88,31,443,17,22,6,249,33,2,16,1,1,1,11,40,16,2,85,95,7,7,1,1,9,78,99,1,11,1,3,31,72,29,34,21,379,50,15,27,17,49,17,156,11,26,35,4,12,22,79,28,4,30,28,40,63,37,5,26,55,36,154,83,179,107,94,3,6,5,6,8,11,13,20,66,86,194,32,1,8,23,18,54,137,24,51,54,131,9,19,10,5,10,3,8,5,13,10,7,3,2,2,4,1,6,18,3,2,31,20,7,20,15,2,2,33,38,1,5,22,5,9,5,10,30,26,9,1,55,88,29,34,48,24,46,28,74,26,7,21,14,36,42,5,11,69,29,6,19,2,1,18,4,80,6,1,1,4,2,10,2,1,5,1,8,34,33,116,52,58,8,7,15,45,19,64,4,34,18,53,120,111,7,13,13,5,105,6,193,34,6,6,9,3,2,4,1,11,2,38,2,2,31,8,3,1,3,3,11,15,13,12,29,5,40,1,12,13,3,5,1,4,9,75,1,23,24,17,3,18,1,1,17,1,21,67,33,19,21,10,138,16,83,15,152,24,21,27,19,16,4,19,109,37,36,4,12,9,1,2,20,10,20,79,35,78,177,12,1,106,63,14
+Justice	11,223,353,56,94,24,28,172,39,214,42,61,1,142,145,1,76,95,1,210,53,1,85,205,17,212,65,182,86,1,63,87,7,24,43,233,29,15,161,26,21,83,3,24,147,119,53,92,13,24,19,137,1,784,76,1,100,69,128,1,322,45,11,11,40,88,297,319,252,8,33,55,226,363,122,15,112,181,87,122,49,33,76,57,25,106,84,116,1,1,1,37,113,5,87,89,113,117,40,69,140,4,118,58,68,180,31,248,134,163,209,16,1,37,8,5,9,2,1,30,11,1,18,25,45,11,88,31,443,17,22,6,249,33,2,16,1,1,1,11,40,16,2,85,95,7,7,1,1,9,78,99,1,11,1,3,31,72,29,34,21,379,50,15,27,17,49,17,156,11,26,35,4,12,22,79,28,4,30,28,40,63,37,5,26,55,36,154,83,179,107,94,3,6,5,6,8,11,13,20,66,86,194,32,1,8,23,18,54,137,24,51,54,131,9,19,10,5,10,3,8,5,13,10,7,3,2,2,4,1,6,18,3,2,31,20,7,20,15,2,2,33,38,1,5,22,5,9,5,10,30,26,9,1,55,88,29,34,48,24,46,28,74,26,7,21,14,36,42,5,11,69,29,6,19,2,1,18,4,80,6,1,1,4,2,10,2,1,5,1,8,34,33,116,52,58,8,7,15,45,19,64,4,34,18,53,120,111,7,13,13,5,105,6,193,34,6,6,9,3,2,4,1,11,2,38,2,2,31,8,3,1,3,3,11,15,13,12,29,5,40,1,12,13,3,5,1,4,9,75,1,23,24,17,3,18,1,1,17,1,21,67,33,19,21,10,138,16,83,15,152,24,21,27,19,16,4,19,109,37,36,4,12,9,1,2,20,10,20,79,35,78,177,12,1,106,63,14,22,1,28,10,27
 Justice A-Regulatory Sandbox A1-Legal	7548
 Justice A. Alagoa	7600
 Justice AJS	18286
@@ -907,7 +910,7 @@ Justificación Un	1701
 Justificatif	15885,741
 Justificatif du Rachat	17485
 Justificatifs	5753,5123,6609
-Justification	643,146,181,217,801,901,4070,3752,165,32,57,571,674,30,124,51,547,363,50,1226,892,3,4,39,3,131,177,362,424,111,153,15,128,71,26,704,39,2,17,81,303,172,27,46,358,71,25,377,279
+Justification	643,146,181,217,801,901,4070,3752,165,32,57,571,674,30,124,51,547,363,50,1226,892,3,4,39,3,131,177,362,424,111,153,15,128,71,26,704,39,2,17,81,303,172,27,46,358,71,25,377,279,281
 Justification Based	18531
 Justification Contexte	3381
 Justification Dans	16674,1309
@@ -1055,6 +1058,7 @@ Leta Minister of Justice and Attorney General Ministre	1214,13679,18,191,24,51
 License Plates Justice	16949
 Link Housing and Climate Justice	11285
 Local Courts and Justices	18477
+Local Justice	19874
 Logbook. Justice Patricia Mande	9646
 Ludovic NGATSE Léon Juste IBOMBO MINISTERE	15901
 Luminate. The Director of People-Centred Justice	15332
@@ -1130,7 +1134,8 @@ Minister Judith Nabakooba Deputy Chief Justice	5731
 Minister Léon Juste Ibombo	3676,87,14,936
 Minister for Justice	3352,16013
 Minister for Justice and Constitutional Affairs	3331,727,2972,234,5629
-Minister of Justice	3714,869,4483,58,275,704,1075,23,316,124,697,75,404,80,200,214,2,74,11,39,33,107,96,336,286,498,57,19,187,337,80,11,8,1805,97,911,290,3
+Minister of Justice	3714,869,4483,58,275,704,1075,23,316,124,697,75,404,80,200,214,2,74,11,39,33,107,96,336,286,498,57,19,187,337,80,11,8,1805,97,911,290,3,1262,32
+Minister of Justice Adnan El-Fangary	19892
 Minister of Justice Adnan Fangari	16004
 Minister of Justice Copy	14865
 Minister of Justice Mahmoud Helmy El-Sherif	16480
@@ -1164,15 +1169,17 @@ Ministries of Justice and Decentralisation	13681
 Ministries of Justice and Digital Transition	3052
 Ministries of Justice and Health	11586
 Ministries of Justice and Information	18727
+Ministries of Justice and Interior	19887
 Ministries of Justice and Interior. Speech-to-text	16046
 Ministries of Posts and Telecommunications and Justice	17280
 Ministries of Posts and Telecommunications and Justice. All	5994
 Ministro da Justiça	4147,1841,626,205,125,22,344,3440,1,1,1,721,1357,2572,664,1266
-Ministry Justice	12674
+Ministry Justice	12674,7213
 Ministry for Justice The Gambia Poverty and Gender	16951
 Ministry of Education and Ministry of Justice	13310
 Ministry of Foreign Ministry of Territorial Security Justice	10812
-Ministry of Justice	39,82,640,209,30,161,82,431,193,121,355,130,210,321,600,31,491,88,29,40,132,1,1,1,110,149,307,260,658,571,750,686,484,673,762,275,24,582,52,4,3,7,37,16,13,138,156,400,6,17,83,212,56,117,111,30,171,29,48,58,39,305,103,57,5,23,9,26,40,15,2,25,3,126,2,15,42,53,40,27,8,34,5,27,3,87,86,1,49,135,17,81,1,45,16,6,10,5,26,35,42,1,145,135,244,178,13,9,15,8,8,118,55,52,1,56,32,12,168,16,58,19,19,42,18,475,98,336,214,154,5,4,1,2,13,11,3,3,25,1,23,3,1,6,2,7,9,5,3,8,13,105,13,25,18,103,54,80,47,62,390,41,191,180,141,152,1,5,63,125,5
+Ministry of Interior. B Ministry of Justice	19887
+Ministry of Justice	39,82,640,209,30,161,82,431,193,121,355,130,210,321,600,31,491,88,29,40,132,1,1,1,110,149,307,260,658,571,750,686,484,673,762,275,24,582,52,4,3,7,37,16,13,138,156,400,6,17,83,212,56,117,111,30,171,29,48,58,39,305,103,57,5,23,9,26,40,15,2,25,3,126,2,15,42,53,40,27,8,34,5,27,3,87,86,1,49,135,17,81,1,45,16,6,10,5,26,35,42,1,145,135,244,178,13,9,15,8,8,118,55,52,1,56,32,12,168,16,58,19,19,42,18,475,98,336,214,154,5,4,1,2,13,11,3,3,25,1,23,3,1,6,2,7,9,5,3,8,13,105,13,25,18,103,54,80,47,62,390,41,191,180,141,152,1,5,63,125,5,1057,9,5,19,8,5,20
 Ministry of Justice CHAPTER I PRELIMINARY PROVISIONS	18602
 Ministry of Justice CHAPTER XIII	18601
 Ministry of Justice Foreign Affairs	1777
@@ -1208,6 +1215,7 @@ Ministry of Justice and Liberties	17441
 Ministry of Justice and Liberties Contact	17441
 Ministry of Justice and Ministry of Interior	761
 Ministry of Justice and Ministry of Revenues	7909
+Ministry of Justice and Real Estate Taxation Department	19852
 Ministry of Justice and Security. This ToR	13997
 Ministry of Justice and UNICEF	18873
 Ministry of Justice's Real Property Registry	12137
@@ -1513,7 +1521,7 @@ Vice Chancellor Professor Justice Thwala	13182
 Vice President Justice Dr. Jane Mayemu	13095
 Vocal Consejo General de Justicia Secretario Consejo	4209
 Vocal de Mesa Magistrado Corte Suprema Justicia	4209
-WJP World Justice Project	11887,266,1,9,178
+WJP World Justice Project	11887,266,1,9,178,7517,1
 Week of Justice	5000
 Women's Empowerment Just	12336
 World Justice Project	19653,183

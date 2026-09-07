@@ -243,7 +243,7 @@ Demand Forecast Model	18614
 Demand and Supply Forecasts	19646
 Departamento Forestal Miriam Minerva ONDO MBANG	16875
 Department Oumar Konté ANACIM Head of Forecasting	18309
-Department of Foreign Affairs and Trade	11868
+Department of Foreign Affairs and Trade	11868,7986
 Department of Foreign Affairs and Trade of Australia	15620
 Department of Foreign Affairs of Seychelles	18957
 Department of Forest Carbon Harvesting	17140
@@ -548,7 +548,7 @@ Forecasts for LTE	236
 Forefront	17106,81,79
 Forefront of Environmental Action Across UNDP Namibia	9873
 Forefront of Transformation Videos Rising Up for SIDS	11332
-Foreign	7,229,159,2002,62,317,50,87,157,417,96,71,391,81,1,455,359,28,13,262,411,209,544,15,246,268,1,12,598,668,85,539,64,32,107,356,171,23,37,22,20,67,284,107,27,178,403,55,6,42,139,151,2,1,2,54,34,74,171,55,26,142,231,32,1,44,6,36,109,24,52,42,1,45,98,7,25,45,6,272,3,33,78,142,29,148,113,32,11,30,74,71,13,323,80,9,28,23,16,108,75,214,315,48,1,8,103,101,61,44,34,43,163,278,592,25,614,1,90,18,12,6,160,11,87,21,164,274,78,490,181,9,88,56,200,244,324,167,10,60,30,23
+Foreign	7,229,159,2002,62,317,50,87,157,417,96,71,391,81,1,455,359,28,13,262,411,209,544,15,246,268,1,12,598,668,85,539,64,32,107,356,171,23,37,22,20,67,284,107,27,178,403,55,6,42,139,151,2,1,2,54,34,74,171,55,26,142,231,32,1,44,6,36,109,24,52,42,1,45,98,7,25,45,6,272,3,33,78,142,29,148,113,32,11,30,74,71,13,323,80,9,28,23,16,108,75,214,315,48,1,8,103,101,61,44,34,43,163,278,592,25,614,1,90,18,12,6,160,11,87,21,164,274,78,490,181,9,88,56,200,244,324,167,10,60,30,23,218,14,14
 Foreign AI	4528,7984
 Foreign Account Tax Compliance Act	6524,1,5160
 Foreign Adversaries Act	11154
@@ -676,6 +676,7 @@ Foreign Investor	14024
 Foreign Investors	6408
 Foreign Judgments	17745
 Foreign Launch Providers Africa	8275
+Foreign Law Enforcement Agencies	19895
 Foreign Limited Liability Partnership	18556
 Foreign Loans	13093
 Foreign Loans and Grants	15790
@@ -710,7 +711,7 @@ Foreign Ministers. Functional	16331
 Foreign Ministers’ Session	18378
 Foreign Minister’s Session	16275,966
 Foreign Ministries	16331,318
-Foreign Ministry	14853,2172
+Foreign Ministry	14853,2172,2848
 Foreign Ministry Asks Diplomatic Missions for Staff	10496
 Foreign Ministry and Chinese Ambassador	4630,50,637
 Foreign Missions	12496,4105,424,1551
@@ -721,6 +722,7 @@ Foreign Nationals	12342,682
 Foreign Nationals Committed	2775
 Foreign Nationals Registered	2775
 Foreign Nationals Residing	19041
+Foreign Nationals Visitors	19867
 Foreign Office Consultation	17240,1,1322,95,33
 Foreign Office Consultations	2667,9950,944,1,2675,40,54,318,591,776,547,95,33
 Foreign Office Consultations India’s Economic Assistance	16275
@@ -835,6 +837,7 @@ Forensic Examiner	15662
 Forensic Expert	18675
 Forensic Investigation	12956
 Forensic Lab	3337,1907
+Forensic Medicine	19887
 Forensic Psychiatric	13040
 Forensic Science	13474
 Forensic Science Laboratory	7845,6897,86,2,13,4
@@ -847,6 +850,7 @@ Forensic Support Officer	14742
 Forensic Technologists Cadre	14742
 Forensic Tool	26,18649
 Forensics	1000,8123,9552,7
+Forensics Department. Sample	19854
 Forensics Division Division Compliance Division Enforcement	6946
 Forensics Group Publications	12361
 Forensics Investigation Incident	9123
@@ -985,7 +989,7 @@ Forestry and Tourism	9353
 Forestry and Wildlife Authority	14089,54
 Forestry-based	17043
 ForestryFraud	11215
-Forests	1988,8771,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1074,1567,243,101,128,1013,239,143,144,1711,36,765,1,169,14
+Forests	1988,8771,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1074,1567,243,101,128,1013,239,143,144,1711,36,765,1,169,14,22,1,65
 Forests Act	13403,6121
 Forests Act No.4	1988
 Forests Land	10837,1315,188
@@ -1334,6 +1338,7 @@ Minister of Foreign Trade and Export Promotion	2131,1682,1639
 Minister of Foreign Trade and Minister	12026
 Minister of Forestry	14673
 Minister of Interior and Acting Foreign Minister of Comoros	13744
+Minister of Investment and Foreign Trade	19912
 Minister of Investment and Foreign Trade Mohamed Farid	8770
 Minister of National Economy Represented Foreign Minister	16285
 Minister of State for Foreign Affairs	8982,376
@@ -1478,6 +1483,7 @@ Net Foreign Assets NFES National Financial	15023
 Net Foreign Direct Investment	5247
 Netherlands Ministry of Foreign Affairs	14103,1093
 Netherlands' Foreign Minister Prime Minister and Minister	16114
+Netherlands' Ministry of Foreign Affairs	19921
 News Foreign	3962
 Newsfeed Foreign	5055
 Newton Tower Ministry of Foreign Affairs and International	14746
@@ -1809,7 +1815,7 @@ Under Secretary for Foreign Assistance	17110
 Unified Economic Number Project Foreign	3826,1438
 Union FDI Foreign Direct Investment GDPR	12675
 Union for Foreign Affairs and Security Policy	11155,7561
-United Kingdom Foreign	10768,3299,75,4435
+United Kingdom Foreign	10768,3299,75,4435,1312
 United Kingdom Foreign Commonwealth Development Office	18488,89
 United Kingdom Foreign and Commonwealth Development	18488,12
 United Kingdom's Foreign	6426,7111,1522,949,762

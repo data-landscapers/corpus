@@ -24,10 +24,12 @@ ALGER-GARE Tél	15432,24,11,40,27,60,8,6,82,42,15,20,96,67,3,10,142,86,59,33,59,
 ALGER-GARE Vu	16344
 ALGERIA	15930,1508
 ALGERIA ALGERIA	15679
+ALGERIA Algeria Multi-year Strategy	19902
 ALGERIA BURUNDI COMOROS DJIBOUTI EGYPT GAMBIA	17242
 ALGERIA DIGITAL BRIEF	8637
 ALGERIA DIGITAL BRIEF CARE	8637
 ALGERIA DIGITAL BRIEF Une	8637
+ALGERIA LAND SECTOR	19874
 ALGERIA LIVE SOON	11002
 ALGERIA TABLE OF CONTENTS PREAMBLE	15679
 ALGERIE Digitalisation	16482
@@ -39,6 +41,8 @@ ALGERIE TELECOM S.P.A	15885
 ALGERIENNE Chapitre I Des	15360
 ALGERIENNE DEMOCRATIQUE ET POPULAIRE CONVENTIONS ET	15747,20,318,86,59,33
 ALGERIENNE N	15467,265,15,20,96,80,142,178
+ALGIERS	19913
+ALGIERS Algeria	19917
 ALGOINFOSYS LTD Data Controller INST-60281813B0E NAKURU	7167
 ALGOINFOSYS LTD Data Processor INST-60281813B0E NAKURU	7167
 ALGON	7664,3040,422,3,920,2,6088,123,4
@@ -78,7 +82,7 @@ Algebra Ventures	4453,4,2071
 Algedi Intelligence Labs	9944
 Algemene Kennisgewings	11235
 Algemene Kennisgewings DRAFT SOUTH AFRICA NATIONAL	11265
-Alger	3157,501,197,273,56,42,177,552,216,280,302,442,21,59,145,537,74,916,746,198,353,986,165,1104,147,1796,759,38,1107,1,13,34,16,13,9,24,11,40,35,3,10,13,26,8,5,1,77,5,8,34,15,20,96,19,3,12,10,23,3,10,6,36,100,14,25,24,1,12,10,59,33,32,27,22,5,6,26,71,427,1103,1186
+Alger	3157,501,197,273,56,42,177,552,216,280,302,442,21,59,145,537,74,916,746,198,353,986,165,1104,147,1796,759,38,1107,1,13,34,16,13,9,24,11,40,35,3,10,13,26,8,5,1,77,5,8,34,15,20,96,19,3,12,10,23,3,10,6,36,100,14,25,24,1,12,10,59,33,32,27,22,5,6,26,71,427,1103,1186,723,14
 Alger BADR	15732,131,67,13
 Alger L’administration	10230
 Alger MINISTERE DE LA POSTE ET	16344
@@ -107,28 +111,36 @@ Alger. Section	16879
 Alger. TITRE	15467
 Alger. Un	10230
 Alger. Une	9497,5913
-Algeria	236,618,159,200,30,33,67,20,451,28,44,4,25,209,7,21,110,144,14,26,53,43,25,50,65,40,53,7,8,12,36,7,113,10,189,62,2,57,8,56,11,4,83,169,55,5,30,65,11,38,18,22,6,12,1,5,4,2,45,45,4,10,65,33,66,17,10,17,82,100,156,26,24,1,1,2,1,8,138,21,5,49,70,1,3,4,15,53,7,3,7,2,32,33,73,55,103,8,11,18,33,36,15,61,11,42,79,1,79,52,26,21,107,31,40,11,1,102,72,3,74,39,65,18,221,18,48,16,28,90,26,19,33,113,121,68,189,136,226,29,59,27,91,10,56,12,84,85,297,178,222,208,1,207,459,204,471,136,200,45,26,50,3,8,122,9,14,333,76,77,95,37,54,129,78,13,3,1,2,264,1,9,178,11,1,135,596,286,770,49,16,692,100,169,294,11,133,75,55,26,2,81,1,2,40,51,342,52,334,380,112,146,135,118,81,106,163,19,9,6,185,451,831,20,19,119,88,169,14
+Algeria	236,618,159,200,30,33,67,20,451,28,44,4,25,209,7,21,110,144,14,26,53,43,25,50,65,40,53,7,8,12,36,7,113,10,189,62,2,57,8,56,11,4,83,169,55,5,30,65,11,38,18,22,6,12,1,5,4,2,45,45,4,10,65,33,66,17,10,17,82,100,156,26,24,1,1,2,1,8,138,21,5,49,70,1,3,4,15,53,7,3,7,2,32,33,73,55,103,8,11,18,33,36,15,61,11,42,79,1,79,52,26,21,107,31,40,11,1,102,72,3,74,39,65,18,221,18,48,16,28,90,26,19,33,113,121,68,189,136,226,29,59,27,91,10,56,12,84,85,297,178,222,208,1,207,459,204,471,136,200,45,26,50,3,8,122,9,14,333,76,77,95,37,54,129,78,13,3,1,2,264,1,9,178,11,1,135,596,286,770,49,16,692,100,169,294,11,133,75,55,26,2,81,1,2,40,51,342,52,334,380,112,146,135,118,81,106,163,19,9,6,185,451,831,20,19,119,88,169,14,22,1,6,9,4,2,1,13,6,2,2,4,1,8
 Algeria ARB LMI	17743
 Algeria Adopts	5307
 Algeria Adopts New Cybersecurity Framework	4760
+Algeria Advances National Addressing Project	19894
 Algeria Aims for Full Digital Transformation	2845
+Algeria Algeria	19865
 Algeria Andorra Belarus Bhutan Botswana Brunei	10764
 Algeria Appoints Expert Panel	3831
 Algeria Approves Law	3877
 Algeria Argentina	10714
 Algeria Bets	2790
+Algeria By Quantum Media	19909
 Algeria Climbs	3219,2059
 Algeria Council of Europe	1276
+Algeria Country Report. Africopolis	19874
 Algeria Digital	15679
 Algeria Digital Brief	8720,777
 Algeria Digitizes Degree Recognition Through National	6747
+Algeria E-mail	19900
 Algeria Extension of National ICT Broadband Backbone	14913
 Algeria FY2026	4584,1,1,1
+Algeria GII Ranking	19865
 Algeria GOAL TO ACHIEVE	15679
 Algeria Gate	14201
 Algeria H2	10840
 Algeria Is The Most Likely	6326
 Algeria Launches Four New Digital Platforms	5167
+Algeria Launches National Agricultural Information System	19917
+Algeria Launches Pilot Digital Services Platform	19913
 Algeria Launches Sectoral Cyber Incident Response	6657
 Algeria Legislative Decree	15760
 Algeria Mme Meriem Benmouloud Minister	15679
@@ -136,6 +148,7 @@ Algeria Moves	4596
 Algeria Moves Business Registration Stamp Duties	4377
 Algeria Moves Toward	3764
 Algeria N	10714
+Algeria National Cadastre Overview Assessment	19874
 Algeria Opens Dual Data Center Infrastructure	7127
 Algeria PAPSS	3440
 Algeria Post	1343,1943
@@ -146,6 +159,7 @@ Algeria Real Time Settle-	6938
 Algeria Real Time Settlements	15863
 Algeria Sets One-Month Deadline for Government Data	6678,209,414,15,8
 Algeria Smart Grid	16103
+Algeria Strategy	19900
 Algeria Strengthens Cybersecurity Framework	4755
 Algeria Strengthens E-Governance	3278
 Algeria Telecom	2446,832,1780
@@ -156,6 +170,7 @@ Algeria Unveils First AI and Cybersecurity Start-up	5870
 Algeria Venture	3157,656,2197,620,8669
 Algeria Venture and Taubyte TechAfrica News	6010
 Algeria Waives IPO Fees for Startups	4887
+Algeria Within	19900
 Algeria X Angola X Bahrain X	11005
 Algeria Yes E-Algérie	11529
 Algeria and Cameroon	3157
@@ -168,52 +183,74 @@ Algeria and Nigeria	4583
 Algeria and South Korea. South Korean	6657
 Algeria and Tunisia	6547,2281
 Algeria and Tunisia Expand Cooperation	6547
+Algeria and Tunisia. Doctoral Dissertation	19874
+Algeria and Türkiye	19874
 Algeria and UNDP Sign Agreement	3881
 Algeria for Speed	3699
 Algeria's AI	9703
 Algeria's Connectivity Revolution	2262
+Algeria's Contribution	19904
 Algeria's Council of Ministers	3883
 Algeria's DPA	6792
 Algeria's DPI	5953
 Algeria's Digital Projects	2420
+Algeria's Electoral Authority Turns	19908
 Algeria's Electronic Payment Market Surpasses	6204
+Algeria's Engagement	19904
 Algeria's FNI	3609
 Algeria's High Commission for Digitalization	3871,10
+Algeria's ICT Development Index	19880
 Algeria's Independence Day	7127
 Algeria's Justice Minister Lotfi Boudjemaa	5039
 Algeria's MADAR Eyes Cameroon Banana	4769,394,334,86
 Algeria's Minister of Post and Wire and Wireless Transport	3669
 Algeria's Minister of Posts and Telecommunications	7254
 Algeria's Ministry of Post and Telecommunications	2968,1200,5739
+Algeria's National Agency for Cadastre	19874
 Algeria's National Data Center	5407,676
 Algeria's National Digital Payment Strategy	3286
 Algeria's National Digital Services Center	7316
 Algeria's National Digital Transformation Strategy	2845
+Algeria's National Independent Authority for Elections	19908
 Algeria's National Investment Fund	3609
+Algeria's National Solidarity	19913
+Algeria's Overall Governance	19858
 Algeria's Postal and Telecommunications	4533
 Algeria's Prime Minister	5585
+Algeria's R&D&I	19904
 Algeria's State Fund Backs New Tech	3609
 Algeria's Telecom Minister Inspects SATICOM	3669
 Algeria's Yassir Buys Uno Hypermarkets	5397
 Algeria-China	4880
 Algeria-Mali	11149
 Algeria-startup-ecosystem	6127
+Algeria. Afak Journal of Management and Economic Sciences	19900
 Algeria. All Rights Reserved. Page	16331
 Algeria. Copyright	16331
 Algeria. Defines	15760
 Algeria. Djezzy	5278
+Algeria. Freedom House	19874
+Algeria. Funding	19900
+Algeria. Journal of Legal and Political Sciences	19900
+Algeria. Journal of Legal and Political Studies	19900
 Algeria. Kamal Badari	5167
 Algeria. Latest	2262
 Algeria. Migrants	16874
 Algeria. Official	2533
 Algeria. Prime Pharmaceuticals and BDR Pharmaceuticals	16331
 Algeria. Thank	16279
+Algeria. Though	19878
+Algeria. UNHCR	19902
+Algeria. Using	19900
 Algeria. We're	5278
 Algeria.pdf	1276
-Algerian	2131,21,254,40,96,75,165,20,43,441,56,267,26,29,95,72,46,96,79,126,99,144,112,55,167,125,7,391,11,87,21,55,449,109,194,122,221,200,284,28,195,62,1512,209,870,1756,4016,55,28,517,52,1306,2,301
+Algerian	2131,21,254,40,96,75,165,20,43,441,56,267,26,29,95,72,46,96,79,126,99,144,112,55,167,125,7,391,11,87,21,55,449,109,194,122,221,200,284,28,195,62,1512,209,870,1756,4016,55,28,517,52,1306,2,301,1926,8,4,16,6,2,2,5
 Algerian Constitution	15679
 Algerian Dinar	2968,1200
+Algerian Dinars	19894
+Algerian Educational Institutions	19881
 Algerian FY2026	4421,164
+Algerian Government	19902
 Algerian High Commission for Digitalisation	5584,158
 Algerian Investment Promotion Agency	2542
 Algerian Minister of Post and Telecommunications	3286
@@ -230,7 +267,11 @@ Algerian National Center for Digital Services	15882
 Algerian National Radio	16331
 Algerian Police YouTube	4052
 Algerian President Abdelmadjid Tebboune	2542,2338,2247
-Algerian Space Agency	16331
+Algerian Red Crescent	19902
+Algerian Sahara	19874
+Algerian Sahara Desert. Approximately	19874
+Algerian Sands	19874
+Algerian Space Agency	16331,3563
 Algerian Startup Fund	4277
 Algerian State	15762,517
 Algerian States	5289
@@ -238,12 +279,15 @@ Algerian Statistical System	15760,411
 Algerian Statistical System URL	15760
 Algerian Tassili and Djanet Mountains	16956
 Algerian Telephone Industry Company	5901
+Algerian Venture	19904
 Algerian and Ivorian	3973
+Algerian and Mexican	19874
 Algerian-Italian	6326
 Algerian-Niger Joint Grand Committee for Cooperation	5585
 Algerian-founded	4277
 Algerian-press	4955
-Algerians	4178,934,1131,10036
+Algerians	4178,934,1131,10036,3595
+Algerians. Real	19874
 Algeria’s AI Research and Innovation Strategy	1814
 Algeria’s Ambassador	17637
 Algeria’s Water and Sanitation Company	8428
@@ -256,8 +300,9 @@ Algerie du Nord	15907
 Algerie360	10230
 Alghanib	15244
 Alghanib Rural	15244
-Algiers	2617,221,130,253,219,391,364,82,993,314,2,239,45,83,174,116,414,659,477,157,488,768,4996,711,766,448,204,437
+Algiers	2617,221,130,253,219,391,364,82,993,314,2,239,45,83,174,116,414,659,477,157,488,768,4996,711,766,448,204,437,3106,20,8,2,9
 Algiers Declaration	5586
+Algiers I University	19909
 Algiers International Fair	16331
 Algiers Peace Accord	17883
 Algiers Province	7127
@@ -266,9 +311,11 @@ Algiers Targets Export Growth With National	5452
 Algiers Tightens Trade Controls	5505
 Algiers URL	16127
 Algiers and Blida	7127,189
+Algiers-based Sahrawi Refugee Partners	19902
 Algiers. Designed	3775
 Algiers. Kamel Rezig	5452
 Algiers. Kenya	5584
+Algiers. UNHCR	19902
 Algocracies	2096
 Algodoeiro	15388
 Algodón	1701
@@ -335,7 +382,7 @@ AlgÈrie TÈlÈcom Satellite S.P.A	15394
 AlgÈrie. Art	15394
 AlgÈrie. Il	15394
 Algèbre	8721,10645
-Algérie	1189,58,1267,643,363,322,125,22,50,145,42,141,98,373,117,204,12,280,1,301,13,231,198,46,83,95,18,2,174,148,198,72,154,1,97,166,13,255,155,75,690,83,35,325,62,102,253,351,173,210,164,120,173,914,45,16,1779,759,38,124,40,944,34,51,2,33,5,35,27,11,10,13,26,8,5,1,7,75,8,34,15,20,87,9,14,8,22,23,3,10,80,11,30,21,63,1,9,105,32,27,12,47,96,5,14,81,203,46,257,302,312,120,13,13,2,28,6,149,52,25,13,46,78,15,8,45,1087
+Algérie	1189,58,1267,643,363,322,125,22,50,145,42,141,98,373,117,204,12,280,1,301,13,231,198,46,83,95,18,2,174,148,198,72,154,1,97,166,13,255,155,75,690,83,35,325,62,102,253,351,173,210,164,120,173,914,45,16,1779,759,38,124,40,944,34,51,2,33,5,35,27,11,10,13,26,8,5,1,7,75,8,34,15,20,87,9,14,8,22,23,3,10,80,11,30,21,63,1,9,105,32,27,12,47,96,5,14,81,203,46,257,302,312,120,13,13,2,28,6,149,52,25,13,46,78,15,8,45,1087,482,12,6,1,13,5
 Algérie Art	15594,153
 Algérie Assure	15568
 Algérie Clearing	4887
@@ -346,9 +393,9 @@ Algérie L’adresse	15555
 Algérie MICLAT Révision	16103
 Algérie Ministère	16482
 Algérie Mme. Mahinur	15594
-Algérie Poste	4584,3,1,1365,44,207,4026,5633,459,761
+Algérie Poste	4584,3,1,1365,44,207,4026,5633,459,761,2828
 Algérie Poste's CCP	4587
-Algérie Presse Service	5452,3185,6723,96,78,301,47,92,41,20,29,17,130,122,57,151
+Algérie Presse Service	5452,3185,6723,96,78,301,47,92,41,20,29,17,130,122,57,151,3353
 Algérie Presse Service URL	15835,37,77,132,130,67,110,2,151
 Algérie Section	15594
 Algérie Si	16034
@@ -425,6 +472,7 @@ Ayang Macdonald The Algerian	3928
 Bank of Algeria	1915,1525
 Bank of Algeria ATCI	6938
 Ben Aknoun Alger Tél	15421
+Benchmark of Algeria	19865
 Bias Detection Algorithm	15713
 Blida Algerie Eco	16750
 Bounè ALGUIMARET LTN EMGA	17841
@@ -441,6 +489,7 @@ Chlef Béjaïa Blida Tizi Ouzou Alger	15690
 Conclusion Algorithmic	7966
 Conclusion Significant Strides Algeria	15760
 Connected Algeria	15762
+Constitution of Algeria	19874
 Contesting Dominant Algorithmic Imaginaries	11028
 Countries Missing Primary Text Algeria	7707
 Country Director for Algeria	16902
@@ -473,19 +522,23 @@ Djezzy and Ooredoo. Algeria	4195
 Données Ouvertes Liées Algériennes	15407
 Doordarshan and Algerian National Television	16331
 Dr. Medhat ElHusseiny Ooredoo Algeria	3699
+Démographie Algérienne	19874
 E&E Algeria Touat B.V	16171
 EVOLUÇÃO DOS PREÇOS MÉDIOS DE ALGUNS	18757
 Effect of Algorithmic Manage	18318
 Egypt and Algeria	11324
+Electronic Algeria	19900
+Embassy of Algeria	19866
 Embassy of India Algiers	16331
 Embassy of India Algiers INDIA-ALGERIA RELATIONS Diplomatic	16331
-En Algérie	5766
+En Algérie	5766,14131
 Energies EP Algérie	15930
 Eni Algeria Exploration B.V	15930
 Equip Auto Algeria	16331
 Estimated. Algebra Ventures	4453
 Ethiopia Algeria Street	4349
 Ethiopia South Africa Morocco Algeria Egypt	19633
+Executive Summary In Algeria	19902
 FY2026 Algerian	4585
 Fathi Ahmed M ALGHEZZALI Wafa Hadia	17403
 Four Dimensions of Algorithmic Institutions	7966
@@ -495,13 +548,14 @@ Frontière Algérienne	17824
 Fundo De Inteligência Artificial Alguns	2816
 Fuzzy Logic Algorithm	8604
 Fuzzy Matching Algorithm Good Score	8604
+GII Index Algeria	19865
 GREEN ENERGY CLUSTER ALGERIA Nouveau	16103
 Genetic Algorithms. MIT Press. Mkoba	2816
 Given Algeria	16279
 Gombe. Representing ALGON	18139
 Governance of AI-Based Algorithms	4253
 Governance of AI-based Algorithms	4253
-Government of Algeria	6127
+Government of Algeria	6127,13747
 Government... Algerian	5951
 Grande Commission Mixte Algéro-Nigérienne	18214
 Groupe Algamil	4774
@@ -520,8 +574,10 @@ Idle Algorithms	7909
 Incidência de Algumas Doenças de Declaração Obrigatória HAM	18768
 India and Algeria	16331
 Industrie Bel Algérie CACQE LFB ITELV	16103
+Infrastructure. Algeria	19865
 Institut Algérien de Normalisation	15555
 Instruments Algeria Algeria ARTS	6938
+Interior and Local Authorities of Algeria	19900
 Investment Algorithms	4848
 Islands Albania Algeria American Samoa Andorra	11470,7872
 Italy and Algeria	3342,3431
@@ -552,6 +608,7 @@ MRP SALHI Samir Algérie Police	15472
 Maroc. Algérie	18332
 Mathematics Algorithm and Complexity Data Collection	15789
 Mauritanie Maroc Algérie Tunisie Libye Egypte	17879
+Mediterranean Sea. Algiers	19874
 Membres Afrique du Sud Algérie Angola Bénin	15724
 Min Read Algérie Télécom CEO Adel	3342
 Minimizing Algorithmic Bias and Discrimination	1161
@@ -573,10 +630,12 @@ National President of ALGON	12049
 News Digital Algeria Orders Public Services	5407,676
 Niger. Algeria's Minister of Posts and Telecommunications	5585
 Norme Algérienne. Dans	15555
+Northern Africa and Western Asia. Algeria	19865
 Nouveau Thème Algérie Poste	16103
 OPTIMUM TELECOM ALGERIE S.P.A	15885
 OXXO ALGERIE	15885
 OXXO ALGERIE Article	15885
+Official Gazette of Algeria	19900
 Omnium Télécom Algérie	15943
 Ooredoo Algeria	2152,650,166,253,478,60,409,10,724,474,15,273
 Ooredoo Algeria CEO Roni Tohme. Ooredoo	5376
@@ -593,17 +652,20 @@ Optimum Télécom Algérie Spa	15885
 Optimum Télécom Algérie URL	15943
 Outputs Algorithmic	7966
 Ouzou Alger Djelfa Jijel Sétif Saïda	16085
+Overview Algeria	19874
+Overview of Algeria	19865
 PNUD Algérie	16334
 PNUD Algérie Dans	16334
 PQMCDU A LA SOCIETE ALGERIE TELECOM	15885
 PT Pertamina Algeria Eksplorasi Produksi	15930
 PTTEP Algeria Company Limited	15930
 Pan African Visions AlgeriaAngolaBenin Dangote Launches	9989
-People's Democratic Republic of Algeria	8645,7292,1501
+People's Democratic Republic of Algeria	8645,7292,1501,2436,26
 People's National Army of Algeria	16331
 Perform Algorithmic Impact Assessment	14441
 President and CEO of Algeria Telecom	3278
 President of Algeria	5112
+President of Algeria's National Chamber of Agriculture	19880
 Proclamation of Independence of Algeria	16331
 QUALILAB Algérie Télécom P NA ISO	16103
 R Algoritmos	18774
@@ -633,6 +695,7 @@ Secure Decentralized Algerian E-Voting	2722
 Secure and Decentralized Algerian E-Voting System Based	2722
 Session2 ALGERIA.pdf	15760
 Shaping Algeria's Digital Economy	3699,1692
+Situation Analysis Algeria	19902
 Slougui Algérien	16103
 Slougui Algérien Nouveau Thème	16103
 Small Language Models Algorithms Small	12210
@@ -647,6 +710,7 @@ Support Algeria's Push for Digital Transformation	3871
 Síntese de Algoritmos	12019
 TSA Algérie VOLZ	4277
 Theapplicationoftheanalysismethodisshownin Algorithm4	8606
+Tindouf and Algiers	19902
 Training and Education Algeria	5952
 Tunisia and Algeria	16916
 UMc Algeria Africa Northern Africa Algiers	10840
@@ -655,6 +719,7 @@ Under the Algerian	5376
 Understanding the Risks of Algorithmic Bias	8747
 Unified Social Registry. Algeria	10991
 United Arab Emirates Bahrain Algeria Egypt	15725
+United States of America and Algeria	19900
 University of Algiers	4151
 University of Science and Technology of Algiers	15679
 Université Alger	9244
@@ -671,6 +736,7 @@ Wataniya Télécom Algérie	2152,13733,58
 Wataniya Télécom Algérie S.P.A	15885,58
 Wataniya Télécom Algérie SPA	15885,58
 Wataniya Télécom Algérie Spa	15885
+Western Algerian	19874
 Workflow and Algorithm Services Digital Health Applications	396
 World AI Conference Algeria	2311,24,2424,534,613,107,100,280,14,352,339,157,80
 York Algorithmic Pricing Disclosure Law	14601

@@ -162,7 +162,7 @@ Automated Decision	7548
 Automated Decision Making	8436,3520
 Automated Decision Management System	17255
 Automated Decision Management System for Climate Services	17155,100
-Automated Decision-Making	7548,11008
+Automated Decision-Making	7548,11008,1339
 Automated Individual Decision Making	12185
 Autorité DECISION N	18032
 Autorité de Régulation DECISION N	15885
@@ -274,6 +274,7 @@ Cabinet Decision	12946,1807,2992
 Cabinet Decision No	12984,113
 Cabinet Decisions	14721,148
 Cabinet Decisions Cabinet Business	7760
+Cabinet Decree	19890
 Cabinet of Ministers of Libya. Cabinet Decision No	16902
 Cafe One Instagram Decide	7396
 Cairo Declaration	15332
@@ -722,6 +723,7 @@ Dec-2022 Comments	15601
 Dec-2022 Completion	15601
 Dec-2022 Delayed Completion Measurement Financial	17505
 Dec-2022 E&S	16032
+Dec-2022 Expected Closing Date	19855
 Dec-2022 Formally Revised Target	15601
 Dec-2022 Formally Revised Target Actual Achieved	15601
 Dec-2022 Mid-Term Review No	12440
@@ -799,6 +801,7 @@ Dec-2025 Yes Sep	4688
 Dec-2025. Borrower	13897,141
 Dec-2025. RATINGS SUMMARY	15990
 Dec-2026	11469,751,220,2496,683,1381,505,453
+Dec-2026 Bank	19855
 Dec-2026 Comments	15619
 Dec-2026 Cumulative	15619
 Dec-2026 Cumulative Disbursements Restructuring History	15619
@@ -906,7 +909,7 @@ Decarbonizing World	16996
 Decashing	19406
 Decastro95	12478
 Dece-2023	17257
-Deceased	2775,9418,180,123,37,1,1110,1073
+Deceased	2775,9418,180,123,37,1,1110,1073,5170
 Deceased Taxpayer	4449
 Deceased. The Ministry of Foreign Affairs	12496
 Decedents Estates Law	17296
@@ -935,10 +938,10 @@ Decennial Population and Housing Census	19526
 Decennial Review	16436
 Decent	789,4457,1958,4659,1101,6751
 Decent Dwelling for Every Family Honourable	14748
-Decent Housing	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,3175,3989,1,169,14
+Decent Housing	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,3175,3989,1,169,14,22,1,65
 Decent Housing Absence of Armed Conflict	10838
 Decent Jobs PRESS RELEASE	14092
-Decent Life	1902,2146,3349,2227,2114,3840,147,321,3
+Decent Life	1902,2146,3349,2227,2114,3840,147,321,3,3819,17
 Decent Life Initiative	15578,31,296
 Decent Life Initiative Phase.pdf Implementation	15578
 Decent Life Initiative’ First Phase	15578
@@ -1018,7 +1021,7 @@ Decentralization. GDU	16971
 Decentralization. The Bureau of Vital Statistics	16971
 Decentralize	12970
 Decentralize Digital Services	19698
-Decentralized	2521,659,249,939,974,1524,210,294,1235,1697,512,192,566,880,643,323,719,798,203,18,569,1414,1162,1533
+Decentralized	2521,659,249,939,974,1524,210,294,1235,1697,512,192,566,880,643,323,719,798,203,18,569,1414,1162,1533,53
 Decentralized AMR	16971
 Decentralized Administrative Entities	13418
 Decentralized CRVS	12250
@@ -1059,7 +1062,7 @@ Decimal	736,11624
 Deciphering	17157
 Deciphering Ethiopia	3176
 Decis	766,453,42,2530
-Decision	27,735,199,11,235,36,18,443,284,303,484,138,543,671,986,116,596,598,9,649,371,482,21,58,589,465,1268,821,21,4,616,63,366,112,210,81,356,55,71,67,141,2,140,1,104,95,452,440,23,18,64,59,63,45,155,51,71,24,285,62,5,36,36,351,78,34,642,271,16,9,60,8,138,17,113,30,114,103,336,100,348,147,13,199,253,55,82,19,198,240,1,1,1,101,35,176
+Decision	27,735,199,11,235,36,18,443,284,303,484,138,543,671,986,116,596,598,9,649,371,482,21,58,589,465,1268,821,21,4,616,63,366,112,210,81,356,55,71,67,141,2,140,1,104,95,452,440,23,18,64,59,63,45,155,51,71,24,285,62,5,36,36,351,78,34,642,271,16,9,60,8,138,17,113,30,114,103,336,100,348,147,13,199,253,55,82,19,198,240,1,1,1,101,35,176,21,40
 Decision Advantage	10566
 Decision Authority	4528,3755,4229
 Decision Authority. Stage	8283
@@ -1165,7 +1168,7 @@ Declaragio de Receitas Eventuais	17111
 Declarant	12226,428
 Declarants	17367
 Declarar	10783,668,7,443,3487,3363
-Declaration	736,225,303,613,240,565,157,744,945,1524,334,551,515,341,32,125,510,1047,1305,2,8,1,18,170,129,14,29,5,5,105,579,113,211,17,8,71,41,158,16,18,1,109,40,215,142,152,107,1,106,95,1216,1,4,4,19,9,99,58,18,446,106,106,317,38,38,167,699,4,27,77,66,51,33,7,142,68,1031,9,101,7,1,65,5,152,65,133,6,36,105,151,52,440,35,18,104
+Declaration	736,225,303,613,240,565,157,744,945,1524,334,551,515,341,32,125,510,1047,1305,2,8,1,18,170,129,14,29,5,5,105,579,113,211,17,8,71,41,158,16,18,1,109,40,215,142,152,107,1,106,95,1216,1,4,4,19,9,99,58,18,446,106,106,317,38,38,167,699,4,27,77,66,51,33,7,142,68,1031,9,101,7,1,65,5,152,65,133,6,36,105,151,52,440,35,18,104,86
 Declaration Certificate	19602
 Declaration Form	16955
 Declaration OF ALEXANDER WINNICK PURSUANT	14675
@@ -1328,17 +1331,17 @@ Decreased	789,4458,432,6706,3328,319,1125
 Decreased N	5247
 Decreased Reference	5679
 Decreases	11296,5861,2561
-Decreasing	236,16921,2384
+Decreasing	236,16921,2384,346
 Decreasing Better	1940
 Decreasing Incomes	12445
 Decreasing Rate	19541
-Decree	10,1,14,551,393,413,436,289,1418,79,1351,27,191,1652,110,3830,10,37,29,107,602,350,5,19,31,206,40,93,1019,18,26,2015,21,80,19,26,48,93,2,78,230,8,102,837,26,30,185,313,400,23,225,187,4,61,400,7,20,448,120,482
+Decree	10,1,14,551,393,413,436,289,1418,79,1351,27,191,1652,110,3830,10,37,29,107,602,350,5,19,31,206,40,93,1019,18,26,2015,21,80,19,26,48,93,2,78,230,8,102,837,26,30,185,313,400,23,225,187,4,61,400,7,20,448,120,482,27,16
 Decree Absolute Certificate	12639
 Decree Law	10775,1094,292,3763,59,975
 Decree Law No	14934,539,1485
 Decree Laws	15531
 Decree N	13313,18,4539,1344
-Decree No	1382,914,1308,1109,4029,1,26,519,1491,33,29,70,19,7,11,602,20,16,314,5,1,59,254,75,1,484,552,26,581,510,17,907,101,18,1056,284,71,40,16,14,185,377,400,16,168,7,180,65,417,447,11,4,116,109,360
+Decree No	1382,914,1308,1109,4029,1,26,519,1491,33,29,70,19,7,11,602,20,16,314,5,1,59,254,75,1,484,552,26,581,510,17,907,101,18,1056,284,71,40,16,14,185,377,400,16,168,7,180,65,417,447,11,4,116,109,360,22,39,5
 Decree No. Decree No	16079
 Decree No. Key	15473
 Decree No.100	13357
@@ -1349,6 +1352,7 @@ Decree-Law	10775,1080,21,15,403,2567,65,467,531,2871,2,670
 Decree-Law No	11550,3,319,3521,3404,12,849
 Decree-law No	9494
 Decrees	10841,4818,2711
+Decrees No	19856
 Decrees and Orders	18370
 Decret	1231,9747,815,3648,251,919
 Decret 2014-105 12 mars 2014.pdf	10906
@@ -1548,7 +1552,7 @@ Evidence-based Decision-making	14935
 Examen Bienal-2023sobre la Declaración de Malabo	16898
 Exchange Rate Effective Dec	16032,3815
 Executive Decree	3685,7080,10
-Executive Decree No	3221,464,7090
+Executive Decree No	3221,464,7090,9125
 Executive Summary Decades	14949
 Existencia de Decretos Presidenciales	16898
 Expand Financial Inclusion Over Next Decade	7997
@@ -1943,6 +1947,7 @@ Mines Mawunyo Mila AZIABLE DECRET N	19235
 Minister of Telecommunications Decree	4982
 Ministerial Decision	15411
 Ministerial Decision N	15372
+Ministerial Decision No	19910
 Ministerial Decision Nº003	15372
 Ministerial Decisions	14884
 Ministerial Declaration	7242,1920
@@ -2162,14 +2167,15 @@ President João Lourenço's Dec	793
 Presidential Declaration	7452
 Presidential Decree	3685,37,139,345,8,751,5798,2,3,3,4,1,3,62,652,708,1111,2,2159,5,14,129,58,952,311,30,24,1313,975
 Presidential Decree CAPMAS. No	15473
-Presidential Decree No	3685,176,612,282,5,205,5810,4,35,603,1914,2142,1485,14,24,1313,1293
+Presidential Decree No	3685,176,612,282,5,205,5810,4,35,603,1914,2142,1485,14,24,1313,1293,258,40
 Presidential Decree for Targeted Free Healthcare	10829
 Presidential Decrees	11380
 Pretoria Declaration	3583
 Previous Cabinet Decisions	14721
 Previous Post DECRET D	16734
 Preâmbulo O Decreto-Regulamentar	15503
-Prime Minister Decree	15977
+Prime Minister Decree	15977,3912
+Prime Minister Decree. All	19889
 Prime Minister. A Ministerial Decree	15492
 Prime Ministerial Decree	15473
 Prime Ministerial Decree No	15473
@@ -2423,6 +2429,7 @@ Tanzania Telecom Sector Should Be Declared	6711
 Tanzania. BMC Med Inf Decis Mak	1261
 Tanzania. BMC Med Inform Decis Mak	3791,4585,2505
 Tax Declarations. Table	18318
+Tax Reward System Ministerial Decisions	19919
 Technological Decision Contextual Integration	9129
 Technology Technology Dec-2024 Mar-2025 Jun-2025 Sep-2025	15136
 Telecommunications Decret	18296

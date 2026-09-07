@@ -97,6 +97,7 @@ ET DES PRESTATIONS FAMILIALES	16175,206
 EUR Euro FA Family Allowance FM	19455
 Economie Familiale	18099
 Economie Familiale ENF Education Non Formelle	18171
+Egyptian Family	19888
 Egyptian Family Health Survey	15725
 Elderly Elderly Other Family	16902
 Election Observation Mission FAMOD Forum of Mozambican	12201
@@ -172,7 +173,7 @@ Familiariser	13290,493,4404,1
 Familiarising	8130
 Familiarity	12754,821,1,609,2127,3259
 Familiarization Visit of Journalists	16275
-Families	1887,865,1998,1973,750,2321,910,137,684,240,90,24,28,772,260,64,422,1317,9,78,60,110,230,244,410,991,28,68,129,277,2079
+Families	1887,865,1998,1973,750,2321,910,137,684,240,90,24,28,772,260,64,422,1317,9,78,60,110,230,244,410,991,28,68,129,277,2079,423,11
 Families Assisted	12977
 Families Left Offline	4619
 Families and Children	15661
@@ -201,8 +202,8 @@ Famille. Ces	18327
 Famille. En	18286
 Famille. Il	17845
 Famille. des Circonscriptions	18003
-Familles	15732,797,2413
-Family	418,2339,2215,2170,201,3420,13,188,13,8,540,332,119,250,107,5,32,51,350,120,55,412,621,158,605,93,314,57,274,98,147,6,193,621,291,66,69,826,137,371,54,238,212,475,171,76,13,158
+Familles	15732,797,2413,937
+Family	418,2339,2215,2170,201,3420,13,188,13,8,540,332,119,250,107,5,32,51,350,120,55,412,621,158,605,93,314,57,274,98,147,6,193,621,291,66,69,826,137,371,54,238,212,475,171,76,13,158,211
 Family Affairs	14889
 Family Allowance	19455
 Family Assistance Plan	11855
@@ -211,7 +212,7 @@ Family Bank	14897
 Family Booklet. Confirmation	16902
 Family CR Civil Registration CSPS Local	10812
 Family Cell	14748
-Family Code	10765,10,39,4739,66,4215
+Family Code	10765,10,39,4739,66,4215,40
 Family Code. Official	19834
 Family Council	12338
 Family Counselling	14742
@@ -290,6 +291,7 @@ Family and Women Promotion	11380
 Family and Women’s Promotion	10776
 Family of Apostle Kwadwo Safo Kantanka	7594
 Family of International Classification	15725
+Family of International Classifications	19887
 Family of Standards	1009
 Family of Standards WS-Base Notification	1009
 Family-Based Interventions	13474

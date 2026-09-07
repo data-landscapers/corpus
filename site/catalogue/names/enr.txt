@@ -10,6 +10,7 @@ Anip. Enregistrant	4812
 Antsimondrano. Enrolment	4789
 Assess Enrol EXAMPLE AI-enabled	11156
 Assurance Qualité Enregistrement	15599
+Automatic Enrollment	19889
 B ENREGISTREZ TOUT CE QUI EST	13300
 Bangui. Enrolment	1258
 Banque Mondiale Enrôlement	19221
@@ -88,7 +89,7 @@ ENROL	11156
 ENROLLMENT	12146
 ENRPN	18779
 Education Education Enrolment Education Completion Human	10837,1315,188
-Education Enrolment	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Education Enrolment	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Education Lower Basic Gross Enrolment Ratio	16973
 Empowerment GER Gross Enrolment Rate GIA	18512
 EnDev Energising Development EnR	18316
@@ -156,8 +157,9 @@ Enroll	2604,8161,10,1678
 Enroll. Registrants	19237
 Enrolled	11006,498,936,3278,1123,130,716,774
 Enrolled OVC Beneficiaries	12977
+Enrollees	19889
 Enrolling	571,4877,5685,791,2992
-Enrollment	2775,1260,931,2163,467,3216,27,641,387,460,2,82,252,308,6,337,18,1565,25,97,68,574,2,416,357,24,416,100,7,10,146,831,963,304,598
+Enrollment	2775,1260,931,2163,467,3216,27,641,387,460,2,82,252,308,6,337,18,1565,25,97,68,574,2,416,357,24,416,100,7,10,146,831,963,304,598,54
 Enrollment Data	14501
 Enrollment Kits	13424
 Enrollment Rates API	15630
@@ -247,6 +249,7 @@ INJ. COMP. ENROB	15930
 IPP EnR	18316
 Impression de Carte Périmètre Enrôlement Périmètre IDMS	14480
 Inclusive Enrolment	18460
+Increasing Health Insurance Enrollment	19889
 Initiative GER Gross Enrollment Rate GHG	15661
 JE SOUHAITE ENREGISTRER MON COMPTE MAIS	16629
 Jorge Enrique Celis Giraldo	15059
@@ -333,6 +336,7 @@ Region Net Enrolment Rates	19542
 Registre du Courrier Enregistrement	10975
 Research Network GER Gross Enrollment Rate	13991
 Responsables Coût Phase Préparatoire Enregistrement	14490
+Rule Reduction and Medicaid Enrollment. Public Admin	19889
 Référentiels Normes Procédures Enregistrement	16692
 SCHOOL ENROLMENT BY GRADE SSS	18461
 SCOLAIRE ENREGISTREMENT DES LIGNE ACTUELLE	13300

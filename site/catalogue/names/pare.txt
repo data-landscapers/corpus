@@ -103,7 +103,7 @@ Parecer	10783,590
 Parecer Prévio da Agência de Protecção de Dados	11363
 Pareil	5022,5233
 Pareja	10775
-Parent	582,702,354,2447,811,2302,1741,2241,1297,1000,1661,1740,249,1471,443,4,239,402,148
+Parent	582,702,354,2447,811,2302,1741,2241,1297,1000,1661,1740,249,1471,443,4,239,402,148,86
 Parent Company	12445
 Parent Disciplines	18461
 Parent F340901	816
@@ -122,10 +122,12 @@ Parent Project’s End Target	15511
 Parent Support Agreement	7198
 Parent Teacher Association	11860,5103
 Parent Teacher Associations	12408,3253,1191
+Parent Teacher Student Associations	19933
 Parent ZEEP	13392
 Parent ZEEP All	13392
 Parent ZEEP. Under the Parent ZEEP	13392
 Parent and Holdings	7198
+Parent's Eritrean National ID	19927
 Parent-Teacher	15661
 Parent-Teacher Association RF Results Framework RPC	15661
 Parent-Teacher Associations	8588

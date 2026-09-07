@@ -21,6 +21,7 @@ AI Language Model	3622
 AI and Local Languages Become Part of Africa	8241
 AI for Malawi National Language Data Trust	6813
 AIRE D'ATTERRISSAGE D'HÉLICOPTÈRES HELICOPTER LANDING AREA	16552,454
+ALGERIA LAND SECTOR	19874
 ALICE CHEPKIRUI LANGAT Data Processor INST-9883984DB86	7167
 AMENDMENT OF THE LAND ACT	6921
 ANAT National Land Use Planning Agency	18293
@@ -78,7 +79,7 @@ African AI Language Models	7139
 African AI Policy Landscape and Priorities Understanding	6790
 African Digital ID Landscape	10819
 African Forest Landscape Restoration Initiative	10841,2303
-African Journal of Land Policy and Geospatial Sciences	12369
+African Journal of Land Policy and Geospatial Sciences	12369,7505
 African Languages	3726,2026,4192,1196,1070
 African Languages and Cultural Data Programme. Strategy	7548
 African Languages and Voice AI Programme Expected	7548
@@ -115,9 +116,11 @@ Angel Lane London EC4R	6593,4411,13,947,30
 Angola Modernizes Land Administration	10761
 Annex. Article Landing	18985
 Annual Land Lease Rental	17105
+Annual Land and Poverty Conference	19874
 Annual Rainfall Rate Land Type Annual	17157
 Annual World Bank Land and Poverty Conference	18293
-Arab Land Initiative	16916
+Arab Land Initiative	16916,2958
+Arabic Large Language Model	19871
 Area Land Committee	1391
 Area of Land	17140
 Arid and Semi-Arid Lands	2163,12324
@@ -181,6 +184,7 @@ Building and Land Use Permits. Statistics	14738
 Bulawayo Land Administration Made Easier Zimbabwe	12511
 Burkina Faso Land Use	15715
 Burundi Adopts Landmark Personal Data Protection	4643
+Business Process Execution Language BPEL	19852
 C. Lang	9128
 C. Preparation of Bids C.1. Language	14778
 CBD Land Reserve	4896
@@ -509,6 +513,7 @@ Excellency Lana Nusseibeh	19543
 Executive Regulations Agriculture Lands	15473
 Expanding Coverage of African Languages	3745
 Expanding Regulatory Landscape While the NDPA	9877
+Express Lane Eligibility	19889
 Extensible Markup Language	12360
 Extensible Stylesheet Language	12360
 FAO Land Cover Classification System	15129
@@ -619,7 +624,7 @@ Global Landscape of National AI Strategies	11135
 Global and African AI Landscape	4528,7984
 Global and African Data-Centre Landscape	14673
 Golden Lane London EC1Y	15342
-Good Land Governance	16916
+Good Land Governance	16916,2958
 Governing Land	15473
 Government Authorities LLA Liberia Land Authority	17114
 Government Land and Facilities	16835
@@ -970,6 +975,7 @@ Land Affairs	11906,7696
 Land Affairs and Land Transport	5805
 Land Allocation	11261
 Land And Water Management	19712
+Land Appropriation	19874
 Land Area	12395,4762
 Land Audit Report	11193
 Land Authority	17260
@@ -1146,6 +1152,7 @@ Land Reform and Rural Development Physical	11197
 Land Reform and Rural Development The DHA	11986
 Land Reforms	11954
 Land Reg	18450
+Land Register On-line	19852
 Land Registrar	12451,6430
 Land Registrars	15657
 Land Registration	12328,1670,429,1230
@@ -1155,7 +1162,7 @@ Land Registration Coverage	12389
 Land Registration Division LTR	15657
 Land Registration Rules. Form	18881
 Land Registration of Deeds Act	16968
-Land Registry	10937,196,3514,114,1809,557,982,484,204,727
+Land Registry	10937,196,3514,114,1809,557,982,484,204,727,328
 Land Registry Agency	18109
 Land Registry Information System	11862,77
 Land Registry Office	11862
@@ -1255,6 +1262,7 @@ Land Use Planning Unit	14746
 Land Use Planning and Land Management Framework	9727
 Land Use Planning and Management Information System	1513
 Land Use Planning and Zoning	17260
+Land Use Policy	19874
 Land Use Sub-category Biomass Dead	17140
 Land Use Sub-category CO2 Non-CO2 Forestland	17140
 Land Use Sustainability	15648
@@ -1291,6 +1299,7 @@ Land and Agrarian Studies. Puneet	19654
 Land and Documentation of Ownership	15247
 Land and Finance Departments	19585
 Land and Human Rights	12333
+Land and Legitimacy	19874
 Land and Mining Management Strengthening Project	10873
 Land and Notary Registry Offices	11862
 Land and Poverty	19654
@@ -1345,7 +1354,7 @@ Landfolio	3631,12305
 Landgesellschaft	19524
 Landifa	12478
 Landila	16504
-Landinfo	14905
+Landinfo	14905,5016
 Landinfo Country of Origin Information Centre Fredrik	14905
 Landinfo and CEDOCA	14905
 Landing	1647,1014,16,586,3317,2173,103,1301,294,4973,68,2588,904
@@ -1559,6 +1568,7 @@ Language Teaching Assistants	12975
 Language Training	13462
 Language Type	19542
 Language Type Kiswahili and English	19542
+Language WHAT MOTIVATES INITIAL USE	19878
 Language and Culture	13461
 Language and Localisation	11952
 Language and Localisation Requirement	11952
@@ -1758,6 +1768,7 @@ Medical Language Models for Resource-Constrained Settings	13158
 Medici Land Governance	12333,6205
 Medusa Submarine Cable System Lands	3860
 Meheba Settlement Land	1988
+Member States. THE GLOBAL LAND TOOL	19874
 Men Mexico Guatemala Sri Lanka Pakistan	11004
 Men Women Children Land	17043
 Mercy Langwani The Malawi University of Business	13158
@@ -1771,6 +1782,8 @@ Minister for Land Reform and Rural Development	11249
 Minister for Lands	19542,57
 Minister for Lands and Housing Development	19542
 Minister for Lands and Natural Resources	16511
+Minister of Agriculture and Land Reclamation	19892
+Minister of Agriculture and Land Reclamation Alaa Farouk	19892
 Minister of Housing and Lands	14774
 Minister of Land	14089
 Minister of Land Affairs Oneige Nsele	16570
@@ -1794,7 +1807,7 @@ Ministries of Land	14089
 Ministries of Lands and Resettlement and Agriculture	12912
 Ministries of Local Governments and Land Use Planning	18293
 Ministry Land Reform	12912
-Ministry of Agriculture and Land Reclamation	15473
+Ministry of Agriculture and Land Reclamation	15473,4396
 Ministry of Agriculture and Land Reclamation of Egypt. Data	16466
 Ministry of Cadaster and Land Management	16996
 Ministry of Housing and Land Use Planning	14742
@@ -1869,6 +1882,7 @@ NAVIGATION AND LANDING AIDS NOM	16552,454
 NCC Grants Landing Permit	4632
 NDPC and Nigeria Governors’ Forum Sign Landmark	18230
 NDUWIMANA Landry Chef	13341
+NETWORK AND THE ARAB LAND INITIATIVE	19874
 NFL National Land Policy NGO Non-Government	17105
 NIGERIA'S INNOVATION LANDMARK	12053
 NIGERIA’S EVOLVING FINTECH LANDSCAPE AND CBN’S	4848
@@ -1885,6 +1899,7 @@ Nataliya Langburd Wright	16949
 National African Languages and Voice AI Programme	7548,1241
 National African Languages and Voice Programme	9857
 National Agency for Land Conservation	4596,408
+National Agricultural Land Register	19917
 National Center for Planning State Land Uses	15473
 National Centre for Planning State Land Uses	15473
 National Cyber Space Landscape	6671
@@ -1950,6 +1965,7 @@ National Large Language Models Development Key	15713
 National Ministry of Land	18619
 National Rural Land Administration Information	13998
 National Rural Land Administration Information System	14002
+National Scheme of Land Planning	19874
 National Sign Language	12977
 National Voluntary Land Degradation Neutrality Targets	15129
 Natural Language	4625
@@ -2099,6 +2115,7 @@ Property.co.zw Houses for Sale Flats for Sale Land	2888,32,354,504,1444,877,6,10
 Proportion of Land Ownership	19554
 Protect Public Land and Boost Revenue	19764
 Provide For the Registration of Land and Other Immovable	13950
+Provide National Land Information Service Electronically	19852
 Provinces Land Act Cap	18465
 Public Land	17114
 Public Land Acquisition and Institutional Reforms	15473
@@ -2195,8 +2212,10 @@ Resilient Landscapes	15129
 Resolve Land Disputes	12389
 Resolve Rwenzori Land Disputes National Mental	16797
 Resource Ministry of Housing and Lands	14770
+Response Language	19854,67
 Responsibilities of Land	14746
 Responsible Governance of Tenure of Land	10960,7333
+Responsible Land Governance	19874
 Responsible and Innovative Land Administration	13998
 Restitution of Land Rights Act	1009
 Restitution of Land Rights CSI Committee for Spatial	11261
@@ -2215,7 +2234,7 @@ Rules for Land Development	15473
 Rural Development MLHCP Ministry of Lands Housing	18504
 Rural Development and Land Reform	11188
 Rural Development and Land Reform DSD Department	11188
-Rural Land	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Rural Land	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Rural Land Administration	13998
 Rwanda Land Dashboard	12457
 Rwanda Land Management and Use Authority	431,11902
@@ -2388,6 +2407,7 @@ State Lands Act Nil	14713
 State of Land Information	14920
 State of Land Reform	12912
 State-Owned Desert Lands	15473
+State-Owned Land Agency	19852
 State-led Land Reform Program. Aim of Namibia	12912
 Stephen Lansdown	5930,27
 Stephen Lansdown CBE	5879
@@ -2422,7 +2442,7 @@ Sustainable Land Management	17157
 Sustainable Land Management Practices	13474
 Sustainable Management of Forests Land	17140
 Sustainable Management of Landscapes and Tenure	12985
-Sustainable Use of Land	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Sustainable Use of Land	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Swazi Nation Land	12962,92,197
 Swazi Sign Language	12916
 Systematic Land Adjudication and Certification	19711
@@ -2556,6 +2576,7 @@ Village Areas Land Committees	18534
 Village Land Committee	18465
 Village Land Committee Composition of Town	18465
 Village Land Committees	18534
+Virtual Land Agency	19852
 Virtual Landing Point	14864,3006
 Visa Application. LAND	12333
 Vision of Lands Commission	15657
@@ -2567,6 +2588,7 @@ WOfS Landsat	10794
 Waitiki Land	10313
 Water and Land Information Management	15129
 Water and Land Reform	12923,1,255
+Web Services Description Language	19852
 West Africa Landlocked Countries	18091
 West African Land Cover Reference System	15129
 Wh Kilowatt Hour LLM Large Language	10781,1646,2055

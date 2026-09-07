@@ -483,6 +483,7 @@ Algeria Digital	15679
 Algeria Digital Brief	8720,777
 Algeria Digitizes Degree Recognition Through National	6747
 Algeria Launches Four New Digital Platforms	5167
+Algeria Launches Pilot Digital Services Platform	19913
 Algeria's Digital Projects	2420
 Algeria's High Commission for Digitalization	3871,10
 Algeria's National Digital Payment Strategy	3286
@@ -564,7 +565,7 @@ Assinaturas Digitais	11555,3837
 Assistant Commissioner for Digital and Innovation Technology	16254
 Assistant Director for Digital Technologies	7432
 Assistant Director of Digital Skills and Capabilities	9137
-Assistant ICT Minister for Digital Transformation Mahmoud	15992,263
+Assistant ICT Minister for Digital Transformation Mahmoud	15992,263,3637
 Assistant Minister for Digital Transformation	4767
 Assistant Minister for Digital Transformation Mahmoud Badawi	16236
 Assisted Digital Access Scheme	14752
@@ -1074,6 +1075,7 @@ Can Europe’s Digital Markets Act and Data	6879
 Candidate For Digital Leadership	2838
 Capacitating the Digital Community Hubs Responsible	12241
 Capacitação Digital	11569
+Capacity Building and Digital Integration	19894
 Capacity Building for Digital Government. NACIT	12917
 Capacity Certified Digital Trainer	12241
 Capacity Development and Digital Literacy	5244
@@ -1241,6 +1243,7 @@ Cimeira Digital	2581
 Circular Digital Economy and Waste Reduction	14752
 Circulating Vaccine-Derived Poliovirus Digital Health Agency	4153
 Cities Contact Live Demo Digital Land	12211
+Citizen Awareness and Digital Literacy	19900
 Citizen Digital	2447,119,359
 Citizen Digital Kenyan	3637
 Citizen Digital. The Interior	2447
@@ -1276,6 +1279,7 @@ Collapse of Digital and Social Boundaries	17797
 Colombia Yes Plan Vive Digital	11529
 Columbia University DSP Digital Society Project	10759,78,1052,451
 Combat Mobile and Digital Fraud	10580
+Combating Digital Illiteracy	19900
 Comercio Digital	10361
 Comissão Nacional da Estratégia Digital. Para	16347
 Comissão Nacional de Estratégia Digital	15532
@@ -1447,6 +1451,7 @@ Corporate Social Responsibility DTfA Digital Transformation	18504
 Cost of Digital Delay	4535
 Could the United Nations Global Digital	11028
 Council Digitisation Project	13664
+Council of Digital Society	19860
 Council of Ministers Approves Digital Ethiopia	14051
 Council. An International Digital Strategy	11155
 Country Diagnostic Cameroon Digital Economy Assessment	15480
@@ -1711,6 +1716,7 @@ DIGITAL Number	16942
 DIGITAL PAYMENT LANDSCAPE IN CÔTE D'IVOIRE	10901
 DIGITAL PAYMENTS	12050
 DIGITAL PAYMENTS FOR COST-EFFECTIVE AND EASY-TO-INITIATE	11940
+DIGITAL PAYMENTS USAGE PATTERNS	19878
 DIGITAL PHARMACY GUIDELINE DRAFT Rev PP.pdf	9854
 DIGITAL PHARMACY SERVICES IN KENYA	9855
 DIGITAL PLATFORM	9194
@@ -1903,7 +1909,7 @@ DSHP Digital Superhighway Project DSL Digital	6946
 DSL Digital Subscriber Line DTH Direct-To-Home	6671
 DSL Digital Subscriber Line ECCAS Economic	18887
 DSM for Digital Trade Chapter	1243
-DSP Digital Society Project	11887,266,1,9,178
+DSP Digital Society Project	11887,266,1,9,178,7517,1
 DSP Digital Society Project V-DEM Varieties	10835,3,130,902,16,466,1,135,7334
 DSPs. CMA Online Platforms and Digital Advertising	13461
 DSTI and CRS Drive Sierra Leone’s Digital	6903
@@ -2116,7 +2122,7 @@ Digitais APD Ajuda Pública	18779
 Digitais Artigo	6970
 Digitais Assegurar	11569
 Digitais Públicas	6694,8
-Digital	82,17,47,9,22,2,32,15,10,8,78,55,8,1,1,3,3,2,1,5,1,16,89,2,62,2,5,4,2,8,51,46,13,1,4,18,5,25,8,9,17,5,32,36,35,2,5,6,3,14,1,12,11,1,6,3,8,1,15,24,59,19,8,38,4,23,1,38,5,9,15,15,5,9,4,3,19,1,72,7,60,2,33,10,3,36,59,41,1,1,1,1,1,1,2,7,1,4,77,48,25,33,52,23,54,1,6,45,3,99,3,1,109,26,25,29,5,8,20,28,2,20,2,35,50,19,2,7,7,2,1,1,4,1,1,1,1,1,1,5,8,31,68,10,35,7,9,60,35,2,32,4,8,12,26,39,1,1,1,1,1,1,1,45,7,5,29,26,3,19,9,4,63,4,44,30,6,3,12,2,1,23,68,7,17,22,33,13,9,28,16,36,12,39,56,2,8,53,31,13,8,73,49,30,13,34,1,2,1,2,1,1,1,1,1,1,8,34,2,78,4,1,67,4,8,1,21,23,7,112,67,2,9,13,39,10,1,1,82,2,19,9,4,6,9,45,11,9,8,17,3,12,10,22,14,9,28,1,10,4,2,26,13,18,3,12,4,4,50,8,24,10,18,1,11,6,32,3,5,1,19,97,16,9,23,1,1,1,9,1,1,3,12,5,9,1,17,2,1,71,5,8,4,7,16,3,8,18,45,10,30,15,48,18,14,9,5,12,8,3,73,1,24,99,23,24,30,2,1,4,9,19,1,14,18,31,47,31,40,3,1,17,19,28,5,2,20,14,10,7,20,82,29,11,1,23,1,1,2,5,29,13,10,22,31,13,24,9,7,7,3,1,20,4,6,75,55,25,17,29,21,1,16,96,8,2,2,6,2,1,1,1,53,26,49,47,13,4,13,16,3,7,9,10,3,49,17,3,5,6,40,15,13,6,25,15,71,9,17,20,28,5,13,17,10,8,4,71,17,43,20,2,10,147,18,18,17,2,1,15,3,6,31,8,10,5,26,43,35,3,20,42,36,71,29,2,31,4,28,44,6,9,8,16,31,3,7,1,48,13,3,2,38,18,2,2,35,13,2,15,28,9,10,18,93,31,1,50,1,2,5,2,4,51,6,2,2,13,12,13,32,5,8,1,1,4,15,40,8,1,5,50,12,9,1,28,18,23,16,37,37,18,15,6,5,10,3,38,6,2,10,53,9,7,16,1,20,7,42,7,9,2,9,9,21,23,3,6,29,11,1,22,1,2,14,2,11,1,11,41,10,16,25,1,34,29,10,5,21,13,35,6,13,2,1,30,15,13,2,105,1,15,45,1,30,38,7,51,9,35,6,9,26,30,15,7,3,41,11,1,10,15,34,2,10,9,9,19,7,20,1,1,3,8,4,3,6,5,11,20,18,21,22,1,1,6,7,20,9,22,4,11,7,83,1,1,3,2,14,1,15,3,1,10,11,1,6,6,8,32,18,1,18,20,1,4,46,19,86,7,1,11,3,3,1,9,45,4,7,17,17,10,12,42,12,4,4,35,10,121,18,3,6,4,2,10,29,1,9,4,16,2,6,3,3,13,5,5,2,9,8,2,1,3,2,1,1,2,41,7,3,7,20,8,34,20,35,15,5,13,13,9,4,1,4,5,3,2,9,12,1,1,2,12,5,1,17,13,1,4,23,3,1,4,2,3,15,11,14,12,14,6,3,9,4,45,5,1,25,31,68,42,5,9,35,3,28,7,48,13,12,35,13,44,9,5,1,7,23,15,17,15,11,13,31,7,15,19,24,79,6,17,14,4,22,32,2,17,1,12,1,1,11,61,7,33,3,45,18,8,27,43,13,10,26,10,103,10,66,35,27,13,5,2,14,2,41,7,5,19,12,12,28,17,5,4,49,14,8,23,10,7,29,24,1,52,35,7,9,2,11,9,4,15,5,26,13,93,7,3,77,9,36,8,7,10,31,18,8,2,2,9,1,10,13,33,1,11,20,29,18,15,16,4,3,29,1,32,22,1,2,20,78,2,6,2,8,10,6,10,38,18,17,26,55,24,69,36,27,2,4,4,7,2,21,4,8,27,18,33,25,29,21,5,5,24,59,17,112,18,1,16,3,21,51,35,98,32,23,20,97,94,57,73,91,74,70,13,1,1,13,12,17,40,4,8,2,29,1,20,3,3,1,20,5,5,2,42,1,52,8,2,8,5,4,2,2,13,2,22,1,10,15,30,34,17,5,10,22,56,26,39,171,18,28,2,1,27,1,11,48,8,5,20,14,14,2,4,3,17,63,2,8,14,155,84,110,60,37,19,10,71,16,8,20,2,2,25,2,5,24,30,52,2,64,11,9,21,47,2,5,106,21,6,21,2,22,30,22,10,28,176,16,22,6,19,28,84,26,99,11,2,37,14,15,15,26,1,3,15,3,12,2,44,35,15,3,27,6,14,26
+Digital	82,17,47,9,22,2,32,15,10,8,78,55,8,1,1,3,3,2,1,5,1,16,89,2,62,2,5,4,2,8,51,46,13,1,4,18,5,25,8,9,17,5,32,36,35,2,5,6,3,14,1,12,11,1,6,3,8,1,15,24,59,19,8,38,4,23,1,38,5,9,15,15,5,9,4,3,19,1,72,7,60,2,33,10,3,36,59,41,1,1,1,1,1,1,2,7,1,4,77,48,25,33,52,23,54,1,6,45,3,99,3,1,109,26,25,29,5,8,20,28,2,20,2,35,50,19,2,7,7,2,1,1,4,1,1,1,1,1,1,5,8,31,68,10,35,7,9,60,35,2,32,4,8,12,26,39,1,1,1,1,1,1,1,45,7,5,29,26,3,19,9,4,63,4,44,30,6,3,12,2,1,23,68,7,17,22,33,13,9,28,16,36,12,39,56,2,8,53,31,13,8,73,49,30,13,34,1,2,1,2,1,1,1,1,1,1,8,34,2,78,4,1,67,4,8,1,21,23,7,112,67,2,9,13,39,10,1,1,82,2,19,9,4,6,9,45,11,9,8,17,3,12,10,22,14,9,28,1,10,4,2,26,13,18,3,12,4,4,50,8,24,10,18,1,11,6,32,3,5,1,19,97,16,9,23,1,1,1,9,1,1,3,12,5,9,1,17,2,1,71,5,8,4,7,16,3,8,18,45,10,30,15,48,18,14,9,5,12,8,3,73,1,24,99,23,24,30,2,1,4,9,19,1,14,18,31,47,31,40,3,1,17,19,28,5,2,20,14,10,7,20,82,29,11,1,23,1,1,2,5,29,13,10,22,31,13,24,9,7,7,3,1,20,4,6,75,55,25,17,29,21,1,16,96,8,2,2,6,2,1,1,1,53,26,49,47,13,4,13,16,3,7,9,10,3,49,17,3,5,6,40,15,13,6,25,15,71,9,17,20,28,5,13,17,10,8,4,71,17,43,20,2,10,147,18,18,17,2,1,15,3,6,31,8,10,5,26,43,35,3,20,42,36,71,29,2,31,4,28,44,6,9,8,16,31,3,7,1,48,13,3,2,38,18,2,2,35,13,2,15,28,9,10,18,93,31,1,50,1,2,5,2,4,51,6,2,2,13,12,13,32,5,8,1,1,4,15,40,8,1,5,50,12,9,1,28,18,23,16,37,37,18,15,6,5,10,3,38,6,2,10,53,9,7,16,1,20,7,42,7,9,2,9,9,21,23,3,6,29,11,1,22,1,2,14,2,11,1,11,41,10,16,25,1,34,29,10,5,21,13,35,6,13,2,1,30,15,13,2,105,1,15,45,1,30,38,7,51,9,35,6,9,26,30,15,7,3,41,11,1,10,15,34,2,10,9,9,19,7,20,1,1,3,8,4,3,6,5,11,20,18,21,22,1,1,6,7,20,9,22,4,11,7,83,1,1,3,2,14,1,15,3,1,10,11,1,6,6,8,32,18,1,18,20,1,4,46,19,86,7,1,11,3,3,1,9,45,4,7,17,17,10,12,42,12,4,4,35,10,121,18,3,6,4,2,10,29,1,9,4,16,2,6,3,3,13,5,5,2,9,8,2,1,3,2,1,1,2,41,7,3,7,20,8,34,20,35,15,5,13,13,9,4,1,4,5,3,2,9,12,1,1,2,12,5,1,17,13,1,4,23,3,1,4,2,3,15,11,14,12,14,6,3,9,4,45,5,1,25,31,68,42,5,9,35,3,28,7,48,13,12,35,13,44,9,5,1,7,23,15,17,15,11,13,31,7,15,19,24,79,6,17,14,4,22,32,2,17,1,12,1,1,11,61,7,33,3,45,18,8,27,43,13,10,26,10,103,10,66,35,27,13,5,2,14,2,41,7,5,19,12,12,28,17,5,4,49,14,8,23,10,7,29,24,1,52,35,7,9,2,11,9,4,15,5,26,13,93,7,3,77,9,36,8,7,10,31,18,8,2,2,9,1,10,13,33,1,11,20,29,18,15,16,4,3,29,1,32,22,1,2,20,78,2,6,2,8,10,6,10,38,18,17,26,55,24,69,36,27,2,4,4,7,2,21,4,8,27,18,33,25,29,21,5,5,24,59,17,112,18,1,16,3,21,51,35,98,32,23,20,97,94,57,73,91,74,70,13,1,1,13,12,17,40,4,8,2,29,1,20,3,3,1,20,5,5,2,42,1,52,8,2,8,5,4,2,2,13,2,22,1,10,15,30,34,17,5,10,22,56,26,39,171,18,28,2,1,27,1,11,48,8,5,20,14,14,2,4,3,17,63,2,8,14,155,84,110,60,37,19,10,71,16,8,20,2,2,25,2,5,24,30,52,2,64,11,9,21,47,2,5,106,21,6,21,2,22,30,22,10,28,176,16,22,6,19,28,84,26,99,11,2,37,14,15,15,26,1,3,15,3,12,2,44,35,15,3,27,6,14,26,23,1,7,11,11,3,1,14,13,1,1
 Digital Academy	3982,144,4434,4153,2840,3740
 Digital Acceleration	1176,10199,839,213,4012
 Digital Acceleration Plan	14674
@@ -2291,7 +2297,7 @@ Digital Approach	1818
 Digital Architecture for Togo’s Health System and Universal	19284
 Digital Archiving Consultancy Ltd. Lynch	12090
 Digital Article	15901
-Digital Arts and Design	16046
+Digital Arts and Design	16046,3822
 Digital Arts. Alongside	15718
 Digital Ascent	18565
 Digital Asia Pacific	14674
@@ -2380,8 +2386,9 @@ Digital Cameras External Drives	34
 Digital Cameroon	15480,3765
 Digital Cameroon Strategic Plan	16050
 Digital Cameroon. IMF	15480
-Digital Capacity	7098,6893
+Digital Capacity	7098,6893,5940
 Digital Capacity Building	12241,3805
+Digital Capacity Building MCIT	19868
 Digital Capacity Building Programme	13080,15
 Digital Capacity Building for Government of Malawi	13080,15
 Digital Capacity Building for Youth Workers	16761,1,1,1,1,1,1
@@ -2513,6 +2520,7 @@ Digital Cooperation Organization	2435,1402,3332,7165,598,2137
 Digital Coordination Board	12008
 Digital Coordination Committee	13095
 Digital Coordination Specialist	15019
+Digital Corners	19875
 Digital Council Africa	1810,3975,1047,5012,2932
 Digital Council Africa Juanita	14776
 Digital Council Africa Shubham Saraff Co-Founder	14776
@@ -2633,6 +2641,7 @@ Digital Disinformation Campaigns	15342
 Digital Disruption	1006,12576
 Digital Divide	6096,736,116,4317,614,48,314,2187,1125,942,3037
 Digital Divide Making Inequality Worse	12336
+Digital Divide Tax	19904
 Digital Divide Thematic Area	899
 Digital Divide and Inclusive Development	12210
 Digital Divide of Small and Medium-Sized Enterprises	226
@@ -2661,6 +2670,7 @@ Digital Earth Africa and Senegal’s Agence Nationale	18379
 Digital Earth Africa’s Coastlines Service	10794
 Digital Eco-	961
 Digital Econ- Mazin ElKamil	14897
+Digital Economic Transformation and Policy Direction Eritrea	19932
 Digital Economic Zone	3718
 Digital Economics	16266
 Digital Economies	226
@@ -2910,16 +2920,18 @@ Digital Education Strategy	11220,2771
 Digital Education Strategy Menu About	11220
 Digital Education Strategy and Implementation Plan	13991
 Digital Education Strategy and Implementation Plan. June	13991
-Digital Egypt	1033,869,2056,332,242,810,1416,1431,1111,422,1983,4008,98,3,178,48,6,85,105,19,225
-Digital Egypt Builders Initiative	15713,333
+Digital Egypt	1033,869,2056,332,242,810,1416,1431,1111,422,1983,4008,98,3,178,48,6,85,105,19,225,3380,8,17,4
+Digital Egypt Buds Initiative	19868
+Digital Egypt Builders Initiative	15713,333,3822
 Digital Egypt Creativity	15656
-Digital Egypt Cubs Initiative	15713,333
+Digital Egypt Cubs Initiative	15713,333,3822
 Digital Egypt Cubs Initiative URL	15718
-Digital Egypt Generations	7537,8176,333
+Digital Egypt Digital Egypt	19885
+Digital Egypt Generations	7537,8176,333,3822
 Digital Egypt Justice	16046
 Digital Egypt Marvels Initiative	15713,333
 Digital Egypt Pioneers	15656
-Digital Egypt Pioneers Initiative	15713,333
+Digital Egypt Pioneers Initiative	15713,333,3822
 Digital Egypt Platform	16046
 Digital Egypt Portal	1902,14578
 Digital Egypt Youth	15814,232
@@ -3117,7 +3129,7 @@ Digital Fraud Awareness	13095
 Digital Fraud Awareness Campaign	13095
 Digital Fraud Remains	8482
 Digital Fraud Trends	6261,2450
-Digital Freedom	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Digital Freedom	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Digital Freedom Enabling Networks	1566
 Digital Freedom Public Perception of Inclusion	12353
 Digital Freedom of Expression	1157
@@ -3132,6 +3144,7 @@ Digital Future News	7312
 Digital Future Thirty	7312
 Digital Future Together	12674
 Digital Future Topics Digital Public Goods	11006,1
+Digital Future of Eritrea	19933
 Digital Futures	586
 Digital Futures Programme	10290
 Digital Futures Programme Inception Workshop	10290
@@ -3465,6 +3478,7 @@ Digital Identification Credentials	12146
 Digital Identification Data	12146
 Digital Identification Information	12146
 Digital Identification Institution	12146
+Digital Identification Process	19856
 Digital Identification Progress and Gaps	10714
 Digital Identification System	12146,82,39
 Digital Identification System and Demographic Data	12146
@@ -3624,6 +3638,7 @@ Digital Infrastructure Digital	12453,892
 Digital Infrastructure Establish	14897
 Digital Infrastructure Expansion	4963,7393
 Digital Infrastructure Figure	14897
+Digital Infrastructure First	19868
 Digital Infrastructure Gaps	12356
 Digital Infrastructure Hit New Record	1518
 Digital Infrastructure Improve	14897
@@ -3661,6 +3676,7 @@ Digital Infrastructure and Connectivity	15960,3682,121,28
 Digital Infrastructure and Connectivity Pillar	19642
 Digital Infrastructure and Devices	11918
 Digital Infrastructure and Digital Government	12973
+Digital Infrastructure and Emerging Payment Trends Fintech	19932
 Digital Infrastructure and Frequencies	15511,7
 Digital Infrastructure and Innovation	17704
 Digital Infrastructure and Other Services Significant	3487
@@ -3675,8 +3691,9 @@ Digital Innovation	5849,3823,2381,400,892,2,6200
 Digital Innovation Board	5697
 Digital Innovation Challenge	13080
 Digital Innovation City	10053
-Digital Innovation Digital	6832
+Digital Innovation Digital	6832,13053
 Digital Innovation Digital Infrastructure Smart Education	2256
+Digital Innovation Digital Transformation Digital	19885
 Digital Innovation Eco-System Expert	15019
 Digital Innovation Employability and Economic Growth Through	12241
 Digital Innovation Fellowship Program	13080
@@ -3917,6 +3934,7 @@ Digital Marketing Content	14999
 Digital Marketing Department	17648
 Digital Marketing Graduate	14999
 Digital Marketing Manager	2888,32,354,504,1444,877,6,74,26,39,1,640,129,293,115
+Digital Marketing and Tracking	19895
 Digital Marketplace	11995,3481,1448
 Digital Marketplace No Government AI Digital	7548
 Digital Marketplace Supply	14932
@@ -3936,7 +3954,8 @@ Digital Mauritius Strategic Plan	11332
 Digital Mauritius World Bank	14819
 Digital Mauritius. Digital Mauritius Strategic Plan	14729
 Digital Maze	3112
-Digital Meal Reservation Platform	5167
+Digital Meal Reservation Platform	5167,14742
+Digital Meal Reservation Platform. The University	19909
 Digital Media	6832,5395,5210
 Digital Media City	1082,7710,1875
 Digital Media City Project	10667
@@ -4083,8 +4102,9 @@ Digital Platform Policy and Regulation	11028
 Digital Platform Structure and Access	9855
 Digital Platform and Services	12253
 Digital Platform for Psychological Counseling	5167
+Digital Platform for Psychological Counselling	19909
 Digital Platform. June	13991
-Digital Platforms	226,5015,108,7007,303,16,637,2,33,2478,1051,142,1438
+Digital Platforms	226,5015,108,7007,303,16,637,2,33,2478,1051,142,1438,1453
 Digital Platforms Challenge	11662
 Digital Platforms DIODE Paper	226
 Digital Platforms Digital	13347
@@ -4281,7 +4301,7 @@ Digital Registries Data	6423
 Digital Registry	6423
 Digital Registry BB	6423
 Digital Registry System	6423
-Digital Registry of University Spin-off Companies	5167
+Digital Registry of University Spin-off Companies	5167,14742
 Digital Regular	16963
 Digital Regulation	17743
 Digital Regulation Handbook	17743
@@ -4665,7 +4685,7 @@ Digital Technologies and Financial Management APCICT	11017
 Digital Technologies and Services	12948
 Digital Technologies for Gender	12926
 Digital TechnologiesX	11254
-Digital Technology	1363,1335,1428,1237,161,408,4899,1026,1604,1205,84,2340
+Digital Technology	1363,1335,1428,1237,161,408,4899,1026,1604,1205,84,2340,2799
 Digital Technology Adoption	17870
 Digital Technology Adoption and Skills Development	4653
 Digital Technology Design	12994
@@ -4779,7 +4799,7 @@ Digital Training for Police Officers	17213
 Digital Transaction and Services	15054
 Digital Transactions	12241
 Digital Transf Strategy I-35	10785
-Digital Transformation	969,198,209,187,155,100,1,105,169,459,692,207,32,4,117,318,204,6,506,169,223,58,41,115,613,392,183,10,16,138,236,114,443,63,96,2445,350,223,411,154,85,15,5,49,72,112,77,192,189,13,57,217,81,38,43,15,62,134,2,19,67,69,17,64,101,79,48,27,265,2,71,51,100,82,347,443,15,57,161,11,53,12,2,9,25,93,18,18,41,97,111,28,320,41,126,40,86,126,8,107,3,194,252,16,194,210,53,15,133,119,129,15,1148,534,176,35,57,273,58,36,3,13,11
+Digital Transformation	969,198,209,187,155,100,1,105,169,459,692,207,32,4,117,318,204,6,506,169,223,58,41,115,613,392,183,10,16,138,236,114,443,63,96,2445,350,223,411,154,85,15,5,49,72,112,77,192,189,13,57,217,81,38,43,15,62,134,2,19,67,69,17,64,101,79,48,27,265,2,71,51,100,82,347,443,15,57,161,11,53,12,2,9,25,93,18,18,41,97,111,28,320,41,126,40,86,126,8,107,3,194,252,16,194,210,53,15,133,119,129,15,1148,534,176,35,57,273,58,36,3,13,11,162
 Digital Transformation Accelerate Digital Transformation	15713
 Digital Transformation Acceleration Program	6444,1140
 Digital Transformation Acceleration Project	1641,84,1507,81,610,1068,1100,10493
@@ -4870,7 +4890,7 @@ Digital Transformation Steering Committee	15411
 Digital Transformation Strategic Objective	13005
 Digital Transformation Strategy	961,35,247,126,264,181,79,523,573,295,113,198,9,146,208,695,649,231,428,1272,1313,2174,120,425,304,672,433,1,56,349,15,18,344,1029,188,223,98,28,11,519,378,2428,572,204
 Digital Transformation Strategy and ICT Strategy	12241
-Digital Transformation Strategy for Africa	542,247,169,3,282,571,863,485,961,969,1158,119,102,665,190,203,19,948,2344,729,1105,1,388,46,205,17,149,1994,19,148,503,586,212,76,300,1592
+Digital Transformation Strategy for Africa	542,247,169,3,282,571,863,485,961,969,1158,119,102,665,190,203,19,948,2344,729,1105,1,388,46,205,17,149,1994,19,148,503,586,212,76,300,1592,1021
 Digital Transformation Strategy for Africa Ilustração	11569
 Digital Transformation Strategy for Rwanda	15034
 Digital Transformation Strategy. Countries	19668
@@ -4891,7 +4911,7 @@ Digital Transformation and AI Council	14674
 Digital Transformation and AI Council and Delivery	14674
 Digital Transformation and AI Integration	14747
 Digital Transformation and AI Strategy	13080
-Digital Transformation and Administrative Modernization	2124
+Digital Transformation and Administrative Modernization	2124,17776
 Digital Transformation and Change Management	16760
 Digital Transformation and Connecting People	18950
 Digital Transformation and Entrepreneurship Breakfast	14252
@@ -4964,7 +4984,8 @@ Digital Universities	15704
 Digital University	12241
 Digital Uplift	14888
 Digital Uplift Project	412,345,12574,1826
-Digital Upskilling	17331
+Digital Upskilling	17331,2554
+Digital Upskilling Developing	19885
 Digital Upskilling Training Programme	17746
 Digital Upskilling Training Programme The Authority	17746
 Digital Usage	14674
@@ -5027,7 +5048,7 @@ Digital Youth Village	7068,8648
 Digital Zambia Acceleration Project	2254,35,2,1271,803,173,709,236,17,1,1040,3062,1,3820,7,19,9,68
 Digital Zambia Acceleration Project. Despite	12435
 Digital Zambia Acceleration Project. Officials	5501
-Digital and AI	15939
+Digital and AI	15939,3932
 Digital and AI Ecosystem Mapping	4528,7984
 Digital and AI Regional Practice Director	5395
 Digital and AI Transformation Driving	11332
@@ -5200,7 +5221,7 @@ Digitalhealthmodelsforconnectingandsharinginformation	8603
 Digitalhealthtransformation	13187
 Digitalis	1728,13204
 Digitalisa	15778
-Digitalisation	557,43,44,145,172,120,185,4,49,1,1,5,3,1,268,80,6,246,27,17,30,12,3,1,23,1,1,1,112,108,4,64,53,20,5,6,136,139,9,31,75,46,1,1,7,12,45,11,29,59,13,1,12,76,56,47,25,19,34,9,38,13,19,21,47,37,19,32,67,40,16,15,7,1,15,19,82,76,125,1,76,12,16,20,31,3,1,10,103,3,44,1,1,1,10,64,415,118,9,84,97,115,8,17,11,245,114,118,66,179,21,135,8,6,117,61,77,2,476,268,104,90,41,438,52,1,84,203,363,17,204,419,157,81,297,49,49,206,17,26,32,96,4,62,294,112,42,4,3,1,8,2,97,37,18,33,6,1,19,32,230,90,8,287,13,167,483,90,36,51,581,243,97,56,61,16,8,195,4,12,68,106,212,144,227,172,39,13,76,36,10,136,3,285,148,98,23,11,17,6,2,40,10,8,5,4,3,29,16,46,24,26,10,8,3,6,15,39,32,52,35,10,21,1,97,34,6,7,16,16,15,6,10,1,67,30,33,22,13,41,12,11,77,47,127,5,30,23,3,5,217,714,207,43,16,64,94,49,52,35,45,37,2,1,8,13,13,99,23,49,191,294,22,22,1,22,15,2,54,1,40,4,1,4,45,59,11,5,18,122,209,6,15
+Digitalisation	557,43,44,145,172,120,185,4,49,1,1,5,3,1,268,80,6,246,27,17,30,12,3,1,23,1,1,1,112,108,4,64,53,20,5,6,136,139,9,31,75,46,1,1,7,12,45,11,29,59,13,1,12,76,56,47,25,19,34,9,38,13,19,21,47,37,19,32,67,40,16,15,7,1,15,19,82,76,125,1,76,12,16,20,31,3,1,10,103,3,44,1,1,1,10,64,415,118,9,84,97,115,8,17,11,245,114,118,66,179,21,135,8,6,117,61,77,2,476,268,104,90,41,438,52,1,84,203,363,17,204,419,157,81,297,49,49,206,17,26,32,96,4,62,294,112,42,4,3,1,8,2,97,37,18,33,6,1,19,32,230,90,8,287,13,167,483,90,36,51,581,243,97,56,61,16,8,195,4,12,68,106,212,144,227,172,39,13,76,36,10,136,3,285,148,98,23,11,17,6,2,40,10,8,5,4,3,29,16,46,24,26,10,8,3,6,15,39,32,52,35,10,21,1,97,34,6,7,16,16,15,6,10,1,67,30,33,22,13,41,12,11,77,47,127,5,30,23,3,5,217,714,207,43,16,64,94,49,52,35,45,37,2,1,8,13,13,99,23,49,191,294,22,22,1,22,15,2,54,1,40,4,1,4,45,59,11,5,18,122,209,6,15,242
 Digitalisation Adresse	15624
 Digitalisation As Ghana	15629
 Digitalisation Day	15120
@@ -5449,6 +5470,7 @@ Digitization and Automation of Government Services The Kenya	6133
 Digitization and Innovation	7617
 Digitization for All	18446
 Digitization for All The National Innovation and Digital	18446
+Digitization of Administrative Processes	19900
 Digitization of CGP	12761
 Digitization of Court Processes	12389
 Digitization of Government	14897
@@ -5809,7 +5831,9 @@ Efe Onodjae Digital	8712
 Effective PPP Research Cooperation and Learning Digital	13991
 Efficient and Responsible Digital Future	12144
 Egypt Digital Economy Actions	226
-Egypt Digital Platform	7537,8119
+Egypt Digital Platform	7537,8119,4212
+Egypt Digitalization' Strategy	19856
+Egypt. Digital Transformation	19868
 Egyptian Government Digital Authority	15714
 Egypt’s Deputy Minister for Digital Transformation	7203
 Egypt’s Digital Egypt Platform	16480
@@ -6701,7 +6725,7 @@ High Commission for Digitalization	3831,924,10924
 High Commission for Digitalization OBJECTIVE	15679
 High Commissioner for Digitalisation	3775,1967
 High Commissioner for Digitalisation Meriem Benmouloud	5742
-High Commissioner for Digitalization	2262,158,1411,11848
+High Commissioner for Digitalization	2262,158,1411,11848,4234
 High Commissioner for Digitalization Meriem Benmouloud	2845
 High Commissioner for Digitization	2790
 High Digital Public Infrastructure	14674
@@ -7037,6 +7061,7 @@ Infrastructure and Digitalization	5244
 Initial Digital Lilangeni Design Paper	11130
 Initiative Digital Policy Matrix	14022
 Initiative for Digital Inclusion	10053
+Initiatives Can Accelerate Digital Transformation	19909
 Initiator for Digital Inclusion	1248
 Innovation Breakdown Digitally-enabled	12941
 Innovation Digital	12971
@@ -7823,7 +7848,7 @@ Medium High Digitize	13314
 Medium Microfinance Digitization	12444
 Medium Term Period Digital Identity Public	11986
 Medium Term Period The Digital Literacy	11986
-Meeza Digital	19838
+Meeza Digital	19838,63
 Melhor Projeto de Inclusão Digital	2281
 Mercado Digital	15684,5
 Mercado Digital Nacional de IA	2816
@@ -9251,6 +9276,7 @@ Roadmap for Digital Transformation	3391,7899
 Robert Kwaku Annor Cabo Verde Digital	6040
 Robust Digital and Financial Africa	12444
 Role of Digital Freedom	9989
+Role of Digital Identification for Healthcare	19889
 Roll Out Digital Land Registry	19764
 Roll Out National Digital ID	3117
 Royal Eswatini Police Service’s Digital Forensic	12437
@@ -9810,6 +9836,7 @@ Strengthen Critical Infrastructure and Digital Security	9964
 Strengthen Digital Cooperation and Share Experience	13807
 Strengthen Digital Finance Security The Cyber	14698
 Strengthen Digital Governance	3640,1785
+Strengthen Digital Governance and Food Security	19917
 Strengthen Digital Infrastructure	3728,11091
 Strengthen Digital Infrastructure Gabon	8542
 Strengthen Digital Infrastructure for AI and MoCDTI	4126
@@ -9927,8 +9954,12 @@ Supporting the Cabo Verde Digital	11891
 Supports Mali Digital	3984
 Supports the Digital Superhighway	14681
 Supports the National Digital Master Plan	1201
+Supreme Council for Digital Society	19868
 Supreme Council for Digital Transformation	15203
-Supreme Council of Digital Society	16212
+Supreme Council of Digital Society	16212,3648,1
+Supreme Council of Digital Society The Supreme	19860
+Supreme Council of Digital Society's Cloud First	19861
+Supreme Council of Digital Society. The Egyptian	19860
 Suriname No Sweden Yes Digital Agenda	11529
 Survey Reveals Consumer Digital Fraud	15042
 Suspension of Digital Signature Certificate	18883
@@ -9942,6 +9973,7 @@ Sustainable Digital Infrastructure	15960
 Sustainable Digital Society	6946,10800
 Sustainable Digital Transformation	3604,4466,9248
 Sustainable and Resilient Digital Future	14566,186
+Sustainable and Secure Digital Society	19860
 Synchronous Digital Hierarchy	15372
 Synthesizing Dimensions of Digital Maturity	1824
 System Report. Principles for Digital Public Infrastructure	12214
@@ -10316,6 +10348,7 @@ USAID and Digital Frontiers Capacity	11017
 USE CASE WITH DIGITAL LILANGENI	11130
 USE OF DIGITAL LILANGENI	11130
 USE OF DIGITAL LILANGENI The CBE	11130
+USE OF DIGITAL PAYMENTS	19878
 USE OF DIGITAL REVENUE RECEIPTS Publication	15065
 USSD-based Digital Lilangeni. Even	11130
 USTDA Digital Infrastructure Activities Under Digital	1172

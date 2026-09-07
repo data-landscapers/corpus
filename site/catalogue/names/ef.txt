@@ -290,6 +290,7 @@ DPF Developing Policy Financing EFF Extended	11380
 DPT ECDI2030 EFD FAO FCR	10777
 DU CONTRAT DE TRAVAIL EFFECTIFS	15732
 Data Centre Energy Efficiency. Publications Office	16144
+Data Classification Effective	19860
 Data Collection and Management Effective	12356
 Data Collection and Real-Time Monitoring Effective Spectrum	5245
 Debt Management Effective	13053
@@ -589,6 +590,7 @@ Effect of Artificial Intelligence	11140
 Effect of Cell Phone Coverage	17870
 Effect of Compliance	17249
 Effect of Compliance PUBLIC UTILITIES REGULATORY AUTHORITY	17249
+Effect of Data Privacy Law	19890
 Effect of Derecognition	3503
 Effect of Enforcement History	17249
 Effect of Failure	4167,35,15,43,41,48,1003
@@ -650,7 +652,7 @@ Effectifs5000	18286
 Effective	396,544,21,39,131,88,29,34,69,419,218,724,165,71,783,130,188,210,173,103,88,65,94,462,3,35,383,11,1,2,421,102,230,161,113,152,88,2,215,114,1,61,209,203,256,10,58,208,58,188,163,32,399,6,108,162,93,42,82,58,143,21,39,62,30,82,266,23,215,46,163,16,13,204,9,127,1,4,2,14,2,37,19,19,5,25,24,132,60,76,146,156,2,4,55,24,16,38,60,36,86,9,16,9,4,19,13,7,44,5,54,9,4,5,2,68,3,53,124,51,227,5,60,37,38,11,5,9,18,49,72,89,17,2,30,21,53,44,70,92,61,44,139,70,127,60,60,5,238,6,7,7,117,36,46,89,9,5,31,38,15,45,56,21,9,15,54,32,56,8,19,10,5,178,69,107,83,3,57,2,9,65,164,912,19,9,2,9,6,5,9,6,6,1,30,28,25,17,11,15,19,18,68,41,100,3,145,65,33,381,25,216,8,50,110,16,166,3,34,44,22,209,8,109,138,203,39,162,35,38,14,22,16,4,1,8,1,1,76,2,85,14,13,25,34,12
 Effective AI	6948,600,2389,410,4218,36
 Effective AML	2193
-Effective Administration	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Effective Administration	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Effective Altruism	5302
 Effective Communication and National Guidance	19641
 Effective Communication and National Guidance Department	19742
@@ -742,12 +744,12 @@ Effective and Captive Power Capacity	12256
 Effective and Governance	11469
 Effective and Independent Regulator	19214
 Effective. Original Closing	11965
-Effectively	3161,2372,1415,1655,2632,751,173,1,44,1,848,261,3843,205
+Effectively	3161,2372,1415,1655,2632,751,173,1,44,1,848,261,3843,205,2500,3
 Effectively Communication Key Health Messages	17289
 Effectively They Tackle the Gender Gap	17870
 Effectively Use Data	15960
 Effectivement	6827,2021,1978,4716,2343,1527
-Effectiveness	2055,463,1086,3229,1188,1216,1748,390,488,439,21,33,197,42,459,4,273,391,9,207,142,392,383,30,11,60,203,213,39,70,178,4,74,108,114,31,154,470,270,101,114,342,452,211,29,328,33,63,21,45,131,133,17,335,45,257,294,12
+Effectiveness	2055,463,1086,3229,1188,1216,1748,390,488,439,21,33,197,42,459,4,273,391,9,207,142,392,383,30,11,60,203,213,39,70,178,4,74,108,114,31,154,470,270,101,114,342,452,211,29,328,33,63,21,45,131,133,17,335,45,257,294,12,8
 Effectiveness ARTICLE V	16144
 Effectiveness Analysis.2003	16922
 Effectiveness Art	14976
@@ -921,7 +923,7 @@ Effondrement	18331
 Effondrements	15542
 Effort	10874,2421,1155,3392,1403
 Effortless and Cost Effective Payments for All	11940
-Efforts	571,218,475,290,1322,82,14,632,656,108,308,539,29,23,266,853,255,191,115,3,462,113,238,183,1462,208,353,749,46,16,1,83,22,91,147,10,21,381,50,65,254,35,35,212,19,2,2,4,28,13,14,64,23,11,9,3,34,32,15,26,4,10,51,95,13,147,158,13,8,20,48,7,63,18,85,82,2,4,33,2,71,41,16,133,75,319,18,214,59,327,120,180,10,3,30,32,32,20,7,60,6,16,204,131,7,13,25,86,57,52,12,191,44,64,163,454,3,208,9,80,1,7,21,1,40,6,1,78,9,52,100,32,114,1,466,39,53,163,176,199,64,60,163,255,179,18,305,5,5,17,71,8,6
+Efforts	571,218,475,290,1322,82,14,632,656,108,308,539,29,23,266,853,255,191,115,3,462,113,238,183,1462,208,353,749,46,16,1,83,22,91,147,10,21,381,50,65,254,35,35,212,19,2,2,4,28,13,14,64,23,11,9,3,34,32,15,26,4,10,51,95,13,147,158,13,8,20,48,7,63,18,85,82,2,4,33,2,71,41,16,133,75,319,18,214,59,327,120,180,10,3,30,32,32,20,7,60,6,16,204,131,7,13,25,86,57,52,12,191,44,64,163,454,3,208,9,80,1,7,21,1,40,6,1,78,9,52,100,32,114,1,466,39,53,163,176,199,64,60,163,255,179,18,305,5,5,17,71,8,6,199,30
 Efforts Awareness Activities and Partnerships	1777
 Efforts Current	15473
 Efforts So Far	16468
@@ -992,6 +994,7 @@ Enhance Revenue and Budget Efficiency	2527
 Enhance the Coordination Efficiency	16885
 Enhanced Efficiency and Cost Effective	13477
 Enhanced Regulatory Effectiveness and Competitive Growth	19214
+Enhancement of Administrative Efficiency	19900
 Enhancing Efficiency	13678
 Enhancing Efficiency and Reducing Costs	13477
 Enhancing Efficiency and Reducing Costs Under	13477
@@ -1027,7 +1030,7 @@ Examen Effectif	13300
 Exames Efectuados	18768
 Examining E-Government Development Effects	5349
 Excepção Daquele Efectuado	18775
-Exchange Rate Effective	969,295,20,583,1022,673,42,2935,4290,135,416,88,57,24,11,345,19,41,211,1155,1,402,8,1,93,25,1076,39,162,52,182,39,13,67,20,7,35,68,37,3,2,39,29,12,39,362,240,14,38,178,282,26,30,489,408,13,242,94,95,8,324,129,11,12,32,16,26,36,358,39,171,188,192
+Exchange Rate Effective	969,295,20,583,1022,673,42,2935,4290,135,416,88,57,24,11,345,19,41,211,1155,1,402,8,1,93,25,1076,39,162,52,182,39,13,67,20,7,35,68,37,3,2,39,29,12,39,362,240,14,38,178,282,26,30,489,408,13,242,94,95,8,324,129,11,12,32,16,26,36,358,39,171,188,192,20
 Exchange Rate Effective Dec	16032,3815
 Exchange Rate Effective Feb	19239
 Exchange Rate Effective Oct	17458
@@ -1112,7 +1115,7 @@ Guidelines for Revision Effective	9855
 Guy Patrick Efoua	6804
 Général Effectif	13390
 HARMFUL EFFECT OF MALICIOUS COMMUNICATIONS	11190
-HEI Health Effects Institute	11887,266,1,9,178
+HEI Health Effects Institute	11887,266,1,9,178,7517,1
 HEI Health Effects Institute WRI World	10835,3,130,902,16,466,1,135,7334
 HIV. Effec-	10780
 Harnessing Effective Approaches	16971
@@ -1634,6 +1637,7 @@ Resource Optimization and Efficiency. All	6432
 Responsables Effet	18286
 Responsables Effets	18286
 Responsables Effets Immédiats	18286
+Response. The EFHR	19854
 Retrait Effectifs	13390
 Revolutionize Public Service Efficiency	2347
 Revolutionize Public Service Efficiency Last	2347

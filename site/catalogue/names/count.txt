@@ -4,7 +4,7 @@ A. CONTEXT AT APPRAISAL Context Country	15424
 A. CONTEXT AT APPRAISAL Country Context	15702
 A. COUNTRY CONTEXT	11863,2075
 A. Country	11549
-A. Country Context	969,295,603,1737,2935,4229,61,135,416,37,108,35,295,50,271,1155,1,1605,435,39,80,24,3,35,68,38,2,1288,492,17,646,189,8,476,462,596,12
+A. Country Context	969,295,603,1737,2935,4229,61,135,416,37,108,35,295,50,271,1155,1,1605,435,39,80,24,3,35,68,38,2,1288,492,17,646,189,8,476,462,596,12,8
 A. The Participating Countries	1914,13783
 A. the Participating Countries	14912
 A.Â Regional and Country Context	18887
@@ -105,6 +105,7 @@ Agencies and Counties	5793
 Agencies and Counties MERL Monitoring	7548
 Agreement Concerning Counter Illicit Transnational Maritime	18915
 Alerting Protocol CHD Country Hydromet Diagnostics	18578
+Algeria Country Report. Africopolis	19874
 All Code Countries	14997
 All County Service Centers	16872
 Almud Weitz. Country Director	13897
@@ -146,6 +147,7 @@ Aswa County	10890
 Atlas Countries Support	287
 Atlas of EHealth Country Profiles	14434
 Aug-2025 Country Director	3456
+Augmentation and Rephasing of Access. Country Report No	19889
 Authority Kwale County	6946
 Authority Tharaka Nithi County	6946
 Authority WHO World Health Organization Country	15725
@@ -579,7 +581,7 @@ Counting President Bio Gains	8115
 Counting and Multidimensional Poverty Measurement	15244
 Countless	13963
 Countney Ltd	18154
-Countries	177,49,65,101,10,26,67,21,57,22,2,51,123,18,31,1,15,55,1,2,42,6,19,87,98,97,21,255,9,21,15,250,14,65,95,227,342,74,46,5,52,41,386,813,75,101,109,98,11,222,217,18,81,178,30,96,6,26,5,5,29,126,56,87,132,9,9,16,194,146,97,33,151,256,58,17,1,20,19,24,58,258,12,4,87,22,164,208,3,130,287,43,38,97,32,20,231,124,79,41,10,33,179,95,132,50,92,172,176,7,19,44,62,18,45,264,5,5,110,576,55,3,18,4,4,4,4,129,6,11,14,113,4,2,14,5,42,160,61,146,9,37,218,27,3,10,27,26,2,43,25,7,154,59,4,25,17,69,31,20,284,29,7,21,115,100,16,29,65,278,36,176,129,20,53,172,163,167,198,289,29,23,2,33,183,4,141,335,19,61,160,12,57,262,144,73,206,84,80,212,24,9,24,11,5,8,18,54,32,9,198,144,160,17,89,126,19,80,253,9,171,46,97,135,70,218,286,82,105,85,93,12,124,12,138,17
+Countries	177,49,65,101,10,26,67,21,57,22,2,51,123,18,31,1,15,55,1,2,42,6,19,87,98,97,21,255,9,21,15,250,14,65,95,227,342,74,46,5,52,41,386,813,75,101,109,98,11,222,217,18,81,178,30,96,6,26,5,5,29,126,56,87,132,9,9,16,194,146,97,33,151,256,58,17,1,20,19,24,58,258,12,4,87,22,164,208,3,130,287,43,38,97,32,20,231,124,79,41,10,33,179,95,132,50,92,172,176,7,19,44,62,18,45,264,5,5,110,576,55,3,18,4,4,4,4,129,6,11,14,113,4,2,14,5,42,160,61,146,9,37,218,27,3,10,27,26,2,43,25,7,154,59,4,25,17,69,31,20,284,29,7,21,115,100,16,29,65,278,36,176,129,20,53,172,163,167,198,289,29,23,2,33,183,4,141,335,19,61,160,12,57,262,144,73,206,84,80,212,24,9,24,11,5,8,18,54,32,9,198,144,160,17,89,126,19,80,253,9,171,46,97,135,70,218,286,82,105,85,93,12,124,12,138,17,64,2
 Countries Agree	14932
 Countries By Kennedy Komba	13468
 Countries Countries	6671
@@ -604,7 +606,7 @@ Countries. Out	5508
 Countries. Washington	10997
 Countries’ Rating Based	15713
 Countrv. Postal	11180
-Country	236,76,106,113,42,145,43,10,18,173,161,38,55,13,32,3,13,79,6,103,176,17,160,49,10,111,673,154,346,295,106,21,21,258,265,88,38,46,541,132,262,115,424,252,45,381,37,178,103,165,3,26,167,633,280,403,281,164,176,95,103,134,42,162,1,168,9,407,227,186,158,5,1,3,7,37,7,3,4,3,6,2,1,18,6,3,47,42,10,4,161,64,2,81,129,12,52,1,10,45,25,3,7,10,2,178,104,1,2,6,4,3,16,1,1,1,5,11,30,71,131,1,13,1,1,1,9,51,27,9,11,17,51,7,4,1,5,6,1,1,22,7,15,12,3,40,35,106,63,21,239,18,4,38,56,4,47,11,90,127,2,17,1,11,1,1,1,11,34,136,48,86,98,17,48,44,33,28,9,11,50,46,24,1,4,391,21,37,30,5,68,2,124,23,35,48,4,7,9,3,15,14,8,40,46,20,15,17,24,63,47,2,180,39,4,56,21,8,53,38,30,37,3,16,36,2,10,25,93,1,2,55,59,72,12,100,51,24,90,89,147,120,29,136,13,1,14,2,3,4,49,19,12,1,2,1,19,1,40,34,95,17,141,25,1,103,31,30,255,127,55,2,271,93,18,111,21,14,9,21,3,49,38,4,18,1,27,8,12,66,13,23,13,2,25,22,27,2,26,23,24,244,90,39,236,6,6,9,1,2,89,10,9,1,4,11,2,6,36,3,6,28,11,23,39,13,6,3,3
+Country	236,76,106,113,42,145,43,10,18,173,161,38,55,13,32,3,13,79,6,103,176,17,160,49,10,111,673,154,346,295,106,21,21,258,265,88,38,46,541,132,262,115,424,252,45,381,37,178,103,165,3,26,167,633,280,403,281,164,176,95,103,134,42,162,1,168,9,407,227,186,158,5,1,3,7,37,7,3,4,3,6,2,1,18,6,3,47,42,10,4,161,64,2,81,129,12,52,1,10,45,25,3,7,10,2,178,104,1,2,6,4,3,16,1,1,1,5,11,30,71,131,1,13,1,1,1,9,51,27,9,11,17,51,7,4,1,5,6,1,1,22,7,15,12,3,40,35,106,63,21,239,18,4,38,56,4,47,11,90,127,2,17,1,11,1,1,1,11,34,136,48,86,98,17,48,44,33,28,9,11,50,46,24,1,4,391,21,37,30,5,68,2,124,23,35,48,4,7,9,3,15,14,8,40,46,20,15,17,24,63,47,2,180,39,4,56,21,8,53,38,30,37,3,16,36,2,10,25,93,1,2,55,59,72,12,100,51,24,90,89,147,120,29,136,13,1,14,2,3,4,49,19,12,1,2,1,19,1,40,34,95,17,141,25,1,103,31,30,255,127,55,2,271,93,18,111,21,14,9,21,3,49,38,4,18,1,27,8,12,66,13,23,13,2,25,22,27,2,26,23,24,244,90,39,236,6,6,9,1,2,89,10,9,1,4,11,2,6,36,3,6,28,11,23,39,13,6,3,3,7,4,1,19,43,3,9
 Country Access Rate	11136
 Country Analyses And Plans	899
 Country Analysis Brief	16964
@@ -652,6 +654,7 @@ Country Cooperation Strategy	10776,1953,1129,1867,1149,415
 Country Cooperation Strategy CSO	10776
 Country Cooperation Strategy for WHO and Egypt	15725
 Country Coordinating Mechanism	12729
+Country Country	19925
 Country Current	1264
 Country Dashboard	17011
 Country Data Development Indicators	18747
@@ -713,6 +716,8 @@ Country Facts	11935,3991,3922
 Country Figure	4972
 Country Financial Accountability Assessment	15372,3515
 Country Financing Parameters	15372,3515
+Country Flag	19854
+Country Focus	19921
 Country Focus Report	8574
 Country Framework	18520
 Country Gender Data. Retrieved	16144
@@ -859,7 +864,7 @@ Country Report	1226,9754,1695,2176,628,2365,123,217,107
 Country Report No	1828,15381
 Country Report URL	13733,2193,2041,217
 Country Report. Mogadishu	15129
-Country Reports	9399,1442
+Country Reports	9399,1442,9013,20
 Country Representative	13870,950,117,3687
 Country Representative Dr. Neema Rusibamayila	13166
 Country Resource Compendium	6963
@@ -1203,6 +1208,7 @@ Cybersecurity and Counter- Terrorism	15845
 Cybersecurity and Counter-Terrorism	15845
 D. No Country of Concern	5773
 DATASHEET BASIC INFORMATION BASIC INFO TABLE Country	10829,2503,2221,68
+DATASHEET Country	19855
 DE4A Country Diagnostic	13312,2
 DE4A Country Diagnostics	11867
 DEAL COUNT PER STAGE	10954
@@ -1210,6 +1216,7 @@ DECA Digital Economy Country Assessment ECOWAS	11545
 DECA Digital Ecosystem Country Assessment Report	13346
 DEG. Countries	949
 DEVELOPING COUNTRIES	5349
+DFAT Country Information Report	19854
 DFFT Amongst Like-Minded Democratic Countries	11154
 DFIL Country Partnership Framework DSCE Designated	10964
 DHA Counter Corruption	11986
@@ -1318,6 +1325,7 @@ Draft WBG Country Partnership Framework	1867
 Drive Agricultural Transformation Bong County	17306
 E-Governance and Developing Countries	13341
 E-Government for Developing Countries	5349
+EASO Country of Origin Information Report. Eritrea	19921
 ECOWAS Counterterrorism Brigade	7452
 ECOWAS Countries	16935
 ECOWAS Countries and Percentage	16935
@@ -1333,6 +1341,7 @@ Economic and Financial Analysis COUNTRY	13332
 Economy Country Assessment ESF Director General	13331
 Economy Name Country	15844
 EdTech Solutions and Solar Power BOMI COUNTY	16963
+Egypt Country Climate and Development Report	19855
 Egypt Country Office	15473
 Egypt Country Office USAID	15473
 Egypt Country Profile. Retrieved	15604
@@ -1413,7 +1422,7 @@ Fadia M. Saadah Country Director	17458
 Fadia M. Saadah. Country Director	13860
 Federal Republic of Somalia Count Percent Somali	15085
 Female Both Country Of Death	12151
-Ferid Belhaj Country Director	13836,5999
+Ferid Belhaj Country Director	13836,5999,20
 File Count	11268,1405,1172
 Finance and Budget Type Role Country Line	18359
 Finance and Cash Counter	14761
@@ -1446,6 +1455,7 @@ GCM Champion Country	9838,7454
 GEM Report Country Profiles. Egypt. Inclusion	15604
 GENERAL INSTITUTIONAL FRAMEWORK GENERAL APPROACH Countries	1243
 GET.transform Launches EU-funded Country Window	11936
+GFF Countries	19889
 GFOI Country-Led Planning	16036
 GHS Index Country Profile for Angola	11417
 GIEWS Country Brief	16464,708
@@ -1629,6 +1639,7 @@ IMF Country Focus	6679,4880
 IMF Country Report	10997,4755
 IMF Country Report No	969,859,2,9275,2519,244,866,43,252,12,432,279,1505,246,406,81,833
 IMF Country Team	17235
+IMF Egypt Country Report	19889
 IMF IMF Country Report No	17990
 IMF Staff Country Reports	19823
 IMF Staff Country Reports Volume	13624,6199
@@ -1902,7 +1913,7 @@ Lofa and Bong Counties	16970
 Lofa and Nimba Counties	16970
 Low and Medium Income Countries	15411
 Low and Middle Income Countries	665
-Low- and Middle-Income Countries	6948,2483,1554
+Low- and Middle-Income Countries	6948,2483,1554,8904
 Low- and Middle-Income Countries.43	11004
 Low- and Middle-Income Country Context	10881
 Low-Income Countries	1828,4490,7306,61
@@ -1922,6 +1933,7 @@ Lower-Middle Income Country	11909
 M High-Speed Internet Project Across the Country	5292
 M&E Lower-Middle-Income Country Labor Management Procedures	10964
 M. Countries	83,1060
+M. Saadah and Country Director Stephane Guimbert	19889
 MACs and Counties	16949
 MB File Count	9854
 MENA Countries	17448
@@ -2111,6 +2123,7 @@ Non-Member ECOWAS Country	14434
 Non-World Bank Group Financing Counterpart Funding	14015
 Non-fragile Country	1284,15638
 Northern Northern Nairobi County Region Meru	7869
+Norwegian Country of Origin Information Centre	19921
 Norwegian Investment Fund for Developing Countries	211,178,1,123,194,1,1,1,218,1,208,1095,1,1
 Number County Country	7167
 Number of Peace and Political Dialogues No County	16970
@@ -2604,6 +2617,7 @@ UNICEF Country Representative Wafaa Abdelatef	5100
 UNICEF Country and Regional Child Protection Offices	16860
 UNICEF Djibouti Country Office	13901
 UNICEF Egypt Country Office	15604
+UNICEF Eritrea Country Office Annual Report	19933
 UNICEF Eswatini Country Office	12330
 UNICEF Ethiopia. Country Office Annual Report	12188
 UNICEF Liberia Country Office Annual Report	16949
@@ -2616,6 +2630,7 @@ UNICEF’s Country Representative for Zambia	5802
 UNV VNR WOBIPC Country Programme Document	16973
 US Counterstrategies. Insight Africa	5242
 US Country Commercial Guide	1032,857,1486,1598
+US Department of State's Country Reports	19854
 US ITA Country Commercial Guide	4186,908,1246
 USAID Country Profile Egypt	15473
 Uasin Gishu County	10399,1859
@@ -2722,6 +2737,7 @@ World Bank Country Partnership Framework	1264,2340,7813,3773,431
 World Bank Country Partnership Strategy	11924,3487,2451
 World Bank Country Representative Franklin Mutahakana	8459
 World Bank Country Representative for Lesotho	12747
+World Bank Country Unit	19889
 World Bank Country and Lending Groups	10785,219
 World Bank Digital Economy Country	1029
 World Bank Group Country Management	15969
@@ -2733,6 +2749,7 @@ World Bank Group Country Partnership Framework	12176,935,3811
 World Bank Group ID4D Country Diagnostic	15415
 World Bank Group Liberia Country Manager	14345
 World Bank Group's Country Partnership	1954
+World Bank Group's Country Partnership Framework	19855
 World Bank Group's Country Partnership Strategy	15704
 World Bank Group's Eswatini Country Partnership	12426
 World Bank Group's Systematic Country	19835

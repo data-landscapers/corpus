@@ -264,6 +264,7 @@ Bureau and Secretariat	16371
 Bureau and Secretary	19712
 Burundi's Executive Secretary for ICT	2408
 C'est le Secrétaire Général	15787
+C. Secret	19860
 CABINET SECRETARY FOR FOREIGN	4153
 CABINET SECRETARY MINISTRY OF INFORMATION	15261
 CAPÍTULO II DE LA SECRETARÍA TÉCNICA	16855
@@ -451,6 +452,7 @@ D Recaudador de Contribuciones Secretario Grupo D	4209
 D Secretaría General	4209
 D'après le Secrétariat	19092
 D. GRA Secretariat	14843
+D. Top Secret	19860
 D.G. SECRETARIADO GOB..-Concepto	4209
 DAGL Secretary-General Tagba Atafeyinam Tchalim	4293
 DCO Secretary-General Deemah Al Yahya	14334
@@ -1859,7 +1861,7 @@ Secrecy of Information	18600
 Secrecy of Postal	15340
 Secrel	15429
 Secrertt	19525
-Secret	1187,2674,2571,4404,1150,1337,1089,690,261,66,165,41,2193,291,191,908
+Secret	1187,2674,2571,4404,1150,1337,1089,690,261,66,165,41,2193,291,191,908,642
 Secret Data	6432
 Secret Detention	17950
 Secret GCSP	6432
@@ -1933,7 +1935,7 @@ Secretarias Fiscalías de Salas	4209
 Secretarias Fiscalías de Salas Servicio	4209
 Secretarias Municipais	10766
 Secretarias Municipais Virtuais	1808
-Secretariat	21,5,1,1,290,269,184,169,22,20,172,89,21,290,1922,107,278,242,425,1173,426,217,297,221,177,222,191,70,1,25,215,535,69,102,58,212,296,118,15,39,48,106,221,348,29,198,12,17,1,73,53,4,4,24,131,364,24,265,9,134,493,32,1,8,1,93,16,142,87,30,163,6,12,156,34,6,6,84,32,1,241,2,14,4,15,11,10,6,64,398,37,86,719,29,19,79,25,40,19,11,12,158,5,51,44,26,19,116,195,454,20,13,24,204,56,296,44,270,88,231,3,3,3,28,49,11,13,7,5,58,170,187,255,4,20,14,16,80,121,1,15,77,326,5,133,3,26,2,2,5,59,22,25,70,259,160,23,95,334,66,44,28,150,40
+Secretariat	21,5,1,1,290,269,184,169,22,20,172,89,21,290,1922,107,278,242,425,1173,426,217,297,221,177,222,191,70,1,25,215,535,69,102,58,212,296,118,15,39,48,106,221,348,29,198,12,17,1,73,53,4,4,24,131,364,24,265,9,134,493,32,1,8,1,93,16,142,87,30,163,6,12,156,34,6,6,84,32,1,241,2,14,4,15,11,10,6,64,398,37,86,719,29,19,79,25,40,19,11,12,158,5,51,44,26,19,116,195,454,20,13,24,204,56,296,44,270,88,231,3,3,3,28,49,11,13,7,5,58,170,187,255,4,20,14,16,80,121,1,15,77,326,5,133,3,26,2,2,5,59,22,25,70,259,160,23,95,334,66,44,28,150,40,27
 Secretariat ARTICLE	14409
 Secretariat African Financial Stablity Committee	6938
 Secretariat Arusha	11806,1845
@@ -2001,6 +2003,7 @@ Secretaries and Employees	15393
 Secretaries for TV	19641
 Secretaries of Audit Committees	14835
 Secretaries of State	1855,3918,1068
+Secretaries' Report	19874
 Secretario	4209
 Secretario A1 Conductor A3 Conductor B3	4209
 Secretario A1 Primer Secretario A2 Primer	4209
@@ -2620,7 +2623,7 @@ Tinkhundla Secretaries Promotions	12970
 Tinkhundla Secretary	12970
 Tivités Le Secréloire	15429
 Tiékora TRAORE Secrétaire	18003
-Top Secret	6432,5554
+Top Secret	6432,5554,7874
 Top Secret That Will Improve	5574,215
 Top Secret and Secret Data	6432
 Toumany SANGARE Secrétaire	17899

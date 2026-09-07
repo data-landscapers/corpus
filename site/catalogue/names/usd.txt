@@ -56,7 +56,7 @@ County Male Female LRD USD LRD	16878
 Crude Oil USD	17235
 Crédito Adicional Suplementar USD	3606
 Currency USD	3676
-Current USD	10759,76,2,1,74,56,902,16,1,2,265,186,1,11,1,135,7334,14
+Current USD	10759,76,2,1,74,56,902,16,1,2,265,186,1,11,1,135,7334,14,23,65
 Current USD Central Government Debt	10837,1052,265,186,1,7495
 Current USD GDP	10835,3,130,902,16,466,1,135,7334
 Current USD. Central Government Debt	11887
@@ -299,6 +299,7 @@ USD Department	12490
 USD Dollar	15474,19
 USD Dollars	15724
 USD Dólar	17093
+USD Egypt	19862
 USD Ethiopia	12205
 USD FX	1013,931
 USD Financement	15673
@@ -345,6 +346,7 @@ USD Programme Transformer	15673
 USD Projet	15673
 USD Purchasing Power Parities	15120
 USD QS	11885
+USD Rank	19862
 USD Rank USD Rank Kenya	236
 USD Related Indicator	7221
 USD Renforcement	15673

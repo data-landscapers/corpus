@@ -45,6 +45,7 @@ Agency PAD Project Appraisal Document PAT	15518
 Agency SAD Single Administrative Document SARS	16631
 Agenda Ministerial Document Reunião de Nível Ministerial	17323
 Aimé Sulpice Doctrové	15455
+Algeria and Tunisia. Doctoral Dissertation	19874
 All Rights Reserved Contacts DDI Document	17366
 Alternate Documents	14045
 Alternate Documents. Exceptions	14045
@@ -57,6 +58,7 @@ Amendment of Request for Proposals Document	15080
 Anexo de Documentos	12021
 Angola Janet Adão Doctors	10784
 Appearance and Security Features of Documents Issued	11868
+Appearance of Documents Related	19854
 Application Software Security Directives Document History	15161
 Appraisal Document	1584,3778,6603,6844,475
 Appraisal Document PAD PDO Project Development	11855
@@ -326,7 +328,7 @@ DES INFORMATIONS ET DOCUMENTS PUBLICS SUR	19208
 DESTINATAIRES DU DOCUMENT Diffusion	14438
 DEVELOPMENT ASSOCIATION PROJECT APPRAISAL DOCUMENT	15491,167
 DEVELOPMENT PROGRAM APPRAISAL DOCUMENT	17458
-DEVELOPMENT PROJECT APPRAISAL DOCUMENT	10768,612,4031,107,141
+DEVELOPMENT PROJECT APPRAISAL DOCUMENT	10768,612,4031,107,141,4196
 DHIS2 Documentation Skip	12408
 DIRECTION GENERALE ET DE DOCUMENTATION DES	16100
 DIVISION DOCUMENTATION Professeur	17827
@@ -425,12 +427,14 @@ DOCs Ducks Indigenous Chicken	17043
 DOC’s and UNCTAD	15478
 DPS Document de Politique Sectorielle FAI Fournisseurs	16327
 DU DOCUMENT ET DE LA SISNATURE	13719
+Dar Wael for Publishing. V. Administrative Documents	19900
 Data Download and Documentation	10977
 Database Document Management	14738
 Database Metadata Documentation	15844,1201
 Dataset Documentation The International Research Institute	14900
 Deadline for Obtaining Tender Document	12693
 Deeds and Documents	13251
+Defining the List of Civil Status Documents	19900
 Definition Fall-back Fall-back Documented	12364
 Delivery and Documents	13185
 Delivery of Documents	14718
@@ -582,11 +586,12 @@ Doctor-Patent Relationship. Council of Europe. Retrieved	1243
 Doctor-to-Population Ratio	18162
 Doctorado	16864,56
 Doctorado. Estructura	16920
-Doctoral	2093,4855,1074,649,2277,1279,3962
+Doctoral	2093,4855,1074,649,2277,1279,3962,3711
 Doctoral Degree	12972
 Doctoral School	14775,4965
 Doctoral School of Water and Water Quality ENACTS	18309
 Doctoral Studies	12431
+Doctoral Thesis	19900
 Doctorant	10826
 Doctorants	1183,14311
 Doctorants-Moniteurs	4833
@@ -616,8 +621,10 @@ Docum	17827
 Docum Nombre	3396
 Docum Specific Procurement Bidding Documents	17180,39
 Docume	17127
-Document	970,39,24,304,177,72,1,51,47,228,177,118,48,35,812,399,1,59,21,173,344,29,264,97,1,49,1,307,48,236,66,61,9,102,163,132,10,1,2,1,13,740,107,573,154,12,55,215,72,28,7,166,226,844,845,8,1019,81,32,37,52,21,147,3,20,96,612,52,60,10,26,1,172,26,42,107,4,5,31,44,56,8,21,314,44,6,12,22,12,29,12,62,143,102,3,21,4,10,16,136,47,42,52,50,21,279,9,4,4,35,2,163,225,12,13,14,3,28,7,29,12,9,70,12,199,40,8,10,3,29,7,3,17,7,23,34,35,53,276,7,29,74,2,18,19,28,51,8,33,11,27,4,80,5,38,51,53,53,7,76,47,64,1,100,166,60,125,17,9,6,2,7,81,121,15,5,9,52,175,2,13,2,23,10,31,32,111,1,43,78,89,161,134,7,109,38,123,9,3,1,2,14,40,111,5,79,24,36,7,25,94,121,94,25,173,53,2,89,8,95,1,3,8,2,15,5,1,269,16,39,1,55,8,5,1,22,134,49
+Document	970,39,24,304,177,72,1,51,47,228,177,118,48,35,812,399,1,59,21,173,344,29,264,97,1,49,1,307,48,236,66,61,9,102,163,132,10,1,2,1,13,740,107,573,154,12,55,215,72,28,7,166,226,844,845,8,1019,81,32,37,52,21,147,3,20,96,612,52,60,10,26,1,172,26,42,107,4,5,31,44,56,8,21,314,44,6,12,22,12,29,12,62,143,102,3,21,4,10,16,136,47,42,52,50,21,279,9,4,4,35,2,163,225,12,13,14,3,28,7,29,12,9,70,12,199,40,8,10,3,29,7,3,17,7,23,34,35,53,276,7,29,74,2,18,19,28,51,8,33,11,27,4,80,5,38,51,53,53,7,76,47,64,1,100,166,60,125,17,9,6,2,7,81,121,15,5,9,52,175,2,13,2,23,10,31,32,111,1,43,78,89,161,134,7,109,38,123,9,3,1,2,14,40,111,5,79,24,36,7,25,94,121,94,25,173,53,2,89,8,95,1,3,8,2,15,5,1,269,16,39,1,55,8,5,1,22,134,49,4,48,8,11
 Document ALL	13310
+Document Access Report	19854
+Document Access Report. Sent	19854
 Document Activity	16863
 Document Agenda Regional Strategic Meeting	17324
 Document An Attorney-at-Law	14828,3
@@ -665,6 +672,7 @@ Document Help Email	18540
 Document Help Start Chat	18540
 Document History	12360
 Document History SN Author Version	16923,1
+Document ID	19854
 Document ID Classification Owner Custodian Applicability	16212
 Document ID Number	8605
 Document Information	775
@@ -804,7 +812,7 @@ Documentary Compliance	18109
 Documentary Compliance Import	18109
 Documentary Evidence	11233,1952
 Documentati	19576
-Documentation	747,440,2396,208,70,1652,152,1291,265,1,2633,458,499,163,293,310,50,232,1,93,89,184,70,103,208,149,278,150,164,32,151,241,416,21,315,12,37,77,223,31,16,169,39,35,391,25,42,3,6,43,27,8,60,5,72,88,67,30,68,4,72,77,129,57,114,28,20,26,298,23,59,5,116,133,179,384,4,14,47,5,9,70,105,28,38,26,1,121,2,31,13,91,722,216,209,1,139,30,29
+Documentation	747,440,2396,208,70,1652,152,1291,265,1,2633,458,499,163,293,310,50,232,1,93,89,184,70,103,208,149,278,150,164,32,151,241,416,21,315,12,37,77,223,31,16,169,39,35,391,25,42,3,6,43,27,8,60,5,72,88,67,30,68,4,72,77,129,57,114,28,20,26,298,23,59,5,116,133,179,384,4,14,47,5,9,70,105,28,38,26,1,121,2,31,13,91,722,216,209,1,139,30,29,104,1
 Documentation API	17902
 Documentation Administrateur	17827
 Documentation Architecture	19360
@@ -1007,6 +1015,9 @@ Ecoles Doctorales	13313
 Edad EDUCACIÓN SUPERIOR Doctor	16864
 Education Document	13310
 Education and Social Services Document Number	19533
+Electronic Biometric Documents Complementing the NACSR	19900
+Electronic Biometric Documents Desk	19900
+Electronic Desk Process for Biometric Documents and Methods	19900
 Electronic Docu	16876
 Electronic Document	3042
 Electronic Document Management	13042
@@ -1024,6 +1035,7 @@ Eligibility of Goods and Services Documents	14766
 Elise Flore Doctore	16175
 Emergency Doctor Health Information Oﬃcer Hospital	8603
 Emploi Documents Documents de Politique Bilans PNR	17888
+English Document ID	19854,67
 English. C.2. Documents Comprising the Bid	14778
 Eritrea Country Programme Document	14058
 Eritrea Document	13949
@@ -1186,7 +1198,7 @@ IV.1 Documents	13306
 Identification Documents	13031,279,1544
 Identificação Tributária. Documentos	12861
 Identity Doc	12152
-Identity Document	8250,2509,9,67,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,85,386,4155,2538,1,169,14
+Identity Document	8250,2509,9,67,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,85,386,4155,2538,1,169,14,22,1,65
 Identity Document BUSINESS	10759
 Identity Document Business	10759,1395
 Identity Document Education Business	10835,3,130,902,16,466,1,135,7334
@@ -1236,6 +1248,7 @@ Invitation Documents Registration REGISTER HERE Invitations	10235
 Iraq Identification Document Ireland Hong Kong	10714
 Irrelevant Documents	19541
 Islamic Republic of The Gambia Document	17324
+Issuance Procedures for Documents Related	19854
 Issuance of Documentation	12151
 Issuance of Documents	11868
 Issuance of Identity Documents	16874
@@ -1497,7 +1510,7 @@ Programme Doctorate Degree Masters' Degree Professional	11134
 Programme Document	12214,1786
 Programme Graduated Still Studying Doctorate	11131
 Progression Model Documents Reviewed	17869
-Project Appraisal Document	541,2,16,183,42,187,25,294,575,123,264,637,659,2072,919,215,4078,569,16,507,267,197,1355,107,6,114,918,22,56,17,389,39,13,67,20,4,3,35,48,3,15,2,37,1,2,2,41,39,401,240,52,178,24,258,26,4,23,3,8,139,15,735,13,44,384,4,6,173,271,10,133,352,404
+Project Appraisal Document	541,2,16,183,42,187,25,294,575,123,264,637,659,2072,919,215,4078,569,16,507,267,197,1355,107,6,114,918,22,56,17,389,39,13,67,20,4,3,35,48,3,15,2,37,1,2,2,41,39,401,240,52,178,24,258,26,4,23,3,8,139,15,735,13,44,384,4,6,173,271,10,133,352,404,246
 Project Appraisal Document PAD3340	424
 Project Appraisal Document PAD3556	554
 Project Appraisal Document PASyFiS Support	17849
@@ -1530,7 +1543,7 @@ Public Disclosure Authorized Project Information Document	3456,7507
 Public Disclosure Authorized Supporting Documents Table	11469
 Public Documents	14714,1
 Public Participation Documents Section	14559
-Public Register of Authentic Travel and Identity Documents	19636
+Public Register of Authentic Travel and Identity Documents	19636,285
 Public Service Social Security Fund Document	19533
 Publications and Documents	17025
 Publique DOCTORAT D'EXERCICE	15674
@@ -1622,6 +1635,7 @@ Request for Proposals Document	15080
 Require Information and Documents	17249
 Required Accompanying Documentation	18851
 Required Documentation	6442,6312
+Required Documentation Necessary	19866
 Required Documents	14891,4745,42
 Required Documents Applicants	12085
 Requirements Documentary	12496
@@ -1735,6 +1749,7 @@ Studies White Papers API Docs FAQ	12211
 Study Description Data Description Documentation Get	15844
 Su Documento de Identidad Personal. Artículo	16905
 Submission of Documents	12400
+Submitting Civil Status Documents Available	19900
 Support Documents	12041
 Supporting Documents	4439,1993
 Supporting Documents Finding Expenditure	13420
@@ -1790,6 +1805,7 @@ Transparency of Key Procurement Documents	12389
 Travel Documents Types Available	14045
 Travel Documents and Passports	5533
 Travel Documents and Passports Bill	11986
+Travel Documents and Titles	19900
 Type of Documents	12550
 Types of Supporting Documentation. The Bank	18887
 TÍTULO V DOCUMENTOS Y ARCHIVOS ELECTRÓNICOS	16855

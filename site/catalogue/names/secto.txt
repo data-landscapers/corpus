@@ -13,6 +13,7 @@ AI SECTOR In Ethiopia	14004
 AI Sector Economic	4528,7984
 AI Systems. Private Sector	1814
 AIDE-MEMOIRE DE LA DIXIEME REVUE SECTORIELLE	2966
+ALGERIA LAND SECTOR	19874
 ANNEXES I. External Sector Assessment	17503,487
 ANNUAL INFORMATION AND COMMUNICATION TECHNOLOGY SECTOR	12395
 ASCENT PPF Private Sector Support Window	7020
@@ -114,6 +115,7 @@ B. Sectoral	11549
 B. Sectoral Context and Rationale for AF2	19455
 B. Sectoral and Institutional Context	969,295,603,1737,2935,4229,61,135,416,37,108,35,295,50,271,1155,1,1578,27,435,39,80,24,3,35,68,37,1,2,82,401,240,565,492,17,646,189,8,476,110,352,6,398,192,12
 B. Sectoral and Institutional Context Closing	15621
+B. Sectoral and Institutional Context Notable	19855
 B. Sectoral and Institutional Context Public Financial	969
 B. Sectoral and Institutional Context Reform Progress	17441
 B. Sectoral and Institutional Context Sectoral	11560
@@ -282,6 +284,7 @@ Change Management Change Management of Public Sector	12917
 Channel Responsible Sector	19532
 Charge of Public Sector Reforms	9730
 Child. Education Sector Plan for Egypt Education	15604
+Children's Data and Sector	19910
 Chipoka Port. ALLOCATIONS TO SOCIAL SECTORS	13122
 Citizen Sector G2G Government	14897
 Civil Society and Private Sector	18370
@@ -556,7 +559,7 @@ Education Sector Performance Report FCDO	12175
 Education Sector Performance Report. Ministry of Education	12175,1034
 Education Sector Performance Reports	12175
 Education Sector Performance Reviews	12175
-Education Sector Plan	11525,391,1433,641,1614,57,775,24,561,1439,104,1,346,924
+Education Sector Plan	11525,391,1433,641,1614,57,775,24,561,1439,104,1,346,924,98
 Education Sector Plan Development Grant	14896
 Education Sector Plan Support Project	15661,775
 Education Sector Plan Support Project ESS	15661
@@ -905,8 +908,9 @@ Governance and Decentralisation Sector Strategic Plan	14935
 Governance and Decentralization Sector	13418,1517
 Governance and Decentralization Sector Strategic Plan	13418
 Government Development Partners Private Sector Central	16973
-Government Sector	16924
+Government Sector	16924,2976
 Government Sector Insur-	15519
+Government Sector Insurance Fund	19855
 Government and Private Sector	19633
 Government and Private Sector of Seychelles	18885
 Government and Public Sector	6998,6514
@@ -1016,6 +1020,7 @@ ICT Sector Demand-Side	19214
 ICT Sector GDP	12395
 ICT Sector Growth	6562,6733,2334
 ICT Sector Growth ICT Sector	13295
+ICT Sector Indicators The ICT	19868
 ICT Sector Information	11262
 ICT Sector Infrastructure	15713
 ICT Sector Intellectual Property Guidelines and National	19660
@@ -1499,6 +1504,7 @@ National Communication Sector Policy San Marino	11529
 National Digital Sector Assessment Survey	14010
 National Education Sector Investment Plan	12175
 National Education Sector Investment Plan NGES	12175
+National Education Sector Plan	19933
 National Education and Training Sector Policy	12975
 National Entrepreneurship Policy Private Sector	16861
 National Financial Sector Development Strategy	14674
@@ -1516,6 +1522,7 @@ National Public Sector Investment Plan	17289
 National Public Sector Reform Strategy	8371
 National Public Sector Reform Strategy II	8367,2,1361
 National Sector Review	11900
+National Solidarity Sector	19913
 National Strategy for Private Sector Development	19666
 National and Sector Outcome	12962
 National and Sectoral Computer Emergency Response Teams	587
@@ -1732,8 +1739,9 @@ Priority Sectors	1814,11286,1719,1325
 Priority Sectors All	1814
 Priority Sectors and Use Cases	15713
 Private Financial Sector Institutions	14997
+Private Health Sector	19900
 Private Private Sector Sector	14997
-Private Sector	192,707,101,87,117,573,37,14,302,1996,169,162,1,35,3,1,15,16,716,433,226,250,679,716,41,1730,292,119,95,934,9,51,16,2,1,3,60,67,161,7,60,32,115,13,435,66,13,16,1,1,1,35,16,55,158,1,9,77,51,6,43,1,11,1,3,10,78,9,35,24,163,242,29,16,2,154,4,173,50,14,29,30,151,422,418,368,96,6,118,7,123,3,343,131,241,1008,4,4,11,4,75,12,12,124,17,23,18,78,1,24,485,701,63,68,42,86,540,274,1,11,115,6,1,14,155,14
+Private Sector	192,707,101,87,117,573,37,14,302,1996,169,162,1,35,3,1,15,16,716,433,226,250,679,716,41,1730,292,119,95,934,9,51,16,2,1,3,60,67,161,7,60,32,115,13,435,66,13,16,1,1,1,35,16,55,158,1,9,77,51,6,43,1,11,1,3,10,78,9,35,24,163,242,29,16,2,154,4,173,50,14,29,30,151,422,418,368,96,6,118,7,123,3,343,131,241,1008,4,4,11,4,75,12,12,124,17,23,18,78,1,24,485,701,63,68,42,86,540,274,1,11,115,6,1,14,155,14,22,1,65
 Private Sector AI	7548
 Private Sector Academia and Research Institutions Private	14565
 Private Sector Adoption and KPI Monitoring Design	4126
@@ -1931,7 +1939,7 @@ Public Health Sector	14773
 Public Private Azhari Education Sector Plan	15604
 Public Private Education Sector Plan for Egypt	15604
 Public Register of Public Sector AI Systems	7548
-Public Sector	103,3,85,37,1,9,62,3,13,1,2,101,1,10,46,21,53,2,27,1,542,81,209,157,582,59,33,9,2,413,107,41,1310,342,3,5,2,17,3,1,20,1,6,2,55,693,264,160,453,337,1492,385,195,860,177,524,636,60,16,2,1,130,172,53,661,16,16,1,1,1,263,1,1,9,128,10,39,1,11,1,66,34,35,24,151,12,242,391,37,43,443,693,42,163,13,3,5,16,7,13,42,3,4,8,54,496,265,3,18,587,595,24,57,95,199,55,31,79,47,1029,40,1135,1,14,155,14
+Public Sector	103,3,85,37,1,9,62,3,13,1,2,101,1,10,46,21,53,2,27,1,542,81,209,157,582,59,33,9,2,413,107,41,1310,342,3,5,2,17,3,1,20,1,6,2,55,693,264,160,453,337,1492,385,195,860,177,524,636,60,16,2,1,130,172,53,661,16,16,1,1,1,263,1,1,9,128,10,39,1,11,1,66,34,35,24,151,12,242,391,37,43,443,693,42,163,13,3,5,16,7,13,42,3,4,8,54,496,265,3,18,587,595,24,57,95,199,55,31,79,47,1029,40,1135,1,14,155,14,22,1,65
 Public Sector AI Academies	4528,7984
 Public Sector AI Programmes	14786
 Public Sector AI Transformation Programme	7548
@@ -2061,7 +2069,7 @@ Public Security Sector	15992
 Public Service Sector Bargaining Council HR	11261
 Public and Private Sector	318,5475
 Public and Private Sector Financing Needs	18795
-Public and Private Sector Insurance Fund	15519
+Public and Private Sector Insurance Fund	15519,4336
 Public and Private Sector Leaders As the Ministry	18551
 Public and Private Sectors	12000,4966,1571
 Public and Private Sectors. Data Appraisal	19613
@@ -2439,6 +2447,7 @@ Sector Performance Report NHPP National Health	16971
 Sector Performance Review	15796
 Sector Performance and Economic Growth	16626
 Sector Pesquero	1701
+Sector Plan	19933
 Sector Plan Communication and Digital Economy	15411
 Sector Plan FA Financing Agreement FM	18765
 Sector Plan for Egypt	15604
@@ -2521,7 +2530,7 @@ Sector Strategic Plans	1261,11152,2533,110
 Sector Strategic Plans for Statistics	19519
 Sector Strategies	16927
 Sector Strategies Nigeria	11469
-Sector Strategies and Policies	969,898,1737,2935,4229,61,135,453,108,35,295,1476,1,1578,27,39,577,68,37,1,485,240,14,307,1199,200,94,95,8,476,468,39,359,192,12
+Sector Strategies and Policies	969,898,1737,2935,4229,61,135,453,108,35,295,1476,1,1578,27,39,577,68,37,1,485,240,14,307,1199,200,94,95,8,476,468,39,359,192,12,8
 Sector Strategies and Policies Moderate	15190
 Sector Strategies and Policies Substantial	11380,525,3756
 Sector Subsector Tipo de Entidade Autoridades	6970
@@ -2607,7 +2616,7 @@ Sector-agnostic	15460
 Sector-impact	1702
 Sector-office	12328
 Sector-speci	14566
-Sector-specific	1161,2700,667,1137,928,355,600,527,3190,1091,29,127,525,381,1147,573,1804,33,124,144,7,2551
+Sector-specific	1161,2700,667,1137,928,355,600,527,3190,1091,29,127,525,381,1147,573,1804,33,124,144,7,2551,89
 Sector-specific Foreign Affairs	7548
 Sector-specific Universal	15205
 Sector-wide	14922,242,440
@@ -2680,6 +2689,7 @@ Sectoral Gender Policy Statement	14742
 Sectoral Gender Policy and Sectoral Gender Action	14742
 Sectoral Goals	17116
 Sectoral Harmonization	16212
+Sectoral Issues	19890
 Sectoral Layer	11952
 Sectoral Loan Distribution	17235
 Sectoral Mainstreaming	13359
@@ -2954,7 +2964,7 @@ Tech Sector	2549,1979,7984,3467
 Technical Committee of Sector-Wide Approach	19544
 Technical Vocational Education and Training Sector	12934
 Technology JESR Joint Education Sector Review	15604
-Technology Sector	11007,1388
+Technology Sector	11007,1388,7536
 Technology Sector The Republic of Cabo Verde	11863
 Technology Sector Working Group. Zambia’s Securities	12376
 Technology Startups and Private Sector Firms	11863

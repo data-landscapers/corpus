@@ -18,6 +18,7 @@ CD Input	17990
 Cameroon Input	10969
 Chemical Inputs	14818
 Chemical Inputs Mauritius	14818
+Civil Status Registration Questionnaire- Inputs	19887
 Client's Input and Counterpart Personnel	11869
 Climate-Proofed Presidential Input Programme	13685
 Committee Analysis of Inputs Received	5853
@@ -79,8 +80,8 @@ INPUTS TO SHALL BE USED	17127
 INPYDE	4209,12733
 INPYDE of Equatorial Guinea	16942
 IO Input	13185
-Innovation Input Sub-Index	10969,915,1,10,264,1,44,1,146,4,132
-Innovation Inputs	11884,11,264,192
+Innovation Input Sub-Index	10969,915,1,10,264,1,44,1,146,4,132,7375,3
+Innovation Inputs	11884,11,264,192,7511
 Innovation Inputs Innovation Outputs	12487
 Inp-HB	6235
 Inp-Hb	2453
@@ -95,9 +96,10 @@ Inpor Quotas Unipessoal	10757
 Inpracticalterms	8602
 Inpractice	8602,4
 Inprinciple	8602
-Input	899,5524,2183,517,1846,222,670,23,1,10,57,207,1,44,1,146,4,90,42,143,300,2,32,276,284,1594,1725,200,2241
+Input	899,5524,2183,517,1846,222,670,23,1,10,57,207,1,44,1,146,4,90,42,143,300,2,32,276,284,1594,1725,200,2241,578,3
 Input Distribution	9123
 Input Output Table	19519
+Input Sub-Index	19865
 Input Subsidy Programme	12956
 Input Tax	12509,4599
 Input Tax Claim Schedules for VAT Returns	12509

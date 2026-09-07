@@ -458,7 +458,7 @@ Entrepreneurs de Travaux	17983
 Entrepreneurs of Tunisia	19221
 Entrepreneurs of Youth	12512
 Entrepreneurshi	19534
-Entrepreneurship	396,396,148,18,94,1041,2055,30,763,499,3110,578,109,123,63,570,848,128,888,6,21,1,6,4,36,9,219,1,45,146,4,1,131,555,58,9,186,63,10,106,13,412,39,656,156,193,54,133,43,31,64,282,594,732,66,9,347,72,500,591,19,7,283,475,289
+Entrepreneurship	396,396,148,18,94,1041,2055,30,763,499,3110,578,109,123,63,570,848,128,888,6,21,1,6,4,36,9,219,1,45,146,4,1,131,555,58,9,186,63,10,106,13,412,39,656,156,193,54,133,43,31,64,282,594,732,66,9,347,72,500,591,19,7,283,475,289,328,3
 Entrepreneurship Activity	14897
 Entrepreneurship Activity NPS National Payment System	14897
 Entrepreneurship Advisory Council	18518,33
@@ -739,7 +739,7 @@ Gladio Entreprise Vu	15439
 Global Entre-	14897
 Global Entrepreneurship Index	12540,2907,103,1326,994,1061
 Global Entrepreneurship Index GHG Greenhouse	18931
-Global Entrepreneurship Monitor	10969,915,11,264,46,146,4,21,111,2410,583
+Global Entrepreneurship Monitor	10969,915,11,264,46,146,4,21,111,2410,583,4382,3
 Global Entrepreneurship Monitor JICA Japanese International	14897
 Global Entrepreneurship Monitor. Available	12376
 Global Entrepreneurship Monitor. Supporting Africa	12376
@@ -852,6 +852,7 @@ MATRICE D'ARRIMAGE ENTRE LA SNDS-3	15479
 MAURITANIE ENTRE	17843
 MEDIUM TERM Entrepreneurship Improve	16876
 MICIT Entrepreneurshi	19534
+MICRO ENTREPRENEURS	19878
 MICTPCS POTRAZ Entrepreneurs Private	958
 MINICOM Entrepreneurship	14997
 MINISTERE DES PETITES ET MOYENNES ENTREPRI	15999
@@ -1128,6 +1129,7 @@ TRES PETITES ENTREPRISES	16047
 Tableau des Opérations Financières des Entreprises	17945
 Target Women Entrepreneurs	12389
 Tarifação de Chamadas Internacionais de Entrada	18752,32
+Technology Innovation and Entrepreneurship Center	19885
 Telecommunications Entrance Room Provide	9123
 Terminaison des Appels Internationaux Entrants	18122
 Topics Pillar Ecosystem Platform Financial Entrepreneurship	15480

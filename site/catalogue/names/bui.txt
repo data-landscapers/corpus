@@ -147,7 +147,7 @@ Buijs	8436
 Buik Bu1	13524
 Buikwe	19641
 Buikwe and Lira	17552
-Build	110,286,393,110,101,161,96,7,513,37,174,561,226,829,522,68,240,94,223,213,17,221,42,2,36,9,149,73,20,147,1,355,5,17,12,49,313,66,105,229,115,1,65,26,112,458,142,299,133,471,316,145,122,162,67,186,43,74,16,292,11,69,444,113,132,19,27,72,42,1,10,114,3,6,9,7,32,7,51,29,2,33,46,112,77,312,9,39,17,64,104,61,24,35,4,27,74,41,2,1,25,15,1,53,59,82,80,1,51,185,61,24,41,172,101,2,2,11,22,71,53,35,246,186,199,45,171,88,125,85,23,60,13,5,66,61,43,13,12,11,19,20,37,25,31,32,8,34,80,98,69,69,70,3,160,132,115,17,489,248,134,5,5,2,7,9,51,9,3,4,6,1,1,16,8,10,26,7,19,33,29,2,15,23,18,23,80,104,30,145,330,1,99,69,1,331,106,4,1,48,35,6,5,2,334,10,28,570,1,55,10,61,18,15,122,46
+Build	110,286,393,110,101,161,96,7,513,37,174,561,226,829,522,68,240,94,223,213,17,221,42,2,36,9,149,73,20,147,1,355,5,17,12,49,313,66,105,229,115,1,65,26,112,458,142,299,133,471,316,145,122,162,67,186,43,74,16,292,11,69,444,113,132,19,27,72,42,1,10,114,3,6,9,7,32,7,51,29,2,33,46,112,77,312,9,39,17,64,104,61,24,35,4,27,74,41,2,1,25,15,1,53,59,82,80,1,51,185,61,24,41,172,101,2,2,11,22,71,53,35,246,186,199,45,171,88,125,85,23,60,13,5,66,61,43,13,12,11,19,20,37,25,31,32,8,34,80,98,69,69,70,3,160,132,115,17,489,248,134,5,5,2,7,9,51,9,3,4,6,1,1,16,8,10,26,7,19,33,29,2,15,23,18,23,80,104,30,145,330,1,99,69,1,331,106,4,1,48,35,6,5,2,334,10,28,570,1,55,10,61,18,15,122,46,13,50
 Build AI	7548
 Build AI Factory Powered	3049
 Build AI-specific	7548
@@ -403,6 +403,7 @@ Building Nam	10651
 Building National Fibre Networks	11500
 Building National ID	1344,1660
 Building National MPI	206
+Building National Technological Capacity	19904
 Building Nigeria's AI	10133
 Building Nigeria’s Digital Economy	9246
 Building Non-Oil Revenue Mobilization	3583
@@ -424,7 +425,8 @@ Building Permits	12389
 Building Policy and Financing Pathways for West African	16144,955,15
 Building Political Will	13608
 Building Political Will for Civil Registration	13608
-Building Project	119,8646,3,179
+Building Project	119,8646,3,179,10942
+Building Project Project ID	19855
 Building Psychological Safety	13532
 Building Public Confidence Through Responsible AI	8609
 Building Public Information Centers	16885
@@ -603,6 +605,7 @@ CAPACITY BUILDING IN BUSINESS MANAGEMENT	11586
 CAPACITY BUILDING Issue	14947
 CAPITAL EXPENDITURE Building	14736
 CAPITOL BUILDI G. CAPITOL HILL	16851
+CASH TRANSFER EXPANSION AND SYSTEMS BUILDING	19855
 CBL Building Digital Payment Infrastructure	12092
 CBR Unit Statistics Mauritius LIC Building	14840
 CBZ Bank EMPOWER BANK NATIONAL BUILDING	11002
@@ -681,6 +684,7 @@ Capacity Building and Content Development	395,563
 Capacity Building and Content Development Zimbabwe	395
 Capacity Building and Cooperation Conference	12866
 Capacity Building and Culture	14790
+Capacity Building and Digital Integration	19894
 Capacity Building and Education Pillar	4528,7984
 Capacity Building and Education Unit	4528,7984
 Capacity Building and Financial Literacy	14997
@@ -837,10 +841,11 @@ Did Kenya Build	6231
 Digital Boom Built	6212
 Digital Businesses Build	14897
 Digital Capacity Building	12241,3805
+Digital Capacity Building MCIT	19868
 Digital Capacity Building Programme	13080,15
 Digital Capacity Building for Government of Malawi	13080,15
 Digital Capacity Building for Youth Workers	16761,1,1,1,1,1,1
-Digital Egypt Builders Initiative	15713,333
+Digital Egypt Builders Initiative	15713,333,3822
 Digital Identity Capacity Building	13095
 Digital Registries Building Block	6423
 Digital Registries Building Block Specification	6423
@@ -1119,6 +1124,7 @@ Mgandane Dlodlo Building Cnr Simon V	13685
 Microsoft Build	6498
 Middle Powers Can Build Influence	5029
 Million Pan-African Data Centre Build-Out Programme	595
+Ministerie van Buitenlandse Zaken	19921
 Ministry of Finance Building Corso Street Shangani	8669
 Ministry of Peace Building South Sudan	18730
 Ministry of Sciences and Technology. XII. BUILDING	14853
@@ -1504,7 +1510,7 @@ West Africa. Building	17039
 WhatsApp Is Building	10672
 Work Plan and Budget BPO Build	1264
 Workplan Co-Creation Building	17196
-World Green Building Council	15578
+World Green Building Council	15578,4290
 XII. BUILDING THE ICT SECTOR	14853
 XXXX Building	19749
 Y2K Building	12642

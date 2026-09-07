@@ -324,7 +324,7 @@ Constante	7655
 Constantes	15564
 Constantin	15524,220
 Constantin Rusu	10714
-Constantine	7127,8305,24,11,101,34,130,15,116,70,10,142,86,59,114,5
+Constantine	7127,8305,24,11,101,34,130,15,116,70,10,142,86,59,114,5,3545
 Constantine Centre	16085
 Constantine. Art	15863,481
 Constantini	12333
@@ -442,7 +442,7 @@ Constituição. TÍTULO II DIREITOS	15344
 Constitute	12253
 Constitute the Strategic Plan Implementation Committee	13005
 Constituting	17157
-Constitution	3,8,6,8,3,85,195,105,16,156,2,160,1,51,100,59,11,1,2,238,4,17,53,63,283,112,95,1,146,109,24,190,205,3,16,16,52,27,100,1,9,39,31,2,197,53,168,157,13,105,82,127,4,147,181,85,79,15,140,1,1,57,1,107,39,21,9,156,360,28,1,31,71,289,40,280,19,122,128,183,82,56,45,27,12,61,24,54,205,36,93,176,67,204,1,10,12,24,44,10,147,87,50,87,159,6,34,60,10,252,30,9,34,135,94,1,61,62,1,19,1,4,79,14,22,198,26,169,246,93,56,42,78,1,24,1,51,1,57,25,5,137,32,22,35,8,62,19,123,133,62,17,36,10,46,1,4,15,35,32,141,49,31,2,3,5,38,1,1,2,1,6,2,3,3,5,10,5,2,6,6,15,2,14,1,3,7,5,3,5,1,3,128,47,87,7,22,12,15,11,32,12,129,5,5,10,1,1,31,10,14,32,5,2,41,8,20,1,9,7,16,45,41,18,32,1,5,10,24,3,13,25,6,21,40,1,8,17,8,10,12,23,38,102,16,3,15,2,1,7,24,39,32,1,9,7,103,8,112,1,11,6,1,2,2,2,2,2,2,7,1,2,7,7,24,2,15,46,7,57,123,28,1,38,1,4,2,5,8,4,5,1,1,1,2,1,17,8,2,3,19,4,12,16,15,2,22,5,14,9,2,5,14,2,4,4,3,62,66,6,21,26,13,9,2,1,11,5,13,42,62,3,31,46,14,3,8,7,3,10,5,31,20,48,1,28,12,14,1,82,14,16,41,18,6,103,1,1,6,6,2,7,4,14,9,1,1,4,5,24,7,24,13,6,3,15,5,28,16,63,41,1,5,2,20,6,3,9,30,22,27,8,5,9,1,1,2,5,6,15,2,14,11,8,101,75,46,29,84,50,29,21,5,3,2,2,3,6,1,10,7,5,5,3,3,2,2,3,6,2,8,5,15,5,5,4,34,18,8,9,5,4,9,6,3,19,3,6,5,1,1,11,24,4,17,18,3,4,16,2,19,3,2,17,3,13,18,2,68,15,102,3,5,4,24,19,1,59,5,14,76,2,26,7,37,16,8,2,94,3,11,4,162,21,6,42,1,8,9,113,34,49,10,1,6,4,1,6,29,15,24,17,8,7,14,1,126,15,10,104,68,34,34,24,39,14,7,4,4,29,7,34,8,32,52,12,26,89,82,14,20,2,26,45,16,20,33,60,37,1,4,13,36,53,79,5,2,12,5,13,4,44,15,43,5,1,1,1,20,2,4,4,1,9,42,37,39,1,1,1,7,1,55,41,38,57,87,4,1,4,4,23,10,112,59,36,1,23,21,26,4,6,2,58,152,60,22,7,6,6,10,30,13,1,17,19,7,2,1,10,5,16,53,22,35,42
+Constitution	3,8,6,8,3,85,195,105,16,156,2,160,1,51,100,59,11,1,2,238,4,17,53,63,283,112,95,1,146,109,24,190,205,3,16,16,52,27,100,1,9,39,31,2,197,53,168,157,13,105,82,127,4,147,181,85,79,15,140,1,1,57,1,107,39,21,9,156,360,28,1,31,71,289,40,280,19,122,128,183,82,56,45,27,12,61,24,54,205,36,93,176,67,204,1,10,12,24,44,10,147,87,50,87,159,6,34,60,10,252,30,9,34,135,94,1,61,62,1,19,1,4,79,14,22,198,26,169,246,93,56,42,78,1,24,1,51,1,57,25,5,137,32,22,35,8,62,19,123,133,62,17,36,10,46,1,4,15,35,32,141,49,31,2,3,5,38,1,1,2,1,6,2,3,3,5,10,5,2,6,6,15,2,14,1,3,7,5,3,5,1,3,128,47,87,7,22,12,15,11,32,12,129,5,5,10,1,1,31,10,14,32,5,2,41,8,20,1,9,7,16,45,41,18,32,1,5,10,24,3,13,25,6,21,40,1,8,17,8,10,12,23,38,102,16,3,15,2,1,7,24,39,32,1,9,7,103,8,112,1,11,6,1,2,2,2,2,2,2,7,1,2,7,7,24,2,15,46,7,57,123,28,1,38,1,4,2,5,8,4,5,1,1,1,2,1,17,8,2,3,19,4,12,16,15,2,22,5,14,9,2,5,14,2,4,4,3,62,66,6,21,26,13,9,2,1,11,5,13,42,62,3,31,46,14,3,8,7,3,10,5,31,20,48,1,28,12,14,1,82,14,16,41,18,6,103,1,1,6,6,2,7,4,14,9,1,1,4,5,24,7,24,13,6,3,15,5,28,16,63,41,1,5,2,20,6,3,9,30,22,27,8,5,9,1,1,2,5,6,15,2,14,11,8,101,75,46,29,84,50,29,21,5,3,2,2,3,6,1,10,7,5,5,3,3,2,2,3,6,2,8,5,15,5,5,4,34,18,8,9,5,4,9,6,3,19,3,6,5,1,1,11,24,4,17,18,3,4,16,2,19,3,2,17,3,13,18,2,68,15,102,3,5,4,24,19,1,59,5,14,76,2,26,7,37,16,8,2,94,3,11,4,162,21,6,42,1,8,9,113,34,49,10,1,6,4,1,6,29,15,24,17,8,7,14,1,126,15,10,104,68,34,34,24,39,14,7,4,4,29,7,34,8,32,52,12,26,89,82,14,20,2,26,45,16,20,33,60,37,1,4,13,36,53,79,5,2,12,5,13,4,44,15,43,5,1,1,1,20,2,4,4,1,9,42,37,39,1,1,1,7,1,55,41,38,57,87,4,1,4,4,23,10,112,59,36,1,23,21,26,4,6,2,58,152,60,22,7,6,6,10,30,13,1,17,19,7,2,1,10,5,16,53,22,35,42,40,20,16,5,27,11
 Constitution Amendment Bill No	12556
 Constitution Art	2456,2686
 Constitution Article	2456,16152
@@ -465,7 +465,7 @@ Constitution STRATEGIC OBJECTIVES	17364
 Constitution Section	13501,158
 Constitution Stricto	10826
 Constitution The Republic of Mauritius	14847
-Constitution and Article	13470,1342
+Constitution and Article	13470,1342,5062
 Constitution and Convention	6488
 Constitution and Law	11900
 Constitution and Legal Affairs NBC NECTA Ministry	19541
@@ -484,6 +484,7 @@ Constitution du Sénégal	18327
 Constitution of AFRINIC	585
 Constitution of AFRINIC. Eddy Kayihura Chief Executive	585
 Constitution of Advisory Committee	18883
+Constitution of Algeria	19874
 Constitution of Angola	10765,10
 Constitution of Board	12530,369
 Constitution of Botswana	12556
@@ -691,6 +692,7 @@ Constitutional Petition E095	8790
 Constitutional Petition No	3005,16721
 Constitutional Primacy	3861
 Constitutional Principles of Digital Rights	3861
+Constitutional Protection of Privacy	19895
 Constitutional Provisions	16951
 Constitutional Public Good RECOGNISING	3861
 Constitutional Questions	3861
@@ -709,6 +711,7 @@ Constitutional and Legal Authority for Enactment	3861
 Constitutional and Legal Authority for Enactment This Policy	3861
 Constitutional and Legal Framework	16943
 Constitutional and Legislative	16951,1019
+Constitutional and Legislative Foundations	19890
 Constitutional and Legislative Framework	14073,4857
 Constitutional and Political Doctrine	3861
 Constitutional and Political Doctrine Data	3861
@@ -1130,7 +1133,7 @@ Education Department of Kibamba Constituency	8884
 Education. Constitution	17970
 Edéa DIRECTION DE RAS CONSTRUCTION RAS	10975
 Edéa SOUS-DIRECTION DE CONSTRUCTION Construction	10975
-Egyptian Constitution	11079,4525,121,487
+Egyptian Constitution	11079,4525,121,487,3678,5
 Electoral Allocation of Seats Constituency City of Maputo	12201
 Electoral System The Constitution	12201
 Elena Constantinou	10073,4227
@@ -1387,6 +1390,7 @@ Legal Justice and Constitutional Rights	13391
 Legal and Regulatory Framework The Constitution	19646
 Legislation Constitution	8776
 Legislation On Data The Constitution of Liberia	5244
+Legislative and Constitutional Affairs Committee	19873
 Legislature. Construction Projects Behind Schedule	9650
 Legislação Constituição de Angola Códigos Leis Decretos	11358
 Lei Constitucional	10753,635,3956
@@ -1468,6 +1472,7 @@ Member of Parliament for Jang'ombe Constituency	19602
 Member of Parliament for Kavuu Constituency	19602
 Member of Parliament for Maswa West Constituency	19602
 Members of Parliament and Constituent	12641
+Mentouri Constantine University	19900
 Methodology Construction	17140
 Methula and Sithobelweni Constituencies	11131
 Mike Constable	13711

@@ -55,7 +55,7 @@ Clubs	15473,324,51,88
 Clubs TIC du Mali	17856
 Clubs UNESCO	13628
 ClustalW	9475
-Cluster	351,1370,24,2,30,5,18,33,3,10,254,534,179,70,578,114,10,61,25,173,147,867,38,13,100,504,231,126,553,1272,911,393,773,1240,203,50,320,281,120,51,3899,2508,41,27
+Cluster	351,1370,24,2,30,5,18,33,3,10,254,534,179,70,578,114,10,61,25,173,147,867,38,13,100,504,231,126,553,1272,911,393,773,1240,203,50,320,281,120,51,3899,2508,41,27,1350
 Cluster Administration	15936
 Cluster Advisory Group	13318
 Cluster Advisory Groups	13318
@@ -266,6 +266,7 @@ Service Cluster	18637
 Services Cluster	3583
 Shaping Systems. Harvard Club of New York	11138
 Shelter-NFI and CCCM Cluster	18659
+Sikka Club	19876
 Skill&Tell Club	10687
 Somalia Education Cluster	14896
 Sorbonne Cluster for Artificial Intelligence	16406

@@ -243,7 +243,7 @@ Automate GAC	17364
 Automate Interbank Transactions and Develop Digital	19829
 Automate Spectrum	5245
 Automate the Postal Clearance	13108
-Automated	28,543,649,876,578,977,210,1508,1063,10,496,852,340,306,360,711,274,1,107,381,69,211,295,285,3,5,41,428,332,13,3,1,30,225,22,156,160,102,268,10,1,29,83,279,1114,130,162,34,204,69,130,38,399,112,511,615,68,242,390,253,78,14,694,407,536,94
+Automated	28,543,649,876,578,977,210,1508,1063,10,496,852,340,306,360,711,274,1,107,381,69,211,295,285,3,5,41,428,332,13,3,1,30,225,22,156,160,102,268,10,1,29,83,279,1114,130,162,34,204,69,130,38,399,112,511,615,68,242,390,253,78,14,694,407,536,94,274
 Automated Assessment and Feedback	14812
 Automated Biometric	11986
 Automated Biometric Identification	11986
@@ -276,7 +276,7 @@ Automated Decision	7548
 Automated Decision Making	8436,3520
 Automated Decision Management System	17255
 Automated Decision Management System for Climate Services	17155,100
-Automated Decision-Making	7548,11008
+Automated Decision-Making	7548,11008,1339
 Automated Device	12185
 Automated Diagnosis Google	1363
 Automated Digital Devices	1988
@@ -300,6 +300,7 @@ Automated Large Amount System	16942
 Automated Legal Research and Legal Drafting Assistance	15713
 Automated Mandatory	11952
 Automated Metering Infrastructure	11265
+Automated National Civil Status Register	19900
 Automated National Standing Orders	18158
 Automated Payment	11955
 Automated Payment System Plus	3679
@@ -308,7 +309,7 @@ Automated Payment The POS	11955
 Automated Payments	15260
 Automated Platform	4283
 Automated Processing	13477
-Automated Processing Provides	10908
+Automated Processing Provides	10908,9014
 Automated Profiling and Targeting	12389
 Automated Public Counters	6946
 Automated Records Management Systems	12325
@@ -348,12 +349,13 @@ Automated Weather Station	18787
 Automated Weather System	15097
 Automated Wheel Chair	19565
 Automates	13678,3807
-Automatic	1243,2471,1018,944,756,2385,306,2086,731,15,256,22,1229,406,1041,243,561,1426,18,1152,203,1127,128
+Automatic	1243,2471,1018,944,756,2385,306,2086,731,15,256,22,1229,406,1041,243,561,1426,18,1152,203,1127,128,122
 Automatic Agro-Meteorological Stations	12728
 Automatic Call Distribution	16922
 Automatic Climate Stations	12728
 Automatic Credit and Debit Notes Management	12509
 Automatic Data Processing	972,12347
+Automatic Enrollment	19889
 Automatic Exchange of Customs Information	9745
 Automatic Exchange of Financial Account Information	11233
 Automatic Exchange of Information	11685,3143,3,2180
@@ -384,7 +386,7 @@ Automatic Weather Stations South Sudan	18673
 Automatic Weather Stations. Key Objectives	12728
 Automatically	9123,3296,2841,1897
 Automaticmapping	8606
-Automating	8436,409,392,1919,750,327,136,1633,3771
+Automating	8436,409,392,1919,750,327,136,1633,3771,2114
 Automating Data Capture KINGDOM	16631
 Automating Data Capture The Eswatini Revenue	16631
 Automating Inequality	11156
@@ -399,6 +401,7 @@ Automation Regional Support Centre CBRA Cross-Border	13042
 Automation Status Report	19541
 Automation and AI	14997
 Automation and Administrative Development	7203
+Automation and Artificial Intelligence	19900
 Automation and Control	9123
 Automation and Expansion	14985
 Automation and New Tasks	11140
@@ -1347,6 +1350,7 @@ Nación Ecuatoguineana. La Autoridad Tradicional	1701
 Nairobi Automated Clearing House	12286
 Nana Appiah Acquaye Autorité de Protection des Données	5547
 Nana Appiah Acquaye The Autorité de Régulation	5962
+National Automated Civil Status Register	19900
 National Crime Automated Biometric Identification System	11081
 National Criminal Automated Biometric Identification System	11062
 Nationale Autonome	10821

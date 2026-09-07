@@ -453,7 +453,7 @@ Forced Labor Any	1988
 Forced Labor Declaration	14576
 Forced Labor Gender-Based Violence	1988
 Forced Labor Performance Declaration	14576
-Forced Labour	1988,8771,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,2254,4910,1,169,14
+Forced Labour	1988,8771,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,2254,4910,1,169,14,22,1,65
 Forced Labour Absence of Crime Public Perception	10759,78,1315,188
 Forced Labour Convention	14011,731
 Forced Labour Public Perception of Inclusion	10759
@@ -569,7 +569,7 @@ III.2.11 SYSTÈMES DE GESTION LABORATOIRE Avec	13306
 ILFS Integrated Labor Force Survey IMF	19519
 ILO International Labour Organisation IMF International	15604
 ILO International Labour Organisation INT Instance	1818
-ILO International Labour Organization	11887,266,1,9,178
+ILO International Labour Organization	11887,266,1,9,178,7517,1
 ILO International Labour Organization IPF Investment	19239
 ILO’s Worst Forms of Child Labor Convention	16972
 IMPACT Lab Morocco INCO.org France Ingenious	15460
@@ -644,7 +644,7 @@ International Labour Organisation	6652,1807,3077,1386,467,951,402,90,1069,2912,1
 International Labour Organisation ILO Technical	19613
 International Labour Organisation. ILO	15604
 International Labour Organisation. Statistics	12376
-International Labour Organization	1264,4939,409,336,154,3215,512,12,123,5,48,123,16,102,22,292,140,172,11,99,165,46,150,132,491,82,97,298,10,430,43,329,361,114,32,259,961,195,769,976,1051,546,122,183
+International Labour Organization	1264,4939,409,336,154,3215,512,12,123,5,48,123,16,102,22,292,140,172,11,99,165,46,150,132,491,82,97,298,10,430,43,329,361,114,32,259,961,195,769,976,1051,546,122,183,26,3
 International Labour Organization Enterprise Formalization	10823
 International Labour Organization's Declaration	19531
 International Labour Organization. ILOSTAT	16384
@@ -734,7 +734,7 @@ LABOUR AND SOCIAL DEVELOPMENT Uganda	19685
 LABOUR AND SOCIAL WELFARE	13420
 LABOUR AND SOCIAL WELFARE APPROPRIATION ACCOUNT	13420
 LABOUR COURT	13504
-LABOUR ENVIRONMENT	10759,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135,7164,1,169,14
+LABOUR ENVIRONMENT	10759,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135,7164,1,169,14,22,1,65
 LABOUR ENVIRONMENT HEALTH Rank	10835
 LABOUR ENVIRONMENT INFRASTRUCTURE RURAL ECONOMY WOMEN’S	10837,1503
 LABOUR ENVIRONMENT Impartiality	10835,3,130,902,16,466,1,135,7334
@@ -851,7 +851,7 @@ Labone Limited	3386
 Labone Prestige Centre	11020
 Labont	3791
 Labonté R	3791
-Labor	1284,704,1616,7159,83,16,107,7,9,19,136,734,7,1,2,1,10,10,60,6,188,1,44,1,124,17,5,4,34,7,3,46,42,268,209,559,1374,100,88,433,35,48,659,124,449,93,9,37,24,4,11,32,56,149,4,1049,69,427,12,29,446,357,14,20,60,90,10,12
+Labor	1284,704,1616,7159,83,16,107,7,9,19,136,734,7,1,2,1,10,10,60,6,188,1,44,1,124,17,5,4,34,7,3,46,42,268,209,559,1374,100,88,433,35,48,659,124,449,93,9,37,24,4,11,32,56,149,4,1049,69,427,12,29,446,357,14,20,60,90,10,12,15,3
 Labor Act	16951
 Labor Cases	16949
 Labor Climate Change and Disaster Screening	11855
@@ -907,6 +907,7 @@ Labor Migration	5172
 Labor Ministry	18797,858
 Labor Organization IMF International Monetary Fund	16996
 Labor Payments for Microprojects	10964
+Labor Permits Department	19863
 Labor Policies and Practices	14008,2964,1825
 Labor Power	5366,52,1069,625,35,27
 Labor Protections	8629
@@ -1069,7 +1070,7 @@ Labour Digital Skill Development Methodology Programme	4359
 Labour Disruptions and Economic Impact	12210
 Labour Division	14742,28
 Labour Efficiency	2957,7758
-Labour Environment	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
+Labour Environment	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Labour Environment Infrastructure Rural Economy Health	10759
 Labour Environment Infrastructure Rural Economy Human	10837,1315,188
 Labour Environment Rank	11889
@@ -1099,10 +1100,12 @@ Labour Inspectorate Section.Verification	16843
 Labour Inspectors	14742
 Labour Institutions Act No	19531
 Labour Intensive Public Works	16600
-Labour Law	12101,193,4549
+Labour Law	12101,193,4549,3047,5
+Labour Law Articles	19895
 Labour Law National Forestry Reform Law	16843
 Labour Law. Figure	16921
 Labour Law. Participation	17114
+Labour Law. Permissible	19895
 Labour Laws	12597
 Labour MINALOC Ministry of Local Government NISR	14942
 Labour Management Measures	12253
@@ -1138,7 +1141,7 @@ Labour Organization IMB Information	17105
 Labour Organization IMF International Monetary Fund	10835,3,130,902,16,466,1,135,7334
 Labour Organization LAPF LAPF Pensions Fund	19531
 Labour Prioritise	12253
-Labour Relations	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Labour Relations	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Labour Relations Act	11182,98
 Labour Research SA	11986
 Labour Scarcity and Mechanization	14818
@@ -1312,6 +1315,7 @@ Ministry of Labor The Ministry	16975
 Ministry of Labor Work	17011
 Ministry of Labor and Employment	13312,2
 Ministry of Labor and Employment Promo	17101
+Ministry of Labor and Manpower	19855
 Ministry of Labor and Rehabilitation	11747
 Ministry of Labor and Rehabilitation Launch	17157
 Ministry of Labor and Skills	10709,3282,13,46,32,75
@@ -1460,6 +1464,7 @@ Oversight Lab Executive Director Mercy	5616
 Owl Innovation Labs	1857
 Owl Innovation Labs Owl Innovation Labs	12155
 PDO Area RA PDO Indicators Labor	17458
+PDPL and Labour Law	19890
 PHARMACY AND LAB SERVICES LIMITED Data	7167
 PHARMACY FINANCE LABORATORY OUTPATIENT MANAGEMENT CHRONIC	2709
 PITD Sector Manager Dorsaf LABIDI	13938

@@ -32,7 +32,7 @@ DATA SUBJECT'S STANDARD NOTICE TO ADDRESS	11956
 DATA SUBJECT'S VULNERABILITY INDEXES	11956
 DATA SUBJECTS RIGHTS	1333
 DATA SUBJECTS WHOSE PERSONAL DATA	2709
-Data Subject	27,485,1118,479,1752,3687,4408,229,117,702,372,5,1053,90,960
+Data Subject	27,485,1118,479,1752,3687,4408,229,117,702,372,5,1053,90,960,4411
 Data Subject Access	14524
 Data Subject Access Requests	14524
 Data Subject Consent	6792,5510
@@ -46,11 +46,13 @@ Data Subject's Vulnerability Index	11956
 Data Subject's Vulnerability Indexes	11956
 Data Subject's Vulnerability Indexes Schedule	11956
 Data Subject. IGAD REGIONAL HEALTH DATA	14434
-Data Subjects	11956,1425
+Data Subject. Mandatory	19895
+Data Subjects	11956,1425,6514
 Data Subjects Article	11956
 Data Subjects Rights	14524
 Data Subjects' Access Request	11956
 Data Subjects' Vulnerability Indexes	11956
+Data Subjects. Cross-Border Transfers	19895
 Data Subjects’ Rights	5603
 Date Subject	5679
 Delegations Subject	15001
@@ -68,6 +70,7 @@ Email Address Subject Message Submit Harare	12511
 Email Subject	8985
 Emploi Scheme Subject	14743
 Enable the Data Subject	15484
+Enabling Data Subjects	19895
 Equitable Menu of Subjects	18461
 European DFI. Subject	970
 European IFIs. Subject	970

@@ -458,7 +458,10 @@ NG O Asikana X Network FSD	12376
 Nikkei Asia	12376
 North Africa and West Asia	4807
 North America and Asia	8936,4596
-Northern Africa and Western Asia	10846
+Northern Africa And Western Asia	19862
+Northern Africa and Western Asia	10846,9019
+Northern Africa and Western Asia. Algeria	19865
+Northern Africa and Western Asia. Egypt	19862
 O TENRETNI AN ASIUQSEP	16325
 OSI M-HcI H-TII Asia Mauritania Middle	10840
 OSI M-HcI M-TII Asia Afghanistan	10840
@@ -578,7 +581,7 @@ UMc Japan Asia Eastern Asia Tokyo	10840
 UN Economic and Social Commission for Western Asia	14853
 UN Member States Africa Asia Europe	10840
 UN Member States Americas Africa Asia	10840
-UN South Asian	15627
+UN South Asian	15627,4303
 USAID Economic Growth Lead for Asia	9788
 United Nations Economic Commission for Asia	11572
 United Nations Economic Commission for Western Asia	11572

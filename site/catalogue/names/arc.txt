@@ -358,7 +358,7 @@ Archive Center	13624
 Archive Nationale des Données du Tchad	19204
 Archive Register	18440
 Archive Subscribe Now Desert Radio Podcast	11122
-Archived	2712,1976,1735,156,254,95,949,2993,41,484,593,240,39,173,284,303,31,801,51,6,1,3,136,924,37,14,128,576,2,342,626,289,6,79,17,374,35,399,54,48,127,217,4,1,179,258,25,165,101,159,7,232,348
+Archived	2712,1976,1735,156,254,95,949,2993,41,484,593,240,39,173,284,303,31,801,51,6,1,3,136,924,37,14,128,576,2,342,626,289,6,79,17,374,35,399,54,48,127,217,4,1,179,258,25,165,101,159,7,232,348,58
 Archived Articles	11220,21
 Archived DO Rating IP Rating Actual	15731
 Archived Documents	11220
@@ -371,6 +371,7 @@ Archives Actualité Mémoire de Yamoussoukro	9620
 Archives CEA	10975
 Archives Code	12325
 Archives Et Documentation Chef de Service	16099
+Archives House	19887
 Archives Publiques	4402
 Archives Technicien des Arts	17827
 Archives and Information Science	8022
@@ -425,6 +426,7 @@ Burkina Faso's ARCEP Launches National Drive	6939
 Burundi. ARCT	19645
 Business Architecture	14965
 C. Architecture	14759
+CAD Architecture	19852
 CALLYCHURN Rajnath Director Architecture Ministry	14770
 CAPÍTULO II DE LOS ARCHIVOS ELECTRÓNICOS	16855
 CAR ARCEP Electronic Communication and Postal Services	969
@@ -716,7 +718,7 @@ Integration Architect Principles	14441
 Integration Complexity Architecture Level Distributed	5665
 Integration DOA Digital Object Architecture DRC	718
 Internet Archive	439,10283,29,1,1,17,45,150,8,17,7924,32
-Internet Archive Wayback Machine	4165,7775,204,24,9,1,12,26,1,1,73,2388,964,1394,2717,67,2,11,3,6
+Internet Archive Wayback Machine	4165,7775,204,24,9,1,12,26,1,1,73,2388,964,1394,2717,67,2,11,3,6,9,5,27,23,26
 Internet Exchange Point ARCEP Autorité de Régulation	15592
 Interoperability Architecture	1009
 IoP Global Architecture	15518

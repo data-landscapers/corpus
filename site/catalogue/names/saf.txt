@@ -44,6 +44,7 @@ Adaptive Safety Nets and Economic Inclusion Project	10964,21,4797
 Adaptive Social Protection Adaptive Social Safety	10763
 Adaptive Social Safety Nets Project	18104
 Adaptive and Productive Social Safety Nets Project	15658
+Additional Safeguards	19895
 Addressing AI Safety and Security	1814
 Adequate Safeguards	11400
 Adequate Security Safeguards	1243
@@ -115,6 +116,7 @@ Bank Madagascar Safety Nets and Resilience Project	14553
 Bank Safeguard	15372,3515
 Bank's Climate Safeguards System	13938
 Bank's Integrated Safeguards System	13938
+Bank-financed Strengthening Social Safety Net Project	19855
 Banking Former Safaricom	3621,343,1408,102,1054
 Bank’s Integrated Safeguard System	11863
 Basic Safety Net System	17906
@@ -413,6 +415,7 @@ Formerly PRGF. Safeguards Assessment	13868
 Foundations Through the Safaricom and M-PESA Foundations	7204
 Four World Bank Safeguard	18887
 Framework EHSGs Environmental Health and Safety Guidelines	1988
+Framework for Safeguarding Personal Information	19890
 Framing Adaptive Safety Nets	10763
 Framing Adaptive Social Safety Nets	10763
 Frictionless Affordable Safe Timely Transactions	10977
@@ -816,6 +819,7 @@ PUBLIC HEALTH AND FOOD SAFETY INSPECTORATE	14773
 PUBLIC SAFETY AND SECURITY	14723,2160
 PUBLIC SAFETY AND SECURITY Safety	14723
 PUDARUTH Rajendra Safety and Health Officer	14770
+Partners Safa Rabea	19895
 Patient Information Safely	12458
 Patient Safety and Risk Management	3651
 Paul Safar	11572
@@ -977,7 +981,7 @@ SAFER	14622
 SAFER PATH FORWARD Regulated	13532
 SAFER. Résultat	14622
 SAFETTYRUST	14566
-SAFETY	10759,76,2,1,130,7,895,16,2,1,263,1,10,177,1,11,1,135,2078,1646,672,2768,1,169,14
+SAFETY	10759,76,2,1,130,7,895,16,2,1,263,1,10,177,1,11,1,135,2078,1646,672,2768,1,169,14,22,1,65
 SAFETY ACCOUNTABILITY	10837,1503
 SAFETY AND ENVIRONMENT OBLIGATIONS	15149
 SAFETY AND SECURITY	12984,96
@@ -1028,6 +1032,7 @@ SSN Social Safety Net SSP Social	15663
 STANBIC BANK’S INITIATIVE Safeguarding National Productivity	5247
 SaFES	12234
 Safa Korti	5159
+Safa Rabea	19890
 Safaarad	14930
 Safaaradaha	15153
 Safaaradda	15153
@@ -1036,7 +1041,7 @@ Safané	10875,4990
 Safané Mouhoun Boucle du Mouhoun	15715
 Safar	4403,255,10689,13,34,16,11,11,2,22,11,40,87,8,5,1,82,42,15,20,96,22,45,3,10,142,63,1,22,59,33,32,27,22
 Safard	17535
-Safari	3974,4947,55,4357,2603,693,2961
+Safari	3974,4947,55,4357,2603,693,2961,341
 Safari Chanel	19532
 Safari Lodge	4896
 Safari New Project	8571
@@ -1266,7 +1271,7 @@ Safer Digital Future Through Regional Cyber	13880
 Safer Internet Day	5551
 Safer Schools Programme	11285
 SaferAI	8014
-Safety	1554,434,689,1906,1082,928,200,245,509,1,424,171,570,410,78,245,409,24,880,4,72,2,1,118,7,1,4,17,19,13,33,81,3,4,18,37,48,9,19,256,53,7,270,2,13,16,1,1,1,13,54,8,98,90,1,1,9,90,87,1,11,1,14,108,13,697,53,82,65,2,262,424,349,172,142,16,131,38,106,54,57,11,425,84,187,367,569,67,36,16,26,8,8,172,146,646,198,82,31,141,12,60,46,159,287,8,49,258,338,77,1,77,16,3,73,14
+Safety	1554,434,689,1906,1082,928,200,245,509,1,424,171,570,410,78,245,409,24,880,4,72,2,1,118,7,1,4,17,19,13,33,81,3,4,18,37,48,9,19,256,53,7,270,2,13,16,1,1,1,13,54,8,98,90,1,1,9,90,87,1,11,1,14,108,13,697,53,82,65,2,262,424,349,172,142,16,131,38,106,54,57,11,425,84,187,367,569,67,36,16,26,8,8,172,146,646,198,82,31,141,12,60,46,159,287,8,49,258,338,77,1,77,16,3,73,14,22,1,43,22
 Safety Accountability	10837,1052,263,11,177,1,7312
 Safety Across	11585
 Safety Act	1988
@@ -1483,7 +1488,7 @@ Social Safety Net System Project	17849
 Social Safety Net System Project II	17904
 Social Safety Net The Social Safety	10812
 Social Safety Net Unit	18198
-Social Safety Nets	3604,7155,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,476,2555,144,68,1221,897,276,345,1182,1,169,14
+Social Safety Nets	3604,7155,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,476,2555,144,68,1221,897,276,345,1182,1,169,14,22,1,65
 Social Safety Nets Poverty Reduction Policies	10837,1315,188
 Social Safety Nets Project	14553,1048,57,855,447,297,2379
 Social Safety Nets Social	12964
@@ -1512,7 +1517,7 @@ Strengthening Financial Safety Nets	9571
 Strengthening Safety Net Administration	14553
 Strengthening Social Safety Net Project	15663
 Strengthening Social Safety Net Project URL	15663
-Strengthening Social Safety Nets Project	15519
+Strengthening Social Safety Nets Project	15519,4336
 Strengthening Social Safety Nets for Increased Efficiency	19455
 Strengthening the Adaptive and Scalable Safety Net System	18104
 Stress-testing AI Safety Across Africa's Languages	8204

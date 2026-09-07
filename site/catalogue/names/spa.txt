@@ -48,7 +48,7 @@ Airtel Africa Partners SpaceX	14674
 Airtel Africa and SpaceX	4581,4291,1160,52
 Airtel Madagascar and SpaceX	7299,9512
 Airtel and SpaceX	10032
-Algerian Space Agency	16331
+Algerian Space Agency	16331,3563
 Algérie Télécom Mobile SPA	15885
 Algérie Télécom Mobile Spa	15885
 Algérie Télécom Spa	15885,410
@@ -108,7 +108,7 @@ Citizen Generated Data and Spatial Data	19519
 Civic Space	12987
 Civic Space Monitor	9022
 Civic Space Open	12336
-Civil Society Space	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14
+Civil Society Space	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
 Close SpaceX	6467
 Closing Civic Space	1250
 Co-Working Spaces	14024
@@ -167,6 +167,7 @@ Economic Space Fourth	14829
 Economic Space Setting	14829
 Economy and Space	4676
 Egyptian Space Agency	19773
+Egyptian Spatial Data Infrastructure NSDI	19852
 Egypt’s Spatial and Land	15473
 Electricity Control Board Spark Newsletter	12399
 Elon Musk's SpaceX	1676,310,1067,164,148,48,2020,765,1058,8074
@@ -180,7 +181,7 @@ Establishing Space Industry Development Fund. Entering	1131
 Establishing the Kingdom of Eswatini Space Agency	13101
 Eswatini Inaugurates Space Science Indaba	13101
 Ethiopian Space Science and Geospatial Institute	14066
-European Space Agency	9816,3870,2338,1133,248
+European Space Agency	9816,3870,2338,1133,248,2469
 European Space Policy Institute	9816
 European Spatial Agency	16463
 Executive Director of Spaces for Change	2549
@@ -480,6 +481,7 @@ Revenue and Fiscal Space Revenue Structure	10997
 Rights Organizations Condemn Spate of Egyptian Journalist	15926
 Rural Behavior Sparse	4130
 Russian Space Agency	5886
+Russian and Spanish	19919
 Rwanda Space Agency	1043,860,3146,4495,1552
 Rwanda Space Agency Brochure.pdf	1903
 Rwandan Cyber Space	12333
@@ -529,6 +531,7 @@ SPARK	9270
 SPARKS	10991
 SPARKS-IT	10991
 SPARS	12768,5939
+SPATIAL DATA AND SERVICES	19852
 SPATIAL DATA INFRASTRUCTURE	18476
 SPATIAL DEVELOPMENT	17260
 SPATIAL DISTRIBUTION	14903
@@ -583,7 +586,7 @@ South Africans. SpaceX	5507,1318
 Southern Africa Development Community SDI Spatial	12907
 Spa Hotel	12649
 Spaau	16857
-Space	11,707,413,604,262,99,817,63,421,729,106,648,10,191,363,546,95,161,221,118,164,35,92,769,117,369,144,512,280,56,693,978,185,946,205,740,101,75,55,284,601,91,701,475,158,1061,565,742,545,874
+Space	11,707,413,604,262,99,817,63,421,729,106,648,10,191,363,546,95,161,221,118,164,35,92,769,117,369,144,512,280,56,693,978,185,946,205,740,101,75,55,284,601,91,701,475,158,1061,565,742,545,874,676
 Space Added Value SmartCane	19720
 Space Agencies	17405
 Space Agency of Côte	12133
@@ -775,14 +778,15 @@ Spartanforever1	12478
 Sparx Enterprise Architect	9124
 Spate	17043
 Spate Equipped Wetland	17043
-Spatial	7886,3350,39,711,347,574,343,1190,1153,122,644,557,80,47,217,610,606,428,47,503,200
+Spatial	7886,3350,39,711,347,574,343,1190,1153,122,644,557,80,47,217,610,606,428,47,503,200,198
 Spatial Action Areas NSDF National Spatial	11261
 Spatial Coverage Update Frequency License Access	15714
 Spatial Data	4653,12180,2071
 Spatial Data Analysts Beatrice K. Rwegoshora	19542
 Spatial Data Discovery	18904
-Spatial Data Infrastructure	427,10834,1770,2501,3372
+Spatial Data Infrastructure	427,10834,1770,2501,3372,948
 Spatial Data Infrastructure Act	1009,10187
+Spatial Data Infrastructure SUMMARY Current	19852
 Spatial Data Management	18904
 Spatial Data Management All	18904
 Spatial Data Repository	13300
@@ -807,6 +811,7 @@ Spatial Planning and Human Settlement	1513
 Spatial Planning and Land Use Management	11261
 Spatial Planning and Land Use Management Act	9676,4997
 Spatial Planning and Technologies	7548
+Spatial Portals	19852
 Spatial Transformation	11231
 Spatial-abductive AI	7573
 Spatiales	17983

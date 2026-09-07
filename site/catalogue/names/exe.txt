@@ -162,6 +162,7 @@ Budget Execution Reports	18825
 Budget Execution The Government of Sierra Lone	18488
 Bureau of Statistics and Census Executive Director’s Office	16863
 Burundi's Executive Secretary for ICT	2408
+Business Process Execution Language BPEL	19852
 C Serviço C SERVIÇOS CENTRAIS EXECUTIVOS	11379
 C. Doobaly Office Management Executive	14835
 C3. C5. Exemptions Own-use	17250
@@ -834,7 +835,7 @@ Executive Branch of Government	16835,86
 Executive Branch. For the LTA	14354
 Executive Branchof the Government	16833
 Executive Budget Proposal EFY	1783,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Executive Bureau	8645
+Executive Bureau	8645,11215
 Executive CIO	16872,103
 Executive Chairman	2827,668,3619,1474,3388,62,2635,2880,99,503,85
 Executive Chairman Chairman	11976
@@ -861,8 +862,8 @@ Executive Committee and Middle Management	11131
 Executive Committee. Article	15027
 Executive Committee. Smart IZI	11591
 Executive Committees CEMAC Economic and Monetary Community	2775
-Executive Compliance	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14
-Executive Council	961,282,4798,642,4225,274,103,848,1995,596,70,2762
+Executive Compliance	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65
+Executive Council	961,282,4798,642,4225,274,103,848,1995,596,70,2762,2366
 Executive Council Meeting	14794
 Executive Council of ASCON	7329
 Executive Council. H.E. Simeón Oyono Esono	8192
@@ -870,12 +871,12 @@ Executive Data Owners	15034
 Executive Dean	8142
 Executive Dean of SOST	13158
 Executive Decree	3685,7080,10
-Executive Decree No	3221,464,7090
+Executive Decree No	3221,464,7090,9125
 Executive Department	13532
 Executive Department CONFIDENCE	13532
 Executive Department FREQUENTLY ASKED QUESTIONS	13532
 Executive Digest	9990
-Executive Director	587,567,400,257,19,21,686,52,390,26,577,72,833,270,16,446,1567,150,101,28,233,22,1,137,387,6,6,257,142,34,397,25,18,23,14,202,11,61,225,151,364,14,469,213,152,100,402,3,15,136,397,124,169,63,135,127,86,75,459,31,8,149,10,332,27,204,60,345,48,252,349,33,43,1,12,199,508,116,105,227,851,3,8,196,18,13,2,29,104,101,7,39,559,81,263,210,60,67,10,55,55,113,709,83,14,1,1,35,16,30,18,54,10,1,7,8
+Executive Director	587,567,400,257,19,21,686,52,390,26,577,72,833,270,16,446,1567,150,101,28,233,22,1,137,387,6,6,257,142,34,397,25,18,23,14,202,11,61,225,151,364,14,469,213,152,100,402,3,15,136,397,124,169,63,135,127,86,75,459,31,8,149,10,332,27,204,60,345,48,252,349,33,43,1,12,199,508,116,105,227,851,3,8,196,18,13,2,29,104,101,7,39,559,81,263,210,60,67,10,55,55,113,709,83,14,1,1,35,16,30,18,54,10,1,7,8,44
 Executive Director Anderson Miamen	8955
 Executive Director Andrew Peters	4614,1767,3912,6700
 Executive Director Corporate Affairs Directorate	18463
@@ -1004,7 +1005,7 @@ Executive Mayor	11275
 Executive Members. The Chief Operating Officer	11131
 Executive Ministry of Health and Wellness	14773
 Executive Ministry of Tourism	14770
-Executive Office	10330,1523,883,1810,59,383,1859,25,103,164
+Executive Office	10330,1523,883,1810,59,383,1859,25,103,164,2729
 Executive Officer	6946,5030,2495
 Executive Officer Luvuyo Masinda	15875
 Executive Officer Marna Cloete	15952
@@ -1032,11 +1033,11 @@ Executive President	11738,4498,1486
 Executive President Millicent Kargbo	11634
 Executive Programme	16815
 Executive Protection Service	17367
-Executive Regulation	14072,1412,1418,14
+Executive Regulation	14072,1412,1418,14,2971
 Executive Regulation No	16902
 Executive Regulation of Law No	16916
 Executive Regulation. ARTICLE	15484
-Executive Regulations	3525,1457,9090,1321,80,11,8,1424,241
+Executive Regulations	3525,1457,9090,1321,80,11,8,1424,241,2738,15
 Executive Regulations Agriculture Lands	15473
 Executive Regulations No	4982
 Executive Regulations of Law	16916
@@ -1091,7 +1092,7 @@ Executive Services Traitement	10821
 Executive Sponsors	15034
 Executive Sponsorship	15034
 Executive Staff	18486
-Executive Summary	395,184,3,317,358,106,234,633,828,799,2,669,55,389,160,112,2,1,533,271,375,16,448,57,18,186,2877,690,45,12,1,65,15,121,153,6,52,7,14,50,12,274,7,1,19,268,69,97,42,103,31,32,19,8,56,31,28,20,8,27,101,21,126,4,254,4,14,43,27,71,4,15,71,146,2,45,23,36,2,123,432,2,10,29,1,73,374,8,94,181,28,44,36,21,19,2,19,16,32,22,78,56,43,1,56,24,203,33,98,51,34,50,247,912,4,79,20,10,11,47,71,2,80,39,634,440,152,24,3,43,46,1,34,5,3,11,71,65,20,117,138,500,15,14,68,3,5,45,10
+Executive Summary	395,184,3,317,358,106,234,633,828,799,2,669,55,389,160,112,2,1,533,271,375,16,448,57,18,186,2877,690,45,12,1,65,15,121,153,6,52,7,14,50,12,274,7,1,19,268,69,97,42,103,31,32,19,8,56,31,28,20,8,27,101,21,126,4,254,4,14,43,27,71,4,15,71,146,2,45,23,36,2,123,432,2,10,29,1,73,374,8,94,181,28,44,36,21,19,2,19,16,32,22,78,56,43,1,56,24,203,33,98,51,34,50,247,912,4,79,20,10,11,47,71,2,80,39,634,440,152,24,3,43,46,1,34,5,3,11,71,65,20,117,138,500,15,14,68,3,5,45,10,158,42
 Executive Summary Africa	3859
 Executive Summary Angola	10763
 Executive Summary Artificial	1814
@@ -1114,6 +1115,7 @@ Executive Summary Executive Summary Weather and Climate	11553
 Executive Summary For Namibia	12934
 Executive Summary Global	11136
 Executive Summary I. Introduction	10841
+Executive Summary In Algeria	19902
 Executive Summary Introduction Following	15629
 Executive Summary Kenya's Artificial Intelligence	12210
 Executive Summary LTA	16955
@@ -1156,6 +1158,7 @@ Executive Summary The Somalia PFM Reform	15147
 Executive Summary The South African Revenue	8670
 Executive Summary The Telecommunications	19728
 Executive Summary The UNDP Access	18615
+Executive Summary The Universal Health Insurance	19889
 Executive Summary The Women’s Empowerment and Nutrition	17127
 Executive Summary The Zambian	12376
 Executive Summary The Zimbabwe National Artificial	4528,7984
@@ -1251,6 +1254,7 @@ Exempt All	15058
 Exempted	736,13938
 Exempted Micro Enterprises	11209,31
 Exempteinon	19526
+Exempting the Citizen	19900
 Exemption	1220,657,238,594,1178,2545,3725,662,357,8,333,765,107,173,89,644,16,10,1089,25,159,119,149,18,201,259,133,1367,268,1329,29,90,40,523,397,10,297
 Exemption Certificate	12282
 Exemption Notice	5420
@@ -1548,6 +1552,7 @@ Limited Execution Capacity	17139
 LinkedIn NIRA Executive Director Rosemary Kisembo	9386
 Liquid Tanzania Chief Executive Officer	6746
 Local de Execução	11442
+Looking Ahead The Executive Regulations	19910
 Lsy Executive	15660
 Luanda O Executivo	5850
 Lusaka. Executive Summary Zambia	13365
@@ -1760,6 +1765,7 @@ PART VII EXEMPTIONS FROM PRINCIPLES	13321
 PART XIII EXECUTION OF DEEDS	19524
 PART XIV MISCELLANEOUS Exercise	12938
 PASCAL MORIN CHIEF EXECUTIVE OFFICER FINANCIAL	19049
+PDPL Executive Regulations	19890
 PGES DATA CENTER PRINCIPAL RESUME EXECUTIF	14489
 PGES DATA CENTER SECONDAIRE RESUME EXECUTIF	14488
 POSTE MONTANTS R01 CHARGES Exercice N-1	17833
@@ -2094,6 +2100,7 @@ Township Executive Officer	19525
 Township Executive Ofuficceer	19525
 Trade and Development Abbreviations Executive Summary	19639
 Trade and Industry Executive Summary	5247
+Training of Elected Officials and Executives	19900
 Transport Networks Executive Summary	2830
 Treasury THE MRA EXECUTIVE MANAGEMENT TEAM	13053
 U.S. Executive Order	6936

@@ -10,6 +10,7 @@ Account Number Type	11685
 Account Type	11685
 Actif Notice Type	13818
 Action Type Revised	19284
+Activity Type	19925
 Activity Type Total Account Opening	18576
 Additional Financing Type	11965,6844,475
 Address Types	11129
@@ -86,7 +87,7 @@ Choose the Disability Type	18470
 Classification Internationale Type	10874,6956,313,27
 Classification Internationale Type des Professions	14622
 Closing Type	4972
-Cloud Type	13062
+Cloud Type	13062,6798
 Colonne Type Description Exemple	747
 Combining Degree and Type	10726
 Communities Document Type	13669
@@ -95,6 +96,7 @@ Component Minimum Target Type Coverage Coverage	11952
 Conditions Type Citation Description Financing	1264,603,1737,2935,4229,649,143,345,3753,1,2,483,240,565,509,1781,6
 Conditions Type Effectiveness Financing	15553
 Conditions Type Financing	1284,9545,720,1783,3590
+Connection Types	19929
 Connection of Type Approved Term	18609
 Connection of Type Approved Terminals	18609
 Consulting Service Type	8726
@@ -296,6 +298,7 @@ Mankayane Facility Clients Type Male Female	12977
 Massive Machine Type Communications	5675
 Mauritania Type	17927
 May-2025. Review Type	11965
+Maya Tyrrell	19895
 Measure Type Details Proposed Responsible Party	17157
 Measure Type Details Responsible Party Operational	17157
 Media Type	1009,18661
@@ -882,6 +885,7 @@ Types of AI Machine Learning	4528
 Types of Audit Opinions	19585
 Types of Benefits Rwanda Realized	12457
 Types of Businesses	12342
+Types of Cloud Computing Platforms Cloud	19860
 Types of Company Information Available Online	12389
 Types of Data Shared	12389
 Types of Digital Taxes CATEGORY TYPE	14932

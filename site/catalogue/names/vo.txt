@@ -155,6 +155,7 @@ Body REGISTERED VOTERS PER POLLING STATION	13598
 Body VOTE	19689,54,1
 Body Volume	12530
 Boitumelo Motsemoholo Vodacom Lesotho	12766
+Bolster Transparency Ahead of July Legislative Vote	19908
 Bon Voyage Ltd Data Processor INST-619178AE0BA	7167
 Borrowed Voice	7777
 Brice Voltaire Etou Obami	6456,555
@@ -438,6 +439,7 @@ E05 Votre Coopérative	13390
 E06 Votre Coopérative	13390
 ECOWAS VOLUNTEERS FOR THREE YEARS	15825,1555
 ENASTIC Votre	18902
+ENERGY USES ON EXTRA HIGH VOLTAGE	19876
 ENFANTS VIVANTS INCLURE SEULEMENT VOS ENFANTS	13300
 ENHANCE VOLUNTARY TAX COMPLIANCE AND STRENGTHEN	17011
 EPF Remittance Voucher	14809
@@ -619,6 +621,7 @@ Gérez Mieux Votre Entreprise	10963,1,7140
 Għall-Unjoni Ewropea Voor de Europese Unie W	16843
 HAUTE. Volume	1679
 HCR. Vous	13360
+HIGH VOLTAGE ENERGY USES	19876
 HIGH for Volume	13990
 HUMAN CAPITAL DEVELOPMENT AND VOCATIONAL TRAINING	7167
 HV High Voltage IBRD Investment Bank	11549
@@ -725,7 +728,7 @@ International Voice Gateway	16886
 International Voice Traffic	15136,3308,1284
 International Voice Traffic International Incoming Voice	19728
 International Volunteer Day	16973
-Invalid Votes	12201
+Invalid Votes	12201,7656
 Invalid Votes Article	15393
 Invalid Votes Total Blank Votes	12201
 Inès Nefer Bertille VOUMBO YALO INGANI	15744,36
@@ -772,6 +775,7 @@ LE NUMÉRO DE LIGNE OÙ VOUS	13300
 LES TESTS POUR LESQUELS VOUS AVEZ	13300
 LESOTHO Government Gazette Vol	12653,13
 LOHATENY VOALOHANY FAMARITANA SY SEHA-PAMPIHARANA Andininy	14408
+LOW VOLTAGE ENERGY USES	19876
 LRD USD Value Vol Vol	17235
 LRD Value USD Vol Indicator LRD	17235
 LRD Value USD Vol USD	17235
@@ -828,6 +832,7 @@ M. Vodacom	733
 MALABO VOR	17006
 MB. Vodacom and Cell C	11259
 MB. Vodacom and Telkom Mobile	11259
+MEDIUM VOLTAGE ENERGY USES	19876
 MENTION DE LA SOURCE Vous	18086
 MEP Axel Voss	8692
 MERCI DE VOTRE AIMABLE ATTENTION	3381
@@ -1111,6 +1116,7 @@ Plataforma de Comunicação VoIP	11939
 Police Standing Orders Volume	13361
 Policy Vol	2096
 Pool des Transports Publics de Voyageurs	6901
+Population and Registered Voters	19857
 Por Volatilidad	4209
 Port Traffic Volumes	13868
 Postal and Courier Volumes	6000
@@ -1127,6 +1133,7 @@ Prepaid and Post-paid Voice Subscriptions and Market	2776
 Prepaid and Post-paid Voice Subscriptions and Market Share	2776
 Prepaid and Postpaid Mobile Voice Subscriptions	2776
 Prepaid and Postpaid Mobile Voice Subscriptions Prepaid	2776
+Presidency Results Voter Participation Cast Votes	19857
 Presidential Elections. The National Voters' Register	19737
 Principal Secretary Allain Volcere	18964
 Printing of Voter ID Card	18531
@@ -1212,7 +1219,7 @@ Register of Voters. IEBC	3936
 Register of Voters. Notice	18459
 Register of Voters. The IEBC	3936
 Registered Voter	7869
-Registered Voters	2775,7274,2152,824,573
+Registered Voters	2775,7274,2152,824,573,6259
 Registers of Voters	19049
 Registration of Voters	1630,10663,122,1086,158,5442
 Regulasiekoerant Vol	1009,10564,474
@@ -1644,7 +1651,7 @@ VPA FLEGT Voluntary Partnership Agreement Annex	16848
 VPA Vouchers	18230
 VRB Valuers Registration Board VTC Vocational	2775
 VTC Vocational	14922
-Valid Votes	12201
+Valid Votes	12201,7656
 Valid Votes Total Invalid Votes	12201
 Values and Volumes	12365
 Van Vollenhoven Institute	16916
@@ -1922,7 +1929,7 @@ Vogler	17780
 Vogue	4126
 Vohitsova-Antanimora	14560
 Voi-Mwatate-Taveta	14600
-Voice	34,202,346,136,44,24,409,901,432,360,974,36,727,107,301,135,152,201,579,289,282,207,68,84,121,458,518,281,39,13,147,120,26,61,185,8,116,658,1012,341,97,28,3,12,251,450,420,157,138,79,292,205,478,407,591,394,69,167,52,47,199,256,958,355,1058,157,31,230,1013
+Voice	34,202,346,136,44,24,409,901,432,360,974,36,727,107,301,135,152,201,579,289,282,207,68,84,121,458,518,281,39,13,147,120,26,61,185,8,116,658,1012,341,97,28,3,12,251,450,420,157,138,79,292,205,478,407,591,394,69,167,52,47,199,256,958,355,1058,157,31,230,1013,150
 Voice ARPU	4864
 Voice Bundles Data Bundles	19728
 Voice Call Traffic	2775
@@ -2145,7 +2152,8 @@ Voltamos	16528
 Voltar Canais de Atendimento Fale	1192
 Volts	12256
 Volts No Limit	12256
-Volume	579,157,1,52,220,275,1,1,393,25,67,57,35,125,724,64,347,1,1003,147,110,1,74,69,69,375,152,45,604,617,189,349,20,600,183,32,47,212,163,98,93,60,170,2106,2,66,199,106,55,170,221,26,39,311,9,39,1,47,172,71,6,45,28,70,117,35,160,89,182,66,9,94,160,17,1,6,16,2,18,47,28,19,37,34,277,166,15,543,33,35,33,79,123,44,117,26,73,42,242,44,23,20,13,26,62,105,34,226,66,231,19,73,5,1,303,74,132,6,58,34,61,22,122,69,26,22,181,10,200,132,63,19,23,60,118,36,187,23,9,157,279,10,17,19,22,120,5,4,12,258,74,247,112,6,52,3,13
+Volume	579,157,1,52,220,275,1,1,393,25,67,57,35,125,724,64,347,1,1003,147,110,1,74,69,69,375,152,45,604,617,189,349,20,600,183,32,47,212,163,98,93,60,170,2106,2,66,199,106,55,170,221,26,39,311,9,39,1,47,172,71,6,45,28,70,117,35,160,89,182,66,9,94,160,17,1,6,16,2,18,47,28,19,37,34,277,166,15,543,33,35,33,79,123,44,117,26,73,42,242,44,23,20,13,26,62,105,34,226,66,231,19,73,5,1,303,74,132,6,58,34,61,22,122,69,26,22,181,10,200,132,63,19,23,60,118,36,187,23,9,157,279,10,17,19,22,120,5,4,12,258,74,247,112,6,52,3,13,153,6,2
+Volume Based ADSL Silver	19929
 Volume CII	19629
 Volume CXIX	19769
 Volume CXVII	1844
@@ -2200,7 +2208,7 @@ Volume of Venture Capital Exits	4972
 Volume of Venture Capital Funds	4972
 Volume of Venture Deals	4972
 Volumen	10780,6095,23
-Volumes	579,391,2883,1119,4809,1469,571,179,256,13,1,69,151,479,3358,516
+Volumes	579,391,2883,1119,4809,1469,571,179,256,13,1,69,151,479,3358,516,3058
 Volumes I and II	14777
 Volumes II and III	14777
 Volumes Values	12252
@@ -2315,7 +2323,7 @@ Vote-39-Home-Affairs.pdf	4495
 Vote-Counting	15393
 Vote. This Ministry	12984
 Voted	12389,1031
-Voter	1630,51,42,258,3286,501,1498,656,636,832,255,404,665,98,1052,249,88,87,62,28,37,590,243,170,709,725,2287,280,1040,146,496,136,304,264
+Voter	1630,51,42,258,3286,501,1498,656,636,832,255,404,665,98,1052,249,88,87,62,28,37,590,243,170,709,725,2287,280,1040,146,496,136,304,264,52
 Voter Article	15393
 Voter Card Information	11864
 Voter Card The Reciprocity Schedule	11864
@@ -2361,6 +2369,7 @@ Voter Registration Strategy	12756
 Voter Registration Task	18449
 Voter Registration UNDP Sierra Leone Freetown	18531
 Voter Registration Weekend	8558
+Voter Turnout	19857
 Voter Turnout Database. Retrieved	10714
 Voter Validation	13248
 Voter Verification Kits	18531
@@ -2387,7 +2396,7 @@ Voting and Support Agreement	7198
 VotingRegressor	17157
 VotingThe Chairperson	14449
 Voto de Pesar	15477
-Votre	747,1855,990,66,8,1388,962,259,145,154,253,127,431,954,2062,425,843,1631,75,15,3,131,1013,304,558,215,131,52,22,542,69,190,9,15,102,840,287,140,8,65,71,31,188,51,5,476,85,208,301
+Votre	747,1855,990,66,8,1388,962,259,145,154,253,127,431,954,2062,425,843,1631,75,15,3,131,1013,304,558,215,131,52,22,542,69,190,9,15,102,840,287,140,8,65,71,31,188,51,5,476,85,208,301,414
 Votre Garant	17462
 Votre Majesté	8891
 Voucher	10931,2579,1435,535

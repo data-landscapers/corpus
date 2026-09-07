@@ -120,6 +120,7 @@ Bata. Esta	17387
 Bidders. C.3. Documents Establishing Bidder’s Eligibility	14778
 Bilhete de Identidade. Esta	10772
 Bilhete de Identidade. Estado	10751
+Biometric National Identity Card Established	19900
 Biométricos Esta	11480
 Bissau. Esta	11569
 Board. Establishment	3887
@@ -532,6 +533,8 @@ Economia Ministro de Estado	7166
 Editeur Instituto Nacional de Estatística Largo	18757
 Edição Instituto Nacional de Estatística Avenida	4044,7377
 Egypt National Health Accounts. Establishing	15725
+Egypt's Real Estate Wealth Management System	19918
+Egyptian Real Estate Platform	19892
 Egyptian Tax Authority’s Real Estate Transactions	10448
 Egypts real estate	15473
 Egypt’s Real Estate Market	15473
@@ -615,7 +618,7 @@ Establecimiento	1701,15154,43,91,62,38,82,54
 Establecimiento Permanente	16855
 Establecimientos	16898
 Establecimientos Turísticos	4209
-Establish	395,1,544,18,3,1,38,9,122,30,43,60,116,397,37,14,57,103,223,248,218,281,31,524,70,17,14,37,475,41,35,12,314,82,238,133,263,421,11,1,456,253,46,4,6,74,278,38,54,50,11,1,3,152,163,272,10,27,21,52,273,263,1215,351,105,84,218,118,448,40,2,10,37,7,10,156,22,124,2,1,2,4,9,47,2,18,6,15,15,13,11,276,1,301,3,6,42,1,32,2,12,26,8,12,151,36,8,2,6,9,4,13,6,7,1,5,43,13,21,33,2,1,17,8,15,20,25,9,4,51,4,51,11,100,1,11,148,83,18,29,13,28,75,215,15,4,6,26,11,24,37,43,220,23,234,49,4,31,127,57,228,7,25,37,63,35,73,49,15,9,4,26,3,32,6,1,60,10,8,25,13,8,4,11,7,32,30,7,96,17,17,80,32,66,131,7,208,25,12,120,94,21,17,211,386,259,2,6,7,3,1,1,10,4,5,36,7,11,1,12,3,5,4,1,8,3,8,4,8,2,26,6,1,25,25,31,6,9,2,23,18,23,11,69,36,68,3,27,140,161,175,14,66,355,49,16,76,24,2,4,1,3,1,48,2,1,32,11,53,257,18,28,18,251,34,5,3,277,1,11,1,2,8,33,9,18,31,13,18,3,10,65,59,6,16,12
+Establish	395,1,544,18,3,1,38,9,122,30,43,60,116,397,37,14,57,103,223,248,218,281,31,524,70,17,14,37,475,41,35,12,314,82,238,133,263,421,11,1,456,253,46,4,6,74,278,38,54,50,11,1,3,152,163,272,10,27,21,52,273,263,1215,351,105,84,218,118,448,40,2,10,37,7,10,156,22,124,2,1,2,4,9,47,2,18,6,15,15,13,11,276,1,301,3,6,42,1,32,2,12,26,8,12,151,36,8,2,6,9,4,13,6,7,1,5,43,13,21,33,2,1,17,8,15,20,25,9,4,51,4,51,11,100,1,11,148,83,18,29,13,28,75,215,15,4,6,26,11,24,37,43,220,23,234,49,4,31,127,57,228,7,25,37,63,35,73,49,15,9,4,26,3,32,6,1,60,10,8,25,13,8,4,11,7,32,30,7,96,17,17,80,32,66,131,7,208,25,12,120,94,21,17,211,386,259,2,6,7,3,1,1,10,4,5,36,7,11,1,12,3,5,4,1,8,3,8,4,8,2,26,6,1,25,25,31,6,9,2,23,18,23,11,69,36,68,3,27,140,161,175,14,66,355,49,16,76,24,2,4,1,3,1,48,2,1,32,11,53,257,18,28,18,251,34,5,3,277,1,11,1,2,8,33,9,18,31,13,18,3,10,65,59,6,16,12,17,48,6
 Establish A Comprehensive Data Governance Framework	15713
 Establish AI	4528,3020,4662,302,3201
 Establish AI Centers of Excellence	4528,7984
@@ -800,7 +803,7 @@ Establish the South African	396
 Establish the TRS Data Dictionary	17367
 Establish the Zanzibar Civil Registration Agency	11133
 Establish-	11976
-Established	40,167,699,340,102,379,261,1364,231,1067,13,27,860,688,152,78,256,160,62,253,247,475,252,28,1,49,76,32,113,363,294,294,193,814,267,4,33,174,56,68,101,5,164,618,294,27,40,56,52,30,38,119,98,55,242,34,48,559,12,54,335,264,378,105,119,118,11,54,95,7,61,37,6,143,108,144,50,47,326,126,640,20,12,1,64,17,5,4,18,3,192,69,107,65,529,13,507,34,122,13,99,2,250,587,85,76,20,72
+Established	40,167,699,340,102,379,261,1364,231,1067,13,27,860,688,152,78,256,160,62,253,247,475,252,28,1,49,76,32,113,363,294,294,193,814,267,4,33,174,56,68,101,5,164,618,294,27,40,56,52,30,38,119,98,55,242,34,48,559,12,54,335,264,378,105,119,118,11,54,95,7,61,37,6,143,108,144,50,47,326,126,640,20,12,1,64,17,5,4,18,3,192,69,107,65,529,13,507,34,122,13,99,2,250,587,85,76,20,72,52,32
 Established Businesses Seeking Capital for Expansion	12495
 Established DRM Centre	19520
 Established Digital	14897
@@ -831,7 +834,7 @@ Establishes the APDP	3713
 Establishes the Axiz	5965
 Establishes the EPA	17114
 Establishes the Office	12302
-Establishing	21,374,545,60,264,99,10,226,178,1,210,13,92,14,162,190,52,120,144,183,122,184,504,399,18,254,409,233,469,24,101,2,270,991,10,761,365,16,185,941,400,486,661,1,4,11,6,44,5,299,93,337,184,74,45,7,47,7,114,134,39,14,5,8,14,2,7,3,109,19,4,22,69,133,15,25,11,1,238,4,60,59,34,10,15,90,66,62,45,18,12,7,117,321,35,48,22,53,260,190,7,118,108,49,29,9,16,41,36,6,19,9,19,14,1,13,30,6,16,10,37,68,20,42,7,115,107,31,23,71,60,26,25,30,4,50,192,26,669,152,91,20,4,5,12,1,30,1,47,12,21,69,27,24,41,100,3,145,106,373,486,86,21,10,25,17,2,1,32,29,14,9,68,1,105,35,86,39,35,23,229,8,39,171,64,3,12,21,20,64,7,18,32,105,34
+Establishing	21,374,545,60,264,99,10,226,178,1,210,13,92,14,162,190,52,120,144,183,122,184,504,399,18,254,409,233,469,24,101,2,270,991,10,761,365,16,185,941,400,486,661,1,4,11,6,44,5,299,93,337,184,74,45,7,47,7,114,134,39,14,5,8,14,2,7,3,109,19,4,22,69,133,15,25,11,1,238,4,60,59,34,10,15,90,66,62,45,18,12,7,117,321,35,48,22,53,260,190,7,118,108,49,29,9,16,41,36,6,19,9,19,14,1,13,30,6,16,10,37,68,20,42,7,115,107,31,23,71,60,26,25,30,4,50,192,26,669,152,91,20,4,5,12,1,30,1,47,12,21,69,27,24,41,100,3,145,106,373,486,86,21,10,25,17,2,1,32,29,14,9,68,1,105,35,86,39,35,23,229,8,39,171,64,3,12,21,20,64,7,18,32,105,34,25,27,17
 Establishing AI	4609
 Establishing Belarus Kyrgyzstan T2 Advancing Azerbaijan	10764
 Establishing CAPs	12973
@@ -889,7 +892,7 @@ Establishing the Office	17037
 Establishing the Somali National Meteorological Agency	15037
 Establishing the Startup Policy	19534
 Establishing the ZDSR	11142
-Establishment	11,370,14,1,191,353,21,170,89,8,15,21,290,183,77,174,1449,146,131,147,26,315,199,127,82,43,362,229,431,2,2,454,795,10,441,47,112,10,284,130,126,593,989,185,302,564,47,365,46,2,4,279,53,69,265,55,10,8,52,10,211,43,1,61,87,30,93,16,3,4,7,55,46,1,1,6,10,13,27,61,127,5,1,4,1,1,4,1,2,8,34,12,9,16,18,19,13,43,15,94,98,1,7,10,12,5,41,18,22,58,145,343,3,3,1,35,19,14,103,282,1,12,27,44,31,51,19,5,2,46,95,1,7,11,12,77,4,13,13,9,2,16,5,14,6,33,32,20,68,17,18,129,91,119,119,23,3,54,1,54,47,319,133,20,204,262,137,1,7,5,2,34,3,15,13,7,2,2,1,9,11,4,42,3,15,10,34,44,58,23,187,74,172,2,269,22,52,4,339,58,11,82,5,1,4,5,3,10,1,7,41,12,55,2,1,1,1,1,3,281,2,46,16,32,3,78,1,97,12,72,39,41,190,1,3,2,4,1,1,6,1,23,7,62,3,1,1,3,8,76,117
+Establishment	11,370,14,1,191,353,21,170,89,8,15,21,290,183,77,174,1449,146,131,147,26,315,199,127,82,43,362,229,431,2,2,454,795,10,441,47,112,10,284,130,126,593,989,185,302,564,47,365,46,2,4,279,53,69,265,55,10,8,52,10,211,43,1,61,87,30,93,16,3,4,7,55,46,1,1,6,10,13,27,61,127,5,1,4,1,1,4,1,2,8,34,12,9,16,18,19,13,43,15,94,98,1,7,10,12,5,41,18,22,58,145,343,3,3,1,35,19,14,103,282,1,12,27,44,31,51,19,5,2,46,95,1,7,11,12,77,4,13,13,9,2,16,5,14,6,33,32,20,68,17,18,129,91,119,119,23,3,54,1,54,47,319,133,20,204,262,137,1,7,5,2,34,3,15,13,7,2,2,1,9,11,4,42,3,15,10,34,44,58,23,187,74,172,2,269,22,52,4,339,58,11,82,5,1,4,5,3,10,1,7,41,12,55,2,1,1,1,1,3,281,2,46,16,32,3,78,1,97,12,72,39,41,190,1,3,2,4,1,1,6,1,23,7,62,3,1,1,3,8,76,117,25,14
 Establishment ARTICLE	14409
 Establishment Agreement of Afreximbank	7785
 Establishment Births	19245
@@ -908,7 +911,7 @@ Establishment Marriage Grant	16902
 Establishment Nationwid X X X X	15845
 Establishment Of The National Computer Incident	2256
 Establishment Posts	17116
-Establishment Proclamation	12890,1166
+Establishment Proclamation	12890,1166,5877
 Establishment Proclamation No	13952
 Establishment Proclamation URL	13952
 Establishment Proclamation Whereas	13952
@@ -1805,6 +1808,7 @@ Ministro de Estado de Seguridad Nacional	16990
 Ministro de Estado de Transportes	17377
 Ministro. Estado	15526
 Ministry of Homeland Security. Established	12291
+Ministry of Justice and Real Estate Taxation Department	19852
 Ministry of Justice’s Real Estate Registry and Notarization	16480
 Ministry of Posts Established and Q4	1777
 Ministry. Established	16970
@@ -1847,6 +1851,7 @@ National Estate and Land Agency	10818
 National ICT Policy Establish	17011
 National IP Peering Exchange Establishment and Peering	19718
 National Public Establishment	10948
+National Real Estate ID Law	19892
 National Revenue Authority Establishment Bill	15235
 Network Towers Establishment of Social Housing Units	15578
 Networks Establishment	15578
@@ -2119,20 +2124,25 @@ Real Estate Education Health Other Ser-	2775
 Real Estate Finance Law No	15473
 Real Estate Investment Division	15473
 Real Estate Investment Trust	6152
+Real Estate Market	19852
+Real Estate Publicity	19852
 Real Estate Publicity Antiquities	15473
 Real Estate Publicity Department RETA Real	15473
+Real Estate Publicity and Notarization Department	19852
 Real Estate Registration Authority	16916
 Real Estate Registration Authority and State Property	16916
 Real Estate Registration Authority and Survey Department	16916
+Real Estate Registration Law No	19918
 Real Estate Registration and Notarization Authority	16480
 Real Estate Registration and Notarization Sector	9828
-Real Estate Registry	16916
+Real Estate Registry	16916,3002
 Real Estate Registry and Notarization Complex	16480
 Real Estate Survey	2775
 Real Estate Tax	15473
 Real Estate Tax Authority	15473
 Real Estate Tax Law No	15473
 Real Estate Taxation Authority	15473
+Real Estate Taxation Department	19852
 Real Estate Technology and Sustainability Fund	4972
 Real Estate Transactions	10448
 Real Estate and Housing Fund	15924
