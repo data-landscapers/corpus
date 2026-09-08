@@ -3,9 +3,9 @@ title: Somalia — monthly update, August – September 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 place: SOM
-ledger_rows: 24
+ledger_rows: 25
 not_held: 1
-record: 1c56c817d867
+record: 0ae5b543b847
 ---
 
 # Somalia: monthly update, August – September 2026
@@ -42,7 +42,9 @@ The auditor general's office and a partner supreme audit institution [completed 
 ### Public debate and participation in policymaking
 
 <!-- narrative: governance--gov-discourse -->
-A former prime minister published an argument that [the country cannot afford another term of lost wealth](https://www.dawan.africa/news/khaire-somalia-cannot-afford-another-term-of-lost-wealth-op-ed). It is a signed opinion on resource governance rather than a policy position, and it carries no digital component of its own. It is held because public argument of this kind is otherwise absent from this ledger, and the absence is itself the finding: a base that records instruments and no debate about them cannot show a reader where the pressure on those instruments comes from.
+The state gave a number for what it removes from the internet. On 3 September the information ministry's director general said the federal government had [closed 82,000 social media pages during 2026 that it alleges carried armed-group propaganda, across Facebook, TikTok and Telegram, with the count still rising](https://www.hiiraan.com/security4/2026/Sep/206174/somali_government_closes_82000_extremistlinked_social_media_pages_in_2026.aspx), placing the removals as the ideological front of a counter-terrorism strategy alongside its military and economic ones. The count, the platforms and the attribution are the ministry's; no legal basis, appeal route, oversight mechanism or platform confirmation was stated.
+
+Separately, a former prime minister published an argument that [the country cannot afford another term of lost wealth](https://www.dawan.africa/news/khaire-somalia-cannot-afford-another-term-of-lost-wealth-op-ed). It is a signed opinion on resource governance rather than a policy position, and it carries no digital component of its own.
 <!-- /narrative -->
 
 ## ICT Infrastructure
