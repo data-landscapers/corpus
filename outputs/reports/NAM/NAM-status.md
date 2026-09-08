@@ -6,7 +6,7 @@ region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 6
-sources_cited: 129
+sources_cited: 130
 sections_written: 37
 not_established: 2
 acquire_lines: 45
@@ -303,7 +303,7 @@ Knowledge production in this field is concentrated in the tertiary sector rather
 
 Namibia's oldest cash transfer reaches almost everyone it targets and its newest a seventh of them: the [Old Age Grant covered about 97% of its target population, the Disability and Vulnerable Children's grants about 75% each, and the Conditional Basic Income Grant about 14% of targeted households](https://sdgs.un.org/sites/default/files/2024-06/MINIST~1.PDF) (2024).
 
-What separates them at the counter is a document. A [national identity document is mandatory for a grant, and beneficiaries are re-verified against the population register — pensioners whose identities could not be matched had payments stopped until they produced one](https://www.namibian.com.na/system-says-no-to-hungry-pensioners/) (2026). The constraint sits at handover rather than production: much of what the ministry printed in the fifteen months to June 2026 was [never collected](https://neweralive.na/ministry-takes-id-registration-to-khomas-schools/), and [Namibians' reported experience of obtaining an identity document has deteriorated sharply over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf) (2023).
+Assessment and access are being digitised: in September 2026 the Vice-President set out [new guidelines and digital systems for disability assessment and access to the disability grant](https://www.namibiansun.com/local-news-we/grant-system-goes-digital-to-better-serve-disabled-namibians-nmh017539-1-21681), presented as removing barriers and delivering faster and more accountable service; no system name, supplier, timetable or accessibility standard accompanies it (2026). What separates them at the counter is a document. A [national identity document is mandatory for a grant, and beneficiaries are re-verified against the population register — pensioners whose identities could not be matched had payments stopped until they produced one](https://www.namibian.com.na/system-says-no-to-hungry-pensioners/) (2026). The constraint sits at handover rather than production: much of what the ministry printed in the fifteen months to June 2026 was [never collected](https://neweralive.na/ministry-takes-id-registration-to-khomas-schools/), and [Namibians' reported experience of obtaining an identity document has deteriorated sharply over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf) (2023).
 
 Eligibility is drawn by status too: [permanent residents hold pink identity cards and refugees yellow ones, while non-nationals staying less than a year, including temporary work-permit holders, cannot hold one at all](https://unstats.un.org/legal-identity-agenda/documents/Paper/2023/CRVSID-Namibia.pdf) (2024). Refugees reach digital money by another route — [UNHCR paid cash assistance to around 6,000 people at the Osire settlement through MTC's mobile money service](https://namibia.un.org/en/289948-cash-based-interventions-provide-ray-hope-refugees-namibia-amid-severe-drought-and-funding) (2025), as humanitarian aid rather than ordinary account access.
 
